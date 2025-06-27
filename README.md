@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 19:06:42 GMT | Bypassing CSRF Token Validation Techniques | musayyab sharif | [Read More](https://medium.com/p/33d79004fc6b) |
+| Fri, 27 Jun 2025 18:58:51 GMT | Breakdown of Osascript in Atomic Stealer Malware | agastya rz | [Read More](https://medium.com/p/a0dce660ca75) |
+| Fri, 27 Jun 2025 18:43:12 GMT | "الهندسة الاجتماعية: كيف يخدعك المخترقون قبل اختراق أجهزتك؟"
+"Social Engineering: How Hackers Trick… | Najm Al-deen - نجم الدين اليوسفي | [Read More](https://medium.com/p/553fec39dcd6) |
+| Fri, 27 Jun 2025 18:42:53 GMT | The Cost of Toxic Beauty Content is Greater Than We Think | Savvy Cyber Kids | [Read More](https://medium.com/p/f8b2b497b74b) |
+| Fri, 27 Jun 2025 18:42:11 GMT | Rising Cyberattacks in the Insurance Sector: Lessons from the Aflac Breach and How Companies Can… | Chetan Seripally | [Read More](https://medium.com/p/efecfd1e3175) |
+| Fri, 27 Jun 2025 18:42:11 GMT | Exposure of Internet Dangers to Young Children | Savvy Cyber Kids | [Read More](https://medium.com/p/939cf3a12482) |
+| Fri, 27 Jun 2025 18:41:32 GMT | Parents: What You Should Know About the Surgeon General’s Advisory on Social Media | Savvy Cyber Kids | [Read More](https://medium.com/p/643d3168b6c6) |
 | Fri, 27 Jun 2025 18:39:00 GMT | From Boredom to Bug: How One Backslash Broke the Entire Site | Ramshath | [Read More](https://medium.com/p/8317d6007a16) |
 | Fri, 27 Jun 2025 18:37:38 GMT | HTB: Validation (Askia DeLarge) | Askia DeLarge | [Read More](https://medium.com/p/5e9ae6770e47) |
 | Fri, 27 Jun 2025 18:31:52 GMT | Alert ! Your are the next Target !!! | James Walker | [Read More](https://medium.com/p/4193c215b14a) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 13:21:04 GMT | Information Technology Colleges in Bangalore | Jahnavi Desai | [Read More](https://medium.com/p/aaadd0c27ca2) |
 | Fri, 27 Jun 2025 13:12:12 GMT | Top 10 IT Trends That Will Shape the Future of Technology in 2025 | DigitalConfex | [Read More](https://medium.com/p/28e651f02217) |
 | Fri, 27 Jun 2025 13:10:29 GMT | List Of Retirement communities in United States | shobha. rentechdigital | [Read More](https://medium.com/p/632d8cd95d89) |
-| Fri, 27 Jun 2025 13:08:07 GMT | Chef InSpec: Transform Your Infrastructure Governance into Code | Franck Reant | [Read More](https://medium.com/p/c59474f804ef) |
-| Fri, 27 Jun 2025 13:04:49 GMT | 7 High-Profile Cyber Attacks and the Vulnerabilities Behind Them | Sammcmullen | [Read More](https://medium.com/p/ac8de34c0837) |
-| Fri, 27 Jun 2025 13:03:06 GMT | Corridor | Kostas Ereksonas | [Read More](https://medium.com/p/b27451bf7236) |
-| Fri, 27 Jun 2025 13:02:54 GMT | AI What ??? The Industry’s Expensive Addiction to Explaining Its Own Failure | secops.ai | [Read More](https://medium.com/p/d67c5bb714eb) |
-| Fri, 27 Jun 2025 13:01:13 GMT | ️ “My Business makes $5M in Revenue — Why Do I Need $10M in Cyber Coverage?” | Alliance Risk | [Read More](https://medium.com/p/61750c3bf275) |
-| Fri, 27 Jun 2025 13:01:11 GMT | Bridging SOC and DevSecOps with Peris.ai’s AI-Powered Automation Layer | Peris.ai Cybersecurity | [Read More](https://medium.com/p/87b1d56778f7) |
-| Fri, 27 Jun 2025 13:01:07 GMT | Abnormal Behavior Clustering × Blacklist Propagation Detection:
- Enhancing On-Chain Compliance and… | Haysen Lin | [Read More](https://medium.com/p/1fbfe99480fc) |
