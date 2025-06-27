@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 12:33:26 GMT | picoCTF Web Exploitation: IntroToBurp (easy) | Hussein Gaweesh | [Read More](https://medium.com/p/16fb1fe53e39) |
+| Fri, 27 Jun 2025 12:31:52 GMT | I Pretended To Fall For A WhatsApp Scam Here’s What Happened. | The Anti-Scam Diaries | [Read More](https://medium.com/p/6cb0b29b11e2) |
+| Fri, 27 Jun 2025 12:29:52 GMT | Common pitfalls in zero trust implementation and how to avoid them | Cloud4C Services | [Read More](https://medium.com/p/3886f06976c8) |
+| Fri, 27 Jun 2025 12:29:02 GMT | Hack the Human: Why I Stopped Thinking Like a Hacker and Started Thinking Like a Person | Đeepanshu | [Read More](https://medium.com/p/794400b0fc88) |
+| Fri, 27 Jun 2025 12:26:35 GMT | How do cloud security services ensure compliance? | Ziya Zoe | [Read More](https://medium.com/p/5a5e54310c51) |
+| Fri, 27 Jun 2025 12:21:53 GMT | Your Firewall Might Be Useless If You’re Doing These 5 Things | Coder Roots | [Read More](https://medium.com/p/943152a3e3fd) |
+| Fri, 27 Jun 2025 12:21:53 GMT | AI Governance in 2025: Handing Over the Keys to the Algorithmic Teenager | Wale Adedeji | [Read More](https://medium.com/p/dcd26315bb02) |
+| Fri, 27 Jun 2025 12:16:10 GMT | Cyber Meltdown: 16 Billion Passwords Leak Sparks Global Panic | Ashish Agrawal | [Read More](https://medium.com/p/dd0cbe30962a) |
+| Fri, 27 Jun 2025 12:08:08 GMT | What Is Cyber Risk Assessment & Planning, and Why Is It Critical for Modern Businesses? | Sophia | [Read More](https://medium.com/p/25c6a0aba39e) |
+| Fri, 27 Jun 2025 12:07:06 GMT | Why I’m Building Something to Ask the Questions I Can’t | hael - Family Story Curator | [Read More](https://medium.com/p/2dbdfecde3b4) |
+| Fri, 27 Jun 2025 12:05:57 GMT | Exploits Escalate: KEV Inclusions, Botnet Activity, and Malware Campaigns | Loginsoft | [Read More](https://medium.com/p/f2ce6058eaca) |
+| Fri, 27 Jun 2025 12:02:50 GMT | Top Reasons to Hire a Penetration Testing Company: Benefits for Every Business | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/370478edd3cf) |
+| Fri, 27 Jun 2025 11:58:11 GMT | How important are cloud transformation security services? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/e80bb02434b8) |
+| Fri, 27 Jun 2025 11:57:53 GMT | Understanding JWT Token Collisions — Why This Happens & How to Prevent This | Hritik Kumar Sinha | [Read More](https://medium.com/p/c72e1795a7cf) |
+| Fri, 27 Jun 2025 11:52:58 GMT | Millions Urged to Update Passwords After Massive Data Leak Found Online | Muneeb Sikhani | [Read More](https://medium.com/p/f60b29d70c9d) |
+| Fri, 27 Jun 2025 11:48:51 GMT | Red Rooms on the Dark Web: Myth, Marketing, or Malice? | adityaax | [Read More](https://medium.com/p/74c94593de8e) |
+| Fri, 27 Jun 2025 11:46:00 GMT | WebApp Security Checklist for Businesses in the USA - Protect Your Data | Jenny smith | [Read More](https://medium.com/p/e1398600ca10) |
+| Fri, 27 Jun 2025 11:36:06 GMT | An Excellent Tool For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/f1e7caffa012) |
+| Fri, 27 Jun 2025 11:33:33 GMT | What happened to UC Browser? | Ashfan US | [Read More](https://medium.com/p/f142b1c056c7) |
 | Fri, 27 Jun 2025 11:30:29 GMT | URGENT: I Just Exposed a Massive LinkedIn Job Scam | Mossab Kbeisy | [Read More](https://medium.com/p/f4ccdbf4e4ca) |
 | Fri, 27 Jun 2025 11:22:50 GMT | You Store Secrets in GitHub Actions? Congrats, You’re 1 Leak Away from Disaster | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/286fa9644d9c) |
 | Fri, 27 Jun 2025 11:21:04 GMT | Applying Kubernetes Network Policies: A Hands-On Walkthrough | cybe44oot | [Read More](https://medium.com/p/54004f489acb) |
@@ -94,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 07:43:25 GMT | Post-Quantum Cryptography 2025: Latest Developments and Why It Matters | FreePixel | [Read More](https://medium.com/p/6ed7c6830530) |
 | Fri, 27 Jun 2025 07:41:26 GMT | PKCE Demystified: How OAuth 2.0 Became More Secure for Public Clients | Aman Pandey | [Read More](https://medium.com/p/a95582037a04) |
 | Fri, 27 Jun 2025 07:36:15 GMT | Today’s Top Cyber Intelligence Highlights — Jun 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/256a00fb8479) |
-| Fri, 27 Jun 2025 07:32:40 GMT | HackTheBox Writeup — Delivery | Simardeep Singh | [Read More](https://medium.com/p/e676fb2402a4) |
-| Fri, 27 Jun 2025 07:24:51 GMT | Enlightenment 2.0: The AI Emperor’s True Clothes — Sculpting Common Sense in the Digital Cosmos | Josephis K. Wade | [Read More](https://medium.com/p/9cbfbca5cde6) |
-| Fri, 27 Jun 2025 07:23:56 GMT | ประจำวันศุกร์ที่ 27 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/5840520b65af) |
-| Fri, 27 Jun 2025 07:18:58 GMT | How Do Mobile Application Development Services Drive Digital Growth? | Remand Simon | [Read More](https://medium.com/p/5fe7b6ce00c7) |
-| Fri, 27 Jun 2025 07:14:33 GMT | How to Set Up Smart Notifications in SafeLine (v8.8+) | AerieWhole123 | [Read More](https://medium.com/p/442741f7fd27) |
-| Fri, 27 Jun 2025 07:05:11 GMT | Unveiling Steam’s $7500 Bounty: Buffer Overrun in SILK Voice Decoder | Monika sharma | [Read More](https://medium.com/p/22a5ad05dca2) |
-| Fri, 27 Jun 2025 07:04:09 GMT | Adversarial AI in the Wild: Defending Against Attacks You Never Saw Coming | Abduldattijo | [Read More](https://medium.com/p/581d5cf7f3db) |
-| Fri, 27 Jun 2025 07:02:29 GMT | Information Disclosure part-3 : Source code disclosure via backup files | Ahmad Sopyan | [Read More](https://medium.com/p/ce26138745c7) |
-| Fri, 27 Jun 2025 06:57:39 GMT | How to Build a Bulletproof Cybersecurity Strategy for Your Business | Technijian ITSupport | [Read More](https://medium.com/p/7308a96043c2) |
-| Fri, 27 Jun 2025 06:53:27 GMT | Top 10 Job Opportunities After an Ethical Hacking Course | cyber security Updates | [Read More](https://medium.com/p/270680ebb377) |
-| Fri, 27 Jun 2025 06:49:45 GMT | SOC 2 Password Requirements: How to Stay Compliant | SecureSlate | [Read More](https://medium.com/p/9e5286795bc4) |
-| Fri, 27 Jun 2025 06:32:08 GMT | Why Should You Care About the Latest HITRUST CSF Updates? | Finstein.ai | [Read More](https://medium.com/p/908b0777fa55) |
-| Fri, 27 Jun 2025 06:31:54 GMT | The Art of Starting Over (Again and Again) | Half Bloomed Diaries | [Read More](https://medium.com/p/a6f2ceb46bbe) |
-| Fri, 27 Jun 2025 06:30:06 GMT | TryHackMe Blue: A Comprehensive Guide to Exploiting EternalBlue | Gopal Mohan | [Read More](https://medium.com/p/3dfeab52fba9) |
-| Fri, 27 Jun 2025 06:25:17 GMT | The Corix Partners Friday Reading List — June 27, 2025 | JC Gaillard | [Read More](https://medium.com/p/a99a87c8d0fc) |
-| Fri, 27 Jun 2025 06:21:47 GMT | CVE-2024–49113: Windows LDAP Flaw Lets Hackers Crash Domain Controllers | AerieWhole123 | [Read More](https://medium.com/p/e5890e475dba) |
-| Fri, 27 Jun 2025 06:18:59 GMT | 병원의 개념? 일반적으로 아프면 가는곳이며 치료 받기 위한곳 입니다. | 이상덕 (KOREA Republic of) | [Read More](https://medium.com/p/adcf589fe42c) |
-| Fri, 27 Jun 2025 05:51:13 GMT | Zoomcar Data Breach 2025: What Went Wrong? | Zeron | [Read More](https://medium.com/p/c7f2c9e0ee8a) |
-| Fri, 27 Jun 2025 05:49:17 GMT | Homelab 101: Build Your Own IT Sandbox with Spare Hardware | Nick Sanchez | [Read More](https://medium.com/p/5a39d22be971) |
