@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 05:31:29 GMT | Can a 4–20 mA sensor be connected to a PLC analog input card that only accepts voltage (0–10 V)? | Asteamtechno | [Read More](https://medium.com/p/0271838f6e3c) |
+| Fri, 27 Jun 2025 05:24:19 GMT | [HTB — Write Up] Breaching the Nibbles Machine | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/955e309ddd48) |
 | Fri, 27 Jun 2025 05:18:53 GMT | WiFi Pineapple Cloner and Frieren: Open-Source WiFi Pentesting Tools | Nick Sanchez | [Read More](https://medium.com/p/7bef7d5dd40a) |
 | Fri, 27 Jun 2025 05:16:57 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/a1799e3300eb) |
 | Fri, 27 Jun 2025 05:15:04 GMT | USA’s ChatGPT vs China’s DeepSeek: My Deep Dive Into the AI Battle of 2025 | Saikat Paul | [Read More](https://medium.com/p/16ff4e02463a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 19:28:00 GMT | 10 Mind-Blowing Facts About Cybersecurity | ArthurLizLimaa | [Read More](https://medium.com/p/e648e5ae5fc4) |
 | Thu, 26 Jun 2025 19:26:09 GMT | Safeguard Your Linux System: Scanning for Malware and Rootkits with Rootkit Hunter | Lince Mathew | [Read More](https://medium.com/p/2e2836c38d31) |
 | Thu, 26 Jun 2025 19:24:22 GMT | SQLi in the Cloud, Root on the Board: A Beginner’s Journey into IoT Hacking | Pundhapat | [Read More](https://medium.com/p/06efb2539a21) |
-| Thu, 26 Jun 2025 19:20:24 GMT | The Door You Never Walked Through… and Now It’s Closed | Ckan Johnson | [Read More](https://medium.com/p/4e1355b8b43f) |
-| Thu, 26 Jun 2025 19:17:17 GMT | From Chattanooga to Austin: Building Smarter Cities Through Utility Innovation | David Johnson | [Read More](https://medium.com/p/d710a41f1fb2) |
