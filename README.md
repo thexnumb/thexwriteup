@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 11:30:29 GMT | URGENT: I Just Exposed a Massive LinkedIn Job Scam | Mossab Kbeisy | [Read More](https://medium.com/p/f4ccdbf4e4ca) |
+| Fri, 27 Jun 2025 11:22:50 GMT | You Store Secrets in GitHub Actions? Congrats, You’re 1 Leak Away from Disaster | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/286fa9644d9c) |
+| Fri, 27 Jun 2025 11:21:04 GMT | Applying Kubernetes Network Policies: A Hands-On Walkthrough | cybe44oot | [Read More](https://medium.com/p/54004f489acb) |
+| Fri, 27 Jun 2025 11:18:49 GMT | Why Small Business Cybersecurity is Non-Negotiable in 2025 | Manya Ai | [Read More](https://medium.com/p/cb8d90276ff1) |
 | Fri, 27 Jun 2025 11:15:24 GMT | I’m Writing to You Before Anyone Knows My Name | Vell Soren | [Read More](https://medium.com/p/8d1d3111e595) |
 | Fri, 27 Jun 2025 11:13:50 GMT | St3g0 PicoCTF WriteUp | Aahan Patil | [Read More](https://medium.com/p/81abc9670703) |
 | Fri, 27 Jun 2025 11:12:24 GMT | Best Honeypots for Detecting Network Threats | Netlas.io | [Read More](https://medium.com/p/120b9a4d52d7) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 06:18:59 GMT | 병원의 개념? 일반적으로 아프면 가는곳이며 치료 받기 위한곳 입니다. | 이상덕 (KOREA Republic of) | [Read More](https://medium.com/p/adcf589fe42c) |
 | Fri, 27 Jun 2025 05:51:13 GMT | Zoomcar Data Breach 2025: What Went Wrong? | Zeron | [Read More](https://medium.com/p/c7f2c9e0ee8a) |
 | Fri, 27 Jun 2025 05:49:17 GMT | Homelab 101: Build Your Own IT Sandbox with Spare Hardware | Nick Sanchez | [Read More](https://medium.com/p/5a39d22be971) |
-| Fri, 27 Jun 2025 05:48:22 GMT | HACKING AND CYBER SECURITY | Harrisonssentongo | [Read More](https://medium.com/p/6e8748abb2e3) |
-| Fri, 27 Jun 2025 05:31:29 GMT | Can a 4–20 mA sensor be connected to a PLC analog input card that only accepts voltage (0–10 V)? | Asteamtechno | [Read More](https://medium.com/p/0271838f6e3c) |
-| Fri, 27 Jun 2025 05:24:19 GMT | [HTB — Write Up] Breaching the Nibbles Machine | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/955e309ddd48) |
-| Fri, 27 Jun 2025 05:18:53 GMT | WiFi Pineapple Cloner and Frieren: Open-Source WiFi Pentesting Tools | Nick Sanchez | [Read More](https://medium.com/p/7bef7d5dd40a) |
