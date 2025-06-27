@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 09:17:09 GMT | Why We Must Ban Russian Soldiers | Brian Iselin | [Read More](https://medium.com/p/92d7824a4d51) |
+| Fri, 27 Jun 2025 09:15:25 GMT | The Growing Importance of Electronic Security Solutions and Facility Management in India | Ciss India | [Read More](https://medium.com/p/b351425b384e) |
+| Fri, 27 Jun 2025 09:07:53 GMT | Cybersecurity Course in Kochi | Adithyadev | [Read More](https://medium.com/p/43b61261c2f9) |
+| Fri, 27 Jun 2025 09:04:10 GMT | The Essence of My Love: A Keeper of the Flame | Louie Writes | [Read More](https://medium.com/p/36795cedcfa8) |
+| Fri, 27 Jun 2025 08:57:07 GMT | Dynamics 365 in the Dark: The Cloudy Conspiracy About Performance and Transparency | Namir Sagheenanajar | [Read More](https://medium.com/p/24c035755ddb) |
+| Fri, 27 Jun 2025 08:54:02 GMT | The 5 Most Dangerous Commands That Every Attacker Uses — and How to Detect Them (With Splunk… | Paritosh | [Read More](https://medium.com/p/b7f46ccd0970) |
+| Fri, 27 Jun 2025 08:52:08 GMT | Write Up Bola - Dockerlabs.es | APS88 | [Read More](https://medium.com/p/2371f4bf9ab5) |
+| Fri, 27 Jun 2025 08:48:42 GMT | Transforming Agricultural Information Access for African Smallholder Farmers Through Mobile… | Aliuiyanuoluwa | [Read More](https://medium.com/p/98b8904676a3) |
 | Fri, 27 Jun 2025 08:47:37 GMT | Securing GenAI: Vol 5 — Model deployment and change management | Leapfrog Technology | [Read More](https://medium.com/p/12a83289b2ef) |
+| Fri, 27 Jun 2025 08:46:21 GMT | Mindful Steps | Abbas Mehran | [Read More](https://medium.com/p/6754b4e2e94a) |
 | Fri, 27 Jun 2025 08:45:17 GMT | John The Ripper: Password Cracking Tool | Uliya Ashfaque Ali | [Read More](https://medium.com/p/b703415b4cfb) |
 | Fri, 27 Jun 2025 08:42:19 GMT | How to use IP address to improve account security: a practical guide from login to risk control | DataVerse | [Read More](https://medium.com/p/52e8c2ca0b78) |
 | Fri, 27 Jun 2025 08:31:46 GMT | Sensitive Server Info Disclosure via Public phpinfo() | Md Nawshad Ahmmed | [Read More](https://medium.com/p/466f80835c12) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 00:08:42 GMT | Addressing Container Image Vulnerabilities in SAS Viya on AWS EKS | Bran Kop, Engineer @Conformal, Founder of aiHQ | [Read More](https://medium.com/p/1aea674fdea7) |
 | Thu, 26 Jun 2025 23:57:49 GMT | AI vs AI in Cybersecurity: The Digital Arms Race Between Attackers and Defenders | Muhammad Ali | [Read More](https://medium.com/p/b4c1d12f45b5) |
 | Thu, 26 Jun 2025 23:46:33 GMT | Responsible Disclosure: Publicly Leaked Credentials Found for peterdo.net | Omar | [Read More](https://medium.com/p/662019e605c6) |
-| Thu, 26 Jun 2025 23:40:16 GMT | AI Prions: A New Frontier in AI Security | zapper20 | [Read More](https://medium.com/p/41c76bb0eb5c) |
-| Thu, 26 Jun 2025 23:39:41 GMT | Accusing Spirits and the Battle for the Signal Line: How the Enemy Stages a Spiritual Coup | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/aaca70f32057) |
-| Thu, 26 Jun 2025 23:38:57 GMT | Expirience The Best Hacking | Norman Meg | [Read More](https://medium.com/p/7b5babab2dbe) |
-| Thu, 26 Jun 2025 23:32:16 GMT | Software Firewalls by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5a51fa4c8c9e) |
-| Thu, 26 Jun 2025 23:23:37 GMT | Why Do My AWS SES DKIM Records Look Empty | Harry Zhou | [Read More](https://medium.com/p/d9088f515ca3) |
-| Thu, 26 Jun 2025 23:11:39 GMT | CSCPSUT MetaCTF25 Qualifications Writeups | Qais Hammad | [Read More](https://medium.com/p/1974e9a7f03e) |
-| Thu, 26 Jun 2025 23:02:27 GMT | Mastering the Art of Linux | An0n | [Read More](https://medium.com/p/16f6a345f38e) |
-| Thu, 26 Jun 2025 22:56:23 GMT | ExeQuantum and Krown Technologies Forge Strategic Partnership to Advance Post-Quantum Blockchain… | ExeQuantum | [Read More](https://medium.com/p/7940f5346330) |
-| Thu, 26 Jun 2025 22:54:28 GMT | Exploring the Dark Web: A Comprehensive Guide | Monika sharma | [Read More](https://medium.com/p/b243d68c063a) |
