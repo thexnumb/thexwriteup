@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 11:15:24 GMT | I’m Writing to You Before Anyone Knows My Name | Vell Soren | [Read More](https://medium.com/p/8d1d3111e595) |
+| Fri, 27 Jun 2025 11:13:50 GMT | St3g0 PicoCTF WriteUp | Aahan Patil | [Read More](https://medium.com/p/81abc9670703) |
+| Fri, 27 Jun 2025 11:12:24 GMT | Best Honeypots for Detecting Network Threats | Netlas.io | [Read More](https://medium.com/p/120b9a4d52d7) |
+| Fri, 27 Jun 2025 11:09:32 GMT | The Unbreakable Shield: How 2FA Saved My Career and Why It’s the Bug Bounty Hunter’s Best Friend | Krish_cyber | [Read More](https://medium.com/p/6d4a323d73f7) |
+| Fri, 27 Jun 2025 11:06:50 GMT | Cloud Hacking in 2025: Abusing AWS Misconfigurations with Real Examples | Sle3pyHead ‍ | [Read More](https://medium.com/p/d80d2b419e4d) |
+| Fri, 27 Jun 2025 11:00:20 GMT | samama bin abdul rehman
+2025 | Samama bin Abdul Rehman | [Read More](https://medium.com/p/e06aa974839b) |
+| Fri, 27 Jun 2025 10:59:33 GMT | QMSR Final Rule 2024 | Daniel James | [Read More](https://medium.com/p/6a761e584cad) |
+| Fri, 27 Jun 2025 10:58:15 GMT | Gemini Can’t Write | Tomer Wetzler | [Read More](https://medium.com/p/98a78a797ab0) |
+| Fri, 27 Jun 2025 10:57:37 GMT | Securing the Unknown 2.0: Charting a Course for Resilient Agentic AI | Lars Godejord | [Read More](https://medium.com/p/894afa7b1055) |
+| Fri, 27 Jun 2025 10:56:57 GMT | AWS Threat Detection and Automated Remediation | Jamie kariuki | [Read More](https://medium.com/p/8df09d9dc924) |
+| Fri, 27 Jun 2025 10:56:10 GMT | Cyber Security Course With Real-Time Projects — Only At Osiz Labs | Osiz Labs | [Read More](https://medium.com/p/68c330da2f22) |
+| Fri, 27 Jun 2025 10:54:38 GMT | MOVEit Transfer Faces Renewed Cyber Threats Amid Ongoing Exploitation Surge | CyBlog | [Read More](https://medium.com/p/4222c8043f02) |
+| Fri, 27 Jun 2025 10:51:45 GMT | The Unspoken Fear: What Happens When Your Business Gets Hacked, and You’re Not Ready? | Online IT Solutions | [Read More](https://medium.com/p/1c9ad8c1bafe) |
+| Fri, 27 Jun 2025 10:49:04 GMT | Bypassing Badge Authentication in an ICS Environment | Stoic_Gang | [Read More](https://medium.com/p/689dbe26a545) |
+| Fri, 27 Jun 2025 10:48:21 GMT | How Does AI Enhance IoT Security in Healthcare? | Accorian | [Read More](https://medium.com/p/1edab4a5a492) |
+| Fri, 27 Jun 2025 10:45:38 GMT | How to Get Certified in Cloud Security: Best Programs and Career Paths | Career Security: Tech Training & Certifications | [Read More](https://medium.com/p/a8e142a6efe2) |
 | Fri, 27 Jun 2025 10:44:05 GMT | One-Click Account Vulnerability: How I Discovered a Dangerous Authentication Flaw in a Global… | Elie Attieh | [Read More](https://medium.com/p/1cbc9a39e206) |
+| Fri, 27 Jun 2025 10:44:04 GMT | samama bin abdul rehman | Samama bin Abdul Rehman | [Read More](https://medium.com/p/90273f5baa7e) |
 | Fri, 27 Jun 2025 10:39:42 GMT | Microsoft 365 Direct Send Vulnerability: A Critical Security Blind Spot Exposing Organizations… | Technijian | [Read More](https://medium.com/p/80c2ad829131) |
 | Fri, 27 Jun 2025 10:38:38 GMT | Your Biggest Cybersecurity Weakness Is Yourself | Papaspyrou Alexandros | [Read More](https://medium.com/p/ab205862e8a8) |
 | Fri, 27 Jun 2025 10:38:30 GMT | Cyber Threats in Online Marketing Ads You Can’t Ignore! | Accorian | [Read More](https://medium.com/p/ef2f754e5d18) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 05:31:29 GMT | Can a 4–20 mA sensor be connected to a PLC analog input card that only accepts voltage (0–10 V)? | Asteamtechno | [Read More](https://medium.com/p/0271838f6e3c) |
 | Fri, 27 Jun 2025 05:24:19 GMT | [HTB — Write Up] Breaching the Nibbles Machine | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/955e309ddd48) |
 | Fri, 27 Jun 2025 05:18:53 GMT | WiFi Pineapple Cloner and Frieren: Open-Source WiFi Pentesting Tools | Nick Sanchez | [Read More](https://medium.com/p/7bef7d5dd40a) |
-| Fri, 27 Jun 2025 05:16:57 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/a1799e3300eb) |
-| Fri, 27 Jun 2025 05:15:04 GMT | USA’s ChatGPT vs China’s DeepSeek: My Deep Dive Into the AI Battle of 2025 | Saikat Paul | [Read More](https://medium.com/p/16ff4e02463a) |
-| Fri, 27 Jun 2025 05:14:25 GMT | ⚔️ Generative AI vs. Agentic AI: Why the Real Cybersecurity Threat Is What Comes Next | zahidul Islam Ratul | [Read More](https://medium.com/p/045cd9fab7ae) |
-| Fri, 27 Jun 2025 05:05:52 GMT | Windows Logging For SOC Room - TryHackMe | Dhwanit Pandya | [Read More](https://medium.com/p/40fc0d049ee1) |
-| Fri, 27 Jun 2025 05:04:16 GMT | VPC, Security Groups and NACLs in AWS | Krishna Manoj | [Read More](https://medium.com/p/b32e75fc6ef3) |
-| Fri, 27 Jun 2025 05:03:12 GMT | AI Agents in Cybersecurity: The Quiet Guardians Behind Modern Digital Defense.❗ | SupportXDR | [Read More](https://medium.com/p/67db13608329) |
-| Fri, 27 Jun 2025 04:51:35 GMT | Keep Your Crypto Safe with a Bitcoin Paper Wallet | sonika chungi | [Read More](https://medium.com/p/3cdbfbce98c7) |
-| Fri, 27 Jun 2025 04:49:23 GMT | Penetration Testing Australia: Meeting Client Security Expectations and Excelling in Vendor… | Steve McLaughlin | [Read More](https://medium.com/p/3790a622c483) |
-| Fri, 27 Jun 2025 04:33:07 GMT | What They Never Told Me About Honesty | Jovie Moon | [Read More](https://medium.com/p/c6e454ed84d3) |
-| Fri, 27 Jun 2025 04:29:12 GMT | XSS at U.S. Department of Education | AbhirupKonwar | [Read More](https://medium.com/p/771bf5b0a003) |
-| Fri, 27 Jun 2025 04:24:18 GMT | From Reactive to Proactive: How Ericsson’s Intelligent Automation Platform (EIAP) is… | Swarnendu Das | [Read More](https://medium.com/p/c1684b1b8bda) |
-| Fri, 27 Jun 2025 04:23:58 GMT | How to Make a Strong Password: Simple Tips to Stay on the Safe Side | Aayush Shrestha | [Read More](https://medium.com/p/ae8ac874a532) |
-| Fri, 27 Jun 2025 03:56:18 GMT | Best Linux OS for Cybersecurity (2025 Guide for All Levels) | Creative Prash | [Read More](https://medium.com/p/7c24f316decc) |
-| Fri, 27 Jun 2025 03:52:06 GMT | Is Your Password Safe? Some mistakes You Must Avoid? | UpThoughts | [Read More](https://medium.com/p/1bed56622d06) |
-| Fri, 27 Jun 2025 03:31:20 GMT | Think You’re Downloading Google Chrome? Think Again, It Might Be Spyware in Disguise | Deven Chhajed | [Read More](https://medium.com/p/641bd516ecee) |
-| Fri, 27 Jun 2025 03:30:19 GMT | Mastering Threat Hunting with Criminal IP: The Dorks Query Playbook (Part 2) | Criminal IP | [Read More](https://medium.com/p/6bfebd34f728) |
-| Fri, 27 Jun 2025 03:21:39 GMT | Securing DSPy’s MCP Integration: Programmatic AI Meets Enterprise Security | Rick Hightower | [Read More](https://medium.com/p/1eb742bbe69a) |
