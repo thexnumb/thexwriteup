@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 18:39:00 GMT | From Boredom to Bug: How One Backslash Broke the Entire Site | Ramshath | [Read More](https://medium.com/p/8317d6007a16) |
+| Fri, 27 Jun 2025 18:37:38 GMT | HTB: Validation (Askia DeLarge) | Askia DeLarge | [Read More](https://medium.com/p/5e9ae6770e47) |
+| Fri, 27 Jun 2025 18:31:52 GMT | Alert ! Your are the next Target !!! | James Walker | [Read More](https://medium.com/p/4193c215b14a) |
+| Fri, 27 Jun 2025 18:30:46 GMT | SSRF in Lychee: CVE-2025–53018 | Baran TEYİN | [Read More](https://medium.com/p/260236e85343) |
+| Fri, 27 Jun 2025 18:30:27 GMT | أهمية الأمن السيبراني في 2024: كيف تحمي بياناتك من التهديدات الحديثة؟ | Najm Al-deen - نجم الدين اليوسفي | [Read More](https://medium.com/p/b21bea2545b9) |
+| Fri, 27 Jun 2025 18:30:10 GMT | OAuth Open Redirect to ATO: One Link, All Platforms Compromised | Abdo Rabea (H4reeqa) | [Read More](https://medium.com/p/c4b54fb51396) |
+| Fri, 27 Jun 2025 18:26:20 GMT | The $545K Silo Finance Exploit: What happened and What we can learn | CyberLucifer | [Read More](https://medium.com/p/be33adb6b7b3) |
 | Fri, 27 Jun 2025 18:22:16 GMT | The State of Cybersecurity Resilience 2025 — Summary and Key Actions | Ajay Kumar | [Read More](https://medium.com/p/0feddf7ec36b) |
 | Fri, 27 Jun 2025 18:19:37 GMT | Roam: Building a Global Decentralized WiFi Network with Real Utility | Miretkus | [Read More](https://medium.com/p/d7623f438b4d) |
 | Fri, 27 Jun 2025 18:14:44 GMT | When Your Mouse/Keyboard Turns Against You: Drone-Powered Keystroke Injection with nRF24L Chips | Rasul Mansurov | [Read More](https://medium.com/p/69b36774f12a) |
@@ -34,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 17:10:39 GMT | AI Objectives and Planning to Achieve Them (Clause 6.2 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/f620f7194727) |
 | Fri, 27 Jun 2025 17:09:45 GMT | What Is Web Application Delivery and Security? | Jack Beesley | [Read More](https://medium.com/p/92f5b02659dc) |
 | Fri, 27 Jun 2025 17:08:19 GMT | The Code That Saved Me: How a Broken Laptop Fixed My Life | Azmat Ali | [Read More](https://medium.com/p/58c20d6a6eb3) |
+| Fri, 27 Jun 2025 17:07:06 GMT | Serveurs MCP comme Serveurs de Ressources OAuth : Une Approche Simplifiée | Michael Wybraniec | [Read More](https://medium.com/p/baeda957926c) |
 | Fri, 27 Jun 2025 17:06:36 GMT | CKAD Notes: Security Context | Nicolas Barlatier | [Read More](https://medium.com/p/476fc095b847) |
 | Fri, 27 Jun 2025 17:05:42 GMT | Women in Cybersecurity: Participation, Challenges, and Opportunities in India | Sreya shyjash | [Read More](https://medium.com/p/7ecb26657023) |
 | Fri, 27 Jun 2025 17:03:44 GMT | What Is Information Security? A Simple Guide | Diyajat | [Read More](https://medium.com/p/f71c41a0382c) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 13:01:11 GMT | Bridging SOC and DevSecOps with Peris.ai’s AI-Powered Automation Layer | Peris.ai Cybersecurity | [Read More](https://medium.com/p/87b1d56778f7) |
 | Fri, 27 Jun 2025 13:01:07 GMT | Abnormal Behavior Clustering × Blacklist Propagation Detection:
  Enhancing On-Chain Compliance and… | Haysen Lin | [Read More](https://medium.com/p/1fbfe99480fc) |
-| Fri, 27 Jun 2025 13:01:07 GMT | When to Open a Bug and When to Bring It Straight to the Daily | Higor Mesquita | [Read More](https://medium.com/p/17309d948a13) |
-| Fri, 27 Jun 2025 13:01:06 GMT | Cybersecurity for the Rest of Us: Phishing — It’s Not Just for Grandpa’s Bass Boat | Bryan J Zimmerman | [Read More](https://medium.com/p/573ea78e3fdd) |
-| Fri, 27 Jun 2025 12:57:47 GMT | Behind the Bugs: Day 4 | Yukeshwaran N | [Read More](https://medium.com/p/e70c5cb30d31) |
-| Fri, 27 Jun 2025 12:57:40 GMT | Complete Security Infrastructure Roadmap | Bilel | [Read More](https://medium.com/p/0b24e6e86e35) |
-| Fri, 27 Jun 2025 12:55:31 GMT | ️ Cloaks, Shadows, and the Myth of the Hidden Gate: A Deep Dive into Security Through Obscurity | Emma Lateyron | [Read More](https://medium.com/p/fca3c9183aa1) |
-| Fri, 27 Jun 2025 12:55:27 GMT | The Cybersecurity Skills That Could Future-Proof Your Career by 2030 | Tawhid Maruf | [Read More](https://medium.com/p/a02771aafba2) |
-| Fri, 27 Jun 2025 12:50:08 GMT | How Secure Are Your IoT Devices? Why IoT Auditing Is Critical in 2025 | Recover Right | [Read More](https://medium.com/p/fbfb115315e6) |
-| Fri, 27 Jun 2025 12:47:08 GMT | Zero-Trust ASP.NET Core 10 Security | Adem KORKMAZ | [Read More](https://medium.com/p/f16c70c6fec9) |
