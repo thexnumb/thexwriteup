@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 22:15:00 GMT | Let’s Try Positive Reinforcement Cybersecurity Training | Matthew.Rosenquist | [Read More](https://medium.com/p/042397632c0c) |
+| Fri, 27 Jun 2025 22:12:02 GMT | Retro Breakfast Cocoa | Living A Lyrical Life | [Read More](https://medium.com/p/5dceb40df0be) |
+| Fri, 27 Jun 2025 22:08:03 GMT | The Girl Who Opened the Door Twice | Beatrice Akapo | [Read More](https://medium.com/p/df6875ada248) |
+| Fri, 27 Jun 2025 22:02:42 GMT | The Glitch That Made Me Real | Raymond Brunell | [Read More](https://medium.com/p/5d1f9d285d00) |
+| Fri, 27 Jun 2025 21:55:17 GMT | What is the Difference Between The Dark Web and The Normal Web? | Black Wolf | [Read More](https://medium.com/p/2f880bc16f5f) |
+| Fri, 27 Jun 2025 21:47:57 GMT | Hacked in H1 2025: $8.38 Billion Lost Across 66 Web3 Exploits | CyberLucifer | [Read More](https://medium.com/p/a7162a03d811) |
+| Fri, 27 Jun 2025 21:35:44 GMT | Automating Linux User Management and Access Control | hansel Grade | [Read More](https://medium.com/p/ed3454110f89) |
+| Fri, 27 Jun 2025 21:32:42 GMT | HOW TO EXPLOIT ESC1 AND GAIN ADMIN PRIVELLEAGE IN DETAIL | 0xZ3US | [Read More](https://medium.com/p/8518b0d596cd) |
 | Fri, 27 Jun 2025 21:28:25 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 4] ️ | Aditya Bhatt | [Read More](https://medium.com/p/779babe65576) |
 | Fri, 27 Jun 2025 21:20:06 GMT | What is a 51% Attack? Are Bitcoin and Ethereum Safe? | Auric Crypto News | [Read More](https://medium.com/p/245643ba8996) |
 | Fri, 27 Jun 2025 21:10:51 GMT | Cyber Centre Confirms Canadian Telecom Hack Tied to China-Linked Group | Silent Boardroom | [Read More](https://medium.com/p/bfe742f69568) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 15:02:14 GMT | Serial Cyber Offenses: Behavioral Profiling and Linkage Analysis of Cases | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/d925c14ee0b7) |
 | Fri, 27 Jun 2025 15:01:44 GMT | Understanding the CIA Triad in Simple Terms | Gaarv Chauhan | [Read More](https://medium.com/p/18df3e429819) |
 | Fri, 27 Jun 2025 14:58:47 GMT | Secure Coding Part 4: Command Injection — Introduction | Siddiquimohammad | [Read More](https://medium.com/p/b1ad2f910b31) |
-| Fri, 27 Jun 2025 14:56:50 GMT | [Security] 블루팀 홈 랩 구축 Part 1 — 소개 (Building a Blue Team Home Lab Part 1 — Introduction) | mer1 | [Read More](https://medium.com/p/ca2ff942059a) |
-| Fri, 27 Jun 2025 14:51:47 GMT | Why We Still Take Risks Online — Even When We Know Better | Scarlett Scarlett | [Read More](https://medium.com/p/570a0d2b2f4f) |
-| Fri, 27 Jun 2025 14:50:07 GMT | Supporting Neurodiverse Talent in Cybersecurity and IT: A Strategic Approach Using Psychometrics… | Adrian McGarry | [Read More](https://medium.com/p/2f75662887a0) |
-| Fri, 27 Jun 2025 14:45:35 GMT | Migrating to the Cloud: A Consultant’s Guide to Success | Ans Rehman | [Read More](https://medium.com/p/de8bd62168fd) |
-| Fri, 27 Jun 2025 14:36:40 GMT | Petya Ransomware. Descubrimientos y aprendizajes a 7 años de su erupción | Tiziano Mass | [Read More](https://medium.com/p/1a85f0f04607) |
-| Fri, 27 Jun 2025 14:36:03 GMT | How to reset raspberry pi pico w completely | Agape HearTs | [Read More](https://medium.com/p/25bce5eb1881) |
-| Fri, 27 Jun 2025 14:20:32 GMT | How to Detect SQL Injection — step by step instruction | Demianchuk Sergii | [Read More](https://medium.com/p/73a0eb6093dc) |
-| Fri, 27 Jun 2025 14:17:52 GMT | How Hackers can Hijack your RDP Session and Steal Password | Bendjaballah Zine Eddine | [Read More](https://medium.com/p/dcc16ce33f97) |
