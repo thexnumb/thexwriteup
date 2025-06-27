@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 23:31:24 GMT | Hardware Firewalls by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/153711f7a7c6) |
+| Fri, 27 Jun 2025 23:29:51 GMT | How to Build a Secure GitOps Pipeline with ArgoCD and Vault | Pablo jusue | [Read More](https://medium.com/p/548dc680ed69) |
+| Fri, 27 Jun 2025 23:18:20 GMT | Reading Cybersecurity Reports Sucks. NotebookLM Makes It Suck Less | John | [Read More](https://medium.com/p/6796f047ca13) |
 | Fri, 27 Jun 2025 23:16:41 GMT | Windows Logging for SOC . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/e4aa10339261) |
 | Fri, 27 Jun 2025 23:10:18 GMT | Laravel Source Code Review: How XSS Lead to Privilege Escalation and Eventually RCE | Mostafa Yasser | [Read More](https://medium.com/p/3ec410fa0fcb) |
 | Fri, 27 Jun 2025 23:06:05 GMT | This Chrome Download Will Hijack Your System: Inside the ValleyRAT Attack Chain | Cyber-AppSec | [Read More](https://medium.com/p/9cf912f1b907) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 15:32:35 GMT | What If I’m the Toxic One? The Quiet Sabotage of My Relationships and Myself | Arlettys Lp | [Read More](https://medium.com/p/3be364d17c98) |
 | Fri, 27 Jun 2025 15:32:03 GMT | Cybersecurity Awareness: Records Management — Why It Matters More Than Ever in 2025 | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/dcd87cb0774e) |
 | Fri, 27 Jun 2025 15:27:41 GMT | SQL Injection Ciega por Errores Condicionales | Roberto Alfaro (Vuldar) | [Read More](https://medium.com/p/5d94339eb2ce) |
-| Fri, 27 Jun 2025 15:27:00 GMT | CIVNFT, Themis, Shido: When Access Control, Oracles, and Configs All Fail at Once | Olympix | [Read More](https://medium.com/p/2789210f0aa5) |
-| Fri, 27 Jun 2025 15:26:39 GMT | Nuki Smart Lock Ultra: A New-Generation Smart Lock That’s Making Waves | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/517f94fc4953) |
-| Fri, 27 Jun 2025 15:23:31 GMT | Pawnfi, Midas, Hashflow: Borrowing Blind, Rounding Wrong, and Missing Auth Checks | Olympix | [Read More](https://medium.com/p/b97628c04fe9) |
