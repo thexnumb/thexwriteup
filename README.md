@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 08:27:36 GMT | Hall of Fame on TATA Motors | Hritom Bhattacharya | [Read More](https://medium.com/p/0ced52eaa33c) |
+| Fri, 27 Jun 2025 08:22:59 GMT | ShellGPT Bonus Episode: Five Roles, Real Prompts | murali pala | [Read More](https://medium.com/p/c8c00e9671cb) |
+| Fri, 27 Jun 2025 08:10:45 GMT | Has Your Info Been Leaked? 5 Quick Checks to Find Out | Cloudbric VPN | [Read More](https://medium.com/p/03afd4e426ac) |
+| Fri, 27 Jun 2025 08:07:03 GMT | What is Penetration Testing ? | Vansh_Makkar | [Read More](https://medium.com/p/5723ad9bf963) |
+| Fri, 27 Jun 2025 08:06:29 GMT | Building a Realistic CTF? Here’s Why We Picked SafeLine WAF | Quella | [Read More](https://medium.com/p/1817c833f009) |
+| Fri, 27 Jun 2025 08:02:22 GMT | Fawn HackTheBox Tier 0 Walkthrough | Bridget | [Read More](https://medium.com/p/641f3b4cdc72) |
+| Fri, 27 Jun 2025 08:02:16 GMT | Gift payment 6000 USDT Blockchain Trc20 for you u can use ( Okx walllet — Safepal wallet -Tron… | Joelle luxer | [Read More](https://medium.com/p/6795472bd998) |
+| Fri, 27 Jun 2025 08:01:55 GMT | Breaking the Stigma: Duchess of York on Mental Health, Trauma, and the Power of Vulnerability in an… | Paracelsus Recovery | [Read More](https://medium.com/p/9212ea187b23) |
+| Fri, 27 Jun 2025 07:54:13 GMT | Building Fortresses, Not Huts: The Principle of Secure by Design | Emma Lateyron | [Read More](https://medium.com/p/17cd96bd6adc) |
+| Fri, 27 Jun 2025 07:51:55 GMT | Bye-Bye Passwords: Facebook Introduces Passkey Login for Android and iOS Users | Nanthakumar | [Read More](https://medium.com/p/b918a0d8b748) |
+| Fri, 27 Jun 2025 07:46:43 GMT | Top Cybersecurity Careers You Can Pursue After CEH v12 Training | Eliana | [Read More](https://medium.com/p/516335c8e6f1) |
+| Fri, 27 Jun 2025 07:43:52 GMT | Analyzing a FedEx Phishing Email | Tin Lucic | [Read More](https://medium.com/p/f14f9e6791b1) |
+| Fri, 27 Jun 2025 07:43:25 GMT | Post-Quantum Cryptography 2025: Latest Developments and Why It Matters | FreePixel | [Read More](https://medium.com/p/6ed7c6830530) |
+| Fri, 27 Jun 2025 07:41:26 GMT | PKCE Demystified: How OAuth 2.0 Became More Secure for Public Clients | Aman Pandey | [Read More](https://medium.com/p/a95582037a04) |
 | Fri, 27 Jun 2025 07:36:15 GMT | Today’s Top Cyber Intelligence Highlights — Jun 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/256a00fb8479) |
 | Fri, 27 Jun 2025 07:32:40 GMT | HackTheBox Writeup — Delivery | Simardeep Singh | [Read More](https://medium.com/p/e676fb2402a4) |
 | Fri, 27 Jun 2025 07:24:51 GMT | Enlightenment 2.0: The AI Emperor’s True Clothes — Sculpting Common Sense in the Digital Cosmos | Josephis K. Wade | [Read More](https://medium.com/p/9cbfbca5cde6) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 22:31:53 GMT | ALFRED WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/57bea61e950c) |
 | Thu, 26 Jun 2025 22:27:33 GMT | Attacks on Automotive Cybersecurity: Threats to Connected Vehicles | Akshay Chauhan | [Read More](https://medium.com/p/7ac652f2c8ce) |
 | Thu, 26 Jun 2025 22:21:54 GMT | How I Took a Website Completely Offline with a Funky Cache Poisoning Vulnerability (CPDOS) | Erfan Tavakoli | [Read More](https://medium.com/p/220ac75d1cf3) |
-| Thu, 26 Jun 2025 22:16:41 GMT | Why Every Organization Needs Network Visibility and Traffic Analysis Tools | Karthikeyan Nagaraj | [Read More](https://medium.com/p/cf947b3e3205) |
-| Thu, 26 Jun 2025 22:06:26 GMT | TryHackMe Industrial Intrusion CTF | Root-Kitty | [Read More](https://medium.com/p/f98ea88e0f2c) |
-| Thu, 26 Jun 2025 21:51:56 GMT | I Got Fired from a Job in Less Than 48 Hours — For Hacking the Office | Ryan Merket | [Read More](https://medium.com/p/665819b94967) |
-| Thu, 26 Jun 2025 21:51:47 GMT | ⚖️ Dividing the Crown’s Duties: The Principle of Separation of Duties | Emma Lateyron | [Read More](https://medium.com/p/ab7a046cc526) |
-| Thu, 26 Jun 2025 21:43:54 GMT | Whining is All You Need: Malicious Code Production with ChatGPT | Jaishnoor Bajwa | [Read More](https://medium.com/p/0fc81af1c5ae) |
-| Thu, 26 Jun 2025 21:39:23 GMT | How my Mac avoid a Crypto Scam | victordelgado.btc | [Read More](https://medium.com/p/669ef0141341) |
-| Thu, 26 Jun 2025 21:08:58 GMT | Top 10 Free AI Tools Like ChatGPT You Should Be Using in 2025 | Ravi Teja Rayudu | [Read More](https://medium.com/p/a6416c4d8ddc) |
-| Thu, 26 Jun 2025 20:59:33 GMT | Beyond the Hype — Building a Real C2 Framework from Scratch | Cyberlairs | [Read More](https://medium.com/p/5a6f5015931d) |
-| Thu, 26 Jun 2025 20:58:53 GMT | Everything, Everywhere, All at Once | Jonathan Mohring | [Read More](https://medium.com/p/2b1799663119) |
-| Thu, 26 Jun 2025 20:57:03 GMT | How to Create Secure AI Applications | Tejas Kumar | [Read More](https://medium.com/p/8a1258aa4563) |
-| Thu, 26 Jun 2025 20:54:23 GMT | Massive Data Breach in USA History for Last 15 Years | Hoplon Infosec | [Read More](https://medium.com/p/5925e0c64813) |
-| Thu, 26 Jun 2025 20:54:09 GMT | State-Sponsored Cyber Warfare | Pentestjunkie07 | [Read More](https://medium.com/p/17451d2579db) |
-| Thu, 26 Jun 2025 20:38:01 GMT | Escalating threats driven by Artificial Intelligence (AI) | Inforsecpro | [Read More](https://medium.com/p/e03ae5d5a51e) |
-| Thu, 26 Jun 2025 20:36:10 GMT | Remote Access, Minus the Guesswork | Steve Coleman | [Read More](https://medium.com/p/896f931b26e8) |
