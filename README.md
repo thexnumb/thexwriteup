@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 23:16:41 GMT | Windows Logging for SOC . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/e4aa10339261) |
+| Fri, 27 Jun 2025 23:10:18 GMT | Laravel Source Code Review: How XSS Lead to Privilege Escalation and Eventually RCE | Mostafa Yasser | [Read More](https://medium.com/p/3ec410fa0fcb) |
+| Fri, 27 Jun 2025 23:06:05 GMT | This Chrome Download Will Hijack Your System: Inside the ValleyRAT Attack Chain | Cyber-AppSec | [Read More](https://medium.com/p/9cf912f1b907) |
+| Fri, 27 Jun 2025 22:43:53 GMT | Cybersecurity in Crisis Mode: Brother Printers, Ransomware, and Geopolitical Flashpoints | Akilnath Bodipudi | [Read More](https://medium.com/p/9e6e817a39c3) |
+| Fri, 27 Jun 2025 22:42:59 GMT | OSINT: SPYGAME, a network of celebrity surveillance cameras that seek to expose and harass on the… | VECERT | [Read More](https://medium.com/p/4805279470d8) |
 | Fri, 27 Jun 2025 22:16:39 GMT | Passive Recon for Bug Bounty: Best Tools and Real-World Tactics | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9dcd7386eb16) |
 | Fri, 27 Jun 2025 22:15:00 GMT | Let’s Try Positive Reinforcement Cybersecurity Training | Matthew.Rosenquist | [Read More](https://medium.com/p/042397632c0c) |
 | Fri, 27 Jun 2025 22:12:02 GMT | Retro Breakfast Cocoa | Living A Lyrical Life | [Read More](https://medium.com/p/5dceb40df0be) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 15:27:00 GMT | CIVNFT, Themis, Shido: When Access Control, Oracles, and Configs All Fail at Once | Olympix | [Read More](https://medium.com/p/2789210f0aa5) |
 | Fri, 27 Jun 2025 15:26:39 GMT | Nuki Smart Lock Ultra: A New-Generation Smart Lock That’s Making Waves | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/517f94fc4953) |
 | Fri, 27 Jun 2025 15:23:31 GMT | Pawnfi, Midas, Hashflow: Borrowing Blind, Rounding Wrong, and Missing Auth Checks | Olympix | [Read More](https://medium.com/p/b97628c04fe9) |
-| Fri, 27 Jun 2025 15:20:16 GMT | Exposing the FOX: How 20,000+ Niagara Endpoints Left Smart Buildings Open to Attack | Azim Uddin | [Read More](https://medium.com/p/8aadc3ac7bf4) |
-| Fri, 27 Jun 2025 15:19:36 GMT | Sturdy, Atlantis, LunaFi: Governance Gaps, Oracle Reentrancy, and Reward Farming Gone Wrong | Olympix | [Read More](https://medium.com/p/d4a0a5d7912f) |
-| Fri, 27 Jun 2025 15:11:08 GMT | 350+ Free TryHackMe Rooms for Cybersecurity Enthusiasts | cyberwinx | [Read More](https://medium.com/p/a4bc982bf8a6) |
-| Fri, 27 Jun 2025 15:02:14 GMT | Serial Cyber Offenses: Behavioral Profiling and Linkage Analysis of Cases | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/d925c14ee0b7) |
-| Fri, 27 Jun 2025 15:01:44 GMT | Understanding the CIA Triad in Simple Terms | Gaarv Chauhan | [Read More](https://medium.com/p/18df3e429819) |
