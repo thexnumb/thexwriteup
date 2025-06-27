@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 15:32:03 GMT | Cybersecurity Awareness: Records Management — Why It Matters More Than Ever in 2025 | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/dcd87cb0774e) |
+| Fri, 27 Jun 2025 15:27:41 GMT | SQL Injection Ciega por Errores Condicionales | Roberto Alfaro (Vuldar) | [Read More](https://medium.com/p/5d94339eb2ce) |
+| Fri, 27 Jun 2025 15:27:00 GMT | CIVNFT, Themis, Shido: When Access Control, Oracles, and Configs All Fail at Once | Olympix | [Read More](https://medium.com/p/2789210f0aa5) |
+| Fri, 27 Jun 2025 15:26:39 GMT | Nuki Smart Lock Ultra: A New-Generation Smart Lock That’s Making Waves | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/517f94fc4953) |
+| Fri, 27 Jun 2025 15:23:31 GMT | Pawnfi, Midas, Hashflow: Borrowing Blind, Rounding Wrong, and Missing Auth Checks | Olympix | [Read More](https://medium.com/p/b97628c04fe9) |
+| Fri, 27 Jun 2025 15:20:16 GMT | Exposing the FOX: How 20,000+ Niagara Endpoints Left Smart Buildings Open to Attack | Azim Uddin | [Read More](https://medium.com/p/8aadc3ac7bf4) |
+| Fri, 27 Jun 2025 15:19:36 GMT | Sturdy, Atlantis, LunaFi: Governance Gaps, Oracle Reentrancy, and Reward Farming Gone Wrong | Olympix | [Read More](https://medium.com/p/d4a0a5d7912f) |
 | Fri, 27 Jun 2025 15:11:08 GMT | 350+ Free TryHackMe Rooms for Cybersecurity Enthusiasts | cyberwinx | [Read More](https://medium.com/p/a4bc982bf8a6) |
 | Fri, 27 Jun 2025 15:02:14 GMT | Serial Cyber Offenses: Behavioral Profiling and Linkage Analysis of Cases | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/d925c14ee0b7) |
 | Fri, 27 Jun 2025 15:01:44 GMT | Understanding the CIA Triad in Simple Terms | Gaarv Chauhan | [Read More](https://medium.com/p/18df3e429819) |
@@ -20,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 14:51:47 GMT | Why We Still Take Risks Online — Even When We Know Better | Scarlett Scarlett | [Read More](https://medium.com/p/570a0d2b2f4f) |
 | Fri, 27 Jun 2025 14:50:07 GMT | Supporting Neurodiverse Talent in Cybersecurity and IT: A Strategic Approach Using Psychometrics… | Adrian McGarry | [Read More](https://medium.com/p/2f75662887a0) |
 | Fri, 27 Jun 2025 14:45:35 GMT | Migrating to the Cloud: A Consultant’s Guide to Success | Ans Rehman | [Read More](https://medium.com/p/de8bd62168fd) |
+| Fri, 27 Jun 2025 14:36:40 GMT | Petya Ransomware. Descubrimientos y aprendizajes a 7 años de su erupción | Tiziano Mass | [Read More](https://medium.com/p/1a85f0f04607) |
 | Fri, 27 Jun 2025 14:36:03 GMT | How to reset raspberry pi pico w completely | Agape HearTs | [Read More](https://medium.com/p/25bce5eb1881) |
 | Fri, 27 Jun 2025 14:20:32 GMT | How to Detect SQL Injection — step by step instruction | Demianchuk Sergii | [Read More](https://medium.com/p/73a0eb6093dc) |
 | Fri, 27 Jun 2025 14:17:52 GMT | How Hackers can Hijack your RDP Session and Steal Password | Bendjaballah Zine Eddine | [Read More](https://medium.com/p/dcc16ce33f97) |
@@ -106,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 10:35:19 GMT | My Internship Journey with Oasis Infobyte - OIBSIP Experience | manoj mandal | [Read More](https://medium.com/p/ed349be5f48d) |
 | Fri, 27 Jun 2025 10:28:34 GMT | Decentralized Wireless Networks: Are They Sustainable? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/013152e99eb6) |
 | Fri, 27 Jun 2025 10:27:41 GMT | FDA Cybersecurity Premarket 2024: SBOM-Driven Compliance Under Section 524B | Daniel James | [Read More](https://medium.com/p/bbb6c79d6b13) |
-| Fri, 27 Jun 2025 10:23:01 GMT | Bug | Matthew Klope | [Read More](https://medium.com/p/9f04d48a7c34) |
-| Fri, 27 Jun 2025 10:19:37 GMT | Why Choosing the Right Penetration Testing Company in India Matters for Your Business | StrongBox IT | [Read More](https://medium.com/p/a81990a2f189) |
-| Fri, 27 Jun 2025 10:14:47 GMT | Navigating the Cloud: A Beginner’s Guide to Microsoft Azure | Peter Parker | [Read More](https://medium.com/p/b81c16e9a9da) |
-| Fri, 27 Jun 2025 10:13:29 GMT | Você Não Sabe o que é Pentest, mas Está Fingindo que Sabe | Ivan Borakove - Иван Бораков | [Read More](https://medium.com/p/a5f36d2f2bf2) |
-| Fri, 27 Jun 2025 10:11:22 GMT | FenrirLock: From Password Manager to Digital Fortress — A Movement in the Making | Maxwell Wolfe | [Read More](https://medium.com/p/47ac6dec2373) |
-| Fri, 27 Jun 2025 10:02:09 GMT | Major U.S. Companies Keep Losing Your Data. What Can You Do? | Karl Buhl | [Read More](https://medium.com/p/7b406212d8cc) |
-| Fri, 27 Jun 2025 10:00:48 GMT | Cybersecurity Fundamentals Every Professional Must Know | NineTales | [Read More](https://medium.com/p/85536107871e) |
-| Fri, 27 Jun 2025 09:59:28 GMT | Not All Judgement is Meant to Hurt | Nimas Muslimah | [Read More](https://medium.com/p/5983957bbb6b) |
