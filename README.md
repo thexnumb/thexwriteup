@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 19:25:14 GMT | NIST SP 1800–35: Implementing a Zero Trust Architecture | SOCFortress | [Read More](https://medium.com/p/fbe9ec56e187) |
+| Fri, 27 Jun 2025 19:23:56 GMT | Stop Coding Like You Work at Google | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ce9fca31c711) |
+| Fri, 27 Jun 2025 19:16:49 GMT | A Math Guy at Google Just 20X’d Quantum Computers’ Ability to Crack Encryption | Cellframe Social | [Read More](https://medium.com/p/f47e76654149) |
+| Fri, 27 Jun 2025 19:11:27 GMT | Honeypots in Network Security: The Art of Digital Deception | Rahul | [Read More](https://medium.com/p/32057f7d7cfb) |
 | Fri, 27 Jun 2025 19:06:42 GMT | Bypassing CSRF Token Validation Techniques | musayyab sharif | [Read More](https://medium.com/p/33d79004fc6b) |
+| Fri, 27 Jun 2025 19:03:38 GMT | Tryhackme Industrial Intrusion -CTF-Task 6“OSINT2” -Walkthrough | Sayan Raha | [Read More](https://medium.com/p/0f339b029cd5) |
 | Fri, 27 Jun 2025 18:58:51 GMT | Breakdown of Osascript in Atomic Stealer Malware | agastya rz | [Read More](https://medium.com/p/a0dce660ca75) |
 | Fri, 27 Jun 2025 18:43:12 GMT | "الهندسة الاجتماعية: كيف يخدعك المخترقون قبل اختراق أجهزتك؟"
 "Social Engineering: How Hackers Trick… | Najm Al-deen - نجم الدين اليوسفي | [Read More](https://medium.com/p/553fec39dcd6) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 13:54:13 GMT | A Simple Guide to Information Security and Cybersecurity | Khushi Verma | [Read More](https://medium.com/p/a151cc7395f4) |
 | Fri, 27 Jun 2025 13:50:35 GMT | TryHackMe — PT1 Review + Tips | Srijan Adk | [Read More](https://medium.com/p/f6819da6e05f) |
 | Fri, 27 Jun 2025 13:46:46 GMT | Navigating the Digital Battlefield: A Beginner’s Guide to Cybersecurity in 2025 | Agume _Kenneth_ | [Read More](https://medium.com/p/acd7dd31f67d) |
-| Fri, 27 Jun 2025 13:35:20 GMT | The Beauty in Brokenness | Andra on the Page | [Read More](https://medium.com/p/c71367ddd989) |
-| Fri, 27 Jun 2025 13:21:45 GMT | 2 Star Security Door Handle: Boost Your Home’s First Line of Defense | Lock Fitter | [Read More](https://medium.com/p/ab83f42fea55) |
-| Fri, 27 Jun 2025 13:21:04 GMT | Information Technology Colleges in Bangalore | Jahnavi Desai | [Read More](https://medium.com/p/aaadd0c27ca2) |
-| Fri, 27 Jun 2025 13:12:12 GMT | Top 10 IT Trends That Will Shape the Future of Technology in 2025 | DigitalConfex | [Read More](https://medium.com/p/28e651f02217) |
-| Fri, 27 Jun 2025 13:10:29 GMT | List Of Retirement communities in United States | shobha. rentechdigital | [Read More](https://medium.com/p/632d8cd95d89) |
