@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 18:22:16 GMT | The State of Cybersecurity Resilience 2025 — Summary and Key Actions | Ajay Kumar | [Read More](https://medium.com/p/0feddf7ec36b) |
+| Fri, 27 Jun 2025 18:19:37 GMT | Roam: Building a Global Decentralized WiFi Network with Real Utility | Miretkus | [Read More](https://medium.com/p/d7623f438b4d) |
+| Fri, 27 Jun 2025 18:14:44 GMT | When Your Mouse/Keyboard Turns Against You: Drone-Powered Keystroke Injection with nRF24L Chips | Rasul Mansurov | [Read More](https://medium.com/p/69b36774f12a) |
+| Fri, 27 Jun 2025 18:07:02 GMT | How I Built and Deployed a Secure Campaign Website for FOCITSA 2025 Elections — A Tech-Driven… | Ibrahim Yusuf | [Read More](https://medium.com/p/91a6c0fe0f63) |
+| Fri, 27 Jun 2025 18:06:44 GMT | Your Terraform Outputs Might Be Leaking Secrets — Without You Noticing | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/c6f32f3292a0) |
+| Fri, 27 Jun 2025 18:05:12 GMT | Increase Your Bugs Bunny $BUGS Rewards in 2025 | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/439e6d73790f) |
+| Fri, 27 Jun 2025 17:59:16 GMT | What Every CISO Needs to Know About HIPAA and Online Tracking Technologies in 2025 | Feroot Security | [Read More](https://medium.com/p/5de44a261541) |
+| Fri, 27 Jun 2025 17:51:29 GMT | SOSYAL MÜHENDİSLİK | Mehmet Karagülle | [Read More](https://medium.com/p/6ab9720777e9) |
+| Fri, 27 Jun 2025 17:45:34 GMT | always liked, but never pursued | Ae | [Read More](https://medium.com/p/2d3f8e2867e4) |
+| Fri, 27 Jun 2025 17:44:31 GMT | **They Hijacked My Domain for 3+ Years, Redirected It to Malware, Took Over My Cloud, and ICANN… | Daretoexpose | [Read More](https://medium.com/p/11ce9f792824) |
+| Fri, 27 Jun 2025 17:43:50 GMT | DAD?! Not the Triad We Wanted | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/518ecd8579de) |
+| Fri, 27 Jun 2025 17:41:17 GMT | Dear love of my life | Theresa Elhage | [Read More](https://medium.com/p/2dac0020b606) |
+| Fri, 27 Jun 2025 17:38:15 GMT | Android App Security Checklists for Developers | Pankaj Kumar | [Read More](https://medium.com/p/8b037a2655a6) |
 | Fri, 27 Jun 2025 17:34:23 GMT | DFIR Services: The Frontline Defense Against Cyber Incidents | SafeAeon Inc. | [Read More](https://medium.com/p/816ad3af7d2d) |
 | Fri, 27 Jun 2025 17:34:21 GMT | The Weekly Threat Round-up 23/06/2025–27/06/2025 | RileyHv | [Read More](https://medium.com/p/ac562308618e) |
 | Fri, 27 Jun 2025 17:34:11 GMT | Cybersecurity News Review — Week 26 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/66bf42931f73) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 12:55:27 GMT | The Cybersecurity Skills That Could Future-Proof Your Career by 2030 | Tawhid Maruf | [Read More](https://medium.com/p/a02771aafba2) |
 | Fri, 27 Jun 2025 12:50:08 GMT | How Secure Are Your IoT Devices? Why IoT Auditing Is Critical in 2025 | Recover Right | [Read More](https://medium.com/p/fbfb115315e6) |
 | Fri, 27 Jun 2025 12:47:08 GMT | Zero-Trust ASP.NET Core 10 Security | Adem KORKMAZ | [Read More](https://medium.com/p/f16c70c6fec9) |
-| Fri, 27 Jun 2025 12:41:51 GMT | All I Wanted Was a Place in Your Honesty | Manishakumari | [Read More](https://medium.com/p/e785628a431d) |
-| Fri, 27 Jun 2025 12:33:26 GMT | picoCTF Web Exploitation: IntroToBurp (easy) | Hussein Gaweesh | [Read More](https://medium.com/p/16fb1fe53e39) |
-| Fri, 27 Jun 2025 12:31:52 GMT | I Pretended To Fall For A WhatsApp Scam Here’s What Happened. | The Anti-Scam Diaries | [Read More](https://medium.com/p/6cb0b29b11e2) |
-| Fri, 27 Jun 2025 12:29:52 GMT | Common pitfalls in zero trust implementation and how to avoid them | Cloud4C Services | [Read More](https://medium.com/p/3886f06976c8) |
-| Fri, 27 Jun 2025 12:29:02 GMT | Hack the Human: Why I Stopped Thinking Like a Hacker and Started Thinking Like a Person | Đeepanshu | [Read More](https://medium.com/p/794400b0fc88) |
-| Fri, 27 Jun 2025 12:26:35 GMT | How do cloud security services ensure compliance? | Ziya Zoe | [Read More](https://medium.com/p/5a5e54310c51) |
-| Fri, 27 Jun 2025 12:21:53 GMT | Your Firewall Might Be Useless If You’re Doing These 5 Things | Coder Roots | [Read More](https://medium.com/p/943152a3e3fd) |
-| Fri, 27 Jun 2025 12:21:53 GMT | AI Governance in 2025: Handing Over the Keys to the Algorithmic Teenager | Wale Adedeji | [Read More](https://medium.com/p/dcd26315bb02) |
-| Fri, 27 Jun 2025 12:16:10 GMT | Cyber Meltdown: 16 Billion Passwords Leak Sparks Global Panic | Ashish Agrawal | [Read More](https://medium.com/p/dd0cbe30962a) |
-| Fri, 27 Jun 2025 12:08:08 GMT | What Is Cyber Risk Assessment & Planning, and Why Is It Critical for Modern Businesses? | Sophia | [Read More](https://medium.com/p/25c6a0aba39e) |
-| Fri, 27 Jun 2025 12:07:06 GMT | Why I’m Building Something to Ask the Questions I Can’t | hael - Family Story Curator | [Read More](https://medium.com/p/2dbdfecde3b4) |
-| Fri, 27 Jun 2025 12:05:57 GMT | Exploits Escalate: KEV Inclusions, Botnet Activity, and Malware Campaigns | Loginsoft | [Read More](https://medium.com/p/f2ce6058eaca) |
-| Fri, 27 Jun 2025 12:02:50 GMT | Top Reasons to Hire a Penetration Testing Company: Benefits for Every Business | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/370478edd3cf) |
