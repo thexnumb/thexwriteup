@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 04:49:23 GMT | Penetration Testing Australia: Meeting Client Security Expectations and Excelling in Vendor… | Steve McLaughlin | [Read More](https://medium.com/p/3790a622c483) |
+| Fri, 27 Jun 2025 04:33:07 GMT | What They Never Told Me About Honesty | Jovie Moon | [Read More](https://medium.com/p/c6e454ed84d3) |
+| Fri, 27 Jun 2025 04:29:12 GMT | XSS at U.S. Department of Education | AbhirupKonwar | [Read More](https://medium.com/p/771bf5b0a003) |
+| Fri, 27 Jun 2025 04:24:18 GMT | From Reactive to Proactive: How Ericsson’s Intelligent Automation Platform (EIAP) is… | Swarnendu Das | [Read More](https://medium.com/p/c1684b1b8bda) |
+| Fri, 27 Jun 2025 04:23:58 GMT | How to Make a Strong Password: Simple Tips to Stay on the Safe Side | Aayush Shrestha | [Read More](https://medium.com/p/ae8ac874a532) |
 | Fri, 27 Jun 2025 03:56:18 GMT | Best Linux OS for Cybersecurity (2025 Guide for All Levels) | Creative Prash | [Read More](https://medium.com/p/7c24f316decc) |
 | Fri, 27 Jun 2025 03:52:06 GMT | Is Your Password Safe? Some mistakes You Must Avoid? | UpThoughts | [Read More](https://medium.com/p/1bed56622d06) |
 | Fri, 27 Jun 2025 03:31:20 GMT | Think You’re Downloading Google Chrome? Think Again, It Might Be Spyware in Disguise | Deven Chhajed | [Read More](https://medium.com/p/641bd516ecee) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 18:52:52 GMT | Geth 源码系列：交易设计及实现 | LXDAO | [Read More](https://medium.com/p/2859e75149b4) |
 | Thu, 26 Jun 2025 18:44:31 GMT | The Digital Keys to Your Kingdom: Why IAM is the Unsung Hero of Cybersecurity | Siri S Nadig | [Read More](https://medium.com/p/20894ea71270) |
 | Thu, 26 Jun 2025 18:41:04 GMT | Been independent for too long. | kn.gnth | [Read More](https://medium.com/p/219012be081b) |
-| Thu, 26 Jun 2025 18:35:02 GMT | How Seniors Can Spot Scams — Part 2: Practical Steps to Stay Safe | SilverTech Support | [Read More](https://medium.com/p/2c8a42cedbc9) |
-| Thu, 26 Jun 2025 18:32:42 GMT | Automate Recon. Find Bugs. Get Paid. (Start Here) | m0rd3caii | [Read More](https://medium.com/p/eecddcc0a82c) |
-| Thu, 26 Jun 2025 18:31:20 GMT | How WhatsApp Has Killed My Recovery After Work | Dr. Patricia Schmidt - Psychology Ghostwriter | [Read More](https://medium.com/p/1ba25581b2e0) |
-| Thu, 26 Jun 2025 18:28:41 GMT | Have You Enabled Your Drive’s Encryption? | Opal Lock by Fidelity Height | [Read More](https://medium.com/p/1cac53e9967c) |
-| Thu, 26 Jun 2025 18:27:00 GMT | Racing the Quantum Threat: 5 Nations Compress Post-Quantum Cryptography Timelines | QuantumGenie | [Read More](https://medium.com/p/2b646b7b02c1) |
