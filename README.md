@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 16:19:34 GMT | Sense: ParrotCTF | Sidharth Panda | [Read More](https://medium.com/p/ba1b0634c63a) |
+| Fri, 27 Jun 2025 16:18:04 GMT | Information Disclosure part-4 : Authentication bypass via information disclosure | Ahmad Sopyan | [Read More](https://medium.com/p/befc45290fe6) |
+| Fri, 27 Jun 2025 16:13:44 GMT | JSON and Encryption Keys — A Marriage Made In Heaven | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/890d28e3f687) |
+| Fri, 27 Jun 2025 16:10:39 GMT | AroCrypt: Hiding Secrets in Plain Sight with AES Encryption and Steganography | AroCodes | [Read More](https://medium.com/p/546c094c2de7) |
+| Fri, 27 Jun 2025 16:08:02 GMT | What Are MDR Security Services and Why Your Business Needs Them | SafeAeon Inc. | [Read More](https://medium.com/p/a63067213936) |
+| Fri, 27 Jun 2025 16:01:54 GMT | [EN] Stealers | umbraXsecure | [Read More](https://medium.com/p/9063d4efc45f) |
+| Fri, 27 Jun 2025 15:58:56 GMT | Windows Logging for SOC - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/5cc0917a3e42) |
+| Fri, 27 Jun 2025 15:58:36 GMT | A Comparative Analysis of Leading Large Language Models: Grok 3, OpenAI’s GPT-4o, and Google’s… | FARHAN AHMED | [Read More](https://medium.com/p/1202cc82b118) |
+| Fri, 27 Jun 2025 15:55:32 GMT | How does VPN works- all about VPN | err0rgod | [Read More](https://medium.com/p/15e3bf2bb24d) |
+| Fri, 27 Jun 2025 15:53:33 GMT | I Believed Tom Hanks Ate Babies | The Accidental Monster | [Read More](https://medium.com/p/6d672286e083) |
+| Fri, 27 Jun 2025 15:46:40 GMT | From Chatbots to Image Generators: One App to Rule Them All (Beginner’s Guide) | Thedigitalmouth | [Read More](https://medium.com/p/58c6b3f6bb03) |
+| Fri, 27 Jun 2025 15:44:14 GMT | Day 34: Process Injection Attacks | Nile Okomo | [Read More](https://medium.com/p/b0fa348e662d) |
+| Fri, 27 Jun 2025 15:40:59 GMT | Day 35 of #60DaysofGRC: What’s the Point of an Audit? | Brittney Ginther | [Read More](https://medium.com/p/2f9f563c2057) |
+| Fri, 27 Jun 2025 15:37:48 GMT | Cara Menghapus Agent di Wazuh Menggunakan manage_agents | Haldian | [Read More](https://medium.com/p/5f555902aa15) |
+| Fri, 27 Jun 2025 15:32:35 GMT | What If I’m the Toxic One? The Quiet Sabotage of My Relationships and Myself | Arlettys Lp | [Read More](https://medium.com/p/3be364d17c98) |
 | Fri, 27 Jun 2025 15:32:03 GMT | Cybersecurity Awareness: Records Management — Why It Matters More Than Ever in 2025 | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/dcd87cb0774e) |
 | Fri, 27 Jun 2025 15:27:41 GMT | SQL Injection Ciega por Errores Condicionales | Roberto Alfaro (Vuldar) | [Read More](https://medium.com/p/5d94339eb2ce) |
 | Fri, 27 Jun 2025 15:27:00 GMT | CIVNFT, Themis, Shido: When Access Control, Oracles, and Configs All Fail at Once | Olympix | [Read More](https://medium.com/p/2789210f0aa5) |
@@ -99,18 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 10:59:33 GMT | QMSR Final Rule 2024 | Daniel James | [Read More](https://medium.com/p/6a761e584cad) |
 | Fri, 27 Jun 2025 10:58:15 GMT | Gemini Can’t Write | Tomer Wetzler | [Read More](https://medium.com/p/98a78a797ab0) |
 | Fri, 27 Jun 2025 10:57:37 GMT | Securing the Unknown 2.0: Charting a Course for Resilient Agentic AI | Lars Godejord | [Read More](https://medium.com/p/894afa7b1055) |
-| Fri, 27 Jun 2025 10:56:57 GMT | AWS Threat Detection and Automated Remediation | Jamie kariuki | [Read More](https://medium.com/p/8df09d9dc924) |
-| Fri, 27 Jun 2025 10:56:10 GMT | Cyber Security Course With Real-Time Projects — Only At Osiz Labs | Osiz Labs | [Read More](https://medium.com/p/68c330da2f22) |
-| Fri, 27 Jun 2025 10:54:38 GMT | MOVEit Transfer Faces Renewed Cyber Threats Amid Ongoing Exploitation Surge | CyBlog | [Read More](https://medium.com/p/4222c8043f02) |
-| Fri, 27 Jun 2025 10:51:45 GMT | The Unspoken Fear: What Happens When Your Business Gets Hacked, and You’re Not Ready? | Online IT Solutions | [Read More](https://medium.com/p/1c9ad8c1bafe) |
-| Fri, 27 Jun 2025 10:49:04 GMT | Bypassing Badge Authentication in an ICS Environment | Stoic_Gang | [Read More](https://medium.com/p/689dbe26a545) |
-| Fri, 27 Jun 2025 10:48:21 GMT | How Does AI Enhance IoT Security in Healthcare? | Accorian | [Read More](https://medium.com/p/1edab4a5a492) |
-| Fri, 27 Jun 2025 10:45:38 GMT | How to Get Certified in Cloud Security: Best Programs and Career Paths | Career Security: Tech Training & Certifications | [Read More](https://medium.com/p/a8e142a6efe2) |
-| Fri, 27 Jun 2025 10:44:05 GMT | One-Click Account Vulnerability: How I Discovered a Dangerous Authentication Flaw in a Global… | Elie Attieh | [Read More](https://medium.com/p/1cbc9a39e206) |
-| Fri, 27 Jun 2025 10:44:04 GMT | samama bin abdul rehman | Samama bin Abdul Rehman | [Read More](https://medium.com/p/90273f5baa7e) |
-| Fri, 27 Jun 2025 10:39:42 GMT | Microsoft 365 Direct Send Vulnerability: A Critical Security Blind Spot Exposing Organizations… | Technijian | [Read More](https://medium.com/p/80c2ad829131) |
-| Fri, 27 Jun 2025 10:38:38 GMT | Your Biggest Cybersecurity Weakness Is Yourself | Papaspyrou Alexandros | [Read More](https://medium.com/p/ab205862e8a8) |
-| Fri, 27 Jun 2025 10:38:30 GMT | Cyber Threats in Online Marketing Ads You Can’t Ignore! | Accorian | [Read More](https://medium.com/p/ef2f754e5d18) |
-| Fri, 27 Jun 2025 10:35:19 GMT | My Internship Journey with Oasis Infobyte - OIBSIP Experience | manoj mandal | [Read More](https://medium.com/p/ed349be5f48d) |
-| Fri, 27 Jun 2025 10:28:34 GMT | Decentralized Wireless Networks: Are They Sustainable? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/013152e99eb6) |
-| Fri, 27 Jun 2025 10:27:41 GMT | FDA Cybersecurity Premarket 2024: SBOM-Driven Compliance Under Section 524B | Daniel James | [Read More](https://medium.com/p/bbb6c79d6b13) |
