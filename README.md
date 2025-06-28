@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 15:07:45 GMT | The emotional hangover after being too open in front of ears that refuse to hear. | Magnolia Eve-Madylove. | [Read More](https://medium.com/p/c9287bbf4a8d) |
+| Sat, 28 Jun 2025 15:03:26 GMT | Printer Security Alert: A Deep Dive into the 8 New Vulnerabilities Affecting 748 Models from 5… | Defaulty.io | [Read More](https://medium.com/p/a80fa74bae9d) |
+| Sat, 28 Jun 2025 15:01:54 GMT | The $223 Million Cetus Protocol Hack: How a Simple Bug Cost Everything | Chronos Vault | [Read More](https://medium.com/p/b610ce1173a8) |
+| Sat, 28 Jun 2025 15:01:53 GMT | Hack Mobile Apps Using Frida and Ghidra | Harshad Shah | [Read More](https://medium.com/p/27835bbaeb58) |
+| Sat, 28 Jun 2025 14:46:29 GMT | 2025’te KOBİ’leri Bekleyen Siber Tehditler | Ali Ekber KARA | [Read More](https://medium.com/p/2b534c3f2464) |
+| Sat, 28 Jun 2025 14:45:03 GMT | HTB Write-Up: Planning (Easy) | Ivan Ahmos | [Read More](https://medium.com/p/83b9785a54f4) |
 | Sat, 28 Jun 2025 14:29:12 GMT | A New Era in Cyber Law and Inclusion | Vijay Kumar Gupta | [Read More](https://medium.com/p/ab4df288089b) |
 | Sat, 28 Jun 2025 14:26:41 GMT | ️ Scattered Spider Spreads Its Web | Brittney Ginther | [Read More](https://medium.com/p/8f6c6e7daeee) |
 | Sat, 28 Jun 2025 14:25:35 GMT | Esthomy.com’un Perde Arkası: Sıfırdan Güçlü ve Güvenli Bir Altyapı Nasıl Kurduk? | A. Eren Özdemir | [Read More](https://medium.com/p/401416a56d37) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 08:57:24 GMT | The End of GDP | Tom Yonashiro | [Read More](https://medium.com/p/c4426ba51e6e) |
 | Sat, 28 Jun 2025 08:56:31 GMT | The "Alert Circle" SOC — A Biomimetic Model for Resilient Cybersecurity in Uncertain Environments | Jugaad Tiger | [Read More](https://medium.com/p/63af50fe142a) |
 | Sat, 28 Jun 2025 08:55:54 GMT | Agentic AI in the SOC: Transforming Cybersecurity Operations | CyberSleuth_Idhris | [Read More](https://medium.com/p/251633bc30f4) |
-| Sat, 28 Jun 2025 08:54:39 GMT | My Cyber Awakening: Hacking, Scans, and the Shocking Truth About Digital Security | Anthony Ssetimba | [Read More](https://medium.com/p/44f54bf28121) |
-| Sat, 28 Jun 2025 08:26:40 GMT | BlueTeamGPT: The AI Defender Every Security Team Needs | Saikat Paul | [Read More](https://medium.com/p/b920a5f56237) |
-| Sat, 28 Jun 2025 08:23:05 GMT | Anonymous and the Armor of God: A Spiritual Comparison of Two Movements | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/11df895aa34f) |
-| Sat, 28 Jun 2025 08:20:18 GMT | The Invisible Threat Lurking in Industrial Networks: GE SRTP | Azim Uddin | [Read More](https://medium.com/p/0f80d277dcb9) |
-| Sat, 28 Jun 2025 08:03:22 GMT | Secure Coding für Web-Entwickler | mertes.dev | [Read More](https://medium.com/p/63f66c8d064e) |
-| Sat, 28 Jun 2025 07:59:51 GMT | Inside the Dark Web’s Most Ruthless Heist: How Double-Extortion Ransomware Holds Companies… | Ekene Joseph | [Read More](https://medium.com/p/c6467eb3ce42) |
