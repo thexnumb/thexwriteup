@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 09:37:41 GMT | ExteBrowser Extension Recon: Tools and Methods for Analyzing Target-Owned Extensions | Monika sharma | [Read More](https://medium.com/p/5ba5efbc1d9e) |
+| Sat, 28 Jun 2025 09:36:34 GMT | The Frida & Objection Setup Guide: Solving Version Hell on Android & iOS (Timeless Guide) | Sandeep Wawdane | [Read More](https://medium.com/p/f55eb98459a0) |
+| Sat, 28 Jun 2025 09:36:16 GMT | OS Command Injection — When Your Server Obeys My Commands Like a Soldier | phoenixcatalan | [Read More](https://medium.com/p/ecbe2fe6ec3d) |
+| Sat, 28 Jun 2025 09:34:30 GMT | Can an Automated Pentesting Tool Replace Pentesting Jobs? | Sam Bishop | [Read More](https://medium.com/p/43f647808bc4) |
+| Sat, 28 Jun 2025 09:34:09 GMT | Privacy in this era? LOL | Ngatz | [Read More](https://medium.com/p/ce56ef72722e) |
+| Sat, 28 Jun 2025 09:33:47 GMT | From Zero to Your First Valid Vulnerability Report in 7 Days | Vipul Sonule | [Read More](https://medium.com/p/692050467ea1) |
+| Sat, 28 Jun 2025 09:33:22 GMT | The Quiet Ones: Max And Clementine | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/6c3414af7723) |
+| Sat, 28 Jun 2025 09:29:28 GMT | The Ultimate Guide to Bug Hunting: Uncovering Digital Treasures in 2025 | Monika sharma | [Read More](https://medium.com/p/527b25b6d896) |
+| Sat, 28 Jun 2025 09:22:15 GMT | ️ From Payload to Pwn: How I Discovered SQL Injection in a BigQuery API and Exfiltrated Metadata | rohan badekan | [Read More](https://medium.com/p/b51a0ed88357) |
+| Sat, 28 Jun 2025 09:17:02 GMT | Web Hacking 101 with PicoCTF - CTF Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/4c60b7aa6f80) |
 | Sat, 28 Jun 2025 09:15:55 GMT | DC-1 VulnHub CTF Walkthrough — Remote Code Execution & Privilege Escalation via Drupal | Basit Olasubomi Balogun | [Read More](https://medium.com/p/3e49de54f7a4) |
 | Sat, 28 Jun 2025 09:12:46 GMT | Pwning with Purpose: A Beginner’s Guide to Vulnerability Exploitation with Metasploit on Kali Linux | Saikat Paul | [Read More](https://medium.com/p/d08a3acadc33) |
 | Sat, 28 Jun 2025 09:11:42 GMT | Unauthenticated AWS IAM Principals Enumeration (pwnedlabs) | n00 | [Read More](https://medium.com/p/d35ed3cb8b81) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 23:16:41 GMT | Windows Logging for SOC . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/e4aa10339261) |
 | Fri, 27 Jun 2025 23:10:18 GMT | Laravel Source Code Review: How XSS Lead to Privilege Escalation and Eventually RCE | Mostafa Yasser | [Read More](https://medium.com/p/3ec410fa0fcb) |
 | Fri, 27 Jun 2025 23:06:05 GMT | This Chrome Download Will Hijack Your System: Inside the ValleyRAT Attack Chain | Cyber-AppSec | [Read More](https://medium.com/p/9cf912f1b907) |
-| Fri, 27 Jun 2025 22:43:53 GMT | Cybersecurity in Crisis Mode: Brother Printers, Ransomware, and Geopolitical Flashpoints | Akilnath Bodipudi | [Read More](https://medium.com/p/9e6e817a39c3) |
-| Fri, 27 Jun 2025 22:42:59 GMT | OSINT: SPYGAME, a network of celebrity surveillance cameras that seek to expose and harass on the… | VECERT | [Read More](https://medium.com/p/4805279470d8) |
-| Fri, 27 Jun 2025 22:16:39 GMT | Passive Recon for Bug Bounty: Best Tools and Real-World Tactics | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9dcd7386eb16) |
-| Fri, 27 Jun 2025 22:15:00 GMT | Let’s Try Positive Reinforcement Cybersecurity Training | Matthew.Rosenquist | [Read More](https://medium.com/p/042397632c0c) |
-| Fri, 27 Jun 2025 22:12:02 GMT | Retro Breakfast Cocoa | Living A Lyrical Life | [Read More](https://medium.com/p/5dceb40df0be) |
-| Fri, 27 Jun 2025 22:08:03 GMT | The Girl Who Opened the Door Twice | Beatrice Akapo | [Read More](https://medium.com/p/df6875ada248) |
-| Fri, 27 Jun 2025 22:02:42 GMT | The Glitch That Made Me Real | Raymond Brunell | [Read More](https://medium.com/p/5d1f9d285d00) |
-| Fri, 27 Jun 2025 21:55:17 GMT | What is the Difference Between The Dark Web and The Normal Web? | Black Wolf | [Read More](https://medium.com/p/2f880bc16f5f) |
-| Fri, 27 Jun 2025 21:47:57 GMT | Hacked in H1 2025: $8.38 Billion Lost Across 66 Web3 Exploits | CyberLucifer | [Read More](https://medium.com/p/a7162a03d811) |
-| Fri, 27 Jun 2025 21:35:44 GMT | Automating Linux User Management and Access Control | hansel Grade | [Read More](https://medium.com/p/ed3454110f89) |
