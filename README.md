@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 17:20:15 GMT | New “Godfather” Malware is Back | Piyush | [Read More](https://medium.com/p/d19c5b9cfcac) |
+| Sat, 28 Jun 2025 17:17:11 GMT | Agent Sudo on TryHackMe — Writeup | i3_mr1i | [Read More](https://medium.com/p/6895a73934a0) |
+| Sat, 28 Jun 2025 17:14:15 GMT | Pentesting Fundamentals — TryHackMe Room Walkthrough | santosh gadekar | [Read More](https://medium.com/p/e74f0b850da4) |
 | Sat, 28 Jun 2025 17:11:13 GMT | I Did Nothing for 7 Days — And It Changed Everything About How I Work"
 Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763) |
 | Sat, 28 Jun 2025 17:09:56 GMT | New Feelings | Unhugged | [Read More](https://medium.com/p/8ea6fff58f72) |
@@ -110,6 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 10:28:38 GMT | “Burp Suite, Bugs & Growth: What a Cybersecurity Competition in my university Taught Me” | Pooja Borade | [Read More](https://medium.com/p/b9dc94c35e47) |
 | Sat, 28 Jun 2025 10:27:55 GMT | Microsoft 365 Copilot Zero-Click Attacks: A Novel Approach to Cybersecurity Risks | CyberSleuth_Idhris | [Read More](https://medium.com/p/79e01e4ecb97) |
 | Sat, 28 Jun 2025 10:25:31 GMT | How I Built a Simple NIDS with Suricata and Wazuh on Ubuntu | Abdullahkhan | [Read More](https://medium.com/p/cf49fe4bd05e) |
-| Sat, 28 Jun 2025 10:24:08 GMT | Level Up Your Web Security Game: Essential Tools for PenTesting & Bug Bounty Hunting | KALYAN CHAVALA | [Read More](https://medium.com/p/078862e91bb7) |
-| Sat, 28 Jun 2025 10:22:00 GMT | OWASP Pentest Series (10/12) | TheZeeshanKhan | [Read More](https://medium.com/p/ea12c088677f) |
-| Sat, 28 Jun 2025 10:04:45 GMT | Wish I Knew This AWS Scaling Architecture Earlier! | Kanav Sharma | [Read More](https://medium.com/p/d92b3614e5de) |
