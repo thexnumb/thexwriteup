@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 11:05:12 GMT | Cyble — | Pratham Sharma | [Read More](https://medium.com/p/ea2be6c852d9) |
+| Sat, 28 Jun 2025 11:03:26 GMT | Agentic Systems Will Shape the Future of Cybersecurity — But AI Agents Need Protection Too | noailabs | [Read More](https://medium.com/p/467413e8ff0a) |
+| Sat, 28 Jun 2025 11:03:04 GMT | How We Replaced A Team of 15 With A Single Engineer | Saikat Paul | [Read More](https://medium.com/p/f3550b155c79) |
+| Sat, 28 Jun 2025 10:59:24 GMT | How Cyber Crime Is Exploding Across Social Media | Cybersecurity Alerts | [Read More](https://medium.com/p/05995dae6a79) |
+| Sat, 28 Jun 2025 10:59:12 GMT | When the Code Breaks, My Mind Learns: Testing as a Journey of Patience | Himanshunya | [Read More](https://medium.com/p/6f1a97644b05) |
+| Sat, 28 Jun 2025 10:57:01 GMT | Got Deactivated? No Problem — Here’s a 10-Minute Window to Take Control | ValidByAccident | [Read More](https://medium.com/p/72eff56c79ee) |
+| Sat, 28 Jun 2025 10:45:17 GMT | Master Application and Network Security Testing with CANSTE Program by Tonex | M. Rahman | [Read More](https://medium.com/p/997b205ace2b) |
+| Sat, 28 Jun 2025 10:41:58 GMT | The Technologies Behind Bluepill’s Audit System — Shaping the Future of Web3 Security | Meoowrypto | [Read More](https://medium.com/p/58599c6fc9fa) |
+| Sat, 28 Jun 2025 10:40:04 GMT | What Security Auditing Really Is? And Why It’s the Health Check Every IT Environment Needs? | Mujtaba Shaikeldin | [Read More](https://medium.com/p/e8c390d168d2) |
 | Sat, 28 Jun 2025 10:32:42 GMT | Information Disclosure part-5 : Information disclosure in version control history | Ahmad Sopyan | [Read More](https://medium.com/p/68694424d6eb) |
 | Sat, 28 Jun 2025 10:31:51 GMT | From HTTPS to Pinning: Securing Web Apps the Smart Way | Natarajan C K | [Read More](https://medium.com/p/a3bec41074a5) |
 | Sat, 28 Jun 2025 10:29:31 GMT | How Hackers Target University Students  —  And How You Can Stay Safe | Janith Rathnayake | [Read More](https://medium.com/p/fe0e60c60aab) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 04:17:12 GMT | 1.what is networking ? Tryhackme #writeup | Imatechie | [Read More](https://medium.com/p/6ced544ed44c) |
 | Sat, 28 Jun 2025 04:09:38 GMT | From Localhost to AWS: Migrating My Cyber Anomaly Detection API to the Cloud | Tony Maunu | [Read More](https://medium.com/p/534d8b2af247) |
 | Sat, 28 Jun 2025 04:05:22 GMT | Frontend Security Best Practices: Protecting Your Users and Your App | Rahul Dinkar | [Read More](https://medium.com/p/13ce3e3a6ebc) |
-| Sat, 28 Jun 2025 03:38:36 GMT | TryHackMe FFUF Room Walkthrough | MUHTADIN | [Read More](https://medium.com/p/bb107d902fc1) |
-| Sat, 28 Jun 2025 03:31:54 GMT | Hijacked by Search: How Cybercriminals Manipulate Google to Trap You | Deven Chhajed | [Read More](https://medium.com/p/4d1efbf2b65f) |
-| Sat, 28 Jun 2025 03:31:04 GMT | The Pug Who Listens: How a Little Dog Knows What You Won’t Say | BWenz The Pug  Pawspectives | [Read More](https://medium.com/p/e444938603a7) |
-| Sat, 28 Jun 2025 03:29:44 GMT | METABIGOR - OSINT Tool | AbhirupKonwar | [Read More](https://medium.com/p/cdacb8fb3023) |
-| Sat, 28 Jun 2025 02:53:53 GMT | The Rise of Offensive AI Security: The New Frontier in Cyber Defense and Attack | Kennedymutugi | [Read More](https://medium.com/p/2688601ddfb8) |
-| Sat, 28 Jun 2025 02:36:37 GMT | Join Zero2Root as a Writer: Share Your Cybersecurity Knowledge! | DarKVoicE | [Read More](https://medium.com/p/b51193076171) |
-| Sat, 28 Jun 2025 02:10:47 GMT | Book Review: Ghost in the Wires by Kevin Mitnick | Samriddhi | [Read More](https://medium.com/p/0c71071bb523) |
-| Sat, 28 Jun 2025 01:58:29 GMT | National Insurance Awareness Day | Luna Dawn | [Read More](https://medium.com/p/79393242d7c7) |
-| Sat, 28 Jun 2025 01:56:42 GMT | The Ultimate Guide to Crafting a Strong Password | Jean Bertro Paul | [Read More](https://medium.com/p/0c1603d288cb) |
