@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 15:37:23 GMT | Security Misconfiguration — Leading to Sensitive Information Disclosure and Potential AWS Access… | Abin | [Read More](https://medium.com/p/dd8521b0c771) |
+| Sat, 28 Jun 2025 15:31:51 GMT | Billions of Passwords Leaked: What Every Content Creator Needs to Know (And Do!) | Safkat Bin Jasib | [Read More](https://medium.com/p/80f4d97a4d59) |
+| Sat, 28 Jun 2025 15:23:31 GMT | Hiding in Plain Sight — LSB Steganography | Andrew Petrus | [Read More](https://medium.com/p/7f451ff4c191) |
+| Sat, 28 Jun 2025 15:21:47 GMT | The Weigh You Can’t See | Reku | [Read More](https://medium.com/p/5fd7ae887de5) |
+| Sat, 28 Jun 2025 15:20:47 GMT | It compares the current and next two num values. | Himabindu Kadali | [Read More](https://medium.com/p/3867d4382122) |
+| Sat, 28 Jun 2025 15:18:17 GMT | The emotional hangover after being too open in front of ears that refuse to hear. | Magnolia Eve-Madylove. | [Read More](https://medium.com/p/9214a40b473f) |
+| Sat, 28 Jun 2025 15:10:39 GMT | When Your Smile Becomes a Mask The Quiet Exhaustion of Always Being 'Okay' ~Sera Dawn | Sera Dawn | [Read More](https://medium.com/p/eccc22da2e5c) |
 | Sat, 28 Jun 2025 15:07:45 GMT | The emotional hangover after being too open in front of ears that refuse to hear. | Magnolia Eve-Madylove. | [Read More](https://medium.com/p/c9287bbf4a8d) |
 | Sat, 28 Jun 2025 15:03:26 GMT | Printer Security Alert: A Deep Dive into the 8 New Vulnerabilities Affecting 748 Models from 5… | Defaulty.io | [Read More](https://medium.com/p/a80fa74bae9d) |
 | Sat, 28 Jun 2025 15:01:54 GMT | The $223 Million Cetus Protocol Hack: How a Simple Bug Cost Everything | Chronos Vault | [Read More](https://medium.com/p/b610ce1173a8) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 09:22:15 GMT | ️ From Payload to Pwn: How I Discovered SQL Injection in a BigQuery API and Exfiltrated Metadata | rohan badekan | [Read More](https://medium.com/p/b51a0ed88357) |
 | Sat, 28 Jun 2025 09:17:02 GMT | Web Hacking 101 with PicoCTF - CTF Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/4c60b7aa6f80) |
 | Sat, 28 Jun 2025 09:15:55 GMT | DC-1 VulnHub CTF Walkthrough — Remote Code Execution & Privilege Escalation via Drupal | Basit Olasubomi Balogun | [Read More](https://medium.com/p/3e49de54f7a4) |
-| Sat, 28 Jun 2025 09:12:46 GMT | Pwning with Purpose: A Beginner’s Guide to Vulnerability Exploitation with Metasploit on Kali Linux | Saikat Paul | [Read More](https://medium.com/p/d08a3acadc33) |
-| Sat, 28 Jun 2025 09:11:42 GMT | Unauthenticated AWS IAM Principals Enumeration (pwnedlabs) | n00 | [Read More](https://medium.com/p/d35ed3cb8b81) |
-| Sat, 28 Jun 2025 09:08:02 GMT | 10 Types of Computer Crimes and Amazing Prevention Methods | Genuismindwave | [Read More](https://medium.com/p/f6a2c53b4a0e) |
-| Sat, 28 Jun 2025 09:02:46 GMT | ✉️ Gmail’s AI Spam Filter Is Failing You — Here’s How I Took Back Control of My Inbox in 10 Minutes | Tech Pulse Daily | [Read More](https://medium.com/p/3766fdf9490d) |
-| Sat, 28 Jun 2025 08:57:24 GMT | The End of GDP | Tom Yonashiro | [Read More](https://medium.com/p/c4426ba51e6e) |
-| Sat, 28 Jun 2025 08:56:31 GMT | The "Alert Circle" SOC — A Biomimetic Model for Resilient Cybersecurity in Uncertain Environments | Jugaad Tiger | [Read More](https://medium.com/p/63af50fe142a) |
-| Sat, 28 Jun 2025 08:55:54 GMT | Agentic AI in the SOC: Transforming Cybersecurity Operations | CyberSleuth_Idhris | [Read More](https://medium.com/p/251633bc30f4) |
