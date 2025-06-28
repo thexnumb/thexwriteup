@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 13:28:21 GMT | TryHackMe: Pentesting Fundamentals — A Walkthrough by Ishita Gandhi | Ishitagandhi | [Read More](https://medium.com/p/6179dd7a88d4) |
+| Sat, 28 Jun 2025 13:26:16 GMT | IPSEC nədir və necə işləyir? | Makharramli | [Read More](https://medium.com/p/b3b2f4048d48) |
+| Sat, 28 Jun 2025 13:13:55 GMT | The Caverhill Protocol vs. Zero Trust: Breaking the Mold for Modern Security | Travis Ray Caverhill | [Read More](https://medium.com/p/409e2f7dc0fd) |
+| Sat, 28 Jun 2025 13:12:10 GMT | Enumeration Basics with NMAP Scanning | Criswellcam | [Read More](https://medium.com/p/c452d869e311) |
+| Sat, 28 Jun 2025 13:03:04 GMT | Your API Is a Goldmine for Hackers. Here’s How EDSPL Protects It. | saurabh cyberinfomines | [Read More](https://medium.com/p/f29b219c372b) |
+| Sat, 28 Jun 2025 13:02:26 GMT | Incident Response : From Alert to Action | Ahmed Elbatea | [Read More](https://medium.com/p/c27e0ce60b30) |
+| Sat, 28 Jun 2025 13:02:18 GMT | TryHackMe CMesS — Walkthrough | mauzware | [Read More](https://medium.com/p/8b368881f75b) |
+| Sat, 28 Jun 2025 12:58:32 GMT | Why Edcited Educational Services is Your Pathway to Success | Edcited | [Read More](https://medium.com/p/1f8a984e0372) |
+| Sat, 28 Jun 2025 12:48:49 GMT | The Ultimate Guide to Hydra: Mastering Brute Force Password Cracking | Taha Ex | [Read More](https://medium.com/p/07fbe8ed7d4e) |
+| Sat, 28 Jun 2025 12:36:41 GMT | This Spring Boot Filter Trick Improved API Security Without Any Extra Code | Ramesh Fadatare | [Read More](https://medium.com/p/5b35acf88dd2) |
 | Sat, 28 Jun 2025 12:32:28 GMT | Perpetual vs SaaS: The continous revenue model | Juan José Gonzalez M | [Read More](https://medium.com/p/b8c8f70f21af) |
 | Sat, 28 Jun 2025 12:31:53 GMT | ️ Day 7/30 My Go-To Browser Extensions for Bug Bounty Hunting & Cybersecurity | Cyphersilhouette | [Read More](https://medium.com/p/ecadccca0923) |
 | Sat, 28 Jun 2025 12:31:53 GMT | When a Single Phish Nearly Sank a Startup | Sneha Rani | [Read More](https://medium.com/p/0225db905091) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 06:42:35 GMT | Does Networking Really Help You Get Hired? Here’s What I Learned | Prinu_17 | [Read More](https://medium.com/p/ce806ecd1963) |
 | Sat, 28 Jun 2025 06:41:44 GMT | Bridging Snowflake and Glue: Secure, Serverless Metadata Automation | Vasanth Kumar Aswathamachary | [Read More](https://medium.com/p/b2f41b0f20e0) |
 | Sat, 28 Jun 2025 06:41:15 GMT | Insecure WebSocket Communication leaks PII and why you should never ignore Burp’s WebSocket history… | Aayush kumar | [Read More](https://medium.com/p/39ea4df9d11f) |
-| Sat, 28 Jun 2025 06:38:21 GMT | Why Email Remains Inherently Unsecure: Risks and Real-World Examples | Madusanka | [Read More](https://medium.com/p/f9f4548b4eb7) |
-| Sat, 28 Jun 2025 06:33:03 GMT | Zero Trust Architecture Implementation on AWS: A Practical Guide for Modern Security | Saikat Paul | [Read More](https://medium.com/p/5028ce1c219c) |
-| Sat, 28 Jun 2025 06:32:40 GMT | Is Your Data Safe? Exploring the Latest in Cybersecurity Threats and Solutions | Yaswanth Ippili | [Read More](https://medium.com/p/7cef2676b02c) |
-| Sat, 28 Jun 2025 06:26:46 GMT | Elevate Your Cybersecurity Career with CISSP Training in Bangalore | Cybernous Infosec consulting | [Read More](https://medium.com/p/3bb3e59d2d9c) |
-| Sat, 28 Jun 2025 06:25:48 GMT | Best Endpoint Security Training & Certification for Beginners | cyber security Updates | [Read More](https://medium.com/p/db2d08f8e953) |
-| Sat, 28 Jun 2025 06:20:01 GMT | ️ How I Took Over an Account by Bypassing Email Verification – A Privilege Escalation Story | WhoAdnan | [Read More](https://medium.com/p/5c056c55bbc5) |
-| Sat, 28 Jun 2025 06:18:42 GMT | Credential Stuffing Attacks: What They Are and How to Detect Them Practically | Paritosh | [Read More](https://medium.com/p/f51247d5bb5c) |
-| Sat, 28 Jun 2025 06:15:54 GMT | Rethinking the Cloud: Why I Built My Own | Cryonix.official | [Read More](https://medium.com/p/bcf0722a9b32) |
-| Sat, 28 Jun 2025 06:07:21 GMT | Certified Information Security Officer (CISO) with GSDC | ankita deo | [Read More](https://medium.com/p/e4777274432e) |
-| Sat, 28 Jun 2025 06:05:15 GMT | Pentesting Fundamentals | Vikash Yadav | [Read More](https://medium.com/p/82c60f4be849) |
