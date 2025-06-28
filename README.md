@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 16:42:22 GMT | I Didn’t Just Need Sleep as a New Mom — I Needed a Village | Morgan Nalepka | [Read More](https://medium.com/p/d05ae6cb3e9e) |
+| Sat, 28 Jun 2025 16:38:26 GMT | picoCTF — Caesar | Robby firdauzy | [Read More](https://medium.com/p/4bfdce821d39) |
 | Sat, 28 Jun 2025 16:22:41 GMT | Executable Files Privilege Escalation for Windows | Ammar Ahmed | [Read More](https://medium.com/p/032ee609bf39) |
+| Sat, 28 Jun 2025 16:22:04 GMT | 一键根除99%的程序Bug！我用“黄金公式”造出了专属AI“Bug终结者” | William说 | [Read More](https://medium.com/p/8b16b28051ee) |
+| Sat, 28 Jun 2025 16:21:48 GMT | How I Built a Custom Firewall for My Website in Under an Hour with AWS WAF | Aashishchaudhari | [Read More](https://medium.com/p/cd2e3765a41b) |
+| Sat, 28 Jun 2025 16:18:00 GMT | Ninja Skills Room Write-up — TryHackMe | M0Hx8 | [Read More](https://medium.com/p/ede4fc4e3185) |
 | Sat, 28 Jun 2025 16:03:50 GMT | Admin Panel Takeover | Krishna | [Read More](https://medium.com/p/8625cfb0a97a) |
 | Sat, 28 Jun 2025 15:56:51 GMT | Data Breaches : How Your Data Ends Up on the Dark Web And What You Can Do? | adityaax | [Read More](https://medium.com/p/6b6757bfe4a5) |
 | Sat, 28 Jun 2025 15:55:24 GMT | Inside DarkGate: In-Depth Technical Analysis of the Malware-as-a-Service Threat | Tw1gXs | [Read More](https://medium.com/p/76f32d51e2d2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 09:50:34 GMT | AI Ethical Hacking Course Online in India | Manisha Chaudhary | [Read More](https://medium.com/p/f687343e20e4) |
 | Sat, 28 Jun 2025 09:47:16 GMT | Social Media & Cybersecurity: What You’re Sharing Could Be Helping Hackers | Richard Dosumu | [Read More](https://medium.com/p/905f430e52cc) |
 | Sat, 28 Jun 2025 09:41:52 GMT | Why Fix Security Flaws When Getting Hacked Can Be More Profitable? | Saikat Paul | [Read More](https://medium.com/p/727b816f54e7) |
-| Sat, 28 Jun 2025 09:37:41 GMT | ExteBrowser Extension Recon: Tools and Methods for Analyzing Target-Owned Extensions | Monika sharma | [Read More](https://medium.com/p/5ba5efbc1d9e) |
-| Sat, 28 Jun 2025 09:36:34 GMT | The Frida & Objection Setup Guide: Solving Version Hell on Android & iOS (Timeless Guide) | Sandeep Wawdane | [Read More](https://medium.com/p/f55eb98459a0) |
-| Sat, 28 Jun 2025 09:36:16 GMT | OS Command Injection — When Your Server Obeys My Commands Like a Soldier | phoenixcatalan | [Read More](https://medium.com/p/ecbe2fe6ec3d) |
-| Sat, 28 Jun 2025 09:34:30 GMT | Can an Automated Pentesting Tool Replace Pentesting Jobs? | Sam Bishop | [Read More](https://medium.com/p/43f647808bc4) |
-| Sat, 28 Jun 2025 09:34:09 GMT | Privacy in this era? LOL | Ngatz | [Read More](https://medium.com/p/ce56ef72722e) |
