@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 07:14:42 GMT | Arent humans also Just Next-Word Predictors? The Illusion of Thinking? | Shashank N | [Read More](https://medium.com/p/1daa9f0ed070) |
+| Sat, 28 Jun 2025 07:11:02 GMT | What’s for Sale on the Dark Web in 2025? It’s Worse Than You Think. | Recon Cyber Security | [Read More](https://medium.com/p/5800844e0795) |
+| Sat, 28 Jun 2025 07:07:17 GMT | TryHackMe - CORS & SOP - WriteUp | Axoloth | [Read More](https://medium.com/p/44232c777a77) |
+| Sat, 28 Jun 2025 07:04:13 GMT | This is how I ditched the official solution for the lab and created my own. | Rabia Riaz | [Read More](https://medium.com/p/0b1abf65ff55) |
+| Sat, 28 Jun 2025 07:00:50 GMT | CCTV Monitoring vs. CCTV Recording: What’s the Difference? | Jane Tang | [Read More](https://medium.com/p/0c0e2ea6727e) |
+| Sat, 28 Jun 2025 06:56:00 GMT | Pentesting Fundamentals | TheSocialHacker | [Read More](https://medium.com/p/11773822a2b1) |
+| Sat, 28 Jun 2025 06:55:55 GMT | AI Hackers vs AI Defenders: Who’s Winning in 2025? | Paritosh | [Read More](https://medium.com/p/2026b28c32c5) |
+| Sat, 28 Jun 2025 06:45:26 GMT | CVE-2025–0133 Made Easy — Find Vulnerable Assets in 2 Minutes | LordofHeaven | [Read More](https://medium.com/p/140a9ba8e2da) |
 | Sat, 28 Jun 2025 06:42:35 GMT | Does Networking Really Help You Get Hired? Here’s What I Learned | Prinu_17 | [Read More](https://medium.com/p/ce806ecd1963) |
 | Sat, 28 Jun 2025 06:41:44 GMT | Bridging Snowflake and Glue: Secure, Serverless Metadata Automation | Vasanth Kumar Aswathamachary | [Read More](https://medium.com/p/b2f41b0f20e0) |
 | Sat, 28 Jun 2025 06:41:15 GMT | Insecure WebSocket Communication leaks PII and why you should never ignore Burp’s WebSocket history… | Aayush kumar | [Read More](https://medium.com/p/39ea4df9d11f) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 18:41:32 GMT | Parents: What You Should Know About the Surgeon General’s Advisory on Social Media | Savvy Cyber Kids | [Read More](https://medium.com/p/643d3168b6c6) |
 | Fri, 27 Jun 2025 18:39:00 GMT | From Boredom to Bug: How One Backslash Broke the Entire Site | Ramshath | [Read More](https://medium.com/p/8317d6007a16) |
 | Fri, 27 Jun 2025 18:37:38 GMT | HTB: Validation (Askia DeLarge) | Askia DeLarge | [Read More](https://medium.com/p/5e9ae6770e47) |
-| Fri, 27 Jun 2025 18:31:52 GMT | Alert ! Your are the next Target !!! | James Walker | [Read More](https://medium.com/p/4193c215b14a) |
-| Fri, 27 Jun 2025 18:30:46 GMT | SSRF in Lychee: CVE-2025–53018 | Baran TEYİN | [Read More](https://medium.com/p/260236e85343) |
-| Fri, 27 Jun 2025 18:30:27 GMT | أهمية الأمن السيبراني في 2024: كيف تحمي بياناتك من التهديدات الحديثة؟ | Najm Al-deen - نجم الدين اليوسفي | [Read More](https://medium.com/p/b21bea2545b9) |
-| Fri, 27 Jun 2025 18:30:10 GMT | OAuth Open Redirect to ATO: One Link, All Platforms Compromised | Abdo Rabea (H4reeqa) | [Read More](https://medium.com/p/c4b54fb51396) |
-| Fri, 27 Jun 2025 18:26:20 GMT | The $545K Silo Finance Exploit: What happened and What we can learn | CyberLucifer | [Read More](https://medium.com/p/be33adb6b7b3) |
-| Fri, 27 Jun 2025 18:22:16 GMT | The State of Cybersecurity Resilience 2025 — Summary and Key Actions | Ajay Kumar | [Read More](https://medium.com/p/0feddf7ec36b) |
-| Fri, 27 Jun 2025 18:19:37 GMT | Roam: Building a Global Decentralized WiFi Network with Real Utility | Miretkus | [Read More](https://medium.com/p/d7623f438b4d) |
-| Fri, 27 Jun 2025 18:14:44 GMT | When Your Mouse/Keyboard Turns Against You: Drone-Powered Keystroke Injection with nRF24L Chips | Rasul Mansurov | [Read More](https://medium.com/p/69b36774f12a) |
