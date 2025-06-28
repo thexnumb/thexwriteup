@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 03:38:36 GMT | TryHackMe FFUF Room Walkthrough | MUHTADIN | [Read More](https://medium.com/p/bb107d902fc1) |
+| Sat, 28 Jun 2025 03:31:54 GMT | Hijacked by Search: How Cybercriminals Manipulate Google to Trap You | Deven Chhajed | [Read More](https://medium.com/p/4d1efbf2b65f) |
+| Sat, 28 Jun 2025 03:31:04 GMT | The Pug Who Listens: How a Little Dog Knows What You Won’t Say | BWenz The Pug  Pawspectives | [Read More](https://medium.com/p/e444938603a7) |
+| Sat, 28 Jun 2025 03:29:44 GMT | METABIGOR - OSINT Tool | AbhirupKonwar | [Read More](https://medium.com/p/cdacb8fb3023) |
 | Sat, 28 Jun 2025 02:53:53 GMT | The Rise of Offensive AI Security: The New Frontier in Cyber Defense and Attack | Kennedymutugi | [Read More](https://medium.com/p/2688601ddfb8) |
 | Sat, 28 Jun 2025 02:36:37 GMT | Join Zero2Root as a Writer: Share Your Cybersecurity Knowledge! | DarKVoicE | [Read More](https://medium.com/p/b51193076171) |
 | Sat, 28 Jun 2025 02:10:47 GMT | Book Review: Ghost in the Wires by Kevin Mitnick | Samriddhi | [Read More](https://medium.com/p/0c71071bb523) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 16:41:43 GMT | Cybersecurity 101: From Tools to Attack Simulations Using Kali Linux, VMs, and Android Devices | Annet Najjuma | [Read More](https://medium.com/p/96d31e875f6b) |
 | Fri, 27 Jun 2025 16:38:20 GMT | Industrial Intrusion Task 19 — TryHackMe CTF Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/8029bf4140f0) |
 | Fri, 27 Jun 2025 16:33:24 GMT | I Reported a Critical Security Vulnerability. They Fixed It — But Never Paid. | Adith Suhas sv | [Read More](https://medium.com/p/9a2c76653830) |
-| Fri, 27 Jun 2025 16:23:55 GMT | This past week, I had the opportunity to be part of an intensive, hands-on cybersecurity lab — a… | kugumaho | [Read More](https://medium.com/p/e877a5bea073) |
-| Fri, 27 Jun 2025 16:19:34 GMT | Sense: ParrotCTF | Sidharth Panda | [Read More](https://medium.com/p/ba1b0634c63a) |
-| Fri, 27 Jun 2025 16:18:04 GMT | Information Disclosure part-4 : Authentication bypass via information disclosure | Ahmad Sopyan | [Read More](https://medium.com/p/befc45290fe6) |
-| Fri, 27 Jun 2025 16:13:44 GMT | JSON and Encryption Keys — A Marriage Made In Heaven | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/890d28e3f687) |
