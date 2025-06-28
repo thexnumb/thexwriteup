@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 09:15:55 GMT | DC-1 VulnHub CTF Walkthrough — Remote Code Execution & Privilege Escalation via Drupal | Basit Olasubomi Balogun | [Read More](https://medium.com/p/3e49de54f7a4) |
+| Sat, 28 Jun 2025 09:12:46 GMT | Pwning with Purpose: A Beginner’s Guide to Vulnerability Exploitation with Metasploit on Kali Linux | Saikat Paul | [Read More](https://medium.com/p/d08a3acadc33) |
+| Sat, 28 Jun 2025 09:11:42 GMT | Unauthenticated AWS IAM Principals Enumeration (pwnedlabs) | n00 | [Read More](https://medium.com/p/d35ed3cb8b81) |
+| Sat, 28 Jun 2025 09:08:02 GMT | 10 Types of Computer Crimes and Amazing Prevention Methods | Genuismindwave | [Read More](https://medium.com/p/f6a2c53b4a0e) |
+| Sat, 28 Jun 2025 09:02:46 GMT | ✉️ Gmail’s AI Spam Filter Is Failing You — Here’s How I Took Back Control of My Inbox in 10 Minutes | Tech Pulse Daily | [Read More](https://medium.com/p/3766fdf9490d) |
+| Sat, 28 Jun 2025 08:57:24 GMT | The End of GDP | Tom Yonashiro | [Read More](https://medium.com/p/c4426ba51e6e) |
+| Sat, 28 Jun 2025 08:56:31 GMT | The "Alert Circle" SOC — A Biomimetic Model for Resilient Cybersecurity in Uncertain Environments | Jugaad Tiger | [Read More](https://medium.com/p/63af50fe142a) |
+| Sat, 28 Jun 2025 08:55:54 GMT | Agentic AI in the SOC: Transforming Cybersecurity Operations | CyberSleuth_Idhris | [Read More](https://medium.com/p/251633bc30f4) |
+| Sat, 28 Jun 2025 08:54:39 GMT | My Cyber Awakening: Hacking, Scans, and the Shocking Truth About Digital Security | Anthony Ssetimba | [Read More](https://medium.com/p/44f54bf28121) |
 | Sat, 28 Jun 2025 08:26:40 GMT | BlueTeamGPT: The AI Defender Every Security Team Needs | Saikat Paul | [Read More](https://medium.com/p/b920a5f56237) |
 | Sat, 28 Jun 2025 08:23:05 GMT | Anonymous and the Armor of God: A Spiritual Comparison of Two Movements | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/11df895aa34f) |
 | Sat, 28 Jun 2025 08:20:18 GMT | The Invisible Threat Lurking in Industrial Networks: GE SRTP | Azim Uddin | [Read More](https://medium.com/p/0f80d277dcb9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 21:55:17 GMT | What is the Difference Between The Dark Web and The Normal Web? | Black Wolf | [Read More](https://medium.com/p/2f880bc16f5f) |
 | Fri, 27 Jun 2025 21:47:57 GMT | Hacked in H1 2025: $8.38 Billion Lost Across 66 Web3 Exploits | CyberLucifer | [Read More](https://medium.com/p/a7162a03d811) |
 | Fri, 27 Jun 2025 21:35:44 GMT | Automating Linux User Management and Access Control | hansel Grade | [Read More](https://medium.com/p/ed3454110f89) |
-| Fri, 27 Jun 2025 21:32:42 GMT | HOW TO EXPLOIT ESC1 AND GAIN ADMIN PRIVELLEAGE IN DETAIL | 0xZ3US | [Read More](https://medium.com/p/8518b0d596cd) |
-| Fri, 27 Jun 2025 21:28:25 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 4] ️ | Aditya Bhatt | [Read More](https://medium.com/p/779babe65576) |
-| Fri, 27 Jun 2025 21:20:06 GMT | What is a 51% Attack? Are Bitcoin and Ethereum Safe? | Auric Crypto News | [Read More](https://medium.com/p/245643ba8996) |
-| Fri, 27 Jun 2025 21:10:51 GMT | Cyber Centre Confirms Canadian Telecom Hack Tied to China-Linked Group | Silent Boardroom | [Read More](https://medium.com/p/bfe742f69568) |
-| Fri, 27 Jun 2025 21:09:39 GMT | TryHackMe Nax — Walkthrough | mauzware | [Read More](https://medium.com/p/1220bc2bc922) |
-| Fri, 27 Jun 2025 20:58:24 GMT | Demystifying CSRF: A Practical Guide to Defending Your Spring Boot Application ️ | Umesh Kumar Yadav | [Read More](https://medium.com/p/d6b1b7569074) |
-| Fri, 27 Jun 2025 20:54:16 GMT | My 5-Day Dive into Ethical Hacking: A Beginner’s Guide from Hands-On Experience | Matthew Christian Wamboga | [Read More](https://medium.com/p/8d4df381be15) |
-| Fri, 27 Jun 2025 20:52:39 GMT | The Core Principles of Cybersecurity: Safeguarding the Digital World | Ahumuza Williams Ashaba | [Read More](https://medium.com/p/ea67cd051549) |
-| Fri, 27 Jun 2025 20:52:17 GMT | How to Run Atomic Red Team on Linux and Automate Attack Simulations with Velociraptor | SOCFortress | [Read More](https://medium.com/p/d4b52b05721b) |
