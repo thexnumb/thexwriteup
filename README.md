@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 11:23:14 GMT | Bug Bounty Hunting : It’s Not Always What You Think | 40sp3l | [Read More](https://medium.com/p/4a212cf93b3b) |
+| Sat, 28 Jun 2025 11:13:10 GMT | TryHackme: Pentesting Fundamental | Namoshukla | [Read More](https://medium.com/p/9a21341ff316) |
+| Sat, 28 Jun 2025 11:06:28 GMT | 5 Top Plateformes pour Maîtriser la Cybersécurité en 2025 | Ait Laaguidi Yassine | [Read More](https://medium.com/p/5f05591bcd4f) |
 | Sat, 28 Jun 2025 11:05:12 GMT | Cyble — | Pratham Sharma | [Read More](https://medium.com/p/ea2be6c852d9) |
 | Sat, 28 Jun 2025 11:03:26 GMT | Agentic Systems Will Shape the Future of Cybersecurity — But AI Agents Need Protection Too | noailabs | [Read More](https://medium.com/p/467413e8ff0a) |
 | Sat, 28 Jun 2025 11:03:04 GMT | How We Replaced A Team of 15 With A Single Engineer | Saikat Paul | [Read More](https://medium.com/p/f3550b155c79) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 04:31:57 GMT | 5 Sneaky Ways to Bypass 403 Forbidden Pages - Zuri | Zuri | [Read More](https://medium.com/p/98f0f3411641) |
 | Sat, 28 Jun 2025 04:25:49 GMT | 3. OSI Model – Writeup tryhackme | Imatechie | [Read More](https://medium.com/p/6a1534e6dda2) |
 | Sat, 28 Jun 2025 04:21:27 GMT | 2. Intro to LAN — Writeup #tryhackme | Imatechie | [Read More](https://medium.com/p/491f832625c3) |
-| Sat, 28 Jun 2025 04:17:12 GMT | 1.what is networking ? Tryhackme #writeup | Imatechie | [Read More](https://medium.com/p/6ced544ed44c) |
-| Sat, 28 Jun 2025 04:09:38 GMT | From Localhost to AWS: Migrating My Cyber Anomaly Detection API to the Cloud | Tony Maunu | [Read More](https://medium.com/p/534d8b2af247) |
-| Sat, 28 Jun 2025 04:05:22 GMT | Frontend Security Best Practices: Protecting Your Users and Your App | Rahul Dinkar | [Read More](https://medium.com/p/13ce3e3a6ebc) |
