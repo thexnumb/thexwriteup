@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 22:31:42 GMT | My First Time Trying “TryHackMe” | Trustin Nguyen | [Read More](https://medium.com/p/7962629c5ace) |
+| Sat, 28 Jun 2025 22:19:55 GMT | Re-creating the Snake Rootkit Part 008: C2 — Design and Architecture | 0x0vid | [Read More](https://medium.com/p/23acf19ce78d) |
 | Sat, 28 Jun 2025 22:17:40 GMT | Message Box - hackinghub - write-up | Musab Sarı | [Read More](https://medium.com/p/f127bb87299c) |
+| Sat, 28 Jun 2025 22:16:43 GMT | Exploiting SNMP, SMB, and RPC: Techniques That Still Work in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/569b54312368) |
 | Sat, 28 Jun 2025 22:00:01 GMT | Reverse Engineering : Apple’s AirTag | Prabhu Perumal | [Read More](https://medium.com/p/9125f76da1ca) |
 | Sat, 28 Jun 2025 21:44:05 GMT | Relevant writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a44936492904) |
 | Sat, 28 Jun 2025 21:40:30 GMT | Rebuilding My Cybersecurity Lab (and My Life) | 3Graces CC | [Read More](https://medium.com/p/b1a89e67f448) |
@@ -110,6 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 13:52:54 GMT | Angular File Upload Tutorial with Drag-and-Drop and Progress Bar | Didin Jamaludin | [Read More](https://medium.com/p/0d9241d264a3) |
 | Sat, 28 Jun 2025 13:50:12 GMT | Can XBOW’s AI Hacker Outperform Human Hackers? | David SEHYEON Baek | [Read More](https://medium.com/p/63865fc494b5) |
 | Sat, 28 Jun 2025 13:48:09 GMT | Elon Musk’s Neuralink, the Future of Telepathy, and Cybersecurity Risks | David SEHYEON Baek | [Read More](https://medium.com/p/6b71bc49c1ea) |
-| Sat, 28 Jun 2025 13:45:39 GMT | Websocket response manipulation leads to access admin panel | rood | [Read More](https://medium.com/p/27b432ea4745) |
-| Sat, 28 Jun 2025 13:44:36 GMT | From ZIP to Zoho Hall of Fame: How I Found Exposed API Keys ! | H4cker-Nafeed | [Read More](https://medium.com/p/17eeca415474) |
-| Sat, 28 Jun 2025 13:43:59 GMT | NIST for Small Businesses without Employees | Jorge Castaneda | [Read More](https://medium.com/p/51827724dce6) |
