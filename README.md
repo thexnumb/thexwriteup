@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 07:59:51 GMT | Inside the Dark Web’s Most Ruthless Heist: How Double-Extortion Ransomware Holds Companies… | Ekene Joseph | [Read More](https://medium.com/p/c6467eb3ce42) |
+| Sat, 28 Jun 2025 07:59:26 GMT | Unraveling Complexity: Applying Network Analysis to Cybersecurity | Yi Zhou | [Read More](https://medium.com/p/6a5d76d99c5c) |
+| Sat, 28 Jun 2025 07:58:28 GMT | If Carlsberg Did Conferences: Towards Deep Tech in Digital Trust | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d879806f1489) |
+| Sat, 28 Jun 2025 07:49:28 GMT | The Blueprint for Scalable Java Microservices Using Redis, Kafka, and MongoDB | Mr_Jeet_24 | [Read More](https://medium.com/p/e04431d5b625) |
+| Sat, 28 Jun 2025 07:44:40 GMT | My Journey into Network Scanning: Completing Nmap Basics on TryHackMe | Arthibalaji | [Read More](https://medium.com/p/d86ca67d2209) |
+| Sat, 28 Jun 2025 07:44:34 GMT | The Room That Holds Me | Amna Javaid | [Read More](https://medium.com/p/1119e3ed5d13) |
+| Sat, 28 Jun 2025 07:40:59 GMT | ️ PCI Compliance: Why It’s a Business Imperative, Not Just an IT Checkbox | ITIO INNOVEX | [Read More](https://medium.com/p/e26119daa569) |
+| Sat, 28 Jun 2025 07:37:26 GMT | When He Says “It’s Not That Deep” He’s Hiding a Wound You’re Not Allowed to Touch | LSD | [Read More](https://medium.com/p/a6aae165650c) |
 | Sat, 28 Jun 2025 07:34:25 GMT | Nmap Nedir, Nasıl Kullanılır ve Örnek Saldırı Senaryoları | Mustafa Salih Tatar | [Read More](https://medium.com/p/68e91601e4b3) |
 | Sat, 28 Jun 2025 07:33:23 GMT | Titanic - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/88733278d312) |
 | Sat, 28 Jun 2025 07:32:59 GMT | 404 to 0wnage: How a Broken API Route Unlocked Production Secrets | Iski | [Read More](https://medium.com/p/cc8ec9c6d063) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 20:45:30 GMT | Defensive Security Intro- TryHackMe Cheat Sheet | Hansi Bandara | [Read More](https://medium.com/p/f74d4a2a3585) |
 | Fri, 27 Jun 2025 20:31:25 GMT | Is Security Worth It? The Value of Being Prepared | Jan Kneissler | [Read More](https://medium.com/p/a05d09ac0387) |
 | Fri, 27 Jun 2025 19:56:12 GMT | Training Update for GSEC — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/8106f96cfc86) |
-| Fri, 27 Jun 2025 19:38:21 GMT | Unpacking GlobeImposter Ransomware With x32dbg | Mustapha Ait Ichou | [Read More](https://medium.com/p/085fa68e83b2) |
-| Fri, 27 Jun 2025 19:37:09 GMT | How to Spot a Phishing Email ? | Harishkumar Pillai | [Read More](https://medium.com/p/ee3fa950a10e) |
-| Fri, 27 Jun 2025 19:25:14 GMT | NIST SP 1800–35: Implementing a Zero Trust Architecture | SOCFortress | [Read More](https://medium.com/p/fbe9ec56e187) |
-| Fri, 27 Jun 2025 19:23:56 GMT | Stop Coding Like You Work at Google | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ce9fca31c711) |
-| Fri, 27 Jun 2025 19:16:49 GMT | A Math Guy at Google Just 20X’d Quantum Computers’ Ability to Crack Encryption | Cellframe Social | [Read More](https://medium.com/p/f47e76654149) |
-| Fri, 27 Jun 2025 19:11:27 GMT | Honeypots in Network Security: The Art of Digital Deception | Rahul | [Read More](https://medium.com/p/32057f7d7cfb) |
-| Fri, 27 Jun 2025 19:06:42 GMT | Bypassing CSRF Token Validation Techniques | musayyab sharif | [Read More](https://medium.com/p/33d79004fc6b) |
-| Fri, 27 Jun 2025 19:03:38 GMT | Tryhackme Industrial Intrusion -CTF-Task 6“OSINT2” -Walkthrough | Sayan Raha | [Read More](https://medium.com/p/0f339b029cd5) |
