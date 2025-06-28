@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 20:20:50 GMT | The Dark Side of OSINT Tools: VIP Targets Located | Ian Barwise | [Read More](https://medium.com/p/6c85fcfde32a) |
+| Sat, 28 Jun 2025 20:18:28 GMT | Dmail vs. Traditional Email: Why Web3 is Changing How We Communicate | Web3Sunshine | [Read More](https://medium.com/p/6bccf2b94be1) |
+| Sat, 28 Jun 2025 20:14:49 GMT | Session Hijacking Using XSS | Vansh | [Read More](https://medium.com/p/f3448fb531d4) |
+| Sat, 28 Jun 2025 20:05:50 GMT | Goodbye Passwords? Microsoft’s Game-Changing Passkey Integration with 1Password on Windows 11 | TechBird | [Read More](https://medium.com/p/3f15597ed405) |
+| Sat, 28 Jun 2025 19:53:05 GMT | Vulnerabilities Found in iOS 18.5 Apple iPhone Security Update | Awaismahmood | [Read More](https://medium.com/p/cc2b707781aa) |
+| Sat, 28 Jun 2025 19:51:42 GMT | Stored XSS via Profile Name Field | Markaz Gasimov | [Read More](https://medium.com/p/4235fd476617) |
+| Sat, 28 Jun 2025 19:49:45 GMT | The Enemy Within: Defending Multi-Cloud Enterprises Against Insider Threats with HashiCorp Vault… | Alan Hamilton | [Read More](https://medium.com/p/239d3dad5707) |
+| Sat, 28 Jun 2025 19:40:00 GMT | Node.js Security Best Practices and Suggestions | Enes Tekin | [Read More](https://medium.com/p/edac44ba344d) |
 | Sat, 28 Jun 2025 19:15:06 GMT | Advanced IDOR Exploitation in 2025: A Practical Guide for Bug Bounty Hunters | Santhosh Adiga U | [Read More](https://medium.com/p/3e935cc938c3) |
 | Sat, 28 Jun 2025 19:12:46 GMT | Designing with AI in 2025: Genius Hack or Creative Suicide? | Prapti Suryavanshi | [Read More](https://medium.com/p/180f1ef66ba1) |
 | Sat, 28 Jun 2025 19:12:02 GMT | Industrial Intrusion — Task 15 TryHackMe CTF Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/ba64efc0181c) |
@@ -105,11 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 12:58:32 GMT | Why Edcited Educational Services is Your Pathway to Success | Edcited | [Read More](https://medium.com/p/1f8a984e0372) |
 | Sat, 28 Jun 2025 12:48:49 GMT | The Ultimate Guide to Hydra: Mastering Brute Force Password Cracking | Taha Ex | [Read More](https://medium.com/p/07fbe8ed7d4e) |
 | Sat, 28 Jun 2025 12:36:41 GMT | This Spring Boot Filter Trick Improved API Security Without Any Extra Code | Ramesh Fadatare | [Read More](https://medium.com/p/5b35acf88dd2) |
-| Sat, 28 Jun 2025 12:32:28 GMT | Perpetual vs SaaS: The continous revenue model | Juan José Gonzalez M | [Read More](https://medium.com/p/b8c8f70f21af) |
-| Sat, 28 Jun 2025 12:31:53 GMT | ️ Day 7/30 My Go-To Browser Extensions for Bug Bounty Hunting & Cybersecurity | Cyphersilhouette | [Read More](https://medium.com/p/ecadccca0923) |
-| Sat, 28 Jun 2025 12:31:53 GMT | When a Single Phish Nearly Sank a Startup | Sneha Rani | [Read More](https://medium.com/p/0225db905091) |
-| Sat, 28 Jun 2025 12:29:12 GMT | Simple Email HTML Injection to $250 | TSxNINJA | [Read More](https://medium.com/p/7e0c2ce98f9f) |
-| Sat, 28 Jun 2025 12:28:03 GMT | I Scrolled Through the Privacy Policy for 3 Hours, and Here’s What I Found (Not Happiness) | Ngatz | [Read More](https://medium.com/p/dfde557cda6d) |
-| Sat, 28 Jun 2025 12:18:24 GMT | Day #2: Log Analysis Basics Exploring Windows Security Logs on Server 2022 | Rishavkumarthapa | [Read More](https://medium.com/p/05ea4f71b4d8) |
-| Sat, 28 Jun 2025 12:15:35 GMT | REAL TALK: Ethical Hacking ≠ Movie Hacking | Siddhesh Surve | [Read More](https://medium.com/p/e3bf913e8113) |
-| Sat, 28 Jun 2025 12:06:45 GMT | We Found Our Terraform State File Public — And It Had Secrets Inside | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/c79662808211) |
