@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 02:53:53 GMT | The Rise of Offensive AI Security: The New Frontier in Cyber Defense and Attack | Kennedymutugi | [Read More](https://medium.com/p/2688601ddfb8) |
+| Sat, 28 Jun 2025 02:36:37 GMT | Join Zero2Root as a Writer: Share Your Cybersecurity Knowledge! | DarKVoicE | [Read More](https://medium.com/p/b51193076171) |
+| Sat, 28 Jun 2025 02:10:47 GMT | Book Review: Ghost in the Wires by Kevin Mitnick | Samriddhi | [Read More](https://medium.com/p/0c71071bb523) |
+| Sat, 28 Jun 2025 01:58:29 GMT | National Insurance Awareness Day | Luna Dawn | [Read More](https://medium.com/p/79393242d7c7) |
+| Sat, 28 Jun 2025 01:56:42 GMT | The Ultimate Guide to Crafting a Strong Password | Jean Bertro Paul | [Read More](https://medium.com/p/0c1603d288cb) |
+| Sat, 28 Jun 2025 01:41:22 GMT | Is He/She Into You? 3 Subtle Signs of Attraction Revealed | Lilyana | [Read More](https://medium.com/p/16f2b58023fb) |
+| Sat, 28 Jun 2025 01:38:19 GMT | Hybrid Encryption: ECIES | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d62794449ab5) |
 | Sat, 28 Jun 2025 00:57:07 GMT | The Sarcastic Guide to Python Careers: Laugh Now, Apply Later | Francisco Perez | [Read More](https://medium.com/p/251f627f6a15) |
 | Sat, 28 Jun 2025 00:24:58 GMT | Time Stamps and Screenshots: A Rebuttal to AI-Era Plagiarism Claims and the Importance of Documents | Mitchell D McPhetridge | [Read More](https://medium.com/p/7c335cafdeb2) |
 | Sat, 28 Jun 2025 00:13:45 GMT | My VoIP Hacking Incident: A Lesson in Cybersecurity | Jean Bertro Paul | [Read More](https://medium.com/p/c14389a9af51) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 16:19:34 GMT | Sense: ParrotCTF | Sidharth Panda | [Read More](https://medium.com/p/ba1b0634c63a) |
 | Fri, 27 Jun 2025 16:18:04 GMT | Information Disclosure part-4 : Authentication bypass via information disclosure | Ahmad Sopyan | [Read More](https://medium.com/p/befc45290fe6) |
 | Fri, 27 Jun 2025 16:13:44 GMT | JSON and Encryption Keys — A Marriage Made In Heaven | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/890d28e3f687) |
-| Fri, 27 Jun 2025 16:10:39 GMT | AroCrypt: Hiding Secrets in Plain Sight with AES Encryption and Steganography | AroCodes | [Read More](https://medium.com/p/546c094c2de7) |
-| Fri, 27 Jun 2025 16:08:02 GMT | What Are MDR Security Services and Why Your Business Needs Them | SafeAeon Inc. | [Read More](https://medium.com/p/a63067213936) |
-| Fri, 27 Jun 2025 16:01:54 GMT | [EN] Stealers | umbraXsecure | [Read More](https://medium.com/p/9063d4efc45f) |
-| Fri, 27 Jun 2025 15:58:56 GMT | Windows Logging for SOC - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/5cc0917a3e42) |
-| Fri, 27 Jun 2025 15:58:36 GMT | A Comparative Analysis of Leading Large Language Models: Grok 3, OpenAI’s GPT-4o, and Google’s… | FARHAN AHMED | [Read More](https://medium.com/p/1202cc82b118) |
-| Fri, 27 Jun 2025 15:55:32 GMT | How does VPN works- all about VPN | err0rgod | [Read More](https://medium.com/p/15e3bf2bb24d) |
-| Fri, 27 Jun 2025 15:53:33 GMT | I Believed Tom Hanks Ate Babies | The Accidental Monster | [Read More](https://medium.com/p/6d672286e083) |
