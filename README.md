@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 21:12:23 GMT | Recover Lost Money Back From Crypto Trading: Hire A Cyber Security Expert, Consult, DUNE NECTAR WEB… | Svitlana. leonid | [Read More](https://medium.com/p/2e63fbb38a8e) |
+| Sat, 28 Jun 2025 20:55:18 GMT | Building a smart knowledge system for your business with RAG embeddings and Ruby | Marco Mastrodonato | [Read More](https://medium.com/p/723454d3b666) |
+| Sat, 28 Jun 2025 20:53:45 GMT | AI y Ciberseguridad: el nuevo ADN del Purple Team moderno | Zecke | [Read More](https://medium.com/p/197e57f0aa6d) |
+| Sat, 28 Jun 2025 20:46:43 GMT | How I Chained a Simple Text Injection with OAuth Misconfiguration on NASA | insomniaX | [Read More](https://medium.com/p/497223652bde) |
+| Sat, 28 Jun 2025 20:43:16 GMT | Threat modeling, STRIPE or PASTA? | Christian Koschmieder | [Read More](https://medium.com/p/02474e3ffccf) |
+| Sat, 28 Jun 2025 20:37:14 GMT | YOUR RIGHTS AS A DATA SUBJECT | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/5542a0358c58) |
 | Sat, 28 Jun 2025 20:28:35 GMT | Knowing isn’t Doing | Yudi Arfann | [Read More](https://medium.com/p/e269d1994f42) |
 | Sat, 28 Jun 2025 20:22:09 GMT | The love I’ve never felt | lena ♡ | [Read More](https://medium.com/p/9ce09550e324) |
 | Sat, 28 Jun 2025 20:20:50 GMT | The Dark Side of OSINT Tools: VIP Targets Located | Ian Barwise | [Read More](https://medium.com/p/6c85fcfde32a) |
@@ -107,9 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 13:31:23 GMT | Breaking into GRC: A Beginner’s Guide | Nishitathakkar | [Read More](https://medium.com/p/739028f9e155) |
 | Sat, 28 Jun 2025 13:30:04 GMT | How I Found a Hidden Backdoor User Account on My Ubuntu Server (And What I Did About It) | Faruk Ahmed | [Read More](https://medium.com/p/d8bd0dcc7926) |
 | Sat, 28 Jun 2025 13:28:21 GMT | TryHackMe: Pentesting Fundamentals — A Walkthrough by Ishita Gandhi | Ishitagandhi | [Read More](https://medium.com/p/6179dd7a88d4) |
-| Sat, 28 Jun 2025 13:27:08 GMT | AI-Powered Incident Response: Automated Threat Classification in the SOC ️ | Esra Kayhan | [Read More](https://medium.com/p/69d403fc7a4c) |
-| Sat, 28 Jun 2025 13:26:16 GMT | IPSEC nədir və necə işləyir? | Makharramli | [Read More](https://medium.com/p/b3b2f4048d48) |
-| Sat, 28 Jun 2025 13:13:55 GMT | The Caverhill Protocol vs. Zero Trust: Breaking the Mold for Modern Security | Travis Ray Caverhill | [Read More](https://medium.com/p/409e2f7dc0fd) |
-| Sat, 28 Jun 2025 13:12:10 GMT | Enumeration Basics with NMAP Scanning | Criswellcam | [Read More](https://medium.com/p/c452d869e311) |
-| Sat, 28 Jun 2025 13:03:04 GMT | Your API Is a Goldmine for Hackers. Here’s How EDSPL Protects It. | saurabh cyberinfomines | [Read More](https://medium.com/p/f29b219c372b) |
-| Sat, 28 Jun 2025 13:02:26 GMT | Incident Response : From Alert to Action | Ahmed Elbatea | [Read More](https://medium.com/p/c27e0ce60b30) |
