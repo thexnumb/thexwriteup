@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 04:21:27 GMT | 2. Intro to LAN — Writeup #tryhackme | Imatechie | [Read More](https://medium.com/p/491f832625c3) |
+| Sat, 28 Jun 2025 04:17:12 GMT | 1.what is networking ? Tryhackme #writeup | Imatechie | [Read More](https://medium.com/p/6ced544ed44c) |
+| Sat, 28 Jun 2025 04:09:38 GMT | From Localhost to AWS: Migrating My Cyber Anomaly Detection API to the Cloud | Tony Maunu | [Read More](https://medium.com/p/534d8b2af247) |
+| Sat, 28 Jun 2025 04:05:22 GMT | Frontend Security Best Practices: Protecting Your Users and Your App | Rahul Dinkar | [Read More](https://medium.com/p/13ce3e3a6ebc) |
 | Sat, 28 Jun 2025 03:38:36 GMT | TryHackMe FFUF Room Walkthrough | MUHTADIN | [Read More](https://medium.com/p/bb107d902fc1) |
 | Sat, 28 Jun 2025 03:31:54 GMT | Hijacked by Search: How Cybercriminals Manipulate Google to Trap You | Deven Chhajed | [Read More](https://medium.com/p/4d1efbf2b65f) |
 | Sat, 28 Jun 2025 03:31:04 GMT | The Pug Who Listens: How a Little Dog Knows What You Won’t Say | BWenz The Pug  Pawspectives | [Read More](https://medium.com/p/e444938603a7) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 17:03:15 GMT | Cyber Sabotage in the Shadows: Are Infrastructure Failures a Sign of a Digital Cold War? | C. Oscar Lawshea | [Read More](https://medium.com/p/4a8b9b962ff2) |
 | Fri, 27 Jun 2025 17:03:15 GMT | Bogon Addresses Explained: What You Need to Know | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/e6649a61f19d) |
 | Fri, 27 Jun 2025 16:52:56 GMT | Why CompTIA Security+ SY0–701 Is the Best First Step into Cybersecurity | Lewis Matlock, MBA, CISSP-ISSMP | [Read More](https://medium.com/p/f3a9f5dc8681) |
-| Fri, 27 Jun 2025 16:48:42 GMT | Securing Debian Server 2025 — Part 1 | Christian Nielsen | [Read More](https://medium.com/p/0106c4b9ee9f) |
-| Fri, 27 Jun 2025 16:41:43 GMT | Cybersecurity 101: From Tools to Attack Simulations Using Kali Linux, VMs, and Android Devices | Annet Najjuma | [Read More](https://medium.com/p/96d31e875f6b) |
-| Fri, 27 Jun 2025 16:38:20 GMT | Industrial Intrusion Task 19 — TryHackMe CTF Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/8029bf4140f0) |
-| Fri, 27 Jun 2025 16:33:24 GMT | I Reported a Critical Security Vulnerability. They Fixed It — But Never Paid. | Adith Suhas sv | [Read More](https://medium.com/p/9a2c76653830) |
