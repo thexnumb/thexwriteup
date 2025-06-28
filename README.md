@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 21:26:41 GMT | David Velez • Hacker • Vegachí • Colombia | Webresultsveg | [Read More](https://medium.com/p/f7f3a7ac68c4) |
+| Sat, 28 Jun 2025 21:19:17 GMT | CORS Finally Explained: The Web Security Concept That Trips Up Every Developer | reviewraccoon | [Read More](https://medium.com/p/e9bc20c6a2c4) |
+| Sat, 28 Jun 2025 21:16:43 GMT | Red Teaming Generative AI | Saniye Nur | [Read More](https://medium.com/p/3b2230b6fdc9) |
 | Sat, 28 Jun 2025 21:12:23 GMT | Recover Lost Money Back From Crypto Trading: Hire A Cyber Security Expert, Consult, DUNE NECTAR WEB… | Svitlana. leonid | [Read More](https://medium.com/p/2e63fbb38a8e) |
 | Sat, 28 Jun 2025 20:55:18 GMT | Building a smart knowledge system for your business with RAG embeddings and Ruby | Marco Mastrodonato | [Read More](https://medium.com/p/723454d3b666) |
 | Sat, 28 Jun 2025 20:53:45 GMT | AI y Ciberseguridad: el nuevo ADN del Purple Team moderno | Zecke | [Read More](https://medium.com/p/197e57f0aa6d) |
@@ -110,6 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 13:39:54 GMT | Cyber Data Privacy & Security Fundamentals | Chief Operating Officer | [Read More](https://medium.com/p/f43e53ee741a) |
 | Sat, 28 Jun 2025 13:34:34 GMT | Can AI Be Our New Superhero? How It’s Saving Lives and Stopping Disasters | Payaam Raza | [Read More](https://medium.com/p/2ab7223f06e6) |
 | Sat, 28 Jun 2025 13:33:16 GMT | AI Just Designed Your Next Outfit: Here’s How It’s Changing Fashion Forever | Payaam Raza | [Read More](https://medium.com/p/fb8b838063bd) |
-| Sat, 28 Jun 2025 13:31:23 GMT | Breaking into GRC: A Beginner’s Guide | Nishitathakkar | [Read More](https://medium.com/p/739028f9e155) |
-| Sat, 28 Jun 2025 13:30:04 GMT | How I Found a Hidden Backdoor User Account on My Ubuntu Server (And What I Did About It) | Faruk Ahmed | [Read More](https://medium.com/p/d8bd0dcc7926) |
-| Sat, 28 Jun 2025 13:28:21 GMT | TryHackMe: Pentesting Fundamentals — A Walkthrough by Ishita Gandhi | Ishitagandhi | [Read More](https://medium.com/p/6179dd7a88d4) |
