@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 23:36:11 GMT | Vulnlab Trusted CTF Write Up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/fb2525fe1cd9) |
+| Sat, 28 Jun 2025 23:25:58 GMT | Complete Guide: On How to Evaluate an EDR | Cyber Axe | [Read More](https://medium.com/p/e4df0f06e9e0) |
+| Sat, 28 Jun 2025 23:18:09 GMT | UltraTech on TryHackMe — Writeup | Ithri Merouani | [Read More](https://medium.com/p/db8303164b1c) |
 | Sat, 28 Jun 2025 23:11:51 GMT | New Era with New Cyber Scams | Khushal Jain | [Read More](https://medium.com/p/33714d9d3738) |
+| Sat, 28 Jun 2025 23:11:20 GMT | When Legitimate Becomes Malicious: A Begginer Guide to LOLBins | R1cH4t | [Read More](https://medium.com/p/e7bef1d8b62b) |
+| Sat, 28 Jun 2025 23:11:06 GMT | Contact Scanner Hacker Crypto Recovery for your scam digital currency | Jamesbrant | [Read More](https://medium.com/p/0b60f239735f) |
+| Sat, 28 Jun 2025 23:06:01 GMT | What’s ZTNA : Zero Trust Network Access | Lyna Chalal | [Read More](https://medium.com/p/c931decf35a6) |
 | Sat, 28 Jun 2025 23:01:21 GMT | The $50 Billion QR Code Fraud Epidemic That’s Targeting Your Smartphone Right Now | Jeff Murdock | [Read More](https://medium.com/p/395cfd62aafb) |
 | Sat, 28 Jun 2025 23:00:29 GMT | Why You Can’t Prevent Password Field Manipulation in DevTools — And What Actually Matters | Mohan Babu Doddapaneni | [Read More](https://medium.com/p/3b0122729787) |
 | Sat, 28 Jun 2025 22:58:30 GMT | What’s a NGFW : Next Generation Firewall | Lyna Chalal | [Read More](https://medium.com/p/24f44554ea29) |
@@ -107,9 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 14:29:12 GMT | A New Era in Cyber Law and Inclusion | Vijay Kumar Gupta | [Read More](https://medium.com/p/ab4df288089b) |
 | Sat, 28 Jun 2025 14:26:41 GMT | ️ Scattered Spider Spreads Its Web | Brittney Ginther | [Read More](https://medium.com/p/8f6c6e7daeee) |
 | Sat, 28 Jun 2025 14:25:35 GMT | Esthomy.com’un Perde Arkası: Sıfırdan Güçlü ve Güvenli Bir Altyapı Nasıl Kurduk? | A. Eren Özdemir | [Read More](https://medium.com/p/401416a56d37) |
-| Sat, 28 Jun 2025 14:24:40 GMT | A Week in Cybersecurity: From Vulnerabilities to Virtual Machines | Jonah Mark | [Read More](https://medium.com/p/601cecabe17f) |
-| Sat, 28 Jun 2025 14:18:31 GMT | Exposed Client Secret in JavaScript Resulted in Quick Bug Bounty $$$ | Medusa | [Read More](https://medium.com/p/35a609be138d) |
-| Sat, 28 Jun 2025 14:13:59 GMT | Day 35: TCP/IP | Nile Okomo | [Read More](https://medium.com/p/917e095d89c8) |
-| Sat, 28 Jun 2025 14:11:46 GMT | AI, Algorithms, and Anomalies: Machine Learning’s Jolly Romp Through Cybersecurity | Deb Roy | [Read More](https://medium.com/p/b03ddf659bdb) |
-| Sat, 28 Jun 2025 14:08:55 GMT | Reverse Engineering a UAC Bypass with Persistence on temp Ghidra | Lord Murak | [Read More](https://medium.com/p/77e379074136) |
-| Sat, 28 Jun 2025 14:04:06 GMT | Why Telecom Companies Are Under Siege from State‑Sponsored Hackers — Insights from the Israel–Iran… | David SEHYEON Baek | [Read More](https://medium.com/p/fdef44736a16) |
