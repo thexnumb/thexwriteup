@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 14:29:12 GMT | A New Era in Cyber Law and Inclusion | Vijay Kumar Gupta | [Read More](https://medium.com/p/ab4df288089b) |
+| Sat, 28 Jun 2025 14:26:41 GMT | ️ Scattered Spider Spreads Its Web | Brittney Ginther | [Read More](https://medium.com/p/8f6c6e7daeee) |
+| Sat, 28 Jun 2025 14:25:35 GMT | Esthomy.com’un Perde Arkası: Sıfırdan Güçlü ve Güvenli Bir Altyapı Nasıl Kurduk? | A. Eren Özdemir | [Read More](https://medium.com/p/401416a56d37) |
+| Sat, 28 Jun 2025 14:24:40 GMT | A Week in Cybersecurity: From Vulnerabilities to Virtual Machines | Jonah Mark | [Read More](https://medium.com/p/601cecabe17f) |
+| Sat, 28 Jun 2025 14:18:31 GMT | Exposed Client Secret in JavaScript Resulted in Quick Bug Bounty $$$ | Medusa | [Read More](https://medium.com/p/35a609be138d) |
 | Sat, 28 Jun 2025 14:13:59 GMT | Day 35: TCP/IP | Nile Okomo | [Read More](https://medium.com/p/917e095d89c8) |
+| Sat, 28 Jun 2025 14:11:46 GMT | AI, Algorithms, and Anomalies: Machine Learning’s Jolly Romp Through Cybersecurity | Deb Roy | [Read More](https://medium.com/p/b03ddf659bdb) |
 | Sat, 28 Jun 2025 14:08:55 GMT | Reverse Engineering a UAC Bypass with Persistence on temp Ghidra | Lord Murak | [Read More](https://medium.com/p/77e379074136) |
 | Sat, 28 Jun 2025 14:04:06 GMT | Why Telecom Companies Are Under Siege from State‑Sponsored Hackers — Insights from the Israel–Iran… | David SEHYEON Baek | [Read More](https://medium.com/p/fdef44736a16) |
 | Sat, 28 Jun 2025 14:03:39 GMT | Command Injection in Practice — CyberExam Labs Write-Up | Mouaad L | [Read More](https://medium.com/p/f4d7696f5552) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 08:20:18 GMT | The Invisible Threat Lurking in Industrial Networks: GE SRTP | Azim Uddin | [Read More](https://medium.com/p/0f80d277dcb9) |
 | Sat, 28 Jun 2025 08:03:22 GMT | Secure Coding für Web-Entwickler | mertes.dev | [Read More](https://medium.com/p/63f66c8d064e) |
 | Sat, 28 Jun 2025 07:59:51 GMT | Inside the Dark Web’s Most Ruthless Heist: How Double-Extortion Ransomware Holds Companies… | Ekene Joseph | [Read More](https://medium.com/p/c6467eb3ce42) |
-| Sat, 28 Jun 2025 07:59:26 GMT | Unraveling Complexity: Applying Network Analysis to Cybersecurity | Yi Zhou | [Read More](https://medium.com/p/6a5d76d99c5c) |
-| Sat, 28 Jun 2025 07:58:28 GMT | If Carlsberg Did Conferences: Towards Deep Tech in Digital Trust | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d879806f1489) |
-| Sat, 28 Jun 2025 07:49:28 GMT | The Blueprint for Scalable Java Microservices Using Redis, Kafka, and MongoDB | Mr_Jeet_24 | [Read More](https://medium.com/p/e04431d5b625) |
-| Sat, 28 Jun 2025 07:44:40 GMT | My Journey into Network Scanning: Completing Nmap Basics on TryHackMe | Arthibalaji | [Read More](https://medium.com/p/d86ca67d2209) |
-| Sat, 28 Jun 2025 07:44:34 GMT | The Room That Holds Me | Amna Javaid | [Read More](https://medium.com/p/1119e3ed5d13) |
-| Sat, 28 Jun 2025 07:40:59 GMT | ️ PCI Compliance: Why It’s a Business Imperative, Not Just an IT Checkbox | ITIO INNOVEX | [Read More](https://medium.com/p/e26119daa569) |
