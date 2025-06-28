@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 16:22:41 GMT | Executable Files Privilege Escalation for Windows | Ammar Ahmed | [Read More](https://medium.com/p/032ee609bf39) |
+| Sat, 28 Jun 2025 16:03:50 GMT | Admin Panel Takeover | Krishna | [Read More](https://medium.com/p/8625cfb0a97a) |
+| Sat, 28 Jun 2025 15:56:51 GMT | Data Breaches : How Your Data Ends Up on the Dark Web And What You Can Do? | adityaax | [Read More](https://medium.com/p/6b6757bfe4a5) |
+| Sat, 28 Jun 2025 15:55:24 GMT | Inside DarkGate: In-Depth Technical Analysis of the Malware-as-a-Service Threat | Tw1gXs | [Read More](https://medium.com/p/76f32d51e2d2) |
+| Sat, 28 Jun 2025 15:52:30 GMT | Week 2 — Learning Basic concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/6e7fd6d57bbf) |
 | Sat, 28 Jun 2025 15:37:23 GMT | Security Misconfiguration — Leading to Sensitive Information Disclosure and Potential AWS Access… | Abin | [Read More](https://medium.com/p/dd8521b0c771) |
+| Sat, 28 Jun 2025 15:33:51 GMT | Explaining Declarative vs imperative approach on terraform in infrastructure as a code. | Nneomaibe100 | [Read More](https://medium.com/p/34669d76084f) |
 | Sat, 28 Jun 2025 15:31:51 GMT | Billions of Passwords Leaked: What Every Content Creator Needs to Know (And Do!) | Safkat Bin Jasib | [Read More](https://medium.com/p/80f4d97a4d59) |
 | Sat, 28 Jun 2025 15:23:31 GMT | Hiding in Plain Sight — LSB Steganography | Andrew Petrus | [Read More](https://medium.com/p/7f451ff4c191) |
 | Sat, 28 Jun 2025 15:21:47 GMT | The Weigh You Can’t See | Reku | [Read More](https://medium.com/p/5fd7ae887de5) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 09:36:16 GMT | OS Command Injection — When Your Server Obeys My Commands Like a Soldier | phoenixcatalan | [Read More](https://medium.com/p/ecbe2fe6ec3d) |
 | Sat, 28 Jun 2025 09:34:30 GMT | Can an Automated Pentesting Tool Replace Pentesting Jobs? | Sam Bishop | [Read More](https://medium.com/p/43f647808bc4) |
 | Sat, 28 Jun 2025 09:34:09 GMT | Privacy in this era? LOL | Ngatz | [Read More](https://medium.com/p/ce56ef72722e) |
-| Sat, 28 Jun 2025 09:33:47 GMT | From Zero to Your First Valid Vulnerability Report in 7 Days | Vipul Sonule | [Read More](https://medium.com/p/692050467ea1) |
-| Sat, 28 Jun 2025 09:33:22 GMT | The Quiet Ones: Max And Clementine | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/6c3414af7723) |
-| Sat, 28 Jun 2025 09:29:28 GMT | The Ultimate Guide to Bug Hunting: Uncovering Digital Treasures in 2025 | Monika sharma | [Read More](https://medium.com/p/527b25b6d896) |
-| Sat, 28 Jun 2025 09:22:15 GMT | ️ From Payload to Pwn: How I Discovered SQL Injection in a BigQuery API and Exfiltrated Metadata | rohan badekan | [Read More](https://medium.com/p/b51a0ed88357) |
-| Sat, 28 Jun 2025 09:17:02 GMT | Web Hacking 101 with PicoCTF - CTF Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/4c60b7aa6f80) |
-| Sat, 28 Jun 2025 09:15:55 GMT | DC-1 VulnHub CTF Walkthrough — Remote Code Execution & Privilege Escalation via Drupal | Basit Olasubomi Balogun | [Read More](https://medium.com/p/3e49de54f7a4) |
