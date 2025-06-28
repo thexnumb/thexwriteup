@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 18:24:26 GMT | Bypassing Blockchain Capabilities: How a $2,000 Exploit Let Contracts Do the Forbidden | Monika sharma | [Read More](https://medium.com/p/2bfe4120587d) |
+| Sat, 28 Jun 2025 18:21:52 GMT | Understanding the 2025 Shadow AI Threat | Artificial Intelligence + | [Read More](https://medium.com/p/9de127dd7f36) |
+| Sat, 28 Jun 2025 18:13:04 GMT | The Beauty of Public Key Encryption with Key Encapsulation: HPKE | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/caf28568bbed) |
+| Sat, 28 Jun 2025 18:12:51 GMT | TLS vs SSL: What’s the Difference & Why It Still Matters in 2025 | err0rgod | [Read More](https://medium.com/p/ede4a916a159) |
+| Sat, 28 Jun 2025 18:10:58 GMT | Exactly, JPEG’d, Pond0x: Reentrancy, Input Abuse, and a Suspected Rug | Olympix | [Read More](https://medium.com/p/ce8347d93e94) |
+| Sat, 28 Jun 2025 18:07:20 GMT | Uwerx, EraLend, BNO: From Burn Loops to Broken Withdrawals | Olympix | [Read More](https://medium.com/p/1d31a1e0d017) |
+| Sat, 28 Jun 2025 18:04:22 GMT | How Digital Forensics Are Different from Forensic Science, and in What Ways Can Artificial… | Arnab Barua | [Read More](https://medium.com/p/fe67fabee83a) |
+| Sat, 28 Jun 2025 18:03:53 GMT | Palmswap, Biswap, LibertiVault: When Price Curves, Permissions, and Reentrancy All Break | Olympix | [Read More](https://medium.com/p/55cbbd8cf1f6) |
+| Sat, 28 Jun 2025 17:57:45 GMT | Pentesting Fundamentals — TryHackMe | Rishivegeto | [Read More](https://medium.com/p/fb76380f4206) |
+| Sat, 28 Jun 2025 17:53:53 GMT | Why the Preparation Phase Is Critical in Incident Response | Nesrine Cherrabi | [Read More](https://medium.com/p/3d7ff4147a30) |
+| Sat, 28 Jun 2025 17:47:29 GMT | Why It Took Me Ten Years to Start Writing Publicly | Arshpreet | [Read More](https://medium.com/p/4323d01d041f) |
+| Sat, 28 Jun 2025 17:39:52 GMT | The Clown I Became to Be Liked | Akshat Singh | [Read More](https://medium.com/p/18c495288b3c) |
+| Sat, 28 Jun 2025 17:37:22 GMT | Real-Time Kernel-Level Security Monitoring with eBPF: An In-Depth Guide ️ | Esra Kayhan | [Read More](https://medium.com/p/2c5c2c0715c0) |
+| Sat, 28 Jun 2025 17:27:48 GMT | SOC Automation Project with wazuh and thehive | Bit_Picker | [Read More](https://medium.com/p/dc606d5b38d8) |
 | Sat, 28 Jun 2025 17:20:15 GMT | New “Godfather” Malware is Back | Piyush | [Read More](https://medium.com/p/d19c5b9cfcac) |
 | Sat, 28 Jun 2025 17:17:11 GMT | Agent Sudo on TryHackMe — Writeup | i3_mr1i | [Read More](https://medium.com/p/6895a73934a0) |
 | Sat, 28 Jun 2025 17:14:15 GMT | Pentesting Fundamentals — TryHackMe Room Walkthrough | santosh gadekar | [Read More](https://medium.com/p/e74f0b850da4) |
@@ -99,17 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 11:13:10 GMT | TryHackme: Pentesting Fundamental | Namoshukla | [Read More](https://medium.com/p/9a21341ff316) |
 | Sat, 28 Jun 2025 11:06:28 GMT | 5 Top Plateformes pour Maîtriser la Cybersécurité en 2025 | Ait Laaguidi Yassine | [Read More](https://medium.com/p/5f05591bcd4f) |
 | Sat, 28 Jun 2025 11:05:12 GMT | Cyble — | Pratham Sharma | [Read More](https://medium.com/p/ea2be6c852d9) |
-| Sat, 28 Jun 2025 11:03:26 GMT | Agentic Systems Will Shape the Future of Cybersecurity — But AI Agents Need Protection Too | noailabs | [Read More](https://medium.com/p/467413e8ff0a) |
-| Sat, 28 Jun 2025 11:03:04 GMT | How We Replaced A Team of 15 With A Single Engineer | Saikat Paul | [Read More](https://medium.com/p/f3550b155c79) |
-| Sat, 28 Jun 2025 10:59:24 GMT | How Cyber Crime Is Exploding Across Social Media | Cybersecurity Alerts | [Read More](https://medium.com/p/05995dae6a79) |
-| Sat, 28 Jun 2025 10:59:12 GMT | When the Code Breaks, My Mind Learns: Testing as a Journey of Patience | Himanshunya | [Read More](https://medium.com/p/6f1a97644b05) |
-| Sat, 28 Jun 2025 10:57:01 GMT | Got Deactivated? No Problem — Here’s a 10-Minute Window to Take Control | ValidByAccident | [Read More](https://medium.com/p/72eff56c79ee) |
-| Sat, 28 Jun 2025 10:45:17 GMT | Master Application and Network Security Testing with CANSTE Program by Tonex | M. Rahman | [Read More](https://medium.com/p/997b205ace2b) |
-| Sat, 28 Jun 2025 10:41:58 GMT | The Technologies Behind Bluepill’s Audit System — Shaping the Future of Web3 Security | Meoowrypto | [Read More](https://medium.com/p/58599c6fc9fa) |
-| Sat, 28 Jun 2025 10:40:04 GMT | What Security Auditing Really Is? And Why It’s the Health Check Every IT Environment Needs? | Mujtaba Shaikeldin | [Read More](https://medium.com/p/e8c390d168d2) |
-| Sat, 28 Jun 2025 10:32:42 GMT | Information Disclosure part-5 : Information disclosure in version control history | Ahmad Sopyan | [Read More](https://medium.com/p/68694424d6eb) |
-| Sat, 28 Jun 2025 10:31:51 GMT | From HTTPS to Pinning: Securing Web Apps the Smart Way | Natarajan C K | [Read More](https://medium.com/p/a3bec41074a5) |
-| Sat, 28 Jun 2025 10:29:31 GMT | How Hackers Target University Students  —  And How You Can Stay Safe | Janith Rathnayake | [Read More](https://medium.com/p/fe0e60c60aab) |
-| Sat, 28 Jun 2025 10:28:38 GMT | “Burp Suite, Bugs & Growth: What a Cybersecurity Competition in my university Taught Me” | Pooja Borade | [Read More](https://medium.com/p/b9dc94c35e47) |
-| Sat, 28 Jun 2025 10:27:55 GMT | Microsoft 365 Copilot Zero-Click Attacks: A Novel Approach to Cybersecurity Risks | CyberSleuth_Idhris | [Read More](https://medium.com/p/79e01e4ecb97) |
-| Sat, 28 Jun 2025 10:25:31 GMT | How I Built a Simple NIDS with Suricata and Wazuh on Ubuntu | Abdullahkhan | [Read More](https://medium.com/p/cf49fe4bd05e) |
