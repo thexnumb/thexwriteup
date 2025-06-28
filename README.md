@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 10:32:42 GMT | Information Disclosure part-5 : Information disclosure in version control history | Ahmad Sopyan | [Read More](https://medium.com/p/68694424d6eb) |
+| Sat, 28 Jun 2025 10:31:51 GMT | From HTTPS to Pinning: Securing Web Apps the Smart Way | Natarajan C K | [Read More](https://medium.com/p/a3bec41074a5) |
+| Sat, 28 Jun 2025 10:29:31 GMT | How Hackers Target University Students  —  And How You Can Stay Safe | Janith Rathnayake | [Read More](https://medium.com/p/fe0e60c60aab) |
+| Sat, 28 Jun 2025 10:28:38 GMT | “Burp Suite, Bugs & Growth: What a Cybersecurity Competition in my university Taught Me” | Pooja Borade | [Read More](https://medium.com/p/b9dc94c35e47) |
+| Sat, 28 Jun 2025 10:27:55 GMT | Microsoft 365 Copilot Zero-Click Attacks: A Novel Approach to Cybersecurity Risks | CyberSleuth_Idhris | [Read More](https://medium.com/p/79e01e4ecb97) |
+| Sat, 28 Jun 2025 10:25:31 GMT | How I Built a Simple NIDS with Suricata and Wazuh on Ubuntu | Abdullahkhan | [Read More](https://medium.com/p/cf49fe4bd05e) |
+| Sat, 28 Jun 2025 10:24:08 GMT | Level Up Your Web Security Game: Essential Tools for PenTesting & Bug Bounty Hunting | KALYAN CHAVALA | [Read More](https://medium.com/p/078862e91bb7) |
+| Sat, 28 Jun 2025 10:22:00 GMT | OWASP Pentest Series (10/12) | TheZeeshanKhan | [Read More](https://medium.com/p/ea12c088677f) |
 | Sat, 28 Jun 2025 10:04:45 GMT | Wish I Knew This AWS Scaling Architecture Earlier! | Kanav Sharma | [Read More](https://medium.com/p/d92b3614e5de) |
 | Sat, 28 Jun 2025 09:59:09 GMT | LetsDefend Web Attacks 2: Detecting and Solving Attacks with Real Log Files. Part 3 | CyberSam | [Read More](https://medium.com/p/a69d09beffa0) |
 | Sat, 28 Jun 2025 09:57:50 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/b9e3672e917f) |
@@ -40,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 08:26:40 GMT | BlueTeamGPT: The AI Defender Every Security Team Needs | Saikat Paul | [Read More](https://medium.com/p/b920a5f56237) |
 | Sat, 28 Jun 2025 08:23:05 GMT | Anonymous and the Armor of God: A Spiritual Comparison of Two Movements | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/11df895aa34f) |
 | Sat, 28 Jun 2025 08:20:18 GMT | The Invisible Threat Lurking in Industrial Networks: GE SRTP | Azim Uddin | [Read More](https://medium.com/p/0f80d277dcb9) |
+| Sat, 28 Jun 2025 08:03:22 GMT | Secure Coding für Web-Entwickler | mertes.dev | [Read More](https://medium.com/p/63f66c8d064e) |
 | Sat, 28 Jun 2025 07:59:51 GMT | Inside the Dark Web’s Most Ruthless Heist: How Double-Extortion Ransomware Holds Companies… | Ekene Joseph | [Read More](https://medium.com/p/c6467eb3ce42) |
 | Sat, 28 Jun 2025 07:59:26 GMT | Unraveling Complexity: Applying Network Analysis to Cybersecurity | Yi Zhou | [Read More](https://medium.com/p/6a5d76d99c5c) |
 | Sat, 28 Jun 2025 07:58:28 GMT | If Carlsberg Did Conferences: Towards Deep Tech in Digital Trust | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d879806f1489) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 02:10:47 GMT | Book Review: Ghost in the Wires by Kevin Mitnick | Samriddhi | [Read More](https://medium.com/p/0c71071bb523) |
 | Sat, 28 Jun 2025 01:58:29 GMT | National Insurance Awareness Day | Luna Dawn | [Read More](https://medium.com/p/79393242d7c7) |
 | Sat, 28 Jun 2025 01:56:42 GMT | The Ultimate Guide to Crafting a Strong Password | Jean Bertro Paul | [Read More](https://medium.com/p/0c1603d288cb) |
-| Sat, 28 Jun 2025 01:41:22 GMT | Is He/She Into You? 3 Subtle Signs of Attraction Revealed | Lilyana | [Read More](https://medium.com/p/16f2b58023fb) |
-| Sat, 28 Jun 2025 01:38:19 GMT | Hybrid Encryption: ECIES | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d62794449ab5) |
-| Sat, 28 Jun 2025 00:57:07 GMT | The Sarcastic Guide to Python Careers: Laugh Now, Apply Later | Francisco Perez | [Read More](https://medium.com/p/251f627f6a15) |
-| Sat, 28 Jun 2025 00:24:58 GMT | Time Stamps and Screenshots: A Rebuttal to AI-Era Plagiarism Claims and the Importance of Documents | Mitchell D McPhetridge | [Read More](https://medium.com/p/7c335cafdeb2) |
-| Sat, 28 Jun 2025 00:13:45 GMT | My VoIP Hacking Incident: A Lesson in Cybersecurity | Jean Bertro Paul | [Read More](https://medium.com/p/c14389a9af51) |
-| Sat, 28 Jun 2025 00:13:04 GMT | What Medieval Monks Can Teach Modern Hackers: A Catholic Guide to Cybersecurity | Reiza Ariva-Hale | [Read More](https://medium.com/p/ca7b426090db) |
-| Sat, 28 Jun 2025 00:00:13 GMT | FFUF: Fuzzing eficaz para Pentesting y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/ccb96fa8d5a8) |
-| Fri, 27 Jun 2025 23:39:51 GMT | Unmask GitLab’s $16,000 Bounty: Arbitrary File Read in Project Import | Monika sharma | [Read More](https://medium.com/p/e428cd876797) |
-| Fri, 27 Jun 2025 23:39:35 GMT | The Covered Problem Of AI in IT World. Debraining, Script Kiddies Etc. - NnFaces Specials #6 | NnFace | [Read More](https://medium.com/p/3568d68cf474) |
