@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 22:17:40 GMT | Message Box - hackinghub - write-up | Musab Sarı | [Read More](https://medium.com/p/f127bb87299c) |
+| Sat, 28 Jun 2025 22:00:01 GMT | Reverse Engineering : Apple’s AirTag | Prabhu Perumal | [Read More](https://medium.com/p/9125f76da1ca) |
+| Sat, 28 Jun 2025 21:44:05 GMT | Relevant writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a44936492904) |
+| Sat, 28 Jun 2025 21:40:30 GMT | Rebuilding My Cybersecurity Lab (and My Life) | 3Graces CC | [Read More](https://medium.com/p/b1a89e67f448) |
 | Sat, 28 Jun 2025 21:26:41 GMT | David Velez • Hacker • Vegachí • Colombia | Webresultsveg | [Read More](https://medium.com/p/f7f3a7ac68c4) |
 | Sat, 28 Jun 2025 21:19:17 GMT | CORS Finally Explained: The Web Security Concept That Trips Up Every Developer | reviewraccoon | [Read More](https://medium.com/p/e9bc20c6a2c4) |
 | Sat, 28 Jun 2025 21:16:43 GMT | Red Teaming Generative AI | Saniye Nur | [Read More](https://medium.com/p/3b2230b6fdc9) |
@@ -109,7 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 13:45:39 GMT | Websocket response manipulation leads to access admin panel | rood | [Read More](https://medium.com/p/27b432ea4745) |
 | Sat, 28 Jun 2025 13:44:36 GMT | From ZIP to Zoho Hall of Fame: How I Found Exposed API Keys ! | H4cker-Nafeed | [Read More](https://medium.com/p/17eeca415474) |
 | Sat, 28 Jun 2025 13:43:59 GMT | NIST for Small Businesses without Employees | Jorge Castaneda | [Read More](https://medium.com/p/51827724dce6) |
-| Sat, 28 Jun 2025 13:43:57 GMT | Documents & Files Search Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/be888e6dab79) |
-| Sat, 28 Jun 2025 13:39:54 GMT | Cyber Data Privacy & Security Fundamentals | Chief Operating Officer | [Read More](https://medium.com/p/f43e53ee741a) |
-| Sat, 28 Jun 2025 13:34:34 GMT | Can AI Be Our New Superhero? How It’s Saving Lives and Stopping Disasters | Payaam Raza | [Read More](https://medium.com/p/2ab7223f06e6) |
-| Sat, 28 Jun 2025 13:33:16 GMT | AI Just Designed Your Next Outfit: Here’s How It’s Changing Fashion Forever | Payaam Raza | [Read More](https://medium.com/p/fb8b838063bd) |
