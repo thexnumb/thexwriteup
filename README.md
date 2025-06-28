@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 20:28:35 GMT | Knowing isn’t Doing | Yudi Arfann | [Read More](https://medium.com/p/e269d1994f42) |
+| Sat, 28 Jun 2025 20:22:09 GMT | The love I’ve never felt | lena ♡ | [Read More](https://medium.com/p/9ce09550e324) |
 | Sat, 28 Jun 2025 20:20:50 GMT | The Dark Side of OSINT Tools: VIP Targets Located | Ian Barwise | [Read More](https://medium.com/p/6c85fcfde32a) |
+| Sat, 28 Jun 2025 20:18:55 GMT | picoCTF Web Exploitation: Scavenger Hunt (easy) | Hussein Gaweesh | [Read More](https://medium.com/p/cb218a458460) |
 | Sat, 28 Jun 2025 20:18:28 GMT | Dmail vs. Traditional Email: Why Web3 is Changing How We Communicate | Web3Sunshine | [Read More](https://medium.com/p/6bccf2b94be1) |
+| Sat, 28 Jun 2025 20:17:56 GMT | Could That Domain Name Cost You Millions? | Raviteja Mureboina | [Read More](https://medium.com/p/5eb3f2eade5c) |
 | Sat, 28 Jun 2025 20:14:49 GMT | Session Hijacking Using XSS | Vansh | [Read More](https://medium.com/p/f3448fb531d4) |
 | Sat, 28 Jun 2025 20:05:50 GMT | Goodbye Passwords? Microsoft’s Game-Changing Passkey Integration with 1Password on Windows 11 | TechBird | [Read More](https://medium.com/p/3f15597ed405) |
 | Sat, 28 Jun 2025 19:53:05 GMT | Vulnerabilities Found in iOS 18.5 Apple iPhone Security Update | Awaismahmood | [Read More](https://medium.com/p/cc2b707781aa) |
@@ -109,7 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 13:12:10 GMT | Enumeration Basics with NMAP Scanning | Criswellcam | [Read More](https://medium.com/p/c452d869e311) |
 | Sat, 28 Jun 2025 13:03:04 GMT | Your API Is a Goldmine for Hackers. Here’s How EDSPL Protects It. | saurabh cyberinfomines | [Read More](https://medium.com/p/f29b219c372b) |
 | Sat, 28 Jun 2025 13:02:26 GMT | Incident Response : From Alert to Action | Ahmed Elbatea | [Read More](https://medium.com/p/c27e0ce60b30) |
-| Sat, 28 Jun 2025 13:02:18 GMT | TryHackMe CMesS — Walkthrough | mauzware | [Read More](https://medium.com/p/8b368881f75b) |
-| Sat, 28 Jun 2025 12:58:32 GMT | Why Edcited Educational Services is Your Pathway to Success | Edcited | [Read More](https://medium.com/p/1f8a984e0372) |
-| Sat, 28 Jun 2025 12:48:49 GMT | The Ultimate Guide to Hydra: Mastering Brute Force Password Cracking | Taha Ex | [Read More](https://medium.com/p/07fbe8ed7d4e) |
-| Sat, 28 Jun 2025 12:36:41 GMT | This Spring Boot Filter Trick Improved API Security Without Any Extra Code | Ramesh Fadatare | [Read More](https://medium.com/p/5b35acf88dd2) |
