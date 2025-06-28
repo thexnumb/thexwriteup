@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 12:32:28 GMT | Perpetual vs SaaS: The continous revenue model | Juan José Gonzalez M | [Read More](https://medium.com/p/b8c8f70f21af) |
+| Sat, 28 Jun 2025 12:31:53 GMT | ️ Day 7/30 My Go-To Browser Extensions for Bug Bounty Hunting & Cybersecurity | Cyphersilhouette | [Read More](https://medium.com/p/ecadccca0923) |
+| Sat, 28 Jun 2025 12:31:53 GMT | When a Single Phish Nearly Sank a Startup | Sneha Rani | [Read More](https://medium.com/p/0225db905091) |
+| Sat, 28 Jun 2025 12:29:12 GMT | Simple Email HTML Injection to $250 | TSxNINJA | [Read More](https://medium.com/p/7e0c2ce98f9f) |
+| Sat, 28 Jun 2025 12:28:03 GMT | I Scrolled Through the Privacy Policy for 3 Hours, and Here’s What I Found (Not Happiness) | Ngatz | [Read More](https://medium.com/p/dfde557cda6d) |
+| Sat, 28 Jun 2025 12:18:24 GMT | Day #2: Log Analysis Basics Exploring Windows Security Logs on Server 2022 | Rishavkumarthapa | [Read More](https://medium.com/p/05ea4f71b4d8) |
+| Sat, 28 Jun 2025 12:15:35 GMT | REAL TALK: Ethical Hacking ≠ Movie Hacking | Siddhesh Surve | [Read More](https://medium.com/p/e3bf913e8113) |
+| Sat, 28 Jun 2025 12:06:45 GMT | We Found Our Terraform State File Public — And It Had Secrets Inside | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/c79662808211) |
+| Sat, 28 Jun 2025 12:01:53 GMT | Your AI Integrations Are a Security Nightmare Waiting to Happen (And You Don’t Even Know It) | Rameshsurapathi | [Read More](https://medium.com/p/e8176fd1b777) |
+| Sat, 28 Jun 2025 11:58:14 GMT | AWS CDK vs Terraform: Infrastructure as Code Comparison 2025 | Saikat Paul | [Read More](https://medium.com/p/ec2a8c2ce8f4) |
+| Sat, 28 Jun 2025 11:57:49 GMT | Day 1: First Hands-On Lab — Hack The Box ‍ | Jerick&rew | [Read More](https://medium.com/p/1466ac542b8f) |
+| Sat, 28 Jun 2025 11:55:52 GMT | Zero Day Mindset: Why Most Hackers Miss Critical Bugs — and How You Can Find Them First” | Đeepanshu | [Read More](https://medium.com/p/c0dc6f751ab1) |
+| Sat, 28 Jun 2025 11:52:30 GMT | The Ultimate Guide to Call Center Dialers: Features, Benefits & Trends | Webwers | [Read More](https://medium.com/p/2c4bfb1600a3) |
+| Sat, 28 Jun 2025 11:51:41 GMT | The Overlooked CVSS Metrics | Anthony Mukwaya | [Read More](https://medium.com/p/fbac98112fb0) |
 | Sat, 28 Jun 2025 11:23:14 GMT | Bug Bounty Hunting : It’s Not Always What You Think | 40sp3l | [Read More](https://medium.com/p/4a212cf93b3b) |
 | Sat, 28 Jun 2025 11:13:10 GMT | TryHackme: Pentesting Fundamental | Namoshukla | [Read More](https://medium.com/p/9a21341ff316) |
 | Sat, 28 Jun 2025 11:06:28 GMT | 5 Top Plateformes pour Maîtriser la Cybersécurité en 2025 | Ait Laaguidi Yassine | [Read More](https://medium.com/p/5f05591bcd4f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 06:15:54 GMT | Rethinking the Cloud: Why I Built My Own | Cryonix.official | [Read More](https://medium.com/p/bcf0722a9b32) |
 | Sat, 28 Jun 2025 06:07:21 GMT | Certified Information Security Officer (CISO) with GSDC | ankita deo | [Read More](https://medium.com/p/e4777274432e) |
 | Sat, 28 Jun 2025 06:05:15 GMT | Pentesting Fundamentals | Vikash Yadav | [Read More](https://medium.com/p/82c60f4be849) |
-| Sat, 28 Jun 2025 06:04:10 GMT | How to Use FOFA Shodan.io and Hunter.io for Advanced Cyber Reconnaissance | Saikat Paul | [Read More](https://medium.com/p/cab9eff4556b) |
-| Sat, 28 Jun 2025 05:57:42 GMT | Quick 10: ID Token vs Access Token in OAuth & OIDC — A Developer’s Guide | Asish M Madhu | [Read More](https://medium.com/p/c3109d354c8a) |
-| Sat, 28 Jun 2025 05:36:45 GMT | Decentralized Storage Wars: IPFS vs Filecoin vs Arweave | A-STAR7_DOCTOR | [Read More](https://medium.com/p/91d705d538ac) |
-| Sat, 28 Jun 2025 05:29:19 GMT | I Let an AI Live in My Terminal, and It’s a Game-Changer | Burka Developer | [Read More](https://medium.com/p/c5878d9288b9) |
-| Sat, 28 Jun 2025 05:10:41 GMT | Smart Home Innovations | Rupakbabaei | [Read More](https://medium.com/p/ef7d5f48818c) |
-| Sat, 28 Jun 2025 05:06:42 GMT | Satarko — Bangladesh’s Smartest Security Solution for Homes, Shops & Industries | Satarko | [Read More](https://medium.com/p/f72cb91a339f) |
-| Sat, 28 Jun 2025 05:03:53 GMT | What does the Battle of Gaugamela in 331 BC have to do with AI? | Sam | [Read More](https://medium.com/p/cb4e8eddaac0) |
-| Sat, 28 Jun 2025 04:52:51 GMT | Basics of Cyber Security: The Internet is Out to Get You (Unless You Read This) | DarKVoicE | [Read More](https://medium.com/p/70e7cc19af51) |
-| Sat, 28 Jun 2025 04:52:20 GMT | Why Organizations Need Penetration Testing | Steve McLaughlin | [Read More](https://medium.com/p/4472419a672b) |
-| Sat, 28 Jun 2025 04:45:54 GMT | PowerShell Live IR — POC | SoNaJaa_!! | [Read More](https://medium.com/p/a87d5aeb8197) |
-| Sat, 28 Jun 2025 04:40:57 GMT | Redirection Gone Wrong: How Trust and the Referer Can Be Weaponized | Isv | [Read More](https://medium.com/p/e329621e9cb6) |
-| Sat, 28 Jun 2025 04:31:57 GMT | 5 Sneaky Ways to Bypass 403 Forbidden Pages - Zuri | Zuri | [Read More](https://medium.com/p/98f0f3411641) |
-| Sat, 28 Jun 2025 04:25:49 GMT | 3. OSI Model – Writeup tryhackme | Imatechie | [Read More](https://medium.com/p/6a1534e6dda2) |
-| Sat, 28 Jun 2025 04:21:27 GMT | 2. Intro to LAN — Writeup #tryhackme | Imatechie | [Read More](https://medium.com/p/491f832625c3) |
