@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 13:39:54 GMT | Cyber Data Privacy & Security Fundamentals | Chief Operating Officer | [Read More](https://medium.com/p/f43e53ee741a) |
+| Sat, 28 Jun 2025 13:34:34 GMT | Can AI Be Our New Superhero? How It’s Saving Lives and Stopping Disasters | Payaam Raza | [Read More](https://medium.com/p/2ab7223f06e6) |
+| Sat, 28 Jun 2025 13:33:16 GMT | AI Just Designed Your Next Outfit: Here’s How It’s Changing Fashion Forever | Payaam Raza | [Read More](https://medium.com/p/fb8b838063bd) |
+| Sat, 28 Jun 2025 13:31:23 GMT | Breaking into GRC: A Beginner’s Guide | Nishitathakkar | [Read More](https://medium.com/p/739028f9e155) |
+| Sat, 28 Jun 2025 13:30:04 GMT | How I Found a Hidden Backdoor User Account on My Ubuntu Server (And What I Did About It) | Faruk Ahmed | [Read More](https://medium.com/p/d8bd0dcc7926) |
 | Sat, 28 Jun 2025 13:28:21 GMT | TryHackMe: Pentesting Fundamentals — A Walkthrough by Ishita Gandhi | Ishitagandhi | [Read More](https://medium.com/p/6179dd7a88d4) |
+| Sat, 28 Jun 2025 13:27:08 GMT | AI-Powered Incident Response: Automated Threat Classification in the SOC ️ | Esra Kayhan | [Read More](https://medium.com/p/69d403fc7a4c) |
 | Sat, 28 Jun 2025 13:26:16 GMT | IPSEC nədir və necə işləyir? | Makharramli | [Read More](https://medium.com/p/b3b2f4048d48) |
 | Sat, 28 Jun 2025 13:13:55 GMT | The Caverhill Protocol vs. Zero Trust: Breaking the Mold for Modern Security | Travis Ray Caverhill | [Read More](https://medium.com/p/409e2f7dc0fd) |
 | Sat, 28 Jun 2025 13:12:10 GMT | Enumeration Basics with NMAP Scanning | Criswellcam | [Read More](https://medium.com/p/c452d869e311) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 07:07:17 GMT | TryHackMe - CORS & SOP - WriteUp | Axoloth | [Read More](https://medium.com/p/44232c777a77) |
 | Sat, 28 Jun 2025 07:04:13 GMT | This is how I ditched the official solution for the lab and created my own. | Rabia Riaz | [Read More](https://medium.com/p/0b1abf65ff55) |
 | Sat, 28 Jun 2025 07:00:50 GMT | CCTV Monitoring vs. CCTV Recording: What’s the Difference? | Jane Tang | [Read More](https://medium.com/p/0c0e2ea6727e) |
-| Sat, 28 Jun 2025 06:56:00 GMT | Pentesting Fundamentals | TheSocialHacker | [Read More](https://medium.com/p/11773822a2b1) |
-| Sat, 28 Jun 2025 06:55:55 GMT | AI Hackers vs AI Defenders: Who’s Winning in 2025? | Paritosh | [Read More](https://medium.com/p/2026b28c32c5) |
-| Sat, 28 Jun 2025 06:45:26 GMT | CVE-2025–0133 Made Easy — Find Vulnerable Assets in 2 Minutes | LordofHeaven | [Read More](https://medium.com/p/140a9ba8e2da) |
-| Sat, 28 Jun 2025 06:42:35 GMT | Does Networking Really Help You Get Hired? Here’s What I Learned | Prinu_17 | [Read More](https://medium.com/p/ce806ecd1963) |
-| Sat, 28 Jun 2025 06:41:44 GMT | Bridging Snowflake and Glue: Secure, Serverless Metadata Automation | Vasanth Kumar Aswathamachary | [Read More](https://medium.com/p/b2f41b0f20e0) |
-| Sat, 28 Jun 2025 06:41:15 GMT | Insecure WebSocket Communication leaks PII and why you should never ignore Burp’s WebSocket history… | Aayush kumar | [Read More](https://medium.com/p/39ea4df9d11f) |
