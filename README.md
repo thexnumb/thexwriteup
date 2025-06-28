@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 18:33:27 GMT | How GIFTEDCROOK Evolved into a High‑Stakes Intelligence Tool | Chetan Seripally | [Read More](https://medium.com/p/285cd782e633) |
+| Sat, 28 Jun 2025 18:30:05 GMT | How to append User-Agent using Match & Replace options in Caido. | Pushkar Padhye | [Read More](https://medium.com/p/e2e6dea01fd7) |
 | Sat, 28 Jun 2025 18:24:26 GMT | Bypassing Blockchain Capabilities: How a $2,000 Exploit Let Contracts Do the Forbidden | Monika sharma | [Read More](https://medium.com/p/2bfe4120587d) |
 | Sat, 28 Jun 2025 18:21:52 GMT | Understanding the 2025 Shadow AI Threat | Artificial Intelligence + | [Read More](https://medium.com/p/9de127dd7f36) |
 | Sat, 28 Jun 2025 18:13:04 GMT | The Beauty of Public Key Encryption with Key Encapsulation: HPKE | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/caf28568bbed) |
@@ -111,5 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 11:51:41 GMT | The Overlooked CVSS Metrics | Anthony Mukwaya | [Read More](https://medium.com/p/fbac98112fb0) |
 | Sat, 28 Jun 2025 11:23:14 GMT | Bug Bounty Hunting : It’s Not Always What You Think | 40sp3l | [Read More](https://medium.com/p/4a212cf93b3b) |
 | Sat, 28 Jun 2025 11:13:10 GMT | TryHackme: Pentesting Fundamental | Namoshukla | [Read More](https://medium.com/p/9a21341ff316) |
-| Sat, 28 Jun 2025 11:06:28 GMT | 5 Top Plateformes pour Maîtriser la Cybersécurité en 2025 | Ait Laaguidi Yassine | [Read More](https://medium.com/p/5f05591bcd4f) |
-| Sat, 28 Jun 2025 11:05:12 GMT | Cyble — | Pratham Sharma | [Read More](https://medium.com/p/ea2be6c852d9) |
