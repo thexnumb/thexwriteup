@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 00:57:07 GMT | The Sarcastic Guide to Python Careers: Laugh Now, Apply Later | Francisco Perez | [Read More](https://medium.com/p/251f627f6a15) |
+| Sat, 28 Jun 2025 00:24:58 GMT | Time Stamps and Screenshots: A Rebuttal to AI-Era Plagiarism Claims and the Importance of Documents | Mitchell D McPhetridge | [Read More](https://medium.com/p/7c335cafdeb2) |
+| Sat, 28 Jun 2025 00:13:45 GMT | My VoIP Hacking Incident: A Lesson in Cybersecurity | Jean Bertro Paul | [Read More](https://medium.com/p/c14389a9af51) |
+| Sat, 28 Jun 2025 00:13:04 GMT | What Medieval Monks Can Teach Modern Hackers: A Catholic Guide to Cybersecurity | Reiza Ariva-Hale | [Read More](https://medium.com/p/ca7b426090db) |
+| Sat, 28 Jun 2025 00:00:13 GMT | FFUF: Fuzzing eficaz para Pentesting y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/ccb96fa8d5a8) |
+| Fri, 27 Jun 2025 23:39:51 GMT | Unmask GitLab’s $16,000 Bounty: Arbitrary File Read in Project Import | Monika sharma | [Read More](https://medium.com/p/e428cd876797) |
+| Fri, 27 Jun 2025 23:39:35 GMT | The Covered Problem Of AI in IT World. Debraining, Script Kiddies Etc. - NnFaces Specials #6 | NnFace | [Read More](https://medium.com/p/3568d68cf474) |
 | Fri, 27 Jun 2025 23:31:24 GMT | Hardware Firewalls by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/153711f7a7c6) |
 | Fri, 27 Jun 2025 23:29:51 GMT | How to Build a Secure GitOps Pipeline with ArgoCD and Vault | Pablo jusue | [Read More](https://medium.com/p/548dc680ed69) |
 | Fri, 27 Jun 2025 23:18:20 GMT | Reading Cybersecurity Reports Sucks. NotebookLM Makes It Suck Less | John | [Read More](https://medium.com/p/6796f047ca13) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 15:58:36 GMT | A Comparative Analysis of Leading Large Language Models: Grok 3, OpenAI’s GPT-4o, and Google’s… | FARHAN AHMED | [Read More](https://medium.com/p/1202cc82b118) |
 | Fri, 27 Jun 2025 15:55:32 GMT | How does VPN works- all about VPN | err0rgod | [Read More](https://medium.com/p/15e3bf2bb24d) |
 | Fri, 27 Jun 2025 15:53:33 GMT | I Believed Tom Hanks Ate Babies | The Accidental Monster | [Read More](https://medium.com/p/6d672286e083) |
-| Fri, 27 Jun 2025 15:46:40 GMT | From Chatbots to Image Generators: One App to Rule Them All (Beginner’s Guide) | Thedigitalmouth | [Read More](https://medium.com/p/58c6b3f6bb03) |
-| Fri, 27 Jun 2025 15:44:14 GMT | Day 34: Process Injection Attacks | Nile Okomo | [Read More](https://medium.com/p/b0fa348e662d) |
-| Fri, 27 Jun 2025 15:40:59 GMT | Day 35 of #60DaysofGRC: What’s the Point of an Audit? | Brittney Ginther | [Read More](https://medium.com/p/2f9f563c2057) |
-| Fri, 27 Jun 2025 15:37:48 GMT | Cara Menghapus Agent di Wazuh Menggunakan manage_agents | Haldian | [Read More](https://medium.com/p/5f555902aa15) |
-| Fri, 27 Jun 2025 15:32:35 GMT | What If I’m the Toxic One? The Quiet Sabotage of My Relationships and Myself | Arlettys Lp | [Read More](https://medium.com/p/3be364d17c98) |
-| Fri, 27 Jun 2025 15:32:03 GMT | Cybersecurity Awareness: Records Management — Why It Matters More Than Ever in 2025 | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/dcd87cb0774e) |
-| Fri, 27 Jun 2025 15:27:41 GMT | SQL Injection Ciega por Errores Condicionales | Roberto Alfaro (Vuldar) | [Read More](https://medium.com/p/5d94339eb2ce) |
