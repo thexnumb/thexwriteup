@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 17:11:13 GMT | I Did Nothing for 7 Days — And It Changed Everything About How I Work"
+Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763) |
+| Sat, 28 Jun 2025 17:09:56 GMT | New Feelings | Unhugged | [Read More](https://medium.com/p/8ea6fff58f72) |
+| Sat, 28 Jun 2025 17:09:00 GMT | Breaking News: Anonymous Hacker 0-P (Shiny) Breaches Government and Corporate Servers | YourCybersecNews | [Read More](https://medium.com/p/1306bece567e) |
+| Sat, 28 Jun 2025 17:07:08 GMT | Open-Source, Open Risk: Inside the Surge of Cyberattacks on African Financial Institutions. | eL Njas!™ | [Read More](https://medium.com/p/dd82f6de105a) |
+| Sat, 28 Jun 2025 17:02:37 GMT | Automotive Penetration Testing: Why Offensive Security is Essential for Modern Vehicles | DefenceRabbit | [Read More](https://medium.com/p/0cc5baf577a1) |
 | Sat, 28 Jun 2025 16:42:22 GMT | I Didn’t Just Need Sleep as a New Mom — I Needed a Village | Morgan Nalepka | [Read More](https://medium.com/p/d05ae6cb3e9e) |
 | Sat, 28 Jun 2025 16:38:26 GMT | picoCTF — Caesar | Robby firdauzy | [Read More](https://medium.com/p/4bfdce821d39) |
 | Sat, 28 Jun 2025 16:22:41 GMT | Executable Files Privilege Escalation for Windows | Ammar Ahmed | [Read More](https://medium.com/p/032ee609bf39) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 10:24:08 GMT | Level Up Your Web Security Game: Essential Tools for PenTesting & Bug Bounty Hunting | KALYAN CHAVALA | [Read More](https://medium.com/p/078862e91bb7) |
 | Sat, 28 Jun 2025 10:22:00 GMT | OWASP Pentest Series (10/12) | TheZeeshanKhan | [Read More](https://medium.com/p/ea12c088677f) |
 | Sat, 28 Jun 2025 10:04:45 GMT | Wish I Knew This AWS Scaling Architecture Earlier! | Kanav Sharma | [Read More](https://medium.com/p/d92b3614e5de) |
-| Sat, 28 Jun 2025 09:59:09 GMT | LetsDefend Web Attacks 2: Detecting and Solving Attacks with Real Log Files. Part 3 | CyberSam | [Read More](https://medium.com/p/a69d09beffa0) |
-| Sat, 28 Jun 2025 09:57:50 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/b9e3672e917f) |
-| Sat, 28 Jun 2025 09:50:34 GMT | AI Ethical Hacking Course Online in India | Manisha Chaudhary | [Read More](https://medium.com/p/f687343e20e4) |
-| Sat, 28 Jun 2025 09:47:16 GMT | Social Media & Cybersecurity: What You’re Sharing Could Be Helping Hackers | Richard Dosumu | [Read More](https://medium.com/p/905f430e52cc) |
-| Sat, 28 Jun 2025 09:41:52 GMT | Why Fix Security Flaws When Getting Hacked Can Be More Profitable? | Saikat Paul | [Read More](https://medium.com/p/727b816f54e7) |
