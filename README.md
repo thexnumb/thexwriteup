@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 06:26:46 GMT | Elevate Your Cybersecurity Career with CISSP Training in Bangalore | Cybernous Infosec consulting | [Read More](https://medium.com/p/3bb3e59d2d9c) |
+| Sat, 28 Jun 2025 06:25:48 GMT | Best Endpoint Security Training & Certification for Beginners | cyber security Updates | [Read More](https://medium.com/p/db2d08f8e953) |
+| Sat, 28 Jun 2025 06:20:01 GMT | ️ How I Took Over an Account by Bypassing Email Verification – A Privilege Escalation Story | WhoAdnan | [Read More](https://medium.com/p/5c056c55bbc5) |
+| Sat, 28 Jun 2025 06:18:42 GMT | Credential Stuffing Attacks: What They Are and How to Detect Them Practically | Paritosh | [Read More](https://medium.com/p/f51247d5bb5c) |
+| Sat, 28 Jun 2025 06:15:54 GMT | Rethinking the Cloud: Why I Built My Own | Cryonix.official | [Read More](https://medium.com/p/bcf0722a9b32) |
+| Sat, 28 Jun 2025 06:07:21 GMT | Certified Information Security Officer (CISO) with GSDC | ankita deo | [Read More](https://medium.com/p/e4777274432e) |
+| Sat, 28 Jun 2025 06:05:15 GMT | Pentesting Fundamentals | Vikash Yadav | [Read More](https://medium.com/p/82c60f4be849) |
+| Sat, 28 Jun 2025 06:04:10 GMT | How to Use FOFA Shodan.io and Hunter.io for Advanced Cyber Reconnaissance | Saikat Paul | [Read More](https://medium.com/p/cab9eff4556b) |
+| Sat, 28 Jun 2025 05:57:42 GMT | Quick 10: ID Token vs Access Token in OAuth & OIDC — A Developer’s Guide | Asish M Madhu | [Read More](https://medium.com/p/c3109d354c8a) |
 | Sat, 28 Jun 2025 05:36:45 GMT | Decentralized Storage Wars: IPFS vs Filecoin vs Arweave | A-STAR7_DOCTOR | [Read More](https://medium.com/p/91d705d538ac) |
 | Sat, 28 Jun 2025 05:29:19 GMT | I Let an AI Live in My Terminal, and It’s a Game-Changer | Burka Developer | [Read More](https://medium.com/p/c5878d9288b9) |
 | Sat, 28 Jun 2025 05:10:41 GMT | Smart Home Innovations | Rupakbabaei | [Read More](https://medium.com/p/ef7d5f48818c) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 17:59:16 GMT | What Every CISO Needs to Know About HIPAA and Online Tracking Technologies in 2025 | Feroot Security | [Read More](https://medium.com/p/5de44a261541) |
 | Fri, 27 Jun 2025 17:51:29 GMT | SOSYAL MÜHENDİSLİK | Mehmet Karagülle | [Read More](https://medium.com/p/6ab9720777e9) |
 | Fri, 27 Jun 2025 17:45:34 GMT | always liked, but never pursued | Ae | [Read More](https://medium.com/p/2d3f8e2867e4) |
-| Fri, 27 Jun 2025 17:44:31 GMT | **They Hijacked My Domain for 3+ Years, Redirected It to Malware, Took Over My Cloud, and ICANN… | Daretoexpose | [Read More](https://medium.com/p/11ce9f792824) |
-| Fri, 27 Jun 2025 17:43:50 GMT | DAD?! Not the Triad We Wanted | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/518ecd8579de) |
-| Fri, 27 Jun 2025 17:41:17 GMT | Dear love of my life | Theresa Elhage | [Read More](https://medium.com/p/2dac0020b606) |
-| Fri, 27 Jun 2025 17:38:15 GMT | Android App Security Checklists for Developers | Pankaj Kumar | [Read More](https://medium.com/p/8b037a2655a6) |
-| Fri, 27 Jun 2025 17:34:23 GMT | DFIR Services: The Frontline Defense Against Cyber Incidents | SafeAeon Inc. | [Read More](https://medium.com/p/816ad3af7d2d) |
-| Fri, 27 Jun 2025 17:34:21 GMT | The Weekly Threat Round-up 23/06/2025–27/06/2025 | RileyHv | [Read More](https://medium.com/p/ac562308618e) |
-| Fri, 27 Jun 2025 17:34:11 GMT | Cybersecurity News Review — Week 26 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/66bf42931f73) |
-| Fri, 27 Jun 2025 17:26:13 GMT | Password Encryption: Why It’s Critical for Data Security | SafeAeon Inc. | [Read More](https://medium.com/p/20931e979a8c) |
-| Fri, 27 Jun 2025 17:24:13 GMT | Portas e Port Scanning | Filipe Campos | [Read More](https://medium.com/p/90a8f6116400) |
