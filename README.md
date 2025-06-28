@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 05:10:41 GMT | Smart Home Innovations | Rupakbabaei | [Read More](https://medium.com/p/ef7d5f48818c) |
+| Sat, 28 Jun 2025 05:06:42 GMT | Satarko — Bangladesh’s Smartest Security Solution for Homes, Shops & Industries | Satarko | [Read More](https://medium.com/p/f72cb91a339f) |
+| Sat, 28 Jun 2025 05:03:53 GMT | What does the Battle of Gaugamela in 331 BC have to do with AI? | Sam | [Read More](https://medium.com/p/cb4e8eddaac0) |
+| Sat, 28 Jun 2025 04:52:51 GMT | Basics of Cyber Security: The Internet is Out to Get You (Unless You Read This) | DarKVoicE | [Read More](https://medium.com/p/70e7cc19af51) |
+| Sat, 28 Jun 2025 04:52:20 GMT | Why Organizations Need Penetration Testing | Steve McLaughlin | [Read More](https://medium.com/p/4472419a672b) |
+| Sat, 28 Jun 2025 04:45:54 GMT | PowerShell Live IR — POC | SoNaJaa_!! | [Read More](https://medium.com/p/a87d5aeb8197) |
+| Sat, 28 Jun 2025 04:40:57 GMT | Redirection Gone Wrong: How Trust and the Referer Can Be Weaponized | Isv | [Read More](https://medium.com/p/e329621e9cb6) |
+| Sat, 28 Jun 2025 04:31:57 GMT | 5 Sneaky Ways to Bypass 403 Forbidden Pages - Zuri | Zuri | [Read More](https://medium.com/p/98f0f3411641) |
+| Sat, 28 Jun 2025 04:25:49 GMT | 3. OSI Model – Writeup tryhackme | Imatechie | [Read More](https://medium.com/p/6a1534e6dda2) |
 | Sat, 28 Jun 2025 04:21:27 GMT | 2. Intro to LAN — Writeup #tryhackme | Imatechie | [Read More](https://medium.com/p/491f832625c3) |
 | Sat, 28 Jun 2025 04:17:12 GMT | 1.what is networking ? Tryhackme #writeup | Imatechie | [Read More](https://medium.com/p/6ced544ed44c) |
 | Sat, 28 Jun 2025 04:09:38 GMT | From Localhost to AWS: Migrating My Cyber Anomaly Detection API to the Cloud | Tony Maunu | [Read More](https://medium.com/p/534d8b2af247) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 17:24:13 GMT | Portas e Port Scanning | Filipe Campos | [Read More](https://medium.com/p/90a8f6116400) |
 | Fri, 27 Jun 2025 17:13:06 GMT | About Me | DarKVoicE | [Read More](https://medium.com/p/94c534b736b9) |
 | Fri, 27 Jun 2025 17:10:39 GMT | AI Objectives and Planning to Achieve Them (Clause 6.2 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/f620f7194727) |
-| Fri, 27 Jun 2025 17:09:45 GMT | What Is Web Application Delivery and Security? | Jack Beesley | [Read More](https://medium.com/p/92f5b02659dc) |
-| Fri, 27 Jun 2025 17:08:19 GMT | The Code That Saved Me: How a Broken Laptop Fixed My Life | Azmat Ali | [Read More](https://medium.com/p/58c20d6a6eb3) |
-| Fri, 27 Jun 2025 17:07:06 GMT | Serveurs MCP comme Serveurs de Ressources OAuth : Une Approche Simplifiée | Michael Wybraniec | [Read More](https://medium.com/p/baeda957926c) |
-| Fri, 27 Jun 2025 17:06:36 GMT | CKAD Notes: Security Context | Nicolas Barlatier | [Read More](https://medium.com/p/476fc095b847) |
-| Fri, 27 Jun 2025 17:05:42 GMT | Women in Cybersecurity: Participation, Challenges, and Opportunities in India | Sreya shyjash | [Read More](https://medium.com/p/7ecb26657023) |
-| Fri, 27 Jun 2025 17:03:44 GMT | What Is Information Security? A Simple Guide | Diyajat | [Read More](https://medium.com/p/f71c41a0382c) |
-| Fri, 27 Jun 2025 17:03:15 GMT | Cyber Sabotage in the Shadows: Are Infrastructure Failures a Sign of a Digital Cold War? | C. Oscar Lawshea | [Read More](https://medium.com/p/4a8b9b962ff2) |
-| Fri, 27 Jun 2025 17:03:15 GMT | Bogon Addresses Explained: What You Need to Know | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/e6649a61f19d) |
-| Fri, 27 Jun 2025 16:52:56 GMT | Why CompTIA Security+ SY0–701 Is the Best First Step into Cybersecurity | Lewis Matlock, MBA, CISSP-ISSMP | [Read More](https://medium.com/p/f3a9f5dc8681) |
