@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 05:36:45 GMT | Decentralized Storage Wars: IPFS vs Filecoin vs Arweave | A-STAR7_DOCTOR | [Read More](https://medium.com/p/91d705d538ac) |
+| Sat, 28 Jun 2025 05:29:19 GMT | I Let an AI Live in My Terminal, and It’s a Game-Changer | Burka Developer | [Read More](https://medium.com/p/c5878d9288b9) |
 | Sat, 28 Jun 2025 05:10:41 GMT | Smart Home Innovations | Rupakbabaei | [Read More](https://medium.com/p/ef7d5f48818c) |
 | Sat, 28 Jun 2025 05:06:42 GMT | Satarko — Bangladesh’s Smartest Security Solution for Homes, Shops & Industries | Satarko | [Read More](https://medium.com/p/f72cb91a339f) |
 | Sat, 28 Jun 2025 05:03:53 GMT | What does the Battle of Gaugamela in 331 BC have to do with AI? | Sam | [Read More](https://medium.com/p/cb4e8eddaac0) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 17:34:11 GMT | Cybersecurity News Review — Week 26 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/66bf42931f73) |
 | Fri, 27 Jun 2025 17:26:13 GMT | Password Encryption: Why It’s Critical for Data Security | SafeAeon Inc. | [Read More](https://medium.com/p/20931e979a8c) |
 | Fri, 27 Jun 2025 17:24:13 GMT | Portas e Port Scanning | Filipe Campos | [Read More](https://medium.com/p/90a8f6116400) |
-| Fri, 27 Jun 2025 17:13:06 GMT | About Me | DarKVoicE | [Read More](https://medium.com/p/94c534b736b9) |
-| Fri, 27 Jun 2025 17:10:39 GMT | AI Objectives and Planning to Achieve Them (Clause 6.2 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/f620f7194727) |
