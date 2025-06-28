@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 06:42:35 GMT | Does Networking Really Help You Get Hired? Here’s What I Learned | Prinu_17 | [Read More](https://medium.com/p/ce806ecd1963) |
+| Sat, 28 Jun 2025 06:41:44 GMT | Bridging Snowflake and Glue: Secure, Serverless Metadata Automation | Vasanth Kumar Aswathamachary | [Read More](https://medium.com/p/b2f41b0f20e0) |
+| Sat, 28 Jun 2025 06:41:15 GMT | Insecure WebSocket Communication leaks PII and why you should never ignore Burp’s WebSocket history… | Aayush kumar | [Read More](https://medium.com/p/39ea4df9d11f) |
+| Sat, 28 Jun 2025 06:38:21 GMT | Why Email Remains Inherently Unsecure: Risks and Real-World Examples | Madusanka | [Read More](https://medium.com/p/f9f4548b4eb7) |
+| Sat, 28 Jun 2025 06:33:03 GMT | Zero Trust Architecture Implementation on AWS: A Practical Guide for Modern Security | Saikat Paul | [Read More](https://medium.com/p/5028ce1c219c) |
+| Sat, 28 Jun 2025 06:32:40 GMT | Is Your Data Safe? Exploring the Latest in Cybersecurity Threats and Solutions | Yaswanth Ippili | [Read More](https://medium.com/p/7cef2676b02c) |
 | Sat, 28 Jun 2025 06:26:46 GMT | Elevate Your Cybersecurity Career with CISSP Training in Bangalore | Cybernous Infosec consulting | [Read More](https://medium.com/p/3bb3e59d2d9c) |
 | Sat, 28 Jun 2025 06:25:48 GMT | Best Endpoint Security Training & Certification for Beginners | cyber security Updates | [Read More](https://medium.com/p/db2d08f8e953) |
 | Sat, 28 Jun 2025 06:20:01 GMT | ️ How I Took Over an Account by Bypassing Email Verification – A Privilege Escalation Story | WhoAdnan | [Read More](https://medium.com/p/5c056c55bbc5) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 18:22:16 GMT | The State of Cybersecurity Resilience 2025 — Summary and Key Actions | Ajay Kumar | [Read More](https://medium.com/p/0feddf7ec36b) |
 | Fri, 27 Jun 2025 18:19:37 GMT | Roam: Building a Global Decentralized WiFi Network with Real Utility | Miretkus | [Read More](https://medium.com/p/d7623f438b4d) |
 | Fri, 27 Jun 2025 18:14:44 GMT | When Your Mouse/Keyboard Turns Against You: Drone-Powered Keystroke Injection with nRF24L Chips | Rasul Mansurov | [Read More](https://medium.com/p/69b36774f12a) |
-| Fri, 27 Jun 2025 18:07:02 GMT | How I Built and Deployed a Secure Campaign Website for FOCITSA 2025 Elections — A Tech-Driven… | Ibrahim Yusuf | [Read More](https://medium.com/p/91a6c0fe0f63) |
-| Fri, 27 Jun 2025 18:06:44 GMT | Your Terraform Outputs Might Be Leaking Secrets — Without You Noticing | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/c6f32f3292a0) |
-| Fri, 27 Jun 2025 18:05:12 GMT | Increase Your Bugs Bunny $BUGS Rewards in 2025 | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/439e6d73790f) |
-| Fri, 27 Jun 2025 17:59:16 GMT | What Every CISO Needs to Know About HIPAA and Online Tracking Technologies in 2025 | Feroot Security | [Read More](https://medium.com/p/5de44a261541) |
-| Fri, 27 Jun 2025 17:51:29 GMT | SOSYAL MÜHENDİSLİK | Mehmet Karagülle | [Read More](https://medium.com/p/6ab9720777e9) |
-| Fri, 27 Jun 2025 17:45:34 GMT | always liked, but never pursued | Ae | [Read More](https://medium.com/p/2d3f8e2867e4) |
