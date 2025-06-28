@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 19:15:06 GMT | Advanced IDOR Exploitation in 2025: A Practical Guide for Bug Bounty Hunters | Santhosh Adiga U | [Read More](https://medium.com/p/3e935cc938c3) |
+| Sat, 28 Jun 2025 19:12:46 GMT | Designing with AI in 2025: Genius Hack or Creative Suicide? | Prapti Suryavanshi | [Read More](https://medium.com/p/180f1ef66ba1) |
+| Sat, 28 Jun 2025 19:12:02 GMT | Industrial Intrusion — Task 15 TryHackMe CTF Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/ba64efc0181c) |
+| Sat, 28 Jun 2025 19:11:58 GMT | PORTSWIGGER LABS | Kajalbansal | [Read More](https://medium.com/p/e061422112c9) |
+| Sat, 28 Jun 2025 19:09:00 GMT | How I Exploited a Price Manipulation Vulnerability via Broken Checkout Logic | Aryaveer Singh Rathore | [Read More](https://medium.com/p/7a482eac1812) |
+| Sat, 28 Jun 2025 18:58:07 GMT | VULNERABILITY | Doc Klein | [Read More](https://medium.com/p/03fe7d467d4e) |
+| Sat, 28 Jun 2025 18:50:33 GMT | ❓Is Your Login Really Secure? Common Authentication Vulnerabilities | Madhu Kiran Ravula | [Read More](https://medium.com/p/9c466cf75c21) |
+| Sat, 28 Jun 2025 18:48:51 GMT | The Cheapest Security Safe is all You Need | Top Gear lab | [Read More](https://medium.com/p/66961c475bce) |
 | Sat, 28 Jun 2025 18:33:27 GMT | How GIFTEDCROOK Evolved into a High‑Stakes Intelligence Tool | Chetan Seripally | [Read More](https://medium.com/p/285cd782e633) |
 | Sat, 28 Jun 2025 18:30:05 GMT | How to append User-Agent using Match & Replace options in Caido. | Pushkar Padhye | [Read More](https://medium.com/p/e2e6dea01fd7) |
 | Sat, 28 Jun 2025 18:24:26 GMT | Bypassing Blockchain Capabilities: How a $2,000 Exploit Let Contracts Do the Forbidden | Monika sharma | [Read More](https://medium.com/p/2bfe4120587d) |
@@ -105,11 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 12:18:24 GMT | Day #2: Log Analysis Basics Exploring Windows Security Logs on Server 2022 | Rishavkumarthapa | [Read More](https://medium.com/p/05ea4f71b4d8) |
 | Sat, 28 Jun 2025 12:15:35 GMT | REAL TALK: Ethical Hacking ≠ Movie Hacking | Siddhesh Surve | [Read More](https://medium.com/p/e3bf913e8113) |
 | Sat, 28 Jun 2025 12:06:45 GMT | We Found Our Terraform State File Public — And It Had Secrets Inside | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/c79662808211) |
-| Sat, 28 Jun 2025 12:01:53 GMT | Your AI Integrations Are a Security Nightmare Waiting to Happen (And You Don’t Even Know It) | Rameshsurapathi | [Read More](https://medium.com/p/e8176fd1b777) |
-| Sat, 28 Jun 2025 11:58:14 GMT | AWS CDK vs Terraform: Infrastructure as Code Comparison 2025 | Saikat Paul | [Read More](https://medium.com/p/ec2a8c2ce8f4) |
-| Sat, 28 Jun 2025 11:57:49 GMT | Day 1: First Hands-On Lab — Hack The Box ‍ | Jerick&rew | [Read More](https://medium.com/p/1466ac542b8f) |
-| Sat, 28 Jun 2025 11:55:52 GMT | Zero Day Mindset: Why Most Hackers Miss Critical Bugs — and How You Can Find Them First” | Đeepanshu | [Read More](https://medium.com/p/c0dc6f751ab1) |
-| Sat, 28 Jun 2025 11:52:30 GMT | The Ultimate Guide to Call Center Dialers: Features, Benefits & Trends | Webwers | [Read More](https://medium.com/p/2c4bfb1600a3) |
-| Sat, 28 Jun 2025 11:51:41 GMT | The Overlooked CVSS Metrics | Anthony Mukwaya | [Read More](https://medium.com/p/fbac98112fb0) |
-| Sat, 28 Jun 2025 11:23:14 GMT | Bug Bounty Hunting : It’s Not Always What You Think | 40sp3l | [Read More](https://medium.com/p/4a212cf93b3b) |
-| Sat, 28 Jun 2025 11:13:10 GMT | TryHackme: Pentesting Fundamental | Namoshukla | [Read More](https://medium.com/p/9a21341ff316) |
