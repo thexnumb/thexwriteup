@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 23:11:51 GMT | New Era with New Cyber Scams | Khushal Jain | [Read More](https://medium.com/p/33714d9d3738) |
+| Sat, 28 Jun 2025 23:01:21 GMT | The $50 Billion QR Code Fraud Epidemic That’s Targeting Your Smartphone Right Now | Jeff Murdock | [Read More](https://medium.com/p/395cfd62aafb) |
+| Sat, 28 Jun 2025 23:00:29 GMT | Why You Can’t Prevent Password Field Manipulation in DevTools — And What Actually Matters | Mohan Babu Doddapaneni | [Read More](https://medium.com/p/3b0122729787) |
+| Sat, 28 Jun 2025 22:58:30 GMT | What’s a NGFW : Next Generation Firewall | Lyna Chalal | [Read More](https://medium.com/p/24f44554ea29) |
+| Sat, 28 Jun 2025 22:55:58 GMT | Bounty Hacker TryHackMe — Writeup | i3_mr1i | [Read More](https://medium.com/p/15f14803499e) |
+| Sat, 28 Jun 2025 22:46:16 GMT | Try Hack Me Room WriteUp : UltraTech | Lyna Chalal | [Read More](https://medium.com/p/e4da86e86570) |
+| Sat, 28 Jun 2025 22:36:26 GMT | Building a Kubernetes Homelab with Raspberry Pi A Ground Up Journey | Kyle Barbre | [Read More](https://medium.com/p/1449348d2459) |
 | Sat, 28 Jun 2025 22:31:42 GMT | My First Time Trying “TryHackMe” | Trustin Nguyen | [Read More](https://medium.com/p/7962629c5ace) |
 | Sat, 28 Jun 2025 22:19:55 GMT | Re-creating the Snake Rootkit Part 008: C2 — Design and Architecture | 0x0vid | [Read More](https://medium.com/p/23acf19ce78d) |
 | Sat, 28 Jun 2025 22:17:40 GMT | Message Box - hackinghub - write-up | Musab Sarı | [Read More](https://medium.com/p/f127bb87299c) |
@@ -106,10 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 14:11:46 GMT | AI, Algorithms, and Anomalies: Machine Learning’s Jolly Romp Through Cybersecurity | Deb Roy | [Read More](https://medium.com/p/b03ddf659bdb) |
 | Sat, 28 Jun 2025 14:08:55 GMT | Reverse Engineering a UAC Bypass with Persistence on temp Ghidra | Lord Murak | [Read More](https://medium.com/p/77e379074136) |
 | Sat, 28 Jun 2025 14:04:06 GMT | Why Telecom Companies Are Under Siege from State‑Sponsored Hackers — Insights from the Israel–Iran… | David SEHYEON Baek | [Read More](https://medium.com/p/fdef44736a16) |
-| Sat, 28 Jun 2025 14:03:39 GMT | Command Injection in Practice — CyberExam Labs Write-Up | Mouaad L | [Read More](https://medium.com/p/f4d7696f5552) |
-| Sat, 28 Jun 2025 14:03:36 GMT | Splunk | gxr911 | [Read More](https://medium.com/p/8c48264c6d37) |
-| Sat, 28 Jun 2025 14:02:07 GMT | Israel’s Cyber War Against Iran | David SEHYEON Baek | [Read More](https://medium.com/p/0558066336b6) |
-| Sat, 28 Jun 2025 14:01:56 GMT | ‍⚕️ Digital Jail for 8 Days: How a Doctor Lost ₹3 Crore to Cybercriminals | Hacker news 07 | [Read More](https://medium.com/p/a5e557c948d5) |
-| Sat, 28 Jun 2025 13:52:54 GMT | Angular File Upload Tutorial with Drag-and-Drop and Progress Bar | Didin Jamaludin | [Read More](https://medium.com/p/0d9241d264a3) |
-| Sat, 28 Jun 2025 13:50:12 GMT | Can XBOW’s AI Hacker Outperform Human Hackers? | David SEHYEON Baek | [Read More](https://medium.com/p/63865fc494b5) |
-| Sat, 28 Jun 2025 13:48:09 GMT | Elon Musk’s Neuralink, the Future of Telepathy, and Cybersecurity Risks | David SEHYEON Baek | [Read More](https://medium.com/p/6b71bc49c1ea) |
