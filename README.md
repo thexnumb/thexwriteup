@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 14:13:59 GMT | Day 35: TCP/IP | Nile Okomo | [Read More](https://medium.com/p/917e095d89c8) |
+| Sat, 28 Jun 2025 14:08:55 GMT | Reverse Engineering a UAC Bypass with Persistence on temp Ghidra | Lord Murak | [Read More](https://medium.com/p/77e379074136) |
+| Sat, 28 Jun 2025 14:04:06 GMT | Why Telecom Companies Are Under Siege from State‑Sponsored Hackers — Insights from the Israel–Iran… | David SEHYEON Baek | [Read More](https://medium.com/p/fdef44736a16) |
+| Sat, 28 Jun 2025 14:03:39 GMT | Command Injection in Practice — CyberExam Labs Write-Up | Mouaad L | [Read More](https://medium.com/p/f4d7696f5552) |
+| Sat, 28 Jun 2025 14:03:36 GMT | Splunk | gxr911 | [Read More](https://medium.com/p/8c48264c6d37) |
+| Sat, 28 Jun 2025 14:02:07 GMT | Israel’s Cyber War Against Iran | David SEHYEON Baek | [Read More](https://medium.com/p/0558066336b6) |
+| Sat, 28 Jun 2025 14:01:56 GMT | ‍⚕️ Digital Jail for 8 Days: How a Doctor Lost ₹3 Crore to Cybercriminals | Hacker news 07 | [Read More](https://medium.com/p/a5e557c948d5) |
+| Sat, 28 Jun 2025 13:52:54 GMT | Angular File Upload Tutorial with Drag-and-Drop and Progress Bar | Didin Jamaludin | [Read More](https://medium.com/p/0d9241d264a3) |
+| Sat, 28 Jun 2025 13:50:12 GMT | Can XBOW’s AI Hacker Outperform Human Hackers? | David SEHYEON Baek | [Read More](https://medium.com/p/63865fc494b5) |
+| Sat, 28 Jun 2025 13:48:09 GMT | Elon Musk’s Neuralink, the Future of Telepathy, and Cybersecurity Risks | David SEHYEON Baek | [Read More](https://medium.com/p/6b71bc49c1ea) |
+| Sat, 28 Jun 2025 13:45:39 GMT | Websocket response manipulation leads to access admin panel | rood | [Read More](https://medium.com/p/27b432ea4745) |
+| Sat, 28 Jun 2025 13:44:36 GMT | From ZIP to Zoho Hall of Fame: How I Found Exposed API Keys ! | H4cker-Nafeed | [Read More](https://medium.com/p/17eeca415474) |
+| Sat, 28 Jun 2025 13:43:59 GMT | NIST for Small Businesses without Employees | Jorge Castaneda | [Read More](https://medium.com/p/51827724dce6) |
+| Sat, 28 Jun 2025 13:43:57 GMT | Documents & Files Search Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/be888e6dab79) |
 | Sat, 28 Jun 2025 13:39:54 GMT | Cyber Data Privacy & Security Fundamentals | Chief Operating Officer | [Read More](https://medium.com/p/f43e53ee741a) |
 | Sat, 28 Jun 2025 13:34:34 GMT | Can AI Be Our New Superhero? How It’s Saving Lives and Stopping Disasters | Payaam Raza | [Read More](https://medium.com/p/2ab7223f06e6) |
 | Sat, 28 Jun 2025 13:33:16 GMT | AI Just Designed Your Next Outfit: Here’s How It’s Changing Fashion Forever | Payaam Raza | [Read More](https://medium.com/p/fb8b838063bd) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 07:44:40 GMT | My Journey into Network Scanning: Completing Nmap Basics on TryHackMe | Arthibalaji | [Read More](https://medium.com/p/d86ca67d2209) |
 | Sat, 28 Jun 2025 07:44:34 GMT | The Room That Holds Me | Amna Javaid | [Read More](https://medium.com/p/1119e3ed5d13) |
 | Sat, 28 Jun 2025 07:40:59 GMT | ️ PCI Compliance: Why It’s a Business Imperative, Not Just an IT Checkbox | ITIO INNOVEX | [Read More](https://medium.com/p/e26119daa569) |
-| Sat, 28 Jun 2025 07:37:26 GMT | When He Says “It’s Not That Deep” He’s Hiding a Wound You’re Not Allowed to Touch | LSD | [Read More](https://medium.com/p/a6aae165650c) |
-| Sat, 28 Jun 2025 07:34:25 GMT | Nmap Nedir, Nasıl Kullanılır ve Örnek Saldırı Senaryoları | Mustafa Salih Tatar | [Read More](https://medium.com/p/68e91601e4b3) |
-| Sat, 28 Jun 2025 07:33:23 GMT | Titanic - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/88733278d312) |
-| Sat, 28 Jun 2025 07:32:59 GMT | 404 to 0wnage: How a Broken API Route Unlocked Production Secrets | Iski | [Read More](https://medium.com/p/cc8ec9c6d063) |
-| Sat, 28 Jun 2025 07:28:33 GMT | How I Bypassed Email Verification by Leaking the Server’s Code — A Real Bug Bounty Story | Hassan Abid | [Read More](https://medium.com/p/597e567815f7) |
-| Sat, 28 Jun 2025 07:27:49 GMT | Today’s Top Cyber Intelligence Highlights — Jun 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/63c76d89fce5) |
-| Sat, 28 Jun 2025 07:22:43 GMT | The Evolving Role of a Senior Security Analyst in 2025: More Than Just Firewalls | ITIO INNOVEX | [Read More](https://medium.com/p/3073f5363cae) |
-| Sat, 28 Jun 2025 07:21:47 GMT | What’s in My Digital Forensics Go Bag? | Travis Murphy | [Read More](https://medium.com/p/3b4dbbcfc72f) |
-| Sat, 28 Jun 2025 07:19:05 GMT | How My Grandmother’s WhatsApp Messages Revealed a Critical Security Flaw | Coders Stop | [Read More](https://medium.com/p/3de497086624) |
-| Sat, 28 Jun 2025 07:14:42 GMT | Arent humans also Just Next-Word Predictors? The Illusion of Thinking? | Shashank N | [Read More](https://medium.com/p/1daa9f0ed070) |
-| Sat, 28 Jun 2025 07:11:02 GMT | What’s for Sale on the Dark Web in 2025? It’s Worse Than You Think. | Recon Cyber Security | [Read More](https://medium.com/p/5800844e0795) |
-| Sat, 28 Jun 2025 07:07:17 GMT | TryHackMe - CORS & SOP - WriteUp | Axoloth | [Read More](https://medium.com/p/44232c777a77) |
-| Sat, 28 Jun 2025 07:04:13 GMT | This is how I ditched the official solution for the lab and created my own. | Rabia Riaz | [Read More](https://medium.com/p/0b1abf65ff55) |
-| Sat, 28 Jun 2025 07:00:50 GMT | CCTV Monitoring vs. CCTV Recording: What’s the Difference? | Jane Tang | [Read More](https://medium.com/p/0c0e2ea6727e) |
