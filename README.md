@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 10:04:45 GMT | Wish I Knew This AWS Scaling Architecture Earlier! | Kanav Sharma | [Read More](https://medium.com/p/d92b3614e5de) |
+| Sat, 28 Jun 2025 09:59:09 GMT | LetsDefend Web Attacks 2: Detecting and Solving Attacks with Real Log Files. Part 3 | CyberSam | [Read More](https://medium.com/p/a69d09beffa0) |
+| Sat, 28 Jun 2025 09:57:50 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/b9e3672e917f) |
+| Sat, 28 Jun 2025 09:50:34 GMT | AI Ethical Hacking Course Online in India | Manisha Chaudhary | [Read More](https://medium.com/p/f687343e20e4) |
+| Sat, 28 Jun 2025 09:47:16 GMT | Social Media & Cybersecurity: What You’re Sharing Could Be Helping Hackers | Richard Dosumu | [Read More](https://medium.com/p/905f430e52cc) |
+| Sat, 28 Jun 2025 09:41:52 GMT | Why Fix Security Flaws When Getting Hacked Can Be More Profitable? | Saikat Paul | [Read More](https://medium.com/p/727b816f54e7) |
 | Sat, 28 Jun 2025 09:37:41 GMT | ExteBrowser Extension Recon: Tools and Methods for Analyzing Target-Owned Extensions | Monika sharma | [Read More](https://medium.com/p/5ba5efbc1d9e) |
 | Sat, 28 Jun 2025 09:36:34 GMT | The Frida & Objection Setup Guide: Solving Version Hell on Android & iOS (Timeless Guide) | Sandeep Wawdane | [Read More](https://medium.com/p/f55eb98459a0) |
 | Sat, 28 Jun 2025 09:36:16 GMT | OS Command Injection — When Your Server Obeys My Commands Like a Soldier | phoenixcatalan | [Read More](https://medium.com/p/ecbe2fe6ec3d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 00:00:13 GMT | FFUF: Fuzzing eficaz para Pentesting y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/ccb96fa8d5a8) |
 | Fri, 27 Jun 2025 23:39:51 GMT | Unmask GitLab’s $16,000 Bounty: Arbitrary File Read in Project Import | Monika sharma | [Read More](https://medium.com/p/e428cd876797) |
 | Fri, 27 Jun 2025 23:39:35 GMT | The Covered Problem Of AI in IT World. Debraining, Script Kiddies Etc. - NnFaces Specials #6 | NnFace | [Read More](https://medium.com/p/3568d68cf474) |
-| Fri, 27 Jun 2025 23:31:24 GMT | Hardware Firewalls by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/153711f7a7c6) |
-| Fri, 27 Jun 2025 23:29:51 GMT | How to Build a Secure GitOps Pipeline with ArgoCD and Vault | Pablo jusue | [Read More](https://medium.com/p/548dc680ed69) |
-| Fri, 27 Jun 2025 23:18:20 GMT | Reading Cybersecurity Reports Sucks. NotebookLM Makes It Suck Less | John | [Read More](https://medium.com/p/6796f047ca13) |
-| Fri, 27 Jun 2025 23:16:41 GMT | Windows Logging for SOC . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/e4aa10339261) |
-| Fri, 27 Jun 2025 23:10:18 GMT | Laravel Source Code Review: How XSS Lead to Privilege Escalation and Eventually RCE | Mostafa Yasser | [Read More](https://medium.com/p/3ec410fa0fcb) |
-| Fri, 27 Jun 2025 23:06:05 GMT | This Chrome Download Will Hijack Your System: Inside the ValleyRAT Attack Chain | Cyber-AppSec | [Read More](https://medium.com/p/9cf912f1b907) |
