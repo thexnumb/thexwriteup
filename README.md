@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 07:34:25 GMT | Nmap Nedir, Nasıl Kullanılır ve Örnek Saldırı Senaryoları | Mustafa Salih Tatar | [Read More](https://medium.com/p/68e91601e4b3) |
+| Sat, 28 Jun 2025 07:33:23 GMT | Titanic - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/88733278d312) |
+| Sat, 28 Jun 2025 07:32:59 GMT | 404 to 0wnage: How a Broken API Route Unlocked Production Secrets | Iski | [Read More](https://medium.com/p/cc8ec9c6d063) |
+| Sat, 28 Jun 2025 07:28:33 GMT | How I Bypassed Email Verification by Leaking the Server’s Code — A Real Bug Bounty Story | Hassan Abid | [Read More](https://medium.com/p/597e567815f7) |
+| Sat, 28 Jun 2025 07:27:49 GMT | Today’s Top Cyber Intelligence Highlights — Jun 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/63c76d89fce5) |
+| Sat, 28 Jun 2025 07:22:43 GMT | The Evolving Role of a Senior Security Analyst in 2025: More Than Just Firewalls | ITIO INNOVEX | [Read More](https://medium.com/p/3073f5363cae) |
+| Sat, 28 Jun 2025 07:21:47 GMT | What’s in My Digital Forensics Go Bag? | Travis Murphy | [Read More](https://medium.com/p/3b4dbbcfc72f) |
+| Sat, 28 Jun 2025 07:19:05 GMT | How My Grandmother’s WhatsApp Messages Revealed a Critical Security Flaw | Coders Stop | [Read More](https://medium.com/p/3de497086624) |
 | Sat, 28 Jun 2025 07:14:42 GMT | Arent humans also Just Next-Word Predictors? The Illusion of Thinking? | Shashank N | [Read More](https://medium.com/p/1daa9f0ed070) |
 | Sat, 28 Jun 2025 07:11:02 GMT | What’s for Sale on the Dark Web in 2025? It’s Worse Than You Think. | Recon Cyber Security | [Read More](https://medium.com/p/5800844e0795) |
 | Sat, 28 Jun 2025 07:07:17 GMT | TryHackMe - CORS & SOP - WriteUp | Axoloth | [Read More](https://medium.com/p/44232c777a77) |
@@ -104,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 19:11:27 GMT | Honeypots in Network Security: The Art of Digital Deception | Rahul | [Read More](https://medium.com/p/32057f7d7cfb) |
 | Fri, 27 Jun 2025 19:06:42 GMT | Bypassing CSRF Token Validation Techniques | musayyab sharif | [Read More](https://medium.com/p/33d79004fc6b) |
 | Fri, 27 Jun 2025 19:03:38 GMT | Tryhackme Industrial Intrusion -CTF-Task 6“OSINT2” -Walkthrough | Sayan Raha | [Read More](https://medium.com/p/0f339b029cd5) |
-| Fri, 27 Jun 2025 18:58:51 GMT | Breakdown of Osascript in Atomic Stealer Malware | agastya rz | [Read More](https://medium.com/p/a0dce660ca75) |
-| Fri, 27 Jun 2025 18:43:12 GMT | "الهندسة الاجتماعية: كيف يخدعك المخترقون قبل اختراق أجهزتك؟"
-"Social Engineering: How Hackers Trick… | Najm Al-deen - نجم الدين اليوسفي | [Read More](https://medium.com/p/553fec39dcd6) |
-| Fri, 27 Jun 2025 18:42:53 GMT | The Cost of Toxic Beauty Content is Greater Than We Think | Savvy Cyber Kids | [Read More](https://medium.com/p/f8b2b497b74b) |
-| Fri, 27 Jun 2025 18:42:11 GMT | Rising Cyberattacks in the Insurance Sector: Lessons from the Aflac Breach and How Companies Can… | Chetan Seripally | [Read More](https://medium.com/p/efecfd1e3175) |
-| Fri, 27 Jun 2025 18:42:11 GMT | Exposure of Internet Dangers to Young Children | Savvy Cyber Kids | [Read More](https://medium.com/p/939cf3a12482) |
-| Fri, 27 Jun 2025 18:41:32 GMT | Parents: What You Should Know About the Surgeon General’s Advisory on Social Media | Savvy Cyber Kids | [Read More](https://medium.com/p/643d3168b6c6) |
-| Fri, 27 Jun 2025 18:39:00 GMT | From Boredom to Bug: How One Backslash Broke the Entire Site | Ramshath | [Read More](https://medium.com/p/8317d6007a16) |
-| Fri, 27 Jun 2025 18:37:38 GMT | HTB: Validation (Askia DeLarge) | Askia DeLarge | [Read More](https://medium.com/p/5e9ae6770e47) |
