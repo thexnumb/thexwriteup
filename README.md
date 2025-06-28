@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Jun 2025 08:26:40 GMT | BlueTeamGPT: The AI Defender Every Security Team Needs | Saikat Paul | [Read More](https://medium.com/p/b920a5f56237) |
+| Sat, 28 Jun 2025 08:23:05 GMT | Anonymous and the Armor of God: A Spiritual Comparison of Two Movements | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/11df895aa34f) |
+| Sat, 28 Jun 2025 08:20:18 GMT | The Invisible Threat Lurking in Industrial Networks: GE SRTP | Azim Uddin | [Read More](https://medium.com/p/0f80d277dcb9) |
 | Sat, 28 Jun 2025 07:59:51 GMT | Inside the Dark Web’s Most Ruthless Heist: How Double-Extortion Ransomware Holds Companies… | Ekene Joseph | [Read More](https://medium.com/p/c6467eb3ce42) |
 | Sat, 28 Jun 2025 07:59:26 GMT | Unraveling Complexity: Applying Network Analysis to Cybersecurity | Yi Zhou | [Read More](https://medium.com/p/6a5d76d99c5c) |
 | Sat, 28 Jun 2025 07:58:28 GMT | If Carlsberg Did Conferences: Towards Deep Tech in Digital Trust | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d879806f1489) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 20:54:16 GMT | My 5-Day Dive into Ethical Hacking: A Beginner’s Guide from Hands-On Experience | Matthew Christian Wamboga | [Read More](https://medium.com/p/8d4df381be15) |
 | Fri, 27 Jun 2025 20:52:39 GMT | The Core Principles of Cybersecurity: Safeguarding the Digital World | Ahumuza Williams Ashaba | [Read More](https://medium.com/p/ea67cd051549) |
 | Fri, 27 Jun 2025 20:52:17 GMT | How to Run Atomic Red Team on Linux and Automate Attack Simulations with Velociraptor | SOCFortress | [Read More](https://medium.com/p/d4b52b05721b) |
-| Fri, 27 Jun 2025 20:45:30 GMT | Defensive Security Intro- TryHackMe Cheat Sheet | Hansi Bandara | [Read More](https://medium.com/p/f74d4a2a3585) |
-| Fri, 27 Jun 2025 20:31:25 GMT | Is Security Worth It? The Value of Being Prepared | Jan Kneissler | [Read More](https://medium.com/p/a05d09ac0387) |
-| Fri, 27 Jun 2025 19:56:12 GMT | Training Update for GSEC — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/8106f96cfc86) |
