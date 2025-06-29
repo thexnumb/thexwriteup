@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 19:32:58 GMT | Setting Up — Gophish and Evilginx — Part — 1 | Mainul Hasan | [Read More](https://medium.com/p/dd279680399b) |
+| Sun, 29 Jun 2025 19:19:06 GMT | “From Commits to CI: Secret Scanning with gitleaks-secret-scanner in GitLab & GitHub” | Vijay K | [Read More](https://medium.com/p/54546e7e6c55) |
+| Sun, 29 Jun 2025 19:18:17 GMT | Embracing lifelong learning is crucial. | Vikas | [Read More](https://medium.com/p/5831c7bf0ef1) |
 | Sun, 29 Jun 2025 19:03:40 GMT | OSINT Navigators: An Advanced Guide to Your All-in-One Investigation Workbench | sudo3rs | [Read More](https://medium.com/p/944f556fb3ee) |
 | Sun, 29 Jun 2025 19:00:58 GMT | Making Policy Management Smarter with AI | Nikita Gupta | [Read More](https://medium.com/p/adf37c64f4cd) |
 | Sun, 29 Jun 2025 18:52:23 GMT | On The Myth of Sisyphus | TheVulnerableBlackMale | [Read More](https://medium.com/p/5d1c9c8fd354) |
@@ -111,6 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 13:16:50 GMT | Understanding PKI and How to Implement It Using Cisco Routers - Sfour Esolutions | John NV | [Read More](https://medium.com/p/d1330b524d37) |
 | Sun, 29 Jun 2025 13:15:45 GMT | ️ Understanding Callback Beacons — and How to Create One in Java | Kaustubh Salve | [Read More](https://medium.com/p/59b6260b5f31) |
 | Sun, 29 Jun 2025 13:09:43 GMT | Ultimate Ubuntu 24.04 VPS Security Setup Guide: How to Not Get Hacked in 2025 | Денис Пулинец | [Read More](https://medium.com/p/f7a8cbc83c10) |
-| Sun, 29 Jun 2025 13:07:11 GMT | Setting Up Users, Groups, and Policies in Active Directory | Abyss | [Read More](https://medium.com/p/8a73f7843ab0) |
-| Sun, 29 Jun 2025 13:02:00 GMT | What Cybersecurity Can Learn From Video Games — Part 2 | Fry Rob | [Read More](https://medium.com/p/75d4bfc50684) |
-| Sun, 29 Jun 2025 12:59:05 GMT | ChatGPT knows More.... | ablmathew | [Read More](https://medium.com/p/166fb260ff86) |
