@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 10:18:33 GMT | ️ ServMon HTB Walkthrough | Cakra Adhiningrat | [Read More](https://medium.com/p/acc07f03674a) |
+| Sun, 29 Jun 2025 10:06:19 GMT | Building a Defensive Security Program | Het | [Read More](https://medium.com/p/d5323ebd44fa) |
+| Sun, 29 Jun 2025 10:04:19 GMT | Why Virtual Network Types Matter | R1punjay_Singh | [Read More](https://medium.com/p/6f467040a415) |
+| Sun, 29 Jun 2025 10:03:42 GMT | Red Teaming: Breaking Things on Purpose (and Getting Paid for It) | DarKVoicE | [Read More](https://medium.com/p/74085ce1b6a7) |
+| Sun, 29 Jun 2025 09:57:08 GMT | Why Billions Spent on A.I Infrastructure will be lost | James Bone | [Read More](https://medium.com/p/c455fbbc9a86) |
+| Sun, 29 Jun 2025 09:53:35 GMT | Day 21: Learnings from Financial Industry Leaders related to SaaS and Agentic AI —a paper by JPM | LAKSHMI VENKATESH | [Read More](https://medium.com/p/b7542b0aa012) |
+| Sun, 29 Jun 2025 09:37:24 GMT | XOR is Weak? Think Again — Meet XORception | Aditya Bhatt | [Read More](https://medium.com/p/64867f6587af) |
+| Sun, 29 Jun 2025 09:33:55 GMT | how to get increase readd in medium | S Anuradha | [Read More](https://medium.com/p/42d0b7ec7f5f) |
 | Sun, 29 Jun 2025 09:07:40 GMT | best camera for home security | Ibrahim | [Read More](https://medium.com/p/fde0568ea8bf) |
 | Sun, 29 Jun 2025 09:00:23 GMT | Reasons Why Passwords Need to Be Reset Instead of Revealing the Original Password | Anh Trần Tuấn | [Read More](https://medium.com/p/ba7aa23d533f) |
 | Sun, 29 Jun 2025 09:00:18 GMT | Reasons Why Passwords Need to Be Reset Instead of Revealing the Original Password | Anh Trần Tuấn | [Read More](https://medium.com/p/de2e1533cfba) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 23:11:06 GMT | Contact Scanner Hacker Crypto Recovery for your scam digital currency | Jamesbrant | [Read More](https://medium.com/p/0b60f239735f) |
 | Sat, 28 Jun 2025 23:06:01 GMT | What’s ZTNA : Zero Trust Network Access | Lyna Chalal | [Read More](https://medium.com/p/c931decf35a6) |
 | Sat, 28 Jun 2025 23:01:21 GMT | The $50 Billion QR Code Fraud Epidemic That’s Targeting Your Smartphone Right Now | Jeff Murdock | [Read More](https://medium.com/p/395cfd62aafb) |
-| Sat, 28 Jun 2025 23:00:29 GMT | Why You Can’t Prevent Password Field Manipulation in DevTools — And What Actually Matters | Mohan Babu Doddapaneni | [Read More](https://medium.com/p/3b0122729787) |
-| Sat, 28 Jun 2025 22:58:30 GMT | What’s a NGFW : Next Generation Firewall | Lyna Chalal | [Read More](https://medium.com/p/24f44554ea29) |
-| Sat, 28 Jun 2025 22:55:58 GMT | Bounty Hacker TryHackMe — Writeup | i3_mr1i | [Read More](https://medium.com/p/15f14803499e) |
-| Sat, 28 Jun 2025 22:46:16 GMT | Try Hack Me Room WriteUp : UltraTech | Lyna Chalal | [Read More](https://medium.com/p/e4da86e86570) |
-| Sat, 28 Jun 2025 22:36:26 GMT | Building a Kubernetes Homelab with Raspberry Pi A Ground Up Journey | Kyle Barbre | [Read More](https://medium.com/p/1449348d2459) |
-| Sat, 28 Jun 2025 22:31:42 GMT | My First Time Trying “TryHackMe” | Trustin Nguyen | [Read More](https://medium.com/p/7962629c5ace) |
-| Sat, 28 Jun 2025 22:19:55 GMT | Re-creating the Snake Rootkit Part 008: C2 — Design and Architecture | 0x0vid | [Read More](https://medium.com/p/23acf19ce78d) |
-| Sat, 28 Jun 2025 22:17:40 GMT | Message Box - hackinghub - write-up | Musab Sarı | [Read More](https://medium.com/p/f127bb87299c) |
