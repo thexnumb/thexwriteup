@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 04:34:06 GMT | Database Backup Security: Encrypted Backups and Recovery Procedures | Rizqi Mulki | [Read More](https://medium.com/p/19aa7abb027c) |
+| Sun, 29 Jun 2025 04:33:48 GMT | The Zero-Click AI Data Leak: EchoLeak and the Future of Cyberattacks | Reeti | [Read More](https://medium.com/p/a26801952d9b) |
+| Sun, 29 Jun 2025 04:31:55 GMT | Yes, I’m an SDE. No, I Didn’t Know About WWW-Authenticate | Vaibhav Maurya | [Read More](https://medium.com/p/a0618a06c209) |
+| Sun, 29 Jun 2025 04:27:28 GMT | How Hackers Trick Active Directory and What You Can Do About It. | Paritosh | [Read More](https://medium.com/p/2846affaa68a) |
+| Sun, 29 Jun 2025 04:24:40 GMT | Why ISO/IEC 42001 is Crucial for Companies Using AI. | Raajeev H Dave (AI Man) | [Read More](https://medium.com/p/943bd0ed97d7) |
+| Sun, 29 Jun 2025 04:21:38 GMT | Unlock High-Performance Node.js: 10 Advanced Techniques for Senior Engineers | Vishad Patel | [Read More](https://medium.com/p/cdbd65ddf216) |
+| Sun, 29 Jun 2025 04:13:18 GMT | Exploring the Smart Home Industry: SwitchBot’s Smart Lock Innovations | bcarr3848 | [Read More](https://medium.com/p/c8d2cb0c0497) |
+| Sun, 29 Jun 2025 04:12:09 GMT | Architectural Considerations for SaaS Application — PART (10/12): Analytics and Data Leakage. | Dhyan Sagar | [Read More](https://medium.com/p/943cb70cd0c4) |
+| Sun, 29 Jun 2025 04:10:57 GMT | Architectural Considerations for SaaS Application — PART (11/12): Testing & QA. | Dhyan Sagar | [Read More](https://medium.com/p/4ce88b825daa) |
+| Sun, 29 Jun 2025 04:10:36 GMT | Relevant Lab From TryHack Me | Mohit Sharma | [Read More](https://medium.com/p/f59268733dca) |
+| Sun, 29 Jun 2025 04:07:52 GMT | Thiel, Taiwan, and the Machinery of Fate | Soft Power, Hard Code | [Read More](https://medium.com/p/483cd96d491b) |
+| Sun, 29 Jun 2025 04:07:46 GMT | Architectural Considerations for SaaS Application — PART (12/12): Verification and Validation | Dhyan Sagar | [Read More](https://medium.com/p/ca39cbd8518f) |
+| Sun, 29 Jun 2025 04:05:17 GMT | THE COURAGE TO BE VULNERABLE | Missmash | [Read More](https://medium.com/p/bf04f0df8f8b) |
+| Sun, 29 Jun 2025 04:01:28 GMT | Fix: Check for Mysql Duplicate Key Error Golang | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/27a7ee6d747b) |
+| Sun, 29 Jun 2025 03:58:59 GMT | Beyond the firewall. | Jawwad Ahmed Farid | [Read More](https://medium.com/p/18a0b0e4002d) |
+| Sun, 29 Jun 2025 03:41:52 GMT | W1SE GUY-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/7e3f9bf47493) |
+| Sun, 29 Jun 2025 03:41:08 GMT | ️ Building a Real SOC in Azure: Honeypot, Sentinel, and Automated Response | Ibrahim Yusuf | [Read More](https://medium.com/p/31f6406cbe56) |
+| Sun, 29 Jun 2025 03:37:45 GMT | Privacy by Default: Powerful Principle, Poor Requirement | Ruby Agarwal | [Read More](https://medium.com/p/98e9500e3159) |
 | Sun, 29 Jun 2025 03:17:33 GMT | ️ Getting Started in GRC: A Beginner’s Guide to Governance, Risk, and Compliance in Cybersecurity | WarGames 1729 | [Read More](https://medium.com/p/1f06aa1f50e0) |
 | Sun, 29 Jun 2025 03:07:35 GMT | Leaked API Key in Public JavaScript Leads to Potential Abuse | 127.0.0.1 | [Read More](https://medium.com/p/e2f255ee0ee5) |
 | Sun, 29 Jun 2025 03:02:22 GMT | Decrypting DPAPI Credentials Offline | Tom O'Neill | [Read More](https://medium.com/p/8c8f27207956) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 17:14:15 GMT | Pentesting Fundamentals — TryHackMe Room Walkthrough | santosh gadekar | [Read More](https://medium.com/p/e74f0b850da4) |
 | Sat, 28 Jun 2025 17:11:13 GMT | I Did Nothing for 7 Days — And It Changed Everything About How I Work"
 Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763) |
-| Sat, 28 Jun 2025 17:09:56 GMT | New Feelings | Unhugged | [Read More](https://medium.com/p/8ea6fff58f72) |
-| Sat, 28 Jun 2025 17:09:00 GMT | Breaking News: Anonymous Hacker 0-P (Shiny) Breaches Government and Corporate Servers | YourCybersecNews | [Read More](https://medium.com/p/1306bece567e) |
-| Sat, 28 Jun 2025 17:07:08 GMT | Open-Source, Open Risk: Inside the Surge of Cyberattacks on African Financial Institutions. | eL Njas!™ | [Read More](https://medium.com/p/dd82f6de105a) |
-| Sat, 28 Jun 2025 17:02:37 GMT | Automotive Penetration Testing: Why Offensive Security is Essential for Modern Vehicles | DefenceRabbit | [Read More](https://medium.com/p/0cc5baf577a1) |
-| Sat, 28 Jun 2025 16:42:22 GMT | I Didn’t Just Need Sleep as a New Mom — I Needed a Village | Morgan Nalepka | [Read More](https://medium.com/p/d05ae6cb3e9e) |
-| Sat, 28 Jun 2025 16:38:26 GMT | picoCTF — Caesar | Robby firdauzy | [Read More](https://medium.com/p/4bfdce821d39) |
-| Sat, 28 Jun 2025 16:22:41 GMT | Executable Files Privilege Escalation for Windows | Ammar Ahmed | [Read More](https://medium.com/p/032ee609bf39) |
-| Sat, 28 Jun 2025 16:22:04 GMT | 一键根除99%的程序Bug！我用“黄金公式”造出了专属AI“Bug终结者” | William说 | [Read More](https://medium.com/p/8b16b28051ee) |
-| Sat, 28 Jun 2025 16:21:48 GMT | How I Built a Custom Firewall for My Website in Under an Hour with AWS WAF | Aashishchaudhari | [Read More](https://medium.com/p/cd2e3765a41b) |
-| Sat, 28 Jun 2025 16:18:00 GMT | Ninja Skills Room Write-up — TryHackMe | M0Hx8 | [Read More](https://medium.com/p/ede4fc4e3185) |
-| Sat, 28 Jun 2025 16:03:50 GMT | Admin Panel Takeover | Krishna | [Read More](https://medium.com/p/8625cfb0a97a) |
-| Sat, 28 Jun 2025 15:56:51 GMT | Data Breaches : How Your Data Ends Up on the Dark Web And What You Can Do? | adityaax | [Read More](https://medium.com/p/6b6757bfe4a5) |
-| Sat, 28 Jun 2025 15:55:24 GMT | Inside DarkGate: In-Depth Technical Analysis of the Malware-as-a-Service Threat | Tw1gXs | [Read More](https://medium.com/p/76f32d51e2d2) |
-| Sat, 28 Jun 2025 15:52:30 GMT | Week 2 — Learning Basic concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/6e7fd6d57bbf) |
-| Sat, 28 Jun 2025 15:37:23 GMT | Security Misconfiguration — Leading to Sensitive Information Disclosure and Potential AWS Access… | Abin | [Read More](https://medium.com/p/dd8521b0c771) |
-| Sat, 28 Jun 2025 15:33:51 GMT | Explaining Declarative vs imperative approach on terraform in infrastructure as a code. | Nneomaibe100 | [Read More](https://medium.com/p/34669d76084f) |
-| Sat, 28 Jun 2025 15:31:51 GMT | Billions of Passwords Leaked: What Every Content Creator Needs to Know (And Do!) | Safkat Bin Jasib | [Read More](https://medium.com/p/80f4d97a4d59) |
-| Sat, 28 Jun 2025 15:23:31 GMT | Hiding in Plain Sight — LSB Steganography | Andrew Petrus | [Read More](https://medium.com/p/7f451ff4c191) |
