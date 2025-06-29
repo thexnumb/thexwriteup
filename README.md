@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 19:03:40 GMT | OSINT Navigators: An Advanced Guide to Your All-in-One Investigation Workbench | sudo3rs | [Read More](https://medium.com/p/944f556fb3ee) |
+| Sun, 29 Jun 2025 19:00:58 GMT | Making Policy Management Smarter with AI | Nikita Gupta | [Read More](https://medium.com/p/adf37c64f4cd) |
+| Sun, 29 Jun 2025 18:52:23 GMT | On The Myth of Sisyphus | TheVulnerableBlackMale | [Read More](https://medium.com/p/5d1c9c8fd354) |
+| Sun, 29 Jun 2025 18:45:42 GMT | The Curious Case of the Unrounded Corner | Shreshth Sharma | [Read More](https://medium.com/p/92fd271d6b41) |
 | Sun, 29 Jun 2025 18:44:38 GMT | How To Train Non-Technical Teams on Technical Tools Without Losing Them | O'lando Cory Rawlinson | [Read More](https://medium.com/p/1afbc11f22c9) |
 | Sun, 29 Jun 2025 18:37:16 GMT | Day 6:DOM XSS in jQuery selector sink using a hashchange event : Zero to Hero Series — Portswigger | RayofHope | [Read More](https://medium.com/p/f80367168d95) |
 | Sun, 29 Jun 2025 18:36:10 GMT | Password Spraying with Selenium and Fireprox | Ben Kofman | [Read More](https://medium.com/p/5b07a590cdb2) |
@@ -110,7 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 13:07:11 GMT | Setting Up Users, Groups, and Policies in Active Directory | Abyss | [Read More](https://medium.com/p/8a73f7843ab0) |
 | Sun, 29 Jun 2025 13:02:00 GMT | What Cybersecurity Can Learn From Video Games — Part 2 | Fry Rob | [Read More](https://medium.com/p/75d4bfc50684) |
 | Sun, 29 Jun 2025 12:59:05 GMT | ChatGPT knows More.... | ablmathew | [Read More](https://medium.com/p/166fb260ff86) |
-| Sun, 29 Jun 2025 12:55:19 GMT | Try Hack Me: Madness Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/6636e01d1b4f) |
-| Sun, 29 Jun 2025 12:54:02 GMT | Building Smart from Scratch | Safora Nafees | [Read More](https://medium.com/p/b54c226b2605) |
-| Sun, 29 Jun 2025 12:52:22 GMT | picoCTF Web Exploitation: Search source | Kamal S | [Read More](https://medium.com/p/a9f18e5c4ea8) |
-| Sun, 29 Jun 2025 12:38:44 GMT | Multi-Agent Cyber Security | Karun Sunuwar | [Read More](https://medium.com/p/7cd754635b3e) |
