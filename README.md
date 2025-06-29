@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 14:29:28 GMT | ATM Hacking that ANYONE can do: Courtesy of the Manufactures | Travis Ray Caverhill | [Read More](https://medium.com/p/5bd2ef8d3497) |
+| Sun, 29 Jun 2025 14:26:12 GMT | Tryhackme Industrial CTF — UnderConstruction | omodo | [Read More](https://medium.com/p/d650fcee3d35) |
+| Sun, 29 Jun 2025 14:24:00 GMT | Germany and Israel Join Forces to Build a ‘Cyber Dome’ Against Digital Threats | NextGenBytes | [Read More](https://medium.com/p/4c289fe0d2da) |
+| Sun, 29 Jun 2025 14:23:03 GMT | picoCTF — interencdec | Robby firdauzy | [Read More](https://medium.com/p/b5f2e9b928e7) |
+| Sun, 29 Jun 2025 14:21:54 GMT | About Me —  Carl Shafi | C.Shafi | [Read More](https://medium.com/p/a985ba4eff5f) |
+| Sun, 29 Jun 2025 14:16:57 GMT | Your Turn Next? Stop Hackers Before They Strike | Muhammad Haider Tallal | [Read More](https://medium.com/p/f5f89575d3ac) |
+| Sun, 29 Jun 2025 14:15:34 GMT | Unmatched Security and Compliance for Modern Hospitality Operations with a Salesforce-Built… | BookingNinjas.com | [Read More](https://medium.com/p/b8d23f2be61a) |
+| Sun, 29 Jun 2025 14:11:50 GMT | How I Chained Four Bugs to Take Over Any Account on a Major FinTech Platform | CypherNova1337 | [Read More](https://medium.com/p/06832ad61a76) |
+| Sun, 29 Jun 2025 14:10:44 GMT | The Shadow AI Crisis: How 89% of Enterprise AI Tools Are Invisible to IT | Andrei Ivan | [Read More](https://medium.com/p/31b8978de649) |
 | Sun, 29 Jun 2025 14:07:26 GMT | CVE-2025–48432 - Django — Potential log injection via unescaped request path | Yunus Olçar | [Read More](https://medium.com/p/40663072216d) |
 | Sun, 29 Jun 2025 14:01:57 GMT | Punjab Police’s Major Cyber Sweep: Combating Online Child Exploitation | Hacker news 07 | [Read More](https://medium.com/p/f9ca83a843d6) |
 | Sun, 29 Jun 2025 13:53:51 GMT | AI & Cybersecurity: How AI Is Changing the Game | Hitesh Said | [Read More](https://medium.com/p/51fea0829235) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 07:41:13 GMT | “How a Rogue AI Model Almost Stole Our Data” | Sneha Rani | [Read More](https://medium.com/p/04c192fe7a04) |
 | Sun, 29 Jun 2025 07:37:43 GMT | WebSocket Endpoint Dorking | AbhirupKonwar | [Read More](https://medium.com/p/0a05ca7c2871) |
 | Sun, 29 Jun 2025 07:31:25 GMT | What Is JA3? The Silent Fingerprint Behind Every HTTPS Connection | Adarsh Agrawal | [Read More](https://medium.com/p/9b0b84b3cf8d) |
-| Sun, 29 Jun 2025 07:24:19 GMT | Test Failures Taught Me What Success Could Never Teach | Himanshunya | [Read More](https://medium.com/p/0a9fc5cc994f) |
-| Sun, 29 Jun 2025 07:20:56 GMT | Understanding the Referer Header: The Silent Signal That Outsmarts Bots | Adarsh Agrawal | [Read More](https://medium.com/p/80253e3df680) |
-| Sun, 29 Jun 2025 07:19:07 GMT | Today’s Top Cyber Intelligence Highlights — Jun 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/46f0f6dcd7d9) |
-| Sun, 29 Jun 2025 07:11:20 GMT | Uncover Hidden Endpoints, Secrets and Vulnerabilities Buried Inside JavaScript Files | Monika sharma | [Read More](https://medium.com/p/ea965b43f969) |
-| Sun, 29 Jun 2025 07:10:42 GMT | PureVPN Honest Review: Is It Really Safe, Fast, and Worth It? | Satyam Pathania | [Read More](https://medium.com/p/e3119588da85) |
-| Sun, 29 Jun 2025 07:06:43 GMT | How to Find Logic Bugs That Slip Through Pentests? | Sle3pyHead ‍ | [Read More](https://medium.com/p/8178336388e4) |
-| Sun, 29 Jun 2025 07:01:54 GMT | The Silent Saboteur: Rethinking Solutions to Certificate Expiration in Software Engineering | Viktor Ponamarev | [Read More](https://medium.com/p/e3dbe0865286) |
-| Sun, 29 Jun 2025 06:54:59 GMT | Red Teaming and Penetration Testing: Use Cases, Differences & Benefits | Anamta Zehra | [Read More](https://medium.com/p/6b826ccb7b39) |
-| Sun, 29 Jun 2025 06:32:20 GMT | How We Cut Our AWS Bill by Forty Percent Without Slowing Down | Saikat Paul | [Read More](https://medium.com/p/b586fc7759ee) |
