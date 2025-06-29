@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 10:44:50 GMT | Top Ten Strategies for Securing WebSocket Connections in FastAPI | Hex Shift | [Read More](https://medium.com/p/170407af8d1f) |
+| Sun, 29 Jun 2025 10:32:07 GMT | 5G Security Challenges and How to Overcome Them | Arpaliz | [Read More](https://medium.com/p/c42aa41ac0ec) |
+| Sun, 29 Jun 2025 10:31:51 GMT | ☠️ How I Broke into a Fintech Giant’s Core — And Landed in Their Hall of Fame  (after rejections… | Voldemort | [Read More](https://medium.com/p/1a91a269ab77) |
+| Sun, 29 Jun 2025 10:24:43 GMT | Bandit Tours & Travel — Where Your Journey Might Lead to Some Unexpected Pages | Shah kaif | [Read More](https://medium.com/p/d08edf8b7702) |
 | Sun, 29 Jun 2025 10:18:33 GMT | ️ ServMon HTB Walkthrough | Cakra Adhiningrat | [Read More](https://medium.com/p/acc07f03674a) |
+| Sun, 29 Jun 2025 10:17:56 GMT | Forensic Methodology for Identifying Timestamp Manipulation in Windows Systems: A Practical Case… | Elnur | [Read More](https://medium.com/p/1de359352a0a) |
 | Sun, 29 Jun 2025 10:06:19 GMT | Building a Defensive Security Program | Het | [Read More](https://medium.com/p/d5323ebd44fa) |
 | Sun, 29 Jun 2025 10:04:19 GMT | Why Virtual Network Types Matter | R1punjay_Singh | [Read More](https://medium.com/p/6f467040a415) |
 | Sun, 29 Jun 2025 10:03:42 GMT | Red Teaming: Breaking Things on Purpose (and Getting Paid for It) | DarKVoicE | [Read More](https://medium.com/p/74085ce1b6a7) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 23:36:11 GMT | Vulnlab Trusted CTF Write Up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/fb2525fe1cd9) |
 | Sat, 28 Jun 2025 23:25:58 GMT | Complete Guide: On How to Evaluate an EDR | Cyber Axe | [Read More](https://medium.com/p/e4df0f06e9e0) |
 | Sat, 28 Jun 2025 23:18:09 GMT | UltraTech on TryHackMe — Writeup | Ithri Merouani | [Read More](https://medium.com/p/db8303164b1c) |
-| Sat, 28 Jun 2025 23:11:51 GMT | New Era with New Cyber Scams | Khushal Jain | [Read More](https://medium.com/p/33714d9d3738) |
-| Sat, 28 Jun 2025 23:11:20 GMT | When Legitimate Becomes Malicious: A Begginer Guide to LOLBins | R1cH4t | [Read More](https://medium.com/p/e7bef1d8b62b) |
-| Sat, 28 Jun 2025 23:11:06 GMT | Contact Scanner Hacker Crypto Recovery for your scam digital currency | Jamesbrant | [Read More](https://medium.com/p/0b60f239735f) |
-| Sat, 28 Jun 2025 23:06:01 GMT | What’s ZTNA : Zero Trust Network Access | Lyna Chalal | [Read More](https://medium.com/p/c931decf35a6) |
-| Sat, 28 Jun 2025 23:01:21 GMT | The $50 Billion QR Code Fraud Epidemic That’s Targeting Your Smartphone Right Now | Jeff Murdock | [Read More](https://medium.com/p/395cfd62aafb) |
