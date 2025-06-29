@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 20:38:29 GMT | From SQL Injection to RCE: My Hack The Box Assessment Walkthrough | Jabaribrown | [Read More](https://medium.com/p/9797f19fa8aa) |
+| Sun, 29 Jun 2025 20:14:31 GMT | Metasploit Framework: Remote Windows Exploitation Made Simple | Baker ssendagire | [Read More](https://medium.com/p/c7b023a7a0a0) |
 | Sun, 29 Jun 2025 20:12:58 GMT | the art of disappearing while still here. | Emmanuel Odunfa. | [Read More](https://medium.com/p/d80468894b9a) |
 | Sun, 29 Jun 2025 20:08:43 GMT | Feature Story: “AI Wars in Cyberspace — The New Frontline” | CapitalCoin | [Read More](https://medium.com/p/657dd3b869e0) |
 | Sun, 29 Jun 2025 20:06:31 GMT | Three Bugs, One Search: Discovering Security Flaws with Burp | Mustafa Hatab | [Read More](https://medium.com/p/00aeba9fedcf) |
@@ -112,5 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 13:53:51 GMT | AI & Cybersecurity: How AI Is Changing the Game | Hitesh Said | [Read More](https://medium.com/p/51fea0829235) |
 | Sun, 29 Jun 2025 13:51:57 GMT | Why Can’t You See How Good You Are? | PromiseOsas | [Read More](https://medium.com/p/1ae057122243) |
 | Sun, 29 Jun 2025 13:49:44 GMT | Proxy & Cybersecurity in Distributed Enterprise Networks: The Shield Behind the Middle Layer | Review Master 2 | [Read More](https://medium.com/p/d881342c0f9f) |
-| Sun, 29 Jun 2025 13:45:45 GMT | Open Connections: Interesting Dialogue With Myself This Morning… | Demi | [Read More](https://medium.com/p/dfbf1e364b5d) |
-| Sun, 29 Jun 2025 13:42:35 GMT | How a Leaky API Endpoint Led to Full PII Exposure on a Major Fintech Platform | CypherNova1337 | [Read More](https://medium.com/p/57e02ebe3e3e) |
