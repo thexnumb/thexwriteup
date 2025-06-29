@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 15:06:47 GMT | Mastering NTP with Chrony on RHEL-Based Systems: Server & Client Setup | Rupesh Sharma | [Read More](https://medium.com/p/3f07e0323806) |
+| Sun, 29 Jun 2025 15:06:37 GMT | Why You Should Never Store JWTs in localStorage: A Simple Guide to Safer Authentication | Chaimaechakir | [Read More](https://medium.com/p/63d1651092a6) |
+| Sun, 29 Jun 2025 15:03:55 GMT | Inside a Four-Day Cyber-Security Bootcamp: From Payloads to Protection | Adongo Esther | [Read More](https://medium.com/p/5fedf11a95dd) |
+| Sun, 29 Jun 2025 15:02:30 GMT | Payatu Hiring CTF 2025 | debang5hu | [Read More](https://medium.com/p/2fa2918abb64) |
+| Sun, 29 Jun 2025 15:01:12 GMT | Performing AES GCM using Windows API | Pratik Chowdhury | [Read More](https://medium.com/p/e51f979f5d9b) |
+| Sun, 29 Jun 2025 14:56:42 GMT | Is He “The One”? 2 Feelings That Signal a True Connection | Yuenie-kate | [Read More](https://medium.com/p/ab8bfd13afa0) |
+| Sun, 29 Jun 2025 14:56:38 GMT | What is Third-Party Fraud: The Silent Killer of Digital Trust | Amandeep Suter | [Read More](https://medium.com/p/c16c98bf0c80) |
+| Sun, 29 Jun 2025 14:55:26 GMT | HTB — Cap machine | Stilyana Petrova | [Read More](https://medium.com/p/e6bef559161b) |
+| Sun, 29 Jun 2025 14:54:36 GMT | JWT vs. CSRF Tokens: The ID Badge and the Secret Handshake of Web Security | Ahmed Maher | [Read More](https://medium.com/p/1ecee59542a5) |
+| Sun, 29 Jun 2025 14:47:26 GMT | The One GoLang Tool Every Bug Bounty Hunter Needs: GoLinkFinder | hacker_might | [Read More](https://medium.com/p/9335625d4c9d) |
+| Sun, 29 Jun 2025 14:46:29 GMT | Rethinking the “Never Use localStorage for Tokens” Rule: A Friendly Rebuttal | Kennedy Owusu | [Read More](https://medium.com/p/5d2a69b7f51c) |
 | Sun, 29 Jun 2025 14:29:28 GMT | ATM Hacking that ANYONE can do: Courtesy of the Manufactures | Travis Ray Caverhill | [Read More](https://medium.com/p/5bd2ef8d3497) |
 | Sun, 29 Jun 2025 14:26:12 GMT | Tryhackme Industrial CTF — UnderConstruction | omodo | [Read More](https://medium.com/p/d650fcee3d35) |
 | Sun, 29 Jun 2025 14:24:00 GMT | Germany and Israel Join Forces to Build a ‘Cyber Dome’ Against Digital Threats | NextGenBytes | [Read More](https://medium.com/p/4c289fe0d2da) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 08:32:33 GMT | From Ghost to Glitch: Null Byte Injection in Registration & Password Reset | Maxcyber | [Read More](https://medium.com/p/b44448bb7656) |
 | Sun, 29 Jun 2025 08:17:19 GMT | Bad Dockerfile vs Good Dockerfile — I Wish I Knew This Dockerfile Structure Earlier | Kanav Sharma | [Read More](https://medium.com/p/0f8df1f772e7) |
 | Sun, 29 Jun 2025 08:12:45 GMT | Abhimanyu Never Died | ⚡Monika D⚡ | [Read More](https://medium.com/p/fa6c2d8f5b27) |
-| Sun, 29 Jun 2025 08:11:40 GMT | Day #3: Log Analysis Basics Exploring Windows PowerShell Logs | Rishavkumarthapa | [Read More](https://medium.com/p/c8441c2df2c5) |
-| Sun, 29 Jun 2025 08:09:53 GMT | Networking Fundamentals | DarKVoicE | [Read More](https://medium.com/p/ccaad330b9c8) |
-| Sun, 29 Jun 2025 08:07:08 GMT | Corporate Greed Chronicles: Pumping Out People, Helmerich and Payne’s Gutting of a Legacy | Namir Sagheenanajar | [Read More](https://medium.com/p/b6c13876a98d) |
-| Sun, 29 Jun 2025 08:05:07 GMT | How to sue OpenAI : A science based guide | Jonathan Allwin | [Read More](https://medium.com/p/7dd45db17f78) |
-| Sun, 29 Jun 2025 08:04:44 GMT | Weaponizing Code: Exploring the Different Types of Cybersecurity Payloads | Srinath Karli | [Read More](https://medium.com/p/7f0015903613) |
-| Sun, 29 Jun 2025 08:00:35 GMT | HTB Challenge — Primed for Action | Fardeen Ahmed | [Read More](https://medium.com/p/00d3efc92ac1) |
-| Sun, 29 Jun 2025 07:56:36 GMT | How I Built an AI-Powered Packet Analyzer — and Why It Wasn’t Easy | Shubham Bhat | [Read More](https://medium.com/p/1d2140dc2739) |
-| Sun, 29 Jun 2025 07:46:02 GMT | How I Snagged a $$$ P1: PayU Key + Salt + Hash Revealed in a Hospital’s Payment Response | viperx9 | [Read More](https://medium.com/p/586e6824f177) |
-| Sun, 29 Jun 2025 07:41:13 GMT | “How a Rogue AI Model Almost Stole Our Data” | Sneha Rani | [Read More](https://medium.com/p/04c192fe7a04) |
-| Sun, 29 Jun 2025 07:37:43 GMT | WebSocket Endpoint Dorking | AbhirupKonwar | [Read More](https://medium.com/p/0a05ca7c2871) |
-| Sun, 29 Jun 2025 07:31:25 GMT | What Is JA3? The Silent Fingerprint Behind Every HTTPS Connection | Adarsh Agrawal | [Read More](https://medium.com/p/9b0b84b3cf8d) |
