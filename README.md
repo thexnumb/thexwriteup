@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 15:25:18 GMT | TRY HACK ME BİRKAÇ ODANIN ÇÖZÜMLERİ | Hiranur Gemalmaz | [Read More](https://medium.com/p/f8661384df74) |
+| Sun, 29 Jun 2025 15:24:53 GMT | CTF Write-up: All OSINT Challenges from Payatu | Aditya404 | [Read More](https://medium.com/p/5e2efc0a6d2c) |
+| Sun, 29 Jun 2025 15:11:27 GMT | We Set Up SCA. Now What? Real-World Lessons in Making Security Stick | sumit singh | [Read More](https://medium.com/p/af0bfa1a483d) |
+| Sun, 29 Jun 2025 15:09:14 GMT | SOC163 — Suspicious Certutil.exe Usage | Raynard Waits | [Read More](https://medium.com/p/3aa8f6e25a34) |
 | Sun, 29 Jun 2025 15:06:47 GMT | Mastering NTP with Chrony on RHEL-Based Systems: Server & Client Setup | Rupesh Sharma | [Read More](https://medium.com/p/3f07e0323806) |
 | Sun, 29 Jun 2025 15:06:37 GMT | Why You Should Never Store JWTs in localStorage: A Simple Guide to Safer Authentication | Chaimaechakir | [Read More](https://medium.com/p/63d1651092a6) |
 | Sun, 29 Jun 2025 15:03:55 GMT | Inside a Four-Day Cyber-Security Bootcamp: From Payloads to Protection | Adongo Esther | [Read More](https://medium.com/p/5fedf11a95dd) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 08:45:09 GMT | Top Cybersecurity Threats in 2025 You Need to Know | Anshika Prajapati | [Read More](https://medium.com/p/a055d884fd6c) |
 | Sun, 29 Jun 2025 08:40:58 GMT | Buffer Overflow Exploitation for Beginners: Breaking and Owning Your First Binary | Lavanya Bhargava | [Read More](https://medium.com/p/3dfcb1f8dc57) |
 | Sun, 29 Jun 2025 08:37:21 GMT | Pentesting Fundamentals- Tryhackme | Ayush Tiwari | [Read More](https://medium.com/p/33b8504d89be) |
-| Sun, 29 Jun 2025 08:35:52 GMT | “Scan to receive” The Clever UPI QR Scam You Should Know About | Taha Jamal | [Read More](https://medium.com/p/4541ecf093bf) |
-| Sun, 29 Jun 2025 08:32:33 GMT | From Ghost to Glitch: Null Byte Injection in Registration & Password Reset | Maxcyber | [Read More](https://medium.com/p/b44448bb7656) |
-| Sun, 29 Jun 2025 08:17:19 GMT | Bad Dockerfile vs Good Dockerfile — I Wish I Knew This Dockerfile Structure Earlier | Kanav Sharma | [Read More](https://medium.com/p/0f8df1f772e7) |
-| Sun, 29 Jun 2025 08:12:45 GMT | Abhimanyu Never Died | ⚡Monika D⚡ | [Read More](https://medium.com/p/fa6c2d8f5b27) |
