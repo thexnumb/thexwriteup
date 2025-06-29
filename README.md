@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 08:12:45 GMT | Abhimanyu Never Died | ⚡Monika D⚡ | [Read More](https://medium.com/p/fa6c2d8f5b27) |
+| Sun, 29 Jun 2025 08:11:40 GMT | Day #3: Log Analysis Basics Exploring Windows PowerShell Logs | Rishavkumarthapa | [Read More](https://medium.com/p/c8441c2df2c5) |
+| Sun, 29 Jun 2025 08:09:53 GMT | Networking Fundamentals | DarKVoicE | [Read More](https://medium.com/p/ccaad330b9c8) |
+| Sun, 29 Jun 2025 08:07:08 GMT | Corporate Greed Chronicles: Pumping Out People, Helmerich and Payne’s Gutting of a Legacy | Namir Sagheenanajar | [Read More](https://medium.com/p/b6c13876a98d) |
+| Sun, 29 Jun 2025 08:05:07 GMT | How to sue OpenAI : A science based guide | Jonathan Allwin | [Read More](https://medium.com/p/7dd45db17f78) |
+| Sun, 29 Jun 2025 08:04:44 GMT | Weaponizing Code: Exploring the Different Types of Cybersecurity Payloads | Srinath Karli | [Read More](https://medium.com/p/7f0015903613) |
+| Sun, 29 Jun 2025 08:00:35 GMT | HTB Challenge — Primed for Action | Fardeen Ahmed | [Read More](https://medium.com/p/00d3efc92ac1) |
+| Sun, 29 Jun 2025 07:56:36 GMT | How I Built an AI-Powered Packet Analyzer — and Why It Wasn’t Easy | Shubham Bhat | [Read More](https://medium.com/p/1d2140dc2739) |
+| Sun, 29 Jun 2025 07:46:02 GMT | How I Snagged a $$$ P1: PayU Key + Salt + Hash Revealed in a Hospital’s Payment Response | viperx9 | [Read More](https://medium.com/p/586e6824f177) |
+| Sun, 29 Jun 2025 07:41:13 GMT | “How a Rogue AI Model Almost Stole Our Data” | Sneha Rani | [Read More](https://medium.com/p/04c192fe7a04) |
 | Sun, 29 Jun 2025 07:37:43 GMT | WebSocket Endpoint Dorking | AbhirupKonwar | [Read More](https://medium.com/p/0a05ca7c2871) |
 | Sun, 29 Jun 2025 07:31:25 GMT | What Is JA3? The Silent Fingerprint Behind Every HTTPS Connection | Adarsh Agrawal | [Read More](https://medium.com/p/9b0b84b3cf8d) |
 | Sun, 29 Jun 2025 07:24:19 GMT | Test Failures Taught Me What Success Could Never Teach | Himanshunya | [Read More](https://medium.com/p/0a9fc5cc994f) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 20:55:18 GMT | Building a smart knowledge system for your business with RAG embeddings and Ruby | Marco Mastrodonato | [Read More](https://medium.com/p/723454d3b666) |
 | Sat, 28 Jun 2025 20:53:45 GMT | AI y Ciberseguridad: el nuevo ADN del Purple Team moderno | Zecke | [Read More](https://medium.com/p/197e57f0aa6d) |
 | Sat, 28 Jun 2025 20:46:43 GMT | How I Chained a Simple Text Injection with OAuth Misconfiguration on NASA | insomniaX | [Read More](https://medium.com/p/497223652bde) |
-| Sat, 28 Jun 2025 20:43:16 GMT | Threat modeling, STRIPE or PASTA? | Christian Koschmieder | [Read More](https://medium.com/p/02474e3ffccf) |
-| Sat, 28 Jun 2025 20:37:14 GMT | YOUR RIGHTS AS A DATA SUBJECT | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/5542a0358c58) |
-| Sat, 28 Jun 2025 20:28:35 GMT | Knowing isn’t Doing | Yudi Arfann | [Read More](https://medium.com/p/e269d1994f42) |
-| Sat, 28 Jun 2025 20:22:09 GMT | The love I’ve never felt | lena ♡ | [Read More](https://medium.com/p/9ce09550e324) |
-| Sat, 28 Jun 2025 20:20:50 GMT | The Dark Side of OSINT Tools: VIP Targets Located | Ian Barwise | [Read More](https://medium.com/p/6c85fcfde32a) |
-| Sat, 28 Jun 2025 20:18:55 GMT | picoCTF Web Exploitation: Scavenger Hunt (easy) | Hussein Gaweesh | [Read More](https://medium.com/p/cb218a458460) |
-| Sat, 28 Jun 2025 20:18:28 GMT | Dmail vs. Traditional Email: Why Web3 is Changing How We Communicate | Web3Sunshine | [Read More](https://medium.com/p/6bccf2b94be1) |
-| Sat, 28 Jun 2025 20:17:56 GMT | Could That Domain Name Cost You Millions? | Raviteja Mureboina | [Read More](https://medium.com/p/5eb3f2eade5c) |
-| Sat, 28 Jun 2025 20:14:49 GMT | Session Hijacking Using XSS | Vansh | [Read More](https://medium.com/p/f3448fb531d4) |
-| Sat, 28 Jun 2025 20:05:50 GMT | Goodbye Passwords? Microsoft’s Game-Changing Passkey Integration with 1Password on Windows 11 | TechBird | [Read More](https://medium.com/p/3f15597ed405) |
