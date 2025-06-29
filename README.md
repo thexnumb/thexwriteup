@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 11:18:06 GMT | Anonymous or Just Obscured? What the Internet Didn’t Tell You About Privacy | Ngatz | [Read More](https://medium.com/p/b79fc3476a14) |
+| Sun, 29 Jun 2025 11:15:46 GMT | The Silence That Screams | Shivi Chaurasia | [Read More](https://medium.com/p/c0797275f470) |
 | Sun, 29 Jun 2025 11:15:12 GMT | Building My First Home Lab: OPNsense, Suricata, Wazuh, and Blue Team + Red Team Simulation | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/03fbb0d566a7) |
 | Sun, 29 Jun 2025 11:06:19 GMT | Golden SAML Attack Explained Practically | Paritosh | [Read More](https://medium.com/p/59a825942ce8) |
+| Sun, 29 Jun 2025 11:06:01 GMT | When AI Tools Became Malware Farmers — A Real Wake‑Up Call | Sneha Rani | [Read More](https://medium.com/p/21c9f36a6889) |
 | Sun, 29 Jun 2025 10:57:50 GMT | Navigating the AI-Driven Future of Cybersecurity in Europe | Jae7 | [Read More](https://medium.com/p/56d737184464) |
 | Sun, 29 Jun 2025 10:51:32 GMT | That Little Lock Icon Lied to You | Ngatz | [Read More](https://medium.com/p/f4c47e59c660) |
 | Sun, 29 Jun 2025 10:48:08 GMT | API Security: A Complete Guide for Developers | Jubaercoding | [Read More](https://medium.com/p/fbbb8f37fceb) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 03:02:22 GMT | Decrypting DPAPI Credentials Offline | Tom O'Neill | [Read More](https://medium.com/p/8c8f27207956) |
 | Sun, 29 Jun 2025 01:57:02 GMT | Check us out in SAP | Eeryn Ann In Limbo | [Read More](https://medium.com/p/02a3f94c3e45) |
 | Sun, 29 Jun 2025 01:23:16 GMT | Pentesting iSCSI: Discovery, Enumeration, and Exploitation | Voyag3r | [Read More](https://medium.com/p/e6f4c5e06010) |
-| Sun, 29 Jun 2025 00:57:16 GMT | Let Me Be Honest With You | @lenviedexister | [Read More](https://medium.com/p/2383fb8a3b0c) |
-| Sun, 29 Jun 2025 00:45:49 GMT | Wishlist Logic bug: How I Manipulated Item Quantities Without Access | 0xNanashi | [Read More](https://medium.com/p/2ebf5aec1971) |
-| Sun, 29 Jun 2025 00:24:44 GMT | The Identity Crisis No One Is Talking About | Prakhar Goel | [Read More](https://medium.com/p/03e6af44f0cb) |
