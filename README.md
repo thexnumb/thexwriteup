@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 16:16:24 GMT | Fixing Authentication Failures: Best Practices for Secure Apps | Madhu Kiran Ravula | [Read More](https://medium.com/p/3f8191076d07) |
+| Sun, 29 Jun 2025 15:56:53 GMT | War & Wires: How Iran’s Conflicts Have Fueled—and Fractured—Innovation | Ayeshainam | [Read More](https://medium.com/p/cc989cb3b916) |
+| Sun, 29 Jun 2025 15:56:12 GMT | Securing Docker Like a Pro: From Non-Root Users to Network Isolation | cybe44oot | [Read More](https://medium.com/p/8cdbeb5b2576) |
+| Sun, 29 Jun 2025 15:53:23 GMT | How I built my virtual SOC Analyst Home Lab | Diogo Neto | [Read More](https://medium.com/p/9b1e6baa5c53) |
+| Sun, 29 Jun 2025 15:53:18 GMT | S3 BUCKET AND FIREBASE BUCKET MISCONFIGURTION PART-2 | DOD cyber solutions | [Read More](https://medium.com/p/14da286240d4) |
+| Sun, 29 Jun 2025 15:49:01 GMT | Nmap Cheat Sheet | Mustafa Şen | [Read More](https://medium.com/p/de4e6571f602) |
 | Sun, 29 Jun 2025 15:25:18 GMT | TRY HACK ME BİRKAÇ ODANIN ÇÖZÜMLERİ | Hiranur Gemalmaz | [Read More](https://medium.com/p/f8661384df74) |
 | Sun, 29 Jun 2025 15:24:53 GMT | CTF Write-up: All OSINT Challenges from Payatu | Aditya404 | [Read More](https://medium.com/p/5e2efc0a6d2c) |
 | Sun, 29 Jun 2025 15:11:27 GMT | We Set Up SCA. Now What? Real-World Lessons in Making Security Stick | sumit singh | [Read More](https://medium.com/p/af0bfa1a483d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 09:07:40 GMT | best camera for home security | Ibrahim | [Read More](https://medium.com/p/fde0568ea8bf) |
 | Sun, 29 Jun 2025 09:00:23 GMT | Reasons Why Passwords Need to Be Reset Instead of Revealing the Original Password | Anh Trần Tuấn | [Read More](https://medium.com/p/ba7aa23d533f) |
 | Sun, 29 Jun 2025 09:00:18 GMT | Reasons Why Passwords Need to Be Reset Instead of Revealing the Original Password | Anh Trần Tuấn | [Read More](https://medium.com/p/de2e1533cfba) |
-| Sun, 29 Jun 2025 08:52:10 GMT | The Evil Computer of an Aircraft: How Plane Accidents Are Caused by Software and Hacking | Debojit Acharjee | [Read More](https://medium.com/p/5ff278ae90a9) |
-| Sun, 29 Jun 2025 08:52:04 GMT | How Do You Secure Your Application Credentials in .NET? | Sajidur Rahman | [Read More](https://medium.com/p/e47a31423249) |
-| Sun, 29 Jun 2025 08:47:08 GMT | Digital Forensics Investigation on a Malicious USB | Mr NumberX | [Read More](https://medium.com/p/22d9bf636108) |
-| Sun, 29 Jun 2025 08:45:09 GMT | Top Cybersecurity Threats in 2025 You Need to Know | Anshika Prajapati | [Read More](https://medium.com/p/a055d884fd6c) |
-| Sun, 29 Jun 2025 08:40:58 GMT | Buffer Overflow Exploitation for Beginners: Breaking and Owning Your First Binary | Lavanya Bhargava | [Read More](https://medium.com/p/3dfcb1f8dc57) |
-| Sun, 29 Jun 2025 08:37:21 GMT | Pentesting Fundamentals- Tryhackme | Ayush Tiwari | [Read More](https://medium.com/p/33b8504d89be) |
