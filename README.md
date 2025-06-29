@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 05:10:37 GMT | The Space Between Steady and Consuming Love | A Cup of Elsewhere | [Read More](https://medium.com/p/9b780e5d7116) |
+| Sun, 29 Jun 2025 04:45:21 GMT | Broken Access Control part-2 : Unprotected admin functionality with unpredictable URL | Ahmad Sopyan | [Read More](https://medium.com/p/1238596a7a3c) |
+| Sun, 29 Jun 2025 04:45:18 GMT | AI Powered Android APK Vulnerability Detection Tool | AbhirupKonwar | [Read More](https://medium.com/p/b371aaee3552) |
+| Sun, 29 Jun 2025 04:41:42 GMT | Database Connection Pooling Security: PgBouncer Configuration Best Practices | Rizqi Mulki | [Read More](https://medium.com/p/bcaa30c43f8f) |
+| Sun, 29 Jun 2025 04:41:31 GMT | You’re Facing a Cyber Attack, Now What? | Adept Networks | [Read More](https://medium.com/p/fd466ca7b1ee) |
+| Sun, 29 Jun 2025 04:37:24 GMT | Time-Series Database Security: InfluxDB and TimescaleDB Protection | Rizqi Mulki | [Read More](https://medium.com/p/7ab0ed9761a7) |
 | Sun, 29 Jun 2025 04:34:06 GMT | Database Backup Security: Encrypted Backups and Recovery Procedures | Rizqi Mulki | [Read More](https://medium.com/p/19aa7abb027c) |
 | Sun, 29 Jun 2025 04:33:48 GMT | The Zero-Click AI Data Leak: EchoLeak and the Future of Cyberattacks | Reeti | [Read More](https://medium.com/p/a26801952d9b) |
 | Sun, 29 Jun 2025 04:31:55 GMT | Yes, I’m an SDE. No, I Didn’t Know About WWW-Authenticate | Vaibhav Maurya | [Read More](https://medium.com/p/a0618a06c209) |
@@ -106,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 17:53:53 GMT | Why the Preparation Phase Is Critical in Incident Response | Nesrine Cherrabi | [Read More](https://medium.com/p/3d7ff4147a30) |
 | Sat, 28 Jun 2025 17:47:29 GMT | Why It Took Me Ten Years to Start Writing Publicly | Arshpreet | [Read More](https://medium.com/p/4323d01d041f) |
 | Sat, 28 Jun 2025 17:39:52 GMT | The Clown I Became to Be Liked | Akshat Singh | [Read More](https://medium.com/p/18c495288b3c) |
-| Sat, 28 Jun 2025 17:37:22 GMT | Real-Time Kernel-Level Security Monitoring with eBPF: An In-Depth Guide ️ | Esra Kayhan | [Read More](https://medium.com/p/2c5c2c0715c0) |
-| Sat, 28 Jun 2025 17:27:48 GMT | SOC Automation Project with wazuh and thehive | Bit_Picker | [Read More](https://medium.com/p/dc606d5b38d8) |
-| Sat, 28 Jun 2025 17:20:15 GMT | New “Godfather” Malware is Back | Piyush | [Read More](https://medium.com/p/d19c5b9cfcac) |
-| Sat, 28 Jun 2025 17:17:11 GMT | Agent Sudo on TryHackMe — Writeup | i3_mr1i | [Read More](https://medium.com/p/6895a73934a0) |
-| Sat, 28 Jun 2025 17:14:15 GMT | Pentesting Fundamentals — TryHackMe Room Walkthrough | santosh gadekar | [Read More](https://medium.com/p/e74f0b850da4) |
-| Sat, 28 Jun 2025 17:11:13 GMT | I Did Nothing for 7 Days — And It Changed Everything About How I Work"
-Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763) |
