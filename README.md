@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 07:37:43 GMT | WebSocket Endpoint Dorking | AbhirupKonwar | [Read More](https://medium.com/p/0a05ca7c2871) |
+| Sun, 29 Jun 2025 07:31:25 GMT | What Is JA3? The Silent Fingerprint Behind Every HTTPS Connection | Adarsh Agrawal | [Read More](https://medium.com/p/9b0b84b3cf8d) |
+| Sun, 29 Jun 2025 07:24:19 GMT | Test Failures Taught Me What Success Could Never Teach | Himanshunya | [Read More](https://medium.com/p/0a9fc5cc994f) |
+| Sun, 29 Jun 2025 07:20:56 GMT | Understanding the Referer Header: The Silent Signal That Outsmarts Bots | Adarsh Agrawal | [Read More](https://medium.com/p/80253e3df680) |
+| Sun, 29 Jun 2025 07:19:07 GMT | Today’s Top Cyber Intelligence Highlights — Jun 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/46f0f6dcd7d9) |
 | Sun, 29 Jun 2025 07:11:20 GMT | Uncover Hidden Endpoints, Secrets and Vulnerabilities Buried Inside JavaScript Files | Monika sharma | [Read More](https://medium.com/p/ea965b43f969) |
 | Sun, 29 Jun 2025 07:10:42 GMT | PureVPN Honest Review: Is It Really Safe, Fast, and Worth It? | Satyam Pathania | [Read More](https://medium.com/p/e3119588da85) |
 | Sun, 29 Jun 2025 07:06:43 GMT | How to Find Logic Bugs That Slip Through Pentests? | Sle3pyHead ‍ | [Read More](https://medium.com/p/8178336388e4) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 20:17:56 GMT | Could That Domain Name Cost You Millions? | Raviteja Mureboina | [Read More](https://medium.com/p/5eb3f2eade5c) |
 | Sat, 28 Jun 2025 20:14:49 GMT | Session Hijacking Using XSS | Vansh | [Read More](https://medium.com/p/f3448fb531d4) |
 | Sat, 28 Jun 2025 20:05:50 GMT | Goodbye Passwords? Microsoft’s Game-Changing Passkey Integration with 1Password on Windows 11 | TechBird | [Read More](https://medium.com/p/3f15597ed405) |
-| Sat, 28 Jun 2025 19:53:05 GMT | Vulnerabilities Found in iOS 18.5 Apple iPhone Security Update | Awaismahmood | [Read More](https://medium.com/p/cc2b707781aa) |
-| Sat, 28 Jun 2025 19:51:42 GMT | Stored XSS via Profile Name Field | Markaz Gasimov | [Read More](https://medium.com/p/4235fd476617) |
-| Sat, 28 Jun 2025 19:49:45 GMT | The Enemy Within: Defending Multi-Cloud Enterprises Against Insider Threats with HashiCorp Vault… | Alan Hamilton | [Read More](https://medium.com/p/239d3dad5707) |
-| Sat, 28 Jun 2025 19:40:00 GMT | Node.js Security Best Practices and Suggestions | Enes Tekin | [Read More](https://medium.com/p/edac44ba344d) |
-| Sat, 28 Jun 2025 19:15:06 GMT | Advanced IDOR Exploitation in 2025: A Practical Guide for Bug Bounty Hunters | Santhosh Adiga U | [Read More](https://medium.com/p/3e935cc938c3) |
