@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 13:23:05 GMT | How can you append Custom User-Agent in Caido? | Pushkar Padhye | [Read More](https://medium.com/p/d351275726ed) |
+| Sun, 29 Jun 2025 13:21:51 GMT | DAEAD: Deterministic Authenticated Encryption with Associated Data | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/499d8435700d) |
+| Sun, 29 Jun 2025 13:18:27 GMT | Arab & Africa Regional CTF: One of The Largest Cybersecurity Showdowns in the Region! | CyberTalents | [Read More](https://medium.com/p/83540d7ce76c) |
+| Sun, 29 Jun 2025 13:16:50 GMT | Understanding PKI and How to Implement It Using Cisco Routers - Sfour Esolutions | John NV | [Read More](https://medium.com/p/d1330b524d37) |
+| Sun, 29 Jun 2025 13:15:45 GMT | ️ Understanding Callback Beacons — and How to Create One in Java | Kaustubh Salve | [Read More](https://medium.com/p/59b6260b5f31) |
+| Sun, 29 Jun 2025 13:09:43 GMT | Ultimate Ubuntu 24.04 VPS Security Setup Guide: How to Not Get Hacked in 2025 | Денис Пулинец | [Read More](https://medium.com/p/f7a8cbc83c10) |
+| Sun, 29 Jun 2025 13:07:11 GMT | Setting Up Users, Groups, and Policies in Active Directory | Abyss | [Read More](https://medium.com/p/8a73f7843ab0) |
+| Sun, 29 Jun 2025 13:02:00 GMT | What Cybersecurity Can Learn From Video Games — Part 2 | Fry Rob | [Read More](https://medium.com/p/75d4bfc50684) |
+| Sun, 29 Jun 2025 12:59:05 GMT | ChatGPT knows More.... | ablmathew | [Read More](https://medium.com/p/166fb260ff86) |
+| Sun, 29 Jun 2025 12:55:19 GMT | Try Hack Me: Madness Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/6636e01d1b4f) |
+| Sun, 29 Jun 2025 12:54:02 GMT | Building Smart from Scratch | Safora Nafees | [Read More](https://medium.com/p/b54c226b2605) |
+| Sun, 29 Jun 2025 12:52:22 GMT | picoCTF Web Exploitation: Search source | Kamal S | [Read More](https://medium.com/p/a9f18e5c4ea8) |
+| Sun, 29 Jun 2025 12:38:44 GMT | Multi-Agent Cyber Security | Karun Sunuwar | [Read More](https://medium.com/p/7cd754635b3e) |
 | Sun, 29 Jun 2025 12:32:18 GMT | Simulating a Custom Ransomware PoC | Hariharan | [Read More](https://medium.com/p/8b1ec355731d) |
+| Sun, 29 Jun 2025 12:31:53 GMT | Why does Everything I Read Break me Open? | Chaotic Artist | [Read More](https://medium.com/p/a8b69368c994) |
 | Sun, 29 Jun 2025 12:28:26 GMT | Best Open-Source Application Security Testing Tools - USCSI® | United States Cybersecurity Institute (USCSI®) | [Read More](https://medium.com/p/78686b62aab1) |
 | Sun, 29 Jun 2025 12:27:18 GMT | Unlocking the Vault: A Deep Dive into SQL Injection with a Hands-On Lab | Othman Nouakchi | [Read More](https://medium.com/p/ddf995951771) |
 | Sun, 29 Jun 2025 12:26:32 GMT | Lab Piggy from Blue Teams lab Online | rkn | [Read More](https://medium.com/p/b8c23e2bd491) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 ️ Why Every Organization Needs ISO 27001 – Now More Than Ever | Prabhath Manthilaka | [Read More](https://medium.com/p/892aa02746e6) |
 | Sun, 29 Jun 2025 05:27:24 GMT | Most Advanced AI Agents Now Capable of Lying, Scheming & Threatening Their Creators: A Growing AI… | Archil Gajera | [Read More](https://medium.com/p/76a4d8c8ce84) |
 | Sun, 29 Jun 2025 05:24:56 GMT | You’re Not Guarded — You Just Remember What It Cost You Last Time You Opened | Dilara | [Read More](https://medium.com/p/a55adff0ae84) |
-| Sun, 29 Jun 2025 05:10:37 GMT | The Space Between Steady and Consuming Love | A Cup of Elsewhere | [Read More](https://medium.com/p/9b780e5d7116) |
-| Sun, 29 Jun 2025 04:45:21 GMT | Broken Access Control part-2 : Unprotected admin functionality with unpredictable URL | Ahmad Sopyan | [Read More](https://medium.com/p/1238596a7a3c) |
-| Sun, 29 Jun 2025 04:45:18 GMT | AI Powered Android APK Vulnerability Detection Tool | AbhirupKonwar | [Read More](https://medium.com/p/b371aaee3552) |
-| Sun, 29 Jun 2025 04:41:42 GMT | Database Connection Pooling Security: PgBouncer Configuration Best Practices | Rizqi Mulki | [Read More](https://medium.com/p/bcaa30c43f8f) |
-| Sun, 29 Jun 2025 04:41:31 GMT | You’re Facing a Cyber Attack, Now What? | Adept Networks | [Read More](https://medium.com/p/fd466ca7b1ee) |
-| Sun, 29 Jun 2025 04:37:24 GMT | Time-Series Database Security: InfluxDB and TimescaleDB Protection | Rizqi Mulki | [Read More](https://medium.com/p/7ab0ed9761a7) |
-| Sun, 29 Jun 2025 04:34:06 GMT | Database Backup Security: Encrypted Backups and Recovery Procedures | Rizqi Mulki | [Read More](https://medium.com/p/19aa7abb027c) |
-| Sun, 29 Jun 2025 04:33:48 GMT | The Zero-Click AI Data Leak: EchoLeak and the Future of Cyberattacks | Reeti | [Read More](https://medium.com/p/a26801952d9b) |
-| Sun, 29 Jun 2025 04:31:55 GMT | Yes, I’m an SDE. No, I Didn’t Know About WWW-Authenticate | Vaibhav Maurya | [Read More](https://medium.com/p/a0618a06c209) |
-| Sun, 29 Jun 2025 04:27:28 GMT | How Hackers Trick Active Directory and What You Can Do About It. | Paritosh | [Read More](https://medium.com/p/2846affaa68a) |
-| Sun, 29 Jun 2025 04:24:40 GMT | Why ISO/IEC 42001 is Crucial for Companies Using AI. | Raajeev H Dave (AI Man) | [Read More](https://medium.com/p/943bd0ed97d7) |
-| Sun, 29 Jun 2025 04:21:38 GMT | Unlock High-Performance Node.js: 10 Advanced Techniques for Senior Engineers | Vishad Patel | [Read More](https://medium.com/p/cdbd65ddf216) |
-| Sun, 29 Jun 2025 04:13:18 GMT | Exploring the Smart Home Industry: SwitchBot’s Smart Lock Innovations | bcarr3848 | [Read More](https://medium.com/p/c8d2cb0c0497) |
-| Sun, 29 Jun 2025 04:12:09 GMT | Architectural Considerations for SaaS Application — PART (10/12): Analytics and Data Leakage. | Dhyan Sagar | [Read More](https://medium.com/p/943cb70cd0c4) |
