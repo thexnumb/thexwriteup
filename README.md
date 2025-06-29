@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 13:31:54 GMT | Quantum-Resistant Encryption Algorithms and Applications ⚛️ | Esra Kayhan | [Read More](https://medium.com/p/47d9b03b6316) |
+| Sun, 29 Jun 2025 13:29:18 GMT | Kerbrosting Practical Demonstration--Attacking AD--Active Directory Pentesting--2025--Part 14 | Muhammadhuzaifa | [Read More](https://medium.com/p/904e4feecbb1) |
+| Sun, 29 Jun 2025 13:28:22 GMT | ️ How We’re Using Voice AI to Fix Check-In and Check-Out Security in Our Estate | Kingsley Izundu | [Read More](https://medium.com/p/8022c16ad5bc) |
+| Sun, 29 Jun 2025 13:28:22 GMT | The CrowdStrike Falcon Windows Crash: When a Single Line of Code Broke the World | ThreadSafe Diaries | [Read More](https://medium.com/p/ab682f213362) |
 | Sun, 29 Jun 2025 13:23:05 GMT | How can you append Custom User-Agent in Caido? | Pushkar Padhye | [Read More](https://medium.com/p/d351275726ed) |
+| Sun, 29 Jun 2025 13:22:54 GMT | Top 50 Most Commonly Used TCP and UDP Ports | Khushi Verma | [Read More](https://medium.com/p/4ebac8fb458a) |
+| Sun, 29 Jun 2025 13:22:35 GMT | How I Leaked Sensitive User Data Using CORS in a HackerOne Program. | Figurx | [Read More](https://medium.com/p/b2b49881ea04) |
 | Sun, 29 Jun 2025 13:21:51 GMT | DAEAD: Deterministic Authenticated Encryption with Associated Data | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/499d8435700d) |
 | Sun, 29 Jun 2025 13:18:27 GMT | Arab & Africa Regional CTF: One of The Largest Cybersecurity Showdowns in the Region! | CyberTalents | [Read More](https://medium.com/p/83540d7ce76c) |
 | Sun, 29 Jun 2025 13:16:50 GMT | Understanding PKI and How to Implement It Using Cisco Routers - Sfour Esolutions | John NV | [Read More](https://medium.com/p/d1330b524d37) |
@@ -106,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 05:54:26 GMT | Top Cybersecurity Threats in an AI-Driven World: How to Stay Safe in 2025 | HM Awshaf | [Read More](https://medium.com/p/45199a0a5c7b) |
 | Sun, 29 Jun 2025 05:53:12 GMT | DNS Rebinding Attack in Symfony: How to Stay Secure | Pentest_Testing_Corp | [Read More](https://medium.com/p/18d32e2ce61a) |
 | Sun, 29 Jun 2025 05:43:53 GMT | “The Illusion of 100% Recon — Why Most Hackers Miss What Really Matters” | Đeepanshu | [Read More](https://medium.com/p/3e832da2ae02) |
-| Sun, 29 Jun 2025 05:36:33 GMT | Phishing via Swagger UI — Exploiting Misconfigurations for Fun & Bounties | TSxNINJA | [Read More](https://medium.com/p/5442f26a7b81) |
-| Sun, 29 Jun 2025 05:32:15 GMT | When ₹1.95 Crore of Digital Gold Just Vanished: The ABCD Hack That Changed Everything | Deven Chhajed | [Read More](https://medium.com/p/ca5403d59acf) |
-| Sun, 29 Jun 2025 05:28:48 GMT | The Linux Concept Journey — /proc/kallsyms (Kernel Exported Symbols) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2bb199f123b9) |
-| Sun, 29 Jun 2025 05:27:36 GMT | ⚠️⚠️
-️ Why Every Organization Needs ISO 27001 – Now More Than Ever | Prabhath Manthilaka | [Read More](https://medium.com/p/892aa02746e6) |
-| Sun, 29 Jun 2025 05:27:24 GMT | Most Advanced AI Agents Now Capable of Lying, Scheming & Threatening Their Creators: A Growing AI… | Archil Gajera | [Read More](https://medium.com/p/76a4d8c8ce84) |
-| Sun, 29 Jun 2025 05:24:56 GMT | You’re Not Guarded — You Just Remember What It Cost You Last Time You Opened | Dilara | [Read More](https://medium.com/p/a55adff0ae84) |
