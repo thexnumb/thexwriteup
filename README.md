@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 22:04:45 GMT | Time to start using my Medium subscription. Time to start blogging again. | Ramadji A. Doumnandé | [Read More](https://medium.com/p/ccb338504f4f) |
+| Sun, 29 Jun 2025 22:01:53 GMT | Securing Your Docker Containers: Best Practices | @rnab | [Read More](https://medium.com/p/ef0329595a36) |
+| Sun, 29 Jun 2025 21:54:26 GMT | How I Found a 1-Cent Scooter Bug in Kukirin’s Checkout — and Why It Matters | Vigo Grgurevic | [Read More](https://medium.com/p/a0a608d923a1) |
 | Sun, 29 Jun 2025 21:28:48 GMT | Three Quick Wins to Immediately Improve Your Cloud Security Posture | Raphael P. | [Read More](https://medium.com/p/3f6b9a1c510b) |
 | Sun, 29 Jun 2025 21:23:52 GMT | I Investigated WannaCry Ransomware on a Simulated Bank Attack Using a Raspberry Pi Lab | Mr NumberX | [Read More](https://medium.com/p/426e50055b42) |
 | Sun, 29 Jun 2025 21:19:30 GMT | Digital Geneva Convention: Simulating Cyber “Jus in Bello” for a Safer Digital Battlefield | A-STAR7_DOCTOR | [Read More](https://medium.com/p/ffc795f3e8b1) |
@@ -41,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 19:19:06 GMT | “From Commits to CI: Secret Scanning with gitleaks-secret-scanner in GitLab & GitHub” | Vijay K | [Read More](https://medium.com/p/54546e7e6c55) |
 | Sun, 29 Jun 2025 19:18:17 GMT | Embracing lifelong learning is crucial. | Vikas | [Read More](https://medium.com/p/5831c7bf0ef1) |
 | Sun, 29 Jun 2025 19:03:40 GMT | OSINT Navigators: An Advanced Guide to Your All-in-One Investigation Workbench | sudo3rs | [Read More](https://medium.com/p/944f556fb3ee) |
+| Sun, 29 Jun 2025 19:01:57 GMT | Flutter: Como Desativar e Ativar Captura de Tela | Gabriel Caires | [Read More](https://medium.com/p/50ef46ef8301) |
 | Sun, 29 Jun 2025 19:00:58 GMT | Making Policy Management Smarter with AI | Nikita Gupta | [Read More](https://medium.com/p/adf37c64f4cd) |
 | Sun, 29 Jun 2025 18:52:23 GMT | On The Myth of Sisyphus | TheVulnerableBlackMale | [Read More](https://medium.com/p/5d1c9c8fd354) |
 | Sun, 29 Jun 2025 18:45:42 GMT | The Curious Case of the Unrounded Corner | Shreshth Sharma | [Read More](https://medium.com/p/92fd271d6b41) |
@@ -110,7 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 14:47:26 GMT | The One GoLang Tool Every Bug Bounty Hunter Needs: GoLinkFinder | hacker_might | [Read More](https://medium.com/p/9335625d4c9d) |
 | Sun, 29 Jun 2025 14:46:29 GMT | Rethinking the “Never Use localStorage for Tokens” Rule: A Friendly Rebuttal | Kennedy Owusu | [Read More](https://medium.com/p/5d2a69b7f51c) |
 | Sun, 29 Jun 2025 14:29:28 GMT | ATM Hacking that ANYONE can do: Courtesy of the Manufactures | Travis Ray Caverhill | [Read More](https://medium.com/p/5bd2ef8d3497) |
-| Sun, 29 Jun 2025 14:26:12 GMT | Tryhackme Industrial CTF — UnderConstruction | omodo | [Read More](https://medium.com/p/d650fcee3d35) |
-| Sun, 29 Jun 2025 14:24:00 GMT | Germany and Israel Join Forces to Build a ‘Cyber Dome’ Against Digital Threats | NextGenBytes | [Read More](https://medium.com/p/4c289fe0d2da) |
-| Sun, 29 Jun 2025 14:23:03 GMT | picoCTF — interencdec | Robby firdauzy | [Read More](https://medium.com/p/b5f2e9b928e7) |
-| Sun, 29 Jun 2025 14:21:54 GMT | About Me —  Carl Shafi | C.Shafi | [Read More](https://medium.com/p/a985ba4eff5f) |
