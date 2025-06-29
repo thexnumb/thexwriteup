@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 08:45:09 GMT | Top Cybersecurity Threats in 2025 You Need to Know | Anshika Prajapati | [Read More](https://medium.com/p/a055d884fd6c) |
+| Sun, 29 Jun 2025 08:40:58 GMT | Buffer Overflow Exploitation for Beginners: Breaking and Owning Your First Binary | Lavanya Bhargava | [Read More](https://medium.com/p/3dfcb1f8dc57) |
+| Sun, 29 Jun 2025 08:37:21 GMT | Pentesting Fundamentals- Tryhackme | Ayush Tiwari | [Read More](https://medium.com/p/33b8504d89be) |
+| Sun, 29 Jun 2025 08:35:52 GMT | “Scan to receive” The Clever UPI QR Scam You Should Know About | Taha Jamal | [Read More](https://medium.com/p/4541ecf093bf) |
+| Sun, 29 Jun 2025 08:32:33 GMT | From Ghost to Glitch: Null Byte Injection in Registration & Password Reset | Maxcyber | [Read More](https://medium.com/p/b44448bb7656) |
+| Sun, 29 Jun 2025 08:17:19 GMT | Bad Dockerfile vs Good Dockerfile — I Wish I Knew This Dockerfile Structure Earlier | Kanav Sharma | [Read More](https://medium.com/p/0f8df1f772e7) |
 | Sun, 29 Jun 2025 08:12:45 GMT | Abhimanyu Never Died | ⚡Monika D⚡ | [Read More](https://medium.com/p/fa6c2d8f5b27) |
 | Sun, 29 Jun 2025 08:11:40 GMT | Day #3: Log Analysis Basics Exploring Windows PowerShell Logs | Rishavkumarthapa | [Read More](https://medium.com/p/c8441c2df2c5) |
 | Sun, 29 Jun 2025 08:09:53 GMT | Networking Fundamentals | DarKVoicE | [Read More](https://medium.com/p/ccaad330b9c8) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 21:40:30 GMT | Rebuilding My Cybersecurity Lab (and My Life) | 3Graces CC | [Read More](https://medium.com/p/b1a89e67f448) |
 | Sat, 28 Jun 2025 21:37:55 GMT | Behind the Race Condition Bug | 0xNanashi | [Read More](https://medium.com/p/ab21bd27240b) |
 | Sat, 28 Jun 2025 21:26:41 GMT | David Velez • Hacker • Vegachí • Colombia | Webresultsveg | [Read More](https://medium.com/p/f7f3a7ac68c4) |
-| Sat, 28 Jun 2025 21:19:17 GMT | CORS Finally Explained: The Web Security Concept That Trips Up Every Developer | reviewraccoon | [Read More](https://medium.com/p/e9bc20c6a2c4) |
-| Sat, 28 Jun 2025 21:16:43 GMT | Red Teaming Generative AI | Saniye Nur | [Read More](https://medium.com/p/3b2230b6fdc9) |
-| Sat, 28 Jun 2025 21:12:23 GMT | Recover Lost Money Back From Crypto Trading: Hire A Cyber Security Expert, Consult, DUNE NECTAR WEB… | Svitlana. leonid | [Read More](https://medium.com/p/2e63fbb38a8e) |
-| Sat, 28 Jun 2025 20:55:18 GMT | Building a smart knowledge system for your business with RAG embeddings and Ruby | Marco Mastrodonato | [Read More](https://medium.com/p/723454d3b666) |
-| Sat, 28 Jun 2025 20:53:45 GMT | AI y Ciberseguridad: el nuevo ADN del Purple Team moderno | Zecke | [Read More](https://medium.com/p/197e57f0aa6d) |
-| Sat, 28 Jun 2025 20:46:43 GMT | How I Chained a Simple Text Injection with OAuth Misconfiguration on NASA | insomniaX | [Read More](https://medium.com/p/497223652bde) |
