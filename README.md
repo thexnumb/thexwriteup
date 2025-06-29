@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 11:15:12 GMT | Building My First Home Lab: OPNsense, Suricata, Wazuh, and Blue Team + Red Team Simulation | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/03fbb0d566a7) |
+| Sun, 29 Jun 2025 11:06:19 GMT | Golden SAML Attack Explained Practically | Paritosh | [Read More](https://medium.com/p/59a825942ce8) |
+| Sun, 29 Jun 2025 10:57:50 GMT | Navigating the AI-Driven Future of Cybersecurity in Europe | Jae7 | [Read More](https://medium.com/p/56d737184464) |
+| Sun, 29 Jun 2025 10:51:32 GMT | That Little Lock Icon Lied to You | Ngatz | [Read More](https://medium.com/p/f4c47e59c660) |
+| Sun, 29 Jun 2025 10:48:08 GMT | API Security: A Complete Guide for Developers | Jubaercoding | [Read More](https://medium.com/p/fbbb8f37fceb) |
+| Sun, 29 Jun 2025 10:47:14 GMT | The Beginner’s Guide to Cybersecurity: CIA Triad and Common Threats | Deepanshi Aggarwal | [Read More](https://medium.com/p/9f82e26e674b) |
+| Sun, 29 Jun 2025 10:46:23 GMT | Data Breaches Are Trending — Here’s What It Really Means for Your Business in 2025 | DefenceRabbit | [Read More](https://medium.com/p/8d47412e42d3) |
 | Sun, 29 Jun 2025 10:44:50 GMT | Top Ten Strategies for Securing WebSocket Connections in FastAPI | Hex Shift | [Read More](https://medium.com/p/170407af8d1f) |
 | Sun, 29 Jun 2025 10:32:07 GMT | 5G Security Challenges and How to Overcome Them | Arpaliz | [Read More](https://medium.com/p/c42aa41ac0ec) |
 | Sun, 29 Jun 2025 10:31:51 GMT | ☠️ How I Broke into a Fintech Giant’s Core — And Landed in Their Hall of Fame  (after rejections… | Voldemort | [Read More](https://medium.com/p/1a91a269ab77) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 00:57:16 GMT | Let Me Be Honest With You | @lenviedexister | [Read More](https://medium.com/p/2383fb8a3b0c) |
 | Sun, 29 Jun 2025 00:45:49 GMT | Wishlist Logic bug: How I Manipulated Item Quantities Without Access | 0xNanashi | [Read More](https://medium.com/p/2ebf5aec1971) |
 | Sun, 29 Jun 2025 00:24:44 GMT | The Identity Crisis No One Is Talking About | Prakhar Goel | [Read More](https://medium.com/p/03e6af44f0cb) |
-| Sun, 29 Jun 2025 00:02:42 GMT | FFUF: Effective Fuzzing for Pentesting and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/5225c4d3c56b) |
-| Sun, 29 Jun 2025 00:02:32 GMT | Cybersecurity with Python -Part 5 : Secure File Reader (Defends Against Directory Traversal) | Vaibhavi Tilak | [Read More](https://medium.com/p/e30d39585498) |
-| Sat, 28 Jun 2025 23:56:19 GMT | Brave vs Firefox: Who Truly Honors Your Digital Privacy? | BiyteLüm | [Read More](https://medium.com/p/860a68122a44) |
-| Sat, 28 Jun 2025 23:37:27 GMT | Why Every Employee Is a Cybersecurity Risk (Including You) | Khushal Jain | [Read More](https://medium.com/p/4cfbd8be611c) |
-| Sat, 28 Jun 2025 23:36:11 GMT | Vulnlab Trusted CTF Write Up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/fb2525fe1cd9) |
-| Sat, 28 Jun 2025 23:25:58 GMT | Complete Guide: On How to Evaluate an EDR | Cyber Axe | [Read More](https://medium.com/p/e4df0f06e9e0) |
-| Sat, 28 Jun 2025 23:18:09 GMT | UltraTech on TryHackMe — Writeup | Ithri Merouani | [Read More](https://medium.com/p/db8303164b1c) |
