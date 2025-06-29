@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 01:23:16 GMT | Pentesting iSCSI: Discovery, Enumeration, and Exploitation | Voyag3r | [Read More](https://medium.com/p/e6f4c5e06010) |
+| Sun, 29 Jun 2025 00:57:16 GMT | Let Me Be Honest With You | @lenviedexister | [Read More](https://medium.com/p/2383fb8a3b0c) |
+| Sun, 29 Jun 2025 00:45:49 GMT | Wishlist Logic bug: How I Manipulated Item Quantities Without Access | 0xNanashi | [Read More](https://medium.com/p/2ebf5aec1971) |
+| Sun, 29 Jun 2025 00:24:44 GMT | The Identity Crisis No One Is Talking About | Prakhar Goel | [Read More](https://medium.com/p/03e6af44f0cb) |
+| Sun, 29 Jun 2025 00:02:42 GMT | FFUF: Effective Fuzzing for Pentesting and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/5225c4d3c56b) |
+| Sun, 29 Jun 2025 00:02:32 GMT | Cybersecurity with Python -Part 5 : Secure File Reader (Defends Against Directory Traversal) | Vaibhavi Tilak | [Read More](https://medium.com/p/e30d39585498) |
+| Sat, 28 Jun 2025 23:56:19 GMT | Brave vs Firefox: Who Truly Honors Your Digital Privacy? | BiyteLüm | [Read More](https://medium.com/p/860a68122a44) |
+| Sat, 28 Jun 2025 23:37:27 GMT | Why Every Employee Is a Cybersecurity Risk (Including You) | Khushal Jain | [Read More](https://medium.com/p/4cfbd8be611c) |
 | Sat, 28 Jun 2025 23:36:11 GMT | Vulnlab Trusted CTF Write Up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/fb2525fe1cd9) |
 | Sat, 28 Jun 2025 23:25:58 GMT | Complete Guide: On How to Evaluate an EDR | Cyber Axe | [Read More](https://medium.com/p/e4df0f06e9e0) |
 | Sat, 28 Jun 2025 23:18:09 GMT | UltraTech on TryHackMe — Writeup | Ithri Merouani | [Read More](https://medium.com/p/db8303164b1c) |
@@ -32,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 22:00:01 GMT | Reverse Engineering : Apple’s AirTag | Prabhu Perumal | [Read More](https://medium.com/p/9125f76da1ca) |
 | Sat, 28 Jun 2025 21:44:05 GMT | Relevant writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a44936492904) |
 | Sat, 28 Jun 2025 21:40:30 GMT | Rebuilding My Cybersecurity Lab (and My Life) | 3Graces CC | [Read More](https://medium.com/p/b1a89e67f448) |
+| Sat, 28 Jun 2025 21:37:55 GMT | Behind the Race Condition Bug | 0xNanashi | [Read More](https://medium.com/p/ab21bd27240b) |
 | Sat, 28 Jun 2025 21:26:41 GMT | David Velez • Hacker • Vegachí • Colombia | Webresultsveg | [Read More](https://medium.com/p/f7f3a7ac68c4) |
 | Sat, 28 Jun 2025 21:19:17 GMT | CORS Finally Explained: The Web Security Concept That Trips Up Every Developer | reviewraccoon | [Read More](https://medium.com/p/e9bc20c6a2c4) |
 | Sat, 28 Jun 2025 21:16:43 GMT | Red Teaming Generative AI | Saniye Nur | [Read More](https://medium.com/p/3b2230b6fdc9) |
@@ -104,12 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 15:20:47 GMT | It compares the current and next two num values. | Himabindu Kadali | [Read More](https://medium.com/p/3867d4382122) |
 | Sat, 28 Jun 2025 15:18:17 GMT | The emotional hangover after being too open in front of ears that refuse to hear. | Magnolia Eve-Madylove. | [Read More](https://medium.com/p/9214a40b473f) |
 | Sat, 28 Jun 2025 15:10:39 GMT | When Your Smile Becomes a Mask The Quiet Exhaustion of Always Being 'Okay' ~Sera Dawn | Sera Dawn | [Read More](https://medium.com/p/eccc22da2e5c) |
-| Sat, 28 Jun 2025 15:07:45 GMT | The emotional hangover after being too open in front of ears that refuse to hear. | Magnolia Eve-Madylove. | [Read More](https://medium.com/p/c9287bbf4a8d) |
-| Sat, 28 Jun 2025 15:03:26 GMT | Printer Security Alert: A Deep Dive into the 8 New Vulnerabilities Affecting 748 Models from 5… | Defaulty.io | [Read More](https://medium.com/p/a80fa74bae9d) |
-| Sat, 28 Jun 2025 15:01:54 GMT | The $223 Million Cetus Protocol Hack: How a Simple Bug Cost Everything | Chronos Vault | [Read More](https://medium.com/p/b610ce1173a8) |
-| Sat, 28 Jun 2025 15:01:53 GMT | Hack Mobile Apps Using Frida and Ghidra | Harshad Shah | [Read More](https://medium.com/p/27835bbaeb58) |
-| Sat, 28 Jun 2025 14:46:29 GMT | 2025’te KOBİ’leri Bekleyen Siber Tehditler | Ali Ekber KARA | [Read More](https://medium.com/p/2b534c3f2464) |
-| Sat, 28 Jun 2025 14:45:03 GMT | HTB Write-Up: Planning (Easy) | Ivan Ahmos | [Read More](https://medium.com/p/83b9785a54f4) |
-| Sat, 28 Jun 2025 14:29:12 GMT | A New Era in Cyber Law and Inclusion | Vijay Kumar Gupta | [Read More](https://medium.com/p/ab4df288089b) |
-| Sat, 28 Jun 2025 14:26:41 GMT | ️ Scattered Spider Spreads Its Web | Brittney Ginther | [Read More](https://medium.com/p/8f6c6e7daeee) |
-| Sat, 28 Jun 2025 14:25:35 GMT | Esthomy.com’un Perde Arkası: Sıfırdan Güçlü ve Güvenli Bir Altyapı Nasıl Kurduk? | A. Eren Özdemir | [Read More](https://medium.com/p/401416a56d37) |
