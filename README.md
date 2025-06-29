@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 03:17:33 GMT | ️ Getting Started in GRC: A Beginner’s Guide to Governance, Risk, and Compliance in Cybersecurity | WarGames 1729 | [Read More](https://medium.com/p/1f06aa1f50e0) |
+| Sun, 29 Jun 2025 03:07:35 GMT | Leaked API Key in Public JavaScript Leads to Potential Abuse | 127.0.0.1 | [Read More](https://medium.com/p/e2f255ee0ee5) |
+| Sun, 29 Jun 2025 03:02:22 GMT | Decrypting DPAPI Credentials Offline | Tom O'Neill | [Read More](https://medium.com/p/8c8f27207956) |
+| Sun, 29 Jun 2025 01:57:02 GMT | Check us out in SAP | Eeryn Ann In Limbo | [Read More](https://medium.com/p/02a3f94c3e45) |
 | Sun, 29 Jun 2025 01:23:16 GMT | Pentesting iSCSI: Discovery, Enumeration, and Exploitation | Voyag3r | [Read More](https://medium.com/p/e6f4c5e06010) |
 | Sun, 29 Jun 2025 00:57:16 GMT | Let Me Be Honest With You | @lenviedexister | [Read More](https://medium.com/p/2383fb8a3b0c) |
 | Sun, 29 Jun 2025 00:45:49 GMT | Wishlist Logic bug: How I Manipulated Item Quantities Without Access | 0xNanashi | [Read More](https://medium.com/p/2ebf5aec1971) |
@@ -109,7 +113,3 @@ Medium Category… | S Anuradha | [Read More](https://medium.com/p/f2a2c9973763)
 | Sat, 28 Jun 2025 15:33:51 GMT | Explaining Declarative vs imperative approach on terraform in infrastructure as a code. | Nneomaibe100 | [Read More](https://medium.com/p/34669d76084f) |
 | Sat, 28 Jun 2025 15:31:51 GMT | Billions of Passwords Leaked: What Every Content Creator Needs to Know (And Do!) | Safkat Bin Jasib | [Read More](https://medium.com/p/80f4d97a4d59) |
 | Sat, 28 Jun 2025 15:23:31 GMT | Hiding in Plain Sight — LSB Steganography | Andrew Petrus | [Read More](https://medium.com/p/7f451ff4c191) |
-| Sat, 28 Jun 2025 15:21:47 GMT | The Weigh You Can’t See | Reku | [Read More](https://medium.com/p/5fd7ae887de5) |
-| Sat, 28 Jun 2025 15:20:47 GMT | It compares the current and next two num values. | Himabindu Kadali | [Read More](https://medium.com/p/3867d4382122) |
-| Sat, 28 Jun 2025 15:18:17 GMT | The emotional hangover after being too open in front of ears that refuse to hear. | Magnolia Eve-Madylove. | [Read More](https://medium.com/p/9214a40b473f) |
-| Sat, 28 Jun 2025 15:10:39 GMT | When Your Smile Becomes a Mask The Quiet Exhaustion of Always Being 'Okay' ~Sera Dawn | Sera Dawn | [Read More](https://medium.com/p/eccc22da2e5c) |
