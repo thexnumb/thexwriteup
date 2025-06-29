@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 18:24:22 GMT | What is Traffic Signaling? (MITRE ATT&CK) | Ben Kofman | [Read More](https://medium.com/p/64c8c2a0510f) |
+| Sun, 29 Jun 2025 18:20:26 GMT | PAYATU-CTF :F4lling Metal | D3w!ls0n | [Read More](https://medium.com/p/b1bed78e2574) |
+| Sun, 29 Jun 2025 18:19:28 GMT | What is SEO Poisoning? (MITRE ATT&CK) | Ben Kofman | [Read More](https://medium.com/p/737a3c168a71) |
+| Sun, 29 Jun 2025 18:18:37 GMT | Iraq Between Fragility and Resilience: Insights into a Nation in Transition | Dr. SAIFALDIN Z.  AL-DARRAJI | [Read More](https://medium.com/p/7e488aa1aa1a) |
+| Sun, 29 Jun 2025 18:18:26 GMT | How to Create & Optimize Self-Signed SSL for Nginx on Ubuntu (Step-by-Step) | Ashish Singh | [Read More](https://medium.com/p/7f6bb43b314d) |
+| Sun, 29 Jun 2025 18:18:04 GMT | LNK file Attack --AD Pentesting --Responder --2025 --Part 16 | Muhammadhuzaifa | [Read More](https://medium.com/p/c3c7d0855acc) |
+| Sun, 29 Jun 2025 18:13:29 GMT | Getting Started with XSS: A Hacker’s First Web Exploit | err0rgod | [Read More](https://medium.com/p/cea8df7ac79b) |
+| Sun, 29 Jun 2025 18:13:24 GMT | Triple Trouble: Bypassing Sanitization to Steal Microsoft Tokens | Asem Eleraky | [Read More](https://medium.com/p/d89a68be7ab2) |
+| Sun, 29 Jun 2025 18:10:46 GMT | XSS Attacks Simplified | Amna Anjum Jawaid | [Read More](https://medium.com/p/5d3b7598a30f) |
+| Sun, 29 Jun 2025 18:10:21 GMT | Fluffy HTB Walkthrough | Ibrahim Isiaq Bolaji | [Read More](https://medium.com/p/fc32ea2b6e4f) |
+| Sun, 29 Jun 2025 18:04:30 GMT | I Couldn’t Think Like a Hacker — Until I Did This One Thing | Cyber Howler | [Read More](https://medium.com/p/971a7740dd09) |
+| Sun, 29 Jun 2025 18:03:52 GMT | Aren’t we all Demons? 
+Deep Inside — Our Fragile, quiet, frightened Guilty Younger Self!!! | Nabiie Writes | [Read More](https://medium.com/p/ca130472d9b3) |
+| Sun, 29 Jun 2025 17:57:20 GMT | The Cybersecurity Fallout of Federal Cuts: Why Secure AI Adoption Must Fill the Gap | Avnishyam | [Read More](https://medium.com/p/7a80224b468f) |
+| Sun, 29 Jun 2025 17:55:05 GMT | ️ Web3 Security Weekly — June 23–29, 2025 | Null Return | [Read More](https://medium.com/p/0bf956b74afe) |
+| Sun, 29 Jun 2025 17:49:24 GMT | Cybersecurity in Flight | Inforsecpro | [Read More](https://medium.com/p/c7a7e553ace2) |
 | Sun, 29 Jun 2025 17:31:19 GMT | The Myth of “If We Log Everything, We’ll Understand Everything” | Yuksel | [Read More](https://medium.com/p/4794d09c230b) |
 | Sun, 29 Jun 2025 17:30:27 GMT | Cookies & Tokens — Session Management | Dipak Kr das | [Read More](https://medium.com/p/5cb1ea76bcb2) |
 | Sun, 29 Jun 2025 17:29:21 GMT | Risk Analysis of the Major Mobile Platforms | Ben Kofman | [Read More](https://medium.com/p/35004240baa2) |
@@ -98,18 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 12:28:26 GMT | Best Open-Source Application Security Testing Tools - USCSI® | United States Cybersecurity Institute (USCSI®) | [Read More](https://medium.com/p/78686b62aab1) |
 | Sun, 29 Jun 2025 12:27:18 GMT | Unlocking the Vault: A Deep Dive into SQL Injection with a Hands-On Lab | Othman Nouakchi | [Read More](https://medium.com/p/ddf995951771) |
 | Sun, 29 Jun 2025 12:26:32 GMT | Lab Piggy from Blue Teams lab Online | rkn | [Read More](https://medium.com/p/b8c23e2bd491) |
-| Sun, 29 Jun 2025 12:20:51 GMT | TryHackMe Zeno — Walkthrough | mauzware | [Read More](https://medium.com/p/bba7fe2a932b) |
-| Sun, 29 Jun 2025 12:20:30 GMT | I Hacked into Karnataka Government Admin Panel Using a Google Dork and a Simple SQLi payload. | Yukeshwaran N | [Read More](https://medium.com/p/78e0a3d1aa51) |
-| Sun, 29 Jun 2025 12:20:10 GMT | TryHackMe: CyberHeroes Writeup — Login Without Brute-Force | Cybernerddd | [Read More](https://medium.com/p/c9adee3b9818) |
-| Sun, 29 Jun 2025 12:10:47 GMT | ️ FenrirLock: The Cyberpunk Security Suite Built for the People, Not the Corporations | Maxwell Wolfe | [Read More](https://medium.com/p/5e0556d84912) |
-| Sun, 29 Jun 2025 11:57:30 GMT | Detect and Remove Malware using Wazuh + VirusTotal on Windows 10 | zal ef | [Read More](https://medium.com/p/ba33d5367ea7) |
-| Sun, 29 Jun 2025 11:54:37 GMT | Business Technology News: Salesforce Is Raising Prices | Gene Marks | [Read More](https://medium.com/p/91f9b860aeb0) |
-| Sun, 29 Jun 2025 11:53:59 GMT | CrossFi Hackathon is Live — Come Build the Future with Us! | DrUiDdE | [Read More](https://medium.com/p/f08badfe1bcb) |
-| Sun, 29 Jun 2025 11:52:58 GMT | Best Python Programming Course for Beginners | cyber security Updates | [Read More](https://medium.com/p/63c6f7a21dc3) |
-| Sun, 29 Jun 2025 11:52:14 GMT | UFW(Uncomplicated Firewall) | Cheulong Sear | [Read More](https://medium.com/p/1e4368599133) |
-| Sun, 29 Jun 2025 11:44:14 GMT | TryHackMe Anonymous Walkthrough - Secrets of the Masked Hacker️ | Ishtiyak  Surve | [Read More](https://medium.com/p/517637d9fbe3) |
-| Sun, 29 Jun 2025 11:31:55 GMT | I don’t want to be the strong one anymore, I want to be held. | Alankriti Ahuja | [Read More](https://medium.com/p/eb5c766d0f32) |
-| Sun, 29 Jun 2025 11:18:06 GMT | Anonymous or Just Obscured? What the Internet Didn’t Tell You About Privacy | Ngatz | [Read More](https://medium.com/p/b79fc3476a14) |
-| Sun, 29 Jun 2025 11:15:46 GMT | The Silence That Screams | Shivi Chaurasia | [Read More](https://medium.com/p/c0797275f470) |
-| Sun, 29 Jun 2025 11:15:12 GMT | Building My First Home Lab: OPNsense, Suricata, Wazuh, and Blue Team + Red Team Simulation | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/03fbb0d566a7) |
-| Sun, 29 Jun 2025 11:06:19 GMT | Golden SAML Attack Explained Practically | Paritosh | [Read More](https://medium.com/p/59a825942ce8) |
