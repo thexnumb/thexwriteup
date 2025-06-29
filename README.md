@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 16:40:16 GMT | Uploading Files to Firebase Storage & Storing Metadata in MongoDB | Gaurikhard | [Read More](https://medium.com/p/8d2add2d3fe5) |
+| Sun, 29 Jun 2025 16:37:27 GMT | ICMTC CTF 2025 | 0xheg3zy | [Read More](https://medium.com/p/4ce895a3c279) |
+| Sun, 29 Jun 2025 16:36:30 GMT | Apt 41 Unmasked: China’s Hybrid Cyber espionage Group | Ethan McKean | [Read More](https://medium.com/p/e97029cfd132) |
+| Sun, 29 Jun 2025 16:35:40 GMT | Emerging Cyber Threats Every SaaS Business Should Watch in 2025 | Kineberg Solutions | [Read More](https://medium.com/p/f805563e9f3a) |
+| Sun, 29 Jun 2025 16:35:30 GMT | Locking a C Executable to One Physical Machine | Pranav MR | [Read More](https://medium.com/p/ae9b85bc284a) |
+| Sun, 29 Jun 2025 16:34:02 GMT | JWT Cracking & Obfuscation Attacks: Real-World Exploits from CTFs, THM, HTB & Google CTF | Shadow Packet | [Read More](https://medium.com/p/be567bbab886) |
+| Sun, 29 Jun 2025 16:25:09 GMT | Cognitive Shielding: 3 Forensic Techniques to Block Covert Manipulation | Huzaifa Awan | [Read More](https://medium.com/p/3901e08be119) |
+| Sun, 29 Jun 2025 16:23:58 GMT | This is my first post here | Alan Robledo | [Read More](https://medium.com/p/d1e4f503c3b4) |
+| Sun, 29 Jun 2025 16:22:13 GMT | Ever had one of those days when your computer just decides to ruin all your plans? | Adaku Okafor | [Read More](https://medium.com/p/72629538786b) |
 | Sun, 29 Jun 2025 16:16:24 GMT | Fixing Authentication Failures: Best Practices for Secure Apps | Madhu Kiran Ravula | [Read More](https://medium.com/p/3f8191076d07) |
 | Sun, 29 Jun 2025 15:56:53 GMT | War & Wires: How Iran’s Conflicts Have Fueled—and Fractured—Innovation | Ayeshainam | [Read More](https://medium.com/p/cc989cb3b916) |
 | Sun, 29 Jun 2025 15:56:12 GMT | Securing Docker Like a Pro: From Non-Root Users to Network Isolation | cybe44oot | [Read More](https://medium.com/p/8cdbeb5b2576) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 10:18:33 GMT | ️ ServMon HTB Walkthrough | Cakra Adhiningrat | [Read More](https://medium.com/p/acc07f03674a) |
 | Sun, 29 Jun 2025 10:17:56 GMT | Forensic Methodology for Identifying Timestamp Manipulation in Windows Systems: A Practical Case… | Elnur | [Read More](https://medium.com/p/1de359352a0a) |
 | Sun, 29 Jun 2025 10:06:19 GMT | Building a Defensive Security Program | Het | [Read More](https://medium.com/p/d5323ebd44fa) |
-| Sun, 29 Jun 2025 10:04:19 GMT | Why Virtual Network Types Matter | R1punjay_Singh | [Read More](https://medium.com/p/6f467040a415) |
-| Sun, 29 Jun 2025 10:03:42 GMT | Red Teaming: Breaking Things on Purpose (and Getting Paid for It) | DarKVoicE | [Read More](https://medium.com/p/74085ce1b6a7) |
-| Sun, 29 Jun 2025 09:57:08 GMT | Why Billions Spent on A.I Infrastructure will be lost | James Bone | [Read More](https://medium.com/p/c455fbbc9a86) |
-| Sun, 29 Jun 2025 09:53:35 GMT | Day 21: Learnings from Financial Industry Leaders related to SaaS and Agentic AI —a paper by JPM | LAKSHMI VENKATESH | [Read More](https://medium.com/p/b7542b0aa012) |
-| Sun, 29 Jun 2025 09:37:24 GMT | XOR is Weak? Think Again — Meet XORception | Aditya Bhatt | [Read More](https://medium.com/p/64867f6587af) |
-| Sun, 29 Jun 2025 09:33:55 GMT | how to get increase readd in medium | S Anuradha | [Read More](https://medium.com/p/42d0b7ec7f5f) |
-| Sun, 29 Jun 2025 09:07:40 GMT | best camera for home security | Ibrahim | [Read More](https://medium.com/p/fde0568ea8bf) |
-| Sun, 29 Jun 2025 09:00:23 GMT | Reasons Why Passwords Need to Be Reset Instead of Revealing the Original Password | Anh Trần Tuấn | [Read More](https://medium.com/p/ba7aa23d533f) |
-| Sun, 29 Jun 2025 09:00:18 GMT | Reasons Why Passwords Need to Be Reset Instead of Revealing the Original Password | Anh Trần Tuấn | [Read More](https://medium.com/p/de2e1533cfba) |
