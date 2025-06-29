@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 06:26:12 GMT | Detecting LaZagne Module Using Atomic Red Team and Splunk | zal ef | [Read More](https://medium.com/p/102aa18b6609) |
+| Sun, 29 Jun 2025 06:21:33 GMT | Sıfırıncı Gün Açıkları (Zero-day Exploits): Siber Güvenliğin Görünmeyen Tehdidi | Ata Çalım | [Read More](https://medium.com/p/47718b6ae4be) |
+| Sun, 29 Jun 2025 06:07:29 GMT | {Lab} Investigating Windows | DT_Security | [Read More](https://medium.com/p/c279e13b3846) |
+| Sun, 29 Jun 2025 06:03:02 GMT | The Fundamentals of Cyber Security | DarKVoicE | [Read More](https://medium.com/p/e35d2ebc9cb3) |
+| Sun, 29 Jun 2025 05:54:26 GMT | Top Cybersecurity Threats in an AI-Driven World: How to Stay Safe in 2025 | HM Awshaf | [Read More](https://medium.com/p/45199a0a5c7b) |
+| Sun, 29 Jun 2025 05:53:12 GMT | DNS Rebinding Attack in Symfony: How to Stay Secure | Pentest_Testing_Corp | [Read More](https://medium.com/p/18d32e2ce61a) |
 | Sun, 29 Jun 2025 05:43:53 GMT | “The Illusion of 100% Recon — Why Most Hackers Miss What Really Matters” | Đeepanshu | [Read More](https://medium.com/p/3e832da2ae02) |
 | Sun, 29 Jun 2025 05:36:33 GMT | Phishing via Swagger UI — Exploiting Misconfigurations for Fun & Bounties | TSxNINJA | [Read More](https://medium.com/p/5442f26a7b81) |
 | Sun, 29 Jun 2025 05:32:15 GMT | When ₹1.95 Crore of Digital Gold Just Vanished: The ABCD Hack That Changed Everything | Deven Chhajed | [Read More](https://medium.com/p/ca5403d59acf) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 18:50:33 GMT | ❓Is Your Login Really Secure? Common Authentication Vulnerabilities | Madhu Kiran Ravula | [Read More](https://medium.com/p/9c466cf75c21) |
 | Sat, 28 Jun 2025 18:48:51 GMT | The Cheapest Security Safe is all You Need | Top Gear lab | [Read More](https://medium.com/p/66961c475bce) |
 | Sat, 28 Jun 2025 18:33:27 GMT | How GIFTEDCROOK Evolved into a High‑Stakes Intelligence Tool | Chetan Seripally | [Read More](https://medium.com/p/285cd782e633) |
-| Sat, 28 Jun 2025 18:30:05 GMT | How to append User-Agent using Match & Replace options in Caido. | Pushkar Padhye | [Read More](https://medium.com/p/e2e6dea01fd7) |
-| Sat, 28 Jun 2025 18:24:26 GMT | Bypassing Blockchain Capabilities: How a $2,000 Exploit Let Contracts Do the Forbidden | Monika sharma | [Read More](https://medium.com/p/2bfe4120587d) |
-| Sat, 28 Jun 2025 18:21:52 GMT | Understanding the 2025 Shadow AI Threat | Artificial Intelligence + | [Read More](https://medium.com/p/9de127dd7f36) |
-| Sat, 28 Jun 2025 18:13:04 GMT | The Beauty of Public Key Encryption with Key Encapsulation: HPKE | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/caf28568bbed) |
-| Sat, 28 Jun 2025 18:12:51 GMT | TLS vs SSL: What’s the Difference & Why It Still Matters in 2025 | err0rgod | [Read More](https://medium.com/p/ede4a916a159) |
-| Sat, 28 Jun 2025 18:10:58 GMT | Exactly, JPEG’d, Pond0x: Reentrancy, Input Abuse, and a Suspected Rug | Olympix | [Read More](https://medium.com/p/ce8347d93e94) |
