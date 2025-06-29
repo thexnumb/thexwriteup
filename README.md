@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 05:43:53 GMT | “The Illusion of 100% Recon — Why Most Hackers Miss What Really Matters” | Đeepanshu | [Read More](https://medium.com/p/3e832da2ae02) |
+| Sun, 29 Jun 2025 05:36:33 GMT | Phishing via Swagger UI — Exploiting Misconfigurations for Fun & Bounties | TSxNINJA | [Read More](https://medium.com/p/5442f26a7b81) |
+| Sun, 29 Jun 2025 05:32:15 GMT | When ₹1.95 Crore of Digital Gold Just Vanished: The ABCD Hack That Changed Everything | Deven Chhajed | [Read More](https://medium.com/p/ca5403d59acf) |
+| Sun, 29 Jun 2025 05:28:48 GMT | The Linux Concept Journey — /proc/kallsyms (Kernel Exported Symbols) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2bb199f123b9) |
+| Sun, 29 Jun 2025 05:27:36 GMT | ⚠️⚠️
+️ Why Every Organization Needs ISO 27001 – Now More Than Ever | Prabhath Manthilaka | [Read More](https://medium.com/p/892aa02746e6) |
+| Sun, 29 Jun 2025 05:27:24 GMT | Most Advanced AI Agents Now Capable of Lying, Scheming & Threatening Their Creators: A Growing AI… | Archil Gajera | [Read More](https://medium.com/p/76a4d8c8ce84) |
+| Sun, 29 Jun 2025 05:24:56 GMT | You’re Not Guarded — You Just Remember What It Cost You Last Time You Opened | Dilara | [Read More](https://medium.com/p/a55adff0ae84) |
 | Sun, 29 Jun 2025 05:10:37 GMT | The Space Between Steady and Consuming Love | A Cup of Elsewhere | [Read More](https://medium.com/p/9b780e5d7116) |
 | Sun, 29 Jun 2025 04:45:21 GMT | Broken Access Control part-2 : Unprotected admin functionality with unpredictable URL | Ahmad Sopyan | [Read More](https://medium.com/p/1238596a7a3c) |
 | Sun, 29 Jun 2025 04:45:18 GMT | AI Powered Android APK Vulnerability Detection Tool | AbhirupKonwar | [Read More](https://medium.com/p/b371aaee3552) |
@@ -105,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 18:13:04 GMT | The Beauty of Public Key Encryption with Key Encapsulation: HPKE | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/caf28568bbed) |
 | Sat, 28 Jun 2025 18:12:51 GMT | TLS vs SSL: What’s the Difference & Why It Still Matters in 2025 | err0rgod | [Read More](https://medium.com/p/ede4a916a159) |
 | Sat, 28 Jun 2025 18:10:58 GMT | Exactly, JPEG’d, Pond0x: Reentrancy, Input Abuse, and a Suspected Rug | Olympix | [Read More](https://medium.com/p/ce8347d93e94) |
-| Sat, 28 Jun 2025 18:07:20 GMT | Uwerx, EraLend, BNO: From Burn Loops to Broken Withdrawals | Olympix | [Read More](https://medium.com/p/1d31a1e0d017) |
-| Sat, 28 Jun 2025 18:04:22 GMT | How Digital Forensics Are Different from Forensic Science, and in What Ways Can Artificial… | Arnab Barua | [Read More](https://medium.com/p/fe67fabee83a) |
-| Sat, 28 Jun 2025 18:03:53 GMT | Palmswap, Biswap, LibertiVault: When Price Curves, Permissions, and Reentrancy All Break | Olympix | [Read More](https://medium.com/p/55cbbd8cf1f6) |
-| Sat, 28 Jun 2025 17:57:45 GMT | Pentesting Fundamentals — TryHackMe | Rishivegeto | [Read More](https://medium.com/p/fb76380f4206) |
-| Sat, 28 Jun 2025 17:53:53 GMT | Why the Preparation Phase Is Critical in Incident Response | Nesrine Cherrabi | [Read More](https://medium.com/p/3d7ff4147a30) |
-| Sat, 28 Jun 2025 17:47:29 GMT | Why It Took Me Ten Years to Start Writing Publicly | Arshpreet | [Read More](https://medium.com/p/4323d01d041f) |
-| Sat, 28 Jun 2025 17:39:52 GMT | The Clown I Became to Be Liked | Akshat Singh | [Read More](https://medium.com/p/18c495288b3c) |
