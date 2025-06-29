@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 23:01:55 GMT | LetsDefend — Kernel Exploit Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/87713cfdc365) |
 | Sun, 29 Jun 2025 22:32:42 GMT | BLUE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/db9fb18b63e2) |
 | Sun, 29 Jun 2025 22:32:29 GMT | /bare/ | Chinaza Osegbo ۶ৎ | [Read More](https://medium.com/p/e01e4fba79cf) |
 | Sun, 29 Jun 2025 22:16:42 GMT | The Ultimate SIEM Configuration Guide for Blue Teamers | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fe6da5615301) |
@@ -113,4 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 14:56:42 GMT | Is He “The One”? 2 Feelings That Signal a True Connection | Yuenie-kate | [Read More](https://medium.com/p/ab8bfd13afa0) |
 | Sun, 29 Jun 2025 14:56:38 GMT | What is Third-Party Fraud: The Silent Killer of Digital Trust | Amandeep Suter | [Read More](https://medium.com/p/c16c98bf0c80) |
 | Sun, 29 Jun 2025 14:55:26 GMT | HTB — Cap machine | Stilyana Petrova | [Read More](https://medium.com/p/e6bef559161b) |
-| Sun, 29 Jun 2025 14:54:36 GMT | JWT vs. CSRF Tokens: The ID Badge and the Secret Handshake of Web Security | Ahmed Maher | [Read More](https://medium.com/p/1ecee59542a5) |
