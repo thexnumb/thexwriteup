@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 20:12:58 GMT | the art of disappearing while still here. | Emmanuel Odunfa. | [Read More](https://medium.com/p/d80468894b9a) |
+| Sun, 29 Jun 2025 20:08:43 GMT | Feature Story: “AI Wars in Cyberspace — The New Frontline” | CapitalCoin | [Read More](https://medium.com/p/657dd3b869e0) |
+| Sun, 29 Jun 2025 20:06:31 GMT | Three Bugs, One Search: Discovering Security Flaws with Burp | Mustafa Hatab | [Read More](https://medium.com/p/00aeba9fedcf) |
+| Sun, 29 Jun 2025 20:02:44 GMT | SMB Cybersecurity Market | Rye Overly | [Read More](https://medium.com/p/0ad4f917dd9f) |
+| Sun, 29 Jun 2025 19:57:38 GMT | Password Reset Link Injection Enables Full Account Takeover | Mahmoud Gamal | [Read More](https://medium.com/p/b0d3c38bcd5c) |
+| Sun, 29 Jun 2025 19:56:11 GMT | Did NIST Go Too Far on Password Policy? | Gutema Dube | [Read More](https://medium.com/p/6e752a19615c) |
+| Sun, 29 Jun 2025 19:47:36 GMT | When Hackers Bypass MFA: Scattered Spider’s Assault on Aviation Cybersecurity | Chetan Seripally | [Read More](https://medium.com/p/7dce0dd33457) |
+| Sun, 29 Jun 2025 19:46:23 GMT | Reflections On Connectivity | Michael Holford | [Read More](https://medium.com/p/6c35d8173432) |
+| Sun, 29 Jun 2025 19:45:08 GMT | Building an International Governance System for AI | Nikita Mokhov | [Read More](https://medium.com/p/afd4e90ce489) |
+| Sun, 29 Jun 2025 19:41:30 GMT | A secure way to store API keys in Android applications | Alexander Shevelev | [Read More](https://medium.com/p/238135709067) |
+| Sun, 29 Jun 2025 19:40:50 GMT | Am I Making the Right Career Choice? | Quartumos | [Read More](https://medium.com/p/ea52b5a15179) |
+| Sun, 29 Jun 2025 19:40:42 GMT | This New Trick Turns File Explorer Into a Malware Launcher | Cyber-AppSec | [Read More](https://medium.com/p/02656e9b9edd) |
+| Sun, 29 Jun 2025 19:40:37 GMT | Day 8:Stored XSS into anchor href attribute with double quotes HTML-encoded : Zero to Hero Series… | RayofHope | [Read More](https://medium.com/p/f4bcab7d9b8f) |
+| Sun, 29 Jun 2025 19:40:14 GMT | How to Secure Software Engineering Contracts: Real-World Degrees, Certifications, and Strategic… | Dr Francesco Dergano | [Read More](https://medium.com/p/ad5b25512839) |
 | Sun, 29 Jun 2025 19:32:58 GMT | Setting Up — Gophish and Evilginx — Part — 1 | Mainul Hasan | [Read More](https://medium.com/p/dd279680399b) |
 | Sun, 29 Jun 2025 19:19:06 GMT | “From Commits to CI: Secret Scanning with gitleaks-secret-scanner in GitLab & GitHub” | Vijay K | [Read More](https://medium.com/p/54546e7e6c55) |
 | Sun, 29 Jun 2025 19:18:17 GMT | Embracing lifelong learning is crucial. | Vikas | [Read More](https://medium.com/p/5831c7bf0ef1) |
@@ -100,17 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 13:49:44 GMT | Proxy & Cybersecurity in Distributed Enterprise Networks: The Shield Behind the Middle Layer | Review Master 2 | [Read More](https://medium.com/p/d881342c0f9f) |
 | Sun, 29 Jun 2025 13:45:45 GMT | Open Connections: Interesting Dialogue With Myself This Morning… | Demi | [Read More](https://medium.com/p/dfbf1e364b5d) |
 | Sun, 29 Jun 2025 13:42:35 GMT | How a Leaky API Endpoint Led to Full PII Exposure on a Major Fintech Platform | CypherNova1337 | [Read More](https://medium.com/p/57e02ebe3e3e) |
-| Sun, 29 Jun 2025 13:39:17 GMT | Protecting Civilians Is Mutual Calculation | Mr. Unboxed陳知言 | [Read More](https://medium.com/p/13c47fee4a7c) |
-| Sun, 29 Jun 2025 13:34:39 GMT | You Are Like Air | Tami | [Read More](https://medium.com/p/338f46d87ff6) |
-| Sun, 29 Jun 2025 13:31:54 GMT | Quantum-Resistant Encryption Algorithms and Applications ⚛️ | Esra Kayhan | [Read More](https://medium.com/p/47d9b03b6316) |
-| Sun, 29 Jun 2025 13:29:18 GMT | Kerbrosting Practical Demonstration--Attacking AD--Active Directory Pentesting--2025--Part 14 | Muhammadhuzaifa | [Read More](https://medium.com/p/904e4feecbb1) |
-| Sun, 29 Jun 2025 13:28:22 GMT | ️ How We’re Using Voice AI to Fix Check-In and Check-Out Security in Our Estate | Kingsley Izundu | [Read More](https://medium.com/p/8022c16ad5bc) |
-| Sun, 29 Jun 2025 13:28:22 GMT | The CrowdStrike Falcon Windows Crash: When a Single Line of Code Broke the World | ThreadSafe Diaries | [Read More](https://medium.com/p/ab682f213362) |
-| Sun, 29 Jun 2025 13:23:05 GMT | How can you append Custom User-Agent in Caido? | Pushkar Padhye | [Read More](https://medium.com/p/d351275726ed) |
-| Sun, 29 Jun 2025 13:22:54 GMT | Top 50 Most Commonly Used TCP and UDP Ports | Khushi Verma | [Read More](https://medium.com/p/4ebac8fb458a) |
-| Sun, 29 Jun 2025 13:22:35 GMT | How I Leaked Sensitive User Data Using CORS in a HackerOne Program. | Figurx | [Read More](https://medium.com/p/b2b49881ea04) |
-| Sun, 29 Jun 2025 13:21:51 GMT | DAEAD: Deterministic Authenticated Encryption with Associated Data | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/499d8435700d) |
-| Sun, 29 Jun 2025 13:18:27 GMT | Arab & Africa Regional CTF: One of The Largest Cybersecurity Showdowns in the Region! | CyberTalents | [Read More](https://medium.com/p/83540d7ce76c) |
-| Sun, 29 Jun 2025 13:16:50 GMT | Understanding PKI and How to Implement It Using Cisco Routers - Sfour Esolutions | John NV | [Read More](https://medium.com/p/d1330b524d37) |
-| Sun, 29 Jun 2025 13:15:45 GMT | ️ Understanding Callback Beacons — and How to Create One in Java | Kaustubh Salve | [Read More](https://medium.com/p/59b6260b5f31) |
-| Sun, 29 Jun 2025 13:09:43 GMT | Ultimate Ubuntu 24.04 VPS Security Setup Guide: How to Not Get Hacked in 2025 | Денис Пулинец | [Read More](https://medium.com/p/f7a8cbc83c10) |
