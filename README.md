@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 09:00:23 GMT | Reasons Why Passwords Need to Be Reset Instead of Revealing the Original Password | Anh Trần Tuấn | [Read More](https://medium.com/p/ba7aa23d533f) |
+| Sun, 29 Jun 2025 09:00:18 GMT | Reasons Why Passwords Need to Be Reset Instead of Revealing the Original Password | Anh Trần Tuấn | [Read More](https://medium.com/p/de2e1533cfba) |
+| Sun, 29 Jun 2025 08:52:10 GMT | The Evil Computer of an Aircraft: How Plane Accidents Are Caused by Software and Hacking | Debojit Acharjee | [Read More](https://medium.com/p/5ff278ae90a9) |
+| Sun, 29 Jun 2025 08:52:04 GMT | How Do You Secure Your Application Credentials in .NET? | Sajidur Rahman | [Read More](https://medium.com/p/e47a31423249) |
+| Sun, 29 Jun 2025 08:47:08 GMT | Digital Forensics Investigation on a Malicious USB | Mr NumberX | [Read More](https://medium.com/p/22d9bf636108) |
 | Sun, 29 Jun 2025 08:45:09 GMT | Top Cybersecurity Threats in 2025 You Need to Know | Anshika Prajapati | [Read More](https://medium.com/p/a055d884fd6c) |
 | Sun, 29 Jun 2025 08:40:58 GMT | Buffer Overflow Exploitation for Beginners: Breaking and Owning Your First Binary | Lavanya Bhargava | [Read More](https://medium.com/p/3dfcb1f8dc57) |
 | Sun, 29 Jun 2025 08:37:21 GMT | Pentesting Fundamentals- Tryhackme | Ayush Tiwari | [Read More](https://medium.com/p/33b8504d89be) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 22:19:55 GMT | Re-creating the Snake Rootkit Part 008: C2 — Design and Architecture | 0x0vid | [Read More](https://medium.com/p/23acf19ce78d) |
 | Sat, 28 Jun 2025 22:17:40 GMT | Message Box - hackinghub - write-up | Musab Sarı | [Read More](https://medium.com/p/f127bb87299c) |
 | Sat, 28 Jun 2025 22:16:43 GMT | Exploiting SNMP, SMB, and RPC: Techniques That Still Work in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/569b54312368) |
-| Sat, 28 Jun 2025 22:00:01 GMT | Reverse Engineering : Apple’s AirTag | Prabhu Perumal | [Read More](https://medium.com/p/9125f76da1ca) |
-| Sat, 28 Jun 2025 21:44:05 GMT | Relevant writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a44936492904) |
-| Sat, 28 Jun 2025 21:40:30 GMT | Rebuilding My Cybersecurity Lab (and My Life) | 3Graces CC | [Read More](https://medium.com/p/b1a89e67f448) |
-| Sat, 28 Jun 2025 21:37:55 GMT | Behind the Race Condition Bug | 0xNanashi | [Read More](https://medium.com/p/ab21bd27240b) |
-| Sat, 28 Jun 2025 21:26:41 GMT | David Velez • Hacker • Vegachí • Colombia | Webresultsveg | [Read More](https://medium.com/p/f7f3a7ac68c4) |
