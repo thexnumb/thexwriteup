@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 22:32:42 GMT | BLUE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/db9fb18b63e2) |
+| Sun, 29 Jun 2025 22:32:29 GMT | /bare/ | Chinaza Osegbo ۶ৎ | [Read More](https://medium.com/p/e01e4fba79cf) |
+| Sun, 29 Jun 2025 22:16:42 GMT | The Ultimate SIEM Configuration Guide for Blue Teamers | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fe6da5615301) |
 | Sun, 29 Jun 2025 22:04:45 GMT | Time to start using my Medium subscription. Time to start blogging again. | Ramadji A. Doumnandé | [Read More](https://medium.com/p/ccb338504f4f) |
 | Sun, 29 Jun 2025 22:01:53 GMT | Securing Your Docker Containers: Best Practices | @rnab | [Read More](https://medium.com/p/ef0329595a36) |
 | Sun, 29 Jun 2025 21:54:26 GMT | How I Found a 1-Cent Scooter Bug in Kukirin’s Checkout — and Why It Matters | Vigo Grgurevic | [Read More](https://medium.com/p/a0a608d923a1) |
@@ -111,6 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 14:56:38 GMT | What is Third-Party Fraud: The Silent Killer of Digital Trust | Amandeep Suter | [Read More](https://medium.com/p/c16c98bf0c80) |
 | Sun, 29 Jun 2025 14:55:26 GMT | HTB — Cap machine | Stilyana Petrova | [Read More](https://medium.com/p/e6bef559161b) |
 | Sun, 29 Jun 2025 14:54:36 GMT | JWT vs. CSRF Tokens: The ID Badge and the Secret Handshake of Web Security | Ahmed Maher | [Read More](https://medium.com/p/1ecee59542a5) |
-| Sun, 29 Jun 2025 14:47:26 GMT | The One GoLang Tool Every Bug Bounty Hunter Needs: GoLinkFinder | hacker_might | [Read More](https://medium.com/p/9335625d4c9d) |
-| Sun, 29 Jun 2025 14:46:29 GMT | Rethinking the “Never Use localStorage for Tokens” Rule: A Friendly Rebuttal | Kennedy Owusu | [Read More](https://medium.com/p/5d2a69b7f51c) |
-| Sun, 29 Jun 2025 14:29:28 GMT | ATM Hacking that ANYONE can do: Courtesy of the Manufactures | Travis Ray Caverhill | [Read More](https://medium.com/p/5bd2ef8d3497) |
