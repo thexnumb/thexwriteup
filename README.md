@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 12:32:18 GMT | Simulating a Custom Ransomware PoC | Hariharan | [Read More](https://medium.com/p/8b1ec355731d) |
+| Sun, 29 Jun 2025 12:28:26 GMT | Best Open-Source Application Security Testing Tools - USCSI® | United States Cybersecurity Institute (USCSI®) | [Read More](https://medium.com/p/78686b62aab1) |
+| Sun, 29 Jun 2025 12:27:18 GMT | Unlocking the Vault: A Deep Dive into SQL Injection with a Hands-On Lab | Othman Nouakchi | [Read More](https://medium.com/p/ddf995951771) |
+| Sun, 29 Jun 2025 12:26:32 GMT | Lab Piggy from Blue Teams lab Online | rkn | [Read More](https://medium.com/p/b8c23e2bd491) |
+| Sun, 29 Jun 2025 12:20:51 GMT | TryHackMe Zeno — Walkthrough | mauzware | [Read More](https://medium.com/p/bba7fe2a932b) |
+| Sun, 29 Jun 2025 12:20:30 GMT | I Hacked into Karnataka Government Admin Panel Using a Google Dork and a Simple SQLi payload. | Yukeshwaran N | [Read More](https://medium.com/p/78e0a3d1aa51) |
+| Sun, 29 Jun 2025 12:20:10 GMT | TryHackMe: CyberHeroes Writeup — Login Without Brute-Force | Cybernerddd | [Read More](https://medium.com/p/c9adee3b9818) |
+| Sun, 29 Jun 2025 12:10:47 GMT | ️ FenrirLock: The Cyberpunk Security Suite Built for the People, Not the Corporations | Maxwell Wolfe | [Read More](https://medium.com/p/5e0556d84912) |
+| Sun, 29 Jun 2025 11:57:30 GMT | Detect and Remove Malware using Wazuh + VirusTotal on Windows 10 | zal ef | [Read More](https://medium.com/p/ba33d5367ea7) |
+| Sun, 29 Jun 2025 11:54:37 GMT | Business Technology News: Salesforce Is Raising Prices | Gene Marks | [Read More](https://medium.com/p/91f9b860aeb0) |
+| Sun, 29 Jun 2025 11:53:59 GMT | CrossFi Hackathon is Live — Come Build the Future with Us! | DrUiDdE | [Read More](https://medium.com/p/f08badfe1bcb) |
+| Sun, 29 Jun 2025 11:52:58 GMT | Best Python Programming Course for Beginners | cyber security Updates | [Read More](https://medium.com/p/63c6f7a21dc3) |
+| Sun, 29 Jun 2025 11:52:14 GMT | UFW(Uncomplicated Firewall) | Cheulong Sear | [Read More](https://medium.com/p/1e4368599133) |
+| Sun, 29 Jun 2025 11:44:14 GMT | TryHackMe Anonymous Walkthrough - Secrets of the Masked Hacker️ | Ishtiyak  Surve | [Read More](https://medium.com/p/517637d9fbe3) |
+| Sun, 29 Jun 2025 11:31:55 GMT | I don’t want to be the strong one anymore, I want to be held. | Alankriti Ahuja | [Read More](https://medium.com/p/eb5c766d0f32) |
 | Sun, 29 Jun 2025 11:18:06 GMT | Anonymous or Just Obscured? What the Internet Didn’t Tell You About Privacy | Ngatz | [Read More](https://medium.com/p/b79fc3476a14) |
 | Sun, 29 Jun 2025 11:15:46 GMT | The Silence That Screams | Shivi Chaurasia | [Read More](https://medium.com/p/c0797275f470) |
 | Sun, 29 Jun 2025 11:15:12 GMT | Building My First Home Lab: OPNsense, Suricata, Wazuh, and Blue Team + Red Team Simulation | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/03fbb0d566a7) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 04:21:38 GMT | Unlock High-Performance Node.js: 10 Advanced Techniques for Senior Engineers | Vishad Patel | [Read More](https://medium.com/p/cdbd65ddf216) |
 | Sun, 29 Jun 2025 04:13:18 GMT | Exploring the Smart Home Industry: SwitchBot’s Smart Lock Innovations | bcarr3848 | [Read More](https://medium.com/p/c8d2cb0c0497) |
 | Sun, 29 Jun 2025 04:12:09 GMT | Architectural Considerations for SaaS Application — PART (10/12): Analytics and Data Leakage. | Dhyan Sagar | [Read More](https://medium.com/p/943cb70cd0c4) |
-| Sun, 29 Jun 2025 04:10:57 GMT | Architectural Considerations for SaaS Application — PART (11/12): Testing & QA. | Dhyan Sagar | [Read More](https://medium.com/p/4ce88b825daa) |
-| Sun, 29 Jun 2025 04:10:36 GMT | Relevant Lab From TryHack Me | Mohit Sharma | [Read More](https://medium.com/p/f59268733dca) |
-| Sun, 29 Jun 2025 04:07:52 GMT | Thiel, Taiwan, and the Machinery of Fate | Soft Power, Hard Code | [Read More](https://medium.com/p/483cd96d491b) |
-| Sun, 29 Jun 2025 04:07:46 GMT | Architectural Considerations for SaaS Application — PART (12/12): Verification and Validation | Dhyan Sagar | [Read More](https://medium.com/p/ca39cbd8518f) |
-| Sun, 29 Jun 2025 04:05:17 GMT | THE COURAGE TO BE VULNERABLE | Missmash | [Read More](https://medium.com/p/bf04f0df8f8b) |
-| Sun, 29 Jun 2025 04:01:28 GMT | Fix: Check for Mysql Duplicate Key Error Golang | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/27a7ee6d747b) |
-| Sun, 29 Jun 2025 03:58:59 GMT | Beyond the firewall. | Jawwad Ahmed Farid | [Read More](https://medium.com/p/18a0b0e4002d) |
-| Sun, 29 Jun 2025 03:41:52 GMT | W1SE GUY-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/7e3f9bf47493) |
-| Sun, 29 Jun 2025 03:41:08 GMT | ️ Building a Real SOC in Azure: Honeypot, Sentinel, and Automated Response | Ibrahim Yusuf | [Read More](https://medium.com/p/31f6406cbe56) |
-| Sun, 29 Jun 2025 03:37:45 GMT | Privacy by Default: Powerful Principle, Poor Requirement | Ruby Agarwal | [Read More](https://medium.com/p/98e9500e3159) |
-| Sun, 29 Jun 2025 03:17:33 GMT | ️ Getting Started in GRC: A Beginner’s Guide to Governance, Risk, and Compliance in Cybersecurity | WarGames 1729 | [Read More](https://medium.com/p/1f06aa1f50e0) |
-| Sun, 29 Jun 2025 03:07:35 GMT | Leaked API Key in Public JavaScript Leads to Potential Abuse | 127.0.0.1 | [Read More](https://medium.com/p/e2f255ee0ee5) |
-| Sun, 29 Jun 2025 03:02:22 GMT | Decrypting DPAPI Credentials Offline | Tom O'Neill | [Read More](https://medium.com/p/8c8f27207956) |
-| Sun, 29 Jun 2025 01:57:02 GMT | Check us out in SAP | Eeryn Ann In Limbo | [Read More](https://medium.com/p/02a3f94c3e45) |
-| Sun, 29 Jun 2025 01:23:16 GMT | Pentesting iSCSI: Discovery, Enumeration, and Exploitation | Voyag3r | [Read More](https://medium.com/p/e6f4c5e06010) |
