@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 18:44:38 GMT | How To Train Non-Technical Teams on Technical Tools Without Losing Them | O'lando Cory Rawlinson | [Read More](https://medium.com/p/1afbc11f22c9) |
+| Sun, 29 Jun 2025 18:37:16 GMT | Day 6:DOM XSS in jQuery selector sink using a hashchange event : Zero to Hero Series — Portswigger | RayofHope | [Read More](https://medium.com/p/f80367168d95) |
+| Sun, 29 Jun 2025 18:36:10 GMT | Password Spraying with Selenium and Fireprox | Ben Kofman | [Read More](https://medium.com/p/5b07a590cdb2) |
+| Sun, 29 Jun 2025 18:33:20 GMT | Title: How I Found a Critical Payment Bug on an EdTech Platform (and Got Ignored) | SECUVORTEX | [Read More](https://medium.com/p/ea2b09f22652) |
+| Sun, 29 Jun 2025 18:27:31 GMT | “Start Before You’re Ready” — What Happened When I Did | Humza A-Khan | [Read More](https://medium.com/p/6cf7891008e0) |
 | Sun, 29 Jun 2025 18:24:22 GMT | What is Traffic Signaling? (MITRE ATT&CK) | Ben Kofman | [Read More](https://medium.com/p/64c8c2a0510f) |
 | Sun, 29 Jun 2025 18:20:26 GMT | PAYATU-CTF :F4lling Metal | D3w!ls0n | [Read More](https://medium.com/p/b1bed78e2574) |
 | Sun, 29 Jun 2025 18:19:28 GMT | What is SEO Poisoning? (MITRE ATT&CK) | Ben Kofman | [Read More](https://medium.com/p/737a3c168a71) |
@@ -109,8 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 12:54:02 GMT | Building Smart from Scratch | Safora Nafees | [Read More](https://medium.com/p/b54c226b2605) |
 | Sun, 29 Jun 2025 12:52:22 GMT | picoCTF Web Exploitation: Search source | Kamal S | [Read More](https://medium.com/p/a9f18e5c4ea8) |
 | Sun, 29 Jun 2025 12:38:44 GMT | Multi-Agent Cyber Security | Karun Sunuwar | [Read More](https://medium.com/p/7cd754635b3e) |
-| Sun, 29 Jun 2025 12:32:18 GMT | Simulating a Custom Ransomware PoC | Hariharan | [Read More](https://medium.com/p/8b1ec355731d) |
-| Sun, 29 Jun 2025 12:31:53 GMT | Why does Everything I Read Break me Open? | Chaotic Artist | [Read More](https://medium.com/p/a8b69368c994) |
-| Sun, 29 Jun 2025 12:28:26 GMT | Best Open-Source Application Security Testing Tools - USCSI® | United States Cybersecurity Institute (USCSI®) | [Read More](https://medium.com/p/78686b62aab1) |
-| Sun, 29 Jun 2025 12:27:18 GMT | Unlocking the Vault: A Deep Dive into SQL Injection with a Hands-On Lab | Othman Nouakchi | [Read More](https://medium.com/p/ddf995951771) |
-| Sun, 29 Jun 2025 12:26:32 GMT | Lab Piggy from Blue Teams lab Online | rkn | [Read More](https://medium.com/p/b8c23e2bd491) |
