@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 21:28:48 GMT | Three Quick Wins to Immediately Improve Your Cloud Security Posture | Raphael P. | [Read More](https://medium.com/p/3f6b9a1c510b) |
+| Sun, 29 Jun 2025 21:23:52 GMT | I Investigated WannaCry Ransomware on a Simulated Bank Attack Using a Raspberry Pi Lab | Mr NumberX | [Read More](https://medium.com/p/426e50055b42) |
+| Sun, 29 Jun 2025 21:19:30 GMT | Digital Geneva Convention: Simulating Cyber “Jus in Bello” for a Safer Digital Battlefield | A-STAR7_DOCTOR | [Read More](https://medium.com/p/ffc795f3e8b1) |
+| Sun, 29 Jun 2025 21:19:26 GMT | I Taught ChatGPT to Think for Itself | Josh Davis | [Read More](https://medium.com/p/c280beffefb9) |
+| Sun, 29 Jun 2025 21:12:23 GMT | W1seGuy — Quebrando XOR em um Desafio do TryHackMe | HexSilent | [Read More](https://medium.com/p/66dfebe301e3) |
 | Sun, 29 Jun 2025 21:11:52 GMT | Hijacking OAuth Tokens with Just an XSS Flaw | Ibtissam hammadi | [Read More](https://medium.com/p/e0365f2081d2) |
 | Sun, 29 Jun 2025 20:45:18 GMT | Investigating Windows Event Logs | Youssef Hossam | [Read More](https://medium.com/p/883ad3a91b59) |
 | Sun, 29 Jun 2025 20:38:29 GMT | From SQL Injection to RCE: My Hack The Box Assessment Walkthrough | Jabaribrown | [Read More](https://medium.com/p/9797f19fa8aa) |
@@ -109,8 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 14:24:00 GMT | Germany and Israel Join Forces to Build a ‘Cyber Dome’ Against Digital Threats | NextGenBytes | [Read More](https://medium.com/p/4c289fe0d2da) |
 | Sun, 29 Jun 2025 14:23:03 GMT | picoCTF — interencdec | Robby firdauzy | [Read More](https://medium.com/p/b5f2e9b928e7) |
 | Sun, 29 Jun 2025 14:21:54 GMT | About Me —  Carl Shafi | C.Shafi | [Read More](https://medium.com/p/a985ba4eff5f) |
-| Sun, 29 Jun 2025 14:16:57 GMT | Your Turn Next? Stop Hackers Before They Strike | Muhammad Haider Tallal | [Read More](https://medium.com/p/f5f89575d3ac) |
-| Sun, 29 Jun 2025 14:15:34 GMT | Unmatched Security and Compliance for Modern Hospitality Operations with a Salesforce-Built… | BookingNinjas.com | [Read More](https://medium.com/p/b8d23f2be61a) |
-| Sun, 29 Jun 2025 14:11:50 GMT | How I Chained Four Bugs to Take Over Any Account on a Major FinTech Platform | CypherNova1337 | [Read More](https://medium.com/p/06832ad61a76) |
-| Sun, 29 Jun 2025 14:10:44 GMT | The Shadow AI Crisis: How 89% of Enterprise AI Tools Are Invisible to IT | Andrei Ivan | [Read More](https://medium.com/p/31b8978de649) |
-| Sun, 29 Jun 2025 14:07:26 GMT | CVE-2025–48432 - Django — Potential log injection via unescaped request path | Yunus Olçar | [Read More](https://medium.com/p/40663072216d) |
