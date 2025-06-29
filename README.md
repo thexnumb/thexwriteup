@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 07:11:20 GMT | Uncover Hidden Endpoints, Secrets and Vulnerabilities Buried Inside JavaScript Files | Monika sharma | [Read More](https://medium.com/p/ea965b43f969) |
+| Sun, 29 Jun 2025 07:10:42 GMT | PureVPN Honest Review: Is It Really Safe, Fast, and Worth It? | Satyam Pathania | [Read More](https://medium.com/p/e3119588da85) |
+| Sun, 29 Jun 2025 07:06:43 GMT | How to Find Logic Bugs That Slip Through Pentests? | Sle3pyHead ‍ | [Read More](https://medium.com/p/8178336388e4) |
+| Sun, 29 Jun 2025 07:01:54 GMT | The Silent Saboteur: Rethinking Solutions to Certificate Expiration in Software Engineering | Viktor Ponamarev | [Read More](https://medium.com/p/e3dbe0865286) |
+| Sun, 29 Jun 2025 06:54:59 GMT | Red Teaming and Penetration Testing: Use Cases, Differences & Benefits | Anamta Zehra | [Read More](https://medium.com/p/6b826ccb7b39) |
+| Sun, 29 Jun 2025 06:32:20 GMT | How We Cut Our AWS Bill by Forty Percent Without Slowing Down | Saikat Paul | [Read More](https://medium.com/p/b586fc7759ee) |
+| Sun, 29 Jun 2025 06:31:15 GMT | PenTesting Fundamentals: | Mohit Sharma | [Read More](https://medium.com/p/e19e94713f97) |
+| Sun, 29 Jun 2025 06:31:01 GMT | Some Things Heal Without Closure | Half Bloomed Diaries | [Read More](https://medium.com/p/534fa8165bce) |
 | Sun, 29 Jun 2025 06:26:12 GMT | Detecting LaZagne Module Using Atomic Red Team and Splunk | zal ef | [Read More](https://medium.com/p/102aa18b6609) |
 | Sun, 29 Jun 2025 06:21:33 GMT | Sıfırıncı Gün Açıkları (Zero-day Exploits): Siber Güvenliğin Görünmeyen Tehdidi | Ata Çalım | [Read More](https://medium.com/p/47718b6ae4be) |
 | Sun, 29 Jun 2025 06:07:29 GMT | {Lab} Investigating Windows | DT_Security | [Read More](https://medium.com/p/c279e13b3846) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Jun 2025 19:49:45 GMT | The Enemy Within: Defending Multi-Cloud Enterprises Against Insider Threats with HashiCorp Vault… | Alan Hamilton | [Read More](https://medium.com/p/239d3dad5707) |
 | Sat, 28 Jun 2025 19:40:00 GMT | Node.js Security Best Practices and Suggestions | Enes Tekin | [Read More](https://medium.com/p/edac44ba344d) |
 | Sat, 28 Jun 2025 19:15:06 GMT | Advanced IDOR Exploitation in 2025: A Practical Guide for Bug Bounty Hunters | Santhosh Adiga U | [Read More](https://medium.com/p/3e935cc938c3) |
-| Sat, 28 Jun 2025 19:12:46 GMT | Designing with AI in 2025: Genius Hack or Creative Suicide? | Prapti Suryavanshi | [Read More](https://medium.com/p/180f1ef66ba1) |
-| Sat, 28 Jun 2025 19:12:02 GMT | Industrial Intrusion — Task 15 TryHackMe CTF Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/ba64efc0181c) |
-| Sat, 28 Jun 2025 19:11:58 GMT | PORTSWIGGER LABS | Kajalbansal | [Read More](https://medium.com/p/e061422112c9) |
-| Sat, 28 Jun 2025 19:09:00 GMT | How I Exploited a Price Manipulation Vulnerability via Broken Checkout Logic | Aryaveer Singh Rathore | [Read More](https://medium.com/p/7a482eac1812) |
-| Sat, 28 Jun 2025 18:58:07 GMT | VULNERABILITY | Doc Klein | [Read More](https://medium.com/p/03fe7d467d4e) |
-| Sat, 28 Jun 2025 18:50:33 GMT | ❓Is Your Login Really Secure? Common Authentication Vulnerabilities | Madhu Kiran Ravula | [Read More](https://medium.com/p/9c466cf75c21) |
-| Sat, 28 Jun 2025 18:48:51 GMT | The Cheapest Security Safe is all You Need | Top Gear lab | [Read More](https://medium.com/p/66961c475bce) |
-| Sat, 28 Jun 2025 18:33:27 GMT | How GIFTEDCROOK Evolved into a High‑Stakes Intelligence Tool | Chetan Seripally | [Read More](https://medium.com/p/285cd782e633) |
