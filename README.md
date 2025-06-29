@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 16:51:12 GMT | Cross-Site Scripting with a Twist | Marco Nappi | [Read More](https://medium.com/p/b017d6c3a06b) |
+| Sun, 29 Jun 2025 16:49:46 GMT | Intermediate Lab Environment: Domain Joining | Abyss | [Read More](https://medium.com/p/68012509145e) |
+| Sun, 29 Jun 2025 16:46:08 GMT | The Telegram Crypto Guru Scam: How They Target Young Entrepreneurs. | The Anti-Scam Diaries | [Read More](https://medium.com/p/7f4d3d9d1cd9) |
 | Sun, 29 Jun 2025 16:40:16 GMT | Uploading Files to Firebase Storage & Storing Metadata in MongoDB | Gaurikhard | [Read More](https://medium.com/p/8d2add2d3fe5) |
 | Sun, 29 Jun 2025 16:37:27 GMT | ICMTC CTF 2025 | 0xheg3zy | [Read More](https://medium.com/p/4ce895a3c279) |
 | Sun, 29 Jun 2025 16:36:30 GMT | Apt 41 Unmasked: China’s Hybrid Cyber espionage Group | Ethan McKean | [Read More](https://medium.com/p/e97029cfd132) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 10:32:07 GMT | 5G Security Challenges and How to Overcome Them | Arpaliz | [Read More](https://medium.com/p/c42aa41ac0ec) |
 | Sun, 29 Jun 2025 10:31:51 GMT | ☠️ How I Broke into a Fintech Giant’s Core — And Landed in Their Hall of Fame  (after rejections… | Voldemort | [Read More](https://medium.com/p/1a91a269ab77) |
 | Sun, 29 Jun 2025 10:24:43 GMT | Bandit Tours & Travel — Where Your Journey Might Lead to Some Unexpected Pages | Shah kaif | [Read More](https://medium.com/p/d08edf8b7702) |
-| Sun, 29 Jun 2025 10:18:33 GMT | ️ ServMon HTB Walkthrough | Cakra Adhiningrat | [Read More](https://medium.com/p/acc07f03674a) |
-| Sun, 29 Jun 2025 10:17:56 GMT | Forensic Methodology for Identifying Timestamp Manipulation in Windows Systems: A Practical Case… | Elnur | [Read More](https://medium.com/p/1de359352a0a) |
-| Sun, 29 Jun 2025 10:06:19 GMT | Building a Defensive Security Program | Het | [Read More](https://medium.com/p/d5323ebd44fa) |
