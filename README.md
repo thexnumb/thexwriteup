@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 17:31:19 GMT | The Myth of “If We Log Everything, We’ll Understand Everything” | Yuksel | [Read More](https://medium.com/p/4794d09c230b) |
+| Sun, 29 Jun 2025 17:30:27 GMT | Cookies & Tokens — Session Management | Dipak Kr das | [Read More](https://medium.com/p/5cb1ea76bcb2) |
+| Sun, 29 Jun 2025 17:29:21 GMT | Risk Analysis of the Major Mobile Platforms | Ben Kofman | [Read More](https://medium.com/p/35004240baa2) |
+| Sun, 29 Jun 2025 17:28:46 GMT | Detection-as-Code: Building Systems, Not Just Rules | Harsh Mehta | [Read More](https://medium.com/p/e35d3acf40b1) |
+| Sun, 29 Jun 2025 17:27:42 GMT | Understanding Hackers: White Hat, Black Hat, and Grey Hat in Cybersecurity | Lisa Lusinga | [Read More](https://medium.com/p/b3dcd52831bb) |
+| Sun, 29 Jun 2025 17:26:48 GMT | Securing LiteLLM’s MCP Integration: Write Once, Secure Everywhere | Rick Hightower | [Read More](https://medium.com/p/ca7f42d6b656) |
+| Sun, 29 Jun 2025 17:19:35 GMT | Why wasn’t I enough for anyone—
+not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
+| Sun, 29 Jun 2025 17:17:44 GMT | Session Hijack on delfi.lt via Trusted Auth Flow — Rejected as MITM by YesWeHackdddd | Zhaenx | [Read More](https://medium.com/p/e9ca058f3ccc) |
+| Sun, 29 Jun 2025 17:15:57 GMT | LeHACK 2025 — Serial Gate | Les Pires Hat | [Read More](https://medium.com/p/7e5328639025) |
+| Sun, 29 Jun 2025 17:13:13 GMT | Through the Eyes of a SIEM: What Happens in 24 Hours? | Yuksel | [Read More](https://medium.com/p/6513d5a48f36) |
 | Sun, 29 Jun 2025 16:51:12 GMT | Cross-Site Scripting with a Twist | Marco Nappi | [Read More](https://medium.com/p/b017d6c3a06b) |
 | Sun, 29 Jun 2025 16:49:46 GMT | Intermediate Lab Environment: Domain Joining | Abyss | [Read More](https://medium.com/p/68012509145e) |
 | Sun, 29 Jun 2025 16:46:08 GMT | The Telegram Crypto Guru Scam: How They Target Young Entrepreneurs. | The Anti-Scam Diaries | [Read More](https://medium.com/p/7f4d3d9d1cd9) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 11:15:46 GMT | The Silence That Screams | Shivi Chaurasia | [Read More](https://medium.com/p/c0797275f470) |
 | Sun, 29 Jun 2025 11:15:12 GMT | Building My First Home Lab: OPNsense, Suricata, Wazuh, and Blue Team + Red Team Simulation | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/03fbb0d566a7) |
 | Sun, 29 Jun 2025 11:06:19 GMT | Golden SAML Attack Explained Practically | Paritosh | [Read More](https://medium.com/p/59a825942ce8) |
-| Sun, 29 Jun 2025 11:06:01 GMT | When AI Tools Became Malware Farmers — A Real Wake‑Up Call | Sneha Rani | [Read More](https://medium.com/p/21c9f36a6889) |
-| Sun, 29 Jun 2025 10:57:50 GMT | Navigating the AI-Driven Future of Cybersecurity in Europe | Jae7 | [Read More](https://medium.com/p/56d737184464) |
-| Sun, 29 Jun 2025 10:51:32 GMT | That Little Lock Icon Lied to You | Ngatz | [Read More](https://medium.com/p/f4c47e59c660) |
-| Sun, 29 Jun 2025 10:48:08 GMT | API Security: A Complete Guide for Developers | Jubaercoding | [Read More](https://medium.com/p/fbbb8f37fceb) |
-| Sun, 29 Jun 2025 10:47:14 GMT | The Beginner’s Guide to Cybersecurity: CIA Triad and Common Threats | Deepanshi Aggarwal | [Read More](https://medium.com/p/9f82e26e674b) |
-| Sun, 29 Jun 2025 10:46:23 GMT | Data Breaches Are Trending — Here’s What It Really Means for Your Business in 2025 | DefenceRabbit | [Read More](https://medium.com/p/8d47412e42d3) |
-| Sun, 29 Jun 2025 10:44:50 GMT | Top Ten Strategies for Securing WebSocket Connections in FastAPI | Hex Shift | [Read More](https://medium.com/p/170407af8d1f) |
-| Sun, 29 Jun 2025 10:32:07 GMT | 5G Security Challenges and How to Overcome Them | Arpaliz | [Read More](https://medium.com/p/c42aa41ac0ec) |
-| Sun, 29 Jun 2025 10:31:51 GMT | ☠️ How I Broke into a Fintech Giant’s Core — And Landed in Their Hall of Fame  (after rejections… | Voldemort | [Read More](https://medium.com/p/1a91a269ab77) |
-| Sun, 29 Jun 2025 10:24:43 GMT | Bandit Tours & Travel — Where Your Journey Might Lead to Some Unexpected Pages | Shah kaif | [Read More](https://medium.com/p/d08edf8b7702) |
