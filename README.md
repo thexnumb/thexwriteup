@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 21:11:52 GMT | Hijacking OAuth Tokens with Just an XSS Flaw | Ibtissam hammadi | [Read More](https://medium.com/p/e0365f2081d2) |
+| Sun, 29 Jun 2025 20:45:18 GMT | Investigating Windows Event Logs | Youssef Hossam | [Read More](https://medium.com/p/883ad3a91b59) |
 | Sun, 29 Jun 2025 20:38:29 GMT | From SQL Injection to RCE: My Hack The Box Assessment Walkthrough | Jabaribrown | [Read More](https://medium.com/p/9797f19fa8aa) |
+| Sun, 29 Jun 2025 20:35:10 GMT | Banking Cybersecurity: The Critical Role of Security Scanning and Assessment | Wanyoto Mark | [Read More](https://medium.com/p/07556a84e450) |
+| Sun, 29 Jun 2025 20:30:12 GMT | LLMs Enable Judgment: From Code Toward Consciousness | Jonathan Mugan | [Read More](https://medium.com/p/22b00dcd870c) |
 | Sun, 29 Jun 2025 20:14:31 GMT | Metasploit Framework: Remote Windows Exploitation Made Simple | Baker ssendagire | [Read More](https://medium.com/p/c7b023a7a0a0) |
 | Sun, 29 Jun 2025 20:12:58 GMT | the art of disappearing while still here. | Emmanuel Odunfa. | [Read More](https://medium.com/p/d80468894b9a) |
 | Sun, 29 Jun 2025 20:08:43 GMT | Feature Story: “AI Wars in Cyberspace — The New Frontline” | CapitalCoin | [Read More](https://medium.com/p/657dd3b869e0) |
@@ -110,7 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 14:11:50 GMT | How I Chained Four Bugs to Take Over Any Account on a Major FinTech Platform | CypherNova1337 | [Read More](https://medium.com/p/06832ad61a76) |
 | Sun, 29 Jun 2025 14:10:44 GMT | The Shadow AI Crisis: How 89% of Enterprise AI Tools Are Invisible to IT | Andrei Ivan | [Read More](https://medium.com/p/31b8978de649) |
 | Sun, 29 Jun 2025 14:07:26 GMT | CVE-2025–48432 - Django — Potential log injection via unescaped request path | Yunus Olçar | [Read More](https://medium.com/p/40663072216d) |
-| Sun, 29 Jun 2025 14:01:57 GMT | Punjab Police’s Major Cyber Sweep: Combating Online Child Exploitation | Hacker news 07 | [Read More](https://medium.com/p/f9ca83a843d6) |
-| Sun, 29 Jun 2025 13:53:51 GMT | AI & Cybersecurity: How AI Is Changing the Game | Hitesh Said | [Read More](https://medium.com/p/51fea0829235) |
-| Sun, 29 Jun 2025 13:51:57 GMT | Why Can’t You See How Good You Are? | PromiseOsas | [Read More](https://medium.com/p/1ae057122243) |
-| Sun, 29 Jun 2025 13:49:44 GMT | Proxy & Cybersecurity in Distributed Enterprise Networks: The Shield Behind the Middle Layer | Review Master 2 | [Read More](https://medium.com/p/d881342c0f9f) |
