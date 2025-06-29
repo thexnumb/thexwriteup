@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Jun 2025 14:07:26 GMT | CVE-2025–48432 - Django — Potential log injection via unescaped request path | Yunus Olçar | [Read More](https://medium.com/p/40663072216d) |
+| Sun, 29 Jun 2025 14:01:57 GMT | Punjab Police’s Major Cyber Sweep: Combating Online Child Exploitation | Hacker news 07 | [Read More](https://medium.com/p/f9ca83a843d6) |
+| Sun, 29 Jun 2025 13:53:51 GMT | AI & Cybersecurity: How AI Is Changing the Game | Hitesh Said | [Read More](https://medium.com/p/51fea0829235) |
+| Sun, 29 Jun 2025 13:51:57 GMT | Why Can’t You See How Good You Are? | PromiseOsas | [Read More](https://medium.com/p/1ae057122243) |
+| Sun, 29 Jun 2025 13:49:44 GMT | Proxy & Cybersecurity in Distributed Enterprise Networks: The Shield Behind the Middle Layer | Review Master 2 | [Read More](https://medium.com/p/d881342c0f9f) |
+| Sun, 29 Jun 2025 13:45:45 GMT | Open Connections: Interesting Dialogue With Myself This Morning… | Demi | [Read More](https://medium.com/p/dfbf1e364b5d) |
+| Sun, 29 Jun 2025 13:42:35 GMT | How a Leaky API Endpoint Led to Full PII Exposure on a Major Fintech Platform | CypherNova1337 | [Read More](https://medium.com/p/57e02ebe3e3e) |
+| Sun, 29 Jun 2025 13:39:17 GMT | Protecting Civilians Is Mutual Calculation | Mr. Unboxed陳知言 | [Read More](https://medium.com/p/13c47fee4a7c) |
+| Sun, 29 Jun 2025 13:34:39 GMT | You Are Like Air | Tami | [Read More](https://medium.com/p/338f46d87ff6) |
 | Sun, 29 Jun 2025 13:31:54 GMT | Quantum-Resistant Encryption Algorithms and Applications ⚛️ | Esra Kayhan | [Read More](https://medium.com/p/47d9b03b6316) |
 | Sun, 29 Jun 2025 13:29:18 GMT | Kerbrosting Practical Demonstration--Attacking AD--Active Directory Pentesting--2025--Part 14 | Muhammadhuzaifa | [Read More](https://medium.com/p/904e4feecbb1) |
 | Sun, 29 Jun 2025 13:28:22 GMT | ️ How We’re Using Voice AI to Fix Check-In and Check-Out Security in Our Estate | Kingsley Izundu | [Read More](https://medium.com/p/8022c16ad5bc) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 07:01:54 GMT | The Silent Saboteur: Rethinking Solutions to Certificate Expiration in Software Engineering | Viktor Ponamarev | [Read More](https://medium.com/p/e3dbe0865286) |
 | Sun, 29 Jun 2025 06:54:59 GMT | Red Teaming and Penetration Testing: Use Cases, Differences & Benefits | Anamta Zehra | [Read More](https://medium.com/p/6b826ccb7b39) |
 | Sun, 29 Jun 2025 06:32:20 GMT | How We Cut Our AWS Bill by Forty Percent Without Slowing Down | Saikat Paul | [Read More](https://medium.com/p/b586fc7759ee) |
-| Sun, 29 Jun 2025 06:31:15 GMT | PenTesting Fundamentals: | Mohit Sharma | [Read More](https://medium.com/p/e19e94713f97) |
-| Sun, 29 Jun 2025 06:31:01 GMT | Some Things Heal Without Closure | Half Bloomed Diaries | [Read More](https://medium.com/p/534fa8165bce) |
-| Sun, 29 Jun 2025 06:26:12 GMT | Detecting LaZagne Module Using Atomic Red Team and Splunk | zal ef | [Read More](https://medium.com/p/102aa18b6609) |
-| Sun, 29 Jun 2025 06:21:33 GMT | Sıfırıncı Gün Açıkları (Zero-day Exploits): Siber Güvenliğin Görünmeyen Tehdidi | Ata Çalım | [Read More](https://medium.com/p/47718b6ae4be) |
-| Sun, 29 Jun 2025 06:07:29 GMT | {Lab} Investigating Windows | DT_Security | [Read More](https://medium.com/p/c279e13b3846) |
-| Sun, 29 Jun 2025 06:03:02 GMT | The Fundamentals of Cyber Security | DarKVoicE | [Read More](https://medium.com/p/e35d2ebc9cb3) |
-| Sun, 29 Jun 2025 05:54:26 GMT | Top Cybersecurity Threats in an AI-Driven World: How to Stay Safe in 2025 | HM Awshaf | [Read More](https://medium.com/p/45199a0a5c7b) |
-| Sun, 29 Jun 2025 05:53:12 GMT | DNS Rebinding Attack in Symfony: How to Stay Secure | Pentest_Testing_Corp | [Read More](https://medium.com/p/18d32e2ce61a) |
-| Sun, 29 Jun 2025 05:43:53 GMT | “The Illusion of 100% Recon — Why Most Hackers Miss What Really Matters” | Đeepanshu | [Read More](https://medium.com/p/3e832da2ae02) |
