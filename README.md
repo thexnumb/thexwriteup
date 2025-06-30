@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 05:08:10 GMT | Portswigger Web Security Academy - Logic Flaws Lab #1 | BooRuleDie | [Read More](https://medium.com/p/045baf20a053) |
+| Mon, 30 Jun 2025 05:08:03 GMT | Python, Software Development, and Tools — Digest #36 | Denys Volokh | [Read More](https://medium.com/p/010d60fd2bba) |
+| Mon, 30 Jun 2025 05:07:41 GMT | Twenty Awesome Docker Images Every Cybersecurity Engineer Needs on Their Radar in 2025 | Saikat Paul | [Read More](https://medium.com/p/aba9ba32543d) |
+| Mon, 30 Jun 2025 05:07:01 GMT | SD-WAN for NGFW by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/51cd53bd7149) |
+| Mon, 30 Jun 2025 05:06:02 GMT | Hardening EKS Pods with PSS, PSA, and CloudWatch Automated Alerts | Zs Robert | [Read More](https://medium.com/p/4ba8e1ce0f90) |
+| Mon, 30 Jun 2025 05:02:16 GMT | Win the Game of Work — Housekeeping & Security | EXLITY | [Read More](https://medium.com/p/c0c98f3e7700) |
+| Mon, 30 Jun 2025 04:58:05 GMT | Unlocking E‑commerce Growth: Why You Need an Amazon Specialist | Digitalrayz | [Read More](https://medium.com/p/9eb7027e307b) |
+| Mon, 30 Jun 2025 04:54:20 GMT | Strengthening Digital Defenses with AI Cybersecurity Solutions | Benjaminanderson | [Read More](https://medium.com/p/c0f2fadc179a) |
+| Mon, 30 Jun 2025 04:52:37 GMT | Why Compliance‑First Thinking Should Be Built into Every Product Lifecycle | Cyril Ajayi | [Read More](https://medium.com/p/aafcc369d11e) |
 | Mon, 30 Jun 2025 04:51:23 GMT | From SOC Analyst to Cybersecurity Innovator: A Conversation with Dennis Muchiri | James Gitau | [Read More](https://medium.com/p/75c01a792e44) |
 | Mon, 30 Jun 2025 04:46:54 GMT | ACM Developers Digest #2 | ACM MITB | [Read More](https://medium.com/p/96aa2c3cd538) |
 | Mon, 30 Jun 2025 04:46:49 GMT | Don’t Chase Cybersecurity for a Quick Six-Figure Paycheck. | Sampson Jonny | [Read More](https://medium.com/p/45026646e59b) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 18:18:04 GMT | LNK file Attack --AD Pentesting --Responder --2025 --Part 16 | Muhammadhuzaifa | [Read More](https://medium.com/p/c3c7d0855acc) |
 | Sun, 29 Jun 2025 18:13:29 GMT | Getting Started with XSS: A Hacker’s First Web Exploit | err0rgod | [Read More](https://medium.com/p/cea8df7ac79b) |
 | Sun, 29 Jun 2025 18:13:24 GMT | Triple Trouble: Bypassing Sanitization to Steal Microsoft Tokens | Asem Eleraky | [Read More](https://medium.com/p/d89a68be7ab2) |
-| Sun, 29 Jun 2025 18:10:46 GMT | XSS Attacks Simplified | Amna Anjum Jawaid | [Read More](https://medium.com/p/5d3b7598a30f) |
-| Sun, 29 Jun 2025 18:10:21 GMT | Fluffy HTB Walkthrough | Ibrahim Isiaq Bolaji | [Read More](https://medium.com/p/fc32ea2b6e4f) |
-| Sun, 29 Jun 2025 18:04:30 GMT | I Couldn’t Think Like a Hacker — Until I Did This One Thing | Cyber Howler | [Read More](https://medium.com/p/971a7740dd09) |
-| Sun, 29 Jun 2025 18:03:52 GMT | Aren’t we all Demons? 
-Deep Inside — Our Fragile, quiet, frightened Guilty Younger Self!!! | Nabiie Writes | [Read More](https://medium.com/p/ca130472d9b3) |
-| Sun, 29 Jun 2025 17:57:20 GMT | The Cybersecurity Fallout of Federal Cuts: Why Secure AI Adoption Must Fill the Gap | Avnishyam | [Read More](https://medium.com/p/7a80224b468f) |
-| Sun, 29 Jun 2025 17:55:05 GMT | ️ Web3 Security Weekly — June 23–29, 2025 | Null Return | [Read More](https://medium.com/p/0bf956b74afe) |
-| Sun, 29 Jun 2025 17:49:24 GMT | Cybersecurity in Flight | Inforsecpro | [Read More](https://medium.com/p/c7a7e553ace2) |
-| Sun, 29 Jun 2025 17:31:19 GMT | The Myth of “If We Log Everything, We’ll Understand Everything” | Yuksel | [Read More](https://medium.com/p/4794d09c230b) |
-| Sun, 29 Jun 2025 17:30:27 GMT | Cookies & Tokens — Session Management | Dipak Kr das | [Read More](https://medium.com/p/5cb1ea76bcb2) |
