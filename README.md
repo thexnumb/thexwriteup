@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 08:23:56 GMT | Getting Hammered by Bots? Rate Limit Your API Before It’s Too Late | Quella | [Read More](https://medium.com/p/07ba81bf81b3) |
+| Mon, 30 Jun 2025 08:17:18 GMT | TOols : WiFiTe ⁉️✅️ | MlD ELF | [Read More](https://medium.com/p/9aa5272ad36e) |
+| Mon, 30 Jun 2025 08:16:48 GMT | The Cybersecurity Books Hackers Don’t Want You to Read | Aj | [Read More](https://medium.com/p/c1ea4a142ec5) |
+| Mon, 30 Jun 2025 08:02:11 GMT | How to Block HTTP Flood DDoS Attacks with a WAF | AerieWhole123 | [Read More](https://medium.com/p/0622a1c66a49) |
+| Mon, 30 Jun 2025 08:02:01 GMT | Real life Email  investigation | Augustine Sito | [Read More](https://medium.com/p/bc620475d7ed) |
+| Mon, 30 Jun 2025 07:54:52 GMT | Thompson TryHackMe Walkthrough | Sondip Roy | [Read More](https://medium.com/p/db7a7aefbe42) |
+| Mon, 30 Jun 2025 07:51:22 GMT | Why I Always Start With Manual Testing in Bug Bounties — And Why You Should Too | Andrei Ivan | [Read More](https://medium.com/p/5cd2725d7667) |
+| Mon, 30 Jun 2025 07:50:59 GMT | Defend Your Business with Cisco Firewalls by Inexa Technology | Inexa Technology | [Read More](https://medium.com/p/98532a067047) |
+| Mon, 30 Jun 2025 07:50:23 GMT | ประจำวันจันทร์ที่ 30 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cbfb618ea42e) |
+| Mon, 30 Jun 2025 07:47:18 GMT | $250 Bounty: Privilege Escalation in Acronis via System Clean-up Directory Junction Trick | Monika sharma | [Read More](https://medium.com/p/f8ab338a6744) |
+| Mon, 30 Jun 2025 07:46:46 GMT | CVE-2025–49144: Notepad++ vulnerability allows full system compromise | Om Maniya | [Read More](https://medium.com/p/17944dc3fc2b) |
+| Mon, 30 Jun 2025 07:46:34 GMT | I Automated Recon and Found 100+ Bugs | Ibtissam hammadi | [Read More](https://medium.com/p/a6c68b6360eb) |
+| Mon, 30 Jun 2025 07:44:30 GMT | How to Find Your First XSS Bug in 24 Hours — Guaranteed! | Vipul Sonule | [Read More](https://medium.com/p/bbbe8bdb475d) |
+| Mon, 30 Jun 2025 07:44:08 GMT | Advanced Gau + Waybackurls Filtering for Sensitive Files | Monika sharma | [Read More](https://medium.com/p/c8273cbd4b57) |
+| Mon, 30 Jun 2025 07:42:49 GMT | The Scope Trap: How Most Hackers Miss the Best Bugs Without Even Realizing It | Đeepanshu | [Read More](https://medium.com/p/4db55da078ab) |
 | Mon, 30 Jun 2025 07:41:59 GMT | Forget the complicated guides: running local LLMs is easier than you think | Y Consulting | [Read More](https://medium.com/p/894d36420c78) |
 | Mon, 30 Jun 2025 07:41:08 GMT | Today’s Top Cyber Intelligence Highlights — Jun 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5de510ff778f) |
 | Mon, 30 Jun 2025 07:37:22 GMT | Roundcube: CVE-2025–49113 - TryHackMe | Priyansh | [Read More](https://medium.com/p/cd0c74c7045a) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 00:40:31 GMT | Crack Elastic’s $10,000 Bounty: RCE Risk in Chromium Reporting | Monika sharma | [Read More](https://medium.com/p/6ac57b8f928d) |
 | Mon, 30 Jun 2025 00:38:11 GMT | Burp + Logger Setup to Uncover Hidden Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/bfb4dcfe1943) |
 | Mon, 30 Jun 2025 00:36:38 GMT | Free Tools & Frameworks For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/027e057b9d0d) |
-| Mon, 30 Jun 2025 00:35:49 GMT | WebShell Threat Hunting using FOFA | AbhirupKonwar | [Read More](https://medium.com/p/787e47c09360) |
-| Mon, 30 Jun 2025 00:31:53 GMT | The Microkernel Advantage: GNU Hurd’s Revolutionary Operating System Design | ThamizhElango Natarajan | [Read More](https://medium.com/p/1d06a673c77c) |
-| Mon, 30 Jun 2025 00:31:47 GMT | Hidden in the Noise: How to Tweak Dirbuster, Gobuster & FFUF Wordlists for Better Hits | Monika sharma | [Read More](https://medium.com/p/c47d572141d5) |
-| Mon, 30 Jun 2025 00:31:15 GMT | $1,160 Bounty: Unveiling GitLab’s IDOR Flaw | Monika sharma | [Read More](https://medium.com/p/248cc766fd1b) |
-| Mon, 30 Jun 2025 00:11:36 GMT | The Quantum Apocalypse Congress Just Discovered | The Daily Reflection | [Read More](https://medium.com/p/a2954ad2a453) |
-| Mon, 30 Jun 2025 00:01:04 GMT | How to Tell If a Man Truly Loves You: The Childlike Sign | Lucas Brown | [Read More](https://medium.com/p/780cd10e8bb0) |
-| Mon, 30 Jun 2025 00:01:01 GMT | Secret of the Polyglot | Aahan Patil | [Read More](https://medium.com/p/36517fd5a1df) |
-| Sun, 29 Jun 2025 23:54:18 GMT | Security in the Age of Agentic AI: A Systems Perspective (Part 1) | Kristin Dahl | [Read More](https://medium.com/p/2b04c4803fcb) |
-| Sun, 29 Jun 2025 23:48:53 GMT | Dmail: The Next Evolution of Email — Private, On-Chain, and Rewarding | Web3Sunshine | [Read More](https://medium.com/p/88295341c48a) |
-| Sun, 29 Jun 2025 23:17:53 GMT | “Be Vulnerable” Didn’t Seem Like Good Relationship Advice | Katya Koval | [Read More](https://medium.com/p/130d47b76dd8) |
-| Sun, 29 Jun 2025 23:01:55 GMT | LetsDefend — Kernel Exploit Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/87713cfdc365) |
-| Sun, 29 Jun 2025 22:32:42 GMT | BLUE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/db9fb18b63e2) |
-| Sun, 29 Jun 2025 22:32:29 GMT | /bare/ | Chinaza Osegbo ۶ৎ | [Read More](https://medium.com/p/e01e4fba79cf) |
-| Sun, 29 Jun 2025 22:16:42 GMT | The Ultimate SIEM Configuration Guide for Blue Teamers | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fe6da5615301) |
-| Sun, 29 Jun 2025 22:04:45 GMT | Time to start using my Medium subscription. Time to start blogging again. | Ramadji A. Doumnandé | [Read More](https://medium.com/p/ccb338504f4f) |
