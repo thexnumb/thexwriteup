@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 13:30:25 GMT | STAY SAFE ONLINE | Tech baddie | [Read More](https://medium.com/p/fbc3f67fca3a) |
+| Mon, 30 Jun 2025 13:18:24 GMT | Instalasi DVWA (Damn Vulnerable Web Application) pada Ubuntu 24.04.2 | Seftidinata | [Read More](https://medium.com/p/a35ac07ec475) |
+| Mon, 30 Jun 2025 13:17:01 GMT | Part 4: Kubernetes Hardening — Fortify the Cluster | DiPAK KNVDL | [Read More](https://medium.com/p/c30ab9b48f26) |
+| Mon, 30 Jun 2025 13:15:25 GMT | TryHackMe 5 Pratik Oda | Bugraeren | [Read More](https://medium.com/p/e45e272a4875) |
+| Mon, 30 Jun 2025 13:06:13 GMT | Hacker Screen Builder | Pavel Bernshtam | [Read More](https://medium.com/p/29ef8700ee14) |
+| Mon, 30 Jun 2025 13:06:09 GMT | 21 AI tools to future-proof your GTM strategy | Generative AI | [Read More](https://medium.com/p/f68e40ccd435) |
+| Mon, 30 Jun 2025 13:05:11 GMT | The Air-Gapped Apocalypse Machine, Reloaded | Chuck Russell | [Read More](https://medium.com/p/5ca95e6fd3e7) |
+| Mon, 30 Jun 2025 13:03:50 GMT | Integratig K8SGPT with prometheus for Observability & Slack for notifications | Purushotham Reddy | [Read More](https://medium.com/p/f6fe88cccc54) |
+| Mon, 30 Jun 2025 13:03:17 GMT | Testing out some PowerShell commands for checking on the status of optional features, verifying if… | Tyrik Emptage | [Read More](https://medium.com/p/6b5ca221e703) |
+| Mon, 30 Jun 2025 13:01:38 GMT | Inside The Romance Scam Playbook: 5 Tricks Scammers Always Use. | The Anti-Scam Diaries | [Read More](https://medium.com/p/e5eba8dedde6) |
+| Mon, 30 Jun 2025 12:56:16 GMT | How I Hacked My Own Wi-Fi (Legally) to Learn Cybersecurity the Hard Way | Sumit Shaw | [Read More](https://medium.com/p/c3e137733922) |
+| Mon, 30 Jun 2025 12:55:54 GMT | Vanished into Thin Air: The Skyjacker Who Escaped with $200,000 and Was Never Found | Shannon Arrington | [Read More](https://medium.com/p/a0ae0f7c040d) |
+| Mon, 30 Jun 2025 12:55:39 GMT | A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense… | YouShin kim | [Read More](https://medium.com/p/f97d57f8868c) |
+| Mon, 30 Jun 2025 12:55:27 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/ce2d165df787) |
+| Mon, 30 Jun 2025 12:55:18 GMT | Finding the Needle in a Haystack: How My Passive Recon Led to an Acknowledgment from ICEGATE (CBIC… | Uday | [Read More](https://medium.com/p/fffd016df4ea) |
+| Mon, 30 Jun 2025 12:54:57 GMT | The Dark Side of AI No One’s Talking About | TheReviewHive | [Read More](https://medium.com/p/d05ec623310a) |
 | Mon, 30 Jun 2025 12:35:12 GMT | BCA in cloud TechnpoHow BCA Cloud Technology and Information Security Is Shaping Tomorrow’s… | Aashi | [Read More](https://medium.com/p/196141c596d1) |
 | Mon, 30 Jun 2025 12:31:31 GMT | Why Most Security Awareness Training Is Actually Making You Less Secure | Eric Zietlow | [Read More](https://medium.com/p/5f4770d8f4e0) |
 | Mon, 30 Jun 2025 12:29:27 GMT | Smarter, Safer Web3: The Role of AI in Blockchain Security | ICODA Agency | [Read More](https://medium.com/p/e4c77482b392) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 08:52:06 GMT | The Daily Tech Digest: 30 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/86ae399c5462) |
 | Mon, 30 Jun 2025 08:50:45 GMT | Mengenal Server-Side Template Injection (SSTI): Ancaman Tersembunyi di Balik Template Web | Malbaralamsyah | [Read More](https://medium.com/p/c8d4e22f13da) |
 | Mon, 30 Jun 2025 08:50:26 GMT | Scope of Cybersecurity in Nepal | Softwarica College | [Read More](https://medium.com/p/9f3c16ab3eb5) |
-| Mon, 30 Jun 2025 08:50:22 GMT | Agentic AI Security: When Autonomous Agents Go Rogue (Real Attack Vectors and Defenses) | Andrei Ivan | [Read More](https://medium.com/p/b3f5bef05938) |
-| Mon, 30 Jun 2025 08:49:24 GMT | The CTI Dispatch: Weekly Cyber Threat Intelligence Report | Uddip Ranjan Das | [Read More](https://medium.com/p/7b2f10e65e47) |
-| Mon, 30 Jun 2025 08:46:43 GMT | Taxing Dreams: Why Section 174 is the Technological BuzzKill of Innovation | Namir Sagheenanajar | [Read More](https://medium.com/p/4d3f98f0e039) |
-| Mon, 30 Jun 2025 08:41:17 GMT | What Is Information Security Management? | Dhanashri Bhale | [Read More](https://medium.com/p/ca27beec8ea0) |
-| Mon, 30 Jun 2025 08:35:55 GMT | Integrating Wazuh with Microsoft Entra ID: A Step‑by‑Step Guide | De@d$ec | [Read More](https://medium.com/p/0e13cdc57c59) |
-| Mon, 30 Jun 2025 08:34:34 GMT | AI Cybersecurity Awareness: Top Priority For Organizations and Security Teams | noailabs | [Read More](https://medium.com/p/2e64fb868845) |
-| Mon, 30 Jun 2025 08:23:56 GMT | Getting Hammered by Bots? Rate Limit Your API Before It’s Too Late | Quella | [Read More](https://medium.com/p/07ba81bf81b3) |
-| Mon, 30 Jun 2025 08:18:55 GMT | Even the Strongest Need Holding | The Other Draft | [Read More](https://medium.com/p/9b9901cc837f) |
-| Mon, 30 Jun 2025 08:17:18 GMT | TOols : WiFiTe ⁉️✅️ | MlD ELF | [Read More](https://medium.com/p/9aa5272ad36e) |
-| Mon, 30 Jun 2025 08:16:48 GMT | The Cybersecurity Books Hackers Don’t Want You to Read | Aj | [Read More](https://medium.com/p/c1ea4a142ec5) |
-| Mon, 30 Jun 2025 08:02:11 GMT | How to Block HTTP Flood DDoS Attacks with a WAF | AerieWhole123 | [Read More](https://medium.com/p/0622a1c66a49) |
-| Mon, 30 Jun 2025 08:02:01 GMT | Real life Email  investigation | Augustine Sito | [Read More](https://medium.com/p/bc620475d7ed) |
-| Mon, 30 Jun 2025 07:54:52 GMT | Thompson TryHackMe Walkthrough | Sondip Roy | [Read More](https://medium.com/p/db7a7aefbe42) |
-| Mon, 30 Jun 2025 07:51:22 GMT | Why I Always Start With Manual Testing in Bug Bounties — And Why You Should Too | Andrei Ivan | [Read More](https://medium.com/p/5cd2725d7667) |
-| Mon, 30 Jun 2025 07:50:59 GMT | Defend Your Business with Cisco Firewalls by Inexa Technology | Inexa Technology | [Read More](https://medium.com/p/98532a067047) |
-| Mon, 30 Jun 2025 07:50:23 GMT | ประจำวันจันทร์ที่ 30 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cbfb618ea42e) |
