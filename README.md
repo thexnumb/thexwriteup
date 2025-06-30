@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 09:11:29 GMT | I Let Hackers Attack My Smart Home for a Week — Here’s What They Stole | Aj | [Read More](https://medium.com/p/f4c7295b71b3) |
+| Mon, 30 Jun 2025 09:08:21 GMT | Best Ethical Hacking Training in Noida - Ducat India | Namanv225@gmail.com | [Read More](https://medium.com/p/be3282eed9db) |
+| Mon, 30 Jun 2025 09:08:07 GMT | Best Ethical Hacking Training in Noida - Ducat India | Vijay yadav | [Read More](https://medium.com/p/125c2ffba5df) |
+| Mon, 30 Jun 2025 09:07:30 GMT | Best Ethical Hacking Training in Noida - Ducat India | Nikki | [Read More](https://medium.com/p/b27dd3cc0355) |
+| Mon, 30 Jun 2025 09:07:28 GMT | Best Ethical Hacking Training in Noida - Ducat India | Farzan Ali | [Read More](https://medium.com/p/c2e161a35635) |
+| Mon, 30 Jun 2025 09:07:24 GMT | Best Ethical Hacking Training in Noida - Ducat India | 2pmDucat Batch | [Read More](https://medium.com/p/8d24eda07433) |
+| Mon, 30 Jun 2025 09:04:41 GMT | Ethical AI for LLM Builders: What I Learnt (and Now Won’t Ignore) | Madhan Karthik Ramasamy | [Read More](https://medium.com/p/cf4eeadac1c6) |
+| Mon, 30 Jun 2025 09:01:59 GMT | The Scariest Threat in Cybersecurity? It Might Be the Person Sitting Next to You | Gertrude Abagale | [Read More](https://medium.com/p/d93e001b096d) |
+| Mon, 30 Jun 2025 09:01:59 GMT | DevSecOps in Action: Preventing Hacking from Code to Production | DiPAK KNVDL | [Read More](https://medium.com/p/0beb11aad93d) |
+| Mon, 30 Jun 2025 08:52:06 GMT | The Daily Tech Digest: 30 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/86ae399c5462) |
+| Mon, 30 Jun 2025 08:50:45 GMT | Mengenal Server-Side Template Injection (SSTI): Ancaman Tersembunyi di Balik Template Web | Malbaralamsyah | [Read More](https://medium.com/p/c8d4e22f13da) |
+| Mon, 30 Jun 2025 08:50:26 GMT | Scope of Cybersecurity in Nepal | Softwarica College | [Read More](https://medium.com/p/9f3c16ab3eb5) |
+| Mon, 30 Jun 2025 08:50:22 GMT | Agentic AI Security: When Autonomous Agents Go Rogue (Real Attack Vectors and Defenses) | Andrei Ivan | [Read More](https://medium.com/p/b3f5bef05938) |
+| Mon, 30 Jun 2025 08:49:24 GMT | The CTI Dispatch: Weekly Cyber Threat Intelligence Report | Uddip Ranjan Das | [Read More](https://medium.com/p/7b2f10e65e47) |
+| Mon, 30 Jun 2025 08:46:43 GMT | Taxing Dreams: Why Section 174 is the Technological BuzzKill of Innovation | Namir Sagheenanajar | [Read More](https://medium.com/p/4d3f98f0e039) |
+| Mon, 30 Jun 2025 08:41:17 GMT | What Is Information Security Management? | Dhanashri Bhale | [Read More](https://medium.com/p/ca27beec8ea0) |
+| Mon, 30 Jun 2025 08:35:55 GMT | Integrating Wazuh with Microsoft Entra ID: A Step‑by‑Step Guide | De@d$ec | [Read More](https://medium.com/p/0e13cdc57c59) |
+| Mon, 30 Jun 2025 08:34:34 GMT | AI Cybersecurity Awareness: Top Priority For Organizations and Security Teams | noailabs | [Read More](https://medium.com/p/2e64fb868845) |
 | Mon, 30 Jun 2025 08:23:56 GMT | Getting Hammered by Bots? Rate Limit Your API Before It’s Too Late | Quella | [Read More](https://medium.com/p/07ba81bf81b3) |
+| Mon, 30 Jun 2025 08:18:55 GMT | Even the Strongest Need Holding | The Other Draft | [Read More](https://medium.com/p/9b9901cc837f) |
 | Mon, 30 Jun 2025 08:17:18 GMT | TOols : WiFiTe ⁉️✅️ | MlD ELF | [Read More](https://medium.com/p/9aa5272ad36e) |
 | Mon, 30 Jun 2025 08:16:48 GMT | The Cybersecurity Books Hackers Don’t Want You to Read | Aj | [Read More](https://medium.com/p/c1ea4a142ec5) |
 | Mon, 30 Jun 2025 08:02:11 GMT | How to Block HTTP Flood DDoS Attacks with a WAF | AerieWhole123 | [Read More](https://medium.com/p/0622a1c66a49) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 04:24:23 GMT | Hack The Safe: Prompt Injection CTF Walkthrough from Cyber Security Summit Thailand 2025 | Jormungandr | [Read More](https://medium.com/p/af3840737917) |
 | Mon, 30 Jun 2025 04:22:48 GMT | Mastering Idle Resource Cleanup in Azure and GCP | Saikat Paul | [Read More](https://medium.com/p/b7375ffa78d5) |
 | Mon, 30 Jun 2025 04:21:52 GMT | Why State‑Sponsored AI Cyberattacks from Iran Could Be Your Next Big Threat | Sneha Rani | [Read More](https://medium.com/p/1d23538dc9c8) |
-| Mon, 30 Jun 2025 04:12:43 GMT | Winning the Heart of a Middle-Aged Woman: Two Essential Things | Tess Jenner | [Read More](https://medium.com/p/bd3827bb0001) |
-| Mon, 30 Jun 2025 03:59:05 GMT | ️ Guardians of the Grid: Why Cybersecurity Is the New Frontline of Our Digital Lives | Ctrl Shift | [Read More](https://medium.com/p/18150e02852a) |
-| Mon, 30 Jun 2025 03:44:31 GMT | The Shadow in the Feed: A Deceptive Facebook Persona Possibly Tied to the Son of Sam Case | Criminal Justice Chris | [Read More](https://medium.com/p/6de760c7d9fa) |
-| Mon, 30 Jun 2025 03:31:55 GMT | The Great Certificate Shortening: Is Your Website Ready for the 47-Day SSL/TLS Lifespan? | Deven Chhajed | [Read More](https://medium.com/p/c4c0ad1819df) |
-| Mon, 30 Jun 2025 03:24:49 GMT | What a Memory Dump Can Reveal About You (And Why You Should Care) | Varnith | [Read More](https://medium.com/p/5414d45eca20) |
-| Mon, 30 Jun 2025 03:03:18 GMT | New Idea for Your Project with AI: Smart Webcam Toggle Using Scikit-Learn | Bloodaientity | [Read More](https://medium.com/p/613afb7e8a6b) |
-| Mon, 30 Jun 2025 02:48:55 GMT | Secure TCP Communication in C — Part 1: Building the Encrypted Backdoor Server (RSA + AES). | Rafael Medeiros | [Read More](https://medium.com/p/893f3d063f41) |
-| Mon, 30 Jun 2025 02:32:31 GMT | 防御核心：如何保障大规模向量数据库的安全 | Carlos Martínez | [Read More](https://medium.com/p/9a02757c3216) |
-| Mon, 30 Jun 2025 02:21:52 GMT | Why Printer Vulnerabilities Are a Serious Business Risk | Cyberoptic Security | [Read More](https://medium.com/p/ba09bdd7ee22) |
-| Mon, 30 Jun 2025 01:32:43 GMT | ️ So… I Made a Server Call Me Back. Unauthenticated SSRF via XML-RPC | AIwolfie | [Read More](https://medium.com/p/8116c9f0fbba) |
-| Mon, 30 Jun 2025 01:32:05 GMT | Building a Personal Finance Management App: Secure API Authentication — A Practical Guide | George Zefkilis | [Read More](https://medium.com/p/e9d936b6982b) |
-| Mon, 30 Jun 2025 01:31:17 GMT | The Iran and the Catalyst of Global South | Arrozaq Ave | [Read More](https://medium.com/p/71a9e5ad6940) |
-| Mon, 30 Jun 2025 01:18:43 GMT | Advanced CSRF Mitigation Strategy: Randomized Header Channel using Pattern Dispersion | Fernando Flores Alvarado | [Read More](https://medium.com/p/20d54b1d4c6e) |
-| Mon, 30 Jun 2025 01:01:47 GMT | ASN, IP Ranges, and Subdomains: The Trinity of Advanced Recon! | Tenebris Venator | [Read More](https://medium.com/p/8ef9d368f6be) |
-| Mon, 30 Jun 2025 00:47:09 GMT | How I setup my VPS servers | KleskBY | [Read More](https://medium.com/p/3d09b3232702) |
-| Mon, 30 Jun 2025 00:46:47 GMT | Snort Challenge — The Basics - THM | Isiah | [Read More](https://medium.com/p/e67b8bad4138) |
-| Mon, 30 Jun 2025 00:40:31 GMT | Crack Elastic’s $10,000 Bounty: RCE Risk in Chromium Reporting | Monika sharma | [Read More](https://medium.com/p/6ac57b8f928d) |
-| Mon, 30 Jun 2025 00:38:11 GMT | Burp + Logger Setup to Uncover Hidden Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/bfb4dcfe1943) |
-| Mon, 30 Jun 2025 00:36:38 GMT | Free Tools & Frameworks For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/027e057b9d0d) |
