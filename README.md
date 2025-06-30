@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 23:15:56 GMT | VulnNet-Roasted (PT1-Recommended Room) | MR-X.Security | [Read More](https://medium.com/p/266321bc5d53) |
+| Mon, 30 Jun 2025 22:50:27 GMT | How I Forged a Facebook JWT to Impersonate Any User on Wit.ai (No Secret Verification) | Ramzy Bouyahya | [Read More](https://medium.com/p/0d1d5e81b88b) |
 | Mon, 30 Jun 2025 22:17:13 GMT | OAuth Misconfigurations: Real-World Examples and Exploitation Tips | Karthikeyan Nagaraj | [Read More](https://medium.com/p/86a8d0ab6296) |
 | Mon, 30 Jun 2025 22:14:23 GMT | Hack The System — NeoVault | محمد بن إبراهيم | [Read More](https://medium.com/p/722200c98dad) |
 | Mon, 30 Jun 2025 22:10:13 GMT | AI Prompt Caching for Context Engineering: Optimizing OPEX and User Experience | Michael Rico | [Read More](https://medium.com/p/48b3aef12f52) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 17:12:30 GMT | 20 Financial Crimes Dominating the UK in 2025 | Lookattheant | [Read More](https://medium.com/p/cfaafe64054a) |
 | Mon, 30 Jun 2025 16:57:41 GMT | Social Engineering Vectors in a Digitally Secured World | Badaolaitan | [Read More](https://medium.com/p/ace5fe81cd96) |
 | Mon, 30 Jun 2025 16:57:11 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/ee707b13cd7e) |
-| Mon, 30 Jun 2025 16:55:10 GMT | Army Approves Relocation of Esplanade Bus Stand: A New Chapter in Kolkata’s Urban Planning | Samrat Bhattacharya | [Read More](https://medium.com/p/c80c50f84cec) |
-| Mon, 30 Jun 2025 16:53:20 GMT | Hack The System — JinjaCare | محمد بن إبراهيم | [Read More](https://medium.com/p/606a33e60e28) |
