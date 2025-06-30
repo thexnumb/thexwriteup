@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 20:56:34 GMT | Top Ten Security Practices for Phoenix Developers | Hex Shift | [Read More](https://medium.com/p/7df1f9e7d9f2) |
+| Mon, 30 Jun 2025 20:51:14 GMT | The Smart Fridge, The Love Scam, And The Retired Spy From Lagos | O. J. Okpabi | [Read More](https://medium.com/p/9926205c749d) |
+| Mon, 30 Jun 2025 20:46:21 GMT | The Kid Who Hacked His Way Into A Scholarship Without Stealing A Thing | O. J. Okpabi | [Read More](https://medium.com/p/a8062fc929c2) |
+| Mon, 30 Jun 2025 20:46:01 GMT | AI Security Crisis in 2025: Generative AI Is Backfiring — and Hackers Are Winning | Methuselah Misati | [Read More](https://medium.com/p/011ce24e9ce0) |
+| Mon, 30 Jun 2025 20:44:04 GMT | Your Smartphone Could Be Leaking Your Login Details Right Now | Akshay Chauhan | [Read More](https://medium.com/p/06f2ded24036) |
+| Mon, 30 Jun 2025 20:43:23 GMT | Windows API-Part I: Because Buttons Don’t Click Themselves. | Sankadlikhit | [Read More](https://medium.com/p/b877ea66f518) |
+| Mon, 30 Jun 2025 20:43:23 GMT | The Sermon Was Hacked But So Was Their Plan | O. J. Okpabi | [Read More](https://medium.com/p/41ae28a4adce) |
+| Mon, 30 Jun 2025 20:40:43 GMT | The Teen Radio DJ Who Stopped A Fake Bank Collapse | O. J. Okpabi | [Read More](https://medium.com/p/65367bdc2003) |
+| Mon, 30 Jun 2025 20:39:42 GMT | When Public Cloud Isn’t an Option: Designing a Secure GenAI Stack Inside the Data Center | Sasikanth Padigala | [Read More](https://medium.com/p/6ecb983fa683) |
+| Mon, 30 Jun 2025 20:37:53 GMT | Her Face. Not Her Shame. | O. J. Okpabi | [Read More](https://medium.com/p/1981ee54e706) |
+| Mon, 30 Jun 2025 20:35:49 GMT | He Wanted Her Heart, She Wanted His IP Address | O. J. Okpabi | [Read More](https://medium.com/p/85f1ae884793) |
 | Mon, 30 Jun 2025 20:35:38 GMT | Shellcode Execution Evading Windows Defender | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2edabc74e76c) |
 | Mon, 30 Jun 2025 20:30:12 GMT | IAM Solutions for Startup Co. | Dehan Bekker | [Read More](https://medium.com/p/1ac63af2843a) |
 | Mon, 30 Jun 2025 20:27:27 GMT | TryHackMe Ödevi — Bulut Güvenliği Eğitimi | Muhammed Kaya | [Read More](https://medium.com/p/0694d337628f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 15:37:29 GMT | Android 16 to Protect Against Stingray Attacks - Cybersecurity Expert | Lineesh Kumar ✨ | [Read More](https://medium.com/p/0b44b406eb8d) |
 | Mon, 30 Jun 2025 15:37:24 GMT | AI Offensive Security per Principianti (EP02) | Tommaso Bona | [Read More](https://medium.com/p/0b897b661a26) |
 | Mon, 30 Jun 2025 15:34:51 GMT | Day 36: User mode & Kernel mode | Nile Okomo | [Read More](https://medium.com/p/a1ccc7ca8161) |
-| Mon, 30 Jun 2025 15:32:08 GMT | CTF Day(22) | Ahmed Narmer | [Read More](https://medium.com/p/e303ac9df89b) |
-| Mon, 30 Jun 2025 15:31:25 GMT | Leveraging Trivy To Prevent CI/CD Vulnerability Injections | Scott Bechtel | [Read More](https://medium.com/p/899a85c106dd) |
-| Mon, 30 Jun 2025 15:28:28 GMT | What it Feels Like to Want More From Life but Not Know Where to Begin | Zinaeleri | [Read More](https://medium.com/p/b91fc51e8661) |
-| Mon, 30 Jun 2025 15:25:52 GMT | Windows 11 + 1Password: Passkeys Finally Go Mainstream | Mohamad MERHI | [Read More](https://medium.com/p/38c352dc9950) |
-| Mon, 30 Jun 2025 15:24:19 GMT | CTI Cycle | byFranke | [Read More](https://medium.com/p/0be47206ecc0) |
-| Mon, 30 Jun 2025 15:22:17 GMT | I Thought My AI Product Would Change Everything — Until I Faced This Brutal Truth | Anil Jangra, MBA | [Read More](https://medium.com/p/025ca0eb1b4e) |
-| Mon, 30 Jun 2025 15:22:01 GMT | Security Garden Lighting Cambridgeshire: Protect Your Home with Style | Glowbolt | [Read More](https://medium.com/p/d79e808bcacb) |
-| Mon, 30 Jun 2025 15:20:50 GMT | Show Me the Ache, I’ll Stay Anyway | Chesyabila | [Read More](https://medium.com/p/d14d2e644e46) |
-| Mon, 30 Jun 2025 15:15:09 GMT | Tailored Security Solutions in Peterborough — Protect What Matters Most | Glowbolt | [Read More](https://medium.com/p/040cd225d8b2) |
-| Mon, 30 Jun 2025 15:12:32 GMT | OSINT and Intelligence Grading: Why the 3x5x2 Framework Matters More Than Ever | Joe The OSINT Guy | [Read More](https://medium.com/p/8ef44a416a9e) |
-| Mon, 30 Jun 2025 15:04:33 GMT | I Can’t Stand Negative Feedback, No Matter How Well-Intended | Charleston Li | [Read More](https://medium.com/p/365613bcf9a9) |
