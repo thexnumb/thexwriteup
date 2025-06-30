@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 20:13:05 GMT | Way Witch (Very Easy) Web CTF — Hack the Box | Pr0tag0nist | [Read More](https://medium.com/p/85f0a538dfdd) |
+| Mon, 30 Jun 2025 20:12:15 GMT | The Analyst Who Listened In the Dark | O. J. Okpabi | [Read More](https://medium.com/p/92e1d4721617) |
+| Mon, 30 Jun 2025 20:11:06 GMT | Exploring LeakRadar.io Domain Search | Alexandre Vandamme | [Read More](https://medium.com/p/38a3dfe74f87) |
+| Mon, 30 Jun 2025 20:08:32 GMT | Everyone’s Everything, No One’s Anything | Arishatyagi | [Read More](https://medium.com/p/abcdb435a7b0) |
+| Mon, 30 Jun 2025 20:05:09 GMT | Why Every Small Business Needs a Basic Cybersecurity Strategy | Rishika Agarwal | [Read More](https://medium.com/p/6ad768762506) |
+| Mon, 30 Jun 2025 20:01:23 GMT | "Your Phone Number Is a Security Risk — Here’s How Hackers Exploit It" | Anshika Prajapati | [Read More](https://medium.com/p/c6651bd97787) |
+| Mon, 30 Jun 2025 19:51:50 GMT | Blind XSS Vulnerability in Profile Input Leads to $2,000 Reward | Hamza Mandil | [Read More](https://medium.com/p/4641defd8d54) |
+| Mon, 30 Jun 2025 19:48:20 GMT | Inbox Extortion 101: How a Shutdown Threat Turns AI Into HAL 9000 | Zac | [Read More](https://medium.com/p/48485a64dedd) |
+| Mon, 30 Jun 2025 19:44:08 GMT | DMAIL’S SUBSCRIPTION HUB: A Smarter WAY TO STAY CONNECTED IN WEB3 | Ndifreke Bassey | [Read More](https://medium.com/p/fd35de14d908) |
+| Mon, 30 Jun 2025 19:43:10 GMT | I’m still pretty new to cybersecurity but this discussion about metrics and risk really opened my… | M H | [Read More](https://medium.com/p/5f0a86375210) |
 | Mon, 30 Jun 2025 19:35:23 GMT | 7 Future-Proof Trends in Cloud Security and Analytics You Need to Know in 2025 | Techridge Solutions | [Read More](https://medium.com/p/c967de034bcb) |
+| Mon, 30 Jun 2025 19:34:23 GMT | I thought I understood cybersecurity industry pretty well but turns out I was looking at everything… | M H | [Read More](https://medium.com/p/e1c7e00a2cbb) |
 | Mon, 30 Jun 2025 19:25:16 GMT | Core Attributes of Distributed Systems: Reliability, Availability, Scalability, and More | Sachin Tolay | [Read More](https://medium.com/p/792c96e87642) |
 | Mon, 30 Jun 2025 19:22:40 GMT | BİR SİBER GÜVENLİK ÖĞRENCİSİNİN GÖZÜNDE DARK WEB | mslm_altingul | [Read More](https://medium.com/p/de1f980bd507) |
 | Mon, 30 Jun 2025 19:22:06 GMT | → TITLE: | Shaun Thomas | [Read More](https://medium.com/p/a19be4f5ff24) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 14:47:58 GMT | Fantastic Bugs and Where To Find Them | Ajinkya Karanjikar (ASK) | [Read More](https://medium.com/p/ce97a7362c0e) |
 | Mon, 30 Jun 2025 14:45:27 GMT | WSTG v4.2 I — Information Gathering Summary | Burak Koçyiğit | [Read More](https://medium.com/p/fdef39334e57) |
 | Mon, 30 Jun 2025 14:41:52 GMT | How to Make a Man Emotionally Addicted to You: The Power of Unconditional Acceptance | Yuenie-kate | [Read More](https://medium.com/p/d9e32c891617) |
-| Mon, 30 Jun 2025 14:41:46 GMT | The Future of VAPT Services: AI, Bug Bounties, and Beyond | Matin Shaikh | [Read More](https://medium.com/p/27a1cab80b12) |
-| Mon, 30 Jun 2025 14:41:10 GMT | [Security] 블루팀 홈 랩 구축 Part 2 — 가상 스위치 및 포트 그룹 생성 ( Building a Blue Team Home Lab Part 2 — Creating… | mer1 | [Read More](https://medium.com/p/94939850f93d) |
-| Mon, 30 Jun 2025 14:36:53 GMT | What’s Cybersecurity and Why Should You Care? | Priyanka Karmakar | [Read More](https://medium.com/p/c6aeec742dd9) |
-| Mon, 30 Jun 2025 14:33:38 GMT | ⚔️ TryHackMe — Kenobi Walkthrough | M0Hx8 | [Read More](https://medium.com/p/4929670dabe4) |
-| Mon, 30 Jun 2025 14:33:24 GMT | Phishing Email Awareness Series: Stay Safe, Stay Ahead (Part-1) | Leetsec Sarwar | [Read More](https://medium.com/p/88d46f16cbef) |
-| Mon, 30 Jun 2025 14:32:43 GMT | From Dissenter to Driver: The SEC’s New Playbook for Crypto | GFEX Official | [Read More](https://medium.com/p/64f425d49cea) |
-| Mon, 30 Jun 2025 14:32:43 GMT | Comprehensive Analysis of Recent Cybersecurity Incidents between year 2024–2025 | Ashvini kumar upadhyay | [Read More](https://medium.com/p/bb47e25537c8) |
-| Mon, 30 Jun 2025 14:32:43 GMT | How I Secure Public Wi-Fi When Working from a Parking Lot | Sam Galope | [Read More](https://medium.com/p/d5074780b536) |
-| Mon, 30 Jun 2025 14:30:04 GMT | Exploitation of Eureka (Spring Boot — HTB Machine) | Ravi Teja | [Read More](https://medium.com/p/76faf4ad14b9) |
-| Mon, 30 Jun 2025 14:29:22 GMT | Technicity Chronicle: Which Industries are Struggling the Most With Talent Shortages? | Faisal Khan | [Read More](https://medium.com/p/b1f455c12db6) |
-| Mon, 30 Jun 2025 14:26:59 GMT | Unpopular Opinion: You don’t need a webapp. | weaselmeister | [Read More](https://medium.com/p/fd62d3c22313) |
