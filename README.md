@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 23:23:29 GMT | BITPANDA | NKAMAETI ESU | [Read More](https://medium.com/p/ea4a42a42b02) |
+| Mon, 30 Jun 2025 23:22:34 GMT | The Beginner’s Guide to Bugs Bunny $BUGS for Maximum Gains | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/f0a829967172) |
+| Mon, 30 Jun 2025 23:17:57 GMT | Security Auditing Terms Explained — Like You’re Playing Chess with Hackers | Mujtaba Shaikeldin | [Read More](https://medium.com/p/3dff095977c4) |
 | Mon, 30 Jun 2025 23:15:56 GMT | VulnNet-Roasted (PT1-Recommended Room) | MR-X.Security | [Read More](https://medium.com/p/266321bc5d53) |
 | Mon, 30 Jun 2025 22:50:27 GMT | How I Forged a Facebook JWT to Impersonate Any User on Wit.ai (No Secret Verification) | Ramzy Bouyahya | [Read More](https://medium.com/p/0d1d5e81b88b) |
 | Mon, 30 Jun 2025 22:17:13 GMT | OAuth Misconfigurations: Real-World Examples and Exploitation Tips | Karthikeyan Nagaraj | [Read More](https://medium.com/p/86a8d0ab6296) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 17:23:19 GMT | Stop Drowning in CVEs: How to Actually Fix Vulnerabilities (Not Just Find Them) | Sophia | [Read More](https://medium.com/p/c17982fe4586) |
 | Mon, 30 Jun 2025 17:20:20 GMT | Cybersecurity Best Practices: 10 Essential Steps for 2025 | Codevirussec | [Read More](https://medium.com/p/e4db6abfd1d9) |
 | Mon, 30 Jun 2025 17:13:11 GMT | Lab: Reflected DOM XSS | Chirag Vyas | [Read More](https://medium.com/p/2a91fe5a13b5) |
-| Mon, 30 Jun 2025 17:12:30 GMT | 20 Financial Crimes Dominating the UK in 2025 | Lookattheant | [Read More](https://medium.com/p/cfaafe64054a) |
-| Mon, 30 Jun 2025 16:57:41 GMT | Social Engineering Vectors in a Digitally Secured World | Badaolaitan | [Read More](https://medium.com/p/ace5fe81cd96) |
-| Mon, 30 Jun 2025 16:57:11 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/ee707b13cd7e) |
