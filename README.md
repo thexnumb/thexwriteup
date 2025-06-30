@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 11:36:15 GMT | ’       . | Ananda Krishna (0xG4057) | [Read More](https://medium.com/p/eadf05801bc6) |
+| Mon, 30 Jun 2025 11:32:53 GMT | 10 Days of MCP Security — Day 1: What is Model Context Protocol (MCP)? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/435fc950d2d0) |
+| Mon, 30 Jun 2025 11:32:15 GMT | Understanding CSRF (Cross-Site Request Forgery): Explanation & Prevention | Lovelesh Gangil | [Read More](https://medium.com/p/a822e2d4353f) |
+| Mon, 30 Jun 2025 11:26:46 GMT | Planning of Changes (Clause 6.3 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/efcc49e9ff04) |
+| Mon, 30 Jun 2025 11:24:44 GMT | An Intuitive Guide on Agentic AI Security Threats-Part 1 | Renu Khandelwal | [Read More](https://medium.com/p/26a08e1cf1fc) |
+| Mon, 30 Jun 2025 11:20:45 GMT | Cool XSRF vulnerability in the media upload functionality , which allowed deletion or editing of… | Ch4rlii | [Read More](https://medium.com/p/308f47671dac) |
 | Mon, 30 Jun 2025 11:15:07 GMT | Caught in a Ransomeware Trap: What You Need to Know and How to Stay Safe | Natarajan C K | [Read More](https://medium.com/p/bd39c031199e) |
+| Mon, 30 Jun 2025 11:12:30 GMT | Shellshock Attack — LetsDefend Lab WriteUp | Atlas Security | [Read More](https://medium.com/p/90e0959062ae) |
 | Mon, 30 Jun 2025 11:12:17 GMT | SafeLine WAF v8.10.1 Release Notes | Maverick Steel | [Read More](https://medium.com/p/b1d11261cda5) |
 | Mon, 30 Jun 2025 11:11:07 GMT | Unlock Your Cybersecurity Career: Top 10 Certifications for KSA & UAE Professionals | Chetan R. | [Read More](https://medium.com/p/7d957a3d3404) |
 | Mon, 30 Jun 2025 11:10:31 GMT | The definitive usher to signifier-based mostly web site authentication | Desa Banjaer | [Read More](https://medium.com/p/0eda3d8d0cad) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 07:06:42 GMT | A Revolutionary Solution for Digital Identity: Ending Impersonation with Biometrics | "Book of Ideas" | [Read More](https://medium.com/p/428b8ff67ed4) |
 | Mon, 30 Jun 2025 07:03:02 GMT | What It’s Like Posting to Medium with Pure O | Uland's OCD Hub | [Read More](https://medium.com/p/1ff9809e64fc) |
 | Mon, 30 Jun 2025 06:58:33 GMT | Scanning the Internet | abhipnair | [Read More](https://medium.com/p/0fd5b7cbe7a0) |
-| Mon, 30 Jun 2025 06:56:49 GMT | Hacking WordPress (WP for OSCP) | Kaorrosi | [Read More](https://medium.com/p/b0f311d80731) |
-| Mon, 30 Jun 2025 06:55:13 GMT | RST TI Report Digest: 30 Jun 2025 | RST Cloud | [Read More](https://medium.com/p/f4f6cae42946) |
-| Mon, 30 Jun 2025 06:53:59 GMT | Understanding Authentication: What It Is, Why It Fails & How to Fix It | Ud4y | [Read More](https://medium.com/p/90ba07e9365f) |
-| Mon, 30 Jun 2025 06:53:27 GMT | The Art of Rate-Limiting: Balancing Security and User Experience in SaaS | Thomas Faugier | [Read More](https://medium.com/p/8bef6a5cfe51) |
-| Mon, 30 Jun 2025 06:53:26 GMT | 3 Practical Ways to Secure AI Agents in 2025: Real-World Examples to Save Your Systems | Paritosh | [Read More](https://medium.com/p/0d6d33dfb0f1) |
-| Mon, 30 Jun 2025 06:52:20 GMT | I have 49 acne scars on my face. | janelle☆ | [Read More](https://medium.com/p/d8f1c52d89cb) |
-| Mon, 30 Jun 2025 06:50:39 GMT | Malware Analysis: Unpacking Malware Tips & Tricks | dandor2022 | [Read More](https://medium.com/p/7f401b2cb238) |
