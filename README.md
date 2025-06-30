@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 19:35:23 GMT | 7 Future-Proof Trends in Cloud Security and Analytics You Need to Know in 2025 | Techridge Solutions | [Read More](https://medium.com/p/c967de034bcb) |
+| Mon, 30 Jun 2025 19:25:16 GMT | Core Attributes of Distributed Systems: Reliability, Availability, Scalability, and More | Sachin Tolay | [Read More](https://medium.com/p/792c96e87642) |
+| Mon, 30 Jun 2025 19:22:40 GMT | BİR SİBER GÜVENLİK ÖĞRENCİSİNİN GÖZÜNDE DARK WEB | mslm_altingul | [Read More](https://medium.com/p/de1f980bd507) |
+| Mon, 30 Jun 2025 19:22:06 GMT | → TITLE: | Shaun Thomas | [Read More](https://medium.com/p/a19be4f5ff24) |
+| Mon, 30 Jun 2025 19:12:41 GMT | Bypassing Referer-Based CSRF Defenses | musayyab sharif | [Read More](https://medium.com/p/2a9049524fc4) |
+| Mon, 30 Jun 2025 19:07:41 GMT | Unable to Reproduce — QC 101 | Mohan Thomas | [Read More](https://medium.com/p/bd0b17ab0d5e) |
 | Mon, 30 Jun 2025 19:06:09 GMT | The Silent Scam: Why You Should Never Ignore a Blank Call | The Tech Journal | [Read More](https://medium.com/p/d15bf0c56430) |
 | Mon, 30 Jun 2025 19:00:19 GMT | ️ Proactive Monitoring Techniques for Detecting Zero-Day Exploits | Esra Kayhan | [Read More](https://medium.com/p/58434524b394) |
 | Mon, 30 Jun 2025 18:58:17 GMT | Smart Patrol Integration | Presslink Media | [Read More](https://medium.com/p/5214040db7fa) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 14:30:04 GMT | Exploitation of Eureka (Spring Boot — HTB Machine) | Ravi Teja | [Read More](https://medium.com/p/76faf4ad14b9) |
 | Mon, 30 Jun 2025 14:29:22 GMT | Technicity Chronicle: Which Industries are Struggling the Most With Talent Shortages? | Faisal Khan | [Read More](https://medium.com/p/b1f455c12db6) |
 | Mon, 30 Jun 2025 14:26:59 GMT | Unpopular Opinion: You don’t need a webapp. | weaselmeister | [Read More](https://medium.com/p/fd62d3c22313) |
-| Mon, 30 Jun 2025 14:25:40 GMT | Evaluate Your Cybersecurity Stack | Century Solutions Group | [Read More](https://medium.com/p/6e483278285f) |
-| Mon, 30 Jun 2025 14:17:09 GMT | Part 5: Runtime Security & Threat Detection — Stay Alert in Production | DiPAK KNVDL | [Read More](https://medium.com/p/5bcd356c4c82) |
-| Mon, 30 Jun 2025 14:13:59 GMT | About Me | Zakariye Mohamed | [Read More](https://medium.com/p/8ab57e5b6ebf) |
-| Mon, 30 Jun 2025 14:12:48 GMT | CVE-2025-26074: Remote Code Execution in Conductor OSS via inline JavaScript Injection | Vitali Barysevich | [Read More](https://medium.com/p/5ce3cb651cfb) |
-| Mon, 30 Jun 2025 14:11:54 GMT | How to Deploy WiFi 7 in High-Density Environments | Vays Infotech | [Read More](https://medium.com/p/82424bcba9f9) |
-| Mon, 30 Jun 2025 14:07:08 GMT | Compliance Connect— A Compliance Query and Help Platform | Imran Roshan | [Read More](https://medium.com/p/25b0d2d555d9) |
