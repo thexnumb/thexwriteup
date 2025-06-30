@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 16:15:44 GMT | Complete Distributed Log Monitoring Setup with Splunk Enterprise & Universal Forwarder on VMs | Kaushal | [Read More](https://medium.com/p/3f1e66596dd3) |
+| Mon, 30 Jun 2025 16:12:06 GMT | LAB 18: Packers and Unpacking Techniques in Malware Analysis | Mustapha Ait Ichou | [Read More](https://medium.com/p/235710e75a88) |
+| Mon, 30 Jun 2025 16:09:38 GMT | Hack The System — CitiSmart | محمد بن إبراهيم | [Read More](https://medium.com/p/83dd0b4321d3) |
+| Mon, 30 Jun 2025 16:05:35 GMT | XDR: The Next-Generation Shield Against Evolving Cyber Threats | Ahmed Elbatea | [Read More](https://medium.com/p/00011fdc9ffa) |
+| Mon, 30 Jun 2025 16:03:52 GMT | Cybersecurity Career Roadmap for Beginners in India | Arun Ammisetty | [Read More](https://medium.com/p/6a3eafd6f964) |
+| Mon, 30 Jun 2025 16:01:57 GMT | Part 7: DevSecOps War Room — Simulated Attacks and Live Defenses | DiPAK KNVDL | [Read More](https://medium.com/p/ee42587775b1) |
+| Mon, 30 Jun 2025 15:55:16 GMT | Day 37: Kernel mode exploitation patterns | Nile Okomo | [Read More](https://medium.com/p/9b69620f92dd) |
+| Mon, 30 Jun 2025 15:54:51 GMT | Vector Encryption, AI, and the Slow Pace of Standards | Patrick Walsh | [Read More](https://medium.com/p/90a1dcd3732e) |
+| Mon, 30 Jun 2025 15:54:37 GMT | Passed My 2025 SC-100 Cybersecurity Architect Expert Renewal | carlarjenkins | [Read More](https://medium.com/p/9c4fa5c15348) |
+| Mon, 30 Jun 2025 15:49:42 GMT | Never Commit Secrets Again — Set Up a Global Git Pre-commit Hook with TruffleHog | Rakshit KS | [Read More](https://medium.com/p/eb51d10d3af7) |
+| Mon, 30 Jun 2025 15:43:16 GMT | Understanding the MITRE ATLAS Matrix: How Attackers Target AI Systems | Michael Hannecke | [Read More](https://medium.com/p/ecb75399819f) |
+| Mon, 30 Jun 2025 15:37:29 GMT | Android 16 to Protect Against Stingray Attacks - Cybersecurity Expert | Lineesh Kumar ✨ | [Read More](https://medium.com/p/0b44b406eb8d) |
+| Mon, 30 Jun 2025 15:37:24 GMT | AI Offensive Security per Principianti (EP02) | Tommaso Bona | [Read More](https://medium.com/p/0b897b661a26) |
 | Mon, 30 Jun 2025 15:34:51 GMT | Day 36: User mode & Kernel mode | Nile Okomo | [Read More](https://medium.com/p/a1ccc7ca8161) |
 | Mon, 30 Jun 2025 15:32:08 GMT | CTF Day(22) | Ahmed Narmer | [Read More](https://medium.com/p/e303ac9df89b) |
 | Mon, 30 Jun 2025 15:31:25 GMT | Leveraging Trivy To Prevent CI/CD Vulnerability Injections | Scott Bechtel | [Read More](https://medium.com/p/899a85c106dd) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 11:32:53 GMT | 10 Days of MCP Security — Day 1: What is Model Context Protocol (MCP)? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/435fc950d2d0) |
 | Mon, 30 Jun 2025 11:32:15 GMT | Understanding CSRF (Cross-Site Request Forgery): Explanation & Prevention | Lovelesh Gangil | [Read More](https://medium.com/p/a822e2d4353f) |
 | Mon, 30 Jun 2025 11:26:46 GMT | Planning of Changes (Clause 6.3 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/efcc49e9ff04) |
-| Mon, 30 Jun 2025 11:24:44 GMT | An Intuitive Guide on Agentic AI Security Threats-Part 1 | Renu Khandelwal | [Read More](https://medium.com/p/26a08e1cf1fc) |
-| Mon, 30 Jun 2025 11:20:45 GMT | Cool XSRF vulnerability in the media upload functionality , which allowed deletion or editing of… | Ch4rlii | [Read More](https://medium.com/p/308f47671dac) |
-| Mon, 30 Jun 2025 11:15:07 GMT | Caught in a Ransomeware Trap: What You Need to Know and How to Stay Safe | Natarajan C K | [Read More](https://medium.com/p/bd39c031199e) |
-| Mon, 30 Jun 2025 11:12:30 GMT | Shellshock Attack — LetsDefend Lab WriteUp | Atlas Security | [Read More](https://medium.com/p/90e0959062ae) |
-| Mon, 30 Jun 2025 11:12:17 GMT | SafeLine WAF v8.10.1 Release Notes | Maverick Steel | [Read More](https://medium.com/p/b1d11261cda5) |
-| Mon, 30 Jun 2025 11:11:07 GMT | Unlock Your Cybersecurity Career: Top 10 Certifications for KSA & UAE Professionals | Chetan R. | [Read More](https://medium.com/p/7d957a3d3404) |
-| Mon, 30 Jun 2025 11:10:31 GMT | The definitive usher to signifier-based mostly web site authentication | Desa Banjaer | [Read More](https://medium.com/p/0eda3d8d0cad) |
-| Mon, 30 Jun 2025 11:09:52 GMT | Why is attack surface & risk management important? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/3ff5c74cbdfb) |
-| Mon, 30 Jun 2025 11:07:03 GMT | Top Programming Languages to Learn in 2025 — Based on the Job You Want | Dip Mark | [Read More](https://medium.com/p/9518a2d9cba0) |
-| Mon, 30 Jun 2025 11:06:44 GMT | 6 Proven Design Patterns to Protect AI Systems from Dangerous Prompt Injection Attacks | Vikrant Dheer | [Read More](https://medium.com/p/e57b57e5339e) |
-| Mon, 30 Jun 2025 11:02:59 GMT | Zero Trust vs. SASE: Everything You Need to Know | IPSpecialist | [Read More](https://medium.com/p/b0e30e2c1cd2) |
-| Mon, 30 Jun 2025 11:02:37 GMT | Protect Resets with a Leaked‑Password Checker SPI for Keycloak | Aditya | [Read More](https://medium.com/p/be51bc2cbb64) |
-| Mon, 30 Jun 2025 11:02:26 GMT | Google Just Fixed Its Photos App — Here’s What Changed | Tech Thrilled | [Read More](https://medium.com/p/3bb791769eb4) |
