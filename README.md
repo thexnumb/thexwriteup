@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 20:35:38 GMT | Shellcode Execution Evading Windows Defender | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2edabc74e76c) |
+| Mon, 30 Jun 2025 20:30:12 GMT | IAM Solutions for Startup Co. | Dehan Bekker | [Read More](https://medium.com/p/1ac63af2843a) |
+| Mon, 30 Jun 2025 20:27:27 GMT | TryHackMe Ödevi — Bulut Güvenliği Eğitimi | Muhammed Kaya | [Read More](https://medium.com/p/0694d337628f) |
+| Mon, 30 Jun 2025 20:23:51 GMT | Medusa Ransomware: The Cyber Snake That Stares You Down Before Striking | Akshay Chauhan | [Read More](https://medium.com/p/e6b6b4a51b0c) |
+| Mon, 30 Jun 2025 20:22:06 GMT | The Man Who Didn’t Exist, Until He Stole Everything | O. J. Okpabi | [Read More](https://medium.com/p/9eed48457191) |
+| Mon, 30 Jun 2025 20:19:00 GMT | The Gamer Who Busted A Cybercrime Ring Using Only His PlayStation | O. J. Okpabi | [Read More](https://medium.com/p/26eb5612aeb8) |
+| Mon, 30 Jun 2025 20:16:51 GMT | "Hello Ma’am, I’m Calling from Microsoft”: A Story Of A Click That Nearly Cost Everything | O. J. Okpabi | [Read More](https://medium.com/p/4f426c9738f8) |
+| Mon, 30 Jun 2025 20:15:11 GMT | OSCP Prep: HTB-Knife | Dino | [Read More](https://medium.com/p/22851225b76d) |
 | Mon, 30 Jun 2025 20:13:05 GMT | Way Witch (Very Easy) Web CTF — Hack the Box | Pr0tag0nist | [Read More](https://medium.com/p/85f0a538dfdd) |
 | Mon, 30 Jun 2025 20:12:15 GMT | The Analyst Who Listened In the Dark | O. J. Okpabi | [Read More](https://medium.com/p/92e1d4721617) |
 | Mon, 30 Jun 2025 20:11:06 GMT | Exploring LeakRadar.io Domain Search | Alexandre Vandamme | [Read More](https://medium.com/p/38a3dfe74f87) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 15:15:09 GMT | Tailored Security Solutions in Peterborough — Protect What Matters Most | Glowbolt | [Read More](https://medium.com/p/040cd225d8b2) |
 | Mon, 30 Jun 2025 15:12:32 GMT | OSINT and Intelligence Grading: Why the 3x5x2 Framework Matters More Than Ever | Joe The OSINT Guy | [Read More](https://medium.com/p/8ef44a416a9e) |
 | Mon, 30 Jun 2025 15:04:33 GMT | I Can’t Stand Negative Feedback, No Matter How Well-Intended | Charleston Li | [Read More](https://medium.com/p/365613bcf9a9) |
-| Mon, 30 Jun 2025 15:02:06 GMT | Part 6: Zero Trust Architecture in DevSecOps — Never Trust, Always Verify | DiPAK KNVDL | [Read More](https://medium.com/p/28004847ba64) |
-| Mon, 30 Jun 2025 15:02:04 GMT | From Reactive to Proactive: Enhancing Cybersecurity for Alternative Investment Firms with MDR… | RFA | [Read More](https://medium.com/p/4d341658c590) |
-| Mon, 30 Jun 2025 15:02:04 GMT | The Future of Cloud Protection: Springfield, MO IT Services Cybersecurity Strategies | PCnet | [Read More](https://medium.com/p/78844101d536) |
-| Mon, 30 Jun 2025 15:02:00 GMT | ️‍♂️ Kevin Mitnick: The World’s Most Wanted Hacker Turned Cybersecurity Consultant | Amir Mughal | [Read More](https://medium.com/p/1c396262c11b) |
-| Mon, 30 Jun 2025 15:01:00 GMT | picoCTF — Cookie Monster Secret Recipe | Robby firdauzy | [Read More](https://medium.com/p/19b58380a8a0) |
-| Mon, 30 Jun 2025 14:47:58 GMT | Fantastic Bugs and Where To Find Them | Ajinkya Karanjikar (ASK) | [Read More](https://medium.com/p/ce97a7362c0e) |
-| Mon, 30 Jun 2025 14:45:27 GMT | WSTG v4.2 I — Information Gathering Summary | Burak Koçyiğit | [Read More](https://medium.com/p/fdef39334e57) |
-| Mon, 30 Jun 2025 14:41:52 GMT | How to Make a Man Emotionally Addicted to You: The Power of Unconditional Acceptance | Yuenie-kate | [Read More](https://medium.com/p/d9e32c891617) |
