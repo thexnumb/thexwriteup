@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 10:44:12 GMT | From Rack to Reality: My Journey Through a Cisco-Powered Data Center. | Joanorifha | [Read More](https://medium.com/p/63a81fa5d3c3) |
+| Mon, 30 Jun 2025 10:43:44 GMT | Through the Eyes of a SOC Analyst: Patterns, Panic, and Persistence | Yuksel | [Read More](https://medium.com/p/efc082ce1ca3) |
+| Mon, 30 Jun 2025 10:42:27 GMT | How to Improve Your Website’s Security with Professional Web Development | Soft Tech Cube | [Read More](https://medium.com/p/d96ae75779dc) |
+| Mon, 30 Jun 2025 10:41:35 GMT | Artificial Intelligence in Cyber ​​Defense: Detecting, Intercepting, and Countering Hackers’… | Aryia behroziuan | [Read More](https://medium.com/p/350aa612be79) |
+| Mon, 30 Jun 2025 10:38:46 GMT | Incident Response: Because “Oops” Is Not a Strategy | DarKVoicE | [Read More](https://medium.com/p/4c5ffa67fe9c) |
+| Mon, 30 Jun 2025 10:36:12 GMT | When Nations Hack and Scammers Thrive in a Fractured World | David SEHYEON Baek | [Read More](https://medium.com/p/2d0a770ac4d0) |
+| Mon, 30 Jun 2025 10:34:07 GMT | Is Your Accounting Software Actually Safe? | Alex Hughes | [Read More](https://medium.com/p/a58f1e8bdb23) |
+| Mon, 30 Jun 2025 10:32:05 GMT | BitVita: Uninterrupted Trading Meets Uncompromising Security | BitVita Official | [Read More](https://medium.com/p/fcd2ba79f601) |
+| Mon, 30 Jun 2025 10:31:11 GMT | Malware Analysis Training & Certification in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/f936333e082a) |
+| Mon, 30 Jun 2025 10:28:54 GMT | Kerberos Explained in a Fun way!(With Analogy) | Syed Khalid Tipu Razvi (SKTR) | [Read More](https://medium.com/p/2e4d31070bd6) |
+| Mon, 30 Jun 2025 10:28:30 GMT | How Do Web Application Development Services Boost Presence? | Remand Simon | [Read More](https://medium.com/p/423f3726687e) |
+| Mon, 30 Jun 2025 10:28:01 GMT | Ahold Delhaize Data Breach 2025: 2.2 Million Shoppers’ Personal Information Compromised | Technijian | [Read More](https://medium.com/p/7cedcb4ce742) |
+| Mon, 30 Jun 2025 10:26:42 GMT | How Third-Party Pixels Jeopardize HIPAA Compliance on Healthcare Websites | Feroot Security | [Read More](https://medium.com/p/add73c82d197) |
 | Mon, 30 Jun 2025 10:22:24 GMT | How I Went from Fixing Copiers to Breaking Into Clouds | Rogier Dijkman | [Read More](https://medium.com/p/11fa0fae1dfe) |
 | Mon, 30 Jun 2025 10:21:20 GMT | I Tried Hacking My Own WiFi with Python — Here’s What Happened | The Code Studio | [Read More](https://medium.com/p/90ad3ad373ae) |
 | Mon, 30 Jun 2025 10:16:18 GMT | Cybersecurity AI: The Dangerous Gap Between Automation and Autonomy | Víctor Mayoral Vilches | [Read More](https://medium.com/p/a9a8014c71ae) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 06:03:22 GMT | Vibe Hacking: Finding 0-Days w/ Cursor | Amit Ziv | [Read More](https://medium.com/p/630447dc902d) |
 | Mon, 30 Jun 2025 06:01:54 GMT | OWASP Juice Shop | /sec/rffuste | [Read More](https://medium.com/p/5811ea1dd40e) |
 | Mon, 30 Jun 2025 06:01:39 GMT | Securing the future of LLMs and GenAI in UK Enterprises | Yash Gorasiya | [Read More](https://medium.com/p/5b5b172b5f64) |
-| Mon, 30 Jun 2025 05:59:37 GMT | From Cloud Deals to Cyber Defense: Why Cybersecurity Is the Biggest Opportunity I’ve Seen in a… | Kaushik Keshavamurthy | [Read More](https://medium.com/p/728cdf5d317e) |
-| Mon, 30 Jun 2025 05:46:32 GMT | Twenty Docker Images Every Cybersecurity Engineer Should Know in 2025 | Saikat Paul | [Read More](https://medium.com/p/658862861fd8) |
-| Mon, 30 Jun 2025 05:41:55 GMT | Broken Access Control part-5 : User ID controlled by request parameter | Ahmad Sopyan | [Read More](https://medium.com/p/966554190783) |
-| Mon, 30 Jun 2025 05:36:49 GMT | Open Source Looks Risky. That’s Why It Works. | OpenTeams | [Read More](https://medium.com/p/1900249ccaa7) |
-| Mon, 30 Jun 2025 05:34:32 GMT | Broken Access Control part-3 : User role controlled by request parameter | Ahmad Sopyan | [Read More](https://medium.com/p/7fe915109889) |
-| Mon, 30 Jun 2025 05:34:03 GMT | Protect your banking/email/social media accounts from massive global hacking | cyber sentinel | [Read More](https://medium.com/p/20460f2dd616) |
-| Mon, 30 Jun 2025 05:32:50 GMT | Digital Twin of an Organization: The Key to Third-Party Risk Visibility | Gauri Kale | [Read More](https://medium.com/p/eb4aadaf3d94) |
-| Mon, 30 Jun 2025 05:32:35 GMT | AWSReaper: Cloud Pentesting Practical Techniques for Red Teams | Saikat Paul | [Read More](https://medium.com/p/6e1220bb133f) |
-| Mon, 30 Jun 2025 05:31:59 GMT | Introducing 404Sec — Cybersecurity. Hacking. Simplified. | 404sec | [Read More](https://medium.com/p/735089074e2f) |
-| Mon, 30 Jun 2025 05:31:59 GMT | No title | Evgeniy | [Read More](https://medium.com/p/88067798c6e9) |
-| Mon, 30 Jun 2025 05:29:10 GMT | Frozen Frontlines: The Arctic as the Next Theatre of Strategic Competition | Sylvie Blanchier | [Read More](https://medium.com/p/408833f59299) |
-| Mon, 30 Jun 2025 05:27:02 GMT | Demystifying Source Reliability: How to Ensure Credible CTI | Adam Goss | [Read More](https://medium.com/p/d7f15bbe7a52) |
-| Mon, 30 Jun 2025 05:24:56 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/57c7dba43baa) |
