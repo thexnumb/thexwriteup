@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 01:32:43 GMT | ️ So… I Made a Server Call Me Back. Unauthenticated SSRF via XML-RPC | AIwolfie | [Read More](https://medium.com/p/8116c9f0fbba) |
+| Mon, 30 Jun 2025 01:32:05 GMT | Building a Personal Finance Management App: Secure API Authentication — A Practical Guide | George Zefkilis | [Read More](https://medium.com/p/e9d936b6982b) |
+| Mon, 30 Jun 2025 01:31:17 GMT | The Iran and the Catalyst of Global South | Arrozaq Ave | [Read More](https://medium.com/p/71a9e5ad6940) |
+| Mon, 30 Jun 2025 01:18:43 GMT | Advanced CSRF Mitigation Strategy: Randomized Header Channel using Pattern Dispersion | Fernando Flores Alvarado | [Read More](https://medium.com/p/20d54b1d4c6e) |
+| Mon, 30 Jun 2025 01:01:47 GMT | ASN, IP Ranges, and Subdomains: The Trinity of Advanced Recon! | Tenebris Venator | [Read More](https://medium.com/p/8ef9d368f6be) |
+| Mon, 30 Jun 2025 00:47:09 GMT | How I setup my VPS servers | KleskBY | [Read More](https://medium.com/p/3d09b3232702) |
+| Mon, 30 Jun 2025 00:46:47 GMT | Snort Challenge — The Basics - THM | Isiah | [Read More](https://medium.com/p/e67b8bad4138) |
+| Mon, 30 Jun 2025 00:40:31 GMT | Crack Elastic’s $10,000 Bounty: RCE Risk in Chromium Reporting | Monika sharma | [Read More](https://medium.com/p/6ac57b8f928d) |
+| Mon, 30 Jun 2025 00:38:11 GMT | Burp + Logger Setup to Uncover Hidden Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/bfb4dcfe1943) |
+| Mon, 30 Jun 2025 00:36:38 GMT | Free Tools & Frameworks For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/027e057b9d0d) |
+| Mon, 30 Jun 2025 00:35:49 GMT | WebShell Threat Hunting using FOFA | AbhirupKonwar | [Read More](https://medium.com/p/787e47c09360) |
+| Mon, 30 Jun 2025 00:31:53 GMT | The Microkernel Advantage: GNU Hurd’s Revolutionary Operating System Design | ThamizhElango Natarajan | [Read More](https://medium.com/p/1d06a673c77c) |
+| Mon, 30 Jun 2025 00:31:47 GMT | Hidden in the Noise: How to Tweak Dirbuster, Gobuster & FFUF Wordlists for Better Hits | Monika sharma | [Read More](https://medium.com/p/c47d572141d5) |
+| Mon, 30 Jun 2025 00:31:15 GMT | $1,160 Bounty: Unveiling GitLab’s IDOR Flaw | Monika sharma | [Read More](https://medium.com/p/248cc766fd1b) |
+| Mon, 30 Jun 2025 00:11:36 GMT | The Quantum Apocalypse Congress Just Discovered | The Daily Reflection | [Read More](https://medium.com/p/a2954ad2a453) |
+| Mon, 30 Jun 2025 00:01:04 GMT | How to Tell If a Man Truly Loves You: The Childlike Sign | Lucas Brown | [Read More](https://medium.com/p/780cd10e8bb0) |
+| Mon, 30 Jun 2025 00:01:01 GMT | Secret of the Polyglot | Aahan Patil | [Read More](https://medium.com/p/36517fd5a1df) |
+| Sun, 29 Jun 2025 23:54:18 GMT | Security in the Age of Agentic AI: A Systems Perspective (Part 1) | Kristin Dahl | [Read More](https://medium.com/p/2b04c4803fcb) |
+| Sun, 29 Jun 2025 23:48:53 GMT | Dmail: The Next Evolution of Email — Private, On-Chain, and Rewarding | Web3Sunshine | [Read More](https://medium.com/p/88295341c48a) |
 | Sun, 29 Jun 2025 23:17:53 GMT | “Be Vulnerable” Didn’t Seem Like Good Relationship Advice | Katya Koval | [Read More](https://medium.com/p/130d47b76dd8) |
 | Sun, 29 Jun 2025 23:01:55 GMT | LetsDefend — Kernel Exploit Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/87713cfdc365) |
 | Sun, 29 Jun 2025 22:32:42 GMT | BLUE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/db9fb18b63e2) |
@@ -26,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 21:19:26 GMT | I Taught ChatGPT to Think for Itself | Josh Davis | [Read More](https://medium.com/p/c280beffefb9) |
 | Sun, 29 Jun 2025 21:12:23 GMT | W1seGuy — Quebrando XOR em um Desafio do TryHackMe | HexSilent | [Read More](https://medium.com/p/66dfebe301e3) |
 | Sun, 29 Jun 2025 21:11:52 GMT | Hijacking OAuth Tokens with Just an XSS Flaw | Ibtissam hammadi | [Read More](https://medium.com/p/e0365f2081d2) |
+| Sun, 29 Jun 2025 21:00:50 GMT | Animarse a presentarse | Lau Alvez | [Read More](https://medium.com/p/97fe9a19e727) |
 | Sun, 29 Jun 2025 20:45:18 GMT | Investigating Windows Event Logs | Youssef Hossam | [Read More](https://medium.com/p/883ad3a91b59) |
 | Sun, 29 Jun 2025 20:38:29 GMT | From SQL Injection to RCE: My Hack The Box Assessment Walkthrough | Jabaribrown | [Read More](https://medium.com/p/9797f19fa8aa) |
 | Sun, 29 Jun 2025 20:35:10 GMT | Banking Cybersecurity: The Critical Role of Security Scanning and Assessment | Wanyoto Mark | [Read More](https://medium.com/p/07556a84e450) |
@@ -94,23 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 16:35:40 GMT | Emerging Cyber Threats Every SaaS Business Should Watch in 2025 | Kineberg Solutions | [Read More](https://medium.com/p/f805563e9f3a) |
 | Sun, 29 Jun 2025 16:35:30 GMT | Locking a C Executable to One Physical Machine | Pranav MR | [Read More](https://medium.com/p/ae9b85bc284a) |
 | Sun, 29 Jun 2025 16:34:02 GMT | JWT Cracking & Obfuscation Attacks: Real-World Exploits from CTFs, THM, HTB & Google CTF | Shadow Packet | [Read More](https://medium.com/p/be567bbab886) |
-| Sun, 29 Jun 2025 16:25:09 GMT | Cognitive Shielding: 3 Forensic Techniques to Block Covert Manipulation | Huzaifa Awan | [Read More](https://medium.com/p/3901e08be119) |
-| Sun, 29 Jun 2025 16:23:58 GMT | This is my first post here | Alan Robledo | [Read More](https://medium.com/p/d1e4f503c3b4) |
-| Sun, 29 Jun 2025 16:22:13 GMT | Ever had one of those days when your computer just decides to ruin all your plans? | Adaku Okafor | [Read More](https://medium.com/p/72629538786b) |
-| Sun, 29 Jun 2025 16:16:24 GMT | Fixing Authentication Failures: Best Practices for Secure Apps | Madhu Kiran Ravula | [Read More](https://medium.com/p/3f8191076d07) |
-| Sun, 29 Jun 2025 15:56:53 GMT | War & Wires: How Iran’s Conflicts Have Fueled—and Fractured—Innovation | Ayeshainam | [Read More](https://medium.com/p/cc989cb3b916) |
-| Sun, 29 Jun 2025 15:56:12 GMT | Securing Docker Like a Pro: From Non-Root Users to Network Isolation | cybe44oot | [Read More](https://medium.com/p/8cdbeb5b2576) |
-| Sun, 29 Jun 2025 15:53:23 GMT | How I built my virtual SOC Analyst Home Lab | Diogo Neto | [Read More](https://medium.com/p/9b1e6baa5c53) |
-| Sun, 29 Jun 2025 15:53:18 GMT | S3 BUCKET AND FIREBASE BUCKET MISCONFIGURTION PART-2 | DOD cyber solutions | [Read More](https://medium.com/p/14da286240d4) |
-| Sun, 29 Jun 2025 15:49:01 GMT | Nmap Cheat Sheet | Mustafa Şen | [Read More](https://medium.com/p/de4e6571f602) |
-| Sun, 29 Jun 2025 15:25:18 GMT | TRY HACK ME BİRKAÇ ODANIN ÇÖZÜMLERİ | Hiranur Gemalmaz | [Read More](https://medium.com/p/f8661384df74) |
-| Sun, 29 Jun 2025 15:24:53 GMT | CTF Write-up: All OSINT Challenges from Payatu | Aditya404 | [Read More](https://medium.com/p/5e2efc0a6d2c) |
-| Sun, 29 Jun 2025 15:11:27 GMT | We Set Up SCA. Now What? Real-World Lessons in Making Security Stick | sumit singh | [Read More](https://medium.com/p/af0bfa1a483d) |
-| Sun, 29 Jun 2025 15:09:14 GMT | SOC163 — Suspicious Certutil.exe Usage | Raynard Waits | [Read More](https://medium.com/p/3aa8f6e25a34) |
-| Sun, 29 Jun 2025 15:06:47 GMT | Mastering NTP with Chrony on RHEL-Based Systems: Server & Client Setup | Rupesh Sharma | [Read More](https://medium.com/p/3f07e0323806) |
-| Sun, 29 Jun 2025 15:06:37 GMT | Why You Should Never Store JWTs in localStorage: A Simple Guide to Safer Authentication | Chaimaechakir | [Read More](https://medium.com/p/63d1651092a6) |
-| Sun, 29 Jun 2025 15:03:55 GMT | Inside a Four-Day Cyber-Security Bootcamp: From Payloads to Protection | Adongo Esther | [Read More](https://medium.com/p/5fedf11a95dd) |
-| Sun, 29 Jun 2025 15:02:30 GMT | Payatu Hiring CTF 2025 | debang5hu | [Read More](https://medium.com/p/2fa2918abb64) |
-| Sun, 29 Jun 2025 15:01:12 GMT | Performing AES GCM using Windows API | Pratik Chowdhury | [Read More](https://medium.com/p/e51f979f5d9b) |
-| Sun, 29 Jun 2025 14:56:42 GMT | Is He “The One”? 2 Feelings That Signal a True Connection | Yuenie-kate | [Read More](https://medium.com/p/ab8bfd13afa0) |
-| Sun, 29 Jun 2025 14:56:38 GMT | What is Third-Party Fraud: The Silent Killer of Digital Trust | Amandeep Suter | [Read More](https://medium.com/p/c16c98bf0c80) |
