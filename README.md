@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 10:22:24 GMT | How I Went from Fixing Copiers to Breaking Into Clouds | Rogier Dijkman | [Read More](https://medium.com/p/11fa0fae1dfe) |
+| Mon, 30 Jun 2025 10:21:20 GMT | I Tried Hacking My Own WiFi with Python — Here’s What Happened | The Code Studio | [Read More](https://medium.com/p/90ad3ad373ae) |
+| Mon, 30 Jun 2025 10:16:18 GMT | Cybersecurity AI: The Dangerous Gap Between Automation and Autonomy | Víctor Mayoral Vilches | [Read More](https://medium.com/p/a9a8014c71ae) |
+| Mon, 30 Jun 2025 10:16:01 GMT | Part 1: Shift Left Security — Stop Vulnerabilities Before They Start | DiPAK KNVDL | [Read More](https://medium.com/p/7b0123f7dcd4) |
+| Mon, 30 Jun 2025 10:15:02 GMT | Blue Teaming: Getting Paid to Defend Stuff (and Stress About Logs) | DarKVoicE | [Read More](https://medium.com/p/c48050af13d1) |
+| Mon, 30 Jun 2025 10:10:00 GMT | New malware targets Android phones globally — Is your phone already infected? | Karl Buhl | [Read More](https://medium.com/p/59e19e4c4231) |
+| Mon, 30 Jun 2025 10:09:10 GMT | Quantum Reboot — Chapter 5 | Alex Brox | [Read More](https://medium.com/p/8c09fc672e7e) |
+| Mon, 30 Jun 2025 10:06:57 GMT | The Red Team Mindset: Real Stories of Cyber Offense that Strengthen Defense | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/3c38220a8a44) |
+| Mon, 30 Jun 2025 09:49:02 GMT | Boost Performance Instantly: The Power of Regular Disk Cleanup | Baikan Ramchander | [Read More](https://medium.com/p/648eef4bca9d) |
 | Mon, 30 Jun 2025 09:44:34 GMT | Laptop Touchpad Not Working? Here’s What You Need to Know | Baikan Ramchander | [Read More](https://medium.com/p/73af352eb6d1) |
+| Mon, 30 Jun 2025 09:42:54 GMT | Command Injection to EC2 User Data Privilege Escalation(AWS-Red team lab) | n00 | [Read More](https://medium.com/p/fd6b833658eb) |
 | Mon, 30 Jun 2025 09:42:48 GMT | “End-to-End Risk Assessment and Threat Modeling for Healthcare Application Security” | Mohammed Yaseen | [Read More](https://medium.com/p/6df7ff03a814) |
 | Mon, 30 Jun 2025 09:40:41 GMT | Heuristics, humanity and automation in cybersecurity | Jacob Stephenson | [Read More](https://medium.com/p/8192791b2f3f) |
 | Mon, 30 Jun 2025 09:39:35 GMT | Wolf Pack League Opens the Gates | Chukwuma Alexia | [Read More](https://medium.com/p/ede4106eaaf4) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 05:29:10 GMT | Frozen Frontlines: The Arctic as the Next Theatre of Strategic Competition | Sylvie Blanchier | [Read More](https://medium.com/p/408833f59299) |
 | Mon, 30 Jun 2025 05:27:02 GMT | Demystifying Source Reliability: How to Ensure Credible CTI | Adam Goss | [Read More](https://medium.com/p/d7f15bbe7a52) |
 | Mon, 30 Jun 2025 05:24:56 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/57c7dba43baa) |
-| Mon, 30 Jun 2025 05:15:58 GMT | Cybersecurity Starts with You — Become an ISO 27001:2022 Lead Auditor | John  Carter | [Read More](https://medium.com/p/27e3943e9924) |
-| Mon, 30 Jun 2025 05:10:42 GMT | DoS (Denial of Service), DDoS (Distributed Denial of Service) | Gobinda Nandi | [Read More](https://medium.com/p/cdd12edaa149) |
-| Mon, 30 Jun 2025 05:08:10 GMT | Portswigger Web Security Academy - Logic Flaws Lab #1 | BooRuleDie | [Read More](https://medium.com/p/045baf20a053) |
-| Mon, 30 Jun 2025 05:08:03 GMT | Python, Software Development, and Tools — Digest #36 | Denys Volokh | [Read More](https://medium.com/p/010d60fd2bba) |
-| Mon, 30 Jun 2025 05:07:41 GMT | Twenty Awesome Docker Images Every Cybersecurity Engineer Needs on Their Radar in 2025 | Saikat Paul | [Read More](https://medium.com/p/aba9ba32543d) |
-| Mon, 30 Jun 2025 05:07:01 GMT | SD-WAN for NGFW by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/51cd53bd7149) |
-| Mon, 30 Jun 2025 05:06:02 GMT | Hardening EKS Pods with PSS, PSA, and CloudWatch Automated Alerts | Zs Robert | [Read More](https://medium.com/p/4ba8e1ce0f90) |
-| Mon, 30 Jun 2025 05:02:16 GMT | Win the Game of Work — Housekeeping & Security | EXLITY | [Read More](https://medium.com/p/c0c98f3e7700) |
-| Mon, 30 Jun 2025 04:58:05 GMT | Unlocking E‑commerce Growth: Why You Need an Amazon Specialist | Digitalrayz | [Read More](https://medium.com/p/9eb7027e307b) |
-| Mon, 30 Jun 2025 04:54:20 GMT | Strengthening Digital Defenses with AI Cybersecurity Solutions | Benjaminanderson | [Read More](https://medium.com/p/c0f2fadc179a) |
