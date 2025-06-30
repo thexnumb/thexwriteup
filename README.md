@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 09:44:34 GMT | Laptop Touchpad Not Working? Here’s What You Need to Know | Baikan Ramchander | [Read More](https://medium.com/p/73af352eb6d1) |
+| Mon, 30 Jun 2025 09:42:48 GMT | “End-to-End Risk Assessment and Threat Modeling for Healthcare Application Security” | Mohammed Yaseen | [Read More](https://medium.com/p/6df7ff03a814) |
+| Mon, 30 Jun 2025 09:40:41 GMT | Heuristics, humanity and automation in cybersecurity | Jacob Stephenson | [Read More](https://medium.com/p/8192791b2f3f) |
+| Mon, 30 Jun 2025 09:39:35 GMT | Wolf Pack League Opens the Gates | Chukwuma Alexia | [Read More](https://medium.com/p/ede4106eaaf4) |
+| Mon, 30 Jun 2025 09:33:48 GMT | Architectural Considerations for SaaS Application — PART (7/12): Logging, Monitoring & Metadata. | Dhyan Sagar | [Read More](https://medium.com/p/2d9ca417351d) |
+| Mon, 30 Jun 2025 09:33:01 GMT | Architectural Considerations for SaaS Application — PART (8/12): Third Party Integration. | Dhyan Sagar | [Read More](https://medium.com/p/ee6448f7a118) |
+| Mon, 30 Jun 2025 09:31:56 GMT | Architectural Considerations for SaaS Application — PART (9/12): Deployment & Scaling. | Dhyan Sagar | [Read More](https://medium.com/p/9adb02048750) |
+| Mon, 30 Jun 2025 09:31:08 GMT | NahamStore Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/9b9186e360c9) |
+| Mon, 30 Jun 2025 09:30:09 GMT | Essential 8 Explained: Why It Matters for Cyber Security | cyber ethos | [Read More](https://medium.com/p/c0940800cbce) |
+| Mon, 30 Jun 2025 09:29:49 GMT | Zero-Day Meets Zero-Trust: The Hidden Role of Human Bias in AI-Augmented Security | Jeffrey Nickle | [Read More](https://medium.com/p/aba43b480679) |
 | Mon, 30 Jun 2025 09:11:29 GMT | I Let Hackers Attack My Smart Home for a Week — Here’s What They Stole | Aj | [Read More](https://medium.com/p/f4c7295b71b3) |
 | Mon, 30 Jun 2025 09:08:21 GMT | Best Ethical Hacking Training in Noida - Ducat India | Namanv225@gmail.com | [Read More](https://medium.com/p/be3282eed9db) |
 | Mon, 30 Jun 2025 09:08:07 GMT | Best Ethical Hacking Training in Noida - Ducat India | Vijay yadav | [Read More](https://medium.com/p/125c2ffba5df) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 05:02:16 GMT | Win the Game of Work — Housekeeping & Security | EXLITY | [Read More](https://medium.com/p/c0c98f3e7700) |
 | Mon, 30 Jun 2025 04:58:05 GMT | Unlocking E‑commerce Growth: Why You Need an Amazon Specialist | Digitalrayz | [Read More](https://medium.com/p/9eb7027e307b) |
 | Mon, 30 Jun 2025 04:54:20 GMT | Strengthening Digital Defenses with AI Cybersecurity Solutions | Benjaminanderson | [Read More](https://medium.com/p/c0f2fadc179a) |
-| Mon, 30 Jun 2025 04:52:37 GMT | Why Compliance‑First Thinking Should Be Built into Every Product Lifecycle | Cyril Ajayi | [Read More](https://medium.com/p/aafcc369d11e) |
-| Mon, 30 Jun 2025 04:51:23 GMT | From SOC Analyst to Cybersecurity Innovator: A Conversation with Dennis Muchiri | James Gitau | [Read More](https://medium.com/p/75c01a792e44) |
-| Mon, 30 Jun 2025 04:46:54 GMT | ACM Developers Digest #2 | ACM MITB | [Read More](https://medium.com/p/96aa2c3cd538) |
-| Mon, 30 Jun 2025 04:46:49 GMT | Don’t Chase Cybersecurity for a Quick Six-Figure Paycheck. | Sampson Jonny | [Read More](https://medium.com/p/45026646e59b) |
-| Mon, 30 Jun 2025 04:30:16 GMT | The Linux Security Journey — KASLR (Kernel Address Space Layout Randomization) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6d5554766fe1) |
-| Mon, 30 Jun 2025 04:28:58 GMT | Mastering Nmap for Network Reconnaissance | Darshan | [Read More](https://medium.com/p/b72c26b2c7ff) |
-| Mon, 30 Jun 2025 04:27:37 GMT | From Signup to Takeover: A Quiet OAuth Account Hijack | Abdelrahhmanhisham | [Read More](https://medium.com/p/1de467300ebc) |
-| Mon, 30 Jun 2025 04:24:23 GMT | Hack The Safe: Prompt Injection CTF Walkthrough from Cyber Security Summit Thailand 2025 | Jormungandr | [Read More](https://medium.com/p/af3840737917) |
-| Mon, 30 Jun 2025 04:22:48 GMT | Mastering Idle Resource Cleanup in Azure and GCP | Saikat Paul | [Read More](https://medium.com/p/b7375ffa78d5) |
-| Mon, 30 Jun 2025 04:21:52 GMT | Why State‑Sponsored AI Cyberattacks from Iran Could Be Your Next Big Threat | Sneha Rani | [Read More](https://medium.com/p/1d23538dc9c8) |
