@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 06:24:02 GMT | Basic Networking Course with AI in 2025 | cyber security Updates | [Read More](https://medium.com/p/2b68db797c61) |
+| Mon, 30 Jun 2025 06:20:15 GMT | Bug Bounty Hunting: Get Paid to Break Stuff (Legally) | DarKVoicE | [Read More](https://medium.com/p/e9a923dbb542) |
+| Mon, 30 Jun 2025 06:14:16 GMT | Robotic Process Automation Market Size & Share - Growth Report - 2034 | Aman Bansal | [Read More](https://medium.com/p/0c1e699dbd80) |
+| Mon, 30 Jun 2025 06:03:32 GMT | Third Course Out! | Udit | [Read More](https://medium.com/p/2865bc851dab) |
+| Mon, 30 Jun 2025 06:03:22 GMT | Vibe Hacking: Finding 0-Days w/ Cursor | Amit Ziv | [Read More](https://medium.com/p/630447dc902d) |
+| Mon, 30 Jun 2025 06:01:54 GMT | OWASP Juice Shop | /sec/rffuste | [Read More](https://medium.com/p/5811ea1dd40e) |
+| Mon, 30 Jun 2025 06:01:39 GMT | Securing the future of LLMs and GenAI in UK Enterprises | Yash Gorasiya | [Read More](https://medium.com/p/5b5b172b5f64) |
+| Mon, 30 Jun 2025 05:59:37 GMT | From Cloud Deals to Cyber Defense: Why Cybersecurity Is the Biggest Opportunity I’ve Seen in a… | Kaushik Keshavamurthy | [Read More](https://medium.com/p/728cdf5d317e) |
+| Mon, 30 Jun 2025 05:46:32 GMT | Twenty Docker Images Every Cybersecurity Engineer Should Know in 2025 | Saikat Paul | [Read More](https://medium.com/p/658862861fd8) |
 | Mon, 30 Jun 2025 05:41:55 GMT | Broken Access Control part-5 : User ID controlled by request parameter | Ahmad Sopyan | [Read More](https://medium.com/p/966554190783) |
 | Mon, 30 Jun 2025 05:36:49 GMT | Open Source Looks Risky. That’s Why It Works. | OpenTeams | [Read More](https://medium.com/p/1900249ccaa7) |
 | Mon, 30 Jun 2025 05:34:32 GMT | Broken Access Control part-3 : User role controlled by request parameter | Ahmad Sopyan | [Read More](https://medium.com/p/7fe915109889) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 19:41:30 GMT | A secure way to store API keys in Android applications | Alexander Shevelev | [Read More](https://medium.com/p/238135709067) |
 | Sun, 29 Jun 2025 19:40:50 GMT | Am I Making the Right Career Choice? | Quartumos | [Read More](https://medium.com/p/ea52b5a15179) |
 | Sun, 29 Jun 2025 19:40:42 GMT | This New Trick Turns File Explorer Into a Malware Launcher | Cyber-AppSec | [Read More](https://medium.com/p/02656e9b9edd) |
-| Sun, 29 Jun 2025 19:40:37 GMT | Day 8:Stored XSS into anchor href attribute with double quotes HTML-encoded : Zero to Hero Series… | RayofHope | [Read More](https://medium.com/p/f4bcab7d9b8f) |
-| Sun, 29 Jun 2025 19:40:14 GMT | How to Secure Software Engineering Contracts: Real-World Degrees, Certifications, and Strategic… | Dr Francesco Dergano | [Read More](https://medium.com/p/ad5b25512839) |
-| Sun, 29 Jun 2025 19:32:58 GMT | Setting Up — Gophish and Evilginx — Part — 1 | Mainul Hasan | [Read More](https://medium.com/p/dd279680399b) |
-| Sun, 29 Jun 2025 19:19:06 GMT | “From Commits to CI: Secret Scanning with gitleaks-secret-scanner in GitLab & GitHub” | Vijay K | [Read More](https://medium.com/p/54546e7e6c55) |
-| Sun, 29 Jun 2025 19:18:17 GMT | Embracing lifelong learning is crucial. | Vikas | [Read More](https://medium.com/p/5831c7bf0ef1) |
-| Sun, 29 Jun 2025 19:03:40 GMT | OSINT Navigators: An Advanced Guide to Your All-in-One Investigation Workbench | sudo3rs | [Read More](https://medium.com/p/944f556fb3ee) |
-| Sun, 29 Jun 2025 19:01:57 GMT | Flutter: Como Desativar e Ativar Captura de Tela | Gabriel Caires | [Read More](https://medium.com/p/50ef46ef8301) |
-| Sun, 29 Jun 2025 19:00:58 GMT | Making Policy Management Smarter with AI | Nikita Gupta | [Read More](https://medium.com/p/adf37c64f4cd) |
-| Sun, 29 Jun 2025 18:52:23 GMT | On The Myth of Sisyphus | TheVulnerableBlackMale | [Read More](https://medium.com/p/5d1c9c8fd354) |
