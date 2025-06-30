@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 07:41:59 GMT | Forget the complicated guides: running local LLMs is easier than you think | Y Consulting | [Read More](https://medium.com/p/894d36420c78) |
+| Mon, 30 Jun 2025 07:41:08 GMT | Today’s Top Cyber Intelligence Highlights — Jun 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5de510ff778f) |
+| Mon, 30 Jun 2025 07:37:22 GMT | Roundcube: CVE-2025–49113 - TryHackMe | Priyansh | [Read More](https://medium.com/p/cd0c74c7045a) |
+| Mon, 30 Jun 2025 07:36:06 GMT | ## When Fear Becomes a Weapon: Faridabad Couple Loses ₹30 Lakh to Cyber Thugs ## | Nitin Saraswat | [Read More](https://medium.com/p/9a045ba71b78) |
+| Mon, 30 Jun 2025 07:33:41 GMT | Tried Learning Data Science in 30 Days — Here’s What Actually Worked" | S Anuradha | [Read More](https://medium.com/p/984519775e77) |
+| Mon, 30 Jun 2025 07:33:31 GMT | ZIP It Good: How Unzipping a File Gave Me Shell Access | Iski | [Read More](https://medium.com/p/15c740bf5226) |
+| Mon, 30 Jun 2025 07:24:51 GMT | Güvenlik Operasyonlarının Kalbi: SOC Nedir ? | Mehmet Deli | [Read More](https://medium.com/p/fc12fda3a091) |
+| Mon, 30 Jun 2025 07:23:38 GMT | CVSS 4.0 and Beyond: A Context-Aware Approach to Vulnerability Risk Assessment | Tom Gol | [Read More](https://medium.com/p/e9547970cffa) |
+| Mon, 30 Jun 2025 07:16:59 GMT | Enhance Your Security with SIEM Managed Services From Cyber Cops | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/cad9ac4ab27f) |
 | Mon, 30 Jun 2025 07:14:49 GMT | Careers in Cybersecurity: Where to Start? | Rasagnaqt33 | [Read More](https://medium.com/p/f55af9a782c1) |
 | Mon, 30 Jun 2025 07:07:20 GMT | UEFI Disk Cloning Utility™ (DEMO) | Kartik Joshi | [Read More](https://medium.com/p/e764132e8a8a) |
 | Mon, 30 Jun 2025 07:06:42 GMT | A Revolutionary Solution for Digital Identity: Ending Impersonation with Biometrics | "Book of Ideas" | [Read More](https://medium.com/p/428b8ff67ed4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 22:32:29 GMT | /bare/ | Chinaza Osegbo ۶ৎ | [Read More](https://medium.com/p/e01e4fba79cf) |
 | Sun, 29 Jun 2025 22:16:42 GMT | The Ultimate SIEM Configuration Guide for Blue Teamers | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fe6da5615301) |
 | Sun, 29 Jun 2025 22:04:45 GMT | Time to start using my Medium subscription. Time to start blogging again. | Ramadji A. Doumnandé | [Read More](https://medium.com/p/ccb338504f4f) |
-| Sun, 29 Jun 2025 22:01:53 GMT | Securing Your Docker Containers: Best Practices | @rnab | [Read More](https://medium.com/p/ef0329595a36) |
-| Sun, 29 Jun 2025 21:54:26 GMT | How I Found a 1-Cent Scooter Bug in Kukirin’s Checkout — and Why It Matters | Vigo Grgurevic | [Read More](https://medium.com/p/a0a608d923a1) |
-| Sun, 29 Jun 2025 21:28:48 GMT | Three Quick Wins to Immediately Improve Your Cloud Security Posture | Raphael P. | [Read More](https://medium.com/p/3f6b9a1c510b) |
-| Sun, 29 Jun 2025 21:23:52 GMT | I Investigated WannaCry Ransomware on a Simulated Bank Attack Using a Raspberry Pi Lab | Mr NumberX | [Read More](https://medium.com/p/426e50055b42) |
-| Sun, 29 Jun 2025 21:19:30 GMT | Digital Geneva Convention: Simulating Cyber “Jus in Bello” for a Safer Digital Battlefield | A-STAR7_DOCTOR | [Read More](https://medium.com/p/ffc795f3e8b1) |
-| Sun, 29 Jun 2025 21:19:26 GMT | I Taught ChatGPT to Think for Itself | Josh Davis | [Read More](https://medium.com/p/c280beffefb9) |
-| Sun, 29 Jun 2025 21:12:23 GMT | W1seGuy — Quebrando XOR em um Desafio do TryHackMe | HexSilent | [Read More](https://medium.com/p/66dfebe301e3) |
-| Sun, 29 Jun 2025 21:11:52 GMT | Hijacking OAuth Tokens with Just an XSS Flaw | Ibtissam hammadi | [Read More](https://medium.com/p/e0365f2081d2) |
-| Sun, 29 Jun 2025 21:00:50 GMT | Animarse a presentarse | Lau Alvez | [Read More](https://medium.com/p/97fe9a19e727) |
