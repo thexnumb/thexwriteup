@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 14:13:59 GMT | About Me | Zakariye Mohamed | [Read More](https://medium.com/p/8ab57e5b6ebf) |
+| Mon, 30 Jun 2025 14:12:48 GMT | CVE-2025-26074: Remote Code Execution in Conductor OSS via inline JavaScript Injection | Vitali Barysevich | [Read More](https://medium.com/p/5ce3cb651cfb) |
+| Mon, 30 Jun 2025 14:11:54 GMT | How to Deploy WiFi 7 in High-Density Environments | Vays Infotech | [Read More](https://medium.com/p/82424bcba9f9) |
+| Mon, 30 Jun 2025 14:07:08 GMT | Compliance Connect— A Compliance Query and Help Platform | Imran Roshan | [Read More](https://medium.com/p/25b0d2d555d9) |
+| Mon, 30 Jun 2025 14:06:09 GMT | Cyber Briefing: 2025.06.30 | CyberMaterial | [Read More](https://medium.com/p/2fc332a2ed88) |
+| Mon, 30 Jun 2025 14:04:37 GMT | 網路安全專家差點中招：釣魚攻擊對加密市場的影響 | Le'Born RWA | [Read More](https://medium.com/p/83d158f404cb) |
+| Mon, 30 Jun 2025 14:04:07 GMT | Stock Management System (SMS) v1.0 — SQL injection challenge | ali gamel | [Read More](https://medium.com/p/0c390bd30143) |
+| Mon, 30 Jun 2025 14:03:08 GMT | Security Expert Nearly Falls for Sophisticated Phishing Attack: Crypto | Le'Born RWA | [Read More](https://medium.com/p/23b6f64b333b) |
+| Mon, 30 Jun 2025 14:01:58 GMT | Rs 938 Crore Lost to Cybercrooks in Karnataka (Jan–May 2025): A Digital Crisis | Hacker news 07 | [Read More](https://medium.com/p/a0a87539ef6b) |
+| Mon, 30 Jun 2025 13:54:19 GMT | Automating S3 Bucket Monitoring with Slack Alerts — A DevSecOps Approach | Rakshit KS | [Read More](https://medium.com/p/a337fa412cf9) |
+| Mon, 30 Jun 2025 13:53:09 GMT | please help me i am dieing please help | lavell perkins | [Read More](https://medium.com/p/a7f54770fd8f) |
+| Mon, 30 Jun 2025 13:44:52 GMT | Kahel na langit | iyah | [Read More](https://medium.com/p/a68f153318a2) |
+| Mon, 30 Jun 2025 13:36:45 GMT | TryHackMe Willow — Walkthrough | mauzware | [Read More](https://medium.com/p/b28b81efc5d1) |
+| Mon, 30 Jun 2025 13:35:27 GMT | From Zero to Hero: My 365-Day TryHackMe Journey | Dhanush N | [Read More](https://medium.com/p/212deb7f5810) |
 | Mon, 30 Jun 2025 13:30:25 GMT | STAY SAFE ONLINE | Tech baddie | [Read More](https://medium.com/p/fbc3f67fca3a) |
 | Mon, 30 Jun 2025 13:18:24 GMT | Instalasi DVWA (Damn Vulnerable Web Application) pada Ubuntu 24.04.2 | Seftidinata | [Read More](https://medium.com/p/a35ac07ec475) |
 | Mon, 30 Jun 2025 13:17:01 GMT | Part 4: Kubernetes Hardening — Fortify the Cluster | DiPAK KNVDL | [Read More](https://medium.com/p/c30ab9b48f26) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 09:33:01 GMT | Architectural Considerations for SaaS Application — PART (8/12): Third Party Integration. | Dhyan Sagar | [Read More](https://medium.com/p/ee6448f7a118) |
 | Mon, 30 Jun 2025 09:31:56 GMT | Architectural Considerations for SaaS Application — PART (9/12): Deployment & Scaling. | Dhyan Sagar | [Read More](https://medium.com/p/9adb02048750) |
 | Mon, 30 Jun 2025 09:31:08 GMT | NahamStore Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/9b9186e360c9) |
-| Mon, 30 Jun 2025 09:30:09 GMT | Essential 8 Explained: Why It Matters for Cyber Security | cyber ethos | [Read More](https://medium.com/p/c0940800cbce) |
-| Mon, 30 Jun 2025 09:29:49 GMT | Zero-Day Meets Zero-Trust: The Hidden Role of Human Bias in AI-Augmented Security | Jeffrey Nickle | [Read More](https://medium.com/p/aba43b480679) |
-| Mon, 30 Jun 2025 09:11:29 GMT | I Let Hackers Attack My Smart Home for a Week — Here’s What They Stole | Aj | [Read More](https://medium.com/p/f4c7295b71b3) |
-| Mon, 30 Jun 2025 09:08:21 GMT | Best Ethical Hacking Training in Noida - Ducat India | Namanv225@gmail.com | [Read More](https://medium.com/p/be3282eed9db) |
-| Mon, 30 Jun 2025 09:08:07 GMT | Best Ethical Hacking Training in Noida - Ducat India | Vijay yadav | [Read More](https://medium.com/p/125c2ffba5df) |
-| Mon, 30 Jun 2025 09:07:30 GMT | Best Ethical Hacking Training in Noida - Ducat India | Nikki | [Read More](https://medium.com/p/b27dd3cc0355) |
-| Mon, 30 Jun 2025 09:07:28 GMT | Best Ethical Hacking Training in Noida - Ducat India | Farzan Ali | [Read More](https://medium.com/p/c2e161a35635) |
-| Mon, 30 Jun 2025 09:07:24 GMT | Best Ethical Hacking Training in Noida - Ducat India | 2pmDucat Batch | [Read More](https://medium.com/p/8d24eda07433) |
-| Mon, 30 Jun 2025 09:04:41 GMT | Ethical AI for LLM Builders: What I Learnt (and Now Won’t Ignore) | Madhan Karthik Ramasamy | [Read More](https://medium.com/p/cf4eeadac1c6) |
-| Mon, 30 Jun 2025 09:01:59 GMT | The Scariest Threat in Cybersecurity? It Might Be the Person Sitting Next to You | Gertrude Abagale | [Read More](https://medium.com/p/d93e001b096d) |
-| Mon, 30 Jun 2025 09:01:59 GMT | DevSecOps in Action: Preventing Hacking from Code to Production | DiPAK KNVDL | [Read More](https://medium.com/p/0beb11aad93d) |
-| Mon, 30 Jun 2025 08:52:06 GMT | The Daily Tech Digest: 30 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/86ae399c5462) |
-| Mon, 30 Jun 2025 08:50:45 GMT | Mengenal Server-Side Template Injection (SSTI): Ancaman Tersembunyi di Balik Template Web | Malbaralamsyah | [Read More](https://medium.com/p/c8d4e22f13da) |
-| Mon, 30 Jun 2025 08:50:26 GMT | Scope of Cybersecurity in Nepal | Softwarica College | [Read More](https://medium.com/p/9f3c16ab3eb5) |
