@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 14:41:46 GMT | The Future of VAPT Services: AI, Bug Bounties, and Beyond | Matin Shaikh | [Read More](https://medium.com/p/27a1cab80b12) |
+| Mon, 30 Jun 2025 14:41:10 GMT | [Security] 블루팀 홈 랩 구축 Part 2 — 가상 스위치 및 포트 그룹 생성 ( Building a Blue Team Home Lab Part 2 — Creating… | mer1 | [Read More](https://medium.com/p/94939850f93d) |
+| Mon, 30 Jun 2025 14:36:53 GMT | What’s Cybersecurity and Why Should You Care? | Priyanka Karmakar | [Read More](https://medium.com/p/c6aeec742dd9) |
+| Mon, 30 Jun 2025 14:33:38 GMT | ⚔️ TryHackMe — Kenobi Walkthrough | M0Hx8 | [Read More](https://medium.com/p/4929670dabe4) |
+| Mon, 30 Jun 2025 14:33:24 GMT | Phishing Email Awareness Series: Stay Safe, Stay Ahead (Part-1) | Leetsec Sarwar | [Read More](https://medium.com/p/88d46f16cbef) |
+| Mon, 30 Jun 2025 14:32:43 GMT | From Dissenter to Driver: The SEC’s New Playbook for Crypto | GFEX Official | [Read More](https://medium.com/p/64f425d49cea) |
+| Mon, 30 Jun 2025 14:32:43 GMT | Comprehensive Analysis of Recent Cybersecurity Incidents between year 2024–2025 | Ashvini kumar upadhyay | [Read More](https://medium.com/p/bb47e25537c8) |
+| Mon, 30 Jun 2025 14:32:43 GMT | How I Secure Public Wi-Fi When Working from a Parking Lot | Sam Galope | [Read More](https://medium.com/p/d5074780b536) |
+| Mon, 30 Jun 2025 14:30:04 GMT | Exploitation of Eureka (Spring Boot — HTB Machine) | Ravi Teja | [Read More](https://medium.com/p/76faf4ad14b9) |
+| Mon, 30 Jun 2025 14:29:22 GMT | Technicity Chronicle: Which Industries are Struggling the Most With Talent Shortages? | Faisal Khan | [Read More](https://medium.com/p/b1f455c12db6) |
+| Mon, 30 Jun 2025 14:26:59 GMT | Unpopular Opinion: You don’t need a webapp. | weaselmeister | [Read More](https://medium.com/p/fd62d3c22313) |
+| Mon, 30 Jun 2025 14:25:40 GMT | Evaluate Your Cybersecurity Stack | Century Solutions Group | [Read More](https://medium.com/p/6e483278285f) |
+| Mon, 30 Jun 2025 14:17:09 GMT | Part 5: Runtime Security & Threat Detection — Stay Alert in Production | DiPAK KNVDL | [Read More](https://medium.com/p/5bcd356c4c82) |
 | Mon, 30 Jun 2025 14:13:59 GMT | About Me | Zakariye Mohamed | [Read More](https://medium.com/p/8ab57e5b6ebf) |
 | Mon, 30 Jun 2025 14:12:48 GMT | CVE-2025-26074: Remote Code Execution in Conductor OSS via inline JavaScript Injection | Vitali Barysevich | [Read More](https://medium.com/p/5ce3cb651cfb) |
 | Mon, 30 Jun 2025 14:11:54 GMT | How to Deploy WiFi 7 in High-Density Environments | Vays Infotech | [Read More](https://medium.com/p/82424bcba9f9) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 10:16:18 GMT | Cybersecurity AI: The Dangerous Gap Between Automation and Autonomy | Víctor Mayoral Vilches | [Read More](https://medium.com/p/a9a8014c71ae) |
 | Mon, 30 Jun 2025 10:16:01 GMT | Part 1: Shift Left Security — Stop Vulnerabilities Before They Start | DiPAK KNVDL | [Read More](https://medium.com/p/7b0123f7dcd4) |
 | Mon, 30 Jun 2025 10:15:02 GMT | Blue Teaming: Getting Paid to Defend Stuff (and Stress About Logs) | DarKVoicE | [Read More](https://medium.com/p/c48050af13d1) |
-| Mon, 30 Jun 2025 10:10:00 GMT | New malware targets Android phones globally — Is your phone already infected? | Karl Buhl | [Read More](https://medium.com/p/59e19e4c4231) |
-| Mon, 30 Jun 2025 10:09:10 GMT | Quantum Reboot — Chapter 5 | Alex Brox | [Read More](https://medium.com/p/8c09fc672e7e) |
-| Mon, 30 Jun 2025 10:06:57 GMT | The Red Team Mindset: Real Stories of Cyber Offense that Strengthen Defense | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/3c38220a8a44) |
-| Mon, 30 Jun 2025 09:49:02 GMT | Boost Performance Instantly: The Power of Regular Disk Cleanup | Baikan Ramchander | [Read More](https://medium.com/p/648eef4bca9d) |
-| Mon, 30 Jun 2025 09:44:34 GMT | Laptop Touchpad Not Working? Here’s What You Need to Know | Baikan Ramchander | [Read More](https://medium.com/p/73af352eb6d1) |
-| Mon, 30 Jun 2025 09:42:54 GMT | Command Injection to EC2 User Data Privilege Escalation(AWS-Red team lab) | n00 | [Read More](https://medium.com/p/fd6b833658eb) |
-| Mon, 30 Jun 2025 09:42:48 GMT | “End-to-End Risk Assessment and Threat Modeling for Healthcare Application Security” | Mohammed Yaseen | [Read More](https://medium.com/p/6df7ff03a814) |
-| Mon, 30 Jun 2025 09:40:41 GMT | Heuristics, humanity and automation in cybersecurity | Jacob Stephenson | [Read More](https://medium.com/p/8192791b2f3f) |
-| Mon, 30 Jun 2025 09:39:35 GMT | Wolf Pack League Opens the Gates | Chukwuma Alexia | [Read More](https://medium.com/p/ede4106eaaf4) |
-| Mon, 30 Jun 2025 09:33:48 GMT | Architectural Considerations for SaaS Application — PART (7/12): Logging, Monitoring & Metadata. | Dhyan Sagar | [Read More](https://medium.com/p/2d9ca417351d) |
-| Mon, 30 Jun 2025 09:33:01 GMT | Architectural Considerations for SaaS Application — PART (8/12): Third Party Integration. | Dhyan Sagar | [Read More](https://medium.com/p/ee6448f7a118) |
-| Mon, 30 Jun 2025 09:31:56 GMT | Architectural Considerations for SaaS Application — PART (9/12): Deployment & Scaling. | Dhyan Sagar | [Read More](https://medium.com/p/9adb02048750) |
-| Mon, 30 Jun 2025 09:31:08 GMT | NahamStore Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/9b9186e360c9) |
