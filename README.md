@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 03:03:18 GMT | New Idea for Your Project with AI: Smart Webcam Toggle Using Scikit-Learn | Bloodaientity | [Read More](https://medium.com/p/613afb7e8a6b) |
+| Mon, 30 Jun 2025 02:48:55 GMT | Secure TCP Communication in C — Part 1: Building the Encrypted Backdoor Server (RSA + AES). | Rafael Medeiros | [Read More](https://medium.com/p/893f3d063f41) |
+| Mon, 30 Jun 2025 02:21:52 GMT | Why Printer Vulnerabilities Are a Serious Business Risk | Cyberoptic Security | [Read More](https://medium.com/p/ba09bdd7ee22) |
 | Mon, 30 Jun 2025 01:32:43 GMT | ️ So… I Made a Server Call Me Back. Unauthenticated SSRF via XML-RPC | AIwolfie | [Read More](https://medium.com/p/8116c9f0fbba) |
 | Mon, 30 Jun 2025 01:32:05 GMT | Building a Personal Finance Management App: Secure API Authentication — A Practical Guide | George Zefkilis | [Read More](https://medium.com/p/e9d936b6982b) |
 | Mon, 30 Jun 2025 01:31:17 GMT | The Iran and the Catalyst of Global South | Arrozaq Ave | [Read More](https://medium.com/p/71a9e5ad6940) |
@@ -111,6 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 16:40:16 GMT | Uploading Files to Firebase Storage & Storing Metadata in MongoDB | Gaurikhard | [Read More](https://medium.com/p/8d2add2d3fe5) |
 | Sun, 29 Jun 2025 16:37:27 GMT | ICMTC CTF 2025 | 0xheg3zy | [Read More](https://medium.com/p/4ce895a3c279) |
 | Sun, 29 Jun 2025 16:36:30 GMT | Apt 41 Unmasked: China’s Hybrid Cyber espionage Group | Ethan McKean | [Read More](https://medium.com/p/e97029cfd132) |
-| Sun, 29 Jun 2025 16:35:40 GMT | Emerging Cyber Threats Every SaaS Business Should Watch in 2025 | Kineberg Solutions | [Read More](https://medium.com/p/f805563e9f3a) |
-| Sun, 29 Jun 2025 16:35:30 GMT | Locking a C Executable to One Physical Machine | Pranav MR | [Read More](https://medium.com/p/ae9b85bc284a) |
-| Sun, 29 Jun 2025 16:34:02 GMT | JWT Cracking & Obfuscation Attacks: Real-World Exploits from CTFs, THM, HTB & Google CTF | Shadow Packet | [Read More](https://medium.com/p/be567bbab886) |
