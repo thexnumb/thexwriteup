@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 12:35:12 GMT | BCA in cloud TechnpoHow BCA Cloud Technology and Information Security Is Shaping Tomorrow’s… | Aashi | [Read More](https://medium.com/p/196141c596d1) |
+| Mon, 30 Jun 2025 12:31:31 GMT | Why Most Security Awareness Training Is Actually Making You Less Secure | Eric Zietlow | [Read More](https://medium.com/p/5f4770d8f4e0) |
+| Mon, 30 Jun 2025 12:29:27 GMT | Smarter, Safer Web3: The Role of AI in Blockchain Security | ICODA Agency | [Read More](https://medium.com/p/e4c77482b392) |
+| Mon, 30 Jun 2025 12:22:42 GMT | When Your Home Router Becomes a Spy. That’s the Paper Thin Threat | Hari Rahul | [Read More](https://medium.com/p/00c0b340e5e6) |
+| Mon, 30 Jun 2025 12:21:26 GMT | Why You Should Choose BCA Cloud Technology and Information Security in 2025 | Aashi | [Read More](https://medium.com/p/f40a51b7c673) |
+| Mon, 30 Jun 2025 12:20:17 GMT | LapDogs Campaign Shows How SOHO Routers Can Turn Into Espionage Tools | Srinivasps | [Read More](https://medium.com/p/15155bb71fc5) |
+| Mon, 30 Jun 2025 12:19:45 GMT | Evolusi Webshell: Dari c99 Hingga Backdoor Stealth Modern | Alexithema - Sinzoxp | [Read More](https://medium.com/p/f97217076b65) |
+| Mon, 30 Jun 2025 12:16:44 GMT | Part 3: Container & Image Security — Don’t Ship Exploits | DiPAK KNVDL | [Read More](https://medium.com/p/08dd143f1468) |
+| Mon, 30 Jun 2025 12:16:38 GMT | Quiet Breach: Over 1,000 SOHO Devices Used in Ongoing Espionage Campaign | Manish | [Read More](https://medium.com/p/6342e9fabc64) |
+| Mon, 30 Jun 2025 12:15:26 GMT | Threat Detection vs. Threat Hunting vs. Threat Intelligence: A Comparative Analysis | gxr911 | [Read More](https://medium.com/p/d258aadcddbb) |
+| Mon, 30 Jun 2025 12:13:11 GMT | Recon that changed my Bug Bounty journey | Dasmanish | [Read More](https://medium.com/p/302dd5257794) |
+| Mon, 30 Jun 2025 12:12:25 GMT | Pentesting-Targeting and Reconnaissance | Ahrens Han | [Read More](https://medium.com/p/2ef4472edff2) |
+| Mon, 30 Jun 2025 12:12:20 GMT | Siber Güvenlikte Yeni Dönem: SOAR Teknolojisinin Gücü ve Geleceği | Cyber Web | [Read More](https://medium.com/p/995132d241b8) |
+| Mon, 30 Jun 2025 12:04:45 GMT | What Is an Attack Surface in Cybersecurity and How Can It Be Managed Effectively? | Sophia | [Read More](https://medium.com/p/a6e4be73ccce) |
+| Mon, 30 Jun 2025 12:02:00 GMT | Criptoevolución: #MisVibracionesDeTrading | WhiteBIT | [Read More](https://medium.com/p/56ed42d02981) |
+| Mon, 30 Jun 2025 12:01:58 GMT | How I Design Technical Training That Actually Sticks | O'lando Cory Rawlinson | [Read More](https://medium.com/p/0d0886a7ab4c) |
+| Mon, 30 Jun 2025 12:01:58 GMT | Criptoevolución: Tú eliges tu camino, nosotros recompensamos tu progreso | WhiteBIT | [Read More](https://medium.com/p/48ae00f66d22) |
+| Mon, 30 Jun 2025 12:00:06 GMT | Windows 11 BlueStacks 不兼容的Windows設置？解決方案就在這裡！ | David Chu | [Read More](https://medium.com/p/db3d34ea6dc6) |
+| Mon, 30 Jun 2025 11:44:03 GMT | Preventing Cross-Site Scripting (XSS) in Spring Boot with Content-Security Policies (CSPs) | Umesh Kumar Yadav | [Read More](https://medium.com/p/42a1092e72bf) |
+| Mon, 30 Jun 2025 11:37:27 GMT | How Hackers Used CloudFront Functions to Mine Cryptocurrency (And How We Almost Missed It) | Dev engineer | [Read More](https://medium.com/p/67031087efed) |
 | Mon, 30 Jun 2025 11:36:15 GMT | ’       . | Ananda Krishna (0xG4057) | [Read More](https://medium.com/p/eadf05801bc6) |
 | Mon, 30 Jun 2025 11:32:53 GMT | 10 Days of MCP Security — Day 1: What is Model Context Protocol (MCP)? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/435fc950d2d0) |
 | Mon, 30 Jun 2025 11:32:15 GMT | Understanding CSRF (Cross-Site Request Forgery): Explanation & Prevention | Lovelesh Gangil | [Read More](https://medium.com/p/a822e2d4353f) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 07:51:22 GMT | Why I Always Start With Manual Testing in Bug Bounties — And Why You Should Too | Andrei Ivan | [Read More](https://medium.com/p/5cd2725d7667) |
 | Mon, 30 Jun 2025 07:50:59 GMT | Defend Your Business with Cisco Firewalls by Inexa Technology | Inexa Technology | [Read More](https://medium.com/p/98532a067047) |
 | Mon, 30 Jun 2025 07:50:23 GMT | ประจำวันจันทร์ที่ 30 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cbfb618ea42e) |
-| Mon, 30 Jun 2025 07:47:18 GMT | $250 Bounty: Privilege Escalation in Acronis via System Clean-up Directory Junction Trick | Monika sharma | [Read More](https://medium.com/p/f8ab338a6744) |
-| Mon, 30 Jun 2025 07:46:46 GMT | CVE-2025–49144: Notepad++ vulnerability allows full system compromise | Om Maniya | [Read More](https://medium.com/p/17944dc3fc2b) |
-| Mon, 30 Jun 2025 07:46:34 GMT | I Automated Recon and Found 100+ Bugs | Ibtissam hammadi | [Read More](https://medium.com/p/a6c68b6360eb) |
-| Mon, 30 Jun 2025 07:44:30 GMT | How to Find Your First XSS Bug in 24 Hours — Guaranteed! | Vipul Sonule | [Read More](https://medium.com/p/bbbe8bdb475d) |
-| Mon, 30 Jun 2025 07:44:08 GMT | Advanced Gau + Waybackurls Filtering for Sensitive Files | Monika sharma | [Read More](https://medium.com/p/c8273cbd4b57) |
-| Mon, 30 Jun 2025 07:42:49 GMT | The Scope Trap: How Most Hackers Miss the Best Bugs Without Even Realizing It | Đeepanshu | [Read More](https://medium.com/p/4db55da078ab) |
-| Mon, 30 Jun 2025 07:41:59 GMT | Forget the complicated guides: running local LLMs is easier than you think | Y Consulting | [Read More](https://medium.com/p/894d36420c78) |
-| Mon, 30 Jun 2025 07:41:08 GMT | Today’s Top Cyber Intelligence Highlights — Jun 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5de510ff778f) |
-| Mon, 30 Jun 2025 07:37:22 GMT | Roundcube: CVE-2025–49113 - TryHackMe | Priyansh | [Read More](https://medium.com/p/cd0c74c7045a) |
-| Mon, 30 Jun 2025 07:36:06 GMT | ## When Fear Becomes a Weapon: Faridabad Couple Loses ₹30 Lakh to Cyber Thugs ## | Nitin Saraswat | [Read More](https://medium.com/p/9a045ba71b78) |
-| Mon, 30 Jun 2025 07:33:41 GMT | Tried Learning Data Science in 30 Days — Here’s What Actually Worked" | S Anuradha | [Read More](https://medium.com/p/984519775e77) |
-| Mon, 30 Jun 2025 07:33:31 GMT | ZIP It Good: How Unzipping a File Gave Me Shell Access | Iski | [Read More](https://medium.com/p/15c740bf5226) |
-| Mon, 30 Jun 2025 07:24:51 GMT | Güvenlik Operasyonlarının Kalbi: SOC Nedir ? | Mehmet Deli | [Read More](https://medium.com/p/fc12fda3a091) |
-| Mon, 30 Jun 2025 07:23:38 GMT | CVSS 4.0 and Beyond: A Context-Aware Approach to Vulnerability Risk Assessment | Tom Gol | [Read More](https://medium.com/p/e9547970cffa) |
-| Mon, 30 Jun 2025 07:16:59 GMT | Enhance Your Security with SIEM Managed Services From Cyber Cops | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/cad9ac4ab27f) |
-| Mon, 30 Jun 2025 07:14:49 GMT | Careers in Cybersecurity: Where to Start? | Rasagnaqt33 | [Read More](https://medium.com/p/f55af9a782c1) |
-| Mon, 30 Jun 2025 07:07:20 GMT | UEFI Disk Cloning Utility™ (DEMO) | Kartik Joshi | [Read More](https://medium.com/p/e764132e8a8a) |
-| Mon, 30 Jun 2025 07:06:42 GMT | A Revolutionary Solution for Digital Identity: Ending Impersonation with Biometrics | "Book of Ideas" | [Read More](https://medium.com/p/428b8ff67ed4) |
-| Mon, 30 Jun 2025 07:03:02 GMT | What It’s Like Posting to Medium with Pure O | Uland's OCD Hub | [Read More](https://medium.com/p/1ff9809e64fc) |
-| Mon, 30 Jun 2025 06:58:33 GMT | Scanning the Internet | abhipnair | [Read More](https://medium.com/p/0fd5b7cbe7a0) |
