@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 15:15:09 GMT | Tailored Security Solutions in Peterborough — Protect What Matters Most | Glowbolt | [Read More](https://medium.com/p/040cd225d8b2) |
+| Mon, 30 Jun 2025 15:12:32 GMT | OSINT and Intelligence Grading: Why the 3x5x2 Framework Matters More Than Ever | Joe The OSINT Guy | [Read More](https://medium.com/p/8ef44a416a9e) |
+| Mon, 30 Jun 2025 15:04:33 GMT | I Can’t Stand Negative Feedback, No Matter How Well-Intended | Charleston Li | [Read More](https://medium.com/p/365613bcf9a9) |
+| Mon, 30 Jun 2025 15:02:06 GMT | Part 6: Zero Trust Architecture in DevSecOps — Never Trust, Always Verify | DiPAK KNVDL | [Read More](https://medium.com/p/28004847ba64) |
+| Mon, 30 Jun 2025 15:02:04 GMT | From Reactive to Proactive: Enhancing Cybersecurity for Alternative Investment Firms with MDR… | RFA | [Read More](https://medium.com/p/4d341658c590) |
+| Mon, 30 Jun 2025 15:02:04 GMT | The Future of Cloud Protection: Springfield, MO IT Services Cybersecurity Strategies | PCnet | [Read More](https://medium.com/p/78844101d536) |
+| Mon, 30 Jun 2025 15:02:00 GMT | ️‍♂️ Kevin Mitnick: The World’s Most Wanted Hacker Turned Cybersecurity Consultant | Amir Mughal | [Read More](https://medium.com/p/1c396262c11b) |
+| Mon, 30 Jun 2025 15:01:00 GMT | picoCTF — Cookie Monster Secret Recipe | Robby firdauzy | [Read More](https://medium.com/p/19b58380a8a0) |
+| Mon, 30 Jun 2025 14:47:58 GMT | Fantastic Bugs and Where To Find Them | Ajinkya Karanjikar (ASK) | [Read More](https://medium.com/p/ce97a7362c0e) |
+| Mon, 30 Jun 2025 14:45:27 GMT | WSTG v4.2 I — Information Gathering Summary | Burak Koçyiğit | [Read More](https://medium.com/p/fdef39334e57) |
+| Mon, 30 Jun 2025 14:41:52 GMT | How to Make a Man Emotionally Addicted to You: The Power of Unconditional Acceptance | Yuenie-kate | [Read More](https://medium.com/p/d9e32c891617) |
 | Mon, 30 Jun 2025 14:41:46 GMT | The Future of VAPT Services: AI, Bug Bounties, and Beyond | Matin Shaikh | [Read More](https://medium.com/p/27a1cab80b12) |
 | Mon, 30 Jun 2025 14:41:10 GMT | [Security] 블루팀 홈 랩 구축 Part 2 — 가상 스위치 및 포트 그룹 생성 ( Building a Blue Team Home Lab Part 2 — Creating… | mer1 | [Read More](https://medium.com/p/94939850f93d) |
 | Mon, 30 Jun 2025 14:36:53 GMT | What’s Cybersecurity and Why Should You Care? | Priyanka Karmakar | [Read More](https://medium.com/p/c6aeec742dd9) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 10:38:46 GMT | Incident Response: Because “Oops” Is Not a Strategy | DarKVoicE | [Read More](https://medium.com/p/4c5ffa67fe9c) |
 | Mon, 30 Jun 2025 10:36:12 GMT | When Nations Hack and Scammers Thrive in a Fractured World | David SEHYEON Baek | [Read More](https://medium.com/p/2d0a770ac4d0) |
 | Mon, 30 Jun 2025 10:34:07 GMT | Is Your Accounting Software Actually Safe? | Alex Hughes | [Read More](https://medium.com/p/a58f1e8bdb23) |
-| Mon, 30 Jun 2025 10:32:05 GMT | BitVita: Uninterrupted Trading Meets Uncompromising Security | BitVita Official | [Read More](https://medium.com/p/fcd2ba79f601) |
-| Mon, 30 Jun 2025 10:31:11 GMT | Malware Analysis Training & Certification in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/f936333e082a) |
-| Mon, 30 Jun 2025 10:28:54 GMT | Kerberos Explained in a Fun way!(With Analogy) | Syed Khalid Tipu Razvi (SKTR) | [Read More](https://medium.com/p/2e4d31070bd6) |
-| Mon, 30 Jun 2025 10:28:30 GMT | How Do Web Application Development Services Boost Presence? | Remand Simon | [Read More](https://medium.com/p/423f3726687e) |
-| Mon, 30 Jun 2025 10:28:01 GMT | Ahold Delhaize Data Breach 2025: 2.2 Million Shoppers’ Personal Information Compromised | Technijian | [Read More](https://medium.com/p/7cedcb4ce742) |
-| Mon, 30 Jun 2025 10:26:42 GMT | How Third-Party Pixels Jeopardize HIPAA Compliance on Healthcare Websites | Feroot Security | [Read More](https://medium.com/p/add73c82d197) |
-| Mon, 30 Jun 2025 10:22:24 GMT | How I Went from Fixing Copiers to Breaking Into Clouds | Rogier Dijkman | [Read More](https://medium.com/p/11fa0fae1dfe) |
-| Mon, 30 Jun 2025 10:21:20 GMT | I Tried Hacking My Own WiFi with Python — Here’s What Happened | The Code Studio | [Read More](https://medium.com/p/90ad3ad373ae) |
-| Mon, 30 Jun 2025 10:16:18 GMT | Cybersecurity AI: The Dangerous Gap Between Automation and Autonomy | Víctor Mayoral Vilches | [Read More](https://medium.com/p/a9a8014c71ae) |
-| Mon, 30 Jun 2025 10:16:01 GMT | Part 1: Shift Left Security — Stop Vulnerabilities Before They Start | DiPAK KNVDL | [Read More](https://medium.com/p/7b0123f7dcd4) |
-| Mon, 30 Jun 2025 10:15:02 GMT | Blue Teaming: Getting Paid to Defend Stuff (and Stress About Logs) | DarKVoicE | [Read More](https://medium.com/p/c48050af13d1) |
