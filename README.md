@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 03:44:31 GMT | The Shadow in the Feed: A Deceptive Facebook Persona Possibly Tied to the Son of Sam Case | Criminal Justice Chris | [Read More](https://medium.com/p/6de760c7d9fa) |
+| Mon, 30 Jun 2025 03:31:55 GMT | The Great Certificate Shortening: Is Your Website Ready for the 47-Day SSL/TLS Lifespan? | Deven Chhajed | [Read More](https://medium.com/p/c4c0ad1819df) |
+| Mon, 30 Jun 2025 03:24:49 GMT | What a Memory Dump Can Reveal About You (And Why You Should Care) | Varnith | [Read More](https://medium.com/p/5414d45eca20) |
 | Mon, 30 Jun 2025 03:03:18 GMT | New Idea for Your Project with AI: Smart Webcam Toggle Using Scikit-Learn | Bloodaientity | [Read More](https://medium.com/p/613afb7e8a6b) |
 | Mon, 30 Jun 2025 02:48:55 GMT | Secure TCP Communication in C — Part 1: Building the Encrypted Backdoor Server (RSA + AES). | Rafael Medeiros | [Read More](https://medium.com/p/893f3d063f41) |
+| Mon, 30 Jun 2025 02:32:31 GMT | 防御核心：如何保障大规模向量数据库的安全 | Carlos Martínez | [Read More](https://medium.com/p/9a02757c3216) |
 | Mon, 30 Jun 2025 02:21:52 GMT | Why Printer Vulnerabilities Are a Serious Business Risk | Cyberoptic Security | [Read More](https://medium.com/p/ba09bdd7ee22) |
 | Mon, 30 Jun 2025 01:32:43 GMT | ️ So… I Made a Server Call Me Back. Unauthenticated SSRF via XML-RPC | AIwolfie | [Read More](https://medium.com/p/8116c9f0fbba) |
 | Mon, 30 Jun 2025 01:32:05 GMT | Building a Personal Finance Management App: Secure API Authentication — A Practical Guide | George Zefkilis | [Read More](https://medium.com/p/e9d936b6982b) |
@@ -110,7 +114,3 @@ not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
 | Sun, 29 Jun 2025 17:13:13 GMT | Through the Eyes of a SIEM: What Happens in 24 Hours? | Yuksel | [Read More](https://medium.com/p/6513d5a48f36) |
 | Sun, 29 Jun 2025 16:51:12 GMT | Cross-Site Scripting with a Twist | Marco Nappi | [Read More](https://medium.com/p/b017d6c3a06b) |
 | Sun, 29 Jun 2025 16:49:46 GMT | Intermediate Lab Environment: Domain Joining | Abyss | [Read More](https://medium.com/p/68012509145e) |
-| Sun, 29 Jun 2025 16:46:08 GMT | The Telegram Crypto Guru Scam: How They Target Young Entrepreneurs. | The Anti-Scam Diaries | [Read More](https://medium.com/p/7f4d3d9d1cd9) |
-| Sun, 29 Jun 2025 16:40:16 GMT | Uploading Files to Firebase Storage & Storing Metadata in MongoDB | Gaurikhard | [Read More](https://medium.com/p/8d2add2d3fe5) |
-| Sun, 29 Jun 2025 16:37:27 GMT | ICMTC CTF 2025 | 0xheg3zy | [Read More](https://medium.com/p/4ce895a3c279) |
-| Sun, 29 Jun 2025 16:36:30 GMT | Apt 41 Unmasked: China’s Hybrid Cyber espionage Group | Ethan McKean | [Read More](https://medium.com/p/e97029cfd132) |
