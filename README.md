@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 19:06:09 GMT | The Silent Scam: Why You Should Never Ignore a Blank Call | The Tech Journal | [Read More](https://medium.com/p/d15bf0c56430) |
+| Mon, 30 Jun 2025 19:00:19 GMT | ️ Proactive Monitoring Techniques for Detecting Zero-Day Exploits | Esra Kayhan | [Read More](https://medium.com/p/58434524b394) |
+| Mon, 30 Jun 2025 18:58:17 GMT | Smart Patrol Integration | Presslink Media | [Read More](https://medium.com/p/5214040db7fa) |
+| Mon, 30 Jun 2025 18:57:02 GMT | Inside the $2.3 Billion Cross-Chain Bridge Massacre: A Forensic Analysis | Chronos Vault | [Read More](https://medium.com/p/39b938329403) |
+| Mon, 30 Jun 2025 18:55:19 GMT | Empowering Security and Access Control: A Review of Shine Union’s Robust Partnerships | SU Group Holdings Limited (SUGP) | [Read More](https://medium.com/p/79731a433085) |
+| Mon, 30 Jun 2025 18:49:18 GMT | Enterprise-Grade RBAC in NestJS: Building HIPAA-Compliant Access Control with Emergency Overrides | Vishad Patel | [Read More](https://medium.com/p/8c07205e08c9) |
+| Mon, 30 Jun 2025 18:47:08 GMT | CyberDefenders Lab : XLMRat (Network Forensics) | Sarkhelranit | [Read More](https://medium.com/p/64b5c84d33f1) |
+| Mon, 30 Jun 2025 18:43:56 GMT | The Life Cycle of a Vulnerability: What Happens Before and After a CVE is Published? | Yuksel | [Read More](https://medium.com/p/beb386450bf5) |
+| Mon, 30 Jun 2025 18:40:50 GMT | Cyber Storm Unleashed: 35 Arrested in ₹3 Crore Online Scam! | Nitin Saraswat | [Read More](https://medium.com/p/8d00f01f04f7) |
+| Mon, 30 Jun 2025 18:31:24 GMT | Your Unposted Photos? Facebook Wants Them | Aj | [Read More](https://medium.com/p/b6b86afc9679) |
+| Mon, 30 Jun 2025 18:30:46 GMT | Understanding Risk Analysis | Cyber T | [Read More](https://medium.com/p/3aa869e9da19) |
+| Mon, 30 Jun 2025 18:30:29 GMT | The Failed Email Project That Secures the Internet Today | Riddhi  Kulkarni | [Read More](https://medium.com/p/920d5efed23d) |
+| Mon, 30 Jun 2025 18:27:10 GMT | AI Phishing Emails Target Executives Effectively | Artificial Intelligence + | [Read More](https://medium.com/p/f67bbcc89b37) |
+| Mon, 30 Jun 2025 18:26:39 GMT | The Accidental Security Engineer: A Developer’s Tale | Abhishek Sengar | [Read More](https://medium.com/p/c9db4a273112) |
 | Mon, 30 Jun 2025 18:24:14 GMT | CTF Write-up: MinerHunt (Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/048061079ef8) |
 | Mon, 30 Jun 2025 18:23:13 GMT | “Your Phone Is the New Battlefield: 5 Alarming Cybersecurity Threats You Didn’t See Coming” | Anshika Prajapati | [Read More](https://medium.com/p/7bcba081f45f) |
 | Mon, 30 Jun 2025 18:22:49 GMT | SEC Strengthens Data Protections for Financial Firms | Chetan Seripally | [Read More](https://medium.com/p/a2dbe568429b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 14:12:48 GMT | CVE-2025-26074: Remote Code Execution in Conductor OSS via inline JavaScript Injection | Vitali Barysevich | [Read More](https://medium.com/p/5ce3cb651cfb) |
 | Mon, 30 Jun 2025 14:11:54 GMT | How to Deploy WiFi 7 in High-Density Environments | Vays Infotech | [Read More](https://medium.com/p/82424bcba9f9) |
 | Mon, 30 Jun 2025 14:07:08 GMT | Compliance Connect— A Compliance Query and Help Platform | Imran Roshan | [Read More](https://medium.com/p/25b0d2d555d9) |
-| Mon, 30 Jun 2025 14:06:09 GMT | Cyber Briefing: 2025.06.30 | CyberMaterial | [Read More](https://medium.com/p/2fc332a2ed88) |
-| Mon, 30 Jun 2025 14:04:37 GMT | 網路安全專家差點中招：釣魚攻擊對加密市場的影響 | Le'Born RWA | [Read More](https://medium.com/p/83d158f404cb) |
-| Mon, 30 Jun 2025 14:04:07 GMT | Stock Management System (SMS) v1.0 — SQL injection challenge | ali gamel | [Read More](https://medium.com/p/0c390bd30143) |
-| Mon, 30 Jun 2025 14:03:08 GMT | Security Expert Nearly Falls for Sophisticated Phishing Attack: Crypto | Le'Born RWA | [Read More](https://medium.com/p/23b6f64b333b) |
-| Mon, 30 Jun 2025 14:01:58 GMT | Rs 938 Crore Lost to Cybercrooks in Karnataka (Jan–May 2025): A Digital Crisis | Hacker news 07 | [Read More](https://medium.com/p/a0a87539ef6b) |
-| Mon, 30 Jun 2025 13:54:19 GMT | Automating S3 Bucket Monitoring with Slack Alerts — A DevSecOps Approach | Rakshit KS | [Read More](https://medium.com/p/a337fa412cf9) |
-| Mon, 30 Jun 2025 13:53:09 GMT | please help me i am dieing please help | lavell perkins | [Read More](https://medium.com/p/a7f54770fd8f) |
-| Mon, 30 Jun 2025 13:44:52 GMT | Kahel na langit | iyah | [Read More](https://medium.com/p/a68f153318a2) |
-| Mon, 30 Jun 2025 13:36:45 GMT | TryHackMe Willow — Walkthrough | mauzware | [Read More](https://medium.com/p/b28b81efc5d1) |
-| Mon, 30 Jun 2025 13:35:27 GMT | From Zero to Hero: My 365-Day TryHackMe Journey | Dhanush N | [Read More](https://medium.com/p/212deb7f5810) |
-| Mon, 30 Jun 2025 13:30:25 GMT | STAY SAFE ONLINE | Tech baddie | [Read More](https://medium.com/p/fbc3f67fca3a) |
-| Mon, 30 Jun 2025 13:18:24 GMT | Instalasi DVWA (Damn Vulnerable Web Application) pada Ubuntu 24.04.2 | Seftidinata | [Read More](https://medium.com/p/a35ac07ec475) |
-| Mon, 30 Jun 2025 13:17:01 GMT | Part 4: Kubernetes Hardening — Fortify the Cluster | DiPAK KNVDL | [Read More](https://medium.com/p/c30ab9b48f26) |
-| Mon, 30 Jun 2025 13:15:25 GMT | TryHackMe 5 Pratik Oda | Bugraeren | [Read More](https://medium.com/p/e45e272a4875) |
