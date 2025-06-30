@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 16:32:37 GMT | Why Cybersecurity Should Be Part of Your Company Culture—Not Just Your IT Department | Donald Betancourt | [Read More](https://medium.com/p/01ab0bdc78e9) |
+| Mon, 30 Jun 2025 16:28:16 GMT | Why Protecting Your WordPress Site Is Essential — And Why Rainbow Secure Is the Smart Choice for… | Dr. Shashi Karhail | [Read More](https://medium.com/p/0a1055694e31) |
+| Mon, 30 Jun 2025 16:26:17 GMT | Unauthenticated PURGE on Varnish - My First Valid Bug | VxRabbit | [Read More](https://medium.com/p/62a359ad711b) |
+| Mon, 30 Jun 2025 16:22:12 GMT | TryHackMe - Request Smuggling: WebSockets - WriteUp | Axoloth | [Read More](https://medium.com/p/a9971042e68b) |
 | Mon, 30 Jun 2025 16:15:44 GMT | Complete Distributed Log Monitoring Setup with Splunk Enterprise & Universal Forwarder on VMs | Kaushal | [Read More](https://medium.com/p/3f1e66596dd3) |
 | Mon, 30 Jun 2025 16:12:06 GMT | LAB 18: Packers and Unpacking Techniques in Malware Analysis | Mustapha Ait Ichou | [Read More](https://medium.com/p/235710e75a88) |
 | Mon, 30 Jun 2025 16:09:38 GMT | Hack The System — CitiSmart | محمد بن إبراهيم | [Read More](https://medium.com/p/83dd0b4321d3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 12:00:06 GMT | Windows 11 BlueStacks 不兼容的Windows設置？解決方案就在這裡！ | David Chu | [Read More](https://medium.com/p/db3d34ea6dc6) |
 | Mon, 30 Jun 2025 11:44:03 GMT | Preventing Cross-Site Scripting (XSS) in Spring Boot with Content-Security Policies (CSPs) | Umesh Kumar Yadav | [Read More](https://medium.com/p/42a1092e72bf) |
 | Mon, 30 Jun 2025 11:37:27 GMT | How Hackers Used CloudFront Functions to Mine Cryptocurrency (And How We Almost Missed It) | Dev engineer | [Read More](https://medium.com/p/67031087efed) |
-| Mon, 30 Jun 2025 11:36:15 GMT | ’       . | Ananda Krishna (0xG4057) | [Read More](https://medium.com/p/eadf05801bc6) |
-| Mon, 30 Jun 2025 11:32:53 GMT | 10 Days of MCP Security — Day 1: What is Model Context Protocol (MCP)? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/435fc950d2d0) |
-| Mon, 30 Jun 2025 11:32:15 GMT | Understanding CSRF (Cross-Site Request Forgery): Explanation & Prevention | Lovelesh Gangil | [Read More](https://medium.com/p/a822e2d4353f) |
-| Mon, 30 Jun 2025 11:26:46 GMT | Planning of Changes (Clause 6.3 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/efcc49e9ff04) |
