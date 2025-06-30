@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 22:17:13 GMT | OAuth Misconfigurations: Real-World Examples and Exploitation Tips | Karthikeyan Nagaraj | [Read More](https://medium.com/p/86a8d0ab6296) |
 | Mon, 30 Jun 2025 22:14:23 GMT | Hack The System — NeoVault | محمد بن إبراهيم | [Read More](https://medium.com/p/722200c98dad) |
 | Mon, 30 Jun 2025 22:10:13 GMT | AI Prompt Caching for Context Engineering: Optimizing OPEX and User Experience | Michael Rico | [Read More](https://medium.com/p/48b3aef12f52) |
 | Mon, 30 Jun 2025 22:06:01 GMT | PicoCTF Writeup: Bookmarklet Encryption Challenge | Veyron92i | [Read More](https://medium.com/p/5af05d7917f0) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 16:57:11 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/ee707b13cd7e) |
 | Mon, 30 Jun 2025 16:55:10 GMT | Army Approves Relocation of Esplanade Bus Stand: A New Chapter in Kolkata’s Urban Planning | Samrat Bhattacharya | [Read More](https://medium.com/p/c80c50f84cec) |
 | Mon, 30 Jun 2025 16:53:20 GMT | Hack The System — JinjaCare | محمد بن إبراهيم | [Read More](https://medium.com/p/606a33e60e28) |
-| Mon, 30 Jun 2025 16:48:43 GMT | Intigriti HackDonalds Challenge Writeup — LFI via XXE | Vishnu Raveendran | [Read More](https://medium.com/p/68a136663bb0) |
