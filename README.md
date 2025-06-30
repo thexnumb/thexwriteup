@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 18:24:14 GMT | CTF Write-up: MinerHunt (Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/048061079ef8) |
+| Mon, 30 Jun 2025 18:23:13 GMT | “Your Phone Is the New Battlefield: 5 Alarming Cybersecurity Threats You Didn’t See Coming” | Anshika Prajapati | [Read More](https://medium.com/p/7bcba081f45f) |
+| Mon, 30 Jun 2025 18:22:49 GMT | SEC Strengthens Data Protections for Financial Firms | Chetan Seripally | [Read More](https://medium.com/p/a2dbe568429b) |
+| Mon, 30 Jun 2025 18:20:43 GMT | Academy-walkthrough() | Kushwanth R | [Read More](https://medium.com/p/e4c23479e9d1) |
+| Mon, 30 Jun 2025 18:19:06 GMT | Industrial Intrusion CTF - Task 3 -Breach - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/a385d55816ab) |
+| Mon, 30 Jun 2025 18:16:03 GMT | “When Presence isn’t Enough” | Imóla | [Read More](https://medium.com/p/61752587b536) |
+| Mon, 30 Jun 2025 18:09:54 GMT | Is AI Spying on You? What You Should Know in 2025 | WebBees | [Read More](https://medium.com/p/4c0a6770caa6) |
+| Mon, 30 Jun 2025 18:07:28 GMT | Rebuilding the Future on Contextual Authorization | Anoop Gangadharan | [Read More](https://medium.com/p/3ce2cd81f2a8) |
+| Mon, 30 Jun 2025 18:06:53 GMT | Apparently, a “good vendor” needs three things: good company, good product, and good sales people. | M H | [Read More](https://medium.com/p/c78057d923f6) |
+| Mon, 30 Jun 2025 18:05:06 GMT | Ukraine Cyber Threat Escalates: GIFTEDCROOK Steals Critical Data | Aj | [Read More](https://medium.com/p/b8b9c928fab4) |
+| Mon, 30 Jun 2025 18:04:35 GMT | Visualize Privacy: Why Dmail Makes Your Inbox Truly Yours | Web3Sunshine | [Read More](https://medium.com/p/03d79b431300) |
+| Mon, 30 Jun 2025 18:04:32 GMT | Here Is How I Recover My Money From Fginvest Group | Emma Watson | [Read More](https://medium.com/p/0ae8d85b033d) |
+| Mon, 30 Jun 2025 17:58:16 GMT | How To Reframe Our Understanding of Emotional Depth | Ivan N. | [Read More](https://medium.com/p/e8e8a7abfe60) |
+| Mon, 30 Jun 2025 17:57:05 GMT | NERC CIP Standard Demystified | Asad Syed | [Read More](https://medium.com/p/83374c54eb4f) |
+| Mon, 30 Jun 2025 17:53:18 GMT | Understanding Emerging Threats: Iranian Cyber Actors Targeting US Networks and How Organizations… | Chetan Seripally | [Read More](https://medium.com/p/06c058e40d85) |
+| Mon, 30 Jun 2025 17:50:14 GMT | Securing Multi-Tenant Data with MongoDB’s ExpliClient-Side Field Level Encryption and FastAPI | Vinod Krishnan | [Read More](https://medium.com/p/dc554ec478aa) |
+| Mon, 30 Jun 2025 17:47:47 GMT | Vibe Coding vs. AI Slop: Building Trust into AI Assisted Development | Anoop Gangadharan | [Read More](https://medium.com/p/e649e0580c18) |
+| Mon, 30 Jun 2025 17:45:51 GMT | How AI Started Hacking | Mohammad AlSarabi | [Read More](https://medium.com/p/0495244f6e5c) |
 | Mon, 30 Jun 2025 17:37:26 GMT | Securing Websites Against XSS Attacks: A Developer’s Guide to Safer Web Applications | SafeAeon Inc. | [Read More](https://medium.com/p/d81e1217bdd6) |
 | Mon, 30 Jun 2025 17:37:21 GMT | A practical guide to understanding the OSI Model and how it strengthens cybersecurity strategies. | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/2b3aad005202) |
 | Mon, 30 Jun 2025 17:32:15 GMT | How a Controlled Breach Test Helped Me Harden My Linux Server Instantly | Faruk Ahmed | [Read More](https://medium.com/p/2970664c336f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 13:18:24 GMT | Instalasi DVWA (Damn Vulnerable Web Application) pada Ubuntu 24.04.2 | Seftidinata | [Read More](https://medium.com/p/a35ac07ec475) |
 | Mon, 30 Jun 2025 13:17:01 GMT | Part 4: Kubernetes Hardening — Fortify the Cluster | DiPAK KNVDL | [Read More](https://medium.com/p/c30ab9b48f26) |
 | Mon, 30 Jun 2025 13:15:25 GMT | TryHackMe 5 Pratik Oda | Bugraeren | [Read More](https://medium.com/p/e45e272a4875) |
-| Mon, 30 Jun 2025 13:06:13 GMT | Hacker Screen Builder | Pavel Bernshtam | [Read More](https://medium.com/p/29ef8700ee14) |
-| Mon, 30 Jun 2025 13:06:09 GMT | 21 AI tools to future-proof your GTM strategy | Generative AI | [Read More](https://medium.com/p/f68e40ccd435) |
-| Mon, 30 Jun 2025 13:05:11 GMT | The Air-Gapped Apocalypse Machine, Reloaded | Chuck Russell | [Read More](https://medium.com/p/5ca95e6fd3e7) |
-| Mon, 30 Jun 2025 13:03:50 GMT | Integratig K8SGPT with prometheus for Observability & Slack for notifications | Purushotham Reddy | [Read More](https://medium.com/p/f6fe88cccc54) |
-| Mon, 30 Jun 2025 13:03:17 GMT | Testing out some PowerShell commands for checking on the status of optional features, verifying if… | Tyrik Emptage | [Read More](https://medium.com/p/6b5ca221e703) |
-| Mon, 30 Jun 2025 13:01:38 GMT | Inside The Romance Scam Playbook: 5 Tricks Scammers Always Use. | The Anti-Scam Diaries | [Read More](https://medium.com/p/e5eba8dedde6) |
-| Mon, 30 Jun 2025 12:56:16 GMT | How I Hacked My Own Wi-Fi (Legally) to Learn Cybersecurity the Hard Way | Sumit Shaw | [Read More](https://medium.com/p/c3e137733922) |
-| Mon, 30 Jun 2025 12:55:54 GMT | Vanished into Thin Air: The Skyjacker Who Escaped with $200,000 and Was Never Found | Shannon Arrington | [Read More](https://medium.com/p/a0ae0f7c040d) |
-| Mon, 30 Jun 2025 12:55:39 GMT | A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense… | YouShin kim | [Read More](https://medium.com/p/f97d57f8868c) |
-| Mon, 30 Jun 2025 12:55:27 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/ce2d165df787) |
-| Mon, 30 Jun 2025 12:55:18 GMT | Finding the Needle in a Haystack: How My Passive Recon Led to an Acknowledgment from ICEGATE (CBIC… | Uday | [Read More](https://medium.com/p/fffd016df4ea) |
-| Mon, 30 Jun 2025 12:54:57 GMT | The Dark Side of AI No One’s Talking About | TheReviewHive | [Read More](https://medium.com/p/d05ec623310a) |
-| Mon, 30 Jun 2025 12:35:12 GMT | BCA in cloud TechnpoHow BCA Cloud Technology and Information Security Is Shaping Tomorrow’s… | Aashi | [Read More](https://medium.com/p/196141c596d1) |
-| Mon, 30 Jun 2025 12:31:31 GMT | Why Most Security Awareness Training Is Actually Making You Less Secure | Eric Zietlow | [Read More](https://medium.com/p/5f4770d8f4e0) |
-| Mon, 30 Jun 2025 12:29:27 GMT | Smarter, Safer Web3: The Role of AI in Blockchain Security | ICODA Agency | [Read More](https://medium.com/p/e4c77482b392) |
-| Mon, 30 Jun 2025 12:22:42 GMT | When Your Home Router Becomes a Spy. That’s the Paper Thin Threat | Hari Rahul | [Read More](https://medium.com/p/00c0b340e5e6) |
-| Mon, 30 Jun 2025 12:21:26 GMT | Why You Should Choose BCA Cloud Technology and Information Security in 2025 | Aashi | [Read More](https://medium.com/p/f40a51b7c673) |
-| Mon, 30 Jun 2025 12:20:17 GMT | LapDogs Campaign Shows How SOHO Routers Can Turn Into Espionage Tools | Srinivasps | [Read More](https://medium.com/p/15155bb71fc5) |
