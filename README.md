@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 22:14:23 GMT | Hack The System — NeoVault | محمد بن إبراهيم | [Read More](https://medium.com/p/722200c98dad) |
+| Mon, 30 Jun 2025 22:10:13 GMT | AI Prompt Caching for Context Engineering: Optimizing OPEX and User Experience | Michael Rico | [Read More](https://medium.com/p/48b3aef12f52) |
+| Mon, 30 Jun 2025 22:06:01 GMT | PicoCTF Writeup: Bookmarklet Encryption Challenge | Veyron92i | [Read More](https://medium.com/p/5af05d7917f0) |
+| Mon, 30 Jun 2025 22:04:36 GMT | Bitpanda: Your One-Stop Shop for Investing? A Deep Dive | Inez-Diamond Mcfelix | [Read More](https://medium.com/p/524d860270eb) |
+| Mon, 30 Jun 2025 21:58:44 GMT | A Secret Store Is NOT A Substitute For Actually Protecting Your API Keys | Andrew Zuo | [Read More](https://medium.com/p/0355b30c155d) |
+| Mon, 30 Jun 2025 21:53:38 GMT | Beyond Passwords: Unmasking the True Face of Hacking | Asjad Butt | [Read More](https://medium.com/p/8ef7b900a130) |
+| Mon, 30 Jun 2025 21:36:25 GMT | Writing My Way to the Top (Just Don’t Ask Me for a Page Count Yet) | Briana | [Read More](https://medium.com/p/ef9a86901854) |
 | Mon, 30 Jun 2025 21:32:47 GMT | How Android Broke Me into Tech: From Bricking Phones to Bounty Hunting | Bryan Cruse | [Read More](https://medium.com/p/1ed674170559) |
+| Mon, 30 Jun 2025 21:30:24 GMT | X-Wing: PQC Key Encapsulation, But Better | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/8cdd0c8f37dd) |
 | Mon, 30 Jun 2025 21:29:39 GMT | What I Wish You Knew | Letters by Deborah | [Read More](https://medium.com/p/fe0f9681fdf7) |
 | Mon, 30 Jun 2025 21:26:58 GMT | Vibe Coding: The Wake-Up Call for CISOs | Taimur Ijlal | [Read More](https://medium.com/p/55c9a652528c) |
 | Mon, 30 Jun 2025 21:22:19 GMT | Grievance, Greed, Glory: The Triple Motive Behind the Western Sydney University Cyber Hack | Dinesh Dino | [Read More](https://medium.com/p/d13b76f944d3) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 16:55:10 GMT | Army Approves Relocation of Esplanade Bus Stand: A New Chapter in Kolkata’s Urban Planning | Samrat Bhattacharya | [Read More](https://medium.com/p/c80c50f84cec) |
 | Mon, 30 Jun 2025 16:53:20 GMT | Hack The System — JinjaCare | محمد بن إبراهيم | [Read More](https://medium.com/p/606a33e60e28) |
 | Mon, 30 Jun 2025 16:48:43 GMT | Intigriti HackDonalds Challenge Writeup — LFI via XXE | Vishnu Raveendran | [Read More](https://medium.com/p/68a136663bb0) |
-| Mon, 30 Jun 2025 16:48:22 GMT | Too Soon for a Beginning. Too Late for an Ending. | Adéla Valčíková | [Read More](https://medium.com/p/61c27c5a96ec) |
-| Mon, 30 Jun 2025 16:32:37 GMT | Why Cybersecurity Should Be Part of Your Company Culture—Not Just Your IT Department | Donald Betancourt | [Read More](https://medium.com/p/01ab0bdc78e9) |
-| Mon, 30 Jun 2025 16:28:16 GMT | Why Protecting Your WordPress Site Is Essential — And Why Rainbow Secure Is the Smart Choice for… | Dr. Shashi Karhail | [Read More](https://medium.com/p/0a1055694e31) |
-| Mon, 30 Jun 2025 16:26:17 GMT | Unauthenticated PURGE on Varnish - My First Valid Bug | VxRabbit | [Read More](https://medium.com/p/62a359ad711b) |
-| Mon, 30 Jun 2025 16:22:12 GMT | TryHackMe - Request Smuggling: WebSockets - WriteUp | Axoloth | [Read More](https://medium.com/p/a9971042e68b) |
-| Mon, 30 Jun 2025 16:15:44 GMT | Complete Distributed Log Monitoring Setup with Splunk Enterprise & Universal Forwarder on VMs | Kaushal | [Read More](https://medium.com/p/3f1e66596dd3) |
-| Mon, 30 Jun 2025 16:12:06 GMT | LAB 18: Packers and Unpacking Techniques in Malware Analysis | Mustapha Ait Ichou | [Read More](https://medium.com/p/235710e75a88) |
-| Mon, 30 Jun 2025 16:09:38 GMT | Hack The System — CitiSmart | محمد بن إبراهيم | [Read More](https://medium.com/p/83dd0b4321d3) |
