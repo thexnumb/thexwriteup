@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 15:34:51 GMT | Day 36: User mode & Kernel mode | Nile Okomo | [Read More](https://medium.com/p/a1ccc7ca8161) |
+| Mon, 30 Jun 2025 15:32:08 GMT | CTF Day(22) | Ahmed Narmer | [Read More](https://medium.com/p/e303ac9df89b) |
+| Mon, 30 Jun 2025 15:31:25 GMT | Leveraging Trivy To Prevent CI/CD Vulnerability Injections | Scott Bechtel | [Read More](https://medium.com/p/899a85c106dd) |
+| Mon, 30 Jun 2025 15:28:28 GMT | What it Feels Like to Want More From Life but Not Know Where to Begin | Zinaeleri | [Read More](https://medium.com/p/b91fc51e8661) |
+| Mon, 30 Jun 2025 15:25:52 GMT | Windows 11 + 1Password: Passkeys Finally Go Mainstream | Mohamad MERHI | [Read More](https://medium.com/p/38c352dc9950) |
+| Mon, 30 Jun 2025 15:24:19 GMT | CTI Cycle | byFranke | [Read More](https://medium.com/p/0be47206ecc0) |
+| Mon, 30 Jun 2025 15:22:17 GMT | I Thought My AI Product Would Change Everything — Until I Faced This Brutal Truth | Anil Jangra, MBA | [Read More](https://medium.com/p/025ca0eb1b4e) |
+| Mon, 30 Jun 2025 15:22:01 GMT | Security Garden Lighting Cambridgeshire: Protect Your Home with Style | Glowbolt | [Read More](https://medium.com/p/d79e808bcacb) |
+| Mon, 30 Jun 2025 15:20:50 GMT | Show Me the Ache, I’ll Stay Anyway | Chesyabila | [Read More](https://medium.com/p/d14d2e644e46) |
 | Mon, 30 Jun 2025 15:15:09 GMT | Tailored Security Solutions in Peterborough — Protect What Matters Most | Glowbolt | [Read More](https://medium.com/p/040cd225d8b2) |
 | Mon, 30 Jun 2025 15:12:32 GMT | OSINT and Intelligence Grading: Why the 3x5x2 Framework Matters More Than Ever | Joe The OSINT Guy | [Read More](https://medium.com/p/8ef44a416a9e) |
 | Mon, 30 Jun 2025 15:04:33 GMT | I Can’t Stand Negative Feedback, No Matter How Well-Intended | Charleston Li | [Read More](https://medium.com/p/365613bcf9a9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 11:02:59 GMT | Zero Trust vs. SASE: Everything You Need to Know | IPSpecialist | [Read More](https://medium.com/p/b0e30e2c1cd2) |
 | Mon, 30 Jun 2025 11:02:37 GMT | Protect Resets with a Leaked‑Password Checker SPI for Keycloak | Aditya | [Read More](https://medium.com/p/be51bc2cbb64) |
 | Mon, 30 Jun 2025 11:02:26 GMT | Google Just Fixed Its Photos App — Here’s What Changed | Tech Thrilled | [Read More](https://medium.com/p/3bb791769eb4) |
-| Mon, 30 Jun 2025 10:49:45 GMT | FBI Warns of Scattered Spider’s Sophisticated Social Engineering and Ransomware Campaigns | CyBlog | [Read More](https://medium.com/p/1defaefc4446) |
-| Mon, 30 Jun 2025 10:44:12 GMT | From Rack to Reality: My Journey Through a Cisco-Powered Data Center. | Joanorifha | [Read More](https://medium.com/p/63a81fa5d3c3) |
-| Mon, 30 Jun 2025 10:43:44 GMT | Through the Eyes of a SOC Analyst: Patterns, Panic, and Persistence | Yuksel | [Read More](https://medium.com/p/efc082ce1ca3) |
-| Mon, 30 Jun 2025 10:42:27 GMT | How to Improve Your Website’s Security with Professional Web Development | Soft Tech Cube | [Read More](https://medium.com/p/d96ae75779dc) |
-| Mon, 30 Jun 2025 10:41:35 GMT | Artificial Intelligence in Cyber ​​Defense: Detecting, Intercepting, and Countering Hackers’… | Aryia behroziuan | [Read More](https://medium.com/p/350aa612be79) |
-| Mon, 30 Jun 2025 10:40:44 GMT | Is GCC High Mandatory in 2025? Here’s What Federal Contractors Must Know | ECF Data, LLC | [Read More](https://medium.com/p/c628a601f526) |
-| Mon, 30 Jun 2025 10:38:46 GMT | Incident Response: Because “Oops” Is Not a Strategy | DarKVoicE | [Read More](https://medium.com/p/4c5ffa67fe9c) |
-| Mon, 30 Jun 2025 10:36:12 GMT | When Nations Hack and Scammers Thrive in a Fractured World | David SEHYEON Baek | [Read More](https://medium.com/p/2d0a770ac4d0) |
-| Mon, 30 Jun 2025 10:34:07 GMT | Is Your Accounting Software Actually Safe? | Alex Hughes | [Read More](https://medium.com/p/a58f1e8bdb23) |
