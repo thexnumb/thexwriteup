@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 17:37:26 GMT | Securing Websites Against XSS Attacks: A Developer’s Guide to Safer Web Applications | SafeAeon Inc. | [Read More](https://medium.com/p/d81e1217bdd6) |
+| Mon, 30 Jun 2025 17:37:21 GMT | A practical guide to understanding the OSI Model and how it strengthens cybersecurity strategies. | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/2b3aad005202) |
+| Mon, 30 Jun 2025 17:32:15 GMT | How a Controlled Breach Test Helped Me Harden My Linux Server Instantly | Faruk Ahmed | [Read More](https://medium.com/p/2970664c336f) |
+| Mon, 30 Jun 2025 17:29:33 GMT | Key Points on Penetration Testing (Pentesting) | Aman patel | [Read More](https://medium.com/p/081a1288f1b1) |
+| Mon, 30 Jun 2025 17:23:19 GMT | Stop Drowning in CVEs: How to Actually Fix Vulnerabilities (Not Just Find Them) | Sophia | [Read More](https://medium.com/p/c17982fe4586) |
+| Mon, 30 Jun 2025 17:20:20 GMT | Cybersecurity Best Practices: 10 Essential Steps for 2025 | Codevirussec | [Read More](https://medium.com/p/e4db6abfd1d9) |
 | Mon, 30 Jun 2025 17:13:11 GMT | Lab: Reflected DOM XSS | Chirag Vyas | [Read More](https://medium.com/p/2a91fe5a13b5) |
+| Mon, 30 Jun 2025 17:12:30 GMT | 20 Financial Crimes Dominating the UK in 2025 | Lookattheant | [Read More](https://medium.com/p/cfaafe64054a) |
 | Mon, 30 Jun 2025 16:57:41 GMT | Social Engineering Vectors in a Digitally Secured World | Badaolaitan | [Read More](https://medium.com/p/ace5fe81cd96) |
 | Mon, 30 Jun 2025 16:57:11 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/ee707b13cd7e) |
 | Mon, 30 Jun 2025 16:55:10 GMT | Army Approves Relocation of Esplanade Bus Stand: A New Chapter in Kolkata’s Urban Planning | Samrat Bhattacharya | [Read More](https://medium.com/p/c80c50f84cec) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 12:22:42 GMT | When Your Home Router Becomes a Spy. That’s the Paper Thin Threat | Hari Rahul | [Read More](https://medium.com/p/00c0b340e5e6) |
 | Mon, 30 Jun 2025 12:21:26 GMT | Why You Should Choose BCA Cloud Technology and Information Security in 2025 | Aashi | [Read More](https://medium.com/p/f40a51b7c673) |
 | Mon, 30 Jun 2025 12:20:17 GMT | LapDogs Campaign Shows How SOHO Routers Can Turn Into Espionage Tools | Srinivasps | [Read More](https://medium.com/p/15155bb71fc5) |
-| Mon, 30 Jun 2025 12:19:45 GMT | Evolusi Webshell: Dari c99 Hingga Backdoor Stealth Modern | Alexithema - Sinzoxp | [Read More](https://medium.com/p/f97217076b65) |
-| Mon, 30 Jun 2025 12:16:44 GMT | Part 3: Container & Image Security — Don’t Ship Exploits | DiPAK KNVDL | [Read More](https://medium.com/p/08dd143f1468) |
-| Mon, 30 Jun 2025 12:16:38 GMT | Quiet Breach: Over 1,000 SOHO Devices Used in Ongoing Espionage Campaign | Manish | [Read More](https://medium.com/p/6342e9fabc64) |
-| Mon, 30 Jun 2025 12:15:26 GMT | Threat Detection vs. Threat Hunting vs. Threat Intelligence: A Comparative Analysis | gxr911 | [Read More](https://medium.com/p/d258aadcddbb) |
-| Mon, 30 Jun 2025 12:13:11 GMT | Recon that changed my Bug Bounty journey | Dasmanish | [Read More](https://medium.com/p/302dd5257794) |
-| Mon, 30 Jun 2025 12:12:25 GMT | Pentesting-Targeting and Reconnaissance | Ahrens Han | [Read More](https://medium.com/p/2ef4472edff2) |
-| Mon, 30 Jun 2025 12:12:20 GMT | Siber Güvenlikte Yeni Dönem: SOAR Teknolojisinin Gücü ve Geleceği | Cyber Web | [Read More](https://medium.com/p/995132d241b8) |
