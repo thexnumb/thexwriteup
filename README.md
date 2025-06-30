@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 07:14:49 GMT | Careers in Cybersecurity: Where to Start? | Rasagnaqt33 | [Read More](https://medium.com/p/f55af9a782c1) |
+| Mon, 30 Jun 2025 07:07:20 GMT | UEFI Disk Cloning Utility™ (DEMO) | Kartik Joshi | [Read More](https://medium.com/p/e764132e8a8a) |
+| Mon, 30 Jun 2025 07:06:42 GMT | A Revolutionary Solution for Digital Identity: Ending Impersonation with Biometrics | "Book of Ideas" | [Read More](https://medium.com/p/428b8ff67ed4) |
+| Mon, 30 Jun 2025 07:03:02 GMT | What It’s Like Posting to Medium with Pure O | Uland's OCD Hub | [Read More](https://medium.com/p/1ff9809e64fc) |
+| Mon, 30 Jun 2025 06:58:33 GMT | Scanning the Internet | abhipnair | [Read More](https://medium.com/p/0fd5b7cbe7a0) |
+| Mon, 30 Jun 2025 06:56:49 GMT | Hacking WordPress (WP for OSCP) | Kaorrosi | [Read More](https://medium.com/p/b0f311d80731) |
+| Mon, 30 Jun 2025 06:55:13 GMT | RST TI Report Digest: 30 Jun 2025 | RST Cloud | [Read More](https://medium.com/p/f4f6cae42946) |
+| Mon, 30 Jun 2025 06:53:59 GMT | Understanding Authentication: What It Is, Why It Fails & How to Fix It | Ud4y | [Read More](https://medium.com/p/90ba07e9365f) |
+| Mon, 30 Jun 2025 06:53:27 GMT | The Art of Rate-Limiting: Balancing Security and User Experience in SaaS | Thomas Faugier | [Read More](https://medium.com/p/8bef6a5cfe51) |
+| Mon, 30 Jun 2025 06:53:26 GMT | 3 Practical Ways to Secure AI Agents in 2025: Real-World Examples to Save Your Systems | Paritosh | [Read More](https://medium.com/p/0d6d33dfb0f1) |
+| Mon, 30 Jun 2025 06:52:20 GMT | I have 49 acne scars on my face. | janelle☆ | [Read More](https://medium.com/p/d8f1c52d89cb) |
+| Mon, 30 Jun 2025 06:50:39 GMT | Malware Analysis: Unpacking Malware Tips & Tricks | dandor2022 | [Read More](https://medium.com/p/7f401b2cb238) |
+| Mon, 30 Jun 2025 06:50:00 GMT | Why Endpoint Security Is No Longer Optional for Businesses | Ambsan Technologies | [Read More](https://medium.com/p/f741d0101409) |
+| Mon, 30 Jun 2025 06:48:32 GMT | BLUE TEAM FINAL PROJECT : CIS BENCHMARK COMPLIANCE | Ferdi | [Read More](https://medium.com/p/c29f60fba98c) |
+| Mon, 30 Jun 2025 06:38:38 GMT | How DFDI in Cybersecurity for Governments is Revolutionizing National Digital Defense | Digitalforeigndirectinvestment | [Read More](https://medium.com/p/11008b6dfc47) |
+| Mon, 30 Jun 2025 06:36:50 GMT | Apache Tomcat RCE on Windows (CVE-2024–50379): Patch Now or Risk Remote Attacks | AerieWhole123 | [Read More](https://medium.com/p/1b18b671a90c) |
+| Mon, 30 Jun 2025 06:26:20 GMT | The Resiliency Imperative: Redefining Digitalization in a Post-Velocity World | Elizabeth Press | [Read More](https://medium.com/p/846dd0eac1a1) |
 | Mon, 30 Jun 2025 06:24:02 GMT | Basic Networking Course with AI in 2025 | cyber security Updates | [Read More](https://medium.com/p/2b68db797c61) |
 | Mon, 30 Jun 2025 06:20:15 GMT | Bug Bounty Hunting: Get Paid to Break Stuff (Legally) | DarKVoicE | [Read More](https://medium.com/p/e9a923dbb542) |
 | Mon, 30 Jun 2025 06:14:16 GMT | Robotic Process Automation Market Size & Share - Growth Report - 2034 | Aman Bansal | [Read More](https://medium.com/p/0c1e699dbd80) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 21:12:23 GMT | W1seGuy — Quebrando XOR em um Desafio do TryHackMe | HexSilent | [Read More](https://medium.com/p/66dfebe301e3) |
 | Sun, 29 Jun 2025 21:11:52 GMT | Hijacking OAuth Tokens with Just an XSS Flaw | Ibtissam hammadi | [Read More](https://medium.com/p/e0365f2081d2) |
 | Sun, 29 Jun 2025 21:00:50 GMT | Animarse a presentarse | Lau Alvez | [Read More](https://medium.com/p/97fe9a19e727) |
-| Sun, 29 Jun 2025 20:45:18 GMT | Investigating Windows Event Logs | Youssef Hossam | [Read More](https://medium.com/p/883ad3a91b59) |
-| Sun, 29 Jun 2025 20:38:29 GMT | From SQL Injection to RCE: My Hack The Box Assessment Walkthrough | Jabaribrown | [Read More](https://medium.com/p/9797f19fa8aa) |
-| Sun, 29 Jun 2025 20:35:10 GMT | Banking Cybersecurity: The Critical Role of Security Scanning and Assessment | Wanyoto Mark | [Read More](https://medium.com/p/07556a84e450) |
-| Sun, 29 Jun 2025 20:30:12 GMT | LLMs Enable Judgment: From Code Toward Consciousness | Jonathan Mugan | [Read More](https://medium.com/p/22b00dcd870c) |
-| Sun, 29 Jun 2025 20:14:31 GMT | Metasploit Framework: Remote Windows Exploitation Made Simple | Baker ssendagire | [Read More](https://medium.com/p/c7b023a7a0a0) |
-| Sun, 29 Jun 2025 20:12:58 GMT | the art of disappearing while still here. | Emmanuel Odunfa. | [Read More](https://medium.com/p/d80468894b9a) |
-| Sun, 29 Jun 2025 20:08:43 GMT | Feature Story: “AI Wars in Cyberspace — The New Frontline” | CapitalCoin | [Read More](https://medium.com/p/657dd3b869e0) |
-| Sun, 29 Jun 2025 20:06:31 GMT | Three Bugs, One Search: Discovering Security Flaws with Burp | Mustafa Hatab | [Read More](https://medium.com/p/00aeba9fedcf) |
-| Sun, 29 Jun 2025 20:02:44 GMT | SMB Cybersecurity Market | Rye Overly | [Read More](https://medium.com/p/0ad4f917dd9f) |
-| Sun, 29 Jun 2025 19:57:38 GMT | Password Reset Link Injection Enables Full Account Takeover | Mahmoud Gamal | [Read More](https://medium.com/p/b0d3c38bcd5c) |
-| Sun, 29 Jun 2025 19:56:11 GMT | Did NIST Go Too Far on Password Policy? | Gutema Dube | [Read More](https://medium.com/p/6e752a19615c) |
-| Sun, 29 Jun 2025 19:47:36 GMT | When Hackers Bypass MFA: Scattered Spider’s Assault on Aviation Cybersecurity | Chetan Seripally | [Read More](https://medium.com/p/7dce0dd33457) |
-| Sun, 29 Jun 2025 19:46:23 GMT | Reflections On Connectivity | Michael Holford | [Read More](https://medium.com/p/6c35d8173432) |
-| Sun, 29 Jun 2025 19:45:08 GMT | Building an International Governance System for AI | Nikita Mokhov | [Read More](https://medium.com/p/afd4e90ce489) |
-| Sun, 29 Jun 2025 19:41:30 GMT | A secure way to store API keys in Android applications | Alexander Shevelev | [Read More](https://medium.com/p/238135709067) |
-| Sun, 29 Jun 2025 19:40:50 GMT | Am I Making the Right Career Choice? | Quartumos | [Read More](https://medium.com/p/ea52b5a15179) |
-| Sun, 29 Jun 2025 19:40:42 GMT | This New Trick Turns File Explorer Into a Malware Launcher | Cyber-AppSec | [Read More](https://medium.com/p/02656e9b9edd) |
