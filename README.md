@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 05:41:55 GMT | Broken Access Control part-5 : User ID controlled by request parameter | Ahmad Sopyan | [Read More](https://medium.com/p/966554190783) |
+| Mon, 30 Jun 2025 05:36:49 GMT | Open Source Looks Risky. That’s Why It Works. | OpenTeams | [Read More](https://medium.com/p/1900249ccaa7) |
+| Mon, 30 Jun 2025 05:34:32 GMT | Broken Access Control part-3 : User role controlled by request parameter | Ahmad Sopyan | [Read More](https://medium.com/p/7fe915109889) |
+| Mon, 30 Jun 2025 05:34:03 GMT | Protect your banking/email/social media accounts from massive global hacking | cyber sentinel | [Read More](https://medium.com/p/20460f2dd616) |
+| Mon, 30 Jun 2025 05:32:50 GMT | Digital Twin of an Organization: The Key to Third-Party Risk Visibility | Gauri Kale | [Read More](https://medium.com/p/eb4aadaf3d94) |
+| Mon, 30 Jun 2025 05:32:35 GMT | AWSReaper: Cloud Pentesting Practical Techniques for Red Teams | Saikat Paul | [Read More](https://medium.com/p/6e1220bb133f) |
+| Mon, 30 Jun 2025 05:31:59 GMT | Introducing 404Sec — Cybersecurity. Hacking. Simplified. | 404sec | [Read More](https://medium.com/p/735089074e2f) |
+| Mon, 30 Jun 2025 05:31:59 GMT | No title | Evgeniy | [Read More](https://medium.com/p/88067798c6e9) |
+| Mon, 30 Jun 2025 05:29:10 GMT | Frozen Frontlines: The Arctic as the Next Theatre of Strategic Competition | Sylvie Blanchier | [Read More](https://medium.com/p/408833f59299) |
+| Mon, 30 Jun 2025 05:27:02 GMT | Demystifying Source Reliability: How to Ensure Credible CTI | Adam Goss | [Read More](https://medium.com/p/d7f15bbe7a52) |
+| Mon, 30 Jun 2025 05:24:56 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/57c7dba43baa) |
+| Mon, 30 Jun 2025 05:15:58 GMT | Cybersecurity Starts with You — Become an ISO 27001:2022 Lead Auditor | John  Carter | [Read More](https://medium.com/p/27e3943e9924) |
+| Mon, 30 Jun 2025 05:10:42 GMT | DoS (Denial of Service), DDoS (Distributed Denial of Service) | Gobinda Nandi | [Read More](https://medium.com/p/cdd12edaa149) |
 | Mon, 30 Jun 2025 05:08:10 GMT | Portswigger Web Security Academy - Logic Flaws Lab #1 | BooRuleDie | [Read More](https://medium.com/p/045baf20a053) |
 | Mon, 30 Jun 2025 05:08:03 GMT | Python, Software Development, and Tools — Digest #36 | Denys Volokh | [Read More](https://medium.com/p/010d60fd2bba) |
 | Mon, 30 Jun 2025 05:07:41 GMT | Twenty Awesome Docker Images Every Cybersecurity Engineer Needs on Their Radar in 2025 | Saikat Paul | [Read More](https://medium.com/p/aba9ba32543d) |
@@ -26,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 04:46:49 GMT | Don’t Chase Cybersecurity for a Quick Six-Figure Paycheck. | Sampson Jonny | [Read More](https://medium.com/p/45026646e59b) |
 | Mon, 30 Jun 2025 04:30:16 GMT | The Linux Security Journey — KASLR (Kernel Address Space Layout Randomization) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6d5554766fe1) |
 | Mon, 30 Jun 2025 04:28:58 GMT | Mastering Nmap for Network Reconnaissance | Darshan | [Read More](https://medium.com/p/b72c26b2c7ff) |
+| Mon, 30 Jun 2025 04:27:37 GMT | From Signup to Takeover: A Quiet OAuth Account Hijack | Abdelrahhmanhisham | [Read More](https://medium.com/p/1de467300ebc) |
 | Mon, 30 Jun 2025 04:24:23 GMT | Hack The Safe: Prompt Injection CTF Walkthrough from Cyber Security Summit Thailand 2025 | Jormungandr | [Read More](https://medium.com/p/af3840737917) |
 | Mon, 30 Jun 2025 04:22:48 GMT | Mastering Idle Resource Cleanup in Azure and GCP | Saikat Paul | [Read More](https://medium.com/p/b7375ffa78d5) |
 | Mon, 30 Jun 2025 04:21:52 GMT | Why State‑Sponsored AI Cyberattacks from Iran Could Be Your Next Big Threat | Sneha Rani | [Read More](https://medium.com/p/1d23538dc9c8) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Jun 2025 19:01:57 GMT | Flutter: Como Desativar e Ativar Captura de Tela | Gabriel Caires | [Read More](https://medium.com/p/50ef46ef8301) |
 | Sun, 29 Jun 2025 19:00:58 GMT | Making Policy Management Smarter with AI | Nikita Gupta | [Read More](https://medium.com/p/adf37c64f4cd) |
 | Sun, 29 Jun 2025 18:52:23 GMT | On The Myth of Sisyphus | TheVulnerableBlackMale | [Read More](https://medium.com/p/5d1c9c8fd354) |
-| Sun, 29 Jun 2025 18:45:42 GMT | The Curious Case of the Unrounded Corner | Shreshth Sharma | [Read More](https://medium.com/p/92fd271d6b41) |
-| Sun, 29 Jun 2025 18:44:38 GMT | How To Train Non-Technical Teams on Technical Tools Without Losing Them | O'lando Cory Rawlinson | [Read More](https://medium.com/p/1afbc11f22c9) |
-| Sun, 29 Jun 2025 18:37:16 GMT | Day 6:DOM XSS in jQuery selector sink using a hashchange event : Zero to Hero Series — Portswigger | RayofHope | [Read More](https://medium.com/p/f80367168d95) |
-| Sun, 29 Jun 2025 18:36:10 GMT | Password Spraying with Selenium and Fireprox | Ben Kofman | [Read More](https://medium.com/p/5b07a590cdb2) |
-| Sun, 29 Jun 2025 18:33:20 GMT | Title: How I Found a Critical Payment Bug on an EdTech Platform (and Got Ignored) | SECUVORTEX | [Read More](https://medium.com/p/ea2b09f22652) |
-| Sun, 29 Jun 2025 18:27:31 GMT | “Start Before You’re Ready” — What Happened When I Did | Humza A-Khan | [Read More](https://medium.com/p/6cf7891008e0) |
-| Sun, 29 Jun 2025 18:24:22 GMT | What is Traffic Signaling? (MITRE ATT&CK) | Ben Kofman | [Read More](https://medium.com/p/64c8c2a0510f) |
-| Sun, 29 Jun 2025 18:20:26 GMT | PAYATU-CTF :F4lling Metal | D3w!ls0n | [Read More](https://medium.com/p/b1bed78e2574) |
-| Sun, 29 Jun 2025 18:19:28 GMT | What is SEO Poisoning? (MITRE ATT&CK) | Ben Kofman | [Read More](https://medium.com/p/737a3c168a71) |
-| Sun, 29 Jun 2025 18:18:37 GMT | Iraq Between Fragility and Resilience: Insights into a Nation in Transition | Dr. SAIFALDIN Z.  AL-DARRAJI | [Read More](https://medium.com/p/7e488aa1aa1a) |
-| Sun, 29 Jun 2025 18:18:26 GMT | How to Create & Optimize Self-Signed SSL for Nginx on Ubuntu (Step-by-Step) | Ashish Singh | [Read More](https://medium.com/p/7f6bb43b314d) |
-| Sun, 29 Jun 2025 18:18:04 GMT | LNK file Attack --AD Pentesting --Responder --2025 --Part 16 | Muhammadhuzaifa | [Read More](https://medium.com/p/c3c7d0855acc) |
-| Sun, 29 Jun 2025 18:13:29 GMT | Getting Started with XSS: A Hacker’s First Web Exploit | err0rgod | [Read More](https://medium.com/p/cea8df7ac79b) |
-| Sun, 29 Jun 2025 18:13:24 GMT | Triple Trouble: Bypassing Sanitization to Steal Microsoft Tokens | Asem Eleraky | [Read More](https://medium.com/p/d89a68be7ab2) |
