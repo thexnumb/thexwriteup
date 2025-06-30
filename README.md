@@ -12,10 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 11:15:07 GMT | Caught in a Ransomeware Trap: What You Need to Know and How to Stay Safe | Natarajan C K | [Read More](https://medium.com/p/bd39c031199e) |
+| Mon, 30 Jun 2025 11:12:17 GMT | SafeLine WAF v8.10.1 Release Notes | Maverick Steel | [Read More](https://medium.com/p/b1d11261cda5) |
+| Mon, 30 Jun 2025 11:11:07 GMT | Unlock Your Cybersecurity Career: Top 10 Certifications for KSA & UAE Professionals | Chetan R. | [Read More](https://medium.com/p/7d957a3d3404) |
+| Mon, 30 Jun 2025 11:10:31 GMT | The definitive usher to signifier-based mostly web site authentication | Desa Banjaer | [Read More](https://medium.com/p/0eda3d8d0cad) |
+| Mon, 30 Jun 2025 11:09:52 GMT | Why is attack surface & risk management important? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/3ff5c74cbdfb) |
+| Mon, 30 Jun 2025 11:07:03 GMT | Top Programming Languages to Learn in 2025 — Based on the Job You Want | Dip Mark | [Read More](https://medium.com/p/9518a2d9cba0) |
+| Mon, 30 Jun 2025 11:06:44 GMT | 6 Proven Design Patterns to Protect AI Systems from Dangerous Prompt Injection Attacks | Vikrant Dheer | [Read More](https://medium.com/p/e57b57e5339e) |
+| Mon, 30 Jun 2025 11:02:59 GMT | Zero Trust vs. SASE: Everything You Need to Know | IPSpecialist | [Read More](https://medium.com/p/b0e30e2c1cd2) |
+| Mon, 30 Jun 2025 11:02:37 GMT | Protect Resets with a Leaked‑Password Checker SPI for Keycloak | Aditya | [Read More](https://medium.com/p/be51bc2cbb64) |
+| Mon, 30 Jun 2025 11:02:26 GMT | Google Just Fixed Its Photos App — Here’s What Changed | Tech Thrilled | [Read More](https://medium.com/p/3bb791769eb4) |
+| Mon, 30 Jun 2025 10:49:45 GMT | FBI Warns of Scattered Spider’s Sophisticated Social Engineering and Ransomware Campaigns | CyBlog | [Read More](https://medium.com/p/1defaefc4446) |
 | Mon, 30 Jun 2025 10:44:12 GMT | From Rack to Reality: My Journey Through a Cisco-Powered Data Center. | Joanorifha | [Read More](https://medium.com/p/63a81fa5d3c3) |
 | Mon, 30 Jun 2025 10:43:44 GMT | Through the Eyes of a SOC Analyst: Patterns, Panic, and Persistence | Yuksel | [Read More](https://medium.com/p/efc082ce1ca3) |
 | Mon, 30 Jun 2025 10:42:27 GMT | How to Improve Your Website’s Security with Professional Web Development | Soft Tech Cube | [Read More](https://medium.com/p/d96ae75779dc) |
 | Mon, 30 Jun 2025 10:41:35 GMT | Artificial Intelligence in Cyber ​​Defense: Detecting, Intercepting, and Countering Hackers’… | Aryia behroziuan | [Read More](https://medium.com/p/350aa612be79) |
+| Mon, 30 Jun 2025 10:40:44 GMT | Is GCC High Mandatory in 2025? Here’s What Federal Contractors Must Know | ECF Data, LLC | [Read More](https://medium.com/p/c628a601f526) |
 | Mon, 30 Jun 2025 10:38:46 GMT | Incident Response: Because “Oops” Is Not a Strategy | DarKVoicE | [Read More](https://medium.com/p/4c5ffa67fe9c) |
 | Mon, 30 Jun 2025 10:36:12 GMT | When Nations Hack and Scammers Thrive in a Fractured World | David SEHYEON Baek | [Read More](https://medium.com/p/2d0a770ac4d0) |
 | Mon, 30 Jun 2025 10:34:07 GMT | Is Your Accounting Software Actually Safe? | Alex Hughes | [Read More](https://medium.com/p/a58f1e8bdb23) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 06:53:26 GMT | 3 Practical Ways to Secure AI Agents in 2025: Real-World Examples to Save Your Systems | Paritosh | [Read More](https://medium.com/p/0d6d33dfb0f1) |
 | Mon, 30 Jun 2025 06:52:20 GMT | I have 49 acne scars on my face. | janelle☆ | [Read More](https://medium.com/p/d8f1c52d89cb) |
 | Mon, 30 Jun 2025 06:50:39 GMT | Malware Analysis: Unpacking Malware Tips & Tricks | dandor2022 | [Read More](https://medium.com/p/7f401b2cb238) |
-| Mon, 30 Jun 2025 06:50:00 GMT | Why Endpoint Security Is No Longer Optional for Businesses | Ambsan Technologies | [Read More](https://medium.com/p/f741d0101409) |
-| Mon, 30 Jun 2025 06:48:32 GMT | BLUE TEAM FINAL PROJECT : CIS BENCHMARK COMPLIANCE | Ferdi | [Read More](https://medium.com/p/c29f60fba98c) |
-| Mon, 30 Jun 2025 06:38:38 GMT | How DFDI in Cybersecurity for Governments is Revolutionizing National Digital Defense | Digitalforeigndirectinvestment | [Read More](https://medium.com/p/11008b6dfc47) |
-| Mon, 30 Jun 2025 06:36:50 GMT | Apache Tomcat RCE on Windows (CVE-2024–50379): Patch Now or Risk Remote Attacks | AerieWhole123 | [Read More](https://medium.com/p/1b18b671a90c) |
-| Mon, 30 Jun 2025 06:26:20 GMT | The Resiliency Imperative: Redefining Digitalization in a Post-Velocity World | Elizabeth Press | [Read More](https://medium.com/p/846dd0eac1a1) |
-| Mon, 30 Jun 2025 06:24:02 GMT | Basic Networking Course with AI in 2025 | cyber security Updates | [Read More](https://medium.com/p/2b68db797c61) |
-| Mon, 30 Jun 2025 06:20:15 GMT | Bug Bounty Hunting: Get Paid to Break Stuff (Legally) | DarKVoicE | [Read More](https://medium.com/p/e9a923dbb542) |
-| Mon, 30 Jun 2025 06:14:16 GMT | Robotic Process Automation Market Size & Share - Growth Report - 2034 | Aman Bansal | [Read More](https://medium.com/p/0c1e699dbd80) |
-| Mon, 30 Jun 2025 06:03:32 GMT | Third Course Out! | Udit | [Read More](https://medium.com/p/2865bc851dab) |
-| Mon, 30 Jun 2025 06:03:22 GMT | Vibe Hacking: Finding 0-Days w/ Cursor | Amit Ziv | [Read More](https://medium.com/p/630447dc902d) |
-| Mon, 30 Jun 2025 06:01:54 GMT | OWASP Juice Shop | /sec/rffuste | [Read More](https://medium.com/p/5811ea1dd40e) |
-| Mon, 30 Jun 2025 06:01:39 GMT | Securing the future of LLMs and GenAI in UK Enterprises | Yash Gorasiya | [Read More](https://medium.com/p/5b5b172b5f64) |
