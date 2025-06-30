@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 21:32:47 GMT | How Android Broke Me into Tech: From Bricking Phones to Bounty Hunting | Bryan Cruse | [Read More](https://medium.com/p/1ed674170559) |
+| Mon, 30 Jun 2025 21:29:39 GMT | What I Wish You Knew | Letters by Deborah | [Read More](https://medium.com/p/fe0f9681fdf7) |
+| Mon, 30 Jun 2025 21:26:58 GMT | Vibe Coding: The Wake-Up Call for CISOs | Taimur Ijlal | [Read More](https://medium.com/p/55c9a652528c) |
+| Mon, 30 Jun 2025 21:22:19 GMT | Grievance, Greed, Glory: The Triple Motive Behind the Western Sydney University Cyber Hack | Dinesh Dino | [Read More](https://medium.com/p/d13b76f944d3) |
+| Mon, 30 Jun 2025 21:22:05 GMT | The Invisible War: Operational Security (OpSec) Discipline in Covert Red Ops | A-STAR7_DOCTOR | [Read More](https://medium.com/p/d14e21ce17ae) |
+| Mon, 30 Jun 2025 21:18:17 GMT | The Pain of the Unprepared — plus a free “Package Insert” for your Organisations survival. | Benjamin Rohé | [Read More](https://medium.com/p/cc0287a2d4db) |
+| Mon, 30 Jun 2025 21:16:42 GMT | The EU-China Summit — Navigating Trade, Security, and Global Tensions | TrainEntNews | [Read More](https://medium.com/p/1b6a93c9d276) |
+| Mon, 30 Jun 2025 21:15:22 GMT | Security in and around MCP: Part 3 — MCP Server Identity | Maia Iyer | [Read More](https://medium.com/p/10d6768d96c1) |
+| Mon, 30 Jun 2025 21:14:48 GMT | AI Just Signed Your Contract — And You Didn’t: The Invisible Risk Behind Digital Agreements | Mamoudou Yaya | [Read More](https://medium.com/p/836596d03e4) |
+| Mon, 30 Jun 2025 21:13:36 GMT | AWS CLI v2 by Examples: Using CloudWatch Log Subscriptions to Centralize Logs from Multiple… | MB20261 | [Read More](https://medium.com/p/5630d5ab6126) |
 | Mon, 30 Jun 2025 20:56:34 GMT | Top Ten Security Practices for Phoenix Developers | Hex Shift | [Read More](https://medium.com/p/7df1f9e7d9f2) |
 | Mon, 30 Jun 2025 20:51:14 GMT | The Smart Fridge, The Love Scam, And The Retired Spy From Lagos | O. J. Okpabi | [Read More](https://medium.com/p/9926205c749d) |
+| Mon, 30 Jun 2025 20:49:12 GMT | Stromnetze im Fadenkreuz — Geopolitsiche Einblicke & Strategische Überlegungen | Benjamin Rohé | [Read More](https://medium.com/p/8c1f2975b176) |
 | Mon, 30 Jun 2025 20:46:21 GMT | The Kid Who Hacked His Way Into A Scholarship Without Stealing A Thing | O. J. Okpabi | [Read More](https://medium.com/p/a8062fc929c2) |
 | Mon, 30 Jun 2025 20:46:01 GMT | AI Security Crisis in 2025: Generative AI Is Backfiring — and Hackers Are Winning | Methuselah Misati | [Read More](https://medium.com/p/011ce24e9ce0) |
 | Mon, 30 Jun 2025 20:44:04 GMT | Your Smartphone Could Be Leaking Your Login Details Right Now | Akshay Chauhan | [Read More](https://medium.com/p/06f2ded24036) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 16:15:44 GMT | Complete Distributed Log Monitoring Setup with Splunk Enterprise & Universal Forwarder on VMs | Kaushal | [Read More](https://medium.com/p/3f1e66596dd3) |
 | Mon, 30 Jun 2025 16:12:06 GMT | LAB 18: Packers and Unpacking Techniques in Malware Analysis | Mustapha Ait Ichou | [Read More](https://medium.com/p/235710e75a88) |
 | Mon, 30 Jun 2025 16:09:38 GMT | Hack The System — CitiSmart | محمد بن إبراهيم | [Read More](https://medium.com/p/83dd0b4321d3) |
-| Mon, 30 Jun 2025 16:05:35 GMT | XDR: The Next-Generation Shield Against Evolving Cyber Threats | Ahmed Elbatea | [Read More](https://medium.com/p/00011fdc9ffa) |
-| Mon, 30 Jun 2025 16:03:52 GMT | Cybersecurity Career Roadmap for Beginners in India | Arun Ammisetty | [Read More](https://medium.com/p/6a3eafd6f964) |
-| Mon, 30 Jun 2025 16:01:57 GMT | Part 7: DevSecOps War Room — Simulated Attacks and Live Defenses | DiPAK KNVDL | [Read More](https://medium.com/p/ee42587775b1) |
-| Mon, 30 Jun 2025 15:55:16 GMT | Day 37: Kernel mode exploitation patterns | Nile Okomo | [Read More](https://medium.com/p/9b69620f92dd) |
-| Mon, 30 Jun 2025 15:54:51 GMT | Vector Encryption, AI, and the Slow Pace of Standards | Patrick Walsh | [Read More](https://medium.com/p/90a1dcd3732e) |
-| Mon, 30 Jun 2025 15:54:37 GMT | Passed My 2025 SC-100 Cybersecurity Architect Expert Renewal | carlarjenkins | [Read More](https://medium.com/p/9c4fa5c15348) |
-| Mon, 30 Jun 2025 15:49:42 GMT | Never Commit Secrets Again — Set Up a Global Git Pre-commit Hook with TruffleHog | Rakshit KS | [Read More](https://medium.com/p/eb51d10d3af7) |
-| Mon, 30 Jun 2025 15:43:16 GMT | Understanding the MITRE ATLAS Matrix: How Attackers Target AI Systems | Michael Hannecke | [Read More](https://medium.com/p/ecb75399819f) |
-| Mon, 30 Jun 2025 15:37:29 GMT | Android 16 to Protect Against Stingray Attacks - Cybersecurity Expert | Lineesh Kumar ✨ | [Read More](https://medium.com/p/0b44b406eb8d) |
-| Mon, 30 Jun 2025 15:37:24 GMT | AI Offensive Security per Principianti (EP02) | Tommaso Bona | [Read More](https://medium.com/p/0b897b661a26) |
-| Mon, 30 Jun 2025 15:34:51 GMT | Day 36: User mode & Kernel mode | Nile Okomo | [Read More](https://medium.com/p/a1ccc7ca8161) |
