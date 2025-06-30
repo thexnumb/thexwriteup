@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 04:51:23 GMT | From SOC Analyst to Cybersecurity Innovator: A Conversation with Dennis Muchiri | James Gitau | [Read More](https://medium.com/p/75c01a792e44) |
+| Mon, 30 Jun 2025 04:46:54 GMT | ACM Developers Digest #2 | ACM MITB | [Read More](https://medium.com/p/96aa2c3cd538) |
+| Mon, 30 Jun 2025 04:46:49 GMT | Don’t Chase Cybersecurity for a Quick Six-Figure Paycheck. | Sampson Jonny | [Read More](https://medium.com/p/45026646e59b) |
+| Mon, 30 Jun 2025 04:30:16 GMT | The Linux Security Journey — KASLR (Kernel Address Space Layout Randomization) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6d5554766fe1) |
+| Mon, 30 Jun 2025 04:28:58 GMT | Mastering Nmap for Network Reconnaissance | Darshan | [Read More](https://medium.com/p/b72c26b2c7ff) |
+| Mon, 30 Jun 2025 04:24:23 GMT | Hack The Safe: Prompt Injection CTF Walkthrough from Cyber Security Summit Thailand 2025 | Jormungandr | [Read More](https://medium.com/p/af3840737917) |
+| Mon, 30 Jun 2025 04:22:48 GMT | Mastering Idle Resource Cleanup in Azure and GCP | Saikat Paul | [Read More](https://medium.com/p/b7375ffa78d5) |
+| Mon, 30 Jun 2025 04:21:52 GMT | Why State‑Sponsored AI Cyberattacks from Iran Could Be Your Next Big Threat | Sneha Rani | [Read More](https://medium.com/p/1d23538dc9c8) |
+| Mon, 30 Jun 2025 04:12:43 GMT | Winning the Heart of a Middle-Aged Woman: Two Essential Things | Tess Jenner | [Read More](https://medium.com/p/bd3827bb0001) |
+| Mon, 30 Jun 2025 03:59:05 GMT | ️ Guardians of the Grid: Why Cybersecurity Is the New Frontline of Our Digital Lives | Ctrl Shift | [Read More](https://medium.com/p/18150e02852a) |
 | Mon, 30 Jun 2025 03:44:31 GMT | The Shadow in the Feed: A Deceptive Facebook Persona Possibly Tied to the Son of Sam Case | Criminal Justice Chris | [Read More](https://medium.com/p/6de760c7d9fa) |
 | Mon, 30 Jun 2025 03:31:55 GMT | The Great Certificate Shortening: Is Your Website Ready for the 47-Day SSL/TLS Lifespan? | Deven Chhajed | [Read More](https://medium.com/p/c4c0ad1819df) |
 | Mon, 30 Jun 2025 03:24:49 GMT | What a Memory Dump Can Reveal About You (And Why You Should Care) | Varnith | [Read More](https://medium.com/p/5414d45eca20) |
@@ -103,14 +113,3 @@ Deep Inside — Our Fragile, quiet, frightened Guilty Younger Self!!! | Nabi
 | Sun, 29 Jun 2025 17:49:24 GMT | Cybersecurity in Flight | Inforsecpro | [Read More](https://medium.com/p/c7a7e553ace2) |
 | Sun, 29 Jun 2025 17:31:19 GMT | The Myth of “If We Log Everything, We’ll Understand Everything” | Yuksel | [Read More](https://medium.com/p/4794d09c230b) |
 | Sun, 29 Jun 2025 17:30:27 GMT | Cookies & Tokens — Session Management | Dipak Kr das | [Read More](https://medium.com/p/5cb1ea76bcb2) |
-| Sun, 29 Jun 2025 17:29:21 GMT | Risk Analysis of the Major Mobile Platforms | Ben Kofman | [Read More](https://medium.com/p/35004240baa2) |
-| Sun, 29 Jun 2025 17:28:46 GMT | Detection-as-Code: Building Systems, Not Just Rules | Harsh Mehta | [Read More](https://medium.com/p/e35d3acf40b1) |
-| Sun, 29 Jun 2025 17:27:42 GMT | Understanding Hackers: White Hat, Black Hat, and Grey Hat in Cybersecurity | Lisa Lusinga | [Read More](https://medium.com/p/b3dcd52831bb) |
-| Sun, 29 Jun 2025 17:26:48 GMT | Securing LiteLLM’s MCP Integration: Write Once, Secure Everywhere | Rick Hightower | [Read More](https://medium.com/p/ca7f42d6b656) |
-| Sun, 29 Jun 2025 17:19:35 GMT | Why wasn’t I enough for anyone—
-not even myself? | Nichole | [Read More](https://medium.com/p/1fa577726313) |
-| Sun, 29 Jun 2025 17:17:44 GMT | Session Hijack on delfi.lt via Trusted Auth Flow — Rejected as MITM by YesWeHackdddd | Zhaenx | [Read More](https://medium.com/p/e9ca058f3ccc) |
-| Sun, 29 Jun 2025 17:15:57 GMT | LeHACK 2025 — Serial Gate | Les Pires Hat | [Read More](https://medium.com/p/7e5328639025) |
-| Sun, 29 Jun 2025 17:13:13 GMT | Through the Eyes of a SIEM: What Happens in 24 Hours? | Yuksel | [Read More](https://medium.com/p/6513d5a48f36) |
-| Sun, 29 Jun 2025 16:51:12 GMT | Cross-Site Scripting with a Twist | Marco Nappi | [Read More](https://medium.com/p/b017d6c3a06b) |
-| Sun, 29 Jun 2025 16:49:46 GMT | Intermediate Lab Environment: Domain Joining | Abyss | [Read More](https://medium.com/p/68012509145e) |
