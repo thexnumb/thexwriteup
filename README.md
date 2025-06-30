@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Jun 2025 17:13:11 GMT | Lab: Reflected DOM XSS | Chirag Vyas | [Read More](https://medium.com/p/2a91fe5a13b5) |
+| Mon, 30 Jun 2025 16:57:41 GMT | Social Engineering Vectors in a Digitally Secured World | Badaolaitan | [Read More](https://medium.com/p/ace5fe81cd96) |
+| Mon, 30 Jun 2025 16:57:11 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/ee707b13cd7e) |
+| Mon, 30 Jun 2025 16:55:10 GMT | Army Approves Relocation of Esplanade Bus Stand: A New Chapter in Kolkata’s Urban Planning | Samrat Bhattacharya | [Read More](https://medium.com/p/c80c50f84cec) |
+| Mon, 30 Jun 2025 16:53:20 GMT | Hack The System — JinjaCare | محمد بن إبراهيم | [Read More](https://medium.com/p/606a33e60e28) |
+| Mon, 30 Jun 2025 16:48:43 GMT | Intigriti HackDonalds Challenge Writeup — LFI via XXE | Vishnu Raveendran | [Read More](https://medium.com/p/68a136663bb0) |
+| Mon, 30 Jun 2025 16:48:22 GMT | Too Soon for a Beginning. Too Late for an Ending. | Adéla Valčíková | [Read More](https://medium.com/p/61c27c5a96ec) |
 | Mon, 30 Jun 2025 16:32:37 GMT | Why Cybersecurity Should Be Part of Your Company Culture—Not Just Your IT Department | Donald Betancourt | [Read More](https://medium.com/p/01ab0bdc78e9) |
 | Mon, 30 Jun 2025 16:28:16 GMT | Why Protecting Your WordPress Site Is Essential — And Why Rainbow Secure Is the Smart Choice for… | Dr. Shashi Karhail | [Read More](https://medium.com/p/0a1055694e31) |
 | Mon, 30 Jun 2025 16:26:17 GMT | Unauthenticated PURGE on Varnish - My First Valid Bug | VxRabbit | [Read More](https://medium.com/p/62a359ad711b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 12:13:11 GMT | Recon that changed my Bug Bounty journey | Dasmanish | [Read More](https://medium.com/p/302dd5257794) |
 | Mon, 30 Jun 2025 12:12:25 GMT | Pentesting-Targeting and Reconnaissance | Ahrens Han | [Read More](https://medium.com/p/2ef4472edff2) |
 | Mon, 30 Jun 2025 12:12:20 GMT | Siber Güvenlikte Yeni Dönem: SOAR Teknolojisinin Gücü ve Geleceği | Cyber Web | [Read More](https://medium.com/p/995132d241b8) |
-| Mon, 30 Jun 2025 12:04:45 GMT | What Is an Attack Surface in Cybersecurity and How Can It Be Managed Effectively? | Sophia | [Read More](https://medium.com/p/a6e4be73ccce) |
-| Mon, 30 Jun 2025 12:02:00 GMT | Criptoevolución: #MisVibracionesDeTrading | WhiteBIT | [Read More](https://medium.com/p/56ed42d02981) |
-| Mon, 30 Jun 2025 12:01:58 GMT | How I Design Technical Training That Actually Sticks | O'lando Cory Rawlinson | [Read More](https://medium.com/p/0d0886a7ab4c) |
-| Mon, 30 Jun 2025 12:01:58 GMT | Criptoevolución: Tú eliges tu camino, nosotros recompensamos tu progreso | WhiteBIT | [Read More](https://medium.com/p/48ae00f66d22) |
-| Mon, 30 Jun 2025 12:00:06 GMT | Windows 11 BlueStacks 不兼容的Windows設置？解決方案就在這裡！ | David Chu | [Read More](https://medium.com/p/db3d34ea6dc6) |
-| Mon, 30 Jun 2025 11:44:03 GMT | Preventing Cross-Site Scripting (XSS) in Spring Boot with Content-Security Policies (CSPs) | Umesh Kumar Yadav | [Read More](https://medium.com/p/42a1092e72bf) |
-| Mon, 30 Jun 2025 11:37:27 GMT | How Hackers Used CloudFront Functions to Mine Cryptocurrency (And How We Almost Missed It) | Dev engineer | [Read More](https://medium.com/p/67031087efed) |
