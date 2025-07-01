@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 05:12:37 GMT | About me- My Journey as a writer and Tech Enthusiast | Owuorsteaven | [Read More](https://medium.com/p/ffa220da802b) |
+| Tue, 01 Jul 2025 05:11:58 GMT | OWASP Gen AI Security for LLM Application | Dhiraj Patra | [Read More](https://medium.com/p/7795887a13a5) |
+| Tue, 01 Jul 2025 05:02:29 GMT | DevSecOps Automation: Building Security into CI/CD Without Breaking Developer Velocity | Andrei Ivan | [Read More](https://medium.com/p/45b40542e7ad) |
+| Tue, 01 Jul 2025 04:54:42 GMT | The Linux Security Journey — CryptoAPI (Cryptography Application Programming Interface) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0d026bf4589e) |
+| Tue, 01 Jul 2025 04:46:06 GMT | The Surprising Link Between Vulnerability & Relationship Strength | Preethi Sunallini | [Read More](https://medium.com/p/aa3650771726) |
 | Tue, 01 Jul 2025 04:34:33 GMT | SQL Injection Praktikası: Manual Hücum Nümunəsi | Natiq Salifov | [Read More](https://medium.com/p/6835517f78c5) |
 | Tue, 01 Jul 2025 04:24:30 GMT | Breaking Down Vulnerabilities: | LIJO JKV | [Read More](https://medium.com/p/8b4266eb4fed) |
 | Tue, 01 Jul 2025 04:18:18 GMT | SSTI to Reverse Shell And Privilege Escalation | Wahyu Nufal Azmi | [Read More](https://medium.com/p/cad97154b1c6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 19:51:50 GMT | Blind XSS Vulnerability in Profile Input Leads to $2,000 Reward | Hamza Mandil | [Read More](https://medium.com/p/4641defd8d54) |
 | Mon, 30 Jun 2025 19:48:20 GMT | Inbox Extortion 101: How a Shutdown Threat Turns AI Into HAL 9000 | Zac | [Read More](https://medium.com/p/48485a64dedd) |
 | Mon, 30 Jun 2025 19:44:08 GMT | DMAIL’S SUBSCRIPTION HUB: A Smarter WAY TO STAY CONNECTED IN WEB3 | Ndifreke Bassey | [Read More](https://medium.com/p/fd35de14d908) |
-| Mon, 30 Jun 2025 19:43:10 GMT | I’m still pretty new to cybersecurity but this discussion about metrics and risk really opened my… | M H | [Read More](https://medium.com/p/5f0a86375210) |
-| Mon, 30 Jun 2025 19:35:23 GMT | 7 Future-Proof Trends in Cloud Security and Analytics You Need to Know in 2025 | Techridge Solutions | [Read More](https://medium.com/p/c967de034bcb) |
-| Mon, 30 Jun 2025 19:34:23 GMT | I thought I understood cybersecurity industry pretty well but turns out I was looking at everything… | M H | [Read More](https://medium.com/p/e1c7e00a2cbb) |
-| Mon, 30 Jun 2025 19:25:16 GMT | Core Attributes of Distributed Systems: Reliability, Availability, Scalability, and More | Sachin Tolay | [Read More](https://medium.com/p/792c96e87642) |
-| Mon, 30 Jun 2025 19:22:40 GMT | BİR SİBER GÜVENLİK ÖĞRENCİSİNİN GÖZÜNDE DARK WEB | mslm_altingul | [Read More](https://medium.com/p/de1f980bd507) |
