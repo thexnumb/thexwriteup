@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 22:31:38 GMT | Hack The System — SpeedNet | محمد بن إبراهيم | [Read More](https://medium.com/p/6ff20a6c06a2) |
+| Tue, 01 Jul 2025 22:24:47 GMT | Setting Up a Home Lab for Red teaming & Pen Testing (Reality) | Maharram Maharramov | [Read More](https://medium.com/p/e7300a8d8cd3) |
+| Tue, 01 Jul 2025 22:22:34 GMT | Writing Yara Rule to Detect Agent Tesla Variant | Security Posture | [Read More](https://medium.com/p/6d74ea396420) |
+| Tue, 01 Jul 2025 22:19:59 GMT | Kritik Bir Sudo Açığı: CVE-2025–32462 | Mesut Ozsoy | [Read More](https://medium.com/p/0aa1f4169e60) |
+| Tue, 01 Jul 2025 22:19:22 GMT | AWS secure role-based short-therm authorisation for your infrastructure code, CDK and SDK resources | Andrii Lobanov | [Read More](https://medium.com/p/7b2384f6c8d0) |
+| Tue, 01 Jul 2025 22:19:20 GMT | OAuth Vulnerabilities - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/8ad5e60cd28b) |
+| Tue, 01 Jul 2025 22:16:01 GMT | Cybersecurity Layers Explained: Defense in Depth Done Right | Karthikeyan Nagaraj | [Read More](https://medium.com/p/97bccd0d92ec) |
 | Tue, 01 Jul 2025 22:15:03 GMT | Exploring Ticket Resolution Time with Field Parameters in Power BI | Bryant Greaves | [Read More](https://medium.com/p/8af043d6c49b) |
+| Tue, 01 Jul 2025 22:12:03 GMT | SaaS Is Eating the Enterprise — But Who’s Protecting the Data? | Cyber-AppSec | [Read More](https://medium.com/p/9e04f6d6a69f) |
+| Tue, 01 Jul 2025 22:10:32 GMT | The Extended Mind: Ethical Red Teaming from a Street-Level Perspective | Johnny Correia - Ética e IA | [Read More](https://medium.com/p/7b5d4b4c72f0) |
 | Tue, 01 Jul 2025 22:08:41 GMT | The Cybersecurity Crisis in Healthcare | Ria Sinha | [Read More](https://medium.com/p/f30e4a23ec38) |
 | Tue, 01 Jul 2025 22:06:29 GMT | What Is IDOR? How I Learned to Spot Insecure Direct Object References (Legally) | Nitish Reddy | [Read More](https://medium.com/p/6c0740b67322) |
 | Tue, 01 Jul 2025 22:01:01 GMT | Before the Hack: Understanding Reconnaissance in Hacking | Goose Gustin | [Read More](https://medium.com/p/a1fccc975e96) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 16:20:29 GMT | The Secret Weapon for Independent Cybersecurity Professionals | Vijay Kumar Gupta | [Read More](https://medium.com/p/45c6fa127485) |
 | Tue, 01 Jul 2025 16:18:25 GMT | DenizHalil.com Cybersecurity Platform for Sale | Halildeniz | [Read More](https://medium.com/p/c8cba3cd5d44) |
 | Tue, 01 Jul 2025 16:16:53 GMT | Major Cybersecurity Incidents in the Last Five Years (2020–2025) | aaryan | [Read More](https://medium.com/p/5ec2491a1515) |
-| Tue, 01 Jul 2025 16:15:48 GMT | New in Copilot: Scan Suspicious Files with VirusTotal Integration | SOCFortress | [Read More](https://medium.com/p/4b2f28350c5c) |
-| Tue, 01 Jul 2025 16:15:06 GMT | I Thought Jealousy Meant I Was Insecure — But It Was Something Deeper | London Wood | [Read More](https://medium.com/p/81575b851d05) |
-| Tue, 01 Jul 2025 16:10:10 GMT | How I (Ethically) Hacked My College Portal with a JWT Token — and Reported It Responsibly | Tamilselvan A K | [Read More](https://medium.com/p/16aa97a5255e) |
-| Tue, 01 Jul 2025 16:07:25 GMT | How Pegasus Broke the Saudi Royal Family | Sora Ishikawa | [Read More](https://medium.com/p/0032b95e0e65) |
-| Tue, 01 Jul 2025 16:03:14 GMT | The Hidden .git | SIDDHANT SHUKLA | [Read More](https://medium.com/p/b30afef0b462) |
-| Tue, 01 Jul 2025 15:51:05 GMT | The Loop That Taught Me More Than the Code | Hira Ahmad | [Read More](https://medium.com/p/47217b92d1cb) |
-| Tue, 01 Jul 2025 15:43:10 GMT | Boeing names Stephen Parker as CEO of defense, space & security | Marcello Strano | [Read More](https://medium.com/p/d95eb3a238de) |
-| Tue, 01 Jul 2025 15:42:49 GMT | JWT Nedir? Güvenlik Açıkları, Saldırı Türleri ve Uygulamalı Lab Çözümü 1 Bölüm | Oruç | [Read More](https://medium.com/p/27d16606129e) |
-| Tue, 01 Jul 2025 15:42:38 GMT | RWAFI Chain: Revolutionizing Real-World Asset Tokenization | STANLEY | [Read More](https://medium.com/p/90a384dfe2d7) |
