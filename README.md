@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 04:34:33 GMT | SQL Injection Praktikası: Manual Hücum Nümunəsi | Natiq Salifov | [Read More](https://medium.com/p/6835517f78c5) |
+| Tue, 01 Jul 2025 04:24:30 GMT | Breaking Down Vulnerabilities: | LIJO JKV | [Read More](https://medium.com/p/8b4266eb4fed) |
+| Tue, 01 Jul 2025 04:18:18 GMT | SSTI to Reverse Shell And Privilege Escalation | Wahyu Nufal Azmi | [Read More](https://medium.com/p/cad97154b1c6) |
+| Tue, 01 Jul 2025 04:13:27 GMT | My 6-Month Bug Bounty Review ️‍♂️ | cryptoshant | [Read More](https://medium.com/p/8469f3ca230f) |
+| Tue, 01 Jul 2025 04:12:45 GMT | 3 Security Risk Management Tools I’m Paying Attention To | Maham Shariff | [Read More](https://medium.com/p/619d9066921c) |
+| Tue, 01 Jul 2025 04:04:11 GMT | Massive Data Leak using Unauthenticated ARC GIS REST service | Ronak Patel | [Read More](https://medium.com/p/7a59ca13ca28) |
+| Tue, 01 Jul 2025 03:54:43 GMT | Win11不能存取匿名SMB了？ | Superliufa | [Read More](https://medium.com/p/74036840f09f) |
+| Tue, 01 Jul 2025 03:50:08 GMT | Why Social Engineering Remains Cybersecurity’s Most Persistent Threat | OWilliams | [Read More](https://medium.com/p/d4b3bf7c8e48) |
+| Tue, 01 Jul 2025 03:49:32 GMT | The Future Is Ours to Build: AI, Cybersecurity, Education, and the Autonomous Revolution | Inayat Hussain | [Read More](https://medium.com/p/35a8edff2c66) |
+| Tue, 01 Jul 2025 03:47:49 GMT | [HITB2024] My First and Last Shellcode Loader | CRUNZEX | [Read More](https://medium.com/p/8ed016ccab42) |
+| Tue, 01 Jul 2025 03:42:54 GMT | BUGGED-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/1eff76f2bcea) |
 | Tue, 01 Jul 2025 03:32:51 GMT | The $5 Trap: How Toll Texts Became the Perfect Cyber Scam | Deven Chhajed | [Read More](https://medium.com/p/ad4870ddd455) |
 | Tue, 01 Jul 2025 03:20:07 GMT | Cybersecurity Detection: Trapping instead of the Gold Panning | Ivan Fedorets | [Read More](https://medium.com/p/0e8ec38b5800) |
 | Tue, 01 Jul 2025 02:51:15 GMT | The HTTP Basics to Advanced: Beginner Friendly Guide to How the Web Works | Shubham Sharma | [Read More](https://medium.com/p/816ed26017e8) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 19:34:23 GMT | I thought I understood cybersecurity industry pretty well but turns out I was looking at everything… | M H | [Read More](https://medium.com/p/e1c7e00a2cbb) |
 | Mon, 30 Jun 2025 19:25:16 GMT | Core Attributes of Distributed Systems: Reliability, Availability, Scalability, and More | Sachin Tolay | [Read More](https://medium.com/p/792c96e87642) |
 | Mon, 30 Jun 2025 19:22:40 GMT | BİR SİBER GÜVENLİK ÖĞRENCİSİNİN GÖZÜNDE DARK WEB | mslm_altingul | [Read More](https://medium.com/p/de1f980bd507) |
-| Mon, 30 Jun 2025 19:22:06 GMT | → TITLE: | Shaun Thomas | [Read More](https://medium.com/p/a19be4f5ff24) |
-| Mon, 30 Jun 2025 19:12:41 GMT | Bypassing Referer-Based CSRF Defenses | musayyab sharif | [Read More](https://medium.com/p/2a9049524fc4) |
-| Mon, 30 Jun 2025 19:07:41 GMT | Unable to Reproduce — QC 101 | Mohan Thomas | [Read More](https://medium.com/p/bd0b17ab0d5e) |
-| Mon, 30 Jun 2025 19:06:09 GMT | The Silent Scam: Why You Should Never Ignore a Blank Call | The Tech Journal | [Read More](https://medium.com/p/d15bf0c56430) |
-| Mon, 30 Jun 2025 19:00:19 GMT | ️ Proactive Monitoring Techniques for Detecting Zero-Day Exploits | Esra Kayhan | [Read More](https://medium.com/p/58434524b394) |
-| Mon, 30 Jun 2025 18:58:17 GMT | Smart Patrol Integration | Presslink Media | [Read More](https://medium.com/p/5214040db7fa) |
-| Mon, 30 Jun 2025 18:57:02 GMT | Inside the $2.3 Billion Cross-Chain Bridge Massacre: A Forensic Analysis | Chronos Vault | [Read More](https://medium.com/p/39b938329403) |
-| Mon, 30 Jun 2025 18:55:19 GMT | Empowering Security and Access Control: A Review of Shine Union’s Robust Partnerships | SU Group Holdings Limited (SUGP) | [Read More](https://medium.com/p/79731a433085) |
-| Mon, 30 Jun 2025 18:49:18 GMT | Enterprise-Grade RBAC in NestJS: Building HIPAA-Compliant Access Control with Emergency Overrides | Vishad Patel | [Read More](https://medium.com/p/8c07205e08c9) |
-| Mon, 30 Jun 2025 18:47:08 GMT | CyberDefenders Lab : XLMRat (Network Forensics) | Sarkhelranit | [Read More](https://medium.com/p/64b5c84d33f1) |
-| Mon, 30 Jun 2025 18:43:56 GMT | The Life Cycle of a Vulnerability: What Happens Before and After a CVE is Published? | Yuksel | [Read More](https://medium.com/p/beb386450bf5) |
