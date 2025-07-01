@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 06:29:43 GMT | Best Security Guard Companies in Pune 2025 | United Guard Force India | [Read More](https://medium.com/p/ea4109892655) |
+| Tue, 01 Jul 2025 06:20:30 GMT | SIEM Lab: Wazuh Intro and Installation | Stevanus Banu | [Read More](https://medium.com/p/82ae6b983b2b) |
+| Tue, 01 Jul 2025 06:20:23 GMT | The 20 Faces of Deception: How Social Engineering Manipulates, Exploits, and Destroys | Travis Ray Caverhill | [Read More](https://medium.com/p/a3ad2f992114) |
+| Tue, 01 Jul 2025 06:14:49 GMT | Command Injection Attack in Symfony: How to Detect and Prevent It | Pentest_Testing_Corp | [Read More](https://medium.com/p/939e459039ce) |
+| Tue, 01 Jul 2025 06:12:50 GMT | Auth Wars: Session vs JWT vs OAuth2 — The Ultimate 2025 Showdown | Martin Pál | [Read More](https://medium.com/p/f5b08b1e9e50) |
+| Tue, 01 Jul 2025 06:11:58 GMT | Broken Access Control part-8 : User ID controlled by request parameter with password disclosure | Ahmad Sopyan | [Read More](https://medium.com/p/127619003fff) |
+| Tue, 01 Jul 2025 06:10:40 GMT | Beyond Development: How AppCurators Technologies Builds Digital Solutions That Scale | Appcurators | [Read More](https://medium.com/p/0f1f17a361cf) |
+| Tue, 01 Jul 2025 06:10:35 GMT | Why Every Cybersecurity Solopreneur Should Learn Vibe Coding | Taimur Ijlal | [Read More](https://medium.com/p/a03df102959b) |
+| Tue, 01 Jul 2025 06:09:53 GMT | FBI: Airlines Now in Scattered Spider’s Crosshairs | Aj | [Read More](https://medium.com/p/533b41f21981) |
+| Tue, 01 Jul 2025 06:09:37 GMT | Broken Access Control part-7 : User ID controlled by request parameter with data leakage in… | Ahmad Sopyan | [Read More](https://medium.com/p/f765b221e03a) |
+| Tue, 01 Jul 2025 06:07:14 GMT | Broken Access Control part-6 : User ID controlled by request parameter, with unpredictable user IDs | Ahmad Sopyan | [Read More](https://medium.com/p/ee11831c3c1b) |
+| Tue, 01 Jul 2025 06:03:00 GMT | Storing and Searching User-Specific Sensitive Data Securely in Your Database | Akif Kadioglu | [Read More](https://medium.com/p/fa544aa014f3) |
+| Tue, 01 Jul 2025 05:55:48 GMT | JavaScript Files: A Pentester’s Treasure Trove | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ec4c393a23c5) |
+| Tue, 01 Jul 2025 05:55:32 GMT | My First AWS re:Inforce — Key Takeaways and Practical Tips from Philadelphia 2025 | MBI@RocketOps | [Read More](https://medium.com/p/8d29d4603988) |
+| Tue, 01 Jul 2025 05:55:14 GMT | Drupal TFA: A Complete Guide to Securing Your Website with Two-Factor Authentication | Rosy Oliver | [Read More](https://medium.com/p/c7ddee99fa2a) |
 | Tue, 01 Jul 2025 05:41:16 GMT | Top 10 Ways to Achieve Remote Code Execution (RCE) on Web Applications | Facundo Fernandez | [Read More](https://medium.com/p/d923246b916b) |
+| Tue, 01 Jul 2025 05:41:07 GMT | Segurança de Redes | Filipe Campos | [Read More](https://medium.com/p/9084f6cb31e5) |
 | Tue, 01 Jul 2025 05:41:01 GMT | ️ Day in the Life of a SOC Analyst in Training — Entry #1 | Manish Rawat | [Read More](https://medium.com/p/643a8a94b077) |
 | Tue, 01 Jul 2025 05:35:20 GMT | “Mr. Robot CTF: WordPress Exploitation to Root Privilege Escalation” | sivaaditya | [Read More](https://medium.com/p/efed6cc402e7) |
 | Tue, 01 Jul 2025 05:33:37 GMT | How to Prevent Your Social Media from Being Hacked? | UpThoughts | [Read More](https://medium.com/p/1c99e42ffe0f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 21:13:36 GMT | AWS CLI v2 by Examples: Using CloudWatch Log Subscriptions to Centralize Logs from Multiple… | MB20261 | [Read More](https://medium.com/p/5630d5ab6126) |
 | Mon, 30 Jun 2025 20:56:34 GMT | Top Ten Security Practices for Phoenix Developers | Hex Shift | [Read More](https://medium.com/p/7df1f9e7d9f2) |
 | Mon, 30 Jun 2025 20:51:14 GMT | The Smart Fridge, The Love Scam, And The Retired Spy From Lagos | O. J. Okpabi | [Read More](https://medium.com/p/9926205c749d) |
-| Mon, 30 Jun 2025 20:49:12 GMT | Stromnetze im Fadenkreuz — Geopolitsiche Einblicke & Strategische Überlegungen | Benjamin Rohé | [Read More](https://medium.com/p/8c1f2975b176) |
-| Mon, 30 Jun 2025 20:46:21 GMT | The Kid Who Hacked His Way Into A Scholarship Without Stealing A Thing | O. J. Okpabi | [Read More](https://medium.com/p/a8062fc929c2) |
-| Mon, 30 Jun 2025 20:46:01 GMT | AI Security Crisis in 2025: Generative AI Is Backfiring — and Hackers Are Winning | Methuselah Misati | [Read More](https://medium.com/p/011ce24e9ce0) |
-| Mon, 30 Jun 2025 20:44:04 GMT | Your Smartphone Could Be Leaking Your Login Details Right Now | Akshay Chauhan | [Read More](https://medium.com/p/06f2ded24036) |
-| Mon, 30 Jun 2025 20:43:23 GMT | Windows API-Part I: Because Buttons Don’t Click Themselves. | Sankadlikhit | [Read More](https://medium.com/p/b877ea66f518) |
-| Mon, 30 Jun 2025 20:43:23 GMT | The Sermon Was Hacked But So Was Their Plan | O. J. Okpabi | [Read More](https://medium.com/p/41ae28a4adce) |
-| Mon, 30 Jun 2025 20:40:43 GMT | The Teen Radio DJ Who Stopped A Fake Bank Collapse | O. J. Okpabi | [Read More](https://medium.com/p/65367bdc2003) |
-| Mon, 30 Jun 2025 20:39:42 GMT | When Public Cloud Isn’t an Option: Designing a Secure GenAI Stack Inside the Data Center | Sasikanth Padigala | [Read More](https://medium.com/p/6ecb983fa683) |
-| Mon, 30 Jun 2025 20:37:53 GMT | Her Face. Not Her Shame. | O. J. Okpabi | [Read More](https://medium.com/p/1981ee54e706) |
-| Mon, 30 Jun 2025 20:35:49 GMT | He Wanted Her Heart, She Wanted His IP Address | O. J. Okpabi | [Read More](https://medium.com/p/85f1ae884793) |
-| Mon, 30 Jun 2025 20:35:38 GMT | Shellcode Execution Evading Windows Defender | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2edabc74e76c) |
-| Mon, 30 Jun 2025 20:30:12 GMT | IAM Solutions for Startup Co. | Dehan Bekker | [Read More](https://medium.com/p/1ac63af2843a) |
-| Mon, 30 Jun 2025 20:27:27 GMT | TryHackMe Ödevi — Bulut Güvenliği Eğitimi | Muhammed Kaya | [Read More](https://medium.com/p/0694d337628f) |
-| Mon, 30 Jun 2025 20:23:51 GMT | Medusa Ransomware: The Cyber Snake That Stares You Down Before Striking | Akshay Chauhan | [Read More](https://medium.com/p/e6b6b4a51b0c) |
-| Mon, 30 Jun 2025 20:22:06 GMT | The Man Who Didn’t Exist, Until He Stole Everything | O. J. Okpabi | [Read More](https://medium.com/p/9eed48457191) |
-| Mon, 30 Jun 2025 20:19:00 GMT | The Gamer Who Busted A Cybercrime Ring Using Only His PlayStation | O. J. Okpabi | [Read More](https://medium.com/p/26eb5612aeb8) |
