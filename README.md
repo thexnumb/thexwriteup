@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 14:18:55 GMT | The Python Code That Cracked 1 Million Passwords (For Research) | The Code Studio | [Read More](https://medium.com/p/7c29c77e3f4f) |
+| Tue, 01 Jul 2025 14:16:51 GMT | The Ultimate Offensive Security Playbook: Real‑World Red Team, Pentesters & CTF Tactics | Pratham Shah | [Read More](https://medium.com/p/f054f9082ee2) |
+| Tue, 01 Jul 2025 14:12:52 GMT | Azure Virtual Machine Security: Best Practices (and Why They Matter) | Scott Martin | [Read More](https://medium.com/p/8b533dd00252) |
+| Tue, 01 Jul 2025 14:12:25 GMT | Post‑Market Cybersecurity 2025 | Daniel James | [Read More](https://medium.com/p/40e8d9c5e2eb) |
+| Tue, 01 Jul 2025 14:11:33 GMT | High‑Stakes Airport Scam: A 24‑Year‑Old’s ₹2.9 Crore Cyber‑Mask | Hacker news 07 | [Read More](https://medium.com/p/06286f9fd49e) |
+| Tue, 01 Jul 2025 14:09:02 GMT | Building a Zero Trust Architecture | Furkan Gungor | [Read More](https://medium.com/p/6e24953e9d96) |
+| Tue, 01 Jul 2025 14:06:44 GMT | True Positive, False Positive, False Negative, and True Negative –Explained Simply | Owais Abdul Haseeb | [Read More](https://medium.com/p/21763ecf5e3d) |
+| Tue, 01 Jul 2025 14:03:44 GMT | Frontend Projelerinde Credentials Güvenliği ve  Sızıntılara Karşı En İyi Uygulamalar | Mertcan Arguç | [Read More](https://medium.com/p/411f16ba15da) |
+| Tue, 01 Jul 2025 14:02:04 GMT | Hallucinations, Betrayal, Self: The Three Faces of AI Aiming at Humanity | Sean(Seon Yong) Park | [Read More](https://medium.com/p/72d730d95ae3) |
+| Tue, 01 Jul 2025 14:01:33 GMT | Cyber Briefing: 2025.07.01 | CyberMaterial | [Read More](https://medium.com/p/7b99bc1e99ba) |
+| Tue, 01 Jul 2025 13:56:51 GMT | Encrypted Traffic Analysis: Detecting Anomalies in Encrypted Network Traffic | Esra Kayhan | [Read More](https://medium.com/p/46093e8ab90f) |
+| Tue, 01 Jul 2025 13:52:44 GMT | Vulnerability 101: TryHackMe Writeup | Bridget | [Read More](https://medium.com/p/1d97b8f8547d) |
+| Tue, 01 Jul 2025 13:49:53 GMT | CSRF Attacks Explained: How Hackers Trick Your Browser into Betraying You | err0rgod | [Read More](https://medium.com/p/2b786e648acc) |
+| Tue, 01 Jul 2025 13:38:05 GMT | Q‑Submission Strategy 2025 | Daniel James | [Read More](https://medium.com/p/69fd85a8dad7) |
+| Tue, 01 Jul 2025 13:35:18 GMT | 10 Days of MCP Security — Day 2 Why MCP Security ≠ API Security | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/03e7039d3cbb) |
+| Tue, 01 Jul 2025 13:30:09 GMT | How Lust Led to Treason | Arif Istiaque Hossain | [Read More](https://medium.com/p/f232695b2e91) |
 | Tue, 01 Jul 2025 13:28:59 GMT | AI-Driven Voice Deepfake Defense: Integrating Detection and Watermarking into Healthcare SIEM and… | Wes Young | [Read More](https://medium.com/p/6782587523d9) |
 | Tue, 01 Jul 2025 13:24:19 GMT | Building a Cowrie Honeypot: SSH Setup, Logging, and Attack Replay | Ahmedmustafa Inbox | [Read More](https://medium.com/p/dd6e0094740a) |
 | Tue, 01 Jul 2025 13:19:30 GMT | A Trailblazer in AI Cybersecurity — Where Is Darktrace Now? | Zoe, Lim Yi Qing | [Read More](https://medium.com/p/8422cc64ba02) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 09:07:12 GMT | File upload vulnerability explained like never before. | Rabia Riaz | [Read More](https://medium.com/p/34cf86f31ad0) |
 | Tue, 01 Jul 2025 09:07:04 GMT | AI & Automation Are The Future of Cybersecurity — But Who Gets To Shape It In Kenya & Africa? | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/318b166ecd94) |
 | Tue, 01 Jul 2025 09:06:53 GMT | AI Malware: The New Frontier in Cyber Attacks (And How to Fight Back) | Securseedmena | [Read More](https://medium.com/p/49a607aace94) |
-| Tue, 01 Jul 2025 09:05:19 GMT | What Is ISACA and Why Are Its Certifications Trusted Globally? | Dhanashri Bhale | [Read More](https://medium.com/p/ac7d65158476) |
-| Tue, 01 Jul 2025 09:04:19 GMT | ☁️Cloud Security — Part 1☁️ | Sudarshan Patel | [Read More](https://medium.com/p/a947694aeee5) |
-| Tue, 01 Jul 2025 09:04:14 GMT | Reusing an Expired Invitation to Rejoin the Organization | Khaledelnabet | [Read More](https://medium.com/p/d20ad8aea4c5) |
-| Tue, 01 Jul 2025 09:03:53 GMT | Building a Real-Time Phishing URL Detection Chrome Extension | Nitika Nagdevani | [Read More](https://medium.com/p/f1c2f147472a) |
-| Tue, 01 Jul 2025 09:01:24 GMT | Data Discovery Process | Apto Solutions | [Read More](https://medium.com/p/602ca971f726) |
-| Tue, 01 Jul 2025 09:01:24 GMT | The Hidden Cost of False Positives: How AI Reduces Alert Fatigue by 80% | Paul Sherman | [Read More](https://medium.com/p/6e0efdb6bddb) |
-| Tue, 01 Jul 2025 09:00:20 GMT | Why Now is the Time For IT Career Switch (And How Fortray Helps) | HamnaAhmad | [Read More](https://medium.com/p/a1149a168baf) |
-| Tue, 01 Jul 2025 08:59:28 GMT | CSRF Is Still Alive: A Modern Guide for Hackers and Defenders | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5626528844a6) |
-| Tue, 01 Jul 2025 08:59:27 GMT | ️ Reconic — The OSINT & Reconnaissance Tool I Built for Ethical Hackers Like Me | Inayat Hussain | [Read More](https://medium.com/p/4c5990558de7) |
-| Tue, 01 Jul 2025 08:54:36 GMT | MOVEit Servers Under Mass Scanning — Patch Now | Aj | [Read More](https://medium.com/p/4fec688488ff) |
-| Tue, 01 Jul 2025 08:54:33 GMT | DevSecOps in Action: How to Add Security Checks Across Your Development Lifecycle | Sai Jami | [Read More](https://medium.com/p/ea1074c252e3) |
-| Tue, 01 Jul 2025 08:53:17 GMT | Vulnerability report: CVE-2025–3262 | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/14693c7b84e0) |
-| Tue, 01 Jul 2025 08:51:44 GMT | How to Protect GenAI APIs from Prompt Injection, Data Leaks, and Abuse | Pranav Prakash | [Read More](https://medium.com/p/629975fe11e5) |
-| Tue, 01 Jul 2025 08:43:53 GMT | Local Insight Powers Security Services in Mumbai Today! | United Guard Force India | [Read More](https://medium.com/p/e1e03d137469) |
-| Tue, 01 Jul 2025 08:40:31 GMT | How I Exploited a Hidden CSRF Vulnerability — And How You Can Prevent It | Mr Horbio | [Read More](https://medium.com/p/d089ad23887d) |
-| Tue, 01 Jul 2025 08:35:33 GMT | Rate Limiting: The Unsung Hero of Web Security | Quella | [Read More](https://medium.com/p/82aa29639f43) |
