@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 18:49:13 GMT | Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/1182636656bf) |
+| Tue, 01 Jul 2025 18:46:36 GMT | Building a Cybersecurity ETL Pipeline with FastAPI, PySpark & MongoDB | Shrugaltayal | [Read More](https://medium.com/p/023634c0864f) |
+| Tue, 01 Jul 2025 18:43:22 GMT | The problem with Bitcoin “secret words” | Abhijit Saha | [Read More](https://medium.com/p/f2b12c23ebe4) |
+| Tue, 01 Jul 2025 18:38:20 GMT | XSS Vulnerabilities — Full Lifecycle Breakdown with Mitigations | Zoningxtr | [Read More](https://medium.com/p/efa88047d652) |
+| Tue, 01 Jul 2025 18:30:05 GMT | The Complete Review of : “Cult of the Dead Cow” by Joseph Menn | Akshara Siddharthan | [Read More](https://medium.com/p/08ddcb298635) |
+| Tue, 01 Jul 2025 18:29:57 GMT | Inside the Shadows: What Are Dark Web Websites and Why You Should Care | Akshay Chauhan | [Read More](https://medium.com/p/5eb96193fa60) |
 | Tue, 01 Jul 2025 18:27:51 GMT | The Ethical Hacking Sentinel (July 1) | Franklin Rhodes | [Read More](https://medium.com/p/4e081a59d219) |
 | Tue, 01 Jul 2025 18:18:08 GMT | Why Breach and Attack Simulation is Becoming a Must-Have for Modern Enterprises | DefenceRabbit | [Read More](https://medium.com/p/033336b2f240) |
 | Tue, 01 Jul 2025 18:10:56 GMT | Suzanne Alipourian-Frascogna: Bridging Cybersecurity and Product Management in the Digital Era | Suzanne Alipourian-Frascogna | [Read More](https://medium.com/p/1b8b38d625d2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 13:24:19 GMT | Building a Cowrie Honeypot: SSH Setup, Logging, and Attack Replay | Ahmedmustafa Inbox | [Read More](https://medium.com/p/dd6e0094740a) |
 | Tue, 01 Jul 2025 13:19:30 GMT | A Trailblazer in AI Cybersecurity — Where Is Darktrace Now? | Zoe, Lim Yi Qing | [Read More](https://medium.com/p/8422cc64ba02) |
 | Tue, 01 Jul 2025 13:18:55 GMT | Secrets Auto-Rotation in Kubernetes with AWS Secrets Manager and Reloader | Hemanth M Gowda | [Read More](https://medium.com/p/e8dcaef03fb0) |
-| Tue, 01 Jul 2025 13:13:07 GMT | Iran-linked hackers a threat to U.S. firms and critical infrastructure | Inforsecpro | [Read More](https://medium.com/p/590212a6fcff) |
-| Tue, 01 Jul 2025 13:08:00 GMT | How I Turned a Grafana Bug Into a Full Server Hack | Ibtissam hammadi | [Read More](https://medium.com/p/a273a2453ac1) |
-| Tue, 01 Jul 2025 13:02:52 GMT | 6 Smart SBC Projects to Upgrade Your Home Network Security and Speed | Mohamad MERHI | [Read More](https://medium.com/p/6b5ab38d333b) |
-| Tue, 01 Jul 2025 13:02:31 GMT | What’s up with pastebin and G2A? (Part 1) | unnamedCIAagent | [Read More](https://medium.com/p/82d2ca0d7f0d) |
-| Tue, 01 Jul 2025 12:44:59 GMT | Architectural Considerations for SaaS Application — PART (4/12): API & Interface | Dhyan Sagar | [Read More](https://medium.com/p/ce2c65a61442) |
-| Tue, 01 Jul 2025 12:44:35 GMT | Architectural Considerations for SaaS Application — PART (5/12): CI/CD & Infrastructure | Dhyan Sagar | [Read More](https://medium.com/p/5220523d0904) |
