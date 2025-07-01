@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 16:47:22 GMT | Local Setup Guide for OWASP ZAP (2025 Edition) | Farhan | [Read More](https://medium.com/p/417b630599cd) |
+| Tue, 01 Jul 2025 16:46:27 GMT | HackTheBox — Hack the system : bug bounty ctf - SpeedNet | Md. Fazle Rabbi | [Read More](https://medium.com/p/bbbd2f20ba70) |
+| Tue, 01 Jul 2025 16:45:44 GMT | Recon as Code: Build Your Own One-Click Recon CLI With Python + Shell + Existing Tools | Monika sharma | [Read More](https://medium.com/p/4f7b260ae89f) |
+| Tue, 01 Jul 2025 16:45:28 GMT | Understanding LDAP Over Active Directory | Cyber T | [Read More](https://medium.com/p/b28124a39fa4) |
+| Tue, 01 Jul 2025 16:45:15 GMT | Bilgi güvenliğinin temeli(CIA Üçlüsü) | Cihankan | [Read More](https://medium.com/p/0297d415b1cc) |
+| Tue, 01 Jul 2025 16:44:46 GMT | Satellite OSINT Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/e0f77b371426) |
+| Tue, 01 Jul 2025 16:40:58 GMT | How Two Logic Flaws Let Hackers Get Root on Linux in Seconds — CVE-2025–6018 and CVE-2025–6019… | Aaron | [Read More](https://medium.com/p/17eda9a8cfc3) |
+| Tue, 01 Jul 2025 16:40:56 GMT | The Weight of What You Don’t Say: The Cost of Bottling Up Your Feelings | Blaze | [Read More](https://medium.com/p/3eea46ee77e5) |
+| Tue, 01 Jul 2025 16:40:20 GMT | THM Industrial Intrusion CTF Task 13 Orcam | Not wrench | [Read More](https://medium.com/p/94c92cd8592f) |
+| Tue, 01 Jul 2025 16:36:54 GMT | Nowadays you don’t need a hacker to get hacked | hack-ethics | [Read More](https://medium.com/p/32834c44733e) |
+| Tue, 01 Jul 2025 16:36:43 GMT | Firewallet; Why you shouldn’t ingest firewall Logs in Your SIEM | One Equals One | [Read More](https://medium.com/p/c496a450dcfc) |
+| Tue, 01 Jul 2025 16:31:24 GMT | China’s Covert Spy Network: 1,000+ US/Asia Devices Hijacked | Aj | [Read More](https://medium.com/p/3b635fb0768a) |
 | Tue, 01 Jul 2025 16:23:24 GMT | How Ethical Hackers Can Help You Catch a Cheating Spouse | Gary Zemrak | [Read More](https://medium.com/p/9f59fd272cbd) |
+| Tue, 01 Jul 2025 16:22:55 GMT | Dark Web Links: What They Are and Why You Should Be Cautious | SafeAeon Inc. | [Read More](https://medium.com/p/783474aa864a) |
 | Tue, 01 Jul 2025 16:20:29 GMT | The Secret Weapon for Independent Cybersecurity Professionals | Vijay Kumar Gupta | [Read More](https://medium.com/p/45c6fa127485) |
 | Tue, 01 Jul 2025 16:18:25 GMT | DenizHalil.com Cybersecurity Platform for Sale | Halildeniz | [Read More](https://medium.com/p/c8cba3cd5d44) |
 | Tue, 01 Jul 2025 16:16:53 GMT | Major Cybersecurity Incidents in the Last Five Years (2020–2025) | aaryan | [Read More](https://medium.com/p/5ec2491a1515) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 11:40:50 GMT | One More Reason to Rethink Your Identity Strategy | Manish | [Read More](https://medium.com/p/9e325f587a50) |
 | Tue, 01 Jul 2025 11:38:44 GMT | Microsoft Is Saying Goodbye to a Classic Entra Feature. What’s Next? | Srinivasps | [Read More](https://medium.com/p/2fbcf3c9cd64) |
 | Tue, 01 Jul 2025 11:31:00 GMT | Cybersquatting, Domain Disputes, and Intellectual Property in the Digital Age | legalla rs | [Read More](https://medium.com/p/3fe4795d9dd0) |
-| Tue, 01 Jul 2025 11:26:30 GMT | Try Hack Me — Industrial Intrusion CTF 2025 — Under Construction Write Up | Lunacysoft | [Read More](https://medium.com/p/bcce3e7b4911) |
-| Tue, 01 Jul 2025 11:19:41 GMT | SafePal x GoPlus Joint Report - Comprehensive On-Chain Phishing Analysis and User Anti-Fraud Guide | GoPlus Security | [Read More](https://medium.com/p/539091c21bad) |
-| Tue, 01 Jul 2025 11:19:16 GMT | How Internet had Learn to Whisper ?(TLS Simplified) | Mr Ayman Tech | [Read More](https://medium.com/p/0369b88d9466) |
-| Tue, 01 Jul 2025 11:17:34 GMT | TryHackMe Industrial Intrusion-Chess Industrion/Task-15 | Efe | [Read More](https://medium.com/p/30216cf520ad) |
-| Tue, 01 Jul 2025 11:13:34 GMT | From Viral API Key Leaks to AI-Driven Governance: How OneX Lense Can Change the Game | Shuja Ahmed | [Read More](https://medium.com/p/b867680d2f87) |
-| Tue, 01 Jul 2025 11:11:16 GMT | Code Red: AI in the Sky | Dr. Pam Palmater | [Read More](https://medium.com/p/c0c789af6e0c) |
-| Tue, 01 Jul 2025 11:07:53 GMT | What Is Cybersecurity Transformation? Best Practices For Success | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/a5e9200ae5d0) |
-| Tue, 01 Jul 2025 11:04:58 GMT | Why Real Cyber Defenders Think Like Hackers — And What Most Security Teams Still Get Wrong | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/aaf0b94c54c6) |
-| Tue, 01 Jul 2025 11:02:49 GMT | Hitmen for Hire on the Dark Web: Reality, Myths, and Scams | adityaax | [Read More](https://medium.com/p/ba256537cb92) |
-| Tue, 01 Jul 2025 10:58:53 GMT | Phishing Email Awareness Series: Part-2 | Leetsec Sarwar | [Read More](https://medium.com/p/f1dfa41d7007) |
-| Tue, 01 Jul 2025 10:58:31 GMT | Internal File Paths/files Leakage via Malformed Access Token on graph.meta.ai | Ramzy Bouyahya | [Read More](https://medium.com/p/3a167e7354b4) |
-| Tue, 01 Jul 2025 10:55:21 GMT | Best Practices For API Security Testing | Loadium | [Read More](https://medium.com/p/98fb77be73f8) |
-| Tue, 01 Jul 2025 10:53:40 GMT | Manual de Dynatrace | Ivan Marianoff | [Read More](https://medium.com/p/e44718c5b974) |
