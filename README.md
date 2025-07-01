@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 12:31:08 GMT | FUD | Tales From the ICS Abyss | [Read More](https://medium.com/p/595f53a67406) |
+| Tue, 01 Jul 2025 12:29:01 GMT | Docker vs. Containerd: Cracking a Security Myth | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/e869bd44f95c) |
+| Tue, 01 Jul 2025 12:17:43 GMT | Epistemic Collapse in the Age of AI-Generated Hyperreality | Lauri Korpela | [Read More](https://medium.com/p/79fc179497df) |
+| Tue, 01 Jul 2025 12:14:40 GMT | Dangerous Places to Avoid in Izmir | Murathan Yılmaz | [Read More](https://medium.com/p/130d095b085a) |
+| Tue, 01 Jul 2025 12:08:24 GMT | Google Fixes Fourth Actively Exploited Chrome Zero-Day of 2025: What You Need to Know | Jasmitharouthu | [Read More](https://medium.com/p/cb8edadb1dd5) |
+| Tue, 01 Jul 2025 12:06:15 GMT | Password Safety Made Simple — Why Passwords Matter | SilverTech Support | [Read More](https://medium.com/p/87baee1a6134) |
+| Tue, 01 Jul 2025 12:01:05 GMT | Recon Basics for Beginners: A Simple Guide | Satyam Pathania | [Read More](https://medium.com/p/e76885cdd333) |
+| Tue, 01 Jul 2025 12:00:34 GMT | Hacking a Birthday Campaign on a Food Delivery App — Bug Bounty: $1.000+ | Erkan Kavas | [Read More](https://medium.com/p/22926fee1c31) |
+| Tue, 01 Jul 2025 11:59:11 GMT | TryHackMe Industrial Intrusion-Under Construction/Task-16 | Efe | [Read More](https://medium.com/p/9da9dc71a23e) |
+| Tue, 01 Jul 2025 11:58:20 GMT | PhishHound v1.1: Phishing Analysis Made Explainable | Yug Shah | [Read More](https://medium.com/p/e4fab809051c) |
+| Tue, 01 Jul 2025 11:56:10 GMT | Implementing Azure AD Authentication in Angular and .NET Core API | Kevin Patrick Boylan - .NET Software Engineer | [Read More](https://medium.com/p/1da94b647546) |
+| Tue, 01 Jul 2025 11:52:20 GMT | # ‍♂️ The Secret AWS Charge That Shows Up After 6 Months (and Eats Your Budget Alive) | Dev engineer | [Read More](https://medium.com/p/bf964d480745) |
+| Tue, 01 Jul 2025 11:51:52 GMT | Best Free AI & Social Media API Keys for Your Next Project | codinstuff | [Read More](https://medium.com/p/2d8d7e432248) |
+| Tue, 01 Jul 2025 11:50:42 GMT | I Built an AI App That Tells You How Healthy Your Food Is – Just from a Photo | Abiodun Dekunle | [Read More](https://medium.com/p/4ee5d6d22032) |
+| Tue, 01 Jul 2025 11:50:30 GMT | AI-Powered Malware: A Growing Cybersecurity Threat | Ekene Joseph | [Read More](https://medium.com/p/c1c2984d4cd5) |
+| Tue, 01 Jul 2025 11:41:40 GMT | TryHackMe - Industrial Intrusion CTF Simple Protocol(Task 26) Writeup | Mert Kurthasan | [Read More](https://medium.com/p/cd16bc721940) |
+| Tue, 01 Jul 2025 11:40:50 GMT | One More Reason to Rethink Your Identity Strategy | Manish | [Read More](https://medium.com/p/9e325f587a50) |
+| Tue, 01 Jul 2025 11:38:44 GMT | Microsoft Is Saying Goodbye to a Classic Entra Feature. What’s Next? | Srinivasps | [Read More](https://medium.com/p/2fbcf3c9cd64) |
+| Tue, 01 Jul 2025 11:31:00 GMT | Cybersquatting, Domain Disputes, and Intellectual Property in the Digital Age | legalla rs | [Read More](https://medium.com/p/3fe4795d9dd0) |
 | Tue, 01 Jul 2025 11:26:30 GMT | Try Hack Me — Industrial Intrusion CTF 2025 — Under Construction Write Up | Lunacysoft | [Read More](https://medium.com/p/bcce3e7b4911) |
 | Tue, 01 Jul 2025 11:19:41 GMT | SafePal x GoPlus Joint Report - Comprehensive On-Chain Phishing Analysis and User Anti-Fraud Guide | GoPlus Security | [Read More](https://medium.com/p/539091c21bad) |
 | Tue, 01 Jul 2025 11:19:16 GMT | How Internet had Learn to Whisper ?(TLS Simplified) | Mr Ayman Tech | [Read More](https://medium.com/p/0369b88d9466) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 07:44:06 GMT | Desync or Die Trying: Smuggling My Way into Internal APIs | Iski | [Read More](https://medium.com/p/e59e1bf6f01d) |
 | Tue, 01 Jul 2025 07:38:23 GMT | Surat Woman Arrested in ₹2.9 Crore Digital Arrest Scam Linked to Cambodia . | Nitin Saraswat | [Read More](https://medium.com/p/a232409ee849) |
 | Tue, 01 Jul 2025 07:35:48 GMT | Healthcare Vulnerabilities: Top 10 Low-Hanging Fruit Hackers Exploit With Ease | Travis Ray Caverhill | [Read More](https://medium.com/p/5f753cf61c53) |
-| Tue, 01 Jul 2025 07:33:26 GMT | My First Dive into Wireshark as a Cybersecurity Enthusiasty | Darshan | [Read More](https://medium.com/p/fdef0b076bcd) |
-| Tue, 01 Jul 2025 07:28:19 GMT | Today’s Top Cyber Intelligence Highlights — Jul 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/75b59847736c) |
-| Tue, 01 Jul 2025 07:27:48 GMT | Qatar Focuses On Turnstile Security to Prevent Unauthorized Access | Tekhabeeb | [Read More](https://medium.com/p/729b98fcbb61) |
-| Tue, 01 Jul 2025 07:26:46 GMT | The Subtle Art of Not Getting Phished — A Beginner’s Guide to Email Forensics | Aniruddha Ramane | [Read More](https://medium.com/p/5ee64d0be8dc) |
-| Tue, 01 Jul 2025 07:26:40 GMT | How does attack surface & risk management help? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/9a2847d9cde6) |
-| Tue, 01 Jul 2025 07:24:32 GMT | Why Employee Background Checks Are No Longer Optional in 2025 | Mariiatata | [Read More](https://medium.com/p/400fdf216226) |
-| Tue, 01 Jul 2025 07:20:12 GMT | SafeLine WAF: How Config Sync Enables Active-Active Architecture | AerieWhole123 | [Read More](https://medium.com/p/7fa88817700d) |
-| Tue, 01 Jul 2025 07:17:45 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/87a0c09f41ba) |
-| Tue, 01 Jul 2025 07:14:01 GMT | Card Armor Reviews United States (Consumer Reports) Must Read Before Buying! | Victorynwokike | [Read More](https://medium.com/p/579569fc6b3c) |
-| Tue, 01 Jul 2025 07:13:49 GMT | Breaking the Query: Unmasking SQL Injection Attacks in Ethical Hacking | Leroyanand | [Read More](https://medium.com/p/0b509f8adeba) |
-| Tue, 01 Jul 2025 07:07:09 GMT | Try Hack Me — Industrial Intrusion CTF 2025— Rogue Poller Write Up | Lunacysoft | [Read More](https://medium.com/p/913f9e054cc6) |
-| Tue, 01 Jul 2025 07:04:18 GMT | ️‍♂️ How Indian Police Track Criminals Using Smart Devices | Aditya sunny | [Read More](https://medium.com/p/16d7a634c34a) |
-| Tue, 01 Jul 2025 06:59:44 GMT | The Most Dangerous Thing in Cybersecurity? An Overconfident AI Dashboard. | Webpuppies | [Read More](https://medium.com/p/024fa5f6e0e7) |
-| Tue, 01 Jul 2025 06:57:39 GMT | TryHackMe Ödevi — Oda Çözümleri | Bedirhan Yigit | [Read More](https://medium.com/p/a64b77ba687f) |
-| Tue, 01 Jul 2025 06:56:34 GMT | List Of Furniture stores in United States | shobha. rentechdigital | [Read More](https://medium.com/p/79518db38acf) |
-| Tue, 01 Jul 2025 06:47:42 GMT | How to change Oracle Database password policies | Ductran | [Read More](https://medium.com/p/a946a9c08221) |
-| Tue, 01 Jul 2025 06:44:27 GMT | Authentication Bypass via Email Domain Suffix Manipulation | Bishal Shrestha | [Read More](https://medium.com/p/c866501c7b4b) |
-| Tue, 01 Jul 2025 06:37:36 GMT | Why Me?? | Serafhel Jade | [Read More](https://medium.com/p/4af851655816) |
-| Tue, 01 Jul 2025 06:37:01 GMT | How to Use Google Dorks in PT or Bug Hunting Activities Professionally & Simply? | Faisal Alshaghdali | [Read More](https://medium.com/p/a61b88ff7601) |
