@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 19:05:10 GMT | Behind the Mask: How Tor’s Anonymity Breaks Down | P3rryTHEplatipu55 | [Read More](https://medium.com/p/1c154762b919) |
+| Tue, 01 Jul 2025 19:04:19 GMT | Navigating the Cybersecurity Labyrinth: From Vendors to a Sustainable Career Path | Yaroslav | [Read More](https://medium.com/p/d7857dae87c5) |
+| Tue, 01 Jul 2025 19:00:55 GMT | The AI’s Existential Crisis: An Unexpected Journey with Cursor and Gemini 2.5 Pro | Brian Soby | [Read More](https://medium.com/p/7dd811ba7e5e) |
+| Tue, 01 Jul 2025 18:59:44 GMT | TryHackMe - HTTP Browser Desync - WriteUp | Axoloth | [Read More](https://medium.com/p/38a3c137378c) |
+| Tue, 01 Jul 2025 18:57:30 GMT | My OSCP Journey: A Year of Growth, Resilience, and “Try Harder” | Vaibhavi Shirurkar | [Read More](https://medium.com/p/2729d8c4c09f) |
+| Tue, 01 Jul 2025 18:52:06 GMT | Crypto Thefts Cross $2.5 Billion in Just Six Months | Ezekiel Nigo | [Read More](https://medium.com/p/0709a94e8de9) |
 | Tue, 01 Jul 2025 18:49:13 GMT | Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/1182636656bf) |
 | Tue, 01 Jul 2025 18:46:36 GMT | Building a Cybersecurity ETL Pipeline with FastAPI, PySpark & MongoDB | Shrugaltayal | [Read More](https://medium.com/p/023634c0864f) |
 | Tue, 01 Jul 2025 18:43:22 GMT | The problem with Bitcoin “secret words” | Abhijit Saha | [Read More](https://medium.com/p/f2b12c23ebe4) |
@@ -77,6 +83,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 15:15:59 GMT | Streamlining Wazuh SSO with Keycloak: A Hands-On OIDC Integration Guide | Yash Patel | [Read More](https://medium.com/p/c952f5419a5a) |
 | Tue, 01 Jul 2025 15:15:16 GMT | Introducing Guided Coin-Flip Seed Generation in SeedSigner | Nitish Itankar | [Read More](https://medium.com/p/04aa93c6d1ff) |
 | Tue, 01 Jul 2025 15:14:38 GMT | €100 in Seconds: Lots of Bug Hunters miss this bug, But you don’t | TSxNINJA | [Read More](https://medium.com/p/5e6371f4cb3e) |
+| Tue, 01 Jul 2025 15:13:52 GMT | I Wasn’t Enough —  And still, I loved Him Softly. | Soul Writer | [Read More](https://medium.com/p/9fead43f062d) |
 | Tue, 01 Jul 2025 15:11:56 GMT | Useful Tools and Utilities to Supercharge Your Online Activity | Rajput Parimal | [Read More](https://medium.com/p/a925aef5925c) |
 | Tue, 01 Jul 2025 15:11:02 GMT | How I Tracked Down a Stalker Using OSINT | Guilherme Leite | [Read More](https://medium.com/p/6af3a89a958d) |
 | Tue, 01 Jul 2025 15:02:57 GMT | From Failure to Success: 10 App Security Mistakes I Fixed in 3 Rebuilds | Gulshan N | [Read More](https://medium.com/p/26170d9f759c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 13:56:51 GMT | Encrypted Traffic Analysis: Detecting Anomalies in Encrypted Network Traffic | Esra Kayhan | [Read More](https://medium.com/p/46093e8ab90f) |
 | Tue, 01 Jul 2025 13:52:44 GMT | Vulnerability 101: TryHackMe Writeup | Bridget | [Read More](https://medium.com/p/1d97b8f8547d) |
 | Tue, 01 Jul 2025 13:49:53 GMT | CSRF Attacks Explained: How Hackers Trick Your Browser into Betraying You | err0rgod | [Read More](https://medium.com/p/2b786e648acc) |
-| Tue, 01 Jul 2025 13:38:05 GMT | Q‑Submission Strategy 2025 | Daniel James | [Read More](https://medium.com/p/69fd85a8dad7) |
-| Tue, 01 Jul 2025 13:35:18 GMT | 10 Days of MCP Security — Day 2 Why MCP Security ≠ API Security | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/03e7039d3cbb) |
-| Tue, 01 Jul 2025 13:30:09 GMT | How Lust Led to Treason | Arif Istiaque Hossain | [Read More](https://medium.com/p/f232695b2e91) |
-| Tue, 01 Jul 2025 13:28:59 GMT | AI-Driven Voice Deepfake Defense: Integrating Detection and Watermarking into Healthcare SIEM and… | Wes Young | [Read More](https://medium.com/p/6782587523d9) |
-| Tue, 01 Jul 2025 13:24:19 GMT | Building a Cowrie Honeypot: SSH Setup, Logging, and Attack Replay | Ahmedmustafa Inbox | [Read More](https://medium.com/p/dd6e0094740a) |
-| Tue, 01 Jul 2025 13:19:30 GMT | A Trailblazer in AI Cybersecurity — Where Is Darktrace Now? | Zoe, Lim Yi Qing | [Read More](https://medium.com/p/8422cc64ba02) |
-| Tue, 01 Jul 2025 13:18:55 GMT | Secrets Auto-Rotation in Kubernetes with AWS Secrets Manager and Reloader | Hemanth M Gowda | [Read More](https://medium.com/p/e8dcaef03fb0) |
