@@ -12,10 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 20:18:07 GMT | Making a RS485 themed challenge: Serial Gate (Flipper Zero Modbus RTU shield compatible). | biero llagas | [Read More](https://medium.com/p/925dee9dcee1) |
+| Tue, 01 Jul 2025 20:12:18 GMT | Loglamada Gözden Kaçan Risk: Registry İzlemenin Önemi | Just Moi | [Read More](https://medium.com/p/920ad8fca30a) |
+| Tue, 01 Jul 2025 20:05:47 GMT | Indians Building Bridges, Not Just Careers: The Onstralytics Journey from India to Germany | Ankit Biswas | [Read More](https://medium.com/p/8856f54f7fa3) |
+| Tue, 01 Jul 2025 20:04:44 GMT | Janela RAT and a stealer extension delivered together | Jason Reaves | [Read More](https://medium.com/p/e274469a7df8) |
+| Tue, 01 Jul 2025 19:57:47 GMT | Mid-year check in: What I’ve done so far, and my goals for the rest of 2025. | R-Squared Cyber | [Read More](https://medium.com/p/c46bc8669372) |
+| Tue, 01 Jul 2025 19:46:03 GMT | Your Watch is Watching You. But Who’s Watching Your Watch? | Pavel Akhrameev | [Read More](https://medium.com/p/0022ae739523) |
+| Tue, 01 Jul 2025 19:40:08 GMT | They Sound Like Kids, But They’re Not: The Truth About Voice Chat Predators | Berenice Houston | [Read More](https://medium.com/p/3cd5d44a9829) |
 | Tue, 01 Jul 2025 19:34:11 GMT | OTPs Gone Wild: When “One-Time” Means… Multiple Times? | ValidByAccident | [Read More](https://medium.com/p/9ae883b0cf18) |
 | Tue, 01 Jul 2025 19:32:46 GMT | Best Private & Encrypted Email Services in 2025: Stop Using Gmail Now. | SaadeAala RS | [Read More](https://medium.com/p/c81fc516dc7c) |
 | Tue, 01 Jul 2025 19:24:01 GMT | RISING GIANT: THE AWAKENING OF MAZIEN ARCHIE | Mazien Eseh Oluwadamilola Alabi | [Read More](https://medium.com/p/2879b819fa0f) |
 | Tue, 01 Jul 2025 19:23:57 GMT | /acc is a True North Strong and Free. | Scott Howard | [Read More](https://medium.com/p/7aef4ae9746a) |
+| Tue, 01 Jul 2025 19:23:56 GMT | AppSec 101: What Every Developer Should Know (but No One Teaches) | Ayush Bulbule | [Read More](https://medium.com/p/63e60b05727d) |
 | Tue, 01 Jul 2025 19:23:36 GMT | Industrial Intrusion - THM | Chopp_Sueyy | [Read More](https://medium.com/p/1b547b4b0112) |
 | Tue, 01 Jul 2025 19:20:34 GMT | How I Built a Home-Based Cybersecurity Attack & Defense Lab-From Zero to Root: A DIY Cybersecurity… | KHANDOKER FAISAL | [Read More](https://medium.com/p/404882db1bc2) |
 | Tue, 01 Jul 2025 19:16:51 GMT | Linux Privilege Escalation Techniques | musayyab sharif | [Read More](https://medium.com/p/e9a7b3704db6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 14:57:19 GMT | RabbitMQ Security: Complete Guide for Enterprise Message Broker Systems | Okan Yıldız | [Read More](https://medium.com/p/cea5318be941) |
 | Tue, 01 Jul 2025 14:47:28 GMT | When the Grind Drains You: The Dark Side of Bug Bounty | Medusa | [Read More](https://medium.com/p/325ce9c3692b) |
 | Tue, 01 Jul 2025 14:44:10 GMT | TEMEL NETWORK | Berat K. | [Read More](https://medium.com/p/44853d378f42) |
-| Tue, 01 Jul 2025 14:33:23 GMT | Tips To Avoid Hacker Intrusions | New Life Technology Group | [Read More](https://medium.com/p/3b9189ef5acf) |
-| Tue, 01 Jul 2025 14:32:59 GMT | Malware Analysis | Ibrahim Isiaq Bolaji | [Read More](https://medium.com/p/5693b04c7b51) |
-| Tue, 01 Jul 2025 14:21:02 GMT | But can you actually hack someone’s Instagram? | Apurva Anand | [Read More](https://medium.com/p/92e9fd2ab839) |
-| Tue, 01 Jul 2025 14:19:07 GMT | Linux Firewall With Iptables: A Complete Guide | pratham verma | [Read More](https://medium.com/p/bb4cc63e50e0) |
-| Tue, 01 Jul 2025 14:18:55 GMT | The Python Code That Cracked 1 Million Passwords (For Research) | The Code Studio | [Read More](https://medium.com/p/7c29c77e3f4f) |
-| Tue, 01 Jul 2025 14:16:51 GMT | The Ultimate Offensive Security Playbook: Real‑World Red Team, Pentesters & CTF Tactics | Pratham Shah | [Read More](https://medium.com/p/f054f9082ee2) |
-| Tue, 01 Jul 2025 14:16:06 GMT | # Why Our ‘Cost-Optimized’ Graviton Migration Backfired (And When to Avoid ARM) | Dev engineer | [Read More](https://medium.com/p/22e0f5e8c76c) |
-| Tue, 01 Jul 2025 14:12:52 GMT | Azure Virtual Machine Security: Best Practices (and Why They Matter) | Scott Martin | [Read More](https://medium.com/p/8b533dd00252) |
