@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 11:11:16 GMT | Code Red: AI in the Sky | Dr. Pam Palmater | [Read More](https://medium.com/p/c0c789af6e0c) |
+| Tue, 01 Jul 2025 11:07:53 GMT | What Is Cybersecurity Transformation? Best Practices For Success | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/a5e9200ae5d0) |
+| Tue, 01 Jul 2025 11:04:58 GMT | Why Real Cyber Defenders Think Like Hackers — And What Most Security Teams Still Get Wrong | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/aaf0b94c54c6) |
+| Tue, 01 Jul 2025 11:02:49 GMT | Hitmen for Hire on the Dark Web: Reality, Myths, and Scams | adityaax | [Read More](https://medium.com/p/ba256537cb92) |
+| Tue, 01 Jul 2025 10:58:53 GMT | Phishing Email Awareness Series: Part-2 | Leetsec Sarwar | [Read More](https://medium.com/p/f1dfa41d7007) |
+| Tue, 01 Jul 2025 10:58:31 GMT | Internal File Paths/files Leakage via Malformed Access Token on graph.meta.ai | Ramzy Bouyahya | [Read More](https://medium.com/p/3a167e7354b4) |
+| Tue, 01 Jul 2025 10:55:21 GMT | Best Practices For API Security Testing | Loadium | [Read More](https://medium.com/p/98fb77be73f8) |
+| Tue, 01 Jul 2025 10:53:40 GMT | Manual de Dynatrace | Ivan Marianoff | [Read More](https://medium.com/p/e44718c5b974) |
+| Tue, 01 Jul 2025 10:47:03 GMT | Custom Security Solutions: How Security Guard Providers in Delhi Tailor Services for Business | Pinki Chauhan | [Read More](https://medium.com/p/1c060300bb3f) |
+| Tue, 01 Jul 2025 10:45:46 GMT | Everything You Need to Know About ELF-Based Malware: The Invisible Threat to Linux Systems | Piyush | [Read More](https://medium.com/p/a434ecad54e3) |
 | Tue, 01 Jul 2025 10:43:14 GMT | Mobile App Testing: The Ultimate Guide to Delivering Bug-Free Applications | QAnix Software Quality Assurance | [Read More](https://medium.com/p/b3fc56091219) |
 | Tue, 01 Jul 2025 10:42:48 GMT | Mastering Cloud Security in 2025: Why the Certified Cloud Security Engineer (CCSE) Certification… | Shreyashettyctr | [Read More](https://medium.com/p/6536dff70bb5) |
 | Tue, 01 Jul 2025 10:33:38 GMT | ❄️ Lambda Cold Starts Aren’t Your Problem Anymore — Here’s What Actually Is | Dev engineer | [Read More](https://medium.com/p/d29a69a9cfd1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 06:30:55 GMT | This ‘Online Lover’ Asked For Money I Tracked His Script Word For Word. | The Anti-Scam Diaries | [Read More](https://medium.com/p/0028701d7cab) |
 | Tue, 01 Jul 2025 06:29:43 GMT | Best Security Guard Companies in Pune 2025 | United Guard Force India | [Read More](https://medium.com/p/ea4109892655) |
 | Tue, 01 Jul 2025 06:20:30 GMT | SIEM Lab: Wazuh Intro and Installation | Stevanus Banu | [Read More](https://medium.com/p/82ae6b983b2b) |
-| Tue, 01 Jul 2025 06:20:23 GMT | The 20 Faces of Deception: How Social Engineering Manipulates, Exploits, and Destroys | Travis Ray Caverhill | [Read More](https://medium.com/p/a3ad2f992114) |
-| Tue, 01 Jul 2025 06:14:49 GMT | Command Injection Attack in Symfony: How to Detect and Prevent It | Pentest_Testing_Corp | [Read More](https://medium.com/p/939e459039ce) |
-| Tue, 01 Jul 2025 06:12:50 GMT | Auth Wars: Session vs JWT vs OAuth2 — The Ultimate 2025 Showdown | Martin Pál | [Read More](https://medium.com/p/f5b08b1e9e50) |
-| Tue, 01 Jul 2025 06:11:58 GMT | Broken Access Control part-8 : User ID controlled by request parameter with password disclosure | Ahmad Sopyan | [Read More](https://medium.com/p/127619003fff) |
-| Tue, 01 Jul 2025 06:10:40 GMT | Beyond Development: How AppCurators Technologies Builds Digital Solutions That Scale | Appcurators | [Read More](https://medium.com/p/0f1f17a361cf) |
-| Tue, 01 Jul 2025 06:10:35 GMT | Why Every Cybersecurity Solopreneur Should Learn Vibe Coding | Taimur Ijlal | [Read More](https://medium.com/p/a03df102959b) |
-| Tue, 01 Jul 2025 06:09:53 GMT | FBI: Airlines Now in Scattered Spider’s Crosshairs | Aj | [Read More](https://medium.com/p/533b41f21981) |
-| Tue, 01 Jul 2025 06:09:37 GMT | Broken Access Control part-7 : User ID controlled by request parameter with data leakage in… | Ahmad Sopyan | [Read More](https://medium.com/p/f765b221e03a) |
-| Tue, 01 Jul 2025 06:07:14 GMT | Broken Access Control part-6 : User ID controlled by request parameter, with unpredictable user IDs | Ahmad Sopyan | [Read More](https://medium.com/p/ee11831c3c1b) |
-| Tue, 01 Jul 2025 06:03:00 GMT | Storing and Searching User-Specific Sensitive Data Securely in Your Database | Akif Kadioglu | [Read More](https://medium.com/p/fa544aa014f3) |
