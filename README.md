@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 23:22:51 GMT | Hack The System — Bug Bounty CTF: Sattrack | Mazen M. AL-Emad | [Read More](https://medium.com/p/62e141366aff) |
+| Tue, 01 Jul 2025 23:13:33 GMT | SUSE 15 PAM to Full Root via libblockdev/udisks | ASAcrew Blog | [Read More](https://medium.com/p/c71585b27424) |
 | Tue, 01 Jul 2025 22:46:37 GMT | A Deep Dive into a Real-World Recon Workflow | Glenn Rodney | [Read More](https://medium.com/p/d23e7426844f) |
 | Tue, 01 Jul 2025 22:31:38 GMT | Hack The System — SpeedNet | محمد بن إبراهيم | [Read More](https://medium.com/p/6ff20a6c06a2) |
 | Tue, 01 Jul 2025 22:24:47 GMT | Setting Up a Home Lab for Red teaming & Pen Testing (Reality) | Maharram Maharramov | [Read More](https://medium.com/p/e7300a8d8cd3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 16:31:24 GMT | China’s Covert Spy Network: 1,000+ US/Asia Devices Hijacked | Aj | [Read More](https://medium.com/p/3b635fb0768a) |
 | Tue, 01 Jul 2025 16:23:24 GMT | How Ethical Hackers Can Help You Catch a Cheating Spouse | Gary Zemrak | [Read More](https://medium.com/p/9f59fd272cbd) |
 | Tue, 01 Jul 2025 16:22:55 GMT | Dark Web Links: What They Are and Why You Should Be Cautious | SafeAeon Inc. | [Read More](https://medium.com/p/783474aa864a) |
-| Tue, 01 Jul 2025 16:20:29 GMT | The Secret Weapon for Independent Cybersecurity Professionals | Vijay Kumar Gupta | [Read More](https://medium.com/p/45c6fa127485) |
-| Tue, 01 Jul 2025 16:18:25 GMT | DenizHalil.com Cybersecurity Platform for Sale | Halildeniz | [Read More](https://medium.com/p/c8cba3cd5d44) |
