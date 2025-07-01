@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 18:27:51 GMT | The Ethical Hacking Sentinel (July 1) | Franklin Rhodes | [Read More](https://medium.com/p/4e081a59d219) |
+| Tue, 01 Jul 2025 18:18:08 GMT | Why Breach and Attack Simulation is Becoming a Must-Have for Modern Enterprises | DefenceRabbit | [Read More](https://medium.com/p/033336b2f240) |
+| Tue, 01 Jul 2025 18:10:56 GMT | Suzanne Alipourian-Frascogna: Bridging Cybersecurity and Product Management in the Digital Era | Suzanne Alipourian-Frascogna | [Read More](https://medium.com/p/1b8b38d625d2) |
+| Tue, 01 Jul 2025 18:07:46 GMT | Extorsiones Telefónicas - Identificación y Prevención | SoyDrok3r | [Read More](https://medium.com/p/4fb183330111) |
+| Tue, 01 Jul 2025 18:07:20 GMT | Let’s analyze Soc 140 malicious email campaign on letsdefend.com | Satvinder Sihra | [Read More](https://medium.com/p/b6c1f3070041) |
+| Tue, 01 Jul 2025 18:01:24 GMT | The Data Protection Triad: A Comprehensive Analysis of Anonymization, Cryptography, and… | 0m3g4_k1ng | [Read More](https://medium.com/p/1edad62b4559) |
+| Tue, 01 Jul 2025 17:58:20 GMT | Ransomware Detection: How to Spot Attacks Before It’s Too Late | SafeAeon Inc. | [Read More](https://medium.com/p/4ebc5c5e6d1f) |
+| Tue, 01 Jul 2025 17:55:28 GMT | Easy, Fast & Secure: The New Onboarding Experience on Teep Mobile | Chika Ibegbu | [Read More](https://medium.com/p/90756e40dfb5) |
+| Tue, 01 Jul 2025 17:49:09 GMT | Enterprise Cybersecurity Threats: What Every Business Must Watch For | SafeAeon Inc. | [Read More](https://medium.com/p/f3bc528cd7fd) |
+| Tue, 01 Jul 2025 17:48:19 GMT | WARNING: The “Fake CAPTCHA” Scam That Almost Got My Friend — A Real Story About One of Today’s… | Colin | [Read More](https://medium.com/p/80a8715f7a3d) |
+| Tue, 01 Jul 2025 17:46:01 GMT | Password Reuse Is Your Biggest Digital Risk — Here’s What to Do Instead | Rutuja Bendre | [Read More](https://medium.com/p/b92b4bb89400) |
+| Tue, 01 Jul 2025 17:38:32 GMT | Desert Recruiting: The UAE’s Play for America’s Discarded AI Elite | Pavan | [Read More](https://medium.com/p/0db116ac584c) |
 | Tue, 01 Jul 2025 17:29:42 GMT | The Ransomware Evolution: From Floppies to Decentralized Extortion Empires | Shadow Packet | [Read More](https://medium.com/p/775945c68d52) |
 | Tue, 01 Jul 2025 17:27:43 GMT | AeroLab v1.0: Building a Personal Cybersecurity Homelab | Aeronique | [Read More](https://medium.com/p/5db3a7d8f1b8) |
 | Tue, 01 Jul 2025 17:23:27 GMT | Top 8 Benefits of Cyber Security Awareness Training Program for Small Businesses (2025) | CyberSapiens | [Read More](https://medium.com/p/135271e091ca) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 13:02:31 GMT | What’s up with pastebin and G2A? (Part 1) | unnamedCIAagent | [Read More](https://medium.com/p/82d2ca0d7f0d) |
 | Tue, 01 Jul 2025 12:44:59 GMT | Architectural Considerations for SaaS Application — PART (4/12): API & Interface | Dhyan Sagar | [Read More](https://medium.com/p/ce2c65a61442) |
 | Tue, 01 Jul 2025 12:44:35 GMT | Architectural Considerations for SaaS Application — PART (5/12): CI/CD & Infrastructure | Dhyan Sagar | [Read More](https://medium.com/p/5220523d0904) |
-| Tue, 01 Jul 2025 12:44:11 GMT | Architectural Considerations for SaaS Application — PART (6/12): Logic & Business Rule | Dhyan Sagar | [Read More](https://medium.com/p/79efe826d0b5) |
-| Tue, 01 Jul 2025 12:42:17 GMT | The Vulnerability Lifecycle: From Discovery to Patch (and Beyond) | Sammcmullen | [Read More](https://medium.com/p/094cf76b47ec) |
-| Tue, 01 Jul 2025 12:40:49 GMT | AI/ML Medical Devices 2025 | Daniel James | [Read More](https://medium.com/p/c0b272337917) |
-| Tue, 01 Jul 2025 12:37:52 GMT | Azure Storage Security: Best Practices (and Why They Matter) | Scott Martin | [Read More](https://medium.com/p/d81cd4e3da3f) |
-| Tue, 01 Jul 2025 12:31:08 GMT | FUD | Tales From the ICS Abyss | [Read More](https://medium.com/p/595f53a67406) |
-| Tue, 01 Jul 2025 12:29:01 GMT | Docker vs. Containerd: Cracking a Security Myth | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/e869bd44f95c) |
-| Tue, 01 Jul 2025 12:17:43 GMT | Epistemic Collapse in the Age of AI-Generated Hyperreality | Lauri Korpela | [Read More](https://medium.com/p/79fc179497df) |
-| Tue, 01 Jul 2025 12:14:40 GMT | Dangerous Places to Avoid in Izmir | Murathan Yılmaz | [Read More](https://medium.com/p/130d095b085a) |
-| Tue, 01 Jul 2025 12:08:24 GMT | Google Fixes Fourth Actively Exploited Chrome Zero-Day of 2025: What You Need to Know | Jasmitharouthu | [Read More](https://medium.com/p/cb8edadb1dd5) |
-| Tue, 01 Jul 2025 12:06:15 GMT | Password Safety Made Simple — Why Passwords Matter | SilverTech Support | [Read More](https://medium.com/p/87baee1a6134) |
-| Tue, 01 Jul 2025 12:01:05 GMT | Recon Basics for Beginners: A Simple Guide | Satyam Pathania | [Read More](https://medium.com/p/e76885cdd333) |
-| Tue, 01 Jul 2025 12:00:34 GMT | Hacking a Birthday Campaign on a Food Delivery App — Bug Bounty: $1.000+ | Erkan Kavas | [Read More](https://medium.com/p/22926fee1c31) |
