@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 05:41:16 GMT | Top 10 Ways to Achieve Remote Code Execution (RCE) on Web Applications | Facundo Fernandez | [Read More](https://medium.com/p/d923246b916b) |
+| Tue, 01 Jul 2025 05:41:01 GMT | ️ Day in the Life of a SOC Analyst in Training — Entry #1 | Manish Rawat | [Read More](https://medium.com/p/643a8a94b077) |
+| Tue, 01 Jul 2025 05:35:20 GMT | “Mr. Robot CTF: WordPress Exploitation to Root Privilege Escalation” | sivaaditya | [Read More](https://medium.com/p/efed6cc402e7) |
+| Tue, 01 Jul 2025 05:33:37 GMT | How to Prevent Your Social Media from Being Hacked? | UpThoughts | [Read More](https://medium.com/p/1c99e42ffe0f) |
+| Tue, 01 Jul 2025 05:32:45 GMT | Why Most ATT&CK Mappings Are Lazy | NK Cyber | [Read More](https://medium.com/p/08d8993dbafc) |
+| Tue, 01 Jul 2025 05:29:59 GMT | Real-World Guide: Automatically Clean up Unused IAM Users | Yogesh Gupta | [Read More](https://medium.com/p/33302ab3ebc0) |
+| Tue, 01 Jul 2025 05:29:38 GMT | Zoomex partners with HackenProof to launch a new Vulnerability Bounty Program! | Zoomex Official | [Read More](https://medium.com/p/a6725b3cfa8a) |
+| Tue, 01 Jul 2025 05:29:26 GMT | Should You Use Incognito Mode? Here’s What It Actually Does! | Theriyathathai Therinjikonga | [Read More](https://medium.com/p/a98127473605) |
+| Tue, 01 Jul 2025 05:27:54 GMT | The Role of Cybersecurity in the Modern Digital Age | Owuorsteaven | [Read More](https://medium.com/p/2eb19278b56c) |
+| Tue, 01 Jul 2025 05:27:39 GMT | IT Careers of the Future: 5 High-Growth Roles You Can Prepare for Today | Symbiosis Distance Learning (SCDL) | [Read More](https://medium.com/p/64cacab42092) |
+| Tue, 01 Jul 2025 05:21:27 GMT | XSS Attacks: Types, Exploits & Fixes | Jubaercoding | [Read More](https://medium.com/p/1fd768e9c203) |
 | Tue, 01 Jul 2025 05:12:37 GMT | About me- My Journey as a writer and Tech Enthusiast | Owuorsteaven | [Read More](https://medium.com/p/ffa220da802b) |
 | Tue, 01 Jul 2025 05:11:58 GMT | OWASP Gen AI Security for LLM Application | Dhiraj Patra | [Read More](https://medium.com/p/7795887a13a5) |
 | Tue, 01 Jul 2025 05:02:29 GMT | DevSecOps Automation: Building Security into CI/CD Without Breaking Developer Velocity | Andrei Ivan | [Read More](https://medium.com/p/45b40542e7ad) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 20:23:51 GMT | Medusa Ransomware: The Cyber Snake That Stares You Down Before Striking | Akshay Chauhan | [Read More](https://medium.com/p/e6b6b4a51b0c) |
 | Mon, 30 Jun 2025 20:22:06 GMT | The Man Who Didn’t Exist, Until He Stole Everything | O. J. Okpabi | [Read More](https://medium.com/p/9eed48457191) |
 | Mon, 30 Jun 2025 20:19:00 GMT | The Gamer Who Busted A Cybercrime Ring Using Only His PlayStation | O. J. Okpabi | [Read More](https://medium.com/p/26eb5612aeb8) |
-| Mon, 30 Jun 2025 20:16:51 GMT | "Hello Ma’am, I’m Calling from Microsoft”: A Story Of A Click That Nearly Cost Everything | O. J. Okpabi | [Read More](https://medium.com/p/4f426c9738f8) |
-| Mon, 30 Jun 2025 20:15:11 GMT | OSCP Prep: HTB-Knife | Dino | [Read More](https://medium.com/p/22851225b76d) |
-| Mon, 30 Jun 2025 20:13:05 GMT | Way Witch (Very Easy) Web CTF — Hack the Box | Pr0tag0nist | [Read More](https://medium.com/p/85f0a538dfdd) |
-| Mon, 30 Jun 2025 20:12:15 GMT | The Analyst Who Listened In the Dark | O. J. Okpabi | [Read More](https://medium.com/p/92e1d4721617) |
-| Mon, 30 Jun 2025 20:11:06 GMT | Exploring LeakRadar.io Domain Search | Alexandre Vandamme | [Read More](https://medium.com/p/38a3dfe74f87) |
-| Mon, 30 Jun 2025 20:08:32 GMT | Everyone’s Everything, No One’s Anything | Arishatyagi | [Read More](https://medium.com/p/abcdb435a7b0) |
-| Mon, 30 Jun 2025 20:05:09 GMT | Why Every Small Business Needs a Basic Cybersecurity Strategy | Rishika Agarwal | [Read More](https://medium.com/p/6ad768762506) |
-| Mon, 30 Jun 2025 20:01:23 GMT | "Your Phone Number Is a Security Risk — Here’s How Hackers Exploit It" | Anshika Prajapati | [Read More](https://medium.com/p/c6651bd97787) |
-| Mon, 30 Jun 2025 19:51:50 GMT | Blind XSS Vulnerability in Profile Input Leads to $2,000 Reward | Hamza Mandil | [Read More](https://medium.com/p/4641defd8d54) |
-| Mon, 30 Jun 2025 19:48:20 GMT | Inbox Extortion 101: How a Shutdown Threat Turns AI Into HAL 9000 | Zac | [Read More](https://medium.com/p/48485a64dedd) |
-| Mon, 30 Jun 2025 19:44:08 GMT | DMAIL’S SUBSCRIPTION HUB: A Smarter WAY TO STAY CONNECTED IN WEB3 | Ndifreke Bassey | [Read More](https://medium.com/p/fd35de14d908) |
