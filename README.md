@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 21:20:30 GMT | Remote Access That Gave Me the Answers I Needed | Duzanflorenzi | [Read More](https://medium.com/p/89fc9de91c04) |
+| Tue, 01 Jul 2025 21:15:18 GMT | The Rise of Artificial Intelligence (AI) and the Growing Necessity for AI-Specific Legal Expertise… | Brad Namdar | [Read More](https://medium.com/p/62cc5c8f8b85) |
+| Tue, 01 Jul 2025 21:14:24 GMT | So, What’s a Pentest Really? (And Why Should You Care?) | Mark Puckett | [Read More](https://medium.com/p/24e5c7f774fa) |
+| Tue, 01 Jul 2025 21:08:20 GMT | CVE-2025–32462: How a 12-Year-Old Sudo Bug Lets You Become Root Where You Shouldn’t | MohamedG. | [Read More](https://medium.com/p/780699101736) |
 | Tue, 01 Jul 2025 21:01:49 GMT | ️‍♀️ The Ultimate Bug Bounty Hunting Checklist: From Recon to Reporting | KingOfPiratez | [Read More](https://medium.com/p/99010d5402f3) |
 | Tue, 01 Jul 2025 21:01:49 GMT | 5 False Emotional Stereotypes About Men That Need to Die | Dani Ike | [Read More](https://medium.com/p/9ccf891e66c2) |
 | Tue, 01 Jul 2025 20:37:29 GMT | Security and Accessibility Gaps in Web Authentication for Blind and Visually Impaired Users | SPIES Lab | [Read More](https://medium.com/p/80881b9f3c39) |
@@ -96,6 +100,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 16:03:14 GMT | The Hidden .git | SIDDHANT SHUKLA | [Read More](https://medium.com/p/b30afef0b462) |
 | Tue, 01 Jul 2025 15:51:05 GMT | The Loop That Taught Me More Than the Code | Hira Ahmad | [Read More](https://medium.com/p/47217b92d1cb) |
 | Tue, 01 Jul 2025 15:43:10 GMT | Boeing names Stephen Parker as CEO of defense, space & security | Marcello Strano | [Read More](https://medium.com/p/d95eb3a238de) |
+| Tue, 01 Jul 2025 15:42:49 GMT | JWT Nedir? Güvenlik Açıkları, Saldırı Türleri ve Uygulamalı Lab Çözümü 1 Bölüm | Oruç | [Read More](https://medium.com/p/27d16606129e) |
 | Tue, 01 Jul 2025 15:42:38 GMT | RWAFI Chain: Revolutionizing Real-World Asset Tokenization | STANLEY | [Read More](https://medium.com/p/90a384dfe2d7) |
 | Tue, 01 Jul 2025 15:40:06 GMT | You Don’t Have to Be Okay All the Time to Be Worthy | Krishraar Rathore | [Read More](https://medium.com/p/e57f02d26854) |
 | Tue, 01 Jul 2025 15:33:35 GMT | How I Used a “Digital Detective” to Find Sensitive Data in My S3 Buckets | Aashishchaudhari | [Read More](https://medium.com/p/9feb241934f5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 15:18:12 GMT | Industrial Intrusion CTF by TryHackMe | Santhos Sunthar | [Read More](https://medium.com/p/b342a07d891d) |
 | Tue, 01 Jul 2025 15:15:59 GMT | Streamlining Wazuh SSO with Keycloak: A Hands-On OIDC Integration Guide | Yash Patel | [Read More](https://medium.com/p/c952f5419a5a) |
 | Tue, 01 Jul 2025 15:15:16 GMT | Introducing Guided Coin-Flip Seed Generation in SeedSigner | Nitish Itankar | [Read More](https://medium.com/p/04aa93c6d1ff) |
-| Tue, 01 Jul 2025 15:14:38 GMT | €100 in Seconds: Lots of Bug Hunters miss this bug, But you don’t | TSxNINJA | [Read More](https://medium.com/p/5e6371f4cb3e) |
-| Tue, 01 Jul 2025 15:13:52 GMT | I Wasn’t Enough —  And still, I loved Him Softly. | Soul Writer | [Read More](https://medium.com/p/9fead43f062d) |
-| Tue, 01 Jul 2025 15:11:56 GMT | Useful Tools and Utilities to Supercharge Your Online Activity | Rajput Parimal | [Read More](https://medium.com/p/a925aef5925c) |
-| Tue, 01 Jul 2025 15:11:02 GMT | How I Tracked Down a Stalker Using OSINT | Guilherme Leite | [Read More](https://medium.com/p/6af3a89a958d) |
-| Tue, 01 Jul 2025 15:02:57 GMT | From Failure to Success: 10 App Security Mistakes I Fixed in 3 Rebuilds | Gulshan N | [Read More](https://medium.com/p/26170d9f759c) |
