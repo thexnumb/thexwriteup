@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 09:39:31 GMT | How to Activate Palo Alto Networks Firewall Licenses | Damon Lin | [Read More](https://medium.com/p/c432b3bbf10d) |
+| Tue, 01 Jul 2025 09:36:07 GMT | ☁️Cloud Security - Alert: Exposed lambda functions | Sudarshan Patel | [Read More](https://medium.com/p/a10f86d0b4bf) |
+| Tue, 01 Jul 2025 09:30:46 GMT | Google Patches Actively Exploited Chrome Zero-Day (CVE-2025–1234) Affecting Skia Graphics Engine | CyBlog | [Read More](https://medium.com/p/39ddad105149) |
+| Tue, 01 Jul 2025 09:23:32 GMT | The Real Cost of Web Development in the UAE (2025): A No-Nonsense Guide for Businesses That Want to… | Nishilchopra | [Read More](https://medium.com/p/829a5297d1f3) |
+| Tue, 01 Jul 2025 09:18:55 GMT | PoisonedCredentials Lab from cyberdefenders | rkn | [Read More](https://medium.com/p/81bdb513471e) |
+| Tue, 01 Jul 2025 09:17:25 GMT | Why Endpoint Protection is Important for Small and Medium Enterprises (SMEs) | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/d1b952706482) |
+| Tue, 01 Jul 2025 09:17:01 GMT | Scattered Spider Threat Hunting Runbook | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/a5adf43aa243) |
 | Tue, 01 Jul 2025 09:16:33 GMT | Healthcare Data Center Security: Protecting Patient Information in Qatar | Tekhabeeb | [Read More](https://medium.com/p/5294bfecdb3b) |
+| Tue, 01 Jul 2025 09:16:28 GMT | Ukraine’s Digital Front: Cybersecurity Under Siege Amid U.S. | Iryna Kosse | [Read More](https://medium.com/p/3ded73991f40) |
 | Tue, 01 Jul 2025 09:11:27 GMT | CSRF Is Still Alive: A Modern Guide for Hackers and Defenders | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2f142232e5ba) |
 | Tue, 01 Jul 2025 09:09:24 GMT | The SolarWinds Supply Chain Attack | Oludare Stephen Ayobami | [Read More](https://medium.com/p/a317aae56ac7) |
 | Tue, 01 Jul 2025 09:07:12 GMT | File upload vulnerability explained like never before. | Rabia Riaz | [Read More](https://medium.com/p/34cf86f31ad0) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 04:46:06 GMT | The Surprising Link Between Vulnerability & Relationship Strength | Preethi Sunallini | [Read More](https://medium.com/p/aa3650771726) |
 | Tue, 01 Jul 2025 04:34:33 GMT | SQL Injection Praktikası: Manual Hücum Nümunəsi | Natiq Salifov | [Read More](https://medium.com/p/6835517f78c5) |
 | Tue, 01 Jul 2025 04:24:30 GMT | Breaking Down Vulnerabilities: | LIJO JKV | [Read More](https://medium.com/p/8b4266eb4fed) |
-| Tue, 01 Jul 2025 04:18:18 GMT | SSTI to Reverse Shell And Privilege Escalation | Wahyu Nufal Azmi | [Read More](https://medium.com/p/cad97154b1c6) |
-| Tue, 01 Jul 2025 04:13:27 GMT | My 6-Month Bug Bounty Review ️‍♂️ | cryptoshant | [Read More](https://medium.com/p/8469f3ca230f) |
-| Tue, 01 Jul 2025 04:12:45 GMT | 3 Security Risk Management Tools I’m Paying Attention To | Maham Shariff | [Read More](https://medium.com/p/619d9066921c) |
-| Tue, 01 Jul 2025 04:04:11 GMT | Massive Data Leak using Unauthenticated ARC GIS REST service | Ronak Patel | [Read More](https://medium.com/p/7a59ca13ca28) |
-| Tue, 01 Jul 2025 03:54:43 GMT | Win11不能存取匿名SMB了？ | Superliufa | [Read More](https://medium.com/p/74036840f09f) |
-| Tue, 01 Jul 2025 03:50:08 GMT | Why Social Engineering Remains Cybersecurity’s Most Persistent Threat | OWilliams | [Read More](https://medium.com/p/d4b3bf7c8e48) |
-| Tue, 01 Jul 2025 03:49:32 GMT | The Future Is Ours to Build: AI, Cybersecurity, Education, and the Autonomous Revolution | Inayat Hussain | [Read More](https://medium.com/p/35a8edff2c66) |
-| Tue, 01 Jul 2025 03:47:49 GMT | [HITB2024] My First and Last Shellcode Loader | CRUNZEX | [Read More](https://medium.com/p/8ed016ccab42) |
