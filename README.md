@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 08:51:44 GMT | How to Protect GenAI APIs from Prompt Injection, Data Leaks, and Abuse | Pranav Prakash | [Read More](https://medium.com/p/629975fe11e5) |
+| Tue, 01 Jul 2025 08:43:53 GMT | Local Insight Powers Security Services in Mumbai Today! | United Guard Force India | [Read More](https://medium.com/p/e1e03d137469) |
+| Tue, 01 Jul 2025 08:40:31 GMT | How I Exploited a Hidden CSRF Vulnerability — And How You Can Prevent It | Mr Horbio | [Read More](https://medium.com/p/d089ad23887d) |
+| Tue, 01 Jul 2025 08:35:33 GMT | Rate Limiting: The Unsung Hero of Web Security | Quella | [Read More](https://medium.com/p/82aa29639f43) |
+| Tue, 01 Jul 2025 08:31:11 GMT | The depth of Human Connection | Niketa | [Read More](https://medium.com/p/39c73cc20f39) |
+| Tue, 01 Jul 2025 08:27:07 GMT | Four Ways to Reverse Python Malware | Urban Vidergar | [Read More](https://medium.com/p/f8cb468fa070) |
 | Tue, 01 Jul 2025 08:18:09 GMT | Putin’s Cyber Units at War: Anatomy of an Uncoordinated Threat | Gianluca Tiepolo | [Read More](https://medium.com/p/6a343b0d1d43) |
 | Tue, 01 Jul 2025 08:16:55 GMT | VAPT: The Backbone of Cybersecurity — Why Your Business Can’t Afford to Ignore It | Pynesec | [Read More](https://medium.com/p/5addb0c59b95) |
 | Tue, 01 Jul 2025 08:11:06 GMT | ประจำวันอังคารที่ 1 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ebd871f9f872) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 01:40:54 GMT | North Korea’s Cybercrime Scheme | Itraj Prithan | [Read More](https://medium.com/p/66092524ba9c) |
 | Tue, 01 Jul 2025 01:39:48 GMT | What Happens When You Upload Your Life? | Cyber-AppSec | [Read More](https://medium.com/p/775057c02598) |
 | Tue, 01 Jul 2025 01:29:27 GMT | Hawaiian Airlines Cybersecurity Breach: A Wake-Up Call for Aviation Risk Intelligence | Silent Boardroom | [Read More](https://medium.com/p/02569f47ff8d) |
-| Tue, 01 Jul 2025 01:24:20 GMT | Understanding Flash USDT: A Quick Insight | Jorok | [Read More](https://medium.com/p/530ec4a33622) |
-| Tue, 01 Jul 2025 01:21:34 GMT | What Is Flash USDT? Know Before You're Tricked | Jorok | [Read More](https://medium.com/p/1ef08797942e) |
-| Tue, 01 Jul 2025 01:19:08 GMT | I will write CV resume for finance investment bankers accountant mergers professionals | Promaxomolola | [Read More](https://medium.com/p/6bdb80f20cd1) |
-| Tue, 01 Jul 2025 01:09:46 GMT | 16 Billion Login Credentials Leaked in One of the Largest Data Breaches Ever | SafetyDetectives Research Team | [Read More](https://medium.com/p/1f94f62b1e9a) |
-| Tue, 01 Jul 2025 01:09:27 GMT | Crosswalk Mapping | Athira K B | [Read More](https://medium.com/p/2b389b6c3c3b) |
-| Tue, 01 Jul 2025 01:07:42 GMT | Ghosting the internet | Mark Dewolf | [Read More](https://medium.com/p/c4884ca259a9) |
