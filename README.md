@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 17:03:33 GMT | You’re Probably Missing Bugs Because You’re Guessing Instead of Testing | Đeepanshu | [Read More](https://medium.com/p/48c526e94d0c) |
+| Tue, 01 Jul 2025 17:02:49 GMT | Day 36 of #60DaysofGRC: Breaking Down Models, Frameworks & Standards | Brittney Ginther | [Read More](https://medium.com/p/296477dbeecf) |
+| Tue, 01 Jul 2025 16:52:24 GMT | Netscapy: A Modern Python Network Scanning Tool with GUI | Trynityneo | [Read More](https://medium.com/p/a5c3b36e599e) |
 | Tue, 01 Jul 2025 16:47:22 GMT | Local Setup Guide for OWASP ZAP (2025 Edition) | Farhan | [Read More](https://medium.com/p/417b630599cd) |
 | Tue, 01 Jul 2025 16:46:27 GMT | HackTheBox — Hack the system : bug bounty ctf - SpeedNet | Md. Fazle Rabbi | [Read More](https://medium.com/p/bbbd2f20ba70) |
 | Tue, 01 Jul 2025 16:45:44 GMT | Recon as Code: Build Your Own One-Click Recon CLI With Python + Shell + Existing Tools | Monika sharma | [Read More](https://medium.com/p/4f7b260ae89f) |
@@ -20,6 +23,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 16:44:46 GMT | Satellite OSINT Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/e0f77b371426) |
 | Tue, 01 Jul 2025 16:40:58 GMT | How Two Logic Flaws Let Hackers Get Root on Linux in Seconds — CVE-2025–6018 and CVE-2025–6019… | Aaron | [Read More](https://medium.com/p/17eda9a8cfc3) |
 | Tue, 01 Jul 2025 16:40:56 GMT | The Weight of What You Don’t Say: The Cost of Bottling Up Your Feelings | Blaze | [Read More](https://medium.com/p/3eea46ee77e5) |
+| Tue, 01 Jul 2025 16:40:27 GMT | Another million-mile challenge | Daily Drop | [Read More](https://medium.com/p/4b011977d2fa) |
 | Tue, 01 Jul 2025 16:40:20 GMT | THM Industrial Intrusion CTF Task 13 Orcam | Not wrench | [Read More](https://medium.com/p/94c92cd8592f) |
 | Tue, 01 Jul 2025 16:36:54 GMT | Nowadays you don’t need a hacker to get hacked | hack-ethics | [Read More](https://medium.com/p/32834c44733e) |
 | Tue, 01 Jul 2025 16:36:43 GMT | Firewallet; Why you shouldn’t ingest firewall Logs in Your SIEM | One Equals One | [Read More](https://medium.com/p/c496a450dcfc) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 11:51:52 GMT | Best Free AI & Social Media API Keys for Your Next Project | codinstuff | [Read More](https://medium.com/p/2d8d7e432248) |
 | Tue, 01 Jul 2025 11:50:42 GMT | I Built an AI App That Tells You How Healthy Your Food Is – Just from a Photo | Abiodun Dekunle | [Read More](https://medium.com/p/4ee5d6d22032) |
 | Tue, 01 Jul 2025 11:50:30 GMT | AI-Powered Malware: A Growing Cybersecurity Threat | Ekene Joseph | [Read More](https://medium.com/p/c1c2984d4cd5) |
-| Tue, 01 Jul 2025 11:41:40 GMT | TryHackMe - Industrial Intrusion CTF Simple Protocol(Task 26) Writeup | Mert Kurthasan | [Read More](https://medium.com/p/cd16bc721940) |
-| Tue, 01 Jul 2025 11:40:50 GMT | One More Reason to Rethink Your Identity Strategy | Manish | [Read More](https://medium.com/p/9e325f587a50) |
-| Tue, 01 Jul 2025 11:38:44 GMT | Microsoft Is Saying Goodbye to a Classic Entra Feature. What’s Next? | Srinivasps | [Read More](https://medium.com/p/2fbcf3c9cd64) |
-| Tue, 01 Jul 2025 11:31:00 GMT | Cybersquatting, Domain Disputes, and Intellectual Property in the Digital Age | legalla rs | [Read More](https://medium.com/p/3fe4795d9dd0) |
