@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 08:18:09 GMT | Putin’s Cyber Units at War: Anatomy of an Uncoordinated Threat | Gianluca Tiepolo | [Read More](https://medium.com/p/6a343b0d1d43) |
+| Tue, 01 Jul 2025 08:16:55 GMT | VAPT: The Backbone of Cybersecurity — Why Your Business Can’t Afford to Ignore It | Pynesec | [Read More](https://medium.com/p/5addb0c59b95) |
+| Tue, 01 Jul 2025 08:11:06 GMT | ประจำวันอังคารที่ 1 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ebd871f9f872) |
+| Tue, 01 Jul 2025 08:07:52 GMT | 如何啟用 Palo Alto Networks 防火牆授權 | Damon Lin | [Read More](https://medium.com/p/0f043da4c772) |
+| Tue, 01 Jul 2025 08:03:51 GMT | 10 Best Compliance Monitoring Tools to Ensure Regulatory Readiness | SecureSlate | [Read More](https://medium.com/p/0c4b8eef212f) |
+| Tue, 01 Jul 2025 07:58:17 GMT | Reclaiming Your Cybersecurity Time: Smarter Investigations with AI | Seb AGUELE | [Read More](https://medium.com/p/6404707e9ac2) |
+| Tue, 01 Jul 2025 07:50:13 GMT | The Daily Tech Digest: 01 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/95107df744aa) |
+| Tue, 01 Jul 2025 07:44:16 GMT | Ivanti EPM RCE via .NET Remoting Deserialization (CVE-2024–29847) | AerieWhole123 | [Read More](https://medium.com/p/a74c94c38fe5) |
+| Tue, 01 Jul 2025 07:44:15 GMT | Как да подготвим малкия си бизнес за NIS2 — без излишна паника | Anita Stoyanova | [Read More](https://medium.com/p/3a9e54417eb8) |
+| Tue, 01 Jul 2025 07:44:06 GMT | Desync or Die Trying: Smuggling My Way into Internal APIs | Iski | [Read More](https://medium.com/p/e59e1bf6f01d) |
 | Tue, 01 Jul 2025 07:38:23 GMT | Surat Woman Arrested in ₹2.9 Crore Digital Arrest Scam Linked to Cambodia . | Nitin Saraswat | [Read More](https://medium.com/p/a232409ee849) |
 | Tue, 01 Jul 2025 07:35:48 GMT | Healthcare Vulnerabilities: Top 10 Low-Hanging Fruit Hackers Exploit With Ease | Travis Ray Caverhill | [Read More](https://medium.com/p/5f753cf61c53) |
 | Tue, 01 Jul 2025 07:33:26 GMT | My First Dive into Wireshark as a Cybersecurity Enthusiasty | Darshan | [Read More](https://medium.com/p/fdef0b076bcd) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 01:09:46 GMT | 16 Billion Login Credentials Leaked in One of the Largest Data Breaches Ever | SafetyDetectives Research Team | [Read More](https://medium.com/p/1f94f62b1e9a) |
 | Tue, 01 Jul 2025 01:09:27 GMT | Crosswalk Mapping | Athira K B | [Read More](https://medium.com/p/2b389b6c3c3b) |
 | Tue, 01 Jul 2025 01:07:42 GMT | Ghosting the internet | Mark Dewolf | [Read More](https://medium.com/p/c4884ca259a9) |
-| Tue, 01 Jul 2025 01:07:27 GMT | 61 Million Records Allegedly Belonging to Verizon Listed for Sale Online | SafetyDetectives Research Team | [Read More](https://medium.com/p/05195a1fd0b5) |
-| Tue, 01 Jul 2025 00:56:06 GMT | CoinEx, Huobi, FloorDAO: When Keys, Logic, and Supply Control All Fail | Olympix | [Read More](https://medium.com/p/86ef8db4bbba) |
-| Tue, 01 Jul 2025 00:31:16 GMT | Data-Driven Quality Improvement in Healthcare: Real Examples | Mindful Data | [Read More](https://medium.com/p/1ec2250c0b7a) |
-| Tue, 01 Jul 2025 00:27:01 GMT | Remitano, GAMBL, Rocketswap: When Ops Errors Beat Code Exploits | Olympix | [Read More](https://medium.com/p/c7ad2c41fa15) |
-| Tue, 01 Jul 2025 00:23:10 GMT | 5 Essential Components of CCTV Camera System | Visual Monitoring Solutions | [Read More](https://medium.com/p/bbf8ff97c044) |
-| Tue, 01 Jul 2025 00:10:07 GMT | Flash USDT Explained – For Educational Purposes Only | Picaga | [Read More](https://medium.com/p/18bca25c5976) |
-| Tue, 01 Jul 2025 00:08:05 GMT | Stake, Zunami, Steadefi: Key Compromise, Price Games, and Reentrancy Loops | Olympix | [Read More](https://medium.com/p/ccad93ba1d57) |
-| Tue, 01 Jul 2025 00:01:29 GMT | gf: Tu Aliado Indispensable para el Reconocimiento y Detección de Vulnerabilidades en Bug Bounty | JPablo13 | [Read More](https://medium.com/p/b6612f85fb66) |
-| Mon, 30 Jun 2025 23:57:02 GMT | AI Meets Identity: Early Inflection Points and Security Implications | Abhay Kulkarni | [Read More](https://medium.com/p/bf1fb66b6f46) |
-| Mon, 30 Jun 2025 23:23:29 GMT | BITPANDA | NKAMAETI ESU | [Read More](https://medium.com/p/ea4a42a42b02) |
