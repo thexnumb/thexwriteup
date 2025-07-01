@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 19:34:11 GMT | OTPs Gone Wild: When “One-Time” Means… Multiple Times? | ValidByAccident | [Read More](https://medium.com/p/9ae883b0cf18) |
+| Tue, 01 Jul 2025 19:32:46 GMT | Best Private & Encrypted Email Services in 2025: Stop Using Gmail Now. | SaadeAala RS | [Read More](https://medium.com/p/c81fc516dc7c) |
+| Tue, 01 Jul 2025 19:24:01 GMT | RISING GIANT: THE AWAKENING OF MAZIEN ARCHIE | Mazien Eseh Oluwadamilola Alabi | [Read More](https://medium.com/p/2879b819fa0f) |
+| Tue, 01 Jul 2025 19:23:57 GMT | /acc is a True North Strong and Free. | Scott Howard | [Read More](https://medium.com/p/7aef4ae9746a) |
+| Tue, 01 Jul 2025 19:23:36 GMT | Industrial Intrusion - THM | Chopp_Sueyy | [Read More](https://medium.com/p/1b547b4b0112) |
+| Tue, 01 Jul 2025 19:20:34 GMT | How I Built a Home-Based Cybersecurity Attack & Defense Lab-From Zero to Root: A DIY Cybersecurity… | KHANDOKER FAISAL | [Read More](https://medium.com/p/404882db1bc2) |
+| Tue, 01 Jul 2025 19:16:51 GMT | Linux Privilege Escalation Techniques | musayyab sharif | [Read More](https://medium.com/p/e9a7b3704db6) |
+| Tue, 01 Jul 2025 19:14:41 GMT | Building a T-Pot Honeypot for Attack Detection and Analysis | Jon Pham | [Read More](https://medium.com/p/8b75a9dde90e) |
+| Tue, 01 Jul 2025 19:14:10 GMT | Three Sharp Raps | NRWillick | [Read More](https://medium.com/p/e56200e5ba63) |
+| Tue, 01 Jul 2025 19:08:41 GMT | The Quiet Guilt That Stole 5 Years of My Life | Swapnil Agarwal - The Fit Dev | [Read More](https://medium.com/p/d99de8f45eb3) |
 | Tue, 01 Jul 2025 19:05:10 GMT | Behind the Mask: How Tor’s Anonymity Breaks Down | P3rryTHEplatipu55 | [Read More](https://medium.com/p/1c154762b919) |
 | Tue, 01 Jul 2025 19:04:19 GMT | Navigating the Cybersecurity Labyrinth: From Vendors to a Sustainable Career Path | Yaroslav | [Read More](https://medium.com/p/d7857dae87c5) |
 | Tue, 01 Jul 2025 19:00:55 GMT | The AI’s Existential Crisis: An Unexpected Journey with Cursor and Gemini 2.5 Pro | Brian Soby | [Read More](https://medium.com/p/7dd811ba7e5e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 14:16:51 GMT | The Ultimate Offensive Security Playbook: Real‑World Red Team, Pentesters & CTF Tactics | Pratham Shah | [Read More](https://medium.com/p/f054f9082ee2) |
 | Tue, 01 Jul 2025 14:16:06 GMT | # Why Our ‘Cost-Optimized’ Graviton Migration Backfired (And When to Avoid ARM) | Dev engineer | [Read More](https://medium.com/p/22e0f5e8c76c) |
 | Tue, 01 Jul 2025 14:12:52 GMT | Azure Virtual Machine Security: Best Practices (and Why They Matter) | Scott Martin | [Read More](https://medium.com/p/8b533dd00252) |
-| Tue, 01 Jul 2025 14:12:25 GMT | Post‑Market Cybersecurity 2025 | Daniel James | [Read More](https://medium.com/p/40e8d9c5e2eb) |
-| Tue, 01 Jul 2025 14:11:33 GMT | High‑Stakes Airport Scam: A 24‑Year‑Old’s ₹2.9 Crore Cyber‑Mask | Hacker news 07 | [Read More](https://medium.com/p/06286f9fd49e) |
-| Tue, 01 Jul 2025 14:09:02 GMT | Building a Zero Trust Architecture | Furkan Gungor | [Read More](https://medium.com/p/6e24953e9d96) |
-| Tue, 01 Jul 2025 14:06:44 GMT | True Positive, False Positive, False Negative, and True Negative –Explained Simply | Owais Abdul Haseeb | [Read More](https://medium.com/p/21763ecf5e3d) |
-| Tue, 01 Jul 2025 14:03:44 GMT | Frontend Projelerinde Credentials Güvenliği ve  Sızıntılara Karşı En İyi Uygulamalar | Mertcan Arguç | [Read More](https://medium.com/p/411f16ba15da) |
-| Tue, 01 Jul 2025 14:02:04 GMT | Hallucinations, Betrayal, Self: The Three Faces of AI Aiming at Humanity | Sean(Seon Yong) Park | [Read More](https://medium.com/p/72d730d95ae3) |
-| Tue, 01 Jul 2025 14:01:33 GMT | Cyber Briefing: 2025.07.01 | CyberMaterial | [Read More](https://medium.com/p/7b99bc1e99ba) |
-| Tue, 01 Jul 2025 13:56:51 GMT | Encrypted Traffic Analysis: Detecting Anomalies in Encrypted Network Traffic | Esra Kayhan | [Read More](https://medium.com/p/46093e8ab90f) |
-| Tue, 01 Jul 2025 13:52:44 GMT | Vulnerability 101: TryHackMe Writeup | Bridget | [Read More](https://medium.com/p/1d97b8f8547d) |
-| Tue, 01 Jul 2025 13:49:53 GMT | CSRF Attacks Explained: How Hackers Trick Your Browser into Betraying You | err0rgod | [Read More](https://medium.com/p/2b786e648acc) |
