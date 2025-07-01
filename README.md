@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 07:38:23 GMT | Surat Woman Arrested in ₹2.9 Crore Digital Arrest Scam Linked to Cambodia . | Nitin Saraswat | [Read More](https://medium.com/p/a232409ee849) |
+| Tue, 01 Jul 2025 07:35:48 GMT | Healthcare Vulnerabilities: Top 10 Low-Hanging Fruit Hackers Exploit With Ease | Travis Ray Caverhill | [Read More](https://medium.com/p/5f753cf61c53) |
+| Tue, 01 Jul 2025 07:33:26 GMT | My First Dive into Wireshark as a Cybersecurity Enthusiasty | Darshan | [Read More](https://medium.com/p/fdef0b076bcd) |
+| Tue, 01 Jul 2025 07:28:19 GMT | Today’s Top Cyber Intelligence Highlights — Jul 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/75b59847736c) |
+| Tue, 01 Jul 2025 07:27:48 GMT | Qatar Focuses On Turnstile Security to Prevent Unauthorized Access | Tekhabeeb | [Read More](https://medium.com/p/729b98fcbb61) |
+| Tue, 01 Jul 2025 07:26:46 GMT | The Subtle Art of Not Getting Phished — A Beginner’s Guide to Email Forensics | Aniruddha Ramane | [Read More](https://medium.com/p/5ee64d0be8dc) |
+| Tue, 01 Jul 2025 07:26:40 GMT | How does attack surface & risk management help? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/9a2847d9cde6) |
+| Tue, 01 Jul 2025 07:24:32 GMT | Why Employee Background Checks Are No Longer Optional in 2025 | Mariiatata | [Read More](https://medium.com/p/400fdf216226) |
+| Tue, 01 Jul 2025 07:20:12 GMT | SafeLine WAF: How Config Sync Enables Active-Active Architecture | AerieWhole123 | [Read More](https://medium.com/p/7fa88817700d) |
+| Tue, 01 Jul 2025 07:17:45 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/87a0c09f41ba) |
 | Tue, 01 Jul 2025 07:14:01 GMT | Card Armor Reviews United States (Consumer Reports) Must Read Before Buying! | Victorynwokike | [Read More](https://medium.com/p/579569fc6b3c) |
 | Tue, 01 Jul 2025 07:13:49 GMT | Breaking the Query: Unmasking SQL Injection Attacks in Ethical Hacking | Leroyanand | [Read More](https://medium.com/p/0b509f8adeba) |
 | Tue, 01 Jul 2025 07:07:09 GMT | Try Hack Me — Industrial Intrusion CTF 2025— Rogue Poller Write Up | Lunacysoft | [Read More](https://medium.com/p/913f9e054cc6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 00:01:29 GMT | gf: Tu Aliado Indispensable para el Reconocimiento y Detección de Vulnerabilidades en Bug Bounty | JPablo13 | [Read More](https://medium.com/p/b6612f85fb66) |
 | Mon, 30 Jun 2025 23:57:02 GMT | AI Meets Identity: Early Inflection Points and Security Implications | Abhay Kulkarni | [Read More](https://medium.com/p/bf1fb66b6f46) |
 | Mon, 30 Jun 2025 23:23:29 GMT | BITPANDA | NKAMAETI ESU | [Read More](https://medium.com/p/ea4a42a42b02) |
-| Mon, 30 Jun 2025 23:22:34 GMT | The Beginner’s Guide to Bugs Bunny $BUGS for Maximum Gains | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/f0a829967172) |
-| Mon, 30 Jun 2025 23:17:57 GMT | Security Auditing Terms Explained — Like You’re Playing Chess with Hackers | Mujtaba Shaikeldin | [Read More](https://medium.com/p/3dff095977c4) |
-| Mon, 30 Jun 2025 23:15:56 GMT | VulnNet-Roasted (PT1-Recommended Room) | MR-X.Security | [Read More](https://medium.com/p/266321bc5d53) |
-| Mon, 30 Jun 2025 22:50:27 GMT | How I Forged a Facebook JWT to Impersonate Any User on Wit.ai (No Secret Verification) | Ramzy Bouyahya | [Read More](https://medium.com/p/0d1d5e81b88b) |
-| Mon, 30 Jun 2025 22:17:13 GMT | OAuth Misconfigurations: Real-World Examples and Exploitation Tips | Karthikeyan Nagaraj | [Read More](https://medium.com/p/86a8d0ab6296) |
-| Mon, 30 Jun 2025 22:14:23 GMT | Hack The System — NeoVault | محمد بن إبراهيم | [Read More](https://medium.com/p/722200c98dad) |
-| Mon, 30 Jun 2025 22:10:13 GMT | AI Prompt Caching for Context Engineering: Optimizing OPEX and User Experience | Michael Rico | [Read More](https://medium.com/p/48b3aef12f52) |
-| Mon, 30 Jun 2025 22:06:01 GMT | PicoCTF Writeup: Bookmarklet Encryption Challenge | Veyron92i | [Read More](https://medium.com/p/5af05d7917f0) |
-| Mon, 30 Jun 2025 22:04:36 GMT | Bitpanda: Your One-Stop Shop for Investing? A Deep Dive | Inez-Diamond Mcfelix | [Read More](https://medium.com/p/524d860270eb) |
-| Mon, 30 Jun 2025 21:58:44 GMT | A Secret Store Is NOT A Substitute For Actually Protecting Your API Keys | Andrew Zuo | [Read More](https://medium.com/p/0355b30c155d) |
