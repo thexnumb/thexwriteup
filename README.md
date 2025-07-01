@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 14:33:23 GMT | Tips To Avoid Hacker Intrusions | New Life Technology Group | [Read More](https://medium.com/p/3b9189ef5acf) |
+| Tue, 01 Jul 2025 14:32:59 GMT | Malware Analysis | Ibrahim Isiaq Bolaji | [Read More](https://medium.com/p/5693b04c7b51) |
+| Tue, 01 Jul 2025 14:21:02 GMT | But can you actually hack someone’s Instagram? | Apurva Anand | [Read More](https://medium.com/p/92e9fd2ab839) |
+| Tue, 01 Jul 2025 14:19:07 GMT | Linux Firewall With Iptables: A Complete Guide | pratham verma | [Read More](https://medium.com/p/bb4cc63e50e0) |
 | Tue, 01 Jul 2025 14:18:55 GMT | The Python Code That Cracked 1 Million Passwords (For Research) | The Code Studio | [Read More](https://medium.com/p/7c29c77e3f4f) |
 | Tue, 01 Jul 2025 14:16:51 GMT | The Ultimate Offensive Security Playbook: Real‑World Red Team, Pentesters & CTF Tactics | Pratham Shah | [Read More](https://medium.com/p/f054f9082ee2) |
+| Tue, 01 Jul 2025 14:16:06 GMT | # Why Our ‘Cost-Optimized’ Graviton Migration Backfired (And When to Avoid ARM) | Dev engineer | [Read More](https://medium.com/p/22e0f5e8c76c) |
 | Tue, 01 Jul 2025 14:12:52 GMT | Azure Virtual Machine Security: Best Practices (and Why They Matter) | Scott Martin | [Read More](https://medium.com/p/8b533dd00252) |
 | Tue, 01 Jul 2025 14:12:25 GMT | Post‑Market Cybersecurity 2025 | Daniel James | [Read More](https://medium.com/p/40e8d9c5e2eb) |
 | Tue, 01 Jul 2025 14:11:33 GMT | High‑Stakes Airport Scam: A 24‑Year‑Old’s ₹2.9 Crore Cyber‑Mask | Hacker news 07 | [Read More](https://medium.com/p/06286f9fd49e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 09:17:01 GMT | Scattered Spider Threat Hunting Runbook | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/a5adf43aa243) |
 | Tue, 01 Jul 2025 09:16:33 GMT | Healthcare Data Center Security: Protecting Patient Information in Qatar | Tekhabeeb | [Read More](https://medium.com/p/5294bfecdb3b) |
 | Tue, 01 Jul 2025 09:16:28 GMT | Ukraine’s Digital Front: Cybersecurity Under Siege Amid U.S. | Iryna Kosse | [Read More](https://medium.com/p/3ded73991f40) |
-| Tue, 01 Jul 2025 09:11:27 GMT | CSRF Is Still Alive: A Modern Guide for Hackers and Defenders | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2f142232e5ba) |
-| Tue, 01 Jul 2025 09:09:24 GMT | The SolarWinds Supply Chain Attack | Oludare Stephen Ayobami | [Read More](https://medium.com/p/a317aae56ac7) |
-| Tue, 01 Jul 2025 09:07:12 GMT | File upload vulnerability explained like never before. | Rabia Riaz | [Read More](https://medium.com/p/34cf86f31ad0) |
-| Tue, 01 Jul 2025 09:07:04 GMT | AI & Automation Are The Future of Cybersecurity — But Who Gets To Shape It In Kenya & Africa? | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/318b166ecd94) |
-| Tue, 01 Jul 2025 09:06:53 GMT | AI Malware: The New Frontier in Cyber Attacks (And How to Fight Back) | Securseedmena | [Read More](https://medium.com/p/49a607aace94) |
