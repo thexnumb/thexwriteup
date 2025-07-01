@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 17:29:42 GMT | The Ransomware Evolution: From Floppies to Decentralized Extortion Empires | Shadow Packet | [Read More](https://medium.com/p/775945c68d52) |
+| Tue, 01 Jul 2025 17:27:43 GMT | AeroLab v1.0: Building a Personal Cybersecurity Homelab | Aeronique | [Read More](https://medium.com/p/5db3a7d8f1b8) |
+| Tue, 01 Jul 2025 17:23:27 GMT | Top 8 Benefits of Cyber Security Awareness Training Program for Small Businesses (2025) | CyberSapiens | [Read More](https://medium.com/p/135271e091ca) |
+| Tue, 01 Jul 2025 17:20:39 GMT | Secret moon | onojeta ejiroghene | [Read More](https://medium.com/p/0622cb02a0ac) |
+| Tue, 01 Jul 2025 17:17:17 GMT | Ex-Meta Engineers Build Airial: An AI Travel Tool That Plans Every Step of Your Trip | Tech Thrilled | [Read More](https://medium.com/p/035f7608498c) |
+| Tue, 01 Jul 2025 17:10:57 GMT | DragonForce: The New Age of Ransomware. | Colton J. | [Read More](https://medium.com/p/a4e40636adbb) |
+| Tue, 01 Jul 2025 17:07:59 GMT | Nmap Mastery: Advanced Network Scanning with Real-World Examples | Joy Saha | [Read More](https://medium.com/p/159d39ebb0f1) |
 | Tue, 01 Jul 2025 17:03:33 GMT | You’re Probably Missing Bugs Because You’re Guessing Instead of Testing | Đeepanshu | [Read More](https://medium.com/p/48c526e94d0c) |
 | Tue, 01 Jul 2025 17:02:49 GMT | Day 36 of #60DaysofGRC: Breaking Down Models, Frameworks & Standards | Brittney Ginther | [Read More](https://medium.com/p/296477dbeecf) |
 | Tue, 01 Jul 2025 16:52:24 GMT | Netscapy: A Modern Python Network Scanning Tool with GUI | Trynityneo | [Read More](https://medium.com/p/a5c3b36e599e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 12:06:15 GMT | Password Safety Made Simple — Why Passwords Matter | SilverTech Support | [Read More](https://medium.com/p/87baee1a6134) |
 | Tue, 01 Jul 2025 12:01:05 GMT | Recon Basics for Beginners: A Simple Guide | Satyam Pathania | [Read More](https://medium.com/p/e76885cdd333) |
 | Tue, 01 Jul 2025 12:00:34 GMT | Hacking a Birthday Campaign on a Food Delivery App — Bug Bounty: $1.000+ | Erkan Kavas | [Read More](https://medium.com/p/22926fee1c31) |
-| Tue, 01 Jul 2025 11:59:11 GMT | TryHackMe Industrial Intrusion-Under Construction/Task-16 | Efe | [Read More](https://medium.com/p/9da9dc71a23e) |
-| Tue, 01 Jul 2025 11:58:20 GMT | PhishHound v1.1: Phishing Analysis Made Explainable | Yug Shah | [Read More](https://medium.com/p/e4fab809051c) |
-| Tue, 01 Jul 2025 11:56:10 GMT | Implementing Azure AD Authentication in Angular and .NET Core API | Kevin Patrick Boylan - .NET Software Engineer | [Read More](https://medium.com/p/1da94b647546) |
-| Tue, 01 Jul 2025 11:52:20 GMT | # ‍♂️ The Secret AWS Charge That Shows Up After 6 Months (and Eats Your Budget Alive) | Dev engineer | [Read More](https://medium.com/p/bf964d480745) |
-| Tue, 01 Jul 2025 11:51:52 GMT | Best Free AI & Social Media API Keys for Your Next Project | codinstuff | [Read More](https://medium.com/p/2d8d7e432248) |
-| Tue, 01 Jul 2025 11:50:42 GMT | I Built an AI App That Tells You How Healthy Your Food Is – Just from a Photo | Abiodun Dekunle | [Read More](https://medium.com/p/4ee5d6d22032) |
-| Tue, 01 Jul 2025 11:50:30 GMT | AI-Powered Malware: A Growing Cybersecurity Threat | Ekene Joseph | [Read More](https://medium.com/p/c1c2984d4cd5) |
