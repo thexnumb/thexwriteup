@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 16:23:24 GMT | How Ethical Hackers Can Help You Catch a Cheating Spouse | Gary Zemrak | [Read More](https://medium.com/p/9f59fd272cbd) |
+| Tue, 01 Jul 2025 16:20:29 GMT | The Secret Weapon for Independent Cybersecurity Professionals | Vijay Kumar Gupta | [Read More](https://medium.com/p/45c6fa127485) |
+| Tue, 01 Jul 2025 16:18:25 GMT | DenizHalil.com Cybersecurity Platform for Sale | Halildeniz | [Read More](https://medium.com/p/c8cba3cd5d44) |
+| Tue, 01 Jul 2025 16:16:53 GMT | Major Cybersecurity Incidents in the Last Five Years (2020–2025) | aaryan | [Read More](https://medium.com/p/5ec2491a1515) |
+| Tue, 01 Jul 2025 16:15:48 GMT | New in Copilot: Scan Suspicious Files with VirusTotal Integration | SOCFortress | [Read More](https://medium.com/p/4b2f28350c5c) |
+| Tue, 01 Jul 2025 16:15:06 GMT | I Thought Jealousy Meant I Was Insecure — But It Was Something Deeper | London Wood | [Read More](https://medium.com/p/81575b851d05) |
+| Tue, 01 Jul 2025 16:10:10 GMT | How I (Ethically) Hacked My College Portal with a JWT Token — and Reported It Responsibly | Tamilselvan A K | [Read More](https://medium.com/p/16aa97a5255e) |
+| Tue, 01 Jul 2025 16:07:25 GMT | How Pegasus Broke the Saudi Royal Family | Sora Ishikawa | [Read More](https://medium.com/p/0032b95e0e65) |
+| Tue, 01 Jul 2025 16:03:14 GMT | The Hidden .git | SIDDHANT SHUKLA | [Read More](https://medium.com/p/b30afef0b462) |
+| Tue, 01 Jul 2025 15:51:05 GMT | The Loop That Taught Me More Than the Code | Hira Ahmad | [Read More](https://medium.com/p/47217b92d1cb) |
+| Tue, 01 Jul 2025 15:43:10 GMT | Boeing names Stephen Parker as CEO of defense, space & security | Marcello Strano | [Read More](https://medium.com/p/d95eb3a238de) |
+| Tue, 01 Jul 2025 15:42:38 GMT | RWAFI Chain: Revolutionizing Real-World Asset Tokenization | STANLEY | [Read More](https://medium.com/p/90a384dfe2d7) |
+| Tue, 01 Jul 2025 15:40:06 GMT | You Don’t Have to Be Okay All the Time to Be Worthy | Krishraar Rathore | [Read More](https://medium.com/p/e57f02d26854) |
 | Tue, 01 Jul 2025 15:33:35 GMT | How I Used a “Digital Detective” to Find Sensitive Data in My S3 Buckets | Aashishchaudhari | [Read More](https://medium.com/p/9feb241934f5) |
 | Tue, 01 Jul 2025 15:30:39 GMT | Technology with a Conscience: How to Innovate Without Losing Control | Sharon Duran | [Read More](https://medium.com/p/d01e04c1dca8) |
 | Tue, 01 Jul 2025 15:28:32 GMT | Ensuring Security and Compliance in Cloud-Native AWS Environments | Ilya Demidov | [Read More](https://medium.com/p/427d51e48718) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 10:58:31 GMT | Internal File Paths/files Leakage via Malformed Access Token on graph.meta.ai | Ramzy Bouyahya | [Read More](https://medium.com/p/3a167e7354b4) |
 | Tue, 01 Jul 2025 10:55:21 GMT | Best Practices For API Security Testing | Loadium | [Read More](https://medium.com/p/98fb77be73f8) |
 | Tue, 01 Jul 2025 10:53:40 GMT | Manual de Dynatrace | Ivan Marianoff | [Read More](https://medium.com/p/e44718c5b974) |
-| Tue, 01 Jul 2025 10:47:03 GMT | Custom Security Solutions: How Security Guard Providers in Delhi Tailor Services for Business | Pinki Chauhan | [Read More](https://medium.com/p/1c060300bb3f) |
-| Tue, 01 Jul 2025 10:45:46 GMT | Everything You Need to Know About ELF-Based Malware: The Invisible Threat to Linux Systems | Piyush | [Read More](https://medium.com/p/a434ecad54e3) |
-| Tue, 01 Jul 2025 10:43:14 GMT | Mobile App Testing: The Ultimate Guide to Delivering Bug-Free Applications | QAnix Software Quality Assurance | [Read More](https://medium.com/p/b3fc56091219) |
-| Tue, 01 Jul 2025 10:42:48 GMT | Mastering Cloud Security in 2025: Why the Certified Cloud Security Engineer (CCSE) Certification… | Shreyashettyctr | [Read More](https://medium.com/p/6536dff70bb5) |
-| Tue, 01 Jul 2025 10:33:38 GMT | ❄️ Lambda Cold Starts Aren’t Your Problem Anymore — Here’s What Actually Is | Dev engineer | [Read More](https://medium.com/p/d29a69a9cfd1) |
-| Tue, 01 Jul 2025 10:32:51 GMT | Deepfakes: The New Weapon in Cyber Attacks | Natarajan C K | [Read More](https://medium.com/p/e837a042e156) |
-| Tue, 01 Jul 2025 10:26:22 GMT | How to Build a Cybersecurity Homelab That Doesn’t Suck | Aj | [Read More](https://medium.com/p/4679bbe904b2) |
-| Tue, 01 Jul 2025 10:22:07 GMT | SeaTunnel Community Monthly Report (May–June): New Features, Major Bug Fixes, and the Merge Star… | Apache SeaTunnel | [Read More](https://medium.com/p/ffd314370d0f) |
-| Tue, 01 Jul 2025 10:20:27 GMT | Enhancing Android App Security with AI: Smarter Threat Detection in 2025 | Bunty Beladiya | [Read More](https://medium.com/p/7a3d6c319cfd) |
-| Tue, 01 Jul 2025 10:13:42 GMT | Does Having an ECE Background Change How You See Cybersecurity? | brain.exe | [Read More](https://medium.com/p/3188949d1756) |
-| Tue, 01 Jul 2025 10:08:29 GMT | ICS ve SCADA Pentester’ları için PERA Modeli Neden Önemlidir? | Hazar Taspinar | [Read More](https://medium.com/p/168d2d9c58e0) |
-| Tue, 01 Jul 2025 10:08:24 GMT | Why I Love Helping Others — But Struggle to Ask for Help | Liyuan Malone | [Read More](https://medium.com/p/4432e3baa4f3) |
-| Tue, 01 Jul 2025 10:06:18 GMT | “Update Now: Bir Tıkla Güvende Kal” | Çağrı Yıldırımer | [Read More](https://medium.com/p/3fe8c9e3e8b8) |
