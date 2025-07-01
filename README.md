@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 10:43:14 GMT | Mobile App Testing: The Ultimate Guide to Delivering Bug-Free Applications | QAnix Software Quality Assurance | [Read More](https://medium.com/p/b3fc56091219) |
+| Tue, 01 Jul 2025 10:42:48 GMT | Mastering Cloud Security in 2025: Why the Certified Cloud Security Engineer (CCSE) Certification… | Shreyashettyctr | [Read More](https://medium.com/p/6536dff70bb5) |
+| Tue, 01 Jul 2025 10:33:38 GMT | ❄️ Lambda Cold Starts Aren’t Your Problem Anymore — Here’s What Actually Is | Dev engineer | [Read More](https://medium.com/p/d29a69a9cfd1) |
+| Tue, 01 Jul 2025 10:32:51 GMT | Deepfakes: The New Weapon in Cyber Attacks | Natarajan C K | [Read More](https://medium.com/p/e837a042e156) |
+| Tue, 01 Jul 2025 10:26:22 GMT | How to Build a Cybersecurity Homelab That Doesn’t Suck | Aj | [Read More](https://medium.com/p/4679bbe904b2) |
+| Tue, 01 Jul 2025 10:22:07 GMT | SeaTunnel Community Monthly Report (May–June): New Features, Major Bug Fixes, and the Merge Star… | Apache SeaTunnel | [Read More](https://medium.com/p/ffd314370d0f) |
+| Tue, 01 Jul 2025 10:20:27 GMT | Enhancing Android App Security with AI: Smarter Threat Detection in 2025 | Bunty Beladiya | [Read More](https://medium.com/p/7a3d6c319cfd) |
+| Tue, 01 Jul 2025 10:13:42 GMT | Does Having an ECE Background Change How You See Cybersecurity? | brain.exe | [Read More](https://medium.com/p/3188949d1756) |
 | Tue, 01 Jul 2025 10:08:29 GMT | ICS ve SCADA Pentester’ları için PERA Modeli Neden Önemlidir? | Hazar Taspinar | [Read More](https://medium.com/p/168d2d9c58e0) |
 | Tue, 01 Jul 2025 10:08:24 GMT | Why I Love Helping Others — But Struggle to Ask for Help | Liyuan Malone | [Read More](https://medium.com/p/4432e3baa4f3) |
 | Tue, 01 Jul 2025 10:06:18 GMT | “Update Now: Bir Tıkla Güvende Kal” | Çağrı Yıldırımer | [Read More](https://medium.com/p/3fe8c9e3e8b8) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 06:09:37 GMT | Broken Access Control part-7 : User ID controlled by request parameter with data leakage in… | Ahmad Sopyan | [Read More](https://medium.com/p/f765b221e03a) |
 | Tue, 01 Jul 2025 06:07:14 GMT | Broken Access Control part-6 : User ID controlled by request parameter, with unpredictable user IDs | Ahmad Sopyan | [Read More](https://medium.com/p/ee11831c3c1b) |
 | Tue, 01 Jul 2025 06:03:00 GMT | Storing and Searching User-Specific Sensitive Data Securely in Your Database | Akif Kadioglu | [Read More](https://medium.com/p/fa544aa014f3) |
-| Tue, 01 Jul 2025 05:55:48 GMT | JavaScript Files: A Pentester’s Treasure Trove | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ec4c393a23c5) |
-| Tue, 01 Jul 2025 05:55:32 GMT | My First AWS re:Inforce — Key Takeaways and Practical Tips from Philadelphia 2025 | MBI@RocketOps | [Read More](https://medium.com/p/8d29d4603988) |
-| Tue, 01 Jul 2025 05:55:14 GMT | Drupal TFA: A Complete Guide to Securing Your Website with Two-Factor Authentication | Rosy Oliver | [Read More](https://medium.com/p/c7ddee99fa2a) |
-| Tue, 01 Jul 2025 05:41:16 GMT | Top 10 Ways to Achieve Remote Code Execution (RCE) on Web Applications | Facundo Fernandez | [Read More](https://medium.com/p/d923246b916b) |
-| Tue, 01 Jul 2025 05:41:07 GMT | Segurança de Redes | Filipe Campos | [Read More](https://medium.com/p/9084f6cb31e5) |
-| Tue, 01 Jul 2025 05:41:01 GMT | ️ Day in the Life of a SOC Analyst in Training — Entry #1 | Manish Rawat | [Read More](https://medium.com/p/643a8a94b077) |
-| Tue, 01 Jul 2025 05:35:20 GMT | “Mr. Robot CTF: WordPress Exploitation to Root Privilege Escalation” | sivaaditya | [Read More](https://medium.com/p/efed6cc402e7) |
-| Tue, 01 Jul 2025 05:33:37 GMT | How to Prevent Your Social Media from Being Hacked? | UpThoughts | [Read More](https://medium.com/p/1c99e42ffe0f) |
