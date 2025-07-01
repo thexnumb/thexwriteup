@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 09:16:33 GMT | Healthcare Data Center Security: Protecting Patient Information in Qatar | Tekhabeeb | [Read More](https://medium.com/p/5294bfecdb3b) |
+| Tue, 01 Jul 2025 09:11:27 GMT | CSRF Is Still Alive: A Modern Guide for Hackers and Defenders | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2f142232e5ba) |
+| Tue, 01 Jul 2025 09:09:24 GMT | The SolarWinds Supply Chain Attack | Oludare Stephen Ayobami | [Read More](https://medium.com/p/a317aae56ac7) |
+| Tue, 01 Jul 2025 09:07:12 GMT | File upload vulnerability explained like never before. | Rabia Riaz | [Read More](https://medium.com/p/34cf86f31ad0) |
+| Tue, 01 Jul 2025 09:07:04 GMT | AI & Automation Are The Future of Cybersecurity — But Who Gets To Shape It In Kenya & Africa? | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/318b166ecd94) |
+| Tue, 01 Jul 2025 09:06:53 GMT | AI Malware: The New Frontier in Cyber Attacks (And How to Fight Back) | Securseedmena | [Read More](https://medium.com/p/49a607aace94) |
+| Tue, 01 Jul 2025 09:05:19 GMT | What Is ISACA and Why Are Its Certifications Trusted Globally? | Dhanashri Bhale | [Read More](https://medium.com/p/ac7d65158476) |
+| Tue, 01 Jul 2025 09:04:19 GMT | ☁️Cloud Security — Part 1☁️ | Sudarshan Patel | [Read More](https://medium.com/p/a947694aeee5) |
+| Tue, 01 Jul 2025 09:04:14 GMT | Reusing an Expired Invitation to Rejoin the Organization | Khaledelnabet | [Read More](https://medium.com/p/d20ad8aea4c5) |
+| Tue, 01 Jul 2025 09:03:53 GMT | Building a Real-Time Phishing URL Detection Chrome Extension | Nitika Nagdevani | [Read More](https://medium.com/p/f1c2f147472a) |
+| Tue, 01 Jul 2025 09:01:24 GMT | Data Discovery Process | Apto Solutions | [Read More](https://medium.com/p/602ca971f726) |
+| Tue, 01 Jul 2025 09:01:24 GMT | The Hidden Cost of False Positives: How AI Reduces Alert Fatigue by 80% | Paul Sherman | [Read More](https://medium.com/p/6e0efdb6bddb) |
+| Tue, 01 Jul 2025 09:00:20 GMT | Why Now is the Time For IT Career Switch (And How Fortray Helps) | HamnaAhmad | [Read More](https://medium.com/p/a1149a168baf) |
+| Tue, 01 Jul 2025 08:59:28 GMT | CSRF Is Still Alive: A Modern Guide for Hackers and Defenders | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5626528844a6) |
+| Tue, 01 Jul 2025 08:59:27 GMT | ️ Reconic — The OSINT & Reconnaissance Tool I Built for Ethical Hackers Like Me | Inayat Hussain | [Read More](https://medium.com/p/4c5990558de7) |
+| Tue, 01 Jul 2025 08:54:36 GMT | MOVEit Servers Under Mass Scanning — Patch Now | Aj | [Read More](https://medium.com/p/4fec688488ff) |
+| Tue, 01 Jul 2025 08:54:33 GMT | DevSecOps in Action: How to Add Security Checks Across Your Development Lifecycle | Sai Jami | [Read More](https://medium.com/p/ea1074c252e3) |
+| Tue, 01 Jul 2025 08:53:17 GMT | Vulnerability report: CVE-2025–3262 | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/14693c7b84e0) |
 | Tue, 01 Jul 2025 08:51:44 GMT | How to Protect GenAI APIs from Prompt Injection, Data Leaks, and Abuse | Pranav Prakash | [Read More](https://medium.com/p/629975fe11e5) |
 | Tue, 01 Jul 2025 08:43:53 GMT | Local Insight Powers Security Services in Mumbai Today! | United Guard Force India | [Read More](https://medium.com/p/e1e03d137469) |
 | Tue, 01 Jul 2025 08:40:31 GMT | How I Exploited a Hidden CSRF Vulnerability — And How You Can Prevent It | Mr Horbio | [Read More](https://medium.com/p/d089ad23887d) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 03:50:08 GMT | Why Social Engineering Remains Cybersecurity’s Most Persistent Threat | OWilliams | [Read More](https://medium.com/p/d4b3bf7c8e48) |
 | Tue, 01 Jul 2025 03:49:32 GMT | The Future Is Ours to Build: AI, Cybersecurity, Education, and the Autonomous Revolution | Inayat Hussain | [Read More](https://medium.com/p/35a8edff2c66) |
 | Tue, 01 Jul 2025 03:47:49 GMT | [HITB2024] My First and Last Shellcode Loader | CRUNZEX | [Read More](https://medium.com/p/8ed016ccab42) |
-| Tue, 01 Jul 2025 03:42:54 GMT | BUGGED-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/1eff76f2bcea) |
-| Tue, 01 Jul 2025 03:32:51 GMT | The $5 Trap: How Toll Texts Became the Perfect Cyber Scam | Deven Chhajed | [Read More](https://medium.com/p/ad4870ddd455) |
-| Tue, 01 Jul 2025 03:25:38 GMT | The Mentor | Dodi Kurniawan | [Read More](https://medium.com/p/38af1a563cd6) |
-| Tue, 01 Jul 2025 03:20:07 GMT | Cybersecurity Detection: Trapping instead of the Gold Panning | Ivan Fedorets | [Read More](https://medium.com/p/0e8ec38b5800) |
-| Tue, 01 Jul 2025 02:51:15 GMT | The HTTP Basics to Advanced: Beginner Friendly Guide to How the Web Works | Shubham Sharma | [Read More](https://medium.com/p/816ed26017e8) |
-| Tue, 01 Jul 2025 02:39:19 GMT | Volt Typhoon - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/77815891ffd1) |
-| Tue, 01 Jul 2025 02:29:00 GMT | Securing the Future: A Deep Dive into Vulnerability Scanning for AI Systems | Yatharth kapadia | [Read More](https://medium.com/p/46e7f22727ff) |
-| Tue, 01 Jul 2025 02:21:39 GMT | Hacking APIs: Broken Object Property Level Authorization | Israel Aráoz Severiche | [Read More](https://medium.com/p/ac4f0c14975e) |
-| Tue, 01 Jul 2025 02:15:43 GMT | Tuesday Morning Threat Report: July 1, 2025 | Mark Maguire | [Read More](https://medium.com/p/6a279c50240f) |
-| Tue, 01 Jul 2025 02:02:57 GMT | Stuxnet: The Secret Computer Virus That Nearly Started a War | farcentaurus | [Read More](https://medium.com/p/ef4a2d518167) |
-| Tue, 01 Jul 2025 02:01:53 GMT | How to Manage Secrets in Docker | @rnab | [Read More](https://medium.com/p/d300b77ae27a) |
-| Tue, 01 Jul 2025 02:00:34 GMT | Accidental Exposure of Private GraphQL Fields | Bash Overflow | [Read More](https://medium.com/p/4224a916140a) |
-| Tue, 01 Jul 2025 01:52:03 GMT | Personal Information Becomes a Weapon: Consequences of Data Broker Exposure | mePrism Privacy | [Read More](https://medium.com/p/b66df00ac5d9) |
-| Tue, 01 Jul 2025 01:51:35 GMT | Analyzing DNS Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/f46263391d4a) |
-| Tue, 01 Jul 2025 01:44:27 GMT | Wiz IAM CTF challenge writeup | Geek Lady | [Read More](https://medium.com/p/4146d65c466a) |
-| Tue, 01 Jul 2025 01:40:54 GMT | North Korea’s Cybercrime Scheme | Itraj Prithan | [Read More](https://medium.com/p/66092524ba9c) |
-| Tue, 01 Jul 2025 01:39:48 GMT | What Happens When You Upload Your Life? | Cyber-AppSec | [Read More](https://medium.com/p/775057c02598) |
-| Tue, 01 Jul 2025 01:29:27 GMT | Hawaiian Airlines Cybersecurity Breach: A Wake-Up Call for Aviation Risk Intelligence | Silent Boardroom | [Read More](https://medium.com/p/02569f47ff8d) |
