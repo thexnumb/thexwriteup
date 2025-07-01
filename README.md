@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 21:01:49 GMT | ️‍♀️ The Ultimate Bug Bounty Hunting Checklist: From Recon to Reporting | KingOfPiratez | [Read More](https://medium.com/p/99010d5402f3) |
+| Tue, 01 Jul 2025 21:01:49 GMT | 5 False Emotional Stereotypes About Men That Need to Die | Dani Ike | [Read More](https://medium.com/p/9ccf891e66c2) |
+| Tue, 01 Jul 2025 20:37:29 GMT | Security and Accessibility Gaps in Web Authentication for Blind and Visually Impaired Users | SPIES Lab | [Read More](https://medium.com/p/80881b9f3c39) |
 | Tue, 01 Jul 2025 20:35:02 GMT | Day 38: Report writing | Nile Okomo | [Read More](https://medium.com/p/a613e363a571) |
 | Tue, 01 Jul 2025 20:33:11 GMT | Supplier Risk Under NIS2: Could Your Business Be Liable for Third-Party Non-Compliance? | J Bodys | [Read More](https://medium.com/p/95c23ef75a31) |
 | Tue, 01 Jul 2025 20:30:02 GMT | Bulut Bilişim TryHackMe Notlarım | Damla Korkmaz | [Read More](https://medium.com/p/6bd68d66026b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 15:11:56 GMT | Useful Tools and Utilities to Supercharge Your Online Activity | Rajput Parimal | [Read More](https://medium.com/p/a925aef5925c) |
 | Tue, 01 Jul 2025 15:11:02 GMT | How I Tracked Down a Stalker Using OSINT | Guilherme Leite | [Read More](https://medium.com/p/6af3a89a958d) |
 | Tue, 01 Jul 2025 15:02:57 GMT | From Failure to Success: 10 App Security Mistakes I Fixed in 3 Rebuilds | Gulshan N | [Read More](https://medium.com/p/26170d9f759c) |
-| Tue, 01 Jul 2025 15:02:57 GMT | Building Enterprise-Grade AI Code Review: From $47 Surprise Bills to Complete Security Compliance | Steven Wang | [Read More](https://medium.com/p/09e70ffb7410) |
-| Tue, 01 Jul 2025 15:02:57 GMT | Most Azure Data Breaches Start With One Setting — Are You Guilty Too? | Scott Martin | [Read More](https://medium.com/p/f79242c59a26) |
-| Tue, 01 Jul 2025 15:01:00 GMT | A New Era for Content Ownership: Cloudflare Declares “Content Independence Day” | Thomas Testi | [Read More](https://medium.com/p/c45b70906dd3) |
