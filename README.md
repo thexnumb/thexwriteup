@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 20:35:02 GMT | Day 38: Report writing | Nile Okomo | [Read More](https://medium.com/p/a613e363a571) |
+| Tue, 01 Jul 2025 20:33:11 GMT | Supplier Risk Under NIS2: Could Your Business Be Liable for Third-Party Non-Compliance? | J Bodys | [Read More](https://medium.com/p/95c23ef75a31) |
+| Tue, 01 Jul 2025 20:30:02 GMT | Bulut Bilişim TryHackMe Notlarım | Damla Korkmaz | [Read More](https://medium.com/p/6bd68d66026b) |
 | Tue, 01 Jul 2025 20:18:07 GMT | Making a RS485 themed challenge: Serial Gate (Flipper Zero Modbus RTU shield compatible). | biero llagas | [Read More](https://medium.com/p/925dee9dcee1) |
 | Tue, 01 Jul 2025 20:12:18 GMT | Loglamada Gözden Kaçan Risk: Registry İzlemenin Önemi | Just Moi | [Read More](https://medium.com/p/920ad8fca30a) |
 | Tue, 01 Jul 2025 20:05:47 GMT | Indians Building Bridges, Not Just Careers: The Onstralytics Journey from India to Germany | Ankit Biswas | [Read More](https://medium.com/p/8856f54f7fa3) |
@@ -30,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 19:14:41 GMT | Building a T-Pot Honeypot for Attack Detection and Analysis | Jon Pham | [Read More](https://medium.com/p/8b75a9dde90e) |
 | Tue, 01 Jul 2025 19:14:10 GMT | Three Sharp Raps | NRWillick | [Read More](https://medium.com/p/e56200e5ba63) |
 | Tue, 01 Jul 2025 19:08:41 GMT | The Quiet Guilt That Stole 5 Years of My Life | Swapnil Agarwal - The Fit Dev | [Read More](https://medium.com/p/d99de8f45eb3) |
+| Tue, 01 Jul 2025 19:08:24 GMT | RAG vs ChatGPT | Marc Dispensa | [Read More](https://medium.com/p/bf04322ba61d) |
 | Tue, 01 Jul 2025 19:05:10 GMT | Behind the Mask: How Tor’s Anonymity Breaks Down | P3rryTHEplatipu55 | [Read More](https://medium.com/p/1c154762b919) |
 | Tue, 01 Jul 2025 19:04:19 GMT | Navigating the Cybersecurity Labyrinth: From Vendors to a Sustainable Career Path | Yaroslav | [Read More](https://medium.com/p/d7857dae87c5) |
 | Tue, 01 Jul 2025 19:00:55 GMT | The AI’s Existential Crisis: An Unexpected Journey with Cursor and Gemini 2.5 Pro | Brian Soby | [Read More](https://medium.com/p/7dd811ba7e5e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 15:02:57 GMT | Building Enterprise-Grade AI Code Review: From $47 Surprise Bills to Complete Security Compliance | Steven Wang | [Read More](https://medium.com/p/09e70ffb7410) |
 | Tue, 01 Jul 2025 15:02:57 GMT | Most Azure Data Breaches Start With One Setting — Are You Guilty Too? | Scott Martin | [Read More](https://medium.com/p/f79242c59a26) |
 | Tue, 01 Jul 2025 15:01:00 GMT | A New Era for Content Ownership: Cloudflare Declares “Content Independence Day” | Thomas Testi | [Read More](https://medium.com/p/c45b70906dd3) |
-| Tue, 01 Jul 2025 15:00:08 GMT | picoCTF — WebDecode | Robby firdauzy | [Read More](https://medium.com/p/477d21855cc3) |
-| Tue, 01 Jul 2025 14:57:19 GMT | RabbitMQ Security: Complete Guide for Enterprise Message Broker Systems | Okan Yıldız | [Read More](https://medium.com/p/cea5318be941) |
-| Tue, 01 Jul 2025 14:47:28 GMT | When the Grind Drains You: The Dark Side of Bug Bounty | Medusa | [Read More](https://medium.com/p/325ce9c3692b) |
-| Tue, 01 Jul 2025 14:44:10 GMT | TEMEL NETWORK | Berat K. | [Read More](https://medium.com/p/44853d378f42) |
