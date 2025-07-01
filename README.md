@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 10:08:29 GMT | ICS ve SCADA Pentester’ları için PERA Modeli Neden Önemlidir? | Hazar Taspinar | [Read More](https://medium.com/p/168d2d9c58e0) |
+| Tue, 01 Jul 2025 10:08:24 GMT | Why I Love Helping Others — But Struggle to Ask for Help | Liyuan Malone | [Read More](https://medium.com/p/4432e3baa4f3) |
+| Tue, 01 Jul 2025 10:06:18 GMT | “Update Now: Bir Tıkla Güvende Kal” | Çağrı Yıldırımer | [Read More](https://medium.com/p/3fe8c9e3e8b8) |
+| Tue, 01 Jul 2025 10:02:36 GMT | Starting a Career in Cyber Security After 12th in India | Plm | [Read More](https://medium.com/p/d1fe46756c4b) |
+| Tue, 01 Jul 2025 10:01:28 GMT | Bypassing Application Limit on Free Plan via Parallel Requests | Khaledelnabet | [Read More](https://medium.com/p/10352549fc36) |
+| Tue, 01 Jul 2025 09:58:26 GMT | IDOR: Improper Access Control in Meta Verified Waiting List Management | Ramzy Bouyahya | [Read More](https://medium.com/p/e01ca89b37d4) |
+| Tue, 01 Jul 2025 09:55:36 GMT | Implementing DevSecOps: Integrating Security into Your CI/CD Pipeline | David Massiha | [Read More](https://medium.com/p/6f20a407431b) |
+| Tue, 01 Jul 2025 09:54:44 GMT | SQL Injection Vulnerability (THM) | pallavi zarkar | [Read More](https://medium.com/p/6c9d810c7e53) |
+| Tue, 01 Jul 2025 09:50:45 GMT | The Silent Kafka ACL Killer: How Prefixed "*" Nearly Broke Our Development and How You Can Avoid It | kuldeep singh bharati | [Read More](https://medium.com/p/3ab85efeb399) |
+| Tue, 01 Jul 2025 09:49:32 GMT | Top 3 Security Training Platforms in 2025 (Tested for Hands-On Learning) | InfoSec Write-ups | [Read More](https://medium.com/p/c552cc14ccce) |
+| Tue, 01 Jul 2025 09:48:53 GMT | Day #5: Log Analysis Basics Catching SSH Brute Force Attacks with Linux Auth Logs | Rishavkumarthapa | [Read More](https://medium.com/p/9ae150f56cc2) |
+| Tue, 01 Jul 2025 09:47:46 GMT | Day 2 – The Shift: From User to Hunter | An0n | [Read More](https://medium.com/p/6037fe4cd6f5) |
+| Tue, 01 Jul 2025 09:45:54 GMT | How to protect your data from Ransomware: The Digital Pandemic — Why It’s Worse Than You Think”… | Mohammed Yaseen | [Read More](https://medium.com/p/cf467061e98c) |
+| Tue, 01 Jul 2025 09:45:50 GMT | Breaking Down Common Cyber Attacks: Phishing, Malware, and More | Gaarv Chauhan | [Read More](https://medium.com/p/6a06cea89452) |
 | Tue, 01 Jul 2025 09:39:31 GMT | How to Activate Palo Alto Networks Firewall Licenses | Damon Lin | [Read More](https://medium.com/p/c432b3bbf10d) |
 | Tue, 01 Jul 2025 09:36:07 GMT | ☁️Cloud Security - Alert: Exposed lambda functions | Sudarshan Patel | [Read More](https://medium.com/p/a10f86d0b4bf) |
 | Tue, 01 Jul 2025 09:30:46 GMT | Google Patches Actively Exploited Chrome Zero-Day (CVE-2025–1234) Affecting Skia Graphics Engine | CyBlog | [Read More](https://medium.com/p/39ddad105149) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 05:41:01 GMT | ️ Day in the Life of a SOC Analyst in Training — Entry #1 | Manish Rawat | [Read More](https://medium.com/p/643a8a94b077) |
 | Tue, 01 Jul 2025 05:35:20 GMT | “Mr. Robot CTF: WordPress Exploitation to Root Privilege Escalation” | sivaaditya | [Read More](https://medium.com/p/efed6cc402e7) |
 | Tue, 01 Jul 2025 05:33:37 GMT | How to Prevent Your Social Media from Being Hacked? | UpThoughts | [Read More](https://medium.com/p/1c99e42ffe0f) |
-| Tue, 01 Jul 2025 05:32:45 GMT | Why Most ATT&CK Mappings Are Lazy | NK Cyber | [Read More](https://medium.com/p/08d8993dbafc) |
-| Tue, 01 Jul 2025 05:29:59 GMT | Real-World Guide: Automatically Clean up Unused IAM Users | Yogesh Gupta | [Read More](https://medium.com/p/33302ab3ebc0) |
-| Tue, 01 Jul 2025 05:29:38 GMT | Zoomex partners with HackenProof to launch a new Vulnerability Bounty Program! | Zoomex Official | [Read More](https://medium.com/p/a6725b3cfa8a) |
-| Tue, 01 Jul 2025 05:29:26 GMT | Should You Use Incognito Mode? Here’s What It Actually Does! | Theriyathathai Therinjikonga | [Read More](https://medium.com/p/a98127473605) |
-| Tue, 01 Jul 2025 05:27:54 GMT | The Role of Cybersecurity in the Modern Digital Age | Owuorsteaven | [Read More](https://medium.com/p/2eb19278b56c) |
-| Tue, 01 Jul 2025 05:27:39 GMT | IT Careers of the Future: 5 High-Growth Roles You Can Prepare for Today | Symbiosis Distance Learning (SCDL) | [Read More](https://medium.com/p/64cacab42092) |
-| Tue, 01 Jul 2025 05:21:27 GMT | XSS Attacks: Types, Exploits & Fixes | Jubaercoding | [Read More](https://medium.com/p/1fd768e9c203) |
-| Tue, 01 Jul 2025 05:12:37 GMT | About me- My Journey as a writer and Tech Enthusiast | Owuorsteaven | [Read More](https://medium.com/p/ffa220da802b) |
-| Tue, 01 Jul 2025 05:11:58 GMT | OWASP Gen AI Security for LLM Application | Dhiraj Patra | [Read More](https://medium.com/p/7795887a13a5) |
-| Tue, 01 Jul 2025 05:02:29 GMT | DevSecOps Automation: Building Security into CI/CD Without Breaking Developer Velocity | Andrei Ivan | [Read More](https://medium.com/p/45b40542e7ad) |
-| Tue, 01 Jul 2025 04:54:42 GMT | The Linux Security Journey — CryptoAPI (Cryptography Application Programming Interface) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0d026bf4589e) |
-| Tue, 01 Jul 2025 04:46:06 GMT | The Surprising Link Between Vulnerability & Relationship Strength | Preethi Sunallini | [Read More](https://medium.com/p/aa3650771726) |
-| Tue, 01 Jul 2025 04:34:33 GMT | SQL Injection Praktikası: Manual Hücum Nümunəsi | Natiq Salifov | [Read More](https://medium.com/p/6835517f78c5) |
-| Tue, 01 Jul 2025 04:24:30 GMT | Breaking Down Vulnerabilities: | LIJO JKV | [Read More](https://medium.com/p/8b4266eb4fed) |
