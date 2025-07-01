@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 15:33:35 GMT | How I Used a “Digital Detective” to Find Sensitive Data in My S3 Buckets | Aashishchaudhari | [Read More](https://medium.com/p/9feb241934f5) |
+| Tue, 01 Jul 2025 15:30:39 GMT | Technology with a Conscience: How to Innovate Without Losing Control | Sharon Duran | [Read More](https://medium.com/p/d01e04c1dca8) |
+| Tue, 01 Jul 2025 15:28:32 GMT | Ensuring Security and Compliance in Cloud-Native AWS Environments | Ilya Demidov | [Read More](https://medium.com/p/427d51e48718) |
+| Tue, 01 Jul 2025 15:27:13 GMT | What to Do If Your New Product Requires Software That Collects Your Personal Data | StoryWord | [Read More](https://medium.com/p/3e665de6c8ec) |
+| Tue, 01 Jul 2025 15:21:26 GMT | A Newbie’s Write-up of the SWU CTF: Reverse Engineering part | Athiwat Tiprasaharn | [Read More](https://medium.com/p/3564eb163fa3) |
 | Tue, 01 Jul 2025 15:18:15 GMT | VAPT Report on Credential Security in Windows 10 based Healthcare Infrastructure | Aditya Bhatt | [Read More](https://medium.com/p/e395a202417a) |
 | Tue, 01 Jul 2025 15:18:12 GMT | Industrial Intrusion CTF by TryHackMe | Santhos Sunthar | [Read More](https://medium.com/p/b342a07d891d) |
 | Tue, 01 Jul 2025 15:15:59 GMT | Streamlining Wazuh SSO with Keycloak: A Hands-On OIDC Integration Guide | Yash Patel | [Read More](https://medium.com/p/c952f5419a5a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 10:08:29 GMT | ICS ve SCADA Pentester’ları için PERA Modeli Neden Önemlidir? | Hazar Taspinar | [Read More](https://medium.com/p/168d2d9c58e0) |
 | Tue, 01 Jul 2025 10:08:24 GMT | Why I Love Helping Others — But Struggle to Ask for Help | Liyuan Malone | [Read More](https://medium.com/p/4432e3baa4f3) |
 | Tue, 01 Jul 2025 10:06:18 GMT | “Update Now: Bir Tıkla Güvende Kal” | Çağrı Yıldırımer | [Read More](https://medium.com/p/3fe8c9e3e8b8) |
-| Tue, 01 Jul 2025 10:02:36 GMT | Starting a Career in Cyber Security After 12th in India | Plm | [Read More](https://medium.com/p/d1fe46756c4b) |
-| Tue, 01 Jul 2025 10:01:28 GMT | Bypassing Application Limit on Free Plan via Parallel Requests | Khaledelnabet | [Read More](https://medium.com/p/10352549fc36) |
-| Tue, 01 Jul 2025 09:58:26 GMT | IDOR: Improper Access Control in Meta Verified Waiting List Management | Ramzy Bouyahya | [Read More](https://medium.com/p/e01ca89b37d4) |
-| Tue, 01 Jul 2025 09:55:36 GMT | Implementing DevSecOps: Integrating Security into Your CI/CD Pipeline | David Massiha | [Read More](https://medium.com/p/6f20a407431b) |
-| Tue, 01 Jul 2025 09:54:44 GMT | SQL Injection Vulnerability (THM) | pallavi zarkar | [Read More](https://medium.com/p/6c9d810c7e53) |
