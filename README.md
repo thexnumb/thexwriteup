@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 01:44:27 GMT | Wiz IAM CTF challenge writeup | Geek Lady | [Read More](https://medium.com/p/4146d65c466a) |
+| Tue, 01 Jul 2025 01:40:54 GMT | North Korea’s Cybercrime Scheme | Itraj Prithan | [Read More](https://medium.com/p/66092524ba9c) |
+| Tue, 01 Jul 2025 01:39:48 GMT | What Happens When You Upload Your Life? | Cyber-AppSec | [Read More](https://medium.com/p/775057c02598) |
+| Tue, 01 Jul 2025 01:29:27 GMT | Hawaiian Airlines Cybersecurity Breach: A Wake-Up Call for Aviation Risk Intelligence | Silent Boardroom | [Read More](https://medium.com/p/02569f47ff8d) |
+| Tue, 01 Jul 2025 01:24:20 GMT | Understanding Flash USDT: A Quick Insight | Jorok | [Read More](https://medium.com/p/530ec4a33622) |
+| Tue, 01 Jul 2025 01:21:34 GMT | What Is Flash USDT? Know Before You're Tricked | Jorok | [Read More](https://medium.com/p/1ef08797942e) |
+| Tue, 01 Jul 2025 01:19:08 GMT | I will write CV resume for finance investment bankers accountant mergers professionals | Promaxomolola | [Read More](https://medium.com/p/6bdb80f20cd1) |
+| Tue, 01 Jul 2025 01:09:46 GMT | 16 Billion Login Credentials Leaked in One of the Largest Data Breaches Ever | SafetyDetectives Research Team | [Read More](https://medium.com/p/1f94f62b1e9a) |
+| Tue, 01 Jul 2025 01:09:27 GMT | Crosswalk Mapping | Athira K B | [Read More](https://medium.com/p/2b389b6c3c3b) |
+| Tue, 01 Jul 2025 01:07:42 GMT | Ghosting the internet | Mark Dewolf | [Read More](https://medium.com/p/c4884ca259a9) |
+| Tue, 01 Jul 2025 01:07:27 GMT | 61 Million Records Allegedly Belonging to Verizon Listed for Sale Online | SafetyDetectives Research Team | [Read More](https://medium.com/p/05195a1fd0b5) |
+| Tue, 01 Jul 2025 00:56:06 GMT | CoinEx, Huobi, FloorDAO: When Keys, Logic, and Supply Control All Fail | Olympix | [Read More](https://medium.com/p/86ef8db4bbba) |
+| Tue, 01 Jul 2025 00:31:16 GMT | Data-Driven Quality Improvement in Healthcare: Real Examples | Mindful Data | [Read More](https://medium.com/p/1ec2250c0b7a) |
+| Tue, 01 Jul 2025 00:27:01 GMT | Remitano, GAMBL, Rocketswap: When Ops Errors Beat Code Exploits | Olympix | [Read More](https://medium.com/p/c7ad2c41fa15) |
+| Tue, 01 Jul 2025 00:23:10 GMT | 5 Essential Components of CCTV Camera System | Visual Monitoring Solutions | [Read More](https://medium.com/p/bbf8ff97c044) |
+| Tue, 01 Jul 2025 00:10:07 GMT | Flash USDT Explained – For Educational Purposes Only | Picaga | [Read More](https://medium.com/p/18bca25c5976) |
+| Tue, 01 Jul 2025 00:08:05 GMT | Stake, Zunami, Steadefi: Key Compromise, Price Games, and Reentrancy Loops | Olympix | [Read More](https://medium.com/p/ccad93ba1d57) |
+| Mon, 30 Jun 2025 23:57:02 GMT | AI Meets Identity: Early Inflection Points and Security Implications | Abhay Kulkarni | [Read More](https://medium.com/p/bf1fb66b6f46) |
 | Mon, 30 Jun 2025 23:23:29 GMT | BITPANDA | NKAMAETI ESU | [Read More](https://medium.com/p/ea4a42a42b02) |
 | Mon, 30 Jun 2025 23:22:34 GMT | The Beginner’s Guide to Bugs Bunny $BUGS for Maximum Gains | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/f0a829967172) |
 | Mon, 30 Jun 2025 23:17:57 GMT | Security Auditing Terms Explained — Like You’re Playing Chess with Hackers | Mujtaba Shaikeldin | [Read More](https://medium.com/p/3dff095977c4) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 18:19:06 GMT | Industrial Intrusion CTF - Task 3 -Breach - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/a385d55816ab) |
 | Mon, 30 Jun 2025 18:16:03 GMT | “When Presence isn’t Enough” | Imóla | [Read More](https://medium.com/p/61752587b536) |
 | Mon, 30 Jun 2025 18:09:54 GMT | Is AI Spying on You? What You Should Know in 2025 | WebBees | [Read More](https://medium.com/p/4c0a6770caa6) |
-| Mon, 30 Jun 2025 18:07:28 GMT | Rebuilding the Future on Contextual Authorization | Anoop Gangadharan | [Read More](https://medium.com/p/3ce2cd81f2a8) |
-| Mon, 30 Jun 2025 18:06:53 GMT | Apparently, a “good vendor” needs three things: good company, good product, and good sales people. | M H | [Read More](https://medium.com/p/c78057d923f6) |
-| Mon, 30 Jun 2025 18:05:06 GMT | Ukraine Cyber Threat Escalates: GIFTEDCROOK Steals Critical Data | Aj | [Read More](https://medium.com/p/b8b9c928fab4) |
-| Mon, 30 Jun 2025 18:04:35 GMT | Visualize Privacy: Why Dmail Makes Your Inbox Truly Yours | Web3Sunshine | [Read More](https://medium.com/p/03d79b431300) |
-| Mon, 30 Jun 2025 18:04:32 GMT | Here Is How I Recover My Money From Fginvest Group | Emma Watson | [Read More](https://medium.com/p/0ae8d85b033d) |
-| Mon, 30 Jun 2025 17:58:16 GMT | How To Reframe Our Understanding of Emotional Depth | Ivan N. | [Read More](https://medium.com/p/e8e8a7abfe60) |
-| Mon, 30 Jun 2025 17:57:05 GMT | NERC CIP Standard Demystified | Asad Syed | [Read More](https://medium.com/p/83374c54eb4f) |
-| Mon, 30 Jun 2025 17:53:18 GMT | Understanding Emerging Threats: Iranian Cyber Actors Targeting US Networks and How Organizations… | Chetan Seripally | [Read More](https://medium.com/p/06c058e40d85) |
-| Mon, 30 Jun 2025 17:50:14 GMT | Securing Multi-Tenant Data with MongoDB’s ExpliClient-Side Field Level Encryption and FastAPI | Vinod Krishnan | [Read More](https://medium.com/p/dc554ec478aa) |
-| Mon, 30 Jun 2025 17:47:47 GMT | Vibe Coding vs. AI Slop: Building Trust into AI Assisted Development | Anoop Gangadharan | [Read More](https://medium.com/p/e649e0580c18) |
-| Mon, 30 Jun 2025 17:45:51 GMT | How AI Started Hacking | Mohammad AlSarabi | [Read More](https://medium.com/p/0495244f6e5c) |
-| Mon, 30 Jun 2025 17:37:26 GMT | Securing Websites Against XSS Attacks: A Developer’s Guide to Safer Web Applications | SafeAeon Inc. | [Read More](https://medium.com/p/d81e1217bdd6) |
-| Mon, 30 Jun 2025 17:37:21 GMT | A practical guide to understanding the OSI Model and how it strengthens cybersecurity strategies. | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/2b3aad005202) |
-| Mon, 30 Jun 2025 17:32:15 GMT | How a Controlled Breach Test Helped Me Harden My Linux Server Instantly | Faruk Ahmed | [Read More](https://medium.com/p/2970664c336f) |
-| Mon, 30 Jun 2025 17:29:33 GMT | Key Points on Penetration Testing (Pentesting) | Aman patel | [Read More](https://medium.com/p/081a1288f1b1) |
-| Mon, 30 Jun 2025 17:23:19 GMT | Stop Drowning in CVEs: How to Actually Fix Vulnerabilities (Not Just Find Them) | Sophia | [Read More](https://medium.com/p/c17982fe4586) |
-| Mon, 30 Jun 2025 17:20:20 GMT | Cybersecurity Best Practices: 10 Essential Steps for 2025 | Codevirussec | [Read More](https://medium.com/p/e4db6abfd1d9) |
-| Mon, 30 Jun 2025 17:13:11 GMT | Lab: Reflected DOM XSS | Chirag Vyas | [Read More](https://medium.com/p/2a91fe5a13b5) |
