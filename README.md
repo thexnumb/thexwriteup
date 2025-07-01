@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 11:26:30 GMT | Try Hack Me — Industrial Intrusion CTF 2025 — Under Construction Write Up | Lunacysoft | [Read More](https://medium.com/p/bcce3e7b4911) |
+| Tue, 01 Jul 2025 11:19:41 GMT | SafePal x GoPlus Joint Report - Comprehensive On-Chain Phishing Analysis and User Anti-Fraud Guide | GoPlus Security | [Read More](https://medium.com/p/539091c21bad) |
+| Tue, 01 Jul 2025 11:19:16 GMT | How Internet had Learn to Whisper ?(TLS Simplified) | Mr Ayman Tech | [Read More](https://medium.com/p/0369b88d9466) |
+| Tue, 01 Jul 2025 11:17:34 GMT | TryHackMe Industrial Intrusion-Chess Industrion/Task-15 | Efe | [Read More](https://medium.com/p/30216cf520ad) |
+| Tue, 01 Jul 2025 11:13:34 GMT | From Viral API Key Leaks to AI-Driven Governance: How OneX Lense Can Change the Game | Shuja Ahmed | [Read More](https://medium.com/p/b867680d2f87) |
 | Tue, 01 Jul 2025 11:11:16 GMT | Code Red: AI in the Sky | Dr. Pam Palmater | [Read More](https://medium.com/p/c0c789af6e0c) |
 | Tue, 01 Jul 2025 11:07:53 GMT | What Is Cybersecurity Transformation? Best Practices For Success | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/a5e9200ae5d0) |
 | Tue, 01 Jul 2025 11:04:58 GMT | Why Real Cyber Defenders Think Like Hackers — And What Most Security Teams Still Get Wrong | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/aaf0b94c54c6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 06:44:27 GMT | Authentication Bypass via Email Domain Suffix Manipulation | Bishal Shrestha | [Read More](https://medium.com/p/c866501c7b4b) |
 | Tue, 01 Jul 2025 06:37:36 GMT | Why Me?? | Serafhel Jade | [Read More](https://medium.com/p/4af851655816) |
 | Tue, 01 Jul 2025 06:37:01 GMT | How to Use Google Dorks in PT or Bug Hunting Activities Professionally & Simply? | Faisal Alshaghdali | [Read More](https://medium.com/p/a61b88ff7601) |
-| Tue, 01 Jul 2025 06:32:16 GMT | Fake WPS & DeepSeek Sites Target Chinese Users | Aj | [Read More](https://medium.com/p/bc931b6f694a) |
-| Tue, 01 Jul 2025 06:32:10 GMT | Cybersecurity Nightmare: 16 Billion Passwords Exposed in Data Breach | Mayank Jindal | [Read More](https://medium.com/p/c5886437a318) |
-| Tue, 01 Jul 2025 06:30:55 GMT | This ‘Online Lover’ Asked For Money I Tracked His Script Word For Word. | The Anti-Scam Diaries | [Read More](https://medium.com/p/0028701d7cab) |
-| Tue, 01 Jul 2025 06:29:43 GMT | Best Security Guard Companies in Pune 2025 | United Guard Force India | [Read More](https://medium.com/p/ea4109892655) |
-| Tue, 01 Jul 2025 06:20:30 GMT | SIEM Lab: Wazuh Intro and Installation | Stevanus Banu | [Read More](https://medium.com/p/82ae6b983b2b) |
