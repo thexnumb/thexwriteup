@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 22:15:03 GMT | Exploring Ticket Resolution Time with Field Parameters in Power BI | Bryant Greaves | [Read More](https://medium.com/p/8af043d6c49b) |
+| Tue, 01 Jul 2025 22:08:41 GMT | The Cybersecurity Crisis in Healthcare | Ria Sinha | [Read More](https://medium.com/p/f30e4a23ec38) |
+| Tue, 01 Jul 2025 22:06:29 GMT | What Is IDOR? How I Learned to Spot Insecure Direct Object References (Legally) | Nitish Reddy | [Read More](https://medium.com/p/6c0740b67322) |
+| Tue, 01 Jul 2025 22:01:01 GMT | Before the Hack: Understanding Reconnaissance in Hacking | Goose Gustin | [Read More](https://medium.com/p/a1fccc975e96) |
+| Tue, 01 Jul 2025 21:59:29 GMT | Write-up PicoCTF (Capture The Flag) — Commitment Issues | Sérgio Corrêa | [Read More](https://medium.com/p/6c3f237f470f) |
+| Tue, 01 Jul 2025 21:58:35 GMT | New Study Uncovers Privacy Risks: VR Headsets Can Secretly Monitor Your Blood Pressure | SPIES Lab at TAMU | [Read More](https://medium.com/p/6c95b5e920f2) |
+| Tue, 01 Jul 2025 21:57:41 GMT | Cybersecurity for Traveling into a War Zone | J. Trent Adams | [Read More](https://medium.com/p/fd260d5075fe) |
+| Tue, 01 Jul 2025 21:51:42 GMT | When I first got into cybersecurity, I remember how overwhelming alerts could feel. | Nitish Reddy | [Read More](https://medium.com/p/7fb0c6e7524a) |
+| Tue, 01 Jul 2025 21:48:45 GMT | Phishing Links to Red Flags: Using Google’s Safe Browse APIs to build your own URL checking Utility | Amit Nigam | [Read More](https://medium.com/p/ed44f1ea211b) |
+| Tue, 01 Jul 2025 21:48:44 GMT | TryHackMe Dogcat — Walkthrough | mauzware | [Read More](https://medium.com/p/bb8dcf008c9d) |
 | Tue, 01 Jul 2025 21:20:30 GMT | Remote Access That Gave Me the Answers I Needed | Duzanflorenzi | [Read More](https://medium.com/p/89fc9de91c04) |
 | Tue, 01 Jul 2025 21:15:18 GMT | The Rise of Artificial Intelligence (AI) and the Growing Necessity for AI-Specific Legal Expertise… | Brad Namdar | [Read More](https://medium.com/p/62cc5c8f8b85) |
 | Tue, 01 Jul 2025 21:14:24 GMT | So, What’s a Pentest Really? (And Why Should You Care?) | Mark Puckett | [Read More](https://medium.com/p/24e5c7f774fa) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 15:43:10 GMT | Boeing names Stephen Parker as CEO of defense, space & security | Marcello Strano | [Read More](https://medium.com/p/d95eb3a238de) |
 | Tue, 01 Jul 2025 15:42:49 GMT | JWT Nedir? Güvenlik Açıkları, Saldırı Türleri ve Uygulamalı Lab Çözümü 1 Bölüm | Oruç | [Read More](https://medium.com/p/27d16606129e) |
 | Tue, 01 Jul 2025 15:42:38 GMT | RWAFI Chain: Revolutionizing Real-World Asset Tokenization | STANLEY | [Read More](https://medium.com/p/90a384dfe2d7) |
-| Tue, 01 Jul 2025 15:40:06 GMT | You Don’t Have to Be Okay All the Time to Be Worthy | Krishraar Rathore | [Read More](https://medium.com/p/e57f02d26854) |
-| Tue, 01 Jul 2025 15:33:35 GMT | How I Used a “Digital Detective” to Find Sensitive Data in My S3 Buckets | Aashishchaudhari | [Read More](https://medium.com/p/9feb241934f5) |
-| Tue, 01 Jul 2025 15:30:39 GMT | Technology with a Conscience: How to Innovate Without Losing Control | Sharon Duran | [Read More](https://medium.com/p/d01e04c1dca8) |
-| Tue, 01 Jul 2025 15:28:32 GMT | Ensuring Security and Compliance in Cloud-Native AWS Environments | Ilya Demidov | [Read More](https://medium.com/p/427d51e48718) |
-| Tue, 01 Jul 2025 15:27:13 GMT | What to Do If Your New Product Requires Software That Collects Your Personal Data | StoryWord | [Read More](https://medium.com/p/3e665de6c8ec) |
-| Tue, 01 Jul 2025 15:21:26 GMT | A Newbie’s Write-up of the SWU CTF: Reverse Engineering part | Athiwat Tiprasaharn | [Read More](https://medium.com/p/3564eb163fa3) |
-| Tue, 01 Jul 2025 15:18:15 GMT | VAPT Report on Credential Security in Windows 10 based Healthcare Infrastructure | Aditya Bhatt | [Read More](https://medium.com/p/e395a202417a) |
-| Tue, 01 Jul 2025 15:18:12 GMT | Industrial Intrusion CTF by TryHackMe | Santhos Sunthar | [Read More](https://medium.com/p/b342a07d891d) |
-| Tue, 01 Jul 2025 15:15:59 GMT | Streamlining Wazuh SSO with Keycloak: A Hands-On OIDC Integration Guide | Yash Patel | [Read More](https://medium.com/p/c952f5419a5a) |
-| Tue, 01 Jul 2025 15:15:16 GMT | Introducing Guided Coin-Flip Seed Generation in SeedSigner | Nitish Itankar | [Read More](https://medium.com/p/04aa93c6d1ff) |
