@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 03:32:51 GMT | The $5 Trap: How Toll Texts Became the Perfect Cyber Scam | Deven Chhajed | [Read More](https://medium.com/p/ad4870ddd455) |
+| Tue, 01 Jul 2025 03:20:07 GMT | Cybersecurity Detection: Trapping instead of the Gold Panning | Ivan Fedorets | [Read More](https://medium.com/p/0e8ec38b5800) |
+| Tue, 01 Jul 2025 02:51:15 GMT | The HTTP Basics to Advanced: Beginner Friendly Guide to How the Web Works | Shubham Sharma | [Read More](https://medium.com/p/816ed26017e8) |
+| Tue, 01 Jul 2025 02:39:19 GMT | Volt Typhoon - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/77815891ffd1) |
+| Tue, 01 Jul 2025 02:29:00 GMT | Securing the Future: A Deep Dive into Vulnerability Scanning for AI Systems | Yatharth kapadia | [Read More](https://medium.com/p/46e7f22727ff) |
+| Tue, 01 Jul 2025 02:21:39 GMT | Hacking APIs: Broken Object Property Level Authorization | Israel Aráoz Severiche | [Read More](https://medium.com/p/ac4f0c14975e) |
+| Tue, 01 Jul 2025 02:15:43 GMT | Tuesday Morning Threat Report: July 1, 2025 | Mark Maguire | [Read More](https://medium.com/p/6a279c50240f) |
+| Tue, 01 Jul 2025 02:02:57 GMT | Stuxnet: The Secret Computer Virus That Nearly Started a War | farcentaurus | [Read More](https://medium.com/p/ef4a2d518167) |
+| Tue, 01 Jul 2025 02:01:53 GMT | How to Manage Secrets in Docker | @rnab | [Read More](https://medium.com/p/d300b77ae27a) |
+| Tue, 01 Jul 2025 02:00:34 GMT | Accidental Exposure of Private GraphQL Fields | Bash Overflow | [Read More](https://medium.com/p/4224a916140a) |
+| Tue, 01 Jul 2025 01:52:03 GMT | Personal Information Becomes a Weapon: Consequences of Data Broker Exposure | mePrism Privacy | [Read More](https://medium.com/p/b66df00ac5d9) |
+| Tue, 01 Jul 2025 01:51:35 GMT | Analyzing DNS Log Files Using Splunk SIEM | Hassen Hannachi | [Read More](https://medium.com/p/f46263391d4a) |
 | Tue, 01 Jul 2025 01:44:27 GMT | Wiz IAM CTF challenge writeup | Geek Lady | [Read More](https://medium.com/p/4146d65c466a) |
 | Tue, 01 Jul 2025 01:40:54 GMT | North Korea’s Cybercrime Scheme | Itraj Prithan | [Read More](https://medium.com/p/66092524ba9c) |
 | Tue, 01 Jul 2025 01:39:48 GMT | What Happens When You Upload Your Life? | Cyber-AppSec | [Read More](https://medium.com/p/775057c02598) |
@@ -29,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 00:23:10 GMT | 5 Essential Components of CCTV Camera System | Visual Monitoring Solutions | [Read More](https://medium.com/p/bbf8ff97c044) |
 | Tue, 01 Jul 2025 00:10:07 GMT | Flash USDT Explained – For Educational Purposes Only | Picaga | [Read More](https://medium.com/p/18bca25c5976) |
 | Tue, 01 Jul 2025 00:08:05 GMT | Stake, Zunami, Steadefi: Key Compromise, Price Games, and Reentrancy Loops | Olympix | [Read More](https://medium.com/p/ccad93ba1d57) |
+| Tue, 01 Jul 2025 00:01:29 GMT | gf: Tu Aliado Indispensable para el Reconocimiento y Detección de Vulnerabilidades en Bug Bounty | JPablo13 | [Read More](https://medium.com/p/b6612f85fb66) |
 | Mon, 30 Jun 2025 23:57:02 GMT | AI Meets Identity: Early Inflection Points and Security Implications | Abhay Kulkarni | [Read More](https://medium.com/p/bf1fb66b6f46) |
 | Mon, 30 Jun 2025 23:23:29 GMT | BITPANDA | NKAMAETI ESU | [Read More](https://medium.com/p/ea4a42a42b02) |
 | Mon, 30 Jun 2025 23:22:34 GMT | The Beginner’s Guide to Bugs Bunny $BUGS for Maximum Gains | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/f0a829967172) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Jun 2025 18:49:18 GMT | Enterprise-Grade RBAC in NestJS: Building HIPAA-Compliant Access Control with Emergency Overrides | Vishad Patel | [Read More](https://medium.com/p/8c07205e08c9) |
 | Mon, 30 Jun 2025 18:47:08 GMT | CyberDefenders Lab : XLMRat (Network Forensics) | Sarkhelranit | [Read More](https://medium.com/p/64b5c84d33f1) |
 | Mon, 30 Jun 2025 18:43:56 GMT | The Life Cycle of a Vulnerability: What Happens Before and After a CVE is Published? | Yuksel | [Read More](https://medium.com/p/beb386450bf5) |
-| Mon, 30 Jun 2025 18:40:50 GMT | Cyber Storm Unleashed: 35 Arrested in ₹3 Crore Online Scam! | Nitin Saraswat | [Read More](https://medium.com/p/8d00f01f04f7) |
-| Mon, 30 Jun 2025 18:31:24 GMT | Your Unposted Photos? Facebook Wants Them | Aj | [Read More](https://medium.com/p/b6b86afc9679) |
-| Mon, 30 Jun 2025 18:30:46 GMT | Understanding Risk Analysis | Cyber T | [Read More](https://medium.com/p/3aa869e9da19) |
-| Mon, 30 Jun 2025 18:30:29 GMT | The Failed Email Project That Secures the Internet Today | Riddhi  Kulkarni | [Read More](https://medium.com/p/920d5efed23d) |
-| Mon, 30 Jun 2025 18:27:10 GMT | AI Phishing Emails Target Executives Effectively | Artificial Intelligence + | [Read More](https://medium.com/p/f67bbcc89b37) |
-| Mon, 30 Jun 2025 18:26:39 GMT | The Accidental Security Engineer: A Developer’s Tale | Abhishek Sengar | [Read More](https://medium.com/p/c9db4a273112) |
-| Mon, 30 Jun 2025 18:24:14 GMT | CTF Write-up: MinerHunt (Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/048061079ef8) |
-| Mon, 30 Jun 2025 18:23:13 GMT | “Your Phone Is the New Battlefield: 5 Alarming Cybersecurity Threats You Didn’t See Coming” | Anshika Prajapati | [Read More](https://medium.com/p/7bcba081f45f) |
-| Mon, 30 Jun 2025 18:22:49 GMT | SEC Strengthens Data Protections for Financial Firms | Chetan Seripally | [Read More](https://medium.com/p/a2dbe568429b) |
-| Mon, 30 Jun 2025 18:20:43 GMT | Academy-walkthrough() | Kushwanth R | [Read More](https://medium.com/p/e4c23479e9d1) |
-| Mon, 30 Jun 2025 18:19:06 GMT | Industrial Intrusion CTF - Task 3 -Breach - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/a385d55816ab) |
-| Mon, 30 Jun 2025 18:16:03 GMT | “When Presence isn’t Enough” | Imóla | [Read More](https://medium.com/p/61752587b536) |
-| Mon, 30 Jun 2025 18:09:54 GMT | Is AI Spying on You? What You Should Know in 2025 | WebBees | [Read More](https://medium.com/p/4c0a6770caa6) |
