@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 01 Jul 2025 13:28:59 GMT | AI-Driven Voice Deepfake Defense: Integrating Detection and Watermarking into Healthcare SIEM and… | Wes Young | [Read More](https://medium.com/p/6782587523d9) |
+| Tue, 01 Jul 2025 13:24:19 GMT | Building a Cowrie Honeypot: SSH Setup, Logging, and Attack Replay | Ahmedmustafa Inbox | [Read More](https://medium.com/p/dd6e0094740a) |
+| Tue, 01 Jul 2025 13:19:30 GMT | A Trailblazer in AI Cybersecurity — Where Is Darktrace Now? | Zoe, Lim Yi Qing | [Read More](https://medium.com/p/8422cc64ba02) |
+| Tue, 01 Jul 2025 13:18:55 GMT | Secrets Auto-Rotation in Kubernetes with AWS Secrets Manager and Reloader | Hemanth M Gowda | [Read More](https://medium.com/p/e8dcaef03fb0) |
+| Tue, 01 Jul 2025 13:13:07 GMT | Iran-linked hackers a threat to U.S. firms and critical infrastructure | Inforsecpro | [Read More](https://medium.com/p/590212a6fcff) |
+| Tue, 01 Jul 2025 13:08:00 GMT | How I Turned a Grafana Bug Into a Full Server Hack | Ibtissam hammadi | [Read More](https://medium.com/p/a273a2453ac1) |
+| Tue, 01 Jul 2025 13:02:52 GMT | 6 Smart SBC Projects to Upgrade Your Home Network Security and Speed | Mohamad MERHI | [Read More](https://medium.com/p/6b5ab38d333b) |
+| Tue, 01 Jul 2025 13:02:31 GMT | What’s up with pastebin and G2A? (Part 1) | unnamedCIAagent | [Read More](https://medium.com/p/82d2ca0d7f0d) |
+| Tue, 01 Jul 2025 12:44:59 GMT | Architectural Considerations for SaaS Application — PART (4/12): API & Interface | Dhyan Sagar | [Read More](https://medium.com/p/ce2c65a61442) |
+| Tue, 01 Jul 2025 12:44:35 GMT | Architectural Considerations for SaaS Application — PART (5/12): CI/CD & Infrastructure | Dhyan Sagar | [Read More](https://medium.com/p/5220523d0904) |
+| Tue, 01 Jul 2025 12:44:11 GMT | Architectural Considerations for SaaS Application — PART (6/12): Logic & Business Rule | Dhyan Sagar | [Read More](https://medium.com/p/79efe826d0b5) |
+| Tue, 01 Jul 2025 12:42:17 GMT | The Vulnerability Lifecycle: From Discovery to Patch (and Beyond) | Sammcmullen | [Read More](https://medium.com/p/094cf76b47ec) |
+| Tue, 01 Jul 2025 12:40:49 GMT | AI/ML Medical Devices 2025 | Daniel James | [Read More](https://medium.com/p/c0b272337917) |
+| Tue, 01 Jul 2025 12:37:52 GMT | Azure Storage Security: Best Practices (and Why They Matter) | Scott Martin | [Read More](https://medium.com/p/d81cd4e3da3f) |
 | Tue, 01 Jul 2025 12:31:08 GMT | FUD | Tales From the ICS Abyss | [Read More](https://medium.com/p/595f53a67406) |
 | Tue, 01 Jul 2025 12:29:01 GMT | Docker vs. Containerd: Cracking a Security Myth | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/e869bd44f95c) |
 | Tue, 01 Jul 2025 12:17:43 GMT | Epistemic Collapse in the Age of AI-Generated Hyperreality | Lauri Korpela | [Read More](https://medium.com/p/79fc179497df) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 08:43:53 GMT | Local Insight Powers Security Services in Mumbai Today! | United Guard Force India | [Read More](https://medium.com/p/e1e03d137469) |
 | Tue, 01 Jul 2025 08:40:31 GMT | How I Exploited a Hidden CSRF Vulnerability — And How You Can Prevent It | Mr Horbio | [Read More](https://medium.com/p/d089ad23887d) |
 | Tue, 01 Jul 2025 08:35:33 GMT | Rate Limiting: The Unsung Hero of Web Security | Quella | [Read More](https://medium.com/p/82aa29639f43) |
-| Tue, 01 Jul 2025 08:31:11 GMT | The depth of Human Connection | Niketa | [Read More](https://medium.com/p/39c73cc20f39) |
-| Tue, 01 Jul 2025 08:27:07 GMT | Four Ways to Reverse Python Malware | Urban Vidergar | [Read More](https://medium.com/p/f8cb468fa070) |
-| Tue, 01 Jul 2025 08:18:09 GMT | Putin’s Cyber Units at War: Anatomy of an Uncoordinated Threat | Gianluca Tiepolo | [Read More](https://medium.com/p/6a343b0d1d43) |
-| Tue, 01 Jul 2025 08:16:55 GMT | VAPT: The Backbone of Cybersecurity — Why Your Business Can’t Afford to Ignore It | Pynesec | [Read More](https://medium.com/p/5addb0c59b95) |
-| Tue, 01 Jul 2025 08:11:06 GMT | ประจำวันอังคารที่ 1 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ebd871f9f872) |
-| Tue, 01 Jul 2025 08:07:52 GMT | 如何啟用 Palo Alto Networks 防火牆授權 | Damon Lin | [Read More](https://medium.com/p/0f043da4c772) |
-| Tue, 01 Jul 2025 08:03:51 GMT | 10 Best Compliance Monitoring Tools to Ensure Regulatory Readiness | SecureSlate | [Read More](https://medium.com/p/0c4b8eef212f) |
-| Tue, 01 Jul 2025 07:58:17 GMT | Reclaiming Your Cybersecurity Time: Smarter Investigations with AI | Seb AGUELE | [Read More](https://medium.com/p/6404707e9ac2) |
-| Tue, 01 Jul 2025 07:50:13 GMT | The Daily Tech Digest: 01 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/95107df744aa) |
-| Tue, 01 Jul 2025 07:44:16 GMT | Ivanti EPM RCE via .NET Remoting Deserialization (CVE-2024–29847) | AerieWhole123 | [Read More](https://medium.com/p/a74c94c38fe5) |
-| Tue, 01 Jul 2025 07:44:15 GMT | Как да подготвим малкия си бизнес за NIS2 — без излишна паника | Anita Stoyanova | [Read More](https://medium.com/p/3a9e54417eb8) |
-| Tue, 01 Jul 2025 07:44:06 GMT | Desync or Die Trying: Smuggling My Way into Internal APIs | Iski | [Read More](https://medium.com/p/e59e1bf6f01d) |
-| Tue, 01 Jul 2025 07:38:23 GMT | Surat Woman Arrested in ₹2.9 Crore Digital Arrest Scam Linked to Cambodia . | Nitin Saraswat | [Read More](https://medium.com/p/a232409ee849) |
-| Tue, 01 Jul 2025 07:35:48 GMT | Healthcare Vulnerabilities: Top 10 Low-Hanging Fruit Hackers Exploit With Ease | Travis Ray Caverhill | [Read More](https://medium.com/p/5f753cf61c53) |
