@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 01:37:01 GMT | Setting Up the Environment | 3Graces CC | [Read More](https://medium.com/p/d195ed430fc0) |
+| Wed, 02 Jul 2025 01:29:47 GMT | Is It Safe to Use Public Charging Stations? Here’s What You Need to Know | Abijita Foundation | [Read More](https://medium.com/p/b30708c5f6b9) |
+| Wed, 02 Jul 2025 01:06:03 GMT | Write-up Hack the system Sattracker | D4LTON | [Read More](https://medium.com/p/52f042be40b9) |
+| Wed, 02 Jul 2025 01:02:56 GMT | gf: Your Essential Ally for Vulnerability Recognition and Detection in Bug Bounty | JPablo13 | [Read More](https://medium.com/p/a12f04a110ff) |
+| Wed, 02 Jul 2025 00:47:18 GMT | Agentic Threat Modeling with Local LLM (Mistral + LangChain) | Oluwadare Bankole | [Read More](https://medium.com/p/750276e2b174) |
+| Wed, 02 Jul 2025 00:26:31 GMT | Compromise Splunk for AWS Privilege Escalation(AWS-Red team lab) | n00 | [Read More](https://medium.com/p/6f702bf528d6) |
+| Wed, 02 Jul 2025 00:25:50 GMT | Lespion SOC Tier-1 Level-2 Cyber Defenders Writeup | Sandeepduseja | [Read More](https://medium.com/p/6bbf5632babe) |
+| Wed, 02 Jul 2025 00:14:57 GMT | “Cybersecurity isn’t just technology—it’s awareness, instinct, and action.” | Rodkeshia "Keshia" Clifton | [Read More](https://medium.com/p/63e3d72a8255) |
+| Wed, 02 Jul 2025 00:10:06 GMT | How LockBit “Revolutionized” the Ransomware Ecosystem with Its Business Model and Product Strategy… | David SEHYEON Baek | [Read More](https://medium.com/p/c378943883e9) |
+| Wed, 02 Jul 2025 00:04:29 GMT | NEWS UPDATE — July 1, 2025 - 6:45 PM UTC
+ Hacker “0-P” Claims Responsibility for Iranian Satellite… | Cybersec News | [Read More](https://medium.com/p/b368937b8855) |
+| Wed, 02 Jul 2025 00:04:00 GMT | Why Threat Actors Target the Energy Sector | David SEHYEON Baek | [Read More](https://medium.com/p/a98c3aa6eafb) |
+| Wed, 02 Jul 2025 00:02:52 GMT | “OneClik” Malware Weaponizes Microsoft ClickOnce to Hijack Energy Sector | Aj | [Read More](https://medium.com/p/3cd5b85442e7) |
+| Tue, 01 Jul 2025 23:55:57 GMT | How a 141-Year-Old British Giant, Marks & Spencer, Was Brought Down by a Social Engineering-Driven… | David SEHYEON Baek | [Read More](https://medium.com/p/874f7ab0ed05) |
+| Tue, 01 Jul 2025 23:55:32 GMT | I will construct AWS resume for cybersecurity, devops cloud engineer | Excellentpeace | [Read More](https://medium.com/p/b7bcf412573b) |
+| Tue, 01 Jul 2025 23:53:34 GMT | BREAKING NEWS — July 1, 2025 Iranian Satellites Reportedly Hacked in Sophisticated Cyberattack | Cybersec News | [Read More](https://medium.com/p/4a072685ebf4) |
 | Tue, 01 Jul 2025 23:22:51 GMT | Hack The System — Bug Bounty CTF: Sattrack | Mazen M. AL-Emad | [Read More](https://medium.com/p/62e141366aff) |
 | Tue, 01 Jul 2025 23:13:33 GMT | SUSE 15 PAM to Full Root via libblockdev/udisks | ASAcrew Blog | [Read More](https://medium.com/p/c71585b27424) |
 | Tue, 01 Jul 2025 22:46:37 GMT | A Deep Dive into a Real-World Recon Workflow | Glenn Rodney | [Read More](https://medium.com/p/d23e7426844f) |
@@ -97,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 17:03:33 GMT | You’re Probably Missing Bugs Because You’re Guessing Instead of Testing | Đeepanshu | [Read More](https://medium.com/p/48c526e94d0c) |
 | Tue, 01 Jul 2025 17:02:49 GMT | Day 36 of #60DaysofGRC: Breaking Down Models, Frameworks & Standards | Brittney Ginther | [Read More](https://medium.com/p/296477dbeecf) |
 | Tue, 01 Jul 2025 16:52:24 GMT | Netscapy: A Modern Python Network Scanning Tool with GUI | Trynityneo | [Read More](https://medium.com/p/a5c3b36e599e) |
-| Tue, 01 Jul 2025 16:47:22 GMT | Local Setup Guide for OWASP ZAP (2025 Edition) | Farhan | [Read More](https://medium.com/p/417b630599cd) |
-| Tue, 01 Jul 2025 16:46:27 GMT | HackTheBox — Hack the system : bug bounty ctf - SpeedNet | Md. Fazle Rabbi | [Read More](https://medium.com/p/bbbd2f20ba70) |
-| Tue, 01 Jul 2025 16:45:44 GMT | Recon as Code: Build Your Own One-Click Recon CLI With Python + Shell + Existing Tools | Monika sharma | [Read More](https://medium.com/p/4f7b260ae89f) |
-| Tue, 01 Jul 2025 16:45:28 GMT | Understanding LDAP Over Active Directory | Cyber T | [Read More](https://medium.com/p/b28124a39fa4) |
-| Tue, 01 Jul 2025 16:45:15 GMT | Bilgi güvenliğinin temeli(CIA Üçlüsü) | Cihankan | [Read More](https://medium.com/p/0297d415b1cc) |
-| Tue, 01 Jul 2025 16:44:46 GMT | Satellite OSINT Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/e0f77b371426) |
-| Tue, 01 Jul 2025 16:40:58 GMT | How Two Logic Flaws Let Hackers Get Root on Linux in Seconds — CVE-2025–6018 and CVE-2025–6019… | Aaron | [Read More](https://medium.com/p/17eda9a8cfc3) |
-| Tue, 01 Jul 2025 16:40:56 GMT | The Weight of What You Don’t Say: The Cost of Bottling Up Your Feelings | Blaze | [Read More](https://medium.com/p/3eea46ee77e5) |
-| Tue, 01 Jul 2025 16:40:27 GMT | Another million-mile challenge | Daily Drop | [Read More](https://medium.com/p/4b011977d2fa) |
-| Tue, 01 Jul 2025 16:40:20 GMT | THM Industrial Intrusion CTF Task 13 Orcam | Not wrench | [Read More](https://medium.com/p/94c92cd8592f) |
-| Tue, 01 Jul 2025 16:36:54 GMT | Nowadays you don’t need a hacker to get hacked | hack-ethics | [Read More](https://medium.com/p/32834c44733e) |
-| Tue, 01 Jul 2025 16:36:43 GMT | Firewallet; Why you shouldn’t ingest firewall Logs in Your SIEM | One Equals One | [Read More](https://medium.com/p/c496a450dcfc) |
-| Tue, 01 Jul 2025 16:31:24 GMT | China’s Covert Spy Network: 1,000+ US/Asia Devices Hijacked | Aj | [Read More](https://medium.com/p/3b635fb0768a) |
-| Tue, 01 Jul 2025 16:23:24 GMT | How Ethical Hackers Can Help You Catch a Cheating Spouse | Gary Zemrak | [Read More](https://medium.com/p/9f59fd272cbd) |
-| Tue, 01 Jul 2025 16:22:55 GMT | Dark Web Links: What They Are and Why You Should Be Cautious | SafeAeon Inc. | [Read More](https://medium.com/p/783474aa864a) |
