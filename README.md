@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 20:33:19 GMT | Why Microsoft 365 Is a Hacker’s Goldmine — and How to Protect Yours | Vanshika Arun | [Read More](https://medium.com/p/5cf844bc5e17) |
+| Wed, 02 Jul 2025 20:32:38 GMT | How i Found Pre Account Takeover in 3 Minutes | Mado | [Read More](https://medium.com/p/32bcdce9f3e6) |
 | Wed, 02 Jul 2025 20:20:26 GMT | I’m Just A Girl: Typing with Talons | CyberHarv : Down the Rabbit Hole Chronicles | [Read More](https://medium.com/p/328aa1a99776) |
 | Wed, 02 Jul 2025 20:17:30 GMT | How to Reprogram Your Mind for Wealth: Brian Tracy’s Mental Habits of the Rich | Shane Spear | [Read More](https://medium.com/p/c7caa4a90f32) |
 | Wed, 02 Jul 2025 20:10:56 GMT | SQL Injection Ciega por Condiciones de Tiempo | Roberto Alfaro (Vuldar) | [Read More](https://medium.com/p/1c022a5cd794) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 14:11:01 GMT | When Trust Becomes a Threat: Tackling the Cybersecurity Risks of Third Parties | Xsecopsmindset | [Read More](https://medium.com/p/3e70e5f0dbba) |
 | Wed, 02 Jul 2025 14:09:08 GMT | Revolutionizing HR in High-Turnover Industries with AI and Generative AI | Shawn Olds | [Read More](https://medium.com/p/8d2a35824899) |
 | Wed, 02 Jul 2025 14:06:01 GMT | How I Built a Debate Swarm to Keep My AI Honest — And Why We All Need One | Phil Stafford | [Read More](https://medium.com/p/6c847b9ef6c1) |
-| Wed, 02 Jul 2025 14:06:01 GMT | Linux Kernel Rootkit Detection and Prevention Techniques | Esra Kayhan | [Read More](https://medium.com/p/f84240c2631b) |
-| Wed, 02 Jul 2025 14:02:30 GMT | I Didn’t Search for It, but I’m Grateful She Found Me: How I Discovered My Comfort Zone Without… | Jeromar Dela Cruz | [Read More](https://medium.com/p/0a0a613e0992) |
