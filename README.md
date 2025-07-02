@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 03:53:51 GMT | India’s New Cyber Laws: Navigating the Digital Landscape in 2025 with CyberKanun | Ankitinnjoshi | [Read More](https://medium.com/p/41e2f05c139a) |
+| Wed, 02 Jul 2025 03:48:54 GMT | Excessive Trust in Client-Side Controls | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/7ed663125ee9) |
+| Wed, 02 Jul 2025 03:48:23 GMT | “7 Everyday Habits That Make You an Easy Target for Hackers” | Anshika Prajapati | [Read More](https://medium.com/p/aa4216c8e52a) |
+| Wed, 02 Jul 2025 03:35:01 GMT | Does Expert Consulting Break NDAs? Why This Cybersecurity Engineer Decided to Share His Expertise | Expert Network Insider | [Read More](https://medium.com/p/fa7cab11b4cf) |
+| Wed, 02 Jul 2025 03:32:51 GMT | Inside the Galaxy S24 Quick Share Vulnerability: What It Means and How to Stay Protected | Deven Chhajed | [Read More](https://medium.com/p/868ec3b7c340) |
+| Wed, 02 Jul 2025 03:20:20 GMT | Yasar | Numan khan | [Read More](https://medium.com/p/106ea93c4e72) |
+| Wed, 02 Jul 2025 03:15:03 GMT | Stop Committing Mistakes: Catch Issues Early with Git Pre-Commit Hooks | Ariel Fischbein | [Read More](https://medium.com/p/c88e7393325c) |
 | Wed, 02 Jul 2025 03:06:26 GMT | What I have learned from my very first Cybersecurity internship. | aflame | [Read More](https://medium.com/p/9ba80385b6d5) |
 | Wed, 02 Jul 2025 03:03:47 GMT | Learning to Lead — Part 2: Crisis as Curriculum | Dea Safirahilda | [Read More](https://medium.com/p/d43584f32941) |
 | Wed, 02 Jul 2025 02:53:51 GMT | Bypassing GraphQL Brute Force Protections | Bash Overflow | [Read More](https://medium.com/p/fdccecc50c81) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 18:27:51 GMT | The Ethical Hacking Sentinel (July 1) | Franklin Rhodes | [Read More](https://medium.com/p/4e081a59d219) |
 | Tue, 01 Jul 2025 18:18:08 GMT | Why Breach and Attack Simulation is Becoming a Must-Have for Modern Enterprises | DefenceRabbit | [Read More](https://medium.com/p/033336b2f240) |
 | Tue, 01 Jul 2025 18:10:56 GMT | Suzanne Alipourian-Frascogna: Bridging Cybersecurity and Product Management in the Digital Era | Suzanne Alipourian-Frascogna | [Read More](https://medium.com/p/1b8b38d625d2) |
-| Tue, 01 Jul 2025 18:07:46 GMT | Extorsiones Telefónicas - Identificación y Prevención | SoyDrok3r | [Read More](https://medium.com/p/4fb183330111) |
-| Tue, 01 Jul 2025 18:07:20 GMT | Let’s analyze Soc 140 malicious email campaign on letsdefend.com | Satvinder Sihra | [Read More](https://medium.com/p/b6c1f3070041) |
-| Tue, 01 Jul 2025 18:01:24 GMT | The Data Protection Triad: A Comprehensive Analysis of Anonymization, Cryptography, and… | 0m3g4_k1ng | [Read More](https://medium.com/p/1edad62b4559) |
-| Tue, 01 Jul 2025 17:58:20 GMT | Ransomware Detection: How to Spot Attacks Before It’s Too Late | SafeAeon Inc. | [Read More](https://medium.com/p/4ebc5c5e6d1f) |
-| Tue, 01 Jul 2025 17:55:28 GMT | Easy, Fast & Secure: The New Onboarding Experience on Teep Mobile | Chika Ibegbu | [Read More](https://medium.com/p/90756e40dfb5) |
-| Tue, 01 Jul 2025 17:49:09 GMT | Enterprise Cybersecurity Threats: What Every Business Must Watch For | SafeAeon Inc. | [Read More](https://medium.com/p/f3bc528cd7fd) |
-| Tue, 01 Jul 2025 17:48:19 GMT | WARNING: The “Fake CAPTCHA” Scam That Almost Got My Friend — A Real Story About One of Today’s… | Colin | [Read More](https://medium.com/p/80a8715f7a3d) |
