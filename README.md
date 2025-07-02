@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 16:44:38 GMT | Try Hack Me: Dav Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/6bad55f6bab9) |
+| Wed, 02 Jul 2025 16:42:34 GMT | Top 10 IT Pet Peeves (That Should Be Felonies by Now) | Travis Ray Caverhill | [Read More](https://medium.com/p/918912005165) |
+| Wed, 02 Jul 2025 16:38:18 GMT | Daring and Still Striving for The Great-part | Jennifer Burke Grehan | [Read More](https://medium.com/p/68f52a4a1d44) |
+| Wed, 02 Jul 2025 16:38:02 GMT | How linpeas.sh Script Helps Us To Escalate Privileges As a Root/Admin User On Machine | Iftikhar Zaidi | [Read More](https://medium.com/p/f36990aed92f) |
+| Wed, 02 Jul 2025 16:28:10 GMT | The Quiet Power: Why Softness is the New Strength | T-Ann Pierce | [Read More](https://medium.com/p/f585ed4a7f12) |
 | Wed, 02 Jul 2025 16:20:43 GMT | Why Your Recon is Lying to You — And What to Do About It ️‍♂️ | Đeepanshu | [Read More](https://medium.com/p/e3792a1df86a) |
 | Wed, 02 Jul 2025 16:16:51 GMT | #69 — Tongue-Tied | Christian Augspurg | [Read More](https://medium.com/p/acde4f05d47b) |
 | Wed, 02 Jul 2025 16:12:52 GMT | Confused by Website Security & Backups? My “Set It and Forget It” WordPress Checklist. | Makemoneytactic | [Read More](https://medium.com/p/af48e33d99eb) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 12:02:42 GMT | How to Pick the Best Consulting Services for Cybersecurity for Your Business | SecDesk | [Read More](https://medium.com/p/2fd47dae5119) |
 | Wed, 02 Jul 2025 12:00:35 GMT | When Isolation Fails: The Sudo + Chroot Vulnerability That Grants Root Access | Finstein.ai | [Read More](https://medium.com/p/6de2786aade4) |
 | Wed, 02 Jul 2025 11:59:49 GMT | DanaBot by CyberDefenders | rkn | [Read More](https://medium.com/p/94376185ad72) |
-| Wed, 02 Jul 2025 11:56:56 GMT | Inside Android Malware Development: Building a C2 Exfiltrator from the UI to the Network | Lord Murak | [Read More](https://medium.com/p/7ec2d9a3d58e) |
-| Wed, 02 Jul 2025 11:52:36 GMT | Hacking | Norman Meg | [Read More](https://medium.com/p/6da0848cd242) |
-| Wed, 02 Jul 2025 11:52:22 GMT | DevSecOps Is Just Security’s Way of Shifting Blame to Developers | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/19628caacc9a) |
-| Wed, 02 Jul 2025 11:49:33 GMT | When Personal Details Become Public: The Qantas Data Breach Explained | Amita | [Read More](https://medium.com/p/34a68a9b089c) |
-| Wed, 02 Jul 2025 11:48:58 GMT | What is the scope of managed security services? | James Damon | [Read More](https://medium.com/p/2897918d64c2) |
