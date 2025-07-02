@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 17:05:54 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Paridhi Om | [Read More](https://medium.com/p/da16a49d23f2) |
+| Wed, 02 Jul 2025 17:02:56 GMT | Why I Set Email Alerts for Every New User Added to My Linux Server (And How You Can Too) | Faruk Ahmed | [Read More](https://medium.com/p/98ccc369d7f7) |
+| Wed, 02 Jul 2025 16:52:58 GMT | picoCTF — head-dump | Robby firdauzy | [Read More](https://medium.com/p/5ce5c4e9a132) |
+| Wed, 02 Jul 2025 16:47:29 GMT | From Theory to Practice: Implementing MITRE ATLAS Defenses | Michael Hannecke | [Read More](https://medium.com/p/77dde19f9769) |
 | Wed, 02 Jul 2025 16:44:38 GMT | Try Hack Me: Dav Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/6bad55f6bab9) |
 | Wed, 02 Jul 2025 16:42:34 GMT | Top 10 IT Pet Peeves (That Should Be Felonies by Now) | Travis Ray Caverhill | [Read More](https://medium.com/p/918912005165) |
 | Wed, 02 Jul 2025 16:38:18 GMT | Daring and Still Striving for The Great-part | Jennifer Burke Grehan | [Read More](https://medium.com/p/68f52a4a1d44) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 12:22:24 GMT | The Silent Threat in Your Pocket: How Cybercriminals Are Targeting NFC (Near Field Communication). | Cybersecurity Umbrella | [Read More](https://medium.com/p/a6606bf10f73) |
 | Wed, 02 Jul 2025 12:19:26 GMT | What Are Nonrepudiation Services in Network Security? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/90f34c6162d6) |
 | Wed, 02 Jul 2025 12:11:47 GMT | Increased UK defence spending will mostly benefit the US companies warns union leader | Alastair Tibbs | [Read More](https://medium.com/p/970610a4b439) |
-| Wed, 02 Jul 2025 12:11:35 GMT | Why Boardrooms Now Demand Financial Risk Exposure for Cyber Investments | Zeron | [Read More](https://medium.com/p/42401b049311) |
-| Wed, 02 Jul 2025 12:02:42 GMT | How to Pick the Best Consulting Services for Cybersecurity for Your Business | SecDesk | [Read More](https://medium.com/p/2fd47dae5119) |
-| Wed, 02 Jul 2025 12:00:35 GMT | When Isolation Fails: The Sudo + Chroot Vulnerability That Grants Root Access | Finstein.ai | [Read More](https://medium.com/p/6de2786aade4) |
-| Wed, 02 Jul 2025 11:59:49 GMT | DanaBot by CyberDefenders | rkn | [Read More](https://medium.com/p/94376185ad72) |
