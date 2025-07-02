@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 07:16:30 GMT | How to Hack Legally (and Not Get Arrested) | Araiz Naqvi | [Read More](https://medium.com/p/581aea212e9e) |
+| Wed, 02 Jul 2025 07:10:20 GMT | SSRF 2.0: Bypassing Internal Protections via Redirect Loops | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ddbfdb9a8ce6) |
+| Wed, 02 Jul 2025 07:01:39 GMT | DarkGPT Threats: The AI Engine Fueling Cybercrime at Scale | TheReviewHive | [Read More](https://medium.com/p/77c31f384897) |
+| Wed, 02 Jul 2025 06:59:56 GMT | The Art of Seeing Ghosts | Jugaad Tiger | [Read More](https://medium.com/p/dd7959622d55) |
+| Wed, 02 Jul 2025 06:58:49 GMT | Decoding Digital Power: Why PIM and PAM Are Your Cybersecurity Superheroes | Shweta Papnai | [Read More](https://medium.com/p/b1ae37fad007) |
+| Wed, 02 Jul 2025 06:58:43 GMT | Red Hat Certified System Administrator Training and Certification in Delhi | cyber security Updates | [Read More](https://medium.com/p/ec47df30e835) |
+| Wed, 02 Jul 2025 06:57:49 GMT | Cyber Security for Data Solution | Agha Mustafa Ali Khan Qizilbash | [Read More](https://medium.com/p/d1be3383a3c2) |
+| Wed, 02 Jul 2025 06:55:26 GMT | Day 39: IDOR report | Nile Okomo | [Read More](https://medium.com/p/7f0b3e82a7d5) |
+| Wed, 02 Jul 2025 06:53:21 GMT | Case Study: Exploiting the NestJS Content-Type Header Vulnerability | Marco Bytes | [Read More](https://medium.com/p/497425626060) |
+| Wed, 02 Jul 2025 06:52:38 GMT | Psalm of the Invisible | Ian Johnson | [Read More](https://medium.com/p/e0f02e028a1e) |
+| Wed, 02 Jul 2025 06:52:11 GMT | Under the Hood: How Wireshark and Packet Sniffers Really Work | Ahmed Sobhi Ali | [Read More](https://medium.com/p/5e6c5d7dc67d) |
+| Wed, 02 Jul 2025 06:51:45 GMT | How I Finally Felt Safe at Home: My Story with the Anti-Looter Kit | Alisha Ishaq | [Read More](https://medium.com/p/a78a3577a387) |
+| Wed, 02 Jul 2025 06:51:35 GMT | CVE-2024–38077: Critical RCE in Windows RDL Service | AerieWhole123 | [Read More](https://medium.com/p/77462d76c841) |
+| Wed, 02 Jul 2025 06:51:03 GMT | Burp Extensions You’re Not Using (But Should): Secret Weapons for Modern Web Apps | Monika sharma | [Read More](https://medium.com/p/dd7e8b7de642) |
+| Wed, 02 Jul 2025 06:49:14 GMT | Test Analyst | Omer Bawazir | [Read More](https://medium.com/p/0d427d1bcf84) |
+| Wed, 02 Jul 2025 06:47:08 GMT | Exhausting Excuses: How Alleged Green Giants Gaslight with RTO Mandates | Namir Sagheenanajar | [Read More](https://medium.com/p/b4e4ab3329a7) |
+| Wed, 02 Jul 2025 06:44:50 GMT | Threats To Artificial Intelligence Models | Berkay ÖZÇAM | [Read More](https://medium.com/p/8e2c81b5b4c4) |
+| Wed, 02 Jul 2025 06:41:53 GMT | Chapter 2: Gently, But Clearly | Namjinxnova | [Read More](https://medium.com/p/a86e33c036fe) |
+| Wed, 02 Jul 2025 06:39:17 GMT | How to use FOFA for security research | Ibtissam hammadi | [Read More](https://medium.com/p/dafb8e00aa14) |
+| Wed, 02 Jul 2025 06:38:42 GMT | Day 7: Reflected XSS into attribute with angle brackets HTML-encoded: Zero to Hero Series —… | RayofHope | [Read More](https://medium.com/p/8b0c775fc7b5) |
+| Wed, 02 Jul 2025 06:35:13 GMT | Easy Penetration Testing: Finding Website Parameters with ParamSpider | イズミー | [Read More](https://medium.com/p/a5f15a120845) |
+| Wed, 02 Jul 2025 06:27:26 GMT | Sell Your Business Online: FruityChat’s Game-Changing Business Marketplace | Alex Holten | [Read More](https://medium.com/p/c47a7fe0272b) |
 | Wed, 02 Jul 2025 06:22:26 GMT | Vulnhub: Kioptrix Level 1 Writeup | Yash Rustagi | [Read More](https://medium.com/p/df91022d5ae3) |
 | Wed, 02 Jul 2025 06:17:24 GMT | Ensure Quality and Performance with GTechnohubb’s Expert Software Testing Services | Gtechnohubb PVT LTD | [Read More](https://medium.com/p/da4d813979fd) |
 | Wed, 02 Jul 2025 06:17:02 GMT | IPv6 for Penetration Testers | Bl@ckC!pH3r | [Read More](https://medium.com/p/c00d9b414bbb) |
@@ -91,25 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 22:15:03 GMT | Exploring Ticket Resolution Time with Field Parameters in Power BI | Bryant Greaves | [Read More](https://medium.com/p/8af043d6c49b) |
 | Tue, 01 Jul 2025 22:12:03 GMT | SaaS Is Eating the Enterprise — But Who’s Protecting the Data? | Cyber-AppSec | [Read More](https://medium.com/p/9e04f6d6a69f) |
 | Tue, 01 Jul 2025 22:10:32 GMT | The Extended Mind: Ethical Red Teaming from a Street-Level Perspective | Johnny Correia - Ética e IA | [Read More](https://medium.com/p/7b5d4b4c72f0) |
-| Tue, 01 Jul 2025 22:08:41 GMT | The Cybersecurity Crisis in Healthcare | Ria Sinha | [Read More](https://medium.com/p/f30e4a23ec38) |
-| Tue, 01 Jul 2025 22:06:29 GMT | What Is IDOR? How I Learned to Spot Insecure Direct Object References (Legally) | Nitish Reddy | [Read More](https://medium.com/p/6c0740b67322) |
-| Tue, 01 Jul 2025 22:01:01 GMT | Before the Hack: Understanding Reconnaissance in Hacking | Goose Gustin | [Read More](https://medium.com/p/a1fccc975e96) |
-| Tue, 01 Jul 2025 21:59:29 GMT | Write-up PicoCTF (Capture The Flag) — Commitment Issues | Sérgio Corrêa | [Read More](https://medium.com/p/6c3f237f470f) |
-| Tue, 01 Jul 2025 21:58:35 GMT | New Study Uncovers Privacy Risks: VR Headsets Can Secretly Monitor Your Blood Pressure | SPIES Lab at TAMU | [Read More](https://medium.com/p/6c95b5e920f2) |
-| Tue, 01 Jul 2025 21:57:41 GMT | Cybersecurity for Traveling into a War Zone | J. Trent Adams | [Read More](https://medium.com/p/fd260d5075fe) |
-| Tue, 01 Jul 2025 21:51:42 GMT | When I first got into cybersecurity, I remember how overwhelming alerts could feel. | Nitish Reddy | [Read More](https://medium.com/p/7fb0c6e7524a) |
-| Tue, 01 Jul 2025 21:48:45 GMT | Phishing Links to Red Flags: Using Google’s Safe Browse APIs to build your own URL checking Utility | Amit Nigam | [Read More](https://medium.com/p/ed44f1ea211b) |
-| Tue, 01 Jul 2025 21:48:44 GMT | TryHackMe Dogcat — Walkthrough | mauzware | [Read More](https://medium.com/p/bb8dcf008c9d) |
-| Tue, 01 Jul 2025 21:20:30 GMT | Remote Access That Gave Me the Answers I Needed | Duzanflorenzi | [Read More](https://medium.com/p/89fc9de91c04) |
-| Tue, 01 Jul 2025 21:15:18 GMT | The Rise of Artificial Intelligence (AI) and the Growing Necessity for AI-Specific Legal Expertise… | Brad Namdar | [Read More](https://medium.com/p/62cc5c8f8b85) |
-| Tue, 01 Jul 2025 21:14:24 GMT | So, What’s a Pentest Really? (And Why Should You Care?) | Mark Puckett | [Read More](https://medium.com/p/24e5c7f774fa) |
-| Tue, 01 Jul 2025 21:08:20 GMT | CVE-2025–32462: How a 12-Year-Old Sudo Bug Lets You Become Root Where You Shouldn’t | MohamedG. | [Read More](https://medium.com/p/780699101736) |
-| Tue, 01 Jul 2025 21:01:49 GMT | ️‍♀️ The Ultimate Bug Bounty Hunting Checklist: From Recon to Reporting | KingOfPiratez | [Read More](https://medium.com/p/99010d5402f3) |
-| Tue, 01 Jul 2025 21:01:49 GMT | 5 False Emotional Stereotypes About Men That Need to Die | Dani Ike | [Read More](https://medium.com/p/9ccf891e66c2) |
-| Tue, 01 Jul 2025 20:37:29 GMT | Security and Accessibility Gaps in Web Authentication for Blind and Visually Impaired Users | SPIES Lab | [Read More](https://medium.com/p/80881b9f3c39) |
-| Tue, 01 Jul 2025 20:35:02 GMT | Day 38: Report writing | Nile Okomo | [Read More](https://medium.com/p/a613e363a571) |
-| Tue, 01 Jul 2025 20:33:11 GMT | Supplier Risk Under NIS2: Could Your Business Be Liable for Third-Party Non-Compliance? | J Bodys | [Read More](https://medium.com/p/95c23ef75a31) |
-| Tue, 01 Jul 2025 20:30:02 GMT | Bulut Bilişim TryHackMe Notlarım | Damla Korkmaz | [Read More](https://medium.com/p/6bd68d66026b) |
-| Tue, 01 Jul 2025 20:18:07 GMT | Making a RS485 themed challenge: Serial Gate (Flipper Zero Modbus RTU shield compatible). | biero llagas | [Read More](https://medium.com/p/925dee9dcee1) |
-| Tue, 01 Jul 2025 20:12:18 GMT | Loglamada Gözden Kaçan Risk: Registry İzlemenin Önemi | Just Moi | [Read More](https://medium.com/p/920ad8fca30a) |
-| Tue, 01 Jul 2025 20:05:47 GMT | Indians Building Bridges, Not Just Careers: The Onstralytics Journey from India to Germany | Ankit Biswas | [Read More](https://medium.com/p/8856f54f7fa3) |
