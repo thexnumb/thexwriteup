@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 07:34:10 GMT | Securing Your AI Agent’s Data Pipeline: A 2025 Survival Guide | Paritosh | [Read More](https://medium.com/p/62bec63afbce) |
+| Wed, 02 Jul 2025 07:26:20 GMT | Master Ethical Hacking: Get Certified Today! | Anders wisdom | [Read More](https://medium.com/p/5bd532f068a7) |
+| Wed, 02 Jul 2025 07:25:36 GMT | Breaking Free: Why Team Mavericks @ DevOps-Den Moved from SaaS GitLab to Self-Hosted | Uttam Jaiswal | [Read More](https://medium.com/p/11d2c30a1324) |
+| Wed, 02 Jul 2025 07:23:36 GMT | Finding AI Agents, LLM API Keys, Authorization Tokens & Hidden Endpoints | AbhirupKonwar | [Read More](https://medium.com/p/435e00016648) |
+| Wed, 02 Jul 2025 07:23:25 GMT | The Shifting Sands of Cyber Warfare: How AI and LLMs are Reshaping the Threat Landscape | West Advanced Technologies Inc | [Read More](https://medium.com/p/55270d4cfa61) |
+| Wed, 02 Jul 2025 07:21:50 GMT | BitNet Mining Miniapp Security: Telegram Layer & Blockchain Proof | BitNetChain Official | [Read More](https://medium.com/p/03d775cfd418) |
+| Wed, 02 Jul 2025 07:21:40 GMT | How WAFs Stop Crawlers, Scrapers, and Bad Bots | Quella | [Read More](https://medium.com/p/8e5e5f7cf836) |
+| Wed, 02 Jul 2025 07:21:24 GMT | Overview of prompt injection techniques | Sofia | [Read More](https://medium.com/p/0bd441bcdea3) |
 | Wed, 02 Jul 2025 07:16:30 GMT | How to Hack Legally (and Not Get Arrested) | Araiz Naqvi | [Read More](https://medium.com/p/581aea212e9e) |
+| Wed, 02 Jul 2025 07:13:55 GMT | Today’s Top Cyber Intelligence Highlights — Jul 02, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/658d64268da7) |
+| Wed, 02 Jul 2025 07:12:51 GMT | How to Send Encrypted Email in Gmail (And Alternatives) | Atomic Mail | [Read More](https://medium.com/p/fef55e67105e) |
 | Wed, 02 Jul 2025 07:10:20 GMT | SSRF 2.0: Bypassing Internal Protections via Redirect Loops | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ddbfdb9a8ce6) |
 | Wed, 02 Jul 2025 07:01:39 GMT | DarkGPT Threats: The AI Engine Fueling Cybercrime at Scale | TheReviewHive | [Read More](https://medium.com/p/77c31f384897) |
 | Wed, 02 Jul 2025 06:59:56 GMT | The Art of Seeing Ghosts | Jugaad Tiger | [Read More](https://medium.com/p/dd7959622d55) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 23:22:51 GMT | Hack The System — Bug Bounty CTF: Sattrack | Mazen M. AL-Emad | [Read More](https://medium.com/p/62e141366aff) |
 | Tue, 01 Jul 2025 23:13:33 GMT | SUSE 15 PAM to Full Root via libblockdev/udisks | ASAcrew Blog | [Read More](https://medium.com/p/c71585b27424) |
 | Tue, 01 Jul 2025 22:46:37 GMT | A Deep Dive into a Real-World Recon Workflow | Glenn Rodney | [Read More](https://medium.com/p/d23e7426844f) |
-| Tue, 01 Jul 2025 22:31:38 GMT | Hack The System — SpeedNet | محمد بن إبراهيم | [Read More](https://medium.com/p/6ff20a6c06a2) |
-| Tue, 01 Jul 2025 22:24:47 GMT | Setting Up a Home Lab for Red teaming & Pen Testing (Reality) | Maharram Maharramov | [Read More](https://medium.com/p/e7300a8d8cd3) |
-| Tue, 01 Jul 2025 22:22:34 GMT | Writing Yara Rule to Detect Agent Tesla Variant | Security Posture | [Read More](https://medium.com/p/6d74ea396420) |
-| Tue, 01 Jul 2025 22:19:59 GMT | Kritik Bir Sudo Açığı: CVE-2025–32462 | Mesut Ozsoy | [Read More](https://medium.com/p/0aa1f4169e60) |
-| Tue, 01 Jul 2025 22:19:22 GMT | AWS secure role-based short-therm authorisation for your infrastructure code, CDK and SDK resources | Andrii Lobanov | [Read More](https://medium.com/p/7b2384f6c8d0) |
-| Tue, 01 Jul 2025 22:19:20 GMT | OAuth Vulnerabilities - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/8ad5e60cd28b) |
-| Tue, 01 Jul 2025 22:16:01 GMT | Cybersecurity Layers Explained: Defense in Depth Done Right | Karthikeyan Nagaraj | [Read More](https://medium.com/p/97bccd0d92ec) |
-| Tue, 01 Jul 2025 22:15:03 GMT | Exploring Ticket Resolution Time with Field Parameters in Power BI | Bryant Greaves | [Read More](https://medium.com/p/8af043d6c49b) |
-| Tue, 01 Jul 2025 22:12:03 GMT | SaaS Is Eating the Enterprise — But Who’s Protecting the Data? | Cyber-AppSec | [Read More](https://medium.com/p/9e04f6d6a69f) |
-| Tue, 01 Jul 2025 22:10:32 GMT | The Extended Mind: Ethical Red Teaming from a Street-Level Perspective | Johnny Correia - Ética e IA | [Read More](https://medium.com/p/7b5d4b4c72f0) |
