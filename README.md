@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 14:39:47 GMT | BuildContext Broke My App Because I Didn’t Respect It | Rogith Raja | [Read More](https://medium.com/p/3bf94db09c6f) |
+| Wed, 02 Jul 2025 14:38:55 GMT | Resources (Clause 7.1 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/97854d923f6e) |
+| Wed, 02 Jul 2025 14:32:50 GMT | Why OpenSearch Fails When /tmp is Mounted with noexec — And How to Fix It | Yash Patel | [Read More](https://medium.com/p/43f6c1ec587e) |
+| Wed, 02 Jul 2025 14:22:49 GMT | Mastering Docker Bridge Networks: From Beginner to Pro in One Guide | Ashish Singh | [Read More](https://medium.com/p/a0ae6a2eead9) |
+| Wed, 02 Jul 2025 14:22:17 GMT | WebAssembly Meets Hypervisors: Deep Isolation for the Cloud-Native Future | Simardeep Singh | [Read More](https://medium.com/p/c29d065815b3) |
 | Wed, 02 Jul 2025 14:19:06 GMT | ⚡️AWS Bedrock vs. Fine-Tuned Models: Our 300% Cost Surprise | Dev engineer | [Read More](https://medium.com/p/27870aa86868) |
 | Wed, 02 Jul 2025 14:14:46 GMT | REBOOT #06｜“Why Do I Struggle to Talk About Myself?” | REI REIMAGINES | [Read More](https://medium.com/p/7ba80b1211f7) |
 | Wed, 02 Jul 2025 14:11:01 GMT | When Trust Becomes a Threat: Tackling the Cybersecurity Risks of Third Parties | Xsecopsmindset | [Read More](https://medium.com/p/3e70e5f0dbba) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 10:14:57 GMT | What Makes a Great Managed SD-WAN Solutions Provider? 6 Must-Have Features | IshanTechnologies | [Read More](https://medium.com/p/aa3325360fa4) |
 | Wed, 02 Jul 2025 10:13:17 GMT | Industrial Intrusion CTF - Task -22 : Register Sweep -TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/ced875a4da9d) |
 | Wed, 02 Jul 2025 10:12:39 GMT | Basic Terminology Mismatching in Cybersecurity | Samuel Jack | [Read More](https://medium.com/p/cf1a909d8516) |
-| Wed, 02 Jul 2025 10:09:32 GMT | 7 Easy Bugs That Still Work in 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/828bff8cb4e4) |
-| Wed, 02 Jul 2025 10:09:21 GMT | The Invisible Fortress: Why Payment Security is Non-Negotiable in Today’s Digital Economy | ITIO INNOVEX | [Read More](https://medium.com/p/9cd08f369ae5) |
-| Wed, 02 Jul 2025 09:56:28 GMT | How I Discovered the Browser Isolation Maturity Model — And How You Can Master It Too | CyBlog | [Read More](https://medium.com/p/482fea9baaec) |
-| Wed, 02 Jul 2025 09:52:51 GMT | Top Cyber Security Trends: What Every Organization Must Know | IPSpecialist | [Read More](https://medium.com/p/9343e0c721dd) |
-| Wed, 02 Jul 2025 09:51:21 GMT | Structured Notes from IBM’s Cybersecurity Architecture Series. | Jinay | [Read More](https://medium.com/p/b6f6ddc2faa0) |
