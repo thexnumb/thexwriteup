@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 20:20:26 GMT | I’m Just A Girl: Typing with Talons | CyberHarv : Down the Rabbit Hole Chronicles | [Read More](https://medium.com/p/328aa1a99776) |
+| Wed, 02 Jul 2025 20:17:30 GMT | How to Reprogram Your Mind for Wealth: Brian Tracy’s Mental Habits of the Rich | Shane Spear | [Read More](https://medium.com/p/c7caa4a90f32) |
+| Wed, 02 Jul 2025 20:10:56 GMT | SQL Injection Ciega por Condiciones de Tiempo | Roberto Alfaro (Vuldar) | [Read More](https://medium.com/p/1c022a5cd794) |
+| Wed, 02 Jul 2025 19:58:22 GMT | OSCP Prep: Devvortex | Dino | [Read More](https://medium.com/p/59a8e5816471) |
+| Wed, 02 Jul 2025 19:50:42 GMT | I Red-Teamed LLMs — And Found They’re Easier to Hack Than You Think | rajni singh | [Read More](https://medium.com/p/fbb3f2fbec60) |
+| Wed, 02 Jul 2025 19:43:51 GMT | Retro ️ - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/8f66a13d3ae5) |
+| Wed, 02 Jul 2025 19:42:20 GMT | Show Me Where It Hurts, So I Know Where to Love You the Hardest | Dahlia | [Read More](https://medium.com/p/27c90f6a2c8d) |
+| Wed, 02 Jul 2025 19:37:01 GMT | Silence Doesn’t Mean Okay… | Potato | [Read More](https://medium.com/p/2705a2e9ebda) |
 | Wed, 02 Jul 2025 19:24:10 GMT | Risk elements and lifecycle | Siddiquimohammad | [Read More](https://medium.com/p/e525324c7bdd) |
 | Wed, 02 Jul 2025 19:16:18 GMT | Bash Scripting Hacks Every Developer Should Know | Ashish Singh | [Read More](https://medium.com/p/af3494a07a77) |
 | Wed, 02 Jul 2025 19:05:23 GMT | Why Cybersecurity Due Diligence is Critical for Business Growth and Revenue | Kineberg Solutions | [Read More](https://medium.com/p/5e76c914af4a) |
@@ -24,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 18:45:54 GMT | To respect copyright policies, I’ve provided the official DOI link for full access. | R Sh | [Read More](https://medium.com/p/787715630857) |
 | Wed, 02 Jul 2025 18:40:55 GMT | Learn. Grow. Share. Earn. | yeabsira yabuman | [Read More](https://medium.com/p/1d54c266b819) |
 | Wed, 02 Jul 2025 18:40:15 GMT | Who’s Really Controlling Your AI ? | Shambhavi Shukla | [Read More](https://medium.com/p/13de22ae9d9d) |
+| Wed, 02 Jul 2025 18:39:31 GMT | Como Influencers Cripto Estão Hackeando Seu Cérebro (E Por Que Isso Funciona) | Tchiga | [Read More](https://medium.com/p/d0e015dd1327) |
 | Wed, 02 Jul 2025 18:38:51 GMT | How to Deploy Wazuh on VMware and Connect a Windows Agent: A Step-by-Step Guide | Zaibahmadofficial | [Read More](https://medium.com/p/e0c970cf4f49) |
 | Wed, 02 Jul 2025 18:37:42 GMT | Digital Entanglements: A Quantum Field View of Cybersecurity | Boris Loza | [Read More](https://medium.com/p/f4226bd98814) |
 | Wed, 02 Jul 2025 18:36:44 GMT | The Future of Smart Locks: How Ultra Wideband and Matter Protocols Are Changing Home Security | Uladzislau Bayouski | [Read More](https://medium.com/p/c2df70a8bb5a) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 14:06:01 GMT | How I Built a Debate Swarm to Keep My AI Honest — And Why We All Need One | Phil Stafford | [Read More](https://medium.com/p/6c847b9ef6c1) |
 | Wed, 02 Jul 2025 14:06:01 GMT | Linux Kernel Rootkit Detection and Prevention Techniques | Esra Kayhan | [Read More](https://medium.com/p/f84240c2631b) |
 | Wed, 02 Jul 2025 14:02:30 GMT | I Didn’t Search for It, but I’m Grateful She Found Me: How I Discovered My Comfort Zone Without… | Jeromar Dela Cruz | [Read More](https://medium.com/p/0a0a613e0992) |
-| Wed, 02 Jul 2025 13:59:29 GMT | Cyber Briefing: 2025.07.02 | CyberMaterial | [Read More](https://medium.com/p/d62b45956d20) |
-| Wed, 02 Jul 2025 13:58:46 GMT | ClickFix Campaign: How Clipboard Injection Leads to RAT Infection (Part 1) | h3xstone | [Read More](https://medium.com/p/069e77d3cad1) |
-| Wed, 02 Jul 2025 13:56:56 GMT | Secure by Design: A Modern Guide to Application Architecture Reviews | Pranieth Chandrasekara | [Read More](https://medium.com/p/19f016738990) |
-| Wed, 02 Jul 2025 13:56:50 GMT | The IT Architecture Communication Crisis | Mohammed Brückner | [Read More](https://medium.com/p/a0fb4425d7d9) |
-| Wed, 02 Jul 2025 13:54:58 GMT | How to Drive Traffic and Achieve Virality on Instagram, Reddit, and Quora in 2025 | cyberworld2025 | [Read More](https://medium.com/p/b34e4816678d) |
-| Wed, 02 Jul 2025 13:53:02 GMT | Disgruntled IT Worker Bags 7-month Jail Time for Hacking Employer | Clement Saudu | [Read More](https://medium.com/p/ebc19bff1671) |
-| Wed, 02 Jul 2025 13:52:50 GMT | The Password Manager Paradox: When Security Tools Become Attack Vectors | Eric Zietlow | [Read More](https://medium.com/p/e06ea5f20e3b) |
-| Wed, 02 Jul 2025 13:48:04 GMT | My Mission in Cybersecurity: Practical Insights, Powered by AI | Xsecopsmindset | [Read More](https://medium.com/p/fb0f295ad5e9) |
-| Wed, 02 Jul 2025 13:47:06 GMT | From Smart Tools to Sluggish Minds: The Dark Side of AI Convenience | Shuaibu Adamu | [Read More](https://medium.com/p/10386a3fb73a) |
