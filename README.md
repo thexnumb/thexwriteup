@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 10:42:37 GMT | HTB: Netmon | Prath | [Read More](https://medium.com/p/1a9b86bc19a2) |
+| Wed, 02 Jul 2025 10:39:32 GMT | Agent T (CTF ÇÖZÜMÜ) | Furkan | [Read More](https://medium.com/p/aa6fa5805d7b) |
+| Wed, 02 Jul 2025 10:39:31 GMT | Critical Issues — CISOs focus | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/bbed547637fc) |
+| Wed, 02 Jul 2025 10:38:01 GMT | Quantum Cryptography: The BB84 Protocol and Its Quantum Security Guarantee | JITHIN S | [Read More](https://medium.com/p/a3a0779eab9a) |
+| Wed, 02 Jul 2025 10:37:25 GMT | How a Single Spreadsheet Revealed Sensitive Government Data | Uday | [Read More](https://medium.com/p/fdb153a1688c) |
+| Wed, 02 Jul 2025 10:30:45 GMT | Why You Can “Log in with Google” Without Giving Away Your Password: A Beginner’s Guide to OAuth | Yashashk | [Read More](https://medium.com/p/04526ad392b1) |
+| Wed, 02 Jul 2025 10:24:13 GMT | From MBA to Malware: A Real-World Case of Social Engineering + PowerShell Payload Delivery | c1ph3r | [Read More](https://medium.com/p/5c1d84a8451f) |
+| Wed, 02 Jul 2025 10:20:46 GMT | Network Security Audits: What to Check, Fix, and Secure | SecureSlate | [Read More](https://medium.com/p/0b5043369938) |
+| Wed, 02 Jul 2025 10:17:13 GMT | The Big Ugly Bill Is a Big Ugly Betrayal | Cami Berberi | [Read More](https://medium.com/p/682cde780197) |
 | Wed, 02 Jul 2025 10:15:12 GMT | Kali Linux 2025.2: What’s New, Why It Matters, and How to Install It | Ekene Joseph | [Read More](https://medium.com/p/9e423f6a1822) |
 | Wed, 02 Jul 2025 10:14:57 GMT | What Makes a Great Managed SD-WAN Solutions Provider? 6 Must-Have Features | IshanTechnologies | [Read More](https://medium.com/p/aa3325360fa4) |
+| Wed, 02 Jul 2025 10:13:17 GMT | Industrial Intrusion CTF - Task -22 : Register Sweep -TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/ced875a4da9d) |
+| Wed, 02 Jul 2025 10:12:39 GMT | Basic Terminology Mismatching in Cybersecurity | Samuel Jack | [Read More](https://medium.com/p/cf1a909d8516) |
 | Wed, 02 Jul 2025 10:09:32 GMT | 7 Easy Bugs That Still Work in 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/828bff8cb4e4) |
 | Wed, 02 Jul 2025 10:09:21 GMT | The Invisible Fortress: Why Payment Security is Non-Negotiable in Today’s Digital Economy | ITIO INNOVEX | [Read More](https://medium.com/p/9cd08f369ae5) |
 | Wed, 02 Jul 2025 09:56:28 GMT | How I Discovered the Browser Isolation Maturity Model — And How You Can Master It Too | CyBlog | [Read More](https://medium.com/p/482fea9baaec) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 05:55:03 GMT | Cybersecurity Careers & Certifications: Because HR Needs Acronyms | DarKVoicE | [Read More](https://medium.com/p/47ca2fc2c765) |
 | Wed, 02 Jul 2025 05:54:45 GMT | Why Your Proxy Doesn’t Work on Flutter Apps — and How to Fix It | Propellerhead | [Read More](https://medium.com/p/bba9d7c9b3f2) |
 | Wed, 02 Jul 2025 05:51:07 GMT | BCW Security Services on Google Cloud | Aakriti | [Read More](https://medium.com/p/e1750e234675) |
-| Wed, 02 Jul 2025 05:47:39 GMT | Inside the Mind of a Software Engineer: Beyond Code and Keyboards | Zulfiqar Aly | [Read More](https://medium.com/p/aa1d3b5b04d8) |
-| Wed, 02 Jul 2025 05:46:48 GMT | Top Factors to Consider Before Enrolling in a Cybersecurity Course | Dhanashri Bhale | [Read More](https://medium.com/p/09ef80da3a40) |
-| Wed, 02 Jul 2025 05:42:09 GMT | O que é Firewall? | Filipe Campos | [Read More](https://medium.com/p/2b069a92acee) |
-| Wed, 02 Jul 2025 05:35:43 GMT | Cybersecurity Solutions in Dubai | Bestchoicetoursdubai | [Read More](https://medium.com/p/b92f66e9ab70) |
-| Wed, 02 Jul 2025 05:33:50 GMT | “How I Indexed 2,054 n8n Workflows Locally to Build an Agentic AI Lab for Automation &… | Inayat Hussain | [Read More](https://medium.com/p/c6c990e54bc1) |
-| Wed, 02 Jul 2025 05:33:37 GMT | Cybersecurity Tools & Techniques | DarKVoicE | [Read More](https://medium.com/p/2cdf937a4d42) |
-| Wed, 02 Jul 2025 05:29:14 GMT | Installing and Configuring SailPoint IdentityIQ: A Beginner’s Guide | Surya Raja | [Read More](https://medium.com/p/52b3d1a9c020) |
-| Wed, 02 Jul 2025 05:16:47 GMT | JWT Post Exploitation Vectors | Monethic.io | [Read More](https://medium.com/p/cbaa90ac1a65) |
-| Wed, 02 Jul 2025 05:14:48 GMT | “Script Kiddie”: The Wannabe Hacker or a Real Threat? | Stargazenine | [Read More](https://medium.com/p/e6f24269e7fc) |
-| Wed, 02 Jul 2025 05:07:26 GMT | Bypassing Payment for Project Creation | Eyad Waleed | [Read More](https://medium.com/p/81b5e0f02c4c) |
-| Wed, 02 Jul 2025 05:05:11 GMT | The Hidden World of Digital Manipulation — Phone Farming Unveiling the Concept | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/e92720eb051d) |
