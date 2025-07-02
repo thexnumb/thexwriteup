@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 18:28:05 GMT | The Truth About Browser Extensions: How They Can Secretly Steal Your Private Data | Aryan Shrestha | [Read More](https://medium.com/p/1ea03aca91a0) |
+| Wed, 02 Jul 2025 18:26:16 GMT | TRUST | Enoch Root | [Read More](https://medium.com/p/5ec3601171c9) |
+| Wed, 02 Jul 2025 18:13:01 GMT | SIEM Challenges You Shouldn’t Ignore and How to Solve Them | SafeAeon Inc. | [Read More](https://medium.com/p/37712cd2911a) |
+| Wed, 02 Jul 2025 18:06:10 GMT | Secrets, Sync, and Sanity: How We Made Terraform Safer With One Simple Pattern | Mohamed Sazni | [Read More](https://medium.com/p/3feb4c03d239) |
+| Wed, 02 Jul 2025 17:57:03 GMT | ## Guide pour renforcer votre sécurité en ligne 
+**Robin Boucher — Étudiant en cybersécurité**… | Robin Boucher | [Read More](https://medium.com/p/d7c6fcf1248d) |
+| Wed, 02 Jul 2025 17:56:51 GMT | Protecting 3D Content: The Case for Digital Rights Management in Visualization Workflows | VNTANA | [Read More](https://medium.com/p/35443a3f022a) |
+| Wed, 02 Jul 2025 17:55:35 GMT | AI-Powered Digital Workers: Securely Enabling the Future of Work with AI Agents | Valdez Ladd | [Read More](https://medium.com/p/ed21ed6e0320) |
+| Wed, 02 Jul 2025 17:49:22 GMT | How I Study Consistently While Working a 9–5 Full-Time Job | Vijay Kumar Gupta | [Read More](https://medium.com/p/a25341438e99) |
+| Wed, 02 Jul 2025 17:49:01 GMT | Why Enterprises Still Get Hacked: The Cost of Negligence | Faneesh Juneja | [Read More](https://medium.com/p/0325f01f6cb0) |
+| Wed, 02 Jul 2025 17:47:41 GMT | Shield Your Business: 10 Smart Ways to Prevent a Cybersecurity Breach | SafeAeon Inc. | [Read More](https://medium.com/p/87ad0a72b324) |
+| Wed, 02 Jul 2025 17:47:29 GMT | Tecnología con conciencia: cómo innovar sin perder el control | Sharon Duran | [Read More](https://medium.com/p/1f0cb891fa30) |
+| Wed, 02 Jul 2025 17:42:41 GMT | Welcome to My Cybersecurity Journey: From SOC Analyst to Multi-Domain Defender | ajay devaliya | [Read More](https://medium.com/p/9198a09574d7) |
+| Wed, 02 Jul 2025 17:42:20 GMT | Why the Moon Has 4G While Earth’s Telecoms are Still Stuck in the Dark Ages | ‍ JustaskPenny | [Read More](https://medium.com/p/a47fbd00490b) |
+| Wed, 02 Jul 2025 17:41:26 GMT | Red Team vs Blue Team: Inside the Simulated Cyber War | Sumit Shaw | [Read More](https://medium.com/p/1995bd8f84a0) |
 | Wed, 02 Jul 2025 17:36:13 GMT | Ethical Hacking Uncovered: Real Tactics & Too | Sumit Shaw | [Read More](https://medium.com/p/88f006dc0e43) |
 | Wed, 02 Jul 2025 17:32:50 GMT | How I’d Start Bug Bounties If I Had to Begin in 2025 (No Degree, No Experience) | Rishabh Shrivastava | [Read More](https://medium.com/p/7845fa013b9f) |
 | Wed, 02 Jul 2025 17:30:49 GMT | Serverless Blog vs Traditional CMS: A Modern Showdown for Power, Cost, Security, and SEO | Haresh Vidja | [Read More](https://medium.com/p/32b77ab29b20) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 13:22:03 GMT | Architectural Considerations for SaaS Application — PART (3/12):Resource Access & Storage | Dhyan Sagar | [Read More](https://medium.com/p/c0db43ebf3a1) |
 | Wed, 02 Jul 2025 13:21:32 GMT | How to Ensure Cloud Security Without Compromising Agility | Katherine Morgan | [Read More](https://medium.com/p/151f590f646d) |
 | Wed, 02 Jul 2025 13:21:29 GMT | Crypto Drift Is Already Here | David Canellos | [Read More](https://medium.com/p/e08b390d5358) |
-| Wed, 02 Jul 2025 13:21:06 GMT | How Do Hackers Sneak Past WAFs Undetected | Ibtissam hammadi | [Read More](https://medium.com/p/4d3bc5204f80) |
-| Wed, 02 Jul 2025 13:18:31 GMT | Fantom, BlackHole, uniclyNFT: Keys, Burns, and Reentrancy All Over Again | Olympix | [Read More](https://medium.com/p/fb207cfb5295) |
-| Wed, 02 Jul 2025 13:15:55 GMT | Stop Asking for Permission to Be Yourself | Swapnil Agarwal - The Fit Dev | [Read More](https://medium.com/p/cccfebc4527f) |
-| Wed, 02 Jul 2025 13:11:35 GMT | Exposing A Facebook Investment Scam: Real Messages, Real Lies. | The Anti-Scam Diaries | [Read More](https://medium.com/p/771ffd490914) |
-| Wed, 02 Jul 2025 13:06:42 GMT | How Businesses Can Stay GDPR Compliant: Key Best Practices | Ampcus Cyber | [Read More](https://medium.com/p/436b4505bece) |
-| Wed, 02 Jul 2025 13:02:07 GMT | First Your Signature, Then Your Fingerprint… Now Your Retina? | S3CloudHub | [Read More](https://medium.com/p/72112bfb68f3) |
-| Wed, 02 Jul 2025 13:02:04 GMT | AI-Powered & Automated Vulnerability Discovery: The Future of Pentesting Has Arrived | Ekene Joseph | [Read More](https://medium.com/p/48b636c2dbc8) |
-| Wed, 02 Jul 2025 13:00:24 GMT | FoxyWallet: 40+ Malicious Firefox Extensions Exposed | Yuval Ronen | [Read More](https://medium.com/p/4c14419de486) |
-| Wed, 02 Jul 2025 12:57:53 GMT | Blockchain Breach? | The British Blockchain Association (The BBA) | [Read More](https://medium.com/p/726ae2af66db) |
-| Wed, 02 Jul 2025 12:56:21 GMT | How to Actually Learn Hacking in 2025–26: A Practical Guide | S3CloudHub | [Read More](https://medium.com/p/98bd7faf7108) |
-| Wed, 02 Jul 2025 12:55:47 GMT | Are You in Control of Your Network Security Groups in Azure? | Jón Orri Kristjánsson | [Read More](https://medium.com/p/699019cabd01) |
-| Wed, 02 Jul 2025 12:50:03 GMT | Even When I Doubt Myself, I’m Still Becoming | paday∞n | [Read More](https://medium.com/p/a3708188a910) |
-| Wed, 02 Jul 2025 12:41:26 GMT | Why I Left the Stars to Fight in the Cyber | Hasanul H Zarif | [Read More](https://medium.com/p/889c3c8291db) |
-| Wed, 02 Jul 2025 12:39:38 GMT | Retail Security Robotics | Presslink Media | [Read More](https://medium.com/p/e5f5742f5cca) |
