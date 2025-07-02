@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 19:24:10 GMT | Risk elements and lifecycle | Siddiquimohammad | [Read More](https://medium.com/p/e525324c7bdd) |
+| Wed, 02 Jul 2025 19:16:18 GMT | Bash Scripting Hacks Every Developer Should Know | Ashish Singh | [Read More](https://medium.com/p/af3494a07a77) |
+| Wed, 02 Jul 2025 19:05:23 GMT | Why Cybersecurity Due Diligence is Critical for Business Growth and Revenue | Kineberg Solutions | [Read More](https://medium.com/p/5e76c914af4a) |
 | Wed, 02 Jul 2025 19:03:34 GMT | Phishing: Build It, Launch It, Learn From It (All Legally) | Code With Hannan | [Read More](https://medium.com/p/698362165033) |
 | Wed, 02 Jul 2025 18:58:59 GMT | Building Secure AI Agents as Backends with MCP for Dynamic UIs and CRUD Operations | Kondwani Nyirenda | [Read More](https://medium.com/p/b2defd416928) |
 | Wed, 02 Jul 2025 18:54:34 GMT | take a chance with me | Ae | [Read More](https://medium.com/p/1e316942d5ea) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 13:52:50 GMT | The Password Manager Paradox: When Security Tools Become Attack Vectors | Eric Zietlow | [Read More](https://medium.com/p/e06ea5f20e3b) |
 | Wed, 02 Jul 2025 13:48:04 GMT | My Mission in Cybersecurity: Practical Insights, Powered by AI | Xsecopsmindset | [Read More](https://medium.com/p/fb0f295ad5e9) |
 | Wed, 02 Jul 2025 13:47:06 GMT | From Smart Tools to Sluggish Minds: The Dark Side of AI Convenience | Shuaibu Adamu | [Read More](https://medium.com/p/10386a3fb73a) |
-| Wed, 02 Jul 2025 13:41:55 GMT | WAF bypass technique — Part 1 | yee-yore | [Read More](https://medium.com/p/cc01e5639313) |
-| Wed, 02 Jul 2025 13:40:19 GMT | WhatsApp OSINT Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/c9050048193b) |
-| Wed, 02 Jul 2025 13:38:05 GMT | Fake Cell Towers Can Spy on Your Phone — Android 16 Fights Back | Aj | [Read More](https://medium.com/p/07d8206811d2) |
