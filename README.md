@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 09:24:59 GMT | How WAFs Stop Crawlers, Scrapers, and Bad Bots | AerieWhole123 | [Read More](https://medium.com/p/dd4f82e4d47d) |
+| Wed, 02 Jul 2025 09:23:15 GMT | Can attack surface management reduce security risks? | Ziya Zoe | [Read More](https://medium.com/p/40c1860a766d) |
+| Wed, 02 Jul 2025 09:21:38 GMT | Enhancing B2B Digital Gifting Through Cybersecurity Relations | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/26df6f0ca87d) |
+| Wed, 02 Jul 2025 09:20:53 GMT | CRACKS IN THE ARMOR | Kelechiokoroji | [Read More](https://medium.com/p/183487a849d4) |
+| Wed, 02 Jul 2025 09:19:40 GMT | TryHackMe: Skynet Walkthrough | Sondip Roy | [Read More](https://medium.com/p/16d8dda7d2fb) |
+| Wed, 02 Jul 2025 09:17:41 GMT | Data Liquidity: The Key to Taming IT Complexity | Tim Edge | [Read More](https://medium.com/p/3e35420885b4) |
+| Wed, 02 Jul 2025 09:15:33 GMT | The Complexity of Evolving Complex IT | Tim Edge | [Read More](https://medium.com/p/4f5d96769673) |
+| Wed, 02 Jul 2025 09:15:18 GMT | Threat Intel: Microsoft 365 Direct Send Phishing Attack Targets UK SMEs — Email Security Alert | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/3bdcd011b794) |
+| Wed, 02 Jul 2025 09:15:17 GMT | My Journey with SafeLine: A Practical and Powerful Open Source WAF | Quella | [Read More](https://medium.com/p/b3987190c658) |
+| Wed, 02 Jul 2025 09:14:14 GMT | CVSS Scoring | Ferdi Edogawa | [Read More](https://medium.com/p/ea7cfba4fced) |
+| Wed, 02 Jul 2025 09:13:25 GMT | (Coarse Language) 10 Feet Tall with a Heart of Stone — Poem | Capitol A | [Read More](https://medium.com/p/67cb285a8c41) |
+| Wed, 02 Jul 2025 09:12:10 GMT | Understanding Domain Name Attacks | Cyber Timi | [Read More](https://medium.com/p/f13465a1db0a) |
+| Wed, 02 Jul 2025 09:10:37 GMT | 1. CVE‑2025‑0454 — autogpt SSRF via URL Parsing Confusion | Narendar Battula (nArEn) | [Read More](https://medium.com/p/921d66fafcbe) |
+| Wed, 02 Jul 2025 09:04:48 GMT | Clouds Are Heavy When Misconfigured | Oludare Stephen Ayobami | [Read More](https://medium.com/p/18cd9d6fc585) |
+| Wed, 02 Jul 2025 08:57:11 GMT | The Startup’s Guide to Compliance Automation | Sridhar | [Read More](https://medium.com/p/fcedfe81a533) |
+| Wed, 02 Jul 2025 08:54:41 GMT | The Methodology of Penetration Testing (Explained Simply) | Ferdi Edogawa | [Read More](https://medium.com/p/45632f056d2f) |
 | Wed, 02 Jul 2025 08:37:18 GMT | How to Get a Job Fast in 2025: 20 Tried-and-Tested Tips to Accelerate Your Career Journey | HamnaAhmad | [Read More](https://medium.com/p/e612325f7bdf) |
 | Wed, 02 Jul 2025 08:35:39 GMT | I Wasn’t Afraid of Men. I Was Trained to Be Careful Around Them. | Ayushi Jindal | [Read More](https://medium.com/p/57aa147e56ff) |
 | Wed, 02 Jul 2025 08:33:34 GMT | Prio3: Private, Robust, and Scalable Computation of Aggregate Statistics and SNIPs | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/de1dce83192d) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 03:53:51 GMT | India’s New Cyber Laws: Navigating the Digital Landscape in 2025 with CyberKanun | Ankitinnjoshi | [Read More](https://medium.com/p/41e2f05c139a) |
 | Wed, 02 Jul 2025 03:48:54 GMT | Excessive Trust in Client-Side Controls | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/7ed663125ee9) |
 | Wed, 02 Jul 2025 03:48:23 GMT | “7 Everyday Habits That Make You an Easy Target for Hackers” | Anshika Prajapati | [Read More](https://medium.com/p/aa4216c8e52a) |
-| Wed, 02 Jul 2025 03:35:01 GMT | Does Expert Consulting Break NDAs? Why This Cybersecurity Engineer Decided to Share His Expertise | Expert Network Insider | [Read More](https://medium.com/p/fa7cab11b4cf) |
-| Wed, 02 Jul 2025 03:32:51 GMT | Inside the Galaxy S24 Quick Share Vulnerability: What It Means and How to Stay Protected | Deven Chhajed | [Read More](https://medium.com/p/868ec3b7c340) |
-| Wed, 02 Jul 2025 03:20:20 GMT | Yasar | Numan khan | [Read More](https://medium.com/p/106ea93c4e72) |
-| Wed, 02 Jul 2025 03:15:03 GMT | Stop Committing Mistakes: Catch Issues Early with Git Pre-Commit Hooks | Ariel Fischbein | [Read More](https://medium.com/p/c88e7393325c) |
-| Wed, 02 Jul 2025 03:06:26 GMT | What I have learned from my very first Cybersecurity internship. | aflame | [Read More](https://medium.com/p/9ba80385b6d5) |
-| Wed, 02 Jul 2025 03:03:47 GMT | Learning to Lead — Part 2: Crisis as Curriculum | Dea Safirahilda | [Read More](https://medium.com/p/d43584f32941) |
-| Wed, 02 Jul 2025 02:53:51 GMT | Bypassing GraphQL Brute Force Protections | Bash Overflow | [Read More](https://medium.com/p/fdccecc50c81) |
-| Wed, 02 Jul 2025 02:42:09 GMT | The Heart of Modern Communication: A Deep Dive into the TCP/IP Architecture | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/bcba5c9aea5f) |
-| Wed, 02 Jul 2025 02:39:02 GMT | Crafting a Life Raft & Foundation with OCD | Uland's OCD Hub | [Read More](https://medium.com/p/b66987f7f22f) |
-| Wed, 02 Jul 2025 02:32:37 GMT | Smartoneblr exposes 10k+ PII | Fishy_ | [Read More](https://medium.com/p/653848d88fe9) |
-| Wed, 02 Jul 2025 02:29:32 GMT | Understanding IPv4 Address Classes and Subnetting | Samira Fallah | [Read More](https://medium.com/p/0b8e3ebadedd) |
-| Wed, 02 Jul 2025 02:26:15 GMT | Why Zero Trust is Not a product but a strategy you can’t ignore in 2025 | Badaolaitan | [Read More](https://medium.com/p/80b484f94c76) |
-| Wed, 02 Jul 2025 02:20:33 GMT | What If I Just Said It? | Akshat Singh | [Read More](https://medium.com/p/7f84d73f1ff8) |
-| Wed, 02 Jul 2025 02:18:17 GMT | Fraud Scheme: How Fake LLCs Are Used to Commit Loan Fraud | Internet Exposed | [Read More](https://medium.com/p/dccea4f4471b) |
-| Wed, 02 Jul 2025 02:12:11 GMT | From Survival to Code: My Journey as Zwanski | zwanski tech | [Read More](https://medium.com/p/86c711991b21) |
-| Wed, 02 Jul 2025 02:01:53 GMT | Docker Security: Common Vulnerabilities and How to Fix Them | @rnab | [Read More](https://medium.com/p/c1e8e5f14ab6) |
