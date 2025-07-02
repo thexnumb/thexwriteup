@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 04:47:03 GMT | Navigating RBI’s Latest Digital Payment Guidelines for Fintech Startups in 2025 | Akhil Mishra | [Read More](https://medium.com/p/3a23bfae92d6) |
+| Wed, 02 Jul 2025 04:46:45 GMT | The Linux Concept Journey — dm (Device Mapper) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e6bc42981893) |
+| Wed, 02 Jul 2025 04:40:13 GMT | Every Programmer Should Try Hacking (And How I’m Starting) | Daniel. Alegria Lino | [Read More](https://medium.com/p/180e18de4313) |
+| Wed, 02 Jul 2025 04:24:40 GMT | Gradium (GRD) — Strong market performance backed by real utility | Gradium | [Read More](https://medium.com/p/c5f8f9abaa5f) |
+| Wed, 02 Jul 2025 04:14:26 GMT | Gradium — The lightweight layer 1 blockchain powering the future of cybersecurity innovation | Gradium | [Read More](https://medium.com/p/59f516698329) |
+| Wed, 02 Jul 2025 04:08:53 GMT | OSINT Combine CTFD — OSINT 101 (Reconnaisance) Write-Up | rootsechax | [Read More](https://medium.com/p/dbe8a3cfc9f8) |
 | Wed, 02 Jul 2025 03:53:51 GMT | India’s New Cyber Laws: Navigating the Digital Landscape in 2025 with CyberKanun | Ankitinnjoshi | [Read More](https://medium.com/p/41e2f05c139a) |
 | Wed, 02 Jul 2025 03:48:54 GMT | Excessive Trust in Client-Side Controls | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/7ed663125ee9) |
 | Wed, 02 Jul 2025 03:48:23 GMT | “7 Everyday Habits That Make You an Easy Target for Hackers” | Anshika Prajapati | [Read More](https://medium.com/p/aa4216c8e52a) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 18:49:13 GMT | Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/1182636656bf) |
 | Tue, 01 Jul 2025 18:46:36 GMT | Building a Cybersecurity ETL Pipeline with FastAPI, PySpark & MongoDB | Shrugaltayal | [Read More](https://medium.com/p/023634c0864f) |
 | Tue, 01 Jul 2025 18:43:22 GMT | The problem with Bitcoin “secret words” | Abhijit Saha | [Read More](https://medium.com/p/f2b12c23ebe4) |
-| Tue, 01 Jul 2025 18:38:20 GMT | XSS Vulnerabilities — Full Lifecycle Breakdown with Mitigations | Zoningxtr | [Read More](https://medium.com/p/efa88047d652) |
-| Tue, 01 Jul 2025 18:30:05 GMT | The Complete Review of : “Cult of the Dead Cow” by Joseph Menn | Akshara Siddharthan | [Read More](https://medium.com/p/08ddcb298635) |
-| Tue, 01 Jul 2025 18:29:57 GMT | Inside the Shadows: What Are Dark Web Websites and Why You Should Care | Akshay Chauhan | [Read More](https://medium.com/p/5eb96193fa60) |
-| Tue, 01 Jul 2025 18:27:51 GMT | The Ethical Hacking Sentinel (July 1) | Franklin Rhodes | [Read More](https://medium.com/p/4e081a59d219) |
-| Tue, 01 Jul 2025 18:18:08 GMT | Why Breach and Attack Simulation is Becoming a Must-Have for Modern Enterprises | DefenceRabbit | [Read More](https://medium.com/p/033336b2f240) |
-| Tue, 01 Jul 2025 18:10:56 GMT | Suzanne Alipourian-Frascogna: Bridging Cybersecurity and Product Management in the Digital Era | Suzanne Alipourian-Frascogna | [Read More](https://medium.com/p/1b8b38d625d2) |
