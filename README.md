@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 16:20:43 GMT | Why Your Recon is Lying to You — And What to Do About It ️‍♂️ | Đeepanshu | [Read More](https://medium.com/p/e3792a1df86a) |
+| Wed, 02 Jul 2025 16:16:51 GMT | #69 — Tongue-Tied | Christian Augspurg | [Read More](https://medium.com/p/acde4f05d47b) |
+| Wed, 02 Jul 2025 16:12:52 GMT | Confused by Website Security & Backups? My “Set It and Forget It” WordPress Checklist. | Makemoneytactic | [Read More](https://medium.com/p/af48e33d99eb) |
+| Wed, 02 Jul 2025 16:12:31 GMT | Cryptography for Beginners: How Encryption Really Works Today | FelixFab | [Read More](https://medium.com/p/d34714344f50) |
+| Wed, 02 Jul 2025 16:08:53 GMT | 10 Best WordPress Directory and listing Themes in 2025 | bestsoftwp | [Read More](https://medium.com/p/c0a9079e69c3) |
+| Wed, 02 Jul 2025 16:02:54 GMT | 99.99% Uptime Goals Are Hurting Developer Velocity | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/ea0c9363916c) |
+| Wed, 02 Jul 2025 16:00:42 GMT | Multi‑Vector Threats in a Fragile World: How State, Non‑State, and Regulatory Forces Are Reshaping… | The DEFCON Warning System | [Read More](https://medium.com/p/ab604230608c) |
+| Wed, 02 Jul 2025 15:59:25 GMT | The Anatomy of Broken Things | Zeynep | [Read More](https://medium.com/p/fc6023a17dc2) |
+| Wed, 02 Jul 2025 15:57:56 GMT | Zama and FHE: The Future of Private and Secure Blockchains Has Arrived | heder.eth | [Read More](https://medium.com/p/ea3e91640213) |
+| Wed, 02 Jul 2025 15:56:38 GMT | Am I Falling in Love, or Just Starving for Connection? | Akshat Singh | [Read More](https://medium.com/p/eec7de5122c6) |
+| Wed, 02 Jul 2025 15:51:16 GMT | Scale Cost — A New Attack on Modern Applications | Lior Rotkovitch | [Read More](https://medium.com/p/89efcbea9c92) |
+| Wed, 02 Jul 2025 15:49:58 GMT | DanaBot Lab Analysis | Omer Bawazir | [Read More](https://medium.com/p/7dbaa179f3e4) |
+| Wed, 02 Jul 2025 15:34:20 GMT | Legitimate Crypto Recovery Companies | Paulgibson | [Read More](https://medium.com/p/a180a2f2f19e) |
+| Wed, 02 Jul 2025 15:34:03 GMT | Your Internet Service Provider is Watching—Here’s How to Disappear | Aj | [Read More](https://medium.com/p/658512b1391a) |
+| Wed, 02 Jul 2025 15:32:25 GMT | XVWA Error-Based SQL Injection | Görkem Bellur | [Read More](https://medium.com/p/5c8a4dcdb5fb) |
 | Wed, 02 Jul 2025 15:31:54 GMT | Technology Hits, Ransomware Hits (The Moral Aspect) | DarKVoicE | [Read More](https://medium.com/p/9b9d746f312d) |
 | Wed, 02 Jul 2025 15:23:10 GMT | Shift Left and DevSecOps: A Penetration Tester’s Guide for Beginners | Mr Joe | [Read More](https://medium.com/p/3114c2180221) |
 | Wed, 02 Jul 2025 15:22:27 GMT | Prioritising Cyber Security | Rico Surridge | [Read More](https://medium.com/p/c3d94911bbb0) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 11:52:22 GMT | DevSecOps Is Just Security’s Way of Shifting Blame to Developers | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/19628caacc9a) |
 | Wed, 02 Jul 2025 11:49:33 GMT | When Personal Details Become Public: The Qantas Data Breach Explained | Amita | [Read More](https://medium.com/p/34a68a9b089c) |
 | Wed, 02 Jul 2025 11:48:58 GMT | What is the scope of managed security services? | James Damon | [Read More](https://medium.com/p/2897918d64c2) |
-| Wed, 02 Jul 2025 11:40:25 GMT | Our ISO 27001 journey: From security blueprint to certification success | Maxime Auvy | [Read More](https://medium.com/p/a2e0b7b03bb9) |
-| Wed, 02 Jul 2025 11:36:01 GMT | How I Found a Critical API Vulnerability in a Global Brand with 50M+ Customers (And How to Prevent… | Ali Al Saleh | [Read More](https://medium.com/p/251fb35147d7) |
-| Wed, 02 Jul 2025 11:22:55 GMT | Master #SailPoint IdentityIQ with Power-Packed Online Training! | Pravin Choudhary | [Read More](https://medium.com/p/542f78f59655) |
-| Wed, 02 Jul 2025 11:22:13 GMT | Emergency Alarm Response Services: Quick and Reliable Assistance | Professional UK Services | [Read More](https://medium.com/p/ec8eea4197b6) |
-| Wed, 02 Jul 2025 11:18:43 GMT | 3 Red Team Lessons That Will Make You a Better Defender — From the Hacker Hunter’s Playbook | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/54c5b61223d6) |
-| Wed, 02 Jul 2025 11:16:50 GMT | When the Supply Chain Gets Compromised: The Hidden Threat Inside Trusted Code | Hammaad M | [Read More](https://medium.com/p/1f6cf05a2c20) |
-| Wed, 02 Jul 2025 11:11:27 GMT | Nation‑State & Proxy Threats: The Growing Menace in Cybersecurity | Mr Joe | [Read More](https://medium.com/p/610dbd6a9a37) |
-| Wed, 02 Jul 2025 11:02:06 GMT | Phishing Email Awareness Series: Part-3 | Leetsec Sarwar | [Read More](https://medium.com/p/8825526f98fa) |
-| Wed, 02 Jul 2025 11:01:53 GMT | Kali Linux 2025.2 Released: New Features, Tools, and How to Upgrade | Mr Joe | [Read More](https://medium.com/p/99bf1ccd1d1c) |
-| Wed, 02 Jul 2025 11:01:16 GMT | Title: Breaking the Illusion of Nonce Safety in ERC-4337: A Real-World Replay Attack Vector | Prince Philip | [Read More](https://medium.com/p/911bad15de20) |
-| Wed, 02 Jul 2025 10:58:05 GMT | Secure Code Review: Strengthening Your Software from the Inside Out | Aaishasharma | [Read More](https://medium.com/p/c546894d49ef) |
-| Wed, 02 Jul 2025 10:54:47 GMT | Navigating the Digital Storm: Why the NIST Cybersecurity Framework is Your Business’s Anchor | ITIO INNOVEX | [Read More](https://medium.com/p/eb58b21380cd) |
-| Wed, 02 Jul 2025 10:54:40 GMT | The Great Bank Heist Gone Wrong: How a Toilet Break Turned into a Cyber Caper | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/e6e944e0024f) |
-| Wed, 02 Jul 2025 10:52:59 GMT | Threat Intelligence 101 | The Security Bee | [Read More](https://medium.com/p/e1caf8914adb) |
-| Wed, 02 Jul 2025 10:48:53 GMT | Understanding VPNs: Benefits and Limitations for 2025 | Karl Buhl | [Read More](https://medium.com/p/610edf8e04f2) |
