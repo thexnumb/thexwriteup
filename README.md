@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 23:33:00 GMT | FortiGuard IPS Service By Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4dde9543daf0) |
+| Wed, 02 Jul 2025 23:29:53 GMT | ✅ Email infrastructure (AWS SES/SMTP)
+✅ Deliverability optimization & sender reputation
+✅ Bulk… | ProFlowSupport | [Read More](https://medium.com/p/3b2cabcc074a) |
 | Wed, 02 Jul 2025 23:08:21 GMT | HTB Academy — Broken Authentication (skill assessment) | BotsiCat | [Read More](https://medium.com/p/01b6ac45ee2c) |
 | Wed, 02 Jul 2025 22:51:00 GMT | How I Used the js.map File to Gain Admin Access | CypherNova1337 | [Read More](https://medium.com/p/e30e6f00adb7) |
 | Wed, 02 Jul 2025 22:48:12 GMT | Yuzu Keys: Your Gateway to Nintendo Switch Gaming on PC | Akshay Chauhan | [Read More](https://medium.com/p/46fa46bc9091) |
@@ -111,5 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 15:49:58 GMT | DanaBot Lab Analysis | Omer Bawazir | [Read More](https://medium.com/p/7dbaa179f3e4) |
 | Wed, 02 Jul 2025 15:34:20 GMT | Legitimate Crypto Recovery Companies | Paulgibson | [Read More](https://medium.com/p/a180a2f2f19e) |
 | Wed, 02 Jul 2025 15:34:03 GMT | Your Internet Service Provider is Watching—Here’s How to Disappear | Aj | [Read More](https://medium.com/p/658512b1391a) |
-| Wed, 02 Jul 2025 15:32:25 GMT | XVWA Error-Based SQL Injection | Görkem Bellur | [Read More](https://medium.com/p/5c8a4dcdb5fb) |
-| Wed, 02 Jul 2025 15:31:54 GMT | Technology Hits, Ransomware Hits (The Moral Aspect) | DarKVoicE | [Read More](https://medium.com/p/9b9d746f312d) |
