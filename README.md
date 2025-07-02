@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 05:16:47 GMT | JWT Post Exploitation Vectors | Monethic.io | [Read More](https://medium.com/p/cbaa90ac1a65) |
+| Wed, 02 Jul 2025 05:14:48 GMT | “Script Kiddie”: The Wannabe Hacker or a Real Threat? | Stargazenine | [Read More](https://medium.com/p/e6f24269e7fc) |
+| Wed, 02 Jul 2025 05:07:26 GMT | Bypassing Payment for Project Creation | Eyad Waleed | [Read More](https://medium.com/p/81b5e0f02c4c) |
+| Wed, 02 Jul 2025 05:05:11 GMT | The Hidden World of Digital Manipulation — Phone Farming Unveiling the Concept | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/e92720eb051d) |
+| Wed, 02 Jul 2025 05:04:20 GMT | Malware: Because Why Hack When You Can Infect? | DarKVoicE | [Read More](https://medium.com/p/d75394f30cb3) |
+| Wed, 02 Jul 2025 05:01:34 GMT | Cybersecurity Basics Refresher Series — Part 4: How DNS Works — And Why It’s a Security Risk Too | Atharva Sardesai | [Read More](https://medium.com/p/1278c32cc49f) |
+| Wed, 02 Jul 2025 04:59:58 GMT | Best Security Company in Singapore: What Makes One Stand Out? | Jane Tang | [Read More](https://medium.com/p/221f5a7fc61c) |
+| Wed, 02 Jul 2025 04:49:59 GMT | CEH Certification Prep: Why CEH v12 Online Course is Your Best Option | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/1b5d9bd5a004) |
 | Wed, 02 Jul 2025 04:47:03 GMT | Navigating RBI’s Latest Digital Payment Guidelines for Fintech Startups in 2025 | Akhil Mishra | [Read More](https://medium.com/p/3a23bfae92d6) |
 | Wed, 02 Jul 2025 04:46:45 GMT | The Linux Concept Journey — dm (Device Mapper) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e6bc42981893) |
 | Wed, 02 Jul 2025 04:40:13 GMT | Every Programmer Should Try Hacking (And How I’m Starting) | Daniel. Alegria Lino | [Read More](https://medium.com/p/180e18de4313) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 19:08:41 GMT | The Quiet Guilt That Stole 5 Years of My Life | Swapnil Agarwal - The Fit Dev | [Read More](https://medium.com/p/d99de8f45eb3) |
 | Tue, 01 Jul 2025 19:08:24 GMT | RAG vs ChatGPT | Marc Dispensa | [Read More](https://medium.com/p/bf04322ba61d) |
 | Tue, 01 Jul 2025 19:05:10 GMT | Behind the Mask: How Tor’s Anonymity Breaks Down | P3rryTHEplatipu55 | [Read More](https://medium.com/p/1c154762b919) |
-| Tue, 01 Jul 2025 19:04:19 GMT | Navigating the Cybersecurity Labyrinth: From Vendors to a Sustainable Career Path | Yaroslav | [Read More](https://medium.com/p/d7857dae87c5) |
-| Tue, 01 Jul 2025 19:00:55 GMT | The AI’s Existential Crisis: An Unexpected Journey with Cursor and Gemini 2.5 Pro | Brian Soby | [Read More](https://medium.com/p/7dd811ba7e5e) |
-| Tue, 01 Jul 2025 18:59:44 GMT | TryHackMe - HTTP Browser Desync - WriteUp | Axoloth | [Read More](https://medium.com/p/38a3c137378c) |
-| Tue, 01 Jul 2025 18:57:30 GMT | My OSCP Journey: A Year of Growth, Resilience, and “Try Harder” | Vaibhavi Shirurkar | [Read More](https://medium.com/p/2729d8c4c09f) |
-| Tue, 01 Jul 2025 18:52:06 GMT | Crypto Thefts Cross $2.5 Billion in Just Six Months | Ezekiel Nigo | [Read More](https://medium.com/p/0709a94e8de9) |
-| Tue, 01 Jul 2025 18:49:13 GMT | Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/1182636656bf) |
-| Tue, 01 Jul 2025 18:46:36 GMT | Building a Cybersecurity ETL Pipeline with FastAPI, PySpark & MongoDB | Shrugaltayal | [Read More](https://medium.com/p/023634c0864f) |
-| Tue, 01 Jul 2025 18:43:22 GMT | The problem with Bitcoin “secret words” | Abhijit Saha | [Read More](https://medium.com/p/f2b12c23ebe4) |
