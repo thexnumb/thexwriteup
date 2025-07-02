@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 19:03:34 GMT | Phishing: Build It, Launch It, Learn From It (All Legally) | Code With Hannan | [Read More](https://medium.com/p/698362165033) |
+| Wed, 02 Jul 2025 18:58:59 GMT | Building Secure AI Agents as Backends with MCP for Dynamic UIs and CRUD Operations | Kondwani Nyirenda | [Read More](https://medium.com/p/b2defd416928) |
+| Wed, 02 Jul 2025 18:54:34 GMT | take a chance with me | Ae | [Read More](https://medium.com/p/1e316942d5ea) |
+| Wed, 02 Jul 2025 18:53:14 GMT | Signaling Attacks | Maishamanarat | [Read More](https://medium.com/p/fae2b5ff4699) |
+| Wed, 02 Jul 2025 18:51:52 GMT | Behind the Mask: How Fraudulent Retail Sites Are Stealing Shopper Data and Brand Trust | Avnishyam | [Read More](https://medium.com/p/7cea5d21ddd4) |
+| Wed, 02 Jul 2025 18:50:52 GMT | Securing Remote MCP Servers | Jake Berkowsky | [Read More](https://medium.com/p/45206008020e) |
+| Wed, 02 Jul 2025 18:45:54 GMT | To respect copyright policies, I’ve provided the official DOI link for full access. | R Sh | [Read More](https://medium.com/p/787715630857) |
+| Wed, 02 Jul 2025 18:40:55 GMT | Learn. Grow. Share. Earn. | yeabsira yabuman | [Read More](https://medium.com/p/1d54c266b819) |
+| Wed, 02 Jul 2025 18:40:15 GMT | Who’s Really Controlling Your AI ? | Shambhavi Shukla | [Read More](https://medium.com/p/13de22ae9d9d) |
+| Wed, 02 Jul 2025 18:38:51 GMT | How to Deploy Wazuh on VMware and Connect a Windows Agent: A Step-by-Step Guide | Zaibahmadofficial | [Read More](https://medium.com/p/e0c970cf4f49) |
+| Wed, 02 Jul 2025 18:37:42 GMT | Digital Entanglements: A Quantum Field View of Cybersecurity | Boris Loza | [Read More](https://medium.com/p/f4226bd98814) |
+| Wed, 02 Jul 2025 18:36:44 GMT | The Future of Smart Locks: How Ultra Wideband and Matter Protocols Are Changing Home Security | Uladzislau Bayouski | [Read More](https://medium.com/p/c2df70a8bb5a) |
+| Wed, 02 Jul 2025 18:31:39 GMT | Top 10 Network Security Best Practices for Businesses | Kevinasutton | [Read More](https://medium.com/p/721d47667dbe) |
 | Wed, 02 Jul 2025 18:28:05 GMT | The Truth About Browser Extensions: How They Can Secretly Steal Your Private Data | Aryan Shrestha | [Read More](https://medium.com/p/1ea03aca91a0) |
 | Wed, 02 Jul 2025 18:26:16 GMT | TRUST | Enoch Root | [Read More](https://medium.com/p/5ec3601171c9) |
+| Wed, 02 Jul 2025 18:26:03 GMT | Cloud Security: Why It Matters and How to Protect Your Cloud in a Multi-Cloud World | Dibu | [Read More](https://medium.com/p/2e368682cf06) |
 | Wed, 02 Jul 2025 18:13:01 GMT | SIEM Challenges You Shouldn’t Ignore and How to Solve Them | SafeAeon Inc. | [Read More](https://medium.com/p/37712cd2911a) |
 | Wed, 02 Jul 2025 18:06:10 GMT | Secrets, Sync, and Sanity: How We Made Terraform Safer With One Simple Pattern | Mohamed Sazni | [Read More](https://medium.com/p/3feb4c03d239) |
 | Wed, 02 Jul 2025 17:57:03 GMT | ## Guide pour renforcer votre sécurité en ligne 
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 13:41:55 GMT | WAF bypass technique — Part 1 | yee-yore | [Read More](https://medium.com/p/cc01e5639313) |
 | Wed, 02 Jul 2025 13:40:19 GMT | WhatsApp OSINT Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/c9050048193b) |
 | Wed, 02 Jul 2025 13:38:05 GMT | Fake Cell Towers Can Spy on Your Phone — Android 16 Fights Back | Aj | [Read More](https://medium.com/p/07d8206811d2) |
-| Wed, 02 Jul 2025 13:37:44 GMT | $8,000 Bounty: Exploiting CVE-2022–40604 | Monika sharma | [Read More](https://medium.com/p/0b3f790b8f97) |
-| Wed, 02 Jul 2025 13:36:48 GMT | ️‍♂️ Understanding SSRF: A Practical Guide from TryHackMe | Mukund | [Read More](https://medium.com/p/692531299823) |
-| Wed, 02 Jul 2025 13:35:51 GMT | Android Güvenlik: Biyometrik Auth, Veri Şifreleme ve Secure UI Best Practiceleri | Bahadireray | [Read More](https://medium.com/p/71b66608e32e) |
-| Wed, 02 Jul 2025 13:30:48 GMT | Onyx, HopeLend, Beluga: Division Bugs and Liquidity Games | Olympix | [Read More](https://medium.com/p/91ff5def9a34) |
-| Wed, 02 Jul 2025 13:28:49 GMT | Qantas Data Breach-A Wake-Up Call | Pentestjunkie07 | [Read More](https://medium.com/p/34c629a01c47) |
-| Wed, 02 Jul 2025 13:27:22 GMT | In 2024, generative AI has grown by 890% | Elizabeth (Libby) | [Read More](https://medium.com/p/881a4981ee49) |
-| Wed, 02 Jul 2025 13:23:18 GMT | “Bilmemek Ayıp Değil, Ayrıca Öğrenmemekte Ayıp Değil.” — S1/Bölüm3: #HangiKonuBu? | Ceren Yavrutürk Kaya | [Read More](https://medium.com/p/23fbf794b2ff) |
-| Wed, 02 Jul 2025 13:22:48 GMT | Architectural Considerations for SaaS Application - PART (1/12): Tenant Isolation | Dhyan Sagar | [Read More](https://medium.com/p/3f0412640ec2) |
-| Wed, 02 Jul 2025 13:22:29 GMT | Architectural Considerations for SaaS Application — PART (2/12): Authentication & Identity… | Dhyan Sagar | [Read More](https://medium.com/p/d79171a6916f) |
-| Wed, 02 Jul 2025 13:22:16 GMT | Digital Trust Begins with Email Security: Preventing Phishing and Spoofing with EDSPL | saurabh cyberinfomines | [Read More](https://medium.com/p/40f8c37b1e77) |
-| Wed, 02 Jul 2025 13:22:05 GMT | 100+ Vulnerabilities in 5 Minutes and a $200 Bug Bounty Reward | WhiteeRabbit | [Read More](https://medium.com/p/8e1ecc727a89) |
-| Wed, 02 Jul 2025 13:22:03 GMT | Architectural Considerations for SaaS Application — PART (3/12):Resource Access & Storage | Dhyan Sagar | [Read More](https://medium.com/p/c0db43ebf3a1) |
-| Wed, 02 Jul 2025 13:21:32 GMT | How to Ensure Cloud Security Without Compromising Agility | Katherine Morgan | [Read More](https://medium.com/p/151f590f646d) |
-| Wed, 02 Jul 2025 13:21:29 GMT | Crypto Drift Is Already Here | David Canellos | [Read More](https://medium.com/p/e08b390d5358) |
