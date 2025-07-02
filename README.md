@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 21:11:24 GMT | How Power BI helps to Analyze Business: A Step-by-Step Guide for 2025 | Techridge Solutions | [Read More](https://medium.com/p/544a82d2a1a1) |
+| Wed, 02 Jul 2025 21:08:17 GMT | What is Zero Trust Model in Cloud Infrastructure? A Complete Guide for 2025 | Techridge Solutions | [Read More](https://medium.com/p/6f030af73b5a) |
+| Wed, 02 Jul 2025 21:01:23 GMT | Deep Learning-Based Fingerprint Identification and Verification: A Comparative Study of Custom CNN… | Rusa UB | [Read More](https://medium.com/p/cf1a376cfb28) |
+| Wed, 02 Jul 2025 20:46:51 GMT | Shadow AI is Everyone’s Problem | Arun Singh | [Read More](https://medium.com/p/3fb6e98dece2) |
+| Wed, 02 Jul 2025 20:37:20 GMT | How to Use Worker: Secure Job Execution Made Simple | Jay Ehsaniara | [Read More](https://medium.com/p/f725ceac47fb) |
 | Wed, 02 Jul 2025 20:33:19 GMT | Why Microsoft 365 Is a Hacker’s Goldmine — and How to Protect Yours | Vanshika Arun | [Read More](https://medium.com/p/5cf844bc5e17) |
 | Wed, 02 Jul 2025 20:32:38 GMT | How i Found Pre Account Takeover in 3 Minutes | Mado | [Read More](https://medium.com/p/32bcdce9f3e6) |
 | Wed, 02 Jul 2025 20:20:26 GMT | I’m Just A Girl: Typing with Talons | CyberHarv : Down the Rabbit Hole Chronicles | [Read More](https://medium.com/p/328aa1a99776) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 14:32:50 GMT | Why OpenSearch Fails When /tmp is Mounted with noexec — And How to Fix It | Yash Patel | [Read More](https://medium.com/p/43f6c1ec587e) |
 | Wed, 02 Jul 2025 14:22:49 GMT | Mastering Docker Bridge Networks: From Beginner to Pro in One Guide | Ashish Singh | [Read More](https://medium.com/p/a0ae6a2eead9) |
 | Wed, 02 Jul 2025 14:22:17 GMT | WebAssembly Meets Hypervisors: Deep Isolation for the Cloud-Native Future | Simardeep Singh | [Read More](https://medium.com/p/c29d065815b3) |
-| Wed, 02 Jul 2025 14:19:06 GMT | ⚡️AWS Bedrock vs. Fine-Tuned Models: Our 300% Cost Surprise | Dev engineer | [Read More](https://medium.com/p/27870aa86868) |
-| Wed, 02 Jul 2025 14:14:46 GMT | REBOOT #06｜“Why Do I Struggle to Talk About Myself?” | REI REIMAGINES | [Read More](https://medium.com/p/7ba80b1211f7) |
-| Wed, 02 Jul 2025 14:11:01 GMT | When Trust Becomes a Threat: Tackling the Cybersecurity Risks of Third Parties | Xsecopsmindset | [Read More](https://medium.com/p/3e70e5f0dbba) |
-| Wed, 02 Jul 2025 14:09:08 GMT | Revolutionizing HR in High-Turnover Industries with AI and Generative AI | Shawn Olds | [Read More](https://medium.com/p/8d2a35824899) |
-| Wed, 02 Jul 2025 14:06:01 GMT | How I Built a Debate Swarm to Keep My AI Honest — And Why We All Need One | Phil Stafford | [Read More](https://medium.com/p/6c847b9ef6c1) |
