@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 10:15:12 GMT | Kali Linux 2025.2: What’s New, Why It Matters, and How to Install It | Ekene Joseph | [Read More](https://medium.com/p/9e423f6a1822) |
+| Wed, 02 Jul 2025 10:14:57 GMT | What Makes a Great Managed SD-WAN Solutions Provider? 6 Must-Have Features | IshanTechnologies | [Read More](https://medium.com/p/aa3325360fa4) |
+| Wed, 02 Jul 2025 10:09:32 GMT | 7 Easy Bugs That Still Work in 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/828bff8cb4e4) |
+| Wed, 02 Jul 2025 10:09:21 GMT | The Invisible Fortress: Why Payment Security is Non-Negotiable in Today’s Digital Economy | ITIO INNOVEX | [Read More](https://medium.com/p/9cd08f369ae5) |
+| Wed, 02 Jul 2025 09:56:28 GMT | How I Discovered the Browser Isolation Maturity Model — And How You Can Master It Too | CyBlog | [Read More](https://medium.com/p/482fea9baaec) |
+| Wed, 02 Jul 2025 09:52:51 GMT | Top Cyber Security Trends: What Every Organization Must Know | IPSpecialist | [Read More](https://medium.com/p/9343e0c721dd) |
+| Wed, 02 Jul 2025 09:51:21 GMT | Structured Notes from IBM’s Cybersecurity Architecture Series. | Jinay | [Read More](https://medium.com/p/b6f6ddc2faa0) |
+| Wed, 02 Jul 2025 09:45:23 GMT | How to Choose the Right Cybersecurity Software for Your Tech Stack | Shiv Technolabs | [Read More](https://medium.com/p/ba2af85e1b59) |
+| Wed, 02 Jul 2025 09:39:27 GMT | Midnight Thoughts #3: The Things I Never Texted You | Pratibha Chhajed | [Read More](https://medium.com/p/794e5f2916ad) |
 | Wed, 02 Jul 2025 09:35:48 GMT | Why is cybersecurity the future career in India? | shaheed noushad | [Read More](https://medium.com/p/59c8ef5199b3) |
 | Wed, 02 Jul 2025 09:33:33 GMT | Want to Be a SOC Analyst? Here’s Your Complete Guide | Shreyashettyctr | [Read More](https://medium.com/p/d7c90d9a5ebe) |
 | Wed, 02 Jul 2025 09:24:59 GMT | How WAFs Stop Crawlers, Scrapers, and Bad Bots | AerieWhole123 | [Read More](https://medium.com/p/dd4f82e4d47d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 05:14:48 GMT | “Script Kiddie”: The Wannabe Hacker or a Real Threat? | Stargazenine | [Read More](https://medium.com/p/e6f24269e7fc) |
 | Wed, 02 Jul 2025 05:07:26 GMT | Bypassing Payment for Project Creation | Eyad Waleed | [Read More](https://medium.com/p/81b5e0f02c4c) |
 | Wed, 02 Jul 2025 05:05:11 GMT | The Hidden World of Digital Manipulation — Phone Farming Unveiling the Concept | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/e92720eb051d) |
-| Wed, 02 Jul 2025 05:04:20 GMT | Malware: Because Why Hack When You Can Infect? | DarKVoicE | [Read More](https://medium.com/p/d75394f30cb3) |
-| Wed, 02 Jul 2025 05:01:34 GMT | Cybersecurity Basics Refresher Series — Part 4: How DNS Works — And Why It’s a Security Risk Too | Atharva Sardesai | [Read More](https://medium.com/p/1278c32cc49f) |
-| Wed, 02 Jul 2025 04:59:58 GMT | Best Security Company in Singapore: What Makes One Stand Out? | Jane Tang | [Read More](https://medium.com/p/221f5a7fc61c) |
-| Wed, 02 Jul 2025 04:49:59 GMT | CEH Certification Prep: Why CEH v12 Online Course is Your Best Option | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/1b5d9bd5a004) |
-| Wed, 02 Jul 2025 04:47:03 GMT | Navigating RBI’s Latest Digital Payment Guidelines for Fintech Startups in 2025 | Akhil Mishra | [Read More](https://medium.com/p/3a23bfae92d6) |
-| Wed, 02 Jul 2025 04:46:45 GMT | The Linux Concept Journey — dm (Device Mapper) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e6bc42981893) |
-| Wed, 02 Jul 2025 04:40:13 GMT | Every Programmer Should Try Hacking (And How I’m Starting) | Daniel. Alegria Lino | [Read More](https://medium.com/p/180e18de4313) |
-| Wed, 02 Jul 2025 04:24:40 GMT | Gradium (GRD) — Strong market performance backed by real utility | Gradium | [Read More](https://medium.com/p/c5f8f9abaa5f) |
-| Wed, 02 Jul 2025 04:14:26 GMT | Gradium — The lightweight layer 1 blockchain powering the future of cybersecurity innovation | Gradium | [Read More](https://medium.com/p/59f516698329) |
