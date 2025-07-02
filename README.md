@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 06:22:26 GMT | Vulnhub: Kioptrix Level 1 Writeup | Yash Rustagi | [Read More](https://medium.com/p/df91022d5ae3) |
+| Wed, 02 Jul 2025 06:17:24 GMT | Ensure Quality and Performance with GTechnohubb’s Expert Software Testing Services | Gtechnohubb PVT LTD | [Read More](https://medium.com/p/da4d813979fd) |
+| Wed, 02 Jul 2025 06:17:02 GMT | IPv6 for Penetration Testers | Bl@ckC!pH3r | [Read More](https://medium.com/p/c00d9b414bbb) |
+| Wed, 02 Jul 2025 06:08:28 GMT | See Me or Miss Me: Awareness That Builds Safety or Breeds Disconnection | Mike Sansone | [Read More](https://medium.com/p/b1b027f5f06c) |
+| Wed, 02 Jul 2025 06:04:38 GMT | THM Industrial Intrusion CTF Task 14 Backdoored Bus | Not wrench | [Read More](https://medium.com/p/4d1dcb7b70d0) |
+| Wed, 02 Jul 2025 06:03:47 GMT | Trojan Programs: The Invisible Spies of the Cyber World. | Khalig Hesenov | [Read More](https://medium.com/p/b150dada0c99) |
+| Wed, 02 Jul 2025 05:56:24 GMT | ️ How I Achieved Full Account Takeover via Horizontal Privilege Escalation on an Authenticated… | hacker_space11 | [Read More](https://medium.com/p/d727f52d8fd2) |
+| Wed, 02 Jul 2025 05:55:03 GMT | Cybersecurity Careers & Certifications: Because HR Needs Acronyms | DarKVoicE | [Read More](https://medium.com/p/47ca2fc2c765) |
+| Wed, 02 Jul 2025 05:54:45 GMT | Why Your Proxy Doesn’t Work on Flutter Apps — and How to Fix It | Propellerhead | [Read More](https://medium.com/p/bba9d7c9b3f2) |
+| Wed, 02 Jul 2025 05:51:07 GMT | BCW Security Services on Google Cloud | Aakriti | [Read More](https://medium.com/p/e1750e234675) |
+| Wed, 02 Jul 2025 05:47:39 GMT | Inside the Mind of a Software Engineer: Beyond Code and Keyboards | Zulfiqar Aly | [Read More](https://medium.com/p/aa1d3b5b04d8) |
+| Wed, 02 Jul 2025 05:46:48 GMT | Top Factors to Consider Before Enrolling in a Cybersecurity Course | Dhanashri Bhale | [Read More](https://medium.com/p/09ef80da3a40) |
+| Wed, 02 Jul 2025 05:42:09 GMT | O que é Firewall? | Filipe Campos | [Read More](https://medium.com/p/2b069a92acee) |
 | Wed, 02 Jul 2025 05:35:43 GMT | Cybersecurity Solutions in Dubai | Bestchoicetoursdubai | [Read More](https://medium.com/p/b92f66e9ab70) |
 | Wed, 02 Jul 2025 05:33:50 GMT | “How I Indexed 2,054 n8n Workflows Locally to Build an Agentic AI Lab for Automation &… | Inayat Hussain | [Read More](https://medium.com/p/c6c990e54bc1) |
 | Wed, 02 Jul 2025 05:33:37 GMT | Cybersecurity Tools & Techniques | DarKVoicE | [Read More](https://medium.com/p/2cdf937a4d42) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 20:18:07 GMT | Making a RS485 themed challenge: Serial Gate (Flipper Zero Modbus RTU shield compatible). | biero llagas | [Read More](https://medium.com/p/925dee9dcee1) |
 | Tue, 01 Jul 2025 20:12:18 GMT | Loglamada Gözden Kaçan Risk: Registry İzlemenin Önemi | Just Moi | [Read More](https://medium.com/p/920ad8fca30a) |
 | Tue, 01 Jul 2025 20:05:47 GMT | Indians Building Bridges, Not Just Careers: The Onstralytics Journey from India to Germany | Ankit Biswas | [Read More](https://medium.com/p/8856f54f7fa3) |
-| Tue, 01 Jul 2025 20:04:44 GMT | Janela RAT and a stealer extension delivered together | Jason Reaves | [Read More](https://medium.com/p/e274469a7df8) |
-| Tue, 01 Jul 2025 19:57:47 GMT | Mid-year check in: What I’ve done so far, and my goals for the rest of 2025. | R-Squared Cyber | [Read More](https://medium.com/p/c46bc8669372) |
-| Tue, 01 Jul 2025 19:46:03 GMT | Your Watch is Watching You. But Who’s Watching Your Watch? | Pavel Akhrameev | [Read More](https://medium.com/p/0022ae739523) |
-| Tue, 01 Jul 2025 19:40:08 GMT | They Sound Like Kids, But They’re Not: The Truth About Voice Chat Predators | Berenice Houston | [Read More](https://medium.com/p/3cd5d44a9829) |
-| Tue, 01 Jul 2025 19:34:11 GMT | OTPs Gone Wild: When “One-Time” Means… Multiple Times? | ValidByAccident | [Read More](https://medium.com/p/9ae883b0cf18) |
-| Tue, 01 Jul 2025 19:32:46 GMT | Best Private & Encrypted Email Services in 2025: Stop Using Gmail Now. | SaadeAala RS | [Read More](https://medium.com/p/c81fc516dc7c) |
-| Tue, 01 Jul 2025 19:24:01 GMT | RISING GIANT: THE AWAKENING OF MAZIEN ARCHIE | Mazien Eseh Oluwadamilola Alabi | [Read More](https://medium.com/p/2879b819fa0f) |
-| Tue, 01 Jul 2025 19:23:57 GMT | /acc is a True North Strong and Free. | Scott Howard | [Read More](https://medium.com/p/7aef4ae9746a) |
-| Tue, 01 Jul 2025 19:23:56 GMT | AppSec 101: What Every Developer Should Know (but No One Teaches) | Ayush Bulbule | [Read More](https://medium.com/p/63e60b05727d) |
-| Tue, 01 Jul 2025 19:23:36 GMT | Industrial Intrusion - THM | Chopp_Sueyy | [Read More](https://medium.com/p/1b547b4b0112) |
-| Tue, 01 Jul 2025 19:20:34 GMT | How I Built a Home-Based Cybersecurity Attack & Defense Lab-From Zero to Root: A DIY Cybersecurity… | KHANDOKER FAISAL | [Read More](https://medium.com/p/404882db1bc2) |
-| Tue, 01 Jul 2025 19:16:51 GMT | Linux Privilege Escalation Techniques | musayyab sharif | [Read More](https://medium.com/p/e9a7b3704db6) |
-| Tue, 01 Jul 2025 19:14:41 GMT | Building a T-Pot Honeypot for Attack Detection and Analysis | Jon Pham | [Read More](https://medium.com/p/8b75a9dde90e) |
