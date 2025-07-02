@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 12:41:26 GMT | Why I Left the Stars to Fight in the Cyber | Hasanul H Zarif | [Read More](https://medium.com/p/889c3c8291db) |
+| Wed, 02 Jul 2025 12:36:45 GMT | I Don’t Want to Be Strong Anymore | Vihaan Vinjamuri | [Read More](https://medium.com/p/5104571dcde2) |
+| Wed, 02 Jul 2025 12:32:06 GMT | This Might Not Make Sense, But It’s All I’ve Got Right Now | Yash Sharma | [Read More](https://medium.com/p/b2458627e49d) |
+| Wed, 02 Jul 2025 12:26:50 GMT | Using SBOMs To Keep a Government Website More Secure | CivicActions | [Read More](https://medium.com/p/8b82a6d9a670) |
+| Wed, 02 Jul 2025 12:25:52 GMT | What I Learned From the ConnectWise Supply Chain Attack | Darshan | [Read More](https://medium.com/p/5ea49cc26631) |
+| Wed, 02 Jul 2025 12:25:04 GMT | XVWA Docker Kurulumu | Görkem Bellur | [Read More](https://medium.com/p/83ce5a833694) |
+| Wed, 02 Jul 2025 12:24:13 GMT | The Role of AI in Strengthening OT Cybersecurity for Industry 4.0 | Shieldworkz | [Read More](https://medium.com/p/f970cfeb9103) |
+| Wed, 02 Jul 2025 12:23:14 GMT | What are the need and services in network security services in india? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/2f881497cf38) |
+| Wed, 02 Jul 2025 12:22:24 GMT | The Silent Threat in Your Pocket: How Cybercriminals Are Targeting NFC (Near Field Communication). | Cybersecurity Umbrella | [Read More](https://medium.com/p/a6606bf10f73) |
+| Wed, 02 Jul 2025 12:19:26 GMT | What Are Nonrepudiation Services in Network Security? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/90f34c6162d6) |
+| Wed, 02 Jul 2025 12:11:47 GMT | Increased UK defence spending will mostly benefit the US companies warns union leader | Alastair Tibbs | [Read More](https://medium.com/p/970610a4b439) |
+| Wed, 02 Jul 2025 12:11:35 GMT | Why Boardrooms Now Demand Financial Risk Exposure for Cyber Investments | Zeron | [Read More](https://medium.com/p/42401b049311) |
+| Wed, 02 Jul 2025 12:02:42 GMT | How to Pick the Best Consulting Services for Cybersecurity for Your Business | SecDesk | [Read More](https://medium.com/p/2fd47dae5119) |
+| Wed, 02 Jul 2025 12:00:35 GMT | When Isolation Fails: The Sudo + Chroot Vulnerability That Grants Root Access | Finstein.ai | [Read More](https://medium.com/p/6de2786aade4) |
+| Wed, 02 Jul 2025 11:59:49 GMT | DanaBot by CyberDefenders | rkn | [Read More](https://medium.com/p/94376185ad72) |
+| Wed, 02 Jul 2025 11:56:56 GMT | Inside Android Malware Development: Building a C2 Exfiltrator from the UI to the Network | Lord Murak | [Read More](https://medium.com/p/7ec2d9a3d58e) |
+| Wed, 02 Jul 2025 11:52:36 GMT | Hacking | Norman Meg | [Read More](https://medium.com/p/6da0848cd242) |
+| Wed, 02 Jul 2025 11:52:22 GMT | DevSecOps Is Just Security’s Way of Shifting Blame to Developers | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/19628caacc9a) |
+| Wed, 02 Jul 2025 11:49:33 GMT | When Personal Details Become Public: The Qantas Data Breach Explained | Amita | [Read More](https://medium.com/p/34a68a9b089c) |
+| Wed, 02 Jul 2025 11:48:58 GMT | What is the scope of managed security services? | James Damon | [Read More](https://medium.com/p/2897918d64c2) |
+| Wed, 02 Jul 2025 11:40:25 GMT | Our ISO 27001 journey: From security blueprint to certification success | Maxime Auvy | [Read More](https://medium.com/p/a2e0b7b03bb9) |
+| Wed, 02 Jul 2025 11:36:01 GMT | How I Found a Critical API Vulnerability in a Global Brand with 50M+ Customers (And How to Prevent… | Ali Al Saleh | [Read More](https://medium.com/p/251fb35147d7) |
 | Wed, 02 Jul 2025 11:22:55 GMT | Master #SailPoint IdentityIQ with Power-Packed Online Training! | Pravin Choudhary | [Read More](https://medium.com/p/542f78f59655) |
 | Wed, 02 Jul 2025 11:22:13 GMT | Emergency Alarm Response Services: Quick and Reliable Assistance | Professional UK Services | [Read More](https://medium.com/p/ec8eea4197b6) |
 | Wed, 02 Jul 2025 11:18:43 GMT | 3 Red Team Lessons That Will Make You a Better Defender — From the Hacker Hunter’s Playbook | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/54c5b61223d6) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 07:23:36 GMT | Finding AI Agents, LLM API Keys, Authorization Tokens & Hidden Endpoints | AbhirupKonwar | [Read More](https://medium.com/p/435e00016648) |
 | Wed, 02 Jul 2025 07:23:25 GMT | The Shifting Sands of Cyber Warfare: How AI and LLMs are Reshaping the Threat Landscape | West Advanced Technologies Inc | [Read More](https://medium.com/p/55270d4cfa61) |
 | Wed, 02 Jul 2025 07:21:50 GMT | BitNet Mining Miniapp Security: Telegram Layer & Blockchain Proof | BitNetChain Official | [Read More](https://medium.com/p/03d775cfd418) |
-| Wed, 02 Jul 2025 07:21:40 GMT | How WAFs Stop Crawlers, Scrapers, and Bad Bots | Quella | [Read More](https://medium.com/p/8e5e5f7cf836) |
-| Wed, 02 Jul 2025 07:21:24 GMT | Overview of prompt injection techniques | Sofia | [Read More](https://medium.com/p/0bd441bcdea3) |
-| Wed, 02 Jul 2025 07:16:30 GMT | How to Hack Legally (and Not Get Arrested) | Araiz Naqvi | [Read More](https://medium.com/p/581aea212e9e) |
-| Wed, 02 Jul 2025 07:13:55 GMT | Today’s Top Cyber Intelligence Highlights — Jul 02, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/658d64268da7) |
-| Wed, 02 Jul 2025 07:12:51 GMT | How to Send Encrypted Email in Gmail (And Alternatives) | Atomic Mail | [Read More](https://medium.com/p/fef55e67105e) |
-| Wed, 02 Jul 2025 07:10:20 GMT | SSRF 2.0: Bypassing Internal Protections via Redirect Loops | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ddbfdb9a8ce6) |
-| Wed, 02 Jul 2025 07:01:39 GMT | DarkGPT Threats: The AI Engine Fueling Cybercrime at Scale | TheReviewHive | [Read More](https://medium.com/p/77c31f384897) |
-| Wed, 02 Jul 2025 06:59:56 GMT | The Art of Seeing Ghosts | Jugaad Tiger | [Read More](https://medium.com/p/dd7959622d55) |
-| Wed, 02 Jul 2025 06:58:49 GMT | Decoding Digital Power: Why PIM and PAM Are Your Cybersecurity Superheroes | Shweta Papnai | [Read More](https://medium.com/p/b1ae37fad007) |
-| Wed, 02 Jul 2025 06:58:43 GMT | Red Hat Certified System Administrator Training and Certification in Delhi | cyber security Updates | [Read More](https://medium.com/p/ec47df30e835) |
-| Wed, 02 Jul 2025 06:57:49 GMT | Cyber Security for Data Solution | Agha Mustafa Ali Khan Qizilbash | [Read More](https://medium.com/p/d1be3383a3c2) |
-| Wed, 02 Jul 2025 06:55:26 GMT | Day 39: IDOR report | Nile Okomo | [Read More](https://medium.com/p/7f0b3e82a7d5) |
-| Wed, 02 Jul 2025 06:53:21 GMT | Case Study: Exploiting the NestJS Content-Type Header Vulnerability | Marco Bytes | [Read More](https://medium.com/p/497425626060) |
-| Wed, 02 Jul 2025 06:52:38 GMT | Psalm of the Invisible | Ian Johnson | [Read More](https://medium.com/p/e0f02e028a1e) |
-| Wed, 02 Jul 2025 06:52:11 GMT | Under the Hood: How Wireshark and Packet Sniffers Really Work | Ahmed Sobhi Ali | [Read More](https://medium.com/p/5e6c5d7dc67d) |
-| Wed, 02 Jul 2025 06:51:45 GMT | How I Finally Felt Safe at Home: My Story with the Anti-Looter Kit | Alisha Ishaq | [Read More](https://medium.com/p/a78a3577a387) |
-| Wed, 02 Jul 2025 06:51:35 GMT | CVE-2024–38077: Critical RCE in Windows RDL Service | AerieWhole123 | [Read More](https://medium.com/p/77462d76c841) |
-| Wed, 02 Jul 2025 06:51:03 GMT | Burp Extensions You’re Not Using (But Should): Secret Weapons for Modern Web Apps | Monika sharma | [Read More](https://medium.com/p/dd7e8b7de642) |
-| Wed, 02 Jul 2025 06:49:14 GMT | Test Analyst | Omer Bawazir | [Read More](https://medium.com/p/0d427d1bcf84) |
-| Wed, 02 Jul 2025 06:47:08 GMT | Exhausting Excuses: How Alleged Green Giants Gaslight with RTO Mandates | Namir Sagheenanajar | [Read More](https://medium.com/p/b4e4ab3329a7) |
-| Wed, 02 Jul 2025 06:44:50 GMT | Threats To Artificial Intelligence Models | Berkay ÖZÇAM | [Read More](https://medium.com/p/8e2c81b5b4c4) |
-| Wed, 02 Jul 2025 06:41:53 GMT | Chapter 2: Gently, But Clearly | Namjinxnova | [Read More](https://medium.com/p/a86e33c036fe) |
