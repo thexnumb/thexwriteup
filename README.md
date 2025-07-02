@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 15:31:54 GMT | Technology Hits, Ransomware Hits (The Moral Aspect) | DarKVoicE | [Read More](https://medium.com/p/9b9d746f312d) |
+| Wed, 02 Jul 2025 15:23:10 GMT | Shift Left and DevSecOps: A Penetration Tester’s Guide for Beginners | Mr Joe | [Read More](https://medium.com/p/3114c2180221) |
+| Wed, 02 Jul 2025 15:22:27 GMT | Prioritising Cyber Security | Rico Surridge | [Read More](https://medium.com/p/c3d94911bbb0) |
 | Wed, 02 Jul 2025 15:06:58 GMT | Burn It With Fire: How to Eliminate an Industry-Wide Supply Chain Vulnerability | Jonathan Leitschuh | [Read More](https://medium.com/p/12515516fb56) |
 | Wed, 02 Jul 2025 15:06:32 GMT | RedHelper: Automating Red Team Engagements with Stealth, Speed & Style | Psyduck | [Read More](https://medium.com/p/0c687f8d996f) |
 | Wed, 02 Jul 2025 15:04:37 GMT | Types of Security Services in the UK — Which One Is Right for You? | waeventservices.co.uk/ | [Read More](https://medium.com/p/e168c804dc17) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 10:54:40 GMT | The Great Bank Heist Gone Wrong: How a Toilet Break Turned into a Cyber Caper | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/e6e944e0024f) |
 | Wed, 02 Jul 2025 10:52:59 GMT | Threat Intelligence 101 | The Security Bee | [Read More](https://medium.com/p/e1caf8914adb) |
 | Wed, 02 Jul 2025 10:48:53 GMT | Understanding VPNs: Benefits and Limitations for 2025 | Karl Buhl | [Read More](https://medium.com/p/610edf8e04f2) |
-| Wed, 02 Jul 2025 10:47:17 GMT | 50 Must-Have Ethical Hacking Tools for Cybersecurity Experts | Simplilearn | [Read More](https://medium.com/p/10b3ad3861ca) |
-| Wed, 02 Jul 2025 10:42:37 GMT | HTB: Netmon | Prath | [Read More](https://medium.com/p/1a9b86bc19a2) |
-| Wed, 02 Jul 2025 10:39:32 GMT | Agent T (CTF ÇÖZÜMÜ) | Furkan | [Read More](https://medium.com/p/aa6fa5805d7b) |
