@@ -12,7 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 13:30:48 GMT | Onyx, HopeLend, Beluga: Division Bugs and Liquidity Games | Olympix | [Read More](https://medium.com/p/91ff5def9a34) |
+| Wed, 02 Jul 2025 13:28:49 GMT | Qantas Data Breach-A Wake-Up Call | Pentestjunkie07 | [Read More](https://medium.com/p/34c629a01c47) |
+| Wed, 02 Jul 2025 13:22:48 GMT | Architectural Considerations for SaaS Application - PART (1/12): Tenant Isolation | Dhyan Sagar | [Read More](https://medium.com/p/3f0412640ec2) |
+| Wed, 02 Jul 2025 13:22:29 GMT | Architectural Considerations for SaaS Application — PART (2/12): Authentication & Identity… | Dhyan Sagar | [Read More](https://medium.com/p/d79171a6916f) |
+| Wed, 02 Jul 2025 13:22:16 GMT | Digital Trust Begins with Email Security: Preventing Phishing and Spoofing with EDSPL | saurabh cyberinfomines | [Read More](https://medium.com/p/40f8c37b1e77) |
+| Wed, 02 Jul 2025 13:22:05 GMT | 100+ Vulnerabilities in 5 Minutes and a $200 Bug Bounty Reward | WhiteeRabbit | [Read More](https://medium.com/p/8e1ecc727a89) |
+| Wed, 02 Jul 2025 13:22:03 GMT | Architectural Considerations for SaaS Application — PART (3/12):Resource Access & Storage | Dhyan Sagar | [Read More](https://medium.com/p/c0db43ebf3a1) |
+| Wed, 02 Jul 2025 13:21:32 GMT | How to Ensure Cloud Security Without Compromising Agility | Katherine Morgan | [Read More](https://medium.com/p/151f590f646d) |
+| Wed, 02 Jul 2025 13:21:29 GMT | Crypto Drift Is Already Here | David Canellos | [Read More](https://medium.com/p/e08b390d5358) |
+| Wed, 02 Jul 2025 13:21:06 GMT | How Do Hackers Sneak Past WAFs Undetected | Ibtissam hammadi | [Read More](https://medium.com/p/4d3bc5204f80) |
+| Wed, 02 Jul 2025 13:18:31 GMT | Fantom, BlackHole, uniclyNFT: Keys, Burns, and Reentrancy All Over Again | Olympix | [Read More](https://medium.com/p/fb207cfb5295) |
+| Wed, 02 Jul 2025 13:15:55 GMT | Stop Asking for Permission to Be Yourself | Swapnil Agarwal - The Fit Dev | [Read More](https://medium.com/p/cccfebc4527f) |
+| Wed, 02 Jul 2025 13:11:35 GMT | Exposing A Facebook Investment Scam: Real Messages, Real Lies. | The Anti-Scam Diaries | [Read More](https://medium.com/p/771ffd490914) |
+| Wed, 02 Jul 2025 13:06:42 GMT | How Businesses Can Stay GDPR Compliant: Key Best Practices | Ampcus Cyber | [Read More](https://medium.com/p/436b4505bece) |
+| Wed, 02 Jul 2025 13:02:07 GMT | First Your Signature, Then Your Fingerprint… Now Your Retina? | S3CloudHub | [Read More](https://medium.com/p/72112bfb68f3) |
+| Wed, 02 Jul 2025 13:02:04 GMT | AI-Powered & Automated Vulnerability Discovery: The Future of Pentesting Has Arrived | Ekene Joseph | [Read More](https://medium.com/p/48b636c2dbc8) |
+| Wed, 02 Jul 2025 13:00:24 GMT | FoxyWallet: 40+ Malicious Firefox Extensions Exposed | Yuval Ronen | [Read More](https://medium.com/p/4c14419de486) |
+| Wed, 02 Jul 2025 12:57:53 GMT | Blockchain Breach? | The British Blockchain Association (The BBA) | [Read More](https://medium.com/p/726ae2af66db) |
+| Wed, 02 Jul 2025 12:56:21 GMT | How to Actually Learn Hacking in 2025–26: A Practical Guide | S3CloudHub | [Read More](https://medium.com/p/98bd7faf7108) |
+| Wed, 02 Jul 2025 12:55:47 GMT | Are You in Control of Your Network Security Groups in Azure? | Jón Orri Kristjánsson | [Read More](https://medium.com/p/699019cabd01) |
+| Wed, 02 Jul 2025 12:50:03 GMT | Even When I Doubt Myself, I’m Still Becoming | paday∞n | [Read More](https://medium.com/p/a3708188a910) |
 | Wed, 02 Jul 2025 12:41:26 GMT | Why I Left the Stars to Fight in the Cyber | Hasanul H Zarif | [Read More](https://medium.com/p/889c3c8291db) |
+| Wed, 02 Jul 2025 12:39:38 GMT | Retail Security Robotics | Presslink Media | [Read More](https://medium.com/p/e5f5742f5cca) |
 | Wed, 02 Jul 2025 12:36:45 GMT | I Don’t Want to Be Strong Anymore | Vihaan Vinjamuri | [Read More](https://medium.com/p/5104571dcde2) |
 | Wed, 02 Jul 2025 12:32:06 GMT | This Might Not Make Sense, But It’s All I’ve Got Right Now | Yash Sharma | [Read More](https://medium.com/p/b2458627e49d) |
 | Wed, 02 Jul 2025 12:26:50 GMT | Using SBOMs To Keep a Government Website More Secure | CivicActions | [Read More](https://medium.com/p/8b82a6d9a670) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 08:37:18 GMT | How to Get a Job Fast in 2025: 20 Tried-and-Tested Tips to Accelerate Your Career Journey | HamnaAhmad | [Read More](https://medium.com/p/e612325f7bdf) |
 | Wed, 02 Jul 2025 08:35:39 GMT | I Wasn’t Afraid of Men. I Was Trained to Be Careful Around Them. | Ayushi Jindal | [Read More](https://medium.com/p/57aa147e56ff) |
 | Wed, 02 Jul 2025 08:33:34 GMT | Prio3: Private, Robust, and Scalable Computation of Aggregate Statistics and SNIPs | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/de1dce83192d) |
-| Wed, 02 Jul 2025 08:30:33 GMT | Cross-Site Scripting (XSS): Ancaman Tersembunyi di Balik Website Interaktif | Malbaralamsyah | [Read More](https://medium.com/p/0d0c82d4ba94) |
-| Wed, 02 Jul 2025 08:29:59 GMT | The Life of a Phishing Email: How I Built and Busted a Fake Login Page | Ömer Faruk Günay | [Read More](https://medium.com/p/db8a1dbf60f0) |
-| Wed, 02 Jul 2025 08:26:09 GMT | How to Use Nmap to Scan Subnets for Common Ports | Konstantinos Patronas | [Read More](https://medium.com/p/d57f59bd62f9) |
-| Wed, 02 Jul 2025 08:25:40 GMT | Approaches To Defend Artificial Intelligence Models | Berkay ÖZÇAM | [Read More](https://medium.com/p/06c8d37332d1) |
-| Wed, 02 Jul 2025 08:21:52 GMT | The Hidden Graph: How API Rate Limits Lied and Let Me Scrape Millions | Iski | [Read More](https://medium.com/p/761a7cc99270) |
-| Wed, 02 Jul 2025 08:16:09 GMT | Best Firewall Software for Windows (Updated 2025) | Rony Henry | [Read More](https://medium.com/p/134a3d885e3d) |
-| Wed, 02 Jul 2025 08:16:08 GMT | From Mind-Numbing Chores to Mind-Blowing Convenience: How AI is Hacking Your Daily Life | Aman Sharma | [Read More](https://medium.com/p/93084a42edea) |
-| Wed, 02 Jul 2025 08:14:13 GMT | Cybersecurity in Life Sciences & Healthcare: Protecting Patients, Data & Innovation | PureSoftware | [Read More](https://medium.com/p/1f854c96c43e) |
-| Wed, 02 Jul 2025 08:09:30 GMT | Top Cyber-Attacks (Explained Simply) | Ferdi | [Read More](https://medium.com/p/08d2a5d74857) |
-| Wed, 02 Jul 2025 08:08:09 GMT | The Daily Tech Digest: 02 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e84129008039) |
-| Wed, 02 Jul 2025 08:02:58 GMT | ️ DevSecOps for Open Banking: Securing Innovation Without Slowing Down | Mohamed ElEmam | [Read More](https://medium.com/p/c47e2b7bed89) |
-| Wed, 02 Jul 2025 07:58:48 GMT | The Benefits of Investing in Professional Security Solutions in Singapore | Jane Tang | [Read More](https://medium.com/p/75cbd3fd6c57) |
-| Wed, 02 Jul 2025 07:50:31 GMT | How Hackers Are Using ChatGPT to Launch Attacks — And How to Stop Them | Paritosh | [Read More](https://medium.com/p/8cf156f8aecb) |
-| Wed, 02 Jul 2025 07:43:05 GMT | Cheyanne Mallas Commanding the Digital Frontier | Cheyannemallaspa | [Read More](https://medium.com/p/ead1fd1abe32) |
-| Wed, 02 Jul 2025 07:40:44 GMT | Understanding Endpoint Protection: Key Features and Benefits of EPPs | Gauri Kale | [Read More](https://medium.com/p/7e210d9fb508) |
-| Wed, 02 Jul 2025 07:34:50 GMT | Using HashiCorp Vault to Secure Your Local Credentials | mvryo | [Read More](https://medium.com/p/49311ee80188) |
-| Wed, 02 Jul 2025 07:34:10 GMT | Securing Your AI Agent’s Data Pipeline: A 2025 Survival Guide | Paritosh | [Read More](https://medium.com/p/62bec63afbce) |
-| Wed, 02 Jul 2025 07:26:20 GMT | Master Ethical Hacking: Get Certified Today! | Anders wisdom | [Read More](https://medium.com/p/5bd532f068a7) |
-| Wed, 02 Jul 2025 07:25:36 GMT | Breaking Free: Why Team Mavericks @ DevOps-Den Moved from SaaS GitLab to Self-Hosted | Uttam Jaiswal | [Read More](https://medium.com/p/11d2c30a1324) |
-| Wed, 02 Jul 2025 07:23:36 GMT | Finding AI Agents, LLM API Keys, Authorization Tokens & Hidden Endpoints | AbhirupKonwar | [Read More](https://medium.com/p/435e00016648) |
-| Wed, 02 Jul 2025 07:23:25 GMT | The Shifting Sands of Cyber Warfare: How AI and LLMs are Reshaping the Threat Landscape | West Advanced Technologies Inc | [Read More](https://medium.com/p/55270d4cfa61) |
-| Wed, 02 Jul 2025 07:21:50 GMT | BitNet Mining Miniapp Security: Telegram Layer & Blockchain Proof | BitNetChain Official | [Read More](https://medium.com/p/03d775cfd418) |
