@@ -12,8 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 14:19:06 GMT | ⚡️AWS Bedrock vs. Fine-Tuned Models: Our 300% Cost Surprise | Dev engineer | [Read More](https://medium.com/p/27870aa86868) |
+| Wed, 02 Jul 2025 14:14:46 GMT | REBOOT #06｜“Why Do I Struggle to Talk About Myself?” | REI REIMAGINES | [Read More](https://medium.com/p/7ba80b1211f7) |
+| Wed, 02 Jul 2025 14:11:01 GMT | When Trust Becomes a Threat: Tackling the Cybersecurity Risks of Third Parties | Xsecopsmindset | [Read More](https://medium.com/p/3e70e5f0dbba) |
+| Wed, 02 Jul 2025 14:09:08 GMT | Revolutionizing HR in High-Turnover Industries with AI and Generative AI | Shawn Olds | [Read More](https://medium.com/p/8d2a35824899) |
+| Wed, 02 Jul 2025 14:06:01 GMT | How I Built a Debate Swarm to Keep My AI Honest — And Why We All Need One | Phil Stafford | [Read More](https://medium.com/p/6c847b9ef6c1) |
+| Wed, 02 Jul 2025 14:06:01 GMT | Linux Kernel Rootkit Detection and Prevention Techniques | Esra Kayhan | [Read More](https://medium.com/p/f84240c2631b) |
+| Wed, 02 Jul 2025 14:02:30 GMT | I Didn’t Search for It, but I’m Grateful She Found Me: How I Discovered My Comfort Zone Without… | Jeromar Dela Cruz | [Read More](https://medium.com/p/0a0a613e0992) |
+| Wed, 02 Jul 2025 13:59:29 GMT | Cyber Briefing: 2025.07.02 | CyberMaterial | [Read More](https://medium.com/p/d62b45956d20) |
+| Wed, 02 Jul 2025 13:58:46 GMT | ClickFix Campaign: How Clipboard Injection Leads to RAT Infection (Part 1) | h3xstone | [Read More](https://medium.com/p/069e77d3cad1) |
+| Wed, 02 Jul 2025 13:56:56 GMT | Secure by Design: A Modern Guide to Application Architecture Reviews | Pranieth Chandrasekara | [Read More](https://medium.com/p/19f016738990) |
+| Wed, 02 Jul 2025 13:56:50 GMT | The IT Architecture Communication Crisis | Mohammed Brückner | [Read More](https://medium.com/p/a0fb4425d7d9) |
+| Wed, 02 Jul 2025 13:54:58 GMT | How to Drive Traffic and Achieve Virality on Instagram, Reddit, and Quora in 2025 | cyberworld2025 | [Read More](https://medium.com/p/b34e4816678d) |
+| Wed, 02 Jul 2025 13:53:02 GMT | Disgruntled IT Worker Bags 7-month Jail Time for Hacking Employer | Clement Saudu | [Read More](https://medium.com/p/ebc19bff1671) |
+| Wed, 02 Jul 2025 13:52:50 GMT | The Password Manager Paradox: When Security Tools Become Attack Vectors | Eric Zietlow | [Read More](https://medium.com/p/e06ea5f20e3b) |
+| Wed, 02 Jul 2025 13:48:04 GMT | My Mission in Cybersecurity: Practical Insights, Powered by AI | Xsecopsmindset | [Read More](https://medium.com/p/fb0f295ad5e9) |
+| Wed, 02 Jul 2025 13:47:06 GMT | From Smart Tools to Sluggish Minds: The Dark Side of AI Convenience | Shuaibu Adamu | [Read More](https://medium.com/p/10386a3fb73a) |
+| Wed, 02 Jul 2025 13:41:55 GMT | WAF bypass technique — Part 1 | yee-yore | [Read More](https://medium.com/p/cc01e5639313) |
+| Wed, 02 Jul 2025 13:40:19 GMT | WhatsApp OSINT Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/c9050048193b) |
+| Wed, 02 Jul 2025 13:38:05 GMT | Fake Cell Towers Can Spy on Your Phone — Android 16 Fights Back | Aj | [Read More](https://medium.com/p/07d8206811d2) |
+| Wed, 02 Jul 2025 13:37:44 GMT | $8,000 Bounty: Exploiting CVE-2022–40604 | Monika sharma | [Read More](https://medium.com/p/0b3f790b8f97) |
+| Wed, 02 Jul 2025 13:36:48 GMT | ️‍♂️ Understanding SSRF: A Practical Guide from TryHackMe | Mukund | [Read More](https://medium.com/p/692531299823) |
+| Wed, 02 Jul 2025 13:35:51 GMT | Android Güvenlik: Biyometrik Auth, Veri Şifreleme ve Secure UI Best Practiceleri | Bahadireray | [Read More](https://medium.com/p/71b66608e32e) |
 | Wed, 02 Jul 2025 13:30:48 GMT | Onyx, HopeLend, Beluga: Division Bugs and Liquidity Games | Olympix | [Read More](https://medium.com/p/91ff5def9a34) |
 | Wed, 02 Jul 2025 13:28:49 GMT | Qantas Data Breach-A Wake-Up Call | Pentestjunkie07 | [Read More](https://medium.com/p/34c629a01c47) |
+| Wed, 02 Jul 2025 13:27:22 GMT | In 2024, generative AI has grown by 890% | Elizabeth (Libby) | [Read More](https://medium.com/p/881a4981ee49) |
+| Wed, 02 Jul 2025 13:23:18 GMT | “Bilmemek Ayıp Değil, Ayrıca Öğrenmemekte Ayıp Değil.” — S1/Bölüm3: #HangiKonuBu? | Ceren Yavrutürk Kaya | [Read More](https://medium.com/p/23fbf794b2ff) |
 | Wed, 02 Jul 2025 13:22:48 GMT | Architectural Considerations for SaaS Application - PART (1/12): Tenant Isolation | Dhyan Sagar | [Read More](https://medium.com/p/3f0412640ec2) |
 | Wed, 02 Jul 2025 13:22:29 GMT | Architectural Considerations for SaaS Application — PART (2/12): Authentication & Identity… | Dhyan Sagar | [Read More](https://medium.com/p/d79171a6916f) |
 | Wed, 02 Jul 2025 13:22:16 GMT | Digital Trust Begins with Email Security: Preventing Phishing and Spoofing with EDSPL | saurabh cyberinfomines | [Read More](https://medium.com/p/40f8c37b1e77) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 09:56:28 GMT | How I Discovered the Browser Isolation Maturity Model — And How You Can Master It Too | CyBlog | [Read More](https://medium.com/p/482fea9baaec) |
 | Wed, 02 Jul 2025 09:52:51 GMT | Top Cyber Security Trends: What Every Organization Must Know | IPSpecialist | [Read More](https://medium.com/p/9343e0c721dd) |
 | Wed, 02 Jul 2025 09:51:21 GMT | Structured Notes from IBM’s Cybersecurity Architecture Series. | Jinay | [Read More](https://medium.com/p/b6f6ddc2faa0) |
-| Wed, 02 Jul 2025 09:45:23 GMT | How to Choose the Right Cybersecurity Software for Your Tech Stack | Shiv Technolabs | [Read More](https://medium.com/p/ba2af85e1b59) |
-| Wed, 02 Jul 2025 09:39:27 GMT | Midnight Thoughts #3: The Things I Never Texted You | Pratibha Chhajed | [Read More](https://medium.com/p/794e5f2916ad) |
-| Wed, 02 Jul 2025 09:35:48 GMT | Why is cybersecurity the future career in India? | shaheed noushad | [Read More](https://medium.com/p/59c8ef5199b3) |
-| Wed, 02 Jul 2025 09:33:33 GMT | Want to Be a SOC Analyst? Here’s Your Complete Guide | Shreyashettyctr | [Read More](https://medium.com/p/d7c90d9a5ebe) |
-| Wed, 02 Jul 2025 09:24:59 GMT | How WAFs Stop Crawlers, Scrapers, and Bad Bots | AerieWhole123 | [Read More](https://medium.com/p/dd4f82e4d47d) |
-| Wed, 02 Jul 2025 09:23:15 GMT | Can attack surface management reduce security risks? | Ziya Zoe | [Read More](https://medium.com/p/40c1860a766d) |
-| Wed, 02 Jul 2025 09:21:38 GMT | Enhancing B2B Digital Gifting Through Cybersecurity Relations | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/26df6f0ca87d) |
-| Wed, 02 Jul 2025 09:20:53 GMT | CRACKS IN THE ARMOR | Kelechiokoroji | [Read More](https://medium.com/p/183487a849d4) |
-| Wed, 02 Jul 2025 09:19:40 GMT | TryHackMe: Skynet Walkthrough | Sondip Roy | [Read More](https://medium.com/p/16d8dda7d2fb) |
-| Wed, 02 Jul 2025 09:18:46 GMT | Misusing OAuth 2.0 Client Credentials in Public Apps — A Security Breakdown | Leon Fazliu | [Read More](https://medium.com/p/e612faa1a7f5) |
-| Wed, 02 Jul 2025 09:17:41 GMT | Data Liquidity: The Key to Taming IT Complexity | Tim Edge | [Read More](https://medium.com/p/3e35420885b4) |
-| Wed, 02 Jul 2025 09:15:33 GMT | The Complexity of Evolving Complex IT | Tim Edge | [Read More](https://medium.com/p/4f5d96769673) |
-| Wed, 02 Jul 2025 09:15:18 GMT | Threat Intel: Microsoft 365 Direct Send Phishing Attack Targets UK SMEs — Email Security Alert | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/3bdcd011b794) |
-| Wed, 02 Jul 2025 09:15:17 GMT | My Journey with SafeLine: A Practical and Powerful Open Source WAF | Quella | [Read More](https://medium.com/p/b3987190c658) |
-| Wed, 02 Jul 2025 09:14:14 GMT | CVSS Scoring | Ferdi Edogawa | [Read More](https://medium.com/p/ea7cfba4fced) |
-| Wed, 02 Jul 2025 09:13:25 GMT | (Coarse Language) 10 Feet Tall with a Heart of Stone — Poem | Capitol A | [Read More](https://medium.com/p/67cb285a8c41) |
-| Wed, 02 Jul 2025 09:12:10 GMT | Understanding Domain Name Attacks | Cyber Timi | [Read More](https://medium.com/p/f13465a1db0a) |
-| Wed, 02 Jul 2025 09:10:37 GMT | 1. CVE‑2025‑0454 — autogpt SSRF via URL Parsing Confusion | Narendar Battula (nArEn) | [Read More](https://medium.com/p/921d66fafcbe) |
-| Wed, 02 Jul 2025 09:04:48 GMT | Clouds Are Heavy When Misconfigured | Oludare Stephen Ayobami | [Read More](https://medium.com/p/18cd9d6fc585) |
-| Wed, 02 Jul 2025 08:57:11 GMT | The Startup’s Guide to Compliance Automation | Sridhar | [Read More](https://medium.com/p/fcedfe81a533) |
-| Wed, 02 Jul 2025 08:54:41 GMT | The Methodology of Penetration Testing (Explained Simply) | Ferdi Edogawa | [Read More](https://medium.com/p/45632f056d2f) |
-| Wed, 02 Jul 2025 08:37:18 GMT | How to Get a Job Fast in 2025: 20 Tried-and-Tested Tips to Accelerate Your Career Journey | HamnaAhmad | [Read More](https://medium.com/p/e612325f7bdf) |
-| Wed, 02 Jul 2025 08:35:39 GMT | I Wasn’t Afraid of Men. I Was Trained to Be Careful Around Them. | Ayushi Jindal | [Read More](https://medium.com/p/57aa147e56ff) |
-| Wed, 02 Jul 2025 08:33:34 GMT | Prio3: Private, Robust, and Scalable Computation of Aggregate Statistics and SNIPs | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/de1dce83192d) |
