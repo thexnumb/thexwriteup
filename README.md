@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 17:36:13 GMT | Ethical Hacking Uncovered: Real Tactics & Too | Sumit Shaw | [Read More](https://medium.com/p/88f006dc0e43) |
+| Wed, 02 Jul 2025 17:32:50 GMT | How I’d Start Bug Bounties If I Had to Begin in 2025 (No Degree, No Experience) | Rishabh Shrivastava | [Read More](https://medium.com/p/7845fa013b9f) |
+| Wed, 02 Jul 2025 17:30:49 GMT | Serverless Blog vs Traditional CMS: A Modern Showdown for Power, Cost, Security, and SEO | Haresh Vidja | [Read More](https://medium.com/p/32b77ab29b20) |
+| Wed, 02 Jul 2025 17:30:26 GMT | Turn Trash URLs into Gold Wordlists with haklistgen (Even Your Ex Can’t Ignore This) | hacker_might | [Read More](https://medium.com/p/2692194ff8e6) |
+| Wed, 02 Jul 2025 17:29:35 GMT | Choosing A Career In Tech — The Spark I Shelved | Jesus Zepeda | [Read More](https://medium.com/p/81332305589d) |
+| Wed, 02 Jul 2025 17:28:21 GMT | Inside the Hacker’s Mind: OSINT, Cyber Ops & Digital Shadows | Sumit Shaw | [Read More](https://medium.com/p/abd654a4748f) |
+| Wed, 02 Jul 2025 17:26:04 GMT | Salary Day.. Don’t forget you! | Mayura Thorat | [Read More](https://medium.com/p/625a0e0092a4) |
+| Wed, 02 Jul 2025 17:22:50 GMT | Your DevSecOps Strategy Is Just Security Theater — And Hackers Know It | Sneha Rani | [Read More](https://medium.com/p/849b6888912b) |
+| Wed, 02 Jul 2025 17:20:09 GMT | Eco-Innovation in Cybersecurity | Amelia Johnss | [Read More](https://medium.com/p/f4ab3034a864) |
 | Wed, 02 Jul 2025 17:05:54 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Paridhi Om | [Read More](https://medium.com/p/da16a49d23f2) |
 | Wed, 02 Jul 2025 17:02:56 GMT | Why I Set Email Alerts for Every New User Added to My Linux Server (And How You Can Too) | Faruk Ahmed | [Read More](https://medium.com/p/98ccc369d7f7) |
 | Wed, 02 Jul 2025 16:52:58 GMT | picoCTF — head-dump | Robby firdauzy | [Read More](https://medium.com/p/5ce5c4e9a132) |
@@ -31,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 15:59:25 GMT | The Anatomy of Broken Things | Zeynep | [Read More](https://medium.com/p/fc6023a17dc2) |
 | Wed, 02 Jul 2025 15:57:56 GMT | Zama and FHE: The Future of Private and Secure Blockchains Has Arrived | heder.eth | [Read More](https://medium.com/p/ea3e91640213) |
 | Wed, 02 Jul 2025 15:56:38 GMT | Am I Falling in Love, or Just Starving for Connection? | Akshat Singh | [Read More](https://medium.com/p/eec7de5122c6) |
+| Wed, 02 Jul 2025 15:53:45 GMT | HackTheBox -Titanic Machine Write-up | AbOmx | [Read More](https://medium.com/p/47ee677bfd47) |
 | Wed, 02 Jul 2025 15:51:16 GMT | Scale Cost — A New Attack on Modern Applications | Lior Rotkovitch | [Read More](https://medium.com/p/89efcbea9c92) |
 | Wed, 02 Jul 2025 15:49:58 GMT | DanaBot Lab Analysis | Omer Bawazir | [Read More](https://medium.com/p/7dbaa179f3e4) |
 | Wed, 02 Jul 2025 15:34:20 GMT | Legitimate Crypto Recovery Companies | Paulgibson | [Read More](https://medium.com/p/a180a2f2f19e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 12:50:03 GMT | Even When I Doubt Myself, I’m Still Becoming | paday∞n | [Read More](https://medium.com/p/a3708188a910) |
 | Wed, 02 Jul 2025 12:41:26 GMT | Why I Left the Stars to Fight in the Cyber | Hasanul H Zarif | [Read More](https://medium.com/p/889c3c8291db) |
 | Wed, 02 Jul 2025 12:39:38 GMT | Retail Security Robotics | Presslink Media | [Read More](https://medium.com/p/e5f5742f5cca) |
-| Wed, 02 Jul 2025 12:36:45 GMT | I Don’t Want to Be Strong Anymore | Vihaan Vinjamuri | [Read More](https://medium.com/p/5104571dcde2) |
-| Wed, 02 Jul 2025 12:32:06 GMT | This Might Not Make Sense, But It’s All I’ve Got Right Now | Yash Sharma | [Read More](https://medium.com/p/b2458627e49d) |
-| Wed, 02 Jul 2025 12:26:50 GMT | Using SBOMs To Keep a Government Website More Secure | CivicActions | [Read More](https://medium.com/p/8b82a6d9a670) |
-| Wed, 02 Jul 2025 12:25:52 GMT | What I Learned From the ConnectWise Supply Chain Attack | Darshan | [Read More](https://medium.com/p/5ea49cc26631) |
-| Wed, 02 Jul 2025 12:25:04 GMT | XVWA Docker Kurulumu | Görkem Bellur | [Read More](https://medium.com/p/83ce5a833694) |
-| Wed, 02 Jul 2025 12:24:13 GMT | The Role of AI in Strengthening OT Cybersecurity for Industry 4.0 | Shieldworkz | [Read More](https://medium.com/p/f970cfeb9103) |
-| Wed, 02 Jul 2025 12:23:14 GMT | What are the need and services in network security services in india? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/2f881497cf38) |
-| Wed, 02 Jul 2025 12:22:24 GMT | The Silent Threat in Your Pocket: How Cybercriminals Are Targeting NFC (Near Field Communication). | Cybersecurity Umbrella | [Read More](https://medium.com/p/a6606bf10f73) |
-| Wed, 02 Jul 2025 12:19:26 GMT | What Are Nonrepudiation Services in Network Security? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/90f34c6162d6) |
-| Wed, 02 Jul 2025 12:11:47 GMT | Increased UK defence spending will mostly benefit the US companies warns union leader | Alastair Tibbs | [Read More](https://medium.com/p/970610a4b439) |
