@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 11:22:55 GMT | Master #SailPoint IdentityIQ with Power-Packed Online Training! | Pravin Choudhary | [Read More](https://medium.com/p/542f78f59655) |
+| Wed, 02 Jul 2025 11:22:13 GMT | Emergency Alarm Response Services: Quick and Reliable Assistance | Professional UK Services | [Read More](https://medium.com/p/ec8eea4197b6) |
+| Wed, 02 Jul 2025 11:18:43 GMT | 3 Red Team Lessons That Will Make You a Better Defender — From the Hacker Hunter’s Playbook | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/54c5b61223d6) |
+| Wed, 02 Jul 2025 11:16:50 GMT | When the Supply Chain Gets Compromised: The Hidden Threat Inside Trusted Code | Hammaad M | [Read More](https://medium.com/p/1f6cf05a2c20) |
 | Wed, 02 Jul 2025 11:11:27 GMT | Nation‑State & Proxy Threats: The Growing Menace in Cybersecurity | Mr Joe | [Read More](https://medium.com/p/610dbd6a9a37) |
 | Wed, 02 Jul 2025 11:02:06 GMT | Phishing Email Awareness Series: Part-3 | Leetsec Sarwar | [Read More](https://medium.com/p/8825526f98fa) |
 | Wed, 02 Jul 2025 11:01:53 GMT | Kali Linux 2025.2 Released: New Features, Tools, and How to Upgrade | Mr Joe | [Read More](https://medium.com/p/99bf1ccd1d1c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 06:47:08 GMT | Exhausting Excuses: How Alleged Green Giants Gaslight with RTO Mandates | Namir Sagheenanajar | [Read More](https://medium.com/p/b4e4ab3329a7) |
 | Wed, 02 Jul 2025 06:44:50 GMT | Threats To Artificial Intelligence Models | Berkay ÖZÇAM | [Read More](https://medium.com/p/8e2c81b5b4c4) |
 | Wed, 02 Jul 2025 06:41:53 GMT | Chapter 2: Gently, But Clearly | Namjinxnova | [Read More](https://medium.com/p/a86e33c036fe) |
-| Wed, 02 Jul 2025 06:39:17 GMT | How to use FOFA for security research | Ibtissam hammadi | [Read More](https://medium.com/p/dafb8e00aa14) |
-| Wed, 02 Jul 2025 06:38:42 GMT | Day 7: Reflected XSS into attribute with angle brackets HTML-encoded: Zero to Hero Series —… | RayofHope | [Read More](https://medium.com/p/8b0c775fc7b5) |
-| Wed, 02 Jul 2025 06:35:13 GMT | Easy Penetration Testing: Finding Website Parameters with ParamSpider | イズミー | [Read More](https://medium.com/p/a5f15a120845) |
-| Wed, 02 Jul 2025 06:27:26 GMT | Sell Your Business Online: FruityChat’s Game-Changing Business Marketplace | Alex Holten | [Read More](https://medium.com/p/c47a7fe0272b) |
