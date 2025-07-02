@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 08:37:18 GMT | How to Get a Job Fast in 2025: 20 Tried-and-Tested Tips to Accelerate Your Career Journey | HamnaAhmad | [Read More](https://medium.com/p/e612325f7bdf) |
+| Wed, 02 Jul 2025 08:35:39 GMT | I Wasn’t Afraid of Men. I Was Trained to Be Careful Around Them. | Ayushi Jindal | [Read More](https://medium.com/p/57aa147e56ff) |
+| Wed, 02 Jul 2025 08:33:34 GMT | Prio3: Private, Robust, and Scalable Computation of Aggregate Statistics and SNIPs | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/de1dce83192d) |
+| Wed, 02 Jul 2025 08:29:59 GMT | The Life of a Phishing Email: How I Built and Busted a Fake Login Page | Ömer Faruk Günay | [Read More](https://medium.com/p/db8a1dbf60f0) |
 | Wed, 02 Jul 2025 08:26:09 GMT | How to Use Nmap to Scan Subnets for Common Ports | Konstantinos Patronas | [Read More](https://medium.com/p/d57f59bd62f9) |
+| Wed, 02 Jul 2025 08:25:40 GMT | Approaches To Defend Artificial Intelligence Models | Berkay ÖZÇAM | [Read More](https://medium.com/p/06c8d37332d1) |
 | Wed, 02 Jul 2025 08:21:52 GMT | The Hidden Graph: How API Rate Limits Lied and Let Me Scrape Millions | Iski | [Read More](https://medium.com/p/761a7cc99270) |
 | Wed, 02 Jul 2025 08:16:09 GMT | Best Firewall Software for Windows (Updated 2025) | Rony Henry | [Read More](https://medium.com/p/134a3d885e3d) |
+| Wed, 02 Jul 2025 08:16:08 GMT | From Mind-Numbing Chores to Mind-Blowing Convenience: How AI is Hacking Your Daily Life | Aman Sharma | [Read More](https://medium.com/p/93084a42edea) |
 | Wed, 02 Jul 2025 08:14:13 GMT | Cybersecurity in Life Sciences & Healthcare: Protecting Patients, Data & Innovation | PureSoftware | [Read More](https://medium.com/p/1f854c96c43e) |
 | Wed, 02 Jul 2025 08:09:30 GMT | Top Cyber-Attacks (Explained Simply) | Ferdi | [Read More](https://medium.com/p/08d2a5d74857) |
 | Wed, 02 Jul 2025 08:08:09 GMT | The Daily Tech Digest: 02 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e84129008039) |
@@ -98,6 +104,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 03:03:47 GMT | Learning to Lead — Part 2: Crisis as Curriculum | Dea Safirahilda | [Read More](https://medium.com/p/d43584f32941) |
 | Wed, 02 Jul 2025 02:53:51 GMT | Bypassing GraphQL Brute Force Protections | Bash Overflow | [Read More](https://medium.com/p/fdccecc50c81) |
 | Wed, 02 Jul 2025 02:42:09 GMT | The Heart of Modern Communication: A Deep Dive into the TCP/IP Architecture | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/bcba5c9aea5f) |
+| Wed, 02 Jul 2025 02:39:02 GMT | Crafting a Life Raft & Foundation with OCD | Uland's OCD Hub | [Read More](https://medium.com/p/b66987f7f22f) |
 | Wed, 02 Jul 2025 02:32:37 GMT | Smartoneblr exposes 10k+ PII | Fishy_ | [Read More](https://medium.com/p/653848d88fe9) |
 | Wed, 02 Jul 2025 02:29:32 GMT | Understanding IPv4 Address Classes and Subnetting | Samira Fallah | [Read More](https://medium.com/p/0b8e3ebadedd) |
 | Wed, 02 Jul 2025 02:26:15 GMT | Why Zero Trust is Not a product but a strategy you can’t ignore in 2025 | Badaolaitan | [Read More](https://medium.com/p/80b484f94c76) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 02:18:17 GMT | Fraud Scheme: How Fake LLCs Are Used to Commit Loan Fraud | Internet Exposed | [Read More](https://medium.com/p/dccea4f4471b) |
 | Wed, 02 Jul 2025 02:12:11 GMT | From Survival to Code: My Journey as Zwanski | zwanski tech | [Read More](https://medium.com/p/86c711991b21) |
 | Wed, 02 Jul 2025 02:01:53 GMT | Docker Security: Common Vulnerabilities and How to Fix Them | @rnab | [Read More](https://medium.com/p/c1e8e5f14ab6) |
-| Wed, 02 Jul 2025 01:54:10 GMT | From Resume to Risk: The Dark Side of Job Hunting in the Digital Age | Shafaque Qureshi | [Read More](https://medium.com/p/1b4e1ac806c5) |
-| Wed, 02 Jul 2025 01:37:01 GMT | Setting Up the Environment | 3Graces CC | [Read More](https://medium.com/p/d195ed430fc0) |
-| Wed, 02 Jul 2025 01:29:47 GMT | Is It Safe to Use Public Charging Stations? Here’s What You Need to Know | Abijita Foundation | [Read More](https://medium.com/p/b30708c5f6b9) |
-| Wed, 02 Jul 2025 01:06:03 GMT | Write-up Hack the system Sattracker | D4LTON | [Read More](https://medium.com/p/52f042be40b9) |
-| Wed, 02 Jul 2025 01:02:56 GMT | gf: Your Essential Ally for Vulnerability Recognition and Detection in Bug Bounty | JPablo13 | [Read More](https://medium.com/p/a12f04a110ff) |
-| Wed, 02 Jul 2025 00:47:18 GMT | Agentic Threat Modeling with Local LLM (Mistral + LangChain) | Oluwadare Bankole | [Read More](https://medium.com/p/750276e2b174) |
-| Wed, 02 Jul 2025 00:26:31 GMT | Compromise Splunk for AWS Privilege Escalation(AWS-Red team lab) | n00 | [Read More](https://medium.com/p/6f702bf528d6) |
