@@ -12,11 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 09:35:48 GMT | Why is cybersecurity the future career in India? | shaheed noushad | [Read More](https://medium.com/p/59c8ef5199b3) |
+| Wed, 02 Jul 2025 09:33:33 GMT | Want to Be a SOC Analyst? Here’s Your Complete Guide | Shreyashettyctr | [Read More](https://medium.com/p/d7c90d9a5ebe) |
 | Wed, 02 Jul 2025 09:24:59 GMT | How WAFs Stop Crawlers, Scrapers, and Bad Bots | AerieWhole123 | [Read More](https://medium.com/p/dd4f82e4d47d) |
 | Wed, 02 Jul 2025 09:23:15 GMT | Can attack surface management reduce security risks? | Ziya Zoe | [Read More](https://medium.com/p/40c1860a766d) |
 | Wed, 02 Jul 2025 09:21:38 GMT | Enhancing B2B Digital Gifting Through Cybersecurity Relations | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/26df6f0ca87d) |
 | Wed, 02 Jul 2025 09:20:53 GMT | CRACKS IN THE ARMOR | Kelechiokoroji | [Read More](https://medium.com/p/183487a849d4) |
 | Wed, 02 Jul 2025 09:19:40 GMT | TryHackMe: Skynet Walkthrough | Sondip Roy | [Read More](https://medium.com/p/16d8dda7d2fb) |
+| Wed, 02 Jul 2025 09:18:46 GMT | Misusing OAuth 2.0 Client Credentials in Public Apps — A Security Breakdown | Leon Fazliu | [Read More](https://medium.com/p/e612faa1a7f5) |
 | Wed, 02 Jul 2025 09:17:41 GMT | Data Liquidity: The Key to Taming IT Complexity | Tim Edge | [Read More](https://medium.com/p/3e35420885b4) |
 | Wed, 02 Jul 2025 09:15:33 GMT | The Complexity of Evolving Complex IT | Tim Edge | [Read More](https://medium.com/p/4f5d96769673) |
 | Wed, 02 Jul 2025 09:15:18 GMT | Threat Intel: Microsoft 365 Direct Send Phishing Attack Targets UK SMEs — Email Security Alert | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/3bdcd011b794) |
@@ -31,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 08:37:18 GMT | How to Get a Job Fast in 2025: 20 Tried-and-Tested Tips to Accelerate Your Career Journey | HamnaAhmad | [Read More](https://medium.com/p/e612325f7bdf) |
 | Wed, 02 Jul 2025 08:35:39 GMT | I Wasn’t Afraid of Men. I Was Trained to Be Careful Around Them. | Ayushi Jindal | [Read More](https://medium.com/p/57aa147e56ff) |
 | Wed, 02 Jul 2025 08:33:34 GMT | Prio3: Private, Robust, and Scalable Computation of Aggregate Statistics and SNIPs | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/de1dce83192d) |
+| Wed, 02 Jul 2025 08:30:33 GMT | Cross-Site Scripting (XSS): Ancaman Tersembunyi di Balik Website Interaktif | Malbaralamsyah | [Read More](https://medium.com/p/0d0c82d4ba94) |
 | Wed, 02 Jul 2025 08:29:59 GMT | The Life of a Phishing Email: How I Built and Busted a Fake Login Page | Ömer Faruk Günay | [Read More](https://medium.com/p/db8a1dbf60f0) |
 | Wed, 02 Jul 2025 08:26:09 GMT | How to Use Nmap to Scan Subnets for Common Ports | Konstantinos Patronas | [Read More](https://medium.com/p/d57f59bd62f9) |
 | Wed, 02 Jul 2025 08:25:40 GMT | Approaches To Defend Artificial Intelligence Models | Berkay ÖZÇAM | [Read More](https://medium.com/p/06c8d37332d1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 04:40:13 GMT | Every Programmer Should Try Hacking (And How I’m Starting) | Daniel. Alegria Lino | [Read More](https://medium.com/p/180e18de4313) |
 | Wed, 02 Jul 2025 04:24:40 GMT | Gradium (GRD) — Strong market performance backed by real utility | Gradium | [Read More](https://medium.com/p/c5f8f9abaa5f) |
 | Wed, 02 Jul 2025 04:14:26 GMT | Gradium — The lightweight layer 1 blockchain powering the future of cybersecurity innovation | Gradium | [Read More](https://medium.com/p/59f516698329) |
-| Wed, 02 Jul 2025 04:08:53 GMT | OSINT Combine CTFD — OSINT 101 (Reconnaisance) Write-Up | rootsechax | [Read More](https://medium.com/p/dbe8a3cfc9f8) |
-| Wed, 02 Jul 2025 03:53:51 GMT | India’s New Cyber Laws: Navigating the Digital Landscape in 2025 with CyberKanun | Ankitinnjoshi | [Read More](https://medium.com/p/41e2f05c139a) |
-| Wed, 02 Jul 2025 03:48:54 GMT | Excessive Trust in Client-Side Controls | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/7ed663125ee9) |
-| Wed, 02 Jul 2025 03:48:23 GMT | “7 Everyday Habits That Make You an Easy Target for Hackers” | Anshika Prajapati | [Read More](https://medium.com/p/aa4216c8e52a) |
