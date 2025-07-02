@@ -16,10 +16,13 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 22:06:59 GMT | Leaked Tokens, Forgotten Bots, and a Billion-Dollar Problem Nobody Talks About | Cyber-AppSec | [Read More](https://medium.com/p/92abbbf8dbc6) |
 | Wed, 02 Jul 2025 22:04:36 GMT | Hello world | Sybil Amarachi Ikechukwu | [Read More](https://medium.com/p/5f024c47d98f) |
 | Wed, 02 Jul 2025 22:04:26 GMT | Being strong shouldn’t hurt this much | Josh in Silence | [Read More](https://medium.com/p/e9a3eb9e82fd) |
+| Wed, 02 Jul 2025 22:03:15 GMT | Zero Hands, Full Control: Inside the Autonomous Security Operations Center (ASOC) | Kelvin Kamugumya | [Read More](https://medium.com/p/dba16f2947dc) |
+| Wed, 02 Jul 2025 21:56:34 GMT | 7 Security Tasks You Should Already Be Automating in 2025 | Kelvin Kamugumya | [Read More](https://medium.com/p/68b847d728e1) |
 | Wed, 02 Jul 2025 21:53:59 GMT | Introduction Article | Tshepho M | [Read More](https://medium.com/p/454d5277877f) |
 | Wed, 02 Jul 2025 21:53:01 GMT | Complex Event Processing Made Easy with Streaming SQL + UDF | Gang Tao | [Read More](https://medium.com/p/698a80d98153) |
 | Wed, 02 Jul 2025 21:45:21 GMT | Security AI Frameworks: Responses To New Incredibly Fast Changes | noailabs | [Read More](https://medium.com/p/ad49d4e00d19) |
 | Wed, 02 Jul 2025 21:45:10 GMT | From Static to Dynamic: Building Flexible KMS Key Policies with Terraform’s Template Magic | Bhavika M. | [Read More](https://medium.com/p/df4584af1882) |
+| Wed, 02 Jul 2025 21:44:25 GMT | The Rise of Security Automation: How AI is Changing the Cyber Game | Kelvin Kamugumya | [Read More](https://medium.com/p/fc5a4489b85e) |
 | Wed, 02 Jul 2025 21:23:47 GMT | AD, Entra, and Azure Walk Into a Bar… A Security Introduction | Omri Refaeli | [Read More](https://medium.com/p/1eabff652d2b) |
 | Wed, 02 Jul 2025 21:13:32 GMT | I don’t need grand things | Christypeace | [Read More](https://medium.com/p/29116af8ed7d) |
 | Wed, 02 Jul 2025 21:11:24 GMT | How Power BI helps to Analyze Business: A Step-by-Step Guide for 2025 | Techridge Solutions | [Read More](https://medium.com/p/544a82d2a1a1) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 15:06:58 GMT | Burn It With Fire: How to Eliminate an Industry-Wide Supply Chain Vulnerability | Jonathan Leitschuh | [Read More](https://medium.com/p/12515516fb56) |
 | Wed, 02 Jul 2025 15:06:32 GMT | RedHelper: Automating Red Team Engagements with Stealth, Speed & Style | Psyduck | [Read More](https://medium.com/p/0c687f8d996f) |
 | Wed, 02 Jul 2025 15:04:37 GMT | Types of Security Services in the UK — Which One Is Right for You? | waeventservices.co.uk/ | [Read More](https://medium.com/p/e168c804dc17) |
-| Wed, 02 Jul 2025 15:04:07 GMT | Base64 101 | Ducanh03 | [Read More](https://medium.com/p/2ab20cb5a090) |
-| Wed, 02 Jul 2025 15:03:20 GMT | Global Crypto Fraud Ring Busted: €460M Laundered Via Forced Labor & AI Scams | Aj | [Read More](https://medium.com/p/9e7dcb36ae3f) |
-| Wed, 02 Jul 2025 15:02:58 GMT | When Both Marketplaces Fall: The Cross-Platform Extension Malware Campaign | Amit Assaraf | [Read More](https://medium.com/p/5f6af04957f6) |
