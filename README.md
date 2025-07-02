@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 11:11:27 GMT | Nation‑State & Proxy Threats: The Growing Menace in Cybersecurity | Mr Joe | [Read More](https://medium.com/p/610dbd6a9a37) |
+| Wed, 02 Jul 2025 11:02:06 GMT | Phishing Email Awareness Series: Part-3 | Leetsec Sarwar | [Read More](https://medium.com/p/8825526f98fa) |
+| Wed, 02 Jul 2025 11:01:53 GMT | Kali Linux 2025.2 Released: New Features, Tools, and How to Upgrade | Mr Joe | [Read More](https://medium.com/p/99bf1ccd1d1c) |
+| Wed, 02 Jul 2025 11:01:16 GMT | Title: Breaking the Illusion of Nonce Safety in ERC-4337: A Real-World Replay Attack Vector | Prince Philip | [Read More](https://medium.com/p/911bad15de20) |
+| Wed, 02 Jul 2025 10:58:05 GMT | Secure Code Review: Strengthening Your Software from the Inside Out | Aaishasharma | [Read More](https://medium.com/p/c546894d49ef) |
+| Wed, 02 Jul 2025 10:54:47 GMT | Navigating the Digital Storm: Why the NIST Cybersecurity Framework is Your Business’s Anchor | ITIO INNOVEX | [Read More](https://medium.com/p/eb58b21380cd) |
+| Wed, 02 Jul 2025 10:54:40 GMT | The Great Bank Heist Gone Wrong: How a Toilet Break Turned into a Cyber Caper | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/e6e944e0024f) |
+| Wed, 02 Jul 2025 10:52:59 GMT | Threat Intelligence 101 | The Security Bee | [Read More](https://medium.com/p/e1caf8914adb) |
+| Wed, 02 Jul 2025 10:48:53 GMT | Understanding VPNs: Benefits and Limitations for 2025 | Karl Buhl | [Read More](https://medium.com/p/610edf8e04f2) |
+| Wed, 02 Jul 2025 10:47:17 GMT | 50 Must-Have Ethical Hacking Tools for Cybersecurity Experts | Simplilearn | [Read More](https://medium.com/p/10b3ad3861ca) |
 | Wed, 02 Jul 2025 10:42:37 GMT | HTB: Netmon | Prath | [Read More](https://medium.com/p/1a9b86bc19a2) |
 | Wed, 02 Jul 2025 10:39:32 GMT | Agent T (CTF ÇÖZÜMÜ) | Furkan | [Read More](https://medium.com/p/aa6fa5805d7b) |
 | Wed, 02 Jul 2025 10:39:31 GMT | Critical Issues — CISOs focus | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/bbed547637fc) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 06:38:42 GMT | Day 7: Reflected XSS into attribute with angle brackets HTML-encoded: Zero to Hero Series —… | RayofHope | [Read More](https://medium.com/p/8b0c775fc7b5) |
 | Wed, 02 Jul 2025 06:35:13 GMT | Easy Penetration Testing: Finding Website Parameters with ParamSpider | イズミー | [Read More](https://medium.com/p/a5f15a120845) |
 | Wed, 02 Jul 2025 06:27:26 GMT | Sell Your Business Online: FruityChat’s Game-Changing Business Marketplace | Alex Holten | [Read More](https://medium.com/p/c47a7fe0272b) |
-| Wed, 02 Jul 2025 06:22:26 GMT | Vulnhub: Kioptrix Level 1 Writeup | Yash Rustagi | [Read More](https://medium.com/p/df91022d5ae3) |
-| Wed, 02 Jul 2025 06:17:24 GMT | Ensure Quality and Performance with GTechnohubb’s Expert Software Testing Services | Gtechnohubb PVT LTD | [Read More](https://medium.com/p/da4d813979fd) |
-| Wed, 02 Jul 2025 06:17:02 GMT | IPv6 for Penetration Testers | Bl@ckC!pH3r | [Read More](https://medium.com/p/c00d9b414bbb) |
-| Wed, 02 Jul 2025 06:08:28 GMT | See Me or Miss Me: Awareness That Builds Safety or Breeds Disconnection | Mike Sansone | [Read More](https://medium.com/p/b1b027f5f06c) |
-| Wed, 02 Jul 2025 06:04:38 GMT | THM Industrial Intrusion CTF Task 14 Backdoored Bus | Not wrench | [Read More](https://medium.com/p/4d1dcb7b70d0) |
-| Wed, 02 Jul 2025 06:03:47 GMT | Trojan Programs: The Invisible Spies of the Cyber World. | Khalig Hesenov | [Read More](https://medium.com/p/b150dada0c99) |
-| Wed, 02 Jul 2025 05:56:24 GMT | ️ How I Achieved Full Account Takeover via Horizontal Privilege Escalation on an Authenticated… | hacker_space11 | [Read More](https://medium.com/p/d727f52d8fd2) |
-| Wed, 02 Jul 2025 05:55:03 GMT | Cybersecurity Careers & Certifications: Because HR Needs Acronyms | DarKVoicE | [Read More](https://medium.com/p/47ca2fc2c765) |
-| Wed, 02 Jul 2025 05:54:45 GMT | Why Your Proxy Doesn’t Work on Flutter Apps — and How to Fix It | Propellerhead | [Read More](https://medium.com/p/bba9d7c9b3f2) |
-| Wed, 02 Jul 2025 05:51:07 GMT | BCW Security Services on Google Cloud | Aakriti | [Read More](https://medium.com/p/e1750e234675) |
