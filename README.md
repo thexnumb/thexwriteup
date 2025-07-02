@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 22:16:50 GMT | Secure Your Wi-Fi: Enterprise-Level Wireless Security Configurations | Karthikeyan Nagaraj | [Read More](https://medium.com/p/487058971e89) |
+| Wed, 02 Jul 2025 22:06:59 GMT | Leaked Tokens, Forgotten Bots, and a Billion-Dollar Problem Nobody Talks About | Cyber-AppSec | [Read More](https://medium.com/p/92abbbf8dbc6) |
+| Wed, 02 Jul 2025 22:04:36 GMT | Hello world | Sybil Amarachi Ikechukwu | [Read More](https://medium.com/p/5f024c47d98f) |
+| Wed, 02 Jul 2025 22:04:26 GMT | Being strong shouldn’t hurt this much | Josh in Silence | [Read More](https://medium.com/p/e9a3eb9e82fd) |
+| Wed, 02 Jul 2025 21:53:59 GMT | Introduction Article | Tshepho M | [Read More](https://medium.com/p/454d5277877f) |
+| Wed, 02 Jul 2025 21:53:01 GMT | Complex Event Processing Made Easy with Streaming SQL + UDF | Gang Tao | [Read More](https://medium.com/p/698a80d98153) |
+| Wed, 02 Jul 2025 21:45:21 GMT | Security AI Frameworks: Responses To New Incredibly Fast Changes | noailabs | [Read More](https://medium.com/p/ad49d4e00d19) |
+| Wed, 02 Jul 2025 21:45:10 GMT | From Static to Dynamic: Building Flexible KMS Key Policies with Terraform’s Template Magic | Bhavika M. | [Read More](https://medium.com/p/df4584af1882) |
 | Wed, 02 Jul 2025 21:23:47 GMT | AD, Entra, and Azure Walk Into a Bar… A Security Introduction | Omri Refaeli | [Read More](https://medium.com/p/1eabff652d2b) |
 | Wed, 02 Jul 2025 21:13:32 GMT | I don’t need grand things | Christypeace | [Read More](https://medium.com/p/29116af8ed7d) |
 | Wed, 02 Jul 2025 21:11:24 GMT | How Power BI helps to Analyze Business: A Step-by-Step Guide for 2025 | Techridge Solutions | [Read More](https://medium.com/p/544a82d2a1a1) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 15:04:07 GMT | Base64 101 | Ducanh03 | [Read More](https://medium.com/p/2ab20cb5a090) |
 | Wed, 02 Jul 2025 15:03:20 GMT | Global Crypto Fraud Ring Busted: €460M Laundered Via Forced Labor & AI Scams | Aj | [Read More](https://medium.com/p/9e7dcb36ae3f) |
 | Wed, 02 Jul 2025 15:02:58 GMT | When Both Marketplaces Fall: The Cross-Platform Extension Malware Campaign | Amit Assaraf | [Read More](https://medium.com/p/5f6af04957f6) |
-| Wed, 02 Jul 2025 14:59:25 GMT | Blind Eagle Phishes Colombian Banks via Russian Bulletproof Hosting | Aj | [Read More](https://medium.com/p/b6fde164152b) |
-| Wed, 02 Jul 2025 14:56:03 GMT | TryHackMe “Defensive Security Intro” Walkthrough | Vikash Yadav | [Read More](https://medium.com/p/04a8b98f4927) |
-| Wed, 02 Jul 2025 14:50:44 GMT | 2FA Authentication: Don’t Miss Out on Understanding How It Works | Ade Mawan | [Read More](https://medium.com/p/c3a098c9faab) |
-| Wed, 02 Jul 2025 14:48:58 GMT | Why Special Characters in Active Directory Passwords Can Break FortiClient VPN Authentication | Arksoft | [Read More](https://medium.com/p/f1c578c6e0d5) |
-| Wed, 02 Jul 2025 14:46:33 GMT | TryHackMe ConvertMyVideo — Walkthrough | mauzware | [Read More](https://medium.com/p/de359ae80dd8) |
-| Wed, 02 Jul 2025 14:39:47 GMT | BuildContext Broke My App Because I Didn’t Respect It | Rogith Raja | [Read More](https://medium.com/p/3bf94db09c6f) |
-| Wed, 02 Jul 2025 14:38:55 GMT | Resources (Clause 7.1 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/97854d923f6e) |
-| Wed, 02 Jul 2025 14:32:50 GMT | Why OpenSearch Fails When /tmp is Mounted with noexec — And How to Fix It | Yash Patel | [Read More](https://medium.com/p/43f6c1ec587e) |
