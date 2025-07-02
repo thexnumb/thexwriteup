@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 15:06:58 GMT | Burn It With Fire: How to Eliminate an Industry-Wide Supply Chain Vulnerability | Jonathan Leitschuh | [Read More](https://medium.com/p/12515516fb56) |
+| Wed, 02 Jul 2025 15:06:32 GMT | RedHelper: Automating Red Team Engagements with Stealth, Speed & Style | Psyduck | [Read More](https://medium.com/p/0c687f8d996f) |
+| Wed, 02 Jul 2025 15:04:37 GMT | Types of Security Services in the UK — Which One Is Right for You? | waeventservices.co.uk/ | [Read More](https://medium.com/p/e168c804dc17) |
+| Wed, 02 Jul 2025 15:04:07 GMT | Base64 101 | Ducanh03 | [Read More](https://medium.com/p/2ab20cb5a090) |
+| Wed, 02 Jul 2025 15:03:20 GMT | Global Crypto Fraud Ring Busted: €460M Laundered Via Forced Labor & AI Scams | Aj | [Read More](https://medium.com/p/9e7dcb36ae3f) |
+| Wed, 02 Jul 2025 15:02:58 GMT | When Both Marketplaces Fall: The Cross-Platform Extension Malware Campaign | Amit Assaraf | [Read More](https://medium.com/p/5f6af04957f6) |
+| Wed, 02 Jul 2025 14:59:25 GMT | Blind Eagle Phishes Colombian Banks via Russian Bulletproof Hosting | Aj | [Read More](https://medium.com/p/b6fde164152b) |
+| Wed, 02 Jul 2025 14:56:03 GMT | TryHackMe “Defensive Security Intro” Walkthrough | Vikash Yadav | [Read More](https://medium.com/p/04a8b98f4927) |
+| Wed, 02 Jul 2025 14:50:44 GMT | 2FA Authentication: Don’t Miss Out on Understanding How It Works | Ade Mawan | [Read More](https://medium.com/p/c3a098c9faab) |
+| Wed, 02 Jul 2025 14:48:58 GMT | Why Special Characters in Active Directory Passwords Can Break FortiClient VPN Authentication | Arksoft | [Read More](https://medium.com/p/f1c578c6e0d5) |
+| Wed, 02 Jul 2025 14:46:33 GMT | TryHackMe ConvertMyVideo — Walkthrough | mauzware | [Read More](https://medium.com/p/de359ae80dd8) |
 | Wed, 02 Jul 2025 14:39:47 GMT | BuildContext Broke My App Because I Didn’t Respect It | Rogith Raja | [Read More](https://medium.com/p/3bf94db09c6f) |
 | Wed, 02 Jul 2025 14:38:55 GMT | Resources (Clause 7.1 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/97854d923f6e) |
 | Wed, 02 Jul 2025 14:32:50 GMT | Why OpenSearch Fails When /tmp is Mounted with noexec — And How to Fix It | Yash Patel | [Read More](https://medium.com/p/43f6c1ec587e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 10:47:17 GMT | 50 Must-Have Ethical Hacking Tools for Cybersecurity Experts | Simplilearn | [Read More](https://medium.com/p/10b3ad3861ca) |
 | Wed, 02 Jul 2025 10:42:37 GMT | HTB: Netmon | Prath | [Read More](https://medium.com/p/1a9b86bc19a2) |
 | Wed, 02 Jul 2025 10:39:32 GMT | Agent T (CTF ÇÖZÜMÜ) | Furkan | [Read More](https://medium.com/p/aa6fa5805d7b) |
-| Wed, 02 Jul 2025 10:39:31 GMT | Critical Issues — CISOs focus | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/bbed547637fc) |
-| Wed, 02 Jul 2025 10:38:01 GMT | Quantum Cryptography: The BB84 Protocol and Its Quantum Security Guarantee | JITHIN S | [Read More](https://medium.com/p/a3a0779eab9a) |
-| Wed, 02 Jul 2025 10:37:25 GMT | How a Single Spreadsheet Revealed Sensitive Government Data | Uday | [Read More](https://medium.com/p/fdb153a1688c) |
-| Wed, 02 Jul 2025 10:30:45 GMT | Why You Can “Log in with Google” Without Giving Away Your Password: A Beginner’s Guide to OAuth | Yashashk | [Read More](https://medium.com/p/04526ad392b1) |
-| Wed, 02 Jul 2025 10:24:13 GMT | From MBA to Malware: A Real-World Case of Social Engineering + PowerShell Payload Delivery | c1ph3r | [Read More](https://medium.com/p/5c1d84a8451f) |
-| Wed, 02 Jul 2025 10:20:46 GMT | Network Security Audits: What to Check, Fix, and Secure | SecureSlate | [Read More](https://medium.com/p/0b5043369938) |
-| Wed, 02 Jul 2025 10:17:13 GMT | The Big Ugly Bill Is a Big Ugly Betrayal | Cami Berberi | [Read More](https://medium.com/p/682cde780197) |
-| Wed, 02 Jul 2025 10:15:12 GMT | Kali Linux 2025.2: What’s New, Why It Matters, and How to Install It | Ekene Joseph | [Read More](https://medium.com/p/9e423f6a1822) |
-| Wed, 02 Jul 2025 10:14:57 GMT | What Makes a Great Managed SD-WAN Solutions Provider? 6 Must-Have Features | IshanTechnologies | [Read More](https://medium.com/p/aa3325360fa4) |
-| Wed, 02 Jul 2025 10:13:17 GMT | Industrial Intrusion CTF - Task -22 : Register Sweep -TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/ced875a4da9d) |
-| Wed, 02 Jul 2025 10:12:39 GMT | Basic Terminology Mismatching in Cybersecurity | Samuel Jack | [Read More](https://medium.com/p/cf1a909d8516) |
