@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 03:06:26 GMT | What I have learned from my very first Cybersecurity internship. | aflame | [Read More](https://medium.com/p/9ba80385b6d5) |
+| Wed, 02 Jul 2025 03:03:47 GMT | Learning to Lead — Part 2: Crisis as Curriculum | Dea Safirahilda | [Read More](https://medium.com/p/d43584f32941) |
+| Wed, 02 Jul 2025 02:53:51 GMT | Bypassing GraphQL Brute Force Protections | Bash Overflow | [Read More](https://medium.com/p/fdccecc50c81) |
+| Wed, 02 Jul 2025 02:42:09 GMT | The Heart of Modern Communication: A Deep Dive into the TCP/IP Architecture | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/bcba5c9aea5f) |
+| Wed, 02 Jul 2025 02:32:37 GMT | Smartoneblr exposes 10k+ PII | Fishy_ | [Read More](https://medium.com/p/653848d88fe9) |
+| Wed, 02 Jul 2025 02:29:32 GMT | Understanding IPv4 Address Classes and Subnetting | Samira Fallah | [Read More](https://medium.com/p/0b8e3ebadedd) |
+| Wed, 02 Jul 2025 02:26:15 GMT | Why Zero Trust is Not a product but a strategy you can’t ignore in 2025 | Badaolaitan | [Read More](https://medium.com/p/80b484f94c76) |
+| Wed, 02 Jul 2025 02:20:33 GMT | What If I Just Said It? | Akshat Singh | [Read More](https://medium.com/p/7f84d73f1ff8) |
+| Wed, 02 Jul 2025 02:18:17 GMT | Fraud Scheme: How Fake LLCs Are Used to Commit Loan Fraud | Internet Exposed | [Read More](https://medium.com/p/dccea4f4471b) |
+| Wed, 02 Jul 2025 02:12:11 GMT | From Survival to Code: My Journey as Zwanski | zwanski tech | [Read More](https://medium.com/p/86c711991b21) |
+| Wed, 02 Jul 2025 02:01:53 GMT | Docker Security: Common Vulnerabilities and How to Fix Them | @rnab | [Read More](https://medium.com/p/c1e8e5f14ab6) |
+| Wed, 02 Jul 2025 01:54:10 GMT | From Resume to Risk: The Dark Side of Job Hunting in the Digital Age | Shafaque Qureshi | [Read More](https://medium.com/p/1b4e1ac806c5) |
 | Wed, 02 Jul 2025 01:37:01 GMT | Setting Up the Environment | 3Graces CC | [Read More](https://medium.com/p/d195ed430fc0) |
 | Wed, 02 Jul 2025 01:29:47 GMT | Is It Safe to Use Public Charging Stations? Here’s What You Need to Know | Abijita Foundation | [Read More](https://medium.com/p/b30708c5f6b9) |
 | Wed, 02 Jul 2025 01:06:03 GMT | Write-up Hack the system Sattracker | D4LTON | [Read More](https://medium.com/p/52f042be40b9) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 01 Jul 2025 17:55:28 GMT | Easy, Fast & Secure: The New Onboarding Experience on Teep Mobile | Chika Ibegbu | [Read More](https://medium.com/p/90756e40dfb5) |
 | Tue, 01 Jul 2025 17:49:09 GMT | Enterprise Cybersecurity Threats: What Every Business Must Watch For | SafeAeon Inc. | [Read More](https://medium.com/p/f3bc528cd7fd) |
 | Tue, 01 Jul 2025 17:48:19 GMT | WARNING: The “Fake CAPTCHA” Scam That Almost Got My Friend — A Real Story About One of Today’s… | Colin | [Read More](https://medium.com/p/80a8715f7a3d) |
-| Tue, 01 Jul 2025 17:46:01 GMT | Password Reuse Is Your Biggest Digital Risk — Here’s What to Do Instead | Rutuja Bendre | [Read More](https://medium.com/p/b92b4bb89400) |
-| Tue, 01 Jul 2025 17:38:32 GMT | Desert Recruiting: The UAE’s Play for America’s Discarded AI Elite | Pavan | [Read More](https://medium.com/p/0db116ac584c) |
-| Tue, 01 Jul 2025 17:29:42 GMT | The Ransomware Evolution: From Floppies to Decentralized Extortion Empires | Shadow Packet | [Read More](https://medium.com/p/775945c68d52) |
-| Tue, 01 Jul 2025 17:27:43 GMT | AeroLab v1.0: Building a Personal Cybersecurity Homelab | Aeronique | [Read More](https://medium.com/p/5db3a7d8f1b8) |
-| Tue, 01 Jul 2025 17:23:27 GMT | Top 8 Benefits of Cyber Security Awareness Training Program for Small Businesses (2025) | CyberSapiens | [Read More](https://medium.com/p/135271e091ca) |
-| Tue, 01 Jul 2025 17:20:39 GMT | Secret moon | onojeta ejiroghene | [Read More](https://medium.com/p/0622cb02a0ac) |
-| Tue, 01 Jul 2025 17:17:17 GMT | Ex-Meta Engineers Build Airial: An AI Travel Tool That Plans Every Step of Your Trip | Tech Thrilled | [Read More](https://medium.com/p/035f7608498c) |
-| Tue, 01 Jul 2025 17:10:57 GMT | DragonForce: The New Age of Ransomware. | Colton J. | [Read More](https://medium.com/p/a4e40636adbb) |
-| Tue, 01 Jul 2025 17:07:59 GMT | Nmap Mastery: Advanced Network Scanning with Real-World Examples | Joy Saha | [Read More](https://medium.com/p/159d39ebb0f1) |
-| Tue, 01 Jul 2025 17:03:33 GMT | You’re Probably Missing Bugs Because You’re Guessing Instead of Testing | Đeepanshu | [Read More](https://medium.com/p/48c526e94d0c) |
-| Tue, 01 Jul 2025 17:02:49 GMT | Day 36 of #60DaysofGRC: Breaking Down Models, Frameworks & Standards | Brittney Ginther | [Read More](https://medium.com/p/296477dbeecf) |
-| Tue, 01 Jul 2025 16:52:24 GMT | Netscapy: A Modern Python Network Scanning Tool with GUI | Trynityneo | [Read More](https://medium.com/p/a5c3b36e599e) |
