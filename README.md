@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 23:08:21 GMT | HTB Academy — Broken Authentication (skill assessment) | BotsiCat | [Read More](https://medium.com/p/01b6ac45ee2c) |
+| Wed, 02 Jul 2025 22:51:00 GMT | How I Used the js.map File to Gain Admin Access | CypherNova1337 | [Read More](https://medium.com/p/e30e6f00adb7) |
+| Wed, 02 Jul 2025 22:48:12 GMT | Yuzu Keys: Your Gateway to Nintendo Switch Gaming on PC | Akshay Chauhan | [Read More](https://medium.com/p/46fa46bc9091) |
+| Wed, 02 Jul 2025 22:46:44 GMT | SİBER GÜVENLİKDE YAPAY ZEKANIN ROLÜ: NE YAPABİLİR NE YAPAMAZ? | mslm_altingul | [Read More](https://medium.com/p/c55fef72f6ca) |
+| Wed, 02 Jul 2025 22:37:08 GMT | Discovering the Best Cold Crypto Wallet: ELLIPAL’s Innovative Approach | weeksjack | [Read More](https://medium.com/p/f18d89c1f40f) |
 | Wed, 02 Jul 2025 22:16:50 GMT | Secure Your Wi-Fi: Enterprise-Level Wireless Security Configurations | Karthikeyan Nagaraj | [Read More](https://medium.com/p/487058971e89) |
 | Wed, 02 Jul 2025 22:06:59 GMT | Leaked Tokens, Forgotten Bots, and a Billion-Dollar Problem Nobody Talks About | Cyber-AppSec | [Read More](https://medium.com/p/92abbbf8dbc6) |
 | Wed, 02 Jul 2025 22:04:36 GMT | Hello world | Sybil Amarachi Ikechukwu | [Read More](https://medium.com/p/5f024c47d98f) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 15:34:03 GMT | Your Internet Service Provider is Watching—Here’s How to Disappear | Aj | [Read More](https://medium.com/p/658512b1391a) |
 | Wed, 02 Jul 2025 15:32:25 GMT | XVWA Error-Based SQL Injection | Görkem Bellur | [Read More](https://medium.com/p/5c8a4dcdb5fb) |
 | Wed, 02 Jul 2025 15:31:54 GMT | Technology Hits, Ransomware Hits (The Moral Aspect) | DarKVoicE | [Read More](https://medium.com/p/9b9d746f312d) |
-| Wed, 02 Jul 2025 15:23:10 GMT | Shift Left and DevSecOps: A Penetration Tester’s Guide for Beginners | Mr Joe | [Read More](https://medium.com/p/3114c2180221) |
-| Wed, 02 Jul 2025 15:22:27 GMT | Prioritising Cyber Security | Rico Surridge | [Read More](https://medium.com/p/c3d94911bbb0) |
-| Wed, 02 Jul 2025 15:06:58 GMT | Burn It With Fire: How to Eliminate an Industry-Wide Supply Chain Vulnerability | Jonathan Leitschuh | [Read More](https://medium.com/p/12515516fb56) |
-| Wed, 02 Jul 2025 15:06:32 GMT | RedHelper: Automating Red Team Engagements with Stealth, Speed & Style | Psyduck | [Read More](https://medium.com/p/0c687f8d996f) |
-| Wed, 02 Jul 2025 15:04:37 GMT | Types of Security Services in the UK — Which One Is Right for You? | waeventservices.co.uk/ | [Read More](https://medium.com/p/e168c804dc17) |
