@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 02 Jul 2025 08:26:09 GMT | How to Use Nmap to Scan Subnets for Common Ports | Konstantinos Patronas | [Read More](https://medium.com/p/d57f59bd62f9) |
+| Wed, 02 Jul 2025 08:21:52 GMT | The Hidden Graph: How API Rate Limits Lied and Let Me Scrape Millions | Iski | [Read More](https://medium.com/p/761a7cc99270) |
+| Wed, 02 Jul 2025 08:16:09 GMT | Best Firewall Software for Windows (Updated 2025) | Rony Henry | [Read More](https://medium.com/p/134a3d885e3d) |
+| Wed, 02 Jul 2025 08:14:13 GMT | Cybersecurity in Life Sciences & Healthcare: Protecting Patients, Data & Innovation | PureSoftware | [Read More](https://medium.com/p/1f854c96c43e) |
+| Wed, 02 Jul 2025 08:09:30 GMT | Top Cyber-Attacks (Explained Simply) | Ferdi | [Read More](https://medium.com/p/08d2a5d74857) |
+| Wed, 02 Jul 2025 08:08:09 GMT | The Daily Tech Digest: 02 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e84129008039) |
+| Wed, 02 Jul 2025 08:02:58 GMT | ️ DevSecOps for Open Banking: Securing Innovation Without Slowing Down | Mohamed ElEmam | [Read More](https://medium.com/p/c47e2b7bed89) |
+| Wed, 02 Jul 2025 07:58:48 GMT | The Benefits of Investing in Professional Security Solutions in Singapore | Jane Tang | [Read More](https://medium.com/p/75cbd3fd6c57) |
+| Wed, 02 Jul 2025 07:50:31 GMT | How Hackers Are Using ChatGPT to Launch Attacks — And How to Stop Them | Paritosh | [Read More](https://medium.com/p/8cf156f8aecb) |
+| Wed, 02 Jul 2025 07:43:05 GMT | Cheyanne Mallas Commanding the Digital Frontier | Cheyannemallaspa | [Read More](https://medium.com/p/ead1fd1abe32) |
+| Wed, 02 Jul 2025 07:40:44 GMT | Understanding Endpoint Protection: Key Features and Benefits of EPPs | Gauri Kale | [Read More](https://medium.com/p/7e210d9fb508) |
+| Wed, 02 Jul 2025 07:34:50 GMT | Using HashiCorp Vault to Secure Your Local Credentials | mvryo | [Read More](https://medium.com/p/49311ee80188) |
 | Wed, 02 Jul 2025 07:34:10 GMT | Securing Your AI Agent’s Data Pipeline: A 2025 Survival Guide | Paritosh | [Read More](https://medium.com/p/62bec63afbce) |
 | Wed, 02 Jul 2025 07:26:20 GMT | Master Ethical Hacking: Get Certified Today! | Anders wisdom | [Read More](https://medium.com/p/5bd532f068a7) |
 | Wed, 02 Jul 2025 07:25:36 GMT | Breaking Free: Why Team Mavericks @ DevOps-Den Moved from SaaS GitLab to Self-Hosted | Uttam Jaiswal | [Read More](https://medium.com/p/11d2c30a1324) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 01:02:56 GMT | gf: Your Essential Ally for Vulnerability Recognition and Detection in Bug Bounty | JPablo13 | [Read More](https://medium.com/p/a12f04a110ff) |
 | Wed, 02 Jul 2025 00:47:18 GMT | Agentic Threat Modeling with Local LLM (Mistral + LangChain) | Oluwadare Bankole | [Read More](https://medium.com/p/750276e2b174) |
 | Wed, 02 Jul 2025 00:26:31 GMT | Compromise Splunk for AWS Privilege Escalation(AWS-Red team lab) | n00 | [Read More](https://medium.com/p/6f702bf528d6) |
-| Wed, 02 Jul 2025 00:25:50 GMT | Lespion SOC Tier-1 Level-2 Cyber Defenders Writeup | Sandeepduseja | [Read More](https://medium.com/p/6bbf5632babe) |
-| Wed, 02 Jul 2025 00:14:57 GMT | “Cybersecurity isn’t just technology—it’s awareness, instinct, and action.” | Rodkeshia "Keshia" Clifton | [Read More](https://medium.com/p/63e3d72a8255) |
-| Wed, 02 Jul 2025 00:10:06 GMT | How LockBit “Revolutionized” the Ransomware Ecosystem with Its Business Model and Product Strategy… | David SEHYEON Baek | [Read More](https://medium.com/p/c378943883e9) |
-| Wed, 02 Jul 2025 00:04:29 GMT | NEWS UPDATE — July 1, 2025 - 6:45 PM UTC
- Hacker “0-P” Claims Responsibility for Iranian Satellite… | Cybersec News | [Read More](https://medium.com/p/b368937b8855) |
-| Wed, 02 Jul 2025 00:04:00 GMT | Why Threat Actors Target the Energy Sector | David SEHYEON Baek | [Read More](https://medium.com/p/a98c3aa6eafb) |
-| Wed, 02 Jul 2025 00:02:52 GMT | “OneClik” Malware Weaponizes Microsoft ClickOnce to Hijack Energy Sector | Aj | [Read More](https://medium.com/p/3cd5b85442e7) |
-| Tue, 01 Jul 2025 23:55:57 GMT | How a 141-Year-Old British Giant, Marks & Spencer, Was Brought Down by a Social Engineering-Driven… | David SEHYEON Baek | [Read More](https://medium.com/p/874f7ab0ed05) |
-| Tue, 01 Jul 2025 23:55:32 GMT | I will construct AWS resume for cybersecurity, devops cloud engineer | Excellentpeace | [Read More](https://medium.com/p/b7bcf412573b) |
-| Tue, 01 Jul 2025 23:53:34 GMT | BREAKING NEWS — July 1, 2025 Iranian Satellites Reportedly Hacked in Sophisticated Cyberattack | Cybersec News | [Read More](https://medium.com/p/4a072685ebf4) |
-| Tue, 01 Jul 2025 23:22:51 GMT | Hack The System — Bug Bounty CTF: Sattrack | Mazen M. AL-Emad | [Read More](https://medium.com/p/62e141366aff) |
-| Tue, 01 Jul 2025 23:13:33 GMT | SUSE 15 PAM to Full Root via libblockdev/udisks | ASAcrew Blog | [Read More](https://medium.com/p/c71585b27424) |
-| Tue, 01 Jul 2025 22:46:37 GMT | A Deep Dive into a Real-World Recon Workflow | Glenn Rodney | [Read More](https://medium.com/p/d23e7426844f) |
