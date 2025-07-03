@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 03:53:27 GMT | Hunting Reflected XSS in PAN-OS: A Case Study on CVE-2025–0133 | Isha Sangpal | [Read More](https://medium.com/p/6f693d211a16) |
+| Thu, 03 Jul 2025 03:48:57 GMT | Title: The Hidden Dangers of Free Public Wi-Fi — And How to Stay Safe | Anshika Prajapati | [Read More](https://medium.com/p/25da8e6853a0) |
+| Thu, 03 Jul 2025 03:45:44 GMT | Earn Passive Income With Bugs Bunny $BUGS Crypto Rewards | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/afbbb3daf70f) |
+| Thu, 03 Jul 2025 03:43:06 GMT | Nmap: The Tool I Use to See What’s Really Going On…. | sam | [Read More](https://medium.com/p/fd60bbf64635) |
+| Thu, 03 Jul 2025 03:40:53 GMT | Performing CSRF Exploits Over GraphQL | Bash Overflow | [Read More](https://medium.com/p/d6e1165d44dd) |
+| Thu, 03 Jul 2025 03:39:41 GMT | Defending Partnerships: India’s Expanding Security Footprint | Diplomat Dialogues | [Read More](https://medium.com/p/a730b070e6d5) |
+| Thu, 03 Jul 2025 03:32:51 GMT | From Racetrack to Ransom: NASCAR Faces Down the Medusa Threat | Deven Chhajed | [Read More](https://medium.com/p/8bdb50d363e4) |
+| Thu, 03 Jul 2025 03:32:50 GMT | Single Sign-On (SSO): Benefits, Risks, and How It Works — A Practical Deep Dive | Vikram Singh | [Read More](https://medium.com/p/2f1bc2dc5968) |
+| Thu, 03 Jul 2025 03:22:53 GMT | Why AI Is Responsible for the Recent Cyber Theft or Crimes ? | Sardar Ronaq Singh | [Read More](https://medium.com/p/e7439f2895d0) |
+| Thu, 03 Jul 2025 03:20:08 GMT | Account Takeover via Misconfiguration in Mobile Application | Mahmoud El Manzalawy | [Read More](https://medium.com/p/65b08ce9c113) |
+| Thu, 03 Jul 2025 03:12:50 GMT | Cookies and Juicy Information | P3rryTHEplatipu55 | [Read More](https://medium.com/p/66727853a963) |
 | Thu, 03 Jul 2025 03:05:22 GMT | Decrypting My Curiosity: First Steps into PicoCTF | Rifan alshammari | [Read More](https://medium.com/p/99a28285a7e4) |
 | Thu, 03 Jul 2025 03:01:12 GMT | In House Vulnerability Analysis Project with python script attached | Ryan Collier | [Read More](https://medium.com/p/2589dee553bc) |
 | Thu, 03 Jul 2025 02:55:12 GMT | Golden SAML, ChatGPT & SolarWinds: Connecting the Dots | Paritosh | [Read More](https://medium.com/p/55de5996d3d9) |
@@ -19,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 02:52:18 GMT | Day 37 of #60DaysofGRC: Regulatory Compliance Across Industries | Brittney Ginther | [Read More](https://medium.com/p/5fc4346dfcff) |
 | Thu, 03 Jul 2025 02:48:27 GMT | Auth with NextJs | Angad | [Read More](https://medium.com/p/1da98b0d46b1) |
 | Thu, 03 Jul 2025 02:45:05 GMT | Want to Be a Hacker (The Good Kind)? Your Bug Bounty Adventure Map Starts Now! | 0m3g4___ | [Read More](https://medium.com/p/32fab9fb3ff4) |
+| Thu, 03 Jul 2025 02:43:27 GMT | Simple CTF : THM | Proxyminerin | [Read More](https://medium.com/p/590297f4bc7f) |
 | Thu, 03 Jul 2025 02:40:03 GMT | CVE-2025–20281: Hacking Cisco ISE with No Password, No Permission, and All the Power | Grupo Oruss | [Read More](https://medium.com/p/b99286e2f802) |
 | Thu, 03 Jul 2025 02:37:27 GMT | Writeup PicoCTF - Cookie Monster Secret Recipe - Web Exploitation | Malbaralamsyah | [Read More](https://medium.com/p/705c9f5ba5f8) |
 | Thu, 03 Jul 2025 02:36:07 GMT | CVE-2025–45065: SQL Injection in Employee Record Management System | Shruti kapoor | [Read More](https://medium.com/p/b58a33e65860) |
@@ -103,15 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 **Robin Boucher — Étudiant en cybersécurité**… | Robin Boucher | [Read More](https://medium.com/p/d7c6fcf1248d) |
 | Wed, 02 Jul 2025 17:56:51 GMT | Protecting 3D Content: The Case for Digital Rights Management in Visualization Workflows | VNTANA | [Read More](https://medium.com/p/35443a3f022a) |
 | Wed, 02 Jul 2025 17:55:35 GMT | AI-Powered Digital Workers: Securely Enabling the Future of Work with AI Agents | Valdez Ladd | [Read More](https://medium.com/p/ed21ed6e0320) |
-| Wed, 02 Jul 2025 17:49:22 GMT | How I Study Consistently While Working a 9–5 Full-Time Job | Vijay Kumar Gupta | [Read More](https://medium.com/p/a25341438e99) |
-| Wed, 02 Jul 2025 17:49:01 GMT | Why Enterprises Still Get Hacked: The Cost of Negligence | Faneesh Juneja | [Read More](https://medium.com/p/0325f01f6cb0) |
-| Wed, 02 Jul 2025 17:47:41 GMT | Shield Your Business: 10 Smart Ways to Prevent a Cybersecurity Breach | SafeAeon Inc. | [Read More](https://medium.com/p/87ad0a72b324) |
-| Wed, 02 Jul 2025 17:47:29 GMT | Tecnología con conciencia: cómo innovar sin perder el control | Sharon Duran | [Read More](https://medium.com/p/1f0cb891fa30) |
-| Wed, 02 Jul 2025 17:42:41 GMT | Welcome to My Cybersecurity Journey: From SOC Analyst to Multi-Domain Defender | ajay devaliya | [Read More](https://medium.com/p/9198a09574d7) |
-| Wed, 02 Jul 2025 17:42:20 GMT | Why the Moon Has 4G While Earth’s Telecoms are Still Stuck in the Dark Ages | ‍ JustaskPenny | [Read More](https://medium.com/p/a47fbd00490b) |
-| Wed, 02 Jul 2025 17:41:26 GMT | Red Team vs Blue Team: Inside the Simulated Cyber War | Sumit Shaw | [Read More](https://medium.com/p/1995bd8f84a0) |
-| Wed, 02 Jul 2025 17:36:13 GMT | Ethical Hacking Uncovered: Real Tactics & Too | Sumit Shaw | [Read More](https://medium.com/p/88f006dc0e43) |
-| Wed, 02 Jul 2025 17:32:50 GMT | How I’d Start Bug Bounties If I Had to Begin in 2025 (No Degree, No Experience) | Rishabh Shrivastava | [Read More](https://medium.com/p/7845fa013b9f) |
-| Wed, 02 Jul 2025 17:30:49 GMT | Serverless Blog vs Traditional CMS: A Modern Showdown for Power, Cost, Security, and SEO | Haresh Vidja | [Read More](https://medium.com/p/32b77ab29b20) |
-| Wed, 02 Jul 2025 17:30:26 GMT | Turn Trash URLs into Gold Wordlists with haklistgen (Even Your Ex Can’t Ignore This) | hacker_might | [Read More](https://medium.com/p/2692194ff8e6) |
-| Wed, 02 Jul 2025 17:29:35 GMT | Choosing A Career In Tech — The Spark I Shelved | Jesus Zepeda | [Read More](https://medium.com/p/81332305589d) |
