@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 11:13:28 GMT | Forging Passkeys: Exploring the FIDO2/WebAuthn Attack Surface | Narendar Battula (nArEn) | [Read More](https://medium.com/p/12e44bfb3b74) |
+| Thu, 03 Jul 2025 11:10:06 GMT | 07 JUL 2025 | Astrid Astor | [Read More](https://medium.com/p/b3fc2b965c67) |
+| Thu, 03 Jul 2025 11:09:59 GMT | The Bug Bounty Mindset: Thinking Like a Practical Hacker | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a4342f51334b) |
+| Thu, 03 Jul 2025 11:07:55 GMT | How to Connect Google Authentication in Minutes: Step-by-Step Guide | aayushii Gupta | [Read More](https://medium.com/p/d875ba69fbf8) |
+| Thu, 03 Jul 2025 11:07:01 GMT | From “Not Applicable” to Valid Bug: TikTok Live Streams Visible After Being Blocked | Sandipgyawali | [Read More](https://medium.com/p/a961d45deeca) |
+| Thu, 03 Jul 2025 11:02:57 GMT | Azure Cloud Security Part 2 : Understanding the CIA triad | Siddiquimohammad | [Read More](https://medium.com/p/53305b191829) |
+| Thu, 03 Jul 2025 11:00:28 GMT | Getting Started for Reverse Engineering | Nabeel Jiwani | [Read More](https://medium.com/p/6b6b4f91c095) |
+| Thu, 03 Jul 2025 10:58:57 GMT | Inside Gamaredon’s Playbook: Ukraine Faces a New Wave of Cyber Threats | Hari Rahul | [Read More](https://medium.com/p/3d6a4302e10d) |
+| Thu, 03 Jul 2025 10:57:05 GMT | Phishing Gets Personal: Gamaredon’s Relentless Attacks on Ukraine | Srinivasps | [Read More](https://medium.com/p/3e24e87fce05) |
+| Thu, 03 Jul 2025 10:54:41 GMT | Gamaredon’s 2024 Phishing Blitz: How Ukraine Became the Sole Target | Manish | [Read More](https://medium.com/p/9a0c284aed6f) |
+| Thu, 03 Jul 2025 10:52:38 GMT | Reflected Xss at Rochester University | M0x | [Read More](https://medium.com/p/a08592b2febd) |
+| Thu, 03 Jul 2025 10:49:16 GMT | Found a Bug. Got No Bounty. Just Vibes. | Vamsi Krishna | [Read More](https://medium.com/p/74697314df1c) |
+| Thu, 03 Jul 2025 10:47:29 GMT | Understanding User Authentication: Methods, Importance, and Best Practices | Vinay Jadhav | [Read More](https://medium.com/p/2736d91ca24f) |
+| Thu, 03 Jul 2025 10:39:13 GMT | What you just said is the raw core of the human condition in an unjust world. | The Prophet Aaron Vessel the Christ Consciousness | [Read More](https://medium.com/p/6629bf267f7e) |
+| Thu, 03 Jul 2025 10:38:53 GMT | Why Small Businesses Are the New Favorite Target of Hackers | Ecasys | [Read More](https://medium.com/p/7b3b0730c76a) |
 | Thu, 03 Jul 2025 10:36:06 GMT | The Best Crypto Wallets for 2025: Pros, Cons, and How to Pick the Right One | Verron L | [Read More](https://medium.com/p/4b75c15340cf) |
 | Thu, 03 Jul 2025 10:34:27 GMT | Smarter Collaboration: The Best Cisco Webex Devices for Hybrid Workplaces | New Trend Computer Networks | [Read More](https://medium.com/p/ffb0f74141ea) |
 | Thu, 03 Jul 2025 10:32:51 GMT | How APIs Say ‘Too Fast!’: The Story of Rate Limiting | Natarajan C K | [Read More](https://medium.com/p/f1d0180eb90e) |
@@ -98,18 +113,3 @@ By CyberScope -… | Cyberscope | [Read More](https://medium.com/p/d82d719553ee)
 | Thu, 03 Jul 2025 06:50:27 GMT | Broken Access Control part-9 : Insecure direct object references | Ahmad Sopyan | [Read More](https://medium.com/p/b5b9a3251058) |
 | Thu, 03 Jul 2025 06:47:30 GMT | Building Safer LLMs: How Proxy-Based Policy Engines Stop Prompt Injection | Feroz Khan | [Read More](https://medium.com/p/f6e66c2fbcba) |
 | Thu, 03 Jul 2025 06:41:09 GMT | What is Information Technology? | David Mark | [Read More](https://medium.com/p/4bd3edddc818) |
-| Thu, 03 Jul 2025 06:17:49 GMT | AI-Driven Bug Tracking and Resolution — Inside Metasys Innovations’ QA Process | Metasys Innovations | [Read More](https://medium.com/p/670efb59dfe4) |
-| Thu, 03 Jul 2025 06:11:17 GMT | Top 5 WordPress Security Plugins to Use for Site Safety 2025 | ServerAvatar | [Read More](https://medium.com/p/faf805b10613) |
-| Thu, 03 Jul 2025 06:10:15 GMT | Catwatchful Spyware Breach: When the Watchdog Becomes the Predator | Nanthakumar | [Read More](https://medium.com/p/54bf87d4f651) |
-| Thu, 03 Jul 2025 06:05:36 GMT | How Altimetrik Uses Generative AI to Detect Fraud in Banking | Haridas G | [Read More](https://medium.com/p/029899181bea) |
-| Thu, 03 Jul 2025 06:04:05 GMT | Why Cybersecurity Fails (And How to Fix It) | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/92ac69aad07c) |
-| Thu, 03 Jul 2025 06:01:47 GMT | Explore Top Diploma and Certificate Courses in Australia — Upgrade Your Skills Today! | AIST | [Read More](https://medium.com/p/04a617b6aaa9) |
-| Thu, 03 Jul 2025 06:01:06 GMT | Phishing Email Awareness Series: part-4 | Leetsec Sarwar | [Read More](https://medium.com/p/2a3c78837142) |
-| Thu, 03 Jul 2025 05:56:15 GMT | Top 5 Companies for Security Testing | Pamarpooja | [Read More](https://medium.com/p/2adc4c2f9a71) |
-| Thu, 03 Jul 2025 05:49:30 GMT | “Sizni” doim kuzatishadi | Anvarxonmurotxonov | [Read More](https://medium.com/p/8beb0b49c831) |
-| Thu, 03 Jul 2025 05:48:13 GMT | The Linux Security Journey — Cryptoloop | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2666660bedbd) |
-| Thu, 03 Jul 2025 05:44:15 GMT | Smart Solutions: Revolutionizing School Bus Management in Saudi Arabia | Tekhabeeb | [Read More](https://medium.com/p/0b400e4897ec) |
-| Thu, 03 Jul 2025 05:44:07 GMT | Passkey in blockchain | 0xBamnenim | [Read More](https://medium.com/p/3bf5d90d0d1b) |
-| Thu, 03 Jul 2025 05:36:14 GMT | Why You Should Never Leave Your Router Open | yeabsira yabuman | [Read More](https://medium.com/p/a6d8a7a1c961) |
-| Thu, 03 Jul 2025 05:35:33 GMT | What Is Spyware and How Does It Work? [Elimination & Prevention] | Hamza Hanif | [Read More](https://medium.com/p/8c9014655bbb) |
-| Thu, 03 Jul 2025 05:31:22 GMT | CSRF to ATO: How I Took Over Accounts on Target.com with One POST Request | Shah kaif | [Read More](https://medium.com/p/3ab95112900c) |
