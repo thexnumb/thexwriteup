@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 19:25:37 GMT | Custom AnyDesk Abuse: A Stealthy Way Adversaries Take Over Your System | Divya Trivedi | [Read More](https://medium.com/p/14a2b675d398) |
+| Thu, 03 Jul 2025 19:21:35 GMT | Membuat Aplikasi Save File (Input Buku) dengan SQLite pada Android Studio | Syahresaa | [Read More](https://medium.com/p/08644c578bf2) |
 | Thu, 03 Jul 2025 19:12:15 GMT | IoT PENTESTİNG/Bölüm 2. | ömer Kaan kurt | [Read More](https://medium.com/p/09918b79f381) |
 | Thu, 03 Jul 2025 19:05:50 GMT | Best Wireless Outdoor Security Camera | Phil Ryan | [Read More](https://medium.com/p/13d0bc02e90c) |
 | Thu, 03 Jul 2025 18:55:55 GMT | How I Freed 100GB of Disk Space by Cleaning VirtualBox Snapshots | mauzware | [Read More](https://medium.com/p/8a6fff1b8574) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 12:42:13 GMT | PayPro Joins Hands with Apprise Cyber to Make Digital Payments Even Safer | Muhammad Inam Abbasi | [Read More](https://medium.com/p/9ab48841a55c) |
 | Thu, 03 Jul 2025 12:36:56 GMT | API Penetration Testing: Finding and Exploiting BOLA Flaws | Ahmadfaizabdillah | [Read More](https://medium.com/p/3eb1cb49f1d3) |
 | Thu, 03 Jul 2025 12:36:30 GMT | Google Dorks to Power Up Your LLM & VLLM Research | Eduardo J. Barrios | [Read More](https://medium.com/p/70489040fb76) |
-| Thu, 03 Jul 2025 12:35:40 GMT | 5 Websites That Feel Illegal to Know – But Are Totally Free | Zeeshan Shafi | [Read More](https://medium.com/p/37e59a146d99) |
-| Thu, 03 Jul 2025 12:27:01 GMT | Exploring eBPF for Enhanced Performance and Security | Supratip Banerjee | [Read More](https://medium.com/p/937a88e4ab95) |
