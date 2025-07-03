@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 05:12:06 GMT | OWASP Pentest Series (11/12) | TheZeeshanKhan | [Read More](https://medium.com/p/6b3f2e3c07d6) |
+| Thu, 03 Jul 2025 05:08:57 GMT | How to Learn Ethical Hacking Course Free?- The Drop Organization | The Drop Organization | [Read More](https://medium.com/p/f80145827e65) |
+| Thu, 03 Jul 2025 05:05:35 GMT | Cybersecurity Learners: A Word of Caution About Public Exploits | LIJO JKV | [Read More](https://medium.com/p/921cdc032ee2) |
+| Thu, 03 Jul 2025 05:00:37 GMT | One SSRF to Rule Them All | Ott3rly | [Read More](https://medium.com/p/f6563afce506) |
+| Thu, 03 Jul 2025 04:59:22 GMT | I Stalked a Scammer on the Dark Web. Here’s What I Learned About OSINT | Aj | [Read More](https://medium.com/p/9f898fe84ef4) |
+| Thu, 03 Jul 2025 04:54:28 GMT | That One Time SSL Pinning Made Me Question Everything About HTTPS | Gurjot Singh | [Read More](https://medium.com/p/b4deee5d453d) |
+| Thu, 03 Jul 2025 04:54:01 GMT | Fake Logins, Real Costs: The OTP Bug Worth €X,XXX | Erkan Kavas | [Read More](https://medium.com/p/74a422791385) |
+| Thu, 03 Jul 2025 04:51:03 GMT | Unlocking Security: Advanced Access Control for Saudi Offices | Tekhabeeb | [Read More](https://medium.com/p/74ed986406a1) |
 | Thu, 03 Jul 2025 04:44:49 GMT | How to Clear Your Record of a DUI and Benefits of Blackhatclique | Donley Mark | [Read More](https://medium.com/p/2a1760e300c6) |
 | Thu, 03 Jul 2025 04:43:56 GMT | How a Simple IDOR in a Payment Flow Led to Order Manipulation and PII Exposure | Aryaveer Singh Rathore | [Read More](https://medium.com/p/ec3ed410b08d) |
 | Thu, 03 Jul 2025 04:40:00 GMT | How to Double Your Bounty $BNTY Rewards | $BNTY (Bounty) | [Read More](https://medium.com/p/5d5bf61da8c2) |
@@ -106,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 18:54:34 GMT | take a chance with me | Ae | [Read More](https://medium.com/p/1e316942d5ea) |
 | Wed, 02 Jul 2025 18:53:14 GMT | Signaling Attacks | Maishamanarat | [Read More](https://medium.com/p/fae2b5ff4699) |
 | Wed, 02 Jul 2025 18:51:52 GMT | Behind the Mask: How Fraudulent Retail Sites Are Stealing Shopper Data and Brand Trust | Avnishyam | [Read More](https://medium.com/p/7cea5d21ddd4) |
-| Wed, 02 Jul 2025 18:50:52 GMT | Securing Remote MCP Servers | Jake Berkowsky | [Read More](https://medium.com/p/45206008020e) |
-| Wed, 02 Jul 2025 18:45:54 GMT | To respect copyright policies, I’ve provided the official DOI link for full access. | R Sh | [Read More](https://medium.com/p/787715630857) |
-| Wed, 02 Jul 2025 18:40:55 GMT | Learn. Grow. Share. Earn. | yeabsira yabuman | [Read More](https://medium.com/p/1d54c266b819) |
-| Wed, 02 Jul 2025 18:40:15 GMT | Who’s Really Controlling Your AI ? | Shambhavi Shukla | [Read More](https://medium.com/p/13de22ae9d9d) |
-| Wed, 02 Jul 2025 18:39:31 GMT | Como Influencers Cripto Estão Hackeando Seu Cérebro (E Por Que Isso Funciona) | Tchiga | [Read More](https://medium.com/p/d0e015dd1327) |
-| Wed, 02 Jul 2025 18:38:51 GMT | How to Deploy Wazuh on VMware and Connect a Windows Agent: A Step-by-Step Guide | Zaibahmadofficial | [Read More](https://medium.com/p/e0c970cf4f49) |
-| Wed, 02 Jul 2025 18:37:42 GMT | Digital Entanglements: A Quantum Field View of Cybersecurity | Boris Loza | [Read More](https://medium.com/p/f4226bd98814) |
-| Wed, 02 Jul 2025 18:36:44 GMT | The Future of Smart Locks: How Ultra Wideband and Matter Protocols Are Changing Home Security | Uladzislau Bayouski | [Read More](https://medium.com/p/c2df70a8bb5a) |
