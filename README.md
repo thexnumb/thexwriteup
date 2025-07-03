@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 23:19:12 GMT | How I Unlocked Premium Features for Free via a Simple API Trick (Privilege Escalation Story) | MostReal | [Read More](https://medium.com/p/ac1b4edba454) |
 | Thu, 03 Jul 2025 22:55:44 GMT | Part 3: In-Memory Execution Methods — How Malware Lives Rent-Free in Your System | Kunal Rajour | [Read More](https://medium.com/p/42adcfbfd50a) |
 | Thu, 03 Jul 2025 22:51:19 GMT | Instant Walkthrough — HackTheBox | Mohammed Jawabri | [Read More](https://medium.com/p/ffe7f730c0d0) |
 | Thu, 03 Jul 2025 22:47:38 GMT | Securing the Future: How Red-Team Testing and Preliminary Assessments Transform Smart Contract… | Pavon Dunbar | [Read More](https://medium.com/p/940380082146) |
@@ -21,6 +22,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 22:16:57 GMT | Automated OSINT Frameworks: Mapping Your Target Without Touching It | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a1417e547271) |
 | Thu, 03 Jul 2025 22:16:47 GMT | Backtrack Walkthrough | Anubhav Bali | [Read More](https://medium.com/p/9cb9f2581a91) |
 | Thu, 03 Jul 2025 22:12:51 GMT | Pro-Russian Hacktivist Groups Drive Sophisticated Attacks Against Critical Infrastructure | RealSec.io | [Read More](https://medium.com/p/9b7e7b80d5ef) |
+| Thu, 03 Jul 2025 22:11:12 GMT | Consulta DNS e Enumeração com Nameservers | HexSilent | [Read More](https://medium.com/p/2869ae149dac) |
 | Thu, 03 Jul 2025 22:06:41 GMT | Snort Challenge— Live Attacks | Isiah | [Read More](https://medium.com/p/d523754c9141) |
 | Thu, 03 Jul 2025 22:05:29 GMT | Post-Quantum Cryptography in Python | Anonymous | [Read More](https://medium.com/p/fb3218f8e011) |
 | Thu, 03 Jul 2025 21:59:13 GMT | RC6 Shellcode Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/fc38ada8c55e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 15:26:00 GMT | From LFI to RCE via PHP Sessions (PHP 5) — A Complete Guide with Real Examples | Zoningxtr | [Read More](https://medium.com/p/6ced00a1ae10) |
 | Thu, 03 Jul 2025 15:25:46 GMT | Understanding the Heart of Enterprise Networks: Active Directory | himanshu maurya | [Read More](https://medium.com/p/1186ec7a345e) |
 | Thu, 03 Jul 2025 15:22:34 GMT | The Bug You’ll Never See — Until You Flip the Flag | Đeepanshu | [Read More](https://medium.com/p/fbec93ad5fa9) |
-| Thu, 03 Jul 2025 15:17:05 GMT | From LFI to RCE via expect:// PHP Wrapper — A Deep Dive with Practical Examples ✨ | Zoningxtr | [Read More](https://medium.com/p/699690073fe8) |
-| Thu, 03 Jul 2025 15:17:03 GMT | Deep GPT‑4 Integration into Kali Linux: The Future of Ethical Hacking Has Arrived | Ekene Joseph | [Read More](https://medium.com/p/09c38bbb6af7) |
