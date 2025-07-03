@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 10:16:07 GMT | How a Sneaky Flaw in IDE Extension Verification Could Put Your Code at Risk — And What You Can Do… | CyBlog | [Read More](https://medium.com/p/1efa17aab2ab) |
+| Thu, 03 Jul 2025 10:15:43 GMT | Tryhackme: Billing(Easy Room) | Faith Alabi Erioluwa | [Read More](https://medium.com/p/2a668ce22e38) |
+| Thu, 03 Jul 2025 10:15:29 GMT | Aim : | Shourya Pratap Singh | [Read More](https://medium.com/p/52948383a7d1) |
+| Thu, 03 Jul 2025 10:12:21 GMT | Lab Activity: Secure vs Insecure Ports (Telnet vs SSH) | Cyrus Mutua | [Read More](https://medium.com/p/b5a386f847ec) |
+| Thu, 03 Jul 2025 10:10:19 GMT | How to Position your Bugs Bunny $BUGS for Maximum Rewards | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/54ed4b5d7db3) |
+| Thu, 03 Jul 2025 10:05:48 GMT | Don’t Just Run Exploits — Learn From Them! | LIJO JKV | [Read More](https://medium.com/p/1bc7ac2bad5a) |
+| Thu, 03 Jul 2025 09:59:00 GMT | Diploma In Information security course in delhi | Manisha Chaudhary | [Read More](https://medium.com/p/f76335df67a7) |
+| Thu, 03 Jul 2025 09:56:20 GMT | I am too small to be hacked (Myth) | Proten Technologies | [Read More](https://medium.com/p/e362ba6061b1) |
+| Thu, 03 Jul 2025 09:53:38 GMT | Cyber Security Act Malaysia: What Businesses Need To Know | Sattrix | [Read More](https://medium.com/p/2558ad0f51df) |
+| Thu, 03 Jul 2025 09:52:55 GMT | Tor over VPN vs. VPN over Tor — Which Actually Protects You Better? | DAVID KARIUKI "1stb0n" | [Read More](https://medium.com/p/a84896fe6fa9) |
+| Thu, 03 Jul 2025 09:47:01 GMT | Earn Big with ChainBounty $BOUNTY Rewards This Year | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/a00c324000ee) |
+| Thu, 03 Jul 2025 09:42:54 GMT | Exploring Open Policy Agent (OPA) and Gatekeeper in Kubernetes: Mutating and Validating Admission… | Animesh Srivastava | [Read More](https://medium.com/p/f2d969bb8d45) |
+| Thu, 03 Jul 2025 09:38:35 GMT | All Banks paypal Cashapp western union zelle transfers and logs Cloned Cards cc atm cvv dumps Amex… | Gonzalezablerta | [Read More](https://medium.com/p/c9319063c169) |
 | Thu, 03 Jul 2025 09:34:41 GMT | SOX Controls: A Comprehensive Compliance Playbook | SecureSlate | [Read More](https://medium.com/p/7f484ae6bb0d) |
 | Thu, 03 Jul 2025 09:31:40 GMT | The Reasons I’ll Never Switch from Obsidian to Tana | Sébastien Dubois | [Read More](https://medium.com/p/7a190dbe4c6a) |
 | Thu, 03 Jul 2025 09:31:17 GMT | PowerShell ile log analizi ve sistem kontrolü | İsmail Demir | [Read More](https://medium.com/p/4e670f8af69e) |
@@ -100,16 +113,3 @@ By CyberScope -… | Cyberscope | [Read More](https://medium.com/p/d82d719553ee)
 | Thu, 03 Jul 2025 05:05:35 GMT | Cybersecurity Learners: A Word of Caution About Public Exploits | LIJO JKV | [Read More](https://medium.com/p/921cdc032ee2) |
 | Thu, 03 Jul 2025 05:00:37 GMT | One SSRF to Rule Them All | Ott3rly | [Read More](https://medium.com/p/f6563afce506) |
 | Thu, 03 Jul 2025 04:59:22 GMT | I Stalked a Scammer on the Dark Web. Here’s What I Learned About OSINT | Aj | [Read More](https://medium.com/p/9f898fe84ef4) |
-| Thu, 03 Jul 2025 04:54:28 GMT | That One Time SSL Pinning Made Me Question Everything About HTTPS | Gurjot Singh | [Read More](https://medium.com/p/b4deee5d453d) |
-| Thu, 03 Jul 2025 04:54:01 GMT | Fake Logins, Real Costs: The OTP Bug Worth €X,XXX | Erkan Kavas | [Read More](https://medium.com/p/74a422791385) |
-| Thu, 03 Jul 2025 04:51:03 GMT | Unlocking Security: Advanced Access Control for Saudi Offices | Tekhabeeb | [Read More](https://medium.com/p/74ed986406a1) |
-| Thu, 03 Jul 2025 04:44:49 GMT | How to Clear Your Record of a DUI and Benefits of Blackhatclique | Donley Mark | [Read More](https://medium.com/p/2a1760e300c6) |
-| Thu, 03 Jul 2025 04:43:56 GMT | How a Simple IDOR in a Payment Flow Led to Order Manipulation and PII Exposure | Aryaveer Singh Rathore | [Read More](https://medium.com/p/ec3ed410b08d) |
-| Thu, 03 Jul 2025 04:40:00 GMT | How to Double Your Bounty $BNTY Rewards | $BNTY (Bounty) | [Read More](https://medium.com/p/5d5bf61da8c2) |
-| Thu, 03 Jul 2025 04:33:10 GMT | Accessing Internal Services Using SSH Tunneling and Burp Suite | Kokurate | [Read More](https://medium.com/p/9e5673b4e2ac) |
-| Thu, 03 Jul 2025 04:19:25 GMT | Attacking ML-based Systems: Understanding the OWASP Top 10 Security Risks | Sheikh Mujtaba | [Read More](https://medium.com/p/d449c185dbea) |
-| Thu, 03 Jul 2025 04:16:52 GMT | ️‍♂️ I Forced You to Log In as Me: OAuth Gone Wrong | ASC Lages | [Read More](https://medium.com/p/d68961b1e327) |
-| Thu, 03 Jul 2025 04:14:30 GMT | Psychological Safety: The Secret Weapon for High-Performing Teams (And What I’ve Learnt Leading… | Lee Barney | [Read More](https://medium.com/p/b31fa7a19884) |
-| Thu, 03 Jul 2025 04:06:26 GMT | Bugs Bunny $BUGS: The Key to Unlocking Bigger Earnings | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/5641e5fc5a3a) |
-| Thu, 03 Jul 2025 03:57:24 GMT | How to Effectively and Efficiently Make Every Byte of Your Data Secure | revathi msr | [Read More](https://medium.com/p/3668b1d630f4) |
-| Thu, 03 Jul 2025 03:53:27 GMT | Hunting Reflected XSS in PAN-OS: A Case Study on CVE-2025–0133 | Isha Sangpal | [Read More](https://medium.com/p/6f693d211a16) |
