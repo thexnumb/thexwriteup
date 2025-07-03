@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 22:55:44 GMT | Part 3: In-Memory Execution Methods — How Malware Lives Rent-Free in Your System | Kunal Rajour | [Read More](https://medium.com/p/42adcfbfd50a) |
+| Thu, 03 Jul 2025 22:51:19 GMT | Instant Walkthrough — HackTheBox | Mohammed Jawabri | [Read More](https://medium.com/p/ffe7f730c0d0) |
+| Thu, 03 Jul 2025 22:47:38 GMT | Securing the Future: How Red-Team Testing and Preliminary Assessments Transform Smart Contract… | Pavon Dunbar | [Read More](https://medium.com/p/940380082146) |
 | Thu, 03 Jul 2025 22:32:51 GMT | GAMEZONE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/1becda262382) |
 | Thu, 03 Jul 2025 22:30:17 GMT | 600K Sites at Risk: The Hidden WordPress Flaw That Could Destroy Your Business | Cyber-AppSec | [Read More](https://medium.com/p/079a9a58861e) |
 | Thu, 03 Jul 2025 22:17:05 GMT | SOCFortress Integrations — Vulnerability Assessment for network devices (I) — FortiGate Firewalls | SOCFortress | [Read More](https://medium.com/p/5e19a7ccf511) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 15:22:34 GMT | The Bug You’ll Never See — Until You Flip the Flag | Đeepanshu | [Read More](https://medium.com/p/fbec93ad5fa9) |
 | Thu, 03 Jul 2025 15:17:05 GMT | From LFI to RCE via expect:// PHP Wrapper — A Deep Dive with Practical Examples ✨ | Zoningxtr | [Read More](https://medium.com/p/699690073fe8) |
 | Thu, 03 Jul 2025 15:17:03 GMT | Deep GPT‑4 Integration into Kali Linux: The Future of Ethical Hacking Has Arrived | Ekene Joseph | [Read More](https://medium.com/p/09c38bbb6af7) |
-| Thu, 03 Jul 2025 15:13:34 GMT | Cyber Hygiene In The Age Of AI | Makinde Muyiwa Debowale Fatolu | [Read More](https://medium.com/p/8fe1e8d6209f) |
-| Thu, 03 Jul 2025 15:06:26 GMT | Building the Future of Cyber in Singapore | Tal Eliyahu | [Read More](https://medium.com/p/65b08f888184) |
-| Thu, 03 Jul 2025 15:02:58 GMT | A 12 Part Series of Technical Write-up on Architectural Considerations for Securing Cloud-SaaS… | Dhyan Sagar | [Read More](https://medium.com/p/d3185da55fc3) |
