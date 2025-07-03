@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 13:18:20 GMT | “I Ate Like a Centenarian for 30 Days — Here’s What Changed” | S Anuradha | [Read More](https://medium.com/p/e8d0062b4d49) |
+| Thu, 03 Jul 2025 13:17:25 GMT | 5 Data Science Tricks No One Teaches You in Courses — But Are Game-Changers at Work" | S Anuradha | [Read More](https://medium.com/p/7c69c9390ddc) |
+| Thu, 03 Jul 2025 13:04:12 GMT | Gen AI infancy implementation | Zarin Hamid | [Read More](https://medium.com/p/a66c3c295dbc) |
+| Thu, 03 Jul 2025 13:01:19 GMT | How I Found 100+ Subdomains in Just 1 Hour (A Bug Bounty Hunter’s Secret) | Ibtissam hammadi | [Read More](https://medium.com/p/e81952d948f9) |
+| Thu, 03 Jul 2025 13:00:20 GMT | Risk Management | Igor Berner | [Read More](https://medium.com/p/6ebd36c05a98) |
+| Thu, 03 Jul 2025 13:00:09 GMT | Want More Privacy on Windows 11? Here Are 6 Features I Always Disable | Mohamad MERHI | [Read More](https://medium.com/p/844a60e04ddd) |
+| Thu, 03 Jul 2025 12:59:33 GMT | Would Lady Whistledown have made a good Threat Intelligence Analyst? | Zarin Hamid | [Read More](https://medium.com/p/0f0ceaea00c7) |
+| Thu, 03 Jul 2025 12:56:41 GMT | HackTheBox CBBH vs PortSwigger Web Security Academy: Full Breakdown | Motasem Hamdan | [Read More](https://medium.com/p/bfcaefa6d063) |
+| Thu, 03 Jul 2025 12:52:59 GMT | Zama’s Fully Homomorphic Encryption: Redefining Privacy in Crypto | Nemerem igweze | [Read More](https://medium.com/p/ef4f71d45d5e) |
+| Thu, 03 Jul 2025 12:47:43 GMT | Okay…Not Okay | Potato | [Read More](https://medium.com/p/72350f587e55) |
 | Thu, 03 Jul 2025 12:42:13 GMT | PayPro Joins Hands with Apprise Cyber to Make Digital Payments Even Safer | Muhammad Inam Abbasi | [Read More](https://medium.com/p/9ab48841a55c) |
+| Thu, 03 Jul 2025 12:36:56 GMT | API Penetration Testing: Finding and Exploiting BOLA Flaws | Ahmadfaizabdillah | [Read More](https://medium.com/p/3eb1cb49f1d3) |
+| Thu, 03 Jul 2025 12:36:30 GMT | Google Dorks to Power Up Your LLM & VLLM Research | Eduardo J. Barrios | [Read More](https://medium.com/p/70489040fb76) |
 | Thu, 03 Jul 2025 12:35:40 GMT | 5 Websites That Feel Illegal to Know – But Are Totally Free | Zeeshan Shafi | [Read More](https://medium.com/p/37e59a146d99) |
 | Thu, 03 Jul 2025 12:27:01 GMT | Exploring eBPF for Enhanced Performance and Security | Supratip Banerjee | [Read More](https://medium.com/p/937a88e4ab95) |
 | Thu, 03 Jul 2025 12:26:10 GMT | From Zero to C2: Sliver Setup on Kali Linux for Local Pentest Labs | Kr4k3nstein | [Read More](https://medium.com/p/8917ec390122) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 08:50:29 GMT | Parameter Manipulation Attacks — The Invisible Threat in Web Applications | Siber Günce | [Read More](https://medium.com/p/8b8e9b71db8c) |
 | Thu, 03 Jul 2025 08:50:09 GMT | Choosing the Right SQL Injection Scanner: A Practical Guide | Sam Bishop | [Read More](https://medium.com/p/728f5bfbdb9d) |
 | Thu, 03 Jul 2025 08:44:48 GMT | Naoris Protocol TGE Update — What You Need to Know | Naoris Protocol | [Read More](https://medium.com/p/546bc5193334) |
-| Thu, 03 Jul 2025 08:39:26 GMT | Cyber Kill Chain | Nisa | [Read More](https://medium.com/p/c77d1c03dc49) |
-| Thu, 03 Jul 2025 08:38:54 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/479b4c47f293) |
-| Thu, 03 Jul 2025 08:38:03 GMT | Parametre Manipülasyon Saldırıları — Web Uygulamalarındaki Görünmeyen Tehdit | Siber Günce | [Read More](https://medium.com/p/161ca6dea3ea) |
-| Thu, 03 Jul 2025 08:34:35 GMT | How important is attack surface & risk management? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/54fcd7dca6ff) |
-| Thu, 03 Jul 2025 08:31:38 GMT | Man-in-the-Middle (MITM) Attacks Explained: The Hacker Between You and the Web | err0rgod | [Read More](https://medium.com/p/9d06fdb977a0) |
-| Thu, 03 Jul 2025 08:29:51 GMT | Malware vs. Ransomware: Key Differences Explained | Elevate | [Read More](https://medium.com/p/75d126ffd6d0) |
-| Thu, 03 Jul 2025 08:26:10 GMT | Why Microsoft 365 Is a Hacker’s Goldmine — and How to Protect Yours | Vanshika Arun | [Read More](https://medium.com/p/343010f3bd5e) |
-| Thu, 03 Jul 2025 08:25:53 GMT | Crypto, Compliance & Criminals: What Lawmakers Must Get Right | NekaVC | [Read More](https://medium.com/p/7e46151f85cf) |
-| Thu, 03 Jul 2025 08:22:46 GMT | EchoLeak: CVE-2025–32711 — Yapay Zekâ Güvenliğinde Bir Dönüm Noktası | Lizi Natroshvili | [Read More](https://medium.com/p/5a6b2d2b8258) |
-| Thu, 03 Jul 2025 08:21:16 GMT | What is OSINT? | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2ce5dccf503b) |
-| Thu, 03 Jul 2025 08:17:56 GMT | FREE Penetration Testing Lab Setup: Complete Infrastructure Guide 2025 | Andrei Ivan | [Read More](https://medium.com/p/d2315074d846) |
-| Thu, 03 Jul 2025 08:09:56 GMT | SSTI1 - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/c10c6bace2cb) |
