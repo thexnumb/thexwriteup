@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 17:09:52 GMT | IT Security in 2025: Top IoT Threats and How We’re Fighting Back | Uladzislau Bayouski | [Read More](https://medium.com/p/a59acb199920) |
+| Thu, 03 Jul 2025 17:06:52 GMT | Storing and Displaying User Avatars in Spring Boot Apps | Alexander Obregon | [Read More](https://medium.com/p/4aed1523eb8b) |
+| Thu, 03 Jul 2025 17:01:40 GMT | Broken Access Control part-11 : Method-based access control can be circumvented | Ahmad Sopyan | [Read More](https://medium.com/p/6c93c9873903) |
+| Thu, 03 Jul 2025 17:00:56 GMT | Where I’ve Been | Dan Glass | [Read More](https://medium.com/p/918368cb63c9) |
+| Thu, 03 Jul 2025 16:59:55 GMT | Querying Azure Resource Graph without Limits Using KQL | Mehmet Ergene | [Read More](https://medium.com/p/d04640c8ae2a) |
+| Thu, 03 Jul 2025 16:59:01 GMT | ️ Securing Your Containers: A Deep Dive into CIS Docker Benchmarks | Basant C. | [Read More](https://medium.com/p/68efc8eee292) |
+| Thu, 03 Jul 2025 16:53:54 GMT | Hammer TryHackMe Challenge Writeup | Ramy Nasser | [Read More](https://medium.com/p/3a627638693f) |
+| Thu, 03 Jul 2025 16:49:18 GMT | TechIntelPro - June Insights | TechIntelPro | [Read More](https://medium.com/p/d2f4e9627250) |
+| Thu, 03 Jul 2025 16:48:27 GMT | Why Ireland’s New “Scam Likely” Labels Might Actually Make SMS Fraud Worse for Banks and the Public | Paul Walsh | [Read More](https://medium.com/p/947b51119ecc) |
+| Thu, 03 Jul 2025 16:47:58 GMT | Smishing in Cyber Security: The Silent Threat in Your Inbox | SafeAeon Inc. | [Read More](https://medium.com/p/1b0e179ed90c) |
+| Thu, 03 Jul 2025 16:47:20 GMT | Complete Fire Alarm and Smoke Detector Solutions for Residential and Commercial Spaces | Ataraxis Solutions | [Read More](https://medium.com/p/efa91b4eb747) |
+| Thu, 03 Jul 2025 16:43:27 GMT | Meta Mengincar Foto Pribadi kita: Alarm Privasi Meraung Membahana! | Rushkraft Id | [Read More](https://medium.com/p/4af3560ebe26) |
 | Thu, 03 Jul 2025 16:41:13 GMT | Why Network Security Is Important for Every Business Today | SafeAeon Inc. | [Read More](https://medium.com/p/2ba111b23d3d) |
 | Thu, 03 Jul 2025 16:29:36 GMT | Two Patches. Zero Bounties. One Ignored Researcher — My Bug Bounty Experience with PayTabs.com | Zhaenx | [Read More](https://medium.com/p/052cefbc8e2e) |
 | Thu, 03 Jul 2025 16:19:18 GMT | Qantas / Scatter Spider Call Center Breach — A Wake-Up Call on the Human Element in Cybersecurity | Roselyne | [Read More](https://medium.com/p/34dc884aa093) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 11:32:50 GMT | 6 CI/CD Pipeline Vulnerabilities I Keep Finding in Startup Environments | Sridhar | [Read More](https://medium.com/p/e85190c322ba) |
 | Thu, 03 Jul 2025 11:26:03 GMT | An Ode To My Beloved | Malakai Lelieveld | [Read More](https://medium.com/p/649efcd17d9c) |
 | Thu, 03 Jul 2025 11:23:17 GMT | Notification Hijack: How PendingIntent Can Be Exploited | tinopreter | [Read More](https://medium.com/p/547b0892b7f7) |
-| Thu, 03 Jul 2025 11:19:55 GMT | The Ultimate Audio Library for Tech Pros: 10 Audiobooks That Will Level Up Your Brain | Brian Mora | [Read More](https://medium.com/p/5b9008e743cc) |
-| Thu, 03 Jul 2025 11:19:37 GMT | My Practical Junior Penetration Tester (PJPT) Cheat Sheet | Kizito Arinze Chukwu | [Read More](https://medium.com/p/f11d8c34b66f) |
-| Thu, 03 Jul 2025 11:18:07 GMT | The API Gateway Massacre: How We Slashed Costs and Lost Our Security Blanket | Dev engineer | [Read More](https://medium.com/p/2aa658bf67b5) |
-| Thu, 03 Jul 2025 11:15:22 GMT | “My Business Is Too Small.” Why That Mindset Can Cost You Millions | CUNDware | [Read More](https://medium.com/p/32ce3b5f888d) |
-| Thu, 03 Jul 2025 11:13:28 GMT | Forging Passkeys: Exploring the FIDO2/WebAuthn Attack Surface | Narendar Battula (nArEn) | [Read More](https://medium.com/p/12e44bfb3b74) |
-| Thu, 03 Jul 2025 11:10:06 GMT | 07 JUL 2025 | Astrid Astor | [Read More](https://medium.com/p/b3fc2b965c67) |
-| Thu, 03 Jul 2025 11:09:59 GMT | The Bug Bounty Mindset: Thinking Like a Practical Hacker | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a4342f51334b) |
-| Thu, 03 Jul 2025 11:09:29 GMT | Inside the World’s IT Hubs: Where Technology Takes Shape in 2025 | Onkar Shirke | [Read More](https://medium.com/p/5abec895989c) |
-| Thu, 03 Jul 2025 11:07:55 GMT | How to Connect Google Authentication in Minutes: Step-by-Step Guide | aayushii Gupta | [Read More](https://medium.com/p/d875ba69fbf8) |
-| Thu, 03 Jul 2025 11:07:40 GMT | Quantum Computing: Hire Professional Hackers | Eve serra | [Read More](https://medium.com/p/bebabc0aee35) |
-| Thu, 03 Jul 2025 11:07:13 GMT | Google’s Free Cybersecurity Bootcamp Could Be Your Launchpad Into Tech Here’s Everything You Need… | Mahesh Bhalala | [Read More](https://medium.com/p/e357caac39a0) |
-| Thu, 03 Jul 2025 11:07:01 GMT | From “Not Applicable” to Valid Bug: TikTok Live Streams Visible After Being Blocked | Sandipgyawali | [Read More](https://medium.com/p/a961d45deeca) |
