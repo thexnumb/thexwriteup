@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 18:12:41 GMT | Review: Offensive X 2025 Conference-Talks, Hacking Challenges, and Cybersecurity Community in… | Ilias Mavropoulos | [Read More](https://medium.com/p/e7aec6dd42c5) |
+| Thu, 03 Jul 2025 18:05:47 GMT | Sophisticated Chinese Threat Actor Targets French Government and Critical Sectors via Ivanti CSA… | RealSec.io | [Read More](https://medium.com/p/9e5dd74cda0a) |
+| Thu, 03 Jul 2025 18:05:02 GMT | xss0r V5 Is Finally HERE !!! | xss0r | [Read More](https://medium.com/p/6c71904a21b9) |
+| Thu, 03 Jul 2025 17:48:36 GMT | Hit the Panic Button: How a Kill Switch Can Save You from Cyber Chaos | Akshay Chauhan | [Read More](https://medium.com/p/9eeee7d4f530) |
+| Thu, 03 Jul 2025 17:43:34 GMT | Top 5 Most Common WordPress Security Mistakes Newbies Make- | FA Shuvo | [Read More](https://medium.com/p/35b2ed425d37) |
 | Thu, 03 Jul 2025 17:39:22 GMT | I Passed eJPTv2 in My Second Semester — Here’s Everything I Did | Muhammad Husnain Zargar | [Read More](https://medium.com/p/674ea862cf82) |
 | Thu, 03 Jul 2025 17:36:21 GMT | Deep Dive into Disk Partitioning: MBR, GPT & Boot Mechanics | Thakur Ashutosh | [Read More](https://medium.com/p/b45728263b77) |
 | Thu, 03 Jul 2025 17:34:32 GMT | How Hackers Use ChatGPT to Craft Social Engineering Attacks | Code With Hannan | [Read More](https://medium.com/p/fa15cdc03ad8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 11:54:14 GMT | The Port 3306 Cheatsheet: MySQL Workflow ,Misconfig, Dump, Exploit | Very Lazy Tech | [Read More](https://medium.com/p/7eccb333c944) |
 | Thu, 03 Jul 2025 11:53:53 GMT | 5 Python Tricks That Will Hack Your Daily Life (and Save Your Sanity!) | Aman Sharma | [Read More](https://medium.com/p/bfe3d8444c57) |
 | Thu, 03 Jul 2025 11:51:02 GMT | Writeup PicoCTF - WebDecode - Web Expolitation | Malbaralamsyah | [Read More](https://medium.com/p/6de79712e7e0) |
-| Thu, 03 Jul 2025 11:50:07 GMT | OTP Bypass via JSON Response Manipulation | Victor Wakhungila | [Read More](https://medium.com/p/838ed5e46b24) |
-| Thu, 03 Jul 2025 11:50:06 GMT | Kelly Benefits Data Breach: What Customers Should Know | Anvi | [Read More](https://medium.com/p/8596f7914463) |
-| Thu, 03 Jul 2025 11:49:35 GMT | Storing Secrets in Mobile Apps and Beyond: What Developers Need to Know | Siddharth | [Read More](https://medium.com/p/82b7450a5fd0) |
-| Thu, 03 Jul 2025 11:45:29 GMT | AI Agents in Cybersecurity: Not Your Grandma Antivirus or Firewall | noailabs | [Read More](https://medium.com/p/996a48d530e5) |
-| Thu, 03 Jul 2025 11:39:12 GMT | CTF Day(23) | Ahmed Narmer | [Read More](https://medium.com/p/595078e28d0f) |
