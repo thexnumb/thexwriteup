@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 04:44:49 GMT | How to Clear Your Record of a DUI and Benefits of Blackhatclique | Donley Mark | [Read More](https://medium.com/p/2a1760e300c6) |
+| Thu, 03 Jul 2025 04:43:56 GMT | How a Simple IDOR in a Payment Flow Led to Order Manipulation and PII Exposure | Aryaveer Singh Rathore | [Read More](https://medium.com/p/ec3ed410b08d) |
+| Thu, 03 Jul 2025 04:40:00 GMT | How to Double Your Bounty $BNTY Rewards | $BNTY (Bounty) | [Read More](https://medium.com/p/5d5bf61da8c2) |
+| Thu, 03 Jul 2025 04:33:10 GMT | Accessing Internal Services Using SSH Tunneling and Burp Suite | Kokurate | [Read More](https://medium.com/p/9e5673b4e2ac) |
+| Thu, 03 Jul 2025 04:19:25 GMT | Attacking ML-based Systems: Understanding the OWASP Top 10 Security Risks | Sheikh Mujtaba | [Read More](https://medium.com/p/d449c185dbea) |
+| Thu, 03 Jul 2025 04:16:52 GMT | ️‍♂️ I Forced You to Log In as Me: OAuth Gone Wrong | ASC Lages | [Read More](https://medium.com/p/d68961b1e327) |
+| Thu, 03 Jul 2025 04:14:30 GMT | Psychological Safety: The Secret Weapon for High-Performing Teams (And What I’ve Learnt Leading… | Lee Barney | [Read More](https://medium.com/p/b31fa7a19884) |
+| Thu, 03 Jul 2025 04:06:26 GMT | Bugs Bunny $BUGS: The Key to Unlocking Bigger Earnings | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/5641e5fc5a3a) |
+| Thu, 03 Jul 2025 03:57:24 GMT | How to Effectively and Efficiently Make Every Byte of Your Data Secure | revathi msr | [Read More](https://medium.com/p/3668b1d630f4) |
 | Thu, 03 Jul 2025 03:53:27 GMT | Hunting Reflected XSS in PAN-OS: A Case Study on CVE-2025–0133 | Isha Sangpal | [Read More](https://medium.com/p/6f693d211a16) |
 | Thu, 03 Jul 2025 03:48:57 GMT | Title: The Hidden Dangers of Free Public Wi-Fi — And How to Stay Safe | Anshika Prajapati | [Read More](https://medium.com/p/25da8e6853a0) |
 | Thu, 03 Jul 2025 03:45:44 GMT | Earn Passive Income With Bugs Bunny $BUGS Crypto Rewards | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/afbbb3daf70f) |
@@ -105,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 18:38:51 GMT | How to Deploy Wazuh on VMware and Connect a Windows Agent: A Step-by-Step Guide | Zaibahmadofficial | [Read More](https://medium.com/p/e0c970cf4f49) |
 | Wed, 02 Jul 2025 18:37:42 GMT | Digital Entanglements: A Quantum Field View of Cybersecurity | Boris Loza | [Read More](https://medium.com/p/f4226bd98814) |
 | Wed, 02 Jul 2025 18:36:44 GMT | The Future of Smart Locks: How Ultra Wideband and Matter Protocols Are Changing Home Security | Uladzislau Bayouski | [Read More](https://medium.com/p/c2df70a8bb5a) |
-| Wed, 02 Jul 2025 18:31:39 GMT | Top 10 Network Security Best Practices for Businesses | Kevinasutton | [Read More](https://medium.com/p/721d47667dbe) |
-| Wed, 02 Jul 2025 18:28:05 GMT | The Truth About Browser Extensions: How They Can Secretly Steal Your Private Data | Aryan Shrestha | [Read More](https://medium.com/p/1ea03aca91a0) |
-| Wed, 02 Jul 2025 18:26:16 GMT | TRUST | Enoch Root | [Read More](https://medium.com/p/5ec3601171c9) |
-| Wed, 02 Jul 2025 18:26:03 GMT | Cloud Security: Why It Matters and How to Protect Your Cloud in a Multi-Cloud World | Dibu | [Read More](https://medium.com/p/2e368682cf06) |
-| Wed, 02 Jul 2025 18:13:01 GMT | SIEM Challenges You Shouldn’t Ignore and How to Solve Them | SafeAeon Inc. | [Read More](https://medium.com/p/37712cd2911a) |
-| Wed, 02 Jul 2025 18:06:10 GMT | Secrets, Sync, and Sanity: How We Made Terraform Safer With One Simple Pattern | Mohamed Sazni | [Read More](https://medium.com/p/3feb4c03d239) |
-| Wed, 02 Jul 2025 17:57:03 GMT | ## Guide pour renforcer votre sécurité en ligne 
-**Robin Boucher — Étudiant en cybersécurité**… | Robin Boucher | [Read More](https://medium.com/p/d7c6fcf1248d) |
-| Wed, 02 Jul 2025 17:56:51 GMT | Protecting 3D Content: The Case for Digital Rights Management in Visualization Workflows | VNTANA | [Read More](https://medium.com/p/35443a3f022a) |
-| Wed, 02 Jul 2025 17:55:35 GMT | AI-Powered Digital Workers: Securely Enabling the Future of Work with AI Agents | Valdez Ladd | [Read More](https://medium.com/p/ed21ed6e0320) |
