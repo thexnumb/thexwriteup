@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 21:12:59 GMT | The CORS Error We All Misunderstand — Especially with File Uploads | Lakshitha | [Read More](https://medium.com/p/80e616943f08) |
+| Thu, 03 Jul 2025 21:12:18 GMT | Data Partitioning in Multi-Tenant SaaS: Balancing Security, Scalability, and Cost | Abdullah @ Writes | [Read More](https://medium.com/p/94786ce30d32) |
+| Thu, 03 Jul 2025 21:11:47 GMT | Your Supply Chain Is Already Compromised — And You Don’t Even Know It | Sneha Rani | [Read More](https://medium.com/p/00e95c9ac4ca) |
+| Thu, 03 Jul 2025 21:06:14 GMT | I Built Four Companies, but I Am Still Afraid of Being Seen | Ajay Deewan | [Read More](https://medium.com/p/848f345b22ee) |
+| Thu, 03 Jul 2025 20:59:16 GMT | Write Up InfluencerHate — Dockerlabs.es | APS88 | [Read More](https://medium.com/p/9bf161cc39a1) |
+| Thu, 03 Jul 2025 20:52:55 GMT | Vapt Sheet | Clutchbomt | [Read More](https://medium.com/p/0b6c9cb7c7fc) |
+| Thu, 03 Jul 2025 20:47:15 GMT | SOC automation project Part -1 | rkn | [Read More](https://medium.com/p/efff136a3899) |
+| Thu, 03 Jul 2025 20:44:42 GMT | Why Technical Cybersecurity Founders Fail at Marketing — And How AI Can Bridge the Gap | Deepak Gupta | [Read More](https://medium.com/p/66e2e8d148f3) |
+| Thu, 03 Jul 2025 20:37:11 GMT | Protection of PLC systems | Reefayat Majumder | [Read More](https://medium.com/p/8361cb4244d0) |
 | Thu, 03 Jul 2025 20:35:13 GMT | How to Survive the AI Tsunami | devsecops | [Read More](https://medium.com/p/a5d33e0674ef) |
+| Thu, 03 Jul 2025 20:31:14 GMT | Zero Trust Security for AI in an Enterprise | Concept Chisel | [Read More](https://medium.com/p/d569f801e7ad) |
 | Thu, 03 Jul 2025 20:26:59 GMT | Log4j: The Silent Killer | Oludare Stephen Ayobami | [Read More](https://medium.com/p/89a06eeed9cf) |
 | Thu, 03 Jul 2025 20:18:09 GMT | Emprisa Maldoc Lab Writeup — [Cyberdefenders.org] | Riad Moudjahed | [Read More](https://medium.com/p/6bf2b3b79762) |
 | Thu, 03 Jul 2025 20:09:19 GMT | **KuCoin: The People’s Exchange or a Regulatory Tightrope?** | Sergey Golubev (Сергей Голубев) | [Read More](https://medium.com/p/8c6fd25b1cc1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 14:01:08 GMT | Mobil Alarm Standı (MAS): Geçiçi Alanlarda 7/24 Güvenlik İçin Taşınabilir Çözüm | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/3381d9e657ee) |
 | Thu, 03 Jul 2025 14:00:58 GMT | Understanding Cross-Site Scripting (XSS) | Shipra Sootel | [Read More](https://medium.com/p/b909b52f3711) |
 | Thu, 03 Jul 2025 13:59:17 GMT | 0xTeabag getting started guide | 0xTeabag | [Read More](https://medium.com/p/8690e21a6ed8) |
-| Thu, 03 Jul 2025 13:59:11 GMT | Cyber Briefing: 2025.07.03 | CyberMaterial | [Read More](https://medium.com/p/5a6a03315254) |
-| Thu, 03 Jul 2025 13:58:26 GMT | What Is The Informatics Hub? A Gateway to Digital Innovation | Theinformaticshub | [Read More](https://medium.com/p/10dcf2783136) |
-| Thu, 03 Jul 2025 13:53:31 GMT | Is Google Analytics 4 HIPAA-Compliant? | Feroot Security | [Read More](https://medium.com/p/458becde2b6e) |
-| Thu, 03 Jul 2025 13:50:50 GMT | LLMjacking: Protect Your Cloud AI From Hackers | Herbert Moroni Gois | [Read More](https://medium.com/p/54a41d587bb0) |
-| Thu, 03 Jul 2025 13:45:21 GMT | Why Banning Smartphones at School Sends the Wrong Message to our Kids About Digital Citizenship | Savvy Cyber Kids | [Read More](https://medium.com/p/2dd3f2699603) |
-| Thu, 03 Jul 2025 13:44:56 GMT | The Harsh Truth About IT Certifications: What Actually Matters in Cybersecurity Careers | HusQuest | [Read More](https://medium.com/p/c627e6e5dd8e) |
-| Thu, 03 Jul 2025 13:44:13 GMT | An Uncertain Vision (Pro) of the Future | Savvy Cyber Kids | [Read More](https://medium.com/p/7a54c32fdc3d) |
-| Thu, 03 Jul 2025 13:43:48 GMT | Parents, Your Kids Need Your Cyber Help | Savvy Cyber Kids | [Read More](https://medium.com/p/d31793d394d2) |
-| Thu, 03 Jul 2025 13:40:04 GMT | ️ Day 3 of 10 Days of MCP Security: Threat Modeling MCP Systems | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/7b41f63ec37b) |
-| Thu, 03 Jul 2025 13:35:17 GMT | Mastering AWK: A Practical Guide to One of Unix’s Most Powerful Text Tools | Owl coder | [Read More](https://medium.com/p/b19378b22050) |
