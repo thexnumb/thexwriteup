@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 17:39:22 GMT | I Passed eJPTv2 in My Second Semester — Here’s Everything I Did | Muhammad Husnain Zargar | [Read More](https://medium.com/p/674ea862cf82) |
+| Thu, 03 Jul 2025 17:36:21 GMT | Deep Dive into Disk Partitioning: MBR, GPT & Boot Mechanics | Thakur Ashutosh | [Read More](https://medium.com/p/b45728263b77) |
+| Thu, 03 Jul 2025 17:34:32 GMT | How Hackers Use ChatGPT to Craft Social Engineering Attacks | Code With Hannan | [Read More](https://medium.com/p/fa15cdc03ad8) |
+| Thu, 03 Jul 2025 17:21:55 GMT | @Gcore.comQuietly Patches Vulnerability, After Denying Reports and Calling It “Behavior By Design” | Zhaenx | [Read More](https://medium.com/p/80365732af7f) |
+| Thu, 03 Jul 2025 17:16:13 GMT | Tokenization: yet another thing to worry about in your AI stack | Dan Glass | [Read More](https://medium.com/p/0d43d5bd72c9) |
 | Thu, 03 Jul 2025 17:09:52 GMT | IT Security in 2025: Top IoT Threats and How We’re Fighting Back | Uladzislau Bayouski | [Read More](https://medium.com/p/a59acb199920) |
 | Thu, 03 Jul 2025 17:06:52 GMT | Storing and Displaying User Avatars in Spring Boot Apps | Alexander Obregon | [Read More](https://medium.com/p/4aed1523eb8b) |
 | Thu, 03 Jul 2025 17:01:40 GMT | Broken Access Control part-11 : Method-based access control can be circumvented | Ahmad Sopyan | [Read More](https://medium.com/p/6c93c9873903) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 11:49:35 GMT | Storing Secrets in Mobile Apps and Beyond: What Developers Need to Know | Siddharth | [Read More](https://medium.com/p/82b7450a5fd0) |
 | Thu, 03 Jul 2025 11:45:29 GMT | AI Agents in Cybersecurity: Not Your Grandma Antivirus or Firewall | noailabs | [Read More](https://medium.com/p/996a48d530e5) |
 | Thu, 03 Jul 2025 11:39:12 GMT | CTF Day(23) | Ahmed Narmer | [Read More](https://medium.com/p/595078e28d0f) |
-| Thu, 03 Jul 2025 11:35:48 GMT | How to Secure More ChainBounty $BOUNTY Rewards in 2025 | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/38329ed65a90) |
-| Thu, 03 Jul 2025 11:32:50 GMT | I Don`t Show the Real Me. But I Wish Someone Would Look Anyway. | Written by marie | [Read More](https://medium.com/p/45702bd34e47) |
-| Thu, 03 Jul 2025 11:32:50 GMT | 6 CI/CD Pipeline Vulnerabilities I Keep Finding in Startup Environments | Sridhar | [Read More](https://medium.com/p/e85190c322ba) |
-| Thu, 03 Jul 2025 11:26:03 GMT | An Ode To My Beloved | Malakai Lelieveld | [Read More](https://medium.com/p/649efcd17d9c) |
-| Thu, 03 Jul 2025 11:23:17 GMT | Notification Hijack: How PendingIntent Can Be Exploited | tinopreter | [Read More](https://medium.com/p/547b0892b7f7) |
