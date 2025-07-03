@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 06:17:49 GMT | AI-Driven Bug Tracking and Resolution — Inside Metasys Innovations’ QA Process | Metasys Innovations | [Read More](https://medium.com/p/670efb59dfe4) |
+| Thu, 03 Jul 2025 06:11:17 GMT | Top 5 WordPress Security Plugins to Use for Site Safety 2025 | ServerAvatar | [Read More](https://medium.com/p/faf805b10613) |
+| Thu, 03 Jul 2025 06:10:15 GMT | Catwatchful Spyware Breach: When the Watchdog Becomes the Predator | Nanthakumar | [Read More](https://medium.com/p/54bf87d4f651) |
+| Thu, 03 Jul 2025 06:05:36 GMT | How Altimetrik Uses Generative AI to Detect Fraud in Banking | Haridas G | [Read More](https://medium.com/p/029899181bea) |
+| Thu, 03 Jul 2025 06:04:05 GMT | Why Cybersecurity Fails (And How to Fix It) | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/92ac69aad07c) |
+| Thu, 03 Jul 2025 06:01:47 GMT | Explore Top Diploma and Certificate Courses in Australia — Upgrade Your Skills Today! | AIST | [Read More](https://medium.com/p/04a617b6aaa9) |
+| Thu, 03 Jul 2025 06:01:06 GMT | Phishing Email Awareness Series: part-4 | Leetsec Sarwar | [Read More](https://medium.com/p/2a3c78837142) |
+| Thu, 03 Jul 2025 05:56:15 GMT | Top 5 Companies for Security Testing | Pamarpooja | [Read More](https://medium.com/p/2adc4c2f9a71) |
+| Thu, 03 Jul 2025 05:49:30 GMT | “Sizni” doim kuzatishadi | Anvarxonmurotxonov | [Read More](https://medium.com/p/8beb0b49c831) |
+| Thu, 03 Jul 2025 05:48:13 GMT | The Linux Security Journey — Cryptoloop | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2666660bedbd) |
+| Thu, 03 Jul 2025 05:44:15 GMT | Smart Solutions: Revolutionizing School Bus Management in Saudi Arabia | Tekhabeeb | [Read More](https://medium.com/p/0b400e4897ec) |
+| Thu, 03 Jul 2025 05:44:07 GMT | Passkey in blockchain | 0xBamnenim | [Read More](https://medium.com/p/3bf5d90d0d1b) |
 | Thu, 03 Jul 2025 05:36:14 GMT | Why You Should Never Leave Your Router Open | yeabsira yabuman | [Read More](https://medium.com/p/a6d8a7a1c961) |
 | Thu, 03 Jul 2025 05:35:33 GMT | What Is Spyware and How Does It Work? [Elimination & Prevention] | Hamza Hanif | [Read More](https://medium.com/p/8c9014655bbb) |
 | Thu, 03 Jul 2025 05:31:22 GMT | CSRF to ATO: How I Took Over Accounts on Target.com with One POST Request | Shah kaif | [Read More](https://medium.com/p/3ab95112900c) |
@@ -102,15 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 21:11:24 GMT | How Power BI helps to Analyze Business: A Step-by-Step Guide for 2025 | Techridge Solutions | [Read More](https://medium.com/p/544a82d2a1a1) |
 | Wed, 02 Jul 2025 21:08:17 GMT | What is Zero Trust Model in Cloud Infrastructure? A Complete Guide for 2025 | Techridge Solutions | [Read More](https://medium.com/p/6f030af73b5a) |
 | Wed, 02 Jul 2025 21:01:23 GMT | Deep Learning-Based Fingerprint Identification and Verification: A Comparative Study of Custom CNN… | Rusa UB | [Read More](https://medium.com/p/cf1a376cfb28) |
-| Wed, 02 Jul 2025 20:46:51 GMT | Shadow AI is Everyone’s Problem | Arun Singh | [Read More](https://medium.com/p/3fb6e98dece2) |
-| Wed, 02 Jul 2025 20:37:20 GMT | How to Use Worker: Secure Job Execution Made Simple | Jay Ehsaniara | [Read More](https://medium.com/p/f725ceac47fb) |
-| Wed, 02 Jul 2025 20:33:19 GMT | Why Microsoft 365 Is a Hacker’s Goldmine — and How to Protect Yours | Vanshika Arun | [Read More](https://medium.com/p/5cf844bc5e17) |
-| Wed, 02 Jul 2025 20:32:38 GMT | How i Found Pre Account Takeover in 3 Minutes | Mado | [Read More](https://medium.com/p/32bcdce9f3e6) |
-| Wed, 02 Jul 2025 20:20:26 GMT | I’m Just A Girl: Typing with Talons | CyberHarv : Down the Rabbit Hole Chronicles | [Read More](https://medium.com/p/328aa1a99776) |
-| Wed, 02 Jul 2025 20:17:30 GMT | How to Reprogram Your Mind for Wealth: Brian Tracy’s Mental Habits of the Rich | Shane Spear | [Read More](https://medium.com/p/c7caa4a90f32) |
-| Wed, 02 Jul 2025 20:10:56 GMT | SQL Injection Ciega por Condiciones de Tiempo | Roberto Alfaro (Vuldar) | [Read More](https://medium.com/p/1c022a5cd794) |
-| Wed, 02 Jul 2025 19:58:22 GMT | OSCP Prep: Devvortex | Dino | [Read More](https://medium.com/p/59a8e5816471) |
-| Wed, 02 Jul 2025 19:50:42 GMT | I Red-Teamed LLMs — And Found They’re Easier to Hack Than You Think | rajni singh | [Read More](https://medium.com/p/fbb3f2fbec60) |
-| Wed, 02 Jul 2025 19:43:51 GMT | Retro ️ - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/8f66a13d3ae5) |
-| Wed, 02 Jul 2025 19:42:20 GMT | Show Me Where It Hurts, So I Know Where to Love You the Hardest | Dahlia | [Read More](https://medium.com/p/27c90f6a2c8d) |
-| Wed, 02 Jul 2025 19:37:01 GMT | Silence Doesn’t Mean Okay… | Potato | [Read More](https://medium.com/p/2705a2e9ebda) |
