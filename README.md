@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 07:28:49 GMT | Understanding the Zero Trust Framework: A New Era of Cybersecurity | Yathaartha Srivastava | [Read More](https://medium.com/p/55c166872609) |
+| Thu, 03 Jul 2025 07:28:26 GMT | The Key to Earning Consistent Rewards with LunaFi $LFI | $LFI (LunaFi) | [Read More](https://medium.com/p/b62dbd04dfdc) |
+| Thu, 03 Jul 2025 07:25:27 GMT | Navigating HIPAA in 2025: What U.S. Healthcare Providers Need to Know | Ampcus Cyber | [Read More](https://medium.com/p/0ad6ce7bf302) |
+| Thu, 03 Jul 2025 07:21:07 GMT | Today’s Top Cyber Intelligence Highlights — Jul 03, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a32bc12595b6) |
 | Thu, 03 Jul 2025 07:14:04 GMT | How to Get Curvance (CVE) Rewards: Quick Beginner's Guide | $CVE (Curvance) | [Read More](https://medium.com/p/d6433250abb0) |
 | Thu, 03 Jul 2025 07:13:19 GMT | Why Vulnerability Matters on Stage | Rebecca Williams | [Read More](https://medium.com/p/bf769c4ad545) |
 | Thu, 03 Jul 2025 07:12:29 GMT | picoCTF - DISKO 1 - BeginnersWalkthrough | Hiibahammd | [Read More](https://medium.com/p/f7b7ebbca5b7) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 23:08:21 GMT | HTB Academy — Broken Authentication (skill assessment) | BotsiCat | [Read More](https://medium.com/p/01b6ac45ee2c) |
 | Wed, 02 Jul 2025 22:51:00 GMT | How I Used the js.map File to Gain Admin Access | CypherNova1337 | [Read More](https://medium.com/p/e30e6f00adb7) |
 | Wed, 02 Jul 2025 22:48:12 GMT | Yuzu Keys: Your Gateway to Nintendo Switch Gaming on PC | Akshay Chauhan | [Read More](https://medium.com/p/46fa46bc9091) |
-| Wed, 02 Jul 2025 22:46:44 GMT | SİBER GÜVENLİKDE YAPAY ZEKANIN ROLÜ: NE YAPABİLİR NE YAPAMAZ? | mslm_altingul | [Read More](https://medium.com/p/c55fef72f6ca) |
-| Wed, 02 Jul 2025 22:37:08 GMT | Discovering the Best Cold Crypto Wallet: ELLIPAL’s Innovative Approach | weeksjack | [Read More](https://medium.com/p/f18d89c1f40f) |
-| Wed, 02 Jul 2025 22:16:50 GMT | Secure Your Wi-Fi: Enterprise-Level Wireless Security Configurations | Karthikeyan Nagaraj | [Read More](https://medium.com/p/487058971e89) |
-| Wed, 02 Jul 2025 22:06:59 GMT | Leaked Tokens, Forgotten Bots, and a Billion-Dollar Problem Nobody Talks About | Cyber-AppSec | [Read More](https://medium.com/p/92abbbf8dbc6) |
