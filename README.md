@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 03:05:22 GMT | Decrypting My Curiosity: First Steps into PicoCTF | Rifan alshammari | [Read More](https://medium.com/p/99a28285a7e4) |
+| Thu, 03 Jul 2025 03:01:12 GMT | In House Vulnerability Analysis Project with python script attached | Ryan Collier | [Read More](https://medium.com/p/2589dee553bc) |
+| Thu, 03 Jul 2025 02:55:12 GMT | Golden SAML, ChatGPT & SolarWinds: Connecting the Dots | Paritosh | [Read More](https://medium.com/p/55de5996d3d9) |
+| Thu, 03 Jul 2025 02:55:03 GMT | This Simple IDOR Let Me Access Private User Photos (Earned $500) | Muhammed Jalwan | [Read More](https://medium.com/p/d0537edba677) |
+| Thu, 03 Jul 2025 02:52:18 GMT | Day 37 of #60DaysofGRC: Regulatory Compliance Across Industries | Brittney Ginther | [Read More](https://medium.com/p/5fc4346dfcff) |
+| Thu, 03 Jul 2025 02:48:27 GMT | Auth with NextJs | Angad | [Read More](https://medium.com/p/1da98b0d46b1) |
+| Thu, 03 Jul 2025 02:45:05 GMT | Want to Be a Hacker (The Good Kind)? Your Bug Bounty Adventure Map Starts Now! | 0m3g4___ | [Read More](https://medium.com/p/32fab9fb3ff4) |
+| Thu, 03 Jul 2025 02:40:03 GMT | CVE-2025–20281: Hacking Cisco ISE with No Password, No Permission, and All the Power | Grupo Oruss | [Read More](https://medium.com/p/b99286e2f802) |
+| Thu, 03 Jul 2025 02:37:27 GMT | Writeup PicoCTF - Cookie Monster Secret Recipe - Web Exploitation | Malbaralamsyah | [Read More](https://medium.com/p/705c9f5ba5f8) |
+| Thu, 03 Jul 2025 02:36:07 GMT | CVE-2025–45065: SQL Injection in Employee Record Management System | Shruti kapoor | [Read More](https://medium.com/p/b58a33e65860) |
+| Thu, 03 Jul 2025 02:21:20 GMT | WiFi Pentesting in Real Environments — Part 1: Recon & Enumeration | Sachin kewat | [Read More](https://medium.com/p/954843031d1d) |
+| Thu, 03 Jul 2025 02:03:30 GMT | Bridges, Not Walls: The Risk and Reward of Emotional Honesty | No Sorensen | [Read More](https://medium.com/p/69881186438d) |
+| Thu, 03 Jul 2025 01:42:29 GMT | Meet nullc0d3: 20-Year Cybersecurity Veteran, Author, and Threat Intelligence Strategist | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/b57fc9b9cf79) |
 | Thu, 03 Jul 2025 01:33:46 GMT | How to Find Domains Owned by a Company | J4xx3n | [Read More](https://medium.com/p/3ae0e5cb2ced) |
 | Thu, 03 Jul 2025 01:28:13 GMT | Cybersecurity dan Penetration Testing | Maan | [Read More](https://medium.com/p/e50d8afa61bc) |
 | Thu, 03 Jul 2025 01:15:34 GMT | Bluenoroff, North Korean Hacking Group, Targets Victims Through Zoom Attack | Criminal IP | [Read More](https://medium.com/p/da19cd33dc37) |
@@ -102,16 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 17:30:49 GMT | Serverless Blog vs Traditional CMS: A Modern Showdown for Power, Cost, Security, and SEO | Haresh Vidja | [Read More](https://medium.com/p/32b77ab29b20) |
 | Wed, 02 Jul 2025 17:30:26 GMT | Turn Trash URLs into Gold Wordlists with haklistgen (Even Your Ex Can’t Ignore This) | hacker_might | [Read More](https://medium.com/p/2692194ff8e6) |
 | Wed, 02 Jul 2025 17:29:35 GMT | Choosing A Career In Tech — The Spark I Shelved | Jesus Zepeda | [Read More](https://medium.com/p/81332305589d) |
-| Wed, 02 Jul 2025 17:28:21 GMT | Inside the Hacker’s Mind: OSINT, Cyber Ops & Digital Shadows | Sumit Shaw | [Read More](https://medium.com/p/abd654a4748f) |
-| Wed, 02 Jul 2025 17:26:04 GMT | Salary Day.. Don’t forget you! | Mayura Thorat | [Read More](https://medium.com/p/625a0e0092a4) |
-| Wed, 02 Jul 2025 17:22:50 GMT | Your DevSecOps Strategy Is Just Security Theater — And Hackers Know It | Sneha Rani | [Read More](https://medium.com/p/849b6888912b) |
-| Wed, 02 Jul 2025 17:20:09 GMT | Eco-Innovation in Cybersecurity | Amelia Johnss | [Read More](https://medium.com/p/f4ab3034a864) |
-| Wed, 02 Jul 2025 17:05:54 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Paridhi Om | [Read More](https://medium.com/p/da16a49d23f2) |
-| Wed, 02 Jul 2025 17:02:56 GMT | Why I Set Email Alerts for Every New User Added to My Linux Server (And How You Can Too) | Faruk Ahmed | [Read More](https://medium.com/p/98ccc369d7f7) |
-| Wed, 02 Jul 2025 16:52:58 GMT | picoCTF — head-dump | Robby firdauzy | [Read More](https://medium.com/p/5ce5c4e9a132) |
-| Wed, 02 Jul 2025 16:47:29 GMT | From Theory to Practice: Implementing MITRE ATLAS Defenses | Michael Hannecke | [Read More](https://medium.com/p/77dde19f9769) |
-| Wed, 02 Jul 2025 16:44:38 GMT | Try Hack Me: Dav Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/6bad55f6bab9) |
-| Wed, 02 Jul 2025 16:42:34 GMT | Top 10 IT Pet Peeves (That Should Be Felonies by Now) | Travis Ray Caverhill | [Read More](https://medium.com/p/918912005165) |
-| Wed, 02 Jul 2025 16:38:18 GMT | Daring and Still Striving for The Great-part | Jennifer Burke Grehan | [Read More](https://medium.com/p/68f52a4a1d44) |
-| Wed, 02 Jul 2025 16:38:02 GMT | How linpeas.sh Script Helps Us To Escalate Privileges As a Root/Admin User On Machine | Iftikhar Zaidi | [Read More](https://medium.com/p/f36990aed92f) |
-| Wed, 02 Jul 2025 16:28:10 GMT | The Quiet Power: Why Softness is the New Strength | T-Ann Pierce | [Read More](https://medium.com/p/f585ed4a7f12) |
