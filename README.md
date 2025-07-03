@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 21:27:57 GMT | SOC Automation Project Part-2 | rkn | [Read More](https://medium.com/p/5e42b0193fad) |
+| Thu, 03 Jul 2025 21:25:38 GMT | VPN: A Rede Privada Virtual | Filipe Campos | [Read More](https://medium.com/p/7dd02981f248) |
+| Thu, 03 Jul 2025 21:17:25 GMT | OTW Bandit Walkthrough (part 2) | Rusiru Kashmeera | [Read More](https://medium.com/p/7cfb95462e0d) |
 | Thu, 03 Jul 2025 21:12:59 GMT | The CORS Error We All Misunderstand — Especially with File Uploads | Lakshitha | [Read More](https://medium.com/p/80e616943f08) |
 | Thu, 03 Jul 2025 21:12:18 GMT | Data Partitioning in Multi-Tenant SaaS: Balancing Security, Scalability, and Cost | Abdullah @ Writes | [Read More](https://medium.com/p/94786ce30d32) |
 | Thu, 03 Jul 2025 21:11:47 GMT | Your Supply Chain Is Already Compromised — And You Don’t Even Know It | Sneha Rani | [Read More](https://medium.com/p/00e95c9ac4ca) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 14:04:16 GMT | Delete WhatsApp Already — You’re Not a Lab Rat, Are You? | Matyas Koszegi | [Read More](https://medium.com/p/764b76c38427) |
 | Thu, 03 Jul 2025 14:02:57 GMT | Software-Defined Networking: The Future of Network Security Services in Phoenix | Blue Fox Group | [Read More](https://medium.com/p/2a004127fb4b) |
 | Thu, 03 Jul 2025 14:02:56 GMT | Ontario Cybersecurity Experts Warn: DDoS Attacks on Finance Are Surging | Zeta Sky | [Read More](https://medium.com/p/7f938bf82abf) |
-| Thu, 03 Jul 2025 14:01:08 GMT | Mobil Alarm Standı (MAS): Geçiçi Alanlarda 7/24 Güvenlik İçin Taşınabilir Çözüm | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/3381d9e657ee) |
-| Thu, 03 Jul 2025 14:00:58 GMT | Understanding Cross-Site Scripting (XSS) | Shipra Sootel | [Read More](https://medium.com/p/b909b52f3711) |
-| Thu, 03 Jul 2025 13:59:17 GMT | 0xTeabag getting started guide | 0xTeabag | [Read More](https://medium.com/p/8690e21a6ed8) |
