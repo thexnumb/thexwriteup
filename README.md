@@ -12,9 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 12:42:13 GMT | PayPro Joins Hands with Apprise Cyber to Make Digital Payments Even Safer | Muhammad Inam Abbasi | [Read More](https://medium.com/p/9ab48841a55c) |
+| Thu, 03 Jul 2025 12:35:40 GMT | 5 Websites That Feel Illegal to Know – But Are Totally Free | Zeeshan Shafi | [Read More](https://medium.com/p/37e59a146d99) |
+| Thu, 03 Jul 2025 12:27:01 GMT | Exploring eBPF for Enhanced Performance and Security | Supratip Banerjee | [Read More](https://medium.com/p/937a88e4ab95) |
+| Thu, 03 Jul 2025 12:26:10 GMT | From Zero to C2: Sliver Setup on Kali Linux for Local Pentest Labs | Kr4k3nstein | [Read More](https://medium.com/p/8917ec390122) |
+| Thu, 03 Jul 2025 12:21:07 GMT | The psychology behind succeeding of cybercrime is our greed. | Martin Abramov | [Read More](https://medium.com/p/0c72130d1aff) |
+| Thu, 03 Jul 2025 12:20:02 GMT | The Matrix of Sudo: CVE-2025–32462 and the Red Pill of Root Access | Mr. Cyber | [Read More](https://medium.com/p/ebc5c53bac85) |
+| Thu, 03 Jul 2025 12:09:37 GMT | CyberDefenders Endpoint Forensics -TeamSpy Lab | Girithar Ram Ravindran | [Read More](https://medium.com/p/5f587b93121f) |
+| Thu, 03 Jul 2025 12:08:14 GMT | Current Email Security Protocols. | Samuel Jack | [Read More](https://medium.com/p/6568024b422c) |
+| Thu, 03 Jul 2025 12:00:20 GMT | Solution breakdown: Web shell upload via extension blacklist bypass. | Rabia Riaz | [Read More](https://medium.com/p/dedc51243379) |
+| Thu, 03 Jul 2025 11:59:05 GMT | NEURODREAM: Weak Signal | Alex Brox | [Read More](https://medium.com/p/b86cff605a68) |
+| Thu, 03 Jul 2025 11:54:14 GMT | The Port 3306 Cheatsheet: MySQL Workflow ,Misconfig, Dump, Exploit | Very Lazy Tech | [Read More](https://medium.com/p/7eccb333c944) |
+| Thu, 03 Jul 2025 11:53:53 GMT | 5 Python Tricks That Will Hack Your Daily Life (and Save Your Sanity!) | Aman Sharma | [Read More](https://medium.com/p/bfe3d8444c57) |
+| Thu, 03 Jul 2025 11:51:02 GMT | Writeup PicoCTF - WebDecode - Web Expolitation | Malbaralamsyah | [Read More](https://medium.com/p/6de79712e7e0) |
+| Thu, 03 Jul 2025 11:50:07 GMT | OTP Bypass via JSON Response Manipulation | Victor Wakhungila | [Read More](https://medium.com/p/838ed5e46b24) |
+| Thu, 03 Jul 2025 11:50:06 GMT | Kelly Benefits Data Breach: What Customers Should Know | Anvi | [Read More](https://medium.com/p/8596f7914463) |
+| Thu, 03 Jul 2025 11:49:35 GMT | Storing Secrets in Mobile Apps and Beyond: What Developers Need to Know | Siddharth | [Read More](https://medium.com/p/82b7450a5fd0) |
+| Thu, 03 Jul 2025 11:45:29 GMT | AI Agents in Cybersecurity: Not Your Grandma Antivirus or Firewall | noailabs | [Read More](https://medium.com/p/996a48d530e5) |
 | Thu, 03 Jul 2025 11:39:12 GMT | CTF Day(23) | Ahmed Narmer | [Read More](https://medium.com/p/595078e28d0f) |
 | Thu, 03 Jul 2025 11:35:48 GMT | How to Secure More ChainBounty $BOUNTY Rewards in 2025 | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/38329ed65a90) |
 | Thu, 03 Jul 2025 11:32:50 GMT | I Don`t Show the Real Me. But I Wish Someone Would Look Anyway. | Written by marie | [Read More](https://medium.com/p/45702bd34e47) |
+| Thu, 03 Jul 2025 11:32:50 GMT | 6 CI/CD Pipeline Vulnerabilities I Keep Finding in Startup Environments | Sridhar | [Read More](https://medium.com/p/e85190c322ba) |
 | Thu, 03 Jul 2025 11:26:03 GMT | An Ode To My Beloved | Malakai Lelieveld | [Read More](https://medium.com/p/649efcd17d9c) |
 | Thu, 03 Jul 2025 11:23:17 GMT | Notification Hijack: How PendingIntent Can Be Exploited | tinopreter | [Read More](https://medium.com/p/547b0892b7f7) |
 | Thu, 03 Jul 2025 11:19:55 GMT | The Ultimate Audio Library for Tech Pros: 10 Audiobooks That Will Level Up Your Brain | Brian Mora | [Read More](https://medium.com/p/5b9008e743cc) |
@@ -78,6 +96,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 08:58:25 GMT | Mastering Defect Triage: A QA Manager’s Guide | Parinita Kapoor | [Read More](https://medium.com/p/33e7a58c8d81) |
 | Thu, 03 Jul 2025 08:57:39 GMT | The Daily Tech Digest: 03 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/4b3281dcc10c) |
 | Thu, 03 Jul 2025 08:56:53 GMT | Your Developers Don’t Care About Security — And That’s Your Fault | Sneha Rani | [Read More](https://medium.com/p/6290ca1f1aa3) |
+| Thu, 03 Jul 2025 08:51:11 GMT | How to Kill Information Silos in Remote Teams: Lessons from a Microsoft 365 Innovator | Samson Kiarie | [Read More](https://medium.com/p/e3f2c081dc52) |
 | Thu, 03 Jul 2025 08:50:29 GMT | Parameter Manipulation Attacks — The Invisible Threat in Web Applications | Siber Günce | [Read More](https://medium.com/p/8b8e9b71db8c) |
 | Thu, 03 Jul 2025 08:50:09 GMT | Choosing the Right SQL Injection Scanner: A Practical Guide | Sam Bishop | [Read More](https://medium.com/p/728f5bfbdb9d) |
 | Thu, 03 Jul 2025 08:44:48 GMT | Naoris Protocol TGE Update — What You Need to Know | Naoris Protocol | [Read More](https://medium.com/p/546bc5193334) |
@@ -93,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 08:21:16 GMT | What is OSINT? | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2ce5dccf503b) |
 | Thu, 03 Jul 2025 08:17:56 GMT | FREE Penetration Testing Lab Setup: Complete Infrastructure Guide 2025 | Andrei Ivan | [Read More](https://medium.com/p/d2315074d846) |
 | Thu, 03 Jul 2025 08:09:56 GMT | SSTI1 - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/c10c6bace2cb) |
-| Thu, 03 Jul 2025 08:09:40 GMT | Gemini CLI : Ultimate AI Agent | AbhirupKonwar | [Read More](https://medium.com/p/8f565ddad2d2) |
-| Thu, 03 Jul 2025 08:06:31 GMT | Cybersecurity in Battery Management Systems (BMS) | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/e75825d3936e) |
-| Thu, 03 Jul 2025 08:05:35 GMT | Unlock the Power of Bugs Bunny $BUGS Rewards | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/1028e0173749) |
-| Thu, 03 Jul 2025 08:00:55 GMT | Access Control (Erişim Kontrolü) Portswigger Lab Çözümleri - Bölüm 2 | ENES KURTULAN | [Read More](https://medium.com/p/104feab9dc82) |
-| Thu, 03 Jul 2025 07:57:58 GMT | SAP Security in a Windows Environment: A Critical Cybersecurity Priority | Baikan Ramchander | [Read More](https://medium.com/p/793c01eb6be0) |
-| Thu, 03 Jul 2025 07:56:31 GMT | Understanding PGP Keys: A Beginner’s Guide to Secure Communication | Hzia | [Read More](https://medium.com/p/ed574b92f05a) |
-| Thu, 03 Jul 2025 07:53:53 GMT | Day 40: Pentest Reports | Nile Okomo | [Read More](https://medium.com/p/a56362ee790a) |
-| Thu, 03 Jul 2025 07:50:13 GMT | Exploring the Growth Trajectory of the GPU Database Market | Shunham Choudhry | [Read More](https://medium.com/p/5e9181aa841f) |
-| Thu, 03 Jul 2025 07:47:50 GMT | From Scripts to Shields: How Python Became My Favorite Cybersecurity Superpower 
-By CyberScope -… | Cyberscope | [Read More](https://medium.com/p/d82d719553ee) |
-| Thu, 03 Jul 2025 07:46:29 GMT | Do’s and Don’ts When Hiring Event Security Services | Jane Tang | [Read More](https://medium.com/p/31b88db7f4eb) |
-| Thu, 03 Jul 2025 07:41:30 GMT | Dishing It Deep: Part 1:Emotional Vulnerability | Apoorva Sahay | [Read More](https://medium.com/p/589d7389367c) |
-| Thu, 03 Jul 2025 07:38:00 GMT | Not-So-Private Parts: How Public Buckets Spilled Internal Dashboards | Iski | [Read More](https://medium.com/p/c3dd03df9951) |
-| Thu, 03 Jul 2025 07:36:52 GMT | AI And Cybersecurity: A Powerful Duo Against Modern Threats | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/963e8d815682) |
-| Thu, 03 Jul 2025 07:34:55 GMT | How to Avoid False Positives in SafeLine WAF with Custom Rules | AerieWhole123 | [Read More](https://medium.com/p/71607450e3e8) |
-| Thu, 03 Jul 2025 07:28:49 GMT | Understanding the Zero Trust Framework: A New Era of Cybersecurity | Yathaartha Srivastava | [Read More](https://medium.com/p/55c166872609) |
-| Thu, 03 Jul 2025 07:28:26 GMT | The Key to Earning Consistent Rewards with LunaFi $LFI | $LFI (LunaFi) | [Read More](https://medium.com/p/b62dbd04dfdc) |
-| Thu, 03 Jul 2025 07:25:27 GMT | Navigating HIPAA in 2025: What U.S. Healthcare Providers Need to Know | Ampcus Cyber | [Read More](https://medium.com/p/0ad6ce7bf302) |
-| Thu, 03 Jul 2025 07:21:07 GMT | Today’s Top Cyber Intelligence Highlights — Jul 03, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a32bc12595b6) |
-| Thu, 03 Jul 2025 07:14:04 GMT | How to Get Curvance (CVE) Rewards: Quick Beginner's Guide | $CVE (Curvance) | [Read More](https://medium.com/p/d6433250abb0) |
