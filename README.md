@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 01:33:46 GMT | How to Find Domains Owned by a Company | J4xx3n | [Read More](https://medium.com/p/3ae0e5cb2ced) |
+| Thu, 03 Jul 2025 01:28:13 GMT | Cybersecurity dan Penetration Testing | Maan | [Read More](https://medium.com/p/e50d8afa61bc) |
+| Thu, 03 Jul 2025 01:15:34 GMT | Bluenoroff, North Korean Hacking Group, Targets Victims Through Zoom Attack | Criminal IP | [Read More](https://medium.com/p/da19cd33dc37) |
+| Thu, 03 Jul 2025 01:00:42 GMT | Explaining Cybersecurity’s Best Practices for Remote Teams | Ahmer | [Read More](https://medium.com/p/57f7123fb05c) |
+| Thu, 03 Jul 2025 00:58:49 GMT | Iniciação a modelagem de ameaças | Juliana Gaioso | [Read More](https://medium.com/p/f9fff72b9b6d) |
+| Thu, 03 Jul 2025 00:35:44 GMT | What Happens on the Dark Web Doesn’t Stay There | Mehran Khan | [Read More](https://medium.com/p/ca77ea043673) |
+| Thu, 03 Jul 2025 00:28:05 GMT | Comparative Study of Industry and Academic Approaches to Volumetric DDoS Defense | Haitao Wang | [Read More](https://medium.com/p/9726a69c3fca) |
+| Thu, 03 Jul 2025 00:26:12 GMT | A country tired of a people seeking to unite | Lielbenkhalifa | [Read More](https://medium.com/p/66a14ffc5ff0) |
+| Thu, 03 Jul 2025 00:12:51 GMT | A Lab to Deploying the Password Manager on AWS | Hammad Zahid | [Read More](https://medium.com/p/c111542d1075) |
+| Thu, 03 Jul 2025 00:09:30 GMT | Vulnerabilidades Críticas na Plataforma Firebase | Andrey Escarião | [Read More](https://medium.com/p/68b5939ebedd) |
+| Wed, 02 Jul 2025 23:53:58 GMT | Carotid Artery | Peter A | [Read More](https://medium.com/p/edee2fd2564d) |
+| Wed, 02 Jul 2025 23:53:44 GMT | Sometimes There Is Strength In Weakness | K.M. Eyre | [Read More](https://medium.com/p/0f14afdb1fc1) |
+| Wed, 02 Jul 2025 23:52:51 GMT | Direction Lost: The Invisible Machinery of Corruption | Osei Harper | [Read More](https://medium.com/p/81a98654c31f) |
+| Wed, 02 Jul 2025 23:49:30 GMT | The Safety That Never Came | Nakko | [Read More](https://medium.com/p/369e7e215445) |
+| Wed, 02 Jul 2025 23:48:07 GMT | IoT PENTESTİNG/BÖLÜM 1 | ömer Kaan kurt | [Read More](https://medium.com/p/12f09705daa9) |
 | Wed, 02 Jul 2025 23:33:00 GMT | FortiGuard IPS Service By Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4dde9543daf0) |
 | Wed, 02 Jul 2025 23:29:53 GMT | ✅ Email infrastructure (AWS SES/SMTP)
 ✅ Deliverability optimization & sender reputation
@@ -100,18 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 16:38:18 GMT | Daring and Still Striving for The Great-part | Jennifer Burke Grehan | [Read More](https://medium.com/p/68f52a4a1d44) |
 | Wed, 02 Jul 2025 16:38:02 GMT | How linpeas.sh Script Helps Us To Escalate Privileges As a Root/Admin User On Machine | Iftikhar Zaidi | [Read More](https://medium.com/p/f36990aed92f) |
 | Wed, 02 Jul 2025 16:28:10 GMT | The Quiet Power: Why Softness is the New Strength | T-Ann Pierce | [Read More](https://medium.com/p/f585ed4a7f12) |
-| Wed, 02 Jul 2025 16:20:43 GMT | Why Your Recon is Lying to You — And What to Do About It ️‍♂️ | Đeepanshu | [Read More](https://medium.com/p/e3792a1df86a) |
-| Wed, 02 Jul 2025 16:16:51 GMT | #69 — Tongue-Tied | Christian Augspurg | [Read More](https://medium.com/p/acde4f05d47b) |
-| Wed, 02 Jul 2025 16:12:52 GMT | Confused by Website Security & Backups? My “Set It and Forget It” WordPress Checklist. | Makemoneytactic | [Read More](https://medium.com/p/af48e33d99eb) |
-| Wed, 02 Jul 2025 16:12:31 GMT | Cryptography for Beginners: How Encryption Really Works Today | FelixFab | [Read More](https://medium.com/p/d34714344f50) |
-| Wed, 02 Jul 2025 16:08:53 GMT | 10 Best WordPress Directory and listing Themes in 2025 | bestsoftwp | [Read More](https://medium.com/p/c0a9079e69c3) |
-| Wed, 02 Jul 2025 16:02:54 GMT | 99.99% Uptime Goals Are Hurting Developer Velocity | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/ea0c9363916c) |
-| Wed, 02 Jul 2025 16:00:42 GMT | Multi‑Vector Threats in a Fragile World: How State, Non‑State, and Regulatory Forces Are Reshaping… | The DEFCON Warning System | [Read More](https://medium.com/p/ab604230608c) |
-| Wed, 02 Jul 2025 15:59:25 GMT | The Anatomy of Broken Things | Zeynep | [Read More](https://medium.com/p/fc6023a17dc2) |
-| Wed, 02 Jul 2025 15:57:56 GMT | Zama and FHE: The Future of Private and Secure Blockchains Has Arrived | heder.eth | [Read More](https://medium.com/p/ea3e91640213) |
-| Wed, 02 Jul 2025 15:56:38 GMT | Am I Falling in Love, or Just Starving for Connection? | Akshat Singh | [Read More](https://medium.com/p/eec7de5122c6) |
-| Wed, 02 Jul 2025 15:53:45 GMT | HackTheBox -Titanic Machine Write-up | AbOmx | [Read More](https://medium.com/p/47ee677bfd47) |
-| Wed, 02 Jul 2025 15:51:16 GMT | Scale Cost — A New Attack on Modern Applications | Lior Rotkovitch | [Read More](https://medium.com/p/89efcbea9c92) |
-| Wed, 02 Jul 2025 15:49:58 GMT | DanaBot Lab Analysis | Omer Bawazir | [Read More](https://medium.com/p/7dbaa179f3e4) |
-| Wed, 02 Jul 2025 15:34:20 GMT | Legitimate Crypto Recovery Companies | Paulgibson | [Read More](https://medium.com/p/a180a2f2f19e) |
-| Wed, 02 Jul 2025 15:34:03 GMT | Your Internet Service Provider is Watching—Here’s How to Disappear | Aj | [Read More](https://medium.com/p/658512b1391a) |
