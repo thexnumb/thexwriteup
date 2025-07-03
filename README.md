@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 09:34:41 GMT | SOX Controls: A Comprehensive Compliance Playbook | SecureSlate | [Read More](https://medium.com/p/7f484ae6bb0d) |
+| Thu, 03 Jul 2025 09:31:40 GMT | The Reasons I’ll Never Switch from Obsidian to Tana | Sébastien Dubois | [Read More](https://medium.com/p/7a190dbe4c6a) |
+| Thu, 03 Jul 2025 09:31:17 GMT | PowerShell ile log analizi ve sistem kontrolü | İsmail Demir | [Read More](https://medium.com/p/4e670f8af69e) |
+| Thu, 03 Jul 2025 09:28:01 GMT | OSI (Open System interconnection) MODELİ NEDİR? 7 katmanlı iletişim sistemi… | Aybike tutar | [Read More](https://medium.com/p/e2aa113a6529) |
+| Thu, 03 Jul 2025 09:26:13 GMT | YOU DESERVE THE GOOD THAT FINDS YOU | Simply Habibi! | [Read More](https://medium.com/p/78e0f94c1044) |
+| Thu, 03 Jul 2025 09:25:34 GMT | Future-Proofing Your Data: Cutting-Edge Security for UAE Data Centers | Tekshoyabeelyas | [Read More](https://medium.com/p/75f6e92b7093) |
+| Thu, 03 Jul 2025 09:24:35 GMT | How I Bypassed Account Verification with a Simple Host Header Trick | Ehtesham Ul Haq | [Read More](https://medium.com/p/728368ae877b) |
 | Thu, 03 Jul 2025 09:16:51 GMT | Using Your Data Effectively in Enterprise Security | Apto Solutions | [Read More](https://medium.com/p/cf4dcfb8a815) |
 | Thu, 03 Jul 2025 09:12:24 GMT | All Chase bank paypal Venmo Cashapp western union zelle transfers and logs Cloned Cards cc atm cvv… | Gonzalezablerta | [Read More](https://medium.com/p/dfb5a420aaf5) |
 | Thu, 03 Jul 2025 09:11:23 GMT | Breaking the Cipher: How Team Valium Beat crypto_numerology at Google CTF 2025 | Ikshit Sethi | [Read More](https://medium.com/p/84adc7cd2769) |
@@ -25,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 08:44:48 GMT | Naoris Protocol TGE Update — What You Need to Know | Naoris Protocol | [Read More](https://medium.com/p/546bc5193334) |
 | Thu, 03 Jul 2025 08:39:26 GMT | Cyber Kill Chain | Nisa | [Read More](https://medium.com/p/c77d1c03dc49) |
 | Thu, 03 Jul 2025 08:38:54 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/479b4c47f293) |
+| Thu, 03 Jul 2025 08:38:03 GMT | Parametre Manipülasyon Saldırıları — Web Uygulamalarındaki Görünmeyen Tehdit | Siber Günce | [Read More](https://medium.com/p/161ca6dea3ea) |
 | Thu, 03 Jul 2025 08:34:35 GMT | How important is attack surface & risk management? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/54fcd7dca6ff) |
 | Thu, 03 Jul 2025 08:31:38 GMT | Man-in-the-Middle (MITM) Attacks Explained: The Hacker Between You and the Web | err0rgod | [Read More](https://medium.com/p/9d06fdb977a0) |
 | Thu, 03 Jul 2025 08:29:51 GMT | Malware vs. Ransomware: Key Differences Explained | Elevate | [Read More](https://medium.com/p/75d126ffd6d0) |
@@ -105,11 +113,3 @@ By CyberScope -… | Cyberscope | [Read More](https://medium.com/p/d82d719553ee)
 | Thu, 03 Jul 2025 04:06:26 GMT | Bugs Bunny $BUGS: The Key to Unlocking Bigger Earnings | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/5641e5fc5a3a) |
 | Thu, 03 Jul 2025 03:57:24 GMT | How to Effectively and Efficiently Make Every Byte of Your Data Secure | revathi msr | [Read More](https://medium.com/p/3668b1d630f4) |
 | Thu, 03 Jul 2025 03:53:27 GMT | Hunting Reflected XSS in PAN-OS: A Case Study on CVE-2025–0133 | Isha Sangpal | [Read More](https://medium.com/p/6f693d211a16) |
-| Thu, 03 Jul 2025 03:48:57 GMT | Title: The Hidden Dangers of Free Public Wi-Fi — And How to Stay Safe | Anshika Prajapati | [Read More](https://medium.com/p/25da8e6853a0) |
-| Thu, 03 Jul 2025 03:45:44 GMT | Earn Passive Income With Bugs Bunny $BUGS Crypto Rewards | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/afbbb3daf70f) |
-| Thu, 03 Jul 2025 03:43:06 GMT | Nmap: The Tool I Use to See What’s Really Going On…. | sam | [Read More](https://medium.com/p/fd60bbf64635) |
-| Thu, 03 Jul 2025 03:40:53 GMT | Performing CSRF Exploits Over GraphQL | Bash Overflow | [Read More](https://medium.com/p/d6e1165d44dd) |
-| Thu, 03 Jul 2025 03:39:41 GMT | Defending Partnerships: India’s Expanding Security Footprint | Diplomat Dialogues | [Read More](https://medium.com/p/a730b070e6d5) |
-| Thu, 03 Jul 2025 03:32:51 GMT | From Racetrack to Ransom: NASCAR Faces Down the Medusa Threat | Deven Chhajed | [Read More](https://medium.com/p/8bdb50d363e4) |
-| Thu, 03 Jul 2025 03:32:50 GMT | Single Sign-On (SSO): Benefits, Risks, and How It Works — A Practical Deep Dive | Vikram Singh | [Read More](https://medium.com/p/2f1bc2dc5968) |
-| Thu, 03 Jul 2025 03:22:53 GMT | Why AI Is Responsible for the Recent Cyber Theft or Crimes ? | Sardar Ronaq Singh | [Read More](https://medium.com/p/e7439f2895d0) |
