@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 14:20:39 GMT | API06:2023 — Unrestricted Access to Sensitive Business Flows | Suhel Kathi | [Read More](https://medium.com/p/2b74259db112) |
+| Thu, 03 Jul 2025 14:14:19 GMT | Desecure Technology ile Güvenlik Kamerası Sistemleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/182bd675a5c8) |
+| Thu, 03 Jul 2025 14:04:16 GMT | Delete WhatsApp Already — You’re Not a Lab Rat, Are You? | Matyas Koszegi | [Read More](https://medium.com/p/764b76c38427) |
+| Thu, 03 Jul 2025 14:02:57 GMT | Software-Defined Networking: The Future of Network Security Services in Phoenix | Blue Fox Group | [Read More](https://medium.com/p/2a004127fb4b) |
+| Thu, 03 Jul 2025 14:02:56 GMT | Ontario Cybersecurity Experts Warn: DDoS Attacks on Finance Are Surging | Zeta Sky | [Read More](https://medium.com/p/7f938bf82abf) |
+| Thu, 03 Jul 2025 14:01:08 GMT | Mobil Alarm Standı (MAS): Geçiçi Alanlarda 7/24 Güvenlik İçin Taşınabilir Çözüm | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/3381d9e657ee) |
+| Thu, 03 Jul 2025 14:00:58 GMT | Understanding Cross-Site Scripting (XSS) | Shipra Sootel | [Read More](https://medium.com/p/b909b52f3711) |
+| Thu, 03 Jul 2025 13:59:17 GMT | 0xTeabag getting started guide | 0xTeabag | [Read More](https://medium.com/p/8690e21a6ed8) |
+| Thu, 03 Jul 2025 13:59:11 GMT | Cyber Briefing: 2025.07.03 | CyberMaterial | [Read More](https://medium.com/p/5a6a03315254) |
+| Thu, 03 Jul 2025 13:58:26 GMT | What Is The Informatics Hub? A Gateway to Digital Innovation | Theinformaticshub | [Read More](https://medium.com/p/10dcf2783136) |
+| Thu, 03 Jul 2025 13:53:31 GMT | Is Google Analytics 4 HIPAA-Compliant? | Feroot Security | [Read More](https://medium.com/p/458becde2b6e) |
+| Thu, 03 Jul 2025 13:50:50 GMT | LLMjacking: Protect Your Cloud AI From Hackers | Herbert Moroni Gois | [Read More](https://medium.com/p/54a41d587bb0) |
+| Thu, 03 Jul 2025 13:45:21 GMT | Why Banning Smartphones at School Sends the Wrong Message to our Kids About Digital Citizenship | Savvy Cyber Kids | [Read More](https://medium.com/p/2dd3f2699603) |
+| Thu, 03 Jul 2025 13:44:56 GMT | The Harsh Truth About IT Certifications: What Actually Matters in Cybersecurity Careers | HusQuest | [Read More](https://medium.com/p/c627e6e5dd8e) |
+| Thu, 03 Jul 2025 13:44:13 GMT | An Uncertain Vision (Pro) of the Future | Savvy Cyber Kids | [Read More](https://medium.com/p/7a54c32fdc3d) |
+| Thu, 03 Jul 2025 13:43:48 GMT | Parents, Your Kids Need Your Cyber Help | Savvy Cyber Kids | [Read More](https://medium.com/p/d31793d394d2) |
+| Thu, 03 Jul 2025 13:40:04 GMT | ️ Day 3 of 10 Days of MCP Security: Threat Modeling MCP Systems | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/7b41f63ec37b) |
+| Thu, 03 Jul 2025 13:35:17 GMT | Mastering AWK: A Practical Guide to One of Unix’s Most Powerful Text Tools | Owl coder | [Read More](https://medium.com/p/b19378b22050) |
+| Thu, 03 Jul 2025 13:32:35 GMT | Cracking MongoDB Logins with NoSQL Injection: A Practical Demonstration | Sandesh Poudel | [Read More](https://medium.com/p/df09c760d8b9) |
+| Thu, 03 Jul 2025 13:25:36 GMT | Secura Security: Your Trusted Partner for Security, PSO, Bouncer & Housekeeping Services in Delhi… | securasecurty | [Read More](https://medium.com/p/a44fdfe64f59) |
 | Thu, 03 Jul 2025 13:18:20 GMT | “I Ate Like a Centenarian for 30 Days — Here’s What Changed” | S Anuradha | [Read More](https://medium.com/p/e8d0062b4d49) |
 | Thu, 03 Jul 2025 13:17:25 GMT | 5 Data Science Tricks No One Teaches You in Courses — But Are Game-Changers at Work" | S Anuradha | [Read More](https://medium.com/p/7c69c9390ddc) |
 | Thu, 03 Jul 2025 13:04:12 GMT | Gen AI infancy implementation | Zarin Hamid | [Read More](https://medium.com/p/a66c3c295dbc) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 09:52:55 GMT | Tor over VPN vs. VPN over Tor — Which Actually Protects You Better? | DAVID KARIUKI "1stb0n" | [Read More](https://medium.com/p/a84896fe6fa9) |
 | Thu, 03 Jul 2025 09:47:01 GMT | Earn Big with ChainBounty $BOUNTY Rewards This Year | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/a00c324000ee) |
 | Thu, 03 Jul 2025 09:42:54 GMT | Exploring Open Policy Agent (OPA) and Gatekeeper in Kubernetes: Mutating and Validating Admission… | Animesh Srivastava | [Read More](https://medium.com/p/f2d969bb8d45) |
-| Thu, 03 Jul 2025 09:38:35 GMT | All Banks paypal Cashapp western union zelle transfers and logs Cloned Cards cc atm cvv dumps Amex… | Gonzalezablerta | [Read More](https://medium.com/p/c9319063c169) |
-| Thu, 03 Jul 2025 09:34:41 GMT | SOX Controls: A Comprehensive Compliance Playbook | SecureSlate | [Read More](https://medium.com/p/7f484ae6bb0d) |
-| Thu, 03 Jul 2025 09:31:40 GMT | The Reasons I’ll Never Switch from Obsidian to Tana | Sébastien Dubois | [Read More](https://medium.com/p/7a190dbe4c6a) |
-| Thu, 03 Jul 2025 09:31:17 GMT | PowerShell ile log analizi ve sistem kontrolü | İsmail Demir | [Read More](https://medium.com/p/4e670f8af69e) |
-| Thu, 03 Jul 2025 09:28:01 GMT | OSI (Open System interconnection) MODELİ NEDİR? 7 katmanlı iletişim sistemi… | Aybike tutar | [Read More](https://medium.com/p/e2aa113a6529) |
-| Thu, 03 Jul 2025 09:26:13 GMT | YOU DESERVE THE GOOD THAT FINDS YOU | Simply Habibi! | [Read More](https://medium.com/p/78e0f94c1044) |
-| Thu, 03 Jul 2025 09:25:34 GMT | Future-Proofing Your Data: Cutting-Edge Security for UAE Data Centers | Tekshoyabeelyas | [Read More](https://medium.com/p/75f6e92b7093) |
-| Thu, 03 Jul 2025 09:24:35 GMT | How I Bypassed Account Verification with a Simple Host Header Trick | Ehtesham Ul Haq | [Read More](https://medium.com/p/728368ae877b) |
-| Thu, 03 Jul 2025 09:16:51 GMT | Using Your Data Effectively in Enterprise Security | Apto Solutions | [Read More](https://medium.com/p/cf4dcfb8a815) |
-| Thu, 03 Jul 2025 09:12:24 GMT | All Chase bank paypal Venmo Cashapp western union zelle transfers and logs Cloned Cards cc atm cvv… | Gonzalezablerta | [Read More](https://medium.com/p/dfb5a420aaf5) |
-| Thu, 03 Jul 2025 09:11:23 GMT | Breaking the Cipher: How Team Valium Beat crypto_numerology at Google CTF 2025 | Ikshit Sethi | [Read More](https://medium.com/p/84adc7cd2769) |
-| Thu, 03 Jul 2025 09:07:05 GMT | SIBREXIN: Installing Browser Extensions Silently | Toni Lopez | [Read More](https://medium.com/p/b66958561650) |
-| Thu, 03 Jul 2025 08:58:25 GMT | The 3 Stages of AI: From Tool to Parasite | Vaishnav C | [Read More](https://medium.com/p/3e041a9d3f7f) |
-| Thu, 03 Jul 2025 08:58:25 GMT | Mastering Defect Triage: A QA Manager’s Guide | Parinita Kapoor | [Read More](https://medium.com/p/33e7a58c8d81) |
-| Thu, 03 Jul 2025 08:57:39 GMT | The Daily Tech Digest: 03 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/4b3281dcc10c) |
-| Thu, 03 Jul 2025 08:56:53 GMT | Your Developers Don’t Care About Security — And That’s Your Fault | Sneha Rani | [Read More](https://medium.com/p/6290ca1f1aa3) |
-| Thu, 03 Jul 2025 08:51:11 GMT | How to Kill Information Silos in Remote Teams: Lessons from a Microsoft 365 Innovator | Samson Kiarie | [Read More](https://medium.com/p/e3f2c081dc52) |
-| Thu, 03 Jul 2025 08:50:29 GMT | Parameter Manipulation Attacks — The Invisible Threat in Web Applications | Siber Günce | [Read More](https://medium.com/p/8b8e9b71db8c) |
-| Thu, 03 Jul 2025 08:50:09 GMT | Choosing the Right SQL Injection Scanner: A Practical Guide | Sam Bishop | [Read More](https://medium.com/p/728f5bfbdb9d) |
-| Thu, 03 Jul 2025 08:44:48 GMT | Naoris Protocol TGE Update — What You Need to Know | Naoris Protocol | [Read More](https://medium.com/p/546bc5193334) |
