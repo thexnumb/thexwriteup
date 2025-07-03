@@ -12,11 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 11:39:12 GMT | CTF Day(23) | Ahmed Narmer | [Read More](https://medium.com/p/595078e28d0f) |
+| Thu, 03 Jul 2025 11:35:48 GMT | How to Secure More ChainBounty $BOUNTY Rewards in 2025 | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/38329ed65a90) |
+| Thu, 03 Jul 2025 11:32:50 GMT | I Don`t Show the Real Me. But I Wish Someone Would Look Anyway. | Written by marie | [Read More](https://medium.com/p/45702bd34e47) |
+| Thu, 03 Jul 2025 11:26:03 GMT | An Ode To My Beloved | Malakai Lelieveld | [Read More](https://medium.com/p/649efcd17d9c) |
+| Thu, 03 Jul 2025 11:23:17 GMT | Notification Hijack: How PendingIntent Can Be Exploited | tinopreter | [Read More](https://medium.com/p/547b0892b7f7) |
+| Thu, 03 Jul 2025 11:19:55 GMT | The Ultimate Audio Library for Tech Pros: 10 Audiobooks That Will Level Up Your Brain | Brian Mora | [Read More](https://medium.com/p/5b9008e743cc) |
+| Thu, 03 Jul 2025 11:19:37 GMT | My Practical Junior Penetration Tester (PJPT) Cheat Sheet | Kizito Arinze Chukwu | [Read More](https://medium.com/p/f11d8c34b66f) |
+| Thu, 03 Jul 2025 11:18:07 GMT | The API Gateway Massacre: How We Slashed Costs and Lost Our Security Blanket | Dev engineer | [Read More](https://medium.com/p/2aa658bf67b5) |
+| Thu, 03 Jul 2025 11:15:22 GMT | “My Business Is Too Small.” Why That Mindset Can Cost You Millions | CUNDware | [Read More](https://medium.com/p/32ce3b5f888d) |
 | Thu, 03 Jul 2025 11:13:28 GMT | Forging Passkeys: Exploring the FIDO2/WebAuthn Attack Surface | Narendar Battula (nArEn) | [Read More](https://medium.com/p/12e44bfb3b74) |
 | Thu, 03 Jul 2025 11:10:06 GMT | 07 JUL 2025 | Astrid Astor | [Read More](https://medium.com/p/b3fc2b965c67) |
 | Thu, 03 Jul 2025 11:09:59 GMT | The Bug Bounty Mindset: Thinking Like a Practical Hacker | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a4342f51334b) |
+| Thu, 03 Jul 2025 11:09:29 GMT | Inside the World’s IT Hubs: Where Technology Takes Shape in 2025 | Onkar Shirke | [Read More](https://medium.com/p/5abec895989c) |
 | Thu, 03 Jul 2025 11:07:55 GMT | How to Connect Google Authentication in Minutes: Step-by-Step Guide | aayushii Gupta | [Read More](https://medium.com/p/d875ba69fbf8) |
+| Thu, 03 Jul 2025 11:07:40 GMT | Quantum Computing: Hire Professional Hackers | Eve serra | [Read More](https://medium.com/p/bebabc0aee35) |
+| Thu, 03 Jul 2025 11:07:13 GMT | Google’s Free Cybersecurity Bootcamp Could Be Your Launchpad Into Tech Here’s Everything You Need… | Mahesh Bhalala | [Read More](https://medium.com/p/e357caac39a0) |
 | Thu, 03 Jul 2025 11:07:01 GMT | From “Not Applicable” to Valid Bug: TikTok Live Streams Visible After Being Blocked | Sandipgyawali | [Read More](https://medium.com/p/a961d45deeca) |
+| Thu, 03 Jul 2025 11:04:38 GMT | How Data Protection Supports Privacy and Compliance | CyRAACS | [Read More](https://medium.com/p/b25d6936dead) |
 | Thu, 03 Jul 2025 11:02:57 GMT | Azure Cloud Security Part 2 : Understanding the CIA triad | Siddiquimohammad | [Read More](https://medium.com/p/53305b191829) |
 | Thu, 03 Jul 2025 11:00:28 GMT | Getting Started for Reverse Engineering | Nabeel Jiwani | [Read More](https://medium.com/p/6b6b4f91c095) |
 | Thu, 03 Jul 2025 10:58:57 GMT | Inside Gamaredon’s Playbook: Ukraine Faces a New Wave of Cyber Threats | Hari Rahul | [Read More](https://medium.com/p/3d6a4302e10d) |
@@ -100,16 +113,3 @@ By CyberScope -… | Cyberscope | [Read More](https://medium.com/p/d82d719553ee)
 | Thu, 03 Jul 2025 07:25:27 GMT | Navigating HIPAA in 2025: What U.S. Healthcare Providers Need to Know | Ampcus Cyber | [Read More](https://medium.com/p/0ad6ce7bf302) |
 | Thu, 03 Jul 2025 07:21:07 GMT | Today’s Top Cyber Intelligence Highlights — Jul 03, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a32bc12595b6) |
 | Thu, 03 Jul 2025 07:14:04 GMT | How to Get Curvance (CVE) Rewards: Quick Beginner's Guide | $CVE (Curvance) | [Read More](https://medium.com/p/d6433250abb0) |
-| Thu, 03 Jul 2025 07:13:19 GMT | Why Vulnerability Matters on Stage | Rebecca Williams | [Read More](https://medium.com/p/bf769c4ad545) |
-| Thu, 03 Jul 2025 07:12:29 GMT | picoCTF - DISKO 1 - BeginnersWalkthrough | Hiibahammd | [Read More](https://medium.com/p/f7b7ebbca5b7) |
-| Thu, 03 Jul 2025 07:09:45 GMT | The Human Bottleneck: Why AI Agent Verification Can’t Scale with Human-in-the-Loop | AstraSync AI | [Read More](https://medium.com/p/5f8c1aff8456) |
-| Thu, 03 Jul 2025 07:06:08 GMT | Generative AI in Cybersecurity: Defender and Attacker Roles | Runday.ai | [Read More](https://medium.com/p/617b8be80f70) |
-| Thu, 03 Jul 2025 07:04:24 GMT | How to Get Started with Bug Bounty: Earn Your First $100 | Ravi sharma | [Read More](https://medium.com/p/7aaaff0d0407) |
-| Thu, 03 Jul 2025 06:57:51 GMT | OSINT Exercise #006 | heckor | [Read More](https://medium.com/p/c040d6f6acc8) |
-| Thu, 03 Jul 2025 06:57:31 GMT | The Ethical Hacker’s Journey: Building a Rewarding Cybersecurity Career | Medora Grasser | [Read More](https://medium.com/p/7979c2917c09) |
-| Thu, 03 Jul 2025 06:55:32 GMT | How Ethical Hackers Use AI for Cyber Defense | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/e3876703fb7a) |
-| Thu, 03 Jul 2025 06:54:49 GMT | Deepfake Awareness | NK Cyber | [Read More](https://medium.com/p/5f8a024865b6) |
-| Thu, 03 Jul 2025 06:53:13 GMT | Linux Certification Course for Students After 12th | cyber security Updates | [Read More](https://medium.com/p/c1737e8d0564) |
-| Thu, 03 Jul 2025 06:50:27 GMT | Broken Access Control part-9 : Insecure direct object references | Ahmad Sopyan | [Read More](https://medium.com/p/b5b9a3251058) |
-| Thu, 03 Jul 2025 06:47:30 GMT | Building Safer LLMs: How Proxy-Based Policy Engines Stop Prompt Injection | Feroz Khan | [Read More](https://medium.com/p/f6e66c2fbcba) |
-| Thu, 03 Jul 2025 06:41:09 GMT | What is Information Technology? | David Mark | [Read More](https://medium.com/p/4bd3edddc818) |
