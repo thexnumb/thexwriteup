@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 07:14:04 GMT | How to Get Curvance (CVE) Rewards: Quick Beginner's Guide | $CVE (Curvance) | [Read More](https://medium.com/p/d6433250abb0) |
+| Thu, 03 Jul 2025 07:13:19 GMT | Why Vulnerability Matters on Stage | Rebecca Williams | [Read More](https://medium.com/p/bf769c4ad545) |
+| Thu, 03 Jul 2025 07:12:29 GMT | picoCTF - DISKO 1 - BeginnersWalkthrough | Hiibahammd | [Read More](https://medium.com/p/f7b7ebbca5b7) |
+| Thu, 03 Jul 2025 07:09:45 GMT | The Human Bottleneck: Why AI Agent Verification Can’t Scale with Human-in-the-Loop | AstraSync AI | [Read More](https://medium.com/p/5f8c1aff8456) |
+| Thu, 03 Jul 2025 07:06:08 GMT | Generative AI in Cybersecurity: Defender and Attacker Roles | Runday.ai | [Read More](https://medium.com/p/617b8be80f70) |
+| Thu, 03 Jul 2025 07:04:24 GMT | How to Get Started with Bug Bounty: Earn Your First $100 | Ravi sharma | [Read More](https://medium.com/p/7aaaff0d0407) |
+| Thu, 03 Jul 2025 06:57:51 GMT | OSINT Exercise #006 | heckor | [Read More](https://medium.com/p/c040d6f6acc8) |
+| Thu, 03 Jul 2025 06:57:31 GMT | The Ethical Hacker’s Journey: Building a Rewarding Cybersecurity Career | Medora Grasser | [Read More](https://medium.com/p/7979c2917c09) |
+| Thu, 03 Jul 2025 06:55:32 GMT | How Ethical Hackers Use AI for Cyber Defense | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/e3876703fb7a) |
+| Thu, 03 Jul 2025 06:54:49 GMT | Deepfake Awareness | NK Cyber | [Read More](https://medium.com/p/5f8a024865b6) |
+| Thu, 03 Jul 2025 06:53:13 GMT | Linux Certification Course for Students After 12th | cyber security Updates | [Read More](https://medium.com/p/c1737e8d0564) |
+| Thu, 03 Jul 2025 06:50:27 GMT | Broken Access Control part-9 : Insecure direct object references | Ahmad Sopyan | [Read More](https://medium.com/p/b5b9a3251058) |
+| Thu, 03 Jul 2025 06:47:30 GMT | Building Safer LLMs: How Proxy-Based Policy Engines Stop Prompt Injection | Feroz Khan | [Read More](https://medium.com/p/f6e66c2fbcba) |
+| Thu, 03 Jul 2025 06:41:09 GMT | What is Information Technology? | David Mark | [Read More](https://medium.com/p/4bd3edddc818) |
 | Thu, 03 Jul 2025 06:17:49 GMT | AI-Driven Bug Tracking and Resolution — Inside Metasys Innovations’ QA Process | Metasys Innovations | [Read More](https://medium.com/p/670efb59dfe4) |
 | Thu, 03 Jul 2025 06:11:17 GMT | Top 5 WordPress Security Plugins to Use for Site Safety 2025 | ServerAvatar | [Read More](https://medium.com/p/faf805b10613) |
 | Thu, 03 Jul 2025 06:10:15 GMT | Catwatchful Spyware Breach: When the Watchdog Becomes the Predator | Nanthakumar | [Read More](https://medium.com/p/54bf87d4f651) |
@@ -100,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 22:37:08 GMT | Discovering the Best Cold Crypto Wallet: ELLIPAL’s Innovative Approach | weeksjack | [Read More](https://medium.com/p/f18d89c1f40f) |
 | Wed, 02 Jul 2025 22:16:50 GMT | Secure Your Wi-Fi: Enterprise-Level Wireless Security Configurations | Karthikeyan Nagaraj | [Read More](https://medium.com/p/487058971e89) |
 | Wed, 02 Jul 2025 22:06:59 GMT | Leaked Tokens, Forgotten Bots, and a Billion-Dollar Problem Nobody Talks About | Cyber-AppSec | [Read More](https://medium.com/p/92abbbf8dbc6) |
-| Wed, 02 Jul 2025 22:04:36 GMT | Hello world | Sybil Amarachi Ikechukwu | [Read More](https://medium.com/p/5f024c47d98f) |
-| Wed, 02 Jul 2025 22:04:26 GMT | Being strong shouldn’t hurt this much | Josh in Silence | [Read More](https://medium.com/p/e9a3eb9e82fd) |
-| Wed, 02 Jul 2025 22:03:15 GMT | Zero Hands, Full Control: Inside the Autonomous Security Operations Center (ASOC) | Kelvin Kamugumya | [Read More](https://medium.com/p/dba16f2947dc) |
-| Wed, 02 Jul 2025 21:56:34 GMT | 7 Security Tasks You Should Already Be Automating in 2025 | Kelvin Kamugumya | [Read More](https://medium.com/p/68b847d728e1) |
-| Wed, 02 Jul 2025 21:53:59 GMT | Introduction Article | Tshepho M | [Read More](https://medium.com/p/454d5277877f) |
-| Wed, 02 Jul 2025 21:53:01 GMT | Complex Event Processing Made Easy with Streaming SQL + UDF | Gang Tao | [Read More](https://medium.com/p/698a80d98153) |
-| Wed, 02 Jul 2025 21:45:21 GMT | Security AI Frameworks: Responses To New Incredibly Fast Changes | noailabs | [Read More](https://medium.com/p/ad49d4e00d19) |
-| Wed, 02 Jul 2025 21:45:10 GMT | From Static to Dynamic: Building Flexible KMS Key Policies with Terraform’s Template Magic | Bhavika M. | [Read More](https://medium.com/p/df4584af1882) |
-| Wed, 02 Jul 2025 21:44:25 GMT | The Rise of Security Automation: How AI is Changing the Cyber Game | Kelvin Kamugumya | [Read More](https://medium.com/p/fc5a4489b85e) |
-| Wed, 02 Jul 2025 21:23:47 GMT | AD, Entra, and Azure Walk Into a Bar… A Security Introduction | Omri Refaeli | [Read More](https://medium.com/p/1eabff652d2b) |
-| Wed, 02 Jul 2025 21:13:32 GMT | I don’t need grand things | Christypeace | [Read More](https://medium.com/p/29116af8ed7d) |
-| Wed, 02 Jul 2025 21:11:24 GMT | How Power BI helps to Analyze Business: A Step-by-Step Guide for 2025 | Techridge Solutions | [Read More](https://medium.com/p/544a82d2a1a1) |
-| Wed, 02 Jul 2025 21:08:17 GMT | What is Zero Trust Model in Cloud Infrastructure? A Complete Guide for 2025 | Techridge Solutions | [Read More](https://medium.com/p/6f030af73b5a) |
-| Wed, 02 Jul 2025 21:01:23 GMT | Deep Learning-Based Fingerprint Identification and Verification: A Comparative Study of Custom CNN… | Rusa UB | [Read More](https://medium.com/p/cf1a376cfb28) |
