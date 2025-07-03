@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 20:09:19 GMT | **KuCoin: The People’s Exchange or a Regulatory Tightrope?** | Sergey Golubev (Сергей Голубев) | [Read More](https://medium.com/p/8c6fd25b1cc1) |
+| Thu, 03 Jul 2025 20:07:56 GMT | 7 Key Differences Between Traditional and Cloud-Based Disaster Recovery | Techridge Solutions | [Read More](https://medium.com/p/b7250fba722f) |
+| Thu, 03 Jul 2025 20:02:46 GMT | Bypassing Purchase Verification to Access Game Download Page via Fuzzing | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/99d83d6052cc) |
+| Thu, 03 Jul 2025 20:01:15 GMT | ISO 22301:2019 est un focus sur la continuité d’affaires | Patrick Boucher | [Read More](https://medium.com/p/fdef8fa72abd) |
+| Thu, 03 Jul 2025 20:01:11 GMT | HTB Agile Writeup | Mauricio Pallares | [Read More](https://medium.com/p/123e01b1ccf4) |
+| Thu, 03 Jul 2025 19:56:37 GMT | Cariddi : Ultimate Bug Bounty Recon | AbhirupKonwar | [Read More](https://medium.com/p/354f44f8bc9d) |
+| Thu, 03 Jul 2025 19:50:37 GMT | When Permissions Go Wrong: 2025 Mid‑Year Postmortem on Access Control & Delegatecall Exploits in… | Mohammad Khezer | [Read More](https://medium.com/p/662c011af71b) |
+| Thu, 03 Jul 2025 19:48:23 GMT | Cybersecurity: An Absolute Beginner’s Guide | Rushabh Shah | [Read More](https://medium.com/p/02cdf1f7612e) |
+| Thu, 03 Jul 2025 19:47:04 GMT | Bolt — TryHackMe Walkthrough | esistdini | [Read More](https://medium.com/p/b690351dece9) |
+| Thu, 03 Jul 2025 19:46:48 GMT | İHA Sürülerini Siber Saldırılardan Nasıl Koruyoruz? | Doğukan Akbaş | [Read More](https://medium.com/p/579373761da2) |
+| Thu, 03 Jul 2025 19:38:13 GMT | Inside the Shadows: PRC-Linked APT Targeting Canada’s Telecom Infrastructure | Abhinav pandey | [Read More](https://medium.com/p/da87aa770bd8) |
+| Thu, 03 Jul 2025 19:35:12 GMT | Unlocking New Levels: A Personal Leadership Growth Reflection for Trailblazers | Kimberly Cordova | [Read More](https://medium.com/p/8dc7fba56a46) |
 | Thu, 03 Jul 2025 19:25:37 GMT | Custom AnyDesk Abuse: A Stealthy Way Adversaries Take Over Your System | Divya Trivedi | [Read More](https://medium.com/p/14a2b675d398) |
 | Thu, 03 Jul 2025 19:21:35 GMT | Membuat Aplikasi Save File (Input Buku) dengan SQLite pada Android Studio | Syahresaa | [Read More](https://medium.com/p/08644c578bf2) |
 | Thu, 03 Jul 2025 19:12:15 GMT | IoT PENTESTİNG/Bölüm 2. | ömer Kaan kurt | [Read More](https://medium.com/p/09918b79f381) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 13:32:35 GMT | Cracking MongoDB Logins with NoSQL Injection: A Practical Demonstration | Sandesh Poudel | [Read More](https://medium.com/p/df09c760d8b9) |
 | Thu, 03 Jul 2025 13:25:36 GMT | Secura Security: Your Trusted Partner for Security, PSO, Bouncer & Housekeeping Services in Delhi… | securasecurty | [Read More](https://medium.com/p/a44fdfe64f59) |
 | Thu, 03 Jul 2025 13:18:20 GMT | “I Ate Like a Centenarian for 30 Days — Here’s What Changed” | S Anuradha | [Read More](https://medium.com/p/e8d0062b4d49) |
-| Thu, 03 Jul 2025 13:17:25 GMT | 5 Data Science Tricks No One Teaches You in Courses — But Are Game-Changers at Work" | S Anuradha | [Read More](https://medium.com/p/7c69c9390ddc) |
-| Thu, 03 Jul 2025 13:04:12 GMT | Gen AI infancy implementation | Zarin Hamid | [Read More](https://medium.com/p/a66c3c295dbc) |
-| Thu, 03 Jul 2025 13:01:19 GMT | How I Found 100+ Subdomains in Just 1 Hour (A Bug Bounty Hunter’s Secret) | Ibtissam hammadi | [Read More](https://medium.com/p/e81952d948f9) |
-| Thu, 03 Jul 2025 13:00:20 GMT | Risk Management | Igor Berner | [Read More](https://medium.com/p/6ebd36c05a98) |
-| Thu, 03 Jul 2025 13:00:09 GMT | Want More Privacy on Windows 11? Here Are 6 Features I Always Disable | Mohamad MERHI | [Read More](https://medium.com/p/844a60e04ddd) |
-| Thu, 03 Jul 2025 12:59:33 GMT | Would Lady Whistledown have made a good Threat Intelligence Analyst? | Zarin Hamid | [Read More](https://medium.com/p/0f0ceaea00c7) |
-| Thu, 03 Jul 2025 12:56:41 GMT | HackTheBox CBBH vs PortSwigger Web Security Academy: Full Breakdown | Motasem Hamdan | [Read More](https://medium.com/p/bfcaefa6d063) |
-| Thu, 03 Jul 2025 12:52:59 GMT | Zama’s Fully Homomorphic Encryption: Redefining Privacy in Crypto | Nemerem igweze | [Read More](https://medium.com/p/ef4f71d45d5e) |
-| Thu, 03 Jul 2025 12:47:43 GMT | Okay…Not Okay | Potato | [Read More](https://medium.com/p/72350f587e55) |
-| Thu, 03 Jul 2025 12:42:13 GMT | PayPro Joins Hands with Apprise Cyber to Make Digital Payments Even Safer | Muhammad Inam Abbasi | [Read More](https://medium.com/p/9ab48841a55c) |
-| Thu, 03 Jul 2025 12:36:56 GMT | API Penetration Testing: Finding and Exploiting BOLA Flaws | Ahmadfaizabdillah | [Read More](https://medium.com/p/3eb1cb49f1d3) |
-| Thu, 03 Jul 2025 12:36:30 GMT | Google Dorks to Power Up Your LLM & VLLM Research | Eduardo J. Barrios | [Read More](https://medium.com/p/70489040fb76) |
