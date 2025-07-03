@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 08:44:48 GMT | Naoris Protocol TGE Update — What You Need to Know | Naoris Protocol | [Read More](https://medium.com/p/546bc5193334) |
+| Thu, 03 Jul 2025 08:39:26 GMT | Cyber Kill Chain | Nisa | [Read More](https://medium.com/p/c77d1c03dc49) |
+| Thu, 03 Jul 2025 08:38:54 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/479b4c47f293) |
+| Thu, 03 Jul 2025 08:34:35 GMT | How important is attack surface & risk management? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/54fcd7dca6ff) |
+| Thu, 03 Jul 2025 08:31:38 GMT | Man-in-the-Middle (MITM) Attacks Explained: The Hacker Between You and the Web | err0rgod | [Read More](https://medium.com/p/9d06fdb977a0) |
+| Thu, 03 Jul 2025 08:29:51 GMT | Malware vs. Ransomware: Key Differences Explained | Elevate | [Read More](https://medium.com/p/75d126ffd6d0) |
+| Thu, 03 Jul 2025 08:26:10 GMT | Why Microsoft 365 Is a Hacker’s Goldmine — and How to Protect Yours | Vanshika Arun | [Read More](https://medium.com/p/343010f3bd5e) |
+| Thu, 03 Jul 2025 08:25:53 GMT | Crypto, Compliance & Criminals: What Lawmakers Must Get Right | NekaVC | [Read More](https://medium.com/p/7e46151f85cf) |
+| Thu, 03 Jul 2025 08:22:46 GMT | EchoLeak: CVE-2025–32711 — Yapay Zekâ Güvenliğinde Bir Dönüm Noktası | Lizi Natroshvili | [Read More](https://medium.com/p/5a6b2d2b8258) |
+| Thu, 03 Jul 2025 08:21:16 GMT | What is OSINT? | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2ce5dccf503b) |
 | Thu, 03 Jul 2025 08:17:56 GMT | FREE Penetration Testing Lab Setup: Complete Infrastructure Guide 2025 | Andrei Ivan | [Read More](https://medium.com/p/d2315074d846) |
 | Thu, 03 Jul 2025 08:09:56 GMT | SSTI1 - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/c10c6bace2cb) |
 | Thu, 03 Jul 2025 08:09:40 GMT | Gemini CLI : Ultimate AI Agent | AbhirupKonwar | [Read More](https://medium.com/p/8f565ddad2d2) |
@@ -103,13 +113,3 @@ By CyberScope -… | Cyberscope | [Read More](https://medium.com/p/d82d719553ee)
 | Thu, 03 Jul 2025 02:48:27 GMT | Auth with NextJs | Angad | [Read More](https://medium.com/p/1da98b0d46b1) |
 | Thu, 03 Jul 2025 02:45:05 GMT | Want to Be a Hacker (The Good Kind)? Your Bug Bounty Adventure Map Starts Now! | 0m3g4___ | [Read More](https://medium.com/p/32fab9fb3ff4) |
 | Thu, 03 Jul 2025 02:43:27 GMT | Simple CTF : THM | Proxyminerin | [Read More](https://medium.com/p/590297f4bc7f) |
-| Thu, 03 Jul 2025 02:40:03 GMT | CVE-2025–20281: Hacking Cisco ISE with No Password, No Permission, and All the Power | Grupo Oruss | [Read More](https://medium.com/p/b99286e2f802) |
-| Thu, 03 Jul 2025 02:37:27 GMT | Writeup PicoCTF - Cookie Monster Secret Recipe - Web Exploitation | Malbaralamsyah | [Read More](https://medium.com/p/705c9f5ba5f8) |
-| Thu, 03 Jul 2025 02:36:07 GMT | CVE-2025–45065: SQL Injection in Employee Record Management System | Shruti kapoor | [Read More](https://medium.com/p/b58a33e65860) |
-| Thu, 03 Jul 2025 02:21:20 GMT | WiFi Pentesting in Real Environments — Part 1: Recon & Enumeration | Sachin kewat | [Read More](https://medium.com/p/954843031d1d) |
-| Thu, 03 Jul 2025 02:03:30 GMT | Bridges, Not Walls: The Risk and Reward of Emotional Honesty | No Sorensen | [Read More](https://medium.com/p/69881186438d) |
-| Thu, 03 Jul 2025 01:42:29 GMT | Meet nullc0d3: 20-Year Cybersecurity Veteran, Author, and Threat Intelligence Strategist | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/b57fc9b9cf79) |
-| Thu, 03 Jul 2025 01:33:46 GMT | How to Find Domains Owned by a Company | J4xx3n | [Read More](https://medium.com/p/3ae0e5cb2ced) |
-| Thu, 03 Jul 2025 01:28:13 GMT | Cybersecurity dan Penetration Testing | Maan | [Read More](https://medium.com/p/e50d8afa61bc) |
-| Thu, 03 Jul 2025 01:15:34 GMT | Bluenoroff, North Korean Hacking Group, Targets Victims Through Zoom Attack | Criminal IP | [Read More](https://medium.com/p/da19cd33dc37) |
-| Thu, 03 Jul 2025 01:00:42 GMT | Explaining Cybersecurity’s Best Practices for Remote Teams | Ahmer | [Read More](https://medium.com/p/57f7123fb05c) |
