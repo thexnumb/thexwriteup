@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 22:32:51 GMT | GAMEZONE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/1becda262382) |
+| Thu, 03 Jul 2025 22:30:17 GMT | 600K Sites at Risk: The Hidden WordPress Flaw That Could Destroy Your Business | Cyber-AppSec | [Read More](https://medium.com/p/079a9a58861e) |
+| Thu, 03 Jul 2025 22:17:05 GMT | SOCFortress Integrations — Vulnerability Assessment for network devices (I) — FortiGate Firewalls | SOCFortress | [Read More](https://medium.com/p/5e19a7ccf511) |
+| Thu, 03 Jul 2025 22:16:57 GMT | Automated OSINT Frameworks: Mapping Your Target Without Touching It | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a1417e547271) |
 | Thu, 03 Jul 2025 22:16:47 GMT | Backtrack Walkthrough | Anubhav Bali | [Read More](https://medium.com/p/9cb9f2581a91) |
 | Thu, 03 Jul 2025 22:12:51 GMT | Pro-Russian Hacktivist Groups Drive Sophisticated Attacks Against Critical Infrastructure | RealSec.io | [Read More](https://medium.com/p/9b7e7b80d5ef) |
 | Thu, 03 Jul 2025 22:06:41 GMT | Snort Challenge— Live Attacks | Isiah | [Read More](https://medium.com/p/d523754c9141) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 15:13:34 GMT | Cyber Hygiene In The Age Of AI | Makinde Muyiwa Debowale Fatolu | [Read More](https://medium.com/p/8fe1e8d6209f) |
 | Thu, 03 Jul 2025 15:06:26 GMT | Building the Future of Cyber in Singapore | Tal Eliyahu | [Read More](https://medium.com/p/65b08f888184) |
 | Thu, 03 Jul 2025 15:02:58 GMT | A 12 Part Series of Technical Write-up on Architectural Considerations for Securing Cloud-SaaS… | Dhyan Sagar | [Read More](https://medium.com/p/d3185da55fc3) |
-| Thu, 03 Jul 2025 14:56:09 GMT | Broken Access Control part-10 : URL-based access control can be circumvented | Ahmad Sopyan | [Read More](https://medium.com/p/ad215e900363) |
-| Thu, 03 Jul 2025 14:52:54 GMT | From LFI to RCE via php://input — The Complete Beginner-Friendly Guide | Zoningxtr | [Read More](https://medium.com/p/e38e79924521) |
-| Thu, 03 Jul 2025 14:52:50 GMT | Unveiling GeoIP Support in Wazuh: It’s Already There — But Are You Using It Right? | Yash Patel | [Read More](https://medium.com/p/03905bce791a) |
-| Thu, 03 Jul 2025 14:52:37 GMT | Agent Sudo — Tryhackme (Writeup) | CyberLabyrinthX | [Read More](https://medium.com/p/44651c75e999) |
