@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 08:17:56 GMT | FREE Penetration Testing Lab Setup: Complete Infrastructure Guide 2025 | Andrei Ivan | [Read More](https://medium.com/p/d2315074d846) |
+| Thu, 03 Jul 2025 08:09:56 GMT | SSTI1 - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/c10c6bace2cb) |
+| Thu, 03 Jul 2025 08:09:40 GMT | Gemini CLI : Ultimate AI Agent | AbhirupKonwar | [Read More](https://medium.com/p/8f565ddad2d2) |
+| Thu, 03 Jul 2025 08:06:31 GMT | Cybersecurity in Battery Management Systems (BMS) | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/e75825d3936e) |
+| Thu, 03 Jul 2025 08:05:35 GMT | Unlock the Power of Bugs Bunny $BUGS Rewards | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/1028e0173749) |
+| Thu, 03 Jul 2025 08:00:55 GMT | Access Control (Erişim Kontrolü) Portswigger Lab Çözümleri - Bölüm 2 | ENES KURTULAN | [Read More](https://medium.com/p/104feab9dc82) |
+| Thu, 03 Jul 2025 07:57:58 GMT | SAP Security in a Windows Environment: A Critical Cybersecurity Priority | Baikan Ramchander | [Read More](https://medium.com/p/793c01eb6be0) |
+| Thu, 03 Jul 2025 07:56:31 GMT | Understanding PGP Keys: A Beginner’s Guide to Secure Communication | Hzia | [Read More](https://medium.com/p/ed574b92f05a) |
+| Thu, 03 Jul 2025 07:53:53 GMT | Day 40: Pentest Reports | Nile Okomo | [Read More](https://medium.com/p/a56362ee790a) |
+| Thu, 03 Jul 2025 07:50:13 GMT | Exploring the Growth Trajectory of the GPU Database Market | Shunham Choudhry | [Read More](https://medium.com/p/5e9181aa841f) |
+| Thu, 03 Jul 2025 07:47:50 GMT | From Scripts to Shields: How Python Became My Favorite Cybersecurity Superpower 
+By CyberScope -… | Cyberscope | [Read More](https://medium.com/p/d82d719553ee) |
+| Thu, 03 Jul 2025 07:46:29 GMT | Do’s and Don’ts When Hiring Event Security Services | Jane Tang | [Read More](https://medium.com/p/31b88db7f4eb) |
+| Thu, 03 Jul 2025 07:41:30 GMT | Dishing It Deep: Part 1:Emotional Vulnerability | Apoorva Sahay | [Read More](https://medium.com/p/589d7389367c) |
+| Thu, 03 Jul 2025 07:38:00 GMT | Not-So-Private Parts: How Public Buckets Spilled Internal Dashboards | Iski | [Read More](https://medium.com/p/c3dd03df9951) |
+| Thu, 03 Jul 2025 07:36:52 GMT | AI And Cybersecurity: A Powerful Duo Against Modern Threats | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/963e8d815682) |
+| Thu, 03 Jul 2025 07:34:55 GMT | How to Avoid False Positives in SafeLine WAF with Custom Rules | AerieWhole123 | [Read More](https://medium.com/p/71607450e3e8) |
 | Thu, 03 Jul 2025 07:28:49 GMT | Understanding the Zero Trust Framework: A New Era of Cybersecurity | Yathaartha Srivastava | [Read More](https://medium.com/p/55c166872609) |
 | Thu, 03 Jul 2025 07:28:26 GMT | The Key to Earning Consistent Rewards with LunaFi $LFI | $LFI (LunaFi) | [Read More](https://medium.com/p/b62dbd04dfdc) |
 | Thu, 03 Jul 2025 07:25:27 GMT | Navigating HIPAA in 2025: What U.S. Healthcare Providers Need to Know | Ampcus Cyber | [Read More](https://medium.com/p/0ad6ce7bf302) |
@@ -96,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 01:28:13 GMT | Cybersecurity dan Penetration Testing | Maan | [Read More](https://medium.com/p/e50d8afa61bc) |
 | Thu, 03 Jul 2025 01:15:34 GMT | Bluenoroff, North Korean Hacking Group, Targets Victims Through Zoom Attack | Criminal IP | [Read More](https://medium.com/p/da19cd33dc37) |
 | Thu, 03 Jul 2025 01:00:42 GMT | Explaining Cybersecurity’s Best Practices for Remote Teams | Ahmer | [Read More](https://medium.com/p/57f7123fb05c) |
-| Thu, 03 Jul 2025 00:58:49 GMT | Iniciação a modelagem de ameaças | Juliana Gaioso | [Read More](https://medium.com/p/f9fff72b9b6d) |
-| Thu, 03 Jul 2025 00:35:44 GMT | What Happens on the Dark Web Doesn’t Stay There | Mehran Khan | [Read More](https://medium.com/p/ca77ea043673) |
-| Thu, 03 Jul 2025 00:28:05 GMT | Comparative Study of Industry and Academic Approaches to Volumetric DDoS Defense | Haitao Wang | [Read More](https://medium.com/p/9726a69c3fca) |
-| Thu, 03 Jul 2025 00:26:12 GMT | A country tired of a people seeking to unite | Lielbenkhalifa | [Read More](https://medium.com/p/66a14ffc5ff0) |
-| Thu, 03 Jul 2025 00:12:51 GMT | A Lab to Deploying the Password Manager on AWS | Hammad Zahid | [Read More](https://medium.com/p/c111542d1075) |
-| Thu, 03 Jul 2025 00:09:30 GMT | Vulnerabilidades Críticas na Plataforma Firebase | Andrey Escarião | [Read More](https://medium.com/p/68b5939ebedd) |
-| Wed, 02 Jul 2025 23:53:58 GMT | Carotid Artery | Peter A | [Read More](https://medium.com/p/edee2fd2564d) |
-| Wed, 02 Jul 2025 23:53:44 GMT | Sometimes There Is Strength In Weakness | K.M. Eyre | [Read More](https://medium.com/p/0f14afdb1fc1) |
-| Wed, 02 Jul 2025 23:52:51 GMT | Direction Lost: The Invisible Machinery of Corruption | Osei Harper | [Read More](https://medium.com/p/81a98654c31f) |
-| Wed, 02 Jul 2025 23:49:30 GMT | The Safety That Never Came | Nakko | [Read More](https://medium.com/p/369e7e215445) |
-| Wed, 02 Jul 2025 23:48:07 GMT | IoT PENTESTİNG/BÖLÜM 1 | ömer Kaan kurt | [Read More](https://medium.com/p/12f09705daa9) |
-| Wed, 02 Jul 2025 23:33:00 GMT | FortiGuard IPS Service By Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4dde9543daf0) |
-| Wed, 02 Jul 2025 23:29:53 GMT | ✅ Email infrastructure (AWS SES/SMTP)
-✅ Deliverability optimization & sender reputation
-✅ Bulk… | ProFlowSupport | [Read More](https://medium.com/p/3b2cabcc074a) |
-| Wed, 02 Jul 2025 23:08:21 GMT | HTB Academy — Broken Authentication (skill assessment) | BotsiCat | [Read More](https://medium.com/p/01b6ac45ee2c) |
-| Wed, 02 Jul 2025 22:51:00 GMT | How I Used the js.map File to Gain Admin Access | CypherNova1337 | [Read More](https://medium.com/p/e30e6f00adb7) |
-| Wed, 02 Jul 2025 22:48:12 GMT | Yuzu Keys: Your Gateway to Nintendo Switch Gaming on PC | Akshay Chauhan | [Read More](https://medium.com/p/46fa46bc9091) |
