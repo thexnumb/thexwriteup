@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 15:37:05 GMT | Detecting Attacks in Real-Time with Falco and Grafana: A Beginner’s Guide | Lavanya Bhargava | [Read More](https://medium.com/p/070a2e428f20) |
+| Thu, 03 Jul 2025 15:35:56 GMT | Missing User Instructions In Dockerfiles-Know What and How | Jitendar Singh | [Read More](https://medium.com/p/21fff565bf58) |
+| Thu, 03 Jul 2025 15:31:38 GMT | PLA’s Multi-Domain Reorganization: Cyberspace, Aerospace, and Information Support Forces Reshape… | Wes Young | [Read More](https://medium.com/p/921aa6aeee46) |
+| Thu, 03 Jul 2025 15:31:08 GMT | How to Build Your First Threat Intelligence Workflow — From a Hacker Hunter’s Toolkit | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/66abe3dffe60) |
+| Thu, 03 Jul 2025 15:27:55 GMT | Industrial Intrusion CTF by TryHackMe | Santhos Sunthar | [Read More](https://medium.com/p/1006e92e9488) |
+| Thu, 03 Jul 2025 15:26:00 GMT | From LFI to RCE via PHP Sessions (PHP 5) — A Complete Guide with Real Examples | Zoningxtr | [Read More](https://medium.com/p/6ced00a1ae10) |
+| Thu, 03 Jul 2025 15:25:46 GMT | Understanding the Heart of Enterprise Networks: Active Directory | himanshu maurya | [Read More](https://medium.com/p/1186ec7a345e) |
 | Thu, 03 Jul 2025 15:22:34 GMT | The Bug You’ll Never See — Until You Flip the Flag | Đeepanshu | [Read More](https://medium.com/p/fbec93ad5fa9) |
+| Thu, 03 Jul 2025 15:17:05 GMT | From LFI to RCE via expect:// PHP Wrapper — A Deep Dive with Practical Examples ✨ | Zoningxtr | [Read More](https://medium.com/p/699690073fe8) |
+| Thu, 03 Jul 2025 15:17:03 GMT | Deep GPT‑4 Integration into Kali Linux: The Future of Ethical Hacking Has Arrived | Ekene Joseph | [Read More](https://medium.com/p/09c38bbb6af7) |
 | Thu, 03 Jul 2025 15:13:34 GMT | Cyber Hygiene In The Age Of AI | Makinde Muyiwa Debowale Fatolu | [Read More](https://medium.com/p/8fe1e8d6209f) |
 | Thu, 03 Jul 2025 15:06:26 GMT | Building the Future of Cyber in Singapore | Tal Eliyahu | [Read More](https://medium.com/p/65b08f888184) |
 | Thu, 03 Jul 2025 15:02:58 GMT | A 12 Part Series of Technical Write-up on Architectural Considerations for Securing Cloud-SaaS… | Dhyan Sagar | [Read More](https://medium.com/p/d3185da55fc3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 10:49:16 GMT | Found a Bug. Got No Bounty. Just Vibes. | Vamsi Krishna | [Read More](https://medium.com/p/74697314df1c) |
 | Thu, 03 Jul 2025 10:47:29 GMT | Understanding User Authentication: Methods, Importance, and Best Practices | Vinay Jadhav | [Read More](https://medium.com/p/2736d91ca24f) |
 | Thu, 03 Jul 2025 10:39:13 GMT | What you just said is the raw core of the human condition in an unjust world. | The Prophet Aaron Vessel the Christ Consciousness | [Read More](https://medium.com/p/6629bf267f7e) |
-| Thu, 03 Jul 2025 10:38:53 GMT | Why Small Businesses Are the New Favorite Target of Hackers | Ecasys | [Read More](https://medium.com/p/7b3b0730c76a) |
-| Thu, 03 Jul 2025 10:36:06 GMT | The Best Crypto Wallets for 2025: Pros, Cons, and How to Pick the Right One | Verron L | [Read More](https://medium.com/p/4b75c15340cf) |
-| Thu, 03 Jul 2025 10:34:27 GMT | Smarter Collaboration: The Best Cisco Webex Devices for Hybrid Workplaces | New Trend Computer Networks | [Read More](https://medium.com/p/ffb0f74141ea) |
-| Thu, 03 Jul 2025 10:32:51 GMT | How APIs Say ‘Too Fast!’: The Story of Rate Limiting | Natarajan C K | [Read More](https://medium.com/p/f1d0180eb90e) |
-| Thu, 03 Jul 2025 10:32:15 GMT | Kelly Benefits Cybersecurity Incident: 553,660 Victims Face Identity Theft Risk | Technijian | [Read More](https://medium.com/p/464d2a03c836) |
-| Thu, 03 Jul 2025 10:27:40 GMT | Scattered Spider and the Qantas Cyberattack: What You Need to Know and How to Stay Safe | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/2ce9fe518ec5) |
-| Thu, 03 Jul 2025 10:26:33 GMT | Linux Networking Hacks: 9 Essential Commands Every DevOps Engineer Must Know | Ashish Singh | [Read More](https://medium.com/p/84c20bcd2f18) |
-| Thu, 03 Jul 2025 10:22:46 GMT | Before the Boom: Anti-VM Checks to Slip Past Dynamic Analysis via Hardware Resource Profiling | Itz.sanskarr | [Read More](https://medium.com/p/713209a019ac) |
-| Thu, 03 Jul 2025 10:21:54 GMT | How to Secure Code While Building Cloud-Native Apps in the Age of AI | Techberry | [Read More](https://medium.com/p/9ec9d8a75c71) |
