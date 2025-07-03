@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 19:12:15 GMT | IoT PENTESTİNG/Bölüm 2. | ömer Kaan kurt | [Read More](https://medium.com/p/09918b79f381) |
+| Thu, 03 Jul 2025 19:05:50 GMT | Best Wireless Outdoor Security Camera | Phil Ryan | [Read More](https://medium.com/p/13d0bc02e90c) |
+| Thu, 03 Jul 2025 18:55:55 GMT | How I Freed 100GB of Disk Space by Cleaning VirtualBox Snapshots | mauzware | [Read More](https://medium.com/p/8a6fff1b8574) |
+| Thu, 03 Jul 2025 18:55:27 GMT | Automated Kubernetes Threat Detection with Tetragon and Azure Sentinel | Saraswathi Lakshman | [Read More](https://medium.com/p/28c32ee152bc) |
+| Thu, 03 Jul 2025 18:53:11 GMT | Siber Güvenliğe Giriş: Dijital Dünyaya Adım | BitKule | [Read More](https://medium.com/p/40aa29aaff1a) |
+| Thu, 03 Jul 2025 18:51:21 GMT | AI vs Business: Defending Against AI Cyberattacks | IT_Engineer | [Read More](https://medium.com/p/e64baadab0c3) |
+| Thu, 03 Jul 2025 18:39:18 GMT | How I Bypassed a WAF - Why Documentation matters - RGHX | Raman Gautam - rghx | [Read More](https://medium.com/p/62dc301e39f1) |
+| Thu, 03 Jul 2025 18:35:50 GMT | The Bravery in Breaking Your Own Calm | Hadiashahbaz | [Read More](https://medium.com/p/d61031bd18a9) |
+| Thu, 03 Jul 2025 18:28:21 GMT | WannaCry Ransomware: The Cyber Attack That Froze the World | Akshay Chauhan | [Read More](https://medium.com/p/d8fafa7e8a4d) |
+| Thu, 03 Jul 2025 18:26:48 GMT | How Recon Solana is Changing the Crypto Landscape | $RECON (Recon Solana) | [Read More](https://medium.com/p/58fe57410077) |
 | Thu, 03 Jul 2025 18:12:41 GMT | Review: Offensive X 2025 Conference-Talks, Hacking Challenges, and Cybersecurity Community in… | Ilias Mavropoulos | [Read More](https://medium.com/p/e7aec6dd42c5) |
 | Thu, 03 Jul 2025 18:05:47 GMT | Sophisticated Chinese Threat Actor Targets French Government and Critical Sectors via Ivanti CSA… | RealSec.io | [Read More](https://medium.com/p/9e5dd74cda0a) |
 | Thu, 03 Jul 2025 18:05:02 GMT | xss0r V5 Is Finally HERE !!! | xss0r | [Read More](https://medium.com/p/6c71904a21b9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 12:36:30 GMT | Google Dorks to Power Up Your LLM & VLLM Research | Eduardo J. Barrios | [Read More](https://medium.com/p/70489040fb76) |
 | Thu, 03 Jul 2025 12:35:40 GMT | 5 Websites That Feel Illegal to Know – But Are Totally Free | Zeeshan Shafi | [Read More](https://medium.com/p/37e59a146d99) |
 | Thu, 03 Jul 2025 12:27:01 GMT | Exploring eBPF for Enhanced Performance and Security | Supratip Banerjee | [Read More](https://medium.com/p/937a88e4ab95) |
-| Thu, 03 Jul 2025 12:26:10 GMT | From Zero to C2: Sliver Setup on Kali Linux for Local Pentest Labs | Kr4k3nstein | [Read More](https://medium.com/p/8917ec390122) |
-| Thu, 03 Jul 2025 12:21:07 GMT | The psychology behind succeeding of cybercrime is our greed. | Martin Abramov | [Read More](https://medium.com/p/0c72130d1aff) |
-| Thu, 03 Jul 2025 12:20:02 GMT | The Matrix of Sudo: CVE-2025–32462 and the Red Pill of Root Access | Mr. Cyber | [Read More](https://medium.com/p/ebc5c53bac85) |
-| Thu, 03 Jul 2025 12:09:37 GMT | CyberDefenders Endpoint Forensics -TeamSpy Lab | Girithar Ram Ravindran | [Read More](https://medium.com/p/5f587b93121f) |
-| Thu, 03 Jul 2025 12:08:14 GMT | Current Email Security Protocols. | Samuel Jack | [Read More](https://medium.com/p/6568024b422c) |
-| Thu, 03 Jul 2025 12:00:20 GMT | Solution breakdown: Web shell upload via extension blacklist bypass. | Rabia Riaz | [Read More](https://medium.com/p/dedc51243379) |
-| Thu, 03 Jul 2025 11:59:05 GMT | NEURODREAM: Weak Signal | Alex Brox | [Read More](https://medium.com/p/b86cff605a68) |
-| Thu, 03 Jul 2025 11:54:14 GMT | The Port 3306 Cheatsheet: MySQL Workflow ,Misconfig, Dump, Exploit | Very Lazy Tech | [Read More](https://medium.com/p/7eccb333c944) |
-| Thu, 03 Jul 2025 11:53:53 GMT | 5 Python Tricks That Will Hack Your Daily Life (and Save Your Sanity!) | Aman Sharma | [Read More](https://medium.com/p/bfe3d8444c57) |
-| Thu, 03 Jul 2025 11:51:02 GMT | Writeup PicoCTF - WebDecode - Web Expolitation | Malbaralamsyah | [Read More](https://medium.com/p/6de79712e7e0) |
