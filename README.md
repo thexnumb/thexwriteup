@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 14:42:38 GMT | Post-Quantum Cryptography (PQC) Readiness: What Security Teams Need to Know | Ekene Joseph | [Read More](https://medium.com/p/09d120249a32) |
+| Thu, 03 Jul 2025 14:37:11 GMT | “includes” Challenge Walkthrough — Pentest Garage | Meenakshykroshan | [Read More](https://medium.com/p/2b62e5073f96) |
+| Thu, 03 Jul 2025 14:27:55 GMT | CVE-2024–29973: Unauthorized Command Injection in Zyxel NAS Devices | イズミー | [Read More](https://medium.com/p/385ad5b92534) |
 | Thu, 03 Jul 2025 14:20:39 GMT | API06:2023 — Unrestricted Access to Sensitive Business Flows | Suhel Kathi | [Read More](https://medium.com/p/2b74259db112) |
 | Thu, 03 Jul 2025 14:14:19 GMT | Desecure Technology ile Güvenlik Kamerası Sistemleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/182bd675a5c8) |
 | Thu, 03 Jul 2025 14:04:16 GMT | Delete WhatsApp Already — You’re Not a Lab Rat, Are You? | Matyas Koszegi | [Read More](https://medium.com/p/764b76c38427) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 09:59:00 GMT | Diploma In Information security course in delhi | Manisha Chaudhary | [Read More](https://medium.com/p/f76335df67a7) |
 | Thu, 03 Jul 2025 09:56:20 GMT | I am too small to be hacked (Myth) | Proten Technologies | [Read More](https://medium.com/p/e362ba6061b1) |
 | Thu, 03 Jul 2025 09:53:38 GMT | Cyber Security Act Malaysia: What Businesses Need To Know | Sattrix | [Read More](https://medium.com/p/2558ad0f51df) |
-| Thu, 03 Jul 2025 09:52:55 GMT | Tor over VPN vs. VPN over Tor — Which Actually Protects You Better? | DAVID KARIUKI "1stb0n" | [Read More](https://medium.com/p/a84896fe6fa9) |
-| Thu, 03 Jul 2025 09:47:01 GMT | Earn Big with ChainBounty $BOUNTY Rewards This Year | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/a00c324000ee) |
-| Thu, 03 Jul 2025 09:42:54 GMT | Exploring Open Policy Agent (OPA) and Gatekeeper in Kubernetes: Mutating and Validating Admission… | Animesh Srivastava | [Read More](https://medium.com/p/f2d969bb8d45) |
