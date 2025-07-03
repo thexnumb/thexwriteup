@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 20:35:13 GMT | How to Survive the AI Tsunami | devsecops | [Read More](https://medium.com/p/a5d33e0674ef) |
+| Thu, 03 Jul 2025 20:26:59 GMT | Log4j: The Silent Killer | Oludare Stephen Ayobami | [Read More](https://medium.com/p/89a06eeed9cf) |
+| Thu, 03 Jul 2025 20:18:09 GMT | Emprisa Maldoc Lab Writeup — [Cyberdefenders.org] | Riad Moudjahed | [Read More](https://medium.com/p/6bf2b3b79762) |
 | Thu, 03 Jul 2025 20:09:19 GMT | **KuCoin: The People’s Exchange or a Regulatory Tightrope?** | Sergey Golubev (Сергей Голубев) | [Read More](https://medium.com/p/8c6fd25b1cc1) |
 | Thu, 03 Jul 2025 20:07:56 GMT | 7 Key Differences Between Traditional and Cloud-Based Disaster Recovery | Techridge Solutions | [Read More](https://medium.com/p/b7250fba722f) |
 | Thu, 03 Jul 2025 20:02:46 GMT | Bypassing Purchase Verification to Access Game Download Page via Fuzzing | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/99d83d6052cc) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 13:43:48 GMT | Parents, Your Kids Need Your Cyber Help | Savvy Cyber Kids | [Read More](https://medium.com/p/d31793d394d2) |
 | Thu, 03 Jul 2025 13:40:04 GMT | ️ Day 3 of 10 Days of MCP Security: Threat Modeling MCP Systems | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/7b41f63ec37b) |
 | Thu, 03 Jul 2025 13:35:17 GMT | Mastering AWK: A Practical Guide to One of Unix’s Most Powerful Text Tools | Owl coder | [Read More](https://medium.com/p/b19378b22050) |
-| Thu, 03 Jul 2025 13:32:35 GMT | Cracking MongoDB Logins with NoSQL Injection: A Practical Demonstration | Sandesh Poudel | [Read More](https://medium.com/p/df09c760d8b9) |
-| Thu, 03 Jul 2025 13:25:36 GMT | Secura Security: Your Trusted Partner for Security, PSO, Bouncer & Housekeeping Services in Delhi… | securasecurty | [Read More](https://medium.com/p/a44fdfe64f59) |
-| Thu, 03 Jul 2025 13:18:20 GMT | “I Ate Like a Centenarian for 30 Days — Here’s What Changed” | S Anuradha | [Read More](https://medium.com/p/e8d0062b4d49) |
