@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 05:36:14 GMT | Why You Should Never Leave Your Router Open | yeabsira yabuman | [Read More](https://medium.com/p/a6d8a7a1c961) |
+| Thu, 03 Jul 2025 05:35:33 GMT | What Is Spyware and How Does It Work? [Elimination & Prevention] | Hamza Hanif | [Read More](https://medium.com/p/8c9014655bbb) |
+| Thu, 03 Jul 2025 05:31:22 GMT | CSRF to ATO: How I Took Over Accounts on Target.com with One POST Request | Shah kaif | [Read More](https://medium.com/p/3ab95112900c) |
+| Thu, 03 Jul 2025 05:26:47 GMT | Fighting Sophisticated Digital Attacks with Gemini-Powered Security Tools | Abhishek Kumar | [Read More](https://medium.com/p/1c41ec445868) |
+| Thu, 03 Jul 2025 05:26:27 GMT | Historic 16 billion-password breach hits Apple, Google, Facebook users | Abdul Ali T P | [Read More](https://medium.com/p/57563240219e) |
+| Thu, 03 Jul 2025 05:23:05 GMT | 1 Week, 2 Apps, 55k Edits: My AI-Powered Development Sprint (part2) | Jptlearn | [Read More](https://medium.com/p/13e932ab1bd4) |
+| Thu, 03 Jul 2025 05:16:04 GMT | Gemini AI Revealed: Google’s New Weapon Against Cyber Threats | Quickway Infosystems | [Read More](https://medium.com/p/755e5c29d053) |
+| Thu, 03 Jul 2025 05:15:24 GMT | Build Your Own Wazuh Log Ingestion API with Node.js | Ashab Tariq | [Read More](https://medium.com/p/7be2bb6a8185) |
 | Thu, 03 Jul 2025 05:12:06 GMT | OWASP Pentest Series (11/12) | TheZeeshanKhan | [Read More](https://medium.com/p/6b3f2e3c07d6) |
 | Thu, 03 Jul 2025 05:08:57 GMT | How to Learn Ethical Hacking Course Free?- The Drop Organization | The Drop Organization | [Read More](https://medium.com/p/f80145827e65) |
 | Thu, 03 Jul 2025 05:05:35 GMT | Cybersecurity Learners: A Word of Caution About Public Exploits | LIJO JKV | [Read More](https://medium.com/p/921cdc032ee2) |
@@ -106,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 02 Jul 2025 19:43:51 GMT | Retro ️ - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/8f66a13d3ae5) |
 | Wed, 02 Jul 2025 19:42:20 GMT | Show Me Where It Hurts, So I Know Where to Love You the Hardest | Dahlia | [Read More](https://medium.com/p/27c90f6a2c8d) |
 | Wed, 02 Jul 2025 19:37:01 GMT | Silence Doesn’t Mean Okay… | Potato | [Read More](https://medium.com/p/2705a2e9ebda) |
-| Wed, 02 Jul 2025 19:24:10 GMT | Risk elements and lifecycle | Siddiquimohammad | [Read More](https://medium.com/p/e525324c7bdd) |
-| Wed, 02 Jul 2025 19:16:18 GMT | Bash Scripting Hacks Every Developer Should Know | Ashish Singh | [Read More](https://medium.com/p/af3494a07a77) |
-| Wed, 02 Jul 2025 19:05:23 GMT | Why Cybersecurity Due Diligence is Critical for Business Growth and Revenue | Kineberg Solutions | [Read More](https://medium.com/p/5e76c914af4a) |
-| Wed, 02 Jul 2025 19:03:34 GMT | Phishing: Build It, Launch It, Learn From It (All Legally) | Code With Hannan | [Read More](https://medium.com/p/698362165033) |
-| Wed, 02 Jul 2025 18:58:59 GMT | Building Secure AI Agents as Backends with MCP for Dynamic UIs and CRUD Operations | Kondwani Nyirenda | [Read More](https://medium.com/p/b2defd416928) |
-| Wed, 02 Jul 2025 18:54:34 GMT | take a chance with me | Ae | [Read More](https://medium.com/p/1e316942d5ea) |
-| Wed, 02 Jul 2025 18:53:14 GMT | Signaling Attacks | Maishamanarat | [Read More](https://medium.com/p/fae2b5ff4699) |
-| Wed, 02 Jul 2025 18:51:52 GMT | Behind the Mask: How Fraudulent Retail Sites Are Stealing Shopper Data and Brand Trust | Avnishyam | [Read More](https://medium.com/p/7cea5d21ddd4) |
