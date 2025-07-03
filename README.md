@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 16:19:18 GMT | Qantas / Scatter Spider Call Center Breach — A Wake-Up Call on the Human Element in Cybersecurity | Roselyne | [Read More](https://medium.com/p/34dc884aa093) |
+| Thu, 03 Jul 2025 16:12:57 GMT | Why a Proactive Cybersecurity Strategy Is Crucial for eCommerce Success | RBM Software | [Read More](https://medium.com/p/903365948c5e) |
+| Thu, 03 Jul 2025 16:04:49 GMT | White Label SOC Services: A Game-Changer for MSPs and IT Providers | SafeAeon Inc. | [Read More](https://medium.com/p/9715dd98d9cd) |
+| Thu, 03 Jul 2025 16:02:21 GMT | Why I’m Terrified to Hit Publish (and you might be too) | Tiffany Deidre Miller | [Read More](https://medium.com/p/7f4eafd804f7) |
+| Thu, 03 Jul 2025 16:02:18 GMT | Flipper Zero Episode 3: Getting Started with GPIO and 3-in-1 Board Setup | Fahri | [Read More](https://medium.com/p/8f63aa3c0527) |
+| Thu, 03 Jul 2025 15:58:38 GMT | How Cybersecurity Is Becoming the Backbone of Modern Ecommerce in 2025 | RBM Software | [Read More](https://medium.com/p/f69c8916b806) |
+| Thu, 03 Jul 2025 15:50:35 GMT | Secure Your Family: Best Apps to Monitor Phone Activity | Ameradlr | [Read More](https://medium.com/p/b3f389e92401) |
+| Thu, 03 Jul 2025 15:49:10 GMT | Solve Proxy localhost Traffic through Burp and Zap. | pendukobyte | [Read More](https://medium.com/p/493e4c4730c3) |
 | Thu, 03 Jul 2025 15:37:05 GMT | Detecting Attacks in Real-Time with Falco and Grafana: A Beginner’s Guide | Lavanya Bhargava | [Read More](https://medium.com/p/070a2e428f20) |
 | Thu, 03 Jul 2025 15:35:56 GMT | Missing User Instructions In Dockerfiles-Know What and How | Jitendar Singh | [Read More](https://medium.com/p/21fff565bf58) |
 | Thu, 03 Jul 2025 15:31:38 GMT | PLA’s Multi-Domain Reorganization: Cyberspace, Aerospace, and Information Support Forces Reshape… | Wes Young | [Read More](https://medium.com/p/921aa6aeee46) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 11:07:01 GMT | From “Not Applicable” to Valid Bug: TikTok Live Streams Visible After Being Blocked | Sandipgyawali | [Read More](https://medium.com/p/a961d45deeca) |
 | Thu, 03 Jul 2025 11:04:38 GMT | How Data Protection Supports Privacy and Compliance | CyRAACS | [Read More](https://medium.com/p/b25d6936dead) |
 | Thu, 03 Jul 2025 11:02:57 GMT | Azure Cloud Security Part 2 : Understanding the CIA triad | Siddiquimohammad | [Read More](https://medium.com/p/53305b191829) |
-| Thu, 03 Jul 2025 11:00:28 GMT | Getting Started for Reverse Engineering | Nabeel Jiwani | [Read More](https://medium.com/p/6b6b4f91c095) |
-| Thu, 03 Jul 2025 10:58:57 GMT | Inside Gamaredon’s Playbook: Ukraine Faces a New Wave of Cyber Threats | Hari Rahul | [Read More](https://medium.com/p/3d6a4302e10d) |
-| Thu, 03 Jul 2025 10:57:05 GMT | Phishing Gets Personal: Gamaredon’s Relentless Attacks on Ukraine | Srinivasps | [Read More](https://medium.com/p/3e24e87fce05) |
-| Thu, 03 Jul 2025 10:54:41 GMT | Gamaredon’s 2024 Phishing Blitz: How Ukraine Became the Sole Target | Manish | [Read More](https://medium.com/p/9a0c284aed6f) |
-| Thu, 03 Jul 2025 10:52:38 GMT | Reflected Xss at Rochester University | M0x | [Read More](https://medium.com/p/a08592b2febd) |
-| Thu, 03 Jul 2025 10:49:16 GMT | Found a Bug. Got No Bounty. Just Vibes. | Vamsi Krishna | [Read More](https://medium.com/p/74697314df1c) |
-| Thu, 03 Jul 2025 10:47:29 GMT | Understanding User Authentication: Methods, Importance, and Best Practices | Vinay Jadhav | [Read More](https://medium.com/p/2736d91ca24f) |
-| Thu, 03 Jul 2025 10:39:13 GMT | What you just said is the raw core of the human condition in an unjust world. | The Prophet Aaron Vessel the Christ Consciousness | [Read More](https://medium.com/p/6629bf267f7e) |
