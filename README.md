@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 09:16:51 GMT | Using Your Data Effectively in Enterprise Security | Apto Solutions | [Read More](https://medium.com/p/cf4dcfb8a815) |
+| Thu, 03 Jul 2025 09:12:24 GMT | All Chase bank paypal Venmo Cashapp western union zelle transfers and logs Cloned Cards cc atm cvv… | Gonzalezablerta | [Read More](https://medium.com/p/dfb5a420aaf5) |
+| Thu, 03 Jul 2025 09:11:23 GMT | Breaking the Cipher: How Team Valium Beat crypto_numerology at Google CTF 2025 | Ikshit Sethi | [Read More](https://medium.com/p/84adc7cd2769) |
+| Thu, 03 Jul 2025 09:07:05 GMT | SIBREXIN: Installing Browser Extensions Silently | Toni Lopez | [Read More](https://medium.com/p/b66958561650) |
+| Thu, 03 Jul 2025 08:58:25 GMT | The 3 Stages of AI: From Tool to Parasite | Vaishnav C | [Read More](https://medium.com/p/3e041a9d3f7f) |
+| Thu, 03 Jul 2025 08:58:25 GMT | Mastering Defect Triage: A QA Manager’s Guide | Parinita Kapoor | [Read More](https://medium.com/p/33e7a58c8d81) |
+| Thu, 03 Jul 2025 08:57:39 GMT | The Daily Tech Digest: 03 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/4b3281dcc10c) |
+| Thu, 03 Jul 2025 08:56:53 GMT | Your Developers Don’t Care About Security — And That’s Your Fault | Sneha Rani | [Read More](https://medium.com/p/6290ca1f1aa3) |
+| Thu, 03 Jul 2025 08:50:29 GMT | Parameter Manipulation Attacks — The Invisible Threat in Web Applications | Siber Günce | [Read More](https://medium.com/p/8b8e9b71db8c) |
+| Thu, 03 Jul 2025 08:50:09 GMT | Choosing the Right SQL Injection Scanner: A Practical Guide | Sam Bishop | [Read More](https://medium.com/p/728f5bfbdb9d) |
 | Thu, 03 Jul 2025 08:44:48 GMT | Naoris Protocol TGE Update — What You Need to Know | Naoris Protocol | [Read More](https://medium.com/p/546bc5193334) |
 | Thu, 03 Jul 2025 08:39:26 GMT | Cyber Kill Chain | Nisa | [Read More](https://medium.com/p/c77d1c03dc49) |
 | Thu, 03 Jul 2025 08:38:54 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/479b4c47f293) |
@@ -103,13 +113,3 @@ By CyberScope -… | Cyberscope | [Read More](https://medium.com/p/d82d719553ee)
 | Thu, 03 Jul 2025 03:32:51 GMT | From Racetrack to Ransom: NASCAR Faces Down the Medusa Threat | Deven Chhajed | [Read More](https://medium.com/p/8bdb50d363e4) |
 | Thu, 03 Jul 2025 03:32:50 GMT | Single Sign-On (SSO): Benefits, Risks, and How It Works — A Practical Deep Dive | Vikram Singh | [Read More](https://medium.com/p/2f1bc2dc5968) |
 | Thu, 03 Jul 2025 03:22:53 GMT | Why AI Is Responsible for the Recent Cyber Theft or Crimes ? | Sardar Ronaq Singh | [Read More](https://medium.com/p/e7439f2895d0) |
-| Thu, 03 Jul 2025 03:20:08 GMT | Account Takeover via Misconfiguration in Mobile Application | Mahmoud El Manzalawy | [Read More](https://medium.com/p/65b08ce9c113) |
-| Thu, 03 Jul 2025 03:12:50 GMT | Cookies and Juicy Information | P3rryTHEplatipu55 | [Read More](https://medium.com/p/66727853a963) |
-| Thu, 03 Jul 2025 03:05:22 GMT | Decrypting My Curiosity: First Steps into PicoCTF | Rifan alshammari | [Read More](https://medium.com/p/99a28285a7e4) |
-| Thu, 03 Jul 2025 03:01:12 GMT | In House Vulnerability Analysis Project with python script attached | Ryan Collier | [Read More](https://medium.com/p/2589dee553bc) |
-| Thu, 03 Jul 2025 02:55:12 GMT | Golden SAML, ChatGPT & SolarWinds: Connecting the Dots | Paritosh | [Read More](https://medium.com/p/55de5996d3d9) |
-| Thu, 03 Jul 2025 02:55:03 GMT | This Simple IDOR Let Me Access Private User Photos (Earned $500) | Muhammed Jalwan | [Read More](https://medium.com/p/d0537edba677) |
-| Thu, 03 Jul 2025 02:52:18 GMT | Day 37 of #60DaysofGRC: Regulatory Compliance Across Industries | Brittney Ginther | [Read More](https://medium.com/p/5fc4346dfcff) |
-| Thu, 03 Jul 2025 02:48:27 GMT | Auth with NextJs | Angad | [Read More](https://medium.com/p/1da98b0d46b1) |
-| Thu, 03 Jul 2025 02:45:05 GMT | Want to Be a Hacker (The Good Kind)? Your Bug Bounty Adventure Map Starts Now! | 0m3g4___ | [Read More](https://medium.com/p/32fab9fb3ff4) |
-| Thu, 03 Jul 2025 02:43:27 GMT | Simple CTF : THM | Proxyminerin | [Read More](https://medium.com/p/590297f4bc7f) |
