@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 22:16:47 GMT | Backtrack Walkthrough | Anubhav Bali | [Read More](https://medium.com/p/9cb9f2581a91) |
+| Thu, 03 Jul 2025 22:12:51 GMT | Pro-Russian Hacktivist Groups Drive Sophisticated Attacks Against Critical Infrastructure | RealSec.io | [Read More](https://medium.com/p/9b7e7b80d5ef) |
+| Thu, 03 Jul 2025 22:06:41 GMT | Snort Challenge— Live Attacks | Isiah | [Read More](https://medium.com/p/d523754c9141) |
+| Thu, 03 Jul 2025 22:05:29 GMT | Post-Quantum Cryptography in Python | Anonymous | [Read More](https://medium.com/p/fb3218f8e011) |
+| Thu, 03 Jul 2025 21:59:13 GMT | RC6 Shellcode Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/fc38ada8c55e) |
+| Thu, 03 Jul 2025 21:51:39 GMT | OWASP Top 10 Web Application Security Risks Explained | Louis Trinh | [Read More](https://medium.com/p/8df33cca106c) |
+| Thu, 03 Jul 2025 21:48:11 GMT | Your Guide to the CompTIA Security+ (SY0–701): What You Really Need to Know Before Taking the Exam | Lewis Matlock, MBA, CISSP-ISSMP | [Read More](https://medium.com/p/77c1c72831ea) |
+| Thu, 03 Jul 2025 21:46:05 GMT | Counterterrorism in the Age of ISIS | Anthony | [Read More](https://medium.com/p/9208d8696c1c) |
+| Thu, 03 Jul 2025 21:43:00 GMT | What is OSINT and why is it important? | Anthony | [Read More](https://medium.com/p/2e7ed641e506) |
+| Thu, 03 Jul 2025 21:36:48 GMT | Zero Trust Security: Benefits and How It Works | Daniil Perfilev | [Read More](https://medium.com/p/a1d317c2614c) |
+| Thu, 03 Jul 2025 21:32:13 GMT | Understanding the MITRE ATT&CK Framework for Beginners (2025 Guide for Cybersecurity Learners) | NineTales | [Read More](https://medium.com/p/e292827b3300) |
 | Thu, 03 Jul 2025 21:27:57 GMT | SOC Automation Project Part-2 | rkn | [Read More](https://medium.com/p/5e42b0193fad) |
 | Thu, 03 Jul 2025 21:25:38 GMT | VPN: A Rede Privada Virtual | Filipe Campos | [Read More](https://medium.com/p/7dd02981f248) |
 | Thu, 03 Jul 2025 21:17:25 GMT | OTW Bandit Walkthrough (part 2) | Rusiru Kashmeera | [Read More](https://medium.com/p/7cfb95462e0d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 14:52:54 GMT | From LFI to RCE via php://input — The Complete Beginner-Friendly Guide | Zoningxtr | [Read More](https://medium.com/p/e38e79924521) |
 | Thu, 03 Jul 2025 14:52:50 GMT | Unveiling GeoIP Support in Wazuh: It’s Already There — But Are You Using It Right? | Yash Patel | [Read More](https://medium.com/p/03905bce791a) |
 | Thu, 03 Jul 2025 14:52:37 GMT | Agent Sudo — Tryhackme (Writeup) | CyberLabyrinthX | [Read More](https://medium.com/p/44651c75e999) |
-| Thu, 03 Jul 2025 14:49:52 GMT | (AWS-CLI) IAM MFA 미설정자 확인 스크립트 | Aiden.Ha | [Read More](https://medium.com/p/cfb2dd729e79) |
-| Thu, 03 Jul 2025 14:42:38 GMT | Post-Quantum Cryptography (PQC) Readiness: What Security Teams Need to Know | Ekene Joseph | [Read More](https://medium.com/p/09d120249a32) |
-| Thu, 03 Jul 2025 14:41:35 GMT | LINUX basics for Hackers [NOTES] | Jinay | [Read More](https://medium.com/p/cf83a64ac51a) |
-| Thu, 03 Jul 2025 14:37:11 GMT | “includes” Challenge Walkthrough — Pentest Garage | Meenakshykroshan | [Read More](https://medium.com/p/2b62e5073f96) |
-| Thu, 03 Jul 2025 14:27:55 GMT | CVE-2024–29973: Unauthorized Command Injection in Zyxel NAS Devices | イズミー | [Read More](https://medium.com/p/385ad5b92534) |
-| Thu, 03 Jul 2025 14:22:44 GMT | Güvenlik Altyapı Kurulumu: Modern Tehditlere Karşı Görünmeyen Kalkan | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/5a81ab59ce56) |
-| Thu, 03 Jul 2025 14:20:39 GMT | API06:2023 — Unrestricted Access to Sensitive Business Flows | Suhel Kathi | [Read More](https://medium.com/p/2b74259db112) |
-| Thu, 03 Jul 2025 14:14:19 GMT | Desecure Technology ile Güvenlik Kamerası Sistemleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/182bd675a5c8) |
-| Thu, 03 Jul 2025 14:04:16 GMT | Delete WhatsApp Already — You’re Not a Lab Rat, Are You? | Matyas Koszegi | [Read More](https://medium.com/p/764b76c38427) |
-| Thu, 03 Jul 2025 14:02:57 GMT | Software-Defined Networking: The Future of Network Security Services in Phoenix | Blue Fox Group | [Read More](https://medium.com/p/2a004127fb4b) |
-| Thu, 03 Jul 2025 14:02:56 GMT | Ontario Cybersecurity Experts Warn: DDoS Attacks on Finance Are Surging | Zeta Sky | [Read More](https://medium.com/p/7f938bf82abf) |
