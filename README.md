@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 03 Jul 2025 15:22:34 GMT | The Bug You’ll Never See — Until You Flip the Flag | Đeepanshu | [Read More](https://medium.com/p/fbec93ad5fa9) |
+| Thu, 03 Jul 2025 15:13:34 GMT | Cyber Hygiene In The Age Of AI | Makinde Muyiwa Debowale Fatolu | [Read More](https://medium.com/p/8fe1e8d6209f) |
+| Thu, 03 Jul 2025 15:06:26 GMT | Building the Future of Cyber in Singapore | Tal Eliyahu | [Read More](https://medium.com/p/65b08f888184) |
+| Thu, 03 Jul 2025 15:02:58 GMT | A 12 Part Series of Technical Write-up on Architectural Considerations for Securing Cloud-SaaS… | Dhyan Sagar | [Read More](https://medium.com/p/d3185da55fc3) |
+| Thu, 03 Jul 2025 14:56:09 GMT | Broken Access Control part-10 : URL-based access control can be circumvented | Ahmad Sopyan | [Read More](https://medium.com/p/ad215e900363) |
+| Thu, 03 Jul 2025 14:52:54 GMT | From LFI to RCE via php://input — The Complete Beginner-Friendly Guide | Zoningxtr | [Read More](https://medium.com/p/e38e79924521) |
+| Thu, 03 Jul 2025 14:52:50 GMT | Unveiling GeoIP Support in Wazuh: It’s Already There — But Are You Using It Right? | Yash Patel | [Read More](https://medium.com/p/03905bce791a) |
+| Thu, 03 Jul 2025 14:52:37 GMT | Agent Sudo — Tryhackme (Writeup) | CyberLabyrinthX | [Read More](https://medium.com/p/44651c75e999) |
+| Thu, 03 Jul 2025 14:49:52 GMT | (AWS-CLI) IAM MFA 미설정자 확인 스크립트 | Aiden.Ha | [Read More](https://medium.com/p/cfb2dd729e79) |
 | Thu, 03 Jul 2025 14:42:38 GMT | Post-Quantum Cryptography (PQC) Readiness: What Security Teams Need to Know | Ekene Joseph | [Read More](https://medium.com/p/09d120249a32) |
+| Thu, 03 Jul 2025 14:41:35 GMT | LINUX basics for Hackers [NOTES] | Jinay | [Read More](https://medium.com/p/cf83a64ac51a) |
 | Thu, 03 Jul 2025 14:37:11 GMT | “includes” Challenge Walkthrough — Pentest Garage | Meenakshykroshan | [Read More](https://medium.com/p/2b62e5073f96) |
 | Thu, 03 Jul 2025 14:27:55 GMT | CVE-2024–29973: Unauthorized Command Injection in Zyxel NAS Devices | イズミー | [Read More](https://medium.com/p/385ad5b92534) |
+| Thu, 03 Jul 2025 14:22:44 GMT | Güvenlik Altyapı Kurulumu: Modern Tehditlere Karşı Görünmeyen Kalkan | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/5a81ab59ce56) |
 | Thu, 03 Jul 2025 14:20:39 GMT | API06:2023 — Unrestricted Access to Sensitive Business Flows | Suhel Kathi | [Read More](https://medium.com/p/2b74259db112) |
 | Thu, 03 Jul 2025 14:14:19 GMT | Desecure Technology ile Güvenlik Kamerası Sistemleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/182bd675a5c8) |
 | Thu, 03 Jul 2025 14:04:16 GMT | Delete WhatsApp Already — You’re Not a Lab Rat, Are You? | Matyas Koszegi | [Read More](https://medium.com/p/764b76c38427) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 10:26:33 GMT | Linux Networking Hacks: 9 Essential Commands Every DevOps Engineer Must Know | Ashish Singh | [Read More](https://medium.com/p/84c20bcd2f18) |
 | Thu, 03 Jul 2025 10:22:46 GMT | Before the Boom: Anti-VM Checks to Slip Past Dynamic Analysis via Hardware Resource Profiling | Itz.sanskarr | [Read More](https://medium.com/p/713209a019ac) |
 | Thu, 03 Jul 2025 10:21:54 GMT | How to Secure Code While Building Cloud-Native Apps in the Age of AI | Techberry | [Read More](https://medium.com/p/9ec9d8a75c71) |
-| Thu, 03 Jul 2025 10:21:50 GMT | Reliable c Services Peterborough — 24/7 Protection You Can Trust | Glowbolt | [Read More](https://medium.com/p/6b278896fc8a) |
-| Thu, 03 Jul 2025 10:19:08 GMT | TryHackMe - Linux Live Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/8e86ef6a8f9e) |
-| Thu, 03 Jul 2025 10:16:07 GMT | How a Sneaky Flaw in IDE Extension Verification Could Put Your Code at Risk — And What You Can Do… | CyBlog | [Read More](https://medium.com/p/1efa17aab2ab) |
-| Thu, 03 Jul 2025 10:15:43 GMT | Tryhackme: Billing(Easy Room) | Faith Alabi Erioluwa | [Read More](https://medium.com/p/2a668ce22e38) |
-| Thu, 03 Jul 2025 10:15:29 GMT | Aim : | Shourya Pratap Singh | [Read More](https://medium.com/p/52948383a7d1) |
-| Thu, 03 Jul 2025 10:12:21 GMT | Lab Activity: Secure vs Insecure Ports (Telnet vs SSH) | Cyrus Mutua | [Read More](https://medium.com/p/b5a386f847ec) |
-| Thu, 03 Jul 2025 10:10:19 GMT | How to Position your Bugs Bunny $BUGS for Maximum Rewards | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/54ed4b5d7db3) |
-| Thu, 03 Jul 2025 10:05:48 GMT | Don’t Just Run Exploits — Learn From Them! | LIJO JKV | [Read More](https://medium.com/p/1bc7ac2bad5a) |
-| Thu, 03 Jul 2025 09:59:00 GMT | Diploma In Information security course in delhi | Manisha Chaudhary | [Read More](https://medium.com/p/f76335df67a7) |
-| Thu, 03 Jul 2025 09:56:20 GMT | I am too small to be hacked (Myth) | Proten Technologies | [Read More](https://medium.com/p/e362ba6061b1) |
-| Thu, 03 Jul 2025 09:53:38 GMT | Cyber Security Act Malaysia: What Businesses Need To Know | Sattrix | [Read More](https://medium.com/p/2558ad0f51df) |
