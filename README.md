@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 19:51:48 GMT | SSTI&CSTI Nedir? | Muhammed Kasım Doğan | [Read More](https://medium.com/p/32a62f0c8765) |
+| Fri, 04 Jul 2025 19:47:14 GMT | Your Data and Where It Lives | Santiago Bravo | [Read More](https://medium.com/p/b9b2d95b6a6d) |
+| Fri, 04 Jul 2025 19:37:08 GMT | Where Vulnerabilities Come From | Sammcmullen | [Read More](https://medium.com/p/2b28964396cd) |
+| Fri, 04 Jul 2025 19:34:53 GMT | When Your Webcam Blinks at Night: How Hackers Invade Privacy Without Touching Your Devices | Kartik Choubey | [Read More](https://medium.com/p/c265847aa11c) |
 | Fri, 04 Jul 2025 19:20:24 GMT | Iranian Threat Activity Escalates: U.S. Agencies Warn Defense and Critical Infrastructure Sectors | RealSec.io | [Read More](https://medium.com/p/a5be9aee278b) |
 | Fri, 04 Jul 2025 19:12:56 GMT | Broken Access Control part-13 : Referer-based access control | Ahmad Sopyan | [Read More](https://medium.com/p/40f148855c8b) |
 | Fri, 04 Jul 2025 19:07:44 GMT | Mastering Nmap: The Ultimate Guide for Ethical Hackers and Security Pros | Rushikesh G | [Read More](https://medium.com/p/b1fdf5673991) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 12:42:33 GMT | AI Penetration Testing: Secure LLMs from Vulnerabilities | VisionX Technologies | [Read More](https://medium.com/p/0cccb21109b7) |
 | Fri, 04 Jul 2025 12:41:23 GMT | Computer Components for Begginner | CyberLearn | [Read More](https://medium.com/p/3b0eeb1a8a22) |
 | Fri, 04 Jul 2025 12:35:51 GMT | Protect Your Business: The Essential Guide to Cyber Security Services | Einnosystech | [Read More](https://medium.com/p/14f67eada593) |
-| Fri, 04 Jul 2025 12:28:02 GMT | This Week in Cybersecurity: KEV Additions, Botnet Escalation, and Espionage Campaigns Unfold | Loginsoft | [Read More](https://medium.com/p/2353c5ea81f0) |
-| Fri, 04 Jul 2025 12:23:57 GMT | Why Affordable Security Guards in Delhi Are in High Demand | Sumintra | [Read More](https://medium.com/p/f683646b5a14) |
-| Fri, 04 Jul 2025 12:22:06 GMT | Dignity Comes with Responsibility | EXLITY | [Read More](https://medium.com/p/32d8e5df40e8) |
-| Fri, 04 Jul 2025 12:14:09 GMT | Information at Scale — The Foundations of Data | Aliemregursu | [Read More](https://medium.com/p/47277769ac43) |
