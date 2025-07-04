@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 04:47:07 GMT | Bug Bounty Lessons from Two Out-of-Scope Reports: A Learning Journey, Not Just a Win Story | Asadujjaman Asif | [Read More](https://medium.com/p/9db3e40ae587) |
+| Fri, 04 Jul 2025 04:43:18 GMT | Emerging Cyber Threats You Must Prepare For in 2025 | Ekene Joseph | [Read More](https://medium.com/p/0c40a5c42448) |
+| Fri, 04 Jul 2025 04:36:01 GMT | Network Security: More Than Just Firewalls and Passwords | The Hackers Meetup | [Read More](https://medium.com/p/1c1b5d5fde51) |
+| Fri, 04 Jul 2025 04:36:01 GMT | Your Company Could Be Havoc’d by a Deepfake CEO Call — And You’d Never Know | Sneha Rani | [Read More](https://medium.com/p/5bbaf82f9644) |
+| Fri, 04 Jul 2025 04:34:35 GMT | Cybersecurity Frameworks: Because “Just Don’t Get Hacked” Isn’t a Real Strategy | DarKVoicE | [Read More](https://medium.com/p/6a04fa881739) |
+| Fri, 04 Jul 2025 04:32:41 GMT | CYBER SECURITY AND TIPS | The Manpreet | [Read More](https://medium.com/p/706491b88bd1) |
+| Fri, 04 Jul 2025 04:31:26 GMT | Cybersecurity Trends & Predictions for 2025: What Every SOC Needs to Know | Mr Joe | [Read More](https://medium.com/p/0b9c68d2f88c) |
+| Fri, 04 Jul 2025 04:29:27 GMT | LINUX Style Portfolio | Yoonsung Ed Cho | [Read More](https://medium.com/p/6c706507c603) |
+| Fri, 04 Jul 2025 04:28:12 GMT | Why Multi-Factor Authentication Still Isn’t Enough | Saikat Paul | [Read More](https://medium.com/p/28ee0fbdf6c2) |
+| Fri, 04 Jul 2025 04:22:32 GMT | Pentest GPT: The AI Assistant Redefining Ethical Hacking | Mr Joe | [Read More](https://medium.com/p/3b9f2579ccb3) |
+| Fri, 04 Jul 2025 04:16:10 GMT | Kali GPT: Your AI-Powered Assistant for Penetration Testing | Mr Joe | [Read More](https://medium.com/p/a298028359e9) |
+| Fri, 04 Jul 2025 04:15:56 GMT | The Rise of Ransomware-as-a-Service | Saikat Paul | [Read More](https://medium.com/p/48c9bc05936c) |
+| Fri, 04 Jul 2025 04:12:53 GMT | ️ Build A Complete Linux Backup Server Project-Remote Backup & Automation(Part- 2) | Anivesh Mohan | [Read More](https://medium.com/p/e9cf8af0b809) |
+| Fri, 04 Jul 2025 04:02:23 GMT | The Hidden Risks in Your Dependencies: SCA for Developers | Ayush Bulbule | [Read More](https://medium.com/p/fd0b7cb0c27b) |
+| Fri, 04 Jul 2025 03:58:39 GMT | AI: THE DIGITAL GUARDIAN THAT CAN BECOME A DOUBLE-EDGED SWORD | Yuan Reynaldo | [Read More](https://medium.com/p/20afdc2884eb) |
+| Fri, 04 Jul 2025 03:55:58 GMT | Quantum Computing vs. Current Encryption: The Ticking Time Bomb | Saikat Paul | [Read More](https://medium.com/p/42a411ff80fd) |
 | Fri, 04 Jul 2025 03:43:27 GMT | Krypton: A Journey Through Classic Cryptography (Levels 0–7) | Gopal Mohan | [Read More](https://medium.com/p/dd574e33d27e) |
 | Fri, 04 Jul 2025 03:38:57 GMT | From 18 Minutes to 4 Minutes: How We Cut Threat Analysis Time by 79% | Michael Rico | [Read More](https://medium.com/p/3ee19448d1f2) |
 | Fri, 04 Jul 2025 03:31:45 GMT | The Future of Threat Hunting and Investigation : ELK MCP Server | f0xy_pr0xy | [Read More](https://medium.com/p/caef1c184024) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 19:05:50 GMT | Best Wireless Outdoor Security Camera | Phil Ryan | [Read More](https://medium.com/p/13d0bc02e90c) |
 | Thu, 03 Jul 2025 18:55:55 GMT | How I Freed 100GB of Disk Space by Cleaning VirtualBox Snapshots | mauzware | [Read More](https://medium.com/p/8a6fff1b8574) |
 | Thu, 03 Jul 2025 18:55:27 GMT | Automated Kubernetes Threat Detection with Tetragon and Azure Sentinel | Saraswathi Lakshman | [Read More](https://medium.com/p/28c32ee152bc) |
-| Thu, 03 Jul 2025 18:53:11 GMT | Siber Güvenliğe Giriş: Dijital Dünyaya Adım | BitKule | [Read More](https://medium.com/p/40aa29aaff1a) |
-| Thu, 03 Jul 2025 18:51:21 GMT | AI vs Business: Defending Against AI Cyberattacks | IT_Engineer | [Read More](https://medium.com/p/e64baadab0c3) |
-| Thu, 03 Jul 2025 18:39:18 GMT | How I Bypassed a WAF - Why Documentation matters - RGHX | Raman Gautam - rghx | [Read More](https://medium.com/p/62dc301e39f1) |
-| Thu, 03 Jul 2025 18:35:50 GMT | The Bravery in Breaking Your Own Calm | Hadiashahbaz | [Read More](https://medium.com/p/d61031bd18a9) |
-| Thu, 03 Jul 2025 18:28:21 GMT | WannaCry Ransomware: The Cyber Attack That Froze the World | Akshay Chauhan | [Read More](https://medium.com/p/d8fafa7e8a4d) |
-| Thu, 03 Jul 2025 18:26:48 GMT | How Recon Solana is Changing the Crypto Landscape | $RECON (Recon Solana) | [Read More](https://medium.com/p/58fe57410077) |
-| Thu, 03 Jul 2025 18:12:41 GMT | Review: Offensive X 2025 Conference-Talks, Hacking Challenges, and Cybersecurity Community in… | Ilias Mavropoulos | [Read More](https://medium.com/p/e7aec6dd42c5) |
-| Thu, 03 Jul 2025 18:05:47 GMT | Sophisticated Chinese Threat Actor Targets French Government and Critical Sectors via Ivanti CSA… | RealSec.io | [Read More](https://medium.com/p/9e5dd74cda0a) |
-| Thu, 03 Jul 2025 18:05:02 GMT | xss0r V5 Is Finally HERE !!! | xss0r | [Read More](https://medium.com/p/6c71904a21b9) |
-| Thu, 03 Jul 2025 17:48:36 GMT | Hit the Panic Button: How a Kill Switch Can Save You from Cyber Chaos | Akshay Chauhan | [Read More](https://medium.com/p/9eeee7d4f530) |
-| Thu, 03 Jul 2025 17:43:34 GMT | Top 5 Most Common WordPress Security Mistakes Newbies Make- | FA Shuvo | [Read More](https://medium.com/p/35b2ed425d37) |
-| Thu, 03 Jul 2025 17:39:22 GMT | I Passed eJPTv2 in My Second Semester — Here’s Everything I Did | Muhammad Husnain Zargar | [Read More](https://medium.com/p/674ea862cf82) |
-| Thu, 03 Jul 2025 17:36:21 GMT | Deep Dive into Disk Partitioning: MBR, GPT & Boot Mechanics | Thakur Ashutosh | [Read More](https://medium.com/p/b45728263b77) |
-| Thu, 03 Jul 2025 17:34:32 GMT | How Hackers Use ChatGPT to Craft Social Engineering Attacks | Code With Hannan | [Read More](https://medium.com/p/fa15cdc03ad8) |
-| Thu, 03 Jul 2025 17:21:55 GMT | @Gcore.comQuietly Patches Vulnerability, After Denying Reports and Calling It “Behavior By Design” | Zhaenx | [Read More](https://medium.com/p/80365732af7f) |
-| Thu, 03 Jul 2025 17:16:13 GMT | Tokenization: yet another thing to worry about in your AI stack | Dan Glass | [Read More](https://medium.com/p/0d43d5bd72c9) |
