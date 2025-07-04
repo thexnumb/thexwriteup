@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 14:19:29 GMT | PCB Design: The Hidden Bridge Between Embedded Systems and Data Science | Grace Wanja | [Read More](https://medium.com/p/4c1d3693a188) |
+| Fri, 04 Jul 2025 14:17:25 GMT | Sistem Tasarımı ve Modellemesi | Yunus Emre Maraşlı | [Read More](https://medium.com/p/7128d2092ef0) |
+| Fri, 04 Jul 2025 14:16:52 GMT | Real-Time Insider Threat Detection Using Machine Learning | Esra Kayhan | [Read More](https://medium.com/p/664c9e6bb057) |
+| Fri, 04 Jul 2025 14:16:18 GMT | GitHub Actions: SAST / DAST scan | Nejat Nebizade | [Read More](https://medium.com/p/e3b8477174a8) |
 | Fri, 04 Jul 2025 14:15:23 GMT | Beyond RBAC: A Senior Engineer’s Field Guide to Production-Ready Keycloak | A.W. Reed. | [Read More](https://medium.com/p/9e01dbaae533) |
 | Fri, 04 Jul 2025 14:13:49 GMT | Aula 8 — DNS Zone Transfer (AXFR) | HexSilent | [Read More](https://medium.com/p/0ddd35a37a15) |
+| Fri, 04 Jul 2025 14:13:20 GMT | How Mr. Robot’s Elliot Used Bluetooth to Hack a Prison | Coderxploit | [Read More](https://medium.com/p/f43bd260b5dd) |
 | Fri, 04 Jul 2025 14:11:25 GMT | Cyber Briefing: 2025.07.04 | CyberMaterial | [Read More](https://medium.com/p/74fe7d12f49b) |
 | Fri, 04 Jul 2025 14:11:16 GMT | The Role of Cybersecurity in Regulatory Compliance | ITBizTeK | [Read More](https://medium.com/p/4e31fc5da6a7) |
+| Fri, 04 Jul 2025 14:07:04 GMT | Major Cyber Attacks, Ransomware Attacks and Data Breaches of June 2025 | IT_Engineer | [Read More](https://medium.com/p/d9a75056227d) |
 | Fri, 04 Jul 2025 14:04:07 GMT | Don’t Get Held Hostage: Understanding and Thwarting Ransomware | CFE Consultancy Services | [Read More](https://medium.com/p/e840d9705008) |
 | Fri, 04 Jul 2025 14:02:17 GMT | What is the Role and Uses of AI in Cybersecurity Today? | Shriyansh Tiwari | [Read More](https://medium.com/p/13838e5120e5) |
 | Fri, 04 Jul 2025 14:01:53 GMT | NIST’s New AI Security Framework: What Mid-Market Companies Need to Know | Eric Zietlow | [Read More](https://medium.com/p/d5be6e86de03) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 08:58:10 GMT | How Devices Communicate Across Networks: MAC, IP, and Routers Explained | Rohit Sharma | [Read More](https://medium.com/p/e22c3ce4593a) |
 | Fri, 04 Jul 2025 08:56:51 GMT | Automated Bug Bounty Workflow — Complete Implementation Guide | Andrei Ivan | [Read More](https://medium.com/p/bb052356b4a5) |
 | Fri, 04 Jul 2025 08:53:59 GMT | From curious clicks to Cyber intern: My journey into world of Cybersecurity | CosmicByte | [Read More](https://medium.com/p/cf82a9c1addc) |
-| Fri, 04 Jul 2025 08:53:42 GMT | Source Code Review: The Foundation of Secure Software - Pynesec Technologies | Pynesec | [Read More](https://medium.com/p/6b896d3b82c1) |
-| Fri, 04 Jul 2025 08:49:04 GMT | picoCTF: DISKO 2 | löca | [Read More](https://medium.com/p/46ee77fc76a5) |
-| Fri, 04 Jul 2025 08:45:39 GMT | I Tried Automating Security with AI — Nearly Opened a Breach, But Saved $15,000 (And My Career) | AbdulRahman Mostafa | [Read More](https://medium.com/p/1427e80c25be) |
-| Fri, 04 Jul 2025 08:37:37 GMT | ISO 27001 Compliance: Your SaaS Business Playbook | SecureSlate | [Read More](https://medium.com/p/e1497ee8a343) |
-| Fri, 04 Jul 2025 08:31:33 GMT | 6 VPN Survival Hacks Every Smart Traveler Swears By | Cloudbric VPN | [Read More](https://medium.com/p/ac7d98bf51e1) |
-| Fri, 04 Jul 2025 08:27:20 GMT | Why is attack surface management so important? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/eaa49a328e18) |
