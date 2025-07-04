@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 03:02:10 GMT | ️ Day 1: Introduction to Cybersecurity - 45 Days of Cybersecurity with SutraByte | Vinayak | [Read More](https://medium.com/p/400e5131d0c5) |
+| Fri, 04 Jul 2025 02:55:32 GMT | ️ WIZ Ultimate Cloud Security Championship — June 2025 | Lemon | [Read More](https://medium.com/p/b92694fa4ed2) |
+| Fri, 04 Jul 2025 02:53:16 GMT | The Fundamentals of InfoSec: Protecting Your Digital Assets Like A Pro | DarKVoicE | [Read More](https://medium.com/p/c62c7d1488e9) |
+| Fri, 04 Jul 2025 02:43:47 GMT | Hacking, Virtual Machines, Linux, and Networking: Your Guide to the Digital World! | Naveen J | [Read More](https://medium.com/p/99d8ab5023aa) |
+| Fri, 04 Jul 2025 02:25:15 GMT | ejpt:Footprinting & Scanning ctf 1 walktrough | Boy Ansdica | [Read More](https://medium.com/p/8971b1202dd8) |
+| Fri, 04 Jul 2025 02:17:11 GMT | AI Just Suggested a Fake Package — And You Probably Installed It | Sneha Rani | [Read More](https://medium.com/p/e04e0943bdc4) |
+| Fri, 04 Jul 2025 02:05:34 GMT | Azure Honeypot with Live Traffic | Rajesh Prasad | [Read More](https://medium.com/p/6de04990e651) |
+| Fri, 04 Jul 2025 02:05:06 GMT | Google’s Android Warning For 3 Billion Users: Change This Setting Now | Nauman khan | [Read More](https://medium.com/p/746f75bea0f8) |
+| Fri, 04 Jul 2025 01:55:20 GMT | 200+ Life Hacks Review | xuanthuan123 | [Read More](https://medium.com/p/6297d3486b08) |
 | Fri, 04 Jul 2025 01:44:50 GMT | Ejercicio Active Directory, VPN Pivoting y Escalada de Privilegios | Luis Angel Ramirez Mendoza | [Read More](https://medium.com/p/73de6418a736) |
 | Fri, 04 Jul 2025 01:36:59 GMT | Internal writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/f69573d4372b) |
 | Fri, 04 Jul 2025 01:04:54 GMT | Cloudbric Services Progress Report (6/1 ~ 6/30) | Cloudbric | [Read More](https://medium.com/p/266c90acc5cd) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 16:59:01 GMT | ️ Securing Your Containers: A Deep Dive into CIS Docker Benchmarks | Basant C. | [Read More](https://medium.com/p/68efc8eee292) |
 | Thu, 03 Jul 2025 16:53:54 GMT | Hammer TryHackMe Challenge Writeup | Ramy Nasser | [Read More](https://medium.com/p/3a627638693f) |
 | Thu, 03 Jul 2025 16:49:18 GMT | TechIntelPro - June Insights | TechIntelPro | [Read More](https://medium.com/p/d2f4e9627250) |
-| Thu, 03 Jul 2025 16:48:27 GMT | Why Ireland’s New “Scam Likely” Labels Might Actually Make SMS Fraud Worse for Banks and the Public | Paul Walsh | [Read More](https://medium.com/p/947b51119ecc) |
-| Thu, 03 Jul 2025 16:47:58 GMT | Smishing in Cyber Security: The Silent Threat in Your Inbox | SafeAeon Inc. | [Read More](https://medium.com/p/1b0e179ed90c) |
-| Thu, 03 Jul 2025 16:47:20 GMT | Complete Fire Alarm and Smoke Detector Solutions for Residential and Commercial Spaces | Ataraxis Solutions | [Read More](https://medium.com/p/efa91b4eb747) |
-| Thu, 03 Jul 2025 16:43:27 GMT | Meta Mengincar Foto Pribadi kita: Alarm Privasi Meraung Membahana! | Rushkraft Id | [Read More](https://medium.com/p/4af3560ebe26) |
-| Thu, 03 Jul 2025 16:41:13 GMT | Why Network Security Is Important for Every Business Today | SafeAeon Inc. | [Read More](https://medium.com/p/2ba111b23d3d) |
-| Thu, 03 Jul 2025 16:29:36 GMT | Two Patches. Zero Bounties. One Ignored Researcher — My Bug Bounty Experience with PayTabs.com | Zhaenx | [Read More](https://medium.com/p/052cefbc8e2e) |
-| Thu, 03 Jul 2025 16:19:18 GMT | Qantas / Scatter Spider Call Center Breach — A Wake-Up Call on the Human Element in Cybersecurity | Roselyne | [Read More](https://medium.com/p/34dc884aa093) |
-| Thu, 03 Jul 2025 16:12:57 GMT | Why a Proactive Cybersecurity Strategy Is Crucial for eCommerce Success | RBM Software | [Read More](https://medium.com/p/903365948c5e) |
-| Thu, 03 Jul 2025 16:04:49 GMT | White Label SOC Services: A Game-Changer for MSPs and IT Providers | SafeAeon Inc. | [Read More](https://medium.com/p/9715dd98d9cd) |
