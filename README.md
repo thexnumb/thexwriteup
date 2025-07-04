@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 11:37:28 GMT | Hire Hacker - Malware - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/a7ada6cc1ecb) |
+| Fri, 04 Jul 2025 11:36:44 GMT | I Chained Four Bugs to Take Over Account | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d4ce0b00eef3) |
+| Fri, 04 Jul 2025 11:36:16 GMT | Exploiting Misconfigured JWT: How I Owned 30+ Accounts via Token Logic Flaws | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c592d9915c46) |
+| Fri, 04 Jul 2025 11:27:26 GMT | Inside Microsoft’s Fortress: How the Tech Giant Slays Modern-Day Digital Dragons | Muhammed Akintola | [Read More](https://medium.com/p/6dfa6f1629e7) |
+| Fri, 04 Jul 2025 11:24:35 GMT | Expert Mobile Application Development with Mobiloitte | Remand Simon | [Read More](https://medium.com/p/92e0c294fefa) |
+| Fri, 04 Jul 2025 11:23:38 GMT | Best Cybersecurity Course Online for Beginners and Professionals in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/98a0893a33d5) |
+| Fri, 04 Jul 2025 11:23:30 GMT | What Just Happened in Cybersecurity? [July 4, 2025 ] | Darshan | [Read More](https://medium.com/p/aac4f014a1c8) |
 | Fri, 04 Jul 2025 11:14:11 GMT | New JBBA Study Introduces READ-HC: A Secure, Scalable, and Energy-Efficient Blockchain Model for… | The British Blockchain Association (The BBA) | [Read More](https://medium.com/p/523f4b2b0942) |
 | Fri, 04 Jul 2025 11:11:25 GMT | How I became a Penetration Tester — The Unconventional Path From Hotel Management to Penetration… | Chef de Jeman | [Read More](https://medium.com/p/32eb47e37b7a) |
 | Fri, 04 Jul 2025 11:04:30 GMT | Secrets in the Shadows: How to Hunt for Exposed API Keys and Tokens Like a Pro | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1baf80be24d9) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 05:14:17 GMT | Protect Your Future: Why Cybersecurity Skills Matter Today | Work Rashmi | [Read More](https://medium.com/p/2c28c17bc683) |
 | Fri, 04 Jul 2025 05:10:29 GMT | 2025’te FinTech Sektörünü Bekleyen Siber Tehditler | Ali Ekber KARA | [Read More](https://medium.com/p/5d9855fb8934) |
 | Fri, 04 Jul 2025 05:07:32 GMT | ✈️ Qantas Data Breach and the Scattered Spider Threat: A Cybersecurity Wake-Up Call | Sayan Raha | [Read More](https://medium.com/p/9af4946043e6) |
-| Fri, 04 Jul 2025 04:57:03 GMT | What is Network Architecture? And, How Does It Work? | Securis360 Inc. | [Read More](https://medium.com/p/e2281434429e) |
-| Fri, 04 Jul 2025 04:48:22 GMT | Day 41: Check In | Nile Okomo | [Read More](https://medium.com/p/27a5bd2185b8) |
-| Fri, 04 Jul 2025 04:47:07 GMT | Bug Bounty Lessons from Two Out-of-Scope Reports: A Learning Journey, Not Just a Win Story | Asadujjaman Asif | [Read More](https://medium.com/p/9db3e40ae587) |
-| Fri, 04 Jul 2025 04:43:18 GMT | Emerging Cyber Threats You Must Prepare For in 2025 | Ekene Joseph | [Read More](https://medium.com/p/0c40a5c42448) |
-| Fri, 04 Jul 2025 04:36:01 GMT | Network Security: More Than Just Firewalls and Passwords | The Hackers Meetup | [Read More](https://medium.com/p/1c1b5d5fde51) |
-| Fri, 04 Jul 2025 04:36:01 GMT | Your Company Could Be Havoc’d by a Deepfake CEO Call — And You’d Never Know | Sneha Rani | [Read More](https://medium.com/p/5bbaf82f9644) |
-| Fri, 04 Jul 2025 04:34:35 GMT | Cybersecurity Frameworks: Because “Just Don’t Get Hacked” Isn’t a Real Strategy | DarKVoicE | [Read More](https://medium.com/p/6a04fa881739) |
