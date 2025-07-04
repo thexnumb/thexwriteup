@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 18:36:48 GMT | Oops, I Did It Again | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/7c16ba46608f) |
+| Fri, 04 Jul 2025 18:34:44 GMT | Day 38: What is SOX? Understanding the Sarbanes-Oxley Act and Internal Controls | Brittney Ginther | [Read More](https://medium.com/p/a90240e37486) |
+| Fri, 04 Jul 2025 18:34:06 GMT | The $300 Bug: How a Long Email Field Triggered a Partial DoS on Sorare’s Backend | Monika sharma | [Read More](https://medium.com/p/e1455f11ac3f) |
+| Fri, 04 Jul 2025 18:31:39 GMT | Independence and Interdependence: NotPetya Ransomware (2017) | Oludare Stephen Ayobami | [Read More](https://medium.com/p/167240b3f1f6) |
+| Fri, 04 Jul 2025 18:29:45 GMT | Spring Boot 3.5 Breaking Multipart File Uploads? Here’s the Fix You Need | Keerthanacdurai | [Read More](https://medium.com/p/bcbfe50d0310) |
 | Fri, 04 Jul 2025 18:26:09 GMT | BrutDroid: The Ultimate Beginner’s Tool to Set Up an Android Pentesting Lab | Saumadip Mandal | [Read More](https://medium.com/p/15d2e92e2d67) |
 | Fri, 04 Jul 2025 18:21:23 GMT | My First Bug Bounty Story | Zaid Arif | [Read More](https://medium.com/p/df3abe7a7936) |
 | Fri, 04 Jul 2025 18:14:12 GMT | A Newbie’s Write-up of the SWU CTF: Network part | Athiwat Tiprasaharn | [Read More](https://medium.com/p/1f4603b556c8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 12:02:54 GMT | 2 Star Security Door Handle: The Essential Upgrade for Safer Homes | Lock Fitter | [Read More](https://medium.com/p/6df4c121a558) |
 | Fri, 04 Jul 2025 11:52:15 GMT | What Spotify Taught Me About Strategy, AI, and User Experience | Visha Chauhan | [Read More](https://medium.com/p/d4bd791d1561) |
 | Fri, 04 Jul 2025 11:50:12 GMT | Azure Intersite Connectivity with AZD and Bicep: A Step-by-Step Deep Dive | Dave R - Microsoft Azure & AI MVP☁️ | [Read More](https://medium.com/p/5a683aae30ef) |
-| Fri, 04 Jul 2025 11:49:30 GMT | XLMRat Lab Cyberdefender Writeup | zal ef | [Read More](https://medium.com/p/d9a79ced6b82) |
-| Fri, 04 Jul 2025 11:49:17 GMT | “Fix Ledger Security Key Login Issues & Contact Customer Support” | Sam smith | [Read More](https://medium.com/p/63952c57a2d3) |
-| Fri, 04 Jul 2025 11:48:15 GMT | Who is Soham Parekh? And How Did He Crack Multiple Startup Jobs at Once? | Yash Dezdok | [Read More](https://medium.com/p/3676984bf9c4) |
-| Fri, 04 Jul 2025 11:37:28 GMT | Hire Hacker - Malware - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/a7ada6cc1ecb) |
-| Fri, 04 Jul 2025 11:36:53 GMT | Forget DevOps — Supply Chain Is the Silent Killer | Sneha Rani | [Read More](https://medium.com/p/1876b05ab256) |
