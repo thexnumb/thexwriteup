@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 13:31:51 GMT | Part 4: DevSecOps in Mission-Critical Defense Applications | DiPAK KNVDL | [Read More](https://medium.com/p/cd5f64980c94) |
+| Fri, 04 Jul 2025 13:30:23 GMT | Leveraging Burp Bambdas for Quick Wins | Kulkan Security | [Read More](https://medium.com/p/10cc5fa32a08) |
+| Fri, 04 Jul 2025 13:29:49 GMT | Fractional QA/RA 2.0 | Daniel James | [Read More](https://medium.com/p/18c140f54a72) |
+| Fri, 04 Jul 2025 13:15:11 GMT | TryHackMe Internal — Walkthrough | mauzware | [Read More](https://medium.com/p/e35fce80bcef) |
+| Fri, 04 Jul 2025 13:11:50 GMT | Is Your Banking App Leaking Sensitive Data? The Hidden Threat of Unencrypted Traffic | Finstein.ai | [Read More](https://medium.com/p/b5c158ee1fe7) |
+| Fri, 04 Jul 2025 13:10:05 GMT | 10 Most Common Web Vulnerabilities & How to Fix Them (OWASP Top 10) | Sagar Majumdar | [Read More](https://medium.com/p/0b971c4b1293) |
+| Fri, 04 Jul 2025 13:06:39 GMT | Set Up Domain-Leak Alerts in 2 Minutes — Enterprise How-To (2025) | Alexandre Vandamme | [Read More](https://medium.com/p/6c532924d62d) |
+| Fri, 04 Jul 2025 13:00:10 GMT | Stop Storing Passwords — Even Hashed. Do This Instead | Anmol Sehgal | [Read More](https://medium.com/p/ec303229ded5) |
+| Fri, 04 Jul 2025 12:58:45 GMT | A Comprehensive Nmap Network Reconnaissance Methodology for Pentesters | GABBYTECH | [Read More](https://medium.com/p/705f9924ccf5) |
+| Fri, 04 Jul 2025 12:58:05 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/dbf215447b8e) |
+| Fri, 04 Jul 2025 12:56:42 GMT | Billing Room Walkthrough (TryHackMe): From Initial Access to Root — Step by Step | N4rn!4n_142 | [Read More](https://medium.com/p/dfd7027e5fdb) |
+| Fri, 04 Jul 2025 12:44:34 GMT | Precious Info Falls Into Corporate Grasp | Jim Katzaman - Get Out of Debt | [Read More](https://medium.com/p/6cdc13efe0b8) |
+| Fri, 04 Jul 2025 12:44:31 GMT | How I Learned to Think Like a Hacker - and How You Can Too | J. Baselier | [Read More](https://medium.com/p/f6b7eebeaa64) |
 | Fri, 04 Jul 2025 12:42:33 GMT | AI Penetration Testing: Secure LLMs from Vulnerabilities | VisionX Technologies | [Read More](https://medium.com/p/0cccb21109b7) |
+| Fri, 04 Jul 2025 12:41:23 GMT | Computer Components for Begginner | CyberLearn | [Read More](https://medium.com/p/3b0eeb1a8a22) |
 | Fri, 04 Jul 2025 12:35:51 GMT | Protect Your Business: The Essential Guide to Cyber Security Services | Einnosystech | [Read More](https://medium.com/p/14f67eada593) |
 | Fri, 04 Jul 2025 12:28:02 GMT | This Week in Cybersecurity: KEV Additions, Botnet Escalation, and Espionage Campaigns Unfold | Loginsoft | [Read More](https://medium.com/p/2353c5ea81f0) |
 | Fri, 04 Jul 2025 12:23:57 GMT | Why Affordable Security Guards in Delhi Are in High Demand | Sumintra | [Read More](https://medium.com/p/f683646b5a14) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 07:45:49 GMT | Behind the Scenes: How Pre-Prod Leaks Led Me to Prod Secrets | Iski | [Read More](https://medium.com/p/6cea22dcc64e) |
 | Fri, 04 Jul 2025 07:45:18 GMT | Hardening Docker Deployments with SafeLine WAF Integration | Quella | [Read More](https://medium.com/p/cdba12be4851) |
 | Fri, 04 Jul 2025 07:44:58 GMT | Penetration Testing Blind Spots: Why Scope Matters More Than You Think | Attaxion Team | [Read More](https://medium.com/p/5daccb1b2330) |
-| Fri, 04 Jul 2025 07:40:35 GMT | Fortifying the Digital Realm: Understanding Data Encryption Standards | ITIO INNOVEX | [Read More](https://medium.com/p/db5fe94943b6) |
-| Fri, 04 Jul 2025 07:38:50 GMT | The Importance of Cybersecurity in Today’s Digital World | Nirma Nethmini | [Read More](https://medium.com/p/615b2c6016c1) |
-| Fri, 04 Jul 2025 07:37:36 GMT | Broken Access Control part-12 : Multi-step process with no access control on one step | Ahmad Sopyan | [Read More](https://medium.com/p/c50458a421c7) |
-| Fri, 04 Jul 2025 07:28:17 GMT | Secure Your Digital Space with the Best VAPT Service — StrongBox IT | StrongBox IT | [Read More](https://medium.com/p/d79ed8346be5) |
-| Fri, 04 Jul 2025 07:25:49 GMT | How to Record and Share Terminal Sessions Using asciinema | N473 | [Read More](https://medium.com/p/b5dc1224a229) |
-| Fri, 04 Jul 2025 07:22:08 GMT | ️ OSPF GTSM (Generalized TTL Security Mechanism) | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/a87ef197c792) |
-| Fri, 04 Jul 2025 07:19:12 GMT | MCP Security Breaches Are Rising. Here’s How to Fix It | AppVin Technologies | [Read More](https://medium.com/p/4adbd9434d32) |
-| Fri, 04 Jul 2025 07:14:19 GMT | Why Embracing Vulnerability Is the Key to Real Growth | Mg Yit | [Read More](https://medium.com/p/ac66507789f6) |
-| Fri, 04 Jul 2025 07:04:26 GMT | ประจำวันศุกร์ที่ 4 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/66c1a1f67fb7) |
-| Fri, 04 Jul 2025 06:58:00 GMT | Cyber Security Summer Internship for Freshers in Delhi | cyber security Updates | [Read More](https://medium.com/p/a76ab7754226) |
-| Fri, 04 Jul 2025 06:56:52 GMT | Autonomy or Autocracy? How Military Tactics Parallel Software Delivery | Namir Sagheenanajar | [Read More](https://medium.com/p/7ca3aeac1376) |
-| Fri, 04 Jul 2025 06:53:30 GMT | How I passed the CompTIA Security+ SY0–701 | Krishna | [Read More](https://medium.com/p/ccaf84f76909) |
-| Fri, 04 Jul 2025 06:48:17 GMT | A Beginner’s Guide to Ethical Hacking with Python | Cyberscope | [Read More](https://medium.com/p/1db729f259c6) |
-| Fri, 04 Jul 2025 06:45:18 GMT | Task 11- Persistence (TryHackMe Industrial Intrusion CTF 2025 | Affan Ali Muslim PK | [Read More](https://medium.com/p/df75edefca34) |
