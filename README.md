@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 15:50:52 GMT | Forex Scam Exposed: How They Lure You In And Empty Your Wallet. | The Anti-Scam Diaries | [Read More](https://medium.com/p/8a4f1baf97e5) |
 | Fri, 04 Jul 2025 15:32:39 GMT | The Dark Web Mystery | Torzle Admin | [Read More](https://medium.com/p/cee339c722b6) |
 | Fri, 04 Jul 2025 15:31:44 GMT | Ready for the Future? These 9 AI Skills You Should Know! | Abu Toha | [Read More](https://medium.com/p/a3019279b592) |
 | Fri, 04 Jul 2025 15:31:42 GMT | How Go’s Race Detector Catches Concurrency Bugs — Internals Explained | TheOpinionatedDev | [Read More](https://medium.com/p/0f2d5f0488aa) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 09:55:36 GMT | Comprehensive Security and Housekeeping Solutions in Delhi NCR: Your Safety, Our Responsibility | securasecurty | [Read More](https://medium.com/p/57e3f3795584) |
 | Fri, 04 Jul 2025 09:51:02 GMT | WormGPT: The Dark Side of Generative AI in Cybersecurity | Zino jo | [Read More](https://medium.com/p/192c7c5b78d6) |
 | Fri, 04 Jul 2025 09:47:55 GMT | How to Integrate AI Chatbots in Flutter Apps | Softs Solution Service | [Read More](https://medium.com/p/9f36ce849cb3) |
-| Fri, 04 Jul 2025 09:46:20 GMT | Kali GPT: Potential, and the Reality of AI in Offensive Security | Zino jo | [Read More](https://medium.com/p/5e1a2a31aab8) |
