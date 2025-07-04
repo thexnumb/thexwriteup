@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 23:34:41 GMT | SQL Prepared Statements ain’t that safer | David Gallay | [Read More](https://medium.com/p/566b3447e8ad) |
+| Fri, 04 Jul 2025 23:32:52 GMT | FortiGuard AI-Powered Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/9dfd160aaf5d) |
+| Fri, 04 Jul 2025 23:28:18 GMT | WGEL CTF TryHackMe | Mazen Mohamed | [Read More](https://medium.com/p/5ca10f320d83) |
+| Fri, 04 Jul 2025 23:18:35 GMT | THE ROAD TO WRITING GARBAGE CODE | Oubeid Mezni | [Read More](https://medium.com/p/2273c5d80473) |
 | Fri, 04 Jul 2025 23:07:33 GMT | A look at Brazil’s Largest Financial Hack: Junior Developer Sells Access for $900 over a couple of… | Andre Camillo, CISSP | [Read More](https://medium.com/p/cb95df61771d) |
 | Fri, 04 Jul 2025 22:58:50 GMT | Learn about AI-Related Risks and AI Risk Management | Temitope Omosebi | [Read More](https://medium.com/p/21b8e2a89fc0) |
 | Fri, 04 Jul 2025 22:03:55 GMT | How to Reap the Best Rewards from DORK $DORK | $DORK (DORK) | [Read More](https://medium.com/p/a0a3927edfed) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 14:07:04 GMT | Major Cyber Attacks, Ransomware Attacks and Data Breaches of June 2025 | IT_Engineer | [Read More](https://medium.com/p/d9a75056227d) |
 | Fri, 04 Jul 2025 14:04:07 GMT | Don’t Get Held Hostage: Understanding and Thwarting Ransomware | CFE Consultancy Services | [Read More](https://medium.com/p/e840d9705008) |
 | Fri, 04 Jul 2025 14:02:17 GMT | What is the Role and Uses of AI in Cybersecurity Today? | Shriyansh Tiwari | [Read More](https://medium.com/p/13838e5120e5) |
-| Fri, 04 Jul 2025 14:01:53 GMT | NIST’s New AI Security Framework: What Mid-Market Companies Need to Know | Eric Zietlow | [Read More](https://medium.com/p/d5be6e86de03) |
-| Fri, 04 Jul 2025 14:01:39 GMT | Elevate Your Recon: Beyond the Basics with Custom GF Patterns | CypherNova1337 | [Read More](https://medium.com/p/9260ca6167c2) |
-| Fri, 04 Jul 2025 13:58:55 GMT | Mimikatz Cheatsheet — Practical Credential Dumping Guide from Labs & Real-World Scenarios | Mohamed Ashraf | [Read More](https://medium.com/p/8ec38625f666) |
-| Fri, 04 Jul 2025 13:56:46 GMT | ⚡ “Bro, Is This Site Safe?” — How I Ended Up Building an AI Security Assistant | Arjun Santhosh | [Read More](https://medium.com/p/204298c99856) |
