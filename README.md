@@ -12,11 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 22:03:55 GMT | How to Reap the Best Rewards from DORK $DORK | $DORK (DORK) | [Read More](https://medium.com/p/a0a3927edfed) |
+| Fri, 04 Jul 2025 21:58:54 GMT | TryHackMe — Basic Pentesting Walkthrough | A_SKILLER_007 | [Read More](https://medium.com/p/8d3d6b77f642) |
+| Fri, 04 Jul 2025 21:58:25 GMT | Oracle 9: Write-Up | A Learner | [Read More](https://medium.com/p/edfb818d171a) |
+| Fri, 04 Jul 2025 21:46:26 GMT | How I Ended Up in Cybersecurity (And How You Can Too) | Kentucky Mathitis | [Read More](https://medium.com/p/f85370c2e0ff) |
 | Fri, 04 Jul 2025 21:29:36 GMT | How SQL Injection Attacks Work (for Beginners) | Eric Dennis | [Read More](https://medium.com/p/f098c6673807) |
 | Fri, 04 Jul 2025 21:21:17 GMT | DNS: A Lista Telefônica WEB | Filipe Campos | [Read More](https://medium.com/p/50c3b0904c50) |
 | Fri, 04 Jul 2025 21:15:05 GMT | HTB Forest: A Step-by-Step Guide to Active Directory Exploitation and Automation | Michael Moomey | [Read More](https://medium.com/p/8d9ecad7a605) |
 | Fri, 04 Jul 2025 21:14:57 GMT | Spring Security (Authentications and Authorizations with UserService  (Spring boot ) . | Ayush Raj Cs | [Read More](https://medium.com/p/6d85d35cbce9) |
 | Fri, 04 Jul 2025 21:13:03 GMT | When Holding On Means Everything | Tami | [Read More](https://medium.com/p/25862e17a955) |
+| Fri, 04 Jul 2025 21:09:07 GMT | CVE-2023–46604 and the Billions Stolen from the Central Bank of Brazil: How a Lack of Business… | Alan Arantes - Enterprise & System Architect | [Read More](https://medium.com/p/469bd9405417) |
 | Fri, 04 Jul 2025 21:04:45 GMT | New Focus on Training Path — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/c69f41becff4) |
 | Fri, 04 Jul 2025 20:56:53 GMT | Boost Your DORK $DORK Strategy with These Expert Tips | $DORK (DORK) | [Read More](https://medium.com/p/59dc52739556) |
 | Fri, 04 Jul 2025 20:56:10 GMT | Intermediate Lab Environment Part 6.b: Configure Windows VM-2 | Allen Ace | [Read More](https://medium.com/p/071b65c06315) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 13:56:46 GMT | ⚡ “Bro, Is This Site Safe?” — How I Ended Up Building an AI Security Assistant | Arjun Santhosh | [Read More](https://medium.com/p/204298c99856) |
 | Fri, 04 Jul 2025 13:50:11 GMT | Trojan Trouble: Unveiling the Deceptions of Digital Disguise | CFE Consultancy Services | [Read More](https://medium.com/p/c0bca6402449) |
 | Fri, 04 Jul 2025 13:50:03 GMT | An Insecure Direct Object Reference (IDOR) vulnerability occurs when a web application exposes… | Omniaelagroudy | [Read More](https://medium.com/p/edbe4f6d988d) |
-| Fri, 04 Jul 2025 13:48:34 GMT | The Security Conflict: Man and Machine | Samuel Douglas Ogenrwoth | [Read More](https://medium.com/p/54eed16dfeed) |
-| Fri, 04 Jul 2025 13:45:33 GMT | Inside Active Directory — Components, Teminology -Part1 | himanshu maurya | [Read More](https://medium.com/p/e37d74053677) |
-| Fri, 04 Jul 2025 13:42:37 GMT | Not Just OWASP: Deep Dive into Groww’s API Security Playbook | Groww Engineering Team | [Read More](https://medium.com/p/ab5e74ef1cb8) |
-| Fri, 04 Jul 2025 13:31:51 GMT | Part 4: DevSecOps in Mission-Critical Defense Applications | DiPAK KNVDL | [Read More](https://medium.com/p/cd5f64980c94) |
-| Fri, 04 Jul 2025 13:30:23 GMT | Leveraging Burp Bambdas for Quick Wins | Kulkan Security | [Read More](https://medium.com/p/10cc5fa32a08) |
