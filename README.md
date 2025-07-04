@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 21:13:03 GMT | When Holding On Means Everything | Tami | [Read More](https://medium.com/p/25862e17a955) |
+| Fri, 04 Jul 2025 21:04:45 GMT | New Focus on Training Path — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/c69f41becff4) |
+| Fri, 04 Jul 2025 20:56:53 GMT | Boost Your DORK $DORK Strategy with These Expert Tips | $DORK (DORK) | [Read More](https://medium.com/p/59dc52739556) |
+| Fri, 04 Jul 2025 20:56:10 GMT | Intermediate Lab Environment Part 6.b: Configure Windows VM-2 | Allen Ace | [Read More](https://medium.com/p/071b65c06315) |
+| Fri, 04 Jul 2025 20:54:01 GMT | SOC Automation Project Part-4 | rkn | [Read More](https://medium.com/p/54d6c3660557) |
+| Fri, 04 Jul 2025 20:49:37 GMT | CTF include- TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/4438f71f693f) |
+| Fri, 04 Jul 2025 20:45:50 GMT | Kali Linux Aracı: Seeker ile Sahte Link Üzerinden Konum ve IP Tespiti | Ömer Sefa Çarıkçı | [Read More](https://medium.com/p/07f5ea0f9583) |
+| Fri, 04 Jul 2025 20:45:27 GMT | Who Am I?- CyberTalents Walkthrough | Bridget | [Read More](https://medium.com/p/fbf9cd783ec6) |
 | Fri, 04 Jul 2025 20:18:41 GMT | Vulnversity - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/274b8394ee00) |
 | Fri, 04 Jul 2025 19:51:48 GMT | SSTI&CSTI Nedir? | Muhammed Kasım Doğan | [Read More](https://medium.com/p/32a62f0c8765) |
 | Fri, 04 Jul 2025 19:47:14 GMT | Your Data and Where It Lives | Santiago Bravo | [Read More](https://medium.com/p/b9b2d95b6a6d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 13:11:50 GMT | Is Your Banking App Leaking Sensitive Data? The Hidden Threat of Unencrypted Traffic | Finstein.ai | [Read More](https://medium.com/p/b5c158ee1fe7) |
 | Fri, 04 Jul 2025 13:10:05 GMT | 10 Most Common Web Vulnerabilities & How to Fix Them (OWASP Top 10) | Sagar Majumdar | [Read More](https://medium.com/p/0b971c4b1293) |
 | Fri, 04 Jul 2025 13:06:39 GMT | Set Up Domain-Leak Alerts in 2 Minutes — Enterprise How-To (2025) | Alexandre Vandamme | [Read More](https://medium.com/p/6c532924d62d) |
-| Fri, 04 Jul 2025 13:00:10 GMT | Stop Storing Passwords — Even Hashed. Do This Instead | Anmol Sehgal | [Read More](https://medium.com/p/ec303229ded5) |
-| Fri, 04 Jul 2025 12:58:45 GMT | A Comprehensive Nmap Network Reconnaissance Methodology for Pentesters | GABBYTECH | [Read More](https://medium.com/p/705f9924ccf5) |
-| Fri, 04 Jul 2025 12:58:05 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/dbf215447b8e) |
-| Fri, 04 Jul 2025 12:56:42 GMT | Billing Room Walkthrough (TryHackMe): From Initial Access to Root — Step by Step | N4rn!4n_142 | [Read More](https://medium.com/p/dfd7027e5fdb) |
-| Fri, 04 Jul 2025 12:44:34 GMT | Precious Info Falls Into Corporate Grasp | Jim Katzaman - Get Out of Debt | [Read More](https://medium.com/p/6cdc13efe0b8) |
-| Fri, 04 Jul 2025 12:44:31 GMT | How I Learned to Think Like a Hacker - and How You Can Too | J. Baselier | [Read More](https://medium.com/p/f6b7eebeaa64) |
-| Fri, 04 Jul 2025 12:42:33 GMT | AI Penetration Testing: Secure LLMs from Vulnerabilities | VisionX Technologies | [Read More](https://medium.com/p/0cccb21109b7) |
-| Fri, 04 Jul 2025 12:41:23 GMT | Computer Components for Begginner | CyberLearn | [Read More](https://medium.com/p/3b0eeb1a8a22) |
