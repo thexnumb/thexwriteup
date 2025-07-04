@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 19:20:24 GMT | Iranian Threat Activity Escalates: U.S. Agencies Warn Defense and Critical Infrastructure Sectors | RealSec.io | [Read More](https://medium.com/p/a5be9aee278b) |
 | Fri, 04 Jul 2025 19:12:56 GMT | Broken Access Control part-13 : Referer-based access control | Ahmad Sopyan | [Read More](https://medium.com/p/40f148855c8b) |
 | Fri, 04 Jul 2025 19:07:44 GMT | Mastering Nmap: The Ultimate Guide for Ethical Hackers and Security Pros | Rushikesh G | [Read More](https://medium.com/p/b1fdf5673991) |
 | Fri, 04 Jul 2025 19:05:47 GMT | Securing Microsoft Fabric: Outbound Traffic | Amirhossein Borghei Razavi | [Read More](https://medium.com/p/18c07ba61551) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 12:23:57 GMT | Why Affordable Security Guards in Delhi Are in High Demand | Sumintra | [Read More](https://medium.com/p/f683646b5a14) |
 | Fri, 04 Jul 2025 12:22:06 GMT | Dignity Comes with Responsibility | EXLITY | [Read More](https://medium.com/p/32d8e5df40e8) |
 | Fri, 04 Jul 2025 12:14:09 GMT | Information at Scale — The Foundations of Data | Aliemregursu | [Read More](https://medium.com/p/47277769ac43) |
-| Fri, 04 Jul 2025 12:12:45 GMT | Top Offensive Security Services in UAE for Proactive Cyber Defense | Ahad me | [Read More](https://medium.com/p/72bcd05b7e9d) |
