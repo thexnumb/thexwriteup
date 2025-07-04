@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 09:33:00 GMT | DevOps in Defense Systems | DiPAK KNVDL | [Read More](https://medium.com/p/a47667dff10b) |
+| Fri, 04 Jul 2025 09:25:20 GMT | Lo-Fi — TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/185e8145584c) |
+| Fri, 04 Jul 2025 09:19:37 GMT | Why You Should Never Rely on Just One Layer of Validation — API vs. Database | Malaya | [Read More](https://medium.com/p/c8a7cc0e674d) |
+| Fri, 04 Jul 2025 09:19:28 GMT | Understanding Network Security in Networking: Essential Protocols and Best Practices | Career Security: Tech Training & Certifications | [Read More](https://medium.com/p/35190fc1d398) |
+| Fri, 04 Jul 2025 09:15:00 GMT | They hacked Qantas! | Chris Bronk | [Read More](https://medium.com/p/c554110b5303) |
+| Fri, 04 Jul 2025 09:12:23 GMT | Healthcare Data Center Security: Protecting Patient Information in Qatar | Tekhabeeb | [Read More](https://medium.com/p/ee353540a61c) |
 | Fri, 04 Jul 2025 09:09:26 GMT | Why care about attack surface & risk management? | Ziya Zoe | [Read More](https://medium.com/p/9523ad14fac7) |
 | Fri, 04 Jul 2025 09:04:30 GMT | A Week in the Trenches: A Cybersecurity Journey | jada francis | [Read More](https://medium.com/p/4627459d4ce9) |
 | Fri, 04 Jul 2025 09:02:48 GMT | FortiGate Sanal Makinesi (Hyper-V) Ağ Bağlantı Sorunu ve Çözümü | yusa yusuf kaya | [Read More](https://medium.com/p/f5cb772048d1) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 02:17:11 GMT | AI Just Suggested a Fake Package — And You Probably Installed It | Sneha Rani | [Read More](https://medium.com/p/e04e0943bdc4) |
 | Fri, 04 Jul 2025 02:05:34 GMT | Azure Honeypot with Live Traffic | Rajesh Prasad | [Read More](https://medium.com/p/6de04990e651) |
 | Fri, 04 Jul 2025 02:05:06 GMT | Google’s Android Warning For 3 Billion Users: Change This Setting Now | Nauman khan | [Read More](https://medium.com/p/746f75bea0f8) |
-| Fri, 04 Jul 2025 01:55:20 GMT | 200+ Life Hacks Review | xuanthuan123 | [Read More](https://medium.com/p/6297d3486b08) |
-| Fri, 04 Jul 2025 01:44:50 GMT | Ejercicio Active Directory, VPN Pivoting y Escalada de Privilegios | Luis Angel Ramirez Mendoza | [Read More](https://medium.com/p/73de6418a736) |
-| Fri, 04 Jul 2025 01:36:59 GMT | Internal writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/f69573d4372b) |
-| Fri, 04 Jul 2025 01:04:54 GMT | Cloudbric Services Progress Report (6/1 ~ 6/30) | Cloudbric | [Read More](https://medium.com/p/266c90acc5cd) |
-| Fri, 04 Jul 2025 00:56:59 GMT | Cloudbric Services Progress Report (6/1 ~ 6/30) | Cloudbric | [Read More](https://medium.com/p/aaaace4cbb73) |
-| Fri, 04 Jul 2025 00:51:41 GMT | Exploitation of Apache Tomcat and Apache Camel Vulnerabilities Observed Post-Disclosure | RealSec.io | [Read More](https://medium.com/p/09ec2a655b14) |
