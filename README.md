@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 10:14:25 GMT | ️ RedTeamGPT: The AI Assistant Revolutionizing Offensive Security | Carylrobert | [Read More](https://medium.com/p/905b275f8204) |
+| Fri, 04 Jul 2025 10:11:34 GMT | Best WhatsApp Spy Apps: Monitor Chats Secretly | Narjis Batool | [Read More](https://medium.com/p/208872df4019) |
+| Fri, 04 Jul 2025 10:11:10 GMT | The Web3 Founder Opportunity | UnionKey | [Read More](https://medium.com/p/ec0055a74d42) |
+| Fri, 04 Jul 2025 10:08:01 GMT | Mind the Gap: How Gap Analysis Keeps Your Cybersecurity Strategy from Being a Delusion | DarKVoicE | [Read More](https://medium.com/p/689d25a391ec) |
+| Fri, 04 Jul 2025 10:07:07 GMT | ⚔️ KaliGPT: The AI Co-Pilot for Ethical Hackers — Hype, Truth & Use Cases | Carylrobert | [Read More](https://medium.com/p/4730b2f77d0e) |
+| Fri, 04 Jul 2025 10:06:12 GMT | Vulnerabilities in Architectures & Designs | Igor Berner | [Read More](https://medium.com/p/a947c7d15a2b) |
+| Fri, 04 Jul 2025 10:05:45 GMT | 5 Ways an Information Kiosk Machine Can Modernize Public Spaces | Rakesh | [Read More](https://medium.com/p/3fd2fef367eb) |
+| Fri, 04 Jul 2025 10:04:11 GMT | What Is WormGPT? The Real-world use cases and threats in 2025 | Carylrobert | [Read More](https://medium.com/p/655d590e1b40) |
+| Fri, 04 Jul 2025 10:01:54 GMT | 7 Steps To Understand OAuth2 | Jérémie Litzler | [Read More](https://medium.com/p/65d3e8f6b500) |
+| Fri, 04 Jul 2025 09:59:48 GMT | RCE using XSS , This room provide you a good skill of hacking. | Mr Horbio | [Read More](https://medium.com/p/e588e2e0a2b7) |
+| Fri, 04 Jul 2025 09:59:16 GMT | Understanding User Authentication: The First Line of Defense in Cybersecurity | Vinay Jadhav | [Read More](https://medium.com/p/7dfc09bb13fb) |
+| Fri, 04 Jul 2025 09:57:19 GMT | Understanding the MITRE ATT&CK framework for threat modeling | Cloud4C Services | [Read More](https://medium.com/p/bc8516fbc814) |
+| Fri, 04 Jul 2025 09:55:36 GMT | Comprehensive Security and Housekeeping Solutions in Delhi NCR: Your Safety, Our Responsibility | securasecurty | [Read More](https://medium.com/p/57e3f3795584) |
+| Fri, 04 Jul 2025 09:51:02 GMT | WormGPT: The Dark Side of Generative AI in Cybersecurity | Zino jo | [Read More](https://medium.com/p/192c7c5b78d6) |
+| Fri, 04 Jul 2025 09:47:55 GMT | How to Integrate AI Chatbots in Flutter Apps | Softs Solution Service | [Read More](https://medium.com/p/9f36ce849cb3) |
+| Fri, 04 Jul 2025 09:46:20 GMT | Kali GPT: Potential, and the Reality of AI in Offensive Security | Zino jo | [Read More](https://medium.com/p/5e1a2a31aab8) |
+| Fri, 04 Jul 2025 09:45:55 GMT | What’s New in MCP 2025‑06‑18 Release? Security, Structured Tools & Elicitation | Yann Jouanin | [Read More](https://medium.com/p/efd92eb5ab7c) |
+| Fri, 04 Jul 2025 09:41:47 GMT | AI-Powered & Automated Penetration Testing: The Next Era of Offensive Security | Zino jo | [Read More](https://medium.com/p/bc73ba64f770) |
+| Fri, 04 Jul 2025 09:37:44 GMT | From Hacked to Hacker (Ethical): My Quiet Cybersecurity Journey | Tatiana Lisdasari | [Read More](https://medium.com/p/869628d837d6) |
 | Fri, 04 Jul 2025 09:33:00 GMT | DevOps in Defense Systems | DiPAK KNVDL | [Read More](https://medium.com/p/a47667dff10b) |
 | Fri, 04 Jul 2025 09:25:20 GMT | Lo-Fi — TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/185e8145584c) |
 | Fri, 04 Jul 2025 09:19:37 GMT | Why You Should Never Rely on Just One Layer of Validation — API vs. Database | Malaya | [Read More](https://medium.com/p/c8a7cc0e674d) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 04:16:10 GMT | Kali GPT: Your AI-Powered Assistant for Penetration Testing | Mr Joe | [Read More](https://medium.com/p/a298028359e9) |
 | Fri, 04 Jul 2025 04:15:56 GMT | The Rise of Ransomware-as-a-Service | Saikat Paul | [Read More](https://medium.com/p/48c9bc05936c) |
 | Fri, 04 Jul 2025 04:12:53 GMT | ️ Build A Complete Linux Backup Server Project-Remote Backup & Automation(Part- 2) | Anivesh Mohan | [Read More](https://medium.com/p/e9cf8af0b809) |
-| Fri, 04 Jul 2025 04:02:23 GMT | The Hidden Risks in Your Dependencies: SCA for Developers | Ayush Bulbule | [Read More](https://medium.com/p/fd0b7cb0c27b) |
-| Fri, 04 Jul 2025 03:58:39 GMT | AI: THE DIGITAL GUARDIAN THAT CAN BECOME A DOUBLE-EDGED SWORD | Yuan Reynaldo | [Read More](https://medium.com/p/20afdc2884eb) |
-| Fri, 04 Jul 2025 03:55:58 GMT | Quantum Computing vs. Current Encryption: The Ticking Time Bomb | Saikat Paul | [Read More](https://medium.com/p/42a411ff80fd) |
-| Fri, 04 Jul 2025 03:43:27 GMT | Krypton: A Journey Through Classic Cryptography (Levels 0–7) | Gopal Mohan | [Read More](https://medium.com/p/dd574e33d27e) |
-| Fri, 04 Jul 2025 03:38:57 GMT | From 18 Minutes to 4 Minutes: How We Cut Threat Analysis Time by 79% | Michael Rico | [Read More](https://medium.com/p/3ee19448d1f2) |
-| Fri, 04 Jul 2025 03:31:45 GMT | The Future of Threat Hunting and Investigation : ELK MCP Server | f0xy_pr0xy | [Read More](https://medium.com/p/caef1c184024) |
-| Fri, 04 Jul 2025 03:31:42 GMT | 5 Key Principles of Service-Oriented Architecture | Arunangshu Das | [Read More](https://medium.com/p/184c6d198dfa) |
-| Fri, 04 Jul 2025 03:31:42 GMT | When AI Crosses the Line: Fake Passports, Prompt Hacks & the Dark Side of Image Generation | Deven Chhajed | [Read More](https://medium.com/p/dd88627c4ceb) |
-| Fri, 04 Jul 2025 03:29:37 GMT | A Wake-Up Call in the Digital Age | Ukezi Ebenezer Nwachukwu | [Read More](https://medium.com/p/3f17ab3b2efd) |
-| Fri, 04 Jul 2025 03:21:22 GMT | When Everyone Started Sounding Smarter Than Me in the Corporate Environment | DarKVoicE | [Read More](https://medium.com/p/22b360c1910f) |
-| Fri, 04 Jul 2025 03:09:27 GMT | CIA Triad: Model Penjaga Sistem Keamanan | Muhammad Akhtar Khawarizmi | [Read More](https://medium.com/p/19af17e61ebd) |
-| Fri, 04 Jul 2025 03:02:10 GMT | ️ Day 1: Introduction to Cybersecurity - 45 Days of Cybersecurity with SutraByte | Vinayak | [Read More](https://medium.com/p/400e5131d0c5) |
-| Fri, 04 Jul 2025 02:55:32 GMT | ️ WIZ Ultimate Cloud Security Championship — June 2025 | Lemon | [Read More](https://medium.com/p/b92694fa4ed2) |
-| Fri, 04 Jul 2025 02:53:16 GMT | The Fundamentals of InfoSec: Protecting Your Digital Assets Like A Pro | DarKVoicE | [Read More](https://medium.com/p/c62c7d1488e9) |
-| Fri, 04 Jul 2025 02:43:47 GMT | Hacking, Virtual Machines, Linux, and Networking: Your Guide to the Digital World! | Naveen J | [Read More](https://medium.com/p/99d8ab5023aa) |
-| Fri, 04 Jul 2025 02:25:15 GMT | ejpt:Footprinting & Scanning ctf 1 walktrough | Boy Ansdica | [Read More](https://medium.com/p/8971b1202dd8) |
-| Fri, 04 Jul 2025 02:17:11 GMT | AI Just Suggested a Fake Package — And You Probably Installed It | Sneha Rani | [Read More](https://medium.com/p/e04e0943bdc4) |
-| Fri, 04 Jul 2025 02:05:34 GMT | Azure Honeypot with Live Traffic | Rajesh Prasad | [Read More](https://medium.com/p/6de04990e651) |
-| Fri, 04 Jul 2025 02:05:06 GMT | Google’s Android Warning For 3 Billion Users: Change This Setting Now | Nauman khan | [Read More](https://medium.com/p/746f75bea0f8) |
