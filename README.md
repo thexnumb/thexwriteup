@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 16:29:04 GMT | Add Any Email Without Verification — Logic Flaw in PIN Confirmation Flow | Yahaiemara | [Read More](https://medium.com/p/b74953c7921e) |
+| Fri, 04 Jul 2025 16:27:53 GMT | The DDoS Smoke Screen - Why Restoring Uptime Might Be Your Worst Mistake | Avnishyam | [Read More](https://medium.com/p/4a31ddbb71b9) |
+| Fri, 04 Jul 2025 16:21:00 GMT | Kubernetes Was Built for Herding Flocks of Services — We Make It Tame Packs of Jobs | Jan Kneissler | [Read More](https://medium.com/p/0035dad7a8f0) |
 | Fri, 04 Jul 2025 15:50:52 GMT | Forex Scam Exposed: How They Lure You In And Empty Your Wallet. | The Anti-Scam Diaries | [Read More](https://medium.com/p/8a4f1baf97e5) |
 | Fri, 04 Jul 2025 15:32:39 GMT | The Dark Web Mystery | Torzle Admin | [Read More](https://medium.com/p/cee339c722b6) |
 | Fri, 04 Jul 2025 15:31:44 GMT | Ready for the Future? These 9 AI Skills You Should Know! | Abu Toha | [Read More](https://medium.com/p/a3019279b592) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 09:59:48 GMT | RCE using XSS , This room provide you a good skill of hacking. | Mr Horbio | [Read More](https://medium.com/p/e588e2e0a2b7) |
 | Fri, 04 Jul 2025 09:59:16 GMT | Understanding User Authentication: The First Line of Defense in Cybersecurity | Vinay Jadhav | [Read More](https://medium.com/p/7dfc09bb13fb) |
 | Fri, 04 Jul 2025 09:57:19 GMT | Understanding the MITRE ATT&CK framework for threat modeling | Cloud4C Services | [Read More](https://medium.com/p/bc8516fbc814) |
-| Fri, 04 Jul 2025 09:55:36 GMT | Comprehensive Security and Housekeeping Solutions in Delhi NCR: Your Safety, Our Responsibility | securasecurty | [Read More](https://medium.com/p/57e3f3795584) |
-| Fri, 04 Jul 2025 09:51:02 GMT | WormGPT: The Dark Side of Generative AI in Cybersecurity | Zino jo | [Read More](https://medium.com/p/192c7c5b78d6) |
-| Fri, 04 Jul 2025 09:47:55 GMT | How to Integrate AI Chatbots in Flutter Apps | Softs Solution Service | [Read More](https://medium.com/p/9f36ce849cb3) |
