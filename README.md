@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 01:44:50 GMT | Ejercicio Active Directory, VPN Pivoting y Escalada de Privilegios | Luis Angel Ramirez Mendoza | [Read More](https://medium.com/p/73de6418a736) |
+| Fri, 04 Jul 2025 01:36:59 GMT | Internal writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/f69573d4372b) |
+| Fri, 04 Jul 2025 01:04:54 GMT | Cloudbric Services Progress Report (6/1 ~ 6/30) | Cloudbric | [Read More](https://medium.com/p/266c90acc5cd) |
+| Fri, 04 Jul 2025 00:56:59 GMT | Cloudbric Services Progress Report (6/1 ~ 6/30) | Cloudbric | [Read More](https://medium.com/p/aaaace4cbb73) |
+| Fri, 04 Jul 2025 00:51:41 GMT | Exploitation of Apache Tomcat and Apache Camel Vulnerabilities Observed Post-Disclosure | RealSec.io | [Read More](https://medium.com/p/09ec2a655b14) |
+| Fri, 04 Jul 2025 00:46:58 GMT | HOW TO EXPLOIT ESC2 IN ADCS — IN DETAIL | 0xZ3US | [Read More](https://medium.com/p/63cce77ba647) |
+| Fri, 04 Jul 2025 00:41:53 GMT | ️ Mobile Pentesting: Keamanan Aplikasi Android AndroGOAT | Alex | [Read More](https://medium.com/p/62e4cec6e20c) |
+| Fri, 04 Jul 2025 00:37:37 GMT | Account Takeover via OTP Brute Force in E-commerce Platform . | Waleed Osama | [Read More](https://medium.com/p/7f764a2fb664) |
+| Fri, 04 Jul 2025 00:25:35 GMT | dnSpy—Static Analysis of a .NET Malware | R.D.Tarun | [Read More](https://medium.com/p/012806424acf) |
+| Fri, 04 Jul 2025 00:24:54 GMT | CTF US Cyber Open 2025 Writeup | Dee | [Read More](https://medium.com/p/475ab7497ace) |
+| Fri, 04 Jul 2025 00:02:54 GMT | GoBuster: Tu Herramienta Esencial para la Enumeración Web, el Pentesting y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/73ba413f3330) |
+| Thu, 03 Jul 2025 23:37:59 GMT | Deep Web y Dark Web: ¿Un misterio oculto o una realidad mal contada? | Tiziano Mass | [Read More](https://medium.com/p/1bcd5c18ddc8) |
+| Thu, 03 Jul 2025 23:32:52 GMT | Fortinet Secure SD-WAN: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/89b61ab28dc0) |
 | Thu, 03 Jul 2025 23:19:12 GMT | How I Unlocked Premium Features for Free via a Simple API Trick (Privilege Escalation Story) | MostReal | [Read More](https://medium.com/p/ac1b4edba454) |
 | Thu, 03 Jul 2025 22:55:44 GMT | Part 3: In-Memory Execution Methods — How Malware Lives Rent-Free in Your System | Kunal Rajour | [Read More](https://medium.com/p/42adcfbfd50a) |
 | Thu, 03 Jul 2025 22:51:19 GMT | Instant Walkthrough — HackTheBox | Mohammed Jawabri | [Read More](https://medium.com/p/ffe7f730c0d0) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 16:19:18 GMT | Qantas / Scatter Spider Call Center Breach — A Wake-Up Call on the Human Element in Cybersecurity | Roselyne | [Read More](https://medium.com/p/34dc884aa093) |
 | Thu, 03 Jul 2025 16:12:57 GMT | Why a Proactive Cybersecurity Strategy Is Crucial for eCommerce Success | RBM Software | [Read More](https://medium.com/p/903365948c5e) |
 | Thu, 03 Jul 2025 16:04:49 GMT | White Label SOC Services: A Game-Changer for MSPs and IT Providers | SafeAeon Inc. | [Read More](https://medium.com/p/9715dd98d9cd) |
-| Thu, 03 Jul 2025 16:02:21 GMT | Why I’m Terrified to Hit Publish (and you might be too) | Tiffany Deidre Miller | [Read More](https://medium.com/p/7f4eafd804f7) |
-| Thu, 03 Jul 2025 16:02:18 GMT | Flipper Zero Episode 3: Getting Started with GPIO and 3-in-1 Board Setup | Fahri | [Read More](https://medium.com/p/8f63aa3c0527) |
-| Thu, 03 Jul 2025 15:58:38 GMT | How Cybersecurity Is Becoming the Backbone of Modern Ecommerce in 2025 | RBM Software | [Read More](https://medium.com/p/f69c8916b806) |
-| Thu, 03 Jul 2025 15:50:35 GMT | Secure Your Family: Best Apps to Monitor Phone Activity | Ameradlr | [Read More](https://medium.com/p/b3f389e92401) |
-| Thu, 03 Jul 2025 15:49:10 GMT | Solve Proxy localhost Traffic through Burp and Zap. | pendukobyte | [Read More](https://medium.com/p/493e4c4730c3) |
-| Thu, 03 Jul 2025 15:37:05 GMT | Detecting Attacks in Real-Time with Falco and Grafana: A Beginner’s Guide | Lavanya Bhargava | [Read More](https://medium.com/p/070a2e428f20) |
-| Thu, 03 Jul 2025 15:35:56 GMT | Missing User Instructions In Dockerfiles-Know What and How | Jitendar Singh | [Read More](https://medium.com/p/21fff565bf58) |
-| Thu, 03 Jul 2025 15:31:38 GMT | PLA’s Multi-Domain Reorganization: Cyberspace, Aerospace, and Information Support Forces Reshape… | Wes Young | [Read More](https://medium.com/p/921aa6aeee46) |
-| Thu, 03 Jul 2025 15:31:08 GMT | How to Build Your First Threat Intelligence Workflow — From a Hacker Hunter’s Toolkit | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/66abe3dffe60) |
-| Thu, 03 Jul 2025 15:27:55 GMT | Industrial Intrusion CTF by TryHackMe | Santhos Sunthar | [Read More](https://medium.com/p/1006e92e9488) |
-| Thu, 03 Jul 2025 15:26:00 GMT | From LFI to RCE via PHP Sessions (PHP 5) — A Complete Guide with Real Examples | Zoningxtr | [Read More](https://medium.com/p/6ced00a1ae10) |
-| Thu, 03 Jul 2025 15:25:46 GMT | Understanding the Heart of Enterprise Networks: Active Directory | himanshu maurya | [Read More](https://medium.com/p/1186ec7a345e) |
-| Thu, 03 Jul 2025 15:22:34 GMT | The Bug You’ll Never See — Until You Flip the Flag | Đeepanshu | [Read More](https://medium.com/p/fbec93ad5fa9) |
