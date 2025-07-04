@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 03:43:27 GMT | Krypton: A Journey Through Classic Cryptography (Levels 0–7) | Gopal Mohan | [Read More](https://medium.com/p/dd574e33d27e) |
+| Fri, 04 Jul 2025 03:38:57 GMT | From 18 Minutes to 4 Minutes: How We Cut Threat Analysis Time by 79% | Michael Rico | [Read More](https://medium.com/p/3ee19448d1f2) |
+| Fri, 04 Jul 2025 03:31:45 GMT | The Future of Threat Hunting and Investigation : ELK MCP Server | f0xy_pr0xy | [Read More](https://medium.com/p/caef1c184024) |
+| Fri, 04 Jul 2025 03:31:42 GMT | 5 Key Principles of Service-Oriented Architecture | Arunangshu Das | [Read More](https://medium.com/p/184c6d198dfa) |
+| Fri, 04 Jul 2025 03:31:42 GMT | When AI Crosses the Line: Fake Passports, Prompt Hacks & the Dark Side of Image Generation | Deven Chhajed | [Read More](https://medium.com/p/dd88627c4ceb) |
+| Fri, 04 Jul 2025 03:29:37 GMT | A Wake-Up Call in the Digital Age | Ukezi Ebenezer Nwachukwu | [Read More](https://medium.com/p/3f17ab3b2efd) |
+| Fri, 04 Jul 2025 03:21:22 GMT | When Everyone Started Sounding Smarter Than Me in the Corporate Environment | DarKVoicE | [Read More](https://medium.com/p/22b360c1910f) |
+| Fri, 04 Jul 2025 03:09:27 GMT | CIA Triad: Model Penjaga Sistem Keamanan | Muhammad Akhtar Khawarizmi | [Read More](https://medium.com/p/19af17e61ebd) |
 | Fri, 04 Jul 2025 03:02:10 GMT | ️ Day 1: Introduction to Cybersecurity - 45 Days of Cybersecurity with SutraByte | Vinayak | [Read More](https://medium.com/p/400e5131d0c5) |
 | Fri, 04 Jul 2025 02:55:32 GMT | ️ WIZ Ultimate Cloud Security Championship — June 2025 | Lemon | [Read More](https://medium.com/p/b92694fa4ed2) |
 | Fri, 04 Jul 2025 02:53:16 GMT | The Fundamentals of InfoSec: Protecting Your Digital Assets Like A Pro | DarKVoicE | [Read More](https://medium.com/p/c62c7d1488e9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 17:34:32 GMT | How Hackers Use ChatGPT to Craft Social Engineering Attacks | Code With Hannan | [Read More](https://medium.com/p/fa15cdc03ad8) |
 | Thu, 03 Jul 2025 17:21:55 GMT | @Gcore.comQuietly Patches Vulnerability, After Denying Reports and Calling It “Behavior By Design” | Zhaenx | [Read More](https://medium.com/p/80365732af7f) |
 | Thu, 03 Jul 2025 17:16:13 GMT | Tokenization: yet another thing to worry about in your AI stack | Dan Glass | [Read More](https://medium.com/p/0d43d5bd72c9) |
-| Thu, 03 Jul 2025 17:09:52 GMT | IT Security in 2025: Top IoT Threats and How We’re Fighting Back | Uladzislau Bayouski | [Read More](https://medium.com/p/a59acb199920) |
-| Thu, 03 Jul 2025 17:06:52 GMT | Storing and Displaying User Avatars in Spring Boot Apps | Alexander Obregon | [Read More](https://medium.com/p/4aed1523eb8b) |
-| Thu, 03 Jul 2025 17:01:40 GMT | Broken Access Control part-11 : Method-based access control can be circumvented | Ahmad Sopyan | [Read More](https://medium.com/p/6c93c9873903) |
-| Thu, 03 Jul 2025 17:00:56 GMT | Where I’ve Been | Dan Glass | [Read More](https://medium.com/p/918368cb63c9) |
-| Thu, 03 Jul 2025 16:59:55 GMT | Querying Azure Resource Graph without Limits Using KQL | Mehmet Ergene | [Read More](https://medium.com/p/d04640c8ae2a) |
-| Thu, 03 Jul 2025 16:59:01 GMT | ️ Securing Your Containers: A Deep Dive into CIS Docker Benchmarks | Basant C. | [Read More](https://medium.com/p/68efc8eee292) |
-| Thu, 03 Jul 2025 16:53:54 GMT | Hammer TryHackMe Challenge Writeup | Ramy Nasser | [Read More](https://medium.com/p/3a627638693f) |
-| Thu, 03 Jul 2025 16:49:18 GMT | TechIntelPro - June Insights | TechIntelPro | [Read More](https://medium.com/p/d2f4e9627250) |
