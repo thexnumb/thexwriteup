@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 09:09:26 GMT | Why care about attack surface & risk management? | Ziya Zoe | [Read More](https://medium.com/p/9523ad14fac7) |
+| Fri, 04 Jul 2025 09:04:30 GMT | A Week in the Trenches: A Cybersecurity Journey | jada francis | [Read More](https://medium.com/p/4627459d4ce9) |
+| Fri, 04 Jul 2025 09:02:48 GMT | FortiGate Sanal Makinesi (Hyper-V) Ağ Bağlantı Sorunu ve Çözümü | yusa yusuf kaya | [Read More](https://medium.com/p/f5cb772048d1) |
+| Fri, 04 Jul 2025 08:58:21 GMT | W1seGuy — TryHackMe | Krishna | [Read More](https://medium.com/p/24783da0e5bc) |
+| Fri, 04 Jul 2025 08:58:10 GMT | How Devices Communicate Across Networks: MAC, IP, and Routers Explained | Rohit Sharma | [Read More](https://medium.com/p/e22c3ce4593a) |
+| Fri, 04 Jul 2025 08:56:51 GMT | Automated Bug Bounty Workflow — Complete Implementation Guide | Andrei Ivan | [Read More](https://medium.com/p/bb052356b4a5) |
+| Fri, 04 Jul 2025 08:53:59 GMT | From curious clicks to Cyber intern: My journey into world of Cybersecurity | CosmicByte | [Read More](https://medium.com/p/cf82a9c1addc) |
+| Fri, 04 Jul 2025 08:53:42 GMT | Source Code Review: The Foundation of Secure Software - Pynesec Technologies | Pynesec | [Read More](https://medium.com/p/6b896d3b82c1) |
+| Fri, 04 Jul 2025 08:49:04 GMT | picoCTF: DISKO 2 | löca | [Read More](https://medium.com/p/46ee77fc76a5) |
+| Fri, 04 Jul 2025 08:45:39 GMT | I Tried Automating Security with AI — Nearly Opened a Breach, But Saved $15,000 (And My Career) | AbdulRahman Mostafa | [Read More](https://medium.com/p/1427e80c25be) |
 | Fri, 04 Jul 2025 08:37:37 GMT | ISO 27001 Compliance: Your SaaS Business Playbook | SecureSlate | [Read More](https://medium.com/p/e1497ee8a343) |
 | Fri, 04 Jul 2025 08:31:33 GMT | 6 VPN Survival Hacks Every Smart Traveler Swears By | Cloudbric VPN | [Read More](https://medium.com/p/ac7d98bf51e1) |
 | Fri, 04 Jul 2025 08:27:20 GMT | Why is attack surface management so important? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/eaa49a328e18) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 01:04:54 GMT | Cloudbric Services Progress Report (6/1 ~ 6/30) | Cloudbric | [Read More](https://medium.com/p/266c90acc5cd) |
 | Fri, 04 Jul 2025 00:56:59 GMT | Cloudbric Services Progress Report (6/1 ~ 6/30) | Cloudbric | [Read More](https://medium.com/p/aaaace4cbb73) |
 | Fri, 04 Jul 2025 00:51:41 GMT | Exploitation of Apache Tomcat and Apache Camel Vulnerabilities Observed Post-Disclosure | RealSec.io | [Read More](https://medium.com/p/09ec2a655b14) |
-| Fri, 04 Jul 2025 00:46:58 GMT | HOW TO EXPLOIT ESC2 IN ADCS — IN DETAIL | 0xZ3US | [Read More](https://medium.com/p/63cce77ba647) |
-| Fri, 04 Jul 2025 00:41:53 GMT | ️ Mobile Pentesting: Keamanan Aplikasi Android AndroGOAT | Alex | [Read More](https://medium.com/p/62e4cec6e20c) |
-| Fri, 04 Jul 2025 00:37:37 GMT | Account Takeover via OTP Brute Force in E-commerce Platform . | Waleed Osama | [Read More](https://medium.com/p/7f764a2fb664) |
-| Fri, 04 Jul 2025 00:25:35 GMT | dnSpy—Static Analysis of a .NET Malware | R.D.Tarun | [Read More](https://medium.com/p/012806424acf) |
-| Fri, 04 Jul 2025 00:24:54 GMT | CTF US Cyber Open 2025 Writeup | Dee | [Read More](https://medium.com/p/475ab7497ace) |
-| Fri, 04 Jul 2025 00:02:54 GMT | GoBuster: Tu Herramienta Esencial para la Enumeración Web, el Pentesting y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/73ba413f3330) |
-| Thu, 03 Jul 2025 23:37:59 GMT | Deep Web y Dark Web: ¿Un misterio oculto o una realidad mal contada? | Tiziano Mass | [Read More](https://medium.com/p/1bcd5c18ddc8) |
-| Thu, 03 Jul 2025 23:32:52 GMT | Fortinet Secure SD-WAN: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/89b61ab28dc0) |
-| Thu, 03 Jul 2025 23:19:12 GMT | How I Unlocked Premium Features for Free via a Simple API Trick (Privilege Escalation Story) | MostReal | [Read More](https://medium.com/p/ac1b4edba454) |
-| Thu, 03 Jul 2025 22:55:44 GMT | Part 3: In-Memory Execution Methods — How Malware Lives Rent-Free in Your System | Kunal Rajour | [Read More](https://medium.com/p/42adcfbfd50a) |
