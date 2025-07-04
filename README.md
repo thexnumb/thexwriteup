@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 10:19:00 GMT | TryHackMe Blue Makinesi Çözümü: Adım Adım Sızma Testi Rehberi | Sumey Celebi | [Read More](https://medium.com/p/d0b0141e0a37) |
 | Fri, 04 Jul 2025 10:14:25 GMT | ️ RedTeamGPT: The AI Assistant Revolutionizing Offensive Security | Carylrobert | [Read More](https://medium.com/p/905b275f8204) |
 | Fri, 04 Jul 2025 10:11:34 GMT | Best WhatsApp Spy Apps: Monitor Chats Secretly | Narjis Batool | [Read More](https://medium.com/p/208872df4019) |
 | Fri, 04 Jul 2025 10:11:10 GMT | The Web3 Founder Opportunity | UnionKey | [Read More](https://medium.com/p/ec0055a74d42) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 04:22:32 GMT | Pentest GPT: The AI Assistant Redefining Ethical Hacking | Mr Joe | [Read More](https://medium.com/p/3b9f2579ccb3) |
 | Fri, 04 Jul 2025 04:16:10 GMT | Kali GPT: Your AI-Powered Assistant for Penetration Testing | Mr Joe | [Read More](https://medium.com/p/a298028359e9) |
 | Fri, 04 Jul 2025 04:15:56 GMT | The Rise of Ransomware-as-a-Service | Saikat Paul | [Read More](https://medium.com/p/48c9bc05936c) |
-| Fri, 04 Jul 2025 04:12:53 GMT | ️ Build A Complete Linux Backup Server Project-Remote Backup & Automation(Part- 2) | Anivesh Mohan | [Read More](https://medium.com/p/e9cf8af0b809) |
