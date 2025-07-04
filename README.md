@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 07:04:26 GMT | ประจำวันศุกร์ที่ 4 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/66c1a1f67fb7) |
+| Fri, 04 Jul 2025 06:58:00 GMT | Cyber Security Summer Internship for Freshers in Delhi | cyber security Updates | [Read More](https://medium.com/p/a76ab7754226) |
+| Fri, 04 Jul 2025 06:56:52 GMT | Autonomy or Autocracy? How Military Tactics Parallel Software Delivery | Namir Sagheenanajar | [Read More](https://medium.com/p/7ca3aeac1376) |
+| Fri, 04 Jul 2025 06:53:30 GMT | How I passed the CompTIA Security+ SY0–701 | Krishna | [Read More](https://medium.com/p/ccaf84f76909) |
+| Fri, 04 Jul 2025 06:48:17 GMT | A Beginner’s Guide to Ethical Hacking with Python | Cyberscope | [Read More](https://medium.com/p/1db729f259c6) |
+| Fri, 04 Jul 2025 06:45:18 GMT | Task 11- Persistence (TryHackMe Industrial Intrusion CTF 2025 | Affan Ali Muslim PK | [Read More](https://medium.com/p/df75edefca34) |
+| Fri, 04 Jul 2025 06:41:17 GMT | Prompt Injection vs Command Injection: What You Need to Know About These Evolving Threats | zahidul Islam Ratul | [Read More](https://medium.com/p/7d0e446ee05e) |
+| Fri, 04 Jul 2025 06:40:16 GMT | HTB - Kuber | Francesco Pastore | [Read More](https://medium.com/p/c2d3ff1b7a00) |
+| Fri, 04 Jul 2025 06:39:09 GMT | Wireless Security Assessment and Hardening — A Complete Practitioner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/c643bcc875a8) |
+| Fri, 04 Jul 2025 06:35:30 GMT | I Carried The Silence Anyway | detail of cacaৎ | [Read More](https://medium.com/p/5fc16f9bbd6c) |
 | Fri, 04 Jul 2025 06:18:50 GMT | Network Utilities Crisis: Why 80% Are Ditching Old Systems | Katherine Morgan | [Read More](https://medium.com/p/ab7f309899c4) |
 | Fri, 04 Jul 2025 06:12:08 GMT | ️ What If SIEMs Could Think? Building AI-Driven Detections That Actually Work | Paritosh | [Read More](https://medium.com/p/3a3c7e108d08) |
 | Fri, 04 Jul 2025 06:11:47 GMT | About me and my “drive…” | Ronak Joshi | [Read More](https://medium.com/p/f667f134b8c4) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 21:11:47 GMT | Your Supply Chain Is Already Compromised — And You Don’t Even Know It | Sneha Rani | [Read More](https://medium.com/p/00e95c9ac4ca) |
 | Thu, 03 Jul 2025 21:06:14 GMT | I Built Four Companies, but I Am Still Afraid of Being Seen | Ajay Deewan | [Read More](https://medium.com/p/848f345b22ee) |
 | Thu, 03 Jul 2025 20:59:16 GMT | Write Up InfluencerHate — Dockerlabs.es | APS88 | [Read More](https://medium.com/p/9bf161cc39a1) |
-| Thu, 03 Jul 2025 20:52:55 GMT | Vapt Sheet | Clutchbomt | [Read More](https://medium.com/p/0b6c9cb7c7fc) |
-| Thu, 03 Jul 2025 20:47:15 GMT | SOC automation project Part -1 | rkn | [Read More](https://medium.com/p/efff136a3899) |
-| Thu, 03 Jul 2025 20:44:42 GMT | Why Technical Cybersecurity Founders Fail at Marketing — And How AI Can Bridge the Gap | Deepak Gupta | [Read More](https://medium.com/p/66e2e8d148f3) |
-| Thu, 03 Jul 2025 20:37:11 GMT | Protection of PLC systems | Reefayat Majumder | [Read More](https://medium.com/p/8361cb4244d0) |
-| Thu, 03 Jul 2025 20:35:13 GMT | How to Survive the AI Tsunami | devsecops | [Read More](https://medium.com/p/a5d33e0674ef) |
-| Thu, 03 Jul 2025 20:31:14 GMT | Zero Trust Security for AI in an Enterprise | Concept Chisel | [Read More](https://medium.com/p/d569f801e7ad) |
-| Thu, 03 Jul 2025 20:26:59 GMT | Log4j: The Silent Killer | Oludare Stephen Ayobami | [Read More](https://medium.com/p/89a06eeed9cf) |
-| Thu, 03 Jul 2025 20:18:09 GMT | Emprisa Maldoc Lab Writeup — [Cyberdefenders.org] | Riad Moudjahed | [Read More](https://medium.com/p/6bf2b3b79762) |
-| Thu, 03 Jul 2025 20:09:19 GMT | **KuCoin: The People’s Exchange or a Regulatory Tightrope?** | Sergey Golubev (Сергей Голубев) | [Read More](https://medium.com/p/8c6fd25b1cc1) |
-| Thu, 03 Jul 2025 20:07:56 GMT | 7 Key Differences Between Traditional and Cloud-Based Disaster Recovery | Techridge Solutions | [Read More](https://medium.com/p/b7250fba722f) |
