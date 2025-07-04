@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 17:09:38 GMT | The Dark Web in 2025: The Best Search Engines, Directories, and Forums You Should Know | Torzle Admin | [Read More](https://medium.com/p/530790ea30b7) |
+| Fri, 04 Jul 2025 17:06:46 GMT | Detection to Exploitation: Turning Acunetix SQLi Findings into Full Data Extraction with SQLMap | Mind Scope | [Read More](https://medium.com/p/7cc1cfa1254d) |
+| Fri, 04 Jul 2025 17:01:51 GMT | I Ignored the Red Flags as a Volunteer — Here’s How I Learned to Value My Time | Seanstechblog | [Read More](https://medium.com/p/8eac4749ab1a) |
+| Fri, 04 Jul 2025 17:01:47 GMT | Building a Security Lab in VMware Workstation Pro | 0xBEN | [Read More](https://medium.com/p/06141ba985f4) |
+| Fri, 04 Jul 2025 16:58:50 GMT | Crumbs of His Essence | AmusedAuthority | [Read More](https://medium.com/p/f6958705a769) |
+| Fri, 04 Jul 2025 16:55:34 GMT | The Admin Panel That Was Meant to Be Forgotten — But Was Still Live | Đeepanshu | [Read More](https://medium.com/p/48c5e1c01261) |
+| Fri, 04 Jul 2025 16:52:00 GMT | How GPS and RFID Trackers Work: A Deep Dive into Tracking Technology | Lisa Lusinga | [Read More](https://medium.com/p/facaf5d529a1) |
+| Fri, 04 Jul 2025 16:48:25 GMT | Intermediate Lab Environment: Configure Windows VM-1 | Allen Ace | [Read More](https://medium.com/p/4a59457ff34f) |
 | Fri, 04 Jul 2025 16:29:04 GMT | Add Any Email Without Verification — Logic Flaw in PIN Confirmation Flow | Yahaiemara | [Read More](https://medium.com/p/b74953c7921e) |
 | Fri, 04 Jul 2025 16:27:53 GMT | The DDoS Smoke Screen - Why Restoring Uptime Might Be Your Worst Mistake | Avnishyam | [Read More](https://medium.com/p/4a31ddbb71b9) |
 | Fri, 04 Jul 2025 16:21:00 GMT | Kubernetes Was Built for Herding Flocks of Services — We Make It Tame Packs of Jobs | Jan Kneissler | [Read More](https://medium.com/p/0035dad7a8f0) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 10:11:34 GMT | Best WhatsApp Spy Apps: Monitor Chats Secretly | Narjis Batool | [Read More](https://medium.com/p/208872df4019) |
 | Fri, 04 Jul 2025 10:11:10 GMT | The Web3 Founder Opportunity | UnionKey | [Read More](https://medium.com/p/ec0055a74d42) |
 | Fri, 04 Jul 2025 10:08:01 GMT | Mind the Gap: How Gap Analysis Keeps Your Cybersecurity Strategy from Being a Delusion | DarKVoicE | [Read More](https://medium.com/p/689d25a391ec) |
-| Fri, 04 Jul 2025 10:07:07 GMT | ⚔️ KaliGPT: The AI Co-Pilot for Ethical Hackers — Hype, Truth & Use Cases | Carylrobert | [Read More](https://medium.com/p/4730b2f77d0e) |
-| Fri, 04 Jul 2025 10:06:12 GMT | Vulnerabilities in Architectures & Designs | Igor Berner | [Read More](https://medium.com/p/a947c7d15a2b) |
-| Fri, 04 Jul 2025 10:05:45 GMT | 5 Ways an Information Kiosk Machine Can Modernize Public Spaces | Rakesh | [Read More](https://medium.com/p/3fd2fef367eb) |
-| Fri, 04 Jul 2025 10:04:11 GMT | What Is WormGPT? The Real-world use cases and threats in 2025 | Carylrobert | [Read More](https://medium.com/p/655d590e1b40) |
-| Fri, 04 Jul 2025 10:01:54 GMT | 7 Steps To Understand OAuth2 | Jérémie Litzler | [Read More](https://medium.com/p/65d3e8f6b500) |
-| Fri, 04 Jul 2025 09:59:48 GMT | RCE using XSS , This room provide you a good skill of hacking. | Mr Horbio | [Read More](https://medium.com/p/e588e2e0a2b7) |
-| Fri, 04 Jul 2025 09:59:16 GMT | Understanding User Authentication: The First Line of Defense in Cybersecurity | Vinay Jadhav | [Read More](https://medium.com/p/7dfc09bb13fb) |
-| Fri, 04 Jul 2025 09:57:19 GMT | Understanding the MITRE ATT&CK framework for threat modeling | Cloud4C Services | [Read More](https://medium.com/p/bc8516fbc814) |
