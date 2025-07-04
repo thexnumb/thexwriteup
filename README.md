@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 06:18:50 GMT | Network Utilities Crisis: Why 80% Are Ditching Old Systems | Katherine Morgan | [Read More](https://medium.com/p/ab7f309899c4) |
+| Fri, 04 Jul 2025 06:12:08 GMT | ️ What If SIEMs Could Think? Building AI-Driven Detections That Actually Work | Paritosh | [Read More](https://medium.com/p/3a3c7e108d08) |
+| Fri, 04 Jul 2025 06:11:47 GMT | About me and my “drive…” | Ronak Joshi | [Read More](https://medium.com/p/f667f134b8c4) |
+| Fri, 04 Jul 2025 06:04:51 GMT | OWASP Top 10 for LLM Security | Madhura Jayashanka | [Read More](https://medium.com/p/2144e6a9d0db) |
+| Fri, 04 Jul 2025 05:52:09 GMT | Web attacks and detection | Jasmehr Kaur | [Read More](https://medium.com/p/5504795a0105) |
+| Fri, 04 Jul 2025 05:45:25 GMT | Peace Feels Foreign When Chaos Was Normal | Steve Longinidis | [Read More](https://medium.com/p/7fb3c428040f) |
 | Fri, 04 Jul 2025 05:33:33 GMT | BECOMING | jorgerodriguezpagan | [Read More](https://medium.com/p/e1de1ce21fe2) |
 | Fri, 04 Jul 2025 05:32:09 GMT | Laravel File Upload Made Modern with FilePond (Single Image Upload) | Vatsal A | [Read More](https://medium.com/p/301955dfe679) |
 | Fri, 04 Jul 2025 05:27:02 GMT | From CVE to Closure: My Journey Exploring SSRF in Next.js 13.5.1 (CVE-2024–34351) | Yash Virendra Prajapati | [Read More](https://medium.com/p/ae32f3878c84) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 20:18:09 GMT | Emprisa Maldoc Lab Writeup — [Cyberdefenders.org] | Riad Moudjahed | [Read More](https://medium.com/p/6bf2b3b79762) |
 | Thu, 03 Jul 2025 20:09:19 GMT | **KuCoin: The People’s Exchange or a Regulatory Tightrope?** | Sergey Golubev (Сергей Голубев) | [Read More](https://medium.com/p/8c6fd25b1cc1) |
 | Thu, 03 Jul 2025 20:07:56 GMT | 7 Key Differences Between Traditional and Cloud-Based Disaster Recovery | Techridge Solutions | [Read More](https://medium.com/p/b7250fba722f) |
-| Thu, 03 Jul 2025 20:02:46 GMT | Bypassing Purchase Verification to Access Game Download Page via Fuzzing | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/99d83d6052cc) |
-| Thu, 03 Jul 2025 20:01:15 GMT | ISO 22301:2019 est un focus sur la continuité d’affaires | Patrick Boucher | [Read More](https://medium.com/p/fdef8fa72abd) |
-| Thu, 03 Jul 2025 20:01:11 GMT | HTB Agile Writeup | Mauricio Pallares | [Read More](https://medium.com/p/123e01b1ccf4) |
-| Thu, 03 Jul 2025 19:56:37 GMT | Cariddi : Ultimate Bug Bounty Recon | AbhirupKonwar | [Read More](https://medium.com/p/354f44f8bc9d) |
-| Thu, 03 Jul 2025 19:50:37 GMT | When Permissions Go Wrong: 2025 Mid‑Year Postmortem on Access Control & Delegatecall Exploits in… | Mohammad Khezer | [Read More](https://medium.com/p/662c011af71b) |
-| Thu, 03 Jul 2025 19:48:23 GMT | Cybersecurity: An Absolute Beginner’s Guide | Rushabh Shah | [Read More](https://medium.com/p/02cdf1f7612e) |
