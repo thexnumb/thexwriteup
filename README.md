@@ -12,9 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 12:42:33 GMT | AI Penetration Testing: Secure LLMs from Vulnerabilities | VisionX Technologies | [Read More](https://medium.com/p/0cccb21109b7) |
+| Fri, 04 Jul 2025 12:35:51 GMT | Protect Your Business: The Essential Guide to Cyber Security Services | Einnosystech | [Read More](https://medium.com/p/14f67eada593) |
+| Fri, 04 Jul 2025 12:28:02 GMT | This Week in Cybersecurity: KEV Additions, Botnet Escalation, and Espionage Campaigns Unfold | Loginsoft | [Read More](https://medium.com/p/2353c5ea81f0) |
+| Fri, 04 Jul 2025 12:23:57 GMT | Why Affordable Security Guards in Delhi Are in High Demand | Sumintra | [Read More](https://medium.com/p/f683646b5a14) |
+| Fri, 04 Jul 2025 12:22:06 GMT | Dignity Comes with Responsibility | EXLITY | [Read More](https://medium.com/p/32d8e5df40e8) |
+| Fri, 04 Jul 2025 12:14:09 GMT | Information at Scale — The Foundations of Data | Aliemregursu | [Read More](https://medium.com/p/47277769ac43) |
+| Fri, 04 Jul 2025 12:12:45 GMT | Top Offensive Security Services in UAE for Proactive Cyber Defense | Ahad me | [Read More](https://medium.com/p/72bcd05b7e9d) |
+| Fri, 04 Jul 2025 12:12:36 GMT | Hacking a Web Panel Without Writing a Single Line of Code | Ibtissam hammadi | [Read More](https://medium.com/p/08a751976f79) |
+| Fri, 04 Jul 2025 12:06:53 GMT | Instant Age Verification for Online Sales | API4AI | [Read More](https://medium.com/p/a462c58ff39c) |
+| Fri, 04 Jul 2025 12:06:53 GMT | salafrária essa vida | rodrigo uriartt | [Read More](https://medium.com/p/722ecd4e97dc) |
+| Fri, 04 Jul 2025 12:02:54 GMT | 2 Star Security Door Handle: The Essential Upgrade for Safer Homes | Lock Fitter | [Read More](https://medium.com/p/6df4c121a558) |
+| Fri, 04 Jul 2025 11:52:15 GMT | What Spotify Taught Me About Strategy, AI, and User Experience | Visha Chauhan | [Read More](https://medium.com/p/d4bd791d1561) |
+| Fri, 04 Jul 2025 11:50:12 GMT | Azure Intersite Connectivity with AZD and Bicep: A Step-by-Step Deep Dive | Dave R - Microsoft Azure & AI MVP☁️ | [Read More](https://medium.com/p/5a683aae30ef) |
+| Fri, 04 Jul 2025 11:49:30 GMT | XLMRat Lab Cyberdefender Writeup | zal ef | [Read More](https://medium.com/p/d9a79ced6b82) |
+| Fri, 04 Jul 2025 11:49:17 GMT | “Fix Ledger Security Key Login Issues & Contact Customer Support” | Sam smith | [Read More](https://medium.com/p/63952c57a2d3) |
+| Fri, 04 Jul 2025 11:48:15 GMT | Who is Soham Parekh? And How Did He Crack Multiple Startup Jobs at Once? | Yash Dezdok | [Read More](https://medium.com/p/3676984bf9c4) |
 | Fri, 04 Jul 2025 11:37:28 GMT | Hire Hacker - Malware - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/a7ada6cc1ecb) |
+| Fri, 04 Jul 2025 11:36:53 GMT | Forget DevOps — Supply Chain Is the Silent Killer | Sneha Rani | [Read More](https://medium.com/p/1876b05ab256) |
 | Fri, 04 Jul 2025 11:36:44 GMT | I Chained Four Bugs to Take Over Account | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d4ce0b00eef3) |
 | Fri, 04 Jul 2025 11:36:16 GMT | Exploiting Misconfigured JWT: How I Owned 30+ Accounts via Token Logic Flaws | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c592d9915c46) |
+| Fri, 04 Jul 2025 11:35:15 GMT | escalate privileges | cell_number_780 | [Read More](https://medium.com/p/f235043b8dbd) |
 | Fri, 04 Jul 2025 11:27:26 GMT | Inside Microsoft’s Fortress: How the Tech Giant Slays Modern-Day Digital Dragons | Muhammed Akintola | [Read More](https://medium.com/p/6dfa6f1629e7) |
 | Fri, 04 Jul 2025 11:24:35 GMT | Expert Mobile Application Development with Mobiloitte | Remand Simon | [Read More](https://medium.com/p/92e0c294fefa) |
 | Fri, 04 Jul 2025 11:23:38 GMT | Best Cybersecurity Course Online for Beginners and Professionals in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/98a0893a33d5) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 06:53:30 GMT | How I passed the CompTIA Security+ SY0–701 | Krishna | [Read More](https://medium.com/p/ccaf84f76909) |
 | Fri, 04 Jul 2025 06:48:17 GMT | A Beginner’s Guide to Ethical Hacking with Python | Cyberscope | [Read More](https://medium.com/p/1db729f259c6) |
 | Fri, 04 Jul 2025 06:45:18 GMT | Task 11- Persistence (TryHackMe Industrial Intrusion CTF 2025 | Affan Ali Muslim PK | [Read More](https://medium.com/p/df75edefca34) |
-| Fri, 04 Jul 2025 06:41:17 GMT | Prompt Injection vs Command Injection: What You Need to Know About These Evolving Threats | zahidul Islam Ratul | [Read More](https://medium.com/p/7d0e446ee05e) |
-| Fri, 04 Jul 2025 06:40:16 GMT | HTB - Kuber | Francesco Pastore | [Read More](https://medium.com/p/c2d3ff1b7a00) |
-| Fri, 04 Jul 2025 06:39:09 GMT | Wireless Security Assessment and Hardening — A Complete Practitioner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/c643bcc875a8) |
-| Fri, 04 Jul 2025 06:35:30 GMT | I Carried The Silence Anyway | detail of cacaৎ | [Read More](https://medium.com/p/5fc16f9bbd6c) |
-| Fri, 04 Jul 2025 06:18:50 GMT | Network Utilities Crisis: Why 80% Are Ditching Old Systems | Katherine Morgan | [Read More](https://medium.com/p/ab7f309899c4) |
-| Fri, 04 Jul 2025 06:12:08 GMT | ️ What If SIEMs Could Think? Building AI-Driven Detections That Actually Work | Paritosh | [Read More](https://medium.com/p/3a3c7e108d08) |
-| Fri, 04 Jul 2025 06:11:47 GMT | About me and my “drive…” | Ronak Joshi | [Read More](https://medium.com/p/f667f134b8c4) |
-| Fri, 04 Jul 2025 06:04:51 GMT | OWASP Top 10 for LLM Security | Madhura Jayashanka | [Read More](https://medium.com/p/2144e6a9d0db) |
-| Fri, 04 Jul 2025 05:52:09 GMT | Web attacks and detection | Jasmehr Kaur | [Read More](https://medium.com/p/5504795a0105) |
-| Fri, 04 Jul 2025 05:45:25 GMT | Peace Feels Foreign When Chaos Was Normal | Steve Longinidis | [Read More](https://medium.com/p/7fb3c428040f) |
-| Fri, 04 Jul 2025 05:33:33 GMT | BECOMING | jorgerodriguezpagan | [Read More](https://medium.com/p/e1de1ce21fe2) |
-| Fri, 04 Jul 2025 05:32:09 GMT | Laravel File Upload Made Modern with FilePond (Single Image Upload) | Vatsal A | [Read More](https://medium.com/p/301955dfe679) |
-| Fri, 04 Jul 2025 05:27:02 GMT | From CVE to Closure: My Journey Exploring SSRF in Next.js 13.5.1 (CVE-2024–34351) | Yash Virendra Prajapati | [Read More](https://medium.com/p/ae32f3878c84) |
-| Fri, 04 Jul 2025 05:24:24 GMT | The Corix Partners Friday Reading List — July 4, 2025 | JC Gaillard | [Read More](https://medium.com/p/8d0b18422cad) |
-| Fri, 04 Jul 2025 05:14:56 GMT | The Power of Knowing a Little About Everything | Anshika Prajapati | [Read More](https://medium.com/p/a45662cccd9a) |
-| Fri, 04 Jul 2025 05:14:17 GMT | Protect Your Future: Why Cybersecurity Skills Matter Today | Work Rashmi | [Read More](https://medium.com/p/2c28c17bc683) |
-| Fri, 04 Jul 2025 05:10:29 GMT | 2025’te FinTech Sektörünü Bekleyen Siber Tehditler | Ali Ekber KARA | [Read More](https://medium.com/p/5d9855fb8934) |
-| Fri, 04 Jul 2025 05:07:32 GMT | ✈️ Qantas Data Breach and the Scattered Spider Threat: A Cybersecurity Wake-Up Call | Sayan Raha | [Read More](https://medium.com/p/9af4946043e6) |
