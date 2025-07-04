@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 14:15:23 GMT | Beyond RBAC: A Senior Engineer’s Field Guide to Production-Ready Keycloak | A.W. Reed. | [Read More](https://medium.com/p/9e01dbaae533) |
+| Fri, 04 Jul 2025 14:13:49 GMT | Aula 8 — DNS Zone Transfer (AXFR) | HexSilent | [Read More](https://medium.com/p/0ddd35a37a15) |
+| Fri, 04 Jul 2025 14:11:25 GMT | Cyber Briefing: 2025.07.04 | CyberMaterial | [Read More](https://medium.com/p/74fe7d12f49b) |
+| Fri, 04 Jul 2025 14:11:16 GMT | The Role of Cybersecurity in Regulatory Compliance | ITBizTeK | [Read More](https://medium.com/p/4e31fc5da6a7) |
+| Fri, 04 Jul 2025 14:04:07 GMT | Don’t Get Held Hostage: Understanding and Thwarting Ransomware | CFE Consultancy Services | [Read More](https://medium.com/p/e840d9705008) |
+| Fri, 04 Jul 2025 14:02:17 GMT | What is the Role and Uses of AI in Cybersecurity Today? | Shriyansh Tiwari | [Read More](https://medium.com/p/13838e5120e5) |
+| Fri, 04 Jul 2025 14:01:53 GMT | NIST’s New AI Security Framework: What Mid-Market Companies Need to Know | Eric Zietlow | [Read More](https://medium.com/p/d5be6e86de03) |
+| Fri, 04 Jul 2025 14:01:39 GMT | Elevate Your Recon: Beyond the Basics with Custom GF Patterns | CypherNova1337 | [Read More](https://medium.com/p/9260ca6167c2) |
+| Fri, 04 Jul 2025 13:58:55 GMT | Mimikatz Cheatsheet — Practical Credential Dumping Guide from Labs & Real-World Scenarios | Mohamed Ashraf | [Read More](https://medium.com/p/8ec38625f666) |
+| Fri, 04 Jul 2025 13:56:46 GMT | ⚡ “Bro, Is This Site Safe?” — How I Ended Up Building an AI Security Assistant | Arjun Santhosh | [Read More](https://medium.com/p/204298c99856) |
+| Fri, 04 Jul 2025 13:50:11 GMT | Trojan Trouble: Unveiling the Deceptions of Digital Disguise | CFE Consultancy Services | [Read More](https://medium.com/p/c0bca6402449) |
+| Fri, 04 Jul 2025 13:50:03 GMT | An Insecure Direct Object Reference (IDOR) vulnerability occurs when a web application exposes… | Omniaelagroudy | [Read More](https://medium.com/p/edbe4f6d988d) |
+| Fri, 04 Jul 2025 13:48:34 GMT | The Security Conflict: Man and Machine | Samuel Douglas Ogenrwoth | [Read More](https://medium.com/p/54eed16dfeed) |
+| Fri, 04 Jul 2025 13:45:33 GMT | Inside Active Directory — Components, Teminology -Part1 | himanshu maurya | [Read More](https://medium.com/p/e37d74053677) |
+| Fri, 04 Jul 2025 13:42:37 GMT | Not Just OWASP: Deep Dive into Groww’s API Security Playbook | Groww Engineering Team | [Read More](https://medium.com/p/ab5e74ef1cb8) |
 | Fri, 04 Jul 2025 13:31:51 GMT | Part 4: DevSecOps in Mission-Critical Defense Applications | DiPAK KNVDL | [Read More](https://medium.com/p/cd5f64980c94) |
 | Fri, 04 Jul 2025 13:30:23 GMT | Leveraging Burp Bambdas for Quick Wins | Kulkan Security | [Read More](https://medium.com/p/10cc5fa32a08) |
 | Fri, 04 Jul 2025 13:29:49 GMT | Fractional QA/RA 2.0 | Daniel James | [Read More](https://medium.com/p/18c140f54a72) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 08:37:37 GMT | ISO 27001 Compliance: Your SaaS Business Playbook | SecureSlate | [Read More](https://medium.com/p/e1497ee8a343) |
 | Fri, 04 Jul 2025 08:31:33 GMT | 6 VPN Survival Hacks Every Smart Traveler Swears By | Cloudbric VPN | [Read More](https://medium.com/p/ac7d98bf51e1) |
 | Fri, 04 Jul 2025 08:27:20 GMT | Why is attack surface management so important? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/eaa49a328e18) |
-| Fri, 04 Jul 2025 08:24:18 GMT | The Linux Security Journey — dm-crypt (Device Mapper Crypto Target) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c86877f6be9b) |
-| Fri, 04 Jul 2025 08:23:47 GMT | From Ropa Americana to Root Access | Bl4cksku11 | [Read More](https://medium.com/p/d8dad8aea620) |
-| Fri, 04 Jul 2025 08:16:51 GMT | A comprehensive guide for backend developers aiming to build secure applications | mobin shaterian | [Read More](https://medium.com/p/7f8ebff2cb9c) |
-| Fri, 04 Jul 2025 08:08:34 GMT | Cracking the AI Seal: Oracle 9 TryHackMe Writeup | Ansul Kotadia | [Read More](https://medium.com/p/d051906b9527) |
-| Fri, 04 Jul 2025 08:08:31 GMT | when saying ‘sorry’ has its own unspoken weight | pupchimin ؛ ଓ | [Read More](https://medium.com/p/6db5d7df059b) |
-| Fri, 04 Jul 2025 08:06:47 GMT | Cybersecurity Basics That Every Developer Needs to Know | Ayesha Sultana | [Read More](https://medium.com/p/38208809b610) |
-| Fri, 04 Jul 2025 08:05:31 GMT | Bringing cybersecurity to systems that missed the internet memo | Kush Kulkarni | [Read More](https://medium.com/p/b64ae4494f89) |
-| Fri, 04 Jul 2025 08:00:37 GMT | Launch Your Cyber Security Career with Mohali’s Leading Institute — Future Finders | Future Finders | [Read More](https://medium.com/p/1931d1c5ccfc) |
-| Fri, 04 Jul 2025 07:52:51 GMT | Elite Recon for hidden bug bounty programs | AbhirupKonwar | [Read More](https://medium.com/p/5390cc5f5500) |
-| Fri, 04 Jul 2025 07:52:21 GMT | DevSecOps. Why Do we Need It? | Sarthak | [Read More](https://medium.com/p/1dee9b519625) |
-| Fri, 04 Jul 2025 07:50:52 GMT | The Daily Tech Digest: 04 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/390f532c6ff7) |
-| Fri, 04 Jul 2025 07:46:16 GMT | Today’s Top Cyber Intelligence Highlights — Jul 04, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/7a85dc3abf3f) |
-| Fri, 04 Jul 2025 07:45:49 GMT | Behind the Scenes: How Pre-Prod Leaks Led Me to Prod Secrets | Iski | [Read More](https://medium.com/p/6cea22dcc64e) |
-| Fri, 04 Jul 2025 07:45:18 GMT | Hardening Docker Deployments with SafeLine WAF Integration | Quella | [Read More](https://medium.com/p/cdba12be4851) |
-| Fri, 04 Jul 2025 07:44:58 GMT | Penetration Testing Blind Spots: Why Scope Matters More Than You Think | Attaxion Team | [Read More](https://medium.com/p/5daccb1b2330) |
