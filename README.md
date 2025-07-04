@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 21:29:36 GMT | How SQL Injection Attacks Work (for Beginners) | Eric Dennis | [Read More](https://medium.com/p/f098c6673807) |
+| Fri, 04 Jul 2025 21:21:17 GMT | DNS: A Lista Telefônica WEB | Filipe Campos | [Read More](https://medium.com/p/50c3b0904c50) |
+| Fri, 04 Jul 2025 21:15:05 GMT | HTB Forest: A Step-by-Step Guide to Active Directory Exploitation and Automation | Michael Moomey | [Read More](https://medium.com/p/8d9ecad7a605) |
+| Fri, 04 Jul 2025 21:14:57 GMT | Spring Security (Authentications and Authorizations with UserService  (Spring boot ) . | Ayush Raj Cs | [Read More](https://medium.com/p/6d85d35cbce9) |
 | Fri, 04 Jul 2025 21:13:03 GMT | When Holding On Means Everything | Tami | [Read More](https://medium.com/p/25862e17a955) |
 | Fri, 04 Jul 2025 21:04:45 GMT | New Focus on Training Path — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/c69f41becff4) |
 | Fri, 04 Jul 2025 20:56:53 GMT | Boost Your DORK $DORK Strategy with These Expert Tips | $DORK (DORK) | [Read More](https://medium.com/p/59dc52739556) |
@@ -31,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 19:05:47 GMT | Securing Microsoft Fabric: Outbound Traffic | Amirhossein Borghei Razavi | [Read More](https://medium.com/p/18c07ba61551) |
 | Fri, 04 Jul 2025 19:05:37 GMT | Windows Command Line — TryHackMe | hareem khan | [Read More](https://medium.com/p/065ed419d33f) |
 | Fri, 04 Jul 2025 19:05:21 GMT | Call of Duty: WWII Is Hacked — Game Pass Players Hit by Dangerous RCE Exploits | Aaron | [Read More](https://medium.com/p/7902fe35410d) |
+| Fri, 04 Jul 2025 19:04:05 GMT | How to Prevent and Counter WhatsApp Hack: Essential Tips to Secure Your Account | Aminu Barade | [Read More](https://medium.com/p/8fbfbbec339e) |
 | Fri, 04 Jul 2025 18:57:45 GMT | Burp AI: A New Revolution in Web Security? | Rabia Riaz | [Read More](https://medium.com/p/b73c0f9a1902) |
 | Fri, 04 Jul 2025 18:36:48 GMT | Oops, I Did It Again | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/7c16ba46608f) |
 | Fri, 04 Jul 2025 18:34:44 GMT | Day 38: What is SOX? Understanding the Sarbanes-Oxley Act and Internal Controls | Brittney Ginther | [Read More](https://medium.com/p/a90240e37486) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 13:42:37 GMT | Not Just OWASP: Deep Dive into Groww’s API Security Playbook | Groww Engineering Team | [Read More](https://medium.com/p/ab5e74ef1cb8) |
 | Fri, 04 Jul 2025 13:31:51 GMT | Part 4: DevSecOps in Mission-Critical Defense Applications | DiPAK KNVDL | [Read More](https://medium.com/p/cd5f64980c94) |
 | Fri, 04 Jul 2025 13:30:23 GMT | Leveraging Burp Bambdas for Quick Wins | Kulkan Security | [Read More](https://medium.com/p/10cc5fa32a08) |
-| Fri, 04 Jul 2025 13:29:49 GMT | Fractional QA/RA 2.0 | Daniel James | [Read More](https://medium.com/p/18c140f54a72) |
-| Fri, 04 Jul 2025 13:15:11 GMT | TryHackMe Internal — Walkthrough | mauzware | [Read More](https://medium.com/p/e35fce80bcef) |
-| Fri, 04 Jul 2025 13:11:50 GMT | Is Your Banking App Leaking Sensitive Data? The Hidden Threat of Unencrypted Traffic | Finstein.ai | [Read More](https://medium.com/p/b5c158ee1fe7) |
-| Fri, 04 Jul 2025 13:10:05 GMT | 10 Most Common Web Vulnerabilities & How to Fix Them (OWASP Top 10) | Sagar Majumdar | [Read More](https://medium.com/p/0b971c4b1293) |
-| Fri, 04 Jul 2025 13:06:39 GMT | Set Up Domain-Leak Alerts in 2 Minutes — Enterprise How-To (2025) | Alexandre Vandamme | [Read More](https://medium.com/p/6c532924d62d) |
