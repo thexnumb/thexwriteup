@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 17:31:17 GMT | “Cut the Green Rope” — A Network Paradox Hiding in Plain Sight | Anirudh Dattu | [Read More](https://medium.com/p/d64e691979a3) |
+| Fri, 04 Jul 2025 17:27:52 GMT | Even Perfect Code Can Leak Secrets: Understanding Side-Channel Vulnerabilities | Eytan Manor | [Read More](https://medium.com/p/5919b13d6f71) |
+| Fri, 04 Jul 2025 17:27:03 GMT | I Passed the AZ-900 Azure Fundamentals Exam: Here’s What I Learned (And Why It’s Totally Worth It) | Ronak Joshi | [Read More](https://medium.com/p/e89f9540b083) |
+| Fri, 04 Jul 2025 17:25:19 GMT | Service Exploitation on Metasploitable2: Using FTP, Telnet, and Samba Vulnerabilities. | Odunlade Joshua | [Read More](https://medium.com/p/c0df4d2f2087) |
+| Fri, 04 Jul 2025 17:18:35 GMT | Cracking Windows: PoC to Master Windows API Redirection | Malforge Group | [Read More](https://medium.com/p/e4e0fbe2073a) |
+| Fri, 04 Jul 2025 17:17:17 GMT | Securing Microsoft Fabric: Inbound Traffic | Amirhossein Borghei Razavi | [Read More](https://medium.com/p/5089d85587c3) |
+| Fri, 04 Jul 2025 17:16:33 GMT | Top 5 VPNs for Safe Travel in 2025 (Perfect for Remote Workers & Expats) | CyberNomad | [Read More](https://medium.com/p/9a1339be2974) |
 | Fri, 04 Jul 2025 17:09:38 GMT | The Dark Web in 2025: The Best Search Engines, Directories, and Forums You Should Know | Torzle Admin | [Read More](https://medium.com/p/530790ea30b7) |
 | Fri, 04 Jul 2025 17:06:46 GMT | Detection to Exploitation: Turning Acunetix SQLi Findings into Full Data Extraction with SQLMap | Mind Scope | [Read More](https://medium.com/p/7cc1cfa1254d) |
 | Fri, 04 Jul 2025 17:01:51 GMT | I Ignored the Red Flags as a Volunteer — Here’s How I Learned to Value My Time | Seanstechblog | [Read More](https://medium.com/p/8eac4749ab1a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 11:04:30 GMT | Secrets in the Shadows: How to Hunt for Exposed API Keys and Tokens Like a Pro | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1baf80be24d9) |
 | Fri, 04 Jul 2025 10:58:25 GMT | Top Linux Training Pakistan: Best Institutes, Courses, and Career Opportunities | cyberwingITSolution | [Read More](https://medium.com/p/202500696839) |
 | Fri, 04 Jul 2025 10:58:03 GMT | 5 IAM Best Practices for Small Businesses Moving to the Cloud | Muhammed Akintola | [Read More](https://medium.com/p/05b7fd89d74f) |
-| Fri, 04 Jul 2025 10:56:25 GMT | Online Cybersecurity Course in India | Manisha Chaudhary | [Read More](https://medium.com/p/c79f80c9f2ae) |
-| Fri, 04 Jul 2025 10:41:39 GMT | Implement Recaptcha V3 in Laravel 12 + Inertia + React + TypeScript | Sandeeppant | [Read More](https://medium.com/p/496201537c9c) |
-| Fri, 04 Jul 2025 10:19:00 GMT | TryHackMe Blue Makinesi Çözümü: Adım Adım Sızma Testi Rehberi | Sumey Celebi | [Read More](https://medium.com/p/d0b0141e0a37) |
-| Fri, 04 Jul 2025 10:14:25 GMT | ️ RedTeamGPT: The AI Assistant Revolutionizing Offensive Security | Carylrobert | [Read More](https://medium.com/p/905b275f8204) |
-| Fri, 04 Jul 2025 10:11:34 GMT | Best WhatsApp Spy Apps: Monitor Chats Secretly | Narjis Batool | [Read More](https://medium.com/p/208872df4019) |
-| Fri, 04 Jul 2025 10:11:10 GMT | The Web3 Founder Opportunity | UnionKey | [Read More](https://medium.com/p/ec0055a74d42) |
-| Fri, 04 Jul 2025 10:08:01 GMT | Mind the Gap: How Gap Analysis Keeps Your Cybersecurity Strategy from Being a Delusion | DarKVoicE | [Read More](https://medium.com/p/689d25a391ec) |
