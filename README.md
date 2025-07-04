@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 05:33:33 GMT | BECOMING | jorgerodriguezpagan | [Read More](https://medium.com/p/e1de1ce21fe2) |
+| Fri, 04 Jul 2025 05:32:09 GMT | Laravel File Upload Made Modern with FilePond (Single Image Upload) | Vatsal A | [Read More](https://medium.com/p/301955dfe679) |
+| Fri, 04 Jul 2025 05:27:02 GMT | From CVE to Closure: My Journey Exploring SSRF in Next.js 13.5.1 (CVE-2024–34351) | Yash Virendra Prajapati | [Read More](https://medium.com/p/ae32f3878c84) |
+| Fri, 04 Jul 2025 05:24:24 GMT | The Corix Partners Friday Reading List — July 4, 2025 | JC Gaillard | [Read More](https://medium.com/p/8d0b18422cad) |
+| Fri, 04 Jul 2025 05:14:56 GMT | The Power of Knowing a Little About Everything | Anshika Prajapati | [Read More](https://medium.com/p/a45662cccd9a) |
+| Fri, 04 Jul 2025 05:14:17 GMT | Protect Your Future: Why Cybersecurity Skills Matter Today | Work Rashmi | [Read More](https://medium.com/p/2c28c17bc683) |
+| Fri, 04 Jul 2025 05:10:29 GMT | 2025’te FinTech Sektörünü Bekleyen Siber Tehditler | Ali Ekber KARA | [Read More](https://medium.com/p/5d9855fb8934) |
 | Fri, 04 Jul 2025 05:07:32 GMT | ✈️ Qantas Data Breach and the Scattered Spider Threat: A Cybersecurity Wake-Up Call | Sayan Raha | [Read More](https://medium.com/p/9af4946043e6) |
 | Fri, 04 Jul 2025 04:57:03 GMT | What is Network Architecture? And, How Does It Work? | Securis360 Inc. | [Read More](https://medium.com/p/e2281434429e) |
 | Fri, 04 Jul 2025 04:48:22 GMT | Day 41: Check In | Nile Okomo | [Read More](https://medium.com/p/27a5bd2185b8) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 19:56:37 GMT | Cariddi : Ultimate Bug Bounty Recon | AbhirupKonwar | [Read More](https://medium.com/p/354f44f8bc9d) |
 | Thu, 03 Jul 2025 19:50:37 GMT | When Permissions Go Wrong: 2025 Mid‑Year Postmortem on Access Control & Delegatecall Exploits in… | Mohammad Khezer | [Read More](https://medium.com/p/662c011af71b) |
 | Thu, 03 Jul 2025 19:48:23 GMT | Cybersecurity: An Absolute Beginner’s Guide | Rushabh Shah | [Read More](https://medium.com/p/02cdf1f7612e) |
-| Thu, 03 Jul 2025 19:47:04 GMT | Bolt — TryHackMe Walkthrough | esistdini | [Read More](https://medium.com/p/b690351dece9) |
-| Thu, 03 Jul 2025 19:46:48 GMT | İHA Sürülerini Siber Saldırılardan Nasıl Koruyoruz? | Doğukan Akbaş | [Read More](https://medium.com/p/579373761da2) |
-| Thu, 03 Jul 2025 19:38:13 GMT | Inside the Shadows: PRC-Linked APT Targeting Canada’s Telecom Infrastructure | Abhinav pandey | [Read More](https://medium.com/p/da87aa770bd8) |
-| Thu, 03 Jul 2025 19:35:12 GMT | Unlocking New Levels: A Personal Leadership Growth Reflection for Trailblazers | Kimberly Cordova | [Read More](https://medium.com/p/8dc7fba56a46) |
-| Thu, 03 Jul 2025 19:25:37 GMT | Custom AnyDesk Abuse: A Stealthy Way Adversaries Take Over Your System | Divya Trivedi | [Read More](https://medium.com/p/14a2b675d398) |
-| Thu, 03 Jul 2025 19:21:35 GMT | Membuat Aplikasi Save File (Input Buku) dengan SQLite pada Android Studio | Syahresaa | [Read More](https://medium.com/p/08644c578bf2) |
-| Thu, 03 Jul 2025 19:12:15 GMT | IoT PENTESTİNG/Bölüm 2. | ömer Kaan kurt | [Read More](https://medium.com/p/09918b79f381) |
