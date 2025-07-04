@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 07:28:17 GMT | Secure Your Digital Space with the Best VAPT Service — StrongBox IT | StrongBox IT | [Read More](https://medium.com/p/d79ed8346be5) |
+| Fri, 04 Jul 2025 07:25:49 GMT | How to Record and Share Terminal Sessions Using asciinema | N473 | [Read More](https://medium.com/p/b5dc1224a229) |
+| Fri, 04 Jul 2025 07:22:08 GMT | ️ OSPF GTSM (Generalized TTL Security Mechanism) | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/a87ef197c792) |
+| Fri, 04 Jul 2025 07:19:12 GMT | MCP Security Breaches Are Rising. Here’s How to Fix It | AppVin Technologies | [Read More](https://medium.com/p/4adbd9434d32) |
+| Fri, 04 Jul 2025 07:14:19 GMT | Why Embracing Vulnerability Is the Key to Real Growth | Mg Yit | [Read More](https://medium.com/p/ac66507789f6) |
 | Fri, 04 Jul 2025 07:04:26 GMT | ประจำวันศุกร์ที่ 4 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/66c1a1f67fb7) |
 | Fri, 04 Jul 2025 06:58:00 GMT | Cyber Security Summer Internship for Freshers in Delhi | cyber security Updates | [Read More](https://medium.com/p/a76ab7754226) |
 | Fri, 04 Jul 2025 06:56:52 GMT | Autonomy or Autocracy? How Military Tactics Parallel Software Delivery | Namir Sagheenanajar | [Read More](https://medium.com/p/7ca3aeac1376) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 21:27:57 GMT | SOC Automation Project Part-2 | rkn | [Read More](https://medium.com/p/5e42b0193fad) |
 | Thu, 03 Jul 2025 21:25:38 GMT | VPN: A Rede Privada Virtual | Filipe Campos | [Read More](https://medium.com/p/7dd02981f248) |
 | Thu, 03 Jul 2025 21:17:25 GMT | OTW Bandit Walkthrough (part 2) | Rusiru Kashmeera | [Read More](https://medium.com/p/7cfb95462e0d) |
-| Thu, 03 Jul 2025 21:12:59 GMT | The CORS Error We All Misunderstand — Especially with File Uploads | Lakshitha | [Read More](https://medium.com/p/80e616943f08) |
-| Thu, 03 Jul 2025 21:12:18 GMT | Data Partitioning in Multi-Tenant SaaS: Balancing Security, Scalability, and Cost | Abdullah @ Writes | [Read More](https://medium.com/p/94786ce30d32) |
-| Thu, 03 Jul 2025 21:11:47 GMT | Your Supply Chain Is Already Compromised — And You Don’t Even Know It | Sneha Rani | [Read More](https://medium.com/p/00e95c9ac4ca) |
-| Thu, 03 Jul 2025 21:06:14 GMT | I Built Four Companies, but I Am Still Afraid of Being Seen | Ajay Deewan | [Read More](https://medium.com/p/848f345b22ee) |
-| Thu, 03 Jul 2025 20:59:16 GMT | Write Up InfluencerHate — Dockerlabs.es | APS88 | [Read More](https://medium.com/p/9bf161cc39a1) |
