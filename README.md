@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 05:07:32 GMT | ✈️ Qantas Data Breach and the Scattered Spider Threat: A Cybersecurity Wake-Up Call | Sayan Raha | [Read More](https://medium.com/p/9af4946043e6) |
+| Fri, 04 Jul 2025 04:57:03 GMT | What is Network Architecture? And, How Does It Work? | Securis360 Inc. | [Read More](https://medium.com/p/e2281434429e) |
+| Fri, 04 Jul 2025 04:48:22 GMT | Day 41: Check In | Nile Okomo | [Read More](https://medium.com/p/27a5bd2185b8) |
 | Fri, 04 Jul 2025 04:47:07 GMT | Bug Bounty Lessons from Two Out-of-Scope Reports: A Learning Journey, Not Just a Win Story | Asadujjaman Asif | [Read More](https://medium.com/p/9db3e40ae587) |
 | Fri, 04 Jul 2025 04:43:18 GMT | Emerging Cyber Threats You Must Prepare For in 2025 | Ekene Joseph | [Read More](https://medium.com/p/0c40a5c42448) |
 | Fri, 04 Jul 2025 04:36:01 GMT | Network Security: More Than Just Firewalls and Passwords | The Hackers Meetup | [Read More](https://medium.com/p/1c1b5d5fde51) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 19:25:37 GMT | Custom AnyDesk Abuse: A Stealthy Way Adversaries Take Over Your System | Divya Trivedi | [Read More](https://medium.com/p/14a2b675d398) |
 | Thu, 03 Jul 2025 19:21:35 GMT | Membuat Aplikasi Save File (Input Buku) dengan SQLite pada Android Studio | Syahresaa | [Read More](https://medium.com/p/08644c578bf2) |
 | Thu, 03 Jul 2025 19:12:15 GMT | IoT PENTESTİNG/Bölüm 2. | ömer Kaan kurt | [Read More](https://medium.com/p/09918b79f381) |
-| Thu, 03 Jul 2025 19:05:50 GMT | Best Wireless Outdoor Security Camera | Phil Ryan | [Read More](https://medium.com/p/13d0bc02e90c) |
-| Thu, 03 Jul 2025 18:55:55 GMT | How I Freed 100GB of Disk Space by Cleaning VirtualBox Snapshots | mauzware | [Read More](https://medium.com/p/8a6fff1b8574) |
-| Thu, 03 Jul 2025 18:55:27 GMT | Automated Kubernetes Threat Detection with Tetragon and Azure Sentinel | Saraswathi Lakshman | [Read More](https://medium.com/p/28c32ee152bc) |
