@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 15:14:19 GMT | How AI-Powered Penetration Testing Is Changing Cybersecurity | DefenceRabbit | [Read More](https://medium.com/p/f0bdc8f401a3) |
+| Fri, 04 Jul 2025 15:08:54 GMT | Inside a Digital Breach: Lessons from a Real-World Cyber Forensics Case | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/deff0384c98f) |
+| Fri, 04 Jul 2025 15:05:47 GMT | Prompt Injection: The New Frontier of AI Vulnerabilities (And How You Can Explore It Yourself) | Anirudh Sekar | [Read More](https://medium.com/p/1e5b083bf02b) |
+| Fri, 04 Jul 2025 14:53:27 GMT | How Audio Jammers Work — And What They Really Block | Laura Turcu | [Read More](https://medium.com/p/b6c89b993ac8) |
+| Fri, 04 Jul 2025 14:51:55 GMT | What My Life Coach Taught Me About Love and Vulnerability | Mrigakshee Goswami | [Read More](https://medium.com/p/1913953965b2) |
+| Fri, 04 Jul 2025 14:50:27 GMT | Turning Into a Hacker — My TryHackMe Pickle Rick Challenge Walkthrough | Erickson | [Read More](https://medium.com/p/bd6b35ad68d4) |
+| Fri, 04 Jul 2025 14:46:29 GMT | FastMCP Bearer Token Authentication: A Technical Deep Dive | Guangya Liu | [Read More](https://medium.com/p/c05d0c5087f4) |
+| Fri, 04 Jul 2025 14:38:57 GMT | Discover Why More Businesses Are Choosing vCloud Tech for Cloud IT Solutions | Kevinasutton | [Read More](https://medium.com/p/8699ba0a0c94) |
 | Fri, 04 Jul 2025 14:19:29 GMT | PCB Design: The Hidden Bridge Between Embedded Systems and Data Science | Grace Wanja | [Read More](https://medium.com/p/4c1d3693a188) |
 | Fri, 04 Jul 2025 14:17:25 GMT | Sistem Tasarımı ve Modellemesi | Yunus Emre Maraşlı | [Read More](https://medium.com/p/7128d2092ef0) |
 | Fri, 04 Jul 2025 14:16:52 GMT | Real-Time Insider Threat Detection Using Machine Learning | Esra Kayhan | [Read More](https://medium.com/p/664c9e6bb057) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 09:19:37 GMT | Why You Should Never Rely on Just One Layer of Validation — API vs. Database | Malaya | [Read More](https://medium.com/p/c8a7cc0e674d) |
 | Fri, 04 Jul 2025 09:19:28 GMT | Understanding Network Security in Networking: Essential Protocols and Best Practices | Career Security: Tech Training & Certifications | [Read More](https://medium.com/p/35190fc1d398) |
 | Fri, 04 Jul 2025 09:15:00 GMT | They hacked Qantas! | Chris Bronk | [Read More](https://medium.com/p/c554110b5303) |
-| Fri, 04 Jul 2025 09:12:23 GMT | Healthcare Data Center Security: Protecting Patient Information in Qatar | Tekhabeeb | [Read More](https://medium.com/p/ee353540a61c) |
-| Fri, 04 Jul 2025 09:09:26 GMT | Why care about attack surface & risk management? | Ziya Zoe | [Read More](https://medium.com/p/9523ad14fac7) |
-| Fri, 04 Jul 2025 09:04:30 GMT | A Week in the Trenches: A Cybersecurity Journey | jada francis | [Read More](https://medium.com/p/4627459d4ce9) |
-| Fri, 04 Jul 2025 09:02:48 GMT | FortiGate Sanal Makinesi (Hyper-V) Ağ Bağlantı Sorunu ve Çözümü | yusa yusuf kaya | [Read More](https://medium.com/p/f5cb772048d1) |
-| Fri, 04 Jul 2025 08:58:21 GMT | W1seGuy — TryHackMe | Krishna | [Read More](https://medium.com/p/24783da0e5bc) |
-| Fri, 04 Jul 2025 08:58:10 GMT | How Devices Communicate Across Networks: MAC, IP, and Routers Explained | Rohit Sharma | [Read More](https://medium.com/p/e22c3ce4593a) |
-| Fri, 04 Jul 2025 08:56:51 GMT | Automated Bug Bounty Workflow — Complete Implementation Guide | Andrei Ivan | [Read More](https://medium.com/p/bb052356b4a5) |
-| Fri, 04 Jul 2025 08:53:59 GMT | From curious clicks to Cyber intern: My journey into world of Cybersecurity | CosmicByte | [Read More](https://medium.com/p/cf82a9c1addc) |
