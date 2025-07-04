@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 11:14:11 GMT | New JBBA Study Introduces READ-HC: A Secure, Scalable, and Energy-Efficient Blockchain Model for… | The British Blockchain Association (The BBA) | [Read More](https://medium.com/p/523f4b2b0942) |
+| Fri, 04 Jul 2025 11:11:25 GMT | How I became a Penetration Tester — The Unconventional Path From Hotel Management to Penetration… | Chef de Jeman | [Read More](https://medium.com/p/32eb47e37b7a) |
+| Fri, 04 Jul 2025 11:04:30 GMT | Secrets in the Shadows: How to Hunt for Exposed API Keys and Tokens Like a Pro | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1baf80be24d9) |
+| Fri, 04 Jul 2025 10:58:25 GMT | Top Linux Training Pakistan: Best Institutes, Courses, and Career Opportunities | cyberwingITSolution | [Read More](https://medium.com/p/202500696839) |
+| Fri, 04 Jul 2025 10:58:03 GMT | 5 IAM Best Practices for Small Businesses Moving to the Cloud | Muhammed Akintola | [Read More](https://medium.com/p/05b7fd89d74f) |
+| Fri, 04 Jul 2025 10:56:25 GMT | Online Cybersecurity Course in India | Manisha Chaudhary | [Read More](https://medium.com/p/c79f80c9f2ae) |
+| Fri, 04 Jul 2025 10:41:39 GMT | Implement Recaptcha V3 in Laravel 12 + Inertia + React + TypeScript | Sandeeppant | [Read More](https://medium.com/p/496201537c9c) |
 | Fri, 04 Jul 2025 10:19:00 GMT | TryHackMe Blue Makinesi Çözümü: Adım Adım Sızma Testi Rehberi | Sumey Celebi | [Read More](https://medium.com/p/d0b0141e0a37) |
 | Fri, 04 Jul 2025 10:14:25 GMT | ️ RedTeamGPT: The AI Assistant Revolutionizing Offensive Security | Carylrobert | [Read More](https://medium.com/p/905b275f8204) |
 | Fri, 04 Jul 2025 10:11:34 GMT | Best WhatsApp Spy Apps: Monitor Chats Secretly | Narjis Batool | [Read More](https://medium.com/p/208872df4019) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 04:36:01 GMT | Network Security: More Than Just Firewalls and Passwords | The Hackers Meetup | [Read More](https://medium.com/p/1c1b5d5fde51) |
 | Fri, 04 Jul 2025 04:36:01 GMT | Your Company Could Be Havoc’d by a Deepfake CEO Call — And You’d Never Know | Sneha Rani | [Read More](https://medium.com/p/5bbaf82f9644) |
 | Fri, 04 Jul 2025 04:34:35 GMT | Cybersecurity Frameworks: Because “Just Don’t Get Hacked” Isn’t a Real Strategy | DarKVoicE | [Read More](https://medium.com/p/6a04fa881739) |
-| Fri, 04 Jul 2025 04:32:41 GMT | CYBER SECURITY AND TIPS | The Manpreet | [Read More](https://medium.com/p/706491b88bd1) |
-| Fri, 04 Jul 2025 04:31:26 GMT | Cybersecurity Trends & Predictions for 2025: What Every SOC Needs to Know | Mr Joe | [Read More](https://medium.com/p/0b9c68d2f88c) |
-| Fri, 04 Jul 2025 04:29:27 GMT | LINUX Style Portfolio | Yoonsung Ed Cho | [Read More](https://medium.com/p/6c706507c603) |
-| Fri, 04 Jul 2025 04:28:12 GMT | Why Multi-Factor Authentication Still Isn’t Enough | Saikat Paul | [Read More](https://medium.com/p/28ee0fbdf6c2) |
-| Fri, 04 Jul 2025 04:22:32 GMT | Pentest GPT: The AI Assistant Redefining Ethical Hacking | Mr Joe | [Read More](https://medium.com/p/3b9f2579ccb3) |
-| Fri, 04 Jul 2025 04:16:10 GMT | Kali GPT: Your AI-Powered Assistant for Penetration Testing | Mr Joe | [Read More](https://medium.com/p/a298028359e9) |
-| Fri, 04 Jul 2025 04:15:56 GMT | The Rise of Ransomware-as-a-Service | Saikat Paul | [Read More](https://medium.com/p/48c9bc05936c) |
