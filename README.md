@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 15:32:39 GMT | The Dark Web Mystery | Torzle Admin | [Read More](https://medium.com/p/cee339c722b6) |
+| Fri, 04 Jul 2025 15:31:44 GMT | Ready for the Future? These 9 AI Skills You Should Know! | Abu Toha | [Read More](https://medium.com/p/a3019279b592) |
+| Fri, 04 Jul 2025 15:31:42 GMT | How Go’s Race Detector Catches Concurrency Bugs — Internals Explained | TheOpinionatedDev | [Read More](https://medium.com/p/0f2d5f0488aa) |
+| Fri, 04 Jul 2025 15:26:40 GMT | How to Install and Use Ubuntu on a Virtual Machine | Anthony | [Read More](https://medium.com/p/74f20835114d) |
+| Fri, 04 Jul 2025 15:21:56 GMT | The Ultimate SQL Injection Guide | Roshan Ajith | [Read More](https://medium.com/p/0f4704955691) |
+| Fri, 04 Jul 2025 15:18:28 GMT | Inside Active Directory — Components, Teminology -Part2 | himanshu maurya | [Read More](https://medium.com/p/9a1e883e2a93) |
+| Fri, 04 Jul 2025 15:17:31 GMT | My Hands-On Guide to Mastering AWS KMS and S3 Encryption | Aashishchaudhari | [Read More](https://medium.com/p/e53dba6c1b2f) |
 | Fri, 04 Jul 2025 15:14:19 GMT | How AI-Powered Penetration Testing Is Changing Cybersecurity | DefenceRabbit | [Read More](https://medium.com/p/f0bdc8f401a3) |
+| Fri, 04 Jul 2025 15:11:48 GMT | TryHackMe - IronShade - WriteUp | Axoloth | [Read More](https://medium.com/p/88fa211dfb6c) |
 | Fri, 04 Jul 2025 15:08:54 GMT | Inside a Digital Breach: Lessons from a Real-World Cyber Forensics Case | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/deff0384c98f) |
 | Fri, 04 Jul 2025 15:05:47 GMT | Prompt Injection: The New Frontier of AI Vulnerabilities (And How You Can Explore It Yourself) | Anirudh Sekar | [Read More](https://medium.com/p/1e5b083bf02b) |
 | Fri, 04 Jul 2025 14:53:27 GMT | How Audio Jammers Work — And What They Really Block | Laura Turcu | [Read More](https://medium.com/p/b6c89b993ac8) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 09:51:02 GMT | WormGPT: The Dark Side of Generative AI in Cybersecurity | Zino jo | [Read More](https://medium.com/p/192c7c5b78d6) |
 | Fri, 04 Jul 2025 09:47:55 GMT | How to Integrate AI Chatbots in Flutter Apps | Softs Solution Service | [Read More](https://medium.com/p/9f36ce849cb3) |
 | Fri, 04 Jul 2025 09:46:20 GMT | Kali GPT: Potential, and the Reality of AI in Offensive Security | Zino jo | [Read More](https://medium.com/p/5e1a2a31aab8) |
-| Fri, 04 Jul 2025 09:45:55 GMT | What’s New in MCP 2025‑06‑18 Release? Security, Structured Tools & Elicitation | Yann Jouanin | [Read More](https://medium.com/p/efd92eb5ab7c) |
-| Fri, 04 Jul 2025 09:41:47 GMT | AI-Powered & Automated Penetration Testing: The Next Era of Offensive Security | Zino jo | [Read More](https://medium.com/p/bc73ba64f770) |
-| Fri, 04 Jul 2025 09:37:44 GMT | From Hacked to Hacker (Ethical): My Quiet Cybersecurity Journey | Tatiana Lisdasari | [Read More](https://medium.com/p/869628d837d6) |
-| Fri, 04 Jul 2025 09:33:00 GMT | DevOps in Defense Systems | DiPAK KNVDL | [Read More](https://medium.com/p/a47667dff10b) |
-| Fri, 04 Jul 2025 09:25:20 GMT | Lo-Fi — TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/185e8145584c) |
-| Fri, 04 Jul 2025 09:19:37 GMT | Why You Should Never Rely on Just One Layer of Validation — API vs. Database | Malaya | [Read More](https://medium.com/p/c8a7cc0e674d) |
-| Fri, 04 Jul 2025 09:19:28 GMT | Understanding Network Security in Networking: Essential Protocols and Best Practices | Career Security: Tech Training & Certifications | [Read More](https://medium.com/p/35190fc1d398) |
-| Fri, 04 Jul 2025 09:15:00 GMT | They hacked Qantas! | Chris Bronk | [Read More](https://medium.com/p/c554110b5303) |
