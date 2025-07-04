@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 23:07:33 GMT | A look at Brazil’s Largest Financial Hack: Junior Developer Sells Access for $900 over a couple of… | Andre Camillo, CISSP | [Read More](https://medium.com/p/cb95df61771d) |
+| Fri, 04 Jul 2025 22:58:50 GMT | Learn about AI-Related Risks and AI Risk Management | Temitope Omosebi | [Read More](https://medium.com/p/21b8e2a89fc0) |
 | Fri, 04 Jul 2025 22:03:55 GMT | How to Reap the Best Rewards from DORK $DORK | $DORK (DORK) | [Read More](https://medium.com/p/a0a3927edfed) |
 | Fri, 04 Jul 2025 21:58:54 GMT | TryHackMe — Basic Pentesting Walkthrough | A_SKILLER_007 | [Read More](https://medium.com/p/8d3d6b77f642) |
 | Fri, 04 Jul 2025 21:58:25 GMT | Oracle 9: Write-Up | A Learner | [Read More](https://medium.com/p/edfb818d171a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 14:01:39 GMT | Elevate Your Recon: Beyond the Basics with Custom GF Patterns | CypherNova1337 | [Read More](https://medium.com/p/9260ca6167c2) |
 | Fri, 04 Jul 2025 13:58:55 GMT | Mimikatz Cheatsheet — Practical Credential Dumping Guide from Labs & Real-World Scenarios | Mohamed Ashraf | [Read More](https://medium.com/p/8ec38625f666) |
 | Fri, 04 Jul 2025 13:56:46 GMT | ⚡ “Bro, Is This Site Safe?” — How I Ended Up Building an AI Security Assistant | Arjun Santhosh | [Read More](https://medium.com/p/204298c99856) |
-| Fri, 04 Jul 2025 13:50:11 GMT | Trojan Trouble: Unveiling the Deceptions of Digital Disguise | CFE Consultancy Services | [Read More](https://medium.com/p/c0bca6402449) |
-| Fri, 04 Jul 2025 13:50:03 GMT | An Insecure Direct Object Reference (IDOR) vulnerability occurs when a web application exposes… | Omniaelagroudy | [Read More](https://medium.com/p/edbe4f6d988d) |
