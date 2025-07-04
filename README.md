@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 08:27:20 GMT | Why is attack surface management so important? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/eaa49a328e18) |
+| Fri, 04 Jul 2025 08:23:47 GMT | From Ropa Americana to Root Access | Bl4cksku11 | [Read More](https://medium.com/p/d8dad8aea620) |
+| Fri, 04 Jul 2025 08:16:51 GMT | A comprehensive guide for backend developers aiming to build secure applications | mobin shaterian | [Read More](https://medium.com/p/7f8ebff2cb9c) |
+| Fri, 04 Jul 2025 08:08:34 GMT | Cracking the AI Seal: Oracle 9 TryHackMe Writeup | Ansul Kotadia | [Read More](https://medium.com/p/d051906b9527) |
+| Fri, 04 Jul 2025 08:08:31 GMT | when saying ‘sorry’ has its own unspoken weight | pupchimin ؛ ଓ | [Read More](https://medium.com/p/6db5d7df059b) |
+| Fri, 04 Jul 2025 08:06:47 GMT | Cybersecurity Basics That Every Developer Needs to Know | Ayesha Sultana | [Read More](https://medium.com/p/38208809b610) |
+| Fri, 04 Jul 2025 08:05:31 GMT | Bringing cybersecurity to systems that missed the internet memo | Kush Kulkarni | [Read More](https://medium.com/p/b64ae4494f89) |
+| Fri, 04 Jul 2025 08:00:37 GMT | Launch Your Cyber Security Career with Mohali’s Leading Institute — Future Finders | Future Finders | [Read More](https://medium.com/p/1931d1c5ccfc) |
+| Fri, 04 Jul 2025 07:52:51 GMT | Elite Recon for hidden bug bounty programs | AbhirupKonwar | [Read More](https://medium.com/p/5390cc5f5500) |
+| Fri, 04 Jul 2025 07:52:21 GMT | DevSecOps. Why Do we Need It? | Sarthak | [Read More](https://medium.com/p/1dee9b519625) |
+| Fri, 04 Jul 2025 07:50:52 GMT | The Daily Tech Digest: 04 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/390f532c6ff7) |
+| Fri, 04 Jul 2025 07:46:16 GMT | Today’s Top Cyber Intelligence Highlights — Jul 04, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/7a85dc3abf3f) |
+| Fri, 04 Jul 2025 07:45:49 GMT | Behind the Scenes: How Pre-Prod Leaks Led Me to Prod Secrets | Iski | [Read More](https://medium.com/p/6cea22dcc64e) |
+| Fri, 04 Jul 2025 07:45:18 GMT | Hardening Docker Deployments with SafeLine WAF Integration | Quella | [Read More](https://medium.com/p/cdba12be4851) |
+| Fri, 04 Jul 2025 07:44:58 GMT | Penetration Testing Blind Spots: Why Scope Matters More Than You Think | Attaxion Team | [Read More](https://medium.com/p/5daccb1b2330) |
+| Fri, 04 Jul 2025 07:40:35 GMT | Fortifying the Digital Realm: Understanding Data Encryption Standards | ITIO INNOVEX | [Read More](https://medium.com/p/db5fe94943b6) |
+| Fri, 04 Jul 2025 07:38:50 GMT | The Importance of Cybersecurity in Today’s Digital World | Nirma Nethmini | [Read More](https://medium.com/p/615b2c6016c1) |
+| Fri, 04 Jul 2025 07:37:36 GMT | Broken Access Control part-12 : Multi-step process with no access control on one step | Ahmad Sopyan | [Read More](https://medium.com/p/c50458a421c7) |
 | Fri, 04 Jul 2025 07:28:17 GMT | Secure Your Digital Space with the Best VAPT Service — StrongBox IT | StrongBox IT | [Read More](https://medium.com/p/d79ed8346be5) |
 | Fri, 04 Jul 2025 07:25:49 GMT | How to Record and Share Terminal Sessions Using asciinema | N473 | [Read More](https://medium.com/p/b5dc1224a229) |
 | Fri, 04 Jul 2025 07:22:08 GMT | ️ OSPF GTSM (Generalized TTL Security Mechanism) | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/a87ef197c792) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 22:51:19 GMT | Instant Walkthrough — HackTheBox | Mohammed Jawabri | [Read More](https://medium.com/p/ffe7f730c0d0) |
 | Thu, 03 Jul 2025 22:47:38 GMT | Securing the Future: How Red-Team Testing and Preliminary Assessments Transform Smart Contract… | Pavon Dunbar | [Read More](https://medium.com/p/940380082146) |
 | Thu, 03 Jul 2025 22:32:51 GMT | GAMEZONE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/1becda262382) |
-| Thu, 03 Jul 2025 22:30:17 GMT | 600K Sites at Risk: The Hidden WordPress Flaw That Could Destroy Your Business | Cyber-AppSec | [Read More](https://medium.com/p/079a9a58861e) |
-| Thu, 03 Jul 2025 22:17:05 GMT | SOCFortress Integrations — Vulnerability Assessment for network devices (I) — FortiGate Firewalls | SOCFortress | [Read More](https://medium.com/p/5e19a7ccf511) |
-| Thu, 03 Jul 2025 22:16:57 GMT | Automated OSINT Frameworks: Mapping Your Target Without Touching It | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a1417e547271) |
-| Thu, 03 Jul 2025 22:16:47 GMT | Backtrack Walkthrough | Anubhav Bali | [Read More](https://medium.com/p/9cb9f2581a91) |
-| Thu, 03 Jul 2025 22:12:51 GMT | Pro-Russian Hacktivist Groups Drive Sophisticated Attacks Against Critical Infrastructure | RealSec.io | [Read More](https://medium.com/p/9b7e7b80d5ef) |
-| Thu, 03 Jul 2025 22:11:12 GMT | Consulta DNS e Enumeração com Nameservers | HexSilent | [Read More](https://medium.com/p/2869ae149dac) |
-| Thu, 03 Jul 2025 22:06:41 GMT | Snort Challenge— Live Attacks | Isiah | [Read More](https://medium.com/p/d523754c9141) |
-| Thu, 03 Jul 2025 22:05:29 GMT | Post-Quantum Cryptography in Python | Anonymous | [Read More](https://medium.com/p/fb3218f8e011) |
-| Thu, 03 Jul 2025 21:59:13 GMT | RC6 Shellcode Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/fc38ada8c55e) |
-| Thu, 03 Jul 2025 21:51:39 GMT | OWASP Top 10 Web Application Security Risks Explained | Louis Trinh | [Read More](https://medium.com/p/8df33cca106c) |
-| Thu, 03 Jul 2025 21:48:11 GMT | Your Guide to the CompTIA Security+ (SY0–701): What You Really Need to Know Before Taking the Exam | Lewis Matlock, MBA, CISSP-ISSMP | [Read More](https://medium.com/p/77c1c72831ea) |
-| Thu, 03 Jul 2025 21:46:05 GMT | Counterterrorism in the Age of ISIS | Anthony | [Read More](https://medium.com/p/9208d8696c1c) |
-| Thu, 03 Jul 2025 21:43:00 GMT | What is OSINT and why is it important? | Anthony | [Read More](https://medium.com/p/2e7ed641e506) |
-| Thu, 03 Jul 2025 21:36:48 GMT | Zero Trust Security: Benefits and How It Works | Daniil Perfilev | [Read More](https://medium.com/p/a1d317c2614c) |
-| Thu, 03 Jul 2025 21:32:13 GMT | Understanding the MITRE ATT&CK Framework for Beginners (2025 Guide for Cybersecurity Learners) | NineTales | [Read More](https://medium.com/p/e292827b3300) |
-| Thu, 03 Jul 2025 21:27:57 GMT | SOC Automation Project Part-2 | rkn | [Read More](https://medium.com/p/5e42b0193fad) |
-| Thu, 03 Jul 2025 21:25:38 GMT | VPN: A Rede Privada Virtual | Filipe Campos | [Read More](https://medium.com/p/7dd02981f248) |
-| Thu, 03 Jul 2025 21:17:25 GMT | OTW Bandit Walkthrough (part 2) | Rusiru Kashmeera | [Read More](https://medium.com/p/7cfb95462e0d) |
