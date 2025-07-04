@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 08:37:37 GMT | ISO 27001 Compliance: Your SaaS Business Playbook | SecureSlate | [Read More](https://medium.com/p/e1497ee8a343) |
+| Fri, 04 Jul 2025 08:31:33 GMT | 6 VPN Survival Hacks Every Smart Traveler Swears By | Cloudbric VPN | [Read More](https://medium.com/p/ac7d98bf51e1) |
 | Fri, 04 Jul 2025 08:27:20 GMT | Why is attack surface management so important? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/eaa49a328e18) |
+| Fri, 04 Jul 2025 08:24:18 GMT | The Linux Security Journey — dm-crypt (Device Mapper Crypto Target) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c86877f6be9b) |
 | Fri, 04 Jul 2025 08:23:47 GMT | From Ropa Americana to Root Access | Bl4cksku11 | [Read More](https://medium.com/p/d8dad8aea620) |
 | Fri, 04 Jul 2025 08:16:51 GMT | A comprehensive guide for backend developers aiming to build secure applications | mobin shaterian | [Read More](https://medium.com/p/7f8ebff2cb9c) |
 | Fri, 04 Jul 2025 08:08:34 GMT | Cracking the AI Seal: Oracle 9 TryHackMe Writeup | Ansul Kotadia | [Read More](https://medium.com/p/d051906b9527) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 03 Jul 2025 23:32:52 GMT | Fortinet Secure SD-WAN: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/89b61ab28dc0) |
 | Thu, 03 Jul 2025 23:19:12 GMT | How I Unlocked Premium Features for Free via a Simple API Trick (Privilege Escalation Story) | MostReal | [Read More](https://medium.com/p/ac1b4edba454) |
 | Thu, 03 Jul 2025 22:55:44 GMT | Part 3: In-Memory Execution Methods — How Malware Lives Rent-Free in Your System | Kunal Rajour | [Read More](https://medium.com/p/42adcfbfd50a) |
-| Thu, 03 Jul 2025 22:51:19 GMT | Instant Walkthrough — HackTheBox | Mohammed Jawabri | [Read More](https://medium.com/p/ffe7f730c0d0) |
-| Thu, 03 Jul 2025 22:47:38 GMT | Securing the Future: How Red-Team Testing and Preliminary Assessments Transform Smart Contract… | Pavon Dunbar | [Read More](https://medium.com/p/940380082146) |
-| Thu, 03 Jul 2025 22:32:51 GMT | GAMEZONE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/1becda262382) |
