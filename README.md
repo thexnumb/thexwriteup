@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 04 Jul 2025 18:26:09 GMT | BrutDroid: The Ultimate Beginner’s Tool to Set Up an Android Pentesting Lab | Saumadip Mandal | [Read More](https://medium.com/p/15d2e92e2d67) |
+| Fri, 04 Jul 2025 18:21:23 GMT | My First Bug Bounty Story | Zaid Arif | [Read More](https://medium.com/p/df3abe7a7936) |
+| Fri, 04 Jul 2025 18:14:12 GMT | A Newbie’s Write-up of the SWU CTF: Network part | Athiwat Tiprasaharn | [Read More](https://medium.com/p/1f4603b556c8) |
+| Fri, 04 Jul 2025 18:09:39 GMT | Nmap cheat sheet | Hishamrazak | [Read More](https://medium.com/p/dd938a77cc64) |
+| Fri, 04 Jul 2025 18:02:44 GMT | Thai Write-Up (Network) : กิจกรรม SWU CTF แข่งขันชิงธงจาก มศว. สำหรับน้อง ๆ สาย Cybersecurity | Athiwat Tiprasaharn | [Read More](https://medium.com/p/60fe547ff03a) |
+| Fri, 04 Jul 2025 17:59:11 GMT | ‍♂️ *What College Forgot to Teach – The Mountains Debugged Me for Corporate Survival* | Tanmoy Dutta | [Read More](https://medium.com/p/0e63937f9b62) |
+| Fri, 04 Jul 2025 17:55:22 GMT | The Security Hole Most Developers Ignore Until It’s Too Late | Code With Hannan | [Read More](https://medium.com/p/c9afb4edcb58) |
+| Fri, 04 Jul 2025 17:47:42 GMT | Even Perfect Code Can Leak Secrets: Understanding Side-Channel Vulnerabilities | Eytan Manor | [Read More](https://medium.com/p/1b21525ba6d8) |
+| Fri, 04 Jul 2025 17:44:15 GMT | How to Catch an AI: 7 Clues That Reveal You’re Not Talking to a Human | Paras Patil | [Read More](https://medium.com/p/3764a6aa159e) |
+| Fri, 04 Jul 2025 17:42:52 GMT | Linux Command Cheat Sheet | Shoaib Bin Rashid | [Read More](https://medium.com/p/5f4db04c08dc) |
+| Fri, 04 Jul 2025 17:42:37 GMT | Understanding S3 Access Logs in Splunk: Who Did What and When ? | Chandra Tadala | [Read More](https://medium.com/p/502c0d441f84) |
+| Fri, 04 Jul 2025 17:40:01 GMT | Zero-Trust Security Architecture: Why “Never Trust, Always Verify” is the New Cybersecurity… | Ezekiel Joseph | [Read More](https://medium.com/p/b442eb71df5b) |
 | Fri, 04 Jul 2025 17:31:17 GMT | “Cut the Green Rope” — A Network Paradox Hiding in Plain Sight | Anirudh Dattu | [Read More](https://medium.com/p/d64e691979a3) |
 | Fri, 04 Jul 2025 17:27:52 GMT | Even Perfect Code Can Leak Secrets: Understanding Side-Channel Vulnerabilities | Eytan Manor | [Read More](https://medium.com/p/5919b13d6f71) |
 | Fri, 04 Jul 2025 17:27:03 GMT | I Passed the AZ-900 Azure Fundamentals Exam: Here’s What I Learned (And Why It’s Totally Worth It) | Ronak Joshi | [Read More](https://medium.com/p/e89f9540b083) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 11:48:15 GMT | Who is Soham Parekh? And How Did He Crack Multiple Startup Jobs at Once? | Yash Dezdok | [Read More](https://medium.com/p/3676984bf9c4) |
 | Fri, 04 Jul 2025 11:37:28 GMT | Hire Hacker - Malware - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/a7ada6cc1ecb) |
 | Fri, 04 Jul 2025 11:36:53 GMT | Forget DevOps — Supply Chain Is the Silent Killer | Sneha Rani | [Read More](https://medium.com/p/1876b05ab256) |
-| Fri, 04 Jul 2025 11:36:44 GMT | I Chained Four Bugs to Take Over Account | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d4ce0b00eef3) |
-| Fri, 04 Jul 2025 11:36:16 GMT | Exploiting Misconfigured JWT: How I Owned 30+ Accounts via Token Logic Flaws | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c592d9915c46) |
-| Fri, 04 Jul 2025 11:35:15 GMT | escalate privileges | cell_number_780 | [Read More](https://medium.com/p/f235043b8dbd) |
-| Fri, 04 Jul 2025 11:27:26 GMT | Inside Microsoft’s Fortress: How the Tech Giant Slays Modern-Day Digital Dragons | Muhammed Akintola | [Read More](https://medium.com/p/6dfa6f1629e7) |
-| Fri, 04 Jul 2025 11:24:35 GMT | Expert Mobile Application Development with Mobiloitte | Remand Simon | [Read More](https://medium.com/p/92e0c294fefa) |
-| Fri, 04 Jul 2025 11:23:38 GMT | Best Cybersecurity Course Online for Beginners and Professionals in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/98a0893a33d5) |
-| Fri, 04 Jul 2025 11:23:30 GMT | What Just Happened in Cybersecurity? [July 4, 2025 ] | Darshan | [Read More](https://medium.com/p/aac4f014a1c8) |
-| Fri, 04 Jul 2025 11:14:11 GMT | New JBBA Study Introduces READ-HC: A Secure, Scalable, and Energy-Efficient Blockchain Model for… | The British Blockchain Association (The BBA) | [Read More](https://medium.com/p/523f4b2b0942) |
-| Fri, 04 Jul 2025 11:11:25 GMT | How I became a Penetration Tester — The Unconventional Path From Hotel Management to Penetration… | Chef de Jeman | [Read More](https://medium.com/p/32eb47e37b7a) |
-| Fri, 04 Jul 2025 11:04:30 GMT | Secrets in the Shadows: How to Hunt for Exposed API Keys and Tokens Like a Pro | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1baf80be24d9) |
-| Fri, 04 Jul 2025 10:58:25 GMT | Top Linux Training Pakistan: Best Institutes, Courses, and Career Opportunities | cyberwingITSolution | [Read More](https://medium.com/p/202500696839) |
-| Fri, 04 Jul 2025 10:58:03 GMT | 5 IAM Best Practices for Small Businesses Moving to the Cloud | Muhammed Akintola | [Read More](https://medium.com/p/05b7fd89d74f) |
