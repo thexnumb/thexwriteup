@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 03:11:26 GMT | You Can’t Write Your Best Story — Until You Live Your Worst One | A.Rehman | [Read More](https://medium.com/p/71345f682ce9) |
+| Sat, 05 Jul 2025 03:02:12 GMT | PortSwigger Lab: Exploiting server-side parameter pollution in a query string writeup (API Testing) | awes0meness | [Read More](https://medium.com/p/69e784ec8b2e) |
+| Sat, 05 Jul 2025 03:02:05 GMT | From LFI to RCE via File Uploads — A Complete Step-by-Step Guide ️ | Zoningxtr | [Read More](https://medium.com/p/20637a1efa29) |
+| Sat, 05 Jul 2025 03:01:48 GMT | ️ 45 Days of Cybersecurity — Day 2: Networking Basics | Vinayak | [Read More](https://medium.com/p/0d8eb8511205) |
+| Sat, 05 Jul 2025 02:59:30 GMT | Very Vulnerable Management API (VVMA) | Easpy | [Read More](https://medium.com/p/062a522a2be9) |
+| Sat, 05 Jul 2025 02:57:39 GMT | $1,000 Bounty: Stored XSS in Trix Editor v2.1.1 via Malicious Paste Payload | Monika sharma | [Read More](https://medium.com/p/4fa413fcde28) |
+| Sat, 05 Jul 2025 02:57:31 GMT | Stolen Credentials Drive 83% of Attacks — Machines Are the Weakest Link | Aj | [Read More](https://medium.com/p/debca6c33f36) |
+| Sat, 05 Jul 2025 02:56:01 GMT | ️ Active Directory Project (Part 2): Setting Up GPOs & GPMC Tool | Anivesh Mohan | [Read More](https://medium.com/p/29ac45f5c915) |
+| Sat, 05 Jul 2025 02:52:52 GMT | Browser Extension Recon: Finding Bugs in Official Extensions of Web Platforms | Monika sharma | [Read More](https://medium.com/p/c2a1a0e2203a) |
+| Sat, 05 Jul 2025 02:50:03 GMT | Bookmark &Bookmarklet Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/3c84a196ae23) |
+| Sat, 05 Jul 2025 02:48:36 GMT | Data & Statistics Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/7840a5602b4f) |
+| Sat, 05 Jul 2025 02:48:08 GMT | $2,000 Bounty: 0000 OTP Bypass Leads to Phone Number Takeover in inDrive | Monika sharma | [Read More](https://medium.com/p/99f29f46e793) |
+| Sat, 05 Jul 2025 02:46:58 GMT | Web Monitoring Tools For OSINT Investigation | loyalonlytoday | [Read More](https://medium.com/p/5ab926a8fe16) |
+| Sat, 05 Jul 2025 02:46:50 GMT | The Password I Never Reset — And Still Got In | LordofHeaven | [Read More](https://medium.com/p/a3ff502b03ee) |
+| Sat, 05 Jul 2025 02:46:44 GMT | Just Wanted to Be a Driver, Ended Up Discovering a Time Capsule | Erkan Kavas | [Read More](https://medium.com/p/085808a4baa8) |
+| Sat, 05 Jul 2025 02:46:27 GMT | PortSwigger Lab: Exploiting a mass assignment vulnerability writeup (API Testing) | awes0meness | [Read More](https://medium.com/p/cc28cc828a37) |
+| Sat, 05 Jul 2025 02:46:04 GMT | $2,000 Bounty: Breaking Capability Enforcement in CosmWasm Contracts | Monika sharma | [Read More](https://medium.com/p/ddea3aa5d3dc) |
+| Sat, 05 Jul 2025 02:45:57 GMT | Enumerating Subdomains With Python | Aleksa Zatezalo | [Read More](https://medium.com/p/14f06c94239c) |
+| Sat, 05 Jul 2025 02:45:21 GMT | $500 Bounty: Subdomain Takeover on live.firefox.com via Unclaimed Fastly CNAME | Monika sharma | [Read More](https://medium.com/p/c7d1971e1a32) |
+| Sat, 05 Jul 2025 02:45:16 GMT | Penetration Testing of AI: Why and How? | Sandeep Saxena | [Read More](https://medium.com/p/7b14a71e5708) |
+| Sat, 05 Jul 2025 02:44:26 GMT | Cybersecurity in 2025: Leveraging AI Without Losing Control | Sandeep Saxena | [Read More](https://medium.com/p/36cc269a9f40) |
+| Sat, 05 Jul 2025 02:32:52 GMT | I Found a Hardcoded Google API Key in a Popular Food App (and It Was Too Easy ) | AIwolfie | [Read More](https://medium.com/p/ea73edbc478a) |
+| Sat, 05 Jul 2025 02:13:08 GMT | Android Hacking 101: Beginner’s Guide to Penetration Testing | Pentester Club | [Read More](https://medium.com/p/909181c79b58) |
+| Sat, 05 Jul 2025 02:06:42 GMT | HOW I FOUND PRE-ACCOUNT TAKE OVER IN A SHOPPING PROGRAM | 0xZ3US | [Read More](https://medium.com/p/72fa283641c8) |
+| Sat, 05 Jul 2025 02:01:24 GMT | Getting Started with DefectDojo: Managing SAST and DAST Findings in One Place | Yoshiyuki Watanabe | [Read More](https://medium.com/p/945765f17123) |
 | Sat, 05 Jul 2025 01:22:53 GMT | AI-Powered Malware Is Already Here — And Your SOC Isn’t Ready for It | Sneha Rani | [Read More](https://medium.com/p/d5a222b4146f) |
 | Sat, 05 Jul 2025 01:09:22 GMT | ️ Active Directory Project (Part 1)- Create OUs ,Groups & Users | Anivesh Mohan | [Read More](https://medium.com/p/ae19711b5553) |
 | Sat, 05 Jul 2025 01:07:44 GMT | Write-up PicoCTF (Capture The Flag) — Power Cookie | Sérgio Corrêa | [Read More](https://medium.com/p/03dff7f3d3eb) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 17:06:46 GMT | Detection to Exploitation: Turning Acunetix SQLi Findings into Full Data Extraction with SQLMap | Mind Scope | [Read More](https://medium.com/p/7cc1cfa1254d) |
 | Fri, 04 Jul 2025 17:01:51 GMT | I Ignored the Red Flags as a Volunteer — Here’s How I Learned to Value My Time | Seanstechblog | [Read More](https://medium.com/p/8eac4749ab1a) |
 | Fri, 04 Jul 2025 17:01:47 GMT | Building a Security Lab in VMware Workstation Pro | 0xBEN | [Read More](https://medium.com/p/06141ba985f4) |
-| Fri, 04 Jul 2025 16:58:50 GMT | Crumbs of His Essence | AmusedAuthority | [Read More](https://medium.com/p/f6958705a769) |
-| Fri, 04 Jul 2025 16:55:34 GMT | The Admin Panel That Was Meant to Be Forgotten — But Was Still Live | Đeepanshu | [Read More](https://medium.com/p/48c5e1c01261) |
-| Fri, 04 Jul 2025 16:52:00 GMT | How GPS and RFID Trackers Work: A Deep Dive into Tracking Technology | Lisa Lusinga | [Read More](https://medium.com/p/facaf5d529a1) |
-| Fri, 04 Jul 2025 16:48:25 GMT | Intermediate Lab Environment: Configure Windows VM-1 | Allen Ace | [Read More](https://medium.com/p/4a59457ff34f) |
-| Fri, 04 Jul 2025 16:29:04 GMT | Add Any Email Without Verification — Logic Flaw in PIN Confirmation Flow | Yahaiemara | [Read More](https://medium.com/p/b74953c7921e) |
-| Fri, 04 Jul 2025 16:27:53 GMT | The DDoS Smoke Screen - Why Restoring Uptime Might Be Your Worst Mistake | Avnishyam | [Read More](https://medium.com/p/4a31ddbb71b9) |
-| Fri, 04 Jul 2025 16:21:00 GMT | Kubernetes Was Built for Herding Flocks of Services — We Make It Tame Packs of Jobs | Jan Kneissler | [Read More](https://medium.com/p/0035dad7a8f0) |
-| Fri, 04 Jul 2025 15:50:52 GMT | Forex Scam Exposed: How They Lure You In And Empty Your Wallet. | The Anti-Scam Diaries | [Read More](https://medium.com/p/8a4f1baf97e5) |
-| Fri, 04 Jul 2025 15:32:39 GMT | The Dark Web Mystery | Torzle Admin | [Read More](https://medium.com/p/cee339c722b6) |
-| Fri, 04 Jul 2025 15:31:44 GMT | Ready for the Future? These 9 AI Skills You Should Know! | Abu Toha | [Read More](https://medium.com/p/a3019279b592) |
-| Fri, 04 Jul 2025 15:31:42 GMT | How Go’s Race Detector Catches Concurrency Bugs — Internals Explained | TheOpinionatedDev | [Read More](https://medium.com/p/0f2d5f0488aa) |
-| Fri, 04 Jul 2025 15:26:40 GMT | How to Install and Use Ubuntu on a Virtual Machine | Anthony | [Read More](https://medium.com/p/74f20835114d) |
-| Fri, 04 Jul 2025 15:21:56 GMT | The Ultimate SQL Injection Guide | Roshan Ajith | [Read More](https://medium.com/p/0f4704955691) |
-| Fri, 04 Jul 2025 15:18:28 GMT | Inside Active Directory — Components, Teminology -Part2 | himanshu maurya | [Read More](https://medium.com/p/9a1e883e2a93) |
-| Fri, 04 Jul 2025 15:17:31 GMT | My Hands-On Guide to Mastering AWS KMS and S3 Encryption | Aashishchaudhari | [Read More](https://medium.com/p/e53dba6c1b2f) |
-| Fri, 04 Jul 2025 15:14:19 GMT | How AI-Powered Penetration Testing Is Changing Cybersecurity | DefenceRabbit | [Read More](https://medium.com/p/f0bdc8f401a3) |
-| Fri, 04 Jul 2025 15:11:48 GMT | TryHackMe - IronShade - WriteUp | Axoloth | [Read More](https://medium.com/p/88fa211dfb6c) |
-| Fri, 04 Jul 2025 15:08:54 GMT | Inside a Digital Breach: Lessons from a Real-World Cyber Forensics Case | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/deff0384c98f) |
-| Fri, 04 Jul 2025 15:05:47 GMT | Prompt Injection: The New Frontier of AI Vulnerabilities (And How You Can Explore It Yourself) | Anirudh Sekar | [Read More](https://medium.com/p/1e5b083bf02b) |
-| Fri, 04 Jul 2025 14:53:27 GMT | How Audio Jammers Work — And What They Really Block | Laura Turcu | [Read More](https://medium.com/p/b6c89b993ac8) |
-| Fri, 04 Jul 2025 14:51:55 GMT | What My Life Coach Taught Me About Love and Vulnerability | Mrigakshee Goswami | [Read More](https://medium.com/p/1913953965b2) |
-| Fri, 04 Jul 2025 14:50:27 GMT | Turning Into a Hacker — My TryHackMe Pickle Rick Challenge Walkthrough | Erickson | [Read More](https://medium.com/p/bd6b35ad68d4) |
-| Fri, 04 Jul 2025 14:46:29 GMT | FastMCP Bearer Token Authentication: A Technical Deep Dive | Guangya Liu | [Read More](https://medium.com/p/c05d0c5087f4) |
-| Fri, 04 Jul 2025 14:38:57 GMT | Discover Why More Businesses Are Choosing vCloud Tech for Cloud IT Solutions | Kevinasutton | [Read More](https://medium.com/p/8699ba0a0c94) |
-| Fri, 04 Jul 2025 14:19:29 GMT | PCB Design: The Hidden Bridge Between Embedded Systems and Data Science | Grace Wanja | [Read More](https://medium.com/p/4c1d3693a188) |
