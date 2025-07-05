@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 03:53:39 GMT | Hunting SSRF in a Single Page Application (SPA) — A Bug Bounty Breakdown | Jabaribrown | [Read More](https://medium.com/p/33187d2e4fb0) |
 | Sat, 05 Jul 2025 03:11:26 GMT | You Can’t Write Your Best Story — Until You Live Your Worst One | A.Rehman | [Read More](https://medium.com/p/71345f682ce9) |
 | Sat, 05 Jul 2025 03:02:12 GMT | PortSwigger Lab: Exploiting server-side parameter pollution in a query string writeup (API Testing) | awes0meness | [Read More](https://medium.com/p/69e784ec8b2e) |
 | Sat, 05 Jul 2025 03:02:05 GMT | From LFI to RCE via File Uploads — A Complete Step-by-Step Guide ️ | Zoningxtr | [Read More](https://medium.com/p/20637a1efa29) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 17:09:38 GMT | The Dark Web in 2025: The Best Search Engines, Directories, and Forums You Should Know | Torzle Admin | [Read More](https://medium.com/p/530790ea30b7) |
 | Fri, 04 Jul 2025 17:06:46 GMT | Detection to Exploitation: Turning Acunetix SQLi Findings into Full Data Extraction with SQLMap | Mind Scope | [Read More](https://medium.com/p/7cc1cfa1254d) |
 | Fri, 04 Jul 2025 17:01:51 GMT | I Ignored the Red Flags as a Volunteer — Here’s How I Learned to Value My Time | Seanstechblog | [Read More](https://medium.com/p/8eac4749ab1a) |
-| Fri, 04 Jul 2025 17:01:47 GMT | Building a Security Lab in VMware Workstation Pro | 0xBEN | [Read More](https://medium.com/p/06141ba985f4) |
