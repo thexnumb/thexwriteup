@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 08:43:59 GMT | How to Securely Store and Manage Tether (USDT) on Ledger Nano Wallet: Full Guide for ERC-20, TRC-20… | @Crypto_Support | [Read More](https://medium.com/p/7e518b53557a) |
+| Sat, 05 Jul 2025 08:41:46 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/0ecbf95797fc) |
+| Sat, 05 Jul 2025 08:30:51 GMT | 6-Month Web Application Pentesting & Bug Bounty Freelancer Roadmap
+ Overview | Rahul Kumar | [Read More](https://medium.com/p/cfa19fe95e89) |
+| Sat, 05 Jul 2025 08:26:53 GMT | DarkMatter - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/10ee74fd970d) |
 | Sat, 05 Jul 2025 08:24:09 GMT | Is NATO Still Relevant in the 21st Century?- | Bengü Su Pınar | [Read More](https://medium.com/p/59af2a9aa78d) |
+| Sat, 05 Jul 2025 08:20:18 GMT | Ai powered Threat Detection and behavioral analytics : Smart, adaptive, and context-aware. | Ekene Joseph | [Read More](https://medium.com/p/52c31017b43c) |
 | Sat, 05 Jul 2025 08:19:30 GMT | Is NATO Still Relevant in the 21st Century? — Part 1: Strategic Challenges and Global Threats | Bengü Su Pınar | [Read More](https://medium.com/p/375cf204794c) |
 | Sat, 05 Jul 2025 08:11:23 GMT | The Age Of AI And Humanity Protocol Social Credentials | PVMihalache | [Read More](https://medium.com/p/6683baa03c67) |
 | Sat, 05 Jul 2025 08:07:33 GMT | Cryptosystem - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/aff8e1dfaf9d) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 21:46:26 GMT | How I Ended Up in Cybersecurity (And How You Can Too) | Kentucky Mathitis | [Read More](https://medium.com/p/f85370c2e0ff) |
 | Fri, 04 Jul 2025 21:29:36 GMT | How SQL Injection Attacks Work (for Beginners) | Eric Dennis | [Read More](https://medium.com/p/f098c6673807) |
 | Fri, 04 Jul 2025 21:21:17 GMT | DNS: A Lista Telefônica WEB | Filipe Campos | [Read More](https://medium.com/p/50c3b0904c50) |
-| Fri, 04 Jul 2025 21:15:05 GMT | HTB Forest: A Step-by-Step Guide to Active Directory Exploitation and Automation | Michael Moomey | [Read More](https://medium.com/p/8d9ecad7a605) |
-| Fri, 04 Jul 2025 21:14:57 GMT | Spring Security (Authentications and Authorizations with UserService  (Spring boot ) . | Ayush Raj Cs | [Read More](https://medium.com/p/6d85d35cbce9) |
-| Fri, 04 Jul 2025 21:13:03 GMT | When Holding On Means Everything | Tami | [Read More](https://medium.com/p/25862e17a955) |
-| Fri, 04 Jul 2025 21:09:07 GMT | CVE-2023–46604 and the Billions Stolen from the Central Bank of Brazil: How a Lack of Business… | Alan Arantes - Enterprise & System Architect | [Read More](https://medium.com/p/469bd9405417) |
-| Fri, 04 Jul 2025 21:04:45 GMT | New Focus on Training Path — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/c69f41becff4) |
