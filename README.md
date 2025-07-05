@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 19:34:42 GMT | She Was Told She Couldn’t Love. What Happened Next Hit Me Right in the Truth | Pratibha Singh | [Read More](https://medium.com/p/ba0309c5a877) |
+| Sat, 05 Jul 2025 19:19:21 GMT | Phishing Email Awareness Series: Part-5 | Leetsec Sarwar | [Read More](https://medium.com/p/f2d6904b21d1) |
+| Sat, 05 Jul 2025 19:18:43 GMT | From Idea to Execution: Building an Entire CTF in Just 1 Day! | Priyansh | [Read More](https://medium.com/p/d11db88f7b6c) |
+| Sat, 05 Jul 2025 19:16:35 GMT | Who’s Writing? | 3S | [Read More](https://medium.com/p/93f0ac368ce0) |
+| Sat, 05 Jul 2025 19:07:09 GMT | They Tried to Erase Me. I’m Writing Myself Back In. | Soul girl | [Read More](https://medium.com/p/385ebe0aabff) |
+| Sat, 05 Jul 2025 19:06:44 GMT | Network Reconnaissance as a Way of Seeing the Invisible | Chris Veleris | [Read More](https://medium.com/p/a19580e8e18d) |
+| Sat, 05 Jul 2025 19:05:44 GMT | Certificates : CA-Signed vs Self-Signed — sravanjs.in | Sravan JS | [Read More](https://medium.com/p/a33bad9a4c04) |
 | Sat, 05 Jul 2025 18:51:44 GMT | $140M Vanished in Brazil: Central Bank Hack Exposes Flaws in Centralized Systems | CoinGen | [Read More](https://medium.com/p/9d649d20b5b4) |
 | Sat, 05 Jul 2025 18:51:39 GMT | Level 1 → 2 - Bandit Wargame — OverTheWire | Wizard-Of-Oz | [Read More](https://medium.com/p/6c865aa9f30d) |
 | Sat, 05 Jul 2025 18:51:18 GMT | Race Condition — can you run faster? | Olufela Osideko | [Read More](https://medium.com/p/3fa841cef8a3) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 12:02:55 GMT | Your SIM Card Is Spying on You — Even With GPS OFF! | Sal Tech | [Read More](https://medium.com/p/956491d21675) |
 | Sat, 05 Jul 2025 12:02:48 GMT | “All There Is, Is Growth”
 A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/p/72067ba28552) |
-| Sat, 05 Jul 2025 11:57:19 GMT | The Thin Line Between Online Vulnerability and Sharing Too Much | Elizabeth Caroline | [Read More](https://medium.com/p/fbda21754afb) |
-| Sat, 05 Jul 2025 11:42:23 GMT | Where to Get BOUNTY: A Quick Guide | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/4c7c234ca15d) |
-| Sat, 05 Jul 2025 11:37:47 GMT | The Second Act of Life: On Vulnerability and Mortality | Vijay Solanki | [Read More](https://medium.com/p/15df690c8140) |
-| Sat, 05 Jul 2025 11:27:13 GMT | Siber Güvenlik Yolculuğum Başladı: TalentCoders Kampı 1. Hafta Deneyimim | Talha Tarlabaz | [Read More](https://medium.com/p/f566f4370aaa) |
-| Sat, 05 Jul 2025 11:18:25 GMT | Zero Trust Architecture: Why It’s the Future of Security | Joy Saha | [Read More](https://medium.com/p/09a7e1b8f78a) |
-| Sat, 05 Jul 2025 11:04:40 GMT | How to Find and Exploit Vulnerabilities in WordPress Themes | Sumit Shaw | [Read More](https://medium.com/p/75ad0c3243b9) |
-| Sat, 05 Jul 2025 11:03:02 GMT | Birthday of Attacks: SHA-1 Collision | Oludare Stephen Ayobami | [Read More](https://medium.com/p/377e8f8c66c9) |
