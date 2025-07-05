@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 11:04:40 GMT | How to Find and Exploit Vulnerabilities in WordPress Themes | Sumit Shaw | [Read More](https://medium.com/p/75ad0c3243b9) |
+| Sat, 05 Jul 2025 11:03:02 GMT | Birthday of Attacks: SHA-1 Collision | Oludare Stephen Ayobami | [Read More](https://medium.com/p/377e8f8c66c9) |
+| Sat, 05 Jul 2025 10:49:21 GMT | Privilege Escalation through DLL Hijacking (Windows Systems) | Ammar Ahmed | [Read More](https://medium.com/p/6fa6343ddead) |
+| Sat, 05 Jul 2025 10:41:34 GMT | What I Learned While Exploring Network Security: TCP SYN Flood Attack | NineTales | [Read More](https://medium.com/p/88d5e4c33aa1) |
+| Sat, 05 Jul 2025 10:38:28 GMT | Retracted | Krishna | [Read More](https://medium.com/p/418d2b52a7e6) |
+| Sat, 05 Jul 2025 10:37:22 GMT | Risk Management, Vulnerabilities, and Threats in Cybersecurity | Balogun Ayomide | [Read More](https://medium.com/p/ead594be5981) |
 | Sat, 05 Jul 2025 10:35:26 GMT | PutraGPT: The AI Revolution in Penetration Testing Has Begun | Ekene Joseph | [Read More](https://medium.com/p/ba1b761ec7d3) |
 | Sat, 05 Jul 2025 10:34:24 GMT | Getting into CyberSecurity. | Shubham Saral | [Read More](https://medium.com/p/49dc1256f1c3) |
 | Sat, 05 Jul 2025 10:32:58 GMT | Boost Your website Traffic with Mypornads Directory Listing | mypornads | [Read More](https://medium.com/p/a84db1fed603) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 03:53:39 GMT | Hunting SSRF in a Single Page Application (SPA) — A Bug Bounty Breakdown | Jabaribrown | [Read More](https://medium.com/p/33187d2e4fb0) |
 | Sat, 05 Jul 2025 03:11:26 GMT | You Can’t Write Your Best Story — Until You Live Your Worst One | A.Rehman | [Read More](https://medium.com/p/71345f682ce9) |
 | Sat, 05 Jul 2025 03:02:12 GMT | PortSwigger Lab: Exploiting server-side parameter pollution in a query string writeup (API Testing) | awes0meness | [Read More](https://medium.com/p/69e784ec8b2e) |
-| Sat, 05 Jul 2025 03:02:05 GMT | From LFI to RCE via File Uploads — A Complete Step-by-Step Guide ️ | Zoningxtr | [Read More](https://medium.com/p/20637a1efa29) |
-| Sat, 05 Jul 2025 03:01:48 GMT | ️ 45 Days of Cybersecurity — Day 2: Networking Basics | Vinayak | [Read More](https://medium.com/p/0d8eb8511205) |
-| Sat, 05 Jul 2025 02:59:30 GMT | Very Vulnerable Management API (VVMA) | Easpy | [Read More](https://medium.com/p/062a522a2be9) |
-| Sat, 05 Jul 2025 02:57:39 GMT | $1,000 Bounty: Stored XSS in Trix Editor v2.1.1 via Malicious Paste Payload | Monika sharma | [Read More](https://medium.com/p/4fa413fcde28) |
-| Sat, 05 Jul 2025 02:57:31 GMT | Stolen Credentials Drive 83% of Attacks — Machines Are the Weakest Link | Aj | [Read More](https://medium.com/p/debca6c33f36) |
-| Sat, 05 Jul 2025 02:56:01 GMT | ️ Active Directory Project (Part 2): Setting Up GPOs & GPMC Tool | Anivesh Mohan | [Read More](https://medium.com/p/29ac45f5c915) |
