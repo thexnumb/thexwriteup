@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 08:24:09 GMT | Is NATO Still Relevant in the 21st Century?- | Bengü Su Pınar | [Read More](https://medium.com/p/59af2a9aa78d) |
+| Sat, 05 Jul 2025 08:19:30 GMT | Is NATO Still Relevant in the 21st Century? — Part 1: Strategic Challenges and Global Threats | Bengü Su Pınar | [Read More](https://medium.com/p/375cf204794c) |
+| Sat, 05 Jul 2025 08:11:23 GMT | The Age Of AI And Humanity Protocol Social Credentials | PVMihalache | [Read More](https://medium.com/p/6683baa03c67) |
+| Sat, 05 Jul 2025 08:07:33 GMT | Cryptosystem - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/aff8e1dfaf9d) |
+| Sat, 05 Jul 2025 07:54:37 GMT | Cipher’s Secret Message - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/9a60a68e4f6c) |
+| Sat, 05 Jul 2025 07:52:47 GMT | “Pod Crimes: Kubernetes Forensics Made Simple (Because the Pod Did It)” | Shashank N | [Read More](https://medium.com/p/46dd2991aec7) |
 | Sat, 05 Jul 2025 07:28:53 GMT | Today’s Top Cyber Intelligence Highlights — Jul 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/1a1af86905ae) |
 | Sat, 05 Jul 2025 07:27:13 GMT | The Linux Concept Journey — /boot/System.map | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0420fbcff0f4) |
 | Sat, 05 Jul 2025 07:20:11 GMT | How Quantum Chips Will Unlock the Next Era of Human Progress | Zaviq Alnour | [Read More](https://medium.com/p/59edad79fdf8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 21:13:03 GMT | When Holding On Means Everything | Tami | [Read More](https://medium.com/p/25862e17a955) |
 | Fri, 04 Jul 2025 21:09:07 GMT | CVE-2023–46604 and the Billions Stolen from the Central Bank of Brazil: How a Lack of Business… | Alan Arantes - Enterprise & System Architect | [Read More](https://medium.com/p/469bd9405417) |
 | Fri, 04 Jul 2025 21:04:45 GMT | New Focus on Training Path — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/c69f41becff4) |
-| Fri, 04 Jul 2025 20:56:53 GMT | Boost Your DORK $DORK Strategy with These Expert Tips | $DORK (DORK) | [Read More](https://medium.com/p/59dc52739556) |
-| Fri, 04 Jul 2025 20:56:10 GMT | Intermediate Lab Environment Part 6.b: Configure Windows VM-2 | Allen Ace | [Read More](https://medium.com/p/071b65c06315) |
-| Fri, 04 Jul 2025 20:54:01 GMT | SOC Automation Project Part-4 | rkn | [Read More](https://medium.com/p/54d6c3660557) |
-| Fri, 04 Jul 2025 20:49:37 GMT | CTF include- TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/4438f71f693f) |
-| Fri, 04 Jul 2025 20:45:50 GMT | Kali Linux Aracı: Seeker ile Sahte Link Üzerinden Konum ve IP Tespiti | Ömer Sefa Çarıkçı | [Read More](https://medium.com/p/07f5ea0f9583) |
-| Fri, 04 Jul 2025 20:45:27 GMT | Who Am I?- CyberTalents Walkthrough | Bridget | [Read More](https://medium.com/p/fbf9cd783ec6) |
