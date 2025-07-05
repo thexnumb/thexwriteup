@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 16:33:07 GMT | Passive Reconnaissance — TryHackMe | sercan timocin | [Read More](https://medium.com/p/9ca69e23c805) |
 | Sat, 05 Jul 2025 16:21:20 GMT | How a Social Icon Can Become a Threat Vector | vaaditya320 | [Read More](https://medium.com/p/c041e0b43d0a) |
 | Sat, 05 Jul 2025 16:13:27 GMT | Inside the Bybit Hack (Feb 2025) — What Went Wrong & How to Stop It Happening Again | Ikigai Academy | [Read More](https://medium.com/p/5b7721471435) |
 | Sat, 05 Jul 2025 16:05:44 GMT | The importance of URL enumeration | yee-yore | [Read More](https://medium.com/p/f6b579efd874) |
@@ -100,6 +101,7 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 10:15:08 GMT | TryHackMe Wonderland — Walkthrough | mauzware | [Read More](https://medium.com/p/a019588b5793) |
 | Sat, 05 Jul 2025 10:10:07 GMT | Insider Threats in the Age of Hybrid Work & AI: The Invisible Cyber Risk of 2025 | Mohammed Gabic | [Read More](https://medium.com/p/4969c015c37e) |
 | Sat, 05 Jul 2025 10:09:02 GMT | AI-Driven Security Startups: The Next Wave of Cyber Defense | noailabs | [Read More](https://medium.com/p/d8651a2e015c) |
+| Sat, 05 Jul 2025 10:05:31 GMT | Burp Suite: Extensions — TryHackMe | sercan timocin | [Read More](https://medium.com/p/8a369381928f) |
 | Sat, 05 Jul 2025 10:03:43 GMT | DORK: A Beginner’s Walkthrough | $DORK (DORK) | [Read More](https://medium.com/p/58a3ce8cdee6) |
 | Sat, 05 Jul 2025 10:02:44 GMT | Privacy vs. Border Security? The Medicaid Data Lawsuit and the Battle for American Sovereignty | Michael Phillips | [Read More](https://medium.com/p/42836b038ee5) |
 | Sat, 05 Jul 2025 09:57:11 GMT | Building Smarter Systems: My Hands-On Journey With AI-Powered Automation | Safora Nafees | [Read More](https://medium.com/p/81292063bd64) |
@@ -112,5 +114,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 09:14:24 GMT | When the Checkout Gets Hacked: What the Ahold Delhaize Breach Reveals About Retail Cybersecurity | Deven Chhajed | [Read More](https://medium.com/p/f7057452fdbc) |
 | Sat, 05 Jul 2025 09:13:08 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/96f216544ffb) |
 | Sat, 05 Jul 2025 09:09:57 GMT | AI-Augmented Threat Detection: Why Behavioral Analytics Is Replacing Rule-Based Security | Mr Joe | [Read More](https://medium.com/p/33ed179d5134) |
-| Sat, 05 Jul 2025 09:08:24 GMT | ️ MERDEKA SIBER — TASK 1 COMPLETED ️ | Hans Nova Santosa | [Read More](https://medium.com/p/6c55ecd6aa99) |
-| Sat, 05 Jul 2025 09:06:13 GMT | From Paper-Thin Proof to Tamper-Proof Assurance: AISphere’s Immutable Pen-Test Ledger | Goodwell Mafunga | [Read More](https://medium.com/p/ab894583b046) |
