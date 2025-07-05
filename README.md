@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 13:26:44 GMT | “No MFA. No Questions. Just an Email Inbox — And a Turning Point” | mr independent | [Read More](https://medium.com/p/dc600f01c3da) |
+| Sat, 05 Jul 2025 13:20:05 GMT | How to increase claps in our medium articles | S Anuradha | [Read More](https://medium.com/p/51eaef127827) |
+| Sat, 05 Jul 2025 13:19:32 GMT | . "I Reported the Crime — And Ended Up Being Treated Like the | S Anuradha | [Read More](https://medium.com/p/e213db0af59a) |
+| Sat, 05 Jul 2025 13:18:57 GMT | 10 Tiny Habits That Changed My Life — and Got Me 100,000 Claps on Medium” | S Anuradha | [Read More](https://medium.com/p/6c5619fb04f1) |
+| Sat, 05 Jul 2025 13:04:04 GMT | What is Keycloak? Understanding Identity and Access Management | Parmesh Bhatt | [Read More](https://medium.com/p/de409b99e9c9) |
+| Sat, 05 Jul 2025 13:03:08 GMT | Write-up: File path traversal, traversal sequences stripped with superfluous URL-decode | Rabia Riaz | [Read More](https://medium.com/p/29a18e110fec) |
+| Sat, 05 Jul 2025 13:01:51 GMT | Achilles Heel | Paroma Sen | [Read More](https://medium.com/p/c0a272726349) |
+| Sat, 05 Jul 2025 12:58:02 GMT | ️ Beyond /etc/passwd: LFI Bypass, The Ultimate Guide | Shah kaif | [Read More](https://medium.com/p/5829d1efb600) |
+| Sat, 05 Jul 2025 12:48:37 GMT | The Journey Begins : From Student to Cybersecurity AI Founder | Sricharan Reddy M | [Read More](https://medium.com/p/14f3643ca49f) |
+| Sat, 05 Jul 2025 12:42:17 GMT | Mapping the Forgotten Corners of the Network | R. Eric Kiser | [Read More](https://medium.com/p/9cf44194a32c) |
+| Sat, 05 Jul 2025 12:35:58 GMT | Secure Email Server: The Email Upgrade You Didn’t Know You Needed | Devansh | [Read More](https://medium.com/p/161b92e6cd52) |
 | Sat, 05 Jul 2025 12:34:51 GMT | Best Browser Extensions for Ethical Hacking & Pentesting (2025 Edition) | Ghulam Mohiuddin | [Read More](https://medium.com/p/6b9d2a2b0de6) |
 | Sat, 05 Jul 2025 12:31:40 GMT | I Forked a Repo and Got Secrets. Here’s How | Đeepanshu | [Read More](https://medium.com/p/af3c4f8d0155) |
 | Sat, 05 Jul 2025 12:31:16 GMT | Comprehensive Guide to John the Ripper: The Password Cracking Tool | Sumit Shaw | [Read More](https://medium.com/p/70325ea26ed8) |
@@ -103,14 +114,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 06:17:48 GMT | Exploring the World of Hardware Wallets | Fausettirenia | [Read More](https://medium.com/p/76c1afda8fc1) |
 | Sat, 05 Jul 2025 06:17:22 GMT | Why is Cyber Security important? | Kavithayeravothula | [Read More](https://medium.com/p/f82924c73195) |
 | Sat, 05 Jul 2025 06:09:32 GMT | My First Cybersecurity Interview: I Didn’t Get the Job — But I Gained Something Bigger | Ajay Bommidi | [Read More](https://medium.com/p/b0ca02b634d1) |
-| Sat, 05 Jul 2025 06:08:54 GMT | 20 Cybersecurity Project Ideas — From Beginner to Expert | Paritosh | [Read More](https://medium.com/p/5d89df4e81b3) |
-| Sat, 05 Jul 2025 05:57:47 GMT | Protect Before You Paste: Meet Prompt Security | Tao Jiang | [Read More](https://medium.com/p/2b9acfc9f0ce) |
-| Sat, 05 Jul 2025 05:50:58 GMT | Polymorphic Defense: A Doctrinal Leap in Cybersecurity Strategy for an AI-Driven Threat Landscape | Carlo Tortora-Brayda Di Belvedere | [Read More](https://medium.com/p/0daf8033214c) |
-| Sat, 05 Jul 2025 05:49:43 GMT | You Are the Product: The Price of ‘Free’ in the Digital Age | MayhemCode | [Read More](https://medium.com/p/605d7d7cbd88) |
-| Sat, 05 Jul 2025 05:45:40 GMT | AI & Quantum Revolution | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/a0de1eecb683) |
-| Sat, 05 Jul 2025 05:45:12 GMT | Cybersecurity in the Age of AI | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/548614da91eb) |
-| Sat, 05 Jul 2025 05:28:53 GMT | Breaking the box: Guide to Thick Client Security Testing | William Wira | [Read More](https://medium.com/p/56f4b827111a) |
-| Sat, 05 Jul 2025 05:28:17 GMT | OAuth-2 flow | Arunesh Sri | [Read More](https://medium.com/p/daaebf91a6e2) |
-| Sat, 05 Jul 2025 05:15:53 GMT | The Future of Cybersecurity: AI-Powered Detection of Malware and Phishing | Faraz Ishaq | [Read More](https://medium.com/p/b448a689880e) |
-| Sat, 05 Jul 2025 05:13:48 GMT | These Cybersecurity Roles Are the Future: How to Thrive in the Age of AI | Darshan | [Read More](https://medium.com/p/89c39dffde2c) |
-| Sat, 05 Jul 2025 05:02:20 GMT | Secrets in Code — Don’t Let Your API Keys Become Attack Vectors | Ayush Bulbule | [Read More](https://medium.com/p/033956c911a5) |
