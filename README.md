@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 15:33:30 GMT | I'm Still the Same as I Was Years Ago | Brenda Mesquita | [Read More](https://medium.com/p/472b49d052c1) |
+| Sat, 05 Jul 2025 15:27:45 GMT | Post-Exploitation with PowerShell Empire & Covenant: A Practical Walkthrough | Karthikeyan Nagaraj | [Read More](https://medium.com/p/0efc79ec6cc0) |
+| Sat, 05 Jul 2025 15:25:58 GMT | From “Oops!” to “Fortress”: My Journey to Building Secure Systems by Default | Aman Sharma | [Read More](https://medium.com/p/e4fb8d9ac0ad) |
+| Sat, 05 Jul 2025 15:24:57 GMT | From Code to Silicon: How Binary Powers the CPU and Microprocessor | Allen Ace | [Read More](https://medium.com/p/a9513aa6a2e4) |
+| Sat, 05 Jul 2025 15:19:55 GMT | Advanced API Access Control Testing with Burp Suite: Combining API Scanner + Autorize | Ekene Joseph | [Read More](https://medium.com/p/9c24c08e864e) |
+| Sat, 05 Jul 2025 15:18:55 GMT | Show Off; Life Is Not An | Imran Uz Zaman | [Read More](https://medium.com/p/2addb04a289b) |
 | Sat, 05 Jul 2025 15:10:36 GMT | Hands-On Lab: JSON API Security Testing with Burp Suite (Step-by-Step Guide) | Carylrobert | [Read More](https://medium.com/p/1b8cbaae890e) |
 | Sat, 05 Jul 2025 15:03:28 GMT | Fuzzing JSON APIs with Burp Suite: The Pentester’s Guide to Breaking Modern APIs | Carylrobert | [Read More](https://medium.com/p/9196657df8fe) |
 | Sat, 05 Jul 2025 14:55:38 GMT | Burp Suite + “API Scanner” Extension: Your Secret Weapon for API Pentesting | Carylrobert | [Read More](https://medium.com/p/6bbf5dd3ea57) |
@@ -107,10 +113,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 08:43:59 GMT | How to Securely Store and Manage Tether (USDT) on Ledger Nano Wallet: Full Guide for ERC-20, TRC-20… | @Crypto_Support | [Read More](https://medium.com/p/7e518b53557a) |
 | Sat, 05 Jul 2025 08:42:24 GMT | Cloudflare’s Big Secret: It’s Not Just Firewalls, It’s… Lava Lamps?! ✨ | Raj Singh | [Read More](https://medium.com/p/1d740b2bdbb7) |
 | Sat, 05 Jul 2025 08:41:46 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/0ecbf95797fc) |
-| Sat, 05 Jul 2025 08:38:41 GMT | How to Use John the Ripper to Crack an Encrypted RSA Key and Access a Remote Machine via SSH… | jrntm | [Read More](https://medium.com/p/a0b69e86c88f) |
-| Sat, 05 Jul 2025 08:30:51 GMT | 6-Month Web Application Pentesting & Bug Bounty Freelancer Roadmap
- Overview | Rahul Kumar | [Read More](https://medium.com/p/cfa19fe95e89) |
-| Sat, 05 Jul 2025 08:26:53 GMT | DarkMatter - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/10ee74fd970d) |
-| Sat, 05 Jul 2025 08:24:09 GMT | Is NATO Still Relevant in the 21st Century?- | Bengü Su Pınar | [Read More](https://medium.com/p/59af2a9aa78d) |
-| Sat, 05 Jul 2025 08:20:18 GMT | Ai powered Threat Detection and behavioral analytics : Smart, adaptive, and context-aware. | Ekene Joseph | [Read More](https://medium.com/p/52c31017b43c) |
-| Sat, 05 Jul 2025 08:19:31 GMT | Blockchain 51% Attack Gaskiya da Gaskiyar Kare Kai Daga Hadari | Umarfarooq | [Read More](https://medium.com/p/630d47814796) |
