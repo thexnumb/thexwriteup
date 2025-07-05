@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 22:55:04 GMT | Ka-Ka-Ka-Ken: What a British Comedy Taught Me About Cancer | Will2Endure | [Read More](https://medium.com/p/ef979766819b) |
+| Sat, 05 Jul 2025 22:55:01 GMT | SSTI(Server-side template injection) | Azer Abdullazde | [Read More](https://medium.com/p/d6a5d86171f0) |
+| Sat, 05 Jul 2025 22:52:06 GMT | “Phishing” in Cybersecurity: What It Is and How to Stay Safe. | Thomas Angela | [Read More](https://medium.com/p/4d3a13f71c4d) |
+| Sat, 05 Jul 2025 22:50:01 GMT | Hands‑On OT Security: Building and Breaking with Labshock | josegpac | [Read More](https://medium.com/p/f99f21af2a96) |
 | Sat, 05 Jul 2025 22:37:08 GMT | “I Was Always Told to Be ‘Low Maintenance.’ Now I Know That Was a Trap.” | Anshika Prajapati | [Read More](https://medium.com/p/20db72ed8901) |
 | Sat, 05 Jul 2025 22:28:36 GMT | From Code to Security: How VulnDec Uses AI to Find Vulnerabilities | Kasib Mansuri | [Read More](https://medium.com/p/1f8f40e3ee76) |
 | Sat, 05 Jul 2025 21:57:40 GMT | The Big Five Smart Contract Vulnerabilities Behind the Most Devastating Hacks: A 2025 Postmortem | Mohammad Khezer | [Read More](https://medium.com/p/197836a34733) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 15:18:55 GMT | Show Off; Life Is Not An | Imran Uz Zaman | [Read More](https://medium.com/p/2addb04a289b) |
 | Sat, 05 Jul 2025 15:10:36 GMT | Hands-On Lab: JSON API Security Testing with Burp Suite (Step-by-Step Guide) | Carylrobert | [Read More](https://medium.com/p/1b8cbaae890e) |
 | Sat, 05 Jul 2025 15:03:28 GMT | Fuzzing JSON APIs with Burp Suite: The Pentester’s Guide to Breaking Modern APIs | Carylrobert | [Read More](https://medium.com/p/9196657df8fe) |
-| Sat, 05 Jul 2025 14:55:38 GMT | Burp Suite + “API Scanner” Extension: Your Secret Weapon for API Pentesting | Carylrobert | [Read More](https://medium.com/p/6bbf5dd3ea57) |
-| Sat, 05 Jul 2025 14:52:53 GMT | DevSecOps Is Becoming Just a Compliance Checkbox — Not Real Security | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/c79c13d60a10) |
-| Sat, 05 Jul 2025 14:44:33 GMT | Subdomain Takeover: When Your Own Domain Becomes Your Enemy ️‍♂️ | Het Patel | [Read More](https://medium.com/p/8c80e650aeea) |
-| Sat, 05 Jul 2025 14:44:19 GMT | S.O.L.I.D. Principles | ali ibrahimzade | [Read More](https://medium.com/p/8a3abff3c46e) |
