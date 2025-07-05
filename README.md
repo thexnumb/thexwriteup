@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 23:30:25 GMT | Cuttlefish2: Jira bug similarity search(and RAG) | Heemeng Foo | [Read More](https://medium.com/p/1bde273d2238) |
+| Sat, 05 Jul 2025 23:21:39 GMT | We Accidentally Hacked a Government — Here’s What We Found in Their AI War Room | Sneha Rani | [Read More](https://medium.com/p/e2880e4523b8) |
 | Sat, 05 Jul 2025 22:55:04 GMT | Ka-Ka-Ka-Ken: What a British Comedy Taught Me About Cancer | Will2Endure | [Read More](https://medium.com/p/ef979766819b) |
 | Sat, 05 Jul 2025 22:55:01 GMT | SSTI(Server-side template injection) | Azer Abdullazde | [Read More](https://medium.com/p/d6a5d86171f0) |
 | Sat, 05 Jul 2025 22:52:06 GMT | “Phishing” in Cybersecurity: What It Is and How to Stay Safe. | Thomas Angela | [Read More](https://medium.com/p/4d3a13f71c4d) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 15:24:57 GMT | From Code to Silicon: How Binary Powers the CPU and Microprocessor | Allen Ace | [Read More](https://medium.com/p/a9513aa6a2e4) |
 | Sat, 05 Jul 2025 15:19:55 GMT | Advanced API Access Control Testing with Burp Suite: Combining API Scanner + Autorize | Ekene Joseph | [Read More](https://medium.com/p/9c24c08e864e) |
 | Sat, 05 Jul 2025 15:18:55 GMT | Show Off; Life Is Not An | Imran Uz Zaman | [Read More](https://medium.com/p/2addb04a289b) |
-| Sat, 05 Jul 2025 15:10:36 GMT | Hands-On Lab: JSON API Security Testing with Burp Suite (Step-by-Step Guide) | Carylrobert | [Read More](https://medium.com/p/1b8cbaae890e) |
-| Sat, 05 Jul 2025 15:03:28 GMT | Fuzzing JSON APIs with Burp Suite: The Pentester’s Guide to Breaking Modern APIs | Carylrobert | [Read More](https://medium.com/p/9196657df8fe) |
