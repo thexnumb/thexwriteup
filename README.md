@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 07:28:53 GMT | Today’s Top Cyber Intelligence Highlights — Jul 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/1a1af86905ae) |
+| Sat, 05 Jul 2025 07:27:13 GMT | The Linux Concept Journey — /boot/System.map | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0420fbcff0f4) |
+| Sat, 05 Jul 2025 07:20:11 GMT | How Quantum Chips Will Unlock the Next Era of Human Progress | Zaviq Alnour | [Read More](https://medium.com/p/59edad79fdf8) |
+| Sat, 05 Jul 2025 07:19:28 GMT | head-dump - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/7d495b7f5504) |
 | Sat, 05 Jul 2025 07:03:36 GMT | 500 OT Devices Exposed Online Without Login — An Ethical Deep. | hacker_might | [Read More](https://medium.com/p/5d6be16200fd) |
 | Sat, 05 Jul 2025 07:02:07 GMT | Breach in the Sky: The Qantas Cyberattack | Saransh Mahajan | [Read More](https://medium.com/p/d1fcb2853842) |
 | Sat, 05 Jul 2025 06:51:51 GMT | الربح من التسويق بالذكاء الاصطناعي: دليلك الشامل لتحقيق دخل مستدام | katibatech | [Read More](https://medium.com/p/e2db7d9c49f1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 20:49:37 GMT | CTF include- TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/4438f71f693f) |
 | Fri, 04 Jul 2025 20:45:50 GMT | Kali Linux Aracı: Seeker ile Sahte Link Üzerinden Konum ve IP Tespiti | Ömer Sefa Çarıkçı | [Read More](https://medium.com/p/07f5ea0f9583) |
 | Fri, 04 Jul 2025 20:45:27 GMT | Who Am I?- CyberTalents Walkthrough | Bridget | [Read More](https://medium.com/p/fbf9cd783ec6) |
-| Fri, 04 Jul 2025 20:18:41 GMT | Vulnversity - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/274b8394ee00) |
-| Fri, 04 Jul 2025 19:51:48 GMT | SSTI&CSTI Nedir? | Muhammed Kasım Doğan | [Read More](https://medium.com/p/32a62f0c8765) |
-| Fri, 04 Jul 2025 19:47:14 GMT | Your Data and Where It Lives | Santiago Bravo | [Read More](https://medium.com/p/b9b2d95b6a6d) |
-| Fri, 04 Jul 2025 19:37:08 GMT | Where Vulnerabilities Come From | Sammcmullen | [Read More](https://medium.com/p/2b28964396cd) |
