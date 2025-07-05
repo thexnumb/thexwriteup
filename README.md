@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 06:43:19 GMT | A Beginner's Guide To Getting Rewards On Bugs Bunny ($BUGS) | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/51f853231b86) |
+| Sat, 05 Jul 2025 06:38:05 GMT | OWASP Pentest Series (12/12) | TheZeeshanKhan | [Read More](https://medium.com/p/62246e07f700) |
+| Sat, 05 Jul 2025 06:36:51 GMT | n0s4n1ty 1 - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/cb86b0c66ca1) |
+| Sat, 05 Jul 2025 06:21:08 GMT | Unattached, Unfiltered, Undone | Quarter Life Crises Co. | [Read More](https://medium.com/p/22148f8e5ad4) |
 | Sat, 05 Jul 2025 06:18:14 GMT | Bounty $BNTY: The Key to Unlocking Bigger Earnings | $BNTY (Bounty) | [Read More](https://medium.com/p/0d07e0388612) |
 | Sat, 05 Jul 2025 06:17:48 GMT | Exploring the World of Hardware Wallets | Fausettirenia | [Read More](https://medium.com/p/76c1afda8fc1) |
 | Sat, 05 Jul 2025 06:17:22 GMT | Why is Cyber Security important? | Kavithayeravothula | [Read More](https://medium.com/p/f82924c73195) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 19:07:44 GMT | Mastering Nmap: The Ultimate Guide for Ethical Hackers and Security Pros | Rushikesh G | [Read More](https://medium.com/p/b1fdf5673991) |
 | Fri, 04 Jul 2025 19:05:47 GMT | Securing Microsoft Fabric: Outbound Traffic | Amirhossein Borghei Razavi | [Read More](https://medium.com/p/18c07ba61551) |
 | Fri, 04 Jul 2025 19:05:37 GMT | Windows Command Line — TryHackMe | hareem khan | [Read More](https://medium.com/p/065ed419d33f) |
-| Fri, 04 Jul 2025 19:05:21 GMT | Call of Duty: WWII Is Hacked — Game Pass Players Hit by Dangerous RCE Exploits | Aaron | [Read More](https://medium.com/p/7902fe35410d) |
-| Fri, 04 Jul 2025 19:04:05 GMT | How to Prevent and Counter WhatsApp Hack: Essential Tips to Secure Your Account | Aminu Barade | [Read More](https://medium.com/p/8fbfbbec339e) |
-| Fri, 04 Jul 2025 18:57:45 GMT | Burp AI: A New Revolution in Web Security? | Rabia Riaz | [Read More](https://medium.com/p/b73c0f9a1902) |
-| Fri, 04 Jul 2025 18:36:48 GMT | Oops, I Did It Again | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/7c16ba46608f) |
