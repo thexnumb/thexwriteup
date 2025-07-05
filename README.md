@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 17:17:31 GMT | My Cybersecurity Interview Journey: From Doubt to Confidence | Ganesan R | [Read More](https://medium.com/p/405d46785dc8) |
+| Sat, 05 Jul 2025 17:10:34 GMT | Intro to Threat Profiling: Backbone of Proactive Cyber Defense | Hrishidev K V | [Read More](https://medium.com/p/80ca40b2cdbf) |
+| Sat, 05 Jul 2025 17:09:07 GMT | Accordare giusto e corretto: gli altri in breve | Ennio Martignago | [Read More](https://medium.com/p/06c913c03db0) |
+| Sat, 05 Jul 2025 17:08:48 GMT | “The Pentester Who Broke Our Prod: A Cloud Security Horror Story” | Sneha Rani | [Read More](https://medium.com/p/4be118d977d8) |
+| Sat, 05 Jul 2025 17:08:39 GMT | Before the Audit: Solidity Vulnerabilities | Universal_Photon | [Read More](https://medium.com/p/e91ae26be3fa) |
+| Sat, 05 Jul 2025 17:03:18 GMT | Legal Technology: Innovating the Future of Law | Barbascumpa Galina | [Read More](https://medium.com/p/29a4b0829d6e) |
+| Sat, 05 Jul 2025 16:53:55 GMT | Fluffy HTB Machine — A Deep Dive into Windows Active Directory Exploitation | Sameer Shah | [Read More](https://medium.com/p/d620e5457dcf) |
+| Sat, 05 Jul 2025 16:53:52 GMT | The Role of Governance, Risk & Compliance (GRC) in Modern Cybersecurity Frameworks | Richard Dosumu | [Read More](https://medium.com/p/ae5211c99716) |
+| Sat, 05 Jul 2025 16:53:22 GMT | Building FileSentinel: My First Defensive Cybersecurity Tool (and an Unexpected Friendship with… | Jeevanparajuli | [Read More](https://medium.com/p/6f9fa6c60e54) |
+| Sat, 05 Jul 2025 16:50:15 GMT | How a Social Icon Can Become a Threat Vector | vaaditya320 | [Read More](https://medium.com/p/58a2266ff685) |
+| Sat, 05 Jul 2025 16:42:25 GMT | Russia was blamed for attempting to Hack Border Security Cameras to disrupt Ukraine’s aid. | Athar | [Read More](https://medium.com/p/deef679cbd95) |
 | Sat, 05 Jul 2025 16:33:07 GMT | Passive Reconnaissance — TryHackMe | sercan timocin | [Read More](https://medium.com/p/9ca69e23c805) |
 | Sat, 05 Jul 2025 16:21:20 GMT | How a Social Icon Can Become a Threat Vector | vaaditya320 | [Read More](https://medium.com/p/c041e0b43d0a) |
 | Sat, 05 Jul 2025 16:13:27 GMT | Inside the Bybit Hack (Feb 2025) — What Went Wrong & How to Stop It Happening Again | Ikigai Academy | [Read More](https://medium.com/p/5b7721471435) |
@@ -103,14 +114,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 10:09:02 GMT | AI-Driven Security Startups: The Next Wave of Cyber Defense | noailabs | [Read More](https://medium.com/p/d8651a2e015c) |
 | Sat, 05 Jul 2025 10:05:31 GMT | Burp Suite: Extensions — TryHackMe | sercan timocin | [Read More](https://medium.com/p/8a369381928f) |
 | Sat, 05 Jul 2025 10:03:43 GMT | DORK: A Beginner’s Walkthrough | $DORK (DORK) | [Read More](https://medium.com/p/58a3ce8cdee6) |
-| Sat, 05 Jul 2025 10:02:44 GMT | Privacy vs. Border Security? The Medicaid Data Lawsuit and the Battle for American Sovereignty | Michael Phillips | [Read More](https://medium.com/p/42836b038ee5) |
-| Sat, 05 Jul 2025 09:57:11 GMT | Building Smarter Systems: My Hands-On Journey With AI-Powered Automation | Safora Nafees | [Read More](https://medium.com/p/81292063bd64) |
-| Sat, 05 Jul 2025 09:53:56 GMT | It’s Just a Preview… Until It Isn’t: File Previews That Leaked Everything | Iski | [Read More](https://medium.com/p/d1fd4dae7804) |
-| Sat, 05 Jul 2025 09:39:45 GMT | Token Storage in React: Which Approach is Right for Your App? | Sopan Shinde | [Read More](https://medium.com/p/1c52396278ab) |
-| Sat, 05 Jul 2025 09:38:29 GMT | Watch Out: Your Cyber-Lego might collapse! | Cemil Cetinbas | [Read More](https://medium.com/p/b862a0c2cb2a) |
-| Sat, 05 Jul 2025 09:38:06 GMT | How Much More Must We Bleed? — Citrix Bleed 2 (CVE‑2025‑5777) | Darshan | [Read More](https://medium.com/p/09d246adbf2d) |
-| Sat, 05 Jul 2025 09:23:46 GMT | Setting Up a Windows VM for Log Collection Using the ELK Stack — A Step-by-Step Guide | Suprim Devkota | [Read More](https://medium.com/p/f68444d9fba5) |
-| Sat, 05 Jul 2025 09:18:16 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/19322f00ba02) |
-| Sat, 05 Jul 2025 09:14:24 GMT | When the Checkout Gets Hacked: What the Ahold Delhaize Breach Reveals About Retail Cybersecurity | Deven Chhajed | [Read More](https://medium.com/p/f7057452fdbc) |
-| Sat, 05 Jul 2025 09:13:08 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/96f216544ffb) |
-| Sat, 05 Jul 2025 09:09:57 GMT | AI-Augmented Threat Detection: Why Behavioral Analytics Is Replacing Rule-Based Security | Mr Joe | [Read More](https://medium.com/p/33ed179d5134) |
