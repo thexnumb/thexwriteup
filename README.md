@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 21:57:40 GMT | The Big Five Smart Contract Vulnerabilities Behind the Most Devastating Hacks: A 2025 Postmortem | Mohammad Khezer | [Read More](https://medium.com/p/197836a34733) |
+| Sat, 05 Jul 2025 21:52:12 GMT | Active Reconnaissance — TryHackMe | sercan timocin | [Read More](https://medium.com/p/0aabf7a4e799) |
+| Sat, 05 Jul 2025 21:49:32 GMT | How Private Are Your Gemini or ChatGPT Conversations? | Saurav Dawadi | [Read More](https://medium.com/p/da6e5f794632) |
+| Sat, 05 Jul 2025 21:45:29 GMT | Controlled Chaos: Multi-Layered CSRF Defense Using Dynamic Header Dispersion | Fernando Flores Alvarado | [Read More](https://medium.com/p/a14926288207) |
+| Sat, 05 Jul 2025 21:38:37 GMT | Ransomware Isn’t a File — It’s a Strategy: What Defenders Still Get Wrong | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/29a3d3646525) |
 | Sat, 05 Jul 2025 21:35:09 GMT | Confidential Computing: Securing Data in Use | Sourav Paul | [Read More](https://medium.com/p/98770864b176) |
 | Sat, 05 Jul 2025 21:34:35 GMT | Hello hacker’s , | Cenman | [Read More](https://medium.com/p/03e94add052d) |
+| Sat, 05 Jul 2025 21:32:19 GMT | Back to Kali: Securing Reverse Shell Access | 9purp0s3 - Steven | [Read More](https://medium.com/p/563f2793cc07) |
 | Sat, 05 Jul 2025 21:31:21 GMT | Red Team Adaptation in the Age of Agentic AI | january1073 | [Read More](https://medium.com/p/61ab4993386e) |
+| Sat, 05 Jul 2025 21:30:41 GMT | Project vs Product Mindset: Why IT Projects Keep Failing | Chinedu Onwuasoanya | [Read More](https://medium.com/p/ab5dcb65a1ef) |
 | Sat, 05 Jul 2025 21:29:59 GMT | Internet Safety 101: How to Not Get Scammed, Hacked, or Tracked | Just Nancy | [Read More](https://medium.com/p/390b696350dd) |
 | Sat, 05 Jul 2025 21:26:52 GMT | I Hacked GraphQL to Steal Data Without Admin Access | Ibtissam hammadi | [Read More](https://medium.com/p/8da9219483b9) |
 | Sat, 05 Jul 2025 21:19:48 GMT | WebStrike Lab Walkthrough (CyberDefenders) | Achuth Chandra | [Read More](https://medium.com/p/43c2c13910ea) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 14:44:19 GMT | S.O.L.I.D. Principles | ali ibrahimzade | [Read More](https://medium.com/p/8a3abff3c46e) |
 | Sat, 05 Jul 2025 14:41:39 GMT | 2025’s Hottest Cybersecurity Certifications: Your Ticket to Six Figures (and Bragging Rights) | Aj | [Read More](https://medium.com/p/fc045b2a53e6) |
 | Sat, 05 Jul 2025 14:33:30 GMT | How Azure’s System-Assigned Identity for AKS Blew My Mind as a DevOps & Cloud Security Engineer | Muhammed Akintola | [Read More](https://medium.com/p/b11c69516c9b) |
-| Sat, 05 Jul 2025 14:31:43 GMT | ️ Burp Suite: The Swiss Army Knife of Web Application Penetration Testing | Zino jo | [Read More](https://medium.com/p/cd2172efadec) |
-| Sat, 05 Jul 2025 14:30:11 GMT | Understanding the Difference Between Passworded Files and Encrypted Files or Folders: | Ezinne Ugwoke | [Read More](https://medium.com/p/4ce24dabad9c) |
-| Sat, 05 Jul 2025 14:27:11 GMT | Are you worried about what happens at your business when you’re not around? | Visual Monitoring Solutions | [Read More](https://medium.com/p/baf27809e0b5) |
-| Sat, 05 Jul 2025 14:21:39 GMT | AI-Driven Phishing Detection and Response Systems | Esra Kayhan | [Read More](https://medium.com/p/7ae6d092c22d) |
-| Sat, 05 Jul 2025 14:20:47 GMT | Applying Cybersecurity Principles to Everyday Life for Personal Safety. | Ezinne Ugwoke | [Read More](https://medium.com/p/6e36a32a51fe) |
-| Sat, 05 Jul 2025 14:16:13 GMT | U.S. Warns: Iranian Hackers Eye Israeli Defense Firms | Aj | [Read More](https://medium.com/p/5b135fddcda8) |
-| Sat, 05 Jul 2025 14:11:40 GMT | Your Logs are Lying: How Network Infrastructure Impacts EDR Network Telemetry | Mehmet Ergene | [Read More](https://medium.com/p/150df879cfc6) |
