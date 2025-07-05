@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 10:15:08 GMT | TryHackMe Wonderland — Walkthrough | mauzware | [Read More](https://medium.com/p/a019588b5793) |
+| Sat, 05 Jul 2025 10:10:07 GMT | Insider Threats in the Age of Hybrid Work & AI: The Invisible Cyber Risk of 2025 | Mohammed Gabic | [Read More](https://medium.com/p/4969c015c37e) |
+| Sat, 05 Jul 2025 10:09:02 GMT | AI-Driven Security Startups: The Next Wave of Cyber Defense | noailabs | [Read More](https://medium.com/p/d8651a2e015c) |
+| Sat, 05 Jul 2025 10:03:43 GMT | DORK: A Beginner’s Walkthrough | $DORK (DORK) | [Read More](https://medium.com/p/58a3ce8cdee6) |
+| Sat, 05 Jul 2025 10:02:44 GMT | Privacy vs. Border Security? The Medicaid Data Lawsuit and the Battle for American Sovereignty | Michael Phillips | [Read More](https://medium.com/p/42836b038ee5) |
+| Sat, 05 Jul 2025 09:57:11 GMT | Building Smarter Systems: My Hands-On Journey With AI-Powered Automation | Safora Nafees | [Read More](https://medium.com/p/81292063bd64) |
+| Sat, 05 Jul 2025 09:53:56 GMT | It’s Just a Preview… Until It Isn’t: File Previews That Leaked Everything | Iski | [Read More](https://medium.com/p/d1fd4dae7804) |
+| Sat, 05 Jul 2025 09:39:45 GMT | Token Storage in React: Which Approach is Right for Your App? | Sopan Shinde | [Read More](https://medium.com/p/1c52396278ab) |
+| Sat, 05 Jul 2025 09:38:29 GMT | Watch Out: Your Cyber-Lego might collapse! | Cemil Cetinbas | [Read More](https://medium.com/p/b862a0c2cb2a) |
+| Sat, 05 Jul 2025 09:38:06 GMT | How Much More Must We Bleed? — Citrix Bleed 2 (CVE‑2025‑5777) | Darshan | [Read More](https://medium.com/p/09d246adbf2d) |
+| Sat, 05 Jul 2025 09:23:46 GMT | Setting Up a Windows VM for Log Collection Using the ELK Stack — A Step-by-Step Guide | Suprim Devkota | [Read More](https://medium.com/p/f68444d9fba5) |
 | Sat, 05 Jul 2025 09:18:16 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/19322f00ba02) |
 | Sat, 05 Jul 2025 09:14:24 GMT | When the Checkout Gets Hacked: What the Ahold Delhaize Breach Reveals About Retail Cybersecurity | Deven Chhajed | [Read More](https://medium.com/p/f7057452fdbc) |
 | Sat, 05 Jul 2025 09:13:08 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/96f216544ffb) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 02:45:21 GMT | $500 Bounty: Subdomain Takeover on live.firefox.com via Unclaimed Fastly CNAME | Monika sharma | [Read More](https://medium.com/p/c7d1971e1a32) |
 | Sat, 05 Jul 2025 02:45:16 GMT | Penetration Testing of AI: Why and How? | Sandeep Saxena | [Read More](https://medium.com/p/7b14a71e5708) |
 | Sat, 05 Jul 2025 02:44:26 GMT | Cybersecurity in 2025: Leveraging AI Without Losing Control | Sandeep Saxena | [Read More](https://medium.com/p/36cc269a9f40) |
-| Sat, 05 Jul 2025 02:32:52 GMT | I Found a Hardcoded Google API Key in a Popular Food App (and It Was Too Easy ) | AIwolfie | [Read More](https://medium.com/p/ea73edbc478a) |
-| Sat, 05 Jul 2025 02:13:08 GMT | Android Hacking 101: Beginner’s Guide to Penetration Testing | Pentester Club | [Read More](https://medium.com/p/909181c79b58) |
-| Sat, 05 Jul 2025 02:06:42 GMT | HOW I FOUND PRE-ACCOUNT TAKE OVER IN A SHOPPING PROGRAM | 0xZ3US | [Read More](https://medium.com/p/72fa283641c8) |
-| Sat, 05 Jul 2025 02:01:24 GMT | Getting Started with DefectDojo: Managing SAST and DAST Findings in One Place | Yoshiyuki Watanabe | [Read More](https://medium.com/p/945765f17123) |
-| Sat, 05 Jul 2025 01:22:53 GMT | AI-Powered Malware Is Already Here — And Your SOC Isn’t Ready for It | Sneha Rani | [Read More](https://medium.com/p/d5a222b4146f) |
-| Sat, 05 Jul 2025 01:09:22 GMT | ️ Active Directory Project (Part 1)- Create OUs ,Groups & Users | Anivesh Mohan | [Read More](https://medium.com/p/ae19711b5553) |
-| Sat, 05 Jul 2025 01:07:44 GMT | Write-up PicoCTF (Capture The Flag) — Power Cookie | Sérgio Corrêa | [Read More](https://medium.com/p/03dff7f3d3eb) |
-| Sat, 05 Jul 2025 01:07:05 GMT | Defense in Depth: Building a Resilient Cybersecurity Fortress | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/fc36d6fb0fce) |
-| Sat, 05 Jul 2025 01:00:59 GMT | My 2025 Learning Adventure (aka “How to Stay Relevant When You’re Already Old”) | Segev Shmueli | [Read More](https://medium.com/p/d5e897992fcf) |
-| Sat, 05 Jul 2025 00:56:30 GMT | Microsoft’s New Open-Source Tool is a Game-Changer for Rust Malware Analysis | Cyber-AppSec | [Read More](https://medium.com/p/5f3081305dbe) |
-| Sat, 05 Jul 2025 00:47:30 GMT | What Is The Informatics Hub? A Gateway to Smart Learning & Innovation | Theinformaticshub | [Read More](https://medium.com/p/07ac7693503d) |
