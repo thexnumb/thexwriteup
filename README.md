@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 18:37:09 GMT | Bypassing 2FA in GraphQL APIs: A Step-by-Step Guide | Medusa | [Read More](https://medium.com/p/4b73816bd4c3) |
+| Sat, 05 Jul 2025 18:34:59 GMT | ✅ Level 0 → 1 - Bandit Wargame — OverTheWire | Wizard-Of-Oz | [Read More](https://medium.com/p/394af3a64454) |
+| Sat, 05 Jul 2025 18:32:53 GMT | Don’t chmod 777 Your Life: A Linux Permissions Story | MayhemCode | [Read More](https://medium.com/p/209647a6f2c9) |
+| Sat, 05 Jul 2025 18:31:21 GMT | Inside a Hacker’s Mind: What They See When They Target Your App | Code With Hannan | [Read More](https://medium.com/p/bffb98391caf) |
 | Sat, 05 Jul 2025 18:23:47 GMT | Meet `iptables`: Your Linux System’s First Line of Defense | Natarajan C K | [Read More](https://medium.com/p/85564be4f436) |
+| Sat, 05 Jul 2025 18:20:40 GMT | DarkMatter - TryHackme - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/9d173e819c0f) |
 | Sat, 05 Jul 2025 18:18:35 GMT | Mimikatz--Credential Dumping with Mimikatz--Active Directory Pentesting --2025--Part 17 | Muhammadhuzaifa | [Read More](https://medium.com/p/cf7894afdea4) |
 | Sat, 05 Jul 2025 18:11:41 GMT | How Our ‘Secure’ Kubernetes Setup Got Hacked in 17 Minutes | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/450e204fec13) |
 | Sat, 05 Jul 2025 18:09:58 GMT | The Myth of the VPN Tunnel: What’s Really Happening Under the Hood | Ishan Dhar | [Read More](https://medium.com/p/34e741c6af68) |
@@ -109,8 +114,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 10:38:28 GMT | Retracted | Krishna | [Read More](https://medium.com/p/418d2b52a7e6) |
 | Sat, 05 Jul 2025 10:37:22 GMT | Risk Management, Vulnerabilities, and Threats in Cybersecurity | Balogun Ayomide | [Read More](https://medium.com/p/ead594be5981) |
 | Sat, 05 Jul 2025 10:35:26 GMT | PutraGPT: The AI Revolution in Penetration Testing Has Begun | Ekene Joseph | [Read More](https://medium.com/p/ba1b761ec7d3) |
-| Sat, 05 Jul 2025 10:34:24 GMT | Getting into CyberSecurity. | Shubham Saral | [Read More](https://medium.com/p/49dc1256f1c3) |
-| Sat, 05 Jul 2025 10:32:58 GMT | Boost Your website Traffic with Mypornads Directory Listing | mypornads | [Read More](https://medium.com/p/a84db1fed603) |
-| Sat, 05 Jul 2025 10:32:43 GMT | [SWU CTF2025] Writeups — First Round | PlugsFoundBug | [Read More](https://medium.com/p/dba2a4dc8595) |
-| Sat, 05 Jul 2025 10:32:32 GMT | Monday Monitor | Krishna | [Read More](https://medium.com/p/aca929b66564) |
-| Sat, 05 Jul 2025 10:31:32 GMT | Tomcat Takeover Lab Analysis | Omer Bawazir | [Read More](https://medium.com/p/234e8f129ad9) |
