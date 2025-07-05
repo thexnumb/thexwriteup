@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 07:03:36 GMT | 500 OT Devices Exposed Online Without Login — An Ethical Deep. | hacker_might | [Read More](https://medium.com/p/5d6be16200fd) |
+| Sat, 05 Jul 2025 07:02:07 GMT | Breach in the Sky: The Qantas Cyberattack | Saransh Mahajan | [Read More](https://medium.com/p/d1fcb2853842) |
+| Sat, 05 Jul 2025 06:51:51 GMT | الربح من التسويق بالذكاء الاصطناعي: دليلك الشامل لتحقيق دخل مستدام | katibatech | [Read More](https://medium.com/p/e2db7d9c49f1) |
+| Sat, 05 Jul 2025 06:51:12 GMT | NSB Raises Red Flag on China-Made Mobile Apps: Alarming Security Threats Uncovered | CyDhaal | [Read More](https://medium.com/p/eff71be2a1ba) |
+| Sat, 05 Jul 2025 06:48:52 GMT | What a Simple Scan Taught Me About Cybersecurity | Cyberscope | [Read More](https://medium.com/p/c3e68882c4eb) |
+| Sat, 05 Jul 2025 06:48:22 GMT | Top MCA Career Options in 2025: High-Paying Jobs and Future Scope | Evision Technoserve | [Read More](https://medium.com/p/2cddeb0b6084) |
 | Sat, 05 Jul 2025 06:43:19 GMT | A Beginner's Guide To Getting Rewards On Bugs Bunny ($BUGS) | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/51f853231b86) |
 | Sat, 05 Jul 2025 06:38:05 GMT | OWASP Pentest Series (12/12) | TheZeeshanKhan | [Read More](https://medium.com/p/62246e07f700) |
 | Sat, 05 Jul 2025 06:36:51 GMT | n0s4n1ty 1 - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/cb86b0c66ca1) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 19:51:48 GMT | SSTI&CSTI Nedir? | Muhammed Kasım Doğan | [Read More](https://medium.com/p/32a62f0c8765) |
 | Fri, 04 Jul 2025 19:47:14 GMT | Your Data and Where It Lives | Santiago Bravo | [Read More](https://medium.com/p/b9b2d95b6a6d) |
 | Fri, 04 Jul 2025 19:37:08 GMT | Where Vulnerabilities Come From | Sammcmullen | [Read More](https://medium.com/p/2b28964396cd) |
-| Fri, 04 Jul 2025 19:34:53 GMT | When Your Webcam Blinks at Night: How Hackers Invade Privacy Without Touching Your Devices | Kartik Choubey | [Read More](https://medium.com/p/c265847aa11c) |
-| Fri, 04 Jul 2025 19:20:24 GMT | Iranian Threat Activity Escalates: U.S. Agencies Warn Defense and Critical Infrastructure Sectors | RealSec.io | [Read More](https://medium.com/p/a5be9aee278b) |
-| Fri, 04 Jul 2025 19:12:56 GMT | Broken Access Control part-13 : Referer-based access control | Ahmad Sopyan | [Read More](https://medium.com/p/40f148855c8b) |
-| Fri, 04 Jul 2025 19:07:44 GMT | Mastering Nmap: The Ultimate Guide for Ethical Hackers and Security Pros | Rushikesh G | [Read More](https://medium.com/p/b1fdf5673991) |
-| Fri, 04 Jul 2025 19:05:47 GMT | Securing Microsoft Fabric: Outbound Traffic | Amirhossein Borghei Razavi | [Read More](https://medium.com/p/18c07ba61551) |
-| Fri, 04 Jul 2025 19:05:37 GMT | Windows Command Line — TryHackMe | hareem khan | [Read More](https://medium.com/p/065ed419d33f) |
