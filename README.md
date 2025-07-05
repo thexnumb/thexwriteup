@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 17:38:20 GMT | How I Discovered a Live Dependency Confusion Vulnerability in a GraphQL-Based Web Application | Sanaullah Aman Korai | [Read More](https://medium.com/p/13cc3382e671) |
+| Sat, 05 Jul 2025 17:28:30 GMT | I wish I had a mother figure. | Lucy the Oracle | [Read More](https://medium.com/p/69f11a227486) |
 | Sat, 05 Jul 2025 17:17:31 GMT | My Cybersecurity Interview Journey: From Doubt to Confidence | Ganesan R | [Read More](https://medium.com/p/405d46785dc8) |
 | Sat, 05 Jul 2025 17:10:34 GMT | Intro to Threat Profiling: Backbone of Proactive Cyber Defense | Hrishidev K V | [Read More](https://medium.com/p/80ca40b2cdbf) |
+| Sat, 05 Jul 2025 17:10:17 GMT | EU Won’t Delay AI Law — Despite Pressure from Tech Giants | Tech Thrilled | [Read More](https://medium.com/p/a315c2dab028) |
 | Sat, 05 Jul 2025 17:09:07 GMT | Accordare giusto e corretto: gli altri in breve | Ennio Martignago | [Read More](https://medium.com/p/06c913c03db0) |
 | Sat, 05 Jul 2025 17:08:48 GMT | “The Pentester Who Broke Our Prod: A Cloud Security Horror Story” | Sneha Rani | [Read More](https://medium.com/p/4be118d977d8) |
 | Sat, 05 Jul 2025 17:08:39 GMT | Before the Audit: Solidity Vulnerabilities | Universal_Photon | [Read More](https://medium.com/p/e91ae26be3fa) |
@@ -111,6 +114,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 10:22:20 GMT | PutraGPT.pentest: The Future of AI-Powered Penetration Testing | Mohammed Gabic | [Read More](https://medium.com/p/2a55ac43baad) |
 | Sat, 05 Jul 2025 10:15:08 GMT | TryHackMe Wonderland — Walkthrough | mauzware | [Read More](https://medium.com/p/a019588b5793) |
 | Sat, 05 Jul 2025 10:10:07 GMT | Insider Threats in the Age of Hybrid Work & AI: The Invisible Cyber Risk of 2025 | Mohammed Gabic | [Read More](https://medium.com/p/4969c015c37e) |
-| Sat, 05 Jul 2025 10:09:02 GMT | AI-Driven Security Startups: The Next Wave of Cyber Defense | noailabs | [Read More](https://medium.com/p/d8651a2e015c) |
-| Sat, 05 Jul 2025 10:05:31 GMT | Burp Suite: Extensions — TryHackMe | sercan timocin | [Read More](https://medium.com/p/8a369381928f) |
-| Sat, 05 Jul 2025 10:03:43 GMT | DORK: A Beginner’s Walkthrough | $DORK (DORK) | [Read More](https://medium.com/p/58a3ce8cdee6) |
