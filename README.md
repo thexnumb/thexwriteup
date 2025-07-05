@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 18:51:44 GMT | $140M Vanished in Brazil: Central Bank Hack Exposes Flaws in Centralized Systems | CoinGen | [Read More](https://medium.com/p/9d649d20b5b4) |
+| Sat, 05 Jul 2025 18:51:39 GMT | Level 1 → 2 - Bandit Wargame — OverTheWire | Wizard-Of-Oz | [Read More](https://medium.com/p/6c865aa9f30d) |
+| Sat, 05 Jul 2025 18:51:18 GMT | Race Condition — can you run faster? | Olufela Osideko | [Read More](https://medium.com/p/3fa841cef8a3) |
+| Sat, 05 Jul 2025 18:45:08 GMT | الربح من خمسات 2025: دليلك الشامل للمبتدئين في العمل الحر | katibatech | [Read More](https://medium.com/p/0b8ebad78919) |
+| Sat, 05 Jul 2025 18:43:53 GMT | MurmurHash: The Scrappy Algorithm That Secretly Powers Half the Internet | Ashutosh Jha | [Read More](https://medium.com/p/2d3f79b4509b) |
 | Sat, 05 Jul 2025 18:37:09 GMT | Bypassing 2FA in GraphQL APIs: A Step-by-Step Guide | Medusa | [Read More](https://medium.com/p/4b73816bd4c3) |
 | Sat, 05 Jul 2025 18:34:59 GMT | ✅ Level 0 → 1 - Bandit Wargame — OverTheWire | Wizard-Of-Oz | [Read More](https://medium.com/p/394af3a64454) |
 | Sat, 05 Jul 2025 18:32:53 GMT | Don’t chmod 777 Your Life: A Linux Permissions Story | MayhemCode | [Read More](https://medium.com/p/209647a6f2c9) |
@@ -109,8 +114,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 11:18:25 GMT | Zero Trust Architecture: Why It’s the Future of Security | Joy Saha | [Read More](https://medium.com/p/09a7e1b8f78a) |
 | Sat, 05 Jul 2025 11:04:40 GMT | How to Find and Exploit Vulnerabilities in WordPress Themes | Sumit Shaw | [Read More](https://medium.com/p/75ad0c3243b9) |
 | Sat, 05 Jul 2025 11:03:02 GMT | Birthday of Attacks: SHA-1 Collision | Oludare Stephen Ayobami | [Read More](https://medium.com/p/377e8f8c66c9) |
-| Sat, 05 Jul 2025 10:49:21 GMT | Privilege Escalation through DLL Hijacking (Windows Systems) | Ammar Ahmed | [Read More](https://medium.com/p/6fa6343ddead) |
-| Sat, 05 Jul 2025 10:41:34 GMT | What I Learned While Exploring Network Security: TCP SYN Flood Attack | NineTales | [Read More](https://medium.com/p/88d5e4c33aa1) |
-| Sat, 05 Jul 2025 10:38:28 GMT | Retracted | Krishna | [Read More](https://medium.com/p/418d2b52a7e6) |
-| Sat, 05 Jul 2025 10:37:22 GMT | Risk Management, Vulnerabilities, and Threats in Cybersecurity | Balogun Ayomide | [Read More](https://medium.com/p/ead594be5981) |
-| Sat, 05 Jul 2025 10:35:26 GMT | PutraGPT: The AI Revolution in Penetration Testing Has Begun | Ekene Joseph | [Read More](https://medium.com/p/ba1b761ec7d3) |
