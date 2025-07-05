@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 18:23:47 GMT | Meet `iptables`: Your Linux System’s First Line of Defense | Natarajan C K | [Read More](https://medium.com/p/85564be4f436) |
+| Sat, 05 Jul 2025 18:18:35 GMT | Mimikatz--Credential Dumping with Mimikatz--Active Directory Pentesting --2025--Part 17 | Muhammadhuzaifa | [Read More](https://medium.com/p/cf7894afdea4) |
+| Sat, 05 Jul 2025 18:11:41 GMT | How Our ‘Secure’ Kubernetes Setup Got Hacked in 17 Minutes | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/450e204fec13) |
+| Sat, 05 Jul 2025 18:09:58 GMT | The Myth of the VPN Tunnel: What’s Really Happening Under the Hood | Ishan Dhar | [Read More](https://medium.com/p/34e741c6af68) |
+| Sat, 05 Jul 2025 18:03:13 GMT | ⚠️ You’re Being Watched: How Everyday Apps Collect Your Data Without You Noticing | Anshika Prajapati | [Read More](https://medium.com/p/88d93b6877cf) |
+| Sat, 05 Jul 2025 17:56:05 GMT | How Verizon and 2FA Ruined My Digital Life | You Want This | [Read More](https://medium.com/p/305bb12e77a0) |
+| Sat, 05 Jul 2025 17:42:07 GMT | Order - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/89482e75a1b4) |
+| Sat, 05 Jul 2025 17:41:25 GMT | Weaponized DNA: The Next Frontier of Cyberwarfare | Santiago Innovations | [Read More](https://medium.com/p/86191870aadb) |
+| Sat, 05 Jul 2025 17:40:16 GMT | Stop Tapping “Allow”: You’re Handing Over Your Digital Life | Aryan Shrestha | [Read More](https://medium.com/p/499dfb79a3f5) |
 | Sat, 05 Jul 2025 17:38:20 GMT | How I Discovered a Live Dependency Confusion Vulnerability in a GraphQL-Based Web Application | Sanaullah Aman Korai | [Read More](https://medium.com/p/13cc3382e671) |
 | Sat, 05 Jul 2025 17:28:30 GMT | I wish I had a mother figure. | Lucy the Oracle | [Read More](https://medium.com/p/69f11a227486) |
 | Sat, 05 Jul 2025 17:17:31 GMT | My Cybersecurity Interview Journey: From Doubt to Confidence | Ganesan R | [Read More](https://medium.com/p/405d46785dc8) |
@@ -105,12 +114,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 10:32:43 GMT | [SWU CTF2025] Writeups — First Round | PlugsFoundBug | [Read More](https://medium.com/p/dba2a4dc8595) |
 | Sat, 05 Jul 2025 10:32:32 GMT | Monday Monitor | Krishna | [Read More](https://medium.com/p/aca929b66564) |
 | Sat, 05 Jul 2025 10:31:32 GMT | Tomcat Takeover Lab Analysis | Omer Bawazir | [Read More](https://medium.com/p/234e8f129ad9) |
-| Sat, 05 Jul 2025 10:30:53 GMT | Future-Proof Your Crypto Holdings with LunaFi | $LFI (LunaFi) | [Read More](https://medium.com/p/6dececae42c4) |
-| Sat, 05 Jul 2025 10:29:57 GMT | Hackviser — Apache HTTP Server 2.4.49/2.4.50 Remote Code Execution(CVE-2021–42013) Write-Up! | Dogukan İSPİRLİ | [Read More](https://medium.com/p/2452ce22872a) |
-| Sat, 05 Jul 2025 10:29:14 GMT | Ethical Hacking Summer Internship Program for Freshers in India | cyber security Updates | [Read More](https://medium.com/p/4549077db002) |
-| Sat, 05 Jul 2025 10:28:36 GMT | How to Install and Use PutraGPT.pentest: A Guide for Cyber security and penetration testing | Mohammed Gabic | [Read More](https://medium.com/p/7d31a63c2c57) |
-| Sat, 05 Jul 2025 10:27:20 GMT | How a Single Email Can Compromise a Whole Network | Owais Abdul Haseeb | [Read More](https://medium.com/p/5520f032988f) |
-| Sat, 05 Jul 2025 10:23:56 GMT | Neighbour TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/36abc0bb8816) |
-| Sat, 05 Jul 2025 10:22:20 GMT | PutraGPT.pentest: The Future of AI-Powered Penetration Testing | Mohammed Gabic | [Read More](https://medium.com/p/2a55ac43baad) |
-| Sat, 05 Jul 2025 10:15:08 GMT | TryHackMe Wonderland — Walkthrough | mauzware | [Read More](https://medium.com/p/a019588b5793) |
-| Sat, 05 Jul 2025 10:10:07 GMT | Insider Threats in the Age of Hybrid Work & AI: The Invisible Cyber Risk of 2025 | Mohammed Gabic | [Read More](https://medium.com/p/4969c015c37e) |
