@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 20:19:10 GMT | How I Got Reliable Outgoing Mail on My VPS with msmtp, Mailjet, and syslog | Jeff Stein | [Read More](https://medium.com/p/6ad52e0c3f37) |
+| Sat, 05 Jul 2025 20:11:57 GMT | Industrial Intrusion — TryHackMe CTF Walkthrough | parisa2301 | [Read More](https://medium.com/p/93b53872c50f) |
+| Sat, 05 Jul 2025 20:08:33 GMT | THE PERSON YOU ARE TALKING TO DOESN’T EXIST | Ushafa Wuakera | [Read More](https://medium.com/p/c1c7f9d56773) |
+| Sat, 05 Jul 2025 20:06:58 GMT | Bridging Security Gaps: A Practical Comparison of Leading Vulnerability Scanners | Naudy Castellanos | [Read More](https://medium.com/p/2aaa286c2d2e) |
+| Sat, 05 Jul 2025 19:56:02 GMT | Why Signing In with a PIN Isn’t Just a Shorter Password and Why That Matters | Peter Sikabonyi | [Read More](https://medium.com/p/0b1ccf8a4e65) |
+| Sat, 05 Jul 2025 19:53:29 GMT | Novas ferramentas de Inteligência Artificial (IA) para Pentest | Marcos Flávio Araújo Assunção | [Read More](https://medium.com/p/fcac85545525) |
+| Sat, 05 Jul 2025 19:51:10 GMT | The Phantom Embrace. | Dhiki Halghi | [Read More](https://medium.com/p/272421510464) |
+| Sat, 05 Jul 2025 19:47:12 GMT | Ransomware Attack Simulation: Custom Ransomware Creation, Delivery, Evasion, and Control | Yazan Al Balawi | [Read More](https://medium.com/p/bda1f47363ba) |
+| Sat, 05 Jul 2025 19:36:59 GMT | How Loofta is Changing the Game for Web3 Creators (and How You Can Start Earning Today) | Saffronsage | [Read More](https://medium.com/p/89e5825cbdb9) |
+| Sat, 05 Jul 2025 19:36:57 GMT | Mastering Life After 50: A Guide to Happiness | Yettalee | [Read More](https://medium.com/p/53ccbcaee5d1) |
+| Sat, 05 Jul 2025 19:35:28 GMT | What is Cyber Hygiene and Why It Matters Today. | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/fca81e16eadf) |
 | Sat, 05 Jul 2025 19:34:42 GMT | She Was Told She Couldn’t Love. What Happened Next Hit Me Right in the Truth | Pratibha Singh | [Read More](https://medium.com/p/ba0309c5a877) |
 | Sat, 05 Jul 2025 19:19:21 GMT | Phishing Email Awareness Series: Part-5 | Leetsec Sarwar | [Read More](https://medium.com/p/f2d6904b21d1) |
 | Sat, 05 Jul 2025 19:18:43 GMT | From Idea to Execution: Building an Entire CTF in Just 1 Day! | Priyansh | [Read More](https://medium.com/p/d11db88f7b6c) |
@@ -102,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 13:01:51 GMT | Achilles Heel | Paroma Sen | [Read More](https://medium.com/p/c0a272726349) |
 | Sat, 05 Jul 2025 12:58:02 GMT | ️ Beyond /etc/passwd: LFI Bypass, The Ultimate Guide | Shah kaif | [Read More](https://medium.com/p/5829d1efb600) |
 | Sat, 05 Jul 2025 12:48:37 GMT | The Journey Begins : From Student to Cybersecurity AI Founder | Sricharan Reddy M | [Read More](https://medium.com/p/14f3643ca49f) |
-| Sat, 05 Jul 2025 12:42:17 GMT | Mapping the Forgotten Corners of the Network | R. Eric Kiser | [Read More](https://medium.com/p/9cf44194a32c) |
-| Sat, 05 Jul 2025 12:35:58 GMT | Secure Email Server: The Email Upgrade You Didn’t Know You Needed | Devansh | [Read More](https://medium.com/p/161b92e6cd52) |
-| Sat, 05 Jul 2025 12:34:51 GMT | Best Browser Extensions for Ethical Hacking & Pentesting (2025 Edition) | Ghulam Mohiuddin | [Read More](https://medium.com/p/6b9d2a2b0de6) |
-| Sat, 05 Jul 2025 12:31:40 GMT | I Forked a Repo and Got Secrets. Here’s How | Đeepanshu | [Read More](https://medium.com/p/af3c4f8d0155) |
-| Sat, 05 Jul 2025 12:31:16 GMT | Comprehensive Guide to John the Ripper: The Password Cracking Tool | Sumit Shaw | [Read More](https://medium.com/p/70325ea26ed8) |
-| Sat, 05 Jul 2025 12:27:49 GMT | Can I appoint one more security for my laptop? | Gopi C K | [Read More](https://medium.com/p/21e08f5a78bc) |
-| Sat, 05 Jul 2025 12:21:16 GMT | Why Most SOC Teams Miss the First Signs of an Attack | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ca9e9230f804) |
-| Sat, 05 Jul 2025 12:10:34 GMT | The Hidden Danger in Your AI-Generated Code: Why 36% of Developer Dreams Become Security Nightmares | Dr. Allen Harper - Value Creator | [Read More](https://medium.com/p/6ad5db0db51d) |
-| Sat, 05 Jul 2025 12:05:17 GMT | The Art of Protecting digital Data. | M Mehran Khan | [Read More](https://medium.com/p/59d70f720566) |
-| Sat, 05 Jul 2025 12:02:55 GMT | Your SIM Card Is Spying on You — Even With GPS OFF! | Sal Tech | [Read More](https://medium.com/p/956491d21675) |
-| Sat, 05 Jul 2025 12:02:48 GMT | “All There Is, Is Growth”
-A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/p/72067ba28552) |
