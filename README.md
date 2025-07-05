@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 14:41:39 GMT | 2025’s Hottest Cybersecurity Certifications: Your Ticket to Six Figures (and Bragging Rights) | Aj | [Read More](https://medium.com/p/fc045b2a53e6) |
+| Sat, 05 Jul 2025 14:33:30 GMT | How Azure’s System-Assigned Identity for AKS Blew My Mind as a DevOps & Cloud Security Engineer | Muhammed Akintola | [Read More](https://medium.com/p/b11c69516c9b) |
+| Sat, 05 Jul 2025 14:31:43 GMT | ️ Burp Suite: The Swiss Army Knife of Web Application Penetration Testing | Zino jo | [Read More](https://medium.com/p/cd2172efadec) |
+| Sat, 05 Jul 2025 14:30:11 GMT | Understanding the Difference Between Passworded Files and Encrypted Files or Folders: | Ezinne Ugwoke | [Read More](https://medium.com/p/4ce24dabad9c) |
+| Sat, 05 Jul 2025 14:27:11 GMT | Are you worried about what happens at your business when you’re not around? | Visual Monitoring Solutions | [Read More](https://medium.com/p/baf27809e0b5) |
+| Sat, 05 Jul 2025 14:21:39 GMT | AI-Driven Phishing Detection and Response Systems | Esra Kayhan | [Read More](https://medium.com/p/7ae6d092c22d) |
+| Sat, 05 Jul 2025 14:20:47 GMT | Applying Cybersecurity Principles to Everyday Life for Personal Safety. | Ezinne Ugwoke | [Read More](https://medium.com/p/6e36a32a51fe) |
+| Sat, 05 Jul 2025 14:16:13 GMT | U.S. Warns: Iranian Hackers Eye Israeli Defense Firms | Aj | [Read More](https://medium.com/p/5b135fddcda8) |
+| Sat, 05 Jul 2025 14:11:40 GMT | Your Logs are Lying: How Network Infrastructure Impacts EDR Network Telemetry | Mehmet Ergene | [Read More](https://medium.com/p/150df879cfc6) |
 | Sat, 05 Jul 2025 14:08:35 GMT | Exploiting LPE on Windows Server via LocalPotato (CVE-2023–21746) — Project Report | Farhad Anwari | [Read More](https://medium.com/p/9de6573e96dd) |
 | Sat, 05 Jul 2025 14:07:42 GMT | Walkthrough THM Cat Pictures 2 | Telynor | [Read More](https://medium.com/p/53bba090e1e1) |
 | Sat, 05 Jul 2025 14:01:45 GMT | Cybercrime in India: Companies to Lose ₹20,000 Cr in 2025 | Hacker news 07 | [Read More](https://medium.com/p/f6f35361c3e2) |
@@ -105,12 +114,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 07:54:37 GMT | Cipher’s Secret Message - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/9a60a68e4f6c) |
 | Sat, 05 Jul 2025 07:52:47 GMT | “Pod Crimes: Kubernetes Forensics Made Simple (Because the Pod Did It)” | Shashank N | [Read More](https://medium.com/p/46dd2991aec7) |
 | Sat, 05 Jul 2025 07:28:53 GMT | Today’s Top Cyber Intelligence Highlights — Jul 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/1a1af86905ae) |
-| Sat, 05 Jul 2025 07:27:13 GMT | The Linux Concept Journey — /boot/System.map | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0420fbcff0f4) |
-| Sat, 05 Jul 2025 07:20:11 GMT | How Quantum Chips Will Unlock the Next Era of Human Progress | Zaviq Alnour | [Read More](https://medium.com/p/59edad79fdf8) |
-| Sat, 05 Jul 2025 07:19:28 GMT | head-dump - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/7d495b7f5504) |
-| Sat, 05 Jul 2025 07:03:36 GMT | 500 OT Devices Exposed Online Without Login — An Ethical Deep. | hacker_might | [Read More](https://medium.com/p/5d6be16200fd) |
-| Sat, 05 Jul 2025 07:02:07 GMT | Breach in the Sky: The Qantas Cyberattack | Saransh Mahajan | [Read More](https://medium.com/p/d1fcb2853842) |
-| Sat, 05 Jul 2025 06:51:51 GMT | الربح من التسويق بالذكاء الاصطناعي: دليلك الشامل لتحقيق دخل مستدام | katibatech | [Read More](https://medium.com/p/e2db7d9c49f1) |
-| Sat, 05 Jul 2025 06:51:12 GMT | NSB Raises Red Flag on China-Made Mobile Apps: Alarming Security Threats Uncovered | CyDhaal | [Read More](https://medium.com/p/eff71be2a1ba) |
-| Sat, 05 Jul 2025 06:48:52 GMT | What a Simple Scan Taught Me About Cybersecurity | Cyberscope | [Read More](https://medium.com/p/c3e68882c4eb) |
-| Sat, 05 Jul 2025 06:48:22 GMT | Top MCA Career Options in 2025: High-Paying Jobs and Future Scope | Evision Technoserve | [Read More](https://medium.com/p/2cddeb0b6084) |
