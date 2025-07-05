@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 09:18:16 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/19322f00ba02) |
+| Sat, 05 Jul 2025 09:14:24 GMT | When the Checkout Gets Hacked: What the Ahold Delhaize Breach Reveals About Retail Cybersecurity | Deven Chhajed | [Read More](https://medium.com/p/f7057452fdbc) |
+| Sat, 05 Jul 2025 09:13:08 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/96f216544ffb) |
+| Sat, 05 Jul 2025 09:09:57 GMT | AI-Augmented Threat Detection: Why Behavioral Analytics Is Replacing Rule-Based Security | Mr Joe | [Read More](https://medium.com/p/33ed179d5134) |
+| Sat, 05 Jul 2025 09:08:24 GMT | ️ MERDEKA SIBER — TASK 1 COMPLETED ️ | Hans Nova Santosa | [Read More](https://medium.com/p/6c55ecd6aa99) |
+| Sat, 05 Jul 2025 09:06:13 GMT | From Paper-Thin Proof to Tamper-Proof Assurance: AISphere’s Immutable Pen-Test Ledger | Goodwell Mafunga | [Read More](https://medium.com/p/ab894583b046) |
+| Sat, 05 Jul 2025 09:02:01 GMT | Quantum-Resistant Cryptography: Preparing for the Post-Quantum Cyber Threat | Mr Joe | [Read More](https://medium.com/p/dd9a1f53ef47) |
+| Sat, 05 Jul 2025 09:01:32 GMT | How to Get Bugs Bunny (BUGS) Rewards: Quick Beginner's Guide | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/bfce7f28e384) |
+| Sat, 05 Jul 2025 08:52:43 GMT | All Banks paypal Cashapp western union zelle transfers and logs Cloned Cards cc atm cvv dumps Amex… | Gonzalezablerta | [Read More](https://medium.com/p/2e4bc50f3619) |
+| Sat, 05 Jul 2025 08:51:15 GMT | AI-Powered Social Engineering: The New Era of Psychological Exploits | Ezekiel peter | [Read More](https://medium.com/p/b6c586e758c5) |
+| Sat, 05 Jul 2025 08:50:12 GMT | Trusted Security Installation Companies Near Me — ICS Security Solutions for Advanced Protection… | Katheryne | [Read More](https://medium.com/p/be06a17d573b) |
+| Sat, 05 Jul 2025 08:48:16 GMT | Cybersecurity News Review — Week 27 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/a5f3b9a433be) |
+| Sat, 05 Jul 2025 08:44:40 GMT | Ai hacking — Adversarial Machine Learning: Hacking the AI Behind Modern Security Systems | Mr Joe | [Read More](https://medium.com/p/8e9db57534fe) |
 | Sat, 05 Jul 2025 08:43:59 GMT | How to Securely Store and Manage Tether (USDT) on Ledger Nano Wallet: Full Guide for ERC-20, TRC-20… | @Crypto_Support | [Read More](https://medium.com/p/7e518b53557a) |
+| Sat, 05 Jul 2025 08:42:24 GMT | Cloudflare’s Big Secret: It’s Not Just Firewalls, It’s… Lava Lamps?! ✨ | Raj Singh | [Read More](https://medium.com/p/1d740b2bdbb7) |
 | Sat, 05 Jul 2025 08:41:46 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/0ecbf95797fc) |
+| Sat, 05 Jul 2025 08:38:41 GMT | How to Use John the Ripper to Crack an Encrypted RSA Key and Access a Remote Machine via SSH… | jrntm | [Read More](https://medium.com/p/a0b69e86c88f) |
 | Sat, 05 Jul 2025 08:30:51 GMT | 6-Month Web Application Pentesting & Bug Bounty Freelancer Roadmap
  Overview | Rahul Kumar | [Read More](https://medium.com/p/cfa19fe95e89) |
 | Sat, 05 Jul 2025 08:26:53 GMT | DarkMatter - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/10ee74fd970d) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 00:56:30 GMT | Microsoft’s New Open-Source Tool is a Game-Changer for Rust Malware Analysis | Cyber-AppSec | [Read More](https://medium.com/p/5f3081305dbe) |
 | Sat, 05 Jul 2025 00:47:30 GMT | What Is The Informatics Hub? A Gateway to Smart Learning & Innovation | Theinformaticshub | [Read More](https://medium.com/p/07ac7693503d) |
 | Sat, 05 Jul 2025 00:32:53 GMT | The Update Framework (TUF): A Comprehensive Guide to Secure Software Updates | ThamizhElango Natarajan | [Read More](https://medium.com/p/bb8e6e84afd0) |
-| Sat, 05 Jul 2025 00:22:14 GMT | Building My Cyber Foundations: A Reflection on My Learning So Far | Sonobia James | [Read More](https://medium.com/p/0b93983fa5ab) |
-| Sat, 05 Jul 2025 00:02:54 GMT | Security Fundamentals: Cryptographic Hashing Explained | The Millennial Dev | [Read More](https://medium.com/p/c45a33adfa8c) |
-| Sat, 05 Jul 2025 00:00:02 GMT | GoBuster: Your Essential Tool for Web Enumeration, Pentesting, and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/143c3d134587) |
-| Fri, 04 Jul 2025 23:34:41 GMT | SQL Prepared Statements ain’t that safer | David Gallay | [Read More](https://medium.com/p/566b3447e8ad) |
-| Fri, 04 Jul 2025 23:32:52 GMT | FortiGuard AI-Powered Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/9dfd160aaf5d) |
-| Fri, 04 Jul 2025 23:28:18 GMT | WGEL CTF TryHackMe | Mazen Mohamed | [Read More](https://medium.com/p/5ca10f320d83) |
-| Fri, 04 Jul 2025 23:18:35 GMT | THE ROAD TO WRITING GARBAGE CODE | Oubeid Mezni | [Read More](https://medium.com/p/2273c5d80473) |
-| Fri, 04 Jul 2025 23:07:33 GMT | A look at Brazil’s Largest Financial Hack: Junior Developer Sells Access for $900 over a couple of… | Andre Camillo, CISSP | [Read More](https://medium.com/p/cb95df61771d) |
-| Fri, 04 Jul 2025 22:58:50 GMT | Learn about AI-Related Risks and AI Risk Management | Temitope Omosebi | [Read More](https://medium.com/p/21b8e2a89fc0) |
-| Fri, 04 Jul 2025 22:03:55 GMT | How to Reap the Best Rewards from DORK $DORK | $DORK (DORK) | [Read More](https://medium.com/p/a0a3927edfed) |
-| Fri, 04 Jul 2025 21:58:54 GMT | TryHackMe — Basic Pentesting Walkthrough | A_SKILLER_007 | [Read More](https://medium.com/p/8d3d6b77f642) |
-| Fri, 04 Jul 2025 21:58:25 GMT | Oracle 9: Write-Up | A Learner | [Read More](https://medium.com/p/edfb818d171a) |
-| Fri, 04 Jul 2025 21:46:26 GMT | How I Ended Up in Cybersecurity (And How You Can Too) | Kentucky Mathitis | [Read More](https://medium.com/p/f85370c2e0ff) |
-| Fri, 04 Jul 2025 21:29:36 GMT | How SQL Injection Attacks Work (for Beginners) | Eric Dennis | [Read More](https://medium.com/p/f098c6673807) |
-| Fri, 04 Jul 2025 21:21:17 GMT | DNS: A Lista Telefônica WEB | Filipe Campos | [Read More](https://medium.com/p/50c3b0904c50) |
