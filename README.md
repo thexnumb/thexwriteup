@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 06:18:14 GMT | Bounty $BNTY: The Key to Unlocking Bigger Earnings | $BNTY (Bounty) | [Read More](https://medium.com/p/0d07e0388612) |
+| Sat, 05 Jul 2025 06:17:48 GMT | Exploring the World of Hardware Wallets | Fausettirenia | [Read More](https://medium.com/p/76c1afda8fc1) |
+| Sat, 05 Jul 2025 06:17:22 GMT | Why is Cyber Security important? | Kavithayeravothula | [Read More](https://medium.com/p/f82924c73195) |
+| Sat, 05 Jul 2025 06:09:32 GMT | My First Cybersecurity Interview: I Didn’t Get the Job — But I Gained Something Bigger | Ajay Bommidi | [Read More](https://medium.com/p/b0ca02b634d1) |
+| Sat, 05 Jul 2025 06:08:54 GMT | 20 Cybersecurity Project Ideas — From Beginner to Expert | Paritosh | [Read More](https://medium.com/p/5d89df4e81b3) |
+| Sat, 05 Jul 2025 05:57:47 GMT | Protect Before You Paste: Meet Prompt Security | Tao Jiang | [Read More](https://medium.com/p/2b9acfc9f0ce) |
+| Sat, 05 Jul 2025 05:50:58 GMT | Polymorphic Defense: A Doctrinal Leap in Cybersecurity Strategy for an AI-Driven Threat Landscape | Carlo Tortora-Brayda Di Belvedere | [Read More](https://medium.com/p/0daf8033214c) |
+| Sat, 05 Jul 2025 05:49:43 GMT | You Are the Product: The Price of ‘Free’ in the Digital Age | MayhemCode | [Read More](https://medium.com/p/605d7d7cbd88) |
+| Sat, 05 Jul 2025 05:45:40 GMT | AI & Quantum Revolution | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/a0de1eecb683) |
+| Sat, 05 Jul 2025 05:45:12 GMT | Cybersecurity in the Age of AI | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/548614da91eb) |
 | Sat, 05 Jul 2025 05:28:53 GMT | Breaking the box: Guide to Thick Client Security Testing | William Wira | [Read More](https://medium.com/p/56f4b827111a) |
 | Sat, 05 Jul 2025 05:28:17 GMT | OAuth-2 flow | Arunesh Sri | [Read More](https://medium.com/p/daaebf91a6e2) |
 | Sat, 05 Jul 2025 05:15:53 GMT | The Future of Cybersecurity: AI-Powered Detection of Malware and Phishing | Faraz Ishaq | [Read More](https://medium.com/p/b448a689880e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 19:04:05 GMT | How to Prevent and Counter WhatsApp Hack: Essential Tips to Secure Your Account | Aminu Barade | [Read More](https://medium.com/p/8fbfbbec339e) |
 | Fri, 04 Jul 2025 18:57:45 GMT | Burp AI: A New Revolution in Web Security? | Rabia Riaz | [Read More](https://medium.com/p/b73c0f9a1902) |
 | Fri, 04 Jul 2025 18:36:48 GMT | Oops, I Did It Again | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/7c16ba46608f) |
-| Fri, 04 Jul 2025 18:34:44 GMT | Day 38: What is SOX? Understanding the Sarbanes-Oxley Act and Internal Controls | Brittney Ginther | [Read More](https://medium.com/p/a90240e37486) |
-| Fri, 04 Jul 2025 18:34:06 GMT | The $300 Bug: How a Long Email Field Triggered a Partial DoS on Sorare’s Backend | Monika sharma | [Read More](https://medium.com/p/e1455f11ac3f) |
-| Fri, 04 Jul 2025 18:31:39 GMT | Independence and Interdependence: NotPetya Ransomware (2017) | Oludare Stephen Ayobami | [Read More](https://medium.com/p/167240b3f1f6) |
-| Fri, 04 Jul 2025 18:29:45 GMT | Spring Boot 3.5 Breaking Multipart File Uploads? Here’s the Fix You Need | Keerthanacdurai | [Read More](https://medium.com/p/bcbfe50d0310) |
-| Fri, 04 Jul 2025 18:26:09 GMT | BrutDroid: The Ultimate Beginner’s Tool to Set Up an Android Pentesting Lab | Saumadip Mandal | [Read More](https://medium.com/p/15d2e92e2d67) |
-| Fri, 04 Jul 2025 18:21:23 GMT | My First Bug Bounty Story | Zaid Arif | [Read More](https://medium.com/p/df3abe7a7936) |
-| Fri, 04 Jul 2025 18:14:12 GMT | A Newbie’s Write-up of the SWU CTF: Network part | Athiwat Tiprasaharn | [Read More](https://medium.com/p/1f4603b556c8) |
-| Fri, 04 Jul 2025 18:09:39 GMT | Nmap cheat sheet | Hishamrazak | [Read More](https://medium.com/p/dd938a77cc64) |
-| Fri, 04 Jul 2025 18:02:44 GMT | Thai Write-Up (Network) : กิจกรรม SWU CTF แข่งขันชิงธงจาก มศว. สำหรับน้อง ๆ สาย Cybersecurity | Athiwat Tiprasaharn | [Read More](https://medium.com/p/60fe547ff03a) |
-| Fri, 04 Jul 2025 17:59:11 GMT | ‍♂️ *What College Forgot to Teach – The Mountains Debugged Me for Corporate Survival* | Tanmoy Dutta | [Read More](https://medium.com/p/0e63937f9b62) |
