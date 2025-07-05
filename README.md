@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 16:21:20 GMT | How a Social Icon Can Become a Threat Vector | vaaditya320 | [Read More](https://medium.com/p/c041e0b43d0a) |
+| Sat, 05 Jul 2025 16:13:27 GMT | Inside the Bybit Hack (Feb 2025) — What Went Wrong & How to Stop It Happening Again | Ikigai Academy | [Read More](https://medium.com/p/5b7721471435) |
+| Sat, 05 Jul 2025 16:05:44 GMT | The importance of URL enumeration | yee-yore | [Read More](https://medium.com/p/f6b579efd874) |
+| Sat, 05 Jul 2025 16:04:03 GMT | Top 5 Cybersecurity Trends Shaping 2025 And What They Mean for You. | Aleeko | [Read More](https://medium.com/p/7be862ea4976) |
+| Sat, 05 Jul 2025 16:02:30 GMT | Get Bugs Bunny (BUGS) Rewards and Maximize APY | Jessica
+ Roberts | [Read More](https://medium.com/p/e6b23543bf86) |
+| Sat, 05 Jul 2025 15:55:12 GMT | How to Build Truth Infrastructure in an Age of Synthetic Signals | Prince Esien | [Read More](https://medium.com/p/1ad28e52b8c3) |
+| Sat, 05 Jul 2025 15:48:44 GMT | I Sent the Blueprint to the Government. This is the Timestamp | The Architect (Jermaine A. Johnson) | [Read More](https://medium.com/p/0cd33f6eb4ba) |
+| Sat, 05 Jul 2025 15:44:25 GMT | IP & Port Tarama Uygulaması | Hasan Coskun | [Read More](https://medium.com/p/3aaae91e21a9) |
 | Sat, 05 Jul 2025 15:33:30 GMT | I'm Still the Same as I Was Years Ago | Brenda Mesquita | [Read More](https://medium.com/p/472b49d052c1) |
+| Sat, 05 Jul 2025 15:30:44 GMT | Cryptosystem — TryHackMe Room Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/b4350552af50) |
+| Sat, 05 Jul 2025 15:30:43 GMT | What I Learned from My First Wireshark Packet Capture! | Neha ravi | [Read More](https://medium.com/p/a5d0fea40fd2) |
 | Sat, 05 Jul 2025 15:27:45 GMT | Post-Exploitation with PowerShell Empire & Covenant: A Practical Walkthrough | Karthikeyan Nagaraj | [Read More](https://medium.com/p/0efc79ec6cc0) |
 | Sat, 05 Jul 2025 15:25:58 GMT | From “Oops!” to “Fortress”: My Journey to Building Secure Systems by Default | Aman Sharma | [Read More](https://medium.com/p/e4fb8d9ac0ad) |
 | Sat, 05 Jul 2025 15:24:57 GMT | From Code to Silicon: How Binary Powers the CPU and Microprocessor | Allen Ace | [Read More](https://medium.com/p/a9513aa6a2e4) |
@@ -103,13 +114,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 09:09:57 GMT | AI-Augmented Threat Detection: Why Behavioral Analytics Is Replacing Rule-Based Security | Mr Joe | [Read More](https://medium.com/p/33ed179d5134) |
 | Sat, 05 Jul 2025 09:08:24 GMT | ️ MERDEKA SIBER — TASK 1 COMPLETED ️ | Hans Nova Santosa | [Read More](https://medium.com/p/6c55ecd6aa99) |
 | Sat, 05 Jul 2025 09:06:13 GMT | From Paper-Thin Proof to Tamper-Proof Assurance: AISphere’s Immutable Pen-Test Ledger | Goodwell Mafunga | [Read More](https://medium.com/p/ab894583b046) |
-| Sat, 05 Jul 2025 09:02:01 GMT | Quantum-Resistant Cryptography: Preparing for the Post-Quantum Cyber Threat | Mr Joe | [Read More](https://medium.com/p/dd9a1f53ef47) |
-| Sat, 05 Jul 2025 09:01:32 GMT | How to Get Bugs Bunny (BUGS) Rewards: Quick Beginner's Guide | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/bfce7f28e384) |
-| Sat, 05 Jul 2025 08:52:43 GMT | All Banks paypal Cashapp western union zelle transfers and logs Cloned Cards cc atm cvv dumps Amex… | Gonzalezablerta | [Read More](https://medium.com/p/2e4bc50f3619) |
-| Sat, 05 Jul 2025 08:51:15 GMT | AI-Powered Social Engineering: The New Era of Psychological Exploits | Ezekiel peter | [Read More](https://medium.com/p/b6c586e758c5) |
-| Sat, 05 Jul 2025 08:50:12 GMT | Trusted Security Installation Companies Near Me — ICS Security Solutions for Advanced Protection… | Katheryne | [Read More](https://medium.com/p/be06a17d573b) |
-| Sat, 05 Jul 2025 08:48:16 GMT | Cybersecurity News Review — Week 27 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/a5f3b9a433be) |
-| Sat, 05 Jul 2025 08:44:40 GMT | Ai hacking — Adversarial Machine Learning: Hacking the AI Behind Modern Security Systems | Mr Joe | [Read More](https://medium.com/p/8e9db57534fe) |
-| Sat, 05 Jul 2025 08:43:59 GMT | How to Securely Store and Manage Tether (USDT) on Ledger Nano Wallet: Full Guide for ERC-20, TRC-20… | @Crypto_Support | [Read More](https://medium.com/p/7e518b53557a) |
-| Sat, 05 Jul 2025 08:42:24 GMT | Cloudflare’s Big Secret: It’s Not Just Firewalls, It’s… Lava Lamps?! ✨ | Raj Singh | [Read More](https://medium.com/p/1d740b2bdbb7) |
-| Sat, 05 Jul 2025 08:41:46 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/0ecbf95797fc) |
