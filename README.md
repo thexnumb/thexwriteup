@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 12:34:51 GMT | Best Browser Extensions for Ethical Hacking & Pentesting (2025 Edition) | Ghulam Mohiuddin | [Read More](https://medium.com/p/6b9d2a2b0de6) |
+| Sat, 05 Jul 2025 12:31:40 GMT | I Forked a Repo and Got Secrets. Here’s How | Đeepanshu | [Read More](https://medium.com/p/af3c4f8d0155) |
+| Sat, 05 Jul 2025 12:31:16 GMT | Comprehensive Guide to John the Ripper: The Password Cracking Tool | Sumit Shaw | [Read More](https://medium.com/p/70325ea26ed8) |
+| Sat, 05 Jul 2025 12:27:49 GMT | Can I appoint one more security for my laptop? | Gopi C K | [Read More](https://medium.com/p/21e08f5a78bc) |
+| Sat, 05 Jul 2025 12:21:16 GMT | Why Most SOC Teams Miss the First Signs of an Attack | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ca9e9230f804) |
+| Sat, 05 Jul 2025 12:10:34 GMT | The Hidden Danger in Your AI-Generated Code: Why 36% of Developer Dreams Become Security Nightmares | Dr. Allen Harper - Value Creator | [Read More](https://medium.com/p/6ad5db0db51d) |
+| Sat, 05 Jul 2025 12:05:17 GMT | The Art of Protecting digital Data. | M Mehran Khan | [Read More](https://medium.com/p/59d70f720566) |
+| Sat, 05 Jul 2025 12:02:55 GMT | Your SIM Card Is Spying on You — Even With GPS OFF! | Sal Tech | [Read More](https://medium.com/p/956491d21675) |
+| Sat, 05 Jul 2025 12:02:48 GMT | “All There Is, Is Growth”
+A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/p/72067ba28552) |
+| Sat, 05 Jul 2025 11:57:19 GMT | The Thin Line Between Online Vulnerability and Sharing Too Much | Elizabeth Caroline | [Read More](https://medium.com/p/fbda21754afb) |
+| Sat, 05 Jul 2025 11:42:23 GMT | Where to Get BOUNTY: A Quick Guide | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/4c7c234ca15d) |
+| Sat, 05 Jul 2025 11:37:47 GMT | The Second Act of Life: On Vulnerability and Mortality | Vijay Solanki | [Read More](https://medium.com/p/15df690c8140) |
 | Sat, 05 Jul 2025 11:27:13 GMT | Siber Güvenlik Yolculuğum Başladı: TalentCoders Kampı 1. Hafta Deneyimim | Talha Tarlabaz | [Read More](https://medium.com/p/f566f4370aaa) |
 | Sat, 05 Jul 2025 11:18:25 GMT | Zero Trust Architecture: Why It’s the Future of Security | Joy Saha | [Read More](https://medium.com/p/09a7e1b8f78a) |
 | Sat, 05 Jul 2025 11:04:40 GMT | How to Find and Exploit Vulnerabilities in WordPress Themes | Sumit Shaw | [Read More](https://medium.com/p/75ad0c3243b9) |
@@ -101,15 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 05:15:53 GMT | The Future of Cybersecurity: AI-Powered Detection of Malware and Phishing | Faraz Ishaq | [Read More](https://medium.com/p/b448a689880e) |
 | Sat, 05 Jul 2025 05:13:48 GMT | These Cybersecurity Roles Are the Future: How to Thrive in the Age of AI | Darshan | [Read More](https://medium.com/p/89c39dffde2c) |
 | Sat, 05 Jul 2025 05:02:20 GMT | Secrets in Code — Don’t Let Your API Keys Become Attack Vectors | Ayush Bulbule | [Read More](https://medium.com/p/033956c911a5) |
-| Sat, 05 Jul 2025 04:59:48 GMT | Building Security Culture Where Impact Matters Most: Lessons from the Field | David Tubananayo | [Read More](https://medium.com/p/842d36e1b346) |
-| Sat, 05 Jul 2025 04:58:37 GMT | People who know what they want… they scare me. | wovewy | [Read More](https://medium.com/p/80b75c4355dc) |
-| Sat, 05 Jul 2025 04:51:09 GMT | Types of Computer Viruses: Understanding the Hidden Threats in Your System. | Arun Adhikari | [Read More](https://medium.com/p/d2b02b459bfa) |
-| Sat, 05 Jul 2025 04:50:02 GMT | How to Hide Your API Keys in an Android Application — A Developer’s Complete Guide | Santhosh Adiga U | [Read More](https://medium.com/p/11a8086f0d52) |
-| Sat, 05 Jul 2025 04:46:51 GMT | “SOC vs AI Malware? It’s Not a Fair Fight” | Sneha Rani | [Read More](https://medium.com/p/3f385731179b) |
-| Sat, 05 Jul 2025 04:46:25 GMT | Kali Linux Alətləri ilə Tanışlıq — Spiderfoot Nədir? | Aghabala Guluzade | [Read More](https://medium.com/p/536714a41fef) |
-| Sat, 05 Jul 2025 04:36:55 GMT | Cybersecurity Projects: A Practical Journey | Jeetpatel | [Read More](https://medium.com/p/8c863cb589e9) |
-| Sat, 05 Jul 2025 04:36:22 GMT | Cybersecurity Learning Journey | Neelpatel | [Read More](https://medium.com/p/ce5ccb25e26b) |
-| Sat, 05 Jul 2025 04:29:32 GMT | Advancements in Quantum Computing–a Challenge or Opportunity for Cybersecurity? | Poddar Group of Institutions | [Read More](https://medium.com/p/649a777c45c7) |
-| Sat, 05 Jul 2025 04:29:01 GMT | Exposed WordPress XML-RPC on akcmv.gov.lv: Brute Force and DDoS Risks | Gouri Sankar A | [Read More](https://medium.com/p/554c2a29edcf) |
-| Sat, 05 Jul 2025 04:16:19 GMT | RFD Vulnerability Hunting | AbhirupKonwar | [Read More](https://medium.com/p/4d5d3747b659) |
-| Sat, 05 Jul 2025 03:53:39 GMT | Hunting SSRF in a Single Page Application (SPA) — A Bug Bounty Breakdown | Jabaribrown | [Read More](https://medium.com/p/33187d2e4fb0) |
