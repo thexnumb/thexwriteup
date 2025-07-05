@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 20:34:03 GMT | # KITTY — Secure AI + Crypto Ecosystem with DNK Protocols & Robotic Integration | Icorednk | [Read More](https://medium.com/p/f56e6ceea882) |
+| Sat, 05 Jul 2025 20:31:15 GMT | Ever Lost Phone Signal for No Reason? | Janith Sandamal | [Read More](https://medium.com/p/c75f3de13543) |
+| Sat, 05 Jul 2025 20:25:59 GMT | Day 42: Network Protocols | Nile Okomo | [Read More](https://medium.com/p/1dbb438319db) |
+| Sat, 05 Jul 2025 20:24:45 GMT | Middle Mayhem Lab | rkn | [Read More](https://medium.com/p/49b2c4550a9e) |
+| Sat, 05 Jul 2025 20:23:30 GMT | SOC Automation Project Part-5 | rkn | [Read More](https://medium.com/p/6cced41649bd) |
 | Sat, 05 Jul 2025 20:19:10 GMT | How I Got Reliable Outgoing Mail on My VPS with msmtp, Mailjet, and syslog | Jeff Stein | [Read More](https://medium.com/p/6ad52e0c3f37) |
 | Sat, 05 Jul 2025 20:11:57 GMT | Industrial Intrusion — TryHackMe CTF Walkthrough | parisa2301 | [Read More](https://medium.com/p/93b53872c50f) |
 | Sat, 05 Jul 2025 20:08:33 GMT | THE PERSON YOU ARE TALKING TO DOESN’T EXIST | Ushafa Wuakera | [Read More](https://medium.com/p/c1c7f9d56773) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 13:20:05 GMT | How to increase claps in our medium articles | S Anuradha | [Read More](https://medium.com/p/51eaef127827) |
 | Sat, 05 Jul 2025 13:19:32 GMT | . "I Reported the Crime — And Ended Up Being Treated Like the | S Anuradha | [Read More](https://medium.com/p/e213db0af59a) |
 | Sat, 05 Jul 2025 13:18:57 GMT | 10 Tiny Habits That Changed My Life — and Got Me 100,000 Claps on Medium” | S Anuradha | [Read More](https://medium.com/p/6c5619fb04f1) |
-| Sat, 05 Jul 2025 13:04:04 GMT | What is Keycloak? Understanding Identity and Access Management | Parmesh Bhatt | [Read More](https://medium.com/p/de409b99e9c9) |
-| Sat, 05 Jul 2025 13:03:08 GMT | Write-up: File path traversal, traversal sequences stripped with superfluous URL-decode | Rabia Riaz | [Read More](https://medium.com/p/29a18e110fec) |
-| Sat, 05 Jul 2025 13:01:51 GMT | Achilles Heel | Paroma Sen | [Read More](https://medium.com/p/c0a272726349) |
-| Sat, 05 Jul 2025 12:58:02 GMT | ️ Beyond /etc/passwd: LFI Bypass, The Ultimate Guide | Shah kaif | [Read More](https://medium.com/p/5829d1efb600) |
-| Sat, 05 Jul 2025 12:48:37 GMT | The Journey Begins : From Student to Cybersecurity AI Founder | Sricharan Reddy M | [Read More](https://medium.com/p/14f3643ca49f) |
