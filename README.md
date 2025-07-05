@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 10:35:26 GMT | PutraGPT: The AI Revolution in Penetration Testing Has Begun | Ekene Joseph | [Read More](https://medium.com/p/ba1b761ec7d3) |
+| Sat, 05 Jul 2025 10:34:24 GMT | Getting into CyberSecurity. | Shubham Saral | [Read More](https://medium.com/p/49dc1256f1c3) |
+| Sat, 05 Jul 2025 10:32:58 GMT | Boost Your website Traffic with Mypornads Directory Listing | mypornads | [Read More](https://medium.com/p/a84db1fed603) |
+| Sat, 05 Jul 2025 10:32:43 GMT | [SWU CTF2025] Writeups — First Round | PlugsFoundBug | [Read More](https://medium.com/p/dba2a4dc8595) |
+| Sat, 05 Jul 2025 10:32:32 GMT | Monday Monitor | Krishna | [Read More](https://medium.com/p/aca929b66564) |
+| Sat, 05 Jul 2025 10:31:32 GMT | Tomcat Takeover Lab Analysis | Omer Bawazir | [Read More](https://medium.com/p/234e8f129ad9) |
+| Sat, 05 Jul 2025 10:30:53 GMT | Future-Proof Your Crypto Holdings with LunaFi | $LFI (LunaFi) | [Read More](https://medium.com/p/6dececae42c4) |
+| Sat, 05 Jul 2025 10:29:57 GMT | Hackviser — Apache HTTP Server 2.4.49/2.4.50 Remote Code Execution(CVE-2021–42013) Write-Up! | Dogukan İSPİRLİ | [Read More](https://medium.com/p/2452ce22872a) |
+| Sat, 05 Jul 2025 10:29:14 GMT | Ethical Hacking Summer Internship Program for Freshers in India | cyber security Updates | [Read More](https://medium.com/p/4549077db002) |
+| Sat, 05 Jul 2025 10:28:36 GMT | How to Install and Use PutraGPT.pentest: A Guide for Cyber security and penetration testing | Mohammed Gabic | [Read More](https://medium.com/p/7d31a63c2c57) |
+| Sat, 05 Jul 2025 10:27:20 GMT | How a Single Email Can Compromise a Whole Network | Owais Abdul Haseeb | [Read More](https://medium.com/p/5520f032988f) |
+| Sat, 05 Jul 2025 10:23:56 GMT | Neighbour TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/36abc0bb8816) |
+| Sat, 05 Jul 2025 10:22:20 GMT | PutraGPT.pentest: The Future of AI-Powered Penetration Testing | Mohammed Gabic | [Read More](https://medium.com/p/2a55ac43baad) |
 | Sat, 05 Jul 2025 10:15:08 GMT | TryHackMe Wonderland — Walkthrough | mauzware | [Read More](https://medium.com/p/a019588b5793) |
 | Sat, 05 Jul 2025 10:10:07 GMT | Insider Threats in the Age of Hybrid Work & AI: The Invisible Cyber Risk of 2025 | Mohammed Gabic | [Read More](https://medium.com/p/4969c015c37e) |
 | Sat, 05 Jul 2025 10:09:02 GMT | AI-Driven Security Startups: The Next Wave of Cyber Defense | noailabs | [Read More](https://medium.com/p/d8651a2e015c) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 02:57:39 GMT | $1,000 Bounty: Stored XSS in Trix Editor v2.1.1 via Malicious Paste Payload | Monika sharma | [Read More](https://medium.com/p/4fa413fcde28) |
 | Sat, 05 Jul 2025 02:57:31 GMT | Stolen Credentials Drive 83% of Attacks — Machines Are the Weakest Link | Aj | [Read More](https://medium.com/p/debca6c33f36) |
 | Sat, 05 Jul 2025 02:56:01 GMT | ️ Active Directory Project (Part 2): Setting Up GPOs & GPMC Tool | Anivesh Mohan | [Read More](https://medium.com/p/29ac45f5c915) |
-| Sat, 05 Jul 2025 02:52:52 GMT | Browser Extension Recon: Finding Bugs in Official Extensions of Web Platforms | Monika sharma | [Read More](https://medium.com/p/c2a1a0e2203a) |
-| Sat, 05 Jul 2025 02:50:03 GMT | Bookmark &Bookmarklet Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/3c84a196ae23) |
-| Sat, 05 Jul 2025 02:48:36 GMT | Data & Statistics Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/7840a5602b4f) |
-| Sat, 05 Jul 2025 02:48:08 GMT | $2,000 Bounty: 0000 OTP Bypass Leads to Phone Number Takeover in inDrive | Monika sharma | [Read More](https://medium.com/p/99f29f46e793) |
-| Sat, 05 Jul 2025 02:46:58 GMT | Web Monitoring Tools For OSINT Investigation | loyalonlytoday | [Read More](https://medium.com/p/5ab926a8fe16) |
-| Sat, 05 Jul 2025 02:46:50 GMT | The Password I Never Reset — And Still Got In | LordofHeaven | [Read More](https://medium.com/p/a3ff502b03ee) |
-| Sat, 05 Jul 2025 02:46:44 GMT | Just Wanted to Be a Driver, Ended Up Discovering a Time Capsule | Erkan Kavas | [Read More](https://medium.com/p/085808a4baa8) |
-| Sat, 05 Jul 2025 02:46:27 GMT | PortSwigger Lab: Exploiting a mass assignment vulnerability writeup (API Testing) | awes0meness | [Read More](https://medium.com/p/cc28cc828a37) |
-| Sat, 05 Jul 2025 02:46:04 GMT | $2,000 Bounty: Breaking Capability Enforcement in CosmWasm Contracts | Monika sharma | [Read More](https://medium.com/p/ddea3aa5d3dc) |
-| Sat, 05 Jul 2025 02:45:57 GMT | Enumerating Subdomains With Python | Aleksa Zatezalo | [Read More](https://medium.com/p/14f06c94239c) |
-| Sat, 05 Jul 2025 02:45:21 GMT | $500 Bounty: Subdomain Takeover on live.firefox.com via Unclaimed Fastly CNAME | Monika sharma | [Read More](https://medium.com/p/c7d1971e1a32) |
-| Sat, 05 Jul 2025 02:45:16 GMT | Penetration Testing of AI: Why and How? | Sandeep Saxena | [Read More](https://medium.com/p/7b14a71e5708) |
-| Sat, 05 Jul 2025 02:44:26 GMT | Cybersecurity in 2025: Leveraging AI Without Losing Control | Sandeep Saxena | [Read More](https://medium.com/p/36cc269a9f40) |
