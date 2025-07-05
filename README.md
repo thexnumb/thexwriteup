@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 05:02:20 GMT | Secrets in Code — Don’t Let Your API Keys Become Attack Vectors | Ayush Bulbule | [Read More](https://medium.com/p/033956c911a5) |
+| Sat, 05 Jul 2025 04:59:48 GMT | Building Security Culture Where Impact Matters Most: Lessons from the Field | David Tubananayo | [Read More](https://medium.com/p/842d36e1b346) |
+| Sat, 05 Jul 2025 04:58:37 GMT | People who know what they want… they scare me. | wovewy | [Read More](https://medium.com/p/80b75c4355dc) |
+| Sat, 05 Jul 2025 04:51:09 GMT | Types of Computer Viruses: Understanding the Hidden Threats in Your System. | Arun Adhikari | [Read More](https://medium.com/p/d2b02b459bfa) |
+| Sat, 05 Jul 2025 04:50:02 GMT | How to Hide Your API Keys in an Android Application — A Developer’s Complete Guide | Santhosh Adiga U | [Read More](https://medium.com/p/11a8086f0d52) |
+| Sat, 05 Jul 2025 04:46:51 GMT | “SOC vs AI Malware? It’s Not a Fair Fight” | Sneha Rani | [Read More](https://medium.com/p/3f385731179b) |
+| Sat, 05 Jul 2025 04:46:25 GMT | Kali Linux Alətləri ilə Tanışlıq — Spiderfoot Nədir? | Aghabala Guluzade | [Read More](https://medium.com/p/536714a41fef) |
+| Sat, 05 Jul 2025 04:36:55 GMT | Cybersecurity Projects: A Practical Journey | Jeetpatel | [Read More](https://medium.com/p/8c863cb589e9) |
+| Sat, 05 Jul 2025 04:36:22 GMT | Cybersecurity Learning Journey | Neelpatel | [Read More](https://medium.com/p/ce5ccb25e26b) |
+| Sat, 05 Jul 2025 04:29:32 GMT | Advancements in Quantum Computing–a Challenge or Opportunity for Cybersecurity? | Poddar Group of Institutions | [Read More](https://medium.com/p/649a777c45c7) |
 | Sat, 05 Jul 2025 04:29:01 GMT | Exposed WordPress XML-RPC on akcmv.gov.lv: Brute Force and DDoS Risks | Gouri Sankar A | [Read More](https://medium.com/p/554c2a29edcf) |
 | Sat, 05 Jul 2025 04:16:19 GMT | RFD Vulnerability Hunting | AbhirupKonwar | [Read More](https://medium.com/p/4d5d3747b659) |
 | Sat, 05 Jul 2025 03:53:39 GMT | Hunting SSRF in a Single Page Application (SPA) — A Bug Bounty Breakdown | Jabaribrown | [Read More](https://medium.com/p/33187d2e4fb0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 17:47:42 GMT | Even Perfect Code Can Leak Secrets: Understanding Side-Channel Vulnerabilities | Eytan Manor | [Read More](https://medium.com/p/1b21525ba6d8) |
 | Fri, 04 Jul 2025 17:44:15 GMT | How to Catch an AI: 7 Clues That Reveal You’re Not Talking to a Human | Paras Patil | [Read More](https://medium.com/p/3764a6aa159e) |
 | Fri, 04 Jul 2025 17:42:52 GMT | Linux Command Cheat Sheet | Shoaib Bin Rashid | [Read More](https://medium.com/p/5f4db04c08dc) |
-| Fri, 04 Jul 2025 17:42:37 GMT | Understanding S3 Access Logs in Splunk: Who Did What and When ? | Chandra Tadala | [Read More](https://medium.com/p/502c0d441f84) |
-| Fri, 04 Jul 2025 17:40:01 GMT | Zero-Trust Security Architecture: Why “Never Trust, Always Verify” is the New Cybersecurity… | Ezekiel Joseph | [Read More](https://medium.com/p/b442eb71df5b) |
-| Fri, 04 Jul 2025 17:31:17 GMT | “Cut the Green Rope” — A Network Paradox Hiding in Plain Sight | Anirudh Dattu | [Read More](https://medium.com/p/d64e691979a3) |
-| Fri, 04 Jul 2025 17:27:52 GMT | Even Perfect Code Can Leak Secrets: Understanding Side-Channel Vulnerabilities | Eytan Manor | [Read More](https://medium.com/p/5919b13d6f71) |
-| Fri, 04 Jul 2025 17:27:03 GMT | I Passed the AZ-900 Azure Fundamentals Exam: Here’s What I Learned (And Why It’s Totally Worth It) | Ronak Joshi | [Read More](https://medium.com/p/e89f9540b083) |
-| Fri, 04 Jul 2025 17:25:19 GMT | Service Exploitation on Metasploitable2: Using FTP, Telnet, and Samba Vulnerabilities. | Odunlade Joshua | [Read More](https://medium.com/p/c0df4d2f2087) |
-| Fri, 04 Jul 2025 17:18:35 GMT | Cracking Windows: PoC to Master Windows API Redirection | Malforge Group | [Read More](https://medium.com/p/e4e0fbe2073a) |
-| Fri, 04 Jul 2025 17:17:17 GMT | Securing Microsoft Fabric: Inbound Traffic | Amirhossein Borghei Razavi | [Read More](https://medium.com/p/5089d85587c3) |
-| Fri, 04 Jul 2025 17:16:33 GMT | Top 5 VPNs for Safe Travel in 2025 (Perfect for Remote Workers & Expats) | CyberNomad | [Read More](https://medium.com/p/9a1339be2974) |
-| Fri, 04 Jul 2025 17:09:38 GMT | The Dark Web in 2025: The Best Search Engines, Directories, and Forums You Should Know | Torzle Admin | [Read More](https://medium.com/p/530790ea30b7) |
