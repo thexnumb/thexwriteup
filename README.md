@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 11:27:13 GMT | Siber Güvenlik Yolculuğum Başladı: TalentCoders Kampı 1. Hafta Deneyimim | Talha Tarlabaz | [Read More](https://medium.com/p/f566f4370aaa) |
+| Sat, 05 Jul 2025 11:18:25 GMT | Zero Trust Architecture: Why It’s the Future of Security | Joy Saha | [Read More](https://medium.com/p/09a7e1b8f78a) |
 | Sat, 05 Jul 2025 11:04:40 GMT | How to Find and Exploit Vulnerabilities in WordPress Themes | Sumit Shaw | [Read More](https://medium.com/p/75ad0c3243b9) |
 | Sat, 05 Jul 2025 11:03:02 GMT | Birthday of Attacks: SHA-1 Collision | Oludare Stephen Ayobami | [Read More](https://medium.com/p/377e8f8c66c9) |
 | Sat, 05 Jul 2025 10:49:21 GMT | Privilege Escalation through DLL Hijacking (Windows Systems) | Ammar Ahmed | [Read More](https://medium.com/p/6fa6343ddead) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 04:29:01 GMT | Exposed WordPress XML-RPC on akcmv.gov.lv: Brute Force and DDoS Risks | Gouri Sankar A | [Read More](https://medium.com/p/554c2a29edcf) |
 | Sat, 05 Jul 2025 04:16:19 GMT | RFD Vulnerability Hunting | AbhirupKonwar | [Read More](https://medium.com/p/4d5d3747b659) |
 | Sat, 05 Jul 2025 03:53:39 GMT | Hunting SSRF in a Single Page Application (SPA) — A Bug Bounty Breakdown | Jabaribrown | [Read More](https://medium.com/p/33187d2e4fb0) |
-| Sat, 05 Jul 2025 03:11:26 GMT | You Can’t Write Your Best Story — Until You Live Your Worst One | A.Rehman | [Read More](https://medium.com/p/71345f682ce9) |
-| Sat, 05 Jul 2025 03:02:12 GMT | PortSwigger Lab: Exploiting server-side parameter pollution in a query string writeup (API Testing) | awes0meness | [Read More](https://medium.com/p/69e784ec8b2e) |
