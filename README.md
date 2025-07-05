@@ -34,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 08:26:53 GMT | DarkMatter - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/10ee74fd970d) |
 | Sat, 05 Jul 2025 08:24:09 GMT | Is NATO Still Relevant in the 21st Century?- | Bengü Su Pınar | [Read More](https://medium.com/p/59af2a9aa78d) |
 | Sat, 05 Jul 2025 08:20:18 GMT | Ai powered Threat Detection and behavioral analytics : Smart, adaptive, and context-aware. | Ekene Joseph | [Read More](https://medium.com/p/52c31017b43c) |
+| Sat, 05 Jul 2025 08:19:31 GMT | Blockchain 51% Attack Gaskiya da Gaskiyar Kare Kai Daga Hadari | Umarfarooq | [Read More](https://medium.com/p/630d47814796) |
 | Sat, 05 Jul 2025 08:19:30 GMT | Is NATO Still Relevant in the 21st Century? — Part 1: Strategic Challenges and Global Threats | Bengü Su Pınar | [Read More](https://medium.com/p/375cf204794c) |
 | Sat, 05 Jul 2025 08:11:23 GMT | The Age Of AI And Humanity Protocol Social Credentials | PVMihalache | [Read More](https://medium.com/p/6683baa03c67) |
 | Sat, 05 Jul 2025 08:07:33 GMT | Cryptosystem - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/aff8e1dfaf9d) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 01:00:59 GMT | My 2025 Learning Adventure (aka “How to Stay Relevant When You’re Already Old”) | Segev Shmueli | [Read More](https://medium.com/p/d5e897992fcf) |
 | Sat, 05 Jul 2025 00:56:30 GMT | Microsoft’s New Open-Source Tool is a Game-Changer for Rust Malware Analysis | Cyber-AppSec | [Read More](https://medium.com/p/5f3081305dbe) |
 | Sat, 05 Jul 2025 00:47:30 GMT | What Is The Informatics Hub? A Gateway to Smart Learning & Innovation | Theinformaticshub | [Read More](https://medium.com/p/07ac7693503d) |
-| Sat, 05 Jul 2025 00:32:53 GMT | The Update Framework (TUF): A Comprehensive Guide to Secure Software Updates | ThamizhElango Natarajan | [Read More](https://medium.com/p/bb8e6e84afd0) |
