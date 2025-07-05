@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 21:35:09 GMT | Confidential Computing: Securing Data in Use | Sourav Paul | [Read More](https://medium.com/p/98770864b176) |
+| Sat, 05 Jul 2025 21:34:35 GMT | Hello hacker’s , | Cenman | [Read More](https://medium.com/p/03e94add052d) |
+| Sat, 05 Jul 2025 21:31:21 GMT | Red Team Adaptation in the Age of Agentic AI | january1073 | [Read More](https://medium.com/p/61ab4993386e) |
+| Sat, 05 Jul 2025 21:29:59 GMT | Internet Safety 101: How to Not Get Scammed, Hacked, or Tracked | Just Nancy | [Read More](https://medium.com/p/390b696350dd) |
+| Sat, 05 Jul 2025 21:26:52 GMT | I Hacked GraphQL to Steal Data Without Admin Access | Ibtissam hammadi | [Read More](https://medium.com/p/8da9219483b9) |
+| Sat, 05 Jul 2025 21:19:48 GMT | WebStrike Lab Walkthrough (CyberDefenders) | Achuth Chandra | [Read More](https://medium.com/p/43c2c13910ea) |
+| Sat, 05 Jul 2025 21:17:51 GMT | Attack Strategy --Compromised an Account Now what -- Post-Compromise Attack Strategy--Active… | Muhammadhuzaifa | [Read More](https://medium.com/p/b51c99b07f87) |
+| Sat, 05 Jul 2025 21:11:47 GMT | Dumping the NTDS.dit | Muhammadhuzaifa | [Read More](https://medium.com/p/147870c07b3e) |
 | Sat, 05 Jul 2025 21:01:00 GMT | Active Directory Lab — Part 1: Server Prep & Domain Setup | Hicham Kernaf | [Read More](https://medium.com/p/b49d0d926ac4) |
 | Sat, 05 Jul 2025 20:56:58 GMT | ️ Active Directory Project (Part 3)-Wallpaper & Restricting Control Panel | Anivesh Mohan | [Read More](https://medium.com/p/9111d106af40) |
 | Sat, 05 Jul 2025 20:52:42 GMT | Norton 360 Deluxe 2025 Review – Is This the Best Antivirus for You? | Muhammad Tayyab | [Read More](https://medium.com/p/0e3086c04f9e) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 14:20:47 GMT | Applying Cybersecurity Principles to Everyday Life for Personal Safety. | Ezinne Ugwoke | [Read More](https://medium.com/p/6e36a32a51fe) |
 | Sat, 05 Jul 2025 14:16:13 GMT | U.S. Warns: Iranian Hackers Eye Israeli Defense Firms | Aj | [Read More](https://medium.com/p/5b135fddcda8) |
 | Sat, 05 Jul 2025 14:11:40 GMT | Your Logs are Lying: How Network Infrastructure Impacts EDR Network Telemetry | Mehmet Ergene | [Read More](https://medium.com/p/150df879cfc6) |
-| Sat, 05 Jul 2025 14:08:35 GMT | Exploiting LPE on Windows Server via LocalPotato (CVE-2023–21746) — Project Report | Farhad Anwari | [Read More](https://medium.com/p/9de6573e96dd) |
-| Sat, 05 Jul 2025 14:07:42 GMT | Walkthrough THM Cat Pictures 2 | Telynor | [Read More](https://medium.com/p/53bba090e1e1) |
-| Sat, 05 Jul 2025 14:01:45 GMT | Cybercrime in India: Companies to Lose ₹20,000 Cr in 2025 | Hacker news 07 | [Read More](https://medium.com/p/f6f35361c3e2) |
-| Sat, 05 Jul 2025 13:59:34 GMT | Cybersecurity’s Blind Spot: The Urgency of OT/ICS Security | Sara sweilmeen | [Read More](https://medium.com/p/81d90454053e) |
-| Sat, 05 Jul 2025 13:45:19 GMT | Analyzing an apk from metasploit with Ghidra | Lord Murak | [Read More](https://medium.com/p/87f7e5ec82bb) |
-| Sat, 05 Jul 2025 13:40:34 GMT | İyi, Kötü ve Stratejik: Edu, Exploit ve Article Backlinklerin SEO’daki Yeri | Abdulkadir Güngör | [Read More](https://medium.com/p/288b16a9f137) |
-| Sat, 05 Jul 2025 13:29:27 GMT | How to Install and Configure Suricata IDS on Ubuntu Server: A Beginner-Friendly Guide | Rishavkumarthapa | [Read More](https://medium.com/p/7cc5ef7a8f62) |
-| Sat, 05 Jul 2025 13:29:08 GMT | The Security Auditing Lifecycle — Like a Home Inspection Before You Move In | Mujtaba Shaikeldin | [Read More](https://medium.com/p/c56efb09b50e) |
