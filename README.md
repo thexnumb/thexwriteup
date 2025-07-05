@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 13:40:34 GMT | İyi, Kötü ve Stratejik: Edu, Exploit ve Article Backlinklerin SEO’daki Yeri | Abdulkadir Güngör | [Read More](https://medium.com/p/288b16a9f137) |
+| Sat, 05 Jul 2025 13:29:27 GMT | How to Install and Configure Suricata IDS on Ubuntu Server: A Beginner-Friendly Guide | Rishavkumarthapa | [Read More](https://medium.com/p/7cc5ef7a8f62) |
+| Sat, 05 Jul 2025 13:29:08 GMT | The Security Auditing Lifecycle — Like a Home Inspection Before You Move In | Mujtaba Shaikeldin | [Read More](https://medium.com/p/c56efb09b50e) |
 | Sat, 05 Jul 2025 13:26:44 GMT | “No MFA. No Questions. Just an Email Inbox — And a Turning Point” | mr independent | [Read More](https://medium.com/p/dc600f01c3da) |
 | Sat, 05 Jul 2025 13:20:05 GMT | How to increase claps in our medium articles | S Anuradha | [Read More](https://medium.com/p/51eaef127827) |
 | Sat, 05 Jul 2025 13:19:32 GMT | . "I Reported the Crime — And Ended Up Being Treated Like the | S Anuradha | [Read More](https://medium.com/p/e213db0af59a) |
@@ -111,6 +114,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 06:36:51 GMT | n0s4n1ty 1 - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/cb86b0c66ca1) |
 | Sat, 05 Jul 2025 06:21:08 GMT | Unattached, Unfiltered, Undone | Quarter Life Crises Co. | [Read More](https://medium.com/p/22148f8e5ad4) |
 | Sat, 05 Jul 2025 06:18:14 GMT | Bounty $BNTY: The Key to Unlocking Bigger Earnings | $BNTY (Bounty) | [Read More](https://medium.com/p/0d07e0388612) |
-| Sat, 05 Jul 2025 06:17:48 GMT | Exploring the World of Hardware Wallets | Fausettirenia | [Read More](https://medium.com/p/76c1afda8fc1) |
-| Sat, 05 Jul 2025 06:17:22 GMT | Why is Cyber Security important? | Kavithayeravothula | [Read More](https://medium.com/p/f82924c73195) |
-| Sat, 05 Jul 2025 06:09:32 GMT | My First Cybersecurity Interview: I Didn’t Get the Job — But I Gained Something Bigger | Ajay Bommidi | [Read More](https://medium.com/p/b0ca02b634d1) |
