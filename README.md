@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 14:08:35 GMT | Exploiting LPE on Windows Server via LocalPotato (CVE-2023–21746) — Project Report | Farhad Anwari | [Read More](https://medium.com/p/9de6573e96dd) |
+| Sat, 05 Jul 2025 14:07:42 GMT | Walkthrough THM Cat Pictures 2 | Telynor | [Read More](https://medium.com/p/53bba090e1e1) |
+| Sat, 05 Jul 2025 14:01:45 GMT | Cybercrime in India: Companies to Lose ₹20,000 Cr in 2025 | Hacker news 07 | [Read More](https://medium.com/p/f6f35361c3e2) |
+| Sat, 05 Jul 2025 13:59:34 GMT | Cybersecurity’s Blind Spot: The Urgency of OT/ICS Security | Sara sweilmeen | [Read More](https://medium.com/p/81d90454053e) |
+| Sat, 05 Jul 2025 13:45:19 GMT | Analyzing an apk from metasploit with Ghidra | Lord Murak | [Read More](https://medium.com/p/87f7e5ec82bb) |
 | Sat, 05 Jul 2025 13:40:34 GMT | İyi, Kötü ve Stratejik: Edu, Exploit ve Article Backlinklerin SEO’daki Yeri | Abdulkadir Güngör | [Read More](https://medium.com/p/288b16a9f137) |
 | Sat, 05 Jul 2025 13:29:27 GMT | How to Install and Configure Suricata IDS on Ubuntu Server: A Beginner-Friendly Guide | Rishavkumarthapa | [Read More](https://medium.com/p/7cc5ef7a8f62) |
 | Sat, 05 Jul 2025 13:29:08 GMT | The Security Auditing Lifecycle — Like a Home Inspection Before You Move In | Mujtaba Shaikeldin | [Read More](https://medium.com/p/c56efb09b50e) |
@@ -109,8 +114,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 06:51:12 GMT | NSB Raises Red Flag on China-Made Mobile Apps: Alarming Security Threats Uncovered | CyDhaal | [Read More](https://medium.com/p/eff71be2a1ba) |
 | Sat, 05 Jul 2025 06:48:52 GMT | What a Simple Scan Taught Me About Cybersecurity | Cyberscope | [Read More](https://medium.com/p/c3e68882c4eb) |
 | Sat, 05 Jul 2025 06:48:22 GMT | Top MCA Career Options in 2025: High-Paying Jobs and Future Scope | Evision Technoserve | [Read More](https://medium.com/p/2cddeb0b6084) |
-| Sat, 05 Jul 2025 06:43:19 GMT | A Beginner's Guide To Getting Rewards On Bugs Bunny ($BUGS) | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/51f853231b86) |
-| Sat, 05 Jul 2025 06:38:05 GMT | OWASP Pentest Series (12/12) | TheZeeshanKhan | [Read More](https://medium.com/p/62246e07f700) |
-| Sat, 05 Jul 2025 06:36:51 GMT | n0s4n1ty 1 - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/cb86b0c66ca1) |
-| Sat, 05 Jul 2025 06:21:08 GMT | Unattached, Unfiltered, Undone | Quarter Life Crises Co. | [Read More](https://medium.com/p/22148f8e5ad4) |
-| Sat, 05 Jul 2025 06:18:14 GMT | Bounty $BNTY: The Key to Unlocking Bigger Earnings | $BNTY (Bounty) | [Read More](https://medium.com/p/0d07e0388612) |
