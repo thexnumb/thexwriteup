@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 21:01:00 GMT | Active Directory Lab — Part 1: Server Prep & Domain Setup | Hicham Kernaf | [Read More](https://medium.com/p/b49d0d926ac4) |
+| Sat, 05 Jul 2025 20:56:58 GMT | ️ Active Directory Project (Part 3)-Wallpaper & Restricting Control Panel | Anivesh Mohan | [Read More](https://medium.com/p/9111d106af40) |
+| Sat, 05 Jul 2025 20:52:42 GMT | Norton 360 Deluxe 2025 Review – Is This the Best Antivirus for You? | Muhammad Tayyab | [Read More](https://medium.com/p/0e3086c04f9e) |
+| Sat, 05 Jul 2025 20:51:48 GMT | The Ghost in the Machine is Coming for Your Network | Conor Armstrong | [Read More](https://medium.com/p/31fd5289794d) |
 | Sat, 05 Jul 2025 20:34:03 GMT | # KITTY — Secure AI + Crypto Ecosystem with DNK Protocols & Robotic Integration | Icorednk | [Read More](https://medium.com/p/f56e6ceea882) |
 | Sat, 05 Jul 2025 20:31:15 GMT | Ever Lost Phone Signal for No Reason? | Janith Sandamal | [Read More](https://medium.com/p/c75f3de13543) |
 | Sat, 05 Jul 2025 20:25:59 GMT | Day 42: Network Protocols | Nile Okomo | [Read More](https://medium.com/p/1dbb438319db) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 13:40:34 GMT | İyi, Kötü ve Stratejik: Edu, Exploit ve Article Backlinklerin SEO’daki Yeri | Abdulkadir Güngör | [Read More](https://medium.com/p/288b16a9f137) |
 | Sat, 05 Jul 2025 13:29:27 GMT | How to Install and Configure Suricata IDS on Ubuntu Server: A Beginner-Friendly Guide | Rishavkumarthapa | [Read More](https://medium.com/p/7cc5ef7a8f62) |
 | Sat, 05 Jul 2025 13:29:08 GMT | The Security Auditing Lifecycle — Like a Home Inspection Before You Move In | Mujtaba Shaikeldin | [Read More](https://medium.com/p/c56efb09b50e) |
-| Sat, 05 Jul 2025 13:26:44 GMT | “No MFA. No Questions. Just an Email Inbox — And a Turning Point” | mr independent | [Read More](https://medium.com/p/dc600f01c3da) |
-| Sat, 05 Jul 2025 13:20:05 GMT | How to increase claps in our medium articles | S Anuradha | [Read More](https://medium.com/p/51eaef127827) |
-| Sat, 05 Jul 2025 13:19:32 GMT | . "I Reported the Crime — And Ended Up Being Treated Like the | S Anuradha | [Read More](https://medium.com/p/e213db0af59a) |
-| Sat, 05 Jul 2025 13:18:57 GMT | 10 Tiny Habits That Changed My Life — and Got Me 100,000 Claps on Medium” | S Anuradha | [Read More](https://medium.com/p/6c5619fb04f1) |
