@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 05:28:53 GMT | Breaking the box: Guide to Thick Client Security Testing | William Wira | [Read More](https://medium.com/p/56f4b827111a) |
+| Sat, 05 Jul 2025 05:28:17 GMT | OAuth-2 flow | Arunesh Sri | [Read More](https://medium.com/p/daaebf91a6e2) |
+| Sat, 05 Jul 2025 05:15:53 GMT | The Future of Cybersecurity: AI-Powered Detection of Malware and Phishing | Faraz Ishaq | [Read More](https://medium.com/p/b448a689880e) |
+| Sat, 05 Jul 2025 05:13:48 GMT | These Cybersecurity Roles Are the Future: How to Thrive in the Age of AI | Darshan | [Read More](https://medium.com/p/89c39dffde2c) |
 | Sat, 05 Jul 2025 05:02:20 GMT | Secrets in Code — Don’t Let Your API Keys Become Attack Vectors | Ayush Bulbule | [Read More](https://medium.com/p/033956c911a5) |
 | Sat, 05 Jul 2025 04:59:48 GMT | Building Security Culture Where Impact Matters Most: Lessons from the Field | David Tubananayo | [Read More](https://medium.com/p/842d36e1b346) |
 | Sat, 05 Jul 2025 04:58:37 GMT | People who know what they want… they scare me. | wovewy | [Read More](https://medium.com/p/80b75c4355dc) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 18:09:39 GMT | Nmap cheat sheet | Hishamrazak | [Read More](https://medium.com/p/dd938a77cc64) |
 | Fri, 04 Jul 2025 18:02:44 GMT | Thai Write-Up (Network) : กิจกรรม SWU CTF แข่งขันชิงธงจาก มศว. สำหรับน้อง ๆ สาย Cybersecurity | Athiwat Tiprasaharn | [Read More](https://medium.com/p/60fe547ff03a) |
 | Fri, 04 Jul 2025 17:59:11 GMT | ‍♂️ *What College Forgot to Teach – The Mountains Debugged Me for Corporate Survival* | Tanmoy Dutta | [Read More](https://medium.com/p/0e63937f9b62) |
-| Fri, 04 Jul 2025 17:55:22 GMT | The Security Hole Most Developers Ignore Until It’s Too Late | Code With Hannan | [Read More](https://medium.com/p/c9afb4edcb58) |
-| Fri, 04 Jul 2025 17:47:42 GMT | Even Perfect Code Can Leak Secrets: Understanding Side-Channel Vulnerabilities | Eytan Manor | [Read More](https://medium.com/p/1b21525ba6d8) |
-| Fri, 04 Jul 2025 17:44:15 GMT | How to Catch an AI: 7 Clues That Reveal You’re Not Talking to a Human | Paras Patil | [Read More](https://medium.com/p/3764a6aa159e) |
-| Fri, 04 Jul 2025 17:42:52 GMT | Linux Command Cheat Sheet | Shoaib Bin Rashid | [Read More](https://medium.com/p/5f4db04c08dc) |
