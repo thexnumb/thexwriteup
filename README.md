@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 01:22:53 GMT | AI-Powered Malware Is Already Here — And Your SOC Isn’t Ready for It | Sneha Rani | [Read More](https://medium.com/p/d5a222b4146f) |
+| Sat, 05 Jul 2025 01:09:22 GMT | ️ Active Directory Project (Part 1)- Create OUs ,Groups & Users | Anivesh Mohan | [Read More](https://medium.com/p/ae19711b5553) |
+| Sat, 05 Jul 2025 01:07:44 GMT | Write-up PicoCTF (Capture The Flag) — Power Cookie | Sérgio Corrêa | [Read More](https://medium.com/p/03dff7f3d3eb) |
+| Sat, 05 Jul 2025 01:07:05 GMT | Defense in Depth: Building a Resilient Cybersecurity Fortress | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/fc36d6fb0fce) |
+| Sat, 05 Jul 2025 01:00:59 GMT | My 2025 Learning Adventure (aka “How to Stay Relevant When You’re Already Old”) | Segev Shmueli | [Read More](https://medium.com/p/d5e897992fcf) |
+| Sat, 05 Jul 2025 00:56:30 GMT | Microsoft’s New Open-Source Tool is a Game-Changer for Rust Malware Analysis | Cyber-AppSec | [Read More](https://medium.com/p/5f3081305dbe) |
+| Sat, 05 Jul 2025 00:47:30 GMT | What Is The Informatics Hub? A Gateway to Smart Learning & Innovation | Theinformaticshub | [Read More](https://medium.com/p/07ac7693503d) |
+| Sat, 05 Jul 2025 00:32:53 GMT | The Update Framework (TUF): A Comprehensive Guide to Secure Software Updates | ThamizhElango Natarajan | [Read More](https://medium.com/p/bb8e6e84afd0) |
+| Sat, 05 Jul 2025 00:22:14 GMT | Building My Cyber Foundations: A Reflection on My Learning So Far | Sonobia James | [Read More](https://medium.com/p/0b93983fa5ab) |
+| Sat, 05 Jul 2025 00:02:54 GMT | Security Fundamentals: Cryptographic Hashing Explained | The Millennial Dev | [Read More](https://medium.com/p/c45a33adfa8c) |
+| Sat, 05 Jul 2025 00:00:02 GMT | GoBuster: Your Essential Tool for Web Enumeration, Pentesting, and Bug Bounty | JPablo13 | [Read More](https://medium.com/p/143c3d134587) |
 | Fri, 04 Jul 2025 23:34:41 GMT | SQL Prepared Statements ain’t that safer | David Gallay | [Read More](https://medium.com/p/566b3447e8ad) |
 | Fri, 04 Jul 2025 23:32:52 GMT | FortiGuard AI-Powered Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/9dfd160aaf5d) |
 | Fri, 04 Jul 2025 23:28:18 GMT | WGEL CTF TryHackMe | Mazen Mohamed | [Read More](https://medium.com/p/5ca10f320d83) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 04 Jul 2025 14:46:29 GMT | FastMCP Bearer Token Authentication: A Technical Deep Dive | Guangya Liu | [Read More](https://medium.com/p/c05d0c5087f4) |
 | Fri, 04 Jul 2025 14:38:57 GMT | Discover Why More Businesses Are Choosing vCloud Tech for Cloud IT Solutions | Kevinasutton | [Read More](https://medium.com/p/8699ba0a0c94) |
 | Fri, 04 Jul 2025 14:19:29 GMT | PCB Design: The Hidden Bridge Between Embedded Systems and Data Science | Grace Wanja | [Read More](https://medium.com/p/4c1d3693a188) |
-| Fri, 04 Jul 2025 14:17:25 GMT | Sistem Tasarımı ve Modellemesi | Yunus Emre Maraşlı | [Read More](https://medium.com/p/7128d2092ef0) |
-| Fri, 04 Jul 2025 14:16:52 GMT | Real-Time Insider Threat Detection Using Machine Learning | Esra Kayhan | [Read More](https://medium.com/p/664c9e6bb057) |
-| Fri, 04 Jul 2025 14:16:18 GMT | GitHub Actions: SAST / DAST scan | Nejat Nebizade | [Read More](https://medium.com/p/e3b8477174a8) |
-| Fri, 04 Jul 2025 14:15:23 GMT | Beyond RBAC: A Senior Engineer’s Field Guide to Production-Ready Keycloak | A.W. Reed. | [Read More](https://medium.com/p/9e01dbaae533) |
-| Fri, 04 Jul 2025 14:13:49 GMT | Aula 8 — DNS Zone Transfer (AXFR) | HexSilent | [Read More](https://medium.com/p/0ddd35a37a15) |
-| Fri, 04 Jul 2025 14:13:20 GMT | How Mr. Robot’s Elliot Used Bluetooth to Hack a Prison | Coderxploit | [Read More](https://medium.com/p/f43bd260b5dd) |
-| Fri, 04 Jul 2025 14:11:25 GMT | Cyber Briefing: 2025.07.04 | CyberMaterial | [Read More](https://medium.com/p/74fe7d12f49b) |
-| Fri, 04 Jul 2025 14:11:16 GMT | The Role of Cybersecurity in Regulatory Compliance | ITBizTeK | [Read More](https://medium.com/p/4e31fc5da6a7) |
-| Fri, 04 Jul 2025 14:07:04 GMT | Major Cyber Attacks, Ransomware Attacks and Data Breaches of June 2025 | IT_Engineer | [Read More](https://medium.com/p/d9a75056227d) |
-| Fri, 04 Jul 2025 14:04:07 GMT | Don’t Get Held Hostage: Understanding and Thwarting Ransomware | CFE Consultancy Services | [Read More](https://medium.com/p/e840d9705008) |
-| Fri, 04 Jul 2025 14:02:17 GMT | What is the Role and Uses of AI in Cybersecurity Today? | Shriyansh Tiwari | [Read More](https://medium.com/p/13838e5120e5) |
