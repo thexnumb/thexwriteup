@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 22:37:08 GMT | “I Was Always Told to Be ‘Low Maintenance.’ Now I Know That Was a Trap.” | Anshika Prajapati | [Read More](https://medium.com/p/20db72ed8901) |
+| Sat, 05 Jul 2025 22:28:36 GMT | From Code to Security: How VulnDec Uses AI to Find Vulnerabilities | Kasib Mansuri | [Read More](https://medium.com/p/1f8f40e3ee76) |
 | Sat, 05 Jul 2025 21:57:40 GMT | The Big Five Smart Contract Vulnerabilities Behind the Most Devastating Hacks: A 2025 Postmortem | Mohammad Khezer | [Read More](https://medium.com/p/197836a34733) |
 | Sat, 05 Jul 2025 21:52:12 GMT | Active Reconnaissance — TryHackMe | sercan timocin | [Read More](https://medium.com/p/0aabf7a4e799) |
 | Sat, 05 Jul 2025 21:49:32 GMT | How Private Are Your Gemini or ChatGPT Conversations? | Saurav Dawadi | [Read More](https://medium.com/p/da6e5f794632) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 14:52:53 GMT | DevSecOps Is Becoming Just a Compliance Checkbox — Not Real Security | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/c79c13d60a10) |
 | Sat, 05 Jul 2025 14:44:33 GMT | Subdomain Takeover: When Your Own Domain Becomes Your Enemy ️‍♂️ | Het Patel | [Read More](https://medium.com/p/8c80e650aeea) |
 | Sat, 05 Jul 2025 14:44:19 GMT | S.O.L.I.D. Principles | ali ibrahimzade | [Read More](https://medium.com/p/8a3abff3c46e) |
-| Sat, 05 Jul 2025 14:41:39 GMT | 2025’s Hottest Cybersecurity Certifications: Your Ticket to Six Figures (and Bragging Rights) | Aj | [Read More](https://medium.com/p/fc045b2a53e6) |
-| Sat, 05 Jul 2025 14:33:30 GMT | How Azure’s System-Assigned Identity for AKS Blew My Mind as a DevOps & Cloud Security Engineer | Muhammed Akintola | [Read More](https://medium.com/p/b11c69516c9b) |
