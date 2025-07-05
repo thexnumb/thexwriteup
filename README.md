@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 05 Jul 2025 15:10:36 GMT | Hands-On Lab: JSON API Security Testing with Burp Suite (Step-by-Step Guide) | Carylrobert | [Read More](https://medium.com/p/1b8cbaae890e) |
+| Sat, 05 Jul 2025 15:03:28 GMT | Fuzzing JSON APIs with Burp Suite: The Pentester’s Guide to Breaking Modern APIs | Carylrobert | [Read More](https://medium.com/p/9196657df8fe) |
+| Sat, 05 Jul 2025 14:55:38 GMT | Burp Suite + “API Scanner” Extension: Your Secret Weapon for API Pentesting | Carylrobert | [Read More](https://medium.com/p/6bbf5dd3ea57) |
+| Sat, 05 Jul 2025 14:52:53 GMT | DevSecOps Is Becoming Just a Compliance Checkbox — Not Real Security | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/c79c13d60a10) |
+| Sat, 05 Jul 2025 14:44:33 GMT | Subdomain Takeover: When Your Own Domain Becomes Your Enemy ️‍♂️ | Het Patel | [Read More](https://medium.com/p/8c80e650aeea) |
+| Sat, 05 Jul 2025 14:44:19 GMT | S.O.L.I.D. Principles | ali ibrahimzade | [Read More](https://medium.com/p/8a3abff3c46e) |
 | Sat, 05 Jul 2025 14:41:39 GMT | 2025’s Hottest Cybersecurity Certifications: Your Ticket to Six Figures (and Bragging Rights) | Aj | [Read More](https://medium.com/p/fc045b2a53e6) |
 | Sat, 05 Jul 2025 14:33:30 GMT | How Azure’s System-Assigned Identity for AKS Blew My Mind as a DevOps & Cloud Security Engineer | Muhammed Akintola | [Read More](https://medium.com/p/b11c69516c9b) |
 | Sat, 05 Jul 2025 14:31:43 GMT | ️ Burp Suite: The Swiss Army Knife of Web Application Penetration Testing | Zino jo | [Read More](https://medium.com/p/cd2172efadec) |
@@ -108,9 +114,3 @@ A Therapeutic Stream of Thought | Cami Berberi | [Read More](https://medium.com/
 | Sat, 05 Jul 2025 08:24:09 GMT | Is NATO Still Relevant in the 21st Century?- | Bengü Su Pınar | [Read More](https://medium.com/p/59af2a9aa78d) |
 | Sat, 05 Jul 2025 08:20:18 GMT | Ai powered Threat Detection and behavioral analytics : Smart, adaptive, and context-aware. | Ekene Joseph | [Read More](https://medium.com/p/52c31017b43c) |
 | Sat, 05 Jul 2025 08:19:31 GMT | Blockchain 51% Attack Gaskiya da Gaskiyar Kare Kai Daga Hadari | Umarfarooq | [Read More](https://medium.com/p/630d47814796) |
-| Sat, 05 Jul 2025 08:19:30 GMT | Is NATO Still Relevant in the 21st Century? — Part 1: Strategic Challenges and Global Threats | Bengü Su Pınar | [Read More](https://medium.com/p/375cf204794c) |
-| Sat, 05 Jul 2025 08:11:23 GMT | The Age Of AI And Humanity Protocol Social Credentials | PVMihalache | [Read More](https://medium.com/p/6683baa03c67) |
-| Sat, 05 Jul 2025 08:07:33 GMT | Cryptosystem - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/aff8e1dfaf9d) |
-| Sat, 05 Jul 2025 07:54:37 GMT | Cipher’s Secret Message - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/9a60a68e4f6c) |
-| Sat, 05 Jul 2025 07:52:47 GMT | “Pod Crimes: Kubernetes Forensics Made Simple (Because the Pod Did It)” | Shashank N | [Read More](https://medium.com/p/46dd2991aec7) |
-| Sat, 05 Jul 2025 07:28:53 GMT | Today’s Top Cyber Intelligence Highlights — Jul 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/1a1af86905ae) |
