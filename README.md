@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 19:24:07 GMT | HackTheBox Fluffy Walkthrough | Heliman | [Read More](https://medium.com/p/d7d3d2f40b45) |
+| Sun, 06 Jul 2025 19:18:59 GMT | NordVPN vs Surfshark: Honest Comparison After One Year of Use | Kelly Shephard | [Read More](https://medium.com/p/f04a654ea128) |
 | Sun, 06 Jul 2025 19:15:16 GMT | Cybersecurity in the Digital Age: Be Aware, Not Afraid | Noman Akbar Khan | [Read More](https://medium.com/p/6a67388247f6) |
 | Sun, 06 Jul 2025 19:10:31 GMT | Protegendo sua Rede Doméstica e Corporativa com Pi-hole | byFranke | [Read More](https://medium.com/p/cc43da5c7ed9) |
 | Sun, 06 Jul 2025 19:08:17 GMT | 25 Windows Commands That Will Make You Look Like a Hacker (Even Though You’re Probably Not) | Sean Byrne | [Read More](https://medium.com/p/f961016fa37b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 13:18:55 GMT | What Is Authentication, Really? | Stefano Alvares | [Read More](https://medium.com/p/c8aec1270649) |
 | Sun, 06 Jul 2025 13:18:25 GMT | The AI Arms Race: How Enterprises Must Counter Next-Gen Malware and Ransomware | Faraz Ishaq | [Read More](https://medium.com/p/56ecbd407dcc) |
 | Sun, 06 Jul 2025 13:14:53 GMT | The Ghost CI Attack: How Deleted GitHub Workflows Can Still Haunt You | Đeepanshu | [Read More](https://medium.com/p/5a3112256b31) |
-| Sun, 06 Jul 2025 13:14:52 GMT | How Zero‑Click LLM Attacks Hijack Your AI and How to Shield Yourself | Harishkumar Pillai | [Read More](https://medium.com/p/1c56358e4385) |
-| Sun, 06 Jul 2025 13:10:46 GMT | Modernization of the IT Industry Across the World: A Global Perspective | Mukesh Dubey | [Read More](https://medium.com/p/58a7a8296a56) |
