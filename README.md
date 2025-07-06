@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 16:01:49 GMT | Echo Pop vs Ring Outdoor Camera vs Ring Floodlight Cam: Which Amazon Smart Device Should You… | Vitalspark | [Read More](https://medium.com/p/c8ce3a5f01cc) |
+| Sun, 06 Jul 2025 16:01:34 GMT | Supply Chain, Supply Pain | Oludare Stephen Ayobami | [Read More](https://medium.com/p/191c8dd38767) |
+| Sun, 06 Jul 2025 16:00:45 GMT | CTF Day(26) | Ahmed Narmer | [Read More](https://medium.com/p/4760e9b83079) |
+| Sun, 06 Jul 2025 15:55:39 GMT | Intrusion Detection System (Part 2): Deep Learning with CNN + LSTM for Sequential Flow Analysis | Mohammed Saim Quadri | [Read More](https://medium.com/p/3116e6f1de3b) |
+| Sun, 06 Jul 2025 15:51:36 GMT | DO NOT CLICK THIS | Maximillian | [Read More](https://medium.com/p/c066481946d6) |
+| Sun, 06 Jul 2025 15:47:20 GMT | How to Use Nmap for Basic Network Scanning (A Beginner’s Guide) | Priyanka Karmakar | [Read More](https://medium.com/p/c113d34cb301) |
+| Sun, 06 Jul 2025 15:45:43 GMT | Automate Your Recon: One API to Run All Your Pentesting Tools Instantly | Aris Haryanto | [Read More](https://medium.com/p/e1502862c2c7) |
+| Sun, 06 Jul 2025 15:45:20 GMT | WriteUp TryHackMe - Pickle Rick | Rindaman666 | [Read More](https://medium.com/p/a25ec32c3724) |
+| Sun, 06 Jul 2025 15:44:42 GMT | Digital Snake Oil: Vendor Lies That Compromise Your Hospital | Travis Ray Caverhill | [Read More](https://medium.com/p/08b59424800b) |
+| Sun, 06 Jul 2025 15:34:55 GMT | I Explored the Dark Web for 1 Hour — Here’s What I Found | thebridgehq | [Read More](https://medium.com/p/3641eeb358d3) |
 | Sun, 06 Jul 2025 15:22:56 GMT | टेलीग्राम जॉब स्कैम (Telegram job scam) से सावधान! जानिए कैसे बचें ऑनलाइन ठगी से | दैनिक भारत टाइम्स | [Read More](https://medium.com/p/99a0ca5ec3e7) |
 | Sun, 06 Jul 2025 15:13:16 GMT | ️ Cybersecurity in Smart Devices and Industrial Robots: The Next Frontier of Digital Defense | Karan  Pramod Shivankar | [Read More](https://medium.com/p/9fb49b347269) |
 | Sun, 06 Jul 2025 15:11:18 GMT | STIX and TAXII | Abhinav Pathak | [Read More](https://medium.com/p/490859c43c45) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 09:05:23 GMT | Gen AI: Decoding Hacker’s Playbooks | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/4c6f69f8956b) |
 | Sun, 06 Jul 2025 09:04:47 GMT | def count_gmail_accounts(9491389734): gmail_accounts = [] for number in numbers: gmail_account =… | Bhuvan Yenda | [Read More](https://medium.com/p/f0772c5b828d) |
 | Sun, 06 Jul 2025 08:59:07 GMT | The Bug That Let Users Hide Comments from Creators — And I Bypassed the Fix the Same Day | Sandipgyawali | [Read More](https://medium.com/p/e7b95c1ae3b2) |
-| Sun, 06 Jul 2025 08:57:01 GMT | IT STARTED WITH SILENCE | Ameena Lemu  Salihu | [Read More](https://medium.com/p/42e64b724d0e) |
-| Sun, 06 Jul 2025 08:56:27 GMT | How AI Elevated Social Engineering to an Art For | Lawliet Vladyslav | [Read More](https://medium.com/p/2e537cd075c3) |
-| Sun, 06 Jul 2025 08:50:29 GMT | Evil-GPT v2 - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/7a098493d867) |
-| Sun, 06 Jul 2025 08:38:02 GMT | Evil-GPT - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/9f379d08d213) |
-| Sun, 06 Jul 2025 08:37:52 GMT | Network Günlükleri #1 | Ferdi Karakurt | [Read More](https://medium.com/p/e51852fb3d95) |
-| Sun, 06 Jul 2025 08:36:41 GMT | Fixed a Weird Async Bug After 2 Hours — and Finally Understood the JavaScript Event Loop | Sarayavalasaravikiran | [Read More](https://medium.com/p/55efac581d7f) |
-| Sun, 06 Jul 2025 08:35:15 GMT | Week 3—Learning Basic Concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/c68a72096e07) |
-| Sun, 06 Jul 2025 08:32:20 GMT | TryHackMe - Windows Network Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/048f0a9e051a) |
-| Sun, 06 Jul 2025 08:16:54 GMT | Agile Mindset Beyond IT: How Standups and Sprints Shape My Daily Life | Himanshunya | [Read More](https://medium.com/p/46f51c0e099e) |
-| Sun, 06 Jul 2025 08:12:38 GMT | Path Traversal part-2 : traversal sequences blocked with absolute path bypass | Ahmad Sopyan | [Read More](https://medium.com/p/ff92a1722f31) |
