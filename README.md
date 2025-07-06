@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 09:16:14 GMT | ISO 27001 ile Bilgi Güvenliğine Yolculuk — 1 | İrem Çagla Demirtaş | [Read More](https://medium.com/p/befcf445deec) |
+| Sun, 06 Jul 2025 09:08:30 GMT | THM - DarkMatter | Francesco Pastore | [Read More](https://medium.com/p/e9b374915dfb) |
+| Sun, 06 Jul 2025 09:05:23 GMT | Gen AI: Decoding Hacker’s Playbooks | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/4c6f69f8956b) |
+| Sun, 06 Jul 2025 09:04:47 GMT | def count_gmail_accounts(9491389734): gmail_accounts = [] for number in numbers: gmail_account =… | Bhuvan Yenda | [Read More](https://medium.com/p/f0772c5b828d) |
+| Sun, 06 Jul 2025 08:59:07 GMT | The Bug That Let Users Hide Comments from Creators — And I Bypassed the Fix the Same Day | Sandipgyawali | [Read More](https://medium.com/p/e7b95c1ae3b2) |
+| Sun, 06 Jul 2025 08:57:01 GMT | IT STARTED WITH SILENCE | Ameena Lemu  Salihu | [Read More](https://medium.com/p/42e64b724d0e) |
+| Sun, 06 Jul 2025 08:56:27 GMT | How AI Elevated Social Engineering to an Art For | Lawliet Vladyslav | [Read More](https://medium.com/p/2e537cd075c3) |
+| Sun, 06 Jul 2025 08:50:29 GMT | Evil-GPT v2 - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/7a098493d867) |
+| Sun, 06 Jul 2025 08:38:02 GMT | Evil-GPT - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/9f379d08d213) |
+| Sun, 06 Jul 2025 08:37:52 GMT | Network Günlükleri #1 | Ferdi Karakurt | [Read More](https://medium.com/p/e51852fb3d95) |
 | Sun, 06 Jul 2025 08:36:41 GMT | Fixed a Weird Async Bug After 2 Hours — and Finally Understood the JavaScript Event Loop | Sarayavalasaravikiran | [Read More](https://medium.com/p/55efac581d7f) |
 | Sun, 06 Jul 2025 08:35:15 GMT | Week 3—Learning Basic Concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/c68a72096e07) |
 | Sun, 06 Jul 2025 08:32:20 GMT | TryHackMe - Windows Network Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/048f0a9e051a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 23:21:39 GMT | We Accidentally Hacked a Government — Here’s What We Found in Their AI War Room | Sneha Rani | [Read More](https://medium.com/p/e2880e4523b8) |
 | Sat, 05 Jul 2025 22:55:04 GMT | Ka-Ka-Ka-Ken: What a British Comedy Taught Me About Cancer | Will2Endure | [Read More](https://medium.com/p/ef979766819b) |
 | Sat, 05 Jul 2025 22:55:01 GMT | SSTI(Server-side template injection) | Azer Abdullazde | [Read More](https://medium.com/p/d6a5d86171f0) |
-| Sat, 05 Jul 2025 22:52:06 GMT | “Phishing” in Cybersecurity: What It Is and How to Stay Safe. | Thomas Angela | [Read More](https://medium.com/p/4d3a13f71c4d) |
-| Sat, 05 Jul 2025 22:50:01 GMT | Hands‑On OT Security: Building and Breaking with Labshock | josegpac | [Read More](https://medium.com/p/f99f21af2a96) |
-| Sat, 05 Jul 2025 22:37:08 GMT | “I Was Always Told to Be ‘Low Maintenance.’ Now I Know That Was a Trap.” | Anshika Prajapati | [Read More](https://medium.com/p/20db72ed8901) |
-| Sat, 05 Jul 2025 22:28:36 GMT | From Code to Security: How VulnDec Uses AI to Find Vulnerabilities | Kasib Mansuri | [Read More](https://medium.com/p/1f8f40e3ee76) |
-| Sat, 05 Jul 2025 21:57:40 GMT | The Big Five Smart Contract Vulnerabilities Behind the Most Devastating Hacks: A 2025 Postmortem | Mohammad Khezer | [Read More](https://medium.com/p/197836a34733) |
-| Sat, 05 Jul 2025 21:52:12 GMT | Active Reconnaissance — TryHackMe | sercan timocin | [Read More](https://medium.com/p/0aabf7a4e799) |
-| Sat, 05 Jul 2025 21:49:32 GMT | How Private Are Your Gemini or ChatGPT Conversations? | Saurav Dawadi | [Read More](https://medium.com/p/da6e5f794632) |
-| Sat, 05 Jul 2025 21:45:29 GMT | Controlled Chaos: Multi-Layered CSRF Defense Using Dynamic Header Dispersion | Fernando Flores Alvarado | [Read More](https://medium.com/p/a14926288207) |
-| Sat, 05 Jul 2025 21:38:37 GMT | Ransomware Isn’t a File — It’s a Strategy: What Defenders Still Get Wrong | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/29a3d3646525) |
-| Sat, 05 Jul 2025 21:35:09 GMT | Confidential Computing: Securing Data in Use | Sourav Paul | [Read More](https://medium.com/p/98770864b176) |
