@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 12:37:51 GMT | Ngrok Tutorial: Complete Guide for Hackers & Developers 2025 | Alex Joyel Raj | [Read More](https://medium.com/p/125bbaf5c640) |
+| Sun, 06 Jul 2025 12:22:20 GMT | Restored Tabs, Forgotten Boundaries | Vivek Maurya | [Read More](https://medium.com/p/b09042d45ca4) |
+| Sun, 06 Jul 2025 12:16:54 GMT | c4ptur3-th3-fl4g - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/3fb53c355c21) |
+| Sun, 06 Jul 2025 12:05:01 GMT | From Image Upload to Account Takeover — Chaining Upload, Storage, and CORS Issues in a Real Pentest | Shazilrao | [Read More](https://medium.com/p/de5ac9862c31) |
+| Sun, 06 Jul 2025 11:58:05 GMT | Understanding Information Technology: The Backbone of the Digital Age | bikash Gochhayat | [Read More](https://medium.com/p/c719f3ef2b33) |
+| Sun, 06 Jul 2025 11:38:29 GMT | The Silent Weight We All Carry | Djezzar Mohamed | [Read More](https://medium.com/p/50b04430d9d7) |
 | Sun, 06 Jul 2025 11:37:44 GMT | First Blood: Finding My First SQL Injection in the Wild | Muhammad Saad Sabir | [Read More](https://medium.com/p/a722f462211b) |
 | Sun, 06 Jul 2025 11:36:57 GMT | Investigating with Splunk TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/aa6c0c2f0f01) |
 | Sun, 06 Jul 2025 11:36:07 GMT | ItsyBitsy TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/d6a6755db7d8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 05:46:38 GMT | The Linux Security Journey — dmesg_restrict | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2627c55ae473) |
 | Sun, 06 Jul 2025 05:44:18 GMT | The Double-Edged Sword: My Journey into Blue Team Cybersecurity | Daniel Mwangi | [Read More](https://medium.com/p/c3a10439f62e) |
 | Sun, 06 Jul 2025 05:44:12 GMT | Legal and Ethical Considerations of Squid Router Use | Dataara Elara Kate Anne | [Read More](https://medium.com/p/4b0df53a51fe) |
-| Sun, 06 Jul 2025 05:40:40 GMT | Everyone Wants to Be a Hacker, But No One Talks About This | ZeroDayDiva | [Read More](https://medium.com/p/d7f55cac2f78) |
-| Sun, 06 Jul 2025 05:23:06 GMT | Try Hack Me - Simple CTF Challenge Write Up | Cybare | [Read More](https://medium.com/p/3a5354415b47) |
-| Sun, 06 Jul 2025 05:17:24 GMT | Scattered Spider: Anatomy of a Modern AiTM Threat and How to Stop It | Arachne Digital | [Read More](https://medium.com/p/b50bf0483125) |
-| Sun, 06 Jul 2025 04:58:27 GMT | The AI That Hacked Itself: How Our Machine Learning Model Became a Cybercriminal | Sneha Rani | [Read More](https://medium.com/p/9f7d6e7ee36e) |
-| Sun, 06 Jul 2025 04:48:40 GMT | The iOS 19 ‘Background Sensors’ Scandal: Why Your iPhone Listens Even When Off | TheyLied | [Read More](https://medium.com/p/2b070247e323) |
-| Sun, 06 Jul 2025 04:44:53 GMT | OTP Rate Limit Bypass via URL Obfuscation — A Critical Vulnerability Reported on: June 16… | Raghav Arora | [Read More](https://medium.com/p/0e5f24d03d7b) |
