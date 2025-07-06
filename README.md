@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 14:09:24 GMT | DevSecOps sharing — Kubernetes RBAC (Rancher rke2) | Rennaps | [Read More](https://medium.com/p/59ce7752e10f) |
+| Sun, 06 Jul 2025 14:06:01 GMT | Unauthenticated API Endpoint Exposes SMS Account Balance — An Information Disclosure Story | Gouri Sankar A | [Read More](https://medium.com/p/23b16b83cdef) |
+| Sun, 06 Jul 2025 13:59:19 GMT | The Silent Agreement of the Internet: A Deep Dive into the TCP 3-Way Handshake | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/ecb2cf58e8a4) |
+| Sun, 06 Jul 2025 13:58:57 GMT | Steganography - Hiding Data in a Video - Steghide | Alibinazam | [Read More](https://medium.com/p/04b8fd4fedbb) |
+| Sun, 06 Jul 2025 13:54:04 GMT | Uncovering Hidden Admin Tools via JavaScript Debug Flags | Monika sharma | [Read More](https://medium.com/p/96813d62cc9d) |
 | Sun, 06 Jul 2025 13:37:00 GMT | How to find Reflected Cross site Scripting on a page & Reporting the same on platforms. | Demsec | [Read More](https://medium.com/p/dbb413bf1254) |
 | Sun, 06 Jul 2025 13:31:20 GMT | Redefining Security for the AI Era: Blueprint for a Distributed Future | noailabs | [Read More](https://medium.com/p/bd540877a28f) |
 | Sun, 06 Jul 2025 13:24:16 GMT | The Great Embedding Model Evaluation: Why We’re Succeeding with the Wrong Model | Michael Rico | [Read More](https://medium.com/p/2a43c7352fae) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 06:54:33 GMT | Crypto Security Market Size Will Exceed $21 Billion by 2032–Report | Tony Philips | [Read More](https://medium.com/p/a8f1b966994b) |
 | Sun, 06 Jul 2025 06:53:25 GMT | CTF Day(25) | Ahmed Narmer | [Read More](https://medium.com/p/2c8a7a50e903) |
 | Sun, 06 Jul 2025 06:52:15 GMT | Squid Router in Enterprise Environments | Binary Rhys Liam Smith | [Read More](https://medium.com/p/153680146df4) |
-| Sun, 06 Jul 2025 06:46:12 GMT | Squid Router Security: Protecting Your Network | Beacon Felix Owen Cole | [Read More](https://medium.com/p/fd1baf4921a5) |
-| Sun, 06 Jul 2025 06:45:40 GMT | IMF CTF 2025 | Bridget | [Read More](https://medium.com/p/70c92d531834) |
-| Sun, 06 Jul 2025 06:36:37 GMT | From Chaos  to Clarity ✨: Build Your First Smart Log Pipeline with NXLog | Amit Ambekar | [Read More](https://medium.com/p/d7f1e4e55168) |
-| Sun, 06 Jul 2025 06:33:46 GMT | Mr. Robot | merkle | [Read More](https://medium.com/p/64cc1c0a9d75) |
-| Sun, 06 Jul 2025 06:33:18 GMT | Path Traversal part-1 : File path traversal, simple case | Ahmad Sopyan | [Read More](https://medium.com/p/feabd380b997) |
