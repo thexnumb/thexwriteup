@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 13:24:16 GMT | The Great Embedding Model Evaluation: Why We’re Succeeding with the Wrong Model | Michael Rico | [Read More](https://medium.com/p/2a43c7352fae) |
+| Sun, 06 Jul 2025 13:23:48 GMT | Overview of RMC, Security Kernel, & TCB | Igor Berner | [Read More](https://medium.com/p/6c38ef6aae6f) |
+| Sun, 06 Jul 2025 13:20:27 GMT | Path Traversal part-3 : traversal sequences stripped non-recursively | Ahmad Sopyan | [Read More](https://medium.com/p/ee0f1a9c9887) |
+| Sun, 06 Jul 2025 13:18:55 GMT | What Is Authentication, Really? | Stefano Alvares | [Read More](https://medium.com/p/c8aec1270649) |
+| Sun, 06 Jul 2025 13:18:25 GMT | The AI Arms Race: How Enterprises Must Counter Next-Gen Malware and Ransomware | Faraz Ishaq | [Read More](https://medium.com/p/56ecbd407dcc) |
+| Sun, 06 Jul 2025 13:14:53 GMT | The Ghost CI Attack: How Deleted GitHub Workflows Can Still Haunt You | Đeepanshu | [Read More](https://medium.com/p/5a3112256b31) |
+| Sun, 06 Jul 2025 13:14:52 GMT | How Zero‑Click LLM Attacks Hijack Your AI and How to Shield Yourself | Harishkumar Pillai | [Read More](https://medium.com/p/1c56358e4385) |
+| Sun, 06 Jul 2025 13:10:46 GMT | Modernization of the IT Industry Across the World: A Global Perspective | Mukesh Dubey | [Read More](https://medium.com/p/58a7a8296a56) |
+| Sun, 06 Jul 2025 13:04:44 GMT | Small Business Cyber Threats? Get Real-Time Alerts Before Damage Is Done | Sraj | [Read More](https://medium.com/p/0422f9296e5d) |
+| Sun, 06 Jul 2025 13:02:59 GMT | Inside the Refund Scam: How Scammers Use HTML Edits to Fake Bank Transfers | Shaun Fulton | [Read More](https://medium.com/p/030d37670229) |
+| Sun, 06 Jul 2025 13:02:57 GMT | Collective Intelligence: Realities and Hardships of Crowdsourced Threat Intel — Part 1 | Fry Rob | [Read More](https://medium.com/p/a0ebd0707a8e) |
+| Sun, 06 Jul 2025 13:02:55 GMT | What Executives Need to Know About AI Policy and Why | devsecops | [Read More](https://medium.com/p/2a187e14aca7) |
+| Sun, 06 Jul 2025 12:54:32 GMT | ⚔️ AI vs Attackers: Can LLMs Defend Your Network? | Paritosh | [Read More](https://medium.com/p/a7bfc8a43396) |
+| Sun, 06 Jul 2025 12:38:57 GMT | Unlock the Future: Why Smart Locks Are a Must-Have for Your Smart Home | Avatron | [Read More](https://medium.com/p/5cefdee16155) |
 | Sun, 06 Jul 2025 12:37:51 GMT | Ngrok Tutorial: Complete Guide for Hackers & Developers 2025 | Alex Joyel Raj | [Read More](https://medium.com/p/125bbaf5c640) |
 | Sun, 06 Jul 2025 12:22:20 GMT | Restored Tabs, Forgotten Boundaries | Vivek Maurya | [Read More](https://medium.com/p/b09042d45ca4) |
 | Sun, 06 Jul 2025 12:16:54 GMT | c4ptur3-th3-fl4g - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/3fb53c355c21) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 06:32:37 GMT | The Architecture of Squid Router: Inside the Technology | Binary Anya Faye Hope | [Read More](https://medium.com/p/d4ea090ab44c) |
 | Sun, 06 Jul 2025 06:28:31 GMT | Three-Tier Web Application Security Part 1 : Attack Surface | suktech24 | [Read More](https://medium.com/p/3089ffd5bf5a) |
 | Sun, 06 Jul 2025 06:26:52 GMT | Why NFS Version Matters in Cybersecurity: NFSv3 vs NFSv4 | Faraz Ishaq | [Read More](https://medium.com/p/eb41f6669846) |
-| Sun, 06 Jul 2025 06:24:56 GMT | From Open Redirect to Internal Access: My SSRF Exploit Story | Pratik Dabhi | [Read More](https://medium.com/p/10a736962f98) |
-| Sun, 06 Jul 2025 06:24:43 GMT | OSINT: How to Find Hidden Data Leaks Using Free Tools | Aj | [Read More](https://medium.com/p/b1f1613dc638) |
-| Sun, 06 Jul 2025 06:24:32 GMT | $600 Bounty: How Revealed Hidden Read Receipts in Bumble’s Chat API | Monika sharma | [Read More](https://medium.com/p/53bc06c987f5) |
-| Sun, 06 Jul 2025 06:24:17 GMT | Nuclei with AI: Scan Websites Using Natural Language Prompts | Om Maniya | [Read More](https://medium.com/p/be6146ee376a) |
-| Sun, 06 Jul 2025 06:24:07 GMT | ️‍♂️ The Bucket That Shouldn’t Exist: How I Got Full Access to 50GB+ of Sensitive Government Data | LordofHeaven | [Read More](https://medium.com/p/a4cdc39c16e8) |
-| Sun, 06 Jul 2025 06:19:25 GMT | Hacking AI-Powered Web Applications: The New Frontier of Offensive Security | Ezekiel peter | [Read More](https://medium.com/p/34b10bb86fe0) |
-| Sun, 06 Jul 2025 06:13:43 GMT | Quantum Computing Explained: The Future of Tech? | Sagar Majumdar | [Read More](https://medium.com/p/5775b7e64663) |
-| Sun, 06 Jul 2025 06:11:40 GMT | Edge of Tomorrow: ERP Meets the Time-Series Database | Namir Sagheenanajar | [Read More](https://medium.com/p/a2964bba93cd) |
-| Sun, 06 Jul 2025 06:07:15 GMT | Here’s what I learned after solving 5 Path Traversal Labs. | Rabia Riaz | [Read More](https://medium.com/p/c8676b126422) |
-| Sun, 06 Jul 2025 06:06:33 GMT | Prevent Buffer Overflow in Symfony: Best Practices with Code Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/b89de5ab3999) |
-| Sun, 06 Jul 2025 05:59:03 GMT | CTF Day(24) | Ahmed Narmer | [Read More](https://medium.com/p/0e1e8a56b6f6) |
-| Sun, 06 Jul 2025 05:46:38 GMT | The Linux Security Journey — dmesg_restrict | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2627c55ae473) |
-| Sun, 06 Jul 2025 05:44:18 GMT | The Double-Edged Sword: My Journey into Blue Team Cybersecurity | Daniel Mwangi | [Read More](https://medium.com/p/c3a10439f62e) |
-| Sun, 06 Jul 2025 05:44:12 GMT | Legal and Ethical Considerations of Squid Router Use | Dataara Elara Kate Anne | [Read More](https://medium.com/p/4b0df53a51fe) |
