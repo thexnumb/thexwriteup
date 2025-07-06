@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 08:16:54 GMT | Agile Mindset Beyond IT: How Standups and Sprints Shape My Daily Life | Himanshunya | [Read More](https://medium.com/p/46f51c0e099e) |
+| Sun, 06 Jul 2025 08:12:38 GMT | Path Traversal part-2 : traversal sequences blocked with absolute path bypass | Ahmad Sopyan | [Read More](https://medium.com/p/ff92a1722f31) |
+| Sun, 06 Jul 2025 08:11:55 GMT | Let’s Talk About: ➡️ ZAMA | Kadua Nganu | [Read More](https://medium.com/p/53da0392d9b9) |
+| Sun, 06 Jul 2025 08:06:41 GMT | BlockSec｜In-depth Analysis and Reflections on the Resupply Protocol Attack Incident | BlockSec | [Read More](https://medium.com/p/932be23e1433) |
+| Sun, 06 Jul 2025 08:05:55 GMT | Order - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/c7ba41e3b369) |
+| Sun, 06 Jul 2025 07:51:30 GMT | ZoomEye Dorking for API Keys | AbhirupKonwar | [Read More](https://medium.com/p/cf77d61604bc) |
+| Sun, 06 Jul 2025 07:50:44 GMT | برنامج Copilot من Microsoft: شرح المزايا، العيوب، وطريقة التفعيل بالكامل | katibatech | [Read More](https://medium.com/p/6c03cd46f3eb) |
+| Sun, 06 Jul 2025 07:47:07 GMT | When Technology Masks Crime: A Deep Dive into the Tools Behind the Chennai Bomb Hoax | J Koushalyashree | [Read More](https://medium.com/p/53375608f06d) |
+| Sun, 06 Jul 2025 07:46:41 GMT | NoSQL Injection: From Operator Mischief to Syntax Chaos — My TryHackMe Walkthrough | FS0CI3TY | [Read More](https://medium.com/p/b03a08bfbd31) |
+| Sun, 06 Jul 2025 07:46:07 GMT | Risks of multi modal AI | Moushmi | [Read More](https://medium.com/p/15d813186e85) |
+| Sun, 06 Jul 2025 07:43:41 GMT | Credential Dumping via NTDS.dit: A Hands-On Guide for Red and Blue Teams | cybrNK | [Read More](https://medium.com/p/efa20ee3266d) |
+| Sun, 06 Jul 2025 07:40:47 GMT | What If Your DNA Got Hacked? Welcome to the Dark Side of Bioinformatics | Ujjain S | [Read More](https://medium.com/p/517784fb8778) |
+| Sun, 06 Jul 2025 07:38:06 GMT | Today’s Top Cyber Intelligence Highlights — Jul 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/861aef89a86f) |
+| Sun, 06 Jul 2025 07:37:11 GMT | Simulating a (Man-in-the-Middle) MitM attack | Abiolaoluwatuyi | [Read More](https://medium.com/p/94ad36dc62fb) |
+| Sun, 06 Jul 2025 07:37:02 GMT | AI in Cybersecurity: A Double-Edged Sword for Hackers and Defenders | Sakthimurugan S | [Read More](https://medium.com/p/46cfaed484bc) |
 | Sun, 06 Jul 2025 07:31:05 GMT | ProxyChains in Kali Linux | Harsh Master | [Read More](https://medium.com/p/f06809723bcf) |
 | Sun, 06 Jul 2025 07:28:55 GMT | Meta CTF 2024: ConnectWind Internal Employee Portal | Bridget | [Read More](https://medium.com/p/fda2570090f4) |
 | Sun, 06 Jul 2025 07:28:39 GMT | Basic Pentesting - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/c15b055a78ae) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 21:34:35 GMT | Hello hacker’s , | Cenman | [Read More](https://medium.com/p/03e94add052d) |
 | Sat, 05 Jul 2025 21:32:19 GMT | Back to Kali: Securing Reverse Shell Access | 9purp0s3 - Steven | [Read More](https://medium.com/p/563f2793cc07) |
 | Sat, 05 Jul 2025 21:31:21 GMT | Red Team Adaptation in the Age of Agentic AI | january1073 | [Read More](https://medium.com/p/61ab4993386e) |
-| Sat, 05 Jul 2025 21:30:41 GMT | Project vs Product Mindset: Why IT Projects Keep Failing | Chinedu Onwuasoanya | [Read More](https://medium.com/p/ab5dcb65a1ef) |
-| Sat, 05 Jul 2025 21:29:59 GMT | Internet Safety 101: How to Not Get Scammed, Hacked, or Tracked | Just Nancy | [Read More](https://medium.com/p/390b696350dd) |
-| Sat, 05 Jul 2025 21:26:52 GMT | I Hacked GraphQL to Steal Data Without Admin Access | Ibtissam hammadi | [Read More](https://medium.com/p/8da9219483b9) |
-| Sat, 05 Jul 2025 21:19:48 GMT | WebStrike Lab Walkthrough (CyberDefenders) | Achuth Chandra | [Read More](https://medium.com/p/43c2c13910ea) |
-| Sat, 05 Jul 2025 21:17:51 GMT | Attack Strategy --Compromised an Account Now what -- Post-Compromise Attack Strategy--Active… | Muhammadhuzaifa | [Read More](https://medium.com/p/b51c99b07f87) |
-| Sat, 05 Jul 2025 21:11:47 GMT | Dumping the NTDS.dit | Muhammadhuzaifa | [Read More](https://medium.com/p/147870c07b3e) |
-| Sat, 05 Jul 2025 21:01:00 GMT | Active Directory Lab — Part 1: Server Prep & Domain Setup | Hicham Kernaf | [Read More](https://medium.com/p/b49d0d926ac4) |
-| Sat, 05 Jul 2025 20:56:58 GMT | ️ Active Directory Project (Part 3)-Wallpaper & Restricting Control Panel | Anivesh Mohan | [Read More](https://medium.com/p/9111d106af40) |
-| Sat, 05 Jul 2025 20:52:42 GMT | Norton 360 Deluxe 2025 Review – Is This the Best Antivirus for You? | Muhammad Tayyab | [Read More](https://medium.com/p/0e3086c04f9e) |
-| Sat, 05 Jul 2025 20:51:48 GMT | The Ghost in the Machine is Coming for Your Network | Conor Armstrong | [Read More](https://medium.com/p/31fd5289794d) |
-| Sat, 05 Jul 2025 20:34:03 GMT | # KITTY — Secure AI + Crypto Ecosystem with DNK Protocols & Robotic Integration | Icorednk | [Read More](https://medium.com/p/f56e6ceea882) |
-| Sat, 05 Jul 2025 20:31:15 GMT | Ever Lost Phone Signal for No Reason? | Janith Sandamal | [Read More](https://medium.com/p/c75f3de13543) |
-| Sat, 05 Jul 2025 20:25:59 GMT | Day 42: Network Protocols | Nile Okomo | [Read More](https://medium.com/p/1dbb438319db) |
-| Sat, 05 Jul 2025 20:24:45 GMT | Middle Mayhem Lab | rkn | [Read More](https://medium.com/p/49b2c4550a9e) |
-| Sat, 05 Jul 2025 20:23:30 GMT | SOC Automation Project Part-5 | rkn | [Read More](https://medium.com/p/6cced41649bd) |
