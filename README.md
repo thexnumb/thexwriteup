@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 21:30:00 GMT | How I Visualized Data with Amazon QuickSight - NextWork AWS Beginner Project | Angie | [Read More](https://medium.com/p/2f046e910bb3) |
+| Sun, 06 Jul 2025 21:27:59 GMT | The Invisible Strength: How Men Carry Love in Silence | Laiba Azad | [Read More](https://medium.com/p/293253946a21) |
 | Sun, 06 Jul 2025 21:07:15 GMT | How I Stole Tokens with One OAuth Misstep | Ibtissam hammadi | [Read More](https://medium.com/p/7e4a2939c723) |
 | Sun, 06 Jul 2025 21:06:10 GMT | Bye-Bye, Bug Bites: DIY Summer Remedies to Keep Biting Bugs at Bay | Dannielle Holmes | [Read More](https://medium.com/p/eba63a75012f) |
 | Sun, 06 Jul 2025 21:02:56 GMT | Highest paying jobs in cyber security | Chandanjana | [Read More](https://medium.com/p/8a095f0662ad) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 14:52:24 GMT | Windows Security Audit Using Pure CMD — Lightweight Compliance & Hardening Check | ArthurXXII | [Read More](https://medium.com/p/0c63e034f66c) |
 | Sun, 06 Jul 2025 14:51:48 GMT | Cracking Cipher’s Message: TryHackMe Hackfinity ORDER Room Write-Up | Ayr1n | [Read More](https://medium.com/p/3449e2a42651) |
 | Sun, 06 Jul 2025 14:47:18 GMT | From Vision to Version: Evolving Radar Love with Flags, Validation, and CI Swagger | Raymon Epping | [Read More](https://medium.com/p/83610d549412) |
-| Sun, 06 Jul 2025 14:45:41 GMT | Fetch scan results from CheckmarxOne! — REST APIs | Aymen Abdelwahed | [Read More](https://medium.com/p/14fd00425563) |
-| Sun, 06 Jul 2025 14:42:18 GMT | Head(er) Games: How I Turned CORS Misconfig into a Full Data Dump | Iski | [Read More](https://medium.com/p/de8d70552221) |
