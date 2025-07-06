@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 23:21:11 GMT | ️Active Directory Lab (Part 6): Applying GPOs to OUs, Organizing Computers & Testing GPOs | Anivesh Mohan | [Read More](https://medium.com/p/94b592749d3a) |
 | Sun, 06 Jul 2025 23:15:50 GMT | ️ Active Directory Lab (Part 5): Connecting Client to Domain | Anivesh Mohan | [Read More](https://medium.com/p/ea4d09926d29) |
 | Sun, 06 Jul 2025 22:58:34 GMT | Nmap Basic Port Scans — TryHackMe | sercan timocin | [Read More](https://medium.com/p/ddff9bfaa2ae) |
 | Sun, 06 Jul 2025 22:49:34 GMT | SecOps in Action: GoPhish Sim #2 | TheMachine | [Read More](https://medium.com/p/afe23192c200) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 15:11:18 GMT | STIX and TAXII | Abhinav Pathak | [Read More](https://medium.com/p/490859c43c45) |
 | Sun, 06 Jul 2025 15:10:37 GMT | HackTheBox- MetaTwo | jniket | [Read More](https://medium.com/p/757f43af3616) |
 | Sun, 06 Jul 2025 15:09:04 GMT | Nessus: A Silent Warrior Against Invisible Threats | LB Cyber Journal | [Read More](https://medium.com/p/056f13112094) |
-| Sun, 06 Jul 2025 15:08:24 GMT | The Real Pentesting Starter Pack: No Fluff, Just Labs and Grind | Corey Jones | [Read More](https://medium.com/p/9a79f2d0805d) |
