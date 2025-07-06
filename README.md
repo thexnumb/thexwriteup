@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 21:07:15 GMT | How I Stole Tokens with One OAuth Misstep | Ibtissam hammadi | [Read More](https://medium.com/p/7e4a2939c723) |
+| Sun, 06 Jul 2025 21:06:10 GMT | Bye-Bye, Bug Bites: DIY Summer Remedies to Keep Biting Bugs at Bay | Dannielle Holmes | [Read More](https://medium.com/p/eba63a75012f) |
+| Sun, 06 Jul 2025 21:02:56 GMT | Highest paying jobs in cyber security | Chandanjana | [Read More](https://medium.com/p/8a095f0662ad) |
+| Sun, 06 Jul 2025 20:57:53 GMT | Hack The Box — SQL Injection Fundamentals | Charlie Webster | [Read More](https://medium.com/p/00ab35bbb8a5) |
+| Sun, 06 Jul 2025 20:57:50 GMT | CER-Richtlinie: Resilienz für “alles außer Cyber” | Sarah Fluchs | [Read More](https://medium.com/p/a012d5469e93) |
+| Sun, 06 Jul 2025 20:51:54 GMT | SOC175 — PowerShell Found in Requested URL — Possible CVE-2022–41082 Exploitation | Raynard Waits | [Read More](https://medium.com/p/da79f4e7859d) |
+| Sun, 06 Jul 2025 20:51:51 GMT | Ethical Hacking And Its Impact On Humanity's Future. | Ivanmaximusedwin | [Read More](https://medium.com/p/bf4bdb2dd735) |
+| Sun, 06 Jul 2025 20:45:48 GMT | DevSecOps in Practice: From Idea to Deployment | Asya Amirli | [Read More](https://medium.com/p/a0242f6624a1) |
+| Sun, 06 Jul 2025 20:34:56 GMT | With generative AI, social engineering gets more dangerous — and harder to spot | The Quiet Hacker | [Read More](https://medium.com/p/721412fad4b9) |
 | Sun, 06 Jul 2025 20:33:46 GMT | The iPhone 16 Pro Max — A Complete Guide | Muhammad Bilal | [Read More](https://medium.com/p/5d503b39c443) |
 | Sun, 06 Jul 2025 20:22:52 GMT | Linux Privilege Escalation (TryHackMe: LinPrivesc, TeamCW) | musayyab sharif | [Read More](https://medium.com/p/ce7769ad0636) |
 | Sun, 06 Jul 2025 20:16:23 GMT | HackTheBox Zephyr: A Realistic AD Pro Lab Review | Mohamed Abdulhamid | [Read More](https://medium.com/p/a48912cbaa52) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 14:47:18 GMT | From Vision to Version: Evolving Radar Love with Flags, Validation, and CI Swagger | Raymon Epping | [Read More](https://medium.com/p/83610d549412) |
 | Sun, 06 Jul 2025 14:45:41 GMT | Fetch scan results from CheckmarxOne! — REST APIs | Aymen Abdelwahed | [Read More](https://medium.com/p/14fd00425563) |
 | Sun, 06 Jul 2025 14:42:18 GMT | Head(er) Games: How I Turned CORS Misconfig into a Full Data Dump | Iski | [Read More](https://medium.com/p/de8d70552221) |
-| Sun, 06 Jul 2025 14:42:16 GMT | Exploring Model Context Protocol (MCP) | Dom Whewell | [Read More](https://medium.com/p/bca7175347fd) |
-| Sun, 06 Jul 2025 14:38:12 GMT | AI Chatbots Are Reshaping Search – 3 Top Altcoins Poised to Benefit | Mark Peterson | [Read More](https://medium.com/p/5e9343c6ab73) |
-| Sun, 06 Jul 2025 14:36:46 GMT | xlmrat Lab by CyberDefenders | Ahmedelshoura | [Read More](https://medium.com/p/09fe85fc5785) |
-| Sun, 06 Jul 2025 14:33:49 GMT | THM-Writing Pentest Report:- | Mohit Sharma | [Read More](https://medium.com/p/9e0cfc09a7cf) |
-| Sun, 06 Jul 2025 14:33:44 GMT | ☁️ Cloud-Native Threats: Securing the Modern Attack Surface in 2025 | Mr Joe | [Read More](https://medium.com/p/c7f8980d22e2) |
-| Sun, 06 Jul 2025 14:32:03 GMT | Detecting Backdoors in LLMs: Malware, C&C, and Long-Term Threats | Harishkumar Pillai | [Read More](https://medium.com/p/7276ace95970) |
-| Sun, 06 Jul 2025 14:31:53 GMT | From Cables to Clicks: The OSI Model Simplified | Adam Jikat | [Read More](https://medium.com/p/c66f5ade692f) |
-| Sun, 06 Jul 2025 14:29:17 GMT | The Quiet Battle: Honest Thoughts and Lessons Learned | Adeola Awobade | [Read More](https://medium.com/p/a404faeaf74e) |
-| Sun, 06 Jul 2025 14:26:52 GMT | SOC Data Lakes: Scalable Security Analytics with Big Data Technologies ️ | Esra Kayhan | [Read More](https://medium.com/p/bb6472c4354c) |
