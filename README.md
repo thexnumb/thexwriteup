@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 20:33:46 GMT | The iPhone 16 Pro Max — A Complete Guide | Muhammad Bilal | [Read More](https://medium.com/p/5d503b39c443) |
+| Sun, 06 Jul 2025 20:22:52 GMT | Linux Privilege Escalation (TryHackMe: LinPrivesc, TeamCW) | musayyab sharif | [Read More](https://medium.com/p/ce7769ad0636) |
 | Sun, 06 Jul 2025 20:16:23 GMT | HackTheBox Zephyr: A Realistic AD Pro Lab Review | Mohamed Abdulhamid | [Read More](https://medium.com/p/a48912cbaa52) |
 | Sun, 06 Jul 2025 20:11:30 GMT | Understanding of JSON Web Token ( JWT ) . with Implementation . | Ayush Raj Cs | [Read More](https://medium.com/p/5034718f8ee3) |
 | Sun, 06 Jul 2025 20:06:18 GMT | Building the Paranoid’s Database: Introducing MerkonDB for Zero-Trust Security | Arjun4522 | [Read More](https://medium.com/p/98bb0d9d5911) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 14:31:53 GMT | From Cables to Clicks: The OSI Model Simplified | Adam Jikat | [Read More](https://medium.com/p/c66f5ade692f) |
 | Sun, 06 Jul 2025 14:29:17 GMT | The Quiet Battle: Honest Thoughts and Lessons Learned | Adeola Awobade | [Read More](https://medium.com/p/a404faeaf74e) |
 | Sun, 06 Jul 2025 14:26:52 GMT | SOC Data Lakes: Scalable Security Analytics with Big Data Technologies ️ | Esra Kayhan | [Read More](https://medium.com/p/bb6472c4354c) |
-| Sun, 06 Jul 2025 14:26:36 GMT | Nmap Live Host Discovery — TryHackMe | sercan timocin | [Read More](https://medium.com/p/1b9b8d43b510) |
-| Sun, 06 Jul 2025 14:25:04 GMT | Brute Force Detection with Real-Time Alerting and Traffic Forensics | Bishu Biswas | [Read More](https://medium.com/p/0ecb37197b2d) |
