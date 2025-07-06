@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 17:17:08 GMT | Host Static Websites with NGINX — Fast, Secure & Free (Full Step-by-Step Guide) | Ashish Singh | [Read More](https://medium.com/p/57ecd15e0c1b) |
+| Sun, 06 Jul 2025 17:04:47 GMT | AgentX Isn’t What You Think It Is — And That’s a Good Thing.❗ | SupportXDR | [Read More](https://medium.com/p/6a21b45cb474) |
+| Sun, 06 Jul 2025 17:04:23 GMT | Is Public Wi-Fi Safe? What Actually Happens Under the Hood | Neha ravi | [Read More](https://medium.com/p/f70f4d3d9468) |
+| Sun, 06 Jul 2025 17:00:30 GMT | Challenge Writeup: GUI I | Mohamed atiaa | [Read More](https://medium.com/p/aa58b38740ae) |
+| Sun, 06 Jul 2025 16:58:01 GMT | Your PC is spying on you – here’s how to take back your privacy | Pranav Bhardwaj | [Read More](https://medium.com/p/8ac20231f31b) |
+| Sun, 06 Jul 2025 16:55:57 GMT | Don’t use Python If you want to become Hacker [ in 2025] | Mr Horbio | [Read More](https://medium.com/p/a1e6b71b32c4) |
+| Sun, 06 Jul 2025 16:50:25 GMT | مستقل وظائف عن بعد 2025: دليلك لبدء العمل الحر بخطوات سهلة | katibatech | [Read More](https://medium.com/p/57263b005eaa) |
+| Sun, 06 Jul 2025 16:48:28 GMT | Securing Your AWS Environment: Essential Security Measures You Must Implement | Ujjwalsapkota | [Read More](https://medium.com/p/ef96c665446a) |
+| Sun, 06 Jul 2025 16:45:45 GMT | Still Trusting Too Much? Why Zero Trust Security Isn’t Optional Anymore | Shayera Zareen | [Read More](https://medium.com/p/d7e0ec3be358) |
 | Sun, 06 Jul 2025 16:44:04 GMT | Building a Secure NIST Chatbot on Azure: From Inception to Completion | Jordan Bray | [Read More](https://medium.com/p/60b0c9401185) |
 | Sun, 06 Jul 2025 16:42:57 GMT | This Bitcoin Stat Shows Investors Are Preparing For A Rally | Wisdomakpananselem | [Read More](https://medium.com/p/323241a1f95f) |
 | Sun, 06 Jul 2025 16:37:58 GMT | Pivoting, Tunnelling, and Port Forwarding(Skills Assessment-HTB) | Knowntonone | [Read More](https://medium.com/p/ab76fefdff42) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 10:42:52 GMT | Penetration Testing: What It Is and Why It’s Critical for Cybersecurity | Charter Global | [Read More](https://medium.com/p/267f83f77bcf) |
 | Sun, 06 Jul 2025 10:39:01 GMT | Building Secure API with Spring Boot | Jaytech | [Read More](https://medium.com/p/ac871170b0a4) |
 | Sun, 06 Jul 2025 10:37:44 GMT | DAY 6 — Forensic Memory Investigation. | Jinay | [Read More](https://medium.com/p/5b375ef20f4c) |
-| Sun, 06 Jul 2025 10:34:31 GMT | Is a VPN Truly Secure? | Yuksel | [Read More](https://medium.com/p/922479173ab4) |
-| Sun, 06 Jul 2025 10:31:16 GMT | From `iptables` to `nftables`: Why Linux Security Just Got Smarter | Natarajan C K | [Read More](https://medium.com/p/eaaebb9bc536) |
-| Sun, 06 Jul 2025 10:19:42 GMT | What a SIEM Is Not: A Technical Deep Dive into Misconceptions | Yuksel | [Read More](https://medium.com/p/d3359610e9e7) |
-| Sun, 06 Jul 2025 10:10:19 GMT | CyberTalents-Get rid of them all | Mohamed atiaa | [Read More](https://medium.com/p/aae3497b75f8) |
-| Sun, 06 Jul 2025 10:01:23 GMT | America the Inaccessible: How Bureaucracy and Fear-Mongering at Our Borders Are Costing Us Culture | Michael Phillips | [Read More](https://medium.com/p/c02946ee3ab0) |
-| Sun, 06 Jul 2025 09:43:31 GMT | Medium Stats Showing 0 Views and Reads? | Gajanan Rajput | [Read More](https://medium.com/p/0746afc1fad3) |
-| Sun, 06 Jul 2025 09:40:46 GMT | I Don’t Trust Big Tech With My Passwords — So I Use KeePass | Rajesh Kanade | [Read More](https://medium.com/p/928fb045703d) |
-| Sun, 06 Jul 2025 09:37:19 GMT | The Hidden Risk in Modern Factories & Why You Need This Free IEC 62443 Book | Mandar Phadke | [Read More](https://medium.com/p/c21a9333d3f7) |
-| Sun, 06 Jul 2025 09:36:01 GMT | Maximizing the Benefits of Legal Tech, Smart Contracts, and Blockchain Arbitration in Nigeria By… | Usman Abdulsemiu | [Read More](https://medium.com/p/547bdb918675) |
