@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 10:19:42 GMT | What a SIEM Is Not: A Technical Deep Dive into Misconceptions | Yuksel | [Read More](https://medium.com/p/d3359610e9e7) |
+| Sun, 06 Jul 2025 10:10:19 GMT | CyberTalents-Get rid of them all | Mohamed atiaa | [Read More](https://medium.com/p/aae3497b75f8) |
+| Sun, 06 Jul 2025 10:01:23 GMT | America the Inaccessible: How Bureaucracy and Fear-Mongering at Our Borders Are Costing Us Culture | Michael Phillips | [Read More](https://medium.com/p/c02946ee3ab0) |
+| Sun, 06 Jul 2025 09:43:31 GMT | Medium Stats Showing 0 Views and Reads? | Gajanan Rajput | [Read More](https://medium.com/p/0746afc1fad3) |
+| Sun, 06 Jul 2025 09:40:46 GMT | I Don’t Trust Big Tech With My Passwords — So I Use KeePass | Rajesh Kanade | [Read More](https://medium.com/p/928fb045703d) |
+| Sun, 06 Jul 2025 09:37:19 GMT | The Hidden Risk in Modern Factories & Why You Need This Free IEC 62443 Book | Mandar Phadke | [Read More](https://medium.com/p/c21a9333d3f7) |
+| Sun, 06 Jul 2025 09:36:01 GMT | Maximizing the Benefits of Legal Tech, Smart Contracts, and Blockchain Arbitration in Nigeria By… | Usman Abdulsemiu | [Read More](https://medium.com/p/547bdb918675) |
 | Sun, 06 Jul 2025 09:28:31 GMT | La constancia: el verdadero secreto del Bug Bounty | Gorka | [Read More](https://medium.com/p/1c1e14305c6e) |
 | Sun, 06 Jul 2025 09:27:20 GMT | Smarter and Safer: How AI and On-Premise Strategies Are Redefining Document Processing in 2025 | PDF Reader Pro | [Read More](https://medium.com/p/a1a380447d8c) |
 | Sun, 06 Jul 2025 09:25:30 GMT | The Submarine That Nearly Started World War III | Muhammad Ali Khawar Butt | [Read More](https://medium.com/p/74a75e1bf340) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 03:20:16 GMT | O que é um firewall? | Lucas Novaes Antonio Filgueiras | [Read More](https://medium.com/p/d5dcaccaa7e9) |
 | Sun, 06 Jul 2025 03:16:43 GMT | JS.MAP Deep Recon for Bug Hunters | AbhirupKonwar | [Read More](https://medium.com/p/c9571a053fbb) |
 | Sun, 06 Jul 2025 03:01:24 GMT | The Hacking Tool Chronicles: 30 Years of Netcat | Ian Barwise | [Read More](https://medium.com/p/39ad27d6c730) |
-| Sun, 06 Jul 2025 02:51:13 GMT | How to Bypass WAFs with Just One cURL Command (Ethically) | Darshan | [Read More](https://medium.com/p/b8201d2729a2) |
-| Sun, 06 Jul 2025 02:19:26 GMT | Try hack me -Colddbox Challenge Write up | Cybare | [Read More](https://medium.com/p/15e524a194b2) |
-| Sun, 06 Jul 2025 02:11:52 GMT | A Missive on the Perils and Protections in Our Digital Epoch | 陳宏傑 & Markus Patrick Chan | [Read More](https://medium.com/p/d87a207ea434) |
-| Sun, 06 Jul 2025 02:05:51 GMT | Not rich or famous? It doesn’t matter to cybercriminals. They will piece your information together. | David SEHYEON Baek | [Read More](https://medium.com/p/00ade0306f7a) |
-| Sun, 06 Jul 2025 02:00:54 GMT | ️ Active Directory Project (Part 4): Static IP & DNS Setup for Domain Communication | Anivesh Mohan | [Read More](https://medium.com/p/189ba275a8d4) |
-| Sun, 06 Jul 2025 01:52:56 GMT | Oski Lab Walkthrough (CyberDefenders) | Achuth Chandra | [Read More](https://medium.com/p/f272b06f1b74) |
-| Sun, 06 Jul 2025 01:16:52 GMT | Museum of failure or gallery of trying? | Human. | [Read More](https://medium.com/p/67bc3928b7ee) |
