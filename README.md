@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 15:22:56 GMT | टेलीग्राम जॉब स्कैम (Telegram job scam) से सावधान! जानिए कैसे बचें ऑनलाइन ठगी से | दैनिक भारत टाइम्स | [Read More](https://medium.com/p/99a0ca5ec3e7) |
+| Sun, 06 Jul 2025 15:13:16 GMT | ️ Cybersecurity in Smart Devices and Industrial Robots: The Next Frontier of Digital Defense | Karan  Pramod Shivankar | [Read More](https://medium.com/p/9fb49b347269) |
 | Sun, 06 Jul 2025 15:11:18 GMT | STIX and TAXII | Abhinav Pathak | [Read More](https://medium.com/p/490859c43c45) |
 | Sun, 06 Jul 2025 15:10:37 GMT | HackTheBox- MetaTwo | jniket | [Read More](https://medium.com/p/757f43af3616) |
 | Sun, 06 Jul 2025 15:09:04 GMT | Nessus: A Silent Warrior Against Invisible Threats | LB Cyber Journal | [Read More](https://medium.com/p/056f13112094) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 08:32:20 GMT | TryHackMe - Windows Network Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/048f0a9e051a) |
 | Sun, 06 Jul 2025 08:16:54 GMT | Agile Mindset Beyond IT: How Standups and Sprints Shape My Daily Life | Himanshunya | [Read More](https://medium.com/p/46f51c0e099e) |
 | Sun, 06 Jul 2025 08:12:38 GMT | Path Traversal part-2 : traversal sequences blocked with absolute path bypass | Ahmad Sopyan | [Read More](https://medium.com/p/ff92a1722f31) |
-| Sun, 06 Jul 2025 08:11:55 GMT | Let’s Talk About: ➡️ ZAMA | Kadua Nganu | [Read More](https://medium.com/p/53da0392d9b9) |
-| Sun, 06 Jul 2025 08:10:10 GMT | Коли кібершпигунство стає головною зброєю: розбір операції STFD-686 | CYBERFIELD NET | [Read More](https://medium.com/p/df61a0dc07b4) |
