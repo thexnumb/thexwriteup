@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 20:16:23 GMT | HackTheBox Zephyr: A Realistic AD Pro Lab Review | Mohamed Abdulhamid | [Read More](https://medium.com/p/a48912cbaa52) |
+| Sun, 06 Jul 2025 20:11:30 GMT | Understanding of JSON Web Token ( JWT ) . with Implementation . | Ayush Raj Cs | [Read More](https://medium.com/p/5034718f8ee3) |
+| Sun, 06 Jul 2025 20:06:18 GMT | Building the Paranoid’s Database: Introducing MerkonDB for Zero-Trust Security | Arjun4522 | [Read More](https://medium.com/p/98bb0d9d5911) |
+| Sun, 06 Jul 2025 19:59:09 GMT | Hybrid Warfare: How States Fight Without Declaring War | Strategic Insights 101 | [Read More](https://medium.com/p/7e8fcda5b89a) |
+| Sun, 06 Jul 2025 19:54:53 GMT | The Old Career is Dead, Long Live the New Career | Eric Tillman | [Read More](https://medium.com/p/7081078b75e2) |
+| Sun, 06 Jul 2025 19:51:43 GMT | 40 Cyber Security Tools You Should Know | D.Haddad | [Read More](https://medium.com/p/71151f4232b5) |
+| Sun, 06 Jul 2025 19:47:06 GMT | Daring to Begin | Shawn Witschen | [Read More](https://medium.com/p/f0b89976d72f) |
+| Sun, 06 Jul 2025 19:44:05 GMT | THE SECURITY ONION & THE SECURITY ARTICHOKE | Vishnu Shivalal P | [Read More](https://medium.com/p/66872c72ebdc) |
+| Sun, 06 Jul 2025 19:37:59 GMT | Networking Essential — TryHackMe ( THM) | hareem khan | [Read More](https://medium.com/p/6cad5ff37676) |
+| Sun, 06 Jul 2025 19:37:54 GMT | Enumerating AD with Powerview--Powershell --Active Directory Pentesting--Part 21: | Muhammadhuzaifa | [Read More](https://medium.com/p/ba3ea2813cf8) |
+| Sun, 06 Jul 2025 19:37:27 GMT | EN- Theoretical Assessment of Hybrid Security Architecture — 1 (SecOps) | ahmetw.eth | [Read More](https://medium.com/p/98871cd20be1) |
+| Sun, 06 Jul 2025 19:37:25 GMT | TR- Hibrit Güvenlik Mimarisine Yönelik Teorik İnceleme — 1 (SecOps) | ahmetw.eth | [Read More](https://medium.com/p/5414af23cc92) |
+| Sun, 06 Jul 2025 19:37:14 GMT | How I Built a Custom Reverse Shell in C — by Muhammad Mahad | Muhammad Mahad | [Read More](https://medium.com/p/c08304ee389b) |
+| Sun, 06 Jul 2025 19:36:04 GMT | Managing the Team Without Overworking: 3 Ways | _shivk | [Read More](https://medium.com/p/e4bcf9ad6b02) |
 | Sun, 06 Jul 2025 19:24:07 GMT | HackTheBox Fluffy Walkthrough | Heliman | [Read More](https://medium.com/p/d7d3d2f40b45) |
 | Sun, 06 Jul 2025 19:18:59 GMT | NordVPN vs Surfshark: Honest Comparison After One Year of Use | Kelly Shephard | [Read More](https://medium.com/p/f04a654ea128) |
 | Sun, 06 Jul 2025 19:15:16 GMT | Cybersecurity in the Digital Age: Be Aware, Not Afraid | Noman Akbar Khan | [Read More](https://medium.com/p/6a67388247f6) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 14:26:52 GMT | SOC Data Lakes: Scalable Security Analytics with Big Data Technologies ️ | Esra Kayhan | [Read More](https://medium.com/p/bb6472c4354c) |
 | Sun, 06 Jul 2025 14:26:36 GMT | Nmap Live Host Discovery — TryHackMe | sercan timocin | [Read More](https://medium.com/p/1b9b8d43b510) |
 | Sun, 06 Jul 2025 14:25:04 GMT | Brute Force Detection with Real-Time Alerting and Traffic Forensics | Bishu Biswas | [Read More](https://medium.com/p/0ecb37197b2d) |
-| Sun, 06 Jul 2025 14:18:29 GMT | AI vs Hackers: The New Era of Cybersecurity Warfare | DIGITAL Marketing | [Read More](https://medium.com/p/7f3b2b82c2ac) |
-| Sun, 06 Jul 2025 14:09:24 GMT | DevSecOps sharing — Kubernetes RBAC (Rancher rke2) | Rennaps | [Read More](https://medium.com/p/59ce7752e10f) |
-| Sun, 06 Jul 2025 14:06:01 GMT | Unauthenticated API Endpoint Exposes SMS Account Balance — An Information Disclosure Story | Gouri Sankar A | [Read More](https://medium.com/p/23b16b83cdef) |
-| Sun, 06 Jul 2025 13:59:19 GMT | The Silent Agreement of the Internet: A Deep Dive into the TCP 3-Way Handshake | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/ecb2cf58e8a4) |
-| Sun, 06 Jul 2025 13:58:57 GMT | Steganography - Hiding Data in a Video - Steghide | Alibinazam | [Read More](https://medium.com/p/04b8fd4fedbb) |
-| Sun, 06 Jul 2025 13:54:04 GMT | Uncovering Hidden Admin Tools via JavaScript Debug Flags | Monika sharma | [Read More](https://medium.com/p/96813d62cc9d) |
-| Sun, 06 Jul 2025 13:37:00 GMT | How to find Reflected Cross site Scripting on a page & Reporting the same on platforms. | Demsec | [Read More](https://medium.com/p/dbb413bf1254) |
-| Sun, 06 Jul 2025 13:31:20 GMT | Redefining Security for the AI Era: Blueprint for a Distributed Future | noailabs | [Read More](https://medium.com/p/bd540877a28f) |
-| Sun, 06 Jul 2025 13:24:16 GMT | The Great Embedding Model Evaluation: Why We’re Succeeding with the Wrong Model | Michael Rico | [Read More](https://medium.com/p/2a43c7352fae) |
-| Sun, 06 Jul 2025 13:23:48 GMT | Overview of RMC, Security Kernel, & TCB | Igor Berner | [Read More](https://medium.com/p/6c38ef6aae6f) |
-| Sun, 06 Jul 2025 13:20:27 GMT | Path Traversal part-3 : traversal sequences stripped non-recursively | Ahmad Sopyan | [Read More](https://medium.com/p/ee0f1a9c9887) |
-| Sun, 06 Jul 2025 13:18:55 GMT | What Is Authentication, Really? | Stefano Alvares | [Read More](https://medium.com/p/c8aec1270649) |
-| Sun, 06 Jul 2025 13:18:25 GMT | The AI Arms Race: How Enterprises Must Counter Next-Gen Malware and Ransomware | Faraz Ishaq | [Read More](https://medium.com/p/56ecbd407dcc) |
-| Sun, 06 Jul 2025 13:14:53 GMT | The Ghost CI Attack: How Deleted GitHub Workflows Can Still Haunt You | Đeepanshu | [Read More](https://medium.com/p/5a3112256b31) |
