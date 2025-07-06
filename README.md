@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 05:23:06 GMT | Try Hack Me - Simple CTF Challenge Write Up | Cybare | [Read More](https://medium.com/p/3a5354415b47) |
+| Sun, 06 Jul 2025 05:17:24 GMT | Scattered Spider: Anatomy of a Modern AiTM Threat and How to Stop It | Arachne Digital | [Read More](https://medium.com/p/b50bf0483125) |
 | Sun, 06 Jul 2025 04:58:27 GMT | The AI That Hacked Itself: How Our Machine Learning Model Became a Cybercriminal | Sneha Rani | [Read More](https://medium.com/p/9f7d6e7ee36e) |
 | Sun, 06 Jul 2025 04:48:40 GMT | The iOS 19 ‘Background Sensors’ Scandal: Why Your iPhone Listens Even When Off | TheyLied | [Read More](https://medium.com/p/2b070247e323) |
 | Sun, 06 Jul 2025 04:44:53 GMT | OTP Rate Limit Bypass via URL Obfuscation — A Critical Vulnerability Reported on: June 16… | Raghav Arora | [Read More](https://medium.com/p/0e5f24d03d7b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 17:42:07 GMT | Order - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/89482e75a1b4) |
 | Sat, 05 Jul 2025 17:41:25 GMT | Weaponized DNA: The Next Frontier of Cyberwarfare | Santiago Innovations | [Read More](https://medium.com/p/86191870aadb) |
 | Sat, 05 Jul 2025 17:40:16 GMT | Stop Tapping “Allow”: You’re Handing Over Your Digital Life | Aryan Shrestha | [Read More](https://medium.com/p/499dfb79a3f5) |
-| Sat, 05 Jul 2025 17:38:20 GMT | How I Discovered a Live Dependency Confusion Vulnerability in a GraphQL-Based Web Application | Sanaullah Aman Korai | [Read More](https://medium.com/p/13cc3382e671) |
-| Sat, 05 Jul 2025 17:28:30 GMT | I wish I had a mother figure. | Lucy the Oracle | [Read More](https://medium.com/p/69f11a227486) |
