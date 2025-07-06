@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 04:58:27 GMT | The AI That Hacked Itself: How Our Machine Learning Model Became a Cybercriminal | Sneha Rani | [Read More](https://medium.com/p/9f7d6e7ee36e) |
+| Sun, 06 Jul 2025 04:48:40 GMT | The iOS 19 ‘Background Sensors’ Scandal: Why Your iPhone Listens Even When Off | TheyLied | [Read More](https://medium.com/p/2b070247e323) |
+| Sun, 06 Jul 2025 04:44:53 GMT | OTP Rate Limit Bypass via URL Obfuscation — A Critical Vulnerability Reported on: June 16… | Raghav Arora | [Read More](https://medium.com/p/0e5f24d03d7b) |
+| Sun, 06 Jul 2025 04:43:56 GMT | Stop Reinventing Authentication: How I Built a Production-Ready Auth API That Scales to 50K Users… | Tarek CHEIKH | [Read More](https://medium.com/p/912981176461) |
+| Sun, 06 Jul 2025 04:41:38 GMT | Dark Web Explained: What Happens to Your Stolen Data? | Sagar Majumdar | [Read More](https://medium.com/p/b7346d709552) |
+| Sun, 06 Jul 2025 04:36:01 GMT | PT1 on TryHackMe — A Real Junior’s Challenge or Just Hype? | ProwlSec | [Read More](https://medium.com/p/b64cd0ced65f) |
 | Sun, 06 Jul 2025 04:03:40 GMT | PortSwigger Lab: Username enumeration via Response Timing writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/d97e1fa97ac7) |
 | Sun, 06 Jul 2025 03:55:27 GMT | Kubernetes Pentesting for Everyone: Easy and Practical Security Insights | sindhuneupane | [Read More](https://medium.com/p/4bab0e7c17df) |
 | Sun, 06 Jul 2025 03:45:15 GMT | PortSwigger Lab: Username enumeration via subtly different responses writeup (Authentication… | awes0meness | [Read More](https://medium.com/p/ce3efa275946) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 17:40:16 GMT | Stop Tapping “Allow”: You’re Handing Over Your Digital Life | Aryan Shrestha | [Read More](https://medium.com/p/499dfb79a3f5) |
 | Sat, 05 Jul 2025 17:38:20 GMT | How I Discovered a Live Dependency Confusion Vulnerability in a GraphQL-Based Web Application | Sanaullah Aman Korai | [Read More](https://medium.com/p/13cc3382e671) |
 | Sat, 05 Jul 2025 17:28:30 GMT | I wish I had a mother figure. | Lucy the Oracle | [Read More](https://medium.com/p/69f11a227486) |
-| Sat, 05 Jul 2025 17:17:31 GMT | My Cybersecurity Interview Journey: From Doubt to Confidence | Ganesan R | [Read More](https://medium.com/p/405d46785dc8) |
-| Sat, 05 Jul 2025 17:10:34 GMT | Intro to Threat Profiling: Backbone of Proactive Cyber Defense | Hrishidev K V | [Read More](https://medium.com/p/80ca40b2cdbf) |
-| Sat, 05 Jul 2025 17:10:17 GMT | EU Won’t Delay AI Law — Despite Pressure from Tech Giants | Tech Thrilled | [Read More](https://medium.com/p/a315c2dab028) |
-| Sat, 05 Jul 2025 17:09:07 GMT | Accordare giusto e corretto: gli altri in breve | Ennio Martignago | [Read More](https://medium.com/p/06c913c03db0) |
-| Sat, 05 Jul 2025 17:08:48 GMT | “The Pentester Who Broke Our Prod: A Cloud Security Horror Story” | Sneha Rani | [Read More](https://medium.com/p/4be118d977d8) |
-| Sat, 05 Jul 2025 17:08:39 GMT | Before the Audit: Solidity Vulnerabilities | Universal_Photon | [Read More](https://medium.com/p/e91ae26be3fa) |
