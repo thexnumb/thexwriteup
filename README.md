@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 16:44:04 GMT | Building a Secure NIST Chatbot on Azure: From Inception to Completion | Jordan Bray | [Read More](https://medium.com/p/60b0c9401185) |
+| Sun, 06 Jul 2025 16:42:57 GMT | This Bitcoin Stat Shows Investors Are Preparing For A Rally | Wisdomakpananselem | [Read More](https://medium.com/p/323241a1f95f) |
+| Sun, 06 Jul 2025 16:37:58 GMT | Pivoting, Tunnelling, and Port Forwarding(Skills Assessment-HTB) | Knowntonone | [Read More](https://medium.com/p/ab76fefdff42) |
+| Sun, 06 Jul 2025 16:30:11 GMT | Passive Attacks: The Silent Threat in Cybersecurity | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/fdb68c14eed2) |
+| Sun, 06 Jul 2025 16:28:53 GMT | Track Everything in Your Network — Ultimate Wireshark Guide | err0rgod | [Read More](https://medium.com/p/49317b0fe0b8) |
+| Sun, 06 Jul 2025 16:24:30 GMT | NETWORK TEMELLERİ | g.o. | [Read More](https://medium.com/p/af4864b5c0f4) |
+| Sun, 06 Jul 2025 16:20:49 GMT | The Top 10 Emerging Threats in Medical Cybercrime | Travis Ray Caverhill | [Read More](https://medium.com/p/123bdee69d16) |
+| Sun, 06 Jul 2025 16:19:39 GMT | Insecure Design Leading to Information Disclosure via Improper Access Control (IDOR)($100 — $500) | Abin | [Read More](https://medium.com/p/230948b39c4c) |
+| Sun, 06 Jul 2025 16:17:06 GMT | Understanding PQC Families Challenges for Blind Signatures | Mehrnoush | [Read More](https://medium.com/p/0a81ae650169) |
+| Sun, 06 Jul 2025 16:16:55 GMT | Inside the Hacker’s Mindset: How Thinking Like an Attacker Strengthens Your Defense | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/f9d54f51b8a7) |
+| Sun, 06 Jul 2025 16:15:48 GMT | Careers in IT: Exploring the Future-Proof Pathways of Tech in 2025 | Onkar Shirke | [Read More](https://medium.com/p/284f3f08ea33) |
+| Sun, 06 Jul 2025 16:15:18 GMT | The Sigachi Blast: A Stark Wake-Up Call for CROs on Worker Safety and Accountability | vinay dahiya | [Read More](https://medium.com/p/ad22191c3295) |
+| Sun, 06 Jul 2025 16:14:51 GMT | Endpoint Detection and Response (EDR) Evasion Techniques Explained | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ba84547b0c9f) |
+| Sun, 06 Jul 2025 16:14:01 GMT | Overcome challenges in implementing DPDP Act’s “Consent Management” | Vaibhav Sonavane | [Read More](https://medium.com/p/23c8efdb18dc) |
 | Sun, 06 Jul 2025 16:01:49 GMT | Echo Pop vs Ring Outdoor Camera vs Ring Floodlight Cam: Which Amazon Smart Device Should You… | Vitalspark | [Read More](https://medium.com/p/c8ce3a5f01cc) |
 | Sun, 06 Jul 2025 16:01:34 GMT | Supply Chain, Supply Pain | Oludare Stephen Ayobami | [Read More](https://medium.com/p/191c8dd38767) |
 | Sun, 06 Jul 2025 16:00:45 GMT | CTF Day(26) | Ahmed Narmer | [Read More](https://medium.com/p/4760e9b83079) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 09:40:46 GMT | I Don’t Trust Big Tech With My Passwords — So I Use KeePass | Rajesh Kanade | [Read More](https://medium.com/p/928fb045703d) |
 | Sun, 06 Jul 2025 09:37:19 GMT | The Hidden Risk in Modern Factories & Why You Need This Free IEC 62443 Book | Mandar Phadke | [Read More](https://medium.com/p/c21a9333d3f7) |
 | Sun, 06 Jul 2025 09:36:01 GMT | Maximizing the Benefits of Legal Tech, Smart Contracts, and Blockchain Arbitration in Nigeria By… | Usman Abdulsemiu | [Read More](https://medium.com/p/547bdb918675) |
-| Sun, 06 Jul 2025 09:28:31 GMT | La constancia: el verdadero secreto del Bug Bounty | Gorka | [Read More](https://medium.com/p/1c1e14305c6e) |
-| Sun, 06 Jul 2025 09:27:20 GMT | Smarter and Safer: How AI and On-Premise Strategies Are Redefining Document Processing in 2025 | PDF Reader Pro | [Read More](https://medium.com/p/a1a380447d8c) |
-| Sun, 06 Jul 2025 09:25:30 GMT | The Submarine That Nearly Started World War III | Muhammad Ali Khawar Butt | [Read More](https://medium.com/p/74a75e1bf340) |
-| Sun, 06 Jul 2025 09:23:55 GMT | Massive Federal Data Breach Traced to Insider Hack at Government Contractor | Jeremy Sanchez Aguiar | [Read More](https://medium.com/p/08bc7e5a00d7) |
-| Sun, 06 Jul 2025 09:20:21 GMT | The Karnataka Fake News Bill, 2025: A Legal Perspective on Free Speech, Regulation, and… | AK JURIS ADVOCATES | [Read More](https://medium.com/p/e9b05d6caca0) |
-| Sun, 06 Jul 2025 09:17:55 GMT | THM - Order | Francesco Pastore | [Read More](https://medium.com/p/8b8760f0d784) |
-| Sun, 06 Jul 2025 09:17:36 GMT | How To Use Reddit for SaaS Marketing | Raf Vantongerloo | [Read More](https://medium.com/p/2b0b64fef1e3) |
-| Sun, 06 Jul 2025 09:16:14 GMT | ISO 27001 ile Bilgi Güvenliğine Yolculuk — 1 | İrem Çagla Demirtaş | [Read More](https://medium.com/p/befcf445deec) |
-| Sun, 06 Jul 2025 09:16:00 GMT | THM - Cipher’s Secret Message | Francesco Pastore | [Read More](https://medium.com/p/1fbeab963219) |
-| Sun, 06 Jul 2025 09:14:44 GMT | THM - Cryptosystem | Francesco Pastore | [Read More](https://medium.com/p/d6110a4058f0) |
-| Sun, 06 Jul 2025 09:08:30 GMT | THM - DarkMatter | Francesco Pastore | [Read More](https://medium.com/p/e9b374915dfb) |
-| Sun, 06 Jul 2025 09:05:23 GMT | Gen AI: Decoding Hacker’s Playbooks | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/4c6f69f8956b) |
-| Sun, 06 Jul 2025 09:04:47 GMT | def count_gmail_accounts(9491389734): gmail_accounts = [] for number in numbers: gmail_account =… | Bhuvan Yenda | [Read More](https://medium.com/p/f0772c5b828d) |
-| Sun, 06 Jul 2025 08:59:07 GMT | The Bug That Let Users Hide Comments from Creators — And I Bypassed the Fix the Same Day | Sandipgyawali | [Read More](https://medium.com/p/e7b95c1ae3b2) |
