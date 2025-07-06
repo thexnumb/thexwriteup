@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 18:36:41 GMT | Detecting Phishing Attacks Through URL Feature Analysis and Machine Learning Models | Montaserabdulhamid | [Read More](https://medium.com/p/d238a59c08b8) |
+| Sun, 06 Jul 2025 18:35:18 GMT | Basic IP-lookup Automation Script for VirusTotal | Evs | [Read More](https://medium.com/p/0e590cfbc126) |
+| Sun, 06 Jul 2025 18:34:33 GMT | ️ The Best Cybersecurity Tools for Freelance Developers in 2025 (Free + Paid) | Abdul Rehman Khan | [Read More](https://medium.com/p/64becf974e81) |
+| Sun, 06 Jul 2025 18:23:57 GMT | Zero Trust at Scale: How Federal Agencies Are Building a Safer Digital Infrastructure | Jeffrey Nickle | [Read More](https://medium.com/p/d0e0c2fc5581) |
 | Sun, 06 Jul 2025 18:13:44 GMT | Active Directory Lab — Part 2: Organizational Units, Users & Groups | Hicham Kernaf | [Read More](https://medium.com/p/dbff63f635c1) |
 | Sun, 06 Jul 2025 18:13:32 GMT | Best IDEs and AI Coding Assistants in 2025: Complete Guide to VSCode, Cursor, GitHub Copilot & More | Shahid Sharif | [Read More](https://medium.com/p/2b62c9526f9f) |
 | Sun, 06 Jul 2025 18:07:08 GMT | Stop Using These 5 Outdated Security Practices Before It’s Too Late! | OptimizationMaster | [Read More](https://medium.com/p/85ea90ef72fa) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 13:02:57 GMT | Collective Intelligence: Realities and Hardships of Crowdsourced Threat Intel — Part 1 | Fry Rob | [Read More](https://medium.com/p/a0ebd0707a8e) |
 | Sun, 06 Jul 2025 13:02:55 GMT | What Executives Need to Know About AI Policy and Why | devsecops | [Read More](https://medium.com/p/2a187e14aca7) |
 | Sun, 06 Jul 2025 12:54:32 GMT | ⚔️ AI vs Attackers: Can LLMs Defend Your Network? | Paritosh | [Read More](https://medium.com/p/a7bfc8a43396) |
-| Sun, 06 Jul 2025 12:38:57 GMT | Unlock the Future: Why Smart Locks Are a Must-Have for Your Smart Home | Avatron | [Read More](https://medium.com/p/5cefdee16155) |
-| Sun, 06 Jul 2025 12:37:51 GMT | Ngrok Tutorial: Complete Guide for Hackers & Developers 2025 | Alex Joyel Raj | [Read More](https://medium.com/p/125bbaf5c640) |
-| Sun, 06 Jul 2025 12:22:20 GMT | Restored Tabs, Forgotten Boundaries | Vivek Maurya | [Read More](https://medium.com/p/b09042d45ca4) |
-| Sun, 06 Jul 2025 12:16:54 GMT | c4ptur3-th3-fl4g - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/3fb53c355c21) |
