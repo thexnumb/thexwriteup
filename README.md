@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 10:34:31 GMT | Is a VPN Truly Secure? | Yuksel | [Read More](https://medium.com/p/922479173ab4) |
+| Sun, 06 Jul 2025 10:31:16 GMT | From `iptables` to `nftables`: Why Linux Security Just Got Smarter | Natarajan C K | [Read More](https://medium.com/p/eaaebb9bc536) |
 | Sun, 06 Jul 2025 10:19:42 GMT | What a SIEM Is Not: A Technical Deep Dive into Misconceptions | Yuksel | [Read More](https://medium.com/p/d3359610e9e7) |
 | Sun, 06 Jul 2025 10:10:19 GMT | CyberTalents-Get rid of them all | Mohamed atiaa | [Read More](https://medium.com/p/aae3497b75f8) |
 | Sun, 06 Jul 2025 10:01:23 GMT | America the Inaccessible: How Bureaucracy and Fear-Mongering at Our Borders Are Costing Us Culture | Michael Phillips | [Read More](https://medium.com/p/c02946ee3ab0) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 03:31:41 GMT | Cyber Threat in the Front Row: The Data Breach That Hit Legends International | Deven Chhajed | [Read More](https://medium.com/p/3cc2bea6dffe) |
 | Sun, 06 Jul 2025 03:25:14 GMT | Writing Pentest Reports - TryHackMe Walkthrough | santosh gadekar | [Read More](https://medium.com/p/1d5f20c7ffcc) |
 | Sun, 06 Jul 2025 03:20:16 GMT | O que é um firewall? | Lucas Novaes Antonio Filgueiras | [Read More](https://medium.com/p/d5dcaccaa7e9) |
-| Sun, 06 Jul 2025 03:16:43 GMT | JS.MAP Deep Recon for Bug Hunters | AbhirupKonwar | [Read More](https://medium.com/p/c9571a053fbb) |
-| Sun, 06 Jul 2025 03:01:24 GMT | The Hacking Tool Chronicles: 30 Years of Netcat | Ian Barwise | [Read More](https://medium.com/p/39ad27d6c730) |
