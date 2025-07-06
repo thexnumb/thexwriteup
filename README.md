@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 22:31:15 GMT | STEEL MOUNTAIN WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/cf63a8191e9b) |
+| Sun, 06 Jul 2025 22:30:07 GMT | NGINX Log Analizi ile Güvenlik Tehditlerinin Tespiti ve Trafik Gözlem | Mustafa Caliskan | [Read More](https://medium.com/p/b9fad8ad078c) |
+| Sun, 06 Jul 2025 22:17:25 GMT | Exposing Values in Environment Variables | W. Jenks Gibbons | [Read More](https://medium.com/p/d7a4cc4889fe) |
 | Sun, 06 Jul 2025 21:54:07 GMT | Your First Data Engineering Project with Google Cloud Virtual Machines—Here’s Why and How to Set It… | Henry | [Read More](https://medium.com/p/f8a361fa37e1) |
 | Sun, 06 Jul 2025 21:30:00 GMT | How I Visualized Data with Amazon QuickSight - NextWork AWS Beginner Project | Angie | [Read More](https://medium.com/p/2f046e910bb3) |
 | Sun, 06 Jul 2025 21:27:59 GMT | The Invisible Strength: How Men Carry Love in Silence | Laiba Azad | [Read More](https://medium.com/p/293253946a21) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 15:02:40 GMT | “Nessus: অদৃশ্য শত্রুর বিরুদ্ধে এক নিঃশব্দ যোদ্ধা” | LB Cyber Journal | [Read More](https://medium.com/p/be7a39d7d9f0) |
 | Sun, 06 Jul 2025 15:00:20 GMT | Microsoft Authenticator Killing Passwords: Export Logins Now | Aj | [Read More](https://medium.com/p/9538b3b282c3) |
 | Sun, 06 Jul 2025 14:56:54 GMT | SSRF (Server Side Request Forgery) | Julio | [Read More](https://medium.com/p/2bee8b84d6b6) |
-| Sun, 06 Jul 2025 14:55:20 GMT | TryHackMe: Writing Pentest Reports — Room Completed | Vikash Yadav | [Read More](https://medium.com/p/06a54570e779) |
-| Sun, 06 Jul 2025 14:52:24 GMT | Windows Security Audit Using Pure CMD — Lightweight Compliance & Hardening Check | ArthurXXII | [Read More](https://medium.com/p/0c63e034f66c) |
-| Sun, 06 Jul 2025 14:51:48 GMT | Cracking Cipher’s Message: TryHackMe Hackfinity ORDER Room Write-Up | Ayr1n | [Read More](https://medium.com/p/3449e2a42651) |
