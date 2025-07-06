@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 06:24:56 GMT | From Open Redirect to Internal Access: My SSRF Exploit Story | Pratik Dabhi | [Read More](https://medium.com/p/10a736962f98) |
+| Sun, 06 Jul 2025 06:24:32 GMT | $600 Bounty: How Revealed Hidden Read Receipts in Bumble’s Chat API | Monika sharma | [Read More](https://medium.com/p/53bc06c987f5) |
+| Sun, 06 Jul 2025 06:24:17 GMT | Nuclei with AI: Scan Websites Using Natural Language Prompts | Om Maniya | [Read More](https://medium.com/p/be6146ee376a) |
+| Sun, 06 Jul 2025 06:13:43 GMT | Quantum Computing Explained: The Future of Tech? | Sagar Majumdar | [Read More](https://medium.com/p/5775b7e64663) |
+| Sun, 06 Jul 2025 06:11:40 GMT | Edge of Tomorrow: ERP Meets the Time-Series Database | Namir Sagheenanajar | [Read More](https://medium.com/p/a2964bba93cd) |
+| Sun, 06 Jul 2025 06:07:15 GMT | Here’s what I learned after solving 5 Path Traversal Labs. | Rabia Riaz | [Read More](https://medium.com/p/c8676b126422) |
+| Sun, 06 Jul 2025 06:06:33 GMT | Prevent Buffer Overflow in Symfony: Best Practices with Code Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/b89de5ab3999) |
+| Sun, 06 Jul 2025 05:59:03 GMT | CTF Day(24) | Ahmed Narmer | [Read More](https://medium.com/p/0e1e8a56b6f6) |
+| Sun, 06 Jul 2025 05:46:38 GMT | The Linux Security Journey — dmesg_restrict | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2627c55ae473) |
+| Sun, 06 Jul 2025 05:44:18 GMT | The Double-Edged Sword: My Journey into Blue Team Cybersecurity | Daniel Mwangi | [Read More](https://medium.com/p/c3a10439f62e) |
+| Sun, 06 Jul 2025 05:44:12 GMT | Legal and Ethical Considerations of Squid Router Use | Dataara Elara Kate Anne | [Read More](https://medium.com/p/4b0df53a51fe) |
+| Sun, 06 Jul 2025 05:40:40 GMT | Everyone Wants to Be a Hacker, But No One Talks About This | ZeroDayDiva | [Read More](https://medium.com/p/d7f55cac2f78) |
 | Sun, 06 Jul 2025 05:23:06 GMT | Try Hack Me - Simple CTF Challenge Write Up | Cybare | [Read More](https://medium.com/p/3a5354415b47) |
 | Sun, 06 Jul 2025 05:17:24 GMT | Scattered Spider: Anatomy of a Modern AiTM Threat and How to Stop It | Arachne Digital | [Read More](https://medium.com/p/b50bf0483125) |
 | Sun, 06 Jul 2025 04:58:27 GMT | The AI That Hacked Itself: How Our Machine Learning Model Became a Cybercriminal | Sneha Rani | [Read More](https://medium.com/p/9f7d6e7ee36e) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 18:43:53 GMT | MurmurHash: The Scrappy Algorithm That Secretly Powers Half the Internet | Ashutosh Jha | [Read More](https://medium.com/p/2d3f79b4509b) |
 | Sat, 05 Jul 2025 18:37:09 GMT | Bypassing 2FA in GraphQL APIs: A Step-by-Step Guide | Medusa | [Read More](https://medium.com/p/4b73816bd4c3) |
 | Sat, 05 Jul 2025 18:34:59 GMT | ✅ Level 0 → 1 - Bandit Wargame — OverTheWire | Wizard-Of-Oz | [Read More](https://medium.com/p/394af3a64454) |
-| Sat, 05 Jul 2025 18:32:53 GMT | Don’t chmod 777 Your Life: A Linux Permissions Story | MayhemCode | [Read More](https://medium.com/p/209647a6f2c9) |
-| Sat, 05 Jul 2025 18:31:21 GMT | Inside a Hacker’s Mind: What They See When They Target Your App | Code With Hannan | [Read More](https://medium.com/p/bffb98391caf) |
-| Sat, 05 Jul 2025 18:23:47 GMT | Meet `iptables`: Your Linux System’s First Line of Defense | Natarajan C K | [Read More](https://medium.com/p/85564be4f436) |
-| Sat, 05 Jul 2025 18:20:40 GMT | DarkMatter - TryHackme - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/9d173e819c0f) |
-| Sat, 05 Jul 2025 18:18:35 GMT | Mimikatz--Credential Dumping with Mimikatz--Active Directory Pentesting --2025--Part 17 | Muhammadhuzaifa | [Read More](https://medium.com/p/cf7894afdea4) |
-| Sat, 05 Jul 2025 18:11:41 GMT | How Our ‘Secure’ Kubernetes Setup Got Hacked in 17 Minutes | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/450e204fec13) |
-| Sat, 05 Jul 2025 18:09:58 GMT | The Myth of the VPN Tunnel: What’s Really Happening Under the Hood | Ishan Dhar | [Read More](https://medium.com/p/34e741c6af68) |
-| Sat, 05 Jul 2025 18:03:13 GMT | ⚠️ You’re Being Watched: How Everyday Apps Collect Your Data Without You Noticing | Anshika Prajapati | [Read More](https://medium.com/p/88d93b6877cf) |
-| Sat, 05 Jul 2025 17:56:05 GMT | How Verizon and 2FA Ruined My Digital Life | You Want This | [Read More](https://medium.com/p/305bb12e77a0) |
-| Sat, 05 Jul 2025 17:42:07 GMT | Order - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/89482e75a1b4) |
-| Sat, 05 Jul 2025 17:41:25 GMT | Weaponized DNA: The Next Frontier of Cyberwarfare | Santiago Innovations | [Read More](https://medium.com/p/86191870aadb) |
-| Sat, 05 Jul 2025 17:40:16 GMT | Stop Tapping “Allow”: You’re Handing Over Your Digital Life | Aryan Shrestha | [Read More](https://medium.com/p/499dfb79a3f5) |
