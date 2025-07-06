@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 11:07:10 GMT | Web Application Security Best Practices (2025) | Sam | [Read More](https://medium.com/p/d42f8b3c0968) |
+| Sun, 06 Jul 2025 11:05:25 GMT | How One Dev’s Obsession Saved the Internet (and Why Your Memes Are Still Safe) | Arnav Jalan | [Read More](https://medium.com/p/6fc5e573a892) |
+| Sun, 06 Jul 2025 11:02:44 GMT | Secure Your Home 24/7 with Professional CCTV Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/b4f4b21ac136) |
+| Sun, 06 Jul 2025 11:01:35 GMT | I Decided to Deep Learn DNS — Here’s What I Learned | Vishnuprasad O | [Read More](https://medium.com/p/9b8a42a6dd55) |
+| Sun, 06 Jul 2025 10:55:29 GMT | Numbness Is Just Another Kind of Drowning | Sheetal Singh | [Read More](https://medium.com/p/8efaf559105c) |
+| Sun, 06 Jul 2025 10:42:52 GMT | Penetration Testing: What It Is and Why It’s Critical for Cybersecurity | Charter Global | [Read More](https://medium.com/p/267f83f77bcf) |
+| Sun, 06 Jul 2025 10:39:01 GMT | Building Secure API with Spring Boot | Jaytech | [Read More](https://medium.com/p/ac871170b0a4) |
+| Sun, 06 Jul 2025 10:37:44 GMT | DAY 6 — Forensic Memory Investigation. | Jinay | [Read More](https://medium.com/p/5b375ef20f4c) |
 | Sun, 06 Jul 2025 10:34:31 GMT | Is a VPN Truly Secure? | Yuksel | [Read More](https://medium.com/p/922479173ab4) |
 | Sun, 06 Jul 2025 10:31:16 GMT | From `iptables` to `nftables`: Why Linux Security Just Got Smarter | Natarajan C K | [Read More](https://medium.com/p/eaaebb9bc536) |
 | Sun, 06 Jul 2025 10:19:42 GMT | What a SIEM Is Not: A Technical Deep Dive into Misconceptions | Yuksel | [Read More](https://medium.com/p/d3359610e9e7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 04:41:38 GMT | Dark Web Explained: What Happens to Your Stolen Data? | Sagar Majumdar | [Read More](https://medium.com/p/b7346d709552) |
 | Sun, 06 Jul 2025 04:36:01 GMT | PT1 on TryHackMe — A Real Junior’s Challenge or Just Hype? | ProwlSec | [Read More](https://medium.com/p/b64cd0ced65f) |
 | Sun, 06 Jul 2025 04:03:40 GMT | PortSwigger Lab: Username enumeration via Response Timing writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/d97e1fa97ac7) |
-| Sun, 06 Jul 2025 03:55:27 GMT | Kubernetes Pentesting for Everyone: Easy and Practical Security Insights | sindhuneupane | [Read More](https://medium.com/p/4bab0e7c17df) |
-| Sun, 06 Jul 2025 03:45:15 GMT | PortSwigger Lab: Username enumeration via subtly different responses writeup (Authentication… | awes0meness | [Read More](https://medium.com/p/ce3efa275946) |
-| Sun, 06 Jul 2025 03:41:41 GMT | PLOTTED-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/6987fc1edd68) |
-| Sun, 06 Jul 2025 03:34:32 GMT | PortSwigger Lab: Username enumeration via different responses writeup (Authentication… | awes0meness | [Read More](https://medium.com/p/cf4d53f0a8d0) |
-| Sun, 06 Jul 2025 03:33:23 GMT | EXPLORING THE FUTURE OF SMART LOCKS WITH SWITCHBOT | Eo | [Read More](https://medium.com/p/41e60d9d6af7) |
-| Sun, 06 Jul 2025 03:31:41 GMT | Cyber Threat in the Front Row: The Data Breach That Hit Legends International | Deven Chhajed | [Read More](https://medium.com/p/3cc2bea6dffe) |
-| Sun, 06 Jul 2025 03:25:14 GMT | Writing Pentest Reports - TryHackMe Walkthrough | santosh gadekar | [Read More](https://medium.com/p/1d5f20c7ffcc) |
-| Sun, 06 Jul 2025 03:20:16 GMT | O que é um firewall? | Lucas Novaes Antonio Filgueiras | [Read More](https://medium.com/p/d5dcaccaa7e9) |
