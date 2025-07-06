@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 13:37:00 GMT | How to find Reflected Cross site Scripting on a page & Reporting the same on platforms. | Demsec | [Read More](https://medium.com/p/dbb413bf1254) |
+| Sun, 06 Jul 2025 13:31:20 GMT | Redefining Security for the AI Era: Blueprint for a Distributed Future | noailabs | [Read More](https://medium.com/p/bd540877a28f) |
 | Sun, 06 Jul 2025 13:24:16 GMT | The Great Embedding Model Evaluation: Why We’re Succeeding with the Wrong Model | Michael Rico | [Read More](https://medium.com/p/2a43c7352fae) |
 | Sun, 06 Jul 2025 13:23:48 GMT | Overview of RMC, Security Kernel, & TCB | Igor Berner | [Read More](https://medium.com/p/6c38ef6aae6f) |
 | Sun, 06 Jul 2025 13:20:27 GMT | Path Traversal part-3 : traversal sequences stripped non-recursively | Ahmad Sopyan | [Read More](https://medium.com/p/ee0f1a9c9887) |
@@ -78,6 +80,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 08:16:54 GMT | Agile Mindset Beyond IT: How Standups and Sprints Shape My Daily Life | Himanshunya | [Read More](https://medium.com/p/46f51c0e099e) |
 | Sun, 06 Jul 2025 08:12:38 GMT | Path Traversal part-2 : traversal sequences blocked with absolute path bypass | Ahmad Sopyan | [Read More](https://medium.com/p/ff92a1722f31) |
 | Sun, 06 Jul 2025 08:11:55 GMT | Let’s Talk About: ➡️ ZAMA | Kadua Nganu | [Read More](https://medium.com/p/53da0392d9b9) |
+| Sun, 06 Jul 2025 08:10:10 GMT | Коли кібершпигунство стає головною зброєю: розбір операції STFD-686 | CYBERFIELD NET | [Read More](https://medium.com/p/df61a0dc07b4) |
 | Sun, 06 Jul 2025 08:06:41 GMT | BlockSec｜In-depth Analysis and Reflections on the Resupply Protocol Attack Incident | BlockSec | [Read More](https://medium.com/p/932be23e1433) |
 | Sun, 06 Jul 2025 08:05:55 GMT | Order - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/c7ba41e3b369) |
 | Sun, 06 Jul 2025 07:51:30 GMT | ZoomEye Dorking for API Keys | AbhirupKonwar | [Read More](https://medium.com/p/cf77d61604bc) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 06:36:37 GMT | From Chaos  to Clarity ✨: Build Your First Smart Log Pipeline with NXLog | Amit Ambekar | [Read More](https://medium.com/p/d7f1e4e55168) |
 | Sun, 06 Jul 2025 06:33:46 GMT | Mr. Robot | merkle | [Read More](https://medium.com/p/64cc1c0a9d75) |
 | Sun, 06 Jul 2025 06:33:18 GMT | Path Traversal part-1 : File path traversal, simple case | Ahmad Sopyan | [Read More](https://medium.com/p/feabd380b997) |
-| Sun, 06 Jul 2025 06:32:37 GMT | The Architecture of Squid Router: Inside the Technology | Binary Anya Faye Hope | [Read More](https://medium.com/p/d4ea090ab44c) |
-| Sun, 06 Jul 2025 06:28:31 GMT | Three-Tier Web Application Security Part 1 : Attack Surface | suktech24 | [Read More](https://medium.com/p/3089ffd5bf5a) |
-| Sun, 06 Jul 2025 06:26:52 GMT | Why NFS Version Matters in Cybersecurity: NFSv3 vs NFSv4 | Faraz Ishaq | [Read More](https://medium.com/p/eb41f6669846) |
