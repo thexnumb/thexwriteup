@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 01:52:56 GMT | Oski Lab Walkthrough (CyberDefenders) | Achuth Chandra | [Read More](https://medium.com/p/f272b06f1b74) |
+| Sun, 06 Jul 2025 01:16:52 GMT | Museum of failure or gallery of trying? | Human. | [Read More](https://medium.com/p/67bc3928b7ee) |
+| Sun, 06 Jul 2025 01:04:41 GMT | Many Canva Designs Exposed with Edit Access on Google | Alan Levy | [Read More](https://medium.com/p/ec45e5291c46) |
+| Sun, 06 Jul 2025 00:59:04 GMT | Kali Linux Log Dosyaları | İsmail Demir | [Read More](https://medium.com/p/39c3c98ac877) |
+| Sun, 06 Jul 2025 00:50:19 GMT | The Glitch Who Hacked The Net | Lpha-Zo | [Read More](https://medium.com/p/3f29e4a17c8f) |
+| Sat, 05 Jul 2025 23:43:44 GMT | Why You’re Not Getting Hired in Cybersecurity In 2025 | Taimur Ijlal | [Read More](https://medium.com/p/90a71104e88d) |
+| Sat, 05 Jul 2025 23:41:52 GMT | Lupine VulnHub CTF Walkthrough — SSH Key Leak, Python Hijack & Root via pip (GTFOBins) | Basit Olasubomi Balogun | [Read More](https://medium.com/p/dde7f2ec149c) |
 | Sat, 05 Jul 2025 23:30:25 GMT | Cuttlefish2: Jira bug similarity search(and RAG) | Heemeng Foo | [Read More](https://medium.com/p/1bde273d2238) |
 | Sat, 05 Jul 2025 23:21:39 GMT | We Accidentally Hacked a Government — Here’s What We Found in Their AI War Room | Sneha Rani | [Read More](https://medium.com/p/e2880e4523b8) |
 | Sat, 05 Jul 2025 22:55:04 GMT | Ka-Ka-Ka-Ken: What a British Comedy Taught Me About Cancer | Will2Endure | [Read More](https://medium.com/p/ef979766819b) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 15:48:44 GMT | I Sent the Blueprint to the Government. This is the Timestamp | The Architect (Jermaine A. Johnson) | [Read More](https://medium.com/p/0cd33f6eb4ba) |
 | Sat, 05 Jul 2025 15:44:25 GMT | IP & Port Tarama Uygulaması | Hasan Coskun | [Read More](https://medium.com/p/3aaae91e21a9) |
 | Sat, 05 Jul 2025 15:33:30 GMT | I'm Still the Same as I Was Years Ago | Brenda Mesquita | [Read More](https://medium.com/p/472b49d052c1) |
-| Sat, 05 Jul 2025 15:30:44 GMT | Cryptosystem — TryHackMe Room Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/b4350552af50) |
-| Sat, 05 Jul 2025 15:30:43 GMT | What I Learned from My First Wireshark Packet Capture! | Neha ravi | [Read More](https://medium.com/p/a5d0fea40fd2) |
-| Sat, 05 Jul 2025 15:27:45 GMT | Post-Exploitation with PowerShell Empire & Covenant: A Practical Walkthrough | Karthikeyan Nagaraj | [Read More](https://medium.com/p/0efc79ec6cc0) |
-| Sat, 05 Jul 2025 15:25:58 GMT | From “Oops!” to “Fortress”: My Journey to Building Secure Systems by Default | Aman Sharma | [Read More](https://medium.com/p/e4fb8d9ac0ad) |
-| Sat, 05 Jul 2025 15:24:57 GMT | From Code to Silicon: How Binary Powers the CPU and Microprocessor | Allen Ace | [Read More](https://medium.com/p/a9513aa6a2e4) |
-| Sat, 05 Jul 2025 15:19:55 GMT | Advanced API Access Control Testing with Burp Suite: Combining API Scanner + Autorize | Ekene Joseph | [Read More](https://medium.com/p/9c24c08e864e) |
-| Sat, 05 Jul 2025 15:18:55 GMT | Show Off; Life Is Not An | Imran Uz Zaman | [Read More](https://medium.com/p/2addb04a289b) |
