@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 23:15:50 GMT | ️ Active Directory Lab (Part 5): Connecting Client to Domain | Anivesh Mohan | [Read More](https://medium.com/p/ea4d09926d29) |
+| Sun, 06 Jul 2025 22:58:34 GMT | Nmap Basic Port Scans — TryHackMe | sercan timocin | [Read More](https://medium.com/p/ddff9bfaa2ae) |
+| Sun, 06 Jul 2025 22:49:34 GMT | SecOps in Action: GoPhish Sim #2 | TheMachine | [Read More](https://medium.com/p/afe23192c200) |
+| Sun, 06 Jul 2025 22:41:49 GMT | Exfiltrating Whatsapp messages via whatsapp-mcp | Arpit Kubadia | [Read More](https://medium.com/p/b8a654370c5e) |
 | Sun, 06 Jul 2025 22:31:15 GMT | STEEL MOUNTAIN WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/cf63a8191e9b) |
 | Sun, 06 Jul 2025 22:30:07 GMT | NGINX Log Analizi ile Güvenlik Tehditlerinin Tespiti ve Trafik Gözlem | Mustafa Caliskan | [Read More](https://medium.com/p/b9fad8ad078c) |
 | Sun, 06 Jul 2025 22:17:25 GMT | Exposing Values in Environment Variables | W. Jenks Gibbons | [Read More](https://medium.com/p/d7a4cc4889fe) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 15:10:37 GMT | HackTheBox- MetaTwo | jniket | [Read More](https://medium.com/p/757f43af3616) |
 | Sun, 06 Jul 2025 15:09:04 GMT | Nessus: A Silent Warrior Against Invisible Threats | LB Cyber Journal | [Read More](https://medium.com/p/056f13112094) |
 | Sun, 06 Jul 2025 15:08:24 GMT | The Real Pentesting Starter Pack: No Fluff, Just Labs and Grind | Corey Jones | [Read More](https://medium.com/p/9a79f2d0805d) |
-| Sun, 06 Jul 2025 15:03:34 GMT | Why It’s Completely Okay to Feel Not Okay | Karolina L | [Read More](https://medium.com/p/10d9bfb71e7e) |
-| Sun, 06 Jul 2025 15:02:40 GMT | “Nessus: অদৃশ্য শত্রুর বিরুদ্ধে এক নিঃশব্দ যোদ্ধা” | LB Cyber Journal | [Read More](https://medium.com/p/be7a39d7d9f0) |
-| Sun, 06 Jul 2025 15:00:20 GMT | Microsoft Authenticator Killing Passwords: Export Logins Now | Aj | [Read More](https://medium.com/p/9538b3b282c3) |
-| Sun, 06 Jul 2025 14:56:54 GMT | SSRF (Server Side Request Forgery) | Julio | [Read More](https://medium.com/p/2bee8b84d6b6) |
