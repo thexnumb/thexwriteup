@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 04:03:40 GMT | PortSwigger Lab: Username enumeration via Response Timing writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/d97e1fa97ac7) |
+| Sun, 06 Jul 2025 03:55:27 GMT | Kubernetes Pentesting for Everyone: Easy and Practical Security Insights | sindhuneupane | [Read More](https://medium.com/p/4bab0e7c17df) |
+| Sun, 06 Jul 2025 03:45:15 GMT | PortSwigger Lab: Username enumeration via subtly different responses writeup (Authentication… | awes0meness | [Read More](https://medium.com/p/ce3efa275946) |
+| Sun, 06 Jul 2025 03:41:41 GMT | PLOTTED-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/6987fc1edd68) |
+| Sun, 06 Jul 2025 03:34:32 GMT | PortSwigger Lab: Username enumeration via different responses writeup (Authentication… | awes0meness | [Read More](https://medium.com/p/cf4d53f0a8d0) |
 | Sun, 06 Jul 2025 03:33:23 GMT | EXPLORING THE FUTURE OF SMART LOCKS WITH SWITCHBOT | Eo | [Read More](https://medium.com/p/41e60d9d6af7) |
+| Sun, 06 Jul 2025 03:31:41 GMT | Cyber Threat in the Front Row: The Data Breach That Hit Legends International | Deven Chhajed | [Read More](https://medium.com/p/3cc2bea6dffe) |
 | Sun, 06 Jul 2025 03:25:14 GMT | Writing Pentest Reports - TryHackMe Walkthrough | santosh gadekar | [Read More](https://medium.com/p/1d5f20c7ffcc) |
 | Sun, 06 Jul 2025 03:20:16 GMT | O que é um firewall? | Lucas Novaes Antonio Filgueiras | [Read More](https://medium.com/p/d5dcaccaa7e9) |
 | Sun, 06 Jul 2025 03:16:43 GMT | JS.MAP Deep Recon for Bug Hunters | AbhirupKonwar | [Read More](https://medium.com/p/c9571a053fbb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 17:09:07 GMT | Accordare giusto e corretto: gli altri in breve | Ennio Martignago | [Read More](https://medium.com/p/06c913c03db0) |
 | Sat, 05 Jul 2025 17:08:48 GMT | “The Pentester Who Broke Our Prod: A Cloud Security Horror Story” | Sneha Rani | [Read More](https://medium.com/p/4be118d977d8) |
 | Sat, 05 Jul 2025 17:08:39 GMT | Before the Audit: Solidity Vulnerabilities | Universal_Photon | [Read More](https://medium.com/p/e91ae26be3fa) |
-| Sat, 05 Jul 2025 17:03:18 GMT | Legal Technology: Innovating the Future of Law | Barbascumpa Galina | [Read More](https://medium.com/p/29a4b0829d6e) |
-| Sat, 05 Jul 2025 16:53:55 GMT | Fluffy HTB Machine — A Deep Dive into Windows Active Directory Exploitation | Sameer Shah | [Read More](https://medium.com/p/d620e5457dcf) |
-| Sat, 05 Jul 2025 16:53:52 GMT | The Role of Governance, Risk & Compliance (GRC) in Modern Cybersecurity Frameworks | Richard Dosumu | [Read More](https://medium.com/p/ae5211c99716) |
-| Sat, 05 Jul 2025 16:53:22 GMT | Building FileSentinel: My First Defensive Cybersecurity Tool (and an Unexpected Friendship with… | Jeevanparajuli | [Read More](https://medium.com/p/6f9fa6c60e54) |
-| Sat, 05 Jul 2025 16:50:15 GMT | How a Social Icon Can Become a Threat Vector | vaaditya320 | [Read More](https://medium.com/p/58a2266ff685) |
-| Sat, 05 Jul 2025 16:42:25 GMT | Russia was blamed for attempting to Hack Border Security Cameras to disrupt Ukraine’s aid. | Athar | [Read More](https://medium.com/p/deef679cbd95) |
