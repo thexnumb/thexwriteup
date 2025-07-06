@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 09:28:31 GMT | La constancia: el verdadero secreto del Bug Bounty | Gorka | [Read More](https://medium.com/p/1c1e14305c6e) |
+| Sun, 06 Jul 2025 09:27:20 GMT | Smarter and Safer: How AI and On-Premise Strategies Are Redefining Document Processing in 2025 | PDF Reader Pro | [Read More](https://medium.com/p/a1a380447d8c) |
+| Sun, 06 Jul 2025 09:25:30 GMT | The Submarine That Nearly Started World War III | Muhammad Ali Khawar Butt | [Read More](https://medium.com/p/74a75e1bf340) |
+| Sun, 06 Jul 2025 09:23:55 GMT | Massive Federal Data Breach Traced to Insider Hack at Government Contractor | Jeremy Sanchez Aguiar | [Read More](https://medium.com/p/08bc7e5a00d7) |
+| Sun, 06 Jul 2025 09:20:21 GMT | The Karnataka Fake News Bill, 2025: A Legal Perspective on Free Speech, Regulation, and… | AK JURIS ADVOCATES | [Read More](https://medium.com/p/e9b05d6caca0) |
+| Sun, 06 Jul 2025 09:17:55 GMT | THM - Order | Francesco Pastore | [Read More](https://medium.com/p/8b8760f0d784) |
+| Sun, 06 Jul 2025 09:17:36 GMT | How To Use Reddit for SaaS Marketing | Raf Vantongerloo | [Read More](https://medium.com/p/2b0b64fef1e3) |
 | Sun, 06 Jul 2025 09:16:14 GMT | ISO 27001 ile Bilgi Güvenliğine Yolculuk — 1 | İrem Çagla Demirtaş | [Read More](https://medium.com/p/befcf445deec) |
+| Sun, 06 Jul 2025 09:16:00 GMT | THM - Cipher’s Secret Message | Francesco Pastore | [Read More](https://medium.com/p/1fbeab963219) |
+| Sun, 06 Jul 2025 09:14:44 GMT | THM - Cryptosystem | Francesco Pastore | [Read More](https://medium.com/p/d6110a4058f0) |
 | Sun, 06 Jul 2025 09:08:30 GMT | THM - DarkMatter | Francesco Pastore | [Read More](https://medium.com/p/e9b374915dfb) |
 | Sun, 06 Jul 2025 09:05:23 GMT | Gen AI: Decoding Hacker’s Playbooks | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/4c6f69f8956b) |
 | Sun, 06 Jul 2025 09:04:47 GMT | def count_gmail_accounts(9491389734): gmail_accounts = [] for number in numbers: gmail_account =… | Bhuvan Yenda | [Read More](https://medium.com/p/f0772c5b828d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 02:00:54 GMT | ️ Active Directory Project (Part 4): Static IP & DNS Setup for Domain Communication | Anivesh Mohan | [Read More](https://medium.com/p/189ba275a8d4) |
 | Sun, 06 Jul 2025 01:52:56 GMT | Oski Lab Walkthrough (CyberDefenders) | Achuth Chandra | [Read More](https://medium.com/p/f272b06f1b74) |
 | Sun, 06 Jul 2025 01:16:52 GMT | Museum of failure or gallery of trying? | Human. | [Read More](https://medium.com/p/67bc3928b7ee) |
-| Sun, 06 Jul 2025 01:04:41 GMT | Many Canva Designs Exposed with Edit Access on Google | Alan Levy | [Read More](https://medium.com/p/ec45e5291c46) |
-| Sun, 06 Jul 2025 00:59:04 GMT | Kali Linux Log Dosyaları | İsmail Demir | [Read More](https://medium.com/p/39c3c98ac877) |
-| Sun, 06 Jul 2025 00:50:19 GMT | The Glitch Who Hacked The Net | Lpha-Zo | [Read More](https://medium.com/p/3f29e4a17c8f) |
-| Sat, 05 Jul 2025 23:43:44 GMT | Why You’re Not Getting Hired in Cybersecurity In 2025 | Taimur Ijlal | [Read More](https://medium.com/p/90a71104e88d) |
-| Sat, 05 Jul 2025 23:41:52 GMT | Lupine VulnHub CTF Walkthrough — SSH Key Leak, Python Hijack & Root via pip (GTFOBins) | Basit Olasubomi Balogun | [Read More](https://medium.com/p/dde7f2ec149c) |
-| Sat, 05 Jul 2025 23:30:25 GMT | Cuttlefish2: Jira bug similarity search(and RAG) | Heemeng Foo | [Read More](https://medium.com/p/1bde273d2238) |
-| Sat, 05 Jul 2025 23:21:39 GMT | We Accidentally Hacked a Government — Here’s What We Found in Their AI War Room | Sneha Rani | [Read More](https://medium.com/p/e2880e4523b8) |
-| Sat, 05 Jul 2025 22:55:04 GMT | Ka-Ka-Ka-Ken: What a British Comedy Taught Me About Cancer | Will2Endure | [Read More](https://medium.com/p/ef979766819b) |
-| Sat, 05 Jul 2025 22:55:01 GMT | SSTI(Server-side template injection) | Azer Abdullazde | [Read More](https://medium.com/p/d6a5d86171f0) |
