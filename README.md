@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 15:11:18 GMT | STIX and TAXII | Abhinav Pathak | [Read More](https://medium.com/p/490859c43c45) |
+| Sun, 06 Jul 2025 15:10:37 GMT | HackTheBox- MetaTwo | jniket | [Read More](https://medium.com/p/757f43af3616) |
+| Sun, 06 Jul 2025 15:09:04 GMT | Nessus: A Silent Warrior Against Invisible Threats | LB Cyber Journal | [Read More](https://medium.com/p/056f13112094) |
+| Sun, 06 Jul 2025 15:08:24 GMT | The Real Pentesting Starter Pack: No Fluff, Just Labs and Grind | Corey Jones | [Read More](https://medium.com/p/9a79f2d0805d) |
+| Sun, 06 Jul 2025 15:03:34 GMT | Why It’s Completely Okay to Feel Not Okay | Karolina L | [Read More](https://medium.com/p/10d9bfb71e7e) |
+| Sun, 06 Jul 2025 15:02:40 GMT | “Nessus: অদৃশ্য শত্রুর বিরুদ্ধে এক নিঃশব্দ যোদ্ধা” | LB Cyber Journal | [Read More](https://medium.com/p/be7a39d7d9f0) |
+| Sun, 06 Jul 2025 15:00:20 GMT | Microsoft Authenticator Killing Passwords: Export Logins Now | Aj | [Read More](https://medium.com/p/9538b3b282c3) |
+| Sun, 06 Jul 2025 14:56:54 GMT | SSRF (Server Side Request Forgery) | Julio | [Read More](https://medium.com/p/2bee8b84d6b6) |
+| Sun, 06 Jul 2025 14:55:20 GMT | TryHackMe: Writing Pentest Reports — Room Completed | Vikash Yadav | [Read More](https://medium.com/p/06a54570e779) |
+| Sun, 06 Jul 2025 14:52:24 GMT | Windows Security Audit Using Pure CMD — Lightweight Compliance & Hardening Check | ArthurXXII | [Read More](https://medium.com/p/0c63e034f66c) |
+| Sun, 06 Jul 2025 14:51:48 GMT | Cracking Cipher’s Message: TryHackMe Hackfinity ORDER Room Write-Up | Ayr1n | [Read More](https://medium.com/p/3449e2a42651) |
+| Sun, 06 Jul 2025 14:47:18 GMT | From Vision to Version: Evolving Radar Love with Flags, Validation, and CI Swagger | Raymon Epping | [Read More](https://medium.com/p/83610d549412) |
+| Sun, 06 Jul 2025 14:45:41 GMT | Fetch scan results from CheckmarxOne! — REST APIs | Aymen Abdelwahed | [Read More](https://medium.com/p/14fd00425563) |
+| Sun, 06 Jul 2025 14:42:18 GMT | Head(er) Games: How I Turned CORS Misconfig into a Full Data Dump | Iski | [Read More](https://medium.com/p/de8d70552221) |
 | Sun, 06 Jul 2025 14:42:16 GMT | Exploring Model Context Protocol (MCP) | Dom Whewell | [Read More](https://medium.com/p/bca7175347fd) |
+| Sun, 06 Jul 2025 14:38:12 GMT | AI Chatbots Are Reshaping Search – 3 Top Altcoins Poised to Benefit | Mark Peterson | [Read More](https://medium.com/p/5e9343c6ab73) |
 | Sun, 06 Jul 2025 14:36:46 GMT | xlmrat Lab by CyberDefenders | Ahmedelshoura | [Read More](https://medium.com/p/09fe85fc5785) |
 | Sun, 06 Jul 2025 14:33:49 GMT | THM-Writing Pentest Report:- | Mohit Sharma | [Read More](https://medium.com/p/9e0cfc09a7cf) |
 | Sun, 06 Jul 2025 14:33:44 GMT | ☁️ Cloud-Native Threats: Securing the Modern Attack Surface in 2025 | Mr Joe | [Read More](https://medium.com/p/c7f8980d22e2) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 08:12:38 GMT | Path Traversal part-2 : traversal sequences blocked with absolute path bypass | Ahmad Sopyan | [Read More](https://medium.com/p/ff92a1722f31) |
 | Sun, 06 Jul 2025 08:11:55 GMT | Let’s Talk About: ➡️ ZAMA | Kadua Nganu | [Read More](https://medium.com/p/53da0392d9b9) |
 | Sun, 06 Jul 2025 08:10:10 GMT | Коли кібершпигунство стає головною зброєю: розбір операції STFD-686 | CYBERFIELD NET | [Read More](https://medium.com/p/df61a0dc07b4) |
-| Sun, 06 Jul 2025 08:06:41 GMT | BlockSec｜In-depth Analysis and Reflections on the Resupply Protocol Attack Incident | BlockSec | [Read More](https://medium.com/p/932be23e1433) |
-| Sun, 06 Jul 2025 08:05:55 GMT | Order - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/c7ba41e3b369) |
-| Sun, 06 Jul 2025 07:51:30 GMT | ZoomEye Dorking for API Keys | AbhirupKonwar | [Read More](https://medium.com/p/cf77d61604bc) |
-| Sun, 06 Jul 2025 07:50:44 GMT | برنامج Copilot من Microsoft: شرح المزايا، العيوب، وطريقة التفعيل بالكامل | katibatech | [Read More](https://medium.com/p/6c03cd46f3eb) |
-| Sun, 06 Jul 2025 07:47:07 GMT | When Technology Masks Crime: A Deep Dive into the Tools Behind the Chennai Bomb Hoax | J Koushalyashree | [Read More](https://medium.com/p/53375608f06d) |
-| Sun, 06 Jul 2025 07:46:41 GMT | NoSQL Injection: From Operator Mischief to Syntax Chaos — My TryHackMe Walkthrough | FS0CI3TY | [Read More](https://medium.com/p/b03a08bfbd31) |
-| Sun, 06 Jul 2025 07:46:07 GMT | Risks of multi modal AI | Moushmi | [Read More](https://medium.com/p/15d813186e85) |
-| Sun, 06 Jul 2025 07:43:41 GMT | Credential Dumping via NTDS.dit: A Hands-On Guide for Red and Blue Teams | cybrNK | [Read More](https://medium.com/p/efa20ee3266d) |
-| Sun, 06 Jul 2025 07:40:47 GMT | What If Your DNA Got Hacked? Welcome to the Dark Side of Bioinformatics | Ujjain S | [Read More](https://medium.com/p/517784fb8778) |
-| Sun, 06 Jul 2025 07:38:06 GMT | Today’s Top Cyber Intelligence Highlights — Jul 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/861aef89a86f) |
-| Sun, 06 Jul 2025 07:37:11 GMT | Simulating a (Man-in-the-Middle) MitM attack | Abiolaoluwatuyi | [Read More](https://medium.com/p/94ad36dc62fb) |
-| Sun, 06 Jul 2025 07:37:02 GMT | AI in Cybersecurity: A Double-Edged Sword for Hackers and Defenders | Sakthimurugan S | [Read More](https://medium.com/p/46cfaed484bc) |
-| Sun, 06 Jul 2025 07:31:05 GMT | ProxyChains in Kali Linux | Harsh Master | [Read More](https://medium.com/p/f06809723bcf) |
-| Sun, 06 Jul 2025 07:28:55 GMT | Meta CTF 2024: ConnectWind Internal Employee Portal | Bridget | [Read More](https://medium.com/p/fda2570090f4) |
-| Sun, 06 Jul 2025 07:28:39 GMT | Basic Pentesting - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/c15b055a78ae) |
