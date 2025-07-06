@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 03:33:23 GMT | EXPLORING THE FUTURE OF SMART LOCKS WITH SWITCHBOT | Eo | [Read More](https://medium.com/p/41e60d9d6af7) |
+| Sun, 06 Jul 2025 03:25:14 GMT | Writing Pentest Reports - TryHackMe Walkthrough | santosh gadekar | [Read More](https://medium.com/p/1d5f20c7ffcc) |
+| Sun, 06 Jul 2025 03:20:16 GMT | O que é um firewall? | Lucas Novaes Antonio Filgueiras | [Read More](https://medium.com/p/d5dcaccaa7e9) |
+| Sun, 06 Jul 2025 03:16:43 GMT | JS.MAP Deep Recon for Bug Hunters | AbhirupKonwar | [Read More](https://medium.com/p/c9571a053fbb) |
+| Sun, 06 Jul 2025 03:01:24 GMT | The Hacking Tool Chronicles: 30 Years of Netcat | Ian Barwise | [Read More](https://medium.com/p/39ad27d6c730) |
+| Sun, 06 Jul 2025 02:51:13 GMT | How to Bypass WAFs with Just One cURL Command (Ethically) | Darshan | [Read More](https://medium.com/p/b8201d2729a2) |
+| Sun, 06 Jul 2025 02:19:26 GMT | Try hack me -Colddbox Challenge Write up | Cybare | [Read More](https://medium.com/p/15e524a194b2) |
+| Sun, 06 Jul 2025 02:11:52 GMT | A Missive on the Perils and Protections in Our Digital Epoch | 陳宏傑 & Markus Patrick Chan | [Read More](https://medium.com/p/d87a207ea434) |
+| Sun, 06 Jul 2025 02:05:51 GMT | Not rich or famous? It doesn’t matter to cybercriminals. They will piece your information together. | David SEHYEON Baek | [Read More](https://medium.com/p/00ade0306f7a) |
+| Sun, 06 Jul 2025 02:00:54 GMT | ️ Active Directory Project (Part 4): Static IP & DNS Setup for Domain Communication | Anivesh Mohan | [Read More](https://medium.com/p/189ba275a8d4) |
 | Sun, 06 Jul 2025 01:52:56 GMT | Oski Lab Walkthrough (CyberDefenders) | Achuth Chandra | [Read More](https://medium.com/p/f272b06f1b74) |
 | Sun, 06 Jul 2025 01:16:52 GMT | Museum of failure or gallery of trying? | Human. | [Read More](https://medium.com/p/67bc3928b7ee) |
 | Sun, 06 Jul 2025 01:04:41 GMT | Many Canva Designs Exposed with Edit Access on Google | Alan Levy | [Read More](https://medium.com/p/ec45e5291c46) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 16:53:22 GMT | Building FileSentinel: My First Defensive Cybersecurity Tool (and an Unexpected Friendship with… | Jeevanparajuli | [Read More](https://medium.com/p/6f9fa6c60e54) |
 | Sat, 05 Jul 2025 16:50:15 GMT | How a Social Icon Can Become a Threat Vector | vaaditya320 | [Read More](https://medium.com/p/58a2266ff685) |
 | Sat, 05 Jul 2025 16:42:25 GMT | Russia was blamed for attempting to Hack Border Security Cameras to disrupt Ukraine’s aid. | Athar | [Read More](https://medium.com/p/deef679cbd95) |
-| Sat, 05 Jul 2025 16:33:07 GMT | Passive Reconnaissance — TryHackMe | sercan timocin | [Read More](https://medium.com/p/9ca69e23c805) |
-| Sat, 05 Jul 2025 16:21:20 GMT | How a Social Icon Can Become a Threat Vector | vaaditya320 | [Read More](https://medium.com/p/c041e0b43d0a) |
-| Sat, 05 Jul 2025 16:13:27 GMT | Inside the Bybit Hack (Feb 2025) — What Went Wrong & How to Stop It Happening Again | Ikigai Academy | [Read More](https://medium.com/p/5b7721471435) |
-| Sat, 05 Jul 2025 16:05:44 GMT | The importance of URL enumeration | yee-yore | [Read More](https://medium.com/p/f6b579efd874) |
-| Sat, 05 Jul 2025 16:04:03 GMT | Top 5 Cybersecurity Trends Shaping 2025 And What They Mean for You. | Aleeko | [Read More](https://medium.com/p/7be862ea4976) |
-| Sat, 05 Jul 2025 16:02:30 GMT | Get Bugs Bunny (BUGS) Rewards and Maximize APY | Jessica
- Roberts | [Read More](https://medium.com/p/e6b23543bf86) |
-| Sat, 05 Jul 2025 15:55:12 GMT | How to Build Truth Infrastructure in an Age of Synthetic Signals | Prince Esien | [Read More](https://medium.com/p/1ad28e52b8c3) |
-| Sat, 05 Jul 2025 15:48:44 GMT | I Sent the Blueprint to the Government. This is the Timestamp | The Architect (Jermaine A. Johnson) | [Read More](https://medium.com/p/0cd33f6eb4ba) |
-| Sat, 05 Jul 2025 15:44:25 GMT | IP & Port Tarama Uygulaması | Hasan Coskun | [Read More](https://medium.com/p/3aaae91e21a9) |
-| Sat, 05 Jul 2025 15:33:30 GMT | I'm Still the Same as I Was Years Ago | Brenda Mesquita | [Read More](https://medium.com/p/472b49d052c1) |
