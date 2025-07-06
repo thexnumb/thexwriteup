@@ -12,9 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 07:17:05 GMT | Day 1: Foundations of Network Defense & Information Assurance [Exploitation Analyst-Cybersecurity] | 64_Aditya Kumar | [Read More](https://medium.com/p/7da78c4b0b34) |
+| Sun, 06 Jul 2025 07:10:15 GMT | TryHackMe — Writing a Penetration Testing Report | TheSocialHacker | [Read More](https://medium.com/p/f38b68d58087) |
+| Sun, 06 Jul 2025 07:07:28 GMT | Building KiraHash: My Journey Creating an Ethical Password Security Toolkit | ilesanmi sulaimon | [Read More](https://medium.com/p/2a8fffffc843) |
+| Sun, 06 Jul 2025 07:07:09 GMT | How to Choose the Right CRM Software for Your Business: IT Solutions for Sales and Marketing | Rapidise Inc | [Read More](https://medium.com/p/f92163e3f581) |
+| Sun, 06 Jul 2025 06:55:43 GMT | The Right to Be Forgotten: Why It Matters in an Unforgiving Internet | Ritabrato Biswas | [Read More](https://medium.com/p/42e48bf951a2) |
+| Sun, 06 Jul 2025 06:54:33 GMT | Crypto Security Market Size Will Exceed $21 Billion by 2032–Report | Tony Philips | [Read More](https://medium.com/p/a8f1b966994b) |
+| Sun, 06 Jul 2025 06:53:25 GMT | CTF Day(25) | Ahmed Narmer | [Read More](https://medium.com/p/2c8a7a50e903) |
+| Sun, 06 Jul 2025 06:52:15 GMT | Squid Router in Enterprise Environments | Binary Rhys Liam Smith | [Read More](https://medium.com/p/153680146df4) |
+| Sun, 06 Jul 2025 06:46:12 GMT | Squid Router Security: Protecting Your Network | Beacon Felix Owen Cole | [Read More](https://medium.com/p/fd1baf4921a5) |
+| Sun, 06 Jul 2025 06:45:40 GMT | IMF CTF 2025 | Bridget | [Read More](https://medium.com/p/70c92d531834) |
+| Sun, 06 Jul 2025 06:36:37 GMT | From Chaos  to Clarity ✨: Build Your First Smart Log Pipeline with NXLog | Amit Ambekar | [Read More](https://medium.com/p/d7f1e4e55168) |
+| Sun, 06 Jul 2025 06:33:46 GMT | Mr. Robot | merkle | [Read More](https://medium.com/p/64cc1c0a9d75) |
+| Sun, 06 Jul 2025 06:33:18 GMT | Path Traversal part-1 : File path traversal, simple case | Ahmad Sopyan | [Read More](https://medium.com/p/feabd380b997) |
+| Sun, 06 Jul 2025 06:32:37 GMT | The Architecture of Squid Router: Inside the Technology | Binary Anya Faye Hope | [Read More](https://medium.com/p/d4ea090ab44c) |
+| Sun, 06 Jul 2025 06:28:31 GMT | Three-Tier Web Application Security Part 1 : Attack Surface | suktech24 | [Read More](https://medium.com/p/3089ffd5bf5a) |
+| Sun, 06 Jul 2025 06:26:52 GMT | Why NFS Version Matters in Cybersecurity: NFSv3 vs NFSv4 | Faraz Ishaq | [Read More](https://medium.com/p/eb41f6669846) |
 | Sun, 06 Jul 2025 06:24:56 GMT | From Open Redirect to Internal Access: My SSRF Exploit Story | Pratik Dabhi | [Read More](https://medium.com/p/10a736962f98) |
+| Sun, 06 Jul 2025 06:24:43 GMT | OSINT: How to Find Hidden Data Leaks Using Free Tools | Aj | [Read More](https://medium.com/p/b1f1613dc638) |
 | Sun, 06 Jul 2025 06:24:32 GMT | $600 Bounty: How Revealed Hidden Read Receipts in Bumble’s Chat API | Monika sharma | [Read More](https://medium.com/p/53bc06c987f5) |
 | Sun, 06 Jul 2025 06:24:17 GMT | Nuclei with AI: Scan Websites Using Natural Language Prompts | Om Maniya | [Read More](https://medium.com/p/be6146ee376a) |
+| Sun, 06 Jul 2025 06:24:07 GMT | ️‍♂️ The Bucket That Shouldn’t Exist: How I Got Full Access to 50GB+ of Sensitive Government Data | LordofHeaven | [Read More](https://medium.com/p/a4cdc39c16e8) |
+| Sun, 06 Jul 2025 06:19:25 GMT | Hacking AI-Powered Web Applications: The New Frontier of Offensive Security | Ezekiel peter | [Read More](https://medium.com/p/34b10bb86fe0) |
 | Sun, 06 Jul 2025 06:13:43 GMT | Quantum Computing Explained: The Future of Tech? | Sagar Majumdar | [Read More](https://medium.com/p/5775b7e64663) |
 | Sun, 06 Jul 2025 06:11:40 GMT | Edge of Tomorrow: ERP Meets the Time-Series Database | Namir Sagheenanajar | [Read More](https://medium.com/p/a2964bba93cd) |
 | Sun, 06 Jul 2025 06:07:15 GMT | Here’s what I learned after solving 5 Path Traversal Labs. | Rabia Riaz | [Read More](https://medium.com/p/c8676b126422) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 20:06:58 GMT | Bridging Security Gaps: A Practical Comparison of Leading Vulnerability Scanners | Naudy Castellanos | [Read More](https://medium.com/p/2aaa286c2d2e) |
 | Sat, 05 Jul 2025 19:56:02 GMT | Why Signing In with a PIN Isn’t Just a Shorter Password and Why That Matters | Peter Sikabonyi | [Read More](https://medium.com/p/0b1ccf8a4e65) |
 | Sat, 05 Jul 2025 19:53:29 GMT | Novas ferramentas de Inteligência Artificial (IA) para Pentest | Marcos Flávio Araújo Assunção | [Read More](https://medium.com/p/fcac85545525) |
-| Sat, 05 Jul 2025 19:51:10 GMT | The Phantom Embrace. | Dhiki Halghi | [Read More](https://medium.com/p/272421510464) |
-| Sat, 05 Jul 2025 19:47:12 GMT | Ransomware Attack Simulation: Custom Ransomware Creation, Delivery, Evasion, and Control | Yazan Al Balawi | [Read More](https://medium.com/p/bda1f47363ba) |
-| Sat, 05 Jul 2025 19:36:59 GMT | How Loofta is Changing the Game for Web3 Creators (and How You Can Start Earning Today) | Saffronsage | [Read More](https://medium.com/p/89e5825cbdb9) |
-| Sat, 05 Jul 2025 19:36:57 GMT | Mastering Life After 50: A Guide to Happiness | Yettalee | [Read More](https://medium.com/p/53ccbcaee5d1) |
-| Sat, 05 Jul 2025 19:35:28 GMT | What is Cyber Hygiene and Why It Matters Today. | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/fca81e16eadf) |
-| Sat, 05 Jul 2025 19:34:42 GMT | She Was Told She Couldn’t Love. What Happened Next Hit Me Right in the Truth | Pratibha Singh | [Read More](https://medium.com/p/ba0309c5a877) |
-| Sat, 05 Jul 2025 19:19:21 GMT | Phishing Email Awareness Series: Part-5 | Leetsec Sarwar | [Read More](https://medium.com/p/f2d6904b21d1) |
-| Sat, 05 Jul 2025 19:18:43 GMT | From Idea to Execution: Building an Entire CTF in Just 1 Day! | Priyansh | [Read More](https://medium.com/p/d11db88f7b6c) |
-| Sat, 05 Jul 2025 19:16:35 GMT | Who’s Writing? | 3S | [Read More](https://medium.com/p/93f0ac368ce0) |
-| Sat, 05 Jul 2025 19:07:09 GMT | They Tried to Erase Me. I’m Writing Myself Back In. | Soul girl | [Read More](https://medium.com/p/385ebe0aabff) |
-| Sat, 05 Jul 2025 19:06:44 GMT | Network Reconnaissance as a Way of Seeing the Invisible | Chris Veleris | [Read More](https://medium.com/p/a19580e8e18d) |
-| Sat, 05 Jul 2025 19:05:44 GMT | Certificates : CA-Signed vs Self-Signed — sravanjs.in | Sravan JS | [Read More](https://medium.com/p/a33bad9a4c04) |
-| Sat, 05 Jul 2025 18:51:44 GMT | $140M Vanished in Brazil: Central Bank Hack Exposes Flaws in Centralized Systems | CoinGen | [Read More](https://medium.com/p/9d649d20b5b4) |
-| Sat, 05 Jul 2025 18:51:39 GMT | Level 1 → 2 - Bandit Wargame — OverTheWire | Wizard-Of-Oz | [Read More](https://medium.com/p/6c865aa9f30d) |
-| Sat, 05 Jul 2025 18:51:18 GMT | Race Condition — can you run faster? | Olufela Osideko | [Read More](https://medium.com/p/3fa841cef8a3) |
-| Sat, 05 Jul 2025 18:45:08 GMT | الربح من خمسات 2025: دليلك الشامل للمبتدئين في العمل الحر | katibatech | [Read More](https://medium.com/p/0b8ebad78919) |
-| Sat, 05 Jul 2025 18:43:53 GMT | MurmurHash: The Scrappy Algorithm That Secretly Powers Half the Internet | Ashutosh Jha | [Read More](https://medium.com/p/2d3f79b4509b) |
-| Sat, 05 Jul 2025 18:37:09 GMT | Bypassing 2FA in GraphQL APIs: A Step-by-Step Guide | Medusa | [Read More](https://medium.com/p/4b73816bd4c3) |
-| Sat, 05 Jul 2025 18:34:59 GMT | ✅ Level 0 → 1 - Bandit Wargame — OverTheWire | Wizard-Of-Oz | [Read More](https://medium.com/p/394af3a64454) |
