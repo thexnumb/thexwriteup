@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 08:36:41 GMT | Fixed a Weird Async Bug After 2 Hours — and Finally Understood the JavaScript Event Loop | Sarayavalasaravikiran | [Read More](https://medium.com/p/55efac581d7f) |
+| Sun, 06 Jul 2025 08:35:15 GMT | Week 3—Learning Basic Concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/c68a72096e07) |
+| Sun, 06 Jul 2025 08:32:20 GMT | TryHackMe - Windows Network Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/048f0a9e051a) |
 | Sun, 06 Jul 2025 08:16:54 GMT | Agile Mindset Beyond IT: How Standups and Sprints Shape My Daily Life | Himanshunya | [Read More](https://medium.com/p/46f51c0e099e) |
 | Sun, 06 Jul 2025 08:12:38 GMT | Path Traversal part-2 : traversal sequences blocked with absolute path bypass | Ahmad Sopyan | [Read More](https://medium.com/p/ff92a1722f31) |
 | Sun, 06 Jul 2025 08:11:55 GMT | Let’s Talk About: ➡️ ZAMA | Kadua Nganu | [Read More](https://medium.com/p/53da0392d9b9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 21:45:29 GMT | Controlled Chaos: Multi-Layered CSRF Defense Using Dynamic Header Dispersion | Fernando Flores Alvarado | [Read More](https://medium.com/p/a14926288207) |
 | Sat, 05 Jul 2025 21:38:37 GMT | Ransomware Isn’t a File — It’s a Strategy: What Defenders Still Get Wrong | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/29a3d3646525) |
 | Sat, 05 Jul 2025 21:35:09 GMT | Confidential Computing: Securing Data in Use | Sourav Paul | [Read More](https://medium.com/p/98770864b176) |
-| Sat, 05 Jul 2025 21:34:35 GMT | Hello hacker’s , | Cenman | [Read More](https://medium.com/p/03e94add052d) |
-| Sat, 05 Jul 2025 21:32:19 GMT | Back to Kali: Securing Reverse Shell Access | 9purp0s3 - Steven | [Read More](https://medium.com/p/563f2793cc07) |
-| Sat, 05 Jul 2025 21:31:21 GMT | Red Team Adaptation in the Age of Agentic AI | january1073 | [Read More](https://medium.com/p/61ab4993386e) |
