@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 19:15:16 GMT | Cybersecurity in the Digital Age: Be Aware, Not Afraid | Noman Akbar Khan | [Read More](https://medium.com/p/6a67388247f6) |
+| Sun, 06 Jul 2025 19:10:31 GMT | Protegendo sua Rede Doméstica e Corporativa com Pi-hole | byFranke | [Read More](https://medium.com/p/cc43da5c7ed9) |
+| Sun, 06 Jul 2025 19:08:17 GMT | 25 Windows Commands That Will Make You Look Like a Hacker (Even Though You’re Probably Not) | Sean Byrne | [Read More](https://medium.com/p/f961016fa37b) |
+| Sun, 06 Jul 2025 18:59:55 GMT | The Most Dangerous One-Liners in Bash and Python (and How to Spot Them) | Code With Hannan | [Read More](https://medium.com/p/7e981894d537) |
+| Sun, 06 Jul 2025 18:54:21 GMT | VAPT Report on HTTPAPI Services in Windows 10 Healthcare Endpoint | Aditya Bhatt | [Read More](https://medium.com/p/d4adb82e2877) |
 | Sun, 06 Jul 2025 18:36:41 GMT | Detecting Phishing Attacks Through URL Feature Analysis and Machine Learning Models | Montaserabdulhamid | [Read More](https://medium.com/p/d238a59c08b8) |
 | Sun, 06 Jul 2025 18:35:18 GMT | Basic IP-lookup Automation Script for VirusTotal | Evs | [Read More](https://medium.com/p/0e590cfbc126) |
 | Sun, 06 Jul 2025 18:34:33 GMT | ️ The Best Cybersecurity Tools for Freelance Developers in 2025 (Free + Paid) | Abdul Rehman Khan | [Read More](https://medium.com/p/64becf974e81) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 13:14:53 GMT | The Ghost CI Attack: How Deleted GitHub Workflows Can Still Haunt You | Đeepanshu | [Read More](https://medium.com/p/5a3112256b31) |
 | Sun, 06 Jul 2025 13:14:52 GMT | How Zero‑Click LLM Attacks Hijack Your AI and How to Shield Yourself | Harishkumar Pillai | [Read More](https://medium.com/p/1c56358e4385) |
 | Sun, 06 Jul 2025 13:10:46 GMT | Modernization of the IT Industry Across the World: A Global Perspective | Mukesh Dubey | [Read More](https://medium.com/p/58a7a8296a56) |
-| Sun, 06 Jul 2025 13:04:44 GMT | Small Business Cyber Threats? Get Real-Time Alerts Before Damage Is Done | Sraj | [Read More](https://medium.com/p/0422f9296e5d) |
-| Sun, 06 Jul 2025 13:02:59 GMT | Inside the Refund Scam: How Scammers Use HTML Edits to Fake Bank Transfers | Shaun Fulton | [Read More](https://medium.com/p/030d37670229) |
-| Sun, 06 Jul 2025 13:02:57 GMT | Collective Intelligence: Realities and Hardships of Crowdsourced Threat Intel — Part 1 | Fry Rob | [Read More](https://medium.com/p/a0ebd0707a8e) |
-| Sun, 06 Jul 2025 13:02:55 GMT | What Executives Need to Know About AI Policy and Why | devsecops | [Read More](https://medium.com/p/2a187e14aca7) |
-| Sun, 06 Jul 2025 12:54:32 GMT | ⚔️ AI vs Attackers: Can LLMs Defend Your Network? | Paritosh | [Read More](https://medium.com/p/a7bfc8a43396) |
