@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 17:22:48 GMT | Why DSP Consultants Is a Go-To for Physical Security Design in Dubai | Reviews | [Read More](https://medium.com/p/376bf2ea51b8) |
+| Sun, 06 Jul 2025 17:20:11 GMT | Cipher’s Secret Message — TryHackMe Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/f9032620eb56) |
+| Sun, 06 Jul 2025 17:19:04 GMT | Why Heartbleed Was So Devastating | Dennis Peter Munyao | [Read More](https://medium.com/p/271571c96ec6) |
+| Sun, 06 Jul 2025 17:18:20 GMT | How I Built a Real-Time “Failed Login” Alert System for My AWS Account | Aashishchaudhari | [Read More](https://medium.com/p/2b11cf42b1aa) |
 | Sun, 06 Jul 2025 17:17:08 GMT | Host Static Websites with NGINX — Fast, Secure & Free (Full Step-by-Step Guide) | Ashish Singh | [Read More](https://medium.com/p/57ecd15e0c1b) |
 | Sun, 06 Jul 2025 17:04:47 GMT | AgentX Isn’t What You Think It Is — And That’s a Good Thing.❗ | SupportXDR | [Read More](https://medium.com/p/6a21b45cb474) |
 | Sun, 06 Jul 2025 17:04:23 GMT | Is Public Wi-Fi Safe? What Actually Happens Under the Hood | Neha ravi | [Read More](https://medium.com/p/f70f4d3d9468) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 11:05:25 GMT | How One Dev’s Obsession Saved the Internet (and Why Your Memes Are Still Safe) | Arnav Jalan | [Read More](https://medium.com/p/6fc5e573a892) |
 | Sun, 06 Jul 2025 11:02:44 GMT | Secure Your Home 24/7 with Professional CCTV Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/b4f4b21ac136) |
 | Sun, 06 Jul 2025 11:01:35 GMT | I Decided to Deep Learn DNS — Here’s What I Learned | Vishnuprasad O | [Read More](https://medium.com/p/9b8a42a6dd55) |
-| Sun, 06 Jul 2025 10:55:29 GMT | Numbness Is Just Another Kind of Drowning | Sheetal Singh | [Read More](https://medium.com/p/8efaf559105c) |
-| Sun, 06 Jul 2025 10:42:52 GMT | Penetration Testing: What It Is and Why It’s Critical for Cybersecurity | Charter Global | [Read More](https://medium.com/p/267f83f77bcf) |
-| Sun, 06 Jul 2025 10:39:01 GMT | Building Secure API with Spring Boot | Jaytech | [Read More](https://medium.com/p/ac871170b0a4) |
-| Sun, 06 Jul 2025 10:37:44 GMT | DAY 6 — Forensic Memory Investigation. | Jinay | [Read More](https://medium.com/p/5b375ef20f4c) |
