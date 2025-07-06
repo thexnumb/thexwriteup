@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 07:31:05 GMT | ProxyChains in Kali Linux | Harsh Master | [Read More](https://medium.com/p/f06809723bcf) |
+| Sun, 06 Jul 2025 07:28:55 GMT | Meta CTF 2024: ConnectWind Internal Employee Portal | Bridget | [Read More](https://medium.com/p/fda2570090f4) |
+| Sun, 06 Jul 2025 07:28:39 GMT | Basic Pentesting - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/c15b055a78ae) |
+| Sun, 06 Jul 2025 07:28:32 GMT | Cara Membangun Lab Hacking Terisolasi dengan VirtualBox (Kali linux + Metasploitable 2) | Nurilhamnurdin | [Read More](https://medium.com/p/d9cee6625f4e) |
+| Sun, 06 Jul 2025 07:23:04 GMT | Penetration Testing Report Writing Guide | Sridhar S | [Read More](https://medium.com/p/327e11bab7df) |
 | Sun, 06 Jul 2025 07:17:05 GMT | Day 1: Foundations of Network Defense & Information Assurance [Exploitation Analyst-Cybersecurity] | 64_Aditya Kumar | [Read More](https://medium.com/p/7da78c4b0b34) |
+| Sun, 06 Jul 2025 07:16:48 GMT | When You Can Just… Change Your Email. No OTP. No Questions Asked. Just Vibes. | Vijay Kumar Gupta | [Read More](https://medium.com/p/fc89db324366) |
 | Sun, 06 Jul 2025 07:10:15 GMT | TryHackMe — Writing a Penetration Testing Report | TheSocialHacker | [Read More](https://medium.com/p/f38b68d58087) |
 | Sun, 06 Jul 2025 07:07:28 GMT | Building KiraHash: My Journey Creating an Ethical Password Security Toolkit | ilesanmi sulaimon | [Read More](https://medium.com/p/2a8fffffc843) |
 | Sun, 06 Jul 2025 07:07:09 GMT | How to Choose the Right CRM Software for Your Business: IT Solutions for Sales and Marketing | Rapidise Inc | [Read More](https://medium.com/p/f92163e3f581) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 05 Jul 2025 20:25:59 GMT | Day 42: Network Protocols | Nile Okomo | [Read More](https://medium.com/p/1dbb438319db) |
 | Sat, 05 Jul 2025 20:24:45 GMT | Middle Mayhem Lab | rkn | [Read More](https://medium.com/p/49b2c4550a9e) |
 | Sat, 05 Jul 2025 20:23:30 GMT | SOC Automation Project Part-5 | rkn | [Read More](https://medium.com/p/6cced41649bd) |
-| Sat, 05 Jul 2025 20:19:10 GMT | How I Got Reliable Outgoing Mail on My VPS with msmtp, Mailjet, and syslog | Jeff Stein | [Read More](https://medium.com/p/6ad52e0c3f37) |
-| Sat, 05 Jul 2025 20:11:57 GMT | Industrial Intrusion — TryHackMe CTF Walkthrough | parisa2301 | [Read More](https://medium.com/p/93b53872c50f) |
-| Sat, 05 Jul 2025 20:08:33 GMT | THE PERSON YOU ARE TALKING TO DOESN’T EXIST | Ushafa Wuakera | [Read More](https://medium.com/p/c1c7f9d56773) |
-| Sat, 05 Jul 2025 20:06:58 GMT | Bridging Security Gaps: A Practical Comparison of Leading Vulnerability Scanners | Naudy Castellanos | [Read More](https://medium.com/p/2aaa286c2d2e) |
-| Sat, 05 Jul 2025 19:56:02 GMT | Why Signing In with a PIN Isn’t Just a Shorter Password and Why That Matters | Peter Sikabonyi | [Read More](https://medium.com/p/0b1ccf8a4e65) |
-| Sat, 05 Jul 2025 19:53:29 GMT | Novas ferramentas de Inteligência Artificial (IA) para Pentest | Marcos Flávio Araújo Assunção | [Read More](https://medium.com/p/fcac85545525) |
