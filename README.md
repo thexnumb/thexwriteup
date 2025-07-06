@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 14:42:16 GMT | Exploring Model Context Protocol (MCP) | Dom Whewell | [Read More](https://medium.com/p/bca7175347fd) |
+| Sun, 06 Jul 2025 14:36:46 GMT | xlmrat Lab by CyberDefenders | Ahmedelshoura | [Read More](https://medium.com/p/09fe85fc5785) |
+| Sun, 06 Jul 2025 14:33:49 GMT | THM-Writing Pentest Report:- | Mohit Sharma | [Read More](https://medium.com/p/9e0cfc09a7cf) |
+| Sun, 06 Jul 2025 14:33:44 GMT | ☁️ Cloud-Native Threats: Securing the Modern Attack Surface in 2025 | Mr Joe | [Read More](https://medium.com/p/c7f8980d22e2) |
+| Sun, 06 Jul 2025 14:32:03 GMT | Detecting Backdoors in LLMs: Malware, C&C, and Long-Term Threats | Harishkumar Pillai | [Read More](https://medium.com/p/7276ace95970) |
+| Sun, 06 Jul 2025 14:31:53 GMT | From Cables to Clicks: The OSI Model Simplified | Adam Jikat | [Read More](https://medium.com/p/c66f5ade692f) |
+| Sun, 06 Jul 2025 14:29:17 GMT | The Quiet Battle: Honest Thoughts and Lessons Learned | Adeola Awobade | [Read More](https://medium.com/p/a404faeaf74e) |
+| Sun, 06 Jul 2025 14:26:52 GMT | SOC Data Lakes: Scalable Security Analytics with Big Data Technologies ️ | Esra Kayhan | [Read More](https://medium.com/p/bb6472c4354c) |
+| Sun, 06 Jul 2025 14:26:36 GMT | Nmap Live Host Discovery — TryHackMe | sercan timocin | [Read More](https://medium.com/p/1b9b8d43b510) |
+| Sun, 06 Jul 2025 14:25:04 GMT | Brute Force Detection with Real-Time Alerting and Traffic Forensics | Bishu Biswas | [Read More](https://medium.com/p/0ecb37197b2d) |
+| Sun, 06 Jul 2025 14:18:29 GMT | AI vs Hackers: The New Era of Cybersecurity Warfare | DIGITAL Marketing | [Read More](https://medium.com/p/7f3b2b82c2ac) |
 | Sun, 06 Jul 2025 14:09:24 GMT | DevSecOps sharing — Kubernetes RBAC (Rancher rke2) | Rennaps | [Read More](https://medium.com/p/59ce7752e10f) |
 | Sun, 06 Jul 2025 14:06:01 GMT | Unauthenticated API Endpoint Exposes SMS Account Balance — An Information Disclosure Story | Gouri Sankar A | [Read More](https://medium.com/p/23b16b83cdef) |
 | Sun, 06 Jul 2025 13:59:19 GMT | The Silent Agreement of the Internet: A Deep Dive into the TCP 3-Way Handshake | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/ecb2cf58e8a4) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 07:31:05 GMT | ProxyChains in Kali Linux | Harsh Master | [Read More](https://medium.com/p/f06809723bcf) |
 | Sun, 06 Jul 2025 07:28:55 GMT | Meta CTF 2024: ConnectWind Internal Employee Portal | Bridget | [Read More](https://medium.com/p/fda2570090f4) |
 | Sun, 06 Jul 2025 07:28:39 GMT | Basic Pentesting - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/c15b055a78ae) |
-| Sun, 06 Jul 2025 07:28:32 GMT | Cara Membangun Lab Hacking Terisolasi dengan VirtualBox (Kali linux + Metasploitable 2) | Nurilhamnurdin | [Read More](https://medium.com/p/d9cee6625f4e) |
-| Sun, 06 Jul 2025 07:23:04 GMT | Penetration Testing Report Writing Guide | Sridhar S | [Read More](https://medium.com/p/327e11bab7df) |
-| Sun, 06 Jul 2025 07:17:05 GMT | Day 1: Foundations of Network Defense & Information Assurance [Exploitation Analyst-Cybersecurity] | 64_Aditya Kumar | [Read More](https://medium.com/p/7da78c4b0b34) |
-| Sun, 06 Jul 2025 07:16:48 GMT | When You Can Just… Change Your Email. No OTP. No Questions Asked. Just Vibes. | Vijay Kumar Gupta | [Read More](https://medium.com/p/fc89db324366) |
-| Sun, 06 Jul 2025 07:10:15 GMT | TryHackMe — Writing a Penetration Testing Report | TheSocialHacker | [Read More](https://medium.com/p/f38b68d58087) |
-| Sun, 06 Jul 2025 07:07:28 GMT | Building KiraHash: My Journey Creating an Ethical Password Security Toolkit | ilesanmi sulaimon | [Read More](https://medium.com/p/2a8fffffc843) |
-| Sun, 06 Jul 2025 07:07:09 GMT | How to Choose the Right CRM Software for Your Business: IT Solutions for Sales and Marketing | Rapidise Inc | [Read More](https://medium.com/p/f92163e3f581) |
-| Sun, 06 Jul 2025 06:55:43 GMT | The Right to Be Forgotten: Why It Matters in an Unforgiving Internet | Ritabrato Biswas | [Read More](https://medium.com/p/42e48bf951a2) |
-| Sun, 06 Jul 2025 06:54:33 GMT | Crypto Security Market Size Will Exceed $21 Billion by 2032–Report | Tony Philips | [Read More](https://medium.com/p/a8f1b966994b) |
-| Sun, 06 Jul 2025 06:53:25 GMT | CTF Day(25) | Ahmed Narmer | [Read More](https://medium.com/p/2c8a7a50e903) |
-| Sun, 06 Jul 2025 06:52:15 GMT | Squid Router in Enterprise Environments | Binary Rhys Liam Smith | [Read More](https://medium.com/p/153680146df4) |
