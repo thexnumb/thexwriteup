@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 06 Jul 2025 18:13:44 GMT | Active Directory Lab — Part 2: Organizational Units, Users & Groups | Hicham Kernaf | [Read More](https://medium.com/p/dbff63f635c1) |
+| Sun, 06 Jul 2025 18:13:32 GMT | Best IDEs and AI Coding Assistants in 2025: Complete Guide to VSCode, Cursor, GitHub Copilot & More | Shahid Sharif | [Read More](https://medium.com/p/2b62c9526f9f) |
+| Sun, 06 Jul 2025 18:07:08 GMT | Stop Using These 5 Outdated Security Practices Before It’s Too Late! | OptimizationMaster | [Read More](https://medium.com/p/85ea90ef72fa) |
+| Sun, 06 Jul 2025 18:06:03 GMT | Crafting a DIY “Dead Man’s Switch” for Your Secrets | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a6dbf44511df) |
+| Sun, 06 Jul 2025 18:02:57 GMT | Saving the PT1: My Comeback Story | Sedrick Gobina | [Read More](https://medium.com/p/cd9829c6c7fd) |
+| Sun, 06 Jul 2025 18:00:55 GMT | Dev Walkthrough | Spookz | [Read More](https://medium.com/p/1507f2719d67) |
+| Sun, 06 Jul 2025 17:52:08 GMT | Top Spy Apps to Track Any Phone Stealthily and Remotely | Narjis Batool | [Read More](https://medium.com/p/4c8a66bc5d7f) |
+| Sun, 06 Jul 2025 17:49:03 GMT | AWS Detection Engineering: Mastering Log Sources for Threat Detection | Muh. Fani Akbar | [Read More](https://medium.com/p/51372da9a17e) |
+| Sun, 06 Jul 2025 17:39:53 GMT | Bitcoin’s Final Ascent & My Strategic WLFI Entry: Timing the Market Before Euphoria Hits | chimezie bright | [Read More](https://medium.com/p/bc8d37d1836e) |
+| Sun, 06 Jul 2025 17:39:06 GMT | Is HTTPS Enough? Rethinking Secure Data Exchange Over APIs | NH. Jangra | [Read More](https://medium.com/p/f0bd3bd2a234) |
+| Sun, 06 Jul 2025 17:34:42 GMT | Against All Odds | Wizard Mike | [Read More](https://medium.com/p/7afc5b32e38e) |
 | Sun, 06 Jul 2025 17:22:48 GMT | Why DSP Consultants Is a Go-To for Physical Security Design in Dubai | Reviews | [Read More](https://medium.com/p/376bf2ea51b8) |
 | Sun, 06 Jul 2025 17:20:11 GMT | Cipher’s Secret Message — TryHackMe Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/f9032620eb56) |
 | Sun, 06 Jul 2025 17:19:04 GMT | Why Heartbleed Was So Devastating | Dennis Peter Munyao | [Read More](https://medium.com/p/271571c96ec6) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 12:37:51 GMT | Ngrok Tutorial: Complete Guide for Hackers & Developers 2025 | Alex Joyel Raj | [Read More](https://medium.com/p/125bbaf5c640) |
 | Sun, 06 Jul 2025 12:22:20 GMT | Restored Tabs, Forgotten Boundaries | Vivek Maurya | [Read More](https://medium.com/p/b09042d45ca4) |
 | Sun, 06 Jul 2025 12:16:54 GMT | c4ptur3-th3-fl4g - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/3fb53c355c21) |
-| Sun, 06 Jul 2025 12:05:01 GMT | From Image Upload to Account Takeover — Chaining Upload, Storage, and CORS Issues in a Real Pentest | Shazilrao | [Read More](https://medium.com/p/de5ac9862c31) |
-| Sun, 06 Jul 2025 11:58:05 GMT | Understanding Information Technology: The Backbone of the Digital Age | bikash Gochhayat | [Read More](https://medium.com/p/c719f3ef2b33) |
-| Sun, 06 Jul 2025 11:38:29 GMT | The Silent Weight We All Carry | Djezzar Mohamed | [Read More](https://medium.com/p/50b04430d9d7) |
-| Sun, 06 Jul 2025 11:37:44 GMT | First Blood: Finding My First SQL Injection in the Wild | Muhammad Saad Sabir | [Read More](https://medium.com/p/a722f462211b) |
-| Sun, 06 Jul 2025 11:36:57 GMT | Investigating with Splunk TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/aa6c0c2f0f01) |
-| Sun, 06 Jul 2025 11:36:07 GMT | ItsyBitsy TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/d6a6755db7d8) |
-| Sun, 06 Jul 2025 11:18:11 GMT | The Ultimate Guide to Vulnerability Management Standards & Nessus with GLPI | Oleh Dubetcky | [Read More](https://medium.com/p/fdceed8c1e95) |
-| Sun, 06 Jul 2025 11:07:10 GMT | Web Application Security Best Practices (2025) | Sam | [Read More](https://medium.com/p/d42f8b3c0968) |
-| Sun, 06 Jul 2025 11:05:25 GMT | How One Dev’s Obsession Saved the Internet (and Why Your Memes Are Still Safe) | Arnav Jalan | [Read More](https://medium.com/p/6fc5e573a892) |
-| Sun, 06 Jul 2025 11:02:44 GMT | Secure Your Home 24/7 with Professional CCTV Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/b4f4b21ac136) |
-| Sun, 06 Jul 2025 11:01:35 GMT | I Decided to Deep Learn DNS — Here’s What I Learned | Vishnuprasad O | [Read More](https://medium.com/p/9b8a42a6dd55) |
