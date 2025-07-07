@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 20:36:12 GMT | Shining Dragon: The Digital Perfection Behind The Great Wall | Onurcan Genç | [Read More](https://medium.com/p/e9171719b1f8) |
+| Mon, 07 Jul 2025 20:23:15 GMT | Ağ Donanımları (Network Devices) | g.o. | [Read More](https://medium.com/p/94c1092a2885) |
+| Mon, 07 Jul 2025 20:18:07 GMT | RotaJakiro Writeup — Cyberdefenders’ Lab | Riad Moudjahed | [Read More](https://medium.com/p/712f7f31edfe) |
 | Mon, 07 Jul 2025 20:14:25 GMT | Keeping An Eye Out For Internet Scams: Signs and Warnings | Savvy Cyber Kids | [Read More](https://medium.com/p/2d3fd6d32139) |
 | Mon, 07 Jul 2025 20:14:00 GMT | Cyberbullying and Youth | Savvy Cyber Kids | [Read More](https://medium.com/p/f0e2d3723643) |
 | Mon, 07 Jul 2025 20:13:40 GMT | The Attacks in Israel as Seen on Social Media: A Reminder to Contextualize Violence for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/b7853a080667) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 14:48:51 GMT | WiFi Pentesting in Real Environments — Part 2: Attacking WPA2-Enterprise (EAP) Wi-Fi Networks | Sachin kewat | [Read More](https://medium.com/p/7784acb54219) |
 | Mon, 07 Jul 2025 14:48:50 GMT | Obfuscated Scriptler Güvenlik Önlemlerinizi Atlatabilir mi? | Necati Ustun | [Read More](https://medium.com/p/9b65d1645b4d) |
 | Mon, 07 Jul 2025 14:47:35 GMT | Build a Custom Python Payload (Virus) That Bypasses Antivirus — Step-by-Step Guide | Tamilselvan A K | [Read More](https://medium.com/p/076680d8d63d) |
-| Mon, 07 Jul 2025 14:45:01 GMT | Mellow Drama: Turning Browsers Into Request Brokers | John Tuckner | [Read More](https://medium.com/p/c25bdd3e6455) |
-| Mon, 07 Jul 2025 14:39:30 GMT | Leaving Biotech: My Journey Into Cybersecurity | Natalie | [Read More](https://medium.com/p/1b9783ee9a28) |
-| Mon, 07 Jul 2025 14:35:31 GMT | how to get increase the reader scene our medium articles | S Anuradha | [Read More](https://medium.com/p/c2faf2e7ec51) |
