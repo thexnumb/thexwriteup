@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 19:32:03 GMT | XSS in 2025 — The Payloads That Still Work | Santhosh Adiga U | [Read More](https://medium.com/p/3aa343e0b4f2) |
+| Mon, 07 Jul 2025 19:25:09 GMT | Cybersecurity Awareness for Small Companies: Why Frameworks Matter | DarKVoicE | [Read More](https://medium.com/p/55a69f5e067c) |
 | Mon, 07 Jul 2025 18:55:00 GMT | From LFI to RCE — Real Exploitation in Practice | Santhosh Adiga U | [Read More](https://medium.com/p/06c29f78b04f) |
 | Mon, 07 Jul 2025 18:52:55 GMT | From File Upload Found LFI | Abdelrhman Yasser | [Read More](https://medium.com/p/7d17e5250b7a) |
 | Mon, 07 Jul 2025 18:49:36 GMT | Things I Do After Installing Kali Linux 2025.2 — My Full Setup | Kalyan Dev | [Read More](https://medium.com/p/a490e2df568f) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 14:15:40 GMT | How to Easily Find exposed Secret keys and Tokens in Bug Hunting | RivuDon | [Read More](https://medium.com/p/afed1ea9e883) |
 | Mon, 07 Jul 2025 14:15:13 GMT | I Found a Bug in Internal Testing: Stored XSS in KYC Form Address Field | Yamini Yadav | [Read More](https://medium.com/p/4ede43cf99a2) |
 | Mon, 07 Jul 2025 14:14:52 GMT | How to Set Up Your First Hacking Lab at Home (Without Breaking the Internet) | Aj | [Read More](https://medium.com/p/ce10c9d5b9d1) |
-| Mon, 07 Jul 2025 14:14:45 GMT | “Click Once, Chat Never Again” — The Low Severity Bug That Hijacked the AI Chat Forever | LordofHeaven | [Read More](https://medium.com/p/5f5579dfdc67) |
-| Mon, 07 Jul 2025 14:14:35 GMT | API Hacking Fundamentals for Beginners: A Guide to Getting Started | Prakhar Verma | [Read More](https://medium.com/p/b1dd51279807) |
