@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 00:58:04 GMT | If you thought cars have brakes to stop, you’re WRONG. | Adri Leite | [Read More](https://medium.com/p/f1606888c0b8) |
+| Mon, 07 Jul 2025 00:49:41 GMT | Acceptance with a dash of Homelab how-to. | Masq31 - Benjamin Giordano | [Read More](https://medium.com/p/67e0c87f2c7b) |
+| Mon, 07 Jul 2025 00:33:20 GMT | If You Could Erase Pain with a Button-Would You? What Would You Lose in the Process? | Dr. Nilantika Chakraborty | [Read More](https://medium.com/p/c96befba1ab5) |
+| Mon, 07 Jul 2025 00:31:39 GMT | Why Parrot Security OS is the Go-To Choice for Ethical Hacking | ThamizhElango Natarajan | [Read More](https://medium.com/p/b6b9860ef089) |
+| Mon, 07 Jul 2025 00:23:08 GMT | Homomorphic Encryption: Transforming the Future of Secure Digital Banking | Mirza Kashan Baig | [Read More](https://medium.com/p/2b0536ce4fc8) |
+| Mon, 07 Jul 2025 00:02:55 GMT | Secure Wireless Access Points by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e6b2f82eab9c) |
 | Sun, 06 Jul 2025 23:21:11 GMT | ️Active Directory Lab (Part 6): Applying GPOs to OUs, Organizing Computers & Testing GPOs | Anivesh Mohan | [Read More](https://medium.com/p/94b592749d3a) |
 | Sun, 06 Jul 2025 23:15:50 GMT | ️ Active Directory Lab (Part 5): Connecting Client to Domain | Anivesh Mohan | [Read More](https://medium.com/p/ea4d09926d29) |
 | Sun, 06 Jul 2025 22:58:34 GMT | Nmap Basic Port Scans — TryHackMe | sercan timocin | [Read More](https://medium.com/p/ddff9bfaa2ae) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 15:45:43 GMT | Automate Your Recon: One API to Run All Your Pentesting Tools Instantly | Aris Haryanto | [Read More](https://medium.com/p/e1502862c2c7) |
 | Sun, 06 Jul 2025 15:45:20 GMT | WriteUp TryHackMe - Pickle Rick | Rindaman666 | [Read More](https://medium.com/p/a25ec32c3724) |
 | Sun, 06 Jul 2025 15:44:42 GMT | Digital Snake Oil: Vendor Lies That Compromise Your Hospital | Travis Ray Caverhill | [Read More](https://medium.com/p/08b59424800b) |
-| Sun, 06 Jul 2025 15:34:55 GMT | I Explored the Dark Web for 1 Hour — Here’s What I Found | thebridgehq | [Read More](https://medium.com/p/3641eeb358d3) |
-| Sun, 06 Jul 2025 15:22:56 GMT | टेलीग्राम जॉब स्कैम (Telegram job scam) से सावधान! जानिए कैसे बचें ऑनलाइन ठगी से | दैनिक भारत टाइम्स | [Read More](https://medium.com/p/99a0ca5ec3e7) |
-| Sun, 06 Jul 2025 15:13:16 GMT | ️ Cybersecurity in Smart Devices and Industrial Robots: The Next Frontier of Digital Defense | Karan  Pramod Shivankar | [Read More](https://medium.com/p/9fb49b347269) |
-| Sun, 06 Jul 2025 15:11:18 GMT | STIX and TAXII | Abhinav Pathak | [Read More](https://medium.com/p/490859c43c45) |
-| Sun, 06 Jul 2025 15:10:37 GMT | HackTheBox- MetaTwo | jniket | [Read More](https://medium.com/p/757f43af3616) |
-| Sun, 06 Jul 2025 15:09:04 GMT | Nessus: A Silent Warrior Against Invisible Threats | LB Cyber Journal | [Read More](https://medium.com/p/056f13112094) |
