@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 12:36:25 GMT | How I Earned $350 from a 5-Minute Bug : The Easiest Account Lockout Vulnerability You Can Find | Shaheer Yasir | [Read More](https://medium.com/p/d6b2c3720df5) |
+| Mon, 07 Jul 2025 12:28:25 GMT | Dissecting a Cyber Attack With a Perspective on Compliance | Cisogenemarketing | [Read More](https://medium.com/p/cd58a34225b7) |
+| Mon, 07 Jul 2025 12:27:58 GMT | How to Spot a Fake Job Offer: A Cyber Awareness Breakdown | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/9e3e10298cd8) |
+| Mon, 07 Jul 2025 12:26:42 GMT | Building an Impenetrable Fortress: Understanding and Implementing Defense in Depth | Rudraksh | [Read More](https://medium.com/p/18ba77aceb5e) |
+| Mon, 07 Jul 2025 12:22:18 GMT | Why Incident Response Services Are Critical for Modern Cybersecurity | Jitendrachavan | [Read More](https://medium.com/p/20f748ee3c19) |
+| Mon, 07 Jul 2025 12:21:48 GMT | I found a malware today… | Phish&Chips | [Read More](https://medium.com/p/9e15c1319439) |
+| Mon, 07 Jul 2025 12:21:38 GMT | Safeguarding Your Small Business from Online Scams and Cyber Threats in Kenya | Florence Wanjiru Macharia | [Read More](https://medium.com/p/881b5d2ea30d) |
+| Mon, 07 Jul 2025 12:20:27 GMT | Learning AWS Security by Breaking It: Mistakes You’ll Never Forget | Jose Pico | [Read More](https://medium.com/p/23fdd85b94fd) |
+| Mon, 07 Jul 2025 12:20:14 GMT | Yapay Zeka Yükseliyor, Peki Veri Güvenliği? | Aylin Karaoglu | [Read More](https://medium.com/p/0e9ecf989dc5) |
+| Mon, 07 Jul 2025 12:18:34 GMT | Inside the Scattered Spider Attack: How a UK Retail Giant Was Breached and What It Means for… | Shaheer Yasir | [Read More](https://medium.com/p/e3e94a7ce5bf) |
+| Mon, 07 Jul 2025 12:16:24 GMT | Best Free Threat Intelligence Feeds and How to Use Them with MISP/Splunk | Saikat Paul | [Read More](https://medium.com/p/871c7f419f84) |
+| Mon, 07 Jul 2025 12:14:32 GMT | The Weight of Being Real | ℯ | [Read More](https://medium.com/p/34f2ac5f76be) |
+| Mon, 07 Jul 2025 12:10:48 GMT | Sending Email Notifications on SSH Login Events | Mahinsha Nazeer | [Read More](https://medium.com/p/698ce8fc439b) |
+| Mon, 07 Jul 2025 12:05:36 GMT | The Ultimate Guide to Burp Suite Extensions for Web Application Penetration Testing | Saikat Paul | [Read More](https://medium.com/p/86a3b5ab7b57) |
+| Mon, 07 Jul 2025 11:57:03 GMT | hashcrack - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/02033998af8d) |
+| Mon, 07 Jul 2025 11:55:43 GMT | Unleashing the Power of Caido: The Next-Generation Web Security Toolkit | Taha Ex | [Read More](https://medium.com/p/c96c90a7340b) |
+| Mon, 07 Jul 2025 11:37:32 GMT | Top 20 Penetration Testing Companies in Philippines | Qualysectechnologies | [Read More](https://medium.com/p/77ce1a16ccf6) |
 | Mon, 07 Jul 2025 11:33:39 GMT | Reduce Costs & Boost Cloud Performance | Sid Chavda | [Read More](https://medium.com/p/48d030672ce2) |
 | Mon, 07 Jul 2025 11:33:15 GMT | Challenge Writeup: bronze ASM | Mohamed atiaa | [Read More](https://medium.com/p/8d5fcfe0b8a1) |
 | Mon, 07 Jul 2025 11:31:55 GMT | cybersecurity headlines from today (July 7, 2025): | Darshan | [Read More](https://medium.com/p/56ff54e136be) |
@@ -96,20 +113,3 @@ As technology continues to evolve… | Theinformaticshub | [Read More](https://m
 | Mon, 07 Jul 2025 07:34:07 GMT | Build Your Own FIAT Payment Gateway from Scratch | ITIO INNOVEX | [Read More](https://medium.com/p/e844aa0c5525) |
 | Mon, 07 Jul 2025 07:33:30 GMT | EscapeTwo — HTB | 14mj4ck | [Read More](https://medium.com/p/4854c0fb69b8) |
 | Mon, 07 Jul 2025 07:30:51 GMT | ️ Web3 Security Weekly — June 30–July 6, 2025 | Null Return | [Read More](https://medium.com/p/de4916a48c10) |
-| Mon, 07 Jul 2025 07:27:49 GMT | Alarm İzleme Merkezi | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/841b680339a6) |
-| Mon, 07 Jul 2025 07:17:58 GMT | Deploy to Azure Extended Zones using Azure Bicep | Brian Veldman | [Read More](https://medium.com/p/10705cc70c05) |
-| Mon, 07 Jul 2025 07:13:00 GMT | Virtualization in Hybrid Cloud: Optimizing Efficiency and Security Across Platforms | ServerWala InfraNet FZ-LLC | [Read More](https://medium.com/p/ce26714d7b8e) |
-| Mon, 07 Jul 2025 07:11:38 GMT | I PASSED the Certified AppSec Practitioner (CAP) certification by The SecOps Group! | P0isonou5 | [Read More](https://medium.com/p/4fdf7d700562) |
-| Mon, 07 Jul 2025 07:07:29 GMT | How to Stop Fake Signups on Your SaaS Product | OnSefy AI | [Read More](https://medium.com/p/fcfc040d9065) |
-| Mon, 07 Jul 2025 07:06:06 GMT | Choosing the Right Identity Management Strategy: IAM, CIAM, or IDaaS? | Deepak Gupta | [Read More](https://medium.com/p/700756fec645) |
-| Mon, 07 Jul 2025 07:03:12 GMT | I PASSED the Certified Network Security Practitioner (CNSP) certification by The SecOps Group! | P0isonou5 | [Read More](https://medium.com/p/36c230742c74) |
-| Mon, 07 Jul 2025 07:01:44 GMT | Massive Oracle Cloud Breach Affects 140,000 Tenants | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/4cda8c788730) |
-| Mon, 07 Jul 2025 06:59:23 GMT | DNS leak and IP leak? What’s the Difference & How to Fix Them (USA Guide – 2025) | Digimad.online | [Read More](https://medium.com/p/953689c2b718) |
-| Mon, 07 Jul 2025 06:57:28 GMT | Top 5 Privacy-Focused Browsers That Block Trackers in 2025 | Digimad.online | [Read More](https://medium.com/p/be61e24825bf) |
-| Mon, 07 Jul 2025 06:55:20 GMT | Best Ad Blockers for Chrome & Android – Stay Ad-Free in US | Digimad.online | [Read More](https://medium.com/p/435552e685aa) |
-| Mon, 07 Jul 2025 06:55:11 GMT | How secure is your cloud transformation? | Ziya Zoe | [Read More](https://medium.com/p/27bd7d296b3c) |
-| Mon, 07 Jul 2025 06:48:17 GMT | Benign | Krishna | [Read More](https://medium.com/p/829bda73a571) |
-| Mon, 07 Jul 2025 06:47:16 GMT | Microsoft’s Model Context Protocol (MCP) Server (Preview) and Leveraging AI for Cybersecurity. | Neeraj Kumar Verma | [Read More](https://medium.com/p/8f884a27ab34) |
-| Mon, 07 Jul 2025 06:29:10 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/0d73c04fcbe9) |
-| Mon, 07 Jul 2025 06:25:26 GMT | Smarter Security Starts Here: How AI is Revolutionizing Cyber Defense | Gauravinsightss | [Read More](https://medium.com/p/3f0599e33a6b) |
-| Mon, 07 Jul 2025 06:22:02 GMT | Comprehensive Protection for a Safer Tomorrow: Exploring Total Security Solutions and Security… | Ciss India | [Read More](https://medium.com/p/79f2cd1b9439) |
