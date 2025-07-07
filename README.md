@@ -12,10 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 14:39:30 GMT | Leaving Biotech: My Journey Into Cybersecurity | Natalie | [Read More](https://medium.com/p/1b9783ee9a28) |
+| Mon, 07 Jul 2025 14:35:31 GMT | how to get increase the reader scene our medium articles | S Anuradha | [Read More](https://medium.com/p/c2faf2e7ec51) |
+| Mon, 07 Jul 2025 14:35:07 GMT | Bringing DevSecOps from Valley to Battlefield: How Detachment 201 and cATO Are Redefining Army… | Mike Bynum | [Read More](https://medium.com/p/48efb92ef79c) |
+| Mon, 07 Jul 2025 14:35:07 GMT | how to get increase the readers in our medium articles | S Anuradha | [Read More](https://medium.com/p/89c35b61d42a) |
+| Mon, 07 Jul 2025 14:31:20 GMT | Graph Databases and Query Techniques for Cyber Threat Hunting ️ | Esra Kayhan | [Read More](https://medium.com/p/1f1df118ff0d) |
+| Mon, 07 Jul 2025 14:25:09 GMT | Let’s make this clear, there’s no clear way of drawing a pathway on how someone may pursue their… | Shaunak (SHA25) | [Read More](https://medium.com/p/c67cde290492) |
+| Mon, 07 Jul 2025 14:22:51 GMT | LINUX CHALLENGE | FromHumanities-Hacker | [Read More](https://medium.com/p/d9574c9a6f49) |
+| Mon, 07 Jul 2025 14:21:01 GMT | Passwords Vs Passkeys | Rahul Kumar | [Read More](https://medium.com/p/69c420ffb7b7) |
 | Mon, 07 Jul 2025 14:15:40 GMT | How to Easily Find exposed Secret keys and Tokens in Bug Hunting | RivuDon | [Read More](https://medium.com/p/afed1ea9e883) |
+| Mon, 07 Jul 2025 14:15:13 GMT | I Found a Bug in Internal Testing: Stored XSS in KYC Form Address Field | Yamini Yadav | [Read More](https://medium.com/p/4ede43cf99a2) |
 | Mon, 07 Jul 2025 14:14:52 GMT | How to Set Up Your First Hacking Lab at Home (Without Breaking the Internet) | Aj | [Read More](https://medium.com/p/ce10c9d5b9d1) |
 | Mon, 07 Jul 2025 14:14:45 GMT | “Click Once, Chat Never Again” — The Low Severity Bug That Hijacked the AI Chat Forever | LordofHeaven | [Read More](https://medium.com/p/5f5579dfdc67) |
 | Mon, 07 Jul 2025 14:14:35 GMT | API Hacking Fundamentals for Beginners: A Guide to Getting Started | Prakhar Verma | [Read More](https://medium.com/p/b1dd51279807) |
+| Mon, 07 Jul 2025 14:08:15 GMT | Elastic Ingest Architecture — Logstash as a Proxy | Kaviarasan Asokan | [Read More](https://medium.com/p/d551837bc627) |
 | Mon, 07 Jul 2025 14:06:41 GMT | How I built my first Cybersecurity lab and Hacked myself (Ethically) | Dhairya Upadhyay | [Read More](https://medium.com/p/abe908bba636) |
 | Mon, 07 Jul 2025 14:05:53 GMT | Google Dorking | Dreaith | [Read More](https://medium.com/p/435f81cbf592) |
 | Mon, 07 Jul 2025 14:04:59 GMT | Libraries So Good, I Stopped Writing My Own Scripts | Darshan | [Read More](https://medium.com/p/4aab12021a79) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 09:49:43 GMT | The Letters She Never Sent | Lucas swami | [Read More](https://medium.com/p/042290ca84ed) |
 | Mon, 07 Jul 2025 09:47:58 GMT | From “Probably a False Positive” to a $$$$ Bounty: How I Exploited an Overlooked API |  | [Read More](https://medium.com/p/c35ea37105e9) |
 | Mon, 07 Jul 2025 09:46:24 GMT | Healthcare Data Center Security: Protecting Patient Information in Oman | Tekhabeeb | [Read More](https://medium.com/p/55e5573fdf85) |
-| Mon, 07 Jul 2025 09:45:11 GMT | My AfCFTA Research Work Has Officially Begun | Covenant O.B. | [Read More](https://medium.com/p/388f316ab0d1) |
-| Mon, 07 Jul 2025 09:43:06 GMT | What Is Microsegmentation? Everything You Need to Know in a Nutshell | Moristhewriter | [Read More](https://medium.com/p/fdb42d270749) |
-| Mon, 07 Jul 2025 09:40:40 GMT | Recursion of Sin. The sins of our past. | Nul⧉ID | [Read More](https://medium.com/p/32870428d46a) |
-| Mon, 07 Jul 2025 09:32:45 GMT | IT Governance: 21 Strategies for Robust Compliance | SecureSlate | [Read More](https://medium.com/p/f29584db3986) |
-| Mon, 07 Jul 2025 09:31:51 GMT | 3 Ways to Deploy SafeLine WAF for Maximum Protection | Quella | [Read More](https://medium.com/p/3cb58bee0214) |
-| Mon, 07 Jul 2025 09:21:39 GMT | If Only They Knew | Da Mar | [Read More](https://medium.com/p/4574f9db3b84) |
-| Mon, 07 Jul 2025 09:19:50 GMT | How to Conduct a Cybersecurity Audit — A Step-by-Step Guide for Businesses | Consulting4sec | [Read More](https://medium.com/p/b77459cef1d5) |
-| Mon, 07 Jul 2025 09:16:51 GMT | Cybersecurity in Critical Sectors: Learning from the Skies to Protect Our Infrastructure. | Jair Abrego Cubilla | [Read More](https://medium.com/p/211e411e82b0) |
-| Mon, 07 Jul 2025 09:11:56 GMT | A Poor Person Is Anyone Who Lives to Pay Bills | Maggie Maggie | [Read More](https://medium.com/p/fa5933dd6378) |
-| Mon, 07 Jul 2025 09:10:51 GMT | Cut Ci/CD cost with own GitHub | Saidur Rahman | [Read More](https://medium.com/p/17e5f06756ed) |
