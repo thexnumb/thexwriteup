@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 23:37:52 GMT | Why Every Beginner Pentester Should Build Their Own Lab (Before Getting Certified) | Corey Jones | [Read More](https://medium.com/p/15f4937290af) |
+| Mon, 07 Jul 2025 23:34:55 GMT | XLMRat Lab Analysis | Omer Bawazir | [Read More](https://medium.com/p/4278b9c4ed92) |
+| Mon, 07 Jul 2025 23:27:16 GMT | Code Red: How Hospitals Became Cyber Hostages and How to Stop It | Nidhi Aswal | [Read More](https://medium.com/p/75a4ff2ef5ca) |
 | Mon, 07 Jul 2025 22:59:19 GMT | You’re Not Failing. The System Is. | Prince Esien | [Read More](https://medium.com/p/085f556ff613) |
 | Mon, 07 Jul 2025 22:47:09 GMT | Protecting Values in Environment Variables: Part I, Gatekeeper | W. Jenks Gibbons | [Read More](https://medium.com/p/50dabe4cfc49) |
 | Mon, 07 Jul 2025 22:34:06 GMT | I Wasn’t Healing. I Was Hiding. | Mr Cool | [Read More](https://medium.com/p/e1a0a7918f90) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 16:20:31 GMT | 7 Proven Ways to Ensure Data Protection in Hybrid Cloud Environments | Techridge Solutions | [Read More](https://medium.com/p/fff41f656aa2) |
 | Mon, 07 Jul 2025 16:18:37 GMT | Incident Analysis: How a Simple RDP Password Spray Led to a Full-Blown RansomHub Attack | Jon C | [Read More](https://medium.com/p/54f022e5a4ea) |
 | Mon, 07 Jul 2025 16:15:18 GMT | How I Hacked My Own Bank—Legally: A Pen Tester’s Confession | Aj | [Read More](https://medium.com/p/56f7f6cd69c0) |
-| Mon, 07 Jul 2025 16:13:45 GMT | From Push‑Ups to Acquisition: My Journey as PingSafe’s Founding Sales Leader | Dhiraj Khare | [Read More](https://medium.com/p/c42777d47d0b) |
-| Mon, 07 Jul 2025 16:12:34 GMT | Subdomain Enumeration: Zero to Mastery | Santhosh Adiga U | [Read More](https://medium.com/p/2fbe650307dd) |
-| Mon, 07 Jul 2025 16:12:33 GMT | The Ultimate Guide to Security Uniforms: Quality, Reliability, and Affordability | Prouniformsusa | [Read More](https://medium.com/p/6584e2adb859) |
