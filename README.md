@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 09:19:50 GMT | How to Conduct a Cybersecurity Audit — A Step-by-Step Guide for Businesses | Consulting4sec | [Read More](https://medium.com/p/b77459cef1d5) |
+| Mon, 07 Jul 2025 09:16:51 GMT | Cybersecurity in Critical Sectors: Learning from the Skies to Protect Our Infrastructure. | Jair Abrego Cubilla | [Read More](https://medium.com/p/211e411e82b0) |
+| Mon, 07 Jul 2025 09:11:56 GMT | A Poor Person Is Anyone Who Lives to Pay Bills | Maggie Maggie | [Read More](https://medium.com/p/fa5933dd6378) |
+| Mon, 07 Jul 2025 09:10:51 GMT | Cut Ci/CD cost with own GitHub | Saidur Rahman | [Read More](https://medium.com/p/17e5f06756ed) |
+| Mon, 07 Jul 2025 09:06:45 GMT | The Rising Demand for Private Security in Pakistan | Desert Hawaks | [Read More](https://medium.com/p/587fc07f22e9) |
+| Mon, 07 Jul 2025 09:02:03 GMT | Custom AnyDesk Abuse: A Stealthy Way Adversaries Take Over Your System | Divya Trivedi | [Read More](https://medium.com/p/e7bf97d4c3d5) |
+| Mon, 07 Jul 2025 09:01:04 GMT | The Wallet With a Way Out | Rollbacklabs | [Read More](https://medium.com/p/c179678fddf5) |
+| Mon, 07 Jul 2025 08:56:32 GMT | How I Secured Azure Virtual Machines Using NSGs and ASGs | Giathidaniel | [Read More](https://medium.com/p/ac805019c8bd) |
+| Mon, 07 Jul 2025 08:51:39 GMT | Home Security Systems Boston: Stay Ahead of Threats | First Alarm LLC | [Read More](https://medium.com/p/7f4f34bc8956) |
+| Mon, 07 Jul 2025 08:51:03 GMT | What protects your cloud transformation journey? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/9c1a5d0be808) |
+| Mon, 07 Jul 2025 08:47:35 GMT | BYOD Software: 10 Best Tools for 2025 Revealed | Vantage MDM | [Read More](https://medium.com/p/ee78d6407c20) |
+| Mon, 07 Jul 2025 08:47:07 GMT | The OWASP Top 10 — But Make It Salesforce | Musa Ndlala | [Read More](https://medium.com/p/2a9e9b845edc) |
+| Mon, 07 Jul 2025 08:43:03 GMT | “No Clue, New Journey: Day 1 of Becoming a Cybersecurity Pro” | irsim.ahsya | [Read More](https://medium.com/p/23a293c47419) |
+| Mon, 07 Jul 2025 08:38:31 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/03231ba32e12) |
+| Mon, 07 Jul 2025 08:36:16 GMT | Directory Traversal Nedir? Web Uygulamalarında Gizli Dizinlere Yolculuk | Hasan Çavdar | [Read More](https://medium.com/p/52dbca1d4aec) |
+| Mon, 07 Jul 2025 08:35:51 GMT | SafeLine WAF Docker Compose Breakdown: Understanding the `mgt` Service | AerieWhole123 | [Read More](https://medium.com/p/880ec41574d8) |
+| Mon, 07 Jul 2025 08:35:24 GMT | Is Your Chatbot a Corporate Spy?️‍♂️ | Yash Gorasiya | [Read More](https://medium.com/p/fc4841b5b8f7) |
+| Mon, 07 Jul 2025 08:28:04 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/2887730eee84) |
+| Mon, 07 Jul 2025 08:24:06 GMT | The Role of The Informatics Hub in Shaping Future Tech Careers
+As technology continues to evolve… | Theinformaticshub | [Read More](https://medium.com/p/6b44a906305b) |
+| Mon, 07 Jul 2025 08:22:06 GMT | Kamera Sistemi Bakım & Onarımı: Güvenliğin Sürekliliği Desecure’la Sağlanır | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/bc21270f7504) |
 | Mon, 07 Jul 2025 08:21:01 GMT | Hack Them All | Pee Dee is Imperfect | [Read More](https://medium.com/p/f866aa1109d6) |
 | Mon, 07 Jul 2025 08:18:29 GMT | Tryhackme Wekor: Walkthrough | Hydsec | [Read More](https://medium.com/p/77dbac0a25ea) |
 | Mon, 07 Jul 2025 08:16:14 GMT | Geçiçi kamera kurulumu (şantiye, inşaat vb.) | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/af06feb38c07) |
@@ -92,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 02:27:45 GMT | What is OpenCTI and Why It Matters | Codingjourney | [Read More](https://medium.com/p/6c85f2620c3b) |
 | Mon, 07 Jul 2025 02:25:52 GMT | SillyPutty Malware Analysis | Adrian Jenkins | [Read More](https://medium.com/p/fd63a1369009) |
 | Mon, 07 Jul 2025 02:24:46 GMT | Is Facebook Dating Safe? Reviewing Meta’s Matchmaker | Cassandra Miller | [Read More](https://medium.com/p/3076070f9fd9) |
-| Mon, 07 Jul 2025 02:22:42 GMT | The Digital Frontier of Statecraft: Navigating the Complexities of Cyber Diplomacy and… | CCD-IS | [Read More](https://medium.com/p/5d0e557db5ad) |
-| Mon, 07 Jul 2025 02:21:27 GMT | Want to try it now? 5 Shopify security enhancement apps | Tsuzucle Inc. | [Read More](https://medium.com/p/531696c54c06) |
-| Mon, 07 Jul 2025 02:10:26 GMT | we can’t say Free Sex Free Drugs Free Money : what a shame it would all be if you got all your… | The Prophet Aaron Vessel the Christ Consciousness | [Read More](https://medium.com/p/2cfb387e0572) |
-| Mon, 07 Jul 2025 02:05:58 GMT | Setting Up Secure and Efficient Development Environments with Containers on macOS 26 | Stéphane Paquet | [Read More](https://medium.com/p/efc13b67346c) |
-| Mon, 07 Jul 2025 00:58:04 GMT | If you thought cars have brakes to stop, you’re WRONG. | Adri Leite | [Read More](https://medium.com/p/f1606888c0b8) |
-| Mon, 07 Jul 2025 00:49:41 GMT | Acceptance with a dash of Homelab how-to. | Masq31 - Benjamin Giordano | [Read More](https://medium.com/p/67e0c87f2c7b) |
-| Mon, 07 Jul 2025 00:33:20 GMT | If You Could Erase Pain with a Button-Would You? What Would You Lose in the Process? | Dr. Nilantika Chakraborty | [Read More](https://medium.com/p/c96befba1ab5) |
-| Mon, 07 Jul 2025 00:31:39 GMT | Why Parrot Security OS is the Go-To Choice for Ethical Hacking | ThamizhElango Natarajan | [Read More](https://medium.com/p/b6b9860ef089) |
-| Mon, 07 Jul 2025 00:23:08 GMT | Homomorphic Encryption: Transforming the Future of Secure Digital Banking | Mirza Kashan Baig | [Read More](https://medium.com/p/2b0536ce4fc8) |
-| Mon, 07 Jul 2025 00:02:55 GMT | Secure Wireless Access Points by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e6b2f82eab9c) |
-| Sun, 06 Jul 2025 23:21:11 GMT | ️Active Directory Lab (Part 6): Applying GPOs to OUs, Organizing Computers & Testing GPOs | Anivesh Mohan | [Read More](https://medium.com/p/94b592749d3a) |
-| Sun, 06 Jul 2025 23:15:50 GMT | ️ Active Directory Lab (Part 5): Connecting Client to Domain | Anivesh Mohan | [Read More](https://medium.com/p/ea4d09926d29) |
-| Sun, 06 Jul 2025 22:58:34 GMT | Nmap Basic Port Scans — TryHackMe | sercan timocin | [Read More](https://medium.com/p/ddff9bfaa2ae) |
-| Sun, 06 Jul 2025 22:49:34 GMT | SecOps in Action: GoPhish Sim #2 | TheMachine | [Read More](https://medium.com/p/afe23192c200) |
-| Sun, 06 Jul 2025 22:41:49 GMT | Exfiltrating Whatsapp messages via whatsapp-mcp | Arpit Kubadia | [Read More](https://medium.com/p/b8a654370c5e) |
-| Sun, 06 Jul 2025 22:31:15 GMT | STEEL MOUNTAIN WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/cf63a8191e9b) |
-| Sun, 06 Jul 2025 22:30:07 GMT | NGINX Log Analizi ile Güvenlik Tehditlerinin Tespiti ve Trafik Gözlem | Mustafa Caliskan | [Read More](https://medium.com/p/b9fad8ad078c) |
-| Sun, 06 Jul 2025 22:17:25 GMT | Exposing Values in Environment Variables | W. Jenks Gibbons | [Read More](https://medium.com/p/d7a4cc4889fe) |
-| Sun, 06 Jul 2025 21:54:07 GMT | Your First Data Engineering Project with Google Cloud Virtual Machines—Here’s Why and How to Set It… | Henry | [Read More](https://medium.com/p/f8a361fa37e1) |
-| Sun, 06 Jul 2025 21:30:00 GMT | How I Visualized Data with Amazon QuickSight - NextWork AWS Beginner Project | Angie | [Read More](https://medium.com/p/2f046e910bb3) |
