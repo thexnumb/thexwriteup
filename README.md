@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 03:25:17 GMT | Security and Audit Practices of Squid Router | Fibera Zara Rose Quinn | [Read More](https://medium.com/p/929f0f93ab82) |
+| Mon, 07 Jul 2025 03:24:22 GMT | Why I Built CyberPost: A Browser-Based Offline HTTP Request Tool for API Testing | 0xlaz | [Read More](https://medium.com/p/1bf99defa96c) |
+| Mon, 07 Jul 2025 03:21:12 GMT | Leadership Reflections — How the AI Era is Rewriting IT Strategy | Fabrice D.Kagame | [Read More](https://medium.com/p/a8ac8e602cdd) |
+| Mon, 07 Jul 2025 02:28:03 GMT | HR: The New Perimeter of Cybersecurity | B M Zahid ul Haque | [Read More](https://medium.com/p/5787001d023d) |
+| Mon, 07 Jul 2025 02:27:45 GMT | What is OpenCTI and Why It Matters | Codingjourney | [Read More](https://medium.com/p/6c85f2620c3b) |
+| Mon, 07 Jul 2025 02:25:52 GMT | SillyPutty Malware Analysis | Adrian Jenkins | [Read More](https://medium.com/p/fd63a1369009) |
+| Mon, 07 Jul 2025 02:24:46 GMT | Is Facebook Dating Safe? Reviewing Meta’s Matchmaker | Cassandra Miller | [Read More](https://medium.com/p/3076070f9fd9) |
+| Mon, 07 Jul 2025 02:22:42 GMT | The Digital Frontier of Statecraft: Navigating the Complexities of Cyber Diplomacy and… | CCD-IS | [Read More](https://medium.com/p/5d0e557db5ad) |
+| Mon, 07 Jul 2025 02:21:27 GMT | Want to try it now? 5 Shopify security enhancement apps | Tsuzucle Inc. | [Read More](https://medium.com/p/531696c54c06) |
+| Mon, 07 Jul 2025 02:10:26 GMT | we can’t say Free Sex Free Drugs Free Money : what a shame it would all be if you got all your… | The Prophet Aaron Vessel the Christ Consciousness | [Read More](https://medium.com/p/2cfb387e0572) |
+| Mon, 07 Jul 2025 02:05:58 GMT | Setting Up Secure and Efficient Development Environments with Containers on macOS 26 | Stéphane Paquet | [Read More](https://medium.com/p/efc13b67346c) |
 | Mon, 07 Jul 2025 00:58:04 GMT | If you thought cars have brakes to stop, you’re WRONG. | Adri Leite | [Read More](https://medium.com/p/f1606888c0b8) |
 | Mon, 07 Jul 2025 00:49:41 GMT | Acceptance with a dash of Homelab how-to. | Masq31 - Benjamin Giordano | [Read More](https://medium.com/p/67e0c87f2c7b) |
 | Mon, 07 Jul 2025 00:33:20 GMT | If You Could Erase Pain with a Button-Would You? What Would You Lose in the Process? | Dr. Nilantika Chakraborty | [Read More](https://medium.com/p/c96befba1ab5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 16:16:55 GMT | Inside the Hacker’s Mindset: How Thinking Like an Attacker Strengthens Your Defense | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/f9d54f51b8a7) |
 | Sun, 06 Jul 2025 16:15:48 GMT | Careers in IT: Exploring the Future-Proof Pathways of Tech in 2025 | Onkar Shirke | [Read More](https://medium.com/p/284f3f08ea33) |
 | Sun, 06 Jul 2025 16:15:18 GMT | The Sigachi Blast: A Stark Wake-Up Call for CROs on Worker Safety and Accountability | vinay dahiya | [Read More](https://medium.com/p/ad22191c3295) |
-| Sun, 06 Jul 2025 16:14:51 GMT | Endpoint Detection and Response (EDR) Evasion Techniques Explained | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ba84547b0c9f) |
-| Sun, 06 Jul 2025 16:14:01 GMT | Overcome challenges in implementing DPDP Act’s “Consent Management” | Vaibhav Sonavane | [Read More](https://medium.com/p/23c8efdb18dc) |
-| Sun, 06 Jul 2025 16:01:49 GMT | Echo Pop vs Ring Outdoor Camera vs Ring Floodlight Cam: Which Amazon Smart Device Should You… | Vitalspark | [Read More](https://medium.com/p/c8ce3a5f01cc) |
-| Sun, 06 Jul 2025 16:01:34 GMT | Supply Chain, Supply Pain | Oludare Stephen Ayobami | [Read More](https://medium.com/p/191c8dd38767) |
-| Sun, 06 Jul 2025 16:00:45 GMT | CTF Day(26) | Ahmed Narmer | [Read More](https://medium.com/p/4760e9b83079) |
-| Sun, 06 Jul 2025 15:55:39 GMT | Intrusion Detection System (Part 2): Deep Learning with CNN + LSTM for Sequential Flow Analysis | Mohammed Saim Quadri | [Read More](https://medium.com/p/3116e6f1de3b) |
-| Sun, 06 Jul 2025 15:51:36 GMT | DO NOT CLICK THIS | Maximillian | [Read More](https://medium.com/p/c066481946d6) |
-| Sun, 06 Jul 2025 15:47:20 GMT | How to Use Nmap for Basic Network Scanning (A Beginner’s Guide) | Priyanka Karmakar | [Read More](https://medium.com/p/c113d34cb301) |
-| Sun, 06 Jul 2025 15:45:43 GMT | Automate Your Recon: One API to Run All Your Pentesting Tools Instantly | Aris Haryanto | [Read More](https://medium.com/p/e1502862c2c7) |
-| Sun, 06 Jul 2025 15:45:20 GMT | WriteUp TryHackMe - Pickle Rick | Rindaman666 | [Read More](https://medium.com/p/a25ec32c3724) |
-| Sun, 06 Jul 2025 15:44:42 GMT | Digital Snake Oil: Vendor Lies That Compromise Your Hospital | Travis Ray Caverhill | [Read More](https://medium.com/p/08b59424800b) |
