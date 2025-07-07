@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 18:55:00 GMT | From LFI to RCE — Real Exploitation in Practice | Santhosh Adiga U | [Read More](https://medium.com/p/06c29f78b04f) |
+| Mon, 07 Jul 2025 18:52:55 GMT | From File Upload Found LFI | Abdelrhman Yasser | [Read More](https://medium.com/p/7d17e5250b7a) |
+| Mon, 07 Jul 2025 18:49:36 GMT | Things I Do After Installing Kali Linux 2025.2 — My Full Setup | Kalyan Dev | [Read More](https://medium.com/p/a490e2df568f) |
+| Mon, 07 Jul 2025 18:46:48 GMT | How One Email Locked Out Two Admins — And How to Avoid It | StrangeRwhite | [Read More](https://medium.com/p/5e9ea5126a64) |
+| Mon, 07 Jul 2025 18:41:35 GMT | Penetration Testing the Future: Battling AI Attacks and Cyber Warfare in 2025 | Pentestjunkie07 | [Read More](https://medium.com/p/7e10c5410ecc) |
+| Mon, 07 Jul 2025 18:38:47 GMT | MCP 2025–06–18 Spec Update: What changed and Why it matters | Anmol Baranwal | [Read More](https://medium.com/p/3f474da03549) |
+| Mon, 07 Jul 2025 18:35:49 GMT | Path Traversal Like a Pro: Breaking Out of the Web Root | Santhosh Adiga U | [Read More](https://medium.com/p/1e6f8934bc0d) |
+| Mon, 07 Jul 2025 18:33:56 GMT | Offensive Security Intro | Shourya Pratap Singh | [Read More](https://medium.com/p/88ac621fcfbc) |
+| Mon, 07 Jul 2025 18:29:12 GMT | The Recursive Republic: Feedback, Fracture, and the Future | MacV | [Read More](https://medium.com/p/3413e40a5f21) |
+| Mon, 07 Jul 2025 18:28:48 GMT | 5 myths about AI & LLM security, debunked | Aristek Systems | [Read More](https://medium.com/p/60c99cfd46f9) |
+| Mon, 07 Jul 2025 18:28:26 GMT | Data Partitioning in Multi-Tenant SaaS: A Path to Strategic Scalability and Security | Abdullah @ Writes | [Read More](https://medium.com/p/d8869374e3dc) |
+| Mon, 07 Jul 2025 18:24:38 GMT | How I dealt with infidelity concerns / cheating partner. | Ralphamonger | [Read More](https://medium.com/p/60666b574c2a) |
 | Mon, 07 Jul 2025 18:20:09 GMT | Entendendo Bypass de Autenticação por SQL Injection. | Link | [Read More](https://medium.com/p/0cf95b1ffa2b) |
 | Mon, 07 Jul 2025 18:16:41 GMT | Butler VM Walkthrough | Spookz | [Read More](https://medium.com/p/48759029c531) |
 | Mon, 07 Jul 2025 18:16:00 GMT | We Don’t Fall in Love With People — We Fall in Love With How They Let Us Feel Ourselves | Spiken.Online | [Read More](https://medium.com/p/f02288696ab7) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 14:14:52 GMT | How to Set Up Your First Hacking Lab at Home (Without Breaking the Internet) | Aj | [Read More](https://medium.com/p/ce10c9d5b9d1) |
 | Mon, 07 Jul 2025 14:14:45 GMT | “Click Once, Chat Never Again” — The Low Severity Bug That Hijacked the AI Chat Forever | LordofHeaven | [Read More](https://medium.com/p/5f5579dfdc67) |
 | Mon, 07 Jul 2025 14:14:35 GMT | API Hacking Fundamentals for Beginners: A Guide to Getting Started | Prakhar Verma | [Read More](https://medium.com/p/b1dd51279807) |
-| Mon, 07 Jul 2025 14:08:15 GMT | Elastic Ingest Architecture — Logstash as a Proxy | Kaviarasan Asokan | [Read More](https://medium.com/p/d551837bc627) |
-| Mon, 07 Jul 2025 14:06:41 GMT | How I built my first Cybersecurity lab and Hacked myself (Ethically) | Dhairya Upadhyay | [Read More](https://medium.com/p/abe908bba636) |
-| Mon, 07 Jul 2025 14:05:53 GMT | Google Dorking | Dreaith | [Read More](https://medium.com/p/435f81cbf592) |
-| Mon, 07 Jul 2025 14:04:59 GMT | Libraries So Good, I Stopped Writing My Own Scripts | Darshan | [Read More](https://medium.com/p/4aab12021a79) |
-| Mon, 07 Jul 2025 14:01:47 GMT | How I Organize All My DeFi Transactions | 0xTeabag | [Read More](https://medium.com/p/902985453439) |
-| Mon, 07 Jul 2025 13:57:21 GMT | Cyber Briefing: 2025.07.07 | CyberMaterial | [Read More](https://medium.com/p/608d2ab8816e) |
-| Mon, 07 Jul 2025 13:41:19 GMT | Vibe-Coding after the Hype | João Vitor Sales | [Read More](https://medium.com/p/f281c0799a04) |
-| Mon, 07 Jul 2025 13:35:01 GMT | Kept: The Quietest Kind of Love | Federico Rossi | [Read More](https://medium.com/p/9ee0fbd47e7b) |
-| Mon, 07 Jul 2025 13:28:33 GMT | How I Identified a Logic Flaw in WhatsApp’s Call Verification | Pradumon Sahani | [Read More](https://medium.com/p/906ded6f8ce0) |
-| Mon, 07 Jul 2025 13:27:06 GMT | CISSP vs. OSCP in 2025: Which Certification Is Right for Your Cybersecurity Career? | Andrei Ivan | [Read More](https://medium.com/p/76b25450bb61) |
-| Mon, 07 Jul 2025 13:26:14 GMT | Comprehensive Security and Housekeeping Services in Delhi NCR: A Modern Approach by Secura Security | securasecurty | [Read More](https://medium.com/p/90ed654135d3) |
-| Mon, 07 Jul 2025 13:25:29 GMT | Footprinting Hackthebox | ma40ou | [Read More](https://medium.com/p/e1c02ed49330) |
