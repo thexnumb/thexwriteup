@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 03:35:09 GMT | What Happens When OSINT Meets Web3? Unmasking the Future of Transparency, Trust & Digital Truth | Biswajeet Poddar | [Read More](https://medium.com/p/a5eeabff2b6e) |
+| Mon, 07 Jul 2025 03:34:32 GMT | Squid Router Security: Protecting Your Network | Coded Ezra | [Read More](https://medium.com/p/5b9efd7ced98) |
+| Mon, 07 Jul 2025 03:32:56 GMT | 5 Best Practices for Node.js File Caching on Cloudways | Arunangshu Das | [Read More](https://medium.com/p/6704fd8da3f7) |
+| Mon, 07 Jul 2025 03:32:55 GMT | When Help Turns Hostile: How Interlock Turns Trust Into a Trojan Horse | Deven Chhajed | [Read More](https://medium.com/p/fe2e79fa7a7b) |
+| Mon, 07 Jul 2025 03:30:52 GMT | Monthly Infra Reviews: A Workflow Template That Can Save You Thousands | Saikat Paul | [Read More](https://medium.com/p/892ba0863ce9) |
 | Mon, 07 Jul 2025 03:25:17 GMT | Security and Audit Practices of Squid Router | Fibera Zara Rose Quinn | [Read More](https://medium.com/p/929f0f93ab82) |
 | Mon, 07 Jul 2025 03:24:22 GMT | Why I Built CyberPost: A Browser-Based Offline HTTP Request Tool for API Testing | 0xlaz | [Read More](https://medium.com/p/1bf99defa96c) |
 | Mon, 07 Jul 2025 03:21:12 GMT | Leadership Reflections — How the AI Era is Rewriting IT Strategy | Fabrice D.Kagame | [Read More](https://medium.com/p/a8ac8e602cdd) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 16:28:53 GMT | Track Everything in Your Network — Ultimate Wireshark Guide | err0rgod | [Read More](https://medium.com/p/49317b0fe0b8) |
 | Sun, 06 Jul 2025 16:24:30 GMT | NETWORK TEMELLERİ | g.o. | [Read More](https://medium.com/p/af4864b5c0f4) |
 | Sun, 06 Jul 2025 16:20:49 GMT | The Top 10 Emerging Threats in Medical Cybercrime | Travis Ray Caverhill | [Read More](https://medium.com/p/123bdee69d16) |
-| Sun, 06 Jul 2025 16:19:39 GMT | Insecure Design Leading to Information Disclosure via Improper Access Control (IDOR)($100 — $500) | Abin | [Read More](https://medium.com/p/230948b39c4c) |
-| Sun, 06 Jul 2025 16:17:06 GMT | Understanding PQC Families Challenges for Blind Signatures | Mehrnoush | [Read More](https://medium.com/p/0a81ae650169) |
-| Sun, 06 Jul 2025 16:16:55 GMT | Inside the Hacker’s Mindset: How Thinking Like an Attacker Strengthens Your Defense | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/f9d54f51b8a7) |
-| Sun, 06 Jul 2025 16:15:48 GMT | Careers in IT: Exploring the Future-Proof Pathways of Tech in 2025 | Onkar Shirke | [Read More](https://medium.com/p/284f3f08ea33) |
-| Sun, 06 Jul 2025 16:15:18 GMT | The Sigachi Blast: A Stark Wake-Up Call for CROs on Worker Safety and Accountability | vinay dahiya | [Read More](https://medium.com/p/ad22191c3295) |
