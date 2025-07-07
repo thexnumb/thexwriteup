@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 11:33:39 GMT | Reduce Costs & Boost Cloud Performance | Sid Chavda | [Read More](https://medium.com/p/48d030672ce2) |
+| Mon, 07 Jul 2025 11:33:15 GMT | Challenge Writeup: bronze ASM | Mohamed atiaa | [Read More](https://medium.com/p/8d5fcfe0b8a1) |
+| Mon, 07 Jul 2025 11:31:55 GMT | cybersecurity headlines from today (July 7, 2025): | Darshan | [Read More](https://medium.com/p/56ff54e136be) |
+| Mon, 07 Jul 2025 11:23:55 GMT | ️Threat Intelligence Could’ve Stopped That Attack — And The One Before It Too | Geoffrey Blue-Jack | [Read More](https://medium.com/p/afc50fe08dcd) |
 | Mon, 07 Jul 2025 11:12:40 GMT | Adapt Digi Solutions — Your Partner in Digital Growth | Evelynharper | [Read More](https://medium.com/p/666b4ac6efb1) |
 | Mon, 07 Jul 2025 11:11:26 GMT | FileFix: A Clever Social Engineering Vector Inspired by Mr.d0x | Saimanish | [Read More](https://medium.com/p/ca954620db25) |
 | Mon, 07 Jul 2025 11:11:16 GMT | Transform Legacy Systems for Next-Gen Growth | Sid Chavda | [Read More](https://medium.com/p/2b2ba9a77729) |
+| Mon, 07 Jul 2025 11:10:51 GMT | Phishing Simulation & Investigation | whoami | [Read More](https://medium.com/p/20963afa4716) |
 | Mon, 07 Jul 2025 11:10:48 GMT | The Great Game Reloaded: Is the Caspian About to Explode? | Youcef Sail | [Read More](https://medium.com/p/478e923bbb50) |
+| Mon, 07 Jul 2025 11:10:13 GMT | PIE Time - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/5ee1d7bf07fc) |
 | Mon, 07 Jul 2025 11:04:54 GMT | A Subtle Bug That Opened the Door to Malicious Hyperlinks | Ehtesham Ul Haq | [Read More](https://medium.com/p/6d41d2801af6) |
 | Mon, 07 Jul 2025 10:59:36 GMT | What Are IT Solutions? A Beginner’s Guide for Businesses | Cybersolvings | [Read More](https://medium.com/p/6697e0f6cea9) |
 | Mon, 07 Jul 2025 10:54:29 GMT | I Asked ChatGPT to Plan My Life — Here's What Happened | Sana Sudhakaran7 | [Read More](https://medium.com/p/23f550b78c76) |
@@ -107,9 +113,3 @@ As technology continues to evolve… | Theinformaticshub | [Read More](https://m
 | Mon, 07 Jul 2025 06:29:10 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/0d73c04fcbe9) |
 | Mon, 07 Jul 2025 06:25:26 GMT | Smarter Security Starts Here: How AI is Revolutionizing Cyber Defense | Gauravinsightss | [Read More](https://medium.com/p/3f0599e33a6b) |
 | Mon, 07 Jul 2025 06:22:02 GMT | Comprehensive Protection for a Safer Tomorrow: Exploring Total Security Solutions and Security… | Ciss India | [Read More](https://medium.com/p/79f2cd1b9439) |
-| Mon, 07 Jul 2025 06:21:39 GMT | Belajar Pentesting denga OSSTMM: Tahap 1 — Memetakan Target Nmap | Nurilhamnurdin | [Read More](https://medium.com/p/faec9daa7e4b) |
-| Mon, 07 Jul 2025 06:21:39 GMT | Nacos Admin Interface RCE — SQLi to Full System Compromise | AerieWhole123 | [Read More](https://medium.com/p/7510a52c14f0) |
-| Mon, 07 Jul 2025 06:21:33 GMT | Evil-GPT — TryHackMe Writeup | Samyakkatiyar | [Read More](https://medium.com/p/cb834553a33a) |
-| Mon, 07 Jul 2025 06:20:10 GMT | Rise of API Attacks: Why API Security is Your Weakest Link | Saikat Paul | [Read More](https://medium.com/p/4ff849187d17) |
-| Mon, 07 Jul 2025 06:17:06 GMT | Top Cyber Security Academy in Thrissur: Why Cyber Echelon is Leading the Way” | elevx solutions | [Read More](https://medium.com/p/820cf5d39d53) |
-| Mon, 07 Jul 2025 06:02:03 GMT | From TikTok Gifting to Crypto Scams: When "Giveaways" Become Gateways to Fraud | Rilwanridwan | [Read More](https://medium.com/p/fe740e9915fa) |
