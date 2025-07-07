@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 10:21:51 GMT | How Taiwan’s NSB Blew the Whistle on App Data Risks — And Why You Need to Rethink Smartphone… | CyBlog | [Read More](https://medium.com/p/72fefef54d5b) |
+| Mon, 07 Jul 2025 10:16:55 GMT | Tecnopolitica, come la tecnologia ci rende soldati | Arturo Di Corinto | [Read More](https://medium.com/p/7c8217970375) |
+| Mon, 07 Jul 2025 10:14:36 GMT | [CyberDefenders Write-up] MeteorHit (Lab inspired by MeteorExpress incident) | Chicken0248 | [Read More](https://medium.com/p/ce96b72a28e9) |
+| Mon, 07 Jul 2025 10:03:55 GMT | We Age in Private, Perform in Public | Cat Milton | [Read More](https://medium.com/p/9b17d7a36074) |
+| Mon, 07 Jul 2025 10:02:27 GMT | Tech Tip Monday – Nikao IT Solutions | oheneba kwaku annor | [Read More](https://medium.com/p/ad399c5aaa1e) |
+| Mon, 07 Jul 2025 09:59:57 GMT | Zero Trust and Cybersecurity Audit: A Symbiotic Relationship | Consulting4sec | [Read More](https://medium.com/p/6e18774ad9eb) |
+| Mon, 07 Jul 2025 09:59:45 GMT | Road Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/322be8b56e66) |
+| Mon, 07 Jul 2025 09:57:51 GMT | Securing Your Server : Integrasi SSH Telegram Notification dengan Fail2Ban Biar Server Makin Aman | Syafa Asgani | [Read More](https://medium.com/p/c355b3ae631d) |
+| Mon, 07 Jul 2025 09:56:45 GMT | I will construct AWS resume for cybersecurity, cloud architect, devops cloud engineer | Excellentpeace | [Read More](https://medium.com/p/faad63be5277) |
+| Mon, 07 Jul 2025 09:49:43 GMT | The Letters She Never Sent | Lucas swami | [Read More](https://medium.com/p/042290ca84ed) |
+| Mon, 07 Jul 2025 09:47:58 GMT | From “Probably a False Positive” to a $$$$ Bounty: How I Exploited an Overlooked API |  | [Read More](https://medium.com/p/c35ea37105e9) |
+| Mon, 07 Jul 2025 09:46:24 GMT | Healthcare Data Center Security: Protecting Patient Information in Oman | Tekhabeeb | [Read More](https://medium.com/p/55e5573fdf85) |
+| Mon, 07 Jul 2025 09:45:11 GMT | My AfCFTA Research Work Has Officially Begun | Covenant O.B. | [Read More](https://medium.com/p/388f316ab0d1) |
+| Mon, 07 Jul 2025 09:43:06 GMT | What Is Microsegmentation? Everything You Need to Know in a Nutshell | Moristhewriter | [Read More](https://medium.com/p/fdb42d270749) |
+| Mon, 07 Jul 2025 09:40:40 GMT | Recursion of Sin. The sins of our past. | Nul⧉ID | [Read More](https://medium.com/p/32870428d46a) |
 | Mon, 07 Jul 2025 09:32:45 GMT | IT Governance: 21 Strategies for Robust Compliance | SecureSlate | [Read More](https://medium.com/p/f29584db3986) |
 | Mon, 07 Jul 2025 09:31:51 GMT | 3 Ways to Deploy SafeLine WAF for Maximum Protection | Quella | [Read More](https://medium.com/p/3cb58bee0214) |
 | Mon, 07 Jul 2025 09:21:39 GMT | If Only They Knew | Da Mar | [Read More](https://medium.com/p/4574f9db3b84) |
@@ -98,18 +113,3 @@ As technology continues to evolve… | Theinformaticshub | [Read More](https://m
 | Mon, 07 Jul 2025 04:36:20 GMT | Why Most “Threat Hunts” Are Just Expensive Fishing Expeditions | Manish Rawat | [Read More](https://medium.com/p/e73863e2cb13) |
 | Mon, 07 Jul 2025 04:36:03 GMT | Building Production-Grade APIs with Spring Boot 3.x | Mr_Jeet_24 | [Read More](https://medium.com/p/189fe81580fe) |
 | Mon, 07 Jul 2025 04:31:24 GMT | The Linux Security Journey — LUKS (Linux Unified Key Setup) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8a418c4fb9ce) |
-| Mon, 07 Jul 2025 04:30:34 GMT | Securing LLMs and Chatbots | Saikat Paul | [Read More](https://medium.com/p/b519eb4d7280) |
-| Mon, 07 Jul 2025 04:23:45 GMT | Unmasking the Deceit: A Comprehensive Deepfake Detection System | NeuralNomad | [Read More](https://medium.com/p/12f934832712) |
-| Mon, 07 Jul 2025 04:23:01 GMT | ประจำวันจันทร์ที่ 7 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/23e73f3efdce) |
-| Mon, 07 Jul 2025 04:21:23 GMT | Offensive Tradecraft: Bypassing Modern EDRs Using A Custom Python Loader | Isaac Privett | [Read More](https://medium.com/p/353867292b8b) |
-| Mon, 07 Jul 2025 04:17:52 GMT | AI-Powered Attacks: How Generative AI is Being Weaponized by Hackers | Saikat Paul | [Read More](https://medium.com/p/2c738b74f848) |
-| Mon, 07 Jul 2025 04:10:47 GMT | The Canary Payload Trick — Find Bugs Without Breaking Anything | Đeepanshu | [Read More](https://medium.com/p/172016c35407) |
-| Mon, 07 Jul 2025 03:35:09 GMT | What Happens When OSINT Meets Web3? Unmasking the Future of Transparency, Trust & Digital Truth | Biswajeet Poddar | [Read More](https://medium.com/p/a5eeabff2b6e) |
-| Mon, 07 Jul 2025 03:34:32 GMT | Squid Router Security: Protecting Your Network | Coded Ezra | [Read More](https://medium.com/p/5b9efd7ced98) |
-| Mon, 07 Jul 2025 03:32:56 GMT | 5 Best Practices for Node.js File Caching on Cloudways | Arunangshu Das | [Read More](https://medium.com/p/6704fd8da3f7) |
-| Mon, 07 Jul 2025 03:32:55 GMT | When Help Turns Hostile: How Interlock Turns Trust Into a Trojan Horse | Deven Chhajed | [Read More](https://medium.com/p/fe2e79fa7a7b) |
-| Mon, 07 Jul 2025 03:30:52 GMT | Monthly Infra Reviews: A Workflow Template That Can Save You Thousands | Saikat Paul | [Read More](https://medium.com/p/892ba0863ce9) |
-| Mon, 07 Jul 2025 03:25:17 GMT | Security and Audit Practices of Squid Router | Fibera Zara Rose Quinn | [Read More](https://medium.com/p/929f0f93ab82) |
-| Mon, 07 Jul 2025 03:24:22 GMT | Why I Built CyberPost: A Browser-Based Offline HTTP Request Tool for API Testing | 0xlaz | [Read More](https://medium.com/p/1bf99defa96c) |
-| Mon, 07 Jul 2025 03:21:12 GMT | Leadership Reflections — How the AI Era is Rewriting IT Strategy | Fabrice D.Kagame | [Read More](https://medium.com/p/a8ac8e602cdd) |
-| Mon, 07 Jul 2025 02:28:03 GMT | HR: The New Perimeter of Cybersecurity | B M Zahid ul Haque | [Read More](https://medium.com/p/5787001d023d) |
