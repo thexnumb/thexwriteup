@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 09:32:45 GMT | IT Governance: 21 Strategies for Robust Compliance | SecureSlate | [Read More](https://medium.com/p/f29584db3986) |
+| Mon, 07 Jul 2025 09:31:51 GMT | 3 Ways to Deploy SafeLine WAF for Maximum Protection | Quella | [Read More](https://medium.com/p/3cb58bee0214) |
+| Mon, 07 Jul 2025 09:21:39 GMT | If Only They Knew | Da Mar | [Read More](https://medium.com/p/4574f9db3b84) |
 | Mon, 07 Jul 2025 09:19:50 GMT | How to Conduct a Cybersecurity Audit — A Step-by-Step Guide for Businesses | Consulting4sec | [Read More](https://medium.com/p/b77459cef1d5) |
 | Mon, 07 Jul 2025 09:16:51 GMT | Cybersecurity in Critical Sectors: Learning from the Skies to Protect Our Infrastructure. | Jair Abrego Cubilla | [Read More](https://medium.com/p/211e411e82b0) |
 | Mon, 07 Jul 2025 09:11:56 GMT | A Poor Person Is Anyone Who Lives to Pay Bills | Maggie Maggie | [Read More](https://medium.com/p/fa5933dd6378) |
@@ -110,6 +113,3 @@ As technology continues to evolve… | Theinformaticshub | [Read More](https://m
 | Mon, 07 Jul 2025 03:24:22 GMT | Why I Built CyberPost: A Browser-Based Offline HTTP Request Tool for API Testing | 0xlaz | [Read More](https://medium.com/p/1bf99defa96c) |
 | Mon, 07 Jul 2025 03:21:12 GMT | Leadership Reflections — How the AI Era is Rewriting IT Strategy | Fabrice D.Kagame | [Read More](https://medium.com/p/a8ac8e602cdd) |
 | Mon, 07 Jul 2025 02:28:03 GMT | HR: The New Perimeter of Cybersecurity | B M Zahid ul Haque | [Read More](https://medium.com/p/5787001d023d) |
-| Mon, 07 Jul 2025 02:27:45 GMT | What is OpenCTI and Why It Matters | Codingjourney | [Read More](https://medium.com/p/6c85f2620c3b) |
-| Mon, 07 Jul 2025 02:25:52 GMT | SillyPutty Malware Analysis | Adrian Jenkins | [Read More](https://medium.com/p/fd63a1369009) |
-| Mon, 07 Jul 2025 02:24:46 GMT | Is Facebook Dating Safe? Reviewing Meta’s Matchmaker | Cassandra Miller | [Read More](https://medium.com/p/3076070f9fd9) |
