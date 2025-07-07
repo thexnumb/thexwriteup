@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 16:47:46 GMT | Cracking Hashes: The Complete Guide | Santhosh Adiga U | [Read More](https://medium.com/p/0a5cedf4dc7b) |
+| Mon, 07 Jul 2025 16:44:09 GMT | Caido Alternatif BurpSuite | ANGGA | [Read More](https://medium.com/p/b523b69c6ad2) |
+| Mon, 07 Jul 2025 16:36:00 GMT | ️ Can AI Detect Threats Before They Happen? You Can Try It With Real SOC Data | Paritosh | [Read More](https://medium.com/p/8814b13e6a0e) |
+| Mon, 07 Jul 2025 16:29:04 GMT | Directory Enumeration: Zero to Mastery | Santhosh Adiga U | [Read More](https://medium.com/p/8609e68db1f6) |
 | Mon, 07 Jul 2025 16:21:29 GMT | What Happens After the Breach? Understanding the Cyber Kill Chain | Karthikeyan Nagaraj | [Read More](https://medium.com/p/8549c7905598) |
 | Mon, 07 Jul 2025 16:20:31 GMT | 7 Proven Ways to Ensure Data Protection in Hybrid Cloud Environments | Techridge Solutions | [Read More](https://medium.com/p/fff41f656aa2) |
 | Mon, 07 Jul 2025 16:18:37 GMT | Incident Analysis: How a Simple RDP Password Spray Led to a Full-Blown RansomHub Attack | Jon C | [Read More](https://medium.com/p/54f022e5a4ea) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 11:57:03 GMT | hashcrack - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/02033998af8d) |
 | Mon, 07 Jul 2025 11:55:43 GMT | Unleashing the Power of Caido: The Next-Generation Web Security Toolkit | Taha Ex | [Read More](https://medium.com/p/c96c90a7340b) |
 | Mon, 07 Jul 2025 11:37:32 GMT | Top 20 Penetration Testing Companies in Philippines | Qualysectechnologies | [Read More](https://medium.com/p/77ce1a16ccf6) |
-| Mon, 07 Jul 2025 11:33:39 GMT | Reduce Costs & Boost Cloud Performance | Sid Chavda | [Read More](https://medium.com/p/48d030672ce2) |
-| Mon, 07 Jul 2025 11:33:15 GMT | Challenge Writeup: bronze ASM | Mohamed atiaa | [Read More](https://medium.com/p/8d5fcfe0b8a1) |
-| Mon, 07 Jul 2025 11:31:55 GMT | cybersecurity headlines from today (July 7, 2025): | Darshan | [Read More](https://medium.com/p/56ff54e136be) |
-| Mon, 07 Jul 2025 11:23:55 GMT | ️Threat Intelligence Could’ve Stopped That Attack — And The One Before It Too | Geoffrey Blue-Jack | [Read More](https://medium.com/p/afc50fe08dcd) |
