@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 05:15:45 GMT | ZoomEye Dorking - Advanced OSINT | AbhirupKonwar | [Read More](https://medium.com/p/63018aa933d9) |
+| Mon, 07 Jul 2025 05:09:44 GMT | Cyber Security & Individual Privacy | Dhanush Kalanithi T M | [Read More](https://medium.com/p/43614e0aa4a7) |
+| Mon, 07 Jul 2025 05:04:28 GMT | RST TI Report Digest: 07 Jul 2025 | RST Cloud | [Read More](https://medium.com/p/5fa3bfd90684) |
+| Mon, 07 Jul 2025 04:57:56 GMT | Building a Serverless Dictionary App with AWS: Amplify, Lambda & DynamoDB | Akuphe Dieudonne | [Read More](https://medium.com/p/0ddab5f8dfe7) |
 | Mon, 07 Jul 2025 04:49:00 GMT | DOM XSS: The Client-Side Time Bomb in Your JavaScript | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1ff51e44fd35) |
 | Mon, 07 Jul 2025 04:42:07 GMT | How a Simple Break Turned a Duplicate Into a P1 Bounty via Request Method Manipulation | Whitehat | [Read More](https://medium.com/p/72994a088079) |
 | Mon, 07 Jul 2025 04:40:30 GMT | Introducing Dotenvx: The Next Generation of Environment Variable Management | tekeshwar singh | [Read More](https://medium.com/p/057eb55f395b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 17:20:11 GMT | Cipher’s Secret Message — TryHackMe Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/f9032620eb56) |
 | Sun, 06 Jul 2025 17:19:04 GMT | Why Heartbleed Was So Devastating | Dennis Peter Munyao | [Read More](https://medium.com/p/271571c96ec6) |
 | Sun, 06 Jul 2025 17:18:20 GMT | How I Built a Real-Time “Failed Login” Alert System for My AWS Account | Aashishchaudhari | [Read More](https://medium.com/p/2b11cf42b1aa) |
-| Sun, 06 Jul 2025 17:17:08 GMT | Host Static Websites with NGINX — Fast, Secure & Free (Full Step-by-Step Guide) | Ashish Singh | [Read More](https://medium.com/p/57ecd15e0c1b) |
-| Sun, 06 Jul 2025 17:04:47 GMT | AgentX Isn’t What You Think It Is — And That’s a Good Thing.❗ | SupportXDR | [Read More](https://medium.com/p/6a21b45cb474) |
-| Sun, 06 Jul 2025 17:04:23 GMT | Is Public Wi-Fi Safe? What Actually Happens Under the Hood | Neha ravi | [Read More](https://medium.com/p/f70f4d3d9468) |
-| Sun, 06 Jul 2025 17:00:30 GMT | Challenge Writeup: GUI I | Mohamed atiaa | [Read More](https://medium.com/p/aa58b38740ae) |
