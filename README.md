@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 10:36:09 GMT | North Korean Hackers Are Posing as Remote Developers — Does your software give them backdoor access? | Karl Buhl | [Read More](https://medium.com/p/4c8fbe625d3b) |
+| Mon, 07 Jul 2025 10:33:27 GMT | The Rogue Bot Who Dreamt of Sheeps | Nul⧉ID | [Read More](https://medium.com/p/3308789c5fef) |
+| Mon, 07 Jul 2025 10:31:14 GMT | Secrecy within Transparency: Why DigiCert Delays CT Log Registrations for Months | Yasunori Kuji | [Read More](https://medium.com/p/881b58b05370) |
+| Mon, 07 Jul 2025 10:30:00 GMT | Waterproof mascara | Pio Vivo | [Read More](https://medium.com/p/93b911acbf1b) |
+| Mon, 07 Jul 2025 10:27:07 GMT | The Man in the Middle Attack (MITM) — Explained Like You’re 5 | Thomas Angela | [Read More](https://medium.com/p/4bbb633dfe02) |
+| Mon, 07 Jul 2025 10:22:26 GMT | Why I Chose to Start Writing (Even Though I Was Scared) | The Raw Draft | [Read More](https://medium.com/p/718d035d3912) |
 | Mon, 07 Jul 2025 10:21:51 GMT | How Taiwan’s NSB Blew the Whistle on App Data Risks — And Why You Need to Rethink Smartphone… | CyBlog | [Read More](https://medium.com/p/72fefef54d5b) |
+| Mon, 07 Jul 2025 10:17:08 GMT | Angular Security Hacks Every Developer Must Know (With Live Demos!) | Rajat | [Read More](https://medium.com/p/f505b24ad1a5) |
 | Mon, 07 Jul 2025 10:16:55 GMT | Tecnopolitica, come la tecnologia ci rende soldati | Arturo Di Corinto | [Read More](https://medium.com/p/7c8217970375) |
 | Mon, 07 Jul 2025 10:14:36 GMT | [CyberDefenders Write-up] MeteorHit (Lab inspired by MeteorExpress incident) | Chicken0248 | [Read More](https://medium.com/p/ce96b72a28e9) |
 | Mon, 07 Jul 2025 10:03:55 GMT | We Age in Private, Perform in Public | Cat Milton | [Read More](https://medium.com/p/9b17d7a36074) |
@@ -106,10 +113,3 @@ As technology continues to evolve… | Theinformaticshub | [Read More](https://m
 | Mon, 07 Jul 2025 05:15:45 GMT | ZoomEye Dorking - Advanced OSINT | AbhirupKonwar | [Read More](https://medium.com/p/63018aa933d9) |
 | Mon, 07 Jul 2025 05:09:44 GMT | Cyber Security & Individual Privacy | Dhanush Kalanithi T M | [Read More](https://medium.com/p/43614e0aa4a7) |
 | Mon, 07 Jul 2025 05:04:28 GMT | RST TI Report Digest: 07 Jul 2025 | RST Cloud | [Read More](https://medium.com/p/5fa3bfd90684) |
-| Mon, 07 Jul 2025 04:57:56 GMT | Building a Serverless Dictionary App with AWS: Amplify, Lambda & DynamoDB | Akuphe Dieudonne | [Read More](https://medium.com/p/0ddab5f8dfe7) |
-| Mon, 07 Jul 2025 04:49:00 GMT | DOM XSS: The Client-Side Time Bomb in Your JavaScript | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1ff51e44fd35) |
-| Mon, 07 Jul 2025 04:42:07 GMT | How a Simple Break Turned a Duplicate Into a P1 Bounty via Request Method Manipulation | Whitehat | [Read More](https://medium.com/p/72994a088079) |
-| Mon, 07 Jul 2025 04:40:30 GMT | Introducing Dotenvx: The Next Generation of Environment Variable Management | tekeshwar singh | [Read More](https://medium.com/p/057eb55f395b) |
-| Mon, 07 Jul 2025 04:36:20 GMT | Why Most “Threat Hunts” Are Just Expensive Fishing Expeditions | Manish Rawat | [Read More](https://medium.com/p/e73863e2cb13) |
-| Mon, 07 Jul 2025 04:36:03 GMT | Building Production-Grade APIs with Spring Boot 3.x | Mr_Jeet_24 | [Read More](https://medium.com/p/189fe81580fe) |
-| Mon, 07 Jul 2025 04:31:24 GMT | The Linux Security Journey — LUKS (Linux Unified Key Setup) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8a418c4fb9ce) |
