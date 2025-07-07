@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 15:18:56 GMT | Google Cyber Security Professional Certificate Review & Study Notes | Motasem Hamdan | [Read More](https://medium.com/p/62663a491580) |
+| Mon, 07 Jul 2025 15:17:20 GMT | What Is Enterprise Cybersecurity? Best Companies & Solutions | Nadiadeka | [Read More](https://medium.com/p/fa85f026e871) |
+| Mon, 07 Jul 2025 14:54:29 GMT | A Comprehensive Guide to Protect Data, Models, and Users in the GenAI Era | Boris Zaikin | [Read More](https://medium.com/p/26a04317f98c) |
+| Mon, 07 Jul 2025 14:48:51 GMT | WiFi Pentesting in Real Environments — Part 2: Attacking WPA2-Enterprise (EAP) Wi-Fi Networks | Sachin kewat | [Read More](https://medium.com/p/7784acb54219) |
+| Mon, 07 Jul 2025 14:48:50 GMT | Obfuscated Scriptler Güvenlik Önlemlerinizi Atlatabilir mi? | Necati Ustun | [Read More](https://medium.com/p/9b65d1645b4d) |
+| Mon, 07 Jul 2025 14:47:35 GMT | Build a Custom Python Payload (Virus) That Bypasses Antivirus — Step-by-Step Guide | Tamilselvan A K | [Read More](https://medium.com/p/076680d8d63d) |
+| Mon, 07 Jul 2025 14:45:01 GMT | Mellow Drama: Turning Browsers Into Request Brokers | John Tuckner | [Read More](https://medium.com/p/c25bdd3e6455) |
 | Mon, 07 Jul 2025 14:39:30 GMT | Leaving Biotech: My Journey Into Cybersecurity | Natalie | [Read More](https://medium.com/p/1b9783ee9a28) |
 | Mon, 07 Jul 2025 14:35:31 GMT | how to get increase the reader scene our medium articles | S Anuradha | [Read More](https://medium.com/p/c2faf2e7ec51) |
 | Mon, 07 Jul 2025 14:35:07 GMT | Bringing DevSecOps from Valley to Battlefield: How Detachment 201 and cATO Are Redefining Army… | Mike Bynum | [Read More](https://medium.com/p/48efb92ef79c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 10:14:36 GMT | [CyberDefenders Write-up] MeteorHit (Lab inspired by MeteorExpress incident) | Chicken0248 | [Read More](https://medium.com/p/ce96b72a28e9) |
 | Mon, 07 Jul 2025 10:03:55 GMT | We Age in Private, Perform in Public | Cat Milton | [Read More](https://medium.com/p/9b17d7a36074) |
 | Mon, 07 Jul 2025 10:02:27 GMT | Tech Tip Monday – Nikao IT Solutions | oheneba kwaku annor | [Read More](https://medium.com/p/ad399c5aaa1e) |
-| Mon, 07 Jul 2025 09:59:57 GMT | Zero Trust and Cybersecurity Audit: A Symbiotic Relationship | Consulting4sec | [Read More](https://medium.com/p/6e18774ad9eb) |
-| Mon, 07 Jul 2025 09:59:45 GMT | Road Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/322be8b56e66) |
-| Mon, 07 Jul 2025 09:57:51 GMT | Securing Your Server : Integrasi SSH Telegram Notification dengan Fail2Ban Biar Server Makin Aman | Syafa Asgani | [Read More](https://medium.com/p/c355b3ae631d) |
-| Mon, 07 Jul 2025 09:56:45 GMT | I will construct AWS resume for cybersecurity, cloud architect, devops cloud engineer | Excellentpeace | [Read More](https://medium.com/p/faad63be5277) |
-| Mon, 07 Jul 2025 09:49:43 GMT | The Letters She Never Sent | Lucas swami | [Read More](https://medium.com/p/042290ca84ed) |
-| Mon, 07 Jul 2025 09:47:58 GMT | From “Probably a False Positive” to a $$$$ Bounty: How I Exploited an Overlooked API |  | [Read More](https://medium.com/p/c35ea37105e9) |
-| Mon, 07 Jul 2025 09:46:24 GMT | Healthcare Data Center Security: Protecting Patient Information in Oman | Tekhabeeb | [Read More](https://medium.com/p/55e5573fdf85) |
