@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 05:38:03 GMT | Digital Transformation with the Best Application Services | Clodgater | [Read More](https://medium.com/p/75deede5af44) |
+| Mon, 07 Jul 2025 05:34:59 GMT | Who Cracked Bitcoin on July 4th? | Eloise | [Read More](https://medium.com/p/408230a70f5d) |
+| Mon, 07 Jul 2025 05:26:01 GMT | Website Development in 2025: Should You Code or Go No-Code? | TechVizor | [Read More](https://medium.com/p/bc178e62eb2c) |
+| Mon, 07 Jul 2025 05:20:47 GMT | THÔNG BÁO CẬP NHẬT ĐỊA CHỈ MỚI | Thành Trung Mobile | [Read More](https://medium.com/p/f7d379fc87a3) |
+| Mon, 07 Jul 2025 05:19:32 GMT | You Are Being Watched — What I Learned from My First Cybersecurity Course | RTB CYBERTECH | [Read More](https://medium.com/p/794d06fd695a) |
 | Mon, 07 Jul 2025 05:15:45 GMT | ZoomEye Dorking - Advanced OSINT | AbhirupKonwar | [Read More](https://medium.com/p/63018aa933d9) |
 | Mon, 07 Jul 2025 05:09:44 GMT | Cyber Security & Individual Privacy | Dhanush Kalanithi T M | [Read More](https://medium.com/p/43614e0aa4a7) |
 | Mon, 07 Jul 2025 05:04:28 GMT | RST TI Report Digest: 07 Jul 2025 | RST Cloud | [Read More](https://medium.com/p/5fa3bfd90684) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 17:49:03 GMT | AWS Detection Engineering: Mastering Log Sources for Threat Detection | Muh. Fani Akbar | [Read More](https://medium.com/p/51372da9a17e) |
 | Sun, 06 Jul 2025 17:39:53 GMT | Bitcoin’s Final Ascent & My Strategic WLFI Entry: Timing the Market Before Euphoria Hits | chimezie bright | [Read More](https://medium.com/p/bc8d37d1836e) |
 | Sun, 06 Jul 2025 17:39:06 GMT | Is HTTPS Enough? Rethinking Secure Data Exchange Over APIs | NH. Jangra | [Read More](https://medium.com/p/f0bd3bd2a234) |
-| Sun, 06 Jul 2025 17:34:42 GMT | Against All Odds | Wizard Mike | [Read More](https://medium.com/p/7afc5b32e38e) |
-| Sun, 06 Jul 2025 17:22:48 GMT | Why DSP Consultants Is a Go-To for Physical Security Design in Dubai | Reviews | [Read More](https://medium.com/p/376bf2ea51b8) |
-| Sun, 06 Jul 2025 17:20:11 GMT | Cipher’s Secret Message — TryHackMe Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/f9032620eb56) |
-| Sun, 06 Jul 2025 17:19:04 GMT | Why Heartbleed Was So Devastating | Dennis Peter Munyao | [Read More](https://medium.com/p/271571c96ec6) |
-| Sun, 06 Jul 2025 17:18:20 GMT | How I Built a Real-Time “Failed Login” Alert System for My AWS Account | Aashishchaudhari | [Read More](https://medium.com/p/2b11cf42b1aa) |
