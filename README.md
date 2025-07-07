@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 15:41:06 GMT | TryHackMe — John the Ripper: The Basics - Cyber Security 101 (THM) | Paarthbhatt | [Read More](https://medium.com/p/1be625362fa3) |
+| Mon, 07 Jul 2025 15:39:55 GMT | Evil-GPT v2 Solved Easily - TryHackMe CTF Walkthrough | MatSec | [Read More](https://medium.com/p/ad6f9f072a1b) |
+| Mon, 07 Jul 2025 15:39:15 GMT | How Rainbow Secure Protects Your SaaS Environment | Dr. Shashi Karhail | [Read More](https://medium.com/p/2902f14fe467) |
+| Mon, 07 Jul 2025 15:38:00 GMT | SOC Analyst Myth vs Reality: What They Don’t Tell You in Cyber School | Vijay Kumar Gupta | [Read More](https://medium.com/p/b48fe4750195) |
+| Mon, 07 Jul 2025 15:36:36 GMT | DAY 7 — Chapter 3: What You’re Not Supposed to Know (but Definitely Should) | Jinay | [Read More](https://medium.com/p/9807deae9620) |
+| Mon, 07 Jul 2025 15:28:20 GMT | How I Hacked Evil-GPT — A Rogue AI CTF Challenge on TryHackMe | MatSec | [Read More](https://medium.com/p/50ff84955251) |
+| Mon, 07 Jul 2025 15:26:32 GMT | Unminify - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/181ba0337a7f) |
+| Mon, 07 Jul 2025 15:22:14 GMT | Implementing Custom AI Investigators in Vertex AI for Google SecOps | Mike | [Read More](https://medium.com/p/51fb0baaf458) |
+| Mon, 07 Jul 2025 15:19:32 GMT | Strengthening Data Security & Compliance with SecureFLO | SecureFLO | [Read More](https://medium.com/p/97d2c406152c) |
 | Mon, 07 Jul 2025 15:18:56 GMT | Google Cyber Security Professional Certificate Review & Study Notes | Motasem Hamdan | [Read More](https://medium.com/p/62663a491580) |
+| Mon, 07 Jul 2025 15:18:52 GMT | Try Hack Me — Red Team Threat Intel | Aqua | [Read More](https://medium.com/p/61f449ce8cb2) |
 | Mon, 07 Jul 2025 15:17:20 GMT | What Is Enterprise Cybersecurity? Best Companies & Solutions | Nadiadeka | [Read More](https://medium.com/p/fa85f026e871) |
 | Mon, 07 Jul 2025 14:54:29 GMT | A Comprehensive Guide to Protect Data, Models, and Users in the GenAI Era | Boris Zaikin | [Read More](https://medium.com/p/26a04317f98c) |
 | Mon, 07 Jul 2025 14:48:51 GMT | WiFi Pentesting in Real Environments — Part 2: Attacking WPA2-Enterprise (EAP) Wi-Fi Networks | Sachin kewat | [Read More](https://medium.com/p/7784acb54219) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 10:43:00 GMT | Account Takeover via Cookie-Based Stored XSS ($1650 Bounty) | Staphy | [Read More](https://medium.com/p/817dcc57be65) |
 | Mon, 07 Jul 2025 10:36:09 GMT | North Korean Hackers Are Posing as Remote Developers — Does your software give them backdoor access? | Karl Buhl | [Read More](https://medium.com/p/4c8fbe625d3b) |
 | Mon, 07 Jul 2025 10:33:27 GMT | The Rogue Bot Who Dreamt of Sheeps | Nul⧉ID | [Read More](https://medium.com/p/3308789c5fef) |
-| Mon, 07 Jul 2025 10:31:14 GMT | Secrecy within Transparency: Why DigiCert Delays CT Log Registrations for Months | Yasunori Kuji | [Read More](https://medium.com/p/881b58b05370) |
-| Mon, 07 Jul 2025 10:30:00 GMT | Waterproof mascara | Pio Vivo | [Read More](https://medium.com/p/93b911acbf1b) |
-| Mon, 07 Jul 2025 10:27:07 GMT | The Man in the Middle Attack (MITM) — Explained Like You’re 5 | Thomas Angela | [Read More](https://medium.com/p/4bbb633dfe02) |
-| Mon, 07 Jul 2025 10:22:26 GMT | Why I Chose to Start Writing (Even Though I Was Scared) | The Raw Draft | [Read More](https://medium.com/p/718d035d3912) |
-| Mon, 07 Jul 2025 10:21:51 GMT | How Taiwan’s NSB Blew the Whistle on App Data Risks — And Why You Need to Rethink Smartphone… | CyBlog | [Read More](https://medium.com/p/72fefef54d5b) |
-| Mon, 07 Jul 2025 10:17:08 GMT | Angular Security Hacks Every Developer Must Know (With Live Demos!) | Rajat | [Read More](https://medium.com/p/f505b24ad1a5) |
-| Mon, 07 Jul 2025 10:16:55 GMT | Tecnopolitica, come la tecnologia ci rende soldati | Arturo Di Corinto | [Read More](https://medium.com/p/7c8217970375) |
-| Mon, 07 Jul 2025 10:14:36 GMT | [CyberDefenders Write-up] MeteorHit (Lab inspired by MeteorExpress incident) | Chicken0248 | [Read More](https://medium.com/p/ce96b72a28e9) |
-| Mon, 07 Jul 2025 10:03:55 GMT | We Age in Private, Perform in Public | Cat Milton | [Read More](https://medium.com/p/9b17d7a36074) |
-| Mon, 07 Jul 2025 10:02:27 GMT | Tech Tip Monday – Nikao IT Solutions | oheneba kwaku annor | [Read More](https://medium.com/p/ad399c5aaa1e) |
