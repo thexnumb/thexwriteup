@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 22:59:19 GMT | You’re Not Failing. The System Is. | Prince Esien | [Read More](https://medium.com/p/085f556ff613) |
+| Mon, 07 Jul 2025 22:47:09 GMT | Protecting Values in Environment Variables: Part I, Gatekeeper | W. Jenks Gibbons | [Read More](https://medium.com/p/50dabe4cfc49) |
 | Mon, 07 Jul 2025 22:34:06 GMT | I Wasn’t Healing. I Was Hiding. | Mr Cool | [Read More](https://medium.com/p/e1a0a7918f90) |
 | Mon, 07 Jul 2025 22:31:58 GMT | VulnCicada - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/50c9915c0725) |
 | Mon, 07 Jul 2025 22:17:29 GMT | How AI is Changing Software Development: A Developer’s Experience | Harrievincent | [Read More](https://medium.com/p/8beadfa19c90) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 16:13:45 GMT | From Push‑Ups to Acquisition: My Journey as PingSafe’s Founding Sales Leader | Dhiraj Khare | [Read More](https://medium.com/p/c42777d47d0b) |
 | Mon, 07 Jul 2025 16:12:34 GMT | Subdomain Enumeration: Zero to Mastery | Santhosh Adiga U | [Read More](https://medium.com/p/2fbe650307dd) |
 | Mon, 07 Jul 2025 16:12:33 GMT | The Ultimate Guide to Security Uniforms: Quality, Reliability, and Affordability | Prouniformsusa | [Read More](https://medium.com/p/6584e2adb859) |
-| Mon, 07 Jul 2025 16:07:55 GMT | Sends launches digital cards with wallet integration | Alona Shevtsova | [Read More](https://medium.com/p/54ba69c0857a) |
-| Mon, 07 Jul 2025 16:03:00 GMT | Check Browser Fingerprint - What It Reveals & How to Hide It | Timonéofearth | [Read More](https://medium.com/p/37a692952445) |
