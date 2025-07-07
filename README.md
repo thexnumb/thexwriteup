@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 06:29:10 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/0d73c04fcbe9) |
+| Mon, 07 Jul 2025 06:25:26 GMT | Smarter Security Starts Here: How AI is Revolutionizing Cyber Defense | Gauravinsightss | [Read More](https://medium.com/p/3f0599e33a6b) |
+| Mon, 07 Jul 2025 06:22:02 GMT | Comprehensive Protection for a Safer Tomorrow: Exploring Total Security Solutions and Security… | Ciss India | [Read More](https://medium.com/p/79f2cd1b9439) |
+| Mon, 07 Jul 2025 06:21:39 GMT | Belajar Pentesting denga OSSTMM: Tahap 1 — Memetakan Target Nmap | Nurilhamnurdin | [Read More](https://medium.com/p/faec9daa7e4b) |
+| Mon, 07 Jul 2025 06:21:39 GMT | Nacos Admin Interface RCE — SQLi to Full System Compromise | AerieWhole123 | [Read More](https://medium.com/p/7510a52c14f0) |
+| Mon, 07 Jul 2025 06:21:33 GMT | Evil-GPT — TryHackMe Writeup | Samyakkatiyar | [Read More](https://medium.com/p/cb834553a33a) |
+| Mon, 07 Jul 2025 06:20:10 GMT | Rise of API Attacks: Why API Security is Your Weakest Link | Saikat Paul | [Read More](https://medium.com/p/4ff849187d17) |
+| Mon, 07 Jul 2025 06:17:06 GMT | Top Cyber Security Academy in Thrissur: Why Cyber Echelon is Leading the Way” | elevx solutions | [Read More](https://medium.com/p/820cf5d39d53) |
+| Mon, 07 Jul 2025 06:02:03 GMT | From TikTok Gifting to Crypto Scams: When "Giveaways" Become Gateways to Fraud | Rilwanridwan | [Read More](https://medium.com/p/fe740e9915fa) |
+| Mon, 07 Jul 2025 06:01:42 GMT | Are cybersecurity stocks a buy? | RiskHedge Research | [Read More](https://medium.com/p/324618512e73) |
+| Mon, 07 Jul 2025 06:00:19 GMT | Why OPTIONS Requests? Real Examples, Security Implications, and Best Practices | Sajidur Rahman | [Read More](https://medium.com/p/be5493c5ae48) |
+| Mon, 07 Jul 2025 05:55:59 GMT | AI Cybersecurity Solutions: Smarter Defense for Modern Threats | Benjaminanderson | [Read More](https://medium.com/p/7da1d71f6137) |
+| Mon, 07 Jul 2025 05:48:43 GMT | 10 Shocking Stats About Server Market That Will Blow Your Mind | HostNOC | [Read More](https://medium.com/p/0dee54b715e4) |
 | Mon, 07 Jul 2025 05:38:03 GMT | Digital Transformation with the Best Application Services | Clodgater | [Read More](https://medium.com/p/75deede5af44) |
 | Mon, 07 Jul 2025 05:34:59 GMT | Who Cracked Bitcoin on July 4th? | Eloise | [Read More](https://medium.com/p/408230a70f5d) |
 | Mon, 07 Jul 2025 05:26:01 GMT | Website Development in 2025: Should You Code or Go No-Code? | TechVizor | [Read More](https://medium.com/p/bc178e62eb2c) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 18:59:55 GMT | The Most Dangerous One-Liners in Bash and Python (and How to Spot Them) | Code With Hannan | [Read More](https://medium.com/p/7e981894d537) |
 | Sun, 06 Jul 2025 18:54:21 GMT | VAPT Report on HTTPAPI Services in Windows 10 Healthcare Endpoint | Aditya Bhatt | [Read More](https://medium.com/p/d4adb82e2877) |
 | Sun, 06 Jul 2025 18:36:41 GMT | Detecting Phishing Attacks Through URL Feature Analysis and Machine Learning Models | Montaserabdulhamid | [Read More](https://medium.com/p/d238a59c08b8) |
-| Sun, 06 Jul 2025 18:35:18 GMT | Basic IP-lookup Automation Script for VirusTotal | Evs | [Read More](https://medium.com/p/0e590cfbc126) |
-| Sun, 06 Jul 2025 18:34:33 GMT | ️ The Best Cybersecurity Tools for Freelance Developers in 2025 (Free + Paid) | Abdul Rehman Khan | [Read More](https://medium.com/p/64becf974e81) |
-| Sun, 06 Jul 2025 18:23:57 GMT | Zero Trust at Scale: How Federal Agencies Are Building a Safer Digital Infrastructure | Jeffrey Nickle | [Read More](https://medium.com/p/d0e0c2fc5581) |
-| Sun, 06 Jul 2025 18:13:44 GMT | Active Directory Lab — Part 2: Organizational Units, Users & Groups | Hicham Kernaf | [Read More](https://medium.com/p/dbff63f635c1) |
-| Sun, 06 Jul 2025 18:13:32 GMT | Best IDEs and AI Coding Assistants in 2025: Complete Guide to VSCode, Cursor, GitHub Copilot & More | Shahid Sharif | [Read More](https://medium.com/p/2b62c9526f9f) |
-| Sun, 06 Jul 2025 18:07:08 GMT | Stop Using These 5 Outdated Security Practices Before It’s Too Late! | OptimizationMaster | [Read More](https://medium.com/p/85ea90ef72fa) |
-| Sun, 06 Jul 2025 18:06:03 GMT | Crafting a DIY “Dead Man’s Switch” for Your Secrets | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a6dbf44511df) |
-| Sun, 06 Jul 2025 18:02:57 GMT | Saving the PT1: My Comeback Story | Sedrick Gobina | [Read More](https://medium.com/p/cd9829c6c7fd) |
-| Sun, 06 Jul 2025 18:00:55 GMT | Dev Walkthrough | Spookz | [Read More](https://medium.com/p/1507f2719d67) |
-| Sun, 06 Jul 2025 17:52:08 GMT | Top Spy Apps to Track Any Phone Stealthily and Remotely | Narjis Batool | [Read More](https://medium.com/p/4c8a66bc5d7f) |
-| Sun, 06 Jul 2025 17:49:03 GMT | AWS Detection Engineering: Mastering Log Sources for Threat Detection | Muh. Fani Akbar | [Read More](https://medium.com/p/51372da9a17e) |
-| Sun, 06 Jul 2025 17:39:53 GMT | Bitcoin’s Final Ascent & My Strategic WLFI Entry: Timing the Market Before Euphoria Hits | chimezie bright | [Read More](https://medium.com/p/bc8d37d1836e) |
-| Sun, 06 Jul 2025 17:39:06 GMT | Is HTTPS Enough? Rethinking Secure Data Exchange Over APIs | NH. Jangra | [Read More](https://medium.com/p/f0bd3bd2a234) |
