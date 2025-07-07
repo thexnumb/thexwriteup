@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 14:15:40 GMT | How to Easily Find exposed Secret keys and Tokens in Bug Hunting | RivuDon | [Read More](https://medium.com/p/afed1ea9e883) |
+| Mon, 07 Jul 2025 14:14:52 GMT | How to Set Up Your First Hacking Lab at Home (Without Breaking the Internet) | Aj | [Read More](https://medium.com/p/ce10c9d5b9d1) |
+| Mon, 07 Jul 2025 14:14:45 GMT | “Click Once, Chat Never Again” — The Low Severity Bug That Hijacked the AI Chat Forever | LordofHeaven | [Read More](https://medium.com/p/5f5579dfdc67) |
+| Mon, 07 Jul 2025 14:14:35 GMT | API Hacking Fundamentals for Beginners: A Guide to Getting Started | Prakhar Verma | [Read More](https://medium.com/p/b1dd51279807) |
+| Mon, 07 Jul 2025 14:06:41 GMT | How I built my first Cybersecurity lab and Hacked myself (Ethically) | Dhairya Upadhyay | [Read More](https://medium.com/p/abe908bba636) |
+| Mon, 07 Jul 2025 14:05:53 GMT | Google Dorking | Dreaith | [Read More](https://medium.com/p/435f81cbf592) |
+| Mon, 07 Jul 2025 14:04:59 GMT | Libraries So Good, I Stopped Writing My Own Scripts | Darshan | [Read More](https://medium.com/p/4aab12021a79) |
+| Mon, 07 Jul 2025 14:01:47 GMT | How I Organize All My DeFi Transactions | 0xTeabag | [Read More](https://medium.com/p/902985453439) |
+| Mon, 07 Jul 2025 13:57:21 GMT | Cyber Briefing: 2025.07.07 | CyberMaterial | [Read More](https://medium.com/p/608d2ab8816e) |
+| Mon, 07 Jul 2025 13:41:19 GMT | Vibe-Coding after the Hype | João Vitor Sales | [Read More](https://medium.com/p/f281c0799a04) |
+| Mon, 07 Jul 2025 13:35:01 GMT | Kept: The Quietest Kind of Love | Federico Rossi | [Read More](https://medium.com/p/9ee0fbd47e7b) |
+| Mon, 07 Jul 2025 13:28:33 GMT | How I Identified a Logic Flaw in WhatsApp’s Call Verification | Pradumon Sahani | [Read More](https://medium.com/p/906ded6f8ce0) |
 | Mon, 07 Jul 2025 13:27:06 GMT | CISSP vs. OSCP in 2025: Which Certification Is Right for Your Cybersecurity Career? | Andrei Ivan | [Read More](https://medium.com/p/76b25450bb61) |
 | Mon, 07 Jul 2025 13:26:14 GMT | Comprehensive Security and Housekeeping Services in Delhi NCR: A Modern Approach by Secura Security | securasecurty | [Read More](https://medium.com/p/90ed654135d3) |
 | Mon, 07 Jul 2025 13:25:29 GMT | Footprinting Hackthebox | ma40ou | [Read More](https://medium.com/p/e1c02ed49330) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 09:16:51 GMT | Cybersecurity in Critical Sectors: Learning from the Skies to Protect Our Infrastructure. | Jair Abrego Cubilla | [Read More](https://medium.com/p/211e411e82b0) |
 | Mon, 07 Jul 2025 09:11:56 GMT | A Poor Person Is Anyone Who Lives to Pay Bills | Maggie Maggie | [Read More](https://medium.com/p/fa5933dd6378) |
 | Mon, 07 Jul 2025 09:10:51 GMT | Cut Ci/CD cost with own GitHub | Saidur Rahman | [Read More](https://medium.com/p/17e5f06756ed) |
-| Mon, 07 Jul 2025 09:06:45 GMT | The Rising Demand for Private Security in Pakistan | Desert Hawaks | [Read More](https://medium.com/p/587fc07f22e9) |
-| Mon, 07 Jul 2025 09:02:03 GMT | Custom AnyDesk Abuse: A Stealthy Way Adversaries Take Over Your System | Divya Trivedi | [Read More](https://medium.com/p/e7bf97d4c3d5) |
-| Mon, 07 Jul 2025 09:01:04 GMT | The Wallet With a Way Out | Rollbacklabs | [Read More](https://medium.com/p/c179678fddf5) |
-| Mon, 07 Jul 2025 08:56:32 GMT | How I Secured Azure Virtual Machines Using NSGs and ASGs | Giathidaniel | [Read More](https://medium.com/p/ac805019c8bd) |
-| Mon, 07 Jul 2025 08:51:39 GMT | Home Security Systems Boston: Stay Ahead of Threats | First Alarm LLC | [Read More](https://medium.com/p/7f4f34bc8956) |
-| Mon, 07 Jul 2025 08:51:03 GMT | What protects your cloud transformation journey? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/9c1a5d0be808) |
-| Mon, 07 Jul 2025 08:47:35 GMT | BYOD Software: 10 Best Tools for 2025 Revealed | Vantage MDM | [Read More](https://medium.com/p/ee78d6407c20) |
-| Mon, 07 Jul 2025 08:47:07 GMT | The OWASP Top 10 — But Make It Salesforce | Musa Ndlala | [Read More](https://medium.com/p/2a9e9b845edc) |
-| Mon, 07 Jul 2025 08:43:03 GMT | “No Clue, New Journey: Day 1 of Becoming a Cybersecurity Pro” | irsim.ahsya | [Read More](https://medium.com/p/23a293c47419) |
-| Mon, 07 Jul 2025 08:38:31 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/03231ba32e12) |
-| Mon, 07 Jul 2025 08:36:16 GMT | Directory Traversal Nedir? Web Uygulamalarında Gizli Dizinlere Yolculuk | Hasan Çavdar | [Read More](https://medium.com/p/52dbca1d4aec) |
-| Mon, 07 Jul 2025 08:35:51 GMT | SafeLine WAF Docker Compose Breakdown: Understanding the `mgt` Service | AerieWhole123 | [Read More](https://medium.com/p/880ec41574d8) |
