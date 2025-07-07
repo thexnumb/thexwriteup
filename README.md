@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 11:12:40 GMT | Adapt Digi Solutions — Your Partner in Digital Growth | Evelynharper | [Read More](https://medium.com/p/666b4ac6efb1) |
+| Mon, 07 Jul 2025 11:11:26 GMT | FileFix: A Clever Social Engineering Vector Inspired by Mr.d0x | Saimanish | [Read More](https://medium.com/p/ca954620db25) |
+| Mon, 07 Jul 2025 11:11:16 GMT | Transform Legacy Systems for Next-Gen Growth | Sid Chavda | [Read More](https://medium.com/p/2b2ba9a77729) |
+| Mon, 07 Jul 2025 11:10:48 GMT | The Great Game Reloaded: Is the Caspian About to Explode? | Youcef Sail | [Read More](https://medium.com/p/478e923bbb50) |
+| Mon, 07 Jul 2025 11:04:54 GMT | A Subtle Bug That Opened the Door to Malicious Hyperlinks | Ehtesham Ul Haq | [Read More](https://medium.com/p/6d41d2801af6) |
+| Mon, 07 Jul 2025 10:59:36 GMT | What Are IT Solutions? A Beginner’s Guide for Businesses | Cybersolvings | [Read More](https://medium.com/p/6697e0f6cea9) |
+| Mon, 07 Jul 2025 10:54:29 GMT | I Asked ChatGPT to Plan My Life — Here's What Happened | Sana Sudhakaran7 | [Read More](https://medium.com/p/23f550b78c76) |
+| Mon, 07 Jul 2025 10:52:58 GMT | A CISO’s Guide to GenAI Security: What’s Real, What’s Hype, and What Can’t Wait | Shreyas Naik | [Read More](https://medium.com/p/9ed3f01d6d63) |
+| Mon, 07 Jul 2025 10:51:07 GMT | The ARP Protocol Under Attack: Understanding ARP Spoofing and How to Prevent It | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/d65e7669014b) |
+| Mon, 07 Jul 2025 10:49:00 GMT | Smart Security Solutions: How Technology is Transforming Safety in Homes and Businesses | Desert Hawaks | [Read More](https://medium.com/p/d30f4c8ea723) |
+| Mon, 07 Jul 2025 10:45:33 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/0fdf34ca48df) |
+| Mon, 07 Jul 2025 10:43:00 GMT | Account Takeover via Cookie-Based Stored XSS ($1650 Bounty) | Staphy | [Read More](https://medium.com/p/817dcc57be65) |
 | Mon, 07 Jul 2025 10:36:09 GMT | North Korean Hackers Are Posing as Remote Developers — Does your software give them backdoor access? | Karl Buhl | [Read More](https://medium.com/p/4c8fbe625d3b) |
 | Mon, 07 Jul 2025 10:33:27 GMT | The Rogue Bot Who Dreamt of Sheeps | Nul⧉ID | [Read More](https://medium.com/p/3308789c5fef) |
 | Mon, 07 Jul 2025 10:31:14 GMT | Secrecy within Transparency: Why DigiCert Delays CT Log Registrations for Months | Yasunori Kuji | [Read More](https://medium.com/p/881b58b05370) |
@@ -101,15 +113,3 @@ As technology continues to evolve… | Theinformaticshub | [Read More](https://m
 | Mon, 07 Jul 2025 06:20:10 GMT | Rise of API Attacks: Why API Security is Your Weakest Link | Saikat Paul | [Read More](https://medium.com/p/4ff849187d17) |
 | Mon, 07 Jul 2025 06:17:06 GMT | Top Cyber Security Academy in Thrissur: Why Cyber Echelon is Leading the Way” | elevx solutions | [Read More](https://medium.com/p/820cf5d39d53) |
 | Mon, 07 Jul 2025 06:02:03 GMT | From TikTok Gifting to Crypto Scams: When "Giveaways" Become Gateways to Fraud | Rilwanridwan | [Read More](https://medium.com/p/fe740e9915fa) |
-| Mon, 07 Jul 2025 06:01:42 GMT | Are cybersecurity stocks a buy? | RiskHedge Research | [Read More](https://medium.com/p/324618512e73) |
-| Mon, 07 Jul 2025 06:00:19 GMT | Why OPTIONS Requests? Real Examples, Security Implications, and Best Practices | Sajidur Rahman | [Read More](https://medium.com/p/be5493c5ae48) |
-| Mon, 07 Jul 2025 05:55:59 GMT | AI Cybersecurity Solutions: Smarter Defense for Modern Threats | Benjaminanderson | [Read More](https://medium.com/p/7da1d71f6137) |
-| Mon, 07 Jul 2025 05:48:43 GMT | 10 Shocking Stats About Server Market That Will Blow Your Mind | HostNOC | [Read More](https://medium.com/p/0dee54b715e4) |
-| Mon, 07 Jul 2025 05:38:03 GMT | Digital Transformation with the Best Application Services | Clodgater | [Read More](https://medium.com/p/75deede5af44) |
-| Mon, 07 Jul 2025 05:34:59 GMT | Who Cracked Bitcoin on July 4th? | Eloise | [Read More](https://medium.com/p/408230a70f5d) |
-| Mon, 07 Jul 2025 05:26:01 GMT | Website Development in 2025: Should You Code or Go No-Code? | TechVizor | [Read More](https://medium.com/p/bc178e62eb2c) |
-| Mon, 07 Jul 2025 05:20:47 GMT | THÔNG BÁO CẬP NHẬT ĐỊA CHỈ MỚI | Thành Trung Mobile | [Read More](https://medium.com/p/f7d379fc87a3) |
-| Mon, 07 Jul 2025 05:19:32 GMT | You Are Being Watched — What I Learned from My First Cybersecurity Course | RTB CYBERTECH | [Read More](https://medium.com/p/794d06fd695a) |
-| Mon, 07 Jul 2025 05:15:45 GMT | ZoomEye Dorking - Advanced OSINT | AbhirupKonwar | [Read More](https://medium.com/p/63018aa933d9) |
-| Mon, 07 Jul 2025 05:09:44 GMT | Cyber Security & Individual Privacy | Dhanush Kalanithi T M | [Read More](https://medium.com/p/43614e0aa4a7) |
-| Mon, 07 Jul 2025 05:04:28 GMT | RST TI Report Digest: 07 Jul 2025 | RST Cloud | [Read More](https://medium.com/p/5fa3bfd90684) |
