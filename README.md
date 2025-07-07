@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 18:20:09 GMT | Entendendo Bypass de Autenticação por SQL Injection. | Link | [Read More](https://medium.com/p/0cf95b1ffa2b) |
+| Mon, 07 Jul 2025 18:16:41 GMT | Butler VM Walkthrough | Spookz | [Read More](https://medium.com/p/48759029c531) |
+| Mon, 07 Jul 2025 18:16:00 GMT | We Don’t Fall in Love With People — We Fall in Love With How They Let Us Feel Ourselves | Spiken.Online | [Read More](https://medium.com/p/f02288696ab7) |
+| Mon, 07 Jul 2025 18:14:35 GMT | Web Scanning with Nikto & Nuclei: The Unfiltered Guide | Santhosh Adiga U | [Read More](https://medium.com/p/be1305a18922) |
+| Mon, 07 Jul 2025 18:10:32 GMT | Nmap Advanced Port Scans — TryHackMe | sercan timocin | [Read More](https://medium.com/p/c2d6a3fef686) |
+| Mon, 07 Jul 2025 18:10:28 GMT | my (not so) introduction to medium | issy wilson | [Read More](https://medium.com/p/0b3dbc7f4da8) |
+| Mon, 07 Jul 2025 18:06:45 GMT | UNLOCK YOUR REWARDS: ZENTRY’S NEXUS PRE-SEASON SECOND WAVE IS LIVE! | STANLEY | [Read More](https://medium.com/p/7dffd373496b) |
+| Mon, 07 Jul 2025 18:06:33 GMT | Writing Pentest Reports | Shourya Pratap Singh | [Read More](https://medium.com/p/fb36da911b4a) |
+| Mon, 07 Jul 2025 18:05:19 GMT | File Systems Demystified: NTFS, FAT32, exFAT, EXT — Explained with a Simple Story | Natarajan C K | [Read More](https://medium.com/p/9baf8279cd1a) |
+| Mon, 07 Jul 2025 18:05:04 GMT | From Brilliant Idea to Business-Ending Breach: Why Security is Non-Negotiable for Today’s… | Darryl MacLeod | [Read More](https://medium.com/p/d1857d7ab4c1) |
+| Mon, 07 Jul 2025 17:54:57 GMT | Introduction to Security Assessment and Testing | Igor Berner | [Read More](https://medium.com/p/97617d9df675) |
+| Mon, 07 Jul 2025 17:51:39 GMT | TryHackMe Looking Glass — Walkthrough | mauzware | [Read More](https://medium.com/p/ca79e480c0d2) |
+| Mon, 07 Jul 2025 17:51:38 GMT | About Me | Aaron Rusz | [Read More](https://medium.com/p/4f32ba3e1640) |
+| Mon, 07 Jul 2025 17:51:28 GMT | SIEM Microsoft Azure Honeypot Project | I.R | [Read More](https://medium.com/p/66e370296376) |
+| Mon, 07 Jul 2025 17:47:28 GMT | Demystifying STRIDE: A Practical Guide to Threat Modeling with Real-World Examples | Shubham Pandey | [Read More](https://medium.com/p/6eb8de8100c2) |
+| Mon, 07 Jul 2025 17:46:06 GMT | How You Can Survive the AI Tsunami | devsecops | [Read More](https://medium.com/p/12ac4c1a649d) |
+| Mon, 07 Jul 2025 17:44:58 GMT | AI Security Isn’t Optional Anymore. | Alexandre Capita | [Read More](https://medium.com/p/32714618b2e6) |
+| Mon, 07 Jul 2025 17:44:29 GMT | Exploring the ELLIPAL Hardware Wallet: A Secure Cold Wallet Solution | Asqwfxvxqw | [Read More](https://medium.com/p/7d214f33c63c) |
 | Mon, 07 Jul 2025 17:41:21 GMT | Hackers, AI, and Infrastructure: Why Penetration Testing Has Never Been More Critical | Inforsecpro | [Read More](https://medium.com/p/e2bd39bef817) |
 | Mon, 07 Jul 2025 17:37:30 GMT | Demystifying STRIDE: A Practical Guide to Threat Modeling with Real-World Examples | Aman Pandey | [Read More](https://medium.com/p/3910c5966029) |
 | Mon, 07 Jul 2025 17:36:22 GMT | Day 43: The OSI Model | Nile Okomo | [Read More](https://medium.com/p/3024b6eafe77) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 13:27:06 GMT | CISSP vs. OSCP in 2025: Which Certification Is Right for Your Cybersecurity Career? | Andrei Ivan | [Read More](https://medium.com/p/76b25450bb61) |
 | Mon, 07 Jul 2025 13:26:14 GMT | Comprehensive Security and Housekeeping Services in Delhi NCR: A Modern Approach by Secura Security | securasecurty | [Read More](https://medium.com/p/90ed654135d3) |
 | Mon, 07 Jul 2025 13:25:29 GMT | Footprinting Hackthebox | ma40ou | [Read More](https://medium.com/p/e1c02ed49330) |
-| Mon, 07 Jul 2025 13:25:19 GMT | Corporate Greed Chronicles: Amazon’s Path to Hungry Bots, Lonely Jobs | Namir Sagheenanajar | [Read More](https://medium.com/p/f4abd571c514) |
-| Mon, 07 Jul 2025 13:19:47 GMT | Bravest Kind of Brave. | ladylyeverafter | [Read More](https://medium.com/p/20391b373793) |
-| Mon, 07 Jul 2025 13:19:32 GMT | Strategic Risk Management Solutions Tailored for UAE Businesses | Ahad me | [Read More](https://medium.com/p/730ccfd4200b) |
-| Mon, 07 Jul 2025 13:19:25 GMT | PortSwigger Lab: 2FA Simple Bypass writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/bec555ed8c18) |
-| Mon, 07 Jul 2025 13:18:47 GMT | Building a Real-World IOC Enrichment Tool for SOC Analysis | Dhruvish Rathod | [Read More](https://medium.com/p/74401c11ad0f) |
-| Mon, 07 Jul 2025 13:16:52 GMT | How I Found an XSS Flaw in Swagger UI | Ibtissam hammadi | [Read More](https://medium.com/p/aa3c224d78e4) |
-| Mon, 07 Jul 2025 13:15:01 GMT | Understanding Open Redirect Vulnerabilities: A Hidden Threat in Trusted URLs | Omniaelagroudy | [Read More](https://medium.com/p/01dd6cd31f81) |
-| Mon, 07 Jul 2025 13:13:54 GMT | Linux File System: A Gentle Introduction | Aresu - アレス | [Read More](https://medium.com/p/cdd09d715a8c) |
-| Mon, 07 Jul 2025 13:12:55 GMT | Why I still use a hardware wallet for airdrops (even if it’s a waste of time) | FIP Crypto | [Read More](https://medium.com/p/44b237777805) |
-| Mon, 07 Jul 2025 13:12:25 GMT | Maili Fire Timeline Reveals Powerful Lessons for Safety | Sadaqat Hayat | [Read More](https://medium.com/p/ea9a7a4381f1) |
-| Mon, 07 Jul 2025 13:12:09 GMT | Privilege Escalation Techniques Every Hacker Should Know | Isv | [Read More](https://medium.com/p/3a41c9b18706) |
-| Mon, 07 Jul 2025 13:09:57 GMT | PortSwigger Lab: Username enumeration via account lock writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/a01d8ee8d2ac) |
-| Mon, 07 Jul 2025 13:07:57 GMT | Fake Zoom Update, Real Drain: The Rise of APT Malware Targeting Your Crypto | BitOK | [Read More](https://medium.com/p/a597ab5b7292) |
-| Mon, 07 Jul 2025 13:05:49 GMT | LLM & AI Hacking: How AI is Being Exploited by Hackers - TryHackMe EvilGPT 1 & 2 | Motasem Hamdan | [Read More](https://medium.com/p/5fda60114a5a) |
-| Mon, 07 Jul 2025 13:03:21 GMT | Disappointments | Bhagya | [Read More](https://medium.com/p/2299140509e7) |
-| Mon, 07 Jul 2025 13:03:10 GMT | How to Install Windows 11 on VirtualBox (Step-by-Step Guide for Beginners) | Trixia Horner | [Read More](https://medium.com/p/623d20b70a67) |
-| Mon, 07 Jul 2025 13:01:37 GMT | PortSwigger Lab: Broken brute-force protection, IP block writeup (Authe | awes0meness | [Read More](https://medium.com/p/4be97e5eae14) |
-| Mon, 07 Jul 2025 13:01:11 GMT | Why Cyber Governance in 2025 Depends on Continuous Threat Exposure Management (CTEM) | John Davies | [Read More](https://medium.com/p/6436c3f4cfd7) |
