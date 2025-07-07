@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 04:49:00 GMT | DOM XSS: The Client-Side Time Bomb in Your JavaScript | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1ff51e44fd35) |
+| Mon, 07 Jul 2025 04:42:07 GMT | How a Simple Break Turned a Duplicate Into a P1 Bounty via Request Method Manipulation | Whitehat | [Read More](https://medium.com/p/72994a088079) |
+| Mon, 07 Jul 2025 04:40:30 GMT | Introducing Dotenvx: The Next Generation of Environment Variable Management | tekeshwar singh | [Read More](https://medium.com/p/057eb55f395b) |
+| Mon, 07 Jul 2025 04:36:20 GMT | Why Most “Threat Hunts” Are Just Expensive Fishing Expeditions | Manish Rawat | [Read More](https://medium.com/p/e73863e2cb13) |
+| Mon, 07 Jul 2025 04:36:03 GMT | Building Production-Grade APIs with Spring Boot 3.x | Mr_Jeet_24 | [Read More](https://medium.com/p/189fe81580fe) |
+| Mon, 07 Jul 2025 04:31:24 GMT | The Linux Security Journey — LUKS (Linux Unified Key Setup) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8a418c4fb9ce) |
+| Mon, 07 Jul 2025 04:30:34 GMT | Securing LLMs and Chatbots | Saikat Paul | [Read More](https://medium.com/p/b519eb4d7280) |
+| Mon, 07 Jul 2025 04:23:45 GMT | Unmasking the Deceit: A Comprehensive Deepfake Detection System | NeuralNomad | [Read More](https://medium.com/p/12f934832712) |
+| Mon, 07 Jul 2025 04:23:01 GMT | ประจำวันจันทร์ที่ 7 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/23e73f3efdce) |
+| Mon, 07 Jul 2025 04:21:23 GMT | Offensive Tradecraft: Bypassing Modern EDRs Using A Custom Python Loader | Isaac Privett | [Read More](https://medium.com/p/353867292b8b) |
+| Mon, 07 Jul 2025 04:17:52 GMT | AI-Powered Attacks: How Generative AI is Being Weaponized by Hackers | Saikat Paul | [Read More](https://medium.com/p/2c738b74f848) |
+| Mon, 07 Jul 2025 04:10:47 GMT | The Canary Payload Trick — Find Bugs Without Breaking Anything | Đeepanshu | [Read More](https://medium.com/p/172016c35407) |
 | Mon, 07 Jul 2025 03:35:09 GMT | What Happens When OSINT Meets Web3? Unmasking the Future of Transparency, Trust & Digital Truth | Biswajeet Poddar | [Read More](https://medium.com/p/a5eeabff2b6e) |
 | Mon, 07 Jul 2025 03:34:32 GMT | Squid Router Security: Protecting Your Network | Coded Ezra | [Read More](https://medium.com/p/5b9efd7ced98) |
 | Mon, 07 Jul 2025 03:32:56 GMT | 5 Best Practices for Node.js File Caching on Cloudways | Arunangshu Das | [Read More](https://medium.com/p/6704fd8da3f7) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 17:04:47 GMT | AgentX Isn’t What You Think It Is — And That’s a Good Thing.❗ | SupportXDR | [Read More](https://medium.com/p/6a21b45cb474) |
 | Sun, 06 Jul 2025 17:04:23 GMT | Is Public Wi-Fi Safe? What Actually Happens Under the Hood | Neha ravi | [Read More](https://medium.com/p/f70f4d3d9468) |
 | Sun, 06 Jul 2025 17:00:30 GMT | Challenge Writeup: GUI I | Mohamed atiaa | [Read More](https://medium.com/p/aa58b38740ae) |
-| Sun, 06 Jul 2025 16:58:01 GMT | Your PC is spying on you – here’s how to take back your privacy | Pranav Bhardwaj | [Read More](https://medium.com/p/8ac20231f31b) |
-| Sun, 06 Jul 2025 16:55:57 GMT | Don’t use Python If you want to become Hacker [ in 2025] | Mr Horbio | [Read More](https://medium.com/p/a1e6b71b32c4) |
-| Sun, 06 Jul 2025 16:50:25 GMT | مستقل وظائف عن بعد 2025: دليلك لبدء العمل الحر بخطوات سهلة | katibatech | [Read More](https://medium.com/p/57263b005eaa) |
-| Sun, 06 Jul 2025 16:48:28 GMT | Securing Your AWS Environment: Essential Security Measures You Must Implement | Ujjwalsapkota | [Read More](https://medium.com/p/ef96c665446a) |
-| Sun, 06 Jul 2025 16:45:45 GMT | Still Trusting Too Much? Why Zero Trust Security Isn’t Optional Anymore | Shayera Zareen | [Read More](https://medium.com/p/d7e0ec3be358) |
-| Sun, 06 Jul 2025 16:44:04 GMT | Building a Secure NIST Chatbot on Azure: From Inception to Completion | Jordan Bray | [Read More](https://medium.com/p/60b0c9401185) |
-| Sun, 06 Jul 2025 16:42:57 GMT | This Bitcoin Stat Shows Investors Are Preparing For A Rally | Wisdomakpananselem | [Read More](https://medium.com/p/323241a1f95f) |
-| Sun, 06 Jul 2025 16:37:58 GMT | Pivoting, Tunnelling, and Port Forwarding(Skills Assessment-HTB) | Knowntonone | [Read More](https://medium.com/p/ab76fefdff42) |
-| Sun, 06 Jul 2025 16:30:11 GMT | Passive Attacks: The Silent Threat in Cybersecurity | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/fdb68c14eed2) |
-| Sun, 06 Jul 2025 16:28:53 GMT | Track Everything in Your Network — Ultimate Wireshark Guide | err0rgod | [Read More](https://medium.com/p/49317b0fe0b8) |
-| Sun, 06 Jul 2025 16:24:30 GMT | NETWORK TEMELLERİ | g.o. | [Read More](https://medium.com/p/af4864b5c0f4) |
-| Sun, 06 Jul 2025 16:20:49 GMT | The Top 10 Emerging Threats in Medical Cybercrime | Travis Ray Caverhill | [Read More](https://medium.com/p/123bdee69d16) |
