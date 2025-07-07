@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 22:34:06 GMT | I Wasn’t Healing. I Was Hiding. | Mr Cool | [Read More](https://medium.com/p/e1a0a7918f90) |
+| Mon, 07 Jul 2025 22:31:58 GMT | VulnCicada - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/50c9915c0725) |
+| Mon, 07 Jul 2025 22:17:29 GMT | How AI is Changing Software Development: A Developer’s Experience | Harrievincent | [Read More](https://medium.com/p/8beadfa19c90) |
 | Mon, 07 Jul 2025 22:10:17 GMT | How I Crashed a Rust-Based VPN Server With a Malformed TLS Packet | MostReal | [Read More](https://medium.com/p/1010d1cdb95f) |
 | Mon, 07 Jul 2025 22:09:48 GMT | MS Sentinel: Introduction | Jawstar | [Read More](https://medium.com/p/086e0a1f2002) |
 | Mon, 07 Jul 2025 22:03:10 GMT | What Is a VPN and Do You Really Need One? | Timonéofearth | [Read More](https://medium.com/p/437028216f89) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 16:12:33 GMT | The Ultimate Guide to Security Uniforms: Quality, Reliability, and Affordability | Prouniformsusa | [Read More](https://medium.com/p/6584e2adb859) |
 | Mon, 07 Jul 2025 16:07:55 GMT | Sends launches digital cards with wallet integration | Alona Shevtsova | [Read More](https://medium.com/p/54ba69c0857a) |
 | Mon, 07 Jul 2025 16:03:00 GMT | Check Browser Fingerprint - What It Reveals & How to Hide It | Timonéofearth | [Read More](https://medium.com/p/37a692952445) |
-| Mon, 07 Jul 2025 16:02:57 GMT | The Enemy Within: Unmasking the Insider Threat | Faraz Ishaq | [Read More](https://medium.com/p/4230edcd5156) |
-| Mon, 07 Jul 2025 16:01:18 GMT | How I Hack a Hacker | Scofield O. Idehen | [Read More](https://medium.com/p/dec9e78e9e69) |
-| Mon, 07 Jul 2025 15:58:43 GMT | Secure Note Manager in React — Part 2. Client-Side Login with Web Crypto and Redux | Sergey Chin | [Read More](https://medium.com/p/2e19c32633c7) |
