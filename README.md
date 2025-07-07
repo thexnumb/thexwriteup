@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 21:11:46 GMT | Userland Hook Detection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/76f0eb5035cc) |
+| Mon, 07 Jul 2025 21:11:25 GMT | The CTI Dispatch #03: Weekly Cyber Threat Intel - Ivanti APTs, Ransomware, Supply Chain Attacks…. | Uddip Ranjan Das | [Read More](https://medium.com/p/bff41ef483ae) |
+| Mon, 07 Jul 2025 21:07:53 GMT | Nmap Post Port Scans — TryHackMe | sercan timocin | [Read More](https://medium.com/p/4784a5d34d97) |
+| Mon, 07 Jul 2025 21:05:39 GMT | Mastering SIEM: Optimization Strategies and Practical Tools for Entry-Level Analysts | Analyst Atlas | [Read More](https://medium.com/p/54b6026e41ff) |
+| Mon, 07 Jul 2025 21:04:10 GMT | Ransomware Attack on Ingram Micro Exposes Fragility in Global IT Distribution Chain | RealSec.io | [Read More](https://medium.com/p/3fab2a2b475f) |
+| Mon, 07 Jul 2025 21:03:58 GMT | Unity is the Best Weapon against Crime & Terrorism — 10 Research Paper | MuhammadAsim-GlobalProgressVolunteer | [Read More](https://medium.com/p/aab294c518d9) |
+| Mon, 07 Jul 2025 20:46:58 GMT | Steps to improve insider threat detection for small business | IT_Engineer | [Read More](https://medium.com/p/86096c461d2a) |
+| Mon, 07 Jul 2025 20:43:29 GMT | (LLM injection) Bypass payment in Chat GPT | ramzey elsayed mohamed | [Read More](https://medium.com/p/34b194d1210a) |
 | Mon, 07 Jul 2025 20:36:12 GMT | Shining Dragon: The Digital Perfection Behind The Great Wall | Onurcan Genç | [Read More](https://medium.com/p/e9171719b1f8) |
 | Mon, 07 Jul 2025 20:23:15 GMT | Ağ Donanımları (Network Devices) | g.o. | [Read More](https://medium.com/p/94c1092a2885) |
 | Mon, 07 Jul 2025 20:18:07 GMT | RotaJakiro Writeup — Cyberdefenders’ Lab | Riad Moudjahed | [Read More](https://medium.com/p/712f7f31edfe) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 15:28:20 GMT | How I Hacked Evil-GPT — A Rogue AI CTF Challenge on TryHackMe | MatSec | [Read More](https://medium.com/p/50ff84955251) |
 | Mon, 07 Jul 2025 15:26:32 GMT | Unminify - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/181ba0337a7f) |
 | Mon, 07 Jul 2025 15:22:14 GMT | Implementing Custom AI Investigators in Vertex AI for Google SecOps | Mike | [Read More](https://medium.com/p/51fb0baaf458) |
-| Mon, 07 Jul 2025 15:19:32 GMT | Strengthening Data Security & Compliance with SecureFLO | SecureFLO | [Read More](https://medium.com/p/97d2c406152c) |
-| Mon, 07 Jul 2025 15:18:56 GMT | Google Cyber Security Professional Certificate Review & Study Notes | Motasem Hamdan | [Read More](https://medium.com/p/62663a491580) |
-| Mon, 07 Jul 2025 15:18:52 GMT | Try Hack Me — Red Team Threat Intel | Aqua | [Read More](https://medium.com/p/61f449ce8cb2) |
-| Mon, 07 Jul 2025 15:17:20 GMT | What Is Enterprise Cybersecurity? Best Companies & Solutions | Nadiadeka | [Read More](https://medium.com/p/fa85f026e871) |
-| Mon, 07 Jul 2025 14:54:29 GMT | A Comprehensive Guide to Protect Data, Models, and Users in the GenAI Era | Boris Zaikin | [Read More](https://medium.com/p/26a04317f98c) |
-| Mon, 07 Jul 2025 14:48:51 GMT | WiFi Pentesting in Real Environments — Part 2: Attacking WPA2-Enterprise (EAP) Wi-Fi Networks | Sachin kewat | [Read More](https://medium.com/p/7784acb54219) |
-| Mon, 07 Jul 2025 14:48:50 GMT | Obfuscated Scriptler Güvenlik Önlemlerinizi Atlatabilir mi? | Necati Ustun | [Read More](https://medium.com/p/9b65d1645b4d) |
-| Mon, 07 Jul 2025 14:47:35 GMT | Build a Custom Python Payload (Virus) That Bypasses Antivirus — Step-by-Step Guide | Tamilselvan A K | [Read More](https://medium.com/p/076680d8d63d) |
