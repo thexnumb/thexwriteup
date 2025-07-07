@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 20:14:25 GMT | Keeping An Eye Out For Internet Scams: Signs and Warnings | Savvy Cyber Kids | [Read More](https://medium.com/p/2d3fd6d32139) |
+| Mon, 07 Jul 2025 20:14:00 GMT | Cyberbullying and Youth | Savvy Cyber Kids | [Read More](https://medium.com/p/f0e2d3723643) |
+| Mon, 07 Jul 2025 20:13:40 GMT | The Attacks in Israel as Seen on Social Media: A Reminder to Contextualize Violence for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/b7853a080667) |
+| Mon, 07 Jul 2025 20:03:37 GMT | A concise artificial intelligence (AI) governance checklist for ISO 27001:2022 compliance, with a… | Aaron Rusz | [Read More](https://medium.com/p/93bce3e9b3fd) |
+| Mon, 07 Jul 2025 20:00:37 GMT | SQL Injection & SQLMap: The Ultimate Guide That Actually Works | Santhosh Adiga U | [Read More](https://medium.com/p/54f658cae8d4) |
+| Mon, 07 Jul 2025 19:47:42 GMT | DNS in Cybersecurity: What I Learned When a Website Didn’t Load | NineTales | [Read More](https://medium.com/p/6707087616c1) |
+| Mon, 07 Jul 2025 19:46:08 GMT | How Feroot Helps Security Teams Meet NIST SP 800–53 Controls for Web Application Protection | Feroot Security | [Read More](https://medium.com/p/3a67f7a463fe) |
+| Mon, 07 Jul 2025 19:41:01 GMT | Wireshark Network Traffic Analysis Project: DNS, TCP/UDP, HTTP/HTTPS | Gamuchirai | [Read More](https://medium.com/p/b8b2d467fbcc) |
 | Mon, 07 Jul 2025 19:32:03 GMT | XSS in 2025 — The Payloads That Still Work | Santhosh Adiga U | [Read More](https://medium.com/p/3aa343e0b4f2) |
 | Mon, 07 Jul 2025 19:25:09 GMT | Cybersecurity Awareness for Small Companies: Why Frameworks Matter | DarKVoicE | [Read More](https://medium.com/p/55a69f5e067c) |
+| Mon, 07 Jul 2025 19:10:14 GMT | A concise artificial intelligence (AI) governance checklist for ISO 27001:2022 compliance, with a… | Aaron Rusz | [Read More](https://medium.com/p/550ccf5e92f9) |
 | Mon, 07 Jul 2025 18:55:00 GMT | From LFI to RCE — Real Exploitation in Practice | Santhosh Adiga U | [Read More](https://medium.com/p/06c29f78b04f) |
 | Mon, 07 Jul 2025 18:52:55 GMT | From File Upload Found LFI | Abdelrhman Yasser | [Read More](https://medium.com/p/7d17e5250b7a) |
 | Mon, 07 Jul 2025 18:49:36 GMT | Things I Do After Installing Kali Linux 2025.2 — My Full Setup | Kalyan Dev | [Read More](https://medium.com/p/a490e2df568f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 14:45:01 GMT | Mellow Drama: Turning Browsers Into Request Brokers | John Tuckner | [Read More](https://medium.com/p/c25bdd3e6455) |
 | Mon, 07 Jul 2025 14:39:30 GMT | Leaving Biotech: My Journey Into Cybersecurity | Natalie | [Read More](https://medium.com/p/1b9783ee9a28) |
 | Mon, 07 Jul 2025 14:35:31 GMT | how to get increase the reader scene our medium articles | S Anuradha | [Read More](https://medium.com/p/c2faf2e7ec51) |
-| Mon, 07 Jul 2025 14:35:07 GMT | Bringing DevSecOps from Valley to Battlefield: How Detachment 201 and cATO Are Redefining Army… | Mike Bynum | [Read More](https://medium.com/p/48efb92ef79c) |
-| Mon, 07 Jul 2025 14:35:07 GMT | how to get increase the readers in our medium articles | S Anuradha | [Read More](https://medium.com/p/89c35b61d42a) |
-| Mon, 07 Jul 2025 14:31:20 GMT | Graph Databases and Query Techniques for Cyber Threat Hunting ️ | Esra Kayhan | [Read More](https://medium.com/p/1f1df118ff0d) |
-| Mon, 07 Jul 2025 14:25:09 GMT | Let’s make this clear, there’s no clear way of drawing a pathway on how someone may pursue their… | Shaunak (SHA25) | [Read More](https://medium.com/p/c67cde290492) |
-| Mon, 07 Jul 2025 14:22:51 GMT | LINUX CHALLENGE | FromHumanities-Hacker | [Read More](https://medium.com/p/d9574c9a6f49) |
-| Mon, 07 Jul 2025 14:21:01 GMT | Passwords Vs Passkeys | Rahul Kumar | [Read More](https://medium.com/p/69c420ffb7b7) |
-| Mon, 07 Jul 2025 14:15:40 GMT | How to Easily Find exposed Secret keys and Tokens in Bug Hunting | RivuDon | [Read More](https://medium.com/p/afed1ea9e883) |
-| Mon, 07 Jul 2025 14:15:13 GMT | I Found a Bug in Internal Testing: Stored XSS in KYC Form Address Field | Yamini Yadav | [Read More](https://medium.com/p/4ede43cf99a2) |
-| Mon, 07 Jul 2025 14:14:52 GMT | How to Set Up Your First Hacking Lab at Home (Without Breaking the Internet) | Aj | [Read More](https://medium.com/p/ce10c9d5b9d1) |
