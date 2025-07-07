@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 17:14:30 GMT | Curl: The Powerful Command | Santhosh Adiga U | [Read More](https://medium.com/p/f0213e48791d) |
+| Mon, 07 Jul 2025 17:14:28 GMT | Threat Actors Read Logs. Do We? | Yuksel | [Read More](https://medium.com/p/ae5395272577) |
+| Mon, 07 Jul 2025 17:10:39 GMT | Wazuh Sysmon Detection Rules Fully Backed with MITRE ATT&CK — Now Available in Our Public Repo | SOCFortress | [Read More](https://medium.com/p/eae7ec90d865) |
+| Mon, 07 Jul 2025 17:10:01 GMT | GLOBAL CLOWN FIESTA:INTELLIGENCE FAIL 101 | Ghost | [Read More](https://medium.com/p/6aba52f02b41) |
+| Mon, 07 Jul 2025 17:06:03 GMT | Active vs. Passive Attacks in Cybersecurity: Explained Simply | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/213c4c73f1de) |
+| Mon, 07 Jul 2025 17:02:59 GMT | Securing Your Node.js Applications in 2025: Best Practices for Authentication and Authorization | habtesoft | [Read More](https://medium.com/p/0bd574ae3bb3) |
+| Mon, 07 Jul 2025 17:01:22 GMT | picoCTF — Scavanger Hunt | Robby firdauzy | [Read More](https://medium.com/p/b63a13a94664) |
+| Mon, 07 Jul 2025 16:59:05 GMT | Web_XQL_Scanner: My Journey Building a Python Tool to Detect XSS and SQL Injection in Web Apps | Ronak Joshi | [Read More](https://medium.com/p/b5269d10f10e) |
+| Mon, 07 Jul 2025 16:57:56 GMT | What I Check Every Week to Keep My Linux Servers Safe and Stable | Faruk Ahmed | [Read More](https://medium.com/p/cc05029c4e98) |
 | Mon, 07 Jul 2025 16:47:46 GMT | Cracking Hashes: The Complete Guide | Santhosh Adiga U | [Read More](https://medium.com/p/0a5cedf4dc7b) |
+| Mon, 07 Jul 2025 16:47:29 GMT | Tryhackme: Break it(Medium Room) | Faith Alabi Erioluwa | [Read More](https://medium.com/p/4f0ae044e710) |
+| Mon, 07 Jul 2025 16:44:48 GMT | The Guardians of Cybersecurity: Exploring the Different Teams in Security | SellaGanesh | [Read More](https://medium.com/p/a0e6423e32aa) |
 | Mon, 07 Jul 2025 16:44:09 GMT | Caido Alternatif BurpSuite | ANGGA | [Read More](https://medium.com/p/b523b69c6ad2) |
 | Mon, 07 Jul 2025 16:36:00 GMT | ️ Can AI Detect Threats Before They Happen? You Can Try It With Real SOC Data | Paritosh | [Read More](https://medium.com/p/8814b13e6a0e) |
 | Mon, 07 Jul 2025 16:29:04 GMT | Directory Enumeration: Zero to Mastery | Santhosh Adiga U | [Read More](https://medium.com/p/8609e68db1f6) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 12:26:42 GMT | Building an Impenetrable Fortress: Understanding and Implementing Defense in Depth | Rudraksh | [Read More](https://medium.com/p/18ba77aceb5e) |
 | Mon, 07 Jul 2025 12:22:18 GMT | Why Incident Response Services Are Critical for Modern Cybersecurity | Jitendrachavan | [Read More](https://medium.com/p/20f748ee3c19) |
 | Mon, 07 Jul 2025 12:21:48 GMT | I found a malware today… | Phish&Chips | [Read More](https://medium.com/p/9e15c1319439) |
-| Mon, 07 Jul 2025 12:21:38 GMT | Safeguarding Your Small Business from Online Scams and Cyber Threats in Kenya | Florence Wanjiru Macharia | [Read More](https://medium.com/p/881b5d2ea30d) |
-| Mon, 07 Jul 2025 12:20:27 GMT | Learning AWS Security by Breaking It: Mistakes You’ll Never Forget | Jose Pico | [Read More](https://medium.com/p/23fdd85b94fd) |
-| Mon, 07 Jul 2025 12:20:14 GMT | Yapay Zeka Yükseliyor, Peki Veri Güvenliği? | Aylin Karaoglu | [Read More](https://medium.com/p/0e9ecf989dc5) |
-| Mon, 07 Jul 2025 12:18:34 GMT | Inside the Scattered Spider Attack: How a UK Retail Giant Was Breached and What It Means for… | Shaheer Yasir | [Read More](https://medium.com/p/e3e94a7ce5bf) |
-| Mon, 07 Jul 2025 12:16:24 GMT | Best Free Threat Intelligence Feeds and How to Use Them with MISP/Splunk | Saikat Paul | [Read More](https://medium.com/p/871c7f419f84) |
-| Mon, 07 Jul 2025 12:14:32 GMT | The Weight of Being Real | ℯ | [Read More](https://medium.com/p/34f2ac5f76be) |
-| Mon, 07 Jul 2025 12:10:48 GMT | Sending Email Notifications on SSH Login Events | Mahinsha Nazeer | [Read More](https://medium.com/p/698ce8fc439b) |
-| Mon, 07 Jul 2025 12:05:36 GMT | The Ultimate Guide to Burp Suite Extensions for Web Application Penetration Testing | Saikat Paul | [Read More](https://medium.com/p/86a3b5ab7b57) |
-| Mon, 07 Jul 2025 11:57:03 GMT | hashcrack - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/02033998af8d) |
-| Mon, 07 Jul 2025 11:55:43 GMT | Unleashing the Power of Caido: The Next-Generation Web Security Toolkit | Taha Ex | [Read More](https://medium.com/p/c96c90a7340b) |
-| Mon, 07 Jul 2025 11:37:32 GMT | Top 20 Penetration Testing Companies in Philippines | Qualysectechnologies | [Read More](https://medium.com/p/77ce1a16ccf6) |
