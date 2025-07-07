@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 21:25:10 GMT | The Four Quadrants of AI: Why Security Will Define the Winners of the Agentic Era | Jaz Lin | [Read More](https://medium.com/p/4383146a8139) |
+| Mon, 07 Jul 2025 21:23:51 GMT | My Hacker Copilot Runs Ops with Me | Five Insights | [Read More](https://medium.com/p/3d031e727e52) |
+| Mon, 07 Jul 2025 21:21:28 GMT | The Cybersecurity — Career Accelerator (July 7) | Franklin Rhodes | [Read More](https://medium.com/p/bf95ad98f068) |
 | Mon, 07 Jul 2025 21:11:46 GMT | Userland Hook Detection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/76f0eb5035cc) |
 | Mon, 07 Jul 2025 21:11:25 GMT | The CTI Dispatch #03: Weekly Cyber Threat Intel - Ivanti APTs, Ransomware, Supply Chain Attacks…. | Uddip Ranjan Das | [Read More](https://medium.com/p/bff41ef483ae) |
 | Mon, 07 Jul 2025 21:07:53 GMT | Nmap Post Port Scans — TryHackMe | sercan timocin | [Read More](https://medium.com/p/4784a5d34d97) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 15:38:15 GMT | The Feeling You Can’t Name | Prince Esien | [Read More](https://medium.com/p/caf851e0cbfb) |
 | Mon, 07 Jul 2025 15:38:00 GMT | SOC Analyst Myth vs Reality: What They Don’t Tell You in Cyber School | Vijay Kumar Gupta | [Read More](https://medium.com/p/b48fe4750195) |
 | Mon, 07 Jul 2025 15:36:36 GMT | DAY 7 — Chapter 3: What You’re Not Supposed to Know (but Definitely Should) | Jinay | [Read More](https://medium.com/p/9807deae9620) |
-| Mon, 07 Jul 2025 15:28:20 GMT | How I Hacked Evil-GPT — A Rogue AI CTF Challenge on TryHackMe | MatSec | [Read More](https://medium.com/p/50ff84955251) |
-| Mon, 07 Jul 2025 15:26:32 GMT | Unminify - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/181ba0337a7f) |
-| Mon, 07 Jul 2025 15:22:14 GMT | Implementing Custom AI Investigators in Vertex AI for Google SecOps | Mike | [Read More](https://medium.com/p/51fb0baaf458) |
