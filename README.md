@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 17:41:21 GMT | Hackers, AI, and Infrastructure: Why Penetration Testing Has Never Been More Critical | Inforsecpro | [Read More](https://medium.com/p/e2bd39bef817) |
+| Mon, 07 Jul 2025 17:37:30 GMT | Demystifying STRIDE: A Practical Guide to Threat Modeling with Real-World Examples | Aman Pandey | [Read More](https://medium.com/p/3910c5966029) |
+| Mon, 07 Jul 2025 17:36:22 GMT | Day 43: The OSI Model | Nile Okomo | [Read More](https://medium.com/p/3024b6eafe77) |
+| Mon, 07 Jul 2025 17:31:53 GMT | What is Trustoryx? India’s Digital Verification Startup for Scam & Job Offer Investigation | NIkhil Kumar | [Read More](https://medium.com/p/8888a931802c) |
+| Mon, 07 Jul 2025 17:31:49 GMT | TryHackMe Room Writeup: “CyberHeroes!!!” (EASY Difficulty) | Ranaarpit | [Read More](https://medium.com/p/4c410d239e19) |
+| Mon, 07 Jul 2025 17:30:19 GMT | Reconnaissance | The Commoness | [Read More](https://medium.com/p/acf7e7b53740) |
+| Mon, 07 Jul 2025 17:25:19 GMT | 10 New Models of AI That Are Shaping the World in 2025 | Haku Alif | [Read More](https://medium.com/p/5ef8c2e2e39c) |
+| Mon, 07 Jul 2025 17:24:58 GMT | The Day I Found Out People Are Paid to Legally “Hack” | Alex Joyel Raj | [Read More](https://medium.com/p/b5c424c289be) |
+| Mon, 07 Jul 2025 17:20:53 GMT | ️ The Sheepdog Who Cried Hack | Nul⧉ID | [Read More](https://medium.com/p/f04771c6bc91) |
 | Mon, 07 Jul 2025 17:14:30 GMT | Curl: The Powerful Command | Santhosh Adiga U | [Read More](https://medium.com/p/f0213e48791d) |
 | Mon, 07 Jul 2025 17:14:28 GMT | Threat Actors Read Logs. Do We? | Yuksel | [Read More](https://medium.com/p/ae5395272577) |
 | Mon, 07 Jul 2025 17:10:39 GMT | Wazuh Sysmon Detection Rules Fully Backed with MITRE ATT&CK — Now Available in Our Public Repo | SOCFortress | [Read More](https://medium.com/p/eae7ec90d865) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 13:03:10 GMT | How to Install Windows 11 on VirtualBox (Step-by-Step Guide for Beginners) | Trixia Horner | [Read More](https://medium.com/p/623d20b70a67) |
 | Mon, 07 Jul 2025 13:01:37 GMT | PortSwigger Lab: Broken brute-force protection, IP block writeup (Authe | awes0meness | [Read More](https://medium.com/p/4be97e5eae14) |
 | Mon, 07 Jul 2025 13:01:11 GMT | Why Cyber Governance in 2025 Depends on Continuous Threat Exposure Management (CTEM) | John Davies | [Read More](https://medium.com/p/6436c3f4cfd7) |
-| Mon, 07 Jul 2025 12:56:53 GMT | This is how I solved a lab that required me to solve six others. | Rabia Riaz | [Read More](https://medium.com/p/f18bd7afa893) |
-| Mon, 07 Jul 2025 12:47:51 GMT | Audacity: The Art of Bold Becoming | Nathalie Bonilla | [Read More](https://medium.com/p/25aa2af07406) |
-| Mon, 07 Jul 2025 12:42:05 GMT | The Creepiest Cyber Threats You’ve Never Heard Of (But Might Be Real Soon) | Md Faiyaz Khan | [Read More](https://medium.com/p/d5491e97a5f0) |
-| Mon, 07 Jul 2025 12:36:25 GMT | How I Earned $350 from a 5-Minute Bug : The Easiest Account Lockout Vulnerability You Can Find | Shaheer Yasir | [Read More](https://medium.com/p/d6b2c3720df5) |
-| Mon, 07 Jul 2025 12:28:25 GMT | Dissecting a Cyber Attack With a Perspective on Compliance | Cisogenemarketing | [Read More](https://medium.com/p/cd58a34225b7) |
-| Mon, 07 Jul 2025 12:27:58 GMT | How to Spot a Fake Job Offer: A Cyber Awareness Breakdown | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/9e3e10298cd8) |
-| Mon, 07 Jul 2025 12:26:42 GMT | Building an Impenetrable Fortress: Understanding and Implementing Defense in Depth | Rudraksh | [Read More](https://medium.com/p/18ba77aceb5e) |
-| Mon, 07 Jul 2025 12:22:18 GMT | Why Incident Response Services Are Critical for Modern Cybersecurity | Jitendrachavan | [Read More](https://medium.com/p/20f748ee3c19) |
-| Mon, 07 Jul 2025 12:21:48 GMT | I found a malware today… | Phish&Chips | [Read More](https://medium.com/p/9e15c1319439) |
