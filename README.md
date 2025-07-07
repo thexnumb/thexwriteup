@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 13:27:06 GMT | CISSP vs. OSCP in 2025: Which Certification Is Right for Your Cybersecurity Career? | Andrei Ivan | [Read More](https://medium.com/p/76b25450bb61) |
+| Mon, 07 Jul 2025 13:26:14 GMT | Comprehensive Security and Housekeeping Services in Delhi NCR: A Modern Approach by Secura Security | securasecurty | [Read More](https://medium.com/p/90ed654135d3) |
+| Mon, 07 Jul 2025 13:25:29 GMT | Footprinting Hackthebox | ma40ou | [Read More](https://medium.com/p/e1c02ed49330) |
+| Mon, 07 Jul 2025 13:25:19 GMT | Corporate Greed Chronicles: Amazon’s Path to Hungry Bots, Lonely Jobs | Namir Sagheenanajar | [Read More](https://medium.com/p/f4abd571c514) |
+| Mon, 07 Jul 2025 13:19:47 GMT | Bravest Kind of Brave. | ladylyeverafter | [Read More](https://medium.com/p/20391b373793) |
+| Mon, 07 Jul 2025 13:19:32 GMT | Strategic Risk Management Solutions Tailored for UAE Businesses | Ahad me | [Read More](https://medium.com/p/730ccfd4200b) |
+| Mon, 07 Jul 2025 13:19:25 GMT | PortSwigger Lab: 2FA Simple Bypass writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/bec555ed8c18) |
+| Mon, 07 Jul 2025 13:18:47 GMT | Building a Real-World IOC Enrichment Tool for SOC Analysis | Dhruvish Rathod | [Read More](https://medium.com/p/74401c11ad0f) |
+| Mon, 07 Jul 2025 13:16:52 GMT | How I Found an XSS Flaw in Swagger UI | Ibtissam hammadi | [Read More](https://medium.com/p/aa3c224d78e4) |
+| Mon, 07 Jul 2025 13:15:01 GMT | Understanding Open Redirect Vulnerabilities: A Hidden Threat in Trusted URLs | Omniaelagroudy | [Read More](https://medium.com/p/01dd6cd31f81) |
+| Mon, 07 Jul 2025 13:13:54 GMT | Linux File System: A Gentle Introduction | Aresu - アレス | [Read More](https://medium.com/p/cdd09d715a8c) |
+| Mon, 07 Jul 2025 13:12:55 GMT | Why I still use a hardware wallet for airdrops (even if it’s a waste of time) | FIP Crypto | [Read More](https://medium.com/p/44b237777805) |
+| Mon, 07 Jul 2025 13:12:25 GMT | Maili Fire Timeline Reveals Powerful Lessons for Safety | Sadaqat Hayat | [Read More](https://medium.com/p/ea9a7a4381f1) |
+| Mon, 07 Jul 2025 13:12:09 GMT | Privilege Escalation Techniques Every Hacker Should Know | Isv | [Read More](https://medium.com/p/3a41c9b18706) |
+| Mon, 07 Jul 2025 13:09:57 GMT | PortSwigger Lab: Username enumeration via account lock writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/a01d8ee8d2ac) |
+| Mon, 07 Jul 2025 13:07:57 GMT | Fake Zoom Update, Real Drain: The Rise of APT Malware Targeting Your Crypto | BitOK | [Read More](https://medium.com/p/a597ab5b7292) |
+| Mon, 07 Jul 2025 13:05:49 GMT | LLM & AI Hacking: How AI is Being Exploited by Hackers - TryHackMe EvilGPT 1 & 2 | Motasem Hamdan | [Read More](https://medium.com/p/5fda60114a5a) |
+| Mon, 07 Jul 2025 13:03:21 GMT | Disappointments | Bhagya | [Read More](https://medium.com/p/2299140509e7) |
+| Mon, 07 Jul 2025 13:03:10 GMT | How to Install Windows 11 on VirtualBox (Step-by-Step Guide for Beginners) | Trixia Horner | [Read More](https://medium.com/p/623d20b70a67) |
+| Mon, 07 Jul 2025 13:01:37 GMT | PortSwigger Lab: Broken brute-force protection, IP block writeup (Authe | awes0meness | [Read More](https://medium.com/p/4be97e5eae14) |
+| Mon, 07 Jul 2025 13:01:11 GMT | Why Cyber Governance in 2025 Depends on Continuous Threat Exposure Management (CTEM) | John Davies | [Read More](https://medium.com/p/6436c3f4cfd7) |
+| Mon, 07 Jul 2025 12:56:53 GMT | This is how I solved a lab that required me to solve six others. | Rabia Riaz | [Read More](https://medium.com/p/f18bd7afa893) |
+| Mon, 07 Jul 2025 12:47:51 GMT | Audacity: The Art of Bold Becoming | Nathalie Bonilla | [Read More](https://medium.com/p/25aa2af07406) |
+| Mon, 07 Jul 2025 12:42:05 GMT | The Creepiest Cyber Threats You’ve Never Heard Of (But Might Be Real Soon) | Md Faiyaz Khan | [Read More](https://medium.com/p/d5491e97a5f0) |
 | Mon, 07 Jul 2025 12:36:25 GMT | How I Earned $350 from a 5-Minute Bug : The Easiest Account Lockout Vulnerability You Can Find | Shaheer Yasir | [Read More](https://medium.com/p/d6b2c3720df5) |
 | Mon, 07 Jul 2025 12:28:25 GMT | Dissecting a Cyber Attack With a Perspective on Compliance | Cisogenemarketing | [Read More](https://medium.com/p/cd58a34225b7) |
 | Mon, 07 Jul 2025 12:27:58 GMT | How to Spot a Fake Job Offer: A Cyber Awareness Breakdown | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/9e3e10298cd8) |
@@ -88,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 08:38:31 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/03231ba32e12) |
 | Mon, 07 Jul 2025 08:36:16 GMT | Directory Traversal Nedir? Web Uygulamalarında Gizli Dizinlere Yolculuk | Hasan Çavdar | [Read More](https://medium.com/p/52dbca1d4aec) |
 | Mon, 07 Jul 2025 08:35:51 GMT | SafeLine WAF Docker Compose Breakdown: Understanding the `mgt` Service | AerieWhole123 | [Read More](https://medium.com/p/880ec41574d8) |
-| Mon, 07 Jul 2025 08:35:24 GMT | Is Your Chatbot a Corporate Spy?️‍♂️ | Yash Gorasiya | [Read More](https://medium.com/p/fc4841b5b8f7) |
-| Mon, 07 Jul 2025 08:28:04 GMT | Home Security Cameras in India | Meghaharmedia | [Read More](https://medium.com/p/2887730eee84) |
-| Mon, 07 Jul 2025 08:24:06 GMT | The Role of The Informatics Hub in Shaping Future Tech Careers
-As technology continues to evolve… | Theinformaticshub | [Read More](https://medium.com/p/6b44a906305b) |
-| Mon, 07 Jul 2025 08:22:06 GMT | Kamera Sistemi Bakım & Onarımı: Güvenliğin Sürekliliği Desecure’la Sağlanır | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/bc21270f7504) |
-| Mon, 07 Jul 2025 08:21:01 GMT | Hack Them All | Pee Dee is Imperfect | [Read More](https://medium.com/p/f866aa1109d6) |
-| Mon, 07 Jul 2025 08:18:29 GMT | Tryhackme Wekor: Walkthrough | Hydsec | [Read More](https://medium.com/p/77dbac0a25ea) |
-| Mon, 07 Jul 2025 08:16:14 GMT | Geçiçi kamera kurulumu (şantiye, inşaat vb.) | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/af06feb38c07) |
-| Mon, 07 Jul 2025 08:15:21 GMT | Network Temelleri: Modern İletişimin Görünmeyen Altyapısı | Murat Balcı | [Read More](https://medium.com/p/019cdd070612) |
-| Mon, 07 Jul 2025 08:06:59 GMT | Cyber-Sentry: Building a Secure Honeypot Fortress with Azure Sentinel and Log Analytics Workspace | Suprim Devkota | [Read More](https://medium.com/p/d2c627cf0f8e) |
-| Mon, 07 Jul 2025 08:03:16 GMT | How Hackers create Admin Accounts | AbhirupKonwar | [Read More](https://medium.com/p/394ec5c48bcd) |
-| Mon, 07 Jul 2025 08:02:57 GMT | The Hidden Dangers of Excel Macros | M. Habib | [Read More](https://medium.com/p/8623fc74e843) |
-| Mon, 07 Jul 2025 07:59:15 GMT | Basic Networking Concepts | Red Team Radar | [Read More](https://medium.com/p/5210b9ff4e3a) |
-| Mon, 07 Jul 2025 07:52:15 GMT | Crypto Hacks Surge in June 2025 | Safeguard Capital | [Read More](https://medium.com/p/23c1b879e35e) |
-| Mon, 07 Jul 2025 07:50:44 GMT | What is the Plot Twist’s Meaning? | Suicide Kings Podcast by @Catalyst Poker | [Read More](https://medium.com/p/4675eec9f797) |
-| Mon, 07 Jul 2025 07:48:04 GMT | From Instagram to Bank Accounts: 16 Billion Passwords Leaked in Silent Cyber Breach | Dr Ankit Agarwal | [Read More](https://medium.com/p/d790997b5cec) |
-| Mon, 07 Jul 2025 07:41:33 GMT | 16 Billion Passwords Resurface: Why the Indian Government Is Sounding the Alarm | Nanda Siddhardha | [Read More](https://medium.com/p/1fab0b953106) |
-| Mon, 07 Jul 2025 07:36:52 GMT | ️ The AWS Security Mistake That Could Cost You Everything (And How I Learned to Fix It) | Abhinav bansal | [Read More](https://medium.com/p/9bcdab2619f4) |
-| Mon, 07 Jul 2025 07:36:45 GMT | Stop Hunting for XSS: How to Find Your Bug Bounty Niche and Dominate | Andrei Ivan | [Read More](https://medium.com/p/a69dd36dadee) |
-| Mon, 07 Jul 2025 07:36:31 GMT | Extropy Security Bytes: w26 2025 | Extropy.IO | [Read More](https://medium.com/p/ca57e52fca8a) |
-| Mon, 07 Jul 2025 07:36:19 GMT | Reverse Engineering the WPA2 4-Way Handshake with Python and Scapy | Martin Omariba | [Read More](https://medium.com/p/3c260edf68f5) |
-| Mon, 07 Jul 2025 07:34:09 GMT | Top 10 Highest-Paying Cybersecurity Jobs in India | cyber security Updates | [Read More](https://medium.com/p/8d39844864e9) |
-| Mon, 07 Jul 2025 07:34:07 GMT | Build Your Own FIAT Payment Gateway from Scratch | ITIO INNOVEX | [Read More](https://medium.com/p/e844aa0c5525) |
-| Mon, 07 Jul 2025 07:33:30 GMT | EscapeTwo — HTB | 14mj4ck | [Read More](https://medium.com/p/4854c0fb69b8) |
-| Mon, 07 Jul 2025 07:30:51 GMT | ️ Web3 Security Weekly — June 30–July 6, 2025 | Null Return | [Read More](https://medium.com/p/de4916a48c10) |
