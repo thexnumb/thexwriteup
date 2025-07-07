@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 07:30:51 GMT | ️ Web3 Security Weekly — June 30–July 6, 2025 | Null Return | [Read More](https://medium.com/p/de4916a48c10) |
+| Mon, 07 Jul 2025 07:27:49 GMT | Alarm İzleme Merkezi | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/841b680339a6) |
+| Mon, 07 Jul 2025 07:17:58 GMT | Deploy to Azure Extended Zones using Azure Bicep | Brian Veldman | [Read More](https://medium.com/p/10705cc70c05) |
+| Mon, 07 Jul 2025 07:13:00 GMT | Virtualization in Hybrid Cloud: Optimizing Efficiency and Security Across Platforms | ServerWala InfraNet FZ-LLC | [Read More](https://medium.com/p/ce26714d7b8e) |
 | Mon, 07 Jul 2025 07:11:38 GMT | I PASSED the Certified AppSec Practitioner (CAP) certification by The SecOps Group! | P0isonou5 | [Read More](https://medium.com/p/4fdf7d700562) |
 | Mon, 07 Jul 2025 07:07:29 GMT | How to Stop Fake Signups on Your SaaS Product | OnSefy AI | [Read More](https://medium.com/p/fcfc040d9065) |
 | Mon, 07 Jul 2025 07:06:06 GMT | Choosing the Right Identity Management Strategy: IAM, CIAM, or IDaaS? | Deepak Gupta | [Read More](https://medium.com/p/700756fec645) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 19:59:09 GMT | Hybrid Warfare: How States Fight Without Declaring War | Strategic Insights 101 | [Read More](https://medium.com/p/7e8fcda5b89a) |
 | Sun, 06 Jul 2025 19:54:53 GMT | The Old Career is Dead, Long Live the New Career | Eric Tillman | [Read More](https://medium.com/p/7081078b75e2) |
 | Sun, 06 Jul 2025 19:51:43 GMT | 40 Cyber Security Tools You Should Know | D.Haddad | [Read More](https://medium.com/p/71151f4232b5) |
-| Sun, 06 Jul 2025 19:47:06 GMT | Daring to Begin | Shawn Witschen | [Read More](https://medium.com/p/f0b89976d72f) |
-| Sun, 06 Jul 2025 19:44:05 GMT | THE SECURITY ONION & THE SECURITY ARTICHOKE | Vishnu Shivalal P | [Read More](https://medium.com/p/66872c72ebdc) |
-| Sun, 06 Jul 2025 19:37:59 GMT | Networking Essential — TryHackMe ( THM) | hareem khan | [Read More](https://medium.com/p/6cad5ff37676) |
-| Sun, 06 Jul 2025 19:37:54 GMT | Enumerating AD with Powerview--Powershell --Active Directory Pentesting--Part 21: | Muhammadhuzaifa | [Read More](https://medium.com/p/ba3ea2813cf8) |
