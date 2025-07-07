@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 22:10:17 GMT | How I Crashed a Rust-Based VPN Server With a Malformed TLS Packet | MostReal | [Read More](https://medium.com/p/1010d1cdb95f) |
+| Mon, 07 Jul 2025 22:09:48 GMT | MS Sentinel: Introduction | Jawstar | [Read More](https://medium.com/p/086e0a1f2002) |
+| Mon, 07 Jul 2025 22:03:10 GMT | What Is a VPN and Do You Really Need One? | Timonéofearth | [Read More](https://medium.com/p/437028216f89) |
+| Mon, 07 Jul 2025 21:57:18 GMT | The 6-Minute Guide to AWS IAM That Actually Makes Sense | Akarsh Kumar | [Read More](https://medium.com/p/5d47dd6223f5) |
+| Mon, 07 Jul 2025 21:53:34 GMT | Virgin by Lorde — a Review | Melodies of Science | [Read More](https://medium.com/p/7ee52ceeeab3) |
+| Mon, 07 Jul 2025 21:53:01 GMT | Think Your SOC Is Smart? It Might Be Running on Outdated AI | Cyber-AppSec | [Read More](https://medium.com/p/f6de9ada494a) |
+| Mon, 07 Jul 2025 21:52:27 GMT | The true cost of free: Why I Finally Started Paying for Softwares and games | Null Walker | [Read More](https://medium.com/p/f6bfcf3a9fe3) |
+| Mon, 07 Jul 2025 21:47:37 GMT | Custom Lambda Authorizer with AWS HTTP Api gateway (SAM Implementation) | Rayan Sikandar | [Read More](https://medium.com/p/5b333edc9971) |
+| Mon, 07 Jul 2025 21:43:58 GMT | This House May Crumble | Orya | [Read More](https://medium.com/p/b960aa1f21ba) |
 | Mon, 07 Jul 2025 21:25:10 GMT | The Four Quadrants of AI: Why Security Will Define the Winners of the Agentic Era | Jaz Lin | [Read More](https://medium.com/p/4383146a8139) |
 | Mon, 07 Jul 2025 21:23:51 GMT | My Hacker Copilot Runs Ops with Me | Five Insights | [Read More](https://medium.com/p/3d031e727e52) |
 | Mon, 07 Jul 2025 21:21:28 GMT | The Cybersecurity — Career Accelerator (July 7) | Franklin Rhodes | [Read More](https://medium.com/p/bf95ad98f068) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 16:02:57 GMT | The Enemy Within: Unmasking the Insider Threat | Faraz Ishaq | [Read More](https://medium.com/p/4230edcd5156) |
 | Mon, 07 Jul 2025 16:01:18 GMT | How I Hack a Hacker | Scofield O. Idehen | [Read More](https://medium.com/p/dec9e78e9e69) |
 | Mon, 07 Jul 2025 15:58:43 GMT | Secure Note Manager in React — Part 2. Client-Side Login with Web Crypto and Redux | Sergey Chin | [Read More](https://medium.com/p/2e19c32633c7) |
-| Mon, 07 Jul 2025 15:56:03 GMT | No Man Grows Without Pain | Gursahib Singh | [Read More](https://medium.com/p/f1d1e08f968c) |
-| Mon, 07 Jul 2025 15:55:45 GMT | Completed Windows Fundamentals 1 on TryHackMe | Vikash Yadav | [Read More](https://medium.com/p/0ea62ee91d95) |
-| Mon, 07 Jul 2025 15:51:27 GMT | Nmap: Novice to Ninja | Santhosh Adiga U | [Read More](https://medium.com/p/576bb77a7ecd) |
-| Mon, 07 Jul 2025 15:41:06 GMT | TryHackMe — John the Ripper: The Basics - Cyber Security 101 (THM) | Paarthbhatt | [Read More](https://medium.com/p/1be625362fa3) |
-| Mon, 07 Jul 2025 15:39:55 GMT | Evil-GPT v2 Solved Easily - TryHackMe CTF Walkthrough | MatSec | [Read More](https://medium.com/p/ad6f9f072a1b) |
-| Mon, 07 Jul 2025 15:39:15 GMT | How Rainbow Secure Protects Your SaaS Environment | Dr. Shashi Karhail | [Read More](https://medium.com/p/2902f14fe467) |
-| Mon, 07 Jul 2025 15:38:15 GMT | The Feeling You Can’t Name | Prince Esien | [Read More](https://medium.com/p/caf851e0cbfb) |
-| Mon, 07 Jul 2025 15:38:00 GMT | SOC Analyst Myth vs Reality: What They Don’t Tell You in Cyber School | Vijay Kumar Gupta | [Read More](https://medium.com/p/b48fe4750195) |
-| Mon, 07 Jul 2025 15:36:36 GMT | DAY 7 — Chapter 3: What You’re Not Supposed to Know (but Definitely Should) | Jinay | [Read More](https://medium.com/p/9807deae9620) |
