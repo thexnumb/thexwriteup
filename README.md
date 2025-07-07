@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 16:21:29 GMT | What Happens After the Breach? Understanding the Cyber Kill Chain | Karthikeyan Nagaraj | [Read More](https://medium.com/p/8549c7905598) |
+| Mon, 07 Jul 2025 16:20:31 GMT | 7 Proven Ways to Ensure Data Protection in Hybrid Cloud Environments | Techridge Solutions | [Read More](https://medium.com/p/fff41f656aa2) |
+| Mon, 07 Jul 2025 16:18:37 GMT | Incident Analysis: How a Simple RDP Password Spray Led to a Full-Blown RansomHub Attack | Jon C | [Read More](https://medium.com/p/54f022e5a4ea) |
+| Mon, 07 Jul 2025 16:15:18 GMT | How I Hacked My Own Bank—Legally: A Pen Tester’s Confession | Aj | [Read More](https://medium.com/p/56f7f6cd69c0) |
+| Mon, 07 Jul 2025 16:13:45 GMT | From Push‑Ups to Acquisition: My Journey as PingSafe’s Founding Sales Leader | Dhiraj Khare | [Read More](https://medium.com/p/c42777d47d0b) |
+| Mon, 07 Jul 2025 16:12:34 GMT | Subdomain Enumeration: Zero to Mastery | Santhosh Adiga U | [Read More](https://medium.com/p/2fbe650307dd) |
+| Mon, 07 Jul 2025 16:12:33 GMT | The Ultimate Guide to Security Uniforms: Quality, Reliability, and Affordability | Prouniformsusa | [Read More](https://medium.com/p/6584e2adb859) |
+| Mon, 07 Jul 2025 16:07:55 GMT | Sends launches digital cards with wallet integration | Alona Shevtsova | [Read More](https://medium.com/p/54ba69c0857a) |
+| Mon, 07 Jul 2025 16:03:00 GMT | Check Browser Fingerprint - What It Reveals & How to Hide It | Timonéofearth | [Read More](https://medium.com/p/37a692952445) |
+| Mon, 07 Jul 2025 16:02:57 GMT | The Enemy Within: Unmasking the Insider Threat | Faraz Ishaq | [Read More](https://medium.com/p/4230edcd5156) |
+| Mon, 07 Jul 2025 16:01:18 GMT | How I Hack a Hacker | Scofield O. Idehen | [Read More](https://medium.com/p/dec9e78e9e69) |
+| Mon, 07 Jul 2025 15:58:43 GMT | Secure Note Manager in React — Part 2. Client-Side Login with Web Crypto and Redux | Sergey Chin | [Read More](https://medium.com/p/2e19c32633c7) |
+| Mon, 07 Jul 2025 15:56:03 GMT | No Man Grows Without Pain | Gursahib Singh | [Read More](https://medium.com/p/f1d1e08f968c) |
+| Mon, 07 Jul 2025 15:55:45 GMT | Completed Windows Fundamentals 1 on TryHackMe | Vikash Yadav | [Read More](https://medium.com/p/0ea62ee91d95) |
+| Mon, 07 Jul 2025 15:51:27 GMT | Nmap: Novice to Ninja | Santhosh Adiga U | [Read More](https://medium.com/p/576bb77a7ecd) |
 | Mon, 07 Jul 2025 15:41:06 GMT | TryHackMe — John the Ripper: The Basics - Cyber Security 101 (THM) | Paarthbhatt | [Read More](https://medium.com/p/1be625362fa3) |
 | Mon, 07 Jul 2025 15:39:55 GMT | Evil-GPT v2 Solved Easily - TryHackMe CTF Walkthrough | MatSec | [Read More](https://medium.com/p/ad6f9f072a1b) |
 | Mon, 07 Jul 2025 15:39:15 GMT | How Rainbow Secure Protects Your SaaS Environment | Dr. Shashi Karhail | [Read More](https://medium.com/p/2902f14fe467) |
+| Mon, 07 Jul 2025 15:38:15 GMT | The Feeling You Can’t Name | Prince Esien | [Read More](https://medium.com/p/caf851e0cbfb) |
 | Mon, 07 Jul 2025 15:38:00 GMT | SOC Analyst Myth vs Reality: What They Don’t Tell You in Cyber School | Vijay Kumar Gupta | [Read More](https://medium.com/p/b48fe4750195) |
 | Mon, 07 Jul 2025 15:36:36 GMT | DAY 7 — Chapter 3: What You’re Not Supposed to Know (but Definitely Should) | Jinay | [Read More](https://medium.com/p/9807deae9620) |
 | Mon, 07 Jul 2025 15:28:20 GMT | How I Hacked Evil-GPT — A Rogue AI CTF Challenge on TryHackMe | MatSec | [Read More](https://medium.com/p/50ff84955251) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 11:33:15 GMT | Challenge Writeup: bronze ASM | Mohamed atiaa | [Read More](https://medium.com/p/8d5fcfe0b8a1) |
 | Mon, 07 Jul 2025 11:31:55 GMT | cybersecurity headlines from today (July 7, 2025): | Darshan | [Read More](https://medium.com/p/56ff54e136be) |
 | Mon, 07 Jul 2025 11:23:55 GMT | ️Threat Intelligence Could’ve Stopped That Attack — And The One Before It Too | Geoffrey Blue-Jack | [Read More](https://medium.com/p/afc50fe08dcd) |
-| Mon, 07 Jul 2025 11:12:40 GMT | Adapt Digi Solutions — Your Partner in Digital Growth | Evelynharper | [Read More](https://medium.com/p/666b4ac6efb1) |
-| Mon, 07 Jul 2025 11:11:26 GMT | FileFix: A Clever Social Engineering Vector Inspired by Mr.d0x | Saimanish | [Read More](https://medium.com/p/ca954620db25) |
-| Mon, 07 Jul 2025 11:11:16 GMT | Transform Legacy Systems for Next-Gen Growth | Sid Chavda | [Read More](https://medium.com/p/2b2ba9a77729) |
-| Mon, 07 Jul 2025 11:10:51 GMT | Phishing Simulation & Investigation | whoami | [Read More](https://medium.com/p/20963afa4716) |
-| Mon, 07 Jul 2025 11:10:48 GMT | The Great Game Reloaded: Is the Caspian About to Explode? | Youcef Sail | [Read More](https://medium.com/p/478e923bbb50) |
-| Mon, 07 Jul 2025 11:10:13 GMT | PIE Time - picoCTF -Beginners Walkthrough | Hiibahammd | [Read More](https://medium.com/p/5ee1d7bf07fc) |
-| Mon, 07 Jul 2025 11:04:54 GMT | A Subtle Bug That Opened the Door to Malicious Hyperlinks | Ehtesham Ul Haq | [Read More](https://medium.com/p/6d41d2801af6) |
-| Mon, 07 Jul 2025 10:59:36 GMT | What Are IT Solutions? A Beginner’s Guide for Businesses | Cybersolvings | [Read More](https://medium.com/p/6697e0f6cea9) |
-| Mon, 07 Jul 2025 10:54:29 GMT | I Asked ChatGPT to Plan My Life — Here's What Happened | Sana Sudhakaran7 | [Read More](https://medium.com/p/23f550b78c76) |
-| Mon, 07 Jul 2025 10:52:58 GMT | A CISO’s Guide to GenAI Security: What’s Real, What’s Hype, and What Can’t Wait | Shreyas Naik | [Read More](https://medium.com/p/9ed3f01d6d63) |
-| Mon, 07 Jul 2025 10:51:07 GMT | The ARP Protocol Under Attack: Understanding ARP Spoofing and How to Prevent It | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/d65e7669014b) |
-| Mon, 07 Jul 2025 10:49:00 GMT | Smart Security Solutions: How Technology is Transforming Safety in Homes and Businesses | Desert Hawaks | [Read More](https://medium.com/p/d30f4c8ea723) |
-| Mon, 07 Jul 2025 10:45:33 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/0fdf34ca48df) |
-| Mon, 07 Jul 2025 10:43:00 GMT | Account Takeover via Cookie-Based Stored XSS ($1650 Bounty) | Staphy | [Read More](https://medium.com/p/817dcc57be65) |
-| Mon, 07 Jul 2025 10:36:09 GMT | North Korean Hackers Are Posing as Remote Developers — Does your software give them backdoor access? | Karl Buhl | [Read More](https://medium.com/p/4c8fbe625d3b) |
-| Mon, 07 Jul 2025 10:33:27 GMT | The Rogue Bot Who Dreamt of Sheeps | Nul⧉ID | [Read More](https://medium.com/p/3308789c5fef) |
