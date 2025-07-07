@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 07:11:38 GMT | I PASSED the Certified AppSec Practitioner (CAP) certification by The SecOps Group! | P0isonou5 | [Read More](https://medium.com/p/4fdf7d700562) |
+| Mon, 07 Jul 2025 07:07:29 GMT | How to Stop Fake Signups on Your SaaS Product | OnSefy AI | [Read More](https://medium.com/p/fcfc040d9065) |
+| Mon, 07 Jul 2025 07:06:06 GMT | Choosing the Right Identity Management Strategy: IAM, CIAM, or IDaaS? | Deepak Gupta | [Read More](https://medium.com/p/700756fec645) |
+| Mon, 07 Jul 2025 07:03:12 GMT | I PASSED the Certified Network Security Practitioner (CNSP) certification by The SecOps Group! | P0isonou5 | [Read More](https://medium.com/p/36c230742c74) |
+| Mon, 07 Jul 2025 07:01:44 GMT | Massive Oracle Cloud Breach Affects 140,000 Tenants | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/4cda8c788730) |
+| Mon, 07 Jul 2025 06:59:23 GMT | DNS leak and IP leak? What’s the Difference & How to Fix Them (USA Guide – 2025) | Digimad.online | [Read More](https://medium.com/p/953689c2b718) |
+| Mon, 07 Jul 2025 06:57:28 GMT | Top 5 Privacy-Focused Browsers That Block Trackers in 2025 | Digimad.online | [Read More](https://medium.com/p/be61e24825bf) |
+| Mon, 07 Jul 2025 06:55:20 GMT | Best Ad Blockers for Chrome & Android – Stay Ad-Free in US | Digimad.online | [Read More](https://medium.com/p/435552e685aa) |
+| Mon, 07 Jul 2025 06:55:11 GMT | How secure is your cloud transformation? | Ziya Zoe | [Read More](https://medium.com/p/27bd7d296b3c) |
+| Mon, 07 Jul 2025 06:48:17 GMT | Benign | Krishna | [Read More](https://medium.com/p/829bda73a571) |
+| Mon, 07 Jul 2025 06:47:16 GMT | Microsoft’s Model Context Protocol (MCP) Server (Preview) and Leveraging AI for Cybersecurity. | Neeraj Kumar Verma | [Read More](https://medium.com/p/8f884a27ab34) |
 | Mon, 07 Jul 2025 06:29:10 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/0d73c04fcbe9) |
 | Mon, 07 Jul 2025 06:25:26 GMT | Smarter Security Starts Here: How AI is Revolutionizing Cyber Defense | Gauravinsightss | [Read More](https://medium.com/p/3f0599e33a6b) |
 | Mon, 07 Jul 2025 06:22:02 GMT | Comprehensive Protection for a Safer Tomorrow: Exploring Total Security Solutions and Security… | Ciss India | [Read More](https://medium.com/p/79f2cd1b9439) |
@@ -82,6 +93,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 21:07:15 GMT | How I Stole Tokens with One OAuth Misstep | Ibtissam hammadi | [Read More](https://medium.com/p/7e4a2939c723) |
 | Sun, 06 Jul 2025 21:06:10 GMT | Bye-Bye, Bug Bites: DIY Summer Remedies to Keep Biting Bugs at Bay | Dannielle Holmes | [Read More](https://medium.com/p/eba63a75012f) |
 | Sun, 06 Jul 2025 21:02:56 GMT | Highest paying jobs in cyber security | Chandanjana | [Read More](https://medium.com/p/8a095f0662ad) |
+| Sun, 06 Jul 2025 21:02:53 GMT | Storytelling is a Continuum of Memory | Danish Farhan | [Read More](https://medium.com/p/b24625ae80f2) |
 | Sun, 06 Jul 2025 20:57:53 GMT | Hack The Box — SQL Injection Fundamentals | Charlie Webster | [Read More](https://medium.com/p/00ab35bbb8a5) |
 | Sun, 06 Jul 2025 20:57:50 GMT | CER-Richtlinie: Resilienz für “alles außer Cyber” | Sarah Fluchs | [Read More](https://medium.com/p/a012d5469e93) |
 | Sun, 06 Jul 2025 20:51:54 GMT | SOC175 — PowerShell Found in Requested URL — Possible CVE-2022–41082 Exploitation | Raynard Waits | [Read More](https://medium.com/p/da79f4e7859d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 19:44:05 GMT | THE SECURITY ONION & THE SECURITY ARTICHOKE | Vishnu Shivalal P | [Read More](https://medium.com/p/66872c72ebdc) |
 | Sun, 06 Jul 2025 19:37:59 GMT | Networking Essential — TryHackMe ( THM) | hareem khan | [Read More](https://medium.com/p/6cad5ff37676) |
 | Sun, 06 Jul 2025 19:37:54 GMT | Enumerating AD with Powerview--Powershell --Active Directory Pentesting--Part 21: | Muhammadhuzaifa | [Read More](https://medium.com/p/ba3ea2813cf8) |
-| Sun, 06 Jul 2025 19:37:27 GMT | EN- Theoretical Assessment of Hybrid Security Architecture — 1 (SecOps) | ahmetw.eth | [Read More](https://medium.com/p/98871cd20be1) |
-| Sun, 06 Jul 2025 19:37:25 GMT | TR- Hibrit Güvenlik Mimarisine Yönelik Teorik İnceleme — 1 (SecOps) | ahmetw.eth | [Read More](https://medium.com/p/5414af23cc92) |
-| Sun, 06 Jul 2025 19:37:14 GMT | How I Built a Custom Reverse Shell in C — by Muhammad Mahad | Muhammad Mahad | [Read More](https://medium.com/p/c08304ee389b) |
-| Sun, 06 Jul 2025 19:36:04 GMT | Managing the Team Without Overworking: 3 Ways | _shivk | [Read More](https://medium.com/p/e4bcf9ad6b02) |
-| Sun, 06 Jul 2025 19:24:07 GMT | HackTheBox Fluffy Walkthrough | Heliman | [Read More](https://medium.com/p/d7d3d2f40b45) |
-| Sun, 06 Jul 2025 19:18:59 GMT | NordVPN vs Surfshark: Honest Comparison After One Year of Use | Kelly Shephard | [Read More](https://medium.com/p/f04a654ea128) |
-| Sun, 06 Jul 2025 19:15:16 GMT | Cybersecurity in the Digital Age: Be Aware, Not Afraid | Noman Akbar Khan | [Read More](https://medium.com/p/6a67388247f6) |
-| Sun, 06 Jul 2025 19:10:31 GMT | Protegendo sua Rede Doméstica e Corporativa com Pi-hole | byFranke | [Read More](https://medium.com/p/cc43da5c7ed9) |
-| Sun, 06 Jul 2025 19:08:17 GMT | 25 Windows Commands That Will Make You Look Like a Hacker (Even Though You’re Probably Not) | Sean Byrne | [Read More](https://medium.com/p/f961016fa37b) |
-| Sun, 06 Jul 2025 18:59:55 GMT | The Most Dangerous One-Liners in Bash and Python (and How to Spot Them) | Code With Hannan | [Read More](https://medium.com/p/7e981894d537) |
-| Sun, 06 Jul 2025 18:54:21 GMT | VAPT Report on HTTPAPI Services in Windows 10 Healthcare Endpoint | Aditya Bhatt | [Read More](https://medium.com/p/d4adb82e2877) |
-| Sun, 06 Jul 2025 18:36:41 GMT | Detecting Phishing Attacks Through URL Feature Analysis and Machine Learning Models | Montaserabdulhamid | [Read More](https://medium.com/p/d238a59c08b8) |
