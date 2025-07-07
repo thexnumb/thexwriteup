@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 07 Jul 2025 08:21:01 GMT | Hack Them All | Pee Dee is Imperfect | [Read More](https://medium.com/p/f866aa1109d6) |
+| Mon, 07 Jul 2025 08:18:29 GMT | Tryhackme Wekor: Walkthrough | Hydsec | [Read More](https://medium.com/p/77dbac0a25ea) |
+| Mon, 07 Jul 2025 08:16:14 GMT | Geçiçi kamera kurulumu (şantiye, inşaat vb.) | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/af06feb38c07) |
+| Mon, 07 Jul 2025 08:15:21 GMT | Network Temelleri: Modern İletişimin Görünmeyen Altyapısı | Murat Balcı | [Read More](https://medium.com/p/019cdd070612) |
+| Mon, 07 Jul 2025 08:06:59 GMT | Cyber-Sentry: Building a Secure Honeypot Fortress with Azure Sentinel and Log Analytics Workspace | Suprim Devkota | [Read More](https://medium.com/p/d2c627cf0f8e) |
+| Mon, 07 Jul 2025 08:03:16 GMT | How Hackers create Admin Accounts | AbhirupKonwar | [Read More](https://medium.com/p/394ec5c48bcd) |
+| Mon, 07 Jul 2025 08:02:57 GMT | The Hidden Dangers of Excel Macros | M. Habib | [Read More](https://medium.com/p/8623fc74e843) |
+| Mon, 07 Jul 2025 07:59:15 GMT | Basic Networking Concepts | Red Team Radar | [Read More](https://medium.com/p/5210b9ff4e3a) |
+| Mon, 07 Jul 2025 07:52:15 GMT | Crypto Hacks Surge in June 2025 | Safeguard Capital | [Read More](https://medium.com/p/23c1b879e35e) |
+| Mon, 07 Jul 2025 07:50:44 GMT | What is the Plot Twist’s Meaning? | Suicide Kings Podcast by @Catalyst Poker | [Read More](https://medium.com/p/4675eec9f797) |
+| Mon, 07 Jul 2025 07:48:04 GMT | From Instagram to Bank Accounts: 16 Billion Passwords Leaked in Silent Cyber Breach | Dr Ankit Agarwal | [Read More](https://medium.com/p/d790997b5cec) |
+| Mon, 07 Jul 2025 07:41:33 GMT | 16 Billion Passwords Resurface: Why the Indian Government Is Sounding the Alarm | Nanda Siddhardha | [Read More](https://medium.com/p/1fab0b953106) |
+| Mon, 07 Jul 2025 07:36:52 GMT | ️ The AWS Security Mistake That Could Cost You Everything (And How I Learned to Fix It) | Abhinav bansal | [Read More](https://medium.com/p/9bcdab2619f4) |
+| Mon, 07 Jul 2025 07:36:45 GMT | Stop Hunting for XSS: How to Find Your Bug Bounty Niche and Dominate | Andrei Ivan | [Read More](https://medium.com/p/a69dd36dadee) |
+| Mon, 07 Jul 2025 07:36:31 GMT | Extropy Security Bytes: w26 2025 | Extropy.IO | [Read More](https://medium.com/p/ca57e52fca8a) |
+| Mon, 07 Jul 2025 07:36:19 GMT | Reverse Engineering the WPA2 4-Way Handshake with Python and Scapy | Martin Omariba | [Read More](https://medium.com/p/3c260edf68f5) |
+| Mon, 07 Jul 2025 07:34:09 GMT | Top 10 Highest-Paying Cybersecurity Jobs in India | cyber security Updates | [Read More](https://medium.com/p/8d39844864e9) |
+| Mon, 07 Jul 2025 07:34:07 GMT | Build Your Own FIAT Payment Gateway from Scratch | ITIO INNOVEX | [Read More](https://medium.com/p/e844aa0c5525) |
+| Mon, 07 Jul 2025 07:33:30 GMT | EscapeTwo — HTB | 14mj4ck | [Read More](https://medium.com/p/4854c0fb69b8) |
 | Mon, 07 Jul 2025 07:30:51 GMT | ️ Web3 Security Weekly — June 30–July 6, 2025 | Null Return | [Read More](https://medium.com/p/de4916a48c10) |
 | Mon, 07 Jul 2025 07:27:49 GMT | Alarm İzleme Merkezi | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/841b680339a6) |
 | Mon, 07 Jul 2025 07:17:58 GMT | Deploy to Azure Extended Zones using Azure Bicep | Brian Veldman | [Read More](https://medium.com/p/10705cc70c05) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 06 Jul 2025 22:17:25 GMT | Exposing Values in Environment Variables | W. Jenks Gibbons | [Read More](https://medium.com/p/d7a4cc4889fe) |
 | Sun, 06 Jul 2025 21:54:07 GMT | Your First Data Engineering Project with Google Cloud Virtual Machines—Here’s Why and How to Set It… | Henry | [Read More](https://medium.com/p/f8a361fa37e1) |
 | Sun, 06 Jul 2025 21:30:00 GMT | How I Visualized Data with Amazon QuickSight - NextWork AWS Beginner Project | Angie | [Read More](https://medium.com/p/2f046e910bb3) |
-| Sun, 06 Jul 2025 21:27:59 GMT | The Invisible Strength: How Men Carry Love in Silence | Laiba Azad | [Read More](https://medium.com/p/293253946a21) |
-| Sun, 06 Jul 2025 21:07:15 GMT | How I Stole Tokens with One OAuth Misstep | Ibtissam hammadi | [Read More](https://medium.com/p/7e4a2939c723) |
-| Sun, 06 Jul 2025 21:06:10 GMT | Bye-Bye, Bug Bites: DIY Summer Remedies to Keep Biting Bugs at Bay | Dannielle Holmes | [Read More](https://medium.com/p/eba63a75012f) |
-| Sun, 06 Jul 2025 21:02:56 GMT | Highest paying jobs in cyber security | Chandanjana | [Read More](https://medium.com/p/8a095f0662ad) |
-| Sun, 06 Jul 2025 21:02:53 GMT | Storytelling is a Continuum of Memory | Danish Farhan | [Read More](https://medium.com/p/b24625ae80f2) |
-| Sun, 06 Jul 2025 20:57:53 GMT | Hack The Box — SQL Injection Fundamentals | Charlie Webster | [Read More](https://medium.com/p/00ab35bbb8a5) |
-| Sun, 06 Jul 2025 20:57:50 GMT | CER-Richtlinie: Resilienz für “alles außer Cyber” | Sarah Fluchs | [Read More](https://medium.com/p/a012d5469e93) |
-| Sun, 06 Jul 2025 20:51:54 GMT | SOC175 — PowerShell Found in Requested URL — Possible CVE-2022–41082 Exploitation | Raynard Waits | [Read More](https://medium.com/p/da79f4e7859d) |
-| Sun, 06 Jul 2025 20:51:51 GMT | Ethical Hacking And Its Impact On Humanity's Future. | Ivanmaximusedwin | [Read More](https://medium.com/p/bf4bdb2dd735) |
-| Sun, 06 Jul 2025 20:45:48 GMT | DevSecOps in Practice: From Idea to Deployment | Asya Amirli | [Read More](https://medium.com/p/a0242f6624a1) |
-| Sun, 06 Jul 2025 20:34:56 GMT | With generative AI, social engineering gets more dangerous — and harder to spot | The Quiet Hacker | [Read More](https://medium.com/p/721412fad4b9) |
-| Sun, 06 Jul 2025 20:33:46 GMT | The iPhone 16 Pro Max — A Complete Guide | Muhammad Bilal | [Read More](https://medium.com/p/5d503b39c443) |
-| Sun, 06 Jul 2025 20:22:52 GMT | Linux Privilege Escalation (TryHackMe: LinPrivesc, TeamCW) | musayyab sharif | [Read More](https://medium.com/p/ce7769ad0636) |
-| Sun, 06 Jul 2025 20:16:23 GMT | HackTheBox Zephyr: A Realistic AD Pro Lab Review | Mohamed Abdulhamid | [Read More](https://medium.com/p/a48912cbaa52) |
-| Sun, 06 Jul 2025 20:11:30 GMT | Understanding of JSON Web Token ( JWT ) . with Implementation . | Ayush Raj Cs | [Read More](https://medium.com/p/5034718f8ee3) |
-| Sun, 06 Jul 2025 20:06:18 GMT | Building the Paranoid’s Database: Introducing MerkonDB for Zero-Trust Security | Arjun4522 | [Read More](https://medium.com/p/98bb0d9d5911) |
-| Sun, 06 Jul 2025 19:59:09 GMT | Hybrid Warfare: How States Fight Without Declaring War | Strategic Insights 101 | [Read More](https://medium.com/p/7e8fcda5b89a) |
-| Sun, 06 Jul 2025 19:54:53 GMT | The Old Career is Dead, Long Live the New Career | Eric Tillman | [Read More](https://medium.com/p/7081078b75e2) |
-| Sun, 06 Jul 2025 19:51:43 GMT | 40 Cyber Security Tools You Should Know | D.Haddad | [Read More](https://medium.com/p/71151f4232b5) |
