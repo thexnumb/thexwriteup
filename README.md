@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 05:07:59 GMT | What Is a GRC Platform? Complete Guide to Governance, Risk & Compliance | Gauri Kale | [Read More](https://medium.com/p/b41ad6360f26) |
+| Tue, 08 Jul 2025 05:07:44 GMT | Understanding and Mitigating Reflected File Download (RFD) Vulnerabilities | Rahul M S | [Read More](https://medium.com/p/af95d47952aa) |
+| Tue, 08 Jul 2025 05:02:50 GMT | The Linux Security Journey — TCP Wrappers | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/845bc7cc05aa) |
+| Tue, 08 Jul 2025 05:02:03 GMT | AI Powered C2 Server | AbhirupKonwar | [Read More](https://medium.com/p/1d50ccdc9557) |
+| Tue, 08 Jul 2025 04:53:35 GMT | Discover the Dark Web Like Never Before — With Real Onion Links | adityaax | [Read More](https://medium.com/p/c67b372b513c) |
 | Tue, 08 Jul 2025 04:50:58 GMT | Burning Your Digital Footprint: How to Re-Enter the US Without Losing Your Freedom | Erik Blair | [Read More](https://medium.com/p/b7b434023911) |
+| Tue, 08 Jul 2025 04:49:58 GMT | From Bathroom Signs to Code: When Should Developers Dare to Touch What’s Already Working? | Colin | [Read More](https://medium.com/p/74a535d94323) |
 | Tue, 08 Jul 2025 04:41:48 GMT | Security Master Planning with DSP: Every Angle Covered | Reviews | [Read More](https://medium.com/p/6c495846349b) |
 | Tue, 08 Jul 2025 04:36:48 GMT | Today’s Top Cyber Intelligence Highlights — Jul 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/897b17af3f26) |
 | Tue, 08 Jul 2025 04:36:01 GMT | Is Exploit Shell-coding Still Relevant in 2025? | The Hackers Meetup | [Read More](https://medium.com/p/0ba7eb61fee7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 19:32:03 GMT | XSS in 2025 — The Payloads That Still Work | Santhosh Adiga U | [Read More](https://medium.com/p/3aa343e0b4f2) |
 | Mon, 07 Jul 2025 19:25:09 GMT | Cybersecurity Awareness for Small Companies: Why Frameworks Matter | DarKVoicE | [Read More](https://medium.com/p/55a69f5e067c) |
 | Mon, 07 Jul 2025 19:10:14 GMT | A concise artificial intelligence (AI) governance checklist for ISO 27001:2022 compliance, with a… | Aaron Rusz | [Read More](https://medium.com/p/550ccf5e92f9) |
-| Mon, 07 Jul 2025 18:55:00 GMT | From LFI to RCE — Real Exploitation in Practice | Santhosh Adiga U | [Read More](https://medium.com/p/06c29f78b04f) |
-| Mon, 07 Jul 2025 18:52:55 GMT | From File Upload Found LFI | Abdelrhman Yasser | [Read More](https://medium.com/p/7d17e5250b7a) |
-| Mon, 07 Jul 2025 18:49:36 GMT | Things I Do After Installing Kali Linux 2025.2 — My Full Setup | Kalyan Dev | [Read More](https://medium.com/p/a490e2df568f) |
-| Mon, 07 Jul 2025 18:46:48 GMT | How One Email Locked Out Two Admins — And How to Avoid It | StrangeRwhite | [Read More](https://medium.com/p/5e9ea5126a64) |
-| Mon, 07 Jul 2025 18:41:35 GMT | Penetration Testing the Future: Battling AI Attacks and Cyber Warfare in 2025 | Pentestjunkie07 | [Read More](https://medium.com/p/7e10c5410ecc) |
-| Mon, 07 Jul 2025 18:38:47 GMT | MCP 2025–06–18 Spec Update: What changed and Why it matters | Anmol Baranwal | [Read More](https://medium.com/p/3f474da03549) |
