@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 22:32:01 GMT | Day 45: Cookies | Nile Okomo | [Read More](https://medium.com/p/7863683d55ad) |
 | Tue, 08 Jul 2025 22:13:26 GMT | The 4-Digit Code That Almost Took Down a Water Facility | Cyber-AppSec | [Read More](https://medium.com/p/723e7488b87b) |
 | Tue, 08 Jul 2025 22:09:58 GMT | Day 44: The Ethernet Protocol | Nile Okomo | [Read More](https://medium.com/p/e185f4bb5120) |
 | Tue, 08 Jul 2025 21:55:24 GMT | A Quiet Start | Sentinel Theory | [Read More](https://medium.com/p/1bee31a13ebc) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 15:30:02 GMT | TryHackMe - Windows User Account Forensics - WriteUp | Axoloth | [Read More](https://medium.com/p/168683fe2f21) |
 | Tue, 08 Jul 2025 15:27:58 GMT | Web Application Firewall (WAF) Bypass Techniques that Work in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b11861b2767b) |
 | Tue, 08 Jul 2025 15:27:25 GMT | This Hidden Recon Tool Is a Game-Changer for Bug Bounty Hunters — And It Has a Killer Free Tier | hacker_might | [Read More](https://medium.com/p/a022c74771b0) |
-| Tue, 08 Jul 2025 15:27:02 GMT | The Host Header Injection Hack — Silent Takeovers & Secret Access | Đeepanshu | [Read More](https://medium.com/p/1e46908b9578) |
