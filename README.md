@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 03:55:12 GMT | 16 Billion Passwords Resurface — Why India Is Sounding the Cybersecurity Alarm | Darshan | [Read More](https://medium.com/p/3d578db97be8) |
+| Tue, 08 Jul 2025 03:52:52 GMT | Let’s Understand JWT & Start Building a Secure Full-Stack App for AWS Deployment..☁️ | Shubham Vartak | [Read More](https://medium.com/p/c3578b9fe709) |
+| Tue, 08 Jul 2025 03:42:53 GMT | CTF-COLLECTION-VOLUME 2 | 5kullk3r | [Read More](https://medium.com/p/40ec94e5c7d3) |
+| Tue, 08 Jul 2025 03:40:46 GMT | THE DARK ART OF GOOGLE DORKING : HOW I UNCOVERED SENSITIVE DATA IN THE WILD | Gouri Sankar A | [Read More](https://medium.com/p/4405e74382f3) |
+| Tue, 08 Jul 2025 03:39:31 GMT | VoIP Security Best Practices for Businesses | revathi msr | [Read More](https://medium.com/p/eb27dd329dcc) |
+| Tue, 08 Jul 2025 03:32:53 GMT | SuperCard X: The Android Malware That Turns Phones into Digital Pickpockets | Deven Chhajed | [Read More](https://medium.com/p/736881862b3b) |
+| Tue, 08 Jul 2025 03:32:27 GMT | Intro to AWS IAM Enumeration — PwnedLabs | Shounak Das | [Read More](https://medium.com/p/292b2f05449e) |
+| Tue, 08 Jul 2025 03:30:19 GMT | How SafeLine WAF Blocks Brute Force Attacks and Protects Your Site | Quella | [Read More](https://medium.com/p/5ab673f8aaae) |
+| Tue, 08 Jul 2025 03:11:12 GMT | Your Data Isn’t Private. Neither Are YOU. | Nameera Uzair | [Read More](https://medium.com/p/866bcb563a6c) |
 | Tue, 08 Jul 2025 03:06:10 GMT | Global Encryption Policy Debates: Balancing Privacy and Security | Shalomo Agarwarkar | [Read More](https://medium.com/p/aa9fb2666a9a) |
 | Tue, 08 Jul 2025 03:02:59 GMT | Japan Links with NATO to Fight Cyberattacks — Taiwan and EU Counter Hybrid Threats — South Korea… | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/19a5b9bf87c6) |
 | Tue, 08 Jul 2025 03:02:56 GMT | 12 Days That Tested the West’s Resolve | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/204f812dbef9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 18:10:28 GMT | my (not so) introduction to medium | issy wilson | [Read More](https://medium.com/p/0b3dbc7f4da8) |
 | Mon, 07 Jul 2025 18:06:45 GMT | UNLOCK YOUR REWARDS: ZENTRY’S NEXUS PRE-SEASON SECOND WAVE IS LIVE! | STANLEY | [Read More](https://medium.com/p/7dffd373496b) |
 | Mon, 07 Jul 2025 18:06:33 GMT | Writing Pentest Reports | Shourya Pratap Singh | [Read More](https://medium.com/p/fb36da911b4a) |
-| Mon, 07 Jul 2025 18:05:19 GMT | File Systems Demystified: NTFS, FAT32, exFAT, EXT — Explained with a Simple Story | Natarajan C K | [Read More](https://medium.com/p/9baf8279cd1a) |
-| Mon, 07 Jul 2025 18:05:04 GMT | From Brilliant Idea to Business-Ending Breach: Why Security is Non-Negotiable for Today’s… | Darryl MacLeod | [Read More](https://medium.com/p/d1857d7ab4c1) |
-| Mon, 07 Jul 2025 17:54:57 GMT | Introduction to Security Assessment and Testing | Igor Berner | [Read More](https://medium.com/p/97617d9df675) |
-| Mon, 07 Jul 2025 17:51:39 GMT | TryHackMe Looking Glass — Walkthrough | mauzware | [Read More](https://medium.com/p/ca79e480c0d2) |
-| Mon, 07 Jul 2025 17:51:38 GMT | About Me | Aaron Rusz | [Read More](https://medium.com/p/4f32ba3e1640) |
-| Mon, 07 Jul 2025 17:51:28 GMT | SIEM Microsoft Azure Honeypot Project | I.R | [Read More](https://medium.com/p/66e370296376) |
-| Mon, 07 Jul 2025 17:47:28 GMT | Demystifying STRIDE: A Practical Guide to Threat Modeling with Real-World Examples | Shubham Pandey | [Read More](https://medium.com/p/6eb8de8100c2) |
-| Mon, 07 Jul 2025 17:46:06 GMT | How You Can Survive the AI Tsunami | devsecops | [Read More](https://medium.com/p/12ac4c1a649d) |
-| Mon, 07 Jul 2025 17:44:58 GMT | AI Security Isn’t Optional Anymore. | Alexandre Capita | [Read More](https://medium.com/p/32714618b2e6) |
