@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 18:20:42 GMT | A GPS for Human Knowledge: Addressing Educational Inefficiency Through Systematic… | Maven | [Read More](https://medium.com/p/27d6446be6c8) |
+| Tue, 08 Jul 2025 18:16:52 GMT | Choosing the Right Penetration Testing Partner: Insights from the Trenches | Mark Puckett | [Read More](https://medium.com/p/0a3a65da24e5) |
+| Tue, 08 Jul 2025 18:02:53 GMT | How I’m Learning to Receive Help | Liyuan Malone | [Read More](https://medium.com/p/d77d70406795) |
+| Tue, 08 Jul 2025 17:55:05 GMT | Data Backup vs Disaster Recovery: What Your Business Needs in 2025 | Techridge Solutions | [Read More](https://medium.com/p/ab8bf86af3dd) |
+| Tue, 08 Jul 2025 17:54:42 GMT | when running away feels like the only thing i can do… | arriettybean؛ଓ | [Read More](https://medium.com/p/61b42fc57285) |
+| Tue, 08 Jul 2025 17:52:39 GMT | My Brain Said Psychology. My Skills Said Tech. Cybersecurity Said Both…. | Hafsa Anwaar | [Read More](https://medium.com/p/edab095584cd) |
+| Tue, 08 Jul 2025 17:51:37 GMT | Cybersecurity Careers in Pakistan: A Rising Need, A Growing Field | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/783a87012c9b) |
+| Tue, 08 Jul 2025 17:48:20 GMT | Pi-hole: Take Back Control of Your Network and Block Ads at the DNS Level | Guruprasad | [Read More](https://medium.com/p/43f8842c9bef) |
 | Tue, 08 Jul 2025 17:41:05 GMT | “Hack Back” Game, Coming Soon… | Ty Anderson | [Read More](https://medium.com/p/f81c88432579) |
 | Tue, 08 Jul 2025 17:37:24 GMT | PS Eclipse TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/ba770b3945db) |
 | Tue, 08 Jul 2025 17:31:22 GMT | From Thar to Thought: Our Cybersecurity Mission to CISF Headquarters, Kharghar | Rajankale | [Read More](https://medium.com/p/47222ba72acd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 13:22:49 GMT | Path Traversal part-6 : validation of file extension with null byte bypass | Ahmad Sopyan | [Read More](https://medium.com/p/33de553254c2) |
 | Tue, 08 Jul 2025 13:19:51 GMT | Windows Logging for SOC: Essential Logs & Detection Strategies | Visir | [Read More](https://medium.com/p/652e1e6b2736) |
 | Tue, 08 Jul 2025 13:15:25 GMT | ClickFix Campaign: How Clipboard Injection Leads to RAT Infection (Part 2) | h3xstone | [Read More](https://medium.com/p/16b79a20a084) |
-| Tue, 08 Jul 2025 13:10:20 GMT | The Qantas data breach in 2025 | Hoplon Infosec | [Read More](https://medium.com/p/bee0ba88289f) |
-| Tue, 08 Jul 2025 13:09:48 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/d7bb9f86ca71) |
-| Tue, 08 Jul 2025 13:09:35 GMT | $$ Stop Chasing Unicorns: How “Low” Bugs Become Your Biggest Bug Bounty Paydays | Aman Sharma | [Read More](https://medium.com/p/bc2f800bd38b) |
-| Tue, 08 Jul 2025 13:09:07 GMT | Part 2: Siber Güvenlik Kavramları: Teoriden Gerçeğe, Hayattan Örneklerle | Pınar Taylan | [Read More](https://medium.com/p/3f77e06f7a4e) |
-| Tue, 08 Jul 2025 13:08:50 GMT | Complete Linux Commands List for Beginners — Learn the Basics in Pakistan | cyberwingITSolution | [Read More](https://medium.com/p/553dec634319) |
-| Tue, 08 Jul 2025 13:08:45 GMT | I Took Over My Own Account With Google Login (And It Worked?!) | Yukeshwaran N | [Read More](https://medium.com/p/910fb4362fa2) |
-| Tue, 08 Jul 2025 13:04:56 GMT | Ağ (Network) Temelleri ve Güvenliği | Arda | [Read More](https://medium.com/p/2cfcc6f39016) |
-| Tue, 08 Jul 2025 13:03:56 GMT | AfCFTA and the Risk of Leaving Small Players Behind | Covenant O.B. | [Read More](https://medium.com/p/582de8c3a36e) |
