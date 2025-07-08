@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 09:16:49 GMT | How Two Hidden Sudo Flaws Could Let Anyone Become Root — And How to Lock It Down | CyBlog | [Read More](https://medium.com/p/61324f208c60) |
+| Tue, 08 Jul 2025 09:14:49 GMT | Saturday Edition — General Cyber News Summary — 05/07/25 | SecurityPulse News | [Read More](https://medium.com/p/9f470655d8e8) |
+| Tue, 08 Jul 2025 09:14:04 GMT | Bankruptcy forecasting in enterprises and its security using hybrid deep learning models | Brij Gupta | [Read More](https://medium.com/p/2cfa1ceb1fc6) |
+| Tue, 08 Jul 2025 09:13:29 GMT | Objavljeno: 12. oktobar 2000. (Arhiva) | Arhiva Balkana | [Read More](https://medium.com/p/b0fd1af79830) |
+| Tue, 08 Jul 2025 09:07:08 GMT | From Shortlist to Finalist: My Journey in the Guardians of the Grid Cybersecurity Challenge | Azeeza Farhana Shaik | [Read More](https://medium.com/p/d2b493528330) |
+| Tue, 08 Jul 2025 09:02:51 GMT | How AI Can Help You Uncover Hidden Security Gaps in JavaScript Workflows? | Asian Digital Hub | [Read More](https://medium.com/p/4276d90278af) |
+| Tue, 08 Jul 2025 08:59:13 GMT | UPLOAD | Enoch Root | [Read More](https://medium.com/p/cca88633c20a) |
+| Tue, 08 Jul 2025 08:59:07 GMT | Mastering Recon-ng: The Complete OSINT Guide for Ethical Hackers | Rajkumar Kumawat | [Read More](https://medium.com/p/226b352fbf5b) |
+| Tue, 08 Jul 2025 08:58:31 GMT | OPERATION D.E.R.A - TBR2414PHS | O. J. Okpabi | [Read More](https://medium.com/p/5941edc7beca) |
+| Tue, 08 Jul 2025 08:57:29 GMT | AI Security for Manufacturing: Protecting OT Networks from Next-Gen Threats | Paul Sherman | [Read More](https://medium.com/p/339571386554) |
+| Tue, 08 Jul 2025 08:48:40 GMT | Penetration Testing Requirements for Compliance in Australia | Steve McLaughlin | [Read More](https://medium.com/p/d32a96341b2e) |
 | Tue, 08 Jul 2025 08:48:01 GMT | VulneraX0 — Fintech-Style Web Exploitation Lab | TraceX0 | [Read More](https://medium.com/p/21682a456df3) |
+| Tue, 08 Jul 2025 08:46:58 GMT | Telegram Bots in Phishing Campaigns: How I Got Inside | Sean | [Read More](https://medium.com/p/754c0067033c) |
 | Tue, 08 Jul 2025 08:45:42 GMT | ️ Setting Up a Penetration Testing Lab: Full Guide (Tools, OS, Network) | Rajkumar Kumawat | [Read More](https://medium.com/p/efb8dde1a041) |
 | Tue, 08 Jul 2025 08:42:06 GMT | Nagoya - Offensive Security - Proving Ground Practice | Mariam | [Read More](https://medium.com/p/7c40ecff36d8) |
 | Tue, 08 Jul 2025 08:41:13 GMT | Why Artificial Intelligence Is Not Secure by Default. | Viktor Davydych | [Read More](https://medium.com/p/f1c34de3c715) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 04:36:48 GMT | Today’s Top Cyber Intelligence Highlights — Jul 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/897b17af3f26) |
 | Tue, 08 Jul 2025 04:36:01 GMT | Is Exploit Shell-coding Still Relevant in 2025? | The Hackers Meetup | [Read More](https://medium.com/p/0ba7eb61fee7) |
 | Tue, 08 Jul 2025 04:32:10 GMT | Prompt Engineering for Cloud Engineers: Make GPT Do the Heavy Lifting | Paritosh | [Read More](https://medium.com/p/55e7c27b915b) |
-| Tue, 08 Jul 2025 04:26:07 GMT | The 7 Silent Threats Lurking in Your Digital Life — That Even Your Antivirus Can’t Catch | Yash Kumar Chauhan | [Read More](https://medium.com/p/01e7828cae2f) |
-| Tue, 08 Jul 2025 04:22:21 GMT | Command Line CTF -Walkthrough | Trent W | [Read More](https://medium.com/p/9460ddbf9e78) |
-| Tue, 08 Jul 2025 04:21:42 GMT | 10 Linux Commands I Use Daily as a Cybersecurity Student | Aniket Gaikwad | [Read More](https://medium.com/p/5edab0dceb59) |
-| Tue, 08 Jul 2025 04:21:16 GMT | About Me | Abraham Eleojo Salifu | [Read More](https://medium.com/p/534af4c28efa) |
-| Tue, 08 Jul 2025 04:06:32 GMT | LO-FI TryHackMe : Breaking Down an LFI Challenge | Soumyashree Sahoo | [Read More](https://medium.com/p/b1094b104401) |
-| Tue, 08 Jul 2025 04:05:56 GMT | Hacking Web : Account Takeover (ATO) Attacks | Israel Aráoz Severiche | [Read More](https://medium.com/p/86db20cb2fb2) |
-| Tue, 08 Jul 2025 04:02:27 GMT | NGINX and Trivy: Part 2 — Building a Minimal TODO API (Scratch vs Alpine) and Comparing… | Booranasak Kanthong | [Read More](https://medium.com/p/443f1c677b3b) |
-| Tue, 08 Jul 2025 04:01:47 GMT | The Night the Network Died — 10 Unspoken Laws of Rebuilding After Total System Failure | James Kuhman | [Read More](https://medium.com/p/07c172c40739) |
-| Tue, 08 Jul 2025 03:55:58 GMT | What I’m Learning While Building an AI Cybersecurity Tool | Parth Gohil | [Read More](https://medium.com/p/c64573fca342) |
-| Tue, 08 Jul 2025 03:55:12 GMT | 16 Billion Passwords Resurface — Why India Is Sounding the Cybersecurity Alarm | Darshan | [Read More](https://medium.com/p/3d578db97be8) |
-| Tue, 08 Jul 2025 03:52:52 GMT | Let’s Understand JWT & Start Building a Secure Full-Stack App for AWS Deployment..☁️ | Shubham Vartak | [Read More](https://medium.com/p/c3578b9fe709) |
-| Tue, 08 Jul 2025 03:42:53 GMT | CTF-COLLECTION-VOLUME 2 | 5kullk3r | [Read More](https://medium.com/p/40ec94e5c7d3) |
