@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 17:41:05 GMT | “Hack Back” Game, Coming Soon… | Ty Anderson | [Read More](https://medium.com/p/f81c88432579) |
+| Tue, 08 Jul 2025 17:37:24 GMT | PS Eclipse TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/ba770b3945db) |
+| Tue, 08 Jul 2025 17:31:22 GMT | From Thar to Thought: Our Cybersecurity Mission to CISF Headquarters, Kharghar | Rajankale | [Read More](https://medium.com/p/47222ba72acd) |
+| Tue, 08 Jul 2025 17:28:15 GMT | 10 Security Tools and Approaches in AWS to Prevent Incidents Like the One at the Central Bank of… | Carlos Biagolini-Jr. | [Read More](https://medium.com/p/210d7618f717) |
+| Tue, 08 Jul 2025 17:24:26 GMT | The Essential Guide to XSS Protection in Laravel (Don’t Get Hacked!) | TechSolve Central | [Read More](https://medium.com/p/15782550be74) |
+| Tue, 08 Jul 2025 17:20:31 GMT | Pwned: CHEMISTRY — A Write-Up on my HackTheBox (HTB) Adventure | Am6r0510 H4ckm4n | [Read More](https://medium.com/p/5d07db5a08c7) |
+| Tue, 08 Jul 2025 17:20:02 GMT | Pwned: CICADA — A Write-up on my HackTheBox (HTB) Adventure | Am6r0510 H4ckm4n | [Read More](https://medium.com/p/d3b9d4a4f28e) |
+| Tue, 08 Jul 2025 17:17:21 GMT | WELCOME TO MY WORLD | Shane Samuel | [Read More](https://medium.com/p/33b65d6fc8cb) |
+| Tue, 08 Jul 2025 17:16:07 GMT | Membongkar Server-Side Request Forgery (SSRF): Serangan Tak Terlihat yang Mematikan | Malbaralamsyah | [Read More](https://medium.com/p/628eeedc0aa5) |
+| Tue, 08 Jul 2025 17:14:58 GMT | Why Governance Is the Job Everyone Should Be Talking About | A D | [Read More](https://medium.com/p/9b55a3dac37f) |
+| Tue, 08 Jul 2025 17:11:52 GMT | How Python Powers the Most Dangerous Tools in Cybersecurity | Code With Hannan | [Read More](https://medium.com/p/306b807faa67) |
 | Tue, 08 Jul 2025 17:10:00 GMT | Building an Anomaly Detection Lab for Cybersecurity Logs Using Isolation Forest & Azure. | graciegue | [Read More](https://medium.com/p/92b3ef4486e0) |
 | Tue, 08 Jul 2025 17:07:23 GMT | The AI That Hacked a Bank — And Never Touched Malware | Sneha Rani | [Read More](https://medium.com/p/b1d456d40086) |
 | Tue, 08 Jul 2025 17:02:25 GMT | Selection Pressures: The Hidden Force Shaping AI’s Future | gema.parreno.piqueras | [Read More](https://medium.com/p/50ac832ab2f6) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 13:08:45 GMT | I Took Over My Own Account With Google Login (And It Worked?!) | Yukeshwaran N | [Read More](https://medium.com/p/910fb4362fa2) |
 | Tue, 08 Jul 2025 13:04:56 GMT | Ağ (Network) Temelleri ve Güvenliği | Arda | [Read More](https://medium.com/p/2cfcc6f39016) |
 | Tue, 08 Jul 2025 13:03:56 GMT | AfCFTA and the Risk of Leaving Small Players Behind | Covenant O.B. | [Read More](https://medium.com/p/582de8c3a36e) |
-| Tue, 08 Jul 2025 13:03:08 GMT | Security+ SY0–701 — Week 5 Recap | Jason Junior Boderebe | [Read More](https://medium.com/p/5dff8220c5d2) |
-| Tue, 08 Jul 2025 13:03:05 GMT | Modern Data Protection in the Age of Data Deluge | Faraz Ishaq | [Read More](https://medium.com/p/46a4a8f0394d) |
-| Tue, 08 Jul 2025 13:02:51 GMT | Complete Linux Installation Guide: Step-by-Step Setup for Beginners in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/8931c2be4ca0) |
-| Tue, 08 Jul 2025 12:53:40 GMT | Not All Bots Deserve to Crawl | Chaitali Vishwakarma | [Read More](https://medium.com/p/845171a63ea2) |
-| Tue, 08 Jul 2025 12:50:51 GMT | Click-to-Breach: The Industrialization of Cybercrime | Milos | [Read More](https://medium.com/p/b27010f2e352) |
-| Tue, 08 Jul 2025 12:50:38 GMT | Rooting Nexus CTF — My Complete Walkthrough | SecBeast | [Read More](https://medium.com/p/367b70d41e14) |
-| Tue, 08 Jul 2025 12:46:54 GMT | Stopping Identity Based Threats with Zero Trust Architecture | Supratip Banerjee | [Read More](https://medium.com/p/9fc5bf1bc08b) |
-| Tue, 08 Jul 2025 12:33:50 GMT | XSS — Wlakthrough TryHackMe | Ancava | [Read More](https://medium.com/p/2c34a0db4b76) |
-| Tue, 08 Jul 2025 12:33:02 GMT | We Are Connected: The Birth of Cyberpsychoneurology | Mohammed Hasan | [Read More](https://medium.com/p/d807f0dcd80a) |
-| Tue, 08 Jul 2025 12:32:02 GMT | Cloud Security Posture Management: What is CSPM? | Christopher | [Read More](https://medium.com/p/98c2a395b9c6) |
-| Tue, 08 Jul 2025 12:30:49 GMT | Rethinking Cybersecurity: Stop protecting infrastructure. start protecting people. | Pavlović Goran | [Read More](https://medium.com/p/da52cabc0531) |
