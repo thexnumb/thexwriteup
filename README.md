@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 15:15:07 GMT | HTTP vs HTTPS (for Hackers): The Locks, the Leaks, and the Lessons | Goose Gustin | [Read More](https://medium.com/p/f680bc157486) |
+| Tue, 08 Jul 2025 15:10:04 GMT | Strait of Hormuz Tensions(Analysis) | Ramsha Ali | [Read More](https://medium.com/p/bca8f34644a3) |
+| Tue, 08 Jul 2025 15:09:13 GMT | Rise of the AI-Powered Attack - Marks and Spencer | K O M A L | [Read More](https://medium.com/p/b3f10cd2d611) |
+| Tue, 08 Jul 2025 15:09:01 GMT | Choosing the Best CCTV for Warehouses: A Personal Guide to Smarter Security | Rara | [Read More](https://medium.com/p/d8070e311487) |
+| Tue, 08 Jul 2025 15:07:55 GMT | ️ Advanced OAuth Vulnerabilities — Deep Dive | Shah kaif | [Read More](https://medium.com/p/b941c90f49b6) |
+| Tue, 08 Jul 2025 15:03:34 GMT | Why the Dahua AirShield HUB2 12V Power Supply is the Secret Sauce to Smarter Security | Rara | [Read More](https://medium.com/p/d20be60bce72) |
+| Tue, 08 Jul 2025 14:56:13 GMT | Why the Best CCTV for Restaurants is a Game-Changer (From a Restaurant Owner) | Rara | [Read More](https://medium.com/p/da7bf80e1717) |
+| Tue, 08 Jul 2025 14:55:38 GMT | My Hacker Copilot Runs Ops with Me | Five Insights | [Read More](https://medium.com/p/cd7fb7df8edd) |
+| Tue, 08 Jul 2025 14:53:01 GMT | Effective Log Analysis for SOC: AI-Powered Anomaly Detection Algorithms | Esra Kayhan | [Read More](https://medium.com/p/3bcc86654543) |
+| Tue, 08 Jul 2025 14:52:18 GMT | I Sent an Email into the Void and an Entire Intelligence Platform Responded | Fabio Toscano | [Read More](https://medium.com/p/6422c6e5f44f) |
+| Tue, 08 Jul 2025 14:47:06 GMT | GIFTEDCROOK’s Strategic Pivot: UAC-0226’s Espionage Surge Amid Ukraine’s Geopolitical Flashpoints | Wes Young | [Read More](https://medium.com/p/de788cc12eea) |
+| Tue, 08 Jul 2025 14:45:26 GMT | Building a Comprehensive Software Inventory System for Large Enterprises | Ashley Kim | [Read More](https://medium.com/p/99f95181242a) |
+| Tue, 08 Jul 2025 14:44:31 GMT | Hashing Challenge: Hash3rror — Fixing a Broken Hash and Finding the Password | Uchendu Favour | [Read More](https://medium.com/p/b04c20377fca) |
 | Tue, 08 Jul 2025 14:35:45 GMT | OKX, Time Token, FCN-TRUST: Another Week, Another Set of Unchecked Assumptions | Olympix | [Read More](https://medium.com/p/23bb8380ffb5) |
 | Tue, 08 Jul 2025 14:31:42 GMT | TLS/SSL Weaknesses and Protocol-Based Attack Scenarios | Esra Kayhan | [Read More](https://medium.com/p/b7510df7f9c2) |
 | Tue, 08 Jul 2025 14:26:52 GMT | Cork, ResupplyFi, Meta Pool: Hookless, Priceless, and Permissionless Losses | Olympix | [Read More](https://medium.com/p/deab87623339) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 10:44:21 GMT | How to Turn Cybersecurity Into a Competitive Advantage | Technijian ITSupport | [Read More](https://medium.com/p/b6ee0680ec2c) |
 | Tue, 08 Jul 2025 10:38:25 GMT | Unemployed but Emotionally Employed | rebootingdaily | [Read More](https://medium.com/p/fe500d024059) |
 | Tue, 08 Jul 2025 10:30:32 GMT | Cómo censurar un comentario con solo un script: abuso del sistema de reportes | Gorka | [Read More](https://medium.com/p/b1df7810761f) |
-| Tue, 08 Jul 2025 10:29:53 GMT | XSSpwn: Thinking Outside the Box with Reflected XSS Automation | GhostDev™️ | [Read More](https://medium.com/p/6cb7ac1241c1) |
-| Tue, 08 Jul 2025 10:29:47 GMT | OpenSec Framework — R.331 | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/aa22c8337b62) |
-| Tue, 08 Jul 2025 10:28:09 GMT | Real-World SVG-Based Phishing Attack: Technical Deep Dive | Muhammad  Haider Ali Khan | [Read More](https://medium.com/p/3a7ac7107042) |
-| Tue, 08 Jul 2025 10:23:11 GMT | Developing a Successful Intelligence-Driven Hypothesis For Threat Hunting. | José Reyes (@Architekt) | [Read More](https://medium.com/p/657f241b4460) |
-| Tue, 08 Jul 2025 10:21:21 GMT | ACM Developer’s Digest #3 | ACM MITB | [Read More](https://medium.com/p/a79a876463e7) |
-| Tue, 08 Jul 2025 10:19:36 GMT | HackTheBox Sherlock: Meerkat Writeup and Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/09d9fb41e9d2) |
-| Tue, 08 Jul 2025 10:17:06 GMT | A composite indicator for Tourism Market Vulnerability | mona masoumi | [Read More](https://medium.com/p/abe6a11f8900) |
-| Tue, 08 Jul 2025 10:11:40 GMT | The Google Cybersecurity Certificate: Was It Worth It? (Spoiler: Yes) | Ejike Etolue | [Read More](https://medium.com/p/69d4ea2f3132) |
-| Tue, 08 Jul 2025 10:00:34 GMT | [CyberDefenders Write-up] Trigona Ransomware (Initial Access via RDP, RDP to share server and… | Chicken0248 | [Read More](https://medium.com/p/b683239f316b) |
-| Tue, 08 Jul 2025 09:52:58 GMT | Challenge: findme (Web Exploitation) | Yash4Vulnerable | [Read More](https://medium.com/p/e3fa59cea419) |
-| Tue, 08 Jul 2025 09:46:12 GMT | LDAP Injection in Symfony: How to Detect & Fix | Pentest_Testing_Corp | [Read More](https://medium.com/p/3b217f26adf1) |
-| Tue, 08 Jul 2025 09:43:24 GMT | Ultra-Realistic Deepfakes: Understanding the Evolving Threat Landscape in the Age of GenAI | noailabs | [Read More](https://medium.com/p/7c04c80e19f9) |
-| Tue, 08 Jul 2025 09:38:35 GMT | SPLUNK (1) | VICTUS(RQ) | [Read More](https://medium.com/p/22cb1ab2edcd) |
