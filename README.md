@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 07:32:12 GMT | JWT Authentication Bypass Via Unverified Signature — Without Burpsuite | Leerlryzck | [Read More](https://medium.com/p/dc0c6b195a94) |
+| Tue, 08 Jul 2025 07:27:33 GMT | The Power of TOGAF Certification: Unlock Your Enterprise Architecture Career | Safarisprz01 | [Read More](https://medium.com/p/7705c7534021) |
+| Tue, 08 Jul 2025 07:23:45 GMT | The 10 Most Common Cybersecurity Mistakes Small Businesses Make and How to Avoid Them | Teleglobal International | [Read More](https://medium.com/p/04e462fcd601) |
+| Tue, 08 Jul 2025 07:22:58 GMT | Unauthenticated SQL Injection Found in Weaver e-cology Platform | AerieWhole123 | [Read More](https://medium.com/p/b7ecd5055961) |
+| Tue, 08 Jul 2025 07:22:36 GMT | Ultimate Interactive Challenge by FinEconoverse | FinEconoverse | [Read More](https://medium.com/p/6f9fa647f0f3) |
+| Tue, 08 Jul 2025 07:20:12 GMT | React Component Lifecycle Simplified: Understanding React’s Rhythm | Expert App Devs | [Read More](https://medium.com/p/7ad3fb0a1d1c) |
+| Tue, 08 Jul 2025 07:19:01 GMT | Day 5 of MCP Security: Context Leaks, Scope Creep & Shadow Permissions | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/6ee9721d86c0) |
 | Tue, 08 Jul 2025 07:18:14 GMT | Bug Bounty Methodology | Eilcxtvrzfmicyqqmo | [Read More](https://medium.com/p/851f26fa5f55) |
 | Tue, 08 Jul 2025 07:09:09 GMT | Common cybersecurity mistakes small businesses make and how to avoid them | Generative AI Blog | [Read More](https://medium.com/p/abeaed7bcb75) |
 | Tue, 08 Jul 2025 07:09:03 GMT | The Rise of Managed Detection and Response (MDR) : Proactive Defense Against Evolving Cyber Threats | Gargiben | [Read More](https://medium.com/p/d6275a7b9601) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 23:56:39 GMT | Shaping Alignment without Fear and the Hidden Cost of Negation | Danielle Breegle | [Read More](https://medium.com/p/bcfe9293efc1) |
 | Mon, 07 Jul 2025 23:52:31 GMT | 0$ Bug Bounty | Sevada797 | [Read More](https://medium.com/p/3bdc15320c8b) |
 | Mon, 07 Jul 2025 23:50:08 GMT | What Every Designer Should Know About Web Security (But No One Talks About) | Yanshi Tyagi | [Read More](https://medium.com/p/09396b2be783) |
-| Mon, 07 Jul 2025 23:37:52 GMT | Why Every Beginner Pentester Should Build Their Own Lab (Before Getting Certified) | Corey Jones | [Read More](https://medium.com/p/15f4937290af) |
-| Mon, 07 Jul 2025 23:34:55 GMT | XLMRat Lab Analysis | Omer Bawazir | [Read More](https://medium.com/p/4278b9c4ed92) |
-| Mon, 07 Jul 2025 23:27:16 GMT | Code Red: How Hospitals Became Cyber Hostages and How to Stop It | Nidhi Aswal | [Read More](https://medium.com/p/75a4ff2ef5ca) |
-| Mon, 07 Jul 2025 22:59:19 GMT | You’re Not Failing. The System Is. | Prince Esien | [Read More](https://medium.com/p/085f556ff613) |
-| Mon, 07 Jul 2025 22:47:09 GMT | Protecting Values in Environment Variables: Part I, Gatekeeper | W. Jenks Gibbons | [Read More](https://medium.com/p/50dabe4cfc49) |
-| Mon, 07 Jul 2025 22:34:06 GMT | I Wasn’t Healing. I Was Hiding. | Mr Cool | [Read More](https://medium.com/p/e1a0a7918f90) |
-| Mon, 07 Jul 2025 22:31:58 GMT | VulnCicada - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/50c9915c0725) |
