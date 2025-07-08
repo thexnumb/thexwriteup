@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 23:25:08 GMT | When You’re Not Sure What You’re Meant to Do | paday∞n | [Read More](https://medium.com/p/68150d75d6c6) |
+| Tue, 08 Jul 2025 23:19:29 GMT | Part 1: The Private Key Predicament — Your Digital Lifeblood | Ben San Roman | [Read More](https://medium.com/p/5a6cb4bd226f) |
 | Tue, 08 Jul 2025 23:19:23 GMT | X Under Siege: Data Leaks, Bots, and Security Failures | ADanielHill | [Read More](https://medium.com/p/b24df636cb33) |
 | Tue, 08 Jul 2025 23:16:26 GMT | Series: Fortifying the Digital Frontier — Your Guide to Crypto Security in Web3 | Ben San Roman | [Read More](https://medium.com/p/648ba92bd71f) |
 | Tue, 08 Jul 2025 23:05:19 GMT | When Kindness Leads, Hearts Heal – A World We All Deserve | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/c0e2aebc1c61) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 16:04:02 GMT | Scatter Spider collected domain names | Damion Waltermeyer | [Read More](https://medium.com/p/be81286b7871) |
 | Tue, 08 Jul 2025 16:03:59 GMT | Top Cyber Security Academy in Thrissur — Learn from the Experts at Cyber Echelon | elevx solutions | [Read More](https://medium.com/p/563fdd081f49) |
 | Tue, 08 Jul 2025 16:00:49 GMT | Post CyberTitan 2025 thoughts | August Lam | [Read More](https://medium.com/p/efddbfd64da8) |
-| Tue, 08 Jul 2025 16:00:20 GMT | Why You Should Outsource SOC to Strengthen Your Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/ef8aac7ff74a) |
-| Tue, 08 Jul 2025 15:56:21 GMT | How It Becomes Easier to Express in Metaphors | Kondapalli Koyal | [Read More](https://medium.com/p/db71be329673) |
