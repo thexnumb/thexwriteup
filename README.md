@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 20:52:08 GMT | Wakey Wakey — something’s janky | vicki lee dillard | [Read More](https://medium.com/p/81eaa18bad26) |
+| Tue, 08 Jul 2025 20:49:53 GMT | UpDown-Linux-Medium | masiva | [Read More](https://medium.com/p/b3dbacf057f8) |
+| Tue, 08 Jul 2025 20:48:45 GMT | How I Hacked a Hacker — Part 2: The Hunt Begins (Real-Life Story) | Scofield O. Idehen | [Read More](https://medium.com/p/ad3bf4bf5080) |
+| Tue, 08 Jul 2025 20:36:53 GMT | Beyond Fines: The Strategic Business Benefits of NIS2 Compliance | J Bodys | [Read More](https://medium.com/p/efa2180acfe0) |
 | Tue, 08 Jul 2025 20:34:34 GMT | Reverse Shells, Netcat, and Privilege Escalation: Exploiting Outdated Plugins Like a Pro | Santhosh Adiga U | [Read More](https://medium.com/p/7818e6fe4bab) |
 | Tue, 08 Jul 2025 20:23:30 GMT | Think Like a Threat: How SOC Teams Can Stop Attacks Before the First Alert | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/102bdc4809e6) |
 | Tue, 08 Jul 2025 20:17:29 GMT | Where Have I Been? | Jamon Sin | [Read More](https://medium.com/p/9d667e88dca8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 14:56:13 GMT | Why the Best CCTV for Restaurants is a Game-Changer (From a Restaurant Owner) | Rara | [Read More](https://medium.com/p/da7bf80e1717) |
 | Tue, 08 Jul 2025 14:55:38 GMT | My Hacker Copilot Runs Ops with Me | Five Insights | [Read More](https://medium.com/p/cd7fb7df8edd) |
 | Tue, 08 Jul 2025 14:53:01 GMT | Effective Log Analysis for SOC: AI-Powered Anomaly Detection Algorithms | Esra Kayhan | [Read More](https://medium.com/p/3bcc86654543) |
-| Tue, 08 Jul 2025 14:52:18 GMT | I Sent an Email into the Void and an Entire Intelligence Platform Responded | Fabio Toscano | [Read More](https://medium.com/p/6422c6e5f44f) |
-| Tue, 08 Jul 2025 14:47:06 GMT | GIFTEDCROOK’s Strategic Pivot: UAC-0226’s Espionage Surge Amid Ukraine’s Geopolitical Flashpoints | Wes Young | [Read More](https://medium.com/p/de788cc12eea) |
-| Tue, 08 Jul 2025 14:45:26 GMT | Building a Comprehensive Software Inventory System for Large Enterprises | Ashley Kim | [Read More](https://medium.com/p/99f95181242a) |
-| Tue, 08 Jul 2025 14:44:31 GMT | Hashing Challenge: Hash3rror — Fixing a Broken Hash and Finding the Password | Uchendu Favour | [Read More](https://medium.com/p/b04c20377fca) |
