@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 08:14:44 GMT | Path Traversal part-4 : traversal sequences stripped with superfluous URL-decode | Ahmad Sopyan | [Read More](https://medium.com/p/4150fbd4e66f) |
+| Tue, 08 Jul 2025 08:10:58 GMT | Why Every Business Needs a Log Monitoring Strategy in 2025 | Agan Cyber Security | [Read More](https://medium.com/p/b258a75f5873) |
+| Tue, 08 Jul 2025 08:09:50 GMT | Why Default Compliance Certificates Aren’t Enough in the Age of AI-Driven Threats | Piyush Maharishi | [Read More](https://medium.com/p/2d3bbfc6b190) |
+| Tue, 08 Jul 2025 08:09:06 GMT | Deploy in under 90 minutes. Save $100K/month. Automate 300+ security checks. | DevSecCopsai | [Read More](https://medium.com/p/5905dd4b6e47) |
+| Tue, 08 Jul 2025 08:03:36 GMT | PyTorch Security Crisis: How a Critical Vulnerability Threatens the AI Ecosystem (And What to Do… | Egyda-Ai | [Read More](https://medium.com/p/2d3c74d11c26) |
+| Tue, 08 Jul 2025 08:02:23 GMT | What Are Web Shells — and How to Stop Them | AerieWhole123 | [Read More](https://medium.com/p/c69b40ca2d18) |
+| Tue, 08 Jul 2025 08:02:14 GMT | Security in the Modern Software World: Static Code Analysis with Fortify | Mustafa Kurt | [Read More](https://medium.com/p/2904f6dbc02b) |
+| Tue, 08 Jul 2025 07:58:52 GMT | Why Cyber Criminals Are Turning to Phishing, and How Gen-AI Is Supercharging Their Attacks | CW Fong | [Read More](https://medium.com/p/e596d69561e4) |
+| Tue, 08 Jul 2025 07:58:01 GMT | ️ Mastering Nmap: A Complete Help Guide for Ethical Hackers & Network Defenders | Rajkumar Kumawat | [Read More](https://medium.com/p/b727e1301d92) |
+| Tue, 08 Jul 2025 07:56:55 GMT | From Generalist to Specialist: The Proven Path to Bug Bounty Mastery | Andrei Ivan | [Read More](https://medium.com/p/f8e8537f616c) |
+| Tue, 08 Jul 2025 07:54:41 GMT | Security Champions — Scaling Security Through Collaboration | Piyush Maharishi | [Read More](https://medium.com/p/f3b3064c9d8d) |
+| Tue, 08 Jul 2025 07:54:15 GMT | Client-Side Redirects: Everyday Magic Behind the Modern Web | Nisa | [Read More](https://medium.com/p/4768a27ed971) |
+| Tue, 08 Jul 2025 07:53:35 GMT | How Low Severity Bugs Lead to Critical Rewards | Monika sharma | [Read More](https://medium.com/p/bed034ed149e) |
+| Tue, 08 Jul 2025 07:50:29 GMT | Open Source Tool for AI-Specific Threat Modeling — Fast, Context-Aware, and Developer-Friendly | Sandeep Saxena | [Read More](https://medium.com/p/2c047fdc1781) |
+| Tue, 08 Jul 2025 07:50:23 GMT | The $100,000 Click: My First Year in Bug Bounties | Aj | [Read More](https://medium.com/p/824d581a6c00) |
+| Tue, 08 Jul 2025 07:49:57 GMT | The Ultimate API Penetration Testing Checklist (2025 Edition) | Andrei Ivan | [Read More](https://medium.com/p/092ca8a4056a) |
+| Tue, 08 Jul 2025 07:49:25 GMT | Exploiting API Version Mismatches for Hidden Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/7680d854c0fb) |
+| Tue, 08 Jul 2025 07:48:11 GMT | How to Approach Finding Bugs Easily: My Bug Hunting Methodology | Vipul Sonule | [Read More](https://medium.com/p/9c303a698b7c) |
+| Tue, 08 Jul 2025 07:42:55 GMT | No Captcha? No Problem! How I Mass-Registered 10K Accounts and Took Over the App | Iski | [Read More](https://medium.com/p/25f7c642a4ac) |
+| Tue, 08 Jul 2025 07:42:48 GMT | How I Downloaded All Bitbucket Repos by Finding a Leaked Token in a JS file for $4k Bounty. | Imran Hossain | [Read More](https://medium.com/p/a701d6effa50) |
 | Tue, 08 Jul 2025 07:32:12 GMT | JWT Authentication Bypass Via Unverified Signature — Without Burpsuite | Leerlryzck | [Read More](https://medium.com/p/dc0c6b195a94) |
 | Tue, 08 Jul 2025 07:27:33 GMT | The Power of TOGAF Certification: Unlock Your Enterprise Architecture Career | Safarisprz01 | [Read More](https://medium.com/p/7705c7534021) |
 | Tue, 08 Jul 2025 07:23:45 GMT | The 10 Most Common Cybersecurity Mistakes Small Businesses Make and How to Avoid Them | Teleglobal International | [Read More](https://medium.com/p/04e462fcd601) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 02:34:48 GMT | Network Vulnerability & Traffic Analysis Project | DJ Adegbemileke | [Read More](https://medium.com/p/a61c07fd446a) |
 | Tue, 08 Jul 2025 02:32:56 GMT | ️ HTTP Parameter Pollution (HPP): A Silent Breaker of Web Logic | Omniaelagroudy | [Read More](https://medium.com/p/9b709351b97f) |
 | Tue, 08 Jul 2025 02:32:56 GMT | Why Cyber Risk Needs an AI-First Mindset | Jai Advani | [Read More](https://medium.com/p/8383aca44624) |
-| Tue, 08 Jul 2025 02:26:14 GMT | Analysis of Windows Common Log File System Driver Vulnerability, CVE-2025–32713 | S2W | [Read More](https://medium.com/p/97422b699d54) |
-| Tue, 08 Jul 2025 02:18:58 GMT | Day 39 of #60DaysofGRC: What is SOC 2? | Brittney Ginther | [Read More](https://medium.com/p/09aef8867ac6) |
-| Tue, 08 Jul 2025 02:16:44 GMT | How To Align AI With Your GRC Program — Governance | Jordanne Barrett | [Read More](https://medium.com/p/819d94d2aabd) |
-| Tue, 08 Jul 2025 01:47:26 GMT | Tuesday Morning Threat Report: July 8, 2025 | Mark Maguire | [Read More](https://medium.com/p/5111fbacf555) |
-| Tue, 08 Jul 2025 01:31:41 GMT | Vulnerability Isn’t Weakness — It’s Just Love Without Armour | Heartquietlywrites | [Read More](https://medium.com/p/0541cea0ab78) |
-| Tue, 08 Jul 2025 01:26:20 GMT | The Real Breach Happens After the Login: How Privilege Escalation Fuels Cyber Attacks | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/3c828c4e9849) |
-| Tue, 08 Jul 2025 01:18:16 GMT | How I Built an End-to-End Encrypted Credentials Manager and Authenticator— and What I Learned About… | ohira | [Read More](https://medium.com/p/74ffb89f0d01) |
-| Tue, 08 Jul 2025 01:13:58 GMT | Cyber Warfare — The Modern-Era PsyOp. | Cybered | [Read More](https://medium.com/p/eddf18c1d32a) |
-| Tue, 08 Jul 2025 01:01:45 GMT | How the Musk-Trump Feud Could Impact Cyber Security: 3 Security Focused Lessons | SecurityWatchJournal | [Read More](https://medium.com/p/567fc85bb100) |
-| Tue, 08 Jul 2025 00:58:20 GMT | Air-Gapped Security: The Ultimate Digital Fortress or a Flawed Shield? | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/1f1e90e9d06d) |
-| Tue, 08 Jul 2025 00:54:20 GMT | The Great Wall of the Bug Bounty Beginner: How to Climb It and Reach the Top | 0m3g4___ | [Read More](https://medium.com/p/b8249e73213f) |
-| Tue, 08 Jul 2025 00:41:54 GMT | SOC227 — Microsoft SharePoint Server Elevation of Privilege — Possible CVE-2023–29357 Exploitation | Raynard Waits | [Read More](https://medium.com/p/b29f6f4fbc8a) |
-| Tue, 08 Jul 2025 00:29:06 GMT | Protocols and Servers — TryHackMe | sercan timocin | [Read More](https://medium.com/p/d1b43db5fc79) |
-| Tue, 08 Jul 2025 00:16:35 GMT | How to Secure a Vibe-Coded Website or App | Yasir Khan | [Read More](https://medium.com/p/4915b3a1cd3b) |
-| Tue, 08 Jul 2025 00:07:06 GMT | Top Signs He’s Truly Into You: The Power of Honesty in Relationships | Lucas Brown | [Read More](https://medium.com/p/db7959a4caa5) |
-| Tue, 08 Jul 2025 00:02:56 GMT | Guía Completa de Broken Access Control: Hacking, Bug Bounty y Prevención en Aplicaciones Web | JPablo13 | [Read More](https://medium.com/p/164103fa8cd1) |
-| Tue, 08 Jul 2025 00:02:56 GMT | The Quiet I Choose When I Can’t Face the World | Widhi Arneta | [Read More](https://medium.com/p/3a86baa67b10) |
-| Mon, 07 Jul 2025 23:56:39 GMT | Shaping Alignment without Fear and the Hidden Cost of Negation | Danielle Breegle | [Read More](https://medium.com/p/bcfe9293efc1) |
-| Mon, 07 Jul 2025 23:52:31 GMT | 0$ Bug Bounty | Sevada797 | [Read More](https://medium.com/p/3bdc15320c8b) |
-| Mon, 07 Jul 2025 23:50:08 GMT | What Every Designer Should Know About Web Security (But No One Talks About) | Yanshi Tyagi | [Read More](https://medium.com/p/09396b2be783) |
