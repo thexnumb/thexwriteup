@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 05:38:57 GMT | Why API Rate Limiting Is a Lie — and How Attackers Abuse It | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1d5cdeb3a0d9) |
+| Tue, 08 Jul 2025 05:31:16 GMT | Phishing Attacks: Are They Truly Avoidable? | Adeesha Savinda de Silva | [Read More](https://medium.com/p/9a9810f1807b) |
+| Tue, 08 Jul 2025 05:30:37 GMT | Misconfiguration Vulnerabilities Are Still Alive — Here’s Why It Matters | Narendar Battula (nArEn) | [Read More](https://medium.com/p/81e910e88662) |
+| Tue, 08 Jul 2025 05:19:17 GMT | Matthew Sayle, Georgia Gazette, Jennifer Feathers, Allegations of Misconduct by Courtney Parker PhD | Dr. Courtney Parker — Hall County, GA | [Read More](https://medium.com/p/92fd202b7e1c) |
+| Tue, 08 Jul 2025 05:12:28 GMT | Conti TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/54227d34d0e9) |
 | Tue, 08 Jul 2025 05:07:59 GMT | What Is a GRC Platform? Complete Guide to Governance, Risk & Compliance | Gauri Kale | [Read More](https://medium.com/p/b41ad6360f26) |
 | Tue, 08 Jul 2025 05:07:44 GMT | Understanding and Mitigating Reflected File Download (RFD) Vulnerabilities | Rahul M S | [Read More](https://medium.com/p/af95d47952aa) |
 | Tue, 08 Jul 2025 05:02:50 GMT | The Linux Security Journey — TCP Wrappers | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/845bc7cc05aa) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 20:03:37 GMT | A concise artificial intelligence (AI) governance checklist for ISO 27001:2022 compliance, with a… | Aaron Rusz | [Read More](https://medium.com/p/93bce3e9b3fd) |
 | Mon, 07 Jul 2025 20:00:37 GMT | SQL Injection & SQLMap: The Ultimate Guide That Actually Works | Santhosh Adiga U | [Read More](https://medium.com/p/54f658cae8d4) |
 | Mon, 07 Jul 2025 19:47:42 GMT | DNS in Cybersecurity: What I Learned When a Website Didn’t Load | NineTales | [Read More](https://medium.com/p/6707087616c1) |
-| Mon, 07 Jul 2025 19:46:08 GMT | How Feroot Helps Security Teams Meet NIST SP 800–53 Controls for Web Application Protection | Feroot Security | [Read More](https://medium.com/p/3a67f7a463fe) |
-| Mon, 07 Jul 2025 19:41:01 GMT | Wireshark Network Traffic Analysis Project: DNS, TCP/UDP, HTTP/HTTPS | Gamuchirai | [Read More](https://medium.com/p/b8b2d467fbcc) |
-| Mon, 07 Jul 2025 19:32:03 GMT | XSS in 2025 — The Payloads That Still Work | Santhosh Adiga U | [Read More](https://medium.com/p/3aa343e0b4f2) |
-| Mon, 07 Jul 2025 19:25:09 GMT | Cybersecurity Awareness for Small Companies: Why Frameworks Matter | DarKVoicE | [Read More](https://medium.com/p/55a69f5e067c) |
-| Mon, 07 Jul 2025 19:10:14 GMT | A concise artificial intelligence (AI) governance checklist for ISO 27001:2022 compliance, with a… | Aaron Rusz | [Read More](https://medium.com/p/550ccf5e92f9) |
