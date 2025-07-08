@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 20:34:34 GMT | Reverse Shells, Netcat, and Privilege Escalation: Exploiting Outdated Plugins Like a Pro | Santhosh Adiga U | [Read More](https://medium.com/p/7818e6fe4bab) |
+| Tue, 08 Jul 2025 20:23:30 GMT | Think Like a Threat: How SOC Teams Can Stop Attacks Before the First Alert | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/102bdc4809e6) |
+| Tue, 08 Jul 2025 20:17:29 GMT | Where Have I Been? | Jamon Sin | [Read More](https://medium.com/p/9d667e88dca8) |
 | Tue, 08 Jul 2025 20:07:19 GMT | Hercules and The Certs of Destiny | Nul⧉ID | [Read More](https://medium.com/p/1d410a972b5b) |
 | Tue, 08 Jul 2025 20:04:57 GMT | Zookeeper — Un ejercito de servidores bajo tu control (Pentesting Report) | Philmeros Whitehat | [Read More](https://medium.com/p/7e3c8baf2920) |
 | Tue, 08 Jul 2025 20:01:44 GMT | Selfdestruct Vulnerabilities in Solidity: Bypassing ETH Caps to Lock Contracts | Régis | [Read More](https://medium.com/p/6e212022bb38) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 14:47:06 GMT | GIFTEDCROOK’s Strategic Pivot: UAC-0226’s Espionage Surge Amid Ukraine’s Geopolitical Flashpoints | Wes Young | [Read More](https://medium.com/p/de788cc12eea) |
 | Tue, 08 Jul 2025 14:45:26 GMT | Building a Comprehensive Software Inventory System for Large Enterprises | Ashley Kim | [Read More](https://medium.com/p/99f95181242a) |
 | Tue, 08 Jul 2025 14:44:31 GMT | Hashing Challenge: Hash3rror — Fixing a Broken Hash and Finding the Password | Uchendu Favour | [Read More](https://medium.com/p/b04c20377fca) |
-| Tue, 08 Jul 2025 14:35:45 GMT | OKX, Time Token, FCN-TRUST: Another Week, Another Set of Unchecked Assumptions | Olympix | [Read More](https://medium.com/p/23bb8380ffb5) |
-| Tue, 08 Jul 2025 14:31:42 GMT | TLS/SSL Weaknesses and Protocol-Based Attack Scenarios | Esra Kayhan | [Read More](https://medium.com/p/b7510df7f9c2) |
-| Tue, 08 Jul 2025 14:26:52 GMT | Cork, ResupplyFi, Meta Pool: Hookless, Priceless, and Permissionless Losses | Olympix | [Read More](https://medium.com/p/deab87623339) |
