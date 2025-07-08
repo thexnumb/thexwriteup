@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 01:31:41 GMT | Vulnerability Isn’t Weakness — It’s Just Love Without Armour | Heartquietlywrites | [Read More](https://medium.com/p/0541cea0ab78) |
+| Tue, 08 Jul 2025 01:26:20 GMT | The Real Breach Happens After the Login: How Privilege Escalation Fuels Cyber Attacks | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/3c828c4e9849) |
+| Tue, 08 Jul 2025 01:18:16 GMT | How I Built an End-to-End Encrypted Credentials Manager and Authenticator— and What I Learned About… | ohira | [Read More](https://medium.com/p/74ffb89f0d01) |
+| Tue, 08 Jul 2025 01:13:58 GMT | Cyber Warfare — The Modern-Era PsyOp. | Cybered | [Read More](https://medium.com/p/eddf18c1d32a) |
+| Tue, 08 Jul 2025 01:01:45 GMT | How the Musk-Trump Feud Could Impact Cyber Security: 3 Security Focused Lessons | SecurityWatchJournal | [Read More](https://medium.com/p/567fc85bb100) |
+| Tue, 08 Jul 2025 00:58:20 GMT | Air-Gapped Security: The Ultimate Digital Fortress or a Flawed Shield? | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/1f1e90e9d06d) |
+| Tue, 08 Jul 2025 00:54:20 GMT | The Great Wall of the Bug Bounty Beginner: How to Climb It and Reach the Top | 0m3g4___ | [Read More](https://medium.com/p/b8249e73213f) |
+| Tue, 08 Jul 2025 00:41:54 GMT | SOC227 — Microsoft SharePoint Server Elevation of Privilege — Possible CVE-2023–29357 Exploitation | Raynard Waits | [Read More](https://medium.com/p/b29f6f4fbc8a) |
+| Tue, 08 Jul 2025 00:29:06 GMT | Protocols and Servers — TryHackMe | sercan timocin | [Read More](https://medium.com/p/d1b43db5fc79) |
+| Tue, 08 Jul 2025 00:16:35 GMT | How to Secure a Vibe-Coded Website or App | Yasir Khan | [Read More](https://medium.com/p/4915b3a1cd3b) |
+| Tue, 08 Jul 2025 00:07:06 GMT | Top Signs He’s Truly Into You: The Power of Honesty in Relationships | Lucas Brown | [Read More](https://medium.com/p/db7959a4caa5) |
+| Tue, 08 Jul 2025 00:02:56 GMT | Guía Completa de Broken Access Control: Hacking, Bug Bounty y Prevención en Aplicaciones Web | JPablo13 | [Read More](https://medium.com/p/164103fa8cd1) |
+| Tue, 08 Jul 2025 00:02:56 GMT | The Quiet I Choose When I Can’t Face the World | Widhi Arneta | [Read More](https://medium.com/p/3a86baa67b10) |
+| Mon, 07 Jul 2025 23:56:39 GMT | Shaping Alignment without Fear and the Hidden Cost of Negation | Danielle Breegle | [Read More](https://medium.com/p/bcfe9293efc1) |
+| Mon, 07 Jul 2025 23:52:31 GMT | 0$ Bug Bounty | Sevada797 | [Read More](https://medium.com/p/3bdc15320c8b) |
+| Mon, 07 Jul 2025 23:50:08 GMT | What Every Designer Should Know About Web Security (But No One Talks About) | Yanshi Tyagi | [Read More](https://medium.com/p/09396b2be783) |
 | Mon, 07 Jul 2025 23:37:52 GMT | Why Every Beginner Pentester Should Build Their Own Lab (Before Getting Certified) | Corey Jones | [Read More](https://medium.com/p/15f4937290af) |
 | Mon, 07 Jul 2025 23:34:55 GMT | XLMRat Lab Analysis | Omer Bawazir | [Read More](https://medium.com/p/4278b9c4ed92) |
 | Mon, 07 Jul 2025 23:27:16 GMT | Code Red: How Hospitals Became Cyber Hostages and How to Stop It | Nidhi Aswal | [Read More](https://medium.com/p/75a4ff2ef5ca) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 17:14:30 GMT | Curl: The Powerful Command | Santhosh Adiga U | [Read More](https://medium.com/p/f0213e48791d) |
 | Mon, 07 Jul 2025 17:14:28 GMT | Threat Actors Read Logs. Do We? | Yuksel | [Read More](https://medium.com/p/ae5395272577) |
 | Mon, 07 Jul 2025 17:10:39 GMT | Wazuh Sysmon Detection Rules Fully Backed with MITRE ATT&CK — Now Available in Our Public Repo | SOCFortress | [Read More](https://medium.com/p/eae7ec90d865) |
-| Mon, 07 Jul 2025 17:10:01 GMT | GLOBAL CLOWN FIESTA:INTELLIGENCE FAIL 101 | Ghost | [Read More](https://medium.com/p/6aba52f02b41) |
-| Mon, 07 Jul 2025 17:06:03 GMT | Active vs. Passive Attacks in Cybersecurity: Explained Simply | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/213c4c73f1de) |
-| Mon, 07 Jul 2025 17:02:59 GMT | Securing Your Node.js Applications in 2025: Best Practices for Authentication and Authorization | habtesoft | [Read More](https://medium.com/p/0bd574ae3bb3) |
-| Mon, 07 Jul 2025 17:01:22 GMT | picoCTF — Scavanger Hunt | Robby firdauzy | [Read More](https://medium.com/p/b63a13a94664) |
-| Mon, 07 Jul 2025 16:59:05 GMT | Web_XQL_Scanner: My Journey Building a Python Tool to Detect XSS and SQL Injection in Web Apps | Ronak Joshi | [Read More](https://medium.com/p/b5269d10f10e) |
-| Mon, 07 Jul 2025 16:57:56 GMT | What I Check Every Week to Keep My Linux Servers Safe and Stable | Faruk Ahmed | [Read More](https://medium.com/p/cc05029c4e98) |
-| Mon, 07 Jul 2025 16:47:46 GMT | Cracking Hashes: The Complete Guide | Santhosh Adiga U | [Read More](https://medium.com/p/0a5cedf4dc7b) |
-| Mon, 07 Jul 2025 16:47:29 GMT | Tryhackme: Break it(Medium Room) | Faith Alabi Erioluwa | [Read More](https://medium.com/p/4f0ae044e710) |
-| Mon, 07 Jul 2025 16:44:48 GMT | The Guardians of Cybersecurity: Exploring the Different Teams in Security | SellaGanesh | [Read More](https://medium.com/p/a0e6423e32aa) |
-| Mon, 07 Jul 2025 16:44:09 GMT | Caido Alternatif BurpSuite | ANGGA | [Read More](https://medium.com/p/b523b69c6ad2) |
-| Mon, 07 Jul 2025 16:36:00 GMT | ️ Can AI Detect Threats Before They Happen? You Can Try It With Real SOC Data | Paritosh | [Read More](https://medium.com/p/8814b13e6a0e) |
-| Mon, 07 Jul 2025 16:29:04 GMT | Directory Enumeration: Zero to Mastery | Santhosh Adiga U | [Read More](https://medium.com/p/8609e68db1f6) |
-| Mon, 07 Jul 2025 16:21:29 GMT | What Happens After the Breach? Understanding the Cyber Kill Chain | Karthikeyan Nagaraj | [Read More](https://medium.com/p/8549c7905598) |
-| Mon, 07 Jul 2025 16:20:31 GMT | 7 Proven Ways to Ensure Data Protection in Hybrid Cloud Environments | Techridge Solutions | [Read More](https://medium.com/p/fff41f656aa2) |
-| Mon, 07 Jul 2025 16:18:37 GMT | Incident Analysis: How a Simple RDP Password Spray Led to a Full-Blown RansomHub Attack | Jon C | [Read More](https://medium.com/p/54f022e5a4ea) |
-| Mon, 07 Jul 2025 16:15:18 GMT | How I Hacked My Own Bank—Legally: A Pen Tester’s Confession | Aj | [Read More](https://medium.com/p/56f7f6cd69c0) |
