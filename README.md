@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 21:31:40 GMT | How the Metaverse works | Ebuka Nkoro | [Read More](https://medium.com/p/fc16bb1280fd) |
+| Tue, 08 Jul 2025 21:29:20 GMT | Setting Up TheHive on Ubuntu with Docker | Neetrox | [Read More](https://medium.com/p/4de741139f7b) |
+| Tue, 08 Jul 2025 21:26:01 GMT | How to use JWT ( json web tokens ) in python. | Muhammad Ahssan | [Read More](https://medium.com/p/b4768acaeea1) |
+| Tue, 08 Jul 2025 21:25:12 GMT | Protocols and Servers 2 — TryHackMe | sercan timocin | [Read More](https://medium.com/p/f583bc8bb9b9) |
+| Tue, 08 Jul 2025 21:20:24 GMT | Peaceful flames | Boluwatife Lash | [Read More](https://medium.com/p/73716a90a5d5) |
+| Tue, 08 Jul 2025 21:12:58 GMT | Agentic Misalignment : The Agentic AI Problem We Didn’t See Coming | Thilina Shashimal Senarath | [Read More](https://medium.com/p/cc0c3115d391) |
 | Tue, 08 Jul 2025 20:52:08 GMT | Wakey Wakey — something’s janky | vicki lee dillard | [Read More](https://medium.com/p/81eaa18bad26) |
 | Tue, 08 Jul 2025 20:49:53 GMT | UpDown-Linux-Medium | masiva | [Read More](https://medium.com/p/b3dbacf057f8) |
 | Tue, 08 Jul 2025 20:48:45 GMT | How I Hacked a Hacker — Part 2: The Hunt Begins (Real-Life Story) | Scofield O. Idehen | [Read More](https://medium.com/p/ad3bf4bf5080) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 15:15:07 GMT | HTTP vs HTTPS (for Hackers): The Locks, the Leaks, and the Lessons | Goose Gustin | [Read More](https://medium.com/p/f680bc157486) |
 | Tue, 08 Jul 2025 15:10:04 GMT | Strait of Hormuz Tensions(Analysis) | Ramsha Ali | [Read More](https://medium.com/p/bca8f34644a3) |
 | Tue, 08 Jul 2025 15:09:13 GMT | Rise of the AI-Powered Attack - Marks and Spencer | K O M A L | [Read More](https://medium.com/p/b3f10cd2d611) |
-| Tue, 08 Jul 2025 15:09:01 GMT | Choosing the Best CCTV for Warehouses: A Personal Guide to Smarter Security | Rara | [Read More](https://medium.com/p/d8070e311487) |
-| Tue, 08 Jul 2025 15:07:55 GMT | ️ Advanced OAuth Vulnerabilities — Deep Dive | Shah kaif | [Read More](https://medium.com/p/b941c90f49b6) |
-| Tue, 08 Jul 2025 15:03:34 GMT | Why the Dahua AirShield HUB2 12V Power Supply is the Secret Sauce to Smarter Security | Rara | [Read More](https://medium.com/p/d20be60bce72) |
-| Tue, 08 Jul 2025 14:56:13 GMT | Why the Best CCTV for Restaurants is a Game-Changer (From a Restaurant Owner) | Rara | [Read More](https://medium.com/p/da7bf80e1717) |
-| Tue, 08 Jul 2025 14:55:38 GMT | My Hacker Copilot Runs Ops with Me | Five Insights | [Read More](https://medium.com/p/cd7fb7df8edd) |
-| Tue, 08 Jul 2025 14:53:01 GMT | Effective Log Analysis for SOC: AI-Powered Anomaly Detection Algorithms | Esra Kayhan | [Read More](https://medium.com/p/3bcc86654543) |
