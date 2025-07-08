@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 19:13:41 GMT | Cybersecurity for Children: 5 Simple Practices Every Family Should Adopt | Paulo Quaresma | [Read More](https://medium.com/p/1f0076acc7fb) |
+| Tue, 08 Jul 2025 19:01:23 GMT | SQLMAP TryHackMe Walkthrough | Rushikesh G | [Read More](https://medium.com/p/bf80aadce20f) |
+| Tue, 08 Jul 2025 19:01:03 GMT | What Defenders Need to Know From Last Week’s Threat Intel | Percy Edward | [Read More](https://medium.com/p/dccd8163fcca) |
+| Tue, 08 Jul 2025 18:54:30 GMT | The Hidden Mongoose .create() Trap: How It Silently Inserts Two Documents | Milad Fahmy | [Read More](https://medium.com/p/e13526da2fff) |
+| Tue, 08 Jul 2025 18:52:34 GMT | The Internship | Whitesell Seth | [Read More](https://medium.com/p/f0610d30cc5e) |
+| Tue, 08 Jul 2025 18:48:27 GMT | Radar Love Part III: Brewing a CLI Revolution | Raymon Epping | [Read More](https://medium.com/p/12a054708d2f) |
+| Tue, 08 Jul 2025 18:40:02 GMT | Critical Thinking: Humanity’s Advantage Over AI and the Foundation of Trust | Rachel Maron | [Read More](https://medium.com/p/162d3cc60659) |
+| Tue, 08 Jul 2025 18:33:06 GMT | Too Many, Too Fast: Why Your API Needs a Bouncer | Vineeth Tunk | [Read More](https://medium.com/p/9bf30b7b5455) |
+| Tue, 08 Jul 2025 18:32:51 GMT | Who Truly Knows Strength | Tami | [Read More](https://medium.com/p/e624b492984d) |
+| Tue, 08 Jul 2025 18:31:43 GMT | Different Types of IP Address - A Beginner’s Guide | Timonéofearth | [Read More](https://medium.com/p/f06e1c1b0b20) |
+| Tue, 08 Jul 2025 18:31:43 GMT | Web LLM attacks — Portswigger | Mukund | [Read More](https://medium.com/p/93f01697cf0c) |
+| Tue, 08 Jul 2025 18:29:45 GMT | The Urgent Cybersecurity Imperative for Europe’s Critical Sectors | Laszlo Daniel | [Read More](https://medium.com/p/8c29e3c8bdb8) |
+| Tue, 08 Jul 2025 18:28:08 GMT | Computer Hardware Components | w4llnut_ | [Read More](https://medium.com/p/cc8ffaf6f29e) |
 | Tue, 08 Jul 2025 18:20:42 GMT | A GPS for Human Knowledge: Addressing Educational Inefficiency Through Systematic… | Maven | [Read More](https://medium.com/p/27d6446be6c8) |
+| Tue, 08 Jul 2025 18:16:58 GMT | DeFi must learn from crypto hacks | 1inch | [Read More](https://medium.com/p/8d227de7b477) |
 | Tue, 08 Jul 2025 18:16:52 GMT | Choosing the Right Penetration Testing Partner: Insights from the Trenches | Mark Puckett | [Read More](https://medium.com/p/0a3a65da24e5) |
 | Tue, 08 Jul 2025 18:02:53 GMT | How I’m Learning to Receive Help | Liyuan Malone | [Read More](https://medium.com/p/d77d70406795) |
 | Tue, 08 Jul 2025 17:55:05 GMT | Data Backup vs Disaster Recovery: What Your Business Needs in 2025 | Techridge Solutions | [Read More](https://medium.com/p/ab8bf86af3dd) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 13:59:34 GMT | Cyber Briefing: 2025.07.08 | CyberMaterial | [Read More](https://medium.com/p/db21caef8bca) |
 | Tue, 08 Jul 2025 13:58:19 GMT | HTB Season 7 EscapeTwo Writeup | Suvam Barui aka  0xAxel0rd | [Read More](https://medium.com/p/92be8b0ca096) |
 | Tue, 08 Jul 2025 13:58:10 GMT | Roads and Fences in the Sky: Designing for Drone Safety and Scale (Part 1) | Ryan Lee | [Read More](https://medium.com/p/f8de04398c17) |
-| Tue, 08 Jul 2025 13:58:01 GMT | How to get NIS2 Compliance using Google Cloud Platform? | Vlad Birsan | [Read More](https://medium.com/p/942b59f3a215) |
-| Tue, 08 Jul 2025 13:57:48 GMT | Secure Your Node.js API Like a Pro! The Secret Weapon Top Developers Use | Santiago Dellepiane | [Read More](https://medium.com/p/43186b325cfc) |
-| Tue, 08 Jul 2025 13:54:20 GMT | TryHackMe — GamingServer Write-Up | Nidhi kathayat | [Read More](https://medium.com/p/4651d5cb7f02) |
-| Tue, 08 Jul 2025 13:46:23 GMT | Embark on a seamless journey toward enhanced information security with Axipro, your dedicated… | Axipro | [Read More](https://medium.com/p/5214277a5f92) |
-| Tue, 08 Jul 2025 13:43:44 GMT | AI Meets Bitcoin: When Neural Networks Start Trading Crypto | REKT☆WRLD | [Read More](https://medium.com/p/21212ce90160) |
-| Tue, 08 Jul 2025 13:38:43 GMT | How Safe Is Your Code? Static Analysis Tools for Node.js in 2025 | Ahmedrao | [Read More](https://medium.com/p/e12395cc35f1) |
-| Tue, 08 Jul 2025 13:36:22 GMT | Enhancing Cybersecurity with SOC as a Service (SOCaaS) + Visualizing SLA Performance | Farhad Khankishiyev | [Read More](https://medium.com/p/4959804f09ee) |
-| Tue, 08 Jul 2025 13:35:14 GMT | *Cybersecurity for People and Things: Staying Safe in a Digital World* | Rakshak online | [Read More](https://medium.com/p/a900d3b6ca20) |
-| Tue, 08 Jul 2025 13:33:55 GMT | What is the difference between threat, vulnerability, and risk? | Kavithayeravothula | [Read More](https://medium.com/p/336692a29d44) |
-| Tue, 08 Jul 2025 13:28:50 GMT | Writing Pentest Reports | Ayush Tiwari | [Read More](https://medium.com/p/59cc670daa88) |
-| Tue, 08 Jul 2025 13:27:18 GMT | I Found a Critical Google Bug in a Hackathon (And Earned a P1 Bounty) | Ibtissam hammadi | [Read More](https://medium.com/p/af1142173c5f) |
-| Tue, 08 Jul 2025 13:22:49 GMT | Path Traversal part-6 : validation of file extension with null byte bypass | Ahmad Sopyan | [Read More](https://medium.com/p/33de553254c2) |
-| Tue, 08 Jul 2025 13:19:51 GMT | Windows Logging for SOC: Essential Logs & Detection Strategies | Visir | [Read More](https://medium.com/p/652e1e6b2736) |
-| Tue, 08 Jul 2025 13:15:25 GMT | ClickFix Campaign: How Clipboard Injection Leads to RAT Infection (Part 2) | h3xstone | [Read More](https://medium.com/p/16b79a20a084) |
