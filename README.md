@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 08:48:01 GMT | VulneraX0 — Fintech-Style Web Exploitation Lab | TraceX0 | [Read More](https://medium.com/p/21682a456df3) |
+| Tue, 08 Jul 2025 08:45:42 GMT | ️ Setting Up a Penetration Testing Lab: Full Guide (Tools, OS, Network) | Rajkumar Kumawat | [Read More](https://medium.com/p/efb8dde1a041) |
+| Tue, 08 Jul 2025 08:42:06 GMT | Nagoya - Offensive Security - Proving Ground Practice | Mariam | [Read More](https://medium.com/p/7c40ecff36d8) |
+| Tue, 08 Jul 2025 08:41:13 GMT | Why Artificial Intelligence Is Not Secure by Default. | Viktor Davydych | [Read More](https://medium.com/p/f1c34de3c715) |
+| Tue, 08 Jul 2025 08:41:03 GMT | Inside the Hacker’s Arsenal: Remote Code Execution (RCE) with MSFvenom | Leroyanand | [Read More](https://medium.com/p/735107f2cebb) |
+| Tue, 08 Jul 2025 08:40:17 GMT | Notification Bypass on TikTok: Sending Alerts to Users Who Blocked Me | Sandipgyawali | [Read More](https://medium.com/p/9d2625539abf) |
+| Tue, 08 Jul 2025 08:36:39 GMT | Forminator WordPress Plugin Vulnerability Exposes Thousands of Websites | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/3c7f68a2a2af) |
+| Tue, 08 Jul 2025 08:31:43 GMT | How a Late-Night iSpy.today Alert Turned Into a $1000 Bounty | Arshad Kazmi | [Read More](https://medium.com/p/4e111be6abbd) |
+| Tue, 08 Jul 2025 08:29:10 GMT | Investigative Reversing 0 -picoCTF | Palkesh Jain | [Read More](https://medium.com/p/5428b0c2c9b5) |
+| Tue, 08 Jul 2025 08:28:36 GMT | The Hidden Technology That’s Making Indonesian Motorcycle Theft Nearly Impossible | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/d5ee41a25146) |
+| Tue, 08 Jul 2025 08:28:26 GMT | ️ Day 12 Incident Response Basics: Investigating a Suspicious Bash Script on Linux | Rishavkumarthapa | [Read More](https://medium.com/p/df85bd4da264) |
+| Tue, 08 Jul 2025 08:26:26 GMT | The Return on Investment for Hiring Expert Cyber Security Services | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/263ac8808bc0) |
+| Tue, 08 Jul 2025 08:25:16 GMT | 2025 and Beyond: Cybersecurity is National Security | Techleadgurdeepgill | [Read More](https://medium.com/p/b658d2cc2412) |
+| Tue, 08 Jul 2025 08:23:35 GMT | Authentication vs. Authorization: What’s the Difference and Why It Matters | Anmol | [Read More](https://medium.com/p/510094a1c9fa) |
+| Tue, 08 Jul 2025 08:19:39 GMT | Meme Wars & Airdrops: Why I Just Joined the $TRUMP vs $AP Showdown on BingX | chimezie bright | [Read More](https://medium.com/p/11f440232eed) |
 | Tue, 08 Jul 2025 08:14:44 GMT | Path Traversal part-4 : traversal sequences stripped with superfluous URL-decode | Ahmad Sopyan | [Read More](https://medium.com/p/4150fbd4e66f) |
 | Tue, 08 Jul 2025 08:10:58 GMT | Why Every Business Needs a Log Monitoring Strategy in 2025 | Agan Cyber Security | [Read More](https://medium.com/p/b258a75f5873) |
 | Tue, 08 Jul 2025 08:09:50 GMT | Why Default Compliance Certificates Aren’t Enough in the Age of AI-Driven Threats | Piyush Maharishi | [Read More](https://medium.com/p/2d3bbfc6b190) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 03:55:12 GMT | 16 Billion Passwords Resurface — Why India Is Sounding the Cybersecurity Alarm | Darshan | [Read More](https://medium.com/p/3d578db97be8) |
 | Tue, 08 Jul 2025 03:52:52 GMT | Let’s Understand JWT & Start Building a Secure Full-Stack App for AWS Deployment..☁️ | Shubham Vartak | [Read More](https://medium.com/p/c3578b9fe709) |
 | Tue, 08 Jul 2025 03:42:53 GMT | CTF-COLLECTION-VOLUME 2 | 5kullk3r | [Read More](https://medium.com/p/40ec94e5c7d3) |
-| Tue, 08 Jul 2025 03:40:46 GMT | THE DARK ART OF GOOGLE DORKING : HOW I UNCOVERED SENSITIVE DATA IN THE WILD | Gouri Sankar A | [Read More](https://medium.com/p/4405e74382f3) |
-| Tue, 08 Jul 2025 03:39:31 GMT | VoIP Security Best Practices for Businesses | revathi msr | [Read More](https://medium.com/p/eb27dd329dcc) |
-| Tue, 08 Jul 2025 03:32:53 GMT | SuperCard X: The Android Malware That Turns Phones into Digital Pickpockets | Deven Chhajed | [Read More](https://medium.com/p/736881862b3b) |
-| Tue, 08 Jul 2025 03:32:27 GMT | Intro to AWS IAM Enumeration — PwnedLabs | Shounak Das | [Read More](https://medium.com/p/292b2f05449e) |
-| Tue, 08 Jul 2025 03:30:19 GMT | How SafeLine WAF Blocks Brute Force Attacks and Protects Your Site | Quella | [Read More](https://medium.com/p/5ab673f8aaae) |
-| Tue, 08 Jul 2025 03:11:12 GMT | Your Data Isn’t Private. Neither Are YOU. | Nameera Uzair | [Read More](https://medium.com/p/866bcb563a6c) |
-| Tue, 08 Jul 2025 03:06:10 GMT | Global Encryption Policy Debates: Balancing Privacy and Security | Shalomo Agarwarkar | [Read More](https://medium.com/p/aa9fb2666a9a) |
-| Tue, 08 Jul 2025 03:02:59 GMT | Japan Links with NATO to Fight Cyberattacks — Taiwan and EU Counter Hybrid Threats — South Korea… | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/19a5b9bf87c6) |
-| Tue, 08 Jul 2025 03:02:56 GMT | 12 Days That Tested the West’s Resolve | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/204f812dbef9) |
-| Tue, 08 Jul 2025 02:57:22 GMT | Penetration Testing — An Ally for Your IT Support and Development Teams | Cyberoptic Security | [Read More](https://medium.com/p/92d5816933d8) |
-| Tue, 08 Jul 2025 02:49:11 GMT | Broken Access Control: When Good Bug Only Get “Informative” | Zeta | [Read More](https://medium.com/p/4d0dfc0eaacd) |
-| Tue, 08 Jul 2025 02:38:53 GMT | The Silent Cyberattack That’s Already Inside Your Network | ɌƋƑ•TECH | [Read More](https://medium.com/p/d48956f47bd6) |
-| Tue, 08 Jul 2025 02:34:48 GMT | Network Vulnerability & Traffic Analysis Project | DJ Adegbemileke | [Read More](https://medium.com/p/a61c07fd446a) |
-| Tue, 08 Jul 2025 02:32:56 GMT | ️ HTTP Parameter Pollution (HPP): A Silent Breaker of Web Logic | Omniaelagroudy | [Read More](https://medium.com/p/9b709351b97f) |
-| Tue, 08 Jul 2025 02:32:56 GMT | Why Cyber Risk Needs an AI-First Mindset | Jai Advani | [Read More](https://medium.com/p/8383aca44624) |
