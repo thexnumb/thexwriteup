@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 20:07:19 GMT | Hercules and The Certs of Destiny | Nul⧉ID | [Read More](https://medium.com/p/1d410a972b5b) |
+| Tue, 08 Jul 2025 20:04:57 GMT | Zookeeper — Un ejercito de servidores bajo tu control (Pentesting Report) | Philmeros Whitehat | [Read More](https://medium.com/p/7e3c8baf2920) |
+| Tue, 08 Jul 2025 20:01:44 GMT | Selfdestruct Vulnerabilities in Solidity: Bypassing ETH Caps to Lock Contracts | Régis | [Read More](https://medium.com/p/6e212022bb38) |
+| Tue, 08 Jul 2025 20:01:18 GMT | WebDecode - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/9166d9652abc) |
+| Tue, 08 Jul 2025 19:50:28 GMT | Take charge of your financial future with BiyaPay by adopting these simple, empowering steps to… | Bassey Abo | [Read More](https://medium.com/p/571bd599e48b) |
+| Tue, 08 Jul 2025 19:40:30 GMT | The Call of Duty Hack: Why paying for games is not enough lol | Null Walker | [Read More](https://medium.com/p/15033fd5bbd3) |
+| Tue, 08 Jul 2025 19:40:26 GMT | Prisma’s $11.6M Exploit Wasn’t a Flaw in Logic. It Was a Flaw in Trust. | Olympix | [Read More](https://medium.com/p/51e2f3e48457) |
+| Tue, 08 Jul 2025 19:35:23 GMT | Day 3 – The Whispered Arsenal | An0n | [Read More](https://medium.com/p/635705011d6e) |
 | Tue, 08 Jul 2025 19:29:29 GMT | [SWU CTF2025] Writeups — Final Round | kpakkawat | [Read More](https://medium.com/p/b24bc16f9b31) |
 | Tue, 08 Jul 2025 19:23:34 GMT | Think Like a Hacker Before a Hacker Thinks Like You | Akshay Chauhan | [Read More](https://medium.com/p/4d7aae2318ae) |
 | Tue, 08 Jul 2025 19:20:39 GMT | The Art of Building Small: Why Our MVP Isn’t Trying to Save the World (Yet) | Solo Recon | [Read More](https://medium.com/p/051e043f3404) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 14:35:45 GMT | OKX, Time Token, FCN-TRUST: Another Week, Another Set of Unchecked Assumptions | Olympix | [Read More](https://medium.com/p/23bb8380ffb5) |
 | Tue, 08 Jul 2025 14:31:42 GMT | TLS/SSL Weaknesses and Protocol-Based Attack Scenarios | Esra Kayhan | [Read More](https://medium.com/p/b7510df7f9c2) |
 | Tue, 08 Jul 2025 14:26:52 GMT | Cork, ResupplyFi, Meta Pool: Hookless, Priceless, and Permissionless Losses | Olympix | [Read More](https://medium.com/p/deab87623339) |
-| Tue, 08 Jul 2025 14:25:41 GMT | You Share Photos Online? Here’s What You Don’t Know (And How to Protect Yourself) | Gravyt1 | [Read More](https://medium.com/p/4c642a6362af) |
-| Tue, 08 Jul 2025 14:24:34 GMT | From University to the IT World: My Journey into a Cybersecurity Intern and IT Support | Logan Reva | [Read More](https://medium.com/p/1be81bd46a72) |
-| Tue, 08 Jul 2025 14:20:15 GMT | The Invisible Threat | Gravyt1 | [Read More](https://medium.com/p/3487bc15fc6d) |
-| Tue, 08 Jul 2025 14:11:49 GMT | Modern Protection: IP Surveillance & Physical Security Solutions | INHAND DESIGN & WEB | [Read More](https://medium.com/p/f9ef5765a0ea) |
-| Tue, 08 Jul 2025 14:08:36 GMT | ️ From Locked-Out to Terminal-Pilled: How a Windows Meltdown Pushed Me Into Linux (and Shell) | Vivek Karmarkar | [Read More](https://medium.com/p/aeb698fe3292) |
-| Tue, 08 Jul 2025 14:02:24 GMT | Building a Stronger Security Culture: Cybersecurity in Ontario’s Hybrid Work Era | Zeta Sky | [Read More](https://medium.com/p/f12bb6636859) |
-| Tue, 08 Jul 2025 14:02:24 GMT | The Future of Healthcare IT: How Cloud Hosted Servers Ensure Security and Compliance | PCnet | [Read More](https://medium.com/p/ff350b7cfcf1) |
-| Tue, 08 Jul 2025 14:02:12 GMT | Google and Microsoft Trusted Them. 2.3 Million Users Installed Them. They Were Malware. | Idan Dardikman | [Read More](https://medium.com/p/fb4ed4f40ff5) |
