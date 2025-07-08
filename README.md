@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 16:32:52 GMT | Digitale Transformation 2025: Der Ultimative Readiness-Roadmap für Entscheidungsträger | Philip Hansen | [Read More](https://medium.com/p/55b1b53e93c3) |
+| Tue, 08 Jul 2025 16:32:50 GMT | How Flash USDT Can Be Misunderstood | Tamoy | [Read More](https://medium.com/p/c1c914cdd765) |
+| Tue, 08 Jul 2025 16:32:17 GMT | Digitale Ökosysteme: Der strategische Roadmap für Unternehmenswachstum in 2025 | Philip Hansen | [Read More](https://medium.com/p/48131009c414) |
+| Tue, 08 Jul 2025 16:32:07 GMT | New to QA? Here’s What to Focus On | Kavika | [Read More](https://medium.com/p/1c0f4a3e4167) |
+| Tue, 08 Jul 2025 16:31:19 GMT | PortSwigger Lab: Offline password cracking writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/7406afa12616) |
+| Tue, 08 Jul 2025 16:30:07 GMT | How I Was Able to Retrieve My Funds from Forex Autotrades Investment LTD | Barry Freeman | [Read More](https://medium.com/p/d3aec54f52cf) |
+| Tue, 08 Jul 2025 16:27:33 GMT | Here Is How I Recover My Money From Forex Autotrades Investment LTD | Barry Freeman | [Read More](https://medium.com/p/b3cf02173b6f) |
+| Tue, 08 Jul 2025 16:26:53 GMT | Why Flash USDT Matters in Crypto Awareness | Tamoy | [Read More](https://medium.com/p/5c1e30dd81aa) |
 | Tue, 08 Jul 2025 16:24:38 GMT | PortSwigger Lab: Brute-forcing a stay-logged-in cookie writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/9eb87d0cd111) |
 | Tue, 08 Jul 2025 16:19:00 GMT | Malicious Cyber-Actors Use AI to Impersonate Secretary of State Marco Rubio | Michael LiCastri | [Read More](https://medium.com/p/0382250b24ed) |
 | Tue, 08 Jul 2025 16:16:27 GMT | PortSwigger Lab: 2FA broken logic writeup (Authentication Vulnerabilitie | awes0meness | [Read More](https://medium.com/p/9616d76a3450) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 12:00:49 GMT | Expert Garden Security Light Fitting Cambridgeshire — Keep Your Outdoors Safe | Glowbolt | [Read More](https://medium.com/p/83fd96320ea3) |
 | Tue, 08 Jul 2025 12:00:32 GMT | AI-Powered Hacking: The New Cybersecurity Nightmare | Haniakhan | [Read More](https://medium.com/p/e1b5f90a00cf) |
 | Tue, 08 Jul 2025 11:58:46 GMT | Deploying Azure Firewall with AZD: A Practical Guide to Securing Cloud Networks | Dave R - Microsoft Azure & AI MVP☁️ | [Read More](https://medium.com/p/456281e24de5) |
-| Tue, 08 Jul 2025 11:48:54 GMT | Enhance Safety with Professional Security Garden Lighting in Cambridgeshire | Glowbolt | [Read More](https://medium.com/p/477eb020f54e) |
-| Tue, 08 Jul 2025 11:47:28 GMT | Event Security in Hyderabad: 5 Must-Know Tips Before You Plan | Group 24/7 Security Services | [Read More](https://medium.com/p/23f57e2804b0) |
-| Tue, 08 Jul 2025 11:43:53 GMT | Are AI Tools Replacing Human Jobs Faster Than We Think? | Hafizbilaltariq | [Read More](https://medium.com/p/afe7695fc70c) |
-| Tue, 08 Jul 2025 11:42:34 GMT | Walkthrough THM HackSmarterSecurity | Telynor | [Read More](https://medium.com/p/243ae550e403) |
-| Tue, 08 Jul 2025 11:37:56 GMT | AgroUSD: Security and Financial Transparency | AgroUSD | [Read More](https://medium.com/p/a70265225280) |
-| Tue, 08 Jul 2025 11:36:14 GMT | Kubernetes Made Simple : Part — 1 | Faris Shabibi | [Read More](https://medium.com/p/006df5d3cc15) |
-| Tue, 08 Jul 2025 11:32:57 GMT | Is your phone acting weird? Here’s what might be going on. | resident of the Cosmos | [Read More](https://medium.com/p/f923d8bb7361) |
-| Tue, 08 Jul 2025 11:32:16 GMT | An Open Letter to the Indian IT Industry: The Urgent Need for Standardized Competency Assessment | Ajay Singh Thakur | [Read More](https://medium.com/p/ab78e27c4ea5) |
