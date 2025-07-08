@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 03:06:10 GMT | Global Encryption Policy Debates: Balancing Privacy and Security | Shalomo Agarwarkar | [Read More](https://medium.com/p/aa9fb2666a9a) |
+| Tue, 08 Jul 2025 03:02:59 GMT | Japan Links with NATO to Fight Cyberattacks — Taiwan and EU Counter Hybrid Threats — South Korea… | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/19a5b9bf87c6) |
+| Tue, 08 Jul 2025 03:02:56 GMT | 12 Days That Tested the West’s Resolve | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/204f812dbef9) |
+| Tue, 08 Jul 2025 02:57:22 GMT | Penetration Testing — An Ally for Your IT Support and Development Teams | Cyberoptic Security | [Read More](https://medium.com/p/92d5816933d8) |
+| Tue, 08 Jul 2025 02:49:11 GMT | Broken Access Control: When Good Bug Only Get “Informative” | Zeta | [Read More](https://medium.com/p/4d0dfc0eaacd) |
+| Tue, 08 Jul 2025 02:38:53 GMT | The Silent Cyberattack That’s Already Inside Your Network | ɌƋƑ•TECH | [Read More](https://medium.com/p/d48956f47bd6) |
+| Tue, 08 Jul 2025 02:34:48 GMT | Network Vulnerability & Traffic Analysis Project | DJ Adegbemileke | [Read More](https://medium.com/p/a61c07fd446a) |
+| Tue, 08 Jul 2025 02:32:56 GMT | ️ HTTP Parameter Pollution (HPP): A Silent Breaker of Web Logic | Omniaelagroudy | [Read More](https://medium.com/p/9b709351b97f) |
+| Tue, 08 Jul 2025 02:32:56 GMT | Why Cyber Risk Needs an AI-First Mindset | Jai Advani | [Read More](https://medium.com/p/8383aca44624) |
+| Tue, 08 Jul 2025 02:26:14 GMT | Analysis of Windows Common Log File System Driver Vulnerability, CVE-2025–32713 | S2W | [Read More](https://medium.com/p/97422b699d54) |
+| Tue, 08 Jul 2025 02:18:58 GMT | Day 39 of #60DaysofGRC: What is SOC 2? | Brittney Ginther | [Read More](https://medium.com/p/09aef8867ac6) |
+| Tue, 08 Jul 2025 02:16:44 GMT | How To Align AI With Your GRC Program — Governance | Jordanne Barrett | [Read More](https://medium.com/p/819d94d2aabd) |
+| Tue, 08 Jul 2025 01:47:26 GMT | Tuesday Morning Threat Report: July 8, 2025 | Mark Maguire | [Read More](https://medium.com/p/5111fbacf555) |
 | Tue, 08 Jul 2025 01:31:41 GMT | Vulnerability Isn’t Weakness — It’s Just Love Without Armour | Heartquietlywrites | [Read More](https://medium.com/p/0541cea0ab78) |
 | Tue, 08 Jul 2025 01:26:20 GMT | The Real Breach Happens After the Login: How Privilege Escalation Fuels Cyber Attacks | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/3c828c4e9849) |
 | Tue, 08 Jul 2025 01:18:16 GMT | How I Built an End-to-End Encrypted Credentials Manager and Authenticator— and What I Learned About… | ohira | [Read More](https://medium.com/p/74ffb89f0d01) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 17:47:28 GMT | Demystifying STRIDE: A Practical Guide to Threat Modeling with Real-World Examples | Shubham Pandey | [Read More](https://medium.com/p/6eb8de8100c2) |
 | Mon, 07 Jul 2025 17:46:06 GMT | How You Can Survive the AI Tsunami | devsecops | [Read More](https://medium.com/p/12ac4c1a649d) |
 | Mon, 07 Jul 2025 17:44:58 GMT | AI Security Isn’t Optional Anymore. | Alexandre Capita | [Read More](https://medium.com/p/32714618b2e6) |
-| Mon, 07 Jul 2025 17:44:29 GMT | Exploring the ELLIPAL Hardware Wallet: A Secure Cold Wallet Solution | Asqwfxvxqw | [Read More](https://medium.com/p/7d214f33c63c) |
-| Mon, 07 Jul 2025 17:41:21 GMT | Hackers, AI, and Infrastructure: Why Penetration Testing Has Never Been More Critical | Inforsecpro | [Read More](https://medium.com/p/e2bd39bef817) |
-| Mon, 07 Jul 2025 17:37:30 GMT | Demystifying STRIDE: A Practical Guide to Threat Modeling with Real-World Examples | Aman Pandey | [Read More](https://medium.com/p/3910c5966029) |
-| Mon, 07 Jul 2025 17:36:22 GMT | Day 43: The OSI Model | Nile Okomo | [Read More](https://medium.com/p/3024b6eafe77) |
-| Mon, 07 Jul 2025 17:31:53 GMT | What is Trustoryx? India’s Digital Verification Startup for Scam & Job Offer Investigation | NIkhil Kumar | [Read More](https://medium.com/p/8888a931802c) |
-| Mon, 07 Jul 2025 17:31:49 GMT | TryHackMe Room Writeup: “CyberHeroes!!!” (EASY Difficulty) | Ranaarpit | [Read More](https://medium.com/p/4c410d239e19) |
-| Mon, 07 Jul 2025 17:30:19 GMT | Reconnaissance | The Commoness | [Read More](https://medium.com/p/acf7e7b53740) |
-| Mon, 07 Jul 2025 17:25:19 GMT | 10 New Models of AI That Are Shaping the World in 2025 | Haku Alif | [Read More](https://medium.com/p/5ef8c2e2e39c) |
-| Mon, 07 Jul 2025 17:24:58 GMT | The Day I Found Out People Are Paid to Legally “Hack” | Alex Joyel Raj | [Read More](https://medium.com/p/b5c424c289be) |
-| Mon, 07 Jul 2025 17:20:53 GMT | ️ The Sheepdog Who Cried Hack | Nul⧉ID | [Read More](https://medium.com/p/f04771c6bc91) |
-| Mon, 07 Jul 2025 17:14:30 GMT | Curl: The Powerful Command | Santhosh Adiga U | [Read More](https://medium.com/p/f0213e48791d) |
-| Mon, 07 Jul 2025 17:14:28 GMT | Threat Actors Read Logs. Do We? | Yuksel | [Read More](https://medium.com/p/ae5395272577) |
-| Mon, 07 Jul 2025 17:10:39 GMT | Wazuh Sysmon Detection Rules Fully Backed with MITRE ATT&CK — Now Available in Our Public Repo | SOCFortress | [Read More](https://medium.com/p/eae7ec90d865) |
