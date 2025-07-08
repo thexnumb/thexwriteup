@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 04:50:58 GMT | Burning Your Digital Footprint: How to Re-Enter the US Without Losing Your Freedom | Erik Blair | [Read More](https://medium.com/p/b7b434023911) |
+| Tue, 08 Jul 2025 04:41:48 GMT | Security Master Planning with DSP: Every Angle Covered | Reviews | [Read More](https://medium.com/p/6c495846349b) |
+| Tue, 08 Jul 2025 04:36:48 GMT | Today’s Top Cyber Intelligence Highlights — Jul 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/897b17af3f26) |
+| Tue, 08 Jul 2025 04:36:01 GMT | Is Exploit Shell-coding Still Relevant in 2025? | The Hackers Meetup | [Read More](https://medium.com/p/0ba7eb61fee7) |
+| Tue, 08 Jul 2025 04:32:10 GMT | Prompt Engineering for Cloud Engineers: Make GPT Do the Heavy Lifting | Paritosh | [Read More](https://medium.com/p/55e7c27b915b) |
+| Tue, 08 Jul 2025 04:26:07 GMT | The 7 Silent Threats Lurking in Your Digital Life — That Even Your Antivirus Can’t Catch | Yash Kumar Chauhan | [Read More](https://medium.com/p/01e7828cae2f) |
+| Tue, 08 Jul 2025 04:22:21 GMT | Command Line CTF -Walkthrough | Trent W | [Read More](https://medium.com/p/9460ddbf9e78) |
+| Tue, 08 Jul 2025 04:21:42 GMT | 10 Linux Commands I Use Daily as a Cybersecurity Student | Aniket Gaikwad | [Read More](https://medium.com/p/5edab0dceb59) |
+| Tue, 08 Jul 2025 04:21:16 GMT | About Me | Abraham Eleojo Salifu | [Read More](https://medium.com/p/534af4c28efa) |
+| Tue, 08 Jul 2025 04:06:32 GMT | LO-FI TryHackMe : Breaking Down an LFI Challenge | Soumyashree Sahoo | [Read More](https://medium.com/p/b1094b104401) |
+| Tue, 08 Jul 2025 04:05:56 GMT | Hacking Web : Account Takeover (ATO) Attacks | Israel Aráoz Severiche | [Read More](https://medium.com/p/86db20cb2fb2) |
+| Tue, 08 Jul 2025 04:02:27 GMT | NGINX and Trivy: Part 2 — Building a Minimal TODO API (Scratch vs Alpine) and Comparing… | Booranasak Kanthong | [Read More](https://medium.com/p/443f1c677b3b) |
+| Tue, 08 Jul 2025 04:01:47 GMT | The Night the Network Died — 10 Unspoken Laws of Rebuilding After Total System Failure | James Kuhman | [Read More](https://medium.com/p/07c172c40739) |
+| Tue, 08 Jul 2025 03:55:58 GMT | What I’m Learning While Building an AI Cybersecurity Tool | Parth Gohil | [Read More](https://medium.com/p/c64573fca342) |
 | Tue, 08 Jul 2025 03:55:12 GMT | 16 Billion Passwords Resurface — Why India Is Sounding the Cybersecurity Alarm | Darshan | [Read More](https://medium.com/p/3d578db97be8) |
 | Tue, 08 Jul 2025 03:52:52 GMT | Let’s Understand JWT & Start Building a Secure Full-Stack App for AWS Deployment..☁️ | Shubham Vartak | [Read More](https://medium.com/p/c3578b9fe709) |
 | Tue, 08 Jul 2025 03:42:53 GMT | CTF-COLLECTION-VOLUME 2 | 5kullk3r | [Read More](https://medium.com/p/40ec94e5c7d3) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 18:46:48 GMT | How One Email Locked Out Two Admins — And How to Avoid It | StrangeRwhite | [Read More](https://medium.com/p/5e9ea5126a64) |
 | Mon, 07 Jul 2025 18:41:35 GMT | Penetration Testing the Future: Battling AI Attacks and Cyber Warfare in 2025 | Pentestjunkie07 | [Read More](https://medium.com/p/7e10c5410ecc) |
 | Mon, 07 Jul 2025 18:38:47 GMT | MCP 2025–06–18 Spec Update: What changed and Why it matters | Anmol Baranwal | [Read More](https://medium.com/p/3f474da03549) |
-| Mon, 07 Jul 2025 18:35:49 GMT | Path Traversal Like a Pro: Breaking Out of the Web Root | Santhosh Adiga U | [Read More](https://medium.com/p/1e6f8934bc0d) |
-| Mon, 07 Jul 2025 18:33:56 GMT | Offensive Security Intro | Shourya Pratap Singh | [Read More](https://medium.com/p/88ac621fcfbc) |
-| Mon, 07 Jul 2025 18:29:12 GMT | The Recursive Republic: Feedback, Fracture, and the Future | MacV | [Read More](https://medium.com/p/3413e40a5f21) |
-| Mon, 07 Jul 2025 18:28:48 GMT | 5 myths about AI & LLM security, debunked | Aristek Systems | [Read More](https://medium.com/p/60c99cfd46f9) |
-| Mon, 07 Jul 2025 18:28:26 GMT | Data Partitioning in Multi-Tenant SaaS: A Path to Strategic Scalability and Security | Abdullah @ Writes | [Read More](https://medium.com/p/d8869374e3dc) |
-| Mon, 07 Jul 2025 18:24:38 GMT | How I dealt with infidelity concerns / cheating partner. | Ralphamonger | [Read More](https://medium.com/p/60666b574c2a) |
-| Mon, 07 Jul 2025 18:20:09 GMT | Entendendo Bypass de Autenticação por SQL Injection. | Link | [Read More](https://medium.com/p/0cf95b1ffa2b) |
-| Mon, 07 Jul 2025 18:16:41 GMT | Butler VM Walkthrough | Spookz | [Read More](https://medium.com/p/48759029c531) |
-| Mon, 07 Jul 2025 18:16:00 GMT | We Don’t Fall in Love With People — We Fall in Love With How They Let Us Feel Ourselves | Spiken.Online | [Read More](https://medium.com/p/f02288696ab7) |
-| Mon, 07 Jul 2025 18:14:35 GMT | Web Scanning with Nikto & Nuclei: The Unfiltered Guide | Santhosh Adiga U | [Read More](https://medium.com/p/be1305a18922) |
-| Mon, 07 Jul 2025 18:10:32 GMT | Nmap Advanced Port Scans — TryHackMe | sercan timocin | [Read More](https://medium.com/p/c2d6a3fef686) |
-| Mon, 07 Jul 2025 18:10:28 GMT | my (not so) introduction to medium | issy wilson | [Read More](https://medium.com/p/0b3dbc7f4da8) |
-| Mon, 07 Jul 2025 18:06:45 GMT | UNLOCK YOUR REWARDS: ZENTRY’S NEXUS PRE-SEASON SECOND WAVE IS LIVE! | STANLEY | [Read More](https://medium.com/p/7dffd373496b) |
-| Mon, 07 Jul 2025 18:06:33 GMT | Writing Pentest Reports | Shourya Pratap Singh | [Read More](https://medium.com/p/fb36da911b4a) |
