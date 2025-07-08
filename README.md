@@ -12,7 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 12:33:50 GMT | XSS — Wlakthrough TryHackMe | Ancava | [Read More](https://medium.com/p/2c34a0db4b76) |
+| Tue, 08 Jul 2025 12:33:02 GMT | We Are Connected: The Birth of Cyberpsychoneurology | Mohammed Hasan | [Read More](https://medium.com/p/d807f0dcd80a) |
+| Tue, 08 Jul 2025 12:32:02 GMT | Cloud Security Posture Management: What is CSPM? | Christopher | [Read More](https://medium.com/p/98c2a395b9c6) |
+| Tue, 08 Jul 2025 12:30:49 GMT | Rethinking Cybersecurity: Stop protecting infrastructure. start protecting people. | Pavlović Goran | [Read More](https://medium.com/p/da52cabc0531) |
+| Tue, 08 Jul 2025 12:28:36 GMT | ❌ Why You’re Not Getting Hired in Cybersecurity in 2025 (And How to Fix It) | S3CloudHub | [Read More](https://medium.com/p/2811ee729623) |
+| Tue, 08 Jul 2025 12:21:27 GMT | Cybersecurity Is a Journey, Not a Destination — Insights from CyberSigma’s Co-Founder | CyberSigma Consulting Services | [Read More](https://medium.com/p/80fc81048a40) |
+| Tue, 08 Jul 2025 12:19:44 GMT | BigQuery meets ADK: 10 tips to safeguard your data (and wallet) from agents | Rachael Deacon-smith | [Read More](https://medium.com/p/8c8ea72a9d4e) |
+| Tue, 08 Jul 2025 12:16:33 GMT | What Is Ethical Hacking and How Does It Work? | Chitra Mishra | [Read More](https://medium.com/p/843b6aa7eede) |
+| Tue, 08 Jul 2025 12:14:26 GMT | Backlink-Free SEO: How To Rank Content Without Links | Ecuzenmarketing | [Read More](https://medium.com/p/4ede0e3140eb) |
+| Tue, 08 Jul 2025 12:14:21 GMT | How You Can Build a Real Threat Intelligence Honeypot | 0xasmaa | [Read More](https://medium.com/p/ed7cf4259912) |
+| Tue, 08 Jul 2025 12:08:05 GMT | Event Security Services | Titan Global Seo | [Read More](https://medium.com/p/404e34c893be) |
+| Tue, 08 Jul 2025 12:07:16 GMT | The Silent Saboteurs: Biomedical Devices Still Running Firmware from 2006 | Travis Ray Caverhill | [Read More](https://medium.com/p/57be0f4cc0ef) |
+| Tue, 08 Jul 2025 12:01:50 GMT | The Fifth Failure: Rebuilding Command When Everything Answers to Code | James Kuhman | [Read More](https://medium.com/p/424f4d127260) |
+| Tue, 08 Jul 2025 12:00:49 GMT | Expert Garden Security Light Fitting Cambridgeshire — Keep Your Outdoors Safe | Glowbolt | [Read More](https://medium.com/p/83fd96320ea3) |
+| Tue, 08 Jul 2025 12:00:32 GMT | AI-Powered Hacking: The New Cybersecurity Nightmare | Haniakhan | [Read More](https://medium.com/p/e1b5f90a00cf) |
+| Tue, 08 Jul 2025 11:58:46 GMT | Deploying Azure Firewall with AZD: A Practical Guide to Securing Cloud Networks | Dave R - Microsoft Azure & AI MVP☁️ | [Read More](https://medium.com/p/456281e24de5) |
+| Tue, 08 Jul 2025 11:48:54 GMT | Enhance Safety with Professional Security Garden Lighting in Cambridgeshire | Glowbolt | [Read More](https://medium.com/p/477eb020f54e) |
+| Tue, 08 Jul 2025 11:47:28 GMT | Event Security in Hyderabad: 5 Must-Know Tips Before You Plan | Group 24/7 Security Services | [Read More](https://medium.com/p/23f57e2804b0) |
+| Tue, 08 Jul 2025 11:43:53 GMT | Are AI Tools Replacing Human Jobs Faster Than We Think? | Hafizbilaltariq | [Read More](https://medium.com/p/afe7695fc70c) |
+| Tue, 08 Jul 2025 11:42:34 GMT | Walkthrough THM HackSmarterSecurity | Telynor | [Read More](https://medium.com/p/243ae550e403) |
+| Tue, 08 Jul 2025 11:37:56 GMT | AgroUSD: Security and Financial Transparency | AgroUSD | [Read More](https://medium.com/p/a70265225280) |
+| Tue, 08 Jul 2025 11:36:14 GMT | Kubernetes Made Simple : Part — 1 | Faris Shabibi | [Read More](https://medium.com/p/006df5d3cc15) |
 | Tue, 08 Jul 2025 11:32:57 GMT | Is your phone acting weird? Here’s what might be going on. | resident of the Cosmos | [Read More](https://medium.com/p/f923d8bb7361) |
+| Tue, 08 Jul 2025 11:32:16 GMT | An Open Letter to the Indian IT Industry: The Urgent Need for Standardized Competency Assessment | Ajay Singh Thakur | [Read More](https://medium.com/p/ab78e27c4ea5) |
 | Tue, 08 Jul 2025 11:30:46 GMT | TryHackMe Adventure Time — Walkthrough | mauzware | [Read More](https://medium.com/p/5fabde4c19b5) |
 | Tue, 08 Jul 2025 11:23:07 GMT | Are you confident your data won’t be exposed when using AI? | Elliot Morris | [Read More](https://medium.com/p/5a52c3e60960) |
 | Tue, 08 Jul 2025 11:16:59 GMT | Sendmail Exploit Walkthrough: CVE‑2007‑4560 | Nail Gozalov | [Read More](https://medium.com/p/41aa038ada9e) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 07:58:01 GMT | ️ Mastering Nmap: A Complete Help Guide for Ethical Hackers & Network Defenders | Rajkumar Kumawat | [Read More](https://medium.com/p/b727e1301d92) |
 | Tue, 08 Jul 2025 07:56:55 GMT | From Generalist to Specialist: The Proven Path to Bug Bounty Mastery | Andrei Ivan | [Read More](https://medium.com/p/f8e8537f616c) |
 | Tue, 08 Jul 2025 07:54:41 GMT | Security Champions — Scaling Security Through Collaboration | Piyush Maharishi | [Read More](https://medium.com/p/f3b3064c9d8d) |
-| Tue, 08 Jul 2025 07:54:15 GMT | Client-Side Redirects: Everyday Magic Behind the Modern Web | Nisa | [Read More](https://medium.com/p/4768a27ed971) |
-| Tue, 08 Jul 2025 07:53:35 GMT | How Low Severity Bugs Lead to Critical Rewards | Monika sharma | [Read More](https://medium.com/p/bed034ed149e) |
-| Tue, 08 Jul 2025 07:50:29 GMT | Open Source Tool for AI-Specific Threat Modeling — Fast, Context-Aware, and Developer-Friendly | Sandeep Saxena | [Read More](https://medium.com/p/2c047fdc1781) |
-| Tue, 08 Jul 2025 07:50:23 GMT | The $100,000 Click: My First Year in Bug Bounties | Aj | [Read More](https://medium.com/p/824d581a6c00) |
-| Tue, 08 Jul 2025 07:49:57 GMT | The Ultimate API Penetration Testing Checklist (2025 Edition) | Andrei Ivan | [Read More](https://medium.com/p/092ca8a4056a) |
-| Tue, 08 Jul 2025 07:49:25 GMT | Exploiting API Version Mismatches for Hidden Vulnerabilities | Monika sharma | [Read More](https://medium.com/p/7680d854c0fb) |
-| Tue, 08 Jul 2025 07:48:11 GMT | How to Approach Finding Bugs Easily: My Bug Hunting Methodology | Vipul Sonule | [Read More](https://medium.com/p/9c303a698b7c) |
-| Tue, 08 Jul 2025 07:42:55 GMT | No Captcha? No Problem! How I Mass-Registered 10K Accounts and Took Over the App | Iski | [Read More](https://medium.com/p/25f7c642a4ac) |
-| Tue, 08 Jul 2025 07:42:48 GMT | How I Downloaded All Bitbucket Repos by Finding a Leaked Token in a JS file for $4k Bounty. | Imran Hossain | [Read More](https://medium.com/p/a701d6effa50) |
-| Tue, 08 Jul 2025 07:32:12 GMT | JWT Authentication Bypass Via Unverified Signature — Without Burpsuite | Leerlryzck | [Read More](https://medium.com/p/dc0c6b195a94) |
-| Tue, 08 Jul 2025 07:27:33 GMT | The Power of TOGAF Certification: Unlock Your Enterprise Architecture Career | Safarisprz01 | [Read More](https://medium.com/p/7705c7534021) |
-| Tue, 08 Jul 2025 07:23:45 GMT | The 10 Most Common Cybersecurity Mistakes Small Businesses Make and How to Avoid Them | Teleglobal International | [Read More](https://medium.com/p/04e462fcd601) |
-| Tue, 08 Jul 2025 07:22:58 GMT | Unauthenticated SQL Injection Found in Weaver e-cology Platform | AerieWhole123 | [Read More](https://medium.com/p/b7ecd5055961) |
-| Tue, 08 Jul 2025 07:22:36 GMT | Ultimate Interactive Challenge by FinEconoverse | FinEconoverse | [Read More](https://medium.com/p/6f9fa647f0f3) |
-| Tue, 08 Jul 2025 07:20:12 GMT | React Component Lifecycle Simplified: Understanding React’s Rhythm | Expert App Devs | [Read More](https://medium.com/p/7ad3fb0a1d1c) |
-| Tue, 08 Jul 2025 07:19:01 GMT | Day 5 of MCP Security: Context Leaks, Scope Creep & Shadow Permissions | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/6ee9721d86c0) |
-| Tue, 08 Jul 2025 07:18:14 GMT | Bug Bounty Methodology | Eilcxtvrzfmicyqqmo | [Read More](https://medium.com/p/851f26fa5f55) |
-| Tue, 08 Jul 2025 07:09:09 GMT | Common cybersecurity mistakes small businesses make and how to avoid them | Generative AI Blog | [Read More](https://medium.com/p/abeaed7bcb75) |
-| Tue, 08 Jul 2025 07:09:03 GMT | The Rise of Managed Detection and Response (MDR) : Proactive Defense Against Evolving Cyber Threats | Gargiben | [Read More](https://medium.com/p/d6275a7b9601) |
-| Tue, 08 Jul 2025 07:08:29 GMT | When Authenticity Becomes Performance | 〄 Ambiguity LAB | [Read More](https://medium.com/p/3d33c8223278) |
-| Tue, 08 Jul 2025 07:08:08 GMT | INTRODUCTION TO NETWORK | Alestin shelmon | [Read More](https://medium.com/p/061f27979840) |
-| Tue, 08 Jul 2025 07:05:08 GMT | Most Developers Miss This Simple Frontend Security Trick: Secure Headers | Arya Mehta | [Read More](https://medium.com/p/29a9cf231094) |
-| Tue, 08 Jul 2025 07:02:54 GMT | Easy2Patch’s July 5 Catalog Refresh: Stay Resilient with 90 Third-Party Updates | Easy2Patch | [Read More](https://medium.com/p/93e762250cd8) |
