@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 15:30:02 GMT | TryHackMe - Windows User Account Forensics - WriteUp | Axoloth | [Read More](https://medium.com/p/168683fe2f21) |
+| Tue, 08 Jul 2025 15:27:58 GMT | Web Application Firewall (WAF) Bypass Techniques that Work in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b11861b2767b) |
+| Tue, 08 Jul 2025 15:27:25 GMT | This Hidden Recon Tool Is a Game-Changer for Bug Bounty Hunters — And It Has a Killer Free Tier | hacker_might | [Read More](https://medium.com/p/a022c74771b0) |
+| Tue, 08 Jul 2025 15:27:02 GMT | The Host Header Injection Hack — Silent Takeovers & Secret Access | Đeepanshu | [Read More](https://medium.com/p/1e46908b9578) |
+| Tue, 08 Jul 2025 15:26:53 GMT | The Bug Bounty Program Litmus Test: 5 Red Flags to Avoid Wasting Your Time | Andrei Ivan | [Read More](https://medium.com/p/1adc0034de43) |
+| Tue, 08 Jul 2025 15:25:09 GMT | How to Test the Real-World Defense of SafeLine WAF with Its Public Demo | Maverick Steel | [Read More](https://medium.com/p/5512e351abfb) |
 | Tue, 08 Jul 2025 15:15:07 GMT | HTTP vs HTTPS (for Hackers): The Locks, the Leaks, and the Lessons | Goose Gustin | [Read More](https://medium.com/p/f680bc157486) |
 | Tue, 08 Jul 2025 15:10:04 GMT | Strait of Hormuz Tensions(Analysis) | Ramsha Ali | [Read More](https://medium.com/p/bca8f34644a3) |
 | Tue, 08 Jul 2025 15:09:13 GMT | Rise of the AI-Powered Attack - Marks and Spencer | K O M A L | [Read More](https://medium.com/p/b3f10cd2d611) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 11:01:18 GMT | Masculinity in the Modern World: How Vulnerability Became My Strength | Nivethan Mahendrarajah | [Read More](https://medium.com/p/e2ecf38be499) |
 | Tue, 08 Jul 2025 10:58:16 GMT | Microsoft Lays Off ~9,000 Employees Amid AI Pivot | Hafizbilaltariq | [Read More](https://medium.com/p/e03f59a51c6b) |
 | Tue, 08 Jul 2025 10:57:29 GMT | Top 100 Web & API Vulnerabilities Every Bug Bounty Hunter Must Know in 2025 | Pratham Shah | [Read More](https://medium.com/p/fe51499bbb4e) |
-| Tue, 08 Jul 2025 10:56:23 GMT | Should We Stop Blaming Users for Every Phishing Attack? | The Quiet Hacker | [Read More](https://medium.com/p/d7455c213c31) |
-| Tue, 08 Jul 2025 10:51:25 GMT | What If an LLM Could Profile You from Your Browser History? | Bour Abdelhadi | [Read More](https://medium.com/p/971ec99d15c5) |
-| Tue, 08 Jul 2025 10:49:29 GMT | The CIA Triad in Cybersecurity: A Pentester’s Complete Guide to Confidentiality, Integrity, and… | YoungerSibling | [Read More](https://medium.com/p/43ed8e0b529b) |
-| Tue, 08 Jul 2025 10:44:21 GMT | How to Turn Cybersecurity Into a Competitive Advantage | Technijian ITSupport | [Read More](https://medium.com/p/b6ee0680ec2c) |
-| Tue, 08 Jul 2025 10:38:25 GMT | Unemployed but Emotionally Employed | rebootingdaily | [Read More](https://medium.com/p/fe500d024059) |
-| Tue, 08 Jul 2025 10:30:32 GMT | Cómo censurar un comentario con solo un script: abuso del sistema de reportes | Gorka | [Read More](https://medium.com/p/b1df7810761f) |
