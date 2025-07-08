@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 07:18:14 GMT | Bug Bounty Methodology | Eilcxtvrzfmicyqqmo | [Read More](https://medium.com/p/851f26fa5f55) |
+| Tue, 08 Jul 2025 07:09:09 GMT | Common cybersecurity mistakes small businesses make and how to avoid them | Generative AI Blog | [Read More](https://medium.com/p/abeaed7bcb75) |
+| Tue, 08 Jul 2025 07:09:03 GMT | The Rise of Managed Detection and Response (MDR) : Proactive Defense Against Evolving Cyber Threats | Gargiben | [Read More](https://medium.com/p/d6275a7b9601) |
+| Tue, 08 Jul 2025 07:08:29 GMT | When Authenticity Becomes Performance | 〄 Ambiguity LAB | [Read More](https://medium.com/p/3d33c8223278) |
+| Tue, 08 Jul 2025 07:08:08 GMT | INTRODUCTION TO NETWORK | Alestin shelmon | [Read More](https://medium.com/p/061f27979840) |
+| Tue, 08 Jul 2025 07:05:08 GMT | Most Developers Miss This Simple Frontend Security Trick: Secure Headers | Arya Mehta | [Read More](https://medium.com/p/29a9cf231094) |
+| Tue, 08 Jul 2025 07:02:54 GMT | Easy2Patch’s July 5 Catalog Refresh: Stay Resilient with 90 Third-Party Updates | Easy2Patch | [Read More](https://medium.com/p/93e762250cd8) |
+| Tue, 08 Jul 2025 07:02:53 GMT | Monitoring Privileged Group Changes in Active Directory: A Core Security Practice | Arksoft | [Read More](https://medium.com/p/e7853c0af1e7) |
+| Tue, 08 Jul 2025 07:02:08 GMT | Making Sense of Spring Security: Why So Many Components and What They Actually Do | Nikita Blud | [Read More](https://medium.com/p/31af0ed8568e) |
+| Tue, 08 Jul 2025 06:59:34 GMT | Remcos RAT — 2018 nümunəsi üzərindən statik və dinamik analiz | Elmin Farzaliyev | [Read More](https://medium.com/p/f7affa29910c) |
+| Tue, 08 Jul 2025 06:58:21 GMT | Beginner’s Guide to Cybersecurity: How to Stay Safe Online | Raisha Khan | [Read More](https://medium.com/p/d806b0432131) |
+| Tue, 08 Jul 2025 06:55:16 GMT | The hidden 43 percent threat you’re hiring, malicious-insiders | Martin Abramov | [Read More](https://medium.com/p/c7f6eb461fa5) |
+| Tue, 08 Jul 2025 06:54:25 GMT | Cybersecurity in 2025: Trends Every Business Leader Needs to Know | Ambsan Technologies | [Read More](https://medium.com/p/02b74f43e5ae) |
+| Tue, 08 Jul 2025 06:54:13 GMT | ประจำวันอังคารที่ 8 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ff496ce14172) |
+| Tue, 08 Jul 2025 06:46:08 GMT | How I made Vertical Privilege Escalation through Request Manipulation | Ananth | [Read More](https://medium.com/p/98cfef624740) |
+| Tue, 08 Jul 2025 06:44:48 GMT | How I Tricked a Swagger UI into Showing a Fake Login Page | Shafayat Ahmed Alif | [Read More](https://medium.com/p/68e9f08a3d59) |
+| Tue, 08 Jul 2025 06:31:41 GMT | Why Access Control Systems Are Becoming Essential for Australian Businesses | ICORP Security | [Read More](https://medium.com/p/023662e71934) |
+| Tue, 08 Jul 2025 06:30:01 GMT | The New Flex? Showing How Little You Care | Ayushi Jindal | [Read More](https://medium.com/p/8207adb8f529) |
 | Tue, 08 Jul 2025 06:23:24 GMT | Looking for an IT Managed Service Provider Near Me? Here’s Why PCI Services Is the Right Choice | Zebaq | [Read More](https://medium.com/p/d01c546035d6) |
 | Tue, 08 Jul 2025 06:20:43 GMT | XSS Attack Types Explained — and How SafeLine WAF Stops Them | Quella | [Read More](https://medium.com/p/2c01796158a4) |
 | Tue, 08 Jul 2025 06:10:46 GMT | How WormGPT and FraudGPT Are Fueling the Rise of AI-Powered Cybercrime | TheReviewHive | [Read More](https://medium.com/p/b5afbd9dfd7f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 22:47:09 GMT | Protecting Values in Environment Variables: Part I, Gatekeeper | W. Jenks Gibbons | [Read More](https://medium.com/p/50dabe4cfc49) |
 | Mon, 07 Jul 2025 22:34:06 GMT | I Wasn’t Healing. I Was Hiding. | Mr Cool | [Read More](https://medium.com/p/e1a0a7918f90) |
 | Mon, 07 Jul 2025 22:31:58 GMT | VulnCicada - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/50c9915c0725) |
-| Mon, 07 Jul 2025 22:17:29 GMT | How AI is Changing Software Development: A Developer’s Experience | Harrievincent | [Read More](https://medium.com/p/8beadfa19c90) |
-| Mon, 07 Jul 2025 22:10:17 GMT | How I Crashed a Rust-Based VPN Server With a Malformed TLS Packet | MostReal | [Read More](https://medium.com/p/1010d1cdb95f) |
-| Mon, 07 Jul 2025 22:09:48 GMT | MS Sentinel: Introduction | Jawstar | [Read More](https://medium.com/p/086e0a1f2002) |
-| Mon, 07 Jul 2025 22:03:10 GMT | What Is a VPN and Do You Really Need One? | Timonéofearth | [Read More](https://medium.com/p/437028216f89) |
-| Mon, 07 Jul 2025 21:57:18 GMT | The 6-Minute Guide to AWS IAM That Actually Makes Sense | Akarsh Kumar | [Read More](https://medium.com/p/5d47dd6223f5) |
-| Mon, 07 Jul 2025 21:53:34 GMT | Virgin by Lorde — a Review | Melodies of Science | [Read More](https://medium.com/p/7ee52ceeeab3) |
-| Mon, 07 Jul 2025 21:53:01 GMT | Think Your SOC Is Smart? It Might Be Running on Outdated AI | Cyber-AppSec | [Read More](https://medium.com/p/f6de9ada494a) |
-| Mon, 07 Jul 2025 21:52:27 GMT | The true cost of free: Why I Finally Started Paying for Softwares and games | Null Walker | [Read More](https://medium.com/p/f6bfcf3a9fe3) |
-| Mon, 07 Jul 2025 21:47:37 GMT | Custom Lambda Authorizer with AWS HTTP Api gateway (SAM Implementation) | Rayan Sikandar | [Read More](https://medium.com/p/5b333edc9971) |
-| Mon, 07 Jul 2025 21:43:58 GMT | This House May Crumble | Orya | [Read More](https://medium.com/p/b960aa1f21ba) |
-| Mon, 07 Jul 2025 21:25:10 GMT | The Four Quadrants of AI: Why Security Will Define the Winners of the Agentic Era | Jaz Lin | [Read More](https://medium.com/p/4383146a8139) |
-| Mon, 07 Jul 2025 21:23:51 GMT | My Hacker Copilot Runs Ops with Me | Five Insights | [Read More](https://medium.com/p/3d031e727e52) |
-| Mon, 07 Jul 2025 21:21:28 GMT | The Cybersecurity — Career Accelerator (July 7) | Franklin Rhodes | [Read More](https://medium.com/p/bf95ad98f068) |
-| Mon, 07 Jul 2025 21:11:46 GMT | Userland Hook Detection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/76f0eb5035cc) |
-| Mon, 07 Jul 2025 21:11:25 GMT | The CTI Dispatch #03: Weekly Cyber Threat Intel - Ivanti APTs, Ransomware, Supply Chain Attacks…. | Uddip Ranjan Das | [Read More](https://medium.com/p/bff41ef483ae) |
-| Mon, 07 Jul 2025 21:07:53 GMT | Nmap Post Port Scans — TryHackMe | sercan timocin | [Read More](https://medium.com/p/4784a5d34d97) |
-| Mon, 07 Jul 2025 21:05:39 GMT | Mastering SIEM: Optimization Strategies and Practical Tools for Entry-Level Analysts | Analyst Atlas | [Read More](https://medium.com/p/54b6026e41ff) |
-| Mon, 07 Jul 2025 21:04:10 GMT | Ransomware Attack on Ingram Micro Exposes Fragility in Global IT Distribution Chain | RealSec.io | [Read More](https://medium.com/p/3fab2a2b475f) |
