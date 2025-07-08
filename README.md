@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 23:19:23 GMT | X Under Siege: Data Leaks, Bots, and Security Failures | ADanielHill | [Read More](https://medium.com/p/b24df636cb33) |
+| Tue, 08 Jul 2025 23:16:26 GMT | Series: Fortifying the Digital Frontier — Your Guide to Crypto Security in Web3 | Ben San Roman | [Read More](https://medium.com/p/648ba92bd71f) |
+| Tue, 08 Jul 2025 23:05:19 GMT | When Kindness Leads, Hearts Heal – A World We All Deserve | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/c0e2aebc1c61) |
+| Tue, 08 Jul 2025 23:01:37 GMT | A Shortsighted Model for Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/e8333a60da5b) |
+| Tue, 08 Jul 2025 22:59:52 GMT | Vulnerability Data Enrichment for CVE Records: 230 CNAs on the Enrichment Recognition List for July… | CVE Program Blog | [Read More](https://medium.com/p/46422dd3ec31) |
+| Tue, 08 Jul 2025 22:56:14 GMT | My Experience as a Flow Scholar at Permissionless NYC | CJ Carnicle | [Read More](https://medium.com/p/3d25eb4613eb) |
+| Tue, 08 Jul 2025 22:48:14 GMT | All Your Secrets Belong to Us: Cambridge Analytica Scandal (2018) | Oludare Stephen Ayobami | [Read More](https://medium.com/p/65dbf11d8f7d) |
+| Tue, 08 Jul 2025 22:38:17 GMT | Disclaimer | Stewart Buse | [Read More](https://medium.com/p/31ea449bae78) |
 | Tue, 08 Jul 2025 22:32:01 GMT | Day 45: Cookies | Nile Okomo | [Read More](https://medium.com/p/7863683d55ad) |
 | Tue, 08 Jul 2025 22:13:26 GMT | The 4-Digit Code That Almost Took Down a Water Facility | Cyber-AppSec | [Read More](https://medium.com/p/723e7488b87b) |
 | Tue, 08 Jul 2025 22:09:58 GMT | Day 44: The Ethernet Protocol | Nile Okomo | [Read More](https://medium.com/p/e185f4bb5120) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 16:00:49 GMT | Post CyberTitan 2025 thoughts | August Lam | [Read More](https://medium.com/p/efddbfd64da8) |
 | Tue, 08 Jul 2025 16:00:20 GMT | Why You Should Outsource SOC to Strengthen Your Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/ef8aac7ff74a) |
 | Tue, 08 Jul 2025 15:56:21 GMT | How It Becomes Easier to Express in Metaphors | Kondapalli Koyal | [Read More](https://medium.com/p/db71be329673) |
-| Tue, 08 Jul 2025 15:56:06 GMT | Securing DHCP — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/cdffcdb9de74) |
-| Tue, 08 Jul 2025 15:56:00 GMT | What is a Fallback Attack in Smart Contracts? | Cyberscope, a TAC Security Company | [Read More](https://medium.com/p/11aa5e29c034) |
-| Tue, 08 Jul 2025 15:51:13 GMT | Zip Bomb: The Tiny File That Can Destroy Big Systems | SafeAeon Inc. | [Read More](https://medium.com/p/01efa1befe68) |
-| Tue, 08 Jul 2025 15:45:18 GMT | INIT (Pvt.) Ltd and Apprise Cyber Partner to Secure the Future of Digital Business | Muhammad Inam Abbasi | [Read More](https://medium.com/p/808962ad2eae) |
-| Tue, 08 Jul 2025 15:43:15 GMT | To the Men Who Don’t Fit the Mold — — — I See You | Wincentanunidhi | [Read More](https://medium.com/p/0081a5a15953) |
-| Tue, 08 Jul 2025 15:30:02 GMT | TryHackMe - Windows User Account Forensics - WriteUp | Axoloth | [Read More](https://medium.com/p/168683fe2f21) |
-| Tue, 08 Jul 2025 15:27:58 GMT | Web Application Firewall (WAF) Bypass Techniques that Work in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b11861b2767b) |
-| Tue, 08 Jul 2025 15:27:25 GMT | This Hidden Recon Tool Is a Game-Changer for Bug Bounty Hunters — And It Has a Killer Free Tier | hacker_might | [Read More](https://medium.com/p/a022c74771b0) |
