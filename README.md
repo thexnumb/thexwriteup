@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 10:30:32 GMT | Cómo censurar un comentario con solo un script: abuso del sistema de reportes | Gorka | [Read More](https://medium.com/p/b1df7810761f) |
+| Tue, 08 Jul 2025 10:29:53 GMT | XSSpwn: Thinking Outside the Box with Reflected XSS Automation | GhostDev™️ | [Read More](https://medium.com/p/6cb7ac1241c1) |
+| Tue, 08 Jul 2025 10:29:47 GMT | OpenSec Framework — R.331 | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/aa22c8337b62) |
+| Tue, 08 Jul 2025 10:28:09 GMT | Real-World SVG-Based Phishing Attack: Technical Deep Dive | Muhammad  Haider Ali Khan | [Read More](https://medium.com/p/3a7ac7107042) |
+| Tue, 08 Jul 2025 10:23:11 GMT | Developing a Successful Intelligence-Driven Hypothesis For Threat Hunting. | José Reyes (@Architekt) | [Read More](https://medium.com/p/657f241b4460) |
+| Tue, 08 Jul 2025 10:21:21 GMT | ACM Developer’s Digest #3 | ACM MITB | [Read More](https://medium.com/p/a79a876463e7) |
 | Tue, 08 Jul 2025 10:19:36 GMT | HackTheBox Sherlock: Meerkat Writeup and Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/09d9fb41e9d2) |
 | Tue, 08 Jul 2025 10:17:06 GMT | A composite indicator for Tourism Market Vulnerability | mona masoumi | [Read More](https://medium.com/p/abe6a11f8900) |
 | Tue, 08 Jul 2025 10:11:40 GMT | The Google Cybersecurity Certificate: Was It Worth It? (Spoiler: Yes) | Ejike Etolue | [Read More](https://medium.com/p/69d4ea2f3132) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 05:58:12 GMT | The Quantum Effect That’s Already Breaking Your Everyday Encryption | Coders Stop | [Read More](https://medium.com/p/ba3ffa131301) |
 | Tue, 08 Jul 2025 05:53:40 GMT | How to Choose a Reliable Managed IT Provider in Irvine | Everconnect | [Read More](https://medium.com/p/d7860ec4054b) |
 | Tue, 08 Jul 2025 05:53:33 GMT | KloudPortal Emerging Tech Services: AI, Blockchain, IoT | Kloudportal4 | [Read More](https://medium.com/p/2dc0a18bd018) |
-| Tue, 08 Jul 2025 05:51:06 GMT | Not a Finding, But a Reflection | callgh0st | [Read More](https://medium.com/p/12de6a1ad473) |
-| Tue, 08 Jul 2025 05:50:35 GMT | Advanced Threat Detection & Security Services - KlouPortal | Clodgater | [Read More](https://medium.com/p/232a1564edee) |
-| Tue, 08 Jul 2025 05:46:54 GMT | How to Automate API Recon Like a Beast (with Burp Suite, Postman, and AI) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7de80f861c3b) |
-| Tue, 08 Jul 2025 05:38:57 GMT | Why API Rate Limiting Is a Lie — and How Attackers Abuse It | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1d5cdeb3a0d9) |
-| Tue, 08 Jul 2025 05:35:30 GMT | Hvordan udnytter vi open source? | Walther H. Diechmann | [Read More](https://medium.com/p/d6e9a020d2a3) |
-| Tue, 08 Jul 2025 05:31:16 GMT | Phishing Attacks: Are They Truly Avoidable? | Adeesha Savinda de Silva | [Read More](https://medium.com/p/9a9810f1807b) |
