@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 11:16:59 GMT | Sendmail Exploit Walkthrough: CVE‑2007‑4560 | Nail Gozalov | [Read More](https://medium.com/p/41aa038ada9e) |
+| Tue, 08 Jul 2025 11:16:55 GMT | Data Engineering on AWS: Data Governance, Security, and Cataloging | Joud W. Awad | [Read More](https://medium.com/p/bb4a6f6c188e) |
+| Tue, 08 Jul 2025 11:15:40 GMT | Path Traversal part-5 : validation of start of path | Ahmad Sopyan | [Read More](https://medium.com/p/ab6230d54ce3) |
+| Tue, 08 Jul 2025 11:11:02 GMT | Mr Robot CTF | Courtney | [Read More](https://medium.com/p/745b4b58cb2f) |
+| Tue, 08 Jul 2025 11:09:59 GMT | Building Fortress: The Power of Positive Security Models | Olha Stefanishyna | [Read More](https://medium.com/p/c936357e54cd) |
+| Tue, 08 Jul 2025 11:08:35 GMT | xss0r V5 Golden Plan — 7 Days FREE For Everyone! No Credit Card Needed | xss0r | [Read More](https://medium.com/p/29811519fd94) |
+| Tue, 08 Jul 2025 11:06:49 GMT | Why Cybersecurity Solutions Are Essential for Your Business Protection? | MobcoderCOM | [Read More](https://medium.com/p/81d1f611f329) |
+| Tue, 08 Jul 2025 11:02:13 GMT | Vulnerabilities may be inevitable — but they’re not unpreventable. | Sammcmullen | [Read More](https://medium.com/p/59aa0975ea78) |
+| Tue, 08 Jul 2025 11:01:18 GMT | Masculinity in the Modern World: How Vulnerability Became My Strength | Nivethan Mahendrarajah | [Read More](https://medium.com/p/e2ecf38be499) |
+| Tue, 08 Jul 2025 10:58:16 GMT | Microsoft Lays Off ~9,000 Employees Amid AI Pivot | Hafizbilaltariq | [Read More](https://medium.com/p/e03f59a51c6b) |
+| Tue, 08 Jul 2025 10:57:29 GMT | Top 100 Web & API Vulnerabilities Every Bug Bounty Hunter Must Know in 2025 | Pratham Shah | [Read More](https://medium.com/p/fe51499bbb4e) |
+| Tue, 08 Jul 2025 10:56:23 GMT | Should We Stop Blaming Users for Every Phishing Attack? | The Quiet Hacker | [Read More](https://medium.com/p/d7455c213c31) |
+| Tue, 08 Jul 2025 10:51:25 GMT | What If an LLM Could Profile You from Your Browser History? | Bour Abdelhadi | [Read More](https://medium.com/p/971ec99d15c5) |
+| Tue, 08 Jul 2025 10:49:29 GMT | The CIA Triad in Cybersecurity: A Pentester’s Complete Guide to Confidentiality, Integrity, and… | YoungerSibling | [Read More](https://medium.com/p/43ed8e0b529b) |
+| Tue, 08 Jul 2025 10:44:21 GMT | How to Turn Cybersecurity Into a Competitive Advantage | Technijian ITSupport | [Read More](https://medium.com/p/b6ee0680ec2c) |
+| Tue, 08 Jul 2025 10:38:25 GMT | Unemployed but Emotionally Employed | rebootingdaily | [Read More](https://medium.com/p/fe500d024059) |
 | Tue, 08 Jul 2025 10:30:32 GMT | Cómo censurar un comentario con solo un script: abuso del sistema de reportes | Gorka | [Read More](https://medium.com/p/b1df7810761f) |
 | Tue, 08 Jul 2025 10:29:53 GMT | XSSpwn: Thinking Outside the Box with Reflected XSS Automation | GhostDev™️ | [Read More](https://medium.com/p/6cb7ac1241c1) |
 | Tue, 08 Jul 2025 10:29:47 GMT | OpenSec Framework — R.331 | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/aa22c8337b62) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 07:02:08 GMT | Making Sense of Spring Security: Why So Many Components and What They Actually Do | Nikita Blud | [Read More](https://medium.com/p/31af0ed8568e) |
 | Tue, 08 Jul 2025 06:59:34 GMT | Remcos RAT — 2018 nümunəsi üzərindən statik və dinamik analiz | Elmin Farzaliyev | [Read More](https://medium.com/p/f7affa29910c) |
 | Tue, 08 Jul 2025 06:58:21 GMT | Beginner’s Guide to Cybersecurity: How to Stay Safe Online | Raisha Khan | [Read More](https://medium.com/p/d806b0432131) |
-| Tue, 08 Jul 2025 06:55:16 GMT | The hidden 43 percent threat you’re hiring, malicious-insiders | Martin Abramov | [Read More](https://medium.com/p/c7f6eb461fa5) |
-| Tue, 08 Jul 2025 06:54:25 GMT | Cybersecurity in 2025: Trends Every Business Leader Needs to Know | Ambsan Technologies | [Read More](https://medium.com/p/02b74f43e5ae) |
-| Tue, 08 Jul 2025 06:54:13 GMT | ประจำวันอังคารที่ 8 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ff496ce14172) |
-| Tue, 08 Jul 2025 06:46:08 GMT | How I made Vertical Privilege Escalation through Request Manipulation | Ananth | [Read More](https://medium.com/p/98cfef624740) |
-| Tue, 08 Jul 2025 06:44:48 GMT | How I Tricked a Swagger UI into Showing a Fake Login Page | Shafayat Ahmed Alif | [Read More](https://medium.com/p/68e9f08a3d59) |
-| Tue, 08 Jul 2025 06:31:41 GMT | Why Access Control Systems Are Becoming Essential for Australian Businesses | ICORP Security | [Read More](https://medium.com/p/023662e71934) |
-| Tue, 08 Jul 2025 06:30:01 GMT | The New Flex? Showing How Little You Care | Ayushi Jindal | [Read More](https://medium.com/p/8207adb8f529) |
-| Tue, 08 Jul 2025 06:23:24 GMT | Looking for an IT Managed Service Provider Near Me? Here’s Why PCI Services Is the Right Choice | Zebaq | [Read More](https://medium.com/p/d01c546035d6) |
-| Tue, 08 Jul 2025 06:20:43 GMT | XSS Attack Types Explained — and How SafeLine WAF Stops Them | Quella | [Read More](https://medium.com/p/2c01796158a4) |
-| Tue, 08 Jul 2025 06:10:46 GMT | How WormGPT and FraudGPT Are Fueling the Rise of AI-Powered Cybercrime | TheReviewHive | [Read More](https://medium.com/p/b5afbd9dfd7f) |
-| Tue, 08 Jul 2025 06:03:02 GMT | Meet DhaViPa: The Cybersecurity Chatbot That Speaks Your Language | Ronit Paikray | [Read More](https://medium.com/p/d2877975ccb9) |
-| Tue, 08 Jul 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Jul 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/2026366ba761) |
-| Tue, 08 Jul 2025 05:59:19 GMT | Top 15 High-Demand Cyber Security Jobs in India for 2025 | Simplilearn | [Read More](https://medium.com/p/75d561d46aeb) |
-| Tue, 08 Jul 2025 05:58:12 GMT | The Quantum Effect That’s Already Breaking Your Everyday Encryption | Coders Stop | [Read More](https://medium.com/p/ba3ffa131301) |
-| Tue, 08 Jul 2025 05:53:40 GMT | How to Choose a Reliable Managed IT Provider in Irvine | Everconnect | [Read More](https://medium.com/p/d7860ec4054b) |
-| Tue, 08 Jul 2025 05:53:33 GMT | KloudPortal Emerging Tech Services: AI, Blockchain, IoT | Kloudportal4 | [Read More](https://medium.com/p/2dc0a18bd018) |
