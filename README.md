@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 09:31:08 GMT | Pynesec Achieves ISO 27001 Certification: A Milestone in Cybersecurity Excellence | Pynesec | [Read More](https://medium.com/p/d34765e7fcaf) |
+| Tue, 08 Jul 2025 09:28:47 GMT | How Great Learning Helped Two Professionals Navigate Their Way into Cybersecurity Without a Roadmap | Great Learning | [Read More](https://medium.com/p/a3ca43211472) |
+| Tue, 08 Jul 2025 09:20:26 GMT | Port Forwarding, Tunneling, and Pivoting Tools Every Pentester Should Know | Ria Banerjee | [Read More](https://medium.com/p/3f05c12e202b) |
 | Tue, 08 Jul 2025 09:16:49 GMT | How Two Hidden Sudo Flaws Could Let Anyone Become Root — And How to Lock It Down | CyBlog | [Read More](https://medium.com/p/61324f208c60) |
 | Tue, 08 Jul 2025 09:14:49 GMT | Saturday Edition — General Cyber News Summary — 05/07/25 | SecurityPulse News | [Read More](https://medium.com/p/9f470655d8e8) |
 | Tue, 08 Jul 2025 09:14:04 GMT | Bankruptcy forecasting in enterprises and its security using hybrid deep learning models | Brij Gupta | [Read More](https://medium.com/p/2cfa1ceb1fc6) |
@@ -97,6 +100,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 05:50:35 GMT | Advanced Threat Detection & Security Services - KlouPortal | Clodgater | [Read More](https://medium.com/p/232a1564edee) |
 | Tue, 08 Jul 2025 05:46:54 GMT | How to Automate API Recon Like a Beast (with Burp Suite, Postman, and AI) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7de80f861c3b) |
 | Tue, 08 Jul 2025 05:38:57 GMT | Why API Rate Limiting Is a Lie — and How Attackers Abuse It | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1d5cdeb3a0d9) |
+| Tue, 08 Jul 2025 05:35:30 GMT | Hvordan udnytter vi open source? | Walther H. Diechmann | [Read More](https://medium.com/p/d6e9a020d2a3) |
 | Tue, 08 Jul 2025 05:31:16 GMT | Phishing Attacks: Are They Truly Avoidable? | Adeesha Savinda de Silva | [Read More](https://medium.com/p/9a9810f1807b) |
 | Tue, 08 Jul 2025 05:30:37 GMT | Misconfiguration Vulnerabilities Are Still Alive — Here’s Why It Matters | Narendar Battula (nArEn) | [Read More](https://medium.com/p/81e910e88662) |
 | Tue, 08 Jul 2025 05:19:17 GMT | Matthew Sayle, Georgia Gazette, Jennifer Feathers, Allegations of Misconduct by Courtney Parker PhD | Dr. Courtney Parker — Hall County, GA | [Read More](https://medium.com/p/92fd202b7e1c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 04:53:35 GMT | Discover the Dark Web Like Never Before — With Real Onion Links | adityaax | [Read More](https://medium.com/p/c67b372b513c) |
 | Tue, 08 Jul 2025 04:50:58 GMT | Burning Your Digital Footprint: How to Re-Enter the US Without Losing Your Freedom | Erik Blair | [Read More](https://medium.com/p/b7b434023911) |
 | Tue, 08 Jul 2025 04:49:58 GMT | From Bathroom Signs to Code: When Should Developers Dare to Touch What’s Already Working? | Colin | [Read More](https://medium.com/p/74a535d94323) |
-| Tue, 08 Jul 2025 04:41:48 GMT | Security Master Planning with DSP: Every Angle Covered | Reviews | [Read More](https://medium.com/p/6c495846349b) |
-| Tue, 08 Jul 2025 04:36:48 GMT | Today’s Top Cyber Intelligence Highlights — Jul 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/897b17af3f26) |
-| Tue, 08 Jul 2025 04:36:01 GMT | Is Exploit Shell-coding Still Relevant in 2025? | The Hackers Meetup | [Read More](https://medium.com/p/0ba7eb61fee7) |
-| Tue, 08 Jul 2025 04:32:10 GMT | Prompt Engineering for Cloud Engineers: Make GPT Do the Heavy Lifting | Paritosh | [Read More](https://medium.com/p/55e7c27b915b) |
