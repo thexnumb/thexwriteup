@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 17:10:00 GMT | Building an Anomaly Detection Lab for Cybersecurity Logs Using Isolation Forest & Azure. | graciegue | [Read More](https://medium.com/p/92b3ef4486e0) |
+| Tue, 08 Jul 2025 17:07:23 GMT | The AI That Hacked a Bank — And Never Touched Malware | Sneha Rani | [Read More](https://medium.com/p/b1d456d40086) |
+| Tue, 08 Jul 2025 17:02:25 GMT | Selection Pressures: The Hidden Force Shaping AI’s Future | gema.parreno.piqueras | [Read More](https://medium.com/p/50ac832ab2f6) |
+| Tue, 08 Jul 2025 17:02:06 GMT | Title: Beefing Up Windows 10 Security with CIS-CAT – My Hands-On Deep Dive | Sumitkhurpade | [Read More](https://medium.com/p/05c0ddc4f4c2) |
+| Tue, 08 Jul 2025 16:59:15 GMT | Quantum Reboot — Chapter 6 | Alex Brox | [Read More](https://medium.com/p/c8d319a03e5e) |
+| Tue, 08 Jul 2025 16:52:49 GMT | Authentication Flows Explained: Passwordless, Magic Links, OAuth, and OTP | Lakshaykapoor | [Read More](https://medium.com/p/f22aff3d38cc) |
+| Tue, 08 Jul 2025 16:52:31 GMT | From Vulnerable to Vigilant: Building Cyber Resilience in Insurance and Healthcare | Cory Smith | [Read More](https://medium.com/p/12a1f0b85d6f) |
+| Tue, 08 Jul 2025 16:51:53 GMT | Why Cybersecurity Matters More Than Ever in 2025 | Anirudh PV | [Read More](https://medium.com/p/1659392fb7cb) |
+| Tue, 08 Jul 2025 16:49:00 GMT | Flash USDT – Learn the Truth Behind the Display | Ken | [Read More](https://medium.com/p/2088dfab24a8) |
+| Tue, 08 Jul 2025 16:47:14 GMT | Living Memory Attacks: Code Injection Without Files | zerOiQ | [Read More](https://medium.com/p/aed0da3a466b) |
+| Tue, 08 Jul 2025 16:46:36 GMT | 資安新鮮人也該懂的 Security+ 概念 一一 以顧問的角度出發 | ITmanLarry | [Read More](https://medium.com/p/7fab3647c17a) |
+| Tue, 08 Jul 2025 16:43:29 GMT | How Flash USDT Can Be Misunderstood | Ken | [Read More](https://medium.com/p/7ba1fff87452) |
 | Tue, 08 Jul 2025 16:32:52 GMT | Digitale Transformation 2025: Der Ultimative Readiness-Roadmap für Entscheidungsträger | Philip Hansen | [Read More](https://medium.com/p/55b1b53e93c3) |
 | Tue, 08 Jul 2025 16:32:50 GMT | How Flash USDT Can Be Misunderstood | Tamoy | [Read More](https://medium.com/p/c1c914cdd765) |
 | Tue, 08 Jul 2025 16:32:17 GMT | Digitale Ökosysteme: Der strategische Roadmap für Unternehmenswachstum in 2025 | Philip Hansen | [Read More](https://medium.com/p/48131009c414) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 12:33:02 GMT | We Are Connected: The Birth of Cyberpsychoneurology | Mohammed Hasan | [Read More](https://medium.com/p/d807f0dcd80a) |
 | Tue, 08 Jul 2025 12:32:02 GMT | Cloud Security Posture Management: What is CSPM? | Christopher | [Read More](https://medium.com/p/98c2a395b9c6) |
 | Tue, 08 Jul 2025 12:30:49 GMT | Rethinking Cybersecurity: Stop protecting infrastructure. start protecting people. | Pavlović Goran | [Read More](https://medium.com/p/da52cabc0531) |
-| Tue, 08 Jul 2025 12:28:36 GMT | ❌ Why You’re Not Getting Hired in Cybersecurity in 2025 (And How to Fix It) | S3CloudHub | [Read More](https://medium.com/p/2811ee729623) |
-| Tue, 08 Jul 2025 12:21:27 GMT | Cybersecurity Is a Journey, Not a Destination — Insights from CyberSigma’s Co-Founder | CyberSigma Consulting Services | [Read More](https://medium.com/p/80fc81048a40) |
-| Tue, 08 Jul 2025 12:19:44 GMT | BigQuery meets ADK: 10 tips to safeguard your data (and wallet) from agents | Rachael Deacon-smith | [Read More](https://medium.com/p/8c8ea72a9d4e) |
-| Tue, 08 Jul 2025 12:16:33 GMT | What Is Ethical Hacking and How Does It Work? | Chitra Mishra | [Read More](https://medium.com/p/843b6aa7eede) |
-| Tue, 08 Jul 2025 12:14:26 GMT | Backlink-Free SEO: How To Rank Content Without Links | Ecuzenmarketing | [Read More](https://medium.com/p/4ede0e3140eb) |
-| Tue, 08 Jul 2025 12:14:21 GMT | How You Can Build a Real Threat Intelligence Honeypot | 0xasmaa | [Read More](https://medium.com/p/ed7cf4259912) |
-| Tue, 08 Jul 2025 12:08:05 GMT | Event Security Services | Titan Global Seo | [Read More](https://medium.com/p/404e34c893be) |
-| Tue, 08 Jul 2025 12:07:16 GMT | The Silent Saboteurs: Biomedical Devices Still Running Firmware from 2006 | Travis Ray Caverhill | [Read More](https://medium.com/p/57be0f4cc0ef) |
-| Tue, 08 Jul 2025 12:01:50 GMT | The Fifth Failure: Rebuilding Command When Everything Answers to Code | James Kuhman | [Read More](https://medium.com/p/424f4d127260) |
-| Tue, 08 Jul 2025 12:00:49 GMT | Expert Garden Security Light Fitting Cambridgeshire — Keep Your Outdoors Safe | Glowbolt | [Read More](https://medium.com/p/83fd96320ea3) |
-| Tue, 08 Jul 2025 12:00:32 GMT | AI-Powered Hacking: The New Cybersecurity Nightmare | Haniakhan | [Read More](https://medium.com/p/e1b5f90a00cf) |
-| Tue, 08 Jul 2025 11:58:46 GMT | Deploying Azure Firewall with AZD: A Practical Guide to Securing Cloud Networks | Dave R - Microsoft Azure & AI MVP☁️ | [Read More](https://medium.com/p/456281e24de5) |
