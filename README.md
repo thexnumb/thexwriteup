@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 10:19:36 GMT | HackTheBox Sherlock: Meerkat Writeup and Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/09d9fb41e9d2) |
+| Tue, 08 Jul 2025 10:17:06 GMT | A composite indicator for Tourism Market Vulnerability | mona masoumi | [Read More](https://medium.com/p/abe6a11f8900) |
+| Tue, 08 Jul 2025 10:11:40 GMT | The Google Cybersecurity Certificate: Was It Worth It? (Spoiler: Yes) | Ejike Etolue | [Read More](https://medium.com/p/69d4ea2f3132) |
+| Tue, 08 Jul 2025 10:00:34 GMT | [CyberDefenders Write-up] Trigona Ransomware (Initial Access via RDP, RDP to share server and… | Chicken0248 | [Read More](https://medium.com/p/b683239f316b) |
+| Tue, 08 Jul 2025 09:52:58 GMT | Challenge: findme (Web Exploitation) | Yash4Vulnerable | [Read More](https://medium.com/p/e3fa59cea419) |
+| Tue, 08 Jul 2025 09:46:12 GMT | LDAP Injection in Symfony: How to Detect & Fix | Pentest_Testing_Corp | [Read More](https://medium.com/p/3b217f26adf1) |
+| Tue, 08 Jul 2025 09:43:24 GMT | Ultra-Realistic Deepfakes: Understanding the Evolving Threat Landscape in the Age of GenAI | noailabs | [Read More](https://medium.com/p/7c04c80e19f9) |
+| Tue, 08 Jul 2025 09:38:35 GMT | SPLUNK (1) | VICTUS(RQ) | [Read More](https://medium.com/p/22cb1ab2edcd) |
+| Tue, 08 Jul 2025 09:36:00 GMT | Why Cybersecurity and Network Security Skills Are More Critical Than Ever in 2025 | Roshan akthar | [Read More](https://medium.com/p/4d681c16df43) |
+| Tue, 08 Jul 2025 09:34:48 GMT | Part 2: Attack Simulation and Detection in AWS Using Stratus Red Team | Jawher Mastour | [Read More](https://medium.com/p/375377a843e6) |
 | Tue, 08 Jul 2025 09:31:08 GMT | Pynesec Achieves ISO 27001 Certification: A Milestone in Cybersecurity Excellence | Pynesec | [Read More](https://medium.com/p/d34765e7fcaf) |
 | Tue, 08 Jul 2025 09:28:47 GMT | How Great Learning Helped Two Professionals Navigate Their Way into Cybersecurity Without a Roadmap | Great Learning | [Read More](https://medium.com/p/a3ca43211472) |
 | Tue, 08 Jul 2025 09:20:26 GMT | Port Forwarding, Tunneling, and Pivoting Tools Every Pentester Should Know | Ria Banerjee | [Read More](https://medium.com/p/3f05c12e202b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 05:38:57 GMT | Why API Rate Limiting Is a Lie — and How Attackers Abuse It | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1d5cdeb3a0d9) |
 | Tue, 08 Jul 2025 05:35:30 GMT | Hvordan udnytter vi open source? | Walther H. Diechmann | [Read More](https://medium.com/p/d6e9a020d2a3) |
 | Tue, 08 Jul 2025 05:31:16 GMT | Phishing Attacks: Are They Truly Avoidable? | Adeesha Savinda de Silva | [Read More](https://medium.com/p/9a9810f1807b) |
-| Tue, 08 Jul 2025 05:30:37 GMT | Misconfiguration Vulnerabilities Are Still Alive — Here’s Why It Matters | Narendar Battula (nArEn) | [Read More](https://medium.com/p/81e910e88662) |
-| Tue, 08 Jul 2025 05:19:17 GMT | Matthew Sayle, Georgia Gazette, Jennifer Feathers, Allegations of Misconduct by Courtney Parker PhD | Dr. Courtney Parker — Hall County, GA | [Read More](https://medium.com/p/92fd202b7e1c) |
-| Tue, 08 Jul 2025 05:12:28 GMT | Conti TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/54227d34d0e9) |
-| Tue, 08 Jul 2025 05:07:59 GMT | What Is a GRC Platform? Complete Guide to Governance, Risk & Compliance | Gauri Kale | [Read More](https://medium.com/p/b41ad6360f26) |
-| Tue, 08 Jul 2025 05:07:44 GMT | Understanding and Mitigating Reflected File Download (RFD) Vulnerabilities | Rahul M S | [Read More](https://medium.com/p/af95d47952aa) |
-| Tue, 08 Jul 2025 05:02:50 GMT | The Linux Security Journey — TCP Wrappers | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/845bc7cc05aa) |
-| Tue, 08 Jul 2025 05:02:03 GMT | AI Powered C2 Server | AbhirupKonwar | [Read More](https://medium.com/p/1d50ccdc9557) |
-| Tue, 08 Jul 2025 04:53:35 GMT | Discover the Dark Web Like Never Before — With Real Onion Links | adityaax | [Read More](https://medium.com/p/c67b372b513c) |
-| Tue, 08 Jul 2025 04:50:58 GMT | Burning Your Digital Footprint: How to Re-Enter the US Without Losing Your Freedom | Erik Blair | [Read More](https://medium.com/p/b7b434023911) |
-| Tue, 08 Jul 2025 04:49:58 GMT | From Bathroom Signs to Code: When Should Developers Dare to Touch What’s Already Working? | Colin | [Read More](https://medium.com/p/74a535d94323) |
