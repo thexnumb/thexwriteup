@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 06:23:24 GMT | Looking for an IT Managed Service Provider Near Me? Here’s Why PCI Services Is the Right Choice | Zebaq | [Read More](https://medium.com/p/d01c546035d6) |
+| Tue, 08 Jul 2025 06:20:43 GMT | XSS Attack Types Explained — and How SafeLine WAF Stops Them | Quella | [Read More](https://medium.com/p/2c01796158a4) |
+| Tue, 08 Jul 2025 06:10:46 GMT | How WormGPT and FraudGPT Are Fueling the Rise of AI-Powered Cybercrime | TheReviewHive | [Read More](https://medium.com/p/b5afbd9dfd7f) |
+| Tue, 08 Jul 2025 06:03:02 GMT | Meet DhaViPa: The Cybersecurity Chatbot That Speaks Your Language | Ronit Paikray | [Read More](https://medium.com/p/d2877975ccb9) |
+| Tue, 08 Jul 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Jul 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/2026366ba761) |
+| Tue, 08 Jul 2025 05:59:19 GMT | Top 15 High-Demand Cyber Security Jobs in India for 2025 | Simplilearn | [Read More](https://medium.com/p/75d561d46aeb) |
+| Tue, 08 Jul 2025 05:58:12 GMT | The Quantum Effect That’s Already Breaking Your Everyday Encryption | Coders Stop | [Read More](https://medium.com/p/ba3ffa131301) |
+| Tue, 08 Jul 2025 05:53:40 GMT | How to Choose a Reliable Managed IT Provider in Irvine | Everconnect | [Read More](https://medium.com/p/d7860ec4054b) |
+| Tue, 08 Jul 2025 05:53:33 GMT | KloudPortal Emerging Tech Services: AI, Blockchain, IoT | Kloudportal4 | [Read More](https://medium.com/p/2dc0a18bd018) |
+| Tue, 08 Jul 2025 05:51:06 GMT | Not a Finding, But a Reflection | callgh0st | [Read More](https://medium.com/p/12de6a1ad473) |
+| Tue, 08 Jul 2025 05:50:35 GMT | Advanced Threat Detection & Security Services - KlouPortal | Clodgater | [Read More](https://medium.com/p/232a1564edee) |
+| Tue, 08 Jul 2025 05:46:54 GMT | How to Automate API Recon Like a Beast (with Burp Suite, Postman, and AI) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7de80f861c3b) |
 | Tue, 08 Jul 2025 05:38:57 GMT | Why API Rate Limiting Is a Lie — and How Attackers Abuse It | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1d5cdeb3a0d9) |
 | Tue, 08 Jul 2025 05:31:16 GMT | Phishing Attacks: Are They Truly Avoidable? | Adeesha Savinda de Silva | [Read More](https://medium.com/p/9a9810f1807b) |
 | Tue, 08 Jul 2025 05:30:37 GMT | Misconfiguration Vulnerabilities Are Still Alive — Here’s Why It Matters | Narendar Battula (nArEn) | [Read More](https://medium.com/p/81e910e88662) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 07 Jul 2025 21:07:53 GMT | Nmap Post Port Scans — TryHackMe | sercan timocin | [Read More](https://medium.com/p/4784a5d34d97) |
 | Mon, 07 Jul 2025 21:05:39 GMT | Mastering SIEM: Optimization Strategies and Practical Tools for Entry-Level Analysts | Analyst Atlas | [Read More](https://medium.com/p/54b6026e41ff) |
 | Mon, 07 Jul 2025 21:04:10 GMT | Ransomware Attack on Ingram Micro Exposes Fragility in Global IT Distribution Chain | RealSec.io | [Read More](https://medium.com/p/3fab2a2b475f) |
-| Mon, 07 Jul 2025 21:03:58 GMT | Unity is the Best Weapon against Crime & Terrorism — 10 Research Paper | MuhammadAsim-GlobalProgressVolunteer | [Read More](https://medium.com/p/aab294c518d9) |
-| Mon, 07 Jul 2025 20:46:58 GMT | Steps to improve insider threat detection for small business | IT_Engineer | [Read More](https://medium.com/p/86096c461d2a) |
-| Mon, 07 Jul 2025 20:43:29 GMT | (LLM injection) Bypass payment in Chat GPT | ramzey elsayed mohamed | [Read More](https://medium.com/p/34b194d1210a) |
-| Mon, 07 Jul 2025 20:36:12 GMT | Shining Dragon: The Digital Perfection Behind The Great Wall | Onurcan Genç | [Read More](https://medium.com/p/e9171719b1f8) |
-| Mon, 07 Jul 2025 20:23:15 GMT | Ağ Donanımları (Network Devices) | g.o. | [Read More](https://medium.com/p/94c1092a2885) |
-| Mon, 07 Jul 2025 20:18:07 GMT | RotaJakiro Writeup — Cyberdefenders’ Lab | Riad Moudjahed | [Read More](https://medium.com/p/712f7f31edfe) |
-| Mon, 07 Jul 2025 20:14:25 GMT | Keeping An Eye Out For Internet Scams: Signs and Warnings | Savvy Cyber Kids | [Read More](https://medium.com/p/2d3fd6d32139) |
-| Mon, 07 Jul 2025 20:14:00 GMT | Cyberbullying and Youth | Savvy Cyber Kids | [Read More](https://medium.com/p/f0e2d3723643) |
-| Mon, 07 Jul 2025 20:13:40 GMT | The Attacks in Israel as Seen on Social Media: A Reminder to Contextualize Violence for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/b7853a080667) |
-| Mon, 07 Jul 2025 20:03:37 GMT | A concise artificial intelligence (AI) governance checklist for ISO 27001:2022 compliance, with a… | Aaron Rusz | [Read More](https://medium.com/p/93bce3e9b3fd) |
-| Mon, 07 Jul 2025 20:00:37 GMT | SQL Injection & SQLMap: The Ultimate Guide That Actually Works | Santhosh Adiga U | [Read More](https://medium.com/p/54f658cae8d4) |
-| Mon, 07 Jul 2025 19:47:42 GMT | DNS in Cybersecurity: What I Learned When a Website Didn’t Load | NineTales | [Read More](https://medium.com/p/6707087616c1) |
