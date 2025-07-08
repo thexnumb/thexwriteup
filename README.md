@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 19:29:29 GMT | [SWU CTF2025] Writeups — Final Round | kpakkawat | [Read More](https://medium.com/p/b24bc16f9b31) |
+| Tue, 08 Jul 2025 19:23:34 GMT | Think Like a Hacker Before a Hacker Thinks Like You | Akshay Chauhan | [Read More](https://medium.com/p/4d7aae2318ae) |
+| Tue, 08 Jul 2025 19:20:39 GMT | The Art of Building Small: Why Our MVP Isn’t Trying to Save the World (Yet) | Solo Recon | [Read More](https://medium.com/p/051e043f3404) |
 | Tue, 08 Jul 2025 19:13:41 GMT | Cybersecurity for Children: 5 Simple Practices Every Family Should Adopt | Paulo Quaresma | [Read More](https://medium.com/p/1f0076acc7fb) |
 | Tue, 08 Jul 2025 19:01:23 GMT | SQLMAP TryHackMe Walkthrough | Rushikesh G | [Read More](https://medium.com/p/bf80aadce20f) |
 | Tue, 08 Jul 2025 19:01:03 GMT | What Defenders Need to Know From Last Week’s Threat Intel | Percy Edward | [Read More](https://medium.com/p/dccd8163fcca) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 14:02:24 GMT | Building a Stronger Security Culture: Cybersecurity in Ontario’s Hybrid Work Era | Zeta Sky | [Read More](https://medium.com/p/f12bb6636859) |
 | Tue, 08 Jul 2025 14:02:24 GMT | The Future of Healthcare IT: How Cloud Hosted Servers Ensure Security and Compliance | PCnet | [Read More](https://medium.com/p/ff350b7cfcf1) |
 | Tue, 08 Jul 2025 14:02:12 GMT | Google and Microsoft Trusted Them. 2.3 Million Users Installed Them. They Were Malware. | Idan Dardikman | [Read More](https://medium.com/p/fb4ed4f40ff5) |
-| Tue, 08 Jul 2025 13:59:34 GMT | Cyber Briefing: 2025.07.08 | CyberMaterial | [Read More](https://medium.com/p/db21caef8bca) |
-| Tue, 08 Jul 2025 13:58:19 GMT | HTB Season 7 EscapeTwo Writeup | Suvam Barui aka  0xAxel0rd | [Read More](https://medium.com/p/92be8b0ca096) |
-| Tue, 08 Jul 2025 13:58:10 GMT | Roads and Fences in the Sky: Designing for Drone Safety and Scale (Part 1) | Ryan Lee | [Read More](https://medium.com/p/f8de04398c17) |
