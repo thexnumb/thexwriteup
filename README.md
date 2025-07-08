@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 16:24:38 GMT | PortSwigger Lab: Brute-forcing a stay-logged-in cookie writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/9eb87d0cd111) |
+| Tue, 08 Jul 2025 16:19:00 GMT | Malicious Cyber-Actors Use AI to Impersonate Secretary of State Marco Rubio | Michael LiCastri | [Read More](https://medium.com/p/0382250b24ed) |
+| Tue, 08 Jul 2025 16:16:27 GMT | PortSwigger Lab: 2FA broken logic writeup (Authentication Vulnerabilitie | awes0meness | [Read More](https://medium.com/p/9616d76a3450) |
+| Tue, 08 Jul 2025 16:09:57 GMT | SOC 2 Compliance: Why It Matters and How to Achieve It | SafeAeon Inc. | [Read More](https://medium.com/p/7fd3f8451b8e) |
+| Tue, 08 Jul 2025 16:04:02 GMT | Scatter Spider collected domain names | Damion Waltermeyer | [Read More](https://medium.com/p/be81286b7871) |
+| Tue, 08 Jul 2025 16:03:59 GMT | Top Cyber Security Academy in Thrissur — Learn from the Experts at Cyber Echelon | elevx solutions | [Read More](https://medium.com/p/563fdd081f49) |
+| Tue, 08 Jul 2025 16:00:49 GMT | Post CyberTitan 2025 thoughts | August Lam | [Read More](https://medium.com/p/efddbfd64da8) |
+| Tue, 08 Jul 2025 16:00:20 GMT | Why You Should Outsource SOC to Strengthen Your Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/ef8aac7ff74a) |
+| Tue, 08 Jul 2025 15:56:21 GMT | How It Becomes Easier to Express in Metaphors | Kondapalli Koyal | [Read More](https://medium.com/p/db71be329673) |
+| Tue, 08 Jul 2025 15:56:06 GMT | Securing DHCP — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/cdffcdb9de74) |
+| Tue, 08 Jul 2025 15:56:00 GMT | What is a Fallback Attack in Smart Contracts? | Cyberscope, a TAC Security Company | [Read More](https://medium.com/p/11aa5e29c034) |
+| Tue, 08 Jul 2025 15:51:13 GMT | Zip Bomb: The Tiny File That Can Destroy Big Systems | SafeAeon Inc. | [Read More](https://medium.com/p/01efa1befe68) |
+| Tue, 08 Jul 2025 15:45:18 GMT | INIT (Pvt.) Ltd and Apprise Cyber Partner to Secure the Future of Digital Business | Muhammad Inam Abbasi | [Read More](https://medium.com/p/808962ad2eae) |
+| Tue, 08 Jul 2025 15:43:15 GMT | To the Men Who Don’t Fit the Mold — — — I See You | Wincentanunidhi | [Read More](https://medium.com/p/0081a5a15953) |
 | Tue, 08 Jul 2025 15:30:02 GMT | TryHackMe - Windows User Account Forensics - WriteUp | Axoloth | [Read More](https://medium.com/p/168683fe2f21) |
 | Tue, 08 Jul 2025 15:27:58 GMT | Web Application Firewall (WAF) Bypass Techniques that Work in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b11861b2767b) |
 | Tue, 08 Jul 2025 15:27:25 GMT | This Hidden Recon Tool Is a Game-Changer for Bug Bounty Hunters — And It Has a Killer Free Tier | hacker_might | [Read More](https://medium.com/p/a022c74771b0) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 11:36:14 GMT | Kubernetes Made Simple : Part — 1 | Faris Shabibi | [Read More](https://medium.com/p/006df5d3cc15) |
 | Tue, 08 Jul 2025 11:32:57 GMT | Is your phone acting weird? Here’s what might be going on. | resident of the Cosmos | [Read More](https://medium.com/p/f923d8bb7361) |
 | Tue, 08 Jul 2025 11:32:16 GMT | An Open Letter to the Indian IT Industry: The Urgent Need for Standardized Competency Assessment | Ajay Singh Thakur | [Read More](https://medium.com/p/ab78e27c4ea5) |
-| Tue, 08 Jul 2025 11:30:46 GMT | TryHackMe Adventure Time — Walkthrough | mauzware | [Read More](https://medium.com/p/5fabde4c19b5) |
-| Tue, 08 Jul 2025 11:23:07 GMT | Are you confident your data won’t be exposed when using AI? | Elliot Morris | [Read More](https://medium.com/p/5a52c3e60960) |
-| Tue, 08 Jul 2025 11:16:59 GMT | Sendmail Exploit Walkthrough: CVE‑2007‑4560 | Nail Gozalov | [Read More](https://medium.com/p/41aa038ada9e) |
-| Tue, 08 Jul 2025 11:16:55 GMT | Data Engineering on AWS: Data Governance, Security, and Cataloging | Joud W. Awad | [Read More](https://medium.com/p/bb4a6f6c188e) |
-| Tue, 08 Jul 2025 11:15:40 GMT | Path Traversal part-5 : validation of start of path | Ahmad Sopyan | [Read More](https://medium.com/p/ab6230d54ce3) |
-| Tue, 08 Jul 2025 11:14:44 GMT | Accessing the phpMyAdmin page on Kali from a Metasploitable 2 machine | jamal | [Read More](https://medium.com/p/1ca510c458a9) |
-| Tue, 08 Jul 2025 11:11:02 GMT | Mr Robot CTF | Courtney | [Read More](https://medium.com/p/745b4b58cb2f) |
-| Tue, 08 Jul 2025 11:09:59 GMT | Building Fortress: The Power of Positive Security Models | Olha Stefanishyna | [Read More](https://medium.com/p/c936357e54cd) |
-| Tue, 08 Jul 2025 11:08:35 GMT | xss0r V5 Golden Plan — 7 Days FREE For Everyone! No Credit Card Needed | xss0r | [Read More](https://medium.com/p/29811519fd94) |
-| Tue, 08 Jul 2025 11:06:49 GMT | Why Cybersecurity Solutions Are Essential for Your Business Protection? | MobcoderCOM | [Read More](https://medium.com/p/81d1f611f329) |
-| Tue, 08 Jul 2025 11:02:13 GMT | Vulnerabilities may be inevitable — but they’re not unpreventable. | Sammcmullen | [Read More](https://medium.com/p/59aa0975ea78) |
-| Tue, 08 Jul 2025 11:01:18 GMT | Masculinity in the Modern World: How Vulnerability Became My Strength | Nivethan Mahendrarajah | [Read More](https://medium.com/p/e2ecf38be499) |
-| Tue, 08 Jul 2025 10:58:16 GMT | Microsoft Lays Off ~9,000 Employees Amid AI Pivot | Hafizbilaltariq | [Read More](https://medium.com/p/e03f59a51c6b) |
-| Tue, 08 Jul 2025 10:57:29 GMT | Top 100 Web & API Vulnerabilities Every Bug Bounty Hunter Must Know in 2025 | Pratham Shah | [Read More](https://medium.com/p/fe51499bbb4e) |
