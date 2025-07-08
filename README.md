@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 14:35:45 GMT | OKX, Time Token, FCN-TRUST: Another Week, Another Set of Unchecked Assumptions | Olympix | [Read More](https://medium.com/p/23bb8380ffb5) |
+| Tue, 08 Jul 2025 14:31:42 GMT | TLS/SSL Weaknesses and Protocol-Based Attack Scenarios | Esra Kayhan | [Read More](https://medium.com/p/b7510df7f9c2) |
+| Tue, 08 Jul 2025 14:26:52 GMT | Cork, ResupplyFi, Meta Pool: Hookless, Priceless, and Permissionless Losses | Olympix | [Read More](https://medium.com/p/deab87623339) |
+| Tue, 08 Jul 2025 14:25:41 GMT | You Share Photos Online? Here’s What You Don’t Know (And How to Protect Yourself) | Gravyt1 | [Read More](https://medium.com/p/4c642a6362af) |
+| Tue, 08 Jul 2025 14:24:34 GMT | From University to the IT World: My Journey into a Cybersecurity Intern and IT Support | Logan Reva | [Read More](https://medium.com/p/1be81bd46a72) |
+| Tue, 08 Jul 2025 14:20:15 GMT | The Invisible Threat | Gravyt1 | [Read More](https://medium.com/p/3487bc15fc6d) |
 | Tue, 08 Jul 2025 14:11:49 GMT | Modern Protection: IP Surveillance & Physical Security Solutions | INHAND DESIGN & WEB | [Read More](https://medium.com/p/f9ef5765a0ea) |
+| Tue, 08 Jul 2025 14:08:36 GMT | ️ From Locked-Out to Terminal-Pilled: How a Windows Meltdown Pushed Me Into Linux (and Shell) | Vivek Karmarkar | [Read More](https://medium.com/p/aeb698fe3292) |
 | Tue, 08 Jul 2025 14:02:24 GMT | Building a Stronger Security Culture: Cybersecurity in Ontario’s Hybrid Work Era | Zeta Sky | [Read More](https://medium.com/p/f12bb6636859) |
 | Tue, 08 Jul 2025 14:02:24 GMT | The Future of Healthcare IT: How Cloud Hosted Servers Ensure Security and Compliance | PCnet | [Read More](https://medium.com/p/ff350b7cfcf1) |
 | Tue, 08 Jul 2025 14:02:12 GMT | Google and Microsoft Trusted Them. 2.3 Million Users Installed Them. They Were Malware. | Idan Dardikman | [Read More](https://medium.com/p/fb4ed4f40ff5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 09:46:12 GMT | LDAP Injection in Symfony: How to Detect & Fix | Pentest_Testing_Corp | [Read More](https://medium.com/p/3b217f26adf1) |
 | Tue, 08 Jul 2025 09:43:24 GMT | Ultra-Realistic Deepfakes: Understanding the Evolving Threat Landscape in the Age of GenAI | noailabs | [Read More](https://medium.com/p/7c04c80e19f9) |
 | Tue, 08 Jul 2025 09:38:35 GMT | SPLUNK (1) | VICTUS(RQ) | [Read More](https://medium.com/p/22cb1ab2edcd) |
-| Tue, 08 Jul 2025 09:36:00 GMT | Why Cybersecurity and Network Security Skills Are More Critical Than Ever in 2025 | Roshan akthar | [Read More](https://medium.com/p/4d681c16df43) |
-| Tue, 08 Jul 2025 09:34:48 GMT | Part 2: Attack Simulation and Detection in AWS Using Stratus Red Team | Jawher Mastour | [Read More](https://medium.com/p/375377a843e6) |
-| Tue, 08 Jul 2025 09:31:08 GMT | Pynesec Achieves ISO 27001 Certification: A Milestone in Cybersecurity Excellence | Pynesec | [Read More](https://medium.com/p/d34765e7fcaf) |
-| Tue, 08 Jul 2025 09:28:47 GMT | How Great Learning Helped Two Professionals Navigate Their Way into Cybersecurity Without a Roadmap | Great Learning | [Read More](https://medium.com/p/a3ca43211472) |
-| Tue, 08 Jul 2025 09:20:26 GMT | Port Forwarding, Tunneling, and Pivoting Tools Every Pentester Should Know | Ria Banerjee | [Read More](https://medium.com/p/3f05c12e202b) |
-| Tue, 08 Jul 2025 09:16:49 GMT | How Two Hidden Sudo Flaws Could Let Anyone Become Root — And How to Lock It Down | CyBlog | [Read More](https://medium.com/p/61324f208c60) |
-| Tue, 08 Jul 2025 09:14:49 GMT | Saturday Edition — General Cyber News Summary — 05/07/25 | SecurityPulse News | [Read More](https://medium.com/p/9f470655d8e8) |
