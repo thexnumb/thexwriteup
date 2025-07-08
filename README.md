@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 11:32:57 GMT | Is your phone acting weird? Here’s what might be going on. | resident of the Cosmos | [Read More](https://medium.com/p/f923d8bb7361) |
+| Tue, 08 Jul 2025 11:30:46 GMT | TryHackMe Adventure Time — Walkthrough | mauzware | [Read More](https://medium.com/p/5fabde4c19b5) |
+| Tue, 08 Jul 2025 11:23:07 GMT | Are you confident your data won’t be exposed when using AI? | Elliot Morris | [Read More](https://medium.com/p/5a52c3e60960) |
 | Tue, 08 Jul 2025 11:16:59 GMT | Sendmail Exploit Walkthrough: CVE‑2007‑4560 | Nail Gozalov | [Read More](https://medium.com/p/41aa038ada9e) |
 | Tue, 08 Jul 2025 11:16:55 GMT | Data Engineering on AWS: Data Governance, Security, and Cataloging | Joud W. Awad | [Read More](https://medium.com/p/bb4a6f6c188e) |
 | Tue, 08 Jul 2025 11:15:40 GMT | Path Traversal part-5 : validation of start of path | Ahmad Sopyan | [Read More](https://medium.com/p/ab6230d54ce3) |
+| Tue, 08 Jul 2025 11:14:44 GMT | Accessing the phpMyAdmin page on Kali from a Metasploitable 2 machine | jamal | [Read More](https://medium.com/p/1ca510c458a9) |
 | Tue, 08 Jul 2025 11:11:02 GMT | Mr Robot CTF | Courtney | [Read More](https://medium.com/p/745b4b58cb2f) |
 | Tue, 08 Jul 2025 11:09:59 GMT | Building Fortress: The Power of Positive Security Models | Olha Stefanishyna | [Read More](https://medium.com/p/c936357e54cd) |
 | Tue, 08 Jul 2025 11:08:35 GMT | xss0r V5 Golden Plan — 7 Days FREE For Everyone! No Credit Card Needed | xss0r | [Read More](https://medium.com/p/29811519fd94) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 07:08:08 GMT | INTRODUCTION TO NETWORK | Alestin shelmon | [Read More](https://medium.com/p/061f27979840) |
 | Tue, 08 Jul 2025 07:05:08 GMT | Most Developers Miss This Simple Frontend Security Trick: Secure Headers | Arya Mehta | [Read More](https://medium.com/p/29a9cf231094) |
 | Tue, 08 Jul 2025 07:02:54 GMT | Easy2Patch’s July 5 Catalog Refresh: Stay Resilient with 90 Third-Party Updates | Easy2Patch | [Read More](https://medium.com/p/93e762250cd8) |
-| Tue, 08 Jul 2025 07:02:53 GMT | Monitoring Privileged Group Changes in Active Directory: A Core Security Practice | Arksoft | [Read More](https://medium.com/p/e7853c0af1e7) |
-| Tue, 08 Jul 2025 07:02:08 GMT | Making Sense of Spring Security: Why So Many Components and What They Actually Do | Nikita Blud | [Read More](https://medium.com/p/31af0ed8568e) |
-| Tue, 08 Jul 2025 06:59:34 GMT | Remcos RAT — 2018 nümunəsi üzərindən statik və dinamik analiz | Elmin Farzaliyev | [Read More](https://medium.com/p/f7affa29910c) |
-| Tue, 08 Jul 2025 06:58:21 GMT | Beginner’s Guide to Cybersecurity: How to Stay Safe Online | Raisha Khan | [Read More](https://medium.com/p/d806b0432131) |
