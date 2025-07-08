@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 22:13:26 GMT | The 4-Digit Code That Almost Took Down a Water Facility | Cyber-AppSec | [Read More](https://medium.com/p/723e7488b87b) |
+| Tue, 08 Jul 2025 22:09:58 GMT | Day 44: The Ethernet Protocol | Nile Okomo | [Read More](https://medium.com/p/e185f4bb5120) |
+| Tue, 08 Jul 2025 21:55:24 GMT | A Quiet Start | Sentinel Theory | [Read More](https://medium.com/p/1bee31a13ebc) |
+| Tue, 08 Jul 2025 21:48:25 GMT | How I Unlocked Windows Without a Password — The Right Way | Gayathri | [Read More](https://medium.com/p/956e270221f8) |
+| Tue, 08 Jul 2025 21:32:06 GMT | TryHackMe — Steel Mountain | Cyber Anom | [Read More](https://medium.com/p/9aabc1ef42fb) |
 | Tue, 08 Jul 2025 21:31:40 GMT | How the Metaverse works | Ebuka Nkoro | [Read More](https://medium.com/p/fc16bb1280fd) |
 | Tue, 08 Jul 2025 21:29:20 GMT | Setting Up TheHive on Ubuntu with Docker | Neetrox | [Read More](https://medium.com/p/4de741139f7b) |
 | Tue, 08 Jul 2025 21:26:01 GMT | How to use JWT ( json web tokens ) in python. | Muhammad Ahssan | [Read More](https://medium.com/p/b4768acaeea1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 15:27:58 GMT | Web Application Firewall (WAF) Bypass Techniques that Work in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b11861b2767b) |
 | Tue, 08 Jul 2025 15:27:25 GMT | This Hidden Recon Tool Is a Game-Changer for Bug Bounty Hunters — And It Has a Killer Free Tier | hacker_might | [Read More](https://medium.com/p/a022c74771b0) |
 | Tue, 08 Jul 2025 15:27:02 GMT | The Host Header Injection Hack — Silent Takeovers & Secret Access | Đeepanshu | [Read More](https://medium.com/p/1e46908b9578) |
-| Tue, 08 Jul 2025 15:26:53 GMT | The Bug Bounty Program Litmus Test: 5 Red Flags to Avoid Wasting Your Time | Andrei Ivan | [Read More](https://medium.com/p/1adc0034de43) |
-| Tue, 08 Jul 2025 15:25:09 GMT | How to Test the Real-World Defense of SafeLine WAF with Its Public Demo | Maverick Steel | [Read More](https://medium.com/p/5512e351abfb) |
-| Tue, 08 Jul 2025 15:15:07 GMT | HTTP vs HTTPS (for Hackers): The Locks, the Leaks, and the Lessons | Goose Gustin | [Read More](https://medium.com/p/f680bc157486) |
-| Tue, 08 Jul 2025 15:10:04 GMT | Strait of Hormuz Tensions(Analysis) | Ramsha Ali | [Read More](https://medium.com/p/bca8f34644a3) |
-| Tue, 08 Jul 2025 15:09:13 GMT | Rise of the AI-Powered Attack - Marks and Spencer | K O M A L | [Read More](https://medium.com/p/b3f10cd2d611) |
