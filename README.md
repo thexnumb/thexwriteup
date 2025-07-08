@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 08 Jul 2025 14:11:49 GMT | Modern Protection: IP Surveillance & Physical Security Solutions | INHAND DESIGN & WEB | [Read More](https://medium.com/p/f9ef5765a0ea) |
+| Tue, 08 Jul 2025 14:02:24 GMT | Building a Stronger Security Culture: Cybersecurity in Ontario’s Hybrid Work Era | Zeta Sky | [Read More](https://medium.com/p/f12bb6636859) |
+| Tue, 08 Jul 2025 14:02:24 GMT | The Future of Healthcare IT: How Cloud Hosted Servers Ensure Security and Compliance | PCnet | [Read More](https://medium.com/p/ff350b7cfcf1) |
+| Tue, 08 Jul 2025 14:02:12 GMT | Google and Microsoft Trusted Them. 2.3 Million Users Installed Them. They Were Malware. | Idan Dardikman | [Read More](https://medium.com/p/fb4ed4f40ff5) |
+| Tue, 08 Jul 2025 13:59:34 GMT | Cyber Briefing: 2025.07.08 | CyberMaterial | [Read More](https://medium.com/p/db21caef8bca) |
+| Tue, 08 Jul 2025 13:58:19 GMT | HTB Season 7 EscapeTwo Writeup | Suvam Barui aka  0xAxel0rd | [Read More](https://medium.com/p/92be8b0ca096) |
+| Tue, 08 Jul 2025 13:58:10 GMT | Roads and Fences in the Sky: Designing for Drone Safety and Scale (Part 1) | Ryan Lee | [Read More](https://medium.com/p/f8de04398c17) |
+| Tue, 08 Jul 2025 13:58:01 GMT | How to get NIS2 Compliance using Google Cloud Platform? | Vlad Birsan | [Read More](https://medium.com/p/942b59f3a215) |
+| Tue, 08 Jul 2025 13:57:48 GMT | Secure Your Node.js API Like a Pro! The Secret Weapon Top Developers Use | Santiago Dellepiane | [Read More](https://medium.com/p/43186b325cfc) |
+| Tue, 08 Jul 2025 13:54:20 GMT | TryHackMe — GamingServer Write-Up | Nidhi kathayat | [Read More](https://medium.com/p/4651d5cb7f02) |
+| Tue, 08 Jul 2025 13:46:23 GMT | Embark on a seamless journey toward enhanced information security with Axipro, your dedicated… | Axipro | [Read More](https://medium.com/p/5214277a5f92) |
+| Tue, 08 Jul 2025 13:43:44 GMT | AI Meets Bitcoin: When Neural Networks Start Trading Crypto | REKT☆WRLD | [Read More](https://medium.com/p/21212ce90160) |
+| Tue, 08 Jul 2025 13:38:43 GMT | How Safe Is Your Code? Static Analysis Tools for Node.js in 2025 | Ahmedrao | [Read More](https://medium.com/p/e12395cc35f1) |
+| Tue, 08 Jul 2025 13:36:22 GMT | Enhancing Cybersecurity with SOC as a Service (SOCaaS) + Visualizing SLA Performance | Farhad Khankishiyev | [Read More](https://medium.com/p/4959804f09ee) |
+| Tue, 08 Jul 2025 13:35:14 GMT | *Cybersecurity for People and Things: Staying Safe in a Digital World* | Rakshak online | [Read More](https://medium.com/p/a900d3b6ca20) |
+| Tue, 08 Jul 2025 13:33:55 GMT | What is the difference between threat, vulnerability, and risk? | Kavithayeravothula | [Read More](https://medium.com/p/336692a29d44) |
+| Tue, 08 Jul 2025 13:28:50 GMT | Writing Pentest Reports | Ayush Tiwari | [Read More](https://medium.com/p/59cc670daa88) |
 | Tue, 08 Jul 2025 13:27:18 GMT | I Found a Critical Google Bug in a Hackathon (And Earned a P1 Bounty) | Ibtissam hammadi | [Read More](https://medium.com/p/af1142173c5f) |
 | Tue, 08 Jul 2025 13:22:49 GMT | Path Traversal part-6 : validation of file extension with null byte bypass | Ahmad Sopyan | [Read More](https://medium.com/p/33de553254c2) |
 | Tue, 08 Jul 2025 13:19:51 GMT | Windows Logging for SOC: Essential Logs & Detection Strategies | Visir | [Read More](https://medium.com/p/652e1e6b2736) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 09:20:26 GMT | Port Forwarding, Tunneling, and Pivoting Tools Every Pentester Should Know | Ria Banerjee | [Read More](https://medium.com/p/3f05c12e202b) |
 | Tue, 08 Jul 2025 09:16:49 GMT | How Two Hidden Sudo Flaws Could Let Anyone Become Root — And How to Lock It Down | CyBlog | [Read More](https://medium.com/p/61324f208c60) |
 | Tue, 08 Jul 2025 09:14:49 GMT | Saturday Edition — General Cyber News Summary — 05/07/25 | SecurityPulse News | [Read More](https://medium.com/p/9f470655d8e8) |
-| Tue, 08 Jul 2025 09:14:04 GMT | Bankruptcy forecasting in enterprises and its security using hybrid deep learning models | Brij Gupta | [Read More](https://medium.com/p/2cfa1ceb1fc6) |
-| Tue, 08 Jul 2025 09:13:29 GMT | Objavljeno: 12. oktobar 2000. (Arhiva) | Arhiva Balkana | [Read More](https://medium.com/p/b0fd1af79830) |
-| Tue, 08 Jul 2025 09:07:08 GMT | From Shortlist to Finalist: My Journey in the Guardians of the Grid Cybersecurity Challenge | Azeeza Farhana Shaik | [Read More](https://medium.com/p/d2b493528330) |
-| Tue, 08 Jul 2025 09:02:51 GMT | How AI Can Help You Uncover Hidden Security Gaps in JavaScript Workflows? | Asian Digital Hub | [Read More](https://medium.com/p/4276d90278af) |
-| Tue, 08 Jul 2025 08:59:13 GMT | UPLOAD | Enoch Root | [Read More](https://medium.com/p/cca88633c20a) |
-| Tue, 08 Jul 2025 08:59:07 GMT | Mastering Recon-ng: The Complete OSINT Guide for Ethical Hackers | Rajkumar Kumawat | [Read More](https://medium.com/p/226b352fbf5b) |
-| Tue, 08 Jul 2025 08:58:31 GMT | OPERATION D.E.R.A - TBR2414PHS | O. J. Okpabi | [Read More](https://medium.com/p/5941edc7beca) |
-| Tue, 08 Jul 2025 08:57:29 GMT | AI Security for Manufacturing: Protecting OT Networks from Next-Gen Threats | Paul Sherman | [Read More](https://medium.com/p/339571386554) |
-| Tue, 08 Jul 2025 08:48:40 GMT | Penetration Testing Requirements for Compliance in Australia | Steve McLaughlin | [Read More](https://medium.com/p/d32a96341b2e) |
-| Tue, 08 Jul 2025 08:48:01 GMT | VulneraX0 — Fintech-Style Web Exploitation Lab | TraceX0 | [Read More](https://medium.com/p/21682a456df3) |
-| Tue, 08 Jul 2025 08:46:58 GMT | Telegram Bots in Phishing Campaigns: How I Got Inside | Sean | [Read More](https://medium.com/p/754c0067033c) |
-| Tue, 08 Jul 2025 08:45:42 GMT | ️ Setting Up a Penetration Testing Lab: Full Guide (Tools, OS, Network) | Rajkumar Kumawat | [Read More](https://medium.com/p/efb8dde1a041) |
-| Tue, 08 Jul 2025 08:42:06 GMT | Nagoya - Offensive Security - Proving Ground Practice | Mariam | [Read More](https://medium.com/p/7c40ecff36d8) |
-| Tue, 08 Jul 2025 08:41:13 GMT | Why Artificial Intelligence Is Not Secure by Default. | Viktor Davydych | [Read More](https://medium.com/p/f1c34de3c715) |
-| Tue, 08 Jul 2025 08:41:03 GMT | Inside the Hacker’s Arsenal: Remote Code Execution (RCE) with MSFvenom | Leroyanand | [Read More](https://medium.com/p/735107f2cebb) |
-| Tue, 08 Jul 2025 08:40:17 GMT | Notification Bypass on TikTok: Sending Alerts to Users Who Blocked Me | Sandipgyawali | [Read More](https://medium.com/p/9d2625539abf) |
-| Tue, 08 Jul 2025 08:36:39 GMT | Forminator WordPress Plugin Vulnerability Exposes Thousands of Websites | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/3c7f68a2a2af) |
