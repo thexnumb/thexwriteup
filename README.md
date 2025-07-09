@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 03:21:27 GMT | Zig vs Rust: A Data-Driven Analysis of Systems Programming | Heber Moreira {h3bzzz} | [Read More](https://medium.com/p/6e84bbb6da7f) |
+| Wed, 09 Jul 2025 03:03:11 GMT | GDPR: A Deep Dive for Software Engineers | Hussein Reda | [Read More](https://medium.com/p/11deb67cee03) |
+| Wed, 09 Jul 2025 02:59:08 GMT | รีวิวงาน SINCON2025 | PPsmile | [Read More](https://medium.com/p/552296080ddf) |
+| Wed, 09 Jul 2025 02:43:28 GMT | FortiOS CVE-2025–24477 Exposes Systems to Code Execution | Darshan | [Read More](https://medium.com/p/30b806cf2d7d) |
+| Wed, 09 Jul 2025 02:36:16 GMT | ประจำวันพุธที่ 9 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cdba18689806) |
+| Wed, 09 Jul 2025 02:35:36 GMT | Beyond XSS: Leveraging Shadow DOM for Secured React Components | Amardeep Singh | [Read More](https://medium.com/p/c18e6597c1ac) |
+| Wed, 09 Jul 2025 02:24:46 GMT | LLM-Driven Blockchain Security Products: From Practice to Theory — A Preliminary Discourse | Nerbonic | [Read More](https://medium.com/p/a86930943f96) |
+| Wed, 09 Jul 2025 02:19:56 GMT | Rate limiting in ASP.NET Core 9.0 | Yaz | [Read More](https://medium.com/p/a9f9d4256fd5) |
+| Wed, 09 Jul 2025 02:13:17 GMT | Security Architecture of Swap DefiLlama | Enigma Tara Belle | [Read More](https://medium.com/p/7020a4b8df0a) |
+| Wed, 09 Jul 2025 01:56:31 GMT | Protecting Values in Env. Variables: Part II, Secrets in Local Volumes | W. Jenks Gibbons | [Read More](https://medium.com/p/d5f2ab7823ab) |
+| Wed, 09 Jul 2025 01:54:31 GMT | The Hidden Dangers of AI-Generated Code | Sophia Perez | [Read More](https://medium.com/p/d6feef2685ba) |
 | Wed, 09 Jul 2025 01:39:17 GMT | Miscellaneous Series 5 — Level up a Script Kiddie v8 skills Part 1 | INTfinity Consulting | [Read More](https://medium.com/p/2636b8201711) |
 | Wed, 09 Jul 2025 01:37:18 GMT | Data Protection Impact Assessment (DPIA) | Hussein Reda | [Read More](https://medium.com/p/25975b93c904) |
 | Wed, 09 Jul 2025 01:30:04 GMT | Soul Cyber Tech Brief | Ameer R. Weston-Lee / Soul Cyber | [Read More](https://medium.com/p/725fb15d9433) |
@@ -19,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 00:57:53 GMT | AI/ML Security Threats: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/89ba5c8d349d) |
 | Wed, 09 Jul 2025 00:41:59 GMT | Our recently published CyberArk Success adapted blog | Joe Agler | [Read More](https://medium.com/p/85f91223ccf1) |
 | Wed, 09 Jul 2025 00:41:45 GMT | The Cybersecurity Information Sharing Act Is Set to Expire. Here’s Why That Matters. | Brittney Ginther | [Read More](https://medium.com/p/e7c1d7c67733) |
+| Wed, 09 Jul 2025 00:36:06 GMT | HTTP: Métodos e Status Codes | Filipe Campos | [Read More](https://medium.com/p/bdd4ffd0b180) |
 | Wed, 09 Jul 2025 00:33:02 GMT | The Diamond Model: Why Your Threat Analysis is Stuck in the Stone Age | Manish Rawat | [Read More](https://medium.com/p/491786b90a80) |
 | Wed, 09 Jul 2025 00:30:16 GMT | This ONE Flutter Package Will Save Your App From Security Disasters (And Your Job Too!) | Seungchul Jeff Ha | [Read More](https://medium.com/p/ef3c56501e28) |
 | Wed, 09 Jul 2025 00:26:55 GMT | Why Deleting Your Ex’s Contact is a Sign of True Love: Understanding a Woman’s Perspective | Lucas Brown | [Read More](https://medium.com/p/ec46de870e0f) |
@@ -33,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 23:25:08 GMT | When You’re Not Sure What You’re Meant to Do | paday∞n | [Read More](https://medium.com/p/68150d75d6c6) |
 | Tue, 08 Jul 2025 23:19:29 GMT | Part 1: The Private Key Predicament — Your Digital Lifeblood | Ben San Roman | [Read More](https://medium.com/p/5a6cb4bd226f) |
 | Tue, 08 Jul 2025 23:19:23 GMT | X Under Siege: Data Leaks, Bots, and Security Failures | ADanielHill | [Read More](https://medium.com/p/b24df636cb33) |
+| Tue, 08 Jul 2025 23:17:47 GMT | La tristeza no llora. | irene ortuño | [Read More](https://medium.com/p/93830c0b0617) |
 | Tue, 08 Jul 2025 23:16:26 GMT | Series: Fortifying the Digital Frontier — Your Guide to Crypto Security in Web3 | Ben San Roman | [Read More](https://medium.com/p/648ba92bd71f) |
 | Tue, 08 Jul 2025 23:05:19 GMT | When Kindness Leads, Hearts Heal – A World We All Deserve | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/c0e2aebc1c61) |
 | Tue, 08 Jul 2025 23:01:37 GMT | A Shortsighted Model for Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/e8333a60da5b) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 17:24:26 GMT | The Essential Guide to XSS Protection in Laravel (Don’t Get Hacked!) | TechSolve Central | [Read More](https://medium.com/p/15782550be74) |
 | Tue, 08 Jul 2025 17:20:31 GMT | Pwned: CHEMISTRY — A Write-Up on my HackTheBox (HTB) Adventure | Am6r0510 H4ckm4n | [Read More](https://medium.com/p/5d07db5a08c7) |
 | Tue, 08 Jul 2025 17:20:02 GMT | Pwned: CICADA — A Write-up on my HackTheBox (HTB) Adventure | Am6r0510 H4ckm4n | [Read More](https://medium.com/p/d3b9d4a4f28e) |
-| Tue, 08 Jul 2025 17:17:21 GMT | WELCOME TO MY WORLD | Shane Samuel | [Read More](https://medium.com/p/33b65d6fc8cb) |
-| Tue, 08 Jul 2025 17:16:07 GMT | Membongkar Server-Side Request Forgery (SSRF): Serangan Tak Terlihat yang Mematikan | Malbaralamsyah | [Read More](https://medium.com/p/628eeedc0aa5) |
-| Tue, 08 Jul 2025 17:14:58 GMT | Why Governance Is the Job Everyone Should Be Talking About | A D | [Read More](https://medium.com/p/9b55a3dac37f) |
-| Tue, 08 Jul 2025 17:11:52 GMT | How Python Powers the Most Dangerous Tools in Cybersecurity | Code With Hannan | [Read More](https://medium.com/p/306b807faa67) |
-| Tue, 08 Jul 2025 17:10:00 GMT | Building an Anomaly Detection Lab for Cybersecurity Logs Using Isolation Forest & Azure. | graciegue | [Read More](https://medium.com/p/92b3ef4486e0) |
-| Tue, 08 Jul 2025 17:07:23 GMT | The AI That Hacked a Bank — And Never Touched Malware | Sneha Rani | [Read More](https://medium.com/p/b1d456d40086) |
-| Tue, 08 Jul 2025 17:02:25 GMT | Selection Pressures: The Hidden Force Shaping AI’s Future | gema.parreno.piqueras | [Read More](https://medium.com/p/50ac832ab2f6) |
-| Tue, 08 Jul 2025 17:02:06 GMT | Title: Beefing Up Windows 10 Security with CIS-CAT – My Hands-On Deep Dive | Sumitkhurpade | [Read More](https://medium.com/p/05c0ddc4f4c2) |
-| Tue, 08 Jul 2025 16:59:15 GMT | Quantum Reboot — Chapter 6 | Alex Brox | [Read More](https://medium.com/p/c8d319a03e5e) |
-| Tue, 08 Jul 2025 16:52:49 GMT | Authentication Flows Explained: Passwordless, Magic Links, OAuth, and OTP | Lakshaykapoor | [Read More](https://medium.com/p/f22aff3d38cc) |
-| Tue, 08 Jul 2025 16:52:31 GMT | From Vulnerable to Vigilant: Building Cyber Resilience in Insurance and Healthcare | Cory Smith | [Read More](https://medium.com/p/12a1f0b85d6f) |
-| Tue, 08 Jul 2025 16:51:53 GMT | Why Cybersecurity Matters More Than Ever in 2025 | Anirudh PV | [Read More](https://medium.com/p/1659392fb7cb) |
-| Tue, 08 Jul 2025 16:49:00 GMT | Flash USDT – Learn the Truth Behind the Display | Ken | [Read More](https://medium.com/p/2088dfab24a8) |
