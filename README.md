@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 19:11:09 GMT | Why I Founded Trustoryx: A Mission to Reinforce Digital Trust in India | NIkhil Kumar | [Read More](https://medium.com/p/0abae31757e2) |
+| Wed, 09 Jul 2025 19:08:59 GMT | IP Routing On Cisco Packet Tracer ( Step-by-Step ) 2025 | Ceo Defender | [Read More](https://medium.com/p/29099b79253b) |
+| Wed, 09 Jul 2025 18:50:57 GMT | Open Cybersecurity AI Frameworks: New Challenges, Opportunities & Impact | noailabs | [Read More](https://medium.com/p/96b07a943529) |
+| Wed, 09 Jul 2025 18:50:43 GMT | Hack The Knowledge Of IP | Vishalakshi Pathak | [Read More](https://medium.com/p/515c12053313) |
+| Wed, 09 Jul 2025 18:49:10 GMT | Wireshark: The Basics - TryHackMe Walkthrough | Yagmur Yerlikaya | [Read More](https://medium.com/p/18e3055b6e37) |
+| Wed, 09 Jul 2025 18:35:46 GMT | Atomic Testing with Picus: First thing First - One  Test at a Time | Sahil Malvi | [Read More](https://medium.com/p/5161b13b3591) |
 | Wed, 09 Jul 2025 18:25:56 GMT | Bypass Jail Monkey | Ahmed Rabeaa Mosaa (SadC0d3r) | [Read More](https://medium.com/p/cc82a79e0458) |
 | Wed, 09 Jul 2025 18:25:23 GMT | Hybrid Cloud Security: How to Stay Protected Across Mixed Environments | SafeAeon Inc. | [Read More](https://medium.com/p/d1d2041973b8) |
 | Wed, 09 Jul 2025 18:23:43 GMT | Thought CSRF Was Extinct? Think Again. | Killua | [Read More](https://medium.com/p/e36da608f900) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 12:48:31 GMT | OWASP Top 10 (Web): Most Wanted Bugs — Short & Simple | Aparna A | [Read More](https://medium.com/p/38297ad0f7e9) |
 | Wed, 09 Jul 2025 12:45:20 GMT | How I Leaked an AWS Secret — and What I Do Now to Prevent It | Anamul Akash | [Read More](https://medium.com/p/1e0c9a341337) |
 | Wed, 09 Jul 2025 12:29:40 GMT | How secure are biometric systems for payments and privacy? | UpThoughts | [Read More](https://medium.com/p/d29718bc663c) |
-| Wed, 09 Jul 2025 12:28:23 GMT | Breaking Down the Benefits of Hybrid SOC Services for Enterprises | sanya | [Read More](https://medium.com/p/baf99e0bbe41) |
-| Wed, 09 Jul 2025 12:26:50 GMT | Best Practices for Securing Your Cloud Environments | Hakima | [Read More](https://medium.com/p/6118f469469e) |
-| Wed, 09 Jul 2025 12:26:16 GMT | My First CTF Experience on TryHackMe — A Beginner’s Journey with 0day Hunters | Jaymeen Bhatt | [Read More](https://medium.com/p/34ae63451a12) |
-| Wed, 09 Jul 2025 12:23:58 GMT | Why Microsoft 365 Still Needs a Backup Plan | JustinWang | [Read More](https://medium.com/p/3010368fd7a3) |
-| Wed, 09 Jul 2025 12:13:21 GMT | 14 AWS Lambda Security Best Practices to Secure Your Serverless Applications | Ran Isenberg | [Read More](https://medium.com/p/0816416bcfe8) |
-| Wed, 09 Jul 2025 12:08:28 GMT | The Broken Link Hijack — Weaponizing Forgotten URLs for Maximum Impact | Đeepanshu | [Read More](https://medium.com/p/99d6a911a1c4) |
