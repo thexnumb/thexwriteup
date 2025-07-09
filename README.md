@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 04:00:46 GMT | METRAG- Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi-layered… | Tho Nguyen | [Read More](https://medium.com/p/d73996bb73f7) |
+| Wed, 09 Jul 2025 03:55:12 GMT | Cara Mengeksploitasi RCE Hingga Mendapatkan Akses Webshell di Website Berbasis PHP | Alexithema - Sinzoxp | [Read More](https://medium.com/p/367a1259511f) |
+| Wed, 09 Jul 2025 03:41:29 GMT | How Offline Mesh Messaging Works: Inside the Next Gen of Communication | Rahul Mishra | [Read More](https://medium.com/p/3187c2df995d) |
+| Wed, 09 Jul 2025 03:37:15 GMT | Built-In Rate Limiting in SafeLine WAF: What You Need to Know | Quella | [Read More](https://medium.com/p/2c13ac7eb35d) |
+| Wed, 09 Jul 2025 03:36:18 GMT | XSS on a Legal Services Site | AbhirupKonwar | [Read More](https://medium.com/p/3c0b3fb176c5) |
+| Wed, 09 Jul 2025 03:32:54 GMT | Cookie-Bite: The Chrome Extension Hack That Bypasses MFA and Steals Your Sessions | Deven Chhajed | [Read More](https://medium.com/p/7b8a4813ceb7) |
 | Wed, 09 Jul 2025 03:21:27 GMT | Zig vs Rust: A Data-Driven Analysis of Systems Programming | Heber Moreira {h3bzzz} | [Read More](https://medium.com/p/6e84bbb6da7f) |
 | Wed, 09 Jul 2025 03:03:11 GMT | GDPR: A Deep Dive for Software Engineers | Hussein Reda | [Read More](https://medium.com/p/11deb67cee03) |
 | Wed, 09 Jul 2025 02:59:08 GMT | รีวิวงาน SINCON2025 | PPsmile | [Read More](https://medium.com/p/552296080ddf) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 17:51:37 GMT | Cybersecurity Careers in Pakistan: A Rising Need, A Growing Field | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/783a87012c9b) |
 | Tue, 08 Jul 2025 17:48:20 GMT | Pi-hole: Take Back Control of Your Network and Block Ads at the DNS Level | Guruprasad | [Read More](https://medium.com/p/43f8842c9bef) |
 | Tue, 08 Jul 2025 17:41:05 GMT | “Hack Back” Game, Coming Soon… | Ty Anderson | [Read More](https://medium.com/p/f81c88432579) |
-| Tue, 08 Jul 2025 17:37:24 GMT | PS Eclipse TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/ba770b3945db) |
-| Tue, 08 Jul 2025 17:31:22 GMT | From Thar to Thought: Our Cybersecurity Mission to CISF Headquarters, Kharghar | Rajankale | [Read More](https://medium.com/p/47222ba72acd) |
-| Tue, 08 Jul 2025 17:28:15 GMT | 10 Security Tools and Approaches in AWS to Prevent Incidents Like the One at the Central Bank of… | Carlos Biagolini-Jr. | [Read More](https://medium.com/p/210d7618f717) |
-| Tue, 08 Jul 2025 17:24:26 GMT | The Essential Guide to XSS Protection in Laravel (Don’t Get Hacked!) | TechSolve Central | [Read More](https://medium.com/p/15782550be74) |
-| Tue, 08 Jul 2025 17:20:31 GMT | Pwned: CHEMISTRY — A Write-Up on my HackTheBox (HTB) Adventure | Am6r0510 H4ckm4n | [Read More](https://medium.com/p/5d07db5a08c7) |
-| Tue, 08 Jul 2025 17:20:02 GMT | Pwned: CICADA — A Write-up on my HackTheBox (HTB) Adventure | Am6r0510 H4ckm4n | [Read More](https://medium.com/p/d3b9d4a4f28e) |
