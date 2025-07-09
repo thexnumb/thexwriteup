@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 17:07:32 GMT | Organizing the Chaos: Why Password Managers Make Developer Onboarding Easier | Autumn | [Read More](https://medium.com/p/535c66737ea5) |
+| Wed, 09 Jul 2025 17:05:01 GMT | Why an OT Device Reaching the Internet Should Raise Red Flags | Saikat Paul | [Read More](https://medium.com/p/5c24493a1074) |
+| Wed, 09 Jul 2025 16:56:49 GMT | ¿Subes una foto? Estás subiendo más de lo que crees… | Gorka | [Read More](https://medium.com/p/e97d9182cf38) |
 | Wed, 09 Jul 2025 16:50:42 GMT | PortSwigger Lab: Password brute-force via password change writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/8ee1268b0e35) |
 | Wed, 09 Jul 2025 16:46:58 GMT | PortSwigger Lab: Password reset poisoning via middleware writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/efa626341ec3) |
+| Wed, 09 Jul 2025 16:45:19 GMT | ️ The Scattered Spider Phenomenon: The Rise of Decentralized Social Engineering Threats | SecureTree | [Read More](https://medium.com/p/da0e8a11cc02) |
 | Wed, 09 Jul 2025 16:44:07 GMT | ️ Wireshark for Beginners: What It Is and Why It Matters in Cybersecurity | Yagmur Yerlikaya | [Read More](https://medium.com/p/840aa95b6488) |
 | Wed, 09 Jul 2025 16:41:22 GMT | PortSwigger Lab: Password reset broken logic writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/e760bea5704c) |
 | Wed, 09 Jul 2025 16:40:01 GMT | Punycode 0-Click Account Takeover | Mohamed Hamadou - ( ZoeniX ) | [Read More](https://medium.com/p/bdacfdf31225) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 10:37:28 GMT | [Walkthrough] Anthem — TryHackMe - Easy Windows | Karan Chaudhary | [Read More](https://medium.com/p/513dfbe33ad8) |
 | Wed, 09 Jul 2025 10:36:31 GMT | The Anatomy of a Smart Money Move: How Yesterday’s Market Selloff Revealed Tomorrow’s Opportunities | Dorian Kortland | [Read More](https://medium.com/p/c9d38a0fb49c) |
 | Wed, 09 Jul 2025 10:35:36 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Wisdomalfred | [Read More](https://medium.com/p/ac5c4c143163) |
-| Wed, 09 Jul 2025 10:32:24 GMT | Why I Switched to CryptoXpress from MetaMask for Security Reasons | Zekanem King | [Read More](https://medium.com/p/8e219fe94f5a) |
-| Wed, 09 Jul 2025 10:31:15 GMT | From Models to Mastery: My Experience Developing AI-Powered Automation Systems | Safora Nafees | [Read More](https://medium.com/p/ae351855f047) |
-| Wed, 09 Jul 2025 10:31:15 GMT | A Bug Enhanced my Narrative Reading Experience | Iskall | [Read More](https://medium.com/p/20c663105855) |
-| Wed, 09 Jul 2025 10:31:15 GMT | Email Security Pt 2/3: What is DKIM? | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/55f7e404b86d) |
