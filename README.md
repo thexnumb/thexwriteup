@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 15:41:47 GMT | The Telegram Username Scam: How People Are Losing Thousands in TON | Scofield O. Idehen | [Read More](https://medium.com/p/f7f7c8f68001) |
+| Wed, 09 Jul 2025 15:32:22 GMT | Smart Perimeter Defense | Presslink Media | [Read More](https://medium.com/p/88dd74f66918) |
+| Wed, 09 Jul 2025 15:31:50 GMT | I Found 12 Bugs in One Program | Ibtissam hammadi | [Read More](https://medium.com/p/1b011e7a2279) |
+| Wed, 09 Jul 2025 15:31:20 GMT | Want a Smart Security Camera? Let’s Compare How These 3 Bestselling Ones Stack Up | Bogymohamedali | [Read More](https://medium.com/p/e54612e0eb78) |
+| Wed, 09 Jul 2025 15:28:55 GMT | AI, Cybersecurity, and the Battle for Control: Lessons from TryHackMe’s AI/ML Security Threats Room | Ayr1n | [Read More](https://medium.com/p/1cf375bcd2a2) |
+| Wed, 09 Jul 2025 15:25:51 GMT | Part 24: DevSecOps | Adekola Olawale | [Read More](https://medium.com/p/04143577942e) |
 | Wed, 09 Jul 2025 15:22:38 GMT | ✈️Cybersecurity Culture: The Soft Skill That Prevents Hard Landings | Dziugas John Vaisvila | [Read More](https://medium.com/p/f1b8b17c6a95) |
+| Wed, 09 Jul 2025 15:22:03 GMT | My Hands-On Guide to Mastering AWS KMS Encryption | AashishChaudhari | [Read More](https://medium.com/p/b971344b4d17) |
 | Wed, 09 Jul 2025 15:21:47 GMT | What Possible Unauthorized Device Configuration Really Means And How to Act on It | Saikat Paul | [Read More](https://medium.com/p/2a373a7be502) |
 | Wed, 09 Jul 2025 15:20:11 GMT | MCP Deep Dive: the Great, the Broken, and the Downright Dangerous | Kyle Mistele | [Read More](https://medium.com/p/506836eda5b3) |
 | Wed, 09 Jul 2025 15:15:21 GMT | Why Should You Use Priil Optimizer to Boost Your PC’s Performance? | Priil Antivirus | [Read More](https://medium.com/p/77bcc98675d9) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 09:41:10 GMT | HIPAA Compliance Checklist: How to Avoid Violations and Build Trust in 2025 | SecureSlate | [Read More](https://medium.com/p/9d7b6d9bb1c3) |
 | Wed, 09 Jul 2025 09:39:56 GMT | Can Your VPN Provider See What You’re Doing Online? [Truth Revealed – 2025] | Digimad.online | [Read More](https://medium.com/p/48fed4ae7fbf) |
 | Wed, 09 Jul 2025 09:38:20 GMT | Cyberkanun — Best cybercrime lawyer in india | Amit solanki | [Read More](https://medium.com/p/f25c2bb0dbaf) |
-| Wed, 09 Jul 2025 09:37:48 GMT | Mr. Phisher TryHackMe Writup | Krishna | [Read More](https://medium.com/p/08dd4b8aaddf) |
-| Wed, 09 Jul 2025 09:37:17 GMT | The Past, Present, and Future of SIEM: The Evolution of a Cybersecurity Power Tool | Yuksel | [Read More](https://medium.com/p/76ad125b2313) |
-| Wed, 09 Jul 2025 09:37:14 GMT | THE MONEY MAGNET IN 2025. | Christian Izuchukwu Ugochukwu | [Read More](https://medium.com/p/f19202435635) |
-| Wed, 09 Jul 2025 09:32:59 GMT | Unmasking the Threat: A Closer Look at Phishing and Its Dangerous Variants | Cyber Timi | [Read More](https://medium.com/p/0a68a17032f2) |
-| Wed, 09 Jul 2025 09:28:55 GMT | The Vital Role of a Security Guard in Today’s Fast-Moving World | Stateguard Protective Services | [Read More](https://medium.com/p/dbf69e247dde) |
-| Wed, 09 Jul 2025 09:27:01 GMT | Opening Tiny Doors: Learning to Let People In | kinanri | [Read More](https://medium.com/p/b20cf2d4e65a) |
-| Wed, 09 Jul 2025 09:26:23 GMT | Key Skills You Gain from a CISM Certification | Dhanashri Bhale | [Read More](https://medium.com/p/81b57b275499) |
