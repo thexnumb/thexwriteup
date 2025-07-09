@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 14:16:01 GMT | Advanced Threat Hunting: Proactive Defense in the Modern Cyber Battlefield | Ola Lawrence O | [Read More](https://medium.com/p/caa72e7a405f) |
+| Wed, 09 Jul 2025 14:14:22 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Wisdomalfred | [Read More](https://medium.com/p/de138f7b8720) |
+| Wed, 09 Jul 2025 14:05:47 GMT | The Evolution of Enterprise Security: Demystifying Secure Access Service Edge (SASE) | Rudraksh | [Read More](https://medium.com/p/70c7d260744f) |
+| Wed, 09 Jul 2025 13:55:26 GMT | The Quiet Power of Staying Soft in a Hard World | Prince Esien | [Read More](https://medium.com/p/aa554d98012a) |
+| Wed, 09 Jul 2025 13:55:01 GMT | Best Password Manager Apps for iPhone in 2025 | Awaismahmood | [Read More](https://medium.com/p/52f2051e773b) |
+| Wed, 09 Jul 2025 13:38:55 GMT | Authenticity: Living from the Inside Out | Nathalie Bonilla | [Read More](https://medium.com/p/0b05948415a1) |
+| Wed, 09 Jul 2025 13:38:38 GMT | A Crucible Moment for ITAD Certifications | Kyle Marks | [Read More](https://medium.com/p/5eb0b0f31e09) |
+| Wed, 09 Jul 2025 13:29:14 GMT | Urban Gardening Hacks for Small Spaces | Somdeb Paul | [Read More](https://medium.com/p/c7b238cd2c12) |
 | Wed, 09 Jul 2025 13:25:05 GMT | Cyber Briefing: 2025.07.09 | CyberMaterial | [Read More](https://medium.com/p/7c9fc239b81a) |
 | Wed, 09 Jul 2025 13:24:42 GMT | Turtles in a World of Turtles | Quiet Alchemist | [Read More](https://medium.com/p/4ae9b596b2f9) |
 | Wed, 09 Jul 2025 13:20:21 GMT | Flipper Zero Episode 4: Capture and Crack Wi-Fi PMKID | Fahri | [Read More](https://medium.com/p/9710d1c006b6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 08:21:03 GMT | From Zero to Hacker : Learn Hacking with wordcell,Linux Tools,and Networking. | Sreelekshmi Harikumar | [Read More](https://medium.com/p/617b5541a599) |
 | Wed, 09 Jul 2025 08:20:32 GMT | The Cosmos Bank Cyber Attack: How Hackers Stole ₹94 Crore in Minutes | Lomas Asodariya | [Read More](https://medium.com/p/9ce9c04c0ba4) |
 | Wed, 09 Jul 2025 08:08:47 GMT | How I Built a Personal AI Research Assistant That Reads, Summarizes, and Answers Questions From… | Tech Tales | [Read More](https://medium.com/p/5b7510776e99) |
-| Wed, 09 Jul 2025 08:07:56 GMT | Top DevOps Technologies Shaping 2025 | Devseccopsai | [Read More](https://medium.com/p/e6efbe1b1c90) |
-| Wed, 09 Jul 2025 07:59:27 GMT | Top Benefits of Remote Security Monitoring for Businesses | Marcela John | [Read More](https://medium.com/p/d88b7aa2de4c) |
-| Wed, 09 Jul 2025 07:57:23 GMT | Why the Penetration Testing Course with AI Will Be in High Demand in 2025 | cyber security Updates | [Read More](https://medium.com/p/ca0c6838de24) |
-| Wed, 09 Jul 2025 07:52:54 GMT | Broken Access Control in Salesforce: The Quiet Security Killer You’re Probably Ignoring | Musa Ndlala | [Read More](https://medium.com/p/7a7926e34602) |
-| Wed, 09 Jul 2025 07:52:29 GMT | Een essentieel element van organisatorische Cyber Defense | ZeroTrustZeroDay Netherlands | [Read More](https://medium.com/p/3c494ccb76d7) |
-| Wed, 09 Jul 2025 07:52:15 GMT | Security Blue Team: Introduction to Dark Web Operations Capstone Challenge | Pwnedproof | [Read More](https://medium.com/p/a5f0755e3d40) |
-| Wed, 09 Jul 2025 07:50:44 GMT | AI/ML Security Threats - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/4e971eccc8f8) |
-| Wed, 09 Jul 2025 07:49:41 GMT | How AI Is Changing the Future of Cybersecurity (AI vs. Hackers) | Sagar Majumdar | [Read More](https://medium.com/p/ab9231e07f91) |
