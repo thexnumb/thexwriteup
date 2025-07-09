@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 22:19:29 GMT | LINK LOGIN TOTO ONLINE: Akses Aman & Tips Hindari Situs Palsu di Era Digital | Ryugasenki | [Read More](https://medium.com/p/bee1ff99012c) |
 | Wed, 09 Jul 2025 21:56:57 GMT | Building a Software Inventory System: Technical Blueprint | Ashley Kim | [Read More](https://medium.com/p/b54c61196fe4) |
 | Wed, 09 Jul 2025 21:51:27 GMT | LAB 19: SHELLCODE ANALYSIS | Mustapha Ait Ichou | [Read More](https://medium.com/p/db8153c57bb7) |
 | Wed, 09 Jul 2025 21:48:02 GMT | Turning Complexity into Insight | Anshul Mathur | [Read More](https://medium.com/p/f1ab4d654a49) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 15:15:21 GMT | Why Should You Use Priil Optimizer to Boost Your PC’s Performance? | Priil Antivirus | [Read More](https://medium.com/p/77bcc98675d9) |
 | Wed, 09 Jul 2025 15:14:04 GMT | How a Venmo Setting Exposed a National Security & Privacy Risk — A Digital Forensics View on… | Hanaliu | [Read More](https://medium.com/p/d55b6f940779) |
 | Wed, 09 Jul 2025 15:13:01 GMT | Information Technology | Snehaverma | [Read More](https://medium.com/p/856d0e8de56b) |
-| Wed, 09 Jul 2025 15:08:34 GMT | A day in the life a SecDevOps engineer | Staticfield | [Read More](https://medium.com/p/7d2236d92115) |
