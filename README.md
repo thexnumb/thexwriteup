@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 21:56:57 GMT | Building a Software Inventory System: Technical Blueprint | Ashley Kim | [Read More](https://medium.com/p/b54c61196fe4) |
+| Wed, 09 Jul 2025 21:51:27 GMT | LAB 19: SHELLCODE ANALYSIS | Mustapha Ait Ichou | [Read More](https://medium.com/p/db8153c57bb7) |
+| Wed, 09 Jul 2025 21:48:02 GMT | Turning Complexity into Insight | Anshul Mathur | [Read More](https://medium.com/p/f1ab4d654a49) |
+| Wed, 09 Jul 2025 21:33:16 GMT | Agentic AI Is Here: What It Means for Enterprise Risk and Resilience | Annie W | [Read More](https://medium.com/p/d3e7d0d7b00a) |
+| Wed, 09 Jul 2025 21:31:41 GMT | The MFA Might Be Your Biggest Security Risk | MSc. Adalberto Jr. | [Read More](https://medium.com/p/13ea4f760a1d) |
+| Wed, 09 Jul 2025 21:31:38 GMT | They Thought It Was Zoom. It Was Malware. | Cyber-AppSec | [Read More](https://medium.com/p/654a1e6708ba) |
 | Wed, 09 Jul 2025 21:01:50 GMT | Encrypting the Encryption | Peter Lablans | [Read More](https://medium.com/p/4947b1bdb825) |
 | Wed, 09 Jul 2025 20:53:13 GMT | Cybersecurity statistics about identity trends, supply chain cyber risk, and LLM security in 2025 | CyberSecStats | [Read More](https://medium.com/p/30e8efbd7ba5) |
 | Wed, 09 Jul 2025 20:50:10 GMT | Cybersecurity statistics from May/June 2025 | CyberSecStats | [Read More](https://medium.com/p/1e351725a586) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 15:14:04 GMT | How a Venmo Setting Exposed a National Security & Privacy Risk — A Digital Forensics View on… | Hanaliu | [Read More](https://medium.com/p/d55b6f940779) |
 | Wed, 09 Jul 2025 15:13:01 GMT | Information Technology | Snehaverma | [Read More](https://medium.com/p/856d0e8de56b) |
 | Wed, 09 Jul 2025 15:08:34 GMT | A day in the life a SecDevOps engineer | Staticfield | [Read More](https://medium.com/p/7d2236d92115) |
-| Wed, 09 Jul 2025 15:03:03 GMT | Tech Debt Is Real: The Internet Runs on 30-Year-Old Code | Davin Oishi | [Read More](https://medium.com/p/2f115faca1a6) |
-| Wed, 09 Jul 2025 15:00:12 GMT | Hacking the CEH, My Way: A Guide for the Easily Distracted & Time-Blind | Shahnara Musthafa | [Read More](https://medium.com/p/9ccb02887be8) |
-| Wed, 09 Jul 2025 14:56:27 GMT | Windows Powershell For Beginners | Rohit Maity | [Read More](https://medium.com/p/6220a0c664ad) |
-| Wed, 09 Jul 2025 14:47:18 GMT | TryHackMe - Detecting Adversarial Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/ced7b83935f7) |
-| Wed, 09 Jul 2025 14:40:15 GMT | TryHackMe - AI/ML Security Threats - WriteUp | Axoloth | [Read More](https://medium.com/p/14288ba2711d) |
-| Wed, 09 Jul 2025 14:32:14 GMT | SQL Injection 104: How Attackers Exploit SQL Injection & Detecting Active Attacks | bithowl | [Read More](https://medium.com/p/df6dc942c6b0) |
