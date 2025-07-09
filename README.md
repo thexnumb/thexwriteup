@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 18:25:56 GMT | Bypass Jail Monkey | Ahmed Rabeaa Mosaa (SadC0d3r) | [Read More](https://medium.com/p/cc82a79e0458) |
+| Wed, 09 Jul 2025 18:25:23 GMT | Hybrid Cloud Security: How to Stay Protected Across Mixed Environments | SafeAeon Inc. | [Read More](https://medium.com/p/d1d2041973b8) |
+| Wed, 09 Jul 2025 18:23:43 GMT | Thought CSRF Was Extinct? Think Again. | Killua | [Read More](https://medium.com/p/e36da608f900) |
+| Wed, 09 Jul 2025 18:20:15 GMT | Can the Magic of AI Solve Some Security Headaches For You? | BillfordX | [Read More](https://medium.com/p/30956120d494) |
+| Wed, 09 Jul 2025 18:19:34 GMT | SOC — der Mensch im Zentrum | Ivan Melnik | [Read More](https://medium.com/p/b1ee092ef064) |
+| Wed, 09 Jul 2025 18:16:26 GMT | Part 2: Cybersecurity in Web3 — The Centralized Choke Point CEXs & Custodians | Ben San Roman | [Read More](https://medium.com/p/46f7b78827aa) |
+| Wed, 09 Jul 2025 18:15:51 GMT | Cloud Security Audit: A Must-Have for Securing Your Cloud Environment | SafeAeon Inc. | [Read More](https://medium.com/p/5116975302a4) |
+| Wed, 09 Jul 2025 18:10:07 GMT | Writeup PicoCTF - IntroToBurp - Web Exploitation | Malbaralamsyah | [Read More](https://medium.com/p/322e3c1ef7cd) |
+| Wed, 09 Jul 2025 18:05:20 GMT | From Profile Picture to Account Takeover: Stored XSS in Action | EroHack | [Read More](https://medium.com/p/fe43d29cfd99) |
+| Wed, 09 Jul 2025 18:01:05 GMT | On Confidence | Richard Ackroyd | [Read More](https://medium.com/p/fd5dc954aa77) |
+| Wed, 09 Jul 2025 17:55:14 GMT | Uncovering a Mass Hijack Chrome Extension Campaign | Kyle Barbre | [Read More](https://medium.com/p/91ebc55e8913) |
+| Wed, 09 Jul 2025 17:54:52 GMT | How I Passed the EC-Council Certified Incident Handler (ECIH) Exam | Dr. Alexis - Health - Tech - Business - Blog | [Read More](https://medium.com/p/b2b533f17756) |
+| Wed, 09 Jul 2025 17:50:55 GMT | The Role of Residential Proxies in Cybersecurity Testing | Proxy Lust, Inc., Residential & Mobile Proxies | [Read More](https://medium.com/p/b97750dc78d1) |
+| Wed, 09 Jul 2025 17:50:37 GMT | Setting the Night Mode in Dahua Cameras for Car License Plate Recognition: A Quick Guide | Rara | [Read More](https://medium.com/p/0c2bcf9303de) |
 | Wed, 09 Jul 2025 17:43:08 GMT | How Proactive Video Monitoring Is Redefining Commercial Security in the USA | ASI Systems Pro | [Read More](https://medium.com/p/22c65848e59f) |
 | Wed, 09 Jul 2025 17:37:23 GMT | Why Thrissur Needs a Cyber Security Academy: Building Kerala’s Digital Defense | Abhinav Shelly | [Read More](https://medium.com/p/7e73a450f62a) |
 | Wed, 09 Jul 2025 17:36:59 GMT | A Beginner’s Guide to Understanding DHCP and the DORA Process | Shubham Sharma | [Read More](https://medium.com/p/6c7aa6377f90) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 12:23:58 GMT | Why Microsoft 365 Still Needs a Backup Plan | JustinWang | [Read More](https://medium.com/p/3010368fd7a3) |
 | Wed, 09 Jul 2025 12:13:21 GMT | 14 AWS Lambda Security Best Practices to Secure Your Serverless Applications | Ran Isenberg | [Read More](https://medium.com/p/0816416bcfe8) |
 | Wed, 09 Jul 2025 12:08:28 GMT | The Broken Link Hijack — Weaponizing Forgotten URLs for Maximum Impact | Đeepanshu | [Read More](https://medium.com/p/99d6a911a1c4) |
-| Wed, 09 Jul 2025 12:04:34 GMT | TryHackMe Peak Hill — Walkthrough | mauzware | [Read More](https://medium.com/p/11d416f478ba) |
-| Wed, 09 Jul 2025 12:01:48 GMT | Australia Application Security Market Projected to Reach USD 575.4 Million by 2033 | Ranjeet Sharma | [Read More](https://medium.com/p/70c3d174812e) |
-| Wed, 09 Jul 2025 12:00:11 GMT | Extropy Security Bytes: w27 2025 | Extropy.IO | [Read More](https://medium.com/p/14b51d252a89) |
-| Wed, 09 Jul 2025 11:48:47 GMT | Is China Rebuilding Iran’s Air Defences with HQ-9B Long Range Missile Systems? | Defence Affairs & Analysis | [Read More](https://medium.com/p/b756ce03f60f) |
-| Wed, 09 Jul 2025 11:35:13 GMT | The Weekend I Built a Personal Threat Detection System for My Home WiFi | Suleman safdar | [Read More](https://medium.com/p/7a4a6a49b949) |
-| Wed, 09 Jul 2025 11:33:50 GMT | PicoCTF 2024: WebDecode — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/e247b16b50ff) |
-| Wed, 09 Jul 2025 11:29:35 GMT | Vulnversity — Walkthrough Tryhackme | Bot Hacks | [Read More](https://medium.com/p/8b664ac117b7) |
-| Wed, 09 Jul 2025 11:20:25 GMT | Threat Hunting with the Pyramid of Pain | Andrey Pautov | [Read More](https://medium.com/p/8add3cedb380) |
-| Wed, 09 Jul 2025 11:18:49 GMT | Why “Zero Trust” Is a Lie | Muhannad AlBreiki | [Read More](https://medium.com/p/25e96f93dce1) |
-| Wed, 09 Jul 2025 11:17:42 GMT | Simple Client–Server Brew Cycle analogy with Starbucks Coffee Shop☕✨ | Tummalagunta Sai Sri Harshitha | [Read More](https://medium.com/p/a86e07ae30e0) |
-| Wed, 09 Jul 2025 11:14:05 GMT | A Practical Guide to Securing Azure Storage with Service Endpoints & Private Access using AZD | Dave R - Microsoft Azure & AI MVP☁️ | [Read More](https://medium.com/p/e0cff075be82) |
-| Wed, 09 Jul 2025 11:13:56 GMT | From Chaos to Clarity: How I Upgraded Help Desk Support with a Custom RAG AI | Nabil Pervez | [Read More](https://medium.com/p/96badc7fc0ba) |
-| Wed, 09 Jul 2025 11:12:52 GMT | Top Cybersecurity Solutions Every Healthcare Provider Needs. | Technologic Innovation | [Read More](https://medium.com/p/78ca579432fb) |
-| Wed, 09 Jul 2025 11:09:36 GMT | Car Park Security Solutions: Keeping Your Vehicle Safe | Professional UK Services | [Read More](https://medium.com/p/e071bdef0be8) |
