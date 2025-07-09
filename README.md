@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 01:39:17 GMT | Miscellaneous Series 5 — Level up a Script Kiddie v8 skills Part 1 | INTfinity Consulting | [Read More](https://medium.com/p/2636b8201711) |
+| Wed, 09 Jul 2025 01:37:18 GMT | Data Protection Impact Assessment (DPIA) | Hussein Reda | [Read More](https://medium.com/p/25975b93c904) |
+| Wed, 09 Jul 2025 01:30:04 GMT | Soul Cyber Tech Brief | Ameer R. Weston-Lee / Soul Cyber | [Read More](https://medium.com/p/725fb15d9433) |
+| Wed, 09 Jul 2025 01:02:19 GMT | Start with VDPs Before Aiming for Private Bug Bounty Programs | 127.0.0.1 | [Read More](https://medium.com/p/dd6336131231) |
+| Wed, 09 Jul 2025 00:57:53 GMT | AI/ML Security Threats: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/89ba5c8d349d) |
+| Wed, 09 Jul 2025 00:41:59 GMT | Our recently published CyberArk Success adapted blog | Joe Agler | [Read More](https://medium.com/p/85f91223ccf1) |
+| Wed, 09 Jul 2025 00:41:45 GMT | The Cybersecurity Information Sharing Act Is Set to Expire. Here’s Why That Matters. | Brittney Ginther | [Read More](https://medium.com/p/e7c1d7c67733) |
+| Wed, 09 Jul 2025 00:33:02 GMT | The Diamond Model: Why Your Threat Analysis is Stuck in the Stone Age | Manish Rawat | [Read More](https://medium.com/p/491786b90a80) |
+| Wed, 09 Jul 2025 00:30:16 GMT | This ONE Flutter Package Will Save Your App From Security Disasters (And Your Job Too!) | Seungchul Jeff Ha | [Read More](https://medium.com/p/ef3c56501e28) |
+| Wed, 09 Jul 2025 00:26:55 GMT | Why Deleting Your Ex’s Contact is a Sign of True Love: Understanding a Woman’s Perspective | Lucas Brown | [Read More](https://medium.com/p/ec46de870e0f) |
+| Wed, 09 Jul 2025 00:26:02 GMT | Reinforcement Learning 20 — Securing Reinforcement Learning Systems: Best Practices in Python | Ayşe Kübra Kuyucu | [Read More](https://medium.com/p/32b2ec1f75a0) |
+| Wed, 09 Jul 2025 00:16:14 GMT | Artificial Intelligence and the Pentagon’s Quiet Revolution | Mark Costello | [Read More](https://medium.com/p/2a3f21832d57) |
+| Wed, 09 Jul 2025 00:02:59 GMT | Complete Guide to Broken Access Control: Hacking, Bug Bounty, and Prevention in Web Applications | JPablo13 | [Read More](https://medium.com/p/d549fcc140d6) |
+| Wed, 09 Jul 2025 00:02:59 GMT | FortiAI Generative AI Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/02f72707618e) |
+| Wed, 09 Jul 2025 00:02:10 GMT | Mobile Forensics part2 - The Crime Lab — CyberDefenders | Anas404 | [Read More](https://medium.com/p/a0e4d6e6199e) |
+| Wed, 09 Jul 2025 00:00:23 GMT | The Crystal Ball and the Brain | Stanleyyan | [Read More](https://medium.com/p/71e0c1f01097) |
+| Tue, 08 Jul 2025 23:51:22 GMT | From Reactive to Predictive: Building Tomorrow’s Security Operations Center | Eric Zietlow | [Read More](https://medium.com/p/93878501e5a5) |
+| Tue, 08 Jul 2025 23:48:07 GMT | The Lumerna Elyara Codex: Code #16 — Protect the Vulnerable, the Innocent & Those Who Don’t Have a… | Aramora Founder | [Read More](https://medium.com/p/ba8c13c455e6) |
 | Tue, 08 Jul 2025 23:25:08 GMT | When You’re Not Sure What You’re Meant to Do | paday∞n | [Read More](https://medium.com/p/68150d75d6c6) |
 | Tue, 08 Jul 2025 23:19:29 GMT | Part 1: The Private Key Predicament — Your Digital Lifeblood | Ben San Roman | [Read More](https://medium.com/p/5a6cb4bd226f) |
 | Tue, 08 Jul 2025 23:19:23 GMT | X Under Siege: Data Leaks, Bots, and Security Failures | ADanielHill | [Read More](https://medium.com/p/b24df636cb33) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 16:52:31 GMT | From Vulnerable to Vigilant: Building Cyber Resilience in Insurance and Healthcare | Cory Smith | [Read More](https://medium.com/p/12a1f0b85d6f) |
 | Tue, 08 Jul 2025 16:51:53 GMT | Why Cybersecurity Matters More Than Ever in 2025 | Anirudh PV | [Read More](https://medium.com/p/1659392fb7cb) |
 | Tue, 08 Jul 2025 16:49:00 GMT | Flash USDT – Learn the Truth Behind the Display | Ken | [Read More](https://medium.com/p/2088dfab24a8) |
-| Tue, 08 Jul 2025 16:47:14 GMT | Living Memory Attacks: Code Injection Without Files | zerOiQ | [Read More](https://medium.com/p/aed0da3a466b) |
-| Tue, 08 Jul 2025 16:46:36 GMT | 資安新鮮人也該懂的 Security+ 概念 一一 以顧問的角度出發 | ITmanLarry | [Read More](https://medium.com/p/7fab3647c17a) |
-| Tue, 08 Jul 2025 16:43:29 GMT | How Flash USDT Can Be Misunderstood | Ken | [Read More](https://medium.com/p/7ba1fff87452) |
-| Tue, 08 Jul 2025 16:32:52 GMT | Digitale Transformation 2025: Der Ultimative Readiness-Roadmap für Entscheidungsträger | Philip Hansen | [Read More](https://medium.com/p/55b1b53e93c3) |
-| Tue, 08 Jul 2025 16:32:50 GMT | How Flash USDT Can Be Misunderstood | Tamoy | [Read More](https://medium.com/p/c1c914cdd765) |
-| Tue, 08 Jul 2025 16:32:17 GMT | Digitale Ökosysteme: Der strategische Roadmap für Unternehmenswachstum in 2025 | Philip Hansen | [Read More](https://medium.com/p/48131009c414) |
-| Tue, 08 Jul 2025 16:32:07 GMT | New to QA? Here’s What to Focus On | Kavika | [Read More](https://medium.com/p/1c0f4a3e4167) |
-| Tue, 08 Jul 2025 16:31:19 GMT | PortSwigger Lab: Offline password cracking writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/7406afa12616) |
-| Tue, 08 Jul 2025 16:30:07 GMT | How I Was Able to Retrieve My Funds from Forex Autotrades Investment LTD | Barry Freeman | [Read More](https://medium.com/p/d3aec54f52cf) |
-| Tue, 08 Jul 2025 16:27:33 GMT | Here Is How I Recover My Money From Forex Autotrades Investment LTD | Barry Freeman | [Read More](https://medium.com/p/b3cf02173b6f) |
-| Tue, 08 Jul 2025 16:26:53 GMT | Why Flash USDT Matters in Crypto Awareness | Tamoy | [Read More](https://medium.com/p/5c1e30dd81aa) |
-| Tue, 08 Jul 2025 16:24:38 GMT | PortSwigger Lab: Brute-forcing a stay-logged-in cookie writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/9eb87d0cd111) |
-| Tue, 08 Jul 2025 16:19:00 GMT | Malicious Cyber-Actors Use AI to Impersonate Secretary of State Marco Rubio | Michael LiCastri | [Read More](https://medium.com/p/0382250b24ed) |
-| Tue, 08 Jul 2025 16:16:27 GMT | PortSwigger Lab: 2FA broken logic writeup (Authentication Vulnerabilitie | awes0meness | [Read More](https://medium.com/p/9616d76a3450) |
-| Tue, 08 Jul 2025 16:09:57 GMT | SOC 2 Compliance: Why It Matters and How to Achieve It | SafeAeon Inc. | [Read More](https://medium.com/p/7fd3f8451b8e) |
-| Tue, 08 Jul 2025 16:04:02 GMT | Scatter Spider collected domain names | Damion Waltermeyer | [Read More](https://medium.com/p/be81286b7871) |
-| Tue, 08 Jul 2025 16:03:59 GMT | Top Cyber Security Academy in Thrissur — Learn from the Experts at Cyber Echelon | elevx solutions | [Read More](https://medium.com/p/563fdd081f49) |
-| Tue, 08 Jul 2025 16:00:49 GMT | Post CyberTitan 2025 thoughts | August Lam | [Read More](https://medium.com/p/efddbfd64da8) |
