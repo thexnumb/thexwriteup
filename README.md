@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 12:29:40 GMT | How secure are biometric systems for payments and privacy? | UpThoughts | [Read More](https://medium.com/p/d29718bc663c) |
+| Wed, 09 Jul 2025 12:28:23 GMT | Breaking Down the Benefits of Hybrid SOC Services for Enterprises | sanya | [Read More](https://medium.com/p/baf99e0bbe41) |
+| Wed, 09 Jul 2025 12:26:50 GMT | Best Practices for Securing Your Cloud Environments | Hakima | [Read More](https://medium.com/p/6118f469469e) |
+| Wed, 09 Jul 2025 12:26:16 GMT | My First CTF Experience on TryHackMe — A Beginner’s Journey with 0day Hunters | Jaymeen Bhatt | [Read More](https://medium.com/p/34ae63451a12) |
+| Wed, 09 Jul 2025 12:23:58 GMT | Why Microsoft 365 Still Needs a Backup Plan | JustinWang | [Read More](https://medium.com/p/3010368fd7a3) |
+| Wed, 09 Jul 2025 12:13:21 GMT | 14 AWS Lambda Security Best Practices to Secure Your Serverless Applications | Ran Isenberg | [Read More](https://medium.com/p/0816416bcfe8) |
+| Wed, 09 Jul 2025 12:08:28 GMT | The Broken Link Hijack — Weaponizing Forgotten URLs for Maximum Impact | Đeepanshu | [Read More](https://medium.com/p/99d6a911a1c4) |
+| Wed, 09 Jul 2025 12:04:34 GMT | TryHackMe Peak Hill — Walkthrough | mauzware | [Read More](https://medium.com/p/11d416f478ba) |
+| Wed, 09 Jul 2025 12:01:48 GMT | Australia Application Security Market Projected to Reach USD 575.4 Million by 2033 | Ranjeet Sharma | [Read More](https://medium.com/p/70c3d174812e) |
+| Wed, 09 Jul 2025 12:00:11 GMT | Extropy Security Bytes: w27 2025 | Extropy.IO | [Read More](https://medium.com/p/14b51d252a89) |
+| Wed, 09 Jul 2025 11:48:47 GMT | Is China Rebuilding Iran’s Air Defences with HQ-9B Long Range Missile Systems? | Defence Affairs & Analysis | [Read More](https://medium.com/p/b756ce03f60f) |
+| Wed, 09 Jul 2025 11:35:13 GMT | The Weekend I Built a Personal Threat Detection System for My Home WiFi | Suleman safdar | [Read More](https://medium.com/p/7a4a6a49b949) |
+| Wed, 09 Jul 2025 11:33:50 GMT | PicoCTF 2024: WebDecode — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/e247b16b50ff) |
 | Wed, 09 Jul 2025 11:29:35 GMT | Vulnversity — Walkthrough Tryhackme | Bot Hacks | [Read More](https://medium.com/p/8b664ac117b7) |
 | Wed, 09 Jul 2025 11:20:25 GMT | Threat Hunting with the Pyramid of Pain | Andrey Pautov | [Read More](https://medium.com/p/8add3cedb380) |
 | Wed, 09 Jul 2025 11:18:49 GMT | Why “Zero Trust” Is a Lie | Muhannad AlBreiki | [Read More](https://medium.com/p/25e96f93dce1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 07:09:24 GMT | API2:2023 Broken Authentication | Apifort | [Read More](https://medium.com/p/8ae58f65981c) |
 | Wed, 09 Jul 2025 07:08:59 GMT | Part V: Auto-Generated Docs and Badges — From Scripts to Self-Explaining Pipelines | Raymon Epping | [Read More](https://medium.com/p/883dd52b7127) |
 | Wed, 09 Jul 2025 07:06:28 GMT | Part IV: Decision Trees and Demo Workflows — v2.0.0 Reload and Repeat | Raymon Epping | [Read More](https://medium.com/p/7305b899353c) |
-| Wed, 09 Jul 2025 07:03:44 GMT | Why Telegram for Cybercriminals Still Works in 2025 | TheReviewHive | [Read More](https://medium.com/p/4e910ebdd4ed) |
-| Wed, 09 Jul 2025 07:01:50 GMT | 7-Zip 25: Why You Should Upgrade — Security, Stability, and Beyond | Easy2Patch | [Read More](https://medium.com/p/b5c8114f774c) |
-| Wed, 09 Jul 2025 07:01:49 GMT | When You’re Tired of Being Someone — and You Start Learning to Be Yourself, From Scratch | Łukasz Ratajczak | [Read More](https://medium.com/p/29c8f13066fe) |
-| Wed, 09 Jul 2025 06:48:46 GMT | My Fun Journey with Hacking, Virtual Machines, Linux, and Networking | Ebinreji | [Read More](https://medium.com/p/c0136fd8ce40) |
-| Wed, 09 Jul 2025 06:47:29 GMT | Top 7 AI Tools for Automated Security Testing in 2025 | DefenceRabbit | [Read More](https://medium.com/p/ec8dbf238578) |
-| Wed, 09 Jul 2025 06:47:08 GMT | The Illusion of Randomness: Building Trust in Secure Generators | Sylvain Tiset | [Read More](https://medium.com/p/35aa33aae14d) |
-| Wed, 09 Jul 2025 06:44:37 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/e90d4c823917) |
-| Wed, 09 Jul 2025 06:43:28 GMT | Critical RCE Vulnerability in Redis HyperLogLog (CVE-2025–32023) | Quella | [Read More](https://medium.com/p/d2cbde2a8ec0) |
-| Wed, 09 Jul 2025 06:42:07 GMT | Lost Phone, Active SIM: How a Simple Mistake Can Destroy Your Digital Life | Yeswehack | [Read More](https://medium.com/p/3dbafec070a5) |
-| Wed, 09 Jul 2025 06:41:44 GMT | Rethinking digital security in the age of AI | Parth Kulkarni | [Read More](https://medium.com/p/bc845815fd93) |
-| Wed, 09 Jul 2025 06:41:25 GMT | Satellites, Cyber Weapons, and AI: The Unseen War That Already Began | Sanjeev Rattan | [Read More](https://medium.com/p/44324264a40b) |
-| Wed, 09 Jul 2025 06:39:37 GMT | Tekstil Güvenliği İçin Entegre Güvenlik Çözümleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/8fc22dec3571) |
-| Wed, 09 Jul 2025 06:22:52 GMT | The Architect’s Throne: Why Some Solution Architects Fall from Grace | Namir Sagheenanajar | [Read More](https://medium.com/p/1d297620d586) |
