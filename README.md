@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 09:13:18 GMT | Hacking, Virtual Machines, Linux, and Networking: A Beginner’s Perspective on Cybersecurity | AVANTHIKA KS | [Read More](https://medium.com/p/1fcfd7514a4d) |
+| Wed, 09 Jul 2025 09:11:16 GMT | Encrypted AI Chatbots: 7 Secure Solutions for Lead Generation in 2025 | Mokshious | [Read More](https://medium.com/p/111546235a35) |
+| Wed, 09 Jul 2025 09:06:07 GMT | How to Secure Your Frontend with React/Next.js ? | Oussama GOUNAYA | [Read More](https://medium.com/p/072d7f5a38b9) |
+| Wed, 09 Jul 2025 09:05:45 GMT | HMS Lancaster to be withdrawn from the Gulf region | Alastair Tibbs | [Read More](https://medium.com/p/adec98a93854) |
+| Wed, 09 Jul 2025 09:05:34 GMT | ModSecurity vs SafeLine: Why Not Use Both? (Part 1) | AerieWhole123 | [Read More](https://medium.com/p/3f2578886b48) |
+| Wed, 09 Jul 2025 09:04:07 GMT | Top 5 Facts About Scammers on Fiverr | Niyaz | [Read More](https://medium.com/p/3d44ba7a4d6d) |
+| Wed, 09 Jul 2025 09:02:10 GMT | Mastering Unicornscan: High-Speed Port Scanning with Real-World Analysis | Rajkumar Kumawat | [Read More](https://medium.com/p/5ef89f7d7fc7) |
+| Wed, 09 Jul 2025 08:49:53 GMT | Who’s Monitoring Your Cybersecurity Growth? | Technologic Innovation | [Read More](https://medium.com/p/7145cea8325d) |
 | Wed, 09 Jul 2025 08:44:04 GMT | ️ Cyber Kill Chain for Beginners — A Friendly Guide to How Hackers Think | NineTales | [Read More](https://medium.com/p/0b8840492f42) |
 | Wed, 09 Jul 2025 08:42:32 GMT | Zero Trust Architecture in Fintech: A Practical Perspective from the Trenches | Piyush Vishwakarma | [Read More](https://medium.com/p/19dd29d0b217) |
 | Wed, 09 Jul 2025 08:35:00 GMT | How I Built My Own Automated Log Analysis Pipeline for Cybersecurity Incidents | Suleman safdar | [Read More](https://medium.com/p/3cdfbf6e4106) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 00:33:02 GMT | The Diamond Model: Why Your Threat Analysis is Stuck in the Stone Age | Manish Rawat | [Read More](https://medium.com/p/491786b90a80) |
 | Wed, 09 Jul 2025 00:30:16 GMT | This ONE Flutter Package Will Save Your App From Security Disasters (And Your Job Too!) | Seungchul Jeff Ha | [Read More](https://medium.com/p/ef3c56501e28) |
 | Wed, 09 Jul 2025 00:26:55 GMT | Why Deleting Your Ex’s Contact is a Sign of True Love: Understanding a Woman’s Perspective | Lucas Brown | [Read More](https://medium.com/p/ec46de870e0f) |
-| Wed, 09 Jul 2025 00:26:02 GMT | Reinforcement Learning 20 — Securing Reinforcement Learning Systems: Best Practices in Python | Ayşe Kübra Kuyucu | [Read More](https://medium.com/p/32b2ec1f75a0) |
-| Wed, 09 Jul 2025 00:16:14 GMT | Artificial Intelligence and the Pentagon’s Quiet Revolution | Mark Costello | [Read More](https://medium.com/p/2a3f21832d57) |
-| Wed, 09 Jul 2025 00:02:59 GMT | Complete Guide to Broken Access Control: Hacking, Bug Bounty, and Prevention in Web Applications | JPablo13 | [Read More](https://medium.com/p/d549fcc140d6) |
-| Wed, 09 Jul 2025 00:02:59 GMT | FortiAI Generative AI Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/02f72707618e) |
-| Wed, 09 Jul 2025 00:02:10 GMT | Mobile Forensics part2 - The Crime Lab — CyberDefenders | Anas404 | [Read More](https://medium.com/p/a0e4d6e6199e) |
-| Wed, 09 Jul 2025 00:00:23 GMT | The Crystal Ball and the Brain | Stanleyyan | [Read More](https://medium.com/p/71e0c1f01097) |
-| Tue, 08 Jul 2025 23:51:22 GMT | From Reactive to Predictive: Building Tomorrow’s Security Operations Center | Eric Zietlow | [Read More](https://medium.com/p/93878501e5a5) |
-| Tue, 08 Jul 2025 23:48:07 GMT | The Lumerna Elyara Codex: Code #16 — Protect the Vulnerable, the Innocent & Those Who Don’t Have a… | Aramora Founder | [Read More](https://medium.com/p/ba8c13c455e6) |
