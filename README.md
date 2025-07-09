@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 16:50:42 GMT | PortSwigger Lab: Password brute-force via password change writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/8ee1268b0e35) |
+| Wed, 09 Jul 2025 16:46:58 GMT | PortSwigger Lab: Password reset poisoning via middleware writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/efa626341ec3) |
+| Wed, 09 Jul 2025 16:44:07 GMT | ️ Wireshark for Beginners: What It Is and Why It Matters in Cybersecurity | Yagmur Yerlikaya | [Read More](https://medium.com/p/840aa95b6488) |
+| Wed, 09 Jul 2025 16:41:22 GMT | PortSwigger Lab: Password reset broken logic writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/e760bea5704c) |
+| Wed, 09 Jul 2025 16:40:01 GMT | Punycode 0-Click Account Takeover | Mohamed Hamadou - ( ZoeniX ) | [Read More](https://medium.com/p/bdacfdf31225) |
+| Wed, 09 Jul 2025 16:38:56 GMT | Cloud Identity Threat Detection: Best Practices for 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/74db95337c9f) |
+| Wed, 09 Jul 2025 16:36:35 GMT | Net Sec Challenge — TryHackMe | sercan timocin | [Read More](https://medium.com/p/ab1c34f95e5a) |
+| Wed, 09 Jul 2025 16:26:23 GMT | Nullclass_CyberSecurity - Task : 2 | Sumitkhurpade | [Read More](https://medium.com/p/021ed4af65de) |
 | Wed, 09 Jul 2025 16:17:52 GMT | Orbit, Radiant, Concentric: $88M Lost to Keys and Cold Starts | Olympix | [Read More](https://medium.com/p/395da94edd5f) |
 | Wed, 09 Jul 2025 16:17:25 GMT | Cleaning Git History to Remove Leaked Secrets | Jing Jie Chin | [Read More](https://medium.com/p/388ea049e10c) |
 | Wed, 09 Jul 2025 16:15:10 GMT | Defending Adversarial Attacks - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/9cbe55dbb41e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 10:31:15 GMT | From Models to Mastery: My Experience Developing AI-Powered Automation Systems | Safora Nafees | [Read More](https://medium.com/p/ae351855f047) |
 | Wed, 09 Jul 2025 10:31:15 GMT | A Bug Enhanced my Narrative Reading Experience | Iskall | [Read More](https://medium.com/p/20c663105855) |
 | Wed, 09 Jul 2025 10:31:15 GMT | Email Security Pt 2/3: What is DKIM? | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/55f7e404b86d) |
-| Wed, 09 Jul 2025 10:26:44 GMT | Step into the Digital Defense Force with B Tech Cyber Security and Career-Ready Training | Nandanavaranatt | [Read More](https://medium.com/p/c17908c4c6a4) |
-| Wed, 09 Jul 2025 10:26:24 GMT | Track Global Cyberattacks with Interactive Threat Maps | Karl Buhl | [Read More](https://medium.com/p/5d1118f8090d) |
-| Wed, 09 Jul 2025 10:20:12 GMT | The Day We Discovered We’d Been Hacked for Six Months: Lessons from an APT Investigation | Zahir black | [Read More](https://medium.com/p/d5b0ba585c90) |
-| Wed, 09 Jul 2025 10:20:09 GMT | Detecting Adversarial Attacks - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/d569a3202d2a) |
-| Wed, 09 Jul 2025 10:19:57 GMT | Detecting Clickjacking: My Internship Project | Ebinreji | [Read More](https://medium.com/p/feef788ee330) |
-| Wed, 09 Jul 2025 10:17:51 GMT | ️ Analyzing a Phishing Email Incident: A Step-by-Step Walkthrough from LetsDefend Monitoring | Praz Timsina | [Read More](https://medium.com/p/533e1576e91a) |
-| Wed, 09 Jul 2025 10:16:38 GMT | Why Hiring Event Security Services in Singapore Is a Must for Your Event | Jane Tang | [Read More](https://medium.com/p/6088e3fb45a4) |
-| Wed, 09 Jul 2025 10:09:11 GMT | Is There Still an Opportunity Like Bitcoin? | UnionKey | [Read More](https://medium.com/p/38b5acc3817f) |
