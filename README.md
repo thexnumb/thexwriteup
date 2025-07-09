@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 05:15:18 GMT | CLOUD SECURITY AND DEVOPS | Ifeoma Nwokeoma | [Read More](https://medium.com/p/c5aa0eaba7eb) |
+| Wed, 09 Jul 2025 05:10:06 GMT | Can AI Be Held Legally Responsible? Exploring Robot Rights & Accountability | Legally Intellectual | [Read More](https://medium.com/p/a7d3bddda65b) |
+| Wed, 09 Jul 2025 05:09:32 GMT | How to Build a Career That Doesn’t Collapse with the Economy | Urna Gain | [Read More](https://medium.com/p/4fb46ea75e54) |
+| Wed, 09 Jul 2025 05:05:37 GMT | [CyberDefenders Write-up] QBot (Memory forensics of compromised System with QBot banking trojan) | Chicken0248 | [Read More](https://medium.com/p/e74d37108988) |
+| Wed, 09 Jul 2025 05:05:20 GMT | ZoomEye Dorking with Nuclei | AbhirupKonwar | [Read More](https://medium.com/p/f07c32fa2801) |
+| Wed, 09 Jul 2025 05:05:13 GMT | [CyberDefenders Write-up] IcedID 2 (Memory Forensics to discover ISO file leads to IcedID malware) | Chicken0248 | [Read More](https://medium.com/p/c7aecc9d5e98) |
+| Wed, 09 Jul 2025 05:02:06 GMT | The Linux Security Journey — TCP SYN Cookie Protection | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9bb87e0d6787) |
+| Wed, 09 Jul 2025 05:00:51 GMT | Demystifying Zero Trust: A Beginner’s Guide to Enhanced Cybersecurity | Ahmet Soner | [Read More](https://medium.com/p/de511adb0dfa) |
+| Wed, 09 Jul 2025 04:57:07 GMT | How to Advance in Cloud Penetration Testing: A Comprehensive Career Development Guide | cyber_pix | [Read More](https://medium.com/p/3e91ae60274c) |
 | Wed, 09 Jul 2025 04:40:01 GMT | Same CWE, Different Vector: RCE in Notepad++ Uninstaller | Maverick Doan | [Read More](https://medium.com/p/71f17e343b5b) |
 | Wed, 09 Jul 2025 04:36:06 GMT | Cybersecurity: Safeguarding the Digital Frontier | Darkshiner | [Read More](https://medium.com/p/52a7789e1970) |
 | Wed, 09 Jul 2025 04:32:57 GMT | Part 3: The Custom Gate — Building a Custom Authentication Scheme | Rohit Mittel | [Read More](https://medium.com/p/712cdcc5d0b4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 18:52:34 GMT | The Internship | Whitesell Seth | [Read More](https://medium.com/p/f0610d30cc5e) |
 | Tue, 08 Jul 2025 18:48:27 GMT | Radar Love Part III: Brewing a CLI Revolution | Raymon Epping | [Read More](https://medium.com/p/12a054708d2f) |
 | Tue, 08 Jul 2025 18:40:02 GMT | Critical Thinking: Humanity’s Advantage Over AI and the Foundation of Trust | Rachel Maron | [Read More](https://medium.com/p/162d3cc60659) |
-| Tue, 08 Jul 2025 18:33:06 GMT | Too Many, Too Fast: Why Your API Needs a Bouncer | Vineeth Tunk | [Read More](https://medium.com/p/9bf30b7b5455) |
-| Tue, 08 Jul 2025 18:32:51 GMT | Who Truly Knows Strength | Tami | [Read More](https://medium.com/p/e624b492984d) |
-| Tue, 08 Jul 2025 18:31:43 GMT | Different Types of IP Address - A Beginner’s Guide | Timonéofearth | [Read More](https://medium.com/p/f06e1c1b0b20) |
-| Tue, 08 Jul 2025 18:31:43 GMT | Web LLM attacks — Portswigger | Mukund | [Read More](https://medium.com/p/93f01697cf0c) |
-| Tue, 08 Jul 2025 18:29:45 GMT | The Urgent Cybersecurity Imperative for Europe’s Critical Sectors | Laszlo Daniel | [Read More](https://medium.com/p/8c29e3c8bdb8) |
-| Tue, 08 Jul 2025 18:28:08 GMT | Computer Hardware Components | w4llnut_ | [Read More](https://medium.com/p/cc8ffaf6f29e) |
-| Tue, 08 Jul 2025 18:20:42 GMT | A GPS for Human Knowledge: Addressing Educational Inefficiency Through Systematic… | Maven | [Read More](https://medium.com/p/27d6446be6c8) |
-| Tue, 08 Jul 2025 18:16:58 GMT | DeFi must learn from crypto hacks | 1inch | [Read More](https://medium.com/p/8d227de7b477) |
-| Tue, 08 Jul 2025 18:16:52 GMT | Choosing the Right Penetration Testing Partner: Insights from the Trenches | Mark Puckett | [Read More](https://medium.com/p/0a3a65da24e5) |
