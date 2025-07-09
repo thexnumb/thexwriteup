@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 20:35:44 GMT | Abstract: | Chris Clark | [Read More](https://medium.com/p/eed112f51593) |
+| Wed, 09 Jul 2025 20:31:50 GMT | Stored XSS via Organization Name | Ahmed Mahmoud | [Read More](https://medium.com/p/e47b7d476a06) |
+| Wed, 09 Jul 2025 20:30:13 GMT | Multi-Domain Cyber Threats: Strategic Insights from Ukraine, French Intelligence, and China’s Long… | Chris Clark | [Read More](https://medium.com/p/c1612b2e26c2) |
+| Wed, 09 Jul 2025 20:28:29 GMT | Why JWT Authentication is Reshaping Enterprise API Security in 2025 | Bhargava Koya - Fullstack .NET Developer | [Read More](https://medium.com/p/4ce7b36656ea) |
+| Wed, 09 Jul 2025 20:26:01 GMT | Mustacchio (TryHackMe) | musayyab sharif | [Read More](https://medium.com/p/1a8df389345d) |
+| Wed, 09 Jul 2025 20:23:51 GMT | Building a Secure HIPAA-Compliant CI/CD Pipeline for Healthcare Applications | Akshita Pradhan | [Read More](https://medium.com/p/cd57c1f8348b) |
 | Wed, 09 Jul 2025 20:22:14 GMT | “You Won’t Believe What These Hashing Algorithms Can Do to Protect Your Data!” | Paritosh | [Read More](https://medium.com/p/fed67878eded) |
+| Wed, 09 Jul 2025 20:19:43 GMT | Cryptopals: Break an ECB encrypted message (easy) | DanielOrihuela | [Read More](https://medium.com/p/038ab0d1e613) |
 | Wed, 09 Jul 2025 20:15:10 GMT | Jack Dorsey’s Bitchat Claims to Be Secure — But Security Experts Say ‘Absolutely Not’ | CoinGen | [Read More](https://medium.com/p/42f3c214a62b) |
+| Wed, 09 Jul 2025 20:13:44 GMT | How I Launched My First Cybersecurity SaaS Using Vibe Coding | Taimur Ijlal | [Read More](https://medium.com/p/63017131cd2c) |
 | Wed, 09 Jul 2025 20:04:22 GMT | Iran Focuses Cybercriminals on Foreign Enemies | Matthew.Rosenquist | [Read More](https://medium.com/p/228445f522f3) |
 | Wed, 09 Jul 2025 20:04:05 GMT | GMX Hit by $40M Exploit: Trading Paused, GLP Minting Frozen | CoinGen | [Read More](https://medium.com/p/0268465995ed) |
 | Wed, 09 Jul 2025 19:54:15 GMT | AI/ML Security Threats: TryHackMe Solutions | Mukund | [Read More](https://medium.com/p/adc8ade345e2) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 14:23:14 GMT | Lab: Stored DOM XSS | Chirag Vyas | [Read More](https://medium.com/p/84fa3b618645) |
 | Wed, 09 Jul 2025 14:22:57 GMT | Introduction to BOF (Beacon object file ) | Lord Murak | [Read More](https://medium.com/p/29763b849bfa) |
 | Wed, 09 Jul 2025 14:20:22 GMT | Nmap Cheat Sheet: Advanced Firewall Evasion Techniques | Nathan Steyka | [Read More](https://medium.com/p/7255f1f477b8) |
-| Wed, 09 Jul 2025 14:16:01 GMT | Advanced Threat Hunting: Proactive Defense in the Modern Cyber Battlefield | Ola Lawrence O | [Read More](https://medium.com/p/caa72e7a405f) |
-| Wed, 09 Jul 2025 14:14:22 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Wisdomalfred | [Read More](https://medium.com/p/de138f7b8720) |
-| Wed, 09 Jul 2025 14:05:47 GMT | The Evolution of Enterprise Security: Demystifying Secure Access Service Edge (SASE) | Rudraksh | [Read More](https://medium.com/p/70c7d260744f) |
-| Wed, 09 Jul 2025 13:55:26 GMT | The Quiet Power of Staying Soft in a Hard World | Prince Esien | [Read More](https://medium.com/p/aa554d98012a) |
-| Wed, 09 Jul 2025 13:55:01 GMT | Best Password Manager Apps for iPhone in 2025 | Awaismahmood | [Read More](https://medium.com/p/52f2051e773b) |
-| Wed, 09 Jul 2025 13:38:55 GMT | Authenticity: Living from the Inside Out | Nathalie Bonilla | [Read More](https://medium.com/p/0b05948415a1) |
-| Wed, 09 Jul 2025 13:38:38 GMT | A Crucible Moment for ITAD Certifications | Kyle Marks | [Read More](https://medium.com/p/5eb0b0f31e09) |
-| Wed, 09 Jul 2025 13:29:14 GMT | Urban Gardening Hacks for Small Spaces | Somdeb Paul | [Read More](https://medium.com/p/c7b238cd2c12) |
