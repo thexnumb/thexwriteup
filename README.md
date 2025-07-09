@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 15:22:38 GMT | ✈️Cybersecurity Culture: The Soft Skill That Prevents Hard Landings | Dziugas John Vaisvila | [Read More](https://medium.com/p/f1b8b17c6a95) |
+| Wed, 09 Jul 2025 15:21:47 GMT | What Possible Unauthorized Device Configuration Really Means And How to Act on It | Saikat Paul | [Read More](https://medium.com/p/2a373a7be502) |
+| Wed, 09 Jul 2025 15:20:11 GMT | MCP Deep Dive: the Great, the Broken, and the Downright Dangerous | Kyle Mistele | [Read More](https://medium.com/p/506836eda5b3) |
+| Wed, 09 Jul 2025 15:15:21 GMT | Why Should You Use Priil Optimizer to Boost Your PC’s Performance? | Priil Antivirus | [Read More](https://medium.com/p/77bcc98675d9) |
+| Wed, 09 Jul 2025 15:14:04 GMT | How a Venmo Setting Exposed a National Security & Privacy Risk — A Digital Forensics View on… | Hanaliu | [Read More](https://medium.com/p/d55b6f940779) |
+| Wed, 09 Jul 2025 15:13:01 GMT | Information Technology | Snehaverma | [Read More](https://medium.com/p/856d0e8de56b) |
+| Wed, 09 Jul 2025 15:08:34 GMT | A day in the life a SecDevOps engineer | Staticfield | [Read More](https://medium.com/p/7d2236d92115) |
+| Wed, 09 Jul 2025 15:03:03 GMT | Tech Debt Is Real: The Internet Runs on 30-Year-Old Code | Davin Oishi | [Read More](https://medium.com/p/2f115faca1a6) |
+| Wed, 09 Jul 2025 15:00:12 GMT | Hacking the CEH, My Way: A Guide for the Easily Distracted & Time-Blind | Shahnara Musthafa | [Read More](https://medium.com/p/9ccb02887be8) |
+| Wed, 09 Jul 2025 14:56:27 GMT | Windows Powershell For Beginners | Rohit Maity | [Read More](https://medium.com/p/6220a0c664ad) |
+| Wed, 09 Jul 2025 14:47:18 GMT | TryHackMe - Detecting Adversarial Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/ced7b83935f7) |
 | Wed, 09 Jul 2025 14:40:15 GMT | TryHackMe - AI/ML Security Threats - WriteUp | Axoloth | [Read More](https://medium.com/p/14288ba2711d) |
 | Wed, 09 Jul 2025 14:32:14 GMT | SQL Injection 104: How Attackers Exploit SQL Injection & Detecting Active Attacks | bithowl | [Read More](https://medium.com/p/df6dc942c6b0) |
 | Wed, 09 Jul 2025 14:23:57 GMT | Cybersecurity Awareness: Data Lifecycle Management — Why Your Data Needs Rules to Live By | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/600c49351c0b) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 09:28:55 GMT | The Vital Role of a Security Guard in Today’s Fast-Moving World | Stateguard Protective Services | [Read More](https://medium.com/p/dbf69e247dde) |
 | Wed, 09 Jul 2025 09:27:01 GMT | Opening Tiny Doors: Learning to Let People In | kinanri | [Read More](https://medium.com/p/b20cf2d4e65a) |
 | Wed, 09 Jul 2025 09:26:23 GMT | Key Skills You Gain from a CISM Certification | Dhanashri Bhale | [Read More](https://medium.com/p/81b57b275499) |
-| Wed, 09 Jul 2025 09:22:27 GMT | HTTPS for Local Development | Mdikramulhaqsagor | [Read More](https://medium.com/p/2918fce2eb30) |
-| Wed, 09 Jul 2025 09:13:18 GMT | Hacking, Virtual Machines, Linux, and Networking: A Beginner’s Perspective on Cybersecurity | AVANTHIKA KS | [Read More](https://medium.com/p/1fcfd7514a4d) |
-| Wed, 09 Jul 2025 09:11:16 GMT | Encrypted AI Chatbots: 7 Secure Solutions for Lead Generation in 2025 | Mokshious | [Read More](https://medium.com/p/111546235a35) |
-| Wed, 09 Jul 2025 09:06:07 GMT | How to Secure Your Frontend with React/Next.js ? | Oussama GOUNAYA | [Read More](https://medium.com/p/072d7f5a38b9) |
-| Wed, 09 Jul 2025 09:05:45 GMT | HMS Lancaster to be withdrawn from the Gulf region | Alastair Tibbs | [Read More](https://medium.com/p/adec98a93854) |
-| Wed, 09 Jul 2025 09:05:34 GMT | ModSecurity vs SafeLine: Why Not Use Both? (Part 1) | AerieWhole123 | [Read More](https://medium.com/p/3f2578886b48) |
-| Wed, 09 Jul 2025 09:04:07 GMT | Top 5 Facts About Scammers on Fiverr | Niyaz | [Read More](https://medium.com/p/3d44ba7a4d6d) |
-| Wed, 09 Jul 2025 09:02:10 GMT | Mastering Unicornscan: High-Speed Port Scanning with Real-World Analysis | Rajkumar Kumawat | [Read More](https://medium.com/p/5ef89f7d7fc7) |
-| Wed, 09 Jul 2025 08:49:53 GMT | Who’s Monitoring Your Cybersecurity Growth? | Technologic Innovation | [Read More](https://medium.com/p/7145cea8325d) |
-| Wed, 09 Jul 2025 08:44:04 GMT | ️ Cyber Kill Chain for Beginners — A Friendly Guide to How Hackers Think | NineTales | [Read More](https://medium.com/p/0b8840492f42) |
-| Wed, 09 Jul 2025 08:42:32 GMT | Zero Trust Architecture in Fintech: A Practical Perspective from the Trenches | Piyush Vishwakarma | [Read More](https://medium.com/p/19dd29d0b217) |
