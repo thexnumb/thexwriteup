@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 11:29:35 GMT | Vulnversity — Walkthrough Tryhackme | Bot Hacks | [Read More](https://medium.com/p/8b664ac117b7) |
+| Wed, 09 Jul 2025 11:20:25 GMT | Threat Hunting with the Pyramid of Pain | Andrey Pautov | [Read More](https://medium.com/p/8add3cedb380) |
+| Wed, 09 Jul 2025 11:18:49 GMT | Why “Zero Trust” Is a Lie | Muhannad AlBreiki | [Read More](https://medium.com/p/25e96f93dce1) |
+| Wed, 09 Jul 2025 11:17:42 GMT | Simple Client–Server Brew Cycle analogy with Starbucks Coffee Shop☕✨ | Tummalagunta Sai Sri Harshitha | [Read More](https://medium.com/p/a86e07ae30e0) |
+| Wed, 09 Jul 2025 11:14:05 GMT | A Practical Guide to Securing Azure Storage with Service Endpoints & Private Access using AZD | Dave R - Microsoft Azure & AI MVP☁️ | [Read More](https://medium.com/p/e0cff075be82) |
+| Wed, 09 Jul 2025 11:13:56 GMT | From Chaos to Clarity: How I Upgraded Help Desk Support with a Custom RAG AI | Nabil Pervez | [Read More](https://medium.com/p/96badc7fc0ba) |
 | Wed, 09 Jul 2025 11:12:52 GMT | Top Cybersecurity Solutions Every Healthcare Provider Needs. | Technologic Innovation | [Read More](https://medium.com/p/78ca579432fb) |
 | Wed, 09 Jul 2025 11:09:36 GMT | Car Park Security Solutions: Keeping Your Vehicle Safe | Professional UK Services | [Read More](https://medium.com/p/e071bdef0be8) |
 | Wed, 09 Jul 2025 11:07:56 GMT | Master SailPoint IdentityIQ in 2025 with Expert Online Training! | Pravin Choudhary | [Read More](https://medium.com/p/e5f9492ac6fb) |
@@ -77,6 +83,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 07:59:27 GMT | Top Benefits of Remote Security Monitoring for Businesses | Marcela John | [Read More](https://medium.com/p/d88b7aa2de4c) |
 | Wed, 09 Jul 2025 07:57:23 GMT | Why the Penetration Testing Course with AI Will Be in High Demand in 2025 | cyber security Updates | [Read More](https://medium.com/p/ca0c6838de24) |
 | Wed, 09 Jul 2025 07:52:54 GMT | Broken Access Control in Salesforce: The Quiet Security Killer You’re Probably Ignoring | Musa Ndlala | [Read More](https://medium.com/p/7a7926e34602) |
+| Wed, 09 Jul 2025 07:52:29 GMT | Een essentieel element van organisatorische Cyber Defense | ZeroTrustZeroDay Netherlands | [Read More](https://medium.com/p/3c494ccb76d7) |
 | Wed, 09 Jul 2025 07:52:15 GMT | Security Blue Team: Introduction to Dark Web Operations Capstone Challenge | Pwnedproof | [Read More](https://medium.com/p/a5f0755e3d40) |
 | Wed, 09 Jul 2025 07:50:44 GMT | AI/ML Security Threats - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/4e971eccc8f8) |
 | Wed, 09 Jul 2025 07:49:41 GMT | How AI Is Changing the Future of Cybersecurity (AI vs. Hackers) | Sagar Majumdar | [Read More](https://medium.com/p/ab9231e07f91) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 06:41:25 GMT | Satellites, Cyber Weapons, and AI: The Unseen War That Already Began | Sanjeev Rattan | [Read More](https://medium.com/p/44324264a40b) |
 | Wed, 09 Jul 2025 06:39:37 GMT | Tekstil Güvenliği İçin Entegre Güvenlik Çözümleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/8fc22dec3571) |
 | Wed, 09 Jul 2025 06:22:52 GMT | The Architect’s Throne: Why Some Solution Architects Fall from Grace | Namir Sagheenanajar | [Read More](https://medium.com/p/1d297620d586) |
-| Wed, 09 Jul 2025 06:21:24 GMT | SideChannel -picoCTF | Palkesh Jain | [Read More](https://medium.com/p/0cc0960883d3) |
-| Wed, 09 Jul 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Jul 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b821c13b7150) |
-| Wed, 09 Jul 2025 05:57:27 GMT | 10 Best WordPress Database Plugins to Speed Up and Secure Your Site | Dishang | [Read More](https://medium.com/p/e1479a6f875f) |
-| Wed, 09 Jul 2025 05:49:42 GMT | What is Cybersecurity? An Essential Introduction for Everyone | Functioning Media University | [Read More](https://medium.com/p/35cdf48fd416) |
-| Wed, 09 Jul 2025 05:48:11 GMT | How I Got My First bug In Just 2 Minutes(HTML Injection) | Dipu Basak | [Read More](https://medium.com/p/e1983836fb8e) |
-| Wed, 09 Jul 2025 05:42:24 GMT | The Unprecedented Demand for Cybersecurity Professionals: Securing Our Digital Future | bikash Gochhayat | [Read More](https://medium.com/p/4d543ffd5236) |
-| Wed, 09 Jul 2025 05:32:53 GMT | AI, Cybersecurity & Green Tech: The 3 Hiring Frontiers of 2025 | MyNextDeveloper | [Read More](https://medium.com/p/70d972553f3f) |
