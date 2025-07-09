@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 10:45:16 GMT | PicoCTF 2022: Buffer Overflow 0 | Murányi Levente | [Read More](https://medium.com/p/f26e5fc9b31e) |
+| Wed, 09 Jul 2025 10:43:48 GMT | The Kudankulam Nuclear Power Plant Cyber Attack: India’s Silent Wake-Up Call | kavish shah | [Read More](https://medium.com/p/7e75ca82c3ce) |
+| Wed, 09 Jul 2025 10:36:31 GMT | The Anatomy of a Smart Money Move: How Yesterday’s Market Selloff Revealed Tomorrow’s Opportunities | Dorian Kortland | [Read More](https://medium.com/p/c9d38a0fb49c) |
+| Wed, 09 Jul 2025 10:35:36 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Wisdomalfred | [Read More](https://medium.com/p/ac5c4c143163) |
+| Wed, 09 Jul 2025 10:32:24 GMT | Why I Switched to CryptoXpress from MetaMask for Security Reasons | Zekanem King | [Read More](https://medium.com/p/8e219fe94f5a) |
+| Wed, 09 Jul 2025 10:31:15 GMT | From Models to Mastery: My Experience Developing AI-Powered Automation Systems | Safora Nafees | [Read More](https://medium.com/p/ae351855f047) |
+| Wed, 09 Jul 2025 10:31:15 GMT | A Bug Enhanced my Narrative Reading Experience | Iskall | [Read More](https://medium.com/p/20c663105855) |
+| Wed, 09 Jul 2025 10:31:15 GMT | Email Security Pt 2/3: What is DKIM? | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/55f7e404b86d) |
+| Wed, 09 Jul 2025 10:26:44 GMT | Step into the Digital Defense Force with B Tech Cyber Security and Career-Ready Training | Nandanavaranatt | [Read More](https://medium.com/p/c17908c4c6a4) |
+| Wed, 09 Jul 2025 10:26:24 GMT | Track Global Cyberattacks with Interactive Threat Maps | Karl Buhl | [Read More](https://medium.com/p/5d1118f8090d) |
+| Wed, 09 Jul 2025 10:20:12 GMT | The Day We Discovered We’d Been Hacked for Six Months: Lessons from an APT Investigation | Zahir black | [Read More](https://medium.com/p/d5b0ba585c90) |
+| Wed, 09 Jul 2025 10:20:09 GMT | Detecting Adversarial Attacks - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/d569a3202d2a) |
+| Wed, 09 Jul 2025 10:19:57 GMT | Detecting Clickjacking: My Internship Project | Ebinreji | [Read More](https://medium.com/p/feef788ee330) |
+| Wed, 09 Jul 2025 10:17:51 GMT | ️ Analyzing a Phishing Email Incident: A Step-by-Step Walkthrough from LetsDefend Monitoring | Praz Timsina | [Read More](https://medium.com/p/533e1576e91a) |
 | Wed, 09 Jul 2025 10:16:38 GMT | Why Hiring Event Security Services in Singapore Is a Must for Your Event | Jane Tang | [Read More](https://medium.com/p/6088e3fb45a4) |
 | Wed, 09 Jul 2025 10:09:11 GMT | Is There Still an Opportunity Like Bitcoin? | UnionKey | [Read More](https://medium.com/p/38b5acc3817f) |
 | Wed, 09 Jul 2025 10:06:54 GMT | Cyberattacks and Global Politics: What You Don’t See Behind the Screens | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/11170812c40a) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 05:05:13 GMT | [CyberDefenders Write-up] IcedID 2 (Memory Forensics to discover ISO file leads to IcedID malware) | Chicken0248 | [Read More](https://medium.com/p/c7aecc9d5e98) |
 | Wed, 09 Jul 2025 05:02:06 GMT | The Linux Security Journey — TCP SYN Cookie Protection | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9bb87e0d6787) |
 | Wed, 09 Jul 2025 05:00:51 GMT | Demystifying Zero Trust: A Beginner’s Guide to Enhanced Cybersecurity | Ahmet Soner | [Read More](https://medium.com/p/de511adb0dfa) |
-| Wed, 09 Jul 2025 04:57:07 GMT | How to Advance in Cloud Penetration Testing: A Comprehensive Career Development Guide | cyber_pix | [Read More](https://medium.com/p/3e91ae60274c) |
-| Wed, 09 Jul 2025 04:40:01 GMT | Same CWE, Different Vector: RCE in Notepad++ Uninstaller | Maverick Doan | [Read More](https://medium.com/p/71f17e343b5b) |
-| Wed, 09 Jul 2025 04:36:06 GMT | Cybersecurity: Safeguarding the Digital Frontier | Darkshiner | [Read More](https://medium.com/p/52a7789e1970) |
-| Wed, 09 Jul 2025 04:32:57 GMT | Part 3: The Custom Gate — Building a Custom Authentication Scheme | Rohit Mittel | [Read More](https://medium.com/p/712cdcc5d0b4) |
-| Wed, 09 Jul 2025 04:22:18 GMT | Hands-on Practice & Labs For SIME | Md. Ahnaf Shahariar | [Read More](https://medium.com/p/f2859fa00069) |
-| Wed, 09 Jul 2025 04:12:47 GMT | CNTRL+A + Delete | Nathan D Daniels | [Read More](https://medium.com/p/9d3345259939) |
-| Wed, 09 Jul 2025 04:06:50 GMT | Career Opportunities After Completing an Ethical Hacking and Cybersecurity Course | Tabitha Matthews | [Read More](https://medium.com/p/710332b45f4b) |
-| Wed, 09 Jul 2025 04:06:50 GMT | Decifrando JSON Web Tokens (JWT): Estratégias para Refresh Tokens em CTFs e Pentests | Sérgio Corrêa | [Read More](https://medium.com/p/c31009114dac) |
-| Wed, 09 Jul 2025 04:00:46 GMT | METRAG- Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi-layered… | Tho Nguyen | [Read More](https://medium.com/p/d73996bb73f7) |
-| Wed, 09 Jul 2025 03:55:12 GMT | Cara Mengeksploitasi RCE Hingga Mendapatkan Akses Webshell di Website Berbasis PHP | Alexithema - Sinzoxp | [Read More](https://medium.com/p/367a1259511f) |
-| Wed, 09 Jul 2025 03:41:29 GMT | How Offline Mesh Messaging Works: Inside the Next Gen of Communication | Rahul Mishra | [Read More](https://medium.com/p/3187c2df995d) |
-| Wed, 09 Jul 2025 03:37:15 GMT | Built-In Rate Limiting in SafeLine WAF: What You Need to Know | Quella | [Read More](https://medium.com/p/2c13ac7eb35d) |
-| Wed, 09 Jul 2025 03:36:18 GMT | XSS on a Legal Services Site | AbhirupKonwar | [Read More](https://medium.com/p/3c0b3fb176c5) |
-| Wed, 09 Jul 2025 03:32:54 GMT | Cookie-Bite: The Chrome Extension Hack That Bypasses MFA and Steals Your Sessions | Deven Chhajed | [Read More](https://medium.com/p/7b8a4813ceb7) |
