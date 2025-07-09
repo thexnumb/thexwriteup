@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 08:23:22 GMT | How to Secure a Website and How SafeLine Helps | Maverick Steel | [Read More](https://medium.com/p/acccc7ec8ad4) |
+| Wed, 09 Jul 2025 08:21:03 GMT | From Zero to Hacker : Learn Hacking with wordcell,Linux Tools,and Networking. | Sreelekshmi Harikumar | [Read More](https://medium.com/p/617b5541a599) |
+| Wed, 09 Jul 2025 08:20:32 GMT | The Cosmos Bank Cyber Attack: How Hackers Stole ₹94 Crore in Minutes | Lomas Asodariya | [Read More](https://medium.com/p/9ce9c04c0ba4) |
+| Wed, 09 Jul 2025 08:08:47 GMT | How I Built a Personal AI Research Assistant That Reads, Summarizes, and Answers Questions From… | Tech Tales | [Read More](https://medium.com/p/5b7510776e99) |
+| Wed, 09 Jul 2025 08:07:56 GMT | Top DevOps Technologies Shaping 2025 | Devseccopsai | [Read More](https://medium.com/p/e6efbe1b1c90) |
+| Wed, 09 Jul 2025 07:59:27 GMT | Top Benefits of Remote Security Monitoring for Businesses | Marcela John | [Read More](https://medium.com/p/d88b7aa2de4c) |
+| Wed, 09 Jul 2025 07:57:23 GMT | Why the Penetration Testing Course with AI Will Be in High Demand in 2025 | cyber security Updates | [Read More](https://medium.com/p/ca0c6838de24) |
+| Wed, 09 Jul 2025 07:52:54 GMT | Broken Access Control in Salesforce: The Quiet Security Killer You’re Probably Ignoring | Musa Ndlala | [Read More](https://medium.com/p/7a7926e34602) |
+| Wed, 09 Jul 2025 07:52:15 GMT | Security Blue Team: Introduction to Dark Web Operations Capstone Challenge | Pwnedproof | [Read More](https://medium.com/p/a5f0755e3d40) |
+| Wed, 09 Jul 2025 07:50:44 GMT | AI/ML Security Threats - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/4e971eccc8f8) |
+| Wed, 09 Jul 2025 07:49:41 GMT | How AI Is Changing the Future of Cybersecurity (AI vs. Hackers) | Sagar Majumdar | [Read More](https://medium.com/p/ab9231e07f91) |
+| Wed, 09 Jul 2025 07:44:54 GMT | Voicing the Darkness: The Healing Power of Letting It Out | Dorian Hardwood | [Read More](https://medium.com/p/9374e8fcbc14) |
+| Wed, 09 Jul 2025 07:42:45 GMT | How leaking your build system credentials can allow arbitary remote code execution. | Lee Dale | [Read More](https://medium.com/p/32328f6a61fb) |
 | Wed, 09 Jul 2025 07:41:41 GMT | I Got Social Engineered — And Didn’t Even Realize It | The Quiet Hacker | [Read More](https://medium.com/p/4cbc33187fd2) |
 | Wed, 09 Jul 2025 07:35:04 GMT | Shodan’t Have Shown That: How an Exposed Device Led to Source Code | Iski | [Read More](https://medium.com/p/27346a93f22e) |
 | Wed, 09 Jul 2025 07:29:49 GMT | Radar Love: Simulate and Detect Leaks in Secrets, PII, and Non-Inclusive Language (Before It’s… | Raymon Epping | [Read More](https://medium.com/p/c9706f43051f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 23:19:23 GMT | X Under Siege: Data Leaks, Bots, and Security Failures | ADanielHill | [Read More](https://medium.com/p/b24df636cb33) |
 | Tue, 08 Jul 2025 23:17:47 GMT | La tristeza no llora. | irene ortuño | [Read More](https://medium.com/p/93830c0b0617) |
 | Tue, 08 Jul 2025 23:16:26 GMT | Series: Fortifying the Digital Frontier — Your Guide to Crypto Security in Web3 | Ben San Roman | [Read More](https://medium.com/p/648ba92bd71f) |
-| Tue, 08 Jul 2025 23:05:19 GMT | When Kindness Leads, Hearts Heal – A World We All Deserve | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/c0e2aebc1c61) |
-| Tue, 08 Jul 2025 23:01:37 GMT | A Shortsighted Model for Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/e8333a60da5b) |
-| Tue, 08 Jul 2025 22:59:52 GMT | Vulnerability Data Enrichment for CVE Records: 230 CNAs on the Enrichment Recognition List for July… | CVE Program Blog | [Read More](https://medium.com/p/46422dd3ec31) |
-| Tue, 08 Jul 2025 22:56:14 GMT | My Experience as a Flow Scholar at Permissionless NYC | CJ Carnicle | [Read More](https://medium.com/p/3d25eb4613eb) |
-| Tue, 08 Jul 2025 22:48:14 GMT | All Your Secrets Belong to Us: Cambridge Analytica Scandal (2018) | Oludare Stephen Ayobami | [Read More](https://medium.com/p/65dbf11d8f7d) |
-| Tue, 08 Jul 2025 22:38:17 GMT | Disclaimer | Stewart Buse | [Read More](https://medium.com/p/31ea449bae78) |
-| Tue, 08 Jul 2025 22:32:01 GMT | Day 45: Cookies | Nile Okomo | [Read More](https://medium.com/p/7863683d55ad) |
-| Tue, 08 Jul 2025 22:13:26 GMT | The 4-Digit Code That Almost Took Down a Water Facility | Cyber-AppSec | [Read More](https://medium.com/p/723e7488b87b) |
-| Tue, 08 Jul 2025 22:09:58 GMT | Day 44: The Ethernet Protocol | Nile Okomo | [Read More](https://medium.com/p/e185f4bb5120) |
-| Tue, 08 Jul 2025 21:55:24 GMT | A Quiet Start | Sentinel Theory | [Read More](https://medium.com/p/1bee31a13ebc) |
-| Tue, 08 Jul 2025 21:48:25 GMT | How I Unlocked Windows Without a Password — The Right Way | Gayathri | [Read More](https://medium.com/p/956e270221f8) |
-| Tue, 08 Jul 2025 21:32:06 GMT | TryHackMe — Steel Mountain | Cyber Anom | [Read More](https://medium.com/p/9aabc1ef42fb) |
-| Tue, 08 Jul 2025 21:31:40 GMT | How the Metaverse works | Ebuka Nkoro | [Read More](https://medium.com/p/fc16bb1280fd) |
