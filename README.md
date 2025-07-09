@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 23:32:50 GMT | One of the Paradoxes with Posting Online with Severe OCD | Uland's OCD Hub | [Read More](https://medium.com/p/bef65f45b41a) |
+| Wed, 09 Jul 2025 23:32:36 GMT | 5 Reasons to Choose Live CCTV Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/0ca4152cb857) |
+| Wed, 09 Jul 2025 23:19:21 GMT | The 16B records Data Breach that did not exist | Appsec.pt | [Read More](https://medium.com/p/5cca8fddd0e8) |
+| Wed, 09 Jul 2025 23:17:02 GMT | IA for Security — Memória em Chatbots LLMs: Short e Long Memory na Prática — Parte 2 | Fernando Carrara | [Read More](https://medium.com/p/65ca8d3145ab) |
 | Wed, 09 Jul 2025 23:09:22 GMT | How a single line of code can cost millions | Mohamedajguernoun | [Read More](https://medium.com/p/f187ea3b7544) |
 | Wed, 09 Jul 2025 23:04:59 GMT | Common Cloud Misconfigurations: How to Find and Fix Them | Amrik Singh Hanjra | [Read More](https://medium.com/p/de4234863052) |
 | Wed, 09 Jul 2025 23:00:29 GMT | ContAInment . TryHackMe Walkthrough . AI/ML DFIR | RosanaFSS | [Read More](https://medium.com/p/08bb7aedfba7) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 15:31:50 GMT | I Found 12 Bugs in One Program | Ibtissam hammadi | [Read More](https://medium.com/p/1b011e7a2279) |
 | Wed, 09 Jul 2025 15:31:20 GMT | Want a Smart Security Camera? Let’s Compare How These 3 Bestselling Ones Stack Up | Bogymohamedali | [Read More](https://medium.com/p/e54612e0eb78) |
 | Wed, 09 Jul 2025 15:28:55 GMT | AI, Cybersecurity, and the Battle for Control: Lessons from TryHackMe’s AI/ML Security Threats Room | Ayr1n | [Read More](https://medium.com/p/1cf375bcd2a2) |
-| Wed, 09 Jul 2025 15:25:51 GMT | Part 24: DevSecOps | Adekola Olawale | [Read More](https://medium.com/p/04143577942e) |
-| Wed, 09 Jul 2025 15:22:38 GMT | ✈️Cybersecurity Culture: The Soft Skill That Prevents Hard Landings | Dziugas John Vaisvila | [Read More](https://medium.com/p/f1b8b17c6a95) |
-| Wed, 09 Jul 2025 15:22:03 GMT | My Hands-On Guide to Mastering AWS KMS Encryption | AashishChaudhari | [Read More](https://medium.com/p/b971344b4d17) |
-| Wed, 09 Jul 2025 15:21:47 GMT | What Possible Unauthorized Device Configuration Really Means And How to Act on It | Saikat Paul | [Read More](https://medium.com/p/2a373a7be502) |
