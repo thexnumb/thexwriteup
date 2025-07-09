@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 17:43:08 GMT | How Proactive Video Monitoring Is Redefining Commercial Security in the USA | ASI Systems Pro | [Read More](https://medium.com/p/22c65848e59f) |
+| Wed, 09 Jul 2025 17:37:23 GMT | Why Thrissur Needs a Cyber Security Academy: Building Kerala’s Digital Defense | Abhinav Shelly | [Read More](https://medium.com/p/7e73a450f62a) |
+| Wed, 09 Jul 2025 17:36:59 GMT | A Beginner’s Guide to Understanding DHCP and the DORA Process | Shubham Sharma | [Read More](https://medium.com/p/6c7aa6377f90) |
+| Wed, 09 Jul 2025 17:29:33 GMT | Choosing the Right IT Security Company: What You Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/ee66ea5e4160) |
+| Wed, 09 Jul 2025 17:28:17 GMT | Blockchain: The Future Backbone of Data Integrity and Security | Sagarchhetri | [Read More](https://medium.com/p/6d065579b8e8) |
+| Wed, 09 Jul 2025 17:25:35 GMT | Deepfake Engineering | JD Brooks | [Read More](https://medium.com/p/b0150cb22766) |
+| Wed, 09 Jul 2025 17:24:17 GMT | $$ From 403 Forbidden to Superadmin: My Path Through the Backdoor | Aman Sharma | [Read More](https://medium.com/p/77b85774fee5) |
+| Wed, 09 Jul 2025 17:19:05 GMT | Prepping for ISC2 CC[Certified in Cybersecurity] : Tips from a Rookie | Nathamayil Natesh | [Read More](https://medium.com/p/4e82207599ec) |
+| Wed, 09 Jul 2025 17:13:43 GMT | ✨ Why Finishing Tasks Isn’t the Same as Growing Your Career | Jaya Vishwakarma | [Read More](https://medium.com/p/96ce9b07200a) |
+| Wed, 09 Jul 2025 17:13:15 GMT | Top 7 Benefits of Using Blockchain for Secure Data Management. | Technologic Innovation | [Read More](https://medium.com/p/eaf069069ca7) |
 | Wed, 09 Jul 2025 17:07:32 GMT | Organizing the Chaos: Why Password Managers Make Developer Onboarding Easier | Autumn | [Read More](https://medium.com/p/535c66737ea5) |
 | Wed, 09 Jul 2025 17:05:01 GMT | Why an OT Device Reaching the Internet Should Raise Red Flags | Saikat Paul | [Read More](https://medium.com/p/5c24493a1074) |
 | Wed, 09 Jul 2025 16:56:49 GMT | ¿Subes una foto? Estás subiendo más de lo que crees… | Gorka | [Read More](https://medium.com/p/e97d9182cf38) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 11:13:56 GMT | From Chaos to Clarity: How I Upgraded Help Desk Support with a Custom RAG AI | Nabil Pervez | [Read More](https://medium.com/p/96badc7fc0ba) |
 | Wed, 09 Jul 2025 11:12:52 GMT | Top Cybersecurity Solutions Every Healthcare Provider Needs. | Technologic Innovation | [Read More](https://medium.com/p/78ca579432fb) |
 | Wed, 09 Jul 2025 11:09:36 GMT | Car Park Security Solutions: Keeping Your Vehicle Safe | Professional UK Services | [Read More](https://medium.com/p/e071bdef0be8) |
-| Wed, 09 Jul 2025 11:07:56 GMT | Master SailPoint IdentityIQ in 2025 with Expert Online Training! | Pravin Choudhary | [Read More](https://medium.com/p/e5f9492ac6fb) |
-| Wed, 09 Jul 2025 11:04:13 GMT | How AI Tools Are Changing Content Creation | Theinformaticshub | [Read More](https://medium.com/p/b54debfff7da) |
-| Wed, 09 Jul 2025 11:01:15 GMT | Google Chrome 138.0.7204.97: Closing the Exploit Gap with Easy2Patch | Easy2Patch | [Read More](https://medium.com/p/0c44bf5ffe86) |
-| Wed, 09 Jul 2025 11:01:00 GMT | How Exposed JDWP Debug Ports Are Turning Your CI/CD Servers into Crypto Mines — And What You Must… | CyBlog | [Read More](https://medium.com/p/6947004a327b) |
-| Wed, 09 Jul 2025 10:57:15 GMT | Day 40 of #60DaysofGRC: What is HIPAA? | Brittney Ginther | [Read More](https://medium.com/p/f36502710e97) |
-| Wed, 09 Jul 2025 10:45:16 GMT | PicoCTF 2022: Buffer Overflow 0 | Murányi Levente | [Read More](https://medium.com/p/f26e5fc9b31e) |
-| Wed, 09 Jul 2025 10:43:48 GMT | The Kudankulam Nuclear Power Plant Cyber Attack: India’s Silent Wake-Up Call | kavish shah | [Read More](https://medium.com/p/7e75ca82c3ce) |
-| Wed, 09 Jul 2025 10:37:28 GMT | [Walkthrough] Anthem — TryHackMe - Easy Windows | Karan Chaudhary | [Read More](https://medium.com/p/513dfbe33ad8) |
-| Wed, 09 Jul 2025 10:36:31 GMT | The Anatomy of a Smart Money Move: How Yesterday’s Market Selloff Revealed Tomorrow’s Opportunities | Dorian Kortland | [Read More](https://medium.com/p/c9d38a0fb49c) |
-| Wed, 09 Jul 2025 10:35:36 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Wisdomalfred | [Read More](https://medium.com/p/ac5c4c143163) |
