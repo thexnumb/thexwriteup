@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 04:40:01 GMT | Same CWE, Different Vector: RCE in Notepad++ Uninstaller | Maverick Doan | [Read More](https://medium.com/p/71f17e343b5b) |
+| Wed, 09 Jul 2025 04:36:06 GMT | Cybersecurity: Safeguarding the Digital Frontier | Darkshiner | [Read More](https://medium.com/p/52a7789e1970) |
+| Wed, 09 Jul 2025 04:32:57 GMT | Part 3: The Custom Gate — Building a Custom Authentication Scheme | Rohit Mittel | [Read More](https://medium.com/p/712cdcc5d0b4) |
+| Wed, 09 Jul 2025 04:22:18 GMT | Hands-on Practice & Labs For SIME | Md. Ahnaf Shahariar | [Read More](https://medium.com/p/f2859fa00069) |
+| Wed, 09 Jul 2025 04:12:47 GMT | CNTRL+A + Delete | Nathan D Daniels | [Read More](https://medium.com/p/9d3345259939) |
+| Wed, 09 Jul 2025 04:06:50 GMT | Career Opportunities After Completing an Ethical Hacking and Cybersecurity Course | Tabitha Matthews | [Read More](https://medium.com/p/710332b45f4b) |
+| Wed, 09 Jul 2025 04:06:50 GMT | Decifrando JSON Web Tokens (JWT): Estratégias para Refresh Tokens em CTFs e Pentests | Sérgio Corrêa | [Read More](https://medium.com/p/c31009114dac) |
 | Wed, 09 Jul 2025 04:00:46 GMT | METRAG- Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi-layered… | Tho Nguyen | [Read More](https://medium.com/p/d73996bb73f7) |
 | Wed, 09 Jul 2025 03:55:12 GMT | Cara Mengeksploitasi RCE Hingga Mendapatkan Akses Webshell di Website Berbasis PHP | Alexithema - Sinzoxp | [Read More](https://medium.com/p/367a1259511f) |
 | Wed, 09 Jul 2025 03:41:29 GMT | How Offline Mesh Messaging Works: Inside the Next Gen of Communication | Rahul Mishra | [Read More](https://medium.com/p/3187c2df995d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 18:20:42 GMT | A GPS for Human Knowledge: Addressing Educational Inefficiency Through Systematic… | Maven | [Read More](https://medium.com/p/27d6446be6c8) |
 | Tue, 08 Jul 2025 18:16:58 GMT | DeFi must learn from crypto hacks | 1inch | [Read More](https://medium.com/p/8d227de7b477) |
 | Tue, 08 Jul 2025 18:16:52 GMT | Choosing the Right Penetration Testing Partner: Insights from the Trenches | Mark Puckett | [Read More](https://medium.com/p/0a3a65da24e5) |
-| Tue, 08 Jul 2025 18:02:53 GMT | How I’m Learning to Receive Help | Liyuan Malone | [Read More](https://medium.com/p/d77d70406795) |
-| Tue, 08 Jul 2025 17:55:05 GMT | Data Backup vs Disaster Recovery: What Your Business Needs in 2025 | Techridge Solutions | [Read More](https://medium.com/p/ab8bf86af3dd) |
-| Tue, 08 Jul 2025 17:54:42 GMT | when running away feels like the only thing i can do… | arriettybean؛ଓ | [Read More](https://medium.com/p/61b42fc57285) |
-| Tue, 08 Jul 2025 17:52:39 GMT | My Brain Said Psychology. My Skills Said Tech. Cybersecurity Said Both…. | Hafsa Anwaar | [Read More](https://medium.com/p/edab095584cd) |
-| Tue, 08 Jul 2025 17:51:37 GMT | Cybersecurity Careers in Pakistan: A Rising Need, A Growing Field | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/783a87012c9b) |
-| Tue, 08 Jul 2025 17:48:20 GMT | Pi-hole: Take Back Control of Your Network and Block Ads at the DNS Level | Guruprasad | [Read More](https://medium.com/p/43f8842c9bef) |
-| Tue, 08 Jul 2025 17:41:05 GMT | “Hack Back” Game, Coming Soon… | Ty Anderson | [Read More](https://medium.com/p/f81c88432579) |
