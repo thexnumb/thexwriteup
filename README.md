@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 05:48:11 GMT | How I Got My First bug In Just 2 Minutes(HTML Injection) | Dipu Basak | [Read More](https://medium.com/p/e1983836fb8e) |
+| Wed, 09 Jul 2025 05:32:53 GMT | AI, Cybersecurity & Green Tech: The 3 Hiring Frontiers of 2025 | MyNextDeveloper | [Read More](https://medium.com/p/70d972553f3f) |
 | Wed, 09 Jul 2025 05:15:18 GMT | CLOUD SECURITY AND DEVOPS | Ifeoma Nwokeoma | [Read More](https://medium.com/p/c5aa0eaba7eb) |
 | Wed, 09 Jul 2025 05:10:06 GMT | Can AI Be Held Legally Responsible? Exploring Robot Rights & Accountability | Legally Intellectual | [Read More](https://medium.com/p/a7d3bddda65b) |
 | Wed, 09 Jul 2025 05:09:32 GMT | How to Build a Career That Doesn’t Collapse with the Economy | Urna Gain | [Read More](https://medium.com/p/4fb46ea75e54) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 19:01:03 GMT | What Defenders Need to Know From Last Week’s Threat Intel | Percy Edward | [Read More](https://medium.com/p/dccd8163fcca) |
 | Tue, 08 Jul 2025 18:54:30 GMT | The Hidden Mongoose .create() Trap: How It Silently Inserts Two Documents | Milad Fahmy | [Read More](https://medium.com/p/e13526da2fff) |
 | Tue, 08 Jul 2025 18:52:34 GMT | The Internship | Whitesell Seth | [Read More](https://medium.com/p/f0610d30cc5e) |
-| Tue, 08 Jul 2025 18:48:27 GMT | Radar Love Part III: Brewing a CLI Revolution | Raymon Epping | [Read More](https://medium.com/p/12a054708d2f) |
-| Tue, 08 Jul 2025 18:40:02 GMT | Critical Thinking: Humanity’s Advantage Over AI and the Foundation of Trust | Rachel Maron | [Read More](https://medium.com/p/162d3cc60659) |
