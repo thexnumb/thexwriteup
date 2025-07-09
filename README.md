@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 09:44:58 GMT | Cybersecurity for Normal People: How to Stay Safe Without Being a Tech Nerd | Rosalia Quinn | [Read More](https://medium.com/p/efe96246c627) |
+| Wed, 09 Jul 2025 09:44:47 GMT | Last Mile Cybersecurity | Ilan Mintz | [Read More](https://medium.com/p/5c57f030e49e) |
+| Wed, 09 Jul 2025 09:44:43 GMT | The Daily Tech Digest: 09 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/a3b194ed16c6) |
+| Wed, 09 Jul 2025 09:42:27 GMT | How to Stop Your Phone From Sharing Data With System Apps [Without Root – 2025 Guide] | Digimad.online | [Read More](https://medium.com/p/0d4e20cc8412) |
+| Wed, 09 Jul 2025 09:39:56 GMT | Can Your VPN Provider See What You’re Doing Online? [Truth Revealed – 2025] | Digimad.online | [Read More](https://medium.com/p/48fed4ae7fbf) |
+| Wed, 09 Jul 2025 09:38:20 GMT | Cyberkanun — Best cybercrime lawyer in india | Amit solanki | [Read More](https://medium.com/p/f25c2bb0dbaf) |
+| Wed, 09 Jul 2025 09:37:48 GMT | Mr. Phisher TryHackMe Writup | Krishna | [Read More](https://medium.com/p/08dd4b8aaddf) |
+| Wed, 09 Jul 2025 09:37:17 GMT | The Past, Present, and Future of SIEM: The Evolution of a Cybersecurity Power Tool | Yuksel | [Read More](https://medium.com/p/76ad125b2313) |
+| Wed, 09 Jul 2025 09:32:59 GMT | Unmasking the Threat: A Closer Look at Phishing and Its Dangerous Variants | Cyber Timi | [Read More](https://medium.com/p/0a68a17032f2) |
+| Wed, 09 Jul 2025 09:28:55 GMT | The Vital Role of a Security Guard in Today’s Fast-Moving World | Stateguard Protective Services | [Read More](https://medium.com/p/dbf69e247dde) |
+| Wed, 09 Jul 2025 09:27:01 GMT | Opening Tiny Doors: Learning to Let People In | kinanri | [Read More](https://medium.com/p/b20cf2d4e65a) |
+| Wed, 09 Jul 2025 09:26:23 GMT | Key Skills You Gain from a CISM Certification | Dhanashri Bhale | [Read More](https://medium.com/p/81b57b275499) |
+| Wed, 09 Jul 2025 09:22:27 GMT | HTTPS for Local Development | Mdikramulhaqsagor | [Read More](https://medium.com/p/2918fce2eb30) |
 | Wed, 09 Jul 2025 09:13:18 GMT | Hacking, Virtual Machines, Linux, and Networking: A Beginner’s Perspective on Cybersecurity | AVANTHIKA KS | [Read More](https://medium.com/p/1fcfd7514a4d) |
 | Wed, 09 Jul 2025 09:11:16 GMT | Encrypted AI Chatbots: 7 Secure Solutions for Lead Generation in 2025 | Mokshious | [Read More](https://medium.com/p/111546235a35) |
 | Wed, 09 Jul 2025 09:06:07 GMT | How to Secure Your Frontend with React/Next.js ? | Oussama GOUNAYA | [Read More](https://medium.com/p/072d7f5a38b9) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 02:24:46 GMT | LLM-Driven Blockchain Security Products: From Practice to Theory — A Preliminary Discourse | Nerbonic | [Read More](https://medium.com/p/a86930943f96) |
 | Wed, 09 Jul 2025 02:19:56 GMT | Rate limiting in ASP.NET Core 9.0 | Yaz | [Read More](https://medium.com/p/a9f9d4256fd5) |
 | Wed, 09 Jul 2025 02:13:17 GMT | Security Architecture of Swap DefiLlama | Enigma Tara Belle | [Read More](https://medium.com/p/7020a4b8df0a) |
-| Wed, 09 Jul 2025 01:56:31 GMT | Protecting Values in Env. Variables: Part II, Secrets in Local Volumes | W. Jenks Gibbons | [Read More](https://medium.com/p/d5f2ab7823ab) |
-| Wed, 09 Jul 2025 01:54:31 GMT | The Hidden Dangers of AI-Generated Code | Sophia Perez | [Read More](https://medium.com/p/d6feef2685ba) |
-| Wed, 09 Jul 2025 01:39:17 GMT | Miscellaneous Series 5 — Level up a Script Kiddie v8 skills Part 1 | INTfinity Consulting | [Read More](https://medium.com/p/2636b8201711) |
-| Wed, 09 Jul 2025 01:37:18 GMT | Data Protection Impact Assessment (DPIA) | Hussein Reda | [Read More](https://medium.com/p/25975b93c904) |
-| Wed, 09 Jul 2025 01:30:04 GMT | Soul Cyber Tech Brief | Ameer R. Weston-Lee / Soul Cyber | [Read More](https://medium.com/p/725fb15d9433) |
-| Wed, 09 Jul 2025 01:02:19 GMT | Start with VDPs Before Aiming for Private Bug Bounty Programs | 127.0.0.1 | [Read More](https://medium.com/p/dd6336131231) |
-| Wed, 09 Jul 2025 00:57:53 GMT | AI/ML Security Threats: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/89ba5c8d349d) |
-| Wed, 09 Jul 2025 00:41:59 GMT | Our recently published CyberArk Success adapted blog | Joe Agler | [Read More](https://medium.com/p/85f91223ccf1) |
-| Wed, 09 Jul 2025 00:41:45 GMT | The Cybersecurity Information Sharing Act Is Set to Expire. Here’s Why That Matters. | Brittney Ginther | [Read More](https://medium.com/p/e7c1d7c67733) |
-| Wed, 09 Jul 2025 00:36:06 GMT | HTTP: Métodos e Status Codes | Filipe Campos | [Read More](https://medium.com/p/bdd4ffd0b180) |
-| Wed, 09 Jul 2025 00:33:02 GMT | The Diamond Model: Why Your Threat Analysis is Stuck in the Stone Age | Manish Rawat | [Read More](https://medium.com/p/491786b90a80) |
-| Wed, 09 Jul 2025 00:30:16 GMT | This ONE Flutter Package Will Save Your App From Security Disasters (And Your Job Too!) | Seungchul Jeff Ha | [Read More](https://medium.com/p/ef3c56501e28) |
-| Wed, 09 Jul 2025 00:26:55 GMT | Why Deleting Your Ex’s Contact is a Sign of True Love: Understanding a Woman’s Perspective | Lucas Brown | [Read More](https://medium.com/p/ec46de870e0f) |
