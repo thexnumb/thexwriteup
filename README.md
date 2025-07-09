@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 08:44:04 GMT | ️ Cyber Kill Chain for Beginners — A Friendly Guide to How Hackers Think | NineTales | [Read More](https://medium.com/p/0b8840492f42) |
+| Wed, 09 Jul 2025 08:42:32 GMT | Zero Trust Architecture in Fintech: A Practical Perspective from the Trenches | Piyush Vishwakarma | [Read More](https://medium.com/p/19dd29d0b217) |
+| Wed, 09 Jul 2025 08:35:00 GMT | How I Built My Own Automated Log Analysis Pipeline for Cybersecurity Incidents | Suleman safdar | [Read More](https://medium.com/p/3cdfbf6e4106) |
+| Wed, 09 Jul 2025 08:34:23 GMT | Enhancing Cybersecurity: The Role of IT Helpdesk and Proactive Support in Preventing Data Breaches | 1Point1 Solutions | [Read More](https://medium.com/p/dcaea7ef727f) |
+| Wed, 09 Jul 2025 08:33:15 GMT | From curious beginners to cyber legends | HackersPrey | [Read More](https://medium.com/p/88a61ee1e804) |
 | Wed, 09 Jul 2025 08:23:22 GMT | How to Secure a Website and How SafeLine Helps | Maverick Steel | [Read More](https://medium.com/p/acccc7ec8ad4) |
 | Wed, 09 Jul 2025 08:21:03 GMT | From Zero to Hacker : Learn Hacking with wordcell,Linux Tools,and Networking. | Sreelekshmi Harikumar | [Read More](https://medium.com/p/617b5541a599) |
 | Wed, 09 Jul 2025 08:20:32 GMT | The Cosmos Bank Cyber Attack: How Hackers Stole ₹94 Crore in Minutes | Lomas Asodariya | [Read More](https://medium.com/p/9ce9c04c0ba4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 00:00:23 GMT | The Crystal Ball and the Brain | Stanleyyan | [Read More](https://medium.com/p/71e0c1f01097) |
 | Tue, 08 Jul 2025 23:51:22 GMT | From Reactive to Predictive: Building Tomorrow’s Security Operations Center | Eric Zietlow | [Read More](https://medium.com/p/93878501e5a5) |
 | Tue, 08 Jul 2025 23:48:07 GMT | The Lumerna Elyara Codex: Code #16 — Protect the Vulnerable, the Innocent & Those Who Don’t Have a… | Aramora Founder | [Read More](https://medium.com/p/ba8c13c455e6) |
-| Tue, 08 Jul 2025 23:25:08 GMT | When You’re Not Sure What You’re Meant to Do | paday∞n | [Read More](https://medium.com/p/68150d75d6c6) |
-| Tue, 08 Jul 2025 23:19:29 GMT | Part 1: The Private Key Predicament — Your Digital Lifeblood | Ben San Roman | [Read More](https://medium.com/p/5a6cb4bd226f) |
-| Tue, 08 Jul 2025 23:19:23 GMT | X Under Siege: Data Leaks, Bots, and Security Failures | ADanielHill | [Read More](https://medium.com/p/b24df636cb33) |
-| Tue, 08 Jul 2025 23:17:47 GMT | La tristeza no llora. | irene ortuño | [Read More](https://medium.com/p/93830c0b0617) |
-| Tue, 08 Jul 2025 23:16:26 GMT | Series: Fortifying the Digital Frontier — Your Guide to Crypto Security in Web3 | Ben San Roman | [Read More](https://medium.com/p/648ba92bd71f) |
