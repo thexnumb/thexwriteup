@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 20:22:14 GMT | “You Won’t Believe What These Hashing Algorithms Can Do to Protect Your Data!” | Paritosh | [Read More](https://medium.com/p/fed67878eded) |
+| Wed, 09 Jul 2025 20:15:10 GMT | Jack Dorsey’s Bitchat Claims to Be Secure — But Security Experts Say ‘Absolutely Not’ | CoinGen | [Read More](https://medium.com/p/42f3c214a62b) |
+| Wed, 09 Jul 2025 20:04:22 GMT | Iran Focuses Cybercriminals on Foreign Enemies | Matthew.Rosenquist | [Read More](https://medium.com/p/228445f522f3) |
+| Wed, 09 Jul 2025 20:04:05 GMT | GMX Hit by $40M Exploit: Trading Paused, GLP Minting Frozen | CoinGen | [Read More](https://medium.com/p/0268465995ed) |
+| Wed, 09 Jul 2025 19:54:15 GMT | AI/ML Security Threats: TryHackMe Solutions | Mukund | [Read More](https://medium.com/p/adc8ade345e2) |
+| Wed, 09 Jul 2025 19:46:35 GMT | Defending Adversarial Attacks - Tryhackme | Aaron | [Read More](https://medium.com/p/1f074cd5d2e4) |
+| Wed, 09 Jul 2025 19:44:50 GMT | North Korean Hacker SANCTIONED After Infiltrating U.S. Companies as a Remote IT Worker | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/327ad363e16f) |
+| Wed, 09 Jul 2025 19:38:28 GMT | TryHackMe — Simple Web CTF
+ Report by: th3 freel4ncer | th3 freel4ncer | [Read More](https://medium.com/p/e4c06a473bad) |
+| Wed, 09 Jul 2025 19:38:07 GMT | Stop Shipping Vulnerabilities: The Best Free SAST Tools to Scan Your Code Automatically [July 2025] | Riccardo Bernardi | [Read More](https://medium.com/p/2d8ddf888f24) |
 | Wed, 09 Jul 2025 19:36:34 GMT | ChatGPT Account Takeover — Wildcard Web Cache Deception | Mohammed Muneef | [Read More](https://medium.com/p/fe2275b419c6) |
+| Wed, 09 Jul 2025 19:24:28 GMT | Pentest: A Chave para a Segurança Cibernética Proativa nas Empresas | Aristides Pascoal Queta | [Read More](https://medium.com/p/2c851bbca672) |
 | Wed, 09 Jul 2025 19:24:19 GMT | Attacktive Directory THM Writeup | Vincent Olago | [Read More](https://medium.com/p/a1a07b9a6ad7) |
 | Wed, 09 Jul 2025 19:22:43 GMT | How Cheating App ‘Cluely’ Got Hacked, Leaking 83,000 Users’ Data | Null Walker | [Read More](https://medium.com/p/9ac572ff3d00) |
 | Wed, 09 Jul 2025 19:11:09 GMT | Why I Founded Trustoryx: A Mission to Reinforce Digital Trust in India | NIkhil Kumar | [Read More](https://medium.com/p/0abae31757e2) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 13:38:55 GMT | Authenticity: Living from the Inside Out | Nathalie Bonilla | [Read More](https://medium.com/p/0b05948415a1) |
 | Wed, 09 Jul 2025 13:38:38 GMT | A Crucible Moment for ITAD Certifications | Kyle Marks | [Read More](https://medium.com/p/5eb0b0f31e09) |
 | Wed, 09 Jul 2025 13:29:14 GMT | Urban Gardening Hacks for Small Spaces | Somdeb Paul | [Read More](https://medium.com/p/c7b238cd2c12) |
-| Wed, 09 Jul 2025 13:25:05 GMT | Cyber Briefing: 2025.07.09 | CyberMaterial | [Read More](https://medium.com/p/7c9fc239b81a) |
-| Wed, 09 Jul 2025 13:24:42 GMT | Turtles in a World of Turtles | Quiet Alchemist | [Read More](https://medium.com/p/4ae9b596b2f9) |
-| Wed, 09 Jul 2025 13:20:21 GMT | Flipper Zero Episode 4: Capture and Crack Wi-Fi PMKID | Fahri | [Read More](https://medium.com/p/9710d1c006b6) |
-| Wed, 09 Jul 2025 13:16:56 GMT | Securing Our Digital World: Making Apps, Devices, and Mobile Security Easy to Understand | Dany Christel | [Read More](https://medium.com/p/2f8c6311075e) |
-| Wed, 09 Jul 2025 13:13:55 GMT | Introduction | Covenant O.B. | [Read More](https://medium.com/p/8c5d4baeea11) |
-| Wed, 09 Jul 2025 13:12:08 GMT | The cockroach or the beetles | Melissa Ann Howell Schier | [Read More](https://medium.com/p/eeb9f59d9c4f) |
-| Wed, 09 Jul 2025 13:10:52 GMT | Conceal Partners with Hitachi Systems Engineering Services and SentryMark to Bring Browser-Native… | Conceal, Inc. | [Read More](https://medium.com/p/fbdd32d3d913) |
-| Wed, 09 Jul 2025 13:05:35 GMT | The Biometric Security Battle: Why 40% of Android Phones Fail the Photo Test | TechEd Publishers | [Read More](https://medium.com/p/70b7a7bd9d54) |
-| Wed, 09 Jul 2025 12:56:14 GMT | AI is Making Life Easier But Also Making Cybercrime Easier | Adrikaa Mitraa | [Read More](https://medium.com/p/096394b0369e) |
-| Wed, 09 Jul 2025 12:53:21 GMT | Sold for Scraps: How a $2,700 Sellout Caused Over $100 Million in Damages | Clement Saudu | [Read More](https://medium.com/p/89261fa9691a) |
