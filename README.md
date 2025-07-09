@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 11:12:52 GMT | Top Cybersecurity Solutions Every Healthcare Provider Needs. | Technologic Innovation | [Read More](https://medium.com/p/78ca579432fb) |
+| Wed, 09 Jul 2025 11:09:36 GMT | Car Park Security Solutions: Keeping Your Vehicle Safe | Professional UK Services | [Read More](https://medium.com/p/e071bdef0be8) |
+| Wed, 09 Jul 2025 11:07:56 GMT | Master SailPoint IdentityIQ in 2025 with Expert Online Training! | Pravin Choudhary | [Read More](https://medium.com/p/e5f9492ac6fb) |
+| Wed, 09 Jul 2025 11:04:13 GMT | How AI Tools Are Changing Content Creation | Theinformaticshub | [Read More](https://medium.com/p/b54debfff7da) |
+| Wed, 09 Jul 2025 11:01:15 GMT | Google Chrome 138.0.7204.97: Closing the Exploit Gap with Easy2Patch | Easy2Patch | [Read More](https://medium.com/p/0c44bf5ffe86) |
+| Wed, 09 Jul 2025 11:01:00 GMT | How Exposed JDWP Debug Ports Are Turning Your CI/CD Servers into Crypto Mines — And What You Must… | CyBlog | [Read More](https://medium.com/p/6947004a327b) |
+| Wed, 09 Jul 2025 10:57:15 GMT | Day 40 of #60DaysofGRC: What is HIPAA? | Brittney Ginther | [Read More](https://medium.com/p/f36502710e97) |
 | Wed, 09 Jul 2025 10:45:16 GMT | PicoCTF 2022: Buffer Overflow 0 | Murányi Levente | [Read More](https://medium.com/p/f26e5fc9b31e) |
 | Wed, 09 Jul 2025 10:43:48 GMT | The Kudankulam Nuclear Power Plant Cyber Attack: India’s Silent Wake-Up Call | kavish shah | [Read More](https://medium.com/p/7e75ca82c3ce) |
+| Wed, 09 Jul 2025 10:37:28 GMT | [Walkthrough] Anthem — TryHackMe - Easy Windows | Karan Chaudhary | [Read More](https://medium.com/p/513dfbe33ad8) |
 | Wed, 09 Jul 2025 10:36:31 GMT | The Anatomy of a Smart Money Move: How Yesterday’s Market Selloff Revealed Tomorrow’s Opportunities | Dorian Kortland | [Read More](https://medium.com/p/c9d38a0fb49c) |
 | Wed, 09 Jul 2025 10:35:36 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Wisdomalfred | [Read More](https://medium.com/p/ac5c4c143163) |
 | Wed, 09 Jul 2025 10:32:24 GMT | Why I Switched to CryptoXpress from MetaMask for Security Reasons | Zekanem King | [Read More](https://medium.com/p/8e219fe94f5a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 05:48:11 GMT | How I Got My First bug In Just 2 Minutes(HTML Injection) | Dipu Basak | [Read More](https://medium.com/p/e1983836fb8e) |
 | Wed, 09 Jul 2025 05:42:24 GMT | The Unprecedented Demand for Cybersecurity Professionals: Securing Our Digital Future | bikash Gochhayat | [Read More](https://medium.com/p/4d543ffd5236) |
 | Wed, 09 Jul 2025 05:32:53 GMT | AI, Cybersecurity & Green Tech: The 3 Hiring Frontiers of 2025 | MyNextDeveloper | [Read More](https://medium.com/p/70d972553f3f) |
-| Wed, 09 Jul 2025 05:15:18 GMT | CLOUD SECURITY AND DEVOPS | Ifeoma Nwokeoma | [Read More](https://medium.com/p/c5aa0eaba7eb) |
-| Wed, 09 Jul 2025 05:10:06 GMT | Can AI Be Held Legally Responsible? Exploring Robot Rights & Accountability | Legally Intellectual | [Read More](https://medium.com/p/a7d3bddda65b) |
-| Wed, 09 Jul 2025 05:09:32 GMT | How to Build a Career That Doesn’t Collapse with the Economy | Urna Gain | [Read More](https://medium.com/p/4fb46ea75e54) |
-| Wed, 09 Jul 2025 05:05:37 GMT | [CyberDefenders Write-up] QBot (Memory forensics of compromised System with QBot banking trojan) | Chicken0248 | [Read More](https://medium.com/p/e74d37108988) |
-| Wed, 09 Jul 2025 05:05:20 GMT | ZoomEye Dorking with Nuclei | AbhirupKonwar | [Read More](https://medium.com/p/f07c32fa2801) |
-| Wed, 09 Jul 2025 05:05:13 GMT | [CyberDefenders Write-up] IcedID 2 (Memory Forensics to discover ISO file leads to IcedID malware) | Chicken0248 | [Read More](https://medium.com/p/c7aecc9d5e98) |
-| Wed, 09 Jul 2025 05:02:06 GMT | The Linux Security Journey — TCP SYN Cookie Protection | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9bb87e0d6787) |
-| Wed, 09 Jul 2025 05:00:51 GMT | Demystifying Zero Trust: A Beginner’s Guide to Enhanced Cybersecurity | Ahmet Soner | [Read More](https://medium.com/p/de511adb0dfa) |
