@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 19:36:34 GMT | ChatGPT Account Takeover — Wildcard Web Cache Deception | Mohammed Muneef | [Read More](https://medium.com/p/fe2275b419c6) |
+| Wed, 09 Jul 2025 19:24:19 GMT | Attacktive Directory THM Writeup | Vincent Olago | [Read More](https://medium.com/p/a1a07b9a6ad7) |
+| Wed, 09 Jul 2025 19:22:43 GMT | How Cheating App ‘Cluely’ Got Hacked, Leaking 83,000 Users’ Data | Null Walker | [Read More](https://medium.com/p/9ac572ff3d00) |
 | Wed, 09 Jul 2025 19:11:09 GMT | Why I Founded Trustoryx: A Mission to Reinforce Digital Trust in India | NIkhil Kumar | [Read More](https://medium.com/p/0abae31757e2) |
 | Wed, 09 Jul 2025 19:08:59 GMT | IP Routing On Cisco Packet Tracer ( Step-by-Step ) 2025 | Ceo Defender | [Read More](https://medium.com/p/29099b79253b) |
 | Wed, 09 Jul 2025 18:50:57 GMT | Open Cybersecurity AI Frameworks: New Challenges, Opportunities & Impact | noailabs | [Read More](https://medium.com/p/96b07a943529) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 13:05:35 GMT | The Biometric Security Battle: Why 40% of Android Phones Fail the Photo Test | TechEd Publishers | [Read More](https://medium.com/p/70b7a7bd9d54) |
 | Wed, 09 Jul 2025 12:56:14 GMT | AI is Making Life Easier But Also Making Cybercrime Easier | Adrikaa Mitraa | [Read More](https://medium.com/p/096394b0369e) |
 | Wed, 09 Jul 2025 12:53:21 GMT | Sold for Scraps: How a $2,700 Sellout Caused Over $100 Million in Damages | Clement Saudu | [Read More](https://medium.com/p/89261fa9691a) |
-| Wed, 09 Jul 2025 12:48:31 GMT | OWASP Top 10 (Web): Most Wanted Bugs — Short & Simple | Aparna A | [Read More](https://medium.com/p/38297ad0f7e9) |
-| Wed, 09 Jul 2025 12:45:20 GMT | How I Leaked an AWS Secret — and What I Do Now to Prevent It | Anamul Akash | [Read More](https://medium.com/p/1e0c9a341337) |
-| Wed, 09 Jul 2025 12:29:40 GMT | How secure are biometric systems for payments and privacy? | UpThoughts | [Read More](https://medium.com/p/d29718bc663c) |
