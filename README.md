@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 21:01:50 GMT | Encrypting the Encryption | Peter Lablans | [Read More](https://medium.com/p/4947b1bdb825) |
+| Wed, 09 Jul 2025 20:53:13 GMT | Cybersecurity statistics about identity trends, supply chain cyber risk, and LLM security in 2025 | CyberSecStats | [Read More](https://medium.com/p/30e8efbd7ba5) |
+| Wed, 09 Jul 2025 20:50:10 GMT | Cybersecurity statistics from May/June 2025 | CyberSecStats | [Read More](https://medium.com/p/1e351725a586) |
+| Wed, 09 Jul 2025 20:44:42 GMT | Build Your Own C2: HTTP Command & Control with FastAPI and Python Agents (Part 1) | Cyberlairs | [Read More](https://medium.com/p/6024fae1f868) |
+| Wed, 09 Jul 2025 20:40:00 GMT | Discover Your Admin Rights in Active Directory Using PowerShell | GHAIDA | [Read More](https://medium.com/p/b1674cb5aa7a) |
 | Wed, 09 Jul 2025 20:35:44 GMT | Abstract: | Chris Clark | [Read More](https://medium.com/p/eed112f51593) |
 | Wed, 09 Jul 2025 20:31:50 GMT | Stored XSS via Organization Name | Ahmed Mahmoud | [Read More](https://medium.com/p/e47b7d476a06) |
 | Wed, 09 Jul 2025 20:30:13 GMT | Multi-Domain Cyber Threats: Strategic Insights from Ukraine, French Intelligence, and China’s Long… | Chris Clark | [Read More](https://medium.com/p/c1612b2e26c2) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 14:47:18 GMT | TryHackMe - Detecting Adversarial Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/ced7b83935f7) |
 | Wed, 09 Jul 2025 14:40:15 GMT | TryHackMe - AI/ML Security Threats - WriteUp | Axoloth | [Read More](https://medium.com/p/14288ba2711d) |
 | Wed, 09 Jul 2025 14:32:14 GMT | SQL Injection 104: How Attackers Exploit SQL Injection & Detecting Active Attacks | bithowl | [Read More](https://medium.com/p/df6dc942c6b0) |
-| Wed, 09 Jul 2025 14:23:57 GMT | Cybersecurity Awareness: Data Lifecycle Management — Why Your Data Needs Rules to Live By | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/600c49351c0b) |
-| Wed, 09 Jul 2025 14:23:18 GMT | Website Building and Hosting Services Market: The Future of Digital Presence Through 2033 | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/8c2ced91c4ea) |
-| Wed, 09 Jul 2025 14:23:14 GMT | Lab: Stored DOM XSS | Chirag Vyas | [Read More](https://medium.com/p/84fa3b618645) |
-| Wed, 09 Jul 2025 14:22:57 GMT | Introduction to BOF (Beacon object file ) | Lord Murak | [Read More](https://medium.com/p/29763b849bfa) |
-| Wed, 09 Jul 2025 14:20:22 GMT | Nmap Cheat Sheet: Advanced Firewall Evasion Techniques | Nathan Steyka | [Read More](https://medium.com/p/7255f1f477b8) |
