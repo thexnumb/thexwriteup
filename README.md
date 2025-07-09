@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 16:17:52 GMT | Orbit, Radiant, Concentric: $88M Lost to Keys and Cold Starts | Olympix | [Read More](https://medium.com/p/395da94edd5f) |
+| Wed, 09 Jul 2025 16:17:25 GMT | Cleaning Git History to Remove Leaked Secrets | Jing Jie Chin | [Read More](https://medium.com/p/388ea049e10c) |
+| Wed, 09 Jul 2025 16:15:10 GMT | Defending Adversarial Attacks - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/9cbe55dbb41e) |
+| Wed, 09 Jul 2025 16:14:53 GMT | Understanding the OSI Model: Why It’s Essential for Everyone in Cybersecurity | Yagmur Yerlikaya | [Read More](https://medium.com/p/7b6e5891c466) |
+| Wed, 09 Jul 2025 16:14:16 GMT | AI Forensics - TryHackMe Writeups - By D3SYNC | DESYNC | [Read More](https://medium.com/p/e05eba8b5c84) |
+| Wed, 09 Jul 2025 16:11:15 GMT | Gamma, TelCoin, Pine: Same Bugs, New Chains | Olympix | [Read More](https://medium.com/p/482d80b22446) |
+| Wed, 09 Jul 2025 16:07:29 GMT | How to Tackle Common Cybersecurity Challenges in Software-Defined Vehicles: A Practical Guide | Innolab AI | [Read More](https://medium.com/p/4d0dd15ed77f) |
+| Wed, 09 Jul 2025 16:06:42 GMT | Optimized IT Services for Manufacturing Companies: Boosting Efficiency & Productivity | Arclight Group | [Read More](https://medium.com/p/501a3d5b6100) |
+| Wed, 09 Jul 2025 15:57:38 GMT | SQL Injection Prevention Techniques: Outsmart Hackers Before They Get In | Akshay Chauhan | [Read More](https://medium.com/p/1ba304c46375) |
+| Wed, 09 Jul 2025 15:56:20 GMT | picoCTF — IntroToBurp | Robby firdauzy | [Read More](https://medium.com/p/b9dad2c8ad96) |
+| Wed, 09 Jul 2025 15:46:44 GMT | Cyber Hygiene 101: 7 Simple Habits to Stay Secure Online | Aisha Majeed | [Read More](https://medium.com/p/2af14e00a7d2) |
 | Wed, 09 Jul 2025 15:41:47 GMT | The Telegram Username Scam: How People Are Losing Thousands in TON | Scofield O. Idehen | [Read More](https://medium.com/p/f7f7c8f68001) |
+| Wed, 09 Jul 2025 15:34:50 GMT | Security Cameras vs. Motion Detectors: What Does Your Business Really Need? | Ava Zack | [Read More](https://medium.com/p/b71d50103d9a) |
 | Wed, 09 Jul 2025 15:32:22 GMT | Smart Perimeter Defense | Presslink Media | [Read More](https://medium.com/p/88dd74f66918) |
 | Wed, 09 Jul 2025 15:31:50 GMT | I Found 12 Bugs in One Program | Ibtissam hammadi | [Read More](https://medium.com/p/1b011e7a2279) |
 | Wed, 09 Jul 2025 15:31:20 GMT | Want a Smart Security Camera? Let’s Compare How These 3 Bestselling Ones Stack Up | Bogymohamedali | [Read More](https://medium.com/p/e54612e0eb78) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 10:17:51 GMT | ️ Analyzing a Phishing Email Incident: A Step-by-Step Walkthrough from LetsDefend Monitoring | Praz Timsina | [Read More](https://medium.com/p/533e1576e91a) |
 | Wed, 09 Jul 2025 10:16:38 GMT | Why Hiring Event Security Services in Singapore Is a Must for Your Event | Jane Tang | [Read More](https://medium.com/p/6088e3fb45a4) |
 | Wed, 09 Jul 2025 10:09:11 GMT | Is There Still an Opportunity Like Bitcoin? | UnionKey | [Read More](https://medium.com/p/38b5acc3817f) |
-| Wed, 09 Jul 2025 10:06:54 GMT | Cyberattacks and Global Politics: What You Don’t See Behind the Screens | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/11170812c40a) |
-| Wed, 09 Jul 2025 09:52:58 GMT | Bash Scripting with TryHackMe — Complete Practical Guide | MANISH KUMAR | [Read More](https://medium.com/p/5904c5efe5a0) |
-| Wed, 09 Jul 2025 09:48:33 GMT | 6 Million Qantas Customers Exposed in Data Breach — What You Need to Know | Cybersecurity Umbrella | [Read More](https://medium.com/p/71b72dfedb47) |
-| Wed, 09 Jul 2025 09:44:58 GMT | Cybersecurity for Normal People: How to Stay Safe Without Being a Tech Nerd | Rosalia Quinn | [Read More](https://medium.com/p/efe96246c627) |
-| Wed, 09 Jul 2025 09:44:47 GMT | Last Mile Cybersecurity | Ilan Mintz | [Read More](https://medium.com/p/5c57f030e49e) |
-| Wed, 09 Jul 2025 09:44:43 GMT | The Daily Tech Digest: 09 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/a3b194ed16c6) |
-| Wed, 09 Jul 2025 09:43:56 GMT | Web Application Basics - TryHackMe Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/18ef4ad77b73) |
-| Wed, 09 Jul 2025 09:43:47 GMT | AV bypass with PowerShell: Obfuscation techniques for Red Teamers | Joseph "n3m0” KANKO | [Read More](https://medium.com/p/7053858de254) |
-| Wed, 09 Jul 2025 09:42:27 GMT | How to Stop Your Phone From Sharing Data With System Apps [Without Root – 2025 Guide] | Digimad.online | [Read More](https://medium.com/p/0d4e20cc8412) |
-| Wed, 09 Jul 2025 09:41:10 GMT | HIPAA Compliance Checklist: How to Avoid Violations and Build Trust in 2025 | SecureSlate | [Read More](https://medium.com/p/9d7b6d9bb1c3) |
-| Wed, 09 Jul 2025 09:39:56 GMT | Can Your VPN Provider See What You’re Doing Online? [Truth Revealed – 2025] | Digimad.online | [Read More](https://medium.com/p/48fed4ae7fbf) |
-| Wed, 09 Jul 2025 09:38:20 GMT | Cyberkanun — Best cybercrime lawyer in india | Amit solanki | [Read More](https://medium.com/p/f25c2bb0dbaf) |
