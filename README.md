@@ -12,14 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 10:16:38 GMT | Why Hiring Event Security Services in Singapore Is a Must for Your Event | Jane Tang | [Read More](https://medium.com/p/6088e3fb45a4) |
+| Wed, 09 Jul 2025 10:09:11 GMT | Is There Still an Opportunity Like Bitcoin? | UnionKey | [Read More](https://medium.com/p/38b5acc3817f) |
+| Wed, 09 Jul 2025 10:06:54 GMT | Cyberattacks and Global Politics: What You Don’t See Behind the Screens | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/11170812c40a) |
+| Wed, 09 Jul 2025 09:52:58 GMT | Bash Scripting with TryHackMe — Complete Practical Guide | MANISH KUMAR | [Read More](https://medium.com/p/5904c5efe5a0) |
+| Wed, 09 Jul 2025 09:48:33 GMT | 6 Million Qantas Customers Exposed in Data Breach — What You Need to Know | Cybersecurity Umbrella | [Read More](https://medium.com/p/71b72dfedb47) |
 | Wed, 09 Jul 2025 09:44:58 GMT | Cybersecurity for Normal People: How to Stay Safe Without Being a Tech Nerd | Rosalia Quinn | [Read More](https://medium.com/p/efe96246c627) |
 | Wed, 09 Jul 2025 09:44:47 GMT | Last Mile Cybersecurity | Ilan Mintz | [Read More](https://medium.com/p/5c57f030e49e) |
 | Wed, 09 Jul 2025 09:44:43 GMT | The Daily Tech Digest: 09 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/a3b194ed16c6) |
+| Wed, 09 Jul 2025 09:43:56 GMT | Web Application Basics - TryHackMe Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/18ef4ad77b73) |
+| Wed, 09 Jul 2025 09:43:47 GMT | AV bypass with PowerShell: Obfuscation techniques for Red Teamers | Joseph "n3m0” KANKO | [Read More](https://medium.com/p/7053858de254) |
 | Wed, 09 Jul 2025 09:42:27 GMT | How to Stop Your Phone From Sharing Data With System Apps [Without Root – 2025 Guide] | Digimad.online | [Read More](https://medium.com/p/0d4e20cc8412) |
+| Wed, 09 Jul 2025 09:41:10 GMT | HIPAA Compliance Checklist: How to Avoid Violations and Build Trust in 2025 | SecureSlate | [Read More](https://medium.com/p/9d7b6d9bb1c3) |
 | Wed, 09 Jul 2025 09:39:56 GMT | Can Your VPN Provider See What You’re Doing Online? [Truth Revealed – 2025] | Digimad.online | [Read More](https://medium.com/p/48fed4ae7fbf) |
 | Wed, 09 Jul 2025 09:38:20 GMT | Cyberkanun — Best cybercrime lawyer in india | Amit solanki | [Read More](https://medium.com/p/f25c2bb0dbaf) |
 | Wed, 09 Jul 2025 09:37:48 GMT | Mr. Phisher TryHackMe Writup | Krishna | [Read More](https://medium.com/p/08dd4b8aaddf) |
 | Wed, 09 Jul 2025 09:37:17 GMT | The Past, Present, and Future of SIEM: The Evolution of a Cybersecurity Power Tool | Yuksel | [Read More](https://medium.com/p/76ad125b2313) |
+| Wed, 09 Jul 2025 09:37:14 GMT | THE MONEY MAGNET IN 2025. | Christian Izuchukwu Ugochukwu | [Read More](https://medium.com/p/f19202435635) |
 | Wed, 09 Jul 2025 09:32:59 GMT | Unmasking the Threat: A Closer Look at Phishing and Its Dangerous Variants | Cyber Timi | [Read More](https://medium.com/p/0a68a17032f2) |
 | Wed, 09 Jul 2025 09:28:55 GMT | The Vital Role of a Security Guard in Today’s Fast-Moving World | Stateguard Protective Services | [Read More](https://medium.com/p/dbf69e247dde) |
 | Wed, 09 Jul 2025 09:27:01 GMT | Opening Tiny Doors: Learning to Let People In | kinanri | [Read More](https://medium.com/p/b20cf2d4e65a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 03:37:15 GMT | Built-In Rate Limiting in SafeLine WAF: What You Need to Know | Quella | [Read More](https://medium.com/p/2c13ac7eb35d) |
 | Wed, 09 Jul 2025 03:36:18 GMT | XSS on a Legal Services Site | AbhirupKonwar | [Read More](https://medium.com/p/3c0b3fb176c5) |
 | Wed, 09 Jul 2025 03:32:54 GMT | Cookie-Bite: The Chrome Extension Hack That Bypasses MFA and Steals Your Sessions | Deven Chhajed | [Read More](https://medium.com/p/7b8a4813ceb7) |
-| Wed, 09 Jul 2025 03:21:27 GMT | Zig vs Rust: A Data-Driven Analysis of Systems Programming | Heber Moreira {h3bzzz} | [Read More](https://medium.com/p/6e84bbb6da7f) |
-| Wed, 09 Jul 2025 03:03:11 GMT | GDPR: A Deep Dive for Software Engineers | Hussein Reda | [Read More](https://medium.com/p/11deb67cee03) |
-| Wed, 09 Jul 2025 02:59:08 GMT | รีวิวงาน SINCON2025 | PPsmile | [Read More](https://medium.com/p/552296080ddf) |
-| Wed, 09 Jul 2025 02:43:28 GMT | FortiOS CVE-2025–24477 Exposes Systems to Code Execution | Darshan | [Read More](https://medium.com/p/30b806cf2d7d) |
-| Wed, 09 Jul 2025 02:36:16 GMT | ประจำวันพุธที่ 9 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/cdba18689806) |
-| Wed, 09 Jul 2025 02:35:36 GMT | Beyond XSS: Leveraging Shadow DOM for Secured React Components | Amardeep Singh | [Read More](https://medium.com/p/c18e6597c1ac) |
-| Wed, 09 Jul 2025 02:24:46 GMT | LLM-Driven Blockchain Security Products: From Practice to Theory — A Preliminary Discourse | Nerbonic | [Read More](https://medium.com/p/a86930943f96) |
-| Wed, 09 Jul 2025 02:19:56 GMT | Rate limiting in ASP.NET Core 9.0 | Yaz | [Read More](https://medium.com/p/a9f9d4256fd5) |
-| Wed, 09 Jul 2025 02:13:17 GMT | Security Architecture of Swap DefiLlama | Enigma Tara Belle | [Read More](https://medium.com/p/7020a4b8df0a) |
