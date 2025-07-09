@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 07:17:45 GMT | 5 Free Tools That Stopped a Scammer from Stealing My Identity | Aj | [Read More](https://medium.com/p/81e67bc21468) |
+| Wed, 09 Jul 2025 07:12:07 GMT | 7 Scary AI-Powered Cyber Attacks You’ve Never Heard Of (But Should!) | Paritosh | [Read More](https://medium.com/p/c3b3aff9adda) |
+| Wed, 09 Jul 2025 07:09:24 GMT | API2:2023 Broken Authentication | Apifort | [Read More](https://medium.com/p/8ae58f65981c) |
+| Wed, 09 Jul 2025 07:06:28 GMT | Part IV: Decision Trees and Demo Workflows — v2.0.0 Reload and Repeat | Raymon Epping | [Read More](https://medium.com/p/7305b899353c) |
+| Wed, 09 Jul 2025 07:03:44 GMT | Why Telegram for Cybercriminals Still Works in 2025 | TheReviewHive | [Read More](https://medium.com/p/4e910ebdd4ed) |
+| Wed, 09 Jul 2025 07:01:50 GMT | 7-Zip 25: Why You Should Upgrade — Security, Stability, and Beyond | Easy2Patch | [Read More](https://medium.com/p/b5c8114f774c) |
+| Wed, 09 Jul 2025 07:01:49 GMT | When You’re Tired of Being Someone — and You Start Learning to Be Yourself, From Scratch | Łukasz Ratajczak | [Read More](https://medium.com/p/29c8f13066fe) |
+| Wed, 09 Jul 2025 06:48:46 GMT | My Fun Journey with Hacking, Virtual Machines, Linux, and Networking | Ebinreji | [Read More](https://medium.com/p/c0136fd8ce40) |
+| Wed, 09 Jul 2025 06:47:29 GMT | Top 7 AI Tools for Automated Security Testing in 2025 | DefenceRabbit | [Read More](https://medium.com/p/ec8dbf238578) |
+| Wed, 09 Jul 2025 06:47:08 GMT | The Illusion of Randomness: Building Trust in Secure Generators | Sylvain Tiset | [Read More](https://medium.com/p/35aa33aae14d) |
+| Wed, 09 Jul 2025 06:44:37 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/e90d4c823917) |
+| Wed, 09 Jul 2025 06:43:28 GMT | Critical RCE Vulnerability in Redis HyperLogLog (CVE-2025–32023) | Quella | [Read More](https://medium.com/p/d2cbde2a8ec0) |
+| Wed, 09 Jul 2025 06:42:07 GMT | Lost Phone, Active SIM: How a Simple Mistake Can Destroy Your Digital Life | Yeswehack | [Read More](https://medium.com/p/3dbafec070a5) |
+| Wed, 09 Jul 2025 06:41:44 GMT | Rethinking digital security in the age of AI | Parth Kulkarni | [Read More](https://medium.com/p/bc845815fd93) |
+| Wed, 09 Jul 2025 06:41:25 GMT | Satellites, Cyber Weapons, and AI: The Unseen War That Already Began | Sanjeev Rattan | [Read More](https://medium.com/p/44324264a40b) |
+| Wed, 09 Jul 2025 06:39:37 GMT | Tekstil Güvenliği İçin Entegre Güvenlik Çözümleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/8fc22dec3571) |
 | Wed, 09 Jul 2025 06:22:52 GMT | The Architect’s Throne: Why Some Solution Architects Fall from Grace | Namir Sagheenanajar | [Read More](https://medium.com/p/1d297620d586) |
 | Wed, 09 Jul 2025 06:21:24 GMT | SideChannel -picoCTF | Palkesh Jain | [Read More](https://medium.com/p/0cc0960883d3) |
 | Wed, 09 Jul 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Jul 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b821c13b7150) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 21:20:24 GMT | Peaceful flames | Boluwatife Lash | [Read More](https://medium.com/p/73716a90a5d5) |
 | Tue, 08 Jul 2025 21:12:58 GMT | Agentic Misalignment : The Agentic AI Problem We Didn’t See Coming | Thilina Shashimal Senarath | [Read More](https://medium.com/p/cc0c3115d391) |
 | Tue, 08 Jul 2025 20:52:08 GMT | Wakey Wakey — something’s janky | vicki lee dillard | [Read More](https://medium.com/p/81eaa18bad26) |
-| Tue, 08 Jul 2025 20:49:53 GMT | UpDown-Linux-Medium | masiva | [Read More](https://medium.com/p/b3dbacf057f8) |
-| Tue, 08 Jul 2025 20:48:45 GMT | How I Hacked a Hacker — Part 2: The Hunt Begins (Real-Life Story) | Scofield O. Idehen | [Read More](https://medium.com/p/ad3bf4bf5080) |
-| Tue, 08 Jul 2025 20:36:53 GMT | Beyond Fines: The Strategic Business Benefits of NIS2 Compliance | J Bodys | [Read More](https://medium.com/p/efa2180acfe0) |
-| Tue, 08 Jul 2025 20:34:34 GMT | Reverse Shells, Netcat, and Privilege Escalation: Exploiting Outdated Plugins Like a Pro | Santhosh Adiga U | [Read More](https://medium.com/p/7818e6fe4bab) |
-| Tue, 08 Jul 2025 20:23:30 GMT | Think Like a Threat: How SOC Teams Can Stop Attacks Before the First Alert | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/102bdc4809e6) |
-| Tue, 08 Jul 2025 20:17:29 GMT | Where Have I Been? | Jamon Sin | [Read More](https://medium.com/p/9d667e88dca8) |
-| Tue, 08 Jul 2025 20:07:19 GMT | Hercules and The Certs of Destiny | Nul⧉ID | [Read More](https://medium.com/p/1d410a972b5b) |
-| Tue, 08 Jul 2025 20:04:57 GMT | Zookeeper — Un ejercito de servidores bajo tu control (Pentesting Report) | Philmeros Whitehat | [Read More](https://medium.com/p/7e3c8baf2920) |
-| Tue, 08 Jul 2025 20:01:44 GMT | Selfdestruct Vulnerabilities in Solidity: Bypassing ETH Caps to Lock Contracts | Régis | [Read More](https://medium.com/p/6e212022bb38) |
-| Tue, 08 Jul 2025 20:01:18 GMT | WebDecode - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/9166d9652abc) |
-| Tue, 08 Jul 2025 19:50:28 GMT | Take charge of your financial future with BiyaPay by adopting these simple, empowering steps to… | Bassey Abo | [Read More](https://medium.com/p/571bd599e48b) |
-| Tue, 08 Jul 2025 19:40:30 GMT | The Call of Duty Hack: Why paying for games is not enough lol | Null Walker | [Read More](https://medium.com/p/15033fd5bbd3) |
-| Tue, 08 Jul 2025 19:40:26 GMT | Prisma’s $11.6M Exploit Wasn’t a Flaw in Logic. It Was a Flaw in Trust. | Olympix | [Read More](https://medium.com/p/51e2f3e48457) |
-| Tue, 08 Jul 2025 19:35:23 GMT | Day 3 – The Whispered Arsenal | An0n | [Read More](https://medium.com/p/635705011d6e) |
-| Tue, 08 Jul 2025 19:29:29 GMT | [SWU CTF2025] Writeups — Final Round | kpakkawat | [Read More](https://medium.com/p/b24bc16f9b31) |
-| Tue, 08 Jul 2025 19:23:34 GMT | Think Like a Hacker Before a Hacker Thinks Like You | Akshay Chauhan | [Read More](https://medium.com/p/4d7aae2318ae) |
