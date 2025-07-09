@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 07:41:41 GMT | I Got Social Engineered — And Didn’t Even Realize It | The Quiet Hacker | [Read More](https://medium.com/p/4cbc33187fd2) |
+| Wed, 09 Jul 2025 07:35:04 GMT | Shodan’t Have Shown That: How an Exposed Device Led to Source Code | Iski | [Read More](https://medium.com/p/27346a93f22e) |
+| Wed, 09 Jul 2025 07:29:49 GMT | Radar Love: Simulate and Detect Leaks in Secrets, PII, and Non-Inclusive Language (Before It’s… | Raymon Epping | [Read More](https://medium.com/p/c9706f43051f) |
+| Wed, 09 Jul 2025 07:23:09 GMT | Email Spoofing: la amenaza invisible que engaña incluso a los grandes | Enter Tech School | [Read More](https://medium.com/p/077f50329503) |
+| Wed, 09 Jul 2025 07:22:10 GMT | Microsoft July 2025 Patch Tuesday Fixes 137 Flaws, Including One Zero-Day | Darshan | [Read More](https://medium.com/p/17219768b1cf) |
 | Wed, 09 Jul 2025 07:17:45 GMT | 5 Free Tools That Stopped a Scammer from Stealing My Identity | Aj | [Read More](https://medium.com/p/81e67bc21468) |
 | Wed, 09 Jul 2025 07:12:07 GMT | 7 Scary AI-Powered Cyber Attacks You’ve Never Heard Of (But Should!) | Paritosh | [Read More](https://medium.com/p/c3b3aff9adda) |
 | Wed, 09 Jul 2025 07:09:24 GMT | API2:2023 Broken Authentication | Apifort | [Read More](https://medium.com/p/8ae58f65981c) |
+| Wed, 09 Jul 2025 07:08:59 GMT | Part V: Auto-Generated Docs and Badges — From Scripts to Self-Explaining Pipelines | Raymon Epping | [Read More](https://medium.com/p/883dd52b7127) |
 | Wed, 09 Jul 2025 07:06:28 GMT | Part IV: Decision Trees and Demo Workflows — v2.0.0 Reload and Repeat | Raymon Epping | [Read More](https://medium.com/p/7305b899353c) |
 | Wed, 09 Jul 2025 07:03:44 GMT | Why Telegram for Cybercriminals Still Works in 2025 | TheReviewHive | [Read More](https://medium.com/p/4e910ebdd4ed) |
 | Wed, 09 Jul 2025 07:01:50 GMT | 7-Zip 25: Why You Should Upgrade — Security, Stability, and Beyond | Easy2Patch | [Read More](https://medium.com/p/b5c8114f774c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 21:48:25 GMT | How I Unlocked Windows Without a Password — The Right Way | Gayathri | [Read More](https://medium.com/p/956e270221f8) |
 | Tue, 08 Jul 2025 21:32:06 GMT | TryHackMe — Steel Mountain | Cyber Anom | [Read More](https://medium.com/p/9aabc1ef42fb) |
 | Tue, 08 Jul 2025 21:31:40 GMT | How the Metaverse works | Ebuka Nkoro | [Read More](https://medium.com/p/fc16bb1280fd) |
-| Tue, 08 Jul 2025 21:29:20 GMT | Setting Up TheHive on Ubuntu with Docker | Neetrox | [Read More](https://medium.com/p/4de741139f7b) |
-| Tue, 08 Jul 2025 21:26:01 GMT | How to use JWT ( json web tokens ) in python. | Muhammad Ahssan | [Read More](https://medium.com/p/b4768acaeea1) |
-| Tue, 08 Jul 2025 21:25:12 GMT | Protocols and Servers 2 — TryHackMe | sercan timocin | [Read More](https://medium.com/p/f583bc8bb9b9) |
-| Tue, 08 Jul 2025 21:20:24 GMT | Peaceful flames | Boluwatife Lash | [Read More](https://medium.com/p/73716a90a5d5) |
-| Tue, 08 Jul 2025 21:12:58 GMT | Agentic Misalignment : The Agentic AI Problem We Didn’t See Coming | Thilina Shashimal Senarath | [Read More](https://medium.com/p/cc0c3115d391) |
-| Tue, 08 Jul 2025 20:52:08 GMT | Wakey Wakey — something’s janky | vicki lee dillard | [Read More](https://medium.com/p/81eaa18bad26) |
