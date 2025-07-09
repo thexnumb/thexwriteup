@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 06:22:52 GMT | The Architect’s Throne: Why Some Solution Architects Fall from Grace | Namir Sagheenanajar | [Read More](https://medium.com/p/1d297620d586) |
+| Wed, 09 Jul 2025 06:21:24 GMT | SideChannel -picoCTF | Palkesh Jain | [Read More](https://medium.com/p/0cc0960883d3) |
+| Wed, 09 Jul 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Jul 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b821c13b7150) |
+| Wed, 09 Jul 2025 05:57:27 GMT | 10 Best WordPress Database Plugins to Speed Up and Secure Your Site | Dishang | [Read More](https://medium.com/p/e1479a6f875f) |
+| Wed, 09 Jul 2025 05:49:42 GMT | What is Cybersecurity? An Essential Introduction for Everyone | Functioning Media University | [Read More](https://medium.com/p/35cdf48fd416) |
 | Wed, 09 Jul 2025 05:48:11 GMT | How I Got My First bug In Just 2 Minutes(HTML Injection) | Dipu Basak | [Read More](https://medium.com/p/e1983836fb8e) |
+| Wed, 09 Jul 2025 05:42:24 GMT | The Unprecedented Demand for Cybersecurity Professionals: Securing Our Digital Future | bikash Gochhayat | [Read More](https://medium.com/p/4d543ffd5236) |
 | Wed, 09 Jul 2025 05:32:53 GMT | AI, Cybersecurity & Green Tech: The 3 Hiring Frontiers of 2025 | MyNextDeveloper | [Read More](https://medium.com/p/70d972553f3f) |
 | Wed, 09 Jul 2025 05:15:18 GMT | CLOUD SECURITY AND DEVOPS | Ifeoma Nwokeoma | [Read More](https://medium.com/p/c5aa0eaba7eb) |
 | Wed, 09 Jul 2025 05:10:06 GMT | Can AI Be Held Legally Responsible? Exploring Robot Rights & Accountability | Legally Intellectual | [Read More](https://medium.com/p/a7d3bddda65b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 08 Jul 2025 19:35:23 GMT | Day 3 – The Whispered Arsenal | An0n | [Read More](https://medium.com/p/635705011d6e) |
 | Tue, 08 Jul 2025 19:29:29 GMT | [SWU CTF2025] Writeups — Final Round | kpakkawat | [Read More](https://medium.com/p/b24bc16f9b31) |
 | Tue, 08 Jul 2025 19:23:34 GMT | Think Like a Hacker Before a Hacker Thinks Like You | Akshay Chauhan | [Read More](https://medium.com/p/4d7aae2318ae) |
-| Tue, 08 Jul 2025 19:20:39 GMT | The Art of Building Small: Why Our MVP Isn’t Trying to Save the World (Yet) | Solo Recon | [Read More](https://medium.com/p/051e043f3404) |
-| Tue, 08 Jul 2025 19:13:41 GMT | Cybersecurity for Children: 5 Simple Practices Every Family Should Adopt | Paulo Quaresma | [Read More](https://medium.com/p/1f0076acc7fb) |
-| Tue, 08 Jul 2025 19:01:23 GMT | SQLMAP TryHackMe Walkthrough | Rushikesh G | [Read More](https://medium.com/p/bf80aadce20f) |
-| Tue, 08 Jul 2025 19:01:03 GMT | What Defenders Need to Know From Last Week’s Threat Intel | Percy Edward | [Read More](https://medium.com/p/dccd8163fcca) |
-| Tue, 08 Jul 2025 18:54:30 GMT | The Hidden Mongoose .create() Trap: How It Silently Inserts Two Documents | Milad Fahmy | [Read More](https://medium.com/p/e13526da2fff) |
-| Tue, 08 Jul 2025 18:52:34 GMT | The Internship | Whitesell Seth | [Read More](https://medium.com/p/f0610d30cc5e) |
