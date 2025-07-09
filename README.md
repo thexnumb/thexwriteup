@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 13:25:05 GMT | Cyber Briefing: 2025.07.09 | CyberMaterial | [Read More](https://medium.com/p/7c9fc239b81a) |
+| Wed, 09 Jul 2025 13:24:42 GMT | Turtles in a World of Turtles | Quiet Alchemist | [Read More](https://medium.com/p/4ae9b596b2f9) |
+| Wed, 09 Jul 2025 13:20:21 GMT | Flipper Zero Episode 4: Capture and Crack Wi-Fi PMKID | Fahri | [Read More](https://medium.com/p/9710d1c006b6) |
+| Wed, 09 Jul 2025 13:16:56 GMT | Securing Our Digital World: Making Apps, Devices, and Mobile Security Easy to Understand | Dany Christel | [Read More](https://medium.com/p/2f8c6311075e) |
+| Wed, 09 Jul 2025 13:13:55 GMT | Introduction | Covenant O.B. | [Read More](https://medium.com/p/8c5d4baeea11) |
+| Wed, 09 Jul 2025 13:12:08 GMT | The cockroach or the beetles | Melissa Ann Howell Schier | [Read More](https://medium.com/p/eeb9f59d9c4f) |
+| Wed, 09 Jul 2025 13:10:52 GMT | Conceal Partners with Hitachi Systems Engineering Services and SentryMark to Bring Browser-Native… | Conceal, Inc. | [Read More](https://medium.com/p/fbdd32d3d913) |
+| Wed, 09 Jul 2025 13:05:35 GMT | The Biometric Security Battle: Why 40% of Android Phones Fail the Photo Test | TechEd Publishers | [Read More](https://medium.com/p/70b7a7bd9d54) |
+| Wed, 09 Jul 2025 12:56:14 GMT | AI is Making Life Easier But Also Making Cybercrime Easier | Adrikaa Mitraa | [Read More](https://medium.com/p/096394b0369e) |
+| Wed, 09 Jul 2025 12:53:21 GMT | Sold for Scraps: How a $2,700 Sellout Caused Over $100 Million in Damages | Clement Saudu | [Read More](https://medium.com/p/89261fa9691a) |
+| Wed, 09 Jul 2025 12:48:31 GMT | OWASP Top 10 (Web): Most Wanted Bugs — Short & Simple | Aparna A | [Read More](https://medium.com/p/38297ad0f7e9) |
+| Wed, 09 Jul 2025 12:45:20 GMT | How I Leaked an AWS Secret — and What I Do Now to Prevent It | Anamul Akash | [Read More](https://medium.com/p/1e0c9a341337) |
 | Wed, 09 Jul 2025 12:29:40 GMT | How secure are biometric systems for payments and privacy? | UpThoughts | [Read More](https://medium.com/p/d29718bc663c) |
 | Wed, 09 Jul 2025 12:28:23 GMT | Breaking Down the Benefits of Hybrid SOC Services for Enterprises | sanya | [Read More](https://medium.com/p/baf99e0bbe41) |
 | Wed, 09 Jul 2025 12:26:50 GMT | Best Practices for Securing Your Cloud Environments | Hakima | [Read More](https://medium.com/p/6118f469469e) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 07:52:15 GMT | Security Blue Team: Introduction to Dark Web Operations Capstone Challenge | Pwnedproof | [Read More](https://medium.com/p/a5f0755e3d40) |
 | Wed, 09 Jul 2025 07:50:44 GMT | AI/ML Security Threats - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/4e971eccc8f8) |
 | Wed, 09 Jul 2025 07:49:41 GMT | How AI Is Changing the Future of Cybersecurity (AI vs. Hackers) | Sagar Majumdar | [Read More](https://medium.com/p/ab9231e07f91) |
-| Wed, 09 Jul 2025 07:44:54 GMT | Voicing the Darkness: The Healing Power of Letting It Out | Dorian Hardwood | [Read More](https://medium.com/p/9374e8fcbc14) |
-| Wed, 09 Jul 2025 07:42:45 GMT | How leaking your build system credentials can allow arbitary remote code execution. | Lee Dale | [Read More](https://medium.com/p/32328f6a61fb) |
-| Wed, 09 Jul 2025 07:41:41 GMT | I Got Social Engineered — And Didn’t Even Realize It | The Quiet Hacker | [Read More](https://medium.com/p/4cbc33187fd2) |
-| Wed, 09 Jul 2025 07:35:04 GMT | Shodan’t Have Shown That: How an Exposed Device Led to Source Code | Iski | [Read More](https://medium.com/p/27346a93f22e) |
-| Wed, 09 Jul 2025 07:29:49 GMT | Radar Love: Simulate and Detect Leaks in Secrets, PII, and Non-Inclusive Language (Before It’s… | Raymon Epping | [Read More](https://medium.com/p/c9706f43051f) |
-| Wed, 09 Jul 2025 07:23:09 GMT | Email Spoofing: la amenaza invisible que engaña incluso a los grandes | Enter Tech School | [Read More](https://medium.com/p/077f50329503) |
-| Wed, 09 Jul 2025 07:22:10 GMT | Microsoft July 2025 Patch Tuesday Fixes 137 Flaws, Including One Zero-Day | Darshan | [Read More](https://medium.com/p/17219768b1cf) |
-| Wed, 09 Jul 2025 07:17:45 GMT | 5 Free Tools That Stopped a Scammer from Stealing My Identity | Aj | [Read More](https://medium.com/p/81e67bc21468) |
-| Wed, 09 Jul 2025 07:12:07 GMT | 7 Scary AI-Powered Cyber Attacks You’ve Never Heard Of (But Should!) | Paritosh | [Read More](https://medium.com/p/c3b3aff9adda) |
-| Wed, 09 Jul 2025 07:09:24 GMT | API2:2023 Broken Authentication | Apifort | [Read More](https://medium.com/p/8ae58f65981c) |
-| Wed, 09 Jul 2025 07:08:59 GMT | Part V: Auto-Generated Docs and Badges — From Scripts to Self-Explaining Pipelines | Raymon Epping | [Read More](https://medium.com/p/883dd52b7127) |
-| Wed, 09 Jul 2025 07:06:28 GMT | Part IV: Decision Trees and Demo Workflows — v2.0.0 Reload and Repeat | Raymon Epping | [Read More](https://medium.com/p/7305b899353c) |
