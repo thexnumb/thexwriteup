@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 14:40:15 GMT | TryHackMe - AI/ML Security Threats - WriteUp | Axoloth | [Read More](https://medium.com/p/14288ba2711d) |
+| Wed, 09 Jul 2025 14:32:14 GMT | SQL Injection 104: How Attackers Exploit SQL Injection & Detecting Active Attacks | bithowl | [Read More](https://medium.com/p/df6dc942c6b0) |
+| Wed, 09 Jul 2025 14:23:57 GMT | Cybersecurity Awareness: Data Lifecycle Management — Why Your Data Needs Rules to Live By | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/600c49351c0b) |
+| Wed, 09 Jul 2025 14:23:18 GMT | Website Building and Hosting Services Market: The Future of Digital Presence Through 2033 | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/8c2ced91c4ea) |
+| Wed, 09 Jul 2025 14:23:14 GMT | Lab: Stored DOM XSS | Chirag Vyas | [Read More](https://medium.com/p/84fa3b618645) |
+| Wed, 09 Jul 2025 14:22:57 GMT | Introduction to BOF (Beacon object file ) | Lord Murak | [Read More](https://medium.com/p/29763b849bfa) |
+| Wed, 09 Jul 2025 14:20:22 GMT | Nmap Cheat Sheet: Advanced Firewall Evasion Techniques | Nathan Steyka | [Read More](https://medium.com/p/7255f1f477b8) |
 | Wed, 09 Jul 2025 14:16:01 GMT | Advanced Threat Hunting: Proactive Defense in the Modern Cyber Battlefield | Ola Lawrence O | [Read More](https://medium.com/p/caa72e7a405f) |
 | Wed, 09 Jul 2025 14:14:22 GMT | I NEED A HELP HOW TO RECOVER MY LOST CRYTOPCURRENCY | Wisdomalfred | [Read More](https://medium.com/p/de138f7b8720) |
 | Wed, 09 Jul 2025 14:05:47 GMT | The Evolution of Enterprise Security: Demystifying Secure Access Service Edge (SASE) | Rudraksh | [Read More](https://medium.com/p/70c7d260744f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 08:49:53 GMT | Who’s Monitoring Your Cybersecurity Growth? | Technologic Innovation | [Read More](https://medium.com/p/7145cea8325d) |
 | Wed, 09 Jul 2025 08:44:04 GMT | ️ Cyber Kill Chain for Beginners — A Friendly Guide to How Hackers Think | NineTales | [Read More](https://medium.com/p/0b8840492f42) |
 | Wed, 09 Jul 2025 08:42:32 GMT | Zero Trust Architecture in Fintech: A Practical Perspective from the Trenches | Piyush Vishwakarma | [Read More](https://medium.com/p/19dd29d0b217) |
-| Wed, 09 Jul 2025 08:35:00 GMT | How I Built My Own Automated Log Analysis Pipeline for Cybersecurity Incidents | Suleman safdar | [Read More](https://medium.com/p/3cdfbf6e4106) |
-| Wed, 09 Jul 2025 08:34:23 GMT | Enhancing Cybersecurity: The Role of IT Helpdesk and Proactive Support in Preventing Data Breaches | 1Point1 Solutions | [Read More](https://medium.com/p/dcaea7ef727f) |
-| Wed, 09 Jul 2025 08:33:15 GMT | From curious beginners to cyber legends | HackersPrey | [Read More](https://medium.com/p/88a61ee1e804) |
-| Wed, 09 Jul 2025 08:23:22 GMT | How to Secure a Website and How SafeLine Helps | Maverick Steel | [Read More](https://medium.com/p/acccc7ec8ad4) |
-| Wed, 09 Jul 2025 08:21:03 GMT | From Zero to Hacker : Learn Hacking with wordcell,Linux Tools,and Networking. | Sreelekshmi Harikumar | [Read More](https://medium.com/p/617b5541a599) |
-| Wed, 09 Jul 2025 08:20:32 GMT | The Cosmos Bank Cyber Attack: How Hackers Stole ₹94 Crore in Minutes | Lomas Asodariya | [Read More](https://medium.com/p/9ce9c04c0ba4) |
-| Wed, 09 Jul 2025 08:08:47 GMT | How I Built a Personal AI Research Assistant That Reads, Summarizes, and Answers Questions From… | Tech Tales | [Read More](https://medium.com/p/5b7510776e99) |
