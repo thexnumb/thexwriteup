@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 09 Jul 2025 23:09:22 GMT | How a single line of code can cost millions | Mohamedajguernoun | [Read More](https://medium.com/p/f187ea3b7544) |
+| Wed, 09 Jul 2025 23:04:59 GMT | Common Cloud Misconfigurations: How to Find and Fix Them | Amrik Singh Hanjra | [Read More](https://medium.com/p/de4234863052) |
+| Wed, 09 Jul 2025 23:00:29 GMT | ContAInment . TryHackMe Walkthrough . AI/ML DFIR | RosanaFSS | [Read More](https://medium.com/p/08bb7aedfba7) |
+| Wed, 09 Jul 2025 22:54:40 GMT | Unlock the Secrets of $BUGS and Start Growing Your Crypto Portfolio | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/791d4d950e9c) |
 | Wed, 09 Jul 2025 22:19:29 GMT | LINK LOGIN TOTO ONLINE: Akses Aman & Tips Hindari Situs Palsu di Era Digital | Ryugasenki | [Read More](https://medium.com/p/bee1ff99012c) |
 | Wed, 09 Jul 2025 21:56:57 GMT | Building a Software Inventory System: Technical Blueprint | Ashley Kim | [Read More](https://medium.com/p/b54c61196fe4) |
 | Wed, 09 Jul 2025 21:51:27 GMT | LAB 19: SHELLCODE ANALYSIS | Mustapha Ait Ichou | [Read More](https://medium.com/p/db8153c57bb7) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 15:22:38 GMT | ✈️Cybersecurity Culture: The Soft Skill That Prevents Hard Landings | Dziugas John Vaisvila | [Read More](https://medium.com/p/f1b8b17c6a95) |
 | Wed, 09 Jul 2025 15:22:03 GMT | My Hands-On Guide to Mastering AWS KMS Encryption | AashishChaudhari | [Read More](https://medium.com/p/b971344b4d17) |
 | Wed, 09 Jul 2025 15:21:47 GMT | What Possible Unauthorized Device Configuration Really Means And How to Act on It | Saikat Paul | [Read More](https://medium.com/p/2a373a7be502) |
-| Wed, 09 Jul 2025 15:20:11 GMT | MCP Deep Dive: the Great, the Broken, and the Downright Dangerous | Kyle Mistele | [Read More](https://medium.com/p/506836eda5b3) |
-| Wed, 09 Jul 2025 15:15:21 GMT | Why Should You Use Priil Optimizer to Boost Your PC’s Performance? | Priil Antivirus | [Read More](https://medium.com/p/77bcc98675d9) |
-| Wed, 09 Jul 2025 15:14:04 GMT | How a Venmo Setting Exposed a National Security & Privacy Risk — A Digital Forensics View on… | Hanaliu | [Read More](https://medium.com/p/d55b6f940779) |
-| Wed, 09 Jul 2025 15:13:01 GMT | Information Technology | Snehaverma | [Read More](https://medium.com/p/856d0e8de56b) |
