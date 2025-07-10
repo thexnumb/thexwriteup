@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 20:12:57 GMT | Sorry for the Silence… But I’ve Got Something Cooking! | Satyam Pathania | [Read More](https://medium.com/p/de4ff80ec1e0) |
+| Thu, 10 Jul 2025 20:01:45 GMT | Part 3: Cybersecurity in Web3 — The Code is Law (and exploitable) DeFi Exploits & Audits | Ben San Roman | [Read More](https://medium.com/p/5058d5ee65c2) |
+| Thu, 10 Jul 2025 19:29:00 GMT | What Is Love? | Genesis Rosario | [Read More](https://medium.com/p/d484c78da47f) |
 | Thu, 10 Jul 2025 19:24:14 GMT | A Tale of Production Woe: The JDK Serialization Bug That Got Me | Umesh Kumar Yadav | [Read More](https://medium.com/p/43fbeb44729f) |
 | Thu, 10 Jul 2025 19:23:17 GMT | ️‍♂️ Threat Hunting: How a Chrome Extension Triggered a Full-Blown Investigation | Pulkit Chanana | [Read More](https://medium.com/p/6b04d930f2db) |
 | Thu, 10 Jul 2025 19:18:59 GMT | How BMS Integrates with Fire Alarm and Smoke Detector Systems for Total Safety | Ataraxis Solutions | [Read More](https://medium.com/p/9d86c0c949a1) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 15:24:47 GMT | Demo Chaos: When IAM, Webhooks, and Ops Collide | Staticfield | [Read More](https://medium.com/p/0ec6b8ce2b6a) |
 | Thu, 10 Jul 2025 15:17:33 GMT | picoCTF — dont-use-client-side | Robby firdauzy | [Read More](https://medium.com/p/352cd8bb17f5) |
 | Thu, 10 Jul 2025 15:17:21 GMT | TryHackme — Writing Pentesting reports | Rishivegeto | [Read More](https://medium.com/p/a9c7970ede75) |
-| Thu, 10 Jul 2025 15:16:37 GMT | TryHackMe - Windows Threat Detection 1 - WriteUp | Axoloth | [Read More](https://medium.com/p/a9ffcedf8fc3) |
-| Thu, 10 Jul 2025 15:13:14 GMT | Why Traditional Android Malware Detectors Fail — and How Graph Communities Might Save Us | Kyoungmin Roh | [Read More](https://medium.com/p/5c7d5f8f8b7a) |
-| Thu, 10 Jul 2025 15:12:40 GMT | Agentic AI: Democratizing Innovation or Opening Pandora’s Box? | Annie W | [Read More](https://medium.com/p/6c0ade8a2368) |
