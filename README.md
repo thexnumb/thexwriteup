@@ -12,8 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 16:22:25 GMT | Audit-Ready Mining: Bridging Security and Compliance | DarioWorks | [Read More](https://medium.com/p/2c8faf216aaa) |
+| Thu, 10 Jul 2025 16:21:58 GMT | 3 Future Skills You MUST Learn Before 2026 | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/42177d4d4c52) |
+| Thu, 10 Jul 2025 16:20:33 GMT | Cybersecurity 101: How to Protect Your Data in a Digital World | The Curious Voice By----- Krish Maran | [Read More](https://medium.com/p/140b3dc3cf55) |
+| Thu, 10 Jul 2025 16:19:33 GMT | Jesus Didn’t Come to Fix Me — He Came to Free Me | Roderick L. McBee | [Read More](https://medium.com/p/0905dcce01fb) |
+| Thu, 10 Jul 2025 16:18:13 GMT | $15,250 Bounty: Race Condition to Store Takeover | Monika sharma | [Read More](https://medium.com/p/6eb0ad2edd2c) |
+| Thu, 10 Jul 2025 16:14:24 GMT | Two-Factor Authentication: Your Digital Life’s Seatbelt | Rosalia Quinn | [Read More](https://medium.com/p/194fe55fd25e) |
+| Thu, 10 Jul 2025 16:07:10 GMT | Unlock the Potential of Your Property with Void Management Solutions | Professional UK Services | [Read More](https://medium.com/p/e73295772cd3) |
+| Thu, 10 Jul 2025 16:07:01 GMT | Manual vs Automation Tools: Kapan Harus Pakai Yang Mana? | 0xbyalak | [Read More](https://medium.com/p/149dd16ec5b7) |
+| Thu, 10 Jul 2025 16:00:56 GMT | Detecting Illegal Function Codes in SCADA with Defender for IoT | Saikat Paul | [Read More](https://medium.com/p/81fa12a16944) |
+| Thu, 10 Jul 2025 16:00:32 GMT | Hack-Proofing AI Agents: Strategies for Securing the Future of Autonomous Systems | Syntax  & Signal | [Read More](https://medium.com/p/4510533a0de1) |
+| Thu, 10 Jul 2025 15:57:13 GMT | how to get increase the readers in our medium articles | S Anuradha | [Read More](https://medium.com/p/a443a78d42bf) |
+| Thu, 10 Jul 2025 15:53:04 GMT | Securing Your API in .NET 9: A Complete Developer’s Guide | Michael Maurice | [Read More](https://medium.com/p/8c4928248efa) |
+| Thu, 10 Jul 2025 15:49:56 GMT | You’ve Got Spam! | Wayne Weiner D.Ed. | [Read More](https://medium.com/p/3a62b6489331) |
+| Thu, 10 Jul 2025 15:46:52 GMT | From Rooted to Rejected: How I Found an LFI… Then Got a “Duplicate” Anyway | Shah kaif | [Read More](https://medium.com/p/c353e8088ce4) |
+| Thu, 10 Jul 2025 15:43:51 GMT | CIPHERSTICK:MEDIUM THE VANISHING JOURNALIST WALKTHROUGH | disavowed913 | [Read More](https://medium.com/p/71c67487055f) |
+| Thu, 10 Jul 2025 15:43:23 GMT | Port Knocking: A Secret Handshake for Your Firewall ️‍♂️ | jrntm | [Read More](https://medium.com/p/6a35f5500976) |
+| Thu, 10 Jul 2025 15:42:12 GMT | How Can Crypto Traders and Investors Avoid Phishing Links? | Paul Walsh | [Read More](https://medium.com/p/d0197af3d602) |
 | Thu, 10 Jul 2025 15:41:36 GMT | White Hat on Adult Grounds  : How I hacked Pornhub and made $$$ | Jaga_sky | [Read More](https://medium.com/p/9fb012fb6d36) |
+| Thu, 10 Jul 2025 15:40:56 GMT | Sudo chroot Zafiyeti: Modern Linux Sistemlerinde Tehlikeli Bir Yanılgı | Ömer Rıdvan POLAT | [Read More](https://medium.com/p/44a518d4e6bf) |
+| Thu, 10 Jul 2025 15:40:29 GMT | AI-Powered Phishing: Detection and Defense Strategies | Karthikeyan Nagaraj | [Read More](https://medium.com/p/f757f26c13c6) |
+| Thu, 10 Jul 2025 15:40:23 GMT | Tomcat Takeover By CyberDefenders | rkn | [Read More](https://medium.com/p/237390cd9900) |
 | Thu, 10 Jul 2025 15:39:51 GMT | $123M Lost: Ripple Co-Founder Hacked, Socket and GMEE Breached | Olympix | [Read More](https://medium.com/p/3f24d016a0d7) |
+| Thu, 10 Jul 2025 15:36:59 GMT | When I Finally Asked Myself What I Wanted | Elena | [Read More](https://medium.com/p/6189b5c00b83) |
 | Thu, 10 Jul 2025 15:34:15 GMT | The Reality of Being a Bug Bounty Researcher Today | QuackyK94 | [Read More](https://medium.com/p/5fec4790ad51) |
 | Thu, 10 Jul 2025 15:32:20 GMT | The New Front Door: Initial Access in 2025 | Colton J. | [Read More](https://medium.com/p/eba012061df9) |
 | Thu, 10 Jul 2025 15:31:04 GMT | Metodology Bug Bounty: dari zero to hero dalam bug hunting | 0xbyalak | [Read More](https://medium.com/p/7ceecd220aea) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 11:24:35 GMT | eJPTv2 CTF Walkthrough — Host & Network Penetration Testing with Metasploit Framework CTF-1 | Anirudh Kolatlu Ramesh | [Read More](https://medium.com/p/39fcbed34192) |
 | Thu, 10 Jul 2025 11:22:04 GMT | Day 41 of #60DaysofGRC: What Is FedRAMP and Why Does It Matter? | Brittney Ginther | [Read More](https://medium.com/p/b9d5981dfd85) |
 | Thu, 10 Jul 2025 11:19:54 GMT | Strengthening BFSI Security Posture with SOAR Integration | Matin Shaikh | [Read More](https://medium.com/p/115cc99e4af5) |
-| Thu, 10 Jul 2025 11:15:49 GMT | File Upload Vulnerabilities Part-5 : Web shell upload via obfuscated file extension | Ahmad Sopyan | [Read More](https://medium.com/p/9b59f092b7d0) |
-| Thu, 10 Jul 2025 11:09:35 GMT | Cracking the Sunset Machine: Step-by-Step Write-up | Alan T Paul | [Read More](https://medium.com/p/bc4b9941e43a) |
-| Thu, 10 Jul 2025 11:08:29 GMT | Password Security 101: Expert Tips to Protect Your Online Accounts | Symlex VPN | [Read More](https://medium.com/p/2d80283a2261) |
-| Thu, 10 Jul 2025 11:02:46 GMT | Part 2: Scanning DVWA Using Nmap, Nikto & OWASP ZAP | Anivesh Mohan | [Read More](https://medium.com/p/f40ab5563f42) |
-| Thu, 10 Jul 2025 10:59:03 GMT | Part-1:Deploy a Local Hacker Lab Using DVWA and Kali Linux | Anivesh Mohan | [Read More](https://medium.com/p/90289f30d645) |
-| Thu, 10 Jul 2025 10:54:08 GMT | What Is SaaS Security and Why Is It Important? | Core Devs Ltd | [Read More](https://medium.com/p/b15ec7fba2e9) |
-| Thu, 10 Jul 2025 10:41:08 GMT | How a Logic Flaw in ServiceNow’s ACLs Could Let Anyone Steal Your Data — And What You Need to Fix… | CyBlog | [Read More](https://medium.com/p/fe88c3362794) |
-| Thu, 10 Jul 2025 10:40:43 GMT | Historical Analysis of Reflected Vulnerabilities: The Evolution of Windows Defender Defenses | Son Vi | [Read More](https://medium.com/p/af2f34fb69a9) |
-| Thu, 10 Jul 2025 10:37:28 GMT | IAM from a Data-Centric View: Securing What Truly Matters | Ketan Polawar | [Read More](https://medium.com/p/63a6366666f6) |
-| Thu, 10 Jul 2025 10:35:30 GMT | API-pocalypse Now: When an Internal Swagger File Opened the Floodgates | Iski | [Read More](https://medium.com/p/a3f3401b1914) |
-| Thu, 10 Jul 2025 10:34:09 GMT | Bidirectional Multicast: Many-to-Many Network Communication | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/db3169f62cb2) |
-| Thu, 10 Jul 2025 10:22:03 GMT | Cyber security: Protecting Yourself in the Digital World | mahnoor | [Read More](https://medium.com/p/9070923df34c) |
-| Thu, 10 Jul 2025 10:17:17 GMT | ️ Day #14: Suspicious PowerShell Detection on Windows: Hands-On Incident Response | Rishavkumarthapa | [Read More](https://medium.com/p/d186813aba8a) |
-| Thu, 10 Jul 2025 10:13:33 GMT | Is TweetEraser Safe to Use? A Deep Dive into Its Security Practices | Ava Thornell | [Read More](https://medium.com/p/2d0be5a0a662) |
-| Thu, 10 Jul 2025 10:12:44 GMT | The Weaponization of Data: How Your Online Behavior Is a Digital War Asset | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/df6ef0ece9ac) |
-| Thu, 10 Jul 2025 10:05:53 GMT | PsExec Lab SOC Tier-1 Level-2 | Sandeepduseja | [Read More](https://medium.com/p/1ff49207dabf) |
-| Thu, 10 Jul 2025 10:02:59 GMT | Top Cybersecurity Conferences to Attend in H2 2025 | Linda A. Ivri | [Read More](https://medium.com/p/81e2c51d89ec) |
-| Thu, 10 Jul 2025 10:01:22 GMT | Who’s Left Picking Up the Pieces in Gaza? | Universal Peace Federation - Africa | [Read More](https://medium.com/p/a63d1b25d3d2) |
-| Thu, 10 Jul 2025 10:00:42 GMT | Hundreds of Major Companies Face High Risk from Scattered Spider Hackers, CyberCube Warns | SafetyDetectives Research Team | [Read More](https://medium.com/p/9745eaf1d072) |
-| Thu, 10 Jul 2025 09:50:07 GMT | LIFE LESSONS FROM A SNIPER’S SCOPE | Oludare Ayorinde | [Read More](https://medium.com/p/ab6b8d44097f) |
-| Thu, 10 Jul 2025 09:48:55 GMT | How a Bug Hunter’s Discovery Inspired Me to Find a Facebook and Instagram Posting Glitch | Sandipgyawali | [Read More](https://medium.com/p/07c5056783c9) |
