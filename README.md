@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 21:27:53 GMT | Cyber Threat briefing : From Stealer to Backdoor, The Evolving Danger of Atomic macOS Malware | Syukron Rushadi | [Read More](https://medium.com/p/efab364997c2) |
+| Thu, 10 Jul 2025 21:17:54 GMT | Brainstorm writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/09a8421b1abb) |
 | Thu, 10 Jul 2025 21:17:12 GMT | Researchers Jailbreak AI by Flooding It With Bullshit Jargon | ASAcrew Blog | [Read More](https://medium.com/p/4c0f6853667e) |
 | Thu, 10 Jul 2025 21:14:55 GMT | CIA — Insight of my Learning | Hasib Shanto | [Read More](https://medium.com/p/89f9c22aae62) |
 | Thu, 10 Jul 2025 21:13:15 GMT | 5 Unforced Errors in the Ticketmaster Breach | SecureForesight Labs | [Read More](https://medium.com/p/7a87823d0079) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 15:49:56 GMT | You’ve Got Spam! | Wayne Weiner D.Ed. | [Read More](https://medium.com/p/3a62b6489331) |
 | Thu, 10 Jul 2025 15:46:52 GMT | From Rooted to Rejected: How I Found an LFI… Then Got a “Duplicate” Anyway | Shah kaif | [Read More](https://medium.com/p/c353e8088ce4) |
 | Thu, 10 Jul 2025 15:43:51 GMT | CIPHERSTICK:MEDIUM THE VANISHING JOURNALIST WALKTHROUGH | disavowed913 | [Read More](https://medium.com/p/71c67487055f) |
-| Thu, 10 Jul 2025 15:43:23 GMT | Port Knocking: A Secret Handshake for Your Firewall ️‍♂️ | jrntm | [Read More](https://medium.com/p/6a35f5500976) |
-| Thu, 10 Jul 2025 15:42:12 GMT | How Can Crypto Traders and Investors Avoid Phishing Links? | Paul Walsh | [Read More](https://medium.com/p/d0197af3d602) |
