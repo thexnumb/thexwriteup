@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 05:21:34 GMT | NoSQL Injection — Simple Write-UP | Anandakrishnan P R | [Read More](https://medium.com/p/8c9d1e734fa6) |
+| Thu, 10 Jul 2025 05:05:42 GMT | 5 Reasons Toronto Businesses Are Switching to Local Managed IT Services | True North MSP | [Read More](https://medium.com/p/b1f2b52ef726) |
+| Thu, 10 Jul 2025 05:05:10 GMT | Protecting Your Business from Cyber Attacks in Saudi Arabia | Bluechip Advanced Technologies | [Read More](https://medium.com/p/8489d57949bd) |
+| Thu, 10 Jul 2025 04:57:55 GMT | Oski Lab (Walk Through) | Mart Eugen Gevero | [Read More](https://medium.com/p/dff1b6135252) |
+| Thu, 10 Jul 2025 04:54:56 GMT | The Linux Concept Journey — GNU GRUB (GNU GRand Unified Bootloader) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0a1e64067315) |
+| Thu, 10 Jul 2025 04:51:43 GMT | Mastering API Security: Defending Your Applications in the Modern Threat Landscape | Mr_Jeet_24 | [Read More](https://medium.com/p/48af80582778) |
+| Thu, 10 Jul 2025 04:51:24 GMT | What is Zone Firewall for Windows? | Rony Henry | [Read More](https://medium.com/p/7de0dc32b655) |
 | Thu, 10 Jul 2025 04:34:33 GMT | I Lost Rp10 Million to a Scam | Rizka Luthfiani | [Read More](https://medium.com/p/bb475e4da0b7) |
 | Thu, 10 Jul 2025 04:32:59 GMT | Part 4: The Federation — An Introduction to Social Login and SSO Concepts | Rohit Mittel | [Read More](https://medium.com/p/8ccf8264f6df) |
 | Thu, 10 Jul 2025 04:15:48 GMT | MEDUSA RANSOMWARE EXPOSED BY RANSOMEDVC | Rakesh Krishnan | [Read More](https://medium.com/p/0f0df45ed7b9) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 18:10:07 GMT | Writeup PicoCTF - IntroToBurp - Web Exploitation | Malbaralamsyah | [Read More](https://medium.com/p/322e3c1ef7cd) |
 | Wed, 09 Jul 2025 18:05:20 GMT | From Profile Picture to Account Takeover: Stored XSS in Action | EroHack | [Read More](https://medium.com/p/fe43d29cfd99) |
 | Wed, 09 Jul 2025 18:01:05 GMT | On Confidence | Richard Ackroyd | [Read More](https://medium.com/p/fd5dc954aa77) |
-| Wed, 09 Jul 2025 17:55:14 GMT | Uncovering a Mass Hijack Chrome Extension Campaign | Kyle Barbre | [Read More](https://medium.com/p/91ebc55e8913) |
-| Wed, 09 Jul 2025 17:54:52 GMT | How I Passed the EC-Council Certified Incident Handler (ECIH) Exam | Dr. Alexis - Health - Tech - Business - Blog | [Read More](https://medium.com/p/b2b533f17756) |
-| Wed, 09 Jul 2025 17:50:55 GMT | The Role of Residential Proxies in Cybersecurity Testing | Proxy Lust, Inc., Residential & Mobile Proxies | [Read More](https://medium.com/p/b97750dc78d1) |
-| Wed, 09 Jul 2025 17:50:37 GMT | Setting the Night Mode in Dahua Cameras for Car License Plate Recognition: A Quick Guide | Rara | [Read More](https://medium.com/p/0c2bcf9303de) |
-| Wed, 09 Jul 2025 17:43:08 GMT | How Proactive Video Monitoring Is Redefining Commercial Security in the USA | ASI Systems Pro | [Read More](https://medium.com/p/22c65848e59f) |
-| Wed, 09 Jul 2025 17:37:23 GMT | Why Thrissur Needs a Cyber Security Academy: Building Kerala’s Digital Defense | Abhinav Shelly | [Read More](https://medium.com/p/7e73a450f62a) |
-| Wed, 09 Jul 2025 17:36:59 GMT | A Beginner’s Guide to Understanding DHCP and the DORA Process | Shubham Sharma | [Read More](https://medium.com/p/6c7aa6377f90) |
