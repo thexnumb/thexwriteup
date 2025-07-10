@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 17:43:02 GMT | Privilege Escalation via Response Manipulation | HBlack Ghost | [Read More](https://medium.com/p/1bdb829c8748) |
+| Thu, 10 Jul 2025 17:37:10 GMT | The AI Revolution: Insights, Risks, and the Future | Navin Sharma | [Read More](https://medium.com/p/370e9b0740e0) |
+| Thu, 10 Jul 2025 17:37:01 GMT | How to become Cyber security specialist? | Dziugas John Vaisvila | [Read More](https://medium.com/p/f2341b025945) |
+| Thu, 10 Jul 2025 17:34:04 GMT | So You Wanna Get Into Cybersecurity? Here’s Where to Start (No Jargon Needed) | Prerana Madhira | [Read More](https://medium.com/p/08f4756bc906) |
+| Thu, 10 Jul 2025 17:21:26 GMT | Ashes and Ascent: Day 0 of Beginning Cybersecurity | Akshatdwivedi | [Read More](https://medium.com/p/6a29e9375ab3) |
+| Thu, 10 Jul 2025 17:20:48 GMT | Building a Python-Powered, AI-Enabled SOC Playbook | Kaatib Yusuf | [Read More](https://medium.com/p/813e9c6d4b8c) |
+| Thu, 10 Jul 2025 17:14:18 GMT | New Scam Enables Attackers to Access Accounts Without Knowing Passwords | Zack Calloway | [Read More](https://medium.com/p/ee90f537a585) |
+| Thu, 10 Jul 2025 17:11:12 GMT | Spy Apps to Monitor Your Employees: Easily Track Remote Workers | Narjis Batool | [Read More](https://medium.com/p/ec2417c75e7f) |
 | Thu, 10 Jul 2025 17:09:28 GMT | Developing a Hacker’s Mindset: Mental Training for Cybersecurity | Mr Horbio | [Read More](https://medium.com/p/94b2e9915417) |
 | Thu, 10 Jul 2025 17:08:19 GMT | Build Your First Hardware Hacking Tools with ESP8266(WiFi Attacks) | Mohamed Adel | [Read More](https://medium.com/p/3187780bd7a4) |
 | Thu, 10 Jul 2025 17:06:35 GMT | TryHackMe Injectics (Medium) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/a710af04b442) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 13:31:43 GMT | Demystifying the OS Booting Sequence: From Power Button to Desktop Like a Boss | Cyphersilhouette | [Read More](https://medium.com/p/4e05036d72ab) |
 | Thu, 10 Jul 2025 13:30:54 GMT | Secure Coding Part 5: Command Injection — Type | Siddiquimohammad | [Read More](https://medium.com/p/8885c278ee76) |
 | Thu, 10 Jul 2025 13:29:48 GMT | Detecting NTDSUtil Usage for Installation Media Creation from Domain Controllers | Saikat Paul | [Read More](https://medium.com/p/01374d0a66d5) |
-| Thu, 10 Jul 2025 13:26:45 GMT | From Rejection to Recognition: How I Made It to Apple’s Hall of Fame | Rajdip | [Read More](https://medium.com/p/8465e1dcb54f) |
-| Thu, 10 Jul 2025 13:26:15 GMT | Abusing Notepad Session restore | RidgeHack | [Read More](https://medium.com/p/668bdb73f89f) |
-| Thu, 10 Jul 2025 13:20:03 GMT | The Best Way to Secure Your Next.js | Santiago Dellepiane | [Read More](https://medium.com/p/e3a20ab60747) |
-| Thu, 10 Jul 2025 13:17:11 GMT | How I Bypassed OTP With a Simple Phone Trick | Ibtissam hammadi | [Read More](https://medium.com/p/0053f64f531d) |
-| Thu, 10 Jul 2025 13:16:15 GMT | Developer’s Guide to REST API Security Testing (With Steps and Tools) | Sam Bishop | [Read More](https://medium.com/p/bd71670d179a) |
-| Thu, 10 Jul 2025 13:12:33 GMT | Best Laptop for Cyber Security | Yousuf | [Read More](https://medium.com/p/0e902aa53869) |
-| Thu, 10 Jul 2025 13:12:31 GMT | What Is XDR Cybersecurity and Why It’s the Future of Threat Detection | James Das | [Read More](https://medium.com/p/dfdc113dc9c0) |
-| Thu, 10 Jul 2025 13:09:17 GMT | “Silent but Powerful: Mastering Passive Reconnaissance for Ethical Hacking” | Ar-jay A. Ballaco | [Read More](https://medium.com/p/b41811f0d196) |
