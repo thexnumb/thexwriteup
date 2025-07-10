@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 21:17:12 GMT | Researchers Jailbreak AI by Flooding It With Bullshit Jargon | ASAcrew Blog | [Read More](https://medium.com/p/4c0f6853667e) |
+| Thu, 10 Jul 2025 21:14:55 GMT | CIA — Insight of my Learning | Hasib Shanto | [Read More](https://medium.com/p/89f9c22aae62) |
+| Thu, 10 Jul 2025 21:13:15 GMT | 5 Unforced Errors in the Ticketmaster Breach | SecureForesight Labs | [Read More](https://medium.com/p/7a87823d0079) |
+| Thu, 10 Jul 2025 21:08:39 GMT | CER directive: Resilience for “everything but cyber” | Sarah Fluchs | [Read More](https://medium.com/p/472889b98a9f) |
+| Thu, 10 Jul 2025 21:03:33 GMT | How FTP Exposes Your Data — a Wireshark Demo. | Cyrus Mutua | [Read More](https://medium.com/p/9e01f99eb492) |
+| Thu, 10 Jul 2025 21:00:03 GMT | Day 46: IP addresses | Nile Okomo | [Read More](https://medium.com/p/2f4aafe4b92b) |
+| Thu, 10 Jul 2025 20:58:58 GMT | HIRE AN EXPERT TO GET BACK LOST/STOLEN BITCOIN, USDT & USDC. | Padovan Burrows | [Read More](https://medium.com/p/c9da5d5d0e7c) |
+| Thu, 10 Jul 2025 20:56:37 GMT | Denial of Service (DoS) Attack — The Cyberbully That Won’t Let You In | Thomas Angela | [Read More](https://medium.com/p/877e2d99cb53) |
+| Thu, 10 Jul 2025 20:52:25 GMT | Strategic Paralysis by Design: Part III — Infrastructure as a Soft Target — Western Exposure and… | Chris Clark | [Read More](https://medium.com/p/887812e74f1c) |
+| Thu, 10 Jul 2025 20:52:07 GMT | Strategic Paralysis by Design: Pt II — Ukraine as the Canary in the Coal Mine | Chris Clark | [Read More](https://medium.com/p/430105c6d0d3) |
+| Thu, 10 Jul 2025 20:46:47 GMT | Zip Slip → Arbitrary File Write Exploit | Cybersecplayground | [Read More](https://medium.com/p/b4c8d235cb4a) |
 | Thu, 10 Jul 2025 20:38:08 GMT | Key Concepts to Start in Malware Development: Processes, Memory, and Evasion | S12 - 0x12Dark Development | [Read More](https://medium.com/p/03d10fbf3dae) |
+| Thu, 10 Jul 2025 20:34:41 GMT | When to Hire Armed Security Guards: A Guide for Small and Large Businesses! | Pinnacle Security Guards | [Read More](https://medium.com/p/23ec9a13b71e) |
 | Thu, 10 Jul 2025 20:25:17 GMT | Dishwashing and Code | Jukka Paulin | [Read More](https://medium.com/p/763c3ab591fd) |
 | Thu, 10 Jul 2025 20:12:57 GMT | Sorry for the Silence… But I’ve Got Something Cooking! | Satyam Pathania | [Read More](https://medium.com/p/de4ff80ec1e0) |
 | Thu, 10 Jul 2025 20:01:45 GMT | Part 3: Cybersecurity in Web3 — The Code is Law (and exploitable) DeFi Exploits & Audits | Ben San Roman | [Read More](https://medium.com/p/5058d5ee65c2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 15:43:51 GMT | CIPHERSTICK:MEDIUM THE VANISHING JOURNALIST WALKTHROUGH | disavowed913 | [Read More](https://medium.com/p/71c67487055f) |
 | Thu, 10 Jul 2025 15:43:23 GMT | Port Knocking: A Secret Handshake for Your Firewall ️‍♂️ | jrntm | [Read More](https://medium.com/p/6a35f5500976) |
 | Thu, 10 Jul 2025 15:42:12 GMT | How Can Crypto Traders and Investors Avoid Phishing Links? | Paul Walsh | [Read More](https://medium.com/p/d0197af3d602) |
-| Thu, 10 Jul 2025 15:41:36 GMT | White Hat on Adult Grounds  : How I hacked Pornhub and made $$$ | Jaga_sky | [Read More](https://medium.com/p/9fb012fb6d36) |
-| Thu, 10 Jul 2025 15:40:56 GMT | Sudo chroot Zafiyeti: Modern Linux Sistemlerinde Tehlikeli Bir Yanılgı | Ömer Rıdvan POLAT | [Read More](https://medium.com/p/44a518d4e6bf) |
-| Thu, 10 Jul 2025 15:40:29 GMT | AI-Powered Phishing: Detection and Defense Strategies | Karthikeyan Nagaraj | [Read More](https://medium.com/p/f757f26c13c6) |
-| Thu, 10 Jul 2025 15:40:23 GMT | Tomcat Takeover By CyberDefenders | rkn | [Read More](https://medium.com/p/237390cd9900) |
-| Thu, 10 Jul 2025 15:39:51 GMT | $123M Lost: Ripple Co-Founder Hacked, Socket and GMEE Breached | Olympix | [Read More](https://medium.com/p/3f24d016a0d7) |
-| Thu, 10 Jul 2025 15:36:59 GMT | When I Finally Asked Myself What I Wanted | Elena | [Read More](https://medium.com/p/6189b5c00b83) |
-| Thu, 10 Jul 2025 15:34:15 GMT | The Reality of Being a Bug Bounty Researcher Today | QuackyK94 | [Read More](https://medium.com/p/5fec4790ad51) |
-| Thu, 10 Jul 2025 15:32:20 GMT | The New Front Door: Initial Access in 2025 | Colton J. | [Read More](https://medium.com/p/eba012061df9) |
-| Thu, 10 Jul 2025 15:31:04 GMT | Metodology Bug Bounty: dari zero to hero dalam bug hunting | 0xbyalak | [Read More](https://medium.com/p/7ceecd220aea) |
-| Thu, 10 Jul 2025 15:26:42 GMT | Sitting on a Keg of Gunpowder: The Explosive Rise of Perfectly Crafted AI-assisted Phishing Mail | Christiana Olusegun | [Read More](https://medium.com/p/cc1146f73f23) |
-| Thu, 10 Jul 2025 15:26:25 GMT | The Cyber Security Culture Cascade Framework | Dr Tai Durojaiye | [Read More](https://medium.com/p/51e6aee8db0c) |
-| Thu, 10 Jul 2025 15:24:47 GMT | Demo Chaos: When IAM, Webhooks, and Ops Collide | Staticfield | [Read More](https://medium.com/p/0ec6b8ce2b6a) |
