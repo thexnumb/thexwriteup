@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 15:41:36 GMT | White Hat on Adult Grounds  : How I hacked Pornhub and made $$$ | Jaga_sky | [Read More](https://medium.com/p/9fb012fb6d36) |
+| Thu, 10 Jul 2025 15:39:51 GMT | $123M Lost: Ripple Co-Founder Hacked, Socket and GMEE Breached | Olympix | [Read More](https://medium.com/p/3f24d016a0d7) |
+| Thu, 10 Jul 2025 15:34:15 GMT | The Reality of Being a Bug Bounty Researcher Today | QuackyK94 | [Read More](https://medium.com/p/5fec4790ad51) |
+| Thu, 10 Jul 2025 15:32:20 GMT | The New Front Door: Initial Access in 2025 | Colton J. | [Read More](https://medium.com/p/eba012061df9) |
+| Thu, 10 Jul 2025 15:31:04 GMT | Metodology Bug Bounty: dari zero to hero dalam bug hunting | 0xbyalak | [Read More](https://medium.com/p/7ceecd220aea) |
+| Thu, 10 Jul 2025 15:26:42 GMT | Sitting on a Keg of Gunpowder: The Explosive Rise of Perfectly Crafted AI-assisted Phishing Mail | Christiana Olusegun | [Read More](https://medium.com/p/cc1146f73f23) |
+| Thu, 10 Jul 2025 15:26:25 GMT | The Cyber Security Culture Cascade Framework | Dr Tai Durojaiye | [Read More](https://medium.com/p/51e6aee8db0c) |
+| Thu, 10 Jul 2025 15:24:47 GMT | Demo Chaos: When IAM, Webhooks, and Ops Collide | Staticfield | [Read More](https://medium.com/p/0ec6b8ce2b6a) |
 | Thu, 10 Jul 2025 15:17:33 GMT | picoCTF — dont-use-client-side | Robby firdauzy | [Read More](https://medium.com/p/352cd8bb17f5) |
 | Thu, 10 Jul 2025 15:17:21 GMT | TryHackme — Writing Pentesting reports | Rishivegeto | [Read More](https://medium.com/p/a9c7970ede75) |
 | Thu, 10 Jul 2025 15:16:37 GMT | TryHackMe - Windows Threat Detection 1 - WriteUp | Axoloth | [Read More](https://medium.com/p/a9ffcedf8fc3) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 10:00:42 GMT | Hundreds of Major Companies Face High Risk from Scattered Spider Hackers, CyberCube Warns | SafetyDetectives Research Team | [Read More](https://medium.com/p/9745eaf1d072) |
 | Thu, 10 Jul 2025 09:50:07 GMT | LIFE LESSONS FROM A SNIPER’S SCOPE | Oludare Ayorinde | [Read More](https://medium.com/p/ab6b8d44097f) |
 | Thu, 10 Jul 2025 09:48:55 GMT | How a Bug Hunter’s Discovery Inspired Me to Find a Facebook and Instagram Posting Glitch | Sandipgyawali | [Read More](https://medium.com/p/07c5056783c9) |
-| Thu, 10 Jul 2025 09:45:25 GMT | Engineering the Invisible: Behind Every Seamless Experience | Mohammed Zishan | [Read More](https://medium.com/p/b649b3749d3b) |
-| Thu, 10 Jul 2025 09:30:15 GMT | What is SIEM in Cyber Security? A Beginner’s Guide by VGICS Global | s singh | [Read More](https://medium.com/p/d7c37c5c92c3) |
-| Thu, 10 Jul 2025 09:30:03 GMT | Can My VPN Provider See My Browsing History in 2025? [Full Truth Inside] | Digimad.online | [Read More](https://medium.com/p/781fb75808c2) |
-| Thu, 10 Jul 2025 09:25:44 GMT | Storing Sensitive Data in Databases: Why Encryption Alone Isn’t Enough | Sameer Ahmed | [Read More](https://medium.com/p/aeb6aa56641b) |
-| Thu, 10 Jul 2025 09:25:32 GMT | The Power of Women in Security: Redefining Cyber Leadership | Linda A. Ivri | [Read More](https://medium.com/p/b9207aa63f01) |
-| Thu, 10 Jul 2025 09:24:32 GMT | How to Protect Your Business from Ransomware in 2025 | West Advanced Technologies Inc | [Read More](https://medium.com/p/3820bc417eab) |
-| Thu, 10 Jul 2025 09:13:17 GMT | Splunk: Dashboards and Reports | Peta Pavan | [Read More](https://medium.com/p/dc3c314b0a45) |
-| Thu, 10 Jul 2025 09:10:07 GMT | Summit - Challenge THM [SOC] #1 | D4m.sh | [Read More](https://medium.com/p/3663c00aec31) |
