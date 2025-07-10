@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 11:38:04 GMT | TryHackMe The Marketplace — Walkthrough | mauzware | [Read More](https://medium.com/p/ed9e17259010) |
+| Thu, 10 Jul 2025 11:24:35 GMT | eJPTv2 CTF Walkthrough — Host & Network Penetration Testing with Metasploit Framework CTF-1 | Anirudh Kolatlu Ramesh | [Read More](https://medium.com/p/39fcbed34192) |
+| Thu, 10 Jul 2025 11:22:04 GMT | Day 41 of #60DaysofGRC: What Is FedRAMP and Why Does It Matter? | Brittney Ginther | [Read More](https://medium.com/p/b9d5981dfd85) |
+| Thu, 10 Jul 2025 11:19:54 GMT | Strengthening BFSI Security Posture with SOAR Integration | Matin Shaikh | [Read More](https://medium.com/p/115cc99e4af5) |
+| Thu, 10 Jul 2025 11:15:49 GMT | File Upload Vulnerabilities Part-5 : Web shell upload via obfuscated file extension | Ahmad Sopyan | [Read More](https://medium.com/p/9b59f092b7d0) |
 | Thu, 10 Jul 2025 11:09:35 GMT | Cracking the Sunset Machine: Step-by-Step Write-up | Alan T Paul | [Read More](https://medium.com/p/bc4b9941e43a) |
+| Thu, 10 Jul 2025 11:08:29 GMT | Password Security 101: Expert Tips to Protect Your Online Accounts | Symlex VPN | [Read More](https://medium.com/p/2d80283a2261) |
 | Thu, 10 Jul 2025 11:02:46 GMT | Part 2: Scanning DVWA Using Nmap, Nikto & OWASP ZAP | Anivesh Mohan | [Read More](https://medium.com/p/f40ab5563f42) |
 | Thu, 10 Jul 2025 10:59:03 GMT | Part-1:Deploy a Local Hacker Lab Using DVWA and Kali Linux | Anivesh Mohan | [Read More](https://medium.com/p/90289f30d645) |
 | Thu, 10 Jul 2025 10:54:08 GMT | What Is SaaS Security and Why Is It Important? | Core Devs Ltd | [Read More](https://medium.com/p/b15ec7fba2e9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 05:50:07 GMT | The Last Hackers? How AI Is Hijacking the Future of Cybersecurity | Soumyadyuti Dey | [Read More](https://medium.com/p/ce81bf5690ed) |
 | Thu, 10 Jul 2025 05:48:09 GMT | Insecure Design vs. Threat Modeling — What’s the Difference? | Narendar Battula (nArEn) | [Read More](https://medium.com/p/253113ad8a2b) |
 | Thu, 10 Jul 2025 05:46:53 GMT | CRYPTOCURRENCIES AND CYBERSECURITY | EurocoinPay.io | [Read More](https://medium.com/p/5a61c7b129b6) |
-| Thu, 10 Jul 2025 05:39:51 GMT | Insecure by Design: The Silent API Killer | Narendar Battula (nArEn) | [Read More](https://medium.com/p/664d1ed3b63e) |
-| Thu, 10 Jul 2025 05:38:01 GMT | Analyzing National Cyber Attack Surfaces in the Israel-Iran Digital Conflict Using Criminal IP | Criminal IP | [Read More](https://medium.com/p/88fffc856db9) |
-| Thu, 10 Jul 2025 05:34:17 GMT | Why Most APIs Are Insecure by Design (Even If They Use OAuth2) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6f34655bba15) |
-| Thu, 10 Jul 2025 05:32:51 GMT | AI Model API-Validation Using Curl | rr-1k | [Read More](https://medium.com/p/b4b28975a87e) |
-| Thu, 10 Jul 2025 05:31:40 GMT | Inside a Hacker’s Mind: The Dark Tricks Behind Phishing Emails | Aj | [Read More](https://medium.com/p/cb077a15492d) |
-| Thu, 10 Jul 2025 05:31:12 GMT | How to Keep Kids Safe Online — A Parent’s Cyber Safety Guide | Earning Handle | [Read More](https://medium.com/p/2a5ab771df0f) |
