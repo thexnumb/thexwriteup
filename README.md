@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 03:45:27 GMT | Tech Feet Under: The Security Octet — Eight Startups That Sank Below the Surface | Jugaad Tiger | [Read More](https://medium.com/p/ae47594cd835) |
+| Thu, 10 Jul 2025 03:34:33 GMT | Efficiently Passing the CISSP Exam in 6 Months: A Practical Guide for InfoSec Professionals | InsBug | [Read More](https://medium.com/p/82fa6cdb1f6e) |
+| Thu, 10 Jul 2025 03:32:53 GMT | SK Telecom’s Hidden Breach: Unmasking a Three-Year Malware Intrusion That Compromised 27 Million… | Deven Chhajed | [Read More](https://medium.com/p/76b171754f6b) |
+| Thu, 10 Jul 2025 03:26:21 GMT | A Importância de Proteger Suas Senhas na Era Digital | Matheus Dionisio (zovisk) | [Read More](https://medium.com/p/19c82bc6cd30) |
+| Thu, 10 Jul 2025 03:24:54 GMT | No Gaming, Just Hacking — How I Made $3K on TikTok Bug Bounty Program | Radian ID | [Read More](https://medium.com/p/2b2e41be276e) |
 | Thu, 10 Jul 2025 03:01:50 GMT | Facing Russia Alone — The Dark Prospect of a European Nuclear Arsenal | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/eae654e8fd78) |
 | Thu, 10 Jul 2025 03:01:44 GMT | Fear of China Holds Back the West — Does Taiwan Need Stronger Allies Now? | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/ce8894d37d4c) |
 | Thu, 10 Jul 2025 03:00:45 GMT | SuiDeX-HackenProof Audit Contest: $10,000 Bounty has started! | SuiDex | [Read More](https://medium.com/p/a9db3149edc9) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 17:13:43 GMT | ✨ Why Finishing Tasks Isn’t the Same as Growing Your Career | Jaya Vishwakarma | [Read More](https://medium.com/p/96ce9b07200a) |
 | Wed, 09 Jul 2025 17:13:15 GMT | Top 7 Benefits of Using Blockchain for Secure Data Management. | Technologic Innovation | [Read More](https://medium.com/p/eaf069069ca7) |
 | Wed, 09 Jul 2025 17:07:32 GMT | Organizing the Chaos: Why Password Managers Make Developer Onboarding Easier | Autumn | [Read More](https://medium.com/p/535c66737ea5) |
-| Wed, 09 Jul 2025 17:05:01 GMT | Why an OT Device Reaching the Internet Should Raise Red Flags | Saikat Paul | [Read More](https://medium.com/p/5c24493a1074) |
-| Wed, 09 Jul 2025 16:56:49 GMT | ¿Subes una foto? Estás subiendo más de lo que crees… | Gorka | [Read More](https://medium.com/p/e97d9182cf38) |
-| Wed, 09 Jul 2025 16:50:42 GMT | PortSwigger Lab: Password brute-force via password change writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/8ee1268b0e35) |
-| Wed, 09 Jul 2025 16:46:58 GMT | PortSwigger Lab: Password reset poisoning via middleware writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/efa626341ec3) |
-| Wed, 09 Jul 2025 16:45:19 GMT | ️ The Scattered Spider Phenomenon: The Rise of Decentralized Social Engineering Threats | SecureTree | [Read More](https://medium.com/p/da0e8a11cc02) |
