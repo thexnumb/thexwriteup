@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 03:01:50 GMT | Facing Russia Alone — The Dark Prospect of a European Nuclear Arsenal | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/eae654e8fd78) |
+| Thu, 10 Jul 2025 03:01:44 GMT | Fear of China Holds Back the West — Does Taiwan Need Stronger Allies Now? | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/ce8894d37d4c) |
+| Thu, 10 Jul 2025 03:00:45 GMT | SuiDeX-HackenProof Audit Contest: $10,000 Bounty has started! | SuiDex | [Read More](https://medium.com/p/a9db3149edc9) |
+| Thu, 10 Jul 2025 02:59:35 GMT | ModSecurity vs SafeLine: Why Not Use Both? (Part 2) | AerieWhole123 | [Read More](https://medium.com/p/46b93cea4546) |
+| Thu, 10 Jul 2025 02:54:25 GMT | EvilGPT Tryhackme Challenge | GauthamV | [Read More](https://medium.com/p/381d8c42486f) |
+| Thu, 10 Jul 2025 02:54:20 GMT | XwormRAT Uses DLL Side-Loading to Stay Hidden | Darshan | [Read More](https://medium.com/p/1a41a87746b7) |
+| Thu, 10 Jul 2025 02:54:11 GMT | HOW I PASSED THE COMPTIA CYBERSECURITY ANALYST (CYSA+ — CS0–003) EXAM ON MY FIRST ATTEMPT — JUNE… | Nyambi Blaise | [Read More](https://medium.com/p/3b24ab8afa31) |
+| Thu, 10 Jul 2025 02:51:37 GMT | One Way, No Other Way – And That Way Begins Right From Zero | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/f9f79e985013) |
+| Thu, 10 Jul 2025 02:43:29 GMT | Interview with Lewis: Inside the Underground Mail-Order Drug Trade | Internet Exposed | [Read More](https://medium.com/p/67d1ab2a6188) |
+| Thu, 10 Jul 2025 02:41:11 GMT | What is Meta AI? Is it in your cellphone?? | Medium Articles | [Read More](https://medium.com/p/6330b813c44e) |
+| Thu, 10 Jul 2025 02:34:41 GMT | Warning to ServiceNow Admins: Misconfigured ACLs Could Lead to Serious Data Leaks | Darshan | [Read More](https://medium.com/p/bf08995da7fa) |
+| Thu, 10 Jul 2025 01:57:20 GMT | How to Fix the “NO_PUBKEY” Error in Kali Linux | Uzoukwu Eric Ikenna | [Read More](https://medium.com/p/dc6cd8a9b80f) |
 | Thu, 10 Jul 2025 01:39:01 GMT | OSDFIR in K8s — Part 2: OSDFIR Lab | Kevin Stokes | [Read More](https://medium.com/p/8824443a9d28) |
 | Thu, 10 Jul 2025 01:38:26 GMT | Quantum Cybersecurity: Preparing for the Post-Quantum Political Landscape | CCD-IS | [Read More](https://medium.com/p/9873e60df6a5) |
 | Thu, 10 Jul 2025 01:24:33 GMT | Why SSH Doesn’t Just Use Public/Private Keys to Encrypt Everything — and How Diffie-Hellman &… | Mahalingam SRE | [Read More](https://medium.com/p/eb9a2c691950) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 16:50:42 GMT | PortSwigger Lab: Password brute-force via password change writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/8ee1268b0e35) |
 | Wed, 09 Jul 2025 16:46:58 GMT | PortSwigger Lab: Password reset poisoning via middleware writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/efa626341ec3) |
 | Wed, 09 Jul 2025 16:45:19 GMT | ️ The Scattered Spider Phenomenon: The Rise of Decentralized Social Engineering Threats | SecureTree | [Read More](https://medium.com/p/da0e8a11cc02) |
-| Wed, 09 Jul 2025 16:44:07 GMT | ️ Wireshark for Beginners: What It Is and Why It Matters in Cybersecurity | Yagmur Yerlikaya | [Read More](https://medium.com/p/840aa95b6488) |
-| Wed, 09 Jul 2025 16:41:22 GMT | PortSwigger Lab: Password reset broken logic writeup (Authentication Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/e760bea5704c) |
-| Wed, 09 Jul 2025 16:40:01 GMT | Punycode 0-Click Account Takeover | Mohamed Hamadou - ( ZoeniX ) | [Read More](https://medium.com/p/bdacfdf31225) |
-| Wed, 09 Jul 2025 16:38:56 GMT | Cloud Identity Threat Detection: Best Practices for 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/74db95337c9f) |
-| Wed, 09 Jul 2025 16:36:35 GMT | Net Sec Challenge — TryHackMe | sercan timocin | [Read More](https://medium.com/p/ab1c34f95e5a) |
-| Wed, 09 Jul 2025 16:26:23 GMT | Nullclass_CyberSecurity - Task : 2 | Sumitkhurpade | [Read More](https://medium.com/p/021ed4af65de) |
-| Wed, 09 Jul 2025 16:17:52 GMT | Orbit, Radiant, Concentric: $88M Lost to Keys and Cold Starts | Olympix | [Read More](https://medium.com/p/395da94edd5f) |
-| Wed, 09 Jul 2025 16:17:25 GMT | Cleaning Git History to Remove Leaked Secrets | Jing Jie Chin | [Read More](https://medium.com/p/388ea049e10c) |
-| Wed, 09 Jul 2025 16:15:10 GMT | Defending Adversarial Attacks - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/9cbe55dbb41e) |
-| Wed, 09 Jul 2025 16:14:53 GMT | Understanding the OSI Model: Why It’s Essential for Everyone in Cybersecurity | Yagmur Yerlikaya | [Read More](https://medium.com/p/7b6e5891c466) |
-| Wed, 09 Jul 2025 16:14:16 GMT | AI Forensics - TryHackMe Writeups - By D3SYNC | DESYNC | [Read More](https://medium.com/p/e05eba8b5c84) |
-| Wed, 09 Jul 2025 16:11:15 GMT | Gamma, TelCoin, Pine: Same Bugs, New Chains | Olympix | [Read More](https://medium.com/p/482d80b22446) |
