@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 22:36:04 GMT | Deep Diligence #1 Tokenized Equity | Zach Zukowski | [Read More](https://medium.com/p/220f4ef522c5) |
+| Thu, 10 Jul 2025 22:31:42 GMT | JURASSIC PARK WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/83b1a7201802) |
+| Thu, 10 Jul 2025 22:16:53 GMT | Securing Kubernetes: A Step-by-Step Hardening Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a81e465b9a28) |
 | Thu, 10 Jul 2025 22:11:19 GMT | SOC Purple Team Lab: Laolu Owoeye | Laolu | [Read More](https://medium.com/p/c7ae0bb90fd5) |
 | Thu, 10 Jul 2025 22:10:28 GMT | Beyond CVE: Crafting a Comprehensive Vulnerability Intelligence Strategy for Modern Security Teams | Deepak Gupta | [Read More](https://medium.com/p/2a98275cca18) |
 | Thu, 10 Jul 2025 21:52:24 GMT | API Rate Limiting Bypass Leading to Unlimited Access to Premium Features in explorer.globe.engineer | X-3306 | [Read More](https://medium.com/p/63583dd08f07) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 16:18:13 GMT | $15,250 Bounty: Race Condition to Store Takeover | Monika sharma | [Read More](https://medium.com/p/6eb0ad2edd2c) |
 | Thu, 10 Jul 2025 16:14:24 GMT | Two-Factor Authentication: Your Digital Life’s Seatbelt | Rosalia Quinn | [Read More](https://medium.com/p/194fe55fd25e) |
 | Thu, 10 Jul 2025 16:07:10 GMT | Unlock the Potential of Your Property with Void Management Solutions | Professional UK Services | [Read More](https://medium.com/p/e73295772cd3) |
-| Thu, 10 Jul 2025 16:07:01 GMT | Manual vs Automation Tools: Kapan Harus Pakai Yang Mana? | 0xbyalak | [Read More](https://medium.com/p/149dd16ec5b7) |
-| Thu, 10 Jul 2025 16:00:56 GMT | Detecting Illegal Function Codes in SCADA with Defender for IoT | Saikat Paul | [Read More](https://medium.com/p/81fa12a16944) |
-| Thu, 10 Jul 2025 16:00:32 GMT | Hack-Proofing AI Agents: Strategies for Securing the Future of Autonomous Systems | Syntax  & Signal | [Read More](https://medium.com/p/4510533a0de1) |
