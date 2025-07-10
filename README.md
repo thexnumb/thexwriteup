@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 07:02:59 GMT | When Everything Is „Just for Now”: The Fear of Permanence in Relationships | Łukasz Ratajczak | [Read More](https://medium.com/p/0650cf63d5a8) |
+| Thu, 10 Jul 2025 07:02:57 GMT | Get Rewards for Your First Deposit and Trades! | WhiteBIT | [Read More](https://medium.com/p/b0212074db79) |
+| Thu, 10 Jul 2025 07:01:09 GMT | Vulnerability Report: Critical Bias Manipulation in AI Chat Assistants | Rene Fonseca | [Read More](https://medium.com/p/40bed03de19a) |
+| Thu, 10 Jul 2025 06:58:39 GMT | CipherHub: Demystifying Cryptography with Code | Eduardo Farias Camargo | [Read More](https://medium.com/p/6257b2f601ab) |
+| Thu, 10 Jul 2025 06:55:47 GMT | Getting Started in Tech: A Practical Guide to Hacking and Linux | Siyan S Idicula | [Read More](https://medium.com/p/ddeedb2e4feb) |
+| Thu, 10 Jul 2025 06:55:16 GMT | Victorian Privacy in the Age of AI: What Your Wellness App Forgot to Ask | olavenue | [Read More](https://medium.com/p/aa85071294c9) |
+| Thu, 10 Jul 2025 06:40:35 GMT | Good to Great in the context of Cybersecurity | Venkat Subramaniyan | [Read More](https://medium.com/p/8df8f89db40c) |
+| Thu, 10 Jul 2025 06:32:55 GMT | IntelBroker: Siber Suç Aktörüne Yakından Bakış | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/6527140e4abe) |
+| Thu, 10 Jul 2025 06:27:31 GMT | Windows Fundamentals 3: TryHackMe Room Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/b603784c85ed) |
+| Thu, 10 Jul 2025 06:27:07 GMT | How AI is Detecting Cyber Threats Before They Happen | shahid irfan | [Read More](https://medium.com/p/798ef78e0d03) |
 | Thu, 10 Jul 2025 06:26:53 GMT | Critical GeoServer RCE Vulnerability (CVE-2024–36401) — No Auth Needed | AerieWhole123 | [Read More](https://medium.com/p/2fcb98a06418) |
 | Thu, 10 Jul 2025 06:17:43 GMT | The Complete Guide to Azure Managed Identity: Types, Lifecycle, and Authentication Flow | Santosh Thakur | [Read More](https://medium.com/p/3ee2a091c974) |
 | Thu, 10 Jul 2025 06:17:02 GMT | The Fear of Missing Out (FOMO): How Social Media Affects Teen Mental Health — Find Guidance with… | Lyfsmile Child Development | [Read More](https://medium.com/p/46aa1ef3be45) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 20:44:42 GMT | Build Your Own C2: HTTP Command & Control with FastAPI and Python Agents (Part 1) | Cyberlairs | [Read More](https://medium.com/p/6024fae1f868) |
 | Wed, 09 Jul 2025 20:40:00 GMT | Discover Your Admin Rights in Active Directory Using PowerShell | GHAIDA | [Read More](https://medium.com/p/b1674cb5aa7a) |
 | Wed, 09 Jul 2025 20:35:44 GMT | Abstract: | Chris Clark | [Read More](https://medium.com/p/eed112f51593) |
-| Wed, 09 Jul 2025 20:31:50 GMT | Stored XSS via Organization Name | Ahmed Mahmoud | [Read More](https://medium.com/p/e47b7d476a06) |
-| Wed, 09 Jul 2025 20:30:13 GMT | Multi-Domain Cyber Threats: Strategic Insights from Ukraine, French Intelligence, and China’s Long… | Chris Clark | [Read More](https://medium.com/p/c1612b2e26c2) |
-| Wed, 09 Jul 2025 20:28:29 GMT | Why JWT Authentication is Reshaping Enterprise API Security in 2025 | Bhargava Koya - Fullstack .NET Developer | [Read More](https://medium.com/p/4ce7b36656ea) |
-| Wed, 09 Jul 2025 20:26:01 GMT | Mustacchio (TryHackMe) | musayyab sharif | [Read More](https://medium.com/p/1a8df389345d) |
-| Wed, 09 Jul 2025 20:23:51 GMT | Building a Secure HIPAA-Compliant CI/CD Pipeline for Healthcare Applications | Akshita Pradhan | [Read More](https://medium.com/p/cd57c1f8348b) |
-| Wed, 09 Jul 2025 20:22:14 GMT | “You Won’t Believe What These Hashing Algorithms Can Do to Protect Your Data!” | Paritosh | [Read More](https://medium.com/p/fed67878eded) |
-| Wed, 09 Jul 2025 20:19:43 GMT | Cryptopals: Break an ECB encrypted message (easy) | DanielOrihuela | [Read More](https://medium.com/p/038ab0d1e613) |
-| Wed, 09 Jul 2025 20:15:10 GMT | Jack Dorsey’s Bitchat Claims to Be Secure — But Security Experts Say ‘Absolutely Not’ | CoinGen | [Read More](https://medium.com/p/42f3c214a62b) |
-| Wed, 09 Jul 2025 20:13:44 GMT | How I Launched My First Cybersecurity SaaS Using Vibe Coding | Taimur Ijlal | [Read More](https://medium.com/p/63017131cd2c) |
-| Wed, 09 Jul 2025 20:04:22 GMT | Iran Focuses Cybercriminals on Foreign Enemies | Matthew.Rosenquist | [Read More](https://medium.com/p/228445f522f3) |
