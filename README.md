@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 17:09:28 GMT | Developing a Hacker’s Mindset: Mental Training for Cybersecurity | Mr Horbio | [Read More](https://medium.com/p/94b2e9915417) |
+| Thu, 10 Jul 2025 17:08:19 GMT | Build Your First Hardware Hacking Tools with ESP8266(WiFi Attacks) | Mohamed Adel | [Read More](https://medium.com/p/3187780bd7a4) |
+| Thu, 10 Jul 2025 17:06:35 GMT | TryHackMe Injectics (Medium) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/a710af04b442) |
+| Thu, 10 Jul 2025 17:03:38 GMT | A Flaw in sudo Strikes Again — Privilege Escalation via chroot and nsswitch | Aaron | [Read More](https://medium.com/p/278eb9ca2fdc) |
+| Thu, 10 Jul 2025 16:57:08 GMT | WFH: The Double Edged Sword ⚔ | Kalpitha S | [Read More](https://medium.com/p/e67b1194ff44) |
+| Thu, 10 Jul 2025 16:57:08 GMT | DefenseArk #ThreatIntelThursday - Viruses | Kalpitha S | [Read More](https://medium.com/p/eba9cc749a07) |
+| Thu, 10 Jul 2025 16:57:08 GMT | DefenseArk #ThreatIntelThursday - APTs | Kalpitha S | [Read More](https://medium.com/p/da113e8995c4) |
+| Thu, 10 Jul 2025 16:57:08 GMT | DefenseArk #ThreatIntelThursday - Malware | Kalpitha S | [Read More](https://medium.com/p/e86e499fc081) |
+| Thu, 10 Jul 2025 16:55:44 GMT | ContAInment - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/2c73ed17b23e) |
+| Thu, 10 Jul 2025 16:54:05 GMT | How to BUGS Yield Farming on StakingRewards for Maximum Yield | Bugs Bunny | [Read More](https://medium.com/p/997a910fd6dd) |
 | Thu, 10 Jul 2025 16:51:42 GMT | FireEye Fallout Part I: Tip of the Iceberg | Kalpitha S | [Read More](https://medium.com/p/671bc6e9f32a) |
 | Thu, 10 Jul 2025 16:51:42 GMT | New Mac malware discovered in the wild: XCSSET | Kalpitha S | [Read More](https://medium.com/p/a1dcecdc6759) |
 | Thu, 10 Jul 2025 16:51:41 GMT | Apple’s First Malware Notarized - DefenseArk | Kalpitha S | [Read More](https://medium.com/p/f2224a937fc7) |
@@ -19,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 16:48:59 GMT | ISO/IEC 27001 — The Gold Standard for Information Security | Muhasinahamed | [Read More](https://medium.com/p/869517ffdbaa) |
 | Thu, 10 Jul 2025 16:47:58 GMT | Hacking the greedy and curious. | TerriL | [Read More](https://medium.com/p/bdb7840192e0) |
 | Thu, 10 Jul 2025 16:45:52 GMT | CSPSub: Extract subdomains from CSP Headers | AbhirupKonwar | [Read More](https://medium.com/p/4d0772f43603) |
+| Thu, 10 Jul 2025 16:45:19 GMT | Google Cloud DLP — A Practitioner’s Guide to Securing Sensitive Data | Sachin Sharma - Lead DevOps Engineer | [Read More](https://medium.com/p/bcb5e74e6d4f) |
 | Thu, 10 Jul 2025 16:45:06 GMT | SNORT - TryHackMe —Network Security & Traffic Analysis | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/768d52ccecb0) |
 | Thu, 10 Jul 2025 16:41:39 GMT | 7 Powerful Ways Data Analytics Drives Business Decision Making | Techridge Solutions | [Read More](https://medium.com/p/ef1633a8e24f) |
 | Thu, 10 Jul 2025 16:38:00 GMT | Whose AI Is Safer? Why China’s Rules Are Forcing the West to Look in the Mirror | Miriam Sauter | [Read More](https://medium.com/p/bdfa7fd6e76d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 13:12:33 GMT | Best Laptop for Cyber Security | Yousuf | [Read More](https://medium.com/p/0e902aa53869) |
 | Thu, 10 Jul 2025 13:12:31 GMT | What Is XDR Cybersecurity and Why It’s the Future of Threat Detection | James Das | [Read More](https://medium.com/p/dfdc113dc9c0) |
 | Thu, 10 Jul 2025 13:09:17 GMT | “Silent but Powerful: Mastering Passive Reconnaissance for Ethical Hacking” | Ar-jay A. Ballaco | [Read More](https://medium.com/p/b41811f0d196) |
-| Thu, 10 Jul 2025 13:05:48 GMT | Metasploit: Introduction — TryHackMe | sercan timocin | [Read More](https://medium.com/p/d035cf9ba998) |
-| Thu, 10 Jul 2025 13:04:19 GMT | BitChat: Jack Dorsey’s(Twitter founder)Bold Experiment in Offline Messaging | Arnavgireesh | [Read More](https://medium.com/p/de02ae30b176) |
-| Thu, 10 Jul 2025 13:04:17 GMT | Death of the Internet: Soon | Thunder and Lightning | [Read More](https://medium.com/p/4b4f2e0fa1f8) |
-| Thu, 10 Jul 2025 13:02:55 GMT | Cyber Security | Benbarker | [Read More](https://medium.com/p/611a279bf3b9) |
-| Thu, 10 Jul 2025 13:01:56 GMT | For the Right One, Be the Real You | Tamara Peric | [Read More](https://medium.com/p/caa76c295912) |
-| Thu, 10 Jul 2025 12:59:16 GMT | Kuring nganalisis Malware, carana kieu. | Luthfi Sulthany | [Read More](https://medium.com/p/67a6158804a4) |
-| Thu, 10 Jul 2025 12:44:32 GMT | Deep Recon: Finding Secrets in JavaScript with Deep Recon | Monika sharma | [Read More](https://medium.com/p/99abb2c9ad85) |
-| Thu, 10 Jul 2025 12:34:51 GMT | Invisible Enemies: The ABCs of Cyber Threats You Can’t Ignore. | Tech with Maya | [Read More](https://medium.com/p/5d0d2d0ef16c) |
-| Thu, 10 Jul 2025 12:33:45 GMT | 2025 Purple Knight Report Reveals Persistent Security Gaps in Hybrid Active Directory and Entra ID… | SarahBark | [Read More](https://medium.com/p/0280285c5191) |
-| Thu, 10 Jul 2025 12:28:44 GMT | From Reactive to Proactive: The Shift Enabled by Hybrid SOC Services | sanya | [Read More](https://medium.com/p/e6f9d7189765) |
-| Thu, 10 Jul 2025 12:25:58 GMT | Cloud misconfigurations: The silent killer of data security | Cloud4C Services | [Read More](https://medium.com/p/836986c777fb) |
