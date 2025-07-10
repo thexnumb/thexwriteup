@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 08:40:22 GMT | Windows BitLocker Bypass Vulnerability (CVE-2025–48818) Threatens Full-Disk Encryption | Darshan | [Read More](https://medium.com/p/be7da7786c1d) |
+| Thu, 10 Jul 2025 08:39:11 GMT | 5 Simple Steps to Improve Housekeeping at the Workplace | EXLITY | [Read More](https://medium.com/p/622c680f6e6a) |
+| Thu, 10 Jul 2025 08:37:12 GMT | Shieldera: A Security-Centric Desktop App Powered by PySide6 and Firebase | Kübra Kara | [Read More](https://medium.com/p/0f3346f4fafd) |
+| Thu, 10 Jul 2025 08:36:37 GMT | The Invisible Bazaar: Inside the Global Zero-Day Market | Hammaad Mughal | [Read More](https://medium.com/p/ee327c12633a) |
+| Thu, 10 Jul 2025 08:36:26 GMT | Easy Claim Process for $CVE | $CVE (Curvance) | [Read More](https://medium.com/p/e520713c10ac) |
+| Thu, 10 Jul 2025 08:33:33 GMT | Why Compliance-Heavy Industries Need Multi-Agent AI Architecture | Siddhant Nitin | [Read More](https://medium.com/p/e305ba34d83d) |
+| Thu, 10 Jul 2025 08:28:45 GMT | Supercharge Your LFI Earnings with StakingRewards | LunaFi | [Read More](https://medium.com/p/26c84180d4c1) |
+| Thu, 10 Jul 2025 08:26:05 GMT | Logwatcher’s Zenit #06: Summiting the Pyramid | ThreatHunter Chronicles | [Read More](https://medium.com/p/f12744f8acd7) |
 | Thu, 10 Jul 2025 08:23:39 GMT | Mastering CIDR Block Ranges: A Simple Formula to Calculate IP Ranges from /1 to /23 | Anup K | [Read More](https://medium.com/p/cf87db8a147a) |
 | Thu, 10 Jul 2025 08:23:33 GMT | Why Compliance-Heavy Industries Need Multi-Agent AI Architecture | Siddhant Nitin | [Read More](https://medium.com/p/ee43bad0d05d) |
 | Thu, 10 Jul 2025 08:21:52 GMT | OWASP Security Concepts — The Blueprint for Building and Breaking Secure Applications | YoungerSibling | [Read More](https://medium.com/p/f8a091c664c1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 01:57:20 GMT | How to Fix the “NO_PUBKEY” Error in Kali Linux | Uzoukwu Eric Ikenna | [Read More](https://medium.com/p/dc6cd8a9b80f) |
 | Thu, 10 Jul 2025 01:39:01 GMT | OSDFIR in K8s — Part 2: OSDFIR Lab | Kevin Stokes | [Read More](https://medium.com/p/8824443a9d28) |
 | Thu, 10 Jul 2025 01:38:26 GMT | Quantum Cybersecurity: Preparing for the Post-Quantum Political Landscape | CCD-IS | [Read More](https://medium.com/p/9873e60df6a5) |
-| Thu, 10 Jul 2025 01:24:33 GMT | Why SSH Doesn’t Just Use Public/Private Keys to Encrypt Everything — and How Diffie-Hellman &… | Mahalingam SRE | [Read More](https://medium.com/p/eb9a2c691950) |
-| Thu, 10 Jul 2025 01:08:54 GMT | How to Avoid Having Your Data Stolen Online | JuanGE Baquero | [Read More](https://medium.com/p/43f4440fbdda) |
-| Thu, 10 Jul 2025 01:02:06 GMT | The Easiest Bug Bounty you’ll ever get (2025) | Appsec.pt | [Read More](https://medium.com/p/8a5a9657b2ae) |
-| Thu, 10 Jul 2025 00:51:10 GMT | How I Tricked a Fellow Airman, and What It Taught Me About “Authority” in Social Engineering | JD Brooks | [Read More](https://medium.com/p/1b9cf317d8aa) |
-| Thu, 10 Jul 2025 00:44:05 GMT | The 0th Crystal Ball: Pythagoras and the Mathematics of the World | Stanleyyan | [Read More](https://medium.com/p/5f023c0b6dba) |
-| Thu, 10 Jul 2025 00:09:02 GMT | The Cloud Explained (Like I’m 5) | TechTales | [Read More](https://medium.com/p/e91238c22d37) |
-| Thu, 10 Jul 2025 00:07:39 GMT | CVE-2025–52367: Stored XSS to RCE via Privilege Escalation in PivotX CMS v3.0.0 RC 3 | HayToN | [Read More](https://medium.com/p/a1b870bcb7b3) |
-| Wed, 09 Jul 2025 23:48:47 GMT | Evil-GPT: Write-Up | A Learner | [Read More](https://medium.com/p/7c97b8ebf092) |
