@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 20:38:08 GMT | Key Concepts to Start in Malware Development: Processes, Memory, and Evasion | S12 - 0x12Dark Development | [Read More](https://medium.com/p/03d10fbf3dae) |
+| Thu, 10 Jul 2025 20:25:17 GMT | Dishwashing and Code | Jukka Paulin | [Read More](https://medium.com/p/763c3ab591fd) |
 | Thu, 10 Jul 2025 20:12:57 GMT | Sorry for the Silence… But I’ve Got Something Cooking! | Satyam Pathania | [Read More](https://medium.com/p/de4ff80ec1e0) |
 | Thu, 10 Jul 2025 20:01:45 GMT | Part 3: Cybersecurity in Web3 — The Code is Law (and exploitable) DeFi Exploits & Audits | Ben San Roman | [Read More](https://medium.com/p/5058d5ee65c2) |
 | Thu, 10 Jul 2025 19:29:00 GMT | What Is Love? | Genesis Rosario | [Read More](https://medium.com/p/d484c78da47f) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 15:26:42 GMT | Sitting on a Keg of Gunpowder: The Explosive Rise of Perfectly Crafted AI-assisted Phishing Mail | Christiana Olusegun | [Read More](https://medium.com/p/cc1146f73f23) |
 | Thu, 10 Jul 2025 15:26:25 GMT | The Cyber Security Culture Cascade Framework | Dr Tai Durojaiye | [Read More](https://medium.com/p/51e6aee8db0c) |
 | Thu, 10 Jul 2025 15:24:47 GMT | Demo Chaos: When IAM, Webhooks, and Ops Collide | Staticfield | [Read More](https://medium.com/p/0ec6b8ce2b6a) |
-| Thu, 10 Jul 2025 15:17:33 GMT | picoCTF — dont-use-client-side | Robby firdauzy | [Read More](https://medium.com/p/352cd8bb17f5) |
-| Thu, 10 Jul 2025 15:17:21 GMT | TryHackme — Writing Pentesting reports | Rishivegeto | [Read More](https://medium.com/p/a9c7970ede75) |
