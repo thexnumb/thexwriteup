@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 19:24:14 GMT | A Tale of Production Woe: The JDK Serialization Bug That Got Me | Umesh Kumar Yadav | [Read More](https://medium.com/p/43fbeb44729f) |
+| Thu, 10 Jul 2025 19:23:17 GMT | ️‍♂️ Threat Hunting: How a Chrome Extension Triggered a Full-Blown Investigation | Pulkit Chanana | [Read More](https://medium.com/p/6b04d930f2db) |
+| Thu, 10 Jul 2025 19:18:59 GMT | How BMS Integrates with Fire Alarm and Smoke Detector Systems for Total Safety | Ataraxis Solutions | [Read More](https://medium.com/p/9d86c0c949a1) |
+| Thu, 10 Jul 2025 19:13:16 GMT | ️ Cybersecurity Roadmap for Beginners in 2025 | CyberPack | [Read More](https://medium.com/p/d8af1ea097ba) |
+| Thu, 10 Jul 2025 19:12:04 GMT | Creating a Vulnerability Lab on VirtualBox: DVWA, Metasploitable, Juice Shop | Rajkumar Kumawat | [Read More](https://medium.com/p/431e16e01763) |
+| Thu, 10 Jul 2025 19:11:33 GMT | MDR Services: The Smart Way to Detect and Stop Cyber Threats | SafeAeon Inc. | [Read More](https://medium.com/p/49400c8fc738) |
+| Thu, 10 Jul 2025 19:10:29 GMT | Engineering a Linux Malware to bypass almost all Next-Gen Antiviruses in the World | Sachin      Verlekar | [Read More](https://medium.com/p/78bfb5e3d01e) |
 | Thu, 10 Jul 2025 19:05:02 GMT | Tracking Failed Attempts with Temporary Block Logic in Spring Boot | Alexander Obregon | [Read More](https://medium.com/p/29cee665d0f2) |
 | Thu, 10 Jul 2025 18:58:38 GMT | 10 Web Development Security Best Practices Saving Your From The Collapse | Alexei Falco | [Read More](https://medium.com/p/292a02c41d27) |
 | Thu, 10 Jul 2025 18:57:58 GMT | MSP Cybersecurity: Why Managed Service Providers Are Key to Business Protection | SafeAeon Inc. | [Read More](https://medium.com/p/58c718584e4f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 15:16:37 GMT | TryHackMe - Windows Threat Detection 1 - WriteUp | Axoloth | [Read More](https://medium.com/p/a9ffcedf8fc3) |
 | Thu, 10 Jul 2025 15:13:14 GMT | Why Traditional Android Malware Detectors Fail — and How Graph Communities Might Save Us | Kyoungmin Roh | [Read More](https://medium.com/p/5c7d5f8f8b7a) |
 | Thu, 10 Jul 2025 15:12:40 GMT | Agentic AI: Democratizing Innovation or Opening Pandora’s Box? | Annie W | [Read More](https://medium.com/p/6c0ade8a2368) |
-| Thu, 10 Jul 2025 15:10:20 GMT | CatAttack: When Trivia Defeats Reasoning | Chris McConnell | [Read More](https://medium.com/p/f7c7ecea2c03) |
-| Thu, 10 Jul 2025 15:06:44 GMT | TryHackMe - Defending Adversarial Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/fc1b13942c4d) |
-| Thu, 10 Jul 2025 15:06:02 GMT | Zero Trust Security: What It Means and Why It Matters | Roman Fedytskyi | [Read More](https://medium.com/p/c4b4e64dd753) |
-| Thu, 10 Jul 2025 15:02:12 GMT | Blockchain Security: Analyzing a Sophisticated Crypto Phishing Attack | Qitmeer Network | [Read More](https://medium.com/p/873c52bd9ac3) |
-| Thu, 10 Jul 2025 15:01:52 GMT | The Ethics of Digital Profiling: Approach and Boundaries (2025) | Ingvar Pavlovich | [Read More](https://medium.com/p/43542c5a8d71) |
-| Thu, 10 Jul 2025 14:59:04 GMT | Keywords: Why choose; Vulnerability + Adoration; Why She’ll Melt; Vulnerability as Gift; Aftercare; | Kink Therapy | [Read More](https://medium.com/p/20d5c6b08da2) |
-| Thu, 10 Jul 2025 14:57:10 GMT | API Gateway Security: Threats and Protection Strategies ️ | Esra Kayhan | [Read More](https://medium.com/p/5bd9cc124fcc) |
