@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 22:11:19 GMT | SOC Purple Team Lab: Laolu Owoeye | Laolu | [Read More](https://medium.com/p/c7ae0bb90fd5) |
+| Thu, 10 Jul 2025 22:10:28 GMT | Beyond CVE: Crafting a Comprehensive Vulnerability Intelligence Strategy for Modern Security Teams | Deepak Gupta | [Read More](https://medium.com/p/2a98275cca18) |
+| Thu, 10 Jul 2025 21:52:24 GMT | API Rate Limiting Bypass Leading to Unlimited Access to Premium Features in explorer.globe.engineer | X-3306 | [Read More](https://medium.com/p/63583dd08f07) |
+| Thu, 10 Jul 2025 21:43:01 GMT | How I Discovered a Critical CORS Misconfiguration in a Bug Bounty Target — And What Happened Next | UnStoppable | [Read More](https://medium.com/p/6bc5e5ee1e14) |
+| Thu, 10 Jul 2025 21:36:19 GMT | Shadow Controls: The Hidden Risks Lurking in Every Department | Ravi Sharma | [Read More](https://medium.com/p/12af2c546e10) |
 | Thu, 10 Jul 2025 21:27:53 GMT | Cyber Threat briefing : From Stealer to Backdoor, The Evolving Danger of Atomic macOS Malware | Syukron Rushadi | [Read More](https://medium.com/p/efab364997c2) |
 | Thu, 10 Jul 2025 21:17:54 GMT | Brainstorm writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/09a8421b1abb) |
 | Thu, 10 Jul 2025 21:17:12 GMT | Researchers Jailbreak AI by Flooding It With Bullshit Jargon | ASAcrew Blog | [Read More](https://medium.com/p/4c0f6853667e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 16:07:01 GMT | Manual vs Automation Tools: Kapan Harus Pakai Yang Mana? | 0xbyalak | [Read More](https://medium.com/p/149dd16ec5b7) |
 | Thu, 10 Jul 2025 16:00:56 GMT | Detecting Illegal Function Codes in SCADA with Defender for IoT | Saikat Paul | [Read More](https://medium.com/p/81fa12a16944) |
 | Thu, 10 Jul 2025 16:00:32 GMT | Hack-Proofing AI Agents: Strategies for Securing the Future of Autonomous Systems | Syntax  & Signal | [Read More](https://medium.com/p/4510533a0de1) |
-| Thu, 10 Jul 2025 15:57:13 GMT | how to get increase the readers in our medium articles | S Anuradha | [Read More](https://medium.com/p/a443a78d42bf) |
-| Thu, 10 Jul 2025 15:53:04 GMT | Securing Your API in .NET 9: A Complete Developer’s Guide | Michael Maurice | [Read More](https://medium.com/p/8c4928248efa) |
-| Thu, 10 Jul 2025 15:49:56 GMT | You’ve Got Spam! | Wayne Weiner D.Ed. | [Read More](https://medium.com/p/3a62b6489331) |
-| Thu, 10 Jul 2025 15:46:52 GMT | From Rooted to Rejected: How I Found an LFI… Then Got a “Duplicate” Anyway | Shah kaif | [Read More](https://medium.com/p/c353e8088ce4) |
-| Thu, 10 Jul 2025 15:43:51 GMT | CIPHERSTICK:MEDIUM THE VANISHING JOURNALIST WALKTHROUGH | disavowed913 | [Read More](https://medium.com/p/71c67487055f) |
