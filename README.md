@@ -12,10 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 18:16:55 GMT | The EU Cyber Resilience Act: Raising the Bar for Digital Product Security | january1073 | [Read More](https://medium.com/p/e7d643d0c897) |
+| Thu, 10 Jul 2025 18:15:59 GMT | The Start | Eric A | [Read More](https://medium.com/p/ab285d7f5580) |
+| Thu, 10 Jul 2025 18:13:51 GMT | If I Die Tomorrow, Read This | Hime | [Read More](https://medium.com/p/c3a4c4c3fd0f) |
+| Thu, 10 Jul 2025 18:07:48 GMT | Help build Chronos Vault: An invitation to open source contributors | Jude Miracle | [Read More](https://medium.com/p/dc73604d6f64) |
+| Thu, 10 Jul 2025 18:07:35 GMT | DockFlare: The Easiest Way to Expose Docker Containers Using Cloudflare Tunnels | Tomer Klein | [Read More](https://medium.com/p/43b7653a1a7f) |
+| Thu, 10 Jul 2025 18:06:25 GMT | The Art of Credential Management | Ed-it Editions | [Read More](https://medium.com/p/762c3522f34a) |
+| Thu, 10 Jul 2025 18:03:30 GMT | DAY 1: Onwards and Upwards | Akshatdwivedi | [Read More](https://medium.com/p/04bd85d1f2a8) |
+| Thu, 10 Jul 2025 18:03:29 GMT | Disadvantages of AI in Cybersecurity: What You Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/8976629b3e8e) |
+| Thu, 10 Jul 2025 18:01:38 GMT | What Is BitChat? Jack Dorsey’s New Offline Decentralized Messaging App | Ceo Defender | [Read More](https://medium.com/p/cdfa6f210599) |
+| Thu, 10 Jul 2025 18:00:13 GMT | Instead of Reading Resumes, Let’s Call AI a Problem, Then Buy AI to Help. | Tyler | [Read More](https://medium.com/p/0af831e6844a) |
+| Thu, 10 Jul 2025 17:57:23 GMT | Mind Games: “The Spy Tradecraft They Don’t Put in The Movies”(Part 2) | Ghost | [Read More](https://medium.com/p/7bc4b560c51c) |
+| Thu, 10 Jul 2025 17:48:58 GMT | OSINT Automation LAB For Beginners | M Sameer Malik | [Read More](https://medium.com/p/c307dd0112f6) |
 | Thu, 10 Jul 2025 17:43:02 GMT | Privilege Escalation via Response Manipulation | HBlack Ghost | [Read More](https://medium.com/p/1bdb829c8748) |
+| Thu, 10 Jul 2025 17:37:36 GMT | Best Practices for DevOps Automation: 5 Daily Habits That Save Me 3 Hours (And Prevent 90% of… | AbdulRahman Mostafa | [Read More](https://medium.com/p/ae02f975b229) |
 | Thu, 10 Jul 2025 17:37:10 GMT | The AI Revolution: Insights, Risks, and the Future | Navin Sharma | [Read More](https://medium.com/p/370e9b0740e0) |
 | Thu, 10 Jul 2025 17:37:01 GMT | How to become Cyber security specialist? | Dziugas John Vaisvila | [Read More](https://medium.com/p/f2341b025945) |
 | Thu, 10 Jul 2025 17:34:04 GMT | So You Wanna Get Into Cybersecurity? Here’s Where to Start (No Jargon Needed) | Prerana Madhira | [Read More](https://medium.com/p/08f4756bc906) |
+| Thu, 10 Jul 2025 17:33:03 GMT | Claudia Rincón Pérez - Gestión de proyectos IT: Metodologías ágiles vs tradicionales | Claudia Rincón Pérez | [Read More](https://medium.com/p/d68e8d91b5d0) |
 | Thu, 10 Jul 2025 17:21:26 GMT | Ashes and Ascent: Day 0 of Beginning Cybersecurity | Akshatdwivedi | [Read More](https://medium.com/p/6a29e9375ab3) |
 | Thu, 10 Jul 2025 17:20:48 GMT | Building a Python-Powered, AI-Enabled SOC Playbook | Kaatib Yusuf | [Read More](https://medium.com/p/813e9c6d4b8c) |
 | Thu, 10 Jul 2025 17:14:18 GMT | New Scam Enables Attackers to Access Accounts Without Knowing Passwords | Zack Calloway | [Read More](https://medium.com/p/ee90f537a585) |
@@ -39,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 16:45:52 GMT | CSPSub: Extract subdomains from CSP Headers | AbhirupKonwar | [Read More](https://medium.com/p/4d0772f43603) |
 | Thu, 10 Jul 2025 16:45:19 GMT | Google Cloud DLP — A Practitioner’s Guide to Securing Sensitive Data | Sachin Sharma - Lead DevOps Engineer | [Read More](https://medium.com/p/bcb5e74e6d4f) |
 | Thu, 10 Jul 2025 16:45:06 GMT | SNORT - TryHackMe —Network Security & Traffic Analysis | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/768d52ccecb0) |
+| Thu, 10 Jul 2025 16:42:14 GMT | Building Fine-Grained Data Security: Classification and Anonymisation on Databricks | Salena Ketpueak | [Read More](https://medium.com/p/4744f8448fde) |
 | Thu, 10 Jul 2025 16:41:39 GMT | 7 Powerful Ways Data Analytics Drives Business Decision Making | Techridge Solutions | [Read More](https://medium.com/p/ef1633a8e24f) |
 | Thu, 10 Jul 2025 16:38:00 GMT | Whose AI Is Safer? Why China’s Rules Are Forcing the West to Look in the Mirror | Miriam Sauter | [Read More](https://medium.com/p/bdfa7fd6e76d) |
 | Thu, 10 Jul 2025 16:37:32 GMT | Red Teaming vs Penetration Testing: Mana yang Lebih Keren? | 0xbyalak | [Read More](https://medium.com/p/8a1b620c1054) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 14:24:10 GMT | Weird Hacks Part 2: Even More Bizarre Cyber Threats That Actually Exist | Md Faiyaz Khan | [Read More](https://medium.com/p/388f7d64649c) |
 | Thu, 10 Jul 2025 14:09:32 GMT | Detecting BadSuccessor: The Shortest Path to Domain Admin | Mehmet Ergene | [Read More](https://medium.com/p/eff0fec6ee5b) |
 | Thu, 10 Jul 2025 14:07:16 GMT | VAPT Report on SMB Exploitation in Windows 10 Finance Endpoint | Aditya Bhatt | [Read More](https://medium.com/p/e78430191dc2) |
-| Thu, 10 Jul 2025 14:04:01 GMT | The Real Cost of Cybersecurity for Small Businesses — What No One Tells You | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/e79e1331c6a7) |
-| Thu, 10 Jul 2025 14:03:05 GMT | AI’s Age of Alchemy: How to Opt Out of Becoming the Machine’s Gold | Will Ackerman | [Read More](https://medium.com/p/0b5a8b4ce806) |
-| Thu, 10 Jul 2025 14:03:04 GMT | Defending Against Microbursts With Network Security in Phoenix, AZ | Blue Fox Group | [Read More](https://medium.com/p/8ca95e52ee00) |
-| Thu, 10 Jul 2025 14:03:02 GMT | Cyber Briefing: 2025.07.10 | CyberMaterial | [Read More](https://medium.com/p/501ca921d51f) |
-| Thu, 10 Jul 2025 13:56:54 GMT | You Are Lovable and Deserve to Be Loved: Embracing Imperfection in Relationships | Lucas Brown | [Read More](https://medium.com/p/b382fbd79b0a) |
-| Thu, 10 Jul 2025 13:55:38 GMT | The Basics of Flash USDT | Dase | [Read More](https://medium.com/p/31d7a1ed14db) |
-| Thu, 10 Jul 2025 13:53:34 GMT | Skip the MCP Wrapper: Integrate Any Tool with UTCP in 5 Minutes | Juan Viera Garcia | [Read More](https://medium.com/p/e17f7850a1a0) |
-| Thu, 10 Jul 2025 13:46:43 GMT | Understanding Alerts on Unauthorized Changes to PLC Ladder Logic Using Defender for IoT | Saikat Paul | [Read More](https://medium.com/p/3cdd7e21aaa6) |
-| Thu, 10 Jul 2025 13:46:03 GMT | The Wheel of Fortune or the Art of Deceptive Marketing | Henry Shtotz | [Read More](https://medium.com/p/e67769384b4c) |
-| Thu, 10 Jul 2025 13:43:24 GMT | Perplexity’s Comet Browser: A Bold Vision for Enterprise AI, But Compliance and DLP Risks Loom… | Mammoth Cyber | [Read More](https://medium.com/p/c1d50135cd38) |
-| Thu, 10 Jul 2025 13:37:59 GMT | Deepfake Impersonator Uses AI Voice To Target High‑level Government Officials | Rahul Iyer | [Read More](https://medium.com/p/2affbf8cc749) |
-| Thu, 10 Jul 2025 13:37:48 GMT | How Email Forwarding Can Be Used to Steal Your Data Without Anyone Noticing | Saikat Paul | [Read More](https://medium.com/p/e552e44c253b) |
-| Thu, 10 Jul 2025 13:31:43 GMT | Demystifying the OS Booting Sequence: From Power Button to Desktop Like a Boss | Cyphersilhouette | [Read More](https://medium.com/p/4e05036d72ab) |
-| Thu, 10 Jul 2025 13:30:54 GMT | Secure Coding Part 5: Command Injection — Type | Siddiquimohammad | [Read More](https://medium.com/p/8885c278ee76) |
-| Thu, 10 Jul 2025 13:29:48 GMT | Detecting NTDSUtil Usage for Installation Media Creation from Domain Controllers | Saikat Paul | [Read More](https://medium.com/p/01374d0a66d5) |
