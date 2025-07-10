@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 06:26:53 GMT | Critical GeoServer RCE Vulnerability (CVE-2024–36401) — No Auth Needed | AerieWhole123 | [Read More](https://medium.com/p/2fcb98a06418) |
+| Thu, 10 Jul 2025 06:17:43 GMT | The Complete Guide to Azure Managed Identity: Types, Lifecycle, and Authentication Flow | Santosh Thakur | [Read More](https://medium.com/p/3ee2a091c974) |
+| Thu, 10 Jul 2025 06:17:02 GMT | The Fear of Missing Out (FOMO): How Social Media Affects Teen Mental Health — Find Guidance with… | Lyfsmile Child Development | [Read More](https://medium.com/p/46aa1ef3be45) |
+| Thu, 10 Jul 2025 06:13:07 GMT | Cyber Security Audits in Dubai: Is Your Business Data Really Safe? | Leads | [Read More](https://medium.com/p/676b8a67af89) |
+| Thu, 10 Jul 2025 06:12:55 GMT | Building a Zero-Trust Web Security Architecture with Azure Application Gateway and Firewall | Sridhar | [Read More](https://medium.com/p/25191fe8494a) |
+| Thu, 10 Jul 2025 06:11:21 GMT | Breaking Down Mobile App Premium Paywalls: A Deep Dive into Android In-App Purchase Security… | Frostynxth | [Read More](https://medium.com/p/3f11db444f51) |
+| Thu, 10 Jul 2025 06:04:24 GMT | The Rise of Security Services in India: Safeguarding the Nation with Top Security Solutions | Ciss India | [Read More](https://medium.com/p/89b0b6d15c5c) |
+| Thu, 10 Jul 2025 06:02:36 GMT | How Cloud Penetration Testing Can Save Your Business from Cyber Threats | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/6ba902f982e6) |
+| Thu, 10 Jul 2025 06:00:37 GMT | Today’s Top Cyber Intelligence Highlights — Jul 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/7bfb8fca07d1) |
+| Thu, 10 Jul 2025 06:00:22 GMT | Korkuyla Güvenlik Arasında | Ali Ekber KARA | [Read More](https://medium.com/p/2e678391f3c4) |
+| Thu, 10 Jul 2025 05:50:48 GMT | Troubleshooting Common Issues in OpenXAI | Aryan Sinha | [Read More](https://medium.com/p/7e7af5b9eb3d) |
+| Thu, 10 Jul 2025 05:50:07 GMT | The Last Hackers? How AI Is Hijacking the Future of Cybersecurity | Soumyadyuti Dey | [Read More](https://medium.com/p/ce81bf5690ed) |
+| Thu, 10 Jul 2025 05:48:09 GMT | Insecure Design vs. Threat Modeling — What’s the Difference? | Narendar Battula (nArEn) | [Read More](https://medium.com/p/253113ad8a2b) |
+| Thu, 10 Jul 2025 05:46:53 GMT | CRYPTOCURRENCIES AND CYBERSECURITY | EurocoinPay.io | [Read More](https://medium.com/p/5a61c7b129b6) |
 | Thu, 10 Jul 2025 05:39:51 GMT | Insecure by Design: The Silent API Killer | Narendar Battula (nArEn) | [Read More](https://medium.com/p/664d1ed3b63e) |
+| Thu, 10 Jul 2025 05:38:01 GMT | Analyzing National Cyber Attack Surfaces in the Israel-Iran Digital Conflict Using Criminal IP | Criminal IP | [Read More](https://medium.com/p/88fffc856db9) |
 | Thu, 10 Jul 2025 05:34:17 GMT | Why Most APIs Are Insecure by Design (Even If They Use OAuth2) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6f34655bba15) |
 | Thu, 10 Jul 2025 05:32:51 GMT | AI Model API-Validation Using Curl | rr-1k | [Read More](https://medium.com/p/b4b28975a87e) |
 | Thu, 10 Jul 2025 05:31:40 GMT | Inside a Hacker’s Mind: The Dark Tricks Behind Phishing Emails | Aj | [Read More](https://medium.com/p/cb077a15492d) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 20:15:10 GMT | Jack Dorsey’s Bitchat Claims to Be Secure — But Security Experts Say ‘Absolutely Not’ | CoinGen | [Read More](https://medium.com/p/42f3c214a62b) |
 | Wed, 09 Jul 2025 20:13:44 GMT | How I Launched My First Cybersecurity SaaS Using Vibe Coding | Taimur Ijlal | [Read More](https://medium.com/p/63017131cd2c) |
 | Wed, 09 Jul 2025 20:04:22 GMT | Iran Focuses Cybercriminals on Foreign Enemies | Matthew.Rosenquist | [Read More](https://medium.com/p/228445f522f3) |
-| Wed, 09 Jul 2025 20:04:05 GMT | GMX Hit by $40M Exploit: Trading Paused, GLP Minting Frozen | CoinGen | [Read More](https://medium.com/p/0268465995ed) |
-| Wed, 09 Jul 2025 19:54:15 GMT | AI/ML Security Threats: TryHackMe Solutions | Mukund | [Read More](https://medium.com/p/adc8ade345e2) |
-| Wed, 09 Jul 2025 19:46:35 GMT | Defending Adversarial Attacks - Tryhackme | Aaron | [Read More](https://medium.com/p/1f074cd5d2e4) |
-| Wed, 09 Jul 2025 19:44:50 GMT | North Korean Hacker SANCTIONED After Infiltrating U.S. Companies as a Remote IT Worker | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/327ad363e16f) |
-| Wed, 09 Jul 2025 19:38:28 GMT | TryHackMe — Simple Web CTF
- Report by: th3 freel4ncer | th3 freel4ncer | [Read More](https://medium.com/p/e4c06a473bad) |
-| Wed, 09 Jul 2025 19:38:07 GMT | Stop Shipping Vulnerabilities: The Best Free SAST Tools to Scan Your Code Automatically [July 2025] | Riccardo Bernardi | [Read More](https://medium.com/p/2d8ddf888f24) |
-| Wed, 09 Jul 2025 19:36:34 GMT | ChatGPT Account Takeover — Wildcard Web Cache Deception | Mohammed Muneef | [Read More](https://medium.com/p/fe2275b419c6) |
-| Wed, 09 Jul 2025 19:24:28 GMT | Pentest: A Chave para a Segurança Cibernética Proativa nas Empresas | Aristides Pascoal Queta | [Read More](https://medium.com/p/2c851bbca672) |
-| Wed, 09 Jul 2025 19:24:19 GMT | Attacktive Directory THM Writeup | Vincent Olago | [Read More](https://medium.com/p/a1a07b9a6ad7) |
-| Wed, 09 Jul 2025 19:22:43 GMT | How Cheating App ‘Cluely’ Got Hacked, Leaking 83,000 Users’ Data | Null Walker | [Read More](https://medium.com/p/9ac572ff3d00) |
-| Wed, 09 Jul 2025 19:11:09 GMT | Why I Founded Trustoryx: A Mission to Reinforce Digital Trust in India | NIkhil Kumar | [Read More](https://medium.com/p/0abae31757e2) |
-| Wed, 09 Jul 2025 19:08:59 GMT | IP Routing On Cisco Packet Tracer ( Step-by-Step ) 2025 | Ceo Defender | [Read More](https://medium.com/p/29099b79253b) |
-| Wed, 09 Jul 2025 18:50:57 GMT | Open Cybersecurity AI Frameworks: New Challenges, Opportunities & Impact | noailabs | [Read More](https://medium.com/p/96b07a943529) |
-| Wed, 09 Jul 2025 18:50:43 GMT | Hack The Knowledge Of IP | Vishalakshi Pathak | [Read More](https://medium.com/p/515c12053313) |
-| Wed, 09 Jul 2025 18:49:10 GMT | Wireshark: The Basics - TryHackMe Walkthrough | Yagmur Yerlikaya | [Read More](https://medium.com/p/18e3055b6e37) |
