@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 04:34:33 GMT | I Lost Rp10 Million to a Scam | Rizka Luthfiani | [Read More](https://medium.com/p/bb475e4da0b7) |
+| Thu, 10 Jul 2025 04:32:59 GMT | Part 4: The Federation — An Introduction to Social Login and SSO Concepts | Rohit Mittel | [Read More](https://medium.com/p/8ccf8264f6df) |
+| Thu, 10 Jul 2025 04:15:48 GMT | MEDUSA RANSOMWARE EXPOSED BY RANSOMEDVC | Rakesh Krishnan | [Read More](https://medium.com/p/0f0df45ed7b9) |
+| Thu, 10 Jul 2025 04:13:57 GMT | Cybersecurity in LLMs and GenAI Models: Prompt Injection, Data Poisoning, and Model Hijacking | A-STAR7_DOCTOR | [Read More](https://medium.com/p/58b9d8c9e557) |
+| Thu, 10 Jul 2025 04:13:23 GMT | Firearms on the Dark Web: What I Discovered While Exploring the Hidden Gun Markets | adityaax | [Read More](https://medium.com/p/9eef68a5766b) |
+| Thu, 10 Jul 2025 04:13:05 GMT | Protect Your Users from Phishing & Spoofing! | Maksim Shimshon | [Read More](https://medium.com/p/4ef35b76a7a0) |
+| Thu, 10 Jul 2025 04:12:39 GMT | From Runway to Firewall: What the Qantas Data Breach Means for Travellers | Simon Kalipciyan | [Read More](https://medium.com/p/e52020fb9151) |
+| Thu, 10 Jul 2025 04:06:32 GMT | The $430,000 Kubernetes Mistake | Amine Raji | [Read More](https://medium.com/p/cf1b0be2d217) |
 | Thu, 10 Jul 2025 03:45:27 GMT | Tech Feet Under: The Security Octet — Eight Startups That Sank Below the Surface | Jugaad Tiger | [Read More](https://medium.com/p/ae47594cd835) |
 | Thu, 10 Jul 2025 03:34:33 GMT | Efficiently Passing the CISSP Exam in 6 Months: A Practical Guide for InfoSec Professionals | InsBug | [Read More](https://medium.com/p/82fa6cdb1f6e) |
 | Thu, 10 Jul 2025 03:32:53 GMT | SK Telecom’s Hidden Breach: Unmasking a Three-Year Malware Intrusion That Compromised 27 Million… | Deven Chhajed | [Read More](https://medium.com/p/76b171754f6b) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 17:43:08 GMT | How Proactive Video Monitoring Is Redefining Commercial Security in the USA | ASI Systems Pro | [Read More](https://medium.com/p/22c65848e59f) |
 | Wed, 09 Jul 2025 17:37:23 GMT | Why Thrissur Needs a Cyber Security Academy: Building Kerala’s Digital Defense | Abhinav Shelly | [Read More](https://medium.com/p/7e73a450f62a) |
 | Wed, 09 Jul 2025 17:36:59 GMT | A Beginner’s Guide to Understanding DHCP and the DORA Process | Shubham Sharma | [Read More](https://medium.com/p/6c7aa6377f90) |
-| Wed, 09 Jul 2025 17:29:33 GMT | Choosing the Right IT Security Company: What You Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/ee66ea5e4160) |
-| Wed, 09 Jul 2025 17:28:17 GMT | Blockchain: The Future Backbone of Data Integrity and Security | Sagarchhetri | [Read More](https://medium.com/p/6d065579b8e8) |
-| Wed, 09 Jul 2025 17:25:35 GMT | Deepfake Engineering | JD Brooks | [Read More](https://medium.com/p/b0150cb22766) |
-| Wed, 09 Jul 2025 17:24:17 GMT | $$ From 403 Forbidden to Superadmin: My Path Through the Backdoor | Aman Sharma | [Read More](https://medium.com/p/77b85774fee5) |
-| Wed, 09 Jul 2025 17:19:05 GMT | Prepping for ISC2 CC[Certified in Cybersecurity] : Tips from a Rookie | Nathamayil Natesh | [Read More](https://medium.com/p/4e82207599ec) |
-| Wed, 09 Jul 2025 17:13:43 GMT | ✨ Why Finishing Tasks Isn’t the Same as Growing Your Career | Jaya Vishwakarma | [Read More](https://medium.com/p/96ce9b07200a) |
-| Wed, 09 Jul 2025 17:13:15 GMT | Top 7 Benefits of Using Blockchain for Secure Data Management. | Technologic Innovation | [Read More](https://medium.com/p/eaf069069ca7) |
-| Wed, 09 Jul 2025 17:07:32 GMT | Organizing the Chaos: Why Password Managers Make Developer Onboarding Easier | Autumn | [Read More](https://medium.com/p/535c66737ea5) |
