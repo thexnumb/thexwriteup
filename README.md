@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 23:16:38 GMT | I walked into a Fortune 500 HQ … No one stopped me. | JD Brooks | [Read More](https://medium.com/p/7dc447ead75d) |
+| Thu, 10 Jul 2025 23:09:21 GMT | They Didn’t Break In — They Logged In: How 5 Major Retailers Were Breached Without Malware | Cyber-AppSec | [Read More](https://medium.com/p/dcb2b8677bd8) |
+| Thu, 10 Jul 2025 23:04:49 GMT | Critical IDOR Chain — Edit Any User’s Role, Activate/Deactivate Accounts, and Escalate Privileges | B0d4 | [Read More](https://medium.com/p/12637b0f2485) |
+| Thu, 10 Jul 2025 22:48:41 GMT | CYAN-Review | marianita_cloud | [Read More](https://medium.com/p/4cfd736a0b83) |
+| Thu, 10 Jul 2025 22:44:47 GMT | Hacking a Solution: Building an AI Content Agent the Pentester’s Way | Ugo Ramos (Ugo) | [Read More](https://medium.com/p/d902aaff2d44) |
+| Thu, 10 Jul 2025 22:44:17 GMT | What is Cybersecurity? A Beginner’s Guide | B. N. Hamisi | [Read More](https://medium.com/p/775102c17832) |
+| Thu, 10 Jul 2025 22:41:37 GMT | EN - Adversarial Risk in Modern NLP Systems: LLM-Focused Threat and Attack Tactics — Part 1 | Alican Kiraz | [Read More](https://medium.com/p/e8785e67527c) |
+| Thu, 10 Jul 2025 22:40:31 GMT | How Do You Share Something You Can’t Yet Name? | Will2Endure | [Read More](https://medium.com/p/c49ec28483f0) |
 | Thu, 10 Jul 2025 22:36:04 GMT | Deep Diligence #1 Tokenized Equity | Zach Zukowski | [Read More](https://medium.com/p/220f4ef522c5) |
 | Thu, 10 Jul 2025 22:31:42 GMT | JURASSIC PARK WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/83b1a7201802) |
 | Thu, 10 Jul 2025 22:16:53 GMT | Securing Kubernetes: A Step-by-Step Hardening Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a81e465b9a28) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 16:33:06 GMT | Logout… pero ¿realmente saliste? | Gorka | [Read More](https://medium.com/p/8b2ddac15a06) |
 | Thu, 10 Jul 2025 16:31:42 GMT | UFW vs firewalld: Linux Security Guards | Natarajan C K | [Read More](https://medium.com/p/3f6bed733f31) |
 | Thu, 10 Jul 2025 16:30:59 GMT | Our Investment in AirMDR: Redefining the SOC for the AI Era | Chris McCann | [Read More](https://medium.com/p/4f7dc675f82a) |
-| Thu, 10 Jul 2025 16:30:47 GMT | To the Man Who’s Still Holding On | Moyinoluwa Fatungase (StArLiGhT ✍) | [Read More](https://medium.com/p/8b73a1ceec90) |
-| Thu, 10 Jul 2025 16:22:25 GMT | Audit-Ready Mining: Bridging Security and Compliance | DarioWorks | [Read More](https://medium.com/p/2c8faf216aaa) |
-| Thu, 10 Jul 2025 16:21:58 GMT | 3 Future Skills You MUST Learn Before 2026 | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/42177d4d4c52) |
-| Thu, 10 Jul 2025 16:20:33 GMT | Cybersecurity 101: How to Protect Your Data in a Digital World | The Curious Voice By----- Krish Maran | [Read More](https://medium.com/p/140b3dc3cf55) |
-| Thu, 10 Jul 2025 16:19:33 GMT | Jesus Didn’t Come to Fix Me — He Came to Free Me | Roderick L. McBee | [Read More](https://medium.com/p/0905dcce01fb) |
-| Thu, 10 Jul 2025 16:18:13 GMT | $15,250 Bounty: Race Condition to Store Takeover | Monika sharma | [Read More](https://medium.com/p/6eb0ad2edd2c) |
-| Thu, 10 Jul 2025 16:14:24 GMT | Two-Factor Authentication: Your Digital Life’s Seatbelt | Rosalia Quinn | [Read More](https://medium.com/p/194fe55fd25e) |
-| Thu, 10 Jul 2025 16:07:10 GMT | Unlock the Potential of Your Property with Void Management Solutions | Professional UK Services | [Read More](https://medium.com/p/e73295772cd3) |
