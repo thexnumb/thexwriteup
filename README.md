@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 09:30:15 GMT | What is SIEM in Cyber Security? A Beginner’s Guide by VGICS Global | s singh | [Read More](https://medium.com/p/d7c37c5c92c3) |
+| Thu, 10 Jul 2025 09:30:03 GMT | Can My VPN Provider See My Browsing History in 2025? [Full Truth Inside] | Digimad.online | [Read More](https://medium.com/p/781fb75808c2) |
+| Thu, 10 Jul 2025 09:25:44 GMT | Storing Sensitive Data in Databases: Why Encryption Alone Isn’t Enough | Sameer Ahmed | [Read More](https://medium.com/p/aeb6aa56641b) |
 | Thu, 10 Jul 2025 09:25:32 GMT | The Power of Women in Security: Redefining Cyber Leadership | Linda A. Ivri | [Read More](https://medium.com/p/b9207aa63f01) |
 | Thu, 10 Jul 2025 09:24:32 GMT | How to Protect Your Business from Ransomware in 2025 | West Advanced Technologies Inc | [Read More](https://medium.com/p/3820bc417eab) |
+| Thu, 10 Jul 2025 09:13:17 GMT | Splunk: Dashboards and Reports | Peta Pavan | [Read More](https://medium.com/p/dc3c314b0a45) |
 | Thu, 10 Jul 2025 09:10:07 GMT | Summit - Challenge THM [SOC] #1 | D4m.sh | [Read More](https://medium.com/p/3663c00aec31) |
 | Thu, 10 Jul 2025 09:09:26 GMT | MD2PDF — Hack in 5 Minutes - Write-Up #7 | D4m.sh | [Read More](https://medium.com/p/29784c251017) |
 | Thu, 10 Jul 2025 09:08:04 GMT | Cybersecurity Threats In 2025 | Theunitedindian | [Read More](https://medium.com/p/644faf52ea1a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 04:13:23 GMT | Firearms on the Dark Web: What I Discovered While Exploring the Hidden Gun Markets | adityaax | [Read More](https://medium.com/p/9eef68a5766b) |
 | Thu, 10 Jul 2025 04:13:05 GMT | Protect Your Users from Phishing & Spoofing! | Maksim Shimshon | [Read More](https://medium.com/p/4ef35b76a7a0) |
 | Thu, 10 Jul 2025 04:12:39 GMT | From Runway to Firewall: What the Qantas Data Breach Means for Travellers | Simon Kalipciyan | [Read More](https://medium.com/p/e52020fb9151) |
-| Thu, 10 Jul 2025 04:06:32 GMT | The $430,000 Kubernetes Mistake | Amine Raji | [Read More](https://medium.com/p/cf1b0be2d217) |
-| Thu, 10 Jul 2025 03:45:27 GMT | Tech Feet Under: The Security Octet — Eight Startups That Sank Below the Surface | Jugaad Tiger | [Read More](https://medium.com/p/ae47594cd835) |
-| Thu, 10 Jul 2025 03:34:33 GMT | Efficiently Passing the CISSP Exam in 6 Months: A Practical Guide for InfoSec Professionals | InsBug | [Read More](https://medium.com/p/82fa6cdb1f6e) |
-| Thu, 10 Jul 2025 03:32:53 GMT | SK Telecom’s Hidden Breach: Unmasking a Three-Year Malware Intrusion That Compromised 27 Million… | Deven Chhajed | [Read More](https://medium.com/p/76b171754f6b) |
