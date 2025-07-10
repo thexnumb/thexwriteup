@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 14:09:32 GMT | Detecting BadSuccessor: The Shortest Path to Domain Admin | Mehmet Ergene | [Read More](https://medium.com/p/eff0fec6ee5b) |
+| Thu, 10 Jul 2025 14:07:16 GMT | VAPT Report on SMB Exploitation in Windows 10 Finance Endpoint | Aditya Bhatt | [Read More](https://medium.com/p/e78430191dc2) |
+| Thu, 10 Jul 2025 14:04:01 GMT | The Real Cost of Cybersecurity for Small Businesses — What No One Tells You | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/e79e1331c6a7) |
+| Thu, 10 Jul 2025 14:03:05 GMT | AI’s Age of Alchemy: How to Opt Out of Becoming the Machine’s Gold | Will Ackerman | [Read More](https://medium.com/p/0b5a8b4ce806) |
+| Thu, 10 Jul 2025 14:03:04 GMT | Defending Against Microbursts With Network Security in Phoenix, AZ | Blue Fox Group | [Read More](https://medium.com/p/8ca95e52ee00) |
+| Thu, 10 Jul 2025 14:03:02 GMT | Cyber Briefing: 2025.07.10 | CyberMaterial | [Read More](https://medium.com/p/501ca921d51f) |
+| Thu, 10 Jul 2025 13:56:54 GMT | You Are Lovable and Deserve to Be Loved: Embracing Imperfection in Relationships | Lucas Brown | [Read More](https://medium.com/p/b382fbd79b0a) |
+| Thu, 10 Jul 2025 13:55:38 GMT | The Basics of Flash USDT | Dase | [Read More](https://medium.com/p/31d7a1ed14db) |
+| Thu, 10 Jul 2025 13:53:34 GMT | Skip the MCP Wrapper: Integrate Any Tool with UTCP in 5 Minutes | Juan Viera Garcia | [Read More](https://medium.com/p/e17f7850a1a0) |
+| Thu, 10 Jul 2025 13:46:43 GMT | Understanding Alerts on Unauthorized Changes to PLC Ladder Logic Using Defender for IoT | Saikat Paul | [Read More](https://medium.com/p/3cdd7e21aaa6) |
+| Thu, 10 Jul 2025 13:46:03 GMT | The Wheel of Fortune or the Art of Deceptive Marketing | Henry Shtotz | [Read More](https://medium.com/p/e67769384b4c) |
+| Thu, 10 Jul 2025 13:43:24 GMT | Perplexity’s Comet Browser: A Bold Vision for Enterprise AI, But Compliance and DLP Risks Loom… | Mammoth Cyber | [Read More](https://medium.com/p/c1d50135cd38) |
+| Thu, 10 Jul 2025 13:37:59 GMT | Deepfake Impersonator Uses AI Voice To Target High‑level Government Officials | Rahul Iyer | [Read More](https://medium.com/p/2affbf8cc749) |
+| Thu, 10 Jul 2025 13:37:48 GMT | How Email Forwarding Can Be Used to Steal Your Data Without Anyone Noticing | Saikat Paul | [Read More](https://medium.com/p/e552e44c253b) |
 | Thu, 10 Jul 2025 13:31:43 GMT | Demystifying the OS Booting Sequence: From Power Button to Desktop Like a Boss | Cyphersilhouette | [Read More](https://medium.com/p/4e05036d72ab) |
+| Thu, 10 Jul 2025 13:30:54 GMT | Secure Coding Part 5: Command Injection — Type | Siddiquimohammad | [Read More](https://medium.com/p/8885c278ee76) |
 | Thu, 10 Jul 2025 13:29:48 GMT | Detecting NTDSUtil Usage for Installation Media Creation from Domain Controllers | Saikat Paul | [Read More](https://medium.com/p/01374d0a66d5) |
 | Thu, 10 Jul 2025 13:26:45 GMT | From Rejection to Recognition: How I Made It to Apple’s Hall of Fame | Rajdip | [Read More](https://medium.com/p/8465e1dcb54f) |
 | Thu, 10 Jul 2025 13:26:15 GMT | Abusing Notepad Session restore | RidgeHack | [Read More](https://medium.com/p/668bdb73f89f) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 08:37:12 GMT | Shieldera: A Security-Centric Desktop App Powered by PySide6 and Firebase | Kübra Kara | [Read More](https://medium.com/p/0f3346f4fafd) |
 | Thu, 10 Jul 2025 08:36:37 GMT | The Invisible Bazaar: Inside the Global Zero-Day Market | Hammaad Mughal | [Read More](https://medium.com/p/ee327c12633a) |
 | Thu, 10 Jul 2025 08:36:26 GMT | Easy Claim Process for $CVE | $CVE (Curvance) | [Read More](https://medium.com/p/e520713c10ac) |
-| Thu, 10 Jul 2025 08:33:33 GMT | Why Compliance-Heavy Industries Need Multi-Agent AI Architecture | Siddhant Nitin | [Read More](https://medium.com/p/e305ba34d83d) |
-| Thu, 10 Jul 2025 08:28:45 GMT | Supercharge Your LFI Earnings with StakingRewards | LunaFi | [Read More](https://medium.com/p/26c84180d4c1) |
-| Thu, 10 Jul 2025 08:26:05 GMT | Logwatcher’s Zenit #06: Summiting the Pyramid | ThreatHunter Chronicles | [Read More](https://medium.com/p/f12744f8acd7) |
-| Thu, 10 Jul 2025 08:23:39 GMT | Mastering CIDR Block Ranges: A Simple Formula to Calculate IP Ranges from /1 to /23 | Anup K | [Read More](https://medium.com/p/cf87db8a147a) |
-| Thu, 10 Jul 2025 08:23:33 GMT | Why Compliance-Heavy Industries Need Multi-Agent AI Architecture | Siddhant Nitin | [Read More](https://medium.com/p/ee43bad0d05d) |
-| Thu, 10 Jul 2025 08:21:52 GMT | OWASP Security Concepts — The Blueprint for Building and Breaking Secure Applications | YoungerSibling | [Read More](https://medium.com/p/f8a091c664c1) |
-| Thu, 10 Jul 2025 08:21:00 GMT | Future of Server Spending: 7 Stats That Will Blow Your Mind | HostNOC | [Read More](https://medium.com/p/4de6d6dae754) |
-| Thu, 10 Jul 2025 08:13:17 GMT | Difference between SameSite Cookie Attributes: Strict, Lax, None and No SameSite | Dhanush N | [Read More](https://medium.com/p/242fbfdbc8e1) |
-| Thu, 10 Jul 2025 08:03:57 GMT | Write for AI & Cloud | Saikat Paul | [Read More](https://medium.com/p/92a7b5c6fe7b) |
-| Thu, 10 Jul 2025 08:01:19 GMT | LetsDefend.io — SOC168-Whoami Command Detected in Request Body | Augustine Sito | [Read More](https://medium.com/p/a5d6cdd8bef8) |
-| Thu, 10 Jul 2025 07:57:54 GMT | AWS Cloud Pricing Explained | Ifeoma Nwokeoma | [Read More](https://medium.com/p/29160011d9f8) |
-| Thu, 10 Jul 2025 07:56:54 GMT | Cryptographic Failures in Salesforce — When Secrets Turn Into Threats | Musa Ndlala | [Read More](https://medium.com/p/22a1d7b45077) |
-| Thu, 10 Jul 2025 07:48:55 GMT | Cybersecurity Marketing: Game-Changing Strategies You Can’t Ignore | GrackerAI | [Read More](https://medium.com/p/b6c21e66c5a6) |
-| Thu, 10 Jul 2025 07:47:07 GMT | Boost Your Red Hat Career with the RH199 Rapid Track Course | cyber security Updates | [Read More](https://medium.com/p/6fab790eeff7) |
-| Thu, 10 Jul 2025 07:46:57 GMT | 利用 Palo Alto Networks 預定義清單 EDL 建立防護規則(黑名單) | Damon Lin | [Read More](https://medium.com/p/9d10e9996ffb) |
