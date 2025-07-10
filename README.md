@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 10:22:03 GMT | Cyber security: Protecting Yourself in the Digital World | mahnoor | [Read More](https://medium.com/p/9070923df34c) |
+| Thu, 10 Jul 2025 10:17:17 GMT | ️ Day #14: Suspicious PowerShell Detection on Windows: Hands-On Incident Response | Rishavkumarthapa | [Read More](https://medium.com/p/d186813aba8a) |
+| Thu, 10 Jul 2025 10:13:33 GMT | Is TweetEraser Safe to Use? A Deep Dive into Its Security Practices | Ava Thornell | [Read More](https://medium.com/p/2d0be5a0a662) |
+| Thu, 10 Jul 2025 10:12:44 GMT | The Weaponization of Data: How Your Online Behavior Is a Digital War Asset | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/df6ef0ece9ac) |
+| Thu, 10 Jul 2025 10:05:53 GMT | PsExec Lab SOC Tier-1 Level-2 | Sandeepduseja | [Read More](https://medium.com/p/1ff49207dabf) |
+| Thu, 10 Jul 2025 10:02:59 GMT | Top Cybersecurity Conferences to Attend in H2 2025 | Linda A. Ivri | [Read More](https://medium.com/p/81e2c51d89ec) |
+| Thu, 10 Jul 2025 10:01:22 GMT | Who’s Left Picking Up the Pieces in Gaza? | Universal Peace Federation - Africa | [Read More](https://medium.com/p/a63d1b25d3d2) |
+| Thu, 10 Jul 2025 10:00:42 GMT | Hundreds of Major Companies Face High Risk from Scattered Spider Hackers, CyberCube Warns | SafetyDetectives Research Team | [Read More](https://medium.com/p/9745eaf1d072) |
+| Thu, 10 Jul 2025 09:50:07 GMT | LIFE LESSONS FROM A SNIPER’S SCOPE | Oludare Ayorinde | [Read More](https://medium.com/p/ab6b8d44097f) |
+| Thu, 10 Jul 2025 09:48:55 GMT | How a Bug Hunter’s Discovery Inspired Me to Find a Facebook and Instagram Posting Glitch | Sandipgyawali | [Read More](https://medium.com/p/07c5056783c9) |
+| Thu, 10 Jul 2025 09:45:25 GMT | Engineering the Invisible: Behind Every Seamless Experience | Mohammed Zishan | [Read More](https://medium.com/p/b649b3749d3b) |
 | Thu, 10 Jul 2025 09:30:15 GMT | What is SIEM in Cyber Security? A Beginner’s Guide by VGICS Global | s singh | [Read More](https://medium.com/p/d7c37c5c92c3) |
 | Thu, 10 Jul 2025 09:30:03 GMT | Can My VPN Provider See My Browsing History in 2025? [Full Truth Inside] | Digimad.online | [Read More](https://medium.com/p/781fb75808c2) |
 | Thu, 10 Jul 2025 09:25:44 GMT | Storing Sensitive Data in Databases: Why Encryption Alone Isn’t Enough | Sameer Ahmed | [Read More](https://medium.com/p/aeb6aa56641b) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 05:10:34 GMT | O(1) bit primitive of everything binary: address +2¹⁰⁰⁰ bits on a “toaster” | Ethan G Appleby | [Read More](https://medium.com/p/42d6805ba46e) |
 | Thu, 10 Jul 2025 05:05:42 GMT | 5 Reasons Toronto Businesses Are Switching to Local Managed IT Services | True North MSP | [Read More](https://medium.com/p/b1f2b52ef726) |
 | Thu, 10 Jul 2025 05:05:10 GMT | Protecting Your Business from Cyber Attacks in Saudi Arabia | Bluechip Advanced Technologies | [Read More](https://medium.com/p/8489d57949bd) |
-| Thu, 10 Jul 2025 04:57:55 GMT | Oski Lab (Walk Through) | Mart Eugen Gevero | [Read More](https://medium.com/p/dff1b6135252) |
-| Thu, 10 Jul 2025 04:54:56 GMT | The Linux Concept Journey — GNU GRUB (GNU GRand Unified Bootloader) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0a1e64067315) |
-| Thu, 10 Jul 2025 04:51:43 GMT | Mastering API Security: Defending Your Applications in the Modern Threat Landscape | Mr_Jeet_24 | [Read More](https://medium.com/p/48af80582778) |
-| Thu, 10 Jul 2025 04:51:24 GMT | What is Zone Firewall for Windows? | Rony Henry | [Read More](https://medium.com/p/7de0dc32b655) |
-| Thu, 10 Jul 2025 04:34:33 GMT | I Lost Rp10 Million to a Scam | Rizka Luthfiani | [Read More](https://medium.com/p/bb475e4da0b7) |
-| Thu, 10 Jul 2025 04:32:59 GMT | Part 4: The Federation — An Introduction to Social Login and SSO Concepts | Rohit Mittel | [Read More](https://medium.com/p/8ccf8264f6df) |
-| Thu, 10 Jul 2025 04:15:48 GMT | MEDUSA RANSOMWARE EXPOSED BY RANSOMEDVC | Rakesh Krishnan | [Read More](https://medium.com/p/0f0df45ed7b9) |
-| Thu, 10 Jul 2025 04:13:57 GMT | Cybersecurity in LLMs and GenAI Models: Prompt Injection, Data Poisoning, and Model Hijacking | A-STAR7_DOCTOR | [Read More](https://medium.com/p/58b9d8c9e557) |
-| Thu, 10 Jul 2025 04:13:23 GMT | Firearms on the Dark Web: What I Discovered While Exploring the Hidden Gun Markets | adityaax | [Read More](https://medium.com/p/9eef68a5766b) |
-| Thu, 10 Jul 2025 04:13:05 GMT | Protect Your Users from Phishing & Spoofing! | Maksim Shimshon | [Read More](https://medium.com/p/4ef35b76a7a0) |
-| Thu, 10 Jul 2025 04:12:39 GMT | From Runway to Firewall: What the Qantas Data Breach Means for Travellers | Simon Kalipciyan | [Read More](https://medium.com/p/e52020fb9151) |
