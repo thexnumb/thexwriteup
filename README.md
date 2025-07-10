@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 11:09:35 GMT | Cracking the Sunset Machine: Step-by-Step Write-up | Alan T Paul | [Read More](https://medium.com/p/bc4b9941e43a) |
+| Thu, 10 Jul 2025 11:02:46 GMT | Part 2: Scanning DVWA Using Nmap, Nikto & OWASP ZAP | Anivesh Mohan | [Read More](https://medium.com/p/f40ab5563f42) |
+| Thu, 10 Jul 2025 10:59:03 GMT | Part-1:Deploy a Local Hacker Lab Using DVWA and Kali Linux | Anivesh Mohan | [Read More](https://medium.com/p/90289f30d645) |
+| Thu, 10 Jul 2025 10:54:08 GMT | What Is SaaS Security and Why Is It Important? | Core Devs Ltd | [Read More](https://medium.com/p/b15ec7fba2e9) |
 | Thu, 10 Jul 2025 10:41:08 GMT | How a Logic Flaw in ServiceNow’s ACLs Could Let Anyone Steal Your Data — And What You Need to Fix… | CyBlog | [Read More](https://medium.com/p/fe88c3362794) |
 | Thu, 10 Jul 2025 10:40:43 GMT | Historical Analysis of Reflected Vulnerabilities: The Evolution of Windows Defender Defenses | Son Vi | [Read More](https://medium.com/p/af2f34fb69a9) |
 | Thu, 10 Jul 2025 10:37:28 GMT | IAM from a Data-Centric View: Securing What Truly Matters | Ketan Polawar | [Read More](https://medium.com/p/63a6366666f6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 05:32:51 GMT | AI Model API-Validation Using Curl | rr-1k | [Read More](https://medium.com/p/b4b28975a87e) |
 | Thu, 10 Jul 2025 05:31:40 GMT | Inside a Hacker’s Mind: The Dark Tricks Behind Phishing Emails | Aj | [Read More](https://medium.com/p/cb077a15492d) |
 | Thu, 10 Jul 2025 05:31:12 GMT | How to Keep Kids Safe Online — A Parent’s Cyber Safety Guide | Earning Handle | [Read More](https://medium.com/p/2a5ab771df0f) |
-| Thu, 10 Jul 2025 05:29:20 GMT | Kubernetes Secrets: Base Recommended Protection | W. Jenks Gibbons | [Read More](https://medium.com/p/b692ac9d44f0) |
-| Thu, 10 Jul 2025 05:27:17 GMT | From O to Hero – One Way, No Other Way on Medium | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/6606b929e4bf) |
-| Thu, 10 Jul 2025 05:22:04 GMT | An Artist’s Philosophy-Aphorisms and Artwork | An Artist's Philosophy - Aphorisms and Artwork | [Read More](https://medium.com/p/b0db8386405e) |
-| Thu, 10 Jul 2025 05:21:34 GMT | NoSQL Injection — Simple Write-UP | Anandakrishnan P R | [Read More](https://medium.com/p/8c9d1e734fa6) |
