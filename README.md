@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 09:25:32 GMT | The Power of Women in Security: Redefining Cyber Leadership | Linda A. Ivri | [Read More](https://medium.com/p/b9207aa63f01) |
+| Thu, 10 Jul 2025 09:24:32 GMT | How to Protect Your Business from Ransomware in 2025 | West Advanced Technologies Inc | [Read More](https://medium.com/p/3820bc417eab) |
+| Thu, 10 Jul 2025 09:10:07 GMT | Summit - Challenge THM [SOC] #1 | D4m.sh | [Read More](https://medium.com/p/3663c00aec31) |
+| Thu, 10 Jul 2025 09:09:26 GMT | MD2PDF — Hack in 5 Minutes - Write-Up #7 | D4m.sh | [Read More](https://medium.com/p/29784c251017) |
+| Thu, 10 Jul 2025 09:08:04 GMT | Cybersecurity Threats In 2025 | Theunitedindian | [Read More](https://medium.com/p/644faf52ea1a) |
+| Thu, 10 Jul 2025 09:07:15 GMT | Why Employees Are Still Your Biggest Cyber Risk in 2025 | Recon Cyber Security | [Read More](https://medium.com/p/792f00fdbbe3) |
+| Thu, 10 Jul 2025 09:05:09 GMT | ️ OSINT Framework: The Ultimate Guide for Ethical Hackers & Cyber Investigators | Rajkumar Kumawat | [Read More](https://medium.com/p/9b5e66e02c54) |
+| Thu, 10 Jul 2025 09:01:23 GMT | Secure & Streamlined Google OAuth + OTP Authentication API | aayushii Gupta | [Read More](https://medium.com/p/3b75433e83a1) |
+| Thu, 10 Jul 2025 09:01:23 GMT | Security as a Business Accelerator: Why Your Next Transformation Depends on Getting This Right | Paul Sherman | [Read More](https://medium.com/p/6d933ba52643) |
+| Thu, 10 Jul 2025 09:01:21 GMT | Why Understanding Threat Intelligence Alerts Might Be the Cheapest Cyber Insurance You’ll Ever Have | Saikat Paul | [Read More](https://medium.com/p/0cc0d39ddf61) |
+| Thu, 10 Jul 2025 09:00:01 GMT | The Developer’s Guide to SSL/TLS and HTTPS Security | Quella | [Read More](https://medium.com/p/061c41098e7a) |
+| Thu, 10 Jul 2025 08:57:37 GMT | Linux Internals For Rootkit Research | solvz | [Read More](https://medium.com/p/e393a81a4d90) |
+| Thu, 10 Jul 2025 08:51:55 GMT | Lộ trình học Hack trên TryHackMe cho Free User | Nghia | [Read More](https://medium.com/p/607a378eae56) |
+| Thu, 10 Jul 2025 08:50:43 GMT | Best Practices to Build A Compliance (PCI-DSS,DORA,NIST-2.0) | appsecwarrior | [Read More](https://medium.com/p/8e6c2c7d727b) |
+| Thu, 10 Jul 2025 08:50:20 GMT | Prevent HTTP Parameter Pollution in Symfony Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/8a903f329f22) |
+| Thu, 10 Jul 2025 08:48:40 GMT | DAY 10— Linux CTF Challenge #3 | Jinay | [Read More](https://medium.com/p/71b5946c64f3) |
 | Thu, 10 Jul 2025 08:40:22 GMT | Windows BitLocker Bypass Vulnerability (CVE-2025–48818) Threatens Full-Disk Encryption | Darshan | [Read More](https://medium.com/p/be7da7786c1d) |
 | Thu, 10 Jul 2025 08:39:11 GMT | 5 Simple Steps to Improve Housekeeping at the Workplace | EXLITY | [Read More](https://medium.com/p/622c680f6e6a) |
 | Thu, 10 Jul 2025 08:37:12 GMT | Shieldera: A Security-Centric Desktop App Powered by PySide6 and Firebase | Kübra Kara | [Read More](https://medium.com/p/0f3346f4fafd) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 03:45:27 GMT | Tech Feet Under: The Security Octet — Eight Startups That Sank Below the Surface | Jugaad Tiger | [Read More](https://medium.com/p/ae47594cd835) |
 | Thu, 10 Jul 2025 03:34:33 GMT | Efficiently Passing the CISSP Exam in 6 Months: A Practical Guide for InfoSec Professionals | InsBug | [Read More](https://medium.com/p/82fa6cdb1f6e) |
 | Thu, 10 Jul 2025 03:32:53 GMT | SK Telecom’s Hidden Breach: Unmasking a Three-Year Malware Intrusion That Compromised 27 Million… | Deven Chhajed | [Read More](https://medium.com/p/76b171754f6b) |
-| Thu, 10 Jul 2025 03:26:21 GMT | A Importância de Proteger Suas Senhas na Era Digital | Matheus Dionisio (zovisk) | [Read More](https://medium.com/p/19c82bc6cd30) |
-| Thu, 10 Jul 2025 03:24:54 GMT | No Gaming, Just Hacking — How I Made $3K on TikTok Bug Bounty Program | Radian ID | [Read More](https://medium.com/p/2b2e41be276e) |
-| Thu, 10 Jul 2025 03:01:50 GMT | Facing Russia Alone — The Dark Prospect of a European Nuclear Arsenal | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/eae654e8fd78) |
-| Thu, 10 Jul 2025 03:01:44 GMT | Fear of China Holds Back the West — Does Taiwan Need Stronger Allies Now? | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/ce8894d37d4c) |
-| Thu, 10 Jul 2025 03:00:45 GMT | SuiDeX-HackenProof Audit Contest: $10,000 Bounty has started! | SuiDex | [Read More](https://medium.com/p/a9db3149edc9) |
-| Thu, 10 Jul 2025 02:59:35 GMT | ModSecurity vs SafeLine: Why Not Use Both? (Part 2) | AerieWhole123 | [Read More](https://medium.com/p/46b93cea4546) |
-| Thu, 10 Jul 2025 02:54:25 GMT | EvilGPT Tryhackme Challenge | GauthamV | [Read More](https://medium.com/p/381d8c42486f) |
-| Thu, 10 Jul 2025 02:54:20 GMT | XwormRAT Uses DLL Side-Loading to Stay Hidden | Darshan | [Read More](https://medium.com/p/1a41a87746b7) |
-| Thu, 10 Jul 2025 02:54:11 GMT | HOW I PASSED THE COMPTIA CYBERSECURITY ANALYST (CYSA+ — CS0–003) EXAM ON MY FIRST ATTEMPT — JUNE… | Nyambi Blaise | [Read More](https://medium.com/p/3b24ab8afa31) |
-| Thu, 10 Jul 2025 02:51:37 GMT | One Way, No Other Way – And That Way Begins Right From Zero | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/f9f79e985013) |
-| Thu, 10 Jul 2025 02:43:29 GMT | Interview with Lewis: Inside the Underground Mail-Order Drug Trade | Internet Exposed | [Read More](https://medium.com/p/67d1ab2a6188) |
-| Thu, 10 Jul 2025 02:41:11 GMT | What is Meta AI? Is it in your cellphone?? | Medium Articles | [Read More](https://medium.com/p/6330b813c44e) |
-| Thu, 10 Jul 2025 02:34:41 GMT | Warning to ServiceNow Admins: Misconfigured ACLs Could Lead to Serious Data Leaks | Darshan | [Read More](https://medium.com/p/bf08995da7fa) |
-| Thu, 10 Jul 2025 01:57:20 GMT | How to Fix the “NO_PUBKEY” Error in Kali Linux | Uzoukwu Eric Ikenna | [Read More](https://medium.com/p/dc6cd8a9b80f) |
-| Thu, 10 Jul 2025 01:39:01 GMT | OSDFIR in K8s — Part 2: OSDFIR Lab | Kevin Stokes | [Read More](https://medium.com/p/8824443a9d28) |
-| Thu, 10 Jul 2025 01:38:26 GMT | Quantum Cybersecurity: Preparing for the Post-Quantum Political Landscape | CCD-IS | [Read More](https://medium.com/p/9873e60df6a5) |
