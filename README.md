@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 14:37:42 GMT | Deciphering JWT, JWS, JWE, JWK & JWKS | Zheng | [Read More](https://medium.com/p/dc78562d923b) |
+| Thu, 10 Jul 2025 14:25:38 GMT | freeRASP for Unity Guide | Talsec | [Read More](https://medium.com/p/1c73be03bffa) |
+| Thu, 10 Jul 2025 14:24:10 GMT | Weird Hacks Part 2: Even More Bizarre Cyber Threats That Actually Exist | Md Faiyaz Khan | [Read More](https://medium.com/p/388f7d64649c) |
 | Thu, 10 Jul 2025 14:09:32 GMT | Detecting BadSuccessor: The Shortest Path to Domain Admin | Mehmet Ergene | [Read More](https://medium.com/p/eff0fec6ee5b) |
 | Thu, 10 Jul 2025 14:07:16 GMT | VAPT Report on SMB Exploitation in Windows 10 Finance Endpoint | Aditya Bhatt | [Read More](https://medium.com/p/e78430191dc2) |
 | Thu, 10 Jul 2025 14:04:01 GMT | The Real Cost of Cybersecurity for Small Businesses — What No One Tells You | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/e79e1331c6a7) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 08:48:40 GMT | DAY 10— Linux CTF Challenge #3 | Jinay | [Read More](https://medium.com/p/71b5946c64f3) |
 | Thu, 10 Jul 2025 08:40:22 GMT | Windows BitLocker Bypass Vulnerability (CVE-2025–48818) Threatens Full-Disk Encryption | Darshan | [Read More](https://medium.com/p/be7da7786c1d) |
 | Thu, 10 Jul 2025 08:39:11 GMT | 5 Simple Steps to Improve Housekeeping at the Workplace | EXLITY | [Read More](https://medium.com/p/622c680f6e6a) |
-| Thu, 10 Jul 2025 08:37:12 GMT | Shieldera: A Security-Centric Desktop App Powered by PySide6 and Firebase | Kübra Kara | [Read More](https://medium.com/p/0f3346f4fafd) |
-| Thu, 10 Jul 2025 08:36:37 GMT | The Invisible Bazaar: Inside the Global Zero-Day Market | Hammaad Mughal | [Read More](https://medium.com/p/ee327c12633a) |
-| Thu, 10 Jul 2025 08:36:26 GMT | Easy Claim Process for $CVE | $CVE (Curvance) | [Read More](https://medium.com/p/e520713c10ac) |
