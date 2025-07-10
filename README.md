@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 19:05:02 GMT | Tracking Failed Attempts with Temporary Block Logic in Spring Boot | Alexander Obregon | [Read More](https://medium.com/p/29cee665d0f2) |
+| Thu, 10 Jul 2025 18:58:38 GMT | 10 Web Development Security Best Practices Saving Your From The Collapse | Alexei Falco | [Read More](https://medium.com/p/292a02c41d27) |
+| Thu, 10 Jul 2025 18:57:58 GMT | MSP Cybersecurity: Why Managed Service Providers Are Key to Business Protection | SafeAeon Inc. | [Read More](https://medium.com/p/58c718584e4f) |
+| Thu, 10 Jul 2025 18:54:24 GMT | Arch Linux Isn’t Scary — You Just Have to Configure Everything | Tonny Blair | [Read More](https://medium.com/p/0e95a789efe5) |
+| Thu, 10 Jul 2025 18:31:35 GMT | Broken but Beautiful: Vulnerability, Shame, and Reclaiming Our Worth | Jessica Nowachek | [Read More](https://medium.com/p/b8a6157f88b1) |
+| Thu, 10 Jul 2025 18:31:32 GMT | Zero-Click Account Takeover on a U.S. Government Website | Ali Saadi | [Read More](https://medium.com/p/0ab0168dc47e) |
+| Thu, 10 Jul 2025 18:29:49 GMT | Build Your First Hardware Hacking Tools with ESP8266(WiFi Attacks) | Mohamed Adel | [Read More](https://medium.com/p/950c26b6f4f7) |
+| Thu, 10 Jul 2025 18:28:12 GMT | Beyond the IDE: A Production-Ready Pattern for Secure Agent Tool Integration | Ken Wiltshire | [Read More](https://medium.com/p/a23fa5a65d5f) |
 | Thu, 10 Jul 2025 18:16:55 GMT | The EU Cyber Resilience Act: Raising the Bar for Digital Product Security | january1073 | [Read More](https://medium.com/p/e7d643d0c897) |
 | Thu, 10 Jul 2025 18:15:59 GMT | The Start | Eric A | [Read More](https://medium.com/p/ab285d7f5580) |
 | Thu, 10 Jul 2025 18:13:51 GMT | If I Die Tomorrow, Read This | Hime | [Read More](https://medium.com/p/c3a4c4c3fd0f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 15:01:52 GMT | The Ethics of Digital Profiling: Approach and Boundaries (2025) | Ingvar Pavlovich | [Read More](https://medium.com/p/43542c5a8d71) |
 | Thu, 10 Jul 2025 14:59:04 GMT | Keywords: Why choose; Vulnerability + Adoration; Why She’ll Melt; Vulnerability as Gift; Aftercare; | Kink Therapy | [Read More](https://medium.com/p/20d5c6b08da2) |
 | Thu, 10 Jul 2025 14:57:10 GMT | API Gateway Security: Threats and Protection Strategies ️ | Esra Kayhan | [Read More](https://medium.com/p/5bd9cc124fcc) |
-| Thu, 10 Jul 2025 14:56:54 GMT | Active Directory Attack Lab Walkthrough | Aminouji | [Read More](https://medium.com/p/b2fbb41fa9a8) |
-| Thu, 10 Jul 2025 14:55:27 GMT | HOW i Found the “Bypassing Client-Side Restrictions: Adding More Than 5 Addresses in Account” | DOD cyber solutions | [Read More](https://medium.com/p/d86392134649) |
-| Thu, 10 Jul 2025 14:39:10 GMT | Top 3 Online Cybersecurity Training Platforms in Bangladesh | David Riberro | [Read More](https://medium.com/p/bc321a6ece00) |
-| Thu, 10 Jul 2025 14:37:42 GMT | Deciphering JWT, JWS, JWE, JWK & JWKS | Zheng | [Read More](https://medium.com/p/dc78562d923b) |
-| Thu, 10 Jul 2025 14:25:38 GMT | freeRASP for Unity Guide | Talsec | [Read More](https://medium.com/p/1c73be03bffa) |
-| Thu, 10 Jul 2025 14:24:10 GMT | Weird Hacks Part 2: Even More Bizarre Cyber Threats That Actually Exist | Md Faiyaz Khan | [Read More](https://medium.com/p/388f7d64649c) |
-| Thu, 10 Jul 2025 14:09:32 GMT | Detecting BadSuccessor: The Shortest Path to Domain Admin | Mehmet Ergene | [Read More](https://medium.com/p/eff0fec6ee5b) |
-| Thu, 10 Jul 2025 14:07:16 GMT | VAPT Report on SMB Exploitation in Windows 10 Finance Endpoint | Aditya Bhatt | [Read More](https://medium.com/p/e78430191dc2) |
