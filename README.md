@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 12:34:51 GMT | Invisible Enemies: The ABCs of Cyber Threats You Can’t Ignore. | Tech with Maya | [Read More](https://medium.com/p/5d0d2d0ef16c) |
+| Thu, 10 Jul 2025 12:33:45 GMT | 2025 Purple Knight Report Reveals Persistent Security Gaps in Hybrid Active Directory and Entra ID… | SarahBark | [Read More](https://medium.com/p/0280285c5191) |
+| Thu, 10 Jul 2025 12:28:44 GMT | From Reactive to Proactive: The Shift Enabled by Hybrid SOC Services | sanya | [Read More](https://medium.com/p/e6f9d7189765) |
+| Thu, 10 Jul 2025 12:25:58 GMT | Cloud misconfigurations: The silent killer of data security | Cloud4C Services | [Read More](https://medium.com/p/836986c777fb) |
+| Thu, 10 Jul 2025 12:24:09 GMT | When hacking became a business and patches became a matter of hours | Shestakov Nikita S | [Read More](https://medium.com/p/ef7d99a855e9) |
+| Thu, 10 Jul 2025 12:19:08 GMT | Get Hired Faster: Ethical Hacking Foundation Certification Explained | sneha gaikwad | [Read More](https://medium.com/p/562c5f6ab7ec) |
+| Thu, 10 Jul 2025 12:17:15 GMT | How to Detect LSASS Dumping Using Procdump or comsvcs.dll | Saikat Paul | [Read More](https://medium.com/p/c02ed8bb8352) |
+| Thu, 10 Jul 2025 12:15:51 GMT | ️ Why Smart & Contactless Security Solutions Are the Future of Safety | Sumintra | [Read More](https://medium.com/p/b583534bb878) |
+| Thu, 10 Jul 2025 12:10:59 GMT | Understanding Firewall Deny Events: Why Repeated External IP Denials Matter | Saikat Paul | [Read More](https://medium.com/p/567c803d864e) |
+| Thu, 10 Jul 2025 12:08:22 GMT | The Algorithm Is Watching (But Still Fell for That LinkedIn Message): How Business Email Compromise… | Raymond Brunell | [Read More](https://medium.com/p/bbec5a0ea608) |
+| Thu, 10 Jul 2025 12:08:17 GMT | Unusual Bandwidth Usage in Industrial Networks: A Sign of Something Serious? | Saikat Paul | [Read More](https://medium.com/p/8e17e08d8024) |
+| Thu, 10 Jul 2025 12:06:53 GMT | Is a Zero-Day Breach Lurking in Your Network? Nippon Steel Solutions Attack | Finstein.ai | [Read More](https://medium.com/p/1df352d04f34) |
+| Thu, 10 Jul 2025 12:01:25 GMT | VPN: Visibility. Privacy. Neutrality — The Pillars of Secure Digital Operations. | theurikarue | [Read More](https://medium.com/p/2e379ecc39f8) |
+| Thu, 10 Jul 2025 11:56:10 GMT | Detecting Suspicious PLC Stop Commands with Microsoft Defender for IoT | Saikat Paul | [Read More](https://medium.com/p/e28cb50cc693) |
+| Thu, 10 Jul 2025 11:54:28 GMT | Polluting the Graph: Abusing Parameter Confusion in Nested GraphQL Queries | Monika sharma | [Read More](https://medium.com/p/a1daa5d30019) |
+| Thu, 10 Jul 2025 11:41:51 GMT | When You Stop Expecting People To Show Up | Yana Bostongirl | [Read More](https://medium.com/p/d147516c5e2c) |
 | Thu, 10 Jul 2025 11:38:04 GMT | TryHackMe The Marketplace — Walkthrough | mauzware | [Read More](https://medium.com/p/ed9e17259010) |
+| Thu, 10 Jul 2025 11:37:40 GMT | AI Coding Tools: Productivity Benefits, Security Pisses | StackSnacker | [Read More](https://medium.com/p/9d25cde3613c) |
 | Thu, 10 Jul 2025 11:24:35 GMT | eJPTv2 CTF Walkthrough — Host & Network Penetration Testing with Metasploit Framework CTF-1 | Anirudh Kolatlu Ramesh | [Read More](https://medium.com/p/39fcbed34192) |
 | Thu, 10 Jul 2025 11:22:04 GMT | Day 41 of #60DaysofGRC: What Is FedRAMP and Why Does It Matter? | Brittney Ginther | [Read More](https://medium.com/p/b9d5981dfd85) |
 | Thu, 10 Jul 2025 11:19:54 GMT | Strengthening BFSI Security Posture with SOAR Integration | Matin Shaikh | [Read More](https://medium.com/p/115cc99e4af5) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 06:55:47 GMT | Getting Started in Tech: A Practical Guide to Hacking and Linux | Siyan S Idicula | [Read More](https://medium.com/p/ddeedb2e4feb) |
 | Thu, 10 Jul 2025 06:55:16 GMT | Victorian Privacy in the Age of AI: What Your Wellness App Forgot to Ask | olavenue | [Read More](https://medium.com/p/aa85071294c9) |
 | Thu, 10 Jul 2025 06:40:35 GMT | Good to Great in the context of Cybersecurity | Venkat Subramaniyan | [Read More](https://medium.com/p/8df8f89db40c) |
-| Thu, 10 Jul 2025 06:32:55 GMT | IntelBroker: Siber Suç Aktörüne Yakından Bakış | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/6527140e4abe) |
-| Thu, 10 Jul 2025 06:27:31 GMT | Windows Fundamentals 3: TryHackMe Room Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/b603784c85ed) |
-| Thu, 10 Jul 2025 06:27:07 GMT | How AI is Detecting Cyber Threats Before They Happen | shahid irfan | [Read More](https://medium.com/p/798ef78e0d03) |
-| Thu, 10 Jul 2025 06:26:53 GMT | Critical GeoServer RCE Vulnerability (CVE-2024–36401) — No Auth Needed | AerieWhole123 | [Read More](https://medium.com/p/2fcb98a06418) |
-| Thu, 10 Jul 2025 06:17:43 GMT | The Complete Guide to Azure Managed Identity: Types, Lifecycle, and Authentication Flow | Santosh Thakur | [Read More](https://medium.com/p/3ee2a091c974) |
-| Thu, 10 Jul 2025 06:17:02 GMT | The Fear of Missing Out (FOMO): How Social Media Affects Teen Mental Health — Find Guidance with… | Lyfsmile Child Development | [Read More](https://medium.com/p/46aa1ef3be45) |
-| Thu, 10 Jul 2025 06:13:07 GMT | Cyber Security Audits in Dubai: Is Your Business Data Really Safe? | Leads | [Read More](https://medium.com/p/676b8a67af89) |
-| Thu, 10 Jul 2025 06:12:55 GMT | Building a Zero-Trust Web Security Architecture with Azure Application Gateway and Firewall | Sridhar | [Read More](https://medium.com/p/25191fe8494a) |
-| Thu, 10 Jul 2025 06:11:21 GMT | Breaking Down Mobile App Premium Paywalls: A Deep Dive into Android In-App Purchase Security… | Frostynxth | [Read More](https://medium.com/p/3f11db444f51) |
-| Thu, 10 Jul 2025 06:04:24 GMT | The Rise of Security Services in India: Safeguarding the Nation with Top Security Solutions | Ciss India | [Read More](https://medium.com/p/89b0b6d15c5c) |
-| Thu, 10 Jul 2025 06:02:36 GMT | How Cloud Penetration Testing Can Save Your Business from Cyber Threats | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/6ba902f982e6) |
-| Thu, 10 Jul 2025 06:00:37 GMT | Today’s Top Cyber Intelligence Highlights — Jul 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/7bfb8fca07d1) |
-| Thu, 10 Jul 2025 06:00:22 GMT | Korkuyla Güvenlik Arasında | Ali Ekber KARA | [Read More](https://medium.com/p/2e678391f3c4) |
-| Thu, 10 Jul 2025 05:50:48 GMT | Troubleshooting Common Issues in OpenXAI | Aryan Sinha | [Read More](https://medium.com/p/7e7af5b9eb3d) |
-| Thu, 10 Jul 2025 05:50:07 GMT | The Last Hackers? How AI Is Hijacking the Future of Cybersecurity | Soumyadyuti Dey | [Read More](https://medium.com/p/ce81bf5690ed) |
-| Thu, 10 Jul 2025 05:48:09 GMT | Insecure Design vs. Threat Modeling — What’s the Difference? | Narendar Battula (nArEn) | [Read More](https://medium.com/p/253113ad8a2b) |
-| Thu, 10 Jul 2025 05:46:53 GMT | CRYPTOCURRENCIES AND CYBERSECURITY | EurocoinPay.io | [Read More](https://medium.com/p/5a61c7b129b6) |
