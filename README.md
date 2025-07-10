@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 08:23:39 GMT | Mastering CIDR Block Ranges: A Simple Formula to Calculate IP Ranges from /1 to /23 | Anup K | [Read More](https://medium.com/p/cf87db8a147a) |
+| Thu, 10 Jul 2025 08:23:33 GMT | Why Compliance-Heavy Industries Need Multi-Agent AI Architecture | Siddhant Nitin | [Read More](https://medium.com/p/ee43bad0d05d) |
+| Thu, 10 Jul 2025 08:21:52 GMT | OWASP Security Concepts — The Blueprint for Building and Breaking Secure Applications | YoungerSibling | [Read More](https://medium.com/p/f8a091c664c1) |
+| Thu, 10 Jul 2025 08:21:00 GMT | Future of Server Spending: 7 Stats That Will Blow Your Mind | HostNOC | [Read More](https://medium.com/p/4de6d6dae754) |
+| Thu, 10 Jul 2025 08:13:17 GMT | Difference between SameSite Cookie Attributes: Strict, Lax, None and No SameSite | Dhanush N | [Read More](https://medium.com/p/242fbfdbc8e1) |
+| Thu, 10 Jul 2025 08:03:57 GMT | Write for AI & Cloud | Saikat Paul | [Read More](https://medium.com/p/92a7b5c6fe7b) |
+| Thu, 10 Jul 2025 08:01:19 GMT | LetsDefend.io — SOC168-Whoami Command Detected in Request Body | Augustine Sito | [Read More](https://medium.com/p/a5d6cdd8bef8) |
+| Thu, 10 Jul 2025 07:57:54 GMT | AWS Cloud Pricing Explained | Ifeoma Nwokeoma | [Read More](https://medium.com/p/29160011d9f8) |
+| Thu, 10 Jul 2025 07:56:54 GMT | Cryptographic Failures in Salesforce — When Secrets Turn Into Threats | Musa Ndlala | [Read More](https://medium.com/p/22a1d7b45077) |
+| Thu, 10 Jul 2025 07:48:55 GMT | Cybersecurity Marketing: Game-Changing Strategies You Can’t Ignore | GrackerAI | [Read More](https://medium.com/p/b6c21e66c5a6) |
+| Thu, 10 Jul 2025 07:47:07 GMT | Boost Your Red Hat Career with the RH199 Rapid Track Course | cyber security Updates | [Read More](https://medium.com/p/6fab790eeff7) |
+| Thu, 10 Jul 2025 07:46:57 GMT | 利用 Palo Alto Networks 預定義清單 EDL 建立防護規則(黑名單) | Damon Lin | [Read More](https://medium.com/p/9d10e9996ffb) |
+| Thu, 10 Jul 2025 07:44:58 GMT | How Not to Handle Your API Keys: A Love Letter to Developers Everywhere | Erkan Kavas | [Read More](https://medium.com/p/451db07c790f) |
 | Thu, 10 Jul 2025 07:38:38 GMT | Preparing for Tomorrow: Data Center Security in a Quantum Age in Qatar | expbhavya | [Read More](https://medium.com/p/9e20e3513302) |
 | Thu, 10 Jul 2025 07:37:09 GMT | Kali Linux Alətləri ilə Tanışlıq — Amass Nədir? | Aghabala Guluzade | [Read More](https://medium.com/p/44d22b0d376a) |
 | Thu, 10 Jul 2025 07:36:00 GMT | The Daily Tech Digest: 10 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6c6b5152e18e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 00:09:02 GMT | The Cloud Explained (Like I’m 5) | TechTales | [Read More](https://medium.com/p/e91238c22d37) |
 | Thu, 10 Jul 2025 00:07:39 GMT | CVE-2025–52367: Stored XSS to RCE via Privilege Escalation in PivotX CMS v3.0.0 RC 3 | HayToN | [Read More](https://medium.com/p/a1b870bcb7b3) |
 | Wed, 09 Jul 2025 23:48:47 GMT | Evil-GPT: Write-Up | A Learner | [Read More](https://medium.com/p/7c97b8ebf092) |
-| Wed, 09 Jul 2025 23:32:50 GMT | One of the Paradoxes with Posting Online with Severe OCD | Uland's OCD Hub | [Read More](https://medium.com/p/bef65f45b41a) |
-| Wed, 09 Jul 2025 23:32:36 GMT | 5 Reasons to Choose Live CCTV Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/0ca4152cb857) |
-| Wed, 09 Jul 2025 23:31:42 GMT | Fortinet FortiManager: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c934d88063ee) |
-| Wed, 09 Jul 2025 23:19:21 GMT | The 16B records Data Breach that did not exist | Appsec.pt | [Read More](https://medium.com/p/5cca8fddd0e8) |
-| Wed, 09 Jul 2025 23:17:02 GMT | IA for Security — Memória em Chatbots LLMs: Short e Long Memory na Prática — Parte 2 | Fernando Carrara | [Read More](https://medium.com/p/65ca8d3145ab) |
-| Wed, 09 Jul 2025 23:09:22 GMT | How a single line of code can cost millions | Mohamedajguernoun | [Read More](https://medium.com/p/f187ea3b7544) |
-| Wed, 09 Jul 2025 23:04:59 GMT | Common Cloud Misconfigurations: How to Find and Fix Them | Amrik Singh Hanjra | [Read More](https://medium.com/p/de4234863052) |
-| Wed, 09 Jul 2025 23:00:29 GMT | ContAInment . TryHackMe Walkthrough . AI/ML DFIR | RosanaFSS | [Read More](https://medium.com/p/08bb7aedfba7) |
-| Wed, 09 Jul 2025 22:54:40 GMT | Unlock the Secrets of $BUGS and Start Growing Your Crypto Portfolio | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/791d4d950e9c) |
-| Wed, 09 Jul 2025 22:19:29 GMT | LINK LOGIN TOTO ONLINE: Akses Aman & Tips Hindari Situs Palsu di Era Digital | Ryugasenki | [Read More](https://medium.com/p/bee1ff99012c) |
-| Wed, 09 Jul 2025 21:56:57 GMT | Building a Software Inventory System: Technical Blueprint | Ashley Kim | [Read More](https://medium.com/p/b54c61196fe4) |
-| Wed, 09 Jul 2025 21:51:27 GMT | LAB 19: SHELLCODE ANALYSIS | Mustapha Ait Ichou | [Read More](https://medium.com/p/db8153c57bb7) |
-| Wed, 09 Jul 2025 21:48:02 GMT | Turning Complexity into Insight | Anshul Mathur | [Read More](https://medium.com/p/f1ab4d654a49) |
