@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 23:31:43 GMT | Cloud-Native Application Protection Platform By Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/1f9ced556489) |
+| Thu, 10 Jul 2025 23:31:02 GMT | If a Real Cyberattack Strikes, Could My Company Actually Handle It? | Hiroki Honjo | [Read More](https://medium.com/p/1e7adc63131e) |
 | Thu, 10 Jul 2025 23:16:38 GMT | I walked into a Fortune 500 HQ … No one stopped me. | JD Brooks | [Read More](https://medium.com/p/7dc447ead75d) |
 | Thu, 10 Jul 2025 23:09:21 GMT | They Didn’t Break In — They Logged In: How 5 Major Retailers Were Breached Without Malware | Cyber-AppSec | [Read More](https://medium.com/p/dcb2b8677bd8) |
 | Thu, 10 Jul 2025 23:04:49 GMT | Critical IDOR Chain — Edit Any User’s Role, Activate/Deactivate Accounts, and Escalate Privileges | B0d4 | [Read More](https://medium.com/p/12637b0f2485) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 16:36:26 GMT | The Cache Poisoning Game — Hijack the Middle, Rule the Flow | Đeepanshu | [Read More](https://medium.com/p/34b3ee40357a) |
 | Thu, 10 Jul 2025 16:34:07 GMT | My Metodologi Bug Bounty | LunarX | [Read More](https://medium.com/p/805841e39a03) |
 | Thu, 10 Jul 2025 16:33:06 GMT | Logout… pero ¿realmente saliste? | Gorka | [Read More](https://medium.com/p/8b2ddac15a06) |
-| Thu, 10 Jul 2025 16:31:42 GMT | UFW vs firewalld: Linux Security Guards | Natarajan C K | [Read More](https://medium.com/p/3f6bed733f31) |
-| Thu, 10 Jul 2025 16:30:59 GMT | Our Investment in AirMDR: Redefining the SOC for the AI Era | Chris McCann | [Read More](https://medium.com/p/4f7dc675f82a) |
