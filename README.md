@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 10:41:08 GMT | How a Logic Flaw in ServiceNow’s ACLs Could Let Anyone Steal Your Data — And What You Need to Fix… | CyBlog | [Read More](https://medium.com/p/fe88c3362794) |
+| Thu, 10 Jul 2025 10:40:43 GMT | Historical Analysis of Reflected Vulnerabilities: The Evolution of Windows Defender Defenses | Son Vi | [Read More](https://medium.com/p/af2f34fb69a9) |
+| Thu, 10 Jul 2025 10:37:28 GMT | IAM from a Data-Centric View: Securing What Truly Matters | Ketan Polawar | [Read More](https://medium.com/p/63a6366666f6) |
+| Thu, 10 Jul 2025 10:35:30 GMT | API-pocalypse Now: When an Internal Swagger File Opened the Floodgates | Iski | [Read More](https://medium.com/p/a3f3401b1914) |
+| Thu, 10 Jul 2025 10:34:09 GMT | Bidirectional Multicast: Many-to-Many Network Communication | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/db3169f62cb2) |
 | Thu, 10 Jul 2025 10:22:03 GMT | Cyber security: Protecting Yourself in the Digital World | mahnoor | [Read More](https://medium.com/p/9070923df34c) |
 | Thu, 10 Jul 2025 10:17:17 GMT | ️ Day #14: Suspicious PowerShell Detection on Windows: Hands-On Incident Response | Rishavkumarthapa | [Read More](https://medium.com/p/d186813aba8a) |
 | Thu, 10 Jul 2025 10:13:33 GMT | Is TweetEraser Safe to Use? A Deep Dive into Its Security Practices | Ava Thornell | [Read More](https://medium.com/p/2d0be5a0a662) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 05:27:17 GMT | From O to Hero – One Way, No Other Way on Medium | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/6606b929e4bf) |
 | Thu, 10 Jul 2025 05:22:04 GMT | An Artist’s Philosophy-Aphorisms and Artwork | An Artist's Philosophy - Aphorisms and Artwork | [Read More](https://medium.com/p/b0db8386405e) |
 | Thu, 10 Jul 2025 05:21:34 GMT | NoSQL Injection — Simple Write-UP | Anandakrishnan P R | [Read More](https://medium.com/p/8c9d1e734fa6) |
-| Thu, 10 Jul 2025 05:21:12 GMT | To _____ | Denise Kollock | [Read More](https://medium.com/p/00fd9b8d10df) |
-| Thu, 10 Jul 2025 05:17:44 GMT | How VAPT Testing Helps Prevent Cyber Attacks | Rinshumishra | [Read More](https://medium.com/p/97d620b69141) |
-| Thu, 10 Jul 2025 05:10:34 GMT | O(1) bit primitive of everything binary: address +2¹⁰⁰⁰ bits on a “toaster” | Ethan G Appleby | [Read More](https://medium.com/p/42d6805ba46e) |
-| Thu, 10 Jul 2025 05:05:42 GMT | 5 Reasons Toronto Businesses Are Switching to Local Managed IT Services | True North MSP | [Read More](https://medium.com/p/b1f2b52ef726) |
-| Thu, 10 Jul 2025 05:05:10 GMT | Protecting Your Business from Cyber Attacks in Saudi Arabia | Bluechip Advanced Technologies | [Read More](https://medium.com/p/8489d57949bd) |
