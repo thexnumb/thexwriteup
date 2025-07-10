@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 15:17:33 GMT | picoCTF — dont-use-client-side | Robby firdauzy | [Read More](https://medium.com/p/352cd8bb17f5) |
+| Thu, 10 Jul 2025 15:17:21 GMT | TryHackme — Writing Pentesting reports | Rishivegeto | [Read More](https://medium.com/p/a9c7970ede75) |
+| Thu, 10 Jul 2025 15:16:37 GMT | TryHackMe - Windows Threat Detection 1 - WriteUp | Axoloth | [Read More](https://medium.com/p/a9ffcedf8fc3) |
+| Thu, 10 Jul 2025 15:13:14 GMT | Why Traditional Android Malware Detectors Fail — and How Graph Communities Might Save Us | Kyoungmin Roh | [Read More](https://medium.com/p/5c7d5f8f8b7a) |
+| Thu, 10 Jul 2025 15:12:40 GMT | Agentic AI: Democratizing Innovation or Opening Pandora’s Box? | Annie W | [Read More](https://medium.com/p/6c0ade8a2368) |
+| Thu, 10 Jul 2025 15:10:20 GMT | CatAttack: When Trivia Defeats Reasoning | Chris McConnell | [Read More](https://medium.com/p/f7c7ecea2c03) |
+| Thu, 10 Jul 2025 15:06:44 GMT | TryHackMe - Defending Adversarial Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/fc1b13942c4d) |
+| Thu, 10 Jul 2025 15:06:02 GMT | Zero Trust Security: What It Means and Why It Matters | Roman Fedytskyi | [Read More](https://medium.com/p/c4b4e64dd753) |
+| Thu, 10 Jul 2025 15:02:12 GMT | Blockchain Security: Analyzing a Sophisticated Crypto Phishing Attack | Qitmeer Network | [Read More](https://medium.com/p/873c52bd9ac3) |
+| Thu, 10 Jul 2025 15:01:52 GMT | The Ethics of Digital Profiling: Approach and Boundaries (2025) | Ingvar Pavlovich | [Read More](https://medium.com/p/43542c5a8d71) |
+| Thu, 10 Jul 2025 14:59:04 GMT | Keywords: Why choose; Vulnerability + Adoration; Why She’ll Melt; Vulnerability as Gift; Aftercare; | Kink Therapy | [Read More](https://medium.com/p/20d5c6b08da2) |
+| Thu, 10 Jul 2025 14:57:10 GMT | API Gateway Security: Threats and Protection Strategies ️ | Esra Kayhan | [Read More](https://medium.com/p/5bd9cc124fcc) |
+| Thu, 10 Jul 2025 14:56:54 GMT | Active Directory Attack Lab Walkthrough | Aminouji | [Read More](https://medium.com/p/b2fbb41fa9a8) |
+| Thu, 10 Jul 2025 14:55:27 GMT | HOW i Found the “Bypassing Client-Side Restrictions: Adding More Than 5 Addresses in Account” | DOD cyber solutions | [Read More](https://medium.com/p/d86392134649) |
+| Thu, 10 Jul 2025 14:39:10 GMT | Top 3 Online Cybersecurity Training Platforms in Bangladesh | David Riberro | [Read More](https://medium.com/p/bc321a6ece00) |
 | Thu, 10 Jul 2025 14:37:42 GMT | Deciphering JWT, JWS, JWE, JWK & JWKS | Zheng | [Read More](https://medium.com/p/dc78562d923b) |
 | Thu, 10 Jul 2025 14:25:38 GMT | freeRASP for Unity Guide | Talsec | [Read More](https://medium.com/p/1c73be03bffa) |
 | Thu, 10 Jul 2025 14:24:10 GMT | Weird Hacks Part 2: Even More Bizarre Cyber Threats That Actually Exist | Md Faiyaz Khan | [Read More](https://medium.com/p/388f7d64649c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 09:24:32 GMT | How to Protect Your Business from Ransomware in 2025 | West Advanced Technologies Inc | [Read More](https://medium.com/p/3820bc417eab) |
 | Thu, 10 Jul 2025 09:13:17 GMT | Splunk: Dashboards and Reports | Peta Pavan | [Read More](https://medium.com/p/dc3c314b0a45) |
 | Thu, 10 Jul 2025 09:10:07 GMT | Summit - Challenge THM [SOC] #1 | D4m.sh | [Read More](https://medium.com/p/3663c00aec31) |
-| Thu, 10 Jul 2025 09:09:26 GMT | MD2PDF — Hack in 5 Minutes - Write-Up #7 | D4m.sh | [Read More](https://medium.com/p/29784c251017) |
-| Thu, 10 Jul 2025 09:08:04 GMT | Cybersecurity Threats In 2025 | Theunitedindian | [Read More](https://medium.com/p/644faf52ea1a) |
-| Thu, 10 Jul 2025 09:07:15 GMT | Why Employees Are Still Your Biggest Cyber Risk in 2025 | Recon Cyber Security | [Read More](https://medium.com/p/792f00fdbbe3) |
-| Thu, 10 Jul 2025 09:05:09 GMT | ️ OSINT Framework: The Ultimate Guide for Ethical Hackers & Cyber Investigators | Rajkumar Kumawat | [Read More](https://medium.com/p/9b5e66e02c54) |
-| Thu, 10 Jul 2025 09:01:23 GMT | Secure & Streamlined Google OAuth + OTP Authentication API | aayushii Gupta | [Read More](https://medium.com/p/3b75433e83a1) |
-| Thu, 10 Jul 2025 09:01:23 GMT | Security as a Business Accelerator: Why Your Next Transformation Depends on Getting This Right | Paul Sherman | [Read More](https://medium.com/p/6d933ba52643) |
-| Thu, 10 Jul 2025 09:01:21 GMT | Why Understanding Threat Intelligence Alerts Might Be the Cheapest Cyber Insurance You’ll Ever Have | Saikat Paul | [Read More](https://medium.com/p/0cc0d39ddf61) |
-| Thu, 10 Jul 2025 09:00:01 GMT | The Developer’s Guide to SSL/TLS and HTTPS Security | Quella | [Read More](https://medium.com/p/061c41098e7a) |
-| Thu, 10 Jul 2025 08:57:37 GMT | Linux Internals For Rootkit Research | solvz | [Read More](https://medium.com/p/e393a81a4d90) |
-| Thu, 10 Jul 2025 08:51:55 GMT | Lộ trình học Hack trên TryHackMe cho Free User | Nghia | [Read More](https://medium.com/p/607a378eae56) |
-| Thu, 10 Jul 2025 08:50:43 GMT | Best Practices to Build A Compliance (PCI-DSS,DORA,NIST-2.0) | appsecwarrior | [Read More](https://medium.com/p/8e6c2c7d727b) |
-| Thu, 10 Jul 2025 08:50:20 GMT | Prevent HTTP Parameter Pollution in Symfony Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/8a903f329f22) |
-| Thu, 10 Jul 2025 08:48:40 GMT | DAY 10— Linux CTF Challenge #3 | Jinay | [Read More](https://medium.com/p/71b5946c64f3) |
-| Thu, 10 Jul 2025 08:40:22 GMT | Windows BitLocker Bypass Vulnerability (CVE-2025–48818) Threatens Full-Disk Encryption | Darshan | [Read More](https://medium.com/p/be7da7786c1d) |
-| Thu, 10 Jul 2025 08:39:11 GMT | 5 Simple Steps to Improve Housekeeping at the Workplace | EXLITY | [Read More](https://medium.com/p/622c680f6e6a) |
