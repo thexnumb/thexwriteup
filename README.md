@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 05:39:51 GMT | Insecure by Design: The Silent API Killer | Narendar Battula (nArEn) | [Read More](https://medium.com/p/664d1ed3b63e) |
+| Thu, 10 Jul 2025 05:34:17 GMT | Why Most APIs Are Insecure by Design (Even If They Use OAuth2) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6f34655bba15) |
+| Thu, 10 Jul 2025 05:32:51 GMT | AI Model API-Validation Using Curl | rr-1k | [Read More](https://medium.com/p/b4b28975a87e) |
+| Thu, 10 Jul 2025 05:31:40 GMT | Inside a Hacker’s Mind: The Dark Tricks Behind Phishing Emails | Aj | [Read More](https://medium.com/p/cb077a15492d) |
+| Thu, 10 Jul 2025 05:31:12 GMT | How to Keep Kids Safe Online — A Parent’s Cyber Safety Guide | Earning Handle | [Read More](https://medium.com/p/2a5ab771df0f) |
+| Thu, 10 Jul 2025 05:29:20 GMT | Kubernetes Secrets: Base Recommended Protection | W. Jenks Gibbons | [Read More](https://medium.com/p/b692ac9d44f0) |
+| Thu, 10 Jul 2025 05:27:17 GMT | From O to Hero – One Way, No Other Way on Medium | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/6606b929e4bf) |
+| Thu, 10 Jul 2025 05:22:04 GMT | An Artist’s Philosophy-Aphorisms and Artwork | An Artist's Philosophy - Aphorisms and Artwork | [Read More](https://medium.com/p/b0db8386405e) |
 | Thu, 10 Jul 2025 05:21:34 GMT | NoSQL Injection — Simple Write-UP | Anandakrishnan P R | [Read More](https://medium.com/p/8c9d1e734fa6) |
+| Thu, 10 Jul 2025 05:21:12 GMT | To _____ | Denise Kollock | [Read More](https://medium.com/p/00fd9b8d10df) |
+| Thu, 10 Jul 2025 05:17:44 GMT | How VAPT Testing Helps Prevent Cyber Attacks | Rinshumishra | [Read More](https://medium.com/p/97d620b69141) |
+| Thu, 10 Jul 2025 05:10:34 GMT | O(1) bit primitive of everything binary: address +2¹⁰⁰⁰ bits on a “toaster” | Ethan G Appleby | [Read More](https://medium.com/p/42d6805ba46e) |
 | Thu, 10 Jul 2025 05:05:42 GMT | 5 Reasons Toronto Businesses Are Switching to Local Managed IT Services | True North MSP | [Read More](https://medium.com/p/b1f2b52ef726) |
 | Thu, 10 Jul 2025 05:05:10 GMT | Protecting Your Business from Cyber Attacks in Saudi Arabia | Bluechip Advanced Technologies | [Read More](https://medium.com/p/8489d57949bd) |
 | Thu, 10 Jul 2025 04:57:55 GMT | Oski Lab (Walk Through) | Mart Eugen Gevero | [Read More](https://medium.com/p/dff1b6135252) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 18:50:57 GMT | Open Cybersecurity AI Frameworks: New Challenges, Opportunities & Impact | noailabs | [Read More](https://medium.com/p/96b07a943529) |
 | Wed, 09 Jul 2025 18:50:43 GMT | Hack The Knowledge Of IP | Vishalakshi Pathak | [Read More](https://medium.com/p/515c12053313) |
 | Wed, 09 Jul 2025 18:49:10 GMT | Wireshark: The Basics - TryHackMe Walkthrough | Yagmur Yerlikaya | [Read More](https://medium.com/p/18e3055b6e37) |
-| Wed, 09 Jul 2025 18:35:46 GMT | Atomic Testing with Picus: First thing First - One  Test at a Time | Sahil Malvi | [Read More](https://medium.com/p/5161b13b3591) |
-| Wed, 09 Jul 2025 18:25:56 GMT | Bypass Jail Monkey | Ahmed Rabeaa Mosaa (SadC0d3r) | [Read More](https://medium.com/p/cc82a79e0458) |
-| Wed, 09 Jul 2025 18:25:23 GMT | Hybrid Cloud Security: How to Stay Protected Across Mixed Environments | SafeAeon Inc. | [Read More](https://medium.com/p/d1d2041973b8) |
-| Wed, 09 Jul 2025 18:23:43 GMT | Thought CSRF Was Extinct? Think Again. | Killua | [Read More](https://medium.com/p/e36da608f900) |
-| Wed, 09 Jul 2025 18:20:15 GMT | Can the Magic of AI Solve Some Security Headaches For You? | BillfordX | [Read More](https://medium.com/p/30956120d494) |
-| Wed, 09 Jul 2025 18:19:34 GMT | SOC — der Mensch im Zentrum | Ivan Melnik | [Read More](https://medium.com/p/b1ee092ef064) |
-| Wed, 09 Jul 2025 18:16:26 GMT | Part 2: Cybersecurity in Web3 — The Centralized Choke Point CEXs & Custodians | Ben San Roman | [Read More](https://medium.com/p/46f7b78827aa) |
-| Wed, 09 Jul 2025 18:15:51 GMT | Cloud Security Audit: A Must-Have for Securing Your Cloud Environment | SafeAeon Inc. | [Read More](https://medium.com/p/5116975302a4) |
-| Wed, 09 Jul 2025 18:10:07 GMT | Writeup PicoCTF - IntroToBurp - Web Exploitation | Malbaralamsyah | [Read More](https://medium.com/p/322e3c1ef7cd) |
-| Wed, 09 Jul 2025 18:05:20 GMT | From Profile Picture to Account Takeover: Stored XSS in Action | EroHack | [Read More](https://medium.com/p/fe43d29cfd99) |
-| Wed, 09 Jul 2025 18:01:05 GMT | On Confidence | Richard Ackroyd | [Read More](https://medium.com/p/fd5dc954aa77) |
