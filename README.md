@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 07:38:38 GMT | Preparing for Tomorrow: Data Center Security in a Quantum Age in Qatar | expbhavya | [Read More](https://medium.com/p/9e20e3513302) |
+| Thu, 10 Jul 2025 07:37:09 GMT | Kali Linux Alətləri ilə Tanışlıq — Amass Nədir? | Aghabala Guluzade | [Read More](https://medium.com/p/44d22b0d376a) |
+| Thu, 10 Jul 2025 07:36:00 GMT | The Daily Tech Digest: 10 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6c6b5152e18e) |
+| Thu, 10 Jul 2025 07:35:55 GMT | Write for us — Azure Daily | Saikat Paul | [Read More](https://medium.com/p/a6f596e0f86f) |
+| Thu, 10 Jul 2025 07:35:17 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/027119ff3301) |
+| Thu, 10 Jul 2025 07:35:10 GMT | Cloudflare: The Great AI Bot Defender | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/26624b8ac819) |
+| Thu, 10 Jul 2025 07:19:18 GMT | AI‑powered deception WILL redefine Cyber Defense | Martin Abramov | [Read More](https://medium.com/p/5ca69dc9098f) |
+| Thu, 10 Jul 2025 07:16:23 GMT | alg: none JWT Zafiyeti – Sessiz Tehlike | Tunahan Balcı | [Read More](https://medium.com/p/60ae3aab7f2e) |
+| Thu, 10 Jul 2025 07:09:06 GMT | How to Install Burp Suite Pro on Linux (with Keygen) — Step-by-Step Guide | Karthik Yadav | [Read More](https://medium.com/p/d467367240fd) |
 | Thu, 10 Jul 2025 07:02:59 GMT | When Everything Is „Just for Now”: The Fear of Permanence in Relationships | Łukasz Ratajczak | [Read More](https://medium.com/p/0650cf63d5a8) |
 | Thu, 10 Jul 2025 07:02:57 GMT | Get Rewards for Your First Deposit and Trades! | WhiteBIT | [Read More](https://medium.com/p/b0212074db79) |
 | Thu, 10 Jul 2025 07:01:09 GMT | Vulnerability Report: Critical Bias Manipulation in AI Chat Assistants | Rene Fonseca | [Read More](https://medium.com/p/40bed03de19a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 21:56:57 GMT | Building a Software Inventory System: Technical Blueprint | Ashley Kim | [Read More](https://medium.com/p/b54c61196fe4) |
 | Wed, 09 Jul 2025 21:51:27 GMT | LAB 19: SHELLCODE ANALYSIS | Mustapha Ait Ichou | [Read More](https://medium.com/p/db8153c57bb7) |
 | Wed, 09 Jul 2025 21:48:02 GMT | Turning Complexity into Insight | Anshul Mathur | [Read More](https://medium.com/p/f1ab4d654a49) |
-| Wed, 09 Jul 2025 21:33:16 GMT | Agentic AI Is Here: What It Means for Enterprise Risk and Resilience | Annie W | [Read More](https://medium.com/p/d3e7d0d7b00a) |
-| Wed, 09 Jul 2025 21:31:41 GMT | The MFA Might Be Your Biggest Security Risk | MSc. Adalberto Jr. | [Read More](https://medium.com/p/13ea4f760a1d) |
-| Wed, 09 Jul 2025 21:31:38 GMT | They Thought It Was Zoom. It Was Malware. | Cyber-AppSec | [Read More](https://medium.com/p/654a1e6708ba) |
-| Wed, 09 Jul 2025 21:01:50 GMT | Encrypting the Encryption | Peter Lablans | [Read More](https://medium.com/p/4947b1bdb825) |
-| Wed, 09 Jul 2025 20:53:13 GMT | Cybersecurity statistics about identity trends, supply chain cyber risk, and LLM security in 2025 | CyberSecStats | [Read More](https://medium.com/p/30e8efbd7ba5) |
-| Wed, 09 Jul 2025 20:50:10 GMT | Cybersecurity statistics from May/June 2025 | CyberSecStats | [Read More](https://medium.com/p/1e351725a586) |
-| Wed, 09 Jul 2025 20:44:42 GMT | Build Your Own C2: HTTP Command & Control with FastAPI and Python Agents (Part 1) | Cyberlairs | [Read More](https://medium.com/p/6024fae1f868) |
-| Wed, 09 Jul 2025 20:40:00 GMT | Discover Your Admin Rights in Active Directory Using PowerShell | GHAIDA | [Read More](https://medium.com/p/b1674cb5aa7a) |
-| Wed, 09 Jul 2025 20:35:44 GMT | Abstract: | Chris Clark | [Read More](https://medium.com/p/eed112f51593) |
