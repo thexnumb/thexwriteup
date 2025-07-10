@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 16:51:42 GMT | FireEye Fallout Part I: Tip of the Iceberg | Kalpitha S | [Read More](https://medium.com/p/671bc6e9f32a) |
+| Thu, 10 Jul 2025 16:51:42 GMT | New Mac malware discovered in the wild: XCSSET | Kalpitha S | [Read More](https://medium.com/p/a1dcecdc6759) |
+| Thu, 10 Jul 2025 16:51:41 GMT | Apple’s First Malware Notarized - DefenseArk | Kalpitha S | [Read More](https://medium.com/p/f2224a937fc7) |
+| Thu, 10 Jul 2025 16:51:41 GMT | FireEye Fallout Part II: The Plot Thickens | Kalpitha S | [Read More](https://medium.com/p/9d8b08090250) |
+| Thu, 10 Jul 2025 16:48:59 GMT | ISO/IEC 27001 — The Gold Standard for Information Security | Muhasinahamed | [Read More](https://medium.com/p/869517ffdbaa) |
+| Thu, 10 Jul 2025 16:47:58 GMT | Hacking the greedy and curious. | TerriL | [Read More](https://medium.com/p/bdb7840192e0) |
+| Thu, 10 Jul 2025 16:45:52 GMT | CSPSub: Extract subdomains from CSP Headers | AbhirupKonwar | [Read More](https://medium.com/p/4d0772f43603) |
+| Thu, 10 Jul 2025 16:45:06 GMT | SNORT - TryHackMe —Network Security & Traffic Analysis | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/768d52ccecb0) |
+| Thu, 10 Jul 2025 16:41:39 GMT | 7 Powerful Ways Data Analytics Drives Business Decision Making | Techridge Solutions | [Read More](https://medium.com/p/ef1633a8e24f) |
+| Thu, 10 Jul 2025 16:38:00 GMT | Whose AI Is Safer? Why China’s Rules Are Forcing the West to Look in the Mirror | Miriam Sauter | [Read More](https://medium.com/p/bdfa7fd6e76d) |
+| Thu, 10 Jul 2025 16:37:32 GMT | Red Teaming vs Penetration Testing: Mana yang Lebih Keren? | 0xbyalak | [Read More](https://medium.com/p/8a1b620c1054) |
+| Thu, 10 Jul 2025 16:36:26 GMT | The Cache Poisoning Game — Hijack the Middle, Rule the Flow | Đeepanshu | [Read More](https://medium.com/p/34b3ee40357a) |
+| Thu, 10 Jul 2025 16:34:07 GMT | My Metodologi Bug Bounty | LunarX | [Read More](https://medium.com/p/805841e39a03) |
+| Thu, 10 Jul 2025 16:33:06 GMT | Logout… pero ¿realmente saliste? | Gorka | [Read More](https://medium.com/p/8b2ddac15a06) |
+| Thu, 10 Jul 2025 16:31:42 GMT | UFW vs firewalld: Linux Security Guards | Natarajan C K | [Read More](https://medium.com/p/3f6bed733f31) |
+| Thu, 10 Jul 2025 16:30:59 GMT | Our Investment in AirMDR: Redefining the SOC for the AI Era | Chris McCann | [Read More](https://medium.com/p/4f7dc675f82a) |
+| Thu, 10 Jul 2025 16:30:47 GMT | To the Man Who’s Still Holding On | Moyinoluwa Fatungase (StArLiGhT ✍) | [Read More](https://medium.com/p/8b73a1ceec90) |
 | Thu, 10 Jul 2025 16:22:25 GMT | Audit-Ready Mining: Bridging Security and Compliance | DarioWorks | [Read More](https://medium.com/p/2c8faf216aaa) |
 | Thu, 10 Jul 2025 16:21:58 GMT | 3 Future Skills You MUST Learn Before 2026 | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/42177d4d4c52) |
 | Thu, 10 Jul 2025 16:20:33 GMT | Cybersecurity 101: How to Protect Your Data in a Digital World | The Curious Voice By----- Krish Maran | [Read More](https://medium.com/p/140b3dc3cf55) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 12:33:45 GMT | 2025 Purple Knight Report Reveals Persistent Security Gaps in Hybrid Active Directory and Entra ID… | SarahBark | [Read More](https://medium.com/p/0280285c5191) |
 | Thu, 10 Jul 2025 12:28:44 GMT | From Reactive to Proactive: The Shift Enabled by Hybrid SOC Services | sanya | [Read More](https://medium.com/p/e6f9d7189765) |
 | Thu, 10 Jul 2025 12:25:58 GMT | Cloud misconfigurations: The silent killer of data security | Cloud4C Services | [Read More](https://medium.com/p/836986c777fb) |
-| Thu, 10 Jul 2025 12:24:09 GMT | When hacking became a business and patches became a matter of hours | Shestakov Nikita S | [Read More](https://medium.com/p/ef7d99a855e9) |
-| Thu, 10 Jul 2025 12:19:08 GMT | Get Hired Faster: Ethical Hacking Foundation Certification Explained | sneha gaikwad | [Read More](https://medium.com/p/562c5f6ab7ec) |
-| Thu, 10 Jul 2025 12:17:15 GMT | How to Detect LSASS Dumping Using Procdump or comsvcs.dll | Saikat Paul | [Read More](https://medium.com/p/c02ed8bb8352) |
-| Thu, 10 Jul 2025 12:15:51 GMT | ️ Why Smart & Contactless Security Solutions Are the Future of Safety | Sumintra | [Read More](https://medium.com/p/b583534bb878) |
-| Thu, 10 Jul 2025 12:10:59 GMT | Understanding Firewall Deny Events: Why Repeated External IP Denials Matter | Saikat Paul | [Read More](https://medium.com/p/567c803d864e) |
-| Thu, 10 Jul 2025 12:08:22 GMT | The Algorithm Is Watching (But Still Fell for That LinkedIn Message): How Business Email Compromise… | Raymond Brunell | [Read More](https://medium.com/p/bbec5a0ea608) |
-| Thu, 10 Jul 2025 12:08:17 GMT | Unusual Bandwidth Usage in Industrial Networks: A Sign of Something Serious? | Saikat Paul | [Read More](https://medium.com/p/8e17e08d8024) |
-| Thu, 10 Jul 2025 12:06:53 GMT | Is a Zero-Day Breach Lurking in Your Network? Nippon Steel Solutions Attack | Finstein.ai | [Read More](https://medium.com/p/1df352d04f34) |
-| Thu, 10 Jul 2025 12:01:25 GMT | VPN: Visibility. Privacy. Neutrality — The Pillars of Secure Digital Operations. | theurikarue | [Read More](https://medium.com/p/2e379ecc39f8) |
-| Thu, 10 Jul 2025 11:56:10 GMT | Detecting Suspicious PLC Stop Commands with Microsoft Defender for IoT | Saikat Paul | [Read More](https://medium.com/p/e28cb50cc693) |
-| Thu, 10 Jul 2025 11:54:28 GMT | Polluting the Graph: Abusing Parameter Confusion in Nested GraphQL Queries | Monika sharma | [Read More](https://medium.com/p/a1daa5d30019) |
-| Thu, 10 Jul 2025 11:41:51 GMT | When You Stop Expecting People To Show Up | Yana Bostongirl | [Read More](https://medium.com/p/d147516c5e2c) |
-| Thu, 10 Jul 2025 11:38:04 GMT | TryHackMe The Marketplace — Walkthrough | mauzware | [Read More](https://medium.com/p/ed9e17259010) |
-| Thu, 10 Jul 2025 11:37:40 GMT | AI Coding Tools: Productivity Benefits, Security Pisses | StackSnacker | [Read More](https://medium.com/p/9d25cde3613c) |
-| Thu, 10 Jul 2025 11:24:35 GMT | eJPTv2 CTF Walkthrough — Host & Network Penetration Testing with Metasploit Framework CTF-1 | Anirudh Kolatlu Ramesh | [Read More](https://medium.com/p/39fcbed34192) |
-| Thu, 10 Jul 2025 11:22:04 GMT | Day 41 of #60DaysofGRC: What Is FedRAMP and Why Does It Matter? | Brittney Ginther | [Read More](https://medium.com/p/b9d5981dfd85) |
-| Thu, 10 Jul 2025 11:19:54 GMT | Strengthening BFSI Security Posture with SOAR Integration | Matin Shaikh | [Read More](https://medium.com/p/115cc99e4af5) |
