@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 13:31:43 GMT | Demystifying the OS Booting Sequence: From Power Button to Desktop Like a Boss | Cyphersilhouette | [Read More](https://medium.com/p/4e05036d72ab) |
+| Thu, 10 Jul 2025 13:29:48 GMT | Detecting NTDSUtil Usage for Installation Media Creation from Domain Controllers | Saikat Paul | [Read More](https://medium.com/p/01374d0a66d5) |
+| Thu, 10 Jul 2025 13:26:45 GMT | From Rejection to Recognition: How I Made It to Apple’s Hall of Fame | Rajdip | [Read More](https://medium.com/p/8465e1dcb54f) |
+| Thu, 10 Jul 2025 13:26:15 GMT | Abusing Notepad Session restore | RidgeHack | [Read More](https://medium.com/p/668bdb73f89f) |
+| Thu, 10 Jul 2025 13:20:03 GMT | The Best Way to Secure Your Next.js | Santiago Dellepiane | [Read More](https://medium.com/p/e3a20ab60747) |
+| Thu, 10 Jul 2025 13:17:11 GMT | How I Bypassed OTP With a Simple Phone Trick | Ibtissam hammadi | [Read More](https://medium.com/p/0053f64f531d) |
+| Thu, 10 Jul 2025 13:16:15 GMT | Developer’s Guide to REST API Security Testing (With Steps and Tools) | Sam Bishop | [Read More](https://medium.com/p/bd71670d179a) |
+| Thu, 10 Jul 2025 13:12:33 GMT | Best Laptop for Cyber Security | Yousuf | [Read More](https://medium.com/p/0e902aa53869) |
+| Thu, 10 Jul 2025 13:12:31 GMT | What Is XDR Cybersecurity and Why It’s the Future of Threat Detection | James Das | [Read More](https://medium.com/p/dfdc113dc9c0) |
+| Thu, 10 Jul 2025 13:09:17 GMT | “Silent but Powerful: Mastering Passive Reconnaissance for Ethical Hacking” | Ar-jay A. Ballaco | [Read More](https://medium.com/p/b41811f0d196) |
+| Thu, 10 Jul 2025 13:05:48 GMT | Metasploit: Introduction — TryHackMe | sercan timocin | [Read More](https://medium.com/p/d035cf9ba998) |
+| Thu, 10 Jul 2025 13:04:19 GMT | BitChat: Jack Dorsey’s(Twitter founder)Bold Experiment in Offline Messaging | Arnavgireesh | [Read More](https://medium.com/p/de02ae30b176) |
+| Thu, 10 Jul 2025 13:04:17 GMT | Death of the Internet: Soon | Thunder and Lightning | [Read More](https://medium.com/p/4b4f2e0fa1f8) |
+| Thu, 10 Jul 2025 13:02:55 GMT | Cyber Security | Benbarker | [Read More](https://medium.com/p/611a279bf3b9) |
+| Thu, 10 Jul 2025 13:01:56 GMT | For the Right One, Be the Real You | Tamara Peric | [Read More](https://medium.com/p/caa76c295912) |
+| Thu, 10 Jul 2025 12:59:16 GMT | Kuring nganalisis Malware, carana kieu. | Luthfi Sulthany | [Read More](https://medium.com/p/67a6158804a4) |
+| Thu, 10 Jul 2025 12:44:32 GMT | Deep Recon: Finding Secrets in JavaScript with Deep Recon | Monika sharma | [Read More](https://medium.com/p/99abb2c9ad85) |
 | Thu, 10 Jul 2025 12:34:51 GMT | Invisible Enemies: The ABCs of Cyber Threats You Can’t Ignore. | Tech with Maya | [Read More](https://medium.com/p/5d0d2d0ef16c) |
 | Thu, 10 Jul 2025 12:33:45 GMT | 2025 Purple Knight Report Reveals Persistent Security Gaps in Hybrid Active Directory and Entra ID… | SarahBark | [Read More](https://medium.com/p/0280285c5191) |
 | Thu, 10 Jul 2025 12:28:44 GMT | From Reactive to Proactive: The Shift Enabled by Hybrid SOC Services | sanya | [Read More](https://medium.com/p/e6f9d7189765) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 07:48:55 GMT | Cybersecurity Marketing: Game-Changing Strategies You Can’t Ignore | GrackerAI | [Read More](https://medium.com/p/b6c21e66c5a6) |
 | Thu, 10 Jul 2025 07:47:07 GMT | Boost Your Red Hat Career with the RH199 Rapid Track Course | cyber security Updates | [Read More](https://medium.com/p/6fab790eeff7) |
 | Thu, 10 Jul 2025 07:46:57 GMT | 利用 Palo Alto Networks 預定義清單 EDL 建立防護規則(黑名單) | Damon Lin | [Read More](https://medium.com/p/9d10e9996ffb) |
-| Thu, 10 Jul 2025 07:44:58 GMT | How Not to Handle Your API Keys: A Love Letter to Developers Everywhere | Erkan Kavas | [Read More](https://medium.com/p/451db07c790f) |
-| Thu, 10 Jul 2025 07:38:38 GMT | Preparing for Tomorrow: Data Center Security in a Quantum Age in Qatar | expbhavya | [Read More](https://medium.com/p/9e20e3513302) |
-| Thu, 10 Jul 2025 07:37:09 GMT | Kali Linux Alətləri ilə Tanışlıq — Amass Nədir? | Aghabala Guluzade | [Read More](https://medium.com/p/44d22b0d376a) |
-| Thu, 10 Jul 2025 07:36:00 GMT | The Daily Tech Digest: 10 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6c6b5152e18e) |
-| Thu, 10 Jul 2025 07:35:55 GMT | Write for us — Azure Daily | Saikat Paul | [Read More](https://medium.com/p/a6f596e0f86f) |
-| Thu, 10 Jul 2025 07:35:17 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/027119ff3301) |
-| Thu, 10 Jul 2025 07:35:10 GMT | Cloudflare: The Great AI Bot Defender | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/26624b8ac819) |
-| Thu, 10 Jul 2025 07:19:18 GMT | AI‑powered deception WILL redefine Cyber Defense | Martin Abramov | [Read More](https://medium.com/p/5ca69dc9098f) |
-| Thu, 10 Jul 2025 07:16:23 GMT | alg: none JWT Zafiyeti – Sessiz Tehlike | Tunahan Balcı | [Read More](https://medium.com/p/60ae3aab7f2e) |
-| Thu, 10 Jul 2025 07:09:06 GMT | How to Install Burp Suite Pro on Linux (with Keygen) — Step-by-Step Guide | Karthik Yadav | [Read More](https://medium.com/p/d467367240fd) |
-| Thu, 10 Jul 2025 07:02:59 GMT | When Everything Is „Just for Now”: The Fear of Permanence in Relationships | Łukasz Ratajczak | [Read More](https://medium.com/p/0650cf63d5a8) |
-| Thu, 10 Jul 2025 07:02:57 GMT | Get Rewards for Your First Deposit and Trades! | WhiteBIT | [Read More](https://medium.com/p/b0212074db79) |
-| Thu, 10 Jul 2025 07:01:09 GMT | Vulnerability Report: Critical Bias Manipulation in AI Chat Assistants | Rene Fonseca | [Read More](https://medium.com/p/40bed03de19a) |
-| Thu, 10 Jul 2025 06:58:39 GMT | CipherHub: Demystifying Cryptography with Code | Eduardo Farias Camargo | [Read More](https://medium.com/p/6257b2f601ab) |
-| Thu, 10 Jul 2025 06:55:47 GMT | Getting Started in Tech: A Practical Guide to Hacking and Linux | Siyan S Idicula | [Read More](https://medium.com/p/ddeedb2e4feb) |
-| Thu, 10 Jul 2025 06:55:16 GMT | Victorian Privacy in the Age of AI: What Your Wellness App Forgot to Ask | olavenue | [Read More](https://medium.com/p/aa85071294c9) |
-| Thu, 10 Jul 2025 06:40:35 GMT | Good to Great in the context of Cybersecurity | Venkat Subramaniyan | [Read More](https://medium.com/p/8df8f89db40c) |
