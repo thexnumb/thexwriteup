@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 10 Jul 2025 01:39:01 GMT | OSDFIR in K8s — Part 2: OSDFIR Lab | Kevin Stokes | [Read More](https://medium.com/p/8824443a9d28) |
+| Thu, 10 Jul 2025 01:38:26 GMT | Quantum Cybersecurity: Preparing for the Post-Quantum Political Landscape | CCD-IS | [Read More](https://medium.com/p/9873e60df6a5) |
+| Thu, 10 Jul 2025 01:24:33 GMT | Why SSH Doesn’t Just Use Public/Private Keys to Encrypt Everything — and How Diffie-Hellman &… | Mahalingam SRE | [Read More](https://medium.com/p/eb9a2c691950) |
+| Thu, 10 Jul 2025 01:08:54 GMT | How to Avoid Having Your Data Stolen Online | JuanGE Baquero | [Read More](https://medium.com/p/43f4440fbdda) |
+| Thu, 10 Jul 2025 01:02:06 GMT | The Easiest Bug Bounty you’ll ever get (2025) | Appsec.pt | [Read More](https://medium.com/p/8a5a9657b2ae) |
+| Thu, 10 Jul 2025 00:51:10 GMT | How I Tricked a Fellow Airman, and What It Taught Me About “Authority” in Social Engineering | JD Brooks | [Read More](https://medium.com/p/1b9cf317d8aa) |
+| Thu, 10 Jul 2025 00:44:05 GMT | The 0th Crystal Ball: Pythagoras and the Mathematics of the World | Stanleyyan | [Read More](https://medium.com/p/5f023c0b6dba) |
+| Thu, 10 Jul 2025 00:09:02 GMT | The Cloud Explained (Like I’m 5) | TechTales | [Read More](https://medium.com/p/e91238c22d37) |
+| Thu, 10 Jul 2025 00:07:39 GMT | CVE-2025–52367: Stored XSS to RCE via Privilege Escalation in PivotX CMS v3.0.0 RC 3 | HayToN | [Read More](https://medium.com/p/a1b870bcb7b3) |
+| Wed, 09 Jul 2025 23:48:47 GMT | Evil-GPT: Write-Up | A Learner | [Read More](https://medium.com/p/7c97b8ebf092) |
 | Wed, 09 Jul 2025 23:32:50 GMT | One of the Paradoxes with Posting Online with Severe OCD | Uland's OCD Hub | [Read More](https://medium.com/p/bef65f45b41a) |
 | Wed, 09 Jul 2025 23:32:36 GMT | 5 Reasons to Choose Live CCTV Monitoring | Visual Monitoring Solutions | [Read More](https://medium.com/p/0ca4152cb857) |
+| Wed, 09 Jul 2025 23:31:42 GMT | Fortinet FortiManager: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c934d88063ee) |
 | Wed, 09 Jul 2025 23:19:21 GMT | The 16B records Data Breach that did not exist | Appsec.pt | [Read More](https://medium.com/p/5cca8fddd0e8) |
 | Wed, 09 Jul 2025 23:17:02 GMT | IA for Security — Memória em Chatbots LLMs: Short e Long Memory na Prática — Parte 2 | Fernando Carrara | [Read More](https://medium.com/p/65ca8d3145ab) |
 | Wed, 09 Jul 2025 23:09:22 GMT | How a single line of code can cost millions | Mohamedajguernoun | [Read More](https://medium.com/p/f187ea3b7544) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 09 Jul 2025 16:14:53 GMT | Understanding the OSI Model: Why It’s Essential for Everyone in Cybersecurity | Yagmur Yerlikaya | [Read More](https://medium.com/p/7b6e5891c466) |
 | Wed, 09 Jul 2025 16:14:16 GMT | AI Forensics - TryHackMe Writeups - By D3SYNC | DESYNC | [Read More](https://medium.com/p/e05eba8b5c84) |
 | Wed, 09 Jul 2025 16:11:15 GMT | Gamma, TelCoin, Pine: Same Bugs, New Chains | Olympix | [Read More](https://medium.com/p/482d80b22446) |
-| Wed, 09 Jul 2025 16:07:29 GMT | How to Tackle Common Cybersecurity Challenges in Software-Defined Vehicles: A Practical Guide | Innolab AI | [Read More](https://medium.com/p/4d0dd15ed77f) |
-| Wed, 09 Jul 2025 16:06:42 GMT | Optimized IT Services for Manufacturing Companies: Boosting Efficiency & Productivity | Arclight Group | [Read More](https://medium.com/p/501a3d5b6100) |
-| Wed, 09 Jul 2025 15:57:38 GMT | SQL Injection Prevention Techniques: Outsmart Hackers Before They Get In | Akshay Chauhan | [Read More](https://medium.com/p/1ba304c46375) |
-| Wed, 09 Jul 2025 15:56:20 GMT | picoCTF — IntroToBurp | Robby firdauzy | [Read More](https://medium.com/p/b9dad2c8ad96) |
-| Wed, 09 Jul 2025 15:46:44 GMT | Cyber Hygiene 101: 7 Simple Habits to Stay Secure Online | Aisha Majeed | [Read More](https://medium.com/p/2af14e00a7d2) |
-| Wed, 09 Jul 2025 15:41:47 GMT | The Telegram Username Scam: How People Are Losing Thousands in TON | Scofield O. Idehen | [Read More](https://medium.com/p/f7f7c8f68001) |
-| Wed, 09 Jul 2025 15:34:50 GMT | Security Cameras vs. Motion Detectors: What Does Your Business Really Need? | Ava Zack | [Read More](https://medium.com/p/b71d50103d9a) |
-| Wed, 09 Jul 2025 15:32:22 GMT | Smart Perimeter Defense | Presslink Media | [Read More](https://medium.com/p/88dd74f66918) |
-| Wed, 09 Jul 2025 15:31:50 GMT | I Found 12 Bugs in One Program | Ibtissam hammadi | [Read More](https://medium.com/p/1b011e7a2279) |
-| Wed, 09 Jul 2025 15:31:20 GMT | Want a Smart Security Camera? Let’s Compare How These 3 Bestselling Ones Stack Up | Bogymohamedali | [Read More](https://medium.com/p/e54612e0eb78) |
-| Wed, 09 Jul 2025 15:28:55 GMT | AI, Cybersecurity, and the Battle for Control: Lessons from TryHackMe’s AI/ML Security Threats Room | Ayr1n | [Read More](https://medium.com/p/1cf375bcd2a2) |
