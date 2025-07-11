@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 05:19:05 GMT | Your Smart Home is Spying on You: 3 Privacy Fixes That Work | Aj | [Read More](https://medium.com/p/6a5c0b0abcc1) |
+| Fri, 11 Jul 2025 05:11:07 GMT | Soft Rage | notawriter | [Read More](https://medium.com/p/857b400591ca) |
+| Fri, 11 Jul 2025 05:00:56 GMT | Secure File Uploads in Java: From Multipart to Magic Bytes | Mr_Jeet_24 | [Read More](https://medium.com/p/40281e5e6b0e) |
+| Fri, 11 Jul 2025 04:59:02 GMT | How McDonald’s AI Hiring Bot Exposed 64 Million Job Seekers With Password “123456” | MKWriteshere | [Read More](https://medium.com/p/e6c3ec0844a6) |
+| Fri, 11 Jul 2025 04:58:56 GMT | Authentication and Authorization in .NET APIs | Karthikeyan NS | [Read More](https://medium.com/p/7991824d537a) |
+| Fri, 11 Jul 2025 04:53:47 GMT | The Linux Security Journey — Disable Kernel Modules | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0bd20e881675) |
+| Fri, 11 Jul 2025 04:47:09 GMT | Critical mcp-remote Vulnerability Enables Remote Code Execution — Impacts Over 437,000 Downloads | Darshan | [Read More](https://medium.com/p/8e5885109438) |
+| Fri, 11 Jul 2025 04:31:49 GMT | Part 5: The Velvet Rope — Dynamic Authorization with SSO Groups | Rohit Mittel | [Read More](https://medium.com/p/5a428f1e415d) |
 | Fri, 11 Jul 2025 04:27:33 GMT | CTF Day(27) | Ahmed Narmer | [Read More](https://medium.com/p/1e6bb61eb835) |
 | Fri, 11 Jul 2025 04:24:04 GMT | “From Ping to Malware: How ICMP Becomes a Silent Backdoor” | Shashank N | [Read More](https://medium.com/p/ef105ce3ced8) |
 | Fri, 11 Jul 2025 04:15:32 GMT | Unveiling Uruguay’s Digital Underbelly | ADanielHill | [Read More](https://medium.com/p/53cb5b9e524e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 18:31:32 GMT | Zero-Click Account Takeover on a U.S. Government Website | Ali Saadi | [Read More](https://medium.com/p/0ab0168dc47e) |
 | Thu, 10 Jul 2025 18:29:49 GMT | Build Your First Hardware Hacking Tools with ESP8266(WiFi Attacks) | Mohamed Adel | [Read More](https://medium.com/p/950c26b6f4f7) |
 | Thu, 10 Jul 2025 18:28:12 GMT | Beyond the IDE: A Production-Ready Pattern for Secure Agent Tool Integration | Ken Wiltshire | [Read More](https://medium.com/p/a23fa5a65d5f) |
-| Thu, 10 Jul 2025 18:16:55 GMT | The EU Cyber Resilience Act: Raising the Bar for Digital Product Security | january1073 | [Read More](https://medium.com/p/e7d643d0c897) |
-| Thu, 10 Jul 2025 18:15:59 GMT | The Start | Eric A | [Read More](https://medium.com/p/ab285d7f5580) |
-| Thu, 10 Jul 2025 18:13:51 GMT | If I Die Tomorrow, Read This | Hime | [Read More](https://medium.com/p/c3a4c4c3fd0f) |
-| Thu, 10 Jul 2025 18:07:48 GMT | Help build Chronos Vault: An invitation to open source contributors | Jude Miracle | [Read More](https://medium.com/p/dc73604d6f64) |
-| Thu, 10 Jul 2025 18:07:35 GMT | DockFlare: The Easiest Way to Expose Docker Containers Using Cloudflare Tunnels | Tomer Klein | [Read More](https://medium.com/p/43b7653a1a7f) |
-| Thu, 10 Jul 2025 18:06:25 GMT | The Art of Credential Management | Ed-it Editions | [Read More](https://medium.com/p/762c3522f34a) |
-| Thu, 10 Jul 2025 18:03:30 GMT | DAY 1: Onwards and Upwards | Akshatdwivedi | [Read More](https://medium.com/p/04bd85d1f2a8) |
-| Thu, 10 Jul 2025 18:03:29 GMT | Disadvantages of AI in Cybersecurity: What You Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/8976629b3e8e) |
