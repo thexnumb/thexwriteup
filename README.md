@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 18:19:50 GMT | Secure Vibe Coding: Staying Safe While Collaborating with AI | Aravind S V | [Read More](https://medium.com/p/32f9f63a7f2e) |
+| Fri, 11 Jul 2025 18:19:02 GMT | A concise AI governance checklist for ISO 27001:2022 compliance (Part 5 of 7) | Aaron Rusz | [Read More](https://medium.com/p/470c739e0b2a) |
+| Fri, 11 Jul 2025 18:17:40 GMT | NOTHING IS PRIVATE: How They Are Manipulating You Without You Knowing | markito | [Read More](https://medium.com/p/cd1ab9ad88b3) |
+| Fri, 11 Jul 2025 18:08:10 GMT | Defend Against Spoofing Attacks: How to Spot and Stop Digital Impersonators | SafeAeon Inc. | [Read More](https://medium.com/p/d922e7f74923) |
+| Fri, 11 Jul 2025 18:06:47 GMT | Cyber Security Offense and Defense Home Lab — Part 1 | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/73cf33c9c169) |
+| Fri, 11 Jul 2025 18:05:49 GMT | OSCP Write-Up: SQL Injection Attacks — Module Exercise — VM #1 | agi | [Read More](https://medium.com/p/2e0e25b1ffa4) |
+| Fri, 11 Jul 2025 18:02:33 GMT | $4M Drained: Mozaic Insider Attack, Blueberry Oracle Fail, xPet, and Miner Exploits | Olympix | [Read More](https://medium.com/p/5b5d5587dfea) |
+| Fri, 11 Jul 2025 17:59:31 GMT | Bug Reporting as an Engineering Discipline: Beyond Debugging | Wongjushao | [Read More](https://medium.com/p/14737863d083) |
+| Fri, 11 Jul 2025 17:58:32 GMT | A liberal arts student wanders into a cybersecurity bar… | Laurdickerson | [Read More](https://medium.com/p/015cc1d3b550) |
+| Fri, 11 Jul 2025 17:56:42 GMT | Luxury Concierge & VIP Security Services for High-End Events in the UK | waeventservices.co.uk/ | [Read More](https://medium.com/p/19367799c398) |
+| Fri, 11 Jul 2025 17:54:26 GMT | The FIA Trap: Understanding the Dangers of Sharing Sensitive Content. | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/31218fb319eb) |
+| Fri, 11 Jul 2025 17:54:08 GMT | A concise AI governance checklist for ISO 27001:2022 compliance (Part 4 of 7) | Aaron Rusz | [Read More](https://medium.com/p/8d1758c32bbc) |
+| Fri, 11 Jul 2025 17:53:22 GMT | Key Points | Ferary Solomon | [Read More](https://medium.com/p/4f145b9ba19b) |
+| Fri, 11 Jul 2025 17:53:14 GMT | ️ Cyber Security Tips for Beginners | Shoaib Amin | [Read More](https://medium.com/p/888ad6d04ef9) |
+| Fri, 11 Jul 2025 17:51:21 GMT | $301M Breached: PlayDapp, Seneca, Duelbits, and ERC404 Exploited | Olympix | [Read More](https://medium.com/p/86c7979ac603) |
+| Fri, 11 Jul 2025 17:51:02 GMT | picoCTF — logon | Robby firdauzy | [Read More](https://medium.com/p/a7faef14175f) |
+| Fri, 11 Jul 2025 17:49:23 GMT | Nim: The Hidden Gem of Programming Languages You Need to Know About | Taha Ex | [Read More](https://medium.com/p/4d7171d9f2e7) |
+| Fri, 11 Jul 2025 17:45:52 GMT | Cybersecurity Entry Level Advice | DarKVoicE | [Read More](https://medium.com/p/ceca64135415) |
+| Fri, 11 Jul 2025 17:37:31 GMT | How to Automate All Recon for Finding Bugs Easily - Part 1 | Vipul Sonule | [Read More](https://medium.com/p/88a419606512) |
 | Fri, 11 Jul 2025 17:35:32 GMT | Fileless DPAPI Credential Extraction With PowerShell | Tom O'Neill | [Read More](https://medium.com/p/c9952c136463) |
 | Fri, 11 Jul 2025 17:27:39 GMT | ️ Scanning Beyond Firewalls and IDS — 7 Practical Evasion Techniques Every Ethical Hacker Must… | Rajkumar Kumawat | [Read More](https://medium.com/p/5ecab6ac79c7) |
 | Fri, 11 Jul 2025 17:22:23 GMT | ️ Cyber-Bullying Kills: The Invisible Harm of Harsh Words | AscentPhenix | [Read More](https://medium.com/p/88f7734750ce) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 13:18:32 GMT | How I Harden My Linux Server in 30 Minutes After Every Fresh Install (Ubuntu & Red Hat) | Faruk Ahmed | [Read More](https://medium.com/p/7c92c8e5c12b) |
 | Fri, 11 Jul 2025 13:14:53 GMT | OWASP Top 10: SOC Analyst Breakdown for Real-World Defense | Dhruvish Rathod | [Read More](https://medium.com/p/1174d3302164) |
 | Fri, 11 Jul 2025 13:06:56 GMT | Try CleanMyMac: The All-In-One Assistant That Makes Your Mac 10x Faster | Nikhil Vemu | [Read More](https://medium.com/p/c9bd6c2da440) |
-| Fri, 11 Jul 2025 13:05:32 GMT | 9xFlix 2025: Why Millions Use It to Watch Free Hindi Dubbed Movies Online | Syed Fahyeaq Ahmed | [Read More](https://medium.com/p/c275a0590ef9) |
-| Fri, 11 Jul 2025 13:03:06 GMT | PicoCTF 2022: Inspect Html — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/5f896bed92cb) |
-| Fri, 11 Jul 2025 13:02:13 GMT | Background of Study | Covenant O.B. | [Read More](https://medium.com/p/fb67e99c2bd2) |
-| Fri, 11 Jul 2025 12:52:40 GMT | My AI Partner Helped Me Crack Final Cut Pro — Here’s What It Taught Me About AI Ethics | Daham Nimnada | [Read More](https://medium.com/p/77189cc855aa) |
-| Fri, 11 Jul 2025 12:46:36 GMT | Bypassing Meta’s Llama Firewall: A Case Study in Prompt Injection Vulnerabilities | sockpuppets | [Read More](https://medium.com/p/fb552b93412b) |
-| Fri, 11 Jul 2025 12:46:15 GMT | When the Rain Reminds You of Who You Really Are | Adrian | [Read More](https://medium.com/p/a07be2530651) |
-| Fri, 11 Jul 2025 12:45:04 GMT | Maintaining Trust: The Case for Hybrid Security (AI) Models | Milos | [Read More](https://medium.com/p/240fe01fef13) |
-| Fri, 11 Jul 2025 12:33:46 GMT | New “PerfektBlue” Bluetooth vulnerability Let Attackers Run Remote Code on Mercedes, VW & Škoda… | Ekene Joseph | [Read More](https://medium.com/p/7b4648e024fc) |
-| Fri, 11 Jul 2025 12:32:55 GMT | Bank Reconciliation Software: What It Is and Why It Matters | Kosh AI | [Read More](https://medium.com/p/9366fb959647) |
-| Fri, 11 Jul 2025 12:26:01 GMT | As someone who works at the intersection of AI and cybersecurity, I’ve come to see how critical it… | Cloud4C Services | [Read More](https://medium.com/p/8ca326952dfd) |
-| Fri, 11 Jul 2025 12:25:07 GMT | PerfektBlue: The Covert Penetration Testing Ally You’ve Been Overlooking | Ekene Joseph | [Read More](https://medium.com/p/33a7b2bee4e3) |
-| Fri, 11 Jul 2025 12:23:42 GMT | The Art and Science of PCB Design: Bridging Concepts to Reality | Grace Wanja | [Read More](https://medium.com/p/b5847cee75b1) |
-| Fri, 11 Jul 2025 12:21:56 GMT | How I Escalated Simple HTML Injection to SSRF via PDF Rendering | Ahmed Tarek | [Read More](https://medium.com/p/682ea94b3194) |
-| Fri, 11 Jul 2025 12:17:17 GMT | ActiveScan++: Supercharging Burp suite Scanner for Advanced Vulnerability Assessment | Zino jo | [Read More](https://medium.com/p/48bb54336738) |
-| Fri, 11 Jul 2025 12:16:58 GMT | Elevate Your Cybersecurity Career with CISSP Certification at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/fa9f1f9a62a5) |
-| Fri, 11 Jul 2025 12:16:09 GMT | File Upload Vulnerabilities Part-6 : Remote code execution via polyglot web shell upload | Ahmad Sopyan | [Read More](https://medium.com/p/1b5d66a3a207) |
-| Fri, 11 Jul 2025 12:13:38 GMT | Top 5 Phishing Simulation Tools to Train Your Employees Like Cyber Ninjas (2025 Guide) | Elie Attieh | [Read More](https://medium.com/p/9609f2d84403) |
-| Fri, 11 Jul 2025 12:12:55 GMT | How I Accessed an Admin Dashboard in 5 Minutes (Without Brute Force) | Ibtissam hammadi | [Read More](https://medium.com/p/a776a737f74a) |
-| Fri, 11 Jul 2025 12:12:14 GMT | A Deep Dive into a Real Threat | Riad Moudjahed | [Read More](https://medium.com/p/736305a1083e) |
