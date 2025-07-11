@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 01:46:59 GMT | From Informative To Medium (6.5) | Muhammad Wageh | [Read More](https://medium.com/p/e19bec7cf23d) |
+| Fri, 11 Jul 2025 01:46:46 GMT | Evil-GPT v2: Write-Up | A Learner | [Read More](https://medium.com/p/7931b5d2a161) |
+| Fri, 11 Jul 2025 01:36:50 GMT | The Brutal Beauty of Starting Cybersecurity With Nothing | Abraham Eleojo Salifu | [Read More](https://medium.com/p/48b845458148) |
+| Fri, 11 Jul 2025 01:19:10 GMT | AI Agents Are Sitting Ducks for Attackers. | TechVest Blueprint | [Read More](https://medium.com/p/d7be3890917d) |
+| Fri, 11 Jul 2025 01:04:17 GMT | Operational Resilience: Quick Primer | Erik Lacson | [Read More](https://medium.com/p/f291d33c16e9) |
+| Fri, 11 Jul 2025 01:03:21 GMT | PortSwigger Lab: Cross-site WebSocket hijacking writeup (Websockets) | awes0meness | [Read More](https://medium.com/p/1429ee272ac8) |
+| Fri, 11 Jul 2025 00:59:56 GMT | The Email I Wasn’t Supposed to Get — A Cybersecurity Awareness Lesson | DarKVoicE | [Read More](https://medium.com/p/8898bde3b1e6) |
+| Fri, 11 Jul 2025 00:57:47 GMT | PortSwigger Lab: Manipulating the WebSocket handshake to exploit vulnerabilities writeup… | awes0meness | [Read More](https://medium.com/p/2609813a8d7b) |
+| Fri, 11 Jul 2025 00:53:48 GMT | PortSwigger Lab: Manipulating WebSocket messages to exploit vulnerabilities writeup (Websockets) | awes0meness | [Read More](https://medium.com/p/5f328f260f63) |
+| Fri, 11 Jul 2025 00:44:27 GMT | How to become a “HACKER” | Omar Shraideh | [Read More](https://medium.com/p/da1c2b3bfee8) |
+| Fri, 11 Jul 2025 00:18:02 GMT | Inside the Adversary’s Mindset: The #1 Skill Missing From Most Cyber Defenders | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/dac6bbf25ed2) |
+| Fri, 11 Jul 2025 00:15:59 GMT | Your best choices for secure and fast DNS (Domain Name Servers) | Lynne Calvert | [Read More](https://medium.com/p/30f4343c832e) |
+| Fri, 11 Jul 2025 00:07:21 GMT | McDonald’s Australia Data Breach via AI Chatbot ‘Olivia’: A Cybersecurity Breakdown | Sayan Raha | [Read More](https://medium.com/p/b9a1fdc2b795) |
+| Fri, 11 Jul 2025 00:01:44 GMT | Cryptographic Failures: La Guía Definitiva para Hacking, Bug Bounty y Seguridad Web | JPablo13 | [Read More](https://medium.com/p/63a705f8af9f) |
 | Thu, 10 Jul 2025 23:31:43 GMT | Cloud-Native Application Protection Platform By Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/1f9ced556489) |
 | Thu, 10 Jul 2025 23:31:02 GMT | If a Real Cyberattack Strikes, Could My Company Actually Handle It? | Hiroki Honjo | [Read More](https://medium.com/p/1e7adc63131e) |
 | Thu, 10 Jul 2025 23:16:38 GMT | I walked into a Fortune 500 HQ … No one stopped me. | JD Brooks | [Read More](https://medium.com/p/7dc447ead75d) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 16:54:05 GMT | How to BUGS Yield Farming on StakingRewards for Maximum Yield | Bugs Bunny | [Read More](https://medium.com/p/997a910fd6dd) |
 | Thu, 10 Jul 2025 16:51:42 GMT | FireEye Fallout Part I: Tip of the Iceberg | Kalpitha S | [Read More](https://medium.com/p/671bc6e9f32a) |
 | Thu, 10 Jul 2025 16:51:42 GMT | New Mac malware discovered in the wild: XCSSET | Kalpitha S | [Read More](https://medium.com/p/a1dcecdc6759) |
-| Thu, 10 Jul 2025 16:51:41 GMT | Apple’s First Malware Notarized - DefenseArk | Kalpitha S | [Read More](https://medium.com/p/f2224a937fc7) |
-| Thu, 10 Jul 2025 16:51:41 GMT | FireEye Fallout Part II: The Plot Thickens | Kalpitha S | [Read More](https://medium.com/p/9d8b08090250) |
-| Thu, 10 Jul 2025 16:48:59 GMT | ISO/IEC 27001 — The Gold Standard for Information Security | Muhasinahamed | [Read More](https://medium.com/p/869517ffdbaa) |
-| Thu, 10 Jul 2025 16:47:58 GMT | Hacking the greedy and curious. | TerriL | [Read More](https://medium.com/p/bdb7840192e0) |
-| Thu, 10 Jul 2025 16:45:52 GMT | CSPSub: Extract subdomains from CSP Headers | AbhirupKonwar | [Read More](https://medium.com/p/4d0772f43603) |
-| Thu, 10 Jul 2025 16:45:19 GMT | Google Cloud DLP — A Practitioner’s Guide to Securing Sensitive Data | Sachin Sharma - Lead DevOps Engineer | [Read More](https://medium.com/p/bcb5e74e6d4f) |
-| Thu, 10 Jul 2025 16:45:06 GMT | SNORT - TryHackMe —Network Security & Traffic Analysis | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/768d52ccecb0) |
-| Thu, 10 Jul 2025 16:42:14 GMT | Building Fine-Grained Data Security: Classification and Anonymisation on Databricks | Salena Ketpueak | [Read More](https://medium.com/p/4744f8448fde) |
-| Thu, 10 Jul 2025 16:41:39 GMT | 7 Powerful Ways Data Analytics Drives Business Decision Making | Techridge Solutions | [Read More](https://medium.com/p/ef1633a8e24f) |
-| Thu, 10 Jul 2025 16:38:00 GMT | Whose AI Is Safer? Why China’s Rules Are Forcing the West to Look in the Mirror | Miriam Sauter | [Read More](https://medium.com/p/bdfa7fd6e76d) |
-| Thu, 10 Jul 2025 16:37:32 GMT | Red Teaming vs Penetration Testing: Mana yang Lebih Keren? | 0xbyalak | [Read More](https://medium.com/p/8a1b620c1054) |
-| Thu, 10 Jul 2025 16:36:26 GMT | The Cache Poisoning Game — Hijack the Middle, Rule the Flow | Đeepanshu | [Read More](https://medium.com/p/34b3ee40357a) |
-| Thu, 10 Jul 2025 16:34:07 GMT | My Metodologi Bug Bounty | LunarX | [Read More](https://medium.com/p/805841e39a03) |
-| Thu, 10 Jul 2025 16:33:06 GMT | Logout… pero ¿realmente saliste? | Gorka | [Read More](https://medium.com/p/8b2ddac15a06) |
