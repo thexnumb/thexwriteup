@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 17:02:01 GMT | So, I Decided to Pentest Amazon’s Echo Dot —  Here’s What I Found | C. Oscar Lawshea | [Read More](https://medium.com/p/0f4b5d3455e6) |
 | Fri, 11 Jul 2025 16:44:59 GMT | This is How you Break Websites — The Ultimate start to Roadmap | err0rgod | [Read More](https://medium.com/p/e92236e99a73) |
 | Fri, 11 Jul 2025 16:34:30 GMT | DAY 2: Fired Up and Locked In | Akshatdwivedi | [Read More](https://medium.com/p/639c564ed774) |
 | Fri, 11 Jul 2025 16:32:40 GMT | Cybersecurity Breach: What It Is, How It Happens, and How to Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/413738ef2a5d) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 12:01:41 GMT | Burp Suite as a Vulnerability Assessment Tool: A Must-Have for Ethical Hackers | Mr Joe | [Read More](https://medium.com/p/bc6f61df5cbb) |
 | Fri, 11 Jul 2025 11:56:04 GMT | Malicious Chrome Extensions Bypass Google’s Security Systems | Karl Buhl | [Read More](https://medium.com/p/6967979ea1ee) |
 | Fri, 11 Jul 2025 11:55:44 GMT | Securing AWS: The Role of Penetration Testing and Best Practices | Redfox Security | [Read More](https://medium.com/p/4e61a4292a79) |
-| Fri, 11 Jul 2025 11:54:07 GMT | ️ BlueTeamGPT: The AI Defender Revolutionizing Blue Team Operations | Mohammed Gabic | [Read More](https://medium.com/p/1838bcb65c04) |
