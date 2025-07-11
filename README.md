@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 22:12:21 GMT | LINUX CHALLENGE (DAY 5) | FromHumanities-Hacker | [Read More](https://medium.com/p/636f140e3123) |
+| Fri, 11 Jul 2025 22:06:35 GMT | Linux Basics for Ethical Hackers: Mastering the Command Line to Hack Like a Pro | Santhosh Adiga U | [Read More](https://medium.com/p/b5992c4d5c91) |
+| Fri, 11 Jul 2025 22:00:00 GMT | The Silent Killer: How Phishing Attacks Are Destroying Small Businesses (And Why Most Don’t See It… | Bee H. | [Read More](https://medium.com/p/f455516892d0) |
+| Fri, 11 Jul 2025 21:58:25 GMT | 2025 U.S. DoD’s Cyber Sentinel Competition CTF | Felicia Palafox | [Read More](https://medium.com/p/26ea3f076e43) |
 | Fri, 11 Jul 2025 21:32:43 GMT | When AI Lies: Understanding “Hallucinations” and Why VeriEdit Matters | Prince Esien | [Read More](https://medium.com/p/024a7bc766eb) |
 | Fri, 11 Jul 2025 21:23:01 GMT | too much to hold, nowhere to put it down. | dita. | [Read More](https://medium.com/p/2d058edb6fa6) |
 | Fri, 11 Jul 2025 21:18:25 GMT | AWS Misconfigurations: How You Can Earn $10,000+ Bounties by Hacking the Cloud the Right Way | Santhosh Adiga U | [Read More](https://medium.com/p/e80d8e651d13) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 14:59:10 GMT | “should India have a separate law for cyberbullying?” | Sandeep Pandi | [Read More](https://medium.com/p/166c09831494) |
 | Fri, 11 Jul 2025 14:57:33 GMT | Security Engineer Starter Guide: Security Operations | Ryan G. Cox | [Read More](https://medium.com/p/44c062804a53) |
 | Fri, 11 Jul 2025 14:56:33 GMT | [Hack The Box CTF] Cat Write-Up | fnwn | [Read More](https://medium.com/p/23600f36ac2d) |
-| Fri, 11 Jul 2025 14:51:35 GMT | Password Attacks for Beginners — Cracking Logins Using Burp Suite | Mr Joe | [Read More](https://medium.com/p/35ac1bbec514) |
-| Fri, 11 Jul 2025 14:32:57 GMT | ‍ SQL Injection (SQLi) for Beginners — Using Burp Suite to Exploit Database Flaws | Mr Joe | [Read More](https://medium.com/p/224b92fcdb4b) |
-| Fri, 11 Jul 2025 14:29:06 GMT | From URL to Server’s secrets: Path Traversal Vulnerability | Rabia Riaz | [Read More](https://medium.com/p/df78f5978949) |
-| Fri, 11 Jul 2025 14:26:47 GMT | What is the CIA triad? | Kavithayeravothula | [Read More](https://medium.com/p/328b6c7213c9) |
