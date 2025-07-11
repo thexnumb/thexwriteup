@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 16:22:33 GMT | Top 3 tools for Bug Bounty/Pentesting (2025) | Appsec.pt | [Read More](https://medium.com/p/c8f8373b3e82) |
+| Fri, 11 Jul 2025 16:20:24 GMT | PC WORX: The Hidden Risk in Your Industrial Network | Azim Uddin | [Read More](https://medium.com/p/afbb8dc23cff) |
+| Fri, 11 Jul 2025 16:20:22 GMT | Network Defense Certifications | Aaron DeJong | [Read More](https://medium.com/p/5394fe3438c0) |
+| Fri, 11 Jul 2025 16:15:30 GMT | Building a Simple Java Port Scanner to Learn Networking | Nirma Nethmini | [Read More](https://medium.com/p/d7d0495224bf) |
+| Fri, 11 Jul 2025 16:14:22 GMT | Breach Fatigue is Real — But Ignoring Cybersecurity Will Cost You the Company | Travis Ray Caverhill | [Read More](https://medium.com/p/649b9c9c964f) |
+| Fri, 11 Jul 2025 16:12:27 GMT | Tracking MFA Denials Followed by Successful Logins Using KQL in Sentinel | Saimanish | [Read More](https://medium.com/p/753cc3f21f53) |
+| Fri, 11 Jul 2025 16:11:01 GMT | How to Get Into Cybersecurity in 2025 — A Practical Guide from a Security Expert | Zino jo | [Read More](https://medium.com/p/73064c764ffb) |
+| Fri, 11 Jul 2025 16:06:16 GMT | Penetration Testing vs Vulnerability Assessments | James F Bowers II | [Read More](https://medium.com/p/72be45f553ac) |
+| Fri, 11 Jul 2025 16:01:48 GMT | Automotive Cybersecurity: The Good, the Bad, and the Ugly | Spokeo People Search | [Read More](https://medium.com/p/d0b136261a67) |
+| Fri, 11 Jul 2025 15:57:30 GMT | Scaling Fast in the Cloud? Don’t Let Security Be Your Blind Spot | Donald Betancourt | [Read More](https://medium.com/p/fb186625a2d2) |
+| Fri, 11 Jul 2025 15:54:35 GMT | How Bluetooth Vulnerabilities Are Putting Smart Cars at Serious Risk | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/aae4dcdf1bf6) |
+| Fri, 11 Jul 2025 15:52:03 GMT | Have I Been Happy? | Akshat Singh | [Read More](https://medium.com/p/895c615a842e) |
+| Fri, 11 Jul 2025 15:50:22 GMT | The Power of Fireflies | Mollie Lyon | [Read More](https://medium.com/p/c46a51d36952) |
+| Fri, 11 Jul 2025 15:47:51 GMT | The Money Reckoning 7: Fierce vulnerability to reckon with capitalism — and thrive together | Julia S | [Read More](https://medium.com/p/b552db260b90) |
+| Fri, 11 Jul 2025 15:46:45 GMT | When Firebase Ghosted Me — and Cookies Were to Blame | Ali Behsoodi | [Read More](https://medium.com/p/0ebc9cc50cc2) |
+| Fri, 11 Jul 2025 15:45:45 GMT | Learning Kubernetes Security | Raul Lapaz | [Read More](https://medium.com/p/2cb906ad8037) |
+| Fri, 11 Jul 2025 15:39:54 GMT | How to Test SafeLine WAF Against OWASP Top 10 — Without Installing It | Maverick Steel | [Read More](https://medium.com/p/7646c9cdabcc) |
 | Fri, 11 Jul 2025 15:39:29 GMT | Week 4—Learning Basic Concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/bac604938cb7) |
 | Fri, 11 Jul 2025 15:34:50 GMT | Hide and Seek - -TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/e00e21208a03) |
+| Fri, 11 Jul 2025 15:32:05 GMT | McHire Data Breach: What Happened and How Gitleaks Could Have Helped Prevent It | Sandesh Gaonkar | [Read More](https://medium.com/p/de94d667dcba) |
 | Fri, 11 Jul 2025 15:31:00 GMT | TryHackMe: Exploit Vulnerabilities (Practical: Manual Exploitation) | Babatunde Ojo | [Read More](https://medium.com/p/2194cc13afac) |
 | Fri, 11 Jul 2025 15:20:34 GMT | Shadow IT: The Hidden Cybersecurity Risks Your Organisation Doesn’t Know It Has | Richard Dosumu | [Read More](https://medium.com/p/e7f67f0e6c23) |
 | Fri, 11 Jul 2025 15:17:57 GMT | Future Trends in Cloud Services & Best Practices for Security | Anderson Smith | [Read More](https://medium.com/p/5a8f17bac04e) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 11:39:12 GMT | Naoris Protocol and Level One Robotics Partner to Secure the Future of Industrial Automation | Naoris Protocol | [Read More](https://medium.com/p/95fd3fd0c1b2) |
 | Fri, 11 Jul 2025 11:38:53 GMT | How I Helped a Startup Avoid a $50,000 Breach — Lessons from the Front Lines of Ethical Hacking | Muhammad Rashid Mughal | [Read More](https://medium.com/p/773e4789ba79) |
 | Fri, 11 Jul 2025 11:37:59 GMT | Step-by-Step: How to Whitelist a Website in Windows & macOS | Vantage MDM | [Read More](https://medium.com/p/06a14196a51b) |
-| Fri, 11 Jul 2025 11:37:00 GMT | From Jio Mobile to NASA HOF: My Unconventional Path into Cybersecurity | Sidhartha | [Read More](https://medium.com/p/32463b64c941) |
-| Fri, 11 Jul 2025 11:36:49 GMT | THM — Attacktive Directory [Walkthrough] | Karan Chaudhary | [Read More](https://medium.com/p/d52da91fb923) |
-| Fri, 11 Jul 2025 11:34:09 GMT | Security For AI | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/0f287bbcaebf) |
-| Fri, 11 Jul 2025 11:32:57 GMT | Information is Power: Reconnaissance Explained for Aspiring Ethical Hackers | Diyajat | [Read More](https://medium.com/p/fbe6a9814e07) |
-| Fri, 11 Jul 2025 11:28:07 GMT | Why Startups and Enterprises Alike Need Application Security Testing | SmartCLOUD Australia | [Read More](https://medium.com/p/a509a3b4868f) |
-| Fri, 11 Jul 2025 11:25:48 GMT | Defensive AI | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/2f651f2c772f) |
-| Fri, 11 Jul 2025 11:25:27 GMT | FedRAMP vs. CMMC: How They Compare and Why It Matters | Brittney Ginther | [Read More](https://medium.com/p/33fa1d1a79a4) |
-| Fri, 11 Jul 2025 11:24:55 GMT | AssessFirst Chronicles — On the road to ISO 27001: Internal Audits (episode 7) | Rebecca Cottignies | [Read More](https://medium.com/p/1eb90917087f) |
-| Fri, 11 Jul 2025 11:15:35 GMT | Ministry of Electronics and Information Technology | Stavrou Robert | [Read More](https://medium.com/p/a88de3d8f5e8) |
-| Fri, 11 Jul 2025 11:14:09 GMT | The Rust Ownership Revolution: Why Every Programmer Needs to Understand This | Sreeved Vp | [Read More](https://medium.com/p/28325e12dcf9) |
-| Fri, 11 Jul 2025 11:10:46 GMT | How to Practice Ethical Hacking Legally (Without Getting in Trouble) | The Quiet Hacker | [Read More](https://medium.com/p/b8701df4ee7f) |
-| Fri, 11 Jul 2025 11:07:29 GMT | Vulnerabilities in AI Models | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/c64c6f814710) |
-| Fri, 11 Jul 2025 11:06:57 GMT | From AI to Cybersecurity: What You’ll Learn in a BS in Computer Science | Mymathews Eduportal | [Read More](https://medium.com/p/ad5b07905b97) |
-| Fri, 11 Jul 2025 11:05:56 GMT | Crypto Security, Hacks & Best Practices | Aimeric Monkey D. | [Read More](https://medium.com/p/101820a9dbcf) |
-| Fri, 11 Jul 2025 10:56:13 GMT | Episode 1 — “What Even Is Cybersecurity?” | VI | [Read More](https://medium.com/p/b0739bd52f71) |
-| Fri, 11 Jul 2025 10:55:22 GMT | The Role of Informatics Hubs in Advancing Digital Healthcare | Theinformaticshub | [Read More](https://medium.com/p/3dbb2b345e28) |
-| Fri, 11 Jul 2025 10:54:35 GMT | DAY 11— Chapter 5: FILE AND DIRECTORY PERMISSIONS | Jinay | [Read More](https://medium.com/p/a56f62fe880a) |
-| Fri, 11 Jul 2025 10:51:14 GMT | The Curious Case of a “Bug” in SQLite (That Was Actually My Fault) | Samuel Owino | [Read More](https://medium.com/p/90f127d4e72d) |
