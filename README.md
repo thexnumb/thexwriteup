@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 07:14:30 GMT | SOC 2 Audit Survival: 21 Tips Before the Auditor Knocks | SecureSlate | [Read More](https://medium.com/p/db8ed29a56f9) |
+| Fri, 11 Jul 2025 07:13:24 GMT | XSS at Duke University - No Reply | AbhirupKonwar | [Read More](https://medium.com/p/82765eb3d844) |
+| Fri, 11 Jul 2025 07:08:22 GMT | Git Happens: When .git Folders Revealed the Whole Damn Backend | Iski | [Read More](https://medium.com/p/b181b77c4c76) |
+| Fri, 11 Jul 2025 07:06:29 GMT | My Dog Stopped Moving — And I Finally Admitted What I Was Hiding | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/5f25c95d0f9d) |
+| Fri, 11 Jul 2025 07:04:24 GMT | Who needs cloud transformation security services? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/12045caa5e9b) |
+| Fri, 11 Jul 2025 07:00:53 GMT | Neden Desecure? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/969e43b52624) |
+| Fri, 11 Jul 2025 06:57:47 GMT | How a Young Talent Changed Microsoft’s Rules: The Impressive Achievement of 13-Year-Old Dylan | Alper Konuralp | [Read More](https://medium.com/p/1d5fe67c463a) |
+| Fri, 11 Jul 2025 06:57:22 GMT | Queue Management Solved: Video Analytics Streamlines Service in Omani Stores | Tekhabeeb | [Read More](https://medium.com/p/be2e4251bf6f) |
+| Fri, 11 Jul 2025 06:56:04 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/716c7c353b46) |
+| Fri, 11 Jul 2025 06:53:01 GMT | Hawat (PG Practice): From SQL Injection to Root | Nail Gozalov | [Read More](https://medium.com/p/c038942b48ad) |
+| Fri, 11 Jul 2025 06:50:07 GMT | Titanic — HTB | 14mj4ck | [Read More](https://medium.com/p/db7bba84cb14) |
+| Fri, 11 Jul 2025 06:50:01 GMT | Earn Good Money via PayPal cashapp Bank western Union Zelle Transfer and Cloned Cards Atm cvv vbv… | Gonzalezablerta | [Read More](https://medium.com/p/598877833f81) |
+| Fri, 11 Jul 2025 06:48:02 GMT | The Disappearing Human Touch: Are We Automating Empathy Out of Our Lives? | Mr Vale | [Read More](https://medium.com/p/ad0200592b31) |
+| Fri, 11 Jul 2025 06:46:24 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/572dabed3469) |
+| Fri, 11 Jul 2025 06:44:48 GMT | How to Identify IAM Policy and CloudFormation Misconfigurations in AWS | Aravind S V | [Read More](https://medium.com/p/6fcbb2bac6b3) |
+| Fri, 11 Jul 2025 06:44:19 GMT | Fighting Terror Together: How Effective is ASEAN’s Regional Counterterrorism Strategy? | Dan Marshall-Singh | [Read More](https://medium.com/p/b3e4b45218dc) |
+| Fri, 11 Jul 2025 06:36:43 GMT | From AppSec to Red Team: My CRTP Journey and the Ultimate Beginner Guide | Hrishikesh Bhavar | [Read More](https://medium.com/p/af7731c87ddf) |
+| Fri, 11 Jul 2025 06:36:15 GMT | When Regex Goes Rogue: Exploiting ReDoS in the Wild | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e81cc9814d26) |
+| Fri, 11 Jul 2025 06:35:46 GMT | Zero-Width Characters: The Invisible Threat Hiding in Plain Sight | Narendar Battula (nArEn) | [Read More](https://medium.com/p/92f384e31716) |
+| Fri, 11 Jul 2025 06:35:16 GMT | The Invisible Hack: Homograph Attacks You Won’t See Coming | Narendar Battula (nArEn) | [Read More](https://medium.com/p/254ffc2d9931) |
 | Fri, 11 Jul 2025 06:15:30 GMT | The MGM Resorts Cyberattack: When Identity Becomes the Weakest Link | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/65d0b1daba52) |
 | Fri, 11 Jul 2025 06:15:28 GMT | “At some point you stop counting them”: the lesson I learned after finding 30+ CVEs | fluffyc3rb3rus | [Read More](https://medium.com/p/a99813d9f905) |
 | Fri, 11 Jul 2025 06:06:31 GMT | How Malicious Android Apps Can Impersonate Yours Using Deep Links | Frankheat | [Read More](https://medium.com/p/8eac7f245aaf) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 22:11:19 GMT | SOC Purple Team Lab: Laolu Owoeye | Laolu | [Read More](https://medium.com/p/c7ae0bb90fd5) |
 | Thu, 10 Jul 2025 22:10:28 GMT | Beyond CVE: Crafting a Comprehensive Vulnerability Intelligence Strategy for Modern Security Teams | Deepak Gupta | [Read More](https://medium.com/p/2a98275cca18) |
 | Thu, 10 Jul 2025 21:52:24 GMT | API Rate Limiting Bypass Leading to Unlimited Access to Premium Features in explorer.globe.engineer | X-3306 | [Read More](https://medium.com/p/63583dd08f07) |
-| Thu, 10 Jul 2025 21:43:01 GMT | How I Discovered a Critical CORS Misconfiguration in a Bug Bounty Target — And What Happened Next | UnStoppable | [Read More](https://medium.com/p/6bc5e5ee1e14) |
-| Thu, 10 Jul 2025 21:36:19 GMT | Shadow Controls: The Hidden Risks Lurking in Every Department | Ravi Sharma | [Read More](https://medium.com/p/12af2c546e10) |
-| Thu, 10 Jul 2025 21:27:53 GMT | Cyber Threat briefing : From Stealer to Backdoor, The Evolving Danger of Atomic macOS Malware | Syukron Rushadi | [Read More](https://medium.com/p/efab364997c2) |
-| Thu, 10 Jul 2025 21:17:54 GMT | Brainstorm writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/09a8421b1abb) |
-| Thu, 10 Jul 2025 21:17:12 GMT | Researchers Jailbreak AI by Flooding It With Bullshit Jargon | ASAcrew Blog | [Read More](https://medium.com/p/4c0f6853667e) |
-| Thu, 10 Jul 2025 21:14:55 GMT | CIA — Insight of my Learning | Hasib Shanto | [Read More](https://medium.com/p/89f9c22aae62) |
-| Thu, 10 Jul 2025 21:13:15 GMT | 5 Unforced Errors in the Ticketmaster Breach | SecureForesight Labs | [Read More](https://medium.com/p/7a87823d0079) |
-| Thu, 10 Jul 2025 21:08:39 GMT | CER directive: Resilience for “everything but cyber” | Sarah Fluchs | [Read More](https://medium.com/p/472889b98a9f) |
-| Thu, 10 Jul 2025 21:03:33 GMT | How FTP Exposes Your Data — a Wireshark Demo. | Cyrus Mutua | [Read More](https://medium.com/p/9e01f99eb492) |
-| Thu, 10 Jul 2025 21:00:03 GMT | Day 46: IP addresses | Nile Okomo | [Read More](https://medium.com/p/2f4aafe4b92b) |
-| Thu, 10 Jul 2025 20:58:58 GMT | HIRE AN EXPERT TO GET BACK LOST/STOLEN BITCOIN, USDT & USDC. | Padovan Burrows | [Read More](https://medium.com/p/c9da5d5d0e7c) |
-| Thu, 10 Jul 2025 20:56:37 GMT | Denial of Service (DoS) Attack — The Cyberbully That Won’t Let You In | Thomas Angela | [Read More](https://medium.com/p/877e2d99cb53) |
-| Thu, 10 Jul 2025 20:52:25 GMT | Strategic Paralysis by Design: Part III — Infrastructure as a Soft Target — Western Exposure and… | Chris Clark | [Read More](https://medium.com/p/887812e74f1c) |
-| Thu, 10 Jul 2025 20:52:07 GMT | Strategic Paralysis by Design: Pt II — Ukraine as the Canary in the Coal Mine | Chris Clark | [Read More](https://medium.com/p/430105c6d0d3) |
-| Thu, 10 Jul 2025 20:46:47 GMT | Zip Slip → Arbitrary File Write Exploit | Cybersecplayground | [Read More](https://medium.com/p/b4c8d235cb4a) |
-| Thu, 10 Jul 2025 20:38:08 GMT | Key Concepts to Start in Malware Development: Processes, Memory, and Evasion | S12 - 0x12Dark Development | [Read More](https://medium.com/p/03d10fbf3dae) |
-| Thu, 10 Jul 2025 20:34:41 GMT | When to Hire Armed Security Guards: A Guide for Small and Large Businesses! | Pinnacle Security Guards | [Read More](https://medium.com/p/23ec9a13b71e) |
-| Thu, 10 Jul 2025 20:25:17 GMT | Dishwashing and Code | Jukka Paulin | [Read More](https://medium.com/p/763c3ab591fd) |
-| Thu, 10 Jul 2025 20:12:57 GMT | Sorry for the Silence… But I’ve Got Something Cooking! | Satyam Pathania | [Read More](https://medium.com/p/de4ff80ec1e0) |
-| Thu, 10 Jul 2025 20:01:45 GMT | Part 3: Cybersecurity in Web3 — The Code is Law (and exploitable) DeFi Exploits & Audits | Ben San Roman | [Read More](https://medium.com/p/5058d5ee65c2) |
