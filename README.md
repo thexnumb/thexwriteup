@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 10:44:58 GMT | Legacy Vulnerabilities and Espionage Operations Dominate the Week | Loginsoft | [Read More](https://medium.com/p/4d766f642780) |
+| Fri, 11 Jul 2025 10:43:51 GMT | Broken Link Hijacking : Comment exploiter les liens oubliés pour infiltrer des applications web | Myriam Abouda | [Read More](https://medium.com/p/c062322209ee) |
+| Fri, 11 Jul 2025 10:37:56 GMT | How We Organize People Says Everything About Us | EXLITY | [Read More](https://medium.com/p/9b53db5dc15b) |
+| Fri, 11 Jul 2025 10:37:37 GMT | For the Housekeeping & Security Community | EXLITY | [Read More](https://medium.com/p/be734c24e651) |
+| Fri, 11 Jul 2025 10:34:37 GMT | What’s Possible vs. What’s Required — The Exlity Lens (Housekeeping & Security) | EXLITY | [Read More](https://medium.com/p/f89ace8c3ae6) |
+| Fri, 11 Jul 2025 10:32:27 GMT | Cambiar la contraseña… y que el atacante siga dentro | Gorka | [Read More](https://medium.com/p/46ad9c37d537) |
+| Fri, 11 Jul 2025 10:26:32 GMT | Smart Home, Smarter Security: Flashing Cameras with Open-Source Thingino Firmware | Abdelwahed AJ | [Read More](https://medium.com/p/b4851358c4a8) |
+| Fri, 11 Jul 2025 10:20:05 GMT | How I Built a Multi-Layered Defense System for My Website with AWS WAF & Shield | AashishChaudhari | [Read More](https://medium.com/p/13647b9b78ce) |
 | Fri, 11 Jul 2025 10:13:26 GMT | CYBER SECURITY COURSE | Dineshathul | [Read More](https://medium.com/p/c398a25b4b80) |
 | Fri, 11 Jul 2025 10:12:19 GMT | For the Love I Haven’t Met Yet | Carolyn Kanjala | [Read More](https://medium.com/p/b700535c68b1) |
 | Fri, 11 Jul 2025 10:11:03 GMT | PortSwigger Lab — Path Traversal | k1dd0sz | [Read More](https://medium.com/p/176dec73a8a9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 05:11:51 GMT | Security-as-a-Service: A Game Changer for Modern Software Teams | Secure My ORG | [Read More](https://medium.com/p/a1825c69acf1) |
 | Fri, 11 Jul 2025 05:11:07 GMT | Soft Rage | notawriter | [Read More](https://medium.com/p/857b400591ca) |
 | Fri, 11 Jul 2025 05:00:56 GMT | Secure File Uploads in Java: From Multipart to Magic Bytes | Mr_Jeet_24 | [Read More](https://medium.com/p/40281e5e6b0e) |
-| Fri, 11 Jul 2025 04:59:02 GMT | How McDonald’s AI Hiring Bot Exposed 64 Million Job Seekers With Password “123456” | MKWriteshere | [Read More](https://medium.com/p/e6c3ec0844a6) |
-| Fri, 11 Jul 2025 04:58:56 GMT | Authentication and Authorization in .NET APIs | Karthikeyan NS | [Read More](https://medium.com/p/7991824d537a) |
-| Fri, 11 Jul 2025 04:53:47 GMT | The Linux Security Journey — Disable Kernel Modules | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0bd20e881675) |
-| Fri, 11 Jul 2025 04:47:09 GMT | Critical mcp-remote Vulnerability Enables Remote Code Execution — Impacts Over 437,000 Downloads | Darshan | [Read More](https://medium.com/p/8e5885109438) |
-| Fri, 11 Jul 2025 04:31:49 GMT | Part 5: The Velvet Rope — Dynamic Authorization with SSO Groups | Rohit Mittel | [Read More](https://medium.com/p/5a428f1e415d) |
-| Fri, 11 Jul 2025 04:27:33 GMT | CTF Day(27) | Ahmed Narmer | [Read More](https://medium.com/p/1e6bb61eb835) |
-| Fri, 11 Jul 2025 04:24:04 GMT | “From Ping to Malware: How ICMP Becomes a Silent Backdoor” | Shashank N | [Read More](https://medium.com/p/ef105ce3ced8) |
-| Fri, 11 Jul 2025 04:15:32 GMT | Unveiling Uruguay’s Digital Underbelly | ADanielHill | [Read More](https://medium.com/p/53cb5b9e524e) |
