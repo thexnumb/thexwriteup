@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 07:38:27 GMT | Splunk: Data Manipulation | Peta Pavan | [Read More](https://medium.com/p/c2a2e5250f39) |
+| Fri, 11 Jul 2025 07:38:19 GMT | Top 10 Mobile Application Security Testing Tools in 2025 | cyber security Updates | [Read More](https://medium.com/p/1335124d62cf) |
+| Fri, 11 Jul 2025 07:36:08 GMT | SafeLine WAF Automation: Real-World Security Ops Example (Case 1) | Quella | [Read More](https://medium.com/p/267b76e23907) |
+| Fri, 11 Jul 2025 07:33:11 GMT | How SOAR Improves Threat Detection and Response Times | Matin Shaikh | [Read More](https://medium.com/p/0cc4792eb1fa) |
+| Fri, 11 Jul 2025 07:23:39 GMT | How secure is your cloud transformation today? | Ziya Zoe | [Read More](https://medium.com/p/29e2575310d7) |
+| Fri, 11 Jul 2025 07:23:27 GMT | Grok 4 Just Dropped — And It’s a Beast | Aaron | [Read More](https://medium.com/p/e4e8c54861a0) |
+| Fri, 11 Jul 2025 07:21:48 GMT | 5 Essential Duties Every Security Guard Must Perform | Sentrysofficers | [Read More](https://medium.com/p/e355dd1e2d5f) |
+| Fri, 11 Jul 2025 07:21:44 GMT | Cybersecurity Basics Every Nigerian Should Know | BGIT Nigeria | [Read More](https://medium.com/p/256fb31ee809) |
+| Fri, 11 Jul 2025 07:21:02 GMT | Why Running ldd on Untrusted Executables is a Security Risk | Aung Nanda Oo | [Read More](https://medium.com/p/5e5cef653b3a) |
+| Fri, 11 Jul 2025 07:17:02 GMT | Why Selecting the Suitable Penetration Testing Company in India is Important | Aarav Mehta | [Read More](https://medium.com/p/8d0a3698422b) |
 | Fri, 11 Jul 2025 07:14:30 GMT | SOC 2 Audit Survival: 21 Tips Before the Auditor Knocks | SecureSlate | [Read More](https://medium.com/p/db8ed29a56f9) |
 | Fri, 11 Jul 2025 07:13:24 GMT | XSS at Duke University - No Reply | AbhirupKonwar | [Read More](https://medium.com/p/82765eb3d844) |
 | Fri, 11 Jul 2025 07:08:22 GMT | Git Happens: When .git Folders Revealed the Whole Damn Backend | Iski | [Read More](https://medium.com/p/b181b77c4c76) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 23:09:21 GMT | They Didn’t Break In — They Logged In: How 5 Major Retailers Were Breached Without Malware | Cyber-AppSec | [Read More](https://medium.com/p/dcb2b8677bd8) |
 | Thu, 10 Jul 2025 23:04:49 GMT | Critical IDOR Chain — Edit Any User’s Role, Activate/Deactivate Accounts, and Escalate Privileges | B0d4 | [Read More](https://medium.com/p/12637b0f2485) |
 | Thu, 10 Jul 2025 22:48:41 GMT | CYAN-Review | marianita_cloud | [Read More](https://medium.com/p/4cfd736a0b83) |
-| Thu, 10 Jul 2025 22:44:47 GMT | Hacking a Solution: Building an AI Content Agent the Pentester’s Way | Ugo Ramos (Ugo) | [Read More](https://medium.com/p/d902aaff2d44) |
-| Thu, 10 Jul 2025 22:44:17 GMT | What is Cybersecurity? A Beginner’s Guide | B. N. Hamisi | [Read More](https://medium.com/p/775102c17832) |
-| Thu, 10 Jul 2025 22:41:37 GMT | EN - Adversarial Risk in Modern NLP Systems: LLM-Focused Threat and Attack Tactics — Part 1 | Alican Kiraz | [Read More](https://medium.com/p/e8785e67527c) |
-| Thu, 10 Jul 2025 22:40:31 GMT | How Do You Share Something You Can’t Yet Name? | Will2Endure | [Read More](https://medium.com/p/c49ec28483f0) |
-| Thu, 10 Jul 2025 22:36:04 GMT | Deep Diligence #1 Tokenized Equity | Zach Zukowski | [Read More](https://medium.com/p/220f4ef522c5) |
-| Thu, 10 Jul 2025 22:31:42 GMT | JURASSIC PARK WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/83b1a7201802) |
-| Thu, 10 Jul 2025 22:16:53 GMT | Securing Kubernetes: A Step-by-Step Hardening Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a81e465b9a28) |
-| Thu, 10 Jul 2025 22:11:19 GMT | SOC Purple Team Lab: Laolu Owoeye | Laolu | [Read More](https://medium.com/p/c7ae0bb90fd5) |
-| Thu, 10 Jul 2025 22:10:28 GMT | Beyond CVE: Crafting a Comprehensive Vulnerability Intelligence Strategy for Modern Security Teams | Deepak Gupta | [Read More](https://medium.com/p/2a98275cca18) |
-| Thu, 10 Jul 2025 21:52:24 GMT | API Rate Limiting Bypass Leading to Unlimited Access to Premium Features in explorer.globe.engineer | X-3306 | [Read More](https://medium.com/p/63583dd08f07) |
