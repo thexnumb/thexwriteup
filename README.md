@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 10:13:26 GMT | CYBER SECURITY COURSE | Dineshathul | [Read More](https://medium.com/p/c398a25b4b80) |
+| Fri, 11 Jul 2025 10:12:19 GMT | For the Love I Haven’t Met Yet | Carolyn Kanjala | [Read More](https://medium.com/p/b700535c68b1) |
+| Fri, 11 Jul 2025 10:11:03 GMT | PortSwigger Lab — Path Traversal | k1dd0sz | [Read More](https://medium.com/p/176dec73a8a9) |
+| Fri, 11 Jul 2025 10:10:50 GMT | Stack Overflow Protections | Aditya Bhos | [Read More](https://medium.com/p/5a4fcdff7f8d) |
+| Fri, 11 Jul 2025 10:01:36 GMT | “I Trusted You.” | 0xbrijith | [Read More](https://medium.com/p/ced2488f5b73) |
+| Fri, 11 Jul 2025 10:01:23 GMT | Gamify Your Cyber-Hygiene: 6 Mini-Quests to Level-Up Your Security Stats | Franziska "Ziska" Fink | [Read More](https://medium.com/p/cb56bbd21125) |
+| Fri, 11 Jul 2025 09:51:00 GMT | Deep dive SIEM(SEC555) Part 2 | Bit_Picker | [Read More](https://medium.com/p/ba29504f1268) |
 | Fri, 11 Jul 2025 09:39:36 GMT | Power Grid ICS Are Exposed — What Does This Mean for Critical Infrastructure? | ZoomEye | [Read More](https://medium.com/p/d8fdd96feef2) |
 | Fri, 11 Jul 2025 09:24:11 GMT | Which One’s Your Perfect Fit: Elastic Stack vs Splunk vs Wazuh | Maharkk | [Read More](https://medium.com/p/97f1b601a01a) |
 | Fri, 11 Jul 2025 09:21:04 GMT | How to Get Your First Bug Bounty Payout (Fast): 5 Proven Tips for Web3 Hunters | Stupid Contract | [Read More](https://medium.com/p/299a468cd1fc) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 04:27:33 GMT | CTF Day(27) | Ahmed Narmer | [Read More](https://medium.com/p/1e6bb61eb835) |
 | Fri, 11 Jul 2025 04:24:04 GMT | “From Ping to Malware: How ICMP Becomes a Silent Backdoor” | Shashank N | [Read More](https://medium.com/p/ef105ce3ced8) |
 | Fri, 11 Jul 2025 04:15:32 GMT | Unveiling Uruguay’s Digital Underbelly | ADanielHill | [Read More](https://medium.com/p/53cb5b9e524e) |
-| Fri, 11 Jul 2025 04:12:54 GMT | How to Secure Your Django App: Top 10 Common Mistakes to Avoid | Gulsaba Fiha | [Read More](https://medium.com/p/878f02d5cdd6) |
-| Fri, 11 Jul 2025 04:12:37 GMT | Beyond the Stack: How Go8 Designs Solutions with People First | Go8 Technology Inc. | [Read More](https://medium.com/p/66558ae52429) |
-| Fri, 11 Jul 2025 04:00:48 GMT | Linux Reboot Commands Explained: A Practical Guide | Quella | [Read More](https://medium.com/p/4990365b64a6) |
-| Fri, 11 Jul 2025 03:57:40 GMT | Why You Should Stop Using psql -W to Enter Your PostgreSQL Password | Basant C. | [Read More](https://medium.com/p/db57cb4825fb) |
-| Fri, 11 Jul 2025 03:48:37 GMT | Why the FOFA dorking is so important | Levi Ackerman | [Read More](https://medium.com/p/cdfc510ac976) |
-| Fri, 11 Jul 2025 03:44:50 GMT | Building Security Rules with Palo Alto Networks Predefined EDL (Blacklist) | Damon Lin | [Read More](https://medium.com/p/5668aad62951) |
-| Fri, 11 Jul 2025 03:41:13 GMT | Campaign Analysis: Multi-stage delivery of Agent Tesla | Suprim Devkota | [Read More](https://medium.com/p/7396e8d35666) |
