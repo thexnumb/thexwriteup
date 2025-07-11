@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 03:01:45 GMT | Brazil’s Hidden Nuclear Past: From Secret Amazon Tunnels to Lula’s Silent Standoff with the IAEA | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/a3586de5dcde) |
+| Fri, 11 Jul 2025 02:48:05 GMT | OpenSSH RCE Vulnerability (CVE-2024–6387): What You Need to Know | AerieWhole123 | [Read More](https://medium.com/p/f1b0d6b56308) |
+| Fri, 11 Jul 2025 02:37:00 GMT | FBI Sounds Alarm As Airline Cyber Threats Escalate | Darshan | [Read More](https://medium.com/p/9efefa4cd3dc) |
+| Fri, 11 Jul 2025 02:19:17 GMT | Git Scanner : A Journey Through the Wild West of Exposed Git Repositories | jpe1e | [Read More](https://medium.com/p/f7d070073cef) |
+| Fri, 11 Jul 2025 02:17:29 GMT | $17M Drained: Axie Co-Founder, Abracadabra, Goledo, and Citadel Exploited | Olympix | [Read More](https://medium.com/p/cb6613c6e170) |
+| Fri, 11 Jul 2025 02:14:23 GMT | What is the Salesforce API Access Control feature and why is it very good for security? | Doug Merrett | [Read More](https://medium.com/p/dd527174b92e) |
+| Fri, 11 Jul 2025 02:10:15 GMT | OSCP Prep: BASHED | Dino | [Read More](https://medium.com/p/d659caef01c2) |
+| Fri, 11 Jul 2025 02:09:26 GMT | Strategic Paralysis by Design: Part IV — The Human Firewall is Broken — Cyber Workforce Gaps as a… | Chris Clark | [Read More](https://medium.com/p/1b5dce80870e) |
+| Fri, 11 Jul 2025 02:05:02 GMT | ️ Building an Incident Response Plan for DDoS Attacks | Paritosh | [Read More](https://medium.com/p/0e2f93db8e12) |
+| Fri, 11 Jul 2025 02:01:23 GMT | Seamless Image Uploads with Next.js, Server Actions, and Cloudflare R2 | JealousDev | [Read More](https://medium.com/p/41d23a202760) |
+| Fri, 11 Jul 2025 02:01:09 GMT | Os maníacos do IOC atacam novamente. | Thiago | [Read More](https://medium.com/p/ad27023c3c83) |
+| Fri, 11 Jul 2025 02:01:04 GMT | Hidden Truth Why Identity Management Is Not Easy | Dmytro Khmelenko | [Read More](https://medium.com/p/2a2a96d0cc8c) |
+| Fri, 11 Jul 2025 01:56:40 GMT | A Shadow from the Stars: The Space Force, Reagan’s Vision, McKinnon’s Revelations, Corso’s Secrets… | Oliviero Mannucci | [Read More](https://medium.com/p/3d936e7999db) |
+| Fri, 11 Jul 2025 01:53:12 GMT | Viral Posts: The Good and the Bad | Savvy Cyber Kids | [Read More](https://medium.com/p/fc70c65bcde7) |
+| Fri, 11 Jul 2025 01:52:53 GMT | What is ChatGPT and What Are Its Effects on Privacy? | Savvy Cyber Kids | [Read More](https://medium.com/p/f90f83757128) |
 | Fri, 11 Jul 2025 01:46:59 GMT | From Informative To Medium (6.5) | Muhammad Wageh | [Read More](https://medium.com/p/e19bec7cf23d) |
 | Fri, 11 Jul 2025 01:46:46 GMT | Evil-GPT v2: Write-Up | A Learner | [Read More](https://medium.com/p/7931b5d2a161) |
 | Fri, 11 Jul 2025 01:36:50 GMT | The Brutal Beauty of Starting Cybersecurity With Nothing | Abraham Eleojo Salifu | [Read More](https://medium.com/p/48b845458148) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 17:34:04 GMT | So You Wanna Get Into Cybersecurity? Here’s Where to Start (No Jargon Needed) | Prerana Madhira | [Read More](https://medium.com/p/08f4756bc906) |
 | Thu, 10 Jul 2025 17:33:03 GMT | Claudia Rincón Pérez - Gestión de proyectos IT: Metodologías ágiles vs tradicionales | Claudia Rincón Pérez | [Read More](https://medium.com/p/d68e8d91b5d0) |
 | Thu, 10 Jul 2025 17:21:26 GMT | Ashes and Ascent: Day 0 of Beginning Cybersecurity | Akshatdwivedi | [Read More](https://medium.com/p/6a29e9375ab3) |
-| Thu, 10 Jul 2025 17:20:48 GMT | Building a Python-Powered, AI-Enabled SOC Playbook | Kaatib Yusuf | [Read More](https://medium.com/p/813e9c6d4b8c) |
-| Thu, 10 Jul 2025 17:14:18 GMT | New Scam Enables Attackers to Access Accounts Without Knowing Passwords | Zack Calloway | [Read More](https://medium.com/p/ee90f537a585) |
-| Thu, 10 Jul 2025 17:11:12 GMT | Spy Apps to Monitor Your Employees: Easily Track Remote Workers | Narjis Batool | [Read More](https://medium.com/p/ec2417c75e7f) |
-| Thu, 10 Jul 2025 17:09:28 GMT | Developing a Hacker’s Mindset: Mental Training for Cybersecurity | Mr Horbio | [Read More](https://medium.com/p/94b2e9915417) |
-| Thu, 10 Jul 2025 17:08:19 GMT | Build Your First Hardware Hacking Tools with ESP8266(WiFi Attacks) | Mohamed Adel | [Read More](https://medium.com/p/3187780bd7a4) |
-| Thu, 10 Jul 2025 17:06:35 GMT | TryHackMe Injectics (Medium) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/a710af04b442) |
-| Thu, 10 Jul 2025 17:03:38 GMT | A Flaw in sudo Strikes Again — Privilege Escalation via chroot and nsswitch | Aaron | [Read More](https://medium.com/p/278eb9ca2fdc) |
-| Thu, 10 Jul 2025 16:57:08 GMT | WFH: The Double Edged Sword ⚔ | Kalpitha S | [Read More](https://medium.com/p/e67b1194ff44) |
-| Thu, 10 Jul 2025 16:57:08 GMT | DefenseArk #ThreatIntelThursday - Viruses | Kalpitha S | [Read More](https://medium.com/p/eba9cc749a07) |
-| Thu, 10 Jul 2025 16:57:08 GMT | DefenseArk #ThreatIntelThursday - APTs | Kalpitha S | [Read More](https://medium.com/p/da113e8995c4) |
-| Thu, 10 Jul 2025 16:57:08 GMT | DefenseArk #ThreatIntelThursday - Malware | Kalpitha S | [Read More](https://medium.com/p/e86e499fc081) |
-| Thu, 10 Jul 2025 16:55:44 GMT | ContAInment - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/2c73ed17b23e) |
-| Thu, 10 Jul 2025 16:54:05 GMT | How to BUGS Yield Farming on StakingRewards for Maximum Yield | Bugs Bunny | [Read More](https://medium.com/p/997a910fd6dd) |
-| Thu, 10 Jul 2025 16:51:42 GMT | FireEye Fallout Part I: Tip of the Iceberg | Kalpitha S | [Read More](https://medium.com/p/671bc6e9f32a) |
-| Thu, 10 Jul 2025 16:51:42 GMT | New Mac malware discovered in the wild: XCSSET | Kalpitha S | [Read More](https://medium.com/p/a1dcecdc6759) |
