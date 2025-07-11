@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 05:39:48 GMT | How Risk-Based Authentication Enhances User Experience Without Compromising Security | Gargiben | [Read More](https://medium.com/p/78ee34d993b7) |
+| Fri, 11 Jul 2025 05:34:33 GMT | Docker Registry Hacking via Dorking | AbhirupKonwar | [Read More](https://medium.com/p/d27093c236e8) |
 | Fri, 11 Jul 2025 05:19:05 GMT | Your Smart Home is Spying on You: 3 Privacy Fixes That Work | Aj | [Read More](https://medium.com/p/6a5c0b0abcc1) |
+| Fri, 11 Jul 2025 05:17:40 GMT | The Corix Partners Friday Reading List — July 11, 2025 | JC Gaillard | [Read More](https://medium.com/p/9e09d3af7252) |
+| Fri, 11 Jul 2025 05:11:51 GMT | Security-as-a-Service: A Game Changer for Modern Software Teams | Secure My ORG | [Read More](https://medium.com/p/a1825c69acf1) |
 | Fri, 11 Jul 2025 05:11:07 GMT | Soft Rage | notawriter | [Read More](https://medium.com/p/857b400591ca) |
 | Fri, 11 Jul 2025 05:00:56 GMT | Secure File Uploads in Java: From Multipart to Magic Bytes | Mr_Jeet_24 | [Read More](https://medium.com/p/40281e5e6b0e) |
 | Fri, 11 Jul 2025 04:59:02 GMT | How McDonald’s AI Hiring Bot Exposed 64 Million Job Seekers With Password “123456” | MKWriteshere | [Read More](https://medium.com/p/e6c3ec0844a6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 18:58:38 GMT | 10 Web Development Security Best Practices Saving Your From The Collapse | Alexei Falco | [Read More](https://medium.com/p/292a02c41d27) |
 | Thu, 10 Jul 2025 18:57:58 GMT | MSP Cybersecurity: Why Managed Service Providers Are Key to Business Protection | SafeAeon Inc. | [Read More](https://medium.com/p/58c718584e4f) |
 | Thu, 10 Jul 2025 18:54:24 GMT | Arch Linux Isn’t Scary — You Just Have to Configure Everything | Tonny Blair | [Read More](https://medium.com/p/0e95a789efe5) |
-| Thu, 10 Jul 2025 18:31:35 GMT | Broken but Beautiful: Vulnerability, Shame, and Reclaiming Our Worth | Jessica Nowachek | [Read More](https://medium.com/p/b8a6157f88b1) |
-| Thu, 10 Jul 2025 18:31:32 GMT | Zero-Click Account Takeover on a U.S. Government Website | Ali Saadi | [Read More](https://medium.com/p/0ab0168dc47e) |
-| Thu, 10 Jul 2025 18:29:49 GMT | Build Your First Hardware Hacking Tools with ESP8266(WiFi Attacks) | Mohamed Adel | [Read More](https://medium.com/p/950c26b6f4f7) |
-| Thu, 10 Jul 2025 18:28:12 GMT | Beyond the IDE: A Production-Ready Pattern for Secure Agent Tool Integration | Ken Wiltshire | [Read More](https://medium.com/p/a23fa5a65d5f) |
