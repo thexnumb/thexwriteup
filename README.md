@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 11:15:35 GMT | Ministry of Electronics and Information Technology | Stavrou Robert | [Read More](https://medium.com/p/a88de3d8f5e8) |
+| Fri, 11 Jul 2025 11:14:09 GMT | The Rust Ownership Revolution: Why Every Programmer Needs to Understand This | Sreeved Vp | [Read More](https://medium.com/p/28325e12dcf9) |
+| Fri, 11 Jul 2025 11:10:46 GMT | How to Practice Ethical Hacking Legally (Without Getting in Trouble) | The Quiet Hacker | [Read More](https://medium.com/p/b8701df4ee7f) |
+| Fri, 11 Jul 2025 11:07:29 GMT | Vulnerabilities in AI Models | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/c64c6f814710) |
+| Fri, 11 Jul 2025 11:06:57 GMT | From AI to Cybersecurity: What You’ll Learn in a BS in Computer Science | Mymathews Eduportal | [Read More](https://medium.com/p/ad5b07905b97) |
+| Fri, 11 Jul 2025 11:05:56 GMT | Crypto Security, Hacks & Best Practices | Aimeric Monkey D. | [Read More](https://medium.com/p/101820a9dbcf) |
+| Fri, 11 Jul 2025 10:56:13 GMT | Episode 1 — “What Even Is Cybersecurity?” | VI | [Read More](https://medium.com/p/b0739bd52f71) |
+| Fri, 11 Jul 2025 10:55:22 GMT | The Role of Informatics Hubs in Advancing Digital Healthcare | Theinformaticshub | [Read More](https://medium.com/p/3dbb2b345e28) |
+| Fri, 11 Jul 2025 10:54:35 GMT | DAY 11— Chapter 5: FILE AND DIRECTORY PERMISSIONS | Jinay | [Read More](https://medium.com/p/a56f62fe880a) |
+| Fri, 11 Jul 2025 10:51:14 GMT | The Curious Case of a “Bug” in SQLite (That Was Actually My Fault) | Samuel Owino | [Read More](https://medium.com/p/90f127d4e72d) |
+| Fri, 11 Jul 2025 10:47:43 GMT | Streamline Your Workforce: Modern Time Attendance for Oman | Tekhabeeb | [Read More](https://medium.com/p/af474d1dc1b8) |
 | Fri, 11 Jul 2025 10:44:58 GMT | Legacy Vulnerabilities and Espionage Operations Dominate the Week | Loginsoft | [Read More](https://medium.com/p/4d766f642780) |
 | Fri, 11 Jul 2025 10:43:51 GMT | Broken Link Hijacking : Comment exploiter les liens oubliés pour infiltrer des applications web | Myriam Abouda | [Read More](https://medium.com/p/c062322209ee) |
 | Fri, 11 Jul 2025 10:37:56 GMT | How We Organize People Says Everything About Us | EXLITY | [Read More](https://medium.com/p/9b53db5dc15b) |
@@ -20,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 10:32:27 GMT | Cambiar la contraseña… y que el atacante siga dentro | Gorka | [Read More](https://medium.com/p/46ad9c37d537) |
 | Fri, 11 Jul 2025 10:26:32 GMT | Smart Home, Smarter Security: Flashing Cameras with Open-Source Thingino Firmware | Abdelwahed AJ | [Read More](https://medium.com/p/b4851358c4a8) |
 | Fri, 11 Jul 2025 10:20:05 GMT | How I Built a Multi-Layered Defense System for My Website with AWS WAF & Shield | AashishChaudhari | [Read More](https://medium.com/p/13647b9b78ce) |
+| Fri, 11 Jul 2025 10:14:53 GMT | 2025面試升級：AI時代的應試筆記 | Theo Huang | [Read More](https://medium.com/p/a16fa1e00322) |
 | Fri, 11 Jul 2025 10:13:26 GMT | CYBER SECURITY COURSE | Dineshathul | [Read More](https://medium.com/p/c398a25b4b80) |
 | Fri, 11 Jul 2025 10:12:19 GMT | For the Love I Haven’t Met Yet | Carolyn Kanjala | [Read More](https://medium.com/p/b700535c68b1) |
 | Fri, 11 Jul 2025 10:11:03 GMT | PortSwigger Lab — Path Traversal | k1dd0sz | [Read More](https://medium.com/p/176dec73a8a9) |
@@ -81,6 +93,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 07:00:53 GMT | Neden Desecure? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/969e43b52624) |
 | Fri, 11 Jul 2025 06:57:47 GMT | How a Young Talent Changed Microsoft’s Rules: The Impressive Achievement of 13-Year-Old Dylan | Alper Konuralp | [Read More](https://medium.com/p/1d5fe67c463a) |
 | Fri, 11 Jul 2025 06:57:22 GMT | Queue Management Solved: Video Analytics Streamlines Service in Omani Stores | Tekhabeeb | [Read More](https://medium.com/p/be2e4251bf6f) |
+| Fri, 11 Jul 2025 06:56:18 GMT | Genç Yetenek Microsoft’un Kurallarını Nasıl Değiştirdi: 13 Yaşındaki Dylan’ın Etkileyici Başarısı | Alper Konuralp | [Read More](https://medium.com/p/182aae556bb0) |
 | Fri, 11 Jul 2025 06:56:04 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/716c7c353b46) |
 | Fri, 11 Jul 2025 06:53:01 GMT | Hawat (PG Practice): From SQL Injection to Root | Nail Gozalov | [Read More](https://medium.com/p/c038942b48ad) |
 | Fri, 11 Jul 2025 06:50:07 GMT | Titanic — HTB | 14mj4ck | [Read More](https://medium.com/p/db7bba84cb14) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 06:05:28 GMT | [Bug Bounty] Inside the Triager’s Mind: What They Actually Look For | Andrei Ivan | [Read More](https://medium.com/p/534c520ab4d7) |
 | Fri, 11 Jul 2025 06:02:54 GMT | Today’s Top Cyber Intelligence Highlights — Jul 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/13a76e521ca7) |
 | Fri, 11 Jul 2025 06:02:28 GMT | ContAInment TryHackme Walkthrough | GauthamV | [Read More](https://medium.com/p/7670ee175d6a) |
-| Fri, 11 Jul 2025 05:59:20 GMT | Starting OSCP at 16 | Chad Annapora | [Read More](https://medium.com/p/8ec1eadd93f0) |
-| Fri, 11 Jul 2025 05:55:03 GMT | Dedicated Server for SaaS Startups: How to Choose the Right One? | HostNOC | [Read More](https://medium.com/p/34278df80a7e) |
-| Fri, 11 Jul 2025 05:51:43 GMT | Exploiting PowerShell: A Technical Review of Unpatched Attack Vectors | The Aegis Security | [Read More](https://medium.com/p/b4c4606db260) |
-| Fri, 11 Jul 2025 05:50:41 GMT | TryHackMe Industrial CTF Competition — Forensic Challenge | Muhammad Ahsan Ijaz | [Read More](https://medium.com/p/5ab8eaa31e34) |
-| Fri, 11 Jul 2025 05:47:12 GMT | India’s Trusted Private Safety Deposit Lockers — Biometric, Secure, Accessible | Mysafe India - Safe Deposit Box Service​ | [Read More](https://medium.com/p/d76afb40ac99) |
-| Fri, 11 Jul 2025 05:47:00 GMT | Are Your Passwords as Safe as You Think? | QNu Labs | [Read More](https://medium.com/p/2c20b5668d5d) |
-| Fri, 11 Jul 2025 05:39:48 GMT | How Risk-Based Authentication Enhances User Experience Without Compromising Security | Gargiben | [Read More](https://medium.com/p/78ee34d993b7) |
-| Fri, 11 Jul 2025 05:34:33 GMT | Docker Registry Hacking via Dorking | AbhirupKonwar | [Read More](https://medium.com/p/d27093c236e8) |
-| Fri, 11 Jul 2025 05:19:05 GMT | Your Smart Home is Spying on You: 3 Privacy Fixes That Work | Aj | [Read More](https://medium.com/p/6a5c0b0abcc1) |
-| Fri, 11 Jul 2025 05:17:40 GMT | The Corix Partners Friday Reading List — July 11, 2025 | JC Gaillard | [Read More](https://medium.com/p/9e09d3af7252) |
-| Fri, 11 Jul 2025 05:11:51 GMT | Security-as-a-Service: A Game Changer for Modern Software Teams | Secure My ORG | [Read More](https://medium.com/p/a1825c69acf1) |
-| Fri, 11 Jul 2025 05:11:07 GMT | Soft Rage | notawriter | [Read More](https://medium.com/p/857b400591ca) |
-| Fri, 11 Jul 2025 05:00:56 GMT | Secure File Uploads in Java: From Multipart to Magic Bytes | Mr_Jeet_24 | [Read More](https://medium.com/p/40281e5e6b0e) |
