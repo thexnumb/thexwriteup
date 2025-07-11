@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 04:27:33 GMT | CTF Day(27) | Ahmed Narmer | [Read More](https://medium.com/p/1e6bb61eb835) |
+| Fri, 11 Jul 2025 04:24:04 GMT | “From Ping to Malware: How ICMP Becomes a Silent Backdoor” | Shashank N | [Read More](https://medium.com/p/ef105ce3ced8) |
+| Fri, 11 Jul 2025 04:15:32 GMT | Unveiling Uruguay’s Digital Underbelly | ADanielHill | [Read More](https://medium.com/p/53cb5b9e524e) |
+| Fri, 11 Jul 2025 04:12:54 GMT | How to Secure Your Django App: Top 10 Common Mistakes to Avoid | Gulsaba Fiha | [Read More](https://medium.com/p/878f02d5cdd6) |
+| Fri, 11 Jul 2025 04:12:37 GMT | Beyond the Stack: How Go8 Designs Solutions with People First | Go8 Technology Inc. | [Read More](https://medium.com/p/66558ae52429) |
+| Fri, 11 Jul 2025 04:00:48 GMT | Linux Reboot Commands Explained: A Practical Guide | Quella | [Read More](https://medium.com/p/4990365b64a6) |
+| Fri, 11 Jul 2025 03:57:40 GMT | Why You Should Stop Using psql -W to Enter Your PostgreSQL Password | Basant C. | [Read More](https://medium.com/p/db57cb4825fb) |
+| Fri, 11 Jul 2025 03:48:37 GMT | Why the FOFA dorking is so important | Levi Ackerman | [Read More](https://medium.com/p/cdfc510ac976) |
+| Fri, 11 Jul 2025 03:44:50 GMT | Building Security Rules with Palo Alto Networks Predefined EDL (Blacklist) | Damon Lin | [Read More](https://medium.com/p/5668aad62951) |
+| Fri, 11 Jul 2025 03:41:13 GMT | Campaign Analysis: Multi-stage delivery of Agent Tesla | Suprim Devkota | [Read More](https://medium.com/p/7396e8d35666) |
+| Fri, 11 Jul 2025 03:26:54 GMT | Why Are You Even Networking? | Timsux Wales | [Read More](https://medium.com/p/549a2929f612) |
 | Fri, 11 Jul 2025 03:01:45 GMT | Brazil’s Hidden Nuclear Past: From Secret Amazon Tunnels to Lula’s Silent Standoff with the IAEA | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/a3586de5dcde) |
 | Fri, 11 Jul 2025 02:48:05 GMT | OpenSSH RCE Vulnerability (CVE-2024–6387): What You Need to Know | AerieWhole123 | [Read More](https://medium.com/p/f1b0d6b56308) |
 | Fri, 11 Jul 2025 02:37:00 GMT | FBI Sounds Alarm As Airline Cyber Threats Escalate | Darshan | [Read More](https://medium.com/p/9efefa4cd3dc) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 18:06:25 GMT | The Art of Credential Management | Ed-it Editions | [Read More](https://medium.com/p/762c3522f34a) |
 | Thu, 10 Jul 2025 18:03:30 GMT | DAY 1: Onwards and Upwards | Akshatdwivedi | [Read More](https://medium.com/p/04bd85d1f2a8) |
 | Thu, 10 Jul 2025 18:03:29 GMT | Disadvantages of AI in Cybersecurity: What You Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/8976629b3e8e) |
-| Thu, 10 Jul 2025 18:01:38 GMT | What Is BitChat? Jack Dorsey’s New Offline Decentralized Messaging App | Ceo Defender | [Read More](https://medium.com/p/cdfa6f210599) |
-| Thu, 10 Jul 2025 18:00:13 GMT | Instead of Reading Resumes, Let’s Call AI a Problem, Then Buy AI to Help. | Tyler | [Read More](https://medium.com/p/0af831e6844a) |
-| Thu, 10 Jul 2025 17:57:23 GMT | Mind Games: “The Spy Tradecraft They Don’t Put in The Movies”(Part 2) | Ghost | [Read More](https://medium.com/p/7bc4b560c51c) |
-| Thu, 10 Jul 2025 17:48:58 GMT | OSINT Automation LAB For Beginners | M Sameer Malik | [Read More](https://medium.com/p/c307dd0112f6) |
-| Thu, 10 Jul 2025 17:43:02 GMT | Privilege Escalation via Response Manipulation | HBlack Ghost | [Read More](https://medium.com/p/1bdb829c8748) |
-| Thu, 10 Jul 2025 17:37:36 GMT | Best Practices for DevOps Automation: 5 Daily Habits That Save Me 3 Hours (And Prevent 90% of… | AbdulRahman Mostafa | [Read More](https://medium.com/p/ae02f975b229) |
-| Thu, 10 Jul 2025 17:37:10 GMT | The AI Revolution: Insights, Risks, and the Future | Navin Sharma | [Read More](https://medium.com/p/370e9b0740e0) |
-| Thu, 10 Jul 2025 17:37:01 GMT | How to become Cyber security specialist? | Dziugas John Vaisvila | [Read More](https://medium.com/p/f2341b025945) |
-| Thu, 10 Jul 2025 17:34:04 GMT | So You Wanna Get Into Cybersecurity? Here’s Where to Start (No Jargon Needed) | Prerana Madhira | [Read More](https://medium.com/p/08f4756bc906) |
-| Thu, 10 Jul 2025 17:33:03 GMT | Claudia Rincón Pérez - Gestión de proyectos IT: Metodologías ágiles vs tradicionales | Claudia Rincón Pérez | [Read More](https://medium.com/p/d68e8d91b5d0) |
-| Thu, 10 Jul 2025 17:21:26 GMT | Ashes and Ascent: Day 0 of Beginning Cybersecurity | Akshatdwivedi | [Read More](https://medium.com/p/6a29e9375ab3) |
