@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 09:39:36 GMT | Power Grid ICS Are Exposed — What Does This Mean for Critical Infrastructure? | ZoomEye | [Read More](https://medium.com/p/d8fdd96feef2) |
+| Fri, 11 Jul 2025 09:24:11 GMT | Which One’s Your Perfect Fit: Elastic Stack vs Splunk vs Wazuh | Maharkk | [Read More](https://medium.com/p/97f1b601a01a) |
+| Fri, 11 Jul 2025 09:21:04 GMT | How to Get Your First Bug Bounty Payout (Fast): 5 Proven Tips for Web3 Hunters | Stupid Contract | [Read More](https://medium.com/p/299a468cd1fc) |
+| Fri, 11 Jul 2025 09:21:04 GMT | SIEM Lab: Look Into Wazuh Dashboard and Agent Deployment | Stevanus Banu | [Read More](https://medium.com/p/af1c2aae11dd) |
 | Fri, 11 Jul 2025 09:12:41 GMT | From Users to Root: File Auditing for Privilege Escalation | Kushwanth R | [Read More](https://medium.com/p/2b91b0d2a7d6) |
 | Fri, 11 Jul 2025 09:03:34 GMT | Evil-GPT v2 Tryhackme writeup | GauthamV | [Read More](https://medium.com/p/98e00827bac3) |
 | Fri, 11 Jul 2025 09:02:34 GMT | Sitecore 10.4.1 Released — Smarter, Safer, Faster  Release Date: June 25, 2025 | Aman Cpwar | [Read More](https://medium.com/p/1fe970792f54) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 03:48:37 GMT | Why the FOFA dorking is so important | Levi Ackerman | [Read More](https://medium.com/p/cdfc510ac976) |
 | Fri, 11 Jul 2025 03:44:50 GMT | Building Security Rules with Palo Alto Networks Predefined EDL (Blacklist) | Damon Lin | [Read More](https://medium.com/p/5668aad62951) |
 | Fri, 11 Jul 2025 03:41:13 GMT | Campaign Analysis: Multi-stage delivery of Agent Tesla | Suprim Devkota | [Read More](https://medium.com/p/7396e8d35666) |
-| Fri, 11 Jul 2025 03:26:54 GMT | Why Are You Even Networking? | Timsux Wales | [Read More](https://medium.com/p/549a2929f612) |
-| Fri, 11 Jul 2025 03:01:45 GMT | Brazil’s Hidden Nuclear Past: From Secret Amazon Tunnels to Lula’s Silent Standoff with the IAEA | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/a3586de5dcde) |
-| Fri, 11 Jul 2025 02:48:05 GMT | OpenSSH RCE Vulnerability (CVE-2024–6387): What You Need to Know | AerieWhole123 | [Read More](https://medium.com/p/f1b0d6b56308) |
-| Fri, 11 Jul 2025 02:37:00 GMT | FBI Sounds Alarm As Airline Cyber Threats Escalate | Darshan | [Read More](https://medium.com/p/9efefa4cd3dc) |
