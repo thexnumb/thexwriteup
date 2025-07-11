@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 08:27:15 GMT | Step-By-Step DFIR-IRIS Installation | Enitan Ogungbade | [Read More](https://medium.com/p/dc04726fcba5) |
+| Fri, 11 Jul 2025 08:26:20 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/f0fb780b4405) |
+| Fri, 11 Jul 2025 08:22:52 GMT | Deploying SafeLine WAF on Kubernetes: A Beginner-Friendly Guide | AerieWhole123 | [Read More](https://medium.com/p/9c974dad086f) |
+| Fri, 11 Jul 2025 08:19:47 GMT | Windows Threat Detection 1 - -TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/186f8209c968) |
+| Fri, 11 Jul 2025 08:18:30 GMT | AI Image for Post Cover | MITRE Doggy | [Read More](https://medium.com/p/2847a74a5552) |
+| Fri, 11 Jul 2025 08:18:01 GMT | Test Management in der Digitalen Transformation: Ihr strategischer Roadmap für 2025 (mit… | Philip Hansen | [Read More](https://medium.com/p/0cfc25fe9c6f) |
+| Fri, 11 Jul 2025 08:17:58 GMT | Digital Maturity Revolution 2025: Warum 76% der deutschen Unternehmen ihre Transformation verfehlen… | Philip Hansen | [Read More](https://medium.com/p/d33069b46be4) |
+| Fri, 11 Jul 2025 08:10:27 GMT | Day #15: Incident Response Basics Investigating a Suspicious Network Connection (Linux) | Rishavkumarthapa | [Read More](https://medium.com/p/525632af13bc) |
+| Fri, 11 Jul 2025 08:10:04 GMT | PicoCTF: Easy Insp3ct0r for dummies | Doquanglong | [Read More](https://medium.com/p/d0fba5573ccf) |
+| Fri, 11 Jul 2025 08:07:26 GMT | Is it better to speak, or to die? | curiouscaty | [Read More](https://medium.com/p/8494848a03f2) |
+| Fri, 11 Jul 2025 07:59:26 GMT | Protecting Your LinkedIn Account: Lessons from My Hacking Experience | Emmanuel Umo | [Read More](https://medium.com/p/651d9fdd2e0b) |
+| Fri, 11 Jul 2025 07:57:15 GMT | Cyber Hunt Writeup | Ethicalhck | [Read More](https://medium.com/p/411e17ad5650) |
+| Fri, 11 Jul 2025 07:49:47 GMT | Platform Showdown: The Ultimate Guide to Choosing Your Bug Bounty Platform in 2025 | Andrei Ivan | [Read More](https://medium.com/p/64ea085ae800) |
+| Fri, 11 Jul 2025 07:49:23 GMT | Cybercrime: How to Lodge a Complaint Online in India? | Mayankthapa | [Read More](https://medium.com/p/8e854a7f8f8a) |
+| Fri, 11 Jul 2025 07:46:55 GMT | Building Your Web3 Security Stack: Essential Tools Every Developer Needs | Mohamedajguernoun | [Read More](https://medium.com/p/e0dd6e561107) |
+| Fri, 11 Jul 2025 07:44:14 GMT | Passwordless Authentication: How Safe Is It Really? | Praveen Sripati | [Read More](https://medium.com/p/9d6de85f16d8) |
 | Fri, 11 Jul 2025 07:38:27 GMT | Splunk: Data Manipulation | Peta Pavan | [Read More](https://medium.com/p/c2a2e5250f39) |
 | Fri, 11 Jul 2025 07:38:19 GMT | Top 10 Mobile Application Security Testing Tools in 2025 | cyber security Updates | [Read More](https://medium.com/p/1335124d62cf) |
 | Fri, 11 Jul 2025 07:36:08 GMT | SafeLine WAF Automation: Real-World Security Ops Example (Case 1) | Quella | [Read More](https://medium.com/p/267b76e23907) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 01:46:46 GMT | Evil-GPT v2: Write-Up | A Learner | [Read More](https://medium.com/p/7931b5d2a161) |
 | Fri, 11 Jul 2025 01:36:50 GMT | The Brutal Beauty of Starting Cybersecurity With Nothing | Abraham Eleojo Salifu | [Read More](https://medium.com/p/48b845458148) |
 | Fri, 11 Jul 2025 01:19:10 GMT | AI Agents Are Sitting Ducks for Attackers. | TechVest Blueprint | [Read More](https://medium.com/p/d7be3890917d) |
-| Fri, 11 Jul 2025 01:04:17 GMT | Operational Resilience: Quick Primer | Erik Lacson | [Read More](https://medium.com/p/f291d33c16e9) |
-| Fri, 11 Jul 2025 01:03:21 GMT | PortSwigger Lab: Cross-site WebSocket hijacking writeup (Websockets) | awes0meness | [Read More](https://medium.com/p/1429ee272ac8) |
-| Fri, 11 Jul 2025 00:59:56 GMT | The Email I Wasn’t Supposed to Get — A Cybersecurity Awareness Lesson | DarKVoicE | [Read More](https://medium.com/p/8898bde3b1e6) |
-| Fri, 11 Jul 2025 00:57:47 GMT | PortSwigger Lab: Manipulating the WebSocket handshake to exploit vulnerabilities writeup… | awes0meness | [Read More](https://medium.com/p/2609813a8d7b) |
-| Fri, 11 Jul 2025 00:53:48 GMT | PortSwigger Lab: Manipulating WebSocket messages to exploit vulnerabilities writeup (Websockets) | awes0meness | [Read More](https://medium.com/p/5f328f260f63) |
-| Fri, 11 Jul 2025 00:44:27 GMT | How to become a “HACKER” | Omar Shraideh | [Read More](https://medium.com/p/da1c2b3bfee8) |
-| Fri, 11 Jul 2025 00:18:02 GMT | Inside the Adversary’s Mindset: The #1 Skill Missing From Most Cyber Defenders | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/dac6bbf25ed2) |
-| Fri, 11 Jul 2025 00:15:59 GMT | Your best choices for secure and fast DNS (Domain Name Servers) | Lynne Calvert | [Read More](https://medium.com/p/30f4343c832e) |
-| Fri, 11 Jul 2025 00:07:21 GMT | McDonald’s Australia Data Breach via AI Chatbot ‘Olivia’: A Cybersecurity Breakdown | Sayan Raha | [Read More](https://medium.com/p/b9a1fdc2b795) |
-| Fri, 11 Jul 2025 00:01:44 GMT | Cryptographic Failures: La Guía Definitiva para Hacking, Bug Bounty y Seguridad Web | JPablo13 | [Read More](https://medium.com/p/63a705f8af9f) |
-| Thu, 10 Jul 2025 23:31:43 GMT | Cloud-Native Application Protection Platform By Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/1f9ced556489) |
-| Thu, 10 Jul 2025 23:31:02 GMT | If a Real Cyberattack Strikes, Could My Company Actually Handle It? | Hiroki Honjo | [Read More](https://medium.com/p/1e7adc63131e) |
-| Thu, 10 Jul 2025 23:16:38 GMT | I walked into a Fortune 500 HQ … No one stopped me. | JD Brooks | [Read More](https://medium.com/p/7dc447ead75d) |
-| Thu, 10 Jul 2025 23:09:21 GMT | They Didn’t Break In — They Logged In: How 5 Major Retailers Were Breached Without Malware | Cyber-AppSec | [Read More](https://medium.com/p/dcb2b8677bd8) |
-| Thu, 10 Jul 2025 23:04:49 GMT | Critical IDOR Chain — Edit Any User’s Role, Activate/Deactivate Accounts, and Escalate Privileges | B0d4 | [Read More](https://medium.com/p/12637b0f2485) |
-| Thu, 10 Jul 2025 22:48:41 GMT | CYAN-Review | marianita_cloud | [Read More](https://medium.com/p/4cfd736a0b83) |
