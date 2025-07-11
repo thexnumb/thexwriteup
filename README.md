@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 19:29:07 GMT | hackthebox: Sauna | Abdellah Lamine | [Read More](https://medium.com/p/3ad1b2c9ac9a) |
+| Fri, 11 Jul 2025 19:28:55 GMT | From Open Redirect to Account Takeover: A Real-World case | Vahagn Israelian | [Read More](https://medium.com/p/5475e42cde6e) |
+| Fri, 11 Jul 2025 19:18:29 GMT | Analyzing Microsoft’s July 2025 Patch Tuesday: Technical Insights, Organizational Impact, and… | Poojan Shah | [Read More](https://medium.com/p/0d5215b08143) |
 | Fri, 11 Jul 2025 19:02:55 GMT | Nmap Mastery — Part 3: Scan Reports, Output Formats | Seshu | [Read More](https://medium.com/p/14f5399b7025) |
 | Fri, 11 Jul 2025 18:59:43 GMT | Analysing an Injection Attack | Arcadio John Aguilar | [Read More](https://medium.com/p/fea2fd1eeefd) |
 | Fri, 11 Jul 2025 18:51:25 GMT | The Freedom to Be Vulnerable | Rahmanov Irina | [Read More](https://medium.com/p/e059eb245253) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 13:45:27 GMT | Why I’m Building ph4nt0msec — From CEH Master to Freelance Red Team Ops | Ph4nt0msec | [Read More](https://medium.com/p/f08c94ced446) |
 | Fri, 11 Jul 2025 13:42:10 GMT | Public Bucket, Private Tears – The Day I Found an Open S3 and Still Got “Informative” | Vamsi Krishna | [Read More](https://medium.com/p/a0bcfca59760) |
 | Fri, 11 Jul 2025 13:40:48 GMT | Dream Meanings: What Does It Mean to Be Naked in a Dream? | Eva | [Read More](https://medium.com/p/aa5250b3d536) |
-| Fri, 11 Jul 2025 13:39:35 GMT | Local File Inclusion (LFI) — A Dangerous Yet Overlooked Web Attack | Carylrobert | [Read More](https://medium.com/p/805f9e114db8) |
-| Fri, 11 Jul 2025 13:38:55 GMT | The Algorithmic Renaissance: Reimagining AI as Humanity’s Ally | Namir Sagheenanajar | [Read More](https://medium.com/p/f3a8ecc648df) |
-| Fri, 11 Jul 2025 13:37:50 GMT | The Importance of Memory Acquisition in Modern Digital Forensics | Dean | [Read More](https://medium.com/p/b8e0a73f4de4) |
