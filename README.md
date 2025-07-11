@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 22:41:59 GMT | Why Choose Remote Over On-Site Security? | Visual Monitoring Solutions | [Read More](https://medium.com/p/49be2b249c71) |
+| Fri, 11 Jul 2025 22:20:24 GMT | AI Moves Fast — Your Container Security Has to Move Faster | Sophia Perez | [Read More](https://medium.com/p/3d2b94f61b2b) |
+| Fri, 11 Jul 2025 22:18:12 GMT | The Linux Security Journey — USB Guard (Universal Serial Bus Guard) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/66e1a45ac901) |
+| Fri, 11 Jul 2025 22:16:54 GMT | DevSecOps in Practice: Embedding Security in CI/CD Pipelines | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ec0593a00a30) |
+| Fri, 11 Jul 2025 22:14:39 GMT | Building My Own Secure Flask Login Template (And Why You Might Want It Too) | jorgerodriguezpagan | [Read More](https://medium.com/p/7275a968e65a) |
 | Fri, 11 Jul 2025 22:12:21 GMT | LINUX CHALLENGE (DAY 5) | FromHumanities-Hacker | [Read More](https://medium.com/p/636f140e3123) |
 | Fri, 11 Jul 2025 22:06:35 GMT | Linux Basics for Ethical Hackers: Mastering the Command Line to Hack Like a Pro | Santhosh Adiga U | [Read More](https://medium.com/p/b5992c4d5c91) |
 | Fri, 11 Jul 2025 22:00:00 GMT | The Silent Killer: How Phishing Attacks Are Destroying Small Businesses (And Why Most Don’t See It… | Bee H. | [Read More](https://medium.com/p/f455516892d0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 15:15:02 GMT | Why Your Password is Probably Terrible (And How to Fix It in 2025) | Navin | [Read More](https://medium.com/p/330af38dee50) |
 | Fri, 11 Jul 2025 15:10:50 GMT | Hijacking the Cache — Part 2: When Parameters Go Rogue | Đeepanshu | [Read More](https://medium.com/p/0242c0e9f4fc) |
 | Fri, 11 Jul 2025 15:06:53 GMT | Race Condition Vulnerability: A Hidden Threat in Concurrent Systems | Jitu Kambad | [Read More](https://medium.com/p/58c03d8da2b7) |
-| Fri, 11 Jul 2025 15:05:14 GMT | System Design for Checkout (Commercetools) — A Guide for Developers | isaias Francisco | [Read More](https://medium.com/p/8deb290c8666) |
-| Fri, 11 Jul 2025 15:03:32 GMT | The “I Love You” Virus: How a Simple Email Crashed the Digital World. | FATAOS3C | [Read More](https://medium.com/p/3ac6de55e270) |
-| Fri, 11 Jul 2025 14:59:10 GMT | “should India have a separate law for cyberbullying?” | Sandeep Pandi | [Read More](https://medium.com/p/166c09831494) |
-| Fri, 11 Jul 2025 14:57:33 GMT | Security Engineer Starter Guide: Security Operations | Ryan G. Cox | [Read More](https://medium.com/p/44c062804a53) |
-| Fri, 11 Jul 2025 14:56:33 GMT | [Hack The Box CTF] Cat Write-Up | fnwn | [Read More](https://medium.com/p/23600f36ac2d) |
