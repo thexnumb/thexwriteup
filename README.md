@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 20:39:34 GMT | How I Dual Booted Kali Linux with Windows Using Ventoy | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/918b76822416) |
+| Fri, 11 Jul 2025 20:29:25 GMT | Phishing Mail Detected — Excel 4.0 Macros Attack - Investigation | Sayyid Thabsheer | [Read More](https://medium.com/p/8dd6b9c03771) |
+| Fri, 11 Jul 2025 20:26:08 GMT | Google Dorking: The Ultimate Reference for Hackers, Bug Bounty Hunters, and Pentesters | Santhosh Adiga U | [Read More](https://medium.com/p/160717838e78) |
 | Fri, 11 Jul 2025 20:24:31 GMT | Deploying a Honeypot with T-Pot: Catching Real-World Cyber Attacks | Bahadir Mammadli | [Read More](https://medium.com/p/dec66b5ec4a5) |
 | Fri, 11 Jul 2025 20:20:25 GMT | Ongoing Exploitation of Wing FTP RCE Vulnerability (CVE-2025–47812) Observed in the Wild | RealSec.io | [Read More](https://medium.com/p/132bd828837b) |
 | Fri, 11 Jul 2025 20:00:50 GMT | The Stories I’m Still Avoiding | Koko Kawasaki | [Read More](https://medium.com/p/e7210954c5c8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 14:02:03 GMT | What is AWS? | Ifeoma Nwokeoma | [Read More](https://medium.com/p/a06812b045ff) |
 | Fri, 11 Jul 2025 14:01:46 GMT | Cyber Briefing: 2025.07.11 | CyberMaterial | [Read More](https://medium.com/p/e725a1ee0d77) |
 | Fri, 11 Jul 2025 14:00:10 GMT | Hunting Open Redirects in Web Applications — A Practical Guide | 0b1d1 | [Read More](https://medium.com/p/f94b2ef2dd82) |
-| Fri, 11 Jul 2025 13:59:04 GMT | Local File Inclusion (LFI) for Beginners — Using Burp Suite to Hack Like a Pro | Mohammed Gabic | [Read More](https://medium.com/p/fabd851a26da) |
-| Fri, 11 Jul 2025 13:55:50 GMT | Bug Wonder | ✨️Joce | [Read More](https://medium.com/p/6c685099fcd6) |
-| Fri, 11 Jul 2025 13:52:28 GMT | Remote Code Execution (RCE) — A Beginner’s Guide to the Most Dangerous Web Attack | Ezekiel peter | [Read More](https://medium.com/p/070d7dcfb387) |
