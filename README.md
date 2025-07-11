@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 20:24:31 GMT | Deploying a Honeypot with T-Pot: Catching Real-World Cyber Attacks | Bahadir Mammadli | [Read More](https://medium.com/p/dec66b5ec4a5) |
+| Fri, 11 Jul 2025 20:20:25 GMT | Ongoing Exploitation of Wing FTP RCE Vulnerability (CVE-2025–47812) Observed in the Wild | RealSec.io | [Read More](https://medium.com/p/132bd828837b) |
+| Fri, 11 Jul 2025 20:00:50 GMT | The Stories I’m Still Avoiding | Koko Kawasaki | [Read More](https://medium.com/p/e7210954c5c8) |
+| Fri, 11 Jul 2025 19:55:01 GMT | HackTheBox: EscapeTwo Write-Up | M4sterCub3 | [Read More](https://medium.com/p/14ba886f1097) |
+| Fri, 11 Jul 2025 19:40:34 GMT | Bypassing SSL Pinning with Custom Certificates: Why Burp Suite’s Default Cert Isn’t Enough | Arnav singh | [Read More](https://medium.com/p/3c92daf45644) |
+| Fri, 11 Jul 2025 19:29:53 GMT | Shift-Left Security with Amazon Inspector Code Security | Sena Yakut | [Read More](https://medium.com/p/2f9ee342c753) |
 | Fri, 11 Jul 2025 19:29:07 GMT | hackthebox: Sauna | Abdellah Lamine | [Read More](https://medium.com/p/3ad1b2c9ac9a) |
 | Fri, 11 Jul 2025 19:28:55 GMT | From Open Redirect to Account Takeover: A Real-World case | Vahagn Israelian | [Read More](https://medium.com/p/5475e42cde6e) |
 | Fri, 11 Jul 2025 19:18:29 GMT | Analyzing Microsoft’s July 2025 Patch Tuesday: Technical Insights, Organizational Impact, and… | Poojan Shah | [Read More](https://medium.com/p/0d5215b08143) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 13:59:04 GMT | Local File Inclusion (LFI) for Beginners — Using Burp Suite to Hack Like a Pro | Mohammed Gabic | [Read More](https://medium.com/p/fabd851a26da) |
 | Fri, 11 Jul 2025 13:55:50 GMT | Bug Wonder | ✨️Joce | [Read More](https://medium.com/p/6c685099fcd6) |
 | Fri, 11 Jul 2025 13:52:28 GMT | Remote Code Execution (RCE) — A Beginner’s Guide to the Most Dangerous Web Attack | Ezekiel peter | [Read More](https://medium.com/p/070d7dcfb387) |
-| Fri, 11 Jul 2025 13:47:42 GMT | TryHackMe Kenobi Full Walkthrough: SMB, FTP, NFS, PrivEsc | Yaksha | [Read More](https://medium.com/p/33d01f976910) |
-| Fri, 11 Jul 2025 13:47:31 GMT | What is XSS? A Beginner’s Guide to Cross-Site Scripting with Examples | Ezekiel peter | [Read More](https://medium.com/p/d7bb8631c960) |
-| Fri, 11 Jul 2025 13:46:38 GMT | The Silent Army: Why Nonhuman Identities Are Your Biggest Security Blind Spot | Zachary White | [Read More](https://medium.com/p/1eac8e01cc42) |
-| Fri, 11 Jul 2025 13:45:27 GMT | Why I’m Building ph4nt0msec — From CEH Master to Freelance Red Team Ops | Ph4nt0msec | [Read More](https://medium.com/p/f08c94ced446) |
-| Fri, 11 Jul 2025 13:42:10 GMT | Public Bucket, Private Tears – The Day I Found an Open S3 and Still Got “Informative” | Vamsi Krishna | [Read More](https://medium.com/p/a0bcfca59760) |
-| Fri, 11 Jul 2025 13:40:48 GMT | Dream Meanings: What Does It Mean to Be Naked in a Dream? | Eva | [Read More](https://medium.com/p/aa5250b3d536) |
