@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 15:39:29 GMT | Week 4—Learning Basic Concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/bac604938cb7) |
+| Fri, 11 Jul 2025 15:34:50 GMT | Hide and Seek - -TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/e00e21208a03) |
+| Fri, 11 Jul 2025 15:31:00 GMT | TryHackMe: Exploit Vulnerabilities (Practical: Manual Exploitation) | Babatunde Ojo | [Read More](https://medium.com/p/2194cc13afac) |
 | Fri, 11 Jul 2025 15:20:34 GMT | Shadow IT: The Hidden Cybersecurity Risks Your Organisation Doesn’t Know It Has | Richard Dosumu | [Read More](https://medium.com/p/e7f67f0e6c23) |
+| Fri, 11 Jul 2025 15:17:57 GMT | Future Trends in Cloud Services & Best Practices for Security | Anderson Smith | [Read More](https://medium.com/p/5a8f17bac04e) |
 | Fri, 11 Jul 2025 15:15:27 GMT | VCAEDL: A Practical, Containment- My First Incident Response Methodology | Manish Rawat | [Read More](https://medium.com/p/6eeca9056544) |
+| Fri, 11 Jul 2025 15:15:02 GMT | Why Your Password is Probably Terrible (And How to Fix It in 2025) | Navin | [Read More](https://medium.com/p/330af38dee50) |
 | Fri, 11 Jul 2025 15:10:50 GMT | Hijacking the Cache — Part 2: When Parameters Go Rogue | Đeepanshu | [Read More](https://medium.com/p/0242c0e9f4fc) |
 | Fri, 11 Jul 2025 15:06:53 GMT | Race Condition Vulnerability: A Hidden Threat in Concurrent Systems | Jitu Kambad | [Read More](https://medium.com/p/58c03d8da2b7) |
 | Fri, 11 Jul 2025 15:05:14 GMT | System Design for Checkout (Commercetools) — A Guide for Developers | isaias Francisco | [Read More](https://medium.com/p/8deb290c8666) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 10:55:22 GMT | The Role of Informatics Hubs in Advancing Digital Healthcare | Theinformaticshub | [Read More](https://medium.com/p/3dbb2b345e28) |
 | Fri, 11 Jul 2025 10:54:35 GMT | DAY 11— Chapter 5: FILE AND DIRECTORY PERMISSIONS | Jinay | [Read More](https://medium.com/p/a56f62fe880a) |
 | Fri, 11 Jul 2025 10:51:14 GMT | The Curious Case of a “Bug” in SQLite (That Was Actually My Fault) | Samuel Owino | [Read More](https://medium.com/p/90f127d4e72d) |
-| Fri, 11 Jul 2025 10:47:43 GMT | Streamline Your Workforce: Modern Time Attendance for Oman | Tekhabeeb | [Read More](https://medium.com/p/af474d1dc1b8) |
-| Fri, 11 Jul 2025 10:44:58 GMT | Legacy Vulnerabilities and Espionage Operations Dominate the Week | Loginsoft | [Read More](https://medium.com/p/4d766f642780) |
-| Fri, 11 Jul 2025 10:43:51 GMT | Broken Link Hijacking : Comment exploiter les liens oubliés pour infiltrer des applications web | Myriam Abouda | [Read More](https://medium.com/p/c062322209ee) |
-| Fri, 11 Jul 2025 10:37:56 GMT | How We Organize People Says Everything About Us | EXLITY | [Read More](https://medium.com/p/9b53db5dc15b) |
-| Fri, 11 Jul 2025 10:37:37 GMT | For the Housekeeping & Security Community | EXLITY | [Read More](https://medium.com/p/be734c24e651) |
