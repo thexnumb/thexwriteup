@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 16:44:59 GMT | This is How you Break Websites — The Ultimate start to Roadmap | err0rgod | [Read More](https://medium.com/p/e92236e99a73) |
+| Fri, 11 Jul 2025 16:34:30 GMT | DAY 2: Fired Up and Locked In | Akshatdwivedi | [Read More](https://medium.com/p/639c564ed774) |
+| Fri, 11 Jul 2025 16:32:40 GMT | Cybersecurity Breach: What It Is, How It Happens, and How to Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/413738ef2a5d) |
+| Fri, 11 Jul 2025 16:30:35 GMT | ⚠️ Windows 11’s New Black Screen of Death: Causes & Solutions | Ekene Joseph | [Read More](https://medium.com/p/b6e964ea9e85) |
+| Fri, 11 Jul 2025 16:29:29 GMT | Writing a Static Code Analyzer for Security | FF E4 | [Read More](https://medium.com/p/e81cde3c030e) |
+| Fri, 11 Jul 2025 16:28:56 GMT | CrackMe Write-up: argc (Linux ELF x86–64) | Rahaliashraf | [Read More](https://medium.com/p/48e421f58399) |
+| Fri, 11 Jul 2025 16:26:00 GMT | Trusted Internet Connections (TIC) 3.0 Architecture Demystified | Asad Syed | [Read More](https://medium.com/p/78fb4a96a482) |
+| Fri, 11 Jul 2025 16:22:53 GMT | How to Learn Penetration Testing in 2025 — A Roadmap for New Hackers | Zino jo | [Read More](https://medium.com/p/7314d9d9dc8c) |
 | Fri, 11 Jul 2025 16:22:33 GMT | Top 3 tools for Bug Bounty/Pentesting (2025) | Appsec.pt | [Read More](https://medium.com/p/c8f8373b3e82) |
 | Fri, 11 Jul 2025 16:20:24 GMT | PC WORX: The Hidden Risk in Your Industrial Network | Azim Uddin | [Read More](https://medium.com/p/afbb8dc23cff) |
 | Fri, 11 Jul 2025 16:20:22 GMT | Network Defense Certifications | Aaron DeJong | [Read More](https://medium.com/p/5394fe3438c0) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 11:56:04 GMT | Malicious Chrome Extensions Bypass Google’s Security Systems | Karl Buhl | [Read More](https://medium.com/p/6967979ea1ee) |
 | Fri, 11 Jul 2025 11:55:44 GMT | Securing AWS: The Role of Penetration Testing and Best Practices | Redfox Security | [Read More](https://medium.com/p/4e61a4292a79) |
 | Fri, 11 Jul 2025 11:54:07 GMT | ️ BlueTeamGPT: The AI Defender Revolutionizing Blue Team Operations | Mohammed Gabic | [Read More](https://medium.com/p/1838bcb65c04) |
-| Fri, 11 Jul 2025 11:47:43 GMT | The Rise of “Shift-Everywhere” in DevSecOps: Security at Every Stage | Ezekiel peter | [Read More](https://medium.com/p/d7b9d0c84a9a) |
-| Fri, 11 Jul 2025 11:43:51 GMT | CISF-Level Security for Businesses: Why It’s the New Benchmark in Protection | Sumintra | [Read More](https://medium.com/p/aec1ccc751ba) |
-| Fri, 11 Jul 2025 11:43:29 GMT | Burp AI: Burp suite Ai — the next frontier in AppSec testing | Carylrobert | [Read More](https://medium.com/p/9d033a89da4d) |
-| Fri, 11 Jul 2025 11:43:22 GMT | GraphQL @auth directives — on the client-side | Aarne Laur | [Read More](https://medium.com/p/04048a0a6b97) |
-| Fri, 11 Jul 2025 11:39:19 GMT | Hack the System | Jeremy Domingos | [Read More](https://medium.com/p/c883ebfa05ef) |
-| Fri, 11 Jul 2025 11:39:12 GMT | Naoris Protocol and Level One Robotics Partner to Secure the Future of Industrial Automation | Naoris Protocol | [Read More](https://medium.com/p/95fd3fd0c1b2) |
-| Fri, 11 Jul 2025 11:38:53 GMT | How I Helped a Startup Avoid a $50,000 Breach — Lessons from the Front Lines of Ethical Hacking | Muhammad Rashid Mughal | [Read More](https://medium.com/p/773e4789ba79) |
-| Fri, 11 Jul 2025 11:37:59 GMT | Step-by-Step: How to Whitelist a Website in Windows & macOS | Vantage MDM | [Read More](https://medium.com/p/06a14196a51b) |
