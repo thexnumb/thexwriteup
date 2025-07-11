@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 21:32:43 GMT | When AI Lies: Understanding “Hallucinations” and Why VeriEdit Matters | Prince Esien | [Read More](https://medium.com/p/024a7bc766eb) |
+| Fri, 11 Jul 2025 21:23:01 GMT | too much to hold, nowhere to put it down. | dita. | [Read More](https://medium.com/p/2d058edb6fa6) |
+| Fri, 11 Jul 2025 21:18:25 GMT | AWS Misconfigurations: How You Can Earn $10,000+ Bounties by Hacking the Cloud the Right Way | Santhosh Adiga U | [Read More](https://medium.com/p/e80d8e651d13) |
 | Fri, 11 Jul 2025 21:12:09 GMT | Why I Started Learning Cybersecurity | Gurnoor Kaur | [Read More](https://medium.com/p/db667278903e) |
 | Fri, 11 Jul 2025 21:03:30 GMT | RoadMap: Source Code Analysis — White Box | Shwajsophia | [Read More](https://medium.com/p/6ed3a8dcbb3e) |
 | Fri, 11 Jul 2025 21:00:09 GMT | “Cyber Kill Chain”? Sounds Dramatic? It is. | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/c4958b5600ba) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 14:32:57 GMT | ‍ SQL Injection (SQLi) for Beginners — Using Burp Suite to Exploit Database Flaws | Mr Joe | [Read More](https://medium.com/p/224b92fcdb4b) |
 | Fri, 11 Jul 2025 14:29:06 GMT | From URL to Server’s secrets: Path Traversal Vulnerability | Rabia Riaz | [Read More](https://medium.com/p/df78f5978949) |
 | Fri, 11 Jul 2025 14:26:47 GMT | What is the CIA triad? | Kavithayeravothula | [Read More](https://medium.com/p/328b6c7213c9) |
-| Fri, 11 Jul 2025 14:24:38 GMT | The Best Way to Secure Your Next.js App? Part 3. Mastering Role-Based Access in Next.js Auth.js | Santiago Dellepiane | [Read More](https://medium.com/p/5c07e0b4971c) |
-| Fri, 11 Jul 2025 14:23:07 GMT | TryHackMe: Pickle Rick | Babatunde Ojo | [Read More](https://medium.com/p/679f623b8ed5) |
-| Fri, 11 Jul 2025 14:23:02 GMT | Is Your Job Safe? Surviving the AI and Automation Shake-Up | HamnaAhmad | [Read More](https://medium.com/p/7efcd373247f) |
