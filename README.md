@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 15:20:34 GMT | Shadow IT: The Hidden Cybersecurity Risks Your Organisation Doesn’t Know It Has | Richard Dosumu | [Read More](https://medium.com/p/e7f67f0e6c23) |
+| Fri, 11 Jul 2025 15:15:27 GMT | VCAEDL: A Practical, Containment- My First Incident Response Methodology | Manish Rawat | [Read More](https://medium.com/p/6eeca9056544) |
+| Fri, 11 Jul 2025 15:10:50 GMT | Hijacking the Cache — Part 2: When Parameters Go Rogue | Đeepanshu | [Read More](https://medium.com/p/0242c0e9f4fc) |
+| Fri, 11 Jul 2025 15:06:53 GMT | Race Condition Vulnerability: A Hidden Threat in Concurrent Systems | Jitu Kambad | [Read More](https://medium.com/p/58c03d8da2b7) |
+| Fri, 11 Jul 2025 15:05:14 GMT | System Design for Checkout (Commercetools) — A Guide for Developers | isaias Francisco | [Read More](https://medium.com/p/8deb290c8666) |
+| Fri, 11 Jul 2025 15:03:32 GMT | The “I Love You” Virus: How a Simple Email Crashed the Digital World. | FATAOS3C | [Read More](https://medium.com/p/3ac6de55e270) |
+| Fri, 11 Jul 2025 14:59:10 GMT | “should India have a separate law for cyberbullying?” | Sandeep Pandi | [Read More](https://medium.com/p/166c09831494) |
+| Fri, 11 Jul 2025 14:57:33 GMT | Security Engineer Starter Guide: Security Operations | Ryan G. Cox | [Read More](https://medium.com/p/44c062804a53) |
+| Fri, 11 Jul 2025 14:56:33 GMT | [Hack The Box CTF] Cat Write-Up | fnwn | [Read More](https://medium.com/p/23600f36ac2d) |
+| Fri, 11 Jul 2025 14:51:35 GMT | Password Attacks for Beginners — Cracking Logins Using Burp Suite | Mr Joe | [Read More](https://medium.com/p/35ac1bbec514) |
 | Fri, 11 Jul 2025 14:32:57 GMT | ‍ SQL Injection (SQLi) for Beginners — Using Burp Suite to Exploit Database Flaws | Mr Joe | [Read More](https://medium.com/p/224b92fcdb4b) |
 | Fri, 11 Jul 2025 14:29:06 GMT | From URL to Server’s secrets: Path Traversal Vulnerability | Rabia Riaz | [Read More](https://medium.com/p/df78f5978949) |
 | Fri, 11 Jul 2025 14:26:47 GMT | What is the CIA triad? | Kavithayeravothula | [Read More](https://medium.com/p/328b6c7213c9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 10:43:51 GMT | Broken Link Hijacking : Comment exploiter les liens oubliés pour infiltrer des applications web | Myriam Abouda | [Read More](https://medium.com/p/c062322209ee) |
 | Fri, 11 Jul 2025 10:37:56 GMT | How We Organize People Says Everything About Us | EXLITY | [Read More](https://medium.com/p/9b53db5dc15b) |
 | Fri, 11 Jul 2025 10:37:37 GMT | For the Housekeeping & Security Community | EXLITY | [Read More](https://medium.com/p/be734c24e651) |
-| Fri, 11 Jul 2025 10:34:37 GMT | What’s Possible vs. What’s Required — The Exlity Lens (Housekeeping & Security) | EXLITY | [Read More](https://medium.com/p/f89ace8c3ae6) |
-| Fri, 11 Jul 2025 10:32:27 GMT | Cambiar la contraseña… y que el atacante siga dentro | Gorka | [Read More](https://medium.com/p/46ad9c37d537) |
-| Fri, 11 Jul 2025 10:26:32 GMT | Smart Home, Smarter Security: Flashing Cameras with Open-Source Thingino Firmware | Abdelwahed AJ | [Read More](https://medium.com/p/b4851358c4a8) |
-| Fri, 11 Jul 2025 10:20:05 GMT | How I Built a Multi-Layered Defense System for My Website with AWS WAF & Shield | AashishChaudhari | [Read More](https://medium.com/p/13647b9b78ce) |
-| Fri, 11 Jul 2025 10:14:53 GMT | 2025面試升級：AI時代的應試筆記 | Theo Huang | [Read More](https://medium.com/p/a16fa1e00322) |
-| Fri, 11 Jul 2025 10:13:26 GMT | CYBER SECURITY COURSE | Dineshathul | [Read More](https://medium.com/p/c398a25b4b80) |
-| Fri, 11 Jul 2025 10:12:19 GMT | For the Love I Haven’t Met Yet | Carolyn Kanjala | [Read More](https://medium.com/p/b700535c68b1) |
-| Fri, 11 Jul 2025 10:11:03 GMT | PortSwigger Lab — Path Traversal | k1dd0sz | [Read More](https://medium.com/p/176dec73a8a9) |
-| Fri, 11 Jul 2025 10:10:50 GMT | Stack Overflow Protections | Aditya Bhos | [Read More](https://medium.com/p/5a4fcdff7f8d) |
-| Fri, 11 Jul 2025 10:01:36 GMT | “I Trusted You.” | 0xbrijith | [Read More](https://medium.com/p/ced2488f5b73) |
