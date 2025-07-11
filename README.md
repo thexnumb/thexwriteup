@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 13:32:07 GMT | ISO 27001 ile Bilgi Güvenliğine Yolculuk — 2 | İrem Çagla Demirtaş | [Read More](https://medium.com/p/60bd0b40afb6) |
+| Fri, 11 Jul 2025 13:31:20 GMT | When One Google Account Isn’t Enough: Breaking Identity Boundaries via SSO Confusion | Digvijay Gholase | [Read More](https://medium.com/p/10e4f8381a44) |
+| Fri, 11 Jul 2025 13:30:49 GMT | 350+ Free TryHackMe Rooms to Learn Ethical Hacking & Cybersecurity [2025 Edition] | cyberwinx | [Read More](https://medium.com/p/25b7e3848ee3) |
+| Fri, 11 Jul 2025 13:24:23 GMT | Web Application Attacks and Exploitation | Carylrobert | [Read More](https://medium.com/p/3e28299dffe2) |
+| Fri, 11 Jul 2025 13:20:02 GMT | AI Malware Outsmarts Microsoft Defender: A Wake-Up Call for 2025 Cybersecurity Strategies | Technijian | [Read More](https://medium.com/p/3be1e8ada08b) |
+| Fri, 11 Jul 2025 13:18:32 GMT | How I Harden My Linux Server in 30 Minutes After Every Fresh Install (Ubuntu & Red Hat) | Faruk Ahmed | [Read More](https://medium.com/p/7c92c8e5c12b) |
+| Fri, 11 Jul 2025 13:14:53 GMT | OWASP Top 10: SOC Analyst Breakdown for Real-World Defense | Dhruvish Rathod | [Read More](https://medium.com/p/1174d3302164) |
+| Fri, 11 Jul 2025 13:06:56 GMT | Try CleanMyMac: The All-In-One Assistant That Makes Your Mac 10x Faster | Nikhil Vemu | [Read More](https://medium.com/p/c9bd6c2da440) |
+| Fri, 11 Jul 2025 13:05:32 GMT | 9xFlix 2025: Why Millions Use It to Watch Free Hindi Dubbed Movies Online | Syed Fahyeaq Ahmed | [Read More](https://medium.com/p/c275a0590ef9) |
+| Fri, 11 Jul 2025 13:03:06 GMT | PicoCTF 2022: Inspect Html — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/5f896bed92cb) |
+| Fri, 11 Jul 2025 13:02:13 GMT | Background of Study | Covenant O.B. | [Read More](https://medium.com/p/fb67e99c2bd2) |
+| Fri, 11 Jul 2025 12:52:40 GMT | My AI Partner Helped Me Crack Final Cut Pro — Here’s What It Taught Me About AI Ethics | Daham Nimnada | [Read More](https://medium.com/p/77189cc855aa) |
+| Fri, 11 Jul 2025 12:46:36 GMT | Bypassing Meta’s Llama Firewall: A Case Study in Prompt Injection Vulnerabilities | sockpuppets | [Read More](https://medium.com/p/fb552b93412b) |
+| Fri, 11 Jul 2025 12:46:15 GMT | When the Rain Reminds You of Who You Really Are | Adrian | [Read More](https://medium.com/p/a07be2530651) |
+| Fri, 11 Jul 2025 12:45:04 GMT | Maintaining Trust: The Case for Hybrid Security (AI) Models | Milos | [Read More](https://medium.com/p/240fe01fef13) |
 | Fri, 11 Jul 2025 12:33:46 GMT | New “PerfektBlue” Bluetooth vulnerability Let Attackers Run Remote Code on Mercedes, VW & Škoda… | Ekene Joseph | [Read More](https://medium.com/p/7b4648e024fc) |
 | Fri, 11 Jul 2025 12:32:55 GMT | Bank Reconciliation Software: What It Is and Why It Matters | Kosh AI | [Read More](https://medium.com/p/9366fb959647) |
 | Fri, 11 Jul 2025 12:26:01 GMT | As someone who works at the intersection of AI and cybersecurity, I’ve come to see how critical it… | Cloud4C Services | [Read More](https://medium.com/p/8ca326952dfd) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 08:22:52 GMT | Deploying SafeLine WAF on Kubernetes: A Beginner-Friendly Guide | AerieWhole123 | [Read More](https://medium.com/p/9c974dad086f) |
 | Fri, 11 Jul 2025 08:21:28 GMT | From Chaos to Clarity: How We Built a Privacy-First CI/CD Monitoring Platform That Actually… | Sebastian | [Read More](https://medium.com/p/81448bb63a32) |
 | Fri, 11 Jul 2025 08:19:47 GMT | Windows Threat Detection 1 - -TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/186f8209c968) |
-| Fri, 11 Jul 2025 08:18:30 GMT | AI Image for Post Cover | MITRE Doggy | [Read More](https://medium.com/p/2847a74a5552) |
-| Fri, 11 Jul 2025 08:18:01 GMT | Test Management in der Digitalen Transformation: Ihr strategischer Roadmap für 2025 (mit… | Philip Hansen | [Read More](https://medium.com/p/0cfc25fe9c6f) |
-| Fri, 11 Jul 2025 08:17:58 GMT | Digital Maturity Revolution 2025: Warum 76% der deutschen Unternehmen ihre Transformation verfehlen… | Philip Hansen | [Read More](https://medium.com/p/d33069b46be4) |
-| Fri, 11 Jul 2025 08:10:27 GMT | Day #15: Incident Response Basics Investigating a Suspicious Network Connection (Linux) | Rishavkumarthapa | [Read More](https://medium.com/p/525632af13bc) |
-| Fri, 11 Jul 2025 08:10:04 GMT | PicoCTF: Easy Insp3ct0r for dummies | Doquanglong | [Read More](https://medium.com/p/d0fba5573ccf) |
-| Fri, 11 Jul 2025 08:07:26 GMT | Is it better to speak, or to die? | curiouscaty | [Read More](https://medium.com/p/8494848a03f2) |
-| Fri, 11 Jul 2025 07:59:26 GMT | Protecting Your LinkedIn Account: Lessons from My Hacking Experience | Emmanuel Umo | [Read More](https://medium.com/p/651d9fdd2e0b) |
-| Fri, 11 Jul 2025 07:57:15 GMT | Cyber Hunt Writeup | Ethicalhck | [Read More](https://medium.com/p/411e17ad5650) |
-| Fri, 11 Jul 2025 07:49:47 GMT | Platform Showdown: The Ultimate Guide to Choosing Your Bug Bounty Platform in 2025 | Andrei Ivan | [Read More](https://medium.com/p/64ea085ae800) |
-| Fri, 11 Jul 2025 07:49:23 GMT | Cybercrime: How to Lodge a Complaint Online in India? | Mayankthapa | [Read More](https://medium.com/p/8e854a7f8f8a) |
-| Fri, 11 Jul 2025 07:46:55 GMT | Building Your Web3 Security Stack: Essential Tools Every Developer Needs | Mohamedajguernoun | [Read More](https://medium.com/p/e0dd6e561107) |
-| Fri, 11 Jul 2025 07:44:14 GMT | Passwordless Authentication: How Safe Is It Really? | Praveen Sripati | [Read More](https://medium.com/p/9d6de85f16d8) |
-| Fri, 11 Jul 2025 07:38:27 GMT | Splunk: Data Manipulation | Peta Pavan | [Read More](https://medium.com/p/c2a2e5250f39) |
-| Fri, 11 Jul 2025 07:38:19 GMT | Top 10 Mobile Application Security Testing Tools in 2025 | cyber security Updates | [Read More](https://medium.com/p/1335124d62cf) |
-| Fri, 11 Jul 2025 07:36:08 GMT | SafeLine WAF Automation: Real-World Security Ops Example (Case 1) | Quella | [Read More](https://medium.com/p/267b76e23907) |
