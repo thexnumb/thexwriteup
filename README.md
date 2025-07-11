@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 17:35:32 GMT | Fileless DPAPI Credential Extraction With PowerShell | Tom O'Neill | [Read More](https://medium.com/p/c9952c136463) |
+| Fri, 11 Jul 2025 17:27:39 GMT | ️ Scanning Beyond Firewalls and IDS — 7 Practical Evasion Techniques Every Ethical Hacker Must… | Rajkumar Kumawat | [Read More](https://medium.com/p/5ecab6ac79c7) |
+| Fri, 11 Jul 2025 17:22:23 GMT | ️ Cyber-Bullying Kills: The Invisible Harm of Harsh Words | AscentPhenix | [Read More](https://medium.com/p/88f7734750ce) |
+| Fri, 11 Jul 2025 17:15:17 GMT | How I Hacked My Way to the eJPT | Laian Bani Sakher | [Read More](https://medium.com/p/c57bc7629e5f) |
+| Fri, 11 Jul 2025 17:08:41 GMT | The Unix Timestamp Time Bomb: Why 2038 Could Break the Internet | Mr Vale | [Read More](https://medium.com/p/616dca390a18) |
 | Fri, 11 Jul 2025 17:02:01 GMT | So, I Decided to Pentest Amazon’s Echo Dot —  Here’s What I Found | C. Oscar Lawshea | [Read More](https://medium.com/p/0f4b5d3455e6) |
 | Fri, 11 Jul 2025 16:44:59 GMT | This is How you Break Websites — The Ultimate start to Roadmap | err0rgod | [Read More](https://medium.com/p/e92236e99a73) |
 | Fri, 11 Jul 2025 16:34:30 GMT | DAY 2: Fired Up and Locked In | Akshatdwivedi | [Read More](https://medium.com/p/639c564ed774) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 12:13:38 GMT | Top 5 Phishing Simulation Tools to Train Your Employees Like Cyber Ninjas (2025 Guide) | Elie Attieh | [Read More](https://medium.com/p/9609f2d84403) |
 | Fri, 11 Jul 2025 12:12:55 GMT | How I Accessed an Admin Dashboard in 5 Minutes (Without Brute Force) | Ibtissam hammadi | [Read More](https://medium.com/p/a776a737f74a) |
 | Fri, 11 Jul 2025 12:12:14 GMT | A Deep Dive into a Real Threat | Riad Moudjahed | [Read More](https://medium.com/p/736305a1083e) |
-| Fri, 11 Jul 2025 12:11:56 GMT | Welcome to Day 1 of the IAM Series! | Nelson Njuguna | [Read More](https://medium.com/p/40ea4cbe66fe) |
-| Fri, 11 Jul 2025 12:06:52 GMT | TryHackMe Mindgames — Walkthrough | mauzware | [Read More](https://medium.com/p/b45dc7f5a39f) |
-| Fri, 11 Jul 2025 12:01:41 GMT | Burp Suite as a Vulnerability Assessment Tool: A Must-Have for Ethical Hackers | Mr Joe | [Read More](https://medium.com/p/bc6f61df5cbb) |
-| Fri, 11 Jul 2025 11:56:04 GMT | Malicious Chrome Extensions Bypass Google’s Security Systems | Karl Buhl | [Read More](https://medium.com/p/6967979ea1ee) |
-| Fri, 11 Jul 2025 11:55:44 GMT | Securing AWS: The Role of Penetration Testing and Best Practices | Redfox Security | [Read More](https://medium.com/p/4e61a4292a79) |
