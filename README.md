@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 19:02:55 GMT | Nmap Mastery — Part 3: Scan Reports, Output Formats | Seshu | [Read More](https://medium.com/p/14f5399b7025) |
+| Fri, 11 Jul 2025 18:59:43 GMT | Analysing an Injection Attack | Arcadio John Aguilar | [Read More](https://medium.com/p/fea2fd1eeefd) |
+| Fri, 11 Jul 2025 18:51:25 GMT | The Freedom to Be Vulnerable | Rahmanov Irina | [Read More](https://medium.com/p/e059eb245253) |
+| Fri, 11 Jul 2025 18:51:03 GMT | How I Hacked My Way to the eJPT | Laian Bani Sakher | [Read More](https://medium.com/p/0984f8b5b2d2) |
+| Fri, 11 Jul 2025 18:41:38 GMT | CTF Whats Your Name - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/a1d1d35b462c) |
+| Fri, 11 Jul 2025 18:41:01 GMT | Shelob in the Pentesting Room: Cybersecurity Leadership Challenges — Part 1 | checkm4te | [Read More](https://medium.com/p/ff1abfb365e7) |
+| Fri, 11 Jul 2025 18:28:52 GMT | The Threat is Real… And It’s Already Inside the Wire | T Boe | [Read More](https://medium.com/p/77414ed579b9) |
+| Fri, 11 Jul 2025 18:27:10 GMT | The IT Bloke’s Weekly Wrap-Up | Mohammed Brückner | [Read More](https://medium.com/p/f1746f44babc) |
+| Fri, 11 Jul 2025 18:22:04 GMT | Cedar Valley News — July 11, 2025 | Evan Swensen | [Read More](https://medium.com/p/ddb13be03de1) |
 | Fri, 11 Jul 2025 18:19:50 GMT | Secure Vibe Coding: Staying Safe While Collaborating with AI | Aravind S V | [Read More](https://medium.com/p/32f9f63a7f2e) |
 | Fri, 11 Jul 2025 18:19:02 GMT | A concise AI governance checklist for ISO 27001:2022 compliance (Part 5 of 7) | Aaron Rusz | [Read More](https://medium.com/p/470c739e0b2a) |
 | Fri, 11 Jul 2025 18:17:40 GMT | NOTHING IS PRIVATE: How They Are Manipulating You Without You Knowing | markito | [Read More](https://medium.com/p/cd1ab9ad88b3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 13:39:35 GMT | Local File Inclusion (LFI) — A Dangerous Yet Overlooked Web Attack | Carylrobert | [Read More](https://medium.com/p/805f9e114db8) |
 | Fri, 11 Jul 2025 13:38:55 GMT | The Algorithmic Renaissance: Reimagining AI as Humanity’s Ally | Namir Sagheenanajar | [Read More](https://medium.com/p/f3a8ecc648df) |
 | Fri, 11 Jul 2025 13:37:50 GMT | The Importance of Memory Acquisition in Modern Digital Forensics | Dean | [Read More](https://medium.com/p/b8e0a73f4de4) |
-| Fri, 11 Jul 2025 13:33:40 GMT | Unpacking GraphQL Security: A Practical Guide for Testers and Developers | EL_Cazad0r | [Read More](https://medium.com/p/9aedc2d6e791) |
-| Fri, 11 Jul 2025 13:32:07 GMT | ISO 27001 ile Bilgi Güvenliğine Yolculuk — 2 | İrem Çagla Demirtaş | [Read More](https://medium.com/p/60bd0b40afb6) |
-| Fri, 11 Jul 2025 13:31:20 GMT | When One Google Account Isn’t Enough: Breaking Identity Boundaries via SSO Confusion | Digvijay Gholase | [Read More](https://medium.com/p/10e4f8381a44) |
-| Fri, 11 Jul 2025 13:30:49 GMT | 350+ Free TryHackMe Rooms to Learn Ethical Hacking & Cybersecurity [2025 Edition] | cyberwinx | [Read More](https://medium.com/p/25b7e3848ee3) |
-| Fri, 11 Jul 2025 13:24:23 GMT | Web Application Attacks and Exploitation | Carylrobert | [Read More](https://medium.com/p/3e28299dffe2) |
-| Fri, 11 Jul 2025 13:20:02 GMT | AI Malware Outsmarts Microsoft Defender: A Wake-Up Call for 2025 Cybersecurity Strategies | Technijian | [Read More](https://medium.com/p/3be1e8ada08b) |
-| Fri, 11 Jul 2025 13:18:32 GMT | How I Harden My Linux Server in 30 Minutes After Every Fresh Install (Ubuntu & Red Hat) | Faruk Ahmed | [Read More](https://medium.com/p/7c92c8e5c12b) |
-| Fri, 11 Jul 2025 13:14:53 GMT | OWASP Top 10: SOC Analyst Breakdown for Real-World Defense | Dhruvish Rathod | [Read More](https://medium.com/p/1174d3302164) |
-| Fri, 11 Jul 2025 13:06:56 GMT | Try CleanMyMac: The All-In-One Assistant That Makes Your Mac 10x Faster | Nikhil Vemu | [Read More](https://medium.com/p/c9bd6c2da440) |
