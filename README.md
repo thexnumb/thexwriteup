@@ -12,7 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 12:33:46 GMT | New “PerfektBlue” Bluetooth vulnerability Let Attackers Run Remote Code on Mercedes, VW & Škoda… | Ekene Joseph | [Read More](https://medium.com/p/7b4648e024fc) |
+| Fri, 11 Jul 2025 12:32:55 GMT | Bank Reconciliation Software: What It Is and Why It Matters | Kosh AI | [Read More](https://medium.com/p/9366fb959647) |
+| Fri, 11 Jul 2025 12:26:01 GMT | As someone who works at the intersection of AI and cybersecurity, I’ve come to see how critical it… | Cloud4C Services | [Read More](https://medium.com/p/8ca326952dfd) |
+| Fri, 11 Jul 2025 12:25:07 GMT | PerfektBlue: The Covert Penetration Testing Ally You’ve Been Overlooking | Ekene Joseph | [Read More](https://medium.com/p/33a7b2bee4e3) |
+| Fri, 11 Jul 2025 12:23:42 GMT | The Art and Science of PCB Design: Bridging Concepts to Reality | Grace Wanja | [Read More](https://medium.com/p/b5847cee75b1) |
+| Fri, 11 Jul 2025 12:21:56 GMT | How I Escalated Simple HTML Injection to SSRF via PDF Rendering | Ahmed Tarek | [Read More](https://medium.com/p/682ea94b3194) |
+| Fri, 11 Jul 2025 12:17:17 GMT | ActiveScan++: Supercharging Burp suite Scanner for Advanced Vulnerability Assessment | Zino jo | [Read More](https://medium.com/p/48bb54336738) |
+| Fri, 11 Jul 2025 12:16:58 GMT | Elevate Your Cybersecurity Career with CISSP Certification at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/fa9f1f9a62a5) |
+| Fri, 11 Jul 2025 12:16:09 GMT | File Upload Vulnerabilities Part-6 : Remote code execution via polyglot web shell upload | Ahmad Sopyan | [Read More](https://medium.com/p/1b5d66a3a207) |
+| Fri, 11 Jul 2025 12:13:38 GMT | Top 5 Phishing Simulation Tools to Train Your Employees Like Cyber Ninjas (2025 Guide) | Elie Attieh | [Read More](https://medium.com/p/9609f2d84403) |
+| Fri, 11 Jul 2025 12:12:55 GMT | How I Accessed an Admin Dashboard in 5 Minutes (Without Brute Force) | Ibtissam hammadi | [Read More](https://medium.com/p/a776a737f74a) |
+| Fri, 11 Jul 2025 12:12:14 GMT | A Deep Dive into a Real Threat | Riad Moudjahed | [Read More](https://medium.com/p/736305a1083e) |
+| Fri, 11 Jul 2025 12:11:56 GMT | Welcome to Day 1 of the IAM Series! | Nelson Njuguna | [Read More](https://medium.com/p/40ea4cbe66fe) |
+| Fri, 11 Jul 2025 12:06:52 GMT | TryHackMe Mindgames — Walkthrough | mauzware | [Read More](https://medium.com/p/b45dc7f5a39f) |
+| Fri, 11 Jul 2025 12:01:41 GMT | Burp Suite as a Vulnerability Assessment Tool: A Must-Have for Ethical Hackers | Mr Joe | [Read More](https://medium.com/p/bc6f61df5cbb) |
+| Fri, 11 Jul 2025 11:56:04 GMT | Malicious Chrome Extensions Bypass Google’s Security Systems | Karl Buhl | [Read More](https://medium.com/p/6967979ea1ee) |
+| Fri, 11 Jul 2025 11:55:44 GMT | Securing AWS: The Role of Penetration Testing and Best Practices | Redfox Security | [Read More](https://medium.com/p/4e61a4292a79) |
+| Fri, 11 Jul 2025 11:54:07 GMT | ️ BlueTeamGPT: The AI Defender Revolutionizing Blue Team Operations | Mohammed Gabic | [Read More](https://medium.com/p/1838bcb65c04) |
+| Fri, 11 Jul 2025 11:47:43 GMT | The Rise of “Shift-Everywhere” in DevSecOps: Security at Every Stage | Ezekiel peter | [Read More](https://medium.com/p/d7b9d0c84a9a) |
+| Fri, 11 Jul 2025 11:43:51 GMT | CISF-Level Security for Businesses: Why It’s the New Benchmark in Protection | Sumintra | [Read More](https://medium.com/p/aec1ccc751ba) |
+| Fri, 11 Jul 2025 11:43:29 GMT | Burp AI: Burp suite Ai — the next frontier in AppSec testing | Carylrobert | [Read More](https://medium.com/p/9d033a89da4d) |
+| Fri, 11 Jul 2025 11:43:22 GMT | GraphQL @auth directives — on the client-side | Aarne Laur | [Read More](https://medium.com/p/04048a0a6b97) |
+| Fri, 11 Jul 2025 11:39:19 GMT | Hack the System | Jeremy Domingos | [Read More](https://medium.com/p/c883ebfa05ef) |
+| Fri, 11 Jul 2025 11:39:12 GMT | Naoris Protocol and Level One Robotics Partner to Secure the Future of Industrial Automation | Naoris Protocol | [Read More](https://medium.com/p/95fd3fd0c1b2) |
+| Fri, 11 Jul 2025 11:38:53 GMT | How I Helped a Startup Avoid a $50,000 Breach — Lessons from the Front Lines of Ethical Hacking | Muhammad Rashid Mughal | [Read More](https://medium.com/p/773e4789ba79) |
+| Fri, 11 Jul 2025 11:37:59 GMT | Step-by-Step: How to Whitelist a Website in Windows & macOS | Vantage MDM | [Read More](https://medium.com/p/06a14196a51b) |
+| Fri, 11 Jul 2025 11:37:00 GMT | From Jio Mobile to NASA HOF: My Unconventional Path into Cybersecurity | Sidhartha | [Read More](https://medium.com/p/32463b64c941) |
 | Fri, 11 Jul 2025 11:36:49 GMT | THM — Attacktive Directory [Walkthrough] | Karan Chaudhary | [Read More](https://medium.com/p/d52da91fb923) |
+| Fri, 11 Jul 2025 11:34:09 GMT | Security For AI | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/0f287bbcaebf) |
+| Fri, 11 Jul 2025 11:32:57 GMT | Information is Power: Reconnaissance Explained for Aspiring Ethical Hackers | Diyajat | [Read More](https://medium.com/p/fbe6a9814e07) |
 | Fri, 11 Jul 2025 11:28:07 GMT | Why Startups and Enterprises Alike Need Application Security Testing | SmartCLOUD Australia | [Read More](https://medium.com/p/a509a3b4868f) |
 | Fri, 11 Jul 2025 11:25:48 GMT | Defensive AI | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/2f651f2c772f) |
 | Fri, 11 Jul 2025 11:25:27 GMT | FedRAMP vs. CMMC: How They Compare and Why It Matters | Brittney Ginther | [Read More](https://medium.com/p/33fa1d1a79a4) |
@@ -83,32 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 07:38:27 GMT | Splunk: Data Manipulation | Peta Pavan | [Read More](https://medium.com/p/c2a2e5250f39) |
 | Fri, 11 Jul 2025 07:38:19 GMT | Top 10 Mobile Application Security Testing Tools in 2025 | cyber security Updates | [Read More](https://medium.com/p/1335124d62cf) |
 | Fri, 11 Jul 2025 07:36:08 GMT | SafeLine WAF Automation: Real-World Security Ops Example (Case 1) | Quella | [Read More](https://medium.com/p/267b76e23907) |
-| Fri, 11 Jul 2025 07:33:11 GMT | How SOAR Improves Threat Detection and Response Times | Matin Shaikh | [Read More](https://medium.com/p/0cc4792eb1fa) |
-| Fri, 11 Jul 2025 07:23:39 GMT | How secure is your cloud transformation today? | Ziya Zoe | [Read More](https://medium.com/p/29e2575310d7) |
-| Fri, 11 Jul 2025 07:23:27 GMT | Grok 4 Just Dropped — And It’s a Beast | Aaron | [Read More](https://medium.com/p/e4e8c54861a0) |
-| Fri, 11 Jul 2025 07:21:48 GMT | 5 Essential Duties Every Security Guard Must Perform | Sentrysofficers | [Read More](https://medium.com/p/e355dd1e2d5f) |
-| Fri, 11 Jul 2025 07:21:44 GMT | Cybersecurity Basics Every Nigerian Should Know | BGIT Nigeria | [Read More](https://medium.com/p/256fb31ee809) |
-| Fri, 11 Jul 2025 07:21:02 GMT | Why Running ldd on Untrusted Executables is a Security Risk | Aung Nanda Oo | [Read More](https://medium.com/p/5e5cef653b3a) |
-| Fri, 11 Jul 2025 07:17:02 GMT | Why Selecting the Suitable Penetration Testing Company in India is Important | Aarav Mehta | [Read More](https://medium.com/p/8d0a3698422b) |
-| Fri, 11 Jul 2025 07:14:30 GMT | SOC 2 Audit Survival: 21 Tips Before the Auditor Knocks | SecureSlate | [Read More](https://medium.com/p/db8ed29a56f9) |
-| Fri, 11 Jul 2025 07:13:24 GMT | XSS at Duke University - No Reply | AbhirupKonwar | [Read More](https://medium.com/p/82765eb3d844) |
-| Fri, 11 Jul 2025 07:08:22 GMT | Git Happens: When .git Folders Revealed the Whole Damn Backend | Iski | [Read More](https://medium.com/p/b181b77c4c76) |
-| Fri, 11 Jul 2025 07:06:29 GMT | My Dog Stopped Moving — And I Finally Admitted What I Was Hiding | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/5f25c95d0f9d) |
-| Fri, 11 Jul 2025 07:04:24 GMT | Who needs cloud transformation security services? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/12045caa5e9b) |
-| Fri, 11 Jul 2025 07:00:53 GMT | Neden Desecure? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/969e43b52624) |
-| Fri, 11 Jul 2025 06:57:47 GMT | How a Young Talent Changed Microsoft’s Rules: The Impressive Achievement of 13-Year-Old Dylan | Alper Konuralp | [Read More](https://medium.com/p/1d5fe67c463a) |
-| Fri, 11 Jul 2025 06:57:22 GMT | Queue Management Solved: Video Analytics Streamlines Service in Omani Stores | Tekhabeeb | [Read More](https://medium.com/p/be2e4251bf6f) |
-| Fri, 11 Jul 2025 06:56:18 GMT | Genç Yetenek Microsoft’un Kurallarını Nasıl Değiştirdi: 13 Yaşındaki Dylan’ın Etkileyici Başarısı | Alper Konuralp | [Read More](https://medium.com/p/182aae556bb0) |
-| Fri, 11 Jul 2025 06:56:04 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/716c7c353b46) |
-| Fri, 11 Jul 2025 06:53:01 GMT | Hawat (PG Practice): From SQL Injection to Root | Nail Gozalov | [Read More](https://medium.com/p/c038942b48ad) |
-| Fri, 11 Jul 2025 06:50:07 GMT | Titanic — HTB | 14mj4ck | [Read More](https://medium.com/p/db7bba84cb14) |
-| Fri, 11 Jul 2025 06:50:01 GMT | Earn Good Money via PayPal cashapp Bank western Union Zelle Transfer and Cloned Cards Atm cvv vbv… | Gonzalezablerta | [Read More](https://medium.com/p/598877833f81) |
-| Fri, 11 Jul 2025 06:48:02 GMT | The Disappearing Human Touch: Are We Automating Empathy Out of Our Lives? | Mr Vale | [Read More](https://medium.com/p/ad0200592b31) |
-| Fri, 11 Jul 2025 06:46:24 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/572dabed3469) |
-| Fri, 11 Jul 2025 06:44:48 GMT | How to Identify IAM Policy and CloudFormation Misconfigurations in AWS | Aravind S V | [Read More](https://medium.com/p/6fcbb2bac6b3) |
-| Fri, 11 Jul 2025 06:44:19 GMT | Fighting Terror Together: How Effective is ASEAN’s Regional Counterterrorism Strategy? | Dan Marshall-Singh | [Read More](https://medium.com/p/b3e4b45218dc) |
-| Fri, 11 Jul 2025 06:36:43 GMT | From AppSec to Red Team: My CRTP Journey and the Ultimate Beginner Guide | Hrishikesh Bhavar | [Read More](https://medium.com/p/af7731c87ddf) |
-| Fri, 11 Jul 2025 06:36:15 GMT | When Regex Goes Rogue: Exploiting ReDoS in the Wild | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e81cc9814d26) |
-| Fri, 11 Jul 2025 06:35:46 GMT | Zero-Width Characters: The Invisible Threat Hiding in Plain Sight | Narendar Battula (nArEn) | [Read More](https://medium.com/p/92f384e31716) |
-| Fri, 11 Jul 2025 06:35:16 GMT | The Invisible Hack: Homograph Attacks You Won’t See Coming | Narendar Battula (nArEn) | [Read More](https://medium.com/p/254ffc2d9931) |
-| Fri, 11 Jul 2025 06:15:30 GMT | The MGM Resorts Cyberattack: When Identity Becomes the Weakest Link | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/65d0b1daba52) |
