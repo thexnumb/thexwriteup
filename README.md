@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 11:36:49 GMT | THM — Attacktive Directory [Walkthrough] | Karan Chaudhary | [Read More](https://medium.com/p/d52da91fb923) |
+| Fri, 11 Jul 2025 11:28:07 GMT | Why Startups and Enterprises Alike Need Application Security Testing | SmartCLOUD Australia | [Read More](https://medium.com/p/a509a3b4868f) |
+| Fri, 11 Jul 2025 11:25:48 GMT | Defensive AI | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/2f651f2c772f) |
+| Fri, 11 Jul 2025 11:25:27 GMT | FedRAMP vs. CMMC: How They Compare and Why It Matters | Brittney Ginther | [Read More](https://medium.com/p/33fa1d1a79a4) |
+| Fri, 11 Jul 2025 11:24:55 GMT | AssessFirst Chronicles — On the road to ISO 27001: Internal Audits (episode 7) | Rebecca Cottignies | [Read More](https://medium.com/p/1eb90917087f) |
 | Fri, 11 Jul 2025 11:15:35 GMT | Ministry of Electronics and Information Technology | Stavrou Robert | [Read More](https://medium.com/p/a88de3d8f5e8) |
 | Fri, 11 Jul 2025 11:14:09 GMT | The Rust Ownership Revolution: Why Every Programmer Needs to Understand This | Sreeved Vp | [Read More](https://medium.com/p/28325e12dcf9) |
 | Fri, 11 Jul 2025 11:10:46 GMT | How to Practice Ethical Hacking Legally (Without Getting in Trouble) | The Quiet Hacker | [Read More](https://medium.com/p/b8701df4ee7f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 06:35:46 GMT | Zero-Width Characters: The Invisible Threat Hiding in Plain Sight | Narendar Battula (nArEn) | [Read More](https://medium.com/p/92f384e31716) |
 | Fri, 11 Jul 2025 06:35:16 GMT | The Invisible Hack: Homograph Attacks You Won’t See Coming | Narendar Battula (nArEn) | [Read More](https://medium.com/p/254ffc2d9931) |
 | Fri, 11 Jul 2025 06:15:30 GMT | The MGM Resorts Cyberattack: When Identity Becomes the Weakest Link | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/65d0b1daba52) |
-| Fri, 11 Jul 2025 06:15:28 GMT | “At some point you stop counting them”: the lesson I learned after finding 30+ CVEs | fluffyc3rb3rus | [Read More](https://medium.com/p/a99813d9f905) |
-| Fri, 11 Jul 2025 06:06:31 GMT | How Malicious Android Apps Can Impersonate Yours Using Deep Links | Frankheat | [Read More](https://medium.com/p/8eac7f245aaf) |
-| Fri, 11 Jul 2025 06:05:28 GMT | [Bug Bounty] Inside the Triager’s Mind: What They Actually Look For | Andrei Ivan | [Read More](https://medium.com/p/534c520ab4d7) |
-| Fri, 11 Jul 2025 06:02:54 GMT | Today’s Top Cyber Intelligence Highlights — Jul 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/13a76e521ca7) |
-| Fri, 11 Jul 2025 06:02:28 GMT | ContAInment TryHackme Walkthrough | GauthamV | [Read More](https://medium.com/p/7670ee175d6a) |
