@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 14:32:57 GMT | ‍ SQL Injection (SQLi) for Beginners — Using Burp Suite to Exploit Database Flaws | Mr Joe | [Read More](https://medium.com/p/224b92fcdb4b) |
+| Fri, 11 Jul 2025 14:29:06 GMT | From URL to Server’s secrets: Path Traversal Vulnerability | Rabia Riaz | [Read More](https://medium.com/p/df78f5978949) |
+| Fri, 11 Jul 2025 14:26:47 GMT | What is the CIA triad? | Kavithayeravothula | [Read More](https://medium.com/p/328b6c7213c9) |
+| Fri, 11 Jul 2025 14:24:38 GMT | The Best Way to Secure Your Next.js App? Part 3. Mastering Role-Based Access in Next.js Auth.js | Santiago Dellepiane | [Read More](https://medium.com/p/5c07e0b4971c) |
+| Fri, 11 Jul 2025 14:23:07 GMT | TryHackMe: Pickle Rick | Babatunde Ojo | [Read More](https://medium.com/p/679f623b8ed5) |
+| Fri, 11 Jul 2025 14:23:02 GMT | Is Your Job Safe? Surviving the AI and Automation Shake-Up | HamnaAhmad | [Read More](https://medium.com/p/7efcd373247f) |
 | Fri, 11 Jul 2025 14:10:35 GMT | Brute Force Bonanza: Hacking into Web & SSH Logins to Capture the Flag | Jabaribrown | [Read More](https://medium.com/p/f14c31e17d35) |
 | Fri, 11 Jul 2025 14:06:32 GMT | Brazil faced numerous cybersecurity threats last year, and we have the solutions | Kaspersky | [Read More](https://medium.com/p/f26406988a51) |
 | Fri, 11 Jul 2025 14:05:23 GMT | ️‍♂️ IDOR Attack for Beginners — Using Burp Suite to Access Hidden Data | Mohammed Gabic | [Read More](https://medium.com/p/df2076143740) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 10:11:03 GMT | PortSwigger Lab — Path Traversal | k1dd0sz | [Read More](https://medium.com/p/176dec73a8a9) |
 | Fri, 11 Jul 2025 10:10:50 GMT | Stack Overflow Protections | Aditya Bhos | [Read More](https://medium.com/p/5a4fcdff7f8d) |
 | Fri, 11 Jul 2025 10:01:36 GMT | “I Trusted You.” | 0xbrijith | [Read More](https://medium.com/p/ced2488f5b73) |
-| Fri, 11 Jul 2025 10:01:23 GMT | Gamify Your Cyber-Hygiene: 6 Mini-Quests to Level-Up Your Security Stats | Franziska "Ziska" Fink | [Read More](https://medium.com/p/cb56bbd21125) |
-| Fri, 11 Jul 2025 09:51:00 GMT | Deep dive SIEM(SEC555) Part 2 | Bit_Picker | [Read More](https://medium.com/p/ba29504f1268) |
-| Fri, 11 Jul 2025 09:39:36 GMT | Power Grid ICS Are Exposed — What Does This Mean for Critical Infrastructure? | ZoomEye | [Read More](https://medium.com/p/d8fdd96feef2) |
-| Fri, 11 Jul 2025 09:24:11 GMT | Which One’s Your Perfect Fit: Elastic Stack vs Splunk vs Wazuh | Maharkk | [Read More](https://medium.com/p/97f1b601a01a) |
-| Fri, 11 Jul 2025 09:21:04 GMT | How to Get Your First Bug Bounty Payout (Fast): 5 Proven Tips for Web3 Hunters | Stupid Contract | [Read More](https://medium.com/p/299a468cd1fc) |
-| Fri, 11 Jul 2025 09:21:04 GMT | SIEM Lab: Look Into Wazuh Dashboard and Agent Deployment | Stevanus Banu | [Read More](https://medium.com/p/af1c2aae11dd) |
