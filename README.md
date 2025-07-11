@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 06:15:30 GMT | The MGM Resorts Cyberattack: When Identity Becomes the Weakest Link | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/65d0b1daba52) |
+| Fri, 11 Jul 2025 06:15:28 GMT | “At some point you stop counting them”: the lesson I learned after finding 30+ CVEs | fluffyc3rb3rus | [Read More](https://medium.com/p/a99813d9f905) |
+| Fri, 11 Jul 2025 06:06:31 GMT | How Malicious Android Apps Can Impersonate Yours Using Deep Links | Frankheat | [Read More](https://medium.com/p/8eac7f245aaf) |
+| Fri, 11 Jul 2025 06:05:28 GMT | [Bug Bounty] Inside the Triager’s Mind: What They Actually Look For | Andrei Ivan | [Read More](https://medium.com/p/534c520ab4d7) |
+| Fri, 11 Jul 2025 06:02:54 GMT | Today’s Top Cyber Intelligence Highlights — Jul 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/13a76e521ca7) |
+| Fri, 11 Jul 2025 06:02:28 GMT | ContAInment TryHackme Walkthrough | GauthamV | [Read More](https://medium.com/p/7670ee175d6a) |
+| Fri, 11 Jul 2025 05:59:20 GMT | Starting OSCP at 16 | Chad Annapora | [Read More](https://medium.com/p/8ec1eadd93f0) |
+| Fri, 11 Jul 2025 05:55:03 GMT | Dedicated Server for SaaS Startups: How to Choose the Right One? | HostNOC | [Read More](https://medium.com/p/34278df80a7e) |
+| Fri, 11 Jul 2025 05:51:43 GMT | Exploiting PowerShell: A Technical Review of Unpatched Attack Vectors | The Aegis Security | [Read More](https://medium.com/p/b4c4606db260) |
+| Fri, 11 Jul 2025 05:50:41 GMT | TryHackMe Industrial CTF Competition — Forensic Challenge | Muhammad Ahsan Ijaz | [Read More](https://medium.com/p/5ab8eaa31e34) |
+| Fri, 11 Jul 2025 05:47:12 GMT | India’s Trusted Private Safety Deposit Lockers — Biometric, Secure, Accessible | Mysafe India - Safe Deposit Box Service​ | [Read More](https://medium.com/p/d76afb40ac99) |
+| Fri, 11 Jul 2025 05:47:00 GMT | Are Your Passwords as Safe as You Think? | QNu Labs | [Read More](https://medium.com/p/2c20b5668d5d) |
 | Fri, 11 Jul 2025 05:39:48 GMT | How Risk-Based Authentication Enhances User Experience Without Compromising Security | Gargiben | [Read More](https://medium.com/p/78ee34d993b7) |
 | Fri, 11 Jul 2025 05:34:33 GMT | Docker Registry Hacking via Dorking | AbhirupKonwar | [Read More](https://medium.com/p/d27093c236e8) |
 | Fri, 11 Jul 2025 05:19:05 GMT | Your Smart Home is Spying on You: 3 Privacy Fixes That Work | Aj | [Read More](https://medium.com/p/6a5c0b0abcc1) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 10 Jul 2025 20:25:17 GMT | Dishwashing and Code | Jukka Paulin | [Read More](https://medium.com/p/763c3ab591fd) |
 | Thu, 10 Jul 2025 20:12:57 GMT | Sorry for the Silence… But I’ve Got Something Cooking! | Satyam Pathania | [Read More](https://medium.com/p/de4ff80ec1e0) |
 | Thu, 10 Jul 2025 20:01:45 GMT | Part 3: Cybersecurity in Web3 — The Code is Law (and exploitable) DeFi Exploits & Audits | Ben San Roman | [Read More](https://medium.com/p/5058d5ee65c2) |
-| Thu, 10 Jul 2025 19:29:00 GMT | What Is Love? | Genesis Rosario | [Read More](https://medium.com/p/d484c78da47f) |
-| Thu, 10 Jul 2025 19:24:14 GMT | A Tale of Production Woe: The JDK Serialization Bug That Got Me | Umesh Kumar Yadav | [Read More](https://medium.com/p/43fbeb44729f) |
-| Thu, 10 Jul 2025 19:23:17 GMT | ️‍♂️ Threat Hunting: How a Chrome Extension Triggered a Full-Blown Investigation | Pulkit Chanana | [Read More](https://medium.com/p/6b04d930f2db) |
-| Thu, 10 Jul 2025 19:18:59 GMT | How BMS Integrates with Fire Alarm and Smoke Detector Systems for Total Safety | Ataraxis Solutions | [Read More](https://medium.com/p/9d86c0c949a1) |
-| Thu, 10 Jul 2025 19:13:16 GMT | ️ Cybersecurity Roadmap for Beginners in 2025 | CyberPack | [Read More](https://medium.com/p/d8af1ea097ba) |
-| Thu, 10 Jul 2025 19:12:04 GMT | Creating a Vulnerability Lab on VirtualBox: DVWA, Metasploitable, Juice Shop | Rajkumar Kumawat | [Read More](https://medium.com/p/431e16e01763) |
-| Thu, 10 Jul 2025 19:11:33 GMT | MDR Services: The Smart Way to Detect and Stop Cyber Threats | SafeAeon Inc. | [Read More](https://medium.com/p/49400c8fc738) |
-| Thu, 10 Jul 2025 19:10:29 GMT | Engineering a Linux Malware to bypass almost all Next-Gen Antiviruses in the World | Sachin      Verlekar | [Read More](https://medium.com/p/78bfb5e3d01e) |
-| Thu, 10 Jul 2025 19:05:02 GMT | Tracking Failed Attempts with Temporary Block Logic in Spring Boot | Alexander Obregon | [Read More](https://medium.com/p/29cee665d0f2) |
-| Thu, 10 Jul 2025 18:58:38 GMT | 10 Web Development Security Best Practices Saving Your From The Collapse | Alexei Falco | [Read More](https://medium.com/p/292a02c41d27) |
-| Thu, 10 Jul 2025 18:57:58 GMT | MSP Cybersecurity: Why Managed Service Providers Are Key to Business Protection | SafeAeon Inc. | [Read More](https://medium.com/p/58c718584e4f) |
-| Thu, 10 Jul 2025 18:54:24 GMT | Arch Linux Isn’t Scary — You Just Have to Configure Everything | Tonny Blair | [Read More](https://medium.com/p/0e95a789efe5) |
