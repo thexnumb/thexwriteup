@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 21:12:09 GMT | Why I Started Learning Cybersecurity | Gurnoor Kaur | [Read More](https://medium.com/p/db667278903e) |
+| Fri, 11 Jul 2025 21:03:30 GMT | RoadMap: Source Code Analysis — White Box | Shwajsophia | [Read More](https://medium.com/p/6ed3a8dcbb3e) |
+| Fri, 11 Jul 2025 21:00:09 GMT | “Cyber Kill Chain”? Sounds Dramatic? It is. | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/c4958b5600ba) |
+| Fri, 11 Jul 2025 20:52:53 GMT | Exploiting Server-Side Template Injection (SSTI) in Jinja2: From Input Field to Remote Code… | Santhosh Adiga U | [Read More](https://medium.com/p/403547b9b90c) |
+| Fri, 11 Jul 2025 20:51:15 GMT | Iranian APTs and the Next Phase of Infrastructure Risk | Josh Johnson | [Read More](https://medium.com/p/d915e1f96dc8) |
+| Fri, 11 Jul 2025 20:43:10 GMT | Anakus BTLO | ibra | [Read More](https://medium.com/p/83b5d2062101) |
 | Fri, 11 Jul 2025 20:39:34 GMT | How I Dual Booted Kali Linux with Windows Using Ventoy | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/918b76822416) |
+| Fri, 11 Jul 2025 20:38:40 GMT | Owning the Network with Scapy: Real-World Packet Manipulation and Attacks | Santhosh Adiga U | [Read More](https://medium.com/p/8d1896008f0b) |
 | Fri, 11 Jul 2025 20:29:25 GMT | Phishing Mail Detected — Excel 4.0 Macros Attack - Investigation | Sayyid Thabsheer | [Read More](https://medium.com/p/8dd6b9c03771) |
 | Fri, 11 Jul 2025 20:26:08 GMT | Google Dorking: The Ultimate Reference for Hackers, Bug Bounty Hunters, and Pentesters | Santhosh Adiga U | [Read More](https://medium.com/p/160717838e78) |
 | Fri, 11 Jul 2025 20:24:31 GMT | Deploying a Honeypot with T-Pot: Catching Real-World Cyber Attacks | Bahadir Mammadli | [Read More](https://medium.com/p/dec66b5ec4a5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 14:24:38 GMT | The Best Way to Secure Your Next.js App? Part 3. Mastering Role-Based Access in Next.js Auth.js | Santiago Dellepiane | [Read More](https://medium.com/p/5c07e0b4971c) |
 | Fri, 11 Jul 2025 14:23:07 GMT | TryHackMe: Pickle Rick | Babatunde Ojo | [Read More](https://medium.com/p/679f623b8ed5) |
 | Fri, 11 Jul 2025 14:23:02 GMT | Is Your Job Safe? Surviving the AI and Automation Shake-Up | HamnaAhmad | [Read More](https://medium.com/p/7efcd373247f) |
-| Fri, 11 Jul 2025 14:10:35 GMT | Brute Force Bonanza: Hacking into Web & SSH Logins to Capture the Flag | Jabaribrown | [Read More](https://medium.com/p/f14c31e17d35) |
-| Fri, 11 Jul 2025 14:06:32 GMT | Brazil faced numerous cybersecurity threats last year, and we have the solutions | Kaspersky | [Read More](https://medium.com/p/f26406988a51) |
-| Fri, 11 Jul 2025 14:05:23 GMT | ️‍♂️ IDOR Attack for Beginners — Using Burp Suite to Access Hidden Data | Mohammed Gabic | [Read More](https://medium.com/p/df2076143740) |
-| Fri, 11 Jul 2025 14:03:48 GMT | Privilege Escalation for Unquoted Service Path (Windows) | Ammar Ahmed | [Read More](https://medium.com/p/86af05aecfde) |
-| Fri, 11 Jul 2025 14:02:03 GMT | What is AWS? | Ifeoma Nwokeoma | [Read More](https://medium.com/p/a06812b045ff) |
-| Fri, 11 Jul 2025 14:01:46 GMT | Cyber Briefing: 2025.07.11 | CyberMaterial | [Read More](https://medium.com/p/e725a1ee0d77) |
-| Fri, 11 Jul 2025 14:00:10 GMT | Hunting Open Redirects in Web Applications — A Practical Guide | 0b1d1 | [Read More](https://medium.com/p/f94b2ef2dd82) |
