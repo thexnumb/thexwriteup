@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 08:47:12 GMT | Top 10 Cyber Threats in 2025 and How to Avoid Them | B. N. Hamisi | [Read More](https://medium.com/p/cc38f6546277) |
+| Fri, 11 Jul 2025 08:33:35 GMT | The Four Pillars of Antivirus Detection: Understanding Modern Cybersecurity Defense Mechanisms | Zrhmz | [Read More](https://medium.com/p/39e82aafc756) |
+| Fri, 11 Jul 2025 08:27:54 GMT | What is the demand for bug bounty hunting? Is it worth learning as a beginner? | Quantum & Cyber | [Read More](https://medium.com/p/81ee4c2b49cf) |
 | Fri, 11 Jul 2025 08:27:15 GMT | Step-By-Step DFIR-IRIS Installation | Enitan Ogungbade | [Read More](https://medium.com/p/dc04726fcba5) |
+| Fri, 11 Jul 2025 08:26:51 GMT | Why Comprehensive Risk and Threat Assessments Are Critical for Effective Security | Sentrysofficers | [Read More](https://medium.com/p/624cfdbf96a8) |
 | Fri, 11 Jul 2025 08:26:20 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/f0fb780b4405) |
+| Fri, 11 Jul 2025 08:26:20 GMT | I Just Want to Be Seen and Heard | Caia Wynn | [Read More](https://medium.com/p/24120fa45864) |
 | Fri, 11 Jul 2025 08:22:52 GMT | Deploying SafeLine WAF on Kubernetes: A Beginner-Friendly Guide | AerieWhole123 | [Read More](https://medium.com/p/9c974dad086f) |
+| Fri, 11 Jul 2025 08:21:28 GMT | From Chaos to Clarity: How We Built a Privacy-First CI/CD Monitoring Platform That Actually… | Sebastian | [Read More](https://medium.com/p/81448bb63a32) |
 | Fri, 11 Jul 2025 08:19:47 GMT | Windows Threat Detection 1 - -TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/186f8209c968) |
 | Fri, 11 Jul 2025 08:18:30 GMT | AI Image for Post Cover | MITRE Doggy | [Read More](https://medium.com/p/2847a74a5552) |
 | Fri, 11 Jul 2025 08:18:01 GMT | Test Management in der Digitalen Transformation: Ihr strategischer Roadmap für 2025 (mit… | Philip Hansen | [Read More](https://medium.com/p/0cfc25fe9c6f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 02:01:09 GMT | Os maníacos do IOC atacam novamente. | Thiago | [Read More](https://medium.com/p/ad27023c3c83) |
 | Fri, 11 Jul 2025 02:01:04 GMT | Hidden Truth Why Identity Management Is Not Easy | Dmytro Khmelenko | [Read More](https://medium.com/p/2a2a96d0cc8c) |
 | Fri, 11 Jul 2025 01:56:40 GMT | A Shadow from the Stars: The Space Force, Reagan’s Vision, McKinnon’s Revelations, Corso’s Secrets… | Oliviero Mannucci | [Read More](https://medium.com/p/3d936e7999db) |
-| Fri, 11 Jul 2025 01:53:12 GMT | Viral Posts: The Good and the Bad | Savvy Cyber Kids | [Read More](https://medium.com/p/fc70c65bcde7) |
-| Fri, 11 Jul 2025 01:52:53 GMT | What is ChatGPT and What Are Its Effects on Privacy? | Savvy Cyber Kids | [Read More](https://medium.com/p/f90f83757128) |
-| Fri, 11 Jul 2025 01:46:59 GMT | From Informative To Medium (6.5) | Muhammad Wageh | [Read More](https://medium.com/p/e19bec7cf23d) |
-| Fri, 11 Jul 2025 01:46:46 GMT | Evil-GPT v2: Write-Up | A Learner | [Read More](https://medium.com/p/7931b5d2a161) |
-| Fri, 11 Jul 2025 01:36:50 GMT | The Brutal Beauty of Starting Cybersecurity With Nothing | Abraham Eleojo Salifu | [Read More](https://medium.com/p/48b845458148) |
-| Fri, 11 Jul 2025 01:19:10 GMT | AI Agents Are Sitting Ducks for Attackers. | TechVest Blueprint | [Read More](https://medium.com/p/d7be3890917d) |
