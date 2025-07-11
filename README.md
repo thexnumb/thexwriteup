@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 09:12:41 GMT | From Users to Root: File Auditing for Privilege Escalation | Kushwanth R | [Read More](https://medium.com/p/2b91b0d2a7d6) |
+| Fri, 11 Jul 2025 09:03:34 GMT | Evil-GPT v2 Tryhackme writeup | GauthamV | [Read More](https://medium.com/p/98e00827bac3) |
+| Fri, 11 Jul 2025 09:02:34 GMT | Sitecore 10.4.1 Released — Smarter, Safer, Faster  Release Date: June 25, 2025 | Aman Cpwar | [Read More](https://medium.com/p/1fe970792f54) |
+| Fri, 11 Jul 2025 09:02:24 GMT | How to Avoid Getting Hacked on Public Wi-Fi: 6 Rules That Actually Work | Cloudbric VPN | [Read More](https://medium.com/p/298d8d333f40) |
+| Fri, 11 Jul 2025 09:01:32 GMT | Secure Coding Essentials for Mobile Apps 2025 | Aslesha Tiwari | [Read More](https://medium.com/p/71b85d265c63) |
+| Fri, 11 Jul 2025 09:00:36 GMT | The Mind Gets Tired Too | Akeredolu Esther Oyindamola | [Read More](https://medium.com/p/572034a3fa0c) |
+| Fri, 11 Jul 2025 08:58:12 GMT | Why Your API Needs Idempotency And How to Build It in Express + Mongoose | Racheal Kuranchie | [Read More](https://medium.com/p/186f9f181904) |
+| Fri, 11 Jul 2025 08:50:45 GMT | How We Trained 20+ Developers for MCP in Under a Month | Manprax official | [Read More](https://medium.com/p/905c09b7601b) |
+| Fri, 11 Jul 2025 08:47:45 GMT | PortSwigger Lab — Authentication vulnerabilities | k1dd0sz | [Read More](https://medium.com/p/76fd6d70a0d0) |
 | Fri, 11 Jul 2025 08:47:12 GMT | Top 10 Cyber Threats in 2025 and How to Avoid Them | B. N. Hamisi | [Read More](https://medium.com/p/cc38f6546277) |
+| Fri, 11 Jul 2025 08:44:44 GMT | The Daily Tech Digest: 11 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/374478305c83) |
 | Fri, 11 Jul 2025 08:33:35 GMT | The Four Pillars of Antivirus Detection: Understanding Modern Cybersecurity Defense Mechanisms | Zrhmz | [Read More](https://medium.com/p/39e82aafc756) |
 | Fri, 11 Jul 2025 08:27:54 GMT | What is the demand for bug bounty hunting? Is it worth learning as a beginner? | Quantum & Cyber | [Read More](https://medium.com/p/81ee4c2b49cf) |
 | Fri, 11 Jul 2025 08:27:15 GMT | Step-By-Step DFIR-IRIS Installation | Enitan Ogungbade | [Read More](https://medium.com/p/dc04726fcba5) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 03:01:45 GMT | Brazil’s Hidden Nuclear Past: From Secret Amazon Tunnels to Lula’s Silent Standoff with the IAEA | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/a3586de5dcde) |
 | Fri, 11 Jul 2025 02:48:05 GMT | OpenSSH RCE Vulnerability (CVE-2024–6387): What You Need to Know | AerieWhole123 | [Read More](https://medium.com/p/f1b0d6b56308) |
 | Fri, 11 Jul 2025 02:37:00 GMT | FBI Sounds Alarm As Airline Cyber Threats Escalate | Darshan | [Read More](https://medium.com/p/9efefa4cd3dc) |
-| Fri, 11 Jul 2025 02:19:17 GMT | Git Scanner : A Journey Through the Wild West of Exposed Git Repositories | jpe1e | [Read More](https://medium.com/p/f7d070073cef) |
-| Fri, 11 Jul 2025 02:17:29 GMT | $17M Drained: Axie Co-Founder, Abracadabra, Goledo, and Citadel Exploited | Olympix | [Read More](https://medium.com/p/cb6613c6e170) |
-| Fri, 11 Jul 2025 02:14:23 GMT | What is the Salesforce API Access Control feature and why is it very good for security? | Doug Merrett | [Read More](https://medium.com/p/dd527174b92e) |
-| Fri, 11 Jul 2025 02:10:15 GMT | OSCP Prep: BASHED | Dino | [Read More](https://medium.com/p/d659caef01c2) |
-| Fri, 11 Jul 2025 02:09:26 GMT | Strategic Paralysis by Design: Part IV — The Human Firewall is Broken — Cyber Workforce Gaps as a… | Chris Clark | [Read More](https://medium.com/p/1b5dce80870e) |
-| Fri, 11 Jul 2025 02:05:02 GMT | ️ Building an Incident Response Plan for DDoS Attacks | Paritosh | [Read More](https://medium.com/p/0e2f93db8e12) |
-| Fri, 11 Jul 2025 02:01:23 GMT | Seamless Image Uploads with Next.js, Server Actions, and Cloudflare R2 | JealousDev | [Read More](https://medium.com/p/41d23a202760) |
-| Fri, 11 Jul 2025 02:01:09 GMT | Os maníacos do IOC atacam novamente. | Thiago | [Read More](https://medium.com/p/ad27023c3c83) |
-| Fri, 11 Jul 2025 02:01:04 GMT | Hidden Truth Why Identity Management Is Not Easy | Dmytro Khmelenko | [Read More](https://medium.com/p/2a2a96d0cc8c) |
-| Fri, 11 Jul 2025 01:56:40 GMT | A Shadow from the Stars: The Space Force, Reagan’s Vision, McKinnon’s Revelations, Corso’s Secrets… | Oliviero Mannucci | [Read More](https://medium.com/p/3d936e7999db) |
