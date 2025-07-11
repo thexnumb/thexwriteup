@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 14:10:35 GMT | Brute Force Bonanza: Hacking into Web & SSH Logins to Capture the Flag | Jabaribrown | [Read More](https://medium.com/p/f14c31e17d35) |
+| Fri, 11 Jul 2025 14:06:32 GMT | Brazil faced numerous cybersecurity threats last year, and we have the solutions | Kaspersky | [Read More](https://medium.com/p/f26406988a51) |
+| Fri, 11 Jul 2025 14:05:23 GMT | ️‍♂️ IDOR Attack for Beginners — Using Burp Suite to Access Hidden Data | Mohammed Gabic | [Read More](https://medium.com/p/df2076143740) |
+| Fri, 11 Jul 2025 14:03:48 GMT | Privilege Escalation for Unquoted Service Path (Windows) | Ammar Ahmed | [Read More](https://medium.com/p/86af05aecfde) |
+| Fri, 11 Jul 2025 14:02:03 GMT | What is AWS? | Ifeoma Nwokeoma | [Read More](https://medium.com/p/a06812b045ff) |
+| Fri, 11 Jul 2025 14:01:46 GMT | Cyber Briefing: 2025.07.11 | CyberMaterial | [Read More](https://medium.com/p/e725a1ee0d77) |
+| Fri, 11 Jul 2025 14:00:10 GMT | Hunting Open Redirects in Web Applications — A Practical Guide | 0b1d1 | [Read More](https://medium.com/p/f94b2ef2dd82) |
+| Fri, 11 Jul 2025 13:59:04 GMT | Local File Inclusion (LFI) for Beginners — Using Burp Suite to Hack Like a Pro | Mohammed Gabic | [Read More](https://medium.com/p/fabd851a26da) |
+| Fri, 11 Jul 2025 13:55:50 GMT | Bug Wonder | ✨️Joce | [Read More](https://medium.com/p/6c685099fcd6) |
+| Fri, 11 Jul 2025 13:52:28 GMT | Remote Code Execution (RCE) — A Beginner’s Guide to the Most Dangerous Web Attack | Ezekiel peter | [Read More](https://medium.com/p/070d7dcfb387) |
+| Fri, 11 Jul 2025 13:47:42 GMT | TryHackMe Kenobi Full Walkthrough: SMB, FTP, NFS, PrivEsc | Yaksha | [Read More](https://medium.com/p/33d01f976910) |
+| Fri, 11 Jul 2025 13:47:31 GMT | What is XSS? A Beginner’s Guide to Cross-Site Scripting with Examples | Ezekiel peter | [Read More](https://medium.com/p/d7bb8631c960) |
+| Fri, 11 Jul 2025 13:46:38 GMT | The Silent Army: Why Nonhuman Identities Are Your Biggest Security Blind Spot | Zachary White | [Read More](https://medium.com/p/1eac8e01cc42) |
+| Fri, 11 Jul 2025 13:45:27 GMT | Why I’m Building ph4nt0msec — From CEH Master to Freelance Red Team Ops | Ph4nt0msec | [Read More](https://medium.com/p/f08c94ced446) |
+| Fri, 11 Jul 2025 13:42:10 GMT | Public Bucket, Private Tears – The Day I Found an Open S3 and Still Got “Informative” | Vamsi Krishna | [Read More](https://medium.com/p/a0bcfca59760) |
+| Fri, 11 Jul 2025 13:40:48 GMT | Dream Meanings: What Does It Mean to Be Naked in a Dream? | Eva | [Read More](https://medium.com/p/aa5250b3d536) |
+| Fri, 11 Jul 2025 13:39:35 GMT | Local File Inclusion (LFI) — A Dangerous Yet Overlooked Web Attack | Carylrobert | [Read More](https://medium.com/p/805f9e114db8) |
+| Fri, 11 Jul 2025 13:38:55 GMT | The Algorithmic Renaissance: Reimagining AI as Humanity’s Ally | Namir Sagheenanajar | [Read More](https://medium.com/p/f3a8ecc648df) |
+| Fri, 11 Jul 2025 13:37:50 GMT | The Importance of Memory Acquisition in Modern Digital Forensics | Dean | [Read More](https://medium.com/p/b8e0a73f4de4) |
+| Fri, 11 Jul 2025 13:33:40 GMT | Unpacking GraphQL Security: A Practical Guide for Testers and Developers | EL_Cazad0r | [Read More](https://medium.com/p/9aedc2d6e791) |
 | Fri, 11 Jul 2025 13:32:07 GMT | ISO 27001 ile Bilgi Güvenliğine Yolculuk — 2 | İrem Çagla Demirtaş | [Read More](https://medium.com/p/60bd0b40afb6) |
 | Fri, 11 Jul 2025 13:31:20 GMT | When One Google Account Isn’t Enough: Breaking Identity Boundaries via SSO Confusion | Digvijay Gholase | [Read More](https://medium.com/p/10e4f8381a44) |
 | Fri, 11 Jul 2025 13:30:49 GMT | 350+ Free TryHackMe Rooms to Learn Ethical Hacking & Cybersecurity [2025 Edition] | cyberwinx | [Read More](https://medium.com/p/25b7e3848ee3) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 09:24:11 GMT | Which One’s Your Perfect Fit: Elastic Stack vs Splunk vs Wazuh | Maharkk | [Read More](https://medium.com/p/97f1b601a01a) |
 | Fri, 11 Jul 2025 09:21:04 GMT | How to Get Your First Bug Bounty Payout (Fast): 5 Proven Tips for Web3 Hunters | Stupid Contract | [Read More](https://medium.com/p/299a468cd1fc) |
 | Fri, 11 Jul 2025 09:21:04 GMT | SIEM Lab: Look Into Wazuh Dashboard and Agent Deployment | Stevanus Banu | [Read More](https://medium.com/p/af1c2aae11dd) |
-| Fri, 11 Jul 2025 09:12:41 GMT | From Users to Root: File Auditing for Privilege Escalation | Kushwanth R | [Read More](https://medium.com/p/2b91b0d2a7d6) |
-| Fri, 11 Jul 2025 09:03:34 GMT | Evil-GPT v2 Tryhackme writeup | GauthamV | [Read More](https://medium.com/p/98e00827bac3) |
-| Fri, 11 Jul 2025 09:02:34 GMT | Sitecore 10.4.1 Released — Smarter, Safer, Faster  Release Date: June 25, 2025 | Aman Cpwar | [Read More](https://medium.com/p/1fe970792f54) |
-| Fri, 11 Jul 2025 09:02:24 GMT | How to Avoid Getting Hacked on Public Wi-Fi: 6 Rules That Actually Work | Cloudbric VPN | [Read More](https://medium.com/p/298d8d333f40) |
-| Fri, 11 Jul 2025 09:01:32 GMT | Secure Coding Essentials for Mobile Apps 2025 | Aslesha Tiwari | [Read More](https://medium.com/p/71b85d265c63) |
-| Fri, 11 Jul 2025 09:00:36 GMT | The Mind Gets Tired Too | Akeredolu Esther Oyindamola | [Read More](https://medium.com/p/572034a3fa0c) |
-| Fri, 11 Jul 2025 08:58:12 GMT | Why Your API Needs Idempotency And How to Build It in Express + Mongoose | Racheal Kuranchie | [Read More](https://medium.com/p/186f9f181904) |
-| Fri, 11 Jul 2025 08:50:45 GMT | How We Trained 20+ Developers for MCP in Under a Month | Manprax official | [Read More](https://medium.com/p/905c09b7601b) |
-| Fri, 11 Jul 2025 08:47:45 GMT | PortSwigger Lab — Authentication vulnerabilities | k1dd0sz | [Read More](https://medium.com/p/76fd6d70a0d0) |
-| Fri, 11 Jul 2025 08:47:12 GMT | Top 10 Cyber Threats in 2025 and How to Avoid Them | B. N. Hamisi | [Read More](https://medium.com/p/cc38f6546277) |
-| Fri, 11 Jul 2025 08:44:44 GMT | The Daily Tech Digest: 11 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/374478305c83) |
-| Fri, 11 Jul 2025 08:33:35 GMT | The Four Pillars of Antivirus Detection: Understanding Modern Cybersecurity Defense Mechanisms | Zrhmz | [Read More](https://medium.com/p/39e82aafc756) |
-| Fri, 11 Jul 2025 08:27:54 GMT | What is the demand for bug bounty hunting? Is it worth learning as a beginner? | Quantum & Cyber | [Read More](https://medium.com/p/81ee4c2b49cf) |
-| Fri, 11 Jul 2025 08:27:15 GMT | Step-By-Step DFIR-IRIS Installation | Enitan Ogungbade | [Read More](https://medium.com/p/dc04726fcba5) |
-| Fri, 11 Jul 2025 08:26:51 GMT | Why Comprehensive Risk and Threat Assessments Are Critical for Effective Security | Sentrysofficers | [Read More](https://medium.com/p/624cfdbf96a8) |
-| Fri, 11 Jul 2025 08:26:20 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/f0fb780b4405) |
-| Fri, 11 Jul 2025 08:26:20 GMT | I Just Want to Be Seen and Heard | Caia Wynn | [Read More](https://medium.com/p/24120fa45864) |
-| Fri, 11 Jul 2025 08:22:52 GMT | Deploying SafeLine WAF on Kubernetes: A Beginner-Friendly Guide | AerieWhole123 | [Read More](https://medium.com/p/9c974dad086f) |
-| Fri, 11 Jul 2025 08:21:28 GMT | From Chaos to Clarity: How We Built a Privacy-First CI/CD Monitoring Platform That Actually… | Sebastian | [Read More](https://medium.com/p/81448bb63a32) |
-| Fri, 11 Jul 2025 08:19:47 GMT | Windows Threat Detection 1 - -TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/186f8209c968) |
