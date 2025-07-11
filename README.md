@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 11 Jul 2025 22:59:51 GMT | Introduction: The Invisible Weapon of the 21st Century | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/19c7a04e250c) |
 | Fri, 11 Jul 2025 22:41:59 GMT | Why Choose Remote Over On-Site Security? | Visual Monitoring Solutions | [Read More](https://medium.com/p/49be2b249c71) |
 | Fri, 11 Jul 2025 22:20:24 GMT | AI Moves Fast — Your Container Security Has to Move Faster | Sophia Perez | [Read More](https://medium.com/p/3d2b94f61b2b) |
 | Fri, 11 Jul 2025 22:18:12 GMT | The Linux Security Journey — USB Guard (Universal Serial Bus Guard) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/66e1a45ac901) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 15:15:27 GMT | VCAEDL: A Practical, Containment- My First Incident Response Methodology | Manish Rawat | [Read More](https://medium.com/p/6eeca9056544) |
 | Fri, 11 Jul 2025 15:15:02 GMT | Why Your Password is Probably Terrible (And How to Fix It in 2025) | Navin | [Read More](https://medium.com/p/330af38dee50) |
 | Fri, 11 Jul 2025 15:10:50 GMT | Hijacking the Cache — Part 2: When Parameters Go Rogue | Đeepanshu | [Read More](https://medium.com/p/0242c0e9f4fc) |
-| Fri, 11 Jul 2025 15:06:53 GMT | Race Condition Vulnerability: A Hidden Threat in Concurrent Systems | Jitu Kambad | [Read More](https://medium.com/p/58c03d8da2b7) |
