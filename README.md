@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 17:32:15 GMT | FEAR 2 : AM I ALWAYS GOING TO BE TOO MUCH (OR NOT ENOUGH)? | Dreamy | [Read More](https://medium.com/p/4602646e902b) |
+| Sat, 12 Jul 2025 17:27:37 GMT | Real Case: How Trustoryx Saved a Young Woman from a Fake Marriage Trap | NIkhil Kumar | [Read More](https://medium.com/p/11e2283cea9e) |
+| Sat, 12 Jul 2025 17:22:51 GMT | AI-Powered NIDS | Tal Eliyahu | [Read More](https://medium.com/p/b0e19be7639e) |
+| Sat, 12 Jul 2025 17:19:18 GMT | Volt Typhoon TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/61dc13664cad) |
+| Sat, 12 Jul 2025 17:15:17 GMT | Bug Report: OTP Rate Limit Bypass via URL Obfuscation | Raghav Arora | [Read More](https://medium.com/p/1e3fc8074217) |
+| Sat, 12 Jul 2025 17:12:55 GMT | DAY 12 — Linux CTF Challenge #4 | Jinay | [Read More](https://medium.com/p/b415fbba032d) |
+| Sat, 12 Jul 2025 17:08:51 GMT | Collect Exclusive RECON Through Recon Solana's Reward Burst | $RECON (Recon Solana) | [Read More](https://medium.com/p/4679ffa3b47e) |
 | Sat, 12 Jul 2025 17:07:03 GMT | TryHackMe: Vulnerability Capstone | Babatunde Ojo | [Read More](https://medium.com/p/f504b75ae8ba) |
 | Sat, 12 Jul 2025 17:04:48 GMT | Seccomp in Docker | Reza Owliaei | [Read More](https://medium.com/p/128c413409a9) |
 | Sat, 12 Jul 2025 17:01:17 GMT | Android Trojan Dropper Analysis — RTO_Challan_1500.apk Case Study | Krishnakanth seetharaman | [Read More](https://medium.com/p/a00e7fe82293) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 11:45:37 GMT | Human Factors in Cybersecurity: Mitigating Risk Through a Custom Awareness Program and… | Kelechi Onwuka | [Read More](https://medium.com/p/3826f7075d0d) |
 | Sat, 12 Jul 2025 11:38:26 GMT | How Telegram Bots Can Help You Discover Credentials and User info | Anonymousshetty | [Read More](https://medium.com/p/49d36caeb704) |
 | Sat, 12 Jul 2025 11:33:30 GMT | Even When It’s Hard, He’s Still Here | Heidi lai | [Read More](https://medium.com/p/2f0162ca0a05) |
-| Sat, 12 Jul 2025 11:28:23 GMT | End-to-End ELK + MCP Integration: A Beginner’s Deployment Guide | f0xy_pr0xy | [Read More](https://medium.com/p/f2c3e36a0aeb) |
-| Sat, 12 Jul 2025 11:20:49 GMT | Dmail: Taking Back Control of Your Digital Conversations. | BLX's | [Read More](https://medium.com/p/2a9d4fa9c32d) |
-| Sat, 12 Jul 2025 11:20:16 GMT | Gravity Forms Supply‑Chain Breach Exposes Millions of WordPress Sites | Jasmitharouthu | [Read More](https://medium.com/p/b923f85ee4b2) |
-| Sat, 12 Jul 2025 11:11:30 GMT | Will World War III be digital? | Avateernaa Duttaray | [Read More](https://medium.com/p/7b697c4a857d) |
-| Sat, 12 Jul 2025 11:10:15 GMT | Starting My Cybersecurity Degree: What I Learned About Red and Blue Teams | S Similimran | [Read More](https://medium.com/p/47f1c1c42ed5) |
-| Sat, 12 Jul 2025 10:57:01 GMT | The Philosophical Perspective of Technology in PETs | Sobix | [Read More](https://medium.com/p/eff75f964039) |
-| Sat, 12 Jul 2025 10:56:48 GMT | Mengenal Platform Digital dengan Sistem Terintegrasi dan Stabil | SinarCahaya | [Read More](https://medium.com/p/235d26a1466e) |
