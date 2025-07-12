@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 07:34:48 GMT | About Me — Mrinal Kumar Chandra | Mrinalchandra | [Read More](https://medium.com/p/04b0940eb95e) |
+| Sat, 12 Jul 2025 07:32:58 GMT | Fuzzing Techniques for Maximum Bug Bounty Impact — ffufai Tool | It4chis3c | [Read More](https://medium.com/p/74e21735d6f1) |
+| Sat, 12 Jul 2025 07:25:59 GMT | I Am Offline – And That Changed Everything | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/7d0f3ec8d683) |
+| Sat, 12 Jul 2025 07:17:42 GMT | CTF Day(28) | Ahmed Narmer | [Read More](https://medium.com/p/0a37b9e6f7e7) |
 | Sat, 12 Jul 2025 06:57:25 GMT | Accessing Admin Directory | SIDDHANT SHUKLA | [Read More](https://medium.com/p/eec04145a0fc) |
 | Sat, 12 Jul 2025 06:56:59 GMT | From Packaging Lines to Hackers’ Goldmine: The Hidden Risk of PCOM | Azim Uddin | [Read More](https://medium.com/p/9af5c254a667) |
 | Sat, 12 Jul 2025 06:52:21 GMT | Email is Silly — Owning Your Own Email Address | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/23e0cebda9d7) |
@@ -36,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 05:19:10 GMT | Server-Side Request Forgery (SSRF) Attacks: A Guide to Bypassing Filters and Accessing Internal… | Gopal Mohan | [Read More](https://medium.com/p/53c991118e59) |
 | Sat, 12 Jul 2025 05:09:57 GMT | PCI DSS: The Protector of Secure Payments!! | Yamini Baskar | [Read More](https://medium.com/p/39a597ad0f3f) |
 | Sat, 12 Jul 2025 05:01:24 GMT | Inside Go8: Where Passion for Tech Meets Purposeful Work | Go8 Technology Inc. | [Read More](https://medium.com/p/379e8e69dc71) |
+| Sat, 12 Jul 2025 04:48:20 GMT | Perbedaan Red Teaming & Pentesting | Ris | [Read More](https://medium.com/p/593567bf6f2e) |
 | Sat, 12 Jul 2025 04:46:23 GMT | Using Different Tools and Technologies in the Field of Information Technology | Poddar Group of Institutions | [Read More](https://medium.com/p/45215b5c75ca) |
 | Sat, 12 Jul 2025 04:45:05 GMT | Bug Bounty Metodologi | Ris | [Read More](https://medium.com/p/fa4be30010e5) |
 | Sat, 12 Jul 2025 04:44:59 GMT | Penetration Testing Stages Explained: A Complete Guide | Securis360 Inc. | [Read More](https://medium.com/p/71b09434c9db) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 18:51:25 GMT | The Freedom to Be Vulnerable | Rahmanov Irina | [Read More](https://medium.com/p/e059eb245253) |
 | Fri, 11 Jul 2025 18:51:03 GMT | How I Hacked My Way to the eJPT | Laian Bani Sakher | [Read More](https://medium.com/p/0984f8b5b2d2) |
 | Fri, 11 Jul 2025 18:41:38 GMT | CTF Whats Your Name - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/a1d1d35b462c) |
-| Fri, 11 Jul 2025 18:41:01 GMT | Shelob in the Pentesting Room: Cybersecurity Leadership Challenges — Part 1 | checkm4te | [Read More](https://medium.com/p/ff1abfb365e7) |
-| Fri, 11 Jul 2025 18:28:52 GMT | The Threat is Real… And It’s Already Inside the Wire | T Boe | [Read More](https://medium.com/p/77414ed579b9) |
-| Fri, 11 Jul 2025 18:27:10 GMT | The IT Bloke’s Weekly Wrap-Up | Mohammed Brückner | [Read More](https://medium.com/p/f1746f44babc) |
-| Fri, 11 Jul 2025 18:22:04 GMT | Cedar Valley News — July 11, 2025 | Evan Swensen | [Read More](https://medium.com/p/ddb13be03de1) |
-| Fri, 11 Jul 2025 18:19:50 GMT | Secure Vibe Coding: Staying Safe While Collaborating with AI | Aravind S V | [Read More](https://medium.com/p/32f9f63a7f2e) |
