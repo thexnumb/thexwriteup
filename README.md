@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 21:37:51 GMT | #  My First CTF — Web Challenge Writeup (NahamCon 2025) | brono theo | [Read More](https://medium.com/p/89d5f8c5e4e2) |
+| Sat, 12 Jul 2025 21:35:26 GMT | PortSwigger — Authentication Lab | Ishtiyak  Surve | [Read More](https://medium.com/p/4c7db01d127a) |
+| Sat, 12 Jul 2025 21:32:54 GMT | How I Hacked an Admin Panel with Just a Weak Password (and Why You’re at Risk Too) | Ibtissam hammadi | [Read More](https://medium.com/p/e3e2f0b9522f) |
+| Sat, 12 Jul 2025 21:18:05 GMT | Demystifying SPL in Splunk: How Log Analytics Works (Beginner Tutorial + Real Example) | Hemavarna Sundar | [Read More](https://medium.com/p/3505c8bb19de) |
 | Sat, 12 Jul 2025 21:09:35 GMT | ️How I Found a Reflected XSS on India’s one of the largest companie Tata Motors Website —But Got… | Tech Researcher | [Read More](https://medium.com/p/1c617c3afe53) |
 | Sat, 12 Jul 2025 20:58:20 GMT | Your Smartphone Is a Hacker’s Goldmine: A SOC Analyst’s Guide to Keeping It Secure. | Dany Christel | [Read More](https://medium.com/p/ad940edca04d) |
 | Sat, 12 Jul 2025 20:57:12 GMT | K8s Secrets: Base Recommended Protection - Restrict Secret Access to Specific Containers | W. Jenks Gibbons | [Read More](https://medium.com/p/cf2c1c746e1e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 13:38:04 GMT | CVE-2025–6554: Google Chrome Zero-Day Caused by Type Confusion in V8 Engine | Om Maniya | [Read More](https://medium.com/p/417e1eab2f22) |
 | Sat, 12 Jul 2025 13:37:54 GMT | Not Just a Regex Filter: What Modern WAFs Actually Do — and Don’t” | Sandeep Saxena | [Read More](https://medium.com/p/be318a20691d) |
 | Sat, 12 Jul 2025 13:37:33 GMT | OWASP NHI Top 10: Why Non-Human Identities Are Your Largest Unsecured Attack Surface | Sandeep Saxena | [Read More](https://medium.com/p/ef3f421d4a44) |
-| Sat, 12 Jul 2025 13:36:58 GMT | Bypassing File Upload Restrictions to Achieve XSS in a Crypto Application | Yamini Yadav | [Read More](https://medium.com/p/3319e8b527e1) |
-| Sat, 12 Jul 2025 13:36:38 GMT | $13,950 Bounty: Exploiting GitLab Integrations for Full XSS | Monika sharma | [Read More](https://medium.com/p/19275a030c2b) |
-| Sat, 12 Jul 2025 13:36:28 GMT | DAY 3: ALMOST GAVE UP | Akshatdwivedi | [Read More](https://medium.com/p/369d2516a8dc) |
-| Sat, 12 Jul 2025 13:35:58 GMT | From Zero to Hero: How I Broke into Cybersecurity with No Degree | Aj | [Read More](https://medium.com/p/e24dbf9a4226) |
