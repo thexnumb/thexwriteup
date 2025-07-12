@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 22:09:33 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 4: Context of the organization… | Aaron Rusz | [Read More](https://medium.com/p/191c44bedd99) |
+| Sat, 12 Jul 2025 22:06:55 GMT | How to Use a VPN for Beginners: A Simple Guide to Get Started | Timonéofearth | [Read More](https://medium.com/p/4dc7e1b53f6c) |
+| Sat, 12 Jul 2025 22:05:25 GMT | Introducing Nova AI: The Context Layer for Autonomous Intelligence | Build with NOVA | [Read More](https://medium.com/p/9861e70e15e1) |
+| Sat, 12 Jul 2025 21:40:57 GMT | Becoming Virtually Untraceable — #7–25_0PPR355!V3_4U7H0R174R!4N1SM.log | Ian Barwise | [Read More](https://medium.com/p/88ccf7d0558f) |
 | Sat, 12 Jul 2025 21:37:51 GMT | #  My First CTF — Web Challenge Writeup (NahamCon 2025) | brono theo | [Read More](https://medium.com/p/89d5f8c5e4e2) |
 | Sat, 12 Jul 2025 21:35:26 GMT | PortSwigger — Authentication Lab | Ishtiyak  Surve | [Read More](https://medium.com/p/4c7db01d127a) |
 | Sat, 12 Jul 2025 21:32:54 GMT | How I Hacked an Admin Panel with Just a Weak Password (and Why You’re at Risk Too) | Ibtissam hammadi | [Read More](https://medium.com/p/e3e2f0b9522f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 13:42:50 GMT | Introduction: When Seconds of Downtime Turn Into Millions | saurabh cyberinfomines | [Read More](https://medium.com/p/1b330e955dca) |
 | Sat, 12 Jul 2025 13:41:07 GMT | How to Create Your Own Hacker Toolkit in Docker | Vipul Sonule | [Read More](https://medium.com/p/606723dbd8ac) |
 | Sat, 12 Jul 2025 13:39:45 GMT | Europe’s Decryption Dilemma: The EU’s Controversial Plan to Access Private Data by 2030. | eL Njas!™ | [Read More](https://medium.com/p/3edf34f6fabc) |
-| Sat, 12 Jul 2025 13:39:34 GMT | Find Risky SUID/SGID Files in Linux Before an Attacker Does | Ahmed Yassin | [Read More](https://medium.com/p/319de8b218a5) |
-| Sat, 12 Jul 2025 13:38:04 GMT | CVE-2025–6554: Google Chrome Zero-Day Caused by Type Confusion in V8 Engine | Om Maniya | [Read More](https://medium.com/p/417e1eab2f22) |
-| Sat, 12 Jul 2025 13:37:54 GMT | Not Just a Regex Filter: What Modern WAFs Actually Do — and Don’t” | Sandeep Saxena | [Read More](https://medium.com/p/be318a20691d) |
-| Sat, 12 Jul 2025 13:37:33 GMT | OWASP NHI Top 10: Why Non-Human Identities Are Your Largest Unsecured Attack Surface | Sandeep Saxena | [Read More](https://medium.com/p/ef3f421d4a44) |
