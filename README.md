@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 10:08:43 GMT | The One Where ITIO Innovex Made Security Simple | ITIO INNOVEX | [Read More](https://medium.com/p/c59b6d78a154) |
+| Sat, 12 Jul 2025 10:06:54 GMT | Ethical Hacking Practical Training Online | Manisha Chaudhary | [Read More](https://medium.com/p/3574aaaf52ec) |
+| Sat, 12 Jul 2025 09:49:56 GMT | Burp, Bounce, and Break: How SSRF to Redis Gave Me the Keys to the Castle | Iski | [Read More](https://medium.com/p/19ba546093e4) |
+| Sat, 12 Jul 2025 09:48:41 GMT | Why Quantum Computing Is Reshaping the Future of Digital Security. | Bright Mmaduabuchi | [Read More](https://medium.com/p/64715c49be29) |
+| Sat, 12 Jul 2025 09:43:42 GMT | ARE YOU WORRIED ABOUT AWS SECURITY??? | Benedict Owino | [Read More](https://medium.com/p/af4b367df724) |
+| Sat, 12 Jul 2025 09:43:19 GMT | FileFix: Abuse of Windows Explorer | 0xh4lpy | [Read More](https://medium.com/p/f9b5d37c307e) |
 | Sat, 12 Jul 2025 09:38:01 GMT | BCM-Framework: Der ultimative Strategieleitfaden für Geschäftsführer in 2025 | Philip Hansen | [Read More](https://medium.com/p/47850e4de463) |
 | Sat, 12 Jul 2025 09:31:42 GMT | Alex:** Hey, Sam! | Chathurka | [Read More](https://medium.com/p/b027d90775c5) |
 | Sat, 12 Jul 2025 09:11:30 GMT | the rise of quiet quitting 10.0 on social media | S Anuradha | [Read More](https://medium.com/p/b98814edbf9f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 23:35:07 GMT | The Stories I’m Still Avoiding | Koko Kawasaki | [Read More](https://medium.com/p/379c53d516f3) |
 | Fri, 11 Jul 2025 23:26:46 GMT | Hacking on a Local Network | Mike Anthony | [Read More](https://medium.com/p/4fcf909a5bb9) |
 | Fri, 11 Jul 2025 23:21:50 GMT | How Hackers Can Hijack Your AI with One Malicious Server | Cyber-AppSec | [Read More](https://medium.com/p/fd7f543f9537) |
-| Fri, 11 Jul 2025 23:18:48 GMT | I Built an SSH Honeypot and Watched Real Hackers Attack My Fake Server in Real Time | Oluwatobi Boluwatife Taiwo | [Read More](https://medium.com/p/fbf261983356) |
-| Fri, 11 Jul 2025 22:59:51 GMT | Introduction: The Invisible Weapon of the 21st Century | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/19c7a04e250c) |
-| Fri, 11 Jul 2025 22:41:59 GMT | Why Choose Remote Over On-Site Security? | Visual Monitoring Solutions | [Read More](https://medium.com/p/49be2b249c71) |
-| Fri, 11 Jul 2025 22:20:24 GMT | AI Moves Fast — Your Container Security Has to Move Faster | Sophia Perez | [Read More](https://medium.com/p/3d2b94f61b2b) |
-| Fri, 11 Jul 2025 22:18:12 GMT | The Linux Security Journey — USB Guard (Universal Serial Bus Guard) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/66e1a45ac901) |
-| Fri, 11 Jul 2025 22:16:54 GMT | DevSecOps in Practice: Embedding Security in CI/CD Pipelines | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ec0593a00a30) |
