@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 20:38:17 GMT | CTF Day(30) | Ahmed Narmer | [Read More](https://medium.com/p/e47e2dd1b69a) |
+| Sat, 12 Jul 2025 20:32:10 GMT | Apple Built the Perfect Spy: Part 1 | D. Mikhailov | [Read More](https://medium.com/p/dd846aa5e723) |
+| Sat, 12 Jul 2025 20:29:53 GMT | TalentCoders Siber Güvenlik Kampı: 2. Hafta Deneyimim — FortiGate ile Uygulamalı Ağ Güvenliği | Talha Tarlabaz | [Read More](https://medium.com/p/a105f405ffd2) |
+| Sat, 12 Jul 2025 20:24:14 GMT | Detecting Adversarial Attacks — Tryhackme | Mukund | [Read More](https://medium.com/p/6bf3673ab134) |
 | Sat, 12 Jul 2025 20:15:28 GMT | The CCTV Trap: How Poor Security Practices Turned Cameras into Attack Vectors | Sitale Apurwa | [Read More](https://medium.com/p/0e8481cccd4a) |
+| Sat, 12 Jul 2025 20:14:54 GMT | How I Bypass 2FA through confirmation link.. | Aftab Raja | [Read More](https://medium.com/p/5bfdd773057a) |
 | Sat, 12 Jul 2025 20:08:06 GMT | CTF Day(29) | Ahmed Narmer | [Read More](https://medium.com/p/7f76f92d5fb5) |
 | Sat, 12 Jul 2025 20:05:57 GMT | The Story of NetSync.exe: Between Missed Flags and Memorable Moments | Hritesh Rai | [Read More](https://medium.com/p/09826b836983) |
 | Sat, 12 Jul 2025 20:05:48 GMT | When Speaking Up Feels Risky: How to Support Women in Vulnerable Moments✨ | Brittany Jenay | [Read More](https://medium.com/p/d1f5bf6add27) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 13:31:12 GMT | Stealing Parameters of a Logistic Regression Model | Daniel | [Read More](https://medium.com/p/06d5d8bc4bc7) |
 | Sat, 12 Jul 2025 13:30:07 GMT | How I Found a Critical IDOR in Indian Railways Corporate Booking Portal Exposing Millions of Users… | coffinxp | [Read More](https://medium.com/p/41fdd2145efe) |
 | Sat, 12 Jul 2025 13:19:33 GMT | How I Made $20K+ From Broken Link Hijacking on GitHub Repos | Arshad Kazmi | [Read More](https://medium.com/p/67d8917912f7) |
-| Sat, 12 Jul 2025 13:17:04 GMT | Social engineering (Human Hacking) | Omar Shraideh | [Read More](https://medium.com/p/06f93a689ec5) |
-| Sat, 12 Jul 2025 13:00:45 GMT | OSINT (Open Source Intelligence) Nedir? | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/ea81ac6cbc1d) |
-| Sat, 12 Jul 2025 12:58:33 GMT | Security Operations (SecOps) Services: Safeguarding Your Business from Threats | Scudocyber | [Read More](https://medium.com/p/4556282651a4) |
-| Sat, 12 Jul 2025 12:48:36 GMT | Integrating TheHive with Wazuh: Automate Security Alert Management | Neetrox | [Read More](https://medium.com/p/6a01b03c8796) |
-| Sat, 12 Jul 2025 12:44:26 GMT | Concept of Active Directory and How to perform Active Directory Enumeration and Exploitation… | Siddhesh Surve | [Read More](https://medium.com/p/4ff769773e4f) |
