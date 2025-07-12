@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 12:36:31 GMT | Please If You See this Message on your Facebook Messenger, Do Not Click… | ADIBE UGOCHUKWU | [Read More](https://medium.com/p/f843c4b87db4) |
+| Sat, 12 Jul 2025 12:29:02 GMT | TSUTOMU SHIMOMURA IS BEST HACKER TO RECLAIM LOST FUNDS ON CRYPTO TRADE | Wisdomalfred | [Read More](https://medium.com/p/e7bbde86ad47) |
+| Sat, 12 Jul 2025 12:24:46 GMT | The Fourth Crystal Ball: The Birth of Probability and Statistical Thinking | Stanleyyan | [Read More](https://medium.com/p/ea60efb8908e) |
+| Sat, 12 Jul 2025 12:23:55 GMT | Best #SailPoint Online Course in 2025 Offered by #VisualPath ‍ | Pravin Choudhary | [Read More](https://medium.com/p/f5cd54080c0a) |
+| Sat, 12 Jul 2025 12:21:54 GMT | Phishgram — Telegram Red-Team Toolkit | Anatoliy Fedorenko | [Read More](https://medium.com/p/2c75801bbd09) |
+| Sat, 12 Jul 2025 12:20:41 GMT | TSUTOMU SHIMOMURA IS BEST HACKER TO RECLAIM LOST FUNDS ON CRYPTO TRADE | Wisdomalfred | [Read More](https://medium.com/p/fa077d0f08c6) |
+| Sat, 12 Jul 2025 12:18:14 GMT | The Third Crystal Ball: The Calculus Revolution of Newton and Leibniz | Stanleyyan | [Read More](https://medium.com/p/d901fbee24d0) |
+| Sat, 12 Jul 2025 12:16:04 GMT | The Only Blog About Linux that a Beginner need to Know — Basic Commands in Bash | err0rgod | [Read More](https://medium.com/p/b692fb59d407) |
+| Sat, 12 Jul 2025 12:12:06 GMT | The Second Crystal Ball: Archimedes and the Logic of Infinity | Stanleyyan | [Read More](https://medium.com/p/7eddef9e7eba) |
+| Sat, 12 Jul 2025 12:03:36 GMT | HTB — Dog | n0tabdu11ah | [Read More](https://medium.com/p/7cac0a3c1b7f) |
+| Sat, 12 Jul 2025 11:53:43 GMT | Log Forging: Secure Coding Examples | Sahil Dari | [Read More](https://medium.com/p/ddf67404efad) |
+| Sat, 12 Jul 2025 11:52:34 GMT | mSpy: The Best Phone Spy App for Parental Control and Phone Tracking | Narjis Batool | [Read More](https://medium.com/p/59c211cbfd74) |
+| Sat, 12 Jul 2025 11:52:26 GMT | “When Smiling Feels Wrong” | Heidi lai | [Read More](https://medium.com/p/1cfd0445a313) |
+| Sat, 12 Jul 2025 11:48:11 GMT | Redline Lab - Cyber Defenders | Body | [Read More](https://medium.com/p/3574ffd309c9) |
+| Sat, 12 Jul 2025 11:47:15 GMT | The First Crystal Ball: Euclid and the Miracle of Axioms | Stanleyyan | [Read More](https://medium.com/p/c8f685efd48e) |
+| Sat, 12 Jul 2025 11:45:37 GMT | Human Factors in Cybersecurity: Mitigating Risk Through a Custom Awareness Program and… | Kelechi Onwuka | [Read More](https://medium.com/p/3826f7075d0d) |
+| Sat, 12 Jul 2025 11:38:26 GMT | How Telegram Bots Can Help You Discover Credentials and User info | Anonymousshetty | [Read More](https://medium.com/p/49d36caeb704) |
 | Sat, 12 Jul 2025 11:33:30 GMT | Even When It’s Hard, He’s Still Here | Heidi lai | [Read More](https://medium.com/p/2f0162ca0a05) |
 | Sat, 12 Jul 2025 11:28:23 GMT | End-to-End ELK + MCP Integration: A Beginner’s Deployment Guide | f0xy_pr0xy | [Read More](https://medium.com/p/f2c3e36a0aeb) |
 | Sat, 12 Jul 2025 11:20:49 GMT | Dmail: Taking Back Control of Your Digital Conversations. | BLX's | [Read More](https://medium.com/p/2a9d4fa9c32d) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 05:09:57 GMT | PCI DSS: The Protector of Secure Payments!! | Yamini Baskar | [Read More](https://medium.com/p/39a597ad0f3f) |
 | Sat, 12 Jul 2025 05:01:24 GMT | Inside Go8: Where Passion for Tech Meets Purposeful Work | Go8 Technology Inc. | [Read More](https://medium.com/p/379e8e69dc71) |
 | Sat, 12 Jul 2025 04:48:20 GMT | Perbedaan Red Teaming & Pentesting | Ris | [Read More](https://medium.com/p/593567bf6f2e) |
-| Sat, 12 Jul 2025 04:46:23 GMT | Using Different Tools and Technologies in the Field of Information Technology | Poddar Group of Institutions | [Read More](https://medium.com/p/45215b5c75ca) |
-| Sat, 12 Jul 2025 04:45:05 GMT | Bug Bounty Metodologi | Ris | [Read More](https://medium.com/p/fa4be30010e5) |
-| Sat, 12 Jul 2025 04:44:59 GMT | Penetration Testing Stages Explained: A Complete Guide | Securis360 Inc. | [Read More](https://medium.com/p/71b09434c9db) |
-| Sat, 12 Jul 2025 04:39:00 GMT | Holding Leadership Accountable Around Cybersecurity | JC Gaillard | [Read More](https://medium.com/p/3bf79ab49759) |
-| Sat, 12 Jul 2025 04:35:16 GMT | A New Day: A New Mission. Emmanuel! God with us. | Suicide Kings Podcast by @Catalyst Poker | [Read More](https://medium.com/p/e58746cb39d8) |
-| Sat, 12 Jul 2025 04:26:06 GMT | גיל בן צור – דרך של שליחות, פיקוד ועשייה ציבורית | Gilbenzur | [Read More](https://medium.com/p/16b00b65a5ad) |
-| Sat, 12 Jul 2025 04:24:11 GMT | “Gözlerim Kapalı, Kalbim Açık; Aşkın İki Yüzü” | papillon | [Read More](https://medium.com/p/f63d7f01b5b9) |
-| Sat, 12 Jul 2025 04:20:58 GMT | Information security compliance standards | Meghan Joanna | [Read More](https://medium.com/p/63b27c44dceb) |
-| Sat, 12 Jul 2025 04:14:22 GMT | Cyber Stocks & M&A Buzz: Powering the Next Wave of Digital Defense | Shalomo Agarwarkar | [Read More](https://medium.com/p/fd3667c6ae59) |
-| Sat, 12 Jul 2025 04:10:37 GMT | Bug Hunting 101: The Firebase Misconfig That Earned Me a Bounty | Shubham Sharma | [Read More](https://medium.com/p/dd600cef8ade) |
-| Sat, 12 Jul 2025 04:06:35 GMT | Automated AWS Receipt Processing System | Akuphe Dieudonne | [Read More](https://medium.com/p/d97bad75de93) |
-| Sat, 12 Jul 2025 03:58:17 GMT | Who — or What — is n0s4n1ty 1? | Shalomo Agarwarkar | [Read More](https://medium.com/p/65c9e1de26dd) |
-| Sat, 12 Jul 2025 03:56:10 GMT | The Wi-Fi Trap: How Hackers Snoop on Public Networks (and How to Stop Them) | Aj | [Read More](https://medium.com/p/1314288a8e7a) |
-| Sat, 12 Jul 2025 03:46:42 GMT | How to handle your user’s passwords | Joela | [Read More](https://medium.com/p/1087128350ad) |
-| Sat, 12 Jul 2025 03:41:43 GMT | McCarthyism: Witch Hunt or Warning Sign? | Kayla Simas | [Read More](https://medium.com/p/cd0b084b7e48) |
-| Sat, 12 Jul 2025 03:38:31 GMT | Metasploit: Exploitation | sercan timocin | [Read More](https://medium.com/p/ecc0006655a3) |
-| Sat, 12 Jul 2025 03:31:44 GMT | Your Health Data Exposed? | Deven Chhajed | [Read More](https://medium.com/p/700a7964880c) |
