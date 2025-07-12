@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 15:19:28 GMT | Crashing with Clues: How Improper Error Handling Leaks Secrets | Natarajan C K | [Read More](https://medium.com/p/149cb35a46b8) |
+| Sat, 12 Jul 2025 15:15:08 GMT | Networking Concepts- | Shourya Pratap Singh | [Read More](https://medium.com/p/98a8d7112d51) |
+| Sat, 12 Jul 2025 15:11:35 GMT | Rethinking Identity Beyond Passwords: A Frictionless Future | Arshiya Sultana | [Read More](https://medium.com/p/901e23bd233e) |
+| Sat, 12 Jul 2025 15:02:59 GMT | It Course in Bangalore | Abhijit Sawant | [Read More](https://medium.com/p/0aa6d4ed84fa) |
+| Sat, 12 Jul 2025 15:01:54 GMT | Silent Guardians: How air gapped systems play their part in high security environment | Tech Lift | [Read More](https://medium.com/p/eb10bb0cd5ac) |
+| Sat, 12 Jul 2025 14:53:05 GMT | CVE-2025–29927 Nedir? | bovsec | [Read More](https://medium.com/p/21f3673c2afe) |
+| Sat, 12 Jul 2025 14:52:41 GMT | CEH Introduction Part- 2 | Rushikesh G | [Read More](https://medium.com/p/608a6c6e0980) |
+| Sat, 12 Jul 2025 14:44:43 GMT | Red Teaming vs. Pentesting: Sama Tapi Tak Serupa, Apa Bedanya? | mdan | [Read More](https://medium.com/p/d85e00bdc9a8) |
+| Sat, 12 Jul 2025 14:42:40 GMT | CEH Preparation Roadmap: Theory, Practical, and Real-World Hacking Skills (Introduction-part 1) | Rushikesh G | [Read More](https://medium.com/p/c26d95893ef8) |
+| Sat, 12 Jul 2025 14:40:33 GMT | PortSwigger Lab — Server-side request forgery (SSRF) attacks | k1dd0sz | [Read More](https://medium.com/p/30289a22fff7) |
+| Sat, 12 Jul 2025 14:40:31 GMT | Just Released: My Advanced Web-Based Nmap Scanner — Open Source on GitHub! | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/79994813bf5a) |
+| Sat, 12 Jul 2025 14:40:10 GMT | Mythic Setup | Lord Murak | [Read More](https://medium.com/p/e41c66dde8ef) |
+| Sat, 12 Jul 2025 14:35:26 GMT | Shadow AI: The Silent Risk Hiding in Your Workplace — And Why Simply Banning It Won’t Work | 1Protection.AI | [Read More](https://medium.com/p/c73093981526) |
 | Sat, 12 Jul 2025 14:33:27 GMT | How I Simulated a HIPAA-Compliant IT Environment: A Cybersecurity Audit Readiness Project | Anthony Mazyck | [Read More](https://medium.com/p/81af9013348f) |
 | Sat, 12 Jul 2025 14:27:18 GMT | Mastering Dynamic RLS in Power BI — Real-World Tips for Scalable Security | Mahendra Singh | [Read More](https://medium.com/p/e7e43ff177ed) |
 | Sat, 12 Jul 2025 14:13:35 GMT | Why Most NFT Projects Skip Security — and Pay the Price | Recover Right | [Read More](https://medium.com/p/96b4512afa97) |
@@ -78,6 +91,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 10:32:51 GMT | Still In the Room — Unauthorized Asset Access After Removal | 0xoroot | [Read More](https://medium.com/p/61547097ed86) |
 | Sat, 12 Jul 2025 10:32:35 GMT | Top Ethical Hacking Course in India: Learn from Certified Instructors | cyber security Updates | [Read More](https://medium.com/p/ae5d024ffa13) |
 | Sat, 12 Jul 2025 10:31:42 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/2d2830ebe47d) |
+| Sat, 12 Jul 2025 10:26:31 GMT | Memakai OpenSSL Sebagai Sertifikat Keamanan Jaringan Web | Reyza Maulana Putra | [Read More](https://medium.com/p/49fff5afbe64) |
 | Sat, 12 Jul 2025 10:08:43 GMT | The One Where ITIO Innovex Made Security Simple | ITIO INNOVEX | [Read More](https://medium.com/p/c59b6d78a154) |
 | Sat, 12 Jul 2025 10:06:54 GMT | Ethical Hacking Practical Training Online | Manisha Chaudhary | [Read More](https://medium.com/p/3574aaaf52ec) |
 | Sat, 12 Jul 2025 09:49:56 GMT | Burp, Bounce, and Break: How SSRF to Redis Gave Me the Keys to the Castle | Iski | [Read More](https://medium.com/p/19ba546093e4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 08:51:11 GMT | PortSwigger Lab: SQL injection attack, querying the database type and version on MySQL and… | awes0meness | [Read More](https://medium.com/p/a2c93cf71302) |
 | Sat, 12 Jul 2025 08:50:10 GMT | PortSwigger Lab Academy SQLi 4th-6th exercises writeup (SQL Injection) | awes0meness | [Read More](https://medium.com/p/0a02d219cb36) |
 | Sat, 12 Jul 2025 08:48:57 GMT | PortSwigger Lab: First three SQLi lab activities (easy) writeup (SQL Injection) | awes0meness | [Read More](https://medium.com/p/5424512300c9) |
-| Sat, 12 Jul 2025 08:46:55 GMT | The Cybersecurity Trend That Will Never Die: Defense in Depth | CyberGain | [Read More](https://medium.com/p/c82d2e33dff5) |
-| Sat, 12 Jul 2025 08:43:50 GMT | Data Governance 2025: Wie Unternehmen ihre Datenarchitektur für Millionen-Einsparungen… | Philip Hansen | [Read More](https://medium.com/p/bea192553945) |
-| Sat, 12 Jul 2025 08:40:56 GMT | Bug Bounty: Perbedaan Tools Manual vs Automation | Rangga Ananda S | [Read More](https://medium.com/p/e1b3fdbcdd23) |
-| Sat, 12 Jul 2025 08:37:17 GMT | ️ Red Teaming vs. Penetration Testing: Apa Bedanya? | Rangga Ananda S | [Read More](https://medium.com/p/e95779738b99) |
-| Sat, 12 Jul 2025 08:32:55 GMT | Research Insights Made Simple #3 — разбор whitepaper "Security by Design at Google" | Alexander Polomodov | [Read More](https://medium.com/p/f1887eef3020) |
-| Sat, 12 Jul 2025 08:32:48 GMT | Memahami Bug Bounty dan Studi Kasus IDOR di Endpoint Profile | Rangga Ananda S | [Read More](https://medium.com/p/1a400950f29a) |
-| Sat, 12 Jul 2025 08:31:51 GMT | WiFi Pentesting in Real Environments — Part 3: Evil Twin Attacks & Wi-Fi Phishing for… | Sachin kewat | [Read More](https://medium.com/p/2dca72f27bbd) |
-| Sat, 12 Jul 2025 08:28:35 GMT | Hikvision vs CP Plus - Which CCTV Brand Comes Out on Top? | Cost To Cost | [Read More](https://medium.com/p/d809462b5f07) |
-| Sat, 12 Jul 2025 08:26:31 GMT | Real Verified Old Gmail Account Accounts — No Hassle Setup | Kacokalo | [Read More](https://medium.com/p/d604b48fc2d9) |
-| Sat, 12 Jul 2025 08:18:29 GMT | The Influence of Integrity on the Efficiency of Security Personnel in Private “The Security… | K2q official | [Read More](https://medium.com/p/8044879913d3) |
-| Sat, 12 Jul 2025 08:18:24 GMT | Emotional Capitalism in the Age of AI: Will Feelings Become the Final Currency? | Caron | [Read More](https://medium.com/p/2c3daba8048e) |
-| Sat, 12 Jul 2025 08:10:49 GMT | Infinity Shell - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/9d96dd611535) |
-| Sat, 12 Jul 2025 08:05:35 GMT | VulnHub Planets Series: Mercury | Palkesh Jain | [Read More](https://medium.com/p/15b3ead90bd3) |
-| Sat, 12 Jul 2025 08:05:17 GMT | Why CORS Misconfigs Are Still a Goldmine for Attackers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/78542d772f6e) |
