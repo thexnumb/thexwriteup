@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 13:19:33 GMT | How I Made $20K+ From Broken Link Hijacking on GitHub Repos | Arshad Kazmi | [Read More](https://medium.com/p/67d8917912f7) |
+| Sat, 12 Jul 2025 13:17:04 GMT | Social engineering (Human Hacking) | Omar Shraideh | [Read More](https://medium.com/p/06f93a689ec5) |
+| Sat, 12 Jul 2025 13:00:45 GMT | OSINT (Open Source Intelligence) Nedir? | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/ea81ac6cbc1d) |
+| Sat, 12 Jul 2025 12:58:33 GMT | Security Operations (SecOps) Services: Safeguarding Your Business from Threats | Scudocyber | [Read More](https://medium.com/p/4556282651a4) |
+| Sat, 12 Jul 2025 12:48:36 GMT | Integrating TheHive with Wazuh: Automate Security Alert Management | Neetrox | [Read More](https://medium.com/p/6a01b03c8796) |
+| Sat, 12 Jul 2025 12:44:26 GMT | Concept of Active Directory and How to perform Active Directory Enumeration and Exploitation… | Siddhesh Surve | [Read More](https://medium.com/p/4ff769773e4f) |
+| Sat, 12 Jul 2025 12:42:17 GMT | CVE-2025–32463 - Local Privilege Escalation via chroot option in Sudo | Lunacysoft | [Read More](https://medium.com/p/c6d5dda6b131) |
 | Sat, 12 Jul 2025 12:36:31 GMT | Please If You See this Message on your Facebook Messenger, Do Not Click… | ADIBE UGOCHUKWU | [Read More](https://medium.com/p/f843c4b87db4) |
+| Sat, 12 Jul 2025 12:35:57 GMT | Photo by Mauro Sbicego on Unsplash | Stanleyyan | [Read More](https://medium.com/p/138a64ee4e5e) |
+| Sat, 12 Jul 2025 12:30:41 GMT | The Fifth Crystal Ball: Linearity, Algebra, and the Architecture of Thought | Stanleyyan | [Read More](https://medium.com/p/5e73c84a424b) |
 | Sat, 12 Jul 2025 12:29:02 GMT | TSUTOMU SHIMOMURA IS BEST HACKER TO RECLAIM LOST FUNDS ON CRYPTO TRADE | Wisdomalfred | [Read More](https://medium.com/p/e7bbde86ad47) |
 | Sat, 12 Jul 2025 12:24:46 GMT | The Fourth Crystal Ball: The Birth of Probability and Statistical Thinking | Stanleyyan | [Read More](https://medium.com/p/ea60efb8908e) |
 | Sat, 12 Jul 2025 12:23:55 GMT | Best #SailPoint Online Course in 2025 Offered by #VisualPath ‍ | Pravin Choudhary | [Read More](https://medium.com/p/f5cd54080c0a) |
@@ -67,6 +76,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 08:46:55 GMT | The Cybersecurity Trend That Will Never Die: Defense in Depth | CyberGain | [Read More](https://medium.com/p/c82d2e33dff5) |
 | Sat, 12 Jul 2025 08:43:50 GMT | Data Governance 2025: Wie Unternehmen ihre Datenarchitektur für Millionen-Einsparungen… | Philip Hansen | [Read More](https://medium.com/p/bea192553945) |
 | Sat, 12 Jul 2025 08:40:56 GMT | Bug Bounty: Perbedaan Tools Manual vs Automation | Rangga Ananda S | [Read More](https://medium.com/p/e1b3fdbcdd23) |
+| Sat, 12 Jul 2025 08:37:17 GMT | ️ Red Teaming vs. Penetration Testing: Apa Bedanya? | Rangga Ananda S | [Read More](https://medium.com/p/e95779738b99) |
 | Sat, 12 Jul 2025 08:32:55 GMT | Research Insights Made Simple #3 — разбор whitepaper "Security by Design at Google" | Alexander Polomodov | [Read More](https://medium.com/p/f1887eef3020) |
 | Sat, 12 Jul 2025 08:32:48 GMT | Memahami Bug Bounty dan Studi Kasus IDOR di Endpoint Profile | Rangga Ananda S | [Read More](https://medium.com/p/1a400950f29a) |
 | Sat, 12 Jul 2025 08:31:51 GMT | WiFi Pentesting in Real Environments — Part 3: Evil Twin Attacks & Wi-Fi Phishing for… | Sachin kewat | [Read More](https://medium.com/p/2dca72f27bbd) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 06:08:51 GMT | Blockchain x Data Marketplaces: The Future of Data Ownership | Hemzeeboii | [Read More](https://medium.com/p/934073e4dc8a) |
 | Sat, 12 Jul 2025 06:06:46 GMT | The Best Cybersecurity Options for Companies with Co-Managed IT Support | Seo | [Read More](https://medium.com/p/ba3f71619568) |
 | Sat, 12 Jul 2025 06:01:39 GMT | Did you know your phone could be betraying your secrets — without you ever realizing it? | Erginoustechnologies | [Read More](https://medium.com/p/78b565f44c28) |
-| Sat, 12 Jul 2025 06:01:20 GMT | Security Fundamentals: Encryption Explained | The Millennial Dev | [Read More](https://medium.com/p/514bb7049ff1) |
-| Sat, 12 Jul 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — Jul 12, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/e14826914a6f) |
-| Sat, 12 Jul 2025 05:38:58 GMT | Top Universities In Canada for Cyber Security Programs | Top Universities In Canada | [Read More](https://medium.com/p/8bca3a72b848) |
-| Sat, 12 Jul 2025 05:31:18 GMT | The Absurdity of Modern Love | Misty | [Read More](https://medium.com/p/1048d83a6c26) |
-| Sat, 12 Jul 2025 05:31:02 GMT | CVE-2025–47812: Critical Wing FTP Server Vulnerability Under Active Exploitation Allowing Full… | Darshan | [Read More](https://medium.com/p/93abf8b531fb) |
-| Sat, 12 Jul 2025 05:28:17 GMT | Pre-Auth RCE Discovered in FortiWeb Fabric Connector | Darshan | [Read More](https://medium.com/p/f77fef7f7264) |
-| Sat, 12 Jul 2025 05:19:10 GMT | Server-Side Request Forgery (SSRF) Attacks: A Guide to Bypassing Filters and Accessing Internal… | Gopal Mohan | [Read More](https://medium.com/p/53c991118e59) |
-| Sat, 12 Jul 2025 05:09:57 GMT | PCI DSS: The Protector of Secure Payments!! | Yamini Baskar | [Read More](https://medium.com/p/39a597ad0f3f) |
-| Sat, 12 Jul 2025 05:01:24 GMT | Inside Go8: Where Passion for Tech Meets Purposeful Work | Go8 Technology Inc. | [Read More](https://medium.com/p/379e8e69dc71) |
-| Sat, 12 Jul 2025 04:48:20 GMT | Perbedaan Red Teaming & Pentesting | Ris | [Read More](https://medium.com/p/593567bf6f2e) |
