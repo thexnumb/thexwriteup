@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 13:45:28 GMT | Critical FortiWeb Vulnerability (CVE-2025–25257) | Cybersectoworld | [Read More](https://medium.com/p/3b4eda0da818) |
+| Sat, 12 Jul 2025 13:42:50 GMT | Introduction: When Seconds of Downtime Turn Into Millions | saurabh cyberinfomines | [Read More](https://medium.com/p/1b330e955dca) |
+| Sat, 12 Jul 2025 13:41:07 GMT | How to Create Your Own Hacker Toolkit in Docker | Vipul Sonule | [Read More](https://medium.com/p/606723dbd8ac) |
+| Sat, 12 Jul 2025 13:39:45 GMT | Europe’s Decryption Dilemma: The EU’s Controversial Plan to Access Private Data by 2030. | eL Njas!™ | [Read More](https://medium.com/p/3edf34f6fabc) |
+| Sat, 12 Jul 2025 13:38:04 GMT | CVE-2025–6554: Google Chrome Zero-Day Caused by Type Confusion in V8 Engine | Om Maniya | [Read More](https://medium.com/p/417e1eab2f22) |
+| Sat, 12 Jul 2025 13:37:54 GMT | Not Just a Regex Filter: What Modern WAFs Actually Do — and Don’t” | Sandeep Saxena | [Read More](https://medium.com/p/be318a20691d) |
+| Sat, 12 Jul 2025 13:37:33 GMT | OWASP NHI Top 10: Why Non-Human Identities Are Your Largest Unsecured Attack Surface | Sandeep Saxena | [Read More](https://medium.com/p/ef3f421d4a44) |
+| Sat, 12 Jul 2025 13:36:58 GMT | Bypassing File Upload Restrictions to Achieve XSS in a Crypto Application | Yamini Yadav | [Read More](https://medium.com/p/3319e8b527e1) |
+| Sat, 12 Jul 2025 13:36:38 GMT | $13,950 Bounty: Exploiting GitLab Integrations for Full XSS | Monika sharma | [Read More](https://medium.com/p/19275a030c2b) |
+| Sat, 12 Jul 2025 13:36:28 GMT | DAY 3: ALMOST GAVE UP | Akshatdwivedi | [Read More](https://medium.com/p/369d2516a8dc) |
+| Sat, 12 Jul 2025 13:35:58 GMT | From Zero to Hero: How I Broke into Cybersecurity with No Degree | Aj | [Read More](https://medium.com/p/e24dbf9a4226) |
+| Sat, 12 Jul 2025 13:34:36 GMT | Metasploit: Meterpreter — TryHackMe | sercan timocin | [Read More](https://medium.com/p/8c81b00718d7) |
+| Sat, 12 Jul 2025 13:34:10 GMT | The Hidden Risks of Expired SSL Certificates (and How to Avoid Them) | Watchman Tower | [Read More](https://medium.com/p/30c6165f0130) |
+| Sat, 12 Jul 2025 13:33:06 GMT | The Rise of “Shadow Talent Partnerships”: A Growing Remote Work Scam | Internet Exposed | [Read More](https://medium.com/p/d48af915559b) |
+| Sat, 12 Jul 2025 13:31:12 GMT | Stealing Parameters of a Logistic Regression Model | Daniel | [Read More](https://medium.com/p/06d5d8bc4bc7) |
+| Sat, 12 Jul 2025 13:30:07 GMT | How I Found a Critical IDOR in Indian Railways Corporate Booking Portal Exposing Millions of Users… | coffinxp | [Read More](https://medium.com/p/41fdd2145efe) |
 | Sat, 12 Jul 2025 13:19:33 GMT | How I Made $20K+ From Broken Link Hijacking on GitHub Repos | Arshad Kazmi | [Read More](https://medium.com/p/67d8917912f7) |
 | Sat, 12 Jul 2025 13:17:04 GMT | Social engineering (Human Hacking) | Omar Shraideh | [Read More](https://medium.com/p/06f93a689ec5) |
 | Sat, 12 Jul 2025 13:00:45 GMT | OSINT (Open Source Intelligence) Nedir? | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/ea81ac6cbc1d) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 07:34:48 GMT | About Me — Mrinal Kumar Chandra | Mrinalchandra | [Read More](https://medium.com/p/04b0940eb95e) |
 | Sat, 12 Jul 2025 07:32:58 GMT | Fuzzing Techniques for Maximum Bug Bounty Impact — ffufai Tool | It4chis3c | [Read More](https://medium.com/p/74e21735d6f1) |
 | Sat, 12 Jul 2025 07:25:59 GMT | I Am Offline – And That Changed Everything | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/7d0f3ec8d683) |
-| Sat, 12 Jul 2025 07:17:42 GMT | CTF Day(28) | Ahmed Narmer | [Read More](https://medium.com/p/0a37b9e6f7e7) |
-| Sat, 12 Jul 2025 06:57:25 GMT | Accessing Admin Directory | SIDDHANT SHUKLA | [Read More](https://medium.com/p/eec04145a0fc) |
-| Sat, 12 Jul 2025 06:56:59 GMT | From Packaging Lines to Hackers’ Goldmine: The Hidden Risk of PCOM | Azim Uddin | [Read More](https://medium.com/p/9af5c254a667) |
-| Sat, 12 Jul 2025 06:52:21 GMT | Email is Silly — Owning Your Own Email Address | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/23e0cebda9d7) |
-| Sat, 12 Jul 2025 06:51:42 GMT | She Wants You to Open Up, So She Can Use It Against You Later | X-Plain | [Read More](https://medium.com/p/835cff1d701f) |
-| Sat, 12 Jul 2025 06:49:09 GMT | PortSwigger Lab — Clickjacking (UI redressing) | k1dd0sz | [Read More](https://medium.com/p/b36bc61e000a) |
-| Sat, 12 Jul 2025 06:40:13 GMT | Deep Dive SIEM(SEC555) Part 3 | Bit_Picker | [Read More](https://medium.com/p/99bc23b21b8a) |
-| Sat, 12 Jul 2025 06:38:43 GMT | ISO 27701 Implementation in Practice: What Every GRC Professional Should Know | Opeyemi Ajakaye-Maku | [Read More](https://medium.com/p/51c2d84ae66a) |
-| Sat, 12 Jul 2025 06:30:16 GMT | Sony WH-1000XM5 Bluetooth Vulnerability: Man-in-the-Middle via Insecure Reconnection | Yeswehack | [Read More](https://medium.com/p/cb1125e2f77b) |
-| Sat, 12 Jul 2025 06:24:54 GMT | The Invite That Lied: A Business Logic Flaw Hidden Behind LG’s Walls | LordofHeaven | [Read More](https://medium.com/p/a49cca506294) |
-| Sat, 12 Jul 2025 06:16:45 GMT | All-in-one IT & marketing solutions for businesses | Aryan Mansoor | [Read More](https://medium.com/p/1b0391c70d21) |
-| Sat, 12 Jul 2025 06:14:40 GMT | Transforming Cybersecurity with AI | Ravi Sankar Uppala | [Read More](https://medium.com/p/bd2d48d52918) |
-| Sat, 12 Jul 2025 06:11:45 GMT | ประสบการณ์สอบ Blue Team Level 1 (BTL1) | Koonnamchok Klongkaew | [Read More](https://medium.com/p/52061e6fda0f) |
-| Sat, 12 Jul 2025 06:08:51 GMT | Blockchain x Data Marketplaces: The Future of Data Ownership | Hemzeeboii | [Read More](https://medium.com/p/934073e4dc8a) |
-| Sat, 12 Jul 2025 06:06:46 GMT | The Best Cybersecurity Options for Companies with Co-Managed IT Support | Seo | [Read More](https://medium.com/p/ba3f71619568) |
-| Sat, 12 Jul 2025 06:01:39 GMT | Did you know your phone could be betraying your secrets — without you ever realizing it? | Erginoustechnologies | [Read More](https://medium.com/p/78b565f44c28) |
