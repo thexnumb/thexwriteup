@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 09:38:01 GMT | BCM-Framework: Der ultimative Strategieleitfaden für Geschäftsführer in 2025 | Philip Hansen | [Read More](https://medium.com/p/47850e4de463) |
+| Sat, 12 Jul 2025 09:31:42 GMT | Alex:** Hey, Sam! | Chathurka | [Read More](https://medium.com/p/b027d90775c5) |
+| Sat, 12 Jul 2025 09:11:30 GMT | the rise of quiet quitting 10.0 on social media | S Anuradha | [Read More](https://medium.com/p/b98814edbf9f) |
 | Sat, 12 Jul 2025 09:11:06 GMT | the rise of quiet quitting 20.2 on social media | S Anuradha | [Read More](https://medium.com/p/a8aff49f11e2) |
 | Sat, 12 Jul 2025 09:03:57 GMT | What DNS Actually Does — In Under Three Minutes | Kieran Dowell | [Read More](https://medium.com/p/38c849eb58b1) |
 | Sat, 12 Jul 2025 09:02:57 GMT | OTP Bypass: Cuando el backend confía en el frontend… pierdes | Gorka | [Read More](https://medium.com/p/9d39599dafcd) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 22:20:24 GMT | AI Moves Fast — Your Container Security Has to Move Faster | Sophia Perez | [Read More](https://medium.com/p/3d2b94f61b2b) |
 | Fri, 11 Jul 2025 22:18:12 GMT | The Linux Security Journey — USB Guard (Universal Serial Bus Guard) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/66e1a45ac901) |
 | Fri, 11 Jul 2025 22:16:54 GMT | DevSecOps in Practice: Embedding Security in CI/CD Pipelines | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ec0593a00a30) |
-| Fri, 11 Jul 2025 22:14:39 GMT | Building My Own Secure Flask Login Template (And Why You Might Want It Too) | jorgerodriguezpagan | [Read More](https://medium.com/p/7275a968e65a) |
-| Fri, 11 Jul 2025 22:12:21 GMT | LINUX CHALLENGE (DAY 5) | FromHumanities-Hacker | [Read More](https://medium.com/p/636f140e3123) |
-| Fri, 11 Jul 2025 22:06:35 GMT | Linux Basics for Ethical Hackers: Mastering the Command Line to Hack Like a Pro | Santhosh Adiga U | [Read More](https://medium.com/p/b5992c4d5c91) |
