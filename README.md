@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 11:11:30 GMT | Will World War III be digital? | Avateernaa Duttaray | [Read More](https://medium.com/p/7b697c4a857d) |
+| Sat, 12 Jul 2025 11:10:15 GMT | Starting My Cybersecurity Degree: What I Learned About Red and Blue Teams | S Similimran | [Read More](https://medium.com/p/47f1c1c42ed5) |
+| Sat, 12 Jul 2025 10:57:01 GMT | The Philosophical Perspective of Technology in PETs | Sobix | [Read More](https://medium.com/p/eff75f964039) |
+| Sat, 12 Jul 2025 10:56:48 GMT | Mengenal Platform Digital dengan Sistem Terintegrasi dan Stabil | SinarCahaya | [Read More](https://medium.com/p/235d26a1466e) |
+| Sat, 12 Jul 2025 10:55:33 GMT | Building a Full-Stack Penetration Testing as a Service (PTaaS) Platform: From Problem to Production | Khammassilouay | [Read More](https://medium.com/p/e8215dcd56c4) |
+| Sat, 12 Jul 2025 10:53:35 GMT | TryHackMe Blog — Walkthrough | mauzware | [Read More](https://medium.com/p/bc4ffee76dea) |
+| Sat, 12 Jul 2025 10:49:26 GMT | Legacy cybersecurity, like luggage without wheels | hubbertsmith | [Read More](https://medium.com/p/858cfc1ac7e3) |
 | Sat, 12 Jul 2025 10:35:44 GMT | –  … | Chandan Moolya | [Read More](https://medium.com/p/10e40ed92e9d) |
 | Sat, 12 Jul 2025 10:32:51 GMT | Still In the Room — Unauthorized Asset Access After Removal | 0xoroot | [Read More](https://medium.com/p/61547097ed86) |
 | Sat, 12 Jul 2025 10:32:35 GMT | Top Ethical Hacking Course in India: Learn from Certified Instructors | cyber security Updates | [Read More](https://medium.com/p/ae5d024ffa13) |
@@ -38,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 08:48:57 GMT | PortSwigger Lab: First three SQLi lab activities (easy) writeup (SQL Injection) | awes0meness | [Read More](https://medium.com/p/5424512300c9) |
 | Sat, 12 Jul 2025 08:46:55 GMT | The Cybersecurity Trend That Will Never Die: Defense in Depth | CyberGain | [Read More](https://medium.com/p/c82d2e33dff5) |
 | Sat, 12 Jul 2025 08:43:50 GMT | Data Governance 2025: Wie Unternehmen ihre Datenarchitektur für Millionen-Einsparungen… | Philip Hansen | [Read More](https://medium.com/p/bea192553945) |
+| Sat, 12 Jul 2025 08:40:56 GMT | Bug Bounty: Perbedaan Tools Manual vs Automation | Rangga Ananda S | [Read More](https://medium.com/p/e1b3fdbcdd23) |
 | Sat, 12 Jul 2025 08:32:55 GMT | Research Insights Made Simple #3 — разбор whitepaper "Security by Design at Google" | Alexander Polomodov | [Read More](https://medium.com/p/f1887eef3020) |
 | Sat, 12 Jul 2025 08:32:48 GMT | Memahami Bug Bounty dan Studi Kasus IDOR di Endpoint Profile | Rangga Ananda S | [Read More](https://medium.com/p/1a400950f29a) |
 | Sat, 12 Jul 2025 08:31:51 GMT | WiFi Pentesting in Real Environments — Part 3: Evil Twin Attacks & Wi-Fi Phishing for… | Sachin kewat | [Read More](https://medium.com/p/2dca72f27bbd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 02:27:10 GMT | Why So Many Small Businesses Don’t Document Their IT — And Why That’s a Costly Mistake | Ivan Yurynts | [Read More](https://medium.com/p/de107ef942ad) |
 | Sat, 12 Jul 2025 02:04:05 GMT | I am not an Expert in my Field, But I Finally Know How to Keep Going | DarKVoicE | [Read More](https://medium.com/p/25d09bc03a61) |
 | Sat, 12 Jul 2025 02:02:54 GMT | Understanding URL-Based Attacks: A Comprehensive Guide to Cybersecurity Threats | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/7404dd811768) |
-| Sat, 12 Jul 2025 01:54:31 GMT | Quantum Key Distribution Under Attack: Analysis of Contemporary Attack Vectors and Practical… | X-3306 | [Read More](https://medium.com/p/0968bff477ae) |
-| Sat, 12 Jul 2025 01:49:03 GMT | Build Your Own Cybersecurity Toolkit: 5 Field-Tested Tools Every Analyst Should Master | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/2f26a742b478) |
-| Sat, 12 Jul 2025 01:25:54 GMT | Lab 1: Manually assign users to a group | Mykell | [Read More](https://medium.com/p/bc00a1db8062) |
-| Sat, 12 Jul 2025 01:15:51 GMT | Why Vulnerability Terrifies Us (And Why We Need It Anyway) | Mae Reed | [Read More](https://medium.com/p/74a626b6262c) |
-| Sat, 12 Jul 2025 01:08:16 GMT | How to Use Google reCAPTCHA in React Frontend and Verify in Backend | SarahW | [Read More](https://medium.com/p/d59aff4c2c6b) |
-| Sat, 12 Jul 2025 01:05:30 GMT | Data  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/c2f02429bd6e) |
-| Sat, 12 Jul 2025 00:07:48 GMT | How to stay aware of new Bugbounty programs using Reconsnap | Héber Júlio | [Read More](https://medium.com/p/3b9e8da26676) |
-| Sat, 12 Jul 2025 00:01:47 GMT | Cryptographic Failures: The Definitive Guide to Hacking, Bug Bounty, and Web Security | JPablo13 | [Read More](https://medium.com/p/cd79728201cf) |
