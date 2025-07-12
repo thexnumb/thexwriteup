@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Sat, 12 Jul 2025 23:16:26 GMT | BAC (Authorization Bypass Allows Former Owner to Add Teachers After Role Downgrade) | HBlack Ghost | [Read More](https://medium.com/p/d346fc051fca) |
+| Sat, 12 Jul 2025 23:15:45 GMT | GetPDF Lab — CyberDefenders | Gligits.ini | [Read More](https://medium.com/p/d19cbda2e653) |
 | Sat, 12 Jul 2025 23:09:37 GMT | PerfektBlue: Critical Bluetooth Flaws Put Millions of Vehicles at Risk | Trevor Kutto Hacks | [Read More](https://medium.com/p/2b76ad600f3d) |
 | Sat, 12 Jul 2025 23:05:54 GMT | Azure Function App 403 Forbidden Error: Complete Fix Guide (2025) | Paul Volosen | [Read More](https://medium.com/p/0d3abff381c4) |
 | Sat, 12 Jul 2025 23:01:46 GMT | Pickle Rick - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/3282b30645e5) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 14:40:10 GMT | Mythic Setup | Lord Murak | [Read More](https://medium.com/p/e41c66dde8ef) |
 | Sat, 12 Jul 2025 14:35:26 GMT | Shadow AI: The Silent Risk Hiding in Your Workplace — And Why Simply Banning It Won’t Work | 1Protection.AI | [Read More](https://medium.com/p/c73093981526) |
 | Sat, 12 Jul 2025 14:33:27 GMT | How I Simulated a HIPAA-Compliant IT Environment: A Cybersecurity Audit Readiness Project | Anthony Mazyck | [Read More](https://medium.com/p/81af9013348f) |
-| Sat, 12 Jul 2025 14:27:18 GMT | Mastering Dynamic RLS in Power BI — Real-World Tips for Scalable Security | Mahendra Singh | [Read More](https://medium.com/p/e7e43ff177ed) |
