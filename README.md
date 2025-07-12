@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 01:49:03 GMT | Build Your Own Cybersecurity Toolkit: 5 Field-Tested Tools Every Analyst Should Master | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/2f26a742b478) |
+| Sat, 12 Jul 2025 01:25:54 GMT | Lab 1: Manually assign users to a group | Mykell | [Read More](https://medium.com/p/bc00a1db8062) |
+| Sat, 12 Jul 2025 01:15:51 GMT | Why Vulnerability Terrifies Us (And Why We Need It Anyway) | Mae Reed | [Read More](https://medium.com/p/74a626b6262c) |
+| Sat, 12 Jul 2025 01:08:16 GMT | How to Use Google reCAPTCHA in React Frontend and Verify in Backend | SarahW | [Read More](https://medium.com/p/d59aff4c2c6b) |
+| Sat, 12 Jul 2025 01:05:30 GMT | Data  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/c2f02429bd6e) |
+| Sat, 12 Jul 2025 00:07:48 GMT | How to stay aware of new Bugbounty programs using Reconsnap | Héber Júlio | [Read More](https://medium.com/p/3b9e8da26676) |
+| Sat, 12 Jul 2025 00:01:47 GMT | Cryptographic Failures: The Definitive Guide to Hacking, Bug Bounty, and Web Security | JPablo13 | [Read More](https://medium.com/p/cd79728201cf) |
+| Fri, 11 Jul 2025 23:40:15 GMT | From Passwords to Phishing: A Teacher’s Guide to Protecting Classrooms Online | Paul  Cuffe | [Read More](https://medium.com/p/eca70645c99d) |
+| Fri, 11 Jul 2025 23:35:07 GMT | The Stories I’m Still Avoiding | Koko Kawasaki | [Read More](https://medium.com/p/379c53d516f3) |
 | Fri, 11 Jul 2025 23:26:46 GMT | Hacking on a Local Network | Mike Anthony | [Read More](https://medium.com/p/4fcf909a5bb9) |
 | Fri, 11 Jul 2025 23:21:50 GMT | How Hackers Can Hijack Your AI with One Malicious Server | Cyber-AppSec | [Read More](https://medium.com/p/fd7f543f9537) |
 | Fri, 11 Jul 2025 23:18:48 GMT | I Built an SSH Honeypot and Watched Real Hackers Attack My Fake Server in Real Time | Oluwatobi Boluwatife Taiwo | [Read More](https://medium.com/p/fbf261983356) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 15:52:03 GMT | Have I Been Happy? | Akshat Singh | [Read More](https://medium.com/p/895c615a842e) |
 | Fri, 11 Jul 2025 15:50:22 GMT | The Power of Fireflies | Mollie Lyon | [Read More](https://medium.com/p/c46a51d36952) |
 | Fri, 11 Jul 2025 15:47:51 GMT | The Money Reckoning 7: Fierce vulnerability to reckon with capitalism — and thrive together | Julia S | [Read More](https://medium.com/p/b552db260b90) |
-| Fri, 11 Jul 2025 15:46:45 GMT | When Firebase Ghosted Me — and Cookies Were to Blame | Ali Behsoodi | [Read More](https://medium.com/p/0ebc9cc50cc2) |
-| Fri, 11 Jul 2025 15:45:45 GMT | Learning Kubernetes Security | Raul Lapaz | [Read More](https://medium.com/p/2cb906ad8037) |
-| Fri, 11 Jul 2025 15:39:54 GMT | How to Test SafeLine WAF Against OWASP Top 10 — Without Installing It | Maverick Steel | [Read More](https://medium.com/p/7646c9cdabcc) |
-| Fri, 11 Jul 2025 15:39:29 GMT | Week 4—Learning Basic Concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/bac604938cb7) |
-| Fri, 11 Jul 2025 15:34:50 GMT | Hide and Seek - -TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/e00e21208a03) |
-| Fri, 11 Jul 2025 15:32:05 GMT | McHire Data Breach: What Happened and How Gitleaks Could Have Helped Prevent It | Sandesh Gaonkar | [Read More](https://medium.com/p/de94d667dcba) |
-| Fri, 11 Jul 2025 15:31:00 GMT | TryHackMe: Exploit Vulnerabilities (Practical: Manual Exploitation) | Babatunde Ojo | [Read More](https://medium.com/p/2194cc13afac) |
-| Fri, 11 Jul 2025 15:20:34 GMT | Shadow IT: The Hidden Cybersecurity Risks Your Organisation Doesn’t Know It Has | Richard Dosumu | [Read More](https://medium.com/p/e7f67f0e6c23) |
-| Fri, 11 Jul 2025 15:17:57 GMT | Future Trends in Cloud Services & Best Practices for Security | Anderson Smith | [Read More](https://medium.com/p/5a8f17bac04e) |
