@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 05:38:58 GMT | Top Universities In Canada for Cyber Security Programs | Top Universities In Canada | [Read More](https://medium.com/p/8bca3a72b848) |
+| Sat, 12 Jul 2025 05:31:18 GMT | The Absurdity of Modern Love | Misty | [Read More](https://medium.com/p/1048d83a6c26) |
+| Sat, 12 Jul 2025 05:31:02 GMT | CVE-2025–47812: Critical Wing FTP Server Vulnerability Under Active Exploitation Allowing Full… | Darshan | [Read More](https://medium.com/p/93abf8b531fb) |
+| Sat, 12 Jul 2025 05:28:17 GMT | Pre-Auth RCE Discovered in FortiWeb Fabric Connector | Darshan | [Read More](https://medium.com/p/f77fef7f7264) |
 | Sat, 12 Jul 2025 05:19:10 GMT | Server-Side Request Forgery (SSRF) Attacks: A Guide to Bypassing Filters and Accessing Internal… | Gopal Mohan | [Read More](https://medium.com/p/53c991118e59) |
+| Sat, 12 Jul 2025 05:09:57 GMT | PCI DSS: The Protector of Secure Payments!! | Yamini Baskar | [Read More](https://medium.com/p/39a597ad0f3f) |
 | Sat, 12 Jul 2025 05:01:24 GMT | Inside Go8: Where Passion for Tech Meets Purposeful Work | Go8 Technology Inc. | [Read More](https://medium.com/p/379e8e69dc71) |
 | Sat, 12 Jul 2025 04:46:23 GMT | Using Different Tools and Technologies in the Field of Information Technology | Poddar Group of Institutions | [Read More](https://medium.com/p/45215b5c75ca) |
 | Sat, 12 Jul 2025 04:45:05 GMT | Bug Bounty Metodologi | Ris | [Read More](https://medium.com/p/fa4be30010e5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 17:51:02 GMT | picoCTF — logon | Robby firdauzy | [Read More](https://medium.com/p/a7faef14175f) |
 | Fri, 11 Jul 2025 17:49:23 GMT | Nim: The Hidden Gem of Programming Languages You Need to Know About | Taha Ex | [Read More](https://medium.com/p/4d7171d9f2e7) |
 | Fri, 11 Jul 2025 17:45:52 GMT | Cybersecurity Entry Level Advice | DarKVoicE | [Read More](https://medium.com/p/ceca64135415) |
-| Fri, 11 Jul 2025 17:37:31 GMT | How to Automate All Recon for Finding Bugs Easily - Part 1 | Vipul Sonule | [Read More](https://medium.com/p/88a419606512) |
-| Fri, 11 Jul 2025 17:35:32 GMT | Fileless DPAPI Credential Extraction With PowerShell | Tom O'Neill | [Read More](https://medium.com/p/c9952c136463) |
-| Fri, 11 Jul 2025 17:27:39 GMT | ️ Scanning Beyond Firewalls and IDS — 7 Practical Evasion Techniques Every Ethical Hacker Must… | Rajkumar Kumawat | [Read More](https://medium.com/p/5ecab6ac79c7) |
-| Fri, 11 Jul 2025 17:22:23 GMT | ️ Cyber-Bullying Kills: The Invisible Harm of Harsh Words | AscentPhenix | [Read More](https://medium.com/p/88f7734750ce) |
-| Fri, 11 Jul 2025 17:15:17 GMT | How I Hacked My Way to the eJPT | Laian Bani Sakher | [Read More](https://medium.com/p/c57bc7629e5f) |
