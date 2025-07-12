@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 03:58:17 GMT | Who — or What — is n0s4n1ty 1? | Shalomo Agarwarkar | [Read More](https://medium.com/p/65c9e1de26dd) |
+| Sat, 12 Jul 2025 03:56:10 GMT | The Wi-Fi Trap: How Hackers Snoop on Public Networks (and How to Stop Them) | Aj | [Read More](https://medium.com/p/1314288a8e7a) |
+| Sat, 12 Jul 2025 03:46:42 GMT | How to handle your user’s passwords | Joela | [Read More](https://medium.com/p/1087128350ad) |
+| Sat, 12 Jul 2025 03:41:43 GMT | McCarthyism: Witch Hunt or Warning Sign? | Kayla Simas | [Read More](https://medium.com/p/cd0b084b7e48) |
+| Sat, 12 Jul 2025 03:38:31 GMT | Metasploit: Exploitation | sercan timocin | [Read More](https://medium.com/p/ecc0006655a3) |
+| Sat, 12 Jul 2025 03:31:44 GMT | Your Health Data Exposed? | Deven Chhajed | [Read More](https://medium.com/p/700a7964880c) |
 | Sat, 12 Jul 2025 02:31:42 GMT | How I Found Facebook and Google API Keys Hardcoded in an Android App (and Why That’s a Bad Idea) | AIwolfie | [Read More](https://medium.com/p/7a3f06494c72) |
 | Sat, 12 Jul 2025 02:27:10 GMT | Why So Many Small Businesses Don’t Document Their IT — And Why That’s a Costly Mistake | Ivan Yurynts | [Read More](https://medium.com/p/de107ef942ad) |
 | Sat, 12 Jul 2025 02:04:05 GMT | I am not an Expert in my Field, But I Finally Know How to Keep Going | DarKVoicE | [Read More](https://medium.com/p/25d09bc03a61) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 16:22:33 GMT | Top 3 tools for Bug Bounty/Pentesting (2025) | Appsec.pt | [Read More](https://medium.com/p/c8f8373b3e82) |
 | Fri, 11 Jul 2025 16:20:24 GMT | PC WORX: The Hidden Risk in Your Industrial Network | Azim Uddin | [Read More](https://medium.com/p/afbb8dc23cff) |
 | Fri, 11 Jul 2025 16:20:22 GMT | Network Defense Certifications | Aaron DeJong | [Read More](https://medium.com/p/5394fe3438c0) |
-| Fri, 11 Jul 2025 16:15:30 GMT | Building a Simple Java Port Scanner to Learn Networking | Nirma Nethmini | [Read More](https://medium.com/p/d7d0495224bf) |
-| Fri, 11 Jul 2025 16:14:22 GMT | Breach Fatigue is Real — But Ignoring Cybersecurity Will Cost You the Company | Travis Ray Caverhill | [Read More](https://medium.com/p/649b9c9c964f) |
-| Fri, 11 Jul 2025 16:12:27 GMT | Tracking MFA Denials Followed by Successful Logins Using KQL in Sentinel | Saimanish | [Read More](https://medium.com/p/753cc3f21f53) |
-| Fri, 11 Jul 2025 16:11:01 GMT | How to Get Into Cybersecurity in 2025 — A Practical Guide from a Security Expert | Zino jo | [Read More](https://medium.com/p/73064c764ffb) |
-| Fri, 11 Jul 2025 16:06:16 GMT | Penetration Testing vs Vulnerability Assessments | James F Bowers II | [Read More](https://medium.com/p/72be45f553ac) |
-| Fri, 11 Jul 2025 16:01:48 GMT | Automotive Cybersecurity: The Good, the Bad, and the Ugly | Spokeo People Search | [Read More](https://medium.com/p/d0b136261a67) |
