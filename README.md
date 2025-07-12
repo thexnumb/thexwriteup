@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 19:17:14 GMT | TryHackMe WalkThrough : ItsyBitsy | Sarkhelranit | [Read More](https://medium.com/p/3c1566010076) |
 | Sat, 12 Jul 2025 19:15:39 GMT | Introducing Wazuh MCP Server: Bridging SIEM and AI for Smarter Security Operations | SOCFortress | [Read More](https://medium.com/p/ea9b5441dbba) |
+| Sat, 12 Jul 2025 19:09:26 GMT | Dog Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/4bb2235dc0ff) |
 | Sat, 12 Jul 2025 19:04:14 GMT | Mastering Cloud Security with AWS-Native Tools | Aravind S V | [Read More](https://medium.com/p/9939cb2b1e8b) |
 | Sat, 12 Jul 2025 18:52:51 GMT | Building an Internal ASM Using Elasticsearch: A Practical Guide for Security Engineers | Powerexploit | [Read More](https://medium.com/p/e46727f89576) |
 | Sat, 12 Jul 2025 18:46:09 GMT | How Envelope Encryption Keeps Your Secrets Safe | Bagus Panggalih Agung | [Read More](https://medium.com/p/b1d64507677e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 12:29:02 GMT | TSUTOMU SHIMOMURA IS BEST HACKER TO RECLAIM LOST FUNDS ON CRYPTO TRADE | Wisdomalfred | [Read More](https://medium.com/p/e7bbde86ad47) |
 | Sat, 12 Jul 2025 12:24:46 GMT | The Fourth Crystal Ball: The Birth of Probability and Statistical Thinking | Stanleyyan | [Read More](https://medium.com/p/ea60efb8908e) |
 | Sat, 12 Jul 2025 12:23:55 GMT | Best #SailPoint Online Course in 2025 Offered by #VisualPath ‍ | Pravin Choudhary | [Read More](https://medium.com/p/f5cd54080c0a) |
-| Sat, 12 Jul 2025 12:21:54 GMT | Phishgram — Telegram Red-Team Toolkit | Anatoliy Fedorenko | [Read More](https://medium.com/p/2c75801bbd09) |
-| Sat, 12 Jul 2025 12:20:41 GMT | TSUTOMU SHIMOMURA IS BEST HACKER TO RECLAIM LOST FUNDS ON CRYPTO TRADE | Wisdomalfred | [Read More](https://medium.com/p/fa077d0f08c6) |
