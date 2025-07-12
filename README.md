@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 04:45:05 GMT | Bug Bounty Metodologi | Ris | [Read More](https://medium.com/p/fa4be30010e5) |
+| Sat, 12 Jul 2025 04:44:59 GMT | Penetration Testing Stages Explained: A Complete Guide | Securis360 Inc. | [Read More](https://medium.com/p/71b09434c9db) |
+| Sat, 12 Jul 2025 04:39:00 GMT | Holding Leadership Accountable Around Cybersecurity | JC Gaillard | [Read More](https://medium.com/p/3bf79ab49759) |
+| Sat, 12 Jul 2025 04:35:16 GMT | A New Day: A New Mission. Emmanuel! God with us. | Suicide Kings Podcast by @Catalyst Poker | [Read More](https://medium.com/p/e58746cb39d8) |
+| Sat, 12 Jul 2025 04:26:06 GMT | גיל בן צור – דרך של שליחות, פיקוד ועשייה ציבורית | Gilbenzur | [Read More](https://medium.com/p/16b00b65a5ad) |
+| Sat, 12 Jul 2025 04:20:58 GMT | Information security compliance standards | Meghan Joanna | [Read More](https://medium.com/p/63b27c44dceb) |
+| Sat, 12 Jul 2025 04:14:22 GMT | Cyber Stocks & M&A Buzz: Powering the Next Wave of Digital Defense | Shalomo Agarwarkar | [Read More](https://medium.com/p/fd3667c6ae59) |
+| Sat, 12 Jul 2025 04:10:37 GMT | Bug Hunting 101: The Firebase Misconfig That Earned Me a Bounty | Shubham Sharma | [Read More](https://medium.com/p/dd600cef8ade) |
+| Sat, 12 Jul 2025 04:06:35 GMT | Automated AWS Receipt Processing System | Akuphe Dieudonne | [Read More](https://medium.com/p/d97bad75de93) |
 | Sat, 12 Jul 2025 03:58:17 GMT | Who — or What — is n0s4n1ty 1? | Shalomo Agarwarkar | [Read More](https://medium.com/p/65c9e1de26dd) |
 | Sat, 12 Jul 2025 03:56:10 GMT | The Wi-Fi Trap: How Hackers Snoop on Public Networks (and How to Stop Them) | Aj | [Read More](https://medium.com/p/1314288a8e7a) |
 | Sat, 12 Jul 2025 03:46:42 GMT | How to handle your user’s passwords | Joela | [Read More](https://medium.com/p/1087128350ad) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 17:02:01 GMT | So, I Decided to Pentest Amazon’s Echo Dot —  Here’s What I Found | C. Oscar Lawshea | [Read More](https://medium.com/p/0f4b5d3455e6) |
 | Fri, 11 Jul 2025 16:44:59 GMT | This is How you Break Websites — The Ultimate start to Roadmap | err0rgod | [Read More](https://medium.com/p/e92236e99a73) |
 | Fri, 11 Jul 2025 16:34:30 GMT | DAY 2: Fired Up and Locked In | Akshatdwivedi | [Read More](https://medium.com/p/639c564ed774) |
-| Fri, 11 Jul 2025 16:32:40 GMT | Cybersecurity Breach: What It Is, How It Happens, and How to Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/413738ef2a5d) |
-| Fri, 11 Jul 2025 16:30:35 GMT | ⚠️ Windows 11’s New Black Screen of Death: Causes & Solutions | Ekene Joseph | [Read More](https://medium.com/p/b6e964ea9e85) |
-| Fri, 11 Jul 2025 16:29:29 GMT | Writing a Static Code Analyzer for Security | FF E4 | [Read More](https://medium.com/p/e81cde3c030e) |
-| Fri, 11 Jul 2025 16:28:56 GMT | CrackMe Write-up: argc (Linux ELF x86–64) | Rahaliashraf | [Read More](https://medium.com/p/48e421f58399) |
-| Fri, 11 Jul 2025 16:26:00 GMT | Trusted Internet Connections (TIC) 3.0 Architecture Demystified | Asad Syed | [Read More](https://medium.com/p/78fb4a96a482) |
-| Fri, 11 Jul 2025 16:22:53 GMT | How to Learn Penetration Testing in 2025 — A Roadmap for New Hackers | Zino jo | [Read More](https://medium.com/p/7314d9d9dc8c) |
-| Fri, 11 Jul 2025 16:22:33 GMT | Top 3 tools for Bug Bounty/Pentesting (2025) | Appsec.pt | [Read More](https://medium.com/p/c8f8373b3e82) |
-| Fri, 11 Jul 2025 16:20:24 GMT | PC WORX: The Hidden Risk in Your Industrial Network | Azim Uddin | [Read More](https://medium.com/p/afbb8dc23cff) |
-| Fri, 11 Jul 2025 16:20:22 GMT | Network Defense Certifications | Aaron DeJong | [Read More](https://medium.com/p/5394fe3438c0) |
