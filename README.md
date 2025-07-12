@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 08:32:55 GMT | Research Insights Made Simple #3 — разбор whitepaper "Security by Design at Google" | Alexander Polomodov | [Read More](https://medium.com/p/f1887eef3020) |
+| Sat, 12 Jul 2025 08:32:48 GMT | Memahami Bug Bounty dan Studi Kasus IDOR di Endpoint Profile | Rangga Ananda S | [Read More](https://medium.com/p/1a400950f29a) |
+| Sat, 12 Jul 2025 08:31:51 GMT | WiFi Pentesting in Real Environments — Part 3: Evil Twin Attacks & Wi-Fi Phishing for… | Sachin kewat | [Read More](https://medium.com/p/2dca72f27bbd) |
+| Sat, 12 Jul 2025 08:28:35 GMT | Hikvision vs CP Plus - Which CCTV Brand Comes Out on Top? | Cost To Cost | [Read More](https://medium.com/p/d809462b5f07) |
+| Sat, 12 Jul 2025 08:26:31 GMT | Real Verified Old Gmail Account Accounts — No Hassle Setup | Kacokalo | [Read More](https://medium.com/p/d604b48fc2d9) |
 | Sat, 12 Jul 2025 08:18:29 GMT | The Influence of Integrity on the Efficiency of Security Personnel in Private “The Security… | K2q official | [Read More](https://medium.com/p/8044879913d3) |
 | Sat, 12 Jul 2025 08:18:24 GMT | Emotional Capitalism in the Age of AI: Will Feelings Become the Final Currency? | Caron | [Read More](https://medium.com/p/2c3daba8048e) |
 | Sat, 12 Jul 2025 08:10:49 GMT | Infinity Shell - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/9d96dd611535) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 20:43:10 GMT | Anakus BTLO | ibra | [Read More](https://medium.com/p/83b5d2062101) |
 | Fri, 11 Jul 2025 20:39:34 GMT | How I Dual Booted Kali Linux with Windows Using Ventoy | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/918b76822416) |
 | Fri, 11 Jul 2025 20:38:40 GMT | Owning the Network with Scapy: Real-World Packet Manipulation and Attacks | Santhosh Adiga U | [Read More](https://medium.com/p/8d1896008f0b) |
-| Fri, 11 Jul 2025 20:29:25 GMT | Phishing Mail Detected — Excel 4.0 Macros Attack - Investigation | Sayyid Thabsheer | [Read More](https://medium.com/p/8dd6b9c03771) |
-| Fri, 11 Jul 2025 20:26:08 GMT | Google Dorking: The Ultimate Reference for Hackers, Bug Bounty Hunters, and Pentesters | Santhosh Adiga U | [Read More](https://medium.com/p/160717838e78) |
-| Fri, 11 Jul 2025 20:24:31 GMT | Deploying a Honeypot with T-Pot: Catching Real-World Cyber Attacks | Bahadir Mammadli | [Read More](https://medium.com/p/dec66b5ec4a5) |
-| Fri, 11 Jul 2025 20:20:25 GMT | Ongoing Exploitation of Wing FTP RCE Vulnerability (CVE-2025–47812) Observed in the Wild | RealSec.io | [Read More](https://medium.com/p/132bd828837b) |
-| Fri, 11 Jul 2025 20:00:50 GMT | The Stories I’m Still Avoiding | Koko Kawasaki | [Read More](https://medium.com/p/e7210954c5c8) |
