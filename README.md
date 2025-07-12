@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 18:40:02 GMT | War is a Racket: Smedley Butler and the Business of Bombs | Mean Treaties | [Read More](https://medium.com/p/cce23c644bb0) |
+| Sat, 12 Jul 2025 18:35:27 GMT | Day 49: Network Address Translation | Nile Okomo | [Read More](https://medium.com/p/fae24c57a103) |
 | Sat, 12 Jul 2025 18:26:26 GMT | Day 48: Subnetting 2 | Nile Okomo | [Read More](https://medium.com/p/a24b03384b09) |
+| Sat, 12 Jul 2025 18:23:58 GMT | PicoCTF Local Authority | Sohan Kanna D | [Read More](https://medium.com/p/056d88d06b46) |
+| Sat, 12 Jul 2025 18:09:43 GMT | JPS, TPS & RPS: The Metrics That Matter in Modern Banking Performance Testing | Abdul Anees | [Read More](https://medium.com/p/c230a3a7d175) |
 | Sat, 12 Jul 2025 18:07:29 GMT | RED - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/00ea9a36e2a0) |
 | Sat, 12 Jul 2025 17:58:46 GMT | $40M GMX Exploit Ends with a Plot Twist: Hacker Returns Half, Grabs $5M Bounty | CoinGen | [Read More](https://medium.com/p/3b2126f24b7e) |
 | Sat, 12 Jul 2025 17:32:15 GMT | FEAR 2 : AM I ALWAYS GOING TO BE TOO MUCH (OR NOT ENOUGH)? | Dreamy | [Read More](https://medium.com/p/4602646e902b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 12:12:06 GMT | The Second Crystal Ball: Archimedes and the Logic of Infinity | Stanleyyan | [Read More](https://medium.com/p/7eddef9e7eba) |
 | Sat, 12 Jul 2025 12:03:36 GMT | HTB — Dog | n0tabdu11ah | [Read More](https://medium.com/p/7cac0a3c1b7f) |
 | Sat, 12 Jul 2025 11:53:43 GMT | Log Forging: Secure Coding Examples | Sahil Dari | [Read More](https://medium.com/p/ddf67404efad) |
-| Sat, 12 Jul 2025 11:52:34 GMT | mSpy: The Best Phone Spy App for Parental Control and Phone Tracking | Narjis Batool | [Read More](https://medium.com/p/59c211cbfd74) |
-| Sat, 12 Jul 2025 11:52:26 GMT | “When Smiling Feels Wrong” | Heidi lai | [Read More](https://medium.com/p/1cfd0445a313) |
-| Sat, 12 Jul 2025 11:48:11 GMT | Redline Lab - Cyber Defenders | Body | [Read More](https://medium.com/p/3574ffd309c9) |
-| Sat, 12 Jul 2025 11:47:15 GMT | The First Crystal Ball: Euclid and the Miracle of Axioms | Stanleyyan | [Read More](https://medium.com/p/c8f685efd48e) |
