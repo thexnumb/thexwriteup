@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 18:26:26 GMT | Day 48: Subnetting 2 | Nile Okomo | [Read More](https://medium.com/p/a24b03384b09) |
+| Sat, 12 Jul 2025 18:07:29 GMT | RED - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/00ea9a36e2a0) |
+| Sat, 12 Jul 2025 17:58:46 GMT | $40M GMX Exploit Ends with a Plot Twist: Hacker Returns Half, Grabs $5M Bounty | CoinGen | [Read More](https://medium.com/p/3b2126f24b7e) |
 | Sat, 12 Jul 2025 17:32:15 GMT | FEAR 2 : AM I ALWAYS GOING TO BE TOO MUCH (OR NOT ENOUGH)? | Dreamy | [Read More](https://medium.com/p/4602646e902b) |
 | Sat, 12 Jul 2025 17:27:37 GMT | Real Case: How Trustoryx Saved a Young Woman from a Fake Marriage Trap | NIkhil Kumar | [Read More](https://medium.com/p/11e2283cea9e) |
 | Sat, 12 Jul 2025 17:22:51 GMT | AI-Powered NIDS | Tal Eliyahu | [Read More](https://medium.com/p/b0e19be7639e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 11:52:26 GMT | “When Smiling Feels Wrong” | Heidi lai | [Read More](https://medium.com/p/1cfd0445a313) |
 | Sat, 12 Jul 2025 11:48:11 GMT | Redline Lab - Cyber Defenders | Body | [Read More](https://medium.com/p/3574ffd309c9) |
 | Sat, 12 Jul 2025 11:47:15 GMT | The First Crystal Ball: Euclid and the Miracle of Axioms | Stanleyyan | [Read More](https://medium.com/p/c8f685efd48e) |
-| Sat, 12 Jul 2025 11:45:37 GMT | Human Factors in Cybersecurity: Mitigating Risk Through a Custom Awareness Program and… | Kelechi Onwuka | [Read More](https://medium.com/p/3826f7075d0d) |
-| Sat, 12 Jul 2025 11:38:26 GMT | How Telegram Bots Can Help You Discover Credentials and User info | Anonymousshetty | [Read More](https://medium.com/p/49d36caeb704) |
-| Sat, 12 Jul 2025 11:33:30 GMT | Even When It’s Hard, He’s Still Here | Heidi lai | [Read More](https://medium.com/p/2f0162ca0a05) |
