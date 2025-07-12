@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 06:16:45 GMT | All-in-one IT & marketing solutions for businesses | Aryan Mansoor | [Read More](https://medium.com/p/1b0391c70d21) |
+| Sat, 12 Jul 2025 06:14:40 GMT | Transforming Cybersecurity with AI | Ravi Sankar Uppala | [Read More](https://medium.com/p/bd2d48d52918) |
+| Sat, 12 Jul 2025 06:11:45 GMT | ประสบการณ์สอบ Blue Team Level 1 (BTL1) | Koonnamchok Klongkaew | [Read More](https://medium.com/p/52061e6fda0f) |
+| Sat, 12 Jul 2025 06:08:51 GMT | Blockchain x Data Marketplaces: The Future of Data Ownership | Hemzeeboii | [Read More](https://medium.com/p/934073e4dc8a) |
+| Sat, 12 Jul 2025 06:06:46 GMT | The Best Cybersecurity Options for Companies with Co-Managed IT Support | Seo | [Read More](https://medium.com/p/ba3f71619568) |
+| Sat, 12 Jul 2025 06:01:39 GMT | Did you know your phone could be betraying your secrets — without you ever realizing it? | Erginoustechnologies | [Read More](https://medium.com/p/78b565f44c28) |
+| Sat, 12 Jul 2025 06:01:20 GMT | Security Fundamentals: Encryption Explained | The Millennial Dev | [Read More](https://medium.com/p/514bb7049ff1) |
+| Sat, 12 Jul 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — Jul 12, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/e14826914a6f) |
 | Sat, 12 Jul 2025 05:38:58 GMT | Top Universities In Canada for Cyber Security Programs | Top Universities In Canada | [Read More](https://medium.com/p/8bca3a72b848) |
 | Sat, 12 Jul 2025 05:31:18 GMT | The Absurdity of Modern Love | Misty | [Read More](https://medium.com/p/1048d83a6c26) |
 | Sat, 12 Jul 2025 05:31:02 GMT | CVE-2025–47812: Critical Wing FTP Server Vulnerability Under Active Exploitation Allowing Full… | Darshan | [Read More](https://medium.com/p/93abf8b531fb) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 17:59:31 GMT | Bug Reporting as an Engineering Discipline: Beyond Debugging | Wongjushao | [Read More](https://medium.com/p/14737863d083) |
 | Fri, 11 Jul 2025 17:58:32 GMT | A liberal arts student wanders into a cybersecurity bar… | Laurdickerson | [Read More](https://medium.com/p/015cc1d3b550) |
 | Fri, 11 Jul 2025 17:56:42 GMT | Luxury Concierge & VIP Security Services for High-End Events in the UK | waeventservices.co.uk/ | [Read More](https://medium.com/p/19367799c398) |
-| Fri, 11 Jul 2025 17:54:26 GMT | The FIA Trap: Understanding the Dangers of Sharing Sensitive Content. | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/31218fb319eb) |
-| Fri, 11 Jul 2025 17:54:08 GMT | A concise AI governance checklist for ISO 27001:2022 compliance (Part 4 of 7) | Aaron Rusz | [Read More](https://medium.com/p/8d1758c32bbc) |
-| Fri, 11 Jul 2025 17:53:22 GMT | Key Points | Ferary Solomon | [Read More](https://medium.com/p/4f145b9ba19b) |
-| Fri, 11 Jul 2025 17:53:14 GMT | ️ Cyber Security Tips for Beginners | Shoaib Amin | [Read More](https://medium.com/p/888ad6d04ef9) |
-| Fri, 11 Jul 2025 17:51:21 GMT | $301M Breached: PlayDapp, Seneca, Duelbits, and ERC404 Exploited | Olympix | [Read More](https://medium.com/p/86c7979ac603) |
-| Fri, 11 Jul 2025 17:51:02 GMT | picoCTF — logon | Robby firdauzy | [Read More](https://medium.com/p/a7faef14175f) |
-| Fri, 11 Jul 2025 17:49:23 GMT | Nim: The Hidden Gem of Programming Languages You Need to Know About | Taha Ex | [Read More](https://medium.com/p/4d7171d9f2e7) |
-| Fri, 11 Jul 2025 17:45:52 GMT | Cybersecurity Entry Level Advice | DarKVoicE | [Read More](https://medium.com/p/ceca64135415) |
