@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 06:57:25 GMT | Accessing Admin Directory | SIDDHANT SHUKLA | [Read More](https://medium.com/p/eec04145a0fc) |
+| Sat, 12 Jul 2025 06:56:59 GMT | From Packaging Lines to Hackers’ Goldmine: The Hidden Risk of PCOM | Azim Uddin | [Read More](https://medium.com/p/9af5c254a667) |
+| Sat, 12 Jul 2025 06:52:21 GMT | Email is Silly — Owning Your Own Email Address | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/23e0cebda9d7) |
+| Sat, 12 Jul 2025 06:51:42 GMT | She Wants You to Open Up, So She Can Use It Against You Later | X-Plain | [Read More](https://medium.com/p/835cff1d701f) |
+| Sat, 12 Jul 2025 06:49:09 GMT | PortSwigger Lab — Clickjacking (UI redressing) | k1dd0sz | [Read More](https://medium.com/p/b36bc61e000a) |
+| Sat, 12 Jul 2025 06:40:13 GMT | Deep Dive SIEM(SEC555) Part 3 | Bit_Picker | [Read More](https://medium.com/p/99bc23b21b8a) |
+| Sat, 12 Jul 2025 06:38:43 GMT | ISO 27701 Implementation in Practice: What Every GRC Professional Should Know | Opeyemi Ajakaye-Maku | [Read More](https://medium.com/p/51c2d84ae66a) |
+| Sat, 12 Jul 2025 06:30:16 GMT | Sony WH-1000XM5 Bluetooth Vulnerability: Man-in-the-Middle via Insecure Reconnection | Yeswehack | [Read More](https://medium.com/p/cb1125e2f77b) |
+| Sat, 12 Jul 2025 06:24:54 GMT | The Invite That Lied: A Business Logic Flaw Hidden Behind LG’s Walls | LordofHeaven | [Read More](https://medium.com/p/a49cca506294) |
 | Sat, 12 Jul 2025 06:16:45 GMT | All-in-one IT & marketing solutions for businesses | Aryan Mansoor | [Read More](https://medium.com/p/1b0391c70d21) |
 | Sat, 12 Jul 2025 06:14:40 GMT | Transforming Cybersecurity with AI | Ravi Sankar Uppala | [Read More](https://medium.com/p/bd2d48d52918) |
 | Sat, 12 Jul 2025 06:11:45 GMT | ประสบการณ์สอบ Blue Team Level 1 (BTL1) | Koonnamchok Klongkaew | [Read More](https://medium.com/p/52061e6fda0f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 18:27:10 GMT | The IT Bloke’s Weekly Wrap-Up | Mohammed Brückner | [Read More](https://medium.com/p/f1746f44babc) |
 | Fri, 11 Jul 2025 18:22:04 GMT | Cedar Valley News — July 11, 2025 | Evan Swensen | [Read More](https://medium.com/p/ddb13be03de1) |
 | Fri, 11 Jul 2025 18:19:50 GMT | Secure Vibe Coding: Staying Safe While Collaborating with AI | Aravind S V | [Read More](https://medium.com/p/32f9f63a7f2e) |
-| Fri, 11 Jul 2025 18:19:02 GMT | A concise AI governance checklist for ISO 27001:2022 compliance (Part 5 of 7) | Aaron Rusz | [Read More](https://medium.com/p/470c739e0b2a) |
-| Fri, 11 Jul 2025 18:17:40 GMT | NOTHING IS PRIVATE: How They Are Manipulating You Without You Knowing | markito | [Read More](https://medium.com/p/cd1ab9ad88b3) |
-| Fri, 11 Jul 2025 18:08:10 GMT | Defend Against Spoofing Attacks: How to Spot and Stop Digital Impersonators | SafeAeon Inc. | [Read More](https://medium.com/p/d922e7f74923) |
-| Fri, 11 Jul 2025 18:06:47 GMT | Cyber Security Offense and Defense Home Lab — Part 1 | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/73cf33c9c169) |
-| Fri, 11 Jul 2025 18:05:49 GMT | OSCP Write-Up: SQL Injection Attacks — Module Exercise — VM #1 | agi | [Read More](https://medium.com/p/2e0e25b1ffa4) |
-| Fri, 11 Jul 2025 18:02:33 GMT | $4M Drained: Mozaic Insider Attack, Blueberry Oracle Fail, xPet, and Miner Exploits | Olympix | [Read More](https://medium.com/p/5b5d5587dfea) |
-| Fri, 11 Jul 2025 17:59:31 GMT | Bug Reporting as an Engineering Discipline: Beyond Debugging | Wongjushao | [Read More](https://medium.com/p/14737863d083) |
-| Fri, 11 Jul 2025 17:58:32 GMT | A liberal arts student wanders into a cybersecurity bar… | Laurdickerson | [Read More](https://medium.com/p/015cc1d3b550) |
-| Fri, 11 Jul 2025 17:56:42 GMT | Luxury Concierge & VIP Security Services for High-End Events in the UK | waeventservices.co.uk/ | [Read More](https://medium.com/p/19367799c398) |
