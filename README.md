@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 15:30:08 GMT | Bangladesh and the Battlefield of Tomorrow: A Call to Arms for Cyber Defense and AI Sovereignty | Nazmus Sakib Apurba | [Read More](https://medium.com/p/6b9fcb26ca42) |
+| Sat, 12 Jul 2025 15:24:19 GMT | Why Recon Alone Won’t Make You a Top Bug Hunter (My 2025 Reality Check) | Harsh kothari | [Read More](https://medium.com/p/4d7843e39019) |
+| Sat, 12 Jul 2025 15:22:15 GMT | TSUTOMU SHIMOMURA IS BEST HACKER TO RECLAIM LOST FUNDS ON CRYPTO TRADE | Wisdomalfred | [Read More](https://medium.com/p/c99cb2b3c20d) |
+| Sat, 12 Jul 2025 15:21:34 GMT | ️ How I Got into IT and What I Wish I Knew Sooner | Myshawne Stallings | [Read More](https://medium.com/p/70af12763e9b) |
 | Sat, 12 Jul 2025 15:19:28 GMT | Crashing with Clues: How Improper Error Handling Leaks Secrets | Natarajan C K | [Read More](https://medium.com/p/149cb35a46b8) |
 | Sat, 12 Jul 2025 15:15:08 GMT | Networking Concepts- | Shourya Pratap Singh | [Read More](https://medium.com/p/98a8d7112d51) |
 | Sat, 12 Jul 2025 15:11:35 GMT | Rethinking Identity Beyond Passwords: A Frictionless Future | Arshiya Sultana | [Read More](https://medium.com/p/901e23bd233e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 09:00:53 GMT | Gift payment 6,000 USDT Blockchain Trc20 for you u can use ( Okx walllet — Safepal wallet -Tron… | Joelle luxer | [Read More](https://medium.com/p/508879f40825) |
 | Sat, 12 Jul 2025 09:00:45 GMT | Health Check Auslagerungsmanagement 2025: Der ultimative Leitfaden für nachhaltige… | Philip Hansen | [Read More](https://medium.com/p/cbee09d73c33) |
 | Sat, 12 Jul 2025 08:55:55 GMT | Sneaky Patch - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/51c9937b4c16) |
-| Sat, 12 Jul 2025 08:55:24 GMT | CTRL+HACK : How I Owned the eJPT | Feras Malkawi | [Read More](https://medium.com/p/b8d756e78690) |
-| Sat, 12 Jul 2025 08:51:11 GMT | PortSwigger Lab: SQL injection attack, querying the database type and version on MySQL and… | awes0meness | [Read More](https://medium.com/p/a2c93cf71302) |
-| Sat, 12 Jul 2025 08:50:10 GMT | PortSwigger Lab Academy SQLi 4th-6th exercises writeup (SQL Injection) | awes0meness | [Read More](https://medium.com/p/0a02d219cb36) |
-| Sat, 12 Jul 2025 08:48:57 GMT | PortSwigger Lab: First three SQLi lab activities (easy) writeup (SQL Injection) | awes0meness | [Read More](https://medium.com/p/5424512300c9) |
