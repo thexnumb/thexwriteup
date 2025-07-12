@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 22:33:44 GMT | Advanced Screening — NahamCon 2025 Web CTF Writeup | brono theo | [Read More](https://medium.com/p/91684a4beec3) |
+| Sat, 12 Jul 2025 22:16:05 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 6: Planning (3/7) | Aaron Rusz | [Read More](https://medium.com/p/1ff9fdeec11b) |
+| Sat, 12 Jul 2025 22:13:57 GMT | EvilGPTv2 Walk-through | Cyber-Eddy | [Read More](https://medium.com/p/f2740cc34db6) |
+| Sat, 12 Jul 2025 22:12:33 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 5: Leadership (2/7) | Aaron Rusz | [Read More](https://medium.com/p/f6a10f1db27c) |
 | Sat, 12 Jul 2025 22:09:33 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 4: Context of the organization… | Aaron Rusz | [Read More](https://medium.com/p/191c44bedd99) |
 | Sat, 12 Jul 2025 22:06:55 GMT | How to Use a VPN for Beginners: A Simple Guide to Get Started | Timonéofearth | [Read More](https://medium.com/p/4dc7e1b53f6c) |
 | Sat, 12 Jul 2025 22:05:25 GMT | Introducing Nova AI: The Context Layer for Autonomous Intelligence | Build with NOVA | [Read More](https://medium.com/p/9861e70e15e1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 14:02:09 GMT | Behind the Scenes of 2FA: I Built It, Broke It, and Finally Got It Right | Pravakar Rijal | [Read More](https://medium.com/p/0b3728da11fb) |
 | Sat, 12 Jul 2025 13:51:43 GMT | Unconditional Love: Two Essential Things a True Partner Offers in a Relationship | Lucas Brown | [Read More](https://medium.com/p/85acb6505a8d) |
 | Sat, 12 Jul 2025 13:45:55 GMT | Intro to cyber security | Ahmedelshafey | [Read More](https://medium.com/p/9a70e7acd769) |
-| Sat, 12 Jul 2025 13:45:28 GMT | Critical FortiWeb Vulnerability (CVE-2025–25257) | Cybersectoworld | [Read More](https://medium.com/p/3b4eda0da818) |
-| Sat, 12 Jul 2025 13:42:50 GMT | Introduction: When Seconds of Downtime Turn Into Millions | saurabh cyberinfomines | [Read More](https://medium.com/p/1b330e955dca) |
-| Sat, 12 Jul 2025 13:41:07 GMT | How to Create Your Own Hacker Toolkit in Docker | Vipul Sonule | [Read More](https://medium.com/p/606723dbd8ac) |
-| Sat, 12 Jul 2025 13:39:45 GMT | Europe’s Decryption Dilemma: The EU’s Controversial Plan to Access Private Data by 2030. | eL Njas!™ | [Read More](https://medium.com/p/3edf34f6fabc) |
