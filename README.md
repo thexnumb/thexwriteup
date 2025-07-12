@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 10:35:44 GMT | –  … | Chandan Moolya | [Read More](https://medium.com/p/10e40ed92e9d) |
+| Sat, 12 Jul 2025 10:32:51 GMT | Still In the Room — Unauthorized Asset Access After Removal | 0xoroot | [Read More](https://medium.com/p/61547097ed86) |
+| Sat, 12 Jul 2025 10:32:35 GMT | Top Ethical Hacking Course in India: Learn from Certified Instructors | cyber security Updates | [Read More](https://medium.com/p/ae5d024ffa13) |
+| Sat, 12 Jul 2025 10:31:42 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/2d2830ebe47d) |
 | Sat, 12 Jul 2025 10:08:43 GMT | The One Where ITIO Innovex Made Security Simple | ITIO INNOVEX | [Read More](https://medium.com/p/c59b6d78a154) |
 | Sat, 12 Jul 2025 10:06:54 GMT | Ethical Hacking Practical Training Online | Manisha Chaudhary | [Read More](https://medium.com/p/3574aaaf52ec) |
 | Sat, 12 Jul 2025 09:49:56 GMT | Burp, Bounce, and Break: How SSRF to Redis Gave Me the Keys to the Castle | Iski | [Read More](https://medium.com/p/19ba546093e4) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 01:05:30 GMT | Data  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/c2f02429bd6e) |
 | Sat, 12 Jul 2025 00:07:48 GMT | How to stay aware of new Bugbounty programs using Reconsnap | Héber Júlio | [Read More](https://medium.com/p/3b9e8da26676) |
 | Sat, 12 Jul 2025 00:01:47 GMT | Cryptographic Failures: The Definitive Guide to Hacking, Bug Bounty, and Web Security | JPablo13 | [Read More](https://medium.com/p/cd79728201cf) |
-| Fri, 11 Jul 2025 23:40:15 GMT | From Passwords to Phishing: A Teacher’s Guide to Protecting Classrooms Online | Paul  Cuffe | [Read More](https://medium.com/p/eca70645c99d) |
-| Fri, 11 Jul 2025 23:35:07 GMT | The Stories I’m Still Avoiding | Koko Kawasaki | [Read More](https://medium.com/p/379c53d516f3) |
-| Fri, 11 Jul 2025 23:26:46 GMT | Hacking on a Local Network | Mike Anthony | [Read More](https://medium.com/p/4fcf909a5bb9) |
-| Fri, 11 Jul 2025 23:21:50 GMT | How Hackers Can Hijack Your AI with One Malicious Server | Cyber-AppSec | [Read More](https://medium.com/p/fd7f543f9537) |
