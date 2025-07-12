@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 09:11:06 GMT | the rise of quiet quitting 20.2 on social media | S Anuradha | [Read More](https://medium.com/p/a8aff49f11e2) |
+| Sat, 12 Jul 2025 09:03:57 GMT | What DNS Actually Does — In Under Three Minutes | Kieran Dowell | [Read More](https://medium.com/p/38c849eb58b1) |
+| Sat, 12 Jul 2025 09:02:57 GMT | OTP Bypass: Cuando el backend confía en el frontend… pierdes | Gorka | [Read More](https://medium.com/p/9d39599dafcd) |
+| Sat, 12 Jul 2025 09:01:52 GMT | Best security guards service provider in Udaipur | Nehaspiinfotechpvtltd | [Read More](https://medium.com/p/a614f2280b6f) |
+| Sat, 12 Jul 2025 09:00:53 GMT | Gift payment 6,000 USDT Blockchain Trc20 for you u can use ( Okx walllet — Safepal wallet -Tron… | Joelle luxer | [Read More](https://medium.com/p/508879f40825) |
+| Sat, 12 Jul 2025 09:00:45 GMT | Health Check Auslagerungsmanagement 2025: Der ultimative Leitfaden für nachhaltige… | Philip Hansen | [Read More](https://medium.com/p/cbee09d73c33) |
+| Sat, 12 Jul 2025 08:55:55 GMT | Sneaky Patch - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/51c9937b4c16) |
+| Sat, 12 Jul 2025 08:55:24 GMT | CTRL+HACK : How I Owned the eJPT | Feras Malkawi | [Read More](https://medium.com/p/b8d756e78690) |
+| Sat, 12 Jul 2025 08:51:11 GMT | PortSwigger Lab: SQL injection attack, querying the database type and version on MySQL and… | awes0meness | [Read More](https://medium.com/p/a2c93cf71302) |
+| Sat, 12 Jul 2025 08:50:10 GMT | PortSwigger Lab Academy SQLi 4th-6th exercises writeup (SQL Injection) | awes0meness | [Read More](https://medium.com/p/0a02d219cb36) |
+| Sat, 12 Jul 2025 08:48:57 GMT | PortSwigger Lab: First three SQLi lab activities (easy) writeup (SQL Injection) | awes0meness | [Read More](https://medium.com/p/5424512300c9) |
+| Sat, 12 Jul 2025 08:46:55 GMT | The Cybersecurity Trend That Will Never Die: Defense in Depth | CyberGain | [Read More](https://medium.com/p/c82d2e33dff5) |
+| Sat, 12 Jul 2025 08:43:50 GMT | Data Governance 2025: Wie Unternehmen ihre Datenarchitektur für Millionen-Einsparungen… | Philip Hansen | [Read More](https://medium.com/p/bea192553945) |
 | Sat, 12 Jul 2025 08:32:55 GMT | Research Insights Made Simple #3 — разбор whitepaper "Security by Design at Google" | Alexander Polomodov | [Read More](https://medium.com/p/f1887eef3020) |
 | Sat, 12 Jul 2025 08:32:48 GMT | Memahami Bug Bounty dan Studi Kasus IDOR di Endpoint Profile | Rangga Ananda S | [Read More](https://medium.com/p/1a400950f29a) |
 | Sat, 12 Jul 2025 08:31:51 GMT | WiFi Pentesting in Real Environments — Part 3: Evil Twin Attacks & Wi-Fi Phishing for… | Sachin kewat | [Read More](https://medium.com/p/2dca72f27bbd) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 22:14:39 GMT | Building My Own Secure Flask Login Template (And Why You Might Want It Too) | jorgerodriguezpagan | [Read More](https://medium.com/p/7275a968e65a) |
 | Fri, 11 Jul 2025 22:12:21 GMT | LINUX CHALLENGE (DAY 5) | FromHumanities-Hacker | [Read More](https://medium.com/p/636f140e3123) |
 | Fri, 11 Jul 2025 22:06:35 GMT | Linux Basics for Ethical Hackers: Mastering the Command Line to Hack Like a Pro | Santhosh Adiga U | [Read More](https://medium.com/p/b5992c4d5c91) |
-| Fri, 11 Jul 2025 22:00:00 GMT | The Silent Killer: How Phishing Attacks Are Destroying Small Businesses (And Why Most Don’t See It… | Bee H. | [Read More](https://medium.com/p/f455516892d0) |
-| Fri, 11 Jul 2025 21:58:25 GMT | 2025 U.S. DoD’s Cyber Sentinel Competition CTF | Felicia Palafox | [Read More](https://medium.com/p/26ea3f076e43) |
-| Fri, 11 Jul 2025 21:32:43 GMT | When AI Lies: Understanding “Hallucinations” and Why VeriEdit Matters | Prince Esien | [Read More](https://medium.com/p/024a7bc766eb) |
-| Fri, 11 Jul 2025 21:23:01 GMT | too much to hold, nowhere to put it down. | dita. | [Read More](https://medium.com/p/2d058edb6fa6) |
-| Fri, 11 Jul 2025 21:18:25 GMT | AWS Misconfigurations: How You Can Earn $10,000+ Bounties by Hacking the Cloud the Right Way | Santhosh Adiga U | [Read More](https://medium.com/p/e80d8e651d13) |
-| Fri, 11 Jul 2025 21:12:09 GMT | Why I Started Learning Cybersecurity | Gurnoor Kaur | [Read More](https://medium.com/p/db667278903e) |
-| Fri, 11 Jul 2025 21:03:30 GMT | RoadMap: Source Code Analysis — White Box | Shwajsophia | [Read More](https://medium.com/p/6ed3a8dcbb3e) |
-| Fri, 11 Jul 2025 21:00:09 GMT | “Cyber Kill Chain”? Sounds Dramatic? It is. | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/c4958b5600ba) |
-| Fri, 11 Jul 2025 20:52:53 GMT | Exploiting Server-Side Template Injection (SSTI) in Jinja2: From Input Field to Remote Code… | Santhosh Adiga U | [Read More](https://medium.com/p/403547b9b90c) |
-| Fri, 11 Jul 2025 20:51:15 GMT | Iranian APTs and the Next Phase of Infrastructure Risk | Josh Johnson | [Read More](https://medium.com/p/d915e1f96dc8) |
-| Fri, 11 Jul 2025 20:43:10 GMT | Anakus BTLO | ibra | [Read More](https://medium.com/p/83b5d2062101) |
-| Fri, 11 Jul 2025 20:39:34 GMT | How I Dual Booted Kali Linux with Windows Using Ventoy | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/918b76822416) |
-| Fri, 11 Jul 2025 20:38:40 GMT | Owning the Network with Scapy: Real-World Packet Manipulation and Attacks | Santhosh Adiga U | [Read More](https://medium.com/p/8d1896008f0b) |
