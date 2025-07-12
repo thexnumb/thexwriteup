@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 23:16:26 GMT | BAC (Authorization Bypass Allows Former Owner to Add Teachers After Role Downgrade) | HBlack Ghost | [Read More](https://medium.com/p/d346fc051fca) |
+| Sat, 12 Jul 2025 23:09:37 GMT | PerfektBlue: Critical Bluetooth Flaws Put Millions of Vehicles at Risk | Trevor Kutto Hacks | [Read More](https://medium.com/p/2b76ad600f3d) |
+| Sat, 12 Jul 2025 23:05:54 GMT | Azure Function App 403 Forbidden Error: Complete Fix Guide (2025) | Paul Volosen | [Read More](https://medium.com/p/0d3abff381c4) |
+| Sat, 12 Jul 2025 23:01:46 GMT | Pickle Rick - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/3282b30645e5) |
+| Sat, 12 Jul 2025 22:56:44 GMT | “The 9-Minute Blackout” – The Day Silence Fell (2045) | Zed | [Read More](https://medium.com/p/30e1b4c753da) |
 | Sat, 12 Jul 2025 22:33:44 GMT | Advanced Screening — NahamCon 2025 Web CTF Writeup | brono theo | [Read More](https://medium.com/p/91684a4beec3) |
 | Sat, 12 Jul 2025 22:16:05 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 6: Planning (3/7) | Aaron Rusz | [Read More](https://medium.com/p/1ff9fdeec11b) |
 | Sat, 12 Jul 2025 22:13:57 GMT | EvilGPTv2 Walk-through | Cyber-Eddy | [Read More](https://medium.com/p/f2740cc34db6) |
@@ -42,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 20:04:50 GMT | Inside His Mind: Understanding the Invisible Emotional Needs of Men | Roj Ink | [Read More](https://medium.com/p/ab53cab78a90) |
 | Sat, 12 Jul 2025 19:53:57 GMT | A Critical Vulnerability on Bet261.mg — And Why It Should Concern Everyone using the platform | אימב21_סק | [Read More](https://medium.com/p/449a86f579e8) |
 | Sat, 12 Jul 2025 19:50:58 GMT | Is your random() Really Random? A Deep Dive into Random Number Generation | Aidid Alam | [Read More](https://medium.com/p/5735674cb384) |
+| Sat, 12 Jul 2025 19:23:57 GMT | Configuración MFA en Zabbix Server | Julio Villalobos | [Read More](https://medium.com/p/e8b020a5739c) |
 | Sat, 12 Jul 2025 19:17:14 GMT | TryHackMe WalkThrough : ItsyBitsy | Sarkhelranit | [Read More](https://medium.com/p/3c1566010076) |
 | Sat, 12 Jul 2025 19:15:39 GMT | Introducing Wazuh MCP Server: Bridging SIEM and AI for Smarter Security Operations | SOCFortress | [Read More](https://medium.com/p/ea9b5441dbba) |
 | Sat, 12 Jul 2025 19:09:26 GMT | Dog Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/4bb2235dc0ff) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 14:35:26 GMT | Shadow AI: The Silent Risk Hiding in Your Workplace — And Why Simply Banning It Won’t Work | 1Protection.AI | [Read More](https://medium.com/p/c73093981526) |
 | Sat, 12 Jul 2025 14:33:27 GMT | How I Simulated a HIPAA-Compliant IT Environment: A Cybersecurity Audit Readiness Project | Anthony Mazyck | [Read More](https://medium.com/p/81af9013348f) |
 | Sat, 12 Jul 2025 14:27:18 GMT | Mastering Dynamic RLS in Power BI — Real-World Tips for Scalable Security | Mahendra Singh | [Read More](https://medium.com/p/e7e43ff177ed) |
-| Sat, 12 Jul 2025 14:13:35 GMT | Why Most NFT Projects Skip Security — and Pay the Price | Recover Right | [Read More](https://medium.com/p/96b4512afa97) |
-| Sat, 12 Jul 2025 14:11:56 GMT | Challenge RootMe x DGSE 2025 | Horus | [Read More](https://medium.com/p/3d397aaabeac) |
-| Sat, 12 Jul 2025 14:05:42 GMT | Why Does My Meterpreter Payload Contain ApacheBench Strings? A Peek Inside msfvenom.exe | Figurx | [Read More](https://medium.com/p/6b81c0f8237a) |
-| Sat, 12 Jul 2025 14:02:09 GMT | Behind the Scenes of 2FA: I Built It, Broke It, and Finally Got It Right | Pravakar Rijal | [Read More](https://medium.com/p/0b3728da11fb) |
-| Sat, 12 Jul 2025 13:51:43 GMT | Unconditional Love: Two Essential Things a True Partner Offers in a Relationship | Lucas Brown | [Read More](https://medium.com/p/85acb6505a8d) |
-| Sat, 12 Jul 2025 13:45:55 GMT | Intro to cyber security | Ahmedelshafey | [Read More](https://medium.com/p/9a70e7acd769) |
