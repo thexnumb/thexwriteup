@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 20:15:28 GMT | The CCTV Trap: How Poor Security Practices Turned Cameras into Attack Vectors | Sitale Apurwa | [Read More](https://medium.com/p/0e8481cccd4a) |
+| Sat, 12 Jul 2025 20:08:06 GMT | CTF Day(29) | Ahmed Narmer | [Read More](https://medium.com/p/7f76f92d5fb5) |
+| Sat, 12 Jul 2025 20:05:57 GMT | The Story of NetSync.exe: Between Missed Flags and Memorable Moments | Hritesh Rai | [Read More](https://medium.com/p/09826b836983) |
+| Sat, 12 Jul 2025 20:05:48 GMT | When Speaking Up Feels Risky: How to Support Women in Vulnerable Moments✨ | Brittany Jenay | [Read More](https://medium.com/p/d1f5bf6add27) |
+| Sat, 12 Jul 2025 20:04:50 GMT | Inside His Mind: Understanding the Invisible Emotional Needs of Men | Roj Ink | [Read More](https://medium.com/p/ab53cab78a90) |
+| Sat, 12 Jul 2025 19:53:57 GMT | A Critical Vulnerability on Bet261.mg — And Why It Should Concern Everyone using the platform | אימב21_סק | [Read More](https://medium.com/p/449a86f579e8) |
+| Sat, 12 Jul 2025 19:50:58 GMT | Is your random() Really Random? A Deep Dive into Random Number Generation | Aidid Alam | [Read More](https://medium.com/p/5735674cb384) |
 | Sat, 12 Jul 2025 19:17:14 GMT | TryHackMe WalkThrough : ItsyBitsy | Sarkhelranit | [Read More](https://medium.com/p/3c1566010076) |
 | Sat, 12 Jul 2025 19:15:39 GMT | Introducing Wazuh MCP Server: Bridging SIEM and AI for Smarter Security Operations | SOCFortress | [Read More](https://medium.com/p/ea9b5441dbba) |
 | Sat, 12 Jul 2025 19:09:26 GMT | Dog Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/4bb2235dc0ff) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 12:58:33 GMT | Security Operations (SecOps) Services: Safeguarding Your Business from Threats | Scudocyber | [Read More](https://medium.com/p/4556282651a4) |
 | Sat, 12 Jul 2025 12:48:36 GMT | Integrating TheHive with Wazuh: Automate Security Alert Management | Neetrox | [Read More](https://medium.com/p/6a01b03c8796) |
 | Sat, 12 Jul 2025 12:44:26 GMT | Concept of Active Directory and How to perform Active Directory Enumeration and Exploitation… | Siddhesh Surve | [Read More](https://medium.com/p/4ff769773e4f) |
-| Sat, 12 Jul 2025 12:42:17 GMT | CVE-2025–32463 - Local Privilege Escalation via chroot option in Sudo | Lunacysoft | [Read More](https://medium.com/p/c6d5dda6b131) |
-| Sat, 12 Jul 2025 12:36:31 GMT | Please If You See this Message on your Facebook Messenger, Do Not Click… | ADIBE UGOCHUKWU | [Read More](https://medium.com/p/f843c4b87db4) |
-| Sat, 12 Jul 2025 12:35:57 GMT | Photo by Mauro Sbicego on Unsplash | Stanleyyan | [Read More](https://medium.com/p/138a64ee4e5e) |
-| Sat, 12 Jul 2025 12:30:41 GMT | The Fifth Crystal Ball: Linearity, Algebra, and the Architecture of Thought | Stanleyyan | [Read More](https://medium.com/p/5e73c84a424b) |
-| Sat, 12 Jul 2025 12:29:02 GMT | TSUTOMU SHIMOMURA IS BEST HACKER TO RECLAIM LOST FUNDS ON CRYPTO TRADE | Wisdomalfred | [Read More](https://medium.com/p/e7bbde86ad47) |
-| Sat, 12 Jul 2025 12:24:46 GMT | The Fourth Crystal Ball: The Birth of Probability and Statistical Thinking | Stanleyyan | [Read More](https://medium.com/p/ea60efb8908e) |
-| Sat, 12 Jul 2025 12:23:55 GMT | Best #SailPoint Online Course in 2025 Offered by #VisualPath ‍ | Pravin Choudhary | [Read More](https://medium.com/p/f5cd54080c0a) |
