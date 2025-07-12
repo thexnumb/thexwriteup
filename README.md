@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 16:32:51 GMT | Stolen Mount - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/68f446d0fd71) |
+| Sat, 12 Jul 2025 16:25:24 GMT | PortSwigger Lab — Cross-origin resource sharing (CORS) | k1dd0sz | [Read More](https://medium.com/p/d00864a9ae0b) |
 | Sat, 12 Jul 2025 16:16:56 GMT | Can a VPN Be Tracked? What You Need to Know About VPN Privacy | Timonéofearth | [Read More](https://medium.com/p/201e0dc1b682) |
+| Sat, 12 Jul 2025 16:16:56 GMT | My Specter | BJ Dawson | [Read More](https://medium.com/p/2468a1531dbf) |
 | Sat, 12 Jul 2025 16:07:57 GMT | Beyond OWASP: Real-World Application Attacks You’re Probably Not Testing For | DefenceRabbit | [Read More](https://medium.com/p/c53f5f4272f4) |
 | Sat, 12 Jul 2025 16:02:59 GMT | How to Protect Your MCP Servers and Require Authentication for AI Assistant Activation | Javier Calderon Jr | [Read More](https://medium.com/p/b19566db361e) |
 | Sat, 12 Jul 2025 15:58:46 GMT | The Story Carries the Silence: | Masi Publications | [Read More](https://medium.com/p/21907a28520a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 10:32:35 GMT | Top Ethical Hacking Course in India: Learn from Certified Instructors | cyber security Updates | [Read More](https://medium.com/p/ae5d024ffa13) |
 | Sat, 12 Jul 2025 10:31:42 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/2d2830ebe47d) |
 | Sat, 12 Jul 2025 10:26:31 GMT | Memakai OpenSSL Sebagai Sertifikat Keamanan Jaringan Web | Reyza Maulana Putra | [Read More](https://medium.com/p/49fff5afbe64) |
-| Sat, 12 Jul 2025 10:08:43 GMT | The One Where ITIO Innovex Made Security Simple | ITIO INNOVEX | [Read More](https://medium.com/p/c59b6d78a154) |
-| Sat, 12 Jul 2025 10:06:54 GMT | Ethical Hacking Practical Training Online | Manisha Chaudhary | [Read More](https://medium.com/p/3574aaaf52ec) |
-| Sat, 12 Jul 2025 09:49:56 GMT | Burp, Bounce, and Break: How SSRF to Redis Gave Me the Keys to the Castle | Iski | [Read More](https://medium.com/p/19ba546093e4) |
