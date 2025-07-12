@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 11:33:30 GMT | Even When It’s Hard, He’s Still Here | Heidi lai | [Read More](https://medium.com/p/2f0162ca0a05) |
+| Sat, 12 Jul 2025 11:28:23 GMT | End-to-End ELK + MCP Integration: A Beginner’s Deployment Guide | f0xy_pr0xy | [Read More](https://medium.com/p/f2c3e36a0aeb) |
+| Sat, 12 Jul 2025 11:20:49 GMT | Dmail: Taking Back Control of Your Digital Conversations. | BLX's | [Read More](https://medium.com/p/2a9d4fa9c32d) |
+| Sat, 12 Jul 2025 11:20:16 GMT | Gravity Forms Supply‑Chain Breach Exposes Millions of WordPress Sites | Jasmitharouthu | [Read More](https://medium.com/p/b923f85ee4b2) |
 | Sat, 12 Jul 2025 11:11:30 GMT | Will World War III be digital? | Avateernaa Duttaray | [Read More](https://medium.com/p/7b697c4a857d) |
 | Sat, 12 Jul 2025 11:10:15 GMT | Starting My Cybersecurity Degree: What I Learned About Red and Blue Teams | S Similimran | [Read More](https://medium.com/p/47f1c1c42ed5) |
 | Sat, 12 Jul 2025 10:57:01 GMT | The Philosophical Perspective of Technology in PETs | Sobix | [Read More](https://medium.com/p/eff75f964039) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 03:41:43 GMT | McCarthyism: Witch Hunt or Warning Sign? | Kayla Simas | [Read More](https://medium.com/p/cd0b084b7e48) |
 | Sat, 12 Jul 2025 03:38:31 GMT | Metasploit: Exploitation | sercan timocin | [Read More](https://medium.com/p/ecc0006655a3) |
 | Sat, 12 Jul 2025 03:31:44 GMT | Your Health Data Exposed? | Deven Chhajed | [Read More](https://medium.com/p/700a7964880c) |
-| Sat, 12 Jul 2025 02:31:42 GMT | How I Found Facebook and Google API Keys Hardcoded in an Android App (and Why That’s a Bad Idea) | AIwolfie | [Read More](https://medium.com/p/7a3f06494c72) |
-| Sat, 12 Jul 2025 02:27:10 GMT | Why So Many Small Businesses Don’t Document Their IT — And Why That’s a Costly Mistake | Ivan Yurynts | [Read More](https://medium.com/p/de107ef942ad) |
-| Sat, 12 Jul 2025 02:04:05 GMT | I am not an Expert in my Field, But I Finally Know How to Keep Going | DarKVoicE | [Read More](https://medium.com/p/25d09bc03a61) |
-| Sat, 12 Jul 2025 02:02:54 GMT | Understanding URL-Based Attacks: A Comprehensive Guide to Cybersecurity Threats | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/7404dd811768) |
