@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 14:33:27 GMT | How I Simulated a HIPAA-Compliant IT Environment: A Cybersecurity Audit Readiness Project | Anthony Mazyck | [Read More](https://medium.com/p/81af9013348f) |
+| Sat, 12 Jul 2025 14:27:18 GMT | Mastering Dynamic RLS in Power BI — Real-World Tips for Scalable Security | Mahendra Singh | [Read More](https://medium.com/p/e7e43ff177ed) |
+| Sat, 12 Jul 2025 14:13:35 GMT | Why Most NFT Projects Skip Security — and Pay the Price | Recover Right | [Read More](https://medium.com/p/96b4512afa97) |
 | Sat, 12 Jul 2025 14:11:56 GMT | Challenge RootMe x DGSE 2025 | Horus | [Read More](https://medium.com/p/3d397aaabeac) |
 | Sat, 12 Jul 2025 14:05:42 GMT | Why Does My Meterpreter Payload Contain ApacheBench Strings? A Peek Inside msfvenom.exe | Figurx | [Read More](https://medium.com/p/6b81c0f8237a) |
 | Sat, 12 Jul 2025 14:02:09 GMT | Behind the Scenes of 2FA: I Built It, Broke It, and Finally Got It Right | Pravakar Rijal | [Read More](https://medium.com/p/0b3728da11fb) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 08:10:49 GMT | Infinity Shell - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/9d96dd611535) |
 | Sat, 12 Jul 2025 08:05:35 GMT | VulnHub Planets Series: Mercury | Palkesh Jain | [Read More](https://medium.com/p/15b3ead90bd3) |
 | Sat, 12 Jul 2025 08:05:17 GMT | Why CORS Misconfigs Are Still a Goldmine for Attackers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/78542d772f6e) |
-| Sat, 12 Jul 2025 08:03:27 GMT | ECIES Elliptic Curves and Symmetric Key with wolfCrypt | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/30d033735ec3) |
-| Sat, 12 Jul 2025 08:01:10 GMT | TryHackMe: Simple Web CTF Walkthrough - by Mrinal | Mrinal Kumar Chandra | [Read More](https://medium.com/p/51624b4136e3) |
-| Sat, 12 Jul 2025 07:58:44 GMT | AI ของคุณปลอดภัยพอไหม? AI Control Matrix (By CSA) และ Azure มีคำตอบ! | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/585e6f0356d4) |
