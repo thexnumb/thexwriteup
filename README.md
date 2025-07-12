@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 21:09:35 GMT | ️How I Found a Reflected XSS on India’s one of the largest companie Tata Motors Website —But Got… | Tech Researcher | [Read More](https://medium.com/p/1c617c3afe53) |
+| Sat, 12 Jul 2025 20:58:20 GMT | Your Smartphone Is a Hacker’s Goldmine: A SOC Analyst’s Guide to Keeping It Secure. | Dany Christel | [Read More](https://medium.com/p/ad940edca04d) |
+| Sat, 12 Jul 2025 20:57:12 GMT | K8s Secrets: Base Recommended Protection - Restrict Secret Access to Specific Containers | W. Jenks Gibbons | [Read More](https://medium.com/p/cf2c1c746e1e) |
+| Sat, 12 Jul 2025 20:56:08 GMT | TryHackMe Walkthrough: Nmap Live Host Discovery | Ruposhree B. | [Read More](https://medium.com/p/cfeba62b73cc) |
+| Sat, 12 Jul 2025 20:44:27 GMT | 5 Cybersecurity Learning Platforms That Changed How I Learn (And They’re Free or Affordable) | Ghulam Mohiuddin | [Read More](https://medium.com/p/7c0255a9603d) |
 | Sat, 12 Jul 2025 20:38:17 GMT | CTF Day(30) | Ahmed Narmer | [Read More](https://medium.com/p/e47e2dd1b69a) |
+| Sat, 12 Jul 2025 20:32:46 GMT | Module 1 — Assessment Methodologies: Information Gathering CTF 1 | A Missing Duck | [Read More](https://medium.com/p/54257fb5189c) |
 | Sat, 12 Jul 2025 20:32:10 GMT | Apple Built the Perfect Spy: Part 1 | D. Mikhailov | [Read More](https://medium.com/p/dd846aa5e723) |
 | Sat, 12 Jul 2025 20:29:53 GMT | TalentCoders Siber Güvenlik Kampı: 2. Hafta Deneyimim — FortiGate ile Uygulamalı Ağ Güvenliği | Talha Tarlabaz | [Read More](https://medium.com/p/a105f405ffd2) |
 | Sat, 12 Jul 2025 20:24:14 GMT | Detecting Adversarial Attacks — Tryhackme | Mukund | [Read More](https://medium.com/p/6bf3673ab134) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 13:36:38 GMT | $13,950 Bounty: Exploiting GitLab Integrations for Full XSS | Monika sharma | [Read More](https://medium.com/p/19275a030c2b) |
 | Sat, 12 Jul 2025 13:36:28 GMT | DAY 3: ALMOST GAVE UP | Akshatdwivedi | [Read More](https://medium.com/p/369d2516a8dc) |
 | Sat, 12 Jul 2025 13:35:58 GMT | From Zero to Hero: How I Broke into Cybersecurity with No Degree | Aj | [Read More](https://medium.com/p/e24dbf9a4226) |
-| Sat, 12 Jul 2025 13:34:36 GMT | Metasploit: Meterpreter — TryHackMe | sercan timocin | [Read More](https://medium.com/p/8c81b00718d7) |
-| Sat, 12 Jul 2025 13:34:10 GMT | The Hidden Risks of Expired SSL Certificates (and How to Avoid Them) | Watchman Tower | [Read More](https://medium.com/p/30c6165f0130) |
-| Sat, 12 Jul 2025 13:33:06 GMT | The Rise of “Shadow Talent Partnerships”: A Growing Remote Work Scam | Internet Exposed | [Read More](https://medium.com/p/d48af915559b) |
-| Sat, 12 Jul 2025 13:31:12 GMT | Stealing Parameters of a Logistic Regression Model | Daniel | [Read More](https://medium.com/p/06d5d8bc4bc7) |
-| Sat, 12 Jul 2025 13:30:07 GMT | How I Found a Critical IDOR in Indian Railways Corporate Booking Portal Exposing Millions of Users… | coffinxp | [Read More](https://medium.com/p/41fdd2145efe) |
-| Sat, 12 Jul 2025 13:19:33 GMT | How I Made $20K+ From Broken Link Hijacking on GitHub Repos | Arshad Kazmi | [Read More](https://medium.com/p/67d8917912f7) |
