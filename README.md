@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 02:31:42 GMT | How I Found Facebook and Google API Keys Hardcoded in an Android App (and Why That’s a Bad Idea) | AIwolfie | [Read More](https://medium.com/p/7a3f06494c72) |
+| Sat, 12 Jul 2025 02:27:10 GMT | Why So Many Small Businesses Don’t Document Their IT — And Why That’s a Costly Mistake | Ivan Yurynts | [Read More](https://medium.com/p/de107ef942ad) |
+| Sat, 12 Jul 2025 02:04:05 GMT | I am not an Expert in my Field, But I Finally Know How to Keep Going | DarKVoicE | [Read More](https://medium.com/p/25d09bc03a61) |
+| Sat, 12 Jul 2025 02:02:54 GMT | Understanding URL-Based Attacks: A Comprehensive Guide to Cybersecurity Threats | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/7404dd811768) |
+| Sat, 12 Jul 2025 01:54:31 GMT | Quantum Key Distribution Under Attack: Analysis of Contemporary Attack Vectors and Practical… | X-3306 | [Read More](https://medium.com/p/0968bff477ae) |
 | Sat, 12 Jul 2025 01:49:03 GMT | Build Your Own Cybersecurity Toolkit: 5 Field-Tested Tools Every Analyst Should Master | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/2f26a742b478) |
 | Sat, 12 Jul 2025 01:25:54 GMT | Lab 1: Manually assign users to a group | Mykell | [Read More](https://medium.com/p/bc00a1db8062) |
 | Sat, 12 Jul 2025 01:15:51 GMT | Why Vulnerability Terrifies Us (And Why We Need It Anyway) | Mae Reed | [Read More](https://medium.com/p/74a626b6262c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 16:11:01 GMT | How to Get Into Cybersecurity in 2025 — A Practical Guide from a Security Expert | Zino jo | [Read More](https://medium.com/p/73064c764ffb) |
 | Fri, 11 Jul 2025 16:06:16 GMT | Penetration Testing vs Vulnerability Assessments | James F Bowers II | [Read More](https://medium.com/p/72be45f553ac) |
 | Fri, 11 Jul 2025 16:01:48 GMT | Automotive Cybersecurity: The Good, the Bad, and the Ugly | Spokeo People Search | [Read More](https://medium.com/p/d0b136261a67) |
-| Fri, 11 Jul 2025 15:57:30 GMT | Scaling Fast in the Cloud? Don’t Let Security Be Your Blind Spot | Donald Betancourt | [Read More](https://medium.com/p/fb186625a2d2) |
-| Fri, 11 Jul 2025 15:54:35 GMT | How Bluetooth Vulnerabilities Are Putting Smart Cars at Serious Risk | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/aae4dcdf1bf6) |
-| Fri, 11 Jul 2025 15:52:03 GMT | Have I Been Happy? | Akshat Singh | [Read More](https://medium.com/p/895c615a842e) |
-| Fri, 11 Jul 2025 15:50:22 GMT | The Power of Fireflies | Mollie Lyon | [Read More](https://medium.com/p/c46a51d36952) |
-| Fri, 11 Jul 2025 15:47:51 GMT | The Money Reckoning 7: Fierce vulnerability to reckon with capitalism — and thrive together | Julia S | [Read More](https://medium.com/p/b552db260b90) |
