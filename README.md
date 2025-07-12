@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 19:15:39 GMT | Introducing Wazuh MCP Server: Bridging SIEM and AI for Smarter Security Operations | SOCFortress | [Read More](https://medium.com/p/ea9b5441dbba) |
+| Sat, 12 Jul 2025 19:04:14 GMT | Mastering Cloud Security with AWS-Native Tools | Aravind S V | [Read More](https://medium.com/p/9939cb2b1e8b) |
+| Sat, 12 Jul 2025 18:52:51 GMT | Building an Internal ASM Using Elasticsearch: A Practical Guide for Security Engineers | Powerexploit | [Read More](https://medium.com/p/e46727f89576) |
+| Sat, 12 Jul 2025 18:46:09 GMT | How Envelope Encryption Keeps Your Secrets Safe | Bagus Panggalih Agung | [Read More](https://medium.com/p/b1d64507677e) |
+| Sat, 12 Jul 2025 18:45:25 GMT | Securing Java Applications: A Practical Guide to Implementing JWT Authentication | Dhanush kavin G | [Read More](https://medium.com/p/0f6f7555eb82) |
 | Sat, 12 Jul 2025 18:40:02 GMT | War is a Racket: Smedley Butler and the Business of Bombs | Mean Treaties | [Read More](https://medium.com/p/cce23c644bb0) |
 | Sat, 12 Jul 2025 18:35:27 GMT | Day 49: Network Address Translation | Nile Okomo | [Read More](https://medium.com/p/fae24c57a103) |
 | Sat, 12 Jul 2025 18:26:26 GMT | Day 48: Subnetting 2 | Nile Okomo | [Read More](https://medium.com/p/a24b03384b09) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 12:23:55 GMT | Best #SailPoint Online Course in 2025 Offered by #VisualPath ‍ | Pravin Choudhary | [Read More](https://medium.com/p/f5cd54080c0a) |
 | Sat, 12 Jul 2025 12:21:54 GMT | Phishgram — Telegram Red-Team Toolkit | Anatoliy Fedorenko | [Read More](https://medium.com/p/2c75801bbd09) |
 | Sat, 12 Jul 2025 12:20:41 GMT | TSUTOMU SHIMOMURA IS BEST HACKER TO RECLAIM LOST FUNDS ON CRYPTO TRADE | Wisdomalfred | [Read More](https://medium.com/p/fa077d0f08c6) |
-| Sat, 12 Jul 2025 12:18:14 GMT | The Third Crystal Ball: The Calculus Revolution of Newton and Leibniz | Stanleyyan | [Read More](https://medium.com/p/d901fbee24d0) |
-| Sat, 12 Jul 2025 12:16:04 GMT | The Only Blog About Linux that a Beginner need to Know — Basic Commands in Bash | err0rgod | [Read More](https://medium.com/p/b692fb59d407) |
-| Sat, 12 Jul 2025 12:12:06 GMT | The Second Crystal Ball: Archimedes and the Logic of Infinity | Stanleyyan | [Read More](https://medium.com/p/7eddef9e7eba) |
-| Sat, 12 Jul 2025 12:03:36 GMT | HTB — Dog | n0tabdu11ah | [Read More](https://medium.com/p/7cac0a3c1b7f) |
-| Sat, 12 Jul 2025 11:53:43 GMT | Log Forging: Secure Coding Examples | Sahil Dari | [Read More](https://medium.com/p/ddf67404efad) |
