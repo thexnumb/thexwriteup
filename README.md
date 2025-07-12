@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 16:16:56 GMT | Can a VPN Be Tracked? What You Need to Know About VPN Privacy | Timonéofearth | [Read More](https://medium.com/p/201e0dc1b682) |
+| Sat, 12 Jul 2025 16:07:57 GMT | Beyond OWASP: Real-World Application Attacks You’re Probably Not Testing For | DefenceRabbit | [Read More](https://medium.com/p/c53f5f4272f4) |
+| Sat, 12 Jul 2025 16:02:59 GMT | How to Protect Your MCP Servers and Require Authentication for AI Assistant Activation | Javier Calderon Jr | [Read More](https://medium.com/p/b19566db361e) |
+| Sat, 12 Jul 2025 15:58:46 GMT | The Story Carries the Silence: | Masi Publications | [Read More](https://medium.com/p/21907a28520a) |
+| Sat, 12 Jul 2025 15:52:56 GMT | How Fair Is Spyware | Top Boss | [Read More](https://medium.com/p/337cfd3bea16) |
+| Sat, 12 Jul 2025 15:48:57 GMT | How SSH Works: Key Exchange, Encryption, and Secure Connections | M.Furkan SAĞLAM | [Read More](https://medium.com/p/84e91298873b) |
+| Sat, 12 Jul 2025 15:48:47 GMT | Hacking at Scale: Crush Massive Target Scopes & Supercharge Your Bug Bounty | Dheeraj Madhukar | [Read More](https://medium.com/p/dcd856d01601) |
+| Sat, 12 Jul 2025 15:47:28 GMT | GamingServer TryHackMe CTF Çözümü | Beratcamm | [Read More](https://medium.com/p/7b3c45b317d5) |
+| Sat, 12 Jul 2025 15:44:01 GMT | $ Don’t Leave Money on the Table: My Automated Hunt for $50-$500 Info Disclosure Bugs ️‍♂️ | Aman Sharma | [Read More](https://medium.com/p/e088eba923cf) |
+| Sat, 12 Jul 2025 15:43:12 GMT | Home Security System Market Size is expected to grow by USD 110.3 billion by 2034 | Vinita kumari | [Read More](https://medium.com/p/701e414f2d75) |
+| Sat, 12 Jul 2025 15:37:30 GMT | Evidence | Soul girl | [Read More](https://medium.com/p/b6e6b91f8be7) |
+| Sat, 12 Jul 2025 15:30:13 GMT | How I Secured a .NET Core API Without JWT or Cookies — The Power of Custom Authentication | Sunita Rawat | [Read More](https://medium.com/p/99a48257c852) |
 | Sat, 12 Jul 2025 15:30:08 GMT | Bangladesh and the Battlefield of Tomorrow: A Call to Arms for Cyber Defense and AI Sovereignty | Nazmus Sakib Apurba | [Read More](https://medium.com/p/6b9fcb26ca42) |
+| Sat, 12 Jul 2025 15:28:00 GMT | I Could’ve Disrupted Morocco’s Internet — But I Chose to Report It Instead | Abderrahmane Memmou | [Read More](https://medium.com/p/52a36fd9efb2) |
 | Sat, 12 Jul 2025 15:24:19 GMT | Why Recon Alone Won’t Make You a Top Bug Hunter (My 2025 Reality Check) | Harsh kothari | [Read More](https://medium.com/p/4d7843e39019) |
 | Sat, 12 Jul 2025 15:22:15 GMT | TSUTOMU SHIMOMURA IS BEST HACKER TO RECLAIM LOST FUNDS ON CRYPTO TRADE | Wisdomalfred | [Read More](https://medium.com/p/c99cb2b3c20d) |
 | Sat, 12 Jul 2025 15:21:34 GMT | ️ How I Got into IT and What I Wish I Knew Sooner | Myshawne Stallings | [Read More](https://medium.com/p/70af12763e9b) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 10:08:43 GMT | The One Where ITIO Innovex Made Security Simple | ITIO INNOVEX | [Read More](https://medium.com/p/c59b6d78a154) |
 | Sat, 12 Jul 2025 10:06:54 GMT | Ethical Hacking Practical Training Online | Manisha Chaudhary | [Read More](https://medium.com/p/3574aaaf52ec) |
 | Sat, 12 Jul 2025 09:49:56 GMT | Burp, Bounce, and Break: How SSRF to Redis Gave Me the Keys to the Castle | Iski | [Read More](https://medium.com/p/19ba546093e4) |
-| Sat, 12 Jul 2025 09:48:41 GMT | Why Quantum Computing Is Reshaping the Future of Digital Security. | Bright Mmaduabuchi | [Read More](https://medium.com/p/64715c49be29) |
-| Sat, 12 Jul 2025 09:43:42 GMT | ARE YOU WORRIED ABOUT AWS SECURITY??? | Benedict Owino | [Read More](https://medium.com/p/af4b367df724) |
-| Sat, 12 Jul 2025 09:43:19 GMT | FileFix: Abuse of Windows Explorer | 0xh4lpy | [Read More](https://medium.com/p/f9b5d37c307e) |
-| Sat, 12 Jul 2025 09:38:01 GMT | BCM-Framework: Der ultimative Strategieleitfaden für Geschäftsführer in 2025 | Philip Hansen | [Read More](https://medium.com/p/47850e4de463) |
-| Sat, 12 Jul 2025 09:31:42 GMT | Alex:** Hey, Sam! | Chathurka | [Read More](https://medium.com/p/b027d90775c5) |
-| Sat, 12 Jul 2025 09:11:30 GMT | the rise of quiet quitting 10.0 on social media | S Anuradha | [Read More](https://medium.com/p/b98814edbf9f) |
-| Sat, 12 Jul 2025 09:11:06 GMT | the rise of quiet quitting 20.2 on social media | S Anuradha | [Read More](https://medium.com/p/a8aff49f11e2) |
-| Sat, 12 Jul 2025 09:03:57 GMT | What DNS Actually Does — In Under Three Minutes | Kieran Dowell | [Read More](https://medium.com/p/38c849eb58b1) |
-| Sat, 12 Jul 2025 09:02:57 GMT | OTP Bypass: Cuando el backend confía en el frontend… pierdes | Gorka | [Read More](https://medium.com/p/9d39599dafcd) |
-| Sat, 12 Jul 2025 09:01:52 GMT | Best security guards service provider in Udaipur | Nehaspiinfotechpvtltd | [Read More](https://medium.com/p/a614f2280b6f) |
-| Sat, 12 Jul 2025 09:00:53 GMT | Gift payment 6,000 USDT Blockchain Trc20 for you u can use ( Okx walllet — Safepal wallet -Tron… | Joelle luxer | [Read More](https://medium.com/p/508879f40825) |
-| Sat, 12 Jul 2025 09:00:45 GMT | Health Check Auslagerungsmanagement 2025: Der ultimative Leitfaden für nachhaltige… | Philip Hansen | [Read More](https://medium.com/p/cbee09d73c33) |
-| Sat, 12 Jul 2025 08:55:55 GMT | Sneaky Patch - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/51c9937b4c16) |
