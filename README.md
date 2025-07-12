@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 14:11:56 GMT | Challenge RootMe x DGSE 2025 | Horus | [Read More](https://medium.com/p/3d397aaabeac) |
+| Sat, 12 Jul 2025 14:05:42 GMT | Why Does My Meterpreter Payload Contain ApacheBench Strings? A Peek Inside msfvenom.exe | Figurx | [Read More](https://medium.com/p/6b81c0f8237a) |
+| Sat, 12 Jul 2025 14:02:09 GMT | Behind the Scenes of 2FA: I Built It, Broke It, and Finally Got It Right | Pravakar Rijal | [Read More](https://medium.com/p/0b3728da11fb) |
+| Sat, 12 Jul 2025 13:51:43 GMT | Unconditional Love: Two Essential Things a True Partner Offers in a Relationship | Lucas Brown | [Read More](https://medium.com/p/85acb6505a8d) |
+| Sat, 12 Jul 2025 13:45:55 GMT | Intro to cyber security | Ahmedelshafey | [Read More](https://medium.com/p/9a70e7acd769) |
 | Sat, 12 Jul 2025 13:45:28 GMT | Critical FortiWeb Vulnerability (CVE-2025–25257) | Cybersectoworld | [Read More](https://medium.com/p/3b4eda0da818) |
 | Sat, 12 Jul 2025 13:42:50 GMT | Introduction: When Seconds of Downtime Turn Into Millions | saurabh cyberinfomines | [Read More](https://medium.com/p/1b330e955dca) |
 | Sat, 12 Jul 2025 13:41:07 GMT | How to Create Your Own Hacker Toolkit in Docker | Vipul Sonule | [Read More](https://medium.com/p/606723dbd8ac) |
 | Sat, 12 Jul 2025 13:39:45 GMT | Europe’s Decryption Dilemma: The EU’s Controversial Plan to Access Private Data by 2030. | eL Njas!™ | [Read More](https://medium.com/p/3edf34f6fabc) |
+| Sat, 12 Jul 2025 13:39:34 GMT | Find Risky SUID/SGID Files in Linux Before an Attacker Does | Ahmed Yassin | [Read More](https://medium.com/p/319de8b218a5) |
 | Sat, 12 Jul 2025 13:38:04 GMT | CVE-2025–6554: Google Chrome Zero-Day Caused by Type Confusion in V8 Engine | Om Maniya | [Read More](https://medium.com/p/417e1eab2f22) |
 | Sat, 12 Jul 2025 13:37:54 GMT | Not Just a Regex Filter: What Modern WAFs Actually Do — and Don’t” | Sandeep Saxena | [Read More](https://medium.com/p/be318a20691d) |
 | Sat, 12 Jul 2025 13:37:33 GMT | OWASP NHI Top 10: Why Non-Human Identities Are Your Largest Unsecured Attack Surface | Sandeep Saxena | [Read More](https://medium.com/p/ef3f421d4a44) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 08:03:27 GMT | ECIES Elliptic Curves and Symmetric Key with wolfCrypt | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/30d033735ec3) |
 | Sat, 12 Jul 2025 08:01:10 GMT | TryHackMe: Simple Web CTF Walkthrough - by Mrinal | Mrinal Kumar Chandra | [Read More](https://medium.com/p/51624b4136e3) |
 | Sat, 12 Jul 2025 07:58:44 GMT | AI ของคุณปลอดภัยพอไหม? AI Control Matrix (By CSA) และ Azure มีคำตอบ! | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/585e6f0356d4) |
-| Sat, 12 Jul 2025 07:58:06 GMT | Top 5 Cybersecurity Threats in 2025 (And How to Prevent Them) | SocialTechner | [Read More](https://medium.com/p/c74bc43e527c) |
-| Sat, 12 Jul 2025 07:56:56 GMT | Don’t ask a guy for these 3 things, whether he’s your boyfriend or husband. You’ll lose if you do. | Pinna Skite | [Read More](https://medium.com/p/a495835cd5af) |
-| Sat, 12 Jul 2025 07:52:46 GMT | Digital Identity Hijacked: How I Reclaimed My Name After a Silent Breach | Sarah Ailish McLoughlin | [Read More](https://medium.com/p/af08988b9534) |
-| Sat, 12 Jul 2025 07:34:48 GMT | About Me — Mrinal Kumar Chandra | Mrinalchandra | [Read More](https://medium.com/p/04b0940eb95e) |
-| Sat, 12 Jul 2025 07:32:58 GMT | Fuzzing Techniques for Maximum Bug Bounty Impact — ffufai Tool | It4chis3c | [Read More](https://medium.com/p/74e21735d6f1) |
-| Sat, 12 Jul 2025 07:25:59 GMT | I Am Offline – And That Changed Everything | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/7d0f3ec8d683) |
