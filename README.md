@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 08:18:29 GMT | The Influence of Integrity on the Efficiency of Security Personnel in Private “The Security… | K2q official | [Read More](https://medium.com/p/8044879913d3) |
+| Sat, 12 Jul 2025 08:18:24 GMT | Emotional Capitalism in the Age of AI: Will Feelings Become the Final Currency? | Caron | [Read More](https://medium.com/p/2c3daba8048e) |
+| Sat, 12 Jul 2025 08:10:49 GMT | Infinity Shell - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/9d96dd611535) |
+| Sat, 12 Jul 2025 08:05:35 GMT | VulnHub Planets Series: Mercury | Palkesh Jain | [Read More](https://medium.com/p/15b3ead90bd3) |
+| Sat, 12 Jul 2025 08:05:17 GMT | Why CORS Misconfigs Are Still a Goldmine for Attackers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/78542d772f6e) |
+| Sat, 12 Jul 2025 08:03:27 GMT | ECIES Elliptic Curves and Symmetric Key with wolfCrypt | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/30d033735ec3) |
+| Sat, 12 Jul 2025 08:01:10 GMT | TryHackMe: Simple Web CTF Walkthrough - by Mrinal | Mrinal Kumar Chandra | [Read More](https://medium.com/p/51624b4136e3) |
+| Sat, 12 Jul 2025 07:58:44 GMT | AI ของคุณปลอดภัยพอไหม? AI Control Matrix (By CSA) และ Azure มีคำตอบ! | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/585e6f0356d4) |
+| Sat, 12 Jul 2025 07:58:06 GMT | Top 5 Cybersecurity Threats in 2025 (And How to Prevent Them) | SocialTechner | [Read More](https://medium.com/p/c74bc43e527c) |
+| Sat, 12 Jul 2025 07:56:56 GMT | Don’t ask a guy for these 3 things, whether he’s your boyfriend or husband. You’ll lose if you do. | Pinna Skite | [Read More](https://medium.com/p/a495835cd5af) |
+| Sat, 12 Jul 2025 07:52:46 GMT | Digital Identity Hijacked: How I Reclaimed My Name After a Silent Breach | Sarah Ailish McLoughlin | [Read More](https://medium.com/p/af08988b9534) |
 | Sat, 12 Jul 2025 07:34:48 GMT | About Me — Mrinal Kumar Chandra | Mrinalchandra | [Read More](https://medium.com/p/04b0940eb95e) |
 | Sat, 12 Jul 2025 07:32:58 GMT | Fuzzing Techniques for Maximum Bug Bounty Impact — ffufai Tool | It4chis3c | [Read More](https://medium.com/p/74e21735d6f1) |
 | Sat, 12 Jul 2025 07:25:59 GMT | I Am Offline – And That Changed Everything | Kamal kasana ( Nagar) | [Read More](https://medium.com/p/7d0f3ec8d683) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 11 Jul 2025 20:24:31 GMT | Deploying a Honeypot with T-Pot: Catching Real-World Cyber Attacks | Bahadir Mammadli | [Read More](https://medium.com/p/dec66b5ec4a5) |
 | Fri, 11 Jul 2025 20:20:25 GMT | Ongoing Exploitation of Wing FTP RCE Vulnerability (CVE-2025–47812) Observed in the Wild | RealSec.io | [Read More](https://medium.com/p/132bd828837b) |
 | Fri, 11 Jul 2025 20:00:50 GMT | The Stories I’m Still Avoiding | Koko Kawasaki | [Read More](https://medium.com/p/e7210954c5c8) |
-| Fri, 11 Jul 2025 19:55:01 GMT | HackTheBox: EscapeTwo Write-Up | M4sterCub3 | [Read More](https://medium.com/p/14ba886f1097) |
-| Fri, 11 Jul 2025 19:40:34 GMT | Bypassing SSL Pinning with Custom Certificates: Why Burp Suite’s Default Cert Isn’t Enough | Arnav singh | [Read More](https://medium.com/p/3c92daf45644) |
-| Fri, 11 Jul 2025 19:29:53 GMT | Shift-Left Security with Amazon Inspector Code Security | Sena Yakut | [Read More](https://medium.com/p/2f9ee342c753) |
-| Fri, 11 Jul 2025 19:29:07 GMT | hackthebox: Sauna | Abdellah Lamine | [Read More](https://medium.com/p/3ad1b2c9ac9a) |
-| Fri, 11 Jul 2025 19:28:55 GMT | From Open Redirect to Account Takeover: A Real-World case | Vahagn Israelian | [Read More](https://medium.com/p/5475e42cde6e) |
-| Fri, 11 Jul 2025 19:18:29 GMT | Analyzing Microsoft’s July 2025 Patch Tuesday: Technical Insights, Organizational Impact, and… | Poojan Shah | [Read More](https://medium.com/p/0d5215b08143) |
-| Fri, 11 Jul 2025 19:02:55 GMT | Nmap Mastery — Part 3: Scan Reports, Output Formats | Seshu | [Read More](https://medium.com/p/14f5399b7025) |
-| Fri, 11 Jul 2025 18:59:43 GMT | Analysing an Injection Attack | Arcadio John Aguilar | [Read More](https://medium.com/p/fea2fd1eeefd) |
-| Fri, 11 Jul 2025 18:51:25 GMT | The Freedom to Be Vulnerable | Rahmanov Irina | [Read More](https://medium.com/p/e059eb245253) |
-| Fri, 11 Jul 2025 18:51:03 GMT | How I Hacked My Way to the eJPT | Laian Bani Sakher | [Read More](https://medium.com/p/0984f8b5b2d2) |
-| Fri, 11 Jul 2025 18:41:38 GMT | CTF Whats Your Name - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/a1d1d35b462c) |
