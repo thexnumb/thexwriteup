@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 12 Jul 2025 17:07:03 GMT | TryHackMe: Vulnerability Capstone | Babatunde Ojo | [Read More](https://medium.com/p/f504b75ae8ba) |
+| Sat, 12 Jul 2025 17:04:48 GMT | Seccomp in Docker | Reza Owliaei | [Read More](https://medium.com/p/128c413409a9) |
+| Sat, 12 Jul 2025 17:01:17 GMT | Android Trojan Dropper Analysis — RTO_Challan_1500.apk Case Study | Krishnakanth seetharaman | [Read More](https://medium.com/p/a00e7fe82293) |
+| Sat, 12 Jul 2025 16:56:32 GMT | The $10.5 Trillion Threat: Navigating the 5 Shifts of the 2025 Cybersecurity Paradigm | Akhil Binu | [Read More](https://medium.com/p/2bf13ce01909) |
+| Sat, 12 Jul 2025 16:55:52 GMT | Building AI-Powered Enterprise Systems: A Developer’s Journey from Chaos to Clarity | Udaya Veeramreddygari | [Read More](https://medium.com/p/672b0e20aa6a) |
+| Sat, 12 Jul 2025 16:52:32 GMT | MSSQL Security: Complete Guide for Enterprise Database Systems | Okan Yıldız | [Read More](https://medium.com/p/c99863db612e) |
+| Sat, 12 Jul 2025 16:46:56 GMT | Decentralized Consensus for Malware Detection: Evolving Cybersecurity Beyond Centralized Trust | Koshy | [Read More](https://medium.com/p/ce51476fcf2d) |
+| Sat, 12 Jul 2025 16:41:47 GMT | Deepfake Scams Are Here, And They’re More Convincing Than Your Ex’s Apology Text | Paradise technologies Inc | [Read More](https://medium.com/p/67a544b5685a) |
 | Sat, 12 Jul 2025 16:32:51 GMT | Stolen Mount - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/68f446d0fd71) |
 | Sat, 12 Jul 2025 16:25:24 GMT | PortSwigger Lab — Cross-origin resource sharing (CORS) | k1dd0sz | [Read More](https://medium.com/p/d00864a9ae0b) |
 | Sat, 12 Jul 2025 16:16:56 GMT | Can a VPN Be Tracked? What You Need to Know About VPN Privacy | Timonéofearth | [Read More](https://medium.com/p/201e0dc1b682) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 11:10:15 GMT | Starting My Cybersecurity Degree: What I Learned About Red and Blue Teams | S Similimran | [Read More](https://medium.com/p/47f1c1c42ed5) |
 | Sat, 12 Jul 2025 10:57:01 GMT | The Philosophical Perspective of Technology in PETs | Sobix | [Read More](https://medium.com/p/eff75f964039) |
 | Sat, 12 Jul 2025 10:56:48 GMT | Mengenal Platform Digital dengan Sistem Terintegrasi dan Stabil | SinarCahaya | [Read More](https://medium.com/p/235d26a1466e) |
-| Sat, 12 Jul 2025 10:55:33 GMT | Building a Full-Stack Penetration Testing as a Service (PTaaS) Platform: From Problem to Production | Khammassilouay | [Read More](https://medium.com/p/e8215dcd56c4) |
-| Sat, 12 Jul 2025 10:53:35 GMT | TryHackMe Blog — Walkthrough | mauzware | [Read More](https://medium.com/p/bc4ffee76dea) |
-| Sat, 12 Jul 2025 10:49:26 GMT | Legacy cybersecurity, like luggage without wheels | hubbertsmith | [Read More](https://medium.com/p/858cfc1ac7e3) |
-| Sat, 12 Jul 2025 10:35:44 GMT | –  … | Chandan Moolya | [Read More](https://medium.com/p/10e40ed92e9d) |
-| Sat, 12 Jul 2025 10:32:51 GMT | Still In the Room — Unauthorized Asset Access After Removal | 0xoroot | [Read More](https://medium.com/p/61547097ed86) |
-| Sat, 12 Jul 2025 10:32:35 GMT | Top Ethical Hacking Course in India: Learn from Certified Instructors | cyber security Updates | [Read More](https://medium.com/p/ae5d024ffa13) |
-| Sat, 12 Jul 2025 10:31:42 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/2d2830ebe47d) |
-| Sat, 12 Jul 2025 10:26:31 GMT | Memakai OpenSSL Sebagai Sertifikat Keamanan Jaringan Web | Reyza Maulana Putra | [Read More](https://medium.com/p/49fff5afbe64) |
