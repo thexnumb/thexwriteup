@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 23:41:51 GMT | VM Hardening: Finding the Sweet Spot Between Security and Functionality | Mohamed | [Read More](https://medium.com/p/a43b3eceabdb) |
+| Sun, 13 Jul 2025 23:37:57 GMT | Canada’s Ban on Hikvision: Why the World Needs Stronger Surveillance Tech Oversight | Tapendra Dev | [Read More](https://medium.com/p/797b06eb92c5) |
+| Sun, 13 Jul 2025 23:36:18 GMT | Day 35: Environment Variables in Node.js — Best Practices & Security Tips | Dipak Ahirav | [Read More](https://medium.com/p/081b597df34b) |
+| Sun, 13 Jul 2025 23:35:57 GMT | ✉️ ProtonMail vs Tuta: Which Private Email Provider Actually Honors Your Privacy? | BiyteLüm | [Read More](https://medium.com/p/da09162eb099) |
+| Sun, 13 Jul 2025 23:32:56 GMT | FortiSIEM: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/33c2b556fded) |
+| Sun, 13 Jul 2025 23:28:50 GMT | Operation Broken Gate: Web Recon at Shiganshina | Andrew Williams | [Read More](https://medium.com/p/e8c261b9f68d) |
+| Sun, 13 Jul 2025 23:22:00 GMT | Reviving LEGION: From Archived Python Tool to Modern Rust-Powered Penetration Testing Platform | Igor Dunaev | [Read More](https://medium.com/p/08304fe1dd25) |
+| Sun, 13 Jul 2025 23:17:43 GMT | It surprises me,how I made $5000 a month using AI | Caleb Ifeanyi | [Read More](https://medium.com/p/f0efc21c7604) |
+| Sun, 13 Jul 2025 23:15:46 GMT | KIRMIZI TAKIM | Abdullah Narin | [Read More](https://medium.com/p/7e4d1633d0c1) |
 | Sun, 13 Jul 2025 23:01:45 GMT | Beyond the Code: Defending Against Runtime Exploits | Sammcmullen | [Read More](https://medium.com/p/f5d5f4f255fa) |
 | Sun, 13 Jul 2025 23:01:45 GMT | LetsDefend — Linux Forensics Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/64761d8cbfb3) |
 | Sun, 13 Jul 2025 22:44:09 GMT | How I Built a Free Audit-Ready CMMC Policy Kit (Instant Download) | Steven McDaniel | [Read More](https://medium.com/p/4db9fe1c02fb) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 16:51:41 GMT | Malware 2.0: How AI Is Quietly Rewriting the Rules of Cyber Warfare | Aravind S V | [Read More](https://medium.com/p/2518c591fd5f) |
 | Sun, 13 Jul 2025 16:47:54 GMT | TRENDS’ Brotherhood Encyclopedia Is a Strategic Breakthrough | Imam Tawhidi | [Read More](https://medium.com/p/b85eda1ca569) |
 | Sun, 13 Jul 2025 16:47:19 GMT | Email Spoofing: What’s Behind the “From” Field | Malvox | [Read More](https://medium.com/p/676df55fa801) |
-| Sun, 13 Jul 2025 16:46:26 GMT | Falling in Love with Someone’s Shadow Before Their Light | Doctor’s Notes | [Read More](https://medium.com/p/aad2d2973148) |
-| Sun, 13 Jul 2025 16:36:45 GMT | Unicode Chaos: Exploiting Hidden Payloads in Multilingual Web Apps | Monika sharma | [Read More](https://medium.com/p/e56e422d34dc) |
-| Sun, 13 Jul 2025 16:36:39 GMT | Finding Vulnerabilities via Exposed Source Maps | Monika sharma | [Read More](https://medium.com/p/11d3e441b6aa) |
-| Sun, 13 Jul 2025 16:33:47 GMT | From JSLeaks to JWT Tokens: Extracting Secrets from JavaScript Like a Pro | Monika sharma | [Read More](https://medium.com/p/dd351d43a9f8) |
-| Sun, 13 Jul 2025 16:32:21 GMT | ProConOS Exposed: What ICS Security Teams Need to Know | Azim Uddin | [Read More](https://medium.com/p/044ed5ce80a9) |
-| Sun, 13 Jul 2025 16:30:04 GMT | Firmware Security: Protecting Your Devices from the Ground Up | Karthikeyan Nagaraj | [Read More](https://medium.com/p/1f902aaa0c23) |
-| Sun, 13 Jul 2025 16:27:18 GMT | Apple Built the Perfect Spy: Part 2 | D. Mikhailov | [Read More](https://medium.com/p/fcedebd75462) |
-| Sun, 13 Jul 2025 16:24:27 GMT | 7 Must-Have Tools for Building Smarter AI Agents with MCP Compatibility | Saikat Paul | [Read More](https://medium.com/p/39c8c5521e36) |
-| Sun, 13 Jul 2025 16:24:11 GMT | Top Parental Control Spy Apps for Android & iPhone | Narjis Batool | [Read More](https://medium.com/p/307dd7bec45e) |
