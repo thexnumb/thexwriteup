@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 22:32:57 GMT | FLAG COMMAND CHALLENGE : HACKTHEBOX | rizzziom | [Read More](https://medium.com/p/284473b6f85f) |
+| Sun, 13 Jul 2025 22:32:24 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 9: Performance evaluation (6/7) | Aaron Rusz | [Read More](https://medium.com/p/f2dc504fe65b) |
+| Sun, 13 Jul 2025 22:29:48 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 8: Operation (5/7) | Aaron Rusz | [Read More](https://medium.com/p/4307ad37cce2) |
+| Sun, 13 Jul 2025 22:27:11 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 7: Support (4/7) | Aaron Rusz | [Read More](https://medium.com/p/544fe2ee5cdb) |
+| Sun, 13 Jul 2025 22:22:35 GMT | The Role of Bank Transactions in Combating Financial Scams — and Why Prevention Still Matters Most | Pmyzuy | [Read More](https://medium.com/p/3c6d06871bf0) |
+| Sun, 13 Jul 2025 22:16:56 GMT | AI in Malware: How to Detect Mutating Threats | Karthikeyan Nagaraj | [Read More](https://medium.com/p/4620152c8931) |
 | Sun, 13 Jul 2025 22:10:04 GMT | Hide and Seek - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/db1d2d7d9928) |
 | Sun, 13 Jul 2025 22:06:54 GMT | I Bypassed a Strict WAF Using Simple SQL Tricks | Ibtissam hammadi | [Read More](https://medium.com/p/2fafc3d5697f) |
 | Sun, 13 Jul 2025 21:53:13 GMT | Best Cybersecurity Tools to Protect your Online Business | Appsec.pt | [Read More](https://medium.com/p/b6bddc4498c6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 16:21:12 GMT | Why Listing Your Business in a Tribe-Centered Directory Like United Tribes Is a Smart Move | LyannaMori | [Read More](https://medium.com/p/67c4053e8ac0) |
 | Sun, 13 Jul 2025 16:12:08 GMT | Your Car’s Software is Outdated—Why That’s Riskier Than a Flat Tire | Aj | [Read More](https://medium.com/p/b5f2e62a671f) |
 | Sun, 13 Jul 2025 16:03:04 GMT | Tardigrade - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/fe9241fb000d) |
-| Sun, 13 Jul 2025 16:02:50 GMT | THM Room: Pickle Rick | Sohan Kanna D | [Read More](https://medium.com/p/a9eab9915b3f) |
-| Sun, 13 Jul 2025 16:02:02 GMT | Mobile Application Security Assessment Report ( Vulnerable Bank App) | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/10b538d0caec) |
-| Sun, 13 Jul 2025 15:57:39 GMT | Behind the Scenes of ‘Login with Google’: Understanding OAuth 2.0 | Isha Sangpal | [Read More](https://medium.com/p/3d39af5324ed) |
-| Sun, 13 Jul 2025 15:55:53 GMT | How a GraphQL Misconfiguration Can Lead to Sensitive PII Data Exposure -RGHX | Raman Gautam - rghx | [Read More](https://medium.com/p/efcc0ba7ccf1) |
-| Sun, 13 Jul 2025 15:54:43 GMT | Dear Self, Does It Ever Get Better? | Susu | [Read More](https://medium.com/p/7a15a1226cd0) |
-| Sun, 13 Jul 2025 15:52:06 GMT | Understanding Buffer Overflows and Memory Corruption | Cyber_Journal | [Read More](https://medium.com/p/7f28e2764377) |
