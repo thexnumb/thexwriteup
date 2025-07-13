@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 08:43:02 GMT | Mathematical Consensus vs. Human Trust: The Future of Financial Security | Chronos Vault | [Read More](https://medium.com/p/4db81786d381) |
+| Sun, 13 Jul 2025 08:42:01 GMT | When Hackers Wrestle With Their Shadows | Aj | [Read More](https://medium.com/p/45999fec5cfd) |
+| Sun, 13 Jul 2025 08:35:40 GMT | Subdomain Takeover on mailgun[.]org | aimaster | [Read More](https://medium.com/p/7d52ee2165e0) |
+| Sun, 13 Jul 2025 08:25:04 GMT | Google Triaged My Clickjacking Report on Blogger.com — Full Disclosure + PoC | Viratavi | [Read More](https://medium.com/p/b0fcebf001f0) |
 | Sun, 13 Jul 2025 08:19:39 GMT | Nmap Live Host Discovery Report | Ayush Tiwari | [Read More](https://medium.com/p/39d091325980) |
 | Sun, 13 Jul 2025 08:05:46 GMT | Reliable Wi-Fi Support Services Across the US for Seamless Connectivity | itsupport.net.in | [Read More](https://medium.com/p/7d1f4ffb4644) |
 | Sun, 13 Jul 2025 08:05:31 GMT | How to Become a Penetration Tester in 2025? | cyber security Updates | [Read More](https://medium.com/p/c9f7e3415178) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 22:13:57 GMT | EvilGPTv2 Walk-through | Cyber-Eddy | [Read More](https://medium.com/p/f2740cc34db6) |
 | Sat, 12 Jul 2025 22:12:33 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 5: Leadership (2/7) | Aaron Rusz | [Read More](https://medium.com/p/f6a10f1db27c) |
 | Sat, 12 Jul 2025 22:09:33 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 4: Context of the organization… | Aaron Rusz | [Read More](https://medium.com/p/191c44bedd99) |
-| Sat, 12 Jul 2025 22:06:55 GMT | How to Use a VPN for Beginners: A Simple Guide to Get Started | Timonéofearth | [Read More](https://medium.com/p/4dc7e1b53f6c) |
-| Sat, 12 Jul 2025 22:05:25 GMT | Introducing Nova AI: The Context Layer for Autonomous Intelligence | Build with NOVA | [Read More](https://medium.com/p/9861e70e15e1) |
-| Sat, 12 Jul 2025 21:40:57 GMT | Becoming Virtually Untraceable — #7–25_0PPR355!V3_4U7H0R174R!4N1SM.log | Ian Barwise | [Read More](https://medium.com/p/88ccf7d0558f) |
-| Sat, 12 Jul 2025 21:37:51 GMT | #  My First CTF — Web Challenge Writeup (NahamCon 2025) | brono theo | [Read More](https://medium.com/p/89d5f8c5e4e2) |
