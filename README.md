@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 21:15:37 GMT | How I Discovered an Open Redirect Using X-Forwarded-Host – A Bug Bounty Story with Real-World… | Levi Ackerman | [Read More](https://medium.com/p/792d66eaffff) |
+| Sun, 13 Jul 2025 21:09:18 GMT | Stop Secret Leaks Before They Happen: Mastering Gitleaks for DevSecOps Pipelines | Giovanny Orjuela | [Read More](https://medium.com/p/633d0f975162) |
+| Sun, 13 Jul 2025 21:07:22 GMT | Basic Pentesting — TryHackMe Walkthrough | esistdini | [Read More](https://medium.com/p/bbfd8fac5da8) |
+| Sun, 13 Jul 2025 21:03:40 GMT | أفضل شركات تسويق في السعودية: دليلك الشامل لنمو أعمالك | katibatech | [Read More](https://medium.com/p/c7bb32c86736) |
+| Sun, 13 Jul 2025 20:54:56 GMT | API Security: Risks and OWASP’s Current Approach | Batuhan Görgel | [Read More](https://medium.com/p/cddbb162ae80) |
+| Sun, 13 Jul 2025 20:50:41 GMT | Network Miner - THM | Isiah | [Read More](https://medium.com/p/444d94e414b0) |
+| Sun, 13 Jul 2025 20:48:49 GMT | ‘Contacts First’ Approach to Inbox Security, Using an AI Sandbox for Spam | Andre Batchelder | [Read More](https://medium.com/p/3b5719b9c7b7) |
+| Sun, 13 Jul 2025 20:46:05 GMT | OSINT (Opern Source Intelligence) | Bedirhan Yigit | [Read More](https://medium.com/p/cf4d615b5cf0) |
+| Sun, 13 Jul 2025 20:45:25 GMT | Docker: Build & Ship IT faster | Ghizlane HAMDAN | [Read More](https://medium.com/p/6fa291fdf739) |
+| Sun, 13 Jul 2025 20:43:54 GMT | Creating an SOC virtual home lab. | Ricky kumar | [Read More](https://medium.com/p/d562b40e3cbc) |
+| Sun, 13 Jul 2025 20:43:19 GMT | Pyhton ile Hacking | Bedirhan Yigit | [Read More](https://medium.com/p/0f000d2cf819) |
+| Sun, 13 Jul 2025 20:39:56 GMT | To My Chapter One | Charlotte | [Read More](https://medium.com/p/3cc5f203a105) |
 | Sun, 13 Jul 2025 20:34:51 GMT | No, Virginia, There Are No Cyber Jobs | Dr. Daniel Ward | [Read More](https://medium.com/p/42f2d6300dec) |
 | Sun, 13 Jul 2025 20:34:31 GMT | I Tried Doing Bug Bounty For 1 Year And This Is What I Earned In 12 months | Rehansohailultimate | [Read More](https://medium.com/p/8e3fa5ce0a63) |
 | Sun, 13 Jul 2025 20:34:26 GMT | McHire Meltdown: How a Weak Password Put McDonald’s Applicant Data at Risk in July 2025 | SoumayaJoshi | [Read More](https://medium.com/p/c0ea58a80f61) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 15:17:20 GMT | Comprehending the Shared Responsibility Model in Cloud Security | Ampcus Cyber | [Read More](https://medium.com/p/b6061111ae68) |
 | Sun, 13 Jul 2025 15:17:12 GMT | Mastering Nmap Live Host Discovery — TryHackMe Walkthrough | Vikash Yadav | [Read More](https://medium.com/p/f2301946f6ce) |
 | Sun, 13 Jul 2025 15:14:23 GMT | How AI is Revolutionizing Healthcare: From Diagnosis to Drug Discovery | Payaam Raza | [Read More](https://medium.com/p/97d982744995) |
-| Sun, 13 Jul 2025 15:05:51 GMT | Improve XSS Tools with Jules AI Agent | AbhirupKonwar | [Read More](https://medium.com/p/7ec49bad36a0) |
-| Sun, 13 Jul 2025 14:58:11 GMT | The Dashboard Turned Red: What I Learned About Incident Response After 50+ Breaches | Zahir black | [Read More](https://medium.com/p/6f40bbc2202c) |
-| Sun, 13 Jul 2025 14:57:08 GMT | Growth Over Wholeness | puppiesmemory | [Read More](https://medium.com/p/c406029fd1f7) |
-| Sun, 13 Jul 2025 14:57:07 GMT | ️‍♂️ VPN, Proxy, and Tor: The Ultimate Guide to Online Anonymity | Rajkumar Kumawat | [Read More](https://medium.com/p/5a1d611ddd28) |
-| Sun, 13 Jul 2025 14:56:48 GMT | LAB 20: C++ ANALYSIS | Mustapha Ait Ichou | [Read More](https://medium.com/p/36fc41e847b1) |
-| Sun, 13 Jul 2025 14:53:00 GMT | Talking with your child about outbursts and games | Savvy Cyber Kids | [Read More](https://medium.com/p/721b66b37816) |
-| Sun, 13 Jul 2025 14:52:42 GMT | AI Scams on the Rise | Savvy Cyber Kids | [Read More](https://medium.com/p/c37d8568936e) |
-| Sun, 13 Jul 2025 14:52:18 GMT | Children, the Internet, and Screen TIme | Savvy Cyber Kids | [Read More](https://medium.com/p/39bc01a41675) |
-| Sun, 13 Jul 2025 14:51:02 GMT | SecOps in Action: Meet SecOps Joe | TheMachine | [Read More](https://medium.com/p/b72543f6d65e) |
-| Sun, 13 Jul 2025 14:38:53 GMT | “Check-In, Never Check Out” | Pamela abednigo | [Read More](https://medium.com/p/beae5093f6c3) |
-| Sun, 13 Jul 2025 14:34:02 GMT | Security Implications of the Principle of Duality in Buffer Overflow Exploits | Allen Ace | [Read More](https://medium.com/p/ebb854b2c3a5) |
-| Sun, 13 Jul 2025 14:21:54 GMT | #10–4 “빠르게 배우고, 빠르게 활용하라” — ESG 세미나 종합 & 회고 | RowLog : 뱃사공의 로그북 | [Read More](https://medium.com/p/eca76a3362cb) |
