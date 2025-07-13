@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 14:11:46 GMT | PortSwigger Lab: Blind SQL injection with conditional errors writeup (SQL injection) | awes0meness | [Read More](https://medium.com/p/e6d04099cfec) |
+| Sun, 13 Jul 2025 14:05:28 GMT | When Agentic AI Thinks for Itself : Who Guards the Data? | Roshini Fernando | [Read More](https://medium.com/p/919ba9c74aff) |
+| Sun, 13 Jul 2025 14:00:36 GMT | PortSwigger Lab: Blind SQL injection with conditional responses writeup (SQL injection) | awes0meness | [Read More](https://medium.com/p/61b543e768e6) |
+| Sun, 13 Jul 2025 13:52:57 GMT | Nmap 101: Scanning My First Target | Goose Gustin | [Read More](https://medium.com/p/91cb5e3c808c) |
+| Sun, 13 Jul 2025 13:52:24 GMT | What are Firewalls- The first line of Defence. | err0rgod | [Read More](https://medium.com/p/969099d5dfa6) |
+| Sun, 13 Jul 2025 13:46:18 GMT | Hijacking the DOM: How Innocent HTML Can Lead to Full Account Takeovers | Monika sharma | [Read More](https://medium.com/p/d990a27162a4) |
+| Sun, 13 Jul 2025 13:44:33 GMT | PortSwigger Lab: SQL injection attack, listing the database contents on non-Oracle databases… | awes0meness | [Read More](https://medium.com/p/cf1e60bac177) |
+| Sun, 13 Jul 2025 13:35:01 GMT | $$ Unlocking Hidden Vulnerabilities: Uncovering Business Logic Flaws in Modern Web Apps | Aman Sharma | [Read More](https://medium.com/p/dc5bf1be1e2d) |
 | Sun, 13 Jul 2025 13:29:41 GMT | Write — Up NCSA CTF Cyber Bootcamp 2025 | O - Opsifiz | [Read More](https://medium.com/p/4622cd510d08) |
 | Sun, 13 Jul 2025 13:28:32 GMT | TryHackMe Advent Of Cyber 2 (Part 1) [Day 1 to Day 8] | Khyati Shivakumar | [Read More](https://medium.com/p/5c64ce6c2d8b) |
 | Sun, 13 Jul 2025 13:23:41 GMT | The rise of quite quitting 5.0 on social media | S Anuradha | [Read More](https://medium.com/p/76965b2a8b75) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 07:01:21 GMT | Who’s Afraid of the Big Bad Passkey? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/f4cb7070a3f9) |
 | Sun, 13 Jul 2025 06:57:19 GMT | PortSwigger Lab — NoSQL Injection | k1dd0sz | [Read More](https://medium.com/p/2d2ab6b103f2) |
 | Sun, 13 Jul 2025 06:53:52 GMT | Want to bolster your CI/CD pipeline Security? | Nazeer | [Read More](https://medium.com/p/b0d9aac40733) |
-| Sun, 13 Jul 2025 06:52:59 GMT | Best Ethical Hacking Training in Noida - Ducat India | Setusaxena | [Read More](https://medium.com/p/5477a7d57367) |
-| Sun, 13 Jul 2025 06:52:23 GMT | Best Ethical Hacking Training in Noida - Ducat India | Shahrezahmed | [Read More](https://medium.com/p/83139e2ee6a3) |
-| Sun, 13 Jul 2025 06:52:19 GMT | Best Ethical Hacking Training in Noida - Ducat India | 11am Digital marketing | [Read More](https://medium.com/p/6a783a79dac2) |
-| Sun, 13 Jul 2025 06:52:19 GMT | Best Ethical Hacking Training in Noida - Ducat India | Abrar Khan | [Read More](https://medium.com/p/c3817f077ffb) |
-| Sun, 13 Jul 2025 06:52:19 GMT | Best Ethical Hacking Training in Noida - Ducat India | seema mehta | [Read More](https://medium.com/p/1f10fd612056) |
-| Sun, 13 Jul 2025 06:48:46 GMT | Scraping Forums Ethically with Python: A Walkthrough of LFCCro Forum Scraper | David Kljajo | [Read More](https://medium.com/p/bff9759470eb) |
-| Sun, 13 Jul 2025 06:31:47 GMT | Bug Report: Email Rate Limit Bypass via Capitalization Variation | Raghav Arora | [Read More](https://medium.com/p/cd5deffc60cb) |
-| Sun, 13 Jul 2025 06:31:45 GMT | How ICMP Works: From Diagnosis to Exploitation | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/34b61fbfe713) |
