@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 10:17:43 GMT | Penetration Testing for Android Apps in Pakistan | Muhammad Inam Abbasi | [Read More](https://medium.com/p/bc9e0ef9acd5) |
+| Sun, 13 Jul 2025 10:17:38 GMT | Race Conditions in the Real World: How I Won the App’s Logic War | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6fd34b48d4c3) |
+| Sun, 13 Jul 2025 10:08:50 GMT | Prologue - 내부자 위협: 가장 가까운 곳에서 시작되는 침입 by. 위즈노트AI | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/8e25138a02da) |
+| Sun, 13 Jul 2025 09:55:06 GMT | Why BiyaPay Is Setting the Gold Standard for Security in Fintech | SnazzyBits | [Read More](https://medium.com/p/d68f7a90ec8a) |
+| Sun, 13 Jul 2025 09:51:15 GMT | Watcher Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/f05e808f684c) |
+| Sun, 13 Jul 2025 09:49:51 GMT | Proving You Can Do Both: Abu Saim Wahid’s Journey from IT to Inspiration | Modern News | [Read More](https://medium.com/p/1bac82b48884) |
+| Sun, 13 Jul 2025 09:48:15 GMT | Der ultimative DORA-Compliance-Software-Leitfaden: Strategische Roadmap für operative Resilienz in… | Philip Hansen | [Read More](https://medium.com/p/17084ce7d47e) |
+| Sun, 13 Jul 2025 09:48:12 GMT | DORA-Compliance: Der ultimative Leitfaden für Finanzinstitute 2025 | Philip Hansen | [Read More](https://medium.com/p/c6eef1fc5e99) |
+| Sun, 13 Jul 2025 09:48:08 GMT | Your Instagram ‘Password Reset’ Email Might Be a Trap | Aj | [Read More](https://medium.com/p/0b8dcfc6bc70) |
 | Sun, 13 Jul 2025 09:34:16 GMT | The Kaseya REvil Ransomware Attack — A $70 Million Demand That Shook the Global MSP Ecosystem | David SEHYEON Baek | [Read More](https://medium.com/p/b1068d88442d) |
 | Sun, 13 Jul 2025 09:34:06 GMT | No, We Don’t Store Your Password. A Simple Guide to Hashing and Salting. | Jayateerth Dambal | [Read More](https://medium.com/p/052e8c0558ed) |
 | Sun, 13 Jul 2025 09:32:40 GMT | Malicious AI Chatbots on Mobile Apps: A Rising Cyber Threat — Kanchustambam Veerababu | KLEAP Institute of Information Security | [Read More](https://medium.com/p/7d242a066ff2) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 02:19:25 GMT | In the Eye of the Storm with Hisham Khasawinah | Hisham Khasawinah | [Read More](https://medium.com/p/e30ca74f5a34) |
 | Sun, 13 Jul 2025 02:14:14 GMT | Business Logic Vulnerabilities part-2 : High-level logic vulnerability | Ahmad Sopyan | [Read More](https://medium.com/p/e742f22b0ee1) |
 | Sun, 13 Jul 2025 02:13:59 GMT | Methodology Bug Bounty — N4 Security Flow | nairawr | [Read More](https://medium.com/p/d1f8e4d100e0) |
-| Sun, 13 Jul 2025 02:07:01 GMT | From Logic to Launch — How I Architect Web Apps That Actually Scale | Abdulfatai Sodiq Toyin | [Read More](https://medium.com/p/f75c36e73afe) |
-| Sun, 13 Jul 2025 02:03:00 GMT | Between Now and What’s Next | focaldreamerr | [Read More](https://medium.com/p/90c7cc7e7ead) |
-| Sun, 13 Jul 2025 01:52:55 GMT | The Hidden Power of Python: Automating the Boring Stuff that Scales My Productivity | Babar saad | [Read More](https://medium.com/p/08b74e1877ba) |
-| Sun, 13 Jul 2025 01:49:39 GMT | ️‍♂️ Cracking Cloud Champions Challenge 01: AWS Metadata Abuse and Pre-Signed URL Exfiltration | Georgi_V | [Read More](https://medium.com/p/cde2a8c63b77) |
-| Sun, 13 Jul 2025 01:46:28 GMT | MP Materials Corp: America’s Next Billion-Dollar Strategic Monopoly | Derek Miller | [Read More](https://medium.com/p/f2e26d20eb9b) |
-| Sun, 13 Jul 2025 01:28:54 GMT | Data extensions- why is it powerful? | Jess | [Read More](https://medium.com/p/24f99649f26a) |
-| Sun, 13 Jul 2025 01:15:57 GMT | 3 Home Network Hacks Every Parent and Teen Should Know | Ed Yende | [Read More](https://medium.com/p/f03b6d2cdb06) |
-| Sun, 13 Jul 2025 01:12:22 GMT | Privacy vs. Preparedness: A Deep Dive Into Utah’s Data Law and the CIRCIA Cyber Mandate | Nikitha Srinivasan | [Read More](https://medium.com/p/0be915091175) |
-| Sun, 13 Jul 2025 00:53:24 GMT | Perbedaan Red Teaming dan Penetration Testing | Muhammad Idham Cholid | [Read More](https://medium.com/p/eeb26fda3b69) |
