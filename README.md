@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 18:11:09 GMT | The MFA You Trust Is Lying to You and Here’s How Attackers Exploit It | cybrNK | [Read More](https://medium.com/p/ed36d8e27df9) |
+| Sun, 13 Jul 2025 18:08:50 GMT | When Industrial IoT Devices Are Left Open: My Cybersecurity Research on Red Lion G3 Web Server… | hacker_might | [Read More](https://medium.com/p/a910d242d6b0) |
+| Sun, 13 Jul 2025 18:08:17 GMT | Think You’re Safe Online? 10 Signs You’ve Already Been Hacked | Rosalia Quinn | [Read More](https://medium.com/p/3ab75d4bd8a0) |
+| Sun, 13 Jul 2025 17:56:41 GMT | EDR + SOAR Project: Automating Threat Detection and Response | sczxw | [Read More](https://medium.com/p/52589522b654) |
+| Sun, 13 Jul 2025 17:52:34 GMT | Why Every Developer Should Learn Basic Cybersecurity and Finance in 2025 | pganeshkrishnareddy | [Read More](https://medium.com/p/5cedecf1cd88) |
+| Sun, 13 Jul 2025 17:49:42 GMT | Brutus HackTheBox SherlockWriteup | Krishna | [Read More](https://medium.com/p/292e2d6b4d36) |
+| Sun, 13 Jul 2025 17:43:54 GMT | How to Secure an Application in Power BI | A.I Hub | [Read More](https://medium.com/p/d5a90da6eab6) |
 | Sun, 13 Jul 2025 17:41:27 GMT | Navigating the Complex Terrain of Cisco ISE Vulnerabilities: Lessons from the Trenches | Dr. Geethamanikanta Jakka | [Read More](https://medium.com/p/9e073428d25c) |
+| Sun, 13 Jul 2025 17:39:07 GMT | Nmap Live Host Discovery!!! | santosh gadekar | [Read More](https://medium.com/p/1a6e334fb86d) |
 | Sun, 13 Jul 2025 17:38:04 GMT | 3 Main Reasons Why Android Switched to 16KB Pages: A Beginner-Friendly Guide to Memory Pages | Roycohen | [Read More](https://medium.com/p/dc33a6a9a611) |
+| Sun, 13 Jul 2025 17:35:20 GMT | DAY 4: Lazy But an Eventful Day | Akshatdwivedi | [Read More](https://medium.com/p/3526abb4d5e1) |
 | Sun, 13 Jul 2025 17:33:26 GMT | Web Sockets | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/7cf130a8fd9e) |
 | Sun, 13 Jul 2025 17:28:35 GMT | Properly Secure Tenable Nessus Vulnerability Scanning: How to scan Linux Machines with a dedicated… | Truvis Thornton | [Read More](https://medium.com/p/4262b7541227) |
 | Sun, 13 Jul 2025 17:26:28 GMT | How to Create a Strong Password That Actually Protects You | Subham Behera | [Read More](https://medium.com/p/0ff3349e788c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 12:00:03 GMT | XBOW Ai: The Future of Cybersecurity. | 1nf1n1ty | [Read More](https://medium.com/p/d2ff54e6cda7) |
 | Sun, 13 Jul 2025 11:49:34 GMT | Unlocking the Future of Privacy: How Zama’s Fully Homomorphic Encryption (FHE) Is Revolutionizing… | Denis Tatarinov | [Read More](https://medium.com/p/9ba4f8e25957) |
 | Sun, 13 Jul 2025 11:48:19 GMT | AI Gone Rogue: Real-World Mayhem and Marvels | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/e8b7e7ab4fbe) |
-| Sun, 13 Jul 2025 11:26:14 GMT | A Practical Look at How Threat Actors Exploit Office 365 and Entra users | Liam Wood | [Read More](https://medium.com/p/e34980066a1a) |
-| Sun, 13 Jul 2025 11:22:36 GMT | ELK Stack + osTicket: a Lightweight SOC Monitoring Setup | sczxw | [Read More](https://medium.com/p/11c99b5a0a60) |
-| Sun, 13 Jul 2025 11:21:14 GMT | ️ Web3 Security Weekly — July 7–13, 2025 | Null Return | [Read More](https://medium.com/p/7780a067eb7a) |
-| Sun, 13 Jul 2025 11:19:03 GMT | Exploring “time” as a critical dimension in the post-quantum era — Part 01 | Dr. Sougata Pal | [Read More](https://medium.com/p/1be0e3a1db6f) |
-| Sun, 13 Jul 2025 11:03:02 GMT | Erit Securus I tryhackme Walkthrough | Kelvin TC Law | [Read More](https://medium.com/p/88b4d81d2b46) |
-| Sun, 13 Jul 2025 10:56:43 GMT | Part4: Data Link Layer Explained: A Deep Dive Into Protocols, Error Control, and MAC | White Panther | [Read More](https://medium.com/p/653365eea6b7) |
-| Sun, 13 Jul 2025 10:56:41 GMT | Staying Safe on Dating Sites: Why Caution is Essential | Hulkshe | [Read More](https://medium.com/p/85df897586c0) |
-| Sun, 13 Jul 2025 10:48:46 GMT | Zama and Fully Homomorphic Encryption: Revolutionizing Data Privacy and Blockchain | cr1ptomax | [Read More](https://medium.com/p/455401b68639) |
-| Sun, 13 Jul 2025 10:47:49 GMT | picoCTF — Unminify | Robby firdauzy | [Read More](https://medium.com/p/09a8675453a8) |
