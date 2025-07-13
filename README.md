@@ -12,10 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 05:18:08 GMT | SOCFortres5: Nippon Steel Targeted in Sophisticated Zero-Day Cyberattack, Data Breach Confirmed | Darshan | [Read More](https://medium.com/p/2d7a8dcbcbb8) |
+| Sun, 13 Jul 2025 04:59:06 GMT | WebSockets: The Overlooked Attack Surface | Jothe Eswar | [Read More](https://medium.com/p/73d651e70caf) |
+| Sun, 13 Jul 2025 04:48:59 GMT | Fullstack Development with Serverless Functions: The Future of Scalable Web Applications | Fiza Muneer | [Read More](https://medium.com/p/8288f91809f9) |
+| Sun, 13 Jul 2025 04:35:22 GMT | I’d kill to rewrite that paragraph | Asmar Baig | [Read More](https://medium.com/p/71b153e146c6) |
 | Sun, 13 Jul 2025 04:17:45 GMT | How To Instantly Claim $DORK | $DORK (DORK) | [Read More](https://medium.com/p/12de6d36009a) |
 | Sun, 13 Jul 2025 04:06:37 GMT | Docker and Docker-in-Docker (DinD): A Comprehensive Guide for Developers | Rajveer Singh Rathore | [Read More](https://medium.com/p/c9ddbc1e29d4) |
 | Sun, 13 Jul 2025 04:02:26 GMT | Building a Cybersecurity Nerve Center for the Modern Age, Next-Gen SIEM | David SEHYEON Baek | [Read More](https://medium.com/p/6fecb42f1cb7) |
 | Sun, 13 Jul 2025 03:58:43 GMT | Volt Typhoon, China’s Stealth Cyber Actor, Targeting Critical U.S. Infrastructure | David SEHYEON Baek | [Read More](https://medium.com/p/7960bb385211) |
+| Sun, 13 Jul 2025 03:55:35 GMT | Why I Care Too Deeply — And Show It All | Sachin Jain | [Read More](https://medium.com/p/2e7b9ca6c509) |
 | Sun, 13 Jul 2025 03:53:38 GMT | Lead With Purpose and Trust | Donny Kurniawan | [Read More](https://medium.com/p/d9a4ad3f9588) |
 | Sun, 13 Jul 2025 03:53:20 GMT | Bureau 39: North Korea’s Secretive Financial Operation | David SEHYEON Baek | [Read More](https://medium.com/p/dee2461aa0df) |
 | Sun, 13 Jul 2025 03:48:23 GMT | How BPFDoor Became a Strategic Threat to Critical Infrastructure | David SEHYEON Baek | [Read More](https://medium.com/p/3da0a38a475e) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 17:12:55 GMT | DAY 12 — Linux CTF Challenge #4 | Jinay | [Read More](https://medium.com/p/b415fbba032d) |
 | Sat, 12 Jul 2025 17:08:51 GMT | Collect Exclusive RECON Through Recon Solana's Reward Burst | $RECON (Recon Solana) | [Read More](https://medium.com/p/4679ffa3b47e) |
 | Sat, 12 Jul 2025 17:07:03 GMT | TryHackMe: Vulnerability Capstone | Babatunde Ojo | [Read More](https://medium.com/p/f504b75ae8ba) |
-| Sat, 12 Jul 2025 17:04:48 GMT | Seccomp in Docker | Reza Owliaei | [Read More](https://medium.com/p/128c413409a9) |
-| Sat, 12 Jul 2025 17:01:17 GMT | Android Trojan Dropper Analysis — RTO_Challan_1500.apk Case Study | Krishnakanth seetharaman | [Read More](https://medium.com/p/a00e7fe82293) |
-| Sat, 12 Jul 2025 16:56:32 GMT | The $10.5 Trillion Threat: Navigating the 5 Shifts of the 2025 Cybersecurity Paradigm | Akhil Binu | [Read More](https://medium.com/p/2bf13ce01909) |
-| Sat, 12 Jul 2025 16:55:52 GMT | Building AI-Powered Enterprise Systems: A Developer’s Journey from Chaos to Clarity | Udaya Veeramreddygari | [Read More](https://medium.com/p/672b0e20aa6a) |
-| Sat, 12 Jul 2025 16:52:32 GMT | MSSQL Security: Complete Guide for Enterprise Database Systems | Okan Yıldız | [Read More](https://medium.com/p/c99863db612e) |
