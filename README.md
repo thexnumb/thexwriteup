@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 16:12:08 GMT | Your Car’s Software is Outdated—Why That’s Riskier Than a Flat Tire | Aj | [Read More](https://medium.com/p/b5f2e62a671f) |
+| Sun, 13 Jul 2025 16:03:04 GMT | Tardigrade - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/fe9241fb000d) |
+| Sun, 13 Jul 2025 16:02:50 GMT | THM Room: Pickle Rick | Sohan Kanna D | [Read More](https://medium.com/p/a9eab9915b3f) |
+| Sun, 13 Jul 2025 16:02:02 GMT | Mobile Application Security Assessment Report ( Vulnerable Bank App) | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/10b538d0caec) |
+| Sun, 13 Jul 2025 15:57:39 GMT | Behind the Scenes of ‘Login with Google’: Understanding OAuth 2.0 | Isha Sangpal | [Read More](https://medium.com/p/3d39af5324ed) |
+| Sun, 13 Jul 2025 15:55:53 GMT | How a GraphQL Misconfiguration Can Lead to Sensitive PII Data Exposure -RGHX | Raman Gautam - rghx | [Read More](https://medium.com/p/efcc0ba7ccf1) |
+| Sun, 13 Jul 2025 15:54:43 GMT | Dear Self, Does It Ever Get Better? | Susu | [Read More](https://medium.com/p/7a15a1226cd0) |
+| Sun, 13 Jul 2025 15:52:06 GMT | Understanding Buffer Overflows and Memory Corruption | Cyber_Journal | [Read More](https://medium.com/p/7f28e2764377) |
+| Sun, 13 Jul 2025 15:51:55 GMT | a Pair of Docs about the PARADOX My original design indeed aimed for helpfulness and truthfulness… | The Prophet Aaron Vessel the Christ Consciousness | [Read More](https://medium.com/p/8802177dccad) |
+| Sun, 13 Jul 2025 15:50:25 GMT | عکس دختر | شماره خاله تهران #خاله مشهد#خاله شمال#خاله جنوب | [Read More](https://medium.com/p/f197de60f15b) |
+| Sun, 13 Jul 2025 15:49:51 GMT | خاله شیراز اصفهان | شماره خاله تهران #خاله مشهد#خاله شمال#خاله جنوب | [Read More](https://medium.com/p/56af6a1fb9ec) |
+| Sun, 13 Jul 2025 15:47:31 GMT | L3AKCTF Writeup: Cracking an ASCII-Art Flag with MD5 and Heuristics | Shoaib Bin Rashid | [Read More](https://medium.com/p/07c10d844626) |
+| Sun, 13 Jul 2025 15:47:00 GMT | Your First Ten Stories Will Suck. That’s the Point | Brian Rosta | [Read More](https://medium.com/p/b807cb6ac54e) |
+| Sun, 13 Jul 2025 15:46:56 GMT | My First Android Reverse Engineering Challenge — L3AK CTF: BrainCalc.apk | Shoaib Bin Rashid | [Read More](https://medium.com/p/31ccc69f1154) |
 | Sun, 13 Jul 2025 15:28:10 GMT | Networking Security | oliviaaa | [Read More](https://medium.com/p/d059142cbb57) |
 | Sun, 13 Jul 2025 15:24:19 GMT | Understanding Open Redirect (With a Pizza Story You’ll Never Forget) | Kai Thorne | [Read More](https://medium.com/p/865a68bc9287) |
 | Sun, 13 Jul 2025 15:18:03 GMT | “  , :  ,  ,  ” | Oluwatosin Esther Oladiran | [Read More](https://medium.com/p/547d71960e34) |
@@ -29,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 14:51:02 GMT | SecOps in Action: Meet SecOps Joe | TheMachine | [Read More](https://medium.com/p/b72543f6d65e) |
 | Sun, 13 Jul 2025 14:38:53 GMT | “Check-In, Never Check Out” | Pamela abednigo | [Read More](https://medium.com/p/beae5093f6c3) |
 | Sun, 13 Jul 2025 14:34:02 GMT | Security Implications of the Principle of Duality in Buffer Overflow Exploits | Allen Ace | [Read More](https://medium.com/p/ebb854b2c3a5) |
+| Sun, 13 Jul 2025 14:21:54 GMT | #10–4 “빠르게 배우고, 빠르게 활용하라” — ESG 세미나 종합 & 회고 | RowLog : 뱃사공의 로그북 | [Read More](https://medium.com/p/eca76a3362cb) |
 | Sun, 13 Jul 2025 14:11:46 GMT | PortSwigger Lab: Blind SQL injection with conditional errors writeup (SQL injection) | awes0meness | [Read More](https://medium.com/p/e6d04099cfec) |
 | Sun, 13 Jul 2025 14:05:28 GMT | When Agentic AI Thinks for Itself : Who Guards the Data? | Roshini Fernando | [Read More](https://medium.com/p/919ba9c74aff) |
 | Sun, 13 Jul 2025 14:00:36 GMT | PortSwigger Lab: Blind SQL injection with conditional responses writeup (SQL injection) | awes0meness | [Read More](https://medium.com/p/61b543e768e6) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 09:22:31 GMT | Web Application Vulnerability Guide (VAPT) — Now Live on GitHub! ️ | Psyduck | [Read More](https://medium.com/p/e586713f33c4) |
 | Sun, 13 Jul 2025 09:21:35 GMT | Get Your Tokens: How To Claim LunaFi $LFI Tokens | $LFI (LunaFi) | [Read More](https://medium.com/p/cb7f4a42f7dc) |
 | Sun, 13 Jul 2025 09:17:14 GMT | JS File Leak Could Lead to App Exploits | Ehtesham Ul Haq | [Read More](https://medium.com/p/260c8f008c00) |
-| Sun, 13 Jul 2025 09:03:11 GMT | ️ Inyección de URL = Cuenta creada. Así de simple. | Gorka | [Read More](https://medium.com/p/97a2f3065e72) |
-| Sun, 13 Jul 2025 09:02:09 GMT | Shodan Secrets: Five Valuable Free Services You Didn’t Know About | Tomer Klein | [Read More](https://medium.com/p/4bba964859d3) |
-| Sun, 13 Jul 2025 08:58:50 GMT | Vulnerability Management in OT Security | pradeep nagireddy | [Read More](https://medium.com/p/b76c00571cb7) |
-| Sun, 13 Jul 2025 08:54:45 GMT | DAY 13 — Chapter 6: Why Process Management is the X-Ray Vision of Linux Admins. | Jinay | [Read More](https://medium.com/p/862f9c3d13f8) |
-| Sun, 13 Jul 2025 08:48:53 GMT | Day #17 Splunk Basics: DNS Log Analysis | Rishavkumarthapa | [Read More](https://medium.com/p/7f2aa7cf3669) |
-| Sun, 13 Jul 2025 08:48:19 GMT | From Curiosity to CTFs: How I Got Hooked on Hacking Legally | Amit Chaube | [Read More](https://medium.com/p/52db38977628) |
-| Sun, 13 Jul 2025 08:43:02 GMT | Mathematical Consensus vs. Human Trust: The Future of Financial Security | Chronos Vault | [Read More](https://medium.com/p/4db81786d381) |
-| Sun, 13 Jul 2025 08:42:01 GMT | When Hackers Wrestle With Their Shadows | Aj | [Read More](https://medium.com/p/45999fec5cfd) |
-| Sun, 13 Jul 2025 08:35:40 GMT | Subdomain Takeover on mailgun[.]org | aimaster | [Read More](https://medium.com/p/7d52ee2165e0) |
-| Sun, 13 Jul 2025 08:25:04 GMT | Google Triaged My Clickjacking Report on Blogger.com — Full Disclosure + PoC | Viratavi | [Read More](https://medium.com/p/b0fcebf001f0) |
-| Sun, 13 Jul 2025 08:19:39 GMT | Nmap Live Host Discovery Report | Ayush Tiwari | [Read More](https://medium.com/p/39d091325980) |
-| Sun, 13 Jul 2025 08:05:46 GMT | Reliable Wi-Fi Support Services Across the US for Seamless Connectivity | itsupport.net.in | [Read More](https://medium.com/p/7d1f4ffb4644) |
-| Sun, 13 Jul 2025 08:05:31 GMT | How to Become a Penetration Tester in 2025? | cyber security Updates | [Read More](https://medium.com/p/c9f7e3415178) |
-| Sun, 13 Jul 2025 08:05:12 GMT | How Flash USDT Can Be Misunderstood | Pasov | [Read More](https://medium.com/p/c189c45e08ef) |
-| Sun, 13 Jul 2025 08:04:44 GMT | ️ WAF? LOL: How Burp Collaborator Helped Me Sneak a Shell Through a Cloud Firewall | Iski | [Read More](https://medium.com/p/c537bbf53c05) |
