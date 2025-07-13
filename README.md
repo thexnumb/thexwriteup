@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 19:11:18 GMT | Double Down on Defense: Why SIEM and XDR Are Your Cybersecurity Power Duo -Max Chaffanjon | Max Chaffanjon | [Read More](https://medium.com/p/016c884ab6b4) |
+| Sun, 13 Jul 2025 19:01:46 GMT | On-premise Nessus OS Version Upgrade / Lokal Nessus İşletim Sistemi Sürüm Güncellemesi | Ziya DENİZ | [Read More](https://medium.com/p/62c0c5b3c012) |
+| Sun, 13 Jul 2025 18:57:55 GMT | This is what I understood about SSRF! | Priya | [Read More](https://medium.com/p/abd7fd9d5a60) |
+| Sun, 13 Jul 2025 18:57:24 GMT | Why I’m Learning Cybersecurity (And What I’ve Learned So Far) | Bello Al-Amin Tomiwa | [Read More](https://medium.com/p/e5053969dd99) |
+| Sun, 13 Jul 2025 18:56:06 GMT | My Credit Card was used to make £300+ in fraudulent transactions, how I recovered and secured… | Sam D. | [Read More](https://medium.com/p/8ceb37678812) |
+| Sun, 13 Jul 2025 18:54:56 GMT | API Keys for Bedrock: A Brief Security Overview | Adan | [Read More](https://medium.com/p/2133ed9a2b3f) |
 | Sun, 13 Jul 2025 18:46:56 GMT | Real-Time DNS Tunneling Detection and Mitigation ️‍♂️ | Esra Kayhan | [Read More](https://medium.com/p/6dd200198dbd) |
 | Sun, 13 Jul 2025 18:40:09 GMT | Over The Wire : NATAS | Praharsha Kumar | [Read More](https://medium.com/p/9b9b0692b211) |
 | Sun, 13 Jul 2025 18:27:34 GMT | Over The Wire : NATAS | Praharsha Kumar | [Read More](https://medium.com/p/d4026538cb55) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 13:02:59 GMT | Collective Intelligence: Realities and Hardships of Crowdsourced Threat Intel — Part 2 | Fry Rob | [Read More](https://medium.com/p/eb75c2853a31) |
 | Sun, 13 Jul 2025 13:02:08 GMT | Abusing Windows Core: The Battle Over svchost.exe | Abdellaoui Ahmed | [Read More](https://medium.com/p/53fa185f4558) |
 | Sun, 13 Jul 2025 13:01:03 GMT | CSP:- Secure Your Website Like a Pro (Without Losing Your Mind) | Sam Atmaramani | [Read More](https://medium.com/p/d9b3b3c43f2b) |
-| Sun, 13 Jul 2025 12:59:34 GMT | Cybersecurity, AI and Fintech: Top Tech Trends Shaping Summer 2025 | Credvora | [Read More](https://medium.com/p/009cb3a232f9) |
-| Sun, 13 Jul 2025 12:42:26 GMT | Almost a Month of Writing: Here’s What I’ve Learnt | Ava Hayes | [Read More](https://medium.com/p/4363d29d4685) |
-| Sun, 13 Jul 2025 12:07:51 GMT | TheHackersLabs — Sedition (Write Up) | APS88 | [Read More](https://medium.com/p/3cef0e3e5edb) |
-| Sun, 13 Jul 2025 12:06:42 GMT | Why Sysmon is a Must-Have in Your Security Toolkit | Prasidh | [Read More](https://medium.com/p/b3f497d8996b) |
-| Sun, 13 Jul 2025 12:04:49 GMT | What is IAM? - Understanding Identity and Access Management | Ketan Polawar | [Read More](https://medium.com/p/10374d3a997d) |
-| Sun, 13 Jul 2025 12:03:47 GMT | Even Duplicates Have Stories — My XSS Discovery on Experian | Orion | [Read More](https://medium.com/p/8d961fc5db97) |
