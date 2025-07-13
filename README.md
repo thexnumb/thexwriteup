@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 23:01:45 GMT | Beyond the Code: Defending Against Runtime Exploits | Sammcmullen | [Read More](https://medium.com/p/f5d5f4f255fa) |
+| Sun, 13 Jul 2025 23:01:45 GMT | LetsDefend — Linux Forensics Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/64761d8cbfb3) |
+| Sun, 13 Jul 2025 22:44:09 GMT | How I Built a Free Audit-Ready CMMC Policy Kit (Instant Download) | Steven McDaniel | [Read More](https://medium.com/p/4db9fe1c02fb) |
 | Sun, 13 Jul 2025 22:32:57 GMT | FLAG COMMAND CHALLENGE : HACKTHEBOX | rizzziom | [Read More](https://medium.com/p/284473b6f85f) |
 | Sun, 13 Jul 2025 22:32:24 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 9: Performance evaluation (6/7) | Aaron Rusz | [Read More](https://medium.com/p/f2dc504fe65b) |
 | Sun, 13 Jul 2025 22:29:48 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 8: Operation (5/7) | Aaron Rusz | [Read More](https://medium.com/p/4307ad37cce2) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 16:27:18 GMT | Apple Built the Perfect Spy: Part 2 | D. Mikhailov | [Read More](https://medium.com/p/fcedebd75462) |
 | Sun, 13 Jul 2025 16:24:27 GMT | 7 Must-Have Tools for Building Smarter AI Agents with MCP Compatibility | Saikat Paul | [Read More](https://medium.com/p/39c8c5521e36) |
 | Sun, 13 Jul 2025 16:24:11 GMT | Top Parental Control Spy Apps for Android & iPhone | Narjis Batool | [Read More](https://medium.com/p/307dd7bec45e) |
-| Sun, 13 Jul 2025 16:21:12 GMT | Why Listing Your Business in a Tribe-Centered Directory Like United Tribes Is a Smart Move | LyannaMori | [Read More](https://medium.com/p/67c4053e8ac0) |
-| Sun, 13 Jul 2025 16:12:08 GMT | Your Car’s Software is Outdated—Why That’s Riskier Than a Flat Tire | Aj | [Read More](https://medium.com/p/b5f2e62a671f) |
-| Sun, 13 Jul 2025 16:03:04 GMT | Tardigrade - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/fe9241fb000d) |
