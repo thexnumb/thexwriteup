@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 11:26:14 GMT | A Practical Look at How Threat Actors Exploit Office 365 and Entra users | Liam Wood | [Read More](https://medium.com/p/e34980066a1a) |
+| Sun, 13 Jul 2025 11:22:36 GMT | ELK Stack + osTicket: a Lightweight SOC Monitoring Setup | sczxw | [Read More](https://medium.com/p/11c99b5a0a60) |
+| Sun, 13 Jul 2025 11:21:14 GMT | ️ Web3 Security Weekly — July 7–13, 2025 | Null Return | [Read More](https://medium.com/p/7780a067eb7a) |
+| Sun, 13 Jul 2025 11:19:03 GMT | Exploring “time” as a critical dimension in the post-quantum era — Part 01 | Dr. Sougata Pal | [Read More](https://medium.com/p/1be0e3a1db6f) |
 | Sun, 13 Jul 2025 11:03:02 GMT | Erit Securus I tryhackme Walkthrough | Kelvin TC Law | [Read More](https://medium.com/p/88b4d81d2b46) |
 | Sun, 13 Jul 2025 10:56:43 GMT | Part4: Data Link Layer Explained: A Deep Dive Into Protocols, Error Control, and MAC | White Panther | [Read More](https://medium.com/p/653365eea6b7) |
 | Sun, 13 Jul 2025 10:56:41 GMT | Staying Safe on Dating Sites: Why Caution is Essential | Hulkshe | [Read More](https://medium.com/p/85df897586c0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 04:06:37 GMT | Docker and Docker-in-Docker (DinD): A Comprehensive Guide for Developers | Rajveer Singh Rathore | [Read More](https://medium.com/p/c9ddbc1e29d4) |
 | Sun, 13 Jul 2025 04:02:26 GMT | Building a Cybersecurity Nerve Center for the Modern Age, Next-Gen SIEM | David SEHYEON Baek | [Read More](https://medium.com/p/6fecb42f1cb7) |
 | Sun, 13 Jul 2025 03:58:43 GMT | Volt Typhoon, China’s Stealth Cyber Actor, Targeting Critical U.S. Infrastructure | David SEHYEON Baek | [Read More](https://medium.com/p/7960bb385211) |
-| Sun, 13 Jul 2025 03:55:35 GMT | Why I Care Too Deeply — And Show It All | Sachin Jain | [Read More](https://medium.com/p/2e7b9ca6c509) |
-| Sun, 13 Jul 2025 03:53:38 GMT | Lead With Purpose and Trust | Donny Kurniawan | [Read More](https://medium.com/p/d9a4ad3f9588) |
-| Sun, 13 Jul 2025 03:53:20 GMT | Bureau 39: North Korea’s Secretive Financial Operation | David SEHYEON Baek | [Read More](https://medium.com/p/dee2461aa0df) |
-| Sun, 13 Jul 2025 03:48:23 GMT | How BPFDoor Became a Strategic Threat to Critical Infrastructure | David SEHYEON Baek | [Read More](https://medium.com/p/3da0a38a475e) |
