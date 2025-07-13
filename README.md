@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 09:34:16 GMT | The Kaseya REvil Ransomware Attack — A $70 Million Demand That Shook the Global MSP Ecosystem | David SEHYEON Baek | [Read More](https://medium.com/p/b1068d88442d) |
+| Sun, 13 Jul 2025 09:34:06 GMT | No, We Don’t Store Your Password. A Simple Guide to Hashing and Salting. | Jayateerth Dambal | [Read More](https://medium.com/p/052e8c0558ed) |
+| Sun, 13 Jul 2025 09:32:40 GMT | Malicious AI Chatbots on Mobile Apps: A Rising Cyber Threat — Kanchustambam Veerababu | KLEAP Institute of Information Security | [Read More](https://medium.com/p/7d242a066ff2) |
+| Sun, 13 Jul 2025 09:28:30 GMT | Nmap Live Host Discovery — TryHackMe Room Summary | TheSocialHacker | [Read More](https://medium.com/p/ae538a3cdf37) |
+| Sun, 13 Jul 2025 09:27:20 GMT | Deep Dive SIEM(SEC555):Part 4 Log Agents | Bit_Picker | [Read More](https://medium.com/p/dbad8feed250) |
+| Sun, 13 Jul 2025 09:26:39 GMT | Security and Compliance in Seven-Layer Agent Architecture: A Comprehensive Defense Strategy | Volodymyr Pavlyshyn | [Read More](https://medium.com/p/66adaa769ef9) |
+| Sun, 13 Jul 2025 09:24:17 GMT | Why Some Bugs Only Happen on Tuesdays (Time-Based Programming Mysteries) | Coders Stop | [Read More](https://medium.com/p/ec721f080c01) |
 | Sun, 13 Jul 2025 09:23:25 GMT | Check for Subdomain Takeover in Symfony: Step-by-Step Guide | Pentest_Testing_Corp | [Read More](https://medium.com/p/f7a182c63bfa) |
+| Sun, 13 Jul 2025 09:22:31 GMT | Web Application Vulnerability Guide (VAPT) — Now Live on GitHub! ️ | Psyduck | [Read More](https://medium.com/p/e586713f33c4) |
+| Sun, 13 Jul 2025 09:21:35 GMT | Get Your Tokens: How To Claim LunaFi $LFI Tokens | $LFI (LunaFi) | [Read More](https://medium.com/p/cb7f4a42f7dc) |
 | Sun, 13 Jul 2025 09:17:14 GMT | JS File Leak Could Lead to App Exploits | Ehtesham Ul Haq | [Read More](https://medium.com/p/260c8f008c00) |
 | Sun, 13 Jul 2025 09:03:11 GMT | ️ Inyección de URL = Cuenta creada. Así de simple. | Gorka | [Read More](https://medium.com/p/97a2f3065e72) |
 | Sun, 13 Jul 2025 09:02:09 GMT | Shodan Secrets: Five Valuable Free Services You Didn’t Know About | Tomer Klein | [Read More](https://medium.com/p/4bba964859d3) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 01:15:57 GMT | 3 Home Network Hacks Every Parent and Teen Should Know | Ed Yende | [Read More](https://medium.com/p/f03b6d2cdb06) |
 | Sun, 13 Jul 2025 01:12:22 GMT | Privacy vs. Preparedness: A Deep Dive Into Utah’s Data Law and the CIRCIA Cyber Mandate | Nikitha Srinivasan | [Read More](https://medium.com/p/0be915091175) |
 | Sun, 13 Jul 2025 00:53:24 GMT | Perbedaan Red Teaming dan Penetration Testing | Muhammad Idham Cholid | [Read More](https://medium.com/p/eeb26fda3b69) |
-| Sun, 13 Jul 2025 00:43:27 GMT | Perbedaan Penggunaan Tools Manual vs Automation dalam Bug Bounty | Muhammad Idham Cholid | [Read More](https://medium.com/p/884d2c638ab4) |
-| Sun, 13 Jul 2025 00:27:13 GMT | Metodologi Bug Bounty untuk Ethical Hacker Pemula | Muhammad Idham Cholid | [Read More](https://medium.com/p/5c2ccf4fff57) |
-| Sun, 13 Jul 2025 00:23:22 GMT | Education, Science, and Technology
- — — Will Win World War III. — — | AdeloVant | [Read More](https://medium.com/p/08af08136eb2) |
-| Sun, 13 Jul 2025 00:20:21 GMT | From Blind XSS to RCE: When Headers Became My Terminal | Mahmoud El Manzalawy | [Read More](https://medium.com/p/d137d2c808a3) |
-| Sat, 12 Jul 2025 23:58:43 GMT | They Hacked Devs Through VS Code | Cyber-AppSec | [Read More](https://medium.com/p/ce210653e857) |
-| Sat, 12 Jul 2025 23:47:40 GMT | Evil-GPT V2 Room - TryHackMe | Dhwanit Pandya | [Read More](https://medium.com/p/7c6bde736f28) |
-| Sat, 12 Jul 2025 23:16:26 GMT | BAC (Authorization Bypass Allows Former Owner to Add Teachers After Role Downgrade) | HBlack Ghost | [Read More](https://medium.com/p/d346fc051fca) |
-| Sat, 12 Jul 2025 23:15:45 GMT | GetPDF Lab — CyberDefenders | Gligits.ini | [Read More](https://medium.com/p/d19cbda2e653) |
-| Sat, 12 Jul 2025 23:09:37 GMT | PerfektBlue: Critical Bluetooth Flaws Put Millions of Vehicles at Risk | Trevor Kutto Hacks | [Read More](https://medium.com/p/2b76ad600f3d) |
