@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 15:28:10 GMT | Networking Security | oliviaaa | [Read More](https://medium.com/p/d059142cbb57) |
+| Sun, 13 Jul 2025 15:24:19 GMT | Understanding Open Redirect (With a Pizza Story You’ll Never Forget) | Kai Thorne | [Read More](https://medium.com/p/865a68bc9287) |
+| Sun, 13 Jul 2025 15:18:03 GMT | “  , :  ,  ,  ” | Oluwatosin Esther Oladiran | [Read More](https://medium.com/p/547d71960e34) |
+| Sun, 13 Jul 2025 15:17:20 GMT | Comprehending the Shared Responsibility Model in Cloud Security | Ampcus Cyber | [Read More](https://medium.com/p/b6061111ae68) |
+| Sun, 13 Jul 2025 15:17:12 GMT | Mastering Nmap Live Host Discovery — TryHackMe Walkthrough | Vikash Yadav | [Read More](https://medium.com/p/f2301946f6ce) |
 | Sun, 13 Jul 2025 15:14:23 GMT | How AI is Revolutionizing Healthcare: From Diagnosis to Drug Discovery | Payaam Raza | [Read More](https://medium.com/p/97d982744995) |
 | Sun, 13 Jul 2025 15:05:51 GMT | Improve XSS Tools with Jules AI Agent | AbhirupKonwar | [Read More](https://medium.com/p/7ec49bad36a0) |
 | Sun, 13 Jul 2025 14:58:11 GMT | The Dashboard Turned Red: What I Learned About Incident Response After 50+ Breaches | Zahir black | [Read More](https://medium.com/p/6f40bbc2202c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 08:05:31 GMT | How to Become a Penetration Tester in 2025? | cyber security Updates | [Read More](https://medium.com/p/c9f7e3415178) |
 | Sun, 13 Jul 2025 08:05:12 GMT | How Flash USDT Can Be Misunderstood | Pasov | [Read More](https://medium.com/p/c189c45e08ef) |
 | Sun, 13 Jul 2025 08:04:44 GMT | ️ WAF? LOL: How Burp Collaborator Helped Me Sneak a Shell Through a Cloud Firewall | Iski | [Read More](https://medium.com/p/c537bbf53c05) |
-| Sun, 13 Jul 2025 08:00:44 GMT | Bug Bounty Methodology: My Step-by-Step Approach to Finding Vulnerabilities | Hades | [Read More](https://medium.com/p/bc8583f0f011) |
-| Sun, 13 Jul 2025 07:58:47 GMT | HTB Dog Walkthrough | Gokul Karthik | [Read More](https://medium.com/p/2d840513f463) |
-| Sun, 13 Jul 2025 07:55:48 GMT | How to Get Cloud Security Experience Without a Job — 2025 Edition | Taimur Ijlal | [Read More](https://medium.com/p/6a645500ee45) |
-| Sun, 13 Jul 2025 07:49:50 GMT | AI and Privacy: Top Mistakes Users Make While Chatting | Observance Solutions | [Read More](https://medium.com/p/3153596cfa16) |
-| Sun, 13 Jul 2025 07:47:19 GMT | Inside the AWS Trust Center | Saikat Paul | [Read More](https://medium.com/p/73a7884c2370) |
