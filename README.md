@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 15:14:23 GMT | How AI is Revolutionizing Healthcare: From Diagnosis to Drug Discovery | Payaam Raza | [Read More](https://medium.com/p/97d982744995) |
+| Sun, 13 Jul 2025 15:05:51 GMT | Improve XSS Tools with Jules AI Agent | AbhirupKonwar | [Read More](https://medium.com/p/7ec49bad36a0) |
+| Sun, 13 Jul 2025 14:58:11 GMT | The Dashboard Turned Red: What I Learned About Incident Response After 50+ Breaches | Zahir black | [Read More](https://medium.com/p/6f40bbc2202c) |
+| Sun, 13 Jul 2025 14:57:08 GMT | Growth Over Wholeness | puppiesmemory | [Read More](https://medium.com/p/c406029fd1f7) |
+| Sun, 13 Jul 2025 14:57:07 GMT | ️‍♂️ VPN, Proxy, and Tor: The Ultimate Guide to Online Anonymity | Rajkumar Kumawat | [Read More](https://medium.com/p/5a1d611ddd28) |
+| Sun, 13 Jul 2025 14:56:48 GMT | LAB 20: C++ ANALYSIS | Mustapha Ait Ichou | [Read More](https://medium.com/p/36fc41e847b1) |
+| Sun, 13 Jul 2025 14:53:00 GMT | Talking with your child about outbursts and games | Savvy Cyber Kids | [Read More](https://medium.com/p/721b66b37816) |
+| Sun, 13 Jul 2025 14:52:42 GMT | AI Scams on the Rise | Savvy Cyber Kids | [Read More](https://medium.com/p/c37d8568936e) |
+| Sun, 13 Jul 2025 14:52:18 GMT | Children, the Internet, and Screen TIme | Savvy Cyber Kids | [Read More](https://medium.com/p/39bc01a41675) |
+| Sun, 13 Jul 2025 14:51:02 GMT | SecOps in Action: Meet SecOps Joe | TheMachine | [Read More](https://medium.com/p/b72543f6d65e) |
+| Sun, 13 Jul 2025 14:38:53 GMT | “Check-In, Never Check Out” | Pamela abednigo | [Read More](https://medium.com/p/beae5093f6c3) |
 | Sun, 13 Jul 2025 14:34:02 GMT | Security Implications of the Principle of Duality in Buffer Overflow Exploits | Allen Ace | [Read More](https://medium.com/p/ebb854b2c3a5) |
 | Sun, 13 Jul 2025 14:11:46 GMT | PortSwigger Lab: Blind SQL injection with conditional errors writeup (SQL injection) | awes0meness | [Read More](https://medium.com/p/e6d04099cfec) |
 | Sun, 13 Jul 2025 14:05:28 GMT | When Agentic AI Thinks for Itself : Who Guards the Data? | Roshini Fernando | [Read More](https://medium.com/p/919ba9c74aff) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 07:55:48 GMT | How to Get Cloud Security Experience Without a Job — 2025 Edition | Taimur Ijlal | [Read More](https://medium.com/p/6a645500ee45) |
 | Sun, 13 Jul 2025 07:49:50 GMT | AI and Privacy: Top Mistakes Users Make While Chatting | Observance Solutions | [Read More](https://medium.com/p/3153596cfa16) |
 | Sun, 13 Jul 2025 07:47:19 GMT | Inside the AWS Trust Center | Saikat Paul | [Read More](https://medium.com/p/73a7884c2370) |
-| Sun, 13 Jul 2025 07:44:51 GMT | Manual vs Automation in Bug Bounty: Which One Should You Use? | Hades | [Read More](https://medium.com/p/4e665350698c) |
-| Sun, 13 Jul 2025 07:37:39 GMT | IA-CTF Writeup — A CTF by Indian Army | 0r | [Read More](https://medium.com/p/7caf00e393af) |
-| Sun, 13 Jul 2025 07:35:26 GMT | From Server Rooms to Zoom Calls: My Journey as a Customer Support Engineer | Neelesh Banchhor | [Read More](https://medium.com/p/e2563c891941) |
-| Sun, 13 Jul 2025 07:31:19 GMT | Quishing: The New Favorite Trick in the Phisher’s Playbook | Zuri | [Read More](https://medium.com/p/1add7134b8ca) |
-| Sun, 13 Jul 2025 07:27:15 GMT | Penetration Testing vs Red Teaming: What Beginners Need to Know | Hades | [Read More](https://medium.com/p/6882d8034557) |
-| Sun, 13 Jul 2025 07:16:03 GMT | Understanding Cybersecurity Threats: The 10 Most Common Attacks You Should Know | Diyajat | [Read More](https://medium.com/p/7c8e29391f08) |
-| Sun, 13 Jul 2025 07:11:46 GMT | HTB Walkthrough — Dog | Ivan Ahmos | [Read More](https://medium.com/p/293ca43536f4) |
-| Sun, 13 Jul 2025 07:06:45 GMT | How To Set Up Secure Role-Based Auth in MERN Stack Without Firebase | Shubham Chhimpa | [Read More](https://medium.com/p/073ca940a5bd) |
-| Sun, 13 Jul 2025 07:02:51 GMT | How I Got Started in Penetration Testing | Muhammad Usama | [Read More](https://medium.com/p/be1ad96b6dcf) |
-| Sun, 13 Jul 2025 07:01:21 GMT | Who’s Afraid of the Big Bad Passkey? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/f4cb7070a3f9) |
-| Sun, 13 Jul 2025 06:57:19 GMT | PortSwigger Lab — NoSQL Injection | k1dd0sz | [Read More](https://medium.com/p/2d2ab6b103f2) |
