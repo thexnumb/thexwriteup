@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 03:41:30 GMT | China’s Expanding Cyberwarfare Strategy — Global Ambitions, Espionage Networks, and the Rise of a… | David SEHYEON Baek | [Read More](https://medium.com/p/87deb4fe1239) |
+| Sun, 13 Jul 2025 03:40:00 GMT | ChainBounty Announces Launch Event: Win BOUNTY Today | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/cbd82f9fbc62) |
+| Sun, 13 Jul 2025 03:31:48 GMT | Inside the DaVita Ransomware Attack: How InterLock Breached the Heart of Healthcare | Deven Chhajed | [Read More](https://medium.com/p/e9f4722915c9) |
+| Sun, 13 Jul 2025 03:24:13 GMT | What Leaked LockBit Screenshots Reveal About Building a Criminal Empire with Startup Precision and… | David SEHYEON Baek | [Read More](https://medium.com/p/3f257ad9913e) |
+| Sun, 13 Jul 2025 03:23:50 GMT | Policy as Code with CloudFormation Guard-Walkthrough | marianita_cloud | [Read More](https://medium.com/p/07e68eebcb01) |
+| Sun, 13 Jul 2025 03:20:04 GMT | Dark Web Threat Intelligence, Cyber Espionage Detection, and AI-Powered OSINT in Aerospace &… | David SEHYEON Baek | [Read More](https://medium.com/p/7789d4c9d966) |
+| Sun, 13 Jul 2025 02:53:31 GMT | Rethinking Database Access: Zero-Trust, IAM Tokens, and Least-Privilege at Scale | ScalaBrix | [Read More](https://medium.com/p/820aee28b2d3) |
+| Sun, 13 Jul 2025 02:38:30 GMT | Day 21 — Bug Bounty Methodology untuk Pemula | Nadeakzzz | [Read More](https://medium.com/p/afe7e3bb5205) |
+| Sun, 13 Jul 2025 02:36:55 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Rudra Songaonkar | [Read More](https://medium.com/p/fac8bb173f93) |
+| Sun, 13 Jul 2025 02:26:49 GMT | مقدمة في علم التشفير (Cryptology) | Ahmed Ezzat | [Read More](https://medium.com/p/f5403594ebeb) |
+| Sun, 13 Jul 2025 02:19:25 GMT | In the Eye of the Storm with Hisham Khasawinah | Hisham Khasawinah | [Read More](https://medium.com/p/e30ca74f5a34) |
+| Sun, 13 Jul 2025 02:14:14 GMT | Business Logic Vulnerabilities part-2 : High-level logic vulnerability | Ahmad Sopyan | [Read More](https://medium.com/p/e742f22b0ee1) |
+| Sun, 13 Jul 2025 02:13:59 GMT | Methodology Bug Bounty — N4 Security Flow | nairawr | [Read More](https://medium.com/p/d1f8e4d100e0) |
+| Sun, 13 Jul 2025 02:07:01 GMT | From Logic to Launch — How I Architect Web Apps That Actually Scale | Abdulfatai Sodiq Toyin | [Read More](https://medium.com/p/f75c36e73afe) |
+| Sun, 13 Jul 2025 02:03:00 GMT | Between Now and What’s Next | focaldreamerr | [Read More](https://medium.com/p/90c7cc7e7ead) |
 | Sun, 13 Jul 2025 01:52:55 GMT | The Hidden Power of Python: Automating the Boring Stuff that Scales My Productivity | Babar saad | [Read More](https://medium.com/p/08b74e1877ba) |
 | Sun, 13 Jul 2025 01:49:39 GMT | ️‍♂️ Cracking Cloud Champions Challenge 01: AWS Metadata Abuse and Pre-Signed URL Exfiltration | Georgi_V | [Read More](https://medium.com/p/cde2a8c63b77) |
 | Sun, 13 Jul 2025 01:46:28 GMT | MP Materials Corp: America’s Next Billion-Dollar Strategic Monopoly | Derek Miller | [Read More](https://medium.com/p/f2e26d20eb9b) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 16:16:56 GMT | My Specter | BJ Dawson | [Read More](https://medium.com/p/2468a1531dbf) |
 | Sat, 12 Jul 2025 16:07:57 GMT | Beyond OWASP: Real-World Application Attacks You’re Probably Not Testing For | DefenceRabbit | [Read More](https://medium.com/p/c53f5f4272f4) |
 | Sat, 12 Jul 2025 16:02:59 GMT | How to Protect Your MCP Servers and Require Authentication for AI Assistant Activation | Javier Calderon Jr | [Read More](https://medium.com/p/b19566db361e) |
-| Sat, 12 Jul 2025 15:58:46 GMT | The Story Carries the Silence: | Masi Publications | [Read More](https://medium.com/p/21907a28520a) |
-| Sat, 12 Jul 2025 15:52:56 GMT | How Fair Is Spyware | Top Boss | [Read More](https://medium.com/p/337cfd3bea16) |
-| Sat, 12 Jul 2025 15:48:57 GMT | How SSH Works: Key Exchange, Encryption, and Secure Connections | M.Furkan SAĞLAM | [Read More](https://medium.com/p/84e91298873b) |
-| Sat, 12 Jul 2025 15:48:47 GMT | Hacking at Scale: Crush Massive Target Scopes & Supercharge Your Bug Bounty | Dheeraj Madhukar | [Read More](https://medium.com/p/dcd856d01601) |
-| Sat, 12 Jul 2025 15:47:28 GMT | GamingServer TryHackMe CTF Çözümü | Beratcamm | [Read More](https://medium.com/p/7b3c45b317d5) |
-| Sat, 12 Jul 2025 15:44:01 GMT | $ Don’t Leave Money on the Table: My Automated Hunt for $50-$500 Info Disclosure Bugs ️‍♂️ | Aman Sharma | [Read More](https://medium.com/p/e088eba923cf) |
-| Sat, 12 Jul 2025 15:43:12 GMT | Home Security System Market Size is expected to grow by USD 110.3 billion by 2034 | Vinita kumari | [Read More](https://medium.com/p/701e414f2d75) |
-| Sat, 12 Jul 2025 15:37:30 GMT | Evidence | Soul girl | [Read More](https://medium.com/p/b6e6b91f8be7) |
-| Sat, 12 Jul 2025 15:30:13 GMT | How I Secured a .NET Core API Without JWT or Cookies — The Power of Custom Authentication | Sunita Rawat | [Read More](https://medium.com/p/99a48257c852) |
-| Sat, 12 Jul 2025 15:30:08 GMT | Bangladesh and the Battlefield of Tomorrow: A Call to Arms for Cyber Defense and AI Sovereignty | Nazmus Sakib Apurba | [Read More](https://medium.com/p/6b9fcb26ca42) |
-| Sat, 12 Jul 2025 15:28:00 GMT | I Could’ve Disrupted Morocco’s Internet — But I Chose to Report It Instead | Abderrahmane Memmou | [Read More](https://medium.com/p/52a36fd9efb2) |
-| Sat, 12 Jul 2025 15:24:19 GMT | Why Recon Alone Won’t Make You a Top Bug Hunter (My 2025 Reality Check) | Harsh kothari | [Read More](https://medium.com/p/4d7843e39019) |
-| Sat, 12 Jul 2025 15:22:15 GMT | TSUTOMU SHIMOMURA IS BEST HACKER TO RECLAIM LOST FUNDS ON CRYPTO TRADE | Wisdomalfred | [Read More](https://medium.com/p/c99cb2b3c20d) |
-| Sat, 12 Jul 2025 15:21:34 GMT | ️ How I Got into IT and What I Wish I Knew Sooner | Myshawne Stallings | [Read More](https://medium.com/p/70af12763e9b) |
-| Sat, 12 Jul 2025 15:19:28 GMT | Crashing with Clues: How Improper Error Handling Leaks Secrets | Natarajan C K | [Read More](https://medium.com/p/149cb35a46b8) |
