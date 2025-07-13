@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 01:52:55 GMT | The Hidden Power of Python: Automating the Boring Stuff that Scales My Productivity | Babar saad | [Read More](https://medium.com/p/08b74e1877ba) |
+| Sun, 13 Jul 2025 01:49:39 GMT | ️‍♂️ Cracking Cloud Champions Challenge 01: AWS Metadata Abuse and Pre-Signed URL Exfiltration | Georgi_V | [Read More](https://medium.com/p/cde2a8c63b77) |
+| Sun, 13 Jul 2025 01:46:28 GMT | MP Materials Corp: America’s Next Billion-Dollar Strategic Monopoly | Derek Miller | [Read More](https://medium.com/p/f2e26d20eb9b) |
+| Sun, 13 Jul 2025 01:28:54 GMT | Data extensions- why is it powerful? | Jess | [Read More](https://medium.com/p/24f99649f26a) |
+| Sun, 13 Jul 2025 01:15:57 GMT | 3 Home Network Hacks Every Parent and Teen Should Know | Ed Yende | [Read More](https://medium.com/p/f03b6d2cdb06) |
+| Sun, 13 Jul 2025 01:12:22 GMT | Privacy vs. Preparedness: A Deep Dive Into Utah’s Data Law and the CIRCIA Cyber Mandate | Nikitha Srinivasan | [Read More](https://medium.com/p/0be915091175) |
+| Sun, 13 Jul 2025 00:53:24 GMT | Perbedaan Red Teaming dan Penetration Testing | Muhammad Idham Cholid | [Read More](https://medium.com/p/eeb26fda3b69) |
+| Sun, 13 Jul 2025 00:43:27 GMT | Perbedaan Penggunaan Tools Manual vs Automation dalam Bug Bounty | Muhammad Idham Cholid | [Read More](https://medium.com/p/884d2c638ab4) |
+| Sun, 13 Jul 2025 00:27:13 GMT | Metodologi Bug Bounty untuk Ethical Hacker Pemula | Muhammad Idham Cholid | [Read More](https://medium.com/p/5c2ccf4fff57) |
+| Sun, 13 Jul 2025 00:23:22 GMT | Education, Science, and Technology
+ — — Will Win World War III. — — | AdeloVant | [Read More](https://medium.com/p/08af08136eb2) |
+| Sun, 13 Jul 2025 00:20:21 GMT | From Blind XSS to RCE: When Headers Became My Terminal | Mahmoud El Manzalawy | [Read More](https://medium.com/p/d137d2c808a3) |
+| Sat, 12 Jul 2025 23:58:43 GMT | They Hacked Devs Through VS Code | Cyber-AppSec | [Read More](https://medium.com/p/ce210653e857) |
+| Sat, 12 Jul 2025 23:47:40 GMT | Evil-GPT V2 Room - TryHackMe | Dhwanit Pandya | [Read More](https://medium.com/p/7c6bde736f28) |
 | Sat, 12 Jul 2025 23:16:26 GMT | BAC (Authorization Bypass Allows Former Owner to Add Teachers After Role Downgrade) | HBlack Ghost | [Read More](https://medium.com/p/d346fc051fca) |
 | Sat, 12 Jul 2025 23:15:45 GMT | GetPDF Lab — CyberDefenders | Gligits.ini | [Read More](https://medium.com/p/d19cbda2e653) |
 | Sat, 12 Jul 2025 23:09:37 GMT | PerfektBlue: Critical Bluetooth Flaws Put Millions of Vehicles at Risk | Trevor Kutto Hacks | [Read More](https://medium.com/p/2b76ad600f3d) |
@@ -99,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 15:22:15 GMT | TSUTOMU SHIMOMURA IS BEST HACKER TO RECLAIM LOST FUNDS ON CRYPTO TRADE | Wisdomalfred | [Read More](https://medium.com/p/c99cb2b3c20d) |
 | Sat, 12 Jul 2025 15:21:34 GMT | ️ How I Got into IT and What I Wish I Knew Sooner | Myshawne Stallings | [Read More](https://medium.com/p/70af12763e9b) |
 | Sat, 12 Jul 2025 15:19:28 GMT | Crashing with Clues: How Improper Error Handling Leaks Secrets | Natarajan C K | [Read More](https://medium.com/p/149cb35a46b8) |
-| Sat, 12 Jul 2025 15:15:08 GMT | Networking Concepts- | Shourya Pratap Singh | [Read More](https://medium.com/p/98a8d7112d51) |
-| Sat, 12 Jul 2025 15:11:35 GMT | Rethinking Identity Beyond Passwords: A Frictionless Future | Arshiya Sultana | [Read More](https://medium.com/p/901e23bd233e) |
-| Sat, 12 Jul 2025 15:02:59 GMT | It Course in Bangalore | Abhijit Sawant | [Read More](https://medium.com/p/0aa6d4ed84fa) |
-| Sat, 12 Jul 2025 15:01:54 GMT | Silent Guardians: How air gapped systems play their part in high security environment | Tech Lift | [Read More](https://medium.com/p/eb10bb0cd5ac) |
-| Sat, 12 Jul 2025 14:53:05 GMT | CVE-2025–29927 Nedir? | bovsec | [Read More](https://medium.com/p/21f3673c2afe) |
-| Sat, 12 Jul 2025 14:52:41 GMT | CEH Introduction Part- 2 | Rushikesh G | [Read More](https://medium.com/p/608a6c6e0980) |
-| Sat, 12 Jul 2025 14:44:43 GMT | Red Teaming vs. Pentesting: Sama Tapi Tak Serupa, Apa Bedanya? | mdan | [Read More](https://medium.com/p/d85e00bdc9a8) |
-| Sat, 12 Jul 2025 14:42:40 GMT | CEH Preparation Roadmap: Theory, Practical, and Real-World Hacking Skills (Introduction-part 1) | Rushikesh G | [Read More](https://medium.com/p/c26d95893ef8) |
-| Sat, 12 Jul 2025 14:40:33 GMT | PortSwigger Lab — Server-side request forgery (SSRF) attacks | k1dd0sz | [Read More](https://medium.com/p/30289a22fff7) |
-| Sat, 12 Jul 2025 14:40:31 GMT | Just Released: My Advanced Web-Based Nmap Scanner — Open Source on GitHub! | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/79994813bf5a) |
-| Sat, 12 Jul 2025 14:40:10 GMT | Mythic Setup | Lord Murak | [Read More](https://medium.com/p/e41c66dde8ef) |
-| Sat, 12 Jul 2025 14:35:26 GMT | Shadow AI: The Silent Risk Hiding in Your Workplace — And Why Simply Banning It Won’t Work | 1Protection.AI | [Read More](https://medium.com/p/c73093981526) |
-| Sat, 12 Jul 2025 14:33:27 GMT | How I Simulated a HIPAA-Compliant IT Environment: A Cybersecurity Audit Readiness Project | Anthony Mazyck | [Read More](https://medium.com/p/81af9013348f) |
