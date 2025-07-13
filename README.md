@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 07:35:26 GMT | From Server Rooms to Zoom Calls: My Journey as a Customer Support Engineer | Neelesh Banchhor | [Read More](https://medium.com/p/e2563c891941) |
+| Sun, 13 Jul 2025 07:31:19 GMT | Quishing: The New Favorite Trick in the Phisher’s Playbook | Zuri | [Read More](https://medium.com/p/1add7134b8ca) |
+| Sun, 13 Jul 2025 07:27:15 GMT | Penetration Testing vs Red Teaming: What Beginners Need to Know | Hades | [Read More](https://medium.com/p/6882d8034557) |
+| Sun, 13 Jul 2025 07:16:03 GMT | Understanding Cybersecurity Threats: The 10 Most Common Attacks You Should Know | Diyajat | [Read More](https://medium.com/p/7c8e29391f08) |
+| Sun, 13 Jul 2025 07:11:46 GMT | HTB Walkthrough — Dog | Ivan Ahmos | [Read More](https://medium.com/p/293ca43536f4) |
 | Sun, 13 Jul 2025 07:06:45 GMT | How To Set Up Secure Role-Based Auth in MERN Stack Without Firebase | Shubham Chhimpa | [Read More](https://medium.com/p/073ca940a5bd) |
 | Sun, 13 Jul 2025 07:02:51 GMT | How I Got Started in Penetration Testing | Muhammad Usama | [Read More](https://medium.com/p/be1ad96b6dcf) |
 | Sun, 13 Jul 2025 07:01:21 GMT | Who’s Afraid of the Big Bad Passkey? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/f4cb7070a3f9) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 20:32:46 GMT | Module 1 — Assessment Methodologies: Information Gathering CTF 1 | A Missing Duck | [Read More](https://medium.com/p/54257fb5189c) |
 | Sat, 12 Jul 2025 20:32:10 GMT | Apple Built the Perfect Spy: Part 1 | D. Mikhailov | [Read More](https://medium.com/p/dd846aa5e723) |
 | Sat, 12 Jul 2025 20:29:53 GMT | TalentCoders Siber Güvenlik Kampı: 2. Hafta Deneyimim — FortiGate ile Uygulamalı Ağ Güvenliği | Talha Tarlabaz | [Read More](https://medium.com/p/a105f405ffd2) |
-| Sat, 12 Jul 2025 20:24:14 GMT | Detecting Adversarial Attacks — Tryhackme | Mukund | [Read More](https://medium.com/p/6bf3673ab134) |
-| Sat, 12 Jul 2025 20:15:28 GMT | The CCTV Trap: How Poor Security Practices Turned Cameras into Attack Vectors | Sitale Apurwa | [Read More](https://medium.com/p/0e8481cccd4a) |
-| Sat, 12 Jul 2025 20:14:54 GMT | How I Bypass 2FA through confirmation link.. | Aftab Raja | [Read More](https://medium.com/p/5bfdd773057a) |
-| Sat, 12 Jul 2025 20:08:06 GMT | CTF Day(29) | Ahmed Narmer | [Read More](https://medium.com/p/7f76f92d5fb5) |
-| Sat, 12 Jul 2025 20:05:57 GMT | The Story of NetSync.exe: Between Missed Flags and Memorable Moments | Hritesh Rai | [Read More](https://medium.com/p/09826b836983) |
