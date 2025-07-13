@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 10:33:12 GMT | TryHackMe Olympus — Walkthrough | mauzware | [Read More](https://medium.com/p/cabe072cb616) |
+| Sun, 13 Jul 2025 10:32:45 GMT | “RXSS! on Mercedes-Benz” | TSxNINJA | [Read More](https://medium.com/p/71a839da2d31) |
+| Sun, 13 Jul 2025 10:31:11 GMT | The Danger of 403 Responses: Why Security Through Status Code Doesn’t Work | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9629526dbb6c) |
+| Sun, 13 Jul 2025 10:26:28 GMT | Why Cybersecurity Matters to Me (and Why It Should Matter to You Too) | Shalini Singh | [Read More](https://medium.com/p/b9328e446df6) |
+| Sun, 13 Jul 2025 10:26:18 GMT | The Carbanak / FIN7 Bank Heist — A Billion-Dollar Cyber Attack | David SEHYEON Baek | [Read More](https://medium.com/p/4023c42df3af) |
+| Sun, 13 Jul 2025 10:25:26 GMT | Security Awareness Training is Dead: The Behavioral Security Revolution | Dhanush N | [Read More](https://medium.com/p/3a4e9b51ee79) |
+| Sun, 13 Jul 2025 10:23:28 GMT | How I Chained a Race Condition With Broken Access Control for Full Account Takeover | Narendar Battula (nArEn) | [Read More](https://medium.com/p/072877598fbc) |
+| Sun, 13 Jul 2025 10:20:02 GMT | Blackpearl VM Walkthrough | Spookz | [Read More](https://medium.com/p/bbea88535d5f) |
+| Sun, 13 Jul 2025 10:18:03 GMT | What is Cyber Security and Ethical Hacking? | Arindam Dawn | [Read More](https://medium.com/p/4f9c9f2ef21e) |
 | Sun, 13 Jul 2025 10:17:43 GMT | Penetration Testing for Android Apps in Pakistan | Muhammad Inam Abbasi | [Read More](https://medium.com/p/bc9e0ef9acd5) |
 | Sun, 13 Jul 2025 10:17:38 GMT | Race Conditions in the Real World: How I Won the App’s Logic War | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6fd34b48d4c3) |
 | Sun, 13 Jul 2025 10:08:50 GMT | Prologue - 내부자 위협: 가장 가까운 곳에서 시작되는 침입 by. 위즈노트AI | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/8e25138a02da) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 03:40:00 GMT | ChainBounty Announces Launch Event: Win BOUNTY Today | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/cbd82f9fbc62) |
 | Sun, 13 Jul 2025 03:31:48 GMT | Inside the DaVita Ransomware Attack: How InterLock Breached the Heart of Healthcare | Deven Chhajed | [Read More](https://medium.com/p/e9f4722915c9) |
 | Sun, 13 Jul 2025 03:24:13 GMT | What Leaked LockBit Screenshots Reveal About Building a Criminal Empire with Startup Precision and… | David SEHYEON Baek | [Read More](https://medium.com/p/3f257ad9913e) |
-| Sun, 13 Jul 2025 03:23:50 GMT | Policy as Code with CloudFormation Guard-Walkthrough | marianita_cloud | [Read More](https://medium.com/p/07e68eebcb01) |
-| Sun, 13 Jul 2025 03:20:04 GMT | Dark Web Threat Intelligence, Cyber Espionage Detection, and AI-Powered OSINT in Aerospace &… | David SEHYEON Baek | [Read More](https://medium.com/p/7789d4c9d966) |
-| Sun, 13 Jul 2025 02:53:31 GMT | Rethinking Database Access: Zero-Trust, IAM Tokens, and Least-Privilege at Scale | ScalaBrix | [Read More](https://medium.com/p/820aee28b2d3) |
-| Sun, 13 Jul 2025 02:38:30 GMT | Day 21 — Bug Bounty Methodology untuk Pemula | Nadeakzzz | [Read More](https://medium.com/p/afe7e3bb5205) |
-| Sun, 13 Jul 2025 02:36:55 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Rudra Songaonkar | [Read More](https://medium.com/p/fac8bb173f93) |
-| Sun, 13 Jul 2025 02:26:49 GMT | مقدمة في علم التشفير (Cryptology) | Ahmed Ezzat | [Read More](https://medium.com/p/f5403594ebeb) |
-| Sun, 13 Jul 2025 02:19:25 GMT | In the Eye of the Storm with Hisham Khasawinah | Hisham Khasawinah | [Read More](https://medium.com/p/e30ca74f5a34) |
-| Sun, 13 Jul 2025 02:14:14 GMT | Business Logic Vulnerabilities part-2 : High-level logic vulnerability | Ahmad Sopyan | [Read More](https://medium.com/p/e742f22b0ee1) |
-| Sun, 13 Jul 2025 02:13:59 GMT | Methodology Bug Bounty — N4 Security Flow | nairawr | [Read More](https://medium.com/p/d1f8e4d100e0) |
