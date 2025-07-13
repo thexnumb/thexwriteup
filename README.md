@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 17:41:27 GMT | Navigating the Complex Terrain of Cisco ISE Vulnerabilities: Lessons from the Trenches | Dr. Geethamanikanta Jakka | [Read More](https://medium.com/p/9e073428d25c) |
+| Sun, 13 Jul 2025 17:38:04 GMT | 3 Main Reasons Why Android Switched to 16KB Pages: A Beginner-Friendly Guide to Memory Pages | Roycohen | [Read More](https://medium.com/p/dc33a6a9a611) |
+| Sun, 13 Jul 2025 17:33:26 GMT | Web Sockets | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/7cf130a8fd9e) |
+| Sun, 13 Jul 2025 17:28:35 GMT | Properly Secure Tenable Nessus Vulnerability Scanning: How to scan Linux Machines with a dedicated… | Truvis Thornton | [Read More](https://medium.com/p/4262b7541227) |
+| Sun, 13 Jul 2025 17:26:28 GMT | How to Create a Strong Password That Actually Protects You | Subham Behera | [Read More](https://medium.com/p/0ff3349e788c) |
+| Sun, 13 Jul 2025 17:20:14 GMT | Hack the Human: How Adversaries Weaponize Behavior, Not Just Code | Travis Ray Caverhill | [Read More](https://medium.com/p/01cd2e02dd39) |
+| Sun, 13 Jul 2025 17:19:42 GMT | Turning an Open Redirect Into a Phishing Vector — Bug Bounty on PayPal | Gourav(spidergk) | [Read More](https://medium.com/p/c34119d47b66) |
+| Sun, 13 Jul 2025 17:19:12 GMT | Understanding HTTP For Cyber Security | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/ede95e841319) |
 | Sun, 13 Jul 2025 17:13:28 GMT | Secure Patch Testing in OT: From Firefighting to Foresight | pradeep nagireddy | [Read More](https://medium.com/p/7e0e621eb215) |
 | Sun, 13 Jul 2025 17:11:35 GMT | Ransomware and AI Intersection | Harishkumar Pillai | [Read More](https://medium.com/p/75a0e1388853) |
 | Sun, 13 Jul 2025 17:06:30 GMT | When Security Becomes the Threat: Lessons from a Siemens OT Cybersecurity Bulletin | pradeep nagireddy | [Read More](https://medium.com/p/e9b81090163e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 10:56:41 GMT | Staying Safe on Dating Sites: Why Caution is Essential | Hulkshe | [Read More](https://medium.com/p/85df897586c0) |
 | Sun, 13 Jul 2025 10:48:46 GMT | Zama and Fully Homomorphic Encryption: Revolutionizing Data Privacy and Blockchain | cr1ptomax | [Read More](https://medium.com/p/455401b68639) |
 | Sun, 13 Jul 2025 10:47:49 GMT | picoCTF — Unminify | Robby firdauzy | [Read More](https://medium.com/p/09a8675453a8) |
-| Sun, 13 Jul 2025 10:33:12 GMT | TryHackMe Olympus — Walkthrough | mauzware | [Read More](https://medium.com/p/cabe072cb616) |
-| Sun, 13 Jul 2025 10:32:45 GMT | “RXSS! on Mercedes-Benz” | TSxNINJA | [Read More](https://medium.com/p/71a839da2d31) |
-| Sun, 13 Jul 2025 10:31:11 GMT | The Danger of 403 Responses: Why Security Through Status Code Doesn’t Work | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9629526dbb6c) |
-| Sun, 13 Jul 2025 10:26:28 GMT | Why Cybersecurity Matters to Me (and Why It Should Matter to You Too) | Shalini Singh | [Read More](https://medium.com/p/b9328e446df6) |
-| Sun, 13 Jul 2025 10:26:18 GMT | The Carbanak / FIN7 Bank Heist — A Billion-Dollar Cyber Attack | David SEHYEON Baek | [Read More](https://medium.com/p/4023c42df3af) |
-| Sun, 13 Jul 2025 10:25:26 GMT | Security Awareness Training is Dead: The Behavioral Security Revolution | Dhanush N | [Read More](https://medium.com/p/3a4e9b51ee79) |
-| Sun, 13 Jul 2025 10:23:28 GMT | How I Chained a Race Condition With Broken Access Control for Full Account Takeover | Narendar Battula (nArEn) | [Read More](https://medium.com/p/072877598fbc) |
-| Sun, 13 Jul 2025 10:20:02 GMT | Blackpearl VM Walkthrough | Spookz | [Read More](https://medium.com/p/bbea88535d5f) |
