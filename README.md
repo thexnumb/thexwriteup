@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 21:27:34 GMT | HoneyPot Nedir ? | Azat Dicle | [Read More](https://medium.com/p/c15b6c12840b) |
+| Sun, 13 Jul 2025 21:23:46 GMT | Sosyal Mühendislik | Bedirhan Yigit | [Read More](https://medium.com/p/d296763dbc62) |
 | Sun, 13 Jul 2025 21:15:37 GMT | How I Discovered an Open Redirect Using X-Forwarded-Host – A Bug Bounty Story with Real-World… | Levi Ackerman | [Read More](https://medium.com/p/792d66eaffff) |
 | Sun, 13 Jul 2025 21:09:18 GMT | Stop Secret Leaks Before They Happen: Mastering Gitleaks for DevSecOps Pipelines | Giovanny Orjuela | [Read More](https://medium.com/p/633d0f975162) |
 | Sun, 13 Jul 2025 21:07:22 GMT | Basic Pentesting — TryHackMe Walkthrough | esistdini | [Read More](https://medium.com/p/bbfd8fac5da8) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 15:19:43 GMT | Willkommen im Freibad — bitte ziehen Sie Ihre Selbstachtung aus | Gordon  Stotz | [Read More](https://medium.com/p/57d4cd330bfc) |
 | Sun, 13 Jul 2025 15:18:03 GMT | “  , :  ,  ,  ” | Oluwatosin Esther Oladiran | [Read More](https://medium.com/p/547d71960e34) |
 | Sun, 13 Jul 2025 15:17:20 GMT | Comprehending the Shared Responsibility Model in Cloud Security | Ampcus Cyber | [Read More](https://medium.com/p/b6061111ae68) |
-| Sun, 13 Jul 2025 15:17:12 GMT | Mastering Nmap Live Host Discovery — TryHackMe Walkthrough | Vikash Yadav | [Read More](https://medium.com/p/f2301946f6ce) |
-| Sun, 13 Jul 2025 15:14:23 GMT | How AI is Revolutionizing Healthcare: From Diagnosis to Drug Discovery | Payaam Raza | [Read More](https://medium.com/p/97d982744995) |
