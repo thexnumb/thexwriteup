@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 09:23:25 GMT | Check for Subdomain Takeover in Symfony: Step-by-Step Guide | Pentest_Testing_Corp | [Read More](https://medium.com/p/f7a182c63bfa) |
+| Sun, 13 Jul 2025 09:17:14 GMT | JS File Leak Could Lead to App Exploits | Ehtesham Ul Haq | [Read More](https://medium.com/p/260c8f008c00) |
+| Sun, 13 Jul 2025 09:03:11 GMT | ️ Inyección de URL = Cuenta creada. Así de simple. | Gorka | [Read More](https://medium.com/p/97a2f3065e72) |
+| Sun, 13 Jul 2025 09:02:09 GMT | Shodan Secrets: Five Valuable Free Services You Didn’t Know About | Tomer Klein | [Read More](https://medium.com/p/4bba964859d3) |
+| Sun, 13 Jul 2025 08:58:50 GMT | Vulnerability Management in OT Security | pradeep nagireddy | [Read More](https://medium.com/p/b76c00571cb7) |
+| Sun, 13 Jul 2025 08:54:45 GMT | DAY 13 — Chapter 6: Why Process Management is the X-Ray Vision of Linux Admins. | Jinay | [Read More](https://medium.com/p/862f9c3d13f8) |
+| Sun, 13 Jul 2025 08:48:53 GMT | Day #17 Splunk Basics: DNS Log Analysis | Rishavkumarthapa | [Read More](https://medium.com/p/7f2aa7cf3669) |
+| Sun, 13 Jul 2025 08:48:19 GMT | From Curiosity to CTFs: How I Got Hooked on Hacking Legally | Amit Chaube | [Read More](https://medium.com/p/52db38977628) |
 | Sun, 13 Jul 2025 08:43:02 GMT | Mathematical Consensus vs. Human Trust: The Future of Financial Security | Chronos Vault | [Read More](https://medium.com/p/4db81786d381) |
 | Sun, 13 Jul 2025 08:42:01 GMT | When Hackers Wrestle With Their Shadows | Aj | [Read More](https://medium.com/p/45999fec5cfd) |
 | Sun, 13 Jul 2025 08:35:40 GMT | Subdomain Takeover on mailgun[.]org | aimaster | [Read More](https://medium.com/p/7d52ee2165e0) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 23:16:26 GMT | BAC (Authorization Bypass Allows Former Owner to Add Teachers After Role Downgrade) | HBlack Ghost | [Read More](https://medium.com/p/d346fc051fca) |
 | Sat, 12 Jul 2025 23:15:45 GMT | GetPDF Lab — CyberDefenders | Gligits.ini | [Read More](https://medium.com/p/d19cbda2e653) |
 | Sat, 12 Jul 2025 23:09:37 GMT | PerfektBlue: Critical Bluetooth Flaws Put Millions of Vehicles at Risk | Trevor Kutto Hacks | [Read More](https://medium.com/p/2b76ad600f3d) |
-| Sat, 12 Jul 2025 23:05:54 GMT | Azure Function App 403 Forbidden Error: Complete Fix Guide (2025) | Paul Volosen | [Read More](https://medium.com/p/0d3abff381c4) |
-| Sat, 12 Jul 2025 23:01:46 GMT | Pickle Rick - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/3282b30645e5) |
-| Sat, 12 Jul 2025 22:56:44 GMT | “The 9-Minute Blackout” – The Day Silence Fell (2045) | Zed | [Read More](https://medium.com/p/30e1b4c753da) |
-| Sat, 12 Jul 2025 22:33:44 GMT | Advanced Screening — NahamCon 2025 Web CTF Writeup | brono theo | [Read More](https://medium.com/p/91684a4beec3) |
-| Sat, 12 Jul 2025 22:16:05 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 6: Planning (3/7) | Aaron Rusz | [Read More](https://medium.com/p/1ff9fdeec11b) |
-| Sat, 12 Jul 2025 22:13:57 GMT | EvilGPTv2 Walk-through | Cyber-Eddy | [Read More](https://medium.com/p/f2740cc34db6) |
-| Sat, 12 Jul 2025 22:12:33 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 5: Leadership (2/7) | Aaron Rusz | [Read More](https://medium.com/p/f6a10f1db27c) |
-| Sat, 12 Jul 2025 22:09:33 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 4: Context of the organization… | Aaron Rusz | [Read More](https://medium.com/p/191c44bedd99) |
