@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 07:06:45 GMT | How To Set Up Secure Role-Based Auth in MERN Stack Without Firebase | Shubham Chhimpa | [Read More](https://medium.com/p/073ca940a5bd) |
+| Sun, 13 Jul 2025 07:02:51 GMT | How I Got Started in Penetration Testing | Muhammad Usama | [Read More](https://medium.com/p/be1ad96b6dcf) |
+| Sun, 13 Jul 2025 07:01:21 GMT | Who’s Afraid of the Big Bad Passkey? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/f4cb7070a3f9) |
+| Sun, 13 Jul 2025 06:57:19 GMT | PortSwigger Lab — NoSQL Injection | k1dd0sz | [Read More](https://medium.com/p/2d2ab6b103f2) |
+| Sun, 13 Jul 2025 06:53:52 GMT | Want to bolster your CI/CD pipeline Security? | Nazeer | [Read More](https://medium.com/p/b0d9aac40733) |
+| Sun, 13 Jul 2025 06:52:59 GMT | Best Ethical Hacking Training in Noida - Ducat India | Setusaxena | [Read More](https://medium.com/p/5477a7d57367) |
+| Sun, 13 Jul 2025 06:52:23 GMT | Best Ethical Hacking Training in Noida - Ducat India | Shahrezahmed | [Read More](https://medium.com/p/83139e2ee6a3) |
+| Sun, 13 Jul 2025 06:52:19 GMT | Best Ethical Hacking Training in Noida - Ducat India | 11am Digital marketing | [Read More](https://medium.com/p/6a783a79dac2) |
+| Sun, 13 Jul 2025 06:52:19 GMT | Best Ethical Hacking Training in Noida - Ducat India | Abrar Khan | [Read More](https://medium.com/p/c3817f077ffb) |
+| Sun, 13 Jul 2025 06:52:19 GMT | Best Ethical Hacking Training in Noida - Ducat India | seema mehta | [Read More](https://medium.com/p/1f10fd612056) |
+| Sun, 13 Jul 2025 06:48:46 GMT | Scraping Forums Ethically with Python: A Walkthrough of LFCCro Forum Scraper | David Kljajo | [Read More](https://medium.com/p/bff9759470eb) |
+| Sun, 13 Jul 2025 06:31:47 GMT | Bug Report: Email Rate Limit Bypass via Capitalization Variation | Raghav Arora | [Read More](https://medium.com/p/cd5deffc60cb) |
+| Sun, 13 Jul 2025 06:31:45 GMT | How ICMP Works: From Diagnosis to Exploitation | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/34b61fbfe713) |
 | Sun, 13 Jul 2025 06:17:10 GMT | Wireshark Made Me See the Internet Differently — Here’s How | Saikat Paul | [Read More](https://medium.com/p/4ad043f0b895) |
 | Sun, 13 Jul 2025 06:17:05 GMT | ️ “Is Your Web App Wearing Armor?” — Web Security Basics Every Developer Should Know | Priyanshu Rajput | [Read More](https://medium.com/p/d9cc2ff18aa9) |
 | Sun, 13 Jul 2025 06:16:33 GMT | Understanding the Impact of Social Engineering Cyberattacks | Jatin Topakar | [Read More](https://medium.com/p/4b32ffcd5a9d) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 20:14:54 GMT | How I Bypass 2FA through confirmation link.. | Aftab Raja | [Read More](https://medium.com/p/5bfdd773057a) |
 | Sat, 12 Jul 2025 20:08:06 GMT | CTF Day(29) | Ahmed Narmer | [Read More](https://medium.com/p/7f76f92d5fb5) |
 | Sat, 12 Jul 2025 20:05:57 GMT | The Story of NetSync.exe: Between Missed Flags and Memorable Moments | Hritesh Rai | [Read More](https://medium.com/p/09826b836983) |
-| Sat, 12 Jul 2025 20:05:48 GMT | When Speaking Up Feels Risky: How to Support Women in Vulnerable Moments✨ | Brittany Jenay | [Read More](https://medium.com/p/d1f5bf6add27) |
-| Sat, 12 Jul 2025 20:04:50 GMT | Inside His Mind: Understanding the Invisible Emotional Needs of Men | Roj Ink | [Read More](https://medium.com/p/ab53cab78a90) |
-| Sat, 12 Jul 2025 19:53:57 GMT | A Critical Vulnerability on Bet261.mg — And Why It Should Concern Everyone using the platform | אימב21_סק | [Read More](https://medium.com/p/449a86f579e8) |
-| Sat, 12 Jul 2025 19:50:58 GMT | Is your random() Really Random? A Deep Dive into Random Number Generation | Aidid Alam | [Read More](https://medium.com/p/5735674cb384) |
-| Sat, 12 Jul 2025 19:23:57 GMT | Configuración MFA en Zabbix Server | Julio Villalobos | [Read More](https://medium.com/p/e8b020a5739c) |
-| Sat, 12 Jul 2025 19:17:14 GMT | TryHackMe WalkThrough : ItsyBitsy | Sarkhelranit | [Read More](https://medium.com/p/3c1566010076) |
-| Sat, 12 Jul 2025 19:15:39 GMT | Introducing Wazuh MCP Server: Bridging SIEM and AI for Smarter Security Operations | SOCFortress | [Read More](https://medium.com/p/ea9b5441dbba) |
-| Sat, 12 Jul 2025 19:09:26 GMT | Dog Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/4bb2235dc0ff) |
-| Sat, 12 Jul 2025 19:04:14 GMT | Mastering Cloud Security with AWS-Native Tools | Aravind S V | [Read More](https://medium.com/p/9939cb2b1e8b) |
-| Sat, 12 Jul 2025 18:52:51 GMT | Building an Internal ASM Using Elasticsearch: A Practical Guide for Security Engineers | Powerexploit | [Read More](https://medium.com/p/e46727f89576) |
-| Sat, 12 Jul 2025 18:46:09 GMT | How Envelope Encryption Keeps Your Secrets Safe | Bagus Panggalih Agung | [Read More](https://medium.com/p/b1d64507677e) |
-| Sat, 12 Jul 2025 18:45:25 GMT | Securing Java Applications: A Practical Guide to Implementing JWT Authentication | Dhanush kavin G | [Read More](https://medium.com/p/0f6f7555eb82) |
-| Sat, 12 Jul 2025 18:40:02 GMT | War is a Racket: Smedley Butler and the Business of Bombs | Mean Treaties | [Read More](https://medium.com/p/cce23c644bb0) |
