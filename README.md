@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 13:29:41 GMT | Write — Up NCSA CTF Cyber Bootcamp 2025 | O - Opsifiz | [Read More](https://medium.com/p/4622cd510d08) |
+| Sun, 13 Jul 2025 13:28:32 GMT | TryHackMe Advent Of Cyber 2 (Part 1) [Day 1 to Day 8] | Khyati Shivakumar | [Read More](https://medium.com/p/5c64ce6c2d8b) |
+| Sun, 13 Jul 2025 13:23:41 GMT | The rise of quite quitting 5.0 on social media | S Anuradha | [Read More](https://medium.com/p/76965b2a8b75) |
+| Sun, 13 Jul 2025 13:22:28 GMT | Is Your Bank Account Safe? The Ultimate Shield Against Cybercrooks | Godwin Anyebe | [Read More](https://medium.com/p/0f106fc8f222) |
+| Sun, 13 Jul 2025 13:17:58 GMT | Introduction to AWS WAF | Vikas Taank | [Read More](https://medium.com/p/bbddfab41a78) |
+| Sun, 13 Jul 2025 13:13:54 GMT | Revolucionando la automatización financiera híbrida: Cómo construimos el primer sistema FIAT ⇄… | [cMd_p1nG] | [Read More](https://medium.com/p/b795851fcd32) |
+| Sun, 13 Jul 2025 13:11:14 GMT | Tryhackme — Cyber Kill Chain | HRブログ | [Read More](https://medium.com/p/180f996e4b37) |
+| Sun, 13 Jul 2025 13:10:18 GMT | Smart Cities, Dumb Security: Who Protects the Infrastructure? | The Quiet Hacker | [Read More](https://medium.com/p/0842917645c3) |
+| Sun, 13 Jul 2025 13:05:36 GMT | How I Cracked the Mr. Robot VulnHub Machine: A Step-by-Step Walkthrough | Jadecrystal | [Read More](https://medium.com/p/9bf08011baca) |
+| Sun, 13 Jul 2025 13:02:59 GMT | Collective Intelligence: Realities and Hardships of Crowdsourced Threat Intel — Part 2 | Fry Rob | [Read More](https://medium.com/p/eb75c2853a31) |
+| Sun, 13 Jul 2025 13:02:08 GMT | Abusing Windows Core: The Battle Over svchost.exe | Abdellaoui Ahmed | [Read More](https://medium.com/p/53fa185f4558) |
+| Sun, 13 Jul 2025 13:01:03 GMT | CSP:- Secure Your Website Like a Pro (Without Losing Your Mind) | Sam Atmaramani | [Read More](https://medium.com/p/d9b3b3c43f2b) |
+| Sun, 13 Jul 2025 12:59:34 GMT | Cybersecurity, AI and Fintech: Top Tech Trends Shaping Summer 2025 | Credvora | [Read More](https://medium.com/p/009cb3a232f9) |
+| Sun, 13 Jul 2025 12:42:26 GMT | Almost a Month of Writing: Here’s What I’ve Learnt | Ava Hayes | [Read More](https://medium.com/p/4363d29d4685) |
 | Sun, 13 Jul 2025 12:07:51 GMT | TheHackersLabs — Sedition (Write Up) | APS88 | [Read More](https://medium.com/p/3cef0e3e5edb) |
 | Sun, 13 Jul 2025 12:06:42 GMT | Why Sysmon is a Must-Have in Your Security Toolkit | Prasidh | [Read More](https://medium.com/p/b3f497d8996b) |
 | Sun, 13 Jul 2025 12:04:49 GMT | What is IAM? - Understanding Identity and Access Management | Ketan Polawar | [Read More](https://medium.com/p/10374d3a997d) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 06:48:46 GMT | Scraping Forums Ethically with Python: A Walkthrough of LFCCro Forum Scraper | David Kljajo | [Read More](https://medium.com/p/bff9759470eb) |
 | Sun, 13 Jul 2025 06:31:47 GMT | Bug Report: Email Rate Limit Bypass via Capitalization Variation | Raghav Arora | [Read More](https://medium.com/p/cd5deffc60cb) |
 | Sun, 13 Jul 2025 06:31:45 GMT | How ICMP Works: From Diagnosis to Exploitation | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/34b61fbfe713) |
-| Sun, 13 Jul 2025 06:17:10 GMT | Wireshark Made Me See the Internet Differently — Here’s How | Saikat Paul | [Read More](https://medium.com/p/4ad043f0b895) |
-| Sun, 13 Jul 2025 06:17:05 GMT | ️ “Is Your Web App Wearing Armor?” — Web Security Basics Every Developer Should Know | Priyanshu Rajput | [Read More](https://medium.com/p/d9cc2ff18aa9) |
-| Sun, 13 Jul 2025 06:16:33 GMT | Understanding the Impact of Social Engineering Cyberattacks | Jatin Topakar | [Read More](https://medium.com/p/4b32ffcd5a9d) |
-| Sun, 13 Jul 2025 06:09:22 GMT | Future-Proof Your Career: The Most In-Demand Tech Roles for 2030 | Himanshu Dhiman | [Read More](https://medium.com/p/cc97a23a710f) |
-| Sun, 13 Jul 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Jul 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/06976fbe0ac4) |
-| Sun, 13 Jul 2025 05:57:23 GMT | Web Servers — What is Apache httpd, Apache Tomcat and Nginx | Chef de Jeman | [Read More](https://medium.com/p/ce5b3e7f222e) |
-| Sun, 13 Jul 2025 05:55:47 GMT | Excellent tool for bug bounty hunters and OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/b6655cbabb28) |
-| Sun, 13 Jul 2025 05:54:32 GMT | Week 3: Data Classification — Foundation of Trust | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/2bb78bd7eaac) |
-| Sun, 13 Jul 2025 05:54:18 GMT | This Profile Page Gave Me More Power Than It Should Have | LordofHeaven | [Read More](https://medium.com/p/45a151ddf471) |
-| Sun, 13 Jul 2025 05:50:31 GMT | SOCFortres5: Massive Browser Hijack Hits 2.3 | Darshan | [Read More](https://medium.com/p/b92cf1cde6e9) |
-| Sun, 13 Jul 2025 05:50:16 GMT | How a Tiny Script Can Hijack Your Site: The Hidden Dangers of XSS | Saikat Paul | [Read More](https://medium.com/p/0df74dd6444f) |
-| Sun, 13 Jul 2025 05:47:35 GMT | How I Bypassed a Naive XSS Filter Using Parameter Pollution in Express.js | huzefa0x01 | [Read More](https://medium.com/p/d3098dabbaad) |
-| Sun, 13 Jul 2025 05:44:11 GMT | Bug Bounty from Scratch - Everything You Need to Know About Bug Bounty | Abhijeet kumawat | [Read More](https://medium.com/p/7188d57d36f2) |
-| Sun, 13 Jul 2025 05:26:06 GMT | TryHackMe – Nmap Live Host Discovery | Sridhar S | [Read More](https://medium.com/p/2ca52ae6307a) |
