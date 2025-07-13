@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 06:17:10 GMT | Wireshark Made Me See the Internet Differently — Here’s How | Saikat Paul | [Read More](https://medium.com/p/4ad043f0b895) |
+| Sun, 13 Jul 2025 06:17:05 GMT | ️ “Is Your Web App Wearing Armor?” — Web Security Basics Every Developer Should Know | Priyanshu Rajput | [Read More](https://medium.com/p/d9cc2ff18aa9) |
+| Sun, 13 Jul 2025 06:16:33 GMT | Understanding the Impact of Social Engineering Cyberattacks | Jatin Topakar | [Read More](https://medium.com/p/4b32ffcd5a9d) |
+| Sun, 13 Jul 2025 06:09:22 GMT | Future-Proof Your Career: The Most In-Demand Tech Roles for 2030 | Himanshu Dhiman | [Read More](https://medium.com/p/cc97a23a710f) |
+| Sun, 13 Jul 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Jul 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/06976fbe0ac4) |
+| Sun, 13 Jul 2025 05:57:23 GMT | Web Servers — What is Apache httpd, Apache Tomcat and Nginx | Chef de Jeman | [Read More](https://medium.com/p/ce5b3e7f222e) |
+| Sun, 13 Jul 2025 05:55:47 GMT | Excellent tool for bug bounty hunters and OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/b6655cbabb28) |
+| Sun, 13 Jul 2025 05:54:32 GMT | Week 3: Data Classification — Foundation of Trust | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/2bb78bd7eaac) |
+| Sun, 13 Jul 2025 05:54:18 GMT | This Profile Page Gave Me More Power Than It Should Have | LordofHeaven | [Read More](https://medium.com/p/45a151ddf471) |
+| Sun, 13 Jul 2025 05:50:31 GMT | SOCFortres5: Massive Browser Hijack Hits 2.3 | Darshan | [Read More](https://medium.com/p/b92cf1cde6e9) |
+| Sun, 13 Jul 2025 05:50:16 GMT | How a Tiny Script Can Hijack Your Site: The Hidden Dangers of XSS | Saikat Paul | [Read More](https://medium.com/p/0df74dd6444f) |
+| Sun, 13 Jul 2025 05:47:35 GMT | How I Bypassed a Naive XSS Filter Using Parameter Pollution in Express.js | huzefa0x01 | [Read More](https://medium.com/p/d3098dabbaad) |
+| Sun, 13 Jul 2025 05:44:11 GMT | Bug Bounty from Scratch - Everything You Need to Know About Bug Bounty | Abhijeet kumawat | [Read More](https://medium.com/p/7188d57d36f2) |
 | Sun, 13 Jul 2025 05:26:06 GMT | TryHackMe – Nmap Live Host Discovery | Sridhar S | [Read More](https://medium.com/p/2ca52ae6307a) |
 | Sun, 13 Jul 2025 05:18:08 GMT | SOCFortres5: Nippon Steel Targeted in Sophisticated Zero-Day Cyberattack, Data Breach Confirmed | Darshan | [Read More](https://medium.com/p/2d7a8dcbcbb8) |
 | Sun, 13 Jul 2025 04:59:06 GMT | WebSockets: The Overlooked Attack Surface | Jothe Eswar | [Read More](https://medium.com/p/73d651e70caf) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 18:46:09 GMT | How Envelope Encryption Keeps Your Secrets Safe | Bagus Panggalih Agung | [Read More](https://medium.com/p/b1d64507677e) |
 | Sat, 12 Jul 2025 18:45:25 GMT | Securing Java Applications: A Practical Guide to Implementing JWT Authentication | Dhanush kavin G | [Read More](https://medium.com/p/0f6f7555eb82) |
 | Sat, 12 Jul 2025 18:40:02 GMT | War is a Racket: Smedley Butler and the Business of Bombs | Mean Treaties | [Read More](https://medium.com/p/cce23c644bb0) |
-| Sat, 12 Jul 2025 18:35:27 GMT | Day 49: Network Address Translation | Nile Okomo | [Read More](https://medium.com/p/fae24c57a103) |
-| Sat, 12 Jul 2025 18:26:26 GMT | Day 48: Subnetting 2 | Nile Okomo | [Read More](https://medium.com/p/a24b03384b09) |
-| Sat, 12 Jul 2025 18:23:58 GMT | PicoCTF Local Authority | Sohan Kanna D | [Read More](https://medium.com/p/056d88d06b46) |
-| Sat, 12 Jul 2025 18:09:43 GMT | JPS, TPS & RPS: The Metrics That Matter in Modern Banking Performance Testing | Abdul Anees | [Read More](https://medium.com/p/c230a3a7d175) |
-| Sat, 12 Jul 2025 18:07:29 GMT | RED - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/00ea9a36e2a0) |
-| Sat, 12 Jul 2025 17:58:46 GMT | $40M GMX Exploit Ends with a Plot Twist: Hacker Returns Half, Grabs $5M Bounty | CoinGen | [Read More](https://medium.com/p/3b2126f24b7e) |
-| Sat, 12 Jul 2025 17:32:15 GMT | FEAR 2 : AM I ALWAYS GOING TO BE TOO MUCH (OR NOT ENOUGH)? | Dreamy | [Read More](https://medium.com/p/4602646e902b) |
-| Sat, 12 Jul 2025 17:27:37 GMT | Real Case: How Trustoryx Saved a Young Woman from a Fake Marriage Trap | NIkhil Kumar | [Read More](https://medium.com/p/11e2283cea9e) |
-| Sat, 12 Jul 2025 17:22:51 GMT | AI-Powered NIDS | Tal Eliyahu | [Read More](https://medium.com/p/b0e19be7639e) |
-| Sat, 12 Jul 2025 17:19:18 GMT | Volt Typhoon TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/61dc13664cad) |
-| Sat, 12 Jul 2025 17:15:17 GMT | Bug Report: OTP Rate Limit Bypass via URL Obfuscation | Raghav Arora | [Read More](https://medium.com/p/1e3fc8074217) |
-| Sat, 12 Jul 2025 17:12:55 GMT | DAY 12 — Linux CTF Challenge #4 | Jinay | [Read More](https://medium.com/p/b415fbba032d) |
-| Sat, 12 Jul 2025 17:08:51 GMT | Collect Exclusive RECON Through Recon Solana's Reward Burst | $RECON (Recon Solana) | [Read More](https://medium.com/p/4679ffa3b47e) |
