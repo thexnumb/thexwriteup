@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 12:07:51 GMT | TheHackersLabs — Sedition (Write Up) | APS88 | [Read More](https://medium.com/p/3cef0e3e5edb) |
+| Sun, 13 Jul 2025 12:06:42 GMT | Why Sysmon is a Must-Have in Your Security Toolkit | Prasidh | [Read More](https://medium.com/p/b3f497d8996b) |
+| Sun, 13 Jul 2025 12:04:49 GMT | What is IAM? - Understanding Identity and Access Management | Ketan Polawar | [Read More](https://medium.com/p/10374d3a997d) |
+| Sun, 13 Jul 2025 12:03:47 GMT | Even Duplicates Have Stories — My XSS Discovery on Experian | Orion | [Read More](https://medium.com/p/8d961fc5db97) |
+| Sun, 13 Jul 2025 12:03:01 GMT | Comunicado Oficial | [cMd_p1nG] | [Read More](https://medium.com/p/44893f9a245e) |
+| Sun, 13 Jul 2025 12:00:03 GMT | XBOW Ai: The Future of Cybersecurity. | 1nf1n1ty | [Read More](https://medium.com/p/d2ff54e6cda7) |
+| Sun, 13 Jul 2025 11:49:34 GMT | Unlocking the Future of Privacy: How Zama’s Fully Homomorphic Encryption (FHE) Is Revolutionizing… | Denis Tatarinov | [Read More](https://medium.com/p/9ba4f8e25957) |
+| Sun, 13 Jul 2025 11:48:19 GMT | AI Gone Rogue: Real-World Mayhem and Marvels | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/e8b7e7ab4fbe) |
 | Sun, 13 Jul 2025 11:26:14 GMT | A Practical Look at How Threat Actors Exploit Office 365 and Entra users | Liam Wood | [Read More](https://medium.com/p/e34980066a1a) |
 | Sun, 13 Jul 2025 11:22:36 GMT | ELK Stack + osTicket: a Lightweight SOC Monitoring Setup | sczxw | [Read More](https://medium.com/p/11c99b5a0a60) |
 | Sun, 13 Jul 2025 11:21:14 GMT | ️ Web3 Security Weekly — July 7–13, 2025 | Null Return | [Read More](https://medium.com/p/7780a067eb7a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 05:47:35 GMT | How I Bypassed a Naive XSS Filter Using Parameter Pollution in Express.js | huzefa0x01 | [Read More](https://medium.com/p/d3098dabbaad) |
 | Sun, 13 Jul 2025 05:44:11 GMT | Bug Bounty from Scratch - Everything You Need to Know About Bug Bounty | Abhijeet kumawat | [Read More](https://medium.com/p/7188d57d36f2) |
 | Sun, 13 Jul 2025 05:26:06 GMT | TryHackMe – Nmap Live Host Discovery | Sridhar S | [Read More](https://medium.com/p/2ca52ae6307a) |
-| Sun, 13 Jul 2025 05:18:08 GMT | SOCFortres5: Nippon Steel Targeted in Sophisticated Zero-Day Cyberattack, Data Breach Confirmed | Darshan | [Read More](https://medium.com/p/2d7a8dcbcbb8) |
-| Sun, 13 Jul 2025 04:59:06 GMT | WebSockets: The Overlooked Attack Surface | Jothe Eswar | [Read More](https://medium.com/p/73d651e70caf) |
-| Sun, 13 Jul 2025 04:48:59 GMT | Fullstack Development with Serverless Functions: The Future of Scalable Web Applications | Fiza Muneer | [Read More](https://medium.com/p/8288f91809f9) |
-| Sun, 13 Jul 2025 04:35:22 GMT | I’d kill to rewrite that paragraph | Asmar Baig | [Read More](https://medium.com/p/71b153e146c6) |
-| Sun, 13 Jul 2025 04:17:45 GMT | How To Instantly Claim $DORK | $DORK (DORK) | [Read More](https://medium.com/p/12de6d36009a) |
-| Sun, 13 Jul 2025 04:06:37 GMT | Docker and Docker-in-Docker (DinD): A Comprehensive Guide for Developers | Rajveer Singh Rathore | [Read More](https://medium.com/p/c9ddbc1e29d4) |
-| Sun, 13 Jul 2025 04:02:26 GMT | Building a Cybersecurity Nerve Center for the Modern Age, Next-Gen SIEM | David SEHYEON Baek | [Read More](https://medium.com/p/6fecb42f1cb7) |
-| Sun, 13 Jul 2025 03:58:43 GMT | Volt Typhoon, China’s Stealth Cyber Actor, Targeting Critical U.S. Infrastructure | David SEHYEON Baek | [Read More](https://medium.com/p/7960bb385211) |
