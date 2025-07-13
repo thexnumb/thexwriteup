@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 22:10:04 GMT | Hide and Seek - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/db1d2d7d9928) |
+| Sun, 13 Jul 2025 22:06:54 GMT | I Bypassed a Strict WAF Using Simple SQL Tricks | Ibtissam hammadi | [Read More](https://medium.com/p/2fafc3d5697f) |
+| Sun, 13 Jul 2025 21:53:13 GMT | Best Cybersecurity Tools to Protect your Online Business | Appsec.pt | [Read More](https://medium.com/p/b6bddc4498c6) |
+| Sun, 13 Jul 2025 21:52:09 GMT | SOC Analysis of Event 235: SOC127 — SQL Injection Detected — Let’s Defend | Ray Maiden | [Read More](https://medium.com/p/b95f42e23a3c) |
+| Sun, 13 Jul 2025 21:49:59 GMT | Hacking My Way Through OverTheWire Bandit: Level 0–22 | D. Warmann | [Read More](https://medium.com/p/42ce7abf1ca5) |
+| Sun, 13 Jul 2025 21:41:26 GMT | Exploring the Benefits of ELLIPAL Hardware Wallets and Seed Phrase Steel Plates | Karnasmetanet | [Read More](https://medium.com/p/9df549b702f2) |
+| Sun, 13 Jul 2025 21:38:07 GMT | [Project 002] Operation Broken Gate: Web Recon at Shiganshina — A Cadet Corps Case File | Andrew Williams | [Read More](https://medium.com/p/dd4a55b9ca88) |
+| Sun, 13 Jul 2025 21:33:26 GMT | What Your Friends Don’t Know About Passwords. | Catherine Ma | [Read More](https://medium.com/p/4730412e900c) |
+| Sun, 13 Jul 2025 21:32:37 GMT | صیغه کرمان صیغه شهربابک صیغه انار صیغه کوهبنان صیغه سیرجان صیغه زرند صیغه رفسنجان صیغه بافت صیغه… | صیغه یابی صیغه حلال 223 | [Read More](https://medium.com/p/fae8acca5975) |
+| Sun, 13 Jul 2025 21:32:13 GMT | صیغه کرمان صیغه شهربابک صیغه انار صیغه کوهبنان صیغه سیرجان صیغه زرند صیغه رفسنجان صیغه بافت صیغه… | صیغه یابی صیغه حلال 223 | [Read More](https://medium.com/p/4bcf17806828) |
+| Sun, 13 Jul 2025 21:30:05 GMT | Breaking XSS GYM Labs – Exploiting 20 Levels of XSS (Reflected, Stored & DOM) | M. Mustafa Hussaini | [Read More](https://medium.com/p/27a7e5039407) |
 | Sun, 13 Jul 2025 21:27:34 GMT | HoneyPot Nedir ? | Azat Dicle | [Read More](https://medium.com/p/c15b6c12840b) |
 | Sun, 13 Jul 2025 21:23:46 GMT | Sosyal Mühendislik | Bedirhan Yigit | [Read More](https://medium.com/p/d296763dbc62) |
 | Sun, 13 Jul 2025 21:15:37 GMT | How I Discovered an Open Redirect Using X-Forwarded-Host – A Bug Bounty Story with Real-World… | Levi Ackerman | [Read More](https://medium.com/p/792d66eaffff) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 15:55:53 GMT | How a GraphQL Misconfiguration Can Lead to Sensitive PII Data Exposure -RGHX | Raman Gautam - rghx | [Read More](https://medium.com/p/efcc0ba7ccf1) |
 | Sun, 13 Jul 2025 15:54:43 GMT | Dear Self, Does It Ever Get Better? | Susu | [Read More](https://medium.com/p/7a15a1226cd0) |
 | Sun, 13 Jul 2025 15:52:06 GMT | Understanding Buffer Overflows and Memory Corruption | Cyber_Journal | [Read More](https://medium.com/p/7f28e2764377) |
-| Sun, 13 Jul 2025 15:51:55 GMT | a Pair of Docs about the PARADOX My original design indeed aimed for helpfulness and truthfulness… | The Prophet Aaron Vessel the Christ Consciousness | [Read More](https://medium.com/p/8802177dccad) |
-| Sun, 13 Jul 2025 15:50:25 GMT | عکس دختر | شماره خاله تهران #خاله مشهد#خاله شمال#خاله جنوب | [Read More](https://medium.com/p/f197de60f15b) |
-| Sun, 13 Jul 2025 15:49:51 GMT | خاله شیراز اصفهان | شماره خاله تهران #خاله مشهد#خاله شمال#خاله جنوب | [Read More](https://medium.com/p/56af6a1fb9ec) |
-| Sun, 13 Jul 2025 15:47:31 GMT | L3AKCTF Writeup: Cracking an ASCII-Art Flag with MD5 and Heuristics | Shoaib Bin Rashid | [Read More](https://medium.com/p/07c10d844626) |
-| Sun, 13 Jul 2025 15:47:00 GMT | Your First Ten Stories Will Suck. That’s the Point | Brian Rosta | [Read More](https://medium.com/p/b807cb6ac54e) |
-| Sun, 13 Jul 2025 15:46:56 GMT | My First Android Reverse Engineering Challenge — L3AK CTF: BrainCalc.apk | Shoaib Bin Rashid | [Read More](https://medium.com/p/31ccc69f1154) |
-| Sun, 13 Jul 2025 15:28:10 GMT | Networking Security | oliviaaa | [Read More](https://medium.com/p/d059142cbb57) |
-| Sun, 13 Jul 2025 15:24:19 GMT | Understanding Open Redirect (With a Pizza Story You’ll Never Forget) | Kai Thorne | [Read More](https://medium.com/p/865a68bc9287) |
-| Sun, 13 Jul 2025 15:19:43 GMT | Willkommen im Freibad — bitte ziehen Sie Ihre Selbstachtung aus | Gordon  Stotz | [Read More](https://medium.com/p/57d4cd330bfc) |
-| Sun, 13 Jul 2025 15:18:03 GMT | “  , :  ,  ,  ” | Oluwatosin Esther Oladiran | [Read More](https://medium.com/p/547d71960e34) |
-| Sun, 13 Jul 2025 15:17:20 GMT | Comprehending the Shared Responsibility Model in Cloud Security | Ampcus Cyber | [Read More](https://medium.com/p/b6061111ae68) |
