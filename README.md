@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 18:46:56 GMT | Real-Time DNS Tunneling Detection and Mitigation ️‍♂️ | Esra Kayhan | [Read More](https://medium.com/p/6dd200198dbd) |
+| Sun, 13 Jul 2025 18:40:09 GMT | Over The Wire : NATAS | Praharsha Kumar | [Read More](https://medium.com/p/9b9b0692b211) |
+| Sun, 13 Jul 2025 18:27:34 GMT | Over The Wire : NATAS | Praharsha Kumar | [Read More](https://medium.com/p/d4026538cb55) |
+| Sun, 13 Jul 2025 18:27:16 GMT | From Malware to Geopolitics: Essential Cyber and Counterintelligence Books | Travis Murphy | [Read More](https://medium.com/p/b870f3c16852) |
 | Sun, 13 Jul 2025 18:11:09 GMT | The MFA You Trust Is Lying to You and Here’s How Attackers Exploit It | cybrNK | [Read More](https://medium.com/p/ed36d8e27df9) |
 | Sun, 13 Jul 2025 18:08:50 GMT | When Industrial IoT Devices Are Left Open: My Cybersecurity Research on Red Lion G3 Web Server… | hacker_might | [Read More](https://medium.com/p/a910d242d6b0) |
 | Sun, 13 Jul 2025 18:08:17 GMT | Think You’re Safe Online? 10 Signs You’ve Already Been Hacked | Rosalia Quinn | [Read More](https://medium.com/p/3ab75d4bd8a0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 12:06:42 GMT | Why Sysmon is a Must-Have in Your Security Toolkit | Prasidh | [Read More](https://medium.com/p/b3f497d8996b) |
 | Sun, 13 Jul 2025 12:04:49 GMT | What is IAM? - Understanding Identity and Access Management | Ketan Polawar | [Read More](https://medium.com/p/10374d3a997d) |
 | Sun, 13 Jul 2025 12:03:47 GMT | Even Duplicates Have Stories — My XSS Discovery on Experian | Orion | [Read More](https://medium.com/p/8d961fc5db97) |
-| Sun, 13 Jul 2025 12:03:01 GMT | Comunicado Oficial | [cMd_p1nG] | [Read More](https://medium.com/p/44893f9a245e) |
-| Sun, 13 Jul 2025 12:00:03 GMT | XBOW Ai: The Future of Cybersecurity. | 1nf1n1ty | [Read More](https://medium.com/p/d2ff54e6cda7) |
-| Sun, 13 Jul 2025 11:49:34 GMT | Unlocking the Future of Privacy: How Zama’s Fully Homomorphic Encryption (FHE) Is Revolutionizing… | Denis Tatarinov | [Read More](https://medium.com/p/9ba4f8e25957) |
-| Sun, 13 Jul 2025 11:48:19 GMT | AI Gone Rogue: Real-World Mayhem and Marvels | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/e8b7e7ab4fbe) |
