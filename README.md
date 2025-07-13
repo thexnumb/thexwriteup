@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 04:17:45 GMT | How To Instantly Claim $DORK | $DORK (DORK) | [Read More](https://medium.com/p/12de6d36009a) |
+| Sun, 13 Jul 2025 04:06:37 GMT | Docker and Docker-in-Docker (DinD): A Comprehensive Guide for Developers | Rajveer Singh Rathore | [Read More](https://medium.com/p/c9ddbc1e29d4) |
+| Sun, 13 Jul 2025 04:02:26 GMT | Building a Cybersecurity Nerve Center for the Modern Age, Next-Gen SIEM | David SEHYEON Baek | [Read More](https://medium.com/p/6fecb42f1cb7) |
+| Sun, 13 Jul 2025 03:58:43 GMT | Volt Typhoon, China’s Stealth Cyber Actor, Targeting Critical U.S. Infrastructure | David SEHYEON Baek | [Read More](https://medium.com/p/7960bb385211) |
+| Sun, 13 Jul 2025 03:53:38 GMT | Lead With Purpose and Trust | Donny Kurniawan | [Read More](https://medium.com/p/d9a4ad3f9588) |
+| Sun, 13 Jul 2025 03:53:20 GMT | Bureau 39: North Korea’s Secretive Financial Operation | David SEHYEON Baek | [Read More](https://medium.com/p/dee2461aa0df) |
+| Sun, 13 Jul 2025 03:48:23 GMT | How BPFDoor Became a Strategic Threat to Critical Infrastructure | David SEHYEON Baek | [Read More](https://medium.com/p/3da0a38a475e) |
+| Sun, 13 Jul 2025 03:41:45 GMT | GALLERY-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/d74afd21f762) |
 | Sun, 13 Jul 2025 03:41:30 GMT | China’s Expanding Cyberwarfare Strategy — Global Ambitions, Espionage Networks, and the Rise of a… | David SEHYEON Baek | [Read More](https://medium.com/p/87deb4fe1239) |
 | Sun, 13 Jul 2025 03:40:00 GMT | ChainBounty Announces Launch Event: Win BOUNTY Today | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/cbd82f9fbc62) |
 | Sun, 13 Jul 2025 03:31:48 GMT | Inside the DaVita Ransomware Attack: How InterLock Breached the Heart of Healthcare | Deven Chhajed | [Read More](https://medium.com/p/e9f4722915c9) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 16:56:32 GMT | The $10.5 Trillion Threat: Navigating the 5 Shifts of the 2025 Cybersecurity Paradigm | Akhil Binu | [Read More](https://medium.com/p/2bf13ce01909) |
 | Sat, 12 Jul 2025 16:55:52 GMT | Building AI-Powered Enterprise Systems: A Developer’s Journey from Chaos to Clarity | Udaya Veeramreddygari | [Read More](https://medium.com/p/672b0e20aa6a) |
 | Sat, 12 Jul 2025 16:52:32 GMT | MSSQL Security: Complete Guide for Enterprise Database Systems | Okan Yıldız | [Read More](https://medium.com/p/c99863db612e) |
-| Sat, 12 Jul 2025 16:46:56 GMT | Decentralized Consensus for Malware Detection: Evolving Cybersecurity Beyond Centralized Trust | Koshy | [Read More](https://medium.com/p/ce51476fcf2d) |
-| Sat, 12 Jul 2025 16:41:47 GMT | Deepfake Scams Are Here, And They’re More Convincing Than Your Ex’s Apology Text | Paradise technologies Inc | [Read More](https://medium.com/p/67a544b5685a) |
-| Sat, 12 Jul 2025 16:32:51 GMT | Stolen Mount - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/68f446d0fd71) |
-| Sat, 12 Jul 2025 16:25:24 GMT | PortSwigger Lab — Cross-origin resource sharing (CORS) | k1dd0sz | [Read More](https://medium.com/p/d00864a9ae0b) |
-| Sat, 12 Jul 2025 16:16:56 GMT | Can a VPN Be Tracked? What You Need to Know About VPN Privacy | Timonéofearth | [Read More](https://medium.com/p/201e0dc1b682) |
-| Sat, 12 Jul 2025 16:16:56 GMT | My Specter | BJ Dawson | [Read More](https://medium.com/p/2468a1531dbf) |
-| Sat, 12 Jul 2025 16:07:57 GMT | Beyond OWASP: Real-World Application Attacks You’re Probably Not Testing For | DefenceRabbit | [Read More](https://medium.com/p/c53f5f4272f4) |
-| Sat, 12 Jul 2025 16:02:59 GMT | How to Protect Your MCP Servers and Require Authentication for AI Assistant Activation | Javier Calderon Jr | [Read More](https://medium.com/p/b19566db361e) |
