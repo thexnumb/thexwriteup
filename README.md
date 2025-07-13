@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 17:13:28 GMT | Secure Patch Testing in OT: From Firefighting to Foresight | pradeep nagireddy | [Read More](https://medium.com/p/7e0e621eb215) |
+| Sun, 13 Jul 2025 17:11:35 GMT | Ransomware and AI Intersection | Harishkumar Pillai | [Read More](https://medium.com/p/75a0e1388853) |
+| Sun, 13 Jul 2025 17:06:30 GMT | When Security Becomes the Threat: Lessons from a Siemens OT Cybersecurity Bulletin | pradeep nagireddy | [Read More](https://medium.com/p/e9b81090163e) |
+| Sun, 13 Jul 2025 17:01:33 GMT | ️ The Ultimate Web Security Checklist — A Tactical Guide for Hackers & Cybersecurity… | ZishanAdThandar | [Read More](https://medium.com/p/42712b87ae1b) |
+| Sun, 13 Jul 2025 16:57:58 GMT | Ransomware detection, prevention and recovery | Harishkumar Pillai | [Read More](https://medium.com/p/735a9a690e67) |
+| Sun, 13 Jul 2025 16:57:52 GMT | Fallback Authentication | Richard Ndung'u | [Read More](https://medium.com/p/d0742626e9ec) |
+| Sun, 13 Jul 2025 16:53:43 GMT | Ligolo-ng 0.8.2+ Tunneling Manual | David | [Read More](https://medium.com/p/55126be3b97f) |
+| Sun, 13 Jul 2025 16:51:41 GMT | Malware 2.0: How AI Is Quietly Rewriting the Rules of Cyber Warfare | Aravind S V | [Read More](https://medium.com/p/2518c591fd5f) |
+| Sun, 13 Jul 2025 16:47:54 GMT | TRENDS’ Brotherhood Encyclopedia Is a Strategic Breakthrough | Imam Tawhidi | [Read More](https://medium.com/p/b85eda1ca569) |
 | Sun, 13 Jul 2025 16:47:19 GMT | Email Spoofing: What’s Behind the “From” Field | Malvox | [Read More](https://medium.com/p/676df55fa801) |
+| Sun, 13 Jul 2025 16:46:26 GMT | Falling in Love with Someone’s Shadow Before Their Light | Doctor’s Notes | [Read More](https://medium.com/p/aad2d2973148) |
 | Sun, 13 Jul 2025 16:36:45 GMT | Unicode Chaos: Exploiting Hidden Payloads in Multilingual Web Apps | Monika sharma | [Read More](https://medium.com/p/e56e422d34dc) |
 | Sun, 13 Jul 2025 16:36:39 GMT | Finding Vulnerabilities via Exposed Source Maps | Monika sharma | [Read More](https://medium.com/p/11d3e441b6aa) |
 | Sun, 13 Jul 2025 16:33:47 GMT | From JSLeaks to JWT Tokens: Extracting Secrets from JavaScript Like a Pro | Monika sharma | [Read More](https://medium.com/p/dd351d43a9f8) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 10:25:26 GMT | Security Awareness Training is Dead: The Behavioral Security Revolution | Dhanush N | [Read More](https://medium.com/p/3a4e9b51ee79) |
 | Sun, 13 Jul 2025 10:23:28 GMT | How I Chained a Race Condition With Broken Access Control for Full Account Takeover | Narendar Battula (nArEn) | [Read More](https://medium.com/p/072877598fbc) |
 | Sun, 13 Jul 2025 10:20:02 GMT | Blackpearl VM Walkthrough | Spookz | [Read More](https://medium.com/p/bbea88535d5f) |
-| Sun, 13 Jul 2025 10:18:03 GMT | What is Cyber Security and Ethical Hacking? | Arindam Dawn | [Read More](https://medium.com/p/4f9c9f2ef21e) |
-| Sun, 13 Jul 2025 10:17:43 GMT | Penetration Testing for Android Apps in Pakistan | Muhammad Inam Abbasi | [Read More](https://medium.com/p/bc9e0ef9acd5) |
-| Sun, 13 Jul 2025 10:17:38 GMT | Race Conditions in the Real World: How I Won the App’s Logic War | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6fd34b48d4c3) |
-| Sun, 13 Jul 2025 10:08:50 GMT | Prologue - 내부자 위협: 가장 가까운 곳에서 시작되는 침입 by. 위즈노트AI | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/8e25138a02da) |
-| Sun, 13 Jul 2025 09:55:06 GMT | Why BiyaPay Is Setting the Gold Standard for Security in Fintech | SnazzyBits | [Read More](https://medium.com/p/d68f7a90ec8a) |
-| Sun, 13 Jul 2025 09:51:15 GMT | Watcher Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/f05e808f684c) |
-| Sun, 13 Jul 2025 09:49:51 GMT | Proving You Can Do Both: Abu Saim Wahid’s Journey from IT to Inspiration | Modern News | [Read More](https://medium.com/p/1bac82b48884) |
-| Sun, 13 Jul 2025 09:48:15 GMT | Der ultimative DORA-Compliance-Software-Leitfaden: Strategische Roadmap für operative Resilienz in… | Philip Hansen | [Read More](https://medium.com/p/17084ce7d47e) |
-| Sun, 13 Jul 2025 09:48:12 GMT | DORA-Compliance: Der ultimative Leitfaden für Finanzinstitute 2025 | Philip Hansen | [Read More](https://medium.com/p/c6eef1fc5e99) |
-| Sun, 13 Jul 2025 09:48:08 GMT | Your Instagram ‘Password Reset’ Email Might Be a Trap | Aj | [Read More](https://medium.com/p/0b8dcfc6bc70) |
