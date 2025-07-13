@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 05:26:06 GMT | TryHackMe – Nmap Live Host Discovery | Sridhar S | [Read More](https://medium.com/p/2ca52ae6307a) |
 | Sun, 13 Jul 2025 05:18:08 GMT | SOCFortres5: Nippon Steel Targeted in Sophisticated Zero-Day Cyberattack, Data Breach Confirmed | Darshan | [Read More](https://medium.com/p/2d7a8dcbcbb8) |
 | Sun, 13 Jul 2025 04:59:06 GMT | WebSockets: The Overlooked Attack Surface | Jothe Eswar | [Read More](https://medium.com/p/73d651e70caf) |
 | Sun, 13 Jul 2025 04:48:59 GMT | Fullstack Development with Serverless Functions: The Future of Scalable Web Applications | Fiza Muneer | [Read More](https://medium.com/p/8288f91809f9) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 17:15:17 GMT | Bug Report: OTP Rate Limit Bypass via URL Obfuscation | Raghav Arora | [Read More](https://medium.com/p/1e3fc8074217) |
 | Sat, 12 Jul 2025 17:12:55 GMT | DAY 12 — Linux CTF Challenge #4 | Jinay | [Read More](https://medium.com/p/b415fbba032d) |
 | Sat, 12 Jul 2025 17:08:51 GMT | Collect Exclusive RECON Through Recon Solana's Reward Burst | $RECON (Recon Solana) | [Read More](https://medium.com/p/4679ffa3b47e) |
-| Sat, 12 Jul 2025 17:07:03 GMT | TryHackMe: Vulnerability Capstone | Babatunde Ojo | [Read More](https://medium.com/p/f504b75ae8ba) |
