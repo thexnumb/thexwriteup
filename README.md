@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 08:19:39 GMT | Nmap Live Host Discovery Report | Ayush Tiwari | [Read More](https://medium.com/p/39d091325980) |
+| Sun, 13 Jul 2025 08:05:46 GMT | Reliable Wi-Fi Support Services Across the US for Seamless Connectivity | itsupport.net.in | [Read More](https://medium.com/p/7d1f4ffb4644) |
+| Sun, 13 Jul 2025 08:05:31 GMT | How to Become a Penetration Tester in 2025? | cyber security Updates | [Read More](https://medium.com/p/c9f7e3415178) |
+| Sun, 13 Jul 2025 08:05:12 GMT | How Flash USDT Can Be Misunderstood | Pasov | [Read More](https://medium.com/p/c189c45e08ef) |
+| Sun, 13 Jul 2025 08:04:44 GMT | ️ WAF? LOL: How Burp Collaborator Helped Me Sneak a Shell Through a Cloud Firewall | Iski | [Read More](https://medium.com/p/c537bbf53c05) |
+| Sun, 13 Jul 2025 08:00:44 GMT | Bug Bounty Methodology: My Step-by-Step Approach to Finding Vulnerabilities | Hades | [Read More](https://medium.com/p/bc8583f0f011) |
+| Sun, 13 Jul 2025 07:58:47 GMT | HTB Dog Walkthrough | Gokul Karthik | [Read More](https://medium.com/p/2d840513f463) |
+| Sun, 13 Jul 2025 07:55:48 GMT | How to Get Cloud Security Experience Without a Job — 2025 Edition | Taimur Ijlal | [Read More](https://medium.com/p/6a645500ee45) |
+| Sun, 13 Jul 2025 07:49:50 GMT | AI and Privacy: Top Mistakes Users Make While Chatting | Observance Solutions | [Read More](https://medium.com/p/3153596cfa16) |
+| Sun, 13 Jul 2025 07:47:19 GMT | Inside the AWS Trust Center | Saikat Paul | [Read More](https://medium.com/p/73a7884c2370) |
+| Sun, 13 Jul 2025 07:44:51 GMT | Manual vs Automation in Bug Bounty: Which One Should You Use? | Hades | [Read More](https://medium.com/p/4e665350698c) |
+| Sun, 13 Jul 2025 07:37:39 GMT | IA-CTF Writeup — A CTF by Indian Army | 0r | [Read More](https://medium.com/p/7caf00e393af) |
 | Sun, 13 Jul 2025 07:35:26 GMT | From Server Rooms to Zoom Calls: My Journey as a Customer Support Engineer | Neelesh Banchhor | [Read More](https://medium.com/p/e2563c891941) |
 | Sun, 13 Jul 2025 07:31:19 GMT | Quishing: The New Favorite Trick in the Phisher’s Playbook | Zuri | [Read More](https://medium.com/p/1add7134b8ca) |
 | Sun, 13 Jul 2025 07:27:15 GMT | Penetration Testing vs Red Teaming: What Beginners Need to Know | Hades | [Read More](https://medium.com/p/6882d8034557) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 12 Jul 2025 22:05:25 GMT | Introducing Nova AI: The Context Layer for Autonomous Intelligence | Build with NOVA | [Read More](https://medium.com/p/9861e70e15e1) |
 | Sat, 12 Jul 2025 21:40:57 GMT | Becoming Virtually Untraceable — #7–25_0PPR355!V3_4U7H0R174R!4N1SM.log | Ian Barwise | [Read More](https://medium.com/p/88ccf7d0558f) |
 | Sat, 12 Jul 2025 21:37:51 GMT | #  My First CTF — Web Challenge Writeup (NahamCon 2025) | brono theo | [Read More](https://medium.com/p/89d5f8c5e4e2) |
-| Sat, 12 Jul 2025 21:35:26 GMT | PortSwigger — Authentication Lab | Ishtiyak  Surve | [Read More](https://medium.com/p/4c7db01d127a) |
-| Sat, 12 Jul 2025 21:32:54 GMT | How I Hacked an Admin Panel with Just a Weak Password (and Why You’re at Risk Too) | Ibtissam hammadi | [Read More](https://medium.com/p/e3e2f0b9522f) |
-| Sat, 12 Jul 2025 21:18:05 GMT | Demystifying SPL in Splunk: How Log Analytics Works (Beginner Tutorial + Real Example) | Hemavarna Sundar | [Read More](https://medium.com/p/3505c8bb19de) |
-| Sat, 12 Jul 2025 21:09:35 GMT | ️How I Found a Reflected XSS on India’s one of the largest companie Tata Motors Website —But Got… | Tech Researcher | [Read More](https://medium.com/p/1c617c3afe53) |
-| Sat, 12 Jul 2025 20:58:20 GMT | Your Smartphone Is a Hacker’s Goldmine: A SOC Analyst’s Guide to Keeping It Secure. | Dany Christel | [Read More](https://medium.com/p/ad940edca04d) |
-| Sat, 12 Jul 2025 20:57:12 GMT | K8s Secrets: Base Recommended Protection - Restrict Secret Access to Specific Containers | W. Jenks Gibbons | [Read More](https://medium.com/p/cf2c1c746e1e) |
-| Sat, 12 Jul 2025 20:56:08 GMT | TryHackMe Walkthrough: Nmap Live Host Discovery | Ruposhree B. | [Read More](https://medium.com/p/cfeba62b73cc) |
-| Sat, 12 Jul 2025 20:44:27 GMT | 5 Cybersecurity Learning Platforms That Changed How I Learn (And They’re Free or Affordable) | Ghulam Mohiuddin | [Read More](https://medium.com/p/7c0255a9603d) |
-| Sat, 12 Jul 2025 20:38:17 GMT | CTF Day(30) | Ahmed Narmer | [Read More](https://medium.com/p/e47e2dd1b69a) |
-| Sat, 12 Jul 2025 20:32:46 GMT | Module 1 — Assessment Methodologies: Information Gathering CTF 1 | A Missing Duck | [Read More](https://medium.com/p/54257fb5189c) |
-| Sat, 12 Jul 2025 20:32:10 GMT | Apple Built the Perfect Spy: Part 1 | D. Mikhailov | [Read More](https://medium.com/p/dd846aa5e723) |
-| Sat, 12 Jul 2025 20:29:53 GMT | TalentCoders Siber Güvenlik Kampı: 2. Hafta Deneyimim — FortiGate ile Uygulamalı Ağ Güvenliği | Talha Tarlabaz | [Read More](https://medium.com/p/a105f405ffd2) |
