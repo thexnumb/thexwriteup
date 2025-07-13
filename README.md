@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 16:47:19 GMT | Email Spoofing: What’s Behind the “From” Field | Malvox | [Read More](https://medium.com/p/676df55fa801) |
+| Sun, 13 Jul 2025 16:36:45 GMT | Unicode Chaos: Exploiting Hidden Payloads in Multilingual Web Apps | Monika sharma | [Read More](https://medium.com/p/e56e422d34dc) |
+| Sun, 13 Jul 2025 16:36:39 GMT | Finding Vulnerabilities via Exposed Source Maps | Monika sharma | [Read More](https://medium.com/p/11d3e441b6aa) |
+| Sun, 13 Jul 2025 16:33:47 GMT | From JSLeaks to JWT Tokens: Extracting Secrets from JavaScript Like a Pro | Monika sharma | [Read More](https://medium.com/p/dd351d43a9f8) |
+| Sun, 13 Jul 2025 16:32:21 GMT | ProConOS Exposed: What ICS Security Teams Need to Know | Azim Uddin | [Read More](https://medium.com/p/044ed5ce80a9) |
+| Sun, 13 Jul 2025 16:30:04 GMT | Firmware Security: Protecting Your Devices from the Ground Up | Karthikeyan Nagaraj | [Read More](https://medium.com/p/1f902aaa0c23) |
+| Sun, 13 Jul 2025 16:27:18 GMT | Apple Built the Perfect Spy: Part 2 | D. Mikhailov | [Read More](https://medium.com/p/fcedebd75462) |
+| Sun, 13 Jul 2025 16:24:27 GMT | 7 Must-Have Tools for Building Smarter AI Agents with MCP Compatibility | Saikat Paul | [Read More](https://medium.com/p/39c8c5521e36) |
+| Sun, 13 Jul 2025 16:24:11 GMT | Top Parental Control Spy Apps for Android & iPhone | Narjis Batool | [Read More](https://medium.com/p/307dd7bec45e) |
+| Sun, 13 Jul 2025 16:21:12 GMT | Why Listing Your Business in a Tribe-Centered Directory Like United Tribes Is a Smart Move | LyannaMori | [Read More](https://medium.com/p/67c4053e8ac0) |
 | Sun, 13 Jul 2025 16:12:08 GMT | Your Car’s Software is Outdated—Why That’s Riskier Than a Flat Tire | Aj | [Read More](https://medium.com/p/b5f2e62a671f) |
 | Sun, 13 Jul 2025 16:03:04 GMT | Tardigrade - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/fe9241fb000d) |
 | Sun, 13 Jul 2025 16:02:50 GMT | THM Room: Pickle Rick | Sohan Kanna D | [Read More](https://medium.com/p/a9eab9915b3f) |
@@ -28,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 15:46:56 GMT | My First Android Reverse Engineering Challenge — L3AK CTF: BrainCalc.apk | Shoaib Bin Rashid | [Read More](https://medium.com/p/31ccc69f1154) |
 | Sun, 13 Jul 2025 15:28:10 GMT | Networking Security | oliviaaa | [Read More](https://medium.com/p/d059142cbb57) |
 | Sun, 13 Jul 2025 15:24:19 GMT | Understanding Open Redirect (With a Pizza Story You’ll Never Forget) | Kai Thorne | [Read More](https://medium.com/p/865a68bc9287) |
+| Sun, 13 Jul 2025 15:19:43 GMT | Willkommen im Freibad — bitte ziehen Sie Ihre Selbstachtung aus | Gordon  Stotz | [Read More](https://medium.com/p/57d4cd330bfc) |
 | Sun, 13 Jul 2025 15:18:03 GMT | “  , :  ,  ,  ” | Oluwatosin Esther Oladiran | [Read More](https://medium.com/p/547d71960e34) |
 | Sun, 13 Jul 2025 15:17:20 GMT | Comprehending the Shared Responsibility Model in Cloud Security | Ampcus Cyber | [Read More](https://medium.com/p/b6061111ae68) |
 | Sun, 13 Jul 2025 15:17:12 GMT | Mastering Nmap Live Host Discovery — TryHackMe Walkthrough | Vikash Yadav | [Read More](https://medium.com/p/f2301946f6ce) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 09:48:15 GMT | Der ultimative DORA-Compliance-Software-Leitfaden: Strategische Roadmap für operative Resilienz in… | Philip Hansen | [Read More](https://medium.com/p/17084ce7d47e) |
 | Sun, 13 Jul 2025 09:48:12 GMT | DORA-Compliance: Der ultimative Leitfaden für Finanzinstitute 2025 | Philip Hansen | [Read More](https://medium.com/p/c6eef1fc5e99) |
 | Sun, 13 Jul 2025 09:48:08 GMT | Your Instagram ‘Password Reset’ Email Might Be a Trap | Aj | [Read More](https://medium.com/p/0b8dcfc6bc70) |
-| Sun, 13 Jul 2025 09:34:16 GMT | The Kaseya REvil Ransomware Attack — A $70 Million Demand That Shook the Global MSP Ecosystem | David SEHYEON Baek | [Read More](https://medium.com/p/b1068d88442d) |
-| Sun, 13 Jul 2025 09:34:06 GMT | No, We Don’t Store Your Password. A Simple Guide to Hashing and Salting. | Jayateerth Dambal | [Read More](https://medium.com/p/052e8c0558ed) |
-| Sun, 13 Jul 2025 09:32:40 GMT | Malicious AI Chatbots on Mobile Apps: A Rising Cyber Threat — Kanchustambam Veerababu | KLEAP Institute of Information Security | [Read More](https://medium.com/p/7d242a066ff2) |
-| Sun, 13 Jul 2025 09:28:30 GMT | Nmap Live Host Discovery — TryHackMe Room Summary | TheSocialHacker | [Read More](https://medium.com/p/ae538a3cdf37) |
-| Sun, 13 Jul 2025 09:27:20 GMT | Deep Dive SIEM(SEC555):Part 4 Log Agents | Bit_Picker | [Read More](https://medium.com/p/dbad8feed250) |
-| Sun, 13 Jul 2025 09:26:39 GMT | Security and Compliance in Seven-Layer Agent Architecture: A Comprehensive Defense Strategy | Volodymyr Pavlyshyn | [Read More](https://medium.com/p/66adaa769ef9) |
-| Sun, 13 Jul 2025 09:24:17 GMT | Why Some Bugs Only Happen on Tuesdays (Time-Based Programming Mysteries) | Coders Stop | [Read More](https://medium.com/p/ec721f080c01) |
-| Sun, 13 Jul 2025 09:23:25 GMT | Check for Subdomain Takeover in Symfony: Step-by-Step Guide | Pentest_Testing_Corp | [Read More](https://medium.com/p/f7a182c63bfa) |
-| Sun, 13 Jul 2025 09:22:31 GMT | Web Application Vulnerability Guide (VAPT) — Now Live on GitHub! ️ | Psyduck | [Read More](https://medium.com/p/e586713f33c4) |
-| Sun, 13 Jul 2025 09:21:35 GMT | Get Your Tokens: How To Claim LunaFi $LFI Tokens | $LFI (LunaFi) | [Read More](https://medium.com/p/cb7f4a42f7dc) |
-| Sun, 13 Jul 2025 09:17:14 GMT | JS File Leak Could Lead to App Exploits | Ehtesham Ul Haq | [Read More](https://medium.com/p/260c8f008c00) |
