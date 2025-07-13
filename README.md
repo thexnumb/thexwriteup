@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 19:28:58 GMT | Banks, Breaches, and the Battle for Digital Trust: How Banks are Reinventing Cybersecurity in the… | Mayank B Binjawadagi | [Read More](https://medium.com/p/00c05f64b1dd) |
+| Sun, 13 Jul 2025 19:27:48 GMT | NETWORK SECURITY- CRACKING WIFI PASSWORD | Kanyoko | [Read More](https://medium.com/p/6815639e65ac) |
+| Sun, 13 Jul 2025 19:27:45 GMT | Day 50: Subnets and VLANs | Nile Okomo | [Read More](https://medium.com/p/8ea5860ca336) |
+| Sun, 13 Jul 2025 19:26:51 GMT | Python ile Hacking: Hackviser Programlama Modülü Özeti | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/41b2861a6162) |
+| Sun, 13 Jul 2025 19:16:43 GMT | The Kill Chain write-up | Albertus Meiring | [Read More](https://medium.com/p/c388afe4a800) |
+| Sun, 13 Jul 2025 19:14:46 GMT | Dog - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/6d94f5962d89) |
+| Sun, 13 Jul 2025 19:13:07 GMT | Network Architecture and Security (Part 1 )CySA+ | Bit_Picker | [Read More](https://medium.com/p/1fb54010010f) |
+| Sun, 13 Jul 2025 19:11:23 GMT | Why It’s Time for Firmware Transparency to Be a Legal Requirement in Enterprise Tech | Joshua Napilay | [Read More](https://medium.com/p/bc6f2beef22a) |
 | Sun, 13 Jul 2025 19:11:18 GMT | Double Down on Defense: Why SIEM and XDR Are Your Cybersecurity Power Duo -Max Chaffanjon | Max Chaffanjon | [Read More](https://medium.com/p/016c884ab6b4) |
+| Sun, 13 Jul 2025 19:07:53 GMT | How I Built a Cloud-Native Mini SIEM to Detect Threats and Send Real-Time Alerts | Victoria | [Read More](https://medium.com/p/c005cd370f60) |
 | Sun, 13 Jul 2025 19:01:46 GMT | On-premise Nessus OS Version Upgrade / Lokal Nessus İşletim Sistemi Sürüm Güncellemesi | Ziya DENİZ | [Read More](https://medium.com/p/62c0c5b3c012) |
 | Sun, 13 Jul 2025 18:57:55 GMT | This is what I understood about SSRF! | Priya | [Read More](https://medium.com/p/abd7fd9d5a60) |
 | Sun, 13 Jul 2025 18:57:24 GMT | Why I’m Learning Cybersecurity (And What I’ve Learned So Far) | Bello Al-Amin Tomiwa | [Read More](https://medium.com/p/e5053969dd99) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 13:29:41 GMT | Write — Up NCSA CTF Cyber Bootcamp 2025 | O - Opsifiz | [Read More](https://medium.com/p/4622cd510d08) |
 | Sun, 13 Jul 2025 13:28:32 GMT | TryHackMe Advent Of Cyber 2 (Part 1) [Day 1 to Day 8] | Khyati Shivakumar | [Read More](https://medium.com/p/5c64ce6c2d8b) |
 | Sun, 13 Jul 2025 13:23:41 GMT | The rise of quite quitting 5.0 on social media | S Anuradha | [Read More](https://medium.com/p/76965b2a8b75) |
-| Sun, 13 Jul 2025 13:22:28 GMT | Is Your Bank Account Safe? The Ultimate Shield Against Cybercrooks | Godwin Anyebe | [Read More](https://medium.com/p/0f106fc8f222) |
-| Sun, 13 Jul 2025 13:17:58 GMT | Introduction to AWS WAF | Vikas Taank | [Read More](https://medium.com/p/bbddfab41a78) |
-| Sun, 13 Jul 2025 13:13:54 GMT | Revolucionando la automatización financiera híbrida: Cómo construimos el primer sistema FIAT ⇄… | [cMd_p1nG] | [Read More](https://medium.com/p/b795851fcd32) |
-| Sun, 13 Jul 2025 13:11:14 GMT | Tryhackme — Cyber Kill Chain | HRブログ | [Read More](https://medium.com/p/180f996e4b37) |
-| Sun, 13 Jul 2025 13:10:18 GMT | Smart Cities, Dumb Security: Who Protects the Infrastructure? | The Quiet Hacker | [Read More](https://medium.com/p/0842917645c3) |
-| Sun, 13 Jul 2025 13:05:36 GMT | How I Cracked the Mr. Robot VulnHub Machine: A Step-by-Step Walkthrough | Jadecrystal | [Read More](https://medium.com/p/9bf08011baca) |
-| Sun, 13 Jul 2025 13:02:59 GMT | Collective Intelligence: Realities and Hardships of Crowdsourced Threat Intel — Part 2 | Fry Rob | [Read More](https://medium.com/p/eb75c2853a31) |
-| Sun, 13 Jul 2025 13:02:08 GMT | Abusing Windows Core: The Battle Over svchost.exe | Abdellaoui Ahmed | [Read More](https://medium.com/p/53fa185f4558) |
-| Sun, 13 Jul 2025 13:01:03 GMT | CSP:- Secure Your Website Like a Pro (Without Losing Your Mind) | Sam Atmaramani | [Read More](https://medium.com/p/d9b3b3c43f2b) |
