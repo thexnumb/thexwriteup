@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 20:02:37 GMT | From Cloud Curiosity to Career Confidence: My Journey with the AWS Emerging Talent Community | itguy7 | [Read More](https://medium.com/p/93627282d54a) |
+| Sun, 13 Jul 2025 19:55:51 GMT | How I got hacked with npm install | Bailey Vidova | [Read More](https://medium.com/p/d4228aa2c5b2) |
+| Sun, 13 Jul 2025 19:48:06 GMT | They Sold a Management System Without a Lock — And Called It a Product | Aryan Shrestha | [Read More](https://medium.com/p/7910173f6d8b) |
+| Sun, 13 Jul 2025 19:42:02 GMT | Operation Wall Breach: Sysmon Threat Hunt — A Scout Regiment Case File | Andrew Williams | [Read More](https://medium.com/p/e8e71672de55) |
+| Sun, 13 Jul 2025 19:35:56 GMT | JWTs Were Fine… Until Our App Got Hacked | CodeOps | [Read More](https://medium.com/p/4af31e455d85) |
 | Sun, 13 Jul 2025 19:28:58 GMT | Banks, Breaches, and the Battle for Digital Trust: How Banks are Reinventing Cybersecurity in the… | Mayank B Binjawadagi | [Read More](https://medium.com/p/00c05f64b1dd) |
 | Sun, 13 Jul 2025 19:27:48 GMT | NETWORK SECURITY- CRACKING WIFI PASSWORD | Kanyoko | [Read More](https://medium.com/p/6815639e65ac) |
 | Sun, 13 Jul 2025 19:27:45 GMT | Day 50: Subnets and VLANs | Nile Okomo | [Read More](https://medium.com/p/8ea5860ca336) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 13:52:57 GMT | Nmap 101: Scanning My First Target | Goose Gustin | [Read More](https://medium.com/p/91cb5e3c808c) |
 | Sun, 13 Jul 2025 13:52:24 GMT | What are Firewalls- The first line of Defence. | err0rgod | [Read More](https://medium.com/p/969099d5dfa6) |
 | Sun, 13 Jul 2025 13:46:18 GMT | Hijacking the DOM: How Innocent HTML Can Lead to Full Account Takeovers | Monika sharma | [Read More](https://medium.com/p/d990a27162a4) |
-| Sun, 13 Jul 2025 13:44:33 GMT | PortSwigger Lab: SQL injection attack, listing the database contents on non-Oracle databases… | awes0meness | [Read More](https://medium.com/p/cf1e60bac177) |
-| Sun, 13 Jul 2025 13:35:01 GMT | $$ Unlocking Hidden Vulnerabilities: Uncovering Business Logic Flaws in Modern Web Apps | Aman Sharma | [Read More](https://medium.com/p/dc5bf1be1e2d) |
-| Sun, 13 Jul 2025 13:29:41 GMT | Write — Up NCSA CTF Cyber Bootcamp 2025 | O - Opsifiz | [Read More](https://medium.com/p/4622cd510d08) |
-| Sun, 13 Jul 2025 13:28:32 GMT | TryHackMe Advent Of Cyber 2 (Part 1) [Day 1 to Day 8] | Khyati Shivakumar | [Read More](https://medium.com/p/5c64ce6c2d8b) |
-| Sun, 13 Jul 2025 13:23:41 GMT | The rise of quite quitting 5.0 on social media | S Anuradha | [Read More](https://medium.com/p/76965b2a8b75) |
