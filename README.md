@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 11:03:02 GMT | Erit Securus I tryhackme Walkthrough | Kelvin TC Law | [Read More](https://medium.com/p/88b4d81d2b46) |
+| Sun, 13 Jul 2025 10:56:43 GMT | Part4: Data Link Layer Explained: A Deep Dive Into Protocols, Error Control, and MAC | White Panther | [Read More](https://medium.com/p/653365eea6b7) |
+| Sun, 13 Jul 2025 10:56:41 GMT | Staying Safe on Dating Sites: Why Caution is Essential | Hulkshe | [Read More](https://medium.com/p/85df897586c0) |
+| Sun, 13 Jul 2025 10:48:46 GMT | Zama and Fully Homomorphic Encryption: Revolutionizing Data Privacy and Blockchain | cr1ptomax | [Read More](https://medium.com/p/455401b68639) |
+| Sun, 13 Jul 2025 10:47:49 GMT | picoCTF — Unminify | Robby firdauzy | [Read More](https://medium.com/p/09a8675453a8) |
 | Sun, 13 Jul 2025 10:33:12 GMT | TryHackMe Olympus — Walkthrough | mauzware | [Read More](https://medium.com/p/cabe072cb616) |
 | Sun, 13 Jul 2025 10:32:45 GMT | “RXSS! on Mercedes-Benz” | TSxNINJA | [Read More](https://medium.com/p/71a839da2d31) |
 | Sun, 13 Jul 2025 10:31:11 GMT | The Danger of 403 Responses: Why Security Through Status Code Doesn’t Work | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9629526dbb6c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 03:53:38 GMT | Lead With Purpose and Trust | Donny Kurniawan | [Read More](https://medium.com/p/d9a4ad3f9588) |
 | Sun, 13 Jul 2025 03:53:20 GMT | Bureau 39: North Korea’s Secretive Financial Operation | David SEHYEON Baek | [Read More](https://medium.com/p/dee2461aa0df) |
 | Sun, 13 Jul 2025 03:48:23 GMT | How BPFDoor Became a Strategic Threat to Critical Infrastructure | David SEHYEON Baek | [Read More](https://medium.com/p/3da0a38a475e) |
-| Sun, 13 Jul 2025 03:41:45 GMT | GALLERY-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/d74afd21f762) |
-| Sun, 13 Jul 2025 03:41:30 GMT | China’s Expanding Cyberwarfare Strategy — Global Ambitions, Espionage Networks, and the Rise of a… | David SEHYEON Baek | [Read More](https://medium.com/p/87deb4fe1239) |
-| Sun, 13 Jul 2025 03:40:00 GMT | ChainBounty Announces Launch Event: Win BOUNTY Today | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/cbd82f9fbc62) |
-| Sun, 13 Jul 2025 03:31:48 GMT | Inside the DaVita Ransomware Attack: How InterLock Breached the Heart of Healthcare | Deven Chhajed | [Read More](https://medium.com/p/e9f4722915c9) |
-| Sun, 13 Jul 2025 03:24:13 GMT | What Leaked LockBit Screenshots Reveal About Building a Criminal Empire with Startup Precision and… | David SEHYEON Baek | [Read More](https://medium.com/p/3f257ad9913e) |
