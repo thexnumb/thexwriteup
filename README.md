@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 20:34:51 GMT | No, Virginia, There Are No Cyber Jobs | Dr. Daniel Ward | [Read More](https://medium.com/p/42f2d6300dec) |
+| Sun, 13 Jul 2025 20:34:31 GMT | I Tried Doing Bug Bounty For 1 Year And This Is What I Earned In 12 months | Rehansohailultimate | [Read More](https://medium.com/p/8e3fa5ce0a63) |
+| Sun, 13 Jul 2025 20:34:26 GMT | McHire Meltdown: How a Weak Password Put McDonald’s Applicant Data at Risk in July 2025 | SoumayaJoshi | [Read More](https://medium.com/p/c0ea58a80f61) |
+| Sun, 13 Jul 2025 20:31:35 GMT | Facebook Password Case Sensitivity: A Security Flaw or UX Feature? | Zhir Salih | [Read More](https://medium.com/p/a7d9122f19ad) |
+| Sun, 13 Jul 2025 20:19:38 GMT | Understanding CORS: Why That Error Happens and How to Fix It | Sonali Nogja | [Read More](https://medium.com/p/0ced93765603) |
+| Sun, 13 Jul 2025 20:19:35 GMT | Failed RDP Honeypot Lab | Xp | [Read More](https://medium.com/p/0492be257370) |
 | Sun, 13 Jul 2025 20:02:37 GMT | From Cloud Curiosity to Career Confidence: My Journey with the AWS Emerging Talent Community | itguy7 | [Read More](https://medium.com/p/93627282d54a) |
 | Sun, 13 Jul 2025 19:55:51 GMT | How I got hacked with npm install | Bailey Vidova | [Read More](https://medium.com/p/d4228aa2c5b2) |
 | Sun, 13 Jul 2025 19:48:06 GMT | They Sold a Management System Without a Lock — And Called It a Product | Aryan Shrestha | [Read More](https://medium.com/p/7910173f6d8b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 14:38:53 GMT | “Check-In, Never Check Out” | Pamela abednigo | [Read More](https://medium.com/p/beae5093f6c3) |
 | Sun, 13 Jul 2025 14:34:02 GMT | Security Implications of the Principle of Duality in Buffer Overflow Exploits | Allen Ace | [Read More](https://medium.com/p/ebb854b2c3a5) |
 | Sun, 13 Jul 2025 14:21:54 GMT | #10–4 “빠르게 배우고, 빠르게 활용하라” — ESG 세미나 종합 & 회고 | RowLog : 뱃사공의 로그북 | [Read More](https://medium.com/p/eca76a3362cb) |
-| Sun, 13 Jul 2025 14:11:46 GMT | PortSwigger Lab: Blind SQL injection with conditional errors writeup (SQL injection) | awes0meness | [Read More](https://medium.com/p/e6d04099cfec) |
-| Sun, 13 Jul 2025 14:05:28 GMT | When Agentic AI Thinks for Itself : Who Guards the Data? | Roshini Fernando | [Read More](https://medium.com/p/919ba9c74aff) |
-| Sun, 13 Jul 2025 14:00:36 GMT | PortSwigger Lab: Blind SQL injection with conditional responses writeup (SQL injection) | awes0meness | [Read More](https://medium.com/p/61b543e768e6) |
-| Sun, 13 Jul 2025 13:52:57 GMT | Nmap 101: Scanning My First Target | Goose Gustin | [Read More](https://medium.com/p/91cb5e3c808c) |
-| Sun, 13 Jul 2025 13:52:24 GMT | What are Firewalls- The first line of Defence. | err0rgod | [Read More](https://medium.com/p/969099d5dfa6) |
-| Sun, 13 Jul 2025 13:46:18 GMT | Hijacking the DOM: How Innocent HTML Can Lead to Full Account Takeovers | Monika sharma | [Read More](https://medium.com/p/d990a27162a4) |
