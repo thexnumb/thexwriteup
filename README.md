@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 13 Jul 2025 14:34:02 GMT | Security Implications of the Principle of Duality in Buffer Overflow Exploits | Allen Ace | [Read More](https://medium.com/p/ebb854b2c3a5) |
 | Sun, 13 Jul 2025 14:11:46 GMT | PortSwigger Lab: Blind SQL injection with conditional errors writeup (SQL injection) | awes0meness | [Read More](https://medium.com/p/e6d04099cfec) |
 | Sun, 13 Jul 2025 14:05:28 GMT | When Agentic AI Thinks for Itself : Who Guards the Data? | Roshini Fernando | [Read More](https://medium.com/p/919ba9c74aff) |
 | Sun, 13 Jul 2025 14:00:36 GMT | PortSwigger Lab: Blind SQL injection with conditional responses writeup (SQL injection) | awes0meness | [Read More](https://medium.com/p/61b543e768e6) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 07:02:51 GMT | How I Got Started in Penetration Testing | Muhammad Usama | [Read More](https://medium.com/p/be1ad96b6dcf) |
 | Sun, 13 Jul 2025 07:01:21 GMT | Who’s Afraid of the Big Bad Passkey? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/f4cb7070a3f9) |
 | Sun, 13 Jul 2025 06:57:19 GMT | PortSwigger Lab — NoSQL Injection | k1dd0sz | [Read More](https://medium.com/p/2d2ab6b103f2) |
-| Sun, 13 Jul 2025 06:53:52 GMT | Want to bolster your CI/CD pipeline Security? | Nazeer | [Read More](https://medium.com/p/b0d9aac40733) |
