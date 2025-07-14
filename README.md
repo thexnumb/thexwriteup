@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 11:26:59 GMT | Why Users Don’t Trust Your App and How to Fix It | Cogntix Blog | [Read More](https://medium.com/p/626f44e4f9af) |
+| Mon, 14 Jul 2025 11:24:36 GMT | SOCFortres5: Google Gemini Vulnerability in Workspace Allows Stealthy Email-Based Script Injection | Darshan | [Read More](https://medium.com/p/10cf08f9d2e6) |
+| Mon, 14 Jul 2025 11:22:12 GMT | ️‍♂️ Mastering OSINT: How to Find Information on Anyone | Vipul Sonule | [Read More](https://medium.com/p/9185be6f9429) |
+| Mon, 14 Jul 2025 11:20:59 GMT | SOCFortres5: Louis Vuitton Data Breach Exposes Customer Information in Sophisticated Cyberattack | Darshan | [Read More](https://medium.com/p/11871ca995f9) |
+| Mon, 14 Jul 2025 11:16:56 GMT | Whois: The Internet’s Phone Book | Goose Gustin | [Read More](https://medium.com/p/744bbf3a5ea0) |
+| Mon, 14 Jul 2025 11:16:32 GMT | ️‍♂️ Footprinting Lab — Hard Walkthrough | ShortGiant | [Read More](https://medium.com/p/58e8bc43ee65) |
+| Mon, 14 Jul 2025 11:14:53 GMT | TryHackMe Annie — Walkthrough | mauzware | [Read More](https://medium.com/p/7006e0baf2f4) |
 | Mon, 14 Jul 2025 11:13:19 GMT | Конфиденциальность в Web3: Что такое “невидимый блокчейн” от Phala? | vizimnokh | [Read More](https://medium.com/p/e3eb26bfc38b) |
 | Mon, 14 Jul 2025 11:12:08 GMT | Three Drinks and a Breakdown: My AI, Unfiltered | Kristina Bogović | [Read More](https://medium.com/p/d2ed3e95fb15) |
 | Mon, 14 Jul 2025 11:01:49 GMT | Cyber Security Awareness Training: Outsmart the Hackers | ovofarm | [Read More](https://medium.com/p/1ba78484eefb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 06:01:53 GMT | Comprehensive Guide to NextAuth.js for Secure Authentication | @rnab | [Read More](https://medium.com/p/1a97ca205b1d) |
 | Mon, 14 Jul 2025 06:00:23 GMT | Today’s Top Cyber Intelligence Highlights — Jul 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3ef2fb7ae522) |
 | Mon, 14 Jul 2025 05:58:58 GMT | Flash USDT Isn’t What You Think — Here’s the Truth | Pasov | [Read More](https://medium.com/p/c20198173aa2) |
-| Mon, 14 Jul 2025 05:57:05 GMT | I Didn’t Want to Be Here Anymore. | lune | [Read More](https://medium.com/p/4034304afc5b) |
-| Mon, 14 Jul 2025 05:53:47 GMT | Sneaky Patch Tryhackme Writeup | GauthamV | [Read More](https://medium.com/p/47f78c1701b9) |
-| Mon, 14 Jul 2025 05:53:44 GMT | Quantum Computing vs Encryption: How the Future of Cybersecurity Is Being Rewritten | Awsh Story | [Read More](https://medium.com/p/0f73d6ed8a03) |
-| Mon, 14 Jul 2025 05:51:10 GMT | Grav: From Zero to Root — Exploiting GravCMS RCE and SUID in Practice | Nail Gozalov | [Read More](https://medium.com/p/9ae83e13c2d3) |
-| Mon, 14 Jul 2025 05:44:25 GMT | Cybersecurity Basics Every Internet User Should Know | Charleskerren | [Read More](https://medium.com/p/ea9a4a29970f) |
-| Mon, 14 Jul 2025 05:39:24 GMT | Linux Networking-Part-1: Netplan The IP Master | Karthick Dkk | [Read More](https://medium.com/p/8a6ea78a2f15) |
-| Mon, 14 Jul 2025 05:38:00 GMT | Understanding and Preventing Broken Access Control: OWASP Top 10:2021’s #1 Risk | Hussein Reda | [Read More](https://medium.com/p/6e520d0b1df2) |
