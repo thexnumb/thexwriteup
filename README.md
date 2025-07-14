@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 06:29:08 GMT | When Support Is Silent | Umaa Arun | [Read More](https://medium.com/p/e02707bc2e46) |
+| Mon, 14 Jul 2025 06:28:42 GMT | Simulating and Detecting SSH Brute-Force Attacks Using Wazuh on Ubuntu | 0xLeonidas | [Read More](https://medium.com/p/02b2591190b6) |
+| Mon, 14 Jul 2025 06:26:31 GMT | Are Mongo Object IDs really random? | vastavik_anurag | [Read More](https://medium.com/p/1b6f9c83d04d) |
+| Mon, 14 Jul 2025 06:23:18 GMT | From Suspect to Solver: The Digital Forensics Case Journey | The Commoness | [Read More](https://medium.com/p/19b8a6caae9c) |
+| Mon, 14 Jul 2025 06:21:09 GMT | Android Logcat: The Hidden Goldmine of Sensitive Data for Pentesters | Blue_eye | [Read More](https://medium.com/p/66a11109781a) |
+| Mon, 14 Jul 2025 06:16:27 GMT | Meet urlscanner: A Better Way to Use urlscan.io from Your Terminal | محمد بن إبراهيم | [Read More](https://medium.com/p/b677995b9359) |
+| Mon, 14 Jul 2025 06:15:19 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/3ee0e149f48a) |
+| Mon, 14 Jul 2025 06:09:06 GMT | Mastering HIPAA: Rules, Compliance, and Best Practices for Data Security | Ampcus Cyber | [Read More](https://medium.com/p/7a0fa98a2414) |
+| Mon, 14 Jul 2025 06:01:53 GMT | Comprehensive Guide to NextAuth.js for Secure Authentication | @rnab | [Read More](https://medium.com/p/1a97ca205b1d) |
+| Mon, 14 Jul 2025 06:00:23 GMT | Today’s Top Cyber Intelligence Highlights — Jul 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3ef2fb7ae522) |
+| Mon, 14 Jul 2025 05:58:58 GMT | Flash USDT Isn’t What You Think — Here’s the Truth | Pasov | [Read More](https://medium.com/p/c20198173aa2) |
+| Mon, 14 Jul 2025 05:57:05 GMT | I Didn’t Want to Be Here Anymore. | lune | [Read More](https://medium.com/p/4034304afc5b) |
+| Mon, 14 Jul 2025 05:53:47 GMT | Sneaky Patch Tryhackme Writeup | GauthamV | [Read More](https://medium.com/p/47f78c1701b9) |
+| Mon, 14 Jul 2025 05:53:44 GMT | Quantum Computing vs Encryption: How the Future of Cybersecurity Is Being Rewritten | Awsh Story | [Read More](https://medium.com/p/0f73d6ed8a03) |
+| Mon, 14 Jul 2025 05:51:10 GMT | Grav: From Zero to Root — Exploiting GravCMS RCE and SUID in Practice | Nail Gozalov | [Read More](https://medium.com/p/9ae83e13c2d3) |
 | Mon, 14 Jul 2025 05:44:25 GMT | Cybersecurity Basics Every Internet User Should Know | Charleskerren | [Read More](https://medium.com/p/ea9a4a29970f) |
+| Mon, 14 Jul 2025 05:39:24 GMT | Linux Networking-Part-1: Netplan The IP Master | Karthick Dkk | [Read More](https://medium.com/p/8a6ea78a2f15) |
+| Mon, 14 Jul 2025 05:38:00 GMT | Understanding and Preventing Broken Access Control: OWASP Top 10:2021’s #1 Risk | Hussein Reda | [Read More](https://medium.com/p/6e520d0b1df2) |
 | Mon, 14 Jul 2025 05:37:54 GMT | What’s under the hood of the AI engine, and why is it important to understand its power? | Sam | [Read More](https://medium.com/p/8d3c2d089667) |
 | Mon, 14 Jul 2025 05:34:02 GMT | How to Add reCAPTCHA on WordPress for Better Security | Wpelementothemes | [Read More](https://medium.com/p/e1cdca6c14c3) |
 | Mon, 14 Jul 2025 05:33:12 GMT | Building Your Cybersecurity Toolkit: Advanced Tools for Complete Protection (Part 2) | Xperts Unimited | [Read More](https://medium.com/p/e1983d197393) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 22:29:48 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 8: Operation (5/7) | Aaron Rusz | [Read More](https://medium.com/p/4307ad37cce2) |
 | Sun, 13 Jul 2025 22:27:11 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 7: Support (4/7) | Aaron Rusz | [Read More](https://medium.com/p/544fe2ee5cdb) |
 | Sun, 13 Jul 2025 22:22:35 GMT | The Role of Bank Transactions in Combating Financial Scams — and Why Prevention Still Matters Most | Pmyzuy | [Read More](https://medium.com/p/3c6d06871bf0) |
-| Sun, 13 Jul 2025 22:16:56 GMT | AI in Malware: How to Detect Mutating Threats | Karthikeyan Nagaraj | [Read More](https://medium.com/p/4620152c8931) |
-| Sun, 13 Jul 2025 22:10:04 GMT | Hide and Seek - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/db1d2d7d9928) |
-| Sun, 13 Jul 2025 22:06:54 GMT | I Bypassed a Strict WAF Using Simple SQL Tricks | Ibtissam hammadi | [Read More](https://medium.com/p/2fafc3d5697f) |
-| Sun, 13 Jul 2025 21:53:13 GMT | Best Cybersecurity Tools to Protect your Online Business | Appsec.pt | [Read More](https://medium.com/p/b6bddc4498c6) |
-| Sun, 13 Jul 2025 21:52:09 GMT | SOC Analysis of Event 235: SOC127 — SQL Injection Detected — Let’s Defend | Ray Maiden | [Read More](https://medium.com/p/b95f42e23a3c) |
-| Sun, 13 Jul 2025 21:49:59 GMT | Hacking My Way Through OverTheWire Bandit: Level 0–22 | D. Warmann | [Read More](https://medium.com/p/42ce7abf1ca5) |
-| Sun, 13 Jul 2025 21:41:26 GMT | Exploring the Benefits of ELLIPAL Hardware Wallets and Seed Phrase Steel Plates | Karnasmetanet | [Read More](https://medium.com/p/9df549b702f2) |
-| Sun, 13 Jul 2025 21:38:07 GMT | [Project 002] Operation Broken Gate: Web Recon at Shiganshina — A Cadet Corps Case File | Andrew Williams | [Read More](https://medium.com/p/dd4a55b9ca88) |
-| Sun, 13 Jul 2025 21:33:26 GMT | What Your Friends Don’t Know About Passwords. | Catherine Ma | [Read More](https://medium.com/p/4730412e900c) |
-| Sun, 13 Jul 2025 21:32:37 GMT | صیغه کرمان صیغه شهربابک صیغه انار صیغه کوهبنان صیغه سیرجان صیغه زرند صیغه رفسنجان صیغه بافت صیغه… | صیغه یابی صیغه حلال 223 | [Read More](https://medium.com/p/fae8acca5975) |
-| Sun, 13 Jul 2025 21:32:13 GMT | صیغه کرمان صیغه شهربابک صیغه انار صیغه کوهبنان صیغه سیرجان صیغه زرند صیغه رفسنجان صیغه بافت صیغه… | صیغه یابی صیغه حلال 223 | [Read More](https://medium.com/p/4bcf17806828) |
-| Sun, 13 Jul 2025 21:30:05 GMT | Breaking XSS GYM Labs – Exploiting 20 Levels of XSS (Reflected, Stored & DOM) | M. Mustafa Hussaini | [Read More](https://medium.com/p/27a7e5039407) |
-| Sun, 13 Jul 2025 21:27:34 GMT | HoneyPot Nedir ? | Azat Dicle | [Read More](https://medium.com/p/c15b6c12840b) |
-| Sun, 13 Jul 2025 21:23:46 GMT | Sosyal Mühendislik | Bedirhan Yigit | [Read More](https://medium.com/p/d296763dbc62) |
-| Sun, 13 Jul 2025 21:15:37 GMT | How I Discovered an Open Redirect Using X-Forwarded-Host – A Bug Bounty Story with Real-World… | Levi Ackerman | [Read More](https://medium.com/p/792d66eaffff) |
-| Sun, 13 Jul 2025 21:09:18 GMT | Stop Secret Leaks Before They Happen: Mastering Gitleaks for DevSecOps Pipelines | Giovanny Orjuela | [Read More](https://medium.com/p/633d0f975162) |
-| Sun, 13 Jul 2025 21:07:22 GMT | Basic Pentesting — TryHackMe Walkthrough | esistdini | [Read More](https://medium.com/p/bbfd8fac5da8) |
