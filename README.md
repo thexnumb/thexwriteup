@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 14:20:45 GMT | PortSwigger Lab: Blind SQL injection with time delays and information retrieval writeup (SQL… | awes0meness | [Read More](https://medium.com/p/a98f090c8bc0) |
+| Mon, 14 Jul 2025 14:20:27 GMT | PortSwigger Lab: Visible error-based SQL injection writeup (SQL Injection) | awes0meness | [Read More](https://medium.com/p/547a7473ec37) |
+| Mon, 14 Jul 2025 14:18:13 GMT | Home Security Showdown: Blink Mini, Ring Stick Up Cam, or Blink Floodlight? | Kivora | [Read More](https://medium.com/p/eb158f3be91b) |
+| Mon, 14 Jul 2025 14:16:36 GMT | Sooner or Later, We Are All Superheroes
+Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.com/p/4d806161a184) |
+| Mon, 14 Jul 2025 14:06:48 GMT | Business Logic Bug to Bypass NO’s | Mustafa Abdullah | [Read More](https://medium.com/p/6b7472e87814) |
+| Mon, 14 Jul 2025 14:03:59 GMT | Kubernetes Security: Understanding RBAC and Security Contexts | The Devops Girl | [Read More](https://medium.com/p/f5608b1750de) |
+| Mon, 14 Jul 2025 14:03:08 GMT | Cyber Briefing: 2025.07.14 | CyberMaterial | [Read More](https://medium.com/p/4d0ee23b73f3) |
+| Mon, 14 Jul 2025 14:03:03 GMT | How Cybersecurity Companies in Ontario Are Tackling Human Error | Zeta Sky | [Read More](https://medium.com/p/18d32291efd1) |
+| Mon, 14 Jul 2025 14:03:02 GMT | GitsWhy - The Future of DevSecOps for Developers | GitsWhy | [Read More](https://medium.com/p/51975753c60c) |
+| Mon, 14 Jul 2025 14:03:00 GMT | Guide: Receive CVE During the Upcoming Treasure Rollout | Curvance | [Read More](https://medium.com/p/fa0973a8f22a) |
+| Mon, 14 Jul 2025 13:52:58 GMT | Reaping Without Sowing: A Glimpse at theHarvester | Goose Gustin | [Read More](https://medium.com/p/b62b2774cf67) |
+| Mon, 14 Jul 2025 13:50:28 GMT | DORA und ISO 27001: Der strategische Compliance-Leitfaden für Finanzinstitute | Philip Hansen | [Read More](https://medium.com/p/e562afaf2192) |
+| Mon, 14 Jul 2025 13:49:49 GMT | NIS2 vs. DORA: Der ultimative Strategieleitfaden für EU-Compliance-Führungskräfte | Philip Hansen | [Read More](https://medium.com/p/fb36a4b16809) |
+| Mon, 14 Jul 2025 13:49:41 GMT | DORA Audit Readiness: Wie Finanzunternehmen 2025 Compliance-Herausforderungen meistern | Philip Hansen | [Read More](https://medium.com/p/42ba4d51147f) |
+| Mon, 14 Jul 2025 13:47:17 GMT | picoCTF — Local Authority | Robby firdauzy | [Read More](https://medium.com/p/afe1f0fc6171) |
+| Mon, 14 Jul 2025 13:40:04 GMT | Walkthrough THM Smol | Telynor | [Read More](https://medium.com/p/62a84b1df6d7) |
+| Mon, 14 Jul 2025 13:33:39 GMT | Building the Future of Cybersecurity: An AI-Driven SOC Platform with Reinforcement Learning | ca | [Read More](https://medium.com/p/a542820d9db8) |
 | Mon, 14 Jul 2025 13:26:58 GMT | The Day the ATM Spoke: A Cybersecurity Thriller In Broad Daylight | O. J. Okpabi | [Read More](https://medium.com/p/e2c0dc0915ee) |
 | Mon, 14 Jul 2025 13:26:57 GMT | How I Hijacked 100+ Accounts with Just a URL Change (IDOR + XSS Chain) | Ibtissam hammadi | [Read More](https://medium.com/p/459a95f0da6c) |
 | Mon, 14 Jul 2025 13:23:47 GMT | Click. Regret. Repeat.: Anatomy Of A Cyber Trap | O. J. Okpabi | [Read More](https://medium.com/p/c2a5b13fbaf4) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 09:59:22 GMT | Vulnerability Scanning with Nessus | X2Tech | [Read More](https://medium.com/p/3b4b69fbabb3) |
 | Mon, 14 Jul 2025 09:57:49 GMT | Pass Keys Revolution: Say Goodbye to Passwords Forever! | Tech Ai Vision | [Read More](https://medium.com/p/8d8ecf4a0e19) |
 | Mon, 14 Jul 2025 09:41:44 GMT | Join the SLA police: learn how MSSPs skew SOC metrics in their favor | Rafal Kitab | [Read More](https://medium.com/p/7ae40aec962c) |
-| Mon, 14 Jul 2025 09:35:35 GMT | Stay Ahead of Attacks with Expert Cyber Security Providers in Mumbai | Nexasoft Infinity | [Read More](https://medium.com/p/21238df6d43b) |
-| Mon, 14 Jul 2025 09:31:59 GMT | Latrodectus: The Evolution of a Malware Loader (with Detection Engineering notes) | Siddhant Mishra | [Read More](https://medium.com/p/0308a2d46a1f) |
-| Mon, 14 Jul 2025 09:25:43 GMT | ZeroTrustScope | Saiprudhviraja | [Read More](https://medium.com/p/a65a6342be82) |
-| Mon, 14 Jul 2025 09:21:12 GMT | Claim Your Share of Bug's Distribution Wave and Enjoy exclusive bonuses | Bug | [Read More](https://medium.com/p/bf76d3ff07be) |
-| Mon, 14 Jul 2025 09:17:56 GMT | ISMS Explained: Crush Cyber Threats And Skyrocket Credibility | SecureSlate | [Read More](https://medium.com/p/a9e0e2735503) |
-| Mon, 14 Jul 2025 09:12:48 GMT | How to Get Real IPs Through FRP with SafeLine WAF | Quella | [Read More](https://medium.com/p/3cab90f64792) |
-| Mon, 14 Jul 2025 09:01:58 GMT | Google Account Remote Sign-Out: The Unintended Risk That Could Expose Sensitive Data | CSN | [Read More](https://medium.com/p/19120e749b0b) |
-| Mon, 14 Jul 2025 08:58:58 GMT | Beyond the Math: Crafting Your Hacker Playbook | Bumi Aryadirangga | [Read More](https://medium.com/p/71c5ca2bd126) |
-| Mon, 14 Jul 2025 08:55:23 GMT | Inside the Secret Telegram Channels Fueling Middle East Conflicts | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/be929c9af913) |
-| Mon, 14 Jul 2025 08:47:12 GMT | Before AI Betrays You: The Must-Read Guide from OWASP on Data Protection | Pallavi S V | [Read More](https://medium.com/p/2ba7d7c26e42) |
-| Mon, 14 Jul 2025 08:36:54 GMT | OAuth2 for Developers Who Hate Reading Specs | The Outage Specialist | [Read More](https://medium.com/p/73e5b8c382fa) |
-| Mon, 14 Jul 2025 08:32:05 GMT | The Unspoken Cost of “Free” | E. Ibrahimi | [Read More](https://medium.com/p/b97106fd49eb) |
-| Mon, 14 Jul 2025 08:31:44 GMT | School Dropoff | Jason Tabrett | [Read More](https://medium.com/p/2a298c0057e9) |
-| Mon, 14 Jul 2025 08:27:45 GMT | Kubernetes Secrets Aren’t Secret Enough | Dev engineer | [Read More](https://medium.com/p/2281e5b3fe41) |
-| Mon, 14 Jul 2025 08:25:56 GMT | Red Flag Marketing: How I Dodged Pitfalls in Finding My Cybersecurity Path | Abraham Eleojo Salifu | [Read More](https://medium.com/p/59edcb323f57) |
-| Mon, 14 Jul 2025 08:22:53 GMT | How To Win A Man’s Heart — What Really Works | Kate B | [Read More](https://medium.com/p/6d1a35f551e9) |
-| Mon, 14 Jul 2025 08:20:49 GMT | The Daily Tech Digest: 14 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f6fd9c830ab6) |
