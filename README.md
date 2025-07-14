@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 12:40:58 GMT | The Unseen Cyber Threats of 2025: Build Your Digital Armor Before It’s Too Late | Ed Yende | [Read More](https://medium.com/p/c2a66d3aee1a) |
+| Mon, 14 Jul 2025 12:37:12 GMT | CTF Day(31) | Ahmed Narmer | [Read More](https://medium.com/p/d12990545196) |
+| Mon, 14 Jul 2025 12:35:54 GMT | SOC104 — Malware Detected | Sohan Kanna D | [Read More](https://medium.com/p/94519cd57d88) |
+| Mon, 14 Jul 2025 12:33:43 GMT | Silent Breach Lab Writeup (CyberDefenders) | Loay Salah | [Read More](https://medium.com/p/c766dc7a9acb) |
+| Mon, 14 Jul 2025 12:32:15 GMT | Top Industry Use Cases for Reconciliation Software in 2025 | Kosh AI | [Read More](https://medium.com/p/fe79d34cd6ba) |
+| Mon, 14 Jul 2025 12:30:52 GMT | You Don’t Have to Be Whole to Be Beautiful. | Yami05 | [Read More](https://medium.com/p/a3143e7f234c) |
+| Mon, 14 Jul 2025 12:28:46 GMT | Ditching The Debugger | Itz.sanskarr | [Read More](https://medium.com/p/2bb09eea3101) |
+| Mon, 14 Jul 2025 12:25:07 GMT | Stolen Mount - Investigate an NFS Breach via PCAP Forensics - CTF Write-Up | cxburprat.dx0 | [Read More](https://medium.com/p/2e9d8e557264) |
+| Mon, 14 Jul 2025 12:24:54 GMT | Debugging my code and My life | Jimmy carter | [Read More](https://medium.com/p/162cfc14cfb2) |
+| Mon, 14 Jul 2025 12:16:18 GMT | How Hybrid SOC Services Align with Zero Trust Security Models | sanya | [Read More](https://medium.com/p/bf8b8de79463) |
+| Mon, 14 Jul 2025 12:15:54 GMT | OSINT Flag Hunting — Industrial Intrusion CTF 2025 | TraceX0 | [Read More](https://medium.com/p/5251fc620f1d) |
+| Mon, 14 Jul 2025 12:15:43 GMT | Understanding the P5 Process in Global Nuclear Governance | Soedirman Center for Global Studies | [Read More](https://medium.com/p/0e26d765be95) |
+| Mon, 14 Jul 2025 12:15:28 GMT | UNAUTHENTICATED, REMOTE CODE EXECUTION(RCE), ROOT-LEVEL ACCESS (CVSS 10.0): | RABIU SULEIMAN | [Read More](https://medium.com/p/8fc70e022d59) |
+| Mon, 14 Jul 2025 12:12:37 GMT | Web Cache Poisoning | Azer Abdullazde | [Read More](https://medium.com/p/4936ddecf19d) |
+| Mon, 14 Jul 2025 12:12:25 GMT | MITRE ATT&CK Threat Mapping Report — Bybit Incident | Kelechi Onwuka | [Read More](https://medium.com/p/966a901bd576) |
+| Mon, 14 Jul 2025 12:10:05 GMT | DC-2 VulnHub Walkthrough | Aadi | [Read More](https://medium.com/p/3ac3dfb67319) |
+| Mon, 14 Jul 2025 12:07:09 GMT | How can I stop hackers from penetrating my payment gateway services? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/722af7d9e39f) |
+| Mon, 14 Jul 2025 12:02:59 GMT | Code Undercover: Unveiling the Secrets of Real-World Bugs | Faith Alabi Erioluwa | [Read More](https://medium.com/p/1d3e11476098) |
+| Mon, 14 Jul 2025 11:59:29 GMT | The Joy and Terror of Being Seen as Your Full Self | Anushka | [Read More](https://medium.com/p/e2c9f57bf367) |
+| Mon, 14 Jul 2025 11:52:55 GMT | The Ego Trap: Why Humility Outperforms Confidence in Building Trust | Jeff Hough | [Read More](https://medium.com/p/ba6078ef28d0) |
+| Mon, 14 Jul 2025 11:50:09 GMT | SOCFortres5: eSIM Flaw in Kigen’s eUICC Cards Puts Billions of IoT Devices at Risk | Darshan | [Read More](https://medium.com/p/cd5558e61e18) |
+| Mon, 14 Jul 2025 11:48:32 GMT | Business Logic Vulnerabilities part-4 : Flawed enforcement of business rules | Ahmad Sopyan | [Read More](https://medium.com/p/671c7d48b305) |
+| Mon, 14 Jul 2025 11:42:08 GMT | The Most Overlooked Cloud Security Flaws in 2025 (with examples) — Part 1 | Andrei Ivan | [Read More](https://medium.com/p/cbae4da1b106) |
+| Mon, 14 Jul 2025 11:28:44 GMT | Getting Started with Hardware Hacking: Your Beginner’s Toolkit | Redfox Security | [Read More](https://medium.com/p/19972e71efea) |
 | Mon, 14 Jul 2025 11:26:59 GMT | Why Users Don’t Trust Your App and How to Fix It | Cogntix Blog | [Read More](https://medium.com/p/626f44e4f9af) |
 | Mon, 14 Jul 2025 11:24:36 GMT | SOCFortres5: Google Gemini Vulnerability in Workspace Allows Stealthy Email-Based Script Injection | Darshan | [Read More](https://medium.com/p/10cf08f9d2e6) |
 | Mon, 14 Jul 2025 11:22:12 GMT | ️‍♂️ Mastering OSINT: How to Find Information on Anyone | Vipul Sonule | [Read More](https://medium.com/p/9185be6f9429) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 07:07:11 GMT | How Hackers Use Google Dorks to Find Sensitive Data Online | Shubham Bane | [Read More](https://medium.com/p/5231f229c92b) |
 | Mon, 14 Jul 2025 07:06:16 GMT | Why Cybersecurity Teams Are (Secretly) Terrified of AI | Yash Gorasiya | [Read More](https://medium.com/p/8a3c810e8c8b) |
 | Mon, 14 Jul 2025 07:00:22 GMT | Before You Code, Secure the Machine: What I Learned From a Compromised Server | Ryan Rustill | [Read More](https://medium.com/p/6795d3ff5d4b) |
-| Mon, 14 Jul 2025 06:58:17 GMT | Understanding IP Addressing | Alestin shelmon | [Read More](https://medium.com/p/20f9e60dcec4) |
-| Mon, 14 Jul 2025 06:56:55 GMT | Prologue: Meet Elena “Phantom” Sterling | Rogier Dijkman | [Read More](https://medium.com/p/d4131fabde62) |
-| Mon, 14 Jul 2025 06:55:50 GMT | Q-Day Threat: How Quantum Computing Could Break Global Encryption by 2026. | Technologic Innovation | [Read More](https://medium.com/p/2440fa6af9f5) |
-| Mon, 14 Jul 2025 06:54:57 GMT | TryHackMe - Windows User Activity Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/93bfe19e862c) |
-| Mon, 14 Jul 2025 06:54:21 GMT | ️‍♂️ Not Everything You Google is True | Sohanur Rahman | [Read More](https://medium.com/p/09b472bbba85) |
-| Mon, 14 Jul 2025 06:53:15 GMT | Desecure Termal Kontrol Hizmeti | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/9c1475246ec2) |
-| Mon, 14 Jul 2025 06:51:29 GMT | Building a Flask-Powered Security Code Analyzer | ROH | [Read More](https://medium.com/p/ded1a1e82c6d) |
-| Mon, 14 Jul 2025 06:49:01 GMT | The Man I’ve “Marked”: Terrified to Want Him | The Self Observed | [Read More](https://medium.com/p/a4365546b70d) |
-| Mon, 14 Jul 2025 06:44:44 GMT | Business Logic Vulnerabilities part-3 : Inconsistent security controls | Ahmad Sopyan | [Read More](https://medium.com/p/f1eedc027002) |
-| Mon, 14 Jul 2025 06:44:35 GMT | How I started my career | SampradaKhadka | [Read More](https://medium.com/p/d04ec88e3fd7) |
-| Mon, 14 Jul 2025 06:43:35 GMT | ️ My Cybersecurity Journey: From Curiosity to Career | Nileshmali | [Read More](https://medium.com/p/9b9214c05c3e) |
-| Mon, 14 Jul 2025 06:41:01 GMT | Deploy Microsoft Entra External ID tenant using Azure Bicep | Brian Veldman | [Read More](https://medium.com/p/9f0335ad7e26) |
-| Mon, 14 Jul 2025 06:35:43 GMT | Ecommerce, Logo & Website Design Agency - Kat & Krow Experts | Kat & Krow | [Read More](https://medium.com/p/f447309580f3) |
-| Mon, 14 Jul 2025 06:29:08 GMT | When Support Is Silent | Umaa Arun | [Read More](https://medium.com/p/e02707bc2e46) |
-| Mon, 14 Jul 2025 06:28:42 GMT | Simulating and Detecting SSH Brute-Force Attacks Using Wazuh on Ubuntu | 0xLeonidas | [Read More](https://medium.com/p/02b2591190b6) |
-| Mon, 14 Jul 2025 06:26:31 GMT | Are Mongo Object IDs really random? | vastavik_anurag | [Read More](https://medium.com/p/1b6f9c83d04d) |
-| Mon, 14 Jul 2025 06:23:18 GMT | From Suspect to Solver: The Digital Forensics Case Journey | The Commoness | [Read More](https://medium.com/p/19b8a6caae9c) |
-| Mon, 14 Jul 2025 06:21:09 GMT | Android Logcat: The Hidden Goldmine of Sensitive Data for Pentesters | Blue_eye | [Read More](https://medium.com/p/66a11109781a) |
-| Mon, 14 Jul 2025 06:16:27 GMT | Meet urlscanner: A Better Way to Use urlscan.io from Your Terminal | محمد بن إبراهيم | [Read More](https://medium.com/p/b677995b9359) |
-| Mon, 14 Jul 2025 06:15:19 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/3ee0e149f48a) |
-| Mon, 14 Jul 2025 06:09:06 GMT | Mastering HIPAA: Rules, Compliance, and Best Practices for Data Security | Ampcus Cyber | [Read More](https://medium.com/p/7a0fa98a2414) |
-| Mon, 14 Jul 2025 06:01:53 GMT | Comprehensive Guide to NextAuth.js for Secure Authentication | @rnab | [Read More](https://medium.com/p/1a97ca205b1d) |
-| Mon, 14 Jul 2025 06:00:23 GMT | Today’s Top Cyber Intelligence Highlights — Jul 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3ef2fb7ae522) |
-| Mon, 14 Jul 2025 05:58:58 GMT | Flash USDT Isn’t What You Think — Here’s the Truth | Pasov | [Read More](https://medium.com/p/c20198173aa2) |
