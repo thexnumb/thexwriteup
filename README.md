@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 16:49:47 GMT | Prompt Engineering for Cybersecurity: A Comprehensive Guide | Nelson Sánchez S | [Read More](https://medium.com/p/ac2db96af81d) |
+| Mon, 14 Jul 2025 16:49:38 GMT | STIG This, Not That: Simplifying System Hardening for Beginners | Brandon Dewater | [Read More](https://medium.com/p/e8300ac99412) |
+| Mon, 14 Jul 2025 16:47:49 GMT | Sequel Dump - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/3ff72c06feb7) |
+| Mon, 14 Jul 2025 16:45:54 GMT | DAY 5: Droplets And Data | Akshatdwivedi | [Read More](https://medium.com/p/1714a9dce530) |
+| Mon, 14 Jul 2025 16:37:31 GMT | Breaking In — Behind the Exploit (Understanding and executing cyber attacks demonstration) — Part 3 | Kushaniihalapathirana | [Read More](https://medium.com/p/4a1f409edacc) |
+| Mon, 14 Jul 2025 16:36:46 GMT | Multitenant Organization in Microsoft 365: The Good, The Bad, and The Hiccups | Ashe Herrick | [Read More](https://medium.com/p/1dac6bdc5a92) |
+| Mon, 14 Jul 2025 16:31:28 GMT | Strategic Paralysis by Design: Part V — Footholds and Forward Operating Threats — Guam, Undersea… | Chris Clark | [Read More](https://medium.com/p/2d8cebb40b71) |
 | Mon, 14 Jul 2025 16:26:03 GMT | Vulnerability Assessment vs Penetration Testing: A Pentester’s Perspective | YoungerSibling | [Read More](https://medium.com/p/0fe05806f813) |
+| Mon, 14 Jul 2025 16:24:03 GMT | 5 Ways Hackers Escalate Privileges — A Quick Guide for Cybersecurity Learners
+From exploiting… | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/d5e0cdb30b10) |
 | Mon, 14 Jul 2025 16:19:00 GMT | Building a Realistic SOC Lab on AWS | Gabriel Santos | [Read More](https://medium.com/p/356f1f1386cc) |
 | Mon, 14 Jul 2025 16:18:28 GMT | Meet Rehu Talwar — The Mind Behind MM Hacking & Real-World CTFs | Bjpbaghapurana | [Read More](https://medium.com/p/9465ddc68741) |
 | Mon, 14 Jul 2025 16:17:49 GMT | Explore the Dark Web Safely — A Complete Practical Guide for Only $3.99 | 1x9 | [Read More](https://medium.com/p/9fa1e411d3b2) |
@@ -105,11 +114,3 @@ Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.co
 | Mon, 14 Jul 2025 12:07:09 GMT | How can I stop hackers from penetrating my payment gateway services? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/722af7d9e39f) |
 | Mon, 14 Jul 2025 12:02:59 GMT | Code Undercover: Unveiling the Secrets of Real-World Bugs | Faith Alabi Erioluwa | [Read More](https://medium.com/p/1d3e11476098) |
 | Mon, 14 Jul 2025 11:59:29 GMT | The Joy and Terror of Being Seen as Your Full Self | Anushka | [Read More](https://medium.com/p/e2c9f57bf367) |
-| Mon, 14 Jul 2025 11:52:55 GMT | The Ego Trap: Why Humility Outperforms Confidence in Building Trust | Jeff Hough | [Read More](https://medium.com/p/ba6078ef28d0) |
-| Mon, 14 Jul 2025 11:50:09 GMT | SOCFortres5: eSIM Flaw in Kigen’s eUICC Cards Puts Billions of IoT Devices at Risk | Darshan | [Read More](https://medium.com/p/cd5558e61e18) |
-| Mon, 14 Jul 2025 11:48:32 GMT | Business Logic Vulnerabilities part-4 : Flawed enforcement of business rules | Ahmad Sopyan | [Read More](https://medium.com/p/671c7d48b305) |
-| Mon, 14 Jul 2025 11:42:08 GMT | The Most Overlooked Cloud Security Flaws in 2025 (with examples) — Part 1 | Andrei Ivan | [Read More](https://medium.com/p/cbae4da1b106) |
-| Mon, 14 Jul 2025 11:28:44 GMT | Getting Started with Hardware Hacking: Your Beginner’s Toolkit | Redfox Security | [Read More](https://medium.com/p/19972e71efea) |
-| Mon, 14 Jul 2025 11:26:59 GMT | Why Users Don’t Trust Your App and How to Fix It | Cogntix Blog | [Read More](https://medium.com/p/626f44e4f9af) |
-| Mon, 14 Jul 2025 11:24:36 GMT | SOCFortres5: Google Gemini Vulnerability in Workspace Allows Stealthy Email-Based Script Injection | Darshan | [Read More](https://medium.com/p/10cf08f9d2e6) |
-| Mon, 14 Jul 2025 11:22:12 GMT | ️‍♂️ Mastering OSINT: How to Find Information on Anyone | Vipul Sonule | [Read More](https://medium.com/p/9185be6f9429) |
