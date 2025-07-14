@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 13:26:58 GMT | The Day the ATM Spoke: A Cybersecurity Thriller In Broad Daylight | O. J. Okpabi | [Read More](https://medium.com/p/e2c0dc0915ee) |
+| Mon, 14 Jul 2025 13:26:57 GMT | How I Hijacked 100+ Accounts with Just a URL Change (IDOR + XSS Chain) | Ibtissam hammadi | [Read More](https://medium.com/p/459a95f0da6c) |
+| Mon, 14 Jul 2025 13:23:47 GMT | Click. Regret. Repeat.: Anatomy Of A Cyber Trap | O. J. Okpabi | [Read More](https://medium.com/p/c2a5b13fbaf4) |
+| Mon, 14 Jul 2025 13:21:41 GMT | I Hacked Myself: A Cybersecurity Analyst’s Descent Into Digital Deception | O. J. Okpabi | [Read More](https://medium.com/p/e298496581f2) |
+| Mon, 14 Jul 2025 13:21:27 GMT | Facebook Meta Settings Changes — Protect Your Camera Roll & Privacy | Shackleton Technologies - IT Blog - Dundee - Tech | [Read More](https://medium.com/p/ac1b6e5786aa) |
+| Mon, 14 Jul 2025 13:20:53 GMT | How I Built an Incident Response Plan Step-by-Step After a Ransomware Attack (Using NIST 800–61) | Kelechi Onwuka | [Read More](https://medium.com/p/ae9c91f7e3e6) |
+| Mon, 14 Jul 2025 13:20:23 GMT | My Tech Journey Begins: Why I’m Starting This Blog | Zohal | [Read More](https://medium.com/p/dc28cb84ca01) |
+| Mon, 14 Jul 2025 13:17:13 GMT | Digital Orphan: The Child Who Grew Up In A Data Breach | O. J. Okpabi | [Read More](https://medium.com/p/e49323c8cd38) |
+| Mon, 14 Jul 2025 13:15:47 GMT | Breaking CrackMes #1: Keygen me Quick! | solvz | [Read More](https://medium.com/p/99dbd26b88e7) |
+| Mon, 14 Jul 2025 13:13:34 GMT | Flash USDT: Crypto’s Most Misunderstood Illusion | Res | [Read More](https://medium.com/p/4d4d7045070b) |
+| Mon, 14 Jul 2025 13:12:49 GMT | AI vs. AI: How Hackers Use WormGPT → And How to Defend Against It | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/847ce5b8a19f) |
+| Mon, 14 Jul 2025 13:11:04 GMT | Yearning in the quiet. | Ifechukwu Ahanonu | [Read More](https://medium.com/p/64316e775ed8) |
+| Mon, 14 Jul 2025 13:09:02 GMT | É Possível Hackear a Mente Humana — e Acessar o Plano Superior?Um | HENRIQUE SILVA - TIO RICK | [Read More](https://medium.com/p/63a1aff43d75) |
+| Mon, 14 Jul 2025 13:08:53 GMT | Password Attacks — Skill Assessment (HTB Academy) | Lakshyarastogi | [Read More](https://medium.com/p/7a32092d232b) |
+| Mon, 14 Jul 2025 13:07:53 GMT | CTF Day(32) | Ahmed Narmer | [Read More](https://medium.com/p/6264301dfc38) |
+| Mon, 14 Jul 2025 13:07:01 GMT | SOC145 — Ransomware Detected | Sohan Kanna D | [Read More](https://medium.com/p/47f25149e011) |
+| Mon, 14 Jul 2025 13:03:16 GMT | Metrics, Morale, and Machines: Orchestrating AI in a Human World | Namir Sagheenanajar | [Read More](https://medium.com/p/f06a7eca0390) |
+| Mon, 14 Jul 2025 13:01:47 GMT | Vulnerability Scares Me | Precious Oduh | [Read More](https://medium.com/p/224e45a5c580) |
+| Mon, 14 Jul 2025 12:54:36 GMT | Living with Anxiety | Akeredolu Esther Oyindamola | [Read More](https://medium.com/p/da78a94c1636) |
+| Mon, 14 Jul 2025 12:51:08 GMT | Bank Cyberattack in Brazil: Suspect Caught in $100M Digital Theft Case | Hoplon Infosec | [Read More](https://medium.com/p/d69c022e66c9) |
+| Mon, 14 Jul 2025 12:42:33 GMT | Learning Web App Exploitation for Free - Day 1 | Hiba Hamd | [Read More](https://medium.com/p/dcd6ac44874a) |
 | Mon, 14 Jul 2025 12:40:58 GMT | The Unseen Cyber Threats of 2025: Build Your Digital Armor Before It’s Too Late | Ed Yende | [Read More](https://medium.com/p/c2a66d3aee1a) |
 | Mon, 14 Jul 2025 12:37:12 GMT | CTF Day(31) | Ahmed Narmer | [Read More](https://medium.com/p/d12990545196) |
 | Mon, 14 Jul 2025 12:35:54 GMT | SOC104 — Malware Detected | Sohan Kanna D | [Read More](https://medium.com/p/94519cd57d88) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 08:25:56 GMT | Red Flag Marketing: How I Dodged Pitfalls in Finding My Cybersecurity Path | Abraham Eleojo Salifu | [Read More](https://medium.com/p/59edcb323f57) |
 | Mon, 14 Jul 2025 08:22:53 GMT | How To Win A Man’s Heart — What Really Works | Kate B | [Read More](https://medium.com/p/6d1a35f551e9) |
 | Mon, 14 Jul 2025 08:20:49 GMT | The Daily Tech Digest: 14 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f6fd9c830ab6) |
-| Mon, 14 Jul 2025 08:16:53 GMT | Soteria Project Review | Kev Jackson | [Read More](https://medium.com/p/7058a1846774) |
-| Mon, 14 Jul 2025 08:11:56 GMT | Petra Security: The ML-Powered Identity Sentinel You Wish Microsoft Built | Dean | [Read More](https://medium.com/p/25eebe84617e) |
-| Mon, 14 Jul 2025 08:08:02 GMT | How WAFs Work + One You Should Try | AerieWhole123 | [Read More](https://medium.com/p/bde1f113d2ea) |
-| Mon, 14 Jul 2025 08:01:45 GMT | Ransomware as a Service: Has Cybercrime Become a Business Model? | Gertrude Abagale | [Read More](https://medium.com/p/444b784de917) |
-| Mon, 14 Jul 2025 07:49:54 GMT | Why Everyone’s Falling in Love with ImgToolbox — The DIY Image Swiss Army Knife You Didn’t Know… | qiaozhi | [Read More](https://medium.com/p/c0dd5f4773a2) |
-| Mon, 14 Jul 2025 07:49:09 GMT | What Is ARP? Cybersecurity Basics from a Real Beginner | Akshatdwivedi | [Read More](https://medium.com/p/b8a08821966d) |
-| Mon, 14 Jul 2025 07:48:15 GMT | Securing Data in AWS S3 | Mrinal Kanti Sardar | [Read More](https://medium.com/p/f27f65b6bbda) |
-| Mon, 14 Jul 2025 07:47:08 GMT | Best Ethical Hacking Course Near Me | The Drop Organization | [Read More](https://medium.com/p/5ea0fe240115) |
-| Mon, 14 Jul 2025 07:40:44 GMT | Receive Your Share of LunaFi's Token Release and Enjoy bonus tokens | LunaFi | [Read More](https://medium.com/p/305ff6c5e19b) |
-| Mon, 14 Jul 2025 07:37:31 GMT | The blueprint that took me from Junior QA to Test Manager | Jayateerth Katti | [Read More](https://medium.com/p/7554a1ee16e0) |
-| Mon, 14 Jul 2025 07:21:19 GMT | Securing Java APIs with OAuth2 and Keycloak (Beyond the Basics) | The Outage Specialist | [Read More](https://medium.com/p/d63811202ca0) |
-| Mon, 14 Jul 2025 07:17:30 GMT | Building a Personal Recon Toolkit: What’s in My Hacker Arsenal? By Particle 14. | Khanshadan | [Read More](https://medium.com/p/90267c30022f) |
-| Mon, 14 Jul 2025 07:17:09 GMT | İnşaatta Güvenlik Nasıl Mobil Olur? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/67c2305656bc) |
-| Mon, 14 Jul 2025 07:16:37 GMT | ️ Building StealthKeyLogger: A Full-Stack Encrypted Keylogging System for Ethical Red Team Labs | Arya | [Read More](https://medium.com/p/3f5afe1d94d3) |
-| Mon, 14 Jul 2025 07:16:18 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/c7dc02034ac3) |
-| Mon, 14 Jul 2025 07:13:46 GMT | Securing Kuwait’s Financial Future: Data Center Trust in Every Transaction | Tekhabeeb | [Read More](https://medium.com/p/1ae764c6723b) |
-| Mon, 14 Jul 2025 07:12:23 GMT | How People Leave Imprints on Your Nervous System | Jyoti Singh | [Read More](https://medium.com/p/0570c54b8e27) |
-| Mon, 14 Jul 2025 07:10:56 GMT | Redefining Recovery: A Deep Dive into the Oracle ZDLRA | Arsalan Dehghani Sariyarghan | [Read More](https://medium.com/p/eb294156e095) |
-| Mon, 14 Jul 2025 07:07:11 GMT | How Hackers Use Google Dorks to Find Sensitive Data Online | Shubham Bane | [Read More](https://medium.com/p/5231f229c92b) |
-| Mon, 14 Jul 2025 07:06:16 GMT | Why Cybersecurity Teams Are (Secretly) Terrified of AI | Yash Gorasiya | [Read More](https://medium.com/p/8a3c810e8c8b) |
-| Mon, 14 Jul 2025 07:00:22 GMT | Before You Code, Secure the Machine: What I Learned From a Compromised Server | Ryan Rustill | [Read More](https://medium.com/p/6795d3ff5d4b) |
