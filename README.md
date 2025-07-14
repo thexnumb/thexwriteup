@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 01:51:11 GMT | PortSwigger Lab — API Testing | k1dd0sz | [Read More](https://medium.com/p/50cb7e3013a1) |
+| Mon, 14 Jul 2025 01:50:44 GMT | Secure Autonomous Agent Systems: Introduction | Shehryar | [Read More](https://medium.com/p/8b16df3e4f03) |
+| Mon, 14 Jul 2025 01:40:07 GMT | API1:2023 Broken Object Level Authorization (BOLA) | Batuhan Görgel | [Read More](https://medium.com/p/6fdce40eefc6) |
+| Mon, 14 Jul 2025 01:38:12 GMT | I Thought Hacking Was Illegal — Until I Learned People Get Paid to Do It | Alex Joyel Raj | [Read More](https://medium.com/p/48726f33323a) |
+| Mon, 14 Jul 2025 01:07:59 GMT | I missed you even when you were right there | Inner Effective | [Read More](https://medium.com/p/cd94b001b3f2) |
+| Mon, 14 Jul 2025 00:43:18 GMT | Master Gitlab CI / CD | Atimis | [Read More](https://medium.com/p/a9c481275897) |
+| Mon, 14 Jul 2025 00:37:28 GMT | Cybersecurity is a Scam | George C | [Read More](https://medium.com/p/8d917c32c1a5) |
+| Mon, 14 Jul 2025 00:17:32 GMT | Exploring ELLIPAL: A Positive Journey in the Hardware Wallet Industry | Tubacankaya | [Read More](https://medium.com/p/2415a5a1df98) |
+| Mon, 14 Jul 2025 00:05:41 GMT | What we appear to be | chocopuff | [Read More](https://medium.com/p/e50122ddddf2) |
+| Mon, 14 Jul 2025 00:04:00 GMT | K8s Secrets: Base Recommended Protection - External Secret Store Providers | W. Jenks Gibbons | [Read More](https://medium.com/p/c32889ba2756) |
+| Mon, 14 Jul 2025 00:00:34 GMT | The Universal Cyber Incident Taxonomy (UCIT) | Mattysploit | [Read More](https://medium.com/p/65e070cfa2ed) |
+| Sun, 13 Jul 2025 23:44:03 GMT | The Most Important ffuf parameters every Bug Bounty Hunter should use in 2025 | Musab Sarı | [Read More](https://medium.com/p/a523a0e1735b) |
 | Sun, 13 Jul 2025 23:41:51 GMT | VM Hardening: Finding the Sweet Spot Between Security and Functionality | Mohamed | [Read More](https://medium.com/p/a43b3eceabdb) |
 | Sun, 13 Jul 2025 23:37:57 GMT | Canada’s Ban on Hikvision: Why the World Needs Stronger Surveillance Tech Oversight | Tapendra Dev | [Read More](https://medium.com/p/797b06eb92c5) |
 | Sun, 13 Jul 2025 23:36:18 GMT | Day 35: Environment Variables in Node.js — Best Practices & Security Tips | Dipak Ahirav | [Read More](https://medium.com/p/081b597df34b) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 17:28:35 GMT | Properly Secure Tenable Nessus Vulnerability Scanning: How to scan Linux Machines with a dedicated… | Truvis Thornton | [Read More](https://medium.com/p/4262b7541227) |
 | Sun, 13 Jul 2025 17:26:28 GMT | How to Create a Strong Password That Actually Protects You | Subham Behera | [Read More](https://medium.com/p/0ff3349e788c) |
 | Sun, 13 Jul 2025 17:20:14 GMT | Hack the Human: How Adversaries Weaponize Behavior, Not Just Code | Travis Ray Caverhill | [Read More](https://medium.com/p/01cd2e02dd39) |
-| Sun, 13 Jul 2025 17:19:42 GMT | Turning an Open Redirect Into a Phishing Vector — Bug Bounty on PayPal | Gourav(spidergk) | [Read More](https://medium.com/p/c34119d47b66) |
-| Sun, 13 Jul 2025 17:19:12 GMT | Understanding HTTP For Cyber Security | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/ede95e841319) |
-| Sun, 13 Jul 2025 17:13:28 GMT | Secure Patch Testing in OT: From Firefighting to Foresight | pradeep nagireddy | [Read More](https://medium.com/p/7e0e621eb215) |
-| Sun, 13 Jul 2025 17:11:35 GMT | Ransomware and AI Intersection | Harishkumar Pillai | [Read More](https://medium.com/p/75a0e1388853) |
-| Sun, 13 Jul 2025 17:06:30 GMT | When Security Becomes the Threat: Lessons from a Siemens OT Cybersecurity Bulletin | pradeep nagireddy | [Read More](https://medium.com/p/e9b81090163e) |
-| Sun, 13 Jul 2025 17:01:33 GMT | ️ The Ultimate Web Security Checklist — A Tactical Guide for Hackers & Cybersecurity… | ZishanAdThandar | [Read More](https://medium.com/p/42712b87ae1b) |
-| Sun, 13 Jul 2025 16:57:58 GMT | Ransomware detection, prevention and recovery | Harishkumar Pillai | [Read More](https://medium.com/p/735a9a690e67) |
-| Sun, 13 Jul 2025 16:57:52 GMT | Fallback Authentication | Richard Ndung'u | [Read More](https://medium.com/p/d0742626e9ec) |
-| Sun, 13 Jul 2025 16:53:43 GMT | Ligolo-ng 0.8.2+ Tunneling Manual | David | [Read More](https://medium.com/p/55126be3b97f) |
-| Sun, 13 Jul 2025 16:51:41 GMT | Malware 2.0: How AI Is Quietly Rewriting the Rules of Cyber Warfare | Aravind S V | [Read More](https://medium.com/p/2518c591fd5f) |
-| Sun, 13 Jul 2025 16:47:54 GMT | TRENDS’ Brotherhood Encyclopedia Is a Strategic Breakthrough | Imam Tawhidi | [Read More](https://medium.com/p/b85eda1ca569) |
-| Sun, 13 Jul 2025 16:47:19 GMT | Email Spoofing: What’s Behind the “From” Field | Malvox | [Read More](https://medium.com/p/676df55fa801) |
