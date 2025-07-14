@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 09:21:12 GMT | Claim Your Share of Bug's Distribution Wave and Enjoy exclusive bonuses | Bug | [Read More](https://medium.com/p/bf76d3ff07be) |
+| Mon, 14 Jul 2025 09:17:56 GMT | ISMS Explained: Crush Cyber Threats And Skyrocket Credibility | SecureSlate | [Read More](https://medium.com/p/a9e0e2735503) |
+| Mon, 14 Jul 2025 09:12:48 GMT | How to Get Real IPs Through FRP with SafeLine WAF | Quella | [Read More](https://medium.com/p/3cab90f64792) |
+| Mon, 14 Jul 2025 09:01:58 GMT | Google Account Remote Sign-Out: The Unintended Risk That Could Expose Sensitive Data | CSN | [Read More](https://medium.com/p/19120e749b0b) |
+| Mon, 14 Jul 2025 08:58:58 GMT | Beyond the Math: Crafting Your Hacker Playbook | Bumi Aryadirangga | [Read More](https://medium.com/p/71c5ca2bd126) |
+| Mon, 14 Jul 2025 08:55:23 GMT | Inside the Secret Telegram Channels Fueling Middle East Conflicts | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/be929c9af913) |
+| Mon, 14 Jul 2025 08:47:12 GMT | Before AI Betrays You: The Must-Read Guide from OWASP on Data Protection | Pallavi S V | [Read More](https://medium.com/p/2ba7d7c26e42) |
+| Mon, 14 Jul 2025 08:36:54 GMT | OAuth2 for Developers Who Hate Reading Specs | The Outage Specialist | [Read More](https://medium.com/p/73e5b8c382fa) |
+| Mon, 14 Jul 2025 08:32:05 GMT | The Unspoken Cost of “Free” | E. Ibrahimi | [Read More](https://medium.com/p/b97106fd49eb) |
+| Mon, 14 Jul 2025 08:31:44 GMT | School Dropoff | Jason Tabrett | [Read More](https://medium.com/p/2a298c0057e9) |
+| Mon, 14 Jul 2025 08:27:45 GMT | Kubernetes Secrets Aren’t Secret Enough | Dev engineer | [Read More](https://medium.com/p/2281e5b3fe41) |
+| Mon, 14 Jul 2025 08:25:56 GMT | Red Flag Marketing: How I Dodged Pitfalls in Finding My Cybersecurity Path | Abraham Eleojo Salifu | [Read More](https://medium.com/p/59edcb323f57) |
+| Mon, 14 Jul 2025 08:22:53 GMT | How To Win A Man’s Heart — What Really Works | Kate B | [Read More](https://medium.com/p/6d1a35f551e9) |
 | Mon, 14 Jul 2025 08:20:49 GMT | The Daily Tech Digest: 14 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f6fd9c830ab6) |
 | Mon, 14 Jul 2025 08:16:53 GMT | Soteria Project Review | Kev Jackson | [Read More](https://medium.com/p/7058a1846774) |
 | Mon, 14 Jul 2025 08:11:56 GMT | Petra Security: The ML-Powered Identity Sentinel You Wish Microsoft Built | Dean | [Read More](https://medium.com/p/25eebe84617e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 03:31:44 GMT | Why Data Privacy and Security Are Non-Negotiable Pillars of Your Software in the Age of AI | i.vikash | [Read More](https://medium.com/p/015ffe4df977) |
 | Mon, 14 Jul 2025 03:30:19 GMT | PortSwigger SSRF Labs: Step-by-Step Walkthrough | Praharsha Kumar | [Read More](https://medium.com/p/47ca3f8230d1) |
 | Mon, 14 Jul 2025 03:30:17 GMT | User role controlled by request parameter [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/08b625cd227d) |
-| Mon, 14 Jul 2025 03:29:44 GMT | “Blame the Vendor” Distractions | Barry Greene | [Read More](https://medium.com/p/983c0f642a72) |
-| Mon, 14 Jul 2025 03:22:50 GMT | The Curious Case of the Open Redirect ($500 Bounty) | Naresh Kandula | [Read More](https://medium.com/p/9a3e0fb6e7d1) |
-| Mon, 14 Jul 2025 03:22:08 GMT | Understanding Directory Traversal: A Step-by-Step Guide to a Common Web Vulnerability | Gopal Mohan | [Read More](https://medium.com/p/24dc6d51e86e) |
-| Mon, 14 Jul 2025 03:04:49 GMT | Simple Auditing Email Triclk | Geoffrey Horseman | [Read More](https://medium.com/p/3af6cb104853) |
-| Mon, 14 Jul 2025 03:03:21 GMT | Trust without risk | Trust Me I'm A Philosopher | [Read More](https://medium.com/p/9875bbad139a) |
-| Mon, 14 Jul 2025 02:58:35 GMT | Critical RCE Flaw Found in Qiyuesuo PDF Verifier — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/8fb265682e32) |
-| Mon, 14 Jul 2025 02:55:20 GMT | Networking Fundamentals | MrHacker | [Read More](https://medium.com/p/cdd16ef35264) |
-| Mon, 14 Jul 2025 02:53:01 GMT | Introduction to Fixed-Width Binary Encoding | Jesse Langford | [Read More](https://medium.com/p/36a09ad29de7) |
-| Mon, 14 Jul 2025 02:46:31 GMT | Here’s Why Cybersecurity Should Be Your First Investment, Not Your Last | Francesca Baniqued | [Read More](https://medium.com/p/298fa715adf6) |
-| Mon, 14 Jul 2025 02:31:44 GMT | Cultivating A Dynamic Work Culture | Sayan Dutta | [Read More](https://medium.com/p/bab0a6e3477a) |
-| Mon, 14 Jul 2025 02:31:35 GMT | Creating and Implementing Standardized Technical Templates to Ensure Consistent Security Practices… | Corinna | [Read More](https://medium.com/p/d569bc38da33) |
-| Mon, 14 Jul 2025 02:22:21 GMT | I Trapped Telegram Scammers in an Endless AI Conversation | Robert Hirsch | [Read More](https://medium.com/p/5535a7d67a2f) |
-| Mon, 14 Jul 2025 02:18:51 GMT | Securing My Digital World While Traveling in Houston | Corinna | [Read More](https://medium.com/p/0e5789614ccc) |
