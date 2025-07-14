@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 18:29:28 GMT | XSS pentest-garage web ADcCD labs walkthrough | Muhammad Ashraf Ali | [Read More](https://medium.com/p/b3edb82f1d58) |
+| Mon, 14 Jul 2025 18:27:35 GMT | ️ How I Found 300+ Web3 Users’ 2FA Secrets Using Just One Recon Command | zack0x01 | [Read More](https://medium.com/p/13fa202393e0) |
+| Mon, 14 Jul 2025 18:26:47 GMT | What Is the Difference Between Burglary and Home Invasion? | Matt Black | [Read More](https://medium.com/p/b0b50a8e6dac) |
+| Mon, 14 Jul 2025 18:25:44 GMT | ⚔️ Recon no Kata: The Docker Slayer — How I Breached redacted.com’s Infra Like a Hashira | Anurag Kumar(0xV3n0m) | [Read More](https://medium.com/p/d142fa66baa7) |
+| Mon, 14 Jul 2025 18:17:02 GMT | You Can’t Secure What You Don’t Inventory: network asset inventory and patching | Security Consulting Blogspot | [Read More](https://medium.com/p/73b209aa60ed) |
+| Mon, 14 Jul 2025 18:16:59 GMT | HackNOW — A new free blog for ethical hackers and security enthusiasts | HackNOW | [Read More](https://medium.com/p/dd712f525d72) |
+| Mon, 14 Jul 2025 18:13:41 GMT | Building a Persistent and Interactive C2 Framework (Part 2) | Cyberlairs | [Read More](https://medium.com/p/19329fc8fa23) |
+| Mon, 14 Jul 2025 18:11:41 GMT | HTB Challenge — Pivot Chain | Fardeen Ahmed | [Read More](https://medium.com/p/db02067d10bd) |
+| Mon, 14 Jul 2025 18:07:55 GMT | What Is Strategy in Cybersecurity? Rethinking the Way We Lead, Protect and Adapt | Juan Pablo Castro | [Read More](https://medium.com/p/5990237bba6a) |
+| Mon, 14 Jul 2025 18:03:56 GMT | Chapter 1 Review — Your Password Can Be Cracked! [The Art Of Invisibility ~ Kevin Mitnick] | Gurnoor Kaur | [Read More](https://medium.com/p/abf51bf91084) |
+| Mon, 14 Jul 2025 18:01:33 GMT | Building Resilience in the Cryptocurrency Era: How MITRE’s AADAPT Framework Protects Digital Assets | Chetan Seripally | [Read More](https://medium.com/p/73a86be2027e) |
+| Mon, 14 Jul 2025 18:01:15 GMT | How I Use aide to Detect Unauthorized Changes on My Linux and Ubuntu Servers | Faruk Ahmed | [Read More](https://medium.com/p/2b7c83a76d34) |
+| Mon, 14 Jul 2025 17:56:50 GMT | How I Crashed a Closed Beta MMO With 0.2% Auction Fees and a Float Overflow | wellisrite | [Read More](https://medium.com/p/bba5d9a2155f) |
+| Mon, 14 Jul 2025 17:49:04 GMT | Ep. 544 Harry Donnelly - Digital Asset Recovery Technology with Circuit | Brandon Zemp | [Read More](https://medium.com/p/35e3570e8c4c) |
+| Mon, 14 Jul 2025 17:47:06 GMT | From Single Agent to Meta-Agent Building the Leading Open Source Autonomous Cyber Agent | Aaron Brown | [Read More](https://medium.com/p/e1b704f81707) |
+| Mon, 14 Jul 2025 17:45:06 GMT | OpenCTI: My Journey into the World of Cyber Threat Intelligence (And How I Didn’t Get Lost) | Stephnoramafeng | [Read More](https://medium.com/p/5bb1ea2497be) |
 | Mon, 14 Jul 2025 17:44:02 GMT | Securing MCP Protocol: Best Practices for Using Trusted Servers | Sumanth Badethalav | [Read More](https://medium.com/p/63bacaf64f6e) |
+| Mon, 14 Jul 2025 17:36:32 GMT | Protect Against Ransomware Attacks | Mian Abdul Moeez | [Read More](https://medium.com/p/3919b3db565f) |
 | Mon, 14 Jul 2025 17:35:05 GMT | PCI Compliance Feels Like a Chore. What If It Didn’t? | Openiam | [Read More](https://medium.com/p/539b0d20eb2e) |
 | Mon, 14 Jul 2025 17:31:53 GMT | Social Engineering In Cyber Security- Practical Lab | M Sameer Malik | [Read More](https://medium.com/p/9417c4737f53) |
 | Mon, 14 Jul 2025 17:25:22 GMT | The Internship | Whitesell Seth | [Read More](https://medium.com/p/49fa5e2f7f83) |
@@ -97,20 +114,3 @@ Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.co
 | Mon, 14 Jul 2025 13:17:13 GMT | Digital Orphan: The Child Who Grew Up In A Data Breach | O. J. Okpabi | [Read More](https://medium.com/p/e49323c8cd38) |
 | Mon, 14 Jul 2025 13:15:47 GMT | Breaking CrackMes #1: Keygen me Quick! | solvz | [Read More](https://medium.com/p/99dbd26b88e7) |
 | Mon, 14 Jul 2025 13:13:34 GMT | Flash USDT: Crypto’s Most Misunderstood Illusion | Res | [Read More](https://medium.com/p/4d4d7045070b) |
-| Mon, 14 Jul 2025 13:12:49 GMT | AI vs. AI: How Hackers Use WormGPT → And How to Defend Against It | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/847ce5b8a19f) |
-| Mon, 14 Jul 2025 13:11:04 GMT | Yearning in the quiet. | Ifechukwu Ahanonu | [Read More](https://medium.com/p/64316e775ed8) |
-| Mon, 14 Jul 2025 13:09:36 GMT | É Possível Hackear a Mente Humana — e Acessar o Plano Superior? | HENRIQUE SILVA - TIO RICK | [Read More](https://medium.com/p/65b8b9fb2d7e) |
-| Mon, 14 Jul 2025 13:09:02 GMT | É Possível Hackear a Mente Humana — e Acessar o Plano Superior?Um | HENRIQUE SILVA - TIO RICK | [Read More](https://medium.com/p/63a1aff43d75) |
-| Mon, 14 Jul 2025 13:08:53 GMT | Password Attacks — Skill Assessment (HTB Academy) | Lakshyarastogi | [Read More](https://medium.com/p/7a32092d232b) |
-| Mon, 14 Jul 2025 13:07:53 GMT | CTF Day(32) | Ahmed Narmer | [Read More](https://medium.com/p/6264301dfc38) |
-| Mon, 14 Jul 2025 13:07:01 GMT | SOC145 — Ransomware Detected | Sohan Kanna D | [Read More](https://medium.com/p/47f25149e011) |
-| Mon, 14 Jul 2025 13:03:16 GMT | Metrics, Morale, and Machines: Orchestrating AI in a Human World | Namir Sagheenanajar | [Read More](https://medium.com/p/f06a7eca0390) |
-| Mon, 14 Jul 2025 13:01:47 GMT | Vulnerability Scares Me | Precious Oduh | [Read More](https://medium.com/p/224e45a5c580) |
-| Mon, 14 Jul 2025 12:54:36 GMT | Living with Anxiety | Akeredolu Esther Oyindamola | [Read More](https://medium.com/p/da78a94c1636) |
-| Mon, 14 Jul 2025 12:51:08 GMT | Bank Cyberattack in Brazil: Suspect Caught in $100M Digital Theft Case | Hoplon Infosec | [Read More](https://medium.com/p/d69c022e66c9) |
-| Mon, 14 Jul 2025 12:42:33 GMT | Learning Web App Exploitation for Free - Day 1 | Hiba Hamd | [Read More](https://medium.com/p/dcd6ac44874a) |
-| Mon, 14 Jul 2025 12:40:58 GMT | The Unseen Cyber Threats of 2025: Build Your Digital Armor Before It’s Too Late | Ed Yende | [Read More](https://medium.com/p/c2a66d3aee1a) |
-| Mon, 14 Jul 2025 12:37:12 GMT | CTF Day(31) | Ahmed Narmer | [Read More](https://medium.com/p/d12990545196) |
-| Mon, 14 Jul 2025 12:35:54 GMT | SOC104 — Malware Detected | Sohan Kanna D | [Read More](https://medium.com/p/94519cd57d88) |
-| Mon, 14 Jul 2025 12:33:43 GMT | Silent Breach Lab Writeup (CyberDefenders) | Loay Salah | [Read More](https://medium.com/p/c766dc7a9acb) |
-| Mon, 14 Jul 2025 12:32:15 GMT | Top Industry Use Cases for Reconciliation Software in 2025 | Kosh AI | [Read More](https://medium.com/p/fe79d34cd6ba) |
