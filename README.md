@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 21:14:43 GMT | Como Atualizar para o Windows 11 25H2 em 2 minutos | Dann Tech | [Read More](https://medium.com/p/43554539effc) |
+| Mon, 14 Jul 2025 21:08:06 GMT | THM - Hide and Seek | Francesco Pastore | [Read More](https://medium.com/p/c1178e433844) |
+| Mon, 14 Jul 2025 21:04:28 GMT | DefenseArk #ThreatIntelThursday - Ransomware | Kalpitha S | [Read More](https://medium.com/p/1ab7f3c86223) |
+| Mon, 14 Jul 2025 21:04:17 GMT | رهان زوكربيرج : كيف ستغير مئات المليارات مستقبل الذكاء الاصطناعي؟ | katibatech | [Read More](https://medium.com/p/37a9ea4727f8) |
+| Mon, 14 Jul 2025 21:02:43 GMT | STOLEN MOUNT — TryHackMe CTF Writeup | Jatin Gahlot | [Read More](https://medium.com/p/8f7e243772a7) |
 | Mon, 14 Jul 2025 20:44:32 GMT | Selective In-Memory Syscall Unhooking | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d7c5006b05f5) |
+| Mon, 14 Jul 2025 20:42:23 GMT | The Sleeper Agent in the Machine: How Hidden Attacks Are Turning AI Against Us | Lh Mohammed | [Read More](https://medium.com/p/023125700a42) |
 | Mon, 14 Jul 2025 20:39:37 GMT | What’s the Cheapest Way to Comply with HIPAA Online Tracking Technology Rules? | Feroot Security | [Read More](https://medium.com/p/5e6c05316383) |
 | Mon, 14 Jul 2025 20:39:02 GMT | Flash USDT — Real-Looking, But Not Real | Jepi | [Read More](https://medium.com/p/40393f53905e) |
 | Mon, 14 Jul 2025 20:36:27 GMT | Linux SSH and Basic File Operations: A Beginner’s Guide to Remote Control and File Handling | Allen Ace | [Read More](https://medium.com/p/406a4224cd3e) |
@@ -107,9 +113,3 @@ From exploiting… | Dushyant Singh Shekhawat | [Read More](https://medium.com/p
 | Mon, 14 Jul 2025 15:11:24 GMT | Fortifying WordPress with Advanced MFA: How Rainbow Secure Redefines Website Login Security | Dr. Shashi Karhail | [Read More](https://medium.com/p/c14fc0ed0ed9) |
 | Mon, 14 Jul 2025 14:44:59 GMT | IDS Fundamentals(Tryhackme) | Amalpp | [Read More](https://medium.com/p/199d54f52b4c) |
 | Mon, 14 Jul 2025 14:44:25 GMT | Exploiting Global Talent: How IT Outsourcing Promotes Inequality | Manish Srivastava | [Read More](https://medium.com/p/d412e8abc5a2) |
-| Mon, 14 Jul 2025 14:41:57 GMT | Nmap Live Host Discovery:THM | Mohit Sharma | [Read More](https://medium.com/p/420a7a35319c) |
-| Mon, 14 Jul 2025 14:41:49 GMT | Say Cheese: Catch Curious Eyes on Your Mac with a Snapshot | Adler Medrado | [Read More](https://medium.com/p/ace6777c7163) |
-| Mon, 14 Jul 2025 14:41:00 GMT | Cyber Insurance: The Growing Digital Shield Businesses Can’t Ignore. | eL Njas!™ | [Read More](https://medium.com/p/b5bb09b3941c) |
-| Mon, 14 Jul 2025 14:39:00 GMT | Neither the Villain Nor the Hero | AV | [Read More](https://medium.com/p/10f525e42dfd) |
-| Mon, 14 Jul 2025 14:29:00 GMT | PortSwigger Labs: Blind SQL injection with out-of-band interaction writeup for Lab 1 and Lab 2 (SQL… | awes0meness | [Read More](https://medium.com/p/95073a584fd0) |
-| Mon, 14 Jul 2025 14:22:43 GMT | The Importance of Strong, Unique Passwords | Ed-it Editions | [Read More](https://medium.com/p/989f07d29a96) |
