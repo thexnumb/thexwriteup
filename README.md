@@ -12,10 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 19:07:56 GMT | What is SSTI (Server-Side Template Injection)? | Gökhan | [Read More](https://medium.com/p/4d8af75e2070) |
+| Mon, 14 Jul 2025 19:02:06 GMT | Mobile Forensic - Mobile Hacking - Ethical Hacking | BlackHat | [Read More](https://medium.com/p/bc1994c40e14) |
+| Mon, 14 Jul 2025 18:41:24 GMT | Where Does All the Data Go When You Hit ‘Delete’? | Gandhiridhima | [Read More](https://medium.com/p/34ccd555b0ec) |
+| Mon, 14 Jul 2025 18:40:33 GMT | How I Made My MacBook's Keyboard & Trackpad Work on Linux (T2 Chip Fix That Works) | Oikawasain | [Read More](https://medium.com/p/8212090e724f) |
+| Mon, 14 Jul 2025 18:38:58 GMT | How I Tested My Own VPN Security — And Tried Hacking Myself | Raghav Mahajan | [Read More](https://medium.com/p/0f1d46fe2036) |
+| Mon, 14 Jul 2025 18:38:02 GMT | Inconsistent Session Logout After Enabling 2FA on Epic Games — A High-Impact Flaw Explained | Gourav(spidergk) | [Read More](https://medium.com/p/2a2ff36c3a3b) |
+| Mon, 14 Jul 2025 18:35:30 GMT | LG Technologys - Expert IT Consulting, App Development & Cloud Solutions in India | LG Technologys | [Read More](https://medium.com/p/61c6de4efc61) |
 | Mon, 14 Jul 2025 18:29:28 GMT | XSS pentest-garage web ADcCD labs walkthrough | Muhammad Ashraf Ali | [Read More](https://medium.com/p/b3edb82f1d58) |
 | Mon, 14 Jul 2025 18:27:35 GMT | ️ How I Found 300+ Web3 Users’ 2FA Secrets Using Just One Recon Command | zack0x01 | [Read More](https://medium.com/p/13fa202393e0) |
 | Mon, 14 Jul 2025 18:26:47 GMT | What Is the Difference Between Burglary and Home Invasion? | Matt Black | [Read More](https://medium.com/p/b0b50a8e6dac) |
+| Mon, 14 Jul 2025 18:25:45 GMT | Why Do Some Countries Drive on the Left and Others on the Right? | JCF Medical College | [Read More](https://medium.com/p/473e6be79c58) |
 | Mon, 14 Jul 2025 18:25:44 GMT | ⚔️ Recon no Kata: The Docker Slayer — How I Breached redacted.com’s Infra Like a Hashira | Anurag Kumar(0xV3n0m) | [Read More](https://medium.com/p/d142fa66baa7) |
+| Mon, 14 Jul 2025 18:22:32 GMT | From the Courtroom to Cyberspace: | Judgecyberlawyer | [Read More](https://medium.com/p/daa485acbe15) |
 | Mon, 14 Jul 2025 18:17:02 GMT | You Can’t Secure What You Don’t Inventory: network asset inventory and patching | Security Consulting Blogspot | [Read More](https://medium.com/p/73b209aa60ed) |
 | Mon, 14 Jul 2025 18:16:59 GMT | HackNOW — A new free blog for ethical hackers and security enthusiasts | HackNOW | [Read More](https://medium.com/p/dd712f525d72) |
 | Mon, 14 Jul 2025 18:13:41 GMT | Building a Persistent and Interactive C2 Framework (Part 2) | Cyberlairs | [Read More](https://medium.com/p/19329fc8fa23) |
@@ -105,12 +114,3 @@ Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.co
 | Mon, 14 Jul 2025 13:40:04 GMT | Walkthrough THM Smol | Telynor | [Read More](https://medium.com/p/62a84b1df6d7) |
 | Mon, 14 Jul 2025 13:33:39 GMT | Building the Future of Cybersecurity: An AI-Driven SOC Platform with Reinforcement Learning | ca | [Read More](https://medium.com/p/a542820d9db8) |
 | Mon, 14 Jul 2025 13:26:58 GMT | The Day the ATM Spoke: A Cybersecurity Thriller In Broad Daylight | O. J. Okpabi | [Read More](https://medium.com/p/e2c0dc0915ee) |
-| Mon, 14 Jul 2025 13:26:57 GMT | How I Hijacked 100+ Accounts with Just a URL Change (IDOR + XSS Chain) | Ibtissam hammadi | [Read More](https://medium.com/p/459a95f0da6c) |
-| Mon, 14 Jul 2025 13:23:47 GMT | Click. Regret. Repeat.: Anatomy Of A Cyber Trap | O. J. Okpabi | [Read More](https://medium.com/p/c2a5b13fbaf4) |
-| Mon, 14 Jul 2025 13:21:41 GMT | I Hacked Myself: A Cybersecurity Analyst’s Descent Into Digital Deception | O. J. Okpabi | [Read More](https://medium.com/p/e298496581f2) |
-| Mon, 14 Jul 2025 13:21:27 GMT | Facebook Meta Settings Changes — Protect Your Camera Roll & Privacy | Shackleton Technologies - IT Blog - Dundee - Tech | [Read More](https://medium.com/p/ac1b6e5786aa) |
-| Mon, 14 Jul 2025 13:20:53 GMT | How I Built an Incident Response Plan Step-by-Step After a Ransomware Attack (Using NIST 800–61) | Kelechi Onwuka | [Read More](https://medium.com/p/ae9c91f7e3e6) |
-| Mon, 14 Jul 2025 13:20:23 GMT | My Tech Journey Begins: Why I’m Starting This Blog | Zohal | [Read More](https://medium.com/p/dc28cb84ca01) |
-| Mon, 14 Jul 2025 13:17:13 GMT | Digital Orphan: The Child Who Grew Up In A Data Breach | O. J. Okpabi | [Read More](https://medium.com/p/e49323c8cd38) |
-| Mon, 14 Jul 2025 13:15:47 GMT | Breaking CrackMes #1: Keygen me Quick! | solvz | [Read More](https://medium.com/p/99dbd26b88e7) |
-| Mon, 14 Jul 2025 13:13:34 GMT | Flash USDT: Crypto’s Most Misunderstood Illusion | Res | [Read More](https://medium.com/p/4d4d7045070b) |
