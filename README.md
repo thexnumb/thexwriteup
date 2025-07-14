@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 15:42:48 GMT | How The Hacking Hubb Helped Me Stay Informed About My Family’s Digital Activity | Firefighter | [Read More](https://medium.com/p/64651ec776f5) |
+| Mon, 14 Jul 2025 15:25:45 GMT | Complete Active Directory Takeover via AS-REP Roasting and Psexec (Scenario 2) | Aminouji | [Read More](https://medium.com/p/a4cc1e7454e0) |
+| Mon, 14 Jul 2025 15:25:17 GMT | THE ART OF THE DEVIL: PSYCHOLOGICAL WARFARE’S MANUAL | Ghost | [Read More](https://medium.com/p/e1dd21128eb7) |
+| Mon, 14 Jul 2025 15:24:02 GMT | HackTheBox — Sauna Walkthrough | 0xh3x | [Read More](https://medium.com/p/d0147d9eaa2c) |
+| Mon, 14 Jul 2025 15:23:34 GMT | Splunk’s Indispensable Role in Modern Security Operations Centers (SOC) | Aliyefhemin | [Read More](https://medium.com/p/fcdd4253b240) |
 | Mon, 14 Jul 2025 15:19:08 GMT | Access control vulnerabilities | MUHTADIN | [Read More](https://medium.com/p/39875c1b39da) |
+| Mon, 14 Jul 2025 15:17:10 GMT | The Rise of Smart Cities: A Blessing or a Surveillance Nightmare? | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/54fce2183ae7) |
 | Mon, 14 Jul 2025 15:11:24 GMT | Fortifying WordPress with Advanced MFA: How Rainbow Secure Redefines Website Login Security | Dr. Shashi Karhail | [Read More](https://medium.com/p/c14fc0ed0ed9) |
 | Mon, 14 Jul 2025 14:44:59 GMT | IDS Fundamentals(Tryhackme) | Amalpp | [Read More](https://medium.com/p/199d54f52b4c) |
 | Mon, 14 Jul 2025 14:44:25 GMT | Exploiting Global Talent: How IT Outsourcing Promotes Inequality | Manish Srivastava | [Read More](https://medium.com/p/d412e8abc5a2) |
@@ -53,6 +59,7 @@ Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.co
 | Mon, 14 Jul 2025 13:13:34 GMT | Flash USDT: Crypto’s Most Misunderstood Illusion | Res | [Read More](https://medium.com/p/4d4d7045070b) |
 | Mon, 14 Jul 2025 13:12:49 GMT | AI vs. AI: How Hackers Use WormGPT → And How to Defend Against It | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/847ce5b8a19f) |
 | Mon, 14 Jul 2025 13:11:04 GMT | Yearning in the quiet. | Ifechukwu Ahanonu | [Read More](https://medium.com/p/64316e775ed8) |
+| Mon, 14 Jul 2025 13:09:36 GMT | É Possível Hackear a Mente Humana — e Acessar o Plano Superior? | HENRIQUE SILVA - TIO RICK | [Read More](https://medium.com/p/65b8b9fb2d7e) |
 | Mon, 14 Jul 2025 13:09:02 GMT | É Possível Hackear a Mente Humana — e Acessar o Plano Superior?Um | HENRIQUE SILVA - TIO RICK | [Read More](https://medium.com/p/63a1aff43d75) |
 | Mon, 14 Jul 2025 13:08:53 GMT | Password Attacks — Skill Assessment (HTB Academy) | Lakshyarastogi | [Read More](https://medium.com/p/7a32092d232b) |
 | Mon, 14 Jul 2025 13:07:53 GMT | CTF Day(32) | Ahmed Narmer | [Read More](https://medium.com/p/6264301dfc38) |
@@ -106,10 +113,3 @@ Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.co
 | Mon, 14 Jul 2025 10:46:42 GMT | AI Recon Mastery: From Nuclei to Nmap with LLM Orchestration | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1063b5e1c204) |
 | Mon, 14 Jul 2025 10:46:28 GMT | AI Agents: The Next Frontier and the Hidden Cybersecurity Risks You Can’t Ignore | Finstein.ai | [Read More](https://medium.com/p/8a641c05e4e7) |
 | Mon, 14 Jul 2025 10:46:16 GMT | JavaScript File Mining for Hidden Endpoints — with Real Bug Bounty Examples | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a6a29f2ec4fc) |
-| Mon, 14 Jul 2025 10:44:01 GMT | Don’t Get Hacked: A Beginner’s Guide to Cybersecurity | Godwin Anyebe | [Read More](https://medium.com/p/17986968f94c) |
-| Mon, 14 Jul 2025 10:39:22 GMT | How safe are crypto wallets in 2025, and which ones offer the best security for beginners? | Nerina Wong | [Read More](https://medium.com/p/981ffab441a6) |
-| Mon, 14 Jul 2025 10:36:37 GMT | Secondary Malware Detection: Why your antivirus doesn’t scan deep enough | Karl Buhl | [Read More](https://medium.com/p/5291f50bd740) |
-| Mon, 14 Jul 2025 10:31:43 GMT | Boost Your Day with AI Co-Pilots, Smarter Docs, and Next-Gen Writing Tools | Natalie Folgar | [Read More](https://medium.com/p/b4d40573c3e1) |
-| Mon, 14 Jul 2025 10:29:11 GMT | Python is Bad Language [in 2025] | Mr Horbio | [Read More](https://medium.com/p/2cd1cea6dd84) |
-| Mon, 14 Jul 2025 10:28:22 GMT | Launch bonus Secrets: How to Pocket CVE for maximum benefits | Curvance | [Read More](https://medium.com/p/2a940725a2f8) |
-| Mon, 14 Jul 2025 10:26:50 GMT | ACTIVE DIRECTORY BRUTE-FORCE DETECTION USING SPLUNK SIEM | Abednego Achim | [Read More](https://medium.com/p/db96c9c91c8d) |
