@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 15:19:08 GMT | Access control vulnerabilities | MUHTADIN | [Read More](https://medium.com/p/39875c1b39da) |
+| Mon, 14 Jul 2025 15:11:24 GMT | Fortifying WordPress with Advanced MFA: How Rainbow Secure Redefines Website Login Security | Dr. Shashi Karhail | [Read More](https://medium.com/p/c14fc0ed0ed9) |
 | Mon, 14 Jul 2025 14:44:59 GMT | IDS Fundamentals(Tryhackme) | Amalpp | [Read More](https://medium.com/p/199d54f52b4c) |
+| Mon, 14 Jul 2025 14:44:25 GMT | Exploiting Global Talent: How IT Outsourcing Promotes Inequality | Manish Srivastava | [Read More](https://medium.com/p/d412e8abc5a2) |
 | Mon, 14 Jul 2025 14:41:57 GMT | Nmap Live Host Discovery:THM | Mohit Sharma | [Read More](https://medium.com/p/420a7a35319c) |
+| Mon, 14 Jul 2025 14:41:49 GMT | Say Cheese: Catch Curious Eyes on Your Mac with a Snapshot | Adler Medrado | [Read More](https://medium.com/p/ace6777c7163) |
 | Mon, 14 Jul 2025 14:41:00 GMT | Cyber Insurance: The Growing Digital Shield Businesses Can’t Ignore. | eL Njas!™ | [Read More](https://medium.com/p/b5bb09b3941c) |
+| Mon, 14 Jul 2025 14:39:00 GMT | Neither the Villain Nor the Hero | AV | [Read More](https://medium.com/p/10f525e42dfd) |
 | Mon, 14 Jul 2025 14:29:00 GMT | PortSwigger Labs: Blind SQL injection with out-of-band interaction writeup for Lab 1 and Lab 2 (SQL… | awes0meness | [Read More](https://medium.com/p/95073a584fd0) |
 | Mon, 14 Jul 2025 14:22:43 GMT | The Importance of Strong, Unique Passwords | Ed-it Editions | [Read More](https://medium.com/p/989f07d29a96) |
 | Mon, 14 Jul 2025 14:20:45 GMT | PortSwigger Lab: Blind SQL injection with time delays and information retrieval writeup (SQL… | awes0meness | [Read More](https://medium.com/p/a98f090c8bc0) |
@@ -108,8 +113,3 @@ Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.co
 | Mon, 14 Jul 2025 10:29:11 GMT | Python is Bad Language [in 2025] | Mr Horbio | [Read More](https://medium.com/p/2cd1cea6dd84) |
 | Mon, 14 Jul 2025 10:28:22 GMT | Launch bonus Secrets: How to Pocket CVE for maximum benefits | Curvance | [Read More](https://medium.com/p/2a940725a2f8) |
 | Mon, 14 Jul 2025 10:26:50 GMT | ACTIVE DIRECTORY BRUTE-FORCE DETECTION USING SPLUNK SIEM | Abednego Achim | [Read More](https://medium.com/p/db96c9c91c8d) |
-| Mon, 14 Jul 2025 10:19:42 GMT | The Pressure to Be Everything at Once. | tanishka. | [Read More](https://medium.com/p/5c8b0c19e703) |
-| Mon, 14 Jul 2025 10:19:07 GMT | How I Accidentally Solved a Heap Dump Challenge — A CTF Write-Up by CyberPunk ️ | Augustinekalolo | [Read More](https://medium.com/p/656dcebe5ba7) |
-| Mon, 14 Jul 2025 10:17:51 GMT | Securing Cloud Infrastructure with Terraform/OpenTofu: A Comprehensive Guide | Gursimar Singh | [Read More](https://medium.com/p/ffb69f3e0ba4) |
-| Mon, 14 Jul 2025 10:16:00 GMT | Compila o revienta — “Highway to Cyber” | Israel Blancas | [Read More](https://medium.com/p/9e5fd4c7ed7d) |
-| Mon, 14 Jul 2025 10:15:24 GMT | Full Guide to help you pass your TryHackMe PT1 Exam | Chicken0248 | [Read More](https://medium.com/p/3cf1f1fcb30b) |
