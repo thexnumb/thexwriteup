@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 05:12:30 GMT | PortSwigger Lab — File Upload Vulnerabilities | k1dd0sz | [Read More](https://medium.com/p/997202fa021e) |
+| Mon, 14 Jul 2025 05:11:10 GMT | I Want to Be Soft, But the World Keeps Asking Me to Be Sharp | Samiksha Shrivastava | [Read More](https://medium.com/p/5bab21a5670a) |
+| Mon, 14 Jul 2025 05:09:01 GMT | SQL Injection Saldırısı ve Korunma Yöntemleri | Enesgocmen | [Read More](https://medium.com/p/36852a0f9ec2) |
+| Mon, 14 Jul 2025 05:08:04 GMT | Why Everyone is Cancelling Duolingo: From Beloved Owl to AI Controversy | Sam Writes Security | [Read More](https://medium.com/p/34a05612f71d) |
+| Mon, 14 Jul 2025 05:02:39 GMT | When the Internet Dies, We Talk Through Light | Chintala Taraka Ram | [Read More](https://medium.com/p/130334baf66c) |
+| Mon, 14 Jul 2025 05:01:49 GMT | Taiwan’s Massive Military Build-Up Against China’s 2027 Invasion Threat | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/f0d8f6a9e736) |
+| Mon, 14 Jul 2025 04:57:34 GMT | Fake AI Study Apps & Trojan APKs: How Malicious Learning Tools Are Tricking Students | The News English India | [Read More](https://medium.com/p/12034e8703d5) |
+| Mon, 14 Jul 2025 04:56:00 GMT | How a Managed IT Services Company Can Boost Your Productivity | ACS Networks & Technologies Private Limited | [Read More](https://medium.com/p/ae91dec600e6) |
+| Mon, 14 Jul 2025 04:45:38 GMT | The Art of Cyber Deception: Why Thinking Like a Liar Can Make You a Better Defender | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/14638b7b5a48) |
+| Mon, 14 Jul 2025 04:45:00 GMT | Weak OAuth, Big Problem: Grafana Login Bypass Explained | nocley | [Read More](https://medium.com/p/fab158119a5a) |
+| Mon, 14 Jul 2025 04:35:48 GMT | Conquering Over The Wire: A Walkthrough of the Natas Web Security Challenges | Gopal Mohan | [Read More](https://medium.com/p/d01fc3e08eb6) |
+| Mon, 14 Jul 2025 04:34:53 GMT | Insecure Direct Object Reference (IDOR) Attack | Hussein Reda | [Read More](https://medium.com/p/9266181b57f7) |
 | Mon, 14 Jul 2025 04:30:02 GMT | Applications of Chainlink Fence: From Residential Gardens to Industrial Boundaries | Chatsm | [Read More](https://medium.com/p/fa62e63fac7f) |
 | Mon, 14 Jul 2025 04:20:11 GMT | How Software Composition Analysis (SCA) Empowers Developers to Discover Vulnerabilities Early | Panto AI | [Read More](https://medium.com/p/1ebf29481af1) |
 | Mon, 14 Jul 2025 04:19:00 GMT | The Digital Ghost and His Megaphone | ADanielHill | [Read More](https://medium.com/p/6c1dabfb5502) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 20:43:19 GMT | Pyhton ile Hacking | Bedirhan Yigit | [Read More](https://medium.com/p/0f000d2cf819) |
 | Sun, 13 Jul 2025 20:39:56 GMT | To My Chapter One | Charlotte | [Read More](https://medium.com/p/3cc5f203a105) |
 | Sun, 13 Jul 2025 20:34:51 GMT | No, Virginia, There Are No Cyber Jobs | Dr. Daniel Ward | [Read More](https://medium.com/p/42f2d6300dec) |
-| Sun, 13 Jul 2025 20:34:31 GMT | I Tried Doing Bug Bounty For 1 Year And This Is What I Earned In 12 months | Rehansohailultimate | [Read More](https://medium.com/p/8e3fa5ce0a63) |
-| Sun, 13 Jul 2025 20:34:26 GMT | McHire Meltdown: How a Weak Password Put McDonald’s Applicant Data at Risk in July 2025 | SoumayaJoshi | [Read More](https://medium.com/p/c0ea58a80f61) |
-| Sun, 13 Jul 2025 20:31:35 GMT | Facebook Password Case Sensitivity: A Security Flaw or UX Feature? | Zhir Salih | [Read More](https://medium.com/p/a7d9122f19ad) |
-| Sun, 13 Jul 2025 20:19:38 GMT | Understanding CORS: Why That Error Happens and How to Fix It | Sonali Nogja | [Read More](https://medium.com/p/0ced93765603) |
-| Sun, 13 Jul 2025 20:19:35 GMT | Failed RDP Honeypot Lab | Xp | [Read More](https://medium.com/p/0492be257370) |
-| Sun, 13 Jul 2025 20:02:37 GMT | From Cloud Curiosity to Career Confidence: My Journey with the AWS Emerging Talent Community | itguy7 | [Read More](https://medium.com/p/93627282d54a) |
-| Sun, 13 Jul 2025 19:55:51 GMT | How I got hacked with npm install | Bailey Vidova | [Read More](https://medium.com/p/d4228aa2c5b2) |
-| Sun, 13 Jul 2025 19:48:06 GMT | They Sold a Management System Without a Lock — And Called It a Product | Aryan Shrestha | [Read More](https://medium.com/p/7910173f6d8b) |
-| Sun, 13 Jul 2025 19:42:02 GMT | Operation Wall Breach: Sysmon Threat Hunt — A Scout Regiment Case File | Andrew Williams | [Read More](https://medium.com/p/e8e71672de55) |
-| Sun, 13 Jul 2025 19:35:56 GMT | JWTs Were Fine… Until Our App Got Hacked | CodeOps | [Read More](https://medium.com/p/4af31e455d85) |
-| Sun, 13 Jul 2025 19:28:58 GMT | Banks, Breaches, and the Battle for Digital Trust: How Banks are Reinventing Cybersecurity in the… | Mayank B Binjawadagi | [Read More](https://medium.com/p/00c05f64b1dd) |
-| Sun, 13 Jul 2025 19:27:48 GMT | NETWORK SECURITY- CRACKING WIFI PASSWORD | Kanyoko | [Read More](https://medium.com/p/6815639e65ac) |
