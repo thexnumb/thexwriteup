@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 21:33:14 GMT | 5000$ -Broken Access Control Let Me Delete Other Users’ Tasklists (ZVE-2025–2842) | KILLUA_UCHIHA | [Read More](https://medium.com/p/717dced47b0a) |
+| Mon, 14 Jul 2025 21:22:56 GMT | DefenseArk #ThreatIntelThursday - Zero-Day Attacks ⏳ | Kalpitha S | [Read More](https://medium.com/p/7e476f742c2a) |
+| Mon, 14 Jul 2025 21:19:38 GMT | How Threat Actors Use Torrents, Fake Free Software Sites to Spread Lumma Stealer Malware | Kanada | [Read More](https://medium.com/p/aad1de779a1a) |
 | Mon, 14 Jul 2025 21:14:43 GMT | Como Atualizar para o Windows 11 25H2 em 2 minutos | Dann Tech | [Read More](https://medium.com/p/43554539effc) |
 | Mon, 14 Jul 2025 21:08:06 GMT | THM - Hide and Seek | Francesco Pastore | [Read More](https://medium.com/p/c1178e433844) |
 | Mon, 14 Jul 2025 21:04:28 GMT | DefenseArk #ThreatIntelThursday - Ransomware | Kalpitha S | [Read More](https://medium.com/p/1ab7f3c86223) |
@@ -110,6 +113,3 @@ From exploiting… | Dushyant Singh Shekhawat | [Read More](https://medium.com/p
 | Mon, 14 Jul 2025 15:23:34 GMT | Splunk’s Indispensable Role in Modern Security Operations Centers (SOC) | Aliyefhemin | [Read More](https://medium.com/p/fcdd4253b240) |
 | Mon, 14 Jul 2025 15:19:08 GMT | Access control vulnerabilities | MUHTADIN | [Read More](https://medium.com/p/39875c1b39da) |
 | Mon, 14 Jul 2025 15:17:10 GMT | The Rise of Smart Cities: A Blessing or a Surveillance Nightmare? | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/54fce2183ae7) |
-| Mon, 14 Jul 2025 15:11:24 GMT | Fortifying WordPress with Advanced MFA: How Rainbow Secure Redefines Website Login Security | Dr. Shashi Karhail | [Read More](https://medium.com/p/c14fc0ed0ed9) |
-| Mon, 14 Jul 2025 14:44:59 GMT | IDS Fundamentals(Tryhackme) | Amalpp | [Read More](https://medium.com/p/199d54f52b4c) |
-| Mon, 14 Jul 2025 14:44:25 GMT | Exploiting Global Talent: How IT Outsourcing Promotes Inequality | Manish Srivastava | [Read More](https://medium.com/p/d412e8abc5a2) |
