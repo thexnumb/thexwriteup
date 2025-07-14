@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 10:19:07 GMT | How I Accidentally Solved a Heap Dump Challenge — A CTF Write-Up by CyberPunk ️ | Augustinekalolo | [Read More](https://medium.com/p/656dcebe5ba7) |
+| Mon, 14 Jul 2025 10:15:24 GMT | Full Guide to help you pass your TryHackMe PT1 Exam | Chicken0248 | [Read More](https://medium.com/p/3cf1f1fcb30b) |
+| Mon, 14 Jul 2025 10:10:57 GMT | Role-Based Authorization Using JWT and Spring Security | Gokul D | [Read More](https://medium.com/p/f59580021619) |
+| Mon, 14 Jul 2025 10:08:48 GMT | Even ‘==’ is Vulnerable: Meet Timing Attacks | AA | [Read More](https://medium.com/p/e2aafa418c84) |
+| Mon, 14 Jul 2025 10:07:04 GMT | DAY 14 — Command-Line Forensics: 14 Ways to Strengthen Your DFIR Skills Through Muscle Memory | Jinay | [Read More](https://medium.com/p/1ebe82a983ab) |
+| Mon, 14 Jul 2025 09:59:22 GMT | Vulnerability Scanning with Nessus | X2Tech | [Read More](https://medium.com/p/3b4b69fbabb3) |
+| Mon, 14 Jul 2025 09:57:49 GMT | Pass Keys Revolution: Say Goodbye to Passwords Forever! | Tech Ai Vision | [Read More](https://medium.com/p/8d8ecf4a0e19) |
+| Mon, 14 Jul 2025 09:41:44 GMT | Join the SLA police: learn how MSSPs skew SOC metrics in their favor | Rafal Kitab | [Read More](https://medium.com/p/7ae40aec962c) |
 | Mon, 14 Jul 2025 09:35:35 GMT | Stay Ahead of Attacks with Expert Cyber Security Providers in Mumbai | Nexasoft Infinity | [Read More](https://medium.com/p/21238df6d43b) |
 | Mon, 14 Jul 2025 09:31:59 GMT | Latrodectus: The Evolution of a Malware Loader (with Detection Engineering notes) | Siddhant Mishra | [Read More](https://medium.com/p/0308a2d46a1f) |
 | Mon, 14 Jul 2025 09:25:43 GMT | ZeroTrustScope | Saiprudhviraja | [Read More](https://medium.com/p/a65a6342be82) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 04:34:53 GMT | Insecure Direct Object Reference (IDOR) Attack | Hussein Reda | [Read More](https://medium.com/p/9266181b57f7) |
 | Mon, 14 Jul 2025 04:30:02 GMT | Applications of Chainlink Fence: From Residential Gardens to Industrial Boundaries | Chatsm | [Read More](https://medium.com/p/fa62e63fac7f) |
 | Mon, 14 Jul 2025 04:20:11 GMT | How Software Composition Analysis (SCA) Empowers Developers to Discover Vulnerabilities Early | Panto AI | [Read More](https://medium.com/p/1ebf29481af1) |
-| Mon, 14 Jul 2025 04:19:00 GMT | The Digital Ghost and His Megaphone | ADanielHill | [Read More](https://medium.com/p/6c1dabfb5502) |
-| Mon, 14 Jul 2025 04:18:27 GMT | Behind the Face: Exposing Deepfake Deception in the Age of AI | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/a9918f0f98c1) |
-| Mon, 14 Jul 2025 04:15:13 GMT | Pentest the Quantum Computers. | Rishav anand | [Read More](https://medium.com/p/74034e86e440) |
-| Mon, 14 Jul 2025 04:13:44 GMT | Day 11: Authentication & Security in MCP Applications | Somya Golchha | [Read More](https://medium.com/p/e4ebf01e8d87) |
-| Mon, 14 Jul 2025 04:12:15 GMT | Deepfake Technology: An Evolution and Its Effect on Misinformation | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/730ef7f2ee65) |
-| Mon, 14 Jul 2025 03:52:56 GMT | What Happens When You Click ‘Accept Cookies’? (It’s Not Just Snacks) | Rahul Mishra | [Read More](https://medium.com/p/0e4857595ea0) |
-| Mon, 14 Jul 2025 03:40:25 GMT | Seamless Sign-Ins: Secure React Apps With Supabase | Abdul Wasey Khan | [Read More](https://medium.com/p/01ae0989c8ba) |
-| Mon, 14 Jul 2025 03:31:44 GMT | How One Missing CORS Header Led to a Data Exposure | Hemangibavasiya | [Read More](https://medium.com/p/6e0173aac01b) |
