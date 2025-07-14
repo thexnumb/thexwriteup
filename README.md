@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 23:27:06 GMT | “hosts” Dosyası Nedir ve Nasıl Kullanılır? (Linux & Windows) | Emir Ekrem Kaya | [Read More](https://medium.com/p/51330e176986) |
+| Mon, 14 Jul 2025 23:24:17 GMT | Parental Guide to Online Safety: Mitigating Social Media & Gaming Risks | First Assembly Memphis | [Read More](https://medium.com/p/b79c2ad85570) |
+| Mon, 14 Jul 2025 23:22:36 GMT | The Hidden Threat | Seven Bridges | [Read More](https://medium.com/p/c60c9e10b77b) |
+| Mon, 14 Jul 2025 23:21:02 GMT | HTTPS in Local Development: How to Mirror Production Without the Pain | Cyril Baah | [Read More](https://medium.com/p/b2e222fa4c68) |
 | Mon, 14 Jul 2025 23:15:47 GMT | Quantum Secrets & Deepfake Dreams: Why You Need to Wake Up, Cyber-Warrior | Yash Kumar Chauhan | [Read More](https://medium.com/p/3820a1cc594b) |
+| Mon, 14 Jul 2025 23:13:42 GMT | Cybersecurity Threat Report | Karris | [Read More](https://medium.com/p/96076fa8d300) |
 | Mon, 14 Jul 2025 23:10:08 GMT | AI Surveillance, Blockchain Ledger Trails, and Algorithmic Tax Inquisitions: How Emerging Tech Is… | David SEHYEON Baek | [Read More](https://medium.com/p/b06760d25472) |
 | Mon, 14 Jul 2025 22:55:40 GMT | A Summer Storm in Silicon Policy | Sam - Behind The Screens | [Read More](https://medium.com/p/0f871b4a0f36) |
 | Mon, 14 Jul 2025 22:42:27 GMT | داده‌ های من، انتخاب من | Sobix | [Read More](https://medium.com/p/121d05d89c86) |
@@ -108,8 +113,3 @@ From exploiting… | Dushyant Singh Shekhawat | [Read More](https://medium.com/p
 | Mon, 14 Jul 2025 16:10:27 GMT | Leaks on Repeat: How a CI/CD Webhook Gave Me Root Logs, Tokens & Tears | Iski | [Read More](https://medium.com/p/072dfeef9629) |
 | Mon, 14 Jul 2025 16:08:01 GMT | Why Microsoft Azure Is the Smartest Cloud Choice for Startups | Techridge Solutions | [Read More](https://medium.com/p/8abbfa14e7a9) |
 | Mon, 14 Jul 2025 16:07:44 GMT | Hidden Danger: New Malware Hides in WordPress ZIP Files to Attack Your Site | Aravind S V | [Read More](https://medium.com/p/ddaa462c622a) |
-| Mon, 14 Jul 2025 16:02:06 GMT | When Your Computer Starts Digging Without You: The Story of Coin Miner Malware | Natarajan C K | [Read More](https://medium.com/p/b8d5d7af53a3) |
-| Mon, 14 Jul 2025 15:59:00 GMT | How I Ended Up an Engineer: A Tale of Mild Panic, YouTube Tutorials & Family Plot Twists | Angelin Pramod | [Read More](https://medium.com/p/ff21b3eec89d) |
-| Mon, 14 Jul 2025 15:58:02 GMT | Passive Reconnaissance : TRY HACK MY | Abdelwahab Shandy | [Read More](https://medium.com/p/de684f826c16) |
-| Mon, 14 Jul 2025 15:51:14 GMT | Not Lovin’ It: How Security Impacts Privacy | Robert Stribley | [Read More](https://medium.com/p/5b9728aa18cd) |
-| Mon, 14 Jul 2025 15:48:00 GMT | Why I Moved from Azure API Management to Krakend -A Open-Source APIM service | Prashant Raorane | [Read More](https://medium.com/p/846d1dbe1fd7) |
