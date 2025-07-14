@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 21:59:57 GMT | What Is Two-Factor Authentication — and Should You Use It? | Tech Made Simple By NTi | [Read More](https://medium.com/p/da3327bede1f) |
 | Mon, 14 Jul 2025 21:33:14 GMT | 5000$ -Broken Access Control Let Me Delete Other Users’ Tasklists (ZVE-2025–2842) | KILLUA_UCHIHA | [Read More](https://medium.com/p/717dced47b0a) |
 | Mon, 14 Jul 2025 21:22:56 GMT | DefenseArk #ThreatIntelThursday - Zero-Day Attacks ⏳ | Kalpitha S | [Read More](https://medium.com/p/7e476f742c2a) |
 | Mon, 14 Jul 2025 21:19:38 GMT | How Threat Actors Use Torrents, Fake Free Software Sites to Spread Lumma Stealer Malware | Kanada | [Read More](https://medium.com/p/aad1de779a1a) |
@@ -112,4 +113,3 @@ From exploiting… | Dushyant Singh Shekhawat | [Read More](https://medium.com/p
 | Mon, 14 Jul 2025 15:24:02 GMT | HackTheBox — Sauna Walkthrough | 0xh3x | [Read More](https://medium.com/p/d0147d9eaa2c) |
 | Mon, 14 Jul 2025 15:23:34 GMT | Splunk’s Indispensable Role in Modern Security Operations Centers (SOC) | Aliyefhemin | [Read More](https://medium.com/p/fcdd4253b240) |
 | Mon, 14 Jul 2025 15:19:08 GMT | Access control vulnerabilities | MUHTADIN | [Read More](https://medium.com/p/39875c1b39da) |
-| Mon, 14 Jul 2025 15:17:10 GMT | The Rise of Smart Cities: A Blessing or a Surveillance Nightmare? | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/54fce2183ae7) |
