@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 07:40:44 GMT | Receive Your Share of LunaFi's Token Release and Enjoy bonus tokens | LunaFi | [Read More](https://medium.com/p/305ff6c5e19b) |
+| Mon, 14 Jul 2025 07:21:19 GMT | Securing Java APIs with OAuth2 and Keycloak (Beyond the Basics) | The Outage Specialist | [Read More](https://medium.com/p/d63811202ca0) |
 | Mon, 14 Jul 2025 07:17:30 GMT | Building a Personal Recon Toolkit: What’s in My Hacker Arsenal? By Particle 14. | Khanshadan | [Read More](https://medium.com/p/90267c30022f) |
+| Mon, 14 Jul 2025 07:17:09 GMT | İnşaatta Güvenlik Nasıl Mobil Olur? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/67c2305656bc) |
 | Mon, 14 Jul 2025 07:16:37 GMT | ️ Building StealthKeyLogger: A Full-Stack Encrypted Keylogging System for Ethical Red Team Labs | Arya | [Read More](https://medium.com/p/3f5afe1d94d3) |
 | Mon, 14 Jul 2025 07:16:18 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/c7dc02034ac3) |
 | Mon, 14 Jul 2025 07:13:46 GMT | Securing Kuwait’s Financial Future: Data Center Trust in Every Transaction | Tekhabeeb | [Read More](https://medium.com/p/1ae764c6723b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 01:50:44 GMT | Secure Autonomous Agent Systems: Introduction | Shehryar | [Read More](https://medium.com/p/8b16df3e4f03) |
 | Mon, 14 Jul 2025 01:40:07 GMT | API1:2023 Broken Object Level Authorization (BOLA) | Batuhan Görgel | [Read More](https://medium.com/p/6fdce40eefc6) |
 | Mon, 14 Jul 2025 01:38:12 GMT | I Thought Hacking Was Illegal — Until I Learned People Get Paid to Do It | Alex Joyel Raj | [Read More](https://medium.com/p/48726f33323a) |
-| Mon, 14 Jul 2025 01:07:59 GMT | I missed you even when you were right there | Inner Effective | [Read More](https://medium.com/p/cd94b001b3f2) |
-| Mon, 14 Jul 2025 00:43:18 GMT | Master Gitlab CI / CD | Atimis | [Read More](https://medium.com/p/a9c481275897) |
-| Mon, 14 Jul 2025 00:37:28 GMT | Cybersecurity is a Scam | George C | [Read More](https://medium.com/p/8d917c32c1a5) |
