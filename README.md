@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 09:35:35 GMT | Stay Ahead of Attacks with Expert Cyber Security Providers in Mumbai | Nexasoft Infinity | [Read More](https://medium.com/p/21238df6d43b) |
+| Mon, 14 Jul 2025 09:31:59 GMT | Latrodectus: The Evolution of a Malware Loader (with Detection Engineering notes) | Siddhant Mishra | [Read More](https://medium.com/p/0308a2d46a1f) |
+| Mon, 14 Jul 2025 09:25:43 GMT | ZeroTrustScope | Saiprudhviraja | [Read More](https://medium.com/p/a65a6342be82) |
 | Mon, 14 Jul 2025 09:21:12 GMT | Claim Your Share of Bug's Distribution Wave and Enjoy exclusive bonuses | Bug | [Read More](https://medium.com/p/bf76d3ff07be) |
 | Mon, 14 Jul 2025 09:17:56 GMT | ISMS Explained: Crush Cyber Threats And Skyrocket Credibility | SecureSlate | [Read More](https://medium.com/p/a9e0e2735503) |
 | Mon, 14 Jul 2025 09:12:48 GMT | How to Get Real IPs Through FRP with SafeLine WAF | Quella | [Read More](https://medium.com/p/3cab90f64792) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 03:52:56 GMT | What Happens When You Click ‘Accept Cookies’? (It’s Not Just Snacks) | Rahul Mishra | [Read More](https://medium.com/p/0e4857595ea0) |
 | Mon, 14 Jul 2025 03:40:25 GMT | Seamless Sign-Ins: Secure React Apps With Supabase | Abdul Wasey Khan | [Read More](https://medium.com/p/01ae0989c8ba) |
 | Mon, 14 Jul 2025 03:31:44 GMT | How One Missing CORS Header Led to a Data Exposure | Hemangibavasiya | [Read More](https://medium.com/p/6e0173aac01b) |
-| Mon, 14 Jul 2025 03:31:44 GMT | Why Data Privacy and Security Are Non-Negotiable Pillars of Your Software in the Age of AI | i.vikash | [Read More](https://medium.com/p/015ffe4df977) |
-| Mon, 14 Jul 2025 03:30:19 GMT | PortSwigger SSRF Labs: Step-by-Step Walkthrough | Praharsha Kumar | [Read More](https://medium.com/p/47ca3f8230d1) |
-| Mon, 14 Jul 2025 03:30:17 GMT | User role controlled by request parameter [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/08b625cd227d) |
