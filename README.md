@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 17:44:02 GMT | Securing MCP Protocol: Best Practices for Using Trusted Servers | Sumanth Badethalav | [Read More](https://medium.com/p/63bacaf64f6e) |
+| Mon, 14 Jul 2025 17:35:05 GMT | PCI Compliance Feels Like a Chore. What If It Didn’t? | Openiam | [Read More](https://medium.com/p/539b0d20eb2e) |
+| Mon, 14 Jul 2025 17:31:53 GMT | Social Engineering In Cyber Security- Practical Lab | M Sameer Malik | [Read More](https://medium.com/p/9417c4737f53) |
+| Mon, 14 Jul 2025 17:25:22 GMT | The Internship | Whitesell Seth | [Read More](https://medium.com/p/49fa5e2f7f83) |
 | Mon, 14 Jul 2025 17:20:15 GMT | Overpass 3 Writeup on TryHackMe: Beginner-Friendly Hosting Walkthrough | Haitam Lazaar | [Read More](https://medium.com/p/4070d0afbfe3) |
 | Mon, 14 Jul 2025 17:19:38 GMT | Offensive MCP and MCP for Offensive | Arun Nair | [Read More](https://medium.com/p/1ac7ffe82fb6) |
 | Mon, 14 Jul 2025 17:16:53 GMT | Best Parental Control Spy Apps to Monitor Discord Usage | Narjis Batool | [Read More](https://medium.com/p/aacab1f0c7b9) |
@@ -110,7 +114,3 @@ Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.co
 | Mon, 14 Jul 2025 12:35:54 GMT | SOC104 — Malware Detected | Sohan Kanna D | [Read More](https://medium.com/p/94519cd57d88) |
 | Mon, 14 Jul 2025 12:33:43 GMT | Silent Breach Lab Writeup (CyberDefenders) | Loay Salah | [Read More](https://medium.com/p/c766dc7a9acb) |
 | Mon, 14 Jul 2025 12:32:15 GMT | Top Industry Use Cases for Reconciliation Software in 2025 | Kosh AI | [Read More](https://medium.com/p/fe79d34cd6ba) |
-| Mon, 14 Jul 2025 12:30:52 GMT | You Don’t Have to Be Whole to Be Beautiful. | Yami05 | [Read More](https://medium.com/p/a3143e7f234c) |
-| Mon, 14 Jul 2025 12:28:46 GMT | Ditching The Debugger | Itz.sanskarr | [Read More](https://medium.com/p/2bb09eea3101) |
-| Mon, 14 Jul 2025 12:25:07 GMT | Stolen Mount - Investigate an NFS Breach via PCAP Forensics - CTF Write-Up | cxburprat.dx0 | [Read More](https://medium.com/p/2e9d8e557264) |
-| Mon, 14 Jul 2025 12:24:54 GMT | Debugging my code and My life | Jimmy carter | [Read More](https://medium.com/p/162cfc14cfb2) |
