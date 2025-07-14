@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 10:46:16 GMT | JavaScript File Mining for Hidden Endpoints — with Real Bug Bounty Examples | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a6a29f2ec4fc) |
+| Mon, 14 Jul 2025 10:39:22 GMT | How safe are crypto wallets in 2025, and which ones offer the best security for beginners? | Nerina Wong | [Read More](https://medium.com/p/981ffab441a6) |
+| Mon, 14 Jul 2025 10:36:37 GMT | Secondary Malware Detection: Why your antivirus doesn’t scan deep enough | Karl Buhl | [Read More](https://medium.com/p/5291f50bd740) |
+| Mon, 14 Jul 2025 10:31:43 GMT | Boost Your Day with AI Co-Pilots, Smarter Docs, and Next-Gen Writing Tools | Natalie Folgar | [Read More](https://medium.com/p/b4d40573c3e1) |
+| Mon, 14 Jul 2025 10:29:11 GMT | Python is Bad Language [in 2025] | Mr Horbio | [Read More](https://medium.com/p/2cd1cea6dd84) |
+| Mon, 14 Jul 2025 10:28:22 GMT | Launch bonus Secrets: How to Pocket CVE for maximum benefits | Curvance | [Read More](https://medium.com/p/2a940725a2f8) |
+| Mon, 14 Jul 2025 10:26:50 GMT | ACTIVE DIRECTORY BRUTE-FORCE DETECTION USING SPLUNK SIEM | Abednego Achim | [Read More](https://medium.com/p/db96c9c91c8d) |
+| Mon, 14 Jul 2025 10:19:42 GMT | The Pressure to Be Everything at Once. | tanishka. | [Read More](https://medium.com/p/5c8b0c19e703) |
 | Mon, 14 Jul 2025 10:19:07 GMT | How I Accidentally Solved a Heap Dump Challenge — A CTF Write-Up by CyberPunk ️ | Augustinekalolo | [Read More](https://medium.com/p/656dcebe5ba7) |
+| Mon, 14 Jul 2025 10:17:51 GMT | Securing Cloud Infrastructure with Terraform/OpenTofu: A Comprehensive Guide | Gursimar Singh | [Read More](https://medium.com/p/ffb69f3e0ba4) |
+| Mon, 14 Jul 2025 10:16:00 GMT | Compila o revienta — “Highway to Cyber” | Israel Blancas | [Read More](https://medium.com/p/9e5fd4c7ed7d) |
 | Mon, 14 Jul 2025 10:15:24 GMT | Full Guide to help you pass your TryHackMe PT1 Exam | Chicken0248 | [Read More](https://medium.com/p/3cf1f1fcb30b) |
 | Mon, 14 Jul 2025 10:10:57 GMT | Role-Based Authorization Using JWT and Spring Security | Gokul D | [Read More](https://medium.com/p/f59580021619) |
 | Mon, 14 Jul 2025 10:08:48 GMT | Even ‘==’ is Vulnerable: Meet Timing Attacks | AA | [Read More](https://medium.com/p/e2aafa418c84) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 05:11:10 GMT | I Want to Be Soft, But the World Keeps Asking Me to Be Sharp | Samiksha Shrivastava | [Read More](https://medium.com/p/5bab21a5670a) |
 | Mon, 14 Jul 2025 05:09:01 GMT | SQL Injection Saldırısı ve Korunma Yöntemleri | Enesgocmen | [Read More](https://medium.com/p/36852a0f9ec2) |
 | Mon, 14 Jul 2025 05:08:04 GMT | Why Everyone is Cancelling Duolingo: From Beloved Owl to AI Controversy | Sam Writes Security | [Read More](https://medium.com/p/34a05612f71d) |
-| Mon, 14 Jul 2025 05:02:39 GMT | When the Internet Dies, We Talk Through Light | Chintala Taraka Ram | [Read More](https://medium.com/p/130334baf66c) |
-| Mon, 14 Jul 2025 05:01:49 GMT | Taiwan’s Massive Military Build-Up Against China’s 2027 Invasion Threat | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/f0d8f6a9e736) |
-| Mon, 14 Jul 2025 04:57:34 GMT | Fake AI Study Apps & Trojan APKs: How Malicious Learning Tools Are Tricking Students | The News English India | [Read More](https://medium.com/p/12034e8703d5) |
-| Mon, 14 Jul 2025 04:56:00 GMT | How a Managed IT Services Company Can Boost Your Productivity | ACS Networks & Technologies Private Limited | [Read More](https://medium.com/p/ae91dec600e6) |
-| Mon, 14 Jul 2025 04:45:38 GMT | The Art of Cyber Deception: Why Thinking Like a Liar Can Make You a Better Defender | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/14638b7b5a48) |
-| Mon, 14 Jul 2025 04:45:00 GMT | Weak OAuth, Big Problem: Grafana Login Bypass Explained | nocley | [Read More](https://medium.com/p/fab158119a5a) |
-| Mon, 14 Jul 2025 04:35:48 GMT | Conquering Over The Wire: A Walkthrough of the Natas Web Security Challenges | Gopal Mohan | [Read More](https://medium.com/p/d01fc3e08eb6) |
-| Mon, 14 Jul 2025 04:34:53 GMT | Insecure Direct Object Reference (IDOR) Attack | Hussein Reda | [Read More](https://medium.com/p/9266181b57f7) |
-| Mon, 14 Jul 2025 04:30:02 GMT | Applications of Chainlink Fence: From Residential Gardens to Industrial Boundaries | Chatsm | [Read More](https://medium.com/p/fa62e63fac7f) |
-| Mon, 14 Jul 2025 04:20:11 GMT | How Software Composition Analysis (SCA) Empowers Developers to Discover Vulnerabilities Early | Panto AI | [Read More](https://medium.com/p/1ebf29481af1) |
