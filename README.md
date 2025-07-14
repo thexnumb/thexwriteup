@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 03:40:25 GMT | Seamless Sign-Ins: Secure React Apps With Supabase | Abdul Wasey Khan | [Read More](https://medium.com/p/01ae0989c8ba) |
+| Mon, 14 Jul 2025 03:31:44 GMT | How One Missing CORS Header Led to a Data Exposure | Hemangibavasiya | [Read More](https://medium.com/p/6e0173aac01b) |
+| Mon, 14 Jul 2025 03:30:19 GMT | PortSwigger SSRF Labs: Step-by-Step Walkthrough | Praharsha Kumar | [Read More](https://medium.com/p/47ca3f8230d1) |
+| Mon, 14 Jul 2025 03:30:17 GMT | User role controlled by request parameter [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/08b625cd227d) |
+| Mon, 14 Jul 2025 03:22:50 GMT | The Curious Case of the Open Redirect ($500 Bounty) | Naresh Kandula | [Read More](https://medium.com/p/9a3e0fb6e7d1) |
+| Mon, 14 Jul 2025 03:22:08 GMT | Understanding Directory Traversal: A Step-by-Step Guide to a Common Web Vulnerability | Gopal Mohan | [Read More](https://medium.com/p/24dc6d51e86e) |
+| Mon, 14 Jul 2025 03:04:49 GMT | Simple Auditing Email Triclk | Geoffrey Horseman | [Read More](https://medium.com/p/3af6cb104853) |
+| Mon, 14 Jul 2025 03:03:21 GMT | Trust without risk | Trust Me I'm A Philosopher | [Read More](https://medium.com/p/9875bbad139a) |
+| Mon, 14 Jul 2025 02:58:35 GMT | Critical RCE Flaw Found in Qiyuesuo PDF Verifier — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/8fb265682e32) |
+| Mon, 14 Jul 2025 02:55:20 GMT | Networking Fundamentals | MrHacker | [Read More](https://medium.com/p/cdd16ef35264) |
+| Mon, 14 Jul 2025 02:53:01 GMT | Introduction to Fixed-Width Binary Encoding | Jesse Langford | [Read More](https://medium.com/p/36a09ad29de7) |
+| Mon, 14 Jul 2025 02:46:31 GMT | Here’s Why Cybersecurity Should Be Your First Investment, Not Your Last | Francesca Baniqued | [Read More](https://medium.com/p/298fa715adf6) |
+| Mon, 14 Jul 2025 02:31:44 GMT | Cultivating A Dynamic Work Culture | Sayan Dutta | [Read More](https://medium.com/p/bab0a6e3477a) |
+| Mon, 14 Jul 2025 02:31:35 GMT | Creating and Implementing Standardized Technical Templates to Ensure Consistent Security Practices… | Corinna | [Read More](https://medium.com/p/d569bc38da33) |
+| Mon, 14 Jul 2025 02:22:21 GMT | I Trapped Telegram Scammers in an Endless AI Conversation | Robert Hirsch | [Read More](https://medium.com/p/5535a7d67a2f) |
+| Mon, 14 Jul 2025 02:18:51 GMT | Securing My Digital World While Traveling in Houston | Corinna | [Read More](https://medium.com/p/0e5789614ccc) |
+| Mon, 14 Jul 2025 02:16:53 GMT | The Aftermath of Openness | Tyler August Wren | [Read More](https://medium.com/p/dbcfd5186e83) |
+| Mon, 14 Jul 2025 02:15:26 GMT | Branch.io Fallback URL Exploit: How Hackers Redirect Users | Mrunal chawda | [Read More](https://medium.com/p/ee77fc88ecdb) |
+| Mon, 14 Jul 2025 02:14:05 GMT | Think Like a User, Act Like a Tester: A QA Engineer’s Journey | sajith dilshan | [Read More](https://medium.com/p/b9c59de5db41) |
+| Mon, 14 Jul 2025 02:09:08 GMT | HackTheBox - Dog | jniket | [Read More](https://medium.com/p/9848620e2105) |
+| Mon, 14 Jul 2025 02:06:20 GMT | Bypassing Microsoft Account Setup during Fresh Windows Install | enigma_ | [Read More](https://medium.com/p/5337d82f108c) |
+| Mon, 14 Jul 2025 02:05:07 GMT | Cybercriminals at Qantas Expose Over 6 million in Data Breach Catastrophe | Francesca Baniqued | [Read More](https://medium.com/p/b9b4b5e1bf22) |
 | Mon, 14 Jul 2025 01:51:11 GMT | PortSwigger Lab — API Testing | k1dd0sz | [Read More](https://medium.com/p/50cb7e3013a1) |
 | Mon, 14 Jul 2025 01:50:44 GMT | Secure Autonomous Agent Systems: Introduction | Shehryar | [Read More](https://medium.com/p/8b16df3e4f03) |
 | Mon, 14 Jul 2025 01:40:07 GMT | API1:2023 Broken Object Level Authorization (BOLA) | Batuhan Görgel | [Read More](https://medium.com/p/6fdce40eefc6) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 19:07:53 GMT | How I Built a Cloud-Native Mini SIEM to Detect Threats and Send Real-Time Alerts | Victoria | [Read More](https://medium.com/p/c005cd370f60) |
 | Sun, 13 Jul 2025 19:01:46 GMT | On-premise Nessus OS Version Upgrade / Lokal Nessus İşletim Sistemi Sürüm Güncellemesi | Ziya DENİZ | [Read More](https://medium.com/p/62c0c5b3c012) |
 | Sun, 13 Jul 2025 18:57:55 GMT | This is what I understood about SSRF! | Priya | [Read More](https://medium.com/p/abd7fd9d5a60) |
-| Sun, 13 Jul 2025 18:57:24 GMT | Why I’m Learning Cybersecurity (And What I’ve Learned So Far) | Bello Al-Amin Tomiwa | [Read More](https://medium.com/p/e5053969dd99) |
-| Sun, 13 Jul 2025 18:56:06 GMT | My Credit Card was used to make £300+ in fraudulent transactions, how I recovered and secured… | Sam D. | [Read More](https://medium.com/p/8ceb37678812) |
-| Sun, 13 Jul 2025 18:54:56 GMT | API Keys for Bedrock: A Brief Security Overview | Adan | [Read More](https://medium.com/p/2133ed9a2b3f) |
-| Sun, 13 Jul 2025 18:46:56 GMT | Real-Time DNS Tunneling Detection and Mitigation ️‍♂️ | Esra Kayhan | [Read More](https://medium.com/p/6dd200198dbd) |
-| Sun, 13 Jul 2025 18:40:09 GMT | Over The Wire : NATAS | Praharsha Kumar | [Read More](https://medium.com/p/9b9b0692b211) |
-| Sun, 13 Jul 2025 18:27:34 GMT | Over The Wire : NATAS | Praharsha Kumar | [Read More](https://medium.com/p/d4026538cb55) |
-| Sun, 13 Jul 2025 18:27:16 GMT | From Malware to Geopolitics: Essential Cyber and Counterintelligence Books | Travis Murphy | [Read More](https://medium.com/p/b870f3c16852) |
-| Sun, 13 Jul 2025 18:11:09 GMT | The MFA You Trust Is Lying to You and Here’s How Attackers Exploit It | cybrNK | [Read More](https://medium.com/p/ed36d8e27df9) |
-| Sun, 13 Jul 2025 18:08:50 GMT | When Industrial IoT Devices Are Left Open: My Cybersecurity Research on Red Lion G3 Web Server… | hacker_might | [Read More](https://medium.com/p/a910d242d6b0) |
-| Sun, 13 Jul 2025 18:08:17 GMT | Think You’re Safe Online? 10 Signs You’ve Already Been Hacked | Rosalia Quinn | [Read More](https://medium.com/p/3ab75d4bd8a0) |
-| Sun, 13 Jul 2025 17:56:41 GMT | EDR + SOAR Project: Automating Threat Detection and Response | sczxw | [Read More](https://medium.com/p/52589522b654) |
-| Sun, 13 Jul 2025 17:52:34 GMT | Why Every Developer Should Learn Basic Cybersecurity and Finance in 2025 | pganeshkrishnareddy | [Read More](https://medium.com/p/5cedecf1cd88) |
-| Sun, 13 Jul 2025 17:49:42 GMT | Brutus HackTheBox SherlockWriteup | Krishna | [Read More](https://medium.com/p/292e2d6b4d36) |
-| Sun, 13 Jul 2025 17:43:54 GMT | How to Secure an Application in Power BI | A.I Hub | [Read More](https://medium.com/p/d5a90da6eab6) |
-| Sun, 13 Jul 2025 17:41:27 GMT | Navigating the Complex Terrain of Cisco ISE Vulnerabilities: Lessons from the Trenches | Dr. Geethamanikanta Jakka | [Read More](https://medium.com/p/9e073428d25c) |
-| Sun, 13 Jul 2025 17:39:07 GMT | Nmap Live Host Discovery!!! | santosh gadekar | [Read More](https://medium.com/p/1a6e334fb86d) |
-| Sun, 13 Jul 2025 17:38:04 GMT | 3 Main Reasons Why Android Switched to 16KB Pages: A Beginner-Friendly Guide to Memory Pages | Roycohen | [Read More](https://medium.com/p/dc33a6a9a611) |
-| Sun, 13 Jul 2025 17:35:20 GMT | DAY 4: Lazy But an Eventful Day | Akshatdwivedi | [Read More](https://medium.com/p/3526abb4d5e1) |
-| Sun, 13 Jul 2025 17:33:26 GMT | Web Sockets | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/7cf130a8fd9e) |
-| Sun, 13 Jul 2025 17:28:35 GMT | Properly Secure Tenable Nessus Vulnerability Scanning: How to scan Linux Machines with a dedicated… | Truvis Thornton | [Read More](https://medium.com/p/4262b7541227) |
-| Sun, 13 Jul 2025 17:26:28 GMT | How to Create a Strong Password That Actually Protects You | Subham Behera | [Read More](https://medium.com/p/0ff3349e788c) |
-| Sun, 13 Jul 2025 17:20:14 GMT | Hack the Human: How Adversaries Weaponize Behavior, Not Just Code | Travis Ray Caverhill | [Read More](https://medium.com/p/01cd2e02dd39) |
