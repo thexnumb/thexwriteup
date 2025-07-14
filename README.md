@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 22:31:08 GMT | Juice Jacking at Airports: Is Your Phone Safe While Charging? | Akshay Chauhan | [Read More](https://medium.com/p/1b7a284eb8c3) |
+| Mon, 14 Jul 2025 22:26:56 GMT | DefenseArk #ThreatIntelThursday - Cross-Site Scripting | Kalpitha S | [Read More](https://medium.com/p/fec428feb58a) |
+| Mon, 14 Jul 2025 22:24:38 GMT | The Big Lie Behind the Social Security ‘Drain’: Why Ending It Wouldn’t Help the Budget — Unless We… | Jessie Miller | [Read More](https://medium.com/p/d1f835de0eb2) |
+| Mon, 14 Jul 2025 22:16:56 GMT | Protecting Against Deepfake Attacks in Enterprise | Karthikeyan Nagaraj | [Read More](https://medium.com/p/eaf21ef290c6) |
+| Mon, 14 Jul 2025 22:11:07 GMT | How Will Buhari’s Legacy Shape Nigeria? | Oge Samuel Okonkwo | [Read More](https://medium.com/p/125a06b8f42d) |
 | Mon, 14 Jul 2025 21:59:57 GMT | What Is Two-Factor Authentication — and Should You Use It? | Tech Made Simple By NTi | [Read More](https://medium.com/p/da3327bede1f) |
 | Mon, 14 Jul 2025 21:33:14 GMT | 5000$ -Broken Access Control Let Me Delete Other Users’ Tasklists (ZVE-2025–2842) | KILLUA_UCHIHA | [Read More](https://medium.com/p/717dced47b0a) |
 | Mon, 14 Jul 2025 21:22:56 GMT | DefenseArk #ThreatIntelThursday - Zero-Day Attacks ⏳ | Kalpitha S | [Read More](https://medium.com/p/7e476f742c2a) |
@@ -108,8 +113,3 @@ From exploiting… | Dushyant Singh Shekhawat | [Read More](https://medium.com/p
 | Mon, 14 Jul 2025 15:43:43 GMT | Why Splunk is my favourite SIEM tool?! | Ronak Joshi | [Read More](https://medium.com/p/bc3f75406d19) |
 | Mon, 14 Jul 2025 15:42:48 GMT | How The Hacking Hubb Helped Me Stay Informed About My Family’s Digital Activity | Firefighter | [Read More](https://medium.com/p/64651ec776f5) |
 | Mon, 14 Jul 2025 15:39:25 GMT | Nmap Live Host Discovery — A Complete Walkthrough (TryHackMe) | Chandan Nayak | [Read More](https://medium.com/p/b86353cfd8a9) |
-| Mon, 14 Jul 2025 15:25:45 GMT | Complete Active Directory Takeover via AS-REP Roasting and Psexec (Scenario 2) | Aminouji | [Read More](https://medium.com/p/a4cc1e7454e0) |
-| Mon, 14 Jul 2025 15:25:17 GMT | THE ART OF THE DEVIL: PSYCHOLOGICAL WARFARE’S MANUAL | Ghost | [Read More](https://medium.com/p/e1dd21128eb7) |
-| Mon, 14 Jul 2025 15:24:02 GMT | HackTheBox — Sauna Walkthrough | 0xh3x | [Read More](https://medium.com/p/d0147d9eaa2c) |
-| Mon, 14 Jul 2025 15:23:34 GMT | Splunk’s Indispensable Role in Modern Security Operations Centers (SOC) | Aliyefhemin | [Read More](https://medium.com/p/fcdd4253b240) |
-| Mon, 14 Jul 2025 15:19:08 GMT | Access control vulnerabilities | MUHTADIN | [Read More](https://medium.com/p/39875c1b39da) |
