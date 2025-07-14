@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 23:15:47 GMT | Quantum Secrets & Deepfake Dreams: Why You Need to Wake Up, Cyber-Warrior | Yash Kumar Chauhan | [Read More](https://medium.com/p/3820a1cc594b) |
+| Mon, 14 Jul 2025 23:10:08 GMT | AI Surveillance, Blockchain Ledger Trails, and Algorithmic Tax Inquisitions: How Emerging Tech Is… | David SEHYEON Baek | [Read More](https://medium.com/p/b06760d25472) |
+| Mon, 14 Jul 2025 22:55:40 GMT | A Summer Storm in Silicon Policy | Sam - Behind The Screens | [Read More](https://medium.com/p/0f871b4a0f36) |
+| Mon, 14 Jul 2025 22:42:27 GMT | داده‌ های من، انتخاب من | Sobix | [Read More](https://medium.com/p/121d05d89c86) |
 | Mon, 14 Jul 2025 22:31:08 GMT | Juice Jacking at Airports: Is Your Phone Safe While Charging? | Akshay Chauhan | [Read More](https://medium.com/p/1b7a284eb8c3) |
 | Mon, 14 Jul 2025 22:26:56 GMT | DefenseArk #ThreatIntelThursday - Cross-Site Scripting | Kalpitha S | [Read More](https://medium.com/p/fec428feb58a) |
 | Mon, 14 Jul 2025 22:24:38 GMT | The Big Lie Behind the Social Security ‘Drain’: Why Ending It Wouldn’t Help the Budget — Unless We… | Jessie Miller | [Read More](https://medium.com/p/d1f835de0eb2) |
@@ -109,7 +113,3 @@ From exploiting… | Dushyant Singh Shekhawat | [Read More](https://medium.com/p
 | Mon, 14 Jul 2025 15:58:02 GMT | Passive Reconnaissance : TRY HACK MY | Abdelwahab Shandy | [Read More](https://medium.com/p/de684f826c16) |
 | Mon, 14 Jul 2025 15:51:14 GMT | Not Lovin’ It: How Security Impacts Privacy | Robert Stribley | [Read More](https://medium.com/p/5b9728aa18cd) |
 | Mon, 14 Jul 2025 15:48:00 GMT | Why I Moved from Azure API Management to Krakend -A Open-Source APIM service | Prashant Raorane | [Read More](https://medium.com/p/846d1dbe1fd7) |
-| Mon, 14 Jul 2025 15:47:47 GMT | “OSINT 101: Using theHarvester for Information Gathering” | Ar-jay A. Ballaco | [Read More](https://medium.com/p/65241d4fac01) |
-| Mon, 14 Jul 2025 15:43:43 GMT | Why Splunk is my favourite SIEM tool?! | Ronak Joshi | [Read More](https://medium.com/p/bc3f75406d19) |
-| Mon, 14 Jul 2025 15:42:48 GMT | How The Hacking Hubb Helped Me Stay Informed About My Family’s Digital Activity | Firefighter | [Read More](https://medium.com/p/64651ec776f5) |
-| Mon, 14 Jul 2025 15:39:25 GMT | Nmap Live Host Discovery — A Complete Walkthrough (TryHackMe) | Chandan Nayak | [Read More](https://medium.com/p/b86353cfd8a9) |
