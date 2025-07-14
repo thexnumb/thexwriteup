@@ -12,10 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 04:30:02 GMT | Applications of Chainlink Fence: From Residential Gardens to Industrial Boundaries | Chatsm | [Read More](https://medium.com/p/fa62e63fac7f) |
+| Mon, 14 Jul 2025 04:20:11 GMT | How Software Composition Analysis (SCA) Empowers Developers to Discover Vulnerabilities Early | Panto AI | [Read More](https://medium.com/p/1ebf29481af1) |
+| Mon, 14 Jul 2025 04:19:00 GMT | The Digital Ghost and His Megaphone | ADanielHill | [Read More](https://medium.com/p/6c1dabfb5502) |
+| Mon, 14 Jul 2025 04:18:27 GMT | Behind the Face: Exposing Deepfake Deception in the Age of AI | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/a9918f0f98c1) |
+| Mon, 14 Jul 2025 04:15:13 GMT | Pentest the Quantum Computers. | Rishav anand | [Read More](https://medium.com/p/74034e86e440) |
+| Mon, 14 Jul 2025 04:13:44 GMT | Day 11: Authentication & Security in MCP Applications | Somya Golchha | [Read More](https://medium.com/p/e4ebf01e8d87) |
+| Mon, 14 Jul 2025 04:12:15 GMT | Deepfake Technology: An Evolution and Its Effect on Misinformation | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/730ef7f2ee65) |
+| Mon, 14 Jul 2025 03:52:56 GMT | What Happens When You Click ‘Accept Cookies’? (It’s Not Just Snacks) | Rahul Mishra | [Read More](https://medium.com/p/0e4857595ea0) |
 | Mon, 14 Jul 2025 03:40:25 GMT | Seamless Sign-Ins: Secure React Apps With Supabase | Abdul Wasey Khan | [Read More](https://medium.com/p/01ae0989c8ba) |
 | Mon, 14 Jul 2025 03:31:44 GMT | How One Missing CORS Header Led to a Data Exposure | Hemangibavasiya | [Read More](https://medium.com/p/6e0173aac01b) |
+| Mon, 14 Jul 2025 03:31:44 GMT | Why Data Privacy and Security Are Non-Negotiable Pillars of Your Software in the Age of AI | i.vikash | [Read More](https://medium.com/p/015ffe4df977) |
 | Mon, 14 Jul 2025 03:30:19 GMT | PortSwigger SSRF Labs: Step-by-Step Walkthrough | Praharsha Kumar | [Read More](https://medium.com/p/47ca3f8230d1) |
 | Mon, 14 Jul 2025 03:30:17 GMT | User role controlled by request parameter [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/08b625cd227d) |
+| Mon, 14 Jul 2025 03:29:44 GMT | “Blame the Vendor” Distractions | Barry Greene | [Read More](https://medium.com/p/983c0f642a72) |
 | Mon, 14 Jul 2025 03:22:50 GMT | The Curious Case of the Open Redirect ($500 Bounty) | Naresh Kandula | [Read More](https://medium.com/p/9a3e0fb6e7d1) |
 | Mon, 14 Jul 2025 03:22:08 GMT | Understanding Directory Traversal: A Step-by-Step Guide to a Common Web Vulnerability | Gopal Mohan | [Read More](https://medium.com/p/24dc6d51e86e) |
 | Mon, 14 Jul 2025 03:04:49 GMT | Simple Auditing Email Triclk | Geoffrey Horseman | [Read More](https://medium.com/p/3af6cb104853) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 19:35:56 GMT | JWTs Were Fine… Until Our App Got Hacked | CodeOps | [Read More](https://medium.com/p/4af31e455d85) |
 | Sun, 13 Jul 2025 19:28:58 GMT | Banks, Breaches, and the Battle for Digital Trust: How Banks are Reinventing Cybersecurity in the… | Mayank B Binjawadagi | [Read More](https://medium.com/p/00c05f64b1dd) |
 | Sun, 13 Jul 2025 19:27:48 GMT | NETWORK SECURITY- CRACKING WIFI PASSWORD | Kanyoko | [Read More](https://medium.com/p/6815639e65ac) |
-| Sun, 13 Jul 2025 19:27:45 GMT | Day 50: Subnets and VLANs | Nile Okomo | [Read More](https://medium.com/p/8ea5860ca336) |
-| Sun, 13 Jul 2025 19:26:51 GMT | Python ile Hacking: Hackviser Programlama Modülü Özeti | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/41b2861a6162) |
-| Sun, 13 Jul 2025 19:16:43 GMT | The Kill Chain write-up | Albertus Meiring | [Read More](https://medium.com/p/c388afe4a800) |
-| Sun, 13 Jul 2025 19:14:46 GMT | Dog - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/6d94f5962d89) |
-| Sun, 13 Jul 2025 19:13:07 GMT | Network Architecture and Security (Part 1 )CySA+ | Bit_Picker | [Read More](https://medium.com/p/1fb54010010f) |
-| Sun, 13 Jul 2025 19:11:23 GMT | Why It’s Time for Firmware Transparency to Be a Legal Requirement in Enterprise Tech | Joshua Napilay | [Read More](https://medium.com/p/bc6f2beef22a) |
-| Sun, 13 Jul 2025 19:11:18 GMT | Double Down on Defense: Why SIEM and XDR Are Your Cybersecurity Power Duo -Max Chaffanjon | Max Chaffanjon | [Read More](https://medium.com/p/016c884ab6b4) |
-| Sun, 13 Jul 2025 19:07:53 GMT | How I Built a Cloud-Native Mini SIEM to Detect Threats and Send Real-Time Alerts | Victoria | [Read More](https://medium.com/p/c005cd370f60) |
-| Sun, 13 Jul 2025 19:01:46 GMT | On-premise Nessus OS Version Upgrade / Lokal Nessus İşletim Sistemi Sürüm Güncellemesi | Ziya DENİZ | [Read More](https://medium.com/p/62c0c5b3c012) |
-| Sun, 13 Jul 2025 18:57:55 GMT | This is what I understood about SSRF! | Priya | [Read More](https://medium.com/p/abd7fd9d5a60) |
