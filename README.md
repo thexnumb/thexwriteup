@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 07:17:30 GMT | Building a Personal Recon Toolkit: What’s in My Hacker Arsenal? By Particle 14. | Khanshadan | [Read More](https://medium.com/p/90267c30022f) |
+| Mon, 14 Jul 2025 07:16:37 GMT | ️ Building StealthKeyLogger: A Full-Stack Encrypted Keylogging System for Ethical Red Team Labs | Arya | [Read More](https://medium.com/p/3f5afe1d94d3) |
+| Mon, 14 Jul 2025 07:16:18 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/c7dc02034ac3) |
+| Mon, 14 Jul 2025 07:13:46 GMT | Securing Kuwait’s Financial Future: Data Center Trust in Every Transaction | Tekhabeeb | [Read More](https://medium.com/p/1ae764c6723b) |
+| Mon, 14 Jul 2025 07:12:23 GMT | How People Leave Imprints on Your Nervous System | Jyoti Singh | [Read More](https://medium.com/p/0570c54b8e27) |
+| Mon, 14 Jul 2025 07:10:56 GMT | Redefining Recovery: A Deep Dive into the Oracle ZDLRA | Arsalan Dehghani Sariyarghan | [Read More](https://medium.com/p/eb294156e095) |
+| Mon, 14 Jul 2025 07:07:11 GMT | How Hackers Use Google Dorks to Find Sensitive Data Online | Shubham Bane | [Read More](https://medium.com/p/5231f229c92b) |
+| Mon, 14 Jul 2025 07:06:16 GMT | Why Cybersecurity Teams Are (Secretly) Terrified of AI | Yash Gorasiya | [Read More](https://medium.com/p/8a3c810e8c8b) |
+| Mon, 14 Jul 2025 07:00:22 GMT | Before You Code, Secure the Machine: What I Learned From a Compromised Server | Ryan Rustill | [Read More](https://medium.com/p/6795d3ff5d4b) |
+| Mon, 14 Jul 2025 06:58:17 GMT | Understanding IP Addressing | Alestin shelmon | [Read More](https://medium.com/p/20f9e60dcec4) |
+| Mon, 14 Jul 2025 06:56:55 GMT | Prologue: Meet Elena “Phantom” Sterling | Rogier Dijkman | [Read More](https://medium.com/p/d4131fabde62) |
+| Mon, 14 Jul 2025 06:55:50 GMT | Q-Day Threat: How Quantum Computing Could Break Global Encryption by 2026. | Technologic Innovation | [Read More](https://medium.com/p/2440fa6af9f5) |
+| Mon, 14 Jul 2025 06:54:57 GMT | TryHackMe - Windows User Activity Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/93bfe19e862c) |
+| Mon, 14 Jul 2025 06:54:21 GMT | ️‍♂️ Not Everything You Google is True | Sohanur Rahman | [Read More](https://medium.com/p/09b472bbba85) |
+| Mon, 14 Jul 2025 06:53:15 GMT | Desecure Termal Kontrol Hizmeti | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/9c1475246ec2) |
+| Mon, 14 Jul 2025 06:51:29 GMT | Building a Flask-Powered Security Code Analyzer | ROH | [Read More](https://medium.com/p/ded1a1e82c6d) |
+| Mon, 14 Jul 2025 06:49:01 GMT | The Man I’ve “Marked”: Terrified to Want Him | The Self Observed | [Read More](https://medium.com/p/a4365546b70d) |
+| Mon, 14 Jul 2025 06:44:44 GMT | Business Logic Vulnerabilities part-3 : Inconsistent security controls | Ahmad Sopyan | [Read More](https://medium.com/p/f1eedc027002) |
+| Mon, 14 Jul 2025 06:44:35 GMT | How I started my career | SampradaKhadka | [Read More](https://medium.com/p/d04ec88e3fd7) |
+| Mon, 14 Jul 2025 06:43:35 GMT | ️ My Cybersecurity Journey: From Curiosity to Career | Nileshmali | [Read More](https://medium.com/p/9b9214c05c3e) |
+| Mon, 14 Jul 2025 06:41:01 GMT | Deploy Microsoft Entra External ID tenant using Azure Bicep | Brian Veldman | [Read More](https://medium.com/p/9f0335ad7e26) |
+| Mon, 14 Jul 2025 06:35:43 GMT | Ecommerce, Logo & Website Design Agency - Kat & Krow Experts | Kat & Krow | [Read More](https://medium.com/p/f447309580f3) |
 | Mon, 14 Jul 2025 06:29:08 GMT | When Support Is Silent | Umaa Arun | [Read More](https://medium.com/p/e02707bc2e46) |
 | Mon, 14 Jul 2025 06:28:42 GMT | Simulating and Detecting SSH Brute-Force Attacks Using Wazuh on Ubuntu | 0xLeonidas | [Read More](https://medium.com/p/02b2591190b6) |
 | Mon, 14 Jul 2025 06:26:31 GMT | Are Mongo Object IDs really random? | vastavik_anurag | [Read More](https://medium.com/p/1b6f9c83d04d) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 01:07:59 GMT | I missed you even when you were right there | Inner Effective | [Read More](https://medium.com/p/cd94b001b3f2) |
 | Mon, 14 Jul 2025 00:43:18 GMT | Master Gitlab CI / CD | Atimis | [Read More](https://medium.com/p/a9c481275897) |
 | Mon, 14 Jul 2025 00:37:28 GMT | Cybersecurity is a Scam | George C | [Read More](https://medium.com/p/8d917c32c1a5) |
-| Mon, 14 Jul 2025 00:17:32 GMT | Exploring ELLIPAL: A Positive Journey in the Hardware Wallet Industry | Tubacankaya | [Read More](https://medium.com/p/2415a5a1df98) |
-| Mon, 14 Jul 2025 00:05:41 GMT | What we appear to be | chocopuff | [Read More](https://medium.com/p/e50122ddddf2) |
-| Mon, 14 Jul 2025 00:04:00 GMT | K8s Secrets: Base Recommended Protection - External Secret Store Providers | W. Jenks Gibbons | [Read More](https://medium.com/p/c32889ba2756) |
-| Mon, 14 Jul 2025 00:00:34 GMT | The Universal Cyber Incident Taxonomy (UCIT) | Mattysploit | [Read More](https://medium.com/p/65e070cfa2ed) |
-| Sun, 13 Jul 2025 23:44:03 GMT | The Most Important ffuf parameters every Bug Bounty Hunter should use in 2025 | Musab Sarı | [Read More](https://medium.com/p/a523a0e1735b) |
-| Sun, 13 Jul 2025 23:41:51 GMT | VM Hardening: Finding the Sweet Spot Between Security and Functionality | Mohamed | [Read More](https://medium.com/p/a43b3eceabdb) |
-| Sun, 13 Jul 2025 23:37:57 GMT | Canada’s Ban on Hikvision: Why the World Needs Stronger Surveillance Tech Oversight | Tapendra Dev | [Read More](https://medium.com/p/797b06eb92c5) |
-| Sun, 13 Jul 2025 23:36:18 GMT | Day 35: Environment Variables in Node.js — Best Practices & Security Tips | Dipak Ahirav | [Read More](https://medium.com/p/081b597df34b) |
-| Sun, 13 Jul 2025 23:35:57 GMT | ✉️ ProtonMail vs Tuta: Which Private Email Provider Actually Honors Your Privacy? | BiyteLüm | [Read More](https://medium.com/p/da09162eb099) |
-| Sun, 13 Jul 2025 23:32:56 GMT | FortiSIEM: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/33c2b556fded) |
-| Sun, 13 Jul 2025 23:28:50 GMT | Operation Broken Gate: Web Recon at Shiganshina | Andrew Williams | [Read More](https://medium.com/p/e8c261b9f68d) |
-| Sun, 13 Jul 2025 23:22:00 GMT | Reviving LEGION: From Archived Python Tool to Modern Rust-Powered Penetration Testing Platform | Igor Dunaev | [Read More](https://medium.com/p/08304fe1dd25) |
-| Sun, 13 Jul 2025 23:17:43 GMT | It surprises me,how I made $5000 a month using AI | Caleb Ifeanyi | [Read More](https://medium.com/p/f0efc21c7604) |
-| Sun, 13 Jul 2025 23:15:46 GMT | KIRMIZI TAKIM | Abdullah Narin | [Read More](https://medium.com/p/7e4d1633d0c1) |
-| Sun, 13 Jul 2025 23:01:45 GMT | Beyond the Code: Defending Against Runtime Exploits | Sammcmullen | [Read More](https://medium.com/p/f5d5f4f255fa) |
-| Sun, 13 Jul 2025 23:01:45 GMT | LetsDefend — Linux Forensics Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/64761d8cbfb3) |
-| Sun, 13 Jul 2025 22:44:09 GMT | How I Built a Free Audit-Ready CMMC Policy Kit (Instant Download) | Steven McDaniel | [Read More](https://medium.com/p/4db9fe1c02fb) |
-| Sun, 13 Jul 2025 22:32:57 GMT | FLAG COMMAND CHALLENGE : HACKTHEBOX | rizzziom | [Read More](https://medium.com/p/284473b6f85f) |
-| Sun, 13 Jul 2025 22:32:24 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 9: Performance evaluation (6/7) | Aaron Rusz | [Read More](https://medium.com/p/f2dc504fe65b) |
-| Sun, 13 Jul 2025 22:29:48 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 8: Operation (5/7) | Aaron Rusz | [Read More](https://medium.com/p/4307ad37cce2) |
-| Sun, 13 Jul 2025 22:27:11 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 7: Support (4/7) | Aaron Rusz | [Read More](https://medium.com/p/544fe2ee5cdb) |
-| Sun, 13 Jul 2025 22:22:35 GMT | The Role of Bank Transactions in Combating Financial Scams — and Why Prevention Still Matters Most | Pmyzuy | [Read More](https://medium.com/p/3c6d06871bf0) |
