@@ -12,11 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 14:44:59 GMT | IDS Fundamentals(Tryhackme) | Amalpp | [Read More](https://medium.com/p/199d54f52b4c) |
+| Mon, 14 Jul 2025 14:41:57 GMT | Nmap Live Host Discovery:THM | Mohit Sharma | [Read More](https://medium.com/p/420a7a35319c) |
+| Mon, 14 Jul 2025 14:41:00 GMT | Cyber Insurance: The Growing Digital Shield Businesses Can’t Ignore. | eL Njas!™ | [Read More](https://medium.com/p/b5bb09b3941c) |
+| Mon, 14 Jul 2025 14:29:00 GMT | PortSwigger Labs: Blind SQL injection with out-of-band interaction writeup for Lab 1 and Lab 2 (SQL… | awes0meness | [Read More](https://medium.com/p/95073a584fd0) |
+| Mon, 14 Jul 2025 14:22:43 GMT | The Importance of Strong, Unique Passwords | Ed-it Editions | [Read More](https://medium.com/p/989f07d29a96) |
 | Mon, 14 Jul 2025 14:20:45 GMT | PortSwigger Lab: Blind SQL injection with time delays and information retrieval writeup (SQL… | awes0meness | [Read More](https://medium.com/p/a98f090c8bc0) |
 | Mon, 14 Jul 2025 14:20:27 GMT | PortSwigger Lab: Visible error-based SQL injection writeup (SQL Injection) | awes0meness | [Read More](https://medium.com/p/547a7473ec37) |
 | Mon, 14 Jul 2025 14:18:13 GMT | Home Security Showdown: Blink Mini, Ring Stick Up Cam, or Blink Floodlight? | Kivora | [Read More](https://medium.com/p/eb158f3be91b) |
 | Mon, 14 Jul 2025 14:16:36 GMT | Sooner or Later, We Are All Superheroes
 Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.com/p/4d806161a184) |
+| Mon, 14 Jul 2025 14:16:32 GMT | Cybersecurity Learning Progress: Day 1 — Unpacking Network Foundations! | Muhammad Maulana Yusuf Ibrahim | [Read More](https://medium.com/p/eb473e7d9909) |
 | Mon, 14 Jul 2025 14:06:48 GMT | Business Logic Bug to Bypass NO’s | Mustafa Abdullah | [Read More](https://medium.com/p/6b7472e87814) |
 | Mon, 14 Jul 2025 14:03:59 GMT | Kubernetes Security: Understanding RBAC and Security Contexts | The Devops Girl | [Read More](https://medium.com/p/f5608b1750de) |
 | Mon, 14 Jul 2025 14:03:08 GMT | Cyber Briefing: 2025.07.14 | CyberMaterial | [Read More](https://medium.com/p/4d0ee23b73f3) |
@@ -107,9 +113,3 @@ Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.co
 | Mon, 14 Jul 2025 10:17:51 GMT | Securing Cloud Infrastructure with Terraform/OpenTofu: A Comprehensive Guide | Gursimar Singh | [Read More](https://medium.com/p/ffb69f3e0ba4) |
 | Mon, 14 Jul 2025 10:16:00 GMT | Compila o revienta — “Highway to Cyber” | Israel Blancas | [Read More](https://medium.com/p/9e5fd4c7ed7d) |
 | Mon, 14 Jul 2025 10:15:24 GMT | Full Guide to help you pass your TryHackMe PT1 Exam | Chicken0248 | [Read More](https://medium.com/p/3cf1f1fcb30b) |
-| Mon, 14 Jul 2025 10:10:57 GMT | Role-Based Authorization Using JWT and Spring Security | Gokul D | [Read More](https://medium.com/p/f59580021619) |
-| Mon, 14 Jul 2025 10:08:48 GMT | Even ‘==’ is Vulnerable: Meet Timing Attacks | AA | [Read More](https://medium.com/p/e2aafa418c84) |
-| Mon, 14 Jul 2025 10:07:04 GMT | DAY 14 — Command-Line Forensics: 14 Ways to Strengthen Your DFIR Skills Through Muscle Memory | Jinay | [Read More](https://medium.com/p/1ebe82a983ab) |
-| Mon, 14 Jul 2025 09:59:22 GMT | Vulnerability Scanning with Nessus | X2Tech | [Read More](https://medium.com/p/3b4b69fbabb3) |
-| Mon, 14 Jul 2025 09:57:49 GMT | Pass Keys Revolution: Say Goodbye to Passwords Forever! | Tech Ai Vision | [Read More](https://medium.com/p/8d8ecf4a0e19) |
-| Mon, 14 Jul 2025 09:41:44 GMT | Join the SLA police: learn how MSSPs skew SOC metrics in their favor | Rafal Kitab | [Read More](https://medium.com/p/7ae40aec962c) |
