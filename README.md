@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 20:44:32 GMT | Selective In-Memory Syscall Unhooking | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d7c5006b05f5) |
+| Mon, 14 Jul 2025 20:39:37 GMT | What’s the Cheapest Way to Comply with HIPAA Online Tracking Technology Rules? | Feroot Security | [Read More](https://medium.com/p/5e6c05316383) |
+| Mon, 14 Jul 2025 20:39:02 GMT | Flash USDT — Real-Looking, But Not Real | Jepi | [Read More](https://medium.com/p/40393f53905e) |
+| Mon, 14 Jul 2025 20:36:27 GMT | Linux SSH and Basic File Operations: A Beginner’s Guide to Remote Control and File Handling | Allen Ace | [Read More](https://medium.com/p/406a4224cd3e) |
+| Mon, 14 Jul 2025 20:32:31 GMT | Seen USDT Appear Without a Transaction? That’s Flash ! | Jepi | [Read More](https://medium.com/p/862e97a6830d) |
+| Mon, 14 Jul 2025 20:26:56 GMT | AI-Powered Malware Behavior Analysis with YARA Rules: Cybersecurity’s New Superpower | Esra Kayhan | [Read More](https://medium.com/p/1713c9f013c5) |
 | Mon, 14 Jul 2025 20:16:50 GMT | Filling the Cybersecurity Skills Gap: What Businesses Must Do Now | SafeAeon Inc. | [Read More](https://medium.com/p/7d98bccb3c2c) |
 | Mon, 14 Jul 2025 20:14:39 GMT | Registro Fotográfico Digital Certificado | Marco Romero | [Read More](https://medium.com/p/6a98d37c99be) |
 | Mon, 14 Jul 2025 20:12:13 GMT | eJPT Zero to Hero: The Metasploit Framework CTF1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/262da27cb5e0) |
@@ -107,10 +113,3 @@ From exploiting… | Dushyant Singh Shekhawat | [Read More](https://medium.com/p
 | Mon, 14 Jul 2025 14:39:00 GMT | Neither the Villain Nor the Hero | AV | [Read More](https://medium.com/p/10f525e42dfd) |
 | Mon, 14 Jul 2025 14:29:00 GMT | PortSwigger Labs: Blind SQL injection with out-of-band interaction writeup for Lab 1 and Lab 2 (SQL… | awes0meness | [Read More](https://medium.com/p/95073a584fd0) |
 | Mon, 14 Jul 2025 14:22:43 GMT | The Importance of Strong, Unique Passwords | Ed-it Editions | [Read More](https://medium.com/p/989f07d29a96) |
-| Mon, 14 Jul 2025 14:20:45 GMT | PortSwigger Lab: Blind SQL injection with time delays and information retrieval writeup (SQL… | awes0meness | [Read More](https://medium.com/p/a98f090c8bc0) |
-| Mon, 14 Jul 2025 14:20:27 GMT | PortSwigger Lab: Visible error-based SQL injection writeup (SQL Injection) | awes0meness | [Read More](https://medium.com/p/547a7473ec37) |
-| Mon, 14 Jul 2025 14:18:13 GMT | Home Security Showdown: Blink Mini, Ring Stick Up Cam, or Blink Floodlight? | Kivora | [Read More](https://medium.com/p/eb158f3be91b) |
-| Mon, 14 Jul 2025 14:16:36 GMT | Sooner or Later, We Are All Superheroes
-Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.com/p/4d806161a184) |
-| Mon, 14 Jul 2025 14:16:32 GMT | Cybersecurity Learning Progress: Day 1 — Unpacking Network Foundations! | Muhammad Maulana Yusuf Ibrahim | [Read More](https://medium.com/p/eb473e7d9909) |
-| Mon, 14 Jul 2025 14:06:48 GMT | Business Logic Bug to Bypass NO’s | Mustafa Abdullah | [Read More](https://medium.com/p/6b7472e87814) |
