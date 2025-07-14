@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 16:26:03 GMT | Vulnerability Assessment vs Penetration Testing: A Pentester’s Perspective | YoungerSibling | [Read More](https://medium.com/p/0fe05806f813) |
+| Mon, 14 Jul 2025 16:19:00 GMT | Building a Realistic SOC Lab on AWS | Gabriel Santos | [Read More](https://medium.com/p/356f1f1386cc) |
+| Mon, 14 Jul 2025 16:18:28 GMT | Meet Rehu Talwar — The Mind Behind MM Hacking & Real-World CTFs | Bjpbaghapurana | [Read More](https://medium.com/p/9465ddc68741) |
+| Mon, 14 Jul 2025 16:17:49 GMT | Explore the Dark Web Safely — A Complete Practical Guide for Only $3.99 | 1x9 | [Read More](https://medium.com/p/9fa1e411d3b2) |
+| Mon, 14 Jul 2025 16:12:42 GMT | [Unofficial FAST solution] Medje dPG box | David | [Read More](https://medium.com/p/9f4e689d46a9) |
+| Mon, 14 Jul 2025 16:11:30 GMT | The Origins of Viruses (And They Weren’t Even That Evil) | jenish patel | [Read More](https://medium.com/p/e8ac60fd70a1) |
+| Mon, 14 Jul 2025 16:10:27 GMT | Leaks on Repeat: How a CI/CD Webhook Gave Me Root Logs, Tokens & Tears | Iski | [Read More](https://medium.com/p/072dfeef9629) |
+| Mon, 14 Jul 2025 16:08:01 GMT | Why Microsoft Azure Is the Smartest Cloud Choice for Startups | Techridge Solutions | [Read More](https://medium.com/p/8abbfa14e7a9) |
+| Mon, 14 Jul 2025 16:07:44 GMT | Hidden Danger: New Malware Hides in WordPress ZIP Files to Attack Your Site | Aravind S V | [Read More](https://medium.com/p/ddaa462c622a) |
+| Mon, 14 Jul 2025 16:02:06 GMT | When Your Computer Starts Digging Without You: The Story of Coin Miner Malware | Natarajan C K | [Read More](https://medium.com/p/b8d5d7af53a3) |
+| Mon, 14 Jul 2025 15:59:00 GMT | How I Ended Up an Engineer: A Tale of Mild Panic, YouTube Tutorials & Family Plot Twists | Angelin Pramod | [Read More](https://medium.com/p/ff21b3eec89d) |
+| Mon, 14 Jul 2025 15:58:02 GMT | Passive Reconnaissance : TRY HACK MY | Abdelwahab Shandy | [Read More](https://medium.com/p/de684f826c16) |
+| Mon, 14 Jul 2025 15:51:14 GMT | Not Lovin’ It: How Security Impacts Privacy | Robert Stribley | [Read More](https://medium.com/p/5b9728aa18cd) |
+| Mon, 14 Jul 2025 15:48:00 GMT | Why I Moved from Azure API Management to Krakend -A Open-Source APIM service | Prashant Raorane | [Read More](https://medium.com/p/846d1dbe1fd7) |
+| Mon, 14 Jul 2025 15:47:47 GMT | “OSINT 101: Using theHarvester for Information Gathering” | Ar-jay A. Ballaco | [Read More](https://medium.com/p/65241d4fac01) |
+| Mon, 14 Jul 2025 15:43:43 GMT | Why Splunk is my favourite SIEM tool?! | Ronak Joshi | [Read More](https://medium.com/p/bc3f75406d19) |
 | Mon, 14 Jul 2025 15:42:48 GMT | How The Hacking Hubb Helped Me Stay Informed About My Family’s Digital Activity | Firefighter | [Read More](https://medium.com/p/64651ec776f5) |
+| Mon, 14 Jul 2025 15:39:25 GMT | Nmap Live Host Discovery — A Complete Walkthrough (TryHackMe) | Chandan Nayak | [Read More](https://medium.com/p/b86353cfd8a9) |
 | Mon, 14 Jul 2025 15:25:45 GMT | Complete Active Directory Takeover via AS-REP Roasting and Psexec (Scenario 2) | Aminouji | [Read More](https://medium.com/p/a4cc1e7454e0) |
 | Mon, 14 Jul 2025 15:25:17 GMT | THE ART OF THE DEVIL: PSYCHOLOGICAL WARFARE’S MANUAL | Ghost | [Read More](https://medium.com/p/e1dd21128eb7) |
 | Mon, 14 Jul 2025 15:24:02 GMT | HackTheBox — Sauna Walkthrough | 0xh3x | [Read More](https://medium.com/p/d0147d9eaa2c) |
@@ -96,20 +113,3 @@ Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.co
 | Mon, 14 Jul 2025 11:26:59 GMT | Why Users Don’t Trust Your App and How to Fix It | Cogntix Blog | [Read More](https://medium.com/p/626f44e4f9af) |
 | Mon, 14 Jul 2025 11:24:36 GMT | SOCFortres5: Google Gemini Vulnerability in Workspace Allows Stealthy Email-Based Script Injection | Darshan | [Read More](https://medium.com/p/10cf08f9d2e6) |
 | Mon, 14 Jul 2025 11:22:12 GMT | ️‍♂️ Mastering OSINT: How to Find Information on Anyone | Vipul Sonule | [Read More](https://medium.com/p/9185be6f9429) |
-| Mon, 14 Jul 2025 11:20:59 GMT | SOCFortres5: Louis Vuitton Data Breach Exposes Customer Information in Sophisticated Cyberattack | Darshan | [Read More](https://medium.com/p/11871ca995f9) |
-| Mon, 14 Jul 2025 11:16:56 GMT | Whois: The Internet’s Phone Book | Goose Gustin | [Read More](https://medium.com/p/744bbf3a5ea0) |
-| Mon, 14 Jul 2025 11:16:32 GMT | ️‍♂️ Footprinting Lab — Hard Walkthrough | ShortGiant | [Read More](https://medium.com/p/58e8bc43ee65) |
-| Mon, 14 Jul 2025 11:14:53 GMT | TryHackMe Annie — Walkthrough | mauzware | [Read More](https://medium.com/p/7006e0baf2f4) |
-| Mon, 14 Jul 2025 11:13:19 GMT | Конфиденциальность в Web3: Что такое “невидимый блокчейн” от Phala? | vizimnokh | [Read More](https://medium.com/p/e3eb26bfc38b) |
-| Mon, 14 Jul 2025 11:12:08 GMT | Three Drinks and a Breakdown: My AI, Unfiltered | Kristina Bogović | [Read More](https://medium.com/p/d2ed3e95fb15) |
-| Mon, 14 Jul 2025 11:01:49 GMT | Cyber Security Awareness Training: Outsmart the Hackers | ovofarm | [Read More](https://medium.com/p/1ba78484eefb) |
-| Mon, 14 Jul 2025 11:01:45 GMT | “I’m the Boss… But I’m Afraid They’ll Find Out I Don’t Have the Answer” | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/f1f6dd7e58a8) |
-| Mon, 14 Jul 2025 11:00:35 GMT | Day 43 of #60DaysofGRC: ISO27001 Overview — What It Is and Why It Matters | Brittney Ginther | [Read More](https://medium.com/p/cdb4b673277e) |
-| Mon, 14 Jul 2025 10:59:13 GMT | A Vulnerability Nobody Cares About | mauz | [Read More](https://medium.com/p/2b878bf62d8c) |
-| Mon, 14 Jul 2025 10:54:48 GMT | How I Got Rid of a Blackmailer — And What You Should Know Before It’s Too Late | Hampsonilana | [Read More](https://medium.com/p/c49cef326c44) |
-| Mon, 14 Jul 2025 10:52:55 GMT | SSO: The One Concept Every Developer Should Actually Understand | The Outage Specialist | [Read More](https://medium.com/p/83ac16565524) |
-| Mon, 14 Jul 2025 10:48:05 GMT | Top 20 Linux Commands Every Cybersecurity Beginner Must Know | Rashichoudhary | [Read More](https://medium.com/p/df9476ce1bf8) |
-| Mon, 14 Jul 2025 10:47:07 GMT | How I Automated Pentesting with ChatGPT, Burp Extensions, and ZAP | Narendar Battula (nArEn) | [Read More](https://medium.com/p/32b2bb9ba047) |
-| Mon, 14 Jul 2025 10:46:42 GMT | AI Recon Mastery: From Nuclei to Nmap with LLM Orchestration | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1063b5e1c204) |
-| Mon, 14 Jul 2025 10:46:28 GMT | AI Agents: The Next Frontier and the Hidden Cybersecurity Risks You Can’t Ignore | Finstein.ai | [Read More](https://medium.com/p/8a641c05e4e7) |
-| Mon, 14 Jul 2025 10:46:16 GMT | JavaScript File Mining for Hidden Endpoints — with Real Bug Bounty Examples | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a6a29f2ec4fc) |
