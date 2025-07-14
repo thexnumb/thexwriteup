@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 19:30:36 GMT | “Larva 25003” Cyber Attack: A Detailed Analysis | İbrahim Birkan Öztürk | [Read More](https://medium.com/p/6df0386431af) |
+| Mon, 14 Jul 2025 19:30:05 GMT | “Larva 25003” Siber Saldırısı: Detaylı Analizi | İbrahim Birkan Öztürk | [Read More](https://medium.com/p/a8ad1c24a8de) |
+| Mon, 14 Jul 2025 19:23:12 GMT | The Definitive Guide to HTTP and HTTPS - MejbanKadir - Ethical Hacker | Mejbankadir | [Read More](https://medium.com/p/82f64e500b87) |
+| Mon, 14 Jul 2025 19:15:06 GMT | Understanding Network Vulnerabilities Through Nmap & Nessus | Mahimabhushan | [Read More](https://medium.com/p/5b09f2bc1ed7) |
+| Mon, 14 Jul 2025 19:11:57 GMT | How to Implement Robust WAF Protection for Web Applications: Block SQL Injection, XSS, and DDoS… | Abdulhakeem Sulaiman | [Read More](https://medium.com/p/4abe1549ac0f) |
 | Mon, 14 Jul 2025 19:07:56 GMT | What is SSTI (Server-Side Template Injection)? | Gökhan | [Read More](https://medium.com/p/4d8af75e2070) |
+| Mon, 14 Jul 2025 19:04:53 GMT | The Loneliest Echo: Why Vulnerability So Often Falls on Deaf Ears | Ckan Johnson | [Read More](https://medium.com/p/80d7e47e1688) |
 | Mon, 14 Jul 2025 19:02:06 GMT | Mobile Forensic - Mobile Hacking - Ethical Hacking | BlackHat | [Read More](https://medium.com/p/bc1994c40e14) |
 | Mon, 14 Jul 2025 18:41:24 GMT | Where Does All the Data Go When You Hit ‘Delete’? | Gandhiridhima | [Read More](https://medium.com/p/34ccd555b0ec) |
 | Mon, 14 Jul 2025 18:40:33 GMT | How I Made My MacBook's Keyboard & Trackpad Work on Linux (T2 Chip Fix That Works) | Oikawasain | [Read More](https://medium.com/p/8212090e724f) |
@@ -108,9 +114,3 @@ Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.co
 | Mon, 14 Jul 2025 14:03:00 GMT | Guide: Receive CVE During the Upcoming Treasure Rollout | Curvance | [Read More](https://medium.com/p/fa0973a8f22a) |
 | Mon, 14 Jul 2025 13:52:58 GMT | Reaping Without Sowing: A Glimpse at theHarvester | Goose Gustin | [Read More](https://medium.com/p/b62b2774cf67) |
 | Mon, 14 Jul 2025 13:50:28 GMT | DORA und ISO 27001: Der strategische Compliance-Leitfaden für Finanzinstitute | Philip Hansen | [Read More](https://medium.com/p/e562afaf2192) |
-| Mon, 14 Jul 2025 13:49:49 GMT | NIS2 vs. DORA: Der ultimative Strategieleitfaden für EU-Compliance-Führungskräfte | Philip Hansen | [Read More](https://medium.com/p/fb36a4b16809) |
-| Mon, 14 Jul 2025 13:49:41 GMT | DORA Audit Readiness: Wie Finanzunternehmen 2025 Compliance-Herausforderungen meistern | Philip Hansen | [Read More](https://medium.com/p/42ba4d51147f) |
-| Mon, 14 Jul 2025 13:47:17 GMT | picoCTF — Local Authority | Robby firdauzy | [Read More](https://medium.com/p/afe1f0fc6171) |
-| Mon, 14 Jul 2025 13:40:04 GMT | Walkthrough THM Smol | Telynor | [Read More](https://medium.com/p/62a84b1df6d7) |
-| Mon, 14 Jul 2025 13:33:39 GMT | Building the Future of Cybersecurity: An AI-Driven SOC Platform with Reinforcement Learning | ca | [Read More](https://medium.com/p/a542820d9db8) |
-| Mon, 14 Jul 2025 13:26:58 GMT | The Day the ATM Spoke: A Cybersecurity Thriller In Broad Daylight | O. J. Okpabi | [Read More](https://medium.com/p/e2c0dc0915ee) |
