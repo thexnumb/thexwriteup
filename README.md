@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 11:13:19 GMT | Конфиденциальность в Web3: Что такое “невидимый блокчейн” от Phala? | vizimnokh | [Read More](https://medium.com/p/e3eb26bfc38b) |
+| Mon, 14 Jul 2025 11:12:08 GMT | Three Drinks and a Breakdown: My AI, Unfiltered | Kristina Bogović | [Read More](https://medium.com/p/d2ed3e95fb15) |
+| Mon, 14 Jul 2025 11:01:49 GMT | Cyber Security Awareness Training: Outsmart the Hackers | ovofarm | [Read More](https://medium.com/p/1ba78484eefb) |
+| Mon, 14 Jul 2025 11:01:45 GMT | “I’m the Boss… But I’m Afraid They’ll Find Out I Don’t Have the Answer” | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/f1f6dd7e58a8) |
+| Mon, 14 Jul 2025 11:00:35 GMT | Day 43 of #60DaysofGRC: ISO27001 Overview — What It Is and Why It Matters | Brittney Ginther | [Read More](https://medium.com/p/cdb4b673277e) |
+| Mon, 14 Jul 2025 10:59:13 GMT | A Vulnerability Nobody Cares About | mauz | [Read More](https://medium.com/p/2b878bf62d8c) |
+| Mon, 14 Jul 2025 10:54:48 GMT | How I Got Rid of a Blackmailer — And What You Should Know Before It’s Too Late | Hampsonilana | [Read More](https://medium.com/p/c49cef326c44) |
+| Mon, 14 Jul 2025 10:52:55 GMT | SSO: The One Concept Every Developer Should Actually Understand | The Outage Specialist | [Read More](https://medium.com/p/83ac16565524) |
+| Mon, 14 Jul 2025 10:48:05 GMT | Top 20 Linux Commands Every Cybersecurity Beginner Must Know | Rashichoudhary | [Read More](https://medium.com/p/df9476ce1bf8) |
+| Mon, 14 Jul 2025 10:47:07 GMT | How I Automated Pentesting with ChatGPT, Burp Extensions, and ZAP | Narendar Battula (nArEn) | [Read More](https://medium.com/p/32b2bb9ba047) |
+| Mon, 14 Jul 2025 10:46:42 GMT | AI Recon Mastery: From Nuclei to Nmap with LLM Orchestration | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1063b5e1c204) |
+| Mon, 14 Jul 2025 10:46:28 GMT | AI Agents: The Next Frontier and the Hidden Cybersecurity Risks You Can’t Ignore | Finstein.ai | [Read More](https://medium.com/p/8a641c05e4e7) |
 | Mon, 14 Jul 2025 10:46:16 GMT | JavaScript File Mining for Hidden Endpoints — with Real Bug Bounty Examples | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a6a29f2ec4fc) |
+| Mon, 14 Jul 2025 10:44:01 GMT | Don’t Get Hacked: A Beginner’s Guide to Cybersecurity | Godwin Anyebe | [Read More](https://medium.com/p/17986968f94c) |
 | Mon, 14 Jul 2025 10:39:22 GMT | How safe are crypto wallets in 2025, and which ones offer the best security for beginners? | Nerina Wong | [Read More](https://medium.com/p/981ffab441a6) |
 | Mon, 14 Jul 2025 10:36:37 GMT | Secondary Malware Detection: Why your antivirus doesn’t scan deep enough | Karl Buhl | [Read More](https://medium.com/p/5291f50bd740) |
 | Mon, 14 Jul 2025 10:31:43 GMT | Boost Your Day with AI Co-Pilots, Smarter Docs, and Next-Gen Writing Tools | Natalie Folgar | [Read More](https://medium.com/p/b4d40573c3e1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 05:44:25 GMT | Cybersecurity Basics Every Internet User Should Know | Charleskerren | [Read More](https://medium.com/p/ea9a4a29970f) |
 | Mon, 14 Jul 2025 05:39:24 GMT | Linux Networking-Part-1: Netplan The IP Master | Karthick Dkk | [Read More](https://medium.com/p/8a6ea78a2f15) |
 | Mon, 14 Jul 2025 05:38:00 GMT | Understanding and Preventing Broken Access Control: OWASP Top 10:2021’s #1 Risk | Hussein Reda | [Read More](https://medium.com/p/6e520d0b1df2) |
-| Mon, 14 Jul 2025 05:37:54 GMT | What’s under the hood of the AI engine, and why is it important to understand its power? | Sam | [Read More](https://medium.com/p/8d3c2d089667) |
-| Mon, 14 Jul 2025 05:34:02 GMT | How to Add reCAPTCHA on WordPress for Better Security | Wpelementothemes | [Read More](https://medium.com/p/e1cdca6c14c3) |
-| Mon, 14 Jul 2025 05:33:12 GMT | Building Your Cybersecurity Toolkit: Advanced Tools for Complete Protection (Part 2) | Xperts Unimited | [Read More](https://medium.com/p/e1983d197393) |
-| Mon, 14 Jul 2025 05:31:19 GMT | Launch Securely: Penetration Testing for Australian Startups in 2025 | Steve McLaughlin | [Read More](https://medium.com/p/20340ecc8c4b) |
-| Mon, 14 Jul 2025 05:28:26 GMT | Security Guard Services in Australia: Everything You Need to Know | Stateguard Protective Services | [Read More](https://medium.com/p/eb87b267368e) |
-| Mon, 14 Jul 2025 05:27:58 GMT | CTI Notetaking: How to Make Effective Notes and Documentation | Adam Goss | [Read More](https://medium.com/p/8541cdff90cd) |
-| Mon, 14 Jul 2025 05:26:45 GMT | Nmap Live Host Discovery | Shourya Pratap Singh | [Read More](https://medium.com/p/35129a133ec4) |
-| Mon, 14 Jul 2025 05:26:37 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Sarthakkumbhalwar | [Read More](https://medium.com/p/772ff511679e) |
-| Mon, 14 Jul 2025 05:21:16 GMT | Building Your Cybersecurity Toolkit: Essential Foundations for Business Protection (Part 1) | Xperts Unimited | [Read More](https://medium.com/p/78721cf57538) |
-| Mon, 14 Jul 2025 05:12:30 GMT | PortSwigger Lab — File Upload Vulnerabilities | k1dd0sz | [Read More](https://medium.com/p/997202fa021e) |
-| Mon, 14 Jul 2025 05:11:10 GMT | I Want to Be Soft, But the World Keeps Asking Me to Be Sharp | Samiksha Shrivastava | [Read More](https://medium.com/p/5bab21a5670a) |
-| Mon, 14 Jul 2025 05:09:01 GMT | SQL Injection Saldırısı ve Korunma Yöntemleri | Enesgocmen | [Read More](https://medium.com/p/36852a0f9ec2) |
-| Mon, 14 Jul 2025 05:08:04 GMT | Why Everyone is Cancelling Duolingo: From Beloved Owl to AI Controversy | Sam Writes Security | [Read More](https://medium.com/p/34a05612f71d) |
