@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 08:20:49 GMT | The Daily Tech Digest: 14 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f6fd9c830ab6) |
+| Mon, 14 Jul 2025 08:16:53 GMT | Soteria Project Review | Kev Jackson | [Read More](https://medium.com/p/7058a1846774) |
+| Mon, 14 Jul 2025 08:11:56 GMT | Petra Security: The ML-Powered Identity Sentinel You Wish Microsoft Built | Dean | [Read More](https://medium.com/p/25eebe84617e) |
+| Mon, 14 Jul 2025 08:08:02 GMT | How WAFs Work + One You Should Try | AerieWhole123 | [Read More](https://medium.com/p/bde1f113d2ea) |
+| Mon, 14 Jul 2025 08:01:45 GMT | Ransomware as a Service: Has Cybercrime Become a Business Model? | Gertrude Abagale | [Read More](https://medium.com/p/444b784de917) |
+| Mon, 14 Jul 2025 07:49:54 GMT | Why Everyone’s Falling in Love with ImgToolbox — The DIY Image Swiss Army Knife You Didn’t Know… | qiaozhi | [Read More](https://medium.com/p/c0dd5f4773a2) |
+| Mon, 14 Jul 2025 07:49:09 GMT | What Is ARP? Cybersecurity Basics from a Real Beginner | Akshatdwivedi | [Read More](https://medium.com/p/b8a08821966d) |
+| Mon, 14 Jul 2025 07:48:15 GMT | Securing Data in AWS S3 | Mrinal Kanti Sardar | [Read More](https://medium.com/p/f27f65b6bbda) |
+| Mon, 14 Jul 2025 07:47:08 GMT | Best Ethical Hacking Course Near Me | The Drop Organization | [Read More](https://medium.com/p/5ea0fe240115) |
 | Mon, 14 Jul 2025 07:40:44 GMT | Receive Your Share of LunaFi's Token Release and Enjoy bonus tokens | LunaFi | [Read More](https://medium.com/p/305ff6c5e19b) |
+| Mon, 14 Jul 2025 07:37:31 GMT | The blueprint that took me from Junior QA to Test Manager | Jayateerth Katti | [Read More](https://medium.com/p/7554a1ee16e0) |
 | Mon, 14 Jul 2025 07:21:19 GMT | Securing Java APIs with OAuth2 and Keycloak (Beyond the Basics) | The Outage Specialist | [Read More](https://medium.com/p/d63811202ca0) |
 | Mon, 14 Jul 2025 07:17:30 GMT | Building a Personal Recon Toolkit: What’s in My Hacker Arsenal? By Particle 14. | Khanshadan | [Read More](https://medium.com/p/90267c30022f) |
 | Mon, 14 Jul 2025 07:17:09 GMT | İnşaatta Güvenlik Nasıl Mobil Olur? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/67c2305656bc) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 02:31:35 GMT | Creating and Implementing Standardized Technical Templates to Ensure Consistent Security Practices… | Corinna | [Read More](https://medium.com/p/d569bc38da33) |
 | Mon, 14 Jul 2025 02:22:21 GMT | I Trapped Telegram Scammers in an Endless AI Conversation | Robert Hirsch | [Read More](https://medium.com/p/5535a7d67a2f) |
 | Mon, 14 Jul 2025 02:18:51 GMT | Securing My Digital World While Traveling in Houston | Corinna | [Read More](https://medium.com/p/0e5789614ccc) |
-| Mon, 14 Jul 2025 02:16:53 GMT | The Aftermath of Openness | Tyler August Wren | [Read More](https://medium.com/p/dbcfd5186e83) |
-| Mon, 14 Jul 2025 02:15:26 GMT | Branch.io Fallback URL Exploit: How Hackers Redirect Users | Mrunal chawda | [Read More](https://medium.com/p/ee77fc88ecdb) |
-| Mon, 14 Jul 2025 02:14:05 GMT | Think Like a User, Act Like a Tester: A QA Engineer’s Journey | sajith dilshan | [Read More](https://medium.com/p/b9c59de5db41) |
-| Mon, 14 Jul 2025 02:09:08 GMT | HackTheBox - Dog | jniket | [Read More](https://medium.com/p/9848620e2105) |
-| Mon, 14 Jul 2025 02:06:20 GMT | Bypassing Microsoft Account Setup during Fresh Windows Install | enigma_ | [Read More](https://medium.com/p/5337d82f108c) |
-| Mon, 14 Jul 2025 02:05:07 GMT | Cybercriminals at Qantas Expose Over 6 million in Data Breach Catastrophe | Francesca Baniqued | [Read More](https://medium.com/p/b9b4b5e1bf22) |
-| Mon, 14 Jul 2025 01:51:11 GMT | PortSwigger Lab — API Testing | k1dd0sz | [Read More](https://medium.com/p/50cb7e3013a1) |
-| Mon, 14 Jul 2025 01:50:44 GMT | Secure Autonomous Agent Systems: Introduction | Shehryar | [Read More](https://medium.com/p/8b16df3e4f03) |
-| Mon, 14 Jul 2025 01:40:07 GMT | API1:2023 Broken Object Level Authorization (BOLA) | Batuhan Görgel | [Read More](https://medium.com/p/6fdce40eefc6) |
-| Mon, 14 Jul 2025 01:38:12 GMT | I Thought Hacking Was Illegal — Until I Learned People Get Paid to Do It | Alex Joyel Raj | [Read More](https://medium.com/p/48726f33323a) |
