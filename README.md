@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 17:20:15 GMT | Overpass 3 Writeup on TryHackMe: Beginner-Friendly Hosting Walkthrough | Haitam Lazaar | [Read More](https://medium.com/p/4070d0afbfe3) |
+| Mon, 14 Jul 2025 17:19:38 GMT | Offensive MCP and MCP for Offensive | Arun Nair | [Read More](https://medium.com/p/1ac7ffe82fb6) |
+| Mon, 14 Jul 2025 17:16:53 GMT | Best Parental Control Spy Apps to Monitor Discord Usage | Narjis Batool | [Read More](https://medium.com/p/aacab1f0c7b9) |
+| Mon, 14 Jul 2025 17:16:10 GMT | Web Application Security Testing for Beginners: Your First 10 Tests | Andrei Ivan | [Read More](https://medium.com/p/f286c6b712b0) |
+| Mon, 14 Jul 2025 17:09:57 GMT | LİNUX VE TEMEL KOMUTLARI | Fırat Yağmur | [Read More](https://medium.com/p/d8669eb3bb1d) |
+| Mon, 14 Jul 2025 17:02:29 GMT | How I Conquered a PHP Challenge with Zero PHP Knowledge and a Hybrid AI Sidekick | Jesse Freeman | [Read More](https://medium.com/p/4f89d0e0819b) |
+| Mon, 14 Jul 2025 17:00:43 GMT | Premieron.com Exposed: India’s Biggest Investment Scam Unmasked with Proof | Xcyber Squad | [Read More](https://medium.com/p/ec6d2a74300a) |
+| Mon, 14 Jul 2025 16:58:00 GMT | Introducing ODP.NET 23.9: Enhanced Features for Distributed Transactions, AI, and More | Alex Keh | [Read More](https://medium.com/p/107ffdd497de) |
+| Mon, 14 Jul 2025 16:56:11 GMT | Creating a System Restore Point (Windows 11) | Michael Hampton | [Read More](https://medium.com/p/691face9c40e) |
+| Mon, 14 Jul 2025 16:52:00 GMT | Stop Thinking Small: Telemetry Pipelines Are Redefining Security and IT Ops | Nick Heudecker | [Read More](https://medium.com/p/23cfd09b4ff9) |
 | Mon, 14 Jul 2025 16:49:47 GMT | Prompt Engineering for Cybersecurity: A Comprehensive Guide | Nelson Sánchez S | [Read More](https://medium.com/p/ac2db96af81d) |
 | Mon, 14 Jul 2025 16:49:38 GMT | STIG This, Not That: Simplifying System Hardening for Beginners | Brandon Dewater | [Read More](https://medium.com/p/e8300ac99412) |
 | Mon, 14 Jul 2025 16:47:49 GMT | Sequel Dump - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/3ff72c06feb7) |
@@ -104,13 +114,3 @@ Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.co
 | Mon, 14 Jul 2025 12:28:46 GMT | Ditching The Debugger | Itz.sanskarr | [Read More](https://medium.com/p/2bb09eea3101) |
 | Mon, 14 Jul 2025 12:25:07 GMT | Stolen Mount - Investigate an NFS Breach via PCAP Forensics - CTF Write-Up | cxburprat.dx0 | [Read More](https://medium.com/p/2e9d8e557264) |
 | Mon, 14 Jul 2025 12:24:54 GMT | Debugging my code and My life | Jimmy carter | [Read More](https://medium.com/p/162cfc14cfb2) |
-| Mon, 14 Jul 2025 12:16:18 GMT | How Hybrid SOC Services Align with Zero Trust Security Models | sanya | [Read More](https://medium.com/p/bf8b8de79463) |
-| Mon, 14 Jul 2025 12:15:54 GMT | OSINT Flag Hunting — Industrial Intrusion CTF 2025 | TraceX0 | [Read More](https://medium.com/p/5251fc620f1d) |
-| Mon, 14 Jul 2025 12:15:43 GMT | Understanding the P5 Process in Global Nuclear Governance | Soedirman Center for Global Studies | [Read More](https://medium.com/p/0e26d765be95) |
-| Mon, 14 Jul 2025 12:15:28 GMT | UNAUTHENTICATED, REMOTE CODE EXECUTION(RCE), ROOT-LEVEL ACCESS (CVSS 10.0): | RABIU SULEIMAN | [Read More](https://medium.com/p/8fc70e022d59) |
-| Mon, 14 Jul 2025 12:12:37 GMT | Web Cache Poisoning | Azer Abdullazde | [Read More](https://medium.com/p/4936ddecf19d) |
-| Mon, 14 Jul 2025 12:12:25 GMT | MITRE ATT&CK Threat Mapping Report — Bybit Incident | Kelechi Onwuka | [Read More](https://medium.com/p/966a901bd576) |
-| Mon, 14 Jul 2025 12:10:05 GMT | DC-2 VulnHub Walkthrough | Aadi | [Read More](https://medium.com/p/3ac3dfb67319) |
-| Mon, 14 Jul 2025 12:07:09 GMT | How can I stop hackers from penetrating my payment gateway services? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/722af7d9e39f) |
-| Mon, 14 Jul 2025 12:02:59 GMT | Code Undercover: Unveiling the Secrets of Real-World Bugs | Faith Alabi Erioluwa | [Read More](https://medium.com/p/1d3e11476098) |
-| Mon, 14 Jul 2025 11:59:29 GMT | The Joy and Terror of Being Seen as Your Full Self | Anushka | [Read More](https://medium.com/p/e2c9f57bf367) |
