@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 20:16:50 GMT | Filling the Cybersecurity Skills Gap: What Businesses Must Do Now | SafeAeon Inc. | [Read More](https://medium.com/p/7d98bccb3c2c) |
+| Mon, 14 Jul 2025 20:14:39 GMT | Registro Fotográfico Digital Certificado | Marco Romero | [Read More](https://medium.com/p/6a98d37c99be) |
+| Mon, 14 Jul 2025 20:12:13 GMT | eJPT Zero to Hero: The Metasploit Framework CTF1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/262da27cb5e0) |
+| Mon, 14 Jul 2025 19:55:40 GMT | Why 2-Factor Authentication Is No Longer Optional | SafeAeon Inc. | [Read More](https://medium.com/p/b23090a8e9ad) |
+| Mon, 14 Jul 2025 19:50:09 GMT | Solving the First 3 PortSwigger XSS Labs – My Payloads & Lessons | M. Mustafa Hussaini | [Read More](https://medium.com/p/adc597d768bc) |
+| Mon, 14 Jul 2025 19:48:56 GMT | LunaFi Announces Reward Drop: Get LFI Today | LunaFi | [Read More](https://medium.com/p/a065c314caac) |
 | Mon, 14 Jul 2025 19:30:36 GMT | “Larva 25003” Cyber Attack: A Detailed Analysis | İbrahim Birkan Öztürk | [Read More](https://medium.com/p/6df0386431af) |
 | Mon, 14 Jul 2025 19:30:05 GMT | “Larva 25003” Siber Saldırısı: Detaylı Analizi | İbrahim Birkan Öztürk | [Read More](https://medium.com/p/a8ad1c24a8de) |
+| Mon, 14 Jul 2025 19:26:49 GMT | Addressing Business Reputation Damage: A Call to Action for Leaders | Mena George | [Read More](https://medium.com/p/749b52c591d6) |
 | Mon, 14 Jul 2025 19:23:12 GMT | The Definitive Guide to HTTP and HTTPS - MejbanKadir - Ethical Hacker | Mejbankadir | [Read More](https://medium.com/p/82f64e500b87) |
 | Mon, 14 Jul 2025 19:15:06 GMT | Understanding Network Vulnerabilities Through Nmap & Nessus | Mahimabhushan | [Read More](https://medium.com/p/5b09f2bc1ed7) |
 | Mon, 14 Jul 2025 19:11:57 GMT | How to Implement Robust WAF Protection for Web Applications: Block SQL Injection, XSS, and DDoS… | Abdulhakeem Sulaiman | [Read More](https://medium.com/p/4abe1549ac0f) |
@@ -107,10 +114,3 @@ From exploiting… | Dushyant Singh Shekhawat | [Read More](https://medium.com/p
 Especially in Housekeeping and Security | EXLITY | [Read More](https://medium.com/p/4d806161a184) |
 | Mon, 14 Jul 2025 14:16:32 GMT | Cybersecurity Learning Progress: Day 1 — Unpacking Network Foundations! | Muhammad Maulana Yusuf Ibrahim | [Read More](https://medium.com/p/eb473e7d9909) |
 | Mon, 14 Jul 2025 14:06:48 GMT | Business Logic Bug to Bypass NO’s | Mustafa Abdullah | [Read More](https://medium.com/p/6b7472e87814) |
-| Mon, 14 Jul 2025 14:03:59 GMT | Kubernetes Security: Understanding RBAC and Security Contexts | The Devops Girl | [Read More](https://medium.com/p/f5608b1750de) |
-| Mon, 14 Jul 2025 14:03:08 GMT | Cyber Briefing: 2025.07.14 | CyberMaterial | [Read More](https://medium.com/p/4d0ee23b73f3) |
-| Mon, 14 Jul 2025 14:03:03 GMT | How Cybersecurity Companies in Ontario Are Tackling Human Error | Zeta Sky | [Read More](https://medium.com/p/18d32291efd1) |
-| Mon, 14 Jul 2025 14:03:02 GMT | GitsWhy - The Future of DevSecOps for Developers | GitsWhy | [Read More](https://medium.com/p/51975753c60c) |
-| Mon, 14 Jul 2025 14:03:00 GMT | Guide: Receive CVE During the Upcoming Treasure Rollout | Curvance | [Read More](https://medium.com/p/fa0973a8f22a) |
-| Mon, 14 Jul 2025 13:52:58 GMT | Reaping Without Sowing: A Glimpse at theHarvester | Goose Gustin | [Read More](https://medium.com/p/b62b2774cf67) |
-| Mon, 14 Jul 2025 13:50:28 GMT | DORA und ISO 27001: Der strategische Compliance-Leitfaden für Finanzinstitute | Philip Hansen | [Read More](https://medium.com/p/e562afaf2192) |
