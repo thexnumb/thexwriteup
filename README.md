@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 14 Jul 2025 05:44:25 GMT | Cybersecurity Basics Every Internet User Should Know | Charleskerren | [Read More](https://medium.com/p/ea9a4a29970f) |
+| Mon, 14 Jul 2025 05:37:54 GMT | What’s under the hood of the AI engine, and why is it important to understand its power? | Sam | [Read More](https://medium.com/p/8d3c2d089667) |
+| Mon, 14 Jul 2025 05:34:02 GMT | How to Add reCAPTCHA on WordPress for Better Security | Wpelementothemes | [Read More](https://medium.com/p/e1cdca6c14c3) |
+| Mon, 14 Jul 2025 05:33:12 GMT | Building Your Cybersecurity Toolkit: Advanced Tools for Complete Protection (Part 2) | Xperts Unimited | [Read More](https://medium.com/p/e1983d197393) |
+| Mon, 14 Jul 2025 05:31:19 GMT | Launch Securely: Penetration Testing for Australian Startups in 2025 | Steve McLaughlin | [Read More](https://medium.com/p/20340ecc8c4b) |
+| Mon, 14 Jul 2025 05:28:26 GMT | Security Guard Services in Australia: Everything You Need to Know | Stateguard Protective Services | [Read More](https://medium.com/p/eb87b267368e) |
+| Mon, 14 Jul 2025 05:27:58 GMT | CTI Notetaking: How to Make Effective Notes and Documentation | Adam Goss | [Read More](https://medium.com/p/8541cdff90cd) |
+| Mon, 14 Jul 2025 05:26:45 GMT | Nmap Live Host Discovery | Shourya Pratap Singh | [Read More](https://medium.com/p/35129a133ec4) |
+| Mon, 14 Jul 2025 05:26:37 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Sarthakkumbhalwar | [Read More](https://medium.com/p/772ff511679e) |
+| Mon, 14 Jul 2025 05:21:16 GMT | Building Your Cybersecurity Toolkit: Essential Foundations for Business Protection (Part 1) | Xperts Unimited | [Read More](https://medium.com/p/78721cf57538) |
 | Mon, 14 Jul 2025 05:12:30 GMT | PortSwigger Lab — File Upload Vulnerabilities | k1dd0sz | [Read More](https://medium.com/p/997202fa021e) |
 | Mon, 14 Jul 2025 05:11:10 GMT | I Want to Be Soft, But the World Keeps Asking Me to Be Sharp | Samiksha Shrivastava | [Read More](https://medium.com/p/5bab21a5670a) |
 | Mon, 14 Jul 2025 05:09:01 GMT | SQL Injection Saldırısı ve Korunma Yöntemleri | Enesgocmen | [Read More](https://medium.com/p/36852a0f9ec2) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 13 Jul 2025 21:15:37 GMT | How I Discovered an Open Redirect Using X-Forwarded-Host – A Bug Bounty Story with Real-World… | Levi Ackerman | [Read More](https://medium.com/p/792d66eaffff) |
 | Sun, 13 Jul 2025 21:09:18 GMT | Stop Secret Leaks Before They Happen: Mastering Gitleaks for DevSecOps Pipelines | Giovanny Orjuela | [Read More](https://medium.com/p/633d0f975162) |
 | Sun, 13 Jul 2025 21:07:22 GMT | Basic Pentesting — TryHackMe Walkthrough | esistdini | [Read More](https://medium.com/p/bbfd8fac5da8) |
-| Sun, 13 Jul 2025 21:03:40 GMT | أفضل شركات تسويق في السعودية: دليلك الشامل لنمو أعمالك | katibatech | [Read More](https://medium.com/p/c7bb32c86736) |
-| Sun, 13 Jul 2025 20:54:56 GMT | API Security: Risks and OWASP’s Current Approach | Batuhan Görgel | [Read More](https://medium.com/p/cddbb162ae80) |
-| Sun, 13 Jul 2025 20:50:41 GMT | Network Miner - THM | Isiah | [Read More](https://medium.com/p/444d94e414b0) |
-| Sun, 13 Jul 2025 20:48:49 GMT | ‘Contacts First’ Approach to Inbox Security, Using an AI Sandbox for Spam | Andre Batchelder | [Read More](https://medium.com/p/3b5719b9c7b7) |
-| Sun, 13 Jul 2025 20:46:05 GMT | OSINT (Opern Source Intelligence) | Bedirhan Yigit | [Read More](https://medium.com/p/cf4d615b5cf0) |
-| Sun, 13 Jul 2025 20:45:25 GMT | Docker: Build & Ship IT faster | Ghizlane HAMDAN | [Read More](https://medium.com/p/6fa291fdf739) |
-| Sun, 13 Jul 2025 20:43:54 GMT | Creating an SOC virtual home lab. | Ricky kumar | [Read More](https://medium.com/p/d562b40e3cbc) |
-| Sun, 13 Jul 2025 20:43:19 GMT | Pyhton ile Hacking | Bedirhan Yigit | [Read More](https://medium.com/p/0f000d2cf819) |
-| Sun, 13 Jul 2025 20:39:56 GMT | To My Chapter One | Charlotte | [Read More](https://medium.com/p/3cc5f203a105) |
-| Sun, 13 Jul 2025 20:34:51 GMT | No, Virginia, There Are No Cyber Jobs | Dr. Daniel Ward | [Read More](https://medium.com/p/42f2d6300dec) |
