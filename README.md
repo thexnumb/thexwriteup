@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 07:19:22 GMT | AI-Powered Life-Sciences Solutions: Bridging Research and Real-World Impact | Haridas G | [Read More](https://medium.com/p/cc38c0e506aa) |
+| Tue, 15 Jul 2025 07:17:38 GMT | The Fastest Way to Buy Bitcoin in India: Why CryptoXpress Is a Game-Changer for Mobile Users | Devbradon | [Read More](https://medium.com/p/3d03a144006d) |
+| Tue, 15 Jul 2025 07:15:38 GMT | Understanding Personally Identifiable Information (PII) in the Digital Age | Hussein Reda | [Read More](https://medium.com/p/5409c55547bf) |
+| Tue, 15 Jul 2025 07:13:44 GMT | Data: Konsep, Atribut, dan Tipenya | Muhammad Akhtar Khawarizmi | [Read More](https://medium.com/p/8582b2607df5) |
+| Tue, 15 Jul 2025 07:10:35 GMT | Why App Consultation Services in New York Are Essential for Your Mobile Strategy? | MobcoderCOM | [Read More](https://medium.com/p/6d4b152f4be6) |
+| Tue, 15 Jul 2025 07:05:31 GMT | The Fastest Way to Buy Bitcoin with a Mobile App in India: Why CryptoXpress Stands Out | Nsekong | [Read More](https://medium.com/p/a13b349c0a93) |
+| Tue, 15 Jul 2025 07:01:25 GMT | Deceptive recruitment: A story of a job scam | EmerJux | [Read More](https://medium.com/p/eed17a1751d9) |
+| Tue, 15 Jul 2025 07:01:24 GMT | ️ Cybersecurity in Nigeria: The Future Is Now | Obafela Richard Killa | [Read More](https://medium.com/p/809400dfce8d) |
+| Tue, 15 Jul 2025 06:55:20 GMT | The bug in the train that took 20 years to fix | Gautam Mengle | [Read More](https://medium.com/p/7f66cde31480) |
+| Tue, 15 Jul 2025 06:53:43 GMT | Every 12th of April, I cry. | Bathroom Thoughts | [Read More](https://medium.com/p/91a8d1c07da7) |
+| Tue, 15 Jul 2025 06:50:16 GMT | What’s the Real Cost of Skipping Penetration Testing for Your Australian Business? | Steve McLaughlin | [Read More](https://medium.com/p/0323596fde71) |
+| Tue, 15 Jul 2025 06:47:46 GMT | Understanding Common Cyber Threats: Malware, Phishing, Ransomware, and More | Functioning Media University | [Read More](https://medium.com/p/0aa3bb81f155) |
+| Tue, 15 Jul 2025 06:46:09 GMT | Why Cybersecurity for Business Is a Must in Today’s Connected Economy | Elliman Technologies | [Read More](https://medium.com/p/bd0a39df8b82) |
+| Tue, 15 Jul 2025 06:42:35 GMT | Cyber Security Master Course with 100% Job Guarantee | SoftApp Technologies | [Read More](https://medium.com/p/d32fa8f93b59) |
+| Tue, 15 Jul 2025 06:36:56 GMT | DefenseArk #ThreatIntelThursday - Social Engineering Attacks III | Kalpitha S | [Read More](https://medium.com/p/1da0365217b1) |
+| Tue, 15 Jul 2025 06:36:45 GMT | How SafeLine WAF and Nginx Handle High Traffic Without Breaking a Sweat | Quella | [Read More](https://medium.com/p/9d4185b7df0d) |
+| Tue, 15 Jul 2025 06:36:31 GMT | Exploring Email Marketing Strategies: Unlocking the Power of Targeted Campaigns | Aashikamhr | [Read More](https://medium.com/p/917b2b1054e7) |
+| Tue, 15 Jul 2025 06:36:19 GMT | The $1.5 B Bybit Breach: Must‑Know Security Lessons for Web3 Teams | ChainZeeper | [Read More](https://medium.com/p/43ca37e0edd6) |
 | Tue, 15 Jul 2025 06:32:58 GMT | How I Cracked the BSCP Exam on My First Attempt— Without Losing My Mind | Sulman Farooq S | [Read More](https://medium.com/p/0e456f26e14d) |
 | Tue, 15 Jul 2025 06:31:23 GMT | Google Unicode SPUA-B Misinterpretation: Decoding Hidden Instructions as Plain Text | Yeswehack | [Read More](https://medium.com/p/114c159ebe8b) |
 | Tue, 15 Jul 2025 06:21:12 GMT | The Complete Guide to OAuth 2.0, OpenID Connect, and JWT Token Verification | Shubham Thorat | [Read More](https://medium.com/p/f2516c196f3b) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 23:15:47 GMT | Quantum Secrets & Deepfake Dreams: Why You Need to Wake Up, Cyber-Warrior | Yash Kumar Chauhan | [Read More](https://medium.com/p/3820a1cc594b) |
 | Mon, 14 Jul 2025 23:13:42 GMT | Cybersecurity Threat Report | Karris | [Read More](https://medium.com/p/96076fa8d300) |
 | Mon, 14 Jul 2025 23:10:08 GMT | AI Surveillance, Blockchain Ledger Trails, and Algorithmic Tax Inquisitions: How Emerging Tech Is… | David SEHYEON Baek | [Read More](https://medium.com/p/b06760d25472) |
-| Mon, 14 Jul 2025 22:55:40 GMT | A Summer Storm in Silicon Policy | Sam - Behind The Screens | [Read More](https://medium.com/p/0f871b4a0f36) |
-| Mon, 14 Jul 2025 22:42:27 GMT | داده‌ های من، انتخاب من | Sobix | [Read More](https://medium.com/p/121d05d89c86) |
-| Mon, 14 Jul 2025 22:31:08 GMT | Juice Jacking at Airports: Is Your Phone Safe While Charging? | Akshay Chauhan | [Read More](https://medium.com/p/1b7a284eb8c3) |
-| Mon, 14 Jul 2025 22:26:56 GMT | DefenseArk #ThreatIntelThursday - Cross-Site Scripting | Kalpitha S | [Read More](https://medium.com/p/fec428feb58a) |
-| Mon, 14 Jul 2025 22:24:38 GMT | The Big Lie Behind the Social Security ‘Drain’: Why Ending It Wouldn’t Help the Budget — Unless We… | Jessie Miller | [Read More](https://medium.com/p/d1f835de0eb2) |
-| Mon, 14 Jul 2025 22:16:56 GMT | Protecting Against Deepfake Attacks in Enterprise | Karthikeyan Nagaraj | [Read More](https://medium.com/p/eaf21ef290c6) |
-| Mon, 14 Jul 2025 22:11:07 GMT | How Will Buhari’s Legacy Shape Nigeria? | Oge Samuel Okonkwo | [Read More](https://medium.com/p/125a06b8f42d) |
-| Mon, 14 Jul 2025 21:59:57 GMT | What Is Two-Factor Authentication — and Should You Use It? | Tech Made Simple By NTi | [Read More](https://medium.com/p/da3327bede1f) |
-| Mon, 14 Jul 2025 21:33:14 GMT | 5000$ -Broken Access Control Let Me Delete Other Users’ Tasklists (ZVE-2025–2842) | KILLUA_UCHIHA | [Read More](https://medium.com/p/717dced47b0a) |
-| Mon, 14 Jul 2025 21:22:56 GMT | DefenseArk #ThreatIntelThursday - Zero-Day Attacks ⏳ | Kalpitha S | [Read More](https://medium.com/p/7e476f742c2a) |
-| Mon, 14 Jul 2025 21:19:38 GMT | How Threat Actors Use Torrents, Fake Free Software Sites to Spread Lumma Stealer Malware | Kanada | [Read More](https://medium.com/p/aad1de779a1a) |
-| Mon, 14 Jul 2025 21:14:43 GMT | Como Atualizar para o Windows 11 25H2 em 2 minutos | Dann Tech | [Read More](https://medium.com/p/43554539effc) |
-| Mon, 14 Jul 2025 21:08:06 GMT | THM - Hide and Seek | Francesco Pastore | [Read More](https://medium.com/p/c1178e433844) |
-| Mon, 14 Jul 2025 21:04:28 GMT | DefenseArk #ThreatIntelThursday - Ransomware | Kalpitha S | [Read More](https://medium.com/p/1ab7f3c86223) |
-| Mon, 14 Jul 2025 21:04:17 GMT | رهان زوكربيرج : كيف ستغير مئات المليارات مستقبل الذكاء الاصطناعي؟ | katibatech | [Read More](https://medium.com/p/37a9ea4727f8) |
-| Mon, 14 Jul 2025 21:02:43 GMT | STOLEN MOUNT — TryHackMe CTF Writeup | Jatin Gahlot | [Read More](https://medium.com/p/8f7e243772a7) |
-| Mon, 14 Jul 2025 20:44:32 GMT | Selective In-Memory Syscall Unhooking | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d7c5006b05f5) |
-| Mon, 14 Jul 2025 20:42:23 GMT | The Sleeper Agent in the Machine: How Hidden Attacks Are Turning AI Against Us | Lh Mohammed | [Read More](https://medium.com/p/023125700a42) |
