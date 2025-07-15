@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 22:26:59 GMT | Mindset Over Tools: A Tactical Guide for CTFs and Hands-On Security Certifications | Spiros Pitikaris @cmpspiti | [Read More](https://medium.com/p/a6daba361177) |
+| Tue, 15 Jul 2025 22:22:25 GMT | AI Just Learned to Hack Microsoft Defender (And It’s Only Getting Started) | Brendan Smith | [Read More](https://medium.com/p/38ff8378aaf4) |
+| Tue, 15 Jul 2025 22:17:10 GMT | Secure API Gateway Configuration for Microservices | Karthikeyan Nagaraj | [Read More](https://medium.com/p/880eafb48568) |
 | Tue, 15 Jul 2025 22:12:14 GMT | Exploiting Misconfigurations in Active Directory | Mike Anthony | [Read More](https://medium.com/p/4273149e0c4c) |
 | Tue, 15 Jul 2025 22:11:41 GMT | Dog — Hackthebox Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/076562be58c4) |
 | Tue, 15 Jul 2025 22:11:19 GMT | PortSwigger Lab: Username Enumeration via Different Responses | 0xM4ZiX | [Read More](https://medium.com/p/3720eaf61e82) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 14:57:16 GMT | Meet Stormhood: Your Real-Time Scam Shield for Social Media | Stormhood | [Read More](https://medium.com/p/39643e8e6817) |
 | Tue, 15 Jul 2025 14:57:04 GMT | A Summer of Security: How Google’s AI-Led Cybersecurity Push Is Changing the Game | Grenish Rai | [Read More](https://medium.com/p/3aaa05357b4a) |
 | Tue, 15 Jul 2025 14:46:58 GMT | Dark Partners: Multi-Platform Crypto Theft via Fake AI, VPN, and Software Sites | Wes Young | [Read More](https://medium.com/p/8cc3bfe2a8df) |
-| Tue, 15 Jul 2025 14:43:57 GMT | How to Secure Your Company’s Data in the AI Era (2025 Guide) | Cybersecurity Umbrella | [Read More](https://medium.com/p/b0b0516ad2f8) |
-| Tue, 15 Jul 2025 14:41:38 GMT | Can Machine Think? | Maruti Marathe | [Read More](https://medium.com/p/13b68a53690a) |
-| Tue, 15 Jul 2025 14:38:38 GMT | Writeup CTF Technoskill 2025 IME FT UI | syntaxerror | [Read More](https://medium.com/p/dc5120d8de12) |
