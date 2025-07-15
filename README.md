@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 22:12:14 GMT | Exploiting Misconfigurations in Active Directory | Mike Anthony | [Read More](https://medium.com/p/4273149e0c4c) |
+| Tue, 15 Jul 2025 22:11:41 GMT | Dog — Hackthebox Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/076562be58c4) |
+| Tue, 15 Jul 2025 22:11:19 GMT | PortSwigger Lab: Username Enumeration via Different Responses | 0xM4ZiX | [Read More](https://medium.com/p/3720eaf61e82) |
+| Tue, 15 Jul 2025 22:01:23 GMT | Need Expert Help with Meta Ads, Google Ads, or WordPress? | Arshad Husssain | [Read More](https://medium.com/p/ad883a94e977) |
+| Tue, 15 Jul 2025 22:00:51 GMT | Threat Intelligence — Step by Step Guide | Riad Moudjahed | [Read More](https://medium.com/p/a5bbc2e79f29) |
+| Tue, 15 Jul 2025 21:45:43 GMT | CERT @ VDE Is Now a Root in the CVE Program | CVE Program Blog | [Read More](https://medium.com/p/6c04ab78ad8d) |
 | Tue, 15 Jul 2025 21:34:48 GMT | Dog  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/8a49879c2d5c) |
 | Tue, 15 Jul 2025 21:29:41 GMT | Offensive Security & Defensive Security? | MD. RAKIBUL ISLAM - RAJ | [Read More](https://medium.com/p/b1ecc7ca8baf) |
 | Tue, 15 Jul 2025 21:23:47 GMT | Building Stronger Passwords & Stronger Communities | Gitika Babbar | [Read More](https://medium.com/p/d82ec55dc4f8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 14:43:57 GMT | How to Secure Your Company’s Data in the AI Era (2025 Guide) | Cybersecurity Umbrella | [Read More](https://medium.com/p/b0b0516ad2f8) |
 | Tue, 15 Jul 2025 14:41:38 GMT | Can Machine Think? | Maruti Marathe | [Read More](https://medium.com/p/13b68a53690a) |
 | Tue, 15 Jul 2025 14:38:38 GMT | Writeup CTF Technoskill 2025 IME FT UI | syntaxerror | [Read More](https://medium.com/p/dc5120d8de12) |
-| Tue, 15 Jul 2025 14:38:37 GMT | Insights From “Behind The Screen” Episode #I | SerdaduPatriot | [Read More](https://medium.com/p/c7e66b68a6e2) |
-| Tue, 15 Jul 2025 14:34:19 GMT | SaaS vs Traditional Software: What’s the Real Difference? | Elijah Swanson | [Read More](https://medium.com/p/52dbf6b59d91) |
-| Tue, 15 Jul 2025 14:25:27 GMT | The Cache That Refused to Forget: How a Tiny Java Bug Nearly Took Down Our Entire Service | The Latency Gambler | [Read More](https://medium.com/p/f555fddeb4ab) |
-| Tue, 15 Jul 2025 14:23:14 GMT | Ever heard of Resource Locks in Azure? | Prashant Raorane | [Read More](https://medium.com/p/2563e8ec2f3f) |
-| Tue, 15 Jul 2025 14:15:46 GMT | Next-Gen Cybersecurity with ITTStar’s SOC Solutions | ITTStar Consulting | [Read More](https://medium.com/p/3123a7b788f3) |
-| Tue, 15 Jul 2025 14:06:28 GMT | Best Ethical Hacking Training in Noida - Ducat India | Anupanditji | [Read More](https://medium.com/p/2e04c8564119) |
