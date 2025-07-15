@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 14:38:37 GMT | Insights From “Behind The Screen” Episode #I | SerdaduPatriot | [Read More](https://medium.com/p/c7e66b68a6e2) |
+| Tue, 15 Jul 2025 14:34:19 GMT | SaaS vs Traditional Software: What’s the Real Difference? | Elijah Swanson | [Read More](https://medium.com/p/52dbf6b59d91) |
+| Tue, 15 Jul 2025 14:25:27 GMT | The Cache That Refused to Forget: How a Tiny Java Bug Nearly Took Down Our Entire Service | The Latency Gambler | [Read More](https://medium.com/p/f555fddeb4ab) |
+| Tue, 15 Jul 2025 14:23:14 GMT | Ever heard of Resource Locks in Azure? | Prashant Raorane | [Read More](https://medium.com/p/2563e8ec2f3f) |
 | Tue, 15 Jul 2025 14:15:46 GMT | Next-Gen Cybersecurity with ITTStar’s SOC Solutions | ITTStar Consulting | [Read More](https://medium.com/p/3123a7b788f3) |
 | Tue, 15 Jul 2025 14:06:28 GMT | Best Ethical Hacking Training in Noida - Ducat India | Anupanditji | [Read More](https://medium.com/p/2e04c8564119) |
 | Tue, 15 Jul 2025 14:06:19 GMT | Best Ethical Hacking Training in Noida - Ducat India | Kunal | [Read More](https://medium.com/p/a878b0ca71b7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 09:56:47 GMT | Everything You Need to Know About Crimsafe Security Windows | Gold Coast Security Screens | [Read More](https://medium.com/p/c7b5ad88a36a) |
 | Tue, 15 Jul 2025 09:56:17 GMT | Keystroke Dynamics Fundamentals for Enterprise Security | Expert App Devs | [Read More](https://medium.com/p/17b45092c46a) |
 | Tue, 15 Jul 2025 09:54:49 GMT | DockerLabs — Ejotapete (Write Up) | APS88 | [Read More](https://medium.com/p/dfdce378d744) |
-| Tue, 15 Jul 2025 09:52:56 GMT | Understanding Status Codes Like a Hacker | Goose Gustin | [Read More](https://medium.com/p/154a828a0be1) |
-| Tue, 15 Jul 2025 09:49:23 GMT | AD Enumeration & Attacks — Skill Assessment Part II | Knowntonone | [Read More](https://medium.com/p/b31e3815341b) |
-| Tue, 15 Jul 2025 09:48:40 GMT | This Fire and Safety Company Could Be the Only Thing Standing Between You and Disaster | Berkshire Hathaway | [Read More](https://medium.com/p/f4769d1ba4f5) |
-| Tue, 15 Jul 2025 09:42:43 GMT | Unauthenticated Password Reset Abuse | Ehtesham Ul Haq | [Read More](https://medium.com/p/ad2375b358f5) |
