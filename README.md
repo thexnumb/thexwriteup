@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 15:38:00 GMT | Welcome | Erik Eliasson | [Read More](https://medium.com/p/20f76091593a) |
+| Tue, 15 Jul 2025 15:33:21 GMT | Day 1 of My Bug Bounty Journey — Starting from Zero | Manju Varma M | [Read More](https://medium.com/p/59210d31ce15) |
+| Tue, 15 Jul 2025 15:28:28 GMT | This Email Looks Real… But It’s Not | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/079d54798296) |
+| Tue, 15 Jul 2025 15:26:40 GMT | Why Quantum Computing Could Break Current Cybersecurity (And What We Can Do About It) | Paradise technologies Inc | [Read More](https://medium.com/p/5d8e391a3732) |
+| Tue, 15 Jul 2025 15:26:15 GMT | DORA SIEM Monitoring: Der Compliance-Leitfaden für Finanzinstitute 2025 | Philip Hansen | [Read More](https://medium.com/p/600b1e6b4a9b) |
+| Tue, 15 Jul 2025 15:26:03 GMT | DORA Vulnerability Scanning 2025: Der ultimative Praxis-Leitfaden für Finanzinstitute | Philip Hansen | [Read More](https://medium.com/p/8d9186140316) |
+| Tue, 15 Jul 2025 15:22:51 GMT | Dylib Injection Vulnerability in Spotify’s macOS Desktop App | Diego Caridei | [Read More](https://medium.com/p/2366a60082bc) |
 | Tue, 15 Jul 2025 15:11:04 GMT | Mental Health Consequences of Unchecked Techno-Optimism | Shreya Mandal | [Read More](https://medium.com/p/51c94d6a07f9) |
 | Tue, 15 Jul 2025 15:08:59 GMT | The AsyncRAT Tree: How Open-Source Malware is Fueling a New Generation of Threats | RealSec.io | [Read More](https://medium.com/p/c2d1d411ad26) |
 | Tue, 15 Jul 2025 15:06:18 GMT | From Cybersec to Cloud Data Analyst: My Retraining Journey Starts with AWS CCP Modules 6–7 | Ste Caddy | [Read More](https://medium.com/p/190c866d5319) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 11:03:00 GMT | PEDA, GEF, and PWNDBG— Which GDB extension should you use in 2025? | elpe_pinillo | [Read More](https://medium.com/p/67033ddd8459) |
 | Tue, 15 Jul 2025 11:02:57 GMT | Threat Intelligence Platform Integrations in Modern SOCs | Esra Kayhan | [Read More](https://medium.com/p/68e4f43ea3cd) |
 | Tue, 15 Jul 2025 10:56:35 GMT | Awareness (Clause 7.3 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/b4dca477ce43) |
-| Tue, 15 Jul 2025 10:54:44 GMT | A 20-Year-Old Vulnerability Lets Hackers Remotely Control Train Brakes | The Quiet Hacker | [Read More](https://medium.com/p/10803bf71f6a) |
-| Tue, 15 Jul 2025 10:52:39 GMT | Day 44 of #60DaysofGRC: The How Behind ISO27001 | Brittney Ginther | [Read More](https://medium.com/p/01fc848f1edc) |
-| Tue, 15 Jul 2025 10:51:24 GMT | Petra Security: The UI, the Logs, and Why I Genuinely Prefer It Over Microsoft Sentinel | Dean | [Read More](https://medium.com/p/9f13af649056) |
-| Tue, 15 Jul 2025 10:51:21 GMT | How Can a Penetration Tester Become a DevSecOps Engineer? - DevSecOps Training and Certification | Practical DevSecOps | [Read More](https://medium.com/p/394c6cc47c32) |
-| Tue, 15 Jul 2025 10:44:46 GMT | Affordable Security Solutions for Offices in Hyderabad | Group 24/7 Security Services | [Read More](https://medium.com/p/3f05c26bcaf4) |
-| Tue, 15 Jul 2025 10:39:17 GMT | Top 10 Metrics Every DPO Should Track Monthly (with Dashboards) | GoTrust Tech | [Read More](https://medium.com/p/490c7a42d685) |
-| Tue, 15 Jul 2025 10:35:50 GMT | How a Developer Lost $500,000 to a Sneaky Code Editor Extension — And What You Can Do About It | Ranasahil | [Read More](https://medium.com/p/49d73394b451) |
