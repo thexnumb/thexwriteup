@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 18:28:45 GMT | I Didn’t Call Myself a Writer for Years | Amanur | [Read More](https://medium.com/p/b05704f201de) |
+| Tue, 15 Jul 2025 18:18:49 GMT | OSI, DNS, and Networking Protocols | MierafA | [Read More](https://medium.com/p/499c1da5d0b8) |
+| Tue, 15 Jul 2025 18:05:51 GMT | Grid Resilience or AI Ruin? The Unpriced Risks in the Compute-Cyber-Energy Nexus | Mind-Front | [Read More](https://medium.com/p/28621d68f36b) |
+| Tue, 15 Jul 2025 17:50:26 GMT | Public call for ON2IT to reassess its own information security practices | 0trust0day | [Read More](https://medium.com/p/ab1ee80515b9) |
+| Tue, 15 Jul 2025 17:43:35 GMT | My Top 10 Vulnerabilities | Vijaiya Prathap | [Read More](https://medium.com/p/565ce0fae871) |
 | Tue, 15 Jul 2025 17:34:22 GMT | Linux exploit development basics — Part 1 — Understanding Assembly | Darshan Naresh Naik | [Read More](https://medium.com/p/ae673e458c9c) |
 | Tue, 15 Jul 2025 17:32:57 GMT | Securing LLMs: A Penetration Tester’s Perspective on the 2025 OWASP Top 10 | Mark Puckett | [Read More](https://medium.com/p/13e262f05531) |
 | Tue, 15 Jul 2025 17:05:50 GMT | I Tried Prompt Injection Attacks on LLMs and Learned More Than I Expected | Samuel Dhamodharan | [Read More](https://medium.com/p/e7ae48adb136) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 12:15:58 GMT | “Secure” OPC UA Setups Are Being Hacked — Here’s Why | Azim Uddin | [Read More](https://medium.com/p/fbdb74e70f52) |
 | Tue, 15 Jul 2025 12:15:26 GMT | What makes hybrid SOC services effective? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/e2a767238a58) |
 | Tue, 15 Jul 2025 12:15:25 GMT | From masquerade to metamorphosis: The Silent Shedding of the Skin I Once Inhabited | Dayana Sánchez | [Read More](https://medium.com/p/25bd30aeac03) |
-| Tue, 15 Jul 2025 12:12:57 GMT | VPN vs Proxy: What’s the Difference and Which Should You Use? | Timonéofearth | [Read More](https://medium.com/p/8dfd8d9e7b6e) |
-| Tue, 15 Jul 2025 12:10:28 GMT | TheTimeMachine for Bug Bounties & OSINT | Cybersectoworld | [Read More](https://medium.com/p/39bded4bc78f) |
-| Tue, 15 Jul 2025 12:09:36 GMT | TLS vs SSL: Why We’re Still Getting It Wrong | Vineeth Tunk | [Read More](https://medium.com/p/369abbc9cdab) |
-| Tue, 15 Jul 2025 12:08:47 GMT | Why StrongBox IT is the Best VAPT Service Provider for Your Business | StrongBox IT | [Read More](https://medium.com/p/3153939a6317) |
-| Tue, 15 Jul 2025 12:07:05 GMT | Why mCommerce Development Is Becoming Essential for Modern Businesses | Bhavesh Rajpurohit | [Read More](https://medium.com/p/4ab77d9f95f3) |
