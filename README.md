@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 15:11:04 GMT | Mental Health Consequences of Unchecked Techno-Optimism | Shreya Mandal | [Read More](https://medium.com/p/51c94d6a07f9) |
+| Tue, 15 Jul 2025 15:08:59 GMT | The AsyncRAT Tree: How Open-Source Malware is Fueling a New Generation of Threats | RealSec.io | [Read More](https://medium.com/p/c2d1d411ad26) |
+| Tue, 15 Jul 2025 15:06:18 GMT | From Cybersec to Cloud Data Analyst: My Retraining Journey Starts with AWS CCP Modules 6–7 | Ste Caddy | [Read More](https://medium.com/p/190c866d5319) |
+| Tue, 15 Jul 2025 15:03:03 GMT | Network Exploitation Lab | M Sameer Malik | [Read More](https://medium.com/p/924f27cc60b8) |
+| Tue, 15 Jul 2025 15:01:50 GMT | Breaking Anonymity: Building a VPN, Proxy & Threat Detection Engine from Scratch | Akshaj Madhusudhan | [Read More](https://medium.com/p/199c9493ea1a) |
+| Tue, 15 Jul 2025 14:57:16 GMT | Meet Stormhood: Your Real-Time Scam Shield for Social Media | Stormhood | [Read More](https://medium.com/p/39643e8e6817) |
+| Tue, 15 Jul 2025 14:57:04 GMT | A Summer of Security: How Google’s AI-Led Cybersecurity Push Is Changing the Game | Grenish Rai | [Read More](https://medium.com/p/3aaa05357b4a) |
+| Tue, 15 Jul 2025 14:46:58 GMT | Dark Partners: Multi-Platform Crypto Theft via Fake AI, VPN, and Software Sites | Wes Young | [Read More](https://medium.com/p/8cc3bfe2a8df) |
+| Tue, 15 Jul 2025 14:43:57 GMT | How to Secure Your Company’s Data in the AI Era (2025 Guide) | Cybersecurity Umbrella | [Read More](https://medium.com/p/b0b0516ad2f8) |
+| Tue, 15 Jul 2025 14:41:38 GMT | Can Machine Think? | Maruti Marathe | [Read More](https://medium.com/p/13b68a53690a) |
+| Tue, 15 Jul 2025 14:38:38 GMT | Writeup CTF Technoskill 2025 IME FT UI | syntaxerror | [Read More](https://medium.com/p/dc5120d8de12) |
 | Tue, 15 Jul 2025 14:38:37 GMT | Insights From “Behind The Screen” Episode #I | SerdaduPatriot | [Read More](https://medium.com/p/c7e66b68a6e2) |
 | Tue, 15 Jul 2025 14:34:19 GMT | SaaS vs Traditional Software: What’s the Real Difference? | Elijah Swanson | [Read More](https://medium.com/p/52dbf6b59d91) |
 | Tue, 15 Jul 2025 14:25:27 GMT | The Cache That Refused to Forget: How a Tiny Java Bug Nearly Took Down Our Entire Service | The Latency Gambler | [Read More](https://medium.com/p/f555fddeb4ab) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 10:44:46 GMT | Affordable Security Solutions for Offices in Hyderabad | Group 24/7 Security Services | [Read More](https://medium.com/p/3f05c26bcaf4) |
 | Tue, 15 Jul 2025 10:39:17 GMT | Top 10 Metrics Every DPO Should Track Monthly (with Dashboards) | GoTrust Tech | [Read More](https://medium.com/p/490c7a42d685) |
 | Tue, 15 Jul 2025 10:35:50 GMT | How a Developer Lost $500,000 to a Sneaky Code Editor Extension — And What You Can Do About It | Ranasahil | [Read More](https://medium.com/p/49d73394b451) |
-| Tue, 15 Jul 2025 10:29:27 GMT | Natas 1 to 34 Full Writeup PART 1 | Wandesrtech | [Read More](https://medium.com/p/f0f6ab52dfb8) |
-| Tue, 15 Jul 2025 10:27:49 GMT | ️ CORS Demystified: A Real-World Journey from Confusion to Secure Implementation (with MERN… | Srikanth Govindavaram | [Read More](https://medium.com/p/d992cff4d627) |
-| Tue, 15 Jul 2025 10:26:19 GMT | Confidence Isn’t Loud. It’s Consistent | Funke Omolere | [Read More](https://medium.com/p/6c4e6f4948b3) |
-| Tue, 15 Jul 2025 10:24:34 GMT | VIP Security Services: Why Everyone’s Talking About Them | Sumintra | [Read More](https://medium.com/p/902133a58e5e) |
-| Tue, 15 Jul 2025 10:19:11 GMT | Keamanan Sistem untuk Pemula: Membongkar Arsitektur OSI X.800 | Fakultas Teknologi Informasi UTDI | [Read More](https://medium.com/p/cc138584cc38) |
-| Tue, 15 Jul 2025 10:16:40 GMT | How I Found and Fixed Security Holes in My AWS Account with IAM Access Analyzer | AashishChaudhari | [Read More](https://medium.com/p/54be50776bbb) |
-| Tue, 15 Jul 2025 10:14:11 GMT | From Movie Reviews to Cybersecurity: My Journey So Far | Tembzz | [Read More](https://medium.com/p/2d82ed8fc817) |
-| Tue, 15 Jul 2025 10:00:24 GMT | How to Root Cause Bugs Faster (Without Burning Out) as a Software Engineer. | Ian Kiprono | [Read More](https://medium.com/p/6b12299f4f8b) |
-| Tue, 15 Jul 2025 09:56:47 GMT | Everything You Need to Know About Crimsafe Security Windows | Gold Coast Security Screens | [Read More](https://medium.com/p/c7b5ad88a36a) |
-| Tue, 15 Jul 2025 09:56:17 GMT | Keystroke Dynamics Fundamentals for Enterprise Security | Expert App Devs | [Read More](https://medium.com/p/17b45092c46a) |
-| Tue, 15 Jul 2025 09:54:49 GMT | DockerLabs — Ejotapete (Write Up) | APS88 | [Read More](https://medium.com/p/dfdce378d744) |
