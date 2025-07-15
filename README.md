@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 06:32:58 GMT | How I Cracked the BSCP Exam on My First Attempt— Without Losing My Mind | Sulman Farooq S | [Read More](https://medium.com/p/0e456f26e14d) |
+| Tue, 15 Jul 2025 06:31:23 GMT | Google Unicode SPUA-B Misinterpretation: Decoding Hidden Instructions as Plain Text | Yeswehack | [Read More](https://medium.com/p/114c159ebe8b) |
+| Tue, 15 Jul 2025 06:21:12 GMT | The Complete Guide to OAuth 2.0, OpenID Connect, and JWT Token Verification | Shubham Thorat | [Read More](https://medium.com/p/f2516c196f3b) |
+| Tue, 15 Jul 2025 06:00:33 GMT | Today’s Top Cyber Intelligence Highlights — Jul 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/8c8d08c4f072) |
+| Tue, 15 Jul 2025 06:00:29 GMT | The Cyber Siege of ISIS: Operation Glowing Symphony | Anonymous | [Read More](https://medium.com/p/6849f565bc17) |
+| Tue, 15 Jul 2025 05:57:11 GMT | Firewall Security Review: Why It’s Critical to Your Cyber Defense | Securis360 Inc. | [Read More](https://medium.com/p/7d90d028c0ca) |
+| Tue, 15 Jul 2025 05:56:20 GMT | Why Every App Wants Your Location — Even When It Doesn’t Need It | Rahul Mishra | [Read More](https://medium.com/p/8b7ce1395b36) |
+| Tue, 15 Jul 2025 05:56:01 GMT | Discover Ixora Security Services: Innovation, Reliability, and Comprehensive Care. | IxoraGroup | [Read More](https://medium.com/p/a1852cea996b) |
+| Tue, 15 Jul 2025 05:49:18 GMT | Mobile SEO in 2025: Top 8 Hacks to Optimize for Mobile-First Indexing | DamsoleTechnologies | [Read More](https://medium.com/p/504657bff1f6) |
+| Tue, 15 Jul 2025 05:48:36 GMT | Day 1- Cybersecurity for Beginners: Learn Command Line, Computer Basics, IP, MAC and DNS | unica 02 | [Read More](https://medium.com/p/4c8d7a5b6d6d) |
 | Tue, 15 Jul 2025 05:40:33 GMT | Virtual Machines & Application Security: Building My SOC Analyst Skillset | Dany Christel | [Read More](https://medium.com/p/a1feecbe8ba7) |
 | Tue, 15 Jul 2025 05:34:31 GMT | The Complete Developer’s Guide to Keycloak: From Authentication Basics to Production-Ready Identity… | Mdikramulhaqsagor | [Read More](https://medium.com/p/fc389861a933) |
 | Tue, 15 Jul 2025 05:34:23 GMT | Preparing for the Quantum Era: A Business Leader’s Guide to Future-Proofing Security and Innovation | Awsh Story | [Read More](https://medium.com/p/f32c99a30ad6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 21:02:43 GMT | STOLEN MOUNT — TryHackMe CTF Writeup | Jatin Gahlot | [Read More](https://medium.com/p/8f7e243772a7) |
 | Mon, 14 Jul 2025 20:44:32 GMT | Selective In-Memory Syscall Unhooking | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d7c5006b05f5) |
 | Mon, 14 Jul 2025 20:42:23 GMT | The Sleeper Agent in the Machine: How Hidden Attacks Are Turning AI Against Us | Lh Mohammed | [Read More](https://medium.com/p/023125700a42) |
-| Mon, 14 Jul 2025 20:39:37 GMT | What’s the Cheapest Way to Comply with HIPAA Online Tracking Technology Rules? | Feroot Security | [Read More](https://medium.com/p/5e6c05316383) |
-| Mon, 14 Jul 2025 20:39:02 GMT | Flash USDT — Real-Looking, But Not Real | Jepi | [Read More](https://medium.com/p/40393f53905e) |
-| Mon, 14 Jul 2025 20:36:27 GMT | Linux SSH and Basic File Operations: A Beginner’s Guide to Remote Control and File Handling | Allen Ace | [Read More](https://medium.com/p/406a4224cd3e) |
-| Mon, 14 Jul 2025 20:32:31 GMT | Seen USDT Appear Without a Transaction? That’s Flash ! | Jepi | [Read More](https://medium.com/p/862e97a6830d) |
-| Mon, 14 Jul 2025 20:26:56 GMT | AI-Powered Malware Behavior Analysis with YARA Rules: Cybersecurity’s New Superpower | Esra Kayhan | [Read More](https://medium.com/p/1713c9f013c5) |
-| Mon, 14 Jul 2025 20:16:50 GMT | Filling the Cybersecurity Skills Gap: What Businesses Must Do Now | SafeAeon Inc. | [Read More](https://medium.com/p/7d98bccb3c2c) |
-| Mon, 14 Jul 2025 20:14:39 GMT | Registro Fotográfico Digital Certificado | Marco Romero | [Read More](https://medium.com/p/6a98d37c99be) |
-| Mon, 14 Jul 2025 20:12:13 GMT | eJPT Zero to Hero: The Metasploit Framework CTF1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/262da27cb5e0) |
-| Mon, 14 Jul 2025 19:55:40 GMT | Why 2-Factor Authentication Is No Longer Optional | SafeAeon Inc. | [Read More](https://medium.com/p/b23090a8e9ad) |
-| Mon, 14 Jul 2025 19:50:09 GMT | Solving the First 3 PortSwigger XSS Labs – My Payloads & Lessons | M. Mustafa Hussaini | [Read More](https://medium.com/p/adc597d768bc) |
