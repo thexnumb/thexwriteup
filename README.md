@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 20:17:36 GMT | Why We Replaced Microsoft’s Email Security (But Kept GCC High) | Steven McDaniel | [Read More](https://medium.com/p/3125755afde9) |
+| Tue, 15 Jul 2025 20:10:21 GMT | Microsoft Azure for Startups: Features, Benefits, and Growth Potential | Techridge Solutions | [Read More](https://medium.com/p/f5fcdc873e49) |
+| Tue, 15 Jul 2025 20:05:43 GMT | TryHackMe Harder — Walkthrough | mauzware | [Read More](https://medium.com/p/3af806f354a6) |
+| Tue, 15 Jul 2025 20:05:19 GMT | Headi — Best Open Source HTTP Header Injection Testing Tool for Ethical Hackers | hacker_might | [Read More](https://medium.com/p/8336ab857d39) |
+| Tue, 15 Jul 2025 20:00:35 GMT | How I Got ISO/IEC 27001 Lead Auditor Certified — And What I Learned | Susmitha Rajendran | [Read More](https://medium.com/p/f3c18ac13fbb) |
+| Tue, 15 Jul 2025 19:58:54 GMT | Unlocking Security: ELLIPAL’s Black Friday Crypto Wallet Deals | farmerdonald9587 | [Read More](https://medium.com/p/5c0f357bdd3a) |
+| Tue, 15 Jul 2025 19:58:17 GMT | All About Server Side Template Injection (SSTI) | Xcheater | [Read More](https://medium.com/p/101e45650c03) |
+| Tue, 15 Jul 2025 19:53:59 GMT | The Ontology of Policy in an Age of Digital Transformation | Above The Firewall | [Read More](https://medium.com/p/b773f51b678a) |
+| Tue, 15 Jul 2025 19:53:10 GMT | Integrating FortiGate Logs with Wazuh | Neetrox | [Read More](https://medium.com/p/d689e442971e) |
+| Tue, 15 Jul 2025 19:52:01 GMT | Tricks of Prompt Injection | restdone | [Read More](https://medium.com/p/bd3887501ffd) |
 | Tue, 15 Jul 2025 19:39:12 GMT | 25000$ From Login Bypassed & MFA Using a Race Condition + JWT Leak | Minio Haxer | [Read More](https://medium.com/p/6139fcc22573) |
+| Tue, 15 Jul 2025 19:37:41 GMT | Humans in Cybersecurity: The Vulnerability, the Threat… and the Defense. | Gitika Babbar | [Read More](https://medium.com/p/220c6d1cfe90) |
+| Tue, 15 Jul 2025 19:36:39 GMT | Chrome Extensions Are Turning Your Browser Into a Botnet: Here’s How 1M Users Got Hijacked | Aaron | [Read More](https://medium.com/p/e2cbcb1a64e3) |
 | Tue, 15 Jul 2025 19:22:30 GMT | Digital Forensics and Incident Response: The Key to Effective Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/af58ba73d644) |
 | Tue, 15 Jul 2025 19:21:35 GMT | SOAR-EDRPROJECT PART 1 | rkn | [Read More](https://medium.com/p/4c3eead10090) |
 | Tue, 15 Jul 2025 19:15:38 GMT | Modular ML Model Signing and Attestation Service | Sachin Sampras M | [Read More](https://medium.com/p/dff46280f54d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 13:45:47 GMT | From Zero to Ethical Hacker: The 7-Day Hands-On Challenge | Andrei Ivan | [Read More](https://medium.com/p/6eaff94f399a) |
 | Tue, 15 Jul 2025 13:42:51 GMT | When Reasoning Fails: How CatAttack Exposes the Fragility of LLM Logic | Michela Tjan | [Read More](https://medium.com/p/2bb3ab0d4b0c) |
 | Tue, 15 Jul 2025 13:38:48 GMT | Day #19: Splunk Basics HTTP Log Analysis | Rishavkumarthapa | [Read More](https://medium.com/p/af81c950b775) |
-| Tue, 15 Jul 2025 13:32:25 GMT | Configuring Burp Suite With Mobile | Anirudh Kodesia | [Read More](https://medium.com/p/76ea91f5a3b8) |
-| Tue, 15 Jul 2025 13:32:11 GMT | OT Security in the Age of Digital Conflict: Executive Imperatives for 2025 | TechDemocracy | [Read More](https://medium.com/p/8d79856d7fd8) |
-| Tue, 15 Jul 2025 13:27:47 GMT | “Check-In, Never Check Out” | Pamela abednigo | [Read More](https://medium.com/p/89b68d0eaacc) |
-| Tue, 15 Jul 2025 13:24:48 GMT | Smiling at Plates, Smiling at People | Heidi lai | [Read More](https://medium.com/p/700ee740fc35) |
-| Tue, 15 Jul 2025 13:22:48 GMT | I hate the sunset tonight | E.Catalyst | [Read More](https://medium.com/p/286fc9b95090) |
-| Tue, 15 Jul 2025 13:21:41 GMT | Why Do We Only Allow Ourselves to Break Down in Private? | Yash Tiwari | [Read More](https://medium.com/p/7f327ed74910) |
-| Tue, 15 Jul 2025 13:18:17 GMT | The Power of Proactive Risk Assessments in CybersecuritThe Power of Proactive Risk Assessments in… | SecureFLO | [Read More](https://medium.com/p/d7eb81440845) |
-| Tue, 15 Jul 2025 13:16:25 GMT | Why Your B2B Business Needs a VCISO: A Game-Changer for Emerging AI Companies | SecureFLO | [Read More](https://medium.com/p/ac747442b654) |
-| Tue, 15 Jul 2025 13:14:10 GMT | Understanding Cyber Threats During the Holiday Season | SecureFLO | [Read More](https://medium.com/p/abfd8f4c4b58) |
-| Tue, 15 Jul 2025 13:11:05 GMT | AI Responds to Ethane Hunte’s Resignation | Ping Yi | [Read More](https://medium.com/p/3ee74b81c9ba) |
-| Tue, 15 Jul 2025 13:09:06 GMT | Using a Phone Farm Box to Start a Mobile Farm — Advantages and Tips | Cxt Factory | [Read More](https://medium.com/p/0eb502e31ff8) |
-| Tue, 15 Jul 2025 13:08:01 GMT | AWS IAM Enumeration Cheat Sheet — Know Your Cloud Like a Hacker! | Aravind S V | [Read More](https://medium.com/p/d3fdac0dcb3a) |
