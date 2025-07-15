@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 03:34:12 GMT | Beginner’s Guide to Building a Secure AWS VPC: A Hands-On Project | Meet Patel | [Read More](https://medium.com/p/e0c3a966a4e8) |
+| Tue, 15 Jul 2025 03:32:59 GMT | Fortifying Digital Banking: RBI’s Mandate for .bank.in Domain Transition | Deven Chhajed | [Read More](https://medium.com/p/e0aa79af23f4) |
+| Tue, 15 Jul 2025 03:28:05 GMT | What Are Some Legal & Ethical Ways to Monitor Someone’s Phone Without Using Trojans or Spyware? | Sajjad Hussain | [Read More](https://medium.com/p/295a792d8c70) |
+| Tue, 15 Jul 2025 03:27:09 GMT | DefenseArk #ThreatIntelThursday - Inference Attacks and Aggregation Attacks | Kalpitha S | [Read More](https://medium.com/p/b13f283ff6be) |
+| Tue, 15 Jul 2025 03:23:55 GMT | We Tested 6 Free WAFs. Here’s How They Actually Perform. | AerieWhole123 | [Read More](https://medium.com/p/68c0fe2921b3) |
+| Tue, 15 Jul 2025 03:12:14 GMT | Find High-Quality Subdomains Using Subfinder, API Keys, FFUF & SubEnum | err0rgod | [Read More](https://medium.com/p/721918d6f2d4) |
+| Tue, 15 Jul 2025 03:06:58 GMT | Understanding Simulated Wallet Reflections | Sima | [Read More](https://medium.com/p/104636195e81) |
+| Tue, 15 Jul 2025 03:04:35 GMT | What Is Flash USDT? | Sima | [Read More](https://medium.com/p/e83afb798461) |
+| Tue, 15 Jul 2025 02:48:16 GMT | New Cyber Threat: AI-Powered Phishing Scams-How to Stay Safe in 2025 | The News English India | [Read More](https://medium.com/p/9240e322e0c9) |
+| Tue, 15 Jul 2025 02:44:34 GMT | Zero to Trusted | Suzette Becraft | [Read More](https://medium.com/p/5eea78fe48be) |
+| Tue, 15 Jul 2025 02:42:34 GMT | TRiSM for Agentic AI | Tal Eliyahu | [Read More](https://medium.com/p/424d8c78878a) |
+| Tue, 15 Jul 2025 02:31:59 GMT | What the Heck Is an XSS Attack? I Finally Understood It with This Silly Example | Alex Joyel Raj | [Read More](https://medium.com/p/b11c1af5fad5) |
+| Tue, 15 Jul 2025 02:22:06 GMT | Two-Factor Authentication (2FA) Vulnerabilities: Full Analysis | Monika sharma | [Read More](https://medium.com/p/c0e7a04c1acb) |
+| Tue, 15 Jul 2025 02:19:05 GMT | Automation in Bug Bounty Hunting: Best Tools and Techniques | Monika sharma | [Read More](https://medium.com/p/17bbdfdc1633) |
+| Tue, 15 Jul 2025 02:18:49 GMT | How a 2FA Bypass Vulnerability in Drugs.com Exposed User Accounts | Monika sharma | [Read More](https://medium.com/p/773d9eea0cb0) |
+| Tue, 15 Jul 2025 02:04:23 GMT | The Unseen Risks of Publicly Sharing Your Phone Number: A Cybersecurity Perspective | Ademola Okunaiya | [Read More](https://medium.com/p/e8262f0a4691) |
+| Tue, 15 Jul 2025 02:03:25 GMT | This One Mistake Can Let Hackers Steal Your Account — Are You Doing It Too? | Paritosh | [Read More](https://medium.com/p/165ca84533a2) |
 | Tue, 15 Jul 2025 01:48:58 GMT | Angular Interview Q&A: Day 25 | Dipak Ahirav | [Read More](https://medium.com/p/ee1033079d8d) |
+| Tue, 15 Jul 2025 01:47:59 GMT | Liquid Design 26 is all about Bugs! | Viacheslav Romanov | [Read More](https://medium.com/p/54701c0b8291) |
 | Tue, 15 Jul 2025 01:45:55 GMT | INSTALLING KALI LINUX IN A VIRTUAL BOX | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/22fab13c1520) |
 | Tue, 15 Jul 2025 01:43:13 GMT | INSTALLING UBUNTU IN A VIRTUAL BOX | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/f42eb0f15e59) |
 | Tue, 15 Jul 2025 01:41:10 GMT | Simulasi Uji Penetrasi Website: SQL Injection, XSS, CSRF, dan Improper Input Validation | Kevin Namalo Sirait | [Read More](https://medium.com/p/9a61cbe5f48e) |
@@ -20,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 01:14:37 GMT | The DSPM Paradox: Perceived Controls for an Uncontrollable Data Landscape | Hamid Akhtar | [Read More](https://medium.com/p/f235351dd3d8) |
 | Tue, 15 Jul 2025 01:10:25 GMT | Vulnerability Scanning, Management & NIST Cybersecurity Framework (CSF) — How Do They Work Together? | Myshawne Stallings | [Read More](https://medium.com/p/3119c46093fe) |
 | Tue, 15 Jul 2025 01:08:44 GMT | I will do resume for software engineer cybersecurity ai ml data and robotic engineer | Karendburke | [Read More](https://medium.com/p/627a358cfd8c) |
+| Tue, 15 Jul 2025 00:58:32 GMT | PoC: Menguji Permintaan dengan AccessToken yang Dimodifikasi Menggunakan Burp Suite | alxyz12 | [Read More](https://medium.com/p/deb104e98584) |
 | Tue, 15 Jul 2025 00:47:54 GMT | AWS CloudTrail + a Bit of Logic = Security’s New Favorite Engineer! | Yajur | [Read More](https://medium.com/p/1f0d88c09d46) |
 | Tue, 15 Jul 2025 00:47:31 GMT | Blocking Bad Bots: Automating AWS WAF Rules with Terraform | Abhishek Joshi | [Read More](https://medium.com/p/f6b90e288a37) |
 | Tue, 15 Jul 2025 00:46:55 GMT | DefenseArk #ThreatIntelThursday -Salami Attacks | Kalpitha S | [Read More](https://medium.com/p/19f11a1cc216) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 18:25:45 GMT | Why Do Some Countries Drive on the Left and Others on the Right? | JCF Medical College | [Read More](https://medium.com/p/473e6be79c58) |
 | Mon, 14 Jul 2025 18:25:44 GMT | ⚔️ Recon no Kata: The Docker Slayer — How I Breached redacted.com’s Infra Like a Hashira | Anurag Kumar(0xV3n0m) | [Read More](https://medium.com/p/d142fa66baa7) |
 | Mon, 14 Jul 2025 18:22:32 GMT | From the Courtroom to Cyberspace: | Judgecyberlawyer | [Read More](https://medium.com/p/daa485acbe15) |
-| Mon, 14 Jul 2025 18:17:02 GMT | You Can’t Secure What You Don’t Inventory: network asset inventory and patching | Security Consulting Blogspot | [Read More](https://medium.com/p/73b209aa60ed) |
-| Mon, 14 Jul 2025 18:16:59 GMT | HackNOW — A new free blog for ethical hackers and security enthusiasts | HackNOW | [Read More](https://medium.com/p/dd712f525d72) |
-| Mon, 14 Jul 2025 18:13:41 GMT | Building a Persistent and Interactive C2 Framework (Part 2) | Cyberlairs | [Read More](https://medium.com/p/19329fc8fa23) |
-| Mon, 14 Jul 2025 18:11:41 GMT | HTB Challenge — Pivot Chain | Fardeen Ahmed | [Read More](https://medium.com/p/db02067d10bd) |
-| Mon, 14 Jul 2025 18:07:55 GMT | What Is Strategy in Cybersecurity? Rethinking the Way We Lead, Protect and Adapt | Juan Pablo Castro | [Read More](https://medium.com/p/5990237bba6a) |
-| Mon, 14 Jul 2025 18:03:56 GMT | Chapter 1 Review — Your Password Can Be Cracked! [The Art Of Invisibility ~ Kevin Mitnick] | Gurnoor Kaur | [Read More](https://medium.com/p/abf51bf91084) |
-| Mon, 14 Jul 2025 18:01:33 GMT | Building Resilience in the Cryptocurrency Era: How MITRE’s AADAPT Framework Protects Digital Assets | Chetan Seripally | [Read More](https://medium.com/p/73a86be2027e) |
-| Mon, 14 Jul 2025 18:01:15 GMT | How I Use aide to Detect Unauthorized Changes on My Linux and Ubuntu Servers | Faruk Ahmed | [Read More](https://medium.com/p/2b7c83a76d34) |
-| Mon, 14 Jul 2025 17:56:50 GMT | How I Crashed a Closed Beta MMO With 0.2% Auction Fees and a Float Overflow | wellisrite | [Read More](https://medium.com/p/bba5d9a2155f) |
-| Mon, 14 Jul 2025 17:49:04 GMT | Ep. 544 Harry Donnelly - Digital Asset Recovery Technology with Circuit | Brandon Zemp | [Read More](https://medium.com/p/35e3570e8c4c) |
-| Mon, 14 Jul 2025 17:47:06 GMT | From Single Agent to Meta-Agent Building the Leading Open Source Autonomous Cyber Agent | Aaron Brown | [Read More](https://medium.com/p/e1b704f81707) |
-| Mon, 14 Jul 2025 17:45:06 GMT | OpenCTI: My Journey into the World of Cyber Threat Intelligence (And How I Didn’t Get Lost) | Stephnoramafeng | [Read More](https://medium.com/p/5bb1ea2497be) |
-| Mon, 14 Jul 2025 17:44:02 GMT | Securing MCP Protocol: Best Practices for Using Trusted Servers | Sumanth Badethalav | [Read More](https://medium.com/p/63bacaf64f6e) |
-| Mon, 14 Jul 2025 17:36:32 GMT | Protect Against Ransomware Attacks | Mian Abdul Moeez | [Read More](https://medium.com/p/3919b3db565f) |
-| Mon, 14 Jul 2025 17:35:05 GMT | PCI Compliance Feels Like a Chore. What If It Didn’t? | Openiam | [Read More](https://medium.com/p/539b0d20eb2e) |
-| Mon, 14 Jul 2025 17:31:53 GMT | Social Engineering In Cyber Security- Practical Lab | M Sameer Malik | [Read More](https://medium.com/p/9417c4737f53) |
-| Mon, 14 Jul 2025 17:25:22 GMT | The Internship | Whitesell Seth | [Read More](https://medium.com/p/49fa5e2f7f83) |
-| Mon, 14 Jul 2025 17:20:15 GMT | Overpass 3 Writeup on TryHackMe: Beginner-Friendly Hosting Walkthrough | Haitam Lazaar | [Read More](https://medium.com/p/4070d0afbfe3) |
-| Mon, 14 Jul 2025 17:19:38 GMT | Offensive MCP and MCP for Offensive | Arun Nair | [Read More](https://medium.com/p/1ac7ffe82fb6) |
