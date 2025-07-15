@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 21:02:59 GMT | When the Code Goes Dark: The Secret War for Algorithmic Sovereignty | James Kuhman | [Read More](https://medium.com/p/f30c096cbf47) |
+| Tue, 15 Jul 2025 21:01:18 GMT | Complete Guide to Rooting Google Pixel 3 and Other Devices Using Magisk | Mirza Sanaullah | [Read More](https://medium.com/p/9d212eac4272) |
+| Tue, 15 Jul 2025 20:56:17 GMT | Building a Home SOC Lab with Splunk on TryHackMe | Kelechi Onwuka | [Read More](https://medium.com/p/986fd0b5a626) |
+| Tue, 15 Jul 2025 20:49:43 GMT | Security Misconfiguration in Salesforce — When “Default” Becomes Dangerous | Musa Ndlala | [Read More](https://medium.com/p/d055cdac3213) |
+| Tue, 15 Jul 2025 20:42:00 GMT | Malware Traffic Analysis | whoami | [Read More](https://medium.com/p/b20a2b10c7ec) |
 | Tue, 15 Jul 2025 20:35:13 GMT | Security: Certificate and Truststore | oliviaaa | [Read More](https://medium.com/p/525503220275) |
 | Tue, 15 Jul 2025 20:31:45 GMT | Leadership Accountability Under NIS2: Who’s Ultimately Responsible? | J Bodys | [Read More](https://medium.com/p/6575ae5cc99a) |
 | Tue, 15 Jul 2025 20:17:36 GMT | Why We Replaced Microsoft’s Email Security (But Kept GCC High) | Steven McDaniel | [Read More](https://medium.com/p/3125755afde9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 14:05:22 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ducat India | [Read More](https://medium.com/p/fb23a77a37fd) |
 | Tue, 15 Jul 2025 14:03:16 GMT | Is your computer compromised? Check if your PC is hacked | Null Walker | [Read More](https://medium.com/p/a4d0dd0d3c2a) |
 | Tue, 15 Jul 2025 14:02:23 GMT | Cyber Briefing: 2025.07.15 | CyberMaterial | [Read More](https://medium.com/p/f490839304e2) |
-| Tue, 15 Jul 2025 14:02:17 GMT | How Cybersecurity in Ontario, California Moves Beyond Vulnerability Scanning with EASM | Zeta Sky | [Read More](https://medium.com/p/08a29a3bb7cd) |
-| Tue, 15 Jul 2025 13:58:44 GMT | How VAPT as a Service Strengthens Modern Business Security | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/01371366a56a) |
-| Tue, 15 Jul 2025 13:57:18 GMT | Wgel - TryHackMe CTF Çözümü | Beratcamm | [Read More](https://medium.com/p/a5deaab563b5) |
-| Tue, 15 Jul 2025 13:56:14 GMT | Grayscale Mulls U.S. Listing Amid Bitcoin’s New Highs & Regulatory Momentum | alpi aditya | [Read More](https://medium.com/p/ef83052ee30e) |
-| Tue, 15 Jul 2025 13:45:47 GMT | From Zero to Ethical Hacker: The 7-Day Hands-On Challenge | Andrei Ivan | [Read More](https://medium.com/p/6eaff94f399a) |
