@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 19:39:12 GMT | 25000$ From Login Bypassed & MFA Using a Race Condition + JWT Leak | Minio Haxer | [Read More](https://medium.com/p/6139fcc22573) |
+| Tue, 15 Jul 2025 19:22:30 GMT | Digital Forensics and Incident Response: The Key to Effective Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/af58ba73d644) |
+| Tue, 15 Jul 2025 19:21:35 GMT | SOAR-EDRPROJECT PART 1 | rkn | [Read More](https://medium.com/p/4c3eead10090) |
+| Tue, 15 Jul 2025 19:15:38 GMT | Modular ML Model Signing and Attestation Service | Sachin Sampras M | [Read More](https://medium.com/p/dff46280f54d) |
+| Tue, 15 Jul 2025 19:15:35 GMT | BSCP Guide: How to Prepare for the Burp Suite Certified Practitioner Exam (2025) | Karol Czubernat | [Read More](https://medium.com/p/63a212cb671e) |
+| Tue, 15 Jul 2025 19:15:20 GMT | Credential Stuffing: Easy Bug Bounty Wins | Kalariya Het | [Read More](https://medium.com/p/253ed0a6d8ad) |
+| Tue, 15 Jul 2025 19:14:47 GMT | Xbow AI and the Evolution of Red Teaming | Shaheer Yasir | [Read More](https://medium.com/p/7f85511b2921) |
+| Tue, 15 Jul 2025 19:12:13 GMT | Unveiling the Threat of Pegasus Spyware Email Scams | SafeAeon Inc. | [Read More](https://medium.com/p/cd8044a25d66) |
+| Tue, 15 Jul 2025 19:11:58 GMT | “Your Code is Now a Security Threat”: Why AI-Generated Code is Quietly Becoming the Next Cyber… | Dr Dot Net | [Read More](https://medium.com/p/50d1550b9088) |
+| Tue, 15 Jul 2025 19:11:42 GMT | Some Days I Feel So Dumb | Shalini Jayaprakash | [Read More](https://medium.com/p/966d553a14b7) |
+| Tue, 15 Jul 2025 19:08:11 GMT | ️ They’re Watching You: How Your Data Is Being Stolen (and How to Fight Back) | Ghost_Script | [Read More](https://medium.com/p/81875b682678) |
 | Tue, 15 Jul 2025 19:07:57 GMT | S3 Misconfig Leaks Millions in 15 Min | Kalariya Het | [Read More](https://medium.com/p/a3cd61c8f85a) |
 | Tue, 15 Jul 2025 18:59:20 GMT | Series 4: Security in the Age of AI: Building Fast, Building Safe | Jaz Lin | [Read More](https://medium.com/p/8c3c04d7457d) |
 | Tue, 15 Jul 2025 18:57:57 GMT | ZoomEye Dorking - JSON Endpoints | AbhirupKonwar | [Read More](https://medium.com/p/2f4c56b74c97) |
@@ -26,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 18:18:49 GMT | OSI, DNS, and Networking Protocols | MierafA | [Read More](https://medium.com/p/499c1da5d0b8) |
 | Tue, 15 Jul 2025 18:05:51 GMT | Grid Resilience or AI Ruin? The Unpriced Risks in the Compute-Cyber-Energy Nexus | Mind-Front | [Read More](https://medium.com/p/28621d68f36b) |
 | Tue, 15 Jul 2025 17:50:26 GMT | Public call for ON2IT to reassess its own information security practices | 0trust0day | [Read More](https://medium.com/p/ab1ee80515b9) |
+| Tue, 15 Jul 2025 17:49:38 GMT | Qui c’è spazio anche per te | Seraphina Twinstone | [Read More](https://medium.com/p/c67decd42010) |
 | Tue, 15 Jul 2025 17:43:35 GMT | My Top 10 Vulnerabilities | Vijaiya Prathap | [Read More](https://medium.com/p/565ce0fae871) |
 | Tue, 15 Jul 2025 17:34:22 GMT | Linux exploit development basics — Part 1 — Understanding Assembly | Darshan Naresh Naik | [Read More](https://medium.com/p/ae673e458c9c) |
 | Tue, 15 Jul 2025 17:32:57 GMT | Securing LLMs: A Penetration Tester’s Perspective on the 2025 OWASP Top 10 | Mark Puckett | [Read More](https://medium.com/p/13e262f05531) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 13:11:05 GMT | AI Responds to Ethane Hunte’s Resignation | Ping Yi | [Read More](https://medium.com/p/3ee74b81c9ba) |
 | Tue, 15 Jul 2025 13:09:06 GMT | Using a Phone Farm Box to Start a Mobile Farm — Advantages and Tips | Cxt Factory | [Read More](https://medium.com/p/0eb502e31ff8) |
 | Tue, 15 Jul 2025 13:08:01 GMT | AWS IAM Enumeration Cheat Sheet — Know Your Cloud Like a Hacker! | Aravind S V | [Read More](https://medium.com/p/d3fdac0dcb3a) |
-| Tue, 15 Jul 2025 13:07:11 GMT | Are “Deleted” Messages Really Gone? The Truth About Messaging Apps | Anycontrol | [Read More](https://medium.com/p/e8100ac91141) |
-| Tue, 15 Jul 2025 13:06:56 GMT | I Found a Critical SSRF Bug in Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/0ce7a4678afd) |
-| Tue, 15 Jul 2025 13:06:15 GMT | DursVulnNSE: Modern NSE-Nmap | Kang Ali | [Read More](https://medium.com/p/3044b27797e2) |
-| Tue, 15 Jul 2025 13:03:05 GMT | $40M GMX Reentrancy Exploit Leads Week of Smart Contract Failures | Olympix | [Read More](https://medium.com/p/87086153ee78) |
-| Tue, 15 Jul 2025 12:54:47 GMT | Caught by the WAF: Behavioral Security Barriers in Admin Panel Discovery | Huseyin | [Read More](https://medium.com/p/bfe32db4c952) |
-| Tue, 15 Jul 2025 12:54:37 GMT | What is Single Sign-On (SSO), and Why Is It a Game Changer in AWS? | Ifeoma Nwokeoma | [Read More](https://medium.com/p/0fd37e20b0c7) |
-| Tue, 15 Jul 2025 12:53:36 GMT | Whisky vs. Gin Distillation: A Cybersecurity Analogy | Saltiest of Souls | [Read More](https://medium.com/p/47adbfd8fc64) |
-| Tue, 15 Jul 2025 12:52:09 GMT | I Was Afraid to Be Known, and That’s Where Healing Began | Danielle Wilson | [Read More](https://medium.com/p/a1d873090dba) |
-| Tue, 15 Jul 2025 12:47:46 GMT | Uç Nokta Güvenliği ve Türleri | Berke ÇAKIR | [Read More](https://medium.com/p/8227e384987d) |
-| Tue, 15 Jul 2025 12:47:44 GMT | My OSCP Journey Begins: Daily Walkthroughs, Lessons & Progress | DataDefender | [Read More](https://medium.com/p/707e1ea2adb7) |
-| Tue, 15 Jul 2025 12:46:57 GMT | Automating Cloud Detection Alerts with Splunk + n8n: The Final Touch to My Blue Team Lab | Mallikarjunan Krishnan | [Read More](https://medium.com/p/761ae7e817c5) |
-| Tue, 15 Jul 2025 12:46:16 GMT | Try hack Me Room Solution | MD. RAKIBUL ISLAM - RAJ 201-15-3464 | [Read More](https://medium.com/p/362bf5e1eac3) |
