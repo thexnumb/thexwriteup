@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 09:27:28 GMT | The Daily Tech Digest: 15 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c8029dd613c8) |
+| Tue, 15 Jul 2025 09:24:26 GMT | Why Your Business Needs HIPAA-Compliant Pharmacy Software Today | Digitalpharmacy | [Read More](https://medium.com/p/e6d574dbbb6c) |
+| Tue, 15 Jul 2025 09:20:27 GMT | Unlock the Power of AI-Driven Security with CloudGuard | CloudGuard Marketing | [Read More](https://medium.com/p/b04ee177ecab) |
+| Tue, 15 Jul 2025 09:16:52 GMT | Καθάρισε και Θωράκισε τα Windows σου — Οδηγός για Debloat & Hardening | Akis Papas | [Read More](https://medium.com/p/3df1f42345fb) |
+| Tue, 15 Jul 2025 09:11:01 GMT | Stealth with LOLBAS: Living Off the Land (LOTL) Techniques in Red Teaming | Moataz Osama | [Read More](https://medium.com/p/028b15ae8fb8) |
+| Tue, 15 Jul 2025 09:00:45 GMT | In the age of cloud-native apps, microservices, and mobile-first development, APIs are the core of… | Keployio | [Read More](https://medium.com/p/afd1a9e063d8) |
+| Tue, 15 Jul 2025 08:51:11 GMT | Best Managed IT Service Provider In Texas For Your Business | Technokraft Serve | [Read More](https://medium.com/p/bb353d70785a) |
+| Tue, 15 Jul 2025 08:47:35 GMT | Top 5 Kiosk Lockdown Software for Easy Device Control | Vantage MDM | [Read More](https://medium.com/p/bdc714923e7c) |
+| Tue, 15 Jul 2025 08:44:32 GMT | Digital Infra Infotech Pvt. Ltd: AI-Powered Communication Solutions | Stronic Publication (PR Agency) | [Read More](https://medium.com/p/b815d299e067) |
+| Tue, 15 Jul 2025 08:35:27 GMT | Linux Networking: IP Swapping Best Practices in Production Environments | Karthick Dkk | [Read More](https://medium.com/p/062304198fca) |
+| Tue, 15 Jul 2025 08:34:50 GMT | TryHackMe - PowerShell for Pentesters - WriteUp | Axoloth | [Read More](https://medium.com/p/21e4ceb6f531) |
+| Tue, 15 Jul 2025 08:34:19 GMT | Rainbow Hyena strikes again: new backdoor and shift in tactics | BI.ZONE | [Read More](https://medium.com/p/2dd99a10aea9) |
+| Tue, 15 Jul 2025 08:31:24 GMT | More Than a Screen Your Home’s First Line of Defense | Brisbane Security Screens | [Read More](https://medium.com/p/0d486d8e1882) |
+| Tue, 15 Jul 2025 08:30:55 GMT | How I Gained Access to Indian Traffic Systems and Could Delete Anyone’s Challan | Anurag Kumar(0xV3n0m) | [Read More](https://medium.com/p/1479353bf0b0) |
+| Tue, 15 Jul 2025 08:29:20 GMT | I Audited My Node.js App’s Dependencies — Here’s What I Found | Ahmedrao | [Read More](https://medium.com/p/2f32a65b3aed) |
+| Tue, 15 Jul 2025 08:28:20 GMT | Enhancing Cybersecurity with a Proactive Security Operations Center | Ampcus Cyber | [Read More](https://medium.com/p/e203411e6fa7) |
+| Tue, 15 Jul 2025 08:22:32 GMT | Arbitrary File Creation Leads to OS Command Injection | Ahmed Badry | [Read More](https://medium.com/p/8803d2124ec9) |
 | Tue, 15 Jul 2025 08:20:00 GMT | Decoding Danger: Understanding OWASP Top 10 Cryptographic Failures (A02:2021) | Hussein Reda | [Read More](https://medium.com/p/f530e31fd2b7) |
+| Tue, 15 Jul 2025 08:19:48 GMT | Build Trust with Penetration Testing: How Australian SMEs Win Customers in 2025 | Steve McLaughlin | [Read More](https://medium.com/p/d84e36b0a551) |
 | Tue, 15 Jul 2025 08:18:30 GMT | Message Authentication Codes (MACs): Ensuring Data Integrity and Authenticity | Hussein Reda | [Read More](https://medium.com/p/a95901533f39) |
 | Tue, 15 Jul 2025 08:14:04 GMT | Level Up Your Bounties: How to Choose the Best Bug Bounty Programs | Nebty | [Read More](https://medium.com/p/18cdaf61cdcb) |
 | Tue, 15 Jul 2025 08:13:59 GMT | Cryptographically Secure Random Number Generators (CSPRNGs): The Unsung Heroes of Security | Hussein Reda | [Read More](https://medium.com/p/193e6f64f2d7) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 02:48:16 GMT | New Cyber Threat: AI-Powered Phishing Scams-How to Stay Safe in 2025 | The News English India | [Read More](https://medium.com/p/9240e322e0c9) |
 | Tue, 15 Jul 2025 02:44:34 GMT | Zero to Trusted | Suzette Becraft | [Read More](https://medium.com/p/5eea78fe48be) |
 | Tue, 15 Jul 2025 02:42:34 GMT | TRiSM for Agentic AI | Tal Eliyahu | [Read More](https://medium.com/p/424d8c78878a) |
-| Tue, 15 Jul 2025 02:31:59 GMT | What the Heck Is an XSS Attack? I Finally Understood It with This Silly Example | Alex Joyel Raj | [Read More](https://medium.com/p/b11c1af5fad5) |
-| Tue, 15 Jul 2025 02:22:06 GMT | Two-Factor Authentication (2FA) Vulnerabilities: Full Analysis | Monika sharma | [Read More](https://medium.com/p/c0e7a04c1acb) |
-| Tue, 15 Jul 2025 02:19:05 GMT | Automation in Bug Bounty Hunting: Best Tools and Techniques | Monika sharma | [Read More](https://medium.com/p/17bbdfdc1633) |
-| Tue, 15 Jul 2025 02:18:49 GMT | How a 2FA Bypass Vulnerability in Drugs.com Exposed User Accounts | Monika sharma | [Read More](https://medium.com/p/773d9eea0cb0) |
-| Tue, 15 Jul 2025 02:04:23 GMT | The Unseen Risks of Publicly Sharing Your Phone Number: A Cybersecurity Perspective | Ademola Okunaiya | [Read More](https://medium.com/p/e8262f0a4691) |
-| Tue, 15 Jul 2025 02:03:25 GMT | This One Mistake Can Let Hackers Steal Your Account — Are You Doing It Too? | Paritosh | [Read More](https://medium.com/p/165ca84533a2) |
-| Tue, 15 Jul 2025 01:48:58 GMT | Angular Interview Q&A: Day 25 | Dipak Ahirav | [Read More](https://medium.com/p/ee1033079d8d) |
-| Tue, 15 Jul 2025 01:47:59 GMT | Liquid Design 26 is all about Bugs! | Viacheslav Romanov | [Read More](https://medium.com/p/54701c0b8291) |
-| Tue, 15 Jul 2025 01:45:55 GMT | INSTALLING KALI LINUX IN A VIRTUAL BOX | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/22fab13c1520) |
-| Tue, 15 Jul 2025 01:43:13 GMT | INSTALLING UBUNTU IN A VIRTUAL BOX | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/f42eb0f15e59) |
-| Tue, 15 Jul 2025 01:41:10 GMT | Simulasi Uji Penetrasi Website: SQL Injection, XSS, CSRF, dan Improper Input Validation | Kevin Namalo Sirait | [Read More](https://medium.com/p/9a61cbe5f48e) |
-| Tue, 15 Jul 2025 01:33:07 GMT | The Hidden Risks in Open-Source AI Models Nobody Talks About | Bhagya Rana | [Read More](https://medium.com/p/36084c5644d0) |
-| Tue, 15 Jul 2025 01:14:37 GMT | The DSPM Paradox: Perceived Controls for an Uncontrollable Data Landscape | Hamid Akhtar | [Read More](https://medium.com/p/f235351dd3d8) |
-| Tue, 15 Jul 2025 01:10:25 GMT | Vulnerability Scanning, Management & NIST Cybersecurity Framework (CSF) — How Do They Work Together? | Myshawne Stallings | [Read More](https://medium.com/p/3119c46093fe) |
-| Tue, 15 Jul 2025 01:08:44 GMT | I will do resume for software engineer cybersecurity ai ml data and robotic engineer | Karendburke | [Read More](https://medium.com/p/627a358cfd8c) |
-| Tue, 15 Jul 2025 00:58:32 GMT | PoC: Menguji Permintaan dengan AccessToken yang Dimodifikasi Menggunakan Burp Suite | alxyz12 | [Read More](https://medium.com/p/deb104e98584) |
-| Tue, 15 Jul 2025 00:47:54 GMT | AWS CloudTrail + a Bit of Logic = Security’s New Favorite Engineer! | Yajur | [Read More](https://medium.com/p/1f0d88c09d46) |
-| Tue, 15 Jul 2025 00:47:31 GMT | Blocking Bad Bots: Automating AWS WAF Rules with Terraform | Abhishek Joshi | [Read More](https://medium.com/p/f6b90e288a37) |
