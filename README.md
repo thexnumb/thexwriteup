@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 11:28:52 GMT | Gate Automation: Revolutionizing Security and Convenience in Saudi Arabia | Hitech Barrier | [Read More](https://medium.com/p/00c20dd95070) |
+| Tue, 15 Jul 2025 11:27:35 GMT | Why AI Won’t Replace Human Instinct in OSINT (and Never Should) | Joe The OSINT Guy | [Read More](https://medium.com/p/ff2d39f84dd5) |
+| Tue, 15 Jul 2025 11:26:21 GMT | SOCFortres5: UK Home Office Invites Ethical Hackers — But Leaves Legal Risks Unchecked | Darshan | [Read More](https://medium.com/p/bec1499855f0) |
+| Tue, 15 Jul 2025 11:25:39 GMT | Statement of the Problem | Covenant O.B. | [Read More](https://medium.com/p/a5ce4d082b1c) |
+| Tue, 15 Jul 2025 11:22:13 GMT | Beware: Red Bull-Themed Phishing Is Targeting Your Career | The Quiet Hacker | [Read More](https://medium.com/p/e0ad24cee753) |
+| Tue, 15 Jul 2025 11:21:54 GMT | PCI DSS Sadece Bir Kısaltma mı ? | Buse Suna | [Read More](https://medium.com/p/fc178edafcee) |
+| Tue, 15 Jul 2025 11:16:57 GMT | Espionage Threats Inside Europe’s Research Laboratories Will Surprise You | Brian Iselin | [Read More](https://medium.com/p/169c184442e8) |
 | Tue, 15 Jul 2025 11:13:13 GMT | How to Use Exam Dumps Effectively Without Compromising Integrity | VERSAtile Reads | [Read More](https://medium.com/p/51a7c14fafa8) |
 | Tue, 15 Jul 2025 11:07:40 GMT | Best CCTV Camera in Pakistan — Top Picks for 2025 to Keep Your Home & Business Secure | Best Shopping Store in Pakistan - Alif Dukan | [Read More](https://medium.com/p/7e38a289e91e) |
 | Tue, 15 Jul 2025 11:07:26 GMT | ️ Choosing the Best Security Guard Services in Bangalore: What You Need to Know | Southwallsecuritiesservice | [Read More](https://medium.com/p/cc13c34d15d9) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 06:36:31 GMT | Exploring Email Marketing Strategies: Unlocking the Power of Targeted Campaigns | Aashikamhr | [Read More](https://medium.com/p/917b2b1054e7) |
 | Tue, 15 Jul 2025 06:36:19 GMT | The $1.5 B Bybit Breach: Must‑Know Security Lessons for Web3 Teams | ChainZeeper | [Read More](https://medium.com/p/43ca37e0edd6) |
 | Tue, 15 Jul 2025 06:32:58 GMT | How I Cracked the BSCP Exam on My First Attempt— Without Losing My Mind | Sulman Farooq S | [Read More](https://medium.com/p/0e456f26e14d) |
-| Tue, 15 Jul 2025 06:31:23 GMT | Google Unicode SPUA-B Misinterpretation: Decoding Hidden Instructions as Plain Text | Yeswehack | [Read More](https://medium.com/p/114c159ebe8b) |
-| Tue, 15 Jul 2025 06:21:12 GMT | The Complete Guide to OAuth 2.0, OpenID Connect, and JWT Token Verification | Shubham Thorat | [Read More](https://medium.com/p/f2516c196f3b) |
-| Tue, 15 Jul 2025 06:00:33 GMT | Today’s Top Cyber Intelligence Highlights — Jul 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/8c8d08c4f072) |
-| Tue, 15 Jul 2025 06:00:29 GMT | The Cyber Siege of ISIS: Operation Glowing Symphony | Anonymous | [Read More](https://medium.com/p/6849f565bc17) |
-| Tue, 15 Jul 2025 05:57:11 GMT | Firewall Security Review: Why It’s Critical to Your Cyber Defense | Securis360 Inc. | [Read More](https://medium.com/p/7d90d028c0ca) |
-| Tue, 15 Jul 2025 05:56:20 GMT | Why Every App Wants Your Location — Even When It Doesn’t Need It | Rahul Mishra | [Read More](https://medium.com/p/8b7ce1395b36) |
-| Tue, 15 Jul 2025 05:56:01 GMT | Discover Ixora Security Services: Innovation, Reliability, and Comprehensive Care. | IxoraGroup | [Read More](https://medium.com/p/a1852cea996b) |
