@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 19:07:57 GMT | S3 Misconfig Leaks Millions in 15 Min | Kalariya Het | [Read More](https://medium.com/p/a3cd61c8f85a) |
+| Tue, 15 Jul 2025 18:59:20 GMT | Series 4: Security in the Age of AI: Building Fast, Building Safe | Jaz Lin | [Read More](https://medium.com/p/8c3c04d7457d) |
+| Tue, 15 Jul 2025 18:57:57 GMT | ZoomEye Dorking - JSON Endpoints | AbhirupKonwar | [Read More](https://medium.com/p/2f4c56b74c97) |
+| Tue, 15 Jul 2025 18:57:43 GMT | Firewalls Explained (Like I’m 5) | TechTales | [Read More](https://medium.com/p/b53f9b48ca6a) |
+| Tue, 15 Jul 2025 18:57:36 GMT | eJPT Zero to Hero: The Metasploit Framework CTF2 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/4dd9e342b1fa) |
+| Tue, 15 Jul 2025 18:55:24 GMT | HTTP Status Codes — Through the Eyes of a Hacker | Ali Gholami | [Read More](https://medium.com/p/c9f683194f65) |
+| Tue, 15 Jul 2025 18:48:50 GMT | Gemini Leaked a Security Code: A Full Breakdown of a Critical AI Privacy Breach | Yonathan Assefa | [Read More](https://medium.com/p/c1e215a503df) |
+| Tue, 15 Jul 2025 18:44:44 GMT | HTB CTF Write-ups | Devanshi Chavda | [Read More](https://medium.com/p/a1182c2036d4) |
+| Tue, 15 Jul 2025 18:43:32 GMT | ️Laravel Password History Validation | TechSolve Central | [Read More](https://medium.com/p/6059e7670e20) |
+| Tue, 15 Jul 2025 18:41:35 GMT | Hacked my neighbour’s Wi-Fi to take a world tour | ft_thirchu | [Read More](https://medium.com/p/a285d58f4836) |
 | Tue, 15 Jul 2025 18:28:45 GMT | I Didn’t Call Myself a Writer for Years | Amanur | [Read More](https://medium.com/p/b05704f201de) |
 | Tue, 15 Jul 2025 18:18:49 GMT | OSI, DNS, and Networking Protocols | MierafA | [Read More](https://medium.com/p/499c1da5d0b8) |
 | Tue, 15 Jul 2025 18:05:51 GMT | Grid Resilience or AI Ruin? The Unpriced Risks in the Compute-Cyber-Energy Nexus | Mind-Front | [Read More](https://medium.com/p/28621d68f36b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 12:47:44 GMT | My OSCP Journey Begins: Daily Walkthroughs, Lessons & Progress | DataDefender | [Read More](https://medium.com/p/707e1ea2adb7) |
 | Tue, 15 Jul 2025 12:46:57 GMT | Automating Cloud Detection Alerts with Splunk + n8n: The Final Touch to My Blue Team Lab | Mallikarjunan Krishnan | [Read More](https://medium.com/p/761ae7e817c5) |
 | Tue, 15 Jul 2025 12:46:16 GMT | Try hack Me Room Solution | MD. RAKIBUL ISLAM - RAJ 201-15-3464 | [Read More](https://medium.com/p/362bf5e1eac3) |
-| Tue, 15 Jul 2025 12:32:26 GMT | Recon Made Easy: Multi-Subdomain BackMeUp for Bug Bounty Hunters | Janpreet Singh | [Read More](https://medium.com/p/c1c883c2ac0c) |
-| Tue, 15 Jul 2025 12:27:12 GMT | How Hybrid SOC Services Empower Lean Security Teams | sanya | [Read More](https://medium.com/p/02ac4cbc342a) |
-| Tue, 15 Jul 2025 12:25:57 GMT | How GDPR 3.0 & New Data Privacy Laws Impact Global Businesses in 2025. | Sennovate | [Read More](https://medium.com/p/564012631e81) |
-| Tue, 15 Jul 2025 12:24:20 GMT | Top Beast-Rated IT Contractor Insurance for Solo Contractors | Ahshan Ullah | [Read More](https://medium.com/p/7feeafc7b245) |
-| Tue, 15 Jul 2025 12:22:42 GMT | Enhancing Security Implementation using NextAuth in Salesforce | Sushrut Ghimire | [Read More](https://medium.com/p/13e389c13735) |
-| Tue, 15 Jul 2025 12:21:27 GMT | Why Orange County Security Guards Are in High Demand | Direct Guard Services | [Read More](https://medium.com/p/5daed7c294ab) |
-| Tue, 15 Jul 2025 12:18:51 GMT | I almost didn’t post this…. | Komal Mishra | [Read More](https://medium.com/p/b1692e34b140) |
-| Tue, 15 Jul 2025 12:15:58 GMT | “Secure” OPC UA Setups Are Being Hacked — Here’s Why | Azim Uddin | [Read More](https://medium.com/p/fbdb74e70f52) |
-| Tue, 15 Jul 2025 12:15:26 GMT | What makes hybrid SOC services effective? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/e2a767238a58) |
-| Tue, 15 Jul 2025 12:15:25 GMT | From masquerade to metamorphosis: The Silent Shedding of the Skin I Once Inhabited | Dayana Sánchez | [Read More](https://medium.com/p/25bd30aeac03) |
