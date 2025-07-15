@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 13:32:11 GMT | OT Security in the Age of Digital Conflict: Executive Imperatives for 2025 | TechDemocracy | [Read More](https://medium.com/p/8d79856d7fd8) |
+| Tue, 15 Jul 2025 13:27:47 GMT | “Check-In, Never Check Out” | Pamela abednigo | [Read More](https://medium.com/p/89b68d0eaacc) |
+| Tue, 15 Jul 2025 13:24:48 GMT | Smiling at Plates, Smiling at People | Heidi lai | [Read More](https://medium.com/p/700ee740fc35) |
+| Tue, 15 Jul 2025 13:22:48 GMT | I hate the sunset tonight | E.Catalyst | [Read More](https://medium.com/p/286fc9b95090) |
+| Tue, 15 Jul 2025 13:21:41 GMT | Why Do We Only Allow Ourselves to Break Down in Private? | Yash Tiwari | [Read More](https://medium.com/p/7f327ed74910) |
+| Tue, 15 Jul 2025 13:18:17 GMT | The Power of Proactive Risk Assessments in CybersecuritThe Power of Proactive Risk Assessments in… | SecureFLO | [Read More](https://medium.com/p/d7eb81440845) |
+| Tue, 15 Jul 2025 13:16:25 GMT | Why Your B2B Business Needs a VCISO: A Game-Changer for Emerging AI Companies | SecureFLO | [Read More](https://medium.com/p/ac747442b654) |
+| Tue, 15 Jul 2025 13:14:10 GMT | Understanding Cyber Threats During the Holiday Season | SecureFLO | [Read More](https://medium.com/p/abfd8f4c4b58) |
+| Tue, 15 Jul 2025 13:11:05 GMT | AI Responds to Ethane Hunte’s Resignation | Ping Yi | [Read More](https://medium.com/p/3ee74b81c9ba) |
+| Tue, 15 Jul 2025 13:09:06 GMT | Using a Phone Farm Box to Start a Mobile Farm — Advantages and Tips | Cxt Factory | [Read More](https://medium.com/p/0eb502e31ff8) |
+| Tue, 15 Jul 2025 13:08:01 GMT | AWS IAM Enumeration Cheat Sheet — Know Your Cloud Like a Hacker! | Aravind S V | [Read More](https://medium.com/p/d3fdac0dcb3a) |
+| Tue, 15 Jul 2025 13:07:11 GMT | Are “Deleted” Messages Really Gone? The Truth About Messaging Apps | Anycontrol | [Read More](https://medium.com/p/e8100ac91141) |
+| Tue, 15 Jul 2025 13:06:56 GMT | I Found a Critical SSRF Bug in Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/0ce7a4678afd) |
+| Tue, 15 Jul 2025 13:06:15 GMT | DursVulnNSE: Modern NSE-Nmap | Kang Ali | [Read More](https://medium.com/p/3044b27797e2) |
+| Tue, 15 Jul 2025 13:03:05 GMT | $40M GMX Reentrancy Exploit Leads Week of Smart Contract Failures | Olympix | [Read More](https://medium.com/p/87086153ee78) |
+| Tue, 15 Jul 2025 12:54:47 GMT | Caught by the WAF: Behavioral Security Barriers in Admin Panel Discovery | Huseyin | [Read More](https://medium.com/p/bfe32db4c952) |
+| Tue, 15 Jul 2025 12:54:37 GMT | What is Single Sign-On (SSO), and Why Is It a Game Changer in AWS? | Ifeoma Nwokeoma | [Read More](https://medium.com/p/0fd37e20b0c7) |
+| Tue, 15 Jul 2025 12:53:36 GMT | Whisky vs. Gin Distillation: A Cybersecurity Analogy | Saltiest of Souls | [Read More](https://medium.com/p/47adbfd8fc64) |
+| Tue, 15 Jul 2025 12:52:09 GMT | I Was Afraid to Be Known, and That’s Where Healing Began | Danielle Wilson | [Read More](https://medium.com/p/a1d873090dba) |
+| Tue, 15 Jul 2025 12:47:46 GMT | Uç Nokta Güvenliği ve Türleri | Berke ÇAKIR | [Read More](https://medium.com/p/8227e384987d) |
 | Tue, 15 Jul 2025 12:47:44 GMT | My OSCP Journey Begins: Daily Walkthroughs, Lessons & Progress | DataDefender | [Read More](https://medium.com/p/707e1ea2adb7) |
 | Tue, 15 Jul 2025 12:46:57 GMT | Automating Cloud Detection Alerts with Splunk + n8n: The Final Touch to My Blue Team Lab | Mallikarjunan Krishnan | [Read More](https://medium.com/p/761ae7e817c5) |
 | Tue, 15 Jul 2025 12:46:16 GMT | Try hack Me Room Solution | MD. RAKIBUL ISLAM - RAJ 201-15-3464 | [Read More](https://medium.com/p/362bf5e1eac3) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 08:47:35 GMT | Top 5 Kiosk Lockdown Software for Easy Device Control | Vantage MDM | [Read More](https://medium.com/p/bdc714923e7c) |
 | Tue, 15 Jul 2025 08:44:32 GMT | Digital Infra Infotech Pvt. Ltd: AI-Powered Communication Solutions | Stronic Publication (PR Agency) | [Read More](https://medium.com/p/b815d299e067) |
 | Tue, 15 Jul 2025 08:35:27 GMT | Linux Networking: IP Swapping Best Practices in Production Environments | Karthick Dkk | [Read More](https://medium.com/p/062304198fca) |
-| Tue, 15 Jul 2025 08:34:50 GMT | TryHackMe - PowerShell for Pentesters - WriteUp | Axoloth | [Read More](https://medium.com/p/21e4ceb6f531) |
-| Tue, 15 Jul 2025 08:34:19 GMT | Rainbow Hyena strikes again: new backdoor and shift in tactics | BI.ZONE | [Read More](https://medium.com/p/2dd99a10aea9) |
-| Tue, 15 Jul 2025 08:31:24 GMT | More Than a Screen Your Home’s First Line of Defense | Brisbane Security Screens | [Read More](https://medium.com/p/0d486d8e1882) |
-| Tue, 15 Jul 2025 08:30:55 GMT | How I Gained Access to Indian Traffic Systems and Could Delete Anyone’s Challan | Anurag Kumar(0xV3n0m) | [Read More](https://medium.com/p/1479353bf0b0) |
-| Tue, 15 Jul 2025 08:29:20 GMT | I Audited My Node.js App’s Dependencies — Here’s What I Found | Ahmedrao | [Read More](https://medium.com/p/2f32a65b3aed) |
-| Tue, 15 Jul 2025 08:28:20 GMT | Enhancing Cybersecurity with a Proactive Security Operations Center | Ampcus Cyber | [Read More](https://medium.com/p/e203411e6fa7) |
-| Tue, 15 Jul 2025 08:22:32 GMT | Arbitrary File Creation Leads to OS Command Injection | Ahmed Badry | [Read More](https://medium.com/p/8803d2124ec9) |
-| Tue, 15 Jul 2025 08:20:00 GMT | Decoding Danger: Understanding OWASP Top 10 Cryptographic Failures (A02:2021) | Hussein Reda | [Read More](https://medium.com/p/f530e31fd2b7) |
-| Tue, 15 Jul 2025 08:19:48 GMT | Build Trust with Penetration Testing: How Australian SMEs Win Customers in 2025 | Steve McLaughlin | [Read More](https://medium.com/p/d84e36b0a551) |
-| Tue, 15 Jul 2025 08:18:30 GMT | Message Authentication Codes (MACs): Ensuring Data Integrity and Authenticity | Hussein Reda | [Read More](https://medium.com/p/a95901533f39) |
-| Tue, 15 Jul 2025 08:14:04 GMT | Level Up Your Bounties: How to Choose the Best Bug Bounty Programs | Nebty | [Read More](https://medium.com/p/18cdaf61cdcb) |
-| Tue, 15 Jul 2025 08:13:59 GMT | Cryptographically Secure Random Number Generators (CSPRNGs): The Unsung Heroes of Security | Hussein Reda | [Read More](https://medium.com/p/193e6f64f2d7) |
-| Tue, 15 Jul 2025 08:11:17 GMT | Insmod, Kernel Rootkit, and Network Carving — Another Linux Memory Forensics Approach (L3akCTF… | Rifqi Ardia Ramadhan | [Read More](https://medium.com/p/b1e547e8c1b6) |
-| Tue, 15 Jul 2025 08:10:11 GMT | Post-Quantum JWTs | Aman Yadav | [Read More](https://medium.com/p/592537c089d1) |
-| Tue, 15 Jul 2025 08:09:01 GMT | Secure AI code: 2 AI developer tips to avoid mistakes | techcirclehub | [Read More](https://medium.com/p/c14ec33a3cb8) |
-| Tue, 15 Jul 2025 08:07:57 GMT | NoSQL Injection in Symfony: How to Detect & Prevent | Pentest_Testing_Corp | [Read More](https://medium.com/p/b221c4939d27) |
-| Tue, 15 Jul 2025 08:06:21 GMT | Google Cybersecurity Certification Journey | Proteek Bose | [Read More](https://medium.com/p/afe924c8bb55) |
-| Tue, 15 Jul 2025 08:05:11 GMT | Hardware Security Modules (HSMs): Guardians of Trust in a Digital World | Hussein Reda | [Read More](https://medium.com/p/6f6f2eb25320) |
-| Tue, 15 Jul 2025 08:00:05 GMT | CVE-2025–47812: Critical Wing FTP Server Remote Code Execution Vulnerability Under Active… | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/a219617d0f40) |
-| Tue, 15 Jul 2025 07:55:08 GMT | 5 Ways CTEM Is Transforming Cyber Risk Visibility in 2025 | Glesec | [Read More](https://medium.com/p/dab8fc080b25) |
