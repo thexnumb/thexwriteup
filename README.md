@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 14:15:46 GMT | Next-Gen Cybersecurity with ITTStar’s SOC Solutions | ITTStar Consulting | [Read More](https://medium.com/p/3123a7b788f3) |
+| Tue, 15 Jul 2025 14:06:28 GMT | Best Ethical Hacking Training in Noida - Ducat India | Anupanditji | [Read More](https://medium.com/p/2e04c8564119) |
+| Tue, 15 Jul 2025 14:06:19 GMT | Best Ethical Hacking Training in Noida - Ducat India | Kunal | [Read More](https://medium.com/p/a878b0ca71b7) |
+| Tue, 15 Jul 2025 14:06:08 GMT | Best Ethical Hacking Training in Noida - Ducat India | Muskan Bhatia | [Read More](https://medium.com/p/a0d14c7fab1f) |
+| Tue, 15 Jul 2025 14:05:22 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ducat India | [Read More](https://medium.com/p/fb23a77a37fd) |
+| Tue, 15 Jul 2025 14:03:16 GMT | Is your computer compromised? Check if your PC is hacked | Null Walker | [Read More](https://medium.com/p/a4d0dd0d3c2a) |
+| Tue, 15 Jul 2025 14:02:23 GMT | Cyber Briefing: 2025.07.15 | CyberMaterial | [Read More](https://medium.com/p/f490839304e2) |
+| Tue, 15 Jul 2025 14:02:17 GMT | How Cybersecurity in Ontario, California Moves Beyond Vulnerability Scanning with EASM | Zeta Sky | [Read More](https://medium.com/p/08a29a3bb7cd) |
+| Tue, 15 Jul 2025 13:58:44 GMT | How VAPT as a Service Strengthens Modern Business Security | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/01371366a56a) |
+| Tue, 15 Jul 2025 13:57:18 GMT | Wgel - TryHackMe CTF Çözümü | Beratcamm | [Read More](https://medium.com/p/a5deaab563b5) |
+| Tue, 15 Jul 2025 13:56:14 GMT | Grayscale Mulls U.S. Listing Amid Bitcoin’s New Highs & Regulatory Momentum | alpi aditya | [Read More](https://medium.com/p/ef83052ee30e) |
+| Tue, 15 Jul 2025 13:45:47 GMT | From Zero to Ethical Hacker: The 7-Day Hands-On Challenge | Andrei Ivan | [Read More](https://medium.com/p/6eaff94f399a) |
+| Tue, 15 Jul 2025 13:42:51 GMT | When Reasoning Fails: How CatAttack Exposes the Fragility of LLM Logic | Michela Tjan | [Read More](https://medium.com/p/2bb3ab0d4b0c) |
+| Tue, 15 Jul 2025 13:38:48 GMT | Day #19: Splunk Basics HTTP Log Analysis | Rishavkumarthapa | [Read More](https://medium.com/p/af81c950b775) |
+| Tue, 15 Jul 2025 13:32:25 GMT | Configuring Burp Suite With Mobile | Anirudh Kodesia | [Read More](https://medium.com/p/76ea91f5a3b8) |
 | Tue, 15 Jul 2025 13:32:11 GMT | OT Security in the Age of Digital Conflict: Executive Imperatives for 2025 | TechDemocracy | [Read More](https://medium.com/p/8d79856d7fd8) |
 | Tue, 15 Jul 2025 13:27:47 GMT | “Check-In, Never Check Out” | Pamela abednigo | [Read More](https://medium.com/p/89b68d0eaacc) |
 | Tue, 15 Jul 2025 13:24:48 GMT | Smiling at Plates, Smiling at People | Heidi lai | [Read More](https://medium.com/p/700ee740fc35) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 09:49:23 GMT | AD Enumeration & Attacks — Skill Assessment Part II | Knowntonone | [Read More](https://medium.com/p/b31e3815341b) |
 | Tue, 15 Jul 2025 09:48:40 GMT | This Fire and Safety Company Could Be the Only Thing Standing Between You and Disaster | Berkshire Hathaway | [Read More](https://medium.com/p/f4769d1ba4f5) |
 | Tue, 15 Jul 2025 09:42:43 GMT | Unauthenticated Password Reset Abuse | Ehtesham Ul Haq | [Read More](https://medium.com/p/ad2375b358f5) |
-| Tue, 15 Jul 2025 09:37:44 GMT | Best Security Guard Services in Gurugram | Nehaspiinfotechpvtltd | [Read More](https://medium.com/p/2a298cb7abd0) |
-| Tue, 15 Jul 2025 09:36:55 GMT | Healthcare Under Attack: Why AI Security is Critical for Patient Safety | Paul Sherman | [Read More](https://medium.com/p/e2d19f612ac8) |
-| Tue, 15 Jul 2025 09:32:46 GMT | Encryption adoption soars to 94%, but inconsistent application continues to put sensitive data at… | SarahBark | [Read More](https://medium.com/p/d5fb873c88eb) |
-| Tue, 15 Jul 2025 09:30:47 GMT | Active Directory for Absolute Beginners - Part 1 / 6 | Ayush Bagde | [Read More](https://medium.com/p/492f5c333704) |
-| Tue, 15 Jul 2025 09:29:01 GMT | Why Writing Feels Scary (even if you love it) | Vanpriya Shukla | [Read More](https://medium.com/p/709d23fc3a71) |
-| Tue, 15 Jul 2025 09:27:28 GMT | The Daily Tech Digest: 15 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c8029dd613c8) |
-| Tue, 15 Jul 2025 09:24:26 GMT | Why Your Business Needs HIPAA-Compliant Pharmacy Software Today | Digitalpharmacy | [Read More](https://medium.com/p/e6d574dbbb6c) |
-| Tue, 15 Jul 2025 09:20:27 GMT | Unlock the Power of AI-Driven Security with CloudGuard | CloudGuard Marketing | [Read More](https://medium.com/p/b04ee177ecab) |
-| Tue, 15 Jul 2025 09:16:52 GMT | Καθάρισε και Θωράκισε τα Windows σου — Οδηγός για Debloat & Hardening | Akis Papas | [Read More](https://medium.com/p/3df1f42345fb) |
-| Tue, 15 Jul 2025 09:11:01 GMT | Stealth with LOLBAS: Living Off the Land (LOTL) Techniques in Red Teaming | Moataz Osama | [Read More](https://medium.com/p/028b15ae8fb8) |
-| Tue, 15 Jul 2025 09:00:45 GMT | In the age of cloud-native apps, microservices, and mobile-first development, APIs are the core of… | Keployio | [Read More](https://medium.com/p/afd1a9e063d8) |
-| Tue, 15 Jul 2025 08:51:11 GMT | Best Managed IT Service Provider In Texas For Your Business | Technokraft Serve | [Read More](https://medium.com/p/bb353d70785a) |
-| Tue, 15 Jul 2025 08:47:35 GMT | Top 5 Kiosk Lockdown Software for Easy Device Control | Vantage MDM | [Read More](https://medium.com/p/bdc714923e7c) |
-| Tue, 15 Jul 2025 08:44:32 GMT | Digital Infra Infotech Pvt. Ltd: AI-Powered Communication Solutions | Stronic Publication (PR Agency) | [Read More](https://medium.com/p/b815d299e067) |
-| Tue, 15 Jul 2025 08:35:27 GMT | Linux Networking: IP Swapping Best Practices in Production Environments | Karthick Dkk | [Read More](https://medium.com/p/062304198fca) |
