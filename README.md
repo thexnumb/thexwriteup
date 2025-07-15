@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 21:34:48 GMT | Dog  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/8a49879c2d5c) |
+| Tue, 15 Jul 2025 21:29:41 GMT | Offensive Security & Defensive Security? | MD. RAKIBUL ISLAM - RAJ | [Read More](https://medium.com/p/b1ecc7ca8baf) |
+| Tue, 15 Jul 2025 21:23:47 GMT | Building Stronger Passwords & Stronger Communities | Gitika Babbar | [Read More](https://medium.com/p/d82ec55dc4f8) |
+| Tue, 15 Jul 2025 21:20:02 GMT | Unmasking the Evolving Threat: A Deep Dive into the Lumma Stealer MSIL Variant | Pratik Gurav | [Read More](https://medium.com/p/95a374cf3b8c) |
+| Tue, 15 Jul 2025 21:12:29 GMT | Vulnerable & Outdated Components in Salesforce — That One Line of Code Can Haunt You | Musa Ndlala | [Read More](https://medium.com/p/250ae1218849) |
 | Tue, 15 Jul 2025 21:02:59 GMT | When the Code Goes Dark: The Secret War for Algorithmic Sovereignty | James Kuhman | [Read More](https://medium.com/p/f30c096cbf47) |
 | Tue, 15 Jul 2025 21:01:18 GMT | Complete Guide to Rooting Google Pixel 3 and Other Devices Using Magisk | Mirza Sanaullah | [Read More](https://medium.com/p/9d212eac4272) |
 | Tue, 15 Jul 2025 20:56:17 GMT | Building a Home SOC Lab with Splunk on TryHackMe | Kelechi Onwuka | [Read More](https://medium.com/p/986fd0b5a626) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 14:23:14 GMT | Ever heard of Resource Locks in Azure? | Prashant Raorane | [Read More](https://medium.com/p/2563e8ec2f3f) |
 | Tue, 15 Jul 2025 14:15:46 GMT | Next-Gen Cybersecurity with ITTStar’s SOC Solutions | ITTStar Consulting | [Read More](https://medium.com/p/3123a7b788f3) |
 | Tue, 15 Jul 2025 14:06:28 GMT | Best Ethical Hacking Training in Noida - Ducat India | Anupanditji | [Read More](https://medium.com/p/2e04c8564119) |
-| Tue, 15 Jul 2025 14:06:19 GMT | Best Ethical Hacking Training in Noida - Ducat India | Kunal | [Read More](https://medium.com/p/a878b0ca71b7) |
-| Tue, 15 Jul 2025 14:06:08 GMT | Best Ethical Hacking Training in Noida - Ducat India | Muskan Bhatia | [Read More](https://medium.com/p/a0d14c7fab1f) |
-| Tue, 15 Jul 2025 14:05:22 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ducat India | [Read More](https://medium.com/p/fb23a77a37fd) |
-| Tue, 15 Jul 2025 14:03:16 GMT | Is your computer compromised? Check if your PC is hacked | Null Walker | [Read More](https://medium.com/p/a4d0dd0d3c2a) |
-| Tue, 15 Jul 2025 14:02:23 GMT | Cyber Briefing: 2025.07.15 | CyberMaterial | [Read More](https://medium.com/p/f490839304e2) |
