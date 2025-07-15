@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 08:20:00 GMT | Decoding Danger: Understanding OWASP Top 10 Cryptographic Failures (A02:2021) | Hussein Reda | [Read More](https://medium.com/p/f530e31fd2b7) |
+| Tue, 15 Jul 2025 08:18:30 GMT | Message Authentication Codes (MACs): Ensuring Data Integrity and Authenticity | Hussein Reda | [Read More](https://medium.com/p/a95901533f39) |
+| Tue, 15 Jul 2025 08:14:04 GMT | Level Up Your Bounties: How to Choose the Best Bug Bounty Programs | Nebty | [Read More](https://medium.com/p/18cdaf61cdcb) |
+| Tue, 15 Jul 2025 08:13:59 GMT | Cryptographically Secure Random Number Generators (CSPRNGs): The Unsung Heroes of Security | Hussein Reda | [Read More](https://medium.com/p/193e6f64f2d7) |
+| Tue, 15 Jul 2025 08:11:17 GMT | Insmod, Kernel Rootkit, and Network Carving — Another Linux Memory Forensics Approach (L3akCTF… | Rifqi Ardia Ramadhan | [Read More](https://medium.com/p/b1e547e8c1b6) |
+| Tue, 15 Jul 2025 08:10:11 GMT | Post-Quantum JWTs | Aman Yadav | [Read More](https://medium.com/p/592537c089d1) |
+| Tue, 15 Jul 2025 08:09:01 GMT | Secure AI code: 2 AI developer tips to avoid mistakes | techcirclehub | [Read More](https://medium.com/p/c14ec33a3cb8) |
+| Tue, 15 Jul 2025 08:07:57 GMT | NoSQL Injection in Symfony: How to Detect & Prevent | Pentest_Testing_Corp | [Read More](https://medium.com/p/b221c4939d27) |
+| Tue, 15 Jul 2025 08:06:21 GMT | Google Cybersecurity Certification Journey | Proteek Bose | [Read More](https://medium.com/p/afe924c8bb55) |
+| Tue, 15 Jul 2025 08:05:11 GMT | Hardware Security Modules (HSMs): Guardians of Trust in a Digital World | Hussein Reda | [Read More](https://medium.com/p/6f6f2eb25320) |
+| Tue, 15 Jul 2025 08:00:05 GMT | CVE-2025–47812: Critical Wing FTP Server Remote Code Execution Vulnerability Under Active… | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/a219617d0f40) |
+| Tue, 15 Jul 2025 07:55:08 GMT | 5 Ways CTEM Is Transforming Cyber Risk Visibility in 2025 | Glesec | [Read More](https://medium.com/p/dab8fc080b25) |
+| Tue, 15 Jul 2025 07:53:26 GMT | Responsible Data Usage: Why Ethical Data Practices Are the New Competitive Advantage
+"Do you… | Amaka okoye | [Read More](https://medium.com/p/0c020f35e00b) |
+| Tue, 15 Jul 2025 07:49:04 GMT | Four Hours, One Server, and an Aha! Moment | J0eychnpulp | [Read More](https://medium.com/p/5082cd3109af) |
+| Tue, 15 Jul 2025 07:48:41 GMT | ️ WAF? LOL: How Burp Collaborator Helped Me Sneak a Shell Through a Cloud Firewall | Iski | [Read More](https://medium.com/p/14d662e47999) |
+| Tue, 15 Jul 2025 07:41:23 GMT | MITRE ATT&CK T1055 Process Injection | MITRE Doggy | [Read More](https://medium.com/p/5355d7dc2d85) |
+| Tue, 15 Jul 2025 07:38:48 GMT | Critical RCE in kkFileView: Exploiting a Zip Slip Vulnerability | Quella | [Read More](https://medium.com/p/aa55cd901f48) |
+| Tue, 15 Jul 2025 07:35:52 GMT | Top 10 Ruby on Rails Best Practices You Shouldn’t Ignore | Techno-Vision Consulting | [Read More](https://medium.com/p/d386ffd00512) |
 | Tue, 15 Jul 2025 07:25:54 GMT | Cybersecurity Solutions in KSA / حلول الأمن السيبراني في السعودية | Techpartnersm | [Read More](https://medium.com/p/ce165f5c73af) |
 | Tue, 15 Jul 2025 07:19:22 GMT | AI-Powered Life-Sciences Solutions: Bridging Research and Real-World Impact | Haridas G | [Read More](https://medium.com/p/cc38c0e506aa) |
 | Tue, 15 Jul 2025 07:17:38 GMT | The Fastest Way to Buy Bitcoin in India: Why CryptoXpress Is a Game-Changer for Mobile Users | Devbradon | [Read More](https://medium.com/p/3d03a144006d) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 00:58:32 GMT | PoC: Menguji Permintaan dengan AccessToken yang Dimodifikasi Menggunakan Burp Suite | alxyz12 | [Read More](https://medium.com/p/deb104e98584) |
 | Tue, 15 Jul 2025 00:47:54 GMT | AWS CloudTrail + a Bit of Logic = Security’s New Favorite Engineer! | Yajur | [Read More](https://medium.com/p/1f0d88c09d46) |
 | Tue, 15 Jul 2025 00:47:31 GMT | Blocking Bad Bots: Automating AWS WAF Rules with Terraform | Abhishek Joshi | [Read More](https://medium.com/p/f6b90e288a37) |
-| Tue, 15 Jul 2025 00:46:55 GMT | DefenseArk #ThreatIntelThursday -Salami Attacks | Kalpitha S | [Read More](https://medium.com/p/19f11a1cc216) |
-| Tue, 15 Jul 2025 00:44:30 GMT | Tuesday Morning Threat Report: July 15, 2025 | Mark Maguire | [Read More](https://medium.com/p/867de2fc59d4) |
-| Tue, 15 Jul 2025 00:42:55 GMT | Silent Scream | Dragonfly | [Read More](https://medium.com/p/deb7422df3af) |
-| Tue, 15 Jul 2025 00:35:18 GMT | HTB Access - Anonymous FTP, MDB Extraction & Nishang Reverse Shell | Onurcan Genç | [Read More](https://medium.com/p/2ded1da34fa1) |
-| Tue, 15 Jul 2025 00:33:28 GMT | Day 51: How NAT works | Nile Okomo | [Read More](https://medium.com/p/5ca1f336b00d) |
-| Tue, 15 Jul 2025 00:18:45 GMT | Resilient by Design: The Next Paradigm for Security and Growth | ZJJ | [Read More](https://medium.com/p/ec207941c199) |
-| Tue, 15 Jul 2025 00:16:35 GMT | Automate Identity Document Recognition with PixLab’s ID Scan & Extract API | Pius Oruko | [Read More](https://medium.com/p/c364933427af) |
-| Tue, 15 Jul 2025 00:10:54 GMT | What is pure love, to you? | Auro | [Read More](https://medium.com/p/715d0dc311a2) |
-| Tue, 15 Jul 2025 00:10:23 GMT | Threat Hunting with VirusTotal & Shodan | Ashe Herrick | [Read More](https://medium.com/p/34e837a459b2) |
-| Tue, 15 Jul 2025 00:03:01 GMT | Injection : Guía Completa de Hacking, Bug Bounty y Prevención | JPablo13 | [Read More](https://medium.com/p/a5748ca723c6) |
-| Tue, 15 Jul 2025 00:01:41 GMT | Empire-Breakout CTF — Full Walkthrough (VulnHub) | Basit Olasubomi Balogun | [Read More](https://medium.com/p/9f9d26f7307d) |
-| Mon, 14 Jul 2025 23:59:53 GMT | When Your VM Lies About the Time: Fixing Clock Skew Errors within CTF’s and Active Directory… | Cider | [Read More](https://medium.com/p/38d2fb25f44e) |
-| Mon, 14 Jul 2025 23:46:40 GMT | Finish Lab MBPTL from bayufedra | Dewa Agustina | [Read More](https://medium.com/p/7573a5ad8963) |
-| Mon, 14 Jul 2025 23:36:16 GMT | Gatekeeper writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/dfecd869ede8) |
-| Mon, 14 Jul 2025 23:31:45 GMT | MCP Server Security: Risks, Exploits, and Defenses | Khanh Le | [Read More](https://medium.com/p/2f549110dcae) |
-| Mon, 14 Jul 2025 23:27:06 GMT | “hosts” Dosyası Nedir ve Nasıl Kullanılır? (Linux & Windows) | Emir Ekrem Kaya | [Read More](https://medium.com/p/51330e176986) |
-| Mon, 14 Jul 2025 23:24:17 GMT | Parental Guide to Online Safety: Mitigating Social Media & Gaming Risks | First Assembly Memphis | [Read More](https://medium.com/p/b79c2ad85570) |
-| Mon, 14 Jul 2025 23:22:36 GMT | The Hidden Threat | Seven Bridges | [Read More](https://medium.com/p/c60c9e10b77b) |
