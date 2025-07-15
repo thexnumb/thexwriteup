@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 01:48:58 GMT | Angular Interview Q&A: Day 25 | Dipak Ahirav | [Read More](https://medium.com/p/ee1033079d8d) |
+| Tue, 15 Jul 2025 01:45:55 GMT | INSTALLING KALI LINUX IN A VIRTUAL BOX | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/22fab13c1520) |
+| Tue, 15 Jul 2025 01:43:13 GMT | INSTALLING UBUNTU IN A VIRTUAL BOX | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/f42eb0f15e59) |
+| Tue, 15 Jul 2025 01:41:10 GMT | Simulasi Uji Penetrasi Website: SQL Injection, XSS, CSRF, dan Improper Input Validation | Kevin Namalo Sirait | [Read More](https://medium.com/p/9a61cbe5f48e) |
+| Tue, 15 Jul 2025 01:33:07 GMT | The Hidden Risks in Open-Source AI Models Nobody Talks About | Bhagya Rana | [Read More](https://medium.com/p/36084c5644d0) |
+| Tue, 15 Jul 2025 01:14:37 GMT | The DSPM Paradox: Perceived Controls for an Uncontrollable Data Landscape | Hamid Akhtar | [Read More](https://medium.com/p/f235351dd3d8) |
+| Tue, 15 Jul 2025 01:10:25 GMT | Vulnerability Scanning, Management & NIST Cybersecurity Framework (CSF) — How Do They Work Together? | Myshawne Stallings | [Read More](https://medium.com/p/3119c46093fe) |
+| Tue, 15 Jul 2025 01:08:44 GMT | I will do resume for software engineer cybersecurity ai ml data and robotic engineer | Karendburke | [Read More](https://medium.com/p/627a358cfd8c) |
+| Tue, 15 Jul 2025 00:47:54 GMT | AWS CloudTrail + a Bit of Logic = Security’s New Favorite Engineer! | Yajur | [Read More](https://medium.com/p/1f0d88c09d46) |
+| Tue, 15 Jul 2025 00:47:31 GMT | Blocking Bad Bots: Automating AWS WAF Rules with Terraform | Abhishek Joshi | [Read More](https://medium.com/p/f6b90e288a37) |
+| Tue, 15 Jul 2025 00:46:55 GMT | DefenseArk #ThreatIntelThursday -Salami Attacks | Kalpitha S | [Read More](https://medium.com/p/19f11a1cc216) |
+| Tue, 15 Jul 2025 00:44:30 GMT | Tuesday Morning Threat Report: July 15, 2025 | Mark Maguire | [Read More](https://medium.com/p/867de2fc59d4) |
+| Tue, 15 Jul 2025 00:42:55 GMT | Silent Scream | Dragonfly | [Read More](https://medium.com/p/deb7422df3af) |
+| Tue, 15 Jul 2025 00:35:18 GMT | HTB Access - Anonymous FTP, MDB Extraction & Nishang Reverse Shell | Onurcan Genç | [Read More](https://medium.com/p/2ded1da34fa1) |
+| Tue, 15 Jul 2025 00:33:28 GMT | Day 51: How NAT works | Nile Okomo | [Read More](https://medium.com/p/5ca1f336b00d) |
+| Tue, 15 Jul 2025 00:18:45 GMT | Resilient by Design: The Next Paradigm for Security and Growth | ZJJ | [Read More](https://medium.com/p/ec207941c199) |
+| Tue, 15 Jul 2025 00:16:35 GMT | Automate Identity Document Recognition with PixLab’s ID Scan & Extract API | Pius Oruko | [Read More](https://medium.com/p/c364933427af) |
+| Tue, 15 Jul 2025 00:10:54 GMT | What is pure love, to you? | Auro | [Read More](https://medium.com/p/715d0dc311a2) |
+| Tue, 15 Jul 2025 00:10:23 GMT | Threat Hunting with VirusTotal & Shodan | Ashe Herrick | [Read More](https://medium.com/p/34e837a459b2) |
+| Tue, 15 Jul 2025 00:03:01 GMT | Injection : Guía Completa de Hacking, Bug Bounty y Prevención | JPablo13 | [Read More](https://medium.com/p/a5748ca723c6) |
+| Tue, 15 Jul 2025 00:01:41 GMT | Empire-Breakout CTF — Full Walkthrough (VulnHub) | Basit Olasubomi Balogun | [Read More](https://medium.com/p/9f9d26f7307d) |
+| Mon, 14 Jul 2025 23:59:53 GMT | When Your VM Lies About the Time: Fixing Clock Skew Errors within CTF’s and Active Directory… | Cider | [Read More](https://medium.com/p/38d2fb25f44e) |
+| Mon, 14 Jul 2025 23:46:40 GMT | Finish Lab MBPTL from bayufedra | Dewa Agustina | [Read More](https://medium.com/p/7573a5ad8963) |
+| Mon, 14 Jul 2025 23:36:16 GMT | Gatekeeper writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/dfecd869ede8) |
+| Mon, 14 Jul 2025 23:31:45 GMT | MCP Server Security: Risks, Exploits, and Defenses | Khanh Le | [Read More](https://medium.com/p/2f549110dcae) |
 | Mon, 14 Jul 2025 23:27:06 GMT | “hosts” Dosyası Nedir ve Nasıl Kullanılır? (Linux & Windows) | Emir Ekrem Kaya | [Read More](https://medium.com/p/51330e176986) |
 | Mon, 14 Jul 2025 23:24:17 GMT | Parental Guide to Online Safety: Mitigating Social Media & Gaming Risks | First Assembly Memphis | [Read More](https://medium.com/p/b79c2ad85570) |
 | Mon, 14 Jul 2025 23:22:36 GMT | The Hidden Threat | Seven Bridges | [Read More](https://medium.com/p/c60c9e10b77b) |
@@ -87,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 17:25:22 GMT | The Internship | Whitesell Seth | [Read More](https://medium.com/p/49fa5e2f7f83) |
 | Mon, 14 Jul 2025 17:20:15 GMT | Overpass 3 Writeup on TryHackMe: Beginner-Friendly Hosting Walkthrough | Haitam Lazaar | [Read More](https://medium.com/p/4070d0afbfe3) |
 | Mon, 14 Jul 2025 17:19:38 GMT | Offensive MCP and MCP for Offensive | Arun Nair | [Read More](https://medium.com/p/1ac7ffe82fb6) |
-| Mon, 14 Jul 2025 17:16:53 GMT | Best Parental Control Spy Apps to Monitor Discord Usage | Narjis Batool | [Read More](https://medium.com/p/aacab1f0c7b9) |
-| Mon, 14 Jul 2025 17:16:10 GMT | Web Application Security Testing for Beginners: Your First 10 Tests | Andrei Ivan | [Read More](https://medium.com/p/f286c6b712b0) |
-| Mon, 14 Jul 2025 17:09:57 GMT | LİNUX VE TEMEL KOMUTLARI | Fırat Yağmur | [Read More](https://medium.com/p/d8669eb3bb1d) |
-| Mon, 14 Jul 2025 17:02:29 GMT | How I Conquered a PHP Challenge with Zero PHP Knowledge and a Hybrid AI Sidekick | Jesse Freeman | [Read More](https://medium.com/p/4f89d0e0819b) |
-| Mon, 14 Jul 2025 17:00:43 GMT | Premieron.com Exposed: India’s Biggest Investment Scam Unmasked with Proof | Xcyber Squad | [Read More](https://medium.com/p/ec6d2a74300a) |
-| Mon, 14 Jul 2025 16:58:00 GMT | Introducing ODP.NET 23.9: Enhanced Features for Distributed Transactions, AI, and More | Alex Keh | [Read More](https://medium.com/p/107ffdd497de) |
-| Mon, 14 Jul 2025 16:56:11 GMT | Creating a System Restore Point (Windows 11) | Michael Hampton | [Read More](https://medium.com/p/691face9c40e) |
-| Mon, 14 Jul 2025 16:52:00 GMT | Stop Thinking Small: Telemetry Pipelines Are Redefining Security and IT Ops | Nick Heudecker | [Read More](https://medium.com/p/23cfd09b4ff9) |
-| Mon, 14 Jul 2025 16:49:47 GMT | Prompt Engineering for Cybersecurity: A Comprehensive Guide | Nelson Sánchez S | [Read More](https://medium.com/p/ac2db96af81d) |
-| Mon, 14 Jul 2025 16:49:38 GMT | STIG This, Not That: Simplifying System Hardening for Beginners | Brandon Dewater | [Read More](https://medium.com/p/e8300ac99412) |
-| Mon, 14 Jul 2025 16:47:49 GMT | Sequel Dump - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/3ff72c06feb7) |
-| Mon, 14 Jul 2025 16:45:54 GMT | DAY 5: Droplets And Data | Akshatdwivedi | [Read More](https://medium.com/p/1714a9dce530) |
-| Mon, 14 Jul 2025 16:37:31 GMT | Breaking In — Behind the Exploit (Understanding and executing cyber attacks demonstration) — Part 3 | Kushaniihalapathirana | [Read More](https://medium.com/p/4a1f409edacc) |
-| Mon, 14 Jul 2025 16:36:46 GMT | Multitenant Organization in Microsoft 365: The Good, The Bad, and The Hiccups | Ashe Herrick | [Read More](https://medium.com/p/1dac6bdc5a92) |
-| Mon, 14 Jul 2025 16:31:28 GMT | Strategic Paralysis by Design: Part V — Footholds and Forward Operating Threats — Guam, Undersea… | Chris Clark | [Read More](https://medium.com/p/2d8cebb40b71) |
-| Mon, 14 Jul 2025 16:26:03 GMT | Vulnerability Assessment vs Penetration Testing: A Pentester’s Perspective | YoungerSibling | [Read More](https://medium.com/p/0fe05806f813) |
-| Mon, 14 Jul 2025 16:24:03 GMT | 5 Ways Hackers Escalate Privileges — A Quick Guide for Cybersecurity Learners
-From exploiting… | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/d5e0cdb30b10) |
-| Mon, 14 Jul 2025 16:19:00 GMT | Building a Realistic SOC Lab on AWS | Gabriel Santos | [Read More](https://medium.com/p/356f1f1386cc) |
-| Mon, 14 Jul 2025 16:18:28 GMT | Meet Rehu Talwar — The Mind Behind MM Hacking & Real-World CTFs | Bjpbaghapurana | [Read More](https://medium.com/p/9465ddc68741) |
-| Mon, 14 Jul 2025 16:17:49 GMT | Explore the Dark Web Safely — A Complete Practical Guide for Only $3.99 | 1x9 | [Read More](https://medium.com/p/9fa1e411d3b2) |
-| Mon, 14 Jul 2025 16:12:42 GMT | [Unofficial FAST solution] Medje dPG box | David | [Read More](https://medium.com/p/9f4e689d46a9) |
-| Mon, 14 Jul 2025 16:11:30 GMT | The Origins of Viruses (And They Weren’t Even That Evil) | jenish patel | [Read More](https://medium.com/p/e8ac60fd70a1) |
-| Mon, 14 Jul 2025 16:10:27 GMT | Leaks on Repeat: How a CI/CD Webhook Gave Me Root Logs, Tokens & Tears | Iski | [Read More](https://medium.com/p/072dfeef9629) |
-| Mon, 14 Jul 2025 16:08:01 GMT | Why Microsoft Azure Is the Smartest Cloud Choice for Startups | Techridge Solutions | [Read More](https://medium.com/p/8abbfa14e7a9) |
-| Mon, 14 Jul 2025 16:07:44 GMT | Hidden Danger: New Malware Hides in WordPress ZIP Files to Attack Your Site | Aravind S V | [Read More](https://medium.com/p/ddaa462c622a) |
