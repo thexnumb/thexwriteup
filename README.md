@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 16:59:39 GMT | 2FA That Knows Your Device | Aaryan Jha | [Read More](https://medium.com/p/522b423cdc17) |
+| Tue, 15 Jul 2025 16:55:59 GMT | Mastering the Terminal with Google’s Gemini CLI: A Game-Changer for Developers and Cybersecurity… | Brian Mora | [Read More](https://medium.com/p/73a70bddb33f) |
+| Tue, 15 Jul 2025 16:53:51 GMT | BlackPearl: CTF Walkthrough/Write-up | Vee Belgar | [Read More](https://medium.com/p/5782e087eff0) |
 | Tue, 15 Jul 2025 16:48:54 GMT | Understanding FAT32: The File System That Still Powers Modern Forensics | Thakur Ashutosh | [Read More](https://medium.com/p/f85aaf29871e) |
 | Tue, 15 Jul 2025 16:43:16 GMT | What is Networking and Why It Matters | CYber VIaz | [Read More](https://medium.com/p/4fc42184539a) |
 | Tue, 15 Jul 2025 16:37:38 GMT | The writer’s trifecta: cynicism, madness, and vulnerability | Syafina Patriani | [Read More](https://medium.com/p/76f466077cfd) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 12:03:00 GMT | Your EV Isn’t Safe: 50% Surge in Owners Held to Ransom | Brian Iselin | [Read More](https://medium.com/p/acde84211bf1) |
 | Tue, 15 Jul 2025 12:01:53 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 10: Improvement (7/7) | Aaron Rusz | [Read More](https://medium.com/p/eb867622797e) |
 | Tue, 15 Jul 2025 12:01:46 GMT | Telegram Phishing Scam Exposed: How a Telegram Bot Scam Infected a Network | Manivel | [Read More](https://medium.com/p/239976dbcab2) |
-| Tue, 15 Jul 2025 11:58:46 GMT | How WhatsApp Loan Scammers Trick You With Fake Agent Profiles. | The Anti-Scam Diaries | [Read More](https://medium.com/p/844d5aa86eb2) |
-| Tue, 15 Jul 2025 11:57:05 GMT | The Art of Secrecy III : A Modern Look | Oluwasemilore Adelaja | [Read More](https://medium.com/p/8b516ebb91c5) |
-| Tue, 15 Jul 2025 11:56:20 GMT | Mobile Application Security Assessment of Vulnerable Bank | Emmanuel Sodolamu | [Read More](https://medium.com/p/fa903ce93eb2) |
