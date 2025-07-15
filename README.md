@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 05:10:25 GMT | Inside the Satellite Attack Surface: What Happens When GNSS Isn’t Locked Down | d1lv3rdn4 | [Read More](https://medium.com/p/633653bf2bf2) |
+| Tue, 15 Jul 2025 05:07:09 GMT | WebdeBeyond the Wires: Decoding the Top 10 US Computer Networking Powerhouses | Lightning Developer | [Read More](https://medium.com/p/98f9c9e96e66) |
+| Tue, 15 Jul 2025 04:55:16 GMT | “The Wild & Vulnerable: A Woman in Love” | Parth Sawant | [Read More](https://medium.com/p/7c0b6e4cf06b) |
+| Tue, 15 Jul 2025 04:53:01 GMT | What Features Should a Custom Website Include in 2025? | Khatore IT Solutions | [Read More](https://medium.com/p/5e5dd68f3336) |
+| Tue, 15 Jul 2025 04:47:38 GMT | Hackers don’t sleep. | HackersPrey | [Read More](https://medium.com/p/063b1e12d9da) |
+| Tue, 15 Jul 2025 04:42:57 GMT | ️ The Dark Side of Web Development: CSRF, XSS, SQL Injection, and CORS Attacks..!⚠️ | Shubham Vartak | [Read More](https://medium.com/p/84c3851e18f1) |
+| Tue, 15 Jul 2025 04:39:49 GMT | Advantage Technology Named 2025 Arctic Wolf Partner of the Year | Advantage Technology | [Read More](https://medium.com/p/4f49e9cbb522) |
+| Tue, 15 Jul 2025 04:39:22 GMT | Advance Your IT Career with Sophos Firewall Certification Courses | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/29f8b5032f00) |
 | Tue, 15 Jul 2025 04:36:01 GMT | The Defender’s Grimoire: A Hands-On Blueprint for Blue Team Alchemists | Rain Ginsberg | [Read More](https://medium.com/p/9b490b6de579) |
 | Tue, 15 Jul 2025 04:34:43 GMT | How to Secure Your Linux Server in 15 Minutes (For New SysAdmins) | Mynul Islam Soiket | [Read More](https://medium.com/p/562fa86f6f1c) |
 | Tue, 15 Jul 2025 04:21:46 GMT | DefenseArk #ThreatIntelThursday - Social Engineering Attacks I | Kalpitha S | [Read More](https://medium.com/p/d6927fde7688) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 19:30:05 GMT | “Larva 25003” Siber Saldırısı: Detaylı Analizi | İbrahim Birkan Öztürk | [Read More](https://medium.com/p/a8ad1c24a8de) |
 | Mon, 14 Jul 2025 19:26:49 GMT | Addressing Business Reputation Damage: A Call to Action for Leaders | Mena George | [Read More](https://medium.com/p/749b52c591d6) |
 | Mon, 14 Jul 2025 19:23:12 GMT | The Definitive Guide to HTTP and HTTPS - MejbanKadir - Ethical Hacker | Mejbankadir | [Read More](https://medium.com/p/82f64e500b87) |
-| Mon, 14 Jul 2025 19:15:06 GMT | Understanding Network Vulnerabilities Through Nmap & Nessus | Mahimabhushan | [Read More](https://medium.com/p/5b09f2bc1ed7) |
-| Mon, 14 Jul 2025 19:11:57 GMT | How to Implement Robust WAF Protection for Web Applications: Block SQL Injection, XSS, and DDoS… | Abdulhakeem Sulaiman | [Read More](https://medium.com/p/4abe1549ac0f) |
-| Mon, 14 Jul 2025 19:07:56 GMT | What is SSTI (Server-Side Template Injection)? | Gökhan | [Read More](https://medium.com/p/4d8af75e2070) |
-| Mon, 14 Jul 2025 19:04:53 GMT | The Loneliest Echo: Why Vulnerability So Often Falls on Deaf Ears | Ckan Johnson | [Read More](https://medium.com/p/80d7e47e1688) |
-| Mon, 14 Jul 2025 19:02:06 GMT | Mobile Forensic - Mobile Hacking - Ethical Hacking | BlackHat | [Read More](https://medium.com/p/bc1994c40e14) |
-| Mon, 14 Jul 2025 18:41:24 GMT | Where Does All the Data Go When You Hit ‘Delete’? | Gandhiridhima | [Read More](https://medium.com/p/34ccd555b0ec) |
-| Mon, 14 Jul 2025 18:40:33 GMT | How I Made My MacBook's Keyboard & Trackpad Work on Linux (T2 Chip Fix That Works) | Oikawasain | [Read More](https://medium.com/p/8212090e724f) |
-| Mon, 14 Jul 2025 18:38:58 GMT | How I Tested My Own VPN Security — And Tried Hacking Myself | Raghav Mahajan | [Read More](https://medium.com/p/0f1d46fe2036) |
