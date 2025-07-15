@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 04:36:01 GMT | The Defender’s Grimoire: A Hands-On Blueprint for Blue Team Alchemists | Rain Ginsberg | [Read More](https://medium.com/p/9b490b6de579) |
+| Tue, 15 Jul 2025 04:34:43 GMT | How to Secure Your Linux Server in 15 Minutes (For New SysAdmins) | Mynul Islam Soiket | [Read More](https://medium.com/p/562fa86f6f1c) |
+| Tue, 15 Jul 2025 04:21:46 GMT | DefenseArk #ThreatIntelThursday - Social Engineering Attacks I | Kalpitha S | [Read More](https://medium.com/p/d6927fde7688) |
+| Tue, 15 Jul 2025 04:08:19 GMT | Who I Am, in Between languages | Breilypayamps | [Read More](https://medium.com/p/822a00b6971d) |
+| Tue, 15 Jul 2025 04:05:14 GMT | Unmasking the Kill Chain Behind One of the Most Sophisticated Social Engineering Campaigns of 2025 | Cyber-AppSec | [Read More](https://medium.com/p/0a3142cdfd2f) |
+| Tue, 15 Jul 2025 04:02:33 GMT | User ID controlled by request parameter, with unpredictable user IDs [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/dd65af8cbec5) |
+| Tue, 15 Jul 2025 03:55:41 GMT | Anomaly Detection and Mitigation for DDoS Attacks in SDN Using Machine Learning | Dafa Saptian F | [Read More](https://medium.com/p/1bf1bf495f56) |
+| Tue, 15 Jul 2025 03:46:41 GMT | How I Earned $780 Using Bug Bounty (As a Beginner) | Rashadul Islam | [Read More](https://medium.com/p/cc550f77e8a8) |
 | Tue, 15 Jul 2025 03:34:12 GMT | Beginner’s Guide to Building a Secure AWS VPC: A Hands-On Project | Meet Patel | [Read More](https://medium.com/p/e0c3a966a4e8) |
 | Tue, 15 Jul 2025 03:32:59 GMT | Fortifying Digital Banking: RBI’s Mandate for .bank.in Domain Transition | Deven Chhajed | [Read More](https://medium.com/p/e0aa79af23f4) |
 | Tue, 15 Jul 2025 03:28:05 GMT | What Are Some Legal & Ethical Ways to Monitor Someone’s Phone Without Using Trojans or Spyware? | Sajjad Hussain | [Read More](https://medium.com/p/295a792d8c70) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 18:41:24 GMT | Where Does All the Data Go When You Hit ‘Delete’? | Gandhiridhima | [Read More](https://medium.com/p/34ccd555b0ec) |
 | Mon, 14 Jul 2025 18:40:33 GMT | How I Made My MacBook's Keyboard & Trackpad Work on Linux (T2 Chip Fix That Works) | Oikawasain | [Read More](https://medium.com/p/8212090e724f) |
 | Mon, 14 Jul 2025 18:38:58 GMT | How I Tested My Own VPN Security — And Tried Hacking Myself | Raghav Mahajan | [Read More](https://medium.com/p/0f1d46fe2036) |
-| Mon, 14 Jul 2025 18:38:02 GMT | Inconsistent Session Logout After Enabling 2FA on Epic Games — A High-Impact Flaw Explained | Gourav(spidergk) | [Read More](https://medium.com/p/2a2ff36c3a3b) |
-| Mon, 14 Jul 2025 18:35:30 GMT | LG Technologys - Expert IT Consulting, App Development & Cloud Solutions in India | LG Technologys | [Read More](https://medium.com/p/61c6de4efc61) |
-| Mon, 14 Jul 2025 18:29:28 GMT | XSS pentest-garage web ADcCD labs walkthrough | Muhammad Ashraf Ali | [Read More](https://medium.com/p/b3edb82f1d58) |
-| Mon, 14 Jul 2025 18:27:35 GMT | ️ How I Found 300+ Web3 Users’ 2FA Secrets Using Just One Recon Command | zack0x01 | [Read More](https://medium.com/p/13fa202393e0) |
-| Mon, 14 Jul 2025 18:26:47 GMT | What Is the Difference Between Burglary and Home Invasion? | Matt Black | [Read More](https://medium.com/p/b0b50a8e6dac) |
-| Mon, 14 Jul 2025 18:25:45 GMT | Why Do Some Countries Drive on the Left and Others on the Right? | JCF Medical College | [Read More](https://medium.com/p/473e6be79c58) |
-| Mon, 14 Jul 2025 18:25:44 GMT | ⚔️ Recon no Kata: The Docker Slayer — How I Breached redacted.com’s Infra Like a Hashira | Anurag Kumar(0xV3n0m) | [Read More](https://medium.com/p/d142fa66baa7) |
-| Mon, 14 Jul 2025 18:22:32 GMT | From the Courtroom to Cyberspace: | Judgecyberlawyer | [Read More](https://medium.com/p/daa485acbe15) |
