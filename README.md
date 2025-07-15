@@ -12,11 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 23:31:50 GMT | Palo Alto Networks VM Series: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d51b2334cbee) |
+| Tue, 15 Jul 2025 23:17:20 GMT | The Crime Lab by CyberDefenders | Ahmedelshoura | [Read More](https://medium.com/p/805c767ec6a2) |
 | Tue, 15 Jul 2025 23:13:45 GMT | 5 Simple Cyber Hygiene Rules Everyone Should Know | Badenskova | [Read More](https://medium.com/p/42e087bbf234) |
+| Tue, 15 Jul 2025 23:11:30 GMT | Droser Network: Reinventing Smart Contract Automation on Ethereum | Ante Mfon David | [Read More](https://medium.com/p/d4385dea97ee) |
 | Tue, 15 Jul 2025 23:07:47 GMT | Meta Fixes Bug That Could Let Users See Each Other’s AI Chats | MindMemoirs | [Read More](https://medium.com/p/292069bcd7c1) |
 | Tue, 15 Jul 2025 23:00:25 GMT | Google’s AI ‘Big Sleep’ Stops Cyberattack Before It Happens, Says CEO Sundar Pichai | MindMemoirs | [Read More](https://medium.com/p/2ddf2551de97) |
 | Tue, 15 Jul 2025 22:55:08 GMT | Attacking Agentic AI — Abusing Insecure Function Calls to Break Output Handling. | Amit Nigam | [Read More](https://medium.com/p/cda2c2771454) |
 | Tue, 15 Jul 2025 22:55:02 GMT | Beware of Suspicious Technical Assessments! | Vignesh | [Read More](https://medium.com/p/17418fc16fdc) |
+| Tue, 15 Jul 2025 22:37:48 GMT | How i found my first 3 bugs in public program in bugcrowd | sudo_a7med | [Read More](https://medium.com/p/9264b8278d3e) |
 | Tue, 15 Jul 2025 22:26:59 GMT | Mindset Over Tools: A Tactical Guide for CTFs and Hands-On Security Certifications | Spiros Pitikaris @cmpspiti | [Read More](https://medium.com/p/a6daba361177) |
 | Tue, 15 Jul 2025 22:22:25 GMT | AI Just Learned to Hack Microsoft Defender (And It’s Only Getting Started) | Brendan Smith | [Read More](https://medium.com/p/38ff8378aaf4) |
 | Tue, 15 Jul 2025 22:17:10 GMT | Secure API Gateway Configuration for Microservices | Karthikeyan Nagaraj | [Read More](https://medium.com/p/880eafb48568) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 15:26:40 GMT | Why Quantum Computing Could Break Current Cybersecurity (And What We Can Do About It) | Paradise technologies Inc | [Read More](https://medium.com/p/5d8e391a3732) |
 | Tue, 15 Jul 2025 15:26:15 GMT | DORA SIEM Monitoring: Der Compliance-Leitfaden für Finanzinstitute 2025 | Philip Hansen | [Read More](https://medium.com/p/600b1e6b4a9b) |
 | Tue, 15 Jul 2025 15:26:03 GMT | DORA Vulnerability Scanning 2025: Der ultimative Praxis-Leitfaden für Finanzinstitute | Philip Hansen | [Read More](https://medium.com/p/8d9186140316) |
-| Tue, 15 Jul 2025 15:22:51 GMT | Dylib Injection Vulnerability in Spotify’s macOS Desktop App | Diego Caridei | [Read More](https://medium.com/p/2366a60082bc) |
-| Tue, 15 Jul 2025 15:11:04 GMT | Mental Health Consequences of Unchecked Techno-Optimism | Shreya Mandal | [Read More](https://medium.com/p/51c94d6a07f9) |
-| Tue, 15 Jul 2025 15:08:59 GMT | The AsyncRAT Tree: How Open-Source Malware is Fueling a New Generation of Threats | RealSec.io | [Read More](https://medium.com/p/c2d1d411ad26) |
-| Tue, 15 Jul 2025 15:06:18 GMT | From Cybersec to Cloud Data Analyst: My Retraining Journey Starts with AWS CCP Modules 6–7 | Ste Caddy | [Read More](https://medium.com/p/190c866d5319) |
