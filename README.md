@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 10:35:50 GMT | How a Developer Lost $500,000 to a Sneaky Code Editor Extension — And What You Can Do About It | Ranasahil | [Read More](https://medium.com/p/49d73394b451) |
+| Tue, 15 Jul 2025 10:29:27 GMT | Natas 1 to 34 Full Writeup PART 1 | Wandesrtech | [Read More](https://medium.com/p/f0f6ab52dfb8) |
+| Tue, 15 Jul 2025 10:27:49 GMT | ️ CORS Demystified: A Real-World Journey from Confusion to Secure Implementation (with MERN… | Srikanth Govindavaram | [Read More](https://medium.com/p/d992cff4d627) |
+| Tue, 15 Jul 2025 10:26:19 GMT | Confidence Isn’t Loud. It’s Consistent | Funke Omolere | [Read More](https://medium.com/p/6c4e6f4948b3) |
+| Tue, 15 Jul 2025 10:24:34 GMT | VIP Security Services: Why Everyone’s Talking About Them | Sumintra | [Read More](https://medium.com/p/902133a58e5e) |
+| Tue, 15 Jul 2025 10:19:11 GMT | Keamanan Sistem untuk Pemula: Membongkar Arsitektur OSI X.800 | Fakultas Teknologi Informasi UTDI | [Read More](https://medium.com/p/cc138584cc38) |
+| Tue, 15 Jul 2025 10:16:40 GMT | How I Found and Fixed Security Holes in My AWS Account with IAM Access Analyzer | AashishChaudhari | [Read More](https://medium.com/p/54be50776bbb) |
 | Tue, 15 Jul 2025 10:14:11 GMT | From Movie Reviews to Cybersecurity: My Journey So Far | Tembzz | [Read More](https://medium.com/p/2d82ed8fc817) |
 | Tue, 15 Jul 2025 10:00:24 GMT | How to Root Cause Bugs Faster (Without Burning Out) as a Software Engineer. | Ian Kiprono | [Read More](https://medium.com/p/6b12299f4f8b) |
 | Tue, 15 Jul 2025 09:56:47 GMT | Everything You Need to Know About Crimsafe Security Windows | Gold Coast Security Screens | [Read More](https://medium.com/p/c7b5ad88a36a) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 04:53:01 GMT | What Features Should a Custom Website Include in 2025? | Khatore IT Solutions | [Read More](https://medium.com/p/5e5dd68f3336) |
 | Tue, 15 Jul 2025 04:47:38 GMT | Hackers don’t sleep. | HackersPrey | [Read More](https://medium.com/p/063b1e12d9da) |
 | Tue, 15 Jul 2025 04:42:57 GMT | ️ The Dark Side of Web Development: CSRF, XSS, SQL Injection, and CORS Attacks..!⚠️ | Shubham Vartak | [Read More](https://medium.com/p/84c3851e18f1) |
-| Tue, 15 Jul 2025 04:39:49 GMT | Advantage Technology Named 2025 Arctic Wolf Partner of the Year | Advantage Technology | [Read More](https://medium.com/p/4f49e9cbb522) |
-| Tue, 15 Jul 2025 04:39:22 GMT | Advance Your IT Career with Sophos Firewall Certification Courses | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/29f8b5032f00) |
-| Tue, 15 Jul 2025 04:36:01 GMT | The Defender’s Grimoire: A Hands-On Blueprint for Blue Team Alchemists | Rain Ginsberg | [Read More](https://medium.com/p/9b490b6de579) |
-| Tue, 15 Jul 2025 04:34:43 GMT | How to Secure Your Linux Server in 15 Minutes (For New SysAdmins) | Mynul Islam Soiket | [Read More](https://medium.com/p/562fa86f6f1c) |
-| Tue, 15 Jul 2025 04:21:46 GMT | DefenseArk #ThreatIntelThursday - Social Engineering Attacks I | Kalpitha S | [Read More](https://medium.com/p/d6927fde7688) |
-| Tue, 15 Jul 2025 04:08:19 GMT | Who I Am, in Between languages | Breilypayamps | [Read More](https://medium.com/p/822a00b6971d) |
-| Tue, 15 Jul 2025 04:05:14 GMT | Unmasking the Kill Chain Behind One of the Most Sophisticated Social Engineering Campaigns of 2025 | Cyber-AppSec | [Read More](https://medium.com/p/0a3142cdfd2f) |
