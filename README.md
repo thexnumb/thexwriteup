@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 05:40:33 GMT | Virtual Machines & Application Security: Building My SOC Analyst Skillset | Dany Christel | [Read More](https://medium.com/p/a1feecbe8ba7) |
+| Tue, 15 Jul 2025 05:34:31 GMT | The Complete Developer’s Guide to Keycloak: From Authentication Basics to Production-Ready Identity… | Mdikramulhaqsagor | [Read More](https://medium.com/p/fc389861a933) |
+| Tue, 15 Jul 2025 05:34:23 GMT | Preparing for the Quantum Era: A Business Leader’s Guide to Future-Proofing Security and Innovation | Awsh Story | [Read More](https://medium.com/p/f32c99a30ad6) |
+| Tue, 15 Jul 2025 05:28:54 GMT | On Love, Hurt, and Everything In Between | NaziraMq | [Read More](https://medium.com/p/ab4701147677) |
+| Tue, 15 Jul 2025 05:26:57 GMT | DefenseArk #ThreatIntelThursday - Social Engineering Attacks II | Kalpitha S | [Read More](https://medium.com/p/b24de50bd0a3) |
 | Tue, 15 Jul 2025 05:10:25 GMT | Inside the Satellite Attack Surface: What Happens When GNSS Isn’t Locked Down | d1lv3rdn4 | [Read More](https://medium.com/p/633653bf2bf2) |
 | Tue, 15 Jul 2025 05:07:09 GMT | WebdeBeyond the Wires: Decoding the Top 10 US Computer Networking Powerhouses | Lightning Developer | [Read More](https://medium.com/p/98f9c9e96e66) |
 | Tue, 15 Jul 2025 04:55:16 GMT | “The Wild & Vulnerable: A Woman in Love” | Parth Sawant | [Read More](https://medium.com/p/7c0b6e4cf06b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 14 Jul 2025 20:12:13 GMT | eJPT Zero to Hero: The Metasploit Framework CTF1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/262da27cb5e0) |
 | Mon, 14 Jul 2025 19:55:40 GMT | Why 2-Factor Authentication Is No Longer Optional | SafeAeon Inc. | [Read More](https://medium.com/p/b23090a8e9ad) |
 | Mon, 14 Jul 2025 19:50:09 GMT | Solving the First 3 PortSwigger XSS Labs – My Payloads & Lessons | M. Mustafa Hussaini | [Read More](https://medium.com/p/adc597d768bc) |
-| Mon, 14 Jul 2025 19:48:56 GMT | LunaFi Announces Reward Drop: Get LFI Today | LunaFi | [Read More](https://medium.com/p/a065c314caac) |
-| Mon, 14 Jul 2025 19:30:36 GMT | “Larva 25003” Cyber Attack: A Detailed Analysis | İbrahim Birkan Öztürk | [Read More](https://medium.com/p/6df0386431af) |
-| Mon, 14 Jul 2025 19:30:05 GMT | “Larva 25003” Siber Saldırısı: Detaylı Analizi | İbrahim Birkan Öztürk | [Read More](https://medium.com/p/a8ad1c24a8de) |
-| Mon, 14 Jul 2025 19:26:49 GMT | Addressing Business Reputation Damage: A Call to Action for Leaders | Mena George | [Read More](https://medium.com/p/749b52c591d6) |
-| Mon, 14 Jul 2025 19:23:12 GMT | The Definitive Guide to HTTP and HTTPS - MejbanKadir - Ethical Hacker | Mejbankadir | [Read More](https://medium.com/p/82f64e500b87) |
