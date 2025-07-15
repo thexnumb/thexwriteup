@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 16:19:13 GMT | Conceal + AI Browsers | Conceal, Inc. | [Read More](https://medium.com/p/18281d22e1b3) |
+| Tue, 15 Jul 2025 16:17:16 GMT | HIPAA Doesn’t Protect You. It Protects Them. | 4rtos | [Read More](https://medium.com/p/5c3c2e36e72f) |
+| Tue, 15 Jul 2025 16:11:50 GMT | Pegasus Spyware Email Scam: Is That Really Your Boss or a Cyber Spy? | Akshay Chauhan | [Read More](https://medium.com/p/8904410b67e8) |
+| Tue, 15 Jul 2025 16:10:26 GMT | Analysis of 2020–12–29 Emotet attack | Nirajbagde | [Read More](https://medium.com/p/68c0a5ca99ac) |
+| Tue, 15 Jul 2025 15:57:07 GMT | The Ultimate Bug Bounty Toolkit (Part 2): Exploitation & Reporting | Andrei Ivan | [Read More](https://medium.com/p/6adc313ae9f8) |
+| Tue, 15 Jul 2025 15:54:49 GMT | The Ultimate Bug Bounty Toolkit (Part 1): Recon & Scanning | Andrei Ivan | [Read More](https://medium.com/p/218be7b4449b) |
+| Tue, 15 Jul 2025 15:53:02 GMT | picoCTF — Hashcrack | Robby firdauzy | [Read More](https://medium.com/p/7a5d64574247) |
+| Tue, 15 Jul 2025 15:52:37 GMT | PortSwigger Lab: Exploiting NoSQL operator injection to bypass authentication writeup (NoSQL) | awes0meness | [Read More](https://medium.com/p/bdcbcfd3d780) |
+| Tue, 15 Jul 2025 15:52:22 GMT | PortSwigger Lab: Detecting NoSQL injection writeup | awes0meness | [Read More](https://medium.com/p/9d227792fa8b) |
+| Tue, 15 Jul 2025 15:52:07 GMT | PortSwigger Lab: SQL injection with filter bypass via XML encoding writeup (SQL Injection) | awes0meness | [Read More](https://medium.com/p/c49f7ab2cd5a) |
+| Tue, 15 Jul 2025 15:48:00 GMT | A Day in My Life as a Technical Business Analyst in Data & AI | Sandeep lokanath | [Read More](https://medium.com/p/67bc295d8157) |
+| Tue, 15 Jul 2025 15:44:51 GMT | Silent Breach Lab Walkthrough | Hadiramr | [Read More](https://medium.com/p/c6897da53ff9) |
+| Tue, 15 Jul 2025 15:39:01 GMT | What is Tokenization and Why Should You Care? | Wiran Larbi | [Read More](https://medium.com/p/8e04c444694e) |
 | Tue, 15 Jul 2025 15:38:00 GMT | Welcome | Erik Eliasson | [Read More](https://medium.com/p/20f76091593a) |
 | Tue, 15 Jul 2025 15:33:21 GMT | Day 1 of My Bug Bounty Journey — Starting from Zero | Manju Varma M | [Read More](https://medium.com/p/59210d31ce15) |
 | Tue, 15 Jul 2025 15:28:28 GMT | This Email Looks Real… But It’s Not | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/079d54798296) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 11:45:59 GMT | List Of Apartment buildings in Colorado | shobha. rentechdigital | [Read More](https://medium.com/p/2de9599e8f6e) |
 | Tue, 15 Jul 2025 11:45:56 GMT | How to Build Secure Applications with Kiro? | Ihor Sasovets | [Read More](https://medium.com/p/0a4d3247a263) |
 | Tue, 15 Jul 2025 11:28:52 GMT | Gate Automation: Revolutionizing Security and Convenience in Saudi Arabia | Hitech Barrier | [Read More](https://medium.com/p/00c20dd95070) |
-| Tue, 15 Jul 2025 11:27:35 GMT | Why AI Won’t Replace Human Instinct in OSINT (and Never Should) | Joe The OSINT Guy | [Read More](https://medium.com/p/ff2d39f84dd5) |
-| Tue, 15 Jul 2025 11:26:21 GMT | SOCFortres5: UK Home Office Invites Ethical Hackers — But Leaves Legal Risks Unchecked | Darshan | [Read More](https://medium.com/p/bec1499855f0) |
-| Tue, 15 Jul 2025 11:25:39 GMT | Statement of the Problem | Covenant O.B. | [Read More](https://medium.com/p/a5ce4d082b1c) |
-| Tue, 15 Jul 2025 11:22:13 GMT | Beware: Red Bull-Themed Phishing Is Targeting Your Career | The Quiet Hacker | [Read More](https://medium.com/p/e0ad24cee753) |
-| Tue, 15 Jul 2025 11:21:54 GMT | PCI DSS Sadece Bir Kısaltma mı ? | Buse Suna | [Read More](https://medium.com/p/fc178edafcee) |
-| Tue, 15 Jul 2025 11:16:57 GMT | Espionage Threats Inside Europe’s Research Laboratories Will Surprise You | Brian Iselin | [Read More](https://medium.com/p/169c184442e8) |
-| Tue, 15 Jul 2025 11:13:13 GMT | How to Use Exam Dumps Effectively Without Compromising Integrity | VERSAtile Reads | [Read More](https://medium.com/p/51a7c14fafa8) |
-| Tue, 15 Jul 2025 11:07:40 GMT | Best CCTV Camera in Pakistan — Top Picks for 2025 to Keep Your Home & Business Secure | Best Shopping Store in Pakistan - Alif Dukan | [Read More](https://medium.com/p/7e38a289e91e) |
-| Tue, 15 Jul 2025 11:07:26 GMT | ️ Choosing the Best Security Guard Services in Bangalore: What You Need to Know | Southwallsecuritiesservice | [Read More](https://medium.com/p/cc13c34d15d9) |
-| Tue, 15 Jul 2025 11:03:01 GMT | When an Executive Needs a Digital Exposure Audit | Ingvar Pavlovich | [Read More](https://medium.com/p/9e2d5c21d874) |
-| Tue, 15 Jul 2025 11:03:00 GMT | PEDA, GEF, and PWNDBG— Which GDB extension should you use in 2025? | elpe_pinillo | [Read More](https://medium.com/p/67033ddd8459) |
-| Tue, 15 Jul 2025 11:02:57 GMT | Threat Intelligence Platform Integrations in Modern SOCs | Esra Kayhan | [Read More](https://medium.com/p/68e4f43ea3cd) |
-| Tue, 15 Jul 2025 10:56:35 GMT | Awareness (Clause 7.3 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/b4dca477ce43) |
