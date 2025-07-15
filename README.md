@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 20:35:13 GMT | Security: Certificate and Truststore | oliviaaa | [Read More](https://medium.com/p/525503220275) |
+| Tue, 15 Jul 2025 20:31:45 GMT | Leadership Accountability Under NIS2: Who’s Ultimately Responsible? | J Bodys | [Read More](https://medium.com/p/6575ae5cc99a) |
 | Tue, 15 Jul 2025 20:17:36 GMT | Why We Replaced Microsoft’s Email Security (But Kept GCC High) | Steven McDaniel | [Read More](https://medium.com/p/3125755afde9) |
 | Tue, 15 Jul 2025 20:10:21 GMT | Microsoft Azure for Startups: Features, Benefits, and Growth Potential | Techridge Solutions | [Read More](https://medium.com/p/f5fcdc873e49) |
 | Tue, 15 Jul 2025 20:05:43 GMT | TryHackMe Harder — Walkthrough | mauzware | [Read More](https://medium.com/p/3af806f354a6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 13:57:18 GMT | Wgel - TryHackMe CTF Çözümü | Beratcamm | [Read More](https://medium.com/p/a5deaab563b5) |
 | Tue, 15 Jul 2025 13:56:14 GMT | Grayscale Mulls U.S. Listing Amid Bitcoin’s New Highs & Regulatory Momentum | alpi aditya | [Read More](https://medium.com/p/ef83052ee30e) |
 | Tue, 15 Jul 2025 13:45:47 GMT | From Zero to Ethical Hacker: The 7-Day Hands-On Challenge | Andrei Ivan | [Read More](https://medium.com/p/6eaff94f399a) |
-| Tue, 15 Jul 2025 13:42:51 GMT | When Reasoning Fails: How CatAttack Exposes the Fragility of LLM Logic | Michela Tjan | [Read More](https://medium.com/p/2bb3ab0d4b0c) |
-| Tue, 15 Jul 2025 13:38:48 GMT | Day #19: Splunk Basics HTTP Log Analysis | Rishavkumarthapa | [Read More](https://medium.com/p/af81c950b775) |
