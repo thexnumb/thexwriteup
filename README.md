@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 16:48:54 GMT | Understanding FAT32: The File System That Still Powers Modern Forensics | Thakur Ashutosh | [Read More](https://medium.com/p/f85aaf29871e) |
+| Tue, 15 Jul 2025 16:43:16 GMT | What is Networking and Why It Matters | CYber VIaz | [Read More](https://medium.com/p/4fc42184539a) |
+| Tue, 15 Jul 2025 16:37:38 GMT | The writer’s trifecta: cynicism, madness, and vulnerability | Syafina Patriani | [Read More](https://medium.com/p/76f466077cfd) |
+| Tue, 15 Jul 2025 16:29:25 GMT | Building an 8-bit computer in Logisim (Part 1— Register) | VxRabbit | [Read More](https://medium.com/p/80ee0e3d998c) |
+| Tue, 15 Jul 2025 16:28:24 GMT | Cybersecurity in the Age of LLMs: A Boon or a Bane? | Ms. Happy Jain | [Read More](https://medium.com/p/c90906877fff) |
+| Tue, 15 Jul 2025 16:24:23 GMT | Can I Haz Root? :: Lower6 | Cyber Grover ‍ | [Read More](https://medium.com/p/447575bac583) |
 | Tue, 15 Jul 2025 16:19:13 GMT | Conceal + AI Browsers | Conceal, Inc. | [Read More](https://medium.com/p/18281d22e1b3) |
 | Tue, 15 Jul 2025 16:17:16 GMT | HIPAA Doesn’t Protect You. It Protects Them. | 4rtos | [Read More](https://medium.com/p/5c3c2e36e72f) |
 | Tue, 15 Jul 2025 16:11:50 GMT | Pegasus Spyware Email Scam: Is That Really Your Boss or a Cyber Spy? | Akshay Chauhan | [Read More](https://medium.com/p/8904410b67e8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 11:58:46 GMT | How WhatsApp Loan Scammers Trick You With Fake Agent Profiles. | The Anti-Scam Diaries | [Read More](https://medium.com/p/844d5aa86eb2) |
 | Tue, 15 Jul 2025 11:57:05 GMT | The Art of Secrecy III : A Modern Look | Oluwasemilore Adelaja | [Read More](https://medium.com/p/8b516ebb91c5) |
 | Tue, 15 Jul 2025 11:56:20 GMT | Mobile Application Security Assessment of Vulnerable Bank | Emmanuel Sodolamu | [Read More](https://medium.com/p/fa903ce93eb2) |
-| Tue, 15 Jul 2025 11:53:46 GMT | SOCFortres5: AWS Lambda URLs Abused in New Wave of Cyber Attacks | Darshan | [Read More](https://medium.com/p/c22f3a5e2188) |
-| Tue, 15 Jul 2025 11:51:39 GMT | Sunk Costs & Moving Forward — For the Everyday Heroes of Housekeeping and Security | EXLITY | [Read More](https://medium.com/p/7d9bc3a232da) |
-| Tue, 15 Jul 2025 11:47:23 GMT | Template Injection in PDF Certificate | Hemant Kumar | [Read More](https://medium.com/p/bc44d01091f8) |
-| Tue, 15 Jul 2025 11:45:59 GMT | List Of Apartment buildings in Colorado | shobha. rentechdigital | [Read More](https://medium.com/p/2de9599e8f6e) |
-| Tue, 15 Jul 2025 11:45:56 GMT | How to Build Secure Applications with Kiro? | Ihor Sasovets | [Read More](https://medium.com/p/0a4d3247a263) |
-| Tue, 15 Jul 2025 11:28:52 GMT | Gate Automation: Revolutionizing Security and Convenience in Saudi Arabia | Hitech Barrier | [Read More](https://medium.com/p/00c20dd95070) |
