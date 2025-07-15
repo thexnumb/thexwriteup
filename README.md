@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 17:34:22 GMT | Linux exploit development basics — Part 1 — Understanding Assembly | Darshan Naresh Naik | [Read More](https://medium.com/p/ae673e458c9c) |
+| Tue, 15 Jul 2025 17:32:57 GMT | Securing LLMs: A Penetration Tester’s Perspective on the 2025 OWASP Top 10 | Mark Puckett | [Read More](https://medium.com/p/13e262f05531) |
+| Tue, 15 Jul 2025 17:05:50 GMT | I Tried Prompt Injection Attacks on LLMs and Learned More Than I Expected | Samuel Dhamodharan | [Read More](https://medium.com/p/e7ae48adb136) |
 | Tue, 15 Jul 2025 16:59:39 GMT | 2FA That Knows Your Device | Aaryan Jha | [Read More](https://medium.com/p/522b423cdc17) |
 | Tue, 15 Jul 2025 16:55:59 GMT | Mastering the Terminal with Google’s Gemini CLI: A Game-Changer for Developers and Cybersecurity… | Brian Mora | [Read More](https://medium.com/p/73a70bddb33f) |
 | Tue, 15 Jul 2025 16:53:51 GMT | BlackPearl: CTF Walkthrough/Write-up | Vee Belgar | [Read More](https://medium.com/p/5782e087eff0) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 12:09:36 GMT | TLS vs SSL: Why We’re Still Getting It Wrong | Vineeth Tunk | [Read More](https://medium.com/p/369abbc9cdab) |
 | Tue, 15 Jul 2025 12:08:47 GMT | Why StrongBox IT is the Best VAPT Service Provider for Your Business | StrongBox IT | [Read More](https://medium.com/p/3153939a6317) |
 | Tue, 15 Jul 2025 12:07:05 GMT | Why mCommerce Development Is Becoming Essential for Modern Businesses | Bhavesh Rajpurohit | [Read More](https://medium.com/p/4ab77d9f95f3) |
-| Tue, 15 Jul 2025 12:03:00 GMT | Your EV Isn’t Safe: 50% Surge in Owners Held to Ransom | Brian Iselin | [Read More](https://medium.com/p/acde84211bf1) |
-| Tue, 15 Jul 2025 12:01:53 GMT | ISO 27001:2022 — AI governance checklist & IT procurement, Clause 10: Improvement (7/7) | Aaron Rusz | [Read More](https://medium.com/p/eb867622797e) |
-| Tue, 15 Jul 2025 12:01:46 GMT | Telegram Phishing Scam Exposed: How a Telegram Bot Scam Infected a Network | Manivel | [Read More](https://medium.com/p/239976dbcab2) |
