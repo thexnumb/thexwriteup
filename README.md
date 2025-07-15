@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 15 Jul 2025 10:14:11 GMT | From Movie Reviews to Cybersecurity: My Journey So Far | Tembzz | [Read More](https://medium.com/p/2d82ed8fc817) |
+| Tue, 15 Jul 2025 10:00:24 GMT | How to Root Cause Bugs Faster (Without Burning Out) as a Software Engineer. | Ian Kiprono | [Read More](https://medium.com/p/6b12299f4f8b) |
+| Tue, 15 Jul 2025 09:56:47 GMT | Everything You Need to Know About Crimsafe Security Windows | Gold Coast Security Screens | [Read More](https://medium.com/p/c7b5ad88a36a) |
+| Tue, 15 Jul 2025 09:56:17 GMT | Keystroke Dynamics Fundamentals for Enterprise Security | Expert App Devs | [Read More](https://medium.com/p/17b45092c46a) |
+| Tue, 15 Jul 2025 09:54:49 GMT | DockerLabs — Ejotapete (Write Up) | APS88 | [Read More](https://medium.com/p/dfdce378d744) |
+| Tue, 15 Jul 2025 09:52:56 GMT | Understanding Status Codes Like a Hacker | Goose Gustin | [Read More](https://medium.com/p/154a828a0be1) |
+| Tue, 15 Jul 2025 09:49:23 GMT | AD Enumeration & Attacks — Skill Assessment Part II | Knowntonone | [Read More](https://medium.com/p/b31e3815341b) |
+| Tue, 15 Jul 2025 09:48:40 GMT | This Fire and Safety Company Could Be the Only Thing Standing Between You and Disaster | Berkshire Hathaway | [Read More](https://medium.com/p/f4769d1ba4f5) |
+| Tue, 15 Jul 2025 09:42:43 GMT | Unauthenticated Password Reset Abuse | Ehtesham Ul Haq | [Read More](https://medium.com/p/ad2375b358f5) |
+| Tue, 15 Jul 2025 09:37:44 GMT | Best Security Guard Services in Gurugram | Nehaspiinfotechpvtltd | [Read More](https://medium.com/p/2a298cb7abd0) |
+| Tue, 15 Jul 2025 09:36:55 GMT | Healthcare Under Attack: Why AI Security is Critical for Patient Safety | Paul Sherman | [Read More](https://medium.com/p/e2d19f612ac8) |
+| Tue, 15 Jul 2025 09:32:46 GMT | Encryption adoption soars to 94%, but inconsistent application continues to put sensitive data at… | SarahBark | [Read More](https://medium.com/p/d5fb873c88eb) |
+| Tue, 15 Jul 2025 09:30:47 GMT | Active Directory for Absolute Beginners - Part 1 / 6 | Ayush Bagde | [Read More](https://medium.com/p/492f5c333704) |
+| Tue, 15 Jul 2025 09:29:01 GMT | Why Writing Feels Scary (even if you love it) | Vanpriya Shukla | [Read More](https://medium.com/p/709d23fc3a71) |
 | Tue, 15 Jul 2025 09:27:28 GMT | The Daily Tech Digest: 15 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c8029dd613c8) |
 | Tue, 15 Jul 2025 09:24:26 GMT | Why Your Business Needs HIPAA-Compliant Pharmacy Software Today | Digitalpharmacy | [Read More](https://medium.com/p/e6d574dbbb6c) |
 | Tue, 15 Jul 2025 09:20:27 GMT | Unlock the Power of AI-Driven Security with CloudGuard | CloudGuard Marketing | [Read More](https://medium.com/p/b04ee177ecab) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 04:21:46 GMT | DefenseArk #ThreatIntelThursday - Social Engineering Attacks I | Kalpitha S | [Read More](https://medium.com/p/d6927fde7688) |
 | Tue, 15 Jul 2025 04:08:19 GMT | Who I Am, in Between languages | Breilypayamps | [Read More](https://medium.com/p/822a00b6971d) |
 | Tue, 15 Jul 2025 04:05:14 GMT | Unmasking the Kill Chain Behind One of the Most Sophisticated Social Engineering Campaigns of 2025 | Cyber-AppSec | [Read More](https://medium.com/p/0a3142cdfd2f) |
-| Tue, 15 Jul 2025 04:02:33 GMT | User ID controlled by request parameter, with unpredictable user IDs [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/dd65af8cbec5) |
-| Tue, 15 Jul 2025 03:55:41 GMT | Anomaly Detection and Mitigation for DDoS Attacks in SDN Using Machine Learning | Dafa Saptian F | [Read More](https://medium.com/p/1bf1bf495f56) |
-| Tue, 15 Jul 2025 03:46:41 GMT | How I Earned $780 Using Bug Bounty (As a Beginner) | Rashadul Islam | [Read More](https://medium.com/p/cc550f77e8a8) |
-| Tue, 15 Jul 2025 03:34:12 GMT | Beginner’s Guide to Building a Secure AWS VPC: A Hands-On Project | Meet Patel | [Read More](https://medium.com/p/e0c3a966a4e8) |
-| Tue, 15 Jul 2025 03:32:59 GMT | Fortifying Digital Banking: RBI’s Mandate for .bank.in Domain Transition | Deven Chhajed | [Read More](https://medium.com/p/e0aa79af23f4) |
-| Tue, 15 Jul 2025 03:28:05 GMT | What Are Some Legal & Ethical Ways to Monitor Someone’s Phone Without Using Trojans or Spyware? | Sajjad Hussain | [Read More](https://medium.com/p/295a792d8c70) |
-| Tue, 15 Jul 2025 03:27:09 GMT | DefenseArk #ThreatIntelThursday - Inference Attacks and Aggregation Attacks | Kalpitha S | [Read More](https://medium.com/p/b13f283ff6be) |
-| Tue, 15 Jul 2025 03:23:55 GMT | We Tested 6 Free WAFs. Here’s How They Actually Perform. | AerieWhole123 | [Read More](https://medium.com/p/68c0fe2921b3) |
-| Tue, 15 Jul 2025 03:12:14 GMT | Find High-Quality Subdomains Using Subfinder, API Keys, FFUF & SubEnum | err0rgod | [Read More](https://medium.com/p/721918d6f2d4) |
-| Tue, 15 Jul 2025 03:06:58 GMT | Understanding Simulated Wallet Reflections | Sima | [Read More](https://medium.com/p/104636195e81) |
-| Tue, 15 Jul 2025 03:04:35 GMT | What Is Flash USDT? | Sima | [Read More](https://medium.com/p/e83afb798461) |
-| Tue, 15 Jul 2025 02:48:16 GMT | New Cyber Threat: AI-Powered Phishing Scams-How to Stay Safe in 2025 | The News English India | [Read More](https://medium.com/p/9240e322e0c9) |
-| Tue, 15 Jul 2025 02:44:34 GMT | Zero to Trusted | Suzette Becraft | [Read More](https://medium.com/p/5eea78fe48be) |
-| Tue, 15 Jul 2025 02:42:34 GMT | TRiSM for Agentic AI | Tal Eliyahu | [Read More](https://medium.com/p/424d8c78878a) |
