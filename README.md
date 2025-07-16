@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 16:42:46 GMT | Cloud Storage Isn’t Automatically Safe: Real Security Starts With You | Ceyda Irwin | [Read More](https://medium.com/p/a4a693050f5a) |
+| Wed, 16 Jul 2025 16:41:00 GMT | The Creator Must Be Sought: A Quiet Signal to the Future | Harley Stumph | [Read More](https://medium.com/p/e5d1478ccd4d) |
+| Wed, 16 Jul 2025 16:38:08 GMT | ⚔️ From Broken Virtual Machines to One-Click Recon: How I Finally Fixed My Setup | LordofHeaven | [Read More](https://medium.com/p/3f51076ccbe2) |
+| Wed, 16 Jul 2025 16:37:24 GMT | [pwn.college] Linux Luminarium — Shell Prompt | Day Lima | [Read More](https://medium.com/p/774360340261) |
+| Wed, 16 Jul 2025 16:36:17 GMT | How to Stop Attacks Before They Reach Your Inbox | SafeAeon Inc. | [Read More](https://medium.com/p/fdadaa95c7ad) |
+| Wed, 16 Jul 2025 16:32:57 GMT | How to Make an Android App More Secure | Jeswin | [Read More](https://medium.com/p/fd0b164a332b) |
+| Wed, 16 Jul 2025 16:30:34 GMT | PortSwigger Lab: Exploiting path mapping for web cache deception writeup (Web Cache Deception) | awes0meness | [Read More](https://medium.com/p/b4ccea0bad52) |
+| Wed, 16 Jul 2025 16:30:17 GMT | PortSwigger Lab: Exploiting NoSQL operator injection to extract unknown fields writeup (NoSQL) | awes0meness | [Read More](https://medium.com/p/f40e3b58b0f6) |
+| Wed, 16 Jul 2025 16:30:03 GMT | PortSwigger Lab: Exploiting NoSQL injection to extract data writeup (NoSQL) | awes0meness | [Read More](https://medium.com/p/4a7bb6333d54) |
 | Wed, 16 Jul 2025 16:17:53 GMT | HELO4D Login 2025 — Tutorial Lengkap Daftar, Verifikasi & Anti-Phishing | Helo4d Login | [Read More](https://medium.com/p/374b74fa10b0) |
 | Wed, 16 Jul 2025 16:16:58 GMT | Integrating Netskope SSE with CrowdStrike Next-Gen SIEM Using Cribl | Kaviarasan Asokan | [Read More](https://medium.com/p/bed8e66b3b21) |
 | Wed, 16 Jul 2025 16:12:57 GMT | The Fastest Way to Buy Bitcoin with a Mobile App in India: Why CryptoXpress Stands Out | Ufanabasi Ekong | [Read More](https://medium.com/p/4a70b6d6c77a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 12:04:55 GMT | From Beijing to Backdoors: The Penetration Testing Lessons from July 16, 2025 | Inforsecpro | [Read More](https://medium.com/p/2903ad7ff8f7) |
 | Wed, 16 Jul 2025 12:04:28 GMT | ZoomEye BugBounty Radar: Streamlined Asset Monitoring for Bug Bounty Hunters | ZoomEye | [Read More](https://medium.com/p/a74103c5c3c5) |
 | Wed, 16 Jul 2025 12:02:55 GMT | Best Residential security guards in Gurugram | SPI Infotech | [Read More](https://medium.com/p/c5ecbe4a60a1) |
-| Wed, 16 Jul 2025 12:01:55 GMT | SELinux Complete Guide for RHCSA: Mastering Security-Enhanced Linux | RHCSA.GURU | [Read More](https://medium.com/p/0849d9419c01) |
-| Wed, 16 Jul 2025 11:59:59 GMT | quiet ask | Fatima Lusung | [Read More](https://medium.com/p/89e4ba1fb56f) |
-| Wed, 16 Jul 2025 11:46:57 GMT | Intimacy: Share or Shield — One Deepens, One Distances | Mike Sansone | [Read More](https://medium.com/p/0fadced4b26a) |
-| Wed, 16 Jul 2025 11:44:15 GMT | Interlock RAT Resurfaces: FileFix Scheme Revives Old Malware in Sophisticated Web Inject Campaigns. | eL Njas!™ | [Read More](https://medium.com/p/f70d6af019b3) |
-| Wed, 16 Jul 2025 11:41:41 GMT | Why CSA Security is the Most Trusted Security Agency in Kolkata, India | Industry Blogs | [Read More](https://medium.com/p/779f32d2fe36) |
-| Wed, 16 Jul 2025 11:39:05 GMT | [Hack The Box CTF] Dog Write-Up | fnwn | [Read More](https://medium.com/p/8318e9c2cba2) |
-| Wed, 16 Jul 2025 11:38:06 GMT | What is Penetration Testing? And Why You Shouldn’t Ignore It in 2025 | Cybersecurity Umbrella | [Read More](https://medium.com/p/ada8c26d7186) |
-| Wed, 16 Jul 2025 11:37:48 GMT | Installing Pfsense Firewall on VirtualBox | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/56f79d7b9bbd) |
-| Wed, 16 Jul 2025 11:36:41 GMT | Everything You Need to Know About Cybersecurity Technical Writers | Essential Data Corporations | [Read More](https://medium.com/p/e535267ef006) |
