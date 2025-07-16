@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 05:40:57 GMT | Why Cybersecurity Should Matter to You (Yes, You) | Lakshita | [Read More](https://medium.com/p/7ebf73e96f3b) |
+| Wed, 16 Jul 2025 05:40:32 GMT | 2D vs. 3D Secure Payments: Which One Actually Keeps Your Card Safe from Hackers and Online Theft? | Sajjad Hussain | [Read More](https://medium.com/p/6a05741f3881) |
+| Wed, 16 Jul 2025 05:33:33 GMT | More Than a Screen Your Home’s First Line of Defense | Brisbane Security Screens | [Read More](https://medium.com/p/a1cf67cbd892) |
+| Wed, 16 Jul 2025 05:27:30 GMT | One Room. One Person. One Hour. | Archana | [Read More](https://medium.com/p/e3dcfd2daa75) |
+| Wed, 16 Jul 2025 05:17:37 GMT | Just Another Day At The Fed: The Quiet Collapse of Secure Engineering | Julie Reyes | [Read More](https://medium.com/p/eeb09901dc8e) |
 | Wed, 16 Jul 2025 05:14:48 GMT | Guardians of the Network: How Signature and Behavioral Analysis Strengthen Modern IDPS | Rahul Balaskandan | [Read More](https://medium.com/p/0250ce8ed738) |
 | Wed, 16 Jul 2025 05:12:55 GMT | The Forgotten Dev Endpoints That Still Exist in Production | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6cc918a0339d) |
 | Wed, 16 Jul 2025 05:12:24 GMT | Unintended Consequences: How a ‘Cancel’ Button Gave Me Full Access | Narendar Battula (nArEn) | [Read More](https://medium.com/p/375c795ed59c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 20:05:43 GMT | TryHackMe Harder — Walkthrough | mauzware | [Read More](https://medium.com/p/3af806f354a6) |
 | Tue, 15 Jul 2025 20:05:19 GMT | Headi — Best Open Source HTTP Header Injection Testing Tool for Ethical Hackers | hacker_might | [Read More](https://medium.com/p/8336ab857d39) |
 | Tue, 15 Jul 2025 20:00:35 GMT | How I Got ISO/IEC 27001 Lead Auditor Certified — And What I Learned | Susmitha Rajendran | [Read More](https://medium.com/p/f3c18ac13fbb) |
-| Tue, 15 Jul 2025 19:58:54 GMT | Unlocking Security: ELLIPAL’s Black Friday Crypto Wallet Deals | farmerdonald9587 | [Read More](https://medium.com/p/5c0f357bdd3a) |
-| Tue, 15 Jul 2025 19:58:17 GMT | All About Server Side Template Injection (SSTI) | Xcheater | [Read More](https://medium.com/p/101e45650c03) |
-| Tue, 15 Jul 2025 19:53:59 GMT | The Ontology of Policy in an Age of Digital Transformation | Above The Firewall | [Read More](https://medium.com/p/b773f51b678a) |
-| Tue, 15 Jul 2025 19:53:10 GMT | Integrating FortiGate Logs with Wazuh | Neetrox | [Read More](https://medium.com/p/d689e442971e) |
-| Tue, 15 Jul 2025 19:52:01 GMT | Tricks of Prompt Injection | restdone | [Read More](https://medium.com/p/bd3887501ffd) |
