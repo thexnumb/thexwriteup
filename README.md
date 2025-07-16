@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 13:32:24 GMT | Cybersecurity Basics You Can’t Skip: Authentication, Authorization & More… | NineTales | [Read More](https://medium.com/p/4c8cad749677) |
+| Wed, 16 Jul 2025 13:24:05 GMT | Cyber kill chain | ayub_91 | [Read More](https://medium.com/p/34ee5eca5090) |
+| Wed, 16 Jul 2025 13:18:25 GMT | The Art Of Falling | ✨ | [Read More](https://medium.com/p/56921ac126ac) |
+| Wed, 16 Jul 2025 13:14:46 GMT | The Remote Work Revolution Is Creating a Crisis Nobody Saw Coming | Mr Tony  Momoh | [Read More](https://medium.com/p/d65119317b09) |
+| Wed, 16 Jul 2025 13:14:11 GMT | Critical CVE-2025–47981: Wormable Windows Flaw Explained | Kalariya Het | [Read More](https://medium.com/p/df180ba62ffa) |
+| Wed, 16 Jul 2025 13:12:48 GMT | How Federated Learning Can Transform Enterprise Cybersecurity | Sherpa AI | [Read More](https://medium.com/p/288ac84f2877) |
+| Wed, 16 Jul 2025 13:11:38 GMT | Strengthening Critical Infrastructure through Legacy System Security: Why COBOL Still Matters | Alina Zmazhenko | [Read More](https://medium.com/p/d8e7e123c3a9) |
+| Wed, 16 Jul 2025 13:08:06 GMT | Behind Enemy Code: How Chinese-Backed Malware Infiltrated Pentagon Ecosystems | Pentestjunkie07 | [Read More](https://medium.com/p/07b3a6edfdce) |
+| Wed, 16 Jul 2025 13:05:34 GMT | Safeguarding Your Network with Powerful Security Guardians | Ed-it Editions | [Read More](https://medium.com/p/e6656cbcc1f7) |
+| Wed, 16 Jul 2025 13:04:28 GMT | Cybersecurity Essentials for Startups and SMEs: A Guide to Stronger Defenses | Rootsnsquares | [Read More](https://medium.com/p/f7d020ec93c0) |
+| Wed, 16 Jul 2025 13:01:50 GMT | Why Cybersecurity in the Global South Can No Longer Be Ignored | Peris.ai Cybersecurity | [Read More](https://medium.com/p/2795200fa4ca) |
+| Wed, 16 Jul 2025 13:01:47 GMT | What Are Cookies Used For? Understanding Website Cookies in Simple Terms | Timonéofearth | [Read More](https://medium.com/p/c0b32c26baaa) |
+| Wed, 16 Jul 2025 13:01:44 GMT | How Machine Learning is Revolutionizing Fraud Detection Across Digital Industries | Mohsin Ansari | [Read More](https://medium.com/p/251af78865ec) |
+| Wed, 16 Jul 2025 12:49:24 GMT | Community As The Single Mother’s Superpower | amaraya | [Read More](https://medium.com/p/ec732d9dc734) |
 | Wed, 16 Jul 2025 12:42:57 GMT | Why That ‘Nerd Mistake’ With the AI Key Actually Matters | Donalda | [Read More](https://medium.com/p/3995b93d6732) |
 | Wed, 16 Jul 2025 12:39:10 GMT | Nuclei template for cyber physical system and honeypot detections. | biero llagas | [Read More](https://medium.com/p/6cab308f2438) |
 | Wed, 16 Jul 2025 12:38:26 GMT | Flash USDT Explained – For Educational Purposes Only | Vaka | [Read More](https://medium.com/p/3faf153f35f1) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 09:23:59 GMT | What is URL Blacklisting? | Bhuvana Medicherla | [Read More](https://medium.com/p/d4727df5c8d3) |
 | Wed, 16 Jul 2025 09:22:34 GMT | Why Flash USDT Shouldn’t Be Ignored | Peg | [Read More](https://medium.com/p/e6dad64dc22c) |
 | Wed, 16 Jul 2025 09:09:24 GMT | 5 Reasons Why Companies Use Signal Detectors | Laura Turcu | [Read More](https://medium.com/p/e3349921d066) |
-| Wed, 16 Jul 2025 09:08:37 GMT | Bridging the Gap: How API Stubbing Services Revolutionize Integration Testing | AT | [Read More](https://medium.com/p/6704866169bc) |
-| Wed, 16 Jul 2025 09:03:02 GMT | Understanding Simulated Wallet Reflections | Peg | [Read More](https://medium.com/p/2df7e57ec5b5) |
-| Wed, 16 Jul 2025 09:02:57 GMT | The Ultimate Blue Team Roadmap | Barukh Aswad | [Read More](https://medium.com/p/a194e0e54c75) |
-| Wed, 16 Jul 2025 09:01:47 GMT | In-Depth Guide to Shellcode Analysis and Anti-Debugging Techniques | Esra Kayhan | [Read More](https://medium.com/p/6355bc611e73) |
-| Wed, 16 Jul 2025 08:59:54 GMT | Cyber Security Training Ireland - MotivaLogic Academy | MotivaLogic Academy | [Read More](https://medium.com/p/156671c470c4) |
-| Wed, 16 Jul 2025 08:58:48 GMT | Bastille Day 2025 — Macron Calls to Arms | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/c9ebb5956fa8) |
-| Wed, 16 Jul 2025 08:57:47 GMT | Maximize Your Bounty (BNTY) Token Claiming | Bounty | [Read More](https://medium.com/p/eb0e7f727b85) |
-| Wed, 16 Jul 2025 08:55:52 GMT | What Is Flash USDT? | Peg | [Read More](https://medium.com/p/91faeba381d5) |
-| Wed, 16 Jul 2025 08:50:00 GMT | 7 Key Benefits of Construction Video Surveillance on U.S. Job Sites | Ivis Constructionsurveillance | [Read More](https://medium.com/p/87cde016e0ee) |
-| Wed, 16 Jul 2025 08:49:31 GMT | Introduction to the types of abnormalities in URLs | Bhuvana Medicherla | [Read More](https://medium.com/p/e48026998a73) |
-| Wed, 16 Jul 2025 08:48:11 GMT | SVG Image to Stored XSS | Raccoon | [Read More](https://medium.com/p/ce9a4d7839ce) |
-| Wed, 16 Jul 2025 08:47:33 GMT | Top 7 Highest Paying Jobs in Cyber Security | Edept | [Read More](https://medium.com/p/8f46c60add74) |
-| Wed, 16 Jul 2025 08:45:05 GMT | How to Secure Your Wi-Fi Network at Home or Office | Brian Gikandi | [Read More](https://medium.com/p/4a8c735c6186) |
-| Wed, 16 Jul 2025 08:44:59 GMT | The Role of SOC in Achieving PCI-DSS and ISO 27001 Compliance | Microscan Communications | [Read More](https://medium.com/p/ac77184eab9a) |
