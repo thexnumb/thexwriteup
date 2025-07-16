@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 06:30:17 GMT | Outthink the Adversary: Why Mental Models Matter More Than Tools in Cybersecurity | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/8b94a2d0c1da) |
+| Wed, 16 Jul 2025 06:29:51 GMT | Boosting Data Center Security in Sultanate of Oman: Implementing Robust Access Control Systems | Tekhabeeb | [Read More](https://medium.com/p/9a9b2e348865) |
+| Wed, 16 Jul 2025 06:27:38 GMT | Ensuring Safety in a Rapidly Changing World: A Deep Dive into Security Services in India and Mumbai | Ciss India | [Read More](https://medium.com/p/f89ba4907b8f) |
+| Wed, 16 Jul 2025 06:26:04 GMT | Cloud Infrastructure Security in 2025: Trends, Tools, and Threats | Serishahid | [Read More](https://medium.com/p/4ff74ad3ca12) |
+| Wed, 16 Jul 2025 06:25:27 GMT | Shuberg Philis — are you sure you’re capable of securing mission-critical operations? | 0trust0day | [Read More](https://medium.com/p/e2c2409d0058) |
+| Wed, 16 Jul 2025 06:24:02 GMT | Start Earning $LFI LunaFi Today and Explore New Crypto Opportunities | LunaFi | [Read More](https://medium.com/p/73f743472422) |
+| Wed, 16 Jul 2025 06:22:22 GMT | Mastering Docker Volumes: A Complete Guide to Persistent Data in Containers | Harleen kaur | [Read More](https://medium.com/p/ef6a7ce11a8a) |
+| Wed, 16 Jul 2025 06:14:08 GMT | My First Bug: The OTP Bypass That Made Me Feel Like a Superhacker ️‍♂️ | Aryamevada | [Read More](https://medium.com/p/bc0c78d43697) |
+| Wed, 16 Jul 2025 06:13:52 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/27e45d73cd83) |
+| Wed, 16 Jul 2025 06:12:56 GMT | The #1 Threat to AI Is Not What You Think | Nicholas Borg | [Read More](https://medium.com/p/ceab6231231e) |
+| Wed, 16 Jul 2025 06:12:19 GMT | AI Penetration Testing: From Simulation to Smart Red Teams | PenligentAI | [Read More](https://medium.com/p/31d59b1d98a9) |
+| Wed, 16 Jul 2025 06:03:00 GMT | For many, retirement is meant to be a time of peace and financial security — a reward for years of… | James Hudson | [Read More](https://medium.com/p/659a0c9fb5b7) |
+| Wed, 16 Jul 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Jul 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9754ff53c0aa) |
+| Wed, 16 Jul 2025 06:00:28 GMT | Python Meets the Firewall: Automating Basic Threat Detection at Home 
+By Cyberscope- July 16, 2025 | Cyberscope | [Read More](https://medium.com/p/7add3bfc5de2) |
+| Wed, 16 Jul 2025 05:58:40 GMT | Vrinda AI: India’s Indigenous Multimodal AI Assistant | CSI | [Read More](https://medium.com/p/73e0a53b95b9) |
+| Wed, 16 Jul 2025 05:56:06 GMT | How I Brute-Forced 400 Internal Accounts Without Logging In-P3- | hacker_space11 | [Read More](https://medium.com/p/5d90aa7a703c) |
+| Wed, 16 Jul 2025 05:54:35 GMT | Implementing Zero Trust with Entra ID Conditional Access in M365 | Ashe Herrick | [Read More](https://medium.com/p/4b4c77c5d2e3) |
+| Wed, 16 Jul 2025 05:53:27 GMT | AI-Powered Bug Detection in Android Apps: Write Smarter Code, Faster | Bunty Beladiya | [Read More](https://medium.com/p/031451a1203d) |
+| Wed, 16 Jul 2025 05:52:51 GMT | Android Pentesting 101: What It Is, Why It Matters & How to Start Thinking Like a Hacker | Mohammed Anshed kp | [Read More](https://medium.com/p/4da991752bd8) |
+| Wed, 16 Jul 2025 05:51:36 GMT | Web Security Best Practices: Safeguarding Your Digital Presence | Vansh Khandelwal | [Read More](https://medium.com/p/4b7522a5d229) |
 | Wed, 16 Jul 2025 05:40:57 GMT | Why Cybersecurity Should Matter to You (Yes, You) | Lakshita | [Read More](https://medium.com/p/7ebf73e96f3b) |
 | Wed, 16 Jul 2025 05:40:32 GMT | 2D vs. 3D Secure Payments: Which One Actually Keeps Your Card Safe from Hackers and Online Theft? | Sajjad Hussain | [Read More](https://medium.com/p/6a05741f3881) |
 | Wed, 16 Jul 2025 05:33:33 GMT | More Than a Screen Your Home’s First Line of Defense | Brisbane Security Screens | [Read More](https://medium.com/p/a1cf67cbd892) |
@@ -92,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 22:12:14 GMT | Exploiting Misconfigurations in Active Directory | Mike Anthony | [Read More](https://medium.com/p/4273149e0c4c) |
 | Tue, 15 Jul 2025 22:11:41 GMT | Dog — Hackthebox Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/076562be58c4) |
 | Tue, 15 Jul 2025 22:11:19 GMT | PortSwigger Lab: Username Enumeration via Different Responses | 0xM4ZiX | [Read More](https://medium.com/p/3720eaf61e82) |
-| Tue, 15 Jul 2025 22:01:23 GMT | Need Expert Help with Meta Ads, Google Ads, or WordPress? | Arshad Husssain | [Read More](https://medium.com/p/ad883a94e977) |
-| Tue, 15 Jul 2025 22:00:51 GMT | Threat Intelligence — Step by Step Guide | Riad Moudjahed | [Read More](https://medium.com/p/a5bbc2e79f29) |
-| Tue, 15 Jul 2025 21:45:43 GMT | CERT @ VDE Is Now a Root in the CVE Program | CVE Program Blog | [Read More](https://medium.com/p/6c04ab78ad8d) |
-| Tue, 15 Jul 2025 21:34:48 GMT | Dog  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/8a49879c2d5c) |
-| Tue, 15 Jul 2025 21:29:41 GMT | Offensive Security & Defensive Security? | MD. RAKIBUL ISLAM - RAJ | [Read More](https://medium.com/p/b1ecc7ca8baf) |
-| Tue, 15 Jul 2025 21:23:47 GMT | Building Stronger Passwords & Stronger Communities | Gitika Babbar | [Read More](https://medium.com/p/d82ec55dc4f8) |
-| Tue, 15 Jul 2025 21:20:02 GMT | Unmasking the Evolving Threat: A Deep Dive into the Lumma Stealer MSIL Variant | Pratik Gurav | [Read More](https://medium.com/p/95a374cf3b8c) |
-| Tue, 15 Jul 2025 21:12:29 GMT | Vulnerable & Outdated Components in Salesforce — That One Line of Code Can Haunt You | Musa Ndlala | [Read More](https://medium.com/p/250ae1218849) |
-| Tue, 15 Jul 2025 21:02:59 GMT | When the Code Goes Dark: The Secret War for Algorithmic Sovereignty | James Kuhman | [Read More](https://medium.com/p/f30c096cbf47) |
-| Tue, 15 Jul 2025 21:01:18 GMT | Complete Guide to Rooting Google Pixel 3 and Other Devices Using Magisk | Mirza Sanaullah | [Read More](https://medium.com/p/9d212eac4272) |
-| Tue, 15 Jul 2025 20:56:17 GMT | Building a Home SOC Lab with Splunk on TryHackMe | Kelechi Onwuka | [Read More](https://medium.com/p/986fd0b5a626) |
-| Tue, 15 Jul 2025 20:49:43 GMT | Security Misconfiguration in Salesforce — When “Default” Becomes Dangerous | Musa Ndlala | [Read More](https://medium.com/p/d055cdac3213) |
-| Tue, 15 Jul 2025 20:42:00 GMT | Malware Traffic Analysis | whoami | [Read More](https://medium.com/p/b20a2b10c7ec) |
-| Tue, 15 Jul 2025 20:35:13 GMT | Security: Certificate and Truststore | oliviaaa | [Read More](https://medium.com/p/525503220275) |
-| Tue, 15 Jul 2025 20:31:45 GMT | Leadership Accountability Under NIS2: Who’s Ultimately Responsible? | J Bodys | [Read More](https://medium.com/p/6575ae5cc99a) |
-| Tue, 15 Jul 2025 20:17:36 GMT | Why We Replaced Microsoft’s Email Security (But Kept GCC High) | Steven McDaniel | [Read More](https://medium.com/p/3125755afde9) |
-| Tue, 15 Jul 2025 20:10:21 GMT | Microsoft Azure for Startups: Features, Benefits, and Growth Potential | Techridge Solutions | [Read More](https://medium.com/p/f5fcdc873e49) |
-| Tue, 15 Jul 2025 20:05:43 GMT | TryHackMe Harder — Walkthrough | mauzware | [Read More](https://medium.com/p/3af806f354a6) |
-| Tue, 15 Jul 2025 20:05:19 GMT | Headi — Best Open Source HTTP Header Injection Testing Tool for Ethical Hackers | hacker_might | [Read More](https://medium.com/p/8336ab857d39) |
-| Tue, 15 Jul 2025 20:00:35 GMT | How I Got ISO/IEC 27001 Lead Auditor Certified — And What I Learned | Susmitha Rajendran | [Read More](https://medium.com/p/f3c18ac13fbb) |
