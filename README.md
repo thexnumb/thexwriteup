@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 14:20:22 GMT | SOCFortres5: Google Chrome 0-day Vulnerability Actively Exploited in the Wild | Darshan | [Read More](https://medium.com/p/b5d9a9671b29) |
+| Wed, 16 Jul 2025 14:17:49 GMT | SOCFortres5: Google AI “Big Sleep” Thwarts Exploitation of Critical SQLite Vulnerability Before… | Darshan | [Read More](https://medium.com/p/231464c5db44) |
+| Wed, 16 Jul 2025 14:10:36 GMT | Zero Trust Model Explained: Why Trust is No Longer the Default in Cybersecurity | NineTales | [Read More](https://medium.com/p/cbdc04420e56) |
+| Wed, 16 Jul 2025 14:02:25 GMT | Cyber Briefing: 2025.07.16 | CyberMaterial | [Read More](https://medium.com/p/75d8238afcf7) |
+| Wed, 16 Jul 2025 14:02:07 GMT | Building a Basic Home SOC Lab for Threat Detection and Analysis | Levent Karaagac | [Read More](https://medium.com/p/c6b553365722) |
+| Wed, 16 Jul 2025 14:01:26 GMT | Cloud vs. In-House Servers for the Public Sector: Evaluating Security, Cost, and Scalability | PCnet | [Read More](https://medium.com/p/0fcfdd4db201) |
+| Wed, 16 Jul 2025 13:59:49 GMT | AWS Client VPN with Mutual Authentication (Certificate-Based Login) | Carlos Biagolini-Jr. | [Read More](https://medium.com/p/c7f3f1e8ff29) |
+| Wed, 16 Jul 2025 13:59:40 GMT | YOUR PASSWORD WON’T SAVE YOU: | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/cce98a036dec) |
+| Wed, 16 Jul 2025 13:54:17 GMT | A Threat of Email Spoofing to Business Owners & How to Protect Yourself | Usama Sarwar | [Read More](https://medium.com/p/26819ec1bd0d) |
+| Wed, 16 Jul 2025 13:51:07 GMT | Chapter 1 — The Birth of AI: From Myth to Machine | Yash Nandvana | [Read More](https://medium.com/p/35c7bb7cadf5) |
+| Wed, 16 Jul 2025 13:50:36 GMT | Bug Bounties, Broken Promises | Andrei Ivan | [Read More](https://medium.com/p/a19557db0aaa) |
+| Wed, 16 Jul 2025 13:39:51 GMT | 5 Best API Security Testing Tools for Developers | Sam Bishop | [Read More](https://medium.com/p/7df3c8833b25) |
+| Wed, 16 Jul 2025 13:38:44 GMT | Strategic Security: Top 5 Anti‑Phishing Solutions for Business Leaders in 2025. | Ranjan Yadav | [Read More](https://medium.com/p/0b1476149d73) |
 | Wed, 16 Jul 2025 13:32:24 GMT | Cybersecurity Basics You Can’t Skip: Authentication, Authorization & More… | NineTales | [Read More](https://medium.com/p/4c8cad749677) |
 | Wed, 16 Jul 2025 13:24:05 GMT | Cyber kill chain | ayub_91 | [Read More](https://medium.com/p/34ee5eca5090) |
 | Wed, 16 Jul 2025 13:18:25 GMT | The Art Of Falling | ✨ | [Read More](https://medium.com/p/56921ac126ac) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 10:18:44 GMT | The Ultimate Red Team Roadmap: From Novice to Network Phantom | Barukh Aswad | [Read More](https://medium.com/p/bcbe4abd3af4) |
 | Wed, 16 Jul 2025 10:16:49 GMT | 10 Critical Technical Points for Designing a Scalable SOC Architecture | Yuksel | [Read More](https://medium.com/p/76ce0aa94f63) |
 | Wed, 16 Jul 2025 10:12:27 GMT | Using NAT and Bridged Network Adapters in Penetration Testing: A Practical Guide for Ethical… | YoungerSibling | [Read More](https://medium.com/p/53ebfd3d8c9e) |
-| Wed, 16 Jul 2025 10:06:37 GMT | Why is Microsoft Entra Important for Cybersecurity? | IPSpecialist | [Read More](https://medium.com/p/709d8a356bba) |
-| Wed, 16 Jul 2025 10:05:53 GMT | Modern IAM Strategies That Fortify Enterprise Security in 2025 | actsupport | [Read More](https://medium.com/p/8b31b777fc05) |
-| Wed, 16 Jul 2025 10:02:16 GMT | Why am I here … ? | Zoe Bloues | [Read More](https://medium.com/p/eebbaee27b7a) |
-| Wed, 16 Jul 2025 09:58:07 GMT | Day 6 of MCP Security: Inside the MCP Policy Engine | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/1223f02b6c1c) |
-| Wed, 16 Jul 2025 09:57:32 GMT | How to Build a Resumable File Uploader in React with Node.js and resumable.js | Aamir Saleem Lone | [Read More](https://medium.com/p/a5a67a7f3871) |
-| Wed, 16 Jul 2025 09:49:28 GMT | The Ultimate Guide to 2025 Compliance Reporting: Tools & Best Practices | SecureSlate | [Read More](https://medium.com/p/7ecc7d758ee0) |
-| Wed, 16 Jul 2025 09:47:02 GMT | The Real Cost of a Cyber Attack — and How a Cybersecurity Expert Helps You Avoid It | SmartCLOUD Australia | [Read More](https://medium.com/p/ca1896d04e1c) |
-| Wed, 16 Jul 2025 09:37:11 GMT | I Patched a Binary Until It Thanked Me: Reverse Engineering “Remove the Nag” by The Dutch Cracker | Hail Hydra | [Read More](https://medium.com/p/0eacc749b9b3) |
-| Wed, 16 Jul 2025 09:35:16 GMT | Understanding Key Terms in Network Security | Cyber Timi | [Read More](https://medium.com/p/926dbf00ceb1) |
-| Wed, 16 Jul 2025 09:25:37 GMT | How Hackers Find Sensitive Data in Android Apps -And How You Can Too - Android Pentesting 101 | Blue_eye | [Read More](https://medium.com/p/f3fadecf9136) |
-| Wed, 16 Jul 2025 09:23:59 GMT | What is URL Blacklisting? | Bhuvana Medicherla | [Read More](https://medium.com/p/d4727df5c8d3) |
-| Wed, 16 Jul 2025 09:22:34 GMT | Why Flash USDT Shouldn’t Be Ignored | Peg | [Read More](https://medium.com/p/e6dad64dc22c) |
-| Wed, 16 Jul 2025 09:09:24 GMT | 5 Reasons Why Companies Use Signal Detectors | Laura Turcu | [Read More](https://medium.com/p/e3349921d066) |
