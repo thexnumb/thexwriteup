@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 08:20:26 GMT | Nmap & Chill: How One Open Port on a Test Env Led Me to Prod Admin Access | Iski | [Read More](https://medium.com/p/da40c863161b) |
+| Wed, 16 Jul 2025 08:19:03 GMT | I accidentally hunted a bug in my first 24 hours of my bug bounty journey | Mina Marcos | [Read More](https://medium.com/p/a190f45780f7) |
+| Wed, 16 Jul 2025 08:19:03 GMT | The Role of Information for Technology in Business Strategy | Business Pro Tech | [Read More](https://medium.com/p/899f0f77c484) |
+| Wed, 16 Jul 2025 08:07:14 GMT | The Battle Against Misinformation: How Developers and Creators Can Build Tools That Protect the… | Amaka okoye | [Read More](https://medium.com/p/b44a8d956b4d) |
+| Wed, 16 Jul 2025 08:03:31 GMT | Hackers for Hire? How Anyone Can Launch a Cyberattack Today | Intermax Pty Ltd | [Read More](https://medium.com/p/f6b378d136c1) |
+| Wed, 16 Jul 2025 08:01:20 GMT | Chapter 1: Understanding Network Models | Thexnumb | [Read More](https://medium.com/p/d3e3fee63038) |
+| Wed, 16 Jul 2025 07:57:54 GMT | How I Built a Burp Suite Extension to Manage Time-Sensitive API Challenges | Wasfy Elbaz | [Read More](https://medium.com/p/46b8dd92cbea) |
+| Wed, 16 Jul 2025 07:56:12 GMT | Cybersecurity Tips for Modern Web & App Platforms | Jenny smith | [Read More](https://medium.com/p/9eb0a6aa637b) |
+| Wed, 16 Jul 2025 07:52:59 GMT | Corporate Boondoggle: Triumph Over a Tightly Coupled Tragedy in Parcel Shipping | Namir Sagheenanajar | [Read More](https://medium.com/p/45795ac13851) |
+| Wed, 16 Jul 2025 07:47:21 GMT | ‍ Life of a Developer: Between Bugs, Breakthroughs & Burnout ☕ | Ena Modern Coder | [Read More](https://medium.com/p/2dac0f1098cf) |
+| Wed, 16 Jul 2025 07:41:50 GMT | Best SailPoint Training & Courses in Hyderabad for 2025 | Pravin Choudhary | [Read More](https://medium.com/p/c941f3e308e5) |
+| Wed, 16 Jul 2025 07:37:23 GMT | L3akCTF 2025 Writeup — Braincalc/mobile | Kyoungmin Roh | [Read More](https://medium.com/p/22ef696c05b8) |
 | Wed, 16 Jul 2025 07:33:49 GMT | Understanding Hackers and Ethical Hacking | Amogha KS | [Read More](https://medium.com/p/98e2571b1123) |
+| Wed, 16 Jul 2025 07:33:23 GMT | AI Innovations in Cybersecurity for Insurance: Threat Detection and Fraud Prevention | Bahram Ghorbani | [Read More](https://medium.com/p/77933c57c40d) |
+| Wed, 16 Jul 2025 07:32:57 GMT | How I Built a Role-Based Access Control System with FastAPI and Pydantic | Bhagya Rana | [Read More](https://medium.com/p/2c49e967efb0) |
 | Wed, 16 Jul 2025 07:31:00 GMT | Phishing Awareness & Prevention: A Critical Guide to Protecting Yourself and Your Company | Mahad Aqeel | [Read More](https://medium.com/p/0dfce9c32375) |
 | Wed, 16 Jul 2025 07:30:20 GMT | Troubleshooting SafeLine Login & Site Access Issues | Quella | [Read More](https://medium.com/p/830b40c56a68) |
 | Wed, 16 Jul 2025 07:29:55 GMT | How I Found an IDOR and Got Paid | Ousski | [Read More](https://medium.com/p/36a28d2ccdba) |
@@ -99,17 +113,3 @@ By Cyberscope- July 16, 2025 | Cyberscope | [Read More](https://medium.com/p/7ad
 | Wed, 16 Jul 2025 02:59:43 GMT | SQL Injection to RCE in CMSV6 Fleet Platform — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/107194bd896a) |
 | Wed, 16 Jul 2025 02:57:12 GMT | Internship as Penetration Tester at PT FPT Metrodata Indonesia (FMI) | Bryan RB | [Read More](https://medium.com/p/03daf9b4869b) |
 | Wed, 16 Jul 2025 02:56:35 GMT | XSS via Google Maps | Akbar Kustirama | [Read More](https://medium.com/p/98a867479315) |
-| Wed, 16 Jul 2025 02:49:25 GMT | Why AI’s Brightest Innovation Might Be a Security Time Bomb | Cyber-AppSec | [Read More](https://medium.com/p/be8b8316fcbb) |
-| Wed, 16 Jul 2025 02:45:42 GMT | How I hacked my school’s website | Faav | [Read More](https://medium.com/p/79d3a7444714) |
-| Wed, 16 Jul 2025 02:41:40 GMT | Where Do I Even Start with Bug Bounties? Let’s Learn One Thing Today. | Alex Joyel Raj | [Read More](https://medium.com/p/3633ae407ce9) |
-| Wed, 16 Jul 2025 02:41:23 GMT | Brainpan 1 writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/7a72f4847e4b) |
-| Wed, 16 Jul 2025 02:35:57 GMT | Why I Stopped Hardcoding and Started Thinking Like a Cloud Engineer | Joseph Schambach | [Read More](https://medium.com/p/d6c90166690a) |
-| Wed, 16 Jul 2025 02:31:45 GMT | AI Detectives: Solving Cold Cases with Machine Learning | Matthew Jack | [Read More](https://medium.com/p/3d5b1d2fd776) |
-| Wed, 16 Jul 2025 02:28:00 GMT | Incognito Mode Isn’t What You Think | Rahul Mishra | [Read More](https://medium.com/p/9b7985c38868) |
-| Wed, 16 Jul 2025 02:14:22 GMT | Arm Memory Tagging Extension (MTE) on Android | Dhyan Sagar | [Read More](https://medium.com/p/ff45a161f014) |
-| Wed, 16 Jul 2025 02:14:21 GMT | Three Breaches In Three Weeks: A Wake Up Call For Enterprise Security | Nauman khan | [Read More](https://medium.com/p/c32a48ba1f3f) |
-| Wed, 16 Jul 2025 02:12:28 GMT | FFUF | Praharsha Kumar | [Read More](https://medium.com/p/b87ec438f99d) |
-| Wed, 16 Jul 2025 01:36:25 GMT | Building the Future of Developer Security: My Journey with Model Context Protocol (MCP) | Tanmay Bhattacharjee | [Read More](https://medium.com/p/65fb24ee64ff) |
-| Wed, 16 Jul 2025 01:35:17 GMT | How To Claim $BUG  Today | Bug | [Read More](https://medium.com/p/f461b8fa0803) |
-| Wed, 16 Jul 2025 01:29:56 GMT | DORK Announces Distribution Wave: Unlock DORK Today | DORK | [Read More](https://medium.com/p/aba8cedf9526) |
-| Wed, 16 Jul 2025 01:15:29 GMT | From Freeform to Fort Knox: Locking Down Our GraphQL API Without Anyone Noticing | Lucas Parry | [Read More](https://medium.com/p/d0ef9804909d) |
