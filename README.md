@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 11:38:06 GMT | What is Penetration Testing? And Why You Shouldn’t Ignore It in 2025 | Cybersecurity Umbrella | [Read More](https://medium.com/p/ada8c26d7186) |
+| Wed, 16 Jul 2025 11:37:48 GMT | Installing Pfsense Firewall on VirtualBox | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/56f79d7b9bbd) |
+| Wed, 16 Jul 2025 11:36:41 GMT | Everything You Need to Know About Cybersecurity Technical Writers | Essential Data Corporations | [Read More](https://medium.com/p/e535267ef006) |
+| Wed, 16 Jul 2025 11:32:56 GMT | Email Security Pt 3/3: What is DMARC? | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/da27ce4f2fa3) |
+| Wed, 16 Jul 2025 11:30:47 GMT | When Amplification Becomes Sabotage | Gabriele Geza Gobbo | [Read More](https://medium.com/p/d01787898147) |
+| Wed, 16 Jul 2025 11:26:58 GMT | The Call Is Coming From Inside the House: A Beginner’s Guide to Spotting Insider Threats | eRRoR | [Read More](https://medium.com/p/9b31f5c15cc5) |
+| Wed, 16 Jul 2025 11:25:41 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/15f195583357) |
+| Wed, 16 Jul 2025 11:22:03 GMT | How India’s AI Mission IT Infrastructure Fuels Global AI Ambitions | Nishaverma | [Read More](https://medium.com/p/60f4630eb5e4) |
+| Wed, 16 Jul 2025 11:20:29 GMT | What are hybrid SOC services exactly? | Ziya Zoe | [Read More](https://medium.com/p/2b0fe856bf56) |
+| Wed, 16 Jul 2025 11:18:56 GMT | From PSD to SPA: Simplifying Modern Web Conversions | Ketan Patel | [Read More](https://medium.com/p/429797e12618) |
+| Wed, 16 Jul 2025 11:17:54 GMT | What Is Penetration Testing and Why Your Business Needs It | Sofia Murphy | [Read More](https://medium.com/p/2e8912d236a8) |
+| Wed, 16 Jul 2025 11:16:56 GMT | CyberX Redefines IT in UAE | Tekhabeeb | [Read More](https://medium.com/p/985264f545f3) |
+| Wed, 16 Jul 2025 11:13:48 GMT | TryHackMe AI/ML Security Threats Walkthrough WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/04abd3f717ca) |
+| Wed, 16 Jul 2025 11:10:16 GMT | HackTheBox Dog Writeup - OSCP/CPTS Prep | Motasem Hamdan | [Read More](https://medium.com/p/09c9a6db48ff) |
 | Wed, 16 Jul 2025 11:09:57 GMT | $1,180 in One Week from Bug Bounties: My Step-by-Step Breakdown (As a beginner) | Rashadul Islam | [Read More](https://medium.com/p/f4175a50dcfe) |
+| Wed, 16 Jul 2025 11:09:07 GMT | ️ How I Secured My Personal Website from Bots, Spam & Scraping (Without Breaking the Bank) | Aayush Patel | [Read More](https://medium.com/p/d5a5ba6f00bd) |
 | Wed, 16 Jul 2025 11:07:48 GMT | Anomalous DLL Call Stack Sequence Detection: A Threat Hunter’s Guide to Process Injection | Siddhant Mishra | [Read More](https://medium.com/p/5c869c877069) |
 | Wed, 16 Jul 2025 11:05:15 GMT | Sequel | snir mamo | [Read More](https://medium.com/p/cd22e7bc76e9) |
 | Wed, 16 Jul 2025 11:05:11 GMT | Memory Forensics with Volatility: Detecting Fileless Malware and Living off the Land Attacks | Sandeep Saxena | [Read More](https://medium.com/p/b8c6022c0ff0) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 07:37:23 GMT | L3akCTF 2025 Writeup — Braincalc/mobile | Kyoungmin Roh | [Read More](https://medium.com/p/22ef696c05b8) |
 | Wed, 16 Jul 2025 07:33:49 GMT | Understanding Hackers and Ethical Hacking | Amogha KS | [Read More](https://medium.com/p/98e2571b1123) |
 | Wed, 16 Jul 2025 07:33:23 GMT | AI Innovations in Cybersecurity for Insurance: Threat Detection and Fraud Prevention | Bahram Ghorbani | [Read More](https://medium.com/p/77933c57c40d) |
-| Wed, 16 Jul 2025 07:32:57 GMT | How I Built a Role-Based Access Control System with FastAPI and Pydantic | Bhagya Rana | [Read More](https://medium.com/p/2c49e967efb0) |
-| Wed, 16 Jul 2025 07:31:00 GMT | Phishing Awareness & Prevention: A Critical Guide to Protecting Yourself and Your Company | Mahad Aqeel | [Read More](https://medium.com/p/0dfce9c32375) |
-| Wed, 16 Jul 2025 07:30:20 GMT | Troubleshooting SafeLine Login & Site Access Issues | Quella | [Read More](https://medium.com/p/830b40c56a68) |
-| Wed, 16 Jul 2025 07:29:55 GMT | How I Found an IDOR and Got Paid | Ousski | [Read More](https://medium.com/p/36a28d2ccdba) |
-| Wed, 16 Jul 2025 07:28:55 GMT | Linux Permissions-”chmod” | Amogha KS | [Read More](https://medium.com/p/31b7a769779c) |
-| Wed, 16 Jul 2025 07:23:20 GMT | When Your Hobby Involves Breaking Things (Legally) | mUsHaRaF | [Read More](https://medium.com/p/b8f9d66fefb0) |
-| Wed, 16 Jul 2025 07:23:03 GMT | [API Pentest] —  Track 03: Security Misconfiguration — Misconfigured APIs Invite Hackers | AjiPangesstu | [Read More](https://medium.com/p/b92ad8d39b36) |
-| Wed, 16 Jul 2025 07:21:59 GMT | Is your website running on an outdated WordPress version? | Vjay P | [Read More](https://medium.com/p/51b348f9bb30) |
-| Wed, 16 Jul 2025 07:21:57 GMT | Genomics and Information Technology: Decoding the Future of Healthcare | Poddar Group of Institutions | [Read More](https://medium.com/p/ae6a3f466d1a) |
-| Wed, 16 Jul 2025 07:20:29 GMT | When Your Hobby Involves Breaking Things (Legally)When Your Hobby Involves Breaking Things… | mUsHaRaF | [Read More](https://medium.com/p/c7bbd233d50d) |
-| Wed, 16 Jul 2025 07:19:26 GMT | Footprinting and Reconnaissance | Amogha KS | [Read More](https://medium.com/p/d51c09d06eaa) |
-| Wed, 16 Jul 2025 07:17:30 GMT | Optimize App Testing and Automation with a Phone Farm Box | Cxt Factory | [Read More](https://medium.com/p/9601b832ab55) |
-| Wed, 16 Jul 2025 07:16:30 GMT | DAY 6: Rocket Fuel | Akshatdwivedi | [Read More](https://medium.com/p/1420dd84cb0f) |
-| Wed, 16 Jul 2025 07:13:34 GMT | What is malware? | Kavithayeravothula | [Read More](https://medium.com/p/d0791d62fdab) |
-| Wed, 16 Jul 2025 07:10:58 GMT | Red Team vs. Blue Team: Beda Skill dan Tugasnya! | SUHU Professional Training and Consulting | [Read More](https://medium.com/p/7c074cb2a389) |
