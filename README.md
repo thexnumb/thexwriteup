@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 07:33:49 GMT | Understanding Hackers and Ethical Hacking | Amogha KS | [Read More](https://medium.com/p/98e2571b1123) |
+| Wed, 16 Jul 2025 07:31:00 GMT | Phishing Awareness & Prevention: A Critical Guide to Protecting Yourself and Your Company | Mahad Aqeel | [Read More](https://medium.com/p/0dfce9c32375) |
+| Wed, 16 Jul 2025 07:30:20 GMT | Troubleshooting SafeLine Login & Site Access Issues | Quella | [Read More](https://medium.com/p/830b40c56a68) |
+| Wed, 16 Jul 2025 07:29:55 GMT | How I Found an IDOR and Got Paid | Ousski | [Read More](https://medium.com/p/36a28d2ccdba) |
+| Wed, 16 Jul 2025 07:28:55 GMT | Linux Permissions-”chmod” | Amogha KS | [Read More](https://medium.com/p/31b7a769779c) |
+| Wed, 16 Jul 2025 07:23:20 GMT | When Your Hobby Involves Breaking Things (Legally) | mUsHaRaF | [Read More](https://medium.com/p/b8f9d66fefb0) |
+| Wed, 16 Jul 2025 07:23:03 GMT | [API Pentest] —  Track 03: Security Misconfiguration — Misconfigured APIs Invite Hackers | AjiPangesstu | [Read More](https://medium.com/p/b92ad8d39b36) |
+| Wed, 16 Jul 2025 07:21:59 GMT | Is your website running on an outdated WordPress version? | Vjay P | [Read More](https://medium.com/p/51b348f9bb30) |
 | Wed, 16 Jul 2025 07:21:57 GMT | Genomics and Information Technology: Decoding the Future of Healthcare | Poddar Group of Institutions | [Read More](https://medium.com/p/ae6a3f466d1a) |
 | Wed, 16 Jul 2025 07:20:29 GMT | When Your Hobby Involves Breaking Things (Legally)When Your Hobby Involves Breaking Things… | mUsHaRaF | [Read More](https://medium.com/p/c7bbd233d50d) |
 | Wed, 16 Jul 2025 07:19:26 GMT | Footprinting and Reconnaissance | Amogha KS | [Read More](https://medium.com/p/d51c09d06eaa) |
@@ -105,11 +113,3 @@ By Cyberscope- July 16, 2025 | Cyberscope | [Read More](https://medium.com/p/7ad
 | Wed, 16 Jul 2025 01:35:17 GMT | How To Claim $BUG  Today | Bug | [Read More](https://medium.com/p/f461b8fa0803) |
 | Wed, 16 Jul 2025 01:29:56 GMT | DORK Announces Distribution Wave: Unlock DORK Today | DORK | [Read More](https://medium.com/p/aba8cedf9526) |
 | Wed, 16 Jul 2025 01:15:29 GMT | From Freeform to Fort Knox: Locking Down Our GraphQL API Without Anyone Noticing | Lucas Parry | [Read More](https://medium.com/p/d0ef9804909d) |
-| Wed, 16 Jul 2025 00:52:18 GMT | IOT Connect — Android Broadcast Receiver Challenge Walkthrough | Abdelrahman Ahmed | [Read More](https://medium.com/p/70febeb04d1d) |
-| Wed, 16 Jul 2025 00:48:05 GMT | Cryptographic Sovereignty: The Next Frontier in National and Enterprise Security | ExeQuantum | [Read More](https://medium.com/p/3ccfa5761738) |
-| Wed, 16 Jul 2025 00:46:11 GMT | Drosera Network: The Watchdog Protocol Revolutionizing DeFi Security | Ante Mfon David | [Read More](https://medium.com/p/08569806bdda) |
-| Wed, 16 Jul 2025 00:46:03 GMT | Life in the SOC: Beyond the Alerts | Hemchudaesh | [Read More](https://medium.com/p/0c15349d7c9c) |
-| Wed, 16 Jul 2025 00:31:45 GMT | AWS Confession Booth: How to Download Every CloudTrail Event | Akhshy Ganesh | [Read More](https://medium.com/p/403577902980) |
-| Wed, 16 Jul 2025 00:28:55 GMT | FileFix Attack Technique: How Threat Actors Turn File Explorer Into a Weapon | Trixia Horner | [Read More](https://medium.com/p/c70b5bfeedca) |
-| Wed, 16 Jul 2025 00:20:44 GMT | The Hidden Threat: How Job Board Scammers Are Infiltrating Corporate America | Anthony Conforti | [Read More](https://medium.com/p/bd77e3af3c29) |
-| Wed, 16 Jul 2025 00:14:03 GMT | Part 4: The Human Firewall — Phishing, Scams & Social Engineering | Ben San Roman | [Read More](https://medium.com/p/bd3cf019b973) |
