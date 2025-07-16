@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 15:13:44 GMT | SQL Injection in hidden Contact Form Parameter | Anonymousshetty | [Read More](https://medium.com/p/660bd1281491) |
+| Wed, 16 Jul 2025 15:13:27 GMT | The Rise of Local-First & Offline-First Apps: Redefining Digital Experiences | DIGITAL Marketing | [Read More](https://medium.com/p/47a8d3f36484) |
+| Wed, 16 Jul 2025 15:06:20 GMT | Why Zero-Fee Transfers with CryptoXpress Are Changing the Game for Crypto Users in India | Devbradon | [Read More](https://medium.com/p/c67c8d5e1617) |
+| Wed, 16 Jul 2025 15:05:49 GMT | How AI Is Transforming Education: The Rise of Personalized Tutoring & Adaptive Learning Tools | Payaam Raza | [Read More](https://medium.com/p/38e23bccc3cd) |
+| Wed, 16 Jul 2025 15:05:02 GMT | How I Turned My AWS Audit Logs into a Searchable Database with CloudTrail Lake | AashishChaudhari | [Read More](https://medium.com/p/15d37f97b31c) |
+| Wed, 16 Jul 2025 15:02:53 GMT | How I Cooked My Laptop’ CPU While Making an Android App | Deepak Painkra | [Read More](https://medium.com/p/2130a89f4f89) |
+| Wed, 16 Jul 2025 15:01:24 GMT | Executive Phishing & Impersonation: What OSINT Can Prevent | Ingvar Pavlovich | [Read More](https://medium.com/p/837c5d6c7ec9) |
+| Wed, 16 Jul 2025 14:59:52 GMT | Authentication in React Native | Alperenkabadayi | [Read More](https://medium.com/p/cd875454975a) |
+| Wed, 16 Jul 2025 14:56:10 GMT | Stolen Mount: TryHackMe Forensics Challenge Writeup | Aravind S V | [Read More](https://medium.com/p/08ad7ef0156f) |
+| Wed, 16 Jul 2025 14:53:44 GMT | How to Work With HOA Fence Rules — Not Against Them | Amanda Campbell | [Read More](https://medium.com/p/be382df51f88) |
+| Wed, 16 Jul 2025 14:53:11 GMT | Experience as a Cyber space awareness speaker | Return0community | [Read More](https://medium.com/p/cf0d8ac083b5) |
+| Wed, 16 Jul 2025 14:51:43 GMT | গ  this is my exচজসজশহচগচজসজশহচডহডজডডমমহডহডহড | Zahinshahriar | [Read More](https://medium.com/p/c8458516e420) |
+| Wed, 16 Jul 2025 14:47:59 GMT | Transfer Crypto with $0 Fees Using CryptoXpress: Here’s How It Works | Akanimo Sampson david | [Read More](https://medium.com/p/9040f039c0a7) |
+| Wed, 16 Jul 2025 14:47:03 GMT | Technicity Chronicle: DDoS Attack Response Checklist | Faisal Khan | [Read More](https://medium.com/p/635e20d70404) |
+| Wed, 16 Jul 2025 14:45:03 GMT | What is CVE? A Beginner’s Guide with EternalBlue as an Example | Adrian Sajdak | [Read More](https://medium.com/p/2545818f3c41) |
+| Wed, 16 Jul 2025 14:44:19 GMT | الذكاء الاصطناعي يحول حياتنا اليومية | Rafik | [Read More](https://medium.com/p/44063c941c09) |
+| Wed, 16 Jul 2025 14:43:51 GMT | Footprinting & Reconnaissance — The First Step in Ethical Hacking | Rushikesh G | [Read More](https://medium.com/p/0a79edb43409) |
+| Wed, 16 Jul 2025 14:43:39 GMT | CSRF in a subdomain of VISA leads to deletion of account | Anonymousshetty | [Read More](https://medium.com/p/b0b998db1ad7) |
 | Wed, 16 Jul 2025 14:40:55 GMT | Unmasking the Intruder: How I Solved TryHackMe’s “Stolen Mount” Forensics Challenge | Aravind S V | [Read More](https://medium.com/p/0e29a76e2318) |
+| Wed, 16 Jul 2025 14:37:45 GMT | Extend the Life of Your Zebra Scanner: The 5-Minute Upgrade That Pays Off Big | Judy Reynolds | [Read More](https://medium.com/p/4c71fe84eacf) |
 | Wed, 16 Jul 2025 14:34:34 GMT | Massive $438M Crypto Theft Tied to LastPass Private Key Leak — And It’s Not Over | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/bc081e8247e0) |
 | Wed, 16 Jul 2025 14:34:21 GMT | Is it possible to recover my money from Xtrademax? | Kelvin | [Read More](https://medium.com/p/a090eded2c57) |
 | Wed, 16 Jul 2025 14:28:30 GMT | NordLayer: A Company I’d Trust with My Security | 0trust0day | [Read More](https://medium.com/p/8b6f3c7ee7c6) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 11:02:19 GMT | Blog 3: “Beginner’s Guide to Active Reconnaissance: dnsrecon, dnsenum, and Nmap Basics” Part#1 | Ar-jay A. Ballaco | [Read More](https://medium.com/p/5d2e4afbe853) |
 | Wed, 16 Jul 2025 11:01:32 GMT | Deep Dive SIEM(SEC555) Part 5:Log Aggregation and Parsing | Bit_Picker | [Read More](https://medium.com/p/072a38aa6493) |
 | Wed, 16 Jul 2025 11:00:20 GMT | Day 45 of #60DaysofGRC: ISO 27001 Implementation and Certification | Brittney Ginther | [Read More](https://medium.com/p/0af76c2f1c45) |
-| Wed, 16 Jul 2025 10:58:43 GMT | Improving Data Rules to Help Everyone in Central Africa | ntui raoul | [Read More](https://medium.com/p/fd916309b4a3) |
-| Wed, 16 Jul 2025 10:57:49 GMT | Exploring Hardware Hacking as a Critical Layer in IoT Security | Redfox Security | [Read More](https://medium.com/p/a2074dedab6d) |
-| Wed, 16 Jul 2025 10:57:27 GMT | Enhance UX and Conversions with Vue.js and SEO Tactics | Bhavesh Rajpurohit | [Read More](https://medium.com/p/0731f993e553) |
-| Wed, 16 Jul 2025 10:57:23 GMT | 중소기업 보안 담당자 1인의 고군분투 by. 위즈노트AI | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/5f3390de7058) |
-| Wed, 16 Jul 2025 10:51:31 GMT | Stingray Devices Can Track You Without Consent: Do you know what they are and how to block them? | Karl Buhl | [Read More](https://medium.com/p/25f9708e1cb6) |
-| Wed, 16 Jul 2025 10:51:30 GMT | KloudPortal & HealthSmart: Data Success Story | Kloudportal4 | [Read More](https://medium.com/p/c88b7b2547dd) |
-| Wed, 16 Jul 2025 10:51:17 GMT | Security Best Practices for Fintech Mobile Apps Built with Flutter | Tapan Patel | [Read More](https://medium.com/p/29f75665ccbc) |
-| Wed, 16 Jul 2025 10:47:50 GMT | Why Every Developer Should Learn the Basics of Cybersecurity (Yes, Even You) | Aayush Patel | [Read More](https://medium.com/p/f8497d99ba16) |
-| Wed, 16 Jul 2025 10:44:37 GMT | Top 5 Reasons Your Business Needs Application Security Consulting NOW | KomodoSec.com | [Read More](https://medium.com/p/bd60975471f0) |
-| Wed, 16 Jul 2025 10:37:24 GMT | Drosera: The Brain and Shield of Web3 Security | No-brainer | [Read More](https://medium.com/p/9c48156fef98) |
-| Wed, 16 Jul 2025 10:37:15 GMT | 10 Most Notorious Hackers in History Where Are They Now? | TECHi | [Read More](https://medium.com/p/8665db9cae7d) |
-| Wed, 16 Jul 2025 10:36:47 GMT | ☕ Coffee Shop’ta Bir Sabotaj: JWT IDOR ile Admin Paneline Sızmak | Rvyd | [Read More](https://medium.com/p/6f58f1f336ca) |
-| Wed, 16 Jul 2025 10:33:15 GMT | How to Create Your Own Hacker Toolkit in Docker | Vipul Sonule | [Read More](https://medium.com/p/3e41aa623729) |
-| Wed, 16 Jul 2025 10:33:07 GMT | Race Conditions in Changing Email or 2FA Settings | Monika sharma | [Read More](https://medium.com/p/527c1678a1d6) |
-| Wed, 16 Jul 2025 10:32:32 GMT | Unboxing the Network: From Subnetting to SSH Explained Simply | hanish | [Read More](https://medium.com/p/fbe80f80098d) |
-| Wed, 16 Jul 2025 10:30:40 GMT | Breaking File Upload Filters with Trailing Dots or Spaces | Monika sharma | [Read More](https://medium.com/p/b0b1d118eaf5) |
-| Wed, 16 Jul 2025 10:30:01 GMT | Exploiting WebSocket Authentication Bypass | Monika sharma | [Read More](https://medium.com/p/3d2c998fc062) |
-| Wed, 16 Jul 2025 10:29:54 GMT | I Almost Bought a $239 Domain for $1 — A Ghost-Level Bug No One’s Watching | LordofHeaven | [Read More](https://medium.com/p/2ffe740279cd) |
-| Wed, 16 Jul 2025 10:29:17 GMT | Password Managers: The Need, the Breaches, and the Story Behind My CVE (CVE-2021–31857) | Sandeep Saxena | [Read More](https://medium.com/p/ae288c6049fc) |
