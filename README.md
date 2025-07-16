@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 21:05:52 GMT | AvePoint Cloud Backup: Strengthen & Secure Your Salesforce Data | Kevinasutton | [Read More](https://medium.com/p/dcd242532d31) |
+| Wed, 16 Jul 2025 21:01:58 GMT | Hackviser — Next.js Middleware Authorization Bypass (CVE-2025–29927) Write-Up! | Dogukan İSPİRLİ | [Read More](https://medium.com/p/7a8c07f87eec) |
+| Wed, 16 Jul 2025 20:52:14 GMT | The Compliance Paradox: Why Perfect Compliance is Your Biggest Security Risk | Maciej Litwiniuk | [Read More](https://medium.com/p/7b475cd946e0) |
+| Wed, 16 Jul 2025 20:51:01 GMT | Unlock Exclusive BNTY Through Bounty's Distribution Fiesta | Bounty | [Read More](https://medium.com/p/892ff9726e8d) |
+| Wed, 16 Jul 2025 20:49:04 GMT | How AI Is Changing the Cybersecurity Game | BlueSky | [Read More](https://medium.com/p/c92dd28f9fbe) |
 | Wed, 16 Jul 2025 20:25:00 GMT | Breaking Down MITRE ATT&CK for Beginners — The Framework That Changed How I See Threats | Rutuja Bendre | [Read More](https://medium.com/p/4a751f49d3f8) |
 | Wed, 16 Jul 2025 20:18:02 GMT | Hacking Tetris: The Game | Meghana | [Read More](https://medium.com/p/1f5d62d83672) |
 | Wed, 16 Jul 2025 20:17:14 GMT | Introducing Velociraptor MCP Server: Bringing DFIR and AI Together for Smarter Investigations | SOCFortress | [Read More](https://medium.com/p/a5545f347f49) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 14:59:52 GMT | Authentication in React Native | Alperenkabadayi | [Read More](https://medium.com/p/cd875454975a) |
 | Wed, 16 Jul 2025 14:56:10 GMT | Stolen Mount: TryHackMe Forensics Challenge Writeup | Aravind S V | [Read More](https://medium.com/p/08ad7ef0156f) |
 | Wed, 16 Jul 2025 14:53:44 GMT | How to Work With HOA Fence Rules — Not Against Them | Amanda Campbell | [Read More](https://medium.com/p/be382df51f88) |
-| Wed, 16 Jul 2025 14:53:11 GMT | Experience as a Cyber space awareness speaker | Return0community | [Read More](https://medium.com/p/cf0d8ac083b5) |
-| Wed, 16 Jul 2025 14:51:43 GMT | গ  this is my exচজসজশহচগচজসজশহচডহডজডডমমহডহডহড | Zahinshahriar | [Read More](https://medium.com/p/c8458516e420) |
-| Wed, 16 Jul 2025 14:47:59 GMT | Transfer Crypto with $0 Fees Using CryptoXpress: Here’s How It Works | Akanimo Sampson david | [Read More](https://medium.com/p/9040f039c0a7) |
-| Wed, 16 Jul 2025 14:47:03 GMT | Technicity Chronicle: DDoS Attack Response Checklist | Faisal Khan | [Read More](https://medium.com/p/635e20d70404) |
-| Wed, 16 Jul 2025 14:45:03 GMT | What is CVE? A Beginner’s Guide with EternalBlue as an Example | Adrian Sajdak | [Read More](https://medium.com/p/2545818f3c41) |
