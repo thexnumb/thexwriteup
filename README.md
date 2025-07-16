@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 23:31:10 GMT | HPE Morpheus Enterprise Software: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/550d4a65a312) |
+| Wed, 16 Jul 2025 23:24:15 GMT | Bridging the Divide: Uniting Data Analytics and Cybersecurity to Safeguard Financial Futures | Dr. Geethamanikanta Jakka | [Read More](https://medium.com/p/267c65c3fa48) |
+| Wed, 16 Jul 2025 23:23:09 GMT | Navigating the Icy Terrain: 7 Pain Points in Snowflake Every Data Engineer Should Know | Dr. Geethamanikanta Jakka | [Read More](https://medium.com/p/c4e0cf23cb27) |
 | Wed, 16 Jul 2025 23:09:30 GMT | The Most Dangerous File in Your Repo? It’s Not What You Think | Cyber-AppSec | [Read More](https://medium.com/p/d393a035d69e) |
 | Wed, 16 Jul 2025 23:07:48 GMT | Securing Your Go App the Right Way: SQL Injection Protection with Bun ORM | Mohammad Dipo Sultan | [Read More](https://medium.com/p/fb38398d0aef) |
 | Wed, 16 Jul 2025 22:53:43 GMT | ️‍♂️ 10 Powerful OSINT Tools You Should Master in 2025 | SAMAEL 0x4 | [Read More](https://medium.com/p/6973c9b11ef8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 15:59:17 GMT | Hack Smarter: Automate Security Testing with LLMs and the CAI Framework | Cristóbal V | [Read More](https://medium.com/p/fea6e61c1400) |
 | Wed, 16 Jul 2025 15:48:04 GMT | When Your Grief Helps Someone Else Breathe! | Tawakalitu Lasisi | [Read More](https://medium.com/p/5628916d9921) |
 | Wed, 16 Jul 2025 15:45:08 GMT | The Smart Home of 2025: Seamless Automation and Ambient Intelligence | Xaltius | [Read More](https://medium.com/p/f5c7c8f7af99) |
-| Wed, 16 Jul 2025 15:42:23 GMT | Is America Ready To Survive Nuclear | The DEFCON Warning System | [Read More](https://medium.com/p/ec4b448f62e0) |
-| Wed, 16 Jul 2025 15:41:32 GMT | I’m a Good and Bad Developer at the Same Time | Piyush zala | [Read More](https://medium.com/p/d91aaa034f09) |
-| Wed, 16 Jul 2025 15:38:34 GMT | PYSCHOLOGY HELP | Lucky | [Read More](https://medium.com/p/475f6c097fe6) |
