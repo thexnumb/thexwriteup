@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 23:09:30 GMT | The Most Dangerous File in Your Repo? It’s Not What You Think | Cyber-AppSec | [Read More](https://medium.com/p/d393a035d69e) |
+| Wed, 16 Jul 2025 23:07:48 GMT | Securing Your Go App the Right Way: SQL Injection Protection with Bun ORM | Mohammad Dipo Sultan | [Read More](https://medium.com/p/fb38398d0aef) |
+| Wed, 16 Jul 2025 22:53:43 GMT | ️‍♂️ 10 Powerful OSINT Tools You Should Master in 2025 | SAMAEL 0x4 | [Read More](https://medium.com/p/6973c9b11ef8) |
+| Wed, 16 Jul 2025 22:50:39 GMT | The $10M Smart Contract Backdoor That Almost Changed DeFi | Dehvcurtis | [Read More](https://medium.com/p/d9c0f926adc8) |
+| Wed, 16 Jul 2025 22:38:16 GMT | Understanding Mamona Ransomware: Memory & Process Behavior Breakdown | Ilerioluwa Ajani | [Read More](https://medium.com/p/e4b5ebca20ec) |
 | Wed, 16 Jul 2025 22:24:42 GMT | PortSwigger Lab: 2FA Simple Bypass | 0xM4ZiX | [Read More](https://medium.com/p/469585166926) |
 | Wed, 16 Jul 2025 22:23:57 GMT | Sustaining Security: Building a Culture of Continuous Vigilance” | Sammcmullen | [Read More](https://medium.com/p/48949de5eaaf) |
 | Wed, 16 Jul 2025 22:19:51 GMT | From MagnusBilling RCE to Root: Chaining CVE-2023–30258 with Fail2Ban Privilege Escalation | Sarthak | [Read More](https://medium.com/p/d0037628ed46) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 15:42:23 GMT | Is America Ready To Survive Nuclear | The DEFCON Warning System | [Read More](https://medium.com/p/ec4b448f62e0) |
 | Wed, 16 Jul 2025 15:41:32 GMT | I’m a Good and Bad Developer at the Same Time | Piyush zala | [Read More](https://medium.com/p/d91aaa034f09) |
 | Wed, 16 Jul 2025 15:38:34 GMT | PYSCHOLOGY HELP | Lucky | [Read More](https://medium.com/p/475f6c097fe6) |
-| Wed, 16 Jul 2025 15:33:03 GMT | How I Found 100+ Vulnerabilities Using Just Recon | Ibtissam hammadi | [Read More](https://medium.com/p/81133da385d3) |
-| Wed, 16 Jul 2025 15:32:33 GMT | OSCP vs PNPT — how to ace both easily 101 | kpawlo | [Read More](https://medium.com/p/1a79a4caa8c8) |
-| Wed, 16 Jul 2025 15:31:21 GMT | Protecting Business Data: A Foolproof Strategy for Startups and SMEs | Dehhani | [Read More](https://medium.com/p/83fadaca55a0) |
-| Wed, 16 Jul 2025 15:30:33 GMT | Information Disclosure on curl.se: Email Addresses Exposed via .mailmap | Regan Temudo | [Read More](https://medium.com/p/640a52455b61) |
-| Wed, 16 Jul 2025 15:26:12 GMT | From Cyber to Cloud: Tackling AWS CCP Modules 5–7 – Networking in the Trenches | Ste Caddy | [Read More](https://medium.com/p/ce30e8b57e3e) |
