@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 17:31:44 GMT | Security Misconfigurations That Leave Your App Open to Attack | Nikulsinh Rajput | [Read More](https://medium.com/p/77cdcb90afe2) |
+| Wed, 16 Jul 2025 17:29:27 GMT | 在 Microsoft Azure 上打造抗量子加密架構：結合 PQC + QRNG 的未來防線 | Tiffany Chiang | [Read More](https://medium.com/p/579f4df265ae) |
+| Wed, 16 Jul 2025 17:28:07 GMT | ️ Cybersecurity in 2025: Why It’s No Longer Optional | Praveen Dhakad | [Read More](https://medium.com/p/11abdeb26c88) |
+| Wed, 16 Jul 2025 17:27:20 GMT | From Zero to Tech Writer: How I’m Building a Medium Page That Grows | K KHAN | [Read More](https://medium.com/p/98ef27eb4651) |
+| Wed, 16 Jul 2025 17:26:27 GMT | Cyber Security Offense and Defense Home Lab — Part 2 (Covers vmware download and installation… | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/bb2cde109733) |
+| Wed, 16 Jul 2025 17:25:52 GMT | DAY 7: Aching Gut, Steady Mind | Akshatdwivedi | [Read More](https://medium.com/p/81025f4deecc) |
+| Wed, 16 Jul 2025 17:24:02 GMT | The Role of Tools & Technology in Career Success | TechSkill UK | [Read More](https://medium.com/p/51d55233280b) |
 | Wed, 16 Jul 2025 17:12:17 GMT | Claim $BUGS tokens by Bugs Bunny with This Crypto Guide within Minutes | Bugs Bunny | [Read More](https://medium.com/p/87a078806abf) |
 | Wed, 16 Jul 2025 17:01:40 GMT | What Qualifies as a Script Change Under PCI DSS 11.6.1 — and How to Detect It | Feroot Security | [Read More](https://medium.com/p/aa688597a0a2) |
 | Wed, 16 Jul 2025 16:58:50 GMT | Masih pakai Codiad? Editor to Exploits | Fndy | [Read More](https://medium.com/p/7c79ba79b455) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 13:01:50 GMT | Why Cybersecurity in the Global South Can No Longer Be Ignored | Peris.ai Cybersecurity | [Read More](https://medium.com/p/2795200fa4ca) |
 | Wed, 16 Jul 2025 13:01:47 GMT | What Are Cookies Used For? Understanding Website Cookies in Simple Terms | Timonéofearth | [Read More](https://medium.com/p/c0b32c26baaa) |
 | Wed, 16 Jul 2025 13:01:44 GMT | How Machine Learning is Revolutionizing Fraud Detection Across Digital Industries | Mohsin Ansari | [Read More](https://medium.com/p/251af78865ec) |
-| Wed, 16 Jul 2025 12:49:24 GMT | Community As The Single Mother’s Superpower | amaraya | [Read More](https://medium.com/p/ec732d9dc734) |
-| Wed, 16 Jul 2025 12:42:57 GMT | Why That ‘Nerd Mistake’ With the AI Key Actually Matters | Donalda | [Read More](https://medium.com/p/3995b93d6732) |
-| Wed, 16 Jul 2025 12:39:10 GMT | Nuclei template for cyber physical system and honeypot detections. | biero llagas | [Read More](https://medium.com/p/6cab308f2438) |
-| Wed, 16 Jul 2025 12:38:26 GMT | Flash USDT Explained – For Educational Purposes Only | Vaka | [Read More](https://medium.com/p/3faf153f35f1) |
-| Wed, 16 Jul 2025 12:37:44 GMT | Online Ethical Hacking Certification: The Complete Guide for 2025 | Crawsec | [Read More](https://medium.com/p/fc897441a45f) |
-| Wed, 16 Jul 2025 12:35:00 GMT | Windows 10 End of Support: What It Means and What You Should Do Now | The Quiet Hacker | [Read More](https://medium.com/p/2a3d2a56eee2) |
-| Wed, 16 Jul 2025 12:30:54 GMT | Understanding Flash USDT: A Quick Insight | Vaka | [Read More](https://medium.com/p/02ec8362b8ed) |
