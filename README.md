@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 10:47:50 GMT | Why Every Developer Should Learn the Basics of Cybersecurity (Yes, Even You) | Aayush Patel | [Read More](https://medium.com/p/f8497d99ba16) |
+| Wed, 16 Jul 2025 10:37:24 GMT | Drosera: The Brain and Shield of Web3 Security | No-brainer | [Read More](https://medium.com/p/9c48156fef98) |
+| Wed, 16 Jul 2025 10:36:47 GMT | ☕ Coffee Shop’ta Bir Sabotaj: JWT IDOR ile Admin Paneline Sızmak | Rvyd | [Read More](https://medium.com/p/6f58f1f336ca) |
+| Wed, 16 Jul 2025 10:33:15 GMT | How to Create Your Own Hacker Toolkit in Docker | Vipul Sonule | [Read More](https://medium.com/p/3e41aa623729) |
+| Wed, 16 Jul 2025 10:33:07 GMT | Race Conditions in Changing Email or 2FA Settings | Monika sharma | [Read More](https://medium.com/p/527c1678a1d6) |
+| Wed, 16 Jul 2025 10:32:32 GMT | Unboxing the Network: From Subnetting to SSH Explained Simply | hanish | [Read More](https://medium.com/p/fbe80f80098d) |
+| Wed, 16 Jul 2025 10:30:40 GMT | Breaking File Upload Filters with Trailing Dots or Spaces | Monika sharma | [Read More](https://medium.com/p/b0b1d118eaf5) |
+| Wed, 16 Jul 2025 10:30:01 GMT | Exploiting WebSocket Authentication Bypass | Monika sharma | [Read More](https://medium.com/p/3d2c998fc062) |
+| Wed, 16 Jul 2025 10:29:54 GMT | I Almost Bought a $239 Domain for $1 — A Ghost-Level Bug No One’s Watching | LordofHeaven | [Read More](https://medium.com/p/2ffe740279cd) |
+| Wed, 16 Jul 2025 10:29:17 GMT | Password Managers: The Need, the Breaches, and the Story Behind My CVE (CVE-2021–31857) | Sandeep Saxena | [Read More](https://medium.com/p/ae288c6049fc) |
+| Wed, 16 Jul 2025 10:29:09 GMT | Google Dorking My Way Out of Exam Stress (And Into the Hall of Fame) ️ | B4LOGI | [Read More](https://medium.com/p/a01d984f713d) |
+| Wed, 16 Jul 2025 10:29:07 GMT | Silence in the SOC: No Alerts, So Are We Really Safe? | Yuksel | [Read More](https://medium.com/p/83c8ea10d242) |
+| Wed, 16 Jul 2025 10:28:56 GMT | The Cyberweapon That Shook the World | Aj | [Read More](https://medium.com/p/8334743bf1cc) |
+| Wed, 16 Jul 2025 10:28:17 GMT | The Shadowy Corners of WordPress | Cuncis | [Read More](https://medium.com/p/2f8fc724cb37) |
+| Wed, 16 Jul 2025 10:23:07 GMT | QRadar Reference Sets: What They Are, Why They Matter, and Real-World SOC Scenarios | Yuksel | [Read More](https://medium.com/p/227fcfbfac30) |
 | Wed, 16 Jul 2025 10:19:48 GMT | Faith as a Weapon: How Colonial Powers and Modern Extremists Exploit Religion to Divide Africa | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/df2d734d1b38) |
 | Wed, 16 Jul 2025 10:18:44 GMT | The Ultimate Red Team Roadmap: From Novice to Network Phantom | Barukh Aswad | [Read More](https://medium.com/p/bcbe4abd3af4) |
 | Wed, 16 Jul 2025 10:16:49 GMT | 10 Critical Technical Points for Designing a Scalable SOC Architecture | Yuksel | [Read More](https://medium.com/p/76ce0aa94f63) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 06:26:04 GMT | Cloud Infrastructure Security in 2025: Trends, Tools, and Threats | Serishahid | [Read More](https://medium.com/p/4ff74ad3ca12) |
 | Wed, 16 Jul 2025 06:25:27 GMT | Shuberg Philis — are you sure you’re capable of securing mission-critical operations? | 0trust0day | [Read More](https://medium.com/p/e2c2409d0058) |
 | Wed, 16 Jul 2025 06:24:02 GMT | Start Earning $LFI LunaFi Today and Explore New Crypto Opportunities | LunaFi | [Read More](https://medium.com/p/73f743472422) |
-| Wed, 16 Jul 2025 06:22:22 GMT | Mastering Docker Volumes: A Complete Guide to Persistent Data in Containers | Harleen kaur | [Read More](https://medium.com/p/ef6a7ce11a8a) |
-| Wed, 16 Jul 2025 06:14:08 GMT | My First Bug: The OTP Bypass That Made Me Feel Like a Superhacker ️‍♂️ | Aryamevada | [Read More](https://medium.com/p/bc0c78d43697) |
-| Wed, 16 Jul 2025 06:13:52 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/27e45d73cd83) |
-| Wed, 16 Jul 2025 06:12:56 GMT | The #1 Threat to AI Is Not What You Think | Nicholas Borg | [Read More](https://medium.com/p/ceab6231231e) |
-| Wed, 16 Jul 2025 06:12:19 GMT | AI Penetration Testing: From Simulation to Smart Red Teams | PenligentAI | [Read More](https://medium.com/p/31d59b1d98a9) |
-| Wed, 16 Jul 2025 06:03:00 GMT | For many, retirement is meant to be a time of peace and financial security — a reward for years of… | James Hudson | [Read More](https://medium.com/p/659a0c9fb5b7) |
-| Wed, 16 Jul 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Jul 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9754ff53c0aa) |
-| Wed, 16 Jul 2025 06:00:28 GMT | Python Meets the Firewall: Automating Basic Threat Detection at Home 
-By Cyberscope- July 16, 2025 | Cyberscope | [Read More](https://medium.com/p/7add3bfc5de2) |
-| Wed, 16 Jul 2025 05:58:40 GMT | Vrinda AI: India’s Indigenous Multimodal AI Assistant | CSI | [Read More](https://medium.com/p/73e0a53b95b9) |
-| Wed, 16 Jul 2025 05:56:06 GMT | How I Brute-Forced 400 Internal Accounts Without Logging In-P3- | hacker_space11 | [Read More](https://medium.com/p/5d90aa7a703c) |
-| Wed, 16 Jul 2025 05:54:35 GMT | Implementing Zero Trust with Entra ID Conditional Access in M365 | Ashe Herrick | [Read More](https://medium.com/p/4b4c77c5d2e3) |
-| Wed, 16 Jul 2025 05:53:27 GMT | AI-Powered Bug Detection in Android Apps: Write Smarter Code, Faster | Bunty Beladiya | [Read More](https://medium.com/p/031451a1203d) |
-| Wed, 16 Jul 2025 05:52:51 GMT | Android Pentesting 101: What It Is, Why It Matters & How to Start Thinking Like a Hacker | Mohammed Anshed kp | [Read More](https://medium.com/p/4da991752bd8) |
-| Wed, 16 Jul 2025 05:51:36 GMT | Web Security Best Practices: Safeguarding Your Digital Presence | Vansh Khandelwal | [Read More](https://medium.com/p/4b7522a5d229) |
-| Wed, 16 Jul 2025 05:40:57 GMT | Why Cybersecurity Should Matter to You (Yes, You) | Lakshita | [Read More](https://medium.com/p/7ebf73e96f3b) |
