@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 09:35:16 GMT | Understanding Key Terms in Network Security | Cyber Timi | [Read More](https://medium.com/p/926dbf00ceb1) |
+| Wed, 16 Jul 2025 09:25:37 GMT | How Hackers Find Sensitive Data in Android Apps -And How You Can Too - Android Pentesting 101 | Blue_eye | [Read More](https://medium.com/p/f3fadecf9136) |
 | Wed, 16 Jul 2025 09:23:59 GMT | What is URL Blacklisting? | Bhuvana Medicherla | [Read More](https://medium.com/p/d4727df5c8d3) |
+| Wed, 16 Jul 2025 09:22:34 GMT | Why Flash USDT Shouldn’t Be Ignored | Peg | [Read More](https://medium.com/p/e6dad64dc22c) |
 | Wed, 16 Jul 2025 09:09:24 GMT | 5 Reasons Why Companies Use Signal Detectors | Laura Turcu | [Read More](https://medium.com/p/e3349921d066) |
 | Wed, 16 Jul 2025 09:08:37 GMT | Bridging the Gap: How API Stubbing Services Revolutionize Integration Testing | AT | [Read More](https://medium.com/p/6704866169bc) |
 | Wed, 16 Jul 2025 09:03:02 GMT | Understanding Simulated Wallet Reflections | Peg | [Read More](https://medium.com/p/2df7e57ec5b5) |
@@ -110,6 +113,3 @@ By Cyberscope- July 16, 2025 | Cyberscope | [Read More](https://medium.com/p/7ad
 | Wed, 16 Jul 2025 05:05:45 GMT | Kickstart Your Cybersecurity Career: A Practical Guide for Students | Sreevalsan | [Read More](https://medium.com/p/889c0bcc557c) |
 | Wed, 16 Jul 2025 05:00:50 GMT | Leveraging Wazuh for Compliance with Bank Indonesia and OJK Cybersecurity Regulation (Part 1) | Ismail Hakim | [Read More](https://medium.com/p/2e6fd3b0a780) |
 | Wed, 16 Jul 2025 04:58:50 GMT | The Unusual Suspect: How Exposed Git Repositories Become Silent Cyber Threats | CyDhaal | [Read More](https://medium.com/p/032bda0ab6a3) |
-| Wed, 16 Jul 2025 04:57:23 GMT | How AI Changes the Job Market: Opportunities, Risks, and Adaptation | Fitri Putri Lestari | [Read More](https://medium.com/p/e63de73078f9) |
-| Wed, 16 Jul 2025 04:52:15 GMT | What is JWT? - JSON Web Token Explained for Beginners | Rasintha Dilshan Jayarathne | [Read More](https://medium.com/p/19a4742d5d9e) |
-| Wed, 16 Jul 2025 04:50:30 GMT | Multiple Vulnerabilities at Indiana University | AbhirupKonwar | [Read More](https://medium.com/p/4c324afe6bbf) |
