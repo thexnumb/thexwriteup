@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 12:42:57 GMT | Why That ‘Nerd Mistake’ With the AI Key Actually Matters | Donalda | [Read More](https://medium.com/p/3995b93d6732) |
+| Wed, 16 Jul 2025 12:39:10 GMT | Nuclei template for cyber physical system and honeypot detections. | biero llagas | [Read More](https://medium.com/p/6cab308f2438) |
+| Wed, 16 Jul 2025 12:38:26 GMT | Flash USDT Explained – For Educational Purposes Only | Vaka | [Read More](https://medium.com/p/3faf153f35f1) |
+| Wed, 16 Jul 2025 12:37:44 GMT | Online Ethical Hacking Certification: The Complete Guide for 2025 | Crawsec | [Read More](https://medium.com/p/fc897441a45f) |
+| Wed, 16 Jul 2025 12:35:00 GMT | Windows 10 End of Support: What It Means and What You Should Do Now | The Quiet Hacker | [Read More](https://medium.com/p/2a3d2a56eee2) |
+| Wed, 16 Jul 2025 12:30:54 GMT | Understanding Flash USDT: A Quick Insight | Vaka | [Read More](https://medium.com/p/02ec8362b8ed) |
+| Wed, 16 Jul 2025 12:22:55 GMT | Research Objectives | Covenant O.B. | [Read More](https://medium.com/p/c89d6646e118) |
+| Wed, 16 Jul 2025 12:14:51 GMT | A Deep Dive into the Architecture of Hybrid SOC Services | sanya | [Read More](https://medium.com/p/756f2ed88fd2) |
+| Wed, 16 Jul 2025 12:14:17 GMT | From Flat to Fully Fetched: How I Turned Basic OData into a Multi-Level Query Powerhouse | Brian Mora | [Read More](https://medium.com/p/854747f6334d) |
+| Wed, 16 Jul 2025 12:10:06 GMT | OSCP Lab Day 1 — Mr. Robot Walkthrough | DataDefender | [Read More](https://medium.com/p/10f1058d9edc) |
+| Wed, 16 Jul 2025 12:07:42 GMT | Hackers Love This 1979 Protocol (Because It Can’t Defend Itself) | Azim Uddin | [Read More](https://medium.com/p/06824a67e8a8) |
+| Wed, 16 Jul 2025 12:07:20 GMT | A small birthday treat turned into a $1000 bounty. | Rabia Riaz | [Read More](https://medium.com/p/ee8e61f88535) |
+| Wed, 16 Jul 2025 12:04:55 GMT | From Beijing to Backdoors: The Penetration Testing Lessons from July 16, 2025 | Inforsecpro | [Read More](https://medium.com/p/2903ad7ff8f7) |
+| Wed, 16 Jul 2025 12:04:28 GMT | ZoomEye BugBounty Radar: Streamlined Asset Monitoring for Bug Bounty Hunters | ZoomEye | [Read More](https://medium.com/p/a74103c5c3c5) |
+| Wed, 16 Jul 2025 12:02:55 GMT | Best Residential security guards in Gurugram | SPI Infotech | [Read More](https://medium.com/p/c5ecbe4a60a1) |
+| Wed, 16 Jul 2025 12:01:55 GMT | SELinux Complete Guide for RHCSA: Mastering Security-Enhanced Linux | RHCSA.GURU | [Read More](https://medium.com/p/0849d9419c01) |
+| Wed, 16 Jul 2025 11:59:59 GMT | quiet ask | Fatima Lusung | [Read More](https://medium.com/p/89e4ba1fb56f) |
+| Wed, 16 Jul 2025 11:46:57 GMT | Intimacy: Share or Shield — One Deepens, One Distances | Mike Sansone | [Read More](https://medium.com/p/0fadced4b26a) |
+| Wed, 16 Jul 2025 11:44:15 GMT | Interlock RAT Resurfaces: FileFix Scheme Revives Old Malware in Sophisticated Web Inject Campaigns. | eL Njas!™ | [Read More](https://medium.com/p/f70d6af019b3) |
+| Wed, 16 Jul 2025 11:41:41 GMT | Why CSA Security is the Most Trusted Security Agency in Kolkata, India | Industry Blogs | [Read More](https://medium.com/p/779f32d2fe36) |
+| Wed, 16 Jul 2025 11:39:05 GMT | [Hack The Box CTF] Dog Write-Up | fnwn | [Read More](https://medium.com/p/8318e9c2cba2) |
 | Wed, 16 Jul 2025 11:38:06 GMT | What is Penetration Testing? And Why You Shouldn’t Ignore It in 2025 | Cybersecurity Umbrella | [Read More](https://medium.com/p/ada8c26d7186) |
 | Wed, 16 Jul 2025 11:37:48 GMT | Installing Pfsense Firewall on VirtualBox | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/56f79d7b9bbd) |
 | Wed, 16 Jul 2025 11:36:41 GMT | Everything You Need to Know About Cybersecurity Technical Writers | Essential Data Corporations | [Read More](https://medium.com/p/e535267ef006) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 08:47:33 GMT | Top 7 Highest Paying Jobs in Cyber Security | Edept | [Read More](https://medium.com/p/8f46c60add74) |
 | Wed, 16 Jul 2025 08:45:05 GMT | How to Secure Your Wi-Fi Network at Home or Office | Brian Gikandi | [Read More](https://medium.com/p/4a8c735c6186) |
 | Wed, 16 Jul 2025 08:44:59 GMT | The Role of SOC in Achieving PCI-DSS and ISO 27001 Compliance | Microscan Communications | [Read More](https://medium.com/p/ac77184eab9a) |
-| Wed, 16 Jul 2025 08:44:51 GMT | Identity Suite: What’s New in May 2025 | Lukas Westermann | [Read More](https://medium.com/p/607d50fa8a9d) |
-| Wed, 16 Jul 2025 08:44:09 GMT | How to Prevent Privilege Escalation: Your Core Cybersecurity Defense | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/a4f6d0e83fe1) |
-| Wed, 16 Jul 2025 08:41:56 GMT | -  0️⃣ | Erik Eliasson | [Read More](https://medium.com/p/6cfc0d346525) |
-| Wed, 16 Jul 2025 08:41:34 GMT | What I Learned from the Google Cybersecurity Professional Certificate | Nikhila Chandaka | [Read More](https://medium.com/p/9a3e8cf3412e) |
-| Wed, 16 Jul 2025 08:39:00 GMT | “From $500 to $5,000: How Chaining IDOR and XSS Led to Mass Account Takeovers (Ethical Hacking… | Aman Sharma | [Read More](https://medium.com/p/a55de6e59a71) |
-| Wed, 16 Jul 2025 08:29:04 GMT | Feel Like You’re Being Spied On? Here’s How to Find Hidden Cameras | Spokeo People Search | [Read More](https://medium.com/p/dbffb5c1cfa4) |
-| Wed, 16 Jul 2025 08:24:59 GMT | Beware! AI may be executing instructions you can’t see | AIM | [Read More](https://medium.com/p/160d547ba075) |
-| Wed, 16 Jul 2025 08:20:26 GMT | Nmap & Chill: How One Open Port on a Test Env Led Me to Prod Admin Access | Iski | [Read More](https://medium.com/p/da40c863161b) |
-| Wed, 16 Jul 2025 08:19:03 GMT | I accidentally hunted a bug in my first 24 hours of my bug bounty journey | Mina Marcos | [Read More](https://medium.com/p/a190f45780f7) |
-| Wed, 16 Jul 2025 08:19:03 GMT | The Role of Information for Technology in Business Strategy | Business Pro Tech | [Read More](https://medium.com/p/899f0f77c484) |
-| Wed, 16 Jul 2025 08:07:14 GMT | The Battle Against Misinformation: How Developers and Creators Can Build Tools That Protect the… | Amaka okoye | [Read More](https://medium.com/p/b44a8d956b4d) |
-| Wed, 16 Jul 2025 08:03:31 GMT | Hackers for Hire? How Anyone Can Launch a Cyberattack Today | Intermax Pty Ltd | [Read More](https://medium.com/p/f6b378d136c1) |
-| Wed, 16 Jul 2025 08:01:20 GMT | Chapter 1: Understanding Network Models | Thexnumb | [Read More](https://medium.com/p/d3e3fee63038) |
-| Wed, 16 Jul 2025 07:57:54 GMT | How I Built a Burp Suite Extension to Manage Time-Sensitive API Challenges | Wasfy Elbaz | [Read More](https://medium.com/p/46b8dd92cbea) |
-| Wed, 16 Jul 2025 07:56:12 GMT | Cybersecurity Tips for Modern Web & App Platforms | Jenny smith | [Read More](https://medium.com/p/9eb0a6aa637b) |
-| Wed, 16 Jul 2025 07:52:59 GMT | Corporate Boondoggle: Triumph Over a Tightly Coupled Tragedy in Parcel Shipping | Namir Sagheenanajar | [Read More](https://medium.com/p/45795ac13851) |
-| Wed, 16 Jul 2025 07:47:21 GMT | ‍ Life of a Developer: Between Bugs, Breakthroughs & Burnout ☕ | Ena Modern Coder | [Read More](https://medium.com/p/2dac0f1098cf) |
-| Wed, 16 Jul 2025 07:41:50 GMT | Best SailPoint Training & Courses in Hyderabad for 2025 | Pravin Choudhary | [Read More](https://medium.com/p/c941f3e308e5) |
-| Wed, 16 Jul 2025 07:37:23 GMT | L3akCTF 2025 Writeup — Braincalc/mobile | Kyoungmin Roh | [Read More](https://medium.com/p/22ef696c05b8) |
-| Wed, 16 Jul 2025 07:33:49 GMT | Understanding Hackers and Ethical Hacking | Amogha KS | [Read More](https://medium.com/p/98e2571b1123) |
-| Wed, 16 Jul 2025 07:33:23 GMT | AI Innovations in Cybersecurity for Insurance: Threat Detection and Fraud Prevention | Bahram Ghorbani | [Read More](https://medium.com/p/77933c57c40d) |
