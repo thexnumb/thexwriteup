@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 20:18:02 GMT | Hacking Tetris: The Game | Meghana | [Read More](https://medium.com/p/1f5d62d83672) |
+| Wed, 16 Jul 2025 20:17:14 GMT | Introducing Velociraptor MCP Server: Bringing DFIR and AI Together for Smarter Investigations | SOCFortress | [Read More](https://medium.com/p/a5545f347f49) |
+| Wed, 16 Jul 2025 20:12:12 GMT | The Anatomy of a Critical Bug | SIDDHANT SHUKLA | [Read More](https://medium.com/p/388329a1c55a) |
+| Wed, 16 Jul 2025 20:04:32 GMT | Project: Keysafe – A Secure CLI Password Manager Using RSA Encryption | Learn Coding | [Read More](https://medium.com/p/d411bcd16860) |
+| Wed, 16 Jul 2025 19:55:34 GMT | Serve React SPAs with Express: Caching, Compression, Security & Logging | Ankit | [Read More](https://medium.com/p/d2be58b54009) |
+| Wed, 16 Jul 2025 19:49:22 GMT | 09212539516 | #شماره خاله اراک #شماره خاله قزوین #شماره خاله | [Read More](https://medium.com/p/5d73568caae7) |
+| Wed, 16 Jul 2025 19:49:07 GMT | 09212539516 | #شماره خاله اراک #شماره خاله قزوین #شماره خاله | [Read More](https://medium.com/p/5fa71f9c4782) |
+| Wed, 16 Jul 2025 19:48:49 GMT | 09212539516 | #شماره خاله اراک #شماره خاله قزوین #شماره خاله | [Read More](https://medium.com/p/6b138d59e3b9) |
+| Wed, 16 Jul 2025 19:48:22 GMT | How to Recover Lost Files from a Crashed Hard Drive | Nerd Rangers | [Read More](https://medium.com/p/922d604cc9b8) |
+| Wed, 16 Jul 2025 19:44:50 GMT | 09212539516 | #شماره خاله اراک #شماره خاله قزوین #شماره خاله | [Read More](https://medium.com/p/c836fd281ec3) |
+| Wed, 16 Jul 2025 19:44:36 GMT | 09212539516 | #شماره خاله اراک #شماره خاله قزوین #شماره خاله | [Read More](https://medium.com/p/48f056fd63f8) |
 | Wed, 16 Jul 2025 19:14:33 GMT | TryHackMe Room Walkthrough: Billing | Aditya Bhatt | [Read More](https://medium.com/p/7bda353eac51) |
 | Wed, 16 Jul 2025 19:14:28 GMT | 5 Essential Security Libraries In Android App Development | Nine Pages Of My Life | [Read More](https://medium.com/p/319a2e83edf0) |
 | Wed, 16 Jul 2025 19:12:40 GMT | It’s About Time: TSA Lifts Shoe Rule, Now Let’s Keep the Momentum Going | David Griffith | [Read More](https://medium.com/p/c375f77a1093) |
@@ -38,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 18:03:49 GMT | Windows OLE CVE-2025–21298 zero-click vulnerability | Crow-404 | [Read More](https://medium.com/p/1bc58a935ac0) |
 | Wed, 16 Jul 2025 17:54:10 GMT | How to Hack a WEP Wi-Fi Network (Legally & Educationally) | Rajkumar Kumawat | [Read More](https://medium.com/p/524b7c133e45) |
 | Wed, 16 Jul 2025 17:48:14 GMT | برنامج Perplexity AI: مقارنة شاملة بأدوات الذكاء 2025 | katibatech | [Read More](https://medium.com/p/5ddca7be8b24) |
+| Wed, 16 Jul 2025 17:40:25 GMT | IPTV en 2025 : Tout ce que vous devez savoir avant de choisir votre abonnement | Amine El Khelouane | [Read More](https://medium.com/p/0a509e4290e1) |
 | Wed, 16 Jul 2025 17:31:44 GMT | Security Misconfigurations That Leave Your App Open to Attack | Nikulsinh Rajput | [Read More](https://medium.com/p/77cdcb90afe2) |
 | Wed, 16 Jul 2025 17:29:27 GMT | 在 Microsoft Azure 上打造抗量子加密架構：結合 PQC + QRNG 的未來防線 | Tiffany Chiang | [Read More](https://medium.com/p/579f4df265ae) |
 | Wed, 16 Jul 2025 17:28:07 GMT | ️ Cybersecurity in 2025: Why It’s No Longer Optional | Praveen Dhakad | [Read More](https://medium.com/p/11abdeb26c88) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 14:47:03 GMT | Technicity Chronicle: DDoS Attack Response Checklist | Faisal Khan | [Read More](https://medium.com/p/635e20d70404) |
 | Wed, 16 Jul 2025 14:45:03 GMT | What is CVE? A Beginner’s Guide with EternalBlue as an Example | Adrian Sajdak | [Read More](https://medium.com/p/2545818f3c41) |
 | Wed, 16 Jul 2025 14:44:19 GMT | الذكاء الاصطناعي يحول حياتنا اليومية | Rafik | [Read More](https://medium.com/p/44063c941c09) |
-| Wed, 16 Jul 2025 14:43:51 GMT | Footprinting & Reconnaissance — The First Step in Ethical Hacking | Rushikesh G | [Read More](https://medium.com/p/0a79edb43409) |
-| Wed, 16 Jul 2025 14:43:39 GMT | CSRF in a subdomain of VISA leads to deletion of account | Anonymousshetty | [Read More](https://medium.com/p/b0b998db1ad7) |
-| Wed, 16 Jul 2025 14:40:55 GMT | Unmasking the Intruder: How I Solved TryHackMe’s “Stolen Mount” Forensics Challenge | Aravind S V | [Read More](https://medium.com/p/0e29a76e2318) |
-| Wed, 16 Jul 2025 14:37:45 GMT | Extend the Life of Your Zebra Scanner: The 5-Minute Upgrade That Pays Off Big | Judy Reynolds | [Read More](https://medium.com/p/4c71fe84eacf) |
-| Wed, 16 Jul 2025 14:34:34 GMT | Massive $438M Crypto Theft Tied to LastPass Private Key Leak — And It’s Not Over | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/bc081e8247e0) |
-| Wed, 16 Jul 2025 14:34:21 GMT | Is it possible to recover my money from Xtrademax? | Kelvin | [Read More](https://medium.com/p/a090eded2c57) |
-| Wed, 16 Jul 2025 14:28:30 GMT | NordLayer: A Company I’d Trust with My Security | 0trust0day | [Read More](https://medium.com/p/8b6f3c7ee7c6) |
-| Wed, 16 Jul 2025 14:27:11 GMT | SOCFortres5: WordPress Malware Scanner Plugin Found Vulnerable to Arbitrary File Deletion | Darshan | [Read More](https://medium.com/p/428615be9bb1) |
-| Wed, 16 Jul 2025 14:25:46 GMT | I Could Verify Any Email and Take Over Accounts — Critical Logic Flaw Explained | k4yd0_ | [Read More](https://medium.com/p/497f476d5417) |
-| Wed, 16 Jul 2025 14:20:22 GMT | SOCFortres5: Google Chrome 0-day Vulnerability Actively Exploited in the Wild | Darshan | [Read More](https://medium.com/p/b5d9a9671b29) |
-| Wed, 16 Jul 2025 14:19:39 GMT | How to Transfer Crypto in 2 Steps Using the CryptoXpress Wallet | Devbradon | [Read More](https://medium.com/p/7b4a44eb84ae) |
-| Wed, 16 Jul 2025 14:19:19 GMT | Online Safety & Cybercrimes: Navigating Nigeria’s Cybersecurity Compliance And Safety Laws | Olisa Agbakoba Legal (OAL) | [Read More](https://medium.com/p/f9da24d332ed) |
