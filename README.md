@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 01:36:25 GMT | Building the Future of Developer Security: My Journey with Model Context Protocol (MCP) | Tanmay Bhattacharjee | [Read More](https://medium.com/p/65fb24ee64ff) |
+| Wed, 16 Jul 2025 01:35:17 GMT | How To Claim $BUG  Today | Bug | [Read More](https://medium.com/p/f461b8fa0803) |
+| Wed, 16 Jul 2025 01:29:56 GMT | DORK Announces Distribution Wave: Unlock DORK Today | DORK | [Read More](https://medium.com/p/aba8cedf9526) |
+| Wed, 16 Jul 2025 01:15:29 GMT | From Freeform to Fort Knox: Locking Down Our GraphQL API Without Anyone Noticing | Lucas Parry | [Read More](https://medium.com/p/d0ef9804909d) |
+| Wed, 16 Jul 2025 00:52:18 GMT | IOT Connect — Android Broadcast Receiver Challenge Walkthrough | Abdelrahman Ahmed | [Read More](https://medium.com/p/70febeb04d1d) |
+| Wed, 16 Jul 2025 00:48:05 GMT | Cryptographic Sovereignty: The Next Frontier in National and Enterprise Security | ExeQuantum | [Read More](https://medium.com/p/3ccfa5761738) |
+| Wed, 16 Jul 2025 00:46:11 GMT | Drosera Network: The Watchdog Protocol Revolutionizing DeFi Security | Ante Mfon David | [Read More](https://medium.com/p/08569806bdda) |
+| Wed, 16 Jul 2025 00:46:03 GMT | Life in the SOC: Beyond the Alerts | Hemchudaesh | [Read More](https://medium.com/p/0c15349d7c9c) |
+| Wed, 16 Jul 2025 00:31:45 GMT | AWS Confession Booth: How to Download Every CloudTrail Event | Akhshy Ganesh | [Read More](https://medium.com/p/403577902980) |
+| Wed, 16 Jul 2025 00:28:55 GMT | FileFix Attack Technique: How Threat Actors Turn File Explorer Into a Weapon | Trixia Horner | [Read More](https://medium.com/p/c70b5bfeedca) |
+| Wed, 16 Jul 2025 00:20:44 GMT | The Hidden Threat: How Job Board Scammers Are Infiltrating Corporate America | Anthony Conforti | [Read More](https://medium.com/p/bd77e3af3c29) |
+| Wed, 16 Jul 2025 00:14:03 GMT | Part 4: The Human Firewall — Phishing, Scams & Social Engineering | Ben San Roman | [Read More](https://medium.com/p/bd3cf019b973) |
+| Wed, 16 Jul 2025 00:01:46 GMT | Injection: Complete Guide to Hacking, Bug Bounty, and Prevention | JPablo13 | [Read More](https://medium.com/p/e47e978d219d) |
+| Tue, 15 Jul 2025 23:48:03 GMT | CVE Record Dispute Policy Updated | CVE Program Blog | [Read More](https://medium.com/p/3e69149d1871) |
+| Tue, 15 Jul 2025 23:44:47 GMT | DORK Announces Token Giveaway: Claim DORK Today | DORK | [Read More](https://medium.com/p/6548eff82e95) |
+| Tue, 15 Jul 2025 23:42:54 GMT | ️ Guia Prático de Hardening para VMware — Parte 1 | Gabriel Varisco Oliveira | [Read More](https://medium.com/p/f1bb08f5a1a7) |
 | Tue, 15 Jul 2025 23:31:50 GMT | Palo Alto Networks VM Series: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d51b2334cbee) |
 | Tue, 15 Jul 2025 23:17:20 GMT | The Crime Lab by CyberDefenders | Ahmedelshoura | [Read More](https://medium.com/p/805c767ec6a2) |
 | Tue, 15 Jul 2025 23:13:45 GMT | 5 Simple Cyber Hygiene Rules Everyone Should Know | Badenskova | [Read More](https://medium.com/p/42e087bbf234) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 16:19:13 GMT | Conceal + AI Browsers | Conceal, Inc. | [Read More](https://medium.com/p/18281d22e1b3) |
 | Tue, 15 Jul 2025 16:17:16 GMT | HIPAA Doesn’t Protect You. It Protects Them. | 4rtos | [Read More](https://medium.com/p/5c3c2e36e72f) |
 | Tue, 15 Jul 2025 16:11:50 GMT | Pegasus Spyware Email Scam: Is That Really Your Boss or a Cyber Spy? | Akshay Chauhan | [Read More](https://medium.com/p/8904410b67e8) |
-| Tue, 15 Jul 2025 16:10:26 GMT | Analysis of 2020–12–29 Emotet attack | Nirajbagde | [Read More](https://medium.com/p/68c0a5ca99ac) |
-| Tue, 15 Jul 2025 15:57:07 GMT | The Ultimate Bug Bounty Toolkit (Part 2): Exploitation & Reporting | Andrei Ivan | [Read More](https://medium.com/p/6adc313ae9f8) |
-| Tue, 15 Jul 2025 15:54:49 GMT | The Ultimate Bug Bounty Toolkit (Part 1): Recon & Scanning | Andrei Ivan | [Read More](https://medium.com/p/218be7b4449b) |
-| Tue, 15 Jul 2025 15:53:02 GMT | picoCTF — Hashcrack | Robby firdauzy | [Read More](https://medium.com/p/7a5d64574247) |
-| Tue, 15 Jul 2025 15:52:37 GMT | PortSwigger Lab: Exploiting NoSQL operator injection to bypass authentication writeup (NoSQL) | awes0meness | [Read More](https://medium.com/p/bdcbcfd3d780) |
-| Tue, 15 Jul 2025 15:52:22 GMT | PortSwigger Lab: Detecting NoSQL injection writeup | awes0meness | [Read More](https://medium.com/p/9d227792fa8b) |
-| Tue, 15 Jul 2025 15:52:07 GMT | PortSwigger Lab: SQL injection with filter bypass via XML encoding writeup (SQL Injection) | awes0meness | [Read More](https://medium.com/p/c49f7ab2cd5a) |
-| Tue, 15 Jul 2025 15:48:00 GMT | A Day in My Life as a Technical Business Analyst in Data & AI | Sandeep lokanath | [Read More](https://medium.com/p/67bc295d8157) |
-| Tue, 15 Jul 2025 15:44:51 GMT | Silent Breach Lab Walkthrough | Hadiramr | [Read More](https://medium.com/p/c6897da53ff9) |
-| Tue, 15 Jul 2025 15:39:01 GMT | What is Tokenization and Why Should You Care? | Wiran Larbi | [Read More](https://medium.com/p/8e04c444694e) |
-| Tue, 15 Jul 2025 15:38:00 GMT | Welcome | Erik Eliasson | [Read More](https://medium.com/p/20f76091593a) |
-| Tue, 15 Jul 2025 15:33:21 GMT | Day 1 of My Bug Bounty Journey — Starting from Zero | Manju Varma M | [Read More](https://medium.com/p/59210d31ce15) |
-| Tue, 15 Jul 2025 15:28:28 GMT | This Email Looks Real… But It’s Not | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/079d54798296) |
-| Tue, 15 Jul 2025 15:26:40 GMT | Why Quantum Computing Could Break Current Cybersecurity (And What We Can Do About It) | Paradise technologies Inc | [Read More](https://medium.com/p/5d8e391a3732) |
-| Tue, 15 Jul 2025 15:26:15 GMT | DORA SIEM Monitoring: Der Compliance-Leitfaden für Finanzinstitute 2025 | Philip Hansen | [Read More](https://medium.com/p/600b1e6b4a9b) |
-| Tue, 15 Jul 2025 15:26:03 GMT | DORA Vulnerability Scanning 2025: Der ultimative Praxis-Leitfaden für Finanzinstitute | Philip Hansen | [Read More](https://medium.com/p/8d9186140316) |
