@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 03:31:18 GMT | The GRC of AI: Ethical and Compliance Minefield of Artificial Intelligence | Gurpreet Singh | [Read More](https://medium.com/p/ea916af68754) |
+| Wed, 16 Jul 2025 03:29:31 GMT | Drosera Network: Giving Ethereum an Immune System. | H | [Read More](https://medium.com/p/e5667fef6d17) |
+| Wed, 16 Jul 2025 03:26:27 GMT | ️ The Encryption You Think You Have vs. The One You Actually Use | Mir Sarfarajey Akram | [Read More](https://medium.com/p/b1a961c5e4cd) |
+| Wed, 16 Jul 2025 03:22:21 GMT | How SafeLine WAF Fights Bots with Smart Rate Limiting | AerieWhole123 | [Read More](https://medium.com/p/37616d35f731) |
+| Wed, 16 Jul 2025 03:22:06 GMT | Day2- Cybersecurity for Beginners: How Ports, Protocols and Firewalls Keep Your Data Safe | unica 02 | [Read More](https://medium.com/p/5001b601f36b) |
+| Wed, 16 Jul 2025 03:20:45 GMT | Exploring the Best Cold Storage Wallet: ELLIPAL | Kobyabrams | [Read More](https://medium.com/p/8d25d5737bcf) |
+| Wed, 16 Jul 2025 03:09:56 GMT | How to Get Started with $DORK Crypto Claims: No Experience Needed | DORK | [Read More](https://medium.com/p/d40e5de82237) |
+| Wed, 16 Jul 2025 03:06:52 GMT | 5 Simple Ways to Keep Your Devices Secure Online | Innocent Anthony | [Read More](https://medium.com/p/558c765b1099) |
+| Wed, 16 Jul 2025 03:04:09 GMT | Spying Before Hacking — The sneaky start to Cybersecurity | Precious Lesley | [Read More](https://medium.com/p/c7c2e34ac12a) |
+| Wed, 16 Jul 2025 03:01:45 GMT | T1059 — Command and Scripting Interpreter — Atomic-RedTeam | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/306c02d77724) |
+| Wed, 16 Jul 2025 03:01:26 GMT | Too Small to Hack? The Myth That May Be Your Biggest Security Risk | GlobalSign | [Read More](https://medium.com/p/7b43abb2ee18) |
+| Wed, 16 Jul 2025 03:01:24 GMT | T1082 — System Information Discovery | MndelLa | [Read More](https://medium.com/p/906976e75338) |
+| Wed, 16 Jul 2025 02:59:43 GMT | SQL Injection to RCE in CMSV6 Fleet Platform — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/107194bd896a) |
+| Wed, 16 Jul 2025 02:57:12 GMT | Internship as Penetration Tester at PT FPT Metrodata Indonesia (FMI) | Bryan RB | [Read More](https://medium.com/p/03daf9b4869b) |
+| Wed, 16 Jul 2025 02:56:35 GMT | XSS via Google Maps | Akbar Kustirama | [Read More](https://medium.com/p/98a867479315) |
+| Wed, 16 Jul 2025 02:49:25 GMT | Why AI’s Brightest Innovation Might Be a Security Time Bomb | Cyber-AppSec | [Read More](https://medium.com/p/be8b8316fcbb) |
+| Wed, 16 Jul 2025 02:45:42 GMT | How I hacked my school’s website | Faav | [Read More](https://medium.com/p/79d3a7444714) |
+| Wed, 16 Jul 2025 02:41:40 GMT | Where Do I Even Start with Bug Bounties? Let’s Learn One Thing Today. | Alex Joyel Raj | [Read More](https://medium.com/p/3633ae407ce9) |
+| Wed, 16 Jul 2025 02:41:23 GMT | Brainpan 1 writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/7a72f4847e4b) |
+| Wed, 16 Jul 2025 02:35:57 GMT | Why I Stopped Hardcoding and Started Thinking Like a Cloud Engineer | Joseph Schambach | [Read More](https://medium.com/p/d6c90166690a) |
+| Wed, 16 Jul 2025 02:31:45 GMT | AI Detectives: Solving Cold Cases with Machine Learning | Matthew Jack | [Read More](https://medium.com/p/3d5b1d2fd776) |
+| Wed, 16 Jul 2025 02:28:00 GMT | Incognito Mode Isn’t What You Think | Rahul Mishra | [Read More](https://medium.com/p/9b7985c38868) |
+| Wed, 16 Jul 2025 02:14:22 GMT | Arm Memory Tagging Extension (MTE) on Android | Dhyan Sagar | [Read More](https://medium.com/p/ff45a161f014) |
+| Wed, 16 Jul 2025 02:14:21 GMT | Three Breaches In Three Weeks: A Wake Up Call For Enterprise Security | Nauman khan | [Read More](https://medium.com/p/c32a48ba1f3f) |
+| Wed, 16 Jul 2025 02:12:28 GMT | FFUF | Praharsha Kumar | [Read More](https://medium.com/p/b87ec438f99d) |
 | Wed, 16 Jul 2025 01:36:25 GMT | Building the Future of Developer Security: My Journey with Model Context Protocol (MCP) | Tanmay Bhattacharjee | [Read More](https://medium.com/p/65fb24ee64ff) |
 | Wed, 16 Jul 2025 01:35:17 GMT | How To Claim $BUG  Today | Bug | [Read More](https://medium.com/p/f461b8fa0803) |
 | Wed, 16 Jul 2025 01:29:56 GMT | DORK Announces Distribution Wave: Unlock DORK Today | DORK | [Read More](https://medium.com/p/aba8cedf9526) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 18:57:43 GMT | Firewalls Explained (Like I’m 5) | TechTales | [Read More](https://medium.com/p/b53f9b48ca6a) |
 | Tue, 15 Jul 2025 18:57:36 GMT | eJPT Zero to Hero: The Metasploit Framework CTF2 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/4dd9e342b1fa) |
 | Tue, 15 Jul 2025 18:55:24 GMT | HTTP Status Codes — Through the Eyes of a Hacker | Ali Gholami | [Read More](https://medium.com/p/c9f683194f65) |
-| Tue, 15 Jul 2025 18:48:50 GMT | Gemini Leaked a Security Code: A Full Breakdown of a Critical AI Privacy Breach | Yonathan Assefa | [Read More](https://medium.com/p/c1e215a503df) |
-| Tue, 15 Jul 2025 18:44:44 GMT | HTB CTF Write-ups | Devanshi Chavda | [Read More](https://medium.com/p/a1182c2036d4) |
-| Tue, 15 Jul 2025 18:43:32 GMT | ️Laravel Password History Validation | TechSolve Central | [Read More](https://medium.com/p/6059e7670e20) |
-| Tue, 15 Jul 2025 18:41:35 GMT | Hacked my neighbour’s Wi-Fi to take a world tour | ft_thirchu | [Read More](https://medium.com/p/a285d58f4836) |
-| Tue, 15 Jul 2025 18:28:45 GMT | I Didn’t Call Myself a Writer for Years | Amanur | [Read More](https://medium.com/p/b05704f201de) |
-| Tue, 15 Jul 2025 18:18:49 GMT | OSI, DNS, and Networking Protocols | MierafA | [Read More](https://medium.com/p/499c1da5d0b8) |
-| Tue, 15 Jul 2025 18:05:51 GMT | Grid Resilience or AI Ruin? The Unpriced Risks in the Compute-Cyber-Energy Nexus | Mind-Front | [Read More](https://medium.com/p/28621d68f36b) |
-| Tue, 15 Jul 2025 17:50:26 GMT | Public call for ON2IT to reassess its own information security practices | 0trust0day | [Read More](https://medium.com/p/ab1ee80515b9) |
-| Tue, 15 Jul 2025 17:49:38 GMT | Qui c’è spazio anche per te | Seraphina Twinstone | [Read More](https://medium.com/p/c67decd42010) |
-| Tue, 15 Jul 2025 17:43:35 GMT | My Top 10 Vulnerabilities | Vijaiya Prathap | [Read More](https://medium.com/p/565ce0fae871) |
-| Tue, 15 Jul 2025 17:34:22 GMT | Linux exploit development basics — Part 1 — Understanding Assembly | Darshan Naresh Naik | [Read More](https://medium.com/p/ae673e458c9c) |
-| Tue, 15 Jul 2025 17:32:57 GMT | Securing LLMs: A Penetration Tester’s Perspective on the 2025 OWASP Top 10 | Mark Puckett | [Read More](https://medium.com/p/13e262f05531) |
-| Tue, 15 Jul 2025 17:05:50 GMT | I Tried Prompt Injection Attacks on LLMs and Learned More Than I Expected | Samuel Dhamodharan | [Read More](https://medium.com/p/e7ae48adb136) |
-| Tue, 15 Jul 2025 16:59:39 GMT | 2FA That Knows Your Device | Aaryan Jha | [Read More](https://medium.com/p/522b423cdc17) |
-| Tue, 15 Jul 2025 16:55:59 GMT | Mastering the Terminal with Google’s Gemini CLI: A Game-Changer for Developers and Cybersecurity… | Brian Mora | [Read More](https://medium.com/p/73a70bddb33f) |
-| Tue, 15 Jul 2025 16:53:51 GMT | BlackPearl: CTF Walkthrough/Write-up | Vee Belgar | [Read More](https://medium.com/p/5782e087eff0) |
-| Tue, 15 Jul 2025 16:48:54 GMT | Understanding FAT32: The File System That Still Powers Modern Forensics | Thakur Ashutosh | [Read More](https://medium.com/p/f85aaf29871e) |
-| Tue, 15 Jul 2025 16:43:16 GMT | What is Networking and Why It Matters | CYber VIaz | [Read More](https://medium.com/p/4fc42184539a) |
-| Tue, 15 Jul 2025 16:37:38 GMT | The writer’s trifecta: cynicism, madness, and vulnerability | Syafina Patriani | [Read More](https://medium.com/p/76f466077cfd) |
-| Tue, 15 Jul 2025 16:29:25 GMT | Building an 8-bit computer in Logisim (Part 1— Register) | VxRabbit | [Read More](https://medium.com/p/80ee0e3d998c) |
-| Tue, 15 Jul 2025 16:28:24 GMT | Cybersecurity in the Age of LLMs: A Boon or a Bane? | Ms. Happy Jain | [Read More](https://medium.com/p/c90906877fff) |
-| Tue, 15 Jul 2025 16:24:23 GMT | Can I Haz Root? :: Lower6 | Cyber Grover ‍ | [Read More](https://medium.com/p/447575bac583) |
-| Tue, 15 Jul 2025 16:19:13 GMT | Conceal + AI Browsers | Conceal, Inc. | [Read More](https://medium.com/p/18281d22e1b3) |
-| Tue, 15 Jul 2025 16:17:16 GMT | HIPAA Doesn’t Protect You. It Protects Them. | 4rtos | [Read More](https://medium.com/p/5c3c2e36e72f) |
-| Tue, 15 Jul 2025 16:11:50 GMT | Pegasus Spyware Email Scam: Is That Really Your Boss or a Cyber Spy? | Akshay Chauhan | [Read More](https://medium.com/p/8904410b67e8) |
