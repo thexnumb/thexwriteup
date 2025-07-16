@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 20:25:00 GMT | Breaking Down MITRE ATT&CK for Beginners — The Framework That Changed How I See Threats | Rutuja Bendre | [Read More](https://medium.com/p/4a751f49d3f8) |
 | Wed, 16 Jul 2025 20:18:02 GMT | Hacking Tetris: The Game | Meghana | [Read More](https://medium.com/p/1f5d62d83672) |
 | Wed, 16 Jul 2025 20:17:14 GMT | Introducing Velociraptor MCP Server: Bringing DFIR and AI Together for Smarter Investigations | SOCFortress | [Read More](https://medium.com/p/a5545f347f49) |
 | Wed, 16 Jul 2025 20:12:12 GMT | The Anatomy of a Critical Bug | SIDDHANT SHUKLA | [Read More](https://medium.com/p/388329a1c55a) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 14:47:59 GMT | Transfer Crypto with $0 Fees Using CryptoXpress: Here’s How It Works | Akanimo Sampson david | [Read More](https://medium.com/p/9040f039c0a7) |
 | Wed, 16 Jul 2025 14:47:03 GMT | Technicity Chronicle: DDoS Attack Response Checklist | Faisal Khan | [Read More](https://medium.com/p/635e20d70404) |
 | Wed, 16 Jul 2025 14:45:03 GMT | What is CVE? A Beginner’s Guide with EternalBlue as an Example | Adrian Sajdak | [Read More](https://medium.com/p/2545818f3c41) |
-| Wed, 16 Jul 2025 14:44:19 GMT | الذكاء الاصطناعي يحول حياتنا اليومية | Rafik | [Read More](https://medium.com/p/44063c941c09) |
