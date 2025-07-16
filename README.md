@@ -12,9 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 07:21:57 GMT | Genomics and Information Technology: Decoding the Future of Healthcare | Poddar Group of Institutions | [Read More](https://medium.com/p/ae6a3f466d1a) |
+| Wed, 16 Jul 2025 07:20:29 GMT | When Your Hobby Involves Breaking Things (Legally)When Your Hobby Involves Breaking Things… | mUsHaRaF | [Read More](https://medium.com/p/c7bbd233d50d) |
+| Wed, 16 Jul 2025 07:19:26 GMT | Footprinting and Reconnaissance | Amogha KS | [Read More](https://medium.com/p/d51c09d06eaa) |
+| Wed, 16 Jul 2025 07:17:30 GMT | Optimize App Testing and Automation with a Phone Farm Box | Cxt Factory | [Read More](https://medium.com/p/9601b832ab55) |
+| Wed, 16 Jul 2025 07:16:30 GMT | DAY 6: Rocket Fuel | Akshatdwivedi | [Read More](https://medium.com/p/1420dd84cb0f) |
+| Wed, 16 Jul 2025 07:13:34 GMT | What is malware? | Kavithayeravothula | [Read More](https://medium.com/p/d0791d62fdab) |
+| Wed, 16 Jul 2025 07:10:58 GMT | Red Team vs. Blue Team: Beda Skill dan Tugasnya! | SUHU Professional Training and Consulting | [Read More](https://medium.com/p/7c074cb2a389) |
+| Wed, 16 Jul 2025 07:06:37 GMT | How SD-WAN Managed Services Enhance Multi-Branch Connectivity | IshanTechnologies | [Read More](https://medium.com/p/3171fc2f6969) |
+| Wed, 16 Jul 2025 07:05:38 GMT | Exploring the Growth and Future of Managed Security Services in Canada | Gargiben | [Read More](https://medium.com/p/7878c148676b) |
+| Wed, 16 Jul 2025 07:03:50 GMT | I Found a Telegram Bot Token in settings.js – Here's How You Can Too! | Levi Ackerman | [Read More](https://medium.com/p/f5ad8aee5944) |
+| Wed, 16 Jul 2025 07:03:00 GMT | No buscar subdominios, buscar valor: mi giro definitivo en el reconocimiento de Bug Bounty | Gorka | [Read More](https://medium.com/p/cce16f53c843) |
+| Wed, 16 Jul 2025 07:00:18 GMT | My 100-Day Journey in Data Science, Python, and Cybersecurity | Iqra Ghafoor | [Read More](https://medium.com/p/81f6e5d6dda5) |
+| Wed, 16 Jul 2025 06:57:33 GMT | Revolutionising Site Security with Real-Time Scheduling Technology | ICORP Security | [Read More](https://medium.com/p/cd1dfce54df3) |
+| Wed, 16 Jul 2025 06:55:30 GMT | Step-by-Step Guide to Resolving SafeLine WAF License Errors | Quella | [Read More](https://medium.com/p/859390a1d82d) |
+| Wed, 16 Jul 2025 06:48:56 GMT | RSA Key Analysis with wolfSSL | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/fdb02db10ad4) |
+| Wed, 16 Jul 2025 06:46:31 GMT | When Your Hobby Involves Breaking Things (Legally) | mUsHaRaF | [Read More](https://medium.com/p/5c65da19c7de) |
+| Wed, 16 Jul 2025 06:40:52 GMT | Creating Threat Modelling Assistant with AWS PartyRock | Ihor Sasovets | [Read More](https://medium.com/p/69edfc7130be) |
+| Wed, 16 Jul 2025 06:33:38 GMT | Secret variables, Docker build, CI/CD | Rao Talha | [Read More](https://medium.com/p/efa69a373b13) |
 | Wed, 16 Jul 2025 06:30:17 GMT | Outthink the Adversary: Why Mental Models Matter More Than Tools in Cybersecurity | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/8b94a2d0c1da) |
 | Wed, 16 Jul 2025 06:29:51 GMT | Boosting Data Center Security in Sultanate of Oman: Implementing Robust Access Control Systems | Tekhabeeb | [Read More](https://medium.com/p/9a9b2e348865) |
 | Wed, 16 Jul 2025 06:27:38 GMT | Ensuring Safety in a Rapidly Changing World: A Deep Dive into Security Services in India and Mumbai | Ciss India | [Read More](https://medium.com/p/f89ba4907b8f) |
+| Wed, 16 Jul 2025 06:26:51 GMT | New trilogy of large commercial LLM AI confidentiality and Integrity failure trend reports and… | Berend Watchus | [Read More](https://medium.com/p/3721a25a7f29) |
 | Wed, 16 Jul 2025 06:26:04 GMT | Cloud Infrastructure Security in 2025: Trends, Tools, and Threats | Serishahid | [Read More](https://medium.com/p/4ff74ad3ca12) |
 | Wed, 16 Jul 2025 06:25:27 GMT | Shuberg Philis — are you sure you’re capable of securing mission-critical operations? | 0trust0day | [Read More](https://medium.com/p/e2c2409d0058) |
 | Wed, 16 Jul 2025 06:24:02 GMT | Start Earning $LFI LunaFi Today and Explore New Crypto Opportunities | LunaFi | [Read More](https://medium.com/p/73f743472422) |
@@ -94,22 +113,3 @@ By Cyberscope- July 16, 2025 | Cyberscope | [Read More](https://medium.com/p/7ad
 | Wed, 16 Jul 2025 00:28:55 GMT | FileFix Attack Technique: How Threat Actors Turn File Explorer Into a Weapon | Trixia Horner | [Read More](https://medium.com/p/c70b5bfeedca) |
 | Wed, 16 Jul 2025 00:20:44 GMT | The Hidden Threat: How Job Board Scammers Are Infiltrating Corporate America | Anthony Conforti | [Read More](https://medium.com/p/bd77e3af3c29) |
 | Wed, 16 Jul 2025 00:14:03 GMT | Part 4: The Human Firewall — Phishing, Scams & Social Engineering | Ben San Roman | [Read More](https://medium.com/p/bd3cf019b973) |
-| Wed, 16 Jul 2025 00:01:46 GMT | Injection: Complete Guide to Hacking, Bug Bounty, and Prevention | JPablo13 | [Read More](https://medium.com/p/e47e978d219d) |
-| Tue, 15 Jul 2025 23:48:03 GMT | CVE Record Dispute Policy Updated | CVE Program Blog | [Read More](https://medium.com/p/3e69149d1871) |
-| Tue, 15 Jul 2025 23:44:47 GMT | DORK Announces Token Giveaway: Claim DORK Today | DORK | [Read More](https://medium.com/p/6548eff82e95) |
-| Tue, 15 Jul 2025 23:42:54 GMT | ️ Guia Prático de Hardening para VMware — Parte 1 | Gabriel Varisco Oliveira | [Read More](https://medium.com/p/f1bb08f5a1a7) |
-| Tue, 15 Jul 2025 23:31:50 GMT | Palo Alto Networks VM Series: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d51b2334cbee) |
-| Tue, 15 Jul 2025 23:17:20 GMT | The Crime Lab by CyberDefenders | Ahmedelshoura | [Read More](https://medium.com/p/805c767ec6a2) |
-| Tue, 15 Jul 2025 23:13:45 GMT | 5 Simple Cyber Hygiene Rules Everyone Should Know | Badenskova | [Read More](https://medium.com/p/42e087bbf234) |
-| Tue, 15 Jul 2025 23:11:30 GMT | Droser Network: Reinventing Smart Contract Automation on Ethereum | Ante Mfon David | [Read More](https://medium.com/p/d4385dea97ee) |
-| Tue, 15 Jul 2025 23:07:47 GMT | Meta Fixes Bug That Could Let Users See Each Other’s AI Chats | MindMemoirs | [Read More](https://medium.com/p/292069bcd7c1) |
-| Tue, 15 Jul 2025 23:00:25 GMT | Google’s AI ‘Big Sleep’ Stops Cyberattack Before It Happens, Says CEO Sundar Pichai | MindMemoirs | [Read More](https://medium.com/p/2ddf2551de97) |
-| Tue, 15 Jul 2025 22:55:08 GMT | Attacking Agentic AI — Abusing Insecure Function Calls to Break Output Handling. | Amit Nigam | [Read More](https://medium.com/p/cda2c2771454) |
-| Tue, 15 Jul 2025 22:55:02 GMT | Beware of Suspicious Technical Assessments! | Vignesh | [Read More](https://medium.com/p/17418fc16fdc) |
-| Tue, 15 Jul 2025 22:37:48 GMT | How i found my first 3 bugs in public program in bugcrowd | sudo_a7med | [Read More](https://medium.com/p/9264b8278d3e) |
-| Tue, 15 Jul 2025 22:26:59 GMT | Mindset Over Tools: A Tactical Guide for CTFs and Hands-On Security Certifications | Spiros Pitikaris @cmpspiti | [Read More](https://medium.com/p/a6daba361177) |
-| Tue, 15 Jul 2025 22:22:25 GMT | AI Just Learned to Hack Microsoft Defender (And It’s Only Getting Started) | Brendan Smith | [Read More](https://medium.com/p/38ff8378aaf4) |
-| Tue, 15 Jul 2025 22:17:10 GMT | Secure API Gateway Configuration for Microservices | Karthikeyan Nagaraj | [Read More](https://medium.com/p/880eafb48568) |
-| Tue, 15 Jul 2025 22:12:14 GMT | Exploiting Misconfigurations in Active Directory | Mike Anthony | [Read More](https://medium.com/p/4273149e0c4c) |
-| Tue, 15 Jul 2025 22:11:41 GMT | Dog — Hackthebox Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/076562be58c4) |
-| Tue, 15 Jul 2025 22:11:19 GMT | PortSwigger Lab: Username Enumeration via Different Responses | 0xM4ZiX | [Read More](https://medium.com/p/3720eaf61e82) |
