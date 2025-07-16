@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 19:14:33 GMT | TryHackMe Room Walkthrough: Billing | Aditya Bhatt | [Read More](https://medium.com/p/7bda353eac51) |
+| Wed, 16 Jul 2025 19:09:34 GMT | Thick Client Application Penetration Testing: A Complete Phase-Wise Methodology with Tools &… | ArunKumarBalivada | [Read More](https://medium.com/p/330cfc44cbc8) |
+| Wed, 16 Jul 2025 19:09:27 GMT | L2 MAC Flooding & ARP Spoofing - TryHackMe walkthrough | Collins.K | [Read More](https://medium.com/p/fe0dff60e23c) |
+| Wed, 16 Jul 2025 19:06:16 GMT | Retracted —  TryHackMe Write Up | Tyreik Faulks | [Read More](https://medium.com/p/16f071f76aa3) |
+| Wed, 16 Jul 2025 19:05:41 GMT | MQTT Protokolü ve Mosquitto Kullanımı | Yahya İlhan Cengiz | [Read More](https://medium.com/p/8da8acc58f08) |
+| Wed, 16 Jul 2025 19:04:52 GMT | Rules, Rules Everywhere: Why Signature-Based Detection Falls Short Against AI Threats | Eric Zietlow | [Read More](https://medium.com/p/6bce79f7e974) |
+| Wed, 16 Jul 2025 19:01:21 GMT | When the Code Breaks and Your Brain Does Too — How Devs Emotionally Handle Bugs | The Blog Stacker - Tech Writer✨ | [Read More](https://medium.com/p/cfd665685393) |
+| Wed, 16 Jul 2025 19:01:07 GMT | TryHackMe Ghizer — Walkthrough | mauzware | [Read More](https://medium.com/p/fe1aca6123e2) |
+| Wed, 16 Jul 2025 18:51:43 GMT | Anti-Kidnapping Kit | Officer's Notes | [Read More](https://medium.com/p/27d17af2858a) |
+| Wed, 16 Jul 2025 18:33:22 GMT | Gain Your Share of Bugs Bunny's Launch Bonus and Enjoy top-tier returns | Bugs Bunny | [Read More](https://medium.com/p/75caa95ae8b5) |
+| Wed, 16 Jul 2025 18:32:57 GMT | Tryhackme - Defending Adversarial Attacks - Writeup Hardening ML Models | Mukund | [Read More](https://medium.com/p/64308ae84937) |
+| Wed, 16 Jul 2025 18:23:45 GMT | I Shifted Security Left in DevOps And Caught a Major Breach Just Before Launch (The SQL Injection… | AbdulRahman Mostafa | [Read More](https://medium.com/p/1cee5baf6ba0) |
 | Wed, 16 Jul 2025 18:19:05 GMT | Imperfect | Strawberry Fire | [Read More](https://medium.com/p/8d63605f164a) |
 | Wed, 16 Jul 2025 18:18:19 GMT | Broken Access Control--IDOR--Insecure Direct Object Refference--Test cases--Portswigger--Interview… | Muhammadhuzaifa | [Read More](https://medium.com/p/0d648ca79de1) |
 | Wed, 16 Jul 2025 18:15:07 GMT | Honor X6c Price in Bangladesh 2025: এত কম দামে এত কিছু! | Juger Alo | [Read More](https://medium.com/p/bcd232189169) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 14:19:19 GMT | Online Safety & Cybercrimes: Navigating Nigeria’s Cybersecurity Compliance And Safety Laws | Olisa Agbakoba Legal (OAL) | [Read More](https://medium.com/p/f9da24d332ed) |
 | Wed, 16 Jul 2025 14:17:49 GMT | SOCFortres5: Google AI “Big Sleep” Thwarts Exploitation of Critical SQLite Vulnerability Before… | Darshan | [Read More](https://medium.com/p/231464c5db44) |
 | Wed, 16 Jul 2025 14:16:01 GMT | How Check Point Harmony Defends Your Digital Inbox in the Age of AI Threats | Vays Infotech | [Read More](https://medium.com/p/5cad95a3c63e) |
-| Wed, 16 Jul 2025 14:10:36 GMT | Zero Trust Model Explained: Why Trust is No Longer the Default in Cybersecurity | NineTales | [Read More](https://medium.com/p/cbdc04420e56) |
-| Wed, 16 Jul 2025 14:02:25 GMT | Cyber Briefing: 2025.07.16 | CyberMaterial | [Read More](https://medium.com/p/75d8238afcf7) |
-| Wed, 16 Jul 2025 14:02:07 GMT | Building a Basic Home SOC Lab for Threat Detection and Analysis | Levent Karaagac | [Read More](https://medium.com/p/c6b553365722) |
-| Wed, 16 Jul 2025 14:01:26 GMT | Cloud vs. In-House Servers for the Public Sector: Evaluating Security, Cost, and Scalability | PCnet | [Read More](https://medium.com/p/0fcfdd4db201) |
-| Wed, 16 Jul 2025 13:59:49 GMT | AWS Client VPN with Mutual Authentication (Certificate-Based Login) | Carlos Biagolini-Jr. | [Read More](https://medium.com/p/c7f3f1e8ff29) |
-| Wed, 16 Jul 2025 13:59:40 GMT | YOUR PASSWORD WON’T SAVE YOU: | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/cce98a036dec) |
-| Wed, 16 Jul 2025 13:54:17 GMT | A Threat of Email Spoofing to Business Owners & How to Protect Yourself | Usama Sarwar | [Read More](https://medium.com/p/26819ec1bd0d) |
-| Wed, 16 Jul 2025 13:51:07 GMT | Chapter 1 — The Birth of AI: From Myth to Machine | Yash Nandvana | [Read More](https://medium.com/p/35c7bb7cadf5) |
-| Wed, 16 Jul 2025 13:50:36 GMT | Bug Bounties, Broken Promises | Andrei Ivan | [Read More](https://medium.com/p/a19557db0aaa) |
-| Wed, 16 Jul 2025 13:39:51 GMT | 5 Best API Security Testing Tools for Developers | Sam Bishop | [Read More](https://medium.com/p/7df3c8833b25) |
-| Wed, 16 Jul 2025 13:38:44 GMT | Strategic Security: Top 5 Anti‑Phishing Solutions for Business Leaders in 2025. | Ranjan Yadav | [Read More](https://medium.com/p/0b1476149d73) |
-| Wed, 16 Jul 2025 13:32:24 GMT | Cybersecurity Basics You Can’t Skip: Authentication, Authorization & More… | NineTales | [Read More](https://medium.com/p/4c8cad749677) |
