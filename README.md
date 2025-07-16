@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 22:19:51 GMT | From MagnusBilling RCE to Root: Chaining CVE-2023–30258 with Fail2Ban Privilege Escalation | Sarthak | [Read More](https://medium.com/p/d0037628ed46) |
+| Wed, 16 Jul 2025 22:13:05 GMT | OSINT —  Tools and Techniques Every Hacker Should Know | SAMAEL 0x4 | [Read More](https://medium.com/p/1786caaf3ac1) |
+| Wed, 16 Jul 2025 22:07:38 GMT | Someone IS Watching You at the Checkout! | ɌƋƑ•TECH | [Read More](https://medium.com/p/6caf896f900b) |
+| Wed, 16 Jul 2025 22:03:27 GMT | The Digital Ghost and His Megaphone: An Analytical Report on Alberto Daniel Hill and the… | ADanielHill | [Read More](https://medium.com/p/969ff673e876) |
+| Wed, 16 Jul 2025 22:00:59 GMT | Apex Domain Bruteforcing for Wide Recon | sepix | [Read More](https://medium.com/p/d5460bc1b5b1) |
+| Wed, 16 Jul 2025 21:44:48 GMT | Zeus Virus: The Cyber Trojan That Robbed Banks and Vanished Like a Ghost | Akshay Chauhan | [Read More](https://medium.com/p/b790a904b1d9) |
+| Wed, 16 Jul 2025 21:40:47 GMT | TryHackMe — OWASP ZAP | SAMAEL 0x4 | [Read More](https://medium.com/p/75611065244f) |
 | Wed, 16 Jul 2025 21:35:44 GMT | The Trojan Telegram: A Technical Look at Gh0stRAT’s Deceptive Tactics | Pratik Gurav | [Read More](https://medium.com/p/839415bdd517) |
 | Wed, 16 Jul 2025 21:27:00 GMT | Leave ’Em On Read: GitHub Issue Comment Injection | grepStrength | [Read More](https://medium.com/p/3a0850574bb0) |
 | Wed, 16 Jul 2025 21:20:07 GMT | Shell Overview TryHackMe Practical Task Walkthrough. | N4rn!4n_142 | [Read More](https://medium.com/p/2dd93b604c6a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 15:26:12 GMT | From Cyber to Cloud: Tackling AWS CCP Modules 5–7 – Networking in the Trenches | Ste Caddy | [Read More](https://medium.com/p/ce30e8b57e3e) |
 | Wed, 16 Jul 2025 15:21:14 GMT | How I Used SSRF to Gain Admin Access: Step-by-Step with Payloads | Vipul Sonule | [Read More](https://medium.com/p/6717457a125a) |
 | Wed, 16 Jul 2025 15:21:08 GMT | Recon to Master: The Complete Bug Bounty Checklist | coffinxp | [Read More](https://medium.com/p/95b80ea55ff0) |
-| Wed, 16 Jul 2025 15:13:44 GMT | SQL Injection in hidden Contact Form Parameter | Anonymousshetty | [Read More](https://medium.com/p/660bd1281491) |
-| Wed, 16 Jul 2025 15:13:27 GMT | The Rise of Local-First & Offline-First Apps: Redefining Digital Experiences | DIGITAL Marketing | [Read More](https://medium.com/p/47a8d3f36484) |
-| Wed, 16 Jul 2025 15:06:20 GMT | Why Zero-Fee Transfers with CryptoXpress Are Changing the Game for Crypto Users in India | Devbradon | [Read More](https://medium.com/p/c67c8d5e1617) |
-| Wed, 16 Jul 2025 15:05:49 GMT | How AI Is Transforming Education: The Rise of Personalized Tutoring & Adaptive Learning Tools | Payaam Raza | [Read More](https://medium.com/p/38e23bccc3cd) |
-| Wed, 16 Jul 2025 15:05:02 GMT | How I Turned My AWS Audit Logs into a Searchable Database with CloudTrail Lake | AashishChaudhari | [Read More](https://medium.com/p/15d37f97b31c) |
-| Wed, 16 Jul 2025 15:02:53 GMT | How I Cooked My Laptop’ CPU While Making an Android App | Deepak Painkra | [Read More](https://medium.com/p/2130a89f4f89) |
-| Wed, 16 Jul 2025 15:01:24 GMT | Executive Phishing & Impersonation: What OSINT Can Prevent | Ingvar Pavlovich | [Read More](https://medium.com/p/837c5d6c7ec9) |
