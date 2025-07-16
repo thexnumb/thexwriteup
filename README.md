@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 05:14:48 GMT | Guardians of the Network: How Signature and Behavioral Analysis Strengthen Modern IDPS | Rahul Balaskandan | [Read More](https://medium.com/p/0250ce8ed738) |
+| Wed, 16 Jul 2025 05:12:55 GMT | The Forgotten Dev Endpoints That Still Exist in Production | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6cc918a0339d) |
+| Wed, 16 Jul 2025 05:12:24 GMT | Unintended Consequences: How a ‘Cancel’ Button Gave Me Full Access | Narendar Battula (nArEn) | [Read More](https://medium.com/p/375c795ed59c) |
+| Wed, 16 Jul 2025 05:11:45 GMT | Favicon Hashing: How I Fingerprinted 1000s of Exposed Panels in Minutes | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bbeb5bf47a17) |
+| Wed, 16 Jul 2025 05:06:57 GMT | Set tmpfs for fluentd deployment: PSS and PSA related implementation | Zs Robert | [Read More](https://medium.com/p/40ead331e047) |
+| Wed, 16 Jul 2025 05:05:45 GMT | Kickstart Your Cybersecurity Career: A Practical Guide for Students | Sreevalsan | [Read More](https://medium.com/p/889c0bcc557c) |
+| Wed, 16 Jul 2025 05:00:50 GMT | Leveraging Wazuh for Compliance with Bank Indonesia and OJK Cybersecurity Regulation (Part 1) | Ismail Hakim | [Read More](https://medium.com/p/2e6fd3b0a780) |
+| Wed, 16 Jul 2025 04:58:50 GMT | The Unusual Suspect: How Exposed Git Repositories Become Silent Cyber Threats | CyDhaal | [Read More](https://medium.com/p/032bda0ab6a3) |
+| Wed, 16 Jul 2025 04:57:23 GMT | How AI Changes the Job Market: Opportunities, Risks, and Adaptation | Fitri Putri Lestari | [Read More](https://medium.com/p/e63de73078f9) |
+| Wed, 16 Jul 2025 04:52:15 GMT | What is JWT? - JSON Web Token Explained for Beginners | Rasintha Dilshan Jayarathne | [Read More](https://medium.com/p/19a4742d5d9e) |
+| Wed, 16 Jul 2025 04:50:30 GMT | Multiple Vulnerabilities at Indiana University | AbhirupKonwar | [Read More](https://medium.com/p/4c324afe6bbf) |
+| Wed, 16 Jul 2025 04:34:19 GMT | TryHackMe Advent Of Cyber 2 (Part 2) [Day 9 to Day 16] Walkthrough | Khyati Shivakumar | [Read More](https://medium.com/p/6e6eab92e6c4) |
 | Wed, 16 Jul 2025 04:18:55 GMT | 31 Million Exposed: What the Internet Archive Hack Reveals About Modern Digital Risk | Silent Boardroom | [Read More](https://medium.com/p/9c3d2f047a93) |
 | Wed, 16 Jul 2025 04:17:47 GMT | User ID controlled by request parameter with password disclosure [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/07e8832063d0) |
 | Wed, 16 Jul 2025 04:17:25 GMT | Curvance Announces Reward Cascade: Bag CVE Today | Curvance | [Read More](https://medium.com/p/362e36bd7884) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 19:53:59 GMT | The Ontology of Policy in an Age of Digital Transformation | Above The Firewall | [Read More](https://medium.com/p/b773f51b678a) |
 | Tue, 15 Jul 2025 19:53:10 GMT | Integrating FortiGate Logs with Wazuh | Neetrox | [Read More](https://medium.com/p/d689e442971e) |
 | Tue, 15 Jul 2025 19:52:01 GMT | Tricks of Prompt Injection | restdone | [Read More](https://medium.com/p/bd3887501ffd) |
-| Tue, 15 Jul 2025 19:39:12 GMT | 25000$ From Login Bypassed & MFA Using a Race Condition + JWT Leak | Minio Haxer | [Read More](https://medium.com/p/6139fcc22573) |
-| Tue, 15 Jul 2025 19:37:41 GMT | Humans in Cybersecurity: The Vulnerability, the Threat… and the Defense. | Gitika Babbar | [Read More](https://medium.com/p/220c6d1cfe90) |
-| Tue, 15 Jul 2025 19:36:39 GMT | Chrome Extensions Are Turning Your Browser Into a Botnet: Here’s How 1M Users Got Hijacked | Aaron | [Read More](https://medium.com/p/e2cbcb1a64e3) |
-| Tue, 15 Jul 2025 19:22:30 GMT | Digital Forensics and Incident Response: The Key to Effective Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/af58ba73d644) |
-| Tue, 15 Jul 2025 19:21:35 GMT | SOAR-EDRPROJECT PART 1 | rkn | [Read More](https://medium.com/p/4c3eead10090) |
-| Tue, 15 Jul 2025 19:15:38 GMT | Modular ML Model Signing and Attestation Service | Sachin Sampras M | [Read More](https://medium.com/p/dff46280f54d) |
-| Tue, 15 Jul 2025 19:15:35 GMT | BSCP Guide: How to Prepare for the Burp Suite Certified Practitioner Exam (2025) | Karol Czubernat | [Read More](https://medium.com/p/63a212cb671e) |
-| Tue, 15 Jul 2025 19:15:20 GMT | Credential Stuffing: Easy Bug Bounty Wins | Kalariya Het | [Read More](https://medium.com/p/253ed0a6d8ad) |
-| Tue, 15 Jul 2025 19:14:47 GMT | Xbow AI and the Evolution of Red Teaming | Shaheer Yasir | [Read More](https://medium.com/p/7f85511b2921) |
-| Tue, 15 Jul 2025 19:12:13 GMT | Unveiling the Threat of Pegasus Spyware Email Scams | SafeAeon Inc. | [Read More](https://medium.com/p/cd8044a25d66) |
-| Tue, 15 Jul 2025 19:11:58 GMT | “Your Code is Now a Security Threat”: Why AI-Generated Code is Quietly Becoming the Next Cyber… | Dr Dot Net | [Read More](https://medium.com/p/50d1550b9088) |
-| Tue, 15 Jul 2025 19:11:42 GMT | Some Days I Feel So Dumb | Shalini Jayaprakash | [Read More](https://medium.com/p/966d553a14b7) |
