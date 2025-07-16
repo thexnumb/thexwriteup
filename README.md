@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 21:35:44 GMT | The Trojan Telegram: A Technical Look at Gh0stRAT’s Deceptive Tactics | Pratik Gurav | [Read More](https://medium.com/p/839415bdd517) |
+| Wed, 16 Jul 2025 21:27:00 GMT | Leave ’Em On Read: GitHub Issue Comment Injection | grepStrength | [Read More](https://medium.com/p/3a0850574bb0) |
+| Wed, 16 Jul 2025 21:20:07 GMT | Shell Overview TryHackMe Practical Task Walkthrough. | N4rn!4n_142 | [Read More](https://medium.com/p/2dd93b604c6a) |
 | Wed, 16 Jul 2025 21:05:52 GMT | AvePoint Cloud Backup: Strengthen & Secure Your Salesforce Data | Kevinasutton | [Read More](https://medium.com/p/dcd242532d31) |
 | Wed, 16 Jul 2025 21:01:58 GMT | Hackviser — Next.js Middleware Authorization Bypass (CVE-2025–29927) Write-Up! | Dogukan İSPİRLİ | [Read More](https://medium.com/p/7a8c07f87eec) |
 | Wed, 16 Jul 2025 20:52:14 GMT | The Compliance Paradox: Why Perfect Compliance is Your Biggest Security Risk | Maciej Litwiniuk | [Read More](https://medium.com/p/7b475cd946e0) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 15:05:02 GMT | How I Turned My AWS Audit Logs into a Searchable Database with CloudTrail Lake | AashishChaudhari | [Read More](https://medium.com/p/15d37f97b31c) |
 | Wed, 16 Jul 2025 15:02:53 GMT | How I Cooked My Laptop’ CPU While Making an Android App | Deepak Painkra | [Read More](https://medium.com/p/2130a89f4f89) |
 | Wed, 16 Jul 2025 15:01:24 GMT | Executive Phishing & Impersonation: What OSINT Can Prevent | Ingvar Pavlovich | [Read More](https://medium.com/p/837c5d6c7ec9) |
-| Wed, 16 Jul 2025 14:59:52 GMT | Authentication in React Native | Alperenkabadayi | [Read More](https://medium.com/p/cd875454975a) |
-| Wed, 16 Jul 2025 14:56:10 GMT | Stolen Mount: TryHackMe Forensics Challenge Writeup | Aravind S V | [Read More](https://medium.com/p/08ad7ef0156f) |
-| Wed, 16 Jul 2025 14:53:44 GMT | How to Work With HOA Fence Rules — Not Against Them | Amanda Campbell | [Read More](https://medium.com/p/be382df51f88) |
