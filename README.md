@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 16:17:53 GMT | HELO4D Login 2025 — Tutorial Lengkap Daftar, Verifikasi & Anti-Phishing | Helo4d Login | [Read More](https://medium.com/p/374b74fa10b0) |
+| Wed, 16 Jul 2025 16:16:58 GMT | Integrating Netskope SSE with CrowdStrike Next-Gen SIEM Using Cribl | Kaviarasan Asokan | [Read More](https://medium.com/p/bed8e66b3b21) |
+| Wed, 16 Jul 2025 16:12:57 GMT | The Fastest Way to Buy Bitcoin with a Mobile App in India: Why CryptoXpress Stands Out | Ufanabasi Ekong | [Read More](https://medium.com/p/4a70b6d6c77a) |
+| Wed, 16 Jul 2025 16:12:50 GMT | Cybersecurity Mirrors Your Home’s Plumbing for a Secure Future | Einstein Pros | [Read More](https://medium.com/p/4efbc5afda32) |
+| Wed, 16 Jul 2025 16:10:50 GMT | Hackthebox CBBH Çözümleri: “Server Side Attacks — Skills Assesment” Çözümü | noobcoder | [Read More](https://medium.com/p/d6b50c897556) |
+| Wed, 16 Jul 2025 16:05:36 GMT | Connecting Tomorrow: The Leap from 4G to 5G Networks | MadhavNair_312 | [Read More](https://medium.com/p/ccdf443f0d38) |
+| Wed, 16 Jul 2025 16:03:04 GMT | Ep. 546 Hugh Njemanze - Threat Intelligence and AI in Security Operations with Anomali | Brandon Zemp | [Read More](https://medium.com/p/fdf855096e9e) |
+| Wed, 16 Jul 2025 15:59:40 GMT | Thread Pool Timer Process Injection | Andrea Bocchetti | [Read More](https://medium.com/p/1eac206b4772) |
+| Wed, 16 Jul 2025 15:59:17 GMT | Hack Smarter: Automate Security Testing with LLMs and the CAI Framework | Cristóbal V | [Read More](https://medium.com/p/fea6e61c1400) |
+| Wed, 16 Jul 2025 15:48:04 GMT | When Your Grief Helps Someone Else Breathe! | Tawakalitu Lasisi | [Read More](https://medium.com/p/5628916d9921) |
+| Wed, 16 Jul 2025 15:45:08 GMT | The Smart Home of 2025: Seamless Automation and Ambient Intelligence | Xaltius | [Read More](https://medium.com/p/f5c7c8f7af99) |
+| Wed, 16 Jul 2025 15:42:23 GMT | Is America Ready To Survive Nuclear | The DEFCON Warning System | [Read More](https://medium.com/p/ec4b448f62e0) |
+| Wed, 16 Jul 2025 15:41:32 GMT | I’m a Good and Bad Developer at the Same Time | Piyush zala | [Read More](https://medium.com/p/d91aaa034f09) |
 | Wed, 16 Jul 2025 15:38:34 GMT | PYSCHOLOGY HELP | Lucky | [Read More](https://medium.com/p/475f6c097fe6) |
 | Wed, 16 Jul 2025 15:33:03 GMT | How I Found 100+ Vulnerabilities Using Just Recon | Ibtissam hammadi | [Read More](https://medium.com/p/81133da385d3) |
 | Wed, 16 Jul 2025 15:32:33 GMT | OSCP vs PNPT — how to ace both easily 101 | kpawlo | [Read More](https://medium.com/p/1a79a4caa8c8) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 11:38:06 GMT | What is Penetration Testing? And Why You Shouldn’t Ignore It in 2025 | Cybersecurity Umbrella | [Read More](https://medium.com/p/ada8c26d7186) |
 | Wed, 16 Jul 2025 11:37:48 GMT | Installing Pfsense Firewall on VirtualBox | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/56f79d7b9bbd) |
 | Wed, 16 Jul 2025 11:36:41 GMT | Everything You Need to Know About Cybersecurity Technical Writers | Essential Data Corporations | [Read More](https://medium.com/p/e535267ef006) |
-| Wed, 16 Jul 2025 11:32:56 GMT | Email Security Pt 3/3: What is DMARC? | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/da27ce4f2fa3) |
-| Wed, 16 Jul 2025 11:30:47 GMT | When Amplification Becomes Sabotage | Gabriele Geza Gobbo | [Read More](https://medium.com/p/d01787898147) |
-| Wed, 16 Jul 2025 11:26:58 GMT | The Call Is Coming From Inside the House: A Beginner’s Guide to Spotting Insider Threats | eRRoR | [Read More](https://medium.com/p/9b31f5c15cc5) |
-| Wed, 16 Jul 2025 11:25:41 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/15f195583357) |
-| Wed, 16 Jul 2025 11:22:03 GMT | How India’s AI Mission IT Infrastructure Fuels Global AI Ambitions | Nishaverma | [Read More](https://medium.com/p/60f4630eb5e4) |
-| Wed, 16 Jul 2025 11:20:29 GMT | What are hybrid SOC services exactly? | Ziya Zoe | [Read More](https://medium.com/p/2b0fe856bf56) |
-| Wed, 16 Jul 2025 11:18:56 GMT | From PSD to SPA: Simplifying Modern Web Conversions | Ketan Patel | [Read More](https://medium.com/p/429797e12618) |
-| Wed, 16 Jul 2025 11:17:54 GMT | What Is Penetration Testing and Why Your Business Needs It | Sofia Murphy | [Read More](https://medium.com/p/2e8912d236a8) |
-| Wed, 16 Jul 2025 11:16:56 GMT | CyberX Redefines IT in UAE | Tekhabeeb | [Read More](https://medium.com/p/985264f545f3) |
-| Wed, 16 Jul 2025 11:13:48 GMT | TryHackMe AI/ML Security Threats Walkthrough WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/04abd3f717ca) |
-| Wed, 16 Jul 2025 11:10:16 GMT | HackTheBox Dog Writeup - OSCP/CPTS Prep | Motasem Hamdan | [Read More](https://medium.com/p/09c9a6db48ff) |
-| Wed, 16 Jul 2025 11:09:57 GMT | $1,180 in One Week from Bug Bounties: My Step-by-Step Breakdown (As a beginner) | Rashadul Islam | [Read More](https://medium.com/p/f4175a50dcfe) |
-| Wed, 16 Jul 2025 11:09:07 GMT | ️ How I Secured My Personal Website from Bots, Spam & Scraping (Without Breaking the Bank) | Aayush Patel | [Read More](https://medium.com/p/d5a5ba6f00bd) |
