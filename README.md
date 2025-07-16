@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 04:18:55 GMT | 31 Million Exposed: What the Internet Archive Hack Reveals About Modern Digital Risk | Silent Boardroom | [Read More](https://medium.com/p/9c3d2f047a93) |
+| Wed, 16 Jul 2025 04:17:47 GMT | User ID controlled by request parameter with password disclosure [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/07e8832063d0) |
+| Wed, 16 Jul 2025 04:17:25 GMT | Curvance Announces Reward Cascade: Bag CVE Today | Curvance | [Read More](https://medium.com/p/362e36bd7884) |
+| Wed, 16 Jul 2025 04:13:45 GMT | An AI strategy for the short and long term | Sonia Randhawa | [Read More](https://medium.com/p/6803eea38ba8) |
+| Wed, 16 Jul 2025 03:58:30 GMT | CRISPR Just Cured Sickle Cell — So Why Can’t Everyone Have It? | The Prophet Aaron Vessel the Christ Consciousness | [Read More](https://medium.com/p/ff05e005a7a0) |
+| Wed, 16 Jul 2025 03:51:46 GMT | Digital Marketing Insights & Growth Strategies | Evelynharper | [Read More](https://medium.com/p/0b827589f62e) |
+| Wed, 16 Jul 2025 03:50:29 GMT | Top Sources of Information for Technology in 2025: Stay Ahead of the Curve | Business Pro Tech | [Read More](https://medium.com/p/02b2e0ac8ab8) |
 | Wed, 16 Jul 2025 03:31:18 GMT | The GRC of AI: Ethical and Compliance Minefield of Artificial Intelligence | Gurpreet Singh | [Read More](https://medium.com/p/ea916af68754) |
 | Wed, 16 Jul 2025 03:29:31 GMT | Drosera Network: Giving Ethereum an Immune System. | H | [Read More](https://medium.com/p/e5667fef6d17) |
 | Wed, 16 Jul 2025 03:26:27 GMT | ️ The Encryption You Think You Have vs. The One You Actually Use | Mir Sarfarajey Akram | [Read More](https://medium.com/p/b1a961c5e4cd) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 15 Jul 2025 19:12:13 GMT | Unveiling the Threat of Pegasus Spyware Email Scams | SafeAeon Inc. | [Read More](https://medium.com/p/cd8044a25d66) |
 | Tue, 15 Jul 2025 19:11:58 GMT | “Your Code is Now a Security Threat”: Why AI-Generated Code is Quietly Becoming the Next Cyber… | Dr Dot Net | [Read More](https://medium.com/p/50d1550b9088) |
 | Tue, 15 Jul 2025 19:11:42 GMT | Some Days I Feel So Dumb | Shalini Jayaprakash | [Read More](https://medium.com/p/966d553a14b7) |
-| Tue, 15 Jul 2025 19:08:11 GMT | ️ They’re Watching You: How Your Data Is Being Stolen (and How to Fight Back) | Ghost_Script | [Read More](https://medium.com/p/81875b682678) |
-| Tue, 15 Jul 2025 19:07:57 GMT | S3 Misconfig Leaks Millions in 15 Min | Kalariya Het | [Read More](https://medium.com/p/a3cd61c8f85a) |
-| Tue, 15 Jul 2025 18:59:20 GMT | Series 4: Security in the Age of AI: Building Fast, Building Safe | Jaz Lin | [Read More](https://medium.com/p/8c3c04d7457d) |
-| Tue, 15 Jul 2025 18:57:57 GMT | ZoomEye Dorking - JSON Endpoints | AbhirupKonwar | [Read More](https://medium.com/p/2f4c56b74c97) |
-| Tue, 15 Jul 2025 18:57:43 GMT | Firewalls Explained (Like I’m 5) | TechTales | [Read More](https://medium.com/p/b53f9b48ca6a) |
-| Tue, 15 Jul 2025 18:57:36 GMT | eJPT Zero to Hero: The Metasploit Framework CTF2 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/4dd9e342b1fa) |
-| Tue, 15 Jul 2025 18:55:24 GMT | HTTP Status Codes — Through the Eyes of a Hacker | Ali Gholami | [Read More](https://medium.com/p/c9f683194f65) |
