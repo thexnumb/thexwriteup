@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 17:12:17 GMT | Claim $BUGS tokens by Bugs Bunny with This Crypto Guide within Minutes | Bugs Bunny | [Read More](https://medium.com/p/87a078806abf) |
+| Wed, 16 Jul 2025 17:01:40 GMT | What Qualifies as a Script Change Under PCI DSS 11.6.1 — and How to Detect It | Feroot Security | [Read More](https://medium.com/p/aa688597a0a2) |
+| Wed, 16 Jul 2025 16:58:50 GMT | Masih pakai Codiad? Editor to Exploits | Fndy | [Read More](https://medium.com/p/7c79ba79b455) |
+| Wed, 16 Jul 2025 16:58:24 GMT | ScriptDissection: Slice, Analyze, and Secure Your Code | Andre Collier | [Read More](https://medium.com/p/ab612df76b87) |
+| Wed, 16 Jul 2025 16:57:56 GMT | Top Home Security Systems in Manhattan, NY - SafeZone NYC | Exploring security solutions | [Read More](https://medium.com/p/594f95ee8fb0) |
+| Wed, 16 Jul 2025 16:52:40 GMT | How to Monitor Someone’s Instagram: Top Spy Apps Reviewed | Narjis Batool | [Read More](https://medium.com/p/399f50ea4f36) |
+| Wed, 16 Jul 2025 16:52:10 GMT | Anti-Phishing Best Practices Every Business Should Follow | SafeAeon Inc. | [Read More](https://medium.com/p/8d2741053a0f) |
+| Wed, 16 Jul 2025 16:51:42 GMT | Secure EC2 SSH Access for GitHub Actions with Temporary IP Whitelisting | Syed Muhammad Ali | [Read More](https://medium.com/p/e3e7574a74e1) |
+| Wed, 16 Jul 2025 16:46:30 GMT | SIM Swap Attacks: The Silent Threat Draining Crypto Wallets — And How to Stay Safe | mrblockchain22 | [Read More](https://medium.com/p/547188835337) |
 | Wed, 16 Jul 2025 16:42:46 GMT | Cloud Storage Isn’t Automatically Safe: Real Security Starts With You | Ceyda Irwin | [Read More](https://medium.com/p/a4a693050f5a) |
 | Wed, 16 Jul 2025 16:41:00 GMT | The Creator Must Be Sought: A Quiet Signal to the Future | Harley Stumph | [Read More](https://medium.com/p/e5d1478ccd4d) |
 | Wed, 16 Jul 2025 16:38:08 GMT | ⚔️ From Broken Virtual Machines to One-Click Recon: How I Finally Fixed My Setup | LordofHeaven | [Read More](https://medium.com/p/3f51076ccbe2) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 12:37:44 GMT | Online Ethical Hacking Certification: The Complete Guide for 2025 | Crawsec | [Read More](https://medium.com/p/fc897441a45f) |
 | Wed, 16 Jul 2025 12:35:00 GMT | Windows 10 End of Support: What It Means and What You Should Do Now | The Quiet Hacker | [Read More](https://medium.com/p/2a3d2a56eee2) |
 | Wed, 16 Jul 2025 12:30:54 GMT | Understanding Flash USDT: A Quick Insight | Vaka | [Read More](https://medium.com/p/02ec8362b8ed) |
-| Wed, 16 Jul 2025 12:22:55 GMT | Research Objectives | Covenant O.B. | [Read More](https://medium.com/p/c89d6646e118) |
-| Wed, 16 Jul 2025 12:14:51 GMT | A Deep Dive into the Architecture of Hybrid SOC Services | sanya | [Read More](https://medium.com/p/756f2ed88fd2) |
-| Wed, 16 Jul 2025 12:14:17 GMT | From Flat to Fully Fetched: How I Turned Basic OData into a Multi-Level Query Powerhouse | Brian Mora | [Read More](https://medium.com/p/854747f6334d) |
-| Wed, 16 Jul 2025 12:10:06 GMT | OSCP Lab Day 1 — Mr. Robot Walkthrough | DataDefender | [Read More](https://medium.com/p/10f1058d9edc) |
-| Wed, 16 Jul 2025 12:07:42 GMT | Hackers Love This 1979 Protocol (Because It Can’t Defend Itself) | Azim Uddin | [Read More](https://medium.com/p/06824a67e8a8) |
-| Wed, 16 Jul 2025 12:07:20 GMT | A small birthday treat turned into a $1000 bounty. | Rabia Riaz | [Read More](https://medium.com/p/ee8e61f88535) |
-| Wed, 16 Jul 2025 12:04:55 GMT | From Beijing to Backdoors: The Penetration Testing Lessons from July 16, 2025 | Inforsecpro | [Read More](https://medium.com/p/2903ad7ff8f7) |
-| Wed, 16 Jul 2025 12:04:28 GMT | ZoomEye BugBounty Radar: Streamlined Asset Monitoring for Bug Bounty Hunters | ZoomEye | [Read More](https://medium.com/p/a74103c5c3c5) |
-| Wed, 16 Jul 2025 12:02:55 GMT | Best Residential security guards in Gurugram | SPI Infotech | [Read More](https://medium.com/p/c5ecbe4a60a1) |
