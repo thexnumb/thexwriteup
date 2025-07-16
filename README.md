@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 11:09:57 GMT | $1,180 in One Week from Bug Bounties: My Step-by-Step Breakdown (As a beginner) | Rashadul Islam | [Read More](https://medium.com/p/f4175a50dcfe) |
+| Wed, 16 Jul 2025 11:07:48 GMT | Anomalous DLL Call Stack Sequence Detection: A Threat Hunter’s Guide to Process Injection | Siddhant Mishra | [Read More](https://medium.com/p/5c869c877069) |
+| Wed, 16 Jul 2025 11:05:15 GMT | Sequel | snir mamo | [Read More](https://medium.com/p/cd22e7bc76e9) |
+| Wed, 16 Jul 2025 11:05:11 GMT | Memory Forensics with Volatility: Detecting Fileless Malware and Living off the Land Attacks | Sandeep Saxena | [Read More](https://medium.com/p/b8c6022c0ff0) |
+| Wed, 16 Jul 2025 11:04:40 GMT | Vulnerability Management:Scanning is Easy. Securing Is Strategy | Sandeep Saxena | [Read More](https://medium.com/p/e1844d208b4d) |
+| Wed, 16 Jul 2025 11:03:11 GMT | Cyber Security Services forHealthcare Industry. | Juarait Digital | [Read More](https://medium.com/p/046a50f264c8) |
+| Wed, 16 Jul 2025 11:02:19 GMT | Blog 3: “Beginner’s Guide to Active Reconnaissance: dnsrecon, dnsenum, and Nmap Basics” Part#1 | Ar-jay A. Ballaco | [Read More](https://medium.com/p/5d2e4afbe853) |
+| Wed, 16 Jul 2025 11:01:32 GMT | Deep Dive SIEM(SEC555) Part 5:Log Aggregation and Parsing | Bit_Picker | [Read More](https://medium.com/p/072a38aa6493) |
+| Wed, 16 Jul 2025 11:00:20 GMT | Day 45 of #60DaysofGRC: ISO 27001 Implementation and Certification | Brittney Ginther | [Read More](https://medium.com/p/0af76c2f1c45) |
+| Wed, 16 Jul 2025 10:58:43 GMT | Improving Data Rules to Help Everyone in Central Africa | ntui raoul | [Read More](https://medium.com/p/fd916309b4a3) |
+| Wed, 16 Jul 2025 10:57:49 GMT | Exploring Hardware Hacking as a Critical Layer in IoT Security | Redfox Security | [Read More](https://medium.com/p/a2074dedab6d) |
+| Wed, 16 Jul 2025 10:57:27 GMT | Enhance UX and Conversions with Vue.js and SEO Tactics | Bhavesh Rajpurohit | [Read More](https://medium.com/p/0731f993e553) |
+| Wed, 16 Jul 2025 10:57:23 GMT | 중소기업 보안 담당자 1인의 고군분투 by. 위즈노트AI | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/5f3390de7058) |
+| Wed, 16 Jul 2025 10:51:31 GMT | Stingray Devices Can Track You Without Consent: Do you know what they are and how to block them? | Karl Buhl | [Read More](https://medium.com/p/25f9708e1cb6) |
+| Wed, 16 Jul 2025 10:51:30 GMT | KloudPortal & HealthSmart: Data Success Story | Kloudportal4 | [Read More](https://medium.com/p/c88b7b2547dd) |
+| Wed, 16 Jul 2025 10:51:17 GMT | Security Best Practices for Fintech Mobile Apps Built with Flutter | Tapan Patel | [Read More](https://medium.com/p/29f75665ccbc) |
 | Wed, 16 Jul 2025 10:47:50 GMT | Why Every Developer Should Learn the Basics of Cybersecurity (Yes, Even You) | Aayush Patel | [Read More](https://medium.com/p/f8497d99ba16) |
+| Wed, 16 Jul 2025 10:44:37 GMT | Top 5 Reasons Your Business Needs Application Security Consulting NOW | KomodoSec.com | [Read More](https://medium.com/p/bd60975471f0) |
 | Wed, 16 Jul 2025 10:37:24 GMT | Drosera: The Brain and Shield of Web3 Security | No-brainer | [Read More](https://medium.com/p/9c48156fef98) |
+| Wed, 16 Jul 2025 10:37:15 GMT | 10 Most Notorious Hackers in History Where Are They Now? | TECHi | [Read More](https://medium.com/p/8665db9cae7d) |
 | Wed, 16 Jul 2025 10:36:47 GMT | ☕ Coffee Shop’ta Bir Sabotaj: JWT IDOR ile Admin Paneline Sızmak | Rvyd | [Read More](https://medium.com/p/6f58f1f336ca) |
 | Wed, 16 Jul 2025 10:33:15 GMT | How to Create Your Own Hacker Toolkit in Docker | Vipul Sonule | [Read More](https://medium.com/p/3e41aa623729) |
 | Wed, 16 Jul 2025 10:33:07 GMT | Race Conditions in Changing Email or 2FA Settings | Monika sharma | [Read More](https://medium.com/p/527c1678a1d6) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 07:16:30 GMT | DAY 6: Rocket Fuel | Akshatdwivedi | [Read More](https://medium.com/p/1420dd84cb0f) |
 | Wed, 16 Jul 2025 07:13:34 GMT | What is malware? | Kavithayeravothula | [Read More](https://medium.com/p/d0791d62fdab) |
 | Wed, 16 Jul 2025 07:10:58 GMT | Red Team vs. Blue Team: Beda Skill dan Tugasnya! | SUHU Professional Training and Consulting | [Read More](https://medium.com/p/7c074cb2a389) |
-| Wed, 16 Jul 2025 07:06:37 GMT | How SD-WAN Managed Services Enhance Multi-Branch Connectivity | IshanTechnologies | [Read More](https://medium.com/p/3171fc2f6969) |
-| Wed, 16 Jul 2025 07:05:38 GMT | Exploring the Growth and Future of Managed Security Services in Canada | Gargiben | [Read More](https://medium.com/p/7878c148676b) |
-| Wed, 16 Jul 2025 07:03:50 GMT | I Found a Telegram Bot Token in settings.js – Here's How You Can Too! | Levi Ackerman | [Read More](https://medium.com/p/f5ad8aee5944) |
-| Wed, 16 Jul 2025 07:03:00 GMT | No buscar subdominios, buscar valor: mi giro definitivo en el reconocimiento de Bug Bounty | Gorka | [Read More](https://medium.com/p/cce16f53c843) |
-| Wed, 16 Jul 2025 07:00:18 GMT | My 100-Day Journey in Data Science, Python, and Cybersecurity | Iqra Ghafoor | [Read More](https://medium.com/p/81f6e5d6dda5) |
-| Wed, 16 Jul 2025 06:57:33 GMT | Revolutionising Site Security with Real-Time Scheduling Technology | ICORP Security | [Read More](https://medium.com/p/cd1dfce54df3) |
-| Wed, 16 Jul 2025 06:55:30 GMT | Step-by-Step Guide to Resolving SafeLine WAF License Errors | Quella | [Read More](https://medium.com/p/859390a1d82d) |
-| Wed, 16 Jul 2025 06:48:56 GMT | RSA Key Analysis with wolfSSL | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/fdb02db10ad4) |
-| Wed, 16 Jul 2025 06:46:31 GMT | When Your Hobby Involves Breaking Things (Legally) | mUsHaRaF | [Read More](https://medium.com/p/5c65da19c7de) |
-| Wed, 16 Jul 2025 06:40:52 GMT | Creating Threat Modelling Assistant with AWS PartyRock | Ihor Sasovets | [Read More](https://medium.com/p/69edfc7130be) |
-| Wed, 16 Jul 2025 06:33:38 GMT | Secret variables, Docker build, CI/CD | Rao Talha | [Read More](https://medium.com/p/efa69a373b13) |
-| Wed, 16 Jul 2025 06:30:17 GMT | Outthink the Adversary: Why Mental Models Matter More Than Tools in Cybersecurity | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/8b94a2d0c1da) |
-| Wed, 16 Jul 2025 06:29:51 GMT | Boosting Data Center Security in Sultanate of Oman: Implementing Robust Access Control Systems | Tekhabeeb | [Read More](https://medium.com/p/9a9b2e348865) |
-| Wed, 16 Jul 2025 06:27:38 GMT | Ensuring Safety in a Rapidly Changing World: A Deep Dive into Security Services in India and Mumbai | Ciss India | [Read More](https://medium.com/p/f89ba4907b8f) |
-| Wed, 16 Jul 2025 06:26:51 GMT | New trilogy of large commercial LLM AI confidentiality and Integrity failure trend reports and… | Berend Watchus | [Read More](https://medium.com/p/3721a25a7f29) |
-| Wed, 16 Jul 2025 06:26:04 GMT | Cloud Infrastructure Security in 2025: Trends, Tools, and Threats | Serishahid | [Read More](https://medium.com/p/4ff74ad3ca12) |
-| Wed, 16 Jul 2025 06:25:27 GMT | Shuberg Philis — are you sure you’re capable of securing mission-critical operations? | 0trust0day | [Read More](https://medium.com/p/e2c2409d0058) |
-| Wed, 16 Jul 2025 06:24:02 GMT | Start Earning $LFI LunaFi Today and Explore New Crypto Opportunities | LunaFi | [Read More](https://medium.com/p/73f743472422) |
