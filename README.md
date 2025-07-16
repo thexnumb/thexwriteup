@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 22:24:42 GMT | PortSwigger Lab: 2FA Simple Bypass | 0xM4ZiX | [Read More](https://medium.com/p/469585166926) |
+| Wed, 16 Jul 2025 22:23:57 GMT | Sustaining Security: Building a Culture of Continuous Vigilance” | Sammcmullen | [Read More](https://medium.com/p/48949de5eaaf) |
 | Wed, 16 Jul 2025 22:19:51 GMT | From MagnusBilling RCE to Root: Chaining CVE-2023–30258 with Fail2Ban Privilege Escalation | Sarthak | [Read More](https://medium.com/p/d0037628ed46) |
 | Wed, 16 Jul 2025 22:13:05 GMT | OSINT —  Tools and Techniques Every Hacker Should Know | SAMAEL 0x4 | [Read More](https://medium.com/p/1786caaf3ac1) |
 | Wed, 16 Jul 2025 22:07:38 GMT | Someone IS Watching You at the Checkout! | ɌƋƑ•TECH | [Read More](https://medium.com/p/6caf896f900b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 15:31:21 GMT | Protecting Business Data: A Foolproof Strategy for Startups and SMEs | Dehhani | [Read More](https://medium.com/p/83fadaca55a0) |
 | Wed, 16 Jul 2025 15:30:33 GMT | Information Disclosure on curl.se: Email Addresses Exposed via .mailmap | Regan Temudo | [Read More](https://medium.com/p/640a52455b61) |
 | Wed, 16 Jul 2025 15:26:12 GMT | From Cyber to Cloud: Tackling AWS CCP Modules 5–7 – Networking in the Trenches | Ste Caddy | [Read More](https://medium.com/p/ce30e8b57e3e) |
-| Wed, 16 Jul 2025 15:21:14 GMT | How I Used SSRF to Gain Admin Access: Step-by-Step with Payloads | Vipul Sonule | [Read More](https://medium.com/p/6717457a125a) |
-| Wed, 16 Jul 2025 15:21:08 GMT | Recon to Master: The Complete Bug Bounty Checklist | coffinxp | [Read More](https://medium.com/p/95b80ea55ff0) |
