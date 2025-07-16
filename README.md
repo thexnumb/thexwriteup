@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 15:38:34 GMT | PYSCHOLOGY HELP | Lucky | [Read More](https://medium.com/p/475f6c097fe6) |
+| Wed, 16 Jul 2025 15:33:03 GMT | How I Found 100+ Vulnerabilities Using Just Recon | Ibtissam hammadi | [Read More](https://medium.com/p/81133da385d3) |
+| Wed, 16 Jul 2025 15:32:33 GMT | OSCP vs PNPT — how to ace both easily 101 | kpawlo | [Read More](https://medium.com/p/1a79a4caa8c8) |
+| Wed, 16 Jul 2025 15:31:21 GMT | Protecting Business Data: A Foolproof Strategy for Startups and SMEs | Dehhani | [Read More](https://medium.com/p/83fadaca55a0) |
+| Wed, 16 Jul 2025 15:30:33 GMT | Information Disclosure on curl.se: Email Addresses Exposed via .mailmap | Regan Temudo | [Read More](https://medium.com/p/640a52455b61) |
+| Wed, 16 Jul 2025 15:26:12 GMT | From Cyber to Cloud: Tackling AWS CCP Modules 5–7 – Networking in the Trenches | Ste Caddy | [Read More](https://medium.com/p/ce30e8b57e3e) |
+| Wed, 16 Jul 2025 15:21:14 GMT | How I Used SSRF to Gain Admin Access: Step-by-Step with Payloads | Vipul Sonule | [Read More](https://medium.com/p/6717457a125a) |
+| Wed, 16 Jul 2025 15:21:08 GMT | Recon to Master: The Complete Bug Bounty Checklist | coffinxp | [Read More](https://medium.com/p/95b80ea55ff0) |
 | Wed, 16 Jul 2025 15:13:44 GMT | SQL Injection in hidden Contact Form Parameter | Anonymousshetty | [Read More](https://medium.com/p/660bd1281491) |
 | Wed, 16 Jul 2025 15:13:27 GMT | The Rise of Local-First & Offline-First Apps: Redefining Digital Experiences | DIGITAL Marketing | [Read More](https://medium.com/p/47a8d3f36484) |
 | Wed, 16 Jul 2025 15:06:20 GMT | Why Zero-Fee Transfers with CryptoXpress Are Changing the Game for Crypto Users in India | Devbradon | [Read More](https://medium.com/p/c67c8d5e1617) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 11:10:16 GMT | HackTheBox Dog Writeup - OSCP/CPTS Prep | Motasem Hamdan | [Read More](https://medium.com/p/09c9a6db48ff) |
 | Wed, 16 Jul 2025 11:09:57 GMT | $1,180 in One Week from Bug Bounties: My Step-by-Step Breakdown (As a beginner) | Rashadul Islam | [Read More](https://medium.com/p/f4175a50dcfe) |
 | Wed, 16 Jul 2025 11:09:07 GMT | ️ How I Secured My Personal Website from Bots, Spam & Scraping (Without Breaking the Bank) | Aayush Patel | [Read More](https://medium.com/p/d5a5ba6f00bd) |
-| Wed, 16 Jul 2025 11:07:48 GMT | Anomalous DLL Call Stack Sequence Detection: A Threat Hunter’s Guide to Process Injection | Siddhant Mishra | [Read More](https://medium.com/p/5c869c877069) |
-| Wed, 16 Jul 2025 11:05:15 GMT | Sequel | snir mamo | [Read More](https://medium.com/p/cd22e7bc76e9) |
-| Wed, 16 Jul 2025 11:05:11 GMT | Memory Forensics with Volatility: Detecting Fileless Malware and Living off the Land Attacks | Sandeep Saxena | [Read More](https://medium.com/p/b8c6022c0ff0) |
-| Wed, 16 Jul 2025 11:04:40 GMT | Vulnerability Management:Scanning is Easy. Securing Is Strategy | Sandeep Saxena | [Read More](https://medium.com/p/e1844d208b4d) |
-| Wed, 16 Jul 2025 11:03:11 GMT | Cyber Security Services forHealthcare Industry. | Juarait Digital | [Read More](https://medium.com/p/046a50f264c8) |
-| Wed, 16 Jul 2025 11:02:19 GMT | Blog 3: “Beginner’s Guide to Active Reconnaissance: dnsrecon, dnsenum, and Nmap Basics” Part#1 | Ar-jay A. Ballaco | [Read More](https://medium.com/p/5d2e4afbe853) |
-| Wed, 16 Jul 2025 11:01:32 GMT | Deep Dive SIEM(SEC555) Part 5:Log Aggregation and Parsing | Bit_Picker | [Read More](https://medium.com/p/072a38aa6493) |
-| Wed, 16 Jul 2025 11:00:20 GMT | Day 45 of #60DaysofGRC: ISO 27001 Implementation and Certification | Brittney Ginther | [Read More](https://medium.com/p/0af76c2f1c45) |
