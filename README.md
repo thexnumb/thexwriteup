@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 09:23:59 GMT | What is URL Blacklisting? | Bhuvana Medicherla | [Read More](https://medium.com/p/d4727df5c8d3) |
+| Wed, 16 Jul 2025 09:09:24 GMT | 5 Reasons Why Companies Use Signal Detectors | Laura Turcu | [Read More](https://medium.com/p/e3349921d066) |
+| Wed, 16 Jul 2025 09:08:37 GMT | Bridging the Gap: How API Stubbing Services Revolutionize Integration Testing | AT | [Read More](https://medium.com/p/6704866169bc) |
+| Wed, 16 Jul 2025 09:03:02 GMT | Understanding Simulated Wallet Reflections | Peg | [Read More](https://medium.com/p/2df7e57ec5b5) |
+| Wed, 16 Jul 2025 09:02:57 GMT | The Ultimate Blue Team Roadmap | Barukh Aswad | [Read More](https://medium.com/p/a194e0e54c75) |
+| Wed, 16 Jul 2025 09:01:47 GMT | In-Depth Guide to Shellcode Analysis and Anti-Debugging Techniques | Esra Kayhan | [Read More](https://medium.com/p/6355bc611e73) |
+| Wed, 16 Jul 2025 08:59:54 GMT | Cyber Security Training Ireland - MotivaLogic Academy | MotivaLogic Academy | [Read More](https://medium.com/p/156671c470c4) |
+| Wed, 16 Jul 2025 08:58:48 GMT | Bastille Day 2025 — Macron Calls to Arms | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/c9ebb5956fa8) |
+| Wed, 16 Jul 2025 08:57:47 GMT | Maximize Your Bounty (BNTY) Token Claiming | Bounty | [Read More](https://medium.com/p/eb0e7f727b85) |
+| Wed, 16 Jul 2025 08:55:52 GMT | What Is Flash USDT? | Peg | [Read More](https://medium.com/p/91faeba381d5) |
+| Wed, 16 Jul 2025 08:50:00 GMT | 7 Key Benefits of Construction Video Surveillance on U.S. Job Sites | Ivis Constructionsurveillance | [Read More](https://medium.com/p/87cde016e0ee) |
+| Wed, 16 Jul 2025 08:49:31 GMT | Introduction to the types of abnormalities in URLs | Bhuvana Medicherla | [Read More](https://medium.com/p/e48026998a73) |
+| Wed, 16 Jul 2025 08:48:11 GMT | SVG Image to Stored XSS | Raccoon | [Read More](https://medium.com/p/ce9a4d7839ce) |
+| Wed, 16 Jul 2025 08:47:33 GMT | Top 7 Highest Paying Jobs in Cyber Security | Edept | [Read More](https://medium.com/p/8f46c60add74) |
+| Wed, 16 Jul 2025 08:45:05 GMT | How to Secure Your Wi-Fi Network at Home or Office | Brian Gikandi | [Read More](https://medium.com/p/4a8c735c6186) |
+| Wed, 16 Jul 2025 08:44:59 GMT | The Role of SOC in Achieving PCI-DSS and ISO 27001 Compliance | Microscan Communications | [Read More](https://medium.com/p/ac77184eab9a) |
+| Wed, 16 Jul 2025 08:44:51 GMT | Identity Suite: What’s New in May 2025 | Lukas Westermann | [Read More](https://medium.com/p/607d50fa8a9d) |
+| Wed, 16 Jul 2025 08:44:09 GMT | How to Prevent Privilege Escalation: Your Core Cybersecurity Defense | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/a4f6d0e83fe1) |
+| Wed, 16 Jul 2025 08:41:56 GMT | -  0️⃣ | Erik Eliasson | [Read More](https://medium.com/p/6cfc0d346525) |
+| Wed, 16 Jul 2025 08:41:34 GMT | What I Learned from the Google Cybersecurity Professional Certificate | Nikhila Chandaka | [Read More](https://medium.com/p/9a3e8cf3412e) |
+| Wed, 16 Jul 2025 08:39:00 GMT | “From $500 to $5,000: How Chaining IDOR and XSS Led to Mass Account Takeovers (Ethical Hacking… | Aman Sharma | [Read More](https://medium.com/p/a55de6e59a71) |
+| Wed, 16 Jul 2025 08:29:04 GMT | Feel Like You’re Being Spied On? Here’s How to Find Hidden Cameras | Spokeo People Search | [Read More](https://medium.com/p/dbffb5c1cfa4) |
+| Wed, 16 Jul 2025 08:24:59 GMT | Beware! AI may be executing instructions you can’t see | AIM | [Read More](https://medium.com/p/160d547ba075) |
 | Wed, 16 Jul 2025 08:20:26 GMT | Nmap & Chill: How One Open Port on a Test Env Led Me to Prod Admin Access | Iski | [Read More](https://medium.com/p/da40c863161b) |
 | Wed, 16 Jul 2025 08:19:03 GMT | I accidentally hunted a bug in my first 24 hours of my bug bounty journey | Mina Marcos | [Read More](https://medium.com/p/a190f45780f7) |
 | Wed, 16 Jul 2025 08:19:03 GMT | The Role of Information for Technology in Business Strategy | Business Pro Tech | [Read More](https://medium.com/p/899f0f77c484) |
@@ -90,26 +113,3 @@ By Cyberscope- July 16, 2025 | Cyberscope | [Read More](https://medium.com/p/7ad
 | Wed, 16 Jul 2025 04:57:23 GMT | How AI Changes the Job Market: Opportunities, Risks, and Adaptation | Fitri Putri Lestari | [Read More](https://medium.com/p/e63de73078f9) |
 | Wed, 16 Jul 2025 04:52:15 GMT | What is JWT? - JSON Web Token Explained for Beginners | Rasintha Dilshan Jayarathne | [Read More](https://medium.com/p/19a4742d5d9e) |
 | Wed, 16 Jul 2025 04:50:30 GMT | Multiple Vulnerabilities at Indiana University | AbhirupKonwar | [Read More](https://medium.com/p/4c324afe6bbf) |
-| Wed, 16 Jul 2025 04:34:19 GMT | TryHackMe Advent Of Cyber 2 (Part 2) [Day 9 to Day 16] Walkthrough | Khyati Shivakumar | [Read More](https://medium.com/p/6e6eab92e6c4) |
-| Wed, 16 Jul 2025 04:18:55 GMT | 31 Million Exposed: What the Internet Archive Hack Reveals About Modern Digital Risk | Silent Boardroom | [Read More](https://medium.com/p/9c3d2f047a93) |
-| Wed, 16 Jul 2025 04:17:47 GMT | User ID controlled by request parameter with password disclosure [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/07e8832063d0) |
-| Wed, 16 Jul 2025 04:17:25 GMT | Curvance Announces Reward Cascade: Bag CVE Today | Curvance | [Read More](https://medium.com/p/362e36bd7884) |
-| Wed, 16 Jul 2025 04:13:45 GMT | An AI strategy for the short and long term | Sonia Randhawa | [Read More](https://medium.com/p/6803eea38ba8) |
-| Wed, 16 Jul 2025 03:58:30 GMT | CRISPR Just Cured Sickle Cell — So Why Can’t Everyone Have It? | The Prophet Aaron Vessel the Christ Consciousness | [Read More](https://medium.com/p/ff05e005a7a0) |
-| Wed, 16 Jul 2025 03:51:46 GMT | Digital Marketing Insights & Growth Strategies | Evelynharper | [Read More](https://medium.com/p/0b827589f62e) |
-| Wed, 16 Jul 2025 03:50:29 GMT | Top Sources of Information for Technology in 2025: Stay Ahead of the Curve | Business Pro Tech | [Read More](https://medium.com/p/02b2e0ac8ab8) |
-| Wed, 16 Jul 2025 03:31:18 GMT | The GRC of AI: Ethical and Compliance Minefield of Artificial Intelligence | Gurpreet Singh | [Read More](https://medium.com/p/ea916af68754) |
-| Wed, 16 Jul 2025 03:29:31 GMT | Drosera Network: Giving Ethereum an Immune System. | H | [Read More](https://medium.com/p/e5667fef6d17) |
-| Wed, 16 Jul 2025 03:26:27 GMT | ️ The Encryption You Think You Have vs. The One You Actually Use | Mir Sarfarajey Akram | [Read More](https://medium.com/p/b1a961c5e4cd) |
-| Wed, 16 Jul 2025 03:22:21 GMT | How SafeLine WAF Fights Bots with Smart Rate Limiting | AerieWhole123 | [Read More](https://medium.com/p/37616d35f731) |
-| Wed, 16 Jul 2025 03:22:06 GMT | Day2- Cybersecurity for Beginners: How Ports, Protocols and Firewalls Keep Your Data Safe | unica 02 | [Read More](https://medium.com/p/5001b601f36b) |
-| Wed, 16 Jul 2025 03:20:45 GMT | Exploring the Best Cold Storage Wallet: ELLIPAL | Kobyabrams | [Read More](https://medium.com/p/8d25d5737bcf) |
-| Wed, 16 Jul 2025 03:09:56 GMT | How to Get Started with $DORK Crypto Claims: No Experience Needed | DORK | [Read More](https://medium.com/p/d40e5de82237) |
-| Wed, 16 Jul 2025 03:06:52 GMT | 5 Simple Ways to Keep Your Devices Secure Online | Innocent Anthony | [Read More](https://medium.com/p/558c765b1099) |
-| Wed, 16 Jul 2025 03:04:09 GMT | Spying Before Hacking — The sneaky start to Cybersecurity | Precious Lesley | [Read More](https://medium.com/p/c7c2e34ac12a) |
-| Wed, 16 Jul 2025 03:01:45 GMT | T1059 — Command and Scripting Interpreter — Atomic-RedTeam | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/306c02d77724) |
-| Wed, 16 Jul 2025 03:01:26 GMT | Too Small to Hack? The Myth That May Be Your Biggest Security Risk | GlobalSign | [Read More](https://medium.com/p/7b43abb2ee18) |
-| Wed, 16 Jul 2025 03:01:24 GMT | T1082 — System Information Discovery | MndelLa | [Read More](https://medium.com/p/906976e75338) |
-| Wed, 16 Jul 2025 02:59:43 GMT | SQL Injection to RCE in CMSV6 Fleet Platform — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/107194bd896a) |
-| Wed, 16 Jul 2025 02:57:12 GMT | Internship as Penetration Tester at PT FPT Metrodata Indonesia (FMI) | Bryan RB | [Read More](https://medium.com/p/03daf9b4869b) |
-| Wed, 16 Jul 2025 02:56:35 GMT | XSS via Google Maps | Akbar Kustirama | [Read More](https://medium.com/p/98a867479315) |
