@@ -13,6 +13,8 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Wed, 16 Jul 2025 19:14:33 GMT | TryHackMe Room Walkthrough: Billing | Aditya Bhatt | [Read More](https://medium.com/p/7bda353eac51) |
+| Wed, 16 Jul 2025 19:14:28 GMT | 5 Essential Security Libraries In Android App Development | Nine Pages Of My Life | [Read More](https://medium.com/p/319a2e83edf0) |
+| Wed, 16 Jul 2025 19:12:40 GMT | It’s About Time: TSA Lifts Shoe Rule, Now Let’s Keep the Momentum Going | David Griffith | [Read More](https://medium.com/p/c375f77a1093) |
 | Wed, 16 Jul 2025 19:09:34 GMT | Thick Client Application Penetration Testing: A Complete Phase-Wise Methodology with Tools &… | ArunKumarBalivada | [Read More](https://medium.com/p/330cfc44cbc8) |
 | Wed, 16 Jul 2025 19:09:27 GMT | L2 MAC Flooding & ARP Spoofing - TryHackMe walkthrough | Collins.K | [Read More](https://medium.com/p/fe0dff60e23c) |
 | Wed, 16 Jul 2025 19:06:16 GMT | Retracted —  TryHackMe Write Up | Tyreik Faulks | [Read More](https://medium.com/p/16f071f76aa3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 14:20:22 GMT | SOCFortres5: Google Chrome 0-day Vulnerability Actively Exploited in the Wild | Darshan | [Read More](https://medium.com/p/b5d9a9671b29) |
 | Wed, 16 Jul 2025 14:19:39 GMT | How to Transfer Crypto in 2 Steps Using the CryptoXpress Wallet | Devbradon | [Read More](https://medium.com/p/7b4a44eb84ae) |
 | Wed, 16 Jul 2025 14:19:19 GMT | Online Safety & Cybercrimes: Navigating Nigeria’s Cybersecurity Compliance And Safety Laws | Olisa Agbakoba Legal (OAL) | [Read More](https://medium.com/p/f9da24d332ed) |
-| Wed, 16 Jul 2025 14:17:49 GMT | SOCFortres5: Google AI “Big Sleep” Thwarts Exploitation of Critical SQLite Vulnerability Before… | Darshan | [Read More](https://medium.com/p/231464c5db44) |
-| Wed, 16 Jul 2025 14:16:01 GMT | How Check Point Harmony Defends Your Digital Inbox in the Age of AI Threats | Vays Infotech | [Read More](https://medium.com/p/5cad95a3c63e) |
