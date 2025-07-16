@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 14:40:55 GMT | Unmasking the Intruder: How I Solved TryHackMe’s “Stolen Mount” Forensics Challenge | Aravind S V | [Read More](https://medium.com/p/0e29a76e2318) |
+| Wed, 16 Jul 2025 14:34:34 GMT | Massive $438M Crypto Theft Tied to LastPass Private Key Leak — And It’s Not Over | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/bc081e8247e0) |
+| Wed, 16 Jul 2025 14:34:21 GMT | Is it possible to recover my money from Xtrademax? | Kelvin | [Read More](https://medium.com/p/a090eded2c57) |
+| Wed, 16 Jul 2025 14:28:30 GMT | NordLayer: A Company I’d Trust with My Security | 0trust0day | [Read More](https://medium.com/p/8b6f3c7ee7c6) |
+| Wed, 16 Jul 2025 14:27:11 GMT | SOCFortres5: WordPress Malware Scanner Plugin Found Vulnerable to Arbitrary File Deletion | Darshan | [Read More](https://medium.com/p/428615be9bb1) |
+| Wed, 16 Jul 2025 14:25:46 GMT | I Could Verify Any Email and Take Over Accounts — Critical Logic Flaw Explained | k4yd0_ | [Read More](https://medium.com/p/497f476d5417) |
 | Wed, 16 Jul 2025 14:20:22 GMT | SOCFortres5: Google Chrome 0-day Vulnerability Actively Exploited in the Wild | Darshan | [Read More](https://medium.com/p/b5d9a9671b29) |
+| Wed, 16 Jul 2025 14:19:39 GMT | How to Transfer Crypto in 2 Steps Using the CryptoXpress Wallet | Devbradon | [Read More](https://medium.com/p/7b4a44eb84ae) |
+| Wed, 16 Jul 2025 14:19:19 GMT | Online Safety & Cybercrimes: Navigating Nigeria’s Cybersecurity Compliance And Safety Laws | Olisa Agbakoba Legal (OAL) | [Read More](https://medium.com/p/f9da24d332ed) |
 | Wed, 16 Jul 2025 14:17:49 GMT | SOCFortres5: Google AI “Big Sleep” Thwarts Exploitation of Critical SQLite Vulnerability Before… | Darshan | [Read More](https://medium.com/p/231464c5db44) |
+| Wed, 16 Jul 2025 14:16:01 GMT | How Check Point Harmony Defends Your Digital Inbox in the Age of AI Threats | Vays Infotech | [Read More](https://medium.com/p/5cad95a3c63e) |
 | Wed, 16 Jul 2025 14:10:36 GMT | Zero Trust Model Explained: Why Trust is No Longer the Default in Cybersecurity | NineTales | [Read More](https://medium.com/p/cbdc04420e56) |
 | Wed, 16 Jul 2025 14:02:25 GMT | Cyber Briefing: 2025.07.16 | CyberMaterial | [Read More](https://medium.com/p/75d8238afcf7) |
 | Wed, 16 Jul 2025 14:02:07 GMT | Building a Basic Home SOC Lab for Threat Detection and Analysis | Levent Karaagac | [Read More](https://medium.com/p/c6b553365722) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 10:30:01 GMT | Exploiting WebSocket Authentication Bypass | Monika sharma | [Read More](https://medium.com/p/3d2c998fc062) |
 | Wed, 16 Jul 2025 10:29:54 GMT | I Almost Bought a $239 Domain for $1 — A Ghost-Level Bug No One’s Watching | LordofHeaven | [Read More](https://medium.com/p/2ffe740279cd) |
 | Wed, 16 Jul 2025 10:29:17 GMT | Password Managers: The Need, the Breaches, and the Story Behind My CVE (CVE-2021–31857) | Sandeep Saxena | [Read More](https://medium.com/p/ae288c6049fc) |
-| Wed, 16 Jul 2025 10:29:09 GMT | Google Dorking My Way Out of Exam Stress (And Into the Hall of Fame) ️ | B4LOGI | [Read More](https://medium.com/p/a01d984f713d) |
-| Wed, 16 Jul 2025 10:29:07 GMT | Silence in the SOC: No Alerts, So Are We Really Safe? | Yuksel | [Read More](https://medium.com/p/83c8ea10d242) |
-| Wed, 16 Jul 2025 10:28:56 GMT | The Cyberweapon That Shook the World | Aj | [Read More](https://medium.com/p/8334743bf1cc) |
-| Wed, 16 Jul 2025 10:28:17 GMT | The Shadowy Corners of WordPress | Cuncis | [Read More](https://medium.com/p/2f8fc724cb37) |
-| Wed, 16 Jul 2025 10:23:07 GMT | QRadar Reference Sets: What They Are, Why They Matter, and Real-World SOC Scenarios | Yuksel | [Read More](https://medium.com/p/227fcfbfac30) |
-| Wed, 16 Jul 2025 10:19:48 GMT | Faith as a Weapon: How Colonial Powers and Modern Extremists Exploit Religion to Divide Africa | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/df2d734d1b38) |
-| Wed, 16 Jul 2025 10:18:44 GMT | The Ultimate Red Team Roadmap: From Novice to Network Phantom | Barukh Aswad | [Read More](https://medium.com/p/bcbe4abd3af4) |
-| Wed, 16 Jul 2025 10:16:49 GMT | 10 Critical Technical Points for Designing a Scalable SOC Architecture | Yuksel | [Read More](https://medium.com/p/76ce0aa94f63) |
-| Wed, 16 Jul 2025 10:12:27 GMT | Using NAT and Bridged Network Adapters in Penetration Testing: A Practical Guide for Ethical… | YoungerSibling | [Read More](https://medium.com/p/53ebfd3d8c9e) |
