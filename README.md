@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 18:19:05 GMT | Imperfect | Strawberry Fire | [Read More](https://medium.com/p/8d63605f164a) |
+| Wed, 16 Jul 2025 18:18:19 GMT | Broken Access Control--IDOR--Insecure Direct Object Refference--Test cases--Portswigger--Interview… | Muhammadhuzaifa | [Read More](https://medium.com/p/0d648ca79de1) |
+| Wed, 16 Jul 2025 18:15:07 GMT | Honor X6c Price in Bangladesh 2025: এত কম দামে এত কিছু! | Juger Alo | [Read More](https://medium.com/p/bcd232189169) |
+| Wed, 16 Jul 2025 18:14:42 GMT | Kill switch: The China threat no one is talking about! | Sagar Kumar Padhy | [Read More](https://medium.com/p/ddd4811c12f9) |
+| Wed, 16 Jul 2025 18:08:31 GMT | Hedgey Finance lost $44.7M | Olympix | [Read More](https://medium.com/p/3a52f3fcfb0f) |
+| Wed, 16 Jul 2025 18:07:29 GMT | OutBound : HTB Walkthrough | Divyanshu Saini | [Read More](https://medium.com/p/c4b36fd4b194) |
+| Wed, 16 Jul 2025 18:06:27 GMT | $17M Lost: WOOFi, Wilder World, Remilia, and Lava Lending Attacked Across Arbitrum and Ethereum | Olympix | [Read More](https://medium.com/p/3e6efad378a2) |
+| Wed, 16 Jul 2025 18:06:01 GMT | PowerShell Cmdlets: Your Digital Stalking Toolkit for System Surveillance | Sean Byrne | [Read More](https://medium.com/p/653b0642ea97) |
+| Wed, 16 Jul 2025 18:04:40 GMT | Bereznev VPN: не просто сервис, а философия | Kirill Bereznev | [Read More](https://medium.com/p/e52fffbc05ec) |
+| Wed, 16 Jul 2025 18:03:49 GMT | Windows OLE CVE-2025–21298 zero-click vulnerability | Crow-404 | [Read More](https://medium.com/p/1bc58a935ac0) |
+| Wed, 16 Jul 2025 17:54:10 GMT | How to Hack a WEP Wi-Fi Network (Legally & Educationally) | Rajkumar Kumawat | [Read More](https://medium.com/p/524b7c133e45) |
+| Wed, 16 Jul 2025 17:48:14 GMT | برنامج Perplexity AI: مقارنة شاملة بأدوات الذكاء 2025 | katibatech | [Read More](https://medium.com/p/5ddca7be8b24) |
 | Wed, 16 Jul 2025 17:31:44 GMT | Security Misconfigurations That Leave Your App Open to Attack | Nikulsinh Rajput | [Read More](https://medium.com/p/77cdcb90afe2) |
 | Wed, 16 Jul 2025 17:29:27 GMT | 在 Microsoft Azure 上打造抗量子加密架構：結合 PQC + QRNG 的未來防線 | Tiffany Chiang | [Read More](https://medium.com/p/579f4df265ae) |
 | Wed, 16 Jul 2025 17:28:07 GMT | ️ Cybersecurity in 2025: Why It’s No Longer Optional | Praveen Dhakad | [Read More](https://medium.com/p/11abdeb26c88) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 13:39:51 GMT | 5 Best API Security Testing Tools for Developers | Sam Bishop | [Read More](https://medium.com/p/7df3c8833b25) |
 | Wed, 16 Jul 2025 13:38:44 GMT | Strategic Security: Top 5 Anti‑Phishing Solutions for Business Leaders in 2025. | Ranjan Yadav | [Read More](https://medium.com/p/0b1476149d73) |
 | Wed, 16 Jul 2025 13:32:24 GMT | Cybersecurity Basics You Can’t Skip: Authentication, Authorization & More… | NineTales | [Read More](https://medium.com/p/4c8cad749677) |
-| Wed, 16 Jul 2025 13:24:05 GMT | Cyber kill chain | ayub_91 | [Read More](https://medium.com/p/34ee5eca5090) |
-| Wed, 16 Jul 2025 13:18:25 GMT | The Art Of Falling | ✨ | [Read More](https://medium.com/p/56921ac126ac) |
-| Wed, 16 Jul 2025 13:14:46 GMT | The Remote Work Revolution Is Creating a Crisis Nobody Saw Coming | Mr Tony  Momoh | [Read More](https://medium.com/p/d65119317b09) |
-| Wed, 16 Jul 2025 13:14:11 GMT | Critical CVE-2025–47981: Wormable Windows Flaw Explained | Kalariya Het | [Read More](https://medium.com/p/df180ba62ffa) |
-| Wed, 16 Jul 2025 13:12:48 GMT | How Federated Learning Can Transform Enterprise Cybersecurity | Sherpa AI | [Read More](https://medium.com/p/288ac84f2877) |
-| Wed, 16 Jul 2025 13:11:38 GMT | Strengthening Critical Infrastructure through Legacy System Security: Why COBOL Still Matters | Alina Zmazhenko | [Read More](https://medium.com/p/d8e7e123c3a9) |
-| Wed, 16 Jul 2025 13:08:06 GMT | Behind Enemy Code: How Chinese-Backed Malware Infiltrated Pentagon Ecosystems | Pentestjunkie07 | [Read More](https://medium.com/p/07b3a6edfdce) |
-| Wed, 16 Jul 2025 13:05:34 GMT | Safeguarding Your Network with Powerful Security Guardians | Ed-it Editions | [Read More](https://medium.com/p/e6656cbcc1f7) |
-| Wed, 16 Jul 2025 13:04:28 GMT | Cybersecurity Essentials for Startups and SMEs: A Guide to Stronger Defenses | Rootsnsquares | [Read More](https://medium.com/p/f7d020ec93c0) |
-| Wed, 16 Jul 2025 13:01:50 GMT | Why Cybersecurity in the Global South Can No Longer Be Ignored | Peris.ai Cybersecurity | [Read More](https://medium.com/p/2795200fa4ca) |
-| Wed, 16 Jul 2025 13:01:47 GMT | What Are Cookies Used For? Understanding Website Cookies in Simple Terms | Timonéofearth | [Read More](https://medium.com/p/c0b32c26baaa) |
-| Wed, 16 Jul 2025 13:01:44 GMT | How Machine Learning is Revolutionizing Fraud Detection Across Digital Industries | Mohsin Ansari | [Read More](https://medium.com/p/251af78865ec) |
