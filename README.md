@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 16 Jul 2025 10:19:48 GMT | Faith as a Weapon: How Colonial Powers and Modern Extremists Exploit Religion to Divide Africa | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/df2d734d1b38) |
+| Wed, 16 Jul 2025 10:18:44 GMT | The Ultimate Red Team Roadmap: From Novice to Network Phantom | Barukh Aswad | [Read More](https://medium.com/p/bcbe4abd3af4) |
+| Wed, 16 Jul 2025 10:16:49 GMT | 10 Critical Technical Points for Designing a Scalable SOC Architecture | Yuksel | [Read More](https://medium.com/p/76ce0aa94f63) |
+| Wed, 16 Jul 2025 10:12:27 GMT | Using NAT and Bridged Network Adapters in Penetration Testing: A Practical Guide for Ethical… | YoungerSibling | [Read More](https://medium.com/p/53ebfd3d8c9e) |
+| Wed, 16 Jul 2025 10:06:37 GMT | Why is Microsoft Entra Important for Cybersecurity? | IPSpecialist | [Read More](https://medium.com/p/709d8a356bba) |
+| Wed, 16 Jul 2025 10:05:53 GMT | Modern IAM Strategies That Fortify Enterprise Security in 2025 | actsupport | [Read More](https://medium.com/p/8b31b777fc05) |
+| Wed, 16 Jul 2025 10:02:16 GMT | Why am I here … ? | Zoe Bloues | [Read More](https://medium.com/p/eebbaee27b7a) |
+| Wed, 16 Jul 2025 09:58:07 GMT | Day 6 of MCP Security: Inside the MCP Policy Engine | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/1223f02b6c1c) |
+| Wed, 16 Jul 2025 09:57:32 GMT | How to Build a Resumable File Uploader in React with Node.js and resumable.js | Aamir Saleem Lone | [Read More](https://medium.com/p/a5a67a7f3871) |
+| Wed, 16 Jul 2025 09:49:28 GMT | The Ultimate Guide to 2025 Compliance Reporting: Tools & Best Practices | SecureSlate | [Read More](https://medium.com/p/7ecc7d758ee0) |
+| Wed, 16 Jul 2025 09:47:02 GMT | The Real Cost of a Cyber Attack — and How a Cybersecurity Expert Helps You Avoid It | SmartCLOUD Australia | [Read More](https://medium.com/p/ca1896d04e1c) |
+| Wed, 16 Jul 2025 09:37:11 GMT | I Patched a Binary Until It Thanked Me: Reverse Engineering “Remove the Nag” by The Dutch Cracker | Hail Hydra | [Read More](https://medium.com/p/0eacc749b9b3) |
 | Wed, 16 Jul 2025 09:35:16 GMT | Understanding Key Terms in Network Security | Cyber Timi | [Read More](https://medium.com/p/926dbf00ceb1) |
 | Wed, 16 Jul 2025 09:25:37 GMT | How Hackers Find Sensitive Data in Android Apps -And How You Can Too - Android Pentesting 101 | Blue_eye | [Read More](https://medium.com/p/f3fadecf9136) |
 | Wed, 16 Jul 2025 09:23:59 GMT | What is URL Blacklisting? | Bhuvana Medicherla | [Read More](https://medium.com/p/d4727df5c8d3) |
@@ -101,15 +113,3 @@ By Cyberscope- July 16, 2025 | Cyberscope | [Read More](https://medium.com/p/7ad
 | Wed, 16 Jul 2025 05:52:51 GMT | Android Pentesting 101: What It Is, Why It Matters & How to Start Thinking Like a Hacker | Mohammed Anshed kp | [Read More](https://medium.com/p/4da991752bd8) |
 | Wed, 16 Jul 2025 05:51:36 GMT | Web Security Best Practices: Safeguarding Your Digital Presence | Vansh Khandelwal | [Read More](https://medium.com/p/4b7522a5d229) |
 | Wed, 16 Jul 2025 05:40:57 GMT | Why Cybersecurity Should Matter to You (Yes, You) | Lakshita | [Read More](https://medium.com/p/7ebf73e96f3b) |
-| Wed, 16 Jul 2025 05:40:32 GMT | 2D vs. 3D Secure Payments: Which One Actually Keeps Your Card Safe from Hackers and Online Theft? | Sajjad Hussain | [Read More](https://medium.com/p/6a05741f3881) |
-| Wed, 16 Jul 2025 05:33:33 GMT | More Than a Screen Your Home’s First Line of Defense | Brisbane Security Screens | [Read More](https://medium.com/p/a1cf67cbd892) |
-| Wed, 16 Jul 2025 05:27:30 GMT | One Room. One Person. One Hour. | Archana | [Read More](https://medium.com/p/e3dcfd2daa75) |
-| Wed, 16 Jul 2025 05:17:37 GMT | Just Another Day At The Fed: The Quiet Collapse of Secure Engineering | Julie Reyes | [Read More](https://medium.com/p/eeb09901dc8e) |
-| Wed, 16 Jul 2025 05:14:48 GMT | Guardians of the Network: How Signature and Behavioral Analysis Strengthen Modern IDPS | Rahul Balaskandan | [Read More](https://medium.com/p/0250ce8ed738) |
-| Wed, 16 Jul 2025 05:12:55 GMT | The Forgotten Dev Endpoints That Still Exist in Production | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6cc918a0339d) |
-| Wed, 16 Jul 2025 05:12:24 GMT | Unintended Consequences: How a ‘Cancel’ Button Gave Me Full Access | Narendar Battula (nArEn) | [Read More](https://medium.com/p/375c795ed59c) |
-| Wed, 16 Jul 2025 05:11:45 GMT | Favicon Hashing: How I Fingerprinted 1000s of Exposed Panels in Minutes | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bbeb5bf47a17) |
-| Wed, 16 Jul 2025 05:06:57 GMT | Set tmpfs for fluentd deployment: PSS and PSA related implementation | Zs Robert | [Read More](https://medium.com/p/40ead331e047) |
-| Wed, 16 Jul 2025 05:05:45 GMT | Kickstart Your Cybersecurity Career: A Practical Guide for Students | Sreevalsan | [Read More](https://medium.com/p/889c0bcc557c) |
-| Wed, 16 Jul 2025 05:00:50 GMT | Leveraging Wazuh for Compliance with Bank Indonesia and OJK Cybersecurity Regulation (Part 1) | Ismail Hakim | [Read More](https://medium.com/p/2e6fd3b0a780) |
-| Wed, 16 Jul 2025 04:58:50 GMT | The Unusual Suspect: How Exposed Git Repositories Become Silent Cyber Threats | CyDhaal | [Read More](https://medium.com/p/032bda0ab6a3) |
