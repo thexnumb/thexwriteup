@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 21:28:18 GMT | PortSwigger Lab — 2FA Simple Bypass | 0xM4ZiX | [Read More](https://medium.com/p/e05a7c2e2b3c) |
+| Thu, 17 Jul 2025 21:25:22 GMT | Bug Bounty Journey — Valid Report Part 8 | 0xF3r4t | [Read More](https://medium.com/p/0edfa67082b2) |
+| Thu, 17 Jul 2025 21:19:49 GMT | Lab Walkthrough — Username Enumeration via Different Responses | 0xM4ZiX | [Read More](https://medium.com/p/437e3024b965) |
+| Thu, 17 Jul 2025 21:14:57 GMT | IDOR: A Beginner’s Look | Bugged and Baffled | [Read More](https://medium.com/p/4edc3bb308d4) |
 | Thu, 17 Jul 2025 21:13:56 GMT | Starting My Cybersecurity Journey Post-Graduation | Godsonsec | [Read More](https://medium.com/p/1ee0c4736467) |
 | Thu, 17 Jul 2025 21:12:15 GMT | The “Working from China” Problem | Ryan McGeehan | [Read More](https://medium.com/p/18045ca8060a) |
 | Thu, 17 Jul 2025 21:11:45 GMT | Getting Old, and Your Kids Are Acting Like They Can’t Stand You? Here’s What to Do | Gemma Hill | [Read More](https://medium.com/p/295d24b3f914) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 15:01:51 GMT | Digital Footprints of Executives: What Attackers Really Use | Ingvar Pavlovich | [Read More](https://medium.com/p/c7f32c9b3b97) |
 | Thu, 17 Jul 2025 15:01:07 GMT | Why Most Security Teams Miss Real-World Threats (And What to Do Instead) | DefenceRabbit | [Read More](https://medium.com/p/f32d3c3db570) |
 | Thu, 17 Jul 2025 14:36:05 GMT | Vulnerability on My Android Hotspot | Pramodh Cyb | [Read More](https://medium.com/p/2b1a4e1ad076) |
-| Thu, 17 Jul 2025 14:35:49 GMT | Day 36: How to Handle File Uploads in Node.js Like a Pro | Dipak Ahirav | [Read More](https://medium.com/p/2e0545e9ce51) |
-| Thu, 17 Jul 2025 14:35:22 GMT | Unmasking RDP Intrusions: Forensic Breakthroughs in Tracking Remote Desktop Exploits. | eL Njas!™ | [Read More](https://medium.com/p/1f8d3335bf84) |
-| Thu, 17 Jul 2025 14:32:42 GMT | यूको बैंक से पैसे कट जाए तो क्या करें?-7482837479 | uco bank se paise cut jaaye to kya karen | [Read More](https://medium.com/p/ac6cf00be47c) |
-| Thu, 17 Jul 2025 14:32:17 GMT | यूको बैंक से पैसे कट जाए तो क्या करें?-7482837479 | uco bank se paise cut jaaye to kya karen | [Read More](https://medium.com/p/6692af29c490) |
