@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 04:32:24 GMT | CyberLens : A TryHackMe Walkthrough Guide | 5um1t0x | [Read More](https://medium.com/p/dec172407a74) |
+| Thu, 17 Jul 2025 04:19:27 GMT | “why some people love too deeply and others guard their hearts” | Shixy | [Read More](https://medium.com/p/c77a6a4ea29a) |
+| Thu, 17 Jul 2025 04:04:46 GMT | 120 Cyber Disaster: Miss It, Risk Everything | Ernest Nwangbo | [Read More](https://medium.com/p/a20815ea27fd) |
+| Thu, 17 Jul 2025 04:00:38 GMT | Cybersecurity for Small Business: Why Thinking You’re Too Small Is the Biggest Risk | Victor Yan | [Read More](https://medium.com/p/47f49bd1c82c) |
+| Thu, 17 Jul 2025 03:46:45 GMT | Friction, Fog, and Failure in a Software-Defined Force: A Global Perspective on Digital Military… | Tolga Başkan | [Read More](https://medium.com/p/1d3ae16e46bd) |
+| Thu, 17 Jul 2025 03:46:05 GMT | SafeLine WAF Installation & Upgrade Troubleshooting Guide | AerieWhole123 | [Read More](https://medium.com/p/fe2a78b70b44) |
+| Thu, 17 Jul 2025 03:44:20 GMT | Shame & Guilt #2 | Kataanya | [Read More](https://medium.com/p/8374cd0a0b82) |
+| Thu, 17 Jul 2025 03:37:49 GMT | pivot_root vs. chroot — The 2025 Container Security Choice | Aleksei Aleinikov | [Read More](https://medium.com/p/36ff392d1af5) |
+| Thu, 17 Jul 2025 03:31:48 GMT | Unlocking WhatsApp’s Advanced Chat Privacy: A Smarter Way to Keep Conversations Secure | Deven Chhajed | [Read More](https://medium.com/p/ba25bbbf5507) |
+| Thu, 17 Jul 2025 03:26:59 GMT | Daring Greatly: The Courage to Step into the Arena | Tara West | [Read More](https://medium.com/p/6912913adc5e) |
 | Thu, 17 Jul 2025 03:24:34 GMT | Types of Security Audits — Like Inspecting Different Rooms in a Building | Mujtaba Shaikeldin | [Read More](https://medium.com/p/84c734c176ef) |
 | Thu, 17 Jul 2025 03:19:57 GMT | Is Your Samsung Phone Secretly Protecting You From Scams? Here’s What Most Users Never Notice | Sajjad Hussain | [Read More](https://medium.com/p/e09f8a72fbbc) |
 | Thu, 17 Jul 2025 03:08:24 GMT | Why Every Cybersecurity Leader Needs to Understand Cyber Laws - GME Academy | Get Me Experts Portal | [Read More](https://medium.com/p/1958665bee0a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 18:18:19 GMT | Broken Access Control--IDOR--Insecure Direct Object Refference--Test cases--Portswigger--Interview… | Muhammadhuzaifa | [Read More](https://medium.com/p/0d648ca79de1) |
 | Wed, 16 Jul 2025 18:15:07 GMT | Honor X6c Price in Bangladesh 2025: এত কম দামে এত কিছু! | Juger Alo | [Read More](https://medium.com/p/bcd232189169) |
 | Wed, 16 Jul 2025 18:14:42 GMT | Kill switch: The China threat no one is talking about! | Sagar Kumar Padhy | [Read More](https://medium.com/p/ddd4811c12f9) |
-| Wed, 16 Jul 2025 18:08:31 GMT | Hedgey Finance lost $44.7M | Olympix | [Read More](https://medium.com/p/3a52f3fcfb0f) |
-| Wed, 16 Jul 2025 18:07:29 GMT | OutBound : HTB Walkthrough | Divyanshu Saini | [Read More](https://medium.com/p/c4b36fd4b194) |
-| Wed, 16 Jul 2025 18:06:27 GMT | $17M Lost: WOOFi, Wilder World, Remilia, and Lava Lending Attacked Across Arbitrum and Ethereum | Olympix | [Read More](https://medium.com/p/3e6efad378a2) |
-| Wed, 16 Jul 2025 18:06:01 GMT | PowerShell Cmdlets: Your Digital Stalking Toolkit for System Surveillance | Sean Byrne | [Read More](https://medium.com/p/653b0642ea97) |
-| Wed, 16 Jul 2025 18:04:40 GMT | Bereznev VPN: не просто сервис, а философия | Kirill Bereznev | [Read More](https://medium.com/p/e52fffbc05ec) |
-| Wed, 16 Jul 2025 18:03:49 GMT | Windows OLE CVE-2025–21298 zero-click vulnerability | Crow-404 | [Read More](https://medium.com/p/1bc58a935ac0) |
-| Wed, 16 Jul 2025 17:54:10 GMT | How to Hack a WEP Wi-Fi Network (Legally & Educationally) | Rajkumar Kumawat | [Read More](https://medium.com/p/524b7c133e45) |
-| Wed, 16 Jul 2025 17:48:14 GMT | برنامج Perplexity AI: مقارنة شاملة بأدوات الذكاء 2025 | katibatech | [Read More](https://medium.com/p/5ddca7be8b24) |
-| Wed, 16 Jul 2025 17:40:25 GMT | IPTV en 2025 : Tout ce que vous devez savoir avant de choisir votre abonnement | Amine El Khelouane | [Read More](https://medium.com/p/0a509e4290e1) |
-| Wed, 16 Jul 2025 17:31:44 GMT | Security Misconfigurations That Leave Your App Open to Attack | Nikulsinh Rajput | [Read More](https://medium.com/p/77cdcb90afe2) |
