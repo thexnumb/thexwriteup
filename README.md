@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 03:24:34 GMT | Types of Security Audits — Like Inspecting Different Rooms in a Building | Mujtaba Shaikeldin | [Read More](https://medium.com/p/84c734c176ef) |
+| Thu, 17 Jul 2025 03:19:57 GMT | Is Your Samsung Phone Secretly Protecting You From Scams? Here’s What Most Users Never Notice | Sajjad Hussain | [Read More](https://medium.com/p/e09f8a72fbbc) |
+| Thu, 17 Jul 2025 03:08:24 GMT | Why Every Cybersecurity Leader Needs to Understand Cyber Laws - GME Academy | Get Me Experts Portal | [Read More](https://medium.com/p/1958665bee0a) |
+| Thu, 17 Jul 2025 03:04:26 GMT | CVE-2023–7028: How Attackers Could Reset Any GitLab User’s Password | AerieWhole123 | [Read More](https://medium.com/p/02369285ad4f) |
+| Thu, 17 Jul 2025 03:01:26 GMT | Europe’s Schengen Crisis — Poland’s Border Controls Expose the EU’s Failed Asylum System and… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/78f5e4ad816c) |
+| Thu, 17 Jul 2025 02:50:31 GMT | Justice vs. Illusion | Scaleauthor | [Read More](https://medium.com/p/47f5dadb5c4f) |
+| Thu, 17 Jul 2025 02:46:01 GMT | Why Every IT Team is Rushing to Add NDR to Their Security Stack | Paritosh | [Read More](https://medium.com/p/15060f76779a) |
+| Thu, 17 Jul 2025 02:37:29 GMT | “Think Fast. Move Slow.” A Security Mindset for High-Tempo Teams | Richard M. Mcmullin | [Read More](https://medium.com/p/00680ef19c55) |
+| Thu, 17 Jul 2025 02:32:13 GMT | Two Data Breaches, Two Very Different Lessons: What Cambridge Analytica and Equifax Show About… | Nikitha Srinivasan | [Read More](https://medium.com/p/742c43a6e56e) |
+| Thu, 17 Jul 2025 02:26:09 GMT | How I prepared for AWS security specialty in 2025 | Mudassir Syed | [Read More](https://medium.com/p/0827c6f957df) |
+| Thu, 17 Jul 2025 02:21:50 GMT | Understanding Ports and Protocols — Like I’m 5 | Haroon Shahid | [Read More](https://medium.com/p/f87627a95a45) |
+| Thu, 17 Jul 2025 02:15:13 GMT | It’s Not That I Lie, But Maybe I’m Not Always Honest… | Nithya Miriam Abraham | [Read More](https://medium.com/p/8be839f51e4b) |
+| Thu, 17 Jul 2025 02:07:26 GMT | AI Agents Will Transform Healthcare — But Only If We Secure Them First | Andre Fernandes | [Read More](https://medium.com/p/64105ff401fc) |
+| Thu, 17 Jul 2025 02:01:19 GMT | Falling in Love with the Process | Haroon Shahid | [Read More](https://medium.com/p/384e9f02e1ef) |
 | Thu, 17 Jul 2025 01:46:04 GMT | User Authorisation in Streamlit | Thomas Reid | [Read More](https://medium.com/p/70f7b503a0fc) |
 | Thu, 17 Jul 2025 01:41:41 GMT | Big O Notation: The One Concept You Need to Nail Every Tech Interview | Avinash Jha | [Read More](https://medium.com/p/c2a24af91d1d) |
 | Thu, 17 Jul 2025 01:41:39 GMT | I Got Hacked, Then Built a Career Stopping Hackers | Aj | [Read More](https://medium.com/p/10c9642d72c5) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 17:48:14 GMT | برنامج Perplexity AI: مقارنة شاملة بأدوات الذكاء 2025 | katibatech | [Read More](https://medium.com/p/5ddca7be8b24) |
 | Wed, 16 Jul 2025 17:40:25 GMT | IPTV en 2025 : Tout ce que vous devez savoir avant de choisir votre abonnement | Amine El Khelouane | [Read More](https://medium.com/p/0a509e4290e1) |
 | Wed, 16 Jul 2025 17:31:44 GMT | Security Misconfigurations That Leave Your App Open to Attack | Nikulsinh Rajput | [Read More](https://medium.com/p/77cdcb90afe2) |
-| Wed, 16 Jul 2025 17:29:27 GMT | 在 Microsoft Azure 上打造抗量子加密架構：結合 PQC + QRNG 的未來防線 | Tiffany Chiang | [Read More](https://medium.com/p/579f4df265ae) |
-| Wed, 16 Jul 2025 17:28:07 GMT | ️ Cybersecurity in 2025: Why It’s No Longer Optional | Praveen Dhakad | [Read More](https://medium.com/p/11abdeb26c88) |
-| Wed, 16 Jul 2025 17:27:20 GMT | From Zero to Tech Writer: How I’m Building a Medium Page That Grows | K KHAN | [Read More](https://medium.com/p/98ef27eb4651) |
-| Wed, 16 Jul 2025 17:26:27 GMT | Cyber Security Offense and Defense Home Lab — Part 2 (Covers vmware download and installation… | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/bb2cde109733) |
-| Wed, 16 Jul 2025 17:25:52 GMT | DAY 7: Aching Gut, Steady Mind | Akshatdwivedi | [Read More](https://medium.com/p/81025f4deecc) |
-| Wed, 16 Jul 2025 17:24:02 GMT | The Role of Tools & Technology in Career Success | TechSkill UK | [Read More](https://medium.com/p/51d55233280b) |
-| Wed, 16 Jul 2025 17:12:17 GMT | Claim $BUGS tokens by Bugs Bunny with This Crypto Guide within Minutes | Bugs Bunny | [Read More](https://medium.com/p/87a078806abf) |
-| Wed, 16 Jul 2025 17:01:40 GMT | What Qualifies as a Script Change Under PCI DSS 11.6.1 — and How to Detect It | Feroot Security | [Read More](https://medium.com/p/aa688597a0a2) |
-| Wed, 16 Jul 2025 16:58:50 GMT | Masih pakai Codiad? Editor to Exploits | Fndy | [Read More](https://medium.com/p/7c79ba79b455) |
-| Wed, 16 Jul 2025 16:58:24 GMT | ScriptDissection: Slice, Analyze, and Secure Your Code | Andre Collier | [Read More](https://medium.com/p/ab612df76b87) |
-| Wed, 16 Jul 2025 16:57:56 GMT | Top Home Security Systems in Manhattan, NY - SafeZone NYC | Exploring security solutions | [Read More](https://medium.com/p/594f95ee8fb0) |
-| Wed, 16 Jul 2025 16:52:40 GMT | How to Monitor Someone’s Instagram: Top Spy Apps Reviewed | Narjis Batool | [Read More](https://medium.com/p/399f50ea4f36) |
-| Wed, 16 Jul 2025 16:52:10 GMT | Anti-Phishing Best Practices Every Business Should Follow | SafeAeon Inc. | [Read More](https://medium.com/p/8d2741053a0f) |
-| Wed, 16 Jul 2025 16:51:42 GMT | Secure EC2 SSH Access for GitHub Actions with Temporary IP Whitelisting | Syed Muhammad Ali | [Read More](https://medium.com/p/e3e7574a74e1) |
