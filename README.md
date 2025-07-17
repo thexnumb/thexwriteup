@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 01:46:04 GMT | User Authorisation in Streamlit | Thomas Reid | [Read More](https://medium.com/p/70f7b503a0fc) |
+| Thu, 17 Jul 2025 01:41:41 GMT | Big O Notation: The One Concept You Need to Nail Every Tech Interview | Avinash Jha | [Read More](https://medium.com/p/c2a24af91d1d) |
+| Thu, 17 Jul 2025 01:41:39 GMT | I Got Hacked, Then Built a Career Stopping Hackers | Aj | [Read More](https://medium.com/p/10c9642d72c5) |
+| Thu, 17 Jul 2025 01:40:10 GMT | Cybersecurity Careers Are Weird Right Now (So Stop Listening to 2010 Advice) | Abraham Eleojo Salifu | [Read More](https://medium.com/p/f6fe03aa8b91) |
+| Thu, 17 Jul 2025 01:40:00 GMT | Finding Hidden Connections With Modern Graph Algorithms in Complex Networks | Ashish Abraham | [Read More](https://medium.com/p/e13b54516b99) |
+| Thu, 17 Jul 2025 01:38:13 GMT | Hacked in Web3? $BOUNTY Token Is Built to Help | Rhaes | [Read More](https://medium.com/p/e0f33505d067) |
+| Thu, 17 Jul 2025 01:37:25 GMT | x86-64 GetPC: SYSCALL | Mustafa | [Read More](https://medium.com/p/02f7a3100a27) |
+| Thu, 17 Jul 2025 01:28:04 GMT | AnonSurf: Adding IP to terminal prompt | JMP ESP FF E4 | [Read More](https://medium.com/p/f5294333f02d) |
+| Thu, 17 Jul 2025 01:20:33 GMT | How an Intelligence Agency Strengthens National Cyber Intelligence Operations With Criminal IP… | Criminal IP | [Read More](https://medium.com/p/dc77db2d69e7) |
+| Thu, 17 Jul 2025 01:10:42 GMT | HackTheBox Outbound Walkthrough | Heliman | [Read More](https://medium.com/p/37cfe5e55e5d) |
+| Thu, 17 Jul 2025 01:05:45 GMT | Bitwarden vs Proton Pass: Which Password Manager Deserves Your Trust in 2025? | BiyteLüm | [Read More](https://medium.com/p/c5c853043e39) |
+| Thu, 17 Jul 2025 01:02:33 GMT | Optimizing Your AWS WAF: Practical Steps for Resilient Web Application Security | Vedant Vartak | [Read More](https://medium.com/p/fa30b735afb7) |
+| Thu, 17 Jul 2025 01:01:31 GMT | Are You New to Christian Futurism? | Rockefeller Kennedy | [Read More](https://medium.com/p/2aaf252f624c) |
+| Thu, 17 Jul 2025 00:58:20 GMT | Rethinking Logins: The Future of Secure Access May Be Worn on Your Finger | Internet Exposed | [Read More](https://medium.com/p/e8e24f11bece) |
+| Thu, 17 Jul 2025 00:43:00 GMT | Inside LockBit 3 (“LockBit Black”): Lab Detonation Diary & Lessons for Defenders | Achuth Chandra | [Read More](https://medium.com/p/4eed506f55c8) |
+| Thu, 17 Jul 2025 00:35:47 GMT | Design Challenge Day 31: File Upload | Oey Chang | [Read More](https://medium.com/p/9b7d132ff5b6) |
+| Thu, 17 Jul 2025 00:11:19 GMT | Signs a Woman Misses You Deeply: Four Words Reveal All | Lucas Brown | [Read More](https://medium.com/p/d5e3cface017) |
+| Thu, 17 Jul 2025 00:01:50 GMT | What is a Honeypot? How Cybersecurity Experts are Fighting Back | Spokeo People Search | [Read More](https://medium.com/p/825a03136201) |
+| Wed, 16 Jul 2025 23:57:01 GMT | How One Tiny Bug in Rust Cost Us Thousands in Downtime | SyntaxSavage | [Read More](https://medium.com/p/3c72a587a7b9) |
+| Wed, 16 Jul 2025 23:52:53 GMT | CTF Day(33) | Ahmed Narmer | [Read More](https://medium.com/p/aef2b1477fa5) |
+| Wed, 16 Jul 2025 23:52:43 GMT | IT Economics Essays | Area Dude | [Read More](https://medium.com/p/ad03d14ef621) |
 | Wed, 16 Jul 2025 23:31:10 GMT | HPE Morpheus Enterprise Software: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/550d4a65a312) |
 | Wed, 16 Jul 2025 23:24:15 GMT | Bridging the Divide: Uniting Data Analytics and Cybersecurity to Safeguard Financial Futures | Dr. Geethamanikanta Jakka | [Read More](https://medium.com/p/267c65c3fa48) |
 | Wed, 16 Jul 2025 23:23:09 GMT | Navigating the Icy Terrain: 7 Pain Points in Snowflake Every Data Engineer Should Know | Dr. Geethamanikanta Jakka | [Read More](https://medium.com/p/c4e0cf23cb27) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 16:52:40 GMT | How to Monitor Someone’s Instagram: Top Spy Apps Reviewed | Narjis Batool | [Read More](https://medium.com/p/399f50ea4f36) |
 | Wed, 16 Jul 2025 16:52:10 GMT | Anti-Phishing Best Practices Every Business Should Follow | SafeAeon Inc. | [Read More](https://medium.com/p/8d2741053a0f) |
 | Wed, 16 Jul 2025 16:51:42 GMT | Secure EC2 SSH Access for GitHub Actions with Temporary IP Whitelisting | Syed Muhammad Ali | [Read More](https://medium.com/p/e3e7574a74e1) |
-| Wed, 16 Jul 2025 16:46:30 GMT | SIM Swap Attacks: The Silent Threat Draining Crypto Wallets — And How to Stay Safe | mrblockchain22 | [Read More](https://medium.com/p/547188835337) |
-| Wed, 16 Jul 2025 16:42:46 GMT | Cloud Storage Isn’t Automatically Safe: Real Security Starts With You | Ceyda Irwin | [Read More](https://medium.com/p/a4a693050f5a) |
-| Wed, 16 Jul 2025 16:41:00 GMT | The Creator Must Be Sought: A Quiet Signal to the Future | Harley Stumph | [Read More](https://medium.com/p/e5d1478ccd4d) |
-| Wed, 16 Jul 2025 16:38:08 GMT | ⚔️ From Broken Virtual Machines to One-Click Recon: How I Finally Fixed My Setup | LordofHeaven | [Read More](https://medium.com/p/3f51076ccbe2) |
-| Wed, 16 Jul 2025 16:37:24 GMT | [pwn.college] Linux Luminarium — Shell Prompt | Day Lima | [Read More](https://medium.com/p/774360340261) |
-| Wed, 16 Jul 2025 16:36:17 GMT | How to Stop Attacks Before They Reach Your Inbox | SafeAeon Inc. | [Read More](https://medium.com/p/fdadaa95c7ad) |
-| Wed, 16 Jul 2025 16:32:57 GMT | How to Make an Android App More Secure | Jeswin | [Read More](https://medium.com/p/fd0b164a332b) |
-| Wed, 16 Jul 2025 16:30:34 GMT | PortSwigger Lab: Exploiting path mapping for web cache deception writeup (Web Cache Deception) | awes0meness | [Read More](https://medium.com/p/b4ccea0bad52) |
-| Wed, 16 Jul 2025 16:30:17 GMT | PortSwigger Lab: Exploiting NoSQL operator injection to extract unknown fields writeup (NoSQL) | awes0meness | [Read More](https://medium.com/p/f40e3b58b0f6) |
-| Wed, 16 Jul 2025 16:30:03 GMT | PortSwigger Lab: Exploiting NoSQL injection to extract data writeup (NoSQL) | awes0meness | [Read More](https://medium.com/p/4a7bb6333d54) |
-| Wed, 16 Jul 2025 16:17:53 GMT | HELO4D Login 2025 — Tutorial Lengkap Daftar, Verifikasi & Anti-Phishing | Helo4d Login | [Read More](https://medium.com/p/374b74fa10b0) |
-| Wed, 16 Jul 2025 16:16:58 GMT | Integrating Netskope SSE with CrowdStrike Next-Gen SIEM Using Cribl | Kaviarasan Asokan | [Read More](https://medium.com/p/bed8e66b3b21) |
-| Wed, 16 Jul 2025 16:12:57 GMT | The Fastest Way to Buy Bitcoin with a Mobile App in India: Why CryptoXpress Stands Out | Ufanabasi Ekong | [Read More](https://medium.com/p/4a70b6d6c77a) |
-| Wed, 16 Jul 2025 16:12:50 GMT | Cybersecurity Mirrors Your Home’s Plumbing for a Secure Future | Einstein Pros | [Read More](https://medium.com/p/4efbc5afda32) |
-| Wed, 16 Jul 2025 16:10:50 GMT | Hackthebox CBBH Çözümleri: “Server Side Attacks — Skills Assesment” Çözümü | noobcoder | [Read More](https://medium.com/p/d6b50c897556) |
-| Wed, 16 Jul 2025 16:05:36 GMT | Connecting Tomorrow: The Leap from 4G to 5G Networks | MadhavNair_312 | [Read More](https://medium.com/p/ccdf443f0d38) |
-| Wed, 16 Jul 2025 16:03:04 GMT | Ep. 546 Hugh Njemanze - Threat Intelligence and AI in Security Operations with Anomali | Brandon Zemp | [Read More](https://medium.com/p/fdf855096e9e) |
-| Wed, 16 Jul 2025 15:59:40 GMT | Thread Pool Timer Process Injection | Andrea Bocchetti | [Read More](https://medium.com/p/1eac206b4772) |
-| Wed, 16 Jul 2025 15:59:17 GMT | Hack Smarter: Automate Security Testing with LLMs and the CAI Framework | Cristóbal V | [Read More](https://medium.com/p/fea6e61c1400) |
-| Wed, 16 Jul 2025 15:48:04 GMT | When Your Grief Helps Someone Else Breathe! | Tawakalitu Lasisi | [Read More](https://medium.com/p/5628916d9921) |
-| Wed, 16 Jul 2025 15:45:08 GMT | The Smart Home of 2025: Seamless Automation and Ambient Intelligence | Xaltius | [Read More](https://medium.com/p/f5c7c8f7af99) |
