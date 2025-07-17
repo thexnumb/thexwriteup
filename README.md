@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 14:36:05 GMT | Vulnerability on My Android Hotspot | Pramodh Cyb | [Read More](https://medium.com/p/2b1a4e1ad076) |
+| Thu, 17 Jul 2025 14:35:49 GMT | Day 36: How to Handle File Uploads in Node.js Like a Pro | Dipak Ahirav | [Read More](https://medium.com/p/2e0545e9ce51) |
+| Thu, 17 Jul 2025 14:35:22 GMT | Unmasking RDP Intrusions: Forensic Breakthroughs in Tracking Remote Desktop Exploits. | eL Njas!™ | [Read More](https://medium.com/p/1f8d3335bf84) |
+| Thu, 17 Jul 2025 14:32:42 GMT | यूको बैंक से पैसे कट जाए तो क्या करें?-7482837479 | uco bank se paise cut jaaye to kya karen | [Read More](https://medium.com/p/ac6cf00be47c) |
+| Thu, 17 Jul 2025 14:32:17 GMT | यूको बैंक से पैसे कट जाए तो क्या करें?-7482837479 | uco bank se paise cut jaaye to kya karen | [Read More](https://medium.com/p/6692af29c490) |
+| Thu, 17 Jul 2025 14:30:45 GMT | How I Built a CLI Tool That Detects API Keys and Secrets Before You Push to Git | Zain Ahmad | [Read More](https://medium.com/p/270b019679de) |
 | Thu, 17 Jul 2025 14:18:24 GMT | Business Logic Vulnerabilities part-4 : Low-level logic flaw | Ahmad Sopyan | [Read More](https://medium.com/p/8cc94d37003c) |
+| Thu, 17 Jul 2025 14:14:39 GMT | When Was the Self Tapper Invented? (Shocking 1910s Origin + Size Guide!) | theentertainmentsite | [Read More](https://medium.com/p/1c8d95d9975f) |
 | Thu, 17 Jul 2025 14:13:12 GMT | 10 Wireshark Filters Every Cyber Pro Should Know | Vijay Kumar Gupta | [Read More](https://medium.com/p/47db04b46d1a) |
 | Thu, 17 Jul 2025 14:05:15 GMT | The Power Of Cybersecurity | Nida Fatima | [Read More](https://medium.com/p/071ea53d3592) |
 | Thu, 17 Jul 2025 14:03:09 GMT | Technical Debt in Cybersecurity | abdeldayemnour | [Read More](https://medium.com/p/22669983af18) |
@@ -107,11 +114,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/6eaa03ee69
 | Thu, 17 Jul 2025 09:42:06 GMT | Why AI Alone Can’t Protect Us From Phishing | Paul Walsh | [Read More](https://medium.com/p/c541a9d6073e) |
 | Thu, 17 Jul 2025 09:41:28 GMT | Top 7 FAQs About Bug Bounties (Answered for Web3 Security Hunters) | Stupid Contract | [Read More](https://medium.com/p/ffbf3dbe3035) |
 | Thu, 17 Jul 2025 09:41:23 GMT | Cyber Threat Intelligence: | Shubham Bane | [Read More](https://medium.com/p/c2700df742a5) |
-| Thu, 17 Jul 2025 09:35:24 GMT | Instagram Token Leak Exposed: A Bug Bounty Breakdown | Kalariya Het | [Read More](https://medium.com/p/e51694e5c838) |
-| Thu, 17 Jul 2025 09:33:58 GMT | How a PMP® Certification Can Transform Your Project Management Career | Safarisprz01 | [Read More](https://medium.com/p/4562ffe318c7) |
-| Thu, 17 Jul 2025 09:33:46 GMT | From Tallinn to Tehran: How Cyber Warfare Challenges the Foundations of International Law | Mean Treaties | [Read More](https://medium.com/p/8aa66941bd59) |
-| Thu, 17 Jul 2025 09:32:57 GMT | The Foundation of Digital Trust: Understanding Your Cyber Security Risks: A Business Imperative | Paul Sherman | [Read More](https://medium.com/p/738f5f4f6771) |
-| Thu, 17 Jul 2025 09:28:43 GMT | Why Updating to WinRAR 7.12 | Easy2Patch | [Read More](https://medium.com/p/eaee73ea908b) |
-| Thu, 17 Jul 2025 09:24:12 GMT | Title:
-Drosera: Ethereum’s Secret Weapon for Onchain Security | Matt | [Read More](https://medium.com/p/055a286d888a) |
-| Thu, 17 Jul 2025 09:16:47 GMT | “From a 404 Page to $5k: How I Chained Forgotten Bugs Into a Critical Exploit” | Aman Sharma | [Read More](https://medium.com/p/cbb88e0f6516) |
