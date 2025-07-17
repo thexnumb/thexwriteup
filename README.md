@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 16:34:34 GMT | PortSwigger Lab: Exploiting cache server normalization for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/a842755258dc) |
+| Thu, 17 Jul 2025 16:34:22 GMT | PortSwigger Lab: Lab Exploiting origin server normalization for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/526aac89e960) |
+| Thu, 17 Jul 2025 16:34:09 GMT | PortSwigger Lab: Exploiting path delimiters for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/19747b8c4a4c) |
+| Thu, 17 Jul 2025 16:33:49 GMT | From HTML Injection to Admin Info Leak — My First Bug Bounty Payout | Taher | [Read More](https://medium.com/p/751a16b41518) |
+| Thu, 17 Jul 2025 16:32:45 GMT | Day 53: The Shell | Nile Okomo | [Read More](https://medium.com/p/464617e892ab) |
+| Thu, 17 Jul 2025 16:27:24 GMT | 5 Tips to Protect Your Smartphone from Getting Hacked | Syeda Aisha | [Read More](https://medium.com/p/7cf03d9bcd74) |
+| Thu, 17 Jul 2025 16:25:36 GMT | 5 Questions You Must Ask Yourself Before You Post Anything Online | DANIEL ANAGU | [Read More](https://medium.com/p/52b0503c3336) |
+| Thu, 17 Jul 2025 16:22:33 GMT | Why I Switched to CryptoXpress from MetaMask for Security Reasons | Ekereobong Umanah | [Read More](https://medium.com/p/d42ce31b44c9) |
 | Thu, 17 Jul 2025 16:19:31 GMT | Top Spy Apps for WhatsApp Monitoring: Track Chats Stealthily | Narjis Batool | [Read More](https://medium.com/p/0a3f9f2b6bee) |
 | Thu, 17 Jul 2025 16:16:01 GMT | My Latest Bug: Reflected XSS on GlobalProtect VPN Portal (CVE-2025–0133) | 0verRida | [Read More](https://medium.com/p/ba1649943250) |
 | Thu, 17 Jul 2025 16:16:01 GMT | When Indifference Hurts More than Words | Ink Within | [Read More](https://medium.com/p/f5024b1f2cc7) |
@@ -106,11 +114,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/6eaa03ee69
 | Thu, 17 Jul 2025 11:03:03 GMT | Top Cyber Security Training in India - GICSEH — Leading Cyber Security Institute | GICSEH | [Read More](https://medium.com/p/6c9e75332873) |
 | Thu, 17 Jul 2025 11:03:02 GMT | The Unwinnable War? How Microsoft Built a Digital Fortress Around Windows | elpe_pinillo | [Read More](https://medium.com/p/7b81d5db7aaa) |
 | Thu, 17 Jul 2025 11:02:14 GMT | Docker Networking Explained: A Complete Guide for Beginners & DevOps Engineers | Harleen kaur | [Read More](https://medium.com/p/2af9c5c53edc) |
-| Thu, 17 Jul 2025 10:59:53 GMT | Kali Linux Commands and Their Purpose: The Ultimate Guide for Cybersecurity Mastery | Barukh Aswad | [Read More](https://medium.com/p/38f2cc8bb59c) |
-| Thu, 17 Jul 2025 10:59:36 GMT | Ransomware Attacks: What You Need to Know | Hitesh Said | [Read More](https://medium.com/p/84ea6515b2d4) |
-| Thu, 17 Jul 2025 10:59:30 GMT | The Day I Realized My Tools Were Holding Me Back | Andrei Ivan | [Read More](https://medium.com/p/6e0eadcc12d3) |
-| Thu, 17 Jul 2025 10:58:05 GMT | Process Injection: Harnessing the Power of Shellcode | Redfox Security | [Read More](https://medium.com/p/92e45ea72be6) |
-| Thu, 17 Jul 2025 10:57:54 GMT | Secure-by-Design: Engineering Applications for Zero Trust Environment | Sandeep Saxena | [Read More](https://medium.com/p/be2ee79497c0) |
-| Thu, 17 Jul 2025 10:57:10 GMT | Best Cyber Security Institute in Kolkata — Learn Ethical Hacking with Edu Den | Edu Den | [Read More](https://medium.com/p/ed17c911e896) |
-| Thu, 17 Jul 2025 10:56:54 GMT | How to Achieve Root-Like Control Without Rooting: Shizuku’s Perils & Talsec’s Root Detection | Talsec | [Read More](https://medium.com/p/ad433a5b46ab) |
-| Thu, 17 Jul 2025 10:56:13 GMT | HackTheBox “Code” Writeup — From Python Sandbox Escape to Root via JSON Bypass | Damara Brian | [Read More](https://medium.com/p/16d668bd307e) |
