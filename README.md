@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 10:10:59 GMT | Nasıl Koruyoruz? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/f6e43edeecaa) |
+| Thu, 17 Jul 2025 10:04:49 GMT | Beyond the Blockchain: Surviving a Crypto Hack | Bytewords | [Read More](https://medium.com/p/a8400e5df14c) |
+| Thu, 17 Jul 2025 10:00:28 GMT | My data , My Choice | Sobix | [Read More](https://medium.com/p/b6baf6f48741) |
+| Thu, 17 Jul 2025 09:58:58 GMT | Your Airplane Is at Risk? The Shocking Truth About GPS Spoofing | Xaar The Educator | [Read More](https://medium.com/p/e3d301bb5d9d) |
+| Thu, 17 Jul 2025 09:56:37 GMT | Practical SQLi WAF Bypass Techniques | Cybersectoworld | [Read More](https://medium.com/p/7e049787a941) |
+| Thu, 17 Jul 2025 09:56:30 GMT | ANNOUNCING: GoPlus Security’s Enhanced Focus on Foundational Web3 Security | GoPlus Security | [Read More](https://medium.com/p/35cead234614) |
+| Thu, 17 Jul 2025 09:55:40 GMT | Drosera: Onchain Security for a Trustless Future | Fivestttttar | [Read More](https://medium.com/p/d8682c9658fe) |
+| Thu, 17 Jul 2025 09:51:45 GMT | Try Hack Me: Gotta Catch’em All Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/fc517a590427) |
+| Thu, 17 Jul 2025 09:47:15 GMT | The Doors | Muse | [Read More](https://medium.com/p/8f81187a999b) |
 | Thu, 17 Jul 2025 09:42:32 GMT | Massive Credential Leak: 16B Logins Exposed | Kalariya Het | [Read More](https://medium.com/p/825303d2ba08) |
+| Thu, 17 Jul 2025 09:42:26 GMT | ️ Day #21 Introduction to Phishing Analysis: Investigating a Suspicious PayPal Email | Rishavkumarthapa | [Read More](https://medium.com/p/a386887299d0) |
 | Thu, 17 Jul 2025 09:42:06 GMT | Why AI Alone Can’t Protect Us From Phishing | Paul Walsh | [Read More](https://medium.com/p/c541a9d6073e) |
 | Thu, 17 Jul 2025 09:41:28 GMT | Top 7 FAQs About Bug Bounties (Answered for Web3 Security Hunters) | Stupid Contract | [Read More](https://medium.com/p/ffbf3dbe3035) |
 | Thu, 17 Jul 2025 09:41:23 GMT | Cyber Threat Intelligence: | Shubham Bane | [Read More](https://medium.com/p/c2700df742a5) |
@@ -103,13 +113,3 @@ Drosera: Ethereum’s Secret Weapon for Onchain Security | Matt | [Read More](ht
 | Thu, 17 Jul 2025 05:19:26 GMT | Strategic Paralysis by Design: Part VI — Maritime Chokeholds and Trojan Ports — Critical… | Chris Clark | [Read More](https://medium.com/p/acb3a02c59de) |
 | Thu, 17 Jul 2025 05:18:46 GMT | Can I Haz Root? :: Observer | Cyber Grover ‍ | [Read More](https://medium.com/p/6eb99186c7b6) |
 | Thu, 17 Jul 2025 05:18:15 GMT | Deploy Wazuh with Elastic Stack on Ubuntu | Bit by Byte | [Read More](https://medium.com/p/ee6679f39eb0) |
-| Thu, 17 Jul 2025 05:17:34 GMT | Top 7 Cybersecurity Threats Small Businesses Should Watch in 2025 | Usmanarifkhan | [Read More](https://medium.com/p/e26b665e5d93) |
-| Thu, 17 Jul 2025 05:14:47 GMT | Exploring the Best Non-WiFi Baby Monitor: Jartoo’s Innovative Solutions | Rifaharifatul | [Read More](https://medium.com/p/335cb2d40d62) |
-| Thu, 17 Jul 2025 05:10:49 GMT | Username enumeration via different responses [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/d0e532bbe33e) |
-| Thu, 17 Jul 2025 05:06:58 GMT | Your Phone Is a Snitch — Even When It’s Off | Pankaj Suthar | [Read More](https://medium.com/p/0c09412e37f2) |
-| Thu, 17 Jul 2025 05:04:56 GMT | Why Every Hacker Needs a Shitty Car | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/635f0a26be7a) |
-| Thu, 17 Jul 2025 05:01:17 GMT | You Think Your Crypto is Private? Think Again. | Iqbalhermawan | [Read More](https://medium.com/p/f0c4e28b2521) |
-| Thu, 17 Jul 2025 04:50:31 GMT | Free Rovo Dev CLI Agent for Bug Hunters/Pentesters | AbhirupKonwar | [Read More](https://medium.com/p/9d47b6ebc4a0) |
-| Thu, 17 Jul 2025 04:50:28 GMT | Mastering the Hidden Arts: A Practical & Scholarly Guide to kali-tools-crypto-stego | Rafalwbcraft | [Read More](https://medium.com/p/4cc8be14e371) |
-| Thu, 17 Jul 2025 04:49:59 GMT | The Facts About Continuous Penetration Testing and Why It’s Important | Securis360 Inc. | [Read More](https://medium.com/p/81c70e5ff63f) |
-| Thu, 17 Jul 2025 04:44:24 GMT | My Journey: Discovering the Relationship Between Kali Linux and Black Arch | Kalyan Dev | [Read More](https://medium.com/p/d673f0692040) |
