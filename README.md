@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 21:13:56 GMT | Starting My Cybersecurity Journey Post-Graduation | Godsonsec | [Read More](https://medium.com/p/1ee0c4736467) |
+| Thu, 17 Jul 2025 21:12:15 GMT | The “Working from China” Problem | Ryan McGeehan | [Read More](https://medium.com/p/18045ca8060a) |
+| Thu, 17 Jul 2025 21:11:45 GMT | Getting Old, and Your Kids Are Acting Like They Can’t Stand You? Here’s What to Do | Gemma Hill | [Read More](https://medium.com/p/295d24b3f914) |
+| Thu, 17 Jul 2025 21:11:11 GMT | Top 5 Mistakes People Make When Installing Smoke Detectors | Ataraxis Solutions | [Read More](https://medium.com/p/c3539e84c9bd) |
+| Thu, 17 Jul 2025 21:02:08 GMT | Trying to Earn the Love I Already Had | Toluwalope Oyewusi | [Read More](https://medium.com/p/20589776981c) |
+| Thu, 17 Jul 2025 20:49:58 GMT | The $10M Close Call: Why DeFi’s Security Crisis Demands a New Approach | Mr Alex Yung® | [Read More](https://medium.com/p/1e9558a86e01) |
+| Thu, 17 Jul 2025 20:46:23 GMT | Generating and Executing Shellcode with Donut | S12 - 0x12Dark Development | [Read More](https://medium.com/p/97970d5df044) |
+| Thu, 17 Jul 2025 20:39:41 GMT | Stepping Back Into The Light | Grace Kelly | [Read More](https://medium.com/p/df408d36795c) |
 | Thu, 17 Jul 2025 20:39:34 GMT | The AI won’t replace developers — Yet… | George Petropoulos | [Read More](https://medium.com/p/6fbf1d4ef00f) |
 | Thu, 17 Jul 2025 20:24:59 GMT | SnakeKeylogger Phishing Campaign — IOC Analysis and Malware Infrastructure Breakdown | Kanada | [Read More](https://medium.com/p/7013a768dc5d) |
 | Thu, 17 Jul 2025 20:24:37 GMT | July 18, 2025 — Scanning the Internet, Missing the Past, and Chasing Godzilla | IamGhost | [Read More](https://medium.com/p/9f9509dfbed3) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 14:35:22 GMT | Unmasking RDP Intrusions: Forensic Breakthroughs in Tracking Remote Desktop Exploits. | eL Njas!™ | [Read More](https://medium.com/p/1f8d3335bf84) |
 | Thu, 17 Jul 2025 14:32:42 GMT | यूको बैंक से पैसे कट जाए तो क्या करें?-7482837479 | uco bank se paise cut jaaye to kya karen | [Read More](https://medium.com/p/ac6cf00be47c) |
 | Thu, 17 Jul 2025 14:32:17 GMT | यूको बैंक से पैसे कट जाए तो क्या करें?-7482837479 | uco bank se paise cut jaaye to kya karen | [Read More](https://medium.com/p/6692af29c490) |
-| Thu, 17 Jul 2025 14:30:45 GMT | How I Built a CLI Tool That Detects API Keys and Secrets Before You Push to Git | Zain Ahmad | [Read More](https://medium.com/p/270b019679de) |
-| Thu, 17 Jul 2025 14:18:24 GMT | Business Logic Vulnerabilities part-4 : Low-level logic flaw | Ahmad Sopyan | [Read More](https://medium.com/p/8cc94d37003c) |
-| Thu, 17 Jul 2025 14:14:39 GMT | When Was the Self Tapper Invented? (Shocking 1910s Origin + Size Guide!) | theentertainmentsite | [Read More](https://medium.com/p/1c8d95d9975f) |
-| Thu, 17 Jul 2025 14:13:12 GMT | 10 Wireshark Filters Every Cyber Pro Should Know | Vijay Kumar Gupta | [Read More](https://medium.com/p/47db04b46d1a) |
-| Thu, 17 Jul 2025 14:05:15 GMT | The Power Of Cybersecurity | Nida Fatima | [Read More](https://medium.com/p/071ea53d3592) |
-| Thu, 17 Jul 2025 14:03:09 GMT | Technical Debt in Cybersecurity | abdeldayemnour | [Read More](https://medium.com/p/22669983af18) |
-| Thu, 17 Jul 2025 14:03:07 GMT | What Makes a Great Cybersecurity Company in Ontario? Metrics That Matter | Zeta Sky | [Read More](https://medium.com/p/2c8288b06f7d) |
-| Thu, 17 Jul 2025 14:03:04 GMT | Cyber Briefing: 2025.07.17 | CyberMaterial | [Read More](https://medium.com/p/89a93d8503b4) |
