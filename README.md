@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 12:41:02 GMT | ✨ ChatGPT-5 Is Coming: क्या बदलेगा आने वाला AI का Future? | Knowledge Station | [Read More](https://medium.com/p/70f6c93676a4) |
+| Thu, 17 Jul 2025 12:34:43 GMT | Passive Reconnaissance on TryHackMe: A Complete Beginner’s Walkthrough to Silent Intelligence… | LB Cyber Journal | [Read More](https://medium.com/p/b1ff0148397d) |
+| Thu, 17 Jul 2025 12:34:40 GMT | Siber Tehdit İstihbaratı (CTI) Nedir? | Hasan BAYRAKTAR | [Read More](https://medium.com/p/2cc2c7eac04a) |
+| Thu, 17 Jul 2025 12:33:48 GMT | Networking Fundamentals for Beginners: Complete Guide | Ifeoma Nwokeoma | [Read More](https://medium.com/p/bfc85f4b63cb) |
+| Thu, 17 Jul 2025 12:33:13 GMT | My First Bounty: How I Found an Information Disclosure Bug on HackerOne | Zahinshahriar | [Read More](https://medium.com/p/9f0ce9fe7c1a) |
+| Thu, 17 Jul 2025 12:24:29 GMT | New Series: Kill Chain Weekly: A DFIR Casebook Series | Sneh bavarva | [Read More](https://medium.com/p/de070eaebf1e) |
+| Thu, 17 Jul 2025 12:19:48 GMT | Vibe-Coding Series · Pt. 2 — Define the Requirements | João Vitor Sales | [Read More](https://medium.com/p/3ea0428b7df8) |
+| Thu, 17 Jul 2025 12:17:34 GMT | Is HappyMod Safe in 2025? Risks, Legality & Safe Download Guide | Zoe | [Read More](https://medium.com/p/d6f5eea6447c) |
+| Thu, 17 Jul 2025 12:13:37 GMT | The Role of AI and Automation in Hybrid SOC Services | sanya | [Read More](https://medium.com/p/4e8b057ea817) |
+| Thu, 17 Jul 2025 12:11:56 GMT | DevSecOps sharing — Using Teleport to protect your resources | Rennaps | [Read More](https://medium.com/p/324373f7f86d) |
+| Thu, 17 Jul 2025 12:11:48 GMT | Secure Software Development: A Key to Stronger Cybersecurity | Dany Christel | [Read More](https://medium.com/p/ae82652f45cb) |
+| Thu, 17 Jul 2025 12:07:06 GMT | DID YOU LOST YOUR CRYPTO? DO YOU WANT TO RECOVER YOUR STOLEN BITCOIN,
+BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/6eaa03ee69dd) |
+| Thu, 17 Jul 2025 12:04:37 GMT | The Hidden Security Benefit of Writing Tests | Farzin Ghanbari | [Read More](https://medium.com/p/d5e67ab0af18) |
+| Thu, 17 Jul 2025 12:02:34 GMT | ✅ Penetration Testing: Zero to Expert — Course Structure (With Practical Labs) | Barukh Aswad | [Read More](https://medium.com/p/ad04bc01dc77) |
+| Thu, 17 Jul 2025 12:01:18 GMT | Learning Web App Exploitation for Free - Day 2–4 | Hiba Hamd | [Read More](https://medium.com/p/381f9fd77e0a) |
+| Thu, 17 Jul 2025 11:56:30 GMT | India’s Robotics Future Just Went Quantum-Secure: Quranium and AIRA Announce Strategic Partnership | Bright Mmaduabuchi | [Read More](https://medium.com/p/4439d7423645) |
+| Thu, 17 Jul 2025 11:48:25 GMT | Implementing Security in the CI/CD pipeline | Arathy Nair | [Read More](https://medium.com/p/b2ddb0c2b23a) |
+| Thu, 17 Jul 2025 11:47:34 GMT | Why Containers Help Developers and AI Projects | Damien TIVELET | [Read More](https://medium.com/p/e1a7b0bff00f) |
+| Thu, 17 Jul 2025 11:42:31 GMT | #  Navigating New Cybersecurity Laws: Compliance Tips for SMEs in 2025 | Swathi Vaka | [Read More](https://medium.com/p/b852ebe811e3) |
+| Thu, 17 Jul 2025 11:39:33 GMT | Reverse Social Engineering: When the Hacker Waits for You to Call | Travis Ray Caverhill | [Read More](https://medium.com/p/27178a7e69c7) |
 | Thu, 17 Jul 2025 11:33:39 GMT | Prompt Injection to Bounty: How LLMs Can Turn Into Entry Points | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bbf7bb6c8b05) |
 | Thu, 17 Jul 2025 11:28:43 GMT | Day 46: NIST CSF 2.0 Introduction (Structure) | Brittney Ginther | [Read More](https://medium.com/p/892372770756) |
 | Thu, 17 Jul 2025 11:28:35 GMT | Pakistan Shifts Blame from Kabul to New Delhi for Terror Attacks | mahwish qayyum | [Read More](https://medium.com/p/bb736c8d90be) |
@@ -93,23 +114,3 @@ Drosera: Ethereum’s Secret Weapon for Onchain Security | Matt | [Read More](ht
 | Thu, 17 Jul 2025 08:07:02 GMT | The Hidden Security Risk in Image Optimization (Yes, It’s Real) | Bilal Ahmad | [Read More](https://medium.com/p/5bc64a91f146) |
 | Thu, 17 Jul 2025 08:05:56 GMT | Before You Undress, Cinderella | Wizard Mike | [Read More](https://medium.com/p/996696041cdf) |
 | Thu, 17 Jul 2025 08:05:09 GMT | Cybersecurity in Pakistan: A Hacker’s Vision for National Digital Defense | Inayat Hussain | [Read More](https://medium.com/p/9889b7477013) |
-| Thu, 17 Jul 2025 08:02:31 GMT | Footprinting in Cybersecurity: What It Is, Why It Matters & How Ethical Hackers Use It | LB Cyber Journal | [Read More](https://medium.com/p/656d7f0c1c80) |
-| Thu, 17 Jul 2025 08:01:57 GMT | How Does SafeLine WAF Handle Bots? Customize Your Bot Protection | Maverick Steel | [Read More](https://medium.com/p/658de6afb2c0) |
-| Thu, 17 Jul 2025 07:59:16 GMT | Trusted Protective Home Security Near Greater Manchester | Marvelloussecurities | [Read More](https://medium.com/p/0140ccb7fe4c) |
-| Thu, 17 Jul 2025 07:59:04 GMT | Day3- Cybersecurity Basics for Beginners: Understanding CIA Triad, Threats, and Attacks | unica 02 | [Read More](https://medium.com/p/e152cf0abffd) |
-| Thu, 17 Jul 2025 07:57:54 GMT | ประจำวันพฤหัสบดีที่ 17 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/e79615c59666) |
-| Thu, 17 Jul 2025 07:55:30 GMT | Pastebin Past: Finding Leaked API Keys from Forgotten Secrets | Iski | [Read More](https://medium.com/p/857e5ef0f6d4) |
-| Thu, 17 Jul 2025 07:48:33 GMT | How IDOR gave me ability to takeover anyone’s account with one single Click | Ali Razzaq | [Read More](https://medium.com/p/b9eb59a8ebe1) |
-| Thu, 17 Jul 2025 07:47:23 GMT | ChatGPT isn’t a Therapist, Oracle or your friend — It’s a Just a tool | Ananya Pandey | [Read More](https://medium.com/p/1eb02e4be8ea) |
-| Thu, 17 Jul 2025 07:36:38 GMT | When an 404 suddenly turns 200 and you didn’t knew | Héber Júlio | [Read More](https://medium.com/p/b35e474df44b) |
-| Thu, 17 Jul 2025 07:35:40 GMT | IT Equipment - NABL Certified | House Of Testing | [Read More](https://medium.com/p/a9db20dd5086) |
-| Thu, 17 Jul 2025 07:29:04 GMT | The Bottleneck in Enterprise AI | Marcus Jairus | [Read More](https://medium.com/p/8d0ac093191a) |
-| Thu, 17 Jul 2025 07:27:54 GMT | The Productivity Paradox: Three Stories About Corporate AI Adoption | Aaron Rose | [Read More](https://medium.com/p/f63e1d46d4b6) |
-| Thu, 17 Jul 2025 07:26:52 GMT | Top 5 Cybersecurity Courses After 12th for High-Paying Jobs | cyber security Updates | [Read More](https://medium.com/p/10624e5d10a2) |
-| Thu, 17 Jul 2025 07:23:21 GMT | Cyber-security in Accounting: 5 Ways to Safeguard Your Financial Data | DB Accounting | [Read More](https://medium.com/p/b8b66ae0f99e) |
-| Thu, 17 Jul 2025 07:18:36 GMT | Fronline soldiers, drones and cyber | Martin Abramov | [Read More](https://medium.com/p/e3ac9a1414d4) |
-| Thu, 17 Jul 2025 07:17:37 GMT | Understanding Test Automation Frameworks with Real Examples — NareshIT | Jayanthinareshit | [Read More](https://medium.com/p/6eee1f2d7bb9) |
-| Thu, 17 Jul 2025 07:16:49 GMT | .git Exposed: Real Exploits, Real Data Leaks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ccb994ce0dc8) |
-| Thu, 17 Jul 2025 07:16:23 GMT | Google Dorking 2.0: Hunting Secrets in Public Search Engines | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ac5fe64cb33b) |
-| Thu, 17 Jul 2025 07:15:56 GMT | VSCode Extensions are Malicious — Here’s What I Found After Scanning 1,000 of Them | Shadow Ninja | [Read More](https://medium.com/p/b368461e7b88) |
-| Thu, 17 Jul 2025 07:14:54 GMT | INJECTION | Enoch Root | [Read More](https://medium.com/p/93e52a312efe) |
