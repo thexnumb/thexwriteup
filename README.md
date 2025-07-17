@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 11:33:39 GMT | Prompt Injection to Bounty: How LLMs Can Turn Into Entry Points | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bbf7bb6c8b05) |
+| Thu, 17 Jul 2025 11:28:43 GMT | Day 46: NIST CSF 2.0 Introduction (Structure) | Brittney Ginther | [Read More](https://medium.com/p/892372770756) |
+| Thu, 17 Jul 2025 11:28:35 GMT | Pakistan Shifts Blame from Kabul to New Delhi for Terror Attacks | mahwish qayyum | [Read More](https://medium.com/p/bb736c8d90be) |
+| Thu, 17 Jul 2025 11:27:32 GMT | Grasp the Exceptional Attributes of the Best Security Guard Companies in Los Angeles | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/a15f13452405) |
+| Thu, 17 Jul 2025 11:19:36 GMT | Top Strategies To Defend Against AI-Powered Attacks In 2025 | Orsonamiri | [Read More](https://medium.com/p/7a0c6219b882) |
+| Thu, 17 Jul 2025 11:19:32 GMT | How do hybrid SOC services protect businesses? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/97425662d6a0) |
+| Thu, 17 Jul 2025 11:18:40 GMT | Cyber Insurance — A Raising Market With Distinct Challenges ‍☂ | Tailor-made Actuarial and Statistical Consulting | [Read More](https://medium.com/p/bd0d2ae35692) |
+| Thu, 17 Jul 2025 11:11:04 GMT | Data Poisoning Attacks Against Machine Learning Algorithms | Akmal Makhmudov | [Read More](https://medium.com/p/6df0d3cd3164) |
 | Thu, 17 Jul 2025 11:04:42 GMT | A Lot of Observation and a Little Adjustment. | Anthony Mukwaya | [Read More](https://medium.com/p/04471f876277) |
 | Thu, 17 Jul 2025 11:04:11 GMT | AI for startups: Balancing innovation with trust & security in 2025 | NERDZ LAB | [Read More](https://medium.com/p/9ef451011273) |
 | Thu, 17 Jul 2025 11:03:29 GMT | Securing Digital Futures: Cybersecurity in Saudi Arabia | Dsquare Global Analytics | [Read More](https://medium.com/p/874e6c83cde6) |
@@ -105,11 +113,3 @@ Drosera: Ethereum’s Secret Weapon for Onchain Security | Matt | [Read More](ht
 | Thu, 17 Jul 2025 07:16:23 GMT | Google Dorking 2.0: Hunting Secrets in Public Search Engines | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ac5fe64cb33b) |
 | Thu, 17 Jul 2025 07:15:56 GMT | VSCode Extensions are Malicious — Here’s What I Found After Scanning 1,000 of Them | Shadow Ninja | [Read More](https://medium.com/p/b368461e7b88) |
 | Thu, 17 Jul 2025 07:14:54 GMT | INJECTION | Enoch Root | [Read More](https://medium.com/p/93e52a312efe) |
-| Thu, 17 Jul 2025 07:10:08 GMT | XSS (Cross-site Scripting)Nedir? | nur eskihoran | [Read More](https://medium.com/p/f5d1a934566e) |
-| Thu, 17 Jul 2025 07:07:46 GMT | The Business Benefits Of IT Support You Can Actually Rely On | Junoxen | [Read More](https://medium.com/p/5c9b26bca214) |
-| Thu, 17 Jul 2025 07:01:54 GMT | De datos a información: cómo transformé mi fase de reconocimiento en Bug Bounty | Gorka | [Read More](https://medium.com/p/abe0d8355d05) |
-| Thu, 17 Jul 2025 06:56:35 GMT | [TR] VulnHub-Tr0ll: 1 | Kaan Ekşi | [Read More](https://medium.com/p/35d935710de2) |
-| Thu, 17 Jul 2025 06:53:20 GMT | How to Resolve Wi-Fi Disconnection Issues | Baikan Ramchander | [Read More](https://medium.com/p/9846900366e1) |
-| Thu, 17 Jul 2025 06:43:51 GMT | Why SafeLine Can’t See the Real Client IP — And How to Fix It | Quella | [Read More](https://medium.com/p/5c2de220933f) |
-| Thu, 17 Jul 2025 06:43:12 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/dc40a0e6b056) |
-| Thu, 17 Jul 2025 06:34:35 GMT | The Linux Security Journey — Kernel Module Signing | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/fe269232248e) |
