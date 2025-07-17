@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 17:33:58 GMT | Crowd Management Services: Role of Crowd Control Services in Public Gatherings | Support | [Read More](https://medium.com/p/2483becdcfd8) |
+| Thu, 17 Jul 2025 17:28:47 GMT | Clickjacking Explained Simply — How Hackers Hijack Your Clicks (And How to Stop Them) | Bhupesh kumar | [Read More](https://medium.com/p/a2702ff4f4e6) |
+| Thu, 17 Jul 2025 17:11:26 GMT | What Is an IP Address — Like I’m 5 | Haroon Shahid | [Read More](https://medium.com/p/5a8d21b35928) |
 | Thu, 17 Jul 2025 17:08:27 GMT | LFI DVWA (Low, Medium & high) | Dewa Agustina | [Read More](https://medium.com/p/d8a78c40b5d9) |
+| Thu, 17 Jul 2025 17:06:15 GMT | Update to Concept — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/1bb2d65f406d) |
 | Thu, 17 Jul 2025 17:00:15 GMT | Documenting my Cyber Security Journey | Joseph Thomas Gorman | [Read More](https://medium.com/p/b1c99ab4f511) |
 | Thu, 17 Jul 2025 16:34:34 GMT | PortSwigger Lab: Exploiting cache server normalization for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/a842755258dc) |
 | Thu, 17 Jul 2025 16:34:22 GMT | PortSwigger Lab: Lab Exploiting origin server normalization for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/526aac89e960) |
@@ -110,7 +114,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/6eaa03ee69
 | Thu, 17 Jul 2025 11:18:40 GMT | Cyber Insurance — A Raising Market With Distinct Challenges ‍☂ | Tailor-made Actuarial and Statistical Consulting | [Read More](https://medium.com/p/bd0d2ae35692) |
 | Thu, 17 Jul 2025 11:11:04 GMT | Data Poisoning Attacks Against Machine Learning Algorithms | Akmal Makhmudov | [Read More](https://medium.com/p/6df0d3cd3164) |
 | Thu, 17 Jul 2025 11:04:42 GMT | A Lot of Observation and a Little Adjustment. | Anthony Mukwaya | [Read More](https://medium.com/p/04471f876277) |
-| Thu, 17 Jul 2025 11:04:11 GMT | AI for startups: Balancing innovation with trust & security in 2025 | NERDZ LAB | [Read More](https://medium.com/p/9ef451011273) |
-| Thu, 17 Jul 2025 11:03:29 GMT | Securing Digital Futures: Cybersecurity in Saudi Arabia | Dsquare Global Analytics | [Read More](https://medium.com/p/874e6c83cde6) |
-| Thu, 17 Jul 2025 11:03:07 GMT | DeepFakes: Detecting AI-Generated Deception | Aziz Sasmaz | [Read More](https://medium.com/p/317685531734) |
-| Thu, 17 Jul 2025 11:03:03 GMT | Top Cyber Security Training in India - GICSEH — Leading Cyber Security Institute | GICSEH | [Read More](https://medium.com/p/6c9e75332873) |
