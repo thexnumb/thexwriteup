@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 15:36:28 GMT | Can You Maintain Your Website Alone — Or Should You Hire a Pro? | DigiGenHub | [Read More](https://medium.com/p/b2f593850e40) |
+| Thu, 17 Jul 2025 15:36:12 GMT | Yes — this is truly good work. | The Prophet Aaron Vessel the Christ Consciousness | [Read More](https://medium.com/p/a06af8d8a376) |
+| Thu, 17 Jul 2025 15:35:07 GMT | I Went on the Dark Web and Instantly Regretted It | atheer | [Read More](https://medium.com/p/833b2503341d) |
+| Thu, 17 Jul 2025 15:29:04 GMT | Cyber Warfare Labs — My Go-To Platform for Real Offensive Security Learning | Ipshika Bhattarai | [Read More](https://medium.com/p/511eaa6c527a) |
+| Thu, 17 Jul 2025 15:27:15 GMT | HELO4D Login — Panduan Singkat 2025 (2-FA, VPN & Solusi Error) | Helo4d Login | [Read More](https://medium.com/p/26c31b002d49) |
+| Thu, 17 Jul 2025 15:24:53 GMT | Cyber Security Threats on the Rise — Why UK Businesses Must Act Now. | Hello | [Read More](https://medium.com/p/197e8012a1a1) |
+| Thu, 17 Jul 2025 15:24:40 GMT | TryHackMe - Windows Threat Detection 2 - WriteUp | Axoloth | [Read More](https://medium.com/p/17a42ad035b6) |
 | Thu, 17 Jul 2025 15:22:12 GMT | Security Controls 101: A Practitioner’s Guide to Risk Management and Defense - The Anatomy of… | Mohammed Yaseen | [Read More](https://medium.com/p/e4f77a4f0dc2) |
 | Thu, 17 Jul 2025 15:20:13 GMT | Why You Should NOT Choose Cybersecurity as a Career | Dhanush N | [Read More](https://medium.com/p/315141247b6e) |
 | Thu, 17 Jul 2025 15:15:27 GMT | Simple ping script for an IP | Kawan Feliciano | [Read More](https://medium.com/p/8738d3d26533) |
@@ -107,10 +114,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/6eaa03ee69
 | Thu, 17 Jul 2025 10:25:51 GMT | The Web3 Security Paradox: Why “Infrastructure” Demands Redefinition | GoPlus Security | [Read More](https://medium.com/p/f350d92e1044) |
 | Thu, 17 Jul 2025 10:25:39 GMT | How CryptoXpress Makes It Easier to Earn Money in Crypto with 0 Investment | Akanimo Sampson david | [Read More](https://medium.com/p/84cda2923047) |
 | Thu, 17 Jul 2025 10:25:35 GMT | The CrowdStrike conundrum | Opcito Technologies | [Read More](https://medium.com/p/3ff55f4d43e3) |
-| Thu, 17 Jul 2025 10:25:24 GMT | How to Perform a Cybersecurity Readiness Assessment for Your Organization | SecureSlate | [Read More](https://medium.com/p/e01fa98ace22) |
-| Thu, 17 Jul 2025 10:14:12 GMT | Siber Dünyada Ortak Operasyon: Operation Eastwood | Ali Ekber KARA | [Read More](https://medium.com/p/aedc750e37a7) |
-| Thu, 17 Jul 2025 10:10:59 GMT | Nasıl Koruyoruz? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/f6e43edeecaa) |
-| Thu, 17 Jul 2025 10:04:49 GMT | Beyond the Blockchain: Surviving a Crypto Hack | Bytewords | [Read More](https://medium.com/p/a8400e5df14c) |
-| Thu, 17 Jul 2025 10:00:28 GMT | My data , My Choice | Sobix | [Read More](https://medium.com/p/b6baf6f48741) |
-| Thu, 17 Jul 2025 09:58:58 GMT | Your Airplane Is at Risk? The Shocking Truth About GPS Spoofing | Xaar The Educator | [Read More](https://medium.com/p/e3d301bb5d9d) |
-| Thu, 17 Jul 2025 09:56:37 GMT | Practical SQLi WAF Bypass Techniques | Cybersectoworld | [Read More](https://medium.com/p/7e049787a941) |
