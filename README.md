@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 20:39:34 GMT | The AI won’t replace developers — Yet… | George Petropoulos | [Read More](https://medium.com/p/6fbf1d4ef00f) |
+| Thu, 17 Jul 2025 20:24:59 GMT | SnakeKeylogger Phishing Campaign — IOC Analysis and Malware Infrastructure Breakdown | Kanada | [Read More](https://medium.com/p/7013a768dc5d) |
+| Thu, 17 Jul 2025 20:24:37 GMT | July 18, 2025 — Scanning the Internet, Missing the Past, and Chasing Godzilla | IamGhost | [Read More](https://medium.com/p/9f9509dfbed3) |
+| Thu, 17 Jul 2025 20:23:47 GMT | When She Came Back, I Didn’t: A Story of Closure, Power, and Self-Respect | Ibrahim Irfan | [Read More](https://medium.com/p/0eb84b2560ab) |
 | Thu, 17 Jul 2025 20:10:15 GMT | Redeeming the Pain Game: My Scars, His Story (Part 3) | Jessica Z. Nowachek | [Read More](https://medium.com/p/9598dea5f2ca) |
 | Thu, 17 Jul 2025 20:09:44 GMT | Critical Security Flaw: Exposed .git Directory | Tembzz | [Read More](https://medium.com/p/41d82dc1141c) |
 | Thu, 17 Jul 2025 20:09:26 GMT | Introduction | ValidByAccident | [Read More](https://medium.com/p/dd73e4ae2897) |
@@ -108,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 14:03:09 GMT | Technical Debt in Cybersecurity | abdeldayemnour | [Read More](https://medium.com/p/22669983af18) |
 | Thu, 17 Jul 2025 14:03:07 GMT | What Makes a Great Cybersecurity Company in Ontario? Metrics That Matter | Zeta Sky | [Read More](https://medium.com/p/2c8288b06f7d) |
 | Thu, 17 Jul 2025 14:03:04 GMT | Cyber Briefing: 2025.07.17 | CyberMaterial | [Read More](https://medium.com/p/89a93d8503b4) |
-| Thu, 17 Jul 2025 14:02:53 GMT | Open Redirect Vulnerability — The Silent Gateway to Phishing and OAuth Hijacks | Shah kaif | [Read More](https://medium.com/p/cce80ad9aa4c) |
-| Thu, 17 Jul 2025 14:01:53 GMT | Leveraging Environment Variables in Next.js | @rnab | [Read More](https://medium.com/p/61dcb6f9e4a0) |
-| Thu, 17 Jul 2025 14:01:47 GMT | ⚡ Bolt — TryHackMe Writeup - By Nidhi Kathayat | Nidhi kathayat | [Read More](https://medium.com/p/80f90da1f785) |
-| Thu, 17 Jul 2025 14:01:12 GMT | DID YOU LOST YOUR CRYPTO? DO YOU WANT TO RECOVER YOUR STOLEN BITCOIN,
-BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/705a97a15a2b) |
