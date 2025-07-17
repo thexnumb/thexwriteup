@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 08:26:56 GMT | Keyless Entry, Priceless Risk: The New Car Theft Epidemic | Brian Iselin | [Read More](https://medium.com/p/c286d4c75977) |
+| Thu, 17 Jul 2025 08:20:05 GMT | Pakistani Universities Are Creating a Useless Class — Not Future Leaders | Inayat Hussain | [Read More](https://medium.com/p/27592a2f7a5c) |
+| Thu, 17 Jul 2025 08:17:47 GMT | Smart Home Security Solutions Near Greater Manchester | Marvelloussecurities | [Read More](https://medium.com/p/f1714cc704ed) |
+| Thu, 17 Jul 2025 08:13:34 GMT | How to Become a Cyber Security Analyst in Delhi: Career Roadmap | Manisha Chaudhary | [Read More](https://medium.com/p/bf24529a3f0a) |
+| Thu, 17 Jul 2025 08:12:45 GMT | SideQuest #02: VMware Tools in 13.6 | ThreatHunter Chronicles | [Read More](https://medium.com/p/ad977323114a) |
+| Thu, 17 Jul 2025 08:09:32 GMT | Understanding Website Development Costs: Factors, Types, and Estimation Tips | Bhavesh Rajpurohit | [Read More](https://medium.com/p/6980d5f7cce4) |
+| Thu, 17 Jul 2025 08:09:09 GMT | How to Integrate SafeLine WAF with Apache APISIX in Minutes | Quella | [Read More](https://medium.com/p/30cbaf05c64f) |
+| Thu, 17 Jul 2025 08:07:02 GMT | The Hidden Security Risk in Image Optimization (Yes, It’s Real) | Bilal Ahmad | [Read More](https://medium.com/p/5bc64a91f146) |
+| Thu, 17 Jul 2025 08:05:56 GMT | Before You Undress, Cinderella | Wizard Mike | [Read More](https://medium.com/p/996696041cdf) |
+| Thu, 17 Jul 2025 08:05:09 GMT | Cybersecurity in Pakistan: A Hacker’s Vision for National Digital Defense | Inayat Hussain | [Read More](https://medium.com/p/9889b7477013) |
+| Thu, 17 Jul 2025 08:02:31 GMT | Footprinting in Cybersecurity: What It Is, Why It Matters & How Ethical Hackers Use It | LB Cyber Journal | [Read More](https://medium.com/p/656d7f0c1c80) |
+| Thu, 17 Jul 2025 08:01:57 GMT | How Does SafeLine WAF Handle Bots? Customize Your Bot Protection | Maverick Steel | [Read More](https://medium.com/p/658de6afb2c0) |
+| Thu, 17 Jul 2025 07:59:16 GMT | Trusted Protective Home Security Near Greater Manchester | Marvelloussecurities | [Read More](https://medium.com/p/0140ccb7fe4c) |
+| Thu, 17 Jul 2025 07:59:04 GMT | Day3- Cybersecurity Basics for Beginners: Understanding CIA Triad, Threats, and Attacks | unica 02 | [Read More](https://medium.com/p/e152cf0abffd) |
+| Thu, 17 Jul 2025 07:57:54 GMT | ประจำวันพฤหัสบดีที่ 17 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/e79615c59666) |
+| Thu, 17 Jul 2025 07:55:30 GMT | Pastebin Past: Finding Leaked API Keys from Forgotten Secrets | Iski | [Read More](https://medium.com/p/857e5ef0f6d4) |
+| Thu, 17 Jul 2025 07:48:33 GMT | How IDOR gave me ability to takeover anyone’s account with one single Click | Ali Razzaq | [Read More](https://medium.com/p/b9eb59a8ebe1) |
+| Thu, 17 Jul 2025 07:47:23 GMT | ChatGPT isn’t a Therapist, Oracle or your friend — It’s a Just a tool | Ananya Pandey | [Read More](https://medium.com/p/1eb02e4be8ea) |
 | Thu, 17 Jul 2025 07:36:38 GMT | When an 404 suddenly turns 200 and you didn’t knew | Héber Júlio | [Read More](https://medium.com/p/b35e474df44b) |
+| Thu, 17 Jul 2025 07:35:40 GMT | IT Equipment - NABL Certified | House Of Testing | [Read More](https://medium.com/p/a9db20dd5086) |
 | Thu, 17 Jul 2025 07:29:04 GMT | The Bottleneck in Enterprise AI | Marcus Jairus | [Read More](https://medium.com/p/8d0ac093191a) |
 | Thu, 17 Jul 2025 07:27:54 GMT | The Productivity Paradox: Three Stories About Corporate AI Adoption | Aaron Rose | [Read More](https://medium.com/p/f63e1d46d4b6) |
 | Thu, 17 Jul 2025 07:26:52 GMT | Top 5 Cybersecurity Courses After 12th for High-Paying Jobs | cyber security Updates | [Read More](https://medium.com/p/10624e5d10a2) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 02:26:09 GMT | How I prepared for AWS security specialty in 2025 | Mudassir Syed | [Read More](https://medium.com/p/0827c6f957df) |
 | Thu, 17 Jul 2025 02:21:50 GMT | Understanding Ports and Protocols — Like I’m 5 | Haroon Shahid | [Read More](https://medium.com/p/f87627a95a45) |
 | Thu, 17 Jul 2025 02:15:13 GMT | It’s Not That I Lie, But Maybe I’m Not Always Honest… | Nithya Miriam Abraham | [Read More](https://medium.com/p/8be839f51e4b) |
-| Thu, 17 Jul 2025 02:07:26 GMT | AI Agents Will Transform Healthcare — But Only If We Secure Them First | Andre Fernandes | [Read More](https://medium.com/p/64105ff401fc) |
-| Thu, 17 Jul 2025 02:01:19 GMT | Falling in Love with the Process | Haroon Shahid | [Read More](https://medium.com/p/384e9f02e1ef) |
-| Thu, 17 Jul 2025 01:46:04 GMT | User Authorisation in Streamlit | Thomas Reid | [Read More](https://medium.com/p/70f7b503a0fc) |
-| Thu, 17 Jul 2025 01:41:41 GMT | Big O Notation: The One Concept You Need to Nail Every Tech Interview | Avinash Jha | [Read More](https://medium.com/p/c2a24af91d1d) |
-| Thu, 17 Jul 2025 01:41:39 GMT | I Got Hacked, Then Built a Career Stopping Hackers | Aj | [Read More](https://medium.com/p/10c9642d72c5) |
-| Thu, 17 Jul 2025 01:40:10 GMT | Cybersecurity Careers Are Weird Right Now (So Stop Listening to 2010 Advice) | Abraham Eleojo Salifu | [Read More](https://medium.com/p/f6fe03aa8b91) |
-| Thu, 17 Jul 2025 01:40:00 GMT | Finding Hidden Connections With Modern Graph Algorithms in Complex Networks | Ashish Abraham | [Read More](https://medium.com/p/e13b54516b99) |
-| Thu, 17 Jul 2025 01:38:13 GMT | Hacked in Web3? $BOUNTY Token Is Built to Help | Rhaes | [Read More](https://medium.com/p/e0f33505d067) |
-| Thu, 17 Jul 2025 01:37:25 GMT | x86-64 GetPC: SYSCALL | Mustafa | [Read More](https://medium.com/p/02f7a3100a27) |
-| Thu, 17 Jul 2025 01:28:04 GMT | AnonSurf: Adding IP to terminal prompt | JMP ESP FF E4 | [Read More](https://medium.com/p/f5294333f02d) |
-| Thu, 17 Jul 2025 01:20:33 GMT | How an Intelligence Agency Strengthens National Cyber Intelligence Operations With Criminal IP… | Criminal IP | [Read More](https://medium.com/p/dc77db2d69e7) |
-| Thu, 17 Jul 2025 01:10:42 GMT | HackTheBox Outbound Walkthrough | Heliman | [Read More](https://medium.com/p/37cfe5e55e5d) |
-| Thu, 17 Jul 2025 01:05:45 GMT | Bitwarden vs Proton Pass: Which Password Manager Deserves Your Trust in 2025? | BiyteLüm | [Read More](https://medium.com/p/c5c853043e39) |
-| Thu, 17 Jul 2025 01:02:33 GMT | Optimizing Your AWS WAF: Practical Steps for Resilient Web Application Security | Vedant Vartak | [Read More](https://medium.com/p/fa30b735afb7) |
-| Thu, 17 Jul 2025 01:01:31 GMT | Are You New to Christian Futurism? | Rockefeller Kennedy | [Read More](https://medium.com/p/2aaf252f624c) |
-| Thu, 17 Jul 2025 00:58:20 GMT | Rethinking Logins: The Future of Secure Access May Be Worn on Your Finger | Internet Exposed | [Read More](https://medium.com/p/e8e24f11bece) |
-| Thu, 17 Jul 2025 00:43:00 GMT | Inside LockBit 3 (“LockBit Black”): Lab Detonation Diary & Lessons for Defenders | Achuth Chandra | [Read More](https://medium.com/p/4eed506f55c8) |
-| Thu, 17 Jul 2025 00:35:47 GMT | Design Challenge Day 31: File Upload | Oey Chang | [Read More](https://medium.com/p/9b7d132ff5b6) |
-| Thu, 17 Jul 2025 00:11:19 GMT | Signs a Woman Misses You Deeply: Four Words Reveal All | Lucas Brown | [Read More](https://medium.com/p/d5e3cface017) |
