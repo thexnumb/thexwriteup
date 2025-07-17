@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 20:10:15 GMT | Redeeming the Pain Game: My Scars, His Story (Part 3) | Jessica Z. Nowachek | [Read More](https://medium.com/p/9598dea5f2ca) |
+| Thu, 17 Jul 2025 20:09:44 GMT | Critical Security Flaw: Exposed .git Directory | Tembzz | [Read More](https://medium.com/p/41d82dc1141c) |
+| Thu, 17 Jul 2025 20:09:26 GMT | Introduction | ValidByAccident | [Read More](https://medium.com/p/dd73e4ae2897) |
+| Thu, 17 Jul 2025 20:07:01 GMT | Prediction Markets: From Gambling to Humanity’s Decision Engine | Benedict W H Dixon | [Read More](https://medium.com/p/7f698b14e096) |
+| Thu, 17 Jul 2025 20:06:01 GMT | Der ultimative DORA-Compliance-Leitfaden: Ihr strategischer Fahrplan für regulatorische Exzellenz | Philip Hansen | [Read More](https://medium.com/p/aa01fc509db5) |
+| Thu, 17 Jul 2025 20:05:39 GMT | DORA Timeline und Fristen: Der ultimative Compliance-Leitfaden für Führungskräfte | Philip Hansen | [Read More](https://medium.com/p/69a9964c46c8) |
+| Thu, 17 Jul 2025 20:04:53 GMT | Predictive Threat Detection | Presslink Media | [Read More](https://medium.com/p/1f6ecbd869a0) |
+| Thu, 17 Jul 2025 20:04:41 GMT | BlackHatIndian.com Cybersecurity Blog | blackhatindian | [Read More](https://medium.com/p/126cd6f1b43a) |
+| Thu, 17 Jul 2025 20:04:05 GMT | Meet XBOW: The AI Hacker That Never Sleeps | VMSOIT | [Read More](https://medium.com/p/3131aacec12f) |
+| Thu, 17 Jul 2025 19:57:55 GMT | About Me | Joseph Igah | [Read More](https://medium.com/p/f998cb7d63b1) |
+| Thu, 17 Jul 2025 19:54:56 GMT | Staff Spotlight: Akhilash Pennam | The Assistance Fund (TAF) | [Read More](https://medium.com/p/0a0a7ca3e063) |
+| Thu, 17 Jul 2025 19:45:54 GMT | Breaking SMTP: Real-World Enumeration Using Nmap, Telnet & Metasploit | Nazia Mobeen | [Read More](https://medium.com/p/1574633f4f52) |
+| Thu, 17 Jul 2025 19:44:41 GMT | Huellas Dactilares | Josué Acevedo Maldonado | [Read More](https://medium.com/p/d0f691362dfd) |
+| Thu, 17 Jul 2025 19:34:04 GMT | I don’t cry like Victoria | TheStateOfKH | [Read More](https://medium.com/p/e57580da7dab) |
 | Thu, 17 Jul 2025 19:30:50 GMT | From Curiosity to Capability: My First Dive into Nessus Expert for Vulnerability Assessment | Nazia Mobeen | [Read More](https://medium.com/p/6cda2dce6365) |
 | Thu, 17 Jul 2025 19:30:37 GMT | Not Quite the Butterfly | chenmeiiyu | [Read More](https://medium.com/p/eee285ade0bc) |
 | Thu, 17 Jul 2025 19:27:48 GMT | Easily retrieve CloudWatch Logs from the CLI-Walkthrough | marianita_cloud | [Read More](https://medium.com/p/8aa6843a6b00) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 14:01:47 GMT | ⚡ Bolt — TryHackMe Writeup - By Nidhi Kathayat | Nidhi kathayat | [Read More](https://medium.com/p/80f90da1f785) |
 | Thu, 17 Jul 2025 14:01:12 GMT | DID YOU LOST YOUR CRYPTO? DO YOU WANT TO RECOVER YOUR STOLEN BITCOIN,
 BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/705a97a15a2b) |
-| Thu, 17 Jul 2025 13:59:22 GMT | 10 Things to Do to Secure a Django Backend | Sam Mwape | [Read More](https://medium.com/p/13fe89bb62f8) |
-| Thu, 17 Jul 2025 13:50:14 GMT | The Morris Worm: When the Internet Got Sick — And Why We Must Never Forget It | CyberCurious | [Read More](https://medium.com/p/429b4d528230) |
-| Thu, 17 Jul 2025 13:45:06 GMT | Top 5 Free AI Bots That Can Help You Earn $100 Per Day | Falcon Writes | [Read More](https://medium.com/p/3e49c0d0e58c) |
-| Thu, 17 Jul 2025 13:44:37 GMT | You Don’t Need Everyone. Just One Person Who Truly Understands. | RGagandeep | [Read More](https://medium.com/p/ca1b2d62f6dd) |
-| Thu, 17 Jul 2025 13:42:47 GMT | The Unseen Interceptor: Understanding and Protecting Yourself from Man-in-the-Middle Attacks (MitM) | Hussein Reda | [Read More](https://medium.com/p/28000b2496b7) |
-| Thu, 17 Jul 2025 13:31:45 GMT | Can a Simple File Upload Expose Your Admin Dashboard | Ibtissam hammadi | [Read More](https://medium.com/p/7ee85f1c073f) |
-| Thu, 17 Jul 2025 13:26:11 GMT | Hacking EvilGPT on TryHackMe — A Complete Prompt Injection Walkthrough | Aravind S V | [Read More](https://medium.com/p/32f4d70779d5) |
-| Thu, 17 Jul 2025 13:23:22 GMT | Path Traversal — A tour to the web server’s assets | PriOFF | [Read More](https://medium.com/p/6a81e6312386) |
-| Thu, 17 Jul 2025 13:03:54 GMT | Google Form Job Scams: How Fake Employers Collect Data and Then Charge For Registration. | The Anti-Scam Diaries | [Read More](https://medium.com/p/07ac228e20c0) |
-| Thu, 17 Jul 2025 13:03:11 GMT | When Your Delivery Becomes a Data Breach: The Real Cost of Leaked Logistics Information\ | Peris.ai Cybersecurity | [Read More](https://medium.com/p/4012dde32aa7) |
-| Thu, 17 Jul 2025 12:55:11 GMT | How I Built a Central Security Gateway for My VPC with AWS Network Firewall | AashishChaudhari | [Read More](https://medium.com/p/9a25da8c4026) |
-| Thu, 17 Jul 2025 12:50:43 GMT | The Wonderful World of Cybersecurity | 0trust0day | [Read More](https://medium.com/p/9a4b7d0b0e27) |
-| Thu, 17 Jul 2025 12:41:02 GMT | ✨ ChatGPT-5 Is Coming: क्या बदलेगा आने वाला AI का Future? | Knowledge Station | [Read More](https://medium.com/p/70f6c93676a4) |
-| Thu, 17 Jul 2025 12:35:35 GMT | Ensuring Compliance Through Secure Internal Communication | RealTyme | [Read More](https://medium.com/p/5276ee472cdb) |
