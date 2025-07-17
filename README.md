@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 13:31:45 GMT | Can a Simple File Upload Expose Your Admin Dashboard | Ibtissam hammadi | [Read More](https://medium.com/p/7ee85f1c073f) |
+| Thu, 17 Jul 2025 13:26:11 GMT | Hacking EvilGPT on TryHackMe — A Complete Prompt Injection Walkthrough | Aravind S V | [Read More](https://medium.com/p/32f4d70779d5) |
+| Thu, 17 Jul 2025 13:23:22 GMT | Path Traversal — A tour to the web server’s assets | PriOFF | [Read More](https://medium.com/p/6a81e6312386) |
+| Thu, 17 Jul 2025 13:03:54 GMT | Google Form Job Scams: How Fake Employers Collect Data and Then Charge For Registration. | The Anti-Scam Diaries | [Read More](https://medium.com/p/07ac228e20c0) |
+| Thu, 17 Jul 2025 13:03:11 GMT | When Your Delivery Becomes a Data Breach: The Real Cost of Leaked Logistics Information\ | Peris.ai Cybersecurity | [Read More](https://medium.com/p/4012dde32aa7) |
+| Thu, 17 Jul 2025 12:55:11 GMT | How I Built a Central Security Gateway for My VPC with AWS Network Firewall | AashishChaudhari | [Read More](https://medium.com/p/9a25da8c4026) |
+| Thu, 17 Jul 2025 12:50:43 GMT | The Wonderful World of Cybersecurity | 0trust0day | [Read More](https://medium.com/p/9a4b7d0b0e27) |
 | Thu, 17 Jul 2025 12:41:02 GMT | ✨ ChatGPT-5 Is Coming: क्या बदलेगा आने वाला AI का Future? | Knowledge Station | [Read More](https://medium.com/p/70f6c93676a4) |
+| Thu, 17 Jul 2025 12:35:35 GMT | Ensuring Compliance Through Secure Internal Communication | RealTyme | [Read More](https://medium.com/p/5276ee472cdb) |
 | Thu, 17 Jul 2025 12:34:43 GMT | Passive Reconnaissance on TryHackMe: A Complete Beginner’s Walkthrough to Silent Intelligence… | LB Cyber Journal | [Read More](https://medium.com/p/b1ff0148397d) |
 | Thu, 17 Jul 2025 12:34:40 GMT | Siber Tehdit İstihbaratı (CTI) Nedir? | Hasan BAYRAKTAR | [Read More](https://medium.com/p/2cc2c7eac04a) |
 | Thu, 17 Jul 2025 12:33:48 GMT | Networking Fundamentals for Beginners: Complete Guide | Ifeoma Nwokeoma | [Read More](https://medium.com/p/bfc85f4b63cb) |
@@ -106,11 +114,3 @@ Drosera: Ethereum’s Secret Weapon for Onchain Security | Matt | [Read More](ht
 | Thu, 17 Jul 2025 08:30:47 GMT | Platform Engineering: Just Another Hype? | Aliemregursu | [Read More](https://medium.com/p/d671b6b3e13c) |
 | Thu, 17 Jul 2025 08:26:56 GMT | Keyless Entry, Priceless Risk: The New Car Theft Epidemic | Brian Iselin | [Read More](https://medium.com/p/c286d4c75977) |
 | Thu, 17 Jul 2025 08:20:05 GMT | Pakistani Universities Are Creating a Useless Class — Not Future Leaders | Inayat Hussain | [Read More](https://medium.com/p/27592a2f7a5c) |
-| Thu, 17 Jul 2025 08:17:47 GMT | Smart Home Security Solutions Near Greater Manchester | Marvelloussecurities | [Read More](https://medium.com/p/f1714cc704ed) |
-| Thu, 17 Jul 2025 08:13:34 GMT | How to Become a Cyber Security Analyst in Delhi: Career Roadmap | Manisha Chaudhary | [Read More](https://medium.com/p/bf24529a3f0a) |
-| Thu, 17 Jul 2025 08:12:45 GMT | SideQuest #02: VMware Tools in 13.6 | ThreatHunter Chronicles | [Read More](https://medium.com/p/ad977323114a) |
-| Thu, 17 Jul 2025 08:09:32 GMT | Understanding Website Development Costs: Factors, Types, and Estimation Tips | Bhavesh Rajpurohit | [Read More](https://medium.com/p/6980d5f7cce4) |
-| Thu, 17 Jul 2025 08:09:09 GMT | How to Integrate SafeLine WAF with Apache APISIX in Minutes | Quella | [Read More](https://medium.com/p/30cbaf05c64f) |
-| Thu, 17 Jul 2025 08:07:02 GMT | The Hidden Security Risk in Image Optimization (Yes, It’s Real) | Bilal Ahmad | [Read More](https://medium.com/p/5bc64a91f146) |
-| Thu, 17 Jul 2025 08:05:56 GMT | Before You Undress, Cinderella | Wizard Mike | [Read More](https://medium.com/p/996696041cdf) |
-| Thu, 17 Jul 2025 08:05:09 GMT | Cybersecurity in Pakistan: A Hacker’s Vision for National Digital Defense | Inayat Hussain | [Read More](https://medium.com/p/9889b7477013) |
