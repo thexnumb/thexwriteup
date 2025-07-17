@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 14:18:24 GMT | Business Logic Vulnerabilities part-4 : Low-level logic flaw | Ahmad Sopyan | [Read More](https://medium.com/p/8cc94d37003c) |
+| Thu, 17 Jul 2025 14:13:12 GMT | 10 Wireshark Filters Every Cyber Pro Should Know | Vijay Kumar Gupta | [Read More](https://medium.com/p/47db04b46d1a) |
+| Thu, 17 Jul 2025 14:05:15 GMT | The Power Of Cybersecurity | Nida Fatima | [Read More](https://medium.com/p/071ea53d3592) |
+| Thu, 17 Jul 2025 14:03:09 GMT | Technical Debt in Cybersecurity | abdeldayemnour | [Read More](https://medium.com/p/22669983af18) |
+| Thu, 17 Jul 2025 14:03:07 GMT | What Makes a Great Cybersecurity Company in Ontario? Metrics That Matter | Zeta Sky | [Read More](https://medium.com/p/2c8288b06f7d) |
+| Thu, 17 Jul 2025 14:03:04 GMT | Cyber Briefing: 2025.07.17 | CyberMaterial | [Read More](https://medium.com/p/89a93d8503b4) |
+| Thu, 17 Jul 2025 14:02:53 GMT | Open Redirect Vulnerability — The Silent Gateway to Phishing and OAuth Hijacks | Shah kaif | [Read More](https://medium.com/p/cce80ad9aa4c) |
+| Thu, 17 Jul 2025 14:01:53 GMT | Leveraging Environment Variables in Next.js | @rnab | [Read More](https://medium.com/p/61dcb6f9e4a0) |
+| Thu, 17 Jul 2025 14:01:47 GMT | ⚡ Bolt — TryHackMe Writeup - By Nidhi Kathayat | Nidhi kathayat | [Read More](https://medium.com/p/80f90da1f785) |
+| Thu, 17 Jul 2025 14:01:12 GMT | DID YOU LOST YOUR CRYPTO? DO YOU WANT TO RECOVER YOUR STOLEN BITCOIN,
+BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/705a97a15a2b) |
+| Thu, 17 Jul 2025 13:59:22 GMT | 10 Things to Do to Secure a Django Backend | Sam Mwape | [Read More](https://medium.com/p/13fe89bb62f8) |
+| Thu, 17 Jul 2025 13:50:14 GMT | The Morris Worm: When the Internet Got Sick — And Why We Must Never Forget It | CyberCurious | [Read More](https://medium.com/p/429b4d528230) |
+| Thu, 17 Jul 2025 13:45:06 GMT | Top 5 Free AI Bots That Can Help You Earn $100 Per Day | Falcon Writes | [Read More](https://medium.com/p/3e49c0d0e58c) |
+| Thu, 17 Jul 2025 13:44:37 GMT | You Don’t Need Everyone. Just One Person Who Truly Understands. | RGagandeep | [Read More](https://medium.com/p/ca1b2d62f6dd) |
+| Thu, 17 Jul 2025 13:42:47 GMT | The Unseen Interceptor: Understanding and Protecting Yourself from Man-in-the-Middle Attacks (MitM) | Hussein Reda | [Read More](https://medium.com/p/28000b2496b7) |
 | Thu, 17 Jul 2025 13:31:45 GMT | Can a Simple File Upload Expose Your Admin Dashboard | Ibtissam hammadi | [Read More](https://medium.com/p/7ee85f1c073f) |
 | Thu, 17 Jul 2025 13:26:11 GMT | Hacking EvilGPT on TryHackMe — A Complete Prompt Injection Walkthrough | Aravind S V | [Read More](https://medium.com/p/32f4d70779d5) |
 | Thu, 17 Jul 2025 13:23:22 GMT | Path Traversal — A tour to the web server’s assets | PriOFF | [Read More](https://medium.com/p/6a81e6312386) |
@@ -99,18 +115,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/6eaa03ee69
 | Thu, 17 Jul 2025 09:24:12 GMT | Title:
 Drosera: Ethereum’s Secret Weapon for Onchain Security | Matt | [Read More](https://medium.com/p/055a286d888a) |
 | Thu, 17 Jul 2025 09:16:47 GMT | “From a 404 Page to $5k: How I Chained Forgotten Bugs Into a Critical Exploit” | Aman Sharma | [Read More](https://medium.com/p/cbb88e0f6516) |
-| Thu, 17 Jul 2025 09:16:24 GMT | PortSwigger API Lab Çözümleri | ENES KURTULAN | [Read More](https://medium.com/p/d145f7c4cb2e) |
-| Thu, 17 Jul 2025 09:14:48 GMT | How AI Will Replace 80% of Security Analysts — And What to Do About It | Taimur Ijlal | [Read More](https://medium.com/p/61627e7a10af) |
-| Thu, 17 Jul 2025 09:13:15 GMT | Thinking on Thoughts: Intimacy | Mike Sansone | [Read More](https://medium.com/p/e82934897260) |
-| Thu, 17 Jul 2025 09:09:21 GMT | Custom Software Development Services by iZen Software: Tailored Solutions That Drive Results | admin 1 | [Read More](https://medium.com/p/784a2048fb25) |
-| Thu, 17 Jul 2025 09:07:07 GMT | Check Point Research : AI Agents and Minecraft Targeted by Sophisticated Attacks | Breezy Business Channel | [Read More](https://medium.com/p/36680938151f) |
-| Thu, 17 Jul 2025 09:06:27 GMT | IT Mistakes That Put PHI and PII at Risk And How to Fix Them | vGics Global LLP | [Read More](https://medium.com/p/c39a18a3a09a) |
-| Thu, 17 Jul 2025 09:00:09 GMT | Let’s have a crack | Josh Mendies | [Read More](https://medium.com/p/15e1ab0f76b1) |
-| Thu, 17 Jul 2025 08:57:35 GMT | “Cybersecurity for beginners: Why it matters more than ever.” | Anupam Singh | [Read More](https://medium.com/p/e2b62caa92a0) |
-| Thu, 17 Jul 2025 08:50:45 GMT | Cyberproof probably disapproves of its own web security | 0trust0day | [Read More](https://medium.com/p/5f320d81b09d) |
-| Thu, 17 Jul 2025 08:40:36 GMT | “$ The Art of Smart Recon: How I Found 10+ Vulnerabilities Without Firing a Single Exploit” | Aman Sharma | [Read More](https://medium.com/p/5519848433b4) |
-| Thu, 17 Jul 2025 08:38:51 GMT | The Missing Puzzle Piece: Why Your Startup Needs a Virtual CTO, Not a Full-Time One | Olivia Dsouza | [Read More](https://medium.com/p/78eda09e24ba) |
-| Thu, 17 Jul 2025 08:30:59 GMT | Tehdit İstihbaratına (Threat Intelligence) Genel Bakış | Enes Tekneci | [Read More](https://medium.com/p/4deb9e93c2bf) |
-| Thu, 17 Jul 2025 08:30:47 GMT | Platform Engineering: Just Another Hype? | Aliemregursu | [Read More](https://medium.com/p/d671b6b3e13c) |
-| Thu, 17 Jul 2025 08:26:56 GMT | Keyless Entry, Priceless Risk: The New Car Theft Epidemic | Brian Iselin | [Read More](https://medium.com/p/c286d4c75977) |
-| Thu, 17 Jul 2025 08:20:05 GMT | Pakistani Universities Are Creating a Useless Class — Not Future Leaders | Inayat Hussain | [Read More](https://medium.com/p/27592a2f7a5c) |
