@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 09:16:47 GMT | “From a 404 Page to $5k: How I Chained Forgotten Bugs Into a Critical Exploit” | Aman Sharma | [Read More](https://medium.com/p/cbb88e0f6516) |
+| Thu, 17 Jul 2025 09:16:24 GMT | PortSwigger API Lab Çözümleri | ENES KURTULAN | [Read More](https://medium.com/p/d145f7c4cb2e) |
+| Thu, 17 Jul 2025 09:14:48 GMT | How AI Will Replace 80% of Security Analysts — And What to Do About It | Taimur Ijlal | [Read More](https://medium.com/p/61627e7a10af) |
+| Thu, 17 Jul 2025 09:13:15 GMT | Thinking on Thoughts: Intimacy | Mike Sansone | [Read More](https://medium.com/p/e82934897260) |
+| Thu, 17 Jul 2025 09:09:21 GMT | Custom Software Development Services by iZen Software: Tailored Solutions That Drive Results | admin 1 | [Read More](https://medium.com/p/784a2048fb25) |
+| Thu, 17 Jul 2025 09:07:07 GMT | Check Point Research : AI Agents and Minecraft Targeted by Sophisticated Attacks | Breezy Business Channel | [Read More](https://medium.com/p/36680938151f) |
+| Thu, 17 Jul 2025 09:06:27 GMT | IT Mistakes That Put PHI and PII at Risk And How to Fix Them | vGics Global LLP | [Read More](https://medium.com/p/c39a18a3a09a) |
+| Thu, 17 Jul 2025 09:00:09 GMT | Let’s have a crack | Josh Mendies | [Read More](https://medium.com/p/15e1ab0f76b1) |
+| Thu, 17 Jul 2025 08:57:35 GMT | “Cybersecurity for beginners: Why it matters more than ever.” | Anupam Singh | [Read More](https://medium.com/p/e2b62caa92a0) |
+| Thu, 17 Jul 2025 08:50:45 GMT | Cyberproof probably disapproves of its own web security | 0trust0day | [Read More](https://medium.com/p/5f320d81b09d) |
+| Thu, 17 Jul 2025 08:40:36 GMT | “$ The Art of Smart Recon: How I Found 10+ Vulnerabilities Without Firing a Single Exploit” | Aman Sharma | [Read More](https://medium.com/p/5519848433b4) |
+| Thu, 17 Jul 2025 08:38:51 GMT | The Missing Puzzle Piece: Why Your Startup Needs a Virtual CTO, Not a Full-Time One | Olivia Dsouza | [Read More](https://medium.com/p/78eda09e24ba) |
+| Thu, 17 Jul 2025 08:30:59 GMT | Tehdit İstihbaratına (Threat Intelligence) Genel Bakış | Enes Tekneci | [Read More](https://medium.com/p/4deb9e93c2bf) |
+| Thu, 17 Jul 2025 08:30:47 GMT | Platform Engineering: Just Another Hype? | Aliemregursu | [Read More](https://medium.com/p/d671b6b3e13c) |
 | Thu, 17 Jul 2025 08:26:56 GMT | Keyless Entry, Priceless Risk: The New Car Theft Epidemic | Brian Iselin | [Read More](https://medium.com/p/c286d4c75977) |
 | Thu, 17 Jul 2025 08:20:05 GMT | Pakistani Universities Are Creating a Useless Class — Not Future Leaders | Inayat Hussain | [Read More](https://medium.com/p/27592a2f7a5c) |
 | Thu, 17 Jul 2025 08:17:47 GMT | Smart Home Security Solutions Near Greater Manchester | Marvelloussecurities | [Read More](https://medium.com/p/f1714cc704ed) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 03:44:20 GMT | Shame & Guilt #2 | Kataanya | [Read More](https://medium.com/p/8374cd0a0b82) |
 | Thu, 17 Jul 2025 03:37:49 GMT | pivot_root vs. chroot — The 2025 Container Security Choice | Aleksei Aleinikov | [Read More](https://medium.com/p/36ff392d1af5) |
 | Thu, 17 Jul 2025 03:31:48 GMT | Unlocking WhatsApp’s Advanced Chat Privacy: A Smarter Way to Keep Conversations Secure | Deven Chhajed | [Read More](https://medium.com/p/ba25bbbf5507) |
-| Thu, 17 Jul 2025 03:26:59 GMT | Daring Greatly: The Courage to Step into the Arena | Tara West | [Read More](https://medium.com/p/6912913adc5e) |
-| Thu, 17 Jul 2025 03:24:34 GMT | Types of Security Audits — Like Inspecting Different Rooms in a Building | Mujtaba Shaikeldin | [Read More](https://medium.com/p/84c734c176ef) |
-| Thu, 17 Jul 2025 03:19:57 GMT | Is Your Samsung Phone Secretly Protecting You From Scams? Here’s What Most Users Never Notice | Sajjad Hussain | [Read More](https://medium.com/p/e09f8a72fbbc) |
-| Thu, 17 Jul 2025 03:08:24 GMT | Why Every Cybersecurity Leader Needs to Understand Cyber Laws - GME Academy | Get Me Experts Portal | [Read More](https://medium.com/p/1958665bee0a) |
-| Thu, 17 Jul 2025 03:04:26 GMT | CVE-2023–7028: How Attackers Could Reset Any GitLab User’s Password | AerieWhole123 | [Read More](https://medium.com/p/02369285ad4f) |
-| Thu, 17 Jul 2025 03:01:26 GMT | Europe’s Schengen Crisis — Poland’s Border Controls Expose the EU’s Failed Asylum System and… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/78f5e4ad816c) |
-| Thu, 17 Jul 2025 02:50:31 GMT | Justice vs. Illusion | Scaleauthor | [Read More](https://medium.com/p/47f5dadb5c4f) |
-| Thu, 17 Jul 2025 02:46:01 GMT | Why Every IT Team is Rushing to Add NDR to Their Security Stack | Paritosh | [Read More](https://medium.com/p/15060f76779a) |
-| Thu, 17 Jul 2025 02:38:23 GMT | The Ultimate FastAPI Middleware Arsenal: 16 Game-Changing Tools Every Python Developer Needs | KtechHub | [Read More](https://medium.com/p/a67dba37aa09) |
-| Thu, 17 Jul 2025 02:37:29 GMT | “Think Fast. Move Slow.” A Security Mindset for High-Tempo Teams | Richard M. Mcmullin | [Read More](https://medium.com/p/00680ef19c55) |
-| Thu, 17 Jul 2025 02:32:13 GMT | Two Data Breaches, Two Very Different Lessons: What Cambridge Analytica and Equifax Show About… | Nikitha Srinivasan | [Read More](https://medium.com/p/742c43a6e56e) |
-| Thu, 17 Jul 2025 02:26:09 GMT | How I prepared for AWS security specialty in 2025 | Mudassir Syed | [Read More](https://medium.com/p/0827c6f957df) |
-| Thu, 17 Jul 2025 02:21:50 GMT | Understanding Ports and Protocols — Like I’m 5 | Haroon Shahid | [Read More](https://medium.com/p/f87627a95a45) |
-| Thu, 17 Jul 2025 02:15:13 GMT | It’s Not That I Lie, But Maybe I’m Not Always Honest… | Nithya Miriam Abraham | [Read More](https://medium.com/p/8be839f51e4b) |
