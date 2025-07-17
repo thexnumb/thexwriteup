@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 15:22:12 GMT | Security Controls 101: A Practitioner’s Guide to Risk Management and Defense - The Anatomy of… | Mohammed Yaseen | [Read More](https://medium.com/p/e4f77a4f0dc2) |
+| Thu, 17 Jul 2025 15:20:13 GMT | Why You Should NOT Choose Cybersecurity as a Career | Dhanush N | [Read More](https://medium.com/p/315141247b6e) |
+| Thu, 17 Jul 2025 15:15:27 GMT | Simple ping script for an IP | Kawan Feliciano | [Read More](https://medium.com/p/8738d3d26533) |
+| Thu, 17 Jul 2025 15:13:26 GMT | The Bitter Truth About Love | ry | [Read More](https://medium.com/p/3ed776bda89c) |
+| Thu, 17 Jul 2025 15:08:17 GMT | LAB 21 : 64-BIT MALWARE | Mustapha Ait Ichou | [Read More](https://medium.com/p/5a0a20dad04c) |
+| Thu, 17 Jul 2025 15:07:36 GMT | DAY 17 — Chapter 8: BASH Scripting | Jinay | [Read More](https://medium.com/p/0187f407c688) |
+| Thu, 17 Jul 2025 15:01:55 GMT | Best Practices for SIEM and SOAR Integration in SOC | Esra Kayhan | [Read More](https://medium.com/p/3f83e6fb8c65) |
+| Thu, 17 Jul 2025 15:01:51 GMT | Digital Footprints of Executives: What Attackers Really Use | Ingvar Pavlovich | [Read More](https://medium.com/p/c7f32c9b3b97) |
+| Thu, 17 Jul 2025 15:01:07 GMT | Why Most Security Teams Miss Real-World Threats (And What to Do Instead) | DefenceRabbit | [Read More](https://medium.com/p/f32d3c3db570) |
 | Thu, 17 Jul 2025 14:36:05 GMT | Vulnerability on My Android Hotspot | Pramodh Cyb | [Read More](https://medium.com/p/2b1a4e1ad076) |
 | Thu, 17 Jul 2025 14:35:49 GMT | Day 36: How to Handle File Uploads in Node.js Like a Pro | Dipak Ahirav | [Read More](https://medium.com/p/2e0545e9ce51) |
 | Thu, 17 Jul 2025 14:35:22 GMT | Unmasking RDP Intrusions: Forensic Breakthroughs in Tracking Remote Desktop Exploits. | eL Njas!™ | [Read More](https://medium.com/p/1f8d3335bf84) |
@@ -105,12 +114,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/6eaa03ee69
 | Thu, 17 Jul 2025 10:00:28 GMT | My data , My Choice | Sobix | [Read More](https://medium.com/p/b6baf6f48741) |
 | Thu, 17 Jul 2025 09:58:58 GMT | Your Airplane Is at Risk? The Shocking Truth About GPS Spoofing | Xaar The Educator | [Read More](https://medium.com/p/e3d301bb5d9d) |
 | Thu, 17 Jul 2025 09:56:37 GMT | Practical SQLi WAF Bypass Techniques | Cybersectoworld | [Read More](https://medium.com/p/7e049787a941) |
-| Thu, 17 Jul 2025 09:56:30 GMT | ANNOUNCING: GoPlus Security’s Enhanced Focus on Foundational Web3 Security | GoPlus Security | [Read More](https://medium.com/p/35cead234614) |
-| Thu, 17 Jul 2025 09:55:40 GMT | Drosera: Onchain Security for a Trustless Future | Fivestttttar | [Read More](https://medium.com/p/d8682c9658fe) |
-| Thu, 17 Jul 2025 09:51:45 GMT | Try Hack Me: Gotta Catch’em All Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/fc517a590427) |
-| Thu, 17 Jul 2025 09:47:15 GMT | The Doors | Muse | [Read More](https://medium.com/p/8f81187a999b) |
-| Thu, 17 Jul 2025 09:42:32 GMT | Massive Credential Leak: 16B Logins Exposed | Kalariya Het | [Read More](https://medium.com/p/825303d2ba08) |
-| Thu, 17 Jul 2025 09:42:26 GMT | ️ Day #21 Introduction to Phishing Analysis: Investigating a Suspicious PayPal Email | Rishavkumarthapa | [Read More](https://medium.com/p/a386887299d0) |
-| Thu, 17 Jul 2025 09:42:06 GMT | Why AI Alone Can’t Protect Us From Phishing | Paul Walsh | [Read More](https://medium.com/p/c541a9d6073e) |
-| Thu, 17 Jul 2025 09:41:28 GMT | Top 7 FAQs About Bug Bounties (Answered for Web3 Security Hunters) | Stupid Contract | [Read More](https://medium.com/p/ffbf3dbe3035) |
-| Thu, 17 Jul 2025 09:41:23 GMT | Cyber Threat Intelligence: | Shubham Bane | [Read More](https://medium.com/p/c2700df742a5) |
