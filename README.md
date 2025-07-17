@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 19:12:33 GMT | $XXXX with Microsoft Hall of Fame - Microsoft CSP Bypass - Stored XSS on SharePoint - Microsoft… | CodeXploiter | [Read More](https://medium.com/p/591c12a710ed) |
+| Thu, 17 Jul 2025 19:07:24 GMT | From Curiosity to Capability: My First Dive into Nessus Expert for Vulnerability Assessment | Nazia Malik | [Read More](https://medium.com/p/52f26d387c0d) |
+| Thu, 17 Jul 2025 19:03:55 GMT | Line 盗帳號之詐騙行為及緊急處理指南 | IT工兵 | [Read More](https://medium.com/p/a5367d037719) |
+| Thu, 17 Jul 2025 19:02:42 GMT | My Experience with websec.nl — A Benchmark for Cybersecurity Companies | 0trust0day | [Read More](https://medium.com/p/9115e3834193) |
+| Thu, 17 Jul 2025 19:01:17 GMT | How to Study Effectively for Your next IT Certification | Ariane Horbach | [Read More](https://medium.com/p/974d4a1c0cca) |
+| Thu, 17 Jul 2025 18:58:46 GMT | Securing APIs in Identity Management: A Practical Guide for Modern Organizations | Deepak Gupta | [Read More](https://medium.com/p/2f19083465b4) |
+| Thu, 17 Jul 2025 18:56:05 GMT | fail into my arms | Oliver Quinn | [Read More](https://medium.com/p/d6eb0f12eab2) |
+| Thu, 17 Jul 2025 18:55:39 GMT | Encryption and the Right to Privacy: Pakistan’s Emerging Constitutional Challenge | Judgecyberlawyer | [Read More](https://medium.com/p/f2b65275e030) |
+| Thu, 17 Jul 2025 18:53:11 GMT | Can Residential Proxies Be Detected? The Truth You Need to Know | NovaProxy | [Read More](https://medium.com/p/1ce537d38b0a) |
+| Thu, 17 Jul 2025 18:52:54 GMT | MSP Dark Web Monitoring: A Must-Have for Modern Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/03574b96d669) |
+| Thu, 17 Jul 2025 18:43:32 GMT | WPA/WPA2 Cracking Demystified: Full Command Output + Deep Dive | Rajkumar Kumawat | [Read More](https://medium.com/p/65a16719356e) |
+| Thu, 17 Jul 2025 18:37:45 GMT | Meet the Pimps: The Middlemen of Network Traffic in Cybersecurity Architecture | Sayantani Halder | [Read More](https://medium.com/p/3f858c02636a) |
+| Thu, 17 Jul 2025 18:36:16 GMT | The 3 Books Every Cyber Defender Swears By | Aj | [Read More](https://medium.com/p/f7bb35b7c329) |
+| Thu, 17 Jul 2025 18:35:45 GMT | Don’t make identification your main vulnerability strategy | Stu Charlton | [Read More](https://medium.com/p/9b03ce24341e) |
+| Thu, 17 Jul 2025 18:29:55 GMT | Best Cyber Security Courses After 12th: 2025 Guide | Simplilearn | [Read More](https://medium.com/p/7cc0d7ca95bd) |
+| Thu, 17 Jul 2025 18:28:32 GMT | Why White Label SOC Services Are a Smart Move for MSPs | SafeAeon Inc. | [Read More](https://medium.com/p/cc086f02e8a0) |
 | Thu, 17 Jul 2025 18:19:09 GMT | Di Antara Sinyal dan Rindu | Achmad Isma'il | [Read More](https://medium.com/p/673c944edc3e) |
 | Thu, 17 Jul 2025 18:16:45 GMT | The Rise of AI-Powered Cyber Attacks: A Growing Threat in 2025 | Mark Trochimchuk | [Read More](https://medium.com/p/d2c6ae8f3e17) |
 | Thu, 17 Jul 2025 18:12:33 GMT | Why SOC Services Are Essential for Your Business, and How SafeAeon Delivers What You Need | SafeAeon Inc. | [Read More](https://medium.com/p/ebcf7a9b6783) |
@@ -97,20 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/705a97a15a
 | Thu, 17 Jul 2025 12:34:40 GMT | Siber Tehdit İstihbaratı (CTI) Nedir? | Hasan BAYRAKTAR | [Read More](https://medium.com/p/2cc2c7eac04a) |
 | Thu, 17 Jul 2025 12:33:48 GMT | Networking Fundamentals for Beginners: Complete Guide | Ifeoma Nwokeoma | [Read More](https://medium.com/p/bfc85f4b63cb) |
 | Thu, 17 Jul 2025 12:33:13 GMT | My First Bounty: How I Found an Information Disclosure Bug on HackerOne | Zahinshahriar | [Read More](https://medium.com/p/9f0ce9fe7c1a) |
-| Thu, 17 Jul 2025 12:24:29 GMT | New Series: Kill Chain Weekly: A DFIR Casebook Series | Sneh bavarva | [Read More](https://medium.com/p/de070eaebf1e) |
-| Thu, 17 Jul 2025 12:19:48 GMT | Vibe-Coding Series · Pt. 2 — Define the Requirements | João Vitor Sales | [Read More](https://medium.com/p/3ea0428b7df8) |
-| Thu, 17 Jul 2025 12:17:34 GMT | Is HappyMod Safe in 2025? Risks, Legality & Safe Download Guide | Zoe | [Read More](https://medium.com/p/d6f5eea6447c) |
-| Thu, 17 Jul 2025 12:13:37 GMT | The Role of AI and Automation in Hybrid SOC Services | sanya | [Read More](https://medium.com/p/4e8b057ea817) |
-| Thu, 17 Jul 2025 12:11:56 GMT | DevSecOps sharing — Using Teleport to protect your resources | Rennaps | [Read More](https://medium.com/p/324373f7f86d) |
-| Thu, 17 Jul 2025 12:11:48 GMT | Secure Software Development: A Key to Stronger Cybersecurity | Dany Christel | [Read More](https://medium.com/p/ae82652f45cb) |
-| Thu, 17 Jul 2025 12:07:06 GMT | DID YOU LOST YOUR CRYPTO? DO YOU WANT TO RECOVER YOUR STOLEN BITCOIN,
-BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/6eaa03ee69dd) |
-| Thu, 17 Jul 2025 12:04:37 GMT | The Hidden Security Benefit of Writing Tests | Farzin Ghanbari | [Read More](https://medium.com/p/d5e67ab0af18) |
-| Thu, 17 Jul 2025 12:02:34 GMT | ✅ Penetration Testing: Zero to Expert — Course Structure (With Practical Labs) | Barukh Aswad | [Read More](https://medium.com/p/ad04bc01dc77) |
-| Thu, 17 Jul 2025 12:01:18 GMT | Learning Web App Exploitation for Free - Day 2–4 | Hiba Hamd | [Read More](https://medium.com/p/381f9fd77e0a) |
-| Thu, 17 Jul 2025 11:56:30 GMT | India’s Robotics Future Just Went Quantum-Secure: Quranium and AIRA Announce Strategic Partnership | Bright Mmaduabuchi | [Read More](https://medium.com/p/4439d7423645) |
-| Thu, 17 Jul 2025 11:48:25 GMT | Implementing Security in the CI/CD pipeline | Arathy Nair | [Read More](https://medium.com/p/b2ddb0c2b23a) |
-| Thu, 17 Jul 2025 11:47:34 GMT | Why Containers Help Developers and AI Projects | Damien TIVELET | [Read More](https://medium.com/p/e1a7b0bff00f) |
-| Thu, 17 Jul 2025 11:42:31 GMT | #  Navigating New Cybersecurity Laws: Compliance Tips for SMEs in 2025 | Swathi Vaka | [Read More](https://medium.com/p/b852ebe811e3) |
-| Thu, 17 Jul 2025 11:39:33 GMT | Reverse Social Engineering: When the Hacker Waits for You to Call | Travis Ray Caverhill | [Read More](https://medium.com/p/27178a7e69c7) |
-| Thu, 17 Jul 2025 11:33:39 GMT | Prompt Injection to Bounty: How LLMs Can Turn Into Entry Points | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bbf7bb6c8b05) |
