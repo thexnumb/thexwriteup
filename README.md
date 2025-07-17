@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 18:19:09 GMT | Di Antara Sinyal dan Rindu | Achmad Isma'il | [Read More](https://medium.com/p/673c944edc3e) |
+| Thu, 17 Jul 2025 18:16:45 GMT | The Rise of AI-Powered Cyber Attacks: A Growing Threat in 2025 | Mark Trochimchuk | [Read More](https://medium.com/p/d2c6ae8f3e17) |
+| Thu, 17 Jul 2025 18:12:33 GMT | Why SOC Services Are Essential for Your Business, and How SafeAeon Delivers What You Need | SafeAeon Inc. | [Read More](https://medium.com/p/ebcf7a9b6783) |
+| Thu, 17 Jul 2025 18:06:40 GMT | Email Spam Detection: A Comprehensive Guide | Kulwinder Singh | [Read More](https://medium.com/p/3f35f6cf62f4) |
+| Thu, 17 Jul 2025 18:01:48 GMT | ️‍♀️Confessions of a Password Amateur | Aisha Majeed | [Read More](https://medium.com/p/f5bfdc611dad) |
+| Thu, 17 Jul 2025 18:00:32 GMT | Creating a File Upload and Management Backend with Cloud Storage Integration | Gizem Şangür | [Read More](https://medium.com/p/5cc02c0ec8b8) |
+| Thu, 17 Jul 2025 17:46:56 GMT | Obedient Cat — My First Step into CTFs (picoCTF Write-up) | Gurijala Rajeswar Reddy | [Read More](https://medium.com/p/2d512631acef) |
+| Thu, 17 Jul 2025 17:39:38 GMT | My first Web development project | Nandun Samarasekara | [Read More](https://medium.com/p/8adbb5b360a1) |
 | Thu, 17 Jul 2025 17:33:58 GMT | Crowd Management Services: Role of Crowd Control Services in Public Gatherings | Support | [Read More](https://medium.com/p/2483becdcfd8) |
 | Thu, 17 Jul 2025 17:28:47 GMT | Clickjacking Explained Simply — How Hackers Hijack Your Clicks (And How to Stop Them) | Bhupesh kumar | [Read More](https://medium.com/p/a2702ff4f4e6) |
 | Thu, 17 Jul 2025 17:11:26 GMT | What Is an IP Address — Like I’m 5 | Haroon Shahid | [Read More](https://medium.com/p/5a8d21b35928) |
@@ -106,11 +114,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/6eaa03ee69
 | Thu, 17 Jul 2025 11:42:31 GMT | #  Navigating New Cybersecurity Laws: Compliance Tips for SMEs in 2025 | Swathi Vaka | [Read More](https://medium.com/p/b852ebe811e3) |
 | Thu, 17 Jul 2025 11:39:33 GMT | Reverse Social Engineering: When the Hacker Waits for You to Call | Travis Ray Caverhill | [Read More](https://medium.com/p/27178a7e69c7) |
 | Thu, 17 Jul 2025 11:33:39 GMT | Prompt Injection to Bounty: How LLMs Can Turn Into Entry Points | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bbf7bb6c8b05) |
-| Thu, 17 Jul 2025 11:28:43 GMT | Day 46: NIST CSF 2.0 Introduction (Structure) | Brittney Ginther | [Read More](https://medium.com/p/892372770756) |
-| Thu, 17 Jul 2025 11:28:35 GMT | Pakistan Shifts Blame from Kabul to New Delhi for Terror Attacks | mahwish qayyum | [Read More](https://medium.com/p/bb736c8d90be) |
-| Thu, 17 Jul 2025 11:27:32 GMT | Grasp the Exceptional Attributes of the Best Security Guard Companies in Los Angeles | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/a15f13452405) |
-| Thu, 17 Jul 2025 11:19:36 GMT | Top Strategies To Defend Against AI-Powered Attacks In 2025 | Orsonamiri | [Read More](https://medium.com/p/7a0c6219b882) |
-| Thu, 17 Jul 2025 11:19:32 GMT | How do hybrid SOC services protect businesses? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/97425662d6a0) |
-| Thu, 17 Jul 2025 11:18:40 GMT | Cyber Insurance — A Raising Market With Distinct Challenges ‍☂ | Tailor-made Actuarial and Statistical Consulting | [Read More](https://medium.com/p/bd0d2ae35692) |
-| Thu, 17 Jul 2025 11:11:04 GMT | Data Poisoning Attacks Against Machine Learning Algorithms | Akmal Makhmudov | [Read More](https://medium.com/p/6df0d3cd3164) |
-| Thu, 17 Jul 2025 11:04:42 GMT | A Lot of Observation and a Little Adjustment. | Anthony Mukwaya | [Read More](https://medium.com/p/04471f876277) |
