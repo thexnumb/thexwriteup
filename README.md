@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 07:36:38 GMT | When an 404 suddenly turns 200 and you didn’t knew | Héber Júlio | [Read More](https://medium.com/p/b35e474df44b) |
+| Thu, 17 Jul 2025 07:29:04 GMT | The Bottleneck in Enterprise AI | Marcus Jairus | [Read More](https://medium.com/p/8d0ac093191a) |
+| Thu, 17 Jul 2025 07:27:54 GMT | The Productivity Paradox: Three Stories About Corporate AI Adoption | Aaron Rose | [Read More](https://medium.com/p/f63e1d46d4b6) |
+| Thu, 17 Jul 2025 07:26:52 GMT | Top 5 Cybersecurity Courses After 12th for High-Paying Jobs | cyber security Updates | [Read More](https://medium.com/p/10624e5d10a2) |
+| Thu, 17 Jul 2025 07:23:21 GMT | Cyber-security in Accounting: 5 Ways to Safeguard Your Financial Data | DB Accounting | [Read More](https://medium.com/p/b8b66ae0f99e) |
+| Thu, 17 Jul 2025 07:18:36 GMT | Fronline soldiers, drones and cyber | Martin Abramov | [Read More](https://medium.com/p/e3ac9a1414d4) |
+| Thu, 17 Jul 2025 07:17:37 GMT | Understanding Test Automation Frameworks with Real Examples — NareshIT | Jayanthinareshit | [Read More](https://medium.com/p/6eee1f2d7bb9) |
 | Thu, 17 Jul 2025 07:16:49 GMT | .git Exposed: Real Exploits, Real Data Leaks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ccb994ce0dc8) |
 | Thu, 17 Jul 2025 07:16:23 GMT | Google Dorking 2.0: Hunting Secrets in Public Search Engines | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ac5fe64cb33b) |
 | Thu, 17 Jul 2025 07:15:56 GMT | VSCode Extensions are Malicious — Here’s What I Found After Scanning 1,000 of Them | Shadow Ninja | [Read More](https://medium.com/p/b368461e7b88) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 00:43:00 GMT | Inside LockBit 3 (“LockBit Black”): Lab Detonation Diary & Lessons for Defenders | Achuth Chandra | [Read More](https://medium.com/p/4eed506f55c8) |
 | Thu, 17 Jul 2025 00:35:47 GMT | Design Challenge Day 31: File Upload | Oey Chang | [Read More](https://medium.com/p/9b7d132ff5b6) |
 | Thu, 17 Jul 2025 00:11:19 GMT | Signs a Woman Misses You Deeply: Four Words Reveal All | Lucas Brown | [Read More](https://medium.com/p/d5e3cface017) |
-| Thu, 17 Jul 2025 00:01:50 GMT | What is a Honeypot? How Cybersecurity Experts are Fighting Back | Spokeo People Search | [Read More](https://medium.com/p/825a03136201) |
-| Wed, 16 Jul 2025 23:57:01 GMT | How One Tiny Bug in Rust Cost Us Thousands in Downtime | SyntaxSavage | [Read More](https://medium.com/p/3c72a587a7b9) |
-| Wed, 16 Jul 2025 23:52:53 GMT | CTF Day(33) | Ahmed Narmer | [Read More](https://medium.com/p/aef2b1477fa5) |
-| Wed, 16 Jul 2025 23:52:43 GMT | IT Economics Essays | Area Dude | [Read More](https://medium.com/p/ad03d14ef621) |
-| Wed, 16 Jul 2025 23:31:10 GMT | HPE Morpheus Enterprise Software: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/550d4a65a312) |
-| Wed, 16 Jul 2025 23:24:15 GMT | Bridging the Divide: Uniting Data Analytics and Cybersecurity to Safeguard Financial Futures | Dr. Geethamanikanta Jakka | [Read More](https://medium.com/p/267c65c3fa48) |
-| Wed, 16 Jul 2025 23:23:09 GMT | Navigating the Icy Terrain: 7 Pain Points in Snowflake Every Data Engineer Should Know | Dr. Geethamanikanta Jakka | [Read More](https://medium.com/p/c4e0cf23cb27) |
