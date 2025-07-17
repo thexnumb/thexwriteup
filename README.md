@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 05:37:13 GMT | Google Drive Auth Bypass: How View-Only Folder Sharing Leaked Google Form Responses ($5000 Bug) | Yeswehack | [Read More](https://medium.com/p/fa99c7bbfdf4) |
+| Thu, 17 Jul 2025 05:36:33 GMT | CTF Day(34) | Ahmed Narmer | [Read More](https://medium.com/p/8334270d207b) |
+| Thu, 17 Jul 2025 05:36:25 GMT | CSRF via Image Tags in Email Clients | Monika sharma | [Read More](https://medium.com/p/e61de514b64f) |
+| Thu, 17 Jul 2025 05:35:49 GMT | Deepfakes: The Rising Cyber Threat and How to Defend Against It | Egyda-Ai | [Read More](https://medium.com/p/4e6e4c68fe22) |
+| Thu, 17 Jul 2025 05:32:54 GMT | I Accidentally Exposed My API Keys | Ibtissam hammadi | [Read More](https://medium.com/p/a96e0278e4ae) |
+| Thu, 17 Jul 2025 05:29:48 GMT | Grok Controversy: A Wake-Up Call for All GenAI Builders | Paarth Chothani | [Read More](https://medium.com/p/10f53dc4223c) |
+| Thu, 17 Jul 2025 05:28:27 GMT | How to Convert Any Tool Battery Into a USB-C Charger (No Bullshit) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/40c17ee7f2cf) |
+| Thu, 17 Jul 2025 05:21:57 GMT | The Great Upcoming Indian IT Crash: Why You, An Engineer, Still Can’t Find A Job@Vinod73 | Vinod Bhardwaj | [Read More](https://medium.com/p/8a918cffdaf6) |
 | Thu, 17 Jul 2025 05:19:26 GMT | Strategic Paralysis by Design: Part VI — Maritime Chokeholds and Trojan Ports — Critical… | Chris Clark | [Read More](https://medium.com/p/acb3a02c59de) |
 | Thu, 17 Jul 2025 05:18:46 GMT | Can I Haz Root? :: Observer | Cyber Grover ‍ | [Read More](https://medium.com/p/6eb99186c7b6) |
 | Thu, 17 Jul 2025 05:18:15 GMT | Deploy Wazuh with Elastic Stack on Ubuntu | Bit by Byte | [Read More](https://medium.com/p/ee6679f39eb0) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 19:55:34 GMT | Serve React SPAs with Express: Caching, Compression, Security & Logging | Ankit | [Read More](https://medium.com/p/d2be58b54009) |
 | Wed, 16 Jul 2025 19:49:22 GMT | 09212539516 | #شماره خاله اراک #شماره خاله قزوین #شماره خاله | [Read More](https://medium.com/p/5d73568caae7) |
 | Wed, 16 Jul 2025 19:49:07 GMT | 09212539516 | #شماره خاله اراک #شماره خاله قزوین #شماره خاله | [Read More](https://medium.com/p/5fa71f9c4782) |
-| Wed, 16 Jul 2025 19:48:49 GMT | 09212539516 | #شماره خاله اراک #شماره خاله قزوین #شماره خاله | [Read More](https://medium.com/p/6b138d59e3b9) |
-| Wed, 16 Jul 2025 19:48:22 GMT | How to Recover Lost Files from a Crashed Hard Drive | Nerd Rangers | [Read More](https://medium.com/p/922d604cc9b8) |
-| Wed, 16 Jul 2025 19:44:50 GMT | 09212539516 | #شماره خاله اراک #شماره خاله قزوین #شماره خاله | [Read More](https://medium.com/p/c836fd281ec3) |
-| Wed, 16 Jul 2025 19:44:36 GMT | 09212539516 | #شماره خاله اراک #شماره خاله قزوین #شماره خاله | [Read More](https://medium.com/p/48f056fd63f8) |
-| Wed, 16 Jul 2025 19:14:33 GMT | TryHackMe Room Walkthrough: Billing | Aditya Bhatt | [Read More](https://medium.com/p/7bda353eac51) |
-| Wed, 16 Jul 2025 19:14:28 GMT | 5 Essential Security Libraries In Android App Development | Nine Pages Of My Life | [Read More](https://medium.com/p/319a2e83edf0) |
-| Wed, 16 Jul 2025 19:12:40 GMT | It’s About Time: TSA Lifts Shoe Rule, Now Let’s Keep the Momentum Going | David Griffith | [Read More](https://medium.com/p/c375f77a1093) |
-| Wed, 16 Jul 2025 19:09:34 GMT | Thick Client Application Penetration Testing: A Complete Phase-Wise Methodology with Tools &… | ArunKumarBalivada | [Read More](https://medium.com/p/330cfc44cbc8) |
