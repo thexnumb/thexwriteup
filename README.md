@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 22:40:09 GMT | Identity and Verification in the Age of Digital Health | Ria Sinha | [Read More](https://medium.com/p/28ce4fa53748) |
+| Thu, 17 Jul 2025 22:32:57 GMT | SKYNET WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/d70ea905ad3c) |
+| Thu, 17 Jul 2025 22:25:26 GMT | You vs. AI-Powered Hackers: 4 Real Breaches That Prove No One’s Safe | Cyber-AppSec | [Read More](https://medium.com/p/2c1e28af6601) |
+| Thu, 17 Jul 2025 22:23:58 GMT | I Booked a Hotel on Booking.com — Then Came the Phishing Attack | Pascal Asch | [Read More](https://medium.com/p/072f4e2109e3) |
 | Thu, 17 Jul 2025 22:19:10 GMT | The Linux Security Journey — OpenSSH | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/eeb7d168f8e5) |
 | Thu, 17 Jul 2025 22:10:46 GMT | Everyday CyberSecurity Assessment and Defenses: Personal, Business & Government | George J. Assad | [Read More](https://medium.com/p/a5c62789cc54) |
 | Thu, 17 Jul 2025 21:47:42 GMT | CoPilot Update: Manage Wazuh Detection Rules Seamlessly From the UI | SOCFortress | [Read More](https://medium.com/p/07ebe3e4fd6f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 15:24:53 GMT | Cyber Security Threats on the Rise — Why UK Businesses Must Act Now. | Hello | [Read More](https://medium.com/p/197e8012a1a1) |
 | Thu, 17 Jul 2025 15:24:40 GMT | TryHackMe - Windows Threat Detection 2 - WriteUp | Axoloth | [Read More](https://medium.com/p/17a42ad035b6) |
 | Thu, 17 Jul 2025 15:22:12 GMT | Security Controls 101: A Practitioner’s Guide to Risk Management and Defense - The Anatomy of… | Mohammed Yaseen | [Read More](https://medium.com/p/e4f77a4f0dc2) |
-| Thu, 17 Jul 2025 15:20:13 GMT | Why You Should NOT Choose Cybersecurity as a Career | Dhanush N | [Read More](https://medium.com/p/315141247b6e) |
-| Thu, 17 Jul 2025 15:15:27 GMT | Simple ping script for an IP | Kawan Feliciano | [Read More](https://medium.com/p/8738d3d26533) |
-| Thu, 17 Jul 2025 15:13:26 GMT | The Bitter Truth About Love | ry | [Read More](https://medium.com/p/3ed776bda89c) |
-| Thu, 17 Jul 2025 15:08:17 GMT | LAB 21 : 64-BIT MALWARE | Mustapha Ait Ichou | [Read More](https://medium.com/p/5a0a20dad04c) |
