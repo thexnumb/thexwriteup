@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 17:08:27 GMT | LFI DVWA (Low, Medium & high) | Dewa Agustina | [Read More](https://medium.com/p/d8a78c40b5d9) |
+| Thu, 17 Jul 2025 17:00:15 GMT | Documenting my Cyber Security Journey | Joseph Thomas Gorman | [Read More](https://medium.com/p/b1c99ab4f511) |
 | Thu, 17 Jul 2025 16:34:34 GMT | PortSwigger Lab: Exploiting cache server normalization for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/a842755258dc) |
 | Thu, 17 Jul 2025 16:34:22 GMT | PortSwigger Lab: Lab Exploiting origin server normalization for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/526aac89e960) |
 | Thu, 17 Jul 2025 16:34:09 GMT | PortSwigger Lab: Exploiting path delimiters for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/19747b8c4a4c) |
@@ -112,5 +114,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/6eaa03ee69
 | Thu, 17 Jul 2025 11:03:29 GMT | Securing Digital Futures: Cybersecurity in Saudi Arabia | Dsquare Global Analytics | [Read More](https://medium.com/p/874e6c83cde6) |
 | Thu, 17 Jul 2025 11:03:07 GMT | DeepFakes: Detecting AI-Generated Deception | Aziz Sasmaz | [Read More](https://medium.com/p/317685531734) |
 | Thu, 17 Jul 2025 11:03:03 GMT | Top Cyber Security Training in India - GICSEH — Leading Cyber Security Institute | GICSEH | [Read More](https://medium.com/p/6c9e75332873) |
-| Thu, 17 Jul 2025 11:03:02 GMT | The Unwinnable War? How Microsoft Built a Digital Fortress Around Windows | elpe_pinillo | [Read More](https://medium.com/p/7b81d5db7aaa) |
-| Thu, 17 Jul 2025 11:02:14 GMT | Docker Networking Explained: A Complete Guide for Beginners & DevOps Engineers | Harleen kaur | [Read More](https://medium.com/p/2af9c5c53edc) |
