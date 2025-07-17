@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 22:58:27 GMT | How I Make Money Every Day Using AI (No Degree, No Office Job) | Ooreagboola | [Read More](https://medium.com/p/c46a5a719fbe) |
 | Thu, 17 Jul 2025 22:40:09 GMT | Identity and Verification in the Age of Digital Health | Ria Sinha | [Read More](https://medium.com/p/28ce4fa53748) |
 | Thu, 17 Jul 2025 22:32:57 GMT | SKYNET WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/d70ea905ad3c) |
 | Thu, 17 Jul 2025 22:25:26 GMT | You vs. AI-Powered Hackers: 4 Real Breaches That Prove No One’s Safe | Cyber-AppSec | [Read More](https://medium.com/p/2c1e28af6601) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 15:27:15 GMT | HELO4D Login — Panduan Singkat 2025 (2-FA, VPN & Solusi Error) | Helo4d Login | [Read More](https://medium.com/p/26c31b002d49) |
 | Thu, 17 Jul 2025 15:24:53 GMT | Cyber Security Threats on the Rise — Why UK Businesses Must Act Now. | Hello | [Read More](https://medium.com/p/197e8012a1a1) |
 | Thu, 17 Jul 2025 15:24:40 GMT | TryHackMe - Windows Threat Detection 2 - WriteUp | Axoloth | [Read More](https://medium.com/p/17a42ad035b6) |
-| Thu, 17 Jul 2025 15:22:12 GMT | Security Controls 101: A Practitioner’s Guide to Risk Management and Defense - The Anatomy of… | Mohammed Yaseen | [Read More](https://medium.com/p/e4f77a4f0dc2) |
