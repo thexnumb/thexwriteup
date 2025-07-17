@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 05:19:26 GMT | Strategic Paralysis by Design: Part VI — Maritime Chokeholds and Trojan Ports — Critical… | Chris Clark | [Read More](https://medium.com/p/acb3a02c59de) |
+| Thu, 17 Jul 2025 05:18:46 GMT | Can I Haz Root? :: Observer | Cyber Grover ‍ | [Read More](https://medium.com/p/6eb99186c7b6) |
+| Thu, 17 Jul 2025 05:18:15 GMT | Deploy Wazuh with Elastic Stack on Ubuntu | Bit by Byte | [Read More](https://medium.com/p/ee6679f39eb0) |
+| Thu, 17 Jul 2025 05:17:34 GMT | Top 7 Cybersecurity Threats Small Businesses Should Watch in 2025 | Usmanarifkhan | [Read More](https://medium.com/p/e26b665e5d93) |
+| Thu, 17 Jul 2025 05:14:47 GMT | Exploring the Best Non-WiFi Baby Monitor: Jartoo’s Innovative Solutions | Rifaharifatul | [Read More](https://medium.com/p/335cb2d40d62) |
+| Thu, 17 Jul 2025 05:10:49 GMT | Username enumeration via different responses [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/d0e532bbe33e) |
+| Thu, 17 Jul 2025 05:06:58 GMT | Your Phone Is a Snitch — Even When It’s Off | Pankaj Suthar | [Read More](https://medium.com/p/0c09412e37f2) |
+| Thu, 17 Jul 2025 05:04:56 GMT | Why Every Hacker Needs a Shitty Car | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/635f0a26be7a) |
+| Thu, 17 Jul 2025 05:01:17 GMT | You Think Your Crypto is Private? Think Again. | Iqbalhermawan | [Read More](https://medium.com/p/f0c4e28b2521) |
+| Thu, 17 Jul 2025 04:50:31 GMT | Free Rovo Dev CLI Agent for Bug Hunters/Pentesters | AbhirupKonwar | [Read More](https://medium.com/p/9d47b6ebc4a0) |
+| Thu, 17 Jul 2025 04:50:28 GMT | Mastering the Hidden Arts: A Practical & Scholarly Guide to kali-tools-crypto-stego | Rafalwbcraft | [Read More](https://medium.com/p/4cc8be14e371) |
+| Thu, 17 Jul 2025 04:49:59 GMT | The Facts About Continuous Penetration Testing and Why It’s Important | Securis360 Inc. | [Read More](https://medium.com/p/81c70e5ff63f) |
+| Thu, 17 Jul 2025 04:44:24 GMT | My Journey: Discovering the Relationship Between Kali Linux and Black Arch | Kalyan Dev | [Read More](https://medium.com/p/d673f0692040) |
+| Thu, 17 Jul 2025 04:34:47 GMT | a letter to myself | Yasha | [Read More](https://medium.com/p/64449f85ec95) |
 | Thu, 17 Jul 2025 04:32:24 GMT | CyberLens : A TryHackMe Walkthrough Guide | 5um1t0x | [Read More](https://medium.com/p/dec172407a74) |
 | Thu, 17 Jul 2025 04:19:27 GMT | “why some people love too deeply and others guard their hearts” | Shixy | [Read More](https://medium.com/p/c77a6a4ea29a) |
 | Thu, 17 Jul 2025 04:04:46 GMT | 120 Cyber Disaster: Miss It, Risk Everything | Ernest Nwangbo | [Read More](https://medium.com/p/a20815ea27fd) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 19:14:28 GMT | 5 Essential Security Libraries In Android App Development | Nine Pages Of My Life | [Read More](https://medium.com/p/319a2e83edf0) |
 | Wed, 16 Jul 2025 19:12:40 GMT | It’s About Time: TSA Lifts Shoe Rule, Now Let’s Keep the Momentum Going | David Griffith | [Read More](https://medium.com/p/c375f77a1093) |
 | Wed, 16 Jul 2025 19:09:34 GMT | Thick Client Application Penetration Testing: A Complete Phase-Wise Methodology with Tools &… | ArunKumarBalivada | [Read More](https://medium.com/p/330cfc44cbc8) |
-| Wed, 16 Jul 2025 19:09:27 GMT | L2 MAC Flooding & ARP Spoofing - TryHackMe walkthrough | Collins.K | [Read More](https://medium.com/p/fe0dff60e23c) |
-| Wed, 16 Jul 2025 19:06:16 GMT | Retracted —  TryHackMe Write Up | Tyreik Faulks | [Read More](https://medium.com/p/16f071f76aa3) |
-| Wed, 16 Jul 2025 19:05:41 GMT | MQTT Protokolü ve Mosquitto Kullanımı | Yahya İlhan Cengiz | [Read More](https://medium.com/p/8da8acc58f08) |
-| Wed, 16 Jul 2025 19:04:52 GMT | Rules, Rules Everywhere: Why Signature-Based Detection Falls Short Against AI Threats | Eric Zietlow | [Read More](https://medium.com/p/6bce79f7e974) |
-| Wed, 16 Jul 2025 19:01:21 GMT | When the Code Breaks and Your Brain Does Too — How Devs Emotionally Handle Bugs | The Blog Stacker - Tech Writer✨ | [Read More](https://medium.com/p/cfd665685393) |
-| Wed, 16 Jul 2025 19:01:07 GMT | TryHackMe Ghizer — Walkthrough | mauzware | [Read More](https://medium.com/p/fe1aca6123e2) |
-| Wed, 16 Jul 2025 18:51:43 GMT | Anti-Kidnapping Kit | Officer's Notes | [Read More](https://medium.com/p/27d17af2858a) |
-| Wed, 16 Jul 2025 18:33:22 GMT | Gain Your Share of Bugs Bunny's Launch Bonus and Enjoy top-tier returns | Bugs Bunny | [Read More](https://medium.com/p/75caa95ae8b5) |
-| Wed, 16 Jul 2025 18:32:57 GMT | Tryhackme - Defending Adversarial Attacks - Writeup Hardening ML Models | Mukund | [Read More](https://medium.com/p/64308ae84937) |
-| Wed, 16 Jul 2025 18:23:45 GMT | I Shifted Security Left in DevOps And Caught a Major Breach Just Before Launch (The SQL Injection… | AbdulRahman Mostafa | [Read More](https://medium.com/p/1cee5baf6ba0) |
-| Wed, 16 Jul 2025 18:19:05 GMT | Imperfect | Strawberry Fire | [Read More](https://medium.com/p/8d63605f164a) |
-| Wed, 16 Jul 2025 18:18:19 GMT | Broken Access Control--IDOR--Insecure Direct Object Refference--Test cases--Portswigger--Interview… | Muhammadhuzaifa | [Read More](https://medium.com/p/0d648ca79de1) |
-| Wed, 16 Jul 2025 18:15:07 GMT | Honor X6c Price in Bangladesh 2025: এত কম দামে এত কিছু! | Juger Alo | [Read More](https://medium.com/p/bcd232189169) |
-| Wed, 16 Jul 2025 18:14:42 GMT | Kill switch: The China threat no one is talking about! | Sagar Kumar Padhy | [Read More](https://medium.com/p/ddd4811c12f9) |
