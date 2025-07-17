@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 07:16:49 GMT | .git Exposed: Real Exploits, Real Data Leaks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ccb994ce0dc8) |
+| Thu, 17 Jul 2025 07:16:23 GMT | Google Dorking 2.0: Hunting Secrets in Public Search Engines | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ac5fe64cb33b) |
+| Thu, 17 Jul 2025 07:15:56 GMT | VSCode Extensions are Malicious — Here’s What I Found After Scanning 1,000 of Them | Shadow Ninja | [Read More](https://medium.com/p/b368461e7b88) |
+| Thu, 17 Jul 2025 07:14:54 GMT | INJECTION | Enoch Root | [Read More](https://medium.com/p/93e52a312efe) |
+| Thu, 17 Jul 2025 07:10:08 GMT | XSS (Cross-site Scripting)Nedir? | nur eskihoran | [Read More](https://medium.com/p/f5d1a934566e) |
+| Thu, 17 Jul 2025 07:07:46 GMT | The Business Benefits Of IT Support You Can Actually Rely On | Junoxen | [Read More](https://medium.com/p/5c9b26bca214) |
+| Thu, 17 Jul 2025 07:01:54 GMT | De datos a información: cómo transformé mi fase de reconocimiento en Bug Bounty | Gorka | [Read More](https://medium.com/p/abe0d8355d05) |
+| Thu, 17 Jul 2025 06:56:35 GMT | [TR] VulnHub-Tr0ll: 1 | Kaan Ekşi | [Read More](https://medium.com/p/35d935710de2) |
+| Thu, 17 Jul 2025 06:53:20 GMT | How to Resolve Wi-Fi Disconnection Issues | Baikan Ramchander | [Read More](https://medium.com/p/9846900366e1) |
+| Thu, 17 Jul 2025 06:43:51 GMT | Why SafeLine Can’t See the Real Client IP — And How to Fix It | Quella | [Read More](https://medium.com/p/5c2de220933f) |
+| Thu, 17 Jul 2025 06:43:12 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/dc40a0e6b056) |
+| Thu, 17 Jul 2025 06:34:35 GMT | The Linux Security Journey — Kernel Module Signing | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/fe269232248e) |
 | Thu, 17 Jul 2025 06:31:33 GMT | Prevent Cache Poisoning in Symfony: Best Practices and Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/8a03fff0ac49) |
+| Thu, 17 Jul 2025 06:29:54 GMT | Protect Your Privacy from AI: A 5-Minute Checklist to Secure Your Data | The Bot Group | [Read More](https://medium.com/p/330fe8b2c782) |
 | Thu, 17 Jul 2025 06:23:51 GMT | Bug Bounty Quick Start: 12 One-Liners to Go From Recon to Exploitation | Khanshadan | [Read More](https://medium.com/p/6e8142ad69ef) |
 | Thu, 17 Jul 2025 06:21:38 GMT | Top-Tier Security Guard Services in Los Angeles by Guardian Integrated Security | Guardian Integrated Security | [Read More](https://medium.com/p/3d2ad5a7ba72) |
 | Thu, 17 Jul 2025 06:17:58 GMT | 3 Signs Your Business Needs Tech Upgrade-Before It’s Too Late | Junoxen | [Read More](https://medium.com/p/5210a30f2167) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 23:31:10 GMT | HPE Morpheus Enterprise Software: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/550d4a65a312) |
 | Wed, 16 Jul 2025 23:24:15 GMT | Bridging the Divide: Uniting Data Analytics and Cybersecurity to Safeguard Financial Futures | Dr. Geethamanikanta Jakka | [Read More](https://medium.com/p/267c65c3fa48) |
 | Wed, 16 Jul 2025 23:23:09 GMT | Navigating the Icy Terrain: 7 Pain Points in Snowflake Every Data Engineer Should Know | Dr. Geethamanikanta Jakka | [Read More](https://medium.com/p/c4e0cf23cb27) |
-| Wed, 16 Jul 2025 23:09:30 GMT | The Most Dangerous File in Your Repo? It’s Not What You Think | Cyber-AppSec | [Read More](https://medium.com/p/d393a035d69e) |
-| Wed, 16 Jul 2025 23:07:48 GMT | Securing Your Go App the Right Way: SQL Injection Protection with Bun ORM | Mohammad Dipo Sultan | [Read More](https://medium.com/p/fb38398d0aef) |
-| Wed, 16 Jul 2025 22:53:43 GMT | ️‍♂️ 10 Powerful OSINT Tools You Should Master in 2025 | SAMAEL 0x4 | [Read More](https://medium.com/p/6973c9b11ef8) |
-| Wed, 16 Jul 2025 22:50:39 GMT | The $10M Smart Contract Backdoor That Almost Changed DeFi | Dehvcurtis | [Read More](https://medium.com/p/d9c0f926adc8) |
-| Wed, 16 Jul 2025 22:38:16 GMT | Understanding Mamona Ransomware: Memory & Process Behavior Breakdown | Ilerioluwa Ajani | [Read More](https://medium.com/p/e4b5ebca20ec) |
-| Wed, 16 Jul 2025 22:24:42 GMT | PortSwigger Lab: 2FA Simple Bypass | 0xM4ZiX | [Read More](https://medium.com/p/469585166926) |
-| Wed, 16 Jul 2025 22:23:57 GMT | Sustaining Security: Building a Culture of Continuous Vigilance” | Sammcmullen | [Read More](https://medium.com/p/48949de5eaaf) |
-| Wed, 16 Jul 2025 22:19:51 GMT | From MagnusBilling RCE to Root: Chaining CVE-2023–30258 with Fail2Ban Privilege Escalation | Sarthak | [Read More](https://medium.com/p/d0037628ed46) |
-| Wed, 16 Jul 2025 22:13:05 GMT | OSINT —  Tools and Techniques Every Hacker Should Know | SAMAEL 0x4 | [Read More](https://medium.com/p/1786caaf3ac1) |
-| Wed, 16 Jul 2025 22:07:38 GMT | Someone IS Watching You at the Checkout! | ɌƋƑ•TECH | [Read More](https://medium.com/p/6caf896f900b) |
-| Wed, 16 Jul 2025 22:03:27 GMT | The Digital Ghost and His Megaphone: An Analytical Report on Alberto Daniel Hill and the… | ADanielHill | [Read More](https://medium.com/p/969ff673e876) |
-| Wed, 16 Jul 2025 22:00:59 GMT | Apex Domain Bruteforcing for Wide Recon | sepix | [Read More](https://medium.com/p/d5460bc1b5b1) |
-| Wed, 16 Jul 2025 21:44:48 GMT | Zeus Virus: The Cyber Trojan That Robbed Banks and Vanished Like a Ghost | Akshay Chauhan | [Read More](https://medium.com/p/b790a904b1d9) |
