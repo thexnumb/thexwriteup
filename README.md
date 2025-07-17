@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 19:30:50 GMT | From Curiosity to Capability: My First Dive into Nessus Expert for Vulnerability Assessment | Nazia Mobeen | [Read More](https://medium.com/p/6cda2dce6365) |
+| Thu, 17 Jul 2025 19:30:37 GMT | Not Quite the Butterfly | chenmeiiyu | [Read More](https://medium.com/p/eee285ade0bc) |
+| Thu, 17 Jul 2025 19:27:48 GMT | Easily retrieve CloudWatch Logs from the CLI-Walkthrough | marianita_cloud | [Read More](https://medium.com/p/8aa6843a6b00) |
+| Thu, 17 Jul 2025 19:19:49 GMT | # Manifiesto del Pensamiento Artificial Libre **Por Osvdo, filósofo y constructor de realidades —… | paramon FDC COMPANY | [Read More](https://medium.com/p/0fafc201b238) |
 | Thu, 17 Jul 2025 19:12:33 GMT | $XXXX with Microsoft Hall of Fame - Microsoft CSP Bypass - Stored XSS on SharePoint - Microsoft… | CodeXploiter | [Read More](https://medium.com/p/591c12a710ed) |
 | Thu, 17 Jul 2025 19:07:24 GMT | From Curiosity to Capability: My First Dive into Nessus Expert for Vulnerability Assessment | Nazia Malik | [Read More](https://medium.com/p/52f26d387c0d) |
 | Thu, 17 Jul 2025 19:03:55 GMT | Line 盗帳號之詐騙行為及緊急處理指南 | IT工兵 | [Read More](https://medium.com/p/a5367d037719) |
@@ -109,7 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/705a97a15a
 | Thu, 17 Jul 2025 12:50:43 GMT | The Wonderful World of Cybersecurity | 0trust0day | [Read More](https://medium.com/p/9a4b7d0b0e27) |
 | Thu, 17 Jul 2025 12:41:02 GMT | ✨ ChatGPT-5 Is Coming: क्या बदलेगा आने वाला AI का Future? | Knowledge Station | [Read More](https://medium.com/p/70f6c93676a4) |
 | Thu, 17 Jul 2025 12:35:35 GMT | Ensuring Compliance Through Secure Internal Communication | RealTyme | [Read More](https://medium.com/p/5276ee472cdb) |
-| Thu, 17 Jul 2025 12:34:43 GMT | Passive Reconnaissance on TryHackMe: A Complete Beginner’s Walkthrough to Silent Intelligence… | LB Cyber Journal | [Read More](https://medium.com/p/b1ff0148397d) |
-| Thu, 17 Jul 2025 12:34:40 GMT | Siber Tehdit İstihbaratı (CTI) Nedir? | Hasan BAYRAKTAR | [Read More](https://medium.com/p/2cc2c7eac04a) |
-| Thu, 17 Jul 2025 12:33:48 GMT | Networking Fundamentals for Beginners: Complete Guide | Ifeoma Nwokeoma | [Read More](https://medium.com/p/bfc85f4b63cb) |
-| Thu, 17 Jul 2025 12:33:13 GMT | My First Bounty: How I Found an Information Disclosure Bug on HackerOne | Zahinshahriar | [Read More](https://medium.com/p/9f0ce9fe7c1a) |
