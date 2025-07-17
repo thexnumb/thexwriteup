@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 09:42:32 GMT | Massive Credential Leak: 16B Logins Exposed | Kalariya Het | [Read More](https://medium.com/p/825303d2ba08) |
+| Thu, 17 Jul 2025 09:42:06 GMT | Why AI Alone Can’t Protect Us From Phishing | Paul Walsh | [Read More](https://medium.com/p/c541a9d6073e) |
+| Thu, 17 Jul 2025 09:41:28 GMT | Top 7 FAQs About Bug Bounties (Answered for Web3 Security Hunters) | Stupid Contract | [Read More](https://medium.com/p/ffbf3dbe3035) |
+| Thu, 17 Jul 2025 09:41:23 GMT | Cyber Threat Intelligence: | Shubham Bane | [Read More](https://medium.com/p/c2700df742a5) |
+| Thu, 17 Jul 2025 09:35:24 GMT | Instagram Token Leak Exposed: A Bug Bounty Breakdown | Kalariya Het | [Read More](https://medium.com/p/e51694e5c838) |
+| Thu, 17 Jul 2025 09:33:58 GMT | How a PMP® Certification Can Transform Your Project Management Career | Safarisprz01 | [Read More](https://medium.com/p/4562ffe318c7) |
+| Thu, 17 Jul 2025 09:33:46 GMT | From Tallinn to Tehran: How Cyber Warfare Challenges the Foundations of International Law | Mean Treaties | [Read More](https://medium.com/p/8aa66941bd59) |
+| Thu, 17 Jul 2025 09:32:57 GMT | The Foundation of Digital Trust: Understanding Your Cyber Security Risks: A Business Imperative | Paul Sherman | [Read More](https://medium.com/p/738f5f4f6771) |
+| Thu, 17 Jul 2025 09:28:43 GMT | Why Updating to WinRAR 7.12 | Easy2Patch | [Read More](https://medium.com/p/eaee73ea908b) |
+| Thu, 17 Jul 2025 09:24:12 GMT | Title:
+Drosera: Ethereum’s Secret Weapon for Onchain Security | Matt | [Read More](https://medium.com/p/055a286d888a) |
 | Thu, 17 Jul 2025 09:16:47 GMT | “From a 404 Page to $5k: How I Chained Forgotten Bugs Into a Critical Exploit” | Aman Sharma | [Read More](https://medium.com/p/cbb88e0f6516) |
 | Thu, 17 Jul 2025 09:16:24 GMT | PortSwigger API Lab Çözümleri | ENES KURTULAN | [Read More](https://medium.com/p/d145f7c4cb2e) |
 | Thu, 17 Jul 2025 09:14:48 GMT | How AI Will Replace 80% of Security Analysts — And What to Do About It | Taimur Ijlal | [Read More](https://medium.com/p/61627e7a10af) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 04:50:28 GMT | Mastering the Hidden Arts: A Practical & Scholarly Guide to kali-tools-crypto-stego | Rafalwbcraft | [Read More](https://medium.com/p/4cc8be14e371) |
 | Thu, 17 Jul 2025 04:49:59 GMT | The Facts About Continuous Penetration Testing and Why It’s Important | Securis360 Inc. | [Read More](https://medium.com/p/81c70e5ff63f) |
 | Thu, 17 Jul 2025 04:44:24 GMT | My Journey: Discovering the Relationship Between Kali Linux and Black Arch | Kalyan Dev | [Read More](https://medium.com/p/d673f0692040) |
-| Thu, 17 Jul 2025 04:34:47 GMT | a letter to myself | Yasha | [Read More](https://medium.com/p/64449f85ec95) |
-| Thu, 17 Jul 2025 04:32:24 GMT | CyberLens : A TryHackMe Walkthrough Guide | 5um1t0x | [Read More](https://medium.com/p/dec172407a74) |
-| Thu, 17 Jul 2025 04:19:27 GMT | “why some people love too deeply and others guard their hearts” | Shixy | [Read More](https://medium.com/p/c77a6a4ea29a) |
-| Thu, 17 Jul 2025 04:04:46 GMT | 120 Cyber Disaster: Miss It, Risk Everything | Ernest Nwangbo | [Read More](https://medium.com/p/a20815ea27fd) |
-| Thu, 17 Jul 2025 04:00:38 GMT | Cybersecurity for Small Business: Why Thinking You’re Too Small Is the Biggest Risk | Victor Yan | [Read More](https://medium.com/p/47f49bd1c82c) |
-| Thu, 17 Jul 2025 03:46:45 GMT | Friction, Fog, and Failure in a Software-Defined Force: A Global Perspective on Digital Military… | Tolga Başkan | [Read More](https://medium.com/p/1d3ae16e46bd) |
-| Thu, 17 Jul 2025 03:46:05 GMT | SafeLine WAF Installation & Upgrade Troubleshooting Guide | AerieWhole123 | [Read More](https://medium.com/p/fe2a78b70b44) |
-| Thu, 17 Jul 2025 03:44:20 GMT | Shame & Guilt #2 | Kataanya | [Read More](https://medium.com/p/8374cd0a0b82) |
-| Thu, 17 Jul 2025 03:37:49 GMT | pivot_root vs. chroot — The 2025 Container Security Choice | Aleksei Aleinikov | [Read More](https://medium.com/p/36ff392d1af5) |
-| Thu, 17 Jul 2025 03:31:48 GMT | Unlocking WhatsApp’s Advanced Chat Privacy: A Smarter Way to Keep Conversations Secure | Deven Chhajed | [Read More](https://medium.com/p/ba25bbbf5507) |
