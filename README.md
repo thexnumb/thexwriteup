@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 06:31:33 GMT | Prevent Cache Poisoning in Symfony: Best Practices and Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/8a03fff0ac49) |
+| Thu, 17 Jul 2025 06:23:51 GMT | Bug Bounty Quick Start: 12 One-Liners to Go From Recon to Exploitation | Khanshadan | [Read More](https://medium.com/p/6e8142ad69ef) |
+| Thu, 17 Jul 2025 06:21:38 GMT | Top-Tier Security Guard Services in Los Angeles by Guardian Integrated Security | Guardian Integrated Security | [Read More](https://medium.com/p/3d2ad5a7ba72) |
+| Thu, 17 Jul 2025 06:17:58 GMT | 3 Signs Your Business Needs Tech Upgrade-Before It’s Too Late | Junoxen | [Read More](https://medium.com/p/5210a30f2167) |
+| Thu, 17 Jul 2025 06:15:20 GMT | Unlock Exclusive BOUNTY Through ChainBounty's Community Drop | ChainBounty | [Read More](https://medium.com/p/a8a26301f3e3) |
+| Thu, 17 Jul 2025 06:12:41 GMT | Cybersecurity: Protecting The Digital World | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/eaad551826c0) |
+| Thu, 17 Jul 2025 06:12:25 GMT | How to Handle File Uploads in Phoenix LiveView Without Third-Party JavaScript | Hex Shift | [Read More](https://medium.com/p/08ea0369c49a) |
+| Thu, 17 Jul 2025 06:07:26 GMT | Kevin Mitnick: From “The World’s Most Wanted Hacker” to Cybersecurity Icon | Alfred | [Read More](https://medium.com/p/3e1b6421eea1) |
+| Thu, 17 Jul 2025 06:05:01 GMT | 10 Truths Every Man Needs to Hear About Being Real | Catalin-Andrei  Chiras | [Read More](https://medium.com/p/9a8f04855e49) |
+| Thu, 17 Jul 2025 06:01:20 GMT | Love Them While They Sleep | Katia | [Read More](https://medium.com/p/b3858fb79c02) |
+| Thu, 17 Jul 2025 06:00:44 GMT | Today’s Top Cyber Intelligence Highlights — Jul 17, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/19e3a5bba0d2) |
+| Thu, 17 Jul 2025 05:59:47 GMT | Stolen Hearts, Stolen Fortunes: Romance Scams Targeting Our Elders | Travis Ray Caverhill | [Read More](https://medium.com/p/5cc5e4880724) |
+| Thu, 17 Jul 2025 05:57:11 GMT | Essential Serverless Security Best Practices for Developers! | AntStack Inc. | [Read More](https://medium.com/p/e033c29a7d1b) |
+| Thu, 17 Jul 2025 05:50:52 GMT | Kali Linux Alətləri ilə Tanışlıq — Dmitry Nədir? | Aghabala Guluzade | [Read More](https://medium.com/p/262eaf71a79d) |
+| Thu, 17 Jul 2025 05:47:53 GMT | From 404 to Jackpot: A Bug That Taught Me More Than a Bounty Ever Could | Krypto | [Read More](https://medium.com/p/f25889ec1e48) |
+| Thu, 17 Jul 2025 05:47:25 GMT | ChatGPT Evolving With New Features | Hasibul Islam | [Read More](https://medium.com/p/6aa9c88acc16) |
 | Thu, 17 Jul 2025 05:37:13 GMT | Google Drive Auth Bypass: How View-Only Folder Sharing Leaked Google Form Responses ($5000 Bug) | Yeswehack | [Read More](https://medium.com/p/fa99c7bbfdf4) |
 | Thu, 17 Jul 2025 05:36:33 GMT | CTF Day(34) | Ahmed Narmer | [Read More](https://medium.com/p/8334270d207b) |
 | Thu, 17 Jul 2025 05:36:25 GMT | CSRF via Image Tags in Email Clients | Monika sharma | [Read More](https://medium.com/p/e61de514b64f) |
@@ -51,6 +67,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 03:01:26 GMT | Europe’s Schengen Crisis — Poland’s Border Controls Expose the EU’s Failed Asylum System and… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/78f5e4ad816c) |
 | Thu, 17 Jul 2025 02:50:31 GMT | Justice vs. Illusion | Scaleauthor | [Read More](https://medium.com/p/47f5dadb5c4f) |
 | Thu, 17 Jul 2025 02:46:01 GMT | Why Every IT Team is Rushing to Add NDR to Their Security Stack | Paritosh | [Read More](https://medium.com/p/15060f76779a) |
+| Thu, 17 Jul 2025 02:38:23 GMT | The Ultimate FastAPI Middleware Arsenal: 16 Game-Changing Tools Every Python Developer Needs | KtechHub | [Read More](https://medium.com/p/a67dba37aa09) |
 | Thu, 17 Jul 2025 02:37:29 GMT | “Think Fast. Move Slow.” A Security Mindset for High-Tempo Teams | Richard M. Mcmullin | [Read More](https://medium.com/p/00680ef19c55) |
 | Thu, 17 Jul 2025 02:32:13 GMT | Two Data Breaches, Two Very Different Lessons: What Cambridge Analytica and Equifax Show About… | Nikitha Srinivasan | [Read More](https://medium.com/p/742c43a6e56e) |
 | Thu, 17 Jul 2025 02:26:09 GMT | How I prepared for AWS security specialty in 2025 | Mudassir Syed | [Read More](https://medium.com/p/0827c6f957df) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 16 Jul 2025 22:03:27 GMT | The Digital Ghost and His Megaphone: An Analytical Report on Alberto Daniel Hill and the… | ADanielHill | [Read More](https://medium.com/p/969ff673e876) |
 | Wed, 16 Jul 2025 22:00:59 GMT | Apex Domain Bruteforcing for Wide Recon | sepix | [Read More](https://medium.com/p/d5460bc1b5b1) |
 | Wed, 16 Jul 2025 21:44:48 GMT | Zeus Virus: The Cyber Trojan That Robbed Banks and Vanished Like a Ghost | Akshay Chauhan | [Read More](https://medium.com/p/b790a904b1d9) |
-| Wed, 16 Jul 2025 21:40:47 GMT | TryHackMe — OWASP ZAP | SAMAEL 0x4 | [Read More](https://medium.com/p/75611065244f) |
-| Wed, 16 Jul 2025 21:35:44 GMT | The Trojan Telegram: A Technical Look at Gh0stRAT’s Deceptive Tactics | Pratik Gurav | [Read More](https://medium.com/p/839415bdd517) |
-| Wed, 16 Jul 2025 21:27:00 GMT | Leave ’Em On Read: GitHub Issue Comment Injection | grepStrength | [Read More](https://medium.com/p/3a0850574bb0) |
-| Wed, 16 Jul 2025 21:20:07 GMT | Shell Overview TryHackMe Practical Task Walkthrough. | N4rn!4n_142 | [Read More](https://medium.com/p/2dd93b604c6a) |
-| Wed, 16 Jul 2025 21:05:52 GMT | AvePoint Cloud Backup: Strengthen & Secure Your Salesforce Data | Kevinasutton | [Read More](https://medium.com/p/dcd242532d31) |
-| Wed, 16 Jul 2025 21:01:58 GMT | Hackviser — Next.js Middleware Authorization Bypass (CVE-2025–29927) Write-Up! | Dogukan İSPİRLİ | [Read More](https://medium.com/p/7a8c07f87eec) |
-| Wed, 16 Jul 2025 20:52:14 GMT | The Compliance Paradox: Why Perfect Compliance is Your Biggest Security Risk | Maciej Litwiniuk | [Read More](https://medium.com/p/7b475cd946e0) |
-| Wed, 16 Jul 2025 20:51:01 GMT | Unlock Exclusive BNTY Through Bounty's Distribution Fiesta | Bounty | [Read More](https://medium.com/p/892ff9726e8d) |
-| Wed, 16 Jul 2025 20:49:04 GMT | How AI Is Changing the Cybersecurity Game | BlueSky | [Read More](https://medium.com/p/c92dd28f9fbe) |
-| Wed, 16 Jul 2025 20:25:00 GMT | Breaking Down MITRE ATT&CK for Beginners — The Framework That Changed How I See Threats | Rutuja Bendre | [Read More](https://medium.com/p/4a751f49d3f8) |
-| Wed, 16 Jul 2025 20:18:02 GMT | Hacking Tetris: The Game | Meghana | [Read More](https://medium.com/p/1f5d62d83672) |
-| Wed, 16 Jul 2025 20:17:14 GMT | Introducing Velociraptor MCP Server: Bringing DFIR and AI Together for Smarter Investigations | SOCFortress | [Read More](https://medium.com/p/a5545f347f49) |
-| Wed, 16 Jul 2025 20:12:12 GMT | The Anatomy of a Critical Bug | SIDDHANT SHUKLA | [Read More](https://medium.com/p/388329a1c55a) |
-| Wed, 16 Jul 2025 20:04:32 GMT | Project: Keysafe – A Secure CLI Password Manager Using RSA Encryption | Learn Coding | [Read More](https://medium.com/p/d411bcd16860) |
-| Wed, 16 Jul 2025 19:55:34 GMT | Serve React SPAs with Express: Caching, Compression, Security & Logging | Ankit | [Read More](https://medium.com/p/d2be58b54009) |
-| Wed, 16 Jul 2025 19:49:22 GMT | 09212539516 | #شماره خاله اراک #شماره خاله قزوین #شماره خاله | [Read More](https://medium.com/p/5d73568caae7) |
-| Wed, 16 Jul 2025 19:49:07 GMT | 09212539516 | #شماره خاله اراک #شماره خاله قزوین #شماره خاله | [Read More](https://medium.com/p/5fa71f9c4782) |
