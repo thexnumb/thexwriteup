@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 16:19:31 GMT | Top Spy Apps for WhatsApp Monitoring: Track Chats Stealthily | Narjis Batool | [Read More](https://medium.com/p/0a3f9f2b6bee) |
+| Thu, 17 Jul 2025 16:16:01 GMT | My Latest Bug: Reflected XSS on GlobalProtect VPN Portal (CVE-2025–0133) | 0verRida | [Read More](https://medium.com/p/ba1649943250) |
+| Thu, 17 Jul 2025 16:16:01 GMT | When Indifference Hurts More than Words | Ink Within | [Read More](https://medium.com/p/f5024b1f2cc7) |
+| Thu, 17 Jul 2025 16:09:37 GMT | Questions of a Heart’s Ache | Aaliyah | [Read More](https://medium.com/p/2b86bd971f57) |
+| Thu, 17 Jul 2025 16:09:00 GMT | The Identity Wars -Ep4 | Amey Rugge | [Read More](https://medium.com/p/a541597d3a5c) |
+| Thu, 17 Jul 2025 16:05:11 GMT | Day 52: Ports | Nile Okomo | [Read More](https://medium.com/p/a0f699330221) |
+| Thu, 17 Jul 2025 16:03:58 GMT | Container Escape Prevention: Techniques You Need | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5bddf76e95cf) |
+| Thu, 17 Jul 2025 16:02:41 GMT | Contract with the Server Fairy | Alex Brox | [Read More](https://medium.com/p/4cdf02a33494) |
+| Thu, 17 Jul 2025 16:01:23 GMT | Signal App in 2025: The Platform Wars — Android vs iOS Deep Dive | TechEd Publishers | [Read More](https://medium.com/p/ba83aa75e0e9) |
+| Thu, 17 Jul 2025 15:59:57 GMT | How I Use the DeFi Watchdog Unified Security API to Secure Smart Contracts (Part 1) | charingane | [Read More](https://medium.com/p/357f424efe98) |
+| Thu, 17 Jul 2025 15:51:22 GMT | Why Cybersecurity Must Be at the Core of Every MSP Strategy in 2025 | Donald Betancourt | [Read More](https://medium.com/p/0282eb9399d1) |
 | Thu, 17 Jul 2025 15:36:28 GMT | Can You Maintain Your Website Alone — Or Should You Hire a Pro? | DigiGenHub | [Read More](https://medium.com/p/b2f593850e40) |
 | Thu, 17 Jul 2025 15:36:12 GMT | Yes — this is truly good work. | The Prophet Aaron Vessel the Christ Consciousness | [Read More](https://medium.com/p/a06af8d8a376) |
 | Thu, 17 Jul 2025 15:35:07 GMT | I Went on the Dark Web and Instantly Regretted It | atheer | [Read More](https://medium.com/p/833b2503341d) |
@@ -103,14 +114,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/6eaa03ee69
 | Thu, 17 Jul 2025 10:57:10 GMT | Best Cyber Security Institute in Kolkata — Learn Ethical Hacking with Edu Den | Edu Den | [Read More](https://medium.com/p/ed17c911e896) |
 | Thu, 17 Jul 2025 10:56:54 GMT | How to Achieve Root-Like Control Without Rooting: Shizuku’s Perils & Talsec’s Root Detection | Talsec | [Read More](https://medium.com/p/ad433a5b46ab) |
 | Thu, 17 Jul 2025 10:56:13 GMT | HackTheBox “Code” Writeup — From Python Sandbox Escape to Root via JSON Bypass | Damara Brian | [Read More](https://medium.com/p/16d668bd307e) |
-| Thu, 17 Jul 2025 10:52:55 GMT | IAM Privilege Escalation via Policy Rollback: A Silent Security Risk in AWS | Gkimari | [Read More](https://medium.com/p/7b40b12d10f2) |
-| Thu, 17 Jul 2025 10:50:04 GMT | میرا ڈیٹا، میری مرضی | Sobix | [Read More](https://medium.com/p/a0f3bb0eefcd) |
-| Thu, 17 Jul 2025 10:48:04 GMT | Docker for Hackers- Orchestrate and Harden Your Toolkit with Docker Compose | John | [Read More](https://medium.com/p/cf193840ae23) |
-| Thu, 17 Jul 2025 10:46:56 GMT | What Are the Best Ways to Protect Your Company’s Data? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/e913c66643e1) |
-| Thu, 17 Jul 2025 10:46:37 GMT | Top Managed IT Solutions for Growing Fintech Startups in Plano | Technokraft Serve | [Read More](https://medium.com/p/daeb6c1f7094) |
-| Thu, 17 Jul 2025 10:45:21 GMT | What a Power Station Penetration Test Taught Me About Real-World Cybersecurity | Mindaugas Asipauskas | [Read More](https://medium.com/p/eb7f07eed619) |
-| Thu, 17 Jul 2025 10:32:57 GMT | Beyond Bugs: How Business Logic Flaws Put Apps at Risk | Ud4y | [Read More](https://medium.com/p/5f4fbf3d2a29) |
-| Thu, 17 Jul 2025 10:28:29 GMT | WAF vs. RASP: Which One Protects Your App Better and Why You Need Both | Janith Sandamal | [Read More](https://medium.com/p/916121f39e8a) |
-| Thu, 17 Jul 2025 10:25:51 GMT | The Web3 Security Paradox: Why “Infrastructure” Demands Redefinition | GoPlus Security | [Read More](https://medium.com/p/f350d92e1044) |
-| Thu, 17 Jul 2025 10:25:39 GMT | How CryptoXpress Makes It Easier to Earn Money in Crypto with 0 Investment | Akanimo Sampson david | [Read More](https://medium.com/p/84cda2923047) |
-| Thu, 17 Jul 2025 10:25:35 GMT | The CrowdStrike conundrum | Opcito Technologies | [Read More](https://medium.com/p/3ff55f4d43e3) |
