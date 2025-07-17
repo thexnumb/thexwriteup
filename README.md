@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 10:32:57 GMT | Beyond Bugs: How Business Logic Flaws Put Apps at Risk | Ud4y | [Read More](https://medium.com/p/5f4fbf3d2a29) |
+| Thu, 17 Jul 2025 10:28:29 GMT | WAF vs. RASP: Which One Protects Your App Better and Why You Need Both | Janith Sandamal | [Read More](https://medium.com/p/916121f39e8a) |
+| Thu, 17 Jul 2025 10:25:51 GMT | The Web3 Security Paradox: Why “Infrastructure” Demands Redefinition | GoPlus Security | [Read More](https://medium.com/p/f350d92e1044) |
+| Thu, 17 Jul 2025 10:25:39 GMT | How CryptoXpress Makes It Easier to Earn Money in Crypto with 0 Investment | Akanimo Sampson david | [Read More](https://medium.com/p/84cda2923047) |
+| Thu, 17 Jul 2025 10:25:35 GMT | The CrowdStrike conundrum | Opcito Technologies | [Read More](https://medium.com/p/3ff55f4d43e3) |
+| Thu, 17 Jul 2025 10:25:24 GMT | How to Perform a Cybersecurity Readiness Assessment for Your Organization | SecureSlate | [Read More](https://medium.com/p/e01fa98ace22) |
+| Thu, 17 Jul 2025 10:14:12 GMT | Siber Dünyada Ortak Operasyon: Operation Eastwood | Ali Ekber KARA | [Read More](https://medium.com/p/aedc750e37a7) |
 | Thu, 17 Jul 2025 10:10:59 GMT | Nasıl Koruyoruz? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/f6e43edeecaa) |
 | Thu, 17 Jul 2025 10:04:49 GMT | Beyond the Blockchain: Surviving a Crypto Hack | Bytewords | [Read More](https://medium.com/p/a8400e5df14c) |
 | Thu, 17 Jul 2025 10:00:28 GMT | My data , My Choice | Sobix | [Read More](https://medium.com/p/b6baf6f48741) |
@@ -106,10 +113,3 @@ Drosera: Ethereum’s Secret Weapon for Onchain Security | Matt | [Read More](ht
 | Thu, 17 Jul 2025 05:36:33 GMT | CTF Day(34) | Ahmed Narmer | [Read More](https://medium.com/p/8334270d207b) |
 | Thu, 17 Jul 2025 05:36:25 GMT | CSRF via Image Tags in Email Clients | Monika sharma | [Read More](https://medium.com/p/e61de514b64f) |
 | Thu, 17 Jul 2025 05:35:49 GMT | Deepfakes: The Rising Cyber Threat and How to Defend Against It | Egyda-Ai | [Read More](https://medium.com/p/4e6e4c68fe22) |
-| Thu, 17 Jul 2025 05:32:54 GMT | I Accidentally Exposed My API Keys | Ibtissam hammadi | [Read More](https://medium.com/p/a96e0278e4ae) |
-| Thu, 17 Jul 2025 05:29:48 GMT | Grok Controversy: A Wake-Up Call for All GenAI Builders | Paarth Chothani | [Read More](https://medium.com/p/10f53dc4223c) |
-| Thu, 17 Jul 2025 05:28:27 GMT | How to Convert Any Tool Battery Into a USB-C Charger (No Bullshit) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/40c17ee7f2cf) |
-| Thu, 17 Jul 2025 05:21:57 GMT | The Great Upcoming Indian IT Crash: Why You, An Engineer, Still Can’t Find A Job@Vinod73 | Vinod Bhardwaj | [Read More](https://medium.com/p/8a918cffdaf6) |
-| Thu, 17 Jul 2025 05:19:26 GMT | Strategic Paralysis by Design: Part VI — Maritime Chokeholds and Trojan Ports — Critical… | Chris Clark | [Read More](https://medium.com/p/acb3a02c59de) |
-| Thu, 17 Jul 2025 05:18:46 GMT | Can I Haz Root? :: Observer | Cyber Grover ‍ | [Read More](https://medium.com/p/6eb99186c7b6) |
-| Thu, 17 Jul 2025 05:18:15 GMT | Deploy Wazuh with Elastic Stack on Ubuntu | Bit by Byte | [Read More](https://medium.com/p/ee6679f39eb0) |
