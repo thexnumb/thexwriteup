@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 17 Jul 2025 22:19:10 GMT | The Linux Security Journey — OpenSSH | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/eeb7d168f8e5) |
+| Thu, 17 Jul 2025 22:10:46 GMT | Everyday CyberSecurity Assessment and Defenses: Personal, Business & Government | George J. Assad | [Read More](https://medium.com/p/a5c62789cc54) |
+| Thu, 17 Jul 2025 21:47:42 GMT | CoPilot Update: Manage Wazuh Detection Rules Seamlessly From the UI | SOCFortress | [Read More](https://medium.com/p/07ebe3e4fd6f) |
+| Thu, 17 Jul 2025 21:42:09 GMT | I Keep Imagining Scenarios That Will Never Happen | s. blurred | [Read More](https://medium.com/p/7080c01df3f5) |
+| Thu, 17 Jul 2025 21:41:09 GMT | How To Get $CVE Rewards | Curvance | [Read More](https://medium.com/p/b2213298f92d) |
 | Thu, 17 Jul 2025 21:28:18 GMT | PortSwigger Lab — 2FA Simple Bypass | 0xM4ZiX | [Read More](https://medium.com/p/e05a7c2e2b3c) |
 | Thu, 17 Jul 2025 21:25:22 GMT | Bug Bounty Journey — Valid Report Part 8 | 0xF3r4t | [Read More](https://medium.com/p/0edfa67082b2) |
 | Thu, 17 Jul 2025 21:19:49 GMT | Lab Walkthrough — Username Enumeration via Different Responses | 0xM4ZiX | [Read More](https://medium.com/p/437e3024b965) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 15:15:27 GMT | Simple ping script for an IP | Kawan Feliciano | [Read More](https://medium.com/p/8738d3d26533) |
 | Thu, 17 Jul 2025 15:13:26 GMT | The Bitter Truth About Love | ry | [Read More](https://medium.com/p/3ed776bda89c) |
 | Thu, 17 Jul 2025 15:08:17 GMT | LAB 21 : 64-BIT MALWARE | Mustapha Ait Ichou | [Read More](https://medium.com/p/5a0a20dad04c) |
-| Thu, 17 Jul 2025 15:07:36 GMT | DAY 17 — Chapter 8: BASH Scripting | Jinay | [Read More](https://medium.com/p/0187f407c688) |
-| Thu, 17 Jul 2025 15:01:55 GMT | Best Practices for SIEM and SOAR Integration in SOC | Esra Kayhan | [Read More](https://medium.com/p/3f83e6fb8c65) |
-| Thu, 17 Jul 2025 15:01:51 GMT | Digital Footprints of Executives: What Attackers Really Use | Ingvar Pavlovich | [Read More](https://medium.com/p/c7f32c9b3b97) |
-| Thu, 17 Jul 2025 15:01:07 GMT | Why Most Security Teams Miss Real-World Threats (And What to Do Instead) | DefenceRabbit | [Read More](https://medium.com/p/f32d3c3db570) |
-| Thu, 17 Jul 2025 14:36:05 GMT | Vulnerability on My Android Hotspot | Pramodh Cyb | [Read More](https://medium.com/p/2b1a4e1ad076) |
