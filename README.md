@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 14:43:59 GMT | Bug Bounty 101: Step-by-Step Practical Approach to Recon and Discovery | Santhosh Adiga U | [Read More](https://medium.com/p/43a4f505e3d3) |
+| Fri, 18 Jul 2025 14:43:20 GMT | Are You Still Using RSA for Your Keys? | Maga Nuriyev | [Read More](https://medium.com/p/439e3a36eb86) |
+| Fri, 18 Jul 2025 14:36:24 GMT | Securing AI Agents with Honeypots: Introducing Beelzebub MCP | Mario Candela | [Read More](https://medium.com/p/b062a935f451) |
+| Fri, 18 Jul 2025 14:28:38 GMT | TOR vs VPN — Which Protects Your Privacy Better? | Vijay Kumar Gupta | [Read More](https://medium.com/p/7b19a0f86a25) |
+| Fri, 18 Jul 2025 14:28:07 GMT | ChatGPT Trick Helped Me Start Earning in Less Than a Week | Clarity | [Read More](https://medium.com/p/e79299dd85e7) |
+| Fri, 18 Jul 2025 14:25:45 GMT | Top-Rated Security System Installers in Maryland — ICS Security Solutions | Katheryne | [Read More](https://medium.com/p/cd57f91a5db3) |
+| Fri, 18 Jul 2025 14:22:37 GMT | Binary Path Escalation (Windows Privilege Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/90d2c1a8482b) |
+| Fri, 18 Jul 2025 14:22:20 GMT | Advanced Multi Dorking - Neglected Endpoints | AbhirupKonwar | [Read More](https://medium.com/p/bd54b1210dec) |
 | Fri, 18 Jul 2025 14:18:50 GMT | TryHackMe: Net Sec Challenge — Practical Network Security Walkthrough | Xtrud3r | [Read More](https://medium.com/p/21fff1aceba8) |
+| Fri, 18 Jul 2025 14:18:03 GMT | 3-Second Social Media Hack That Protects Your Kids | Aj | [Read More](https://medium.com/p/e37be8dc8f71) |
 | Fri, 18 Jul 2025 14:17:24 GMT | What The New Superman Movie Showed Me About the Age of Outrage | Ryan Without Armor | [Read More](https://medium.com/p/3e1f4081dd28) |
 | Fri, 18 Jul 2025 14:13:11 GMT | I was just another student until I found this... | Newton Tech Navigator | [Read More](https://medium.com/p/1619c818e1de) |
 | Fri, 18 Jul 2025 14:09:18 GMT | RootMe: ELF_x86_Basic | Rahaliashraf | [Read More](https://medium.com/p/3dd3f63bdeb6) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 09:49:12 GMT | Measuring Android Pattern Lock Strength with Shannon Entropy & Graph Theory | Ahmet Göker | [Read More](https://medium.com/p/add81068ce48) |
 | Fri, 18 Jul 2025 09:46:59 GMT | HEADLINE: It’s Painful, But it Makes Me Resonate More Than 97% of Writers | Godfrey The Great | [Read More](https://medium.com/p/76781589aa18) |
 | Fri, 18 Jul 2025 09:37:21 GMT | This Is Interesting but Who Would Use It? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/ecfdb86c2943) |
-| Fri, 18 Jul 2025 09:32:18 GMT | Cybersecurity Redefined: Leading, Protecting, and Adapting with Next-Generation Strategy | Anshul Goyal | [Read More](https://medium.com/p/9b98124c5601) |
-| Fri, 18 Jul 2025 09:30:08 GMT | Citizen Developers and Low-Code/No-Code Platforms | Jonathan Salim | [Read More](https://medium.com/p/ac7ba6ab1bff) |
-| Fri, 18 Jul 2025 09:26:31 GMT | Kuwait Focuses on Turnstile Security to Prevent Unauthorized Access | expbhavya | [Read More](https://medium.com/p/894c342484ed) |
-| Fri, 18 Jul 2025 09:26:05 GMT | NASA KNEW THIS—----- | Satyam Kumar | [Read More](https://medium.com/p/d4a15be882bb) |
-| Fri, 18 Jul 2025 09:25:28 GMT | Dancing Lab Walkthrough: Unlocking SMB Misconfigurations on Hack The Box | Gopal Mohan | [Read More](https://medium.com/p/3781a54ec018) |
-| Fri, 18 Jul 2025 09:24:05 GMT | TryHackMe - Infinity Shell - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/0c3bf5ff6851) |
-| Fri, 18 Jul 2025 09:20:07 GMT | How to Remove Malware from WordPress & Secure Your Site | Dishang | [Read More](https://medium.com/p/b86348fb203c) |
-| Fri, 18 Jul 2025 09:10:38 GMT | Fawn Lab Solution: Exploring FTP Security Basics on Hack The Box’s Tier 0 Machine | Gopal Mohan | [Read More](https://medium.com/p/cef40db8f02c) |
-| Fri, 18 Jul 2025 09:01:25 GMT | Why Ethical Hacking Is the Career of the Future in India | Dineshathul | [Read More](https://medium.com/p/59b198a169a1) |
