@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 17:32:09 GMT | Bypassing Modern EDRs: Practical Evasion Techniques (2025 Edition) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/0158fca683ed) |
+| Fri, 18 Jul 2025 17:31:45 GMT | JWTs Are for Authorization, Not Session Management — Here’s the Difference | Observability Guy | [Read More](https://medium.com/p/7766a4af5e4e) |
+| Fri, 18 Jul 2025 17:31:29 GMT | NASA’s Cyber-AI Frontier: Intersecting Security, Autonomy, and Governance | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/bf5eed8789f7) |
+| Fri, 18 Jul 2025 17:20:19 GMT | Threat Hunting in Cloud Environments: A Hands‑On Approach | Karthikeyan Nagaraj | [Read More](https://medium.com/p/cb8720ff0968) |
 | Fri, 18 Jul 2025 17:14:45 GMT | How to Check CIS Benchmarks in Cloud and on premise And Worry Less About ISMS | Alireza Mokhtari | [Read More](https://medium.com/p/48525990f0af) |
+| Fri, 18 Jul 2025 17:14:28 GMT | $305M Vanishes: DMM, Predy, Tsuru, and OSN Wrecked by Wallet Compromise and Access Control Failures | Olympix | [Read More](https://medium.com/p/26053cf45648) |
+| Fri, 18 Jul 2025 17:11:38 GMT | $6M Stolen: AlexLab, NGFS, XBridge, and YIEDL Compromised by Key Theft and Broken Access Controls | Olympix | [Read More](https://medium.com/p/a485c2d6c7ec) |
+| Fri, 18 Jul 2025 17:11:07 GMT | The Power of Vulnerability: How Opening Up Can Improve Your Relationships and Mental Health | Osondu Divine Francis | [Read More](https://medium.com/p/97c9ffe32bda) |
 | Fri, 18 Jul 2025 17:09:27 GMT | Role of Machine Learning in Modern Data Science | Richa Ghosh | [Read More](https://medium.com/p/ce495e769476) |
+| Fri, 18 Jul 2025 17:09:14 GMT | $4M Drained: Pike, Grand Base, Sumer, and Squid Game Coin Fall to Wallet Leaks and Broken Logic | Olympix | [Read More](https://medium.com/p/e312d0d30321) |
 | Fri, 18 Jul 2025 17:07:19 GMT | Prompt Injection Attack on Evil-GPT v2: TryHackMe Walkthrough & AI Security Analysis | Aravind S V | [Read More](https://medium.com/p/063d0b5c1ed2) |
 | Fri, 18 Jul 2025 17:01:50 GMT | How to setup a darkweb site | umbraXsecure | [Read More](https://medium.com/p/d4d13a2afed4) |
 | Fri, 18 Jul 2025 16:55:49 GMT | CVE-2025–4919 [for Dummies] | dannyDUD | [Read More](https://medium.com/p/d7603dec5a34) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 11:51:47 GMT | Power Down Putin: How Graphite Bombs Could Cripple Russia Without Escalation | Brian Iselin | [Read More](https://medium.com/p/a39005e85fbc) |
 | Fri, 18 Jul 2025 11:50:32 GMT | The Role of Encryption in Securing Network Traffic | Cybersecurity Umbrella | [Read More](https://medium.com/p/eba9ea7ca979) |
 | Fri, 18 Jul 2025 11:50:28 GMT | Create end-users? Invite them instead. — OutSystems O11 vs. ODC | Claudia L Capitao | [Read More](https://medium.com/p/7c96dd5a8054) |
-| Fri, 18 Jul 2025 11:47:19 GMT | 5 Must-Try AI Chrome Extensions for Smarter Browsing in 2025 | Natlan Tech | [Read More](https://medium.com/p/7d2cf5a7d88e) |
-| Fri, 18 Jul 2025 11:46:54 GMT | Generative AI in IT: Transforming Operations, Efficiency, and Innovation | ZBrain | [Read More](https://medium.com/p/05f01bb77b53) |
-| Fri, 18 Jul 2025 11:46:30 GMT | Qantas Data Breach: A Wake-Up Call on Information Security and Phishing Attacks | Redfox Security | [Read More](https://medium.com/p/0409e2532345) |
-| Fri, 18 Jul 2025 11:45:59 GMT | Google Dorks for Bug Bounty Hunting: 25 Powerful Dorks to Find Exposed PDFs, NDAs, and Signatures | hackersatty | [Read More](https://medium.com/p/cf8c54e19189) |
-| Fri, 18 Jul 2025 11:41:26 GMT | From Recon to Root: The Ultimate Bug Bounty Recon Playbook (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c5707ccc8d42) |
-| Fri, 18 Jul 2025 11:40:48 GMT | ️ RedTeam.Blue: A Crucial Hub for InfoSec Professionals | MrGood | [Read More](https://medium.com/p/fc720319bdda) |
-| Fri, 18 Jul 2025 11:38:30 GMT | Breaking Down NIST CSF 2.0: Categories and Sub-Categories (with Real-World Examples) | Brittney Ginther | [Read More](https://medium.com/p/9bc611c87eab) |
-| Fri, 18 Jul 2025 11:35:16 GMT | Password Change Doesn’t Expire Sessions — A Hidden Risk in Session Management | Gourav(spidergk) | [Read More](https://medium.com/p/701c884aa86c) |
