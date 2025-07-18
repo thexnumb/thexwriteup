@@ -12,10 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 13:23:12 GMT | Advanced Debugging for Java/Kotlin: Part 1 — Hidden Stacks Overflowing | Miki Mendelson | [Read More](https://medium.com/p/3cf070bca8b0) |
+| Fri, 18 Jul 2025 13:22:59 GMT | Architecture Development Method (ADM) | Mohammed Brückner | [Read More](https://medium.com/p/364dc48e8114) |
+| Fri, 18 Jul 2025 13:20:46 GMT | Immunefi Banned Me for Reporting a Real Replay Attack in LayerZero V2 | Tangouvitch | [Read More](https://medium.com/p/71d5ee0ff102) |
+| Fri, 18 Jul 2025 13:19:02 GMT | CTF Day(35) | Ahmed Narmer | [Read More](https://medium.com/p/35bcc6f322eb) |
+| Fri, 18 Jul 2025 13:19:00 GMT | HOW YOUR EMAIL GETS HACKED: And What You Can Do About It | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/48d1bd3e1bd3) |
+| Fri, 18 Jul 2025 13:09:32 GMT | Cracking AES-CTR: A Known Plaintext Decryption Walkthrough | Vishwas Adhikari | [Read More](https://medium.com/p/8a46dec79594) |
+| Fri, 18 Jul 2025 13:09:18 GMT | Citrix Bleed 2: Critical RCE Flaw in 2025 | Kalariya Het | [Read More](https://medium.com/p/7722458c6a3e) |
+| Fri, 18 Jul 2025 13:08:26 GMT | Same Bug, Different Places: 3 Logic Flaws I Found on Main Domain | nooh zidan | [Read More](https://medium.com/p/90608ced8d4c) |
+| Fri, 18 Jul 2025 13:03:18 GMT | Cracking Ray-Ban Stories: How a Firmware Tweak Exposed Privacy Risks | Kalariya Het | [Read More](https://medium.com/p/33e28189854f) |
+| Fri, 18 Jul 2025 13:01:45 GMT | Welcome To The Anti-Scam Diaries: Why We’re Exposing The Dark Side Of The Internet. | The Anti-Scam Diaries | [Read More](https://medium.com/p/845fc9019cf1) |
+| Fri, 18 Jul 2025 13:00:47 GMT | Google’s “Find My Device” Now Works Without Internet – Here’s How to Track Offline (2025) | Digimad.online | [Read More](https://medium.com/p/240d52034800) |
+| Fri, 18 Jul 2025 12:59:12 GMT | Apple vs Android in 2025: Who’s Winning the Innovation Race? | Digimad.online | [Read More](https://medium.com/p/a2071bfb550a) |
+| Fri, 18 Jul 2025 12:58:36 GMT | What Is an Investment Adviser? | Itsolutioninpak | [Read More](https://medium.com/p/7a93cd6b8742) |
+| Fri, 18 Jul 2025 12:48:13 GMT | QA Meets Cybersecurity: How I Audited a React App Like a Pro | Mohamed Azharudeen | [Read More](https://medium.com/p/a81597d1eb81) |
 | Fri, 18 Jul 2025 12:44:43 GMT | Web3 Security Starts with You: Best Practices with Hive Keychain | Hive Keychain | [Read More](https://medium.com/p/75c9540eecae) |
 | Fri, 18 Jul 2025 12:36:15 GMT | A Beginner’s Real-World Penetration Testing Walkthrough on Metasploitable2 | LB Cyber Journal | [Read More](https://medium.com/p/f904a0371e3d) |
 | Fri, 18 Jul 2025 12:27:14 GMT | Timing is the Real Vulnerability – My Deep Dive into Time-Based Exploits | Sunny Kumar | [Read More](https://medium.com/p/8745fd2b06b5) |
 | Fri, 18 Jul 2025 12:26:56 GMT | CASEF vs. Zero Trust: Why the Old Paradigm is Dead | Travis Ray Caverhill | [Read More](https://medium.com/p/2df24fde4238) |
+| Fri, 18 Jul 2025 12:21:50 GMT | Parte 1 do volume 1 – Contribuições a OpenAi 2023–2025 | Davi Freire | [Read More](https://medium.com/p/654df1e5db88) |
 | Fri, 18 Jul 2025 12:21:04 GMT | Building Cyber Resilience with Hybrid SOC Services | sanya | [Read More](https://medium.com/p/f63c717077ac) |
 | Fri, 18 Jul 2025 12:18:32 GMT | DECLARAÇÃO TÉCNICO-JURÍDICA DE CONFIRMAÇÃO DE PROVAS DE INVASÃO DE DISPOSITIVOS | Davi Freire | [Read More](https://medium.com/p/c7d718484e24) |
 | Fri, 18 Jul 2025 12:16:57 GMT | Exploring Lua and RealTime Logic for Embedded Systems Development | C. L. Beard | [Read More](https://medium.com/p/805b273fa47d) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 08:30:28 GMT | TYPES OF HACKERS — NOT ALL ARE BAD | Anupam Singh | [Read More](https://medium.com/p/a76e9647f5c3) |
 | Fri, 18 Jul 2025 08:28:20 GMT | How ITProfiles Solves Real Problems in the B2B Industry (That Nobody Likes to Talk About) | Agatha Griffin | [Read More](https://medium.com/p/a8100f2837a1) |
 | Fri, 18 Jul 2025 08:25:18 GMT | My Smart Home Betrayed Me | Aj | [Read More](https://medium.com/p/3c15a9aa54a0) |
-| Fri, 18 Jul 2025 08:17:31 GMT | What is Perplexity Spaces? | Myra Jarenga | [Read More](https://medium.com/p/7816cf22696c) |
-| Fri, 18 Jul 2025 08:17:07 GMT | AI vs Hackers: The Role of Machine Learning in Cyber Defence | EuroAmerican Education Group | [Read More](https://medium.com/p/e3190e36a599) |
-| Fri, 18 Jul 2025 08:15:34 GMT | Why Updating Google Chrome 138.0.7204.157 is Critical | Easy2Patch | [Read More](https://medium.com/p/d14e959c72f8) |
-| Fri, 18 Jul 2025 08:08:50 GMT | The Cloud Security Crucible: The Reality of the Role and Your Detailed Roadmap to Success | Abhijith Soman | [Read More](https://medium.com/p/5161d00ec89f) |
-| Fri, 18 Jul 2025 08:02:21 GMT | AI Agents Security: From “Ignore previous instructions” to Observability and Threats Models | noailabs | [Read More](https://medium.com/p/b65a9cc864f7) |
-| Fri, 18 Jul 2025 08:00:14 GMT | How to become a cybersecurity expert in India | Manisha Chaudhary | [Read More](https://medium.com/p/ad46ae8d06bd) |
-| Fri, 18 Jul 2025 07:55:42 GMT | Why I Stopped Blindly Trusting Open Source Libraries: A Developer’s Guide to Dependency Security | TheOpinionatedDev | [Read More](https://medium.com/p/b576a5888a63) |
-| Fri, 18 Jul 2025 07:54:52 GMT | How Google is Redefining Cybersecurity with AI in 2025. | Technologic Innovation | [Read More](https://medium.com/p/bc3563e6b27c) |
-| Fri, 18 Jul 2025 07:52:45 GMT | Insufficient Workflow Validation: A Logic Flaw Case Study | Bash Overflow | [Read More](https://medium.com/p/f1fbd1774716) |
-| Fri, 18 Jul 2025 07:51:01 GMT | Study in Australia — Your Global Future Starts Here! | AIST | [Read More](https://medium.com/p/bb3fda46d062) |
-| Fri, 18 Jul 2025 07:50:21 GMT | From SAST to CVE-2025–46337 | Marco Nappi | [Read More](https://medium.com/p/bc2534c01864) |
-| Fri, 18 Jul 2025 07:49:44 GMT | Why Cybersecurity Solutions Are Critical for Every Modern Business | Vsgangaraju | [Read More](https://medium.com/p/66a3d766d62c) |
-| Fri, 18 Jul 2025 07:43:13 GMT | Top 7 Cybersecurity Risk Management Tools to Stop Cyberattacks Cold | SecureSlate | [Read More](https://medium.com/p/fc72b0fc12bc) |
-| Fri, 18 Jul 2025 07:39:12 GMT | Elastic Heart: How a Misconfigured Kibana Dashboard Sang Like a Canary | Iski | [Read More](https://medium.com/p/b719c7377964) |
-| Fri, 18 Jul 2025 07:32:16 GMT | My Relentless Fight Against the Silent Threat of Ocean Acidification | Leo Daniel | [Read More](https://medium.com/p/8297bb632a6a) |
