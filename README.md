@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 19:32:13 GMT | The Curse of Being the Strong One | Shivi Chaurasia | [Read More](https://medium.com/p/5d8ee38994f2) |
+| Fri, 18 Jul 2025 19:30:58 GMT | I Accidentally Pushed My API Key to GitHub — and Found Out Why That’s a Big Deal | Alex Frankowski | [Read More](https://medium.com/p/d53b5131d78e) |
+| Fri, 18 Jul 2025 19:28:43 GMT | Diary Entry #14 | Preiksha Jain | [Read More](https://medium.com/p/20cb92321bb8) |
+| Fri, 18 Jul 2025 19:27:55 GMT | Agentic AI: The “New” SOA and Why Your Security Strategy Needs a Reboot | Michael Figueroa | [Read More](https://medium.com/p/4522c278d413) |
+| Fri, 18 Jul 2025 19:22:15 GMT | Accepted. As is. Without Filter. | Julie A | [Read More](https://medium.com/p/ad03080a4538) |
+| Fri, 18 Jul 2025 19:17:26 GMT | The Duolingo Concern: A Cautionary Tale of AI, Ethics, and Data Exploitation | Jair Abrego Cubilla | [Read More](https://medium.com/p/f97471ec658d) |
+| Fri, 18 Jul 2025 19:16:15 GMT | “Here, Click This Totally Normal File” — Weaponization & Delivery | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/b8c50a10169b) |
+| Fri, 18 Jul 2025 19:13:20 GMT | From Breadboard to PCB: My Journey Into Circuit Design at UIRI | Grace Wanja | [Read More](https://medium.com/p/57be92eca65a) |
 | Fri, 18 Jul 2025 19:07:48 GMT | Pork CTF writeup | Ed Lustig | [Read More](https://medium.com/p/cfdf21ea9a17) |
 | Fri, 18 Jul 2025 18:58:13 GMT | Laika AI and the Evolution of Secure On-Chain Intelligence | Archaebong | [Read More](https://medium.com/p/7f200cbf8881) |
 | Fri, 18 Jul 2025 18:53:52 GMT | [Flash Blogs] Cybersecurity Meets AI: Automating STRIDE-Based Threat Modeling | Ankit Saini(@d3afh3av3n) | [Read More](https://medium.com/p/108a0c35a1a8) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 13:43:48 GMT | ️Breaking a PHP App with Nothing But Cookies and XML | Jabaribrown | [Read More](https://medium.com/p/4c519c046533) |
 | Fri, 18 Jul 2025 13:39:57 GMT | In today’s digital economy, UPI has revolutionized how we think about instant payments. | bepay | [Read More](https://medium.com/p/552650561326) |
 | Fri, 18 Jul 2025 13:37:26 GMT | Anonforce - TryHackMe CTF Çözümü | Berat Çam | [Read More](https://medium.com/p/30ff09f69488) |
-| Fri, 18 Jul 2025 13:37:11 GMT | The 5 Cybersecurity Roles That Will Disappear First | shahid irfan | [Read More](https://medium.com/p/5b405fa8bb27) |
-| Fri, 18 Jul 2025 13:34:17 GMT | 5 Real-Life Cyber Lessons Every Parent Should Teach Their Kids | Shatrughan Singh | [Read More](https://medium.com/p/36fab541e8c7) |
-| Fri, 18 Jul 2025 13:23:12 GMT | Advanced Debugging for Java/Kotlin: Part 1 — Hidden Stacks Overflowing | Miki Mendelson | [Read More](https://medium.com/p/3cf070bca8b0) |
-| Fri, 18 Jul 2025 13:22:59 GMT | Architecture Development Method (ADM) | Mohammed Brückner | [Read More](https://medium.com/p/364dc48e8114) |
-| Fri, 18 Jul 2025 13:21:41 GMT | SOC Nedir ? Neler Yapar ? | Taha | [Read More](https://medium.com/p/a1a0f34bd8d0) |
-| Fri, 18 Jul 2025 13:20:46 GMT | Immunefi Banned Me for Reporting a Real Replay Attack in LayerZero V2 | Tangouvitch | [Read More](https://medium.com/p/71d5ee0ff102) |
-| Fri, 18 Jul 2025 13:19:02 GMT | CTF Day(35) | Ahmed Narmer | [Read More](https://medium.com/p/35bcc6f322eb) |
-| Fri, 18 Jul 2025 13:19:00 GMT | HOW YOUR EMAIL GETS HACKED: And What You Can Do About It | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/48d1bd3e1bd3) |
