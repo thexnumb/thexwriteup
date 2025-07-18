@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 03:31:46 GMT | Quantum Cryptography | ACM BPHC | [Read More](https://medium.com/p/3660f2a2fa0f) |
+| Fri, 18 Jul 2025 03:31:46 GMT | How Disposable SMS Numbers Protect Your Privacy | Deven Chhajed | [Read More](https://medium.com/p/c5b84d28eaf6) |
+| Fri, 18 Jul 2025 03:26:32 GMT | Help My Account Was Hacked! | Andrew Frelon | [Read More](https://medium.com/p/5025f11e5232) |
+| Fri, 18 Jul 2025 03:18:19 GMT | To Love Your Natural Enemy | Flyhighut | [Read More](https://medium.com/p/9b47d57e6d04) |
+| Fri, 18 Jul 2025 03:14:26 GMT | Critical VMware Vulnerabilities Let Attackers Escape the VM — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/0eecf0816b49) |
+| Fri, 18 Jul 2025 02:37:49 GMT | Everyday Security Series — 5 Security Basics for Non-Profits | Katy Vonk | [Read More](https://medium.com/p/f74b052f5341) |
+| Fri, 18 Jul 2025 02:29:55 GMT | Bug Layers… or Lies? | Alex Joyel Raj | [Read More](https://medium.com/p/a9a682cae319) |
+| Fri, 18 Jul 2025 02:16:03 GMT | AI and Cybersecurity: Preparing the Next Generation of Talent | Masood Mahmood | [Read More](https://medium.com/p/cb197f9877bc) |
+| Fri, 18 Jul 2025 02:12:14 GMT | OAuth 2.0 extensions for Zero Trust | Vinod Dampuru | [Read More](https://medium.com/p/f98e5a8f29d7) |
+| Fri, 18 Jul 2025 02:03:19 GMT | The One Thing Standing Between You and a Hacker | Haroon Shahid | [Read More](https://medium.com/p/646feaa4389d) |
 | Fri, 18 Jul 2025 01:35:17 GMT | Lo-Fi TryHackMe Walkthrough/Write-up | Vee Belgar | [Read More](https://medium.com/p/4a10377d41f0) |
 | Fri, 18 Jul 2025 01:19:08 GMT | Proof of Trustworthiness | Cory Wagaman-Eure | [Read More](https://medium.com/p/a89a27958f71) |
 | Fri, 18 Jul 2025 01:01:02 GMT | Mastering the Hunt: The Ultimate Guide to Modern Bug Bounty Hunting | Monika sharma | [Read More](https://medium.com/p/416357b08abb) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 18:06:40 GMT | Email Spam Detection: A Comprehensive Guide | Kulwinder Singh | [Read More](https://medium.com/p/3f35f6cf62f4) |
 | Thu, 17 Jul 2025 18:01:48 GMT | ️‍♀️Confessions of a Password Amateur | Aisha Majeed | [Read More](https://medium.com/p/f5bfdc611dad) |
 | Thu, 17 Jul 2025 18:00:32 GMT | Creating a File Upload and Management Backend with Cloud Storage Integration | Gizem Şangür | [Read More](https://medium.com/p/5cc02c0ec8b8) |
-| Thu, 17 Jul 2025 17:46:56 GMT | Obedient Cat — My First Step into CTFs (picoCTF Write-up) | Gurijala Rajeswar Reddy | [Read More](https://medium.com/p/2d512631acef) |
-| Thu, 17 Jul 2025 17:39:38 GMT | My first Web development project | Nandun Samarasekara | [Read More](https://medium.com/p/8adbb5b360a1) |
-| Thu, 17 Jul 2025 17:33:58 GMT | Crowd Management Services: Role of Crowd Control Services in Public Gatherings | Support | [Read More](https://medium.com/p/2483becdcfd8) |
-| Thu, 17 Jul 2025 17:28:47 GMT | Clickjacking Explained Simply — How Hackers Hijack Your Clicks (And How to Stop Them) | Bhupesh kumar | [Read More](https://medium.com/p/a2702ff4f4e6) |
-| Thu, 17 Jul 2025 17:11:26 GMT | What Is an IP Address — Like I’m 5 | Haroon Shahid | [Read More](https://medium.com/p/5a8d21b35928) |
-| Thu, 17 Jul 2025 17:08:27 GMT | LFI DVWA (Low, Medium & high) | Dewa Agustina | [Read More](https://medium.com/p/d8a78c40b5d9) |
-| Thu, 17 Jul 2025 17:06:15 GMT | Update to Concept — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/1bb2d65f406d) |
-| Thu, 17 Jul 2025 17:00:15 GMT | Documenting my Cyber Security Journey | Joseph Thomas Gorman | [Read More](https://medium.com/p/b1c99ab4f511) |
-| Thu, 17 Jul 2025 16:34:34 GMT | PortSwigger Lab: Exploiting cache server normalization for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/a842755258dc) |
-| Thu, 17 Jul 2025 16:34:22 GMT | PortSwigger Lab: Lab Exploiting origin server normalization for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/526aac89e960) |
