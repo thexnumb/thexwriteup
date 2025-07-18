@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 05:26:22 GMT | Difference Between IT Security and Cybersecurity: Explained Simply | Dhanashri Bhale | [Read More](https://medium.com/p/36b3d226c113) |
+| Fri, 18 Jul 2025 05:08:16 GMT | Why Ashburn’s Leading Cyber Security Developers Are Essential for Modern Businesses? | Webtrills | [Read More](https://medium.com/p/980c67f12277) |
+| Fri, 18 Jul 2025 05:03:22 GMT | $2,000 -critical Samsung Bug Bounty: Bypassing Plan Restrictions via Business Logic Flaw | KILLUA_UCHIHA | [Read More](https://medium.com/p/e18eace8a6cf) |
+| Fri, 18 Jul 2025 05:03:05 GMT | The ‘No Join Button’ Economy: How Kaito Rewards True Influence and WTF is InfoFi | Tony Leung | [Read More](https://medium.com/p/ea2a4233ffe9) |
+| Fri, 18 Jul 2025 05:03:04 GMT | The Silent War Beneath the Waves | Oliver Meiklejohn | [Read More](https://medium.com/p/d230990c0aec) |
+| Fri, 18 Jul 2025 05:03:02 GMT | Why SMEs are the new Prime Targets for Cybercrime | 0xMetaLabs | [Read More](https://medium.com/p/87973238d51c) |
+| Fri, 18 Jul 2025 04:57:22 GMT | Secure Your Django Application with SafeLine WAF: A Step-by-Step Guide | Mehedi Khan | [Read More](https://medium.com/p/b631103c6d9c) |
 | Fri, 18 Jul 2025 04:36:48 GMT | PortSwigger Lab: Web shell upload via path traversal writeup (File Upload Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/3b027483ca2c) |
 | Fri, 18 Jul 2025 04:36:33 GMT | PortSwigger Lab: Web shell upload via Content-Type restriction bypass writeup (File Upload… | awes0meness | [Read More](https://medium.com/p/1840bb6394a5) |
 | Fri, 18 Jul 2025 04:35:22 GMT | How Security Command Center in Google Cloud Exposed Hidden Backdoor in My Project | Dolly Aswin Harahap | [Read More](https://medium.com/p/744deeb9551b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 19:12:33 GMT | $XXXX with Microsoft Hall of Fame - Microsoft CSP Bypass - Stored XSS on SharePoint - Microsoft… | CodeXploiter | [Read More](https://medium.com/p/591c12a710ed) |
 | Thu, 17 Jul 2025 19:07:24 GMT | From Curiosity to Capability: My First Dive into Nessus Expert for Vulnerability Assessment | Nazia Malik | [Read More](https://medium.com/p/52f26d387c0d) |
 | Thu, 17 Jul 2025 19:03:55 GMT | Line 盗帳號之詐騙行為及緊急處理指南 | IT工兵 | [Read More](https://medium.com/p/a5367d037719) |
-| Thu, 17 Jul 2025 19:02:42 GMT | My Experience with websec.nl — A Benchmark for Cybersecurity Companies | 0trust0day | [Read More](https://medium.com/p/9115e3834193) |
-| Thu, 17 Jul 2025 19:01:17 GMT | How to Study Effectively for Your next IT Certification | Ariane Horbach | [Read More](https://medium.com/p/974d4a1c0cca) |
-| Thu, 17 Jul 2025 18:58:46 GMT | Securing APIs in Identity Management: A Practical Guide for Modern Organizations | Deepak Gupta | [Read More](https://medium.com/p/2f19083465b4) |
-| Thu, 17 Jul 2025 18:56:05 GMT | fail into my arms | Oliver Quinn | [Read More](https://medium.com/p/d6eb0f12eab2) |
-| Thu, 17 Jul 2025 18:55:39 GMT | Encryption and the Right to Privacy: Pakistan’s Emerging Constitutional Challenge | Judgecyberlawyer | [Read More](https://medium.com/p/f2b65275e030) |
-| Thu, 17 Jul 2025 18:53:11 GMT | Can Residential Proxies Be Detected? The Truth You Need to Know | NovaProxy | [Read More](https://medium.com/p/1ce537d38b0a) |
-| Thu, 17 Jul 2025 18:52:54 GMT | MSP Dark Web Monitoring: A Must-Have for Modern Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/03574b96d669) |
