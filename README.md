@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 07:13:21 GMT | How do hybrid SOC services improve security? | Ziya Zoe | [Read More](https://medium.com/p/53b0fb31ca81) |
+| Fri, 18 Jul 2025 07:09:49 GMT | Scam Baiting a Fake Job Application Fraudster | Mike Manrod | [Read More](https://medium.com/p/73f537e590ae) |
+| Fri, 18 Jul 2025 07:08:35 GMT | Top Web Application Penetration Testing Courses Online [2025 Guide] | cyber security Updates | [Read More](https://medium.com/p/d125bd17ba12) |
+| Fri, 18 Jul 2025 07:04:38 GMT | Why consider using hybrid SOC services? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/d491e3bd637b) |
+| Fri, 18 Jul 2025 07:02:12 GMT | phpIPAM Nedir? Kurulumu, Özellikleri ve Kullanım Senaryoları | Serdarumuturan | [Read More](https://medium.com/p/4c60641b1976) |
+| Fri, 18 Jul 2025 07:01:28 GMT | De reconocimiento pasivo a investigativo: transformando mi fase de reconocimiento en Bug Bounty | Gorka | [Read More](https://medium.com/p/72226de48526) |
+| Fri, 18 Jul 2025 07:01:23 GMT | Dedicated Server for FinTech: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/ca9b152a665a) |
+| Fri, 18 Jul 2025 06:59:56 GMT | From Vulnerable to Victor: Taking Control of Your Cybersecurity | Godwin Anyebe | [Read More](https://medium.com/p/7822fe2be72f) |
+| Fri, 18 Jul 2025 06:55:45 GMT | GOD IS IN THE WIFI | Puddles | [Read More](https://medium.com/p/0d2c6ff82887) |
+| Fri, 18 Jul 2025 06:52:57 GMT | Quranium: Built for the Quantum Era While Everyone Else Waits. | Bright Mmaduabuchi | [Read More](https://medium.com/p/8427c35e0379) |
+| Fri, 18 Jul 2025 06:47:46 GMT | What is Cybersecurity? A Beginner’s Guide for 2025 | SocialTechner | [Read More](https://medium.com/p/15eaf97b299a) |
+| Fri, 18 Jul 2025 06:45:01 GMT | How Smart IT Solutions Are Empowering Modern Businesses in Pune | Implause Solutions | [Read More](https://medium.com/p/e1f6c3593c6b) |
+| Fri, 18 Jul 2025 06:40:41 GMT | Secure Boot ve TPM: Linux Dünyasında İşletim Sistemi Güvenliği | Sinem Coşkun | [Read More](https://medium.com/p/da0ca3ece1b5) |
+| Fri, 18 Jul 2025 06:35:37 GMT | How I Found My First Critical Bug: Account Takeover via Email Verification Bypass | Wondmagegn Degu | [Read More](https://medium.com/p/7481b814f902) |
+| Fri, 18 Jul 2025 06:33:51 GMT | The Basics Matter: Enumeration and Brute Forcing | hexidecimal | [Read More](https://medium.com/p/a4a31de946b5) |
+| Fri, 18 Jul 2025 06:25:52 GMT | Hydraulic Guest Blogging | Whyps | [Read More](https://medium.com/p/706fa3844b4b) |
 | Fri, 18 Jul 2025 06:24:25 GMT | Secure Your Property: Video Analytics for Fire and Smoke Detection in the KUWAIT | expbhavya | [Read More](https://medium.com/p/a413b33b05b8) |
 | Fri, 18 Jul 2025 06:14:46 GMT | Don’t Let Lag Win: 6 VPN Tips Every Gamer Should Know | Cloudbric VPN | [Read More](https://medium.com/p/f47aba0b9694) |
 | Fri, 18 Jul 2025 06:12:47 GMT | Top Dark Web Forums With .onion Links to Explore in 2025 | adityaax | [Read More](https://medium.com/p/9ad4daab27f3) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 21:41:09 GMT | How To Get $CVE Rewards | Curvance | [Read More](https://medium.com/p/b2213298f92d) |
 | Thu, 17 Jul 2025 21:28:18 GMT | PortSwigger Lab — 2FA Simple Bypass | 0xM4ZiX | [Read More](https://medium.com/p/e05a7c2e2b3c) |
 | Thu, 17 Jul 2025 21:25:22 GMT | Bug Bounty Journey — Valid Report Part 8 | 0xF3r4t | [Read More](https://medium.com/p/0edfa67082b2) |
-| Thu, 17 Jul 2025 21:19:49 GMT | Lab Walkthrough — Username Enumeration via Different Responses | 0xM4ZiX | [Read More](https://medium.com/p/437e3024b965) |
-| Thu, 17 Jul 2025 21:14:57 GMT | IDOR: A Beginner’s Look | Bugged and Baffled | [Read More](https://medium.com/p/4edc3bb308d4) |
-| Thu, 17 Jul 2025 21:13:56 GMT | Starting My Cybersecurity Journey Post-Graduation | Godsonsec | [Read More](https://medium.com/p/1ee0c4736467) |
-| Thu, 17 Jul 2025 21:12:15 GMT | The “Working from China” Problem | Ryan McGeehan | [Read More](https://medium.com/p/18045ca8060a) |
-| Thu, 17 Jul 2025 21:11:45 GMT | Getting Old, and Your Kids Are Acting Like They Can’t Stand You? Here’s What to Do | Gemma Hill | [Read More](https://medium.com/p/295d24b3f914) |
-| Thu, 17 Jul 2025 21:11:11 GMT | Top 5 Mistakes People Make When Installing Smoke Detectors | Ataraxis Solutions | [Read More](https://medium.com/p/c3539e84c9bd) |
-| Thu, 17 Jul 2025 21:02:08 GMT | Trying to Earn the Love I Already Had | Toluwalope Oyewusi | [Read More](https://medium.com/p/20589776981c) |
-| Thu, 17 Jul 2025 20:49:58 GMT | The $10M Close Call: Why DeFi’s Security Crisis Demands a New Approach | Mr Alex Yung® | [Read More](https://medium.com/p/1e9558a86e01) |
-| Thu, 17 Jul 2025 20:46:23 GMT | Generating and Executing Shellcode with Donut | S12 - 0x12Dark Development | [Read More](https://medium.com/p/97970d5df044) |
-| Thu, 17 Jul 2025 20:39:41 GMT | Stepping Back Into The Light | Grace Kelly | [Read More](https://medium.com/p/df408d36795c) |
-| Thu, 17 Jul 2025 20:39:34 GMT | The AI won’t replace developers — Yet… | George Petropoulos | [Read More](https://medium.com/p/6fbf1d4ef00f) |
-| Thu, 17 Jul 2025 20:24:59 GMT | SnakeKeylogger Phishing Campaign — IOC Analysis and Malware Infrastructure Breakdown | Kanada | [Read More](https://medium.com/p/7013a768dc5d) |
-| Thu, 17 Jul 2025 20:24:37 GMT | July 18, 2025 — Scanning the Internet, Missing the Past, and Chasing Godzilla | IamGhost | [Read More](https://medium.com/p/9f9509dfbed3) |
-| Thu, 17 Jul 2025 20:23:47 GMT | When She Came Back, I Didn’t: A Story of Closure, Power, and Self-Respect | Ibrahim Irfan | [Read More](https://medium.com/p/0eb84b2560ab) |
-| Thu, 17 Jul 2025 20:10:15 GMT | Redeeming the Pain Game: My Scars, His Story (Part 3) | Jessica Z. Nowachek | [Read More](https://medium.com/p/9598dea5f2ca) |
-| Thu, 17 Jul 2025 20:09:44 GMT | Critical Security Flaw: Exposed .git Directory | Tembzz | [Read More](https://medium.com/p/41d82dc1141c) |
