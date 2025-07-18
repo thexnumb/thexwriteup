@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 10:21:50 GMT | The Insider Threat: When Cybersecurity Risks Come from Within | Richard Dosumu | [Read More](https://medium.com/p/4253aceba900) |
+| Fri, 18 Jul 2025 10:14:00 GMT | Hack The Box Journey — Day 2: Learning by Doing (Not Just Watching) | Manju Varma M | [Read More](https://medium.com/p/48ed980792ae) |
+| Fri, 18 Jul 2025 10:10:33 GMT | My first shot with Bugbounty Radar and I hit a vuln — bounty coming soon? | liu sdgs | [Read More](https://medium.com/p/93a9cfa91727) |
+| Fri, 18 Jul 2025 10:10:03 GMT | Research Questions | Covenant O.B. | [Read More](https://medium.com/p/3b013a6737cb) |
+| Fri, 18 Jul 2025 10:08:45 GMT | TryHackMe — Lo-Fi Room Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/5db280c696ee) |
+| Fri, 18 Jul 2025 10:05:45 GMT | Everything You Need to Know About Dockerfile: From Basics to Advanced Techniques | Harleen kaur | [Read More](https://medium.com/p/2e61c0cd94b0) |
+| Fri, 18 Jul 2025 09:58:44 GMT | Best Managed Cybersecurity Services In India - Net Access India Limited | Anbarasans | [Read More](https://medium.com/p/5fa105125cf4) |
+| Fri, 18 Jul 2025 09:58:29 GMT | From Zero to Super Admin: A Bug Story from My Internship | NizzCorp Academy | [Read More](https://medium.com/p/1f8ad7dd51cf) |
+| Fri, 18 Jul 2025 09:55:13 GMT | A Bright Future in Cyber security: | Naims Security | [Read More](https://medium.com/p/70bfae48f83c) |
+| Fri, 18 Jul 2025 09:54:13 GMT | Pepsi or Coke? When a Simple Childhood Choice Became So Much More | Adore | [Read More](https://medium.com/p/122defa5b0c2) |
+| Fri, 18 Jul 2025 09:49:12 GMT | Measuring Android Pattern Lock Strength with Shannon Entropy & Graph Theory | Ahmet Göker | [Read More](https://medium.com/p/add81068ce48) |
+| Fri, 18 Jul 2025 09:46:59 GMT | HEADLINE: It’s Painful, But it Makes Me Resonate More Than 97% of Writers | Godfrey The Great | [Read More](https://medium.com/p/76781589aa18) |
 | Fri, 18 Jul 2025 09:37:21 GMT | This Is Interesting but Who Would Use It? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/ecfdb86c2943) |
 | Fri, 18 Jul 2025 09:32:18 GMT | Cybersecurity Redefined: Leading, Protecting, and Adapting with Next-Generation Strategy | Anshul Goyal | [Read More](https://medium.com/p/9b98124c5601) |
 | Fri, 18 Jul 2025 09:30:08 GMT | Citizen Developers and Low-Code/No-Code Platforms | Jonathan Salim | [Read More](https://medium.com/p/ac7ba6ab1bff) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 04:36:48 GMT | PortSwigger Lab: Web shell upload via path traversal writeup (File Upload Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/3b027483ca2c) |
 | Fri, 18 Jul 2025 04:36:33 GMT | PortSwigger Lab: Web shell upload via Content-Type restriction bypass writeup (File Upload… | awes0meness | [Read More](https://medium.com/p/1840bb6394a5) |
 | Fri, 18 Jul 2025 04:35:22 GMT | How Security Command Center in Google Cloud Exposed Hidden Backdoor in My Project | Dolly Aswin Harahap | [Read More](https://medium.com/p/744deeb9551b) |
-| Fri, 18 Jul 2025 04:35:18 GMT | PortSwigger Lab: Remote code execution via web shell upload writeup (File Upload Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/88f798384dc6) |
-| Fri, 18 Jul 2025 04:30:59 GMT | Unpatched Ruckus Vulnerabilities Expose Wireless Networks to Complete Takeover | Infoziant | [Read More](https://medium.com/p/de4cdcf963da) |
-| Fri, 18 Jul 2025 04:17:33 GMT | The McDonald’s Job Portal Hack That Should Make Every Developer Think Twice | Monish Correia | [Read More](https://medium.com/p/ca7beb7e00ad) |
-| Fri, 18 Jul 2025 04:13:10 GMT | Disney and Universal aren’t just suing MidJourney — they’re making a strategic move to shape how… | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/07860ecc30be) |
-| Fri, 18 Jul 2025 04:08:08 GMT | Hacking wifi using airmon-ng | Arun Adhikari | [Read More](https://medium.com/p/1aa1c9c7536e) |
-| Fri, 18 Jul 2025 04:04:59 GMT | Mastering JWT Security: Complete TryHackMe Walkthrough for API Hackers | Mukund | [Read More](https://medium.com/p/fc7afa3ff504) |
-| Fri, 18 Jul 2025 03:57:05 GMT | The Cyber Kill Chain: Lessons from Real-World Breaches | Amrik Singh Hanjra | [Read More](https://medium.com/p/ba61b5592adc) |
-| Fri, 18 Jul 2025 03:53:39 GMT | Day4 - Cybersecurity for Beginners: Learn Linux Essentials for Cybersecurity | unica 02 | [Read More](https://medium.com/p/a144aa9c426e) |
-| Fri, 18 Jul 2025 03:48:04 GMT | Harden and Monitor: FIM is the Missing Link in Container Security | Infosecjourney.tech | [Read More](https://medium.com/p/582897e83bc8) |
-| Fri, 18 Jul 2025 03:31:46 GMT | Quantum Cryptography | ACM BPHC | [Read More](https://medium.com/p/3660f2a2fa0f) |
-| Fri, 18 Jul 2025 03:31:46 GMT | How Disposable SMS Numbers Protect Your Privacy | Deven Chhajed | [Read More](https://medium.com/p/c5b84d28eaf6) |
-| Fri, 18 Jul 2025 03:26:32 GMT | Help My Account Was Hacked! | Andrew Frelon | [Read More](https://medium.com/p/5025f11e5232) |
