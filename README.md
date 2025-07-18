@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 18:17:38 GMT | DAY 18 — Wireshark Investigation- KOI Loader | Jinay | [Read More](https://medium.com/p/2fba09805e19) |
+| Fri, 18 Jul 2025 18:17:22 GMT | What is Working in Email Security in 2025? | anurag sharma | [Read More](https://medium.com/p/2644075539eb) |
+| Fri, 18 Jul 2025 18:04:15 GMT | Why I’m Finally Sharing | Maria Ghaziri | [Read More](https://medium.com/p/216f1121d02c) |
+| Fri, 18 Jul 2025 17:59:24 GMT | Retrieving Deleted Messages with These Strong Spy Apps | Narjis Batool | [Read More](https://medium.com/p/d5e1194419a7) |
+| Fri, 18 Jul 2025 17:55:50 GMT | Google Dorking Secrets: What You Should Know Before It’s Too Late | SafeAeon Inc. | [Read More](https://medium.com/p/925fbdf45715) |
+| Fri, 18 Jul 2025 17:52:18 GMT | Etik Hacker Olma Hakkında | Arda | [Read More](https://medium.com/p/122aa5fc986d) |
+| Fri, 18 Jul 2025 17:51:05 GMT | Let’s Debug the Basics: What Is a Bug  and How to Catch It | Jyoti Upadhyay | [Read More](https://medium.com/p/ef73656f096e) |
+| Fri, 18 Jul 2025 17:50:29 GMT | "The Convergence Layer" is a concept that appears in multiple domains — from computer networks and… | ♐DecentralizedDev | [Read More](https://medium.com/p/25f2db03fb34) |
+| Fri, 18 Jul 2025 17:50:06 GMT | July 18, 2025 — A Day of Worms, Rain, Rage, and Routers | IamGhost | [Read More](https://medium.com/p/6764abcc0134) |
+| Fri, 18 Jul 2025 17:47:40 GMT | The Ultimate Arsenal for Security Testing and Ethical Hacking | Javier Calderon Jr | [Read More](https://medium.com/p/8e743491360b) |
+| Fri, 18 Jul 2025 17:46:23 GMT | Navigating Public Wi-Fi: 5 Safety Tips You Can’t Ignore | Amina Mussa | [Read More](https://medium.com/p/6500b1afb902) |
+| Fri, 18 Jul 2025 17:45:34 GMT | Exploring Diverse Metrics for Enhancing Security Operations Effectiveness:- | Aman kamra | [Read More](https://medium.com/p/c67121a141ff) |
+| Fri, 18 Jul 2025 17:41:21 GMT | BTLO Foxy Investigation: Full Walkthrough with OSINT and Malware Sandbox Analysis | Pranav | [Read More](https://medium.com/p/8b71fb6d3225) |
 | Fri, 18 Jul 2025 17:32:09 GMT | Bypassing Modern EDRs: Practical Evasion Techniques (2025 Edition) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/0158fca683ed) |
 | Fri, 18 Jul 2025 17:31:45 GMT | JWTs Are for Authorization, Not Session Management — Here’s the Difference | Observability Guy | [Read More](https://medium.com/p/7766a4af5e4e) |
 | Fri, 18 Jul 2025 17:31:29 GMT | NASA’s Cyber-AI Frontier: Intersecting Security, Autonomy, and Governance | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/bf5eed8789f7) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 12:44:43 GMT | Web3 Security Starts with You: Best Practices with Hive Keychain | Hive Keychain | [Read More](https://medium.com/p/75c9540eecae) |
 | Fri, 18 Jul 2025 12:36:15 GMT | A Beginner’s Real-World Penetration Testing Walkthrough on Metasploitable2 | LB Cyber Journal | [Read More](https://medium.com/p/f904a0371e3d) |
 | Fri, 18 Jul 2025 12:27:14 GMT | Timing is the Real Vulnerability – My Deep Dive into Time-Based Exploits | Sunny Kumar | [Read More](https://medium.com/p/8745fd2b06b5) |
-| Fri, 18 Jul 2025 12:26:56 GMT | CASEF vs. Zero Trust: Why the Old Paradigm is Dead | Travis Ray Caverhill | [Read More](https://medium.com/p/2df24fde4238) |
-| Fri, 18 Jul 2025 12:21:50 GMT | Parte 1 do volume 1 – Contribuições a OpenAi 2023–2025 | Davi Freire | [Read More](https://medium.com/p/654df1e5db88) |
-| Fri, 18 Jul 2025 12:21:04 GMT | Building Cyber Resilience with Hybrid SOC Services | sanya | [Read More](https://medium.com/p/f63c717077ac) |
-| Fri, 18 Jul 2025 12:18:32 GMT | DECLARAÇÃO TÉCNICO-JURÍDICA DE CONFIRMAÇÃO DE PROVAS DE INVASÃO DE DISPOSITIVOS | Davi Freire | [Read More](https://medium.com/p/c7d718484e24) |
-| Fri, 18 Jul 2025 12:16:57 GMT | Exploring Lua and RealTime Logic for Embedded Systems Development | C. L. Beard | [Read More](https://medium.com/p/805b273fa47d) |
-| Fri, 18 Jul 2025 12:16:35 GMT | My PNPT Journey So Far: PEH + AD Lab Recap | Sharzun | [Read More](https://medium.com/p/4480b02343c0) |
-| Fri, 18 Jul 2025 12:14:26 GMT | Exploits in the Wild & Stealthy Campaigns Target Enterprises | Loginsoft | [Read More](https://medium.com/p/a45aef71df93) |
-| Fri, 18 Jul 2025 12:11:45 GMT | I Broke Rate Limits to Hijack Accounts — Without Getting Blocked | Ibtissam hammadi | [Read More](https://medium.com/p/e99675a30b6c) |
-| Fri, 18 Jul 2025 12:02:29 GMT | Cybersecurity x AI : The Power Combo That’s Taking Over Tech | Myselfanytime | [Read More](https://medium.com/p/c6568c032f2f) |
-| Fri, 18 Jul 2025 11:57:21 GMT | Become an APISec University Ambassador and Empower the Future of API Security | MrGood | [Read More](https://medium.com/p/a59f111ca868) |
-| Fri, 18 Jul 2025 11:51:47 GMT | Power Down Putin: How Graphite Bombs Could Cripple Russia Without Escalation | Brian Iselin | [Read More](https://medium.com/p/a39005e85fbc) |
-| Fri, 18 Jul 2025 11:50:32 GMT | The Role of Encryption in Securing Network Traffic | Cybersecurity Umbrella | [Read More](https://medium.com/p/eba9ea7ca979) |
-| Fri, 18 Jul 2025 11:50:28 GMT | Create end-users? Invite them instead. — OutSystems O11 vs. ODC | Claudia L Capitao | [Read More](https://medium.com/p/7c96dd5a8054) |
