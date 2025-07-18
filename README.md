@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 04:36:48 GMT | PortSwigger Lab: Web shell upload via path traversal writeup (File Upload Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/3b027483ca2c) |
+| Fri, 18 Jul 2025 04:36:33 GMT | PortSwigger Lab: Web shell upload via Content-Type restriction bypass writeup (File Upload… | awes0meness | [Read More](https://medium.com/p/1840bb6394a5) |
+| Fri, 18 Jul 2025 04:35:22 GMT | How Security Command Center in Google Cloud Exposed Hidden Backdoor in My Project | Dolly Aswin Harahap | [Read More](https://medium.com/p/744deeb9551b) |
+| Fri, 18 Jul 2025 04:35:18 GMT | PortSwigger Lab: Remote code execution via web shell upload writeup (File Upload Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/88f798384dc6) |
+| Fri, 18 Jul 2025 04:30:59 GMT | Unpatched Ruckus Vulnerabilities Expose Wireless Networks to Complete Takeover | Infoziant | [Read More](https://medium.com/p/de4cdcf963da) |
+| Fri, 18 Jul 2025 04:17:33 GMT | The McDonald’s Job Portal Hack That Should Make Every Developer Think Twice | Monish Correia | [Read More](https://medium.com/p/ca7beb7e00ad) |
+| Fri, 18 Jul 2025 04:13:10 GMT | Disney and Universal aren’t just suing MidJourney — they’re making a strategic move to shape how… | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/07860ecc30be) |
+| Fri, 18 Jul 2025 04:08:08 GMT | Hacking wifi using airmon-ng | Arun Adhikari | [Read More](https://medium.com/p/1aa1c9c7536e) |
+| Fri, 18 Jul 2025 04:04:59 GMT | Mastering JWT Security: Complete TryHackMe Walkthrough for API Hackers | Mukund | [Read More](https://medium.com/p/fc7afa3ff504) |
+| Fri, 18 Jul 2025 03:57:05 GMT | The Cyber Kill Chain: Lessons from Real-World Breaches | Amrik Singh Hanjra | [Read More](https://medium.com/p/ba61b5592adc) |
+| Fri, 18 Jul 2025 03:53:39 GMT | Day4 - Cybersecurity for Beginners: Learn Linux Essentials for Cybersecurity | unica 02 | [Read More](https://medium.com/p/a144aa9c426e) |
+| Fri, 18 Jul 2025 03:48:04 GMT | Harden and Monitor: FIM is the Missing Link in Container Security | Infosecjourney.tech | [Read More](https://medium.com/p/582897e83bc8) |
 | Fri, 18 Jul 2025 03:31:46 GMT | Quantum Cryptography | ACM BPHC | [Read More](https://medium.com/p/3660f2a2fa0f) |
 | Fri, 18 Jul 2025 03:31:46 GMT | How Disposable SMS Numbers Protect Your Privacy | Deven Chhajed | [Read More](https://medium.com/p/c5b84d28eaf6) |
 | Fri, 18 Jul 2025 03:26:32 GMT | Help My Account Was Hacked! | Andrew Frelon | [Read More](https://medium.com/p/5025f11e5232) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 18:55:39 GMT | Encryption and the Right to Privacy: Pakistan’s Emerging Constitutional Challenge | Judgecyberlawyer | [Read More](https://medium.com/p/f2b65275e030) |
 | Thu, 17 Jul 2025 18:53:11 GMT | Can Residential Proxies Be Detected? The Truth You Need to Know | NovaProxy | [Read More](https://medium.com/p/1ce537d38b0a) |
 | Thu, 17 Jul 2025 18:52:54 GMT | MSP Dark Web Monitoring: A Must-Have for Modern Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/03574b96d669) |
-| Thu, 17 Jul 2025 18:43:32 GMT | WPA/WPA2 Cracking Demystified: Full Command Output + Deep Dive | Rajkumar Kumawat | [Read More](https://medium.com/p/65a16719356e) |
-| Thu, 17 Jul 2025 18:37:45 GMT | Meet the Pimps: The Middlemen of Network Traffic in Cybersecurity Architecture | Sayantani Halder | [Read More](https://medium.com/p/3f858c02636a) |
-| Thu, 17 Jul 2025 18:36:16 GMT | The 3 Books Every Cyber Defender Swears By | Aj | [Read More](https://medium.com/p/f7bb35b7c329) |
-| Thu, 17 Jul 2025 18:35:45 GMT | Don’t make identification your main vulnerability strategy | Stu Charlton | [Read More](https://medium.com/p/9b03ce24341e) |
-| Thu, 17 Jul 2025 18:29:55 GMT | Best Cyber Security Courses After 12th: 2025 Guide | Simplilearn | [Read More](https://medium.com/p/7cc0d7ca95bd) |
-| Thu, 17 Jul 2025 18:28:32 GMT | Why White Label SOC Services Are a Smart Move for MSPs | SafeAeon Inc. | [Read More](https://medium.com/p/cc086f02e8a0) |
-| Thu, 17 Jul 2025 18:19:09 GMT | Di Antara Sinyal dan Rindu | Achmad Isma'il | [Read More](https://medium.com/p/673c944edc3e) |
-| Thu, 17 Jul 2025 18:16:45 GMT | The Rise of AI-Powered Cyber Attacks: A Growing Threat in 2025 | Mark Trochimchuk | [Read More](https://medium.com/p/d2c6ae8f3e17) |
-| Thu, 17 Jul 2025 18:12:33 GMT | Why SOC Services Are Essential for Your Business, and How SafeAeon Delivers What You Need | SafeAeon Inc. | [Read More](https://medium.com/p/ebcf7a9b6783) |
-| Thu, 17 Jul 2025 18:06:40 GMT | Email Spam Detection: A Comprehensive Guide | Kulwinder Singh | [Read More](https://medium.com/p/3f35f6cf62f4) |
-| Thu, 17 Jul 2025 18:01:48 GMT | ️‍♀️Confessions of a Password Amateur | Aisha Majeed | [Read More](https://medium.com/p/f5bfdc611dad) |
-| Thu, 17 Jul 2025 18:00:32 GMT | Creating a File Upload and Management Backend with Cloud Storage Integration | Gizem Şangür | [Read More](https://medium.com/p/5cc02c0ec8b8) |
