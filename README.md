@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 09:26:05 GMT | NASA KNEW THIS—----- | Satyam Kumar | [Read More](https://medium.com/p/d4a15be882bb) |
+| Fri, 18 Jul 2025 09:25:28 GMT | Dancing Lab Walkthrough: Unlocking SMB Misconfigurations on Hack The Box | Gopal Mohan | [Read More](https://medium.com/p/3781a54ec018) |
+| Fri, 18 Jul 2025 09:24:05 GMT | TryHackMe - Infinity Shell - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/0c3bf5ff6851) |
+| Fri, 18 Jul 2025 09:10:38 GMT | Fawn Lab Solution: Exploring FTP Security Basics on Hack The Box’s Tier 0 Machine | Gopal Mohan | [Read More](https://medium.com/p/cef40db8f02c) |
+| Fri, 18 Jul 2025 09:01:25 GMT | Why Ethical Hacking Is the Career of the Future in India | Dineshathul | [Read More](https://medium.com/p/59b198a169a1) |
+| Fri, 18 Jul 2025 08:59:15 GMT | RESPONSE TO “THE END OF SPACE AND TIME: BIGGEST PHYSICS PROBLEM” | OmegaPhazon  Ask Questions I Like To Reply To Tuff | [Read More](https://medium.com/p/348c049fbd35) |
+| Fri, 18 Jul 2025 08:50:45 GMT | Meow Challenge: Your First Steps in Cybersecurity with Hack The Box’s Tier 0 Starting point Lab | Gopal Mohan | [Read More](https://medium.com/p/d2925ae6396a) |
+| Fri, 18 Jul 2025 08:49:56 GMT | RESPONSE: The World Warns of AI Dangers. We Already Walked Through the Fire. | OmegaPhazon  Ask Questions I Like To Reply To Tuff | [Read More](https://medium.com/p/94224149c977) |
+| Fri, 18 Jul 2025 08:48:31 GMT | Top Cybersecurity Companies in Abu Dhabi in 2026 | Bluechip Gulf Abu Dhabi | [Read More](https://medium.com/p/67150b91082e) |
+| Fri, 18 Jul 2025 08:44:55 GMT | Data Poisoning — The tsunami that  no one talks about | Ravi Pratap Singh Chauhan | [Read More](https://medium.com/p/9e6ca75eb783) |
+| Fri, 18 Jul 2025 08:44:34 GMT | Post Quantum Signatures with the Wolf | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/fa2d03e3a35c) |
+| Fri, 18 Jul 2025 08:38:11 GMT | Meta Bug Bounty: Unauthorized Access and Control Over Private Image IDs on meta ai | ali jaafer | [Read More](https://medium.com/p/96ccc1b78030) |
+| Fri, 18 Jul 2025 08:36:27 GMT | Hack The Box Walkthrough: A Beginner’s Guide to Pwning ‘Meow’ | Praharsha Kumar | [Read More](https://medium.com/p/f30c2824c1b9) |
+| Fri, 18 Jul 2025 08:33:34 GMT | “$ Unearthing Digital Ghosts: How Deleted GitHub Files Can Make Your Bug Bounty Fortune” | Aman Sharma | [Read More](https://medium.com/p/e3335a74a049) |
+| Fri, 18 Jul 2025 08:31:56 GMT | What You Need to Know About the WordPress Current Version | Bhavesh Rajpurohit | [Read More](https://medium.com/p/bf1809dcab25) |
+| Fri, 18 Jul 2025 08:30:28 GMT | TYPES OF HACKERS — NOT ALL ARE BAD | Anupam Singh | [Read More](https://medium.com/p/a76e9647f5c3) |
 | Fri, 18 Jul 2025 08:28:20 GMT | How ITProfiles Solves Real Problems in the B2B Industry (That Nobody Likes to Talk About) | Agatha Griffin | [Read More](https://medium.com/p/a8100f2837a1) |
 | Fri, 18 Jul 2025 08:25:18 GMT | My Smart Home Betrayed Me | Aj | [Read More](https://medium.com/p/3c15a9aa54a0) |
 | Fri, 18 Jul 2025 08:17:31 GMT | What is Perplexity Spaces? | Myra Jarenga | [Read More](https://medium.com/p/7816cf22696c) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 02:37:49 GMT | Everyday Security Series — 5 Security Basics for Non-Profits | Katy Vonk | [Read More](https://medium.com/p/f74b052f5341) |
 | Fri, 18 Jul 2025 02:29:55 GMT | Bug Layers… or Lies? | Alex Joyel Raj | [Read More](https://medium.com/p/a9a682cae319) |
 | Fri, 18 Jul 2025 02:16:03 GMT | AI and Cybersecurity: Preparing the Next Generation of Talent | Masood Mahmood | [Read More](https://medium.com/p/cb197f9877bc) |
-| Fri, 18 Jul 2025 02:12:14 GMT | OAuth 2.0 extensions for Zero Trust | Vinod Dampuru | [Read More](https://medium.com/p/f98e5a8f29d7) |
-| Fri, 18 Jul 2025 02:03:19 GMT | The One Thing Standing Between You and a Hacker | Haroon Shahid | [Read More](https://medium.com/p/646feaa4389d) |
-| Fri, 18 Jul 2025 01:35:17 GMT | Lo-Fi TryHackMe Walkthrough/Write-up | Vee Belgar | [Read More](https://medium.com/p/4a10377d41f0) |
-| Fri, 18 Jul 2025 01:19:08 GMT | Proof of Trustworthiness | Cory Wagaman-Eure | [Read More](https://medium.com/p/a89a27958f71) |
-| Fri, 18 Jul 2025 01:01:02 GMT | Mastering the Hunt: The Ultimate Guide to Modern Bug Bounty Hunting | Monika sharma | [Read More](https://medium.com/p/416357b08abb) |
-| Fri, 18 Jul 2025 01:00:38 GMT | My Virtual HomeLab: Active Directory — Part Five | Cybersec with Hemmars | [Read More](https://medium.com/p/a8b3953181af) |
-| Fri, 18 Jul 2025 00:53:22 GMT | 6 Ways Hackers Can Come After Your AWS Project! | Yajur | [Read More](https://medium.com/p/33fe9c5088d0) |
-| Fri, 18 Jul 2025 00:50:20 GMT | MCP and the Future of Contextual AI: Why It Matters More Than You Think | Sharon Duran | [Read More](https://medium.com/p/fbfe67c226b8) |
-| Fri, 18 Jul 2025 00:45:00 GMT | Drosera: Making Web3 Security Transparent and Community-Driven | mister00 | [Read More](https://medium.com/p/ee7b05f2b8c6) |
-| Fri, 18 Jul 2025 00:43:38 GMT | Cyberattacks Disrupting the Battlefield | Matthew.Rosenquist | [Read More](https://medium.com/p/05dfa8017866) |
-| Fri, 18 Jul 2025 00:37:25 GMT | Silent Spectrum: Is Ukraine Turning the Airwaves Into a Weapon? | Richard Miller | [Read More](https://medium.com/p/6db4318e07bd) |
-| Fri, 18 Jul 2025 00:35:09 GMT | SSRF via PDF Export in Analytics Dashboard | Monika sharma | [Read More](https://medium.com/p/54e304b438f9) |
-| Fri, 18 Jul 2025 00:34:49 GMT | $240 Bounty: Denial of Service Vulnerability in Python | Monika sharma | [Read More](https://medium.com/p/f42b24cfa066) |
-| Fri, 18 Jul 2025 00:22:01 GMT | Practical Implementation Approach #Understanding Azure TDE Security: My Learnings from a Technical… | Kasun Rathnayaka | [Read More](https://medium.com/p/4f1dd1f44f69) |
-| Fri, 18 Jul 2025 00:20:45 GMT | The 3 Cybersecurity Workflows That Changed How I Defend Networks | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/a7f40ad9090d) |
-| Fri, 18 Jul 2025 00:10:45 GMT | Secure Your Node.js Apps Like a Pro: The 2025 Edition | Aryan Garg | [Read More](https://medium.com/p/94c23145b4e8) |
