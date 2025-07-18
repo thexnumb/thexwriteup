@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 21:31:44 GMT | Day 54: Netcat | Nile Okomo | [Read More](https://medium.com/p/f13e5911bd13) |
+| Fri, 18 Jul 2025 21:26:09 GMT | 量子通訊不再遙遠：打造可落地於 Azure 的 QKD 安全模組藍圖 | Tiffany Chiang | [Read More](https://medium.com/p/4d411dfe30b1) |
+| Fri, 18 Jul 2025 21:24:01 GMT | Break into any Microsoft building: Leaking PII in Microsoft Guest Check-In | Faav | [Read More](https://medium.com/p/6f3dbd72d385) |
 | Fri, 18 Jul 2025 21:09:50 GMT | I Accidentally Exposed My API Keys. | HASSNAIN KING | [Read More](https://medium.com/p/b6ab1c9ac737) |
 | Fri, 18 Jul 2025 21:07:16 GMT | Day 54: SSH | Nile Okomo | [Read More](https://medium.com/p/a9297d8613bb) |
 | Fri, 18 Jul 2025 20:48:23 GMT | Let’s Defend: 14 — SOC104 — Malware Detected | EPereda | [Read More](https://medium.com/p/cb077c5f6ab8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 14:59:35 GMT | How I Hacked NASA and Defaced It | Shafayat Ahmed Alif | [Read More](https://medium.com/p/9f106e833cc1) |
 | Fri, 18 Jul 2025 14:56:30 GMT | Top 3 Ethical Hackers of Punjab: Skills & Achievements Compared | Bjpbaghapurana | [Read More](https://medium.com/p/fe1093e51c58) |
 | Fri, 18 Jul 2025 14:43:59 GMT | Bug Bounty 101: Step-by-Step Practical Approach to Recon and Discovery | Santhosh Adiga U | [Read More](https://medium.com/p/43a4f505e3d3) |
-| Fri, 18 Jul 2025 14:43:20 GMT | Are You Still Using RSA for Your Keys? | Maga Nuriyev | [Read More](https://medium.com/p/439e3a36eb86) |
-| Fri, 18 Jul 2025 14:40:40 GMT | CVE-2025–25257: FortiWeb’de Kimlik Doğrulama Öncesi SQL Injection Zafiyeti | H-ACK-ing | [Read More](https://medium.com/p/bce139a2813e) |
-| Fri, 18 Jul 2025 14:36:24 GMT | Securing AI Agents with Honeypots: Introducing Beelzebub MCP | Mario Candela | [Read More](https://medium.com/p/b062a935f451) |
