@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 21:09:50 GMT | I Accidentally Exposed My API Keys. | HASSNAIN KING | [Read More](https://medium.com/p/b6ab1c9ac737) |
+| Fri, 18 Jul 2025 21:07:16 GMT | Day 54: SSH | Nile Okomo | [Read More](https://medium.com/p/a9297d8613bb) |
+| Fri, 18 Jul 2025 20:48:23 GMT | Let’s Defend: 14 — SOC104 — Malware Detected | EPereda | [Read More](https://medium.com/p/cb077c5f6ab8) |
+| Fri, 18 Jul 2025 20:47:46 GMT | Building my Knowledgebase — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/24e87ecbba3a) |
+| Fri, 18 Jul 2025 20:47:00 GMT | Zone Transfer Vulnerability: The Forgotten Information Disclosure That Can Leak Entire DNS Records | Santhosh Adiga U | [Read More](https://medium.com/p/5f01dc5e034a) |
 | Fri, 18 Jul 2025 20:27:58 GMT | How AI Is Transforming Healthcare: From Diagnosis to Personalized Medicine | Payaam Raza | [Read More](https://medium.com/p/71a7afa5a212) |
 | Fri, 18 Jul 2025 20:27:07 GMT | Cybersecurity News Review — Week 29 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/a29a8520c50e) |
 | Fri, 18 Jul 2025 20:20:02 GMT | ⚔️ HackLab — A Bash-Powered Recon Toolkit Built for Beginners (and Built to Scale) | Mohammad Al Shahin | [Read More](https://medium.com/p/d60e69fb0b2d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 14:43:20 GMT | Are You Still Using RSA for Your Keys? | Maga Nuriyev | [Read More](https://medium.com/p/439e3a36eb86) |
 | Fri, 18 Jul 2025 14:40:40 GMT | CVE-2025–25257: FortiWeb’de Kimlik Doğrulama Öncesi SQL Injection Zafiyeti | H-ACK-ing | [Read More](https://medium.com/p/bce139a2813e) |
 | Fri, 18 Jul 2025 14:36:24 GMT | Securing AI Agents with Honeypots: Introducing Beelzebub MCP | Mario Candela | [Read More](https://medium.com/p/b062a935f451) |
-| Fri, 18 Jul 2025 14:28:38 GMT | TOR vs VPN — Which Protects Your Privacy Better? | Vijay Kumar Gupta | [Read More](https://medium.com/p/7b19a0f86a25) |
-| Fri, 18 Jul 2025 14:28:07 GMT | ChatGPT Trick Helped Me Start Earning in Less Than a Week | Clarity | [Read More](https://medium.com/p/e79299dd85e7) |
-| Fri, 18 Jul 2025 14:25:45 GMT | Top-Rated Security System Installers in Maryland — ICS Security Solutions | Katheryne | [Read More](https://medium.com/p/cd57f91a5db3) |
-| Fri, 18 Jul 2025 14:22:37 GMT | Binary Path Escalation (Windows Privilege Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/90d2c1a8482b) |
-| Fri, 18 Jul 2025 14:22:20 GMT | Advanced Multi Dorking - Neglected Endpoints | AbhirupKonwar | [Read More](https://medium.com/p/bd54b1210dec) |
