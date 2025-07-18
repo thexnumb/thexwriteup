@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 22:36:02 GMT | Why Modern WAFs Must Secure Both Web and API Traffic | Infosecjourney.tech | [Read More](https://medium.com/p/7dc47dfa0402) |
+| Fri, 18 Jul 2025 22:34:12 GMT | Cryptography and Blockchain Systems Expertise | Josue | [Read More](https://medium.com/p/37986dfe749f) |
+| Fri, 18 Jul 2025 22:32:09 GMT | Hacking My Brain: How Cybersecurity Changed the Way I Think.
+By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d536) |
+| Fri, 18 Jul 2025 22:27:03 GMT | My Virtual HomeLab: DMZ (DeMilitarized Zone) | Cybersec with Hemmars | [Read More](https://medium.com/p/68edb8e90679) |
+| Fri, 18 Jul 2025 22:26:48 GMT | Cloud Security Fundamentals: Understanding Shared Responsibility Model | Lucas Melo | [Read More](https://medium.com/p/5be03261590a) |
+| Fri, 18 Jul 2025 22:26:44 GMT | Hackers Are Hiding Malware in Plain Sight — On GitHub! | Cyber-AppSec | [Read More](https://medium.com/p/e8d2eaf357d0) |
+| Fri, 18 Jul 2025 22:24:53 GMT | Episode 4: The IT Problem, or How the Middle Finger Can Be Used as a Pointing Device | deckert | [Read More](https://medium.com/p/4749c183381b) |
+| Fri, 18 Jul 2025 22:24:48 GMT | Every Cybersecurity Beginner Falls for These 3 Mistakes (I Did Too) | Satyam Pathania | [Read More](https://medium.com/p/3c6f9278735a) |
+| Fri, 18 Jul 2025 22:22:53 GMT | Why Open Source License Handling Is a Security Issue — Not Just a Legal One | Infosecjourney.tech | [Read More](https://medium.com/p/526a5a8978cb) |
 | Fri, 18 Jul 2025 22:14:32 GMT | Balancing Cybersecurity and Usability in Everyday Tech | Channel Manager Staff | [Read More](https://medium.com/p/3641827e7a21) |
 | Fri, 18 Jul 2025 22:11:53 GMT | The Silence of the Aisles | Arohi Bhate | [Read More](https://medium.com/p/48d5cb194eb4) |
 | Fri, 18 Jul 2025 22:05:56 GMT | Harden and Monitor: FIM is the Missing Link in Container Security | Infosecjourney.tech | [Read More](https://medium.com/p/a01d2f087bef) |
@@ -103,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 15:53:13 GMT | How I Started My Cybersecurity Journey — And Why I’m Excited for the Road Ahead | Relja Pejić | [Read More](https://medium.com/p/ae10f722ca0e) |
 | Fri, 18 Jul 2025 15:51:41 GMT | Introducing WaveRecon: Your Ultimate Web Reconnaissance and Vulnerability Scanning Tool | Ronit Paikray | [Read More](https://medium.com/p/a2f6875afddf) |
 | Fri, 18 Jul 2025 15:50:03 GMT | REST API File Upload Secrets That Many Developers Ignore! | Code Crack | [Read More](https://medium.com/p/19052302b07a) |
-| Fri, 18 Jul 2025 15:46:22 GMT | Why IoT Penetration Testing Is No Longer Optional in 2025 | DefenceRabbit | [Read More](https://medium.com/p/e8e94794fe7e) |
-| Fri, 18 Jul 2025 15:45:47 GMT | The 5 Most Common Penetration Testing Methodologies | Barukh Aswad | [Read More](https://medium.com/p/6dbea047a50b) |
-| Fri, 18 Jul 2025 15:44:50 GMT | Strengthening DNS Security with Pi-hole & Wazuh: A Complete Guide | Yash Patel | [Read More](https://medium.com/p/e6b1f51f2a3c) |
-| Fri, 18 Jul 2025 15:42:28 GMT | How AI Is Enhancing Endpoint Threat Detection and Response | Cloud4C Services | [Read More](https://medium.com/p/f3d2d0159445) |
-| Fri, 18 Jul 2025 15:30:17 GMT | ️ API Armor: Security Best Practices for Web APIs That Actually Work | Priyanshu Rajput | [Read More](https://medium.com/p/ba9c54c53d0a) |
-| Fri, 18 Jul 2025 15:29:15 GMT | Hacking APIs: Attacking REST APIs Through Serialization Format Manipulation | Israel Aráoz Severiche | [Read More](https://medium.com/p/b27fa8db4e8b) |
-| Fri, 18 Jul 2025 15:28:46 GMT | Does the Traditional Cybersecurity Matrices Still Hold Good in the Age of GenAI? | Ajay Kumar | [Read More](https://medium.com/p/85204dd2d36a) |
-| Fri, 18 Jul 2025 15:28:27 GMT | Behind the Scenes of the Internet: DNS Used as a Malware Weapon | Haroon Shahid | [Read More](https://medium.com/p/fa5bac93d1e2) |
-| Fri, 18 Jul 2025 15:28:25 GMT | Bypassing 2FA via Missing Email Verification | Monika sharma | [Read More](https://medium.com/p/36a5cadea3c5) |
