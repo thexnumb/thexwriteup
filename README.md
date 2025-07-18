@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 06:24:25 GMT | Secure Your Property: Video Analytics for Fire and Smoke Detection in the KUWAIT | expbhavya | [Read More](https://medium.com/p/a413b33b05b8) |
+| Fri, 18 Jul 2025 06:14:46 GMT | Don’t Let Lag Win: 6 VPN Tips Every Gamer Should Know | Cloudbric VPN | [Read More](https://medium.com/p/f47aba0b9694) |
+| Fri, 18 Jul 2025 06:12:47 GMT | Top Dark Web Forums With .onion Links to Explore in 2025 | adityaax | [Read More](https://medium.com/p/9ad4daab27f3) |
+| Fri, 18 Jul 2025 06:10:07 GMT | What Every QA Should Know About Epics, User Stories, and Tasks | Nirmal Kiran Patel | [Read More](https://medium.com/p/7d068b6b959a) |
+| Fri, 18 Jul 2025 06:10:06 GMT | XBOW AI Hacker — Game-Changer or Just Good Marketing? | Akash Lahare | [Read More](https://medium.com/p/7bfc2992b299) |
+| Fri, 18 Jul 2025 06:05:43 GMT | The ROI of Threat Modeling | BJ Edward Taduran | [Read More](https://medium.com/p/05ba3839b7cc) |
+| Fri, 18 Jul 2025 06:04:53 GMT | For Security Reasons, I Switched to CryptoXpress from MetaMask. | Ufanabasi Ekong | [Read More](https://medium.com/p/5c4c86a380d8) |
+| Fri, 18 Jul 2025 06:02:09 GMT | How I Built a Fully Functional SOC Lab with Wazuh | Sohan Kanna D | [Read More](https://medium.com/p/0f5a169f7218) |
+| Fri, 18 Jul 2025 06:01:18 GMT | Where is Strategic Information System in multinational organization? | Bilal Kobanoğlu, PhD | [Read More](https://medium.com/p/bb10369908e9) |
+| Fri, 18 Jul 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Jul 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/301b282e987a) |
+| Fri, 18 Jul 2025 06:00:06 GMT | Write What Disturbs You | Amrah Ijaz | [Read More](https://medium.com/p/4388602399fb) |
+| Fri, 18 Jul 2025 05:58:51 GMT | Active Reconnaissance on TryHackMe | LB Cyber Journal | [Read More](https://medium.com/p/d52eae2e490c) |
+| Fri, 18 Jul 2025 05:58:35 GMT | ️‍♂️ Passive Reconnaissance Using Google: A Beginner’s Guide to Ethical OSINT | CYber VIaz | [Read More](https://medium.com/p/37d8a834eb5f) |
+| Fri, 18 Jul 2025 05:58:21 GMT | Linux Networking -Part 3: Firewalld & UFW Best Guide — How to Allow/Block Efficiently | Karthick Dkk | [Read More](https://medium.com/p/1512935d4d05) |
+| Fri, 18 Jul 2025 05:58:12 GMT | Best Security Guards Service Provider in Gurugram - Manpowersecurityservice | Dhruv | [Read More](https://medium.com/p/22f89e5037bc) |
 | Fri, 18 Jul 2025 05:34:58 GMT | Certified Red Team Professional (CRTP) | Ramazan | [Read More](https://medium.com/p/c833cb350f1d) |
 | Fri, 18 Jul 2025 05:33:21 GMT | When AI Negotiates the Ransom: The Rise of Smarter, Scarier Ransomware | Paritosh | [Read More](https://medium.com/p/4377c7e6a181) |
 | Fri, 18 Jul 2025 05:32:52 GMT | Escalating Privileges with SUID-Enabled find: A Practical Example | Kiptryin | [Read More](https://medium.com/p/579f0bc617da) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 20:23:47 GMT | When She Came Back, I Didn’t: A Story of Closure, Power, and Self-Respect | Ibrahim Irfan | [Read More](https://medium.com/p/0eb84b2560ab) |
 | Thu, 17 Jul 2025 20:10:15 GMT | Redeeming the Pain Game: My Scars, His Story (Part 3) | Jessica Z. Nowachek | [Read More](https://medium.com/p/9598dea5f2ca) |
 | Thu, 17 Jul 2025 20:09:44 GMT | Critical Security Flaw: Exposed .git Directory | Tembzz | [Read More](https://medium.com/p/41d82dc1141c) |
-| Thu, 17 Jul 2025 20:09:26 GMT | Introduction | ValidByAccident | [Read More](https://medium.com/p/dd73e4ae2897) |
-| Thu, 17 Jul 2025 20:07:01 GMT | Prediction Markets: From Gambling to Humanity’s Decision Engine | Benedict W H Dixon | [Read More](https://medium.com/p/7f698b14e096) |
-| Thu, 17 Jul 2025 20:06:01 GMT | Der ultimative DORA-Compliance-Leitfaden: Ihr strategischer Fahrplan für regulatorische Exzellenz | Philip Hansen | [Read More](https://medium.com/p/aa01fc509db5) |
-| Thu, 17 Jul 2025 20:05:39 GMT | DORA Timeline und Fristen: Der ultimative Compliance-Leitfaden für Führungskräfte | Philip Hansen | [Read More](https://medium.com/p/69a9964c46c8) |
-| Thu, 17 Jul 2025 20:04:53 GMT | Predictive Threat Detection | Presslink Media | [Read More](https://medium.com/p/1f6ecbd869a0) |
-| Thu, 17 Jul 2025 20:04:41 GMT | BlackHatIndian.com Cybersecurity Blog | blackhatindian | [Read More](https://medium.com/p/126cd6f1b43a) |
-| Thu, 17 Jul 2025 20:04:05 GMT | Meet XBOW: The AI Hacker That Never Sleeps | VMSOIT | [Read More](https://medium.com/p/3131aacec12f) |
-| Thu, 17 Jul 2025 19:57:55 GMT | About Me | Joseph Igah | [Read More](https://medium.com/p/f998cb7d63b1) |
-| Thu, 17 Jul 2025 19:54:56 GMT | Staff Spotlight: Akhilash Pennam | The Assistance Fund (TAF) | [Read More](https://medium.com/p/0a0a7ca3e063) |
-| Thu, 17 Jul 2025 19:45:54 GMT | Breaking SMTP: Real-World Enumeration Using Nmap, Telnet & Metasploit | Nazia Mobeen | [Read More](https://medium.com/p/1574633f4f52) |
-| Thu, 17 Jul 2025 19:44:41 GMT | Huellas Dactilares | Josué Acevedo Maldonado | [Read More](https://medium.com/p/d0f691362dfd) |
-| Thu, 17 Jul 2025 19:34:04 GMT | I don’t cry like Victoria | TheStateOfKH | [Read More](https://medium.com/p/e57580da7dab) |
-| Thu, 17 Jul 2025 19:30:50 GMT | From Curiosity to Capability: My First Dive into Nessus Expert for Vulnerability Assessment | Nazia Mobeen | [Read More](https://medium.com/p/6cda2dce6365) |
-| Thu, 17 Jul 2025 19:30:37 GMT | Not Quite the Butterfly | chenmeiiyu | [Read More](https://medium.com/p/eee285ade0bc) |
-| Thu, 17 Jul 2025 19:27:48 GMT | Easily retrieve CloudWatch Logs from the CLI-Walkthrough | marianita_cloud | [Read More](https://medium.com/p/8aa6843a6b00) |
