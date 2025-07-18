@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 20:27:58 GMT | How AI Is Transforming Healthcare: From Diagnosis to Personalized Medicine | Payaam Raza | [Read More](https://medium.com/p/71a7afa5a212) |
+| Fri, 18 Jul 2025 20:27:07 GMT | Cybersecurity News Review — Week 29 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/a29a8520c50e) |
 | Fri, 18 Jul 2025 20:20:02 GMT | ⚔️ HackLab — A Bash-Powered Recon Toolkit Built for Beginners (and Built to Scale) | Mohammad Al Shahin | [Read More](https://medium.com/p/d60e69fb0b2d) |
 | Fri, 18 Jul 2025 20:13:08 GMT | Corrosion1 CTF (VulnHub) — Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/2a8f47179f4c) |
 | Fri, 18 Jul 2025 20:10:45 GMT | You’re Not Safe Online. Not Nearly As Safe As You Think | Lynne Calvert | [Read More](https://medium.com/p/cb650430a840) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 14:25:45 GMT | Top-Rated Security System Installers in Maryland — ICS Security Solutions | Katheryne | [Read More](https://medium.com/p/cd57f91a5db3) |
 | Fri, 18 Jul 2025 14:22:37 GMT | Binary Path Escalation (Windows Privilege Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/90d2c1a8482b) |
 | Fri, 18 Jul 2025 14:22:20 GMT | Advanced Multi Dorking - Neglected Endpoints | AbhirupKonwar | [Read More](https://medium.com/p/bd54b1210dec) |
-| Fri, 18 Jul 2025 14:18:50 GMT | TryHackMe: Net Sec Challenge — Practical Network Security Walkthrough | Xtrud3r | [Read More](https://medium.com/p/21fff1aceba8) |
-| Fri, 18 Jul 2025 14:18:03 GMT | 3-Second Social Media Hack That Protects Your Kids | Aj | [Read More](https://medium.com/p/e37be8dc8f71) |
