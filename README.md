@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 10:41:22 GMT | From Penetration Tester to Trusted Partner: Why Technical Skills Alone Won’t Get You Hired | Ehtisham Fakhar | [Read More](https://medium.com/p/1522cb4ff297) |
+| Fri, 18 Jul 2025 10:33:02 GMT | How to Protect Apps and APIs from Zero-Day Attacks? | Maverick Steel | [Read More](https://medium.com/p/c2754882b590) |
+| Fri, 18 Jul 2025 10:31:03 GMT | The 7 Ghosts of Cybersecurity-Part 2: Confronting the Final Three Digital Monsters | Xperts Unimited | [Read More](https://medium.com/p/5cf3c181b799) |
+| Fri, 18 Jul 2025 10:30:43 GMT | Hackers Are Using Phony CAPTCHAs to Install Malware — How to Spot the Fakes Before You Click | Karl Buhl | [Read More](https://medium.com/p/9465c769ad8e) |
+| Fri, 18 Jul 2025 10:29:01 GMT | Navi Loan customer care helpline number 7993289710 | Bible khan | [Read More](https://medium.com/p/15a67a34dd3c) |
+| Fri, 18 Jul 2025 10:27:36 GMT | Why Not Pick McEliece for PQC Encryption? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/0a9c24af23a0) |
+| Fri, 18 Jul 2025 10:24:13 GMT | “Ethical Hacking: How to Become a Cyber Warrior After 12th?” | Aerikverma | [Read More](https://medium.com/p/04cfe72e5377) |
+| Fri, 18 Jul 2025 10:22:38 GMT | Şirket Ağı mı Karışık? phpIPAM ile IP Envanterini Düzene Sokun | Serdarumuturan | [Read More](https://medium.com/p/0952d3d52637) |
+| Fri, 18 Jul 2025 10:22:12 GMT | The 7 Ghosts of Cybersecurity-Part 1: Confronting the First Four Digital Monsters | Xperts Unimited | [Read More](https://medium.com/p/7423796bdc4d) |
 | Fri, 18 Jul 2025 10:21:50 GMT | The Insider Threat: When Cybersecurity Risks Come from Within | Richard Dosumu | [Read More](https://medium.com/p/4253aceba900) |
 | Fri, 18 Jul 2025 10:14:00 GMT | Hack The Box Journey — Day 2: Learning by Doing (Not Just Watching) | Manju Varma M | [Read More](https://medium.com/p/48ed980792ae) |
 | Fri, 18 Jul 2025 10:10:33 GMT | My first shot with Bugbounty Radar and I hit a vuln — bounty coming soon? | liu sdgs | [Read More](https://medium.com/p/93a9cfa91727) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 05:32:52 GMT | Escalating Privileges with SUID-Enabled find: A Practical Example | Kiptryin | [Read More](https://medium.com/p/579f0bc617da) |
 | Fri, 18 Jul 2025 05:31:48 GMT | Zero Keys. Zero Leaks — DevSecOps Powered Pipeline | AnythingOps | [Read More](https://medium.com/p/7adf1548d060) |
 | Fri, 18 Jul 2025 05:26:22 GMT | Difference Between IT Security and Cybersecurity: Explained Simply | Dhanashri Bhale | [Read More](https://medium.com/p/36b3d226c113) |
-| Fri, 18 Jul 2025 05:08:16 GMT | Why Ashburn’s Leading Cyber Security Developers Are Essential for Modern Businesses? | Webtrills | [Read More](https://medium.com/p/980c67f12277) |
-| Fri, 18 Jul 2025 05:03:22 GMT | $2,000 -critical Samsung Bug Bounty: Bypassing Plan Restrictions via Business Logic Flaw | KILLUA_UCHIHA | [Read More](https://medium.com/p/e18eace8a6cf) |
-| Fri, 18 Jul 2025 05:03:05 GMT | The ‘No Join Button’ Economy: How Kaito Rewards True Influence and WTF is InfoFi | Tony Leung | [Read More](https://medium.com/p/ea2a4233ffe9) |
-| Fri, 18 Jul 2025 05:03:04 GMT | The Silent War Beneath the Waves | Oliver Meiklejohn | [Read More](https://medium.com/p/d230990c0aec) |
-| Fri, 18 Jul 2025 05:03:02 GMT | Why SMEs are the new Prime Targets for Cybercrime | 0xMetaLabs | [Read More](https://medium.com/p/87973238d51c) |
-| Fri, 18 Jul 2025 04:57:22 GMT | Secure Your Django Application with SafeLine WAF: A Step-by-Step Guide | Mehedi Khan | [Read More](https://medium.com/p/b631103c6d9c) |
-| Fri, 18 Jul 2025 04:36:48 GMT | PortSwigger Lab: Web shell upload via path traversal writeup (File Upload Vulnerabilities) | awes0meness | [Read More](https://medium.com/p/3b027483ca2c) |
-| Fri, 18 Jul 2025 04:36:33 GMT | PortSwigger Lab: Web shell upload via Content-Type restriction bypass writeup (File Upload… | awes0meness | [Read More](https://medium.com/p/1840bb6394a5) |
-| Fri, 18 Jul 2025 04:35:22 GMT | How Security Command Center in Google Cloud Exposed Hidden Backdoor in My Project | Dolly Aswin Harahap | [Read More](https://medium.com/p/744deeb9551b) |
