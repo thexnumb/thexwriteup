@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 07:39:12 GMT | Elastic Heart: How a Misconfigured Kibana Dashboard Sang Like a Canary | Iski | [Read More](https://medium.com/p/b719c7377964) |
+| Fri, 18 Jul 2025 07:32:16 GMT | My Relentless Fight Against the Silent Threat of Ocean Acidification | Leo Daniel | [Read More](https://medium.com/p/8297bb632a6a) |
+| Fri, 18 Jul 2025 07:28:24 GMT | Using leaked data to examine vulnerabilities in SMS routing and SS7 signalling | Lighthouse Reports | [Read More](https://medium.com/p/8e30298491d9) |
+| Fri, 18 Jul 2025 07:28:11 GMT | Cybercrime: All the Stats, Facts, and Data You’ll Ever Need to Know | Chitchat with Amreen | [Read More](https://medium.com/p/d906e21b2d91) |
+| Fri, 18 Jul 2025 07:26:04 GMT | Prompt-Driven Vulnerability Chains: How to Build Multi-Step Exploits from Low-Severity Bugs with AI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7f79a701535b) |
+| Fri, 18 Jul 2025 07:25:17 GMT | Prompt Injection to Bounty: Part 2 — Chaining with SSRF, BOLA & RCE | Narendar Battula (nArEn) | [Read More](https://medium.com/p/35c1285136c4) |
 | Fri, 18 Jul 2025 07:13:21 GMT | How do hybrid SOC services improve security? | Ziya Zoe | [Read More](https://medium.com/p/53b0fb31ca81) |
 | Fri, 18 Jul 2025 07:09:49 GMT | Scam Baiting a Fake Job Application Fraudster | Mike Manrod | [Read More](https://medium.com/p/73f537e590ae) |
 | Fri, 18 Jul 2025 07:08:35 GMT | Top Web Application Penetration Testing Courses Online [2025 Guide] | cyber security Updates | [Read More](https://medium.com/p/d125bd17ba12) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 22:25:26 GMT | You vs. AI-Powered Hackers: 4 Real Breaches That Prove No One’s Safe | Cyber-AppSec | [Read More](https://medium.com/p/2c1e28af6601) |
 | Thu, 17 Jul 2025 22:23:58 GMT | I Booked a Hotel on Booking.com — Then Came the Phishing Attack | Pascal Asch | [Read More](https://medium.com/p/072f4e2109e3) |
 | Thu, 17 Jul 2025 22:19:10 GMT | The Linux Security Journey — OpenSSH | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/eeb7d168f8e5) |
-| Thu, 17 Jul 2025 22:10:46 GMT | Everyday CyberSecurity Assessment and Defenses: Personal, Business & Government | George J. Assad | [Read More](https://medium.com/p/a5c62789cc54) |
-| Thu, 17 Jul 2025 21:47:42 GMT | CoPilot Update: Manage Wazuh Detection Rules Seamlessly From the UI | SOCFortress | [Read More](https://medium.com/p/07ebe3e4fd6f) |
-| Thu, 17 Jul 2025 21:42:09 GMT | I Keep Imagining Scenarios That Will Never Happen | s. blurred | [Read More](https://medium.com/p/7080c01df3f5) |
-| Thu, 17 Jul 2025 21:41:09 GMT | How To Get $CVE Rewards | Curvance | [Read More](https://medium.com/p/b2213298f92d) |
-| Thu, 17 Jul 2025 21:28:18 GMT | PortSwigger Lab — 2FA Simple Bypass | 0xM4ZiX | [Read More](https://medium.com/p/e05a7c2e2b3c) |
-| Thu, 17 Jul 2025 21:25:22 GMT | Bug Bounty Journey — Valid Report Part 8 | 0xF3r4t | [Read More](https://medium.com/p/0edfa67082b2) |
