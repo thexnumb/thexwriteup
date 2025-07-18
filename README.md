@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 23:05:13 GMT | The Human Hack: How Social Engineering Outsmarts Technology | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/a28629cffda5) |
+| Fri, 18 Jul 2025 22:59:29 GMT | 12-Word Passphrases vs AI Superintelligence | Eye Of Unity | [Read More](https://medium.com/p/529141fb0dae) |
+| Fri, 18 Jul 2025 22:55:10 GMT | The Bait You Didn’t See Coming: Understanding Phishing in Cybersecurity | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/623c842e81a5) |
+| Fri, 18 Jul 2025 22:52:29 GMT | Even FIDO Hardware Keys Can Be Phished | SecurityPulse News | [Read More](https://medium.com/p/5ba60c51e535) |
+| Fri, 18 Jul 2025 22:40:01 GMT | The Evolving Role of WAFs: On-Premises vs. Cloud-Based Deployment | Infosecjourney.tech | [Read More](https://medium.com/p/0a267deb8ffc) |
 | Fri, 18 Jul 2025 22:36:02 GMT | Why Modern WAFs Must Secure Both Web and API Traffic | Infosecjourney.tech | [Read More](https://medium.com/p/7dc47dfa0402) |
 | Fri, 18 Jul 2025 22:34:12 GMT | Cryptography and Blockchain Systems Expertise | Josue | [Read More](https://medium.com/p/37986dfe749f) |
 | Fri, 18 Jul 2025 22:32:09 GMT | Hacking My Brain: How Cybersecurity Changed the Way I Think.
@@ -108,8 +113,3 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 16:11:26 GMT | How Music Found Me, Healed Me, and Revealed the Hidden Echoes of My Soul | Leo Daniel | [Read More](https://medium.com/p/621543a6cb6a) |
 | Fri, 18 Jul 2025 16:05:13 GMT | https://medium.com/@snehaverma8095/information-technology-856d0e8de56b | Snehaverma | [Read More](https://medium.com/p/e8a3a1a6c8c5) |
 | Fri, 18 Jul 2025 16:01:03 GMT | Images of Rehu Talwar — The Face Behind CyberGlikNet | Bjpbaghapurana | [Read More](https://medium.com/p/b0d7d966a995) |
-| Fri, 18 Jul 2025 15:57:20 GMT | Why 2025 Might Be the Worst Year for Cyberattacks Yet (And How to Not Be the Next Headline | Paradise technologies Inc | [Read More](https://medium.com/p/afb036609370) |
-| Fri, 18 Jul 2025 15:55:36 GMT | Your AI Therapy Session Might Be Plot of Your Neighbor’s New Reality T.V Show | Aditi Polamuri | [Read More](https://medium.com/p/b38a63a236d6) |
-| Fri, 18 Jul 2025 15:53:13 GMT | How I Started My Cybersecurity Journey — And Why I’m Excited for the Road Ahead | Relja Pejić | [Read More](https://medium.com/p/ae10f722ca0e) |
-| Fri, 18 Jul 2025 15:51:41 GMT | Introducing WaveRecon: Your Ultimate Web Reconnaissance and Vulnerability Scanning Tool | Ronit Paikray | [Read More](https://medium.com/p/a2f6875afddf) |
-| Fri, 18 Jul 2025 15:50:03 GMT | REST API File Upload Secrets That Many Developers Ignore! | Code Crack | [Read More](https://medium.com/p/19052302b07a) |
