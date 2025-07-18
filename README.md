@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 20:20:02 GMT | ⚔️ HackLab — A Bash-Powered Recon Toolkit Built for Beginners (and Built to Scale) | Mohammad Al Shahin | [Read More](https://medium.com/p/d60e69fb0b2d) |
+| Fri, 18 Jul 2025 20:13:08 GMT | Corrosion1 CTF (VulnHub) — Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/2a8f47179f4c) |
+| Fri, 18 Jul 2025 20:10:45 GMT | You’re Not Safe Online. Not Nearly As Safe As You Think | Lynne Calvert | [Read More](https://medium.com/p/cb650430a840) |
+| Fri, 18 Jul 2025 20:08:23 GMT | شرح أداة جوجل تريند: دليلك النهائي لغزو الترندات في 2025 | katibatech | [Read More](https://medium.com/p/4f90640632a0) |
+| Fri, 18 Jul 2025 19:34:24 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #3 Solution | Aviv Yaniv | [Read More](https://medium.com/p/4d9231c6ee25) |
+| Fri, 18 Jul 2025 19:34:07 GMT | I Built an AI-Powered Network Vulnerability Scanner Using Python, Nmap, CVE & a Local LLM | Rajkumar Kumawat | [Read More](https://medium.com/p/211f261f8625) |
+| Fri, 18 Jul 2025 19:33:20 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #2 Solution | Aviv Yaniv | [Read More](https://medium.com/p/56cc41ecf65d) |
 | Fri, 18 Jul 2025 19:32:13 GMT | The Curse of Being the Strong One | Shivi Chaurasia | [Read More](https://medium.com/p/5d8ee38994f2) |
+| Fri, 18 Jul 2025 19:31:10 GMT | Python + FastAPI for Security Engineers: Lightweight, Fast, and Flexible | Nikulsinh Rajput | [Read More](https://medium.com/p/94b358065ab1) |
 | Fri, 18 Jul 2025 19:30:58 GMT | I Accidentally Pushed My API Key to GitHub — and Found Out Why That’s a Big Deal | Alex Frankowski | [Read More](https://medium.com/p/d53b5131d78e) |
+| Fri, 18 Jul 2025 19:29:49 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #1 Solution | Aviv Yaniv | [Read More](https://medium.com/p/ffe996723863) |
 | Fri, 18 Jul 2025 19:28:43 GMT | Diary Entry #14 | Preiksha Jain | [Read More](https://medium.com/p/20cb92321bb8) |
 | Fri, 18 Jul 2025 19:27:55 GMT | Agentic AI: The “New” SOA and Why Your Security Strategy Needs a Reboot | Michael Figueroa | [Read More](https://medium.com/p/4522c278d413) |
 | Fri, 18 Jul 2025 19:22:15 GMT | Accepted. As is. Without Filter. | Julie A | [Read More](https://medium.com/p/ad03080a4538) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 14:22:20 GMT | Advanced Multi Dorking - Neglected Endpoints | AbhirupKonwar | [Read More](https://medium.com/p/bd54b1210dec) |
 | Fri, 18 Jul 2025 14:18:50 GMT | TryHackMe: Net Sec Challenge — Practical Network Security Walkthrough | Xtrud3r | [Read More](https://medium.com/p/21fff1aceba8) |
 | Fri, 18 Jul 2025 14:18:03 GMT | 3-Second Social Media Hack That Protects Your Kids | Aj | [Read More](https://medium.com/p/e37be8dc8f71) |
-| Fri, 18 Jul 2025 14:17:24 GMT | What The New Superman Movie Showed Me About the Age of Outrage | Ryan Without Armor | [Read More](https://medium.com/p/3e1f4081dd28) |
-| Fri, 18 Jul 2025 14:13:11 GMT | I was just another student until I found this... | Newton Tech Navigator | [Read More](https://medium.com/p/1619c818e1de) |
-| Fri, 18 Jul 2025 14:09:18 GMT | RootMe: ELF_x86_Basic | Rahaliashraf | [Read More](https://medium.com/p/3dd3f63bdeb6) |
-| Fri, 18 Jul 2025 14:02:24 GMT | Cyber Briefing: 2025.07.18 | CyberMaterial | [Read More](https://medium.com/p/e5a87ad245ca) |
-| Fri, 18 Jul 2025 14:02:22 GMT | Securing Snowflake API Request: Building a Custom OAuth Client with FastAPI | Fabian Hernandez | [Read More](https://medium.com/p/a2dd453c9ca0) |
-| Fri, 18 Jul 2025 13:51:00 GMT | What Is Malware? And Why “Free Downloads” Might Be Dangerous. | Thomas Angela | [Read More](https://medium.com/p/f97ad7ed0a32) |
-| Fri, 18 Jul 2025 13:43:48 GMT | ️Breaking a PHP App with Nothing But Cookies and XML | Jabaribrown | [Read More](https://medium.com/p/4c519c046533) |
-| Fri, 18 Jul 2025 13:39:57 GMT | In today’s digital economy, UPI has revolutionized how we think about instant payments. | bepay | [Read More](https://medium.com/p/552650561326) |
-| Fri, 18 Jul 2025 13:37:26 GMT | Anonforce - TryHackMe CTF Çözümü | Berat Çam | [Read More](https://medium.com/p/30ff09f69488) |
