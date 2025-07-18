@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 16:40:31 GMT | If This Were a Security Alert, I’d Flag It: What a Job Post Taught Me About LinkedIn UX | Gitika Babbar | [Read More](https://medium.com/p/548808fb1ae4) |
+| Fri, 18 Jul 2025 16:40:19 GMT | TryHackMe W1seGuy — Solved with Only CyberChef (No Scripts!) | Soumyashree Sahoo | [Read More](https://medium.com/p/51f636e3b178) |
+| Fri, 18 Jul 2025 16:30:21 GMT | Stay Ahead in Cybersecurity: Discover the Power of the CVE Search Tool by Security Toolkit | Haxshadow | [Read More](https://medium.com/p/ce626c0dc483) |
+| Fri, 18 Jul 2025 16:28:32 GMT | DNS Attacks Explained: How They Work and How to Defend Against Them | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/422250077ed4) |
+| Fri, 18 Jul 2025 16:27:46 GMT | OverTheWire: Bandit Level 0 | Wizard-Of-Oz | [Read More](https://medium.com/p/d7054a8d983e) |
 | Fri, 18 Jul 2025 16:22:20 GMT | ️ Build the Ultimate Bug Bounty & Recon Machine on Fresh Kali Linux (2025) | Rudra Potghan | [Read More](https://medium.com/p/12c33fdf48bd) |
+| Fri, 18 Jul 2025 16:19:52 GMT | Phobos & 8-Base Decrypter | c0mpl3x | [Read More](https://medium.com/p/15df74a4c2f6) |
 | Fri, 18 Jul 2025 16:12:02 GMT | I like the night | Nimas Muslimah | [Read More](https://medium.com/p/3dd656605812) |
 | Fri, 18 Jul 2025 16:11:26 GMT | How Music Found Me, Healed Me, and Revealed the Hidden Echoes of My Soul | Leo Daniel | [Read More](https://medium.com/p/621543a6cb6a) |
 | Fri, 18 Jul 2025 16:05:13 GMT | https://medium.com/@snehaverma8095/information-technology-856d0e8de56b | Snehaverma | [Read More](https://medium.com/p/e8a3a1a6c8c5) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 11:26:57 GMT | Certified but Stuck: The Silent Struggle of Entry-Level Pentesters | Regan Temudo | [Read More](https://medium.com/p/290e37b76c20) |
 | Fri, 18 Jul 2025 11:25:51 GMT | RooteMe: ELF x86–0 protection | Rahaliashraf | [Read More](https://medium.com/p/705e06d37ef6) |
 | Fri, 18 Jul 2025 11:12:54 GMT | Why Using The Phone Password to Unlock WhatsApp Maybe Unsafe | Nwaeze Joshua Nonso | [Read More](https://medium.com/p/1c632cebbebf) |
-| Fri, 18 Jul 2025 11:12:44 GMT | Russian Nesting Dolls | Christine Kelly | [Read More](https://medium.com/p/e5d26f93d0c5) |
-| Fri, 18 Jul 2025 11:07:15 GMT | Initvalue: Empowering Businesses with Cutting-Edge AI Solutions in Bangalore | Mohammed Zishan | [Read More](https://medium.com/p/18f3ebcdadf6) |
-| Fri, 18 Jul 2025 11:06:56 GMT | Hackers Could Remotely Stop Trains Using Cheap Gear, Experts Warn | SafetyDetectives Research Team | [Read More](https://medium.com/p/0b71870dc467) |
-| Fri, 18 Jul 2025 11:06:50 GMT | Essential Guide to Strengthening Your WordPress Admin Security | Themeglance | [Read More](https://medium.com/p/78e2457cb0e1) |
-| Fri, 18 Jul 2025 11:04:37 GMT | In an era marked by rising crime rates, increasing urbanization, and heightened awareness around… | Ciss India | [Read More](https://medium.com/p/7ffb5e51e6d5) |
-| Fri, 18 Jul 2025 11:03:19 GMT | Louis Vuitton Confirms UK Customer Data Breach in Third LVMH Attack This Year | SafetyDetectives Research Team | [Read More](https://medium.com/p/d0286f297745) |
