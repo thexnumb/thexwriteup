@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 15:30:17 GMT | ️ API Armor: Security Best Practices for Web APIs That Actually Work | Priyanshu Rajput | [Read More](https://medium.com/p/ba9c54c53d0a) |
+| Fri, 18 Jul 2025 15:29:15 GMT | Hacking APIs: Attacking REST APIs Through Serialization Format Manipulation | Israel Aráoz Severiche | [Read More](https://medium.com/p/b27fa8db4e8b) |
+| Fri, 18 Jul 2025 15:28:46 GMT | Does the Traditional Cybersecurity Matrices Still Hold Good in the Age of GenAI? | Ajay Kumar | [Read More](https://medium.com/p/85204dd2d36a) |
+| Fri, 18 Jul 2025 15:28:27 GMT | Behind the Scenes of the Internet: DNS Used as a Malware Weapon | Haroon Shahid | [Read More](https://medium.com/p/fa5bac93d1e2) |
+| Fri, 18 Jul 2025 15:28:25 GMT | Bypassing 2FA via Missing Email Verification | Monika sharma | [Read More](https://medium.com/p/36a5cadea3c5) |
+| Fri, 18 Jul 2025 15:27:45 GMT | Why My Brain Thinks Every Email is a Threat | Maham Tanveer | [Read More](https://medium.com/p/a14e81928c0e) |
 | Fri, 18 Jul 2025 15:11:41 GMT | Race Condition in macOS LaunchDaemons Opens Door to Root Privileges | gm0 | [Read More](https://medium.com/p/72569e4347c7) |
 | Fri, 18 Jul 2025 15:08:57 GMT | Masuk Hall of Fame NASA Hanya dalam 5 Menit [Pengalaman Pribadi] | Ilhambachtiar | [Read More](https://medium.com/p/3235f7eec2e2) |
 | Fri, 18 Jul 2025 15:07:36 GMT | How Can I Recover My Money From XP Traders? | Joshua | [Read More](https://medium.com/p/29321079c9ce) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 10:22:38 GMT | Şirket Ağı mı Karışık? phpIPAM ile IP Envanterini Düzene Sokun | Serdarumuturan | [Read More](https://medium.com/p/0952d3d52637) |
 | Fri, 18 Jul 2025 10:22:12 GMT | The 7 Ghosts of Cybersecurity-Part 1: Confronting the First Four Digital Monsters | Xperts Unimited | [Read More](https://medium.com/p/7423796bdc4d) |
 | Fri, 18 Jul 2025 10:21:50 GMT | The Insider Threat: When Cybersecurity Risks Come from Within | Richard Dosumu | [Read More](https://medium.com/p/4253aceba900) |
-| Fri, 18 Jul 2025 10:14:00 GMT | Hack The Box Journey — Day 2: Learning by Doing (Not Just Watching) | Manju Varma M | [Read More](https://medium.com/p/48ed980792ae) |
-| Fri, 18 Jul 2025 10:10:33 GMT | My first shot with Bugbounty Radar and I hit a vuln — bounty coming soon? | liu sdgs | [Read More](https://medium.com/p/93a9cfa91727) |
-| Fri, 18 Jul 2025 10:10:03 GMT | Research Questions | Covenant O.B. | [Read More](https://medium.com/p/3b013a6737cb) |
-| Fri, 18 Jul 2025 10:08:45 GMT | TryHackMe — Lo-Fi Room Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/5db280c696ee) |
-| Fri, 18 Jul 2025 10:05:45 GMT | Everything You Need to Know About Dockerfile: From Basics to Advanced Techniques | Harleen kaur | [Read More](https://medium.com/p/2e61c0cd94b0) |
-| Fri, 18 Jul 2025 09:58:44 GMT | Best Managed Cybersecurity Services In India - Net Access India Limited | Anbarasans | [Read More](https://medium.com/p/5fa105125cf4) |
