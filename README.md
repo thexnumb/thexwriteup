@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 16:22:20 GMT | ️ Build the Ultimate Bug Bounty & Recon Machine on Fresh Kali Linux (2025) | Rudra Potghan | [Read More](https://medium.com/p/12c33fdf48bd) |
+| Fri, 18 Jul 2025 16:12:02 GMT | I like the night | Nimas Muslimah | [Read More](https://medium.com/p/3dd656605812) |
+| Fri, 18 Jul 2025 16:11:26 GMT | How Music Found Me, Healed Me, and Revealed the Hidden Echoes of My Soul | Leo Daniel | [Read More](https://medium.com/p/621543a6cb6a) |
+| Fri, 18 Jul 2025 16:05:13 GMT | https://medium.com/@snehaverma8095/information-technology-856d0e8de56b | Snehaverma | [Read More](https://medium.com/p/e8a3a1a6c8c5) |
+| Fri, 18 Jul 2025 16:01:03 GMT | Images of Rehu Talwar — The Face Behind CyberGlikNet | Bjpbaghapurana | [Read More](https://medium.com/p/b0d7d966a995) |
+| Fri, 18 Jul 2025 15:57:20 GMT | Why 2025 Might Be the Worst Year for Cyberattacks Yet (And How to Not Be the Next Headline | Paradise technologies Inc | [Read More](https://medium.com/p/afb036609370) |
+| Fri, 18 Jul 2025 15:55:36 GMT | Your AI Therapy Session Might Be Plot of Your Neighbor’s New Reality T.V Show | Aditi Polamuri | [Read More](https://medium.com/p/b38a63a236d6) |
+| Fri, 18 Jul 2025 15:53:13 GMT | How I Started My Cybersecurity Journey — And Why I’m Excited for the Road Ahead | Relja Pejić | [Read More](https://medium.com/p/ae10f722ca0e) |
+| Fri, 18 Jul 2025 15:51:41 GMT | Introducing WaveRecon: Your Ultimate Web Reconnaissance and Vulnerability Scanning Tool | Ronit Paikray | [Read More](https://medium.com/p/a2f6875afddf) |
+| Fri, 18 Jul 2025 15:50:03 GMT | REST API File Upload Secrets That Many Developers Ignore! | Code Crack | [Read More](https://medium.com/p/19052302b07a) |
+| Fri, 18 Jul 2025 15:46:22 GMT | Why IoT Penetration Testing Is No Longer Optional in 2025 | DefenceRabbit | [Read More](https://medium.com/p/e8e94794fe7e) |
+| Fri, 18 Jul 2025 15:45:47 GMT | The 5 Most Common Penetration Testing Methodologies | Barukh Aswad | [Read More](https://medium.com/p/6dbea047a50b) |
+| Fri, 18 Jul 2025 15:44:50 GMT | Strengthening DNS Security with Pi-hole & Wazuh: A Complete Guide | Yash Patel | [Read More](https://medium.com/p/e6b1f51f2a3c) |
+| Fri, 18 Jul 2025 15:42:28 GMT | How AI Is Enhancing Endpoint Threat Detection and Response | Cloud4C Services | [Read More](https://medium.com/p/f3d2d0159445) |
 | Fri, 18 Jul 2025 15:30:17 GMT | ️ API Armor: Security Best Practices for Web APIs That Actually Work | Priyanshu Rajput | [Read More](https://medium.com/p/ba9c54c53d0a) |
 | Fri, 18 Jul 2025 15:29:15 GMT | Hacking APIs: Attacking REST APIs Through Serialization Format Manipulation | Israel Aráoz Severiche | [Read More](https://medium.com/p/b27fa8db4e8b) |
 | Fri, 18 Jul 2025 15:28:46 GMT | Does the Traditional Cybersecurity Matrices Still Hold Good in the Age of GenAI? | Ajay Kumar | [Read More](https://medium.com/p/85204dd2d36a) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 11:06:50 GMT | Essential Guide to Strengthening Your WordPress Admin Security | Themeglance | [Read More](https://medium.com/p/78e2457cb0e1) |
 | Fri, 18 Jul 2025 11:04:37 GMT | In an era marked by rising crime rates, increasing urbanization, and heightened awareness around… | Ciss India | [Read More](https://medium.com/p/7ffb5e51e6d5) |
 | Fri, 18 Jul 2025 11:03:19 GMT | Louis Vuitton Confirms UK Customer Data Breach in Third LVMH Attack This Year | SafetyDetectives Research Team | [Read More](https://medium.com/p/d0286f297745) |
-| Fri, 18 Jul 2025 10:55:27 GMT | Cloud Security Engineer Roles in Startup Hubs Like Mysore | Giribabu V | [Read More](https://medium.com/p/397ce9b948aa) |
-| Fri, 18 Jul 2025 10:53:22 GMT | Why Every Business Needs Freight Forwarding: The Complete Guide | Arrkay.DM | [Read More](https://medium.com/p/d05524a06511) |
-| Fri, 18 Jul 2025 10:49:57 GMT | Beyond Screen Limits: Cultivating Digital Wisdom at Home | Kevin Mwenda | [Read More](https://medium.com/p/a4c6bab1fb8d) |
-| Fri, 18 Jul 2025 10:48:40 GMT | Analyzing Event and Alert - Deep Dive SIEM Part 7 | Bit_Picker | [Read More](https://medium.com/p/f6f79f6ee221) |
-| Fri, 18 Jul 2025 10:41:22 GMT | From Penetration Tester to Trusted Partner: Why Technical Skills Alone Won’t Get You Hired | Ehtisham Fakhar | [Read More](https://medium.com/p/1522cb4ff297) |
-| Fri, 18 Jul 2025 10:33:02 GMT | How to Protect Apps and APIs from Zero-Day Attacks? | Maverick Steel | [Read More](https://medium.com/p/c2754882b590) |
-| Fri, 18 Jul 2025 10:31:03 GMT | The 7 Ghosts of Cybersecurity-Part 2: Confronting the Final Three Digital Monsters | Xperts Unimited | [Read More](https://medium.com/p/5cf3c181b799) |
-| Fri, 18 Jul 2025 10:30:43 GMT | Hackers Are Using Phony CAPTCHAs to Install Malware — How to Spot the Fakes Before You Click | Karl Buhl | [Read More](https://medium.com/p/9465c769ad8e) |
-| Fri, 18 Jul 2025 10:29:01 GMT | Navi Loan customer care helpline number 7993289710 | Bible khan | [Read More](https://medium.com/p/15a67a34dd3c) |
-| Fri, 18 Jul 2025 10:27:36 GMT | Why Not Pick McEliece for PQC Encryption? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/0a9c24af23a0) |
-| Fri, 18 Jul 2025 10:24:13 GMT | “Ethical Hacking: How to Become a Cyber Warrior After 12th?” | Aerikverma | [Read More](https://medium.com/p/04cfe72e5377) |
-| Fri, 18 Jul 2025 10:22:38 GMT | Şirket Ağı mı Karışık? phpIPAM ile IP Envanterini Düzene Sokun | Serdarumuturan | [Read More](https://medium.com/p/0952d3d52637) |
-| Fri, 18 Jul 2025 10:22:12 GMT | The 7 Ghosts of Cybersecurity-Part 1: Confronting the First Four Digital Monsters | Xperts Unimited | [Read More](https://medium.com/p/7423796bdc4d) |
-| Fri, 18 Jul 2025 10:21:50 GMT | The Insider Threat: When Cybersecurity Risks Come from Within | Richard Dosumu | [Read More](https://medium.com/p/4253aceba900) |
