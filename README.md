@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 12:44:43 GMT | Web3 Security Starts with You: Best Practices with Hive Keychain | Hive Keychain | [Read More](https://medium.com/p/75c9540eecae) |
+| Fri, 18 Jul 2025 12:36:15 GMT | A Beginner’s Real-World Penetration Testing Walkthrough on Metasploitable2 | LB Cyber Journal | [Read More](https://medium.com/p/f904a0371e3d) |
+| Fri, 18 Jul 2025 12:27:14 GMT | Timing is the Real Vulnerability – My Deep Dive into Time-Based Exploits | Sunny Kumar | [Read More](https://medium.com/p/8745fd2b06b5) |
+| Fri, 18 Jul 2025 12:26:56 GMT | CASEF vs. Zero Trust: Why the Old Paradigm is Dead | Travis Ray Caverhill | [Read More](https://medium.com/p/2df24fde4238) |
+| Fri, 18 Jul 2025 12:21:04 GMT | Building Cyber Resilience with Hybrid SOC Services | sanya | [Read More](https://medium.com/p/f63c717077ac) |
+| Fri, 18 Jul 2025 12:18:32 GMT | DECLARAÇÃO TÉCNICO-JURÍDICA DE CONFIRMAÇÃO DE PROVAS DE INVASÃO DE DISPOSITIVOS | Davi Freire | [Read More](https://medium.com/p/c7d718484e24) |
+| Fri, 18 Jul 2025 12:16:57 GMT | Exploring Lua and RealTime Logic for Embedded Systems Development | C. L. Beard | [Read More](https://medium.com/p/805b273fa47d) |
+| Fri, 18 Jul 2025 12:16:35 GMT | My PNPT Journey So Far: PEH + AD Lab Recap | Sharzun | [Read More](https://medium.com/p/4480b02343c0) |
+| Fri, 18 Jul 2025 12:14:26 GMT | Exploits in the Wild & Stealthy Campaigns Target Enterprises | Loginsoft | [Read More](https://medium.com/p/a45aef71df93) |
+| Fri, 18 Jul 2025 12:11:45 GMT | I Broke Rate Limits to Hijack Accounts — Without Getting Blocked | Ibtissam hammadi | [Read More](https://medium.com/p/e99675a30b6c) |
+| Fri, 18 Jul 2025 12:02:29 GMT | Cybersecurity x AI : The Power Combo That’s Taking Over Tech | Myselfanytime | [Read More](https://medium.com/p/c6568c032f2f) |
+| Fri, 18 Jul 2025 11:57:21 GMT | Become an APISec University Ambassador and Empower the Future of API Security | MrGood | [Read More](https://medium.com/p/a59f111ca868) |
+| Fri, 18 Jul 2025 11:51:47 GMT | Power Down Putin: How Graphite Bombs Could Cripple Russia Without Escalation | Brian Iselin | [Read More](https://medium.com/p/a39005e85fbc) |
+| Fri, 18 Jul 2025 11:50:32 GMT | The Role of Encryption in Securing Network Traffic | Cybersecurity Umbrella | [Read More](https://medium.com/p/eba9ea7ca979) |
+| Fri, 18 Jul 2025 11:50:28 GMT | Create end-users? Invite them instead. — OutSystems O11 vs. ODC | Claudia L Capitao | [Read More](https://medium.com/p/7c96dd5a8054) |
+| Fri, 18 Jul 2025 11:47:19 GMT | 5 Must-Try AI Chrome Extensions for Smarter Browsing in 2025 | Natlan Tech | [Read More](https://medium.com/p/7d2cf5a7d88e) |
+| Fri, 18 Jul 2025 11:46:54 GMT | Generative AI in IT: Transforming Operations, Efficiency, and Innovation | ZBrain | [Read More](https://medium.com/p/05f01bb77b53) |
+| Fri, 18 Jul 2025 11:46:30 GMT | Qantas Data Breach: A Wake-Up Call on Information Security and Phishing Attacks | Redfox Security | [Read More](https://medium.com/p/0409e2532345) |
+| Fri, 18 Jul 2025 11:45:59 GMT | Google Dorks for Bug Bounty Hunting: 25 Powerful Dorks to Find Exposed PDFs, NDAs, and Signatures | hackersatty | [Read More](https://medium.com/p/cf8c54e19189) |
+| Fri, 18 Jul 2025 11:41:26 GMT | From Recon to Root: The Ultimate Bug Bounty Recon Playbook (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c5707ccc8d42) |
+| Fri, 18 Jul 2025 11:40:48 GMT | ️ RedTeam.Blue: A Crucial Hub for InfoSec Professionals | MrGood | [Read More](https://medium.com/p/fc720319bdda) |
+| Fri, 18 Jul 2025 11:38:30 GMT | Breaking Down NIST CSF 2.0: Categories and Sub-Categories (with Real-World Examples) | Brittney Ginther | [Read More](https://medium.com/p/9bc611c87eab) |
 | Fri, 18 Jul 2025 11:35:16 GMT | Password Change Doesn’t Expire Sessions — A Hidden Risk in Session Management | Gourav(spidergk) | [Read More](https://medium.com/p/701c884aa86c) |
 | Fri, 18 Jul 2025 11:32:59 GMT | Linux Security Part 1: Secure Your Server with faillock Against Brute-Force Attacks | Karthick Dkk | [Read More](https://medium.com/p/e4f0f34bd655) |
 | Fri, 18 Jul 2025 11:32:59 GMT | Bludgeoned Buzzwords: Lift and Shift | Namir Sagheenanajar | [Read More](https://medium.com/p/e36c2171d163) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 07:43:13 GMT | Top 7 Cybersecurity Risk Management Tools to Stop Cyberattacks Cold | SecureSlate | [Read More](https://medium.com/p/fc72b0fc12bc) |
 | Fri, 18 Jul 2025 07:39:12 GMT | Elastic Heart: How a Misconfigured Kibana Dashboard Sang Like a Canary | Iski | [Read More](https://medium.com/p/b719c7377964) |
 | Fri, 18 Jul 2025 07:32:16 GMT | My Relentless Fight Against the Silent Threat of Ocean Acidification | Leo Daniel | [Read More](https://medium.com/p/8297bb632a6a) |
-| Fri, 18 Jul 2025 07:28:24 GMT | Using leaked data to examine vulnerabilities in SMS routing and SS7 signalling | Lighthouse Reports | [Read More](https://medium.com/p/8e30298491d9) |
-| Fri, 18 Jul 2025 07:28:11 GMT | Cybercrime: All the Stats, Facts, and Data You’ll Ever Need to Know | Chitchat with Amreen | [Read More](https://medium.com/p/d906e21b2d91) |
-| Fri, 18 Jul 2025 07:26:04 GMT | Prompt-Driven Vulnerability Chains: How to Build Multi-Step Exploits from Low-Severity Bugs with AI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7f79a701535b) |
-| Fri, 18 Jul 2025 07:25:17 GMT | Prompt Injection to Bounty: Part 2 — Chaining with SSRF, BOLA & RCE | Narendar Battula (nArEn) | [Read More](https://medium.com/p/35c1285136c4) |
-| Fri, 18 Jul 2025 07:13:21 GMT | How do hybrid SOC services improve security? | Ziya Zoe | [Read More](https://medium.com/p/53b0fb31ca81) |
-| Fri, 18 Jul 2025 07:09:49 GMT | Scam Baiting a Fake Job Application Fraudster | Mike Manrod | [Read More](https://medium.com/p/73f537e590ae) |
-| Fri, 18 Jul 2025 07:08:35 GMT | Top Web Application Penetration Testing Courses Online [2025 Guide] | cyber security Updates | [Read More](https://medium.com/p/d125bd17ba12) |
-| Fri, 18 Jul 2025 07:04:38 GMT | Why consider using hybrid SOC services? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/d491e3bd637b) |
-| Fri, 18 Jul 2025 07:02:12 GMT | phpIPAM Nedir? Kurulumu, Özellikleri ve Kullanım Senaryoları | Serdarumuturan | [Read More](https://medium.com/p/4c60641b1976) |
-| Fri, 18 Jul 2025 07:01:28 GMT | De reconocimiento pasivo a investigativo: transformando mi fase de reconocimiento en Bug Bounty | Gorka | [Read More](https://medium.com/p/72226de48526) |
-| Fri, 18 Jul 2025 07:01:23 GMT | Dedicated Server for FinTech: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/ca9b152a665a) |
-| Fri, 18 Jul 2025 06:59:56 GMT | From Vulnerable to Victor: Taking Control of Your Cybersecurity | Godwin Anyebe | [Read More](https://medium.com/p/7822fe2be72f) |
-| Fri, 18 Jul 2025 06:55:45 GMT | GOD IS IN THE WIFI | Puddles | [Read More](https://medium.com/p/0d2c6ff82887) |
-| Fri, 18 Jul 2025 06:52:57 GMT | Quranium: Built for the Quantum Era While Everyone Else Waits. | Bright Mmaduabuchi | [Read More](https://medium.com/p/8427c35e0379) |
-| Fri, 18 Jul 2025 06:47:46 GMT | What is Cybersecurity? A Beginner’s Guide for 2025 | SocialTechner | [Read More](https://medium.com/p/15eaf97b299a) |
-| Fri, 18 Jul 2025 06:45:01 GMT | How Smart IT Solutions Are Empowering Modern Businesses in Pune | Implause Solutions | [Read More](https://medium.com/p/e1f6c3593c6b) |
-| Fri, 18 Jul 2025 06:40:41 GMT | Secure Boot ve TPM: Linux Dünyasında İşletim Sistemi Güvenliği | Sinem Coşkun | [Read More](https://medium.com/p/da0ca3ece1b5) |
-| Fri, 18 Jul 2025 06:35:37 GMT | How I Found My First Critical Bug: Account Takeover via Email Verification Bypass | Wondmagegn Degu | [Read More](https://medium.com/p/7481b814f902) |
-| Fri, 18 Jul 2025 06:33:51 GMT | The Basics Matter: Enumeration and Brute Forcing | hexidecimal | [Read More](https://medium.com/p/a4a31de946b5) |
-| Fri, 18 Jul 2025 06:25:52 GMT | Hydraulic Guest Blogging | Whyps | [Read More](https://medium.com/p/706fa3844b4b) |
-| Fri, 18 Jul 2025 06:24:25 GMT | Secure Your Property: Video Analytics for Fire and Smoke Detection in the KUWAIT | expbhavya | [Read More](https://medium.com/p/a413b33b05b8) |
-| Fri, 18 Jul 2025 06:16:59 GMT | Video Analiz: Güvenlik Teknolojilerinde Yeni Nesil Dönüşüm | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/e763efd85bdb) |
