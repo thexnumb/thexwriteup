@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 05:34:58 GMT | Certified Red Team Professional (CRTP) | Ramazan | [Read More](https://medium.com/p/c833cb350f1d) |
+| Fri, 18 Jul 2025 05:33:21 GMT | When AI Negotiates the Ransom: The Rise of Smarter, Scarier Ransomware | Paritosh | [Read More](https://medium.com/p/4377c7e6a181) |
+| Fri, 18 Jul 2025 05:32:52 GMT | Escalating Privileges with SUID-Enabled find: A Practical Example | Kiptryin | [Read More](https://medium.com/p/579f0bc617da) |
+| Fri, 18 Jul 2025 05:31:48 GMT | Zero Keys. Zero Leaks — DevSecOps Powered Pipeline | AnythingOps | [Read More](https://medium.com/p/7adf1548d060) |
 | Fri, 18 Jul 2025 05:26:22 GMT | Difference Between IT Security and Cybersecurity: Explained Simply | Dhanashri Bhale | [Read More](https://medium.com/p/36b3d226c113) |
 | Fri, 18 Jul 2025 05:08:16 GMT | Why Ashburn’s Leading Cyber Security Developers Are Essential for Modern Businesses? | Webtrills | [Read More](https://medium.com/p/980c67f12277) |
 | Fri, 18 Jul 2025 05:03:22 GMT | $2,000 -critical Samsung Bug Bounty: Bypassing Plan Restrictions via Business Logic Flaw | KILLUA_UCHIHA | [Read More](https://medium.com/p/e18eace8a6cf) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 19:30:50 GMT | From Curiosity to Capability: My First Dive into Nessus Expert for Vulnerability Assessment | Nazia Mobeen | [Read More](https://medium.com/p/6cda2dce6365) |
 | Thu, 17 Jul 2025 19:30:37 GMT | Not Quite the Butterfly | chenmeiiyu | [Read More](https://medium.com/p/eee285ade0bc) |
 | Thu, 17 Jul 2025 19:27:48 GMT | Easily retrieve CloudWatch Logs from the CLI-Walkthrough | marianita_cloud | [Read More](https://medium.com/p/8aa6843a6b00) |
-| Thu, 17 Jul 2025 19:19:49 GMT | # Manifiesto del Pensamiento Artificial Libre **Por Osvdo, filósofo y constructor de realidades —… | paramon FDC COMPANY | [Read More](https://medium.com/p/0fafc201b238) |
-| Thu, 17 Jul 2025 19:12:33 GMT | $XXXX with Microsoft Hall of Fame - Microsoft CSP Bypass - Stored XSS on SharePoint - Microsoft… | CodeXploiter | [Read More](https://medium.com/p/591c12a710ed) |
-| Thu, 17 Jul 2025 19:07:24 GMT | From Curiosity to Capability: My First Dive into Nessus Expert for Vulnerability Assessment | Nazia Malik | [Read More](https://medium.com/p/52f26d387c0d) |
-| Thu, 17 Jul 2025 19:03:55 GMT | Line 盗帳號之詐騙行為及緊急處理指南 | IT工兵 | [Read More](https://medium.com/p/a5367d037719) |
