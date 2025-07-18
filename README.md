@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 11:35:16 GMT | Password Change Doesn’t Expire Sessions — A Hidden Risk in Session Management | Gourav(spidergk) | [Read More](https://medium.com/p/701c884aa86c) |
+| Fri, 18 Jul 2025 11:32:59 GMT | Linux Security Part 1: Secure Your Server with faillock Against Brute-Force Attacks | Karthick Dkk | [Read More](https://medium.com/p/e4f0f34bd655) |
+| Fri, 18 Jul 2025 11:32:59 GMT | Bludgeoned Buzzwords: Lift and Shift | Namir Sagheenanajar | [Read More](https://medium.com/p/e36c2171d163) |
+| Fri, 18 Jul 2025 11:28:44 GMT | Security Guard Responsibilities: What Every Client Should Know | Sumintra | [Read More](https://medium.com/p/a66088ebaf74) |
+| Fri, 18 Jul 2025 11:28:06 GMT | How to Write, Publish and Communicate Your Information Security Policy | Jenny Feneley | [Read More](https://medium.com/p/0815d449b1c0) |
+| Fri, 18 Jul 2025 11:27:11 GMT | This is What Real Cybersecurity Learning Looks Like | The Quiet Hacker | [Read More](https://medium.com/p/770edd451dd4) |
+| Fri, 18 Jul 2025 11:26:57 GMT | Certified but Stuck: The Silent Struggle of Entry-Level Pentesters | Regan Temudo | [Read More](https://medium.com/p/290e37b76c20) |
+| Fri, 18 Jul 2025 11:25:51 GMT | RooteMe: ELF x86–0 protection | Rahaliashraf | [Read More](https://medium.com/p/705e06d37ef6) |
 | Fri, 18 Jul 2025 11:12:54 GMT | Why Using The Phone Password to Unlock WhatsApp Maybe Unsafe | Nwaeze Joshua Nonso | [Read More](https://medium.com/p/1c632cebbebf) |
+| Fri, 18 Jul 2025 11:12:44 GMT | Russian Nesting Dolls | Christine Kelly | [Read More](https://medium.com/p/e5d26f93d0c5) |
 | Fri, 18 Jul 2025 11:07:15 GMT | Initvalue: Empowering Businesses with Cutting-Edge AI Solutions in Bangalore | Mohammed Zishan | [Read More](https://medium.com/p/18f3ebcdadf6) |
 | Fri, 18 Jul 2025 11:06:56 GMT | Hackers Could Remotely Stop Trains Using Cheap Gear, Experts Warn | SafetyDetectives Research Team | [Read More](https://medium.com/p/0b71870dc467) |
 | Fri, 18 Jul 2025 11:06:50 GMT | Essential Guide to Strengthening Your WordPress Admin Security | Themeglance | [Read More](https://medium.com/p/78e2457cb0e1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 06:25:52 GMT | Hydraulic Guest Blogging | Whyps | [Read More](https://medium.com/p/706fa3844b4b) |
 | Fri, 18 Jul 2025 06:24:25 GMT | Secure Your Property: Video Analytics for Fire and Smoke Detection in the KUWAIT | expbhavya | [Read More](https://medium.com/p/a413b33b05b8) |
 | Fri, 18 Jul 2025 06:16:59 GMT | Video Analiz: Güvenlik Teknolojilerinde Yeni Nesil Dönüşüm | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/e763efd85bdb) |
-| Fri, 18 Jul 2025 06:14:46 GMT | Don’t Let Lag Win: 6 VPN Tips Every Gamer Should Know | Cloudbric VPN | [Read More](https://medium.com/p/f47aba0b9694) |
-| Fri, 18 Jul 2025 06:12:47 GMT | Top Dark Web Forums With .onion Links to Explore in 2025 | adityaax | [Read More](https://medium.com/p/9ad4daab27f3) |
-| Fri, 18 Jul 2025 06:10:07 GMT | What Every QA Should Know About Epics, User Stories, and Tasks | Nirmal Kiran Patel | [Read More](https://medium.com/p/7d068b6b959a) |
-| Fri, 18 Jul 2025 06:10:06 GMT | XBOW AI Hacker — Game-Changer or Just Good Marketing? | Akash Lahare | [Read More](https://medium.com/p/7bfc2992b299) |
-| Fri, 18 Jul 2025 06:05:43 GMT | The ROI of Threat Modeling | BJ Edward Taduran | [Read More](https://medium.com/p/05ba3839b7cc) |
-| Fri, 18 Jul 2025 06:04:53 GMT | For Security Reasons, I Switched to CryptoXpress from MetaMask. | Ufanabasi Ekong | [Read More](https://medium.com/p/5c4c86a380d8) |
-| Fri, 18 Jul 2025 06:02:09 GMT | How I Built a Fully Functional SOC Lab with Wazuh | Sohan Kanna D | [Read More](https://medium.com/p/0f5a169f7218) |
-| Fri, 18 Jul 2025 06:01:18 GMT | Where is Strategic Information System in multinational organization? | Bilal Kobanoğlu, PhD | [Read More](https://medium.com/p/bb10369908e9) |
-| Fri, 18 Jul 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Jul 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/301b282e987a) |
