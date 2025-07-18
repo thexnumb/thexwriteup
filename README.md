@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 23:33:18 GMT | Know What Your Children are Doing Online | Savvy Cyber Kids | [Read More](https://medium.com/p/b78bbfb6c9a3) |
+| Fri, 18 Jul 2025 23:32:36 GMT | Social Media and Grooming | Savvy Cyber Kids | [Read More](https://medium.com/p/bcb55cf56843) |
+| Fri, 18 Jul 2025 23:32:08 GMT | All About Cyberama | Savvy Cyber Kids | [Read More](https://medium.com/p/2db0139d9ce7) |
+| Fri, 18 Jul 2025 23:31:45 GMT | Secure Branch Transformation by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/660e05a7a050) |
 | Fri, 18 Jul 2025 23:05:13 GMT | The Human Hack: How Social Engineering Outsmarts Technology | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/a28629cffda5) |
 | Fri, 18 Jul 2025 22:59:29 GMT | 12-Word Passphrases vs AI Superintelligence | Eye Of Unity | [Read More](https://medium.com/p/529141fb0dae) |
 | Fri, 18 Jul 2025 22:55:10 GMT | The Bait You Didn’t See Coming: Understanding Phishing in Cybersecurity | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/623c842e81a5) |
@@ -109,7 +113,3 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 16:27:46 GMT | OverTheWire: Bandit Level 0 | Wizard-Of-Oz | [Read More](https://medium.com/p/d7054a8d983e) |
 | Fri, 18 Jul 2025 16:22:20 GMT | ️ Build the Ultimate Bug Bounty & Recon Machine on Fresh Kali Linux (2025) | Rudra Potghan | [Read More](https://medium.com/p/12c33fdf48bd) |
 | Fri, 18 Jul 2025 16:19:52 GMT | Phobos & 8-Base Decrypter | c0mpl3x | [Read More](https://medium.com/p/15df74a4c2f6) |
-| Fri, 18 Jul 2025 16:12:02 GMT | I like the night | Nimas Muslimah | [Read More](https://medium.com/p/3dd656605812) |
-| Fri, 18 Jul 2025 16:11:26 GMT | How Music Found Me, Healed Me, and Revealed the Hidden Echoes of My Soul | Leo Daniel | [Read More](https://medium.com/p/621543a6cb6a) |
-| Fri, 18 Jul 2025 16:05:13 GMT | https://medium.com/@snehaverma8095/information-technology-856d0e8de56b | Snehaverma | [Read More](https://medium.com/p/e8a3a1a6c8c5) |
-| Fri, 18 Jul 2025 16:01:03 GMT | Images of Rehu Talwar — The Face Behind CyberGlikNet | Bjpbaghapurana | [Read More](https://medium.com/p/b0d7d966a995) |
