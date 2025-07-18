@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 22:14:32 GMT | Balancing Cybersecurity and Usability in Everyday Tech | Channel Manager Staff | [Read More](https://medium.com/p/3641827e7a21) |
+| Fri, 18 Jul 2025 22:11:53 GMT | The Silence of the Aisles | Arohi Bhate | [Read More](https://medium.com/p/48d5cb194eb4) |
+| Fri, 18 Jul 2025 22:05:56 GMT | Harden and Monitor: FIM is the Missing Link in Container Security | Infosecjourney.tech | [Read More](https://medium.com/p/a01d2f087bef) |
+| Fri, 18 Jul 2025 22:03:00 GMT | How Are You? Really. | Tanya Mehta | [Read More](https://medium.com/p/1086d4f8581b) |
+| Fri, 18 Jul 2025 22:03:00 GMT | AI for Cybersecurity | Mauro Di Pietro | [Read More](https://medium.com/p/8ab643cd5a3d) |
+| Fri, 18 Jul 2025 21:44:19 GMT | Top 5 Free Firewall Software Tools to Instantly Boost Your Security | The Daily Technology | [Read More](https://medium.com/p/4ceedf0b83b0) |
+| Fri, 18 Jul 2025 21:41:27 GMT | INFORMATION TECHNOLOGY AND THE CHOICES WE MAKE. | Mohamed Hasil | [Read More](https://medium.com/p/a1b2f924c99f) |
 | Fri, 18 Jul 2025 21:31:44 GMT | Day 54: Netcat | Nile Okomo | [Read More](https://medium.com/p/f13e5911bd13) |
 | Fri, 18 Jul 2025 21:26:09 GMT | 量子通訊不再遙遠：打造可落地於 Azure 的 QKD 安全模組藍圖 | Tiffany Chiang | [Read More](https://medium.com/p/4d411dfe30b1) |
 | Fri, 18 Jul 2025 21:24:01 GMT | Break into any Microsoft building: Leaking PII in Microsoft Guest Check-In | Faav | [Read More](https://medium.com/p/6f3dbd72d385) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 15:28:46 GMT | Does the Traditional Cybersecurity Matrices Still Hold Good in the Age of GenAI? | Ajay Kumar | [Read More](https://medium.com/p/85204dd2d36a) |
 | Fri, 18 Jul 2025 15:28:27 GMT | Behind the Scenes of the Internet: DNS Used as a Malware Weapon | Haroon Shahid | [Read More](https://medium.com/p/fa5bac93d1e2) |
 | Fri, 18 Jul 2025 15:28:25 GMT | Bypassing 2FA via Missing Email Verification | Monika sharma | [Read More](https://medium.com/p/36a5cadea3c5) |
-| Fri, 18 Jul 2025 15:27:45 GMT | Why My Brain Thinks Every Email is a Threat | Maham Tanveer | [Read More](https://medium.com/p/a14e81928c0e) |
-| Fri, 18 Jul 2025 15:11:41 GMT | Race Condition in macOS LaunchDaemons Opens Door to Root Privileges | gm0 | [Read More](https://medium.com/p/72569e4347c7) |
-| Fri, 18 Jul 2025 15:08:57 GMT | Masuk Hall of Fame NASA Hanya dalam 5 Menit [Pengalaman Pribadi] | Ilhambachtiar | [Read More](https://medium.com/p/3235f7eec2e2) |
-| Fri, 18 Jul 2025 15:07:36 GMT | How Can I Recover My Money From XP Traders? | Joshua | [Read More](https://medium.com/p/29321079c9ce) |
-| Fri, 18 Jul 2025 14:59:35 GMT | How I Hacked NASA and Defaced It | Shafayat Ahmed Alif | [Read More](https://medium.com/p/9f106e833cc1) |
-| Fri, 18 Jul 2025 14:56:30 GMT | Top 3 Ethical Hackers of Punjab: Skills & Achievements Compared | Bjpbaghapurana | [Read More](https://medium.com/p/fe1093e51c58) |
-| Fri, 18 Jul 2025 14:43:59 GMT | Bug Bounty 101: Step-by-Step Practical Approach to Recon and Discovery | Santhosh Adiga U | [Read More](https://medium.com/p/43a4f505e3d3) |
