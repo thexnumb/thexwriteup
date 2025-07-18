@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 09:37:21 GMT | This Is Interesting but Who Would Use It? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/ecfdb86c2943) |
+| Fri, 18 Jul 2025 09:32:18 GMT | Cybersecurity Redefined: Leading, Protecting, and Adapting with Next-Generation Strategy | Anshul Goyal | [Read More](https://medium.com/p/9b98124c5601) |
+| Fri, 18 Jul 2025 09:30:08 GMT | Citizen Developers and Low-Code/No-Code Platforms | Jonathan Salim | [Read More](https://medium.com/p/ac7ba6ab1bff) |
+| Fri, 18 Jul 2025 09:26:31 GMT | Kuwait Focuses on Turnstile Security to Prevent Unauthorized Access | expbhavya | [Read More](https://medium.com/p/894c342484ed) |
 | Fri, 18 Jul 2025 09:26:05 GMT | NASA KNEW THIS—----- | Satyam Kumar | [Read More](https://medium.com/p/d4a15be882bb) |
 | Fri, 18 Jul 2025 09:25:28 GMT | Dancing Lab Walkthrough: Unlocking SMB Misconfigurations on Hack The Box | Gopal Mohan | [Read More](https://medium.com/p/3781a54ec018) |
 | Fri, 18 Jul 2025 09:24:05 GMT | TryHackMe - Infinity Shell - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/0c3bf5ff6851) |
+| Fri, 18 Jul 2025 09:20:07 GMT | How to Remove Malware from WordPress & Secure Your Site | Dishang | [Read More](https://medium.com/p/b86348fb203c) |
 | Fri, 18 Jul 2025 09:10:38 GMT | Fawn Lab Solution: Exploring FTP Security Basics on Hack The Box’s Tier 0 Machine | Gopal Mohan | [Read More](https://medium.com/p/cef40db8f02c) |
 | Fri, 18 Jul 2025 09:01:25 GMT | Why Ethical Hacking Is the Career of the Future in India | Dineshathul | [Read More](https://medium.com/p/59b198a169a1) |
 | Fri, 18 Jul 2025 08:59:15 GMT | RESPONSE TO “THE END OF SPACE AND TIME: BIGGEST PHYSICS PROBLEM” | OmegaPhazon  Ask Questions I Like To Reply To Tuff | [Read More](https://medium.com/p/348c049fbd35) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 03:31:46 GMT | Quantum Cryptography | ACM BPHC | [Read More](https://medium.com/p/3660f2a2fa0f) |
 | Fri, 18 Jul 2025 03:31:46 GMT | How Disposable SMS Numbers Protect Your Privacy | Deven Chhajed | [Read More](https://medium.com/p/c5b84d28eaf6) |
 | Fri, 18 Jul 2025 03:26:32 GMT | Help My Account Was Hacked! | Andrew Frelon | [Read More](https://medium.com/p/5025f11e5232) |
-| Fri, 18 Jul 2025 03:18:19 GMT | To Love Your Natural Enemy | Flyhighut | [Read More](https://medium.com/p/9b47d57e6d04) |
-| Fri, 18 Jul 2025 03:14:26 GMT | Critical VMware Vulnerabilities Let Attackers Escape the VM — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/0eecf0816b49) |
-| Fri, 18 Jul 2025 02:37:49 GMT | Everyday Security Series — 5 Security Basics for Non-Profits | Katy Vonk | [Read More](https://medium.com/p/f74b052f5341) |
-| Fri, 18 Jul 2025 02:29:55 GMT | Bug Layers… or Lies? | Alex Joyel Raj | [Read More](https://medium.com/p/a9a682cae319) |
-| Fri, 18 Jul 2025 02:16:03 GMT | AI and Cybersecurity: Preparing the Next Generation of Talent | Masood Mahmood | [Read More](https://medium.com/p/cb197f9877bc) |
