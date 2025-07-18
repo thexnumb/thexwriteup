@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 15:11:41 GMT | Race Condition in macOS LaunchDaemons Opens Door to Root Privileges | gm0 | [Read More](https://medium.com/p/72569e4347c7) |
+| Fri, 18 Jul 2025 15:08:57 GMT | Masuk Hall of Fame NASA Hanya dalam 5 Menit [Pengalaman Pribadi] | Ilhambachtiar | [Read More](https://medium.com/p/3235f7eec2e2) |
+| Fri, 18 Jul 2025 15:07:36 GMT | How Can I Recover My Money From XP Traders? | Joshua | [Read More](https://medium.com/p/29321079c9ce) |
+| Fri, 18 Jul 2025 14:59:35 GMT | How I Hacked NASA and Defaced It | Shafayat Ahmed Alif | [Read More](https://medium.com/p/9f106e833cc1) |
+| Fri, 18 Jul 2025 14:56:30 GMT | Top 3 Ethical Hackers of Punjab: Skills & Achievements Compared | Bjpbaghapurana | [Read More](https://medium.com/p/fe1093e51c58) |
 | Fri, 18 Jul 2025 14:43:59 GMT | Bug Bounty 101: Step-by-Step Practical Approach to Recon and Discovery | Santhosh Adiga U | [Read More](https://medium.com/p/43a4f505e3d3) |
 | Fri, 18 Jul 2025 14:43:20 GMT | Are You Still Using RSA for Your Keys? | Maga Nuriyev | [Read More](https://medium.com/p/439e3a36eb86) |
+| Fri, 18 Jul 2025 14:40:40 GMT | CVE-2025–25257: FortiWeb’de Kimlik Doğrulama Öncesi SQL Injection Zafiyeti | H-ACK-ing | [Read More](https://medium.com/p/bce139a2813e) |
 | Fri, 18 Jul 2025 14:36:24 GMT | Securing AI Agents with Honeypots: Introducing Beelzebub MCP | Mario Candela | [Read More](https://medium.com/p/b062a935f451) |
 | Fri, 18 Jul 2025 14:28:38 GMT | TOR vs VPN — Which Protects Your Privacy Better? | Vijay Kumar Gupta | [Read More](https://medium.com/p/7b19a0f86a25) |
 | Fri, 18 Jul 2025 14:28:07 GMT | ChatGPT Trick Helped Me Start Earning in Less Than a Week | Clarity | [Read More](https://medium.com/p/e79299dd85e7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 10:08:45 GMT | TryHackMe — Lo-Fi Room Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/5db280c696ee) |
 | Fri, 18 Jul 2025 10:05:45 GMT | Everything You Need to Know About Dockerfile: From Basics to Advanced Techniques | Harleen kaur | [Read More](https://medium.com/p/2e61c0cd94b0) |
 | Fri, 18 Jul 2025 09:58:44 GMT | Best Managed Cybersecurity Services In India - Net Access India Limited | Anbarasans | [Read More](https://medium.com/p/5fa105125cf4) |
-| Fri, 18 Jul 2025 09:58:29 GMT | From Zero to Super Admin: A Bug Story from My Internship | NizzCorp Academy | [Read More](https://medium.com/p/1f8ad7dd51cf) |
-| Fri, 18 Jul 2025 09:55:13 GMT | A Bright Future in Cyber security: | Naims Security | [Read More](https://medium.com/p/70bfae48f83c) |
-| Fri, 18 Jul 2025 09:54:13 GMT | Pepsi or Coke? When a Simple Childhood Choice Became So Much More | Adore | [Read More](https://medium.com/p/122defa5b0c2) |
-| Fri, 18 Jul 2025 09:49:12 GMT | Measuring Android Pattern Lock Strength with Shannon Entropy & Graph Theory | Ahmet Göker | [Read More](https://medium.com/p/add81068ce48) |
-| Fri, 18 Jul 2025 09:46:59 GMT | HEADLINE: It’s Painful, But it Makes Me Resonate More Than 97% of Writers | Godfrey The Great | [Read More](https://medium.com/p/76781589aa18) |
-| Fri, 18 Jul 2025 09:37:21 GMT | This Is Interesting but Who Would Use It? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/ecfdb86c2943) |
