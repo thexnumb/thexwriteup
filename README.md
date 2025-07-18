@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 01:35:17 GMT | Lo-Fi TryHackMe Walkthrough/Write-up | Vee Belgar | [Read More](https://medium.com/p/4a10377d41f0) |
+| Fri, 18 Jul 2025 01:19:08 GMT | Proof of Trustworthiness | Cory Wagaman-Eure | [Read More](https://medium.com/p/a89a27958f71) |
+| Fri, 18 Jul 2025 01:01:02 GMT | Mastering the Hunt: The Ultimate Guide to Modern Bug Bounty Hunting | Monika sharma | [Read More](https://medium.com/p/416357b08abb) |
+| Fri, 18 Jul 2025 01:00:38 GMT | My Virtual HomeLab: Active Directory — Part Five | Cybersec with Hemmars | [Read More](https://medium.com/p/a8b3953181af) |
+| Fri, 18 Jul 2025 00:53:22 GMT | 6 Ways Hackers Can Come After Your AWS Project! | Yajur | [Read More](https://medium.com/p/33fe9c5088d0) |
+| Fri, 18 Jul 2025 00:50:20 GMT | MCP and the Future of Contextual AI: Why It Matters More Than You Think | Sharon Duran | [Read More](https://medium.com/p/fbfe67c226b8) |
+| Fri, 18 Jul 2025 00:45:00 GMT | Drosera: Making Web3 Security Transparent and Community-Driven | mister00 | [Read More](https://medium.com/p/ee7b05f2b8c6) |
+| Fri, 18 Jul 2025 00:43:38 GMT | Cyberattacks Disrupting the Battlefield | Matthew.Rosenquist | [Read More](https://medium.com/p/05dfa8017866) |
+| Fri, 18 Jul 2025 00:37:25 GMT | Silent Spectrum: Is Ukraine Turning the Airwaves Into a Weapon? | Richard Miller | [Read More](https://medium.com/p/6db4318e07bd) |
+| Fri, 18 Jul 2025 00:35:09 GMT | SSRF via PDF Export in Analytics Dashboard | Monika sharma | [Read More](https://medium.com/p/54e304b438f9) |
+| Fri, 18 Jul 2025 00:34:49 GMT | $240 Bounty: Denial of Service Vulnerability in Python | Monika sharma | [Read More](https://medium.com/p/f42b24cfa066) |
+| Fri, 18 Jul 2025 00:22:01 GMT | Practical Implementation Approach #Understanding Azure TDE Security: My Learnings from a Technical… | Kasun Rathnayaka | [Read More](https://medium.com/p/4f1dd1f44f69) |
+| Fri, 18 Jul 2025 00:20:45 GMT | The 3 Cybersecurity Workflows That Changed How I Defend Networks | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/a7f40ad9090d) |
+| Fri, 18 Jul 2025 00:10:45 GMT | Secure Your Node.js Apps Like a Pro: The 2025 Edition | Aryan Garg | [Read More](https://medium.com/p/94c23145b4e8) |
+| Fri, 18 Jul 2025 00:01:48 GMT | Diseño Inseguro: Guía de Hacking, Bug Bounty y Prevención | JPablo13 | [Read More](https://medium.com/p/b8a50b23fb71) |
+| Thu, 17 Jul 2025 23:57:14 GMT | Fileless Malware: The Invisible Cyber Threat Hiding in Plain Sight | Akshay Chauhan | [Read More](https://medium.com/p/d016f92b7a71) |
+| Thu, 17 Jul 2025 23:52:13 GMT | ️ Phishing Email Analysis — My First Look Into Real-World Threats (TryHackMe Project) | Salmaan Ahmed Mustapha | [Read More](https://medium.com/p/45d6e8bb441a) |
+| Thu, 17 Jul 2025 23:51:22 GMT | Untimely Layoffs: Facing the Skills Gap With Intention | Myriad Security | [Read More](https://medium.com/p/76b5dd6a4e0d) |
+| Thu, 17 Jul 2025 23:51:08 GMT | This 3 Second Screen Share Mistake Killed a $50M Startup | Zudonu Osomudeya | [Read More](https://medium.com/p/db852b1aaf06) |
+| Thu, 17 Jul 2025 23:44:34 GMT | Azure Active Directroy vs. Active Directory: Why They’re Not Twins | Ashe Herrick | [Read More](https://medium.com/p/c3847ec86711) |
 | Thu, 17 Jul 2025 23:27:44 GMT | Researching LibreWolf: Is It Really The Best Privacy Broswer | Vincent | [Read More](https://medium.com/p/6d61bbe76e80) |
 | Thu, 17 Jul 2025 23:22:01 GMT | Cybersecurity Market Forecast from 2025 to 2030 | David SEHYEON Baek | [Read More](https://medium.com/p/6d7261c0fc44) |
 | Thu, 17 Jul 2025 23:21:54 GMT | Italy a cyber colony of the USA | FArruzzoli | [Read More](https://medium.com/p/d4cbd398838b) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 17 Jul 2025 17:00:15 GMT | Documenting my Cyber Security Journey | Joseph Thomas Gorman | [Read More](https://medium.com/p/b1c99ab4f511) |
 | Thu, 17 Jul 2025 16:34:34 GMT | PortSwigger Lab: Exploiting cache server normalization for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/a842755258dc) |
 | Thu, 17 Jul 2025 16:34:22 GMT | PortSwigger Lab: Lab Exploiting origin server normalization for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/526aac89e960) |
-| Thu, 17 Jul 2025 16:34:09 GMT | PortSwigger Lab: Exploiting path delimiters for web cache deception writeup | awes0meness | [Read More](https://medium.com/p/19747b8c4a4c) |
-| Thu, 17 Jul 2025 16:33:49 GMT | From HTML Injection to Admin Info Leak — My First Bug Bounty Payout | Taher | [Read More](https://medium.com/p/751a16b41518) |
-| Thu, 17 Jul 2025 16:32:45 GMT | Day 53: The Shell | Nile Okomo | [Read More](https://medium.com/p/464617e892ab) |
-| Thu, 17 Jul 2025 16:27:24 GMT | 5 Tips to Protect Your Smartphone from Getting Hacked | Syeda Aisha | [Read More](https://medium.com/p/7cf03d9bcd74) |
-| Thu, 17 Jul 2025 16:25:36 GMT | 5 Questions You Must Ask Yourself Before You Post Anything Online | DANIEL ANAGU | [Read More](https://medium.com/p/52b0503c3336) |
-| Thu, 17 Jul 2025 16:22:33 GMT | Why I Switched to CryptoXpress from MetaMask for Security Reasons | Ekereobong Umanah | [Read More](https://medium.com/p/d42ce31b44c9) |
-| Thu, 17 Jul 2025 16:19:31 GMT | Top Spy Apps for WhatsApp Monitoring: Track Chats Stealthily | Narjis Batool | [Read More](https://medium.com/p/0a3f9f2b6bee) |
-| Thu, 17 Jul 2025 16:16:01 GMT | My Latest Bug: Reflected XSS on GlobalProtect VPN Portal (CVE-2025–0133) | 0verRida | [Read More](https://medium.com/p/ba1649943250) |
-| Thu, 17 Jul 2025 16:16:01 GMT | When Indifference Hurts More than Words | Ink Within | [Read More](https://medium.com/p/f5024b1f2cc7) |
-| Thu, 17 Jul 2025 16:09:37 GMT | Questions of a Heart’s Ache | Aaliyah | [Read More](https://medium.com/p/2b86bd971f57) |
-| Thu, 17 Jul 2025 16:09:00 GMT | The Identity Wars -Ep4 | Amey Rugge | [Read More](https://medium.com/p/a541597d3a5c) |
-| Thu, 17 Jul 2025 16:05:11 GMT | Day 52: Ports | Nile Okomo | [Read More](https://medium.com/p/a0f699330221) |
-| Thu, 17 Jul 2025 16:03:58 GMT | Container Escape Prevention: Techniques You Need | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5bddf76e95cf) |
-| Thu, 17 Jul 2025 16:02:41 GMT | Contract with the Server Fairy | Alex Brox | [Read More](https://medium.com/p/4cdf02a33494) |
-| Thu, 17 Jul 2025 16:01:23 GMT | Signal App in 2025: The Platform Wars — Android vs iOS Deep Dive | TechEd Publishers | [Read More](https://medium.com/p/ba83aa75e0e9) |
-| Thu, 17 Jul 2025 15:59:57 GMT | How I Use the DeFi Watchdog Unified Security API to Secure Smart Contracts (Part 1) | charingane | [Read More](https://medium.com/p/357f424efe98) |
-| Thu, 17 Jul 2025 15:51:22 GMT | Why Cybersecurity Must Be at the Core of Every MSP Strategy in 2025 | Donald Betancourt | [Read More](https://medium.com/p/0282eb9399d1) |
-| Thu, 17 Jul 2025 15:36:28 GMT | Can You Maintain Your Website Alone — Or Should You Hire a Pro? | DigiGenHub | [Read More](https://medium.com/p/b2f593850e40) |
-| Thu, 17 Jul 2025 15:36:12 GMT | Yes — this is truly good work. | The Prophet Aaron Vessel the Christ Consciousness | [Read More](https://medium.com/p/a06af8d8a376) |
-| Thu, 17 Jul 2025 15:35:07 GMT | I Went on the Dark Web and Instantly Regretted It | atheer | [Read More](https://medium.com/p/833b2503341d) |
