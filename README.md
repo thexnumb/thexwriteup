@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 14:18:50 GMT | TryHackMe: Net Sec Challenge — Practical Network Security Walkthrough | Xtrud3r | [Read More](https://medium.com/p/21fff1aceba8) |
+| Fri, 18 Jul 2025 14:17:24 GMT | What The New Superman Movie Showed Me About the Age of Outrage | Ryan Without Armor | [Read More](https://medium.com/p/3e1f4081dd28) |
+| Fri, 18 Jul 2025 14:13:11 GMT | I was just another student until I found this... | Newton Tech Navigator | [Read More](https://medium.com/p/1619c818e1de) |
+| Fri, 18 Jul 2025 14:09:18 GMT | RootMe: ELF_x86_Basic | Rahaliashraf | [Read More](https://medium.com/p/3dd3f63bdeb6) |
+| Fri, 18 Jul 2025 14:02:24 GMT | Cyber Briefing: 2025.07.18 | CyberMaterial | [Read More](https://medium.com/p/e5a87ad245ca) |
+| Fri, 18 Jul 2025 14:02:22 GMT | Securing Snowflake API Request: Building a Custom OAuth Client with FastAPI | Fabian Hernandez | [Read More](https://medium.com/p/a2dd453c9ca0) |
+| Fri, 18 Jul 2025 13:51:00 GMT | What Is Malware? And Why “Free Downloads” Might Be Dangerous. | Thomas Angela | [Read More](https://medium.com/p/f97ad7ed0a32) |
+| Fri, 18 Jul 2025 13:43:48 GMT | ️Breaking a PHP App with Nothing But Cookies and XML | Jabaribrown | [Read More](https://medium.com/p/4c519c046533) |
+| Fri, 18 Jul 2025 13:39:57 GMT | In today’s digital economy, UPI has revolutionized how we think about instant payments. | bepay | [Read More](https://medium.com/p/552650561326) |
+| Fri, 18 Jul 2025 13:37:26 GMT | Anonforce - TryHackMe CTF Çözümü | Berat Çam | [Read More](https://medium.com/p/30ff09f69488) |
+| Fri, 18 Jul 2025 13:37:11 GMT | The 5 Cybersecurity Roles That Will Disappear First | shahid irfan | [Read More](https://medium.com/p/5b405fa8bb27) |
+| Fri, 18 Jul 2025 13:34:17 GMT | 5 Real-Life Cyber Lessons Every Parent Should Teach Their Kids | Shatrughan Singh | [Read More](https://medium.com/p/36fab541e8c7) |
 | Fri, 18 Jul 2025 13:23:12 GMT | Advanced Debugging for Java/Kotlin: Part 1 — Hidden Stacks Overflowing | Miki Mendelson | [Read More](https://medium.com/p/3cf070bca8b0) |
 | Fri, 18 Jul 2025 13:22:59 GMT | Architecture Development Method (ADM) | Mohammed Brückner | [Read More](https://medium.com/p/364dc48e8114) |
+| Fri, 18 Jul 2025 13:21:41 GMT | SOC Nedir ? Neler Yapar ? | Taha | [Read More](https://medium.com/p/a1a0f34bd8d0) |
 | Fri, 18 Jul 2025 13:20:46 GMT | Immunefi Banned Me for Reporting a Real Replay Attack in LayerZero V2 | Tangouvitch | [Read More](https://medium.com/p/71d5ee0ff102) |
 | Fri, 18 Jul 2025 13:19:02 GMT | CTF Day(35) | Ahmed Narmer | [Read More](https://medium.com/p/35bcc6f322eb) |
 | Fri, 18 Jul 2025 13:19:00 GMT | HOW YOUR EMAIL GETS HACKED: And What You Can Do About It | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/48d1bd3e1bd3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 09:20:07 GMT | How to Remove Malware from WordPress & Secure Your Site | Dishang | [Read More](https://medium.com/p/b86348fb203c) |
 | Fri, 18 Jul 2025 09:10:38 GMT | Fawn Lab Solution: Exploring FTP Security Basics on Hack The Box’s Tier 0 Machine | Gopal Mohan | [Read More](https://medium.com/p/cef40db8f02c) |
 | Fri, 18 Jul 2025 09:01:25 GMT | Why Ethical Hacking Is the Career of the Future in India | Dineshathul | [Read More](https://medium.com/p/59b198a169a1) |
-| Fri, 18 Jul 2025 08:59:15 GMT | RESPONSE TO “THE END OF SPACE AND TIME: BIGGEST PHYSICS PROBLEM” | OmegaPhazon  Ask Questions I Like To Reply To Tuff | [Read More](https://medium.com/p/348c049fbd35) |
-| Fri, 18 Jul 2025 08:50:45 GMT | Meow Challenge: Your First Steps in Cybersecurity with Hack The Box’s Tier 0 Starting point Lab | Gopal Mohan | [Read More](https://medium.com/p/d2925ae6396a) |
-| Fri, 18 Jul 2025 08:49:56 GMT | RESPONSE: The World Warns of AI Dangers. We Already Walked Through the Fire. | OmegaPhazon  Ask Questions I Like To Reply To Tuff | [Read More](https://medium.com/p/94224149c977) |
-| Fri, 18 Jul 2025 08:48:31 GMT | Top Cybersecurity Companies in Abu Dhabi in 2026 | Bluechip Gulf Abu Dhabi | [Read More](https://medium.com/p/67150b91082e) |
-| Fri, 18 Jul 2025 08:44:55 GMT | Data Poisoning — The tsunami that  no one talks about | Ravi Pratap Singh Chauhan | [Read More](https://medium.com/p/9e6ca75eb783) |
-| Fri, 18 Jul 2025 08:44:34 GMT | Post Quantum Signatures with the Wolf | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/fa2d03e3a35c) |
-| Fri, 18 Jul 2025 08:38:11 GMT | Meta Bug Bounty: Unauthorized Access and Control Over Private Image IDs on meta ai | ali jaafer | [Read More](https://medium.com/p/96ccc1b78030) |
-| Fri, 18 Jul 2025 08:36:27 GMT | Hack The Box Walkthrough: A Beginner’s Guide to Pwning ‘Meow’ | Praharsha Kumar | [Read More](https://medium.com/p/f30c2824c1b9) |
-| Fri, 18 Jul 2025 08:33:34 GMT | “$ Unearthing Digital Ghosts: How Deleted GitHub Files Can Make Your Bug Bounty Fortune” | Aman Sharma | [Read More](https://medium.com/p/e3335a74a049) |
-| Fri, 18 Jul 2025 08:31:56 GMT | What You Need to Know About the WordPress Current Version | Bhavesh Rajpurohit | [Read More](https://medium.com/p/bf1809dcab25) |
-| Fri, 18 Jul 2025 08:30:28 GMT | TYPES OF HACKERS — NOT ALL ARE BAD | Anupam Singh | [Read More](https://medium.com/p/a76e9647f5c3) |
-| Fri, 18 Jul 2025 08:28:20 GMT | How ITProfiles Solves Real Problems in the B2B Industry (That Nobody Likes to Talk About) | Agatha Griffin | [Read More](https://medium.com/p/a8100f2837a1) |
-| Fri, 18 Jul 2025 08:25:18 GMT | My Smart Home Betrayed Me | Aj | [Read More](https://medium.com/p/3c15a9aa54a0) |
