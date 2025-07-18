@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 19:07:48 GMT | Pork CTF writeup | Ed Lustig | [Read More](https://medium.com/p/cfdf21ea9a17) |
+| Fri, 18 Jul 2025 18:58:13 GMT | Laika AI and the Evolution of Secure On-Chain Intelligence | Archaebong | [Read More](https://medium.com/p/7f200cbf8881) |
+| Fri, 18 Jul 2025 18:53:52 GMT | [Flash Blogs] Cybersecurity Meets AI: Automating STRIDE-Based Threat Modeling | Ankit Saini(@d3afh3av3n) | [Read More](https://medium.com/p/108a0c35a1a8) |
+| Fri, 18 Jul 2025 18:52:43 GMT | The Digital Battlefield: Unpacking Nation-State Cyber Warfare | CapitalCoin | [Read More](https://medium.com/p/cdcd05e7eb17) |
+| Fri, 18 Jul 2025 18:45:41 GMT | Building a Professional Network Scanner: From Basic Script to Advanced Security Tool | Farhan Ansari | [Read More](https://medium.com/p/2b48e1546ea0) |
+| Fri, 18 Jul 2025 18:44:58 GMT | Detect and exploit basic Stored XSS vulnerability. And nothing special :( | Will.Star | [Read More](https://medium.com/p/c350e0f50df4) |
+| Fri, 18 Jul 2025 18:41:47 GMT | The Art of Crafting a Perfect Payload | Sai Krishna | [Read More](https://medium.com/p/7864a929081e) |
+| Fri, 18 Jul 2025 18:38:29 GMT | Cloud Threat Luring: Setting Up T-Pot 24.04.1 on Google Cloud Platform for Analysis | Aeronique | [Read More](https://medium.com/p/d4ba1a9443bc) |
+| Fri, 18 Jul 2025 18:37:47 GMT | One Tool to Rule JWTs — Easy JWT Pentesting with JWTAuditor | Sid Joshi | [Read More](https://medium.com/p/d1984cff0b23) |
+| Fri, 18 Jul 2025 18:34:10 GMT | Nmap for Bug Bounty: Essential Commands Every Hunter Should Know | SAMAEL 0x4 | [Read More](https://medium.com/p/77fd4fe47703) |
+| Fri, 18 Jul 2025 18:31:01 GMT | “Who Are You?” and Why That Question Matters Most | Ketan Polawar | [Read More](https://medium.com/p/abcfb74c8e22) |
+| Fri, 18 Jul 2025 18:21:01 GMT | Thousands of WordPress Sites at Risk After Gravity Forms Breach | Feroot Security | [Read More](https://medium.com/p/46a040b45a30) |
 | Fri, 18 Jul 2025 18:17:38 GMT | DAY 18 — Wireshark Investigation- KOI Loader | Jinay | [Read More](https://medium.com/p/2fba09805e19) |
 | Fri, 18 Jul 2025 18:17:22 GMT | What is Working in Email Security in 2025? | anurag sharma | [Read More](https://medium.com/p/2644075539eb) |
 | Fri, 18 Jul 2025 18:04:15 GMT | Why I’m Finally Sharing | Maria Ghaziri | [Read More](https://medium.com/p/216f1121d02c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 13:20:46 GMT | Immunefi Banned Me for Reporting a Real Replay Attack in LayerZero V2 | Tangouvitch | [Read More](https://medium.com/p/71d5ee0ff102) |
 | Fri, 18 Jul 2025 13:19:02 GMT | CTF Day(35) | Ahmed Narmer | [Read More](https://medium.com/p/35bcc6f322eb) |
 | Fri, 18 Jul 2025 13:19:00 GMT | HOW YOUR EMAIL GETS HACKED: And What You Can Do About It | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/48d1bd3e1bd3) |
-| Fri, 18 Jul 2025 13:09:32 GMT | Cracking AES-CTR: A Known Plaintext Decryption Walkthrough | Vishwas Adhikari | [Read More](https://medium.com/p/8a46dec79594) |
-| Fri, 18 Jul 2025 13:09:18 GMT | Citrix Bleed 2: Critical RCE Flaw in 2025 | Kalariya Het | [Read More](https://medium.com/p/7722458c6a3e) |
-| Fri, 18 Jul 2025 13:08:26 GMT | Same Bug, Different Places: 3 Logic Flaws I Found on Main Domain | nooh zidan | [Read More](https://medium.com/p/90608ced8d4c) |
-| Fri, 18 Jul 2025 13:03:18 GMT | Cracking Ray-Ban Stories: How a Firmware Tweak Exposed Privacy Risks | Kalariya Het | [Read More](https://medium.com/p/33e28189854f) |
-| Fri, 18 Jul 2025 13:01:45 GMT | Welcome To The Anti-Scam Diaries: Why We’re Exposing The Dark Side Of The Internet. | The Anti-Scam Diaries | [Read More](https://medium.com/p/845fc9019cf1) |
-| Fri, 18 Jul 2025 13:00:47 GMT | Google’s “Find My Device” Now Works Without Internet – Here’s How to Track Offline (2025) | Digimad.online | [Read More](https://medium.com/p/240d52034800) |
-| Fri, 18 Jul 2025 12:59:12 GMT | Apple vs Android in 2025: Who’s Winning the Innovation Race? | Digimad.online | [Read More](https://medium.com/p/a2071bfb550a) |
-| Fri, 18 Jul 2025 12:58:36 GMT | What Is an Investment Adviser? | Itsolutioninpak | [Read More](https://medium.com/p/7a93cd6b8742) |
-| Fri, 18 Jul 2025 12:48:13 GMT | QA Meets Cybersecurity: How I Audited a React App Like a Pro | Mohamed Azharudeen | [Read More](https://medium.com/p/a81597d1eb81) |
-| Fri, 18 Jul 2025 12:44:43 GMT | Web3 Security Starts with You: Best Practices with Hive Keychain | Hive Keychain | [Read More](https://medium.com/p/75c9540eecae) |
-| Fri, 18 Jul 2025 12:36:15 GMT | A Beginner’s Real-World Penetration Testing Walkthrough on Metasploitable2 | LB Cyber Journal | [Read More](https://medium.com/p/f904a0371e3d) |
-| Fri, 18 Jul 2025 12:27:14 GMT | Timing is the Real Vulnerability – My Deep Dive into Time-Based Exploits | Sunny Kumar | [Read More](https://medium.com/p/8745fd2b06b5) |
