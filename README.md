@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 17:14:45 GMT | How to Check CIS Benchmarks in Cloud and on premise And Worry Less About ISMS | Alireza Mokhtari | [Read More](https://medium.com/p/48525990f0af) |
+| Fri, 18 Jul 2025 17:09:27 GMT | Role of Machine Learning in Modern Data Science | Richa Ghosh | [Read More](https://medium.com/p/ce495e769476) |
+| Fri, 18 Jul 2025 17:07:19 GMT | Prompt Injection Attack on Evil-GPT v2: TryHackMe Walkthrough & AI Security Analysis | Aravind S V | [Read More](https://medium.com/p/063d0b5c1ed2) |
+| Fri, 18 Jul 2025 17:01:50 GMT | How to setup a darkweb site | umbraXsecure | [Read More](https://medium.com/p/d4d13a2afed4) |
+| Fri, 18 Jul 2025 16:55:49 GMT | CVE-2025–4919 [for Dummies] | dannyDUD | [Read More](https://medium.com/p/d7603dec5a34) |
+| Fri, 18 Jul 2025 16:53:58 GMT | What the Job Market Can Teach Us About App Security (Spoiler: It’s Kinda Broken) | Chris J Shelby | [Read More](https://medium.com/p/a9bfd424f7f5) |
+| Fri, 18 Jul 2025 16:53:31 GMT | Broken Access Control | t0x1k | [Read More](https://medium.com/p/89c8fc5149da) |
+| Fri, 18 Jul 2025 16:51:57 GMT | Google Sues Chinese Hackers Behind BadBox 2.0 — World’s Largest Smart TV Botnet. | eL Njas!™ | [Read More](https://medium.com/p/c64239ffe53c) |
 | Fri, 18 Jul 2025 16:40:31 GMT | If This Were a Security Alert, I’d Flag It: What a Job Post Taught Me About LinkedIn UX | Gitika Babbar | [Read More](https://medium.com/p/548808fb1ae4) |
 | Fri, 18 Jul 2025 16:40:19 GMT | TryHackMe W1seGuy — Solved with Only CyberChef (No Scripts!) | Soumyashree Sahoo | [Read More](https://medium.com/p/51f636e3b178) |
 | Fri, 18 Jul 2025 16:30:21 GMT | Stay Ahead in Cybersecurity: Discover the Power of the CVE Search Tool by Security Toolkit | Haxshadow | [Read More](https://medium.com/p/ce626c0dc483) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 11:40:48 GMT | ️ RedTeam.Blue: A Crucial Hub for InfoSec Professionals | MrGood | [Read More](https://medium.com/p/fc720319bdda) |
 | Fri, 18 Jul 2025 11:38:30 GMT | Breaking Down NIST CSF 2.0: Categories and Sub-Categories (with Real-World Examples) | Brittney Ginther | [Read More](https://medium.com/p/9bc611c87eab) |
 | Fri, 18 Jul 2025 11:35:16 GMT | Password Change Doesn’t Expire Sessions — A Hidden Risk in Session Management | Gourav(spidergk) | [Read More](https://medium.com/p/701c884aa86c) |
-| Fri, 18 Jul 2025 11:32:59 GMT | Linux Security Part 1: Secure Your Server with faillock Against Brute-Force Attacks | Karthick Dkk | [Read More](https://medium.com/p/e4f0f34bd655) |
-| Fri, 18 Jul 2025 11:32:59 GMT | Bludgeoned Buzzwords: Lift and Shift | Namir Sagheenanajar | [Read More](https://medium.com/p/e36c2171d163) |
-| Fri, 18 Jul 2025 11:28:44 GMT | Security Guard Responsibilities: What Every Client Should Know | Sumintra | [Read More](https://medium.com/p/a66088ebaf74) |
-| Fri, 18 Jul 2025 11:28:06 GMT | How to Write, Publish and Communicate Your Information Security Policy | Jenny Feneley | [Read More](https://medium.com/p/0815d449b1c0) |
-| Fri, 18 Jul 2025 11:27:11 GMT | This is What Real Cybersecurity Learning Looks Like | The Quiet Hacker | [Read More](https://medium.com/p/770edd451dd4) |
-| Fri, 18 Jul 2025 11:26:57 GMT | Certified but Stuck: The Silent Struggle of Entry-Level Pentesters | Regan Temudo | [Read More](https://medium.com/p/290e37b76c20) |
-| Fri, 18 Jul 2025 11:25:51 GMT | RooteMe: ELF x86–0 protection | Rahaliashraf | [Read More](https://medium.com/p/705e06d37ef6) |
-| Fri, 18 Jul 2025 11:12:54 GMT | Why Using The Phone Password to Unlock WhatsApp Maybe Unsafe | Nwaeze Joshua Nonso | [Read More](https://medium.com/p/1c632cebbebf) |
