@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 08:28:20 GMT | How ITProfiles Solves Real Problems in the B2B Industry (That Nobody Likes to Talk About) | Agatha Griffin | [Read More](https://medium.com/p/a8100f2837a1) |
+| Fri, 18 Jul 2025 08:25:18 GMT | My Smart Home Betrayed Me | Aj | [Read More](https://medium.com/p/3c15a9aa54a0) |
+| Fri, 18 Jul 2025 08:17:31 GMT | What is Perplexity Spaces? | Myra Jarenga | [Read More](https://medium.com/p/7816cf22696c) |
+| Fri, 18 Jul 2025 08:17:07 GMT | AI vs Hackers: The Role of Machine Learning in Cyber Defence | EuroAmerican Education Group | [Read More](https://medium.com/p/e3190e36a599) |
+| Fri, 18 Jul 2025 08:15:34 GMT | Why Updating Google Chrome 138.0.7204.157 is Critical | Easy2Patch | [Read More](https://medium.com/p/d14e959c72f8) |
+| Fri, 18 Jul 2025 08:08:50 GMT | The Cloud Security Crucible: The Reality of the Role and Your Detailed Roadmap to Success | Abhijith Soman | [Read More](https://medium.com/p/5161d00ec89f) |
+| Fri, 18 Jul 2025 08:02:21 GMT | AI Agents Security: From “Ignore previous instructions” to Observability and Threats Models | noailabs | [Read More](https://medium.com/p/b65a9cc864f7) |
+| Fri, 18 Jul 2025 08:00:14 GMT | How to become a cybersecurity expert in India | Manisha Chaudhary | [Read More](https://medium.com/p/ad46ae8d06bd) |
+| Fri, 18 Jul 2025 07:55:42 GMT | Why I Stopped Blindly Trusting Open Source Libraries: A Developer’s Guide to Dependency Security | TheOpinionatedDev | [Read More](https://medium.com/p/b576a5888a63) |
+| Fri, 18 Jul 2025 07:54:52 GMT | How Google is Redefining Cybersecurity with AI in 2025. | Technologic Innovation | [Read More](https://medium.com/p/bc3563e6b27c) |
+| Fri, 18 Jul 2025 07:52:45 GMT | Insufficient Workflow Validation: A Logic Flaw Case Study | Bash Overflow | [Read More](https://medium.com/p/f1fbd1774716) |
+| Fri, 18 Jul 2025 07:51:01 GMT | Study in Australia — Your Global Future Starts Here! | AIST | [Read More](https://medium.com/p/bb3fda46d062) |
+| Fri, 18 Jul 2025 07:50:21 GMT | From SAST to CVE-2025–46337 | Marco Nappi | [Read More](https://medium.com/p/bc2534c01864) |
+| Fri, 18 Jul 2025 07:49:44 GMT | Why Cybersecurity Solutions Are Critical for Every Modern Business | Vsgangaraju | [Read More](https://medium.com/p/66a3d766d62c) |
+| Fri, 18 Jul 2025 07:43:13 GMT | Top 7 Cybersecurity Risk Management Tools to Stop Cyberattacks Cold | SecureSlate | [Read More](https://medium.com/p/fc72b0fc12bc) |
 | Fri, 18 Jul 2025 07:39:12 GMT | Elastic Heart: How a Misconfigured Kibana Dashboard Sang Like a Canary | Iski | [Read More](https://medium.com/p/b719c7377964) |
 | Fri, 18 Jul 2025 07:32:16 GMT | My Relentless Fight Against the Silent Threat of Ocean Acidification | Leo Daniel | [Read More](https://medium.com/p/8297bb632a6a) |
 | Fri, 18 Jul 2025 07:28:24 GMT | Using leaked data to examine vulnerabilities in SMS routing and SS7 signalling | Lighthouse Reports | [Read More](https://medium.com/p/8e30298491d9) |
@@ -35,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 06:33:51 GMT | The Basics Matter: Enumeration and Brute Forcing | hexidecimal | [Read More](https://medium.com/p/a4a31de946b5) |
 | Fri, 18 Jul 2025 06:25:52 GMT | Hydraulic Guest Blogging | Whyps | [Read More](https://medium.com/p/706fa3844b4b) |
 | Fri, 18 Jul 2025 06:24:25 GMT | Secure Your Property: Video Analytics for Fire and Smoke Detection in the KUWAIT | expbhavya | [Read More](https://medium.com/p/a413b33b05b8) |
+| Fri, 18 Jul 2025 06:16:59 GMT | Video Analiz: Güvenlik Teknolojilerinde Yeni Nesil Dönüşüm | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/e763efd85bdb) |
 | Fri, 18 Jul 2025 06:14:46 GMT | Don’t Let Lag Win: 6 VPN Tips Every Gamer Should Know | Cloudbric VPN | [Read More](https://medium.com/p/f47aba0b9694) |
 | Fri, 18 Jul 2025 06:12:47 GMT | Top Dark Web Forums With .onion Links to Explore in 2025 | adityaax | [Read More](https://medium.com/p/9ad4daab27f3) |
 | Fri, 18 Jul 2025 06:10:07 GMT | What Every QA Should Know About Epics, User Stories, and Tasks | Nirmal Kiran Patel | [Read More](https://medium.com/p/7d068b6b959a) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 00:22:01 GMT | Practical Implementation Approach #Understanding Azure TDE Security: My Learnings from a Technical… | Kasun Rathnayaka | [Read More](https://medium.com/p/4f1dd1f44f69) |
 | Fri, 18 Jul 2025 00:20:45 GMT | The 3 Cybersecurity Workflows That Changed How I Defend Networks | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/a7f40ad9090d) |
 | Fri, 18 Jul 2025 00:10:45 GMT | Secure Your Node.js Apps Like a Pro: The 2025 Edition | Aryan Garg | [Read More](https://medium.com/p/94c23145b4e8) |
-| Fri, 18 Jul 2025 00:01:48 GMT | Diseño Inseguro: Guía de Hacking, Bug Bounty y Prevención | JPablo13 | [Read More](https://medium.com/p/b8a50b23fb71) |
-| Thu, 17 Jul 2025 23:57:14 GMT | Fileless Malware: The Invisible Cyber Threat Hiding in Plain Sight | Akshay Chauhan | [Read More](https://medium.com/p/d016f92b7a71) |
-| Thu, 17 Jul 2025 23:52:13 GMT | ️ Phishing Email Analysis — My First Look Into Real-World Threats (TryHackMe Project) | Salmaan Ahmed Mustapha | [Read More](https://medium.com/p/45d6e8bb441a) |
-| Thu, 17 Jul 2025 23:51:22 GMT | Untimely Layoffs: Facing the Skills Gap With Intention | Myriad Security | [Read More](https://medium.com/p/76b5dd6a4e0d) |
-| Thu, 17 Jul 2025 23:51:08 GMT | This 3 Second Screen Share Mistake Killed a $50M Startup | Zudonu Osomudeya | [Read More](https://medium.com/p/db852b1aaf06) |
-| Thu, 17 Jul 2025 23:44:34 GMT | Azure Active Directroy vs. Active Directory: Why They’re Not Twins | Ashe Herrick | [Read More](https://medium.com/p/c3847ec86711) |
-| Thu, 17 Jul 2025 23:27:44 GMT | Researching LibreWolf: Is It Really The Best Privacy Broswer | Vincent | [Read More](https://medium.com/p/6d61bbe76e80) |
-| Thu, 17 Jul 2025 23:22:01 GMT | Cybersecurity Market Forecast from 2025 to 2030 | David SEHYEON Baek | [Read More](https://medium.com/p/6d7261c0fc44) |
-| Thu, 17 Jul 2025 23:21:54 GMT | Italy a cyber colony of the USA | FArruzzoli | [Read More](https://medium.com/p/d4cbd398838b) |
-| Thu, 17 Jul 2025 23:16:58 GMT | Firewall: Lone Star Rebellion | Benjaminmillerdev | [Read More](https://medium.com/p/9f2cb1b2233f) |
-| Thu, 17 Jul 2025 22:58:27 GMT | How I Make Money Every Day Using AI (No Degree, No Office Job) | Ooreagboola | [Read More](https://medium.com/p/c46a5a719fbe) |
-| Thu, 17 Jul 2025 22:40:09 GMT | Identity and Verification in the Age of Digital Health | Ria Sinha | [Read More](https://medium.com/p/28ce4fa53748) |
-| Thu, 17 Jul 2025 22:32:57 GMT | SKYNET WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/d70ea905ad3c) |
-| Thu, 17 Jul 2025 22:25:26 GMT | You vs. AI-Powered Hackers: 4 Real Breaches That Prove No One’s Safe | Cyber-AppSec | [Read More](https://medium.com/p/2c1e28af6601) |
-| Thu, 17 Jul 2025 22:23:58 GMT | I Booked a Hotel on Booking.com — Then Came the Phishing Attack | Pascal Asch | [Read More](https://medium.com/p/072f4e2109e3) |
-| Thu, 17 Jul 2025 22:19:10 GMT | The Linux Security Journey — OpenSSH | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/eeb7d168f8e5) |
