@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 18 Jul 2025 11:12:54 GMT | Why Using The Phone Password to Unlock WhatsApp Maybe Unsafe | Nwaeze Joshua Nonso | [Read More](https://medium.com/p/1c632cebbebf) |
+| Fri, 18 Jul 2025 11:07:15 GMT | Initvalue: Empowering Businesses with Cutting-Edge AI Solutions in Bangalore | Mohammed Zishan | [Read More](https://medium.com/p/18f3ebcdadf6) |
+| Fri, 18 Jul 2025 11:06:56 GMT | Hackers Could Remotely Stop Trains Using Cheap Gear, Experts Warn | SafetyDetectives Research Team | [Read More](https://medium.com/p/0b71870dc467) |
+| Fri, 18 Jul 2025 11:06:50 GMT | Essential Guide to Strengthening Your WordPress Admin Security | Themeglance | [Read More](https://medium.com/p/78e2457cb0e1) |
+| Fri, 18 Jul 2025 11:04:37 GMT | In an era marked by rising crime rates, increasing urbanization, and heightened awareness around… | Ciss India | [Read More](https://medium.com/p/7ffb5e51e6d5) |
+| Fri, 18 Jul 2025 11:03:19 GMT | Louis Vuitton Confirms UK Customer Data Breach in Third LVMH Attack This Year | SafetyDetectives Research Team | [Read More](https://medium.com/p/d0286f297745) |
+| Fri, 18 Jul 2025 10:55:27 GMT | Cloud Security Engineer Roles in Startup Hubs Like Mysore | Giribabu V | [Read More](https://medium.com/p/397ce9b948aa) |
+| Fri, 18 Jul 2025 10:53:22 GMT | Why Every Business Needs Freight Forwarding: The Complete Guide | Arrkay.DM | [Read More](https://medium.com/p/d05524a06511) |
+| Fri, 18 Jul 2025 10:49:57 GMT | Beyond Screen Limits: Cultivating Digital Wisdom at Home | Kevin Mwenda | [Read More](https://medium.com/p/a4c6bab1fb8d) |
+| Fri, 18 Jul 2025 10:48:40 GMT | Analyzing Event and Alert - Deep Dive SIEM Part 7 | Bit_Picker | [Read More](https://medium.com/p/f6f79f6ee221) |
 | Fri, 18 Jul 2025 10:41:22 GMT | From Penetration Tester to Trusted Partner: Why Technical Skills Alone Won’t Get You Hired | Ehtisham Fakhar | [Read More](https://medium.com/p/1522cb4ff297) |
 | Fri, 18 Jul 2025 10:33:02 GMT | How to Protect Apps and APIs from Zero-Day Attacks? | Maverick Steel | [Read More](https://medium.com/p/c2754882b590) |
 | Fri, 18 Jul 2025 10:31:03 GMT | The 7 Ghosts of Cybersecurity-Part 2: Confronting the Final Three Digital Monsters | Xperts Unimited | [Read More](https://medium.com/p/5cf3c181b799) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 18 Jul 2025 06:02:09 GMT | How I Built a Fully Functional SOC Lab with Wazuh | Sohan Kanna D | [Read More](https://medium.com/p/0f5a169f7218) |
 | Fri, 18 Jul 2025 06:01:18 GMT | Where is Strategic Information System in multinational organization? | Bilal Kobanoğlu, PhD | [Read More](https://medium.com/p/bb10369908e9) |
 | Fri, 18 Jul 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Jul 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/301b282e987a) |
-| Fri, 18 Jul 2025 06:00:06 GMT | Write What Disturbs You | Amrah Ijaz | [Read More](https://medium.com/p/4388602399fb) |
-| Fri, 18 Jul 2025 05:58:51 GMT | Active Reconnaissance on TryHackMe | LB Cyber Journal | [Read More](https://medium.com/p/d52eae2e490c) |
-| Fri, 18 Jul 2025 05:58:35 GMT | ️‍♂️ Passive Reconnaissance Using Google: A Beginner’s Guide to Ethical OSINT | CYber VIaz | [Read More](https://medium.com/p/37d8a834eb5f) |
-| Fri, 18 Jul 2025 05:58:21 GMT | Linux Networking -Part 3: Firewalld & UFW Best Guide — How to Allow/Block Efficiently | Karthick Dkk | [Read More](https://medium.com/p/1512935d4d05) |
-| Fri, 18 Jul 2025 05:58:12 GMT | Best Security Guards Service Provider in Gurugram - Manpowersecurityservice | Dhruv | [Read More](https://medium.com/p/22f89e5037bc) |
-| Fri, 18 Jul 2025 05:34:58 GMT | Certified Red Team Professional (CRTP) | Ramazan | [Read More](https://medium.com/p/c833cb350f1d) |
-| Fri, 18 Jul 2025 05:33:21 GMT | When AI Negotiates the Ransom: The Rise of Smarter, Scarier Ransomware | Paritosh | [Read More](https://medium.com/p/4377c7e6a181) |
-| Fri, 18 Jul 2025 05:32:52 GMT | Escalating Privileges with SUID-Enabled find: A Practical Example | Kiptryin | [Read More](https://medium.com/p/579f0bc617da) |
-| Fri, 18 Jul 2025 05:31:48 GMT | Zero Keys. Zero Leaks — DevSecOps Powered Pipeline | AnythingOps | [Read More](https://medium.com/p/7adf1548d060) |
-| Fri, 18 Jul 2025 05:26:22 GMT | Difference Between IT Security and Cybersecurity: Explained Simply | Dhanashri Bhale | [Read More](https://medium.com/p/36b3d226c113) |
