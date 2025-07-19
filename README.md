@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 16:17:10 GMT | Acknowledged by Microsoft — For a Bug I Almost Didn’t Report | Harsh kothari | [Read More](https://medium.com/p/d32033ef3fec) |
+| Sat, 19 Jul 2025 16:16:55 GMT | Allowing Myself to Let Go: An Act of Inner Courage. | Solnaciente | [Read More](https://medium.com/p/6e4311a36e68) |
+| Sat, 19 Jul 2025 16:08:52 GMT | “Watch Tower” - Modbus Protocol Forensics - HTB Challenge Write-Up | Or Balog | [Read More](https://medium.com/p/b2288b45368c) |
+| Sat, 19 Jul 2025 16:08:09 GMT | OpenAI’s Red Teaming Sets the Gold Standard for AI Security | Pawel | [Read More](https://medium.com/p/a71df1a8bedd) |
+| Sat, 19 Jul 2025 16:06:49 GMT | MidJourney vs. Copyright: What an “Iron Man” Prompt Reveals About the AI Legal Crisis | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/ba4ec5d72047) |
+| Sat, 19 Jul 2025 16:01:03 GMT | Network Security: The First Line of Cyber Defense | Dany Christel | [Read More](https://medium.com/p/e842b059a700) |
+| Sat, 19 Jul 2025 16:00:24 GMT | Try Hack Me : Session Management -Task6 | Rindaman666 | [Read More](https://medium.com/p/4ff3ace28ceb) |
+| Sat, 19 Jul 2025 15:59:20 GMT | How to Choose the Best Social Media Marketing Company in Ahmedabad | Savan Varotariya | [Read More](https://medium.com/p/63f5483fb43b) |
+| Sat, 19 Jul 2025 15:54:40 GMT | DAY 19 — Chapter 9: Archving, Compressing & Recovering | Jinay | [Read More](https://medium.com/p/5b8847a13aec) |
+| Sat, 19 Jul 2025 15:54:32 GMT | Engineering Excellence: A Developer’s Guide to Industry-Proven Practices | Purnima Katiyar | [Read More](https://medium.com/p/ccadb1ae1583) |
 | Sat, 19 Jul 2025 15:38:56 GMT | A Deep Dive into OWASP A03:2021 — Injection Flaws Explained (SQL Injection & Sanitization) | Hussein Reda | [Read More](https://medium.com/p/71aa0bae3aac) |
 | Sat, 19 Jul 2025 15:36:02 GMT | The Islamic Republic: A Two-Body Serpent with a Thousand Faces | Shabangard | [Read More](https://medium.com/p/2baa80889c22) |
 | Sat, 19 Jul 2025 15:32:49 GMT | Stuck in the Bug Bounty Learning Trap: Breaking Through the Plateau That’s Holding You Back | Andrei Ivan | [Read More](https://medium.com/p/da17eb3a204b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 10:08:09 GMT | CTF Day(36) | Ahmed Narmer | [Read More](https://medium.com/p/9160f10ed293) |
 | Sat, 19 Jul 2025 09:52:19 GMT | How I Gave My AWS Account a Health Check-Up with Trusted Advisor | AashishChaudhari | [Read More](https://medium.com/p/2bd81b5e6088) |
 | Sat, 19 Jul 2025 09:50:31 GMT | Data Security & Compliance in Smart Ports: How Envision Mitigates Cyber Risk | P Harshavardhan | [Read More](https://medium.com/p/99d95d61165d) |
-| Sat, 19 Jul 2025 09:47:13 GMT | The Chaos of Being Human (& the Art of Pretending We’re Fine) | Vandana Nagarkoti | [Read More](https://medium.com/p/31c6a0dbde5d) |
-| Sat, 19 Jul 2025 09:41:50 GMT | Host & Network Penetration Testing: Network-Based Attacks CTF 1 (EJPT INE) | Muskanmadhur | [Read More](https://medium.com/p/e57357cc8878) |
-| Sat, 19 Jul 2025 09:34:15 GMT | 5 Best AI Tools for Pentesting That Security Pros Actually Use | Berk Ali Cakir | [Read More](https://medium.com/p/2a4fe845d9fb) |
-| Sat, 19 Jul 2025 09:31:47 GMT | Automate Your Security Logs: FastAPI Meets Python’s Logging Magic | Nikulsinh Rajput | [Read More](https://medium.com/p/c11b02562591) |
-| Sat, 19 Jul 2025 09:17:55 GMT | The Hidden Cost of Streaming: Why TV Box Security Matters in 2025 | SuperBox Official | [Read More](https://medium.com/p/11a23e783c61) |
-| Sat, 19 Jul 2025 09:04:28 GMT | LOVE ME, NOT WHAT I BRING | Simply Habibi! | [Read More](https://medium.com/p/32d22f61b4b4) |
-| Sat, 19 Jul 2025 09:02:06 GMT | Securing Web Applications with Bunkerweb | Mahdi Mallaki | [Read More](https://medium.com/p/25d6e61d2554) |
-| Sat, 19 Jul 2025 08:59:17 GMT | Redeemer Lab Walkthrough Hack the Box Starting point: Exploring Redis Security Essentials | Gopal Mohan | [Read More](https://medium.com/p/8ed81b018c30) |
-| Sat, 19 Jul 2025 08:59:11 GMT | “How CVE-2025–4123 Turned Grafana Into a Hacker’s Playground” | Aman Sharma | [Read More](https://medium.com/p/f93a45bde714) |
-| Sat, 19 Jul 2025 08:56:13 GMT | Payload in the Haystack: Using Wayback & ParamSpider to Find a Forgotten Upload Endpoint | Iski | [Read More](https://medium.com/p/913e80351b9b) |
