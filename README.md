@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 11:27:03 GMT | Rise of AI in Insurance For Small Business Growth 2025 | Simran Bhatia | [Read More](https://medium.com/p/56f3741283da) |
+| Sat, 19 Jul 2025 11:26:58 GMT | Linux Netcat Command Examples: An In-Depth Guide | Yamini Yadav | [Read More](https://medium.com/p/0d6461432f49) |
+| Sat, 19 Jul 2025 11:24:41 GMT | Security Groups vs. Network ACLs (NaCLs): A Hands-On Dive into AWS VPC Security | Abdulhadi | [Read More](https://medium.com/p/ffaf7978a141) |
+| Sat, 19 Jul 2025 11:21:57 GMT | TheHackersLabs — NodeCeption [Write-Up] | APS88 | [Read More](https://medium.com/p/1c883eac4aa3) |
+| Sat, 19 Jul 2025 11:21:05 GMT | Professional Linux Certification Course with Certification | cyber security Updates | [Read More](https://medium.com/p/07756537f23f) |
+| Sat, 19 Jul 2025 11:20:20 GMT | CVE-2025–29927: Next.js Middleware Bypass Zafiyeti | Nadir Sensoy | [Read More](https://medium.com/p/a0fedddc1f9a) |
+| Sat, 19 Jul 2025 11:20:10 GMT | Refresh Tokens & JWT Expiry: The Complete Guide with Spring Boot and React | Vishwanath Patil | [Read More](https://medium.com/p/749674551005) |
+| Sat, 19 Jul 2025 11:14:17 GMT | Building An Active Directory Home Lab: Learn By Doing | Avweromre Isaiah | [Read More](https://medium.com/p/336e241434a4) |
+| Sat, 19 Jul 2025 11:12:42 GMT | What Big Tech Company even falls to | Abraham Eleojo Salifu | [Read More](https://medium.com/p/682d78a88b4a) |
+| Sat, 19 Jul 2025 11:11:52 GMT | “We’ve Heard This Story Before…” | EXLITY | [Read More](https://medium.com/p/785742dfc3eb) |
+| Sat, 19 Jul 2025 11:10:18 GMT | Your truly private backup | Maciej Dzieżyc | [Read More](https://medium.com/p/25b76fc30c00) |
 | Sat, 19 Jul 2025 11:08:35 GMT | Understanding SSL Stripping Attacks: A Hidden Threat to Web Security | Hussein Reda | [Read More](https://medium.com/p/ff9f0b022c0a) |
 | Sat, 19 Jul 2025 11:02:08 GMT | Why Every City in India Now Needs a Chief Information Security Officer (CISO) | The Quiet Hacker | [Read More](https://medium.com/p/37a113315fc5) |
 | Sat, 19 Jul 2025 10:50:55 GMT | Still Using Static Scanners? Let PHP Patch Itself Based on Threat Input | Asian Digital Hub | [Read More](https://medium.com/p/b658c8bef1cd) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 04:25:36 GMT | Future of Work: Tech-Driven Remote Life | Tech_24Hours | [Read More](https://medium.com/p/3a3992d5e76d) |
 | Sat, 19 Jul 2025 04:24:52 GMT | Day5- Understanding Payloads and Attack Vectors — Cybersecurity Basics for Beginners | unica 02 | [Read More](https://medium.com/p/69a80135f34b) |
 | Sat, 19 Jul 2025 04:15:48 GMT | Qatar Bolsters Security with Advanced Facial Recognition Technology | expbhavya | [Read More](https://medium.com/p/4980bced3685) |
-| Sat, 19 Jul 2025 04:07:16 GMT | 2FA simple bypass [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/12a5671d0eb8) |
-| Sat, 19 Jul 2025 04:06:59 GMT | How I Used Shodan to Discover 3 Easy Bugs on a VDP Program | Mohamed Said Ibrahim | [Read More](https://medium.com/p/2ceae814fe07) |
-| Sat, 19 Jul 2025 03:46:59 GMT | When I was working as a software developer, one day I was assigned a task that was quite different… | EMMANUEL JOSE | [Read More](https://medium.com/p/f95ddb85dd5c) |
-| Sat, 19 Jul 2025 03:42:34 GMT | Microsoft to Stop Using China-Based Engineers for U.S. | MindMemoirs | [Read More](https://medium.com/p/a24bf47e835f) |
-| Sat, 19 Jul 2025 03:38:35 GMT | Understanding Firewalls: A Deep Dive into Fortigate Fortinet Firewall for SOC Analysts | Aliyefhemin | [Read More](https://medium.com/p/f1759b550e3d) |
-| Sat, 19 Jul 2025 03:34:32 GMT | Vulnerability Isn’t a Practice. It’s a Consequence. | Metro Munk | [Read More](https://medium.com/p/26009336e828) |
-| Sat, 19 Jul 2025 03:32:58 GMT | How a Pune Auto Parts Firm Lost ₹2.35 Crore to a Fake Supplier Email | Deven Chhajed | [Read More](https://medium.com/p/d2768cdf558a) |
-| Sat, 19 Jul 2025 03:25:56 GMT | Information for Technology: Why It’s the Backbone of Digital Business | Business Pro Tech | [Read More](https://medium.com/p/f4fc40b42ac0) |
-| Sat, 19 Jul 2025 03:21:18 GMT | Drosera 101 By Gen. Dave | Gen. Dave | [Read More](https://medium.com/p/27a3f4947ceb) |
-| Sat, 19 Jul 2025 03:15:37 GMT | Your Smart TV Is Smarter Than You Think — Not in a Good Way | Rahul Mishra | [Read More](https://medium.com/p/af322eb18285) |
-| Sat, 19 Jul 2025 03:01:49 GMT | France Targeted by Russia as Primary Enemy in Europe, Says Top French General | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/be4b81b0ea9e) |
