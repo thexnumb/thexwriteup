@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 14:12:58 GMT | Top 12 Chrome Extensions Every Hacker & Pentester Should Use | Rushikesh G | [Read More](https://medium.com/p/6fae8e97dcb1) |
+| Sat, 19 Jul 2025 14:12:16 GMT | DORK Announces Promo Drop: Claim DORK Today | DORK | [Read More](https://medium.com/p/a9d9faf1351b) |
+| Sat, 19 Jul 2025 14:11:59 GMT | TryHackMe: Upload Vulnerabilities | Babatunde Ojo | [Read More](https://medium.com/p/8045329ffcad) |
+| Sat, 19 Jul 2025 14:11:37 GMT | Struggling in Bug Bounty? Here’s How I Found My First Critical | xabit • hacks | [Read More](https://medium.com/p/8878ee896928) |
+| Sat, 19 Jul 2025 14:08:34 GMT | Security Interview Prep Series — 14. Linux | Shraddha M. | [Read More](https://medium.com/p/b09d16c05cbc) |
+| Sat, 19 Jul 2025 14:07:13 GMT | The 3 Little Packets | Nul⧉ID | [Read More](https://medium.com/p/5601cadada9e) |
+| Sat, 19 Jul 2025 14:03:00 GMT | What Should You Look for in a Secure Multi-Asset Crypto Wallet Provider? | Coinpedia Insight | [Read More](https://medium.com/p/fa20fc7ac07d) |
+| Sat, 19 Jul 2025 13:58:36 GMT | OAuth2 : Rich Authorization Request (RAR) | Kunal Sinha | [Read More](https://medium.com/p/318a66b25b80) |
+| Sat, 19 Jul 2025 13:58:20 GMT | Bootstrapping Agent Identity: When Devices Have No Initial Trust | Kunal Sinha | [Read More](https://medium.com/p/5490d2e99979) |
+| Sat, 19 Jul 2025 13:57:13 GMT | How to Block Inappropriate Websites Using the Hosts File | James N | [Read More](https://medium.com/p/bd7b956a0d84) |
+| Sat, 19 Jul 2025 13:56:59 GMT | it hurts, but it helped me write 666 Medium articles in just 2 years (needs editing) | Godfrey The Great | [Read More](https://medium.com/p/76e9437bc973) |
+| Sat, 19 Jul 2025 13:38:48 GMT | Chapter 1: Diving Into Linux — From Desktop to Shell | Thexnumb | [Read More](https://medium.com/p/282d2d87f176) |
+| Sat, 19 Jul 2025 13:37:58 GMT | Smart Infrastructure Isn’t Just for Smart Cities | Sarah Okpe | [Read More](https://medium.com/p/34b02f3f3bc7) |
+| Sat, 19 Jul 2025 13:35:10 GMT | Search Optimization For Detection & SOC Engineers | Gökay Akın | [Read More](https://medium.com/p/1fc3a1b268af) |
+| Sat, 19 Jul 2025 13:31:08 GMT | The Hidden Risks Most Millionaires Ignore | Edgar Yende | [Read More](https://medium.com/p/46952beb3a8d) |
+| Sat, 19 Jul 2025 13:28:44 GMT | NBP Partners with Apprise Cyber for Safer Banking! | Muhammad Inam Abbasi | [Read More](https://medium.com/p/22049e3e7e7c) |
+| Sat, 19 Jul 2025 13:22:00 GMT | The Cleaning Contract That Cleaned Up Our Perspective | EXLITY | [Read More](https://medium.com/p/12c2f82bb122) |
 | Sat, 19 Jul 2025 13:20:53 GMT | The $500,000 Mistake You Could Make Tomorrow: One Dumb Click, Total Chaos | Sandeep Dwivedi | [Read More](https://medium.com/p/c5bc94f632e5) |
 | Sat, 19 Jul 2025 13:17:14 GMT | How a Man Shows His Love in His Sleep | Emily Lewis | [Read More](https://medium.com/p/a98a41ee0b3b) |
 | Sat, 19 Jul 2025 13:16:17 GMT | HTB — Base | Dfaults | [Read More](https://medium.com/p/d19c43f25362) |
@@ -24,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 13:09:20 GMT | XSS, CSRF, SSRF… WTF? Web Vulnerabilities Explained Simply | Varnith | [Read More](https://medium.com/p/58d085e2c9db) |
 | Sat, 19 Jul 2025 13:02:20 GMT | TryHackMe TakeOver Writeup | eastnooby_01 | [Read More](https://medium.com/p/e55841e9dfd4) |
 | Sat, 19 Jul 2025 13:01:50 GMT | What Is DNS and How Does It Work? - Easy Explanation | Timonéofearth | [Read More](https://medium.com/p/1f6beb60362c) |
+| Sat, 19 Jul 2025 13:00:33 GMT | Ring Responds After Users Report Suspicious Logins on May 28 | Hani Azizi | [Read More](https://medium.com/p/fa8be6c108d3) |
 | Sat, 19 Jul 2025 12:59:46 GMT | “AI Demystified: The Ultimate Breakdown of Types, Categories, and Real-World Impact” | Muiliyu Sodiq Akintomide | [Read More](https://medium.com/p/d07f9deec1f1) |
 | Sat, 19 Jul 2025 12:53:19 GMT | Top 100 PowerView & Active Directory Exploitation One-Liners (2025) | Pratham Shah | [Read More](https://medium.com/p/8e5a04cd8691) |
 | Sat, 19 Jul 2025 12:51:54 GMT | Send Becomes a Validator on Canton Network | Deficatalyst | [Read More](https://medium.com/p/9018feb2080c) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 07:58:19 GMT | Which Company Offers the Most Reliable Cyber Defense Services in the UAE? | Ahad me | [Read More](https://medium.com/p/98ae4c22982b) |
 | Sat, 19 Jul 2025 07:56:14 GMT | Implications of Russian Cyberespionage Group Fancy Bear for Indonesia’s National Security and Cyber… | MITRE Doggy | [Read More](https://medium.com/p/a03b94d5bbbd) |
 | Sat, 19 Jul 2025 07:53:33 GMT | TryHackMe - IR Difficulties and Challenges - WriteUp | Axoloth | [Read More](https://medium.com/p/7a51cefe7746) |
-| Sat, 19 Jul 2025 07:50:15 GMT | Top Free Directory Submission Sites for SEO Success | Aashikamhr | [Read More](https://medium.com/p/fff4a18b27df) |
-| Sat, 19 Jul 2025 07:37:09 GMT | Wazuh 簡易攻擊鍊規則撰寫 | Shiau-Jie Chen | [Read More](https://medium.com/p/41ffa048c8eb) |
-| Sat, 19 Jul 2025 07:34:12 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/9a681bf19716) |
-| Sat, 19 Jul 2025 07:29:38 GMT | API07:2023 — Server-Side Request Forgery (SSRF) | Suhel Kathi | [Read More](https://medium.com/p/c944381057bf) |
-| Sat, 19 Jul 2025 07:29:15 GMT | “What Are Country Codes and Why Do They Matter in Global Communication?” | Ramzimubarak | [Read More](https://medium.com/p/210f66470242) |
-| Sat, 19 Jul 2025 07:26:58 GMT | You can’t call it true love if you’ve never done these two things after getting intimate. | Pinna Skite | [Read More](https://medium.com/p/297215252bb5) |
-| Sat, 19 Jul 2025 07:20:43 GMT | Lets know who’s genuine. | Joshua Mfon Effiong | [Read More](https://medium.com/p/43f511085e16) |
-| Sat, 19 Jul 2025 07:19:25 GMT | How We Found an Unauthenticated AI Endpoint Allowing Remote Code Execution | Pipeline | [Read More](https://medium.com/p/1236a3bff99d) |
-| Sat, 19 Jul 2025 07:12:32 GMT | MITRE ATT&CK T1059 Command and Scripting Interpreter + with Sample Procedures | MITRE Doggy | [Read More](https://medium.com/p/a1b78ae85c5b) |
-| Sat, 19 Jul 2025 07:09:58 GMT | How to Set Up a Professional Hacking Lab: A Practical Guide for Ethical Hackers and Bug Bounty… | Santhosh Adiga U | [Read More](https://medium.com/p/350b5a9e5493) |
-| Sat, 19 Jul 2025 07:07:58 GMT | The Importance of Projects for Learning Cybersecurity | Red | [Read More](https://medium.com/p/65dceedaa8e3) |
-| Sat, 19 Jul 2025 07:07:05 GMT | WPA3 Demystified — The New Era of Wi-Fi Security(Part 4) | Amitishacked | [Read More](https://medium.com/p/7033dcdebfab) |
-| Sat, 19 Jul 2025 07:07:04 GMT | The Internet Is Crushing on Soft Men. Here’s Why Women Are Falling So Hard | John Okwuose | [Read More](https://medium.com/p/6eb76c5d882a) |
-| Sat, 19 Jul 2025 07:03:02 GMT | Beginner Guide: How Hackers Exploit Unrestricted File Uploads (and How to Prevent It) | Victor Kipkemboi | [Read More](https://medium.com/p/2f57b9ca3f5b) |
-| Sat, 19 Jul 2025 07:00:06 GMT | Enhanced Security: Qatar Businesses Adopt Next-Gen Access Control | Mohd Armaan | [Read More](https://medium.com/p/1ff692832bb8) |
-| Sat, 19 Jul 2025 06:57:05 GMT | Windows: Detect Security Breaches Using Event Viewer & Defender. | hp | [Read More](https://medium.com/p/a3ced968175f) |
-| Sat, 19 Jul 2025 06:56:13 GMT | Why are customers ignoring offers to help? | Stu Charlton | [Read More](https://medium.com/p/f7d533500190) |
-| Sat, 19 Jul 2025 06:46:43 GMT | Abusing Broken Access Control and SQL Injection in the Wild | RyuuKhagetsu | [Read More](https://medium.com/p/891559e13199) |
