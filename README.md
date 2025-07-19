@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 18:25:02 GMT | Watering Hole Attacks : quand le prédateur choisit le terrain | Myriam Abouda | [Read More](https://medium.com/p/fb050952f670) |
+| Sat, 19 Jul 2025 18:22:47 GMT | How I Found an XSS Vulnerability in a Microsoft subdomain | Anonymousshetty | [Read More](https://medium.com/p/4abf0da5c3e9) |
+| Sat, 19 Jul 2025 18:18:07 GMT | Hezbollah’s Shadow Network in Germany: A Strategic Dossier on Islamist Infiltration, Leftist… | SIMKRA | [Read More](https://medium.com/p/0caec6735b0b) |
+| Sat, 19 Jul 2025 18:15:22 GMT | My Battle with Gmail’s ‘Smart’ Security (and Why It’s Broken) | Sebastian Dubiel | [Read More](https://medium.com/p/c95526590316) |
+| Sat, 19 Jul 2025 18:11:38 GMT | From WazirX to CoinDCX: How a $44M Hack Became a Lesson in Crypto Trust | Shrianshkumarnahata | [Read More](https://medium.com/p/f0ffc25cdb57) |
+| Sat, 19 Jul 2025 18:08:22 GMT | Reconnaissance in Cybersecurity: From CLI to Graphs (Recon-ng, theHarvester & Maltego) | Sobhika_rajkumar | [Read More](https://medium.com/p/52d58769ef01) |
+| Sat, 19 Jul 2025 18:04:11 GMT | Coldplay Kiss-Cam Hijacked Your LLM: Chaos, Gossip Loops & an AI-Governance Fail | Arthi Rajendran | [Read More](https://medium.com/p/2224070cb08b) |
+| Sat, 19 Jul 2025 18:03:29 GMT | ✅ Things You Must Know Before Using UNION in SQL | Ali Ziro | [Read More](https://medium.com/p/aec46d10bfd7) |
+| Sat, 19 Jul 2025 18:00:20 GMT | Guardrails for LLM: Pillars, Tools, and Best Practices. | Rui Pedro Moreira | [Read More](https://medium.com/p/db23e6300dde) |
+| Sat, 19 Jul 2025 17:59:37 GMT | Deploying Elastic Stack in home lab | CyberPumpkin | [Read More](https://medium.com/p/d484df9b7175) |
+| Sat, 19 Jul 2025 17:57:45 GMT | Web Security 101: Seeing the Real Difference with HTTPS and HSTS | Okan Yenigün | [Read More](https://medium.com/p/a76f2b549e93) |
+| Sat, 19 Jul 2025 17:56:12 GMT | DAY 8: “Bake A Wish & the Tech Rabbit hole” | Akshatdwivedi | [Read More](https://medium.com/p/98a3c786d935) |
+| Sat, 19 Jul 2025 17:53:28 GMT | ffuf (Kali Linux Web Fuzzer): Fuzz Faster U Fool — A Hilarious Tutorial | CyferNest Sec | [Read More](https://medium.com/p/03345c38db22) |
+| Sat, 19 Jul 2025 17:46:55 GMT | Reflected Cross-Site Scripting in Search Functionality | Osamaashraf | [Read More](https://medium.com/p/d584593b966f) |
 | Sat, 19 Jul 2025 17:36:52 GMT | The Emergence of Biometric Authentication: Enhancing Security Through Human Traits | Farizal Hamami | [Read More](https://medium.com/p/7bbb695fcc62) |
 | Sat, 19 Jul 2025 17:34:33 GMT | Countdown to Quantum Threat: Upgrade Your Digital Identity With A PQC-ready European Business… | Carsten Stöcker | [Read More](https://medium.com/p/c64f16dbde52) |
 | Sat, 19 Jul 2025 17:31:48 GMT | How I Built a Simple Threat Detection Script Using Python and Scapy | Nikulsinh Rajput | [Read More](https://medium.com/p/2a36161c6ee4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 12:32:37 GMT | Understanding Best Ethical Hacking Practices | Rohit | [Read More](https://medium.com/p/7908d77fd029) |
 | Sat, 19 Jul 2025 12:31:39 GMT | Listening and Empowerment | Vincenzo D'Amico | [Read More](https://medium.com/p/76b9bbd366f2) |
 | Sat, 19 Jul 2025 12:23:17 GMT | Can a Single Quote Take Down a Database? | Alex Joyel Raj | [Read More](https://medium.com/p/0bcf374724ab) |
-| Sat, 19 Jul 2025 12:19:30 GMT | Is Your AI Secure Enough? if NOT. | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/077f5c3585bd) |
-| Sat, 19 Jul 2025 12:17:07 GMT | When Cybersecurity Meets Kiss-Cam Chaos | Dinesh Dino | [Read More](https://medium.com/p/affcebcb2b0b) |
-| Sat, 19 Jul 2025 12:14:01 GMT | ONE STEP AT A TIME: My Ongoing AWS Journey... | Sybil Amarachi Ikechukwu | [Read More](https://medium.com/p/75788a8dbdab) |
-| Sat, 19 Jul 2025 12:11:35 GMT | Oversharing in the Age of AI: How to Adopt Microsoft Copilot Securely | Dennis Fiorentino | [Read More](https://medium.com/p/b2977b65fe3a) |
-| Sat, 19 Jul 2025 12:11:18 GMT | PicoCTF — Most Cookies | löca | [Read More](https://medium.com/p/e394ccbbeccd) |
-| Sat, 19 Jul 2025 12:08:45 GMT | 1. How to Start Bug Bounty with Zero Knowledge | Abhijeet kumawat | [Read More](https://medium.com/p/5178f12f6529) |
-| Sat, 19 Jul 2025 12:02:38 GMT | Cracking the Code: A Deep Dive into Cybersecurity Interviews for SOC, Cloud, AppSec, and Beyond | Abhijith Soman | [Read More](https://medium.com/p/d6ca08c7e06b) |
-| Sat, 19 Jul 2025 12:02:22 GMT | 13 Real Settings that will make Your iPhone Secure | Faizan Saghir | [Read More](https://medium.com/p/d7a474e539b5) |
-| Sat, 19 Jul 2025 11:59:46 GMT | Cybersecurity Basics for Beginners: The Yahoo They Should’ve Taught You in School | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/261b3ae40999) |
-| Sat, 19 Jul 2025 11:51:56 GMT | Gain Your Share of LunaFi's Gift Event and Enjoy bonus tokens | LunaFi | [Read More](https://medium.com/p/229155db8154) |
-| Sat, 19 Jul 2025 11:36:40 GMT | Common Bug: Closure Captures a Variable from the Outer Scope | mobin shaterian | [Read More](https://medium.com/p/a5ab7bed750b) |
-| Sat, 19 Jul 2025 11:27:03 GMT | Rise of AI in Insurance For Small Business Growth 2025 | Simran Bhatia | [Read More](https://medium.com/p/56f3741283da) |
-| Sat, 19 Jul 2025 11:26:58 GMT | Linux Netcat Command Examples: An In-Depth Guide | Yamini Yadav | [Read More](https://medium.com/p/0d6461432f49) |
-| Sat, 19 Jul 2025 11:24:41 GMT | Security Groups vs. Network ACLs (NaCLs): A Hands-On Dive into AWS VPC Security | Abdulhadi | [Read More](https://medium.com/p/ffaf7978a141) |
