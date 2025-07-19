@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 14:32:59 GMT | Asynchronous File Processing in FastAPI with Background Tasks and S3 | Bhagya Rana | [Read More](https://medium.com/p/34d0b845db44) |
+| Sat, 19 Jul 2025 14:30:45 GMT | How to Implement HmacMD5 Authentication in MuleSoft (DataWeave Guide) | Tanupam Saha | [Read More](https://medium.com/p/8d566a54c42c) |
+| Sat, 19 Jul 2025 14:26:56 GMT | How an Expired Trial Led to a Critical Email Verification Bypass | Nullcore Labs | [Read More](https://medium.com/p/972107f106cd) |
+| Sat, 19 Jul 2025 14:24:21 GMT | 10 Industries AI Will Completely Take Over by 2027! | reviewraccoon | [Read More](https://medium.com/p/6e90668c809c) |
 | Sat, 19 Jul 2025 14:12:58 GMT | Top 12 Chrome Extensions Every Hacker & Pentester Should Use | Rushikesh G | [Read More](https://medium.com/p/6fae8e97dcb1) |
 | Sat, 19 Jul 2025 14:12:16 GMT | DORK Announces Promo Drop: Claim DORK Today | DORK | [Read More](https://medium.com/p/a9d9faf1351b) |
 | Sat, 19 Jul 2025 14:11:59 GMT | TryHackMe: Upload Vulnerabilities | Babatunde Ojo | [Read More](https://medium.com/p/8045329ffcad) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 08:18:22 GMT | TIRED OF SPAM? USE THIS ONE GENIUS HACK | Simply Habibi! | [Read More](https://medium.com/p/c1ea9506de92) |
 | Sat, 19 Jul 2025 08:16:16 GMT | Part 2: Automating Mobile API Discovery Using AI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/523fb207fd15) |
 | Sat, 19 Jul 2025 08:11:10 GMT | I Found a Broken API in a Mobile App — Without Touching the App | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e787ea9e1ed1) |
-| Sat, 19 Jul 2025 08:00:31 GMT | Fragments of Truth: Navigating Trust in the Age of AI and Technological Overload | Melvin Jayson ogbalu | [Read More](https://medium.com/p/6fb6746dfc7e) |
-| Sat, 19 Jul 2025 07:58:19 GMT | Which Company Offers the Most Reliable Cyber Defense Services in the UAE? | Ahad me | [Read More](https://medium.com/p/98ae4c22982b) |
-| Sat, 19 Jul 2025 07:56:14 GMT | Implications of Russian Cyberespionage Group Fancy Bear for Indonesia’s National Security and Cyber… | MITRE Doggy | [Read More](https://medium.com/p/a03b94d5bbbd) |
-| Sat, 19 Jul 2025 07:53:33 GMT | TryHackMe - IR Difficulties and Challenges - WriteUp | Axoloth | [Read More](https://medium.com/p/7a51cefe7746) |
