@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 04:36:05 GMT | Designing for Defense: Why Cybersecurity Is Part of Go8’s DNA | Go8 Technology Inc. | [Read More](https://medium.com/p/a4a3d6c08571) |
+| Sat, 19 Jul 2025 04:33:53 GMT | How I Got Hacked and What I Learned | welovetech | [Read More](https://medium.com/p/a061a8978319) |
+| Sat, 19 Jul 2025 04:30:42 GMT | How to Install Kali Linux in VirtualBox (Step-by-Step Guide for Beginners) | CYber VIaz | [Read More](https://medium.com/p/83a504b25959) |
+| Sat, 19 Jul 2025 04:25:36 GMT | Future of Work: Tech-Driven Remote Life | Tech_24Hours | [Read More](https://medium.com/p/3a3992d5e76d) |
+| Sat, 19 Jul 2025 04:24:52 GMT | Day5- Understanding Payloads and Attack Vectors — Cybersecurity Basics for Beginners | unica 02 | [Read More](https://medium.com/p/69a80135f34b) |
+| Sat, 19 Jul 2025 04:15:48 GMT | Qatar Bolsters Security with Advanced Facial Recognition Technology | expbhavya | [Read More](https://medium.com/p/4980bced3685) |
+| Sat, 19 Jul 2025 04:07:16 GMT | 2FA simple bypass [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/12a5671d0eb8) |
+| Sat, 19 Jul 2025 04:06:59 GMT | How I Used Shodan to Discover 3 Easy Bugs on a VDP Program | Mohamed Said Ibrahim | [Read More](https://medium.com/p/2ceae814fe07) |
 | Sat, 19 Jul 2025 03:46:59 GMT | When I was working as a software developer, one day I was assigned a task that was quite different… | EMMANUEL JOSE | [Read More](https://medium.com/p/f95ddb85dd5c) |
 | Sat, 19 Jul 2025 03:42:34 GMT | Microsoft to Stop Using China-Based Engineers for U.S. | MindMemoirs | [Read More](https://medium.com/p/a24bf47e835f) |
 | Sat, 19 Jul 2025 03:38:35 GMT | Understanding Firewalls: A Deep Dive into Fortigate Fortinet Firewall for SOC Analysts | Aliyefhemin | [Read More](https://medium.com/p/f1759b550e3d) |
@@ -89,6 +97,7 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 19:28:43 GMT | Diary Entry #14 | Preiksha Jain | [Read More](https://medium.com/p/20cb92321bb8) |
 | Fri, 18 Jul 2025 19:27:55 GMT | Agentic AI: The “New” SOA and Why Your Security Strategy Needs a Reboot | Michael Figueroa | [Read More](https://medium.com/p/4522c278d413) |
 | Fri, 18 Jul 2025 19:22:15 GMT | Accepted. As is. Without Filter. | Julie A | [Read More](https://medium.com/p/ad03080a4538) |
+| Fri, 18 Jul 2025 19:21:25 GMT | Hacking APIs: Guía Completa para Evaluación de Seguridad | Israel Aráoz Severiche | [Read More](https://medium.com/p/d4347431e3a0) |
 | Fri, 18 Jul 2025 19:17:26 GMT | The Duolingo Concern: A Cautionary Tale of AI, Ethics, and Data Exploitation | Jair Abrego Cubilla | [Read More](https://medium.com/p/f97471ec658d) |
 | Fri, 18 Jul 2025 19:16:15 GMT | “Here, Click This Totally Normal File” — Weaponization & Delivery | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/b8c50a10169b) |
 | Fri, 18 Jul 2025 19:13:20 GMT | From Breadboard to PCB: My Journey Into Circuit Design at UIRI | Grace Wanja | [Read More](https://medium.com/p/57be92eca65a) |
@@ -105,12 +114,3 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 18:31:01 GMT | “Who Are You?” and Why That Question Matters Most | Ketan Polawar | [Read More](https://medium.com/p/abcfb74c8e22) |
 | Fri, 18 Jul 2025 18:21:01 GMT | Thousands of WordPress Sites at Risk After Gravity Forms Breach | Feroot Security | [Read More](https://medium.com/p/46a040b45a30) |
 | Fri, 18 Jul 2025 18:17:38 GMT | DAY 18 — Wireshark Investigation- KOI Loader | Jinay | [Read More](https://medium.com/p/2fba09805e19) |
-| Fri, 18 Jul 2025 18:17:22 GMT | What is Working in Email Security in 2025? | anurag sharma | [Read More](https://medium.com/p/2644075539eb) |
-| Fri, 18 Jul 2025 18:04:15 GMT | Why I’m Finally Sharing | Maria Ghaziri | [Read More](https://medium.com/p/216f1121d02c) |
-| Fri, 18 Jul 2025 17:59:24 GMT | Retrieving Deleted Messages with These Strong Spy Apps | Narjis Batool | [Read More](https://medium.com/p/d5e1194419a7) |
-| Fri, 18 Jul 2025 17:55:50 GMT | Google Dorking Secrets: What You Should Know Before It’s Too Late | SafeAeon Inc. | [Read More](https://medium.com/p/925fbdf45715) |
-| Fri, 18 Jul 2025 17:52:18 GMT | Etik Hacker Olma Hakkında | Arda | [Read More](https://medium.com/p/122aa5fc986d) |
-| Fri, 18 Jul 2025 17:51:05 GMT | Let’s Debug the Basics: What Is a Bug  and How to Catch It | Jyoti Upadhyay | [Read More](https://medium.com/p/ef73656f096e) |
-| Fri, 18 Jul 2025 17:50:29 GMT | "The Convergence Layer" is a concept that appears in multiple domains — from computer networks and… | ♐DecentralizedDev | [Read More](https://medium.com/p/25f2db03fb34) |
-| Fri, 18 Jul 2025 17:50:06 GMT | July 18, 2025 — A Day of Worms, Rain, Rage, and Routers | IamGhost | [Read More](https://medium.com/p/6764abcc0134) |
-| Fri, 18 Jul 2025 17:47:40 GMT | The Ultimate Arsenal for Security Testing and Ethical Hacking | Javier Calderon Jr | [Read More](https://medium.com/p/8e743491360b) |
