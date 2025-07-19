@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 19:11:55 GMT | Source Code Confessions: Comments That Betray Phishers | Hunter Harrison | [Read More](https://medium.com/p/5d32190eafb6) |
+| Sat, 19 Jul 2025 19:07:33 GMT | SQL Injection: A Hacker’s Syringe into Your Database | Khushi Garg | [Read More](https://medium.com/p/c2560c115138) |
+| Sat, 19 Jul 2025 19:02:57 GMT | 16 — SOC105 — Requested T.I. URL address - Walkthrough | EPereda | [Read More](https://medium.com/p/5e0d80dd1942) |
+| Sat, 19 Jul 2025 18:58:40 GMT | Business Logic Vulnerabilities part-8 : Insufficient workflow validation | Ahmad Sopyan | [Read More](https://medium.com/p/bdb24381219a) |
+| Sat, 19 Jul 2025 18:49:52 GMT | ما هو الأمونيت؟ اكتشف 2023 KQ14-عالم جديد غامض في نظامنا الشمسي | katibatech | [Read More](https://medium.com/p/ab086dc60afe) |
+| Sat, 19 Jul 2025 18:45:53 GMT | Closing Security Gaps on AD using Purple Knight. | Cybersensus | [Read More](https://medium.com/p/fa0b3f845c08) |
+| Sat, 19 Jul 2025 18:44:29 GMT | Hybrid Cloud Strategies for Data Security and Compliance in 2025 | Swayam Surat | [Read More](https://medium.com/p/d56ce37fd711) |
 | Sat, 19 Jul 2025 18:40:13 GMT | Your Phone Has Eyes: The Silent Witness in Your Room | Emmily Humprey 's | [Read More](https://medium.com/p/faff45ebd9bd) |
 | Sat, 19 Jul 2025 18:39:23 GMT | Business Logic: Broken. Wallet: Hacked. OTP: Bypassed. | Het Patel | [Read More](https://medium.com/p/d82e6591a63a) |
 | Sat, 19 Jul 2025 18:28:14 GMT | SQLMap: The Complete Manual for Automated SQL Injection Testing | Ashutosh Piprode | [Read More](https://medium.com/p/9ad48d0e6eed) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 13:11:43 GMT | How I Built a Real-Time Email Phishing Detection Agent Using Gemini Pro and Telegram Bot | Fazal | [Read More](https://medium.com/p/50b62d51672b) |
 | Sat, 19 Jul 2025 13:09:46 GMT | Data Breach Dilemma: I Found 1000+ Leaked IDs, But a Robot Wouldn’t Let Me Warn a Top University | LordofHeaven | [Read More](https://medium.com/p/50d876970813) |
 | Sat, 19 Jul 2025 13:09:20 GMT | XSS, CSRF, SSRF… WTF? Web Vulnerabilities Explained Simply | Varnith | [Read More](https://medium.com/p/58d085e2c9db) |
-| Sat, 19 Jul 2025 13:02:20 GMT | TryHackMe TakeOver Writeup | eastnooby_01 | [Read More](https://medium.com/p/e55841e9dfd4) |
-| Sat, 19 Jul 2025 13:01:50 GMT | What Is DNS and How Does It Work? - Easy Explanation | Timonéofearth | [Read More](https://medium.com/p/1f6beb60362c) |
-| Sat, 19 Jul 2025 13:00:33 GMT | Ring Responds After Users Report Suspicious Logins on May 28 | Hani Azizi | [Read More](https://medium.com/p/fa8be6c108d3) |
-| Sat, 19 Jul 2025 12:59:46 GMT | “AI Demystified: The Ultimate Breakdown of Types, Categories, and Real-World Impact” | Muiliyu Sodiq Akintomide | [Read More](https://medium.com/p/d07f9deec1f1) |
-| Sat, 19 Jul 2025 12:53:19 GMT | Top 100 PowerView & Active Directory Exploitation One-Liners (2025) | Pratham Shah | [Read More](https://medium.com/p/8e5a04cd8691) |
-| Sat, 19 Jul 2025 12:51:54 GMT | Send Becomes a Validator on Canton Network | Deficatalyst | [Read More](https://medium.com/p/9018feb2080c) |
-| Sat, 19 Jul 2025 12:48:05 GMT | “When We Mopped More Than Just Floors” | EXLITY | [Read More](https://medium.com/p/b4809a81efc9) |
