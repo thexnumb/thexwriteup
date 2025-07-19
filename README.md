@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 21:27:32 GMT | Tenable.io Vulnerability Management (Series 1) | Samira Parveen | [Read More](https://medium.com/p/4a94c43d1007) |
+| Sat, 19 Jul 2025 21:17:06 GMT | “Divide & Conquer in Digital Forensics: My Learning Experience” | Nimit Ahir | [Read More](https://medium.com/p/e5738051ef3f) |
+| Sat, 19 Jul 2025 21:09:37 GMT | CTF PrintNightmare, again! - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/db7752f61ccb) |
 | Sat, 19 Jul 2025 21:07:01 GMT | I Found a Critical Bug in Just 30 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/b7dd320cf38f) |
 | Sat, 19 Jul 2025 21:02:06 GMT | Account Abstraction for Smarter Ethereum Wallets | Abdul Gafar Adetunji | [Read More](https://medium.com/p/896695fb2f6a) |
 | Sat, 19 Jul 2025 21:00:57 GMT | CyberExam MQTT Exploitation | Yahya İlhan Cengiz | [Read More](https://medium.com/p/0bdd221aeeab) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 14:56:17 GMT | The Power of Showing Up- Even When You Have Nothing to Give | Prashant Jha | [Read More](https://medium.com/p/799118e97452) |
 | Sat, 19 Jul 2025 14:45:23 GMT | Understanding Linux Filesystem Hierarchy — A Beginner’s Guide | Yamini Yadav | [Read More](https://medium.com/p/be7409b45bad) |
 | Sat, 19 Jul 2025 14:42:24 GMT | DownUnderCTF2025 rocky (Reverse Engineering — Level Easy) | L0udbaa | [Read More](https://medium.com/p/aa48d0dee612) |
-| Sat, 19 Jul 2025 14:32:59 GMT | Asynchronous File Processing in FastAPI with Background Tasks and S3 | Bhagya Rana | [Read More](https://medium.com/p/34d0b845db44) |
-| Sat, 19 Jul 2025 14:30:45 GMT | How to Implement HmacMD5 Authentication in MuleSoft (DataWeave Guide) | Tanupam Saha | [Read More](https://medium.com/p/8d566a54c42c) |
-| Sat, 19 Jul 2025 14:26:56 GMT | How an Expired Trial Led to a Critical Email Verification Bypass | Nullcore Labs | [Read More](https://medium.com/p/972107f106cd) |
