@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 15:02:30 GMT | How a GitHub Quirk Helped Me Earn $40K+ in Bug Bounties | Arshad Kazmi | [Read More](https://medium.com/p/8efa66b8771f) |
+| Sat, 19 Jul 2025 14:56:17 GMT | The Power of Showing Up- Even When You Have Nothing to Give | Prashant Jha | [Read More](https://medium.com/p/799118e97452) |
+| Sat, 19 Jul 2025 14:45:23 GMT | Understanding Linux Filesystem Hierarchy — A Beginner’s Guide | Yamini Yadav | [Read More](https://medium.com/p/be7409b45bad) |
+| Sat, 19 Jul 2025 14:42:24 GMT | DownUnderCTF2025 rocky (Reverse Engineering — Level Easy) | L0udbaa | [Read More](https://medium.com/p/aa48d0dee612) |
 | Sat, 19 Jul 2025 14:32:59 GMT | Asynchronous File Processing in FastAPI with Background Tasks and S3 | Bhagya Rana | [Read More](https://medium.com/p/34d0b845db44) |
 | Sat, 19 Jul 2025 14:30:45 GMT | How to Implement HmacMD5 Authentication in MuleSoft (DataWeave Guide) | Tanupam Saha | [Read More](https://medium.com/p/8d566a54c42c) |
 | Sat, 19 Jul 2025 14:26:56 GMT | How an Expired Trial Led to a Critical Email Verification Bypass | Nullcore Labs | [Read More](https://medium.com/p/972107f106cd) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 08:34:40 GMT | How They Hijack Social Media Accounts To Trick Friends Into Paying. | The Anti-Scam Diaries | [Read More](https://medium.com/p/5d52eed35c55) |
 | Sat, 19 Jul 2025 08:29:46 GMT | Data Protection by NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/fc1118d8a5f8) |
 | Sat, 19 Jul 2025 08:25:36 GMT | Security Barrier Solutions in Saudi Arabia — Complete Guide for Safer Spaces | Hitech Barrier | [Read More](https://medium.com/p/9ce31fb41373) |
-| Sat, 19 Jul 2025 08:22:29 GMT | Not Another Boring Policy: Real Tips to Write Security Docs That Work | Anvitha sri | [Read More](https://medium.com/p/773ff69d1647) |
-| Sat, 19 Jul 2025 08:18:22 GMT | TIRED OF SPAM? USE THIS ONE GENIUS HACK | Simply Habibi! | [Read More](https://medium.com/p/c1ea9506de92) |
-| Sat, 19 Jul 2025 08:16:16 GMT | Part 2: Automating Mobile API Discovery Using AI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/523fb207fd15) |
-| Sat, 19 Jul 2025 08:11:10 GMT | I Found a Broken API in a Mobile App — Without Touching the App | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e787ea9e1ed1) |
