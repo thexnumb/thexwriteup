@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 21:07:01 GMT | I Found a Critical Bug in Just 30 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/b7dd320cf38f) |
+| Sat, 19 Jul 2025 21:02:06 GMT | Account Abstraction for Smarter Ethereum Wallets | Abdul Gafar Adetunji | [Read More](https://medium.com/p/896695fb2f6a) |
+| Sat, 19 Jul 2025 21:00:57 GMT | CyberExam MQTT Exploitation | Yahya İlhan Cengiz | [Read More](https://medium.com/p/0bdd221aeeab) |
+| Sat, 19 Jul 2025 20:59:43 GMT | OUTBOUND HTB | 0xLeonidas | [Read More](https://medium.com/p/7320bd379871) |
+| Sat, 19 Jul 2025 20:55:06 GMT | Scheduling Network+! | Josh Colpean | [Read More](https://medium.com/p/a6447244b86c) |
+| Sat, 19 Jul 2025 20:52:47 GMT | Let’s Defend: 36 — SOC104 — Malware Detected - Writeup | EPereda | [Read More](https://medium.com/p/6442210b1981) |
+| Sat, 19 Jul 2025 20:52:41 GMT | CTI — Inside the New Warfront: Initial Access Trends 2025 | akacipher | [Read More](https://medium.com/p/79cfe7e7dfeb) |
+| Sat, 19 Jul 2025 20:38:23 GMT | Complete Guide to Writing AES-256 CBC in Rust | Declan | [Read More](https://medium.com/p/b4cf9dd5e453) |
 | Sat, 19 Jul 2025 20:24:27 GMT | How to Find the Universal in Your Most Specific Shame | Anna Shadley | [Read More](https://medium.com/p/c5929eec34c9) |
 | Sat, 19 Jul 2025 20:21:40 GMT | Securing the AI business transformation with GenAI Firewalls for Enterprise Cybersecurity | Valdez Ladd | [Read More](https://medium.com/p/76971554230b) |
 | Sat, 19 Jul 2025 20:21:23 GMT | __________________________________________
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 14:32:59 GMT | Asynchronous File Processing in FastAPI with Background Tasks and S3 | Bhagya Rana | [Read More](https://medium.com/p/34d0b845db44) |
 | Sat, 19 Jul 2025 14:30:45 GMT | How to Implement HmacMD5 Authentication in MuleSoft (DataWeave Guide) | Tanupam Saha | [Read More](https://medium.com/p/8d566a54c42c) |
 | Sat, 19 Jul 2025 14:26:56 GMT | How an Expired Trial Led to a Critical Email Verification Bypass | Nullcore Labs | [Read More](https://medium.com/p/972107f106cd) |
-| Sat, 19 Jul 2025 14:24:21 GMT | 10 Industries AI Will Completely Take Over by 2027! | reviewraccoon | [Read More](https://medium.com/p/6e90668c809c) |
-| Sat, 19 Jul 2025 14:12:58 GMT | Top 12 Chrome Extensions Every Hacker & Pentester Should Use | Rushikesh G | [Read More](https://medium.com/p/6fae8e97dcb1) |
-| Sat, 19 Jul 2025 14:12:16 GMT | DORK Announces Promo Drop: Claim DORK Today | DORK | [Read More](https://medium.com/p/a9d9faf1351b) |
-| Sat, 19 Jul 2025 14:11:59 GMT | TryHackMe: Upload Vulnerabilities | Babatunde Ojo | [Read More](https://medium.com/p/8045329ffcad) |
-| Sat, 19 Jul 2025 14:11:37 GMT | Struggling in Bug Bounty? Here’s How I Found My First Critical | xabit • hacks | [Read More](https://medium.com/p/8878ee896928) |
-| Sat, 19 Jul 2025 14:08:34 GMT | Security Interview Prep Series — 14. Linux | Shraddha M. | [Read More](https://medium.com/p/b09d16c05cbc) |
-| Sat, 19 Jul 2025 14:07:13 GMT | The 3 Little Packets | Nul⧉ID | [Read More](https://medium.com/p/5601cadada9e) |
-| Sat, 19 Jul 2025 14:03:00 GMT | What Should You Look for in a Secure Multi-Asset Crypto Wallet Provider? | Coinpedia Insight | [Read More](https://medium.com/p/fa20fc7ac07d) |
