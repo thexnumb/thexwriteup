@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 15:38:56 GMT | A Deep Dive into OWASP A03:2021 — Injection Flaws Explained (SQL Injection & Sanitization) | Hussein Reda | [Read More](https://medium.com/p/71aa0bae3aac) |
+| Sat, 19 Jul 2025 15:36:02 GMT | The Islamic Republic: A Two-Body Serpent with a Thousand Faces | Shabangard | [Read More](https://medium.com/p/2baa80889c22) |
+| Sat, 19 Jul 2025 15:32:49 GMT | Stuck in the Bug Bounty Learning Trap: Breaking Through the Plateau That’s Holding You Back | Andrei Ivan | [Read More](https://medium.com/p/da17eb3a204b) |
+| Sat, 19 Jul 2025 15:31:47 GMT | AI Recon Agent for Hackers ⚔️ - Automate Bug Bounty Like a Pro | Harshad Shah | [Read More](https://medium.com/p/61ae7d678bda) |
+| Sat, 19 Jul 2025 15:24:46 GMT | CloakDetect: Revealing the Hidden Side of the Web | Muhammet Ali AKBAK | [Read More](https://medium.com/p/8ccde4ee6425) |
+| Sat, 19 Jul 2025 15:18:56 GMT | ️‍♂️ Cracking Cipher’s Code: A Repeating-Key XOR Decryption Story — Trcyhackme | Mohammed Muneef | [Read More](https://medium.com/p/14075d3e8e96) |
+| Sat, 19 Jul 2025 15:17:08 GMT | From Telegram to Takedown: The Fall of NoName057’s Cyber PsyOp | Gianluca Tiepolo | [Read More](https://medium.com/p/16ecfb0e2665) |
+| Sat, 19 Jul 2025 15:17:01 GMT | Mastering Web Security Headers: A Frontend Engineer’s Guide | HIMANSHU SHARMA | [Read More](https://medium.com/p/b5dcd1d305f8) |
+| Sat, 19 Jul 2025 15:12:59 GMT | Deep Learning Applications for Anomaly Detection in Network Traffic | Esra Kayhan | [Read More](https://medium.com/p/7d41dcefe072) |
 | Sat, 19 Jul 2025 15:02:30 GMT | How a GitHub Quirk Helped Me Earn $40K+ in Bug Bounties | Arshad Kazmi | [Read More](https://medium.com/p/8efa66b8771f) |
 | Sat, 19 Jul 2025 14:56:17 GMT | The Power of Showing Up- Even When You Have Nothing to Give | Prashant Jha | [Read More](https://medium.com/p/799118e97452) |
 | Sat, 19 Jul 2025 14:45:23 GMT | Understanding Linux Filesystem Hierarchy — A Beginner’s Guide | Yamini Yadav | [Read More](https://medium.com/p/be7409b45bad) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 08:59:17 GMT | Redeemer Lab Walkthrough Hack the Box Starting point: Exploring Redis Security Essentials | Gopal Mohan | [Read More](https://medium.com/p/8ed81b018c30) |
 | Sat, 19 Jul 2025 08:59:11 GMT | “How CVE-2025–4123 Turned Grafana Into a Hacker’s Playground” | Aman Sharma | [Read More](https://medium.com/p/f93a45bde714) |
 | Sat, 19 Jul 2025 08:56:13 GMT | Payload in the Haystack: Using Wayback & ParamSpider to Find a Forgotten Upload Endpoint | Iski | [Read More](https://medium.com/p/913e80351b9b) |
-| Sat, 19 Jul 2025 08:54:43 GMT | Digital Futures Secured: Tektronix & Cyber X for UAE | Tekhabeeb | [Read More](https://medium.com/p/6742f3989925) |
-| Sat, 19 Jul 2025 08:51:05 GMT | Guide: Score BUG During the Upcoming Token Giveaway | Bug | [Read More](https://medium.com/p/038dca1f4709) |
-| Sat, 19 Jul 2025 08:48:32 GMT | Biometric Security Elevated: Swisstek in Qatar’s Critical Infrastructure | expbhavya | [Read More](https://medium.com/p/d435036f32a5) |
-| Sat, 19 Jul 2025 08:44:35 GMT | How I Installed Golang and Katana on Kali Linux While Silently Falling Apart | ft_thirchu | [Read More](https://medium.com/p/6dce5352d75f) |
-| Sat, 19 Jul 2025 08:40:26 GMT | Why newscrumb Is your Solution to Information Overload | Matas Rimkus | [Read More](https://medium.com/p/ffbd7b374571) |
-| Sat, 19 Jul 2025 08:38:48 GMT | The Best way and things to Protecting Your Energy | Business Promotion Strategy. | [Read More](https://medium.com/p/790d4dd0c66c) |
-| Sat, 19 Jul 2025 08:34:40 GMT | How They Hijack Social Media Accounts To Trick Friends Into Paying. | The Anti-Scam Diaries | [Read More](https://medium.com/p/5d52eed35c55) |
-| Sat, 19 Jul 2025 08:29:46 GMT | Data Protection by NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/fc1118d8a5f8) |
-| Sat, 19 Jul 2025 08:25:36 GMT | Security Barrier Solutions in Saudi Arabia — Complete Guide for Safer Spaces | Hitech Barrier | [Read More](https://medium.com/p/9ce31fb41373) |
