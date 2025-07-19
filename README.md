@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 17:12:43 GMT | Your Company’s Password Policy Is Making You Less Safe | Aditi Pandey | [Read More](https://medium.com/p/62933e54d106) |
+| Sat, 19 Jul 2025 17:09:30 GMT | Acronis ile Disk Klonlama | Emir Ekrem Kaya | [Read More](https://medium.com/p/eec41e7d62fc) |
+| Sat, 19 Jul 2025 17:08:02 GMT | Day 48 of #60DaysofGRC: NIST CSF Organizational Profiles and Tiers | Brittney Ginther | [Read More](https://medium.com/p/dbbe333ad289) |
+| Sat, 19 Jul 2025 17:05:58 GMT | 10 Tricks to Elevate Pentest Findings | Vijay Kumar Gupta | [Read More](https://medium.com/p/86d8829471f3) |
+| Sat, 19 Jul 2025 17:04:44 GMT | DNS Kayıtlarıyla Gizli Bilgileri Ortaya Çıkarmak: Siber Güvenlikte Pasif Taramanın En Güçlü Silahı | Berdan Mut | [Read More](https://medium.com/p/2c0e1d826b8e) |
+| Sat, 19 Jul 2025 16:50:20 GMT | LunaFi Announces Community Drop: Grab LFI Today | LunaFi | [Read More](https://medium.com/p/f92de09d42c1) |
+| Sat, 19 Jul 2025 16:49:20 GMT | Climbing the Pyramid of Pain: My Cybersecurity Learning Journey via TryHackMe | Asma Yasmeen | [Read More](https://medium.com/p/b1c7a122dfa2) |
 | Sat, 19 Jul 2025 16:39:22 GMT | Bug Bounty Recon: Tokens, PII, and CI/CD Metadata Leaked via JavaScript | Medusa | [Read More](https://medium.com/p/76e3c2594957) |
 | Sat, 19 Jul 2025 16:33:14 GMT | Every Time I Fixed One Bug, Two More Showed Up, Until I Did This | Sanjeevani Bhandari | [Read More](https://medium.com/p/8d886ca04624) |
 | Sat, 19 Jul 2025 16:32:58 GMT | Ukraine Just Blew Up Gazprom’s Brain — Digitally, That Is | Ryder Blackthorn | [Read More](https://medium.com/p/16f741119b02) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 11:20:10 GMT | Refresh Tokens & JWT Expiry: The Complete Guide with Spring Boot and React | Vishwanath Patil | [Read More](https://medium.com/p/749674551005) |
 | Sat, 19 Jul 2025 11:14:17 GMT | Building An Active Directory Home Lab: Learn By Doing | Avweromre Isaiah | [Read More](https://medium.com/p/336e241434a4) |
 | Sat, 19 Jul 2025 11:12:42 GMT | What Big Tech Company even falls to | Abraham Eleojo Salifu | [Read More](https://medium.com/p/682d78a88b4a) |
-| Sat, 19 Jul 2025 11:11:52 GMT | “We’ve Heard This Story Before…” | EXLITY | [Read More](https://medium.com/p/785742dfc3eb) |
-| Sat, 19 Jul 2025 11:10:18 GMT | Your truly private backup | Maciej Dzieżyc | [Read More](https://medium.com/p/25b76fc30c00) |
-| Sat, 19 Jul 2025 11:08:35 GMT | Understanding SSL Stripping Attacks: A Hidden Threat to Web Security | Hussein Reda | [Read More](https://medium.com/p/ff9f0b022c0a) |
-| Sat, 19 Jul 2025 11:02:08 GMT | Why Every City in India Now Needs a Chief Information Security Officer (CISO) | The Quiet Hacker | [Read More](https://medium.com/p/37a113315fc5) |
-| Sat, 19 Jul 2025 10:50:55 GMT | Still Using Static Scanners? Let PHP Patch Itself Based on Threat Input | Asian Digital Hub | [Read More](https://medium.com/p/b658c8bef1cd) |
-| Sat, 19 Jul 2025 10:45:18 GMT | If Tenderness Ever Found Its Way to Hold Me | Vania Salsa | [Read More](https://medium.com/p/f8504d698ff3) |
-| Sat, 19 Jul 2025 10:39:40 GMT | Friday Overtime [SOC] #2 — WriteUp | D4m.sh | [Read More](https://medium.com/p/1e3d021311ba) |
