@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 05:27:07 GMT | The Corix Partners Friday Reading List — July 18, 2025 | JC Gaillard | [Read More](https://medium.com/p/ea7e1453494c) |
+| Sat, 19 Jul 2025 05:17:54 GMT | Dog Machine HackTheBox: Unrestricted File Upload to Remote Code Execution | Wahyu Nufal Azmi | [Read More](https://medium.com/p/9eaea81a02ff) |
 | Sat, 19 Jul 2025 05:15:07 GMT | AI and Cybersecurity | Keshav kakkar | [Read More](https://medium.com/p/192b3fd77988) |
 | Sat, 19 Jul 2025 05:07:26 GMT | Begin Your Bug Bounty Journey [in 2025] | Mr Horbio | [Read More](https://medium.com/p/54635a59eccc) |
 | Sat, 19 Jul 2025 05:00:38 GMT | How to Start Bug Hunting: A Beginner’s Guide to Ethical Hacking | CYber VIaz | [Read More](https://medium.com/p/17930bb79690) |
@@ -112,5 +114,3 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 18:45:41 GMT | Building a Professional Network Scanner: From Basic Script to Advanced Security Tool | Farhan Ansari | [Read More](https://medium.com/p/2b48e1546ea0) |
 | Fri, 18 Jul 2025 18:44:58 GMT | Detect and exploit basic Stored XSS vulnerability. And nothing special :( | Will.Star | [Read More](https://medium.com/p/c350e0f50df4) |
 | Fri, 18 Jul 2025 18:41:47 GMT | The Art of Crafting a Perfect Payload | Sai Krishna | [Read More](https://medium.com/p/7864a929081e) |
-| Fri, 18 Jul 2025 18:38:29 GMT | Cloud Threat Luring: Setting Up T-Pot 24.04.1 on Google Cloud Platform for Analysis | Aeronique | [Read More](https://medium.com/p/d4ba1a9443bc) |
-| Fri, 18 Jul 2025 18:37:47 GMT | One Tool to Rule JWTs — Easy JWT Pentesting with JWTAuditor | Sid Joshi | [Read More](https://medium.com/p/d1984cff0b23) |
