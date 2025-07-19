@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 13:20:53 GMT | The $500,000 Mistake You Could Make Tomorrow: One Dumb Click, Total Chaos | Sandeep Dwivedi | [Read More](https://medium.com/p/c5bc94f632e5) |
+| Sat, 19 Jul 2025 13:17:14 GMT | How a Man Shows His Love in His Sleep | Emily Lewis | [Read More](https://medium.com/p/a98a41ee0b3b) |
+| Sat, 19 Jul 2025 13:16:17 GMT | HTB — Base | Dfaults | [Read More](https://medium.com/p/d19c43f25362) |
+| Sat, 19 Jul 2025 13:14:06 GMT | My Journey from BBA to Cybersecurity: Breaking In with CEH | Mohammed Isran | [Read More](https://medium.com/p/22936e688981) |
+| Sat, 19 Jul 2025 13:12:50 GMT | Tumblr Post+ Creator and Got Paid $100 | Monika sharma | [Read More](https://medium.com/p/e3659f776cb5) |
+| Sat, 19 Jul 2025 13:12:44 GMT | How Our Team Bypassed YouTube Authorization and Uploaded Videos to ANY Channel — $6,337 Bounty | Yeswehack | [Read More](https://medium.com/p/d39df15f11df) |
+| Sat, 19 Jul 2025 13:12:06 GMT | Securing AI Gateways: A Critical Enterprise Imperative | Vishwajeetv | [Read More](https://medium.com/p/1aa140f0ffed) |
+| Sat, 19 Jul 2025 13:11:43 GMT | How I Built a Real-Time Email Phishing Detection Agent Using Gemini Pro and Telegram Bot | Fazal | [Read More](https://medium.com/p/50b62d51672b) |
+| Sat, 19 Jul 2025 13:09:46 GMT | Data Breach Dilemma: I Found 1000+ Leaked IDs, But a Robot Wouldn’t Let Me Warn a Top University | LordofHeaven | [Read More](https://medium.com/p/50d876970813) |
+| Sat, 19 Jul 2025 13:09:20 GMT | XSS, CSRF, SSRF… WTF? Web Vulnerabilities Explained Simply | Varnith | [Read More](https://medium.com/p/58d085e2c9db) |
+| Sat, 19 Jul 2025 13:02:20 GMT | TryHackMe TakeOver Writeup | eastnooby_01 | [Read More](https://medium.com/p/e55841e9dfd4) |
+| Sat, 19 Jul 2025 13:01:50 GMT | What Is DNS and How Does It Work? - Easy Explanation | Timonéofearth | [Read More](https://medium.com/p/1f6beb60362c) |
+| Sat, 19 Jul 2025 12:59:46 GMT | “AI Demystified: The Ultimate Breakdown of Types, Categories, and Real-World Impact” | Muiliyu Sodiq Akintomide | [Read More](https://medium.com/p/d07f9deec1f1) |
+| Sat, 19 Jul 2025 12:53:19 GMT | Top 100 PowerView & Active Directory Exploitation One-Liners (2025) | Pratham Shah | [Read More](https://medium.com/p/8e5a04cd8691) |
+| Sat, 19 Jul 2025 12:51:54 GMT | Send Becomes a Validator on Canton Network | Deficatalyst | [Read More](https://medium.com/p/9018feb2080c) |
+| Sat, 19 Jul 2025 12:48:05 GMT | “When We Mopped More Than Just Floors” | EXLITY | [Read More](https://medium.com/p/b4809a81efc9) |
+| Sat, 19 Jul 2025 12:34:32 GMT | Title: When Someone Truly Sees Your Soul | Berry | [Read More](https://medium.com/p/3b6680040016) |
 | Sat, 19 Jul 2025 12:33:23 GMT | XINTRA TechTonik Lab Walkthrough | QhtSec | [Read More](https://medium.com/p/b35f67e79acb) |
 | Sat, 19 Jul 2025 12:32:37 GMT | Understanding Best Ethical Hacking Practices | Rohit | [Read More](https://medium.com/p/7908d77fd029) |
+| Sat, 19 Jul 2025 12:31:39 GMT | Listening and Empowerment | Vincenzo D'Amico | [Read More](https://medium.com/p/76b9bbd366f2) |
 | Sat, 19 Jul 2025 12:23:17 GMT | Can a Single Quote Take Down a Database? | Alex Joyel Raj | [Read More](https://medium.com/p/0bcf374724ab) |
 | Sat, 19 Jul 2025 12:19:30 GMT | Is Your AI Secure Enough? if NOT. | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/077f5c3585bd) |
 | Sat, 19 Jul 2025 12:17:07 GMT | When Cybersecurity Meets Kiss-Cam Chaos | Dinesh Dino | [Read More](https://medium.com/p/affcebcb2b0b) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 06:57:05 GMT | Windows: Detect Security Breaches Using Event Viewer & Defender. | hp | [Read More](https://medium.com/p/a3ced968175f) |
 | Sat, 19 Jul 2025 06:56:13 GMT | Why are customers ignoring offers to help? | Stu Charlton | [Read More](https://medium.com/p/f7d533500190) |
 | Sat, 19 Jul 2025 06:46:43 GMT | Abusing Broken Access Control and SQL Injection in the Wild | RyuuKhagetsu | [Read More](https://medium.com/p/891559e13199) |
-| Sat, 19 Jul 2025 06:45:14 GMT | The Best Smart Home Security and Automation Company in Kerala | Anjumsquared | [Read More](https://medium.com/p/415881086d26) |
-| Sat, 19 Jul 2025 06:44:18 GMT | Vibe Coding Has Arrived. Your Security Model Is Obsolete. | Taimur Ijlal | [Read More](https://medium.com/p/429449cd0bb0) |
-| Sat, 19 Jul 2025 06:41:30 GMT | The 5G Trap: When Infrastructure Becomes the Battlefield | SamcommunityIn | [Read More](https://medium.com/p/b03b42a08777) |
-| Sat, 19 Jul 2025 06:37:47 GMT | Why CFA Security Is Atlanta’s Leader in Fire Alarm Systems for Businesses | Sophia Zella | [Read More](https://medium.com/p/f6cc9a4c6601) |
-| Sat, 19 Jul 2025 06:31:23 GMT | KoiLoader Malware: Turning Financial Statements into Security Nightmares | Zuri | [Read More](https://medium.com/p/503176ce92e1) |
-| Sat, 19 Jul 2025 06:30:32 GMT | Day #23 Threat Intelligence Basics: Investigating (Indicators of Compromise) from a Phishing Email | Rishavkumarthapa | [Read More](https://medium.com/p/33514b5ec19c) |
-| Sat, 19 Jul 2025 06:25:16 GMT | HELO4D LOGIN — Panduan Lengkap & Langkah Aman 2025 | Helo4d Login | [Read More](https://medium.com/p/5012be5f8ee6) |
-| Sat, 19 Jul 2025 06:22:53 GMT | How the CISA Law and Credit Scores Shape Our Financial Identity — Philippines | Rommel Jay Gadil | [Read More](https://medium.com/p/805c04054779) |
-| Sat, 19 Jul 2025 06:11:32 GMT | HELO4D Resmi — Panduan Login Aman & Fitur Unggulan 2025 | Helo4d Resmi | [Read More](https://medium.com/p/6301f40a7f72) |
-| Sat, 19 Jul 2025 06:09:54 GMT | So You Wanna Be an Ethical Hacker? Here’s How I’d Start | Ayush Kumar | [Read More](https://medium.com/p/91cfe7852b3b) |
-| Sat, 19 Jul 2025 06:02:28 GMT | Struggling with Cybersecurity Homework? Get Expert Assignment Help Now! | smruthi | [Read More](https://medium.com/p/189f8a133448) |
-| Sat, 19 Jul 2025 06:01:20 GMT | No ataques endpoints. Ataca supuestos: reinventando mi enfoque en Bug Bounty | Gorka | [Read More](https://medium.com/p/bb9a0deb2acc) |
-| Sat, 19 Jul 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Jul 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a787cdfc86ff) |
-| Sat, 19 Jul 2025 05:58:24 GMT | Protect Your Remote Team With These Cybersecurity Tools | Sarahadamsx | [Read More](https://medium.com/p/430051784e39) |
-| Sat, 19 Jul 2025 05:55:44 GMT | All-in-One Digital Security Solutions That Actually Work | Davidkwarren | [Read More](https://medium.com/p/d9d5f1f797f6) |
-| Sat, 19 Jul 2025 05:55:26 GMT | The Growing Need for Cybersecurity in the Real Estate Industry | Anam Osama | [Read More](https://medium.com/p/35dab47d2964) |
-| Sat, 19 Jul 2025 05:50:51 GMT | Kriptoqrafiya | Farid Mehdiyev | [Read More](https://medium.com/p/0ef347f6f8cb) |
-| Sat, 19 Jul 2025 05:44:13 GMT | I Lost Money Because of Inconsistency | Satyam Pathania | [Read More](https://medium.com/p/4f6c1f2a4e2f) |
