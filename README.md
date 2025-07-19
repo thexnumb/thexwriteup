@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 07:12:32 GMT | MITRE ATT&CK T1059 Command and Scripting Interpreter + with Sample Procedures | MITRE Doggy | [Read More](https://medium.com/p/a1b78ae85c5b) |
+| Sat, 19 Jul 2025 07:09:58 GMT | How to Set Up a Professional Hacking Lab: A Practical Guide for Ethical Hackers and Bug Bounty… | Santhosh Adiga U | [Read More](https://medium.com/p/350b5a9e5493) |
+| Sat, 19 Jul 2025 07:07:58 GMT | The Importance of Projects for Learning Cybersecurity | Red | [Read More](https://medium.com/p/65dceedaa8e3) |
+| Sat, 19 Jul 2025 07:07:05 GMT | WPA3 Demystified — The New Era of Wi-Fi Security(Part 4) | Amitishacked | [Read More](https://medium.com/p/7033dcdebfab) |
+| Sat, 19 Jul 2025 07:07:04 GMT | The Internet Is Crushing on Soft Men. Here’s Why Women Are Falling So Hard | John Okwuose | [Read More](https://medium.com/p/6eb76c5d882a) |
+| Sat, 19 Jul 2025 07:03:02 GMT | Beginner Guide: How Hackers Exploit Unrestricted File Uploads (and How to Prevent It) | Victor Kipkemboi | [Read More](https://medium.com/p/2f57b9ca3f5b) |
+| Sat, 19 Jul 2025 07:00:06 GMT | Enhanced Security: Qatar Businesses Adopt Next-Gen Access Control | Mohd Armaan | [Read More](https://medium.com/p/1ff692832bb8) |
+| Sat, 19 Jul 2025 06:57:05 GMT | Windows: Detect Security Breaches Using Event Viewer & Defender. | hp | [Read More](https://medium.com/p/a3ced968175f) |
+| Sat, 19 Jul 2025 06:56:13 GMT | Why are customers ignoring offers to help? | Stu Charlton | [Read More](https://medium.com/p/f7d533500190) |
+| Sat, 19 Jul 2025 06:46:43 GMT | Abusing Broken Access Control and SQL Injection in the Wild | RyuuKhagetsu | [Read More](https://medium.com/p/891559e13199) |
+| Sat, 19 Jul 2025 06:45:14 GMT | The Best Smart Home Security and Automation Company in Kerala | Anjumsquared | [Read More](https://medium.com/p/415881086d26) |
+| Sat, 19 Jul 2025 06:44:18 GMT | Vibe Coding Has Arrived. Your Security Model Is Obsolete. | Taimur Ijlal | [Read More](https://medium.com/p/429449cd0bb0) |
+| Sat, 19 Jul 2025 06:41:30 GMT | The 5G Trap: When Infrastructure Becomes the Battlefield | SamcommunityIn | [Read More](https://medium.com/p/b03b42a08777) |
+| Sat, 19 Jul 2025 06:37:47 GMT | Why CFA Security Is Atlanta’s Leader in Fire Alarm Systems for Businesses | Sophia Zella | [Read More](https://medium.com/p/f6cc9a4c6601) |
 | Sat, 19 Jul 2025 06:31:23 GMT | KoiLoader Malware: Turning Financial Statements into Security Nightmares | Zuri | [Read More](https://medium.com/p/503176ce92e1) |
+| Sat, 19 Jul 2025 06:30:32 GMT | Day #23 Threat Intelligence Basics: Investigating (Indicators of Compromise) from a Phishing Email | Rishavkumarthapa | [Read More](https://medium.com/p/33514b5ec19c) |
 | Sat, 19 Jul 2025 06:25:16 GMT | HELO4D LOGIN — Panduan Lengkap & Langkah Aman 2025 | Helo4d Login | [Read More](https://medium.com/p/5012be5f8ee6) |
 | Sat, 19 Jul 2025 06:22:53 GMT | How the CISA Law and Credit Scores Shape Our Financial Identity — Philippines | Rommel Jay Gadil | [Read More](https://medium.com/p/805c04054779) |
 | Sat, 19 Jul 2025 06:11:32 GMT | HELO4D Resmi — Panduan Login Aman & Fitur Unggulan 2025 | Helo4d Resmi | [Read More](https://medium.com/p/6301f40a7f72) |
@@ -99,18 +114,3 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 21:24:01 GMT | Break into any Microsoft building: Leaking PII in Microsoft Guest Check-In | Faav | [Read More](https://medium.com/p/6f3dbd72d385) |
 | Fri, 18 Jul 2025 21:09:50 GMT | I Accidentally Exposed My API Keys. | HASSNAIN KING | [Read More](https://medium.com/p/b6ab1c9ac737) |
 | Fri, 18 Jul 2025 21:07:16 GMT | Day 54: SSH | Nile Okomo | [Read More](https://medium.com/p/a9297d8613bb) |
-| Fri, 18 Jul 2025 20:48:23 GMT | Let’s Defend: 14 — SOC104 — Malware Detected | EPereda | [Read More](https://medium.com/p/cb077c5f6ab8) |
-| Fri, 18 Jul 2025 20:47:46 GMT | Building my Knowledgebase — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/24e87ecbba3a) |
-| Fri, 18 Jul 2025 20:47:00 GMT | Zone Transfer Vulnerability: The Forgotten Information Disclosure That Can Leak Entire DNS Records | Santhosh Adiga U | [Read More](https://medium.com/p/5f01dc5e034a) |
-| Fri, 18 Jul 2025 20:27:58 GMT | How AI Is Transforming Healthcare: From Diagnosis to Personalized Medicine | Payaam Raza | [Read More](https://medium.com/p/71a7afa5a212) |
-| Fri, 18 Jul 2025 20:27:07 GMT | Cybersecurity News Review — Week 29 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/a29a8520c50e) |
-| Fri, 18 Jul 2025 20:20:02 GMT | ⚔️ HackLab — A Bash-Powered Recon Toolkit Built for Beginners (and Built to Scale) | Mohammad Al Shahin | [Read More](https://medium.com/p/d60e69fb0b2d) |
-| Fri, 18 Jul 2025 20:13:08 GMT | Corrosion1 CTF (VulnHub) — Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/2a8f47179f4c) |
-| Fri, 18 Jul 2025 20:10:45 GMT | You’re Not Safe Online. Not Nearly As Safe As You Think | Lynne Calvert | [Read More](https://medium.com/p/cb650430a840) |
-| Fri, 18 Jul 2025 20:08:23 GMT | شرح أداة جوجل تريند: دليلك النهائي لغزو الترندات في 2025 | katibatech | [Read More](https://medium.com/p/4f90640632a0) |
-| Fri, 18 Jul 2025 19:34:24 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #3 Solution | Aviv Yaniv | [Read More](https://medium.com/p/4d9231c6ee25) |
-| Fri, 18 Jul 2025 19:34:07 GMT | I Built an AI-Powered Network Vulnerability Scanner Using Python, Nmap, CVE & a Local LLM | Rajkumar Kumawat | [Read More](https://medium.com/p/211f261f8625) |
-| Fri, 18 Jul 2025 19:33:20 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #2 Solution | Aviv Yaniv | [Read More](https://medium.com/p/56cc41ecf65d) |
-| Fri, 18 Jul 2025 19:32:13 GMT | The Curse of Being the Strong One | Shivi Chaurasia | [Read More](https://medium.com/p/5d8ee38994f2) |
-| Fri, 18 Jul 2025 19:31:10 GMT | Python + FastAPI for Security Engineers: Lightweight, Fast, and Flexible | Nikulsinh Rajput | [Read More](https://medium.com/p/94b358065ab1) |
-| Fri, 18 Jul 2025 19:30:58 GMT | I Accidentally Pushed My API Key to GitHub — and Found Out Why That’s a Big Deal | Alex Frankowski | [Read More](https://medium.com/p/d53b5131d78e) |
