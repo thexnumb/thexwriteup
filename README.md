@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 06:31:23 GMT | KoiLoader Malware: Turning Financial Statements into Security Nightmares | Zuri | [Read More](https://medium.com/p/503176ce92e1) |
+| Sat, 19 Jul 2025 06:25:16 GMT | HELO4D LOGIN — Panduan Lengkap & Langkah Aman 2025 | Helo4d Login | [Read More](https://medium.com/p/5012be5f8ee6) |
+| Sat, 19 Jul 2025 06:22:53 GMT | How the CISA Law and Credit Scores Shape Our Financial Identity — Philippines | Rommel Jay Gadil | [Read More](https://medium.com/p/805c04054779) |
+| Sat, 19 Jul 2025 06:11:32 GMT | HELO4D Resmi — Panduan Login Aman & Fitur Unggulan 2025 | Helo4d Resmi | [Read More](https://medium.com/p/6301f40a7f72) |
+| Sat, 19 Jul 2025 06:09:54 GMT | So You Wanna Be an Ethical Hacker? Here’s How I’d Start | Ayush Kumar | [Read More](https://medium.com/p/91cfe7852b3b) |
+| Sat, 19 Jul 2025 06:02:28 GMT | Struggling with Cybersecurity Homework? Get Expert Assignment Help Now! | smruthi | [Read More](https://medium.com/p/189f8a133448) |
+| Sat, 19 Jul 2025 06:01:20 GMT | No ataques endpoints. Ataca supuestos: reinventando mi enfoque en Bug Bounty | Gorka | [Read More](https://medium.com/p/bb9a0deb2acc) |
+| Sat, 19 Jul 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Jul 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a787cdfc86ff) |
+| Sat, 19 Jul 2025 05:58:24 GMT | Protect Your Remote Team With These Cybersecurity Tools | Sarahadamsx | [Read More](https://medium.com/p/430051784e39) |
+| Sat, 19 Jul 2025 05:55:44 GMT | All-in-One Digital Security Solutions That Actually Work | Davidkwarren | [Read More](https://medium.com/p/d9d5f1f797f6) |
+| Sat, 19 Jul 2025 05:55:26 GMT | The Growing Need for Cybersecurity in the Real Estate Industry | Anam Osama | [Read More](https://medium.com/p/35dab47d2964) |
+| Sat, 19 Jul 2025 05:50:51 GMT | Kriptoqrafiya | Farid Mehdiyev | [Read More](https://medium.com/p/0ef347f6f8cb) |
+| Sat, 19 Jul 2025 05:44:13 GMT | I Lost Money Because of Inconsistency | Satyam Pathania | [Read More](https://medium.com/p/4f6c1f2a4e2f) |
+| Sat, 19 Jul 2025 05:39:30 GMT | Melihat Isi Malware Tanpa Panik (dan Tanpa Ngecrash PC) | Janukhi Bisyri | [Read More](https://medium.com/p/cf1719598e56) |
+| Sat, 19 Jul 2025 05:31:05 GMT | Cyber Security Course in Dehradun: Become a trusted protector of the digital world! | Work Rashmi | [Read More](https://medium.com/p/3898d4efc3cf) |
 | Sat, 19 Jul 2025 05:27:07 GMT | The Corix Partners Friday Reading List — July 18, 2025 | JC Gaillard | [Read More](https://medium.com/p/ea7e1453494c) |
 | Sat, 19 Jul 2025 05:17:54 GMT | Dog Machine HackTheBox: Unrestricted File Upload to Remote Code Execution | Wahyu Nufal Azmi | [Read More](https://medium.com/p/9eaea81a02ff) |
 | Sat, 19 Jul 2025 05:15:07 GMT | AI and Cybersecurity | Keshav kakkar | [Read More](https://medium.com/p/192b3fd77988) |
@@ -99,18 +114,3 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 19:32:13 GMT | The Curse of Being the Strong One | Shivi Chaurasia | [Read More](https://medium.com/p/5d8ee38994f2) |
 | Fri, 18 Jul 2025 19:31:10 GMT | Python + FastAPI for Security Engineers: Lightweight, Fast, and Flexible | Nikulsinh Rajput | [Read More](https://medium.com/p/94b358065ab1) |
 | Fri, 18 Jul 2025 19:30:58 GMT | I Accidentally Pushed My API Key to GitHub — and Found Out Why That’s a Big Deal | Alex Frankowski | [Read More](https://medium.com/p/d53b5131d78e) |
-| Fri, 18 Jul 2025 19:29:49 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #1 Solution | Aviv Yaniv | [Read More](https://medium.com/p/ffe996723863) |
-| Fri, 18 Jul 2025 19:28:43 GMT | Diary Entry #14 | Preiksha Jain | [Read More](https://medium.com/p/20cb92321bb8) |
-| Fri, 18 Jul 2025 19:27:55 GMT | Agentic AI: The “New” SOA and Why Your Security Strategy Needs a Reboot | Michael Figueroa | [Read More](https://medium.com/p/4522c278d413) |
-| Fri, 18 Jul 2025 19:22:15 GMT | Accepted. As is. Without Filter. | Julie A | [Read More](https://medium.com/p/ad03080a4538) |
-| Fri, 18 Jul 2025 19:21:25 GMT | Hacking APIs: Guía Completa para Evaluación de Seguridad | Israel Aráoz Severiche | [Read More](https://medium.com/p/d4347431e3a0) |
-| Fri, 18 Jul 2025 19:17:26 GMT | The Duolingo Concern: A Cautionary Tale of AI, Ethics, and Data Exploitation | Jair Abrego Cubilla | [Read More](https://medium.com/p/f97471ec658d) |
-| Fri, 18 Jul 2025 19:16:15 GMT | “Here, Click This Totally Normal File” — Weaponization & Delivery | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/b8c50a10169b) |
-| Fri, 18 Jul 2025 19:13:20 GMT | From Breadboard to PCB: My Journey Into Circuit Design at UIRI | Grace Wanja | [Read More](https://medium.com/p/57be92eca65a) |
-| Fri, 18 Jul 2025 19:07:48 GMT | Pork CTF writeup | Ed Lustig | [Read More](https://medium.com/p/cfdf21ea9a17) |
-| Fri, 18 Jul 2025 18:58:13 GMT | Laika AI and the Evolution of Secure On-Chain Intelligence | Archaebong | [Read More](https://medium.com/p/7f200cbf8881) |
-| Fri, 18 Jul 2025 18:53:52 GMT | [Flash Blogs] Cybersecurity Meets AI: Automating STRIDE-Based Threat Modeling | Ankit Saini(@d3afh3av3n) | [Read More](https://medium.com/p/108a0c35a1a8) |
-| Fri, 18 Jul 2025 18:52:43 GMT | The Digital Battlefield: Unpacking Nation-State Cyber Warfare | CapitalCoin | [Read More](https://medium.com/p/cdcd05e7eb17) |
-| Fri, 18 Jul 2025 18:45:41 GMT | Building a Professional Network Scanner: From Basic Script to Advanced Security Tool | Farhan Ansari | [Read More](https://medium.com/p/2b48e1546ea0) |
-| Fri, 18 Jul 2025 18:44:58 GMT | Detect and exploit basic Stored XSS vulnerability. And nothing special :( | Will.Star | [Read More](https://medium.com/p/c350e0f50df4) |
-| Fri, 18 Jul 2025 18:41:47 GMT | The Art of Crafting a Perfect Payload | Sai Krishna | [Read More](https://medium.com/p/7864a929081e) |
