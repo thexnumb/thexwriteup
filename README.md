@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 10:32:53 GMT | Certified Appsec Practitioner (CAP) | Lalitha | [Read More](https://medium.com/p/64ae8adac08b) |
+| Sat, 19 Jul 2025 10:31:55 GMT | Starting Your Start-Up? Secure Its Data With Penetration testing | Redfox Security | [Read More](https://medium.com/p/aef1984fd611) |
+| Sat, 19 Jul 2025 10:31:49 GMT | Apps Behind Walls: The Story of OS Sandboxes | Natarajan C K | [Read More](https://medium.com/p/5d84b9ad0a75) |
+| Sat, 19 Jul 2025 10:26:47 GMT | Understanding Certificate Pinning in Flutter: Securing Your Mobile App | Hussein Reda | [Read More](https://medium.com/p/e0252d94273e) |
 | Sat, 19 Jul 2025 10:08:09 GMT | CTF Day(36) | Ahmed Narmer | [Read More](https://medium.com/p/9160f10ed293) |
 | Sat, 19 Jul 2025 09:52:19 GMT | How I Gave My AWS Account a Health Check-Up with Trusted Advisor | AashishChaudhari | [Read More](https://medium.com/p/2bd81b5e6088) |
 | Sat, 19 Jul 2025 09:50:31 GMT | Data Security & Compliance in Smart Ports: How Envision Mitigates Cyber Risk | P Harshavardhan | [Read More](https://medium.com/p/99d95d61165d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 02:46:41 GMT | Overview of a Threat Modelling Tool developed by Microsoft | Cristian Paduraru | [Read More](https://medium.com/p/b190277e5529) |
 | Sat, 19 Jul 2025 02:38:29 GMT | ML-KEM is not Diffie-Hellman Key Exchange: A Step-by-Step Guide to ML-KEM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/2c2ef6b7f130) |
 | Sat, 19 Jul 2025 02:35:42 GMT | 7 Brene Brown Quotes That Help Me Embrace My Vulnerability | Valerie Dansereau | [Read More](https://medium.com/p/3f3f1b00f0c7) |
-| Sat, 19 Jul 2025 01:54:32 GMT | Think Like an Attacker, Defend Like a Technician: The Cybersecurity Mindset + Toolkit You Actually… | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/a067d3c8c7e1) |
-| Sat, 19 Jul 2025 01:48:08 GMT | How to protect sensitive data when using llm’s? | Vanshika Mehta | [Read More](https://medium.com/p/647948bbb0aa) |
-| Sat, 19 Jul 2025 01:40:12 GMT | What is a VPN number? Unpacking the common confusion | Michale Dang | [Read More](https://medium.com/p/8c1fa8c0db5b) |
-| Sat, 19 Jul 2025 01:38:44 GMT | From Snowden’s Revelations to Nairobi’s Crackdowns: How Cyber Laws Are Testing/Threatening… | IBK Trevor | [Read More](https://medium.com/p/1f8cd6addd26) |
