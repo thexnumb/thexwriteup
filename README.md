@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 03:01:49 GMT | France Targeted by Russia as Primary Enemy in Europe, Says Top French General | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/be4b81b0ea9e) |
+| Sat, 19 Jul 2025 02:54:48 GMT | Building Enterprise-Grade GitHub Security Monitoring Without Breaking the Bank | Sheik Mohammad | [Read More](https://medium.com/p/6c64c5e797c5) |
+| Sat, 19 Jul 2025 02:52:21 GMT | The Invisible Threat: Inside the World of Zero-Day Exploits | Kennedymutugi | [Read More](https://medium.com/p/1adf2af3d4bc) |
+| Sat, 19 Jul 2025 02:46:41 GMT | Overview of a Threat Modelling Tool developed by Microsoft | Cristian Paduraru | [Read More](https://medium.com/p/b190277e5529) |
+| Sat, 19 Jul 2025 02:38:29 GMT | ML-KEM is not Diffie-Hellman Key Exchange: A Step-by-Step Guide to ML-KEM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/2c2ef6b7f130) |
+| Sat, 19 Jul 2025 02:35:42 GMT | 7 Brene Brown Quotes That Help Me Embrace My Vulnerability | Valerie Dansereau | [Read More](https://medium.com/p/3f3f1b00f0c7) |
+| Sat, 19 Jul 2025 01:54:32 GMT | Think Like an Attacker, Defend Like a Technician: The Cybersecurity Mindset + Toolkit You Actually… | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/a067d3c8c7e1) |
 | Sat, 19 Jul 2025 01:48:08 GMT | How to protect sensitive data when using llm’s? | Vanshika Mehta | [Read More](https://medium.com/p/647948bbb0aa) |
 | Sat, 19 Jul 2025 01:40:12 GMT | What is a VPN number? Unpacking the common confusion | Michale Dang | [Read More](https://medium.com/p/8c1fa8c0db5b) |
 | Sat, 19 Jul 2025 01:38:44 GMT | From Snowden’s Revelations to Nairobi’s Crackdowns: How Cyber Laws Are Testing/Threatening… | IBK Trevor | [Read More](https://medium.com/p/1f8cd6addd26) |
@@ -107,10 +114,3 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 17:31:29 GMT | NASA’s Cyber-AI Frontier: Intersecting Security, Autonomy, and Governance | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/bf5eed8789f7) |
 | Fri, 18 Jul 2025 17:20:19 GMT | Threat Hunting in Cloud Environments: A Hands‑On Approach | Karthikeyan Nagaraj | [Read More](https://medium.com/p/cb8720ff0968) |
 | Fri, 18 Jul 2025 17:14:45 GMT | How to Check CIS Benchmarks in Cloud and on premise And Worry Less About ISMS | Alireza Mokhtari | [Read More](https://medium.com/p/48525990f0af) |
-| Fri, 18 Jul 2025 17:14:28 GMT | $305M Vanishes: DMM, Predy, Tsuru, and OSN Wrecked by Wallet Compromise and Access Control Failures | Olympix | [Read More](https://medium.com/p/26053cf45648) |
-| Fri, 18 Jul 2025 17:11:38 GMT | $6M Stolen: AlexLab, NGFS, XBridge, and YIEDL Compromised by Key Theft and Broken Access Controls | Olympix | [Read More](https://medium.com/p/a485c2d6c7ec) |
-| Fri, 18 Jul 2025 17:11:07 GMT | The Power of Vulnerability: How Opening Up Can Improve Your Relationships and Mental Health | Osondu Divine Francis | [Read More](https://medium.com/p/97c9ffe32bda) |
-| Fri, 18 Jul 2025 17:09:27 GMT | Role of Machine Learning in Modern Data Science | Richa Ghosh | [Read More](https://medium.com/p/ce495e769476) |
-| Fri, 18 Jul 2025 17:09:14 GMT | $4M Drained: Pike, Grand Base, Sumer, and Squid Game Coin Fall to Wallet Leaks and Broken Logic | Olympix | [Read More](https://medium.com/p/e312d0d30321) |
-| Fri, 18 Jul 2025 17:07:19 GMT | Prompt Injection Attack on Evil-GPT v2: TryHackMe Walkthrough & AI Security Analysis | Aravind S V | [Read More](https://medium.com/p/063d0b5c1ed2) |
-| Fri, 18 Jul 2025 17:01:50 GMT | How to setup a darkweb site | umbraXsecure | [Read More](https://medium.com/p/d4d13a2afed4) |
