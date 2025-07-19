@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 18:40:13 GMT | Your Phone Has Eyes: The Silent Witness in Your Room | Emmily Humprey 's | [Read More](https://medium.com/p/faff45ebd9bd) |
+| Sat, 19 Jul 2025 18:39:23 GMT | Business Logic: Broken. Wallet: Hacked. OTP: Bypassed. | Het Patel | [Read More](https://medium.com/p/d82e6591a63a) |
+| Sat, 19 Jul 2025 18:28:14 GMT | SQLMap: The Complete Manual for Automated SQL Injection Testing | Ashutosh Piprode | [Read More](https://medium.com/p/9ad48d0e6eed) |
+| Sat, 19 Jul 2025 18:26:00 GMT | API Gateway Security in a nutshell | Rick Yang | [Read More](https://medium.com/p/f938b5c61570) |
 | Sat, 19 Jul 2025 18:25:02 GMT | Watering Hole Attacks : quand le prédateur choisit le terrain | Myriam Abouda | [Read More](https://medium.com/p/fb050952f670) |
 | Sat, 19 Jul 2025 18:22:47 GMT | How I Found an XSS Vulnerability in a Microsoft subdomain | Anonymousshetty | [Read More](https://medium.com/p/4abf0da5c3e9) |
 | Sat, 19 Jul 2025 18:18:07 GMT | Hezbollah’s Shadow Network in Germany: A Strategic Dossier on Islamist Infiltration, Leftist… | SIMKRA | [Read More](https://medium.com/p/0caec6735b0b) |
+| Sat, 19 Jul 2025 18:16:56 GMT | Munculnya Autentikasi Biometrik | Farizal Hamami | [Read More](https://medium.com/p/668abb3a66d8) |
 | Sat, 19 Jul 2025 18:15:22 GMT | My Battle with Gmail’s ‘Smart’ Security (and Why It’s Broken) | Sebastian Dubiel | [Read More](https://medium.com/p/c95526590316) |
 | Sat, 19 Jul 2025 18:11:38 GMT | From WazirX to CoinDCX: How a $44M Hack Became a Lesson in Crypto Trust | Shrianshkumarnahata | [Read More](https://medium.com/p/f0ffc25cdb57) |
 | Sat, 19 Jul 2025 18:08:22 GMT | Reconnaissance in Cybersecurity: From CLI to Graphs (Recon-ng, theHarvester & Maltego) | Sobhika_rajkumar | [Read More](https://medium.com/p/52d58769ef01) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 12:53:19 GMT | Top 100 PowerView & Active Directory Exploitation One-Liners (2025) | Pratham Shah | [Read More](https://medium.com/p/8e5a04cd8691) |
 | Sat, 19 Jul 2025 12:51:54 GMT | Send Becomes a Validator on Canton Network | Deficatalyst | [Read More](https://medium.com/p/9018feb2080c) |
 | Sat, 19 Jul 2025 12:48:05 GMT | “When We Mopped More Than Just Floors” | EXLITY | [Read More](https://medium.com/p/b4809a81efc9) |
-| Sat, 19 Jul 2025 12:34:32 GMT | Title: When Someone Truly Sees Your Soul | Berry | [Read More](https://medium.com/p/3b6680040016) |
-| Sat, 19 Jul 2025 12:33:23 GMT | XINTRA TechTonik Lab Walkthrough | QhtSec | [Read More](https://medium.com/p/b35f67e79acb) |
-| Sat, 19 Jul 2025 12:32:37 GMT | Understanding Best Ethical Hacking Practices | Rohit | [Read More](https://medium.com/p/7908d77fd029) |
-| Sat, 19 Jul 2025 12:31:39 GMT | Listening and Empowerment | Vincenzo D'Amico | [Read More](https://medium.com/p/76b9bbd366f2) |
-| Sat, 19 Jul 2025 12:23:17 GMT | Can a Single Quote Take Down a Database? | Alex Joyel Raj | [Read More](https://medium.com/p/0bcf374724ab) |
