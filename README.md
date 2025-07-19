@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 16:39:22 GMT | Bug Bounty Recon: Tokens, PII, and CI/CD Metadata Leaked via JavaScript | Medusa | [Read More](https://medium.com/p/76e3c2594957) |
+| Sat, 19 Jul 2025 16:33:14 GMT | Every Time I Fixed One Bug, Two More Showed Up, Until I Did This | Sanjeevani Bhandari | [Read More](https://medium.com/p/8d886ca04624) |
+| Sat, 19 Jul 2025 16:32:58 GMT | Ukraine Just Blew Up Gazprom’s Brain — Digitally, That Is | Ryder Blackthorn | [Read More](https://medium.com/p/16f741119b02) |
+| Sat, 19 Jul 2025 16:28:38 GMT | Building Honeypots for Internal Network Monitoring | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e390d03c86fb) |
+| Sat, 19 Jul 2025 16:22:51 GMT | Cara Root Android Tanpa TWRP: Cukup dengan Fastboot dan Magisk! | Riskytamba | [Read More](https://medium.com/p/6465c44436b0) |
+| Sat, 19 Jul 2025 16:21:32 GMT | How Spy Apps Assist You to Track WhatsApp Messages in Real Time | Narjis Batool | [Read More](https://medium.com/p/a9226d6c9b9d) |
+| Sat, 19 Jul 2025 16:17:48 GMT | The Elusive Nature of Interpretability | Apostolos Dimoulakis | [Read More](https://medium.com/p/ca42d00159b1) |
 | Sat, 19 Jul 2025 16:17:10 GMT | Acknowledged by Microsoft — For a Bug I Almost Didn’t Report | Harsh kothari | [Read More](https://medium.com/p/d32033ef3fec) |
 | Sat, 19 Jul 2025 16:16:55 GMT | Allowing Myself to Let Go: An Act of Inner Courage. | Solnaciente | [Read More](https://medium.com/p/6e4311a36e68) |
 | Sat, 19 Jul 2025 16:08:52 GMT | “Watch Tower” - Modbus Protocol Forensics - HTB Challenge Write-Up | Or Balog | [Read More](https://medium.com/p/b2288b45368c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 10:50:55 GMT | Still Using Static Scanners? Let PHP Patch Itself Based on Threat Input | Asian Digital Hub | [Read More](https://medium.com/p/b658c8bef1cd) |
 | Sat, 19 Jul 2025 10:45:18 GMT | If Tenderness Ever Found Its Way to Hold Me | Vania Salsa | [Read More](https://medium.com/p/f8504d698ff3) |
 | Sat, 19 Jul 2025 10:39:40 GMT | Friday Overtime [SOC] #2 — WriteUp | D4m.sh | [Read More](https://medium.com/p/1e3d021311ba) |
-| Sat, 19 Jul 2025 10:32:53 GMT | Certified Appsec Practitioner (CAP) | Lalitha | [Read More](https://medium.com/p/64ae8adac08b) |
-| Sat, 19 Jul 2025 10:31:55 GMT | Starting Your Start-Up? Secure Its Data With Penetration testing | Redfox Security | [Read More](https://medium.com/p/aef1984fd611) |
-| Sat, 19 Jul 2025 10:31:49 GMT | Apps Behind Walls: The Story of OS Sandboxes | Natarajan C K | [Read More](https://medium.com/p/5d84b9ad0a75) |
-| Sat, 19 Jul 2025 10:26:47 GMT | Understanding Certificate Pinning in Flutter: Securing Your Mobile App | Hussein Reda | [Read More](https://medium.com/p/e0252d94273e) |
-| Sat, 19 Jul 2025 10:08:09 GMT | CTF Day(36) | Ahmed Narmer | [Read More](https://medium.com/p/9160f10ed293) |
-| Sat, 19 Jul 2025 09:52:19 GMT | How I Gave My AWS Account a Health Check-Up with Trusted Advisor | AashishChaudhari | [Read More](https://medium.com/p/2bd81b5e6088) |
-| Sat, 19 Jul 2025 09:50:31 GMT | Data Security & Compliance in Smart Ports: How Envision Mitigates Cyber Risk | P Harshavardhan | [Read More](https://medium.com/p/99d95d61165d) |
