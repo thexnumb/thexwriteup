@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 20:13:42 GMT | How I Failed and Passed the PNPT Exam as a Blue Team Analyst | Khoa | [Read More](https://medium.com/p/e7e26c5dfc7e) |
+| Sat, 19 Jul 2025 20:12:16 GMT | Death by a Thousand AI Slops: How Fake Bugs Are Killing Bug Bounties | Aaron | [Read More](https://medium.com/p/e4a8803edab7) |
+| Sat, 19 Jul 2025 20:10:03 GMT | Kubernetes-AKS Upgrade: Fresh v1.32.1 Bug We Just Solved (Weekend Saved) | Sridhar | [Read More](https://medium.com/p/2dc21167de62) |
+| Sat, 19 Jul 2025 20:03:32 GMT | Tryhackme. Sneaky Patch | 14thprince | [Read More](https://medium.com/p/edd1d4c6a420) |
+| Sat, 19 Jul 2025 19:59:42 GMT | Snag Exclusive BOUNTY Through ChainBounty's Launch Bonus | ChainBounty | [Read More](https://medium.com/p/0b8c6956d0c1) |
+| Sat, 19 Jul 2025 19:56:54 GMT | How Dark Circuit Labs Can Elevate Magnet Graykey’s Mobile Forensics Capabilities | Travis Murphy | [Read More](https://medium.com/p/68265a2fabaf) |
+| Sat, 19 Jul 2025 19:55:30 GMT | Information Gathering (web edition part — 1) | Hishamrazak | [Read More](https://medium.com/p/fc86d6938ea0) |
+| Sat, 19 Jul 2025 19:51:19 GMT | Understanding and Defending Against Common Password Attack Methods | 8i5db | [Read More](https://medium.com/p/e27d63d188f3) |
+| Sat, 19 Jul 2025 19:48:20 GMT | Drosera Network: Pioneering Decentralized Security for the Ethereum Ecosystem | Daniel Udo | [Read More](https://medium.com/p/59ca168b458f) |
+| Sat, 19 Jul 2025 19:44:42 GMT | This isn’t just about data. | Hiddenvictim | [Read More](https://medium.com/p/6b3338632f5e) |
+| Sat, 19 Jul 2025 19:42:34 GMT | CoinDCX & WazirX Got Hacked — Here’s Why CryptoXpress Is the Only Safe All-in-One Crypto App in… | Zekanem King | [Read More](https://medium.com/p/2af62ecb4224) |
+| Sat, 19 Jul 2025 19:38:16 GMT | DNS Poisoning: How Hackers Trick Your Internet | Ayush Kumar | [Read More](https://medium.com/p/7621e93517a6) |
 | Sat, 19 Jul 2025 19:18:34 GMT | Build Your Own Packet Sniffer Using Python on Linux — A Beginner-Friendly Guide | Ankit | [Read More](https://medium.com/p/b42cd17b171a) |
 | Sat, 19 Jul 2025 19:17:40 GMT | 20 — SOC105 — Requested T.I. URL address - Writeup | EPereda | [Read More](https://medium.com/p/a55ad3011301) |
 | Sat, 19 Jul 2025 19:17:10 GMT | XSS Tip — Escaping Out of <textarea> Tag | Cybersecplayground | [Read More](https://medium.com/p/8164201edea3) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 13:58:36 GMT | OAuth2 : Rich Authorization Request (RAR) | Kunal Sinha | [Read More](https://medium.com/p/318a66b25b80) |
 | Sat, 19 Jul 2025 13:58:20 GMT | Bootstrapping Agent Identity: When Devices Have No Initial Trust | Kunal Sinha | [Read More](https://medium.com/p/5490d2e99979) |
 | Sat, 19 Jul 2025 13:57:13 GMT | How to Block Inappropriate Websites Using the Hosts File | James N | [Read More](https://medium.com/p/bd7b956a0d84) |
-| Sat, 19 Jul 2025 13:56:59 GMT | it hurts, but it helped me write 666 Medium articles in just 2 years (needs editing) | Godfrey The Great | [Read More](https://medium.com/p/76e9437bc973) |
-| Sat, 19 Jul 2025 13:38:48 GMT | Chapter 1: Diving Into Linux — From Desktop to Shell | Thexnumb | [Read More](https://medium.com/p/282d2d87f176) |
-| Sat, 19 Jul 2025 13:37:58 GMT | Smart Infrastructure Isn’t Just for Smart Cities | Sarah Okpe | [Read More](https://medium.com/p/34b02f3f3bc7) |
-| Sat, 19 Jul 2025 13:35:10 GMT | Search Optimization For Detection & SOC Engineers | Gökay Akın | [Read More](https://medium.com/p/1fc3a1b268af) |
-| Sat, 19 Jul 2025 13:31:08 GMT | The Hidden Risks Most Millionaires Ignore | Edgar Yende | [Read More](https://medium.com/p/46952beb3a8d) |
-| Sat, 19 Jul 2025 13:28:44 GMT | NBP Partners with Apprise Cyber for Safer Banking! | Muhammad Inam Abbasi | [Read More](https://medium.com/p/22049e3e7e7c) |
-| Sat, 19 Jul 2025 13:22:00 GMT | The Cleaning Contract That Cleaned Up Our Perspective | EXLITY | [Read More](https://medium.com/p/12c2f82bb122) |
-| Sat, 19 Jul 2025 13:20:53 GMT | The $500,000 Mistake You Could Make Tomorrow: One Dumb Click, Total Chaos | Sandeep Dwivedi | [Read More](https://medium.com/p/c5bc94f632e5) |
-| Sat, 19 Jul 2025 13:17:14 GMT | How a Man Shows His Love in His Sleep | Emily Lewis | [Read More](https://medium.com/p/a98a41ee0b3b) |
-| Sat, 19 Jul 2025 13:16:17 GMT | HTB — Base | Dfaults | [Read More](https://medium.com/p/d19c43f25362) |
-| Sat, 19 Jul 2025 13:14:06 GMT | My Journey from BBA to Cybersecurity: Breaking In with CEH | Mohammed Isran | [Read More](https://medium.com/p/22936e688981) |
-| Sat, 19 Jul 2025 13:12:50 GMT | Tumblr Post+ Creator and Got Paid $100 | Monika sharma | [Read More](https://medium.com/p/e3659f776cb5) |
