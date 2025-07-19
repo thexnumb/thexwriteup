@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 08:44:35 GMT | How I Installed Golang and Katana on Kali Linux While Silently Falling Apart | ft_thirchu | [Read More](https://medium.com/p/6dce5352d75f) |
+| Sat, 19 Jul 2025 08:38:48 GMT | The Best way and things to Protecting Your Energy | Business Promotion Strategy. | [Read More](https://medium.com/p/790d4dd0c66c) |
+| Sat, 19 Jul 2025 08:34:40 GMT | How They Hijack Social Media Accounts To Trick Friends Into Paying. | The Anti-Scam Diaries | [Read More](https://medium.com/p/5d52eed35c55) |
+| Sat, 19 Jul 2025 08:29:46 GMT | Data Protection by NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/fc1118d8a5f8) |
+| Sat, 19 Jul 2025 08:25:36 GMT | Security Barrier Solutions in Saudi Arabia — Complete Guide for Safer Spaces | Hitech Barrier | [Read More](https://medium.com/p/9ce31fb41373) |
+| Sat, 19 Jul 2025 08:22:29 GMT | Not Another Boring Policy: Real Tips to Write Security Docs That Work | Anvitha sri | [Read More](https://medium.com/p/773ff69d1647) |
 | Sat, 19 Jul 2025 08:18:22 GMT | TIRED OF SPAM? USE THIS ONE GENIUS HACK | Simply Habibi! | [Read More](https://medium.com/p/c1ea9506de92) |
 | Sat, 19 Jul 2025 08:16:16 GMT | Part 2: Automating Mobile API Discovery Using AI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/523fb207fd15) |
 | Sat, 19 Jul 2025 08:11:10 GMT | I Found a Broken API in a Mobile App — Without Touching the App | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e787ea9e1ed1) |
@@ -107,10 +113,3 @@ by Solace | Solace | [Read More](https://medium.com/p/693ea41fd6ff) |
 | Fri, 18 Jul 2025 22:55:10 GMT | The Bait You Didn’t See Coming: Understanding Phishing in Cybersecurity | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/623c842e81a5) |
 | Fri, 18 Jul 2025 22:52:29 GMT | Even FIDO Hardware Keys Can Be Phished | SecurityPulse News | [Read More](https://medium.com/p/5ba60c51e535) |
 | Fri, 18 Jul 2025 22:40:01 GMT | The Evolving Role of WAFs: On-Premises vs. Cloud-Based Deployment | Infosecjourney.tech | [Read More](https://medium.com/p/0a267deb8ffc) |
-| Fri, 18 Jul 2025 22:36:02 GMT | Why Modern WAFs Must Secure Both Web and API Traffic | Infosecjourney.tech | [Read More](https://medium.com/p/7dc47dfa0402) |
-| Fri, 18 Jul 2025 22:34:12 GMT | Cryptography and Blockchain Systems Expertise | Josue | [Read More](https://medium.com/p/37986dfe749f) |
-| Fri, 18 Jul 2025 22:32:09 GMT | Hacking My Brain: How Cybersecurity Changed the Way I Think.
-By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d536) |
-| Fri, 18 Jul 2025 22:27:03 GMT | My Virtual HomeLab: DMZ (DeMilitarized Zone) | Cybersec with Hemmars | [Read More](https://medium.com/p/68edb8e90679) |
-| Fri, 18 Jul 2025 22:26:48 GMT | Cloud Security Fundamentals: Understanding Shared Responsibility Model | Lucas Melo | [Read More](https://medium.com/p/5be03261590a) |
-| Fri, 18 Jul 2025 22:26:44 GMT | Hackers Are Hiding Malware in Plain Sight — On GitHub! | Cyber-AppSec | [Read More](https://medium.com/p/e8d2eaf357d0) |
