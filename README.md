@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 23:22:39 GMT | Forging Signed URLs and Blind SQLi: A Hackinghub CTF Writeup | mmsec | [Read More](https://medium.com/p/e53601defe60) |
+| Sat, 19 Jul 2025 23:17:18 GMT | How to Protect Your Business & Identity in 2025 (Even If You Can’t Afford a $300/hr Lawyer) | My Legal Guy | [Read More](https://medium.com/p/14e7b26ebcb1) |
+| Sat, 19 Jul 2025 23:01:50 GMT | RootMe - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/90d025873147) |
 | Sat, 19 Jul 2025 22:37:39 GMT | $300 Bounty: Limited LFI via Markdown in GSA Dashboard | Monika sharma | [Read More](https://medium.com/p/34aee1b2de23) |
 | Sat, 19 Jul 2025 22:35:27 GMT | $1000 Bounty: From 403 to Source Code | Monika sharma | [Read More](https://medium.com/p/28e9a9c572d8) |
 | Sat, 19 Jul 2025 22:29:19 GMT | How I found a loophole in Google’s region restrictions — and yes, it’s triaged now. | Muhammad Faizan Anwar | [Read More](https://medium.com/p/3cd5dc76e15a) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 16:06:49 GMT | MidJourney vs. Copyright: What an “Iron Man” Prompt Reveals About the AI Legal Crisis | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/ba4ec5d72047) |
 | Sat, 19 Jul 2025 16:01:03 GMT | Network Security: The First Line of Cyber Defense | Dany Christel | [Read More](https://medium.com/p/e842b059a700) |
 | Sat, 19 Jul 2025 16:00:24 GMT | Try Hack Me : Session Management -Task6 | Rindaman666 | [Read More](https://medium.com/p/4ff3ace28ceb) |
-| Sat, 19 Jul 2025 15:59:20 GMT | How to Choose the Best Social Media Marketing Company in Ahmedabad | Savan Varotariya | [Read More](https://medium.com/p/63f5483fb43b) |
-| Sat, 19 Jul 2025 15:54:40 GMT | DAY 19 — Chapter 9: Archving, Compressing & Recovering | Jinay | [Read More](https://medium.com/p/5b8847a13aec) |
-| Sat, 19 Jul 2025 15:54:32 GMT | Engineering Excellence: A Developer’s Guide to Industry-Proven Practices | Purnima Katiyar | [Read More](https://medium.com/p/ccadb1ae1583) |
