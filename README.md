@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 17:36:52 GMT | The Emergence of Biometric Authentication: Enhancing Security Through Human Traits | Farizal Hamami | [Read More](https://medium.com/p/7bbb695fcc62) |
+| Sat, 19 Jul 2025 17:34:33 GMT | Countdown to Quantum Threat: Upgrade Your Digital Identity With A PQC-ready European Business… | Carsten Stöcker | [Read More](https://medium.com/p/c64f16dbde52) |
+| Sat, 19 Jul 2025 17:31:48 GMT | How I Built a Simple Threat Detection Script Using Python and Scapy | Nikulsinh Rajput | [Read More](https://medium.com/p/2a36161c6ee4) |
+| Sat, 19 Jul 2025 17:26:42 GMT | The Silent Blackout: Ukraine’s Cyber Strike on Russia’s Satellite Uplink Nodes | Isaac Lowell | [Read More](https://medium.com/p/5e576a74c039) |
+| Sat, 19 Jul 2025 17:25:38 GMT | CAN I GET MY LOST OR SCAMMED BITCOIN BACK? YES, MALICE CYBER RECOVERY WILL SOLVE ALL YOUR PROBLEM. | Derrick Olsen | [Read More](https://medium.com/p/8073eaeb378e) |
+| Sat, 19 Jul 2025 17:17:53 GMT | Your EV Is a Hacker Magnet — And Quantum Computers Are the Next Threat | Garvit Haswani | [Read More](https://medium.com/p/4b9f264a9ae0) |
 | Sat, 19 Jul 2025 17:12:43 GMT | Your Company’s Password Policy Is Making You Less Safe | Aditi Pandey | [Read More](https://medium.com/p/62933e54d106) |
 | Sat, 19 Jul 2025 17:09:30 GMT | Acronis ile Disk Klonlama | Emir Ekrem Kaya | [Read More](https://medium.com/p/eec41e7d62fc) |
 | Sat, 19 Jul 2025 17:08:02 GMT | Day 48 of #60DaysofGRC: NIST CSF Organizational Profiles and Tiers | Brittney Ginther | [Read More](https://medium.com/p/dbbe333ad289) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 11:27:03 GMT | Rise of AI in Insurance For Small Business Growth 2025 | Simran Bhatia | [Read More](https://medium.com/p/56f3741283da) |
 | Sat, 19 Jul 2025 11:26:58 GMT | Linux Netcat Command Examples: An In-Depth Guide | Yamini Yadav | [Read More](https://medium.com/p/0d6461432f49) |
 | Sat, 19 Jul 2025 11:24:41 GMT | Security Groups vs. Network ACLs (NaCLs): A Hands-On Dive into AWS VPC Security | Abdulhadi | [Read More](https://medium.com/p/ffaf7978a141) |
-| Sat, 19 Jul 2025 11:21:57 GMT | TheHackersLabs — NodeCeption [Write-Up] | APS88 | [Read More](https://medium.com/p/1c883eac4aa3) |
-| Sat, 19 Jul 2025 11:21:05 GMT | Professional Linux Certification Course with Certification | cyber security Updates | [Read More](https://medium.com/p/07756537f23f) |
-| Sat, 19 Jul 2025 11:20:20 GMT | CVE-2025–29927: Next.js Middleware Bypass Zafiyeti | Nadir Sensoy | [Read More](https://medium.com/p/a0fedddc1f9a) |
-| Sat, 19 Jul 2025 11:20:10 GMT | Refresh Tokens & JWT Expiry: The Complete Guide with Spring Boot and React | Vishwanath Patil | [Read More](https://medium.com/p/749674551005) |
-| Sat, 19 Jul 2025 11:14:17 GMT | Building An Active Directory Home Lab: Learn By Doing | Avweromre Isaiah | [Read More](https://medium.com/p/336e241434a4) |
-| Sat, 19 Jul 2025 11:12:42 GMT | What Big Tech Company even falls to | Abraham Eleojo Salifu | [Read More](https://medium.com/p/682d78a88b4a) |
