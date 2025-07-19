@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 10:08:09 GMT | CTF Day(36) | Ahmed Narmer | [Read More](https://medium.com/p/9160f10ed293) |
+| Sat, 19 Jul 2025 09:52:19 GMT | How I Gave My AWS Account a Health Check-Up with Trusted Advisor | AashishChaudhari | [Read More](https://medium.com/p/2bd81b5e6088) |
+| Sat, 19 Jul 2025 09:50:31 GMT | Data Security & Compliance in Smart Ports: How Envision Mitigates Cyber Risk | P Harshavardhan | [Read More](https://medium.com/p/99d95d61165d) |
+| Sat, 19 Jul 2025 09:47:13 GMT | The Chaos of Being Human (& the Art of Pretending We’re Fine) | Vandana Nagarkoti | [Read More](https://medium.com/p/31c6a0dbde5d) |
+| Sat, 19 Jul 2025 09:41:50 GMT | Host & Network Penetration Testing: Network-Based Attacks CTF 1 (EJPT INE) | Muskanmadhur | [Read More](https://medium.com/p/e57357cc8878) |
 | Sat, 19 Jul 2025 09:34:15 GMT | 5 Best AI Tools for Pentesting That Security Pros Actually Use | Berk Ali Cakir | [Read More](https://medium.com/p/2a4fe845d9fb) |
+| Sat, 19 Jul 2025 09:31:47 GMT | Automate Your Security Logs: FastAPI Meets Python’s Logging Magic | Nikulsinh Rajput | [Read More](https://medium.com/p/c11b02562591) |
 | Sat, 19 Jul 2025 09:17:55 GMT | The Hidden Cost of Streaming: Why TV Box Security Matters in 2025 | SuperBox Official | [Read More](https://medium.com/p/11a23e783c61) |
 | Sat, 19 Jul 2025 09:04:28 GMT | LOVE ME, NOT WHAT I BRING | Simply Habibi! | [Read More](https://medium.com/p/32d22f61b4b4) |
 | Sat, 19 Jul 2025 09:02:06 GMT | Securing Web Applications with Bunkerweb | Mahdi Mallaki | [Read More](https://medium.com/p/25d6e61d2554) |
@@ -106,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 01:48:08 GMT | How to protect sensitive data when using llm’s? | Vanshika Mehta | [Read More](https://medium.com/p/647948bbb0aa) |
 | Sat, 19 Jul 2025 01:40:12 GMT | What is a VPN number? Unpacking the common confusion | Michale Dang | [Read More](https://medium.com/p/8c1fa8c0db5b) |
 | Sat, 19 Jul 2025 01:38:44 GMT | From Snowden’s Revelations to Nairobi’s Crackdowns: How Cyber Laws Are Testing/Threatening… | IBK Trevor | [Read More](https://medium.com/p/1f8cd6addd26) |
-| Sat, 19 Jul 2025 01:08:23 GMT | To the boys I never dated
-by Solace | Solace | [Read More](https://medium.com/p/693ea41fd6ff) |
-| Sat, 19 Jul 2025 00:56:52 GMT | You Had Access – Not Consent | Alexis Lane | [Read More](https://medium.com/p/dd3d90c7d2af) |
-| Sat, 19 Jul 2025 00:50:19 GMT | $5375 Bounty: IDOR — Creating a Share Link for Any Campaign Planner in Facebook Business… | Sancyty | [Read More](https://medium.com/p/03f0994d4d16) |
-| Sat, 19 Jul 2025 00:19:25 GMT | Bug Bounty Input Discovery Tool – Python-based Automation | Youssef Mohamed | [Read More](https://medium.com/p/93eed359b3c7) |
-| Sat, 19 Jul 2025 00:14:12 GMT | DLL Sideloading Attacks — Explained Simply | Paritosh | [Read More](https://medium.com/p/29a41ff840b2) |
-| Sat, 19 Jul 2025 00:13:06 GMT | Drosera Network Simplified | Gen. Dave | [Read More](https://medium.com/p/edcd2f8ceb4b) |
