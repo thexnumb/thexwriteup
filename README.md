@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 22:37:39 GMT | $300 Bounty: Limited LFI via Markdown in GSA Dashboard | Monika sharma | [Read More](https://medium.com/p/34aee1b2de23) |
+| Sat, 19 Jul 2025 22:35:27 GMT | $1000 Bounty: From 403 to Source Code | Monika sharma | [Read More](https://medium.com/p/28e9a9c572d8) |
+| Sat, 19 Jul 2025 22:29:19 GMT | How I found a loophole in Google’s region restrictions — and yes, it’s triaged now. | Muhammad Faizan Anwar | [Read More](https://medium.com/p/3cd5dc76e15a) |
+| Sat, 19 Jul 2025 22:25:31 GMT | Title: AI Didn’t Kill Writing — It Made It Immortal | OmegaPhazon Ask Questions I Like To Reply To Tuff | [Read More](https://medium.com/p/dd874d4ffb9e) |
+| Sat, 19 Jul 2025 22:23:00 GMT | They Never Came. So I Stopped Waiting. | The Observer’s Pen | [Read More](https://medium.com/p/599a68b2676b) |
+| Sat, 19 Jul 2025 22:18:02 GMT | When Depth goes unmet: | Nicole Alyse | [Read More](https://medium.com/p/0967139d4f54) |
 | Sat, 19 Jul 2025 22:16:21 GMT | Q-Bits #14: What Are Spoof Tokens in Crypto? | Fedoski | [Read More](https://medium.com/p/0cf2d4fe9b86) |
 | Sat, 19 Jul 2025 22:06:08 GMT | MISSION ACCOMPLISHED: Cyber Sentinel Initiative Complete! | 0xHamy | [Read More](https://medium.com/p/3acc0eaabd28) |
 | Sat, 19 Jul 2025 22:02:37 GMT | Top Cybersecurity Certifications in 2025: A Complete Guide for IT Professionals | Md Mazaharul Huq | [Read More](https://medium.com/p/09fcb1307688) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 15:59:20 GMT | How to Choose the Best Social Media Marketing Company in Ahmedabad | Savan Varotariya | [Read More](https://medium.com/p/63f5483fb43b) |
 | Sat, 19 Jul 2025 15:54:40 GMT | DAY 19 — Chapter 9: Archving, Compressing & Recovering | Jinay | [Read More](https://medium.com/p/5b8847a13aec) |
 | Sat, 19 Jul 2025 15:54:32 GMT | Engineering Excellence: A Developer’s Guide to Industry-Proven Practices | Purnima Katiyar | [Read More](https://medium.com/p/ccadb1ae1583) |
-| Sat, 19 Jul 2025 15:38:56 GMT | A Deep Dive into OWASP A03:2021 — Injection Flaws Explained (SQL Injection & Sanitization) | Hussein Reda | [Read More](https://medium.com/p/71aa0bae3aac) |
-| Sat, 19 Jul 2025 15:36:02 GMT | The Islamic Republic: A Two-Body Serpent with a Thousand Faces | Shabangard | [Read More](https://medium.com/p/2baa80889c22) |
-| Sat, 19 Jul 2025 15:32:49 GMT | Stuck in the Bug Bounty Learning Trap: Breaking Through the Plateau That’s Holding You Back | Andrei Ivan | [Read More](https://medium.com/p/da17eb3a204b) |
-| Sat, 19 Jul 2025 15:31:47 GMT | AI Recon Agent for Hackers ⚔️ - Automate Bug Bounty Like a Pro | Harshad Shah | [Read More](https://medium.com/p/61ae7d678bda) |
-| Sat, 19 Jul 2025 15:24:46 GMT | CloakDetect: Revealing the Hidden Side of the Web | Muhammet Ali AKBAK | [Read More](https://medium.com/p/8ccde4ee6425) |
-| Sat, 19 Jul 2025 15:18:56 GMT | ️‍♂️ Cracking Cipher’s Code: A Repeating-Key XOR Decryption Story — Trcyhackme | Mohammed Muneef | [Read More](https://medium.com/p/14075d3e8e96) |
