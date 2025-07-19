@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 12:33:23 GMT | XINTRA TechTonik Lab Walkthrough | QhtSec | [Read More](https://medium.com/p/b35f67e79acb) |
+| Sat, 19 Jul 2025 12:32:37 GMT | Understanding Best Ethical Hacking Practices | Rohit | [Read More](https://medium.com/p/7908d77fd029) |
+| Sat, 19 Jul 2025 12:23:17 GMT | Can a Single Quote Take Down a Database? | Alex Joyel Raj | [Read More](https://medium.com/p/0bcf374724ab) |
+| Sat, 19 Jul 2025 12:19:30 GMT | Is Your AI Secure Enough? if NOT. | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/077f5c3585bd) |
+| Sat, 19 Jul 2025 12:17:07 GMT | When Cybersecurity Meets Kiss-Cam Chaos | Dinesh Dino | [Read More](https://medium.com/p/affcebcb2b0b) |
+| Sat, 19 Jul 2025 12:14:01 GMT | ONE STEP AT A TIME: My Ongoing AWS Journey... | Sybil Amarachi Ikechukwu | [Read More](https://medium.com/p/75788a8dbdab) |
+| Sat, 19 Jul 2025 12:11:35 GMT | Oversharing in the Age of AI: How to Adopt Microsoft Copilot Securely | Dennis Fiorentino | [Read More](https://medium.com/p/b2977b65fe3a) |
+| Sat, 19 Jul 2025 12:11:18 GMT | PicoCTF — Most Cookies | löca | [Read More](https://medium.com/p/e394ccbbeccd) |
+| Sat, 19 Jul 2025 12:08:45 GMT | 1. How to Start Bug Bounty with Zero Knowledge | Abhijeet kumawat | [Read More](https://medium.com/p/5178f12f6529) |
+| Sat, 19 Jul 2025 12:02:38 GMT | Cracking the Code: A Deep Dive into Cybersecurity Interviews for SOC, Cloud, AppSec, and Beyond | Abhijith Soman | [Read More](https://medium.com/p/d6ca08c7e06b) |
+| Sat, 19 Jul 2025 12:02:22 GMT | 13 Real Settings that will make Your iPhone Secure | Faizan Saghir | [Read More](https://medium.com/p/d7a474e539b5) |
+| Sat, 19 Jul 2025 11:59:46 GMT | Cybersecurity Basics for Beginners: The Yahoo They Should’ve Taught You in School | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/261b3ae40999) |
+| Sat, 19 Jul 2025 11:51:56 GMT | Gain Your Share of LunaFi's Gift Event and Enjoy bonus tokens | LunaFi | [Read More](https://medium.com/p/229155db8154) |
+| Sat, 19 Jul 2025 11:36:40 GMT | Common Bug: Closure Captures a Variable from the Outer Scope | mobin shaterian | [Read More](https://medium.com/p/a5ab7bed750b) |
 | Sat, 19 Jul 2025 11:27:03 GMT | Rise of AI in Insurance For Small Business Growth 2025 | Simran Bhatia | [Read More](https://medium.com/p/56f3741283da) |
 | Sat, 19 Jul 2025 11:26:58 GMT | Linux Netcat Command Examples: An In-Depth Guide | Yamini Yadav | [Read More](https://medium.com/p/0d6461432f49) |
 | Sat, 19 Jul 2025 11:24:41 GMT | Security Groups vs. Network ACLs (NaCLs): A Hands-On Dive into AWS VPC Security | Abdulhadi | [Read More](https://medium.com/p/ffaf7978a141) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 05:55:26 GMT | The Growing Need for Cybersecurity in the Real Estate Industry | Anam Osama | [Read More](https://medium.com/p/35dab47d2964) |
 | Sat, 19 Jul 2025 05:50:51 GMT | Kriptoqrafiya | Farid Mehdiyev | [Read More](https://medium.com/p/0ef347f6f8cb) |
 | Sat, 19 Jul 2025 05:44:13 GMT | I Lost Money Because of Inconsistency | Satyam Pathania | [Read More](https://medium.com/p/4f6c1f2a4e2f) |
-| Sat, 19 Jul 2025 05:39:30 GMT | Melihat Isi Malware Tanpa Panik (dan Tanpa Ngecrash PC) | Janukhi Bisyri | [Read More](https://medium.com/p/cf1719598e56) |
-| Sat, 19 Jul 2025 05:31:05 GMT | Cyber Security Course in Dehradun: Become a trusted protector of the digital world! | Work Rashmi | [Read More](https://medium.com/p/3898d4efc3cf) |
-| Sat, 19 Jul 2025 05:27:07 GMT | The Corix Partners Friday Reading List — July 18, 2025 | JC Gaillard | [Read More](https://medium.com/p/ea7e1453494c) |
-| Sat, 19 Jul 2025 05:17:54 GMT | Dog Machine HackTheBox: Unrestricted File Upload to Remote Code Execution | Wahyu Nufal Azmi | [Read More](https://medium.com/p/9eaea81a02ff) |
-| Sat, 19 Jul 2025 05:15:07 GMT | AI and Cybersecurity | Keshav kakkar | [Read More](https://medium.com/p/192b3fd77988) |
-| Sat, 19 Jul 2025 05:07:26 GMT | Begin Your Bug Bounty Journey [in 2025] | Mr Horbio | [Read More](https://medium.com/p/54635a59eccc) |
-| Sat, 19 Jul 2025 05:00:38 GMT | How to Start Bug Hunting: A Beginner’s Guide to Ethical Hacking | CYber VIaz | [Read More](https://medium.com/p/17930bb79690) |
-| Sat, 19 Jul 2025 04:56:06 GMT | From Serial to Shell: Unpatchable Flaw in Brother Printers [CVE‑2024‑51978] | itsShotgun | [Read More](https://medium.com/p/d1393985dc40) |
-| Sat, 19 Jul 2025 04:36:05 GMT | Designing for Defense: Why Cybersecurity Is Part of Go8’s DNA | Go8 Technology Inc. | [Read More](https://medium.com/p/a4a3d6c08571) |
-| Sat, 19 Jul 2025 04:33:53 GMT | How I Got Hacked and What I Learned | welovetech | [Read More](https://medium.com/p/a061a8978319) |
-| Sat, 19 Jul 2025 04:30:42 GMT | How to Install Kali Linux in VirtualBox (Step-by-Step Guide for Beginners) | CYber VIaz | [Read More](https://medium.com/p/83a504b25959) |
-| Sat, 19 Jul 2025 04:25:36 GMT | Future of Work: Tech-Driven Remote Life | Tech_24Hours | [Read More](https://medium.com/p/3a3992d5e76d) |
-| Sat, 19 Jul 2025 04:24:52 GMT | Day5- Understanding Payloads and Attack Vectors — Cybersecurity Basics for Beginners | unica 02 | [Read More](https://medium.com/p/69a80135f34b) |
-| Sat, 19 Jul 2025 04:15:48 GMT | Qatar Bolsters Security with Advanced Facial Recognition Technology | expbhavya | [Read More](https://medium.com/p/4980bced3685) |
