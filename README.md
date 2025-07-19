@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 08:18:22 GMT | TIRED OF SPAM? USE THIS ONE GENIUS HACK | Simply Habibi! | [Read More](https://medium.com/p/c1ea9506de92) |
+| Sat, 19 Jul 2025 08:16:16 GMT | Part 2: Automating Mobile API Discovery Using AI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/523fb207fd15) |
+| Sat, 19 Jul 2025 08:11:10 GMT | I Found a Broken API in a Mobile App — Without Touching the App | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e787ea9e1ed1) |
+| Sat, 19 Jul 2025 08:00:31 GMT | Fragments of Truth: Navigating Trust in the Age of AI and Technological Overload | Melvin Jayson ogbalu | [Read More](https://medium.com/p/6fb6746dfc7e) |
+| Sat, 19 Jul 2025 07:58:19 GMT | Which Company Offers the Most Reliable Cyber Defense Services in the UAE? | Ahad me | [Read More](https://medium.com/p/98ae4c22982b) |
+| Sat, 19 Jul 2025 07:56:14 GMT | Implications of Russian Cyberespionage Group Fancy Bear for Indonesia’s National Security and Cyber… | MITRE Doggy | [Read More](https://medium.com/p/a03b94d5bbbd) |
+| Sat, 19 Jul 2025 07:53:33 GMT | TryHackMe - IR Difficulties and Challenges - WriteUp | Axoloth | [Read More](https://medium.com/p/7a51cefe7746) |
+| Sat, 19 Jul 2025 07:50:15 GMT | Top Free Directory Submission Sites for SEO Success | Aashikamhr | [Read More](https://medium.com/p/fff4a18b27df) |
+| Sat, 19 Jul 2025 07:37:09 GMT | Wazuh 簡易攻擊鍊規則撰寫 | Shiau-Jie Chen | [Read More](https://medium.com/p/41ffa048c8eb) |
+| Sat, 19 Jul 2025 07:34:12 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/9a681bf19716) |
 | Sat, 19 Jul 2025 07:29:38 GMT | API07:2023 — Server-Side Request Forgery (SSRF) | Suhel Kathi | [Read More](https://medium.com/p/c944381057bf) |
 | Sat, 19 Jul 2025 07:29:15 GMT | “What Are Country Codes and Why Do They Matter in Global Communication?” | Ramzimubarak | [Read More](https://medium.com/p/210f66470242) |
 | Sat, 19 Jul 2025 07:26:58 GMT | You can’t call it true love if you’ve never done these two things after getting intimate. | Pinna Skite | [Read More](https://medium.com/p/297215252bb5) |
@@ -104,13 +114,3 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 22:27:03 GMT | My Virtual HomeLab: DMZ (DeMilitarized Zone) | Cybersec with Hemmars | [Read More](https://medium.com/p/68edb8e90679) |
 | Fri, 18 Jul 2025 22:26:48 GMT | Cloud Security Fundamentals: Understanding Shared Responsibility Model | Lucas Melo | [Read More](https://medium.com/p/5be03261590a) |
 | Fri, 18 Jul 2025 22:26:44 GMT | Hackers Are Hiding Malware in Plain Sight — On GitHub! | Cyber-AppSec | [Read More](https://medium.com/p/e8d2eaf357d0) |
-| Fri, 18 Jul 2025 22:24:53 GMT | Episode 4: The IT Problem, or How the Middle Finger Can Be Used as a Pointing Device | deckert | [Read More](https://medium.com/p/4749c183381b) |
-| Fri, 18 Jul 2025 22:24:48 GMT | Every Cybersecurity Beginner Falls for These 3 Mistakes (I Did Too) | Satyam Pathania | [Read More](https://medium.com/p/3c6f9278735a) |
-| Fri, 18 Jul 2025 22:22:53 GMT | Why Open Source License Handling Is a Security Issue — Not Just a Legal One | Infosecjourney.tech | [Read More](https://medium.com/p/526a5a8978cb) |
-| Fri, 18 Jul 2025 22:14:32 GMT | Balancing Cybersecurity and Usability in Everyday Tech | Channel Manager Staff | [Read More](https://medium.com/p/3641827e7a21) |
-| Fri, 18 Jul 2025 22:11:53 GMT | The Silence of the Aisles | Arohi Bhate | [Read More](https://medium.com/p/48d5cb194eb4) |
-| Fri, 18 Jul 2025 22:05:56 GMT | Harden and Monitor: FIM is the Missing Link in Container Security | Infosecjourney.tech | [Read More](https://medium.com/p/a01d2f087bef) |
-| Fri, 18 Jul 2025 22:03:00 GMT | How Are You? Really. | Tanya Mehta | [Read More](https://medium.com/p/1086d4f8581b) |
-| Fri, 18 Jul 2025 22:03:00 GMT | AI for Cybersecurity | Mauro Di Pietro | [Read More](https://medium.com/p/8ab643cd5a3d) |
-| Fri, 18 Jul 2025 21:44:19 GMT | Top 5 Free Firewall Software Tools to Instantly Boost Your Security | The Daily Technology | [Read More](https://medium.com/p/4ceedf0b83b0) |
-| Fri, 18 Jul 2025 21:41:27 GMT | INFORMATION TECHNOLOGY AND THE CHOICES WE MAKE. | Mohamed Hasil | [Read More](https://medium.com/p/a1b2f924c99f) |
