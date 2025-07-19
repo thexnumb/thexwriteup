@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 01:48:08 GMT | How to protect sensitive data when using llm’s? | Vanshika Mehta | [Read More](https://medium.com/p/647948bbb0aa) |
+| Sat, 19 Jul 2025 01:40:12 GMT | What is a VPN number? Unpacking the common confusion | Michale Dang | [Read More](https://medium.com/p/8c1fa8c0db5b) |
+| Sat, 19 Jul 2025 01:38:44 GMT | From Snowden’s Revelations to Nairobi’s Crackdowns: How Cyber Laws Are Testing/Threatening… | IBK Trevor | [Read More](https://medium.com/p/1f8cd6addd26) |
+| Sat, 19 Jul 2025 01:08:23 GMT | To the boys I never dated
+by Solace | Solace | [Read More](https://medium.com/p/693ea41fd6ff) |
+| Sat, 19 Jul 2025 00:56:52 GMT | You Had Access – Not Consent | Alexis Lane | [Read More](https://medium.com/p/dd3d90c7d2af) |
+| Sat, 19 Jul 2025 00:50:19 GMT | $5375 Bounty: IDOR — Creating a Share Link for Any Campaign Planner in Facebook Business… | Sancyty | [Read More](https://medium.com/p/03f0994d4d16) |
+| Sat, 19 Jul 2025 00:19:25 GMT | Bug Bounty Input Discovery Tool – Python-based Automation | Youssef Mohamed | [Read More](https://medium.com/p/93eed359b3c7) |
+| Sat, 19 Jul 2025 00:14:12 GMT | DLL Sideloading Attacks — Explained Simply | Paritosh | [Read More](https://medium.com/p/29a41ff840b2) |
+| Sat, 19 Jul 2025 00:13:06 GMT | Drosera Network Simplified | Gen. Dave | [Read More](https://medium.com/p/edcd2f8ceb4b) |
+| Sat, 19 Jul 2025 00:01:48 GMT | Insecure Design (OWASP A04): Hacking, Bug Bounty, and Prevention Guide | JPablo13 | [Read More](https://medium.com/p/4d4851d73677) |
+| Sat, 19 Jul 2025 00:00:26 GMT | $500 Bounty: Excessive Memory Usage in Messenger and Facebook App When Rendering Invalid GIFs | Sancyty | [Read More](https://medium.com/p/b1f1bf15ba18) |
 | Fri, 18 Jul 2025 23:33:18 GMT | Know What Your Children are Doing Online | Savvy Cyber Kids | [Read More](https://medium.com/p/b78bbfb6c9a3) |
 | Fri, 18 Jul 2025 23:32:36 GMT | Social Media and Grooming | Savvy Cyber Kids | [Read More](https://medium.com/p/bcb55cf56843) |
 | Fri, 18 Jul 2025 23:32:08 GMT | All About Cyberama | Savvy Cyber Kids | [Read More](https://medium.com/p/2db0139d9ce7) |
@@ -102,14 +114,3 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 17:09:14 GMT | $4M Drained: Pike, Grand Base, Sumer, and Squid Game Coin Fall to Wallet Leaks and Broken Logic | Olympix | [Read More](https://medium.com/p/e312d0d30321) |
 | Fri, 18 Jul 2025 17:07:19 GMT | Prompt Injection Attack on Evil-GPT v2: TryHackMe Walkthrough & AI Security Analysis | Aravind S V | [Read More](https://medium.com/p/063d0b5c1ed2) |
 | Fri, 18 Jul 2025 17:01:50 GMT | How to setup a darkweb site | umbraXsecure | [Read More](https://medium.com/p/d4d13a2afed4) |
-| Fri, 18 Jul 2025 16:55:49 GMT | CVE-2025–4919 [for Dummies] | dannyDUD | [Read More](https://medium.com/p/d7603dec5a34) |
-| Fri, 18 Jul 2025 16:53:58 GMT | What the Job Market Can Teach Us About App Security (Spoiler: It’s Kinda Broken) | Chris J Shelby | [Read More](https://medium.com/p/a9bfd424f7f5) |
-| Fri, 18 Jul 2025 16:53:31 GMT | Broken Access Control | t0x1k | [Read More](https://medium.com/p/89c8fc5149da) |
-| Fri, 18 Jul 2025 16:51:57 GMT | Google Sues Chinese Hackers Behind BadBox 2.0 — World’s Largest Smart TV Botnet. | eL Njas!™ | [Read More](https://medium.com/p/c64239ffe53c) |
-| Fri, 18 Jul 2025 16:40:31 GMT | If This Were a Security Alert, I’d Flag It: What a Job Post Taught Me About LinkedIn UX | Gitika Babbar | [Read More](https://medium.com/p/548808fb1ae4) |
-| Fri, 18 Jul 2025 16:40:19 GMT | TryHackMe W1seGuy — Solved with Only CyberChef (No Scripts!) | Soumyashree Sahoo | [Read More](https://medium.com/p/51f636e3b178) |
-| Fri, 18 Jul 2025 16:30:21 GMT | Stay Ahead in Cybersecurity: Discover the Power of the CVE Search Tool by Security Toolkit | Haxshadow | [Read More](https://medium.com/p/ce626c0dc483) |
-| Fri, 18 Jul 2025 16:28:32 GMT | DNS Attacks Explained: How They Work and How to Defend Against Them | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/422250077ed4) |
-| Fri, 18 Jul 2025 16:27:46 GMT | OverTheWire: Bandit Level 0 | Wizard-Of-Oz | [Read More](https://medium.com/p/d7054a8d983e) |
-| Fri, 18 Jul 2025 16:22:20 GMT | ️ Build the Ultimate Bug Bounty & Recon Machine on Fresh Kali Linux (2025) | Rudra Potghan | [Read More](https://medium.com/p/12c33fdf48bd) |
-| Fri, 18 Jul 2025 16:19:52 GMT | Phobos & 8-Base Decrypter | c0mpl3x | [Read More](https://medium.com/p/15df74a4c2f6) |
