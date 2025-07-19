@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 03:46:59 GMT | When I was working as a software developer, one day I was assigned a task that was quite different… | EMMANUEL JOSE | [Read More](https://medium.com/p/f95ddb85dd5c) |
+| Sat, 19 Jul 2025 03:42:34 GMT | Microsoft to Stop Using China-Based Engineers for U.S. | MindMemoirs | [Read More](https://medium.com/p/a24bf47e835f) |
+| Sat, 19 Jul 2025 03:38:35 GMT | Understanding Firewalls: A Deep Dive into Fortigate Fortinet Firewall for SOC Analysts | Aliyefhemin | [Read More](https://medium.com/p/f1759b550e3d) |
+| Sat, 19 Jul 2025 03:34:32 GMT | Vulnerability Isn’t a Practice. It’s a Consequence. | Metro Munk | [Read More](https://medium.com/p/26009336e828) |
+| Sat, 19 Jul 2025 03:32:58 GMT | How a Pune Auto Parts Firm Lost ₹2.35 Crore to a Fake Supplier Email | Deven Chhajed | [Read More](https://medium.com/p/d2768cdf558a) |
+| Sat, 19 Jul 2025 03:25:56 GMT | Information for Technology: Why It’s the Backbone of Digital Business | Business Pro Tech | [Read More](https://medium.com/p/f4fc40b42ac0) |
+| Sat, 19 Jul 2025 03:21:18 GMT | Drosera 101 By Gen. Dave | Gen. Dave | [Read More](https://medium.com/p/27a3f4947ceb) |
+| Sat, 19 Jul 2025 03:15:37 GMT | Your Smart TV Is Smarter Than You Think — Not in a Good Way | Rahul Mishra | [Read More](https://medium.com/p/af322eb18285) |
 | Sat, 19 Jul 2025 03:01:49 GMT | France Targeted by Russia as Primary Enemy in Europe, Says Top French General | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/be4b81b0ea9e) |
 | Sat, 19 Jul 2025 02:54:48 GMT | Building Enterprise-Grade GitHub Security Monitoring Without Breaking the Bank | Sheik Mohammad | [Read More](https://medium.com/p/6c64c5e797c5) |
 | Sat, 19 Jul 2025 02:52:21 GMT | The Invisible Threat: Inside the World of Zero-Day Exploits | Kennedymutugi | [Read More](https://medium.com/p/1adf2af3d4bc) |
@@ -106,11 +114,3 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 17:50:29 GMT | "The Convergence Layer" is a concept that appears in multiple domains — from computer networks and… | ♐DecentralizedDev | [Read More](https://medium.com/p/25f2db03fb34) |
 | Fri, 18 Jul 2025 17:50:06 GMT | July 18, 2025 — A Day of Worms, Rain, Rage, and Routers | IamGhost | [Read More](https://medium.com/p/6764abcc0134) |
 | Fri, 18 Jul 2025 17:47:40 GMT | The Ultimate Arsenal for Security Testing and Ethical Hacking | Javier Calderon Jr | [Read More](https://medium.com/p/8e743491360b) |
-| Fri, 18 Jul 2025 17:46:23 GMT | Navigating Public Wi-Fi: 5 Safety Tips You Can’t Ignore | Amina Mussa | [Read More](https://medium.com/p/6500b1afb902) |
-| Fri, 18 Jul 2025 17:45:34 GMT | Exploring Diverse Metrics for Enhancing Security Operations Effectiveness:- | Aman kamra | [Read More](https://medium.com/p/c67121a141ff) |
-| Fri, 18 Jul 2025 17:41:21 GMT | BTLO Foxy Investigation: Full Walkthrough with OSINT and Malware Sandbox Analysis | Pranav | [Read More](https://medium.com/p/8b71fb6d3225) |
-| Fri, 18 Jul 2025 17:32:09 GMT | Bypassing Modern EDRs: Practical Evasion Techniques (2025 Edition) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/0158fca683ed) |
-| Fri, 18 Jul 2025 17:31:45 GMT | JWTs Are for Authorization, Not Session Management — Here’s the Difference | Observability Guy | [Read More](https://medium.com/p/7766a4af5e4e) |
-| Fri, 18 Jul 2025 17:31:29 GMT | NASA’s Cyber-AI Frontier: Intersecting Security, Autonomy, and Governance | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/bf5eed8789f7) |
-| Fri, 18 Jul 2025 17:20:19 GMT | Threat Hunting in Cloud Environments: A Hands‑On Approach | Karthikeyan Nagaraj | [Read More](https://medium.com/p/cb8720ff0968) |
-| Fri, 18 Jul 2025 17:14:45 GMT | How to Check CIS Benchmarks in Cloud and on premise And Worry Less About ISMS | Alireza Mokhtari | [Read More](https://medium.com/p/48525990f0af) |
