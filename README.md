@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 05:15:07 GMT | AI and Cybersecurity | Keshav kakkar | [Read More](https://medium.com/p/192b3fd77988) |
+| Sat, 19 Jul 2025 05:07:26 GMT | Begin Your Bug Bounty Journey [in 2025] | Mr Horbio | [Read More](https://medium.com/p/54635a59eccc) |
+| Sat, 19 Jul 2025 05:00:38 GMT | How to Start Bug Hunting: A Beginner’s Guide to Ethical Hacking | CYber VIaz | [Read More](https://medium.com/p/17930bb79690) |
+| Sat, 19 Jul 2025 04:56:06 GMT | From Serial to Shell: Unpatchable Flaw in Brother Printers [CVE‑2024‑51978] | itsShotgun | [Read More](https://medium.com/p/d1393985dc40) |
 | Sat, 19 Jul 2025 04:36:05 GMT | Designing for Defense: Why Cybersecurity Is Part of Go8’s DNA | Go8 Technology Inc. | [Read More](https://medium.com/p/a4a3d6c08571) |
 | Sat, 19 Jul 2025 04:33:53 GMT | How I Got Hacked and What I Learned | welovetech | [Read More](https://medium.com/p/a061a8978319) |
 | Sat, 19 Jul 2025 04:30:42 GMT | How to Install Kali Linux in VirtualBox (Step-by-Step Guide for Beginners) | CYber VIaz | [Read More](https://medium.com/p/83a504b25959) |
@@ -110,7 +114,3 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 18:41:47 GMT | The Art of Crafting a Perfect Payload | Sai Krishna | [Read More](https://medium.com/p/7864a929081e) |
 | Fri, 18 Jul 2025 18:38:29 GMT | Cloud Threat Luring: Setting Up T-Pot 24.04.1 on Google Cloud Platform for Analysis | Aeronique | [Read More](https://medium.com/p/d4ba1a9443bc) |
 | Fri, 18 Jul 2025 18:37:47 GMT | One Tool to Rule JWTs — Easy JWT Pentesting with JWTAuditor | Sid Joshi | [Read More](https://medium.com/p/d1984cff0b23) |
-| Fri, 18 Jul 2025 18:34:10 GMT | Nmap for Bug Bounty: Essential Commands Every Hunter Should Know | SAMAEL 0x4 | [Read More](https://medium.com/p/77fd4fe47703) |
-| Fri, 18 Jul 2025 18:31:01 GMT | “Who Are You?” and Why That Question Matters Most | Ketan Polawar | [Read More](https://medium.com/p/abcfb74c8e22) |
-| Fri, 18 Jul 2025 18:21:01 GMT | Thousands of WordPress Sites at Risk After Gravity Forms Breach | Feroot Security | [Read More](https://medium.com/p/46a040b45a30) |
-| Fri, 18 Jul 2025 18:17:38 GMT | DAY 18 — Wireshark Investigation- KOI Loader | Jinay | [Read More](https://medium.com/p/2fba09805e19) |
