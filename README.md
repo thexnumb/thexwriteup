@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 07:29:38 GMT | API07:2023 — Server-Side Request Forgery (SSRF) | Suhel Kathi | [Read More](https://medium.com/p/c944381057bf) |
+| Sat, 19 Jul 2025 07:29:15 GMT | “What Are Country Codes and Why Do They Matter in Global Communication?” | Ramzimubarak | [Read More](https://medium.com/p/210f66470242) |
+| Sat, 19 Jul 2025 07:26:58 GMT | You can’t call it true love if you’ve never done these two things after getting intimate. | Pinna Skite | [Read More](https://medium.com/p/297215252bb5) |
+| Sat, 19 Jul 2025 07:20:43 GMT | Lets know who’s genuine. | Joshua Mfon Effiong | [Read More](https://medium.com/p/43f511085e16) |
+| Sat, 19 Jul 2025 07:19:25 GMT | How We Found an Unauthenticated AI Endpoint Allowing Remote Code Execution | Pipeline | [Read More](https://medium.com/p/1236a3bff99d) |
 | Sat, 19 Jul 2025 07:12:32 GMT | MITRE ATT&CK T1059 Command and Scripting Interpreter + with Sample Procedures | MITRE Doggy | [Read More](https://medium.com/p/a1b78ae85c5b) |
 | Sat, 19 Jul 2025 07:09:58 GMT | How to Set Up a Professional Hacking Lab: A Practical Guide for Ethical Hackers and Bug Bounty… | Santhosh Adiga U | [Read More](https://medium.com/p/350b5a9e5493) |
 | Sat, 19 Jul 2025 07:07:58 GMT | The Importance of Projects for Learning Cybersecurity | Red | [Read More](https://medium.com/p/65dceedaa8e3) |
@@ -109,8 +114,3 @@ By B. Manya Shetty | B Manya Shetty | [Read More](https://medium.com/p/12698ff7d
 | Fri, 18 Jul 2025 22:03:00 GMT | AI for Cybersecurity | Mauro Di Pietro | [Read More](https://medium.com/p/8ab643cd5a3d) |
 | Fri, 18 Jul 2025 21:44:19 GMT | Top 5 Free Firewall Software Tools to Instantly Boost Your Security | The Daily Technology | [Read More](https://medium.com/p/4ceedf0b83b0) |
 | Fri, 18 Jul 2025 21:41:27 GMT | INFORMATION TECHNOLOGY AND THE CHOICES WE MAKE. | Mohamed Hasil | [Read More](https://medium.com/p/a1b2f924c99f) |
-| Fri, 18 Jul 2025 21:31:44 GMT | Day 54: Netcat | Nile Okomo | [Read More](https://medium.com/p/f13e5911bd13) |
-| Fri, 18 Jul 2025 21:26:09 GMT | 量子通訊不再遙遠：打造可落地於 Azure 的 QKD 安全模組藍圖 | Tiffany Chiang | [Read More](https://medium.com/p/4d411dfe30b1) |
-| Fri, 18 Jul 2025 21:24:01 GMT | Break into any Microsoft building: Leaking PII in Microsoft Guest Check-In | Faav | [Read More](https://medium.com/p/6f3dbd72d385) |
-| Fri, 18 Jul 2025 21:09:50 GMT | I Accidentally Exposed My API Keys. | HASSNAIN KING | [Read More](https://medium.com/p/b6ab1c9ac737) |
-| Fri, 18 Jul 2025 21:07:16 GMT | Day 54: SSH | Nile Okomo | [Read More](https://medium.com/p/a9297d8613bb) |
