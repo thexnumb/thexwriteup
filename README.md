@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 19:18:34 GMT | Build Your Own Packet Sniffer Using Python on Linux — A Beginner-Friendly Guide | Ankit | [Read More](https://medium.com/p/b42cd17b171a) |
+| Sat, 19 Jul 2025 19:17:40 GMT | 20 — SOC105 — Requested T.I. URL address - Writeup | EPereda | [Read More](https://medium.com/p/a55ad3011301) |
+| Sat, 19 Jul 2025 19:17:10 GMT | XSS Tip — Escaping Out of <textarea> Tag | Cybersecplayground | [Read More](https://medium.com/p/8164201edea3) |
 | Sat, 19 Jul 2025 19:11:55 GMT | Source Code Confessions: Comments That Betray Phishers | Hunter Harrison | [Read More](https://medium.com/p/5d32190eafb6) |
+| Sat, 19 Jul 2025 19:11:46 GMT | What Is LlamaIndex? How This Chunk-First AI Tool Supercharges Your LLM’s Memory | AIAlchemist_Ab1r | [Read More](https://medium.com/p/a6086ed5c910) |
+| Sat, 19 Jul 2025 19:10:12 GMT | Flying with a Carry-On on American Airlines: Tips from 4MYTU | Altasoznur | [Read More](https://medium.com/p/c861b666698d) |
 | Sat, 19 Jul 2025 19:07:33 GMT | SQL Injection: A Hacker’s Syringe into Your Database | Khushi Garg | [Read More](https://medium.com/p/c2560c115138) |
 | Sat, 19 Jul 2025 19:02:57 GMT | 16 — SOC105 — Requested T.I. URL address - Walkthrough | EPereda | [Read More](https://medium.com/p/5e0d80dd1942) |
 | Sat, 19 Jul 2025 18:58:40 GMT | Business Logic Vulnerabilities part-8 : Insufficient workflow validation | Ahmad Sopyan | [Read More](https://medium.com/p/bdb24381219a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 13:16:17 GMT | HTB — Base | Dfaults | [Read More](https://medium.com/p/d19c43f25362) |
 | Sat, 19 Jul 2025 13:14:06 GMT | My Journey from BBA to Cybersecurity: Breaking In with CEH | Mohammed Isran | [Read More](https://medium.com/p/22936e688981) |
 | Sat, 19 Jul 2025 13:12:50 GMT | Tumblr Post+ Creator and Got Paid $100 | Monika sharma | [Read More](https://medium.com/p/e3659f776cb5) |
-| Sat, 19 Jul 2025 13:12:44 GMT | How Our Team Bypassed YouTube Authorization and Uploaded Videos to ANY Channel — $6,337 Bounty | Yeswehack | [Read More](https://medium.com/p/d39df15f11df) |
-| Sat, 19 Jul 2025 13:12:06 GMT | Securing AI Gateways: A Critical Enterprise Imperative | Vishwajeetv | [Read More](https://medium.com/p/1aa140f0ffed) |
-| Sat, 19 Jul 2025 13:11:43 GMT | How I Built a Real-Time Email Phishing Detection Agent Using Gemini Pro and Telegram Bot | Fazal | [Read More](https://medium.com/p/50b62d51672b) |
-| Sat, 19 Jul 2025 13:09:46 GMT | Data Breach Dilemma: I Found 1000+ Leaked IDs, But a Robot Wouldn’t Let Me Warn a Top University | LordofHeaven | [Read More](https://medium.com/p/50d876970813) |
-| Sat, 19 Jul 2025 13:09:20 GMT | XSS, CSRF, SSRF… WTF? Web Vulnerabilities Explained Simply | Varnith | [Read More](https://medium.com/p/58d085e2c9db) |
