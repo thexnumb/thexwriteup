@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 09:34:15 GMT | 5 Best AI Tools for Pentesting That Security Pros Actually Use | Berk Ali Cakir | [Read More](https://medium.com/p/2a4fe845d9fb) |
+| Sat, 19 Jul 2025 09:17:55 GMT | The Hidden Cost of Streaming: Why TV Box Security Matters in 2025 | SuperBox Official | [Read More](https://medium.com/p/11a23e783c61) |
 | Sat, 19 Jul 2025 09:04:28 GMT | LOVE ME, NOT WHAT I BRING | Simply Habibi! | [Read More](https://medium.com/p/32d22f61b4b4) |
 | Sat, 19 Jul 2025 09:02:06 GMT | Securing Web Applications with Bunkerweb | Mahdi Mallaki | [Read More](https://medium.com/p/25d6e61d2554) |
 | Sat, 19 Jul 2025 08:59:17 GMT | Redeemer Lab Walkthrough Hack the Box Starting point: Exploring Redis Security Essentials | Gopal Mohan | [Read More](https://medium.com/p/8ed81b018c30) |
@@ -111,5 +113,3 @@ by Solace | Solace | [Read More](https://medium.com/p/693ea41fd6ff) |
 | Sat, 19 Jul 2025 00:19:25 GMT | Bug Bounty Input Discovery Tool – Python-based Automation | Youssef Mohamed | [Read More](https://medium.com/p/93eed359b3c7) |
 | Sat, 19 Jul 2025 00:14:12 GMT | DLL Sideloading Attacks — Explained Simply | Paritosh | [Read More](https://medium.com/p/29a41ff840b2) |
 | Sat, 19 Jul 2025 00:13:06 GMT | Drosera Network Simplified | Gen. Dave | [Read More](https://medium.com/p/edcd2f8ceb4b) |
-| Sat, 19 Jul 2025 00:01:48 GMT | Insecure Design (OWASP A04): Hacking, Bug Bounty, and Prevention Guide | JPablo13 | [Read More](https://medium.com/p/4d4851d73677) |
-| Sat, 19 Jul 2025 00:00:26 GMT | $500 Bounty: Excessive Memory Usage in Messenger and Facebook App When Rendering Invalid GIFs | Sancyty | [Read More](https://medium.com/p/b1f1bf15ba18) |
