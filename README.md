@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 11:08:35 GMT | Understanding SSL Stripping Attacks: A Hidden Threat to Web Security | Hussein Reda | [Read More](https://medium.com/p/ff9f0b022c0a) |
+| Sat, 19 Jul 2025 11:02:08 GMT | Why Every City in India Now Needs a Chief Information Security Officer (CISO) | The Quiet Hacker | [Read More](https://medium.com/p/37a113315fc5) |
+| Sat, 19 Jul 2025 10:50:55 GMT | Still Using Static Scanners? Let PHP Patch Itself Based on Threat Input | Asian Digital Hub | [Read More](https://medium.com/p/b658c8bef1cd) |
+| Sat, 19 Jul 2025 10:45:18 GMT | If Tenderness Ever Found Its Way to Hold Me | Vania Salsa | [Read More](https://medium.com/p/f8504d698ff3) |
+| Sat, 19 Jul 2025 10:39:40 GMT | Friday Overtime [SOC] #2 — WriteUp | D4m.sh | [Read More](https://medium.com/p/1e3d021311ba) |
 | Sat, 19 Jul 2025 10:32:53 GMT | Certified Appsec Practitioner (CAP) | Lalitha | [Read More](https://medium.com/p/64ae8adac08b) |
 | Sat, 19 Jul 2025 10:31:55 GMT | Starting Your Start-Up? Secure Its Data With Penetration testing | Redfox Security | [Read More](https://medium.com/p/aef1984fd611) |
 | Sat, 19 Jul 2025 10:31:49 GMT | Apps Behind Walls: The Story of OS Sandboxes | Natarajan C K | [Read More](https://medium.com/p/5d84b9ad0a75) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 03:21:18 GMT | Drosera 101 By Gen. Dave | Gen. Dave | [Read More](https://medium.com/p/27a3f4947ceb) |
 | Sat, 19 Jul 2025 03:15:37 GMT | Your Smart TV Is Smarter Than You Think — Not in a Good Way | Rahul Mishra | [Read More](https://medium.com/p/af322eb18285) |
 | Sat, 19 Jul 2025 03:01:49 GMT | France Targeted by Russia as Primary Enemy in Europe, Says Top French General | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/be4b81b0ea9e) |
-| Sat, 19 Jul 2025 02:54:48 GMT | Building Enterprise-Grade GitHub Security Monitoring Without Breaking the Bank | Sheik Mohammad | [Read More](https://medium.com/p/6c64c5e797c5) |
-| Sat, 19 Jul 2025 02:52:21 GMT | The Invisible Threat: Inside the World of Zero-Day Exploits | Kennedymutugi | [Read More](https://medium.com/p/1adf2af3d4bc) |
-| Sat, 19 Jul 2025 02:46:41 GMT | Overview of a Threat Modelling Tool developed by Microsoft | Cristian Paduraru | [Read More](https://medium.com/p/b190277e5529) |
-| Sat, 19 Jul 2025 02:38:29 GMT | ML-KEM is not Diffie-Hellman Key Exchange: A Step-by-Step Guide to ML-KEM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/2c2ef6b7f130) |
-| Sat, 19 Jul 2025 02:35:42 GMT | 7 Brene Brown Quotes That Help Me Embrace My Vulnerability | Valerie Dansereau | [Read More](https://medium.com/p/3f3f1b00f0c7) |
