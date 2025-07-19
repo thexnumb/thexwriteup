@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Sat, 19 Jul 2025 23:22:39 GMT | Forging Signed URLs and Blind SQLi: A Hackinghub CTF Writeup | mmsec | [Read More](https://medium.com/p/e53601defe60) |
+| Sat, 19 Jul 2025 23:18:01 GMT | You Weren’t Too Much — They Were Too Little. | Marymagdalene Ogeleka | [Read More](https://medium.com/p/cf31ee73d0df) |
 | Sat, 19 Jul 2025 23:17:18 GMT | How to Protect Your Business & Identity in 2025 (Even If You Can’t Afford a $300/hr Lawyer) | My Legal Guy | [Read More](https://medium.com/p/14e7b26ebcb1) |
 | Sat, 19 Jul 2025 23:01:50 GMT | RootMe - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/90d025873147) |
 | Sat, 19 Jul 2025 22:37:39 GMT | $300 Bounty: Limited LFI via Markdown in GSA Dashboard | Monika sharma | [Read More](https://medium.com/p/34aee1b2de23) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 16:08:09 GMT | OpenAI’s Red Teaming Sets the Gold Standard for AI Security | Pawel | [Read More](https://medium.com/p/a71df1a8bedd) |
 | Sat, 19 Jul 2025 16:06:49 GMT | MidJourney vs. Copyright: What an “Iron Man” Prompt Reveals About the AI Legal Crisis | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/ba4ec5d72047) |
 | Sat, 19 Jul 2025 16:01:03 GMT | Network Security: The First Line of Cyber Defense | Dany Christel | [Read More](https://medium.com/p/e842b059a700) |
-| Sat, 19 Jul 2025 16:00:24 GMT | Try Hack Me : Session Management -Task6 | Rindaman666 | [Read More](https://medium.com/p/4ff3ace28ceb) |
