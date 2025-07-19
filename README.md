@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 22:16:21 GMT | Q-Bits #14: What Are Spoof Tokens in Crypto? | Fedoski | [Read More](https://medium.com/p/0cf2d4fe9b86) |
+| Sat, 19 Jul 2025 22:06:08 GMT | MISSION ACCOMPLISHED: Cyber Sentinel Initiative Complete! | 0xHamy | [Read More](https://medium.com/p/3acc0eaabd28) |
+| Sat, 19 Jul 2025 22:02:37 GMT | Top Cybersecurity Certifications in 2025: A Complete Guide for IT Professionals | Md Mazaharul Huq | [Read More](https://medium.com/p/09fcb1307688) |
+| Sat, 19 Jul 2025 22:02:20 GMT | How North Korean Hackers Steal Billions in Crypto? | Carroll Blayze | [Read More](https://medium.com/p/8d7f89a76971) |
+| Sat, 19 Jul 2025 21:53:35 GMT | The Price of Being Real in a World That Loves Pretenders. | Moyinoluwa Fatungase (StArLiGhT ✍) | [Read More](https://medium.com/p/437425b2fa44) |
+| Sat, 19 Jul 2025 21:49:05 GMT | The Five Dimensions of Corporate Resilience: Lessons from the Intelligence World | Richard Frederick | [Read More](https://medium.com/p/fddad415ad73) |
+| Sat, 19 Jul 2025 21:48:01 GMT | 6 Niche Cybersecurity Tools I Stumbled Upon (That You Probably Haven’t Heard Of) | cherry | [Read More](https://medium.com/p/7f798d574bf4) |
 | Sat, 19 Jul 2025 21:27:32 GMT | Tenable.io Vulnerability Management (Series 1) | Samira Parveen | [Read More](https://medium.com/p/4a94c43d1007) |
 | Sat, 19 Jul 2025 21:17:06 GMT | “Divide & Conquer in Digital Forensics: My Learning Experience” | Nimit Ahir | [Read More](https://medium.com/p/e5738051ef3f) |
 | Sat, 19 Jul 2025 21:09:37 GMT | CTF PrintNightmare, again! - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/db7752f61ccb) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 15:31:47 GMT | AI Recon Agent for Hackers ⚔️ - Automate Bug Bounty Like a Pro | Harshad Shah | [Read More](https://medium.com/p/61ae7d678bda) |
 | Sat, 19 Jul 2025 15:24:46 GMT | CloakDetect: Revealing the Hidden Side of the Web | Muhammet Ali AKBAK | [Read More](https://medium.com/p/8ccde4ee6425) |
 | Sat, 19 Jul 2025 15:18:56 GMT | ️‍♂️ Cracking Cipher’s Code: A Repeating-Key XOR Decryption Story — Trcyhackme | Mohammed Muneef | [Read More](https://medium.com/p/14075d3e8e96) |
-| Sat, 19 Jul 2025 15:17:08 GMT | From Telegram to Takedown: The Fall of NoName057’s Cyber PsyOp | Gianluca Tiepolo | [Read More](https://medium.com/p/16ecfb0e2665) |
-| Sat, 19 Jul 2025 15:17:01 GMT | Mastering Web Security Headers: A Frontend Engineer’s Guide | HIMANSHU SHARMA | [Read More](https://medium.com/p/b5dcd1d305f8) |
-| Sat, 19 Jul 2025 15:12:59 GMT | Deep Learning Applications for Anomaly Detection in Network Traffic | Esra Kayhan | [Read More](https://medium.com/p/7d41dcefe072) |
-| Sat, 19 Jul 2025 15:02:30 GMT | How a GitHub Quirk Helped Me Earn $40K+ in Bug Bounties | Arshad Kazmi | [Read More](https://medium.com/p/8efa66b8771f) |
-| Sat, 19 Jul 2025 14:56:17 GMT | The Power of Showing Up- Even When You Have Nothing to Give | Prashant Jha | [Read More](https://medium.com/p/799118e97452) |
-| Sat, 19 Jul 2025 14:45:23 GMT | Understanding Linux Filesystem Hierarchy — A Beginner’s Guide | Yamini Yadav | [Read More](https://medium.com/p/be7409b45bad) |
-| Sat, 19 Jul 2025 14:42:24 GMT | DownUnderCTF2025 rocky (Reverse Engineering — Level Easy) | L0udbaa | [Read More](https://medium.com/p/aa48d0dee612) |
