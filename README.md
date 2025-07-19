@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 09:04:28 GMT | LOVE ME, NOT WHAT I BRING | Simply Habibi! | [Read More](https://medium.com/p/32d22f61b4b4) |
+| Sat, 19 Jul 2025 09:02:06 GMT | Securing Web Applications with Bunkerweb | Mahdi Mallaki | [Read More](https://medium.com/p/25d6e61d2554) |
+| Sat, 19 Jul 2025 08:59:17 GMT | Redeemer Lab Walkthrough Hack the Box Starting point: Exploring Redis Security Essentials | Gopal Mohan | [Read More](https://medium.com/p/8ed81b018c30) |
+| Sat, 19 Jul 2025 08:59:11 GMT | “How CVE-2025–4123 Turned Grafana Into a Hacker’s Playground” | Aman Sharma | [Read More](https://medium.com/p/f93a45bde714) |
+| Sat, 19 Jul 2025 08:56:13 GMT | Payload in the Haystack: Using Wayback & ParamSpider to Find a Forgotten Upload Endpoint | Iski | [Read More](https://medium.com/p/913e80351b9b) |
+| Sat, 19 Jul 2025 08:54:43 GMT | Digital Futures Secured: Tektronix & Cyber X for UAE | Tekhabeeb | [Read More](https://medium.com/p/6742f3989925) |
+| Sat, 19 Jul 2025 08:51:05 GMT | Guide: Score BUG During the Upcoming Token Giveaway | Bug | [Read More](https://medium.com/p/038dca1f4709) |
+| Sat, 19 Jul 2025 08:48:32 GMT | Biometric Security Elevated: Swisstek in Qatar’s Critical Infrastructure | expbhavya | [Read More](https://medium.com/p/d435036f32a5) |
 | Sat, 19 Jul 2025 08:44:35 GMT | How I Installed Golang and Katana on Kali Linux While Silently Falling Apart | ft_thirchu | [Read More](https://medium.com/p/6dce5352d75f) |
+| Sat, 19 Jul 2025 08:40:26 GMT | Why newscrumb Is your Solution to Information Overload | Matas Rimkus | [Read More](https://medium.com/p/ffbd7b374571) |
 | Sat, 19 Jul 2025 08:38:48 GMT | The Best way and things to Protecting Your Energy | Business Promotion Strategy. | [Read More](https://medium.com/p/790d4dd0c66c) |
 | Sat, 19 Jul 2025 08:34:40 GMT | How They Hijack Social Media Accounts To Trick Friends Into Paying. | The Anti-Scam Diaries | [Read More](https://medium.com/p/5d52eed35c55) |
 | Sat, 19 Jul 2025 08:29:46 GMT | Data Protection by NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/fc1118d8a5f8) |
@@ -104,12 +113,3 @@ by Solace | Solace | [Read More](https://medium.com/p/693ea41fd6ff) |
 | Sat, 19 Jul 2025 00:13:06 GMT | Drosera Network Simplified | Gen. Dave | [Read More](https://medium.com/p/edcd2f8ceb4b) |
 | Sat, 19 Jul 2025 00:01:48 GMT | Insecure Design (OWASP A04): Hacking, Bug Bounty, and Prevention Guide | JPablo13 | [Read More](https://medium.com/p/4d4851d73677) |
 | Sat, 19 Jul 2025 00:00:26 GMT | $500 Bounty: Excessive Memory Usage in Messenger and Facebook App When Rendering Invalid GIFs | Sancyty | [Read More](https://medium.com/p/b1f1bf15ba18) |
-| Fri, 18 Jul 2025 23:33:18 GMT | Know What Your Children are Doing Online | Savvy Cyber Kids | [Read More](https://medium.com/p/b78bbfb6c9a3) |
-| Fri, 18 Jul 2025 23:32:36 GMT | Social Media and Grooming | Savvy Cyber Kids | [Read More](https://medium.com/p/bcb55cf56843) |
-| Fri, 18 Jul 2025 23:32:08 GMT | All About Cyberama | Savvy Cyber Kids | [Read More](https://medium.com/p/2db0139d9ce7) |
-| Fri, 18 Jul 2025 23:31:45 GMT | Secure Branch Transformation by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/660e05a7a050) |
-| Fri, 18 Jul 2025 23:05:13 GMT | The Human Hack: How Social Engineering Outsmarts Technology | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/a28629cffda5) |
-| Fri, 18 Jul 2025 22:59:29 GMT | 12-Word Passphrases vs AI Superintelligence | Eye Of Unity | [Read More](https://medium.com/p/529141fb0dae) |
-| Fri, 18 Jul 2025 22:55:10 GMT | The Bait You Didn’t See Coming: Understanding Phishing in Cybersecurity | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/623c842e81a5) |
-| Fri, 18 Jul 2025 22:52:29 GMT | Even FIDO Hardware Keys Can Be Phished | SecurityPulse News | [Read More](https://medium.com/p/5ba60c51e535) |
-| Fri, 18 Jul 2025 22:40:01 GMT | The Evolving Role of WAFs: On-Premises vs. Cloud-Based Deployment | Infosecjourney.tech | [Read More](https://medium.com/p/0a267deb8ffc) |
