@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 19 Jul 2025 20:24:27 GMT | How to Find the Universal in Your Most Specific Shame | Anna Shadley | [Read More](https://medium.com/p/c5929eec34c9) |
+| Sat, 19 Jul 2025 20:21:40 GMT | Securing the AI business transformation with GenAI Firewalls for Enterprise Cybersecurity | Valdez Ladd | [Read More](https://medium.com/p/76971554230b) |
+| Sat, 19 Jul 2025 20:21:23 GMT | __________________________________________
+[ Consciousness ] | Cato Johansen | [Read More](https://medium.com/p/53e7d9bcbf8e) |
 | Sat, 19 Jul 2025 20:13:42 GMT | How I Failed and Passed the PNPT Exam as a Blue Team Analyst | Khoa | [Read More](https://medium.com/p/e7e26c5dfc7e) |
 | Sat, 19 Jul 2025 20:12:16 GMT | Death by a Thousand AI Slops: How Fake Bugs Are Killing Bug Bounties | Aaron | [Read More](https://medium.com/p/e4a8803edab7) |
 | Sat, 19 Jul 2025 20:10:03 GMT | Kubernetes-AKS Upgrade: Fresh v1.32.1 Bug We Just Solved (Weekend Saved) | Sridhar | [Read More](https://medium.com/p/2dc21167de62) |
@@ -109,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 14:08:34 GMT | Security Interview Prep Series — 14. Linux | Shraddha M. | [Read More](https://medium.com/p/b09d16c05cbc) |
 | Sat, 19 Jul 2025 14:07:13 GMT | The 3 Little Packets | Nul⧉ID | [Read More](https://medium.com/p/5601cadada9e) |
 | Sat, 19 Jul 2025 14:03:00 GMT | What Should You Look for in a Secure Multi-Asset Crypto Wallet Provider? | Coinpedia Insight | [Read More](https://medium.com/p/fa20fc7ac07d) |
-| Sat, 19 Jul 2025 13:58:36 GMT | OAuth2 : Rich Authorization Request (RAR) | Kunal Sinha | [Read More](https://medium.com/p/318a66b25b80) |
-| Sat, 19 Jul 2025 13:58:20 GMT | Bootstrapping Agent Identity: When Devices Have No Initial Trust | Kunal Sinha | [Read More](https://medium.com/p/5490d2e99979) |
-| Sat, 19 Jul 2025 13:57:13 GMT | How to Block Inappropriate Websites Using the Hosts File | James N | [Read More](https://medium.com/p/bd7b956a0d84) |
