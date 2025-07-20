@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 07:26:59 GMT | When I was a CISO, I found myself in a tough spot. | Shankar Jayaraman | [Read More](https://medium.com/p/aebb8f555ff9) |
+| Sun, 20 Jul 2025 07:21:46 GMT | Try Hack Me: Git Happens Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/1d304b5233df) |
+| Sun, 20 Jul 2025 07:21:35 GMT | Cyberattacks on 4G/LTE Telecom Networks: Threat Mapping and Defense | Andrey Pautov | [Read More](https://medium.com/p/bd0e7fe76f54) |
+| Sun, 20 Jul 2025 07:18:51 GMT | How Secure Is Your Remote Server? Use Nmap Like This to Find Vulnerabilities | Amila kothalawala | [Read More](https://medium.com/p/77c8b693e853) |
+| Sun, 20 Jul 2025 07:14:48 GMT | How I Passed the SC-900 Exam: A Beginner’s Guide to Microsoft Security Fundamentals | KISHORERAM | [Read More](https://medium.com/p/00d9340ab8ce) |
 | Sun, 20 Jul 2025 07:12:06 GMT | The Password Problem: Why Laziness is the Hacker’s Best Friend | Travis Ray Caverhill | [Read More](https://medium.com/p/2650e1f3a18c) |
 | Sun, 20 Jul 2025 07:09:58 GMT | Best Red Hat Certified Architect Course In Delhi | cyber security Updates | [Read More](https://medium.com/p/79b0749e6ec6) |
+| Sun, 20 Jul 2025 07:07:54 GMT | Google Signs $3 Billion U.S. Hydropower Deal to Power AI Growth with Clean Energy | Tech Thrilled | [Read More](https://medium.com/p/7d417fd61f0c) |
 | Sun, 20 Jul 2025 07:03:48 GMT | The Price of Being Safe | croissantblunt | [Read More](https://medium.com/p/87dd2dc77d15) |
 | Sun, 20 Jul 2025 07:01:24 GMT | How AI is Transforming Cybersecurity in 2025: Defending Against Next-Gen Threats | Sudheera Wijedasa | [Read More](https://medium.com/p/869f79ecc8c8) |
 | Sun, 20 Jul 2025 07:01:22 GMT | BrightScan #ThreatIntelThursday - Man in the Middle (MiTM) Attacks ☎ — ! — ☎ | Kalpitha S | [Read More](https://medium.com/p/93b5a57f76ad) |
@@ -108,9 +114,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/049d641397
 | Sat, 19 Jul 2025 22:23:00 GMT | They Never Came. So I Stopped Waiting. | The Observer’s Pen | [Read More](https://medium.com/p/599a68b2676b) |
 | Sat, 19 Jul 2025 22:18:02 GMT | When Depth goes unmet: | Nicole Alyse | [Read More](https://medium.com/p/0967139d4f54) |
 | Sat, 19 Jul 2025 22:16:21 GMT | Q-Bits #14: What Are Spoof Tokens in Crypto? | Fedoski | [Read More](https://medium.com/p/0cf2d4fe9b86) |
-| Sat, 19 Jul 2025 22:06:08 GMT | MISSION ACCOMPLISHED: Cyber Sentinel Initiative Complete! | 0xHamy | [Read More](https://medium.com/p/3acc0eaabd28) |
-| Sat, 19 Jul 2025 22:02:37 GMT | Top Cybersecurity Certifications in 2025: A Complete Guide for IT Professionals | Md Mazaharul Huq | [Read More](https://medium.com/p/09fcb1307688) |
-| Sat, 19 Jul 2025 22:02:20 GMT | How North Korean Hackers Steal Billions in Crypto? | Carroll Blayze | [Read More](https://medium.com/p/8d7f89a76971) |
-| Sat, 19 Jul 2025 21:53:35 GMT | The Price of Being Real in a World That Loves Pretenders. | Moyinoluwa Fatungase (StArLiGhT ✍) | [Read More](https://medium.com/p/437425b2fa44) |
-| Sat, 19 Jul 2025 21:49:05 GMT | The Five Dimensions of Corporate Resilience: Lessons from the Intelligence World | Richard Frederick | [Read More](https://medium.com/p/fddad415ad73) |
-| Sat, 19 Jul 2025 21:48:01 GMT | 6 Niche Cybersecurity Tools I Stumbled Upon (That You Probably Haven’t Heard Of) | cherry | [Read More](https://medium.com/p/7f798d574bf4) |
