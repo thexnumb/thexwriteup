@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 08:18:11 GMT | The Day the Internet Blinked: What If Cybersecurity Failed Us? | B Manya Shetty | [Read More](https://medium.com/p/9ccc412c389e) |
+| Sun, 20 Jul 2025 08:16:24 GMT | How CryptoXpress Makes It Easier to Earn Money in Crypto with 0 Investment | Chrisnse | [Read More](https://medium.com/p/c4bfb94f6036) |
+| Sun, 20 Jul 2025 08:15:36 GMT | What is Phishing? If You Want To Stay Safe, Read This! | Anupam Singh | [Read More](https://medium.com/p/c274b9ad2639) |
+| Sun, 20 Jul 2025 08:14:09 GMT | How Can I Recover My Money From Hashfly ? | Eric | [Read More](https://medium.com/p/a6528d309bd3) |
+| Sun, 20 Jul 2025 08:12:27 GMT | StackSpace Weekend CTF | Devin K | [Read More](https://medium.com/p/7ca4a045fe08) |
+| Sun, 20 Jul 2025 08:01:26 GMT | BrightScan #ThreatIntelThursday - DNS Spoofing | Kalpitha S | [Read More](https://medium.com/p/46820be591f5) |
+| Sun, 20 Jul 2025 07:58:58 GMT | CoinDCX hacked: $44 million stolen in major cyberattack - Here’s all you need to know. | err0rgod | [Read More](https://medium.com/p/8c372efb6445) |
+| Sun, 20 Jul 2025 07:42:14 GMT | Why Your Favicon Might Be Exposing Your Infrastructure | Anmol Singh Yadav | [Read More](https://medium.com/p/ddc52455bd64) |
+| Sun, 20 Jul 2025 07:39:45 GMT | Vulnerability Isn’t Hypocrisy | Dishashahofficial | [Read More](https://medium.com/p/8ee501bbbdbe) |
+| Sun, 20 Jul 2025 07:39:15 GMT | DORA-Dokumentationsanforderungen: Der strategische Leitfaden für Finanzinstitute | Philip Hansen | [Read More](https://medium.com/p/3eefbf429039) |
+| Sun, 20 Jul 2025 07:39:13 GMT | DORA Informationsregister: Der ultimative Compliance-Leitfaden für Finanzunternehmen | Philip Hansen | [Read More](https://medium.com/p/457112ada9f2) |
+| Sun, 20 Jul 2025 07:39:09 GMT | DORA Governance: Ihre strategische Compliance-Roadmap für 2025 | Philip Hansen | [Read More](https://medium.com/p/d94366cdfef0) |
+| Sun, 20 Jul 2025 07:39:00 GMT | How I Would Learn Ethical Hacking If I Started Today | Angelwisdom | [Read More](https://medium.com/p/50ab18a80802) |
+| Sun, 20 Jul 2025 07:31:32 GMT | BrightScan #ThreatIntelThursday - LAND Attacks | Kalpitha S | [Read More](https://medium.com/p/be0226a24616) |
 | Sun, 20 Jul 2025 07:26:59 GMT | When I was a CISO, I found myself in a tough spot. | Shankar Jayaraman | [Read More](https://medium.com/p/aebb8f555ff9) |
 | Sun, 20 Jul 2025 07:21:46 GMT | Try Hack Me: Git Happens Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/1d304b5233df) |
 | Sun, 20 Jul 2025 07:21:35 GMT | Cyberattacks on 4G/LTE Telecom Networks: Threat Mapping and Defense | Andrey Pautov | [Read More](https://medium.com/p/bd0e7fe76f54) |
@@ -99,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 00:26:15 GMT | Hacking the ‘Disaster Prepper’ Paradigm: Ep. #1 — In the Beginning, There Was Darkness… | Ian Barwise | [Read More](https://medium.com/p/43844c73a4da) |
 | Sun, 20 Jul 2025 00:14:16 GMT | Navigating a Tech Career with ADHD
  Lessons from a Role That Broke Me | Adam K Stevens | [Read More](https://medium.com/p/1502590f9389) |
-| Sun, 20 Jul 2025 00:05:40 GMT | SSRF to Pwned (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/103a79ac28c7) |
-| Sat, 19 Jul 2025 23:34:21 GMT | DID YOU LOST YOUR CRYPTO? DO YOU WANT TO RECOVER YOUR STOLEN BITCOIN,
-BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/049d64139771) |
-| Sat, 19 Jul 2025 23:22:39 GMT | Forging Signed URLs and Blind SQLi: A Hackinghub CTF Writeup | mmsec | [Read More](https://medium.com/p/e53601defe60) |
-| Sat, 19 Jul 2025 23:18:01 GMT | You Weren’t Too Much — They Were Too Little. | Marymagdalene Ogeleka | [Read More](https://medium.com/p/cf31ee73d0df) |
-| Sat, 19 Jul 2025 23:17:18 GMT | How to Protect Your Business & Identity in 2025 (Even If You Can’t Afford a $300/hr Lawyer) | My Legal Guy | [Read More](https://medium.com/p/14e7b26ebcb1) |
-| Sat, 19 Jul 2025 23:04:35 GMT | Google’a Tıklayınca Neler Oluyor? Network ve İnternet Dünyasına Gözle Görülebilir Bir Yolculuk | Ahmet KILIÇ | [Read More](https://medium.com/p/582a384e6269) |
-| Sat, 19 Jul 2025 23:01:50 GMT | RootMe - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/90d025873147) |
-| Sat, 19 Jul 2025 22:37:39 GMT | $300 Bounty: Limited LFI via Markdown in GSA Dashboard | Monika sharma | [Read More](https://medium.com/p/34aee1b2de23) |
-| Sat, 19 Jul 2025 22:35:27 GMT | $1000 Bounty: From 403 to Source Code | Monika sharma | [Read More](https://medium.com/p/28e9a9c572d8) |
-| Sat, 19 Jul 2025 22:29:19 GMT | How I found a loophole in Google’s region restrictions — and yes, it’s triaged now. | Muhammad Faizan Anwar | [Read More](https://medium.com/p/3cd5dc76e15a) |
-| Sat, 19 Jul 2025 22:25:31 GMT | Title: AI Didn’t Kill Writing — It Made It Immortal | OmegaPhazon Ask Questions I Like To Reply To Tuff | [Read More](https://medium.com/p/dd874d4ffb9e) |
-| Sat, 19 Jul 2025 22:23:00 GMT | They Never Came. So I Stopped Waiting. | The Observer’s Pen | [Read More](https://medium.com/p/599a68b2676b) |
-| Sat, 19 Jul 2025 22:18:02 GMT | When Depth goes unmet: | Nicole Alyse | [Read More](https://medium.com/p/0967139d4f54) |
-| Sat, 19 Jul 2025 22:16:21 GMT | Q-Bits #14: What Are Spoof Tokens in Crypto? | Fedoski | [Read More](https://medium.com/p/0cf2d4fe9b86) |
