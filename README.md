@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 05:40:39 GMT | Why Professional Bollard Installation Matters in Melbourne | Amelia Grace | [Read More](https://medium.com/p/1a3927571661) |
+| Sun, 20 Jul 2025 05:31:46 GMT | BrightScan’s #ThreatIntelThursday - Cross Site Request Forgeries | Kalpitha S | [Read More](https://medium.com/p/e8e4eb303018) |
+| Sun, 20 Jul 2025 05:30:02 GMT | How I Built Soar.services: A Live Laptop Health & Security Dashboard | Vishwashtank | [Read More](https://medium.com/p/f8852168aff5) |
+| Sun, 20 Jul 2025 05:19:58 GMT | Powerful Metrics to Measure Security Operations Effectiveness | Shalu Chaudhary | [Read More](https://medium.com/p/851fb9526bc3) |
 | Sun, 20 Jul 2025 05:14:44 GMT | What Cybersecurity Books Don’t Teach You — But Real Attacks Will | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/9e8dc49b0541) |
 | Sun, 20 Jul 2025 05:06:43 GMT | The API Key Trap: Are You Putting Your Entire System at Risk? | Code Crack | [Read More](https://medium.com/p/cea2b976449b) |
 | Sun, 20 Jul 2025 05:06:13 GMT | What is Cybersecurity — and Why Does It Matter? | Nazia Mobeen | [Read More](https://medium.com/p/8dcf4b0630f7) |
@@ -111,7 +115,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/049d641397
 | Sat, 19 Jul 2025 19:18:34 GMT | Build Your Own Packet Sniffer Using Python on Linux — A Beginner-Friendly Guide | Ankit | [Read More](https://medium.com/p/b42cd17b171a) |
 | Sat, 19 Jul 2025 19:17:40 GMT | 20 — SOC105 — Requested T.I. URL address - Writeup | EPereda | [Read More](https://medium.com/p/a55ad3011301) |
 | Sat, 19 Jul 2025 19:17:10 GMT | XSS Tip — Escaping Out of <textarea> Tag | Cybersecplayground | [Read More](https://medium.com/p/8164201edea3) |
-| Sat, 19 Jul 2025 19:11:55 GMT | Source Code Confessions: Comments That Betray Phishers | Hunter Harrison | [Read More](https://medium.com/p/5d32190eafb6) |
-| Sat, 19 Jul 2025 19:11:46 GMT | What Is LlamaIndex? How This Chunk-First AI Tool Supercharges Your LLM’s Memory | AIAlchemist_Ab1r | [Read More](https://medium.com/p/a6086ed5c910) |
-| Sat, 19 Jul 2025 19:10:12 GMT | Flying with a Carry-On on American Airlines: Tips from 4MYTU | Altasoznur | [Read More](https://medium.com/p/c861b666698d) |
-| Sat, 19 Jul 2025 19:07:33 GMT | SQL Injection: A Hacker’s Syringe into Your Database | Khushi Garg | [Read More](https://medium.com/p/c2560c115138) |
