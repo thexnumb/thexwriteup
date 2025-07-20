@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 07:12:06 GMT | The Password Problem: Why Laziness is the Hacker’s Best Friend | Travis Ray Caverhill | [Read More](https://medium.com/p/2650e1f3a18c) |
+| Sun, 20 Jul 2025 07:09:58 GMT | Best Red Hat Certified Architect Course In Delhi | cyber security Updates | [Read More](https://medium.com/p/79b0749e6ec6) |
+| Sun, 20 Jul 2025 07:03:48 GMT | The Price of Being Safe | croissantblunt | [Read More](https://medium.com/p/87dd2dc77d15) |
+| Sun, 20 Jul 2025 07:01:24 GMT | How AI is Transforming Cybersecurity in 2025: Defending Against Next-Gen Threats | Sudheera Wijedasa | [Read More](https://medium.com/p/869f79ecc8c8) |
+| Sun, 20 Jul 2025 07:01:22 GMT | BrightScan #ThreatIntelThursday - Man in the Middle (MiTM) Attacks ☎ — ! — ☎ | Kalpitha S | [Read More](https://medium.com/p/93b5a57f76ad) |
+| Sun, 20 Jul 2025 06:57:44 GMT | The Quiet Pain of Being Emotionally Available to the Wrong Person. | Marymagdalene Ogeleka | [Read More](https://medium.com/p/377e3455be05) |
+| Sun, 20 Jul 2025 06:56:13 GMT | How I passed 3 CompTIA certification exams | Kent Lee | [Read More](https://medium.com/p/4049ffe5c109) |
+| Sun, 20 Jul 2025 06:55:46 GMT | Pi-Fi Hacking: Cracking WPA with Pi Zero and Hashcat | Girishatindra | [Read More](https://medium.com/p/f4e978ef1a3e) |
+| Sun, 20 Jul 2025 06:51:16 GMT | So… I Could Reset Someone Else’s Password by Accident? | Viratavi | [Read More](https://medium.com/p/c140a41a8b8a) |
+| Sun, 20 Jul 2025 06:48:06 GMT | Inside the Breach: UNC3886 and the Silent Compromise of Singapore’s Core Systems | Shraddhakaveri H | [Read More](https://medium.com/p/56fb946dbca6) |
+| Sun, 20 Jul 2025 06:42:50 GMT | 350+ Free TryHackMe Rooms to Learn Ethical Hacking & Cybersecurity [2025 Edition] | cyberwinx | [Read More](https://medium.com/p/22570f64c0ad) |
+| Sun, 20 Jul 2025 06:41:02 GMT | RBI Tokenisation: Update Payment Method to Comply with RBI Tokenization Regulation — Tekmons It… | Tekmons It Solution | [Read More](https://medium.com/p/7f2b21e99686) |
+| Sun, 20 Jul 2025 06:35:27 GMT | Firebase App Check with React native applications | Chotu engineer | [Read More](https://medium.com/p/c2790adf26f2) |
+| Sun, 20 Jul 2025 06:31:21 GMT | El bug no está en el código, está en cómo se pensó el sistema | Gorka | [Read More](https://medium.com/p/e4f986b89ce6) |
+| Sun, 20 Jul 2025 06:31:20 GMT | BrightScan #ThreatIntelThursday - Code Injection | Kalpitha S | [Read More](https://medium.com/p/ea3a3da9b7da) |
+| Sun, 20 Jul 2025 06:29:12 GMT | 6 Kubernetes Security Best Practices Every Linux Administrator Should Know | Shujat Husain | [Read More](https://medium.com/p/b206fd06bd03) |
+| Sun, 20 Jul 2025 06:27:18 GMT | 6 Kubernetes Security Best Practices Every Linux Administrator Should Know | Shujat Husain | [Read More](https://medium.com/p/ebfcf2c508b6) |
 | Sun, 20 Jul 2025 06:24:23 GMT | Zscaler ZIA: The Essential Shield for Today’s Digital Frontier | Shweta Papnai | [Read More](https://medium.com/p/e15764d94c4e) |
 | Sun, 20 Jul 2025 06:23:14 GMT | Beyond OTPs: A Minimalist Approach to Student Verification | Lovelymunchkin | [Read More](https://medium.com/p/3a3bad0fe20e) |
 | Sun, 20 Jul 2025 06:12:54 GMT | KPMG CTF {Santa’s Letter} | Bhuwan Patidar | [Read More](https://medium.com/p/83929c6b57cf) |
@@ -97,21 +114,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/049d641397
 | Sat, 19 Jul 2025 21:53:35 GMT | The Price of Being Real in a World That Loves Pretenders. | Moyinoluwa Fatungase (StArLiGhT ✍) | [Read More](https://medium.com/p/437425b2fa44) |
 | Sat, 19 Jul 2025 21:49:05 GMT | The Five Dimensions of Corporate Resilience: Lessons from the Intelligence World | Richard Frederick | [Read More](https://medium.com/p/fddad415ad73) |
 | Sat, 19 Jul 2025 21:48:01 GMT | 6 Niche Cybersecurity Tools I Stumbled Upon (That You Probably Haven’t Heard Of) | cherry | [Read More](https://medium.com/p/7f798d574bf4) |
-| Sat, 19 Jul 2025 21:27:32 GMT | Tenable.io Vulnerability Management (Series 1) | Samira Parveen | [Read More](https://medium.com/p/4a94c43d1007) |
-| Sat, 19 Jul 2025 21:17:06 GMT | “Divide & Conquer in Digital Forensics: My Learning Experience” | Nimit Ahir | [Read More](https://medium.com/p/e5738051ef3f) |
-| Sat, 19 Jul 2025 21:09:37 GMT | CTF PrintNightmare, again! - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/db7752f61ccb) |
-| Sat, 19 Jul 2025 21:07:01 GMT | I Found a Critical Bug in Just 30 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/b7dd320cf38f) |
-| Sat, 19 Jul 2025 21:02:06 GMT | Account Abstraction for Smarter Ethereum Wallets | Abdul Gafar Adetunji | [Read More](https://medium.com/p/896695fb2f6a) |
-| Sat, 19 Jul 2025 21:00:57 GMT | CyberExam MQTT Exploitation | Yahya İlhan Cengiz | [Read More](https://medium.com/p/0bdd221aeeab) |
-| Sat, 19 Jul 2025 20:59:43 GMT | OUTBOUND HTB | 0xLeonidas | [Read More](https://medium.com/p/7320bd379871) |
-| Sat, 19 Jul 2025 20:55:06 GMT | Scheduling Network+! | Josh Colpean | [Read More](https://medium.com/p/a6447244b86c) |
-| Sat, 19 Jul 2025 20:52:47 GMT | Let’s Defend: 36 — SOC104 — Malware Detected - Writeup | EPereda | [Read More](https://medium.com/p/6442210b1981) |
-| Sat, 19 Jul 2025 20:52:41 GMT | CTI — Inside the New Warfront: Initial Access Trends 2025 | akacipher | [Read More](https://medium.com/p/79cfe7e7dfeb) |
-| Sat, 19 Jul 2025 20:38:23 GMT | Complete Guide to Writing AES-256 CBC in Rust | Declan | [Read More](https://medium.com/p/b4cf9dd5e453) |
-| Sat, 19 Jul 2025 20:24:27 GMT | How to Find the Universal in Your Most Specific Shame | Anna Shadley | [Read More](https://medium.com/p/c5929eec34c9) |
-| Sat, 19 Jul 2025 20:21:40 GMT | Securing the AI business transformation with GenAI Firewalls for Enterprise Cybersecurity | Valdez Ladd | [Read More](https://medium.com/p/76971554230b) |
-| Sat, 19 Jul 2025 20:21:23 GMT | __________________________________________
-[ Consciousness ] | Cato Johansen | [Read More](https://medium.com/p/53e7d9bcbf8e) |
-| Sat, 19 Jul 2025 20:13:42 GMT | How I Failed and Passed the PNPT Exam as a Blue Team Analyst | Khoa | [Read More](https://medium.com/p/e7e26c5dfc7e) |
-| Sat, 19 Jul 2025 20:12:16 GMT | Death by a Thousand AI Slops: How Fake Bugs Are Killing Bug Bounties | Aaron | [Read More](https://medium.com/p/e4a8803edab7) |
-| Sat, 19 Jul 2025 20:10:03 GMT | Kubernetes-AKS Upgrade: Fresh v1.32.1 Bug We Just Solved (Weekend Saved) | Sridhar | [Read More](https://medium.com/p/2dc21167de62) |
