@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 22:03:10 GMT | Ensuring Security in Docker Containers: Best Practices | @rnab | [Read More](https://medium.com/p/6ccd0afdf8ed) |
+| Sun, 20 Jul 2025 21:58:44 GMT | Exposed: How Hackers Bypass Microsoft 365 MFA Using Advanced Phishing Tools | Lawrence Teixeira | [Read More](https://medium.com/p/b420ba2c7905) |
+| Sun, 20 Jul 2025 21:39:31 GMT | WormGPT: The Chatbot That Doesn’t Play Nice. But Taught Me Everything About Prompt Security. | Dom 'Tudell Mika' | [Read More](https://medium.com/p/878ead4babf1) |
+| Sun, 20 Jul 2025 21:34:45 GMT | 8 Wild Technologies Turning SWAT Teams Into Real-Life Sci-Fi | Gloria Writes | [Read More](https://medium.com/p/5b869513a05d) |
 | Sun, 20 Jul 2025 21:31:21 GMT | I Found Hidden Vulnerabilities in Just 3 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/178f0e14ddb1) |
 | Sun, 20 Jul 2025 21:20:21 GMT | Where Do You Begin Again? | Jamie Trott | [Read More](https://medium.com/p/9c06e87802c6) |
 | Sun, 20 Jul 2025 21:20:13 GMT | Understanding CORS, CSRF & XSS: For Anyone Who’s Felt Confused. | Mihir Hundiwala | [Read More](https://medium.com/p/9c09bcc765f2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 15:41:25 GMT | The Top 7 Security Flaws in Most Web Apps | Rizqi Mulki | [Read More](https://medium.com/p/4b4795112075) |
 | Sun, 20 Jul 2025 15:37:33 GMT | More Bitchat Challenges: Message Tampering & Command Bypass | pogen300 | [Read More](https://medium.com/p/e6940ddc4be4) |
 | Sun, 20 Jul 2025 15:31:52 GMT | $150 — Broken Access Control - HackerOne Bug Bounty Program — My First Bounty! | BugBountyWriteups | [Read More](https://medium.com/p/239aff71376f) |
-| Sun, 20 Jul 2025 15:31:48 GMT | FastAPI for Cybersecurity Dashboards: My New Favorite Stack | Nikulsinh Rajput | [Read More](https://medium.com/p/fca5df79b85a) |
-| Sun, 20 Jul 2025 15:30:20 GMT | Securing Cloud Run with Coraza WAF | Michele Contu | [Read More](https://medium.com/p/7933ddc641ef) |
-| Sun, 20 Jul 2025 15:28:23 GMT | Secure Code Reviews: Tips for Dev Teams | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e236b3339706) |
-| Sun, 20 Jul 2025 15:26:55 GMT | How AI Is Reshaping DevOps: From Scripts to Smart Automation | Abdulhadi | [Read More](https://medium.com/p/20dba33f5b76) |
