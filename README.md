@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 17:33:56 GMT | Smarter Identity Security with AI: Microsoft Entra Just Levelled Up | Paritosh | [Read More](https://medium.com/p/a6d642f5d50f) |
+| Sun, 20 Jul 2025 17:28:23 GMT | How to Secure Your Freelance Business in a Digital First World: | Maha khan | [Read More](https://medium.com/p/91aef10d76df) |
+| Sun, 20 Jul 2025 17:25:51 GMT | How I Bypassed a Free-Tier Resource Limit via Race Condition | Efe Esen | [Read More](https://medium.com/p/63d4b0c23fad) |
 | Sun, 20 Jul 2025 17:15:06 GMT | Loose Lips Sink Deals: Protecting Sensitive Info in Public Spaces | Dziugas John Vaisvila | [Read More](https://medium.com/p/5d8f397a145b) |
+| Sun, 20 Jul 2025 17:15:05 GMT | Journey as an Ethical Hacker & CyberSec | ablmathew | [Read More](https://medium.com/p/ba1da5ba67c1) |
 | Sun, 20 Jul 2025 17:11:21 GMT | DownUnderCTF-sodium | phisher | [Read More](https://medium.com/p/ab9171bac2e8) |
+| Sun, 20 Jul 2025 17:08:09 GMT | DAY 6- Real-World Malware Attacks True Stories | unica 02 | [Read More](https://medium.com/p/e2c898e28b27) |
+| Sun, 20 Jul 2025 17:06:00 GMT | Best Apps to Spy on Instagram without Getting Caught | Narjis Batool | [Read More](https://medium.com/p/30a4afa8528e) |
 | Sun, 20 Jul 2025 17:03:56 GMT | Secrets in Session: How a Forgotten Cookie Let Me Walk Into Admin Panel Like I Owned the Place… | Iski | [Read More](https://medium.com/p/6aeb97f7f9de) |
 | Sun, 20 Jul 2025 17:02:00 GMT | What We Don’t See In Aesthetic Self-Care: The Real Story of Healing | Christina - Healing In Pixels & Pages | [Read More](https://medium.com/p/2677f89ad9e8) |
 | Sun, 20 Jul 2025 17:01:50 GMT | Identification and Authentication Failures — Don’t Build Your Own Login Unless You Know What… | Musa Ndlala | [Read More](https://medium.com/p/ab858becc827) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 11:33:01 GMT | BrightScan #ThreatIntelThursday - Session Hijacking | Kalpitha S | [Read More](https://medium.com/p/8a8440d3a48e) |
 | Sun, 20 Jul 2025 11:33:01 GMT | 10 Common Self-Development Mistakes in the Age of AI and Digital Overload | Dadang Irsyam - HumanxTech Storyteller | [Read More](https://medium.com/p/17a29022c776) |
 | Sun, 20 Jul 2025 11:32:36 GMT | How I Got $3K by Breaking User Accounts via IDOR & Logic Flaw [Chained Bugs] by matrixm0x1 | matrixm0x1 | [Read More](https://medium.com/p/38e5fb3906a0) |
-| Sun, 20 Jul 2025 11:27:20 GMT | Cyberattacks on 5G Telecom Networks: Threat Mapping and Defense | Andrey Pautov | [Read More](https://medium.com/p/aa74f680a7df) |
-| Sun, 20 Jul 2025 11:23:20 GMT | ️ Next-Gen Cybersecurity: Defending Against AI-Powered Threats | SistemVatan | [Read More](https://medium.com/p/7cc1e4d06c4a) |
-| Sun, 20 Jul 2025 11:20:04 GMT | apakah Bank MAS punya WA? | Tokohpedia Seller | [Read More](https://medium.com/p/d78e6dd837b8) |
-| Sun, 20 Jul 2025 11:19:00 GMT | Nomor WhatsApp (WA) resmi Bank MAS adalah 082123585934. | Tokohpedia Seller | [Read More](https://medium.com/p/7cf874ea4206) |
-| Sun, 20 Jul 2025 11:18:14 GMT | Berapa nomor WA (bank MAS). | Tokohpedia Seller | [Read More](https://medium.com/p/8a701d1eb810) |
-| Sun, 20 Jul 2025 11:08:24 GMT | ️Hide Your API Keys on a Static Site with Cloudflare Workers | Sourabh Panchal | [Read More](https://medium.com/p/3c87077da309) |
