@@ -12,9 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 01:45:08 GMT | NEVER POST YOUR KEYS ONLINE !!! | Soukayna | [Read More](https://medium.com/p/2676c1e12bdb) |
+| Sun, 20 Jul 2025 01:37:11 GMT | Securing Your App in 2025: Top Security Practices Every Developer Must Follow | Somendradev | [Read More](https://medium.com/p/817df8513360) |
+| Sun, 20 Jul 2025 01:30:37 GMT | Google Just Made Gmail Better But You Need A New Email Address | Nauman khan | [Read More](https://medium.com/p/5647d0f15197) |
+| Sun, 20 Jul 2025 01:27:58 GMT | This | Nothing to See Here, Folks! | [Read More](https://medium.com/p/bf1a7621d3a7) |
+| Sun, 20 Jul 2025 01:11:08 GMT | Hack the Planet: A Definitive Report on the 20 Most Influential Hacker Films and TV Shows | ADanielHill | [Read More](https://medium.com/p/d35cdf458b5f) |
+| Sun, 20 Jul 2025 01:09:49 GMT | Learning Web App Exploitation for Free - Day 5–8 | Hiba Hamd | [Read More](https://medium.com/p/d6d6c0f5b441) |
+| Sun, 20 Jul 2025 00:39:19 GMT | Stop Employee Account Takeovers Before They Start | Alexandre Vandamme | [Read More](https://medium.com/p/0805a91db60e) |
+| Sun, 20 Jul 2025 00:38:40 GMT | The War of Art | Vincenzo | [Read More](https://medium.com/p/405598bead22) |
+| Sun, 20 Jul 2025 00:35:38 GMT | Link Login Resmi Slot Online CNNSLOT: Kunci Aman & Cepat Menuju Dunia Slot Gacor | Ryukisenki | [Read More](https://medium.com/p/763b9139c370) |
+| Sun, 20 Jul 2025 00:26:51 GMT | Enhancing Safety with ANRAN CCTV Camera Security | waterspaul3803 | [Read More](https://medium.com/p/260ac1f6ed29) |
+| Sun, 20 Jul 2025 00:26:15 GMT | Hacking the ‘Disaster Prepper’ Paradigm: Ep. #1 — In the Beginning, There Was Darkness… | Ian Barwise | [Read More](https://medium.com/p/43844c73a4da) |
+| Sun, 20 Jul 2025 00:14:16 GMT | Navigating a Tech Career with ADHD
+ Lessons from a Role That Broke Me | Adam K Stevens | [Read More](https://medium.com/p/1502590f9389) |
+| Sun, 20 Jul 2025 00:05:40 GMT | SSRF to Pwned (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/103a79ac28c7) |
+| Sat, 19 Jul 2025 23:34:21 GMT | DID YOU LOST YOUR CRYPTO? DO YOU WANT TO RECOVER YOUR STOLEN BITCOIN,
+BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/049d64139771) |
 | Sat, 19 Jul 2025 23:22:39 GMT | Forging Signed URLs and Blind SQLi: A Hackinghub CTF Writeup | mmsec | [Read More](https://medium.com/p/e53601defe60) |
 | Sat, 19 Jul 2025 23:18:01 GMT | You Weren’t Too Much — They Were Too Little. | Marymagdalene Ogeleka | [Read More](https://medium.com/p/cf31ee73d0df) |
 | Sat, 19 Jul 2025 23:17:18 GMT | How to Protect Your Business & Identity in 2025 (Even If You Can’t Afford a $300/hr Lawyer) | My Legal Guy | [Read More](https://medium.com/p/14e7b26ebcb1) |
+| Sat, 19 Jul 2025 23:04:35 GMT | Google’a Tıklayınca Neler Oluyor? Network ve İnternet Dünyasına Gözle Görülebilir Bir Yolculuk | Ahmet KILIÇ | [Read More](https://medium.com/p/582a384e6269) |
 | Sat, 19 Jul 2025 23:01:50 GMT | RootMe - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/90d025873147) |
 | Sat, 19 Jul 2025 22:37:39 GMT | $300 Bounty: Limited LFI via Markdown in GSA Dashboard | Monika sharma | [Read More](https://medium.com/p/34aee1b2de23) |
 | Sat, 19 Jul 2025 22:35:27 GMT | $1000 Bounty: From 403 to Source Code | Monika sharma | [Read More](https://medium.com/p/28e9a9c572d8) |
@@ -98,18 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 19 Jul 2025 17:08:02 GMT | Day 48 of #60DaysofGRC: NIST CSF Organizational Profiles and Tiers | Brittney Ginther | [Read More](https://medium.com/p/dbbe333ad289) |
 | Sat, 19 Jul 2025 17:05:58 GMT | 10 Tricks to Elevate Pentest Findings | Vijay Kumar Gupta | [Read More](https://medium.com/p/86d8829471f3) |
 | Sat, 19 Jul 2025 17:04:44 GMT | DNS Kayıtlarıyla Gizli Bilgileri Ortaya Çıkarmak: Siber Güvenlikte Pasif Taramanın En Güçlü Silahı | Berdan Mut | [Read More](https://medium.com/p/2c0e1d826b8e) |
-| Sat, 19 Jul 2025 16:50:20 GMT | LunaFi Announces Community Drop: Grab LFI Today | LunaFi | [Read More](https://medium.com/p/f92de09d42c1) |
-| Sat, 19 Jul 2025 16:49:20 GMT | Climbing the Pyramid of Pain: My Cybersecurity Learning Journey via TryHackMe | Asma Yasmeen | [Read More](https://medium.com/p/b1c7a122dfa2) |
-| Sat, 19 Jul 2025 16:39:22 GMT | Bug Bounty Recon: Tokens, PII, and CI/CD Metadata Leaked via JavaScript | Medusa | [Read More](https://medium.com/p/76e3c2594957) |
-| Sat, 19 Jul 2025 16:33:14 GMT | Every Time I Fixed One Bug, Two More Showed Up, Until I Did This | Sanjeevani Bhandari | [Read More](https://medium.com/p/8d886ca04624) |
-| Sat, 19 Jul 2025 16:32:58 GMT | Ukraine Just Blew Up Gazprom’s Brain — Digitally, That Is | Ryder Blackthorn | [Read More](https://medium.com/p/16f741119b02) |
-| Sat, 19 Jul 2025 16:28:38 GMT | Building Honeypots for Internal Network Monitoring | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e390d03c86fb) |
-| Sat, 19 Jul 2025 16:22:51 GMT | Cara Root Android Tanpa TWRP: Cukup dengan Fastboot dan Magisk! | Riskytamba | [Read More](https://medium.com/p/6465c44436b0) |
-| Sat, 19 Jul 2025 16:21:32 GMT | How Spy Apps Assist You to Track WhatsApp Messages in Real Time | Narjis Batool | [Read More](https://medium.com/p/a9226d6c9b9d) |
-| Sat, 19 Jul 2025 16:17:48 GMT | The Elusive Nature of Interpretability | Apostolos Dimoulakis | [Read More](https://medium.com/p/ca42d00159b1) |
-| Sat, 19 Jul 2025 16:17:10 GMT | Acknowledged by Microsoft — For a Bug I Almost Didn’t Report | Harsh kothari | [Read More](https://medium.com/p/d32033ef3fec) |
-| Sat, 19 Jul 2025 16:16:55 GMT | Allowing Myself to Let Go: An Act of Inner Courage. | Solnaciente | [Read More](https://medium.com/p/6e4311a36e68) |
-| Sat, 19 Jul 2025 16:08:52 GMT | “Watch Tower” - Modbus Protocol Forensics - HTB Challenge Write-Up | Or Balog | [Read More](https://medium.com/p/b2288b45368c) |
-| Sat, 19 Jul 2025 16:08:09 GMT | OpenAI’s Red Teaming Sets the Gold Standard for AI Security | Pawel | [Read More](https://medium.com/p/a71df1a8bedd) |
-| Sat, 19 Jul 2025 16:06:49 GMT | MidJourney vs. Copyright: What an “Iron Man” Prompt Reveals About the AI Legal Crisis | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/ba4ec5d72047) |
-| Sat, 19 Jul 2025 16:01:03 GMT | Network Security: The First Line of Cyber Defense | Dany Christel | [Read More](https://medium.com/p/e842b059a700) |
