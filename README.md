@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 19:35:19 GMT | How I Saved My WooCommerce Store from Being Hacked (And How You Can Too) | Dike Chiboka | [Read More](https://medium.com/p/5cdbc07ec192) |
+| Sun, 20 Jul 2025 19:34:23 GMT | Top Tech Trends That Will Shape the Future (2025–2030) | Fatimazahid | [Read More](https://medium.com/p/13b9d7c3c658) |
+| Sun, 20 Jul 2025 19:24:23 GMT | Cybersecurity Advancements in the Age of AI and Digital Transformation | GUOURIJA Taib | [Read More](https://medium.com/p/5528522326dc) |
+| Sun, 20 Jul 2025 19:16:32 GMT | Cybersecurity, AI, and Brand Trust: A Strategic Conversation | Raviteja Mureboina | [Read More](https://medium.com/p/32f8970bb8f1) |
+| Sun, 20 Jul 2025 19:11:12 GMT | How Data Breaches Fuel Identity Theft and Fake Identities (2025 Deep Dive) | ThreatWatch360 | [Read More](https://medium.com/p/5b0ba8f224b8) |
+| Sun, 20 Jul 2025 19:10:54 GMT | ️ PixelSink: Hunt Hidden Data Inside Images | Muhammet Ali AKBAK | [Read More](https://medium.com/p/07f866ca380c) |
+| Sun, 20 Jul 2025 19:10:43 GMT | ️ PixelSink: Görsellerde Gizli Veri Avcısı | Muhammet Ali AKBAK | [Read More](https://medium.com/p/85ef5e2762f8) |
+| Sun, 20 Jul 2025 19:06:06 GMT | The Ultimate Guide to Combating Fake Apps and Domain Spoofing (2025 Edition) | ThreatWatch360 | [Read More](https://medium.com/p/e1934f95f417) |
+| Sun, 20 Jul 2025 19:03:20 GMT | Red Team: A Importância de Ter Objetivos Claros e Expectativas Alinhadas | Edcarlos Junior | [Read More](https://medium.com/p/fb6f1cf49e65) |
 | Sun, 20 Jul 2025 19:02:57 GMT | July 20, 2025 –Quiet But Full | IamGhost | [Read More](https://medium.com/p/f154425bd0a6) |
 | Sun, 20 Jul 2025 19:01:58 GMT | Welcome to The Informatics Hub — Where Knowledge Empowers Your Everyday | Theinformaticshub | [Read More](https://medium.com/p/80a5b74d967f) |
 | Sun, 20 Jul 2025 18:59:05 GMT | Fashion and Lifestyle: Expressing Identity with style | Theinformaticshub | [Read More](https://medium.com/p/fd7b92ed9a9c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 14:31:48 GMT | BrightScan #ThreatIntelThursday - Front Door Attacks | Kalpitha S | [Read More](https://medium.com/p/214dfc2a198f) |
 | Sun, 20 Jul 2025 14:28:39 GMT | Automating XSS and SQL Injection Discovery: From Manual Testing to Python Scripting | Tenebris Venator | [Read More](https://medium.com/p/c30145ab20ac) |
 | Sun, 20 Jul 2025 14:22:52 GMT | Do You Know Your Network Profile: Windows, Mac and Linux Compared | Infosecjourney.tech | [Read More](https://medium.com/p/c04ae3da80a7) |
-| Sun, 20 Jul 2025 14:22:02 GMT | How I Learned to Avoid Hitting a Wall in AWS: A Guide to Service Quotas | AashishChaudhari | [Read More](https://medium.com/p/ff069005f189) |
-| Sun, 20 Jul 2025 14:20:19 GMT | Taking the Extra Step: Reducing Risks with Simple Security Configuration Checks | Infosecjourney.tech | [Read More](https://medium.com/p/02513d6f924d) |
-| Sun, 20 Jul 2025 14:13:40 GMT | CVE-2025–49706 — SharePoint Spoofing Vulnerability Under Active Exploitation | Aditya Bhatt | [Read More](https://medium.com/p/3a640df68d3e) |
-| Sun, 20 Jul 2025 14:10:55 GMT | Why I’m Documenting This | Praise Tochukwu Ebuzoeme | [Read More](https://medium.com/p/541aea199064) |
-| Sun, 20 Jul 2025 14:08:15 GMT | JWTs: What’s Inside the Black Box? | Stefano Alvares | [Read More](https://medium.com/p/973cb1edc9d9) |
-| Sun, 20 Jul 2025 14:03:10 GMT | BrightScan #ThreatIntelThursday - Cyber Supply Chain Risk Management (C-SCRM) | Kalpitha S | [Read More](https://medium.com/p/723627969125) |
-| Sun, 20 Jul 2025 14:02:09 GMT | A Zero-Day Storm: SharePoint CVE-2025–53770 Actively Exploited in Large-Scale Attacks | CYber VIaz | [Read More](https://medium.com/p/47b34c43aaea) |
-| Sun, 20 Jul 2025 13:58:45 GMT | Mr. Phisher Walkthrough TryHackMe | Moonlander | [Read More](https://medium.com/p/3b3022dcfcbe) |
-| Sun, 20 Jul 2025 13:58:33 GMT | Going FUD with ArgFuscator | Aman_Utkhedkar | [Read More](https://medium.com/p/d909a561ff0a) |
