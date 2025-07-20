@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 20:15:56 GMT | Backend proqramlarda @ simvolu olan parollar niyə problem yaradır? | Nijat Aliyev | [Read More](https://medium.com/p/762760f252f2) |
+| Sun, 20 Jul 2025 20:07:05 GMT | $250 Bounty: Poisoning the Prototype: Exploiting Lodash’s Hidden Attack Surface | Monika sharma | [Read More](https://medium.com/p/bbc092de974c) |
+| Sun, 20 Jul 2025 19:40:54 GMT | Part one: The 4 Best Free Coding Resources for Students (Student-Friendly) | Lilith tavassoli | [Read More](https://medium.com/p/f3c975939224) |
 | Sun, 20 Jul 2025 19:35:19 GMT | How I Saved My WooCommerce Store from Being Hacked (And How You Can Too) | Dike Chiboka | [Read More](https://medium.com/p/5cdbc07ec192) |
 | Sun, 20 Jul 2025 19:34:23 GMT | Top Tech Trends That Will Shape the Future (2025–2030) | Fatimazahid | [Read More](https://medium.com/p/13b9d7c3c658) |
 | Sun, 20 Jul 2025 19:24:23 GMT | Cybersecurity Advancements in the Age of AI and Digital Transformation | GUOURIJA Taib | [Read More](https://medium.com/p/5528522326dc) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 14:50:53 GMT | Inside the Probe: What Happens Before an Alert Is Born | Sayantani Halder | [Read More](https://medium.com/p/d73967416f77) |
 | Sun, 20 Jul 2025 14:46:29 GMT | I was the girl who wasn’t saved. | ikigai | [Read More](https://medium.com/p/b8b7a83173fb) |
 | Sun, 20 Jul 2025 14:41:52 GMT | L2 MAC Flooding & ARP Spoofing — THM Writeup | Vincent Olago | [Read More](https://medium.com/p/acf917ce0830) |
-| Sun, 20 Jul 2025 14:31:48 GMT | BrightScan #ThreatIntelThursday - Front Door Attacks | Kalpitha S | [Read More](https://medium.com/p/214dfc2a198f) |
-| Sun, 20 Jul 2025 14:28:39 GMT | Automating XSS and SQL Injection Discovery: From Manual Testing to Python Scripting | Tenebris Venator | [Read More](https://medium.com/p/c30145ab20ac) |
-| Sun, 20 Jul 2025 14:22:52 GMT | Do You Know Your Network Profile: Windows, Mac and Linux Compared | Infosecjourney.tech | [Read More](https://medium.com/p/c04ae3da80a7) |
