@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 21:14:53 GMT | How to Make the Most of Your Bug $BUG Yield Rewards | Bug | [Read More](https://medium.com/p/3e6a9d3f3258) |
+| Sun, 20 Jul 2025 21:08:18 GMT | Kubernetes: Just Deploying a Pod… Problem? | W. Jenks Gibbons | [Read More](https://medium.com/p/eba7cd44f454) |
+| Sun, 20 Jul 2025 20:56:15 GMT | Mastering Shodan for Bug Bounty and Penetration Testing | Santhosh Adiga U | [Read More](https://medium.com/p/f4015f49543c) |
+| Sun, 20 Jul 2025 20:54:23 GMT | [Web Security Academy] — Server-Side Vulnerabilities / Path Traversal | Voltsec | [Read More](https://medium.com/p/cf8104faaf1a) |
+| Sun, 20 Jul 2025 20:54:22 GMT | Broken Access Control to Gain Unauthorized Role Management in a Public Program | Bassemwanies | [Read More](https://medium.com/p/6925f83d0dc4) |
+| Sun, 20 Jul 2025 20:54:09 GMT | LinkVortex: HTB WriteUp | Jad Ghamloush | [Read More](https://medium.com/p/2679e1e773d7) |
+| Sun, 20 Jul 2025 20:50:05 GMT | CoinDCX Hack: How a $44 Million Heist Reminds Us Not to Let Our Guard Down in Crypto | Chhavi Lamba | [Read More](https://medium.com/p/f67f14f717a3) |
+| Sun, 20 Jul 2025 20:49:36 GMT | AGENT SSH- LangChain, LangGraph, Paramiko | own_the_net | [Read More](https://medium.com/p/e7f52bd63725) |
+| Sun, 20 Jul 2025 20:46:54 GMT | Cybersecurity for Small Businesses — Stay Safe & Secure Now | The Daily Technology | [Read More](https://medium.com/p/9cbaf98b9bb6) |
+| Sun, 20 Jul 2025 20:45:53 GMT | Why SentinelOne Might Be the Dark-Horse Winner in Cybersecurity’s 2025 Slump | Jeremy Smith | [Read More](https://medium.com/p/5016888c9c55) |
+| Sun, 20 Jul 2025 20:44:32 GMT | Top 5 Free Firewall Software Tools to Instantly Boost Your Security | The Daily Technology | [Read More](https://medium.com/p/fbcf8c850bde) |
 | Sun, 20 Jul 2025 20:31:51 GMT | Subdomain Enumeration: Unleashing the First Strike in Bug Bounty Recon | SAMAEL 0x4 | [Read More](https://medium.com/p/9eee03da3c89) |
 | Sun, 20 Jul 2025 20:15:56 GMT | Backend proqramlarda @ simvolu olan parollar niyə problem yaradır? | Nijat Aliyev | [Read More](https://medium.com/p/762760f252f2) |
 | Sun, 20 Jul 2025 20:07:05 GMT | $250 Bounty: Poisoning the Prototype: Exploiting Lodash’s Hidden Attack Surface | Monika sharma | [Read More](https://medium.com/p/bbc092de974c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 15:22:43 GMT | The Cracked Pot and the Leadership Power of Imperfection | Dr Sean Duffy | [Read More](https://medium.com/p/5137b442d738) |
 | Sun, 20 Jul 2025 15:16:59 GMT | Behind the Scenes of a Breach: What Happens After Your Tool Raises a Flag? | SupportXDR | [Read More](https://medium.com/p/3e0807d89518) |
 | Sun, 20 Jul 2025 15:16:50 GMT | LinkedIn Done Right (Part 1): Why 90% of Penetration Testers Are Building the Wrong Audience | Ehtisham Fakhar | [Read More](https://medium.com/p/00ddbb9377fe) |
-| Sun, 20 Jul 2025 15:06:21 GMT | Silent Breach Lab - Cyber defenders walkthrough | Body | [Read More](https://medium.com/p/012b049431c3) |
-| Sun, 20 Jul 2025 15:03:59 GMT | A2Z-CM: GDPR Non-Compliant and Technically Fragile | 0trust0day | [Read More](https://medium.com/p/3da0c1d496ce) |
-| Sun, 20 Jul 2025 15:03:03 GMT | DefenseArk #ThreatIntelThursday - Risk Management, Due Diligence, and Due Care | Kalpitha S | [Read More](https://medium.com/p/78e0916bfd0c) |
-| Sun, 20 Jul 2025 15:02:14 GMT | Day 22 — Analisis Malware: Lab01 & Lab02 Sample (Reverse Engineering Dasar) | Nadeakzzz | [Read More](https://medium.com/p/7987e57785d8) |
-| Sun, 20 Jul 2025 15:00:10 GMT | Debugging the Future: Bridging Embedded Systems, CAN Bus Limits, and Secure Mobility | Ahmed Rekik | [Read More](https://medium.com/p/673e402a2455) |
-| Sun, 20 Jul 2025 14:58:59 GMT | This is the first day of my last days | Cypher | [Read More](https://medium.com/p/03eec57d22aa) |
-| Sun, 20 Jul 2025 14:58:29 GMT | Top SEO & Marketing Experts in 2025: Who’s Leading the Digital Game? | Rahul@Chaurasia | [Read More](https://medium.com/p/fab9817a0ff7) |
-| Sun, 20 Jul 2025 14:57:06 GMT | How to Protect Your Crypto Wallet in 2025: A Beginner-Friendly Guide | VResearcher | [Read More](https://medium.com/p/771d2ca9f651) |
-| Sun, 20 Jul 2025 14:54:09 GMT | I Just Passed the CompTIA Security+ and It Only Took a Year | The Smart Caveman | [Read More](https://medium.com/p/0134917e1db1) |
-| Sun, 20 Jul 2025 14:50:53 GMT | Inside the Probe: What Happens Before an Alert Is Born | Sayantani Halder | [Read More](https://medium.com/p/d73967416f77) |
-| Sun, 20 Jul 2025 14:46:29 GMT | I was the girl who wasn’t saved. | ikigai | [Read More](https://medium.com/p/b8b7a83173fb) |
