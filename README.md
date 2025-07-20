@@ -12,9 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 13:31:49 GMT | BrightScan #ThreatIntelThursday - Teardrop Attacks | Kalpitha S | [Read More](https://medium.com/p/006f22f94ce4) |
+| Sun, 20 Jul 2025 13:30:47 GMT | How Curvance $CVE Yield Farming Can Help You Build Wealth | Curvance | [Read More](https://medium.com/p/0178e31763cd) |
+| Sun, 20 Jul 2025 13:06:48 GMT | Hospitals at Cybersecurity Crossroads: Projected Medicaid Cuts Threaten 25% of U.S. | Black Book Market Research | [Read More](https://medium.com/p/b1153a571514) |
+| Sun, 20 Jul 2025 13:03:00 GMT | DefenseArk #ThreatIntelThursday - Rootkits | Kalpitha S | [Read More](https://medium.com/p/d9fd421123b1) |
+| Sun, 20 Jul 2025 12:55:06 GMT | WANNACRY Memories | Dhruv Jalota | [Read More](https://medium.com/p/30498b94a876) |
+| Sun, 20 Jul 2025 12:53:10 GMT | 漫谈登录账密前端数据加密的必要性与正确实践 | Li JINLING | [Read More](https://medium.com/p/a0cbeaa3387b) |
+| Sun, 20 Jul 2025 12:52:34 GMT | Agentic AI: New buzz or Smarter Orchestration ? | Durgadas Kamath | [Read More](https://medium.com/p/aa041a8a2039) |
+| Sun, 20 Jul 2025 12:50:12 GMT | Security is a Journey: Lessons from My Cybersecurity Exploration | Infosecjourney.tech | [Read More](https://medium.com/p/4571533ac14b) |
+| Sun, 20 Jul 2025 12:48:05 GMT | KiberTəhlükəsizlik nədir? | Abdul Guliyev | [Read More](https://medium.com/p/fd031da4bc5d) |
+| Sun, 20 Jul 2025 12:46:45 GMT | Compliance in Context: CMMC, CUI, and FCI Essentials | Infosecjourney.tech | [Read More](https://medium.com/p/9b7e0d860f65) |
+| Sun, 20 Jul 2025 12:36:25 GMT | From Chaos to Clarity: How I Conduct Web Application Pentests with Clients | echosso | [Read More](https://medium.com/p/3b964be25a18) |
 | Sun, 20 Jul 2025 12:36:08 GMT | AVOIDING INFORMATION DISCLOSURE THROUGH LOGIC FLAWS (Python) | SecureAuditX | [Read More](https://medium.com/p/3fca7486c19b) |
 | Sun, 20 Jul 2025 12:35:54 GMT | Easiest P4 worth $60-$100 on Yandex | TSxNINJA | [Read More](https://medium.com/p/4ed0c291a37e) |
 | Sun, 20 Jul 2025 12:33:12 GMT | Hackviser — Laravel Framework < 8.4.2 Uzaktan Kod Yürütme (CVE-2021–3129) Yazısı | Who4m1-Cyber | [Read More](https://medium.com/p/2fcc1ecc9247) |
+| Sun, 20 Jul 2025 12:31:49 GMT | DefenseArk #ThreatIntelThursday - Supply Chain Attacks & Risk Management | Kalpitha S | [Read More](https://medium.com/p/4d76836753c5) |
 | Sun, 20 Jul 2025 12:28:18 GMT | Beginner’s Guide to Active Reconnaissance (Part 2): Basic Host Discovery with Nmap in a Home Lab | Ar-jay A. Ballaco | [Read More](https://medium.com/p/6045c6d46b3c) |
 | Sun, 20 Jul 2025 12:21:00 GMT | $500 Bounty: How a Coin Verification Race Condition Let Me Multiply Reddit Coins | Monika sharma | [Read More](https://medium.com/p/b98c3054519e) |
 | Sun, 20 Jul 2025 12:20:56 GMT | Cyber Security Threats in 2025: What You Don’t Know Can Hurt You | Varda joshi | [Read More](https://medium.com/p/68f04e91d2e3) |
@@ -104,15 +116,3 @@ low to the ground. | sardine. | [Read More](https://medium.com/p/ec615574999d) |
 | Sun, 20 Jul 2025 06:56:13 GMT | How I passed 3 CompTIA certification exams | Kent Lee | [Read More](https://medium.com/p/4049ffe5c109) |
 | Sun, 20 Jul 2025 06:55:46 GMT | Pi-Fi Hacking: Cracking WPA with Pi Zero and Hashcat | Girishatindra | [Read More](https://medium.com/p/f4e978ef1a3e) |
 | Sun, 20 Jul 2025 06:51:16 GMT | So… I Could Reset Someone Else’s Password by Accident? | Viratavi | [Read More](https://medium.com/p/c140a41a8b8a) |
-| Sun, 20 Jul 2025 06:48:06 GMT | Inside the Breach: UNC3886 and the Silent Compromise of Singapore’s Core Systems | Shraddhakaveri H | [Read More](https://medium.com/p/56fb946dbca6) |
-| Sun, 20 Jul 2025 06:42:50 GMT | 350+ Free TryHackMe Rooms to Learn Ethical Hacking & Cybersecurity [2025 Edition] | cyberwinx | [Read More](https://medium.com/p/22570f64c0ad) |
-| Sun, 20 Jul 2025 06:41:02 GMT | RBI Tokenisation: Update Payment Method to Comply with RBI Tokenization Regulation — Tekmons It… | Tekmons It Solution | [Read More](https://medium.com/p/7f2b21e99686) |
-| Sun, 20 Jul 2025 06:35:27 GMT | Firebase App Check with React native applications | Chotu engineer | [Read More](https://medium.com/p/c2790adf26f2) |
-| Sun, 20 Jul 2025 06:31:21 GMT | El bug no está en el código, está en cómo se pensó el sistema | Gorka | [Read More](https://medium.com/p/e4f986b89ce6) |
-| Sun, 20 Jul 2025 06:31:20 GMT | BrightScan #ThreatIntelThursday - Code Injection | Kalpitha S | [Read More](https://medium.com/p/ea3a3da9b7da) |
-| Sun, 20 Jul 2025 06:29:12 GMT | 6 Kubernetes Security Best Practices Every Linux Administrator Should Know | Shujat Husain | [Read More](https://medium.com/p/b206fd06bd03) |
-| Sun, 20 Jul 2025 06:27:18 GMT | 6 Kubernetes Security Best Practices Every Linux Administrator Should Know | Shujat Husain | [Read More](https://medium.com/p/ebfcf2c508b6) |
-| Sun, 20 Jul 2025 06:24:23 GMT | Zscaler ZIA: The Essential Shield for Today’s Digital Frontier | Shweta Papnai | [Read More](https://medium.com/p/e15764d94c4e) |
-| Sun, 20 Jul 2025 06:23:14 GMT | Beyond OTPs: A Minimalist Approach to Student Verification | Lovelymunchkin | [Read More](https://medium.com/p/3a3bad0fe20e) |
-| Sun, 20 Jul 2025 06:12:54 GMT | KPMG CTF {Santa’s Letter} | Bhuwan Patidar | [Read More](https://medium.com/p/83929c6b57cf) |
-| Sun, 20 Jul 2025 06:10:26 GMT | Why Cybersecurity Isn’t as Complicated as They Want You to Think | Timsux Wales | [Read More](https://medium.com/p/a128659c2a5b) |
