@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 14:13:40 GMT | CVE-2025–49706 — SharePoint Spoofing Vulnerability Under Active Exploitation | Aditya Bhatt | [Read More](https://medium.com/p/3a640df68d3e) |
+| Sun, 20 Jul 2025 14:10:55 GMT | Why I’m Documenting This | Praise Tochukwu Ebuzoeme | [Read More](https://medium.com/p/541aea199064) |
+| Sun, 20 Jul 2025 14:08:15 GMT | JWTs: What’s Inside the Black Box? | Stefano Alvares | [Read More](https://medium.com/p/973cb1edc9d9) |
+| Sun, 20 Jul 2025 14:03:10 GMT | BrightScan #ThreatIntelThursday - Cyber Supply Chain Risk Management (C-SCRM) | Kalpitha S | [Read More](https://medium.com/p/723627969125) |
+| Sun, 20 Jul 2025 14:02:09 GMT | A Zero-Day Storm: SharePoint CVE-2025–53770 Actively Exploited in Large-Scale Attacks | CYber VIaz | [Read More](https://medium.com/p/47b34c43aaea) |
+| Sun, 20 Jul 2025 13:58:45 GMT | Mr. Phisher Walkthrough TryHackMe | Moonlander | [Read More](https://medium.com/p/3b3022dcfcbe) |
+| Sun, 20 Jul 2025 13:58:33 GMT | Going FUD with ArgFuscator | Aman_Utkhedkar | [Read More](https://medium.com/p/d909a561ff0a) |
+| Sun, 20 Jul 2025 13:56:02 GMT | Embracing Web3 Without Sacrificing Privacy | Blockchain_Privacy | [Read More](https://medium.com/p/3ad115acd18b) |
+| Sun, 20 Jul 2025 13:53:55 GMT | Windows vs. Linux, Same Webshell Story: What Red and Blue Teams Should Know | Abdellaoui Ahmed | [Read More](https://medium.com/p/fbfe5cca824e) |
+| Sun, 20 Jul 2025 13:39:17 GMT | Angular Interview Q&A: Day 27 | Dipak Ahirav | [Read More](https://medium.com/p/9bdfab0462e3) |
+| Sun, 20 Jul 2025 13:38:36 GMT | Earn from $20 to $20,000 by Bug Bounty! The Ultimate Guide for Beginners | Rashadul Islam | [Read More](https://medium.com/p/3aea9735f9a7) |
 | Sun, 20 Jul 2025 13:31:49 GMT | BrightScan #ThreatIntelThursday - Teardrop Attacks | Kalpitha S | [Read More](https://medium.com/p/006f22f94ce4) |
 | Sun, 20 Jul 2025 13:30:47 GMT | How Curvance $CVE Yield Farming Can Help You Build Wealth | Curvance | [Read More](https://medium.com/p/0178e31763cd) |
 | Sun, 20 Jul 2025 13:06:48 GMT | Hospitals at Cybersecurity Crossroads: Projected Medicaid Cuts Threaten 25% of U.S. | Black Book Market Research | [Read More](https://medium.com/p/b1153a571514) |
@@ -105,14 +116,3 @@ low to the ground. | sardine. | [Read More](https://medium.com/p/ec615574999d) |
 | Sun, 20 Jul 2025 07:21:46 GMT | Try Hack Me: Git Happens Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/1d304b5233df) |
 | Sun, 20 Jul 2025 07:21:35 GMT | Cyberattacks on 4G/LTE Telecom Networks: Threat Mapping and Defense | Andrey Pautov | [Read More](https://medium.com/p/bd0e7fe76f54) |
 | Sun, 20 Jul 2025 07:18:51 GMT | How Secure Is Your Remote Server? Use Nmap Like This to Find Vulnerabilities | Amila kothalawala | [Read More](https://medium.com/p/77c8b693e853) |
-| Sun, 20 Jul 2025 07:14:48 GMT | How I Passed the SC-900 Exam: A Beginner’s Guide to Microsoft Security Fundamentals | KISHORERAM | [Read More](https://medium.com/p/00d9340ab8ce) |
-| Sun, 20 Jul 2025 07:12:06 GMT | The Password Problem: Why Laziness is the Hacker’s Best Friend | Travis Ray Caverhill | [Read More](https://medium.com/p/2650e1f3a18c) |
-| Sun, 20 Jul 2025 07:09:58 GMT | Best Red Hat Certified Architect Course In Delhi | cyber security Updates | [Read More](https://medium.com/p/79b0749e6ec6) |
-| Sun, 20 Jul 2025 07:07:54 GMT | Google Signs $3 Billion U.S. Hydropower Deal to Power AI Growth with Clean Energy | Tech Thrilled | [Read More](https://medium.com/p/7d417fd61f0c) |
-| Sun, 20 Jul 2025 07:03:48 GMT | The Price of Being Safe | croissantblunt | [Read More](https://medium.com/p/87dd2dc77d15) |
-| Sun, 20 Jul 2025 07:01:24 GMT | How AI is Transforming Cybersecurity in 2025: Defending Against Next-Gen Threats | Sudheera Wijedasa | [Read More](https://medium.com/p/869f79ecc8c8) |
-| Sun, 20 Jul 2025 07:01:22 GMT | BrightScan #ThreatIntelThursday - Man in the Middle (MiTM) Attacks ☎ — ! — ☎ | Kalpitha S | [Read More](https://medium.com/p/93b5a57f76ad) |
-| Sun, 20 Jul 2025 06:57:44 GMT | The Quiet Pain of Being Emotionally Available to the Wrong Person. | Marymagdalene Ogeleka | [Read More](https://medium.com/p/377e3455be05) |
-| Sun, 20 Jul 2025 06:56:13 GMT | How I passed 3 CompTIA certification exams | Kent Lee | [Read More](https://medium.com/p/4049ffe5c109) |
-| Sun, 20 Jul 2025 06:55:46 GMT | Pi-Fi Hacking: Cracking WPA with Pi Zero and Hashcat | Girishatindra | [Read More](https://medium.com/p/f4e978ef1a3e) |
-| Sun, 20 Jul 2025 06:51:16 GMT | So… I Could Reset Someone Else’s Password by Accident? | Viratavi | [Read More](https://medium.com/p/c140a41a8b8a) |
