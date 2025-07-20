@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 21:31:21 GMT | I Found Hidden Vulnerabilities in Just 3 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/178f0e14ddb1) |
+| Sun, 20 Jul 2025 21:20:21 GMT | Where Do You Begin Again? | Jamie Trott | [Read More](https://medium.com/p/9c06e87802c6) |
+| Sun, 20 Jul 2025 21:20:13 GMT | Understanding CORS, CSRF & XSS: For Anyone Who’s Felt Confused. | Mihir Hundiwala | [Read More](https://medium.com/p/9c09bcc765f2) |
 | Sun, 20 Jul 2025 21:14:53 GMT | How to Make the Most of Your Bug $BUG Yield Rewards | Bug | [Read More](https://medium.com/p/3e6a9d3f3258) |
+| Sun, 20 Jul 2025 21:11:36 GMT | Getting Started with Microsoft Defender XDR | Eyad Hasanato | [Read More](https://medium.com/p/35bc57f7a73c) |
 | Sun, 20 Jul 2025 21:08:18 GMT | Kubernetes: Just Deploying a Pod… Problem? | W. Jenks Gibbons | [Read More](https://medium.com/p/eba7cd44f454) |
 | Sun, 20 Jul 2025 20:56:15 GMT | Mastering Shodan for Bug Bounty and Penetration Testing | Santhosh Adiga U | [Read More](https://medium.com/p/f4015f49543c) |
 | Sun, 20 Jul 2025 20:54:23 GMT | [Web Security Academy] — Server-Side Vulnerabilities / Path Traversal | Voltsec | [Read More](https://medium.com/p/cf8104faaf1a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 15:30:20 GMT | Securing Cloud Run with Coraza WAF | Michele Contu | [Read More](https://medium.com/p/7933ddc641ef) |
 | Sun, 20 Jul 2025 15:28:23 GMT | Secure Code Reviews: Tips for Dev Teams | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e236b3339706) |
 | Sun, 20 Jul 2025 15:26:55 GMT | How AI Is Reshaping DevOps: From Scripts to Smart Automation | Abdulhadi | [Read More](https://medium.com/p/20dba33f5b76) |
-| Sun, 20 Jul 2025 15:23:00 GMT | Vulnerability Discovery and Exploit Development via GitHub | Esra Kayhan | [Read More](https://medium.com/p/4421b21b1752) |
-| Sun, 20 Jul 2025 15:22:43 GMT | The Cracked Pot and the Leadership Power of Imperfection | Dr Sean Duffy | [Read More](https://medium.com/p/5137b442d738) |
-| Sun, 20 Jul 2025 15:16:59 GMT | Behind the Scenes of a Breach: What Happens After Your Tool Raises a Flag? | SupportXDR | [Read More](https://medium.com/p/3e0807d89518) |
-| Sun, 20 Jul 2025 15:16:50 GMT | LinkedIn Done Right (Part 1): Why 90% of Penetration Testers Are Building the Wrong Audience | Ehtisham Fakhar | [Read More](https://medium.com/p/00ddbb9377fe) |
