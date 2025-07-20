@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 11:08:24 GMT | ️Hide Your API Keys on a Static Site with Cloudflare Workers | Sourabh Panchal | [Read More](https://medium.com/p/3c87077da309) |
+| Sun, 20 Jul 2025 11:01:37 GMT | Cybersecurity in the AI Era: Why Microsoft Sentinel Is a Game‑Changer for Fintech & Telco… | Farzana Afrin Tisha | [Read More](https://medium.com/p/4e7d67679ce4) |
+| Sun, 20 Jul 2025 10:59:47 GMT | What to look into cyber security monitoring services? | Cyberextent | [Read More](https://medium.com/p/539c303f0255) |
+| Sun, 20 Jul 2025 10:55:12 GMT | How I Got $3K by Breaking User Accounts via IDOR & Logic Flaw — by matrixm0x1 | matrixm0x1 | [Read More](https://medium.com/p/aefae835cbe3) |
+| Sun, 20 Jul 2025 10:47:52 GMT | Why Red Teams Are Essential for Enterprises & Governments in 2025 | Malforge Academy | [Read More](https://medium.com/p/5a5007f5e42e) |
+| Sun, 20 Jul 2025 10:46:39 GMT | Why Test Case Writing Is a Thinking Exercise, Not a Form-Filling Task | Nirmal Kiran Patel | [Read More](https://medium.com/p/07743e2d1bdb) |
+| Sun, 20 Jul 2025 10:44:22 GMT | Pros Don’t Use NMAP OR RUSTSCAN, They use this …2026. | lukewago | [Read More](https://medium.com/p/d9e0964ece1b) |
+| Sun, 20 Jul 2025 10:43:52 GMT | How One PHP File Can Hack a Server: WebDAV File Upload to RCE | Sai Krishna | [Read More](https://medium.com/p/2401e4bc37c7) |
 | Sun, 20 Jul 2025 10:33:10 GMT | BrightScan #ThreatIntelThursday - Defending Passwords | Kalpitha S | [Read More](https://medium.com/p/72a8819a944d) |
 | Sun, 20 Jul 2025 10:32:19 GMT | Is Mining Automatic Legit Or Scam? | Romeo | [Read More](https://medium.com/p/7c82257ea04b) |
 | Sun, 20 Jul 2025 10:21:10 GMT | Some Days I’m Light, Some Days I’m a Storm. | Yami05 | [Read More](https://medium.com/p/2e9e3d2d4176) |
@@ -108,11 +116,3 @@ low to the ground. | sardine. | [Read More](https://medium.com/p/ec615574999d) |
 | Sun, 20 Jul 2025 05:01:51 GMT | BrightScan’s #ThreatIntelThursday - Bots and Botnets | Kalpitha S | [Read More](https://medium.com/p/5eada1dad67b) |
 | Sun, 20 Jul 2025 04:59:49 GMT | Remote Code Execution via Misconfigured File Upload Using Encrypted Payload (AK47WebShell) | Puneet Maheshwari | [Read More](https://medium.com/p/d34fe7bd72f3) |
 | Sun, 20 Jul 2025 04:36:50 GMT | AWS CloudTrail Event Cheatsheet: A Detection Engineer’s Guide to Critical API Calls — Part 1 | Muh. Fani Akbar | [Read More](https://medium.com/p/04fb1588556f) |
-| Sun, 20 Jul 2025 04:34:16 GMT | FHE: The Privacy Breakthrough Web3 Has Been Waiting For | Sumitkumar | [Read More](https://medium.com/p/0eb6087bdd4b) |
-| Sun, 20 Jul 2025 04:34:10 GMT | 20 Python Libraries That Are Revolutionizing Software Development in 2025 | Ade Mawan | [Read More](https://medium.com/p/a44df569cde8) |
-| Sun, 20 Jul 2025 04:33:02 GMT | DefenseArk #ThreatIntelThursday - Worms | Kalpitha S | [Read More](https://medium.com/p/860e357ebf2f) |
-| Sun, 20 Jul 2025 04:19:45 GMT | DNS Service - Deep Dive SIEM Part 8 | Bit_Picker | [Read More](https://medium.com/p/43df148b51fa) |
-| Sun, 20 Jul 2025 04:14:45 GMT | Biometrics: Why I Believe It’s the Future — With Both Promise and Precaution | Threaded Epiphany | [Read More](https://medium.com/p/1ef740ae3968) |
-| Sun, 20 Jul 2025 04:12:59 GMT | Drosera: Making DeFi Security Smarter and Safer on Ethereum | Emilymeth | [Read More](https://medium.com/p/14c2094c4ad2) |
-| Sun, 20 Jul 2025 04:03:24 GMT | SİBER SAVAŞ | Abdullah Narin | [Read More](https://medium.com/p/a2975efc9c2e) |
-| Sun, 20 Jul 2025 04:00:03 GMT | Today is Heavy. | House EmberLynn | [Read More](https://medium.com/p/fbca21a75dda) |
