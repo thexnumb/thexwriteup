@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 23:11:20 GMT | How to Keep Your LINE Account Safe: A Cautionary Tale and Tips to Protect Yourself | Oren | [Read More](https://medium.com/p/a4fc12393692) |
+| Sun, 20 Jul 2025 23:03:35 GMT | Build vs. Buy in the Age of AI: A New Equation for Security Teams | Fry Rob | [Read More](https://medium.com/p/dd3a1b9c60de) |
+| Sun, 20 Jul 2025 23:03:02 GMT | LetsDefend — PowerShell Keylogger Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/bcae12a0cd29) |
+| Sun, 20 Jul 2025 22:59:40 GMT | Leaving Chrome: Brave, Firefox, or Mullvad? Here’s What You Need to Know | BiyteLüm | [Read More](https://medium.com/p/a29430747113) |
+| Sun, 20 Jul 2025 22:55:22 GMT | Let’s Defend: 76 — SOC137 — Malicious File/Script Download Attempt - Writeup | EPereda | [Read More](https://medium.com/p/e84d02d2824b) |
+| Sun, 20 Jul 2025 22:54:57 GMT | Let’s Defend: 75 — SOC105 — Requested T.I. URL address - Writeup | EPereda | [Read More](https://medium.com/p/217d591cb604) |
+| Sun, 20 Jul 2025 22:54:12 GMT | Let’s Defend: 45 — SOC114 — Malicious Attachment Detected — Phishing Alert - Writeup | EPereda | [Read More](https://medium.com/p/3b5906b1efed) |
 | Sun, 20 Jul 2025 22:16:59 GMT | Protecting SCADA Systems From Remote Attacks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5f80e1c6ffd5) |
 | Sun, 20 Jul 2025 22:03:10 GMT | Ensuring Security in Docker Containers: Best Practices | @rnab | [Read More](https://medium.com/p/6ccd0afdf8ed) |
 | Sun, 20 Jul 2025 21:58:44 GMT | Exposed: How Hackers Bypass Microsoft 365 MFA Using Advanced Phishing Tools | Lawrence Teixeira | [Read More](https://medium.com/p/b420ba2c7905) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 16:11:11 GMT | Ph4nt0m 1ntrud3r | Hiba Hamd | [Read More](https://medium.com/p/dddaf529d3fa) |
 | Sun, 20 Jul 2025 16:07:46 GMT | I want to be “Invisible” | AV | [Read More](https://medium.com/p/45866d20cd42) |
 | Sun, 20 Jul 2025 16:06:24 GMT | The bug that only appears when you’re not looking | Balemarthy Vamsi | [Read More](https://medium.com/p/19bca0edcf0b) |
-| Sun, 20 Jul 2025 16:02:30 GMT | How Hackers Bypass Your Login Page (And How to Stop Them) | Rizqi Mulki | [Read More](https://medium.com/p/d2d3a12ebbbe) |
-| Sun, 20 Jul 2025 16:00:13 GMT | DAY 20 — M57 Jean Forensic Case | Jinay | [Read More](https://medium.com/p/7a3a2ec49ada) |
-| Sun, 20 Jul 2025 15:52:13 GMT | Day 49 of #60DaysofGRC: NIST SP 800–53: What You Need to Know | Brittney Ginther | [Read More](https://medium.com/p/2d8c00dc5079) |
-| Sun, 20 Jul 2025 15:52:00 GMT | My First Try at OSINT: Playing Digital Detective! | Vinod Atwal | [Read More](https://medium.com/p/8ef23e8b14be) |
-| Sun, 20 Jul 2025 15:47:44 GMT | SQL Injection Isn’t Dead. Here’s Why. | Rizqi Mulki | [Read More](https://medium.com/p/aa4b6657f5c3) |
-| Sun, 20 Jul 2025 15:41:25 GMT | The Top 7 Security Flaws in Most Web Apps | Rizqi Mulki | [Read More](https://medium.com/p/4b4795112075) |
-| Sun, 20 Jul 2025 15:37:33 GMT | More Bitchat Challenges: Message Tampering & Command Bypass | pogen300 | [Read More](https://medium.com/p/e6940ddc4be4) |
