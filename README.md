@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 16:19:11 GMT | How I cracked my first SOC Analyst Interview? And what you can learn from it? | Ronak Joshi | [Read More](https://medium.com/p/cb5536d5f5e2) |
+| Sun, 20 Jul 2025 16:18:07 GMT | Krioptix Level 1 | kiwi | [Read More](https://medium.com/p/e42f8dc242c1) |
+| Sun, 20 Jul 2025 16:13:18 GMT | ️‍♂️ Mastering SearchSploit: From 0x00 to 0xFF | Hail Hydra | [Read More](https://medium.com/p/f1eece6e2f9f) |
+| Sun, 20 Jul 2025 16:11:11 GMT | Ph4nt0m 1ntrud3r | Hiba Hamd | [Read More](https://medium.com/p/dddaf529d3fa) |
+| Sun, 20 Jul 2025 16:07:46 GMT | I want to be “Invisible” | AV | [Read More](https://medium.com/p/45866d20cd42) |
+| Sun, 20 Jul 2025 16:06:24 GMT | The bug that only appears when you’re not looking | Balemarthy Vamsi | [Read More](https://medium.com/p/19bca0edcf0b) |
+| Sun, 20 Jul 2025 16:02:30 GMT | How Hackers Bypass Your Login Page (And How to Stop Them) | Rizqi Mulki | [Read More](https://medium.com/p/d2d3a12ebbbe) |
+| Sun, 20 Jul 2025 16:00:13 GMT | DAY 20 — M57 Jean Forensic Case | Jinay | [Read More](https://medium.com/p/7a3a2ec49ada) |
+| Sun, 20 Jul 2025 15:52:13 GMT | Day 49 of #60DaysofGRC: NIST SP 800–53: What You Need to Know | Brittney Ginther | [Read More](https://medium.com/p/2d8c00dc5079) |
+| Sun, 20 Jul 2025 15:52:00 GMT | My First Try at OSINT: Playing Digital Detective! | Vinod Atwal | [Read More](https://medium.com/p/8ef23e8b14be) |
+| Sun, 20 Jul 2025 15:47:44 GMT | SQL Injection Isn’t Dead. Here’s Why. | Rizqi Mulki | [Read More](https://medium.com/p/aa4b6657f5c3) |
+| Sun, 20 Jul 2025 15:41:25 GMT | The Top 7 Security Flaws in Most Web Apps | Rizqi Mulki | [Read More](https://medium.com/p/4b4795112075) |
+| Sun, 20 Jul 2025 15:37:33 GMT | More Bitchat Challenges: Message Tampering & Command Bypass | pogen300 | [Read More](https://medium.com/p/e6940ddc4be4) |
 | Sun, 20 Jul 2025 15:31:52 GMT | $150 — Broken Access Control - HackerOne Bug Bounty Program — My First Bounty! | BugBountyWriteups | [Read More](https://medium.com/p/239aff71376f) |
 | Sun, 20 Jul 2025 15:31:48 GMT | FastAPI for Cybersecurity Dashboards: My New Favorite Stack | Nikulsinh Rajput | [Read More](https://medium.com/p/fca5df79b85a) |
 | Sun, 20 Jul 2025 15:30:20 GMT | Securing Cloud Run with Coraza WAF | Michele Contu | [Read More](https://medium.com/p/7933ddc641ef) |
@@ -99,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 10:21:02 GMT | Lab 3: Collecting Linux Syslog Logs in Microsoft Sentinel — A Journey of Errors, Azure, and… | Amy Huynh | [Read More](https://medium.com/p/20a1a41ffc73) |
 | Sun, 20 Jul 2025 10:12:34 GMT | How a Hacker Fooled the World | Kara Davis | [Read More](https://medium.com/p/bc5451c7d2b5) |
 | Sun, 20 Jul 2025 10:11:22 GMT | Speed, Security, Scalability: The 3 S’s of a Future-Proof Business Website | Airin Git | [Read More](https://medium.com/p/a67bb964375b) |
-| Sun, 20 Jul 2025 10:04:31 GMT | Cyber War 2025: The Silent Battlefield of the Digital Age | The Global World News | [Read More](https://medium.com/p/3851b01a3a98) |
-| Sun, 20 Jul 2025 10:03:01 GMT | BrightScan #ThreatIntelThursday - Password Cracking | Kalpitha S | [Read More](https://medium.com/p/152ab93ca7de) |
-| Sun, 20 Jul 2025 10:00:58 GMT | Part 1 — Learn Building a Windows Keylogger with C++ | Darkder101 | [Read More](https://medium.com/p/7ad04c1da8c9) |
-| Sun, 20 Jul 2025 09:44:09 GMT | Best Water Filters - Top 5 Amazing Water Filters2025 | Ion Volentir | [Read More](https://medium.com/p/bdcba188f51d) |
-| Sun, 20 Jul 2025 09:31:21 GMT | BrightScan #ThreatIntelThursday - Covert Channels | Kalpitha S | [Read More](https://medium.com/p/0da506268397) |
-| Sun, 20 Jul 2025 09:30:49 GMT | Quranium x Abatis: A New Standard for Endpoint Security in Web3
- Military-grade protection meets… | Bright Mmaduabuchi | [Read More](https://medium.com/p/6f329d402220) |
-| Sun, 20 Jul 2025 09:27:24 GMT | How to Evaluate Information for Technology Before Making Big Decisions | Business Pro Tech | [Read More](https://medium.com/p/d52d4389e381) |
-| Sun, 20 Jul 2025 09:24:48 GMT | “The Caterpillar.” a poem about transformation.
- 
-I have lived my whole life 
-low to the ground. | sardine. | [Read More](https://medium.com/p/ec615574999d) |
-| Sun, 20 Jul 2025 09:22:50 GMT | Gaining Domain Control: A Walkthrough of TryHackMe’s Attacktive Directory | Ruposhree B. | [Read More](https://medium.com/p/e7502701cbd6) |
-| Sun, 20 Jul 2025 09:16:34 GMT | CyberDefenders — Yellow RAT Lab (Walk Through + SpeedRun Explaination) | Mart Eugen Gevero | [Read More](https://medium.com/p/cfe5e08b1609) |
-| Sun, 20 Jul 2025 09:10:28 GMT | How Security Threats Are Shaping the Future of Software Evolution | Aduwa Geethanjana | [Read More](https://medium.com/p/67ad1af04423) |
-| Sun, 20 Jul 2025 09:01:26 GMT | BrightScan #ThreatIntelThursday - Electromagnetic Pulses | Kalpitha S | [Read More](https://medium.com/p/172f32018748) |
-| Sun, 20 Jul 2025 09:01:24 GMT | BrightScan #ThreatIntelThursday - Secure Deletion | Kalpitha S | [Read More](https://medium.com/p/e8fe7808c4e9) |
