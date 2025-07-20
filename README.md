@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 19:02:57 GMT | July 20, 2025 –Quiet But Full | IamGhost | [Read More](https://medium.com/p/f154425bd0a6) |
+| Sun, 20 Jul 2025 19:01:58 GMT | Welcome to The Informatics Hub — Where Knowledge Empowers Your Everyday | Theinformaticshub | [Read More](https://medium.com/p/80a5b74d967f) |
+| Sun, 20 Jul 2025 18:59:05 GMT | Fashion and Lifestyle: Expressing Identity with style | Theinformaticshub | [Read More](https://medium.com/p/fd7b92ed9a9c) |
+| Sun, 20 Jul 2025 18:58:36 GMT | About me | Raúl Ereño | [Read More](https://medium.com/p/7634b3519a9d) |
+| Sun, 20 Jul 2025 18:57:38 GMT | Introduction to Cryptography and ROT13: The Beginner’s Gateway to Encryption | Allen Ace | [Read More](https://medium.com/p/6d1977df57d9) |
+| Sun, 20 Jul 2025 18:55:51 GMT | Exploring Diverse Metrics for Enhancing Security Operations Effectiveness | Kuldeeplodi | [Read More](https://medium.com/p/b644fbea3637) |
+| Sun, 20 Jul 2025 18:49:18 GMT | Step-by-Step Guide to Real-World Information Disclosure Vulnerabilities | Rajkumar Kumawat | [Read More](https://medium.com/p/4da3377d780f) |
 | Sun, 20 Jul 2025 18:45:12 GMT | How I Automated Recon, Scanning, and Exploitation with GPT + Burp (Deep Dive) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9df09313eed2) |
 | Sun, 20 Jul 2025 18:44:46 GMT | Staging Sites, Admin:Admin, and a $500 Payday | Rutvik Kalkumbe | [Read More](https://medium.com/p/f45cc481ad1a) |
 | Sun, 20 Jul 2025 18:44:01 GMT | Chaining Vulnerabilities for Account Takeovers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/26fa6183216d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 14:02:09 GMT | A Zero-Day Storm: SharePoint CVE-2025–53770 Actively Exploited in Large-Scale Attacks | CYber VIaz | [Read More](https://medium.com/p/47b34c43aaea) |
 | Sun, 20 Jul 2025 13:58:45 GMT | Mr. Phisher Walkthrough TryHackMe | Moonlander | [Read More](https://medium.com/p/3b3022dcfcbe) |
 | Sun, 20 Jul 2025 13:58:33 GMT | Going FUD with ArgFuscator | Aman_Utkhedkar | [Read More](https://medium.com/p/d909a561ff0a) |
-| Sun, 20 Jul 2025 13:56:02 GMT | Embracing Web3 Without Sacrificing Privacy | Blockchain_Privacy | [Read More](https://medium.com/p/3ad115acd18b) |
-| Sun, 20 Jul 2025 13:53:55 GMT | Windows vs. Linux, Same Webshell Story: What Red and Blue Teams Should Know | Abdellaoui Ahmed | [Read More](https://medium.com/p/fbfe5cca824e) |
-| Sun, 20 Jul 2025 13:39:17 GMT | Angular Interview Q&A: Day 27 | Dipak Ahirav | [Read More](https://medium.com/p/9bdfab0462e3) |
-| Sun, 20 Jul 2025 13:38:36 GMT | Earn from $20 to $20,000 by Bug Bounty! The Ultimate Guide for Beginners | Rashadul Islam | [Read More](https://medium.com/p/3aea9735f9a7) |
-| Sun, 20 Jul 2025 13:31:49 GMT | BrightScan #ThreatIntelThursday - Teardrop Attacks | Kalpitha S | [Read More](https://medium.com/p/006f22f94ce4) |
-| Sun, 20 Jul 2025 13:30:47 GMT | How Curvance $CVE Yield Farming Can Help You Build Wealth | Curvance | [Read More](https://medium.com/p/0178e31763cd) |
-| Sun, 20 Jul 2025 13:06:48 GMT | Hospitals at Cybersecurity Crossroads: Projected Medicaid Cuts Threaten 25% of U.S. | Black Book Market Research | [Read More](https://medium.com/p/b1153a571514) |
