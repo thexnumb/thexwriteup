@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 23:33:00 GMT | Make Your Java Cleaner: Understanding Method References (::) | Hemanth Turubatla | [Read More](https://medium.com/p/d86831ef3ce6) |
+| Sun, 20 Jul 2025 23:22:45 GMT | Exploring the Best Non-WiFi Baby Monitor: Jartoo’s Innovative Solutions | Nipun | [Read More](https://medium.com/p/6a100447a8c0) |
 | Sun, 20 Jul 2025 23:11:20 GMT | How to Keep Your LINE Account Safe: A Cautionary Tale and Tips to Protect Yourself | Oren | [Read More](https://medium.com/p/a4fc12393692) |
 | Sun, 20 Jul 2025 23:03:35 GMT | Build vs. Buy in the Age of AI: A New Equation for Security Teams | Fry Rob | [Read More](https://medium.com/p/dd3a1b9c60de) |
 | Sun, 20 Jul 2025 23:03:02 GMT | LetsDefend — PowerShell Keylogger Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/bcae12a0cd29) |
@@ -108,7 +110,5 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 16:23:06 GMT | Your Boss is Spying on Your Work Laptop—Here’s What They Can See | Aj | [Read More](https://medium.com/p/9cc7d79bb6d4) |
 | Sun, 20 Jul 2025 16:19:11 GMT | How I cracked my first SOC Analyst Interview? And what you can learn from it? | Ronak Joshi | [Read More](https://medium.com/p/cb5536d5f5e2) |
 | Sun, 20 Jul 2025 16:18:07 GMT | Krioptix Level 1 | kiwi | [Read More](https://medium.com/p/e42f8dc242c1) |
+| Sun, 20 Jul 2025 16:15:50 GMT | México bajo asedio digital: filtraciones, espionaje y el negocio de tus datos | Anpurp | [Read More](https://medium.com/p/6aa7f054f6fe) |
 | Sun, 20 Jul 2025 16:13:18 GMT | ️‍♂️ Mastering SearchSploit: From 0x00 to 0xFF | Hail Hydra | [Read More](https://medium.com/p/f1eece6e2f9f) |
-| Sun, 20 Jul 2025 16:11:11 GMT | Ph4nt0m 1ntrud3r | Hiba Hamd | [Read More](https://medium.com/p/dddaf529d3fa) |
-| Sun, 20 Jul 2025 16:07:46 GMT | I want to be “Invisible” | AV | [Read More](https://medium.com/p/45866d20cd42) |
-| Sun, 20 Jul 2025 16:06:24 GMT | The bug that only appears when you’re not looking | Balemarthy Vamsi | [Read More](https://medium.com/p/19bca0edcf0b) |
