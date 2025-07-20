@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 14:31:48 GMT | BrightScan #ThreatIntelThursday - Front Door Attacks | Kalpitha S | [Read More](https://medium.com/p/214dfc2a198f) |
+| Sun, 20 Jul 2025 14:28:39 GMT | Automating XSS and SQL Injection Discovery: From Manual Testing to Python Scripting | Tenebris Venator | [Read More](https://medium.com/p/c30145ab20ac) |
+| Sun, 20 Jul 2025 14:22:52 GMT | Do You Know Your Network Profile: Windows, Mac and Linux Compared | Infosecjourney.tech | [Read More](https://medium.com/p/c04ae3da80a7) |
+| Sun, 20 Jul 2025 14:22:02 GMT | How I Learned to Avoid Hitting a Wall in AWS: A Guide to Service Quotas | AashishChaudhari | [Read More](https://medium.com/p/ff069005f189) |
+| Sun, 20 Jul 2025 14:20:19 GMT | Taking the Extra Step: Reducing Risks with Simple Security Configuration Checks | Infosecjourney.tech | [Read More](https://medium.com/p/02513d6f924d) |
 | Sun, 20 Jul 2025 14:13:40 GMT | CVE-2025–49706 — SharePoint Spoofing Vulnerability Under Active Exploitation | Aditya Bhatt | [Read More](https://medium.com/p/3a640df68d3e) |
 | Sun, 20 Jul 2025 14:10:55 GMT | Why I’m Documenting This | Praise Tochukwu Ebuzoeme | [Read More](https://medium.com/p/541aea199064) |
 | Sun, 20 Jul 2025 14:08:15 GMT | JWTs: What’s Inside the Black Box? | Stefano Alvares | [Read More](https://medium.com/p/973cb1edc9d9) |
@@ -111,8 +116,3 @@ low to the ground. | sardine. | [Read More](https://medium.com/p/ec615574999d) |
 | Sun, 20 Jul 2025 07:39:13 GMT | DORA Informationsregister: Der ultimative Compliance-Leitfaden für Finanzunternehmen | Philip Hansen | [Read More](https://medium.com/p/457112ada9f2) |
 | Sun, 20 Jul 2025 07:39:09 GMT | DORA Governance: Ihre strategische Compliance-Roadmap für 2025 | Philip Hansen | [Read More](https://medium.com/p/d94366cdfef0) |
 | Sun, 20 Jul 2025 07:39:00 GMT | How I Would Learn Ethical Hacking If I Started Today | Angelwisdom | [Read More](https://medium.com/p/50ab18a80802) |
-| Sun, 20 Jul 2025 07:31:32 GMT | BrightScan #ThreatIntelThursday - LAND Attacks | Kalpitha S | [Read More](https://medium.com/p/be0226a24616) |
-| Sun, 20 Jul 2025 07:26:59 GMT | When I was a CISO, I found myself in a tough spot. | Shankar Jayaraman | [Read More](https://medium.com/p/aebb8f555ff9) |
-| Sun, 20 Jul 2025 07:21:46 GMT | Try Hack Me: Git Happens Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/1d304b5233df) |
-| Sun, 20 Jul 2025 07:21:35 GMT | Cyberattacks on 4G/LTE Telecom Networks: Threat Mapping and Defense | Andrey Pautov | [Read More](https://medium.com/p/bd0e7fe76f54) |
-| Sun, 20 Jul 2025 07:18:51 GMT | How Secure Is Your Remote Server? Use Nmap Like This to Find Vulnerabilities | Amila kothalawala | [Read More](https://medium.com/p/77c8b693e853) |
