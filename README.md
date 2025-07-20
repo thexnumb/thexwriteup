@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 15:16:59 GMT | Behind the Scenes of a Breach: What Happens After Your Tool Raises a Flag? | SupportXDR | [Read More](https://medium.com/p/3e0807d89518) |
+| Sun, 20 Jul 2025 15:16:50 GMT | LinkedIn Done Right (Part 1): Why 90% of Penetration Testers Are Building the Wrong Audience | Ehtisham Fakhar | [Read More](https://medium.com/p/00ddbb9377fe) |
+| Sun, 20 Jul 2025 15:06:21 GMT | Silent Breach Lab - Cyber defenders walkthrough | Body | [Read More](https://medium.com/p/012b049431c3) |
+| Sun, 20 Jul 2025 15:03:59 GMT | A2Z-CM: GDPR Non-Compliant and Technically Fragile | 0trust0day | [Read More](https://medium.com/p/3da0c1d496ce) |
+| Sun, 20 Jul 2025 15:03:03 GMT | DefenseArk #ThreatIntelThursday - Risk Management, Due Diligence, and Due Care | Kalpitha S | [Read More](https://medium.com/p/78e0916bfd0c) |
+| Sun, 20 Jul 2025 15:02:14 GMT | Day 22 — Analisis Malware: Lab01 & Lab02 Sample (Reverse Engineering Dasar) | Nadeakzzz | [Read More](https://medium.com/p/7987e57785d8) |
+| Sun, 20 Jul 2025 15:00:10 GMT | Debugging the Future: Bridging Embedded Systems, CAN Bus Limits, and Secure Mobility | Ahmed Rekik | [Read More](https://medium.com/p/673e402a2455) |
+| Sun, 20 Jul 2025 14:58:59 GMT | This is the first day of my last days | Cypher | [Read More](https://medium.com/p/03eec57d22aa) |
+| Sun, 20 Jul 2025 14:58:29 GMT | Top SEO & Marketing Experts in 2025: Who’s Leading the Digital Game? | Rahul@Chaurasia | [Read More](https://medium.com/p/fab9817a0ff7) |
+| Sun, 20 Jul 2025 14:57:06 GMT | How to Protect Your Crypto Wallet in 2025: A Beginner-Friendly Guide | VResearcher | [Read More](https://medium.com/p/771d2ca9f651) |
+| Sun, 20 Jul 2025 14:54:09 GMT | I Just Passed the CompTIA Security+ and It Only Took a Year | The Smart Caveman | [Read More](https://medium.com/p/0134917e1db1) |
+| Sun, 20 Jul 2025 14:50:53 GMT | Inside the Probe: What Happens Before an Alert Is Born | Sayantani Halder | [Read More](https://medium.com/p/d73967416f77) |
+| Sun, 20 Jul 2025 14:46:29 GMT | I was the girl who wasn’t saved. | ikigai | [Read More](https://medium.com/p/b8b7a83173fb) |
+| Sun, 20 Jul 2025 14:41:52 GMT | L2 MAC Flooding & ARP Spoofing — THM Writeup | Vincent Olago | [Read More](https://medium.com/p/acf917ce0830) |
 | Sun, 20 Jul 2025 14:31:48 GMT | BrightScan #ThreatIntelThursday - Front Door Attacks | Kalpitha S | [Read More](https://medium.com/p/214dfc2a198f) |
 | Sun, 20 Jul 2025 14:28:39 GMT | Automating XSS and SQL Injection Discovery: From Manual Testing to Python Scripting | Tenebris Venator | [Read More](https://medium.com/p/c30145ab20ac) |
 | Sun, 20 Jul 2025 14:22:52 GMT | Do You Know Your Network Profile: Windows, Mac and Linux Compared | Infosecjourney.tech | [Read More](https://medium.com/p/c04ae3da80a7) |
@@ -102,17 +116,3 @@ low to the ground. | sardine. | [Read More](https://medium.com/p/ec615574999d) |
 | Sun, 20 Jul 2025 08:31:46 GMT | Beyond Words: Unpacking Layered Communication | Akunnaya | [Read More](https://medium.com/p/9068084bc37a) |
 | Sun, 20 Jul 2025 08:31:46 GMT | BrightScan #ThreatIntelThursday - Keylogging ⌨️ | Kalpitha S | [Read More](https://medium.com/p/9d18a41df651) |
 | Sun, 20 Jul 2025 08:29:25 GMT | Transfer with $0 Fees Using CryptoXpress | Chrisnse | [Read More](https://medium.com/p/cc9c906300cb) |
-| Sun, 20 Jul 2025 08:29:20 GMT | Membongkar HTML Injection: Ketika Halaman Web Menjadi Senjata | Malbaralamsyah | [Read More](https://medium.com/p/14e09c1d71a0) |
-| Sun, 20 Jul 2025 08:18:11 GMT | The Day the Internet Blinked: What If Cybersecurity Failed Us? | B Manya Shetty | [Read More](https://medium.com/p/9ccc412c389e) |
-| Sun, 20 Jul 2025 08:16:24 GMT | How CryptoXpress Makes It Easier to Earn Money in Crypto with 0 Investment | Chrisnse | [Read More](https://medium.com/p/c4bfb94f6036) |
-| Sun, 20 Jul 2025 08:15:36 GMT | What is Phishing? If You Want To Stay Safe, Read This! | Anupam Singh | [Read More](https://medium.com/p/c274b9ad2639) |
-| Sun, 20 Jul 2025 08:14:09 GMT | How Can I Recover My Money From Hashfly ? | Eric | [Read More](https://medium.com/p/a6528d309bd3) |
-| Sun, 20 Jul 2025 08:12:27 GMT | StackSpace Weekend CTF | Devin K | [Read More](https://medium.com/p/7ca4a045fe08) |
-| Sun, 20 Jul 2025 08:01:26 GMT | BrightScan #ThreatIntelThursday - DNS Spoofing | Kalpitha S | [Read More](https://medium.com/p/46820be591f5) |
-| Sun, 20 Jul 2025 07:58:58 GMT | CoinDCX hacked: $44 million stolen in major cyberattack - Here’s all you need to know. | err0rgod | [Read More](https://medium.com/p/8c372efb6445) |
-| Sun, 20 Jul 2025 07:42:14 GMT | Why Your Favicon Might Be Exposing Your Infrastructure | Anmol Singh Yadav | [Read More](https://medium.com/p/ddc52455bd64) |
-| Sun, 20 Jul 2025 07:39:45 GMT | Vulnerability Isn’t Hypocrisy | Dishashahofficial | [Read More](https://medium.com/p/8ee501bbbdbe) |
-| Sun, 20 Jul 2025 07:39:15 GMT | DORA-Dokumentationsanforderungen: Der strategische Leitfaden für Finanzinstitute | Philip Hansen | [Read More](https://medium.com/p/3eefbf429039) |
-| Sun, 20 Jul 2025 07:39:13 GMT | DORA Informationsregister: Der ultimative Compliance-Leitfaden für Finanzunternehmen | Philip Hansen | [Read More](https://medium.com/p/457112ada9f2) |
-| Sun, 20 Jul 2025 07:39:09 GMT | DORA Governance: Ihre strategische Compliance-Roadmap für 2025 | Philip Hansen | [Read More](https://medium.com/p/d94366cdfef0) |
-| Sun, 20 Jul 2025 07:39:00 GMT | How I Would Learn Ethical Hacking If I Started Today | Angelwisdom | [Read More](https://medium.com/p/50ab18a80802) |
