@@ -12,10 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 09:10:28 GMT | How Security Threats Are Shaping the Future of Software Evolution | Aduwa Geethanjana | [Read More](https://medium.com/p/67ad1af04423) |
+| Sun, 20 Jul 2025 09:01:26 GMT | BrightScan #ThreatIntelThursday - Electromagnetic Pulses | Kalpitha S | [Read More](https://medium.com/p/172f32018748) |
+| Sun, 20 Jul 2025 09:01:24 GMT | BrightScan #ThreatIntelThursday - Secure Deletion | Kalpitha S | [Read More](https://medium.com/p/e8fe7808c4e9) |
+| Sun, 20 Jul 2025 08:57:21 GMT | The 10 Critical Cybersecurity Issues in the World of AI | Muhammad- Cybersecurity Writer | [Read More](https://medium.com/p/0b1ecebe3f94) |
+| Sun, 20 Jul 2025 08:50:37 GMT | WebSocket Vulnerabilities in Symfony: Risks & Secure Coding | Pentest_Testing_Corp | [Read More](https://medium.com/p/425b964307a4) |
+| Sun, 20 Jul 2025 08:47:55 GMT | Can You Bypass text.length > 20? Hackers Can! | Dilli Babu Kadati | [Read More](https://medium.com/p/30b2c42e125a) |
 | Sun, 20 Jul 2025 08:40:00 GMT | Data — A real world Entity | Ridhaf Fhathima Shaik | [Read More](https://medium.com/p/e91c11061e9d) |
 | Sun, 20 Jul 2025 08:31:46 GMT | Beyond Words: Unpacking Layered Communication | Akunnaya | [Read More](https://medium.com/p/9068084bc37a) |
 | Sun, 20 Jul 2025 08:31:46 GMT | BrightScan #ThreatIntelThursday - Keylogging ⌨️ | Kalpitha S | [Read More](https://medium.com/p/9d18a41df651) |
 | Sun, 20 Jul 2025 08:29:25 GMT | Transfer with $0 Fees Using CryptoXpress | Chrisnse | [Read More](https://medium.com/p/cc9c906300cb) |
+| Sun, 20 Jul 2025 08:29:20 GMT | Membongkar HTML Injection: Ketika Halaman Web Menjadi Senjata | Malbaralamsyah | [Read More](https://medium.com/p/14e09c1d71a0) |
 | Sun, 20 Jul 2025 08:18:11 GMT | The Day the Internet Blinked: What If Cybersecurity Failed Us? | B Manya Shetty | [Read More](https://medium.com/p/9ccc412c389e) |
 | Sun, 20 Jul 2025 08:16:24 GMT | How CryptoXpress Makes It Easier to Earn Money in Crypto with 0 Investment | Chrisnse | [Read More](https://medium.com/p/c4bfb94f6036) |
 | Sun, 20 Jul 2025 08:15:36 GMT | What is Phishing? If You Want To Stay Safe, Read This! | Anupam Singh | [Read More](https://medium.com/p/c274b9ad2639) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 02:07:03 GMT | Why Cybersecurity Needs an Architect, Not a Firefighter | Christina Irick | [Read More](https://medium.com/p/69eb77b9010d) |
 | Sun, 20 Jul 2025 02:01:52 GMT | ⚠️ Why Your Wi-Fi Isn’t as Secure as You Think: A Beginner’s Guide | Varnith | [Read More](https://medium.com/p/f38b272f3013) |
 | Sun, 20 Jul 2025 01:45:08 GMT | NEVER POST YOUR KEYS ONLINE !!! | Soukayna | [Read More](https://medium.com/p/2676c1e12bdb) |
-| Sun, 20 Jul 2025 01:37:11 GMT | Securing Your App in 2025: Top Security Practices Every Developer Must Follow | Somendradev | [Read More](https://medium.com/p/817df8513360) |
-| Sun, 20 Jul 2025 01:30:37 GMT | Google Just Made Gmail Better But You Need A New Email Address | Nauman khan | [Read More](https://medium.com/p/5647d0f15197) |
-| Sun, 20 Jul 2025 01:27:58 GMT | This | Nothing to See Here, Folks! | [Read More](https://medium.com/p/bf1a7621d3a7) |
-| Sun, 20 Jul 2025 01:11:08 GMT | Hack the Planet: A Definitive Report on the 20 Most Influential Hacker Films and TV Shows | ADanielHill | [Read More](https://medium.com/p/d35cdf458b5f) |
-| Sun, 20 Jul 2025 01:09:49 GMT | Learning Web App Exploitation for Free - Day 5–8 | Hiba Hamd | [Read More](https://medium.com/p/d6d6c0f5b441) |
-| Sun, 20 Jul 2025 00:39:19 GMT | Stop Employee Account Takeovers Before They Start | Alexandre Vandamme | [Read More](https://medium.com/p/0805a91db60e) |
-| Sun, 20 Jul 2025 00:38:40 GMT | The War of Art | Vincenzo | [Read More](https://medium.com/p/405598bead22) |
