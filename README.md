@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 05:14:44 GMT | What Cybersecurity Books Don’t Teach You — But Real Attacks Will | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/9e8dc49b0541) |
+| Sun, 20 Jul 2025 05:06:43 GMT | The API Key Trap: Are You Putting Your Entire System at Risk? | Code Crack | [Read More](https://medium.com/p/cea2b976449b) |
+| Sun, 20 Jul 2025 05:06:13 GMT | What is Cybersecurity — and Why Does It Matter? | Nazia Mobeen | [Read More](https://medium.com/p/8dcf4b0630f7) |
+| Sun, 20 Jul 2025 05:05:01 GMT | Google’s AI Pro Plan (₹19,500) Now Free for Indian Students: Unlock Premium Features! | Blogy Hub | [Read More](https://medium.com/p/960dcd335331) |
+| Sun, 20 Jul 2025 05:03:32 GMT | Extracting and Cracking NTLMv1 Hashes | R. Eric Kiser | [Read More](https://medium.com/p/035ea0267d3e) |
+| Sun, 20 Jul 2025 05:03:21 GMT | Did Your Exposed JS Files Just Get Your App Hacked? | Ibtissam hammadi | [Read More](https://medium.com/p/2f8c43789091) |
+| Sun, 20 Jul 2025 05:03:14 GMT | Episode 2: OS Command Injection — Talking Directly to the Server’s Brain | Yamini Yadav | [Read More](https://medium.com/p/7fdb828aaae3) |
+| Sun, 20 Jul 2025 05:03:09 GMT | A Beginner-Friendly Guide to RCE, Command Injection, and More | Yamini Yadav | [Read More](https://medium.com/p/eadf64b481eb) |
+| Sun, 20 Jul 2025 05:02:48 GMT | The Cybersecurity Library Your Boss Won’t Share | Aj | [Read More](https://medium.com/p/37421d69e328) |
+| Sun, 20 Jul 2025 05:01:51 GMT | BrightScan’s #ThreatIntelThursday - Bots and Botnets | Kalpitha S | [Read More](https://medium.com/p/5eada1dad67b) |
+| Sun, 20 Jul 2025 04:59:49 GMT | Remote Code Execution via Misconfigured File Upload Using Encrypted Payload (AK47WebShell) | Puneet Maheshwari | [Read More](https://medium.com/p/d34fe7bd72f3) |
 | Sun, 20 Jul 2025 04:36:50 GMT | AWS CloudTrail Event Cheatsheet: A Detection Engineer’s Guide to Critical API Calls — Part 1 | Muh. Fani Akbar | [Read More](https://medium.com/p/04fb1588556f) |
 | Sun, 20 Jul 2025 04:34:16 GMT | FHE: The Privacy Breakthrough Web3 Has Been Waiting For | Sumitkumar | [Read More](https://medium.com/p/0eb6087bdd4b) |
 | Sun, 20 Jul 2025 04:34:10 GMT | 20 Python Libraries That Are Revolutionizing Software Development in 2025 | Ade Mawan | [Read More](https://medium.com/p/a44df569cde8) |
@@ -104,14 +115,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/049d641397
 | Sat, 19 Jul 2025 19:11:46 GMT | What Is LlamaIndex? How This Chunk-First AI Tool Supercharges Your LLM’s Memory | AIAlchemist_Ab1r | [Read More](https://medium.com/p/a6086ed5c910) |
 | Sat, 19 Jul 2025 19:10:12 GMT | Flying with a Carry-On on American Airlines: Tips from 4MYTU | Altasoznur | [Read More](https://medium.com/p/c861b666698d) |
 | Sat, 19 Jul 2025 19:07:33 GMT | SQL Injection: A Hacker’s Syringe into Your Database | Khushi Garg | [Read More](https://medium.com/p/c2560c115138) |
-| Sat, 19 Jul 2025 19:02:57 GMT | 16 — SOC105 — Requested T.I. URL address - Walkthrough | EPereda | [Read More](https://medium.com/p/5e0d80dd1942) |
-| Sat, 19 Jul 2025 18:58:40 GMT | Business Logic Vulnerabilities part-8 : Insufficient workflow validation | Ahmad Sopyan | [Read More](https://medium.com/p/bdb24381219a) |
-| Sat, 19 Jul 2025 18:49:52 GMT | ما هو الأمونيت؟ اكتشف 2023 KQ14-عالم جديد غامض في نظامنا الشمسي | katibatech | [Read More](https://medium.com/p/ab086dc60afe) |
-| Sat, 19 Jul 2025 18:45:53 GMT | Closing Security Gaps on AD using Purple Knight. | Cybersensus | [Read More](https://medium.com/p/fa0b3f845c08) |
-| Sat, 19 Jul 2025 18:44:29 GMT | Hybrid Cloud Strategies for Data Security and Compliance in 2025 | Swayam Surat | [Read More](https://medium.com/p/d56ce37fd711) |
-| Sat, 19 Jul 2025 18:40:13 GMT | Your Phone Has Eyes: The Silent Witness in Your Room | Emmily Humprey 's | [Read More](https://medium.com/p/faff45ebd9bd) |
-| Sat, 19 Jul 2025 18:39:23 GMT | Business Logic: Broken. Wallet: Hacked. OTP: Bypassed. | Het Patel | [Read More](https://medium.com/p/d82e6591a63a) |
-| Sat, 19 Jul 2025 18:28:14 GMT | SQLMap: The Complete Manual for Automated SQL Injection Testing | Ashutosh Piprode | [Read More](https://medium.com/p/9ad48d0e6eed) |
-| Sat, 19 Jul 2025 18:26:00 GMT | API Gateway Security in a nutshell | Rick Yang | [Read More](https://medium.com/p/f938b5c61570) |
-| Sat, 19 Jul 2025 18:25:02 GMT | Watering Hole Attacks : quand le prédateur choisit le terrain | Myriam Abouda | [Read More](https://medium.com/p/fb050952f670) |
-| Sat, 19 Jul 2025 18:22:47 GMT | How I Found an XSS Vulnerability in a Microsoft subdomain | Anonymousshetty | [Read More](https://medium.com/p/4abf0da5c3e9) |
