@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 10:12:34 GMT | How a Hacker Fooled the World | Kara Davis | [Read More](https://medium.com/p/bc5451c7d2b5) |
+| Sun, 20 Jul 2025 10:11:22 GMT | Speed, Security, Scalability: The 3 S’s of a Future-Proof Business Website | Airin Git | [Read More](https://medium.com/p/a67bb964375b) |
+| Sun, 20 Jul 2025 10:04:31 GMT | Cyber War 2025: The Silent Battlefield of the Digital Age | The Global World News | [Read More](https://medium.com/p/3851b01a3a98) |
+| Sun, 20 Jul 2025 10:03:01 GMT | BrightScan #ThreatIntelThursday - Password Cracking | Kalpitha S | [Read More](https://medium.com/p/152ab93ca7de) |
+| Sun, 20 Jul 2025 10:00:58 GMT | Part 1 — Learn Building a Windows Keylogger with C++ | Darkder101 | [Read More](https://medium.com/p/7ad04c1da8c9) |
+| Sun, 20 Jul 2025 09:44:09 GMT | Best Water Filters - Top 5 Amazing Water Filters2025 | Ion Volentir | [Read More](https://medium.com/p/bdcba188f51d) |
+| Sun, 20 Jul 2025 09:31:21 GMT | BrightScan #ThreatIntelThursday - Covert Channels | Kalpitha S | [Read More](https://medium.com/p/0da506268397) |
 | Sun, 20 Jul 2025 09:30:49 GMT | Quranium x Abatis: A New Standard for Endpoint Security in Web3
  Military-grade protection meets… | Bright Mmaduabuchi | [Read More](https://medium.com/p/6f329d402220) |
 | Sun, 20 Jul 2025 09:27:24 GMT | How to Evaluate Information for Technology Before Making Big Decisions | Business Pro Tech | [Read More](https://medium.com/p/d52d4389e381) |
@@ -109,10 +116,3 @@ low to the ground. | sardine. | [Read More](https://medium.com/p/ec615574999d) |
 | Sun, 20 Jul 2025 03:43:03 GMT | Ransomware’s Evolution: From Digital Nuisance to Global Crisis | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/2ae3a7256622) |
 | Sun, 20 Jul 2025 03:41:46 GMT | LESSON LEARNED-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/93031b0dd5a4) |
 | Sun, 20 Jul 2025 03:31:47 GMT | How Hackers Exploit Your Digital Certificates | Deven Chhajed | [Read More](https://medium.com/p/300a786a3dd0) |
-| Sun, 20 Jul 2025 03:27:36 GMT | Beyond Borders: A Global Perspective on Cybersecurity Threats | Andre Fernandes | [Read More](https://medium.com/p/017dd2bc7385) |
-| Sun, 20 Jul 2025 03:23:46 GMT | BrightScan #ThreatIntelThursday - LAND Attacks | Kalpitha S | [Read More](https://medium.com/p/9e9e1b8859e6) |
-| Sun, 20 Jul 2025 03:20:32 GMT | ChainBounty Announces Reward Cascade: Bag BOUNTY Today | ChainBounty | [Read More](https://medium.com/p/19849f7cb229) |
-| Sun, 20 Jul 2025 03:01:51 GMT | UK Intelligence Warns of Escalating Iranian Assassination and Espionage Plots Targeting Dissidents… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/6dd31fd7dd46) |
-| Sun, 20 Jul 2025 02:47:30 GMT | “5 Warning Signs Your Identity May Be Stolen (And What To Do About It)” | My Legal Guy | [Read More](https://medium.com/p/670bd08b389b) |
-| Sun, 20 Jul 2025 02:21:13 GMT | Understanding SOC and SIEM: A Beginner’s Guide to Security Operations | Yashitha Pobbareddy | [Read More](https://medium.com/p/ac30296dc635) |
-| Sun, 20 Jul 2025 02:17:16 GMT | SCRUM the methodology for Software Development in a team | Reynald Ramirez | [Read More](https://medium.com/p/d660e1372ed2) |
