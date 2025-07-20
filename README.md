@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 22:16:59 GMT | Protecting SCADA Systems From Remote Attacks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5f80e1c6ffd5) |
 | Sun, 20 Jul 2025 22:03:10 GMT | Ensuring Security in Docker Containers: Best Practices | @rnab | [Read More](https://medium.com/p/6ccd0afdf8ed) |
 | Sun, 20 Jul 2025 21:58:44 GMT | Exposed: How Hackers Bypass Microsoft 365 MFA Using Advanced Phishing Tools | Lawrence Teixeira | [Read More](https://medium.com/p/b420ba2c7905) |
 | Sun, 20 Jul 2025 21:39:31 GMT | WormGPT: The Chatbot That Doesn’t Play Nice. But Taught Me Everything About Prompt Security. | Dom 'Tudell Mika' | [Read More](https://medium.com/p/878ead4babf1) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 15:47:44 GMT | SQL Injection Isn’t Dead. Here’s Why. | Rizqi Mulki | [Read More](https://medium.com/p/aa4b6657f5c3) |
 | Sun, 20 Jul 2025 15:41:25 GMT | The Top 7 Security Flaws in Most Web Apps | Rizqi Mulki | [Read More](https://medium.com/p/4b4795112075) |
 | Sun, 20 Jul 2025 15:37:33 GMT | More Bitchat Challenges: Message Tampering & Command Bypass | pogen300 | [Read More](https://medium.com/p/e6940ddc4be4) |
-| Sun, 20 Jul 2025 15:31:52 GMT | $150 — Broken Access Control - HackerOne Bug Bounty Program — My First Bounty! | BugBountyWriteups | [Read More](https://medium.com/p/239aff71376f) |
