@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 08:40:00 GMT | Data — A real world Entity | Ridhaf Fhathima Shaik | [Read More](https://medium.com/p/e91c11061e9d) |
+| Sun, 20 Jul 2025 08:31:46 GMT | Beyond Words: Unpacking Layered Communication | Akunnaya | [Read More](https://medium.com/p/9068084bc37a) |
+| Sun, 20 Jul 2025 08:31:46 GMT | BrightScan #ThreatIntelThursday - Keylogging ⌨️ | Kalpitha S | [Read More](https://medium.com/p/9d18a41df651) |
+| Sun, 20 Jul 2025 08:29:25 GMT | Transfer with $0 Fees Using CryptoXpress | Chrisnse | [Read More](https://medium.com/p/cc9c906300cb) |
 | Sun, 20 Jul 2025 08:18:11 GMT | The Day the Internet Blinked: What If Cybersecurity Failed Us? | B Manya Shetty | [Read More](https://medium.com/p/9ccc412c389e) |
 | Sun, 20 Jul 2025 08:16:24 GMT | How CryptoXpress Makes It Easier to Earn Money in Crypto with 0 Investment | Chrisnse | [Read More](https://medium.com/p/c4bfb94f6036) |
 | Sun, 20 Jul 2025 08:15:36 GMT | What is Phishing? If You Want To Stay Safe, Read This! | Anupam Singh | [Read More](https://medium.com/p/c274b9ad2639) |
@@ -108,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 01:09:49 GMT | Learning Web App Exploitation for Free - Day 5–8 | Hiba Hamd | [Read More](https://medium.com/p/d6d6c0f5b441) |
 | Sun, 20 Jul 2025 00:39:19 GMT | Stop Employee Account Takeovers Before They Start | Alexandre Vandamme | [Read More](https://medium.com/p/0805a91db60e) |
 | Sun, 20 Jul 2025 00:38:40 GMT | The War of Art | Vincenzo | [Read More](https://medium.com/p/405598bead22) |
-| Sun, 20 Jul 2025 00:35:38 GMT | Link Login Resmi Slot Online CNNSLOT: Kunci Aman & Cepat Menuju Dunia Slot Gacor | Ryukisenki | [Read More](https://medium.com/p/763b9139c370) |
-| Sun, 20 Jul 2025 00:26:51 GMT | Enhancing Safety with ANRAN CCTV Camera Security | waterspaul3803 | [Read More](https://medium.com/p/260ac1f6ed29) |
-| Sun, 20 Jul 2025 00:26:15 GMT | Hacking the ‘Disaster Prepper’ Paradigm: Ep. #1 — In the Beginning, There Was Darkness… | Ian Barwise | [Read More](https://medium.com/p/43844c73a4da) |
-| Sun, 20 Jul 2025 00:14:16 GMT | Navigating a Tech Career with ADHD
- Lessons from a Role That Broke Me | Adam K Stevens | [Read More](https://medium.com/p/1502590f9389) |
