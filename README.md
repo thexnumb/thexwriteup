@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 03:48:48 GMT | AI-Powered Cybercrime: The New Frontier of Digital Threats | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/399f71ee3ab9) |
+| Sun, 20 Jul 2025 03:43:03 GMT | Ransomware’s Evolution: From Digital Nuisance to Global Crisis | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/2ae3a7256622) |
+| Sun, 20 Jul 2025 03:41:46 GMT | LESSON LEARNED-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/93031b0dd5a4) |
+| Sun, 20 Jul 2025 03:31:47 GMT | How Hackers Exploit Your Digital Certificates | Deven Chhajed | [Read More](https://medium.com/p/300a786a3dd0) |
+| Sun, 20 Jul 2025 03:27:36 GMT | Beyond Borders: A Global Perspective on Cybersecurity Threats | Andre Fernandes | [Read More](https://medium.com/p/017dd2bc7385) |
+| Sun, 20 Jul 2025 03:23:46 GMT | BrightScan #ThreatIntelThursday - LAND Attacks | Kalpitha S | [Read More](https://medium.com/p/9e9e1b8859e6) |
+| Sun, 20 Jul 2025 03:20:32 GMT | ChainBounty Announces Reward Cascade: Bag BOUNTY Today | ChainBounty | [Read More](https://medium.com/p/19849f7cb229) |
+| Sun, 20 Jul 2025 03:01:51 GMT | UK Intelligence Warns of Escalating Iranian Assassination and Espionage Plots Targeting Dissidents… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/6dd31fd7dd46) |
+| Sun, 20 Jul 2025 02:47:30 GMT | “5 Warning Signs Your Identity May Be Stolen (And What To Do About It)” | My Legal Guy | [Read More](https://medium.com/p/670bd08b389b) |
+| Sun, 20 Jul 2025 02:21:13 GMT | Understanding SOC and SIEM: A Beginner’s Guide to Security Operations | Yashitha Pobbareddy | [Read More](https://medium.com/p/ac30296dc635) |
+| Sun, 20 Jul 2025 02:17:16 GMT | SCRUM the methodology for Software Development in a team | Reynald Ramirez | [Read More](https://medium.com/p/d660e1372ed2) |
+| Sun, 20 Jul 2025 02:14:17 GMT | To Statefully Hash or Not Statefully Hash — That is the Post Quantum Question | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/b159cd83985a) |
+| Sun, 20 Jul 2025 02:10:36 GMT | Shielding Secrets: Navigating Data Privacy in 2025 | Configr Technologies | [Read More](https://medium.com/p/41de58446cf0) |
+| Sun, 20 Jul 2025 02:07:03 GMT | Why Cybersecurity Needs an Architect, Not a Firefighter | Christina Irick | [Read More](https://medium.com/p/69eb77b9010d) |
+| Sun, 20 Jul 2025 02:01:52 GMT | ⚠️ Why Your Wi-Fi Isn’t as Secure as You Think: A Beginner’s Guide | Varnith | [Read More](https://medium.com/p/f38b272f3013) |
 | Sun, 20 Jul 2025 01:45:08 GMT | NEVER POST YOUR KEYS ONLINE !!! | Soukayna | [Read More](https://medium.com/p/2676c1e12bdb) |
 | Sun, 20 Jul 2025 01:37:11 GMT | Securing Your App in 2025: Top Security Practices Every Developer Must Follow | Somendradev | [Read More](https://medium.com/p/817df8513360) |
 | Sun, 20 Jul 2025 01:30:37 GMT | Google Just Made Gmail Better But You Need A New Email Address | Nauman khan | [Read More](https://medium.com/p/5647d0f15197) |
@@ -100,18 +115,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/049d641397
 | Sat, 19 Jul 2025 18:03:29 GMT | ✅ Things You Must Know Before Using UNION in SQL | Ali Ziro | [Read More](https://medium.com/p/aec46d10bfd7) |
 | Sat, 19 Jul 2025 18:00:20 GMT | Guardrails for LLM: Pillars, Tools, and Best Practices. | Rui Pedro Moreira | [Read More](https://medium.com/p/db23e6300dde) |
 | Sat, 19 Jul 2025 17:59:37 GMT | Deploying Elastic Stack in home lab | CyberPumpkin | [Read More](https://medium.com/p/d484df9b7175) |
-| Sat, 19 Jul 2025 17:57:45 GMT | Web Security 101: Seeing the Real Difference with HTTPS and HSTS | Okan Yenigün | [Read More](https://medium.com/p/a76f2b549e93) |
-| Sat, 19 Jul 2025 17:56:12 GMT | DAY 8: “Bake A Wish & the Tech Rabbit hole” | Akshatdwivedi | [Read More](https://medium.com/p/98a3c786d935) |
-| Sat, 19 Jul 2025 17:53:28 GMT | ffuf (Kali Linux Web Fuzzer): Fuzz Faster U Fool — A Hilarious Tutorial | CyferNest Sec | [Read More](https://medium.com/p/03345c38db22) |
-| Sat, 19 Jul 2025 17:46:55 GMT | Reflected Cross-Site Scripting in Search Functionality | Osamaashraf | [Read More](https://medium.com/p/d584593b966f) |
-| Sat, 19 Jul 2025 17:36:52 GMT | The Emergence of Biometric Authentication: Enhancing Security Through Human Traits | Farizal Hamami | [Read More](https://medium.com/p/7bbb695fcc62) |
-| Sat, 19 Jul 2025 17:34:33 GMT | Countdown to Quantum Threat: Upgrade Your Digital Identity With A PQC-ready European Business… | Carsten Stöcker | [Read More](https://medium.com/p/c64f16dbde52) |
-| Sat, 19 Jul 2025 17:31:48 GMT | How I Built a Simple Threat Detection Script Using Python and Scapy | Nikulsinh Rajput | [Read More](https://medium.com/p/2a36161c6ee4) |
-| Sat, 19 Jul 2025 17:26:42 GMT | The Silent Blackout: Ukraine’s Cyber Strike on Russia’s Satellite Uplink Nodes | Isaac Lowell | [Read More](https://medium.com/p/5e576a74c039) |
-| Sat, 19 Jul 2025 17:25:38 GMT | CAN I GET MY LOST OR SCAMMED BITCOIN BACK? YES, MALICE CYBER RECOVERY WILL SOLVE ALL YOUR PROBLEM. | Derrick Olsen | [Read More](https://medium.com/p/8073eaeb378e) |
-| Sat, 19 Jul 2025 17:17:53 GMT | Your EV Is a Hacker Magnet — And Quantum Computers Are the Next Threat | Garvit Haswani | [Read More](https://medium.com/p/4b9f264a9ae0) |
-| Sat, 19 Jul 2025 17:12:43 GMT | Your Company’s Password Policy Is Making You Less Safe | Aditi Pandey | [Read More](https://medium.com/p/62933e54d106) |
-| Sat, 19 Jul 2025 17:09:30 GMT | Acronis ile Disk Klonlama | Emir Ekrem Kaya | [Read More](https://medium.com/p/eec41e7d62fc) |
-| Sat, 19 Jul 2025 17:08:02 GMT | Day 48 of #60DaysofGRC: NIST CSF Organizational Profiles and Tiers | Brittney Ginther | [Read More](https://medium.com/p/dbbe333ad289) |
-| Sat, 19 Jul 2025 17:05:58 GMT | 10 Tricks to Elevate Pentest Findings | Vijay Kumar Gupta | [Read More](https://medium.com/p/86d8829471f3) |
-| Sat, 19 Jul 2025 17:04:44 GMT | DNS Kayıtlarıyla Gizli Bilgileri Ortaya Çıkarmak: Siber Güvenlikte Pasif Taramanın En Güçlü Silahı | Berdan Mut | [Read More](https://medium.com/p/2c0e1d826b8e) |
