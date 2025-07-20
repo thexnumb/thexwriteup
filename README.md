@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 15:31:52 GMT | $150 — Broken Access Control - HackerOne Bug Bounty Program — My First Bounty! | BugBountyWriteups | [Read More](https://medium.com/p/239aff71376f) |
+| Sun, 20 Jul 2025 15:31:48 GMT | FastAPI for Cybersecurity Dashboards: My New Favorite Stack | Nikulsinh Rajput | [Read More](https://medium.com/p/fca5df79b85a) |
+| Sun, 20 Jul 2025 15:30:20 GMT | Securing Cloud Run with Coraza WAF | Michele Contu | [Read More](https://medium.com/p/7933ddc641ef) |
+| Sun, 20 Jul 2025 15:28:23 GMT | Secure Code Reviews: Tips for Dev Teams | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e236b3339706) |
+| Sun, 20 Jul 2025 15:26:55 GMT | How AI Is Reshaping DevOps: From Scripts to Smart Automation | Abdulhadi | [Read More](https://medium.com/p/20dba33f5b76) |
+| Sun, 20 Jul 2025 15:23:00 GMT | Vulnerability Discovery and Exploit Development via GitHub | Esra Kayhan | [Read More](https://medium.com/p/4421b21b1752) |
+| Sun, 20 Jul 2025 15:22:43 GMT | The Cracked Pot and the Leadership Power of Imperfection | Dr Sean Duffy | [Read More](https://medium.com/p/5137b442d738) |
 | Sun, 20 Jul 2025 15:16:59 GMT | Behind the Scenes of a Breach: What Happens After Your Tool Raises a Flag? | SupportXDR | [Read More](https://medium.com/p/3e0807d89518) |
 | Sun, 20 Jul 2025 15:16:50 GMT | LinkedIn Done Right (Part 1): Why 90% of Penetration Testers Are Building the Wrong Audience | Ehtisham Fakhar | [Read More](https://medium.com/p/00ddbb9377fe) |
 | Sun, 20 Jul 2025 15:06:21 GMT | Silent Breach Lab - Cyber defenders walkthrough | Body | [Read More](https://medium.com/p/012b049431c3) |
@@ -109,10 +116,3 @@ low to the ground. | sardine. | [Read More](https://medium.com/p/ec615574999d) |
 | Sun, 20 Jul 2025 09:10:28 GMT | How Security Threats Are Shaping the Future of Software Evolution | Aduwa Geethanjana | [Read More](https://medium.com/p/67ad1af04423) |
 | Sun, 20 Jul 2025 09:01:26 GMT | BrightScan #ThreatIntelThursday - Electromagnetic Pulses | Kalpitha S | [Read More](https://medium.com/p/172f32018748) |
 | Sun, 20 Jul 2025 09:01:24 GMT | BrightScan #ThreatIntelThursday - Secure Deletion | Kalpitha S | [Read More](https://medium.com/p/e8fe7808c4e9) |
-| Sun, 20 Jul 2025 08:57:21 GMT | The 10 Critical Cybersecurity Issues in the World of AI | Muhammad- Cybersecurity Writer | [Read More](https://medium.com/p/0b1ecebe3f94) |
-| Sun, 20 Jul 2025 08:50:37 GMT | WebSocket Vulnerabilities in Symfony: Risks & Secure Coding | Pentest_Testing_Corp | [Read More](https://medium.com/p/425b964307a4) |
-| Sun, 20 Jul 2025 08:47:55 GMT | Can You Bypass text.length > 20? Hackers Can! | Dilli Babu Kadati | [Read More](https://medium.com/p/30b2c42e125a) |
-| Sun, 20 Jul 2025 08:40:00 GMT | Data — A real world Entity | Ridhaf Fhathima Shaik | [Read More](https://medium.com/p/e91c11061e9d) |
-| Sun, 20 Jul 2025 08:31:46 GMT | Beyond Words: Unpacking Layered Communication | Akunnaya | [Read More](https://medium.com/p/9068084bc37a) |
-| Sun, 20 Jul 2025 08:31:46 GMT | BrightScan #ThreatIntelThursday - Keylogging ⌨️ | Kalpitha S | [Read More](https://medium.com/p/9d18a41df651) |
-| Sun, 20 Jul 2025 08:29:25 GMT | Transfer with $0 Fees Using CryptoXpress | Chrisnse | [Read More](https://medium.com/p/cc9c906300cb) |
