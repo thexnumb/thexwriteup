@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 18:45:12 GMT | How I Automated Recon, Scanning, and Exploitation with GPT + Burp (Deep Dive) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9df09313eed2) |
+| Sun, 20 Jul 2025 18:44:46 GMT | Staging Sites, Admin:Admin, and a $500 Payday | Rutvik Kalkumbe | [Read More](https://medium.com/p/f45cc481ad1a) |
+| Sun, 20 Jul 2025 18:44:01 GMT | Chaining Vulnerabilities for Account Takeovers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/26fa6183216d) |
+| Sun, 20 Jul 2025 18:43:32 GMT | Weaponizing Misconfigurations | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8044949aa7f9) |
+| Sun, 20 Jul 2025 18:39:55 GMT | The Secret Agent Behind Every Website: A Hilarious Journey into DNS (with Google.com as Our Guide!) | Karan Desai | [Read More](https://medium.com/p/b2bf4ff4e940) |
+| Sun, 20 Jul 2025 18:34:28 GMT | I Don’t Know. I Really Don’t Know | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/0d113b961218) |
+| Sun, 20 Jul 2025 18:34:11 GMT | SOC Metrics: A Comprehensive Guide to Security Operations Evaluation | @rRr | [Read More](https://medium.com/p/3fb9a01c62ff) |
+| Sun, 20 Jul 2025 18:29:22 GMT | Hacking Windows 7 with EternalBlue (MS17–010) Using Metasploit: An Ethical Hacking Walkthrough | Pranav V | [Read More](https://medium.com/p/1e54306cc9dd) |
 | Sun, 20 Jul 2025 18:28:50 GMT | Security Misconfiguration — Sensitive Data Exposure via Google Dorks ($25 — $100) | Abin | [Read More](https://medium.com/p/63da5dc83f67) |
+| Sun, 20 Jul 2025 18:28:36 GMT | Did The Crypto Exchange CoinDCX Get Hacked? | Nivedita Baidya | [Read More](https://medium.com/p/4434d53d030b) |
+| Sun, 20 Jul 2025 18:24:32 GMT | LOGIC BOMB, um ataque interno! | Dev_Chimpa | [Read More](https://medium.com/p/ab7421a50473) |
+| Sun, 20 Jul 2025 18:21:30 GMT | Most Backend Developers Have No Idea How to Secure an API | Byte Me Daily | [Read More](https://medium.com/p/9c24b3c9d057) |
 | Sun, 20 Jul 2025 18:15:33 GMT | Exploring the Future of Hardware Wallets with ELLIPAL | thompsonterry | [Read More](https://medium.com/p/bc7cb60b8bf0) |
 | Sun, 20 Jul 2025 18:14:48 GMT | Fake Cursor IDE extension pulls off $500,000 crypto heist | Ombhojane | [Read More](https://medium.com/p/90a2a117faca) |
 | Sun, 20 Jul 2025 18:12:39 GMT | TryHackMe: Attacktive Directory — A Beginner-Friendly Walkthrough | Chandan Nayak | [Read More](https://medium.com/p/1d00ee9a2e0a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 13:31:49 GMT | BrightScan #ThreatIntelThursday - Teardrop Attacks | Kalpitha S | [Read More](https://medium.com/p/006f22f94ce4) |
 | Sun, 20 Jul 2025 13:30:47 GMT | How Curvance $CVE Yield Farming Can Help You Build Wealth | Curvance | [Read More](https://medium.com/p/0178e31763cd) |
 | Sun, 20 Jul 2025 13:06:48 GMT | Hospitals at Cybersecurity Crossroads: Projected Medicaid Cuts Threaten 25% of U.S. | Black Book Market Research | [Read More](https://medium.com/p/b1153a571514) |
-| Sun, 20 Jul 2025 13:03:00 GMT | DefenseArk #ThreatIntelThursday - Rootkits | Kalpitha S | [Read More](https://medium.com/p/d9fd421123b1) |
-| Sun, 20 Jul 2025 12:55:06 GMT | WANNACRY Memories | Dhruv Jalota | [Read More](https://medium.com/p/30498b94a876) |
-| Sun, 20 Jul 2025 12:53:10 GMT | 漫谈登录账密前端数据加密的必要性与正确实践 | Li JINLING | [Read More](https://medium.com/p/a0cbeaa3387b) |
-| Sun, 20 Jul 2025 12:52:34 GMT | Agentic AI: New buzz or Smarter Orchestration ? | Durgadas Kamath | [Read More](https://medium.com/p/aa041a8a2039) |
-| Sun, 20 Jul 2025 12:50:12 GMT | Security is a Journey: Lessons from My Cybersecurity Exploration | Infosecjourney.tech | [Read More](https://medium.com/p/4571533ac14b) |
-| Sun, 20 Jul 2025 12:48:05 GMT | KiberTəhlükəsizlik nədir? | Abdul Guliyev | [Read More](https://medium.com/p/fd031da4bc5d) |
-| Sun, 20 Jul 2025 12:46:45 GMT | Compliance in Context: CMMC, CUI, and FCI Essentials | Infosecjourney.tech | [Read More](https://medium.com/p/9b7e0d860f65) |
-| Sun, 20 Jul 2025 12:36:25 GMT | From Chaos to Clarity: How I Conduct Web Application Pentests with Clients | echosso | [Read More](https://medium.com/p/3b964be25a18) |
-| Sun, 20 Jul 2025 12:36:08 GMT | AVOIDING INFORMATION DISCLOSURE THROUGH LOGIC FLAWS (Python) | SecureAuditX | [Read More](https://medium.com/p/3fca7486c19b) |
-| Sun, 20 Jul 2025 12:35:54 GMT | Easiest P4 worth $60-$100 on Yandex | TSxNINJA | [Read More](https://medium.com/p/4ed0c291a37e) |
-| Sun, 20 Jul 2025 12:33:12 GMT | Hackviser — Laravel Framework < 8.4.2 Uzaktan Kod Yürütme (CVE-2021–3129) Yazısı | Who4m1-Cyber | [Read More](https://medium.com/p/2fcc1ecc9247) |
