@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 18:28:50 GMT | Security Misconfiguration — Sensitive Data Exposure via Google Dorks ($25 — $100) | Abin | [Read More](https://medium.com/p/63da5dc83f67) |
+| Sun, 20 Jul 2025 18:15:33 GMT | Exploring the Future of Hardware Wallets with ELLIPAL | thompsonterry | [Read More](https://medium.com/p/bc7cb60b8bf0) |
+| Sun, 20 Jul 2025 18:14:48 GMT | Fake Cursor IDE extension pulls off $500,000 crypto heist | Ombhojane | [Read More](https://medium.com/p/90a2a117faca) |
+| Sun, 20 Jul 2025 18:12:39 GMT | TryHackMe: Attacktive Directory — A Beginner-Friendly Walkthrough | Chandan Nayak | [Read More](https://medium.com/p/1d00ee9a2e0a) |
+| Sun, 20 Jul 2025 18:11:14 GMT | Stop Wasting Hours Searching for Cybersecurity Resources — I Built Something to Help You | Digitalbest | [Read More](https://medium.com/p/da591ae731e8) |
+| Sun, 20 Jul 2025 18:06:15 GMT | Next.js 15 Security Best Practices for Modern Web Applications | Suresh Kumar Ariya Gowder | [Read More](https://medium.com/p/31f9ccc3fa2b) |
+| Sun, 20 Jul 2025 18:02:47 GMT | New in Town and Need a Makeup Artist? Here’s the Easiest Way to Find One. | Mualine Nigeria | [Read More](https://medium.com/p/df1491c6b95f) |
+| Sun, 20 Jul 2025 18:02:46 GMT | Policies | Het | [Read More](https://medium.com/p/1ebf9fd06971) |
+| Sun, 20 Jul 2025 18:02:36 GMT | Why Network Security Still Matters in the Age of Zero Trust | Kevin Nzonzo | [Read More](https://medium.com/p/5bcc0d9836b9) |
+| Sun, 20 Jul 2025 18:02:36 GMT | The Realities of Cybersecurity in Today’s Digital World | searchenginerealm | [Read More](https://medium.com/p/f871be9606a3) |
+| Sun, 20 Jul 2025 18:02:15 GMT | Krioptix Level 1 (Exploiting mod_ssl 443 port to get shell) | kiwi | [Read More](https://medium.com/p/030f463b1e11) |
+| Sun, 20 Jul 2025 18:01:46 GMT | Audit of Self — Every Word, a Strike | Malik Vero | [Read More](https://medium.com/p/848d2771e9df) |
+| Sun, 20 Jul 2025 17:56:57 GMT | Audio steganography - Hiding Data In An Audio - Steghide | Ali bin azam | [Read More](https://medium.com/p/2226c1c562d6) |
+| Sun, 20 Jul 2025 17:50:35 GMT | HackTheBox — Mantis (Türkçe) | Emre Özdemir | [Read More](https://medium.com/p/b38220da23d1) |
+| Sun, 20 Jul 2025 17:49:26 GMT | The Silent Assistant: How AI Is Powering Your Work Without You Knowing It | Ayesha Arshad | [Read More](https://medium.com/p/73a16f36c5ea) |
+| Sun, 20 Jul 2025 17:39:19 GMT | Google vs BadBox 2.0: The Hidden Malware in Your Smart Devices | Anirudh Nair | [Read More](https://medium.com/p/1542b90e8bb9) |
+| Sun, 20 Jul 2025 17:38:07 GMT | Asset management and Documentation | Het | [Read More](https://medium.com/p/d0036deee305) |
 | Sun, 20 Jul 2025 17:33:56 GMT | Smarter Identity Security with AI: Microsoft Entra Just Levelled Up | Paritosh | [Read More](https://medium.com/p/a6d642f5d50f) |
 | Sun, 20 Jul 2025 17:28:23 GMT | How to Secure Your Freelance Business in a Digital First World: | Maha khan | [Read More](https://medium.com/p/91aef10d76df) |
 | Sun, 20 Jul 2025 17:25:51 GMT | How I Bypassed a Free-Tier Resource Limit via Race Condition | Efe Esen | [Read More](https://medium.com/p/63d4b0c23fad) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 12:36:08 GMT | AVOIDING INFORMATION DISCLOSURE THROUGH LOGIC FLAWS (Python) | SecureAuditX | [Read More](https://medium.com/p/3fca7486c19b) |
 | Sun, 20 Jul 2025 12:35:54 GMT | Easiest P4 worth $60-$100 on Yandex | TSxNINJA | [Read More](https://medium.com/p/4ed0c291a37e) |
 | Sun, 20 Jul 2025 12:33:12 GMT | Hackviser — Laravel Framework < 8.4.2 Uzaktan Kod Yürütme (CVE-2021–3129) Yazısı | Who4m1-Cyber | [Read More](https://medium.com/p/2fcc1ecc9247) |
-| Sun, 20 Jul 2025 12:31:49 GMT | DefenseArk #ThreatIntelThursday - Supply Chain Attacks & Risk Management | Kalpitha S | [Read More](https://medium.com/p/4d76836753c5) |
-| Sun, 20 Jul 2025 12:28:18 GMT | Beginner’s Guide to Active Reconnaissance (Part 2): Basic Host Discovery with Nmap in a Home Lab | Ar-jay A. Ballaco | [Read More](https://medium.com/p/6045c6d46b3c) |
-| Sun, 20 Jul 2025 12:21:00 GMT | $500 Bounty: How a Coin Verification Race Condition Let Me Multiply Reddit Coins | Monika sharma | [Read More](https://medium.com/p/b98c3054519e) |
-| Sun, 20 Jul 2025 12:20:56 GMT | Cyber Security Threats in 2025: What You Don’t Know Can Hurt You | Varda joshi | [Read More](https://medium.com/p/68f04e91d2e3) |
-| Sun, 20 Jul 2025 12:19:45 GMT | Breaking Into the SOC: Your Gateway to a Cybersecurity Career | ayub_91 | [Read More](https://medium.com/p/8d0c24da6f04) |
-| Sun, 20 Jul 2025 12:16:39 GMT | Enhancing Security Operations through Metrics: A Comprehensive Evaluation Approach | Ishita Rana | [Read More](https://medium.com/p/619e5097bb44) |
-| Sun, 20 Jul 2025 12:15:39 GMT | What Is Quantum Internet and Why the World Is Racing Toward It | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/719e38b50588) |
-| Sun, 20 Jul 2025 12:14:09 GMT | Top-Rated Free VPN Trials for 2025 | VPNsNow | [Read More](https://medium.com/p/87752eddc54b) |
-| Sun, 20 Jul 2025 12:07:34 GMT | From Git to Shell: How I Went from a Leaked Git Repo to Full RCE and AWS Credentials | Shrivarshan | [Read More](https://medium.com/p/198e01fcc9f9) |
-| Sun, 20 Jul 2025 12:01:02 GMT | BrightScan #ThreatIntelThursday - Logic Bombs | Kalpitha S | [Read More](https://medium.com/p/8f36750fbd65) |
-| Sun, 20 Jul 2025 11:45:24 GMT | Drosera Network: Leading the Way in Decentralized Security for Ethereum | hidvs | [Read More](https://medium.com/p/ac2d382f2386) |
-| Sun, 20 Jul 2025 11:44:05 GMT | Privacy Is a Myth in 2025: Here’s Proof | welovetech | [Read More](https://medium.com/p/4780e2508ecc) |
-| Sun, 20 Jul 2025 11:36:29 GMT | SIMIORATTUS!! | Kendrick Eben | [Read More](https://medium.com/p/d8b1a2b83c18) |
-| Sun, 20 Jul 2025 11:33:01 GMT | FastAPI for Cybersecurity Dashboards: My New Favorite Stack | Nikulsinh Rajput | [Read More](https://medium.com/p/01082a818424) |
-| Sun, 20 Jul 2025 11:33:01 GMT | BrightScan #ThreatIntelThursday - Session Hijacking | Kalpitha S | [Read More](https://medium.com/p/8a8440d3a48e) |
-| Sun, 20 Jul 2025 11:33:01 GMT | 10 Common Self-Development Mistakes in the Age of AI and Digital Overload | Dadang Irsyam - HumanxTech Storyteller | [Read More](https://medium.com/p/17a29022c776) |
-| Sun, 20 Jul 2025 11:32:36 GMT | How I Got $3K by Breaking User Accounts via IDOR & Logic Flaw [Chained Bugs] by matrixm0x1 | matrixm0x1 | [Read More](https://medium.com/p/38e5fb3906a0) |
