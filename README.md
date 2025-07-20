@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 10:33:10 GMT | BrightScan #ThreatIntelThursday - Defending Passwords | Kalpitha S | [Read More](https://medium.com/p/72a8819a944d) |
+| Sun, 20 Jul 2025 10:32:19 GMT | Is Mining Automatic Legit Or Scam? | Romeo | [Read More](https://medium.com/p/7c82257ea04b) |
+| Sun, 20 Jul 2025 10:21:10 GMT | Some Days I’m Light, Some Days I’m a Storm. | Yami05 | [Read More](https://medium.com/p/2e9e3d2d4176) |
+| Sun, 20 Jul 2025 10:21:02 GMT | Lab 3: Collecting Linux Syslog Logs in Microsoft Sentinel — A Journey of Errors, Azure, and… | Amy Huynh | [Read More](https://medium.com/p/20a1a41ffc73) |
 | Sun, 20 Jul 2025 10:12:34 GMT | How a Hacker Fooled the World | Kara Davis | [Read More](https://medium.com/p/bc5451c7d2b5) |
 | Sun, 20 Jul 2025 10:11:22 GMT | Speed, Security, Scalability: The 3 S’s of a Future-Proof Business Website | Airin Git | [Read More](https://medium.com/p/a67bb964375b) |
 | Sun, 20 Jul 2025 10:04:31 GMT | Cyber War 2025: The Silent Battlefield of the Digital Age | The Global World News | [Read More](https://medium.com/p/3851b01a3a98) |
@@ -112,7 +116,3 @@ low to the ground. | sardine. | [Read More](https://medium.com/p/ec615574999d) |
 | Sun, 20 Jul 2025 04:12:59 GMT | Drosera: Making DeFi Security Smarter and Safer on Ethereum | Emilymeth | [Read More](https://medium.com/p/14c2094c4ad2) |
 | Sun, 20 Jul 2025 04:03:24 GMT | SİBER SAVAŞ | Abdullah Narin | [Read More](https://medium.com/p/a2975efc9c2e) |
 | Sun, 20 Jul 2025 04:00:03 GMT | Today is Heavy. | House EmberLynn | [Read More](https://medium.com/p/fbca21a75dda) |
-| Sun, 20 Jul 2025 03:48:48 GMT | AI-Powered Cybercrime: The New Frontier of Digital Threats | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/399f71ee3ab9) |
-| Sun, 20 Jul 2025 03:43:03 GMT | Ransomware’s Evolution: From Digital Nuisance to Global Crisis | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/2ae3a7256622) |
-| Sun, 20 Jul 2025 03:41:46 GMT | LESSON LEARNED-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/93031b0dd5a4) |
-| Sun, 20 Jul 2025 03:31:47 GMT | How Hackers Exploit Your Digital Certificates | Deven Chhajed | [Read More](https://medium.com/p/300a786a3dd0) |
