@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 11:36:29 GMT | SIMIORATTUS!! | Kendrick Eben | [Read More](https://medium.com/p/d8b1a2b83c18) |
+| Sun, 20 Jul 2025 11:33:01 GMT | FastAPI for Cybersecurity Dashboards: My New Favorite Stack | Nikulsinh Rajput | [Read More](https://medium.com/p/01082a818424) |
+| Sun, 20 Jul 2025 11:33:01 GMT | BrightScan #ThreatIntelThursday - Session Hijacking | Kalpitha S | [Read More](https://medium.com/p/8a8440d3a48e) |
+| Sun, 20 Jul 2025 11:33:01 GMT | 10 Common Self-Development Mistakes in the Age of AI and Digital Overload | Dadang Irsyam - HumanxTech Storyteller | [Read More](https://medium.com/p/17a29022c776) |
+| Sun, 20 Jul 2025 11:32:36 GMT | How I Got $3K by Breaking User Accounts via IDOR & Logic Flaw [Chained Bugs] by matrixm0x1 | matrixm0x1 | [Read More](https://medium.com/p/38e5fb3906a0) |
+| Sun, 20 Jul 2025 11:27:20 GMT | Cyberattacks on 5G Telecom Networks: Threat Mapping and Defense | Andrey Pautov | [Read More](https://medium.com/p/aa74f680a7df) |
+| Sun, 20 Jul 2025 11:23:20 GMT | ️ Next-Gen Cybersecurity: Defending Against AI-Powered Threats | SistemVatan | [Read More](https://medium.com/p/7cc1e4d06c4a) |
+| Sun, 20 Jul 2025 11:20:04 GMT | apakah Bank MAS punya WA? | Tokohpedia Seller | [Read More](https://medium.com/p/d78e6dd837b8) |
+| Sun, 20 Jul 2025 11:19:00 GMT | Nomor WhatsApp (WA) resmi Bank MAS adalah 082123585934. | Tokohpedia Seller | [Read More](https://medium.com/p/7cf874ea4206) |
+| Sun, 20 Jul 2025 11:18:14 GMT | Berapa nomor WA (bank MAS). | Tokohpedia Seller | [Read More](https://medium.com/p/8a701d1eb810) |
 | Sun, 20 Jul 2025 11:08:24 GMT | ️Hide Your API Keys on a Static Site with Cloudflare Workers | Sourabh Panchal | [Read More](https://medium.com/p/3c87077da309) |
 | Sun, 20 Jul 2025 11:01:37 GMT | Cybersecurity in the AI Era: Why Microsoft Sentinel Is a Game‑Changer for Fintech & Telco… | Farzana Afrin Tisha | [Read More](https://medium.com/p/4e7d67679ce4) |
 | Sun, 20 Jul 2025 10:59:47 GMT | What to look into cyber security monitoring services? | Cyberextent | [Read More](https://medium.com/p/539c303f0255) |
@@ -106,13 +116,3 @@ low to the ground. | sardine. | [Read More](https://medium.com/p/ec615574999d) |
 | Sun, 20 Jul 2025 05:19:58 GMT | Powerful Metrics to Measure Security Operations Effectiveness | Shalu Chaudhary | [Read More](https://medium.com/p/851fb9526bc3) |
 | Sun, 20 Jul 2025 05:14:44 GMT | What Cybersecurity Books Don’t Teach You — But Real Attacks Will | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/9e8dc49b0541) |
 | Sun, 20 Jul 2025 05:06:43 GMT | The API Key Trap: Are You Putting Your Entire System at Risk? | Code Crack | [Read More](https://medium.com/p/cea2b976449b) |
-| Sun, 20 Jul 2025 05:06:13 GMT | What is Cybersecurity — and Why Does It Matter? | Nazia Mobeen | [Read More](https://medium.com/p/8dcf4b0630f7) |
-| Sun, 20 Jul 2025 05:05:01 GMT | Google’s AI Pro Plan (₹19,500) Now Free for Indian Students: Unlock Premium Features! | Blogy Hub | [Read More](https://medium.com/p/960dcd335331) |
-| Sun, 20 Jul 2025 05:03:32 GMT | Extracting and Cracking NTLMv1 Hashes | R. Eric Kiser | [Read More](https://medium.com/p/035ea0267d3e) |
-| Sun, 20 Jul 2025 05:03:21 GMT | Did Your Exposed JS Files Just Get Your App Hacked? | Ibtissam hammadi | [Read More](https://medium.com/p/2f8c43789091) |
-| Sun, 20 Jul 2025 05:03:14 GMT | Episode 2: OS Command Injection — Talking Directly to the Server’s Brain | Yamini Yadav | [Read More](https://medium.com/p/7fdb828aaae3) |
-| Sun, 20 Jul 2025 05:03:09 GMT | A Beginner-Friendly Guide to RCE, Command Injection, and More | Yamini Yadav | [Read More](https://medium.com/p/eadf64b481eb) |
-| Sun, 20 Jul 2025 05:02:48 GMT | The Cybersecurity Library Your Boss Won’t Share | Aj | [Read More](https://medium.com/p/37421d69e328) |
-| Sun, 20 Jul 2025 05:01:51 GMT | BrightScan’s #ThreatIntelThursday - Bots and Botnets | Kalpitha S | [Read More](https://medium.com/p/5eada1dad67b) |
-| Sun, 20 Jul 2025 04:59:49 GMT | Remote Code Execution via Misconfigured File Upload Using Encrypted Payload (AK47WebShell) | Puneet Maheshwari | [Read More](https://medium.com/p/d34fe7bd72f3) |
-| Sun, 20 Jul 2025 04:36:50 GMT | AWS CloudTrail Event Cheatsheet: A Detection Engineer’s Guide to Critical API Calls — Part 1 | Muh. Fani Akbar | [Read More](https://medium.com/p/04fb1588556f) |
