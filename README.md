@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 12:36:08 GMT | AVOIDING INFORMATION DISCLOSURE THROUGH LOGIC FLAWS (Python) | SecureAuditX | [Read More](https://medium.com/p/3fca7486c19b) |
+| Sun, 20 Jul 2025 12:35:54 GMT | Easiest P4 worth $60-$100 on Yandex | TSxNINJA | [Read More](https://medium.com/p/4ed0c291a37e) |
+| Sun, 20 Jul 2025 12:33:12 GMT | Hackviser — Laravel Framework < 8.4.2 Uzaktan Kod Yürütme (CVE-2021–3129) Yazısı | Who4m1-Cyber | [Read More](https://medium.com/p/2fcc1ecc9247) |
+| Sun, 20 Jul 2025 12:28:18 GMT | Beginner’s Guide to Active Reconnaissance (Part 2): Basic Host Discovery with Nmap in a Home Lab | Ar-jay A. Ballaco | [Read More](https://medium.com/p/6045c6d46b3c) |
+| Sun, 20 Jul 2025 12:21:00 GMT | $500 Bounty: How a Coin Verification Race Condition Let Me Multiply Reddit Coins | Monika sharma | [Read More](https://medium.com/p/b98c3054519e) |
+| Sun, 20 Jul 2025 12:20:56 GMT | Cyber Security Threats in 2025: What You Don’t Know Can Hurt You | Varda joshi | [Read More](https://medium.com/p/68f04e91d2e3) |
+| Sun, 20 Jul 2025 12:19:45 GMT | Breaking Into the SOC: Your Gateway to a Cybersecurity Career | ayub_91 | [Read More](https://medium.com/p/8d0c24da6f04) |
+| Sun, 20 Jul 2025 12:16:39 GMT | Enhancing Security Operations through Metrics: A Comprehensive Evaluation Approach | Ishita Rana | [Read More](https://medium.com/p/619e5097bb44) |
+| Sun, 20 Jul 2025 12:15:39 GMT | What Is Quantum Internet and Why the World Is Racing Toward It | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/719e38b50588) |
+| Sun, 20 Jul 2025 12:14:09 GMT | Top-Rated Free VPN Trials for 2025 | VPNsNow | [Read More](https://medium.com/p/87752eddc54b) |
+| Sun, 20 Jul 2025 12:07:34 GMT | From Git to Shell: How I Went from a Leaked Git Repo to Full RCE and AWS Credentials | Shrivarshan | [Read More](https://medium.com/p/198e01fcc9f9) |
+| Sun, 20 Jul 2025 12:01:02 GMT | BrightScan #ThreatIntelThursday - Logic Bombs | Kalpitha S | [Read More](https://medium.com/p/8f36750fbd65) |
+| Sun, 20 Jul 2025 11:45:24 GMT | Drosera Network: Leading the Way in Decentralized Security for Ethereum | hidvs | [Read More](https://medium.com/p/ac2d382f2386) |
+| Sun, 20 Jul 2025 11:44:05 GMT | Privacy Is a Myth in 2025: Here’s Proof | welovetech | [Read More](https://medium.com/p/4780e2508ecc) |
 | Sun, 20 Jul 2025 11:36:29 GMT | SIMIORATTUS!! | Kendrick Eben | [Read More](https://medium.com/p/d8b1a2b83c18) |
 | Sun, 20 Jul 2025 11:33:01 GMT | FastAPI for Cybersecurity Dashboards: My New Favorite Stack | Nikulsinh Rajput | [Read More](https://medium.com/p/01082a818424) |
 | Sun, 20 Jul 2025 11:33:01 GMT | BrightScan #ThreatIntelThursday - Session Hijacking | Kalpitha S | [Read More](https://medium.com/p/8a8440d3a48e) |
@@ -102,17 +116,3 @@ low to the ground. | sardine. | [Read More](https://medium.com/p/ec615574999d) |
 | Sun, 20 Jul 2025 06:23:14 GMT | Beyond OTPs: A Minimalist Approach to Student Verification | Lovelymunchkin | [Read More](https://medium.com/p/3a3bad0fe20e) |
 | Sun, 20 Jul 2025 06:12:54 GMT | KPMG CTF {Santa’s Letter} | Bhuwan Patidar | [Read More](https://medium.com/p/83929c6b57cf) |
 | Sun, 20 Jul 2025 06:10:26 GMT | Why Cybersecurity Isn’t as Complicated as They Want You to Think | Timsux Wales | [Read More](https://medium.com/p/a128659c2a5b) |
-| Sun, 20 Jul 2025 06:08:35 GMT | De Vulnerabilitatibus Securitatis Cyberneticae Personalibus: Analysis Comprehensiva | Dr. Daniel J. Richardson III | [Read More](https://medium.com/p/deb48cbffbc1) |
-| Sun, 20 Jul 2025 06:06:16 GMT | Task 2 — Merdeka Siber | Hans Nova Santosa | [Read More](https://medium.com/p/d5abea4caea9) |
-| Sun, 20 Jul 2025 06:01:01 GMT | BrightScan #ThreatIntelThursday - Denial of Service Attacks | Kalpitha S | [Read More](https://medium.com/p/ba657849c465) |
-| Sun, 20 Jul 2025 06:00:36 GMT | How Can I Recover My Money Blockdex? | Mariah | [Read More](https://medium.com/p/53ebcb976a61) |
-| Sun, 20 Jul 2025 06:00:23 GMT | Today’s Top Cyber Intelligence Highlights — Jul 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/632c6270054c) |
-| Sun, 20 Jul 2025 05:55:47 GMT | When Trust Breaks: CoinDCX & WazirX Hacks Are a Wake-Up Call- Here’s Why CryptoXpress Is the Safer… | Chrisnse | [Read More](https://medium.com/p/37805ed34874) |
-| Sun, 20 Jul 2025 05:47:19 GMT | Mastering MITRE ATT&CK® Navigator: Turning Thread’s Layers into Actionable Defense Maps | Arachne Digital | [Read More](https://medium.com/p/b0e1e40aab21) |
-| Sun, 20 Jul 2025 05:46:02 GMT | From Scrolls to Source Code: A Time Travel Into the Hacking World | Anonymous | [Read More](https://medium.com/p/07a764adfbd0) |
-| Sun, 20 Jul 2025 05:40:39 GMT | Why Professional Bollard Installation Matters in Melbourne | Amelia Grace | [Read More](https://medium.com/p/1a3927571661) |
-| Sun, 20 Jul 2025 05:31:46 GMT | BrightScan’s #ThreatIntelThursday - Cross Site Request Forgeries | Kalpitha S | [Read More](https://medium.com/p/e8e4eb303018) |
-| Sun, 20 Jul 2025 05:30:02 GMT | How I Built Soar.services: A Live Laptop Health & Security Dashboard | Vishwashtank | [Read More](https://medium.com/p/f8852168aff5) |
-| Sun, 20 Jul 2025 05:19:58 GMT | Powerful Metrics to Measure Security Operations Effectiveness | Shalu Chaudhary | [Read More](https://medium.com/p/851fb9526bc3) |
-| Sun, 20 Jul 2025 05:14:44 GMT | What Cybersecurity Books Don’t Teach You — But Real Attacks Will | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/9e8dc49b0541) |
-| Sun, 20 Jul 2025 05:06:43 GMT | The API Key Trap: Are You Putting Your Entire System at Risk? | Code Crack | [Read More](https://medium.com/p/cea2b976449b) |
