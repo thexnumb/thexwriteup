@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 17:15:06 GMT | Loose Lips Sink Deals: Protecting Sensitive Info in Public Spaces | Dziugas John Vaisvila | [Read More](https://medium.com/p/5d8f397a145b) |
+| Sun, 20 Jul 2025 17:11:21 GMT | DownUnderCTF-sodium | phisher | [Read More](https://medium.com/p/ab9171bac2e8) |
+| Sun, 20 Jul 2025 17:03:56 GMT | Secrets in Session: How a Forgotten Cookie Let Me Walk Into Admin Panel Like I Owned the Place… | Iski | [Read More](https://medium.com/p/6aeb97f7f9de) |
+| Sun, 20 Jul 2025 17:02:00 GMT | What We Don’t See In Aesthetic Self-Care: The Real Story of Healing | Christina - Healing In Pixels & Pages | [Read More](https://medium.com/p/2677f89ad9e8) |
+| Sun, 20 Jul 2025 17:01:50 GMT | Identification and Authentication Failures — Don’t Build Your Own Login Unless You Know What… | Musa Ndlala | [Read More](https://medium.com/p/ab858becc827) |
+| Sun, 20 Jul 2025 17:00:02 GMT | TryHackMe — Willow Walkthrough | santyhere! | [Read More](https://medium.com/p/040c7414a7c7) |
+| Sun, 20 Jul 2025 16:59:30 GMT | Unflinching Presence: What Happens When We Tell Our Stories Without Needing a Reply | Lian Henriksen | [Read More](https://medium.com/p/ff224eddfcb6) |
+| Sun, 20 Jul 2025 16:55:40 GMT | EVEN RSA CAN BE BROKEN??? - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/581fb48fd0b3) |
+| Sun, 20 Jul 2025 16:42:25 GMT | Don’t Hand Over Your Life — Use “Repair Mode” Before Giving Your Phone for Repairs | Vijay Kumar Gupta | [Read More](https://medium.com/p/edf01955ef00) |
+| Sun, 20 Jul 2025 16:37:01 GMT | DAY 9: Slicing Through Chaos | Akshatdwivedi | [Read More](https://medium.com/p/e3e53dfd5bfb) |
 | Sun, 20 Jul 2025 16:35:15 GMT | Week 5— Learning Basic Concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/ae310b92ab71) |
 | Sun, 20 Jul 2025 16:25:29 GMT | Mastering Risk Assessment: A Deep Dive and Navigating into Compliance Maze of Frameworks like… | Mohammed Yaseen | [Read More](https://medium.com/p/c3d8cb3ce77a) |
 | Sun, 20 Jul 2025 16:23:06 GMT | Your Boss is Spying on Your Work Laptop—Here’s What They Can See | Aj | [Read More](https://medium.com/p/9cc7d79bb6d4) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 11:19:00 GMT | Nomor WhatsApp (WA) resmi Bank MAS adalah 082123585934. | Tokohpedia Seller | [Read More](https://medium.com/p/7cf874ea4206) |
 | Sun, 20 Jul 2025 11:18:14 GMT | Berapa nomor WA (bank MAS). | Tokohpedia Seller | [Read More](https://medium.com/p/8a701d1eb810) |
 | Sun, 20 Jul 2025 11:08:24 GMT | ️Hide Your API Keys on a Static Site with Cloudflare Workers | Sourabh Panchal | [Read More](https://medium.com/p/3c87077da309) |
-| Sun, 20 Jul 2025 11:01:37 GMT | Cybersecurity in the AI Era: Why Microsoft Sentinel Is a Game‑Changer for Fintech & Telco… | Farzana Afrin Tisha | [Read More](https://medium.com/p/4e7d67679ce4) |
-| Sun, 20 Jul 2025 10:59:47 GMT | What to look into cyber security monitoring services? | Cyberextent | [Read More](https://medium.com/p/539c303f0255) |
-| Sun, 20 Jul 2025 10:55:12 GMT | How I Got $3K by Breaking User Accounts via IDOR & Logic Flaw — by matrixm0x1 | matrixm0x1 | [Read More](https://medium.com/p/aefae835cbe3) |
-| Sun, 20 Jul 2025 10:47:52 GMT | Why Red Teams Are Essential for Enterprises & Governments in 2025 | Malforge Academy | [Read More](https://medium.com/p/5a5007f5e42e) |
-| Sun, 20 Jul 2025 10:46:39 GMT | Why Test Case Writing Is a Thinking Exercise, Not a Form-Filling Task | Nirmal Kiran Patel | [Read More](https://medium.com/p/07743e2d1bdb) |
-| Sun, 20 Jul 2025 10:44:22 GMT | Pros Don’t Use NMAP OR RUSTSCAN, They use this …2026. | lukewago | [Read More](https://medium.com/p/d9e0964ece1b) |
-| Sun, 20 Jul 2025 10:43:52 GMT | How One PHP File Can Hack a Server: WebDAV File Upload to RCE | Sai Krishna | [Read More](https://medium.com/p/2401e4bc37c7) |
-| Sun, 20 Jul 2025 10:33:10 GMT | BrightScan #ThreatIntelThursday - Defending Passwords | Kalpitha S | [Read More](https://medium.com/p/72a8819a944d) |
-| Sun, 20 Jul 2025 10:32:19 GMT | Is Mining Automatic Legit Or Scam? | Romeo | [Read More](https://medium.com/p/7c82257ea04b) |
-| Sun, 20 Jul 2025 10:21:10 GMT | Some Days I’m Light, Some Days I’m a Storm. | Yami05 | [Read More](https://medium.com/p/2e9e3d2d4176) |
