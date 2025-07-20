@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 16:35:15 GMT | Week 5— Learning Basic Concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/ae310b92ab71) |
+| Sun, 20 Jul 2025 16:25:29 GMT | Mastering Risk Assessment: A Deep Dive and Navigating into Compliance Maze of Frameworks like… | Mohammed Yaseen | [Read More](https://medium.com/p/c3d8cb3ce77a) |
+| Sun, 20 Jul 2025 16:23:06 GMT | Your Boss is Spying on Your Work Laptop—Here’s What They Can See | Aj | [Read More](https://medium.com/p/9cc7d79bb6d4) |
 | Sun, 20 Jul 2025 16:19:11 GMT | How I cracked my first SOC Analyst Interview? And what you can learn from it? | Ronak Joshi | [Read More](https://medium.com/p/cb5536d5f5e2) |
 | Sun, 20 Jul 2025 16:18:07 GMT | Krioptix Level 1 | kiwi | [Read More](https://medium.com/p/e42f8dc242c1) |
 | Sun, 20 Jul 2025 16:13:18 GMT | ️‍♂️ Mastering SearchSploit: From 0x00 to 0xFF | Hail Hydra | [Read More](https://medium.com/p/f1eece6e2f9f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 10:33:10 GMT | BrightScan #ThreatIntelThursday - Defending Passwords | Kalpitha S | [Read More](https://medium.com/p/72a8819a944d) |
 | Sun, 20 Jul 2025 10:32:19 GMT | Is Mining Automatic Legit Or Scam? | Romeo | [Read More](https://medium.com/p/7c82257ea04b) |
 | Sun, 20 Jul 2025 10:21:10 GMT | Some Days I’m Light, Some Days I’m a Storm. | Yami05 | [Read More](https://medium.com/p/2e9e3d2d4176) |
-| Sun, 20 Jul 2025 10:21:02 GMT | Lab 3: Collecting Linux Syslog Logs in Microsoft Sentinel — A Journey of Errors, Azure, and… | Amy Huynh | [Read More](https://medium.com/p/20a1a41ffc73) |
-| Sun, 20 Jul 2025 10:12:34 GMT | How a Hacker Fooled the World | Kara Davis | [Read More](https://medium.com/p/bc5451c7d2b5) |
-| Sun, 20 Jul 2025 10:11:22 GMT | Speed, Security, Scalability: The 3 S’s of a Future-Proof Business Website | Airin Git | [Read More](https://medium.com/p/a67bb964375b) |
