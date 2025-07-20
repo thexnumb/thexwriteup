@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 04:36:50 GMT | AWS CloudTrail Event Cheatsheet: A Detection Engineer’s Guide to Critical API Calls — Part 1 | Muh. Fani Akbar | [Read More](https://medium.com/p/04fb1588556f) |
+| Sun, 20 Jul 2025 04:34:16 GMT | FHE: The Privacy Breakthrough Web3 Has Been Waiting For | Sumitkumar | [Read More](https://medium.com/p/0eb6087bdd4b) |
+| Sun, 20 Jul 2025 04:34:10 GMT | 20 Python Libraries That Are Revolutionizing Software Development in 2025 | Ade Mawan | [Read More](https://medium.com/p/a44df569cde8) |
+| Sun, 20 Jul 2025 04:33:02 GMT | DefenseArk #ThreatIntelThursday - Worms | Kalpitha S | [Read More](https://medium.com/p/860e357ebf2f) |
+| Sun, 20 Jul 2025 04:19:45 GMT | DNS Service - Deep Dive SIEM Part 8 | Bit_Picker | [Read More](https://medium.com/p/43df148b51fa) |
+| Sun, 20 Jul 2025 04:14:45 GMT | Biometrics: Why I Believe It’s the Future — With Both Promise and Precaution | Threaded Epiphany | [Read More](https://medium.com/p/1ef740ae3968) |
+| Sun, 20 Jul 2025 04:12:59 GMT | Drosera: Making DeFi Security Smarter and Safer on Ethereum | Emilymeth | [Read More](https://medium.com/p/14c2094c4ad2) |
+| Sun, 20 Jul 2025 04:03:24 GMT | SİBER SAVAŞ | Abdullah Narin | [Read More](https://medium.com/p/a2975efc9c2e) |
+| Sun, 20 Jul 2025 04:00:03 GMT | Today is Heavy. | House EmberLynn | [Read More](https://medium.com/p/fbca21a75dda) |
 | Sun, 20 Jul 2025 03:48:48 GMT | AI-Powered Cybercrime: The New Frontier of Digital Threats | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/399f71ee3ab9) |
 | Sun, 20 Jul 2025 03:43:03 GMT | Ransomware’s Evolution: From Digital Nuisance to Global Crisis | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/2ae3a7256622) |
 | Sun, 20 Jul 2025 03:41:46 GMT | LESSON LEARNED-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/93031b0dd5a4) |
@@ -106,12 +115,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/049d641397
 | Sat, 19 Jul 2025 18:26:00 GMT | API Gateway Security in a nutshell | Rick Yang | [Read More](https://medium.com/p/f938b5c61570) |
 | Sat, 19 Jul 2025 18:25:02 GMT | Watering Hole Attacks : quand le prédateur choisit le terrain | Myriam Abouda | [Read More](https://medium.com/p/fb050952f670) |
 | Sat, 19 Jul 2025 18:22:47 GMT | How I Found an XSS Vulnerability in a Microsoft subdomain | Anonymousshetty | [Read More](https://medium.com/p/4abf0da5c3e9) |
-| Sat, 19 Jul 2025 18:18:07 GMT | Hezbollah’s Shadow Network in Germany: A Strategic Dossier on Islamist Infiltration, Leftist… | SIMKRA | [Read More](https://medium.com/p/0caec6735b0b) |
-| Sat, 19 Jul 2025 18:16:56 GMT | Munculnya Autentikasi Biometrik | Farizal Hamami | [Read More](https://medium.com/p/668abb3a66d8) |
-| Sat, 19 Jul 2025 18:15:22 GMT | My Battle with Gmail’s ‘Smart’ Security (and Why It’s Broken) | Sebastian Dubiel | [Read More](https://medium.com/p/c95526590316) |
-| Sat, 19 Jul 2025 18:11:38 GMT | From WazirX to CoinDCX: How a $44M Hack Became a Lesson in Crypto Trust | Shrianshkumarnahata | [Read More](https://medium.com/p/f0ffc25cdb57) |
-| Sat, 19 Jul 2025 18:08:22 GMT | Reconnaissance in Cybersecurity: From CLI to Graphs (Recon-ng, theHarvester & Maltego) | Sobhika_rajkumar | [Read More](https://medium.com/p/52d58769ef01) |
-| Sat, 19 Jul 2025 18:04:11 GMT | Coldplay Kiss-Cam Hijacked Your LLM: Chaos, Gossip Loops & an AI-Governance Fail | Arthi Rajendran | [Read More](https://medium.com/p/2224070cb08b) |
-| Sat, 19 Jul 2025 18:03:29 GMT | ✅ Things You Must Know Before Using UNION in SQL | Ali Ziro | [Read More](https://medium.com/p/aec46d10bfd7) |
-| Sat, 19 Jul 2025 18:00:20 GMT | Guardrails for LLM: Pillars, Tools, and Best Practices. | Rui Pedro Moreira | [Read More](https://medium.com/p/db23e6300dde) |
-| Sat, 19 Jul 2025 17:59:37 GMT | Deploying Elastic Stack in home lab | CyberPumpkin | [Read More](https://medium.com/p/d484df9b7175) |
