@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 09:30:49 GMT | Quranium x Abatis: A New Standard for Endpoint Security in Web3
+ Military-grade protection meets… | Bright Mmaduabuchi | [Read More](https://medium.com/p/6f329d402220) |
+| Sun, 20 Jul 2025 09:27:24 GMT | How to Evaluate Information for Technology Before Making Big Decisions | Business Pro Tech | [Read More](https://medium.com/p/d52d4389e381) |
+| Sun, 20 Jul 2025 09:24:48 GMT | “The Caterpillar.” a poem about transformation.
+ 
+I have lived my whole life 
+low to the ground. | sardine. | [Read More](https://medium.com/p/ec615574999d) |
+| Sun, 20 Jul 2025 09:22:50 GMT | Gaining Domain Control: A Walkthrough of TryHackMe’s Attacktive Directory | Ruposhree B. | [Read More](https://medium.com/p/e7502701cbd6) |
+| Sun, 20 Jul 2025 09:16:34 GMT | CyberDefenders — Yellow RAT Lab (Walk Through + SpeedRun Explaination) | Mart Eugen Gevero | [Read More](https://medium.com/p/cfe5e08b1609) |
 | Sun, 20 Jul 2025 09:10:28 GMT | How Security Threats Are Shaping the Future of Software Evolution | Aduwa Geethanjana | [Read More](https://medium.com/p/67ad1af04423) |
 | Sun, 20 Jul 2025 09:01:26 GMT | BrightScan #ThreatIntelThursday - Electromagnetic Pulses | Kalpitha S | [Read More](https://medium.com/p/172f32018748) |
 | Sun, 20 Jul 2025 09:01:24 GMT | BrightScan #ThreatIntelThursday - Secure Deletion | Kalpitha S | [Read More](https://medium.com/p/e8fe7808c4e9) |
@@ -107,8 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 02:47:30 GMT | “5 Warning Signs Your Identity May Be Stolen (And What To Do About It)” | My Legal Guy | [Read More](https://medium.com/p/670bd08b389b) |
 | Sun, 20 Jul 2025 02:21:13 GMT | Understanding SOC and SIEM: A Beginner’s Guide to Security Operations | Yashitha Pobbareddy | [Read More](https://medium.com/p/ac30296dc635) |
 | Sun, 20 Jul 2025 02:17:16 GMT | SCRUM the methodology for Software Development in a team | Reynald Ramirez | [Read More](https://medium.com/p/d660e1372ed2) |
-| Sun, 20 Jul 2025 02:14:17 GMT | To Statefully Hash or Not Statefully Hash — That is the Post Quantum Question | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/b159cd83985a) |
-| Sun, 20 Jul 2025 02:10:36 GMT | Shielding Secrets: Navigating Data Privacy in 2025 | Configr Technologies | [Read More](https://medium.com/p/41de58446cf0) |
-| Sun, 20 Jul 2025 02:07:03 GMT | Why Cybersecurity Needs an Architect, Not a Firefighter | Christina Irick | [Read More](https://medium.com/p/69eb77b9010d) |
-| Sun, 20 Jul 2025 02:01:52 GMT | ⚠️ Why Your Wi-Fi Isn’t as Secure as You Think: A Beginner’s Guide | Varnith | [Read More](https://medium.com/p/f38b272f3013) |
-| Sun, 20 Jul 2025 01:45:08 GMT | NEVER POST YOUR KEYS ONLINE !!! | Soukayna | [Read More](https://medium.com/p/2676c1e12bdb) |
