@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 20 Jul 2025 06:24:23 GMT | Zscaler ZIA: The Essential Shield for Today’s Digital Frontier | Shweta Papnai | [Read More](https://medium.com/p/e15764d94c4e) |
+| Sun, 20 Jul 2025 06:23:14 GMT | Beyond OTPs: A Minimalist Approach to Student Verification | Lovelymunchkin | [Read More](https://medium.com/p/3a3bad0fe20e) |
+| Sun, 20 Jul 2025 06:12:54 GMT | KPMG CTF {Santa’s Letter} | Bhuwan Patidar | [Read More](https://medium.com/p/83929c6b57cf) |
+| Sun, 20 Jul 2025 06:10:26 GMT | Why Cybersecurity Isn’t as Complicated as They Want You to Think | Timsux Wales | [Read More](https://medium.com/p/a128659c2a5b) |
+| Sun, 20 Jul 2025 06:08:35 GMT | De Vulnerabilitatibus Securitatis Cyberneticae Personalibus: Analysis Comprehensiva | Dr. Daniel J. Richardson III | [Read More](https://medium.com/p/deb48cbffbc1) |
+| Sun, 20 Jul 2025 06:06:16 GMT | Task 2 — Merdeka Siber | Hans Nova Santosa | [Read More](https://medium.com/p/d5abea4caea9) |
+| Sun, 20 Jul 2025 06:01:01 GMT | BrightScan #ThreatIntelThursday - Denial of Service Attacks | Kalpitha S | [Read More](https://medium.com/p/ba657849c465) |
+| Sun, 20 Jul 2025 06:00:36 GMT | How Can I Recover My Money Blockdex? | Mariah | [Read More](https://medium.com/p/53ebcb976a61) |
+| Sun, 20 Jul 2025 06:00:23 GMT | Today’s Top Cyber Intelligence Highlights — Jul 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/632c6270054c) |
+| Sun, 20 Jul 2025 05:55:47 GMT | When Trust Breaks: CoinDCX & WazirX Hacks Are a Wake-Up Call- Here’s Why CryptoXpress Is the Safer… | Chrisnse | [Read More](https://medium.com/p/37805ed34874) |
+| Sun, 20 Jul 2025 05:47:19 GMT | Mastering MITRE ATT&CK® Navigator: Turning Thread’s Layers into Actionable Defense Maps | Arachne Digital | [Read More](https://medium.com/p/b0e1e40aab21) |
+| Sun, 20 Jul 2025 05:46:02 GMT | From Scrolls to Source Code: A Time Travel Into the Hacking World | Anonymous | [Read More](https://medium.com/p/07a764adfbd0) |
 | Sun, 20 Jul 2025 05:40:39 GMT | Why Professional Bollard Installation Matters in Melbourne | Amelia Grace | [Read More](https://medium.com/p/1a3927571661) |
 | Sun, 20 Jul 2025 05:31:46 GMT | BrightScan’s #ThreatIntelThursday - Cross Site Request Forgeries | Kalpitha S | [Read More](https://medium.com/p/e8e4eb303018) |
 | Sun, 20 Jul 2025 05:30:02 GMT | How I Built Soar.services: A Live Laptop Health & Security Dashboard | Vishwashtank | [Read More](https://medium.com/p/f8852168aff5) |
@@ -103,15 +115,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/049d641397
 | Sat, 19 Jul 2025 20:13:42 GMT | How I Failed and Passed the PNPT Exam as a Blue Team Analyst | Khoa | [Read More](https://medium.com/p/e7e26c5dfc7e) |
 | Sat, 19 Jul 2025 20:12:16 GMT | Death by a Thousand AI Slops: How Fake Bugs Are Killing Bug Bounties | Aaron | [Read More](https://medium.com/p/e4a8803edab7) |
 | Sat, 19 Jul 2025 20:10:03 GMT | Kubernetes-AKS Upgrade: Fresh v1.32.1 Bug We Just Solved (Weekend Saved) | Sridhar | [Read More](https://medium.com/p/2dc21167de62) |
-| Sat, 19 Jul 2025 20:03:32 GMT | Tryhackme. Sneaky Patch | 14thprince | [Read More](https://medium.com/p/edd1d4c6a420) |
-| Sat, 19 Jul 2025 19:59:42 GMT | Snag Exclusive BOUNTY Through ChainBounty's Launch Bonus | ChainBounty | [Read More](https://medium.com/p/0b8c6956d0c1) |
-| Sat, 19 Jul 2025 19:56:54 GMT | How Dark Circuit Labs Can Elevate Magnet Graykey’s Mobile Forensics Capabilities | Travis Murphy | [Read More](https://medium.com/p/68265a2fabaf) |
-| Sat, 19 Jul 2025 19:55:30 GMT | Information Gathering (web edition part — 1) | Hishamrazak | [Read More](https://medium.com/p/fc86d6938ea0) |
-| Sat, 19 Jul 2025 19:51:19 GMT | Understanding and Defending Against Common Password Attack Methods | 8i5db | [Read More](https://medium.com/p/e27d63d188f3) |
-| Sat, 19 Jul 2025 19:48:20 GMT | Drosera Network: Pioneering Decentralized Security for the Ethereum Ecosystem | Daniel Udo | [Read More](https://medium.com/p/59ca168b458f) |
-| Sat, 19 Jul 2025 19:44:42 GMT | This isn’t just about data. | Hiddenvictim | [Read More](https://medium.com/p/6b3338632f5e) |
-| Sat, 19 Jul 2025 19:42:34 GMT | CoinDCX & WazirX Got Hacked — Here’s Why CryptoXpress Is the Only Safe All-in-One Crypto App in… | Zekanem King | [Read More](https://medium.com/p/2af62ecb4224) |
-| Sat, 19 Jul 2025 19:38:16 GMT | DNS Poisoning: How Hackers Trick Your Internet | Ayush Kumar | [Read More](https://medium.com/p/7621e93517a6) |
-| Sat, 19 Jul 2025 19:18:34 GMT | Build Your Own Packet Sniffer Using Python on Linux — A Beginner-Friendly Guide | Ankit | [Read More](https://medium.com/p/b42cd17b171a) |
-| Sat, 19 Jul 2025 19:17:40 GMT | 20 — SOC105 — Requested T.I. URL address - Writeup | EPereda | [Read More](https://medium.com/p/a55ad3011301) |
-| Sat, 19 Jul 2025 19:17:10 GMT | XSS Tip — Escaping Out of <textarea> Tag | Cybersecplayground | [Read More](https://medium.com/p/8164201edea3) |
