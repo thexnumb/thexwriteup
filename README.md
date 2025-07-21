@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 15:37:37 GMT | Behind the Bug: How to Write a Professional Bug Bounty Report | Yukeshwaran N | [Read More](https://medium.com/p/8c78d1689184) |
+| Mon, 21 Jul 2025 15:36:35 GMT | Regulation of Financial Influencers: Navigating Securities Law Violations and SEC Enforcement | SEC Lawyer 101 | [Read More](https://medium.com/p/c8d1866d1704) |
+| Mon, 21 Jul 2025 15:34:22 GMT | Why We All Want to Be Seen — But Are So Afraid of It | Ben-David | [Read More](https://medium.com/p/23c3038b734c) |
+| Mon, 21 Jul 2025 15:27:11 GMT | ☁️ Security Monitoring and Threat Hunting in AWS and Azure Cloud Environments | Esra Kayhan | [Read More](https://medium.com/p/81d82d1bd824) |
+| Mon, 21 Jul 2025 15:27:02 GMT | The Mobile Blindspot: How BYOD Policies Created Enterprise Backdoors | Eric Zietlow | [Read More](https://medium.com/p/c27a9c876b25) |
+| Mon, 21 Jul 2025 15:26:55 GMT | How One Mistake Taught Me the Importance of SIEM Alert Classifications | NineTales | [Read More](https://medium.com/p/a58e7f4b3818) |
+| Mon, 21 Jul 2025 15:26:42 GMT | Common security pitfalls using Vibe coding | Eyal Estrin ☁️ | [Read More](https://medium.com/p/cbcbd7ebd1f2) |
 | Mon, 21 Jul 2025 15:21:54 GMT | CVE-2025–53770: A Critical RCE vulnerin SharePoint Under Active Exploitation | RealSec.io | [Read More](https://medium.com/p/bb636e2479e9) |
+| Mon, 21 Jul 2025 15:17:32 GMT | How Tyros Is Transforming Emergency Management in the Maldives and Beyond? | Tyros Securities | [Read More](https://medium.com/p/3109737472ce) |
+| Mon, 21 Jul 2025 15:12:56 GMT | The Password That Sank a 158-Year-Old Firm: A Stark Warning for Cybersecurity Complacency. | eL Njas!™ | [Read More](https://medium.com/p/c14104aa0d86) |
 | Mon, 21 Jul 2025 15:10:22 GMT | From Pink Slip to Penetration Tester: How I’m Reinventing My Cybersecurity Career | Chris Huffstetler | [Read More](https://medium.com/p/eca65b5a577a) |
 | Mon, 21 Jul 2025 15:10:13 GMT | Dark Web Credentials? Not on Our Watch!” | Dr. Shashi Karhail | [Read More](https://medium.com/p/55b5bbc4ed4f) |
 | Mon, 21 Jul 2025 15:08:11 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/a4697dabfe01) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 11:17:24 GMT | Why are Cyber Security Monitoring Services in Demand? | Cyberextent | [Read More](https://medium.com/p/de4b4f5f572a) |
 | Mon, 21 Jul 2025 11:14:17 GMT | Global Cyber Attack Targets Microsoft SharePoint: What You Need to Know | NextGenBytes | [Read More](https://medium.com/p/e390177c54de) |
 | Mon, 21 Jul 2025 11:13:22 GMT | Microsoft SharePoint Under Attack: Critical Zero-Day Exploited in the Wild | CYber VIaz | [Read More](https://medium.com/p/13cdf2f5a692) |
-| Mon, 21 Jul 2025 11:09:40 GMT | How I Found My First Bug & Got My First Bounty (£50) | MRKNIGHT-NIDU | [Read More](https://medium.com/p/6766c9fc8d78) |
-| Mon, 21 Jul 2025 11:06:42 GMT | Q-Day and Agentic AI: The Ultimate Nightmare in Cybersecurity | Carsten Stöcker | [Read More](https://medium.com/p/8f41f09496aa) |
-| Mon, 21 Jul 2025 11:04:05 GMT | Privacy-Preserving AI for User Data: Edge AI & Federated Learning in Consumer Products | YUSUFF ADENIYI GIWA | [Read More](https://medium.com/p/41779f94028e) |
-| Mon, 21 Jul 2025 11:01:25 GMT | 3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics | CYber VIaz | [Read More](https://medium.com/p/086120222c7e) |
-| Mon, 21 Jul 2025 11:01:04 GMT | Cybersecurity Is Not Optional: Why SMEs Must Rethink IT Strategy | Elevate | [Read More](https://medium.com/p/9ebbcc25c862) |
-| Mon, 21 Jul 2025 10:54:10 GMT | Beginner to Advanced Cyber Security Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/90c4316dc83d) |
-| Mon, 21 Jul 2025 10:53:16 GMT | Mastering Subfinder for Bug Bounty: My Secret Weapon for Finding Hidden Subdomains ️‍♂️ | Krish_cyber | [Read More](https://medium.com/p/91a62d04651d) |
-| Mon, 21 Jul 2025 10:52:35 GMT | Welcome to IntelligenceX: Your Digital Defense Starts Here | IntelligenceX | [Read More](https://medium.com/p/92b531e829e9) |
-| Mon, 21 Jul 2025 10:50:46 GMT | The EU AI Act: Navigating Risks, Opportunities, and Global Influence in Artificial Intelligence… | Noaman Kazi | [Read More](https://medium.com/p/3649d79591ac) |
