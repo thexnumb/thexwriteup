@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 17:12:21 GMT | NEWSLETTER : McHire Data Breach: AI Cybersecurity Wake-Up Call and Innovation Blueprint for San… | Nitin Garg | [Read More](https://medium.com/p/4d32a30c7c97) |
+| Mon, 21 Jul 2025 17:09:48 GMT | “Mastering Stored XSS: Real-World Exploits and Advanced Bypass Techniques” | Aman Sharma | [Read More](https://medium.com/p/1ff2ce3a4e1e) |
+| Mon, 21 Jul 2025 17:05:32 GMT | Title: Introducing Quranium’s Qsafe Wallet: The Future of Faith-Based, Quantum-Secure Web3 | ♐DecentralizedDev | [Read More](https://medium.com/p/bee0f925fc58) |
+| Mon, 21 Jul 2025 16:57:32 GMT | DAY 21 — CHAPTER 10: File System and Storage Device Management | Jinay | [Read More](https://medium.com/p/51f0ea5cb0ac) |
 | Mon, 21 Jul 2025 16:49:23 GMT | ️‍♂️ Hacking Lab Tutorial: Discovering Info Leaks via Backup Files with Feroxbuster | Rajkumar Kumawat | [Read More](https://medium.com/p/f2af472d7189) |
 | Mon, 21 Jul 2025 16:42:59 GMT | 1:- Quantum Leech Virus:
 You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar Anwar | [Read More](https://medium.com/p/411cf74ec3a6) |
@@ -109,7 +113,3 @@ You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar
 | Mon, 21 Jul 2025 12:31:23 GMT | Protege tu identidad en línea | Emily Chan | [Read More](https://medium.com/p/b0b5e72de11f) |
 | Mon, 21 Jul 2025 12:31:23 GMT | Best Reconciliation Solutions for Banks: Features, Benefits, and Pricing | Kosh AI | [Read More](https://medium.com/p/1a244404bc7a) |
 | Mon, 21 Jul 2025 12:28:32 GMT | hackfest2016: Quaoar Vulnhub CTF | Emirhan Kartal | [Read More](https://medium.com/p/1a1a9d26bf31) |
-| Mon, 21 Jul 2025 12:26:33 GMT | Reliable Shopping Mall Security Guard in Manchester | Marvelloussecurities | [Read More](https://medium.com/p/7019203f97c7) |
-| Mon, 21 Jul 2025 12:26:20 GMT | Fitting Tor, a Browser, and Linux Into a 120 MB Smart Watch: A Guide to Enhanced Anonymity and… | Raghav Vijayanand | [Read More](https://medium.com/p/916b49f699b8) |
-| Mon, 21 Jul 2025 12:11:24 GMT | Why Big Companies Are Falling in Love with Open Source | carlin desautels | [Read More](https://medium.com/p/5024ad9fa0f9) |
-| Mon, 21 Jul 2025 12:09:36 GMT | Tehdit İstihbaratının Planlanması ve Toplanması: Kaynaklar, Süreçler ve Dark Web’in Rolü | Enes Tekneci | [Read More](https://medium.com/p/0dedf3c4e975) |
