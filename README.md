@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 20:14:33 GMT | Hope Is Not a Strategy — VisibleOps Cybersecurity Shows What Actually Works | VIV PR | [Read More](https://medium.com/p/6ba16f5bc7c4) |
+| Mon, 21 Jul 2025 20:12:42 GMT | THM - Directory | Francesco Pastore | [Read More](https://medium.com/p/6e8604e69c2c) |
+| Mon, 21 Jul 2025 20:04:44 GMT | PortSwigger Lab: CORS vulnerability with basic origin reflection | Kutay Söker | [Read More](https://medium.com/p/2087a1eac6a7) |
+| Mon, 21 Jul 2025 19:56:38 GMT | The Most Essential Computer Skills Everyone Should Master in 2025 | Zahra Ali | [Read More](https://medium.com/p/bbd62eb4092e) |
+| Mon, 21 Jul 2025 19:54:31 GMT | My First Pentest: 50% Panic, 50% Fun. | maverick | [Read More](https://medium.com/p/893434dcc074) |
+| Mon, 21 Jul 2025 19:52:29 GMT | When GenAI Hallucinates: The Overlooked Cybersecurity Blindspot Inside Modern SOCs | Hitansh | [Read More](https://medium.com/p/65645054a911) |
+| Mon, 21 Jul 2025 19:47:10 GMT | SOAR -EDR-PROJECT PART-2 | rkn | [Read More](https://medium.com/p/9330dac92553) |
+| Mon, 21 Jul 2025 19:45:05 GMT | Security Practices — Testing For Early Vulnerability Detection | Nitish Ahir | [Read More](https://medium.com/p/7d09461fcbf0) |
+| Mon, 21 Jul 2025 19:39:49 GMT | Securing Agentic AI: Adding Authorization and Authentication with NVIDIA AIQ Toolkit | Kasra Ahmadi | [Read More](https://medium.com/p/81f3e033e449) |
+| Mon, 21 Jul 2025 19:33:34 GMT | July 21, 2025 – Quiet Storm | IamGhost | [Read More](https://medium.com/p/8386e47d0696) |
+| Mon, 21 Jul 2025 19:33:08 GMT | Password vs. Password-less Authentication: | Ezinne Ugwoke | [Read More](https://medium.com/p/358979e24092) |
 | Mon, 21 Jul 2025 19:31:06 GMT | Understanding the Cloud: What It Is and Why It Matters | Tech Made Simple By NTi | [Read More](https://medium.com/p/e953a798d475) |
 | Mon, 21 Jul 2025 19:29:58 GMT | Reconstructing a Stranger’s Life From Their Broken Phone: A Real OSINT Autopsy | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6fc61170c1b7) |
 | Mon, 21 Jul 2025 19:24:12 GMT | [Security] How to setup caddy for ssl certificates for your services with example of feature voting… | Sarvsav Sharma | [Read More](https://medium.com/p/dc74b2ce27b0) |
@@ -102,14 +113,3 @@ You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar
 | Mon, 21 Jul 2025 14:42:10 GMT | Web Development in 2025 | Learning Axis | [Read More](https://medium.com/p/87a0bb192293) |
 | Mon, 21 Jul 2025 14:39:55 GMT | $DORK Yield Generation for Maximum Returns on StakingRewards | DORK | [Read More](https://medium.com/p/83d0b0713894) |
 | Mon, 21 Jul 2025 14:29:31 GMT | Top 10 Best GRC Tools in 2025: Gartner-Backed List of Leading Governance, Risk & Compliance… | Technologic Innovation | [Read More](https://medium.com/p/c825c0cf27aa) |
-| Mon, 21 Jul 2025 14:27:24 GMT | How we automated our recon at scale | profundis.io | [Read More](https://medium.com/p/ee0a3b6bcb04) |
-| Mon, 21 Jul 2025 14:23:04 GMT | What Happens to Your Data? A Simple Look at the Data Lifecycle | Fabio Pierre | [Read More](https://medium.com/p/13c409b7977c) |
-| Mon, 21 Jul 2025 14:17:26 GMT | Attacktive Directory: TryHackMe | santosh gadekar | [Read More](https://medium.com/p/71d2b6df8aef) |
-| Mon, 21 Jul 2025 14:07:41 GMT | “403 Forbidden? | Uday | [Read More](https://medium.com/p/a0843052612f) |
-| Mon, 21 Jul 2025 14:06:06 GMT | Spotting Fake Jobs on LinkedIn: Trust but Verify! | Travis Ray Caverhill | [Read More](https://medium.com/p/d8f56c11a608) |
-| Mon, 21 Jul 2025 14:04:18 GMT | Digital Skills Are the New Literacy | Sharon Makunura | [Read More](https://medium.com/p/4c52fcc4735c) |
-| Mon, 21 Jul 2025 14:03:37 GMT | AI vs AI: The Cybersecurity War Has Begun | Futuretools.Ae | [Read More](https://medium.com/p/c6f7661bf93f) |
-| Mon, 21 Jul 2025 14:03:01 GMT | Cyber Briefing: 2025.07.21 | CyberMaterial | [Read More](https://medium.com/p/770dddaafd51) |
-| Mon, 21 Jul 2025 13:57:35 GMT | TryHackMe — Request Smuggling: WebSockets | omni | [Read More](https://medium.com/p/01e63c55af1c) |
-| Mon, 21 Jul 2025 13:49:03 GMT | Why Recon Solana $RECON Growth Strategy Could Be Your Best Investment in 2025 | Recon Solana | [Read More](https://medium.com/p/35686a79c5d4) |
-| Mon, 21 Jul 2025 13:45:17 GMT | Digital Forensics | Arshad ali | [Read More](https://medium.com/p/f8107c482edb) |
