@@ -12,9 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 12:39:43 GMT | Computer Training Institutes In Hyderabad | APEC | [Read More](https://medium.com/p/d3cb0730ae96) |
+| Mon, 21 Jul 2025 12:38:58 GMT | INTRODUCTION TO THREAT INTELLIGENCE | Nikhitha A | [Read More](https://medium.com/p/c49af4cb634c) |
+| Mon, 21 Jul 2025 12:38:13 GMT | Android App Security in 2025 — Biometrics, App Integrity, and Play Protect | Reza Ramesh | [Read More](https://medium.com/p/e13486387ae7) |
+| Mon, 21 Jul 2025 12:37:38 GMT | ProFTPD 1.3.5 CVE-2015–3306 Zafiyeti Üzerinden Uzaktan Kod Çalıştırma Senaryosu | Rvyd | [Read More](https://medium.com/p/9d16c4d6c585) |
+| Mon, 21 Jul 2025 12:35:03 GMT | Skilled Shopping Mall Security Guard in Manchester | Marvelloussecurities | [Read More](https://medium.com/p/a7dc38c4ee88) |
+| Mon, 21 Jul 2025 12:31:23 GMT | Protege tu identidad en línea | Emily Chan | [Read More](https://medium.com/p/b0b5e72de11f) |
+| Mon, 21 Jul 2025 12:31:23 GMT | Best Reconciliation Solutions for Banks: Features, Benefits, and Pricing | Kosh AI | [Read More](https://medium.com/p/1a244404bc7a) |
+| Mon, 21 Jul 2025 12:28:32 GMT | hackfest2016: Quaoar Vulnhub CTF | Emirhan Kartal | [Read More](https://medium.com/p/1a1a9d26bf31) |
+| Mon, 21 Jul 2025 12:26:33 GMT | Reliable Shopping Mall Security Guard in Manchester | Marvelloussecurities | [Read More](https://medium.com/p/7019203f97c7) |
+| Mon, 21 Jul 2025 12:26:20 GMT | Fitting Tor, a Browser, and Linux Into a 120 MB Smart Watch: A Guide to Enhanced Anonymity and… | Raghav Vijayanand | [Read More](https://medium.com/p/916b49f699b8) |
+| Mon, 21 Jul 2025 12:11:24 GMT | Why Big Companies Are Falling in Love with Open Source | carlin desautels | [Read More](https://medium.com/p/5024ad9fa0f9) |
+| Mon, 21 Jul 2025 12:09:36 GMT | Tehdit İstihbaratının Planlanması ve Toplanması: Kaynaklar, Süreçler ve Dark Web’in Rolü | Enes Tekneci | [Read More](https://medium.com/p/0dedf3c4e975) |
+| Mon, 21 Jul 2025 12:08:43 GMT | Hybrid SOC Services: A Scalable Solution for Growing Cyber Threats | sanya | [Read More](https://medium.com/p/8ff0ed22e6f6) |
+| Mon, 21 Jul 2025 11:58:28 GMT | The 2025 2FA Security Guide: Why Your Password Isn’t Enough Anymore | TechEd Publishers | [Read More](https://medium.com/p/31f83a730a48) |
+| Mon, 21 Jul 2025 11:52:05 GMT | [EN] Introduction to Cybersecurity: What It Is and Why It Matters So Much | Güven Emre Keskin | [Read More](https://medium.com/p/45410726c761) |
+| Mon, 21 Jul 2025 11:51:25 GMT | MeetCyber’s OWASP Pledge: 1¢ Per New Follower, 10¢ Per New Writer | E. Ibrahimi | [Read More](https://medium.com/p/db4db622ca3e) |
+| Mon, 21 Jul 2025 11:48:53 GMT | Access control vulnerabilities | Usama Hanif | [Read More](https://medium.com/p/fedaecf28e81) |
+| Mon, 21 Jul 2025 11:46:36 GMT | How We Used Content Security Policy to Eliminate XSS Reports | Sumit Chahal | [Read More](https://medium.com/p/3bf8167aa8b9) |
+| Mon, 21 Jul 2025 11:45:32 GMT | CTF Day(39) | Ahmed Narmer | [Read More](https://medium.com/p/a7da094645ce) |
+| Mon, 21 Jul 2025 11:44:04 GMT | Cybersecurity Basics for Beginners: Master This Rule, and You’ve Mastered Cybersecurity | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/531bfc45c17d) |
+| Mon, 21 Jul 2025 11:43:03 GMT | Best In Recovery | Norman Meg | [Read More](https://medium.com/p/c2e8be608c44) |
 | Mon, 21 Jul 2025 11:37:22 GMT | LetsDefend Walkthrough (SOC 146) — Event ID 93: Phishing Email with Excel 4.0 Macros | cy_girlie | [Read More](https://medium.com/p/26180b80bb81) |
 | Mon, 21 Jul 2025 11:37:16 GMT | The Man Behind the Mullet: Wrestling Humanity from the Shadows with Dog the Bounty Hunter | AI Tools Reviews | [Read More](https://medium.com/p/b6c261cb2005) |
 | Mon, 21 Jul 2025 11:35:46 GMT | The Hidden Threat in Plain Sight: How a JPG Can Hijack Your Computer | Pratik Gurav | [Read More](https://medium.com/p/97629f3b8f05) |
+| Mon, 21 Jul 2025 11:33:23 GMT | RBAC in Vue.js: Mastering User Permissions & Security | Nakiboddin Saiyad | [Read More](https://medium.com/p/75b547174c04) |
 | Mon, 21 Jul 2025 11:33:16 GMT | Measuring Cyber Security Effectively with KPIs | Sebastian Kandler | [Read More](https://medium.com/p/182559a0e130) |
 | Mon, 21 Jul 2025 11:32:24 GMT | Hacker’s Internship Diaries — Week 1: Understanding the Web - HTTP - API Styles - JWT -… | Mehmet Akif VARDAR | [Read More](https://medium.com/p/ee3a9af558ce) |
 | Mon, 21 Jul 2025 11:27:01 GMT | Day 50: NIST SP 800–53 Control Families, Let’s Break Them Down! | Brittney Ginther | [Read More](https://medium.com/p/c54b4eaff98b) |
@@ -49,6 +71,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 10:08:25 GMT | CyberX: Powering Digital Futures | Tekhabeeb | [Read More](https://medium.com/p/33b3eb4e150e) |
 | Mon, 21 Jul 2025 10:05:15 GMT | How I Set Up the ELK Stack on Ubuntu for My SOC Lab | Reina Baz | [Read More](https://medium.com/p/a10860465336) |
 | Mon, 21 Jul 2025 10:05:07 GMT | Rethinking Network Security: Why It’s Time to Upgrade to a Next-Generation Firewall | NizzCorp Academy | [Read More](https://medium.com/p/ad155b7db5a4) |
+| Mon, 21 Jul 2025 10:04:26 GMT | A Home Server for Everyone - Reclaiming Control in a Connected World | Hanan Marghoob | [Read More](https://medium.com/p/5e2173ffadf8) |
 | Mon, 21 Jul 2025 09:53:17 GMT | Top 7 SIEM Cybersecurity Tools That Keep Hackers Out | SecureSlate | [Read More](https://medium.com/p/1d5b3fa7d96d) |
 | Mon, 21 Jul 2025 09:40:10 GMT | When the Internet Breaks: Lessons from the Microsoft SharePoint Zero‑Day Attack | Hafizbilaltariq | [Read More](https://medium.com/p/6680eb4f8506) |
 | Mon, 21 Jul 2025 09:38:47 GMT | 5 Kali Linux Tricks That Instantly Make You a Hacker | Rue | [Read More](https://medium.com/p/94728f7026cb) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 07:23:26 GMT | WHY TRADITIONAL CRYPTO WALLETS ARE FAILING USERS? | WalletKeeper | [Read More](https://medium.com/p/ea7a5f92c0d3) |
 | Mon, 21 Jul 2025 07:15:48 GMT | GRC in Cybersecurity — The “Why” Behind the Controls | Mujtaba Shaikeldin | [Read More](https://medium.com/p/e72ef4f16b8e) |
 | Mon, 21 Jul 2025 07:14:54 GMT | Physical Recon… To Perform Recon… | Red | [Read More](https://medium.com/p/7abc095d2c35) |
-| Mon, 21 Jul 2025 07:14:39 GMT | CyberDefenders — The Crime Lab (Walk Through) | Mart Eugen Gevero | [Read More](https://medium.com/p/a2ba75914552) |
-| Mon, 21 Jul 2025 07:08:37 GMT | DOGE Data Breach: A Cybersecurity Wake-Up Call | Kalariya Het | [Read More](https://medium.com/p/0fc5099a4b51) |
-| Mon, 21 Jul 2025 07:04:39 GMT | CTF Day(38) | Ahmed Narmer | [Read More](https://medium.com/p/89735a37ed5f) |
-| Mon, 21 Jul 2025 07:04:27 GMT | DeepSeek AI: Security Flaws and Privacy Risks Exposed | Kalariya Het | [Read More](https://medium.com/p/57a6836940ea) |
-| Mon, 21 Jul 2025 07:03:13 GMT | What is VAPT? Why Your Business Can’t Afford to Ignore It | West Advanced Technologies Inc | [Read More](https://medium.com/p/a95aa392b830) |
-| Mon, 21 Jul 2025 07:01:35 GMT | How I Got $25K just in 14 Days from “Hacking”? [Bahasa Indonesia] | Rona Febriana | [Read More](https://medium.com/p/63eff69bdd6e) |
-| Mon, 21 Jul 2025 06:56:54 GMT | Immersive Tech Revolution: How VR & AR Are Changing Industries | Quickway Infosystems | [Read More](https://medium.com/p/c4d9ae97ea17) |
-| Mon, 21 Jul 2025 06:55:58 GMT | OTHM — Level 6 Diploma In Information Technology | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/5952978c5903) |
-| Mon, 21 Jul 2025 06:54:49 GMT | The Parts of Me I Keep Hidden | Ayaz Ali | [Read More](https://medium.com/p/2ff7adbefda8) |
-| Mon, 21 Jul 2025 06:54:30 GMT | OTHM Level 4-Diploma in Information Technology | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/44a6bfb9413a) |
-| Mon, 21 Jul 2025 06:49:52 GMT | Step-by-Step Guide to Securing Your MediaWiki Installation Against Common Threats | Hex Shift | [Read More](https://medium.com/p/ca9726213108) |
-| Mon, 21 Jul 2025 06:49:36 GMT | Top Cyber Threats Facing Austin TX Businesses and How to Prevent Them | The MIT Pro | [Read More](https://medium.com/p/ef8ba73a1d46) |
-| Mon, 21 Jul 2025 06:44:48 GMT | Cyber Tyranny: How Arab Captagon Regimes Weaponize Spyware Against Entrepreneurs and Citizens | Wissamdouglas | [Read More](https://medium.com/p/3aee0104b573) |
-| Mon, 21 Jul 2025 06:43:53 GMT | Day7- Cybersecurity for Beginners: What Are Nmap, Nessus, and OpenVAS? | unica 02 | [Read More](https://medium.com/p/eb97077c3ec5) |
-| Mon, 21 Jul 2025 06:42:02 GMT | Who’s Using a Proxy or VPN in Your M365 Environment — and Why It Matters | Dean | [Read More](https://medium.com/p/e5de84461e78) |
-| Mon, 21 Jul 2025 06:41:07 GMT | What is VAPT? A Complete Guide to Vulnerability Assessment and Penetration Testing | Jay Chris Roberts | [Read More](https://medium.com/p/0781a526885a) |
-| Mon, 21 Jul 2025 06:40:44 GMT | 404 to Fortune: How a Broken Link Uncovered Internal APIs & Staged Dev Dumps | Iski | [Read More](https://medium.com/p/235aa80c2406) |
-| Mon, 21 Jul 2025 06:39:13 GMT | AI Coding Assistants and the Rise of Bugs: A Post-2023 Reality Check | Aggarwalshubham | [Read More](https://medium.com/p/59cb09ede0ac) |
-| Mon, 21 Jul 2025 06:38:46 GMT | Why You Should Take an Ethical Hacking Course in 2025 | cyber security Updates | [Read More](https://medium.com/p/42ae8fdfd90d) |
-| Mon, 21 Jul 2025 06:37:07 GMT | CTF Day(37) | Ahmed Narmer | [Read More](https://medium.com/p/9587a06c6498) |
-| Mon, 21 Jul 2025 06:28:21 GMT | How I Found a Business Logic Flaw in a Growing EdTech Website (P1 Bug) | Tamilselvan A K | [Read More](https://medium.com/p/097a75290e72) |
-| Mon, 21 Jul 2025 06:26:04 GMT | CI/CD Security in 2025: Challenges, Tools & Pro Tips | Maya Collins | [Read More](https://medium.com/p/b95304b94dee) |
-| Mon, 21 Jul 2025 06:17:51 GMT | The Teenager Who Hacked Rockstar Games with Just an iPhone: A True Cybercrime Story | Nikita | [Read More](https://medium.com/p/0b6785713e1f) |
