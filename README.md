@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 04:29:51 GMT | The Real Threat to Cybersecurity? It’s Not What You Think | Xperts Unimited | [Read More](https://medium.com/p/6959cd17e573) |
+| Mon, 21 Jul 2025 04:26:26 GMT | Securing RAG Pipelines: A Cybersecurity Guide for AI Practitioners | Suhail R. Ahmad | [Read More](https://medium.com/p/bef11cb63e6c) |
+| Mon, 21 Jul 2025 04:02:05 GMT | LameHug Malware Leveraging LLM for Dynamic Command Execution on Windows Systems. | Geethu_Giri | [Read More](https://medium.com/p/aa13d1e31af5) |
+| Mon, 21 Jul 2025 03:53:34 GMT | Ethereum Needs Its Immune System and Drosera Is Ready | 0xsmile | [Read More](https://medium.com/p/9e6999cca31b) |
+| Mon, 21 Jul 2025 03:47:58 GMT | Deconstructing the Crocodile Vector | Praharsha Kumar | [Read More](https://medium.com/p/e23d58fb63dd) |
 | Mon, 21 Jul 2025 03:39:00 GMT | Think You Can Hack It? Here’s How to Become a Penetration Tester in 2025 | Girish Kumar Benvanshi | [Read More](https://medium.com/p/a7b1adb75551) |
 | Mon, 21 Jul 2025 03:38:18 GMT | HTB Challenge — PINsmith | Fardeen Ahmed | [Read More](https://medium.com/p/af58e33e1cd1) |
 | Mon, 21 Jul 2025 03:34:17 GMT | Neural Gravity: How Large Language Models Bend the Fabric of Meaning | John Boren | [Read More](https://medium.com/p/87c57d812878) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 18:29:22 GMT | Hacking Windows 7 with EternalBlue (MS17–010) Using Metasploit: An Ethical Hacking Walkthrough | Pranav V | [Read More](https://medium.com/p/1e54306cc9dd) |
 | Sun, 20 Jul 2025 18:28:50 GMT | Security Misconfiguration — Sensitive Data Exposure via Google Dorks ($25 — $100) | Abin | [Read More](https://medium.com/p/63da5dc83f67) |
 | Sun, 20 Jul 2025 18:28:36 GMT | Did The Crypto Exchange CoinDCX Get Hacked? | Nivedita Baidya | [Read More](https://medium.com/p/4434d53d030b) |
-| Sun, 20 Jul 2025 18:24:32 GMT | LOGIC BOMB, um ataque interno! | Dev_Chimpa | [Read More](https://medium.com/p/ab7421a50473) |
-| Sun, 20 Jul 2025 18:21:30 GMT | Most Backend Developers Have No Idea How to Secure an API | Byte Me Daily | [Read More](https://medium.com/p/9c24b3c9d057) |
-| Sun, 20 Jul 2025 18:15:33 GMT | Exploring the Future of Hardware Wallets with ELLIPAL | thompsonterry | [Read More](https://medium.com/p/bc7cb60b8bf0) |
-| Sun, 20 Jul 2025 18:14:48 GMT | Fake Cursor IDE extension pulls off $500,000 crypto heist | Ombhojane | [Read More](https://medium.com/p/90a2a117faca) |
-| Sun, 20 Jul 2025 18:12:39 GMT | TryHackMe: Attacktive Directory — A Beginner-Friendly Walkthrough | Chandan Nayak | [Read More](https://medium.com/p/1d00ee9a2e0a) |
