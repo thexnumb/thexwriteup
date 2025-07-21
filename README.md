@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 20:43:36 GMT | The Invisible Image: Hiding One Picture Inside Another | Ceyda Irwin | [Read More](https://medium.com/p/b08d8f0248c9) |
+| Mon, 21 Jul 2025 20:25:06 GMT | Dissecting the OSI Model | theccmi | [Read More](https://medium.com/p/f4016716167e) |
+| Mon, 21 Jul 2025 20:20:18 GMT | This Wild App Sends You Armed Navy SEALs to Get Your Coffee | Afiza Malik | [Read More](https://medium.com/p/361768bfe947) |
 | Mon, 21 Jul 2025 20:14:33 GMT | Hope Is Not a Strategy — VisibleOps Cybersecurity Shows What Actually Works | VIV PR | [Read More](https://medium.com/p/6ba16f5bc7c4) |
 | Mon, 21 Jul 2025 20:12:42 GMT | THM - Directory | Francesco Pastore | [Read More](https://medium.com/p/6e8604e69c2c) |
 | Mon, 21 Jul 2025 20:04:44 GMT | PortSwigger Lab: CORS vulnerability with basic origin reflection | Kutay Söker | [Read More](https://medium.com/p/2087a1eac6a7) |
@@ -110,6 +113,3 @@ You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar
 | Mon, 21 Jul 2025 14:51:35 GMT | Too Much, Too Soon | Akshat Singh | [Read More](https://medium.com/p/31ecb7d6bc56) |
 | Mon, 21 Jul 2025 14:51:07 GMT | Finished Pre Security Learning Path 7/21/2025 | Psalm Endozo | [Read More](https://medium.com/p/651f0b4e746c) |
 | Mon, 21 Jul 2025 14:43:11 GMT | How to Earn Big by $CVE Yield Generation on StakingRewards | Curvance | [Read More](https://medium.com/p/db0c30129e0c) |
-| Mon, 21 Jul 2025 14:42:10 GMT | Web Development in 2025 | Learning Axis | [Read More](https://medium.com/p/87a0bb192293) |
-| Mon, 21 Jul 2025 14:39:55 GMT | $DORK Yield Generation for Maximum Returns on StakingRewards | DORK | [Read More](https://medium.com/p/83d0b0713894) |
-| Mon, 21 Jul 2025 14:29:31 GMT | Top 10 Best GRC Tools in 2025: Gartner-Backed List of Leading Governance, Risk & Compliance… | Technologic Innovation | [Read More](https://medium.com/p/c825c0cf27aa) |
