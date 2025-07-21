@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 14:42:10 GMT | Web Development in 2025 | Learning Axis | [Read More](https://medium.com/p/87a0bb192293) |
+| Mon, 21 Jul 2025 14:39:55 GMT | $DORK Yield Generation for Maximum Returns on StakingRewards | DORK | [Read More](https://medium.com/p/83d0b0713894) |
+| Mon, 21 Jul 2025 14:29:31 GMT | Top 10 Best GRC Tools in 2025: Gartner-Backed List of Leading Governance, Risk & Compliance… | Technologic Innovation | [Read More](https://medium.com/p/c825c0cf27aa) |
+| Mon, 21 Jul 2025 14:27:24 GMT | How we automated our recon at scale | profundis.io | [Read More](https://medium.com/p/ee0a3b6bcb04) |
+| Mon, 21 Jul 2025 14:23:04 GMT | What Happens to Your Data? A Simple Look at the Data Lifecycle | Fabio Pierre | [Read More](https://medium.com/p/13c409b7977c) |
+| Mon, 21 Jul 2025 14:17:26 GMT | Attacktive Directory: TryHackMe | santosh gadekar | [Read More](https://medium.com/p/71d2b6df8aef) |
 | Mon, 21 Jul 2025 14:07:41 GMT | “403 Forbidden? | Uday | [Read More](https://medium.com/p/a0843052612f) |
 | Mon, 21 Jul 2025 14:06:06 GMT | Spotting Fake Jobs on LinkedIn: Trust but Verify! | Travis Ray Caverhill | [Read More](https://medium.com/p/d8f56c11a608) |
 | Mon, 21 Jul 2025 14:04:18 GMT | Digital Skills Are the New Literacy | Sharon Makunura | [Read More](https://medium.com/p/4c52fcc4735c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 10:08:25 GMT | CyberX: Powering Digital Futures | Tekhabeeb | [Read More](https://medium.com/p/33b3eb4e150e) |
 | Mon, 21 Jul 2025 10:05:15 GMT | How I Set Up the ELK Stack on Ubuntu for My SOC Lab | Reina Baz | [Read More](https://medium.com/p/a10860465336) |
 | Mon, 21 Jul 2025 10:05:07 GMT | Rethinking Network Security: Why It’s Time to Upgrade to a Next-Generation Firewall | NizzCorp Academy | [Read More](https://medium.com/p/ad155b7db5a4) |
-| Mon, 21 Jul 2025 10:04:26 GMT | A Home Server for Everyone - Reclaiming Control in a Connected World | Hanan Marghoob | [Read More](https://medium.com/p/5e2173ffadf8) |
-| Mon, 21 Jul 2025 09:53:17 GMT | Top 7 SIEM Cybersecurity Tools That Keep Hackers Out | SecureSlate | [Read More](https://medium.com/p/1d5b3fa7d96d) |
-| Mon, 21 Jul 2025 09:40:10 GMT | When the Internet Breaks: Lessons from the Microsoft SharePoint Zero‑Day Attack | Hafizbilaltariq | [Read More](https://medium.com/p/6680eb4f8506) |
-| Mon, 21 Jul 2025 09:38:47 GMT | 5 Kali Linux Tricks That Instantly Make You a Hacker | Rue | [Read More](https://medium.com/p/94728f7026cb) |
-| Mon, 21 Jul 2025 09:14:20 GMT | How to Spot Fake Aadhaar Cards Made by AI | Deeya | [Read More](https://medium.com/p/95c948ddaf4a) |
-| Mon, 21 Jul 2025 09:11:46 GMT | The Myth of Wanting the Truth | The Simple Mind | [Read More](https://medium.com/p/f99ff6eb5908) |
