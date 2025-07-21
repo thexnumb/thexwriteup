@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 06:28:21 GMT | How I Found a Business Logic Flaw in a Growing EdTech Website (P1 Bug) | Tamilselvan A K | [Read More](https://medium.com/p/097a75290e72) |
+| Mon, 21 Jul 2025 06:26:04 GMT | CI/CD Security in 2025: Challenges, Tools & Pro Tips | Maya Collins | [Read More](https://medium.com/p/b95304b94dee) |
+| Mon, 21 Jul 2025 06:17:51 GMT | The Teenager Who Hacked Rockstar Games with Just an iPhone: A True Cybercrime Story | Nikita | [Read More](https://medium.com/p/0b6785713e1f) |
+| Mon, 21 Jul 2025 06:15:44 GMT | For Housekeeping and Security Team: | EXLITY | [Read More](https://medium.com/p/4228081a7ac8) |
+| Mon, 21 Jul 2025 06:12:08 GMT | TOPIC: STORY OF A CORRUPT POLICE MAN. | Danjuma Plangkat | [Read More](https://medium.com/p/6ae085af3ffd) |
+| Mon, 21 Jul 2025 06:10:54 GMT | Finstein’s 24x7 CSOC: Powering Cyber Resilience & Compliance in India | Finstein.ai | [Read More](https://medium.com/p/0e27cc74014b) |
+| Mon, 21 Jul 2025 06:09:58 GMT | Silver Halides in Early Film Technology | bispendra jewels | [Read More](https://medium.com/p/7a4caf94e8d7) |
+| Mon, 21 Jul 2025 06:05:49 GMT | PortSwigger Lab: Remote code execution via polyglot web shell upload writeup (File Upload… | awes0meness | [Read More](https://medium.com/p/7deb2dda13f6) |
+| Mon, 21 Jul 2025 06:02:49 GMT | PortSwigger Lab: Web shell upload via obfuscated file extension writeup (File Upload… | awes0meness | [Read More](https://medium.com/p/68137f8b3ee9) |
+| Mon, 21 Jul 2025 06:01:50 GMT | Bug Hunter’s  Career is going to End Be Alert ! [in 2025] | Mr Horbio | [Read More](https://medium.com/p/aa05dc8a6f13) |
+| Mon, 21 Jul 2025 06:00:48 GMT | Today’s Top Cyber Intelligence Highlights — Jul 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9c95358c4e9e) |
+| Mon, 21 Jul 2025 05:57:10 GMT | PortSwigger Lab: Web shell upload via extension blacklist bypass writeup (File Upload… | awes0meness | [Read More](https://medium.com/p/54769b1343f1) |
+| Mon, 21 Jul 2025 05:55:35 GMT | MCP and A2A in AI Agent Protocols — Security considerations (I) | SOCFortress | [Read More](https://medium.com/p/d8b34905316b) |
+| Mon, 21 Jul 2025 05:55:09 GMT | Data Security in Call Centres — Best Practices by Narendra Pahuja | Narendra Pahuja Naren Pahuja | [Read More](https://medium.com/p/642f295c18de) |
+| Mon, 21 Jul 2025 05:52:56 GMT | Outrage Is the Business Model | Matas Rimkus | [Read More](https://medium.com/p/4f57022c979f) |
+| Mon, 21 Jul 2025 05:52:42 GMT | How Internal Audit Drives Compliance & Innovation and How COMPASS Empowers It | COMPASS | [Read More](https://medium.com/p/c18725609445) |
+| Mon, 21 Jul 2025 05:52:40 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/cce9f6501c75) |
+| Mon, 21 Jul 2025 05:48:35 GMT | The News Is a Drug. And You’re Hooked. | Matas Rimkus | [Read More](https://medium.com/p/920e0acf8b0b) |
+| Mon, 21 Jul 2025 05:48:09 GMT | Application Penetration Testing: Securing Web & Mobile Apps in a Volatile Digital Era | DefenceRabbit | [Read More](https://medium.com/p/569bdc25b514) |
 | Mon, 21 Jul 2025 05:46:33 GMT | Turning Big Ideas Into Real Results: A Human Approach to Digital Growth | Generaltester | [Read More](https://medium.com/p/d57ba1812bc2) |
 | Mon, 21 Jul 2025 05:43:43 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/f1aaa7c028d1) |
 | Mon, 21 Jul 2025 05:35:48 GMT | THM — Attacktive Directory | Cyber Anom | [Read More](https://medium.com/p/280498827dc6) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 22:16:59 GMT | Protecting SCADA Systems From Remote Attacks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5f80e1c6ffd5) |
 | Sun, 20 Jul 2025 22:03:10 GMT | Ensuring Security in Docker Containers: Best Practices | @rnab | [Read More](https://medium.com/p/6ccd0afdf8ed) |
 | Sun, 20 Jul 2025 21:58:44 GMT | Exposed: How Hackers Bypass Microsoft 365 MFA Using Advanced Phishing Tools | Lawrence Teixeira | [Read More](https://medium.com/p/b420ba2c7905) |
-| Sun, 20 Jul 2025 21:39:31 GMT | WormGPT: The Chatbot That Doesn’t Play Nice. But Taught Me Everything About Prompt Security. | Dom 'Tudell Mika' | [Read More](https://medium.com/p/878ead4babf1) |
-| Sun, 20 Jul 2025 21:34:45 GMT | 8 Wild Technologies Turning SWAT Teams Into Real-Life Sci-Fi | Gloria Writes | [Read More](https://medium.com/p/5b869513a05d) |
-| Sun, 20 Jul 2025 21:31:21 GMT | I Found Hidden Vulnerabilities in Just 3 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/178f0e14ddb1) |
-| Sun, 20 Jul 2025 21:20:21 GMT | Where Do You Begin Again? | Jamie Trott | [Read More](https://medium.com/p/9c06e87802c6) |
-| Sun, 20 Jul 2025 21:20:13 GMT | Understanding CORS, CSRF & XSS: For Anyone Who’s Felt Confused. | Mihir Hundiwala | [Read More](https://medium.com/p/9c09bcc765f2) |
-| Sun, 20 Jul 2025 21:14:53 GMT | How to Make the Most of Your Bug $BUG Yield Rewards | Bug | [Read More](https://medium.com/p/3e6a9d3f3258) |
-| Sun, 20 Jul 2025 21:11:36 GMT | Getting Started with Microsoft Defender XDR | Eyad Hasanato | [Read More](https://medium.com/p/35bc57f7a73c) |
-| Sun, 20 Jul 2025 21:08:18 GMT | Kubernetes: Just Deploying a Pod… Problem? | W. Jenks Gibbons | [Read More](https://medium.com/p/eba7cd44f454) |
-| Sun, 20 Jul 2025 20:56:15 GMT | Mastering Shodan for Bug Bounty and Penetration Testing | Santhosh Adiga U | [Read More](https://medium.com/p/f4015f49543c) |
-| Sun, 20 Jul 2025 20:54:23 GMT | [Web Security Academy] — Server-Side Vulnerabilities / Path Traversal | Voltsec | [Read More](https://medium.com/p/cf8104faaf1a) |
-| Sun, 20 Jul 2025 20:54:22 GMT | Broken Access Control to Gain Unauthorized Role Management in a Public Program | Bassemwanies | [Read More](https://medium.com/p/6925f83d0dc4) |
-| Sun, 20 Jul 2025 20:54:09 GMT | LinkVortex: HTB WriteUp | Jad Ghamloush | [Read More](https://medium.com/p/2679e1e773d7) |
-| Sun, 20 Jul 2025 20:50:05 GMT | CoinDCX Hack: How a $44 Million Heist Reminds Us Not to Let Our Guard Down in Crypto | Chhavi Lamba | [Read More](https://medium.com/p/f67f14f717a3) |
-| Sun, 20 Jul 2025 20:49:36 GMT | AGENT SSH- LangChain, LangGraph, Paramiko | own_the_net | [Read More](https://medium.com/p/e7f52bd63725) |
-| Sun, 20 Jul 2025 20:46:54 GMT | Cybersecurity for Small Businesses — Stay Safe & Secure Now | The Daily Technology | [Read More](https://medium.com/p/9cbaf98b9bb6) |
-| Sun, 20 Jul 2025 20:45:53 GMT | Why SentinelOne Might Be the Dark-Horse Winner in Cybersecurity’s 2025 Slump | Jeremy Smith | [Read More](https://medium.com/p/5016888c9c55) |
-| Sun, 20 Jul 2025 20:44:32 GMT | Top 5 Free Firewall Software Tools to Instantly Boost Your Security | The Daily Technology | [Read More](https://medium.com/p/fbcf8c850bde) |
-| Sun, 20 Jul 2025 20:31:51 GMT | Subdomain Enumeration: Unleashing the First Strike in Bug Bounty Recon | SAMAEL 0x4 | [Read More](https://medium.com/p/9eee03da3c89) |
-| Sun, 20 Jul 2025 20:15:56 GMT | Backend proqramlarda @ simvolu olan parollar niyə problem yaradır? | Nijat Aliyev | [Read More](https://medium.com/p/762760f252f2) |
