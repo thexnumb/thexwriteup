@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 09:14:20 GMT | How to Spot Fake Aadhaar Cards Made by AI | Deeya | [Read More](https://medium.com/p/95c948ddaf4a) |
+| Mon, 21 Jul 2025 09:11:46 GMT | The Myth of Wanting the Truth | The Simple Mind | [Read More](https://medium.com/p/f99ff6eb5908) |
+| Mon, 21 Jul 2025 09:07:54 GMT | Cybersecurity Awareness — Data Loss Prevention (DLP): Protecting Sensitive Information in… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/81dc9cf55004) |
+| Mon, 21 Jul 2025 09:06:59 GMT | Risk Assessments and Security Audits: Beyond Compliance — Toward Constructive Conversations | Jair Abrego Cubilla | [Read More](https://medium.com/p/ee7c08a0b114) |
+| Mon, 21 Jul 2025 09:06:12 GMT | DSP Consultants as Approved Advisors by SIRA | DSP Consultants Services | [Read More](https://medium.com/p/39b9b76dbeba) |
+| Mon, 21 Jul 2025 09:03:00 GMT | Deconstructing Cyber Threats: A Power BI Analysis of Global Attack Trends | Mike Yousefizadeh | [Read More](https://medium.com/p/7ba8b2d673e6) |
+| Mon, 21 Jul 2025 09:02:40 GMT | How I Started in Cybersecurity with Zero Experience | Ritim Ghusraan | [Read More](https://medium.com/p/6e8dbf5caaab) |
+| Mon, 21 Jul 2025 08:59:00 GMT | How I learned about Subdomain takeover? | CosmicByte | [Read More](https://medium.com/p/e4823366b3f8) |
+| Mon, 21 Jul 2025 08:56:36 GMT | The 2025 SIM Swap Surge: Telecoms Under Siege | Taiyab Lokhandwala | [Read More](https://medium.com/p/46d411ac9233) |
+| Mon, 21 Jul 2025 08:53:58 GMT | Why Small Businesses Need a Professional Marketing Partner | Bhavesh Rajpurohit | [Read More](https://medium.com/p/74e524627408) |
+| Mon, 21 Jul 2025 08:49:30 GMT | Maybe I’m not good at letting go | Jass | [Read More](https://medium.com/p/0a1c80485f4b) |
+| Mon, 21 Jul 2025 08:37:13 GMT | Aegona at iTECH EXPO 2025: Insights from a Tech-Focused Visit | Yên - Aegona Apac | [Read More](https://medium.com/p/b7bd36ddc1ba) |
+| Mon, 21 Jul 2025 08:36:33 GMT | Why a Bachelor’s Degree in Cybersecurity Is the Smartest Investment for Your Future | Shreyashettyctr | [Read More](https://medium.com/p/eb3679a1418f) |
+| Mon, 21 Jul 2025 08:30:35 GMT | Intelligent Automation 2025: Der ultimative Leitfaden für Ihre digitale Transformation | Philip Hansen | [Read More](https://medium.com/p/9bf3cc16e9d9) |
+| Mon, 21 Jul 2025 08:30:32 GMT | Der ultimative Intelligent Automation Roadmap: Ihr Blueprint für nachhaltigen Geschäftserfolg | Philip Hansen | [Read More](https://medium.com/p/d0e4439e301c) |
+| Mon, 21 Jul 2025 08:30:25 GMT | Intelligent Automation Services: Der ultimative Praxisleitfaden für intelligente… | Philip Hansen | [Read More](https://medium.com/p/cb72fc915960) |
 | Mon, 21 Jul 2025 08:14:11 GMT | Cybersecurity in SQL Server: Protecting the Heart of Your Data Infrastructure | Syed Faysal Ali | [Read More](https://medium.com/p/1a632704aecd) |
 | Mon, 21 Jul 2025 08:07:00 GMT | Southwest’s Turbulent Transition: Taketh Away, Giveth Back? | Namir Sagheenanajar | [Read More](https://medium.com/p/d4eef86dd4a9) |
 | Mon, 21 Jul 2025 08:03:35 GMT | Mastering Apple Device Management in 2025 | Vantage MDM | [Read More](https://medium.com/p/e321256755a5) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 05:01:46 GMT | “Web Application Firewalls Explained: Everyday Analogies for Beginners” | Ahmet Soner | [Read More](https://medium.com/p/06d3688b9250) |
 | Mon, 21 Jul 2025 04:55:54 GMT | Unpatched SharePoint Zero Day is Actively Exploiting!!! CVE‑2025‑53770 | Rukshana Alikhan | [Read More](https://medium.com/p/891d7a58080d) |
 | Mon, 21 Jul 2025 04:53:40 GMT | ⚠️ CVE-2025–54309: Critical CrushFTP Zero-Day Under Active Exploitation – What You Need to Know | CYber VIaz | [Read More](https://medium.com/p/23cc27e4f0be) |
-| Mon, 21 Jul 2025 04:53:24 GMT | Defense Against the Dark Codes: A Muggle’s Guide to the $302 Billion Wizarding War | Puneet Srivastava | [Read More](https://medium.com/p/570176163181) |
-| Mon, 21 Jul 2025 04:51:44 GMT | ประจำวันจันทร์ที่ 21 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/412073e10a53) |
-| Mon, 21 Jul 2025 04:51:07 GMT | Please stick to URLHaus API for URL Scans | Udit | [Read More](https://medium.com/p/fe6e3c9a804b) |
-| Mon, 21 Jul 2025 04:51:04 GMT | Xss injection Automation | Rishav anand | [Read More](https://medium.com/p/d44d4b53664c) |
-| Mon, 21 Jul 2025 04:29:51 GMT | The Real Threat to Cybersecurity? It’s Not What You Think | Xperts Unimited | [Read More](https://medium.com/p/6959cd17e573) |
-| Mon, 21 Jul 2025 04:26:26 GMT | Securing RAG Pipelines: A Cybersecurity Guide for AI Practitioners | Suhail R. Ahmad | [Read More](https://medium.com/p/bef11cb63e6c) |
-| Mon, 21 Jul 2025 04:02:05 GMT | LameHug Malware Leveraging LLM for Dynamic Command Execution on Windows Systems. | Geethu_Giri | [Read More](https://medium.com/p/aa13d1e31af5) |
-| Mon, 21 Jul 2025 03:53:34 GMT | Ethereum Needs Its Immune System and Drosera Is Ready | 0xsmile | [Read More](https://medium.com/p/9e6999cca31b) |
-| Mon, 21 Jul 2025 03:47:58 GMT | Deconstructing the Crocodile Vector | Praharsha Kumar | [Read More](https://medium.com/p/e23d58fb63dd) |
-| Mon, 21 Jul 2025 03:39:00 GMT | Think You Can Hack It? Here’s How to Become a Penetration Tester in 2025 | Girish Kumar Benvanshi | [Read More](https://medium.com/p/a7b1adb75551) |
-| Mon, 21 Jul 2025 03:38:18 GMT | HTB Challenge — PINsmith | Fardeen Ahmed | [Read More](https://medium.com/p/af58e33e1cd1) |
-| Mon, 21 Jul 2025 03:34:17 GMT | Neural Gravity: How Large Language Models Bend the Fabric of Meaning | John Boren | [Read More](https://medium.com/p/87c57d812878) |
-| Mon, 21 Jul 2025 03:33:02 GMT | The Digital Battleground: How Cybersecurity and AI Advancements Are Reshaping Our Connected World | Akshat Ratanpal | [Read More](https://medium.com/p/31b7ed99df1b) |
-| Mon, 21 Jul 2025 03:33:01 GMT | Cybersecurity Books That Read Like Thrillers (8 Picks) | Chaos Engineer | [Read More](https://medium.com/p/a2a5dae9684b) |
-| Mon, 21 Jul 2025 03:33:00 GMT | Sequel Walkthrough: From Open Port to Database Flag | Praharsha Kumar | [Read More](https://medium.com/p/b276832e0217) |
-| Mon, 21 Jul 2025 03:25:35 GMT | The Cybersecurity Skills You Must Learn by 2025 (Or Risk Falling Behind) | Girish Kumar Benvanshi | [Read More](https://medium.com/p/a2a81904c2b2) |
