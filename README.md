@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 05:17:12 GMT | HPE Aruba Networking SASE: A Comprehensive GuideHPE Aruba Networking SASE: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/27bd6e80111d) |
+| Mon, 21 Jul 2025 05:15:02 GMT | 從工程測試到量子通訊模擬：AWS Braket 生態系的部署藍圖與實務思考 | Tiffany Chiang | [Read More](https://medium.com/p/d8317e074490) |
+| Mon, 21 Jul 2025 05:12:36 GMT | HTB CTF Write Up #2 | Devanshi Chavda | [Read More](https://medium.com/p/b0df50e0e1f6) |
+| Mon, 21 Jul 2025 05:10:59 GMT | Understanding MAC & IP Addresses — The Backbone of Network Communication | CYber VIaz | [Read More](https://medium.com/p/79d238c6ec69) |
+| Mon, 21 Jul 2025 05:07:08 GMT | Money Mule Scams: How Innocent People Become Part of Cybercrime Networks | OLC Agra | [Read More](https://medium.com/p/b9bba5e461ec) |
+| Mon, 21 Jul 2025 05:06:01 GMT | Ethereum’s Quiet Crisis: When Crypto Wallet Wears Out The Hardware | Bisistha Patra | [Read More](https://medium.com/p/3b3bf687c8a2) |
+| Mon, 21 Jul 2025 05:06:00 GMT | The Hacker Had a Playbook — So I Built My Own | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/0a2b6da33258) |
+| Mon, 21 Jul 2025 05:01:50 GMT | Week 4: Microsoft Purview Deep Dive | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/0812f6aba596) |
+| Mon, 21 Jul 2025 05:01:46 GMT | “Web Application Firewalls Explained: Everyday Analogies for Beginners” | Ahmet Soner | [Read More](https://medium.com/p/06d3688b9250) |
+| Mon, 21 Jul 2025 04:55:54 GMT | Unpatched SharePoint Zero Day is Actively Exploiting!!! CVE‑2025‑53770 | Rukshana Alikhan | [Read More](https://medium.com/p/891d7a58080d) |
+| Mon, 21 Jul 2025 04:53:40 GMT | ⚠️ CVE-2025–54309: Critical CrushFTP Zero-Day Under Active Exploitation – What You Need to Know | CYber VIaz | [Read More](https://medium.com/p/23cc27e4f0be) |
+| Mon, 21 Jul 2025 04:53:24 GMT | Defense Against the Dark Codes: A Muggle’s Guide to the $302 Billion Wizarding War | Puneet Srivastava | [Read More](https://medium.com/p/570176163181) |
+| Mon, 21 Jul 2025 04:51:44 GMT | ประจำวันจันทร์ที่ 21 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/412073e10a53) |
+| Mon, 21 Jul 2025 04:51:07 GMT | Please stick to URLHaus API for URL Scans | Udit | [Read More](https://medium.com/p/fe6e3c9a804b) |
+| Mon, 21 Jul 2025 04:51:04 GMT | Xss injection Automation | Rishav anand | [Read More](https://medium.com/p/d44d4b53664c) |
 | Mon, 21 Jul 2025 04:29:51 GMT | The Real Threat to Cybersecurity? It’s Not What You Think | Xperts Unimited | [Read More](https://medium.com/p/6959cd17e573) |
 | Mon, 21 Jul 2025 04:26:26 GMT | Securing RAG Pipelines: A Cybersecurity Guide for AI Practitioners | Suhail R. Ahmad | [Read More](https://medium.com/p/bef11cb63e6c) |
 | Mon, 21 Jul 2025 04:02:05 GMT | LameHug Malware Leveraging LLM for Dynamic Command Execution on Windows Systems. | Geethu_Giri | [Read More](https://medium.com/p/aa13d1e31af5) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 19:03:20 GMT | Red Team: A Importância de Ter Objetivos Claros e Expectativas Alinhadas | Edcarlos Junior | [Read More](https://medium.com/p/fb6f1cf49e65) |
 | Sun, 20 Jul 2025 19:02:57 GMT | July 20, 2025 –Quiet But Full | IamGhost | [Read More](https://medium.com/p/f154425bd0a6) |
 | Sun, 20 Jul 2025 19:01:58 GMT | Welcome to The Informatics Hub — Where Knowledge Empowers Your Everyday | Theinformaticshub | [Read More](https://medium.com/p/80a5b74d967f) |
-| Sun, 20 Jul 2025 18:59:05 GMT | Fashion and Lifestyle: Expressing Identity with style | Theinformaticshub | [Read More](https://medium.com/p/fd7b92ed9a9c) |
-| Sun, 20 Jul 2025 18:58:36 GMT | About me | Raúl Ereño | [Read More](https://medium.com/p/7634b3519a9d) |
-| Sun, 20 Jul 2025 18:57:38 GMT | Introduction to Cryptography and ROT13: The Beginner’s Gateway to Encryption | Allen Ace | [Read More](https://medium.com/p/6d1977df57d9) |
-| Sun, 20 Jul 2025 18:55:51 GMT | Exploring Diverse Metrics for Enhancing Security Operations Effectiveness | Kuldeeplodi | [Read More](https://medium.com/p/b644fbea3637) |
-| Sun, 20 Jul 2025 18:49:18 GMT | Step-by-Step Guide to Real-World Information Disclosure Vulnerabilities | Rajkumar Kumawat | [Read More](https://medium.com/p/4da3377d780f) |
-| Sun, 20 Jul 2025 18:45:12 GMT | How I Automated Recon, Scanning, and Exploitation with GPT + Burp (Deep Dive) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9df09313eed2) |
-| Sun, 20 Jul 2025 18:44:46 GMT | Staging Sites, Admin:Admin, and a $500 Payday | Rutvik Kalkumbe | [Read More](https://medium.com/p/f45cc481ad1a) |
-| Sun, 20 Jul 2025 18:44:01 GMT | Chaining Vulnerabilities for Account Takeovers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/26fa6183216d) |
-| Sun, 20 Jul 2025 18:43:32 GMT | Weaponizing Misconfigurations | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8044949aa7f9) |
-| Sun, 20 Jul 2025 18:39:55 GMT | The Secret Agent Behind Every Website: A Hilarious Journey into DNS (with Google.com as Our Guide!) | Karan Desai | [Read More](https://medium.com/p/b2bf4ff4e940) |
-| Sun, 20 Jul 2025 18:34:28 GMT | I Don’t Know. I Really Don’t Know | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/0d113b961218) |
-| Sun, 20 Jul 2025 18:34:11 GMT | SOC Metrics: A Comprehensive Guide to Security Operations Evaluation | @rRr | [Read More](https://medium.com/p/3fb9a01c62ff) |
-| Sun, 20 Jul 2025 18:29:22 GMT | Hacking Windows 7 with EternalBlue (MS17–010) Using Metasploit: An Ethical Hacking Walkthrough | Pranav V | [Read More](https://medium.com/p/1e54306cc9dd) |
-| Sun, 20 Jul 2025 18:28:50 GMT | Security Misconfiguration — Sensitive Data Exposure via Google Dorks ($25 — $100) | Abin | [Read More](https://medium.com/p/63da5dc83f67) |
-| Sun, 20 Jul 2025 18:28:36 GMT | Did The Crypto Exchange CoinDCX Get Hacked? | Nivedita Baidya | [Read More](https://medium.com/p/4434d53d030b) |
