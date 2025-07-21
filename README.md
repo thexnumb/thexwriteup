@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 23:19:20 GMT | Let’s Defend: 85 — SOC109 — Emotet Malware Detected - Writeup | EPereda | [Read More](https://medium.com/p/0713762b24ac) |
+| Mon, 21 Jul 2025 23:18:12 GMT | Let’s Defend: 84 — SOC104 — Malware Detected - Writeup | EPereda | [Read More](https://medium.com/p/fe65509485fe) |
+| Mon, 21 Jul 2025 23:15:54 GMT | Writeup — Lazy YAML (Web) — BDSec CTF 2025 | TIOURSI YASSER | [Read More](https://medium.com/p/1bf401c7daf2) |
+| Mon, 21 Jul 2025 23:15:26 GMT | Let’s Defend: 83 — SOC119 — Proxy — Malicious Executable File Detected - Writeup | EPereda | [Read More](https://medium.com/p/5948a5c09ec8) |
+| Mon, 21 Jul 2025 23:00:24 GMT | I will write a cybersecurity, grc consultant, cryptography engineer, and a cissp resume | Adebisitijani | [Read More](https://medium.com/p/18e1e8928e07) |
+| Mon, 21 Jul 2025 22:57:38 GMT | Most Cookies CTFs Write-up | -_ENIGMA_- | [Read More](https://medium.com/p/4d0f8cac444a) |
+| Mon, 21 Jul 2025 22:51:38 GMT | ️ AI–Cybersecurity Weekly — 15 Updates | Tal Eliyahu | [Read More](https://medium.com/p/5ace9a89af9d) |
+| Mon, 21 Jul 2025 22:51:36 GMT | Kubernetes: Configure a debug Pod for the Restricted Pod Security Standard | W. Jenks Gibbons | [Read More](https://medium.com/p/3f9db7d01a43) |
+| Mon, 21 Jul 2025 22:48:33 GMT | CSRF Post Request | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/ce755a9d0e71) |
 | Mon, 21 Jul 2025 22:44:44 GMT | Not All Cyber Heroes Wear Hoodies… | The Quiet Layer | [Read More](https://medium.com/p/f764e157c875) |
 | Mon, 21 Jul 2025 22:41:19 GMT | From Theory to Terminal: My Journey Into Ethical Hacking | F3rrox_901a | [Read More](https://medium.com/p/9a966af0fdb3) |
+| Mon, 21 Jul 2025 22:40:15 GMT | The U.S. Really Doesn’t Care About National Security | Dr. Daniel Ward | [Read More](https://medium.com/p/6c2cbf30d2c6) |
+| Mon, 21 Jul 2025 22:39:20 GMT | Understanding Job Market VS AI | Tharun vardhineni | [Read More](https://medium.com/p/b19925b76b08) |
+| Mon, 21 Jul 2025 22:37:45 GMT | VulnApp: The Flutter App You Should Never Build (But Absolutely Should Try) | zero un | [Read More](https://medium.com/p/2078a386a2f1) |
 | Mon, 21 Jul 2025 22:29:41 GMT | The Strategic Case for Fractional CTOs and CIOs | Josh Welch | [Read More](https://medium.com/p/2527afc9c6b1) |
 | Mon, 21 Jul 2025 22:27:12 GMT | Designing Zeroseige — a PvP Hacking Strategy Game (or Chess for Hackers) | Princeton Ebanks | [Read More](https://medium.com/p/8cd02abd79f8) |
 | Mon, 21 Jul 2025 22:23:31 GMT | When Vibe Coding Goes Catastrophic: How Replit’s AI Deleted a Live Database and Lied About It | Aaron | [Read More](https://medium.com/p/af189087687f) |
@@ -101,15 +113,3 @@ You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar
 | Mon, 21 Jul 2025 16:13:01 GMT | The Secure Web App Checklist for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/7b23eb7195fe) |
 | Mon, 21 Jul 2025 16:12:36 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/2108b160dcbf) |
 | Mon, 21 Jul 2025 16:11:33 GMT | Drosera Testnet is open | ㅤ | [Read More](https://medium.com/p/c68cba445fee) |
-| Mon, 21 Jul 2025 16:10:30 GMT | CSRF, XSS, and Other Scary Acronyms: Explained Simply | Rizqi Mulki | [Read More](https://medium.com/p/78a10a29ba21) |
-| Mon, 21 Jul 2025 16:10:01 GMT | Why HTTPS Isn’t Enough: Layers of Real Web Security | Rizqi Mulki | [Read More](https://medium.com/p/4d3628a4dfed) |
-| Mon, 21 Jul 2025 16:03:10 GMT | Secret Management in Docker: Techniques and Tools | @rnab | [Read More](https://medium.com/p/01b91b992ea0) |
-| Mon, 21 Jul 2025 16:00:43 GMT | Cookie Monster Secret Recipe - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/bdb2d9f1086d) |
-| Mon, 21 Jul 2025 16:00:11 GMT | Protecting Your Node.js App: A Complete Security Walkthrough | Somendradev | [Read More](https://medium.com/p/752efb0f5720) |
-| Mon, 21 Jul 2025 15:57:56 GMT | Best Spy Apps for Monitoring Phone Calls, Texts, and More | Narjis Batool | [Read More](https://medium.com/p/a1561ca92b68) |
-| Mon, 21 Jul 2025 15:53:42 GMT | Intelligence Wars in the Digital Age: Hybrid Warfare, Cyber Sovereignty, and Securing the Supply… | Carsten Stöcker | [Read More](https://medium.com/p/9b656d761401) |
-| Mon, 21 Jul 2025 15:52:57 GMT | Double Kill: Patchwork Group Attacks the South Asian Government Against Both Windows and Android… | Phatomcandle | [Read More](https://medium.com/p/0b9e47108372) |
-| Mon, 21 Jul 2025 15:48:00 GMT | Business Logic Vulnerabilities part-10 : Infinite money logic flaw | Ahmad Sopyan | [Read More](https://medium.com/p/4c9e97bf75cc) |
-| Mon, 21 Jul 2025 15:37:37 GMT | Behind the Bug: How to Write a Professional Bug Bounty Report | Yukeshwaran N | [Read More](https://medium.com/p/8c78d1689184) |
-| Mon, 21 Jul 2025 15:36:35 GMT | Regulation of Financial Influencers: Navigating Securities Law Violations and SEC Enforcement | SEC Lawyer 101 | [Read More](https://medium.com/p/c8d1866d1704) |
-| Mon, 21 Jul 2025 15:34:22 GMT | Why We All Want to Be Seen — But Are So Afraid of It | Ben-David | [Read More](https://medium.com/p/23c3038b734c) |
