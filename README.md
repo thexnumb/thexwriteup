@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 23:35:37 GMT | The SSL Struggle Is Real: How I Got HTTPS Working on Azure Web Apps | Rani Kumari | [Read More](https://medium.com/p/a62d74a975d1) |
+| Mon, 21 Jul 2025 23:32:11 GMT | DefenseArk #ThreatIntelThursday - VPNs — Rewards and Risks — Part 1 | Kalpitha S | [Read More](https://medium.com/p/ad77c21c36ab) |
+| Mon, 21 Jul 2025 23:31:49 GMT | FortiGuard Inline Malware Prevention Service: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b20bf8287055) |
+| Mon, 21 Jul 2025 23:30:34 GMT | TryHackMe - Mr. Phisher- Write-Up | Andrey Dolya | [Read More](https://medium.com/p/495a81178179) |
+| Mon, 21 Jul 2025 23:23:09 GMT | Last Stick Standing | Brandon Morales | [Read More](https://medium.com/p/eb383a8bc9f0) |
+| Mon, 21 Jul 2025 23:21:23 GMT | Cheat sheet packed with actionable tips and practical examples, covering: | Nazeer | [Read More](https://medium.com/p/b07b5f61438b) |
 | Mon, 21 Jul 2025 23:19:20 GMT | Let’s Defend: 85 — SOC109 — Emotet Malware Detected - Writeup | EPereda | [Read More](https://medium.com/p/0713762b24ac) |
 | Mon, 21 Jul 2025 23:18:12 GMT | Let’s Defend: 84 — SOC104 — Malware Detected - Writeup | EPereda | [Read More](https://medium.com/p/fe65509485fe) |
 | Mon, 21 Jul 2025 23:15:54 GMT | Writeup — Lazy YAML (Web) — BDSec CTF 2025 | TIOURSI YASSER | [Read More](https://medium.com/p/1bf401c7daf2) |
@@ -107,9 +113,3 @@ You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar
 | Mon, 21 Jul 2025 16:31:49 GMT | AI-Powered Cybersecurity: The Future of Ethical Hacking and AI Defense | Sneha Rani | [Read More](https://medium.com/p/e6dd28a52673) |
 | Mon, 21 Jul 2025 16:29:14 GMT | How Phished npm Maintainers Let Malware Into 6 Popular Packages — And How You Can Shield Yourself | CyBlog | [Read More](https://medium.com/p/9de8bf42479b) |
 | Mon, 21 Jul 2025 16:25:04 GMT | Why Hackers Will Never Leak the Epstein Files — And What That Really Means | Shaant | [Read More](https://medium.com/p/219eb46a1ac3) |
-| Mon, 21 Jul 2025 16:16:58 GMT | Feroot PaymentGuard AI vs CSP: Which Script Security Tool Best Protects Payment Pages for PCI DSS 4. | Feroot Security | [Read More](https://medium.com/p/38171fbb5c9e) |
-| Mon, 21 Jul 2025 16:16:44 GMT | Where Words Aren’t Needed | Isha | [Read More](https://medium.com/p/6d9eb857f49c) |
-| Mon, 21 Jul 2025 16:13:05 GMT | Gremlin’s Guide | Iangdonohue | [Read More](https://medium.com/p/706b7f563938) |
-| Mon, 21 Jul 2025 16:13:01 GMT | The Secure Web App Checklist for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/7b23eb7195fe) |
-| Mon, 21 Jul 2025 16:12:36 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/2108b160dcbf) |
-| Mon, 21 Jul 2025 16:11:33 GMT | Drosera Testnet is open | ㅤ | [Read More](https://medium.com/p/c68cba445fee) |
