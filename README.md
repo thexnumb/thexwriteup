@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 14:07:41 GMT | “403 Forbidden? | Uday | [Read More](https://medium.com/p/a0843052612f) |
+| Mon, 21 Jul 2025 14:06:06 GMT | Spotting Fake Jobs on LinkedIn: Trust but Verify! | Travis Ray Caverhill | [Read More](https://medium.com/p/d8f56c11a608) |
+| Mon, 21 Jul 2025 14:04:18 GMT | Digital Skills Are the New Literacy | Sharon Makunura | [Read More](https://medium.com/p/4c52fcc4735c) |
+| Mon, 21 Jul 2025 14:03:37 GMT | AI vs AI: The Cybersecurity War Has Begun | Futuretools.Ae | [Read More](https://medium.com/p/c6f7661bf93f) |
+| Mon, 21 Jul 2025 14:03:01 GMT | Cyber Briefing: 2025.07.21 | CyberMaterial | [Read More](https://medium.com/p/770dddaafd51) |
+| Mon, 21 Jul 2025 13:57:35 GMT | TryHackMe — Request Smuggling: WebSockets | omni | [Read More](https://medium.com/p/01e63c55af1c) |
+| Mon, 21 Jul 2025 13:49:03 GMT | Why Recon Solana $RECON Growth Strategy Could Be Your Best Investment in 2025 | Recon Solana | [Read More](https://medium.com/p/35686a79c5d4) |
+| Mon, 21 Jul 2025 13:45:17 GMT | Digital Forensics | Arshad ali | [Read More](https://medium.com/p/f8107c482edb) |
+| Mon, 21 Jul 2025 13:45:05 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/aad6d592f75a) |
+| Mon, 21 Jul 2025 13:44:23 GMT | How to Earn Big by $BUG Yield Generation on StakingRewards | Bug | [Read More](https://medium.com/p/e6b973417fe7) |
+| Mon, 21 Jul 2025 13:41:54 GMT | Online Scams In 2025: What’s New And What’s Still Fooling People. | The Anti-Scam Diaries | [Read More](https://medium.com/p/48c8876d27b4) |
+| Mon, 21 Jul 2025 13:41:46 GMT | Zero-Knowledge Proofs Demystified: A Practical Code Guide for Developers | Ancilar Technologies | [Read More](https://medium.com/p/3f94682a852b) |
+| Mon, 21 Jul 2025 13:40:12 GMT | Building a Secure JWT Authenticator with Spring Boot — Step-by-Step Guide | Bilsinak | [Read More](https://medium.com/p/991fba9a8bcf) |
+| Mon, 21 Jul 2025 13:38:32 GMT | Lab: Username enumeration via different responses | Mukilan Baskaran | [Read More](https://medium.com/p/15d06fa9fb99) |
 | Mon, 21 Jul 2025 13:34:47 GMT | CVE-2025-53770: A Critical Zero-Day RCE Vulnerability in Microsoft SharePoint Server | Maggs | [Read More](https://medium.com/p/5e56f0636dec) |
 | Mon, 21 Jul 2025 13:34:11 GMT | How to Set Up a VPS for Bug Bounty: DigitalOcean Setup Guide + Essential Tools (2025) | Manzjson | [Read More](https://medium.com/p/4212366d79f9) |
+| Mon, 21 Jul 2025 13:33:28 GMT | Why Every Business Needs a Cyber Incident Response Plan | Cybersecurity Umbrella | [Read More](https://medium.com/p/dc041b570c4c) |
+| Mon, 21 Jul 2025 13:33:04 GMT | RST TI Report Digest: 21 Jul 2025 | RST Cloud | [Read More](https://medium.com/p/60d448c81cba) |
 | Mon, 21 Jul 2025 13:26:39 GMT | Unlock Growth Now: How Digital Engineering Propels Modern Industries Forward | Haridas G | [Read More](https://medium.com/p/4aa66d07f7da) |
 | Mon, 21 Jul 2025 13:22:46 GMT | HAPPY NEW WEEK! | Sybil Amarachi Ikechukwu | [Read More](https://medium.com/p/f27260743023) |
 | Mon, 21 Jul 2025 13:16:27 GMT | Kloudportal Case Study: WAN Transformation Impact | Violin Tec | [Read More](https://medium.com/p/b93a3db921fa) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 09:38:47 GMT | 5 Kali Linux Tricks That Instantly Make You a Hacker | Rue | [Read More](https://medium.com/p/94728f7026cb) |
 | Mon, 21 Jul 2025 09:14:20 GMT | How to Spot Fake Aadhaar Cards Made by AI | Deeya | [Read More](https://medium.com/p/95c948ddaf4a) |
 | Mon, 21 Jul 2025 09:11:46 GMT | The Myth of Wanting the Truth | The Simple Mind | [Read More](https://medium.com/p/f99ff6eb5908) |
-| Mon, 21 Jul 2025 09:07:54 GMT | Cybersecurity Awareness — Data Loss Prevention (DLP): Protecting Sensitive Information in… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/81dc9cf55004) |
-| Mon, 21 Jul 2025 09:06:59 GMT | Risk Assessments and Security Audits: Beyond Compliance — Toward Constructive Conversations | Jair Abrego Cubilla | [Read More](https://medium.com/p/ee7c08a0b114) |
-| Mon, 21 Jul 2025 09:06:39 GMT | Footprinting & Reconnaissance | Median Talenta Raya | [Read More](https://medium.com/p/3138cc9b0c36) |
-| Mon, 21 Jul 2025 09:06:12 GMT | DSP Consultants as Approved Advisors by SIRA | DSP Consultants Services | [Read More](https://medium.com/p/39b9b76dbeba) |
-| Mon, 21 Jul 2025 09:03:00 GMT | Deconstructing Cyber Threats: A Power BI Analysis of Global Attack Trends | Mike Yousefizadeh | [Read More](https://medium.com/p/7ba8b2d673e6) |
-| Mon, 21 Jul 2025 09:02:40 GMT | How I Started in Cybersecurity with Zero Experience | Ritim Ghusraan | [Read More](https://medium.com/p/6e8dbf5caaab) |
-| Mon, 21 Jul 2025 08:59:00 GMT | How I learned about Subdomain takeover? | CosmicByte | [Read More](https://medium.com/p/e4823366b3f8) |
-| Mon, 21 Jul 2025 08:56:36 GMT | The 2025 SIM Swap Surge: Telecoms Under Siege | Taiyab Lokhandwala | [Read More](https://medium.com/p/46d411ac9233) |
-| Mon, 21 Jul 2025 08:53:58 GMT | Why Small Businesses Need a Professional Marketing Partner | Bhavesh Rajpurohit | [Read More](https://medium.com/p/74e524627408) |
-| Mon, 21 Jul 2025 08:49:30 GMT | Maybe I’m not good at letting go | Jass | [Read More](https://medium.com/p/0a1c80485f4b) |
-| Mon, 21 Jul 2025 08:37:13 GMT | Aegona at iTECH EXPO 2025: Insights from a Tech-Focused Visit | Yên - Aegona Apac | [Read More](https://medium.com/p/b7bd36ddc1ba) |
-| Mon, 21 Jul 2025 08:36:33 GMT | Why a Bachelor’s Degree in Cybersecurity Is the Smartest Investment for Your Future | Shreyashettyctr | [Read More](https://medium.com/p/eb3679a1418f) |
-| Mon, 21 Jul 2025 08:30:35 GMT | Intelligent Automation 2025: Der ultimative Leitfaden für Ihre digitale Transformation | Philip Hansen | [Read More](https://medium.com/p/9bf3cc16e9d9) |
-| Mon, 21 Jul 2025 08:30:32 GMT | Der ultimative Intelligent Automation Roadmap: Ihr Blueprint für nachhaltigen Geschäftserfolg | Philip Hansen | [Read More](https://medium.com/p/d0e4439e301c) |
-| Mon, 21 Jul 2025 08:30:25 GMT | Intelligent Automation Services: Der ultimative Praxisleitfaden für intelligente… | Philip Hansen | [Read More](https://medium.com/p/cb72fc915960) |
-| Mon, 21 Jul 2025 08:14:11 GMT | Cybersecurity in SQL Server: Protecting the Heart of Your Data Infrastructure | Syed Faysal Ali | [Read More](https://medium.com/p/1a632704aecd) |
