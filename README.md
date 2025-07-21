@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 05:46:33 GMT | Turning Big Ideas Into Real Results: A Human Approach to Digital Growth | Generaltester | [Read More](https://medium.com/p/d57ba1812bc2) |
+| Mon, 21 Jul 2025 05:43:43 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/f1aaa7c028d1) |
+| Mon, 21 Jul 2025 05:35:48 GMT | THM — Attacktive Directory | Cyber Anom | [Read More](https://medium.com/p/280498827dc6) |
+| Mon, 21 Jul 2025 05:33:08 GMT | Acalvio ShadowPlex: A Powerful Platform Dedicated to Cyber Deception | Adam Goss | [Read More](https://medium.com/p/23021142db93) |
+| Mon, 21 Jul 2025 05:32:20 GMT | Reverse Proxy Deep Dive: Part 2 | mitendra mahto | [Read More](https://medium.com/p/2dfafd11dd4c) |
+| Mon, 21 Jul 2025 05:29:50 GMT | How I Found a Bug in 1 minute | RivuDon | [Read More](https://medium.com/p/c81dc179d0aa) |
+| Mon, 21 Jul 2025 05:29:25 GMT | $500 Bounty: DOM-Based XSS in Gatecoin’s Charting Library | Monika sharma | [Read More](https://medium.com/p/e21e40c4f270) |
+| Mon, 21 Jul 2025 05:29:03 GMT | ️ Web3 Security Weekly — July 14–20, 2025 | Null Return | [Read More](https://medium.com/p/ebab4ec68d32) |
+| Mon, 21 Jul 2025 05:27:57 GMT | Is Your Business Secure? The Ultimate Guide to Cybersecurity for Indian Businesses in 2025 | Best Tech Company | [Read More](https://medium.com/p/372da8ec006b) |
+| Mon, 21 Jul 2025 05:27:38 GMT | The Password Graveyard: Why Yours is Dead on Arrival | Aj | [Read More](https://medium.com/p/c20c0575f8a2) |
+| Mon, 21 Jul 2025 05:27:27 GMT | I Followed This Recon Checklist and Found 12 Bugs in 1 Week | Ibtissam hammadi | [Read More](https://medium.com/p/1e546a0d8b2e) |
+| Mon, 21 Jul 2025 05:24:54 GMT | Top 7 Traits to Look for in a Cyber Security Development Company Today | Webtrills | [Read More](https://medium.com/p/9dd30226ad63) |
+| Mon, 21 Jul 2025 05:24:10 GMT | FileFix: The Silent Social Engineering Threat Nobody Saw Coming | Paritosh | [Read More](https://medium.com/p/c5c79c054630) |
 | Mon, 21 Jul 2025 05:17:12 GMT | HPE Aruba Networking SASE: A Comprehensive GuideHPE Aruba Networking SASE: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/27bd6e80111d) |
 | Mon, 21 Jul 2025 05:15:02 GMT | 從工程測試到量子通訊模擬：AWS Braket 生態系的部署藍圖與實務思考 | Tiffany Chiang | [Read More](https://medium.com/p/d8317e074490) |
 | Mon, 21 Jul 2025 05:12:36 GMT | HTB CTF Write Up #2 | Devanshi Chavda | [Read More](https://medium.com/p/b0df50e0e1f6) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 20:44:32 GMT | Top 5 Free Firewall Software Tools to Instantly Boost Your Security | The Daily Technology | [Read More](https://medium.com/p/fbcf8c850bde) |
 | Sun, 20 Jul 2025 20:31:51 GMT | Subdomain Enumeration: Unleashing the First Strike in Bug Bounty Recon | SAMAEL 0x4 | [Read More](https://medium.com/p/9eee03da3c89) |
 | Sun, 20 Jul 2025 20:15:56 GMT | Backend proqramlarda @ simvolu olan parollar niyə problem yaradır? | Nijat Aliyev | [Read More](https://medium.com/p/762760f252f2) |
-| Sun, 20 Jul 2025 20:07:05 GMT | $250 Bounty: Poisoning the Prototype: Exploiting Lodash’s Hidden Attack Surface | Monika sharma | [Read More](https://medium.com/p/bbc092de974c) |
-| Sun, 20 Jul 2025 19:40:54 GMT | Part one: The 4 Best Free Coding Resources for Students (Student-Friendly) | Lilith tavassoli | [Read More](https://medium.com/p/f3c975939224) |
-| Sun, 20 Jul 2025 19:35:19 GMT | How I Saved My WooCommerce Store from Being Hacked (And How You Can Too) | Dike Chiboka | [Read More](https://medium.com/p/5cdbc07ec192) |
-| Sun, 20 Jul 2025 19:34:23 GMT | Top Tech Trends That Will Shape the Future (2025–2030) | Fatimazahid | [Read More](https://medium.com/p/13b9d7c3c658) |
-| Sun, 20 Jul 2025 19:24:23 GMT | Cybersecurity Advancements in the Age of AI and Digital Transformation | GUOURIJA Taib | [Read More](https://medium.com/p/5528522326dc) |
-| Sun, 20 Jul 2025 19:16:32 GMT | Cybersecurity, AI, and Brand Trust: A Strategic Conversation | Raviteja Mureboina | [Read More](https://medium.com/p/32f8970bb8f1) |
-| Sun, 20 Jul 2025 19:11:12 GMT | How Data Breaches Fuel Identity Theft and Fake Identities (2025 Deep Dive) | ThreatWatch360 | [Read More](https://medium.com/p/5b0ba8f224b8) |
-| Sun, 20 Jul 2025 19:10:54 GMT | ️ PixelSink: Hunt Hidden Data Inside Images | Muhammet Ali AKBAK | [Read More](https://medium.com/p/07f866ca380c) |
-| Sun, 20 Jul 2025 19:10:43 GMT | ️ PixelSink: Görsellerde Gizli Veri Avcısı | Muhammet Ali AKBAK | [Read More](https://medium.com/p/85ef5e2762f8) |
-| Sun, 20 Jul 2025 19:06:06 GMT | The Ultimate Guide to Combating Fake Apps and Domain Spoofing (2025 Edition) | ThreatWatch360 | [Read More](https://medium.com/p/e1934f95f417) |
-| Sun, 20 Jul 2025 19:03:20 GMT | Red Team: A Importância de Ter Objetivos Claros e Expectativas Alinhadas | Edcarlos Junior | [Read More](https://medium.com/p/fb6f1cf49e65) |
-| Sun, 20 Jul 2025 19:02:57 GMT | July 20, 2025 –Quiet But Full | IamGhost | [Read More](https://medium.com/p/f154425bd0a6) |
-| Sun, 20 Jul 2025 19:01:58 GMT | Welcome to The Informatics Hub — Where Knowledge Empowers Your Everyday | Theinformaticshub | [Read More](https://medium.com/p/80a5b74d967f) |
