@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 17:41:04 GMT | Operationalizing Splunk for Blue Team Success: From Ingestion to Threat Detection | Mohamed Basil | [Read More](https://medium.com/p/cdd584e29c66) |
+| Mon, 21 Jul 2025 17:32:47 GMT | Что нужно, чтобы создать безопасный AGI? | Phala Network RU | [Read More](https://medium.com/p/3d4896293351) |
+| Mon, 21 Jul 2025 17:27:27 GMT | Light Is the New Firewall: Rethinking Cybersecurity from the Hardware Up | Derek Wayne Bailey | [Read More](https://medium.com/p/80e5ceb678ed) |
+| Mon, 21 Jul 2025 17:26:51 GMT | What is Zero Trust in Cybersecurity and How Does it Help? | Ray M | [Read More](https://medium.com/p/fdc7be307ab6) |
+| Mon, 21 Jul 2025 17:17:51 GMT | DAY 10: Whispers Of Last 21st of July | Akshatdwivedi | [Read More](https://medium.com/p/04be8b8f9691) |
+| Mon, 21 Jul 2025 17:14:09 GMT | What Makes Well Trained Security Guards in AL So Effective | Bailey360  Security | [Read More](https://medium.com/p/40af0d73a3eb) |
 | Mon, 21 Jul 2025 17:12:21 GMT | NEWSLETTER : McHire Data Breach: AI Cybersecurity Wake-Up Call and Innovation Blueprint for San… | Nitin Garg | [Read More](https://medium.com/p/4d32a30c7c97) |
 | Mon, 21 Jul 2025 17:09:48 GMT | “Mastering Stored XSS: Real-World Exploits and Advanced Bypass Techniques” | Aman Sharma | [Read More](https://medium.com/p/1ff2ce3a4e1e) |
 | Mon, 21 Jul 2025 17:05:32 GMT | Title: Introducing Quranium’s Qsafe Wallet: The Future of Faith-Based, Quantum-Secure Web3 | ♐DecentralizedDev | [Read More](https://medium.com/p/bee0f925fc58) |
@@ -107,9 +113,3 @@ You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar
 | Mon, 21 Jul 2025 12:47:13 GMT | Someday, But Not Today | Kaleigh Dugan | [Read More](https://medium.com/p/41d5795a64d2) |
 | Mon, 21 Jul 2025 12:39:43 GMT | Computer Training Institutes In Hyderabad | APEC | [Read More](https://medium.com/p/d3cb0730ae96) |
 | Mon, 21 Jul 2025 12:38:58 GMT | INTRODUCTION TO THREAT INTELLIGENCE | Nikhitha A | [Read More](https://medium.com/p/c49af4cb634c) |
-| Mon, 21 Jul 2025 12:38:13 GMT | Android App Security in 2025 — Biometrics, App Integrity, and Play Protect | Reza Ramesh | [Read More](https://medium.com/p/e13486387ae7) |
-| Mon, 21 Jul 2025 12:37:38 GMT | ProFTPD 1.3.5 CVE-2015–3306 Zafiyeti Üzerinden Uzaktan Kod Çalıştırma Senaryosu | Rvyd | [Read More](https://medium.com/p/9d16c4d6c585) |
-| Mon, 21 Jul 2025 12:35:03 GMT | Skilled Shopping Mall Security Guard in Manchester | Marvelloussecurities | [Read More](https://medium.com/p/a7dc38c4ee88) |
-| Mon, 21 Jul 2025 12:31:23 GMT | Protege tu identidad en línea | Emily Chan | [Read More](https://medium.com/p/b0b5e72de11f) |
-| Mon, 21 Jul 2025 12:31:23 GMT | Best Reconciliation Solutions for Banks: Features, Benefits, and Pricing | Kosh AI | [Read More](https://medium.com/p/1a244404bc7a) |
-| Mon, 21 Jul 2025 12:28:32 GMT | hackfest2016: Quaoar Vulnhub CTF | Emirhan Kartal | [Read More](https://medium.com/p/1a1a9d26bf31) |
