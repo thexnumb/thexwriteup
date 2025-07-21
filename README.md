@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 01:58:53 GMT | What Does It Mean To Salt a Password? | Jesse Langford | [Read More](https://medium.com/p/cdfaf4c44f8f) |
+| Mon, 21 Jul 2025 01:58:04 GMT | An Introduction to Elliptic Curve Cryptography: Why This Concept Still Matters | Luis Santiago | [Read More](https://medium.com/p/2dff7a697fed) |
+| Mon, 21 Jul 2025 01:46:30 GMT | A Product Person’s Guide to the Application Security Market: SCA/SSCS/SBOM, 2025 | Emily Patterson | [Read More](https://medium.com/p/8600b76b46d7) |
+| Mon, 21 Jul 2025 01:40:45 GMT | ️ CVE-2025–53770 (#RCE) — New Critical #Vulnerability Disclosure in SharePoint | Sayan Raha | [Read More](https://medium.com/p/a9382b197284) |
+| Mon, 21 Jul 2025 01:36:57 GMT | Small Tech Attacks, Big Politics | CCD-IS | [Read More](https://medium.com/p/d6fcdc1adbe8) |
+| Mon, 21 Jul 2025 01:31:37 GMT | is it possible to withdraw my money from Fxcess | Anita | [Read More](https://medium.com/p/3ef896a6ee5f) |
+| Mon, 21 Jul 2025 01:30:18 GMT | Phishing or Legit? A Real-Life Email Security Walkthrough. | Everyday learner | [Read More](https://medium.com/p/1891d871c134) |
+| Mon, 21 Jul 2025 01:22:58 GMT | HACKPARK WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/2ec45c0c1622) |
+| Mon, 21 Jul 2025 00:48:56 GMT | HackTheBox - Jarvis | jniket | [Read More](https://medium.com/p/9cf092b44e00) |
+| Mon, 21 Jul 2025 00:38:47 GMT | The Art of the Hack: Why Social Engineering Is the Mother of All Cyber Attacks | SHAMSUDEEN IBRAHIM | [Read More](https://medium.com/p/b0fa2a4a2595) |
+| Mon, 21 Jul 2025 00:22:05 GMT | 5 Easy Tech Tips Seasoned Adults Should Know | Elizabeth Ndungu | [Read More](https://medium.com/p/2fe24feafc87) |
+| Sun, 20 Jul 2025 23:37:11 GMT | So VMware Dropped Some Big Patches — Time to Plug Those Holes (Again) | Mr.PlanB | [Read More](https://medium.com/p/7e782ea56cc4) |
 | Sun, 20 Jul 2025 23:33:00 GMT | Make Your Java Cleaner: Understanding Method References (::) | Hemanth Turubatla | [Read More](https://medium.com/p/d86831ef3ce6) |
 | Sun, 20 Jul 2025 23:22:45 GMT | Exploring the Best Non-WiFi Baby Monitor: Jartoo’s Innovative Solutions | Nipun | [Read More](https://medium.com/p/6a100447a8c0) |
 | Sun, 20 Jul 2025 23:11:20 GMT | How to Keep Your LINE Account Safe: A Cautionary Tale and Tips to Protect Yourself | Oren | [Read More](https://medium.com/p/a4fc12393692) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 17:03:56 GMT | Secrets in Session: How a Forgotten Cookie Let Me Walk Into Admin Panel Like I Owned the Place… | Iski | [Read More](https://medium.com/p/6aeb97f7f9de) |
 | Sun, 20 Jul 2025 17:02:00 GMT | What We Don’t See In Aesthetic Self-Care: The Real Story of Healing | Christina - Healing In Pixels & Pages | [Read More](https://medium.com/p/2677f89ad9e8) |
 | Sun, 20 Jul 2025 17:01:50 GMT | Identification and Authentication Failures — Don’t Build Your Own Login Unless You Know What… | Musa Ndlala | [Read More](https://medium.com/p/ab858becc827) |
-| Sun, 20 Jul 2025 17:00:02 GMT | TryHackMe — Willow Walkthrough | santyhere! | [Read More](https://medium.com/p/040c7414a7c7) |
-| Sun, 20 Jul 2025 16:59:30 GMT | Unflinching Presence: What Happens When We Tell Our Stories Without Needing a Reply | Lian Henriksen | [Read More](https://medium.com/p/ff224eddfcb6) |
-| Sun, 20 Jul 2025 16:55:40 GMT | EVEN RSA CAN BE BROKEN??? - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/581fb48fd0b3) |
-| Sun, 20 Jul 2025 16:42:25 GMT | Don’t Hand Over Your Life — Use “Repair Mode” Before Giving Your Phone for Repairs | Vijay Kumar Gupta | [Read More](https://medium.com/p/edf01955ef00) |
-| Sun, 20 Jul 2025 16:37:01 GMT | DAY 9: Slicing Through Chaos | Akshatdwivedi | [Read More](https://medium.com/p/e3e53dfd5bfb) |
-| Sun, 20 Jul 2025 16:35:15 GMT | Week 5— Learning Basic Concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/ae310b92ab71) |
-| Sun, 20 Jul 2025 16:25:29 GMT | Mastering Risk Assessment: A Deep Dive and Navigating into Compliance Maze of Frameworks like… | Mohammed Yaseen | [Read More](https://medium.com/p/c3d8cb3ce77a) |
-| Sun, 20 Jul 2025 16:23:06 GMT | Your Boss is Spying on Your Work Laptop—Here’s What They Can See | Aj | [Read More](https://medium.com/p/9cc7d79bb6d4) |
-| Sun, 20 Jul 2025 16:19:11 GMT | How I cracked my first SOC Analyst Interview? And what you can learn from it? | Ronak Joshi | [Read More](https://medium.com/p/cb5536d5f5e2) |
-| Sun, 20 Jul 2025 16:18:07 GMT | Krioptix Level 1 | kiwi | [Read More](https://medium.com/p/e42f8dc242c1) |
-| Sun, 20 Jul 2025 16:15:50 GMT | México bajo asedio digital: filtraciones, espionaje y el negocio de tus datos | Anpurp | [Read More](https://medium.com/p/6aa7f054f6fe) |
-| Sun, 20 Jul 2025 16:13:18 GMT | ️‍♂️ Mastering SearchSploit: From 0x00 to 0xFF | Hail Hydra | [Read More](https://medium.com/p/f1eece6e2f9f) |
