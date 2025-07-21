@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 19:15:52 GMT | AI-Powered Phishing Isn’t Waiting. Are You? | Rue | [Read More](https://medium.com/p/953e13684636) |
+| Mon, 21 Jul 2025 19:12:07 GMT | Digital Dumpster Diving: Finding Leaks, Docs, and Forgotten Data | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/afb23159b9d5) |
+| Mon, 21 Jul 2025 19:11:12 GMT | Detecting CVE-2025–53770 in SharePoint | Grupo Oruss | [Read More](https://medium.com/p/8a3354cad4f2) |
+| Mon, 21 Jul 2025 19:07:27 GMT | Ethical OSINT Services You Can Offer: From Background Checks to Brand Safety | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2c1c1400eb1c) |
+| Mon, 21 Jul 2025 19:03:32 GMT | TOPIC: SLEEPING PRINCE IS DEATH. | Danjuma Plangkat | [Read More](https://medium.com/p/a03fccf7f5d4) |
+| Mon, 21 Jul 2025 19:00:26 GMT | Building an OSINT Portfolio: What Clients, Employers, and Hacktivists Want to See | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2c1e64cf1be6) |
+| Mon, 21 Jul 2025 18:59:51 GMT | From Recon to Report: How I Hack Web Apps (Legally!)” | Nisa | [Read More](https://medium.com/p/26441319ea26) |
+| Mon, 21 Jul 2025 18:51:50 GMT | I Completed Cisco’s Networking Basics Course! Here’s Why It Matters | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/b4594cf32446) |
+| Mon, 21 Jul 2025 18:38:56 GMT | In an age where digital borders are as vital as physical ones, the emergence of sophisticated… | Chetan Seripally | [Read More](https://medium.com/p/da634eaa664d) |
+| Mon, 21 Jul 2025 18:33:46 GMT | Cyber Security Offense and Defense Home Lab — Part 3 (Installing pfsense firewall) | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/496b5a3d9497) |
+| Mon, 21 Jul 2025 18:32:44 GMT | The Ground Game: Staying Cool Before Takeoff | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/8dc7e54c64c3) |
+| Mon, 21 Jul 2025 18:31:39 GMT | Lightweight EC2 Monitoring Using AWS EventBridge and SNS | Vijesh Vijayan Nair | [Read More](https://medium.com/p/3f2f91e8f5a1) |
 | Mon, 21 Jul 2025 18:25:51 GMT | Kahoot, Kernels, and Chaos: Teaching Operating Systems the Fun Way | Gitika Babbar | [Read More](https://medium.com/p/c92cc0c7a493) |
 | Mon, 21 Jul 2025 18:11:44 GMT | Security Awareness Lapses and Their Regulatory Implications | Infosecjourney.tech | [Read More](https://medium.com/p/8d407b529f87) |
 | Mon, 21 Jul 2025 18:11:02 GMT | 5 Ways to Safeguard Your Cloud Storage from Unauthorized Access | Aiman Jawad | [Read More](https://medium.com/p/80e0e4cae5ea) |
@@ -101,15 +113,3 @@ You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar
 | Mon, 21 Jul 2025 13:41:46 GMT | Zero-Knowledge Proofs Demystified: A Practical Code Guide for Developers | Ancilar Technologies | [Read More](https://medium.com/p/3f94682a852b) |
 | Mon, 21 Jul 2025 13:40:12 GMT | Building a Secure JWT Authenticator with Spring Boot — Step-by-Step Guide | Bilsinak | [Read More](https://medium.com/p/991fba9a8bcf) |
 | Mon, 21 Jul 2025 13:38:32 GMT | Lab: Username enumeration via different responses | Mukilan Baskaran | [Read More](https://medium.com/p/15d06fa9fb99) |
-| Mon, 21 Jul 2025 13:34:47 GMT | CVE-2025-53770: A Critical Zero-Day RCE Vulnerability in Microsoft SharePoint Server | Maggs | [Read More](https://medium.com/p/5e56f0636dec) |
-| Mon, 21 Jul 2025 13:34:11 GMT | How to Set Up a VPS for Bug Bounty: DigitalOcean Setup Guide + Essential Tools (2025) | Manzjson | [Read More](https://medium.com/p/4212366d79f9) |
-| Mon, 21 Jul 2025 13:33:28 GMT | Why Every Business Needs a Cyber Incident Response Plan | Cybersecurity Umbrella | [Read More](https://medium.com/p/dc041b570c4c) |
-| Mon, 21 Jul 2025 13:33:04 GMT | RST TI Report Digest: 21 Jul 2025 | RST Cloud | [Read More](https://medium.com/p/60d448c81cba) |
-| Mon, 21 Jul 2025 13:26:39 GMT | Unlock Growth Now: How Digital Engineering Propels Modern Industries Forward | Haridas G | [Read More](https://medium.com/p/4aa66d07f7da) |
-| Mon, 21 Jul 2025 13:22:46 GMT | HAPPY NEW WEEK! | Sybil Amarachi Ikechukwu | [Read More](https://medium.com/p/f27260743023) |
-| Mon, 21 Jul 2025 13:16:27 GMT | Kloudportal Case Study: WAN Transformation Impact | Violin Tec | [Read More](https://medium.com/p/b93a3db921fa) |
-| Mon, 21 Jul 2025 13:14:37 GMT | Microsoft Releases Emergency SharePoint Patches to Counter Critical Zero-Day Exploits | Technijian | [Read More](https://medium.com/p/aa4d16f7e891) |
-| Mon, 21 Jul 2025 13:13:09 GMT | Initvalue: Redefining Innovation as the Leading IT Software Company in Bangalore | Mohammed Zishan | [Read More](https://medium.com/p/eeb97f157c71) |
-| Mon, 21 Jul 2025 13:11:01 GMT | From Curiosity to Career: My First Cybersecurity Webinar | MrGood | [Read More](https://medium.com/p/e048ef99f52f) |
-| Mon, 21 Jul 2025 13:06:01 GMT | How a Simple SSRF Exposed Millions of User Records | Ibtissam hammadi | [Read More](https://medium.com/p/58b96e5f620a) |
-| Mon, 21 Jul 2025 13:03:29 GMT | Data Security: How Data Security is Ensured in FinTech | Onur Duman | [Read More](https://medium.com/p/1b0b3e48c1b4) |
