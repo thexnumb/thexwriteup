@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 03:39:00 GMT | Think You Can Hack It? Here’s How to Become a Penetration Tester in 2025 | Girish Kumar Benvanshi | [Read More](https://medium.com/p/a7b1adb75551) |
+| Mon, 21 Jul 2025 03:38:18 GMT | HTB Challenge — PINsmith | Fardeen Ahmed | [Read More](https://medium.com/p/af58e33e1cd1) |
+| Mon, 21 Jul 2025 03:34:17 GMT | Neural Gravity: How Large Language Models Bend the Fabric of Meaning | John Boren | [Read More](https://medium.com/p/87c57d812878) |
+| Mon, 21 Jul 2025 03:33:02 GMT | The Digital Battleground: How Cybersecurity and AI Advancements Are Reshaping Our Connected World | Akshat Ratanpal | [Read More](https://medium.com/p/31b7ed99df1b) |
+| Mon, 21 Jul 2025 03:33:01 GMT | Cybersecurity Books That Read Like Thrillers (8 Picks) | Chaos Engineer | [Read More](https://medium.com/p/a2a5dae9684b) |
+| Mon, 21 Jul 2025 03:33:00 GMT | Sequel Walkthrough: From Open Port to Database Flag | Praharsha Kumar | [Read More](https://medium.com/p/b276832e0217) |
+| Mon, 21 Jul 2025 03:25:35 GMT | The Cybersecurity Skills You Must Learn by 2025 (Or Risk Falling Behind) | Girish Kumar Benvanshi | [Read More](https://medium.com/p/a2a81904c2b2) |
+| Mon, 21 Jul 2025 03:22:00 GMT | Basic SSRF against the local server [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/4b525fc834cf) |
+| Mon, 21 Jul 2025 03:21:43 GMT | Lesson 1: Environment Setup | Zero Day One | [Read More](https://medium.com/p/e75f5e98e25b) |
+| Mon, 21 Jul 2025 03:19:50 GMT | Best Cyber Security Course to Start Your Career in 2025 | Ankii_rathore | [Read More](https://medium.com/p/47dddd636c8e) |
+| Mon, 21 Jul 2025 03:19:42 GMT | Forensics - picoGym - PcapPoisoning | SonictheEdgehog | [Read More](https://medium.com/p/de783be4a1eb) |
+| Mon, 21 Jul 2025 03:14:22 GMT | The Real Use of Interfaces in Go Programming for Advanced Development Techniques | Ade Mawan | [Read More](https://medium.com/p/1b79d2be3d5b) |
+| Mon, 21 Jul 2025 03:13:16 GMT | Web Application Pen-testing — Enumeration & Brute Force | Suraj Singh | [Read More](https://medium.com/p/52d0e2746b84) |
+| Mon, 21 Jul 2025 03:09:28 GMT | I Found a Terminal Full of Secrets — These 17 Linux Commands Told Me More Than I Expected | Alex Joyel Raj | [Read More](https://medium.com/p/8a033a7308ee) |
+| Mon, 21 Jul 2025 03:06:48 GMT | Terraforming the Cloud | Nigel Dsouza | [Read More](https://medium.com/p/b70335e679c2) |
+| Mon, 21 Jul 2025 03:01:53 GMT | Russia-North Korea Alliance Intensifies — Troop Deployments, Mutual Defense, and Economic Projects… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/5824b3ae0a2e) |
+| Mon, 21 Jul 2025 02:52:36 GMT | Before You Fall in Love, Read This. | Rukky Ranyo | [Read More](https://medium.com/p/0485ae5017c3) |
+| Mon, 21 Jul 2025 02:50:23 GMT | TryHackMe - Infinity Shell - Write-up | Andrey Dolya | [Read More](https://medium.com/p/38acdb2e651e) |
+| Mon, 21 Jul 2025 02:42:15 GMT | Hack The Box Starting Point Sequel:A Step-by-Step Walkthrough of HTB’s Basic Database Challenge | Gopal Mohan | [Read More](https://medium.com/p/86839a0fcac3) |
+| Mon, 21 Jul 2025 02:41:59 GMT | When Root Access Comes Easy: Why CVE‑2025‑20337 Should alarm us all. | VaRiOus_CanAriEs | [Read More](https://medium.com/p/7aa4de7fb343) |
+| Mon, 21 Jul 2025 02:37:59 GMT | Appointment: An SQL Injection Journey | Praharsha Kumar | [Read More](https://medium.com/p/fd3b35102f4a) |
+| Mon, 21 Jul 2025 02:28:41 GMT | Forging Strength from Vulnerability | Barbara Schreibke | [Read More](https://medium.com/p/ffaf978d622b) |
+| Mon, 21 Jul 2025 02:26:57 GMT | HTB Appointment CTF: Mastering Basic SQL Injection Vulnerabilities | Gopal Mohan | [Read More](https://medium.com/p/315d227b6f8a) |
+| Mon, 21 Jul 2025 02:11:37 GMT | Test | Donghai Gong | [Read More](https://medium.com/p/cc47bacbbb1f) |
 | Mon, 21 Jul 2025 01:58:53 GMT | What Does It Mean To Salt a Password? | Jesse Langford | [Read More](https://medium.com/p/cdfaf4c44f8f) |
 | Mon, 21 Jul 2025 01:58:04 GMT | An Introduction to Elliptic Curve Cryptography: Why This Concept Still Matters | Luis Santiago | [Read More](https://medium.com/p/2dff7a697fed) |
 | Mon, 21 Jul 2025 01:46:30 GMT | A Product Person’s Guide to the Application Security Market: SCA/SSCS/SBOM, 2025 | Emily Patterson | [Read More](https://medium.com/p/8600b76b46d7) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 20 Jul 2025 18:15:33 GMT | Exploring the Future of Hardware Wallets with ELLIPAL | thompsonterry | [Read More](https://medium.com/p/bc7cb60b8bf0) |
 | Sun, 20 Jul 2025 18:14:48 GMT | Fake Cursor IDE extension pulls off $500,000 crypto heist | Ombhojane | [Read More](https://medium.com/p/90a2a117faca) |
 | Sun, 20 Jul 2025 18:12:39 GMT | TryHackMe: Attacktive Directory — A Beginner-Friendly Walkthrough | Chandan Nayak | [Read More](https://medium.com/p/1d00ee9a2e0a) |
-| Sun, 20 Jul 2025 18:11:14 GMT | Stop Wasting Hours Searching for Cybersecurity Resources — I Built Something to Help You | Digitalbest | [Read More](https://medium.com/p/da591ae731e8) |
-| Sun, 20 Jul 2025 18:06:15 GMT | Next.js 15 Security Best Practices for Modern Web Applications | Suresh Kumar Ariya Gowder | [Read More](https://medium.com/p/31f9ccc3fa2b) |
-| Sun, 20 Jul 2025 18:02:47 GMT | New in Town and Need a Makeup Artist? Here’s the Easiest Way to Find One. | Mualine Nigeria | [Read More](https://medium.com/p/df1491c6b95f) |
-| Sun, 20 Jul 2025 18:02:46 GMT | Policies | Het | [Read More](https://medium.com/p/1ebf9fd06971) |
-| Sun, 20 Jul 2025 18:02:36 GMT | Why Network Security Still Matters in the Age of Zero Trust | Kevin Nzonzo | [Read More](https://medium.com/p/5bcc0d9836b9) |
-| Sun, 20 Jul 2025 18:02:36 GMT | The Realities of Cybersecurity in Today’s Digital World | searchenginerealm | [Read More](https://medium.com/p/f871be9606a3) |
-| Sun, 20 Jul 2025 18:02:15 GMT | Krioptix Level 1 (Exploiting mod_ssl 443 port to get shell) | kiwi | [Read More](https://medium.com/p/030f463b1e11) |
-| Sun, 20 Jul 2025 18:01:46 GMT | Audit of Self — Every Word, a Strike | Malik Vero | [Read More](https://medium.com/p/848d2771e9df) |
-| Sun, 20 Jul 2025 17:56:57 GMT | Audio steganography - Hiding Data In An Audio - Steghide | Ali bin azam | [Read More](https://medium.com/p/2226c1c562d6) |
-| Sun, 20 Jul 2025 17:50:35 GMT | HackTheBox — Mantis (Türkçe) | Emre Özdemir | [Read More](https://medium.com/p/b38220da23d1) |
-| Sun, 20 Jul 2025 17:49:26 GMT | The Silent Assistant: How AI Is Powering Your Work Without You Knowing It | Ayesha Arshad | [Read More](https://medium.com/p/73a16f36c5ea) |
-| Sun, 20 Jul 2025 17:39:19 GMT | Google vs BadBox 2.0: The Hidden Malware in Your Smart Devices | Anirudh Nair | [Read More](https://medium.com/p/1542b90e8bb9) |
-| Sun, 20 Jul 2025 17:38:07 GMT | Asset management and Documentation | Het | [Read More](https://medium.com/p/d0036deee305) |
-| Sun, 20 Jul 2025 17:33:56 GMT | Smarter Identity Security with AI: Microsoft Entra Just Levelled Up | Paritosh | [Read More](https://medium.com/p/a6d642f5d50f) |
-| Sun, 20 Jul 2025 17:28:23 GMT | How to Secure Your Freelance Business in a Digital First World: | Maha khan | [Read More](https://medium.com/p/91aef10d76df) |
-| Sun, 20 Jul 2025 17:25:51 GMT | How I Bypassed a Free-Tier Resource Limit via Race Condition | Efe Esen | [Read More](https://medium.com/p/63d4b0c23fad) |
-| Sun, 20 Jul 2025 17:15:06 GMT | Loose Lips Sink Deals: Protecting Sensitive Info in Public Spaces | Dziugas John Vaisvila | [Read More](https://medium.com/p/5d8f397a145b) |
-| Sun, 20 Jul 2025 17:15:05 GMT | Journey as an Ethical Hacker & CyberSec | ablmathew | [Read More](https://medium.com/p/ba1da5ba67c1) |
-| Sun, 20 Jul 2025 17:11:21 GMT | DownUnderCTF-sodium | phisher | [Read More](https://medium.com/p/ab9171bac2e8) |
-| Sun, 20 Jul 2025 17:08:09 GMT | DAY 6- Real-World Malware Attacks True Stories | unica 02 | [Read More](https://medium.com/p/e2c898e28b27) |
-| Sun, 20 Jul 2025 17:06:00 GMT | Best Apps to Spy on Instagram without Getting Caught | Narjis Batool | [Read More](https://medium.com/p/30a4afa8528e) |
-| Sun, 20 Jul 2025 17:03:56 GMT | Secrets in Session: How a Forgotten Cookie Let Me Walk Into Admin Panel Like I Owned the Place… | Iski | [Read More](https://medium.com/p/6aeb97f7f9de) |
-| Sun, 20 Jul 2025 17:02:00 GMT | What We Don’t See In Aesthetic Self-Care: The Real Story of Healing | Christina - Healing In Pixels & Pages | [Read More](https://medium.com/p/2677f89ad9e8) |
-| Sun, 20 Jul 2025 17:01:50 GMT | Identification and Authentication Failures — Don’t Build Your Own Login Unless You Know What… | Musa Ndlala | [Read More](https://medium.com/p/ab858becc827) |
