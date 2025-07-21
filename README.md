@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 10:18:02 GMT | iPhone 17 Pro Max Leaks (2025): Everything You Need to Know | Digimad.online | [Read More](https://medium.com/p/e42549a1d338) |
+| Mon, 21 Jul 2025 10:17:39 GMT | How Secure Is RFID Technology? Uncovering the Truth Behind Its Safety and Risks | ShirleyLiu_RFIDTagcom | [Read More](https://medium.com/p/b20bca6bfc08) |
+| Mon, 21 Jul 2025 10:16:59 GMT | Blue walkthrough (THM) | The Commoness | [Read More](https://medium.com/p/b8933d74d294) |
+| Mon, 21 Jul 2025 10:11:34 GMT | Frequently Asked Questions before choosing a Cybersecurity Consulting agency | Forbes | [Read More](https://medium.com/p/667d4daaea28) |
+| Mon, 21 Jul 2025 10:10:43 GMT | MITRE ATT&CK FRAME WORK | ayub_91 | [Read More](https://medium.com/p/486dc8a5f7d9) |
+| Mon, 21 Jul 2025 10:10:20 GMT | Small Business IT Support Services: Costs, Benefits, Challenges & How to Pick the Right One | tommy reed | [Read More](https://medium.com/p/77d439cc1587) |
+| Mon, 21 Jul 2025 10:10:06 GMT | Read These or Risk It: Cybersecurity Must-Reads | Aj | [Read More](https://medium.com/p/9d626d1f915e) |
+| Mon, 21 Jul 2025 10:09:26 GMT | HostingB2B & Acronis: Reliable Disaster Recovery Solutions | HostingB2B | [Read More](https://medium.com/p/fd1b53e7525a) |
+| Mon, 21 Jul 2025 10:08:25 GMT | CyberX: Powering Digital Futures | Tekhabeeb | [Read More](https://medium.com/p/33b3eb4e150e) |
+| Mon, 21 Jul 2025 10:05:15 GMT | How I Set Up the ELK Stack on Ubuntu for My SOC Lab | Reina Baz | [Read More](https://medium.com/p/a10860465336) |
+| Mon, 21 Jul 2025 10:05:07 GMT | Rethinking Network Security: Why It’s Time to Upgrade to a Next-Generation Firewall | NizzCorp Academy | [Read More](https://medium.com/p/ad155b7db5a4) |
+| Mon, 21 Jul 2025 09:53:17 GMT | Top 7 SIEM Cybersecurity Tools That Keep Hackers Out | SecureSlate | [Read More](https://medium.com/p/1d5b3fa7d96d) |
+| Mon, 21 Jul 2025 09:40:10 GMT | When the Internet Breaks: Lessons from the Microsoft SharePoint Zero‑Day Attack | Hafizbilaltariq | [Read More](https://medium.com/p/6680eb4f8506) |
+| Mon, 21 Jul 2025 09:38:47 GMT | 5 Kali Linux Tricks That Instantly Make You a Hacker | Rue | [Read More](https://medium.com/p/94728f7026cb) |
 | Mon, 21 Jul 2025 09:14:20 GMT | How to Spot Fake Aadhaar Cards Made by AI | Deeya | [Read More](https://medium.com/p/95c948ddaf4a) |
 | Mon, 21 Jul 2025 09:11:46 GMT | The Myth of Wanting the Truth | The Simple Mind | [Read More](https://medium.com/p/f99ff6eb5908) |
 | Mon, 21 Jul 2025 09:07:54 GMT | Cybersecurity Awareness — Data Loss Prevention (DLP): Protecting Sensitive Information in… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/81dc9cf55004) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 05:29:03 GMT | ️ Web3 Security Weekly — July 14–20, 2025 | Null Return | [Read More](https://medium.com/p/ebab4ec68d32) |
 | Mon, 21 Jul 2025 05:27:57 GMT | Is Your Business Secure? The Ultimate Guide to Cybersecurity for Indian Businesses in 2025 | Best Tech Company | [Read More](https://medium.com/p/372da8ec006b) |
 | Mon, 21 Jul 2025 05:27:38 GMT | The Password Graveyard: Why Yours is Dead on Arrival | Aj | [Read More](https://medium.com/p/c20c0575f8a2) |
-| Mon, 21 Jul 2025 05:27:27 GMT | I Followed This Recon Checklist and Found 12 Bugs in 1 Week | Ibtissam hammadi | [Read More](https://medium.com/p/1e546a0d8b2e) |
-| Mon, 21 Jul 2025 05:24:54 GMT | Top 7 Traits to Look for in a Cyber Security Development Company Today | Webtrills | [Read More](https://medium.com/p/9dd30226ad63) |
-| Mon, 21 Jul 2025 05:24:10 GMT | FileFix: The Silent Social Engineering Threat Nobody Saw Coming | Paritosh | [Read More](https://medium.com/p/c5c79c054630) |
-| Mon, 21 Jul 2025 05:17:12 GMT | HPE Aruba Networking SASE: A Comprehensive GuideHPE Aruba Networking SASE: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/27bd6e80111d) |
-| Mon, 21 Jul 2025 05:15:02 GMT | 從工程測試到量子通訊模擬：AWS Braket 生態系的部署藍圖與實務思考 | Tiffany Chiang | [Read More](https://medium.com/p/d8317e074490) |
-| Mon, 21 Jul 2025 05:12:36 GMT | HTB CTF Write Up #2 | Devanshi Chavda | [Read More](https://medium.com/p/b0df50e0e1f6) |
-| Mon, 21 Jul 2025 05:10:59 GMT | Understanding MAC & IP Addresses — The Backbone of Network Communication | CYber VIaz | [Read More](https://medium.com/p/79d238c6ec69) |
-| Mon, 21 Jul 2025 05:07:08 GMT | Money Mule Scams: How Innocent People Become Part of Cybercrime Networks | OLC Agra | [Read More](https://medium.com/p/b9bba5e461ec) |
-| Mon, 21 Jul 2025 05:06:01 GMT | Ethereum’s Quiet Crisis: When Crypto Wallet Wears Out The Hardware | Bisistha Patra | [Read More](https://medium.com/p/3b3bf687c8a2) |
-| Mon, 21 Jul 2025 05:06:00 GMT | The Hacker Had a Playbook — So I Built My Own | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/0a2b6da33258) |
-| Mon, 21 Jul 2025 05:01:50 GMT | Week 4: Microsoft Purview Deep Dive | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/0812f6aba596) |
-| Mon, 21 Jul 2025 05:01:46 GMT | “Web Application Firewalls Explained: Everyday Analogies for Beginners” | Ahmet Soner | [Read More](https://medium.com/p/06d3688b9250) |
-| Mon, 21 Jul 2025 04:55:54 GMT | Unpatched SharePoint Zero Day is Actively Exploiting!!! CVE‑2025‑53770 | Rukshana Alikhan | [Read More](https://medium.com/p/891d7a58080d) |
-| Mon, 21 Jul 2025 04:53:40 GMT | ⚠️ CVE-2025–54309: Critical CrushFTP Zero-Day Under Active Exploitation – What You Need to Know | CYber VIaz | [Read More](https://medium.com/p/23cc27e4f0be) |
