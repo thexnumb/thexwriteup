@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 08:14:11 GMT | Cybersecurity in SQL Server: Protecting the Heart of Your Data Infrastructure | Syed Faysal Ali | [Read More](https://medium.com/p/1a632704aecd) |
+| Mon, 21 Jul 2025 08:07:00 GMT | Southwest’s Turbulent Transition: Taketh Away, Giveth Back? | Namir Sagheenanajar | [Read More](https://medium.com/p/d4eef86dd4a9) |
+| Mon, 21 Jul 2025 08:03:35 GMT | Mastering Apple Device Management in 2025 | Vantage MDM | [Read More](https://medium.com/p/e321256755a5) |
+| Mon, 21 Jul 2025 08:01:23 GMT | Intermediate Cybersecurity Home Lab Setup (Windows 11, Kali Linux, AD, Splunk, Sysmon & More) | Hammad Zahid | [Read More](https://medium.com/p/443c3d3a68d0) |
+| Mon, 21 Jul 2025 08:00:43 GMT | Web Cache Deception Explained - Portswigger BSCP Prep | Motasem Hamdan | [Read More](https://medium.com/p/88fccc7713fd) |
+| Mon, 21 Jul 2025 08:00:20 GMT | Cyber Security for Freshers: Course Structure, Cost & Degrees in 2025 | Sanchitamishra | [Read More](https://medium.com/p/07741ebb78b4) |
+| Mon, 21 Jul 2025 07:57:11 GMT | 보안을 공공재로 — 쿼리파이 커뮤니티 에디션을 무료로 공개합니다 | Chedda | [Read More](https://medium.com/p/4518779a0d2a) |
+| Mon, 21 Jul 2025 07:51:00 GMT | Why We’re Offering Our Enterprise-Grade Access Control Platform for Free | Chedda | [Read More](https://medium.com/p/f4049cdb0ed6) |
 | Mon, 21 Jul 2025 07:42:45 GMT | Bilgisayar Ağa Nasıl Bağlanır? IP ve TCP/IP Mantığını Anlamak | Ferdi Karakurt | [Read More](https://medium.com/p/0d76055939ca) |
 | Mon, 21 Jul 2025 07:42:22 GMT | วันที่ดิฉันเริ่มกลัวการให้เบอร์โทรหรือ ID line | Thanapornwongkij | [Read More](https://medium.com/p/c05834ae1c9d) |
 | Mon, 21 Jul 2025 07:40:50 GMT | Introducing TempEmailNow: Bangladesh’s Own Privacy-Focused Disposable Email Service | Temp Email Now | [Read More](https://medium.com/p/ddcc49542af3) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 03:33:01 GMT | Cybersecurity Books That Read Like Thrillers (8 Picks) | Chaos Engineer | [Read More](https://medium.com/p/a2a5dae9684b) |
 | Mon, 21 Jul 2025 03:33:00 GMT | Sequel Walkthrough: From Open Port to Database Flag | Praharsha Kumar | [Read More](https://medium.com/p/b276832e0217) |
 | Mon, 21 Jul 2025 03:25:35 GMT | The Cybersecurity Skills You Must Learn by 2025 (Or Risk Falling Behind) | Girish Kumar Benvanshi | [Read More](https://medium.com/p/a2a81904c2b2) |
-| Mon, 21 Jul 2025 03:22:00 GMT | Basic SSRF against the local server [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/4b525fc834cf) |
-| Mon, 21 Jul 2025 03:21:43 GMT | Lesson 1: Environment Setup | Zero Day One | [Read More](https://medium.com/p/e75f5e98e25b) |
-| Mon, 21 Jul 2025 03:19:50 GMT | Best Cyber Security Course to Start Your Career in 2025 | Ankii_rathore | [Read More](https://medium.com/p/47dddd636c8e) |
-| Mon, 21 Jul 2025 03:19:42 GMT | Forensics - picoGym - PcapPoisoning | SonictheEdgehog | [Read More](https://medium.com/p/de783be4a1eb) |
-| Mon, 21 Jul 2025 03:14:22 GMT | The Real Use of Interfaces in Go Programming for Advanced Development Techniques | Ade Mawan | [Read More](https://medium.com/p/1b79d2be3d5b) |
-| Mon, 21 Jul 2025 03:13:16 GMT | Web Application Pen-testing — Enumeration & Brute Force | Suraj Singh | [Read More](https://medium.com/p/52d0e2746b84) |
-| Mon, 21 Jul 2025 03:09:28 GMT | I Found a Terminal Full of Secrets — These 17 Linux Commands Told Me More Than I Expected | Alex Joyel Raj | [Read More](https://medium.com/p/8a033a7308ee) |
-| Mon, 21 Jul 2025 03:06:48 GMT | Terraforming the Cloud | Nigel Dsouza | [Read More](https://medium.com/p/b70335e679c2) |
