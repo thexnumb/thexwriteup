@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 22:44:44 GMT | Not All Cyber Heroes Wear Hoodies… | The Quiet Layer | [Read More](https://medium.com/p/f764e157c875) |
+| Mon, 21 Jul 2025 22:41:19 GMT | From Theory to Terminal: My Journey Into Ethical Hacking | F3rrox_901a | [Read More](https://medium.com/p/9a966af0fdb3) |
+| Mon, 21 Jul 2025 22:29:41 GMT | The Strategic Case for Fractional CTOs and CIOs | Josh Welch | [Read More](https://medium.com/p/2527afc9c6b1) |
+| Mon, 21 Jul 2025 22:27:12 GMT | Designing Zeroseige — a PvP Hacking Strategy Game (or Chess for Hackers) | Princeton Ebanks | [Read More](https://medium.com/p/8cd02abd79f8) |
+| Mon, 21 Jul 2025 22:23:31 GMT | When Vibe Coding Goes Catastrophic: How Replit’s AI Deleted a Live Database and Lied About It | Aaron | [Read More](https://medium.com/p/af189087687f) |
+| Mon, 21 Jul 2025 22:22:58 GMT | : | Emann | [Read More](https://medium.com/p/75bbe242b829) |
+| Mon, 21 Jul 2025 22:21:29 GMT | BruteForceAI: When Artificial Intelligence Meets Web Security Testing | Mor David | [Read More](https://medium.com/p/2cf807221f3f) |
+| Mon, 21 Jul 2025 22:20:33 GMT | How Agentic AI Pivoted to Become Humanity’s Trojan Horse | Greg Twemlow | [Read More](https://medium.com/p/6ccf155996a4) |
 | Mon, 21 Jul 2025 22:17:01 GMT | Combatting Credential Stuffing with Detection and Response | Karthikeyan Nagaraj | [Read More](https://medium.com/p/449b58a64973) |
+| Mon, 21 Jul 2025 22:01:09 GMT | Güvenlik Ayrıcalığına Son: Herkes İçin Kapsayıcı, Erişilebilir ve Akıllı Bir Mobil Güvenlik Mümkün… | MerYunCyber | [Read More](https://medium.com/p/1a00085c957e) |
 | Mon, 21 Jul 2025 21:57:57 GMT | AI in Zero Trust: The Cyber Defense Story You Didn’t Know You Were Living | Cyber-AppSec | [Read More](https://medium.com/p/802749cb6fa7) |
 | Mon, 21 Jul 2025 21:49:03 GMT | Google Cybersecurity Certification Journey- Course 1: Introduction - Module 2: Cyber Evolution | Proteek Bose | [Read More](https://medium.com/p/bc545f26364f) |
 | Mon, 21 Jul 2025 21:19:50 GMT | A Beginner-to-Expert Dive into Kubernetes & Azure Kubernetes Service (AKS) | Aparna Gutla | [Read More](https://medium.com/p/8989f09402bc) |
@@ -24,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 20:43:36 GMT | The Invisible Image: Hiding One Picture Inside Another | Ceyda Irwin | [Read More](https://medium.com/p/b08d8f0248c9) |
 | Mon, 21 Jul 2025 20:43:28 GMT | la volpe e la finestra fanno insieme il grande spacc (glitch Firefox coi freeze a caso) | octospacc | [Read More](https://medium.com/p/d1786e99e7d3) |
 | Mon, 21 Jul 2025 20:34:43 GMT | KPMG CTF 2025 (Mobile Challenges) | AarushGaur | [Read More](https://medium.com/p/79b6958def54) |
+| Mon, 21 Jul 2025 20:26:35 GMT | diam yang kau ketuk | giska | [Read More](https://medium.com/p/767a59998f92) |
 | Mon, 21 Jul 2025 20:25:06 GMT | Dissecting the OSI Model | theccmi | [Read More](https://medium.com/p/f4016716167e) |
 | Mon, 21 Jul 2025 20:20:18 GMT | This Wild App Sends You Armed Navy SEALs to Get Your Coffee | Afiza Malik | [Read More](https://medium.com/p/361768bfe947) |
 | Mon, 21 Jul 2025 20:14:33 GMT | Hope Is Not a Strategy — VisibleOps Cybersecurity Shows What Actually Works | VIV PR | [Read More](https://medium.com/p/6ba16f5bc7c4) |
@@ -103,13 +113,3 @@ You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar
 | Mon, 21 Jul 2025 15:37:37 GMT | Behind the Bug: How to Write a Professional Bug Bounty Report | Yukeshwaran N | [Read More](https://medium.com/p/8c78d1689184) |
 | Mon, 21 Jul 2025 15:36:35 GMT | Regulation of Financial Influencers: Navigating Securities Law Violations and SEC Enforcement | SEC Lawyer 101 | [Read More](https://medium.com/p/c8d1866d1704) |
 | Mon, 21 Jul 2025 15:34:22 GMT | Why We All Want to Be Seen — But Are So Afraid of It | Ben-David | [Read More](https://medium.com/p/23c3038b734c) |
-| Mon, 21 Jul 2025 15:27:11 GMT | ☁️ Security Monitoring and Threat Hunting in AWS and Azure Cloud Environments | Esra Kayhan | [Read More](https://medium.com/p/81d82d1bd824) |
-| Mon, 21 Jul 2025 15:27:02 GMT | The Mobile Blindspot: How BYOD Policies Created Enterprise Backdoors | Eric Zietlow | [Read More](https://medium.com/p/c27a9c876b25) |
-| Mon, 21 Jul 2025 15:26:55 GMT | How One Mistake Taught Me the Importance of SIEM Alert Classifications | NineTales | [Read More](https://medium.com/p/a58e7f4b3818) |
-| Mon, 21 Jul 2025 15:26:42 GMT | Common security pitfalls using Vibe coding | Eyal Estrin ☁️ | [Read More](https://medium.com/p/cbcbd7ebd1f2) |
-| Mon, 21 Jul 2025 15:21:54 GMT | CVE-2025–53770: A Critical RCE vulnerin SharePoint Under Active Exploitation | RealSec.io | [Read More](https://medium.com/p/bb636e2479e9) |
-| Mon, 21 Jul 2025 15:17:32 GMT | How Tyros Is Transforming Emergency Management in the Maldives and Beyond? | Tyros Securities | [Read More](https://medium.com/p/3109737472ce) |
-| Mon, 21 Jul 2025 15:12:56 GMT | The Password That Sank a 158-Year-Old Firm: A Stark Warning for Cybersecurity Complacency. | eL Njas!™ | [Read More](https://medium.com/p/c14104aa0d86) |
-| Mon, 21 Jul 2025 15:10:22 GMT | From Pink Slip to Penetration Tester: How I’m Reinventing My Cybersecurity Career | Chris Huffstetler | [Read More](https://medium.com/p/eca65b5a577a) |
-| Mon, 21 Jul 2025 15:10:13 GMT | Dark Web Credentials? Not on Our Watch!” | Dr. Shashi Karhail | [Read More](https://medium.com/p/55b5bbc4ed4f) |
-| Mon, 21 Jul 2025 15:08:11 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/a4697dabfe01) |
