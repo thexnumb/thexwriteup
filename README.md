@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 18:25:51 GMT | Kahoot, Kernels, and Chaos: Teaching Operating Systems the Fun Way | Gitika Babbar | [Read More](https://medium.com/p/c92cc0c7a493) |
+| Mon, 21 Jul 2025 18:11:44 GMT | Security Awareness Lapses and Their Regulatory Implications | Infosecjourney.tech | [Read More](https://medium.com/p/8d407b529f87) |
+| Mon, 21 Jul 2025 18:11:02 GMT | 5 Ways to Safeguard Your Cloud Storage from Unauthorized Access | Aiman Jawad | [Read More](https://medium.com/p/80e0e4cae5ea) |
+| Mon, 21 Jul 2025 18:08:13 GMT | Network scanning: Tools, Techniques & Best Practices | Amogha KS | [Read More](https://medium.com/p/440411b634c8) |
+| Mon, 21 Jul 2025 18:07:13 GMT | ModulusZK: Addressing the Need for Institutional Grade Security | Modulus ZK | [Read More](https://medium.com/p/42ed565940a2) |
+| Mon, 21 Jul 2025 18:06:25 GMT | Zbuduj swój własny osobisty stack AI — bezpiecznie, prosto i w stylu „vibecoding” | Phala Network PL | [Read More](https://medium.com/p/a34c0ec6af44) |
+| Mon, 21 Jul 2025 18:02:14 GMT | Inside a Massive Telegram-Based Malware Campaign: How I Uncovered 18,000+ Victim Compromises | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/b0af869a0855) |
+| Mon, 21 Jul 2025 18:01:59 GMT | Go Buster Basics: A Simple Guide For Curious Beginners | Ayush Kumar | [Read More](https://medium.com/p/99345da92276) |
+| Mon, 21 Jul 2025 17:54:45 GMT | Постройте свой личный AI-стек — безопасно, просто и в стиле «vibecoding» | Phala Network RU | [Read More](https://medium.com/p/89fe4388b374) |
+| Mon, 21 Jul 2025 17:52:54 GMT | How I found my first Critical SSRF (and how you can too) | Appsec.pt | [Read More](https://medium.com/p/b0f5fb1bd62b) |
+| Mon, 21 Jul 2025 17:46:15 GMT | The Transparency‑Containment Paradox™: Balancing Trust and Security in Healthcare AI | Brian M. Green | [Read More](https://medium.com/p/b2f93d8db737) |
 | Mon, 21 Jul 2025 17:41:04 GMT | Operationalizing Splunk for Blue Team Success: From Ingestion to Threat Detection | Mohamed Basil | [Read More](https://medium.com/p/cdd584e29c66) |
 | Mon, 21 Jul 2025 17:32:47 GMT | Что нужно, чтобы создать безопасный AGI? | Phala Network RU | [Read More](https://medium.com/p/3d4896293351) |
 | Mon, 21 Jul 2025 17:27:27 GMT | Light Is the New Firewall: Rethinking Cybersecurity from the Hardware Up | Derek Wayne Bailey | [Read More](https://medium.com/p/80e5ceb678ed) |
@@ -102,14 +113,3 @@ You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar
 | Mon, 21 Jul 2025 13:11:01 GMT | From Curiosity to Career: My First Cybersecurity Webinar | MrGood | [Read More](https://medium.com/p/e048ef99f52f) |
 | Mon, 21 Jul 2025 13:06:01 GMT | How a Simple SSRF Exposed Millions of User Records | Ibtissam hammadi | [Read More](https://medium.com/p/58b96e5f620a) |
 | Mon, 21 Jul 2025 13:03:29 GMT | Data Security: How Data Security is Ensured in FinTech | Onur Duman | [Read More](https://medium.com/p/1b0b3e48c1b4) |
-| Mon, 21 Jul 2025 13:03:07 GMT | What Does a Firmware Update Do? Here’s Why You Shouldn’t Ignore It | Timonéofearth | [Read More](https://medium.com/p/4f8d6b2d52e2) |
-| Mon, 21 Jul 2025 12:58:09 GMT | Commercial Access Control Systems in Baltimore — Advanced Security Solutions for Businesses | Katheryne | [Read More](https://medium.com/p/83bf200b652b) |
-| Mon, 21 Jul 2025 12:57:32 GMT | Hacker’s Internship Diaries — Week 1 Continued: Fundamentals of Web Security — OWASP TOP 10 With… | Mehmet Akif VARDAR | [Read More](https://medium.com/p/f6420b1f707f) |
-| Mon, 21 Jul 2025 12:55:43 GMT | How to Create a Successful Ethical Hacking certification (312–50) Study Plan with IPSpecialist | IPSpecialist | [Read More](https://medium.com/p/2b50325f5421) |
-| Mon, 21 Jul 2025 12:55:09 GMT | How I Used Tenable Security Center Plus to Scan Metasploitable in My ESXi Lab | Bridget | [Read More](https://medium.com/p/3f774fa606bb) |
-| Mon, 21 Jul 2025 12:54:51 GMT | How to Instantly Find a Full WordPress Site Takeover (In Just Minutes!) | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/1d8f7ef2cad0) |
-| Mon, 21 Jul 2025 12:52:52 GMT | Scope and Limitations | Covenant O.B. | [Read More](https://medium.com/p/6436a224afa5) |
-| Mon, 21 Jul 2025 12:47:41 GMT | Teen Hacker Stole $243M in Bitcoin, Revealed Identity on Livestream and Was Tracked Down | Weeklyblockchain | [Read More](https://medium.com/p/98c7ab6989fd) |
-| Mon, 21 Jul 2025 12:47:13 GMT | Someday, But Not Today | Kaleigh Dugan | [Read More](https://medium.com/p/41d5795a64d2) |
-| Mon, 21 Jul 2025 12:39:43 GMT | Computer Training Institutes In Hyderabad | APEC | [Read More](https://medium.com/p/d3cb0730ae96) |
-| Mon, 21 Jul 2025 12:38:58 GMT | INTRODUCTION TO THREAT INTELLIGENCE | Nikhitha A | [Read More](https://medium.com/p/c49af4cb634c) |
