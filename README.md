@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 21:19:50 GMT | A Beginner-to-Expert Dive into Kubernetes & Azure Kubernetes Service (AKS) | Aparna Gutla | [Read More](https://medium.com/p/8989f09402bc) |
+| Mon, 21 Jul 2025 20:58:04 GMT | "From Signals to Security: A Graduate’s Tech Roadmap" | Oriade Stephen Ayodeji | [Read More](https://medium.com/p/060c421d9276) |
+| Mon, 21 Jul 2025 20:55:13 GMT | What Is Variable Shadowing? How to Spot and Fix This $10 Million Bug | AIAlchemist_Ab1r | [Read More](https://medium.com/p/27b7e5da47f3) |
+| Mon, 21 Jul 2025 20:45:03 GMT | Red Stealer — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/ccf932b7bd2d) |
+| Mon, 21 Jul 2025 20:44:46 GMT | Unhook Antivirus Desired Hooks | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b5c7701d5a29) |
+| Mon, 21 Jul 2025 20:43:41 GMT | ️ Steganography in C++: Hiding Secret Messages Inside Images | Ruturajjadhav | [Read More](https://medium.com/p/a41614af6d6f) |
 | Mon, 21 Jul 2025 20:43:36 GMT | The Invisible Image: Hiding One Picture Inside Another | Ceyda Irwin | [Read More](https://medium.com/p/b08d8f0248c9) |
+| Mon, 21 Jul 2025 20:43:28 GMT | la volpe e la finestra fanno insieme il grande spacc (glitch Firefox coi freeze a caso) | octospacc | [Read More](https://medium.com/p/d1786e99e7d3) |
+| Mon, 21 Jul 2025 20:34:43 GMT | KPMG CTF 2025 (Mobile Challenges) | AarushGaur | [Read More](https://medium.com/p/79b6958def54) |
 | Mon, 21 Jul 2025 20:25:06 GMT | Dissecting the OSI Model | theccmi | [Read More](https://medium.com/p/f4016716167e) |
 | Mon, 21 Jul 2025 20:20:18 GMT | This Wild App Sends You Armed Navy SEALs to Get Your Coffee | Afiza Malik | [Read More](https://medium.com/p/361768bfe947) |
 | Mon, 21 Jul 2025 20:14:33 GMT | Hope Is Not a Strategy — VisibleOps Cybersecurity Shows What Actually Works | VIV PR | [Read More](https://medium.com/p/6ba16f5bc7c4) |
@@ -105,11 +113,3 @@ You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar
 | Mon, 21 Jul 2025 15:03:33 GMT | Cyber Security- Digital security- Risk Assessment In Uk | QualysecEurope | [Read More](https://medium.com/p/e86374b8f1a2) |
 | Mon, 21 Jul 2025 15:01:19 GMT | Dear Reader, This Is Me Trying | The Gentle Unfolding | [Read More](https://medium.com/p/61c7f00f78c4) |
 | Mon, 21 Jul 2025 15:01:03 GMT | Software Binaries Obscure Developer Intent. This Startup Reconstructs It. | Conception X | [Read More](https://medium.com/p/4cd3622141ed) |
-| Mon, 21 Jul 2025 15:00:36 GMT | Why Your Security Platform Needs to Live in the Browser | Conceal, Inc. | [Read More](https://medium.com/p/a2c9322aad4d) |
-| Mon, 21 Jul 2025 14:59:53 GMT | We Take Security Seriously (So Your Startup Doesn’t Have To) | Solo Recon | [Read More](https://medium.com/p/9b4653c8d774) |
-| Mon, 21 Jul 2025 14:54:59 GMT | From Engineer to Accidental Almost-a-CISO : A Cautionary Tale | César Sepúlveda | [Read More](https://medium.com/p/f383e7cd1dd5) |
-| Mon, 21 Jul 2025 14:54:57 GMT | Remote Access for Docker? Think Two Times! | Dio Rizqi | [Read More](https://medium.com/p/d97618056d54) |
-| Mon, 21 Jul 2025 14:53:30 GMT | Cross-Site Request Forgery Session Security | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/8aa27ecda889) |
-| Mon, 21 Jul 2025 14:51:35 GMT | Too Much, Too Soon | Akshat Singh | [Read More](https://medium.com/p/31ecb7d6bc56) |
-| Mon, 21 Jul 2025 14:51:07 GMT | Finished Pre Security Learning Path 7/21/2025 | Psalm Endozo | [Read More](https://medium.com/p/651f0b4e746c) |
-| Mon, 21 Jul 2025 14:43:11 GMT | How to Earn Big by $CVE Yield Generation on StakingRewards | Curvance | [Read More](https://medium.com/p/db0c30129e0c) |
