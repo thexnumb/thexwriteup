@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 16:49:23 GMT | ️‍♂️ Hacking Lab Tutorial: Discovering Info Leaks via Backup Files with Feroxbuster | Rajkumar Kumawat | [Read More](https://medium.com/p/f2af472d7189) |
+| Mon, 21 Jul 2025 16:42:59 GMT | 1:- Quantum Leech Virus:
+You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar Anwar | [Read More](https://medium.com/p/411cf74ec3a6) |
+| Mon, 21 Jul 2025 16:42:09 GMT | Meta Had a Bug That Could Leak Your Secret AI Prompts! | CoinGen | [Read More](https://medium.com/p/ede3db30cffd) |
+| Mon, 21 Jul 2025 16:38:34 GMT | ️ The Cybersecurity Blueprint: From Curious Beginner to Ethical Hacker | ShuklaAnurag | [Read More](https://medium.com/p/e40eba4068c3) |
+| Mon, 21 Jul 2025 16:37:40 GMT | OT Security Challenges and Solutions: Bridging the IT-OT Gap for a Safer Future | SafeAeon Inc. | [Read More](https://medium.com/p/685dc0ec82e9) |
+| Mon, 21 Jul 2025 16:31:49 GMT | AI-Powered Cybersecurity: The Future of Ethical Hacking and AI Defense | Sneha Rani | [Read More](https://medium.com/p/e6dd28a52673) |
 | Mon, 21 Jul 2025 16:29:14 GMT | How Phished npm Maintainers Let Malware Into 6 Popular Packages — And How You Can Shield Yourself | CyBlog | [Read More](https://medium.com/p/9de8bf42479b) |
 | Mon, 21 Jul 2025 16:25:04 GMT | Why Hackers Will Never Leak the Epstein Files — And What That Really Means | Shaant | [Read More](https://medium.com/p/219eb46a1ac3) |
 | Mon, 21 Jul 2025 16:16:58 GMT | Feroot PaymentGuard AI vs CSP: Which Script Security Tool Best Protects Payment Pages for PCI DSS 4. | Feroot Security | [Read More](https://medium.com/p/38171fbb5c9e) |
@@ -106,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 12:26:20 GMT | Fitting Tor, a Browser, and Linux Into a 120 MB Smart Watch: A Guide to Enhanced Anonymity and… | Raghav Vijayanand | [Read More](https://medium.com/p/916b49f699b8) |
 | Mon, 21 Jul 2025 12:11:24 GMT | Why Big Companies Are Falling in Love with Open Source | carlin desautels | [Read More](https://medium.com/p/5024ad9fa0f9) |
 | Mon, 21 Jul 2025 12:09:36 GMT | Tehdit İstihbaratının Planlanması ve Toplanması: Kaynaklar, Süreçler ve Dark Web’in Rolü | Enes Tekneci | [Read More](https://medium.com/p/0dedf3c4e975) |
-| Mon, 21 Jul 2025 12:08:43 GMT | Hybrid SOC Services: A Scalable Solution for Growing Cyber Threats | sanya | [Read More](https://medium.com/p/8ff0ed22e6f6) |
-| Mon, 21 Jul 2025 11:58:28 GMT | The 2025 2FA Security Guide: Why Your Password Isn’t Enough Anymore | TechEd Publishers | [Read More](https://medium.com/p/31f83a730a48) |
-| Mon, 21 Jul 2025 11:52:05 GMT | [EN] Introduction to Cybersecurity: What It Is and Why It Matters So Much | Güven Emre Keskin | [Read More](https://medium.com/p/45410726c761) |
-| Mon, 21 Jul 2025 11:51:25 GMT | MeetCyber’s OWASP Pledge: 1¢ Per New Follower, 10¢ Per New Writer | E. Ibrahimi | [Read More](https://medium.com/p/db4db622ca3e) |
-| Mon, 21 Jul 2025 11:48:53 GMT | Access control vulnerabilities | Usama Hanif | [Read More](https://medium.com/p/fedaecf28e81) |
-| Mon, 21 Jul 2025 11:46:36 GMT | How We Used Content Security Policy to Eliminate XSS Reports | Sumit Chahal | [Read More](https://medium.com/p/3bf8167aa8b9) |
