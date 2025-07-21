@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 19:31:06 GMT | Understanding the Cloud: What It Is and Why It Matters | Tech Made Simple By NTi | [Read More](https://medium.com/p/e953a798d475) |
+| Mon, 21 Jul 2025 19:29:58 GMT | Reconstructing a Stranger’s Life From Their Broken Phone: A Real OSINT Autopsy | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6fc61170c1b7) |
+| Mon, 21 Jul 2025 19:24:12 GMT | [Security] How to setup caddy for ssl certificates for your services with example of feature voting… | Sarvsav Sharma | [Read More](https://medium.com/p/dc74b2ce27b0) |
+| Mon, 21 Jul 2025 19:18:18 GMT | A Six-Hat Framework for Personal Data Security: Balancing Risks, Emotions & Innovation | Deepak Gupta | [Read More](https://medium.com/p/e31c49ad1d7e) |
 | Mon, 21 Jul 2025 19:15:52 GMT | AI-Powered Phishing Isn’t Waiting. Are You? | Rue | [Read More](https://medium.com/p/953e13684636) |
 | Mon, 21 Jul 2025 19:12:07 GMT | Digital Dumpster Diving: Finding Leaks, Docs, and Forgotten Data | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/afb23159b9d5) |
+| Mon, 21 Jul 2025 19:11:52 GMT | How Microsoft Copilot Is Redefining Workplace Productivity with AI | Techridge Solutions | [Read More](https://medium.com/p/135862db1cce) |
 | Mon, 21 Jul 2025 19:11:12 GMT | Detecting CVE-2025–53770 in SharePoint | Grupo Oruss | [Read More](https://medium.com/p/8a3354cad4f2) |
+| Mon, 21 Jul 2025 19:11:07 GMT | Jack of All Trades, Master of the AI Era” | Ajay Gurav | [Read More](https://medium.com/p/cae35bb8f916) |
 | Mon, 21 Jul 2025 19:07:27 GMT | Ethical OSINT Services You Can Offer: From Background Checks to Brand Safety | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2c1c1400eb1c) |
 | Mon, 21 Jul 2025 19:03:32 GMT | TOPIC: SLEEPING PRINCE IS DEATH. | Danjuma Plangkat | [Read More](https://medium.com/p/a03fccf7f5d4) |
 | Mon, 21 Jul 2025 19:00:26 GMT | Building an OSINT Portfolio: What Clients, Employers, and Hacktivists Want to See | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2c1e64cf1be6) |
@@ -107,9 +113,3 @@ You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar
 | Mon, 21 Jul 2025 13:57:35 GMT | TryHackMe — Request Smuggling: WebSockets | omni | [Read More](https://medium.com/p/01e63c55af1c) |
 | Mon, 21 Jul 2025 13:49:03 GMT | Why Recon Solana $RECON Growth Strategy Could Be Your Best Investment in 2025 | Recon Solana | [Read More](https://medium.com/p/35686a79c5d4) |
 | Mon, 21 Jul 2025 13:45:17 GMT | Digital Forensics | Arshad ali | [Read More](https://medium.com/p/f8107c482edb) |
-| Mon, 21 Jul 2025 13:45:05 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/aad6d592f75a) |
-| Mon, 21 Jul 2025 13:44:23 GMT | How to Earn Big by $BUG Yield Generation on StakingRewards | Bug | [Read More](https://medium.com/p/e6b973417fe7) |
-| Mon, 21 Jul 2025 13:41:54 GMT | Online Scams In 2025: What’s New And What’s Still Fooling People. | The Anti-Scam Diaries | [Read More](https://medium.com/p/48c8876d27b4) |
-| Mon, 21 Jul 2025 13:41:46 GMT | Zero-Knowledge Proofs Demystified: A Practical Code Guide for Developers | Ancilar Technologies | [Read More](https://medium.com/p/3f94682a852b) |
-| Mon, 21 Jul 2025 13:40:12 GMT | Building a Secure JWT Authenticator with Spring Boot — Step-by-Step Guide | Bilsinak | [Read More](https://medium.com/p/991fba9a8bcf) |
-| Mon, 21 Jul 2025 13:38:32 GMT | Lab: Username enumeration via different responses | Mukilan Baskaran | [Read More](https://medium.com/p/15d06fa9fb99) |
