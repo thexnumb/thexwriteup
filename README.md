@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 11:37:22 GMT | LetsDefend Walkthrough (SOC 146) — Event ID 93: Phishing Email with Excel 4.0 Macros | cy_girlie | [Read More](https://medium.com/p/26180b80bb81) |
+| Mon, 21 Jul 2025 11:37:16 GMT | The Man Behind the Mullet: Wrestling Humanity from the Shadows with Dog the Bounty Hunter | AI Tools Reviews | [Read More](https://medium.com/p/b6c261cb2005) |
+| Mon, 21 Jul 2025 11:35:46 GMT | The Hidden Threat in Plain Sight: How a JPG Can Hijack Your Computer | Pratik Gurav | [Read More](https://medium.com/p/97629f3b8f05) |
+| Mon, 21 Jul 2025 11:33:16 GMT | Measuring Cyber Security Effectively with KPIs | Sebastian Kandler | [Read More](https://medium.com/p/182559a0e130) |
+| Mon, 21 Jul 2025 11:32:24 GMT | Hacker’s Internship Diaries — Week 1: Understanding the Web - HTTP - API Styles - JWT -… | Mehmet Akif VARDAR | [Read More](https://medium.com/p/ee3a9af558ce) |
+| Mon, 21 Jul 2025 11:27:01 GMT | Day 50: NIST SP 800–53 Control Families, Let’s Break Them Down! | Brittney Ginther | [Read More](https://medium.com/p/c54b4eaff98b) |
+| Mon, 21 Jul 2025 11:26:42 GMT | XSS Session Security | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/6cdba3792ec6) |
+| Mon, 21 Jul 2025 11:24:21 GMT | Cyber Security Services in UAE — Help AG | Yasinussf | [Read More](https://medium.com/p/a04774a7e4db) |
+| Mon, 21 Jul 2025 11:22:35 GMT | If It’s a Dream, Then Wake Me Up | Kakoli Aster♡ | [Read More](https://medium.com/p/7af59a192493) |
+| Mon, 21 Jul 2025 11:20:27 GMT | Which Echo Chamber Are You Living In? | Paul L Partwell | [Read More](https://medium.com/p/1524dfb157c3) |
+| Mon, 21 Jul 2025 11:17:24 GMT | Why are Cyber Security Monitoring Services in Demand? | Cyberextent | [Read More](https://medium.com/p/de4b4f5f572a) |
+| Mon, 21 Jul 2025 11:14:17 GMT | Global Cyber Attack Targets Microsoft SharePoint: What You Need to Know | NextGenBytes | [Read More](https://medium.com/p/e390177c54de) |
+| Mon, 21 Jul 2025 11:13:22 GMT | Microsoft SharePoint Under Attack: Critical Zero-Day Exploited in the Wild | CYber VIaz | [Read More](https://medium.com/p/13cdf2f5a692) |
 | Mon, 21 Jul 2025 11:09:40 GMT | How I Found My First Bug & Got My First Bounty (£50) | MRKNIGHT-NIDU | [Read More](https://medium.com/p/6766c9fc8d78) |
 | Mon, 21 Jul 2025 11:06:42 GMT | Q-Day and Agentic AI: The Ultimate Nightmare in Cybersecurity | Carsten Stöcker | [Read More](https://medium.com/p/8f41f09496aa) |
 | Mon, 21 Jul 2025 11:04:05 GMT | Privacy-Preserving AI for User Data: Edge AI & Federated Learning in Consumer Products | YUSUFF ADENIYI GIWA | [Read More](https://medium.com/p/41779f94028e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 06:28:21 GMT | How I Found a Business Logic Flaw in a Growing EdTech Website (P1 Bug) | Tamilselvan A K | [Read More](https://medium.com/p/097a75290e72) |
 | Mon, 21 Jul 2025 06:26:04 GMT | CI/CD Security in 2025: Challenges, Tools & Pro Tips | Maya Collins | [Read More](https://medium.com/p/b95304b94dee) |
 | Mon, 21 Jul 2025 06:17:51 GMT | The Teenager Who Hacked Rockstar Games with Just an iPhone: A True Cybercrime Story | Nikita | [Read More](https://medium.com/p/0b6785713e1f) |
-| Mon, 21 Jul 2025 06:15:44 GMT | For Housekeeping and Security Team: | EXLITY | [Read More](https://medium.com/p/4228081a7ac8) |
-| Mon, 21 Jul 2025 06:12:08 GMT | TOPIC: STORY OF A CORRUPT POLICE MAN. | Danjuma Plangkat | [Read More](https://medium.com/p/6ae085af3ffd) |
-| Mon, 21 Jul 2025 06:10:54 GMT | Finstein’s 24x7 CSOC: Powering Cyber Resilience & Compliance in India | Finstein.ai | [Read More](https://medium.com/p/0e27cc74014b) |
-| Mon, 21 Jul 2025 06:09:58 GMT | Silver Halides in Early Film Technology | bispendra jewels | [Read More](https://medium.com/p/7a4caf94e8d7) |
-| Mon, 21 Jul 2025 06:05:49 GMT | PortSwigger Lab: Remote code execution via polyglot web shell upload writeup (File Upload… | awes0meness | [Read More](https://medium.com/p/7deb2dda13f6) |
-| Mon, 21 Jul 2025 06:02:49 GMT | PortSwigger Lab: Web shell upload via obfuscated file extension writeup (File Upload… | awes0meness | [Read More](https://medium.com/p/68137f8b3ee9) |
-| Mon, 21 Jul 2025 06:01:50 GMT | Bug Hunter’s  Career is going to End Be Alert ! [in 2025] | Mr Horbio | [Read More](https://medium.com/p/aa05dc8a6f13) |
-| Mon, 21 Jul 2025 06:00:48 GMT | Today’s Top Cyber Intelligence Highlights — Jul 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9c95358c4e9e) |
-| Mon, 21 Jul 2025 05:57:10 GMT | PortSwigger Lab: Web shell upload via extension blacklist bypass writeup (File Upload… | awes0meness | [Read More](https://medium.com/p/54769b1343f1) |
-| Mon, 21 Jul 2025 05:55:35 GMT | MCP and A2A in AI Agent Protocols — Security considerations (I) | SOCFortress | [Read More](https://medium.com/p/d8b34905316b) |
-| Mon, 21 Jul 2025 05:55:09 GMT | Data Security in Call Centres — Best Practices by Narendra Pahuja | Narendra Pahuja Naren Pahuja | [Read More](https://medium.com/p/642f295c18de) |
-| Mon, 21 Jul 2025 05:52:56 GMT | Outrage Is the Business Model | Matas Rimkus | [Read More](https://medium.com/p/4f57022c979f) |
-| Mon, 21 Jul 2025 05:52:42 GMT | How Internal Audit Drives Compliance & Innovation and How COMPASS Empowers It | COMPASS | [Read More](https://medium.com/p/c18725609445) |
