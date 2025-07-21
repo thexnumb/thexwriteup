@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 16:29:14 GMT | How Phished npm Maintainers Let Malware Into 6 Popular Packages — And How You Can Shield Yourself | CyBlog | [Read More](https://medium.com/p/9de8bf42479b) |
+| Mon, 21 Jul 2025 16:25:04 GMT | Why Hackers Will Never Leak the Epstein Files — And What That Really Means | Shaant | [Read More](https://medium.com/p/219eb46a1ac3) |
+| Mon, 21 Jul 2025 16:16:58 GMT | Feroot PaymentGuard AI vs CSP: Which Script Security Tool Best Protects Payment Pages for PCI DSS 4. | Feroot Security | [Read More](https://medium.com/p/38171fbb5c9e) |
+| Mon, 21 Jul 2025 16:16:44 GMT | Where Words Aren’t Needed | Isha | [Read More](https://medium.com/p/6d9eb857f49c) |
+| Mon, 21 Jul 2025 16:13:05 GMT | Gremlin’s Guide | Iangdonohue | [Read More](https://medium.com/p/706b7f563938) |
+| Mon, 21 Jul 2025 16:13:01 GMT | The Secure Web App Checklist for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/7b23eb7195fe) |
+| Mon, 21 Jul 2025 16:12:36 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/2108b160dcbf) |
+| Mon, 21 Jul 2025 16:11:33 GMT | Drosera Testnet is open | ㅤ | [Read More](https://medium.com/p/c68cba445fee) |
+| Mon, 21 Jul 2025 16:10:30 GMT | CSRF, XSS, and Other Scary Acronyms: Explained Simply | Rizqi Mulki | [Read More](https://medium.com/p/78a10a29ba21) |
+| Mon, 21 Jul 2025 16:10:01 GMT | Why HTTPS Isn’t Enough: Layers of Real Web Security | Rizqi Mulki | [Read More](https://medium.com/p/4d3628a4dfed) |
+| Mon, 21 Jul 2025 16:03:10 GMT | Secret Management in Docker: Techniques and Tools | @rnab | [Read More](https://medium.com/p/01b91b992ea0) |
+| Mon, 21 Jul 2025 16:00:43 GMT | Cookie Monster Secret Recipe - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/bdb2d9f1086d) |
+| Mon, 21 Jul 2025 16:00:11 GMT | Protecting Your Node.js App: A Complete Security Walkthrough | Somendradev | [Read More](https://medium.com/p/752efb0f5720) |
+| Mon, 21 Jul 2025 15:57:56 GMT | Best Spy Apps for Monitoring Phone Calls, Texts, and More | Narjis Batool | [Read More](https://medium.com/p/a1561ca92b68) |
+| Mon, 21 Jul 2025 15:53:42 GMT | Intelligence Wars in the Digital Age: Hybrid Warfare, Cyber Sovereignty, and Securing the Supply… | Carsten Stöcker | [Read More](https://medium.com/p/9b656d761401) |
+| Mon, 21 Jul 2025 15:52:57 GMT | Double Kill: Patchwork Group Attacks the South Asian Government Against Both Windows and Android… | Phatomcandle | [Read More](https://medium.com/p/0b9e47108372) |
+| Mon, 21 Jul 2025 15:48:00 GMT | Business Logic Vulnerabilities part-10 : Infinite money logic flaw | Ahmad Sopyan | [Read More](https://medium.com/p/4c9e97bf75cc) |
 | Mon, 21 Jul 2025 15:37:37 GMT | Behind the Bug: How to Write a Professional Bug Bounty Report | Yukeshwaran N | [Read More](https://medium.com/p/8c78d1689184) |
 | Mon, 21 Jul 2025 15:36:35 GMT | Regulation of Financial Influencers: Navigating Securities Law Violations and SEC Enforcement | SEC Lawyer 101 | [Read More](https://medium.com/p/c8d1866d1704) |
 | Mon, 21 Jul 2025 15:34:22 GMT | Why We All Want to Be Seen — But Are So Afraid of It | Ben-David | [Read More](https://medium.com/p/23c3038b734c) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 11:51:25 GMT | MeetCyber’s OWASP Pledge: 1¢ Per New Follower, 10¢ Per New Writer | E. Ibrahimi | [Read More](https://medium.com/p/db4db622ca3e) |
 | Mon, 21 Jul 2025 11:48:53 GMT | Access control vulnerabilities | Usama Hanif | [Read More](https://medium.com/p/fedaecf28e81) |
 | Mon, 21 Jul 2025 11:46:36 GMT | How We Used Content Security Policy to Eliminate XSS Reports | Sumit Chahal | [Read More](https://medium.com/p/3bf8167aa8b9) |
-| Mon, 21 Jul 2025 11:45:32 GMT | CTF Day(39) | Ahmed Narmer | [Read More](https://medium.com/p/a7da094645ce) |
-| Mon, 21 Jul 2025 11:44:04 GMT | Cybersecurity Basics for Beginners: Master This Rule, and You’ve Mastered Cybersecurity | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/531bfc45c17d) |
-| Mon, 21 Jul 2025 11:43:03 GMT | Best In Recovery | Norman Meg | [Read More](https://medium.com/p/c2e8be608c44) |
-| Mon, 21 Jul 2025 11:37:22 GMT | LetsDefend Walkthrough (SOC 146) — Event ID 93: Phishing Email with Excel 4.0 Macros | cy_girlie | [Read More](https://medium.com/p/26180b80bb81) |
-| Mon, 21 Jul 2025 11:37:16 GMT | The Man Behind the Mullet: Wrestling Humanity from the Shadows with Dog the Bounty Hunter | AI Tools Reviews | [Read More](https://medium.com/p/b6c261cb2005) |
-| Mon, 21 Jul 2025 11:35:46 GMT | The Hidden Threat in Plain Sight: How a JPG Can Hijack Your Computer | Pratik Gurav | [Read More](https://medium.com/p/97629f3b8f05) |
-| Mon, 21 Jul 2025 11:33:23 GMT | RBAC in Vue.js: Mastering User Permissions & Security | Nakiboddin Saiyad | [Read More](https://medium.com/p/75b547174c04) |
-| Mon, 21 Jul 2025 11:33:16 GMT | Measuring Cyber Security Effectively with KPIs | Sebastian Kandler | [Read More](https://medium.com/p/182559a0e130) |
-| Mon, 21 Jul 2025 11:32:24 GMT | Hacker’s Internship Diaries — Week 1: Understanding the Web - HTTP - API Styles - JWT -… | Mehmet Akif VARDAR | [Read More](https://medium.com/p/ee3a9af558ce) |
-| Mon, 21 Jul 2025 11:27:01 GMT | Day 50: NIST SP 800–53 Control Families, Let’s Break Them Down! | Brittney Ginther | [Read More](https://medium.com/p/c54b4eaff98b) |
-| Mon, 21 Jul 2025 11:26:42 GMT | XSS Session Security | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/6cdba3792ec6) |
-| Mon, 21 Jul 2025 11:24:21 GMT | Cyber Security Services in UAE — Help AG | Yasinussf | [Read More](https://medium.com/p/a04774a7e4db) |
-| Mon, 21 Jul 2025 11:22:35 GMT | If It’s a Dream, Then Wake Me Up | Kakoli Aster♡ | [Read More](https://medium.com/p/7af59a192493) |
-| Mon, 21 Jul 2025 11:20:27 GMT | Which Echo Chamber Are You Living In? | Paul L Partwell | [Read More](https://medium.com/p/1524dfb157c3) |
-| Mon, 21 Jul 2025 11:17:24 GMT | Why are Cyber Security Monitoring Services in Demand? | Cyberextent | [Read More](https://medium.com/p/de4b4f5f572a) |
-| Mon, 21 Jul 2025 11:14:17 GMT | Global Cyber Attack Targets Microsoft SharePoint: What You Need to Know | NextGenBytes | [Read More](https://medium.com/p/e390177c54de) |
-| Mon, 21 Jul 2025 11:13:22 GMT | Microsoft SharePoint Under Attack: Critical Zero-Day Exploited in the Wild | CYber VIaz | [Read More](https://medium.com/p/13cdf2f5a692) |
