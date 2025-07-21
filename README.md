@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 10:36:00 GMT | Securing India’s Future: The Rising Demand for Security Services in India and Mumbai | Ciss India | [Read More](https://medium.com/p/b79f04a378c5) |
+| Mon, 21 Jul 2025 10:33:33 GMT | AI Mutating Malware: Outsmarting Traditional Antivirus Defense | Karl Buhl | [Read More](https://medium.com/p/a0400b1d89d8) |
+| Mon, 21 Jul 2025 10:30:33 GMT | Data Loss Prevention (DLP): How to build DLP from scratch | Ismayil Zeynalov | [Read More](https://medium.com/p/da5d50ef6f10) |
+| Mon, 21 Jul 2025 10:23:26 GMT | The Internet Red Button: a 2016 Bug Still Lets Anyone Kill Solar Farms in 3 Clicks | Deep Specter Research | [Read More](https://medium.com/p/042eeca7df33) |
 | Mon, 21 Jul 2025 10:18:02 GMT | iPhone 17 Pro Max Leaks (2025): Everything You Need to Know | Digimad.online | [Read More](https://medium.com/p/e42549a1d338) |
 | Mon, 21 Jul 2025 10:17:39 GMT | How Secure Is RFID Technology? Uncovering the Truth Behind Its Safety and Risks | ShirleyLiu_RFIDTagcom | [Read More](https://medium.com/p/b20bca6bfc08) |
 | Mon, 21 Jul 2025 10:16:59 GMT | Blue walkthrough (THM) | The Commoness | [Read More](https://medium.com/p/b8933d74d294) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 05:33:08 GMT | Acalvio ShadowPlex: A Powerful Platform Dedicated to Cyber Deception | Adam Goss | [Read More](https://medium.com/p/23021142db93) |
 | Mon, 21 Jul 2025 05:32:20 GMT | Reverse Proxy Deep Dive: Part 2 | mitendra mahto | [Read More](https://medium.com/p/2dfafd11dd4c) |
 | Mon, 21 Jul 2025 05:29:50 GMT | How I Found a Bug in 1 minute | RivuDon | [Read More](https://medium.com/p/c81dc179d0aa) |
-| Mon, 21 Jul 2025 05:29:25 GMT | $500 Bounty: DOM-Based XSS in Gatecoin’s Charting Library | Monika sharma | [Read More](https://medium.com/p/e21e40c4f270) |
-| Mon, 21 Jul 2025 05:29:03 GMT | ️ Web3 Security Weekly — July 14–20, 2025 | Null Return | [Read More](https://medium.com/p/ebab4ec68d32) |
-| Mon, 21 Jul 2025 05:27:57 GMT | Is Your Business Secure? The Ultimate Guide to Cybersecurity for Indian Businesses in 2025 | Best Tech Company | [Read More](https://medium.com/p/372da8ec006b) |
-| Mon, 21 Jul 2025 05:27:38 GMT | The Password Graveyard: Why Yours is Dead on Arrival | Aj | [Read More](https://medium.com/p/c20c0575f8a2) |
