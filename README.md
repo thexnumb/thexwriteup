@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 13:34:47 GMT | CVE-2025-53770: A Critical Zero-Day RCE Vulnerability in Microsoft SharePoint Server | Maggs | [Read More](https://medium.com/p/5e56f0636dec) |
+| Mon, 21 Jul 2025 13:34:11 GMT | How to Set Up a VPS for Bug Bounty: DigitalOcean Setup Guide + Essential Tools (2025) | Manzjson | [Read More](https://medium.com/p/4212366d79f9) |
+| Mon, 21 Jul 2025 13:26:39 GMT | Unlock Growth Now: How Digital Engineering Propels Modern Industries Forward | Haridas G | [Read More](https://medium.com/p/4aa66d07f7da) |
+| Mon, 21 Jul 2025 13:22:46 GMT | HAPPY NEW WEEK! | Sybil Amarachi Ikechukwu | [Read More](https://medium.com/p/f27260743023) |
+| Mon, 21 Jul 2025 13:16:27 GMT | Kloudportal Case Study: WAN Transformation Impact | Violin Tec | [Read More](https://medium.com/p/b93a3db921fa) |
+| Mon, 21 Jul 2025 13:14:37 GMT | Microsoft Releases Emergency SharePoint Patches to Counter Critical Zero-Day Exploits | Technijian | [Read More](https://medium.com/p/aa4d16f7e891) |
+| Mon, 21 Jul 2025 13:13:09 GMT | Initvalue: Redefining Innovation as the Leading IT Software Company in Bangalore | Mohammed Zishan | [Read More](https://medium.com/p/eeb97f157c71) |
+| Mon, 21 Jul 2025 13:11:01 GMT | From Curiosity to Career: My First Cybersecurity Webinar | MrGood | [Read More](https://medium.com/p/e048ef99f52f) |
+| Mon, 21 Jul 2025 13:06:01 GMT | How a Simple SSRF Exposed Millions of User Records | Ibtissam hammadi | [Read More](https://medium.com/p/58b96e5f620a) |
+| Mon, 21 Jul 2025 13:03:29 GMT | Data Security: How Data Security is Ensured in FinTech | Onur Duman | [Read More](https://medium.com/p/1b0b3e48c1b4) |
+| Mon, 21 Jul 2025 13:03:07 GMT | What Does a Firmware Update Do? Here’s Why You Shouldn’t Ignore It | Timonéofearth | [Read More](https://medium.com/p/4f8d6b2d52e2) |
+| Mon, 21 Jul 2025 12:58:09 GMT | Commercial Access Control Systems in Baltimore — Advanced Security Solutions for Businesses | Katheryne | [Read More](https://medium.com/p/83bf200b652b) |
+| Mon, 21 Jul 2025 12:57:32 GMT | Hacker’s Internship Diaries — Week 1 Continued: Fundamentals of Web Security — OWASP TOP 10 With… | Mehmet Akif VARDAR | [Read More](https://medium.com/p/f6420b1f707f) |
+| Mon, 21 Jul 2025 12:55:43 GMT | How to Create a Successful Ethical Hacking certification (312–50) Study Plan with IPSpecialist | IPSpecialist | [Read More](https://medium.com/p/2b50325f5421) |
+| Mon, 21 Jul 2025 12:55:09 GMT | How I Used Tenable Security Center Plus to Scan Metasploitable in My ESXi Lab | Bridget | [Read More](https://medium.com/p/3f774fa606bb) |
+| Mon, 21 Jul 2025 12:54:51 GMT | How to Instantly Find a Full WordPress Site Takeover (In Just Minutes!) | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/1d8f7ef2cad0) |
+| Mon, 21 Jul 2025 12:52:52 GMT | Scope and Limitations | Covenant O.B. | [Read More](https://medium.com/p/6436a224afa5) |
+| Mon, 21 Jul 2025 12:47:41 GMT | Teen Hacker Stole $243M in Bitcoin, Revealed Identity on Livestream and Was Tracked Down | Weeklyblockchain | [Read More](https://medium.com/p/98c7ab6989fd) |
+| Mon, 21 Jul 2025 12:47:13 GMT | Someday, But Not Today | Kaleigh Dugan | [Read More](https://medium.com/p/41d5795a64d2) |
 | Mon, 21 Jul 2025 12:39:43 GMT | Computer Training Institutes In Hyderabad | APEC | [Read More](https://medium.com/p/d3cb0730ae96) |
 | Mon, 21 Jul 2025 12:38:58 GMT | INTRODUCTION TO THREAT INTELLIGENCE | Nikhitha A | [Read More](https://medium.com/p/c49af4cb634c) |
 | Mon, 21 Jul 2025 12:38:13 GMT | Android App Security in 2025 — Biometrics, App Integrity, and Play Protect | Reza Ramesh | [Read More](https://medium.com/p/e13486387ae7) |
@@ -79,6 +98,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 09:11:46 GMT | The Myth of Wanting the Truth | The Simple Mind | [Read More](https://medium.com/p/f99ff6eb5908) |
 | Mon, 21 Jul 2025 09:07:54 GMT | Cybersecurity Awareness — Data Loss Prevention (DLP): Protecting Sensitive Information in… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/81dc9cf55004) |
 | Mon, 21 Jul 2025 09:06:59 GMT | Risk Assessments and Security Audits: Beyond Compliance — Toward Constructive Conversations | Jair Abrego Cubilla | [Read More](https://medium.com/p/ee7c08a0b114) |
+| Mon, 21 Jul 2025 09:06:39 GMT | Footprinting & Reconnaissance | Median Talenta Raya | [Read More](https://medium.com/p/3138cc9b0c36) |
 | Mon, 21 Jul 2025 09:06:12 GMT | DSP Consultants as Approved Advisors by SIRA | DSP Consultants Services | [Read More](https://medium.com/p/39b9b76dbeba) |
 | Mon, 21 Jul 2025 09:03:00 GMT | Deconstructing Cyber Threats: A Power BI Analysis of Global Attack Trends | Mike Yousefizadeh | [Read More](https://medium.com/p/7ba8b2d673e6) |
 | Mon, 21 Jul 2025 09:02:40 GMT | How I Started in Cybersecurity with Zero Experience | Ritim Ghusraan | [Read More](https://medium.com/p/6e8dbf5caaab) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 08:30:32 GMT | Der ultimative Intelligent Automation Roadmap: Ihr Blueprint für nachhaltigen Geschäftserfolg | Philip Hansen | [Read More](https://medium.com/p/d0e4439e301c) |
 | Mon, 21 Jul 2025 08:30:25 GMT | Intelligent Automation Services: Der ultimative Praxisleitfaden für intelligente… | Philip Hansen | [Read More](https://medium.com/p/cb72fc915960) |
 | Mon, 21 Jul 2025 08:14:11 GMT | Cybersecurity in SQL Server: Protecting the Heart of Your Data Infrastructure | Syed Faysal Ali | [Read More](https://medium.com/p/1a632704aecd) |
-| Mon, 21 Jul 2025 08:07:00 GMT | Southwest’s Turbulent Transition: Taketh Away, Giveth Back? | Namir Sagheenanajar | [Read More](https://medium.com/p/d4eef86dd4a9) |
-| Mon, 21 Jul 2025 08:03:35 GMT | Mastering Apple Device Management in 2025 | Vantage MDM | [Read More](https://medium.com/p/e321256755a5) |
-| Mon, 21 Jul 2025 08:01:23 GMT | Intermediate Cybersecurity Home Lab Setup (Windows 11, Kali Linux, AD, Splunk, Sysmon & More) | Hammad Zahid | [Read More](https://medium.com/p/443c3d3a68d0) |
-| Mon, 21 Jul 2025 08:00:43 GMT | Web Cache Deception Explained - Portswigger BSCP Prep | Motasem Hamdan | [Read More](https://medium.com/p/88fccc7713fd) |
-| Mon, 21 Jul 2025 08:00:20 GMT | Cyber Security for Freshers: Course Structure, Cost & Degrees in 2025 | Sanchitamishra | [Read More](https://medium.com/p/07741ebb78b4) |
-| Mon, 21 Jul 2025 07:57:11 GMT | 보안을 공공재로 — 쿼리파이 커뮤니티 에디션을 무료로 공개합니다 | Chedda | [Read More](https://medium.com/p/4518779a0d2a) |
-| Mon, 21 Jul 2025 07:51:00 GMT | Why We’re Offering Our Enterprise-Grade Access Control Platform for Free | Chedda | [Read More](https://medium.com/p/f4049cdb0ed6) |
-| Mon, 21 Jul 2025 07:42:45 GMT | Bilgisayar Ağa Nasıl Bağlanır? IP ve TCP/IP Mantığını Anlamak | Ferdi Karakurt | [Read More](https://medium.com/p/0d76055939ca) |
-| Mon, 21 Jul 2025 07:42:22 GMT | วันที่ดิฉันเริ่มกลัวการให้เบอร์โทรหรือ ID line | Thanapornwongkij | [Read More](https://medium.com/p/c05834ae1c9d) |
-| Mon, 21 Jul 2025 07:40:50 GMT | Introducing TempEmailNow: Bangladesh’s Own Privacy-Focused Disposable Email Service | Temp Email Now | [Read More](https://medium.com/p/ddcc49542af3) |
-| Mon, 21 Jul 2025 07:35:40 GMT | Who Gave That AI Legal Advice?!‍⚖️ | Yash Gorasiya | [Read More](https://medium.com/p/707c58b86184) |
-| Mon, 21 Jul 2025 07:35:18 GMT | Wired for the Future: Why Tech Literacy is the New Urban Essential | iLLTechRepair | [Read More](https://medium.com/p/f09c1439543e) |
-| Mon, 21 Jul 2025 07:34:14 GMT | Top 5 Bug Bounty Myths I Believed (And Why They’re So Wrong, It Hurts) | Viratavi | [Read More](https://medium.com/p/7df14d68ae63) |
-| Mon, 21 Jul 2025 07:32:42 GMT | Kali Hacking Machine on Windows | Dick van Straaten | [Read More](https://medium.com/p/027a14f16028) |
-| Mon, 21 Jul 2025 07:31:48 GMT | Why Men Stay Silent on Mental Health? | Matt Adams | [Read More](https://medium.com/p/84fadeb431df) |
-| Mon, 21 Jul 2025 07:29:20 GMT | Zero Trust Isn’t Just a Framework -It’s a Mindset Shift | NizzCorp Academy | [Read More](https://medium.com/p/7c3c229d5fa2) |
-| Mon, 21 Jul 2025 07:25:42 GMT | Cybersecurity 101: Protecting Your Digital Life | Mehmoodulhassan | [Read More](https://medium.com/p/b7cb3fb2a1af) |
-| Mon, 21 Jul 2025 07:23:26 GMT | WHY TRADITIONAL CRYPTO WALLETS ARE FAILING USERS? | WalletKeeper | [Read More](https://medium.com/p/ea7a5f92c0d3) |
-| Mon, 21 Jul 2025 07:15:48 GMT | GRC in Cybersecurity — The “Why” Behind the Controls | Mujtaba Shaikeldin | [Read More](https://medium.com/p/e72ef4f16b8e) |
-| Mon, 21 Jul 2025 07:14:54 GMT | Physical Recon… To Perform Recon… | Red | [Read More](https://medium.com/p/7abc095d2c35) |
