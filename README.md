@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 15:21:54 GMT | CVE-2025–53770: A Critical RCE vulnerin SharePoint Under Active Exploitation | RealSec.io | [Read More](https://medium.com/p/bb636e2479e9) |
+| Mon, 21 Jul 2025 15:10:22 GMT | From Pink Slip to Penetration Tester: How I’m Reinventing My Cybersecurity Career | Chris Huffstetler | [Read More](https://medium.com/p/eca65b5a577a) |
+| Mon, 21 Jul 2025 15:10:13 GMT | Dark Web Credentials? Not on Our Watch!” | Dr. Shashi Karhail | [Read More](https://medium.com/p/55b5bbc4ed4f) |
+| Mon, 21 Jul 2025 15:08:11 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/a4697dabfe01) |
+| Mon, 21 Jul 2025 15:03:33 GMT | Cyber Security- Digital security- Risk Assessment In Uk | QualysecEurope | [Read More](https://medium.com/p/e86374b8f1a2) |
+| Mon, 21 Jul 2025 15:01:19 GMT | Dear Reader, This Is Me Trying | The Gentle Unfolding | [Read More](https://medium.com/p/61c7f00f78c4) |
+| Mon, 21 Jul 2025 15:01:03 GMT | Software Binaries Obscure Developer Intent. This Startup Reconstructs It. | Conception X | [Read More](https://medium.com/p/4cd3622141ed) |
+| Mon, 21 Jul 2025 15:00:36 GMT | Why Your Security Platform Needs to Live in the Browser | Conceal, Inc. | [Read More](https://medium.com/p/a2c9322aad4d) |
+| Mon, 21 Jul 2025 14:59:53 GMT | We Take Security Seriously (So Your Startup Doesn’t Have To) | Solo Recon | [Read More](https://medium.com/p/9b4653c8d774) |
+| Mon, 21 Jul 2025 14:54:59 GMT | From Engineer to Accidental Almost-a-CISO : A Cautionary Tale | César Sepúlveda | [Read More](https://medium.com/p/f383e7cd1dd5) |
+| Mon, 21 Jul 2025 14:54:57 GMT | Remote Access for Docker? Think Two Times! | Dio Rizqi | [Read More](https://medium.com/p/d97618056d54) |
+| Mon, 21 Jul 2025 14:53:30 GMT | Cross-Site Request Forgery Session Security | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/8aa27ecda889) |
+| Mon, 21 Jul 2025 14:51:35 GMT | Too Much, Too Soon | Akshat Singh | [Read More](https://medium.com/p/31ecb7d6bc56) |
+| Mon, 21 Jul 2025 14:51:07 GMT | Finished Pre Security Learning Path 7/21/2025 | Psalm Endozo | [Read More](https://medium.com/p/651f0b4e746c) |
+| Mon, 21 Jul 2025 14:43:11 GMT | How to Earn Big by $CVE Yield Generation on StakingRewards | Curvance | [Read More](https://medium.com/p/db0c30129e0c) |
 | Mon, 21 Jul 2025 14:42:10 GMT | Web Development in 2025 | Learning Axis | [Read More](https://medium.com/p/87a0bb192293) |
 | Mon, 21 Jul 2025 14:39:55 GMT | $DORK Yield Generation for Maximum Returns on StakingRewards | DORK | [Read More](https://medium.com/p/83d0b0713894) |
 | Mon, 21 Jul 2025 14:29:31 GMT | Top 10 Best GRC Tools in 2025: Gartner-Backed List of Leading Governance, Risk & Compliance… | Technologic Innovation | [Read More](https://medium.com/p/c825c0cf27aa) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 10:53:16 GMT | Mastering Subfinder for Bug Bounty: My Secret Weapon for Finding Hidden Subdomains ️‍♂️ | Krish_cyber | [Read More](https://medium.com/p/91a62d04651d) |
 | Mon, 21 Jul 2025 10:52:35 GMT | Welcome to IntelligenceX: Your Digital Defense Starts Here | IntelligenceX | [Read More](https://medium.com/p/92b531e829e9) |
 | Mon, 21 Jul 2025 10:50:46 GMT | The EU AI Act: Navigating Risks, Opportunities, and Global Influence in Artificial Intelligence… | Noaman Kazi | [Read More](https://medium.com/p/3649d79591ac) |
-| Mon, 21 Jul 2025 10:36:00 GMT | Securing India’s Future: The Rising Demand for Security Services in India and Mumbai | Ciss India | [Read More](https://medium.com/p/b79f04a378c5) |
-| Mon, 21 Jul 2025 10:33:33 GMT | AI Mutating Malware: Outsmarting Traditional Antivirus Defense | Karl Buhl | [Read More](https://medium.com/p/a0400b1d89d8) |
-| Mon, 21 Jul 2025 10:30:33 GMT | Data Loss Prevention (DLP): How to build DLP from scratch | Ismayil Zeynalov | [Read More](https://medium.com/p/da5d50ef6f10) |
-| Mon, 21 Jul 2025 10:23:26 GMT | The Internet Red Button: a 2016 Bug Still Lets Anyone Kill Solar Farms in 3 Clicks | Deep Specter Research | [Read More](https://medium.com/p/042eeca7df33) |
-| Mon, 21 Jul 2025 10:18:02 GMT | iPhone 17 Pro Max Leaks (2025): Everything You Need to Know | Digimad.online | [Read More](https://medium.com/p/e42549a1d338) |
-| Mon, 21 Jul 2025 10:17:39 GMT | How Secure Is RFID Technology? Uncovering the Truth Behind Its Safety and Risks | ShirleyLiu_RFIDTagcom | [Read More](https://medium.com/p/b20bca6bfc08) |
-| Mon, 21 Jul 2025 10:16:59 GMT | Blue walkthrough (THM) | The Commoness | [Read More](https://medium.com/p/b8933d74d294) |
-| Mon, 21 Jul 2025 10:11:34 GMT | Frequently Asked Questions before choosing a Cybersecurity Consulting agency | Forbes | [Read More](https://medium.com/p/667d4daaea28) |
-| Mon, 21 Jul 2025 10:10:43 GMT | MITRE ATT&CK FRAME WORK | ayub_91 | [Read More](https://medium.com/p/486dc8a5f7d9) |
-| Mon, 21 Jul 2025 10:10:20 GMT | Small Business IT Support Services: Costs, Benefits, Challenges & How to Pick the Right One | tommy reed | [Read More](https://medium.com/p/77d439cc1587) |
-| Mon, 21 Jul 2025 10:10:06 GMT | Read These or Risk It: Cybersecurity Must-Reads | Aj | [Read More](https://medium.com/p/9d626d1f915e) |
-| Mon, 21 Jul 2025 10:09:26 GMT | HostingB2B & Acronis: Reliable Disaster Recovery Solutions | HostingB2B | [Read More](https://medium.com/p/fd1b53e7525a) |
-| Mon, 21 Jul 2025 10:08:25 GMT | CyberX: Powering Digital Futures | Tekhabeeb | [Read More](https://medium.com/p/33b3eb4e150e) |
-| Mon, 21 Jul 2025 10:05:15 GMT | How I Set Up the ELK Stack on Ubuntu for My SOC Lab | Reina Baz | [Read More](https://medium.com/p/a10860465336) |
-| Mon, 21 Jul 2025 10:05:07 GMT | Rethinking Network Security: Why It’s Time to Upgrade to a Next-Generation Firewall | NizzCorp Academy | [Read More](https://medium.com/p/ad155b7db5a4) |
