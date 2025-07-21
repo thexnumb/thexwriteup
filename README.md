@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 22:17:01 GMT | Combatting Credential Stuffing with Detection and Response | Karthikeyan Nagaraj | [Read More](https://medium.com/p/449b58a64973) |
+| Mon, 21 Jul 2025 21:57:57 GMT | AI in Zero Trust: The Cyber Defense Story You Didn’t Know You Were Living | Cyber-AppSec | [Read More](https://medium.com/p/802749cb6fa7) |
+| Mon, 21 Jul 2025 21:49:03 GMT | Google Cybersecurity Certification Journey- Course 1: Introduction - Module 2: Cyber Evolution | Proteek Bose | [Read More](https://medium.com/p/bc545f26364f) |
 | Mon, 21 Jul 2025 21:19:50 GMT | A Beginner-to-Expert Dive into Kubernetes & Azure Kubernetes Service (AKS) | Aparna Gutla | [Read More](https://medium.com/p/8989f09402bc) |
 | Mon, 21 Jul 2025 20:58:04 GMT | "From Signals to Security: A Graduate’s Tech Roadmap" | Oriade Stephen Ayodeji | [Read More](https://medium.com/p/060c421d9276) |
 | Mon, 21 Jul 2025 20:55:13 GMT | What Is Variable Shadowing? How to Spot and Fix This $10 Million Bug | AIAlchemist_Ab1r | [Read More](https://medium.com/p/27b7e5da47f3) |
@@ -110,6 +113,3 @@ You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar
 | Mon, 21 Jul 2025 15:10:22 GMT | From Pink Slip to Penetration Tester: How I’m Reinventing My Cybersecurity Career | Chris Huffstetler | [Read More](https://medium.com/p/eca65b5a577a) |
 | Mon, 21 Jul 2025 15:10:13 GMT | Dark Web Credentials? Not on Our Watch!” | Dr. Shashi Karhail | [Read More](https://medium.com/p/55b5bbc4ed4f) |
 | Mon, 21 Jul 2025 15:08:11 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/a4697dabfe01) |
-| Mon, 21 Jul 2025 15:03:33 GMT | Cyber Security- Digital security- Risk Assessment In Uk | QualysecEurope | [Read More](https://medium.com/p/e86374b8f1a2) |
-| Mon, 21 Jul 2025 15:01:19 GMT | Dear Reader, This Is Me Trying | The Gentle Unfolding | [Read More](https://medium.com/p/61c7f00f78c4) |
-| Mon, 21 Jul 2025 15:01:03 GMT | Software Binaries Obscure Developer Intent. This Startup Reconstructs It. | Conception X | [Read More](https://medium.com/p/4cd3622141ed) |
