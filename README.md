@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 11:09:40 GMT | How I Found My First Bug & Got My First Bounty (£50) | MRKNIGHT-NIDU | [Read More](https://medium.com/p/6766c9fc8d78) |
+| Mon, 21 Jul 2025 11:06:42 GMT | Q-Day and Agentic AI: The Ultimate Nightmare in Cybersecurity | Carsten Stöcker | [Read More](https://medium.com/p/8f41f09496aa) |
+| Mon, 21 Jul 2025 11:04:05 GMT | Privacy-Preserving AI for User Data: Edge AI & Federated Learning in Consumer Products | YUSUFF ADENIYI GIWA | [Read More](https://medium.com/p/41779f94028e) |
+| Mon, 21 Jul 2025 11:01:25 GMT | 3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics | CYber VIaz | [Read More](https://medium.com/p/086120222c7e) |
+| Mon, 21 Jul 2025 11:01:04 GMT | Cybersecurity Is Not Optional: Why SMEs Must Rethink IT Strategy | Elevate | [Read More](https://medium.com/p/9ebbcc25c862) |
+| Mon, 21 Jul 2025 10:54:10 GMT | Beginner to Advanced Cyber Security Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/90c4316dc83d) |
+| Mon, 21 Jul 2025 10:53:16 GMT | Mastering Subfinder for Bug Bounty: My Secret Weapon for Finding Hidden Subdomains ️‍♂️ | Krish_cyber | [Read More](https://medium.com/p/91a62d04651d) |
+| Mon, 21 Jul 2025 10:52:35 GMT | Welcome to IntelligenceX: Your Digital Defense Starts Here | IntelligenceX | [Read More](https://medium.com/p/92b531e829e9) |
+| Mon, 21 Jul 2025 10:50:46 GMT | The EU AI Act: Navigating Risks, Opportunities, and Global Influence in Artificial Intelligence… | Noaman Kazi | [Read More](https://medium.com/p/3649d79591ac) |
 | Mon, 21 Jul 2025 10:36:00 GMT | Securing India’s Future: The Rising Demand for Security Services in India and Mumbai | Ciss India | [Read More](https://medium.com/p/b79f04a378c5) |
 | Mon, 21 Jul 2025 10:33:33 GMT | AI Mutating Malware: Outsmarting Traditional Antivirus Defense | Karl Buhl | [Read More](https://medium.com/p/a0400b1d89d8) |
 | Mon, 21 Jul 2025 10:30:33 GMT | Data Loss Prevention (DLP): How to build DLP from scratch | Ismayil Zeynalov | [Read More](https://medium.com/p/da5d50ef6f10) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 05:55:09 GMT | Data Security in Call Centres — Best Practices by Narendra Pahuja | Narendra Pahuja Naren Pahuja | [Read More](https://medium.com/p/642f295c18de) |
 | Mon, 21 Jul 2025 05:52:56 GMT | Outrage Is the Business Model | Matas Rimkus | [Read More](https://medium.com/p/4f57022c979f) |
 | Mon, 21 Jul 2025 05:52:42 GMT | How Internal Audit Drives Compliance & Innovation and How COMPASS Empowers It | COMPASS | [Read More](https://medium.com/p/c18725609445) |
-| Mon, 21 Jul 2025 05:52:40 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/cce9f6501c75) |
-| Mon, 21 Jul 2025 05:48:35 GMT | The News Is a Drug. And You’re Hooked. | Matas Rimkus | [Read More](https://medium.com/p/920e0acf8b0b) |
-| Mon, 21 Jul 2025 05:48:09 GMT | Application Penetration Testing: Securing Web & Mobile Apps in a Volatile Digital Era | DefenceRabbit | [Read More](https://medium.com/p/569bdc25b514) |
-| Mon, 21 Jul 2025 05:46:33 GMT | Turning Big Ideas Into Real Results: A Human Approach to Digital Growth | Generaltester | [Read More](https://medium.com/p/d57ba1812bc2) |
-| Mon, 21 Jul 2025 05:43:43 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/f1aaa7c028d1) |
-| Mon, 21 Jul 2025 05:35:48 GMT | THM — Attacktive Directory | Cyber Anom | [Read More](https://medium.com/p/280498827dc6) |
-| Mon, 21 Jul 2025 05:33:08 GMT | Acalvio ShadowPlex: A Powerful Platform Dedicated to Cyber Deception | Adam Goss | [Read More](https://medium.com/p/23021142db93) |
-| Mon, 21 Jul 2025 05:32:20 GMT | Reverse Proxy Deep Dive: Part 2 | mitendra mahto | [Read More](https://medium.com/p/2dfafd11dd4c) |
-| Mon, 21 Jul 2025 05:29:50 GMT | How I Found a Bug in 1 minute | RivuDon | [Read More](https://medium.com/p/c81dc179d0aa) |
