@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 21 Jul 2025 07:42:45 GMT | Bilgisayar Ağa Nasıl Bağlanır? IP ve TCP/IP Mantığını Anlamak | Ferdi Karakurt | [Read More](https://medium.com/p/0d76055939ca) |
+| Mon, 21 Jul 2025 07:42:22 GMT | วันที่ดิฉันเริ่มกลัวการให้เบอร์โทรหรือ ID line | Thanapornwongkij | [Read More](https://medium.com/p/c05834ae1c9d) |
+| Mon, 21 Jul 2025 07:40:50 GMT | Introducing TempEmailNow: Bangladesh’s Own Privacy-Focused Disposable Email Service | Temp Email Now | [Read More](https://medium.com/p/ddcc49542af3) |
+| Mon, 21 Jul 2025 07:35:40 GMT | Who Gave That AI Legal Advice?!‍⚖️ | Yash Gorasiya | [Read More](https://medium.com/p/707c58b86184) |
+| Mon, 21 Jul 2025 07:35:18 GMT | Wired for the Future: Why Tech Literacy is the New Urban Essential | iLLTechRepair | [Read More](https://medium.com/p/f09c1439543e) |
+| Mon, 21 Jul 2025 07:34:14 GMT | Top 5 Bug Bounty Myths I Believed (And Why They’re So Wrong, It Hurts) | Viratavi | [Read More](https://medium.com/p/7df14d68ae63) |
+| Mon, 21 Jul 2025 07:32:42 GMT | Kali Hacking Machine on Windows | Dick van Straaten | [Read More](https://medium.com/p/027a14f16028) |
+| Mon, 21 Jul 2025 07:31:48 GMT | Why Men Stay Silent on Mental Health? | Matt Adams | [Read More](https://medium.com/p/84fadeb431df) |
+| Mon, 21 Jul 2025 07:29:20 GMT | Zero Trust Isn’t Just a Framework -It’s a Mindset Shift | NizzCorp Academy | [Read More](https://medium.com/p/7c3c229d5fa2) |
+| Mon, 21 Jul 2025 07:25:42 GMT | Cybersecurity 101: Protecting Your Digital Life | Mehmoodulhassan | [Read More](https://medium.com/p/b7cb3fb2a1af) |
 | Mon, 21 Jul 2025 07:23:26 GMT | WHY TRADITIONAL CRYPTO WALLETS ARE FAILING USERS? | WalletKeeper | [Read More](https://medium.com/p/ea7a5f92c0d3) |
 | Mon, 21 Jul 2025 07:15:48 GMT | GRC in Cybersecurity — The “Why” Behind the Controls | Mujtaba Shaikeldin | [Read More](https://medium.com/p/e72ef4f16b8e) |
 | Mon, 21 Jul 2025 07:14:54 GMT | Physical Recon… To Perform Recon… | Red | [Read More](https://medium.com/p/7abc095d2c35) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 03:13:16 GMT | Web Application Pen-testing — Enumeration & Brute Force | Suraj Singh | [Read More](https://medium.com/p/52d0e2746b84) |
 | Mon, 21 Jul 2025 03:09:28 GMT | I Found a Terminal Full of Secrets — These 17 Linux Commands Told Me More Than I Expected | Alex Joyel Raj | [Read More](https://medium.com/p/8a033a7308ee) |
 | Mon, 21 Jul 2025 03:06:48 GMT | Terraforming the Cloud | Nigel Dsouza | [Read More](https://medium.com/p/b70335e679c2) |
-| Mon, 21 Jul 2025 03:01:53 GMT | Russia-North Korea Alliance Intensifies — Troop Deployments, Mutual Defense, and Economic Projects… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/5824b3ae0a2e) |
-| Mon, 21 Jul 2025 02:52:36 GMT | Before You Fall in Love, Read This. | Rukky Ranyo | [Read More](https://medium.com/p/0485ae5017c3) |
-| Mon, 21 Jul 2025 02:50:23 GMT | TryHackMe - Infinity Shell - Write-up | Andrey Dolya | [Read More](https://medium.com/p/38acdb2e651e) |
-| Mon, 21 Jul 2025 02:42:15 GMT | Hack The Box Starting Point Sequel:A Step-by-Step Walkthrough of HTB’s Basic Database Challenge | Gopal Mohan | [Read More](https://medium.com/p/86839a0fcac3) |
-| Mon, 21 Jul 2025 02:41:59 GMT | When Root Access Comes Easy: Why CVE‑2025‑20337 Should alarm us all. | VaRiOus_CanAriEs | [Read More](https://medium.com/p/7aa4de7fb343) |
-| Mon, 21 Jul 2025 02:37:59 GMT | Appointment: An SQL Injection Journey | Praharsha Kumar | [Read More](https://medium.com/p/fd3b35102f4a) |
-| Mon, 21 Jul 2025 02:28:41 GMT | Forging Strength from Vulnerability | Barbara Schreibke | [Read More](https://medium.com/p/ffaf978d622b) |
-| Mon, 21 Jul 2025 02:26:57 GMT | HTB Appointment CTF: Mastering Basic SQL Injection Vulnerabilities | Gopal Mohan | [Read More](https://medium.com/p/315d227b6f8a) |
-| Mon, 21 Jul 2025 02:11:37 GMT | Test | Donghai Gong | [Read More](https://medium.com/p/cc47bacbbb1f) |
-| Mon, 21 Jul 2025 01:58:53 GMT | What Does It Mean To Salt a Password? | Jesse Langford | [Read More](https://medium.com/p/cdfaf4c44f8f) |
