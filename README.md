@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 13:35:02 GMT | Navigating the AI Frontier: Agents, Browsers, and the Enterprise Imperative | Mammoth Cyber | [Read More](https://medium.com/p/413f92314d52) |
+| Tue, 22 Jul 2025 13:31:46 GMT | Cyber Warfare: How Increasing Digital Threats Are Reshaping Global Security? | Harsh Mehta | [Read More](https://medium.com/p/4e2814c62f6a) |
+| Tue, 22 Jul 2025 13:29:06 GMT | Will AI Replace SOC Analysts in 2025? | Simbian.ai | [Read More](https://medium.com/p/e693154d762a) |
+| Tue, 22 Jul 2025 13:20:52 GMT | The July 2025 Cybersecurity Crisis: SharePoint Zero-Days, Nation-State Exploits, and the High Cost… | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/de8964a09692) |
+| Tue, 22 Jul 2025 13:19:51 GMT | The Ultimate Guide to AI SOC Analysts: Revolutionizing Cybersecurity Operations in 2025 | Simbian.ai | [Read More](https://medium.com/p/8568c1abfa52) |
+| Tue, 22 Jul 2025 13:16:59 GMT | How to find .JS files for vulnerabilities: A Bug Bounty Hunter’s Guide | Ibtissam hammadi | [Read More](https://medium.com/p/3ecf207b4845) |
+| Tue, 22 Jul 2025 13:16:47 GMT | Why Hiring a Professional Security Guard Service is Essential for Your Business | Direct Guard Services | [Read More](https://medium.com/p/75a26cc32ba2) |
+| Tue, 22 Jul 2025 13:15:00 GMT | Keepnet: The Best KnowBe4 Alternative for Human Risk Management | Keepnet Labs | [Read More](https://medium.com/p/762995fe6e23) |
+| Tue, 22 Jul 2025 13:14:41 GMT | Zeus — DownUnderCTF Reverse Engineering Challenge | codebreaker | [Read More](https://medium.com/p/eba6194f8a9f) |
+| Tue, 22 Jul 2025 13:14:41 GMT | How To Spot A Phishing Email In Under 10 Seconds. | The Anti-Scam Diaries | [Read More](https://medium.com/p/51fa1abbac52) |
+| Tue, 22 Jul 2025 13:11:58 GMT | What Is Flash USDT? Know Before You're Tricked | Moco | [Read More](https://medium.com/p/6e127f9df00a) |
+| Tue, 22 Jul 2025 13:11:42 GMT | L3akCTF 2025 — WhiteSpace Writeup | BastionWA | [Read More](https://medium.com/p/1e3dd4b110b8) |
+| Tue, 22 Jul 2025 13:11:08 GMT | Safeguarding the Nation: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/79b1f950382b) |
+| Tue, 22 Jul 2025 13:03:38 GMT | Why are we so uncomfortable with being unfinished? | Annabell Ryker | [Read More](https://medium.com/p/3a32c67653e8) |
+| Tue, 22 Jul 2025 12:53:44 GMT | Empower Your Business with Smart Technology Solutions — STSPL | Inshan Singh | [Read More](https://medium.com/p/01f30c03dea8) |
 | Tue, 22 Jul 2025 12:42:12 GMT | Mastering Symantec 250-587 Complete Guide to Data Loss Prevention Certification | Mehmood Ali | [Read More](https://medium.com/p/c221e99e254d) |
+| Tue, 22 Jul 2025 12:41:20 GMT | 7 Promising Job Prospects for Informatics Graduates in the Digital Age | Rismayanti mautipiyau | [Read More](https://medium.com/p/7977796c055e) |
 | Tue, 22 Jul 2025 12:34:07 GMT | SecurityForce Webflow Template for Guard Firms | Morris Lucas | [Read More](https://medium.com/p/d4f5d119a6a4) |
 | Tue, 22 Jul 2025 12:33:02 GMT | BehindTheScreens: From Cobalt Strike to Container Escapes | Sam - Behind The Screens | [Read More](https://medium.com/p/26f7359c890f) |
 | Tue, 22 Jul 2025 12:30:58 GMT | CVE-2025–25257: FortiWeb SQL Injection to RCE Exposed | Kalariya Het | [Read More](https://medium.com/p/9a2e0e9dd78e) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 09:22:03 GMT | Exploit - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/186d3cb465b7) |
 | Tue, 22 Jul 2025 09:09:51 GMT | CVE-2024–24916 | Karol Mazurek | [Read More](https://medium.com/p/396479975a0b) |
 | Tue, 22 Jul 2025 09:09:14 GMT | Cybersecurity Liabilities in M&A Deals | Byte & Brief | [Read More](https://medium.com/p/f4626cf7d959) |
-| Tue, 22 Jul 2025 09:02:23 GMT | Welcome to my new therapy. | Todd | [Read More](https://medium.com/p/eb5e87a36345) |
-| Tue, 22 Jul 2025 08:55:48 GMT | Apple Vision Pro 2: Everything We Know So Far in 2025 [Release Date, Features, Rumors] | Digimad.online | [Read More](https://medium.com/p/fb1a38a07118) |
-| Tue, 22 Jul 2025 08:54:42 GMT | iOS 19: Top 15 Features Leaked So Far (2025 Preview Guide) | Digimad.online | [Read More](https://medium.com/p/565f4cdd2645) |
-| Tue, 22 Jul 2025 08:54:27 GMT | Are You Really Safe Online in 2025? | HackersPrey | [Read More](https://medium.com/p/b91f0279abf0) |
-| Tue, 22 Jul 2025 08:54:22 GMT | How to Maintain ISO 27001 Compliance: 17 Pro Strategies | SecureSlate | [Read More](https://medium.com/p/eb1165c7dc2e) |
-| Tue, 22 Jul 2025 08:46:39 GMT | The Unseen Weight — The Stress of Being a CISO | Travis Ray Caverhill | [Read More](https://medium.com/p/0126e3d1bf2e) |
-| Tue, 22 Jul 2025 08:41:30 GMT | F5 BIG-IP: Initial Network Configuration | Ghostploit | [Read More](https://medium.com/p/7b48bf3ba8c9) |
-| Tue, 22 Jul 2025 08:38:30 GMT | The Future Is Now: Top 10 Tech Trends That Will Define 2025 | sana irshad | [Read More](https://medium.com/p/fb63fae8d07d) |
-| Tue, 22 Jul 2025 08:38:05 GMT | Siber Güvenliğe Giden Yolun Başlangıcı: Network Öğrenmek | Mehmet Ali | [Read More](https://medium.com/p/de7badea0fb0) |
-| Tue, 22 Jul 2025 08:34:20 GMT | Ağ Güvenliğinde IDS Sistemleri ve Snort Kullanımı | Berkay Köseoğlu | [Read More](https://medium.com/p/4f70af779d5b) |
-| Tue, 22 Jul 2025 08:26:16 GMT | Etik Hacker olma yolunda ilk adım | Mehmet Ali | [Read More](https://medium.com/p/d404f97096b9) |
-| Tue, 22 Jul 2025 08:21:54 GMT | Detecting the Possibility of Cross-Site Scripting (XSS) and Checking for False Positives | Shalomo Agarwarkar | [Read More](https://medium.com/p/0eb3a34c743f) |
-| Tue, 22 Jul 2025 08:16:58 GMT | BUG BOUNTY-La lógica rota no lanza errores. Sólo oportunidades. | Gorka | [Read More](https://medium.com/p/bc97104ef0fc) |
-| Tue, 22 Jul 2025 08:15:24 GMT | How I Found a CORS Misconfiguration that let me change user address | Nuhman Jaseel A P | [Read More](https://medium.com/p/97006df4913c) |
-| Tue, 22 Jul 2025 08:13:52 GMT | FortiGate 60F: Looking for Powerful, Affordable Security? | Juara IT Solutions | [Read More](https://medium.com/p/569d0b42e379) |
-| Tue, 22 Jul 2025 08:13:47 GMT | Best Kiosk Browser Lockdown Methods for 2025 | Vantage MDM | [Read More](https://medium.com/p/a1dd7a6b8b07) |
