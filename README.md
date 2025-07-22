@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 11:33:02 GMT | SMTP Auto Parser & Renderer | 0xBobby | [Read More](https://medium.com/p/c426f973cc47) |
+| Tue, 22 Jul 2025 11:32:42 GMT | 1. Web Security | unknownman | [Read More](https://medium.com/p/e4a0f073f1a9) |
+| Tue, 22 Jul 2025 11:31:49 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5a1174323f99) |
+| Tue, 22 Jul 2025 11:29:55 GMT | “Surveillance Firm Bypasses SS7 Security: A Wake-Up Call for Mobile Privacy” | Pallavi S V | [Read More](https://medium.com/p/eca9fa13db33) |
+| Tue, 22 Jul 2025 11:27:02 GMT | Day 51: NIST SP 800–53 BaselinesChoosing and Tailoring Controls the Smart Way | Brittney Ginther | [Read More](https://medium.com/p/f58863f4f620) |
+| Tue, 22 Jul 2025 11:26:53 GMT | Entra ID: Admin roles GAP finder in MFA caps | TheCyberFoxHound | [Read More](https://medium.com/p/77f07c388329) |
+| Tue, 22 Jul 2025 11:26:19 GMT | OpenAI’s ChatGPT Agent Is a Powerful Model with Notable Safety and Security Issues | Giorgi Asatashvili | [Read More](https://medium.com/p/bc4c346bbdc5) |
+| Tue, 22 Jul 2025 11:23:28 GMT | This AWS Service Controls Everything — But Most People Ignore It | Alex Joyel Raj | [Read More](https://medium.com/p/fd5b45534f9c) |
+| Tue, 22 Jul 2025 11:23:07 GMT | Server Infrastructure: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/8b1bcdbf7e18) |
+| Tue, 22 Jul 2025 11:19:51 GMT | When the Cloud Grounds a Fleet: Lessons from the Alaska Airlines IT Outage | The Quiet Hacker | [Read More](https://medium.com/p/d5994e53199e) |
+| Tue, 22 Jul 2025 11:13:15 GMT | 7 Things You Must Do After Installing SafeLine | Maverick Steel | [Read More](https://medium.com/p/a25072e0b7d9) |
 | Tue, 22 Jul 2025 11:11:48 GMT | Smart Security with Less Friction: Building Risk-Based Conditional Access Policies in Entra ID | Oludolamu Onimole | [Read More](https://medium.com/p/4307c24f8ec7) |
 | Tue, 22 Jul 2025 11:10:55 GMT | Hacking APIs: A Comprehensive Methodology for Ethical Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/8652133a3aeb) |
 | Tue, 22 Jul 2025 11:08:00 GMT | Ending Security Privilege: Is Inclusive, Accessible, and Smart Mobile Security Possible for… | MerYunCyber | [Read More](https://medium.com/p/6221c0e621ba) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 07:27:44 GMT | Build Your First Penetration Testing Lab with DVWA (Step-by-Step) | Ayush Pandey | [Read More](https://medium.com/p/280941e7a6f3) |
 | Tue, 22 Jul 2025 07:26:11 GMT | Did We Stop Writing for People? | Nissi | [Read More](https://medium.com/p/fc1e808edc6c) |
 | Tue, 22 Jul 2025 07:22:11 GMT | Rising Cryptocurrency Theft in 2025 and Its Implications for Indonesia’s Financial Security | MITRE Doggy | [Read More](https://medium.com/p/3894055f2098) |
-| Tue, 22 Jul 2025 07:22:08 GMT | Hackers Use This Nmap + Netcat Trick to Get SSH Access (TryHackMe: Intermediate Nmap) | MatSec | [Read More](https://medium.com/p/db2df0c953cb) |
-| Tue, 22 Jul 2025 07:20:29 GMT | 5 Powerful Dashlane Alternatives You Need to Try Today (Before You Get Locked Out!) | Peter Miľovčík | [Read More](https://medium.com/p/c848aed591f5) |
-| Tue, 22 Jul 2025 07:18:41 GMT | The Use of Rule-Based Key Generation | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/37ca49fb3416) |
-| Tue, 22 Jul 2025 07:17:48 GMT | Understanding the Cloud: The New Age Battlefield | inok009 | [Read More](https://medium.com/p/0e17b5387b4e) |
-| Tue, 22 Jul 2025 07:17:42 GMT | What Is ntopng and Why It Matters | cybrNK | [Read More](https://medium.com/p/ef6a4e603997) |
-| Tue, 22 Jul 2025 07:10:11 GMT | Received first recommendation on OpenBugBounty | AbhirupKonwar | [Read More](https://medium.com/p/eaf5eb29336d) |
-| Tue, 22 Jul 2025 07:10:00 GMT | How To Use Google Data Studio For Maximum Benefit | Jane Watson | [Read More](https://medium.com/p/1fe7249713bf) |
-| Tue, 22 Jul 2025 07:03:18 GMT | LLM vs XSS P3 | Suhana Shaik | [Read More](https://medium.com/p/ba776fa7fc5e) |
-| Tue, 22 Jul 2025 07:01:26 GMT | Laptop & Computer Repair Services ️ | Malik fatima | [Read More](https://medium.com/p/96e97a1f8a80) |
-| Tue, 22 Jul 2025 06:58:02 GMT | How A2N Academy Prepares You for a Career in Cyber Security | Sureshnextwebi | [Read More](https://medium.com/p/6bf29fd951cb) |
-| Tue, 22 Jul 2025 06:58:02 GMT | AI-Driven Attack Surface Discovery | Netlas.io | [Read More](https://medium.com/p/618af697a845) |
