@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 09:24:05 GMT | Cc Cvv dumps All Transfers PayPal western union Zelle Bitcoins Bank Clone Cards/ATM upgrade all… | Albert | [Read More](https://medium.com/p/57c6ba24f4c6) |
+| Tue, 22 Jul 2025 09:22:03 GMT | Exploit - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/186d3cb465b7) |
+| Tue, 22 Jul 2025 09:09:51 GMT | CVE-2024–24916 | Karol Mazurek | [Read More](https://medium.com/p/396479975a0b) |
+| Tue, 22 Jul 2025 09:09:14 GMT | Cybersecurity Liabilities in M&A Deals | Byte & Brief | [Read More](https://medium.com/p/f4626cf7d959) |
+| Tue, 22 Jul 2025 09:02:23 GMT | Welcome to my new therapy. | Todd | [Read More](https://medium.com/p/eb5e87a36345) |
+| Tue, 22 Jul 2025 08:55:48 GMT | Apple Vision Pro 2: Everything We Know So Far in 2025 [Release Date, Features, Rumors] | Digimad.online | [Read More](https://medium.com/p/fb1a38a07118) |
+| Tue, 22 Jul 2025 08:54:42 GMT | iOS 19: Top 15 Features Leaked So Far (2025 Preview Guide) | Digimad.online | [Read More](https://medium.com/p/565f4cdd2645) |
+| Tue, 22 Jul 2025 08:54:27 GMT | Are You Really Safe Online in 2025? | HackersPrey | [Read More](https://medium.com/p/b91f0279abf0) |
+| Tue, 22 Jul 2025 08:54:22 GMT | How to Maintain ISO 27001 Compliance: 17 Pro Strategies | SecureSlate | [Read More](https://medium.com/p/eb1165c7dc2e) |
+| Tue, 22 Jul 2025 08:46:39 GMT | The Unseen Weight — The Stress of Being a CISO | Travis Ray Caverhill | [Read More](https://medium.com/p/0126e3d1bf2e) |
+| Tue, 22 Jul 2025 08:41:30 GMT | F5 BIG-IP: Initial Network Configuration | Ghostploit | [Read More](https://medium.com/p/7b48bf3ba8c9) |
+| Tue, 22 Jul 2025 08:38:30 GMT | The Future Is Now: Top 10 Tech Trends That Will Define 2025 | sana irshad | [Read More](https://medium.com/p/fb63fae8d07d) |
+| Tue, 22 Jul 2025 08:38:05 GMT | Siber Güvenliğe Giden Yolun Başlangıcı: Network Öğrenmek | Mehmet Ali | [Read More](https://medium.com/p/de7badea0fb0) |
+| Tue, 22 Jul 2025 08:34:20 GMT | Ağ Güvenliğinde IDS Sistemleri ve Snort Kullanımı | Berkay Köseoğlu | [Read More](https://medium.com/p/4f70af779d5b) |
 | Tue, 22 Jul 2025 08:26:16 GMT | Etik Hacker olma yolunda ilk adım | Mehmet Ali | [Read More](https://medium.com/p/d404f97096b9) |
 | Tue, 22 Jul 2025 08:21:54 GMT | Detecting the Possibility of Cross-Site Scripting (XSS) and Checking for False Positives | Shalomo Agarwarkar | [Read More](https://medium.com/p/0eb3a34c743f) |
 | Tue, 22 Jul 2025 08:16:58 GMT | BUG BOUNTY-La lógica rota no lanza errores. Sólo oportunidades. | Gorka | [Read More](https://medium.com/p/bc97104ef0fc) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 04:43:35 GMT | Yippee — OSINT— DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/ba2a888edd07) |
 | Tue, 22 Jul 2025 04:31:58 GMT | My First Bug Got Duped — And I’m Weirdly Proud of It | Viratavi | [Read More](https://medium.com/p/02a05b79447a) |
 | Tue, 22 Jul 2025 04:24:15 GMT | ️ SharePoint Under Siege: CVE‑2025‑53770 Exploited in the Wild | Paritosh | [Read More](https://medium.com/p/82490670a252) |
-| Tue, 22 Jul 2025 04:24:09 GMT | CVE-2025–53770/TOOLSHELL: HUNTING DOWN THE ATTACKER TECHNIQUES & VICTIMS | Rakesh Krishnan | [Read More](https://medium.com/p/28a8c7baffb1) |
-| Tue, 22 Jul 2025 04:11:52 GMT | Exploitation of Continuous Integration Pipelines for Supply Chain Compromise and Backdoor Injection | Aaishh | [Read More](https://medium.com/p/e464d4f1c3ac) |
-| Tue, 22 Jul 2025 04:06:42 GMT | How to Install Windows 11 on VMware Workstation | Friendly Rogue | [Read More](https://medium.com/p/71b206ea2735) |
-| Tue, 22 Jul 2025 04:03:10 GMT | Addressing Common Vulnerabilities in Docker Security | @rnab | [Read More](https://medium.com/p/1274ede89109) |
-| Tue, 22 Jul 2025 04:00:57 GMT | Strategic Paralysis by Design: Part VIII — The Fog of Cyber-War: Attribution, Delay, and Denial | Chris Clark | [Read More](https://medium.com/p/ecd3f133425f) |
-| Tue, 22 Jul 2025 03:58:48 GMT | AI red teaming with PyRIT — A framework developed by Microsoft: part 1 | Debashis Debnath | [Read More](https://medium.com/p/dcea3f0023e2) |
-| Tue, 22 Jul 2025 03:56:29 GMT | How to Implement a Cyber Risk Management Framework for Your Business | Chatsm | [Read More](https://medium.com/p/43bb1a5e0d4d) |
-| Tue, 22 Jul 2025 03:53:27 GMT | How I Investigated a Live SharePoint Zero-Day (As a Student) | Varnith | [Read More](https://medium.com/p/c2ada7c26593) |
-| Tue, 22 Jul 2025 03:44:47 GMT | The Real Cost of Free WiFi — How Public Network Spy on You | Rahul Mishra | [Read More](https://medium.com/p/2be9b5745215) |
-| Tue, 22 Jul 2025 03:33:32 GMT | How Cast AI Is Saving Your Kubernetes From 2025’s Most Brutal CVE Attacks (Before They Strike) | Kunal Das | [Read More](https://medium.com/p/847b399d337d) |
-| Tue, 22 Jul 2025 03:31:52 GMT | Trading in Trouble: Japan Sounds Alarm Over Hacked Investor Accounts and Fraudulent Trades | Deven Chhajed | [Read More](https://medium.com/p/8a3574c6602a) |
-| Tue, 22 Jul 2025 03:31:29 GMT | Understanding the Log4j (Log4Shell) Vulnerability: A Simple Explanation with Example | Shalomo Agarwarkar | [Read More](https://medium.com/p/a20135803956) |
-| Tue, 22 Jul 2025 03:28:02 GMT | Durable Security for AI-Embedded Applications | Chandan Bilvaraj | [Read More](https://medium.com/p/3cc775ca581a) |
-| Tue, 22 Jul 2025 03:21:36 GMT | Cap HackTheBox: Insecure Direct Object Reference and Insecure Protocol | Wahyu Nufal Azmi | [Read More](https://medium.com/p/610b58b91f77) |
