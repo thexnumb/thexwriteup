@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 07:22:08 GMT | Hackers Use This Nmap + Netcat Trick to Get SSH Access (TryHackMe: Intermediate Nmap) | MatSec | [Read More](https://medium.com/p/db2df0c953cb) |
+| Tue, 22 Jul 2025 07:20:29 GMT | 5 Powerful Dashlane Alternatives You Need to Try Today (Before You Get Locked Out!) | Peter Miľovčík | [Read More](https://medium.com/p/c848aed591f5) |
+| Tue, 22 Jul 2025 07:17:42 GMT | What Is ntopng and Why It Matters | cybrNK | [Read More](https://medium.com/p/ef6a4e603997) |
+| Tue, 22 Jul 2025 07:10:11 GMT | Received first recommendation on OpenBugBounty | AbhirupKonwar | [Read More](https://medium.com/p/eaf5eb29336d) |
+| Tue, 22 Jul 2025 07:10:00 GMT | How To Use Google Data Studio For Maximum Benefit | Jane Watson | [Read More](https://medium.com/p/1fe7249713bf) |
+| Tue, 22 Jul 2025 07:03:18 GMT | LLM vs XSS P3 | Suhana Shaik | [Read More](https://medium.com/p/ba776fa7fc5e) |
+| Tue, 22 Jul 2025 07:01:26 GMT | Laptop & Computer Repair Services ️ | Malik fatima | [Read More](https://medium.com/p/96e97a1f8a80) |
+| Tue, 22 Jul 2025 06:58:02 GMT | How A2N Academy Prepares You for a Career in Cyber Security | Sureshnextwebi | [Read More](https://medium.com/p/6bf29fd951cb) |
+| Tue, 22 Jul 2025 06:58:02 GMT | AI-Driven Attack Surface Discovery | Netlas.io | [Read More](https://medium.com/p/618af697a845) |
+| Tue, 22 Jul 2025 06:57:12 GMT | Implementing ISMS Correctly—Systematic Instead of Chaotic | Robert Güntherberg | [Read More](https://medium.com/p/c50e24bd8e77) |
+| Tue, 22 Jul 2025 06:54:42 GMT | ARC People and the Illusion of Digital Trust: A Compliance Firm’s Website That Fails Its Own… | 0trust0day | [Read More](https://medium.com/p/4911560e8de9) |
+| Tue, 22 Jul 2025 06:43:28 GMT | IP Address Explained Simply (With 192.168.1.1 as Example) | Akhil Boddula | [Read More](https://medium.com/p/e9ac603a8241) |
+| Tue, 22 Jul 2025 06:42:05 GMT | You Don’t Land a Cybersecurity Job with a Certificate. You Do It with Skills | Game Art Design | [Read More](https://medium.com/p/95b627e2e96e) |
+| Tue, 22 Jul 2025 06:39:46 GMT | Building the Subscription-Based Code Manager: From Zero to Hero on Vercel | Unicorn Day | [Read More](https://medium.com/p/492463e6f1b1) |
+| Tue, 22 Jul 2025 06:39:22 GMT | What Really Happens During a Background Check? | Mariiatata | [Read More](https://medium.com/p/884b56741d26) |
+| Tue, 22 Jul 2025 06:38:50 GMT | The Standards Making Identity Security Better: A 2025 Review | Abhay Kulkarni | [Read More](https://medium.com/p/c858ff4e4310) |
+| Tue, 22 Jul 2025 06:32:22 GMT | Beware of “Easy UPI Commission” Jobs – It’s a Scam! | Ankit sen | [Read More](https://medium.com/p/e5f0b0c5bf40) |
+| Tue, 22 Jul 2025 06:31:20 GMT | Dorks For Sensitive Information Disclosure Part-2 | Zuri | [Read More](https://medium.com/p/4355b479d2aa) |
+| Tue, 22 Jul 2025 06:30:32 GMT | WAFirewall Bypass Payloads. | Rishav anand | [Read More](https://medium.com/p/db6988828448) |
+| Tue, 22 Jul 2025 06:27:10 GMT | Website Hacking in the UAE: Legal Risks and Real Consequences | Ludmila Yamalova | [Read More](https://medium.com/p/00575b99bac4) |
 | Tue, 22 Jul 2025 06:22:53 GMT | Strategic Paralysis by Design: Part X — Moving Toward a Resilient Republic: Recommendations for a… | Chris Clark | [Read More](https://medium.com/p/6d9d0bf956ba) |
 | Tue, 22 Jul 2025 06:20:54 GMT | Understanding the WAF to Bypass it . | Rishav anand | [Read More](https://medium.com/p/749aab2a8473) |
 | Tue, 22 Jul 2025 06:18:14 GMT | Best Security Guards Service Provider in Gurugram | Dhruv | [Read More](https://medium.com/p/4ee55a29ce0a) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 01:11:42 GMT | SECURET: The Messenger That Doesn’t Watch You Back | SAYCOIN | [Read More](https://medium.com/p/b40ecdfa4cfc) |
 | Tue, 22 Jul 2025 01:10:15 GMT | Common Mistakes in Web Application Security | Steve Splash | [Read More](https://medium.com/p/56231dcc1909) |
 | Tue, 22 Jul 2025 01:02:00 GMT | Part I: The Modern CISO | Kalpitha S | [Read More](https://medium.com/p/0008b1c2908c) |
-| Tue, 22 Jul 2025 01:01:59 GMT | Infrastructure Part I: Cyber-Crisis | Kalpitha S | [Read More](https://medium.com/p/33fa8c13b30d) |
-| Tue, 22 Jul 2025 00:58:20 GMT | How to enable Secure Boot for your AI workloads | Maciej Strzelczyk | [Read More](https://medium.com/p/6065dc75645b) |
-| Tue, 22 Jul 2025 00:43:25 GMT | Top 5 Tools Every Penetration Tester Should Know | Steve Splash | [Read More](https://medium.com/p/e15d5a98eedc) |
-| Tue, 22 Jul 2025 00:41:57 GMT | Day 57: VM Networking | Nile Okomo | [Read More](https://medium.com/p/a51343715738) |
-| Tue, 22 Jul 2025 00:39:34 GMT | Day 56: Hypervisors | Nile Okomo | [Read More](https://medium.com/p/819da814ec49) |
-| Tue, 22 Jul 2025 00:38:43 GMT | Day 55: Network Mapper | Nile Okomo | [Read More](https://medium.com/p/481022ccbd6f) |
-| Tue, 22 Jul 2025 00:33:31 GMT | The Invisible Weakness: Unmasking IoT Vulnerabilities in a Connected World | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/33a0127330c1) |
-| Tue, 22 Jul 2025 00:31:55 GMT | DefenseArk #ThreatIntelThursday - Smurf Attacks | Kalpitha S | [Read More](https://medium.com/p/a47456123d21) |
-| Tue, 22 Jul 2025 00:27:08 GMT | CoinDCX Hack: 44 Million Dollars Lost. How Safeguard Helps Protect Your Crypto | Safeguard Capital | [Read More](https://medium.com/p/9a6f40e5348a) |
-| Tue, 22 Jul 2025 00:17:26 GMT | Supply Chain Attacks: The Hidden Cyber Threat Targeting Trust | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/9b730a1df7e1) |
-| Tue, 22 Jul 2025 00:06:19 GMT | Is Your Local Setup a Security Bottleneck? Why Project Isolation is Non-Negotiable Now | James Miller | [Read More](https://medium.com/p/d8328611da15) |
-| Tue, 22 Jul 2025 00:05:51 GMT | Vulnerability as Strength: The Psychology Behind Emotional Openness | Rashee | [Read More](https://medium.com/p/c00b9fd0dd9b) |
-| Tue, 22 Jul 2025 00:01:50 GMT | Security Misconfiguration (OWASP A05): Guía de Hacking y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/566c927d0228) |
-| Mon, 21 Jul 2025 23:59:49 GMT | How Construction Site Security Guards Service Prevents Theft | Salum Security | [Read More](https://medium.com/p/3ad10d34ca0a) |
-| Mon, 21 Jul 2025 23:51:03 GMT | I Found 127 Hidden Bugs in JavaScript Files Here’s How | Ibtissam hammadi | [Read More](https://medium.com/p/544f6f57346c) |
-| Mon, 21 Jul 2025 23:39:30 GMT | Writeup — Evil File reader (Web) — BDSec CTF 2025 | TIOURSI YASSER | [Read More](https://medium.com/p/049eb114b9cd) |
-| Mon, 21 Jul 2025 23:35:37 GMT | The SSL Struggle Is Real: How I Got HTTPS Working on Azure Web Apps | Rani Kumari | [Read More](https://medium.com/p/a62d74a975d1) |
-| Mon, 21 Jul 2025 23:32:11 GMT | DefenseArk #ThreatIntelThursday - VPNs — Rewards and Risks — Part 1 | Kalpitha S | [Read More](https://medium.com/p/ad77c21c36ab) |
-| Mon, 21 Jul 2025 23:31:49 GMT | FortiGuard Inline Malware Prevention Service: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b20bf8287055) |
-| Mon, 21 Jul 2025 23:30:34 GMT | TryHackMe - Mr. Phisher- Write-Up | Andrey Dolya | [Read More](https://medium.com/p/495a81178179) |
