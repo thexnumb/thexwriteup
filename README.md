@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 21:10:52 GMT | Invisible Operators: The Psychology of the Chameleon Asset | L.Serrone | [Read More](https://medium.com/p/7db2523a1c64) |
+| Tue, 22 Jul 2025 21:02:01 GMT | ️ Diary of an Ex-Black Hat – Day 2: What Makes a Hacker “Go Dark”? | Untold Story of I | [Read More](https://medium.com/p/f4bfeaf3a490) |
+| Tue, 22 Jul 2025 20:55:29 GMT | Android Penetration Testing: Complete Beginner to Advanced Guide (Part 1)— Getting Started / Basic… | AG_Notes | [Read More](https://medium.com/p/aa582c8f8759) |
+| Tue, 22 Jul 2025 20:54:18 GMT | TheHackersLabs — Back To The Future 1 [Write-Up] | APS88 | [Read More](https://medium.com/p/0909cc0375a0) |
+| Tue, 22 Jul 2025 20:51:13 GMT | Fixing Black Arch Invalid Signatures | 0xchilli | [Read More](https://medium.com/p/6ce2d513e60e) |
+| Tue, 22 Jul 2025 20:48:19 GMT | The Pulse of IT in Today’s World: Facts, Figures & the Future | Missumehani | [Read More](https://medium.com/p/e90f59c26999) |
+| Tue, 22 Jul 2025 20:47:22 GMT | Approaching the Age of Superintelligence | M. Yanuar Anshori | [Read More](https://medium.com/p/5c19527a59c3) |
+| Tue, 22 Jul 2025 20:47:13 GMT | A Forgotten Domain, a Hidden SSRF: How I Followed a Gut Feeling and Hit Gold | Rutvik Kalkumbe | [Read More](https://medium.com/p/2dc17f743c00) |
 | Tue, 22 Jul 2025 20:41:58 GMT | $2,000 Bounty: Exploiting a Memory Corruption in PHP’s | Monika sharma | [Read More](https://medium.com/p/5b7b384d81de) |
 | Tue, 22 Jul 2025 20:41:26 GMT | $1,121 Bounty: A Deep Dive into Crash.mkv | Monika sharma | [Read More](https://medium.com/p/2eab28c23064) |
 | Tue, 22 Jul 2025 20:34:43 GMT | burplabs: Automated python package for portswigger labs | Sneh bavarva | [Read More](https://medium.com/p/34f59a9184a2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 16:12:33 GMT | Low‑Cost Aircraft Proximity Alert for Schools and Nearby Infrastructure | Nahid Khan Shuvo | [Read More](https://medium.com/p/efecbdebf94f) |
 | Tue, 22 Jul 2025 16:09:36 GMT | User enumeration: Um “pontinho”foi crucial! | Gabriel Jesus | [Read More](https://medium.com/p/709b95c3f47d) |
 | Tue, 22 Jul 2025 16:06:59 GMT | MindPalace: A Web-Based Sliver C2 Terminal for Red Team Operators | Anthony Cihan | [Read More](https://medium.com/p/322a6b6a380a) |
-| Tue, 22 Jul 2025 16:01:53 GMT | Unbreakable Clusters: 5 Kubernetes Security Best Practices You Can’t Ignore | Yatin | [Read More](https://medium.com/p/3b696f2db947) |
-| Tue, 22 Jul 2025 15:59:58 GMT | From Cute Story to Cybersecurity Risk: How I Bypassed an AI’s Guardrails” | Ayyappan A | [Read More](https://medium.com/p/156cea27df11) |
-| Tue, 22 Jul 2025 15:56:53 GMT | 1. Web Security | unknownman | [Read More](https://medium.com/p/f5115c33a365) |
-| Tue, 22 Jul 2025 15:50:36 GMT | ️ Exploiting Stored XSS to Bypass CSRF Protection and Gain Admin Access | Ali Ziro | [Read More](https://medium.com/p/a62530977a5b) |
-| Tue, 22 Jul 2025 15:50:04 GMT | This Silence Has a Story | Heidi lai | [Read More](https://medium.com/p/55bf7d4f00af) |
-| Tue, 22 Jul 2025 15:43:39 GMT | Yellow RAT CTF Report: Investigating the GlobalTech Industries Incident - Yellow RAT CTF Raporu… | Samet Koca | [Read More](https://medium.com/p/b58f10efefd6) |
-| Tue, 22 Jul 2025 15:37:05 GMT | “I’m surprised that I am thinking more than twice to post this. | Heidi lai | [Read More](https://medium.com/p/0f85222c37ca) |
-| Tue, 22 Jul 2025 15:37:02 GMT | Window Fundamental For Beginners | Mainekdeveloper | [Read More](https://medium.com/p/0aedab23581d) |
