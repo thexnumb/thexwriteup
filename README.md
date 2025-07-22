@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 10:25:30 GMT | How Hackers Exploit Code — and How Developers Can Fight Back in 2025 | FlymingoTech | [Read More](https://medium.com/p/4dd799999602) |
+| Tue, 22 Jul 2025 10:14:52 GMT | Creating A Network Protocol Analyzer in Python | Priyanshu Singh | [Read More](https://medium.com/p/4d81b0b898fe) |
+| Tue, 22 Jul 2025 10:10:53 GMT | Soroban Security Portal | Inferara | [Read More](https://medium.com/p/70c19d6e85e7) |
+| Tue, 22 Jul 2025 10:10:04 GMT | What’s the Cost of Hiring a Cybersecurity Expert in 2025? | Forbes | [Read More](https://medium.com/p/cc557300bb5b) |
+| Tue, 22 Jul 2025 10:07:12 GMT | Google’s Secret AI Can Read Your Mood From Your Face And It Might Change Everything | Informer | [Read More](https://medium.com/p/4b9a0f561bd5) |
+| Tue, 22 Jul 2025 10:06:17 GMT | What It Says About Me That All My Friends Have Problems | Johanna | [Read More](https://medium.com/p/598c4d98fe36) |
+| Tue, 22 Jul 2025 10:04:17 GMT | The Triaging Process in Cybersecurity: A SOC’s First Line of Defense | ayub_91 | [Read More](https://medium.com/p/8370615644a4) |
+| Tue, 22 Jul 2025 10:03:51 GMT | CVE‑2025‑53770 — SharePoint Zero-Day Variant Exploited for Full RCE | Aditya Bhatt | [Read More](https://medium.com/p/73e552114cc7) |
+| Tue, 22 Jul 2025 10:01:48 GMT | Go-To Checklist for Securing My Condo Before Vacation | Viktor Ponamarev | [Read More](https://medium.com/p/e9618f9bace0) |
+| Tue, 22 Jul 2025 09:54:31 GMT | What Are Tactics, Techniques, and Procedures (TTPs) in Cybersecurity? | tommy reed | [Read More](https://medium.com/p/b79d40446d13) |
+| Tue, 22 Jul 2025 09:51:58 GMT | Payment Security Market to Witness Strong Growth Driven by Rising Cyber Threats and Digital Payment… | Neha Patil | [Read More](https://medium.com/p/3530f7e72e4a) |
+| Tue, 22 Jul 2025 09:49:55 GMT | Top 20 Windows CMD Prompts for Beginners (With a Side of Sarcasm and Mischief) | Travis Ray Caverhill | [Read More](https://medium.com/p/06f4e46f3ac1) |
+| Tue, 22 Jul 2025 09:49:19 GMT | Rethinking Cybersecurity in the Age of Generative AI | CES | [Read More](https://medium.com/p/8b362556b577) |
+| Tue, 22 Jul 2025 09:48:49 GMT | Τί είναι τα Cookies στο Διαδίκτυο και πώς επηρεάζουν την ιδιωτικότητά σου | Akis Papas | [Read More](https://medium.com/p/39bbdf5af6f4) |
+| Tue, 22 Jul 2025 09:46:52 GMT | Blending Objective-C, Python & React UI Components | Bhavesh Rajpurohit | [Read More](https://medium.com/p/9d9896f79688) |
 | Tue, 22 Jul 2025 09:44:23 GMT | The Modifiability of the Scientific Method | Ali Raza | [Read More](https://medium.com/p/ea31696f724b) |
+| Tue, 22 Jul 2025 09:42:50 GMT | Best Redhat Openshift Training and Certification in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/52eff3052475) |
 | Tue, 22 Jul 2025 09:38:42 GMT | Understanding and Defending Against Targeted Ransomware Attacks | Gauravinsightss | [Read More](https://medium.com/p/6068ebed45cd) |
 | Tue, 22 Jul 2025 09:37:48 GMT | A New Era of Decentralized Security for EVM Blockchains | Daniel Udo | [Read More](https://medium.com/p/5bf263cc0f3a) |
 | Tue, 22 Jul 2025 09:37:41 GMT | How Hackers Could Attack TSMC | David SEHYEON Baek | [Read More](https://medium.com/p/6f81ecacaa6f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 05:57:40 GMT | Leadership in the Era of Synthetic Reality: The AI-Blockchain Alliance | Flavio Aliberti | [Read More](https://medium.com/p/4cc4d43e2cd8) |
 | Tue, 22 Jul 2025 05:55:41 GMT | What happened to GitLab? Explained | Zeron | [Read More](https://medium.com/p/bf674074197d) |
 | Tue, 22 Jul 2025 05:55:27 GMT | Introduction to XSS (Cross-Site Scripting) | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/29670234827e) |
-| Tue, 22 Jul 2025 05:51:19 GMT | Design and Implementation of Static Routing, DHCP, and DNS in Cisco Packet Tracer | Hello, Technia | [Read More](https://medium.com/p/1473680a7292) |
-| Tue, 22 Jul 2025 05:47:31 GMT | Data Center Perimeter Security in KSA: Protecting Critical Infrastructure. | expbhavya | [Read More](https://medium.com/p/e825b90f7dd8) |
-| Tue, 22 Jul 2025 05:46:38 GMT | Mastering the Hidden Arts: A Practical & Scholarly Guide to kali-tools-crypto-stego | Rafal | [Read More](https://medium.com/p/cd10b9eff1e9) |
-| Tue, 22 Jul 2025 05:45:57 GMT | Deploy clamav antivirus in EKS cluster and send alerts to wazuh. | Rabindra Tamang | [Read More](https://medium.com/p/01305822d098) |
-| Tue, 22 Jul 2025 05:44:23 GMT | Understanding Check Digit Algorithms: A Practical Guide for Programmers and Data Engineers | Promethee Spathis | [Read More](https://medium.com/p/5fea4b0db0f4) |
-| Tue, 22 Jul 2025 05:42:43 GMT | From Leak to Exploit: Full Kill Chains Using Public Secrets | Narendar Battula (nArEn) | [Read More](https://medium.com/p/eb00d6846a79) |
-| Tue, 22 Jul 2025 05:42:24 GMT | Beyond the Code: Why Insecure Design is Your Application’s Hidden Threat (OWASP A04) | Hussein Reda | [Read More](https://medium.com/p/14c134f614b7) |
-| Tue, 22 Jul 2025 05:42:07 GMT | ️‍♂️ “The Secrets Hunter’s Playbook: How Attackers Automate API Key Recon Across the Web” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/252b035c2348) |
-| Tue, 22 Jul 2025 05:41:33 GMT | Oops, I Committed Secrets! — The Silent Epidemic of Leaked API Keys | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e3faf6e54fe9) |
-| Tue, 22 Jul 2025 05:33:11 GMT | ️NMAP!!️ | Arpit Dadhich | [Read More](https://medium.com/p/667371c87d35) |
-| Tue, 22 Jul 2025 05:23:17 GMT | From Business to Breaches: Why I’m Transitioning into Cybersecurity and How the Google Program… | Abbas Raza | [Read More](https://medium.com/p/bdaaea6250c9) |
-| Tue, 22 Jul 2025 05:22:08 GMT | Enforcing Zero Trust with Cisco ISE + SD-Access: A Micro-Segmentation Blueprint by Preemptive | Preemptive Technofield | [Read More](https://medium.com/p/ca1026a64814) |
-| Tue, 22 Jul 2025 05:16:48 GMT | AI Driven Security Testing | NizzCorp Academy | [Read More](https://medium.com/p/d325a10c5eda) |
-| Tue, 22 Jul 2025 05:09:00 GMT | Burnt Out But Breaking Through: How I Found New Purpose (and Income) Using the Microsoft 365 Attack… | Rue | [Read More](https://medium.com/p/7978aea95159) |
-| Tue, 22 Jul 2025 05:04:40 GMT | Strategic Paralysis by Design: Part IX — Economic and Industrial Disruption as a Strategic Lever | Chris Clark | [Read More](https://medium.com/p/168bb409e810) |
-| Tue, 22 Jul 2025 05:03:20 GMT | How to Unfreeze a Bank Account Linked to Suspicious Transactions | OLC Agra | [Read More](https://medium.com/p/d7ea8b477e3c) |
