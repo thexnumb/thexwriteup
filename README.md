@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 15:25:02 GMT | CVE-2025–47812: Wing FTP Remote Code Execution | DefenceRabbit | [Read More](https://medium.com/p/2576712f7079) |
+| Tue, 22 Jul 2025 15:23:56 GMT | TryHackMe: Blueprint Writeup | Nyx0r | [Read More](https://medium.com/p/747bd120f4c9) |
+| Tue, 22 Jul 2025 15:20:47 GMT | DursVulnNSE Database Update Explanation | Kang Ali | [Read More](https://medium.com/p/af80d1c8e713) |
+| Tue, 22 Jul 2025 15:17:01 GMT | Working of Authenticator app | Raghavvram | [Read More](https://medium.com/p/8c930e7d8654) |
+| Tue, 22 Jul 2025 15:04:53 GMT | Beginner’s Guide to Active Reconnaissance (Part 3.1): ICMP Ping Techniques on Firewalled Hosts. | Ar-jay A. Ballaco | [Read More](https://medium.com/p/d10bddb97921) |
+| Tue, 22 Jul 2025 15:03:40 GMT | JWTs Aren’t Session Cookies, Stop Treating Them Like They Are | Sanjeevani Bhandari | [Read More](https://medium.com/p/093f4767a59f) |
+| Tue, 22 Jul 2025 15:02:30 GMT | 5 Laws of Debugging Every Engineer Learns the Hard Way | Harishsingh | [Read More](https://medium.com/p/069f51c089f0) |
+| Tue, 22 Jul 2025 14:59:15 GMT | Weekly Cyber Threat Brief: Staying Ahead in a Dynamic Landscape (July 21–27, 2025) | Akhil Binu | [Read More](https://medium.com/p/6f0717d9041f) |
+| Tue, 22 Jul 2025 14:58:46 GMT | Identity and Access Management : le point aveugle de la cybersécurité en PME | Arthur | [Read More](https://medium.com/p/908b19e17d4e) |
+| Tue, 22 Jul 2025 14:52:04 GMT | Hospital IT: The Digital Heart of Medical Services | Ilham Lutfi | [Read More](https://medium.com/p/dd6e38246693) |
+| Tue, 22 Jul 2025 14:50:54 GMT | $22M Lost: Holograph Insider Mint, Dough Calldata Exploit, Loopring Key Compromise, and TRUMP Rug… | Olympix | [Read More](https://medium.com/p/966ebb90f83e) |
+| Tue, 22 Jul 2025 14:49:11 GMT | $9.7M Lost: Coinstats, Velocore, and Normie Breached via Wallet Compromise and Logic Bugs | Olympix | [Read More](https://medium.com/p/8e8be53e5a97) |
+| Tue, 22 Jul 2025 14:47:05 GMT | DarkWatchMan and Hive0117: Fileless Malware Evolution Targeting Russian Critical Infrastructure | Wes Young | [Read More](https://medium.com/p/6625dacd0037) |
+| Tue, 22 Jul 2025 14:47:05 GMT | $45M Exploited: UwU Lend, Gala Games, and TCH Breached via Price Oracles, Wallets, and Signature… | Olympix | [Read More](https://medium.com/p/8518b2d6f912) |
+| Tue, 22 Jul 2025 14:42:13 GMT | Zero-Click Account Takeover: The Power of JavaScript Analysis | Ali Saadi | [Read More](https://medium.com/p/4f1d4fc36a00) |
 | Tue, 22 Jul 2025 14:40:10 GMT | USAA Data Breach Settlement: Full Fallout Breakdown | Atomic Mail | [Read More](https://medium.com/p/d3aeca345cc4) |
 | Tue, 22 Jul 2025 14:38:35 GMT | Google XSS Game Writeup — By Cybernerddd | Cybernerddd | [Read More](https://medium.com/p/a44b0714ab42) |
 | Tue, 22 Jul 2025 14:34:25 GMT | Cybersecurity: | Rebecca Trocki | [Read More](https://medium.com/p/9832c94b5fa7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 11:05:29 GMT | How to set boundaries? | Shalu Ladli | [Read More](https://medium.com/p/9464aab1fde0) |
 | Tue, 22 Jul 2025 11:04:49 GMT | How do attack surface management services help? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/9c5b40d1582d) |
 | Tue, 22 Jul 2025 10:46:53 GMT | Bullbit Guidelines For Bug Detection | Bullbit AI | [Read More](https://medium.com/p/e26a8f369412) |
-| Tue, 22 Jul 2025 10:42:01 GMT | when life gets hard, i hope we still stay vulnerable to accept the love we deserve — not push it… | love, kino | [Read More](https://medium.com/p/e8c21864aa9d) |
-| Tue, 22 Jul 2025 10:40:24 GMT | How a Cybersecurity Agency Protects Your Business in the Digital Age | secureroot | [Read More](https://medium.com/p/35af8e53a202) |
-| Tue, 22 Jul 2025 10:39:08 GMT | How to check SSL/TLS cipher suites on your website with nmap | Anton Prudkohliad | [Read More](https://medium.com/p/f348691ec484) |
-| Tue, 22 Jul 2025 10:38:54 GMT | Understanding the Five Pillars of a Zero Trust Security Model | Ampcus Cyber | [Read More](https://medium.com/p/364e92dc6df5) |
-| Tue, 22 Jul 2025 10:38:49 GMT | What is IAM | Revanthveni | [Read More](https://medium.com/p/56b31f37c864) |
-| Tue, 22 Jul 2025 10:36:37 GMT | Guacamole Installation | Shir0E | [Read More](https://medium.com/p/4b64d605097d) |
-| Tue, 22 Jul 2025 10:36:12 GMT | How a Foundation Course Equips You for Success in Cybersecurity | CourseMonster | [Read More](https://medium.com/p/1eae64d0edfb) |
-| Tue, 22 Jul 2025 10:36:10 GMT | Securing Personalization: How to Meet User Needs Without Opening the Door to Risk | Muhammad Sajid Khan | [Read More](https://medium.com/p/1a9c9e0b4f44) |
-| Tue, 22 Jul 2025 10:34:09 GMT | Attacktive Directory- TryHackMe | TheSocialHacker | [Read More](https://medium.com/p/948375129a62) |
-| Tue, 22 Jul 2025 10:30:54 GMT | Think Like a Hacker, Act Like a Hero | Cuncis | [Read More](https://medium.com/p/7487da934220) |
-| Tue, 22 Jul 2025 10:27:39 GMT | Frontend Frameworks & Native Architecture: A Complete Overview | Ketan Patel | [Read More](https://medium.com/p/d1b91af3a310) |
-| Tue, 22 Jul 2025 10:25:30 GMT | How Hackers Exploit Code — and How Developers Can Fight Back in 2025 | FlymingoTech | [Read More](https://medium.com/p/4dd799999602) |
-| Tue, 22 Jul 2025 10:25:09 GMT | How I Put a Financial Guardrail on My AWS Account with AWS Budgets | AashishChaudhari | [Read More](https://medium.com/p/056941b54eba) |
-| Tue, 22 Jul 2025 10:23:34 GMT | Quppy AML Bot Guide: Spotting Red Flags in Crypto Wallets & Transactions | QuppyAMLBOT | [Read More](https://medium.com/p/b28e959a18de) |
-| Tue, 22 Jul 2025 10:19:44 GMT | Top 10 Linux Distros for Hacking and What They’re Designed For… | Travis Ray Caverhill | [Read More](https://medium.com/p/c3eedf7ef22d) |
