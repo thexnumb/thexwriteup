@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 22:11:08 GMT | Gap Analysis of Vendor Privacy and Security Policy | Sharaden Cole | [Read More](https://medium.com/p/383a6c172e57) |
+| Tue, 22 Jul 2025 22:03:30 GMT | Secure pods with hostUsers: false | Mahdi Mallaki | [Read More](https://medium.com/p/7d5ce57a2136) |
+| Tue, 22 Jul 2025 21:54:14 GMT | Knock knock knocking… Who’s there? | Batur Orkun | [Read More](https://medium.com/p/07f9479e0d48) |
+| Tue, 22 Jul 2025 21:53:55 GMT | Build your own bug bounty recon tool | Marília Rocha | [Read More](https://medium.com/p/aae787e7f56b) |
+| Tue, 22 Jul 2025 21:48:36 GMT | Elastic Stack SIEM Home Lab using Kali Linux | Sharaden Cole | [Read More](https://medium.com/p/ebb22db7686f) |
 | Tue, 22 Jul 2025 21:30:26 GMT | Quantum Computing Revolution: What It Is and Why It Matters Now | Olatunde Aboaba | [Read More](https://medium.com/p/e3ce9ffc4154) |
 | Tue, 22 Jul 2025 21:20:28 GMT | AIntivirus: John McAfee’s Fight For Digital Security | AIntivirus | [Read More](https://medium.com/p/a5180d3bd9d1) |
 | Tue, 22 Jul 2025 21:19:14 GMT | The Day My Neighbor Lost $ 1750 Because of One Innocent Click | Amrik Singh Hanjra | [Read More](https://medium.com/p/7ef519c198b5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 16:32:32 GMT | Being a Strong Woman Doesn’t Always Pay Off | Praise Ejiro | [Read More](https://medium.com/p/d69c1e453f73) |
 | Tue, 22 Jul 2025 16:31:16 GMT | 퇴사자가 훔쳐간 기술, 남아있는 임직원들의 삶의 터전을 잃게합니다 by. 위즈노트AI | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/1b76b5f8eb3e) |
 | Tue, 22 Jul 2025 16:26:03 GMT | Certified Red Team Professional (CRTE) Review & Study Notes | Motasem Hamdan | [Read More](https://medium.com/p/ca8e04d75fa7) |
-| Tue, 22 Jul 2025 16:23:34 GMT | From HTTP to HTTPS: A Journey Through AWS Deployment Challenges | Udithpu | [Read More](https://medium.com/p/1fd550675bcb) |
-| Tue, 22 Jul 2025 16:19:22 GMT | A Beginner’s Guide to Choosing the Right Tech Stack in 2025 | Muthukumaran Singaravelu | [Read More](https://medium.com/p/0c6a92ffbbe4) |
-| Tue, 22 Jul 2025 16:18:31 GMT | Docker 101: A Beginner’s Guide on How to Use Docker | Dinçer Tekin | [Read More](https://medium.com/p/0d7ae6bb4797) |
-| Tue, 22 Jul 2025 16:16:31 GMT | EMS SSO: One Login to Rule Them All | Akshay Chauhan | [Read More](https://medium.com/p/c3cee55abf33) |
-| Tue, 22 Jul 2025 16:14:31 GMT | Someone Told Me I Wasn’t Professional — And I Never Argued Back | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/7f41d852c6e1) |
