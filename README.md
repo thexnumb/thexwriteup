@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 23:19:30 GMT | Let’s Defend: 89 — SOC142 — Multiple HTTP 500 Response - Writeup | EPereda | [Read More](https://medium.com/p/ee02ddc1827c) |
+| Tue, 22 Jul 2025 23:18:51 GMT | Let’s Defend: 87 — SOC101 — Phishing Mail Detected - Writeup | EPereda | [Read More](https://medium.com/p/a5ee6b8ec9c4) |
+| Tue, 22 Jul 2025 23:18:32 GMT | Let’s Defend: 92 — SOC145 — Ransomware Detected - Writeup | EPereda | [Read More](https://medium.com/p/bd77b15a854d) |
+| Tue, 22 Jul 2025 23:18:18 GMT | Let Your Data Evolve: Why Smart IT and Security Leaders Are Turning to Tiered Telemetry… | Nick Heudecker | [Read More](https://medium.com/p/07ae5ac75b09) |
+| Tue, 22 Jul 2025 23:13:17 GMT | Securing Your First S3 Bucket and IAM User | Ngozi U.I. Uche | [Read More](https://medium.com/p/63711835772f) |
 | Tue, 22 Jul 2025 23:07:25 GMT | The Rise of Promptware: Ensuring Privacy & Security in LLM‑Integrated Applications | Mahan Tafreshipour | [Read More](https://medium.com/p/ceaa087ca771) |
 | Tue, 22 Jul 2025 23:01:52 GMT | IDOR in 2025: Why Broken Access Control Still Rules the Vulnerability Charts (With Real-World… | Skrumf | [Read More](https://medium.com/p/d09439eaa29b) |
 | Tue, 22 Jul 2025 22:39:59 GMT | Baby-VulnLab Write-Up | t0x1k | [Read More](https://medium.com/p/dfcbbb8c5432) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 17:16:37 GMT | Progress in Network Security — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/ff7cb917e665) |
 | Tue, 22 Jul 2025 17:12:20 GMT | A Penetration Tester’s Perspective on Mastering the PTES Methodology - The Complete 7-Phase… | YoungerSibling | [Read More](https://medium.com/p/4b8280560c79) |
 | Tue, 22 Jul 2025 17:07:58 GMT | Active directory — PART 1 | Aftab Raja | [Read More](https://medium.com/p/c8a09fd5a987) |
-| Tue, 22 Jul 2025 17:07:32 GMT | How 3,500+ Popular Websites Have Secretly Been Mining Crypto With You — And What You Need to Watch | CyBlog | [Read More](https://medium.com/p/5fdf7d7863d7) |
-| Tue, 22 Jul 2025 17:07:31 GMT | Here’s How Israeli Cyberattacks Crippled Iran During Recent War | Jack daniel | [Read More](https://medium.com/p/31d7d6100b30) |
-| Tue, 22 Jul 2025 17:04:04 GMT | 7 Best Coffee Makers That Will Change Your Mornings | Pujan mondal | [Read More](https://medium.com/p/500e5676d701) |
-| Tue, 22 Jul 2025 16:56:05 GMT | TryHackMe: Eviction Room Walkthrough — Tracking APT28 with MITRE ATT&CK | Asad Ali | [Read More](https://medium.com/p/a75e10e6be77) |
-| Tue, 22 Jul 2025 16:55:59 GMT | Cybersecurity Isn’t Just for Hackers — It’s for All of Us | Sangeetha Vani | [Read More](https://medium.com/p/73edc2611614) |
