@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 23:07:25 GMT | The Rise of Promptware: Ensuring Privacy & Security in LLM‑Integrated Applications | Mahan Tafreshipour | [Read More](https://medium.com/p/ceaa087ca771) |
+| Tue, 22 Jul 2025 23:01:52 GMT | IDOR in 2025: Why Broken Access Control Still Rules the Vulnerability Charts (With Real-World… | Skrumf | [Read More](https://medium.com/p/d09439eaa29b) |
 | Tue, 22 Jul 2025 22:39:59 GMT | Baby-VulnLab Write-Up | t0x1k | [Read More](https://medium.com/p/dfcbbb8c5432) |
 | Tue, 22 Jul 2025 22:36:14 GMT | SharePoint Exploitation Forecast: State-Aligned Threats and Strategic Security Gaps | Korryn Graves | [Read More](https://medium.com/p/1ea433096d74) |
 | Tue, 22 Jul 2025 22:35:50 GMT | TryHackMe — El Bandito | omni | [Read More](https://medium.com/p/ba373f3cffd7) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 17:04:04 GMT | 7 Best Coffee Makers That Will Change Your Mornings | Pujan mondal | [Read More](https://medium.com/p/500e5676d701) |
 | Tue, 22 Jul 2025 16:56:05 GMT | TryHackMe: Eviction Room Walkthrough — Tracking APT28 with MITRE ATT&CK | Asad Ali | [Read More](https://medium.com/p/a75e10e6be77) |
 | Tue, 22 Jul 2025 16:55:59 GMT | Cybersecurity Isn’t Just for Hackers — It’s for All of Us | Sangeetha Vani | [Read More](https://medium.com/p/73edc2611614) |
-| Tue, 22 Jul 2025 16:54:33 GMT | ProxyAuth The Fastest Authentication Reverse Proxy Ever Built | vBlackOut | [Read More](https://medium.com/p/d37d601596c5) |
-| Tue, 22 Jul 2025 16:52:20 GMT | 60+ SharePoint Servers Compromised by CVE-2025–53770 in 4 Days — The Zero-Day Microsoft Can’t… | Aaron | [Read More](https://medium.com/p/37dafde480db) |
