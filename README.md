@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 04:31:58 GMT | My First Bug Got Duped — And I’m Weirdly Proud of It | Viratavi | [Read More](https://medium.com/p/02a05b79447a) |
+| Tue, 22 Jul 2025 04:24:15 GMT | ️ SharePoint Under Siege: CVE‑2025‑53770 Exploited in the Wild | Paritosh | [Read More](https://medium.com/p/82490670a252) |
+| Tue, 22 Jul 2025 04:24:09 GMT | CVE-2025–53770/TOOLSHELL: HUNTING DOWN THE ATTACKER TECHNIQUES & VICTIMS | Rakesh Krishnan | [Read More](https://medium.com/p/28a8c7baffb1) |
+| Tue, 22 Jul 2025 04:11:52 GMT | Exploitation of Continuous Integration Pipelines for Supply Chain Compromise and Backdoor Injection | Aaishh | [Read More](https://medium.com/p/e464d4f1c3ac) |
+| Tue, 22 Jul 2025 04:06:42 GMT | How to Install Windows 11 on VMware Workstation | Friendly Rogue | [Read More](https://medium.com/p/71b206ea2735) |
+| Tue, 22 Jul 2025 04:03:10 GMT | Addressing Common Vulnerabilities in Docker Security | @rnab | [Read More](https://medium.com/p/1274ede89109) |
+| Tue, 22 Jul 2025 04:00:57 GMT | Strategic Paralysis by Design: Part VIII — The Fog of Cyber-War: Attribution, Delay, and Denial | Chris Clark | [Read More](https://medium.com/p/ecd3f133425f) |
+| Tue, 22 Jul 2025 03:58:48 GMT | AI red teaming with PyRIT — A framework developed by Microsoft: part 1 | Debashis Debnath | [Read More](https://medium.com/p/dcea3f0023e2) |
+| Tue, 22 Jul 2025 03:56:29 GMT | How to Implement a Cyber Risk Management Framework for Your Business | Chatsm | [Read More](https://medium.com/p/43bb1a5e0d4d) |
+| Tue, 22 Jul 2025 03:53:27 GMT | How I Investigated a Live SharePoint Zero-Day (As a Student) | Varnith | [Read More](https://medium.com/p/c2ada7c26593) |
+| Tue, 22 Jul 2025 03:44:47 GMT | The Real Cost of Free WiFi — How Public Network Spy on You | Rahul Mishra | [Read More](https://medium.com/p/2be9b5745215) |
+| Tue, 22 Jul 2025 03:33:32 GMT | How Cast AI Is Saving Your Kubernetes From 2025’s Most Brutal CVE Attacks (Before They Strike) | Kunal Das | [Read More](https://medium.com/p/847b399d337d) |
 | Tue, 22 Jul 2025 03:31:52 GMT | Trading in Trouble: Japan Sounds Alarm Over Hacked Investor Accounts and Fraudulent Trades | Deven Chhajed | [Read More](https://medium.com/p/8a3574c6602a) |
 | Tue, 22 Jul 2025 03:31:29 GMT | Understanding the Log4j (Log4Shell) Vulnerability: A Simple Explanation with Example | Shalomo Agarwarkar | [Read More](https://medium.com/p/a20135803956) |
 | Tue, 22 Jul 2025 03:28:02 GMT | Durable Security for AI-Embedded Applications | Chandan Bilvaraj | [Read More](https://medium.com/p/3cc775ca581a) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 20:43:41 GMT | ️ Steganography in C++: Hiding Secret Messages Inside Images | Ruturajjadhav | [Read More](https://medium.com/p/a41614af6d6f) |
 | Mon, 21 Jul 2025 20:43:36 GMT | The Invisible Image: Hiding One Picture Inside Another | Ceyda Irwin | [Read More](https://medium.com/p/b08d8f0248c9) |
 | Mon, 21 Jul 2025 20:43:28 GMT | la volpe e la finestra fanno insieme il grande spacc (glitch Firefox coi freeze a caso) | octospacc | [Read More](https://medium.com/p/d1786e99e7d3) |
-| Mon, 21 Jul 2025 20:34:43 GMT | KPMG CTF 2025 (Mobile Challenges) | AarushGaur | [Read More](https://medium.com/p/79b6958def54) |
-| Mon, 21 Jul 2025 20:26:35 GMT | diam yang kau ketuk | giska | [Read More](https://medium.com/p/767a59998f92) |
-| Mon, 21 Jul 2025 20:25:06 GMT | Dissecting the OSI Model | theccmi | [Read More](https://medium.com/p/f4016716167e) |
-| Mon, 21 Jul 2025 20:20:18 GMT | This Wild App Sends You Armed Navy SEALs to Get Your Coffee | Afiza Malik | [Read More](https://medium.com/p/361768bfe947) |
-| Mon, 21 Jul 2025 20:14:33 GMT | Hope Is Not a Strategy — VisibleOps Cybersecurity Shows What Actually Works | VIV PR | [Read More](https://medium.com/p/6ba16f5bc7c4) |
-| Mon, 21 Jul 2025 20:12:42 GMT | THM - Directory | Francesco Pastore | [Read More](https://medium.com/p/6e8604e69c2c) |
-| Mon, 21 Jul 2025 20:04:44 GMT | PortSwigger Lab: CORS vulnerability with basic origin reflection | Kutay Söker | [Read More](https://medium.com/p/2087a1eac6a7) |
-| Mon, 21 Jul 2025 19:56:38 GMT | The Most Essential Computer Skills Everyone Should Master in 2025 | Zahra Ali | [Read More](https://medium.com/p/bbd62eb4092e) |
-| Mon, 21 Jul 2025 19:54:31 GMT | My First Pentest: 50% Panic, 50% Fun. | maverick | [Read More](https://medium.com/p/893434dcc074) |
-| Mon, 21 Jul 2025 19:52:29 GMT | When GenAI Hallucinates: The Overlooked Cybersecurity Blindspot Inside Modern SOCs | Hitansh | [Read More](https://medium.com/p/65645054a911) |
-| Mon, 21 Jul 2025 19:47:10 GMT | SOAR -EDR-PROJECT PART-2 | rkn | [Read More](https://medium.com/p/9330dac92553) |
-| Mon, 21 Jul 2025 19:45:05 GMT | Security Practices — Testing For Early Vulnerability Detection | Nitish Ahir | [Read More](https://medium.com/p/7d09461fcbf0) |
