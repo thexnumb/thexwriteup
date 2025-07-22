@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 10:42:01 GMT | when life gets hard, i hope we still stay vulnerable to accept the love we deserve — not push it… | love, kino | [Read More](https://medium.com/p/e8c21864aa9d) |
+| Tue, 22 Jul 2025 10:40:24 GMT | How a Cybersecurity Agency Protects Your Business in the Digital Age | secureroot | [Read More](https://medium.com/p/35af8e53a202) |
+| Tue, 22 Jul 2025 10:39:08 GMT | How to check SSL/TLS cipher suites on your website with nmap | Anton Prudkohliad | [Read More](https://medium.com/p/f348691ec484) |
+| Tue, 22 Jul 2025 10:38:54 GMT | Understanding the Five Pillars of a Zero Trust Security Model | Ampcus Cyber | [Read More](https://medium.com/p/364e92dc6df5) |
+| Tue, 22 Jul 2025 10:38:49 GMT | What is IAM | Revanthveni | [Read More](https://medium.com/p/56b31f37c864) |
+| Tue, 22 Jul 2025 10:36:37 GMT | Guacamole Installation | Shir0E | [Read More](https://medium.com/p/4b64d605097d) |
+| Tue, 22 Jul 2025 10:36:12 GMT | How a Foundation Course Equips You for Success in Cybersecurity | CourseMonster | [Read More](https://medium.com/p/1eae64d0edfb) |
+| Tue, 22 Jul 2025 10:34:09 GMT | Attacktive Directory- TryHackMe | TheSocialHacker | [Read More](https://medium.com/p/948375129a62) |
+| Tue, 22 Jul 2025 10:30:54 GMT | Think Like a Hacker, Act Like a Hero | Cuncis | [Read More](https://medium.com/p/7487da934220) |
+| Tue, 22 Jul 2025 10:27:39 GMT | Frontend Frameworks & Native Architecture: A Complete Overview | Ketan Patel | [Read More](https://medium.com/p/d1b91af3a310) |
 | Tue, 22 Jul 2025 10:25:30 GMT | How Hackers Exploit Code — and How Developers Can Fight Back in 2025 | FlymingoTech | [Read More](https://medium.com/p/4dd799999602) |
+| Tue, 22 Jul 2025 10:25:09 GMT | How I Put a Financial Guardrail on My AWS Account with AWS Budgets | AashishChaudhari | [Read More](https://medium.com/p/056941b54eba) |
+| Tue, 22 Jul 2025 10:23:34 GMT | Quppy AML Bot Guide: Spotting Red Flags in Crypto Wallets & Transactions | QuppyAMLBOT | [Read More](https://medium.com/p/b28e959a18de) |
+| Tue, 22 Jul 2025 10:19:44 GMT | Top 10 Linux Distros for Hacking and What They’re Designed For… | Travis Ray Caverhill | [Read More](https://medium.com/p/c3eedf7ef22d) |
+| Tue, 22 Jul 2025 10:17:28 GMT | Integrate JWT (JSON Web Tokens) in React | Ahafeez791 | [Read More](https://medium.com/p/fad1e96332a6) |
 | Tue, 22 Jul 2025 10:14:52 GMT | Creating A Network Protocol Analyzer in Python | Priyanshu Singh | [Read More](https://medium.com/p/4d81b0b898fe) |
 | Tue, 22 Jul 2025 10:10:53 GMT | Soroban Security Portal | Inferara | [Read More](https://medium.com/p/70c19d6e85e7) |
 | Tue, 22 Jul 2025 10:10:04 GMT | What’s the Cost of Hiring a Cybersecurity Expert in 2025? | Forbes | [Read More](https://medium.com/p/cc557300bb5b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 06:38:50 GMT | The Standards Making Identity Security Better: A 2025 Review | Abhay Kulkarni | [Read More](https://medium.com/p/c858ff4e4310) |
 | Tue, 22 Jul 2025 06:32:22 GMT | Beware of “Easy UPI Commission” Jobs – It’s a Scam! | Ankit sen | [Read More](https://medium.com/p/e5f0b0c5bf40) |
 | Tue, 22 Jul 2025 06:31:20 GMT | Dorks For Sensitive Information Disclosure Part-2 | Zuri | [Read More](https://medium.com/p/4355b479d2aa) |
-| Tue, 22 Jul 2025 06:30:32 GMT | WAFirewall Bypass Payloads. | Rishav anand | [Read More](https://medium.com/p/db6988828448) |
-| Tue, 22 Jul 2025 06:27:10 GMT | Website Hacking in the UAE: Legal Risks and Real Consequences | Ludmila Yamalova | [Read More](https://medium.com/p/00575b99bac4) |
-| Tue, 22 Jul 2025 06:22:53 GMT | Strategic Paralysis by Design: Part X — Moving Toward a Resilient Republic: Recommendations for a… | Chris Clark | [Read More](https://medium.com/p/6d9d0bf956ba) |
-| Tue, 22 Jul 2025 06:20:54 GMT | Understanding the WAF to Bypass it . | Rishav anand | [Read More](https://medium.com/p/749aab2a8473) |
-| Tue, 22 Jul 2025 06:18:14 GMT | Best Security Guards Service Provider in Gurugram | Dhruv | [Read More](https://medium.com/p/4ee55a29ce0a) |
-| Tue, 22 Jul 2025 06:15:42 GMT | TryHackMe CTF -- Security Engineer Intro | Asad Ullah Khan | [Read More](https://medium.com/p/201ad05e9515) |
-| Tue, 22 Jul 2025 06:06:32 GMT | Minor Bugs #1 and How I Fixed Them | Jerry PM | [Read More](https://medium.com/p/d576e338928c) |
-| Tue, 22 Jul 2025 06:01:00 GMT | PoisonSeed phishing attack | Geethu_Giri | [Read More](https://medium.com/p/d0f239508811) |
-| Tue, 22 Jul 2025 06:00:49 GMT | Today’s Top Cyber Intelligence Highlights — Jul 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0b9b27018f99) |
-| Tue, 22 Jul 2025 05:59:36 GMT | What Is Platform Security Architecture? | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/7046c52d1e72) |
-| Tue, 22 Jul 2025 05:58:13 GMT | How Misconfigured Azure Key Vault Leaked Secrets: A Beginner-Friendly CTF Writeup | Amreal Abhishek | [Read More](https://medium.com/p/3ddedd714828) |
-| Tue, 22 Jul 2025 05:57:40 GMT | Leadership in the Era of Synthetic Reality: The AI-Blockchain Alliance | Flavio Aliberti | [Read More](https://medium.com/p/4cc4d43e2cd8) |
-| Tue, 22 Jul 2025 05:55:41 GMT | What happened to GitLab? Explained | Zeron | [Read More](https://medium.com/p/bf674074197d) |
-| Tue, 22 Jul 2025 05:55:27 GMT | Introduction to XSS (Cross-Site Scripting) | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/29670234827e) |
