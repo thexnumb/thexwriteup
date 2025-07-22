@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 15:37:05 GMT | “I’m surprised that I am thinking more than twice to post this. | Heidi lai | [Read More](https://medium.com/p/0f85222c37ca) |
+| Tue, 22 Jul 2025 15:31:53 GMT | How breaking in made me a better defender | Brian Baldock | [Read More](https://medium.com/p/073cdfba05d1) |
+| Tue, 22 Jul 2025 15:29:26 GMT | Why Juspay Switched from Kubernetes to EC2 ? | Dhanush N | [Read More](https://medium.com/p/37cc97e27179) |
+| Tue, 22 Jul 2025 15:28:03 GMT | Capturing WPA2 Passwords Using Evil Twin Attacks with Wifiphisher | Cybersectoworld | [Read More](https://medium.com/p/ae5d7b78c599) |
+| Tue, 22 Jul 2025 15:25:03 GMT | I finally understood why people wouldn’t tell the truth — and just stayed silent | S. Sachdeva | [Read More](https://medium.com/p/94e66bd39a8b) |
 | Tue, 22 Jul 2025 15:25:02 GMT | CVE-2025–47812: Wing FTP Remote Code Execution | DefenceRabbit | [Read More](https://medium.com/p/2576712f7079) |
 | Tue, 22 Jul 2025 15:23:56 GMT | TryHackMe: Blueprint Writeup | Nyx0r | [Read More](https://medium.com/p/747bd120f4c9) |
 | Tue, 22 Jul 2025 15:20:47 GMT | DursVulnNSE Database Update Explanation | Kang Ali | [Read More](https://medium.com/p/af80d1c8e713) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 11:11:48 GMT | Smart Security with Less Friction: Building Risk-Based Conditional Access Policies in Entra ID | Oludolamu Onimole | [Read More](https://medium.com/p/4307c24f8ec7) |
 | Tue, 22 Jul 2025 11:10:55 GMT | Hacking APIs: A Comprehensive Methodology for Ethical Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/8652133a3aeb) |
 | Tue, 22 Jul 2025 11:08:00 GMT | Ending Security Privilege: Is Inclusive, Accessible, and Smart Mobile Security Possible for… | MerYunCyber | [Read More](https://medium.com/p/6221c0e621ba) |
-| Tue, 22 Jul 2025 11:07:11 GMT | The Myth of the Girl Who Has It All Together | LILLY | [Read More](https://medium.com/p/003f354903a8) |
-| Tue, 22 Jul 2025 11:06:42 GMT | When You Know You’re Spiralling | Jhalak - @jhalak_jamdagni | [Read More](https://medium.com/p/083accfeca09) |
-| Tue, 22 Jul 2025 11:05:29 GMT | How to set boundaries? | Shalu Ladli | [Read More](https://medium.com/p/9464aab1fde0) |
-| Tue, 22 Jul 2025 11:04:49 GMT | How do attack surface management services help? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/9c5b40d1582d) |
-| Tue, 22 Jul 2025 10:46:53 GMT | Bullbit Guidelines For Bug Detection | Bullbit AI | [Read More](https://medium.com/p/e26a8f369412) |
