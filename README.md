@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 03:31:52 GMT | Trading in Trouble: Japan Sounds Alarm Over Hacked Investor Accounts and Fraudulent Trades | Deven Chhajed | [Read More](https://medium.com/p/8a3574c6602a) |
+| Tue, 22 Jul 2025 03:31:29 GMT | Understanding the Log4j (Log4Shell) Vulnerability: A Simple Explanation with Example | Shalomo Agarwarkar | [Read More](https://medium.com/p/a20135803956) |
+| Tue, 22 Jul 2025 03:28:02 GMT | Durable Security for AI-Embedded Applications | Chandan Bilvaraj | [Read More](https://medium.com/p/3cc775ca581a) |
+| Tue, 22 Jul 2025 03:21:36 GMT | Cap HackTheBox: Insecure Direct Object Reference and Insecure Protocol | Wahyu Nufal Azmi | [Read More](https://medium.com/p/610b58b91f77) |
+| Tue, 22 Jul 2025 03:19:42 GMT | Psychological Warfare: A Silent Weapon in National Defense and Security | Armory Reborn Indonesia | [Read More](https://medium.com/p/ec174a7c61e2) |
+| Tue, 22 Jul 2025 03:14:31 GMT | Hey everyone! | zwanski tech | [Read More](https://medium.com/p/b740dfe67713) |
+| Tue, 22 Jul 2025 03:13:19 GMT | KEFEL.IO & Friends — COLDRIVER C&C Infrastructure Report | akacipher | [Read More](https://medium.com/p/84aa041b141a) |
+| Tue, 22 Jul 2025 03:12:23 GMT | I Used to Worry About My Money Online… Until BiyaPay | Unknown | [Read More](https://medium.com/p/214777f54ece) |
+| Tue, 22 Jul 2025 03:08:18 GMT | LLM Security Best practices | VIEH Group | [Read More](https://medium.com/p/af5cf9d3a668) |
+| Tue, 22 Jul 2025 03:01:54 GMT | France to Double Military Budget in Record Time, Adding €6.5 | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/419e55cefe62) |
+| Tue, 22 Jul 2025 02:58:08 GMT | Forensics - picoGym - MSB | SonictheEdgehog | [Read More](https://medium.com/p/6342597a161a) |
+| Tue, 22 Jul 2025 02:42:04 GMT | Basic SSRF against another back-end system [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/0758cfd90119) |
+| Tue, 22 Jul 2025 02:33:23 GMT | Break-Fix vs. Managed IT Services: What’s Right for Your Business? | Outsourced IT with NSN Infotech | [Read More](https://medium.com/p/7a9ce59b3546) |
+| Tue, 22 Jul 2025 02:27:40 GMT | XSS and CSRF Chaining | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/d88d03c2b77c) |
+| Tue, 22 Jul 2025 02:08:39 GMT | Fat donke diss— OSINT— DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/f027f35bfcc5) |
+| Tue, 22 Jul 2025 02:02:55 GMT | Tuesday Morning Threat Report: Jul 22, 2025 | Mark Maguire | [Read More](https://medium.com/p/56e7641f53c5) |
+| Tue, 22 Jul 2025 02:02:41 GMT | Apache Tomcat Serialized Payload RCE (CVE-2025–24813) | ahmed abdulaziz | [Read More](https://medium.com/p/d284f3b28a87) |
+| Tue, 22 Jul 2025 01:58:45 GMT | The Anatomy of a Digital Killer: How Malware Is Created | Alex Joyel Raj | [Read More](https://medium.com/p/aea9e91233df) |
+| Tue, 22 Jul 2025 01:54:28 GMT | Malware Traffic Analysis with Wireshark — Download from Fake Software Site | Grace Testerman | [Read More](https://medium.com/p/60713a975bba) |
 | Tue, 22 Jul 2025 01:42:07 GMT | O que é SHA-256? | Lucas Novaes Antonio Filgueiras | [Read More](https://medium.com/p/d9e43e1e3550) |
 | Tue, 22 Jul 2025 01:38:48 GMT | Why Your Business Needs to Think Like an Intelligence Agency | Richard Frederick | [Read More](https://medium.com/p/b03587cf8eac) |
 | Tue, 22 Jul 2025 01:37:18 GMT | The Attacking Phase: Where Hackers Thrive and Defenders Sleep | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/171d8f9d6f7c) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 19:52:29 GMT | When GenAI Hallucinates: The Overlooked Cybersecurity Blindspot Inside Modern SOCs | Hitansh | [Read More](https://medium.com/p/65645054a911) |
 | Mon, 21 Jul 2025 19:47:10 GMT | SOAR -EDR-PROJECT PART-2 | rkn | [Read More](https://medium.com/p/9330dac92553) |
 | Mon, 21 Jul 2025 19:45:05 GMT | Security Practices — Testing For Early Vulnerability Detection | Nitish Ahir | [Read More](https://medium.com/p/7d09461fcbf0) |
-| Mon, 21 Jul 2025 19:39:49 GMT | Securing Agentic AI: Adding Authorization and Authentication with NVIDIA AIQ Toolkit | Kasra Ahmadi | [Read More](https://medium.com/p/81f3e033e449) |
-| Mon, 21 Jul 2025 19:33:34 GMT | July 21, 2025 – Quiet Storm | IamGhost | [Read More](https://medium.com/p/8386e47d0696) |
-| Mon, 21 Jul 2025 19:33:08 GMT | Password vs. Password-less Authentication: | Ezinne Ugwoke | [Read More](https://medium.com/p/358979e24092) |
-| Mon, 21 Jul 2025 19:31:06 GMT | Understanding the Cloud: What It Is and Why It Matters | Tech Made Simple By NTi | [Read More](https://medium.com/p/e953a798d475) |
-| Mon, 21 Jul 2025 19:29:58 GMT | Reconstructing a Stranger’s Life From Their Broken Phone: A Real OSINT Autopsy | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6fc61170c1b7) |
-| Mon, 21 Jul 2025 19:24:12 GMT | [Security] How to setup caddy for ssl certificates for your services with example of feature voting… | Sarvsav Sharma | [Read More](https://medium.com/p/dc74b2ce27b0) |
-| Mon, 21 Jul 2025 19:18:18 GMT | A Six-Hat Framework for Personal Data Security: Balancing Risks, Emotions & Innovation | Deepak Gupta | [Read More](https://medium.com/p/e31c49ad1d7e) |
-| Mon, 21 Jul 2025 19:15:52 GMT | AI-Powered Phishing Isn’t Waiting. Are You? | Rue | [Read More](https://medium.com/p/953e13684636) |
-| Mon, 21 Jul 2025 19:12:07 GMT | Digital Dumpster Diving: Finding Leaks, Docs, and Forgotten Data | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/afb23159b9d5) |
-| Mon, 21 Jul 2025 19:11:52 GMT | How Microsoft Copilot Is Redefining Workplace Productivity with AI | Techridge Solutions | [Read More](https://medium.com/p/135862db1cce) |
-| Mon, 21 Jul 2025 19:11:12 GMT | Detecting CVE-2025–53770 in SharePoint | Grupo Oruss | [Read More](https://medium.com/p/8a3354cad4f2) |
-| Mon, 21 Jul 2025 19:11:07 GMT | Jack of All Trades, Master of the AI Era” | Ajay Gurav | [Read More](https://medium.com/p/cae35bb8f916) |
-| Mon, 21 Jul 2025 19:07:27 GMT | Ethical OSINT Services You Can Offer: From Background Checks to Brand Safety | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2c1c1400eb1c) |
-| Mon, 21 Jul 2025 19:03:32 GMT | TOPIC: SLEEPING PRINCE IS DEATH. | Danjuma Plangkat | [Read More](https://medium.com/p/a03fccf7f5d4) |
-| Mon, 21 Jul 2025 19:00:26 GMT | Building an OSINT Portfolio: What Clients, Employers, and Hacktivists Want to See | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2c1e64cf1be6) |
-| Mon, 21 Jul 2025 18:59:51 GMT | From Recon to Report: How I Hack Web Apps (Legally!)” | Nisa | [Read More](https://medium.com/p/26441319ea26) |
-| Mon, 21 Jul 2025 18:51:50 GMT | I Completed Cisco’s Networking Basics Course! Here’s Why It Matters | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/b4594cf32446) |
-| Mon, 21 Jul 2025 18:38:56 GMT | In an age where digital borders are as vital as physical ones, the emergence of sophisticated… | Chetan Seripally | [Read More](https://medium.com/p/da634eaa664d) |
-| Mon, 21 Jul 2025 18:33:46 GMT | Cyber Security Offense and Defense Home Lab — Part 3 (Installing pfsense firewall) | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/496b5a3d9497) |
