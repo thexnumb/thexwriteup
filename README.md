@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 21:30:26 GMT | Quantum Computing Revolution: What It Is and Why It Matters Now | Olatunde Aboaba | [Read More](https://medium.com/p/e3ce9ffc4154) |
+| Tue, 22 Jul 2025 21:20:28 GMT | AIntivirus: John McAfee’s Fight For Digital Security | AIntivirus | [Read More](https://medium.com/p/a5180d3bd9d1) |
+| Tue, 22 Jul 2025 21:19:14 GMT | The Day My Neighbor Lost $ 1750 Because of One Innocent Click | Amrik Singh Hanjra | [Read More](https://medium.com/p/7ef519c198b5) |
 | Tue, 22 Jul 2025 21:10:52 GMT | Invisible Operators: The Psychology of the Chameleon Asset | L.Serrone | [Read More](https://medium.com/p/7db2523a1c64) |
 | Tue, 22 Jul 2025 21:02:01 GMT | ️ Diary of an Ex-Black Hat – Day 2: What Makes a Hacker “Go Dark”? | Untold Story of I | [Read More](https://medium.com/p/f4bfeaf3a490) |
 | Tue, 22 Jul 2025 20:55:29 GMT | Android Penetration Testing: Complete Beginner to Advanced Guide (Part 1)— Getting Started / Basic… | AG_Notes | [Read More](https://medium.com/p/aa582c8f8759) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 16:18:31 GMT | Docker 101: A Beginner’s Guide on How to Use Docker | Dinçer Tekin | [Read More](https://medium.com/p/0d7ae6bb4797) |
 | Tue, 22 Jul 2025 16:16:31 GMT | EMS SSO: One Login to Rule Them All | Akshay Chauhan | [Read More](https://medium.com/p/c3cee55abf33) |
 | Tue, 22 Jul 2025 16:14:31 GMT | Someone Told Me I Wasn’t Professional — And I Never Argued Back | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/7f41d852c6e1) |
-| Tue, 22 Jul 2025 16:12:33 GMT | Low‑Cost Aircraft Proximity Alert for Schools and Nearby Infrastructure | Nahid Khan Shuvo | [Read More](https://medium.com/p/efecbdebf94f) |
-| Tue, 22 Jul 2025 16:09:36 GMT | User enumeration: Um “pontinho”foi crucial! | Gabriel Jesus | [Read More](https://medium.com/p/709b95c3f47d) |
-| Tue, 22 Jul 2025 16:06:59 GMT | MindPalace: A Web-Based Sliver C2 Terminal for Red Team Operators | Anthony Cihan | [Read More](https://medium.com/p/322a6b6a380a) |
