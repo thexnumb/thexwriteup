@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 17:41:41 GMT | DOM-Based XSS via eval() in ajax-cart.js | Mostafa Ghanem | [Read More](https://medium.com/p/9cfd4e845ec1) |
+| Tue, 22 Jul 2025 17:35:26 GMT | TryHackMe — VulnNet: Roasted Writeup | RichardAlmeyda | [Read More](https://medium.com/p/3ca1163f8f70) |
+| Tue, 22 Jul 2025 17:33:00 GMT | I Wanted to Quit Cybersecurity. Here’s Why I Didn’t. | DarKVoicE | [Read More](https://medium.com/p/309b48a76f1b) |
+| Tue, 22 Jul 2025 17:26:36 GMT | Open Redirect Vulnerability (CTF-Based) | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/922fa40d36ff) |
+| Tue, 22 Jul 2025 17:25:29 GMT | From 429 to 200: From Bypass to Bounty using X-Overwriting Headers | tinopreter | [Read More](https://medium.com/p/e3a819d453a6) |
+| Tue, 22 Jul 2025 17:25:21 GMT | The Silent Guardian: A Cybersecurity Story in the Age of AI | Folayan Yemi | [Read More](https://medium.com/p/f7d11df8c0d6) |
+| Tue, 22 Jul 2025 17:22:49 GMT | Shef Solutions LLC | Shef Solutions LLC | [Read More](https://medium.com/p/e2fad39a94ba) |
 | Tue, 22 Jul 2025 17:22:13 GMT | How One Click Emptied My Business Bank Account | Aj | [Read More](https://medium.com/p/dffb69088112) |
+| Tue, 22 Jul 2025 17:21:58 GMT | Beginner Bug Hunters Must Try this Bug !! | TSxNINJA | [Read More](https://medium.com/p/f2adb9ddc74a) |
 | Tue, 22 Jul 2025 17:21:01 GMT | Case Study: How Poor Patching and Open Ports Led to the Equifax Breach | Goose Gustin | [Read More](https://medium.com/p/8491fd03e16d) |
 | Tue, 22 Jul 2025 17:17:14 GMT | My Ignored Update Cost Me $2,000 | Aj | [Read More](https://medium.com/p/c2da20baf9c0) |
 | Tue, 22 Jul 2025 17:16:37 GMT | Progress in Network Security — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/ff7cb917e665) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 13:15:00 GMT | Keepnet: The Best KnowBe4 Alternative for Human Risk Management | Keepnet Labs | [Read More](https://medium.com/p/762995fe6e23) |
 | Tue, 22 Jul 2025 13:14:41 GMT | Zeus — DownUnderCTF Reverse Engineering Challenge | codebreaker | [Read More](https://medium.com/p/eba6194f8a9f) |
 | Tue, 22 Jul 2025 13:14:41 GMT | How To Spot A Phishing Email In Under 10 Seconds. | The Anti-Scam Diaries | [Read More](https://medium.com/p/51fa1abbac52) |
-| Tue, 22 Jul 2025 13:11:58 GMT | What Is Flash USDT? Know Before You're Tricked | Moco | [Read More](https://medium.com/p/6e127f9df00a) |
-| Tue, 22 Jul 2025 13:11:42 GMT | L3akCTF 2025 — WhiteSpace Writeup | BastionWA | [Read More](https://medium.com/p/1e3dd4b110b8) |
-| Tue, 22 Jul 2025 13:11:08 GMT | Safeguarding the Nation: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/79b1f950382b) |
-| Tue, 22 Jul 2025 13:03:38 GMT | Why are we so uncomfortable with being unfinished? | Annabell Ryker | [Read More](https://medium.com/p/3a32c67653e8) |
-| Tue, 22 Jul 2025 12:53:44 GMT | Empower Your Business with Smart Technology Solutions — STSPL | Inshan Singh | [Read More](https://medium.com/p/01f30c03dea8) |
-| Tue, 22 Jul 2025 12:42:12 GMT | Mastering Symantec 250-587 Complete Guide to Data Loss Prevention Certification | Mehmood Ali | [Read More](https://medium.com/p/c221e99e254d) |
-| Tue, 22 Jul 2025 12:41:20 GMT | 7 Promising Job Prospects for Informatics Graduates in the Digital Age | Rismayanti mautipiyau | [Read More](https://medium.com/p/7977796c055e) |
-| Tue, 22 Jul 2025 12:34:07 GMT | SecurityForce Webflow Template for Guard Firms | Morris Lucas | [Read More](https://medium.com/p/d4f5d119a6a4) |
