@@ -12,11 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 22:39:59 GMT | Baby-VulnLab Write-Up | t0x1k | [Read More](https://medium.com/p/dfcbbb8c5432) |
+| Tue, 22 Jul 2025 22:36:14 GMT | SharePoint Exploitation Forecast: State-Aligned Threats and Strategic Security Gaps | Korryn Graves | [Read More](https://medium.com/p/1ea433096d74) |
+| Tue, 22 Jul 2025 22:35:50 GMT | TryHackMe — El Bandito | omni | [Read More](https://medium.com/p/ba373f3cffd7) |
+| Tue, 22 Jul 2025 22:33:07 GMT | ️ Buffer Overflow — A Tale of Treacherous Memory | Emma Lateyron | [Read More](https://medium.com/p/85edd4c4fb11) |
+| Tue, 22 Jul 2025 22:12:34 GMT | Spam Season Is Here: Real-World Lessons for Smashing Online Pests | Dan Christ | [Read More](https://medium.com/p/5446feb90d38) |
 | Tue, 22 Jul 2025 22:11:08 GMT | Gap Analysis of Vendor Privacy and Security Policy | Sharaden Cole | [Read More](https://medium.com/p/383a6c172e57) |
 | Tue, 22 Jul 2025 22:03:30 GMT | Secure pods with hostUsers: false | Mahdi Mallaki | [Read More](https://medium.com/p/7d5ce57a2136) |
 | Tue, 22 Jul 2025 21:54:14 GMT | Knock knock knocking… Who’s there? | Batur Orkun | [Read More](https://medium.com/p/07f9479e0d48) |
 | Tue, 22 Jul 2025 21:53:55 GMT | Build your own bug bounty recon tool | Marília Rocha | [Read More](https://medium.com/p/aae787e7f56b) |
 | Tue, 22 Jul 2025 21:48:36 GMT | Elastic Stack SIEM Home Lab using Kali Linux | Sharaden Cole | [Read More](https://medium.com/p/ebb22db7686f) |
+| Tue, 22 Jul 2025 21:32:52 GMT | Insufficient Access Controls in GraphQL Enables Unauthorized User Enumeration | Bassemwanies | [Read More](https://medium.com/p/400d24e40208) |
 | Tue, 22 Jul 2025 21:30:26 GMT | Quantum Computing Revolution: What It Is and Why It Matters Now | Olatunde Aboaba | [Read More](https://medium.com/p/e3ce9ffc4154) |
 | Tue, 22 Jul 2025 21:20:28 GMT | AIntivirus: John McAfee’s Fight For Digital Security | AIntivirus | [Read More](https://medium.com/p/a5180d3bd9d1) |
 | Tue, 22 Jul 2025 21:19:14 GMT | The Day My Neighbor Lost $ 1750 Because of One Innocent Click | Amrik Singh Hanjra | [Read More](https://medium.com/p/7ef519c198b5) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 16:55:59 GMT | Cybersecurity Isn’t Just for Hackers — It’s for All of Us | Sangeetha Vani | [Read More](https://medium.com/p/73edc2611614) |
 | Tue, 22 Jul 2025 16:54:33 GMT | ProxyAuth The Fastest Authentication Reverse Proxy Ever Built | vBlackOut | [Read More](https://medium.com/p/d37d601596c5) |
 | Tue, 22 Jul 2025 16:52:20 GMT | 60+ SharePoint Servers Compromised by CVE-2025–53770 in 4 Days — The Zero-Day Microsoft Can’t… | Aaron | [Read More](https://medium.com/p/37dafde480db) |
-| Tue, 22 Jul 2025 16:49:44 GMT | Facebook Marketplace: Is It Safe to Buy and Sell? | Akshay Chauhan | [Read More](https://medium.com/p/e5e966178e88) |
-| Tue, 22 Jul 2025 16:41:55 GMT | KPMG CTF {LuxRide} | Bhuwan Patidar | [Read More](https://medium.com/p/169a97498b44) |
-| Tue, 22 Jul 2025 16:33:29 GMT | Explain Less, Align More | Anna J McDougall | [Read More](https://medium.com/p/e72c6a692b23) |
-| Tue, 22 Jul 2025 16:32:32 GMT | Being a Strong Woman Doesn’t Always Pay Off | Praise Ejiro | [Read More](https://medium.com/p/d69c1e453f73) |
-| Tue, 22 Jul 2025 16:31:16 GMT | 퇴사자가 훔쳐간 기술, 남아있는 임직원들의 삶의 터전을 잃게합니다 by. 위즈노트AI | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/1b76b5f8eb3e) |
-| Tue, 22 Jul 2025 16:26:03 GMT | Certified Red Team Professional (CRTE) Review & Study Notes | Motasem Hamdan | [Read More](https://medium.com/p/ca8e04d75fa7) |
