@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 11:11:48 GMT | Smart Security with Less Friction: Building Risk-Based Conditional Access Policies in Entra ID | Oludolamu Onimole | [Read More](https://medium.com/p/4307c24f8ec7) |
+| Tue, 22 Jul 2025 11:10:55 GMT | Hacking APIs: A Comprehensive Methodology for Ethical Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/8652133a3aeb) |
+| Tue, 22 Jul 2025 11:08:00 GMT | Ending Security Privilege: Is Inclusive, Accessible, and Smart Mobile Security Possible for… | MerYunCyber | [Read More](https://medium.com/p/6221c0e621ba) |
+| Tue, 22 Jul 2025 11:07:11 GMT | The Myth of the Girl Who Has It All Together | LILLY | [Read More](https://medium.com/p/003f354903a8) |
+| Tue, 22 Jul 2025 11:06:42 GMT | When You Know You’re Spiralling | Jhalak - @jhalak_jamdagni | [Read More](https://medium.com/p/083accfeca09) |
+| Tue, 22 Jul 2025 11:05:29 GMT | How to set boundaries? | Shalu Ladli | [Read More](https://medium.com/p/9464aab1fde0) |
+| Tue, 22 Jul 2025 11:04:49 GMT | How do attack surface management services help? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/9c5b40d1582d) |
+| Tue, 22 Jul 2025 10:46:53 GMT | Bullbit Guidelines For Bug Detection | Bullbit AI | [Read More](https://medium.com/p/e26a8f369412) |
 | Tue, 22 Jul 2025 10:42:01 GMT | when life gets hard, i hope we still stay vulnerable to accept the love we deserve — not push it… | love, kino | [Read More](https://medium.com/p/e8c21864aa9d) |
 | Tue, 22 Jul 2025 10:40:24 GMT | How a Cybersecurity Agency Protects Your Business in the Digital Age | secureroot | [Read More](https://medium.com/p/35af8e53a202) |
 | Tue, 22 Jul 2025 10:39:08 GMT | How to check SSL/TLS cipher suites on your website with nmap | Anton Prudkohliad | [Read More](https://medium.com/p/f348691ec484) |
@@ -19,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 10:38:49 GMT | What is IAM | Revanthveni | [Read More](https://medium.com/p/56b31f37c864) |
 | Tue, 22 Jul 2025 10:36:37 GMT | Guacamole Installation | Shir0E | [Read More](https://medium.com/p/4b64d605097d) |
 | Tue, 22 Jul 2025 10:36:12 GMT | How a Foundation Course Equips You for Success in Cybersecurity | CourseMonster | [Read More](https://medium.com/p/1eae64d0edfb) |
+| Tue, 22 Jul 2025 10:36:10 GMT | Securing Personalization: How to Meet User Needs Without Opening the Door to Risk | Muhammad Sajid Khan | [Read More](https://medium.com/p/1a9c9e0b4f44) |
 | Tue, 22 Jul 2025 10:34:09 GMT | Attacktive Directory- TryHackMe | TheSocialHacker | [Read More](https://medium.com/p/948375129a62) |
 | Tue, 22 Jul 2025 10:30:54 GMT | Think Like a Hacker, Act Like a Hero | Cuncis | [Read More](https://medium.com/p/7487da934220) |
 | Tue, 22 Jul 2025 10:27:39 GMT | Frontend Frameworks & Native Architecture: A Complete Overview | Ketan Patel | [Read More](https://medium.com/p/d1b91af3a310) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 07:01:26 GMT | Laptop & Computer Repair Services ️ | Malik fatima | [Read More](https://medium.com/p/96e97a1f8a80) |
 | Tue, 22 Jul 2025 06:58:02 GMT | How A2N Academy Prepares You for a Career in Cyber Security | Sureshnextwebi | [Read More](https://medium.com/p/6bf29fd951cb) |
 | Tue, 22 Jul 2025 06:58:02 GMT | AI-Driven Attack Surface Discovery | Netlas.io | [Read More](https://medium.com/p/618af697a845) |
-| Tue, 22 Jul 2025 06:57:12 GMT | Implementing ISMS Correctly—Systematic Instead of Chaotic | Robert Güntherberg | [Read More](https://medium.com/p/c50e24bd8e77) |
-| Tue, 22 Jul 2025 06:54:42 GMT | ARC People and the Illusion of Digital Trust: A Compliance Firm’s Website That Fails Its Own… | 0trust0day | [Read More](https://medium.com/p/4911560e8de9) |
-| Tue, 22 Jul 2025 06:43:28 GMT | IP Address Explained Simply (With 192.168.1.1 as Example) | Akhil Boddula | [Read More](https://medium.com/p/e9ac603a8241) |
-| Tue, 22 Jul 2025 06:42:05 GMT | You Don’t Land a Cybersecurity Job with a Certificate. You Do It with Skills | Game Art Design | [Read More](https://medium.com/p/95b627e2e96e) |
-| Tue, 22 Jul 2025 06:39:46 GMT | Building the Subscription-Based Code Manager: From Zero to Hero on Vercel | Unicorn Day | [Read More](https://medium.com/p/492463e6f1b1) |
-| Tue, 22 Jul 2025 06:39:22 GMT | What Really Happens During a Background Check? | Mariiatata | [Read More](https://medium.com/p/884b56741d26) |
-| Tue, 22 Jul 2025 06:38:50 GMT | The Standards Making Identity Security Better: A 2025 Review | Abhay Kulkarni | [Read More](https://medium.com/p/c858ff4e4310) |
-| Tue, 22 Jul 2025 06:32:22 GMT | Beware of “Easy UPI Commission” Jobs – It’s a Scam! | Ankit sen | [Read More](https://medium.com/p/e5f0b0c5bf40) |
-| Tue, 22 Jul 2025 06:31:20 GMT | Dorks For Sensitive Information Disclosure Part-2 | Zuri | [Read More](https://medium.com/p/4355b479d2aa) |
