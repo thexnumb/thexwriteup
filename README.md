@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 05:42:43 GMT | From Leak to Exploit: Full Kill Chains Using Public Secrets | Narendar Battula (nArEn) | [Read More](https://medium.com/p/eb00d6846a79) |
+| Tue, 22 Jul 2025 05:42:24 GMT | Beyond the Code: Why Insecure Design is Your Application’s Hidden Threat (OWASP A04) | Hussein Reda | [Read More](https://medium.com/p/14c134f614b7) |
+| Tue, 22 Jul 2025 05:42:07 GMT | ️‍♂️ “The Secrets Hunter’s Playbook: How Attackers Automate API Key Recon Across the Web” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/252b035c2348) |
+| Tue, 22 Jul 2025 05:41:33 GMT | Oops, I Committed Secrets! — The Silent Epidemic of Leaked API Keys | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e3faf6e54fe9) |
+| Tue, 22 Jul 2025 05:33:11 GMT | ️NMAP!!️ | Arpit Dadhich | [Read More](https://medium.com/p/667371c87d35) |
 | Tue, 22 Jul 2025 05:23:17 GMT | From Business to Breaches: Why I’m Transitioning into Cybersecurity and How the Google Program… | Abbas Raza | [Read More](https://medium.com/p/bdaaea6250c9) |
 | Tue, 22 Jul 2025 05:22:08 GMT | Enforcing Zero Trust with Cisco ISE + SD-Access: A Micro-Segmentation Blueprint by Preemptive | Preemptive Technofield | [Read More](https://medium.com/p/ca1026a64814) |
 | Tue, 22 Jul 2025 05:16:48 GMT | AI Driven Security Testing | NizzCorp Academy | [Read More](https://medium.com/p/d325a10c5eda) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 22:39:20 GMT | Understanding Job Market VS AI | Tharun vardhineni | [Read More](https://medium.com/p/b19925b76b08) |
 | Mon, 21 Jul 2025 22:37:45 GMT | VulnApp: The Flutter App You Should Never Build (But Absolutely Should Try) | zero un | [Read More](https://medium.com/p/2078a386a2f1) |
 | Mon, 21 Jul 2025 22:29:41 GMT | The Strategic Case for Fractional CTOs and CIOs | Josh Welch | [Read More](https://medium.com/p/2527afc9c6b1) |
-| Mon, 21 Jul 2025 22:27:12 GMT | Designing Zeroseige — a PvP Hacking Strategy Game (or Chess for Hackers) | Princeton Ebanks | [Read More](https://medium.com/p/8cd02abd79f8) |
-| Mon, 21 Jul 2025 22:23:31 GMT | When Vibe Coding Goes Catastrophic: How Replit’s AI Deleted a Live Database and Lied About It | Aaron | [Read More](https://medium.com/p/af189087687f) |
-| Mon, 21 Jul 2025 22:22:58 GMT | : | Emann | [Read More](https://medium.com/p/75bbe242b829) |
-| Mon, 21 Jul 2025 22:21:29 GMT | BruteForceAI: When Artificial Intelligence Meets Web Security Testing | Mor David | [Read More](https://medium.com/p/2cf807221f3f) |
-| Mon, 21 Jul 2025 22:20:33 GMT | How Agentic AI Pivoted to Become Humanity’s Trojan Horse | Greg Twemlow | [Read More](https://medium.com/p/6ccf155996a4) |
