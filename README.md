@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 09:44:23 GMT | The Modifiability of the Scientific Method | Ali Raza | [Read More](https://medium.com/p/ea31696f724b) |
+| Tue, 22 Jul 2025 09:38:42 GMT | Understanding and Defending Against Targeted Ransomware Attacks | Gauravinsightss | [Read More](https://medium.com/p/6068ebed45cd) |
+| Tue, 22 Jul 2025 09:37:48 GMT | A New Era of Decentralized Security for EVM Blockchains | Daniel Udo | [Read More](https://medium.com/p/5bf263cc0f3a) |
+| Tue, 22 Jul 2025 09:37:41 GMT | How Hackers Could Attack TSMC | David SEHYEON Baek | [Read More](https://medium.com/p/6f81ecacaa6f) |
+| Tue, 22 Jul 2025 09:30:43 GMT | The V2X Future: Building a Safer, Smarter, More Sovereign Mobility Ecosystem ! | Ahmed Rekik | [Read More](https://medium.com/p/15f300aab3dc) |
+| Tue, 22 Jul 2025 09:30:29 GMT | What is Row-Level Security in PostgreSQL for Multi-Tenant Rails Apps ?? | Prapti Patel | [Read More](https://medium.com/p/6306227a24e6) |
+| Tue, 22 Jul 2025 09:30:20 GMT | Why TechUnshoot :  Is the Only Tech Blog You Need in 2025 | Frederickanton Se | [Read More](https://medium.com/p/1e40c799a08d) |
+| Tue, 22 Jul 2025 09:27:20 GMT | The Power of Reading Documentation Leads to Low‑Hanging Fruit | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/515d2a98190e) |
 | Tue, 22 Jul 2025 09:24:05 GMT | Cc Cvv dumps All Transfers PayPal western union Zelle Bitcoins Bank Clone Cards/ATM upgrade all… | Albert | [Read More](https://medium.com/p/57c6ba24f4c6) |
 | Tue, 22 Jul 2025 09:22:03 GMT | Exploit - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/186d3cb465b7) |
 | Tue, 22 Jul 2025 09:09:51 GMT | CVE-2024–24916 | Karol Mazurek | [Read More](https://medium.com/p/396479975a0b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 05:09:00 GMT | Burnt Out But Breaking Through: How I Found New Purpose (and Income) Using the Microsoft 365 Attack… | Rue | [Read More](https://medium.com/p/7978aea95159) |
 | Tue, 22 Jul 2025 05:04:40 GMT | Strategic Paralysis by Design: Part IX — Economic and Industrial Disruption as a Strategic Lever | Chris Clark | [Read More](https://medium.com/p/168bb409e810) |
 | Tue, 22 Jul 2025 05:03:20 GMT | How to Unfreeze a Bank Account Linked to Suspicious Transactions | OLC Agra | [Read More](https://medium.com/p/d7ea8b477e3c) |
-| Tue, 22 Jul 2025 05:01:46 GMT | Impact of MiG-21 Retirement on India's Aerial Defense Strength: What’s Next? | Rajat Shukla | [Read More](https://medium.com/p/5870ec5db76e) |
-| Tue, 22 Jul 2025 04:58:40 GMT | ️ Top 10 Cybersecurity Tools Every Ethical Hacker Should Know in 2025 | CYber VIaz | [Read More](https://medium.com/p/508e78edb8c9) |
-| Tue, 22 Jul 2025 04:54:06 GMT | Day 8- Cybersecurity for Beginners: What are vulnerabilities and how do we fix them? | unica 02 | [Read More](https://medium.com/p/c366d3f5b2dc) |
-| Tue, 22 Jul 2025 04:52:37 GMT | Portswigger Web Security Academy - OS Command Injection Lab #1 | BooRuleDie | [Read More](https://medium.com/p/2acabc10e2a8) |
-| Tue, 22 Jul 2025 04:44:42 GMT | Hackers Can’t Fight What They Can’t Detect — It’s Time to Rethink Network Defense | Andre Fernandes | [Read More](https://medium.com/p/139b6adb1766) |
-| Tue, 22 Jul 2025 04:43:35 GMT | Yippee — OSINT— DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/ba2a888edd07) |
-| Tue, 22 Jul 2025 04:31:58 GMT | My First Bug Got Duped — And I’m Weirdly Proud of It | Viratavi | [Read More](https://medium.com/p/02a05b79447a) |
-| Tue, 22 Jul 2025 04:24:15 GMT | ️ SharePoint Under Siege: CVE‑2025‑53770 Exploited in the Wild | Paritosh | [Read More](https://medium.com/p/82490670a252) |
