@@ -12,6 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 01:42:07 GMT | O que é SHA-256? | Lucas Novaes Antonio Filgueiras | [Read More](https://medium.com/p/d9e43e1e3550) |
+| Tue, 22 Jul 2025 01:38:48 GMT | Why Your Business Needs to Think Like an Intelligence Agency | Richard Frederick | [Read More](https://medium.com/p/b03587cf8eac) |
+| Tue, 22 Jul 2025 01:37:18 GMT | The Attacking Phase: Where Hackers Thrive and Defenders Sleep | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/171d8f9d6f7c) |
+| Tue, 22 Jul 2025 01:34:53 GMT | Why compliance ≠ security: The real cyber strategy your business needs | Tekclarion | [Read More](https://medium.com/p/077c9a7ce67a) |
+| Tue, 22 Jul 2025 01:32:27 GMT | Building My Home SOC Lab with Microsoft Sentinel & Azure | Mark Mikael Laurel | [Read More](https://medium.com/p/91322352872b) |
+| Tue, 22 Jul 2025 01:32:09 GMT | How I Accidentally Became a Bug Hunter !.. | Writer | [Read More](https://medium.com/p/b6e5a143e889) |
+| Tue, 22 Jul 2025 01:31:49 GMT | Part II: The Modern CISO In the Trenches | Kalpitha S | [Read More](https://medium.com/p/54c2afae39f1) |
+| Tue, 22 Jul 2025 01:31:00 GMT | What Role Is Artificial Intelligence Playing in Predicting and Preventing Cyber Threats? | Divya | [Read More](https://medium.com/p/92e2d6c8a027) |
+| Tue, 22 Jul 2025 01:28:15 GMT | OSINT Flag Hunting — Look At All Those Chickens — DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/85dc7de21e45) |
+| Tue, 22 Jul 2025 01:24:20 GMT | Understanding the Difference Between Penetration Testing and Vulnerability Scanning | Steve Splash | [Read More](https://medium.com/p/666489672bb5) |
+| Tue, 22 Jul 2025 01:23:25 GMT | HOW DATA GOES ANYWAY? | Maya | [Read More](https://medium.com/p/4bae6d9a2022) |
+| Tue, 22 Jul 2025 01:21:26 GMT | Understanding and Identifying Race Conditions in Web Security | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/f8f375467070) |
+| Tue, 22 Jul 2025 01:11:42 GMT | SECURET: The Messenger That Doesn’t Watch You Back | SAYCOIN | [Read More](https://medium.com/p/b40ecdfa4cfc) |
+| Tue, 22 Jul 2025 01:10:15 GMT | Common Mistakes in Web Application Security | Steve Splash | [Read More](https://medium.com/p/56231dcc1909) |
+| Tue, 22 Jul 2025 01:02:00 GMT | Part I: The Modern CISO | Kalpitha S | [Read More](https://medium.com/p/0008b1c2908c) |
+| Tue, 22 Jul 2025 01:01:59 GMT | Infrastructure Part I: Cyber-Crisis | Kalpitha S | [Read More](https://medium.com/p/33fa8c13b30d) |
+| Tue, 22 Jul 2025 00:58:20 GMT | How to enable Secure Boot for your AI workloads | Maciej Strzelczyk | [Read More](https://medium.com/p/6065dc75645b) |
+| Tue, 22 Jul 2025 00:43:25 GMT | Top 5 Tools Every Penetration Tester Should Know | Steve Splash | [Read More](https://medium.com/p/e15d5a98eedc) |
+| Tue, 22 Jul 2025 00:41:57 GMT | Day 57: VM Networking | Nile Okomo | [Read More](https://medium.com/p/a51343715738) |
+| Tue, 22 Jul 2025 00:39:34 GMT | Day 56: Hypervisors | Nile Okomo | [Read More](https://medium.com/p/819da814ec49) |
+| Tue, 22 Jul 2025 00:38:43 GMT | Day 55: Network Mapper | Nile Okomo | [Read More](https://medium.com/p/481022ccbd6f) |
+| Tue, 22 Jul 2025 00:33:31 GMT | The Invisible Weakness: Unmasking IoT Vulnerabilities in a Connected World | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/33a0127330c1) |
+| Tue, 22 Jul 2025 00:31:55 GMT | DefenseArk #ThreatIntelThursday - Smurf Attacks | Kalpitha S | [Read More](https://medium.com/p/a47456123d21) |
+| Tue, 22 Jul 2025 00:27:08 GMT | CoinDCX Hack: 44 Million Dollars Lost. How Safeguard Helps Protect Your Crypto | Safeguard Capital | [Read More](https://medium.com/p/9a6f40e5348a) |
+| Tue, 22 Jul 2025 00:17:26 GMT | Supply Chain Attacks: The Hidden Cyber Threat Targeting Trust | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/9b730a1df7e1) |
+| Tue, 22 Jul 2025 00:06:19 GMT | Is Your Local Setup a Security Bottleneck? Why Project Isolation is Non-Negotiable Now | James Miller | [Read More](https://medium.com/p/d8328611da15) |
+| Tue, 22 Jul 2025 00:05:51 GMT | Vulnerability as Strength: The Psychology Behind Emotional Openness | Rashee | [Read More](https://medium.com/p/c00b9fd0dd9b) |
+| Tue, 22 Jul 2025 00:01:50 GMT | Security Misconfiguration (OWASP A05): Guía de Hacking y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/566c927d0228) |
+| Mon, 21 Jul 2025 23:59:49 GMT | How Construction Site Security Guards Service Prevents Theft | Salum Security | [Read More](https://medium.com/p/3ad10d34ca0a) |
+| Mon, 21 Jul 2025 23:51:03 GMT | I Found 127 Hidden Bugs in JavaScript Files Here’s How | Ibtissam hammadi | [Read More](https://medium.com/p/544f6f57346c) |
+| Mon, 21 Jul 2025 23:39:30 GMT | Writeup — Evil File reader (Web) — BDSec CTF 2025 | TIOURSI YASSER | [Read More](https://medium.com/p/049eb114b9cd) |
 | Mon, 21 Jul 2025 23:35:37 GMT | The SSL Struggle Is Real: How I Got HTTPS Working on Azure Web Apps | Rani Kumari | [Read More](https://medium.com/p/a62d74a975d1) |
 | Mon, 21 Jul 2025 23:32:11 GMT | DefenseArk #ThreatIntelThursday - VPNs — Rewards and Risks — Part 1 | Kalpitha S | [Read More](https://medium.com/p/ad77c21c36ab) |
 | Mon, 21 Jul 2025 23:31:49 GMT | FortiGuard Inline Malware Prevention Service: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b20bf8287055) |
@@ -81,35 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 18:51:50 GMT | I Completed Cisco’s Networking Basics Course! Here’s Why It Matters | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/b4594cf32446) |
 | Mon, 21 Jul 2025 18:38:56 GMT | In an age where digital borders are as vital as physical ones, the emergence of sophisticated… | Chetan Seripally | [Read More](https://medium.com/p/da634eaa664d) |
 | Mon, 21 Jul 2025 18:33:46 GMT | Cyber Security Offense and Defense Home Lab — Part 3 (Installing pfsense firewall) | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/496b5a3d9497) |
-| Mon, 21 Jul 2025 18:32:44 GMT | The Ground Game: Staying Cool Before Takeoff | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/8dc7e54c64c3) |
-| Mon, 21 Jul 2025 18:31:39 GMT | Lightweight EC2 Monitoring Using AWS EventBridge and SNS | Vijesh Vijayan Nair | [Read More](https://medium.com/p/3f2f91e8f5a1) |
-| Mon, 21 Jul 2025 18:25:51 GMT | Kahoot, Kernels, and Chaos: Teaching Operating Systems the Fun Way | Gitika Babbar | [Read More](https://medium.com/p/c92cc0c7a493) |
-| Mon, 21 Jul 2025 18:11:44 GMT | Security Awareness Lapses and Their Regulatory Implications | Infosecjourney.tech | [Read More](https://medium.com/p/8d407b529f87) |
-| Mon, 21 Jul 2025 18:11:02 GMT | 5 Ways to Safeguard Your Cloud Storage from Unauthorized Access | Aiman Jawad | [Read More](https://medium.com/p/80e0e4cae5ea) |
-| Mon, 21 Jul 2025 18:08:13 GMT | Network scanning: Tools, Techniques & Best Practices | Amogha KS | [Read More](https://medium.com/p/440411b634c8) |
-| Mon, 21 Jul 2025 18:07:13 GMT | ModulusZK: Addressing the Need for Institutional Grade Security | Modulus ZK | [Read More](https://medium.com/p/42ed565940a2) |
-| Mon, 21 Jul 2025 18:06:25 GMT | Zbuduj swój własny osobisty stack AI — bezpiecznie, prosto i w stylu „vibecoding” | Phala Network PL | [Read More](https://medium.com/p/a34c0ec6af44) |
-| Mon, 21 Jul 2025 18:02:14 GMT | Inside a Massive Telegram-Based Malware Campaign: How I Uncovered 18,000+ Victim Compromises | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/b0af869a0855) |
-| Mon, 21 Jul 2025 18:01:59 GMT | Go Buster Basics: A Simple Guide For Curious Beginners | Ayush Kumar | [Read More](https://medium.com/p/99345da92276) |
-| Mon, 21 Jul 2025 17:54:45 GMT | Постройте свой личный AI-стек — безопасно, просто и в стиле «vibecoding» | Phala Network RU | [Read More](https://medium.com/p/89fe4388b374) |
-| Mon, 21 Jul 2025 17:52:54 GMT | How I found my first Critical SSRF (and how you can too) | Appsec.pt | [Read More](https://medium.com/p/b0f5fb1bd62b) |
-| Mon, 21 Jul 2025 17:46:15 GMT | The Transparency‑Containment Paradox™: Balancing Trust and Security in Healthcare AI | Brian M. Green | [Read More](https://medium.com/p/b2f93d8db737) |
-| Mon, 21 Jul 2025 17:41:04 GMT | Operationalizing Splunk for Blue Team Success: From Ingestion to Threat Detection | Mohamed Basil | [Read More](https://medium.com/p/cdd584e29c66) |
-| Mon, 21 Jul 2025 17:32:47 GMT | Что нужно, чтобы создать безопасный AGI? | Phala Network RU | [Read More](https://medium.com/p/3d4896293351) |
-| Mon, 21 Jul 2025 17:27:27 GMT | Light Is the New Firewall: Rethinking Cybersecurity from the Hardware Up | Derek Wayne Bailey | [Read More](https://medium.com/p/80e5ceb678ed) |
-| Mon, 21 Jul 2025 17:26:51 GMT | What is Zero Trust in Cybersecurity and How Does it Help? | Ray M | [Read More](https://medium.com/p/fdc7be307ab6) |
-| Mon, 21 Jul 2025 17:17:51 GMT | DAY 10: Whispers Of Last 21st of July | Akshatdwivedi | [Read More](https://medium.com/p/04be8b8f9691) |
-| Mon, 21 Jul 2025 17:14:09 GMT | What Makes Well Trained Security Guards in AL So Effective | Bailey360  Security | [Read More](https://medium.com/p/40af0d73a3eb) |
-| Mon, 21 Jul 2025 17:12:21 GMT | NEWSLETTER : McHire Data Breach: AI Cybersecurity Wake-Up Call and Innovation Blueprint for San… | Nitin Garg | [Read More](https://medium.com/p/4d32a30c7c97) |
-| Mon, 21 Jul 2025 17:09:48 GMT | “Mastering Stored XSS: Real-World Exploits and Advanced Bypass Techniques” | Aman Sharma | [Read More](https://medium.com/p/1ff2ce3a4e1e) |
-| Mon, 21 Jul 2025 17:05:32 GMT | Title: Introducing Quranium’s Qsafe Wallet: The Future of Faith-Based, Quantum-Secure Web3 | ♐DecentralizedDev | [Read More](https://medium.com/p/bee0f925fc58) |
-| Mon, 21 Jul 2025 16:57:32 GMT | DAY 21 — CHAPTER 10: File System and Storage Device Management | Jinay | [Read More](https://medium.com/p/51f0ea5cb0ac) |
-| Mon, 21 Jul 2025 16:49:23 GMT | ️‍♂️ Hacking Lab Tutorial: Discovering Info Leaks via Backup Files with Feroxbuster | Rajkumar Kumawat | [Read More](https://medium.com/p/f2af472d7189) |
-| Mon, 21 Jul 2025 16:42:59 GMT | 1:- Quantum Leech Virus:
-You’ll craft this bastard in a dark corner of the deep web, using a… | Zarar Anwar | [Read More](https://medium.com/p/411cf74ec3a6) |
-| Mon, 21 Jul 2025 16:42:09 GMT | Meta Had a Bug That Could Leak Your Secret AI Prompts! | CoinGen | [Read More](https://medium.com/p/ede3db30cffd) |
-| Mon, 21 Jul 2025 16:38:34 GMT | ️ The Cybersecurity Blueprint: From Curious Beginner to Ethical Hacker | ShuklaAnurag | [Read More](https://medium.com/p/e40eba4068c3) |
-| Mon, 21 Jul 2025 16:37:40 GMT | OT Security Challenges and Solutions: Bridging the IT-OT Gap for a Safer Future | SafeAeon Inc. | [Read More](https://medium.com/p/685dc0ec82e9) |
-| Mon, 21 Jul 2025 16:31:49 GMT | AI-Powered Cybersecurity: The Future of Ethical Hacking and AI Defense | Sneha Rani | [Read More](https://medium.com/p/e6dd28a52673) |
-| Mon, 21 Jul 2025 16:29:14 GMT | How Phished npm Maintainers Let Malware Into 6 Popular Packages — And How You Can Shield Yourself | CyBlog | [Read More](https://medium.com/p/9de8bf42479b) |
-| Mon, 21 Jul 2025 16:25:04 GMT | Why Hackers Will Never Leak the Epstein Files — And What That Really Means | Shaant | [Read More](https://medium.com/p/219eb46a1ac3) |
