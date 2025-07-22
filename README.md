@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 14:40:10 GMT | USAA Data Breach Settlement: Full Fallout Breakdown | Atomic Mail | [Read More](https://medium.com/p/d3aeca345cc4) |
+| Tue, 22 Jul 2025 14:38:35 GMT | Google XSS Game Writeup — By Cybernerddd | Cybernerddd | [Read More](https://medium.com/p/a44b0714ab42) |
+| Tue, 22 Jul 2025 14:34:25 GMT | Cybersecurity: | Rebecca Trocki | [Read More](https://medium.com/p/9832c94b5fa7) |
+| Tue, 22 Jul 2025 14:32:50 GMT | Peeking Into the Packet Stream — Unlocking the Power of Ettercap for Network Attacks & Defense | Vijay Kumar Gupta | [Read More](https://medium.com/p/f619c93bb7e4) |
+| Tue, 22 Jul 2025 14:32:10 GMT | Deepfakes in Cybercrime | Chaitrali Gowda | [Read More](https://medium.com/p/812ae93658ae) |
+| Tue, 22 Jul 2025 14:29:33 GMT | MDR vs. MSS: Which Security Solution is Right for Your Business? | IT_Engineer | [Read More](https://medium.com/p/9343f6ff9e16) |
+| Tue, 22 Jul 2025 14:25:53 GMT | How I Burned $460 in One Day Learning DevOps | Muhammed Akintola | [Read More](https://medium.com/p/f6c8bead0a83) |
+| Tue, 22 Jul 2025 14:24:30 GMT | Simplifying Cybersecurity Operations with Cisco XDR | Emmanuel Mordi | [Read More](https://medium.com/p/83e73017b6b8) |
+| Tue, 22 Jul 2025 14:18:03 GMT | Message Auto-Accept & Activity Status Leak via “Translate” Option in Message Requests | Sandipgyawali | [Read More](https://medium.com/p/0c262ba89d1b) |
 | Tue, 22 Jul 2025 14:15:23 GMT | Intelligent Process Automation Companies: Navigating Challenges and Seizing Opportunities with a… | Philip Hansen | [Read More](https://medium.com/p/756396f21ec0) |
 | Tue, 22 Jul 2025 14:15:20 GMT | Intelligent Process Automation: Der ultimative Leitfaden für Führungskräfte zur Automatisierung der… | Philip Hansen | [Read More](https://medium.com/p/7351166d23b5) |
 | Tue, 22 Jul 2025 14:11:54 GMT | Don’t Swallow the Sweet Talk of ServiceNow-ITAD Integration | Kyle Marks | [Read More](https://medium.com/p/763c199462c5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 10:25:09 GMT | How I Put a Financial Guardrail on My AWS Account with AWS Budgets | AashishChaudhari | [Read More](https://medium.com/p/056941b54eba) |
 | Tue, 22 Jul 2025 10:23:34 GMT | Quppy AML Bot Guide: Spotting Red Flags in Crypto Wallets & Transactions | QuppyAMLBOT | [Read More](https://medium.com/p/b28e959a18de) |
 | Tue, 22 Jul 2025 10:19:44 GMT | Top 10 Linux Distros for Hacking and What They’re Designed For… | Travis Ray Caverhill | [Read More](https://medium.com/p/c3eedf7ef22d) |
-| Tue, 22 Jul 2025 10:17:28 GMT | Integrate JWT (JSON Web Tokens) in React | Ahafeez791 | [Read More](https://medium.com/p/fad1e96332a6) |
-| Tue, 22 Jul 2025 10:14:52 GMT | Creating A Network Protocol Analyzer in Python | Priyanshu Singh | [Read More](https://medium.com/p/4d81b0b898fe) |
-| Tue, 22 Jul 2025 10:10:53 GMT | Soroban Security Portal | Inferara | [Read More](https://medium.com/p/70c19d6e85e7) |
-| Tue, 22 Jul 2025 10:10:04 GMT | What’s the Cost of Hiring a Cybersecurity Expert in 2025? | Forbes | [Read More](https://medium.com/p/cc557300bb5b) |
-| Tue, 22 Jul 2025 10:07:12 GMT | Google’s Secret AI Can Read Your Mood From Your Face And It Might Change Everything | Informer | [Read More](https://medium.com/p/4b9a0f561bd5) |
-| Tue, 22 Jul 2025 10:06:17 GMT | What It Says About Me That All My Friends Have Problems | Johanna | [Read More](https://medium.com/p/598c4d98fe36) |
-| Tue, 22 Jul 2025 10:04:17 GMT | The Triaging Process in Cybersecurity: A SOC’s First Line of Defense | ayub_91 | [Read More](https://medium.com/p/8370615644a4) |
-| Tue, 22 Jul 2025 10:03:51 GMT | CVE‑2025‑53770 — SharePoint Zero-Day Variant Exploited for Full RCE | Aditya Bhatt | [Read More](https://medium.com/p/73e552114cc7) |
-| Tue, 22 Jul 2025 10:01:48 GMT | Go-To Checklist for Securing My Condo Before Vacation | Viktor Ponamarev | [Read More](https://medium.com/p/e9618f9bace0) |
