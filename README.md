@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 20:22:31 GMT | How I Won My First Web3 Hackathon Using Vibe Coding: Building DeFi Watchdog | Mohamedajguernoun | [Read More](https://medium.com/p/a39ddd05998c) |
+| Tue, 22 Jul 2025 20:13:28 GMT | From Remote Code Execution to Full System Compromise: A Real-World Exploitation Chain with… | Marcogiacobbe | [Read More](https://medium.com/p/abcf9c4ee1e9) |
+| Tue, 22 Jul 2025 20:12:46 GMT | You Are the Product: Surveillance Is the Price of ‘Free’ | Naman Barola | [Read More](https://medium.com/p/7a51a273eed3) |
+| Tue, 22 Jul 2025 20:07:04 GMT | How I Found My First Open Redirect During Recon + TIPS! | Tenebris Venator | [Read More](https://medium.com/p/e36f2a5b1a31) |
+| Tue, 22 Jul 2025 20:05:13 GMT | Cracking Web Login Portals — Brute Force & SQLi Tactics | Roshan | [Read More](https://medium.com/p/5087b2d8ce98) |
+| Tue, 22 Jul 2025 20:05:03 GMT | En Yaygın Siber Saldırı Türleri-2 | Melek | [Read More](https://medium.com/p/533854242aa7) |
+| Tue, 22 Jul 2025 20:00:08 GMT | Enumerating SMB and NFS File Shares | Roshan | [Read More](https://medium.com/p/0db950dcd6c5) |
+| Tue, 22 Jul 2025 19:58:45 GMT | $1000 Bounty: Changing a Victim’s JIRA Integration | Monika sharma | [Read More](https://medium.com/p/02611a90d1f2) |
+| Tue, 22 Jul 2025 19:55:51 GMT | FR-OSINT Unleashed | Snooptsz | [Read More](https://medium.com/p/5eec0ef4f2a7) |
+| Tue, 22 Jul 2025 19:51:45 GMT | The AI Threat No One’s Talking About: How Machines Are Weaponizing Human Psychology | Maxk | [Read More](https://medium.com/p/a68fbb108c5b) |
+| Tue, 22 Jul 2025 19:46:27 GMT | dont-you-love-banners | Player X | [Read More](https://medium.com/p/a91945f818bb) |
+| Tue, 22 Jul 2025 19:45:25 GMT | #OSWE Exam Review: What Helped, What Hurt, and What I’d Change Next Time | Axel Rengstorf | [Read More](https://medium.com/p/b68acb3da102) |
+| Tue, 22 Jul 2025 19:44:34 GMT | How to Choose the Right GDPR Compliance Consulting Partner | DEFEND MY BUSINESS | [Read More](https://medium.com/p/8aef96369c6a) |
+| Tue, 22 Jul 2025 19:44:33 GMT | UK Proposes Ransomware Payment Ban for Public Sector | Matthew.Rosenquist | [Read More](https://medium.com/p/a210714d8bdd) |
+| Tue, 22 Jul 2025 19:39:42 GMT | Next.js + Cloudflare + Missing robots.txt = 400K Visits in 2 Weeks! | Zeynep Basboga | [Read More](https://medium.com/p/54415d857345) |
+| Tue, 22 Jul 2025 19:38:54 GMT | Linux: A Guide to a Different Kind of Computer | Olumide Adeniji | [Read More](https://medium.com/p/10d70a2a9120) |
+| Tue, 22 Jul 2025 19:35:30 GMT | Top 10 Programming and Software Development Trends to Watch in 2025 | Nosheen Butt | [Read More](https://medium.com/p/8b6cad6bff46) |
+| Tue, 22 Jul 2025 19:31:47 GMT | Your API Keys Are Leaking — And You Don’t Even Know It | BugsyBits | [Read More](https://medium.com/p/109a8c43a38f) |
 | Tue, 22 Jul 2025 19:29:17 GMT | How to deobfuscate a PHP malware under pressure | Lorenzo Moulin | [Read More](https://medium.com/p/68a6a3ccb11d) |
 | Tue, 22 Jul 2025 19:22:59 GMT | Highest paying jobs in cyber security | Chandanjana | [Read More](https://medium.com/p/9f2cc504954c) |
 | Tue, 22 Jul 2025 19:16:17 GMT | awedwetg | Pigeone7 | [Read More](https://medium.com/p/0e531e767935) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 15:29:26 GMT | Why Juspay Switched from Kubernetes to EC2 ? | Dhanush N | [Read More](https://medium.com/p/37cc97e27179) |
 | Tue, 22 Jul 2025 15:28:03 GMT | Capturing WPA2 Passwords Using Evil Twin Attacks with Wifiphisher | Cybersectoworld | [Read More](https://medium.com/p/ae5d7b78c599) |
 | Tue, 22 Jul 2025 15:25:03 GMT | I finally understood why people wouldn’t tell the truth — and just stayed silent | S. Sachdeva | [Read More](https://medium.com/p/94e66bd39a8b) |
-| Tue, 22 Jul 2025 15:25:02 GMT | CVE-2025–47812: Wing FTP Remote Code Execution | DefenceRabbit | [Read More](https://medium.com/p/2576712f7079) |
-| Tue, 22 Jul 2025 15:23:56 GMT | TryHackMe: Blueprint Writeup | Nyx0r | [Read More](https://medium.com/p/747bd120f4c9) |
-| Tue, 22 Jul 2025 15:20:47 GMT | DursVulnNSE Database Update Explanation | Kang Ali | [Read More](https://medium.com/p/af80d1c8e713) |
-| Tue, 22 Jul 2025 15:17:01 GMT | Working of Authenticator app | Raghavvram | [Read More](https://medium.com/p/8c930e7d8654) |
-| Tue, 22 Jul 2025 15:04:53 GMT | Beginner’s Guide to Active Reconnaissance (Part 3.1): ICMP Ping Techniques on Firewalled Hosts. | Ar-jay A. Ballaco | [Read More](https://medium.com/p/d10bddb97921) |
-| Tue, 22 Jul 2025 15:03:40 GMT | JWTs Aren’t Session Cookies, Stop Treating Them Like They Are | Sanjeevani Bhandari | [Read More](https://medium.com/p/093f4767a59f) |
-| Tue, 22 Jul 2025 15:02:30 GMT | 5 Laws of Debugging Every Engineer Learns the Hard Way | Harishsingh | [Read More](https://medium.com/p/069f51c089f0) |
-| Tue, 22 Jul 2025 14:59:15 GMT | Weekly Cyber Threat Brief: Staying Ahead in a Dynamic Landscape (July 21–27, 2025) | Akhil Binu | [Read More](https://medium.com/p/6f0717d9041f) |
-| Tue, 22 Jul 2025 14:58:46 GMT | Identity and Access Management : le point aveugle de la cybersécurité en PME | Arthur | [Read More](https://medium.com/p/908b19e17d4e) |
-| Tue, 22 Jul 2025 14:52:04 GMT | Hospital IT: The Digital Heart of Medical Services | Ilham Lutfi | [Read More](https://medium.com/p/dd6e38246693) |
-| Tue, 22 Jul 2025 14:50:54 GMT | $22M Lost: Holograph Insider Mint, Dough Calldata Exploit, Loopring Key Compromise, and TRUMP Rug… | Olympix | [Read More](https://medium.com/p/966ebb90f83e) |
-| Tue, 22 Jul 2025 14:49:11 GMT | $9.7M Lost: Coinstats, Velocore, and Normie Breached via Wallet Compromise and Logic Bugs | Olympix | [Read More](https://medium.com/p/8e8be53e5a97) |
-| Tue, 22 Jul 2025 14:47:05 GMT | DarkWatchMan and Hive0117: Fileless Malware Evolution Targeting Russian Critical Infrastructure | Wes Young | [Read More](https://medium.com/p/6625dacd0037) |
-| Tue, 22 Jul 2025 14:47:05 GMT | $45M Exploited: UwU Lend, Gala Games, and TCH Breached via Price Oracles, Wallets, and Signature… | Olympix | [Read More](https://medium.com/p/8518b2d6f912) |
-| Tue, 22 Jul 2025 14:42:13 GMT | Zero-Click Account Takeover: The Power of JavaScript Analysis | Ali Saadi | [Read More](https://medium.com/p/4f1d4fc36a00) |
-| Tue, 22 Jul 2025 14:40:10 GMT | USAA Data Breach Settlement: Full Fallout Breakdown | Atomic Mail | [Read More](https://medium.com/p/d3aeca345cc4) |
-| Tue, 22 Jul 2025 14:38:35 GMT | Google XSS Game Writeup — By Cybernerddd | Cybernerddd | [Read More](https://medium.com/p/a44b0714ab42) |
-| Tue, 22 Jul 2025 14:34:25 GMT | Cybersecurity: | Rebecca Trocki | [Read More](https://medium.com/p/9832c94b5fa7) |
