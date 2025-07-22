@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 18:22:25 GMT | ️ IPS ve IDS Nedir? Aralarındaki Farklar Nelerdir? What are the differences between IDS and IPS? | Aybike Tutar | [Read More](https://medium.com/p/b430f53699d8) |
+| Tue, 22 Jul 2025 18:19:56 GMT | Understanding Exploratory Data Analysis — A Practical companion. | Rishabh Nandmaher | [Read More](https://medium.com/p/0124c6ff452b) |
+| Tue, 22 Jul 2025 18:18:16 GMT | A Strategic Blueprint for Integrating AI and Machine Learning in Cybersecurity Risk Management | Kelven Leverett, CISSP, CISM | [Read More](https://medium.com/p/8357f5a42ef8) |
+| Tue, 22 Jul 2025 18:14:20 GMT | Mastering Cloud Security: Starting with the Basics | Vivian Aghedo | [Read More](https://medium.com/p/db330b26d45d) |
+| Tue, 22 Jul 2025 18:12:14 GMT | Do WordPress Tags Help with Your Social Media Posts? | Shamim IT Soft | [Read More](https://medium.com/p/2891bebeeeac) |
+| Tue, 22 Jul 2025 18:11:25 GMT | The Cloud Storage Security Wars: Why Government Pressure Just Changed Everything | TechEd Publishers | [Read More](https://medium.com/p/268c8e246eb4) |
+| Tue, 22 Jul 2025 18:09:40 GMT | SOC146 — Phishing Mail Detected — Excel 4.0 Macros | Cyber Burrito | [Read More](https://medium.com/p/10d388dfb956) |
+| Tue, 22 Jul 2025 18:03:41 GMT | My Red Team Internship Journey: Practical Web Exploitation & Ethical Hacking Techniques | Asad Ali | [Read More](https://medium.com/p/15220f840ad9) |
+| Tue, 22 Jul 2025 17:57:58 GMT | CEH from Zero to ….. | Sandeep | [Read More](https://medium.com/p/7fb3595b0836) |
+| Tue, 22 Jul 2025 17:53:37 GMT | DAY 22 — CTF #5: Operation Black Echo | Jinay | [Read More](https://medium.com/p/265dab564a3c) |
+| Tue, 22 Jul 2025 17:45:42 GMT | How Russia’s Hacktivist Clown Car Caught Fire and Drove Off a Cliff | Christian Baghai | [Read More](https://medium.com/p/916e9d77f646) |
+| Tue, 22 Jul 2025 17:45:11 GMT | Cara Fix “message”: “SQLSTATE[HY000] [2002] No such file or directory (Connection: mysql, SQL… | Wahid | [Read More](https://medium.com/p/d1391820a88f) |
+| Tue, 22 Jul 2025 17:41:50 GMT | CVE-2025–50578: Exploiting Host Header Injection & Open Redirect in Heimdall Application | Juan Felipe Osorio Z | [Read More](https://medium.com/p/733afceff2ea) |
 | Tue, 22 Jul 2025 17:41:41 GMT | DOM-Based XSS via eval() in ajax-cart.js | Mostafa Ghanem | [Read More](https://medium.com/p/9cfd4e845ec1) |
+| Tue, 22 Jul 2025 17:40:25 GMT | “Fully Patched” Doesn’t Mean Safe: Inside the OVERSTEP Backdoor Attacks on SonicWall SMA | Rue | [Read More](https://medium.com/p/5793ec9aded6) |
 | Tue, 22 Jul 2025 17:35:26 GMT | TryHackMe — VulnNet: Roasted Writeup | RichardAlmeyda | [Read More](https://medium.com/p/3ca1163f8f70) |
 | Tue, 22 Jul 2025 17:33:00 GMT | I Wanted to Quit Cybersecurity. Here’s Why I Didn’t. | DarKVoicE | [Read More](https://medium.com/p/309b48a76f1b) |
 | Tue, 22 Jul 2025 17:26:36 GMT | Open Redirect Vulnerability (CTF-Based) | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/922fa40d36ff) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 13:49:55 GMT | Embracing Vulnerability in a Digital World | Karin Tissink Smit | [Read More](https://medium.com/p/11fc4f1b77e8) |
 | Tue, 22 Jul 2025 13:49:24 GMT | From Customer to Admin: Real-World IDOR in an E-Commerce Platform | Santhosh Adiga U | [Read More](https://medium.com/p/18e452280bb8) |
 | Tue, 22 Jul 2025 13:47:56 GMT | Programing and Finances | Kristina Camacho | [Read More](https://medium.com/p/c74001b1cba5) |
-| Tue, 22 Jul 2025 13:42:53 GMT | How to Set Up an SFTP Server on Linux (Step-by-Step Guide) | Agniswar Mandal | [Read More](https://medium.com/p/7dd8540be359) |
-| Tue, 22 Jul 2025 13:42:20 GMT | Conflux Developer Bounties Initiative 2025 | Conflux Network | [Read More](https://medium.com/p/9f934ed151f7) |
-| Tue, 22 Jul 2025 13:41:24 GMT | AI vs Human SOC Analysts: The Ultimate Comparison for Cybersecurity Teams | Simbian.ai | [Read More](https://medium.com/p/bff7fa931f6a) |
-| Tue, 22 Jul 2025 13:39:38 GMT | Configure FGT Interface Types — Softswitch Interface | DuyThanhCCIE | [Read More](https://medium.com/p/bd6aaca83b0d) |
-| Tue, 22 Jul 2025 13:35:02 GMT | Navigating the AI Frontier: Agents, Browsers, and the Enterprise Imperative | Mammoth Cyber | [Read More](https://medium.com/p/413f92314d52) |
-| Tue, 22 Jul 2025 13:31:46 GMT | Cyber Warfare: How Increasing Digital Threats Are Reshaping Global Security? | Harsh Mehta | [Read More](https://medium.com/p/4e2814c62f6a) |
-| Tue, 22 Jul 2025 13:29:06 GMT | Will AI Replace SOC Analysts in 2025? | Simbian.ai | [Read More](https://medium.com/p/e693154d762a) |
-| Tue, 22 Jul 2025 13:20:52 GMT | The July 2025 Cybersecurity Crisis: SharePoint Zero-Days, Nation-State Exploits, and the High Cost… | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/de8964a09692) |
-| Tue, 22 Jul 2025 13:19:51 GMT | The Ultimate Guide to AI SOC Analysts: Revolutionizing Cybersecurity Operations in 2025 | Simbian.ai | [Read More](https://medium.com/p/8568c1abfa52) |
-| Tue, 22 Jul 2025 13:16:59 GMT | How to find .JS files for vulnerabilities: A Bug Bounty Hunter’s Guide | Ibtissam hammadi | [Read More](https://medium.com/p/3ecf207b4845) |
-| Tue, 22 Jul 2025 13:16:47 GMT | Why Hiring a Professional Security Guard Service is Essential for Your Business | Direct Guard Services | [Read More](https://medium.com/p/75a26cc32ba2) |
-| Tue, 22 Jul 2025 13:15:00 GMT | Keepnet: The Best KnowBe4 Alternative for Human Risk Management | Keepnet Labs | [Read More](https://medium.com/p/762995fe6e23) |
-| Tue, 22 Jul 2025 13:14:41 GMT | Zeus — DownUnderCTF Reverse Engineering Challenge | codebreaker | [Read More](https://medium.com/p/eba6194f8a9f) |
-| Tue, 22 Jul 2025 13:14:41 GMT | How To Spot A Phishing Email In Under 10 Seconds. | The Anti-Scam Diaries | [Read More](https://medium.com/p/51fa1abbac52) |
