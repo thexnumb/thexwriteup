@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 20:41:58 GMT | $2,000 Bounty: Exploiting a Memory Corruption in PHP’s | Monika sharma | [Read More](https://medium.com/p/5b7b384d81de) |
+| Tue, 22 Jul 2025 20:41:26 GMT | $1,121 Bounty: A Deep Dive into Crash.mkv | Monika sharma | [Read More](https://medium.com/p/2eab28c23064) |
+| Tue, 22 Jul 2025 20:34:43 GMT | burplabs: Automated python package for portswigger labs | Sneh bavarva | [Read More](https://medium.com/p/34f59a9184a2) |
+| Tue, 22 Jul 2025 20:33:56 GMT | “I Asked 7 Hackers How They’d Steal Your Data in 2024 — Here’s What They Told Me” | -Oladepo | [Read More](https://medium.com/p/8b563065c473) |
 | Tue, 22 Jul 2025 20:22:31 GMT | How I Won My First Web3 Hackathon Using Vibe Coding: Building DeFi Watchdog | Mohamedajguernoun | [Read More](https://medium.com/p/a39ddd05998c) |
 | Tue, 22 Jul 2025 20:13:28 GMT | From Remote Code Execution to Full System Compromise: A Real-World Exploitation Chain with… | Marcogiacobbe | [Read More](https://medium.com/p/abcf9c4ee1e9) |
 | Tue, 22 Jul 2025 20:12:46 GMT | You Are the Product: Surveillance Is the Price of ‘Free’ | Naman Barola | [Read More](https://medium.com/p/7a51a273eed3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 15:43:39 GMT | Yellow RAT CTF Report: Investigating the GlobalTech Industries Incident - Yellow RAT CTF Raporu… | Samet Koca | [Read More](https://medium.com/p/b58f10efefd6) |
 | Tue, 22 Jul 2025 15:37:05 GMT | “I’m surprised that I am thinking more than twice to post this. | Heidi lai | [Read More](https://medium.com/p/0f85222c37ca) |
 | Tue, 22 Jul 2025 15:37:02 GMT | Window Fundamental For Beginners | Mainekdeveloper | [Read More](https://medium.com/p/0aedab23581d) |
-| Tue, 22 Jul 2025 15:31:53 GMT | How breaking in made me a better defender | Brian Baldock | [Read More](https://medium.com/p/073cdfba05d1) |
-| Tue, 22 Jul 2025 15:29:26 GMT | Why Juspay Switched from Kubernetes to EC2 ? | Dhanush N | [Read More](https://medium.com/p/37cc97e27179) |
-| Tue, 22 Jul 2025 15:28:03 GMT | Capturing WPA2 Passwords Using Evil Twin Attacks with Wifiphisher | Cybersectoworld | [Read More](https://medium.com/p/ae5d7b78c599) |
-| Tue, 22 Jul 2025 15:25:03 GMT | I finally understood why people wouldn’t tell the truth — and just stayed silent | S. Sachdeva | [Read More](https://medium.com/p/94e66bd39a8b) |
