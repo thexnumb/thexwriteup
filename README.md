@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 14:15:23 GMT | Intelligent Process Automation Companies: Navigating Challenges and Seizing Opportunities with a… | Philip Hansen | [Read More](https://medium.com/p/756396f21ec0) |
+| Tue, 22 Jul 2025 14:15:20 GMT | Intelligent Process Automation: Der ultimative Leitfaden für Führungskräfte zur Automatisierung der… | Philip Hansen | [Read More](https://medium.com/p/7351166d23b5) |
+| Tue, 22 Jul 2025 14:11:54 GMT | Don’t Swallow the Sweet Talk of ServiceNow-ITAD Integration | Kyle Marks | [Read More](https://medium.com/p/763c199462c5) |
+| Tue, 22 Jul 2025 14:08:52 GMT | A Friendly Introduction to Trusted Execution Environments | José Cabrero-Holgueras | [Read More](https://medium.com/p/d353983c75ab) |
+| Tue, 22 Jul 2025 14:05:00 GMT | Bypassing Payment Billing to Assign Admin Role via Business Logic Bug | HBlack Ghost | [Read More](https://medium.com/p/f925d4266bb3) |
+| Tue, 22 Jul 2025 14:03:27 GMT | Getting Started with Security Controls | Mr.Cool | [Read More](https://medium.com/p/2f73dff23f22) |
+| Tue, 22 Jul 2025 14:03:16 GMT | password strength Checker | Digimad.online | [Read More](https://medium.com/p/f19dc491f061) |
+| Tue, 22 Jul 2025 14:03:08 GMT | Cyber Briefing: 2025.07.22 | CyberMaterial | [Read More](https://medium.com/p/f3a7d12f8e1c) |
+| Tue, 22 Jul 2025 14:02:32 GMT | URGENT WARNING for PayPal Users: A New “No-Phish” Attack is Fooling Millions — Here’s What You… | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/b3419354c78a) |
+| Tue, 22 Jul 2025 14:01:40 GMT | “I’m doing all right.” | Jass | [Read More](https://medium.com/p/0936bd20490e) |
+| Tue, 22 Jul 2025 13:54:49 GMT | What is Cyber Resilience? | Somerford Associates Limited | [Read More](https://medium.com/p/56632b3fb1cc) |
+| Tue, 22 Jul 2025 13:53:32 GMT | AI Dolls Are Fun, But They Can Be Used to Trick You | Savvy Cyber Kids | [Read More](https://medium.com/p/35ac45fabaa0) |
+| Tue, 22 Jul 2025 13:49:55 GMT | Embracing Vulnerability in a Digital World | Karin Tissink Smit | [Read More](https://medium.com/p/11fc4f1b77e8) |
+| Tue, 22 Jul 2025 13:49:24 GMT | From Customer to Admin: Real-World IDOR in an E-Commerce Platform | Santhosh Adiga U | [Read More](https://medium.com/p/18e452280bb8) |
+| Tue, 22 Jul 2025 13:47:56 GMT | Programing and Finances | Kristina Camacho | [Read More](https://medium.com/p/c74001b1cba5) |
+| Tue, 22 Jul 2025 13:42:53 GMT | How to Set Up an SFTP Server on Linux (Step-by-Step Guide) | Agniswar Mandal | [Read More](https://medium.com/p/7dd8540be359) |
+| Tue, 22 Jul 2025 13:42:20 GMT | Conflux Developer Bounties Initiative 2025 | Conflux Network | [Read More](https://medium.com/p/9f934ed151f7) |
+| Tue, 22 Jul 2025 13:41:24 GMT | AI vs Human SOC Analysts: The Ultimate Comparison for Cybersecurity Teams | Simbian.ai | [Read More](https://medium.com/p/bff7fa931f6a) |
+| Tue, 22 Jul 2025 13:39:38 GMT | Configure FGT Interface Types — Softswitch Interface | DuyThanhCCIE | [Read More](https://medium.com/p/bd6aaca83b0d) |
 | Tue, 22 Jul 2025 13:35:02 GMT | Navigating the AI Frontier: Agents, Browsers, and the Enterprise Imperative | Mammoth Cyber | [Read More](https://medium.com/p/413f92314d52) |
 | Tue, 22 Jul 2025 13:31:46 GMT | Cyber Warfare: How Increasing Digital Threats Are Reshaping Global Security? | Harsh Mehta | [Read More](https://medium.com/p/4e2814c62f6a) |
 | Tue, 22 Jul 2025 13:29:06 GMT | Will AI Replace SOC Analysts in 2025? | Simbian.ai | [Read More](https://medium.com/p/e693154d762a) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 10:04:17 GMT | The Triaging Process in Cybersecurity: A SOC’s First Line of Defense | ayub_91 | [Read More](https://medium.com/p/8370615644a4) |
 | Tue, 22 Jul 2025 10:03:51 GMT | CVE‑2025‑53770 — SharePoint Zero-Day Variant Exploited for Full RCE | Aditya Bhatt | [Read More](https://medium.com/p/73e552114cc7) |
 | Tue, 22 Jul 2025 10:01:48 GMT | Go-To Checklist for Securing My Condo Before Vacation | Viktor Ponamarev | [Read More](https://medium.com/p/e9618f9bace0) |
-| Tue, 22 Jul 2025 09:54:31 GMT | What Are Tactics, Techniques, and Procedures (TTPs) in Cybersecurity? | tommy reed | [Read More](https://medium.com/p/b79d40446d13) |
-| Tue, 22 Jul 2025 09:51:58 GMT | Payment Security Market to Witness Strong Growth Driven by Rising Cyber Threats and Digital Payment… | Neha Patil | [Read More](https://medium.com/p/3530f7e72e4a) |
-| Tue, 22 Jul 2025 09:49:55 GMT | Top 20 Windows CMD Prompts for Beginners (With a Side of Sarcasm and Mischief) | Travis Ray Caverhill | [Read More](https://medium.com/p/06f4e46f3ac1) |
-| Tue, 22 Jul 2025 09:49:19 GMT | Rethinking Cybersecurity in the Age of Generative AI | CES | [Read More](https://medium.com/p/8b362556b577) |
-| Tue, 22 Jul 2025 09:48:49 GMT | Τί είναι τα Cookies στο Διαδίκτυο και πώς επηρεάζουν την ιδιωτικότητά σου | Akis Papas | [Read More](https://medium.com/p/39bbdf5af6f4) |
-| Tue, 22 Jul 2025 09:46:52 GMT | Blending Objective-C, Python & React UI Components | Bhavesh Rajpurohit | [Read More](https://medium.com/p/9d9896f79688) |
-| Tue, 22 Jul 2025 09:44:23 GMT | The Modifiability of the Scientific Method | Ali Raza | [Read More](https://medium.com/p/ea31696f724b) |
-| Tue, 22 Jul 2025 09:42:50 GMT | Best Redhat Openshift Training and Certification in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/52eff3052475) |
-| Tue, 22 Jul 2025 09:38:42 GMT | Understanding and Defending Against Targeted Ransomware Attacks | Gauravinsightss | [Read More](https://medium.com/p/6068ebed45cd) |
-| Tue, 22 Jul 2025 09:37:48 GMT | A New Era of Decentralized Security for EVM Blockchains | Daniel Udo | [Read More](https://medium.com/p/5bf263cc0f3a) |
-| Tue, 22 Jul 2025 09:37:41 GMT | How Hackers Could Attack TSMC | David SEHYEON Baek | [Read More](https://medium.com/p/6f81ecacaa6f) |
-| Tue, 22 Jul 2025 09:30:43 GMT | The V2X Future: Building a Safer, Smarter, More Sovereign Mobility Ecosystem ! | Ahmed Rekik | [Read More](https://medium.com/p/15f300aab3dc) |
-| Tue, 22 Jul 2025 09:30:29 GMT | What is Row-Level Security in PostgreSQL for Multi-Tenant Rails Apps ?? | Prapti Patel | [Read More](https://medium.com/p/6306227a24e6) |
-| Tue, 22 Jul 2025 09:30:20 GMT | Why TechUnshoot :  Is the Only Tech Blog You Need in 2025 | Frederickanton Se | [Read More](https://medium.com/p/1e40c799a08d) |
-| Tue, 22 Jul 2025 09:27:20 GMT | The Power of Reading Documentation Leads to Low‑Hanging Fruit | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/515d2a98190e) |
-| Tue, 22 Jul 2025 09:24:05 GMT | Cc Cvv dumps All Transfers PayPal western union Zelle Bitcoins Bank Clone Cards/ATM upgrade all… | Albert | [Read More](https://medium.com/p/57c6ba24f4c6) |
-| Tue, 22 Jul 2025 09:22:03 GMT | Exploit - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/186d3cb465b7) |
-| Tue, 22 Jul 2025 09:09:51 GMT | CVE-2024–24916 | Karol Mazurek | [Read More](https://medium.com/p/396479975a0b) |
-| Tue, 22 Jul 2025 09:09:14 GMT | Cybersecurity Liabilities in M&A Deals | Byte & Brief | [Read More](https://medium.com/p/f4626cf7d959) |
