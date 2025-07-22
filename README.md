@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 19:16:17 GMT | awedwetg | Pigeone7 | [Read More](https://medium.com/p/0e531e767935) |
+| Tue, 22 Jul 2025 19:12:06 GMT | Smart Facility Monitoring | Presslink Media | [Read More](https://medium.com/p/ea1584946c4c) |
+| Tue, 22 Jul 2025 19:07:36 GMT | Google Dorking: The Secret Search Trick | Ayush Kumar | [Read More](https://medium.com/p/672173822dc4) |
+| Tue, 22 Jul 2025 19:05:05 GMT | Cloud Monitoring: Watch Everything, Miss Nothing | SafeAeon Inc. | [Read More](https://medium.com/p/f812961a50e0) |
+| Tue, 22 Jul 2025 19:04:28 GMT | VACACIONES | Enoch Root | [Read More](https://medium.com/p/e0a7e4785f59) |
+| Tue, 22 Jul 2025 19:04:00 GMT | Build Log 003 | script | [Read More](https://medium.com/p/192f547d160f) |
+| Tue, 22 Jul 2025 18:59:27 GMT | Copyright, Spam, and Shame: The Ethics of Archived Redirects | Ruthie Owen-Moreno | [Read More](https://medium.com/p/2106932ab8b6) |
+| Tue, 22 Jul 2025 18:57:50 GMT | Penetration Testing as a Service: A Smarter Way to Stay Secure | SafeAeon Inc. | [Read More](https://medium.com/p/408cb5aff8a0) |
+| Tue, 22 Jul 2025 18:54:56 GMT | The Critical Importance of Cybersecurity for Small Businesses in Northern New Jersey | Jill O. | [Read More](https://medium.com/p/bebdf321465e) |
+| Tue, 22 Jul 2025 18:51:36 GMT | From Zero to Root — Day 11: Breaks, Burnout & Back into the Dorkside | Mark Alexander Varghese | [Read More](https://medium.com/p/6418c24e93d8) |
+| Tue, 22 Jul 2025 18:44:52 GMT | CVE-2025–47812: Wing FTP Remote Code Execution | DefenceRabbit | [Read More](https://medium.com/p/99a4400e7488) |
+| Tue, 22 Jul 2025 18:44:36 GMT | How I Took Over a Forgotten Google Storage Bucket Used to Distribute Helm Binaries | Arshad Kazmi | [Read More](https://medium.com/p/374ae959179f) |
+| Tue, 22 Jul 2025 18:40:40 GMT | An Inquiry into the Shifting Grounds of Security in the Age of AI | Above The Firewall | [Read More](https://medium.com/p/337f9bedfcdb) |
+| Tue, 22 Jul 2025 18:37:04 GMT | We Taught an LLM to Think Like a Hacker — Here’s How | Five Insights | [Read More](https://medium.com/p/5e03be27cdeb) |
+| Tue, 22 Jul 2025 18:37:01 GMT | Menjelajahi Dunia “Capture The Flag” (CTF): Arena Pertarungan Para Pemburu Bendera Digital | Malbaralamsyah | [Read More](https://medium.com/p/346cd0a06649) |
+| Tue, 22 Jul 2025 18:32:32 GMT | Automating Incident Response with Python & TheHive: A Practical Guide for Hackers & Defenders | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/b539cd677e91) |
+| Tue, 22 Jul 2025 18:27:26 GMT | How I passed OSCP+ in one month | selim_addada | [Read More](https://medium.com/p/a9d76a73b7f2) |
 | Tue, 22 Jul 2025 18:22:25 GMT | ️ IPS ve IDS Nedir? Aralarındaki Farklar Nelerdir? What are the differences between IDS and IPS? | Aybike Tutar | [Read More](https://medium.com/p/b430f53699d8) |
 | Tue, 22 Jul 2025 18:19:56 GMT | Understanding Exploratory Data Analysis — A Practical companion. | Rishabh Nandmaher | [Read More](https://medium.com/p/0124c6ff452b) |
 | Tue, 22 Jul 2025 18:18:16 GMT | A Strategic Blueprint for Integrating AI and Machine Learning in Cybersecurity Risk Management | Kelven Leverett, CISSP, CISM | [Read More](https://medium.com/p/8357f5a42ef8) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 14:32:10 GMT | Deepfakes in Cybercrime | Chaitrali Gowda | [Read More](https://medium.com/p/812ae93658ae) |
 | Tue, 22 Jul 2025 14:29:33 GMT | MDR vs. MSS: Which Security Solution is Right for Your Business? | IT_Engineer | [Read More](https://medium.com/p/9343f6ff9e16) |
 | Tue, 22 Jul 2025 14:25:53 GMT | How I Burned $460 in One Day Learning DevOps | Muhammed Akintola | [Read More](https://medium.com/p/f6c8bead0a83) |
-| Tue, 22 Jul 2025 14:24:30 GMT | Simplifying Cybersecurity Operations with Cisco XDR | Emmanuel Mordi | [Read More](https://medium.com/p/83e73017b6b8) |
-| Tue, 22 Jul 2025 14:18:03 GMT | Message Auto-Accept & Activity Status Leak via “Translate” Option in Message Requests | Sandipgyawali | [Read More](https://medium.com/p/0c262ba89d1b) |
-| Tue, 22 Jul 2025 14:15:23 GMT | Intelligent Process Automation Companies: Navigating Challenges and Seizing Opportunities with a… | Philip Hansen | [Read More](https://medium.com/p/756396f21ec0) |
-| Tue, 22 Jul 2025 14:15:20 GMT | Intelligent Process Automation: Der ultimative Leitfaden für Führungskräfte zur Automatisierung der… | Philip Hansen | [Read More](https://medium.com/p/7351166d23b5) |
-| Tue, 22 Jul 2025 14:11:54 GMT | Don’t Swallow the Sweet Talk of ServiceNow-ITAD Integration | Kyle Marks | [Read More](https://medium.com/p/763c199462c5) |
-| Tue, 22 Jul 2025 14:08:52 GMT | A Friendly Introduction to Trusted Execution Environments | José Cabrero-Holgueras | [Read More](https://medium.com/p/d353983c75ab) |
-| Tue, 22 Jul 2025 14:05:00 GMT | Bypassing Payment Billing to Assign Admin Role via Business Logic Bug | HBlack Ghost | [Read More](https://medium.com/p/f925d4266bb3) |
-| Tue, 22 Jul 2025 14:03:27 GMT | Getting Started with Security Controls | Mr.Cool | [Read More](https://medium.com/p/2f73dff23f22) |
-| Tue, 22 Jul 2025 14:03:16 GMT | password strength Checker | Digimad.online | [Read More](https://medium.com/p/f19dc491f061) |
-| Tue, 22 Jul 2025 14:03:08 GMT | Cyber Briefing: 2025.07.22 | CyberMaterial | [Read More](https://medium.com/p/f3a7d12f8e1c) |
-| Tue, 22 Jul 2025 14:02:32 GMT | URGENT WARNING for PayPal Users: A New “No-Phish” Attack is Fooling Millions — Here’s What You… | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/b3419354c78a) |
-| Tue, 22 Jul 2025 14:01:40 GMT | “I’m doing all right.” | Jass | [Read More](https://medium.com/p/0936bd20490e) |
-| Tue, 22 Jul 2025 13:54:49 GMT | What is Cyber Resilience? | Somerford Associates Limited | [Read More](https://medium.com/p/56632b3fb1cc) |
-| Tue, 22 Jul 2025 13:53:32 GMT | AI Dolls Are Fun, But They Can Be Used to Trick You | Savvy Cyber Kids | [Read More](https://medium.com/p/35ac45fabaa0) |
-| Tue, 22 Jul 2025 13:49:55 GMT | Embracing Vulnerability in a Digital World | Karin Tissink Smit | [Read More](https://medium.com/p/11fc4f1b77e8) |
-| Tue, 22 Jul 2025 13:49:24 GMT | From Customer to Admin: Real-World IDOR in an E-Commerce Platform | Santhosh Adiga U | [Read More](https://medium.com/p/18e452280bb8) |
-| Tue, 22 Jul 2025 13:47:56 GMT | Programing and Finances | Kristina Camacho | [Read More](https://medium.com/p/c74001b1cba5) |
