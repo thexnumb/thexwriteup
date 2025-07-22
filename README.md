@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 16:26:03 GMT | Certified Red Team Professional (CRTE) Review & Study Notes | Motasem Hamdan | [Read More](https://medium.com/p/ca8e04d75fa7) |
+| Tue, 22 Jul 2025 16:19:22 GMT | A Beginner’s Guide to Choosing the Right Tech Stack in 2025 | Muthukumaran Singaravelu | [Read More](https://medium.com/p/0c6a92ffbbe4) |
+| Tue, 22 Jul 2025 16:18:31 GMT | Docker 101: A Beginner’s Guide on How to Use Docker | Dinçer Tekin | [Read More](https://medium.com/p/0d7ae6bb4797) |
+| Tue, 22 Jul 2025 16:16:31 GMT | EMS SSO: One Login to Rule Them All | Akshay Chauhan | [Read More](https://medium.com/p/c3cee55abf33) |
+| Tue, 22 Jul 2025 16:14:31 GMT | Someone Told Me I Wasn’t Professional — And I Never Argued Back | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/7f41d852c6e1) |
+| Tue, 22 Jul 2025 16:12:33 GMT | Low‑Cost Aircraft Proximity Alert for Schools and Nearby Infrastructure | Nahid Khan Shuvo | [Read More](https://medium.com/p/efecbdebf94f) |
+| Tue, 22 Jul 2025 16:09:36 GMT | User enumeration: Um “pontinho”foi crucial! | Gabriel Jesus | [Read More](https://medium.com/p/709b95c3f47d) |
+| Tue, 22 Jul 2025 16:06:59 GMT | MindPalace: A Web-Based Sliver C2 Terminal for Red Team Operators | Anthony Cihan | [Read More](https://medium.com/p/322a6b6a380a) |
+| Tue, 22 Jul 2025 16:01:53 GMT | Unbreakable Clusters: 5 Kubernetes Security Best Practices You Can’t Ignore | Yatin | [Read More](https://medium.com/p/3b696f2db947) |
+| Tue, 22 Jul 2025 15:59:58 GMT | From Cute Story to Cybersecurity Risk: How I Bypassed an AI’s Guardrails” | Ayyappan A | [Read More](https://medium.com/p/156cea27df11) |
+| Tue, 22 Jul 2025 15:56:53 GMT | 1. Web Security | unknownman | [Read More](https://medium.com/p/f5115c33a365) |
+| Tue, 22 Jul 2025 15:50:36 GMT | ️ Exploiting Stored XSS to Bypass CSRF Protection and Gain Admin Access | Ali Ziro | [Read More](https://medium.com/p/a62530977a5b) |
+| Tue, 22 Jul 2025 15:50:04 GMT | This Silence Has a Story | Heidi lai | [Read More](https://medium.com/p/55bf7d4f00af) |
+| Tue, 22 Jul 2025 15:43:39 GMT | Yellow RAT CTF Report: Investigating the GlobalTech Industries Incident - Yellow RAT CTF Raporu… | Samet Koca | [Read More](https://medium.com/p/b58f10efefd6) |
 | Tue, 22 Jul 2025 15:37:05 GMT | “I’m surprised that I am thinking more than twice to post this. | Heidi lai | [Read More](https://medium.com/p/0f85222c37ca) |
+| Tue, 22 Jul 2025 15:37:02 GMT | Window Fundamental For Beginners | Mainekdeveloper | [Read More](https://medium.com/p/0aedab23581d) |
 | Tue, 22 Jul 2025 15:31:53 GMT | How breaking in made me a better defender | Brian Baldock | [Read More](https://medium.com/p/073cdfba05d1) |
 | Tue, 22 Jul 2025 15:29:26 GMT | Why Juspay Switched from Kubernetes to EC2 ? | Dhanush N | [Read More](https://medium.com/p/37cc97e27179) |
 | Tue, 22 Jul 2025 15:28:03 GMT | Capturing WPA2 Passwords Using Evil Twin Attacks with Wifiphisher | Cybersectoworld | [Read More](https://medium.com/p/ae5d7b78c599) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 12:00:51 GMT | How I Designed a Rate Limiter from Scratch | Vivek Siddharth | [Read More](https://medium.com/p/8d182b2f9620) |
 | Tue, 22 Jul 2025 11:54:28 GMT | “CSRF Hacking: Real-World Exploits and How to Stop Them” | Aman Sharma | [Read More](https://medium.com/p/df8dc1a79f46) |
 | Tue, 22 Jul 2025 11:51:56 GMT | The Evolving Ransomware Threat Landscape: What You Must Know in 2024–2025 | Ashif | [Read More](https://medium.com/p/2fe4fb9765f4) |
-| Tue, 22 Jul 2025 11:43:48 GMT | People using-From Queues to Convenience: How Smart Kiosks Are Reshaping the Middle East (and Why… | Rakesh | [Read More](https://medium.com/p/0cefc7f907a2) |
-| Tue, 22 Jul 2025 11:33:02 GMT | SMTP Auto Parser & Renderer | 0xBobby | [Read More](https://medium.com/p/c426f973cc47) |
-| Tue, 22 Jul 2025 11:32:42 GMT | 1. Web Security | unknownman | [Read More](https://medium.com/p/e4a0f073f1a9) |
-| Tue, 22 Jul 2025 11:31:49 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5a1174323f99) |
-| Tue, 22 Jul 2025 11:29:55 GMT | “Surveillance Firm Bypasses SS7 Security: A Wake-Up Call for Mobile Privacy” | Pallavi S V | [Read More](https://medium.com/p/eca9fa13db33) |
-| Tue, 22 Jul 2025 11:27:02 GMT | Day 51: NIST SP 800–53 BaselinesChoosing and Tailoring Controls the Smart Way | Brittney Ginther | [Read More](https://medium.com/p/f58863f4f620) |
-| Tue, 22 Jul 2025 11:26:53 GMT | Entra ID: Admin roles GAP finder in MFA caps | TheCyberFoxHound | [Read More](https://medium.com/p/77f07c388329) |
-| Tue, 22 Jul 2025 11:26:19 GMT | OpenAI’s ChatGPT Agent Is a Powerful Model with Notable Safety and Security Issues | Giorgi Asatashvili | [Read More](https://medium.com/p/bc4c346bbdc5) |
-| Tue, 22 Jul 2025 11:23:28 GMT | This AWS Service Controls Everything — But Most People Ignore It | Alex Joyel Raj | [Read More](https://medium.com/p/fd5b45534f9c) |
-| Tue, 22 Jul 2025 11:23:07 GMT | Server Infrastructure: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/8b1bcdbf7e18) |
-| Tue, 22 Jul 2025 11:19:51 GMT | When the Cloud Grounds a Fleet: Lessons from the Alaska Airlines IT Outage | The Quiet Hacker | [Read More](https://medium.com/p/d5994e53199e) |
-| Tue, 22 Jul 2025 11:13:15 GMT | 7 Things You Must Do After Installing SafeLine | Maverick Steel | [Read More](https://medium.com/p/a25072e0b7d9) |
-| Tue, 22 Jul 2025 11:11:48 GMT | Smart Security with Less Friction: Building Risk-Based Conditional Access Policies in Entra ID | Oludolamu Onimole | [Read More](https://medium.com/p/4307c24f8ec7) |
-| Tue, 22 Jul 2025 11:10:55 GMT | Hacking APIs: A Comprehensive Methodology for Ethical Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/8652133a3aeb) |
-| Tue, 22 Jul 2025 11:08:00 GMT | Ending Security Privilege: Is Inclusive, Accessible, and Smart Mobile Security Possible for… | MerYunCyber | [Read More](https://medium.com/p/6221c0e621ba) |
