@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 19:29:17 GMT | How to deobfuscate a PHP malware under pressure | Lorenzo Moulin | [Read More](https://medium.com/p/68a6a3ccb11d) |
+| Tue, 22 Jul 2025 19:22:59 GMT | Highest paying jobs in cyber security | Chandanjana | [Read More](https://medium.com/p/9f2cc504954c) |
 | Tue, 22 Jul 2025 19:16:17 GMT | awedwetg | Pigeone7 | [Read More](https://medium.com/p/0e531e767935) |
+| Tue, 22 Jul 2025 19:14:08 GMT | Red Team Ops I (CRTO) Review — Adversary Simulation & Red Team Operations | selim_addada | [Read More](https://medium.com/p/92c5ca87ba29) |
+| Tue, 22 Jul 2025 19:12:56 GMT | SASE as a Service: The Future of Secure Cloud Access | SafeAeon Inc. | [Read More](https://medium.com/p/f53221a30ee9) |
 | Tue, 22 Jul 2025 19:12:06 GMT | Smart Facility Monitoring | Presslink Media | [Read More](https://medium.com/p/ea1584946c4c) |
 | Tue, 22 Jul 2025 19:07:36 GMT | Google Dorking: The Secret Search Trick | Ayush Kumar | [Read More](https://medium.com/p/672173822dc4) |
 | Tue, 22 Jul 2025 19:05:05 GMT | Cloud Monitoring: Watch Everything, Miss Nothing | SafeAeon Inc. | [Read More](https://medium.com/p/f812961a50e0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 14:40:10 GMT | USAA Data Breach Settlement: Full Fallout Breakdown | Atomic Mail | [Read More](https://medium.com/p/d3aeca345cc4) |
 | Tue, 22 Jul 2025 14:38:35 GMT | Google XSS Game Writeup — By Cybernerddd | Cybernerddd | [Read More](https://medium.com/p/a44b0714ab42) |
 | Tue, 22 Jul 2025 14:34:25 GMT | Cybersecurity: | Rebecca Trocki | [Read More](https://medium.com/p/9832c94b5fa7) |
-| Tue, 22 Jul 2025 14:32:50 GMT | Peeking Into the Packet Stream — Unlocking the Power of Ettercap for Network Attacks & Defense | Vijay Kumar Gupta | [Read More](https://medium.com/p/f619c93bb7e4) |
-| Tue, 22 Jul 2025 14:32:10 GMT | Deepfakes in Cybercrime | Chaitrali Gowda | [Read More](https://medium.com/p/812ae93658ae) |
-| Tue, 22 Jul 2025 14:29:33 GMT | MDR vs. MSS: Which Security Solution is Right for Your Business? | IT_Engineer | [Read More](https://medium.com/p/9343f6ff9e16) |
-| Tue, 22 Jul 2025 14:25:53 GMT | How I Burned $460 in One Day Learning DevOps | Muhammed Akintola | [Read More](https://medium.com/p/f6c8bead0a83) |
