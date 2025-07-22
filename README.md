@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 07:35:43 GMT | Why Firewalls Alone Can’t Protect You Anymore | Ambsan Technologies | [Read More](https://medium.com/p/93115f99e9dd) |
+| Tue, 22 Jul 2025 07:27:44 GMT | Build Your First Penetration Testing Lab with DVWA (Step-by-Step) | Ayush Pandey | [Read More](https://medium.com/p/280941e7a6f3) |
+| Tue, 22 Jul 2025 07:26:11 GMT | Did We Stop Writing for People? | Nissi | [Read More](https://medium.com/p/fc1e808edc6c) |
+| Tue, 22 Jul 2025 07:22:11 GMT | Rising Cryptocurrency Theft in 2025 and Its Implications for Indonesia’s Financial Security | MITRE Doggy | [Read More](https://medium.com/p/3894055f2098) |
 | Tue, 22 Jul 2025 07:22:08 GMT | Hackers Use This Nmap + Netcat Trick to Get SSH Access (TryHackMe: Intermediate Nmap) | MatSec | [Read More](https://medium.com/p/db2df0c953cb) |
 | Tue, 22 Jul 2025 07:20:29 GMT | 5 Powerful Dashlane Alternatives You Need to Try Today (Before You Get Locked Out!) | Peter Miľovčík | [Read More](https://medium.com/p/c848aed591f5) |
+| Tue, 22 Jul 2025 07:18:41 GMT | The Use of Rule-Based Key Generation | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/37ca49fb3416) |
+| Tue, 22 Jul 2025 07:17:48 GMT | Understanding the Cloud: The New Age Battlefield | inok009 | [Read More](https://medium.com/p/0e17b5387b4e) |
 | Tue, 22 Jul 2025 07:17:42 GMT | What Is ntopng and Why It Matters | cybrNK | [Read More](https://medium.com/p/ef6a4e603997) |
 | Tue, 22 Jul 2025 07:10:11 GMT | Received first recommendation on OpenBugBounty | AbhirupKonwar | [Read More](https://medium.com/p/eaf5eb29336d) |
 | Tue, 22 Jul 2025 07:10:00 GMT | How To Use Google Data Studio For Maximum Benefit | Jane Watson | [Read More](https://medium.com/p/1fe7249713bf) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 01:31:49 GMT | Part II: The Modern CISO In the Trenches | Kalpitha S | [Read More](https://medium.com/p/54c2afae39f1) |
 | Tue, 22 Jul 2025 01:31:00 GMT | What Role Is Artificial Intelligence Playing in Predicting and Preventing Cyber Threats? | Divya | [Read More](https://medium.com/p/92e2d6c8a027) |
 | Tue, 22 Jul 2025 01:28:15 GMT | OSINT Flag Hunting — Look At All Those Chickens — DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/85dc7de21e45) |
-| Tue, 22 Jul 2025 01:24:20 GMT | Understanding the Difference Between Penetration Testing and Vulnerability Scanning | Steve Splash | [Read More](https://medium.com/p/666489672bb5) |
-| Tue, 22 Jul 2025 01:23:25 GMT | HOW DATA GOES ANYWAY? | Maya | [Read More](https://medium.com/p/4bae6d9a2022) |
-| Tue, 22 Jul 2025 01:21:26 GMT | Understanding and Identifying Race Conditions in Web Security | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/f8f375467070) |
-| Tue, 22 Jul 2025 01:11:42 GMT | SECURET: The Messenger That Doesn’t Watch You Back | SAYCOIN | [Read More](https://medium.com/p/b40ecdfa4cfc) |
-| Tue, 22 Jul 2025 01:10:15 GMT | Common Mistakes in Web Application Security | Steve Splash | [Read More](https://medium.com/p/56231dcc1909) |
-| Tue, 22 Jul 2025 01:02:00 GMT | Part I: The Modern CISO | Kalpitha S | [Read More](https://medium.com/p/0008b1c2908c) |
