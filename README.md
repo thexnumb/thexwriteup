@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 12:42:12 GMT | Mastering Symantec 250-587 Complete Guide to Data Loss Prevention Certification | Mehmood Ali | [Read More](https://medium.com/p/c221e99e254d) |
+| Tue, 22 Jul 2025 12:34:07 GMT | SecurityForce Webflow Template for Guard Firms | Morris Lucas | [Read More](https://medium.com/p/d4f5d119a6a4) |
+| Tue, 22 Jul 2025 12:33:02 GMT | BehindTheScreens: From Cobalt Strike to Container Escapes | Sam - Behind The Screens | [Read More](https://medium.com/p/26f7359c890f) |
+| Tue, 22 Jul 2025 12:30:58 GMT | CVE-2025–25257: FortiWeb SQL Injection to RCE Exposed | Kalariya Het | [Read More](https://medium.com/p/9a2e0e9dd78e) |
+| Tue, 22 Jul 2025 12:30:23 GMT | Can AI Truly Replace Humans? | Anindya Chakraborty | [Read More](https://medium.com/p/c8a62cecc813) |
+| Tue, 22 Jul 2025 12:29:23 GMT | Deep Observability & Adaptive Security: Engineering Resilient Systems in 2025 | Byte Architect | [Read More](https://medium.com/p/08ea7f0f337b) |
+| Tue, 22 Jul 2025 12:29:18 GMT | Understanding the DPDP Act: A Practical Approach to Compliance | eSecForte Technologies | [Read More](https://medium.com/p/df76667c8aec) |
+| Tue, 22 Jul 2025 12:28:35 GMT | Business logic vulnerabilities | MUHTADIN | [Read More](https://medium.com/p/e3522d676e62) |
+| Tue, 22 Jul 2025 12:27:29 GMT | Introducing Ech Browser: Your New Fortress for Online Safety | Psylinks Announce | [Read More](https://medium.com/p/2ea57cad6674) |
+| Tue, 22 Jul 2025 12:25:36 GMT | SAP NetWeaver Breach: How APTs Exploited Critical Flaws | Kalariya Het | [Read More](https://medium.com/p/3019a7c597df) |
+| Tue, 22 Jul 2025 12:23:43 GMT | Building Resilient Cloud-Native Systems with Zero-Trust & Adaptive Security | Byte Architect | [Read More](https://medium.com/p/cbb0b903a34b) |
+| Tue, 22 Jul 2025 12:20:37 GMT | Critical Alert for SharePoint Administrators & Security Teams | Nomit Vyas | [Read More](https://medium.com/p/9e6adfb8bef7) |
+| Tue, 22 Jul 2025 12:17:02 GMT | Perimeter Security: The First Line of Cyber Defense | Dany Christel | [Read More](https://medium.com/p/1fdfbf96dc08) |
+| Tue, 22 Jul 2025 12:16:40 GMT | Can Smartphones Be Remotely Exploded? | Alireza mesbah ( hjmersad) | [Read More](https://medium.com/p/6189cd5d1d5a) |
+| Tue, 22 Jul 2025 12:16:14 GMT | RFID Hacking and How to Protect Yourself | Travis Ray Caverhill | [Read More](https://medium.com/p/9c516891fa6e) |
+| Tue, 22 Jul 2025 12:14:04 GMT | Website Security in the Digital Age: How Cybersecurity Services Are Changing the Game | Arushi Srivastava | [Read More](https://medium.com/p/97a0f78d9936) |
+| Tue, 22 Jul 2025 12:08:27 GMT | How the “ToolShell” SharePoint Flaw Is Letting Attackers Take Over 75+ Servers — And How to Secure… | CyBlog | [Read More](https://medium.com/p/7abc7e483e18) |
+| Tue, 22 Jul 2025 12:02:47 GMT | TryHackMe Lunizz CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/89bcb62f9840) |
+| Tue, 22 Jul 2025 12:00:51 GMT | How I Designed a Rate Limiter from Scratch | Vivek Siddharth | [Read More](https://medium.com/p/8d182b2f9620) |
+| Tue, 22 Jul 2025 11:54:28 GMT | “CSRF Hacking: Real-World Exploits and How to Stop Them” | Aman Sharma | [Read More](https://medium.com/p/df8dc1a79f46) |
+| Tue, 22 Jul 2025 11:51:56 GMT | The Evolving Ransomware Threat Landscape: What You Must Know in 2024–2025 | Ashif | [Read More](https://medium.com/p/2fe4fb9765f4) |
+| Tue, 22 Jul 2025 11:43:48 GMT | People using-From Queues to Convenience: How Smart Kiosks Are Reshaping the Middle East (and Why… | Rakesh | [Read More](https://medium.com/p/0cefc7f907a2) |
 | Tue, 22 Jul 2025 11:33:02 GMT | SMTP Auto Parser & Renderer | 0xBobby | [Read More](https://medium.com/p/c426f973cc47) |
 | Tue, 22 Jul 2025 11:32:42 GMT | 1. Web Security | unknownman | [Read More](https://medium.com/p/e4a0f073f1a9) |
 | Tue, 22 Jul 2025 11:31:49 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5a1174323f99) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 08:15:24 GMT | How I Found a CORS Misconfiguration that let me change user address | Nuhman Jaseel A P | [Read More](https://medium.com/p/97006df4913c) |
 | Tue, 22 Jul 2025 08:13:52 GMT | FortiGate 60F: Looking for Powerful, Affordable Security? | Juara IT Solutions | [Read More](https://medium.com/p/569d0b42e379) |
 | Tue, 22 Jul 2025 08:13:47 GMT | Best Kiosk Browser Lockdown Methods for 2025 | Vantage MDM | [Read More](https://medium.com/p/a1dd7a6b8b07) |
-| Tue, 22 Jul 2025 08:10:54 GMT | Bridging Discovery to Design: A technical blueprint checklist | Leapfrog Technology | [Read More](https://medium.com/p/52b6851a25b0) |
-| Tue, 22 Jul 2025 08:08:50 GMT | ️ Silent But Deadly: How an Ignored CSP Header Let My XSS Slip Through Like a Ninja ⚔️ | Iski | [Read More](https://medium.com/p/8561307f7b03) |
-| Tue, 22 Jul 2025 08:06:09 GMT | Getting Started with Spring Boot and Spring Security | Kavindu Dilshan | [Read More](https://medium.com/p/691c60173bd5) |
-| Tue, 22 Jul 2025 08:06:02 GMT | Exploiting weak CSRF Tokens | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/9b248070a19f) |
-| Tue, 22 Jul 2025 08:05:51 GMT | The Dark & Bright Sides of Micro-Finance: A Gen Z Perspective on Quick Loans and Digital Debt | Chandresh Rajpoot | [Read More](https://medium.com/p/ffcd679aa22f) |
-| Tue, 22 Jul 2025 08:04:19 GMT | Shadow Credentials in Active Directory: A Silent Threat | วิศรุต วงตา | [Read More](https://medium.com/p/9d0d75119efb) |
-| Tue, 22 Jul 2025 08:02:36 GMT | Most PHP Auth Systems Are Just Fancy Session Leaks | Asian Digital Hub | [Read More](https://medium.com/p/15011f6b4aa2) |
-| Tue, 22 Jul 2025 08:01:59 GMT | Extract — Grep — Curl - A $50000 Bug POC Methodology | It4chis3c | [Read More](https://medium.com/p/16365489de92) |
-| Tue, 22 Jul 2025 08:01:25 GMT | CSP Bypass in Symfony: Techniques and Prevention | Pentest_Testing_Corp | [Read More](https://medium.com/p/8065e3a22f5c) |
-| Tue, 22 Jul 2025 07:57:36 GMT | Let’s just stop equating masculity with emotional suprression and vulnerability with weakness. | Diksha Gupta | [Read More](https://medium.com/p/8272f5be972f) |
-| Tue, 22 Jul 2025 07:56:35 GMT | China’s Cyber Expansion into Africa: What APT41’s Latest Campaign Reveals About Beijing’s… | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/45ac28bd7219) |
-| Tue, 22 Jul 2025 07:56:00 GMT | THM: Cyber Security 101 — Windows Command Line | Psalm Endozo | [Read More](https://medium.com/p/c85004c0253d) |
-| Tue, 22 Jul 2025 07:55:27 GMT | PortSwigger Lab: CORS vulnerability with trusted null origin | Kutay Söker | [Read More](https://medium.com/p/14ed23d7fa7d) |
-| Tue, 22 Jul 2025 07:53:11 GMT | DoS Attack  DDoS Attack | Anushka Dilshan | [Read More](https://medium.com/p/0c91feab3a48) |
-| Tue, 22 Jul 2025 07:50:27 GMT | NTLM Authentication กำลังจะกลายเป็นอดีตจริงหรือ? | Athittaya Saeloh | [Read More](https://medium.com/p/0ce583dd9f8e) |
-| Tue, 22 Jul 2025 07:48:01 GMT | DCHSpy: Iranian Android Spyware Masquerading as VPN Apps to Target Dissidents | CYber VIaz | [Read More](https://medium.com/p/44ee24b17e2d) |
-| Tue, 22 Jul 2025 07:44:33 GMT | Web of Deception: Scattered Spider’s 2025 TTP Evolution | Navigtech | [Read More](https://medium.com/p/85a220fadf1c) |
-| Tue, 22 Jul 2025 07:35:43 GMT | Why Firewalls Alone Can’t Protect You Anymore | Ambsan Technologies | [Read More](https://medium.com/p/93115f99e9dd) |
-| Tue, 22 Jul 2025 07:33:41 GMT | Best Ethical Hacking Training in Noida - Ducat India | Vishalsaini | [Read More](https://medium.com/p/067c31883de2) |
-| Tue, 22 Jul 2025 07:27:44 GMT | Build Your First Penetration Testing Lab with DVWA (Step-by-Step) | Ayush Pandey | [Read More](https://medium.com/p/280941e7a6f3) |
-| Tue, 22 Jul 2025 07:26:11 GMT | Did We Stop Writing for People? | Nissi | [Read More](https://medium.com/p/fc1e808edc6c) |
-| Tue, 22 Jul 2025 07:22:11 GMT | Rising Cryptocurrency Theft in 2025 and Its Implications for Indonesia’s Financial Security | MITRE Doggy | [Read More](https://medium.com/p/3894055f2098) |
