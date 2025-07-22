@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 05:23:17 GMT | From Business to Breaches: Why I’m Transitioning into Cybersecurity and How the Google Program… | Abbas Raza | [Read More](https://medium.com/p/bdaaea6250c9) |
+| Tue, 22 Jul 2025 05:22:08 GMT | Enforcing Zero Trust with Cisco ISE + SD-Access: A Micro-Segmentation Blueprint by Preemptive | Preemptive Technofield | [Read More](https://medium.com/p/ca1026a64814) |
+| Tue, 22 Jul 2025 05:16:48 GMT | AI Driven Security Testing | NizzCorp Academy | [Read More](https://medium.com/p/d325a10c5eda) |
+| Tue, 22 Jul 2025 05:09:00 GMT | Burnt Out But Breaking Through: How I Found New Purpose (and Income) Using the Microsoft 365 Attack… | Rue | [Read More](https://medium.com/p/7978aea95159) |
+| Tue, 22 Jul 2025 05:04:40 GMT | Strategic Paralysis by Design: Part IX — Economic and Industrial Disruption as a Strategic Lever | Chris Clark | [Read More](https://medium.com/p/168bb409e810) |
+| Tue, 22 Jul 2025 05:03:20 GMT | How to Unfreeze a Bank Account Linked to Suspicious Transactions | OLC Agra | [Read More](https://medium.com/p/d7ea8b477e3c) |
+| Tue, 22 Jul 2025 05:01:46 GMT | Impact of MiG-21 Retirement on India's Aerial Defense Strength: What’s Next? | Rajat Shukla | [Read More](https://medium.com/p/5870ec5db76e) |
+| Tue, 22 Jul 2025 04:58:40 GMT | ️ Top 10 Cybersecurity Tools Every Ethical Hacker Should Know in 2025 | CYber VIaz | [Read More](https://medium.com/p/508e78edb8c9) |
+| Tue, 22 Jul 2025 04:54:06 GMT | Day 8- Cybersecurity for Beginners: What are vulnerabilities and how do we fix them? | unica 02 | [Read More](https://medium.com/p/c366d3f5b2dc) |
+| Tue, 22 Jul 2025 04:52:37 GMT | Portswigger Web Security Academy - OS Command Injection Lab #1 | BooRuleDie | [Read More](https://medium.com/p/2acabc10e2a8) |
+| Tue, 22 Jul 2025 04:44:42 GMT | Hackers Can’t Fight What They Can’t Detect — It’s Time to Rethink Network Defense | Andre Fernandes | [Read More](https://medium.com/p/139b6adb1766) |
+| Tue, 22 Jul 2025 04:43:35 GMT | Yippee — OSINT— DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/ba2a888edd07) |
 | Tue, 22 Jul 2025 04:31:58 GMT | My First Bug Got Duped — And I’m Weirdly Proud of It | Viratavi | [Read More](https://medium.com/p/02a05b79447a) |
 | Tue, 22 Jul 2025 04:24:15 GMT | ️ SharePoint Under Siege: CVE‑2025‑53770 Exploited in the Wild | Paritosh | [Read More](https://medium.com/p/82490670a252) |
 | Tue, 22 Jul 2025 04:24:09 GMT | CVE-2025–53770/TOOLSHELL: HUNTING DOWN THE ATTACKER TECHNIQUES & VICTIMS | Rakesh Krishnan | [Read More](https://medium.com/p/28a8c7baffb1) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 22:22:58 GMT | : | Emann | [Read More](https://medium.com/p/75bbe242b829) |
 | Mon, 21 Jul 2025 22:21:29 GMT | BruteForceAI: When Artificial Intelligence Meets Web Security Testing | Mor David | [Read More](https://medium.com/p/2cf807221f3f) |
 | Mon, 21 Jul 2025 22:20:33 GMT | How Agentic AI Pivoted to Become Humanity’s Trojan Horse | Greg Twemlow | [Read More](https://medium.com/p/6ccf155996a4) |
-| Mon, 21 Jul 2025 22:17:01 GMT | Combatting Credential Stuffing with Detection and Response | Karthikeyan Nagaraj | [Read More](https://medium.com/p/449b58a64973) |
-| Mon, 21 Jul 2025 22:01:09 GMT | Güvenlik Ayrıcalığına Son: Herkes İçin Kapsayıcı, Erişilebilir ve Akıllı Bir Mobil Güvenlik Mümkün… | MerYunCyber | [Read More](https://medium.com/p/1a00085c957e) |
-| Mon, 21 Jul 2025 21:57:57 GMT | AI in Zero Trust: The Cyber Defense Story You Didn’t Know You Were Living | Cyber-AppSec | [Read More](https://medium.com/p/802749cb6fa7) |
-| Mon, 21 Jul 2025 21:49:03 GMT | Google Cybersecurity Certification Journey- Course 1: Introduction - Module 2: Cyber Evolution | Proteek Bose | [Read More](https://medium.com/p/bc545f26364f) |
-| Mon, 21 Jul 2025 21:19:50 GMT | A Beginner-to-Expert Dive into Kubernetes & Azure Kubernetes Service (AKS) | Aparna Gutla | [Read More](https://medium.com/p/8989f09402bc) |
-| Mon, 21 Jul 2025 20:58:04 GMT | "From Signals to Security: A Graduate’s Tech Roadmap" | Oriade Stephen Ayodeji | [Read More](https://medium.com/p/060c421d9276) |
-| Mon, 21 Jul 2025 20:55:13 GMT | What Is Variable Shadowing? How to Spot and Fix This $10 Million Bug | AIAlchemist_Ab1r | [Read More](https://medium.com/p/27b7e5da47f3) |
-| Mon, 21 Jul 2025 20:45:03 GMT | Red Stealer — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/ccf932b7bd2d) |
-| Mon, 21 Jul 2025 20:44:46 GMT | Unhook Antivirus Desired Hooks | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b5c7701d5a29) |
-| Mon, 21 Jul 2025 20:43:41 GMT | ️ Steganography in C++: Hiding Secret Messages Inside Images | Ruturajjadhav | [Read More](https://medium.com/p/a41614af6d6f) |
-| Mon, 21 Jul 2025 20:43:36 GMT | The Invisible Image: Hiding One Picture Inside Another | Ceyda Irwin | [Read More](https://medium.com/p/b08d8f0248c9) |
-| Mon, 21 Jul 2025 20:43:28 GMT | la volpe e la finestra fanno insieme il grande spacc (glitch Firefox coi freeze a caso) | octospacc | [Read More](https://medium.com/p/d1786e99e7d3) |
