@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 17:22:13 GMT | How One Click Emptied My Business Bank Account | Aj | [Read More](https://medium.com/p/dffb69088112) |
+| Tue, 22 Jul 2025 17:21:01 GMT | Case Study: How Poor Patching and Open Ports Led to the Equifax Breach | Goose Gustin | [Read More](https://medium.com/p/8491fd03e16d) |
+| Tue, 22 Jul 2025 17:17:14 GMT | My Ignored Update Cost Me $2,000 | Aj | [Read More](https://medium.com/p/c2da20baf9c0) |
+| Tue, 22 Jul 2025 17:16:37 GMT | Progress in Network Security — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/ff7cb917e665) |
+| Tue, 22 Jul 2025 17:12:20 GMT | A Penetration Tester’s Perspective on Mastering the PTES Methodology - The Complete 7-Phase… | YoungerSibling | [Read More](https://medium.com/p/4b8280560c79) |
+| Tue, 22 Jul 2025 17:07:58 GMT | Active directory — PART 1 | Aftab Raja | [Read More](https://medium.com/p/c8a09fd5a987) |
+| Tue, 22 Jul 2025 17:07:32 GMT | How 3,500+ Popular Websites Have Secretly Been Mining Crypto With You — And What You Need to Watch | CyBlog | [Read More](https://medium.com/p/5fdf7d7863d7) |
+| Tue, 22 Jul 2025 17:07:31 GMT | Here’s How Israeli Cyberattacks Crippled Iran During Recent War | Jack daniel | [Read More](https://medium.com/p/31d7d6100b30) |
+| Tue, 22 Jul 2025 17:04:04 GMT | 7 Best Coffee Makers That Will Change Your Mornings | Pujan mondal | [Read More](https://medium.com/p/500e5676d701) |
+| Tue, 22 Jul 2025 16:56:05 GMT | TryHackMe: Eviction Room Walkthrough — Tracking APT28 with MITRE ATT&CK | Asad Ali | [Read More](https://medium.com/p/a75e10e6be77) |
+| Tue, 22 Jul 2025 16:55:59 GMT | Cybersecurity Isn’t Just for Hackers — It’s for All of Us | Sangeetha Vani | [Read More](https://medium.com/p/73edc2611614) |
+| Tue, 22 Jul 2025 16:54:33 GMT | ProxyAuth The Fastest Authentication Reverse Proxy Ever Built | vBlackOut | [Read More](https://medium.com/p/d37d601596c5) |
+| Tue, 22 Jul 2025 16:52:20 GMT | 60+ SharePoint Servers Compromised by CVE-2025–53770 in 4 Days — The Zero-Day Microsoft Can’t… | Aaron | [Read More](https://medium.com/p/37dafde480db) |
+| Tue, 22 Jul 2025 16:49:44 GMT | Facebook Marketplace: Is It Safe to Buy and Sell? | Akshay Chauhan | [Read More](https://medium.com/p/e5e966178e88) |
+| Tue, 22 Jul 2025 16:41:55 GMT | KPMG CTF {LuxRide} | Bhuwan Patidar | [Read More](https://medium.com/p/169a97498b44) |
+| Tue, 22 Jul 2025 16:33:29 GMT | Explain Less, Align More | Anna J McDougall | [Read More](https://medium.com/p/e72c6a692b23) |
+| Tue, 22 Jul 2025 16:32:32 GMT | Being a Strong Woman Doesn’t Always Pay Off | Praise Ejiro | [Read More](https://medium.com/p/d69c1e453f73) |
+| Tue, 22 Jul 2025 16:31:16 GMT | 퇴사자가 훔쳐간 기술, 남아있는 임직원들의 삶의 터전을 잃게합니다 by. 위즈노트AI | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/1b76b5f8eb3e) |
 | Tue, 22 Jul 2025 16:26:03 GMT | Certified Red Team Professional (CRTE) Review & Study Notes | Motasem Hamdan | [Read More](https://medium.com/p/ca8e04d75fa7) |
+| Tue, 22 Jul 2025 16:23:34 GMT | From HTTP to HTTPS: A Journey Through AWS Deployment Challenges | Udithpu | [Read More](https://medium.com/p/1fd550675bcb) |
 | Tue, 22 Jul 2025 16:19:22 GMT | A Beginner’s Guide to Choosing the Right Tech Stack in 2025 | Muthukumaran Singaravelu | [Read More](https://medium.com/p/0c6a92ffbbe4) |
 | Tue, 22 Jul 2025 16:18:31 GMT | Docker 101: A Beginner’s Guide on How to Use Docker | Dinçer Tekin | [Read More](https://medium.com/p/0d7ae6bb4797) |
 | Tue, 22 Jul 2025 16:16:31 GMT | EMS SSO: One Login to Rule Them All | Akshay Chauhan | [Read More](https://medium.com/p/c3cee55abf33) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 12:42:12 GMT | Mastering Symantec 250-587 Complete Guide to Data Loss Prevention Certification | Mehmood Ali | [Read More](https://medium.com/p/c221e99e254d) |
 | Tue, 22 Jul 2025 12:41:20 GMT | 7 Promising Job Prospects for Informatics Graduates in the Digital Age | Rismayanti mautipiyau | [Read More](https://medium.com/p/7977796c055e) |
 | Tue, 22 Jul 2025 12:34:07 GMT | SecurityForce Webflow Template for Guard Firms | Morris Lucas | [Read More](https://medium.com/p/d4f5d119a6a4) |
-| Tue, 22 Jul 2025 12:33:02 GMT | BehindTheScreens: From Cobalt Strike to Container Escapes | Sam - Behind The Screens | [Read More](https://medium.com/p/26f7359c890f) |
-| Tue, 22 Jul 2025 12:30:58 GMT | CVE-2025–25257: FortiWeb SQL Injection to RCE Exposed | Kalariya Het | [Read More](https://medium.com/p/9a2e0e9dd78e) |
-| Tue, 22 Jul 2025 12:30:23 GMT | Can AI Truly Replace Humans? | Anindya Chakraborty | [Read More](https://medium.com/p/c8a62cecc813) |
-| Tue, 22 Jul 2025 12:29:23 GMT | Deep Observability & Adaptive Security: Engineering Resilient Systems in 2025 | Byte Architect | [Read More](https://medium.com/p/08ea7f0f337b) |
-| Tue, 22 Jul 2025 12:29:18 GMT | Understanding the DPDP Act: A Practical Approach to Compliance | eSecForte Technologies | [Read More](https://medium.com/p/df76667c8aec) |
-| Tue, 22 Jul 2025 12:28:35 GMT | Business logic vulnerabilities | MUHTADIN | [Read More](https://medium.com/p/e3522d676e62) |
-| Tue, 22 Jul 2025 12:27:29 GMT | Introducing Ech Browser: Your New Fortress for Online Safety | Psylinks Announce | [Read More](https://medium.com/p/2ea57cad6674) |
-| Tue, 22 Jul 2025 12:25:36 GMT | SAP NetWeaver Breach: How APTs Exploited Critical Flaws | Kalariya Het | [Read More](https://medium.com/p/3019a7c597df) |
-| Tue, 22 Jul 2025 12:23:43 GMT | Building Resilient Cloud-Native Systems with Zero-Trust & Adaptive Security | Byte Architect | [Read More](https://medium.com/p/cbb0b903a34b) |
-| Tue, 22 Jul 2025 12:20:37 GMT | Critical Alert for SharePoint Administrators & Security Teams | Nomit Vyas | [Read More](https://medium.com/p/9e6adfb8bef7) |
-| Tue, 22 Jul 2025 12:17:02 GMT | Perimeter Security: The First Line of Cyber Defense | Dany Christel | [Read More](https://medium.com/p/1fdfbf96dc08) |
-| Tue, 22 Jul 2025 12:16:40 GMT | Can Smartphones Be Remotely Exploded? | Alireza mesbah ( hjmersad) | [Read More](https://medium.com/p/6189cd5d1d5a) |
-| Tue, 22 Jul 2025 12:16:14 GMT | RFID Hacking and How to Protect Yourself | Travis Ray Caverhill | [Read More](https://medium.com/p/9c516891fa6e) |
-| Tue, 22 Jul 2025 12:14:04 GMT | Website Security in the Digital Age: How Cybersecurity Services Are Changing the Game | Arushi Srivastava | [Read More](https://medium.com/p/97a0f78d9936) |
-| Tue, 22 Jul 2025 12:08:27 GMT | How the “ToolShell” SharePoint Flaw Is Letting Attackers Take Over 75+ Servers — And How to Secure… | CyBlog | [Read More](https://medium.com/p/7abc7e483e18) |
-| Tue, 22 Jul 2025 12:02:47 GMT | TryHackMe Lunizz CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/89bcb62f9840) |
-| Tue, 22 Jul 2025 12:00:51 GMT | How I Designed a Rate Limiter from Scratch | Vivek Siddharth | [Read More](https://medium.com/p/8d182b2f9620) |
-| Tue, 22 Jul 2025 11:54:28 GMT | “CSRF Hacking: Real-World Exploits and How to Stop Them” | Aman Sharma | [Read More](https://medium.com/p/df8dc1a79f46) |
-| Tue, 22 Jul 2025 11:51:56 GMT | The Evolving Ransomware Threat Landscape: What You Must Know in 2024–2025 | Ashif | [Read More](https://medium.com/p/2fe4fb9765f4) |
