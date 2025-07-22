@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 22 Jul 2025 06:22:53 GMT | Strategic Paralysis by Design: Part X — Moving Toward a Resilient Republic: Recommendations for a… | Chris Clark | [Read More](https://medium.com/p/6d9d0bf956ba) |
+| Tue, 22 Jul 2025 06:20:54 GMT | Understanding the WAF to Bypass it . | Rishav anand | [Read More](https://medium.com/p/749aab2a8473) |
+| Tue, 22 Jul 2025 06:18:14 GMT | Best Security Guards Service Provider in Gurugram | Dhruv | [Read More](https://medium.com/p/4ee55a29ce0a) |
+| Tue, 22 Jul 2025 06:15:42 GMT | TryHackMe CTF -- Security Engineer Intro | Asad Ullah Khan | [Read More](https://medium.com/p/201ad05e9515) |
+| Tue, 22 Jul 2025 06:06:32 GMT | Minor Bugs #1 and How I Fixed Them | Jerry PM | [Read More](https://medium.com/p/d576e338928c) |
+| Tue, 22 Jul 2025 06:01:00 GMT | PoisonSeed phishing attack | Geethu_Giri | [Read More](https://medium.com/p/d0f239508811) |
+| Tue, 22 Jul 2025 06:00:49 GMT | Today’s Top Cyber Intelligence Highlights — Jul 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0b9b27018f99) |
+| Tue, 22 Jul 2025 05:59:36 GMT | What Is Platform Security Architecture? | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/7046c52d1e72) |
+| Tue, 22 Jul 2025 05:58:13 GMT | How Misconfigured Azure Key Vault Leaked Secrets: A Beginner-Friendly CTF Writeup | Amreal Abhishek | [Read More](https://medium.com/p/3ddedd714828) |
+| Tue, 22 Jul 2025 05:57:40 GMT | Leadership in the Era of Synthetic Reality: The AI-Blockchain Alliance | Flavio Aliberti | [Read More](https://medium.com/p/4cc4d43e2cd8) |
+| Tue, 22 Jul 2025 05:55:41 GMT | What happened to GitLab? Explained | Zeron | [Read More](https://medium.com/p/bf674074197d) |
+| Tue, 22 Jul 2025 05:55:27 GMT | Introduction to XSS (Cross-Site Scripting) | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/29670234827e) |
+| Tue, 22 Jul 2025 05:51:19 GMT | Design and Implementation of Static Routing, DHCP, and DNS in Cisco Packet Tracer | Hello, Technia | [Read More](https://medium.com/p/1473680a7292) |
+| Tue, 22 Jul 2025 05:47:31 GMT | Data Center Perimeter Security in KSA: Protecting Critical Infrastructure. | expbhavya | [Read More](https://medium.com/p/e825b90f7dd8) |
+| Tue, 22 Jul 2025 05:46:38 GMT | Mastering the Hidden Arts: A Practical & Scholarly Guide to kali-tools-crypto-stego | Rafal | [Read More](https://medium.com/p/cd10b9eff1e9) |
+| Tue, 22 Jul 2025 05:45:57 GMT | Deploy clamav antivirus in EKS cluster and send alerts to wazuh. | Rabindra Tamang | [Read More](https://medium.com/p/01305822d098) |
+| Tue, 22 Jul 2025 05:44:23 GMT | Understanding Check Digit Algorithms: A Practical Guide for Programmers and Data Engineers | Promethee Spathis | [Read More](https://medium.com/p/5fea4b0db0f4) |
 | Tue, 22 Jul 2025 05:42:43 GMT | From Leak to Exploit: Full Kill Chains Using Public Secrets | Narendar Battula (nArEn) | [Read More](https://medium.com/p/eb00d6846a79) |
 | Tue, 22 Jul 2025 05:42:24 GMT | Beyond the Code: Why Insecure Design is Your Application’s Hidden Threat (OWASP A04) | Hussein Reda | [Read More](https://medium.com/p/14c134f614b7) |
 | Tue, 22 Jul 2025 05:42:07 GMT | ️‍♂️ “The Secrets Hunter’s Playbook: How Attackers Automate API Key Recon Across the Web” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/252b035c2348) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 21 Jul 2025 23:32:11 GMT | DefenseArk #ThreatIntelThursday - VPNs — Rewards and Risks — Part 1 | Kalpitha S | [Read More](https://medium.com/p/ad77c21c36ab) |
 | Mon, 21 Jul 2025 23:31:49 GMT | FortiGuard Inline Malware Prevention Service: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b20bf8287055) |
 | Mon, 21 Jul 2025 23:30:34 GMT | TryHackMe - Mr. Phisher- Write-Up | Andrey Dolya | [Read More](https://medium.com/p/495a81178179) |
-| Mon, 21 Jul 2025 23:23:09 GMT | Last Stick Standing | Brandon Morales | [Read More](https://medium.com/p/eb383a8bc9f0) |
-| Mon, 21 Jul 2025 23:21:23 GMT | Cheat sheet packed with actionable tips and practical examples, covering: | Nazeer | [Read More](https://medium.com/p/b07b5f61438b) |
-| Mon, 21 Jul 2025 23:19:20 GMT | Let’s Defend: 85 — SOC109 — Emotet Malware Detected - Writeup | EPereda | [Read More](https://medium.com/p/0713762b24ac) |
-| Mon, 21 Jul 2025 23:18:12 GMT | Let’s Defend: 84 — SOC104 — Malware Detected - Writeup | EPereda | [Read More](https://medium.com/p/fe65509485fe) |
-| Mon, 21 Jul 2025 23:15:54 GMT | Writeup — Lazy YAML (Web) — BDSec CTF 2025 | TIOURSI YASSER | [Read More](https://medium.com/p/1bf401c7daf2) |
-| Mon, 21 Jul 2025 23:15:26 GMT | Let’s Defend: 83 — SOC119 — Proxy — Malicious Executable File Detected - Writeup | EPereda | [Read More](https://medium.com/p/5948a5c09ec8) |
-| Mon, 21 Jul 2025 23:00:24 GMT | I will write a cybersecurity, grc consultant, cryptography engineer, and a cissp resume | Adebisitijani | [Read More](https://medium.com/p/18e1e8928e07) |
-| Mon, 21 Jul 2025 22:57:38 GMT | Most Cookies CTFs Write-up | -_ENIGMA_- | [Read More](https://medium.com/p/4d0f8cac444a) |
-| Mon, 21 Jul 2025 22:51:38 GMT | ️ AI–Cybersecurity Weekly — 15 Updates | Tal Eliyahu | [Read More](https://medium.com/p/5ace9a89af9d) |
-| Mon, 21 Jul 2025 22:51:36 GMT | Kubernetes: Configure a debug Pod for the Restricted Pod Security Standard | W. Jenks Gibbons | [Read More](https://medium.com/p/3f9db7d01a43) |
-| Mon, 21 Jul 2025 22:48:33 GMT | CSRF Post Request | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/ce755a9d0e71) |
-| Mon, 21 Jul 2025 22:44:44 GMT | Not All Cyber Heroes Wear Hoodies… | The Quiet Layer | [Read More](https://medium.com/p/f764e157c875) |
-| Mon, 21 Jul 2025 22:41:19 GMT | From Theory to Terminal: My Journey Into Ethical Hacking | F3rrox_901a | [Read More](https://medium.com/p/9a966af0fdb3) |
-| Mon, 21 Jul 2025 22:40:15 GMT | The U.S. Really Doesn’t Care About National Security | Dr. Daniel Ward | [Read More](https://medium.com/p/6c2cbf30d2c6) |
-| Mon, 21 Jul 2025 22:39:20 GMT | Understanding Job Market VS AI | Tharun vardhineni | [Read More](https://medium.com/p/b19925b76b08) |
-| Mon, 21 Jul 2025 22:37:45 GMT | VulnApp: The Flutter App You Should Never Build (But Absolutely Should Try) | zero un | [Read More](https://medium.com/p/2078a386a2f1) |
-| Mon, 21 Jul 2025 22:29:41 GMT | The Strategic Case for Fractional CTOs and CIOs | Josh Welch | [Read More](https://medium.com/p/2527afc9c6b1) |
