@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 09:38:34 GMT | Threat Modelling: A Structured Process of Identifying Risk | Chris Smallwood | [Read More](https://medium.com/p/4012446ce064) |
+| Wed, 23 Jul 2025 09:34:19 GMT | [CTF Writeup] WhoAmI — SWU CTF 2025 (ACIS Round) | MisterHelloz | [Read More](https://medium.com/p/2becc142cd23) |
+| Wed, 23 Jul 2025 09:33:52 GMT | Is Your Free VPN for Android Safe? 7 Red Flags to Watch For | Aria Penelope Hart | [Read More](https://medium.com/p/51492830e20b) |
+| Wed, 23 Jul 2025 09:31:00 GMT | Protect Your Web Application with SafeLine: A Step-by-Step Guide | Quella | [Read More](https://medium.com/p/2ec1849f060e) |
 | Wed, 23 Jul 2025 09:23:15 GMT | Global Password Breach Alert: Trusted Tools to Verify Your Exposure | Fazal | [Read More](https://medium.com/p/0c2aaffa0fb4) |
 | Wed, 23 Jul 2025 09:22:48 GMT | Why Smart Students Are Quietly Learning Cloud and Cyber Security at Night | JetkingChandigarh | [Read More](https://medium.com/p/e2bea4090942) |
 | Wed, 23 Jul 2025 09:22:12 GMT | PART 2: The Real Spy Work Begins | Darkder101 | [Read More](https://medium.com/p/829674711cdb) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 05:36:57 GMT | API Security Best Practices to Protect Digital Ecosystems | Reethika Moovendhan | [Read More](https://medium.com/p/2d549c8924bc) |
 | Wed, 23 Jul 2025 05:30:54 GMT | UPI & QR Code Scams: How Fraudsters Empty Bank Accounts in Seconds | OLC Agra | [Read More](https://medium.com/p/cc4e38404a21) |
 | Wed, 23 Jul 2025 05:29:15 GMT | From Bots to Brains | Ashutosh | [Read More](https://medium.com/p/ad72432d119e) |
-| Wed, 23 Jul 2025 05:18:52 GMT | Code Red: The Hidden Security Risks of AI-Generated Programming | Aditya Sharma | [Read More](https://medium.com/p/4b074850514e) |
-| Wed, 23 Jul 2025 05:09:37 GMT | Referer-Based Access Control: Exploit Referer Headers to Bypass Access Control | Bash Overflow | [Read More](https://medium.com/p/dacd57ab832a) |
-| Wed, 23 Jul 2025 05:06:45 GMT | As part of my Network+ prep, I completed a hands-on lab focused on Ethernet switching technologies… | Adrian Gonzalez | [Read More](https://medium.com/p/c34200af3181) |
-| Wed, 23 Jul 2025 05:06:40 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/041439abe7e6) |
