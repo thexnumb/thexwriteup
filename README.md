@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 15:16:00 GMT | KPMG CTF {Virtual_Inkpad} | Bhuwan Patidar | [Read More](https://medium.com/p/74a4f58cfd1f) |
+| Wed, 23 Jul 2025 15:15:01 GMT | TryHackMe Include walkthrough: SSRF, log poisoning & LFI2RCE, with additional findings! | Jarrettgxz | [Read More](https://medium.com/p/d4c497745631) |
+| Wed, 23 Jul 2025 15:14:22 GMT | VIP Event Security Services UK: Where Luxury Meets Uncompromised Safety | waeventservices.co.uk/ | [Read More](https://medium.com/p/d6d1cecc0c7a) |
+| Wed, 23 Jul 2025 15:10:58 GMT | Kotlin, Spring Boot : HandlerInterceptor vs Filter | Romman Sabbir | [Read More](https://medium.com/p/f7f4c9539874) |
+| Wed, 23 Jul 2025 15:10:41 GMT | Mastering Modern Cybersecurity: Tools, Services, and Strategic Benefits | Vijilan | [Read More](https://medium.com/p/03b44a18b579) |
+| Wed, 23 Jul 2025 15:08:53 GMT | 5. ISO 27001’de Liderlik: Sadece BT’nin Değil, Yönetimin de Konusu | AYŞE KIZILAY | [Read More](https://medium.com/p/aae365d22839) |
+| Wed, 23 Jul 2025 15:07:49 GMT | 4. ISO 27001’de Organizasyonun Bağlamı Ne Demektir? | AYŞE KIZILAY | [Read More](https://medium.com/p/878e662cf4df) |
+| Wed, 23 Jul 2025 15:04:26 GMT | Voice Authentication & Key Security Risks | dodge | [Read More](https://medium.com/p/ef3ad4ef6f83) |
+| Wed, 23 Jul 2025 15:01:53 GMT | How Your Digital Footprint Grows While You’re Busy | Ingvar Pavlovich | [Read More](https://medium.com/p/597e5ecf60c4) |
+| Wed, 23 Jul 2025 14:57:44 GMT | From SVG to XSS: How I Found a Stored XSS in a Real Bug Bounty Target | Essam Ezzat | [Read More](https://medium.com/p/8fd923da78eb) |
+| Wed, 23 Jul 2025 14:57:40 GMT | Beyond the Puzzle: The Malicious Logic Behind ‘Fake Captcha’ Attacks | Pratik Gurav | [Read More](https://medium.com/p/a1b99e17d5a2) |
+| Wed, 23 Jul 2025 14:56:32 GMT | Siber Tehdit İstihbaratı Nedir? | FatihUYSAL | [Read More](https://medium.com/p/d3f161a0ab71) |
+| Wed, 23 Jul 2025 14:54:15 GMT | Stopping Black Hat Tactics in AI Search: AIVO’s Call for Standards | Tim de Rosen | [Read More](https://medium.com/p/ca64ec0617cf) |
+| Wed, 23 Jul 2025 14:53:03 GMT | 6 Science-Backed Habits to Sharpen Your Cybersecurity Mindset | Vijay Kumar Gupta | [Read More](https://medium.com/p/c5a747ff5c28) |
+| Wed, 23 Jul 2025 14:44:56 GMT | AresGPT: Cybersecurity Learning Begins | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/3f826a751fbd) |
 | Wed, 23 Jul 2025 14:39:26 GMT | The Daily Tech Digest: 23 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/897f35d4f74f) |
 | Wed, 23 Jul 2025 14:36:44 GMT | WAF bypass technique — Part 2 | yee-yore | [Read More](https://medium.com/p/5fc08a05a868) |
 | Wed, 23 Jul 2025 14:34:05 GMT | What does Cybersecurity Awareness Month mean to DefenseArk? | Kalpitha S | [Read More](https://medium.com/p/f16d33c91620) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 11:03:54 GMT | Inside the Latest Microsoft SharePoint Breach: What It Means for Your Business | Fourfoldtech | [Read More](https://medium.com/p/34866a520ec5) |
 | Wed, 23 Jul 2025 11:03:40 GMT | PicoCTF: PIE TIME 2 Walkthrough | Rishav anand | [Read More](https://medium.com/p/af7d513c8484) |
 | Wed, 23 Jul 2025 11:02:37 GMT | Understanding Federation and SSO | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/f23b47db153e) |
-| Wed, 23 Jul 2025 10:59:13 GMT | how secure is google password manager? | Tahashaikhseo | [Read More](https://medium.com/p/cf630544e941) |
-| Wed, 23 Jul 2025 10:58:26 GMT | Top 10 Common Types of Cyber Attacks Explained | Sanchitamishra | [Read More](https://medium.com/p/1a12109fb2aa) |
-| Wed, 23 Jul 2025 10:57:05 GMT | Discover a universe of opportunities with a random IP address generator at… | Tahashaikhseo | [Read More](https://medium.com/p/32f762d11de7) |
-| Wed, 23 Jul 2025 10:55:57 GMT | Strengthen Your Cybersecurity with Assessments and Remediation | IPSpecialist | [Read More](https://medium.com/p/c1f74f2d1986) |
-| Wed, 23 Jul 2025 10:55:23 GMT | Philippines Cybersecurity Market Expected to Reach USD 2.72 Billion by 2033 | Arlo Bennett | [Read More](https://medium.com/p/51268ad301f4) |
-| Wed, 23 Jul 2025 10:50:57 GMT | Can Banks Be Liable for $5M Crypto Scams? | Karl Buhl | [Read More](https://medium.com/p/2b4681249d22) |
-| Wed, 23 Jul 2025 10:43:08 GMT | How to Use SafeLine to Upgrade Your Website from HTTP to HTTPS | Maverick Steel | [Read More](https://medium.com/p/3ea4f879fdac) |
-| Wed, 23 Jul 2025 10:37:55 GMT | The Bitter Truth About Cybersecurity: It’s Not an Industry, It’s an Illusion | Santhosh Adiga U | [Read More](https://medium.com/p/a7a0d7966792) |
-| Wed, 23 Jul 2025 10:26:57 GMT | A Bad VAPT Report Is Worse Than No Report at All | Webpuppies | [Read More](https://medium.com/p/2dafacaeadcc) |
-| Wed, 23 Jul 2025 10:25:12 GMT | Tools you should use as a Web3 hacker | Stupid Contract | [Read More](https://medium.com/p/2dde7103a1f7) |
-| Wed, 23 Jul 2025 10:21:50 GMT | The Raspberry Pi’s Wi-Fi Glow-Up: Native Monitor Mode & Injection in Kali 2025.1 | Taha Ex | [Read More](https://medium.com/p/90b275826a59) |
-| Wed, 23 Jul 2025 10:21:26 GMT | Fishy Website — Misc — DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/83c3864e7902) |
-| Wed, 23 Jul 2025 10:19:55 GMT | The July 2025 SharePoint Exploit: A Wake-Up Call for Cloud-First Security | Piya | [Read More](https://medium.com/p/7fc1c863a716) |
-| Wed, 23 Jul 2025 10:18:21 GMT | Who needs attack surface management services most? | Ziya Zoe | [Read More](https://medium.com/p/c20717ffbb4a) |
-| Wed, 23 Jul 2025 10:15:13 GMT | Pakistan Issues Warning Over Rising Honey Trap Scams Disguised as Freelance Jobs | Zeeshan Ali Shah | [Read More](https://medium.com/p/a5231ae21c33) |
