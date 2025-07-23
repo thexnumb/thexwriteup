@@ -12,9 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 04:25:21 GMT | The Dark Forest: A Builder’s Guide to MEV Protection | Harsh Kasana | [Read More](https://medium.com/p/2f422fba9a1d) |
+| Wed, 23 Jul 2025 04:23:45 GMT | File Transfer in Guacamole | Shir0E | [Read More](https://medium.com/p/945e3571ed44) |
+| Wed, 23 Jul 2025 04:19:50 GMT | My Journey to the SMT Program: From Applicant to Accepted | Kiell Tampubolon | [Read More](https://medium.com/p/1c3e0d78d643) |
+| Wed, 23 Jul 2025 04:16:37 GMT | Prospek Kerja Lulusan Informatika: Bukan Cuma Jadi Programmer | Syfrnnurulinsnia | [Read More](https://medium.com/p/4e6311d53ad7) |
+| Wed, 23 Jul 2025 04:14:59 GMT | What Really Happens When You Click a Phishing Link (And Why You Shouldn’t Find Out the Hard Way) | Varnith | [Read More](https://medium.com/p/95650fabea35) |
+| Wed, 23 Jul 2025 04:14:30 GMT | Mengenal dan Menerapkan Pola Perancangan dalam Sistem Teknologi Informasi Sehari-Hari | Moan | [Read More](https://medium.com/p/72474dc3b6f6) |
+| Wed, 23 Jul 2025 04:13:33 GMT | Cyber Security Training Course: Master Key Cybersecurity Defense Ways | Manraj | [Read More](https://medium.com/p/a4eab41c846e) |
+| Wed, 23 Jul 2025 04:04:50 GMT | Top Penetration Testing Companies in 2025: A Complete Guide for Secure Digital Transformation | Securis360 Inc. | [Read More](https://medium.com/p/b804f2df0ffe) |
+| Wed, 23 Jul 2025 04:03:09 GMT | Not Broken, Just Feeling It All | Amrita Barthakur | [Read More](https://medium.com/p/2f9a45d67c7a) |
+| Wed, 23 Jul 2025 03:56:03 GMT | Remote code execution via web shell upload [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/52ee16a59dda) |
+| Wed, 23 Jul 2025 03:48:36 GMT | Resume Mindanao Learning Session | Kautsar Jilan Roqiyah Nur Amira | [Read More](https://medium.com/p/a2ff43014d9d) |
+| Wed, 23 Jul 2025 03:38:43 GMT | Learn Risk Management Framework (RMF) | Manny | [Read More](https://medium.com/p/63a7333f2345) |
+| Wed, 23 Jul 2025 03:37:27 GMT | Conflict Assesment & Alternative Dispute
+Resolution | Kautsar Jilan Roqiyah Nur Amira | [Read More](https://medium.com/p/b036be111ed1) |
 | Wed, 23 Jul 2025 03:36:12 GMT | Cookies dalam situs Web | Mahyra Dev | [Read More](https://medium.com/p/74028851d21f) |
 | Wed, 23 Jul 2025 03:35:53 GMT | Before You’re Hacked, Read These | Aj | [Read More](https://medium.com/p/3b878e505a94) |
 | Wed, 23 Jul 2025 03:32:32 GMT | How CoinDCX Lost $44 Million And What It Means for Crypto Investors | Deven Chhajed | [Read More](https://medium.com/p/44b3e5decb39) |
+| Wed, 23 Jul 2025 03:32:32 GMT | 7 Tips for Secure User Input Sanitization in Node.js | Arunangshu Das | [Read More](https://medium.com/p/a83b224f14db) |
 | Wed, 23 Jul 2025 03:20:27 GMT | Prompt injection detection using python — a simple step to secure your AI system | Debashis Debnath | [Read More](https://medium.com/p/e0a26e9ee916) |
 | Wed, 23 Jul 2025 03:04:42 GMT | How I Simulated and Secured an S3 Bucket: A Hands-On Cloud Security | EhistheGreat | [Read More](https://medium.com/p/71a97ea6d62e) |
 | Wed, 23 Jul 2025 02:58:44 GMT | The Hidden AI Drain on My Mac: Spotlight or Surveillance? | Cevher Dogan | [Read More](https://medium.com/p/a4d2ce19e5ef) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 19:14:08 GMT | Red Team Ops I (CRTO) Review — Adversary Simulation & Red Team Operations | selim_addada | [Read More](https://medium.com/p/92c5ca87ba29) |
 | Tue, 22 Jul 2025 19:12:56 GMT | SASE as a Service: The Future of Secure Cloud Access | SafeAeon Inc. | [Read More](https://medium.com/p/f53221a30ee9) |
 | Tue, 22 Jul 2025 19:12:06 GMT | Smart Facility Monitoring | Presslink Media | [Read More](https://medium.com/p/ea1584946c4c) |
-| Tue, 22 Jul 2025 19:07:36 GMT | Google Dorking: The Secret Search Trick | Ayush Kumar | [Read More](https://medium.com/p/672173822dc4) |
-| Tue, 22 Jul 2025 19:05:05 GMT | Cloud Monitoring: Watch Everything, Miss Nothing | SafeAeon Inc. | [Read More](https://medium.com/p/f812961a50e0) |
-| Tue, 22 Jul 2025 19:04:28 GMT | VACACIONES | Enoch Root | [Read More](https://medium.com/p/e0a7e4785f59) |
-| Tue, 22 Jul 2025 19:04:00 GMT | Build Log 003 | script | [Read More](https://medium.com/p/192f547d160f) |
-| Tue, 22 Jul 2025 18:59:27 GMT | Copyright, Spam, and Shame: The Ethics of Archived Redirects | Ruthie Owen-Moreno | [Read More](https://medium.com/p/2106932ab8b6) |
-| Tue, 22 Jul 2025 18:57:50 GMT | Penetration Testing as a Service: A Smarter Way to Stay Secure | SafeAeon Inc. | [Read More](https://medium.com/p/408cb5aff8a0) |
-| Tue, 22 Jul 2025 18:54:56 GMT | The Critical Importance of Cybersecurity for Small Businesses in Northern New Jersey | Jill O. | [Read More](https://medium.com/p/bebdf321465e) |
-| Tue, 22 Jul 2025 18:51:36 GMT | From Zero to Root — Day 11: Breaks, Burnout & Back into the Dorkside | Mark Alexander Varghese | [Read More](https://medium.com/p/6418c24e93d8) |
-| Tue, 22 Jul 2025 18:44:52 GMT | CVE-2025–47812: Wing FTP Remote Code Execution | DefenceRabbit | [Read More](https://medium.com/p/99a4400e7488) |
-| Tue, 22 Jul 2025 18:44:36 GMT | How I Took Over a Forgotten Google Storage Bucket Used to Distribute Helm Binaries | Arshad Kazmi | [Read More](https://medium.com/p/374ae959179f) |
-| Tue, 22 Jul 2025 18:40:40 GMT | An Inquiry into the Shifting Grounds of Security in the Age of AI | Above The Firewall | [Read More](https://medium.com/p/337f9bedfcdb) |
-| Tue, 22 Jul 2025 18:37:04 GMT | We Taught an LLM to Think Like a Hacker — Here’s How | Five Insights | [Read More](https://medium.com/p/5e03be27cdeb) |
-| Tue, 22 Jul 2025 18:37:01 GMT | Menjelajahi Dunia “Capture The Flag” (CTF): Arena Pertarungan Para Pemburu Bendera Digital | Malbaralamsyah | [Read More](https://medium.com/p/346cd0a06649) |
-| Tue, 22 Jul 2025 18:32:32 GMT | Automating Incident Response with Python & TheHive: A Practical Guide for Hackers & Defenders | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/b539cd677e91) |
