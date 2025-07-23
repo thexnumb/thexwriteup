@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 15:43:52 GMT | Exploiting server-side parameter pollution in a query string PortSwigger Lab Write-up | Mohamed Medhat | [Read More](https://medium.com/p/df8e838acd13) |
+| Wed, 23 Jul 2025 15:40:19 GMT | Security Pitfalls of AI Code Generation Tools — 2025 Update | Derek Derui Wang | [Read More](https://medium.com/p/8ded7e50244d) |
+| Wed, 23 Jul 2025 15:31:05 GMT | Inside the Phisher’s Mind: How Hackers Actually Build Phishing Links (Step-by-Step Breakdown) | Varnith | [Read More](https://medium.com/p/9caaf581a88d) |
+| Wed, 23 Jul 2025 15:29:28 GMT | SMT Program 2025 Write Up | Sarah | [Read More](https://medium.com/p/b76ca3e8d681) |
+| Wed, 23 Jul 2025 15:29:00 GMT | What Is a Cyber Pandemic? And Why the Next Shutdown Might Be Digital | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/b719bcdbd805) |
+| Wed, 23 Jul 2025 15:28:03 GMT | SharePoint 0day | RavenForTech | [Read More](https://medium.com/p/95ffa494f0ed) |
+| Wed, 23 Jul 2025 15:26:36 GMT | The Metrics Mirage: How Security KPIs Are Hiding Your Real Risk | Eric Zietlow | [Read More](https://medium.com/p/8d9968df8d8d) |
+| Wed, 23 Jul 2025 15:24:39 GMT | Cybersecurity-Week #1 | rkn | [Read More](https://medium.com/p/d8956e9eb3fc) |
 | Wed, 23 Jul 2025 15:16:00 GMT | KPMG CTF {Virtual_Inkpad} | Bhuwan Patidar | [Read More](https://medium.com/p/74a4f58cfd1f) |
 | Wed, 23 Jul 2025 15:15:01 GMT | TryHackMe Include walkthrough: SSRF, log poisoning & LFI2RCE, with additional findings! | Jarrettgxz | [Read More](https://medium.com/p/d4c497745631) |
+| Wed, 23 Jul 2025 15:14:52 GMT | تفعيل الربح من تيك توك: استراتيجيات عملية لكسب أول 1000 دولار | katibatech | [Read More](https://medium.com/p/654fff394290) |
 | Wed, 23 Jul 2025 15:14:22 GMT | VIP Event Security Services UK: Where Luxury Meets Uncompromised Safety | waeventservices.co.uk/ | [Read More](https://medium.com/p/d6d1cecc0c7a) |
 | Wed, 23 Jul 2025 15:10:58 GMT | Kotlin, Spring Boot : HandlerInterceptor vs Filter | Romman Sabbir | [Read More](https://medium.com/p/f7f4c9539874) |
 | Wed, 23 Jul 2025 15:10:41 GMT | Mastering Modern Cybersecurity: Tools, Services, and Strategic Benefits | Vijilan | [Read More](https://medium.com/p/03b44a18b579) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 11:20:00 GMT | When Smart Contracts Snap: What the $42M GMX Exploit Tells Us About Investing in AI x Blockchain | n8 Capital | [Read More](https://medium.com/p/9951c8a609b7) |
 | Wed, 23 Jul 2025 11:17:28 GMT | Secure Your Application with SafeLine WAF: A Step-by-Step Guide | Maverick Steel | [Read More](https://medium.com/p/7cc5a402596a) |
 | Wed, 23 Jul 2025 11:17:25 GMT | Tryhackme Hammer Walk through | Muhammad Ahsan Ijaz | [Read More](https://medium.com/p/765ae11567f6) |
-| Wed, 23 Jul 2025 11:12:48 GMT | Cybersecurity Frameworks Cheat Sheet | Rui Fernandes | [Read More](https://medium.com/p/c2a22575eb45) |
-| Wed, 23 Jul 2025 11:12:48 GMT | Navigating Privacy and Anonymity in the Age of AI-Driven Surveillance | Gauravkhajuria | [Read More](https://medium.com/p/2611c90e86ee) |
-| Wed, 23 Jul 2025 11:11:24 GMT | MODERN WARFARE BEYOND BULLETS — How Cyber, AI, and Multi-Domain Integration Are Redefining Conflict | Sanjeev Rattan | [Read More](https://medium.com/p/051a7168362b) |
-| Wed, 23 Jul 2025 11:09:21 GMT | Foundation First: The £5 Million Password That Destroyed 158 Years of History | Robert Güntherberg | [Read More](https://medium.com/p/ec68712b07df) |
-| Wed, 23 Jul 2025 11:07:26 GMT | The Fake Job Offer That Asked Me To Launder Money. | The Anti-Scam Diaries | [Read More](https://medium.com/p/6454e1227903) |
-| Wed, 23 Jul 2025 11:07:02 GMT | Corporate Cyber security Training in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/7d596f11b5d8) |
-| Wed, 23 Jul 2025 11:03:54 GMT | Inside the Latest Microsoft SharePoint Breach: What It Means for Your Business | Fourfoldtech | [Read More](https://medium.com/p/34866a520ec5) |
-| Wed, 23 Jul 2025 11:03:40 GMT | PicoCTF: PIE TIME 2 Walkthrough | Rishav anand | [Read More](https://medium.com/p/af7d513c8484) |
-| Wed, 23 Jul 2025 11:02:37 GMT | Understanding Federation and SSO | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/f23b47db153e) |
