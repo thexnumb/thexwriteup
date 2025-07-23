@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 18:05:10 GMT | Cybersecurity for Engineers: Protecting Embedded and Industrial Control Systems | Frederic Lauzier | [Read More](https://medium.com/p/d1613ebd8597) |
+| Wed, 23 Jul 2025 18:04:18 GMT | 5 Security Mistakes Developers Make in Ruby on Rails (And How to Fix Them) | Ajey | [Read More](https://medium.com/p/f528cc8877e5) |
+| Wed, 23 Jul 2025 17:57:38 GMT | SHAPE YOUR FUTURE WITH THE BEST CYBER | Akhilcris | [Read More](https://medium.com/p/8dc3fc215030) |
+| Wed, 23 Jul 2025 17:51:27 GMT | The Future of Diplomacy: Navigating the Age of Advanced AI and Cyberspace | CCD-IS | [Read More](https://medium.com/p/51cd9c520f07) |
+| Wed, 23 Jul 2025 17:50:54 GMT | Top Enumeration Techniques Every Ethical Hacker Must Know in 2025 | Rajkumar Kumawat | [Read More](https://medium.com/p/10d1a75a41f3) |
 | Wed, 23 Jul 2025 17:43:38 GMT | Sam Altman Warns AI Can Now Defeat Bank Security and Steal ‘Everyone’s Money’ | Coby Mendoza | [Read More](https://medium.com/p/817fa22248fc) |
 | Wed, 23 Jul 2025 17:36:39 GMT | How AI Makes Phishing Easier Than Ever (And What You Can Do About It) | Mark Puckett | [Read More](https://medium.com/p/635afb85b5d1) |
+| Wed, 23 Jul 2025 17:36:20 GMT | I Used JWT in Production—Big Mistake | Thread Whisperer | [Read More](https://medium.com/p/fcb50c8de12e) |
 | Wed, 23 Jul 2025 17:36:14 GMT | Corriger sans chercher la cause, c’est mal! | Patrick Boucher | [Read More](https://medium.com/p/a052d031addc) |
 | Wed, 23 Jul 2025 17:28:32 GMT | Coyote Malware Exploits Microsoft UI Automation to Steal Credentials in the Wild | Jasmitha | [Read More](https://medium.com/p/2db1c631babc) |
 | Wed, 23 Jul 2025 17:24:23 GMT | 3. Terimler ve Tanımların Arkasındaki Güç | AYŞE KIZILAY | [Read More](https://medium.com/p/76426a7b9317) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 14:01:22 GMT | Red Stuff Decoded: The Self-Healing Superpower Behind Walrus | Nytaraa | [Read More](https://medium.com/p/bf4f486bcde3) |
 | Wed, 23 Jul 2025 14:00:59 GMT | Deterrence is lacking in cyber defense | Martin Abramov | [Read More](https://medium.com/p/f5ec88bd4606) |
 | Wed, 23 Jul 2025 14:00:41 GMT | ✍️ XSS Nedir? Gerçek Dünya Örneği ve Korunma Yolları | FatihUYSAL | [Read More](https://medium.com/p/84170b5294b9) |
-| Wed, 23 Jul 2025 13:59:48 GMT | Beginner’s Guide to Active Reconnaissance (Part 3.2): ARP Scan Techniques on Firewalled Hosts. | Ar-jay A. Ballaco | [Read More](https://medium.com/p/a7a6bc082544) |
-| Wed, 23 Jul 2025 13:50:37 GMT | Single Sign On (SSO): How It Works and Why It Matters | Cybersecurity Umbrella | [Read More](https://medium.com/p/a7b0152c8568) |
-| Wed, 23 Jul 2025 13:48:37 GMT | The Mask That Glitters | Alday | [Read More](https://medium.com/p/b262f5154140) |
-| Wed, 23 Jul 2025 13:41:48 GMT | I Scraped 1,200 Data Science Job Listings. Here’s What Companies Actually Want in 2025. | Girish Dhamane | [Read More](https://medium.com/p/543b5930cd0b) |
-| Wed, 23 Jul 2025 13:36:33 GMT | I Hacked My Own Account with OAuth Misconfiguration | Ibtissam hammadi | [Read More](https://medium.com/p/1a0223fb5002) |
-| Wed, 23 Jul 2025 13:32:39 GMT | A Comprehensive Guide to Netcat (nc) | Rushikesh G | [Read More](https://medium.com/p/7f6cd202f2dc) |
