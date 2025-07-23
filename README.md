@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 23:16:32 GMT | Your AI Just Got Hacked by a Sentence: Welcome to the Era of Prompt Injection | Freddy Dordoni | [Read More](https://medium.com/p/05e212e75920) |
+| Wed, 23 Jul 2025 22:57:09 GMT | Investigating an APT with Splunk (Boss of the SOC) | whoami | [Read More](https://medium.com/p/bbf7f35645af) |
+| Wed, 23 Jul 2025 22:50:51 GMT | iOS Malware Development: A Red Team Perspective on Apple’s Security Architecture | Lord Murak | [Read More](https://medium.com/p/0cd35091de78) |
 | Wed, 23 Jul 2025 22:37:42 GMT | Inside the Mind of a Hacker: What Every Cybersecurity Pro Should Know | Steven McDaniel | [Read More](https://medium.com/p/2c8cdb47f4e9) |
 | Wed, 23 Jul 2025 22:33:01 GMT | CoinDCX Hacked for $44,000,000 | JayOnchain | [Read More](https://medium.com/p/e302cad0b5b8) |
 | Wed, 23 Jul 2025 22:31:47 GMT | What Is a Password manager? Why You Need One to Stay Secure Online | Timonéofearth | [Read More](https://medium.com/p/d5bb4e654f7c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 16:28:49 GMT | North Korea’s Research Center 227: AI Cyber Warfare on Steroids | Mona Lo | [Read More](https://medium.com/p/b66db8e23080) |
 | Wed, 23 Jul 2025 16:25:45 GMT | “Bug Bounty CVE-2025–0133 PAN-OS: Reflected Cross-Site Scripting (XSS) “Most Exploited… | HariHaranK | [Read More](https://medium.com/p/79832916cfcd) |
 | Wed, 23 Jul 2025 16:22:18 GMT | The Ethics of AI in Fraud Detection: Risks of False Positives and Network Bias | Ajay Singh | [Read More](https://medium.com/p/80c8a25b8c42) |
-| Wed, 23 Jul 2025 16:21:47 GMT | Best Techambitions Private Limited — Company | Karan | [Read More](https://medium.com/p/42f399cfde49) |
-| Wed, 23 Jul 2025 16:15:25 GMT | Eufy Floodlight Camera E340 REVIEW Smart Security Meets Reliable Lighting — MacSources | MacSources | [Read More](https://medium.com/p/9babe0feeba9) |
-| Wed, 23 Jul 2025 16:10:48 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/5be57beda5a9) |
