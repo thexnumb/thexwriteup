@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 16:25:45 GMT | “Bug Bounty CVE-2025–0133 PAN-OS: Reflected Cross-Site Scripting (XSS) “Most Exploited… | HariHaranK | [Read More](https://medium.com/p/79832916cfcd) |
+| Wed, 23 Jul 2025 16:22:18 GMT | The Ethics of AI in Fraud Detection: Risks of False Positives and Network Bias | Ajay Singh | [Read More](https://medium.com/p/80c8a25b8c42) |
+| Wed, 23 Jul 2025 16:21:47 GMT | Best Techambitions Private Limited — Company | Karan | [Read More](https://medium.com/p/42f399cfde49) |
+| Wed, 23 Jul 2025 16:10:48 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/5be57beda5a9) |
+| Wed, 23 Jul 2025 16:07:12 GMT | Wazuh Agent Deployment using Ansible | Aravind Raja | [Read More](https://medium.com/p/95325b1cf05b) |
+| Wed, 23 Jul 2025 16:06:25 GMT | Office Hours: How We Fixed a Deployment Bug Where Changes Weren’t Reflecting on Dev Server | Farhan | [Read More](https://medium.com/p/18dd96576647) |
+| Wed, 23 Jul 2025 16:04:45 GMT | ✅ 1. Medium Article Title | Syed Ihtesham | [Read More](https://medium.com/p/308cec8c472e) |
+| Wed, 23 Jul 2025 16:02:40 GMT | Passwords Are Over — Your Digital Glow-Up Has Arrived | Gnani Rahul | [Read More](https://medium.com/p/e9c9701990b1) |
+| Wed, 23 Jul 2025 16:00:20 GMT | picoCTF: DISKO 3 | löca | [Read More](https://medium.com/p/610466f68f7b) |
+| Wed, 23 Jul 2025 15:57:29 GMT | First Cybersecurity Journey Log | ClayGoat | [Read More](https://medium.com/p/8edfdba21d7e) |
+| Wed, 23 Jul 2025 15:57:16 GMT | Building a Token-Safe Chatbot with RESK-LLM and OpenAI | Arch | [Read More](https://medium.com/p/b6aed9735b54) |
+| Wed, 23 Jul 2025 15:57:12 GMT | 6. Bilgi Güvenliği Riski ile Nasıl Baş Edilir? | AYŞE KIZILAY | [Read More](https://medium.com/p/65f9addd8349) |
+| Wed, 23 Jul 2025 15:55:07 GMT | Preventing Prompt Injection with | Arch | [Read More](https://medium.com/p/0585fd460b9c) |
+| Wed, 23 Jul 2025 15:52:28 GMT | DefectDojo Installation | Shir0E | [Read More](https://medium.com/p/6d4696583481) |
+| Wed, 23 Jul 2025 15:47:17 GMT | The Simple Changes That Made Reporting More Fun for My Ethical Hackers Team | Florian Henrion | [Read More](https://medium.com/p/109d33c9edc9) |
+| Wed, 23 Jul 2025 15:45:35 GMT | Sécuriser & Protéger son LLM contre les prompts injection | Arch | [Read More](https://medium.com/p/43e948449b1c) |
 | Wed, 23 Jul 2025 15:43:52 GMT | Exploiting server-side parameter pollution in a query string PortSwigger Lab Write-up | Mohamed Medhat | [Read More](https://medium.com/p/df8e838acd13) |
 | Wed, 23 Jul 2025 15:40:19 GMT | Security Pitfalls of AI Code Generation Tools — 2025 Update | Derek Derui Wang | [Read More](https://medium.com/p/8ded7e50244d) |
 | Wed, 23 Jul 2025 15:31:05 GMT | Inside the Phisher’s Mind: How Hackers Actually Build Phishing Links (Step-by-Step Breakdown) | Varnith | [Read More](https://medium.com/p/9caaf581a88d) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 12:11:48 GMT | What Is a Passkey? | Timonéofearth | [Read More](https://medium.com/p/81ed2dbc81ea) |
 | Wed, 23 Jul 2025 12:11:10 GMT | Top 10 Moves for Mega Dragonite in Competitive Battles | webytize agency | [Read More](https://medium.com/p/cb87be7263fc) |
 | Wed, 23 Jul 2025 12:10:19 GMT | Breaking Down My Favorite Python Automation Stack | Rimshakashif | [Read More](https://medium.com/p/842304516605) |
-| Wed, 23 Jul 2025 12:10:15 GMT | n8n, Why Your First Workflow Should Be a Firewall Rule | J Whorley | [Read More](https://medium.com/p/a267f17f6f72) |
-| Wed, 23 Jul 2025 12:06:53 GMT | Why Privacy by Design Is Crucial for Modern SaaS Platforms | sanya | [Read More](https://medium.com/p/e220926c5b39) |
-| Wed, 23 Jul 2025 12:06:34 GMT | Just Breached: U.S. Nuclear Weapons Agency Hacked in Microsoft Zero-Day | Stefan Markov | [Read More](https://medium.com/p/5d205dcd37a5) |
-| Wed, 23 Jul 2025 11:49:28 GMT | TryHackMe: Uncovering a Kernel Backdoor in “Sneaky Patch” | Aravind S V | [Read More](https://medium.com/p/3158f3bbe16a) |
-| Wed, 23 Jul 2025 11:48:42 GMT | Afghanistan and Pakistan sign Preferential Trade Agreement | Gulalai Jana | [Read More](https://medium.com/p/77c3aa46ddf3) |
-| Wed, 23 Jul 2025 11:40:13 GMT | From Benchmarks to Blind Spots: A Holistic Look at LLM Confidentiality | Berend Watchus | [Read More](https://medium.com/p/7bcd9f3bead1) |
-| Wed, 23 Jul 2025 11:35:31 GMT | Email Breach : Check If Your Email Was Breached Instantly with WeScan.live | WeScan Journal | [Read More](https://medium.com/p/9efaee91c919) |
-| Wed, 23 Jul 2025 11:31:18 GMT | Exploiting Linux Capabilities: CAP_SYS_MODULE | Redfox Security | [Read More](https://medium.com/p/055cac48caab) |
-| Wed, 23 Jul 2025 11:30:13 GMT | Prompt Injection: Gerçek Saldırı Senaryoları ve Analizleri | Melike Ateş | [Read More](https://medium.com/p/f5a04c9b28f0) |
-| Wed, 23 Jul 2025 11:27:22 GMT | DAY 23 — CHAPTER 11: Linux Logging Systems | Jinay | [Read More](https://medium.com/p/2f03c1cd0818) |
-| Wed, 23 Jul 2025 11:26:59 GMT | Day 52: CIS Benchmarks | Brittney Ginther | [Read More](https://medium.com/p/63cf2ac5a3d3) |
-| Wed, 23 Jul 2025 11:26:17 GMT | Password Security in 2025: Why It’s More Important Than Ever | SecureSlate | [Read More](https://medium.com/p/1f3d643e5871) |
-| Wed, 23 Jul 2025 11:26:12 GMT | Phenomena | Salar Sikander | [Read More](https://medium.com/p/c93a885176db) |
-| Wed, 23 Jul 2025 11:20:00 GMT | When Smart Contracts Snap: What the $42M GMX Exploit Tells Us About Investing in AI x Blockchain | n8 Capital | [Read More](https://medium.com/p/9951c8a609b7) |
-| Wed, 23 Jul 2025 11:17:28 GMT | Secure Your Application with SafeLine WAF: A Step-by-Step Guide | Maverick Steel | [Read More](https://medium.com/p/7cc5a402596a) |
-| Wed, 23 Jul 2025 11:17:25 GMT | Tryhackme Hammer Walk through | Muhammad Ahsan Ijaz | [Read More](https://medium.com/p/765ae11567f6) |
