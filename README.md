@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 10:43:08 GMT | How to Use SafeLine to Upgrade Your Website from HTTP to HTTPS | Maverick Steel | [Read More](https://medium.com/p/3ea4f879fdac) |
+| Wed, 23 Jul 2025 10:37:55 GMT | The Bitter Truth About Cybersecurity: It’s Not an Industry, It’s an Illusion | Santhosh Adiga U | [Read More](https://medium.com/p/a7a0d7966792) |
+| Wed, 23 Jul 2025 10:26:57 GMT | A Bad VAPT Report Is Worse Than No Report at All | Webpuppies | [Read More](https://medium.com/p/2dafacaeadcc) |
+| Wed, 23 Jul 2025 10:25:12 GMT | Tools you should use as a Web3 hacker | Stupid Contract | [Read More](https://medium.com/p/2dde7103a1f7) |
 | Wed, 23 Jul 2025 10:21:50 GMT | The Raspberry Pi’s Wi-Fi Glow-Up: Native Monitor Mode & Injection in Kali 2025.1 | Taha Ex | [Read More](https://medium.com/p/90b275826a59) |
 | Wed, 23 Jul 2025 10:21:26 GMT | Fishy Website — Misc — DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/83c3864e7902) |
+| Wed, 23 Jul 2025 10:19:55 GMT | The July 2025 SharePoint Exploit: A Wake-Up Call for Cloud-First Security | Piya | [Read More](https://medium.com/p/7fc1c863a716) |
 | Wed, 23 Jul 2025 10:18:21 GMT | Who needs attack surface management services most? | Ziya Zoe | [Read More](https://medium.com/p/c20717ffbb4a) |
 | Wed, 23 Jul 2025 10:15:13 GMT | Pakistan Issues Warning Over Rising Honey Trap Scams Disguised as Freelance Jobs | Zeeshan Ali Shah | [Read More](https://medium.com/p/a5231ae21c33) |
 | Wed, 23 Jul 2025 10:14:03 GMT | Port Management Information Systems Compared: How Envision PMIS Stacks Up Against Alternatives | P Harshavardhan | [Read More](https://medium.com/p/68bffe6ea286) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 06:09:51 GMT | Lookup - TryHackMe Room | Puniyatjangir | [Read More](https://medium.com/p/1cd4b31abaab) |
 | Wed, 23 Jul 2025 06:09:31 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/cb9e986d1c5d) |
 | Wed, 23 Jul 2025 06:06:33 GMT | Hospital Visitor Management: Efficient Patient Access in Kuwait | expbhavya | [Read More](https://medium.com/p/a6b855cb80b9) |
-| Wed, 23 Jul 2025 06:04:37 GMT | GDPR, CCPA, and Beyond — Staying Ahead in Data Privacy Compliance | CyRAACS | [Read More](https://medium.com/p/5a9678e82585) |
-| Wed, 23 Jul 2025 06:04:16 GMT | Click with Caution: Outsmarting Cyber Threats in a Digital World | Suhana Singhvi | [Read More](https://medium.com/p/9d635a883cdc) |
-| Wed, 23 Jul 2025 06:01:02 GMT | “JS is the New S3”: How I Mined Tokens, PII & DevOps Secrets From JavaScript for Bounties | Narendar Battula (nArEn) | [Read More](https://medium.com/p/13b6bdf1b829) |
-| Wed, 23 Jul 2025 06:00:56 GMT | Cybersécurité en Suisse : actualités du 23 juil 2025 | Marc Barbezat | [Read More](https://medium.com/p/8ab7e47d3445) |
-| Wed, 23 Jul 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Jul 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6f26cc86d081) |
