@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 16:44:06 GMT | TryHackMe — Light: A Gentle Introduction to SQL Injection on SQLite | Erickson | [Read More](https://medium.com/p/4cfc2f57d7bb) |
+| Wed, 23 Jul 2025 16:42:10 GMT | How Stealthy RATs and Credential Thieves Are Slipping Into Organizations — And What You Must Do Now | CyBlog | [Read More](https://medium.com/p/30ff913983e6) |
+| Wed, 23 Jul 2025 16:41:24 GMT | 8. Güvenliği Uygulamaya Dönüştürmek | AYŞE KIZILAY | [Read More](https://medium.com/p/7c6973084165) |
+| Wed, 23 Jul 2025 16:39:58 GMT | DeltaPrime, iVest, and Spectra Finance Lose $1.25M | Olympix | [Read More](https://medium.com/p/292cdc604b01) |
+| Wed, 23 Jul 2025 16:37:52 GMT | $255M Drained: Ronin, WazirX, Li.Fi, and Minterest Fall to Misconfig, Key Theft, and Call Injection | Olympix | [Read More](https://medium.com/p/a9718500fedc) |
+| Wed, 23 Jul 2025 16:35:40 GMT | Malware, Mint, and Misdirection: Bittensor, ETHTrustFund_, CGPT, and WMRP Hit in $10M+ Exploits | Olympix | [Read More](https://medium.com/p/a00e4508173a) |
+| Wed, 23 Jul 2025 16:33:28 GMT | Flipper Zero Episode 5: Evil Portals & the Dangers of Free Wi-Fi | Fahri | [Read More](https://medium.com/p/f23c340859e4) |
+| Wed, 23 Jul 2025 16:30:52 GMT | 7. Bilgi Güvenliğinin Görünmeyen Temelleri | AYŞE KIZILAY | [Read More](https://medium.com/p/8d0fa79ceb5a) |
+| Wed, 23 Jul 2025 16:28:49 GMT | North Korea’s Research Center 227: AI Cyber Warfare on Steroids | Mona Lo | [Read More](https://medium.com/p/b66db8e23080) |
 | Wed, 23 Jul 2025 16:25:45 GMT | “Bug Bounty CVE-2025–0133 PAN-OS: Reflected Cross-Site Scripting (XSS) “Most Exploited… | HariHaranK | [Read More](https://medium.com/p/79832916cfcd) |
 | Wed, 23 Jul 2025 16:22:18 GMT | The Ethics of AI in Fraud Detection: Risks of False Positives and Network Bias | Ajay Singh | [Read More](https://medium.com/p/80c8a25b8c42) |
 | Wed, 23 Jul 2025 16:21:47 GMT | Best Techambitions Private Limited — Company | Karan | [Read More](https://medium.com/p/42f399cfde49) |
+| Wed, 23 Jul 2025 16:15:25 GMT | Eufy Floodlight Camera E340 REVIEW Smart Security Meets Reliable Lighting — MacSources | MacSources | [Read More](https://medium.com/p/9babe0feeba9) |
 | Wed, 23 Jul 2025 16:10:48 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/5be57beda5a9) |
 | Wed, 23 Jul 2025 16:07:12 GMT | Wazuh Agent Deployment using Ansible | Aravind Raja | [Read More](https://medium.com/p/95325b1cf05b) |
 | Wed, 23 Jul 2025 16:06:25 GMT | Office Hours: How We Fixed a Deployment Bug Where Changes Weren’t Reflecting on Dev Server | Farhan | [Read More](https://medium.com/p/18dd96576647) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 12:42:44 GMT | Protect Your Business: Why Region Security Guarding is Your Trusted Security Partner in Birmingham | Region Security | [Read More](https://medium.com/p/6a846f6c17e5) |
 | Wed, 23 Jul 2025 12:33:18 GMT | UNDERSTANDING LAYER TWO PROTOCOL FOR CCNA — PART 2 [one] | Joanorifha | [Read More](https://medium.com/p/ab567010c9ff) |
 | Wed, 23 Jul 2025 12:31:48 GMT | What is a Database? How Android & Web Apps Remember Your Information | Jaahnavi | [Read More](https://medium.com/p/0b43a96098d9) |
-| Wed, 23 Jul 2025 12:31:19 GMT | Inside the SharePoint Zero-Day Fallout: Why Modern Pen Testing Must Simulate Nation-State Tactics. | Inforsecpro | [Read More](https://medium.com/p/b2fc7e99c680) |
-| Wed, 23 Jul 2025 12:30:14 GMT | Sorry, I write this for you. | Sweet Caffeine | [Read More](https://medium.com/p/b42d74346eb1) |
-| Wed, 23 Jul 2025 12:27:17 GMT | Girl From Hinge – Poem | Lorenzo Persi | [Read More](https://medium.com/p/13676f9b9ac6) |
-| Wed, 23 Jul 2025 12:26:06 GMT | What If You Could Backup and Restore Your Memories Like a Hard Drive? | Hafizbilaltariq | [Read More](https://medium.com/p/6ff451105cf2) |
-| Wed, 23 Jul 2025 12:22:37 GMT | Is it possible to withdraw my money from Smartstp? | Desmond | [Read More](https://medium.com/p/0d0f128e8a8a) |
-| Wed, 23 Jul 2025 12:13:09 GMT | Network Disk Forensics — Forensics — DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/d5284ebe5155) |
-| Wed, 23 Jul 2025 12:12:42 GMT | Data Breach — The main plan to escape from it. | Juarait Digital | [Read More](https://medium.com/p/afb63475ac28) |
-| Wed, 23 Jul 2025 12:11:48 GMT | What Is a Passkey? | Timonéofearth | [Read More](https://medium.com/p/81ed2dbc81ea) |
-| Wed, 23 Jul 2025 12:11:10 GMT | Top 10 Moves for Mega Dragonite in Competitive Battles | webytize agency | [Read More](https://medium.com/p/cb87be7263fc) |
-| Wed, 23 Jul 2025 12:10:19 GMT | Breaking Down My Favorite Python Automation Stack | Rimshakashif | [Read More](https://medium.com/p/842304516605) |
