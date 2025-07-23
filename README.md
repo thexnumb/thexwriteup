@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 14:39:26 GMT | The Daily Tech Digest: 23 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/897f35d4f74f) |
+| Wed, 23 Jul 2025 14:36:44 GMT | WAF bypass technique — Part 2 | yee-yore | [Read More](https://medium.com/p/5fc08a05a868) |
+| Wed, 23 Jul 2025 14:34:05 GMT | What does Cybersecurity Awareness Month mean to DefenseArk? | Kalpitha S | [Read More](https://medium.com/p/f16d33c91620) |
+| Wed, 23 Jul 2025 14:32:18 GMT | API Radar: A Real-Time System for Detecting Leaked API Keys on GitHub | Zaim Abbasi | [Read More](https://medium.com/p/9c0b507044db) |
+| Wed, 23 Jul 2025 14:31:53 GMT | As someone who thrives on understanding the delicate nuances of human weakness, I can confidently… | Henry Stevenson | [Read More](https://medium.com/p/a523798b23d6) |
+| Wed, 23 Jul 2025 14:31:46 GMT | Infrastructure Part II: Cause for Concern? | Kalpitha S | [Read More](https://medium.com/p/b129ad70c1fc) |
+| Wed, 23 Jul 2025 14:31:39 GMT | SMT Program Training Notes | Sarah | [Read More](https://medium.com/p/bb820946062c) |
+| Wed, 23 Jul 2025 14:30:06 GMT | The Smart Parent’s Guide to Earning Cash Back on Kids’ Tuition | Cayuga | [Read More](https://medium.com/p/d71f8723e1d4) |
 | Wed, 23 Jul 2025 14:22:22 GMT | ToolShell: The Critical SharePoint Vulnerability You Need to Patch Now | Lemon | [Read More](https://medium.com/p/4ce870dae005) |
+| Wed, 23 Jul 2025 14:21:41 GMT | Fluffy Hack the Box Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/3aae46f1ecf3) |
 | Wed, 23 Jul 2025 14:21:06 GMT | SOC Nedir? Güvenliğin Kalbi Olan Security Operations Center’ı Anlamak | FatihUYSAL | [Read More](https://medium.com/p/ac3b4923d5df) |
 | Wed, 23 Jul 2025 14:12:55 GMT | The One Skill That Makes You Linux Pro: Real-Life Linux Troubleshooting | Karthick Dkk | [Read More](https://medium.com/p/5b1cb5b9f850) |
 | Wed, 23 Jul 2025 14:08:24 GMT | Samsung Future Tech Innovation Unlocking the Next Generation of Digital Life | Info Rx | [Read More](https://medium.com/p/8263923aa7e3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 10:19:55 GMT | The July 2025 SharePoint Exploit: A Wake-Up Call for Cloud-First Security | Piya | [Read More](https://medium.com/p/7fc1c863a716) |
 | Wed, 23 Jul 2025 10:18:21 GMT | Who needs attack surface management services most? | Ziya Zoe | [Read More](https://medium.com/p/c20717ffbb4a) |
 | Wed, 23 Jul 2025 10:15:13 GMT | Pakistan Issues Warning Over Rising Honey Trap Scams Disguised as Freelance Jobs | Zeeshan Ali Shah | [Read More](https://medium.com/p/a5231ae21c33) |
-| Wed, 23 Jul 2025 10:14:03 GMT | Port Management Information Systems Compared: How Envision PMIS Stacks Up Against Alternatives | P Harshavardhan | [Read More](https://medium.com/p/68bffe6ea286) |
-| Wed, 23 Jul 2025 10:13:41 GMT | ️‍♀What is Digital Forensics? A Beginner’s Guide to Cyber Investigations | Anujsehrawat | [Read More](https://medium.com/p/d61a2fbc4819) |
-| Wed, 23 Jul 2025 10:12:46 GMT | Decisiones estratégicas — Parte 1: Hazlo Fácil | Jonatan Vicente | [Read More](https://medium.com/p/8f899c23bead) |
-| Wed, 23 Jul 2025 10:12:22 GMT | Strategic Decisions — Part 1: Make It Easy | Jonatan Vicente | [Read More](https://medium.com/p/38f21c1f2adb) |
-| Wed, 23 Jul 2025 10:12:19 GMT | Data Protection by NextGen2AI — Safeguarding Your Digital Future | NextGen2AI | [Read More](https://medium.com/p/15070096bce5) |
-| Wed, 23 Jul 2025 10:10:44 GMT | Best Port Management Software in 2025: Envision PMIS vs Alternatives | P Harshavardhan | [Read More](https://medium.com/p/c8fe6c9d9f6f) |
-| Wed, 23 Jul 2025 10:05:36 GMT | What is Network Penetration Testing? A Complete Guide for 2025 | West Advanced Technologies Inc | [Read More](https://medium.com/p/e06436e79083) |
-| Wed, 23 Jul 2025 10:00:37 GMT | Inside the Endpoint: Tracking Logs, Threats, and Anomalies. | Samuel Jack | [Read More](https://medium.com/p/2c4099a286ae) |
-| Wed, 23 Jul 2025 09:55:36 GMT | Warzone 1 TryHackMe Room | Krishna | [Read More](https://medium.com/p/4840eb4f7aaa) |
