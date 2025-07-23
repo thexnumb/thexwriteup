@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 12:42:44 GMT | Protect Your Business: Why Region Security Guarding is Your Trusted Security Partner in Birmingham | Region Security | [Read More](https://medium.com/p/6a846f6c17e5) |
+| Wed, 23 Jul 2025 12:33:18 GMT | UNDERSTANDING LAYER TWO PROTOCOL FOR CCNA — PART 2 [one] | Joanorifha | [Read More](https://medium.com/p/ab567010c9ff) |
+| Wed, 23 Jul 2025 12:31:48 GMT | What is a Database? How Android & Web Apps Remember Your Information | Jaahnavi | [Read More](https://medium.com/p/0b43a96098d9) |
+| Wed, 23 Jul 2025 12:31:19 GMT | Inside the SharePoint Zero-Day Fallout: Why Modern Pen Testing Must Simulate Nation-State Tactics. | Inforsecpro | [Read More](https://medium.com/p/b2fc7e99c680) |
+| Wed, 23 Jul 2025 12:30:14 GMT | Sorry, I write this for you. | Sweet Caffeine | [Read More](https://medium.com/p/b42d74346eb1) |
+| Wed, 23 Jul 2025 12:27:17 GMT | Girl From Hinge – Poem | Lorenzo Persi | [Read More](https://medium.com/p/13676f9b9ac6) |
+| Wed, 23 Jul 2025 12:26:06 GMT | What If You Could Backup and Restore Your Memories Like a Hard Drive? | Hafizbilaltariq | [Read More](https://medium.com/p/6ff451105cf2) |
+| Wed, 23 Jul 2025 12:22:37 GMT | Is it possible to withdraw my money from Smartstp? | Desmond | [Read More](https://medium.com/p/0d0f128e8a8a) |
+| Wed, 23 Jul 2025 12:13:09 GMT | Network Disk Forensics — Forensics — DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/d5284ebe5155) |
+| Wed, 23 Jul 2025 12:12:42 GMT | Data Breach — The main plan to escape from it. | Juarait Digital | [Read More](https://medium.com/p/afb63475ac28) |
+| Wed, 23 Jul 2025 12:11:48 GMT | What Is a Passkey? | Timonéofearth | [Read More](https://medium.com/p/81ed2dbc81ea) |
+| Wed, 23 Jul 2025 12:11:10 GMT | Top 10 Moves for Mega Dragonite in Competitive Battles | webytize agency | [Read More](https://medium.com/p/cb87be7263fc) |
+| Wed, 23 Jul 2025 12:10:19 GMT | Breaking Down My Favorite Python Automation Stack | Rimshakashif | [Read More](https://medium.com/p/842304516605) |
+| Wed, 23 Jul 2025 12:10:15 GMT | n8n, Why Your First Workflow Should Be a Firewall Rule | J Whorley | [Read More](https://medium.com/p/a267f17f6f72) |
+| Wed, 23 Jul 2025 12:06:53 GMT | Why Privacy by Design Is Crucial for Modern SaaS Platforms | sanya | [Read More](https://medium.com/p/e220926c5b39) |
+| Wed, 23 Jul 2025 12:06:34 GMT | Just Breached: U.S. Nuclear Weapons Agency Hacked in Microsoft Zero-Day | Stefan Markov | [Read More](https://medium.com/p/5d205dcd37a5) |
+| Wed, 23 Jul 2025 11:49:28 GMT | TryHackMe: Uncovering a Kernel Backdoor in “Sneaky Patch” | Aravind S V | [Read More](https://medium.com/p/3158f3bbe16a) |
+| Wed, 23 Jul 2025 11:48:42 GMT | Afghanistan and Pakistan sign Preferential Trade Agreement | Gulalai Jana | [Read More](https://medium.com/p/77c3aa46ddf3) |
 | Wed, 23 Jul 2025 11:40:13 GMT | From Benchmarks to Blind Spots: A Holistic Look at LLM Confidentiality | Berend Watchus | [Read More](https://medium.com/p/7bcd9f3bead1) |
 | Wed, 23 Jul 2025 11:35:31 GMT | Email Breach : Check If Your Email Was Breached Instantly with WeScan.live | WeScan Journal | [Read More](https://medium.com/p/9efaee91c919) |
 | Wed, 23 Jul 2025 11:31:18 GMT | Exploiting Linux Capabilities: CAP_SYS_MODULE | Redfox Security | [Read More](https://medium.com/p/055cac48caab) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 08:18:12 GMT | Understanding Privacy Impact Assessment (PIA): A Critical Tool for Corporate Data Responsibility | Isabelle Cheng | [Read More](https://medium.com/p/b99959081134) |
 | Wed, 23 Jul 2025 08:16:42 GMT | TryHackMe “Corridor” Walkthrough | The LazyTechBro | [Read More](https://medium.com/p/d78b7eba05f9) |
 | Wed, 23 Jul 2025 08:10:19 GMT | How to Securely Handle Production Credentials in PHP (Without Exposing Them in Git) | Roman Huliak | [Read More](https://medium.com/p/237f4fd5cf91) |
-| Wed, 23 Jul 2025 08:07:45 GMT | Games24x7: Where Trust Meets Gameplay | Games24x7 Blogs | [Read More](https://medium.com/p/f477bb8715f3) |
-| Wed, 23 Jul 2025 08:05:49 GMT | The Rising Heat: How a Simple Water Experiment Revealed the Invisible Power Shaping Our World | Leo Daniel | [Read More](https://medium.com/p/bbda6f2b6f7e) |
-| Wed, 23 Jul 2025 08:01:52 GMT | Code with Fun: A Developer’s Ultimate Hack to Build, Chill, and Thrive | The NewGenCoder | [Read More](https://medium.com/p/97a54387a57d) |
-| Wed, 23 Jul 2025 07:59:51 GMT | Real Yield, Real Security: Why Haven1 Might Be DeFi’s Safest Bet Yet | Victor | [Read More](https://medium.com/p/ea20ca6ed764) |
-| Wed, 23 Jul 2025 07:58:00 GMT | Hosting a Hidden Website on the Dark Web using Tor and XAMPP (Windows) | Soorya A P | [Read More](https://medium.com/p/65d8317e4240) |
-| Wed, 23 Jul 2025 07:53:15 GMT | Behind CVE-2025–26206: What I Found, How I Found It, and Why It Matters | SIBHI | [Read More](https://medium.com/p/dc37cd05e784) |
-| Wed, 23 Jul 2025 07:52:36 GMT | 2. Setting Up the Ultimate Hacker’s Lab (Free Tools Only) | Abhijeet kumawat | [Read More](https://medium.com/p/1f0debb37af1) |
-| Wed, 23 Jul 2025 07:52:08 GMT | Advance Your BA Career with Expert-Led CBAP Certification Training | Certocean | [Read More](https://medium.com/p/4424b9ce5e35) |
-| Wed, 23 Jul 2025 07:50:13 GMT | CVE-2025–54309: CrushFTP Unprotected Alternate Channel Vulnerability (AS2 Validation Bypass) | Samet Yılmaz Temel | [Read More](https://medium.com/p/648f9b9d8aa6) |
-| Wed, 23 Jul 2025 07:48:43 GMT | DownUnderCTF Write-up: corporate-cliche (PWN) | codebreaker | [Read More](https://medium.com/p/82e04df118c2) |
-| Wed, 23 Jul 2025 07:47:56 GMT | Prisma SD-WAN is Here to Secure Your Future — Claim Your Solution Today! | Juara IT Solutions | [Read More](https://medium.com/p/6fc467f1afb0) |
-| Wed, 23 Jul 2025 07:44:41 GMT | Safeline + Ingress-nginx: WAF Integration Guide for K8s | Quella | [Read More](https://medium.com/p/23739bab8e43) |
-| Wed, 23 Jul 2025 07:41:01 GMT | Every Business Needs an IT Strategy, Not Just IT Support | Junoxen | [Read More](https://medium.com/p/2042ee146a76) |
-| Wed, 23 Jul 2025 07:35:48 GMT | Why Arkime is a Game-Changer for Network Forensics (and Why It’s Not Just Another Wireshark) | Dean | [Read More](https://medium.com/p/c653406eae45) |
-| Wed, 23 Jul 2025 07:33:04 GMT | I Spent the Night Building a Home Cybersecurity Lab (and Breaking Into My Own Fake Website) | Tanner Sexton | [Read More](https://medium.com/p/f8ec753f7831) |
-| Wed, 23 Jul 2025 07:29:28 GMT | Best Digital Cyber Forensics Investigation Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/32afcfe90965) |
-| Wed, 23 Jul 2025 07:26:13 GMT | AI — The Phantom Menace | Bozhan Bozhkov | [Read More](https://medium.com/p/3afb8c05a665) |
-| Wed, 23 Jul 2025 07:25:28 GMT | ️IDN Homograph Attack!! | Arpit Dadhich | [Read More](https://medium.com/p/2a0468e86bf2) |
