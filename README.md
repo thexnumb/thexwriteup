@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 07:35:48 GMT | Why Arkime is a Game-Changer for Network Forensics (and Why It’s Not Just Another Wireshark) | Dean | [Read More](https://medium.com/p/c653406eae45) |
+| Wed, 23 Jul 2025 07:33:04 GMT | I Spent the Night Building a Home Cybersecurity Lab (and Breaking Into My Own Fake Website) | Tanner Sexton | [Read More](https://medium.com/p/f8ec753f7831) |
+| Wed, 23 Jul 2025 07:29:28 GMT | Best Digital Cyber Forensics Investigation Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/32afcfe90965) |
+| Wed, 23 Jul 2025 07:26:13 GMT | AI — The Phantom Menace | Bozhan Bozhkov | [Read More](https://medium.com/p/3afb8c05a665) |
 | Wed, 23 Jul 2025 07:25:28 GMT | ️IDN Homograph Attack!! | Arpit Dadhich | [Read More](https://medium.com/p/2a0468e86bf2) |
 | Wed, 23 Jul 2025 07:15:05 GMT | Where the Battle Begins: Modern Endpoint Defense | Rahul Balaskandan | [Read More](https://medium.com/p/326849b9147a) |
 | Wed, 23 Jul 2025 07:13:57 GMT | “การเรียก API 2 รอบของ Browser โดยที่เราไม่ได้ตั้งค่าเอง” | WantToLearning | [Read More](https://medium.com/p/73172252762b) |
@@ -109,7 +113,3 @@ Resolution | Kautsar Jilan Roqiyah Nur Amira | [Read More](https://medium.com/p/
 | Wed, 23 Jul 2025 00:36:29 GMT | Rate Limiting: Your Secret Weapon Against Abuse (And Why Your API Is Probably Getting Pwned Right… | Rizqi Mulki | [Read More](https://medium.com/p/ed352c0a4f29) |
 | Wed, 23 Jul 2025 00:30:36 GMT | How to Store Passwords Safely in 2025: The Ultimate Guide That Could Save Your Digital Life | Rizqi Mulki | [Read More](https://medium.com/p/eb4eef5b0b5d) |
 | Wed, 23 Jul 2025 00:27:38 GMT | Azure DevOps Unlocked: Your Complete DevOps Roadmap | Guven Boyraz | [Read More](https://medium.com/p/aa9d90084a8a) |
-| Wed, 23 Jul 2025 00:26:58 GMT | Corporate Natural Selection in the SOC: Where L1s Are Born to Be Eaten | Serhan Eraslan | [Read More](https://medium.com/p/41e90ec13eed) |
-| Wed, 23 Jul 2025 00:01:49 GMT | Security Misconfiguration (OWASP A05): Hacking and Bug Bounty Guide | JPablo13 | [Read More](https://medium.com/p/d45c3a4438ae) |
-| Tue, 22 Jul 2025 23:46:48 GMT | Hack The Box - Dog | Pedro P Montalvo | [Read More](https://medium.com/p/585f2e313af6) |
-| Tue, 22 Jul 2025 23:39:30 GMT | CVE-2025–37103: The Silent Killer Vulnerability in Your Network | Cyber-AppSec | [Read More](https://medium.com/p/e4a84ff07700) |
