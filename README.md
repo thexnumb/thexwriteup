@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 17:43:38 GMT | Sam Altman Warns AI Can Now Defeat Bank Security and Steal ‘Everyone’s Money’ | Coby Mendoza | [Read More](https://medium.com/p/817fa22248fc) |
+| Wed, 23 Jul 2025 17:36:39 GMT | How AI Makes Phishing Easier Than Ever (And What You Can Do About It) | Mark Puckett | [Read More](https://medium.com/p/635afb85b5d1) |
+| Wed, 23 Jul 2025 17:36:14 GMT | Corriger sans chercher la cause, c’est mal! | Patrick Boucher | [Read More](https://medium.com/p/a052d031addc) |
+| Wed, 23 Jul 2025 17:28:32 GMT | Coyote Malware Exploits Microsoft UI Automation to Steal Credentials in the Wild | Jasmitha | [Read More](https://medium.com/p/2db1c631babc) |
+| Wed, 23 Jul 2025 17:24:23 GMT | 3. Terimler ve Tanımların Arkasındaki Güç | AYŞE KIZILAY | [Read More](https://medium.com/p/76426a7b9317) |
+| Wed, 23 Jul 2025 17:22:53 GMT | Say Goodbye to Spam: Best Spy Apps for Blocking Unknown Callers | Narjis Batool | [Read More](https://medium.com/p/9234c9afade5) |
+| Wed, 23 Jul 2025 17:22:22 GMT | Next Generation Firewall Management Service: Smarter, Faster, Safer Network Protection | SafeAeon Inc. | [Read More](https://medium.com/p/a296f33e8343) |
 | Wed, 23 Jul 2025 17:20:51 GMT | Deep Packet Capture in Python: A Complete Guide to Sniffing Techniques | Ahmed Sobhi Ali | [Read More](https://medium.com/p/54d650e403e1) |
 | Wed, 23 Jul 2025 17:16:50 GMT | ybeCybersecurity Awareness Training: Your First Line of Defense Starts with People | SafeAeon Inc. | [Read More](https://medium.com/p/008c381f5d95) |
 | Wed, 23 Jul 2025 17:13:49 GMT | Is your digital privacy truly in your hands? | Abith Ahamed | [Read More](https://medium.com/p/8ef1ea1c094c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 13:41:48 GMT | I Scraped 1,200 Data Science Job Listings. Here’s What Companies Actually Want in 2025. | Girish Dhamane | [Read More](https://medium.com/p/543b5930cd0b) |
 | Wed, 23 Jul 2025 13:36:33 GMT | I Hacked My Own Account with OAuth Misconfiguration | Ibtissam hammadi | [Read More](https://medium.com/p/1a0223fb5002) |
 | Wed, 23 Jul 2025 13:32:39 GMT | A Comprehensive Guide to Netcat (nc) | Rushikesh G | [Read More](https://medium.com/p/7f6cd202f2dc) |
-| Wed, 23 Jul 2025 13:30:54 GMT | I will write a cybersecurity, grc consultant, cryptography engineer, and a cissp resume | Adebisitijani | [Read More](https://medium.com/p/87c16e4cf619) |
-| Wed, 23 Jul 2025 13:30:16 GMT | I Didn’t Have the Answer. I Still Had to Show Up. | Mario Mejía | [Read More](https://medium.com/p/eb6467b9c267) |
-| Wed, 23 Jul 2025 13:25:06 GMT | Gerçek Bir E-Posta Spoofing Vakası: Teknik Analiz ve Korunma Yöntemleri | Sami Özcan | [Read More](https://medium.com/p/c214d757403e) |
-| Wed, 23 Jul 2025 13:20:54 GMT | Buy Expert Threat Intelligence Reports Today | Software Analyst Cyber Research | [Read More](https://medium.com/p/d212abe95273) |
-| Wed, 23 Jul 2025 13:16:52 GMT | Menganalisis Kerentanan Rails Debug Mode pada Ruby on Rails | Ahmadfaizabdillah | [Read More](https://medium.com/p/c9aa6e0e4967) |
-| Wed, 23 Jul 2025 13:16:44 GMT | Cloud Security Challenges: Safeguarding the Sky of Modern Computing | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/31580c997fe7) |
-| Wed, 23 Jul 2025 13:15:54 GMT | Why Modern Web Apps Are So Vulnerable | Jachimike Onwuchekwa | [Read More](https://medium.com/p/c4c3d820041b) |
