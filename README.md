@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 06:25:46 GMT | Tech Meets Creativity: How 3 Women Used Digital Tools to Turn Their Hobbies into Six-Figure… | sana irshad | [Read More](https://medium.com/p/ac80bc18be47) |
+| Wed, 23 Jul 2025 06:21:50 GMT | Easy $370 Bug Bounty Income - A Must-Try for Beginners | Rashadul Islam | [Read More](https://medium.com/p/a87f73fc0fcc) |
+| Wed, 23 Jul 2025 06:16:53 GMT | Future-Proof your Security in Kuwait: Access Control | expbhavya | [Read More](https://medium.com/p/c8001a29304f) |
+| Wed, 23 Jul 2025 06:16:19 GMT | Sibuk Bukan Alasan! Tetap Sehat Biar Main Game Nggak Ngedrop | KASKUSGAMING_DOLLAR21 | [Read More](https://medium.com/p/298c555a014d) |
+| Wed, 23 Jul 2025 06:10:08 GMT | How I Got a $250 Premium Plan for Just $12 — No Coupons, No Hacks, Just Logic | Zuksh | [Read More](https://medium.com/p/b271c4de74e6) |
+| Wed, 23 Jul 2025 06:09:51 GMT | Lookup - TryHackMe Room | Puniyatjangir | [Read More](https://medium.com/p/1cd4b31abaab) |
+| Wed, 23 Jul 2025 06:09:31 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/cb9e986d1c5d) |
+| Wed, 23 Jul 2025 06:06:33 GMT | Hospital Visitor Management: Efficient Patient Access in Kuwait | expbhavya | [Read More](https://medium.com/p/a6b855cb80b9) |
+| Wed, 23 Jul 2025 06:04:37 GMT | GDPR, CCPA, and Beyond — Staying Ahead in Data Privacy Compliance | CyRAACS | [Read More](https://medium.com/p/5a9678e82585) |
+| Wed, 23 Jul 2025 06:04:16 GMT | Click with Caution: Outsmarting Cyber Threats in a Digital World | Suhana Singhvi | [Read More](https://medium.com/p/9d635a883cdc) |
+| Wed, 23 Jul 2025 06:01:02 GMT | “JS is the New S3”: How I Mined Tokens, PII & DevOps Secrets From JavaScript for Bounties | Narendar Battula (nArEn) | [Read More](https://medium.com/p/13b6bdf1b829) |
+| Wed, 23 Jul 2025 06:00:56 GMT | Cybersécurité en Suisse : actualités du 23 juil 2025 | Marc Barbezat | [Read More](https://medium.com/p/8ab7e47d3445) |
+| Wed, 23 Jul 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Jul 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6f26cc86d081) |
+| Wed, 23 Jul 2025 06:00:24 GMT | SSRF to S3 to Shell: The One-Key Takeover That Started With a Misconfigured Proxy | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c3149003630c) |
+| Wed, 23 Jul 2025 05:57:17 GMT | Voice Assistant Are Always Listening to You | Rahul Mishra | [Read More](https://medium.com/p/dbe63417f41e) |
+| Wed, 23 Jul 2025 05:55:09 GMT | They Never See It Coming: Cybersecurity Lessons from the Shadows | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/dcdf46a09948) |
+| Wed, 23 Jul 2025 05:53:47 GMT | Understanding India’s Cybersecurity Policy Frameworks: IT Act, National Cybersecurity Policy, and… | Rakshak online | [Read More](https://medium.com/p/c8d9e91b881d) |
+| Wed, 23 Jul 2025 05:51:25 GMT | Safeguarding India’s Digital Landscape | Rakshak online | [Read More](https://medium.com/p/c8e79c04073b) |
 | Wed, 23 Jul 2025 05:48:23 GMT | Securing India’s Cyberspace from Quantum Techniques | Rakshak online | [Read More](https://medium.com/p/93092be4bd08) |
 | Wed, 23 Jul 2025 05:48:03 GMT | Shodan Sniper: How I Found 3 Bugs Without Touching a Browser | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1844d3f756f6) |
 | Wed, 23 Jul 2025 05:47:17 GMT | From Insecure Deserialization to Root Access: A Step-by-Step CTF Infra Challenge Writeup | Amreal Abhishek | [Read More](https://medium.com/p/ca657e66945f) |
@@ -95,21 +113,3 @@ Resolution | Kautsar Jilan Roqiyah Nur Amira | [Read More](https://medium.com/p/
 | Tue, 22 Jul 2025 21:48:36 GMT | Elastic Stack SIEM Home Lab using Kali Linux | Sharaden Cole | [Read More](https://medium.com/p/ebb22db7686f) |
 | Tue, 22 Jul 2025 21:32:52 GMT | Insufficient Access Controls in GraphQL Enables Unauthorized User Enumeration | Bassemwanies | [Read More](https://medium.com/p/400d24e40208) |
 | Tue, 22 Jul 2025 21:30:26 GMT | Quantum Computing Revolution: What It Is and Why It Matters Now | Olatunde Aboaba | [Read More](https://medium.com/p/e3ce9ffc4154) |
-| Tue, 22 Jul 2025 21:20:28 GMT | AIntivirus: John McAfee’s Fight For Digital Security | AIntivirus | [Read More](https://medium.com/p/a5180d3bd9d1) |
-| Tue, 22 Jul 2025 21:19:14 GMT | The Day My Neighbor Lost $ 1750 Because of One Innocent Click | Amrik Singh Hanjra | [Read More](https://medium.com/p/7ef519c198b5) |
-| Tue, 22 Jul 2025 21:10:52 GMT | Invisible Operators: The Psychology of the Chameleon Asset | L.Serrone | [Read More](https://medium.com/p/7db2523a1c64) |
-| Tue, 22 Jul 2025 21:02:01 GMT | ️ Diary of an Ex-Black Hat – Day 2: What Makes a Hacker “Go Dark”? | Untold Story of I | [Read More](https://medium.com/p/f4bfeaf3a490) |
-| Tue, 22 Jul 2025 20:55:29 GMT | Android Penetration Testing: Complete Beginner to Advanced Guide (Part 1)— Getting Started / Basic… | AG_Notes | [Read More](https://medium.com/p/aa582c8f8759) |
-| Tue, 22 Jul 2025 20:54:18 GMT | TheHackersLabs — Back To The Future 1 [Write-Up] | APS88 | [Read More](https://medium.com/p/0909cc0375a0) |
-| Tue, 22 Jul 2025 20:51:13 GMT | Fixing Black Arch Invalid Signatures | 0xchilli | [Read More](https://medium.com/p/6ce2d513e60e) |
-| Tue, 22 Jul 2025 20:48:19 GMT | The Pulse of IT in Today’s World: Facts, Figures & the Future | Missumehani | [Read More](https://medium.com/p/e90f59c26999) |
-| Tue, 22 Jul 2025 20:47:22 GMT | Approaching the Age of Superintelligence | M. Yanuar Anshori | [Read More](https://medium.com/p/5c19527a59c3) |
-| Tue, 22 Jul 2025 20:47:13 GMT | A Forgotten Domain, a Hidden SSRF: How I Followed a Gut Feeling and Hit Gold | Rutvik Kalkumbe | [Read More](https://medium.com/p/2dc17f743c00) |
-| Tue, 22 Jul 2025 20:41:58 GMT | $2,000 Bounty: Exploiting a Memory Corruption in PHP’s | Monika sharma | [Read More](https://medium.com/p/5b7b384d81de) |
-| Tue, 22 Jul 2025 20:41:26 GMT | $1,121 Bounty: A Deep Dive into Crash.mkv | Monika sharma | [Read More](https://medium.com/p/2eab28c23064) |
-| Tue, 22 Jul 2025 20:34:43 GMT | burplabs: Automated python package for portswigger labs | Sneh bavarva | [Read More](https://medium.com/p/34f59a9184a2) |
-| Tue, 22 Jul 2025 20:33:56 GMT | “I Asked 7 Hackers How They’d Steal Your Data in 2024 — Here’s What They Told Me” | -Oladepo | [Read More](https://medium.com/p/8b563065c473) |
-| Tue, 22 Jul 2025 20:22:31 GMT | How I Won My First Web3 Hackathon Using Vibe Coding: Building DeFi Watchdog | Mohamedajguernoun | [Read More](https://medium.com/p/a39ddd05998c) |
-| Tue, 22 Jul 2025 20:13:28 GMT | From Remote Code Execution to Full System Compromise: A Real-World Exploitation Chain with… | Marcogiacobbe | [Read More](https://medium.com/p/abcf9c4ee1e9) |
-| Tue, 22 Jul 2025 20:12:46 GMT | You Are the Product: Surveillance Is the Price of ‘Free’ | Naman Barola | [Read More](https://medium.com/p/7a51a273eed3) |
-| Tue, 22 Jul 2025 20:07:04 GMT | How I Found My First Open Redirect During Recon + TIPS! | Tenebris Venator | [Read More](https://medium.com/p/e36f2a5b1a31) |
