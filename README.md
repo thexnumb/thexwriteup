@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 01:31:46 GMT | Someone Just Logged In Without a Password-This 20-Year-Old Hack Still Works | ven coding | [Read More](https://medium.com/p/1e7797242c62) |
+| Wed, 23 Jul 2025 01:27:09 GMT | Active Directory Penetration Testing (What is AD? Common attacks) | 0trc | [Read More](https://medium.com/p/0b4e9f6e4f6e) |
+| Wed, 23 Jul 2025 01:25:31 GMT | How I Got a Free OSCP Exam Directly from OffSec | Pak Cyberbot | [Read More](https://medium.com/p/c54e562121c5) |
+| Wed, 23 Jul 2025 01:21:51 GMT | When My Body Feels Like a Burden, But Life Keeps Asking for More | Zibs Writes | [Read More](https://medium.com/p/7186ad6605c3) |
+| Wed, 23 Jul 2025 01:20:24 GMT | 10 Prerequisites Before Your First Bug Bounty (And the Tools to Get You Started) | Travis Ray Caverhill | [Read More](https://medium.com/p/9ad3635189b1) |
+| Wed, 23 Jul 2025 01:01:31 GMT | Day 58: Full circle | Nile Okomo | [Read More](https://medium.com/p/8891ad0bce4a) |
+| Wed, 23 Jul 2025 00:57:14 GMT | Installing Kali Linux | 3Graces CC | [Read More](https://medium.com/p/c27fc1de432b) |
+| Wed, 23 Jul 2025 00:51:58 GMT | Quantum Threats Are Coming. Is Your Blockchain Ready? | Aliciasierra | [Read More](https://medium.com/p/17782fb72944) |
+| Wed, 23 Jul 2025 00:50:56 GMT | Setting up pfSense | 3Graces CC | [Read More](https://medium.com/p/eeee77c1b46b) |
+| Wed, 23 Jul 2025 00:43:14 GMT | Anatomy of a Web App Breach (And How to Prevent It): The $4.7 Million Mistake Every Developer Makes | Rizqi Mulki | [Read More](https://medium.com/p/c202000b286f) |
+| Wed, 23 Jul 2025 00:36:29 GMT | Rate Limiting: Your Secret Weapon Against Abuse (And Why Your API Is Probably Getting Pwned Right… | Rizqi Mulki | [Read More](https://medium.com/p/ed352c0a4f29) |
+| Wed, 23 Jul 2025 00:30:36 GMT | How to Store Passwords Safely in 2025: The Ultimate Guide That Could Save Your Digital Life | Rizqi Mulki | [Read More](https://medium.com/p/eb4eef5b0b5d) |
+| Wed, 23 Jul 2025 00:27:38 GMT | Azure DevOps Unlocked: Your Complete DevOps Roadmap | Guven Boyraz | [Read More](https://medium.com/p/aa9d90084a8a) |
+| Wed, 23 Jul 2025 00:26:58 GMT | Corporate Natural Selection in the SOC: Where L1s Are Born to Be Eaten | Serhan Eraslan | [Read More](https://medium.com/p/41e90ec13eed) |
+| Wed, 23 Jul 2025 00:01:49 GMT | Security Misconfiguration (OWASP A05): Hacking and Bug Bounty Guide | JPablo13 | [Read More](https://medium.com/p/d45c3a4438ae) |
+| Tue, 22 Jul 2025 23:46:48 GMT | Hack The Box - Dog | Pedro P Montalvo | [Read More](https://medium.com/p/585f2e313af6) |
+| Tue, 22 Jul 2025 23:39:30 GMT | CVE-2025–37103: The Silent Killer Vulnerability in Your Network | Cyber-AppSec | [Read More](https://medium.com/p/e4a84ff07700) |
 | Tue, 22 Jul 2025 23:19:30 GMT | Let’s Defend: 89 — SOC142 — Multiple HTTP 500 Response - Writeup | EPereda | [Read More](https://medium.com/p/ee02ddc1827c) |
 | Tue, 22 Jul 2025 23:18:51 GMT | Let’s Defend: 87 — SOC101 — Phishing Mail Detected - Writeup | EPereda | [Read More](https://medium.com/p/a5ee6b8ec9c4) |
 | Tue, 22 Jul 2025 23:18:32 GMT | Let’s Defend: 92 — SOC145 — Ransomware Detected - Writeup | EPereda | [Read More](https://medium.com/p/bd77b15a854d) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 17:57:58 GMT | CEH from Zero to ….. | Sandeep | [Read More](https://medium.com/p/7fb3595b0836) |
 | Tue, 22 Jul 2025 17:53:37 GMT | DAY 22 — CTF #5: Operation Black Echo | Jinay | [Read More](https://medium.com/p/265dab564a3c) |
 | Tue, 22 Jul 2025 17:45:42 GMT | How Russia’s Hacktivist Clown Car Caught Fire and Drove Off a Cliff | Christian Baghai | [Read More](https://medium.com/p/916e9d77f646) |
-| Tue, 22 Jul 2025 17:45:11 GMT | Cara Fix “message”: “SQLSTATE[HY000] [2002] No such file or directory (Connection: mysql, SQL… | Wahid | [Read More](https://medium.com/p/d1391820a88f) |
-| Tue, 22 Jul 2025 17:41:50 GMT | CVE-2025–50578: Exploiting Host Header Injection & Open Redirect in Heimdall Application | Juan Felipe Osorio Z | [Read More](https://medium.com/p/733afceff2ea) |
-| Tue, 22 Jul 2025 17:41:41 GMT | DOM-Based XSS via eval() in ajax-cart.js | Mostafa Ghanem | [Read More](https://medium.com/p/9cfd4e845ec1) |
-| Tue, 22 Jul 2025 17:40:25 GMT | “Fully Patched” Doesn’t Mean Safe: Inside the OVERSTEP Backdoor Attacks on SonicWall SMA | Rue | [Read More](https://medium.com/p/5793ec9aded6) |
-| Tue, 22 Jul 2025 17:35:26 GMT | TryHackMe — VulnNet: Roasted Writeup | RichardAlmeyda | [Read More](https://medium.com/p/3ca1163f8f70) |
-| Tue, 22 Jul 2025 17:33:00 GMT | I Wanted to Quit Cybersecurity. Here’s Why I Didn’t. | DarKVoicE | [Read More](https://medium.com/p/309b48a76f1b) |
-| Tue, 22 Jul 2025 17:26:36 GMT | Open Redirect Vulnerability (CTF-Based) | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/922fa40d36ff) |
-| Tue, 22 Jul 2025 17:25:29 GMT | From 429 to 200: From Bypass to Bounty using X-Overwriting Headers | tinopreter | [Read More](https://medium.com/p/e3a819d453a6) |
-| Tue, 22 Jul 2025 17:25:21 GMT | The Silent Guardian: A Cybersecurity Story in the Age of AI | Folayan Yemi | [Read More](https://medium.com/p/f7d11df8c0d6) |
-| Tue, 22 Jul 2025 17:22:49 GMT | Shef Solutions LLC | Shef Solutions LLC | [Read More](https://medium.com/p/e2fad39a94ba) |
-| Tue, 22 Jul 2025 17:22:13 GMT | How One Click Emptied My Business Bank Account | Aj | [Read More](https://medium.com/p/dffb69088112) |
-| Tue, 22 Jul 2025 17:21:58 GMT | Beginner Bug Hunters Must Try this Bug !! | TSxNINJA | [Read More](https://medium.com/p/f2adb9ddc74a) |
-| Tue, 22 Jul 2025 17:21:01 GMT | Case Study: How Poor Patching and Open Ports Led to the Equifax Breach | Goose Gustin | [Read More](https://medium.com/p/8491fd03e16d) |
-| Tue, 22 Jul 2025 17:17:14 GMT | My Ignored Update Cost Me $2,000 | Aj | [Read More](https://medium.com/p/c2da20baf9c0) |
-| Tue, 22 Jul 2025 17:16:37 GMT | Progress in Network Security — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/ff7cb917e665) |
-| Tue, 22 Jul 2025 17:12:20 GMT | A Penetration Tester’s Perspective on Mastering the PTES Methodology - The Complete 7-Phase… | YoungerSibling | [Read More](https://medium.com/p/4b8280560c79) |
-| Tue, 22 Jul 2025 17:07:58 GMT | Active directory — PART 1 | Aftab Raja | [Read More](https://medium.com/p/c8a09fd5a987) |
