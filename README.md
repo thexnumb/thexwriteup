@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 22:37:42 GMT | Inside the Mind of a Hacker: What Every Cybersecurity Pro Should Know | Steven McDaniel | [Read More](https://medium.com/p/2c8cdb47f4e9) |
+| Wed, 23 Jul 2025 22:33:01 GMT | CoinDCX Hacked for $44,000,000 | JayOnchain | [Read More](https://medium.com/p/e302cad0b5b8) |
+| Wed, 23 Jul 2025 22:31:47 GMT | What Is a Password manager? Why You Need One to Stay Secure Online | Timonéofearth | [Read More](https://medium.com/p/d5bb4e654f7c) |
+| Wed, 23 Jul 2025 22:28:36 GMT | 10 Things That Require Zero Talent But Build the Life of a Cybersecurity Professional | i4m_x | [Read More](https://medium.com/p/bc71fbea7f6d) |
+| Wed, 23 Jul 2025 22:26:59 GMT | Be a Man, They Said | Simon Fokt, PhD | [Read More](https://medium.com/p/e697aa9a61d9) |
+| Wed, 23 Jul 2025 22:24:17 GMT | How to Get My Email Off the Dark Web (And What to Do Next) | Akshay Chauhan | [Read More](https://medium.com/p/df6fadba6c71) |
+| Wed, 23 Jul 2025 22:23:14 GMT | ️‍♂️ Recon to Master: The Complete Bug Bounty Checklist | Vipul Sonule | [Read More](https://medium.com/p/239ecca2fd5c) |
+| Wed, 23 Jul 2025 22:22:59 GMT | $700 Bounty For Stored XSS | Monika sharma | [Read More](https://medium.com/p/19277a9c079b) |
+| Wed, 23 Jul 2025 22:17:12 GMT | Vulnerability Discovery & Remediation Using Nessus | Myshawne Stallings | [Read More](https://medium.com/p/8220c7ee8ff4) |
 | Wed, 23 Jul 2025 22:11:30 GMT | $5,300 Bounty: Shopify Admin XSS | Monika sharma | [Read More](https://medium.com/p/20459892cdc3) |
 | Wed, 23 Jul 2025 22:10:57 GMT | VulnLawyers - Pentest Report | device0 | [Read More](https://medium.com/p/8683d963b47f) |
 | Wed, 23 Jul 2025 22:10:01 GMT | SIM Swapping: The Silent Heist Behind Phone Number Hijacking | BlueTeam Bytes | [Read More](https://medium.com/p/7a570eaecfdd) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 16:21:47 GMT | Best Techambitions Private Limited — Company | Karan | [Read More](https://medium.com/p/42f399cfde49) |
 | Wed, 23 Jul 2025 16:15:25 GMT | Eufy Floodlight Camera E340 REVIEW Smart Security Meets Reliable Lighting — MacSources | MacSources | [Read More](https://medium.com/p/9babe0feeba9) |
 | Wed, 23 Jul 2025 16:10:48 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/5be57beda5a9) |
-| Wed, 23 Jul 2025 16:07:12 GMT | Wazuh Agent Deployment using Ansible | Aravind Raja | [Read More](https://medium.com/p/95325b1cf05b) |
-| Wed, 23 Jul 2025 16:06:25 GMT | Office Hours: How We Fixed a Deployment Bug Where Changes Weren’t Reflecting on Dev Server | Farhan | [Read More](https://medium.com/p/18dd96576647) |
-| Wed, 23 Jul 2025 16:04:45 GMT | ✅ 1. Medium Article Title | Syed Ihtesham | [Read More](https://medium.com/p/308cec8c472e) |
-| Wed, 23 Jul 2025 16:02:40 GMT | Passwords Are Over — Your Digital Glow-Up Has Arrived | Gnani Rahul | [Read More](https://medium.com/p/e9c9701990b1) |
-| Wed, 23 Jul 2025 16:00:20 GMT | picoCTF: DISKO 3 | löca | [Read More](https://medium.com/p/610466f68f7b) |
-| Wed, 23 Jul 2025 15:57:29 GMT | First Cybersecurity Journey Log | ClayGoat | [Read More](https://medium.com/p/8edfdba21d7e) |
-| Wed, 23 Jul 2025 15:57:16 GMT | Building a Token-Safe Chatbot with RESK-LLM and OpenAI | Arch | [Read More](https://medium.com/p/b6aed9735b54) |
-| Wed, 23 Jul 2025 15:57:12 GMT | 6. Bilgi Güvenliği Riski ile Nasıl Baş Edilir? | AYŞE KIZILAY | [Read More](https://medium.com/p/65f9addd8349) |
-| Wed, 23 Jul 2025 15:55:07 GMT | Preventing Prompt Injection with | Arch | [Read More](https://medium.com/p/0585fd460b9c) |
