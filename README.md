@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 11:20:00 GMT | When Smart Contracts Snap: What the $42M GMX Exploit Tells Us About Investing in AI x Blockchain | n8 Capital | [Read More](https://medium.com/p/9951c8a609b7) |
+| Wed, 23 Jul 2025 11:12:48 GMT | Cybersecurity Frameworks Cheat Sheet | Rui Fernandes | [Read More](https://medium.com/p/c2a22575eb45) |
+| Wed, 23 Jul 2025 11:12:48 GMT | Navigating Privacy and Anonymity in the Age of AI-Driven Surveillance | Gauravkhajuria | [Read More](https://medium.com/p/2611c90e86ee) |
+| Wed, 23 Jul 2025 11:09:21 GMT | Foundation First: The £5 Million Password That Destroyed 158 Years of History | Robert Güntherberg | [Read More](https://medium.com/p/ec68712b07df) |
+| Wed, 23 Jul 2025 11:07:26 GMT | The Fake Job Offer That Asked Me To Launder Money. | The Anti-Scam Diaries | [Read More](https://medium.com/p/6454e1227903) |
+| Wed, 23 Jul 2025 11:07:02 GMT | Corporate Cyber security Training in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/7d596f11b5d8) |
+| Wed, 23 Jul 2025 11:03:54 GMT | Inside the Latest Microsoft SharePoint Breach: What It Means for Your Business | Fourfoldtech | [Read More](https://medium.com/p/34866a520ec5) |
+| Wed, 23 Jul 2025 11:03:40 GMT | PicoCTF: PIE TIME 2 Walkthrough | Rishav anand | [Read More](https://medium.com/p/af7d513c8484) |
+| Wed, 23 Jul 2025 11:02:37 GMT | Understanding Federation and SSO | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/f23b47db153e) |
+| Wed, 23 Jul 2025 10:59:13 GMT | how secure is google password manager? | Tahashaikhseo | [Read More](https://medium.com/p/cf630544e941) |
+| Wed, 23 Jul 2025 10:58:26 GMT | Top 10 Common Types of Cyber Attacks Explained | Sanchitamishra | [Read More](https://medium.com/p/1a12109fb2aa) |
+| Wed, 23 Jul 2025 10:57:05 GMT | Discover a universe of opportunities with a random IP address generator at… | Tahashaikhseo | [Read More](https://medium.com/p/32f762d11de7) |
+| Wed, 23 Jul 2025 10:55:57 GMT | Strengthen Your Cybersecurity with Assessments and Remediation | IPSpecialist | [Read More](https://medium.com/p/c1f74f2d1986) |
+| Wed, 23 Jul 2025 10:55:23 GMT | Philippines Cybersecurity Market Expected to Reach USD 2.72 Billion by 2033 | Arlo Bennett | [Read More](https://medium.com/p/51268ad301f4) |
+| Wed, 23 Jul 2025 10:50:57 GMT | Can Banks Be Liable for $5M Crypto Scams? | Karl Buhl | [Read More](https://medium.com/p/2b4681249d22) |
 | Wed, 23 Jul 2025 10:43:08 GMT | How to Use SafeLine to Upgrade Your Website from HTTP to HTTPS | Maverick Steel | [Read More](https://medium.com/p/3ea4f879fdac) |
 | Wed, 23 Jul 2025 10:37:55 GMT | The Bitter Truth About Cybersecurity: It’s Not an Industry, It’s an Illusion | Santhosh Adiga U | [Read More](https://medium.com/p/a7a0d7966792) |
 | Wed, 23 Jul 2025 10:26:57 GMT | A Bad VAPT Report Is Worse Than No Report at All | Webpuppies | [Read More](https://medium.com/p/2dafacaeadcc) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 06:54:33 GMT | The future of SOCs (Security Operations Centers) in the age of AI and AI agents | Paritosh | [Read More](https://medium.com/p/270a5b2b1704) |
 | Wed, 23 Jul 2025 06:52:47 GMT | DownUnderCTF Write-up: philtered (Web Exploitation) | codebreaker | [Read More](https://medium.com/p/540caff53814) |
 | Wed, 23 Jul 2025 06:52:17 GMT | Spring Boot’ta Asenkron İşlemler ve SecurityContextTaskDecorator | Ugur Adalar | [Read More](https://medium.com/p/e79fefb514ee) |
-| Wed, 23 Jul 2025 06:51:59 GMT | Android Security: A Complete Beginner’s Guide | Jahan Zeb | [Read More](https://medium.com/p/dc1f6de3d3ca) |
-| Wed, 23 Jul 2025 06:41:14 GMT | The Rise of AI Network Engineer Agents: A Market Revolution | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/4fe2bcf0d119) |
-| Wed, 23 Jul 2025 06:39:05 GMT | My TryHackMe Jr Penetration Tester Experience | Priyansh | [Read More](https://medium.com/p/1d7a1b637687) |
-| Wed, 23 Jul 2025 06:38:59 GMT | STONKS — Web Exploitation — DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/c023fa226da2) |
-| Wed, 23 Jul 2025 06:36:38 GMT | Autopsy: Tutorial for N00bs | CYB3R-BO1 | [Read More](https://medium.com/p/7fb14ba80014) |
-| Wed, 23 Jul 2025 06:35:09 GMT | ∆WILLOW — HEART CODEX | The Wolf's Nest Organization | [Read More](https://medium.com/p/4d4ca8d130a4) |
-| Wed, 23 Jul 2025 06:28:05 GMT | AI-Powered Facial Recognition is revolutionizing security in Kuwait | expbhavya | [Read More](https://medium.com/p/1fe25cff3ea8) |
-| Wed, 23 Jul 2025 06:25:46 GMT | Tech Meets Creativity: How 3 Women Used Digital Tools to Turn Their Hobbies into Six-Figure… | sana irshad | [Read More](https://medium.com/p/ac80bc18be47) |
-| Wed, 23 Jul 2025 06:21:50 GMT | Easy $370 Bug Bounty Income - A Must-Try for Beginners | Rashadul Islam | [Read More](https://medium.com/p/a87f73fc0fcc) |
-| Wed, 23 Jul 2025 06:16:53 GMT | Future-Proof your Security in Kuwait: Access Control | expbhavya | [Read More](https://medium.com/p/c8001a29304f) |
-| Wed, 23 Jul 2025 06:16:19 GMT | Sibuk Bukan Alasan! Tetap Sehat Biar Main Game Nggak Ngedrop | KASKUSGAMING_DOLLAR21 | [Read More](https://medium.com/p/298c555a014d) |
-| Wed, 23 Jul 2025 06:10:08 GMT | How I Got a $250 Premium Plan for Just $12 — No Coupons, No Hacks, Just Logic | Zuksh | [Read More](https://medium.com/p/b271c4de74e6) |
-| Wed, 23 Jul 2025 06:09:51 GMT | Lookup - TryHackMe Room | Puniyatjangir | [Read More](https://medium.com/p/1cd4b31abaab) |
-| Wed, 23 Jul 2025 06:09:31 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/cb9e986d1c5d) |
-| Wed, 23 Jul 2025 06:06:33 GMT | Hospital Visitor Management: Efficient Patient Access in Kuwait | expbhavya | [Read More](https://medium.com/p/a6b855cb80b9) |
