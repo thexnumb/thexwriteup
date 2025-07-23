@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 20:14:06 GMT | Post-Quantum Encryption: Are We Ready for Quantum Hacking? | Tek News Feed | [Read More](https://medium.com/p/c5feb29c60fe) |
+| Wed, 23 Jul 2025 20:13:07 GMT | Cyber Security Offense and Defense Home Lab — Part 4 (Configuring pfsense firewall-GUI) | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/47a652903450) |
+| Wed, 23 Jul 2025 20:12:35 GMT | Breathing New Life into My Old Lenovo Laptop: The Journey to Building a Personal Home lab. | Austin Gomez | [Read More](https://medium.com/p/6823932ec8ff) |
+| Wed, 23 Jul 2025 20:10:20 GMT | MCM Client: What It Is, Why It’s on Your Phone, and Whether You Should Worry | Akshay Chauhan | [Read More](https://medium.com/p/131ff4429127) |
+| Wed, 23 Jul 2025 20:05:01 GMT | “Americas AI Action Plan”: Can It Propel the U.S. to Lead the Global AI Race? | CCD-IS | [Read More](https://medium.com/p/a49d65c157d1) |
+| Wed, 23 Jul 2025 20:04:22 GMT | Top 5 Reasons Your Business Needs an IT Audit (Even If You Think You Don’t) | Paradise technologies Inc | [Read More](https://medium.com/p/504a84bc478c) |
+| Wed, 23 Jul 2025 20:00:32 GMT | Over 6,000 Japanese Investors Defrauded and $2 Billion Stolen by Chinese Hackers in Early 2025… | David SEHYEON Baek | [Read More](https://medium.com/p/deb1d4c339fc) |
+| Wed, 23 Jul 2025 19:58:13 GMT | eJPT Zero to Hero: Exploitation CTF 1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/4b53e122d8a0) |
+| Wed, 23 Jul 2025 19:52:53 GMT | Session Fixation in Action: How Hackers Bypass Logins Without Passwords | Cyber-30 | [Read More](https://medium.com/p/94d6744f3b4d) |
+| Wed, 23 Jul 2025 19:52:45 GMT | Becoming a top 1% Ethical Hacker! | Ajay Chandran | [Read More](https://medium.com/p/7204efef721f) |
+| Wed, 23 Jul 2025 19:42:36 GMT | Modern Authentication: Beyond JWT | Winifred Oham | [Read More](https://medium.com/p/75d5dbc98c02) |
 | Wed, 23 Jul 2025 19:36:09 GMT | How I Secured My Coolify Server with CrowdSec (And Why You Should Too) | Sandro Sobczyński | [Read More](https://medium.com/p/336f8abe11ee) |
 | Wed, 23 Jul 2025 19:30:17 GMT | En Yaygın Siber Saldırı Türleri-3 | Melek | [Read More](https://medium.com/p/b6bb54540256) |
 | Wed, 23 Jul 2025 19:17:42 GMT | CTF Day(42) | Ahmed Narmer | [Read More](https://medium.com/p/a77a615ad65e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 15:07:49 GMT | 4. ISO 27001’de Organizasyonun Bağlamı Ne Demektir? | AYŞE KIZILAY | [Read More](https://medium.com/p/878e662cf4df) |
 | Wed, 23 Jul 2025 15:04:26 GMT | Voice Authentication & Key Security Risks | dodge | [Read More](https://medium.com/p/ef3ad4ef6f83) |
 | Wed, 23 Jul 2025 15:01:53 GMT | How Your Digital Footprint Grows While You’re Busy | Ingvar Pavlovich | [Read More](https://medium.com/p/597e5ecf60c4) |
-| Wed, 23 Jul 2025 14:57:44 GMT | From SVG to XSS: How I Found a Stored XSS in a Real Bug Bounty Target | Essam Ezzat | [Read More](https://medium.com/p/8fd923da78eb) |
-| Wed, 23 Jul 2025 14:57:40 GMT | Beyond the Puzzle: The Malicious Logic Behind ‘Fake Captcha’ Attacks | Pratik Gurav | [Read More](https://medium.com/p/a1b99e17d5a2) |
-| Wed, 23 Jul 2025 14:56:32 GMT | Siber Tehdit İstihbaratı Nedir? | FatihUYSAL | [Read More](https://medium.com/p/d3f161a0ab71) |
-| Wed, 23 Jul 2025 14:54:15 GMT | Stopping Black Hat Tactics in AI Search: AIVO’s Call for Standards | Tim de Rosen | [Read More](https://medium.com/p/ca64ec0617cf) |
-| Wed, 23 Jul 2025 14:53:03 GMT | 6 Science-Backed Habits to Sharpen Your Cybersecurity Mindset | Vijay Kumar Gupta | [Read More](https://medium.com/p/c5a747ff5c28) |
-| Wed, 23 Jul 2025 14:44:56 GMT | AresGPT: Cybersecurity Learning Begins | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/3f826a751fbd) |
-| Wed, 23 Jul 2025 14:39:26 GMT | The Daily Tech Digest: 23 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/897f35d4f74f) |
-| Wed, 23 Jul 2025 14:36:44 GMT | WAF bypass technique — Part 2 | yee-yore | [Read More](https://medium.com/p/5fc08a05a868) |
-| Wed, 23 Jul 2025 14:34:05 GMT | What does Cybersecurity Awareness Month mean to DefenseArk? | Kalpitha S | [Read More](https://medium.com/p/f16d33c91620) |
-| Wed, 23 Jul 2025 14:32:18 GMT | API Radar: A Real-Time System for Detecting Leaked API Keys on GitHub | Zaim Abbasi | [Read More](https://medium.com/p/9c0b507044db) |
-| Wed, 23 Jul 2025 14:31:53 GMT | As someone who thrives on understanding the delicate nuances of human weakness, I can confidently… | Henry Stevenson | [Read More](https://medium.com/p/a523798b23d6) |
