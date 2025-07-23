@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 14:22:22 GMT | ToolShell: The Critical SharePoint Vulnerability You Need to Patch Now | Lemon | [Read More](https://medium.com/p/4ce870dae005) |
+| Wed, 23 Jul 2025 14:21:06 GMT | SOC Nedir? Güvenliğin Kalbi Olan Security Operations Center’ı Anlamak | FatihUYSAL | [Read More](https://medium.com/p/ac3b4923d5df) |
+| Wed, 23 Jul 2025 14:12:55 GMT | The One Skill That Makes You Linux Pro: Real-Life Linux Troubleshooting | Karthick Dkk | [Read More](https://medium.com/p/5b1cb5b9f850) |
+| Wed, 23 Jul 2025 14:08:24 GMT | Samsung Future Tech Innovation Unlocking the Next Generation of Digital Life | Info Rx | [Read More](https://medium.com/p/8263923aa7e3) |
+| Wed, 23 Jul 2025 14:06:22 GMT | Day 27 Mini SOC Lab Using Wazuh SIEM (Step-by-Step Guide) | Rishavkumarthapa | [Read More](https://medium.com/p/8ef9331aaf46) |
+| Wed, 23 Jul 2025 14:02:11 GMT | This — This Is the Question I Keep Coming Back to | Jesse Wilson | [Read More](https://medium.com/p/b4bdfd89469a) |
+| Wed, 23 Jul 2025 14:02:04 GMT | How Cybersecurity Firms in Ontario, California Are Adopting Predictive Defense | Zeta Sky | [Read More](https://medium.com/p/eb7bd89d9b49) |
+| Wed, 23 Jul 2025 14:02:03 GMT | HM Treasury’s OFSI has published a Cryptoassets Threat Assessment guide | The British Blockchain Association (The BBA) | [Read More](https://medium.com/p/bbc681ef77d0) |
+| Wed, 23 Jul 2025 14:02:01 GMT | Cyber Briefing: 2025.07.23 | CyberMaterial | [Read More](https://medium.com/p/7203ec78dd84) |
+| Wed, 23 Jul 2025 14:01:22 GMT | Red Stuff Decoded: The Self-Healing Superpower Behind Walrus | Nytaraa | [Read More](https://medium.com/p/bf4f486bcde3) |
+| Wed, 23 Jul 2025 14:00:59 GMT | Deterrence is lacking in cyber defense | Martin Abramov | [Read More](https://medium.com/p/f5ec88bd4606) |
+| Wed, 23 Jul 2025 14:00:41 GMT | ✍️ XSS Nedir? Gerçek Dünya Örneği ve Korunma Yolları | FatihUYSAL | [Read More](https://medium.com/p/84170b5294b9) |
+| Wed, 23 Jul 2025 13:59:48 GMT | Beginner’s Guide to Active Reconnaissance (Part 3.2): ARP Scan Techniques on Firewalled Hosts. | Ar-jay A. Ballaco | [Read More](https://medium.com/p/a7a6bc082544) |
+| Wed, 23 Jul 2025 13:50:37 GMT | Single Sign On (SSO): How It Works and Why It Matters | Cybersecurity Umbrella | [Read More](https://medium.com/p/a7b0152c8568) |
+| Wed, 23 Jul 2025 13:48:37 GMT | The Mask That Glitters | Alday | [Read More](https://medium.com/p/b262f5154140) |
+| Wed, 23 Jul 2025 13:41:48 GMT | I Scraped 1,200 Data Science Job Listings. Here’s What Companies Actually Want in 2025. | Girish Dhamane | [Read More](https://medium.com/p/543b5930cd0b) |
 | Wed, 23 Jul 2025 13:36:33 GMT | I Hacked My Own Account with OAuth Misconfiguration | Ibtissam hammadi | [Read More](https://medium.com/p/1a0223fb5002) |
 | Wed, 23 Jul 2025 13:32:39 GMT | A Comprehensive Guide to Netcat (nc) | Rushikesh G | [Read More](https://medium.com/p/7f6cd202f2dc) |
+| Wed, 23 Jul 2025 13:30:54 GMT | I will write a cybersecurity, grc consultant, cryptography engineer, and a cissp resume | Adebisitijani | [Read More](https://medium.com/p/87c16e4cf619) |
+| Wed, 23 Jul 2025 13:30:16 GMT | I Didn’t Have the Answer. I Still Had to Show Up. | Mario Mejía | [Read More](https://medium.com/p/eb6467b9c267) |
 | Wed, 23 Jul 2025 13:25:06 GMT | Gerçek Bir E-Posta Spoofing Vakası: Teknik Analiz ve Korunma Yöntemleri | Sami Özcan | [Read More](https://medium.com/p/c214d757403e) |
 | Wed, 23 Jul 2025 13:20:54 GMT | Buy Expert Threat Intelligence Reports Today | Software Analyst Cyber Research | [Read More](https://medium.com/p/d212abe95273) |
 | Wed, 23 Jul 2025 13:16:52 GMT | Menganalisis Kerentanan Rails Debug Mode pada Ruby on Rails | Ahmadfaizabdillah | [Read More](https://medium.com/p/c9aa6e0e4967) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 10:05:36 GMT | What is Network Penetration Testing? A Complete Guide for 2025 | West Advanced Technologies Inc | [Read More](https://medium.com/p/e06436e79083) |
 | Wed, 23 Jul 2025 10:00:37 GMT | Inside the Endpoint: Tracking Logs, Threats, and Anomalies. | Samuel Jack | [Read More](https://medium.com/p/2c4099a286ae) |
 | Wed, 23 Jul 2025 09:55:36 GMT | Warzone 1 TryHackMe Room | Krishna | [Read More](https://medium.com/p/4840eb4f7aaa) |
-| Wed, 23 Jul 2025 09:55:14 GMT | Ultimate Website OSINT Tool | AbhirupKonwar | [Read More](https://medium.com/p/a6d6e87b0639) |
-| Wed, 23 Jul 2025 09:54:37 GMT | Taking SQL Server Security Further: Penetration Testing, DevSecOps, and Hardening | Syed Faysal Ali | [Read More](https://medium.com/p/a5f2c236c5bf) |
-| Wed, 23 Jul 2025 09:53:27 GMT | A Simple Way to Build a Progress Bar for Your Website’s Image Uploader Using Filestack | Idera Dev Tools | [Read More](https://medium.com/p/b825bb4391b2) |
-| Wed, 23 Jul 2025 09:42:27 GMT | How Great Organisations Build Security That Actually Works | John Davies | [Read More](https://medium.com/p/72aacd27acd2) |
-| Wed, 23 Jul 2025 09:38:34 GMT | Threat Modelling: A Structured Process of Identifying Risk | Chris Smallwood | [Read More](https://medium.com/p/4012446ce064) |
-| Wed, 23 Jul 2025 09:34:19 GMT | [CTF Writeup] WhoAmI — SWU CTF 2025 (ACIS Round) | MisterHelloz | [Read More](https://medium.com/p/2becc142cd23) |
-| Wed, 23 Jul 2025 09:33:52 GMT | Is Your Free VPN for Android Safe? 7 Red Flags to Watch For | Aria Penelope Hart | [Read More](https://medium.com/p/51492830e20b) |
-| Wed, 23 Jul 2025 09:31:00 GMT | Protect Your Web Application with SafeLine: A Step-by-Step Guide | Quella | [Read More](https://medium.com/p/2ec1849f060e) |
-| Wed, 23 Jul 2025 09:23:15 GMT | Global Password Breach Alert: Trusted Tools to Verify Your Exposure | Fazal | [Read More](https://medium.com/p/0c2aaffa0fb4) |
-| Wed, 23 Jul 2025 09:22:48 GMT | Why Smart Students Are Quietly Learning Cloud and Cyber Security at Night | JetkingChandigarh | [Read More](https://medium.com/p/e2bea4090942) |
-| Wed, 23 Jul 2025 09:22:12 GMT | PART 2: The Real Spy Work Begins | Darkder101 | [Read More](https://medium.com/p/829674711cdb) |
-| Wed, 23 Jul 2025 09:21:51 GMT | CTF Day(41) | Ahmed Narmer | [Read More](https://medium.com/p/fe36ae3311b0) |
-| Wed, 23 Jul 2025 09:19:51 GMT | Why You Should Use GUIDs Instead of Integers for IDs | Uzoamaka Nweze | [Read More](https://medium.com/p/62addafb2aa4) |
-| Wed, 23 Jul 2025 09:16:27 GMT | High-Rise Building Security: How Sumintra Ensures Safety in Every Floor | Sumintra | [Read More](https://medium.com/p/254cb50ede6b) |
-| Wed, 23 Jul 2025 09:13:01 GMT | Garden Gates in Saudi Arabia: A Blend of Style, Security & Functionality | Hitechfence | [Read More](https://medium.com/p/050c12982168) |
-| Wed, 23 Jul 2025 09:09:27 GMT | Open Redirect Vulnerability in EXBO’s Support Domain | Lakshya | [Read More](https://medium.com/p/e7b0b39851af) |
-| Wed, 23 Jul 2025 09:09:02 GMT | The Crime Lab (CyberDefenders) | SANDEEP | [Read More](https://medium.com/p/7643b29039cd) |
-| Wed, 23 Jul 2025 09:08:16 GMT | Cybersecurity Home Lab: Mitigating DoS Attacks with pfSense, Kali, and Ubuntu | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/3ac261651759) |
