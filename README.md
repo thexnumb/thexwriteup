@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 05:18:52 GMT | Code Red: The Hidden Security Risks of AI-Generated Programming | Aditya Sharma | [Read More](https://medium.com/p/4b074850514e) |
+| Wed, 23 Jul 2025 05:09:37 GMT | Referer-Based Access Control: Exploit Referer Headers to Bypass Access Control | Bash Overflow | [Read More](https://medium.com/p/dacd57ab832a) |
+| Wed, 23 Jul 2025 05:06:45 GMT | As part of my Network+ prep, I completed a hands-on lab focused on Ethernet switching technologies… | Adrian Gonzalez | [Read More](https://medium.com/p/c34200af3181) |
+| Wed, 23 Jul 2025 05:06:40 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/041439abe7e6) |
+| Wed, 23 Jul 2025 04:57:08 GMT | API vulnerability make me $500. | Rishav anand | [Read More](https://medium.com/p/b58e1f235ecf) |
+| Wed, 23 Jul 2025 04:49:53 GMT | Why Web3 Needs a Secure Email System: The Case for DMail | Bobby Andrews | [Read More](https://medium.com/p/2efc0fcdc2fc) |
+| Wed, 23 Jul 2025 04:44:10 GMT | Advanced PCNSA Firewall Certification Course: Mastering Routing Protocols, NAT, and IPS Features | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/f312405ae1cd) |
+| Wed, 23 Jul 2025 04:38:03 GMT | Day 9- Understanding Windows Event Viewer & Linux Syslog | unica 02 | [Read More](https://medium.com/p/9a5f5ffbaf2b) |
 | Wed, 23 Jul 2025 04:25:21 GMT | The Dark Forest: A Builder’s Guide to MEV Protection | Harsh Kasana | [Read More](https://medium.com/p/2f422fba9a1d) |
 | Wed, 23 Jul 2025 04:23:45 GMT | File Transfer in Guacamole | Shir0E | [Read More](https://medium.com/p/945e3571ed44) |
 | Wed, 23 Jul 2025 04:19:50 GMT | My Journey to the SMT Program: From Applicant to Accepted | Kiell Tampubolon | [Read More](https://medium.com/p/1c3e0d78d643) |
@@ -105,11 +113,3 @@ Resolution | Kautsar Jilan Roqiyah Nur Amira | [Read More](https://medium.com/p/
 | Tue, 22 Jul 2025 19:44:33 GMT | UK Proposes Ransomware Payment Ban for Public Sector | Matthew.Rosenquist | [Read More](https://medium.com/p/a210714d8bdd) |
 | Tue, 22 Jul 2025 19:39:42 GMT | Next.js + Cloudflare + Missing robots.txt = 400K Visits in 2 Weeks! | Zeynep Basboga | [Read More](https://medium.com/p/54415d857345) |
 | Tue, 22 Jul 2025 19:38:54 GMT | Linux: A Guide to a Different Kind of Computer | Olumide Adeniji | [Read More](https://medium.com/p/10d70a2a9120) |
-| Tue, 22 Jul 2025 19:35:30 GMT | Top 10 Programming and Software Development Trends to Watch in 2025 | Nosheen Butt | [Read More](https://medium.com/p/8b6cad6bff46) |
-| Tue, 22 Jul 2025 19:31:47 GMT | Your API Keys Are Leaking — And You Don’t Even Know It | BugsyBits | [Read More](https://medium.com/p/109a8c43a38f) |
-| Tue, 22 Jul 2025 19:29:17 GMT | How to deobfuscate a PHP malware under pressure | Lorenzo Moulin | [Read More](https://medium.com/p/68a6a3ccb11d) |
-| Tue, 22 Jul 2025 19:22:59 GMT | Highest paying jobs in cyber security | Chandanjana | [Read More](https://medium.com/p/9f2cc504954c) |
-| Tue, 22 Jul 2025 19:16:17 GMT | awedwetg | Pigeone7 | [Read More](https://medium.com/p/0e531e767935) |
-| Tue, 22 Jul 2025 19:14:08 GMT | Red Team Ops I (CRTO) Review — Adversary Simulation & Red Team Operations | selim_addada | [Read More](https://medium.com/p/92c5ca87ba29) |
-| Tue, 22 Jul 2025 19:12:56 GMT | SASE as a Service: The Future of Secure Cloud Access | SafeAeon Inc. | [Read More](https://medium.com/p/f53221a30ee9) |
-| Tue, 22 Jul 2025 19:12:06 GMT | Smart Facility Monitoring | Presslink Media | [Read More](https://medium.com/p/ea1584946c4c) |
