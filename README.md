@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 03:36:12 GMT | Cookies dalam situs Web | Mahyra Dev | [Read More](https://medium.com/p/74028851d21f) |
+| Wed, 23 Jul 2025 03:35:53 GMT | Before You’re Hacked, Read These | Aj | [Read More](https://medium.com/p/3b878e505a94) |
+| Wed, 23 Jul 2025 03:32:32 GMT | How CoinDCX Lost $44 Million And What It Means for Crypto Investors | Deven Chhajed | [Read More](https://medium.com/p/44b3e5decb39) |
+| Wed, 23 Jul 2025 03:20:27 GMT | Prompt injection detection using python — a simple step to secure your AI system | Debashis Debnath | [Read More](https://medium.com/p/e0a26e9ee916) |
+| Wed, 23 Jul 2025 03:04:42 GMT | How I Simulated and Secured an S3 Bucket: A Hands-On Cloud Security | EhistheGreat | [Read More](https://medium.com/p/71a97ea6d62e) |
+| Wed, 23 Jul 2025 02:58:44 GMT | The Hidden AI Drain on My Mac: Spotlight or Surveillance? | Cevher Dogan | [Read More](https://medium.com/p/a4d2ce19e5ef) |
+| Wed, 23 Jul 2025 02:46:45 GMT | CVE-2025–53770: A Comprehensive Analysis of the Critical SharePoint Server Vulnerability | Tech Zealots - Threat & Malware Research | [Read More](https://medium.com/p/9c0a9cb90ed9) |
+| Wed, 23 Jul 2025 02:46:26 GMT | How Is AI Enhancing Ransomware-as-a-Service? | Tal Eliyahu | [Read More](https://medium.com/p/390a80f888ff) |
+| Wed, 23 Jul 2025 02:20:11 GMT | SharePoint Servers Under Global Attack: A Threat to Intellectual Property | PatentRiff | [Read More](https://medium.com/p/9c7d9f9e5d7b) |
+| Wed, 23 Jul 2025 02:19:00 GMT | Falling in Love When You Are Young | Garrett Pettingell | [Read More](https://medium.com/p/c7fa54dd8c49) |
+| Wed, 23 Jul 2025 02:00:41 GMT | PURE INTIMACY & VULNERABILITY | COSMIC MOTHER | [Read More](https://medium.com/p/101a315551b1) |
+| Wed, 23 Jul 2025 01:57:56 GMT | Configuring pfSense Interfaces | 3Graces CC | [Read More](https://medium.com/p/eb84dd4b1599) |
 | Wed, 23 Jul 2025 01:31:46 GMT | Someone Just Logged In Without a Password-This 20-Year-Old Hack Still Works | ven coding | [Read More](https://medium.com/p/1e7797242c62) |
 | Wed, 23 Jul 2025 01:27:09 GMT | Active Directory Penetration Testing (What is AD? Common attacks) | 0trc | [Read More](https://medium.com/p/0b4e9f6e4f6e) |
 | Wed, 23 Jul 2025 01:25:31 GMT | How I Got a Free OSCP Exam Directly from OffSec | Pak Cyberbot | [Read More](https://medium.com/p/c54e562121c5) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 22 Jul 2025 18:37:04 GMT | We Taught an LLM to Think Like a Hacker — Here’s How | Five Insights | [Read More](https://medium.com/p/5e03be27cdeb) |
 | Tue, 22 Jul 2025 18:37:01 GMT | Menjelajahi Dunia “Capture The Flag” (CTF): Arena Pertarungan Para Pemburu Bendera Digital | Malbaralamsyah | [Read More](https://medium.com/p/346cd0a06649) |
 | Tue, 22 Jul 2025 18:32:32 GMT | Automating Incident Response with Python & TheHive: A Practical Guide for Hackers & Defenders | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/b539cd677e91) |
-| Tue, 22 Jul 2025 18:27:26 GMT | How I passed OSCP+ in one month | selim_addada | [Read More](https://medium.com/p/a9d76a73b7f2) |
-| Tue, 22 Jul 2025 18:22:25 GMT | ️ IPS ve IDS Nedir? Aralarındaki Farklar Nelerdir? What are the differences between IDS and IPS? | Aybike Tutar | [Read More](https://medium.com/p/b430f53699d8) |
-| Tue, 22 Jul 2025 18:19:56 GMT | Understanding Exploratory Data Analysis — A Practical companion. | Rishabh Nandmaher | [Read More](https://medium.com/p/0124c6ff452b) |
-| Tue, 22 Jul 2025 18:18:16 GMT | A Strategic Blueprint for Integrating AI and Machine Learning in Cybersecurity Risk Management | Kelven Leverett, CISSP, CISM | [Read More](https://medium.com/p/8357f5a42ef8) |
-| Tue, 22 Jul 2025 18:14:20 GMT | Mastering Cloud Security: Starting with the Basics | Vivian Aghedo | [Read More](https://medium.com/p/db330b26d45d) |
-| Tue, 22 Jul 2025 18:12:14 GMT | Do WordPress Tags Help with Your Social Media Posts? | Shamim IT Soft | [Read More](https://medium.com/p/2891bebeeeac) |
-| Tue, 22 Jul 2025 18:11:25 GMT | The Cloud Storage Security Wars: Why Government Pressure Just Changed Everything | TechEd Publishers | [Read More](https://medium.com/p/268c8e246eb4) |
-| Tue, 22 Jul 2025 18:09:40 GMT | SOC146 — Phishing Mail Detected — Excel 4.0 Macros | Cyber Burrito | [Read More](https://medium.com/p/10d388dfb956) |
-| Tue, 22 Jul 2025 18:03:41 GMT | My Red Team Internship Journey: Practical Web Exploitation & Ethical Hacking Techniques | Asad Ali | [Read More](https://medium.com/p/15220f840ad9) |
-| Tue, 22 Jul 2025 17:57:58 GMT | CEH from Zero to ….. | Sandeep | [Read More](https://medium.com/p/7fb3595b0836) |
-| Tue, 22 Jul 2025 17:53:37 GMT | DAY 22 — CTF #5: Operation Black Echo | Jinay | [Read More](https://medium.com/p/265dab564a3c) |
-| Tue, 22 Jul 2025 17:45:42 GMT | How Russia’s Hacktivist Clown Car Caught Fire and Drove Off a Cliff | Christian Baghai | [Read More](https://medium.com/p/916e9d77f646) |
