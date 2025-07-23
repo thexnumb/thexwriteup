@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 17:20:51 GMT | Deep Packet Capture in Python: A Complete Guide to Sniffing Techniques | Ahmed Sobhi Ali | [Read More](https://medium.com/p/54d650e403e1) |
+| Wed, 23 Jul 2025 17:16:50 GMT | ybeCybersecurity Awareness Training: Your First Line of Defense Starts with People | SafeAeon Inc. | [Read More](https://medium.com/p/008c381f5d95) |
+| Wed, 23 Jul 2025 17:13:49 GMT | Is your digital privacy truly in your hands? | Abith Ahamed | [Read More](https://medium.com/p/8ef1ea1c094c) |
+| Wed, 23 Jul 2025 17:11:33 GMT | Expertise as a Service: Getting the Right Minds When You Need Them | SafeAeon Inc. | [Read More](https://medium.com/p/31987c74af07) |
+| Wed, 23 Jul 2025 17:08:52 GMT | Hardening Linux Containers for Production Use | Karthikeyan Nagaraj | [Read More](https://medium.com/p/790b99ec5150) |
+| Wed, 23 Jul 2025 17:07:04 GMT | Think Before You Click | Krishna | [Read More](https://medium.com/p/035763d599cb) |
+| Wed, 23 Jul 2025 17:03:27 GMT | 10. İyileştirme: Sistemin Nefes Alması | AYŞE KIZILAY | [Read More](https://medium.com/p/95fda1e91fd7) |
+| Wed, 23 Jul 2025 16:59:45 GMT | यूट्यूब पर सब्सक्राइबर कैसे बढ़ाएं | SetupHindi | [Read More](https://medium.com/p/a742cde32c3a) |
+| Wed, 23 Jul 2025 16:58:33 GMT | 9. Ölçmeden Yönetişim Olmaz | AYŞE KIZILAY | [Read More](https://medium.com/p/39e3f5d6caa6) |
+| Wed, 23 Jul 2025 16:58:16 GMT | Multi-Tenant Kubernetes (Part 1): A Practical Guide to Isolation and Resource Management | Shawn Weigand | [Read More](https://medium.com/p/308ea814f4ff) |
+| Wed, 23 Jul 2025 16:53:14 GMT | ️‍♂️ Cyber Kill Chain: Real-Life Style Breakdown | Ayush Bagde | [Read More](https://medium.com/p/4528dc0871ef) |
+| Wed, 23 Jul 2025 16:53:05 GMT | Hangi Siber Güvenlik Alanı Sana Göre? — Mini Test | İbrahim Gündoğmuş | [Read More](https://medium.com/p/ed3d06401624) |
+| Wed, 23 Jul 2025 16:52:37 GMT | “I’m Fine”: The Hidden Weight of Pretending Everything’s Okay | Pascale Bouchard | [Read More](https://medium.com/p/5604acff9092) |
+| Wed, 23 Jul 2025 16:51:41 GMT | PCAP Challenge Walkthrough — Finding the Compromised Host and C2 Serve | Meghana | [Read More](https://medium.com/p/cb342e8100af) |
+| Wed, 23 Jul 2025 16:48:17 GMT | How State-Backed Chinese Hackers Are Weaponizing SharePoint Zero‑Day Flaws — And What You Must Do… | CyBlog | [Read More](https://medium.com/p/2ece1c85b8b1) |
+| Wed, 23 Jul 2025 16:47:56 GMT | Passing NE | Josh Colpean | [Read More](https://medium.com/p/2d39bac74d9f) |
 | Wed, 23 Jul 2025 16:44:06 GMT | TryHackMe — Light: A Gentle Introduction to SQL Injection on SQLite | Erickson | [Read More](https://medium.com/p/4cfc2f57d7bb) |
 | Wed, 23 Jul 2025 16:42:10 GMT | How Stealthy RATs and Credential Thieves Are Slipping Into Organizations — And What You Must Do Now | CyBlog | [Read More](https://medium.com/p/30ff913983e6) |
 | Wed, 23 Jul 2025 16:41:24 GMT | 8. Güvenliği Uygulamaya Dönüştürmek | AYŞE KIZILAY | [Read More](https://medium.com/p/7c6973084165) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 13:16:52 GMT | Menganalisis Kerentanan Rails Debug Mode pada Ruby on Rails | Ahmadfaizabdillah | [Read More](https://medium.com/p/c9aa6e0e4967) |
 | Wed, 23 Jul 2025 13:16:44 GMT | Cloud Security Challenges: Safeguarding the Sky of Modern Computing | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/31580c997fe7) |
 | Wed, 23 Jul 2025 13:15:54 GMT | Why Modern Web Apps Are So Vulnerable | Jachimike Onwuchekwa | [Read More](https://medium.com/p/c4c3d820041b) |
-| Wed, 23 Jul 2025 13:13:53 GMT | Inside the Dragon’s Firewall: Red Team Tactics for Defending Against Chinese Cyber Espionage in… | Pentestjunkie07 | [Read More](https://medium.com/p/ea5693e9ba4e) |
-| Wed, 23 Jul 2025 13:13:36 GMT | Top 10 Hidden Gem PlayStation Games [Gamers, 2025] | TechyBlogger | [Read More](https://medium.com/p/d35e97f8bd4e) |
-| Wed, 23 Jul 2025 13:12:47 GMT | Bir ‘RANSOMWARE’ Anatomisi | Kazim Dogan | [Read More](https://medium.com/p/645f08e4f869) |
-| Wed, 23 Jul 2025 13:12:41 GMT | Network Reconnaissance: Scanning and Enumeration Techniques & Countermeasures | Rushikesh G | [Read More](https://medium.com/p/09c2fbd53f96) |
-| Wed, 23 Jul 2025 13:08:43 GMT | Secure by Design: Why Robots Can’t Afford a Bolt-On Security Mindset | Harold Moss | [Read More](https://medium.com/p/4edc417e24a8) |
-| Wed, 23 Jul 2025 13:06:32 GMT | Take the V out of VPN | Davin Oishi | [Read More](https://medium.com/p/c45775cdd7cb) |
-| Wed, 23 Jul 2025 13:02:40 GMT | I Almost Got Scammed… And That’s When I Realized My Wallet Needed Backup | Unknown | [Read More](https://medium.com/p/bde09cf386ef) |
-| Wed, 23 Jul 2025 13:02:11 GMT | Introduction to Web Applications — Security & Architecture Lab | Denise Sophy | [Read More](https://medium.com/p/8d421caeb886) |
-| Wed, 23 Jul 2025 12:56:39 GMT | Deploying and Testing Azure Firewall | Denise Sophy | [Read More](https://medium.com/p/e139151bbd0b) |
-| Wed, 23 Jul 2025 12:53:25 GMT | Prototype Pollution Vulnerability: Full Technical Guide | Shah kaif | [Read More](https://medium.com/p/1e57fb09d83f) |
-| Wed, 23 Jul 2025 12:45:55 GMT | Telegram ablertgonzalez Earn Via PayPal 100% LEGIT QUICk PAYPAL Cashapp WESTERN UNI BANKS TRANSFER… | Albert | [Read More](https://medium.com/p/68f4195c9d50) |
-| Wed, 23 Jul 2025 12:45:44 GMT | https://www.goodreads.com/quotes/13224755-2025-top-site-buy-verifed-cashapp-accouunts-in-2025-speed? | Mehedihasang | [Read More](https://medium.com/p/c4b4d5e1456b) |
-| Wed, 23 Jul 2025 12:44:14 GMT | “Mastering SQL Injection: Real-World Exploits and Advanced Techniques” | Aman Sharma | [Read More](https://medium.com/p/90e2adedcdb0) |
-| Wed, 23 Jul 2025 12:42:44 GMT | Protect Your Business: Why Region Security Guarding is Your Trusted Security Partner in Birmingham | Region Security | [Read More](https://medium.com/p/6a846f6c17e5) |
-| Wed, 23 Jul 2025 12:33:18 GMT | UNDERSTANDING LAYER TWO PROTOCOL FOR CCNA — PART 2 [one] | Joanorifha | [Read More](https://medium.com/p/ab567010c9ff) |
-| Wed, 23 Jul 2025 12:31:48 GMT | What is a Database? How Android & Web Apps Remember Your Information | Jaahnavi | [Read More](https://medium.com/p/0b43a96098d9) |
