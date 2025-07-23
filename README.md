@@ -12,10 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 19:36:09 GMT | How I Secured My Coolify Server with CrowdSec (And Why You Should Too) | Sandro Sobczyński | [Read More](https://medium.com/p/336f8abe11ee) |
+| Wed, 23 Jul 2025 19:30:17 GMT | En Yaygın Siber Saldırı Türleri-3 | Melek | [Read More](https://medium.com/p/b6bb54540256) |
 | Wed, 23 Jul 2025 19:17:42 GMT | CTF Day(42) | Ahmed Narmer | [Read More](https://medium.com/p/a77a615ad65e) |
 | Wed, 23 Jul 2025 19:16:54 GMT | ️The SharePoint Heist : | Shreyash Tambe | [Read More](https://medium.com/p/0eca0b32880b) |
 | Wed, 23 Jul 2025 19:15:33 GMT | How I’m Building a Security Platform with AI: A New Development Paradigm | Cgboal | [Read More](https://medium.com/p/bad2ee596d69) |
 | Wed, 23 Jul 2025 19:15:23 GMT | Confidentiality: Ensuring Customer Trust and Brand Loyalty | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/56a29e1840a3) |
+| Wed, 23 Jul 2025 19:09:12 GMT | What Is a SaaS Website? Examples and Quick SEO Tips | Globelisted | [Read More](https://medium.com/p/8960d1b6680b) |
 | Wed, 23 Jul 2025 19:02:23 GMT | Portable Kali Linux(SSD) | Dev | [Read More](https://medium.com/p/547cca36f648) |
 | Wed, 23 Jul 2025 19:01:46 GMT | How a Fake News Website Breached Australia’s Energy Sector — Isabella Kelly | Cyber Valkyries | [Read More](https://medium.com/p/7cd93eaff2b7) |
 | Wed, 23 Jul 2025 18:57:42 GMT | Embedded vs. Centralized DevOps: Choosing the Right Organizational Model | Josh Welch | [Read More](https://medium.com/p/d4c0c8e49648) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 14:34:05 GMT | What does Cybersecurity Awareness Month mean to DefenseArk? | Kalpitha S | [Read More](https://medium.com/p/f16d33c91620) |
 | Wed, 23 Jul 2025 14:32:18 GMT | API Radar: A Real-Time System for Detecting Leaked API Keys on GitHub | Zaim Abbasi | [Read More](https://medium.com/p/9c0b507044db) |
 | Wed, 23 Jul 2025 14:31:53 GMT | As someone who thrives on understanding the delicate nuances of human weakness, I can confidently… | Henry Stevenson | [Read More](https://medium.com/p/a523798b23d6) |
-| Wed, 23 Jul 2025 14:31:46 GMT | Infrastructure Part II: Cause for Concern? | Kalpitha S | [Read More](https://medium.com/p/b129ad70c1fc) |
-| Wed, 23 Jul 2025 14:31:39 GMT | SMT Program Training Notes | Sarah | [Read More](https://medium.com/p/bb820946062c) |
-| Wed, 23 Jul 2025 14:30:06 GMT | The Smart Parent’s Guide to Earning Cash Back on Kids’ Tuition | Cayuga | [Read More](https://medium.com/p/d71f8723e1d4) |
