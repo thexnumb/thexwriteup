@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 05:48:23 GMT | Securing India’s Cyberspace from Quantum Techniques | Rakshak online | [Read More](https://medium.com/p/93092be4bd08) |
+| Wed, 23 Jul 2025 05:48:03 GMT | Shodan Sniper: How I Found 3 Bugs Without Touching a Browser | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1844d3f756f6) |
+| Wed, 23 Jul 2025 05:47:17 GMT | From Insecure Deserialization to Root Access: A Step-by-Step CTF Infra Challenge Writeup | Amreal Abhishek | [Read More](https://medium.com/p/ca657e66945f) |
+| Wed, 23 Jul 2025 05:45:38 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/52cb93d8c2ff) |
+| Wed, 23 Jul 2025 05:41:49 GMT | The Psychology of Bug Bounties: Why I Keep Hunting Even Without Rewards | Viratavi | [Read More](https://medium.com/p/75fb455827c8) |
+| Wed, 23 Jul 2025 05:40:59 GMT | That Wasn’t Your Boss on Zoom: How AI Is Making Cyber Scams Unstoppable | Yash Kumar Chauhan | [Read More](https://medium.com/p/4e8eaaa4f8b9) |
+| Wed, 23 Jul 2025 05:39:18 GMT | WhatsApp Scam Breakdown: “Like YouTube Videos & Earn Money” | Rue | [Read More](https://medium.com/p/b7b7c0d6b28a) |
+| Wed, 23 Jul 2025 05:39:02 GMT | Advanced Threat Hunting Through Memory Address Patterns with Sysmon | Siddhant Mishra | [Read More](https://medium.com/p/276a9bbdeac8) |
+| Wed, 23 Jul 2025 05:38:45 GMT | Encrypt the Ephemeral Diffie-Hellman Combination with the Caesar Cipher | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/7e8e27f6928f) |
+| Wed, 23 Jul 2025 05:36:57 GMT | API Security Best Practices to Protect Digital Ecosystems | Reethika Moovendhan | [Read More](https://medium.com/p/2d549c8924bc) |
+| Wed, 23 Jul 2025 05:30:54 GMT | UPI & QR Code Scams: How Fraudsters Empty Bank Accounts in Seconds | OLC Agra | [Read More](https://medium.com/p/cc4e38404a21) |
+| Wed, 23 Jul 2025 05:29:15 GMT | From Bots to Brains | Ashutosh | [Read More](https://medium.com/p/ad72432d119e) |
 | Wed, 23 Jul 2025 05:18:52 GMT | Code Red: The Hidden Security Risks of AI-Generated Programming | Aditya Sharma | [Read More](https://medium.com/p/4b074850514e) |
 | Wed, 23 Jul 2025 05:09:37 GMT | Referer-Based Access Control: Exploit Referer Headers to Bypass Access Control | Bash Overflow | [Read More](https://medium.com/p/dacd57ab832a) |
 | Wed, 23 Jul 2025 05:06:45 GMT | As part of my Network+ prep, I completed a hands-on lab focused on Ethernet switching technologies… | Adrian Gonzalez | [Read More](https://medium.com/p/c34200af3181) |
@@ -101,15 +113,3 @@ Resolution | Kautsar Jilan Roqiyah Nur Amira | [Read More](https://medium.com/p/
 | Tue, 22 Jul 2025 20:13:28 GMT | From Remote Code Execution to Full System Compromise: A Real-World Exploitation Chain with… | Marcogiacobbe | [Read More](https://medium.com/p/abcf9c4ee1e9) |
 | Tue, 22 Jul 2025 20:12:46 GMT | You Are the Product: Surveillance Is the Price of ‘Free’ | Naman Barola | [Read More](https://medium.com/p/7a51a273eed3) |
 | Tue, 22 Jul 2025 20:07:04 GMT | How I Found My First Open Redirect During Recon + TIPS! | Tenebris Venator | [Read More](https://medium.com/p/e36f2a5b1a31) |
-| Tue, 22 Jul 2025 20:05:13 GMT | Cracking Web Login Portals — Brute Force & SQLi Tactics | Roshan | [Read More](https://medium.com/p/5087b2d8ce98) |
-| Tue, 22 Jul 2025 20:05:03 GMT | En Yaygın Siber Saldırı Türleri-2 | Melek | [Read More](https://medium.com/p/533854242aa7) |
-| Tue, 22 Jul 2025 20:00:08 GMT | Enumerating SMB and NFS File Shares | Roshan | [Read More](https://medium.com/p/0db950dcd6c5) |
-| Tue, 22 Jul 2025 19:58:45 GMT | $1000 Bounty: Changing a Victim’s JIRA Integration | Monika sharma | [Read More](https://medium.com/p/02611a90d1f2) |
-| Tue, 22 Jul 2025 19:55:51 GMT | FR-OSINT Unleashed | Snooptsz | [Read More](https://medium.com/p/5eec0ef4f2a7) |
-| Tue, 22 Jul 2025 19:51:45 GMT | The AI Threat No One’s Talking About: How Machines Are Weaponizing Human Psychology | Maxk | [Read More](https://medium.com/p/a68fbb108c5b) |
-| Tue, 22 Jul 2025 19:46:27 GMT | dont-you-love-banners | Player X | [Read More](https://medium.com/p/a91945f818bb) |
-| Tue, 22 Jul 2025 19:45:25 GMT | #OSWE Exam Review: What Helped, What Hurt, and What I’d Change Next Time | Axel Rengstorf | [Read More](https://medium.com/p/b68acb3da102) |
-| Tue, 22 Jul 2025 19:44:34 GMT | How to Choose the Right GDPR Compliance Consulting Partner | DEFEND MY BUSINESS | [Read More](https://medium.com/p/8aef96369c6a) |
-| Tue, 22 Jul 2025 19:44:33 GMT | UK Proposes Ransomware Payment Ban for Public Sector | Matthew.Rosenquist | [Read More](https://medium.com/p/a210714d8bdd) |
-| Tue, 22 Jul 2025 19:39:42 GMT | Next.js + Cloudflare + Missing robots.txt = 400K Visits in 2 Weeks! | Zeynep Basboga | [Read More](https://medium.com/p/54415d857345) |
-| Tue, 22 Jul 2025 19:38:54 GMT | Linux: A Guide to a Different Kind of Computer | Olumide Adeniji | [Read More](https://medium.com/p/10d70a2a9120) |
