@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 11:40:13 GMT | From Benchmarks to Blind Spots: A Holistic Look at LLM Confidentiality | Berend Watchus | [Read More](https://medium.com/p/7bcd9f3bead1) |
+| Wed, 23 Jul 2025 11:35:31 GMT | Email Breach : Check If Your Email Was Breached Instantly with WeScan.live | WeScan Journal | [Read More](https://medium.com/p/9efaee91c919) |
+| Wed, 23 Jul 2025 11:31:18 GMT | Exploiting Linux Capabilities: CAP_SYS_MODULE | Redfox Security | [Read More](https://medium.com/p/055cac48caab) |
+| Wed, 23 Jul 2025 11:30:13 GMT | Prompt Injection: Gerçek Saldırı Senaryoları ve Analizleri | Melike Ateş | [Read More](https://medium.com/p/f5a04c9b28f0) |
+| Wed, 23 Jul 2025 11:27:22 GMT | DAY 23 — CHAPTER 11: Linux Logging Systems | Jinay | [Read More](https://medium.com/p/2f03c1cd0818) |
+| Wed, 23 Jul 2025 11:26:59 GMT | Day 52: CIS Benchmarks | Brittney Ginther | [Read More](https://medium.com/p/63cf2ac5a3d3) |
+| Wed, 23 Jul 2025 11:26:17 GMT | Password Security in 2025: Why It’s More Important Than Ever | SecureSlate | [Read More](https://medium.com/p/1f3d643e5871) |
+| Wed, 23 Jul 2025 11:26:12 GMT | Phenomena | Salar Sikander | [Read More](https://medium.com/p/c93a885176db) |
 | Wed, 23 Jul 2025 11:20:00 GMT | When Smart Contracts Snap: What the $42M GMX Exploit Tells Us About Investing in AI x Blockchain | n8 Capital | [Read More](https://medium.com/p/9951c8a609b7) |
+| Wed, 23 Jul 2025 11:17:28 GMT | Secure Your Application with SafeLine WAF: A Step-by-Step Guide | Maverick Steel | [Read More](https://medium.com/p/7cc5a402596a) |
+| Wed, 23 Jul 2025 11:17:25 GMT | Tryhackme Hammer Walk through | Muhammad Ahsan Ijaz | [Read More](https://medium.com/p/765ae11567f6) |
 | Wed, 23 Jul 2025 11:12:48 GMT | Cybersecurity Frameworks Cheat Sheet | Rui Fernandes | [Read More](https://medium.com/p/c2a22575eb45) |
 | Wed, 23 Jul 2025 11:12:48 GMT | Navigating Privacy and Anonymity in the Age of AI-Driven Surveillance | Gauravkhajuria | [Read More](https://medium.com/p/2611c90e86ee) |
+| Wed, 23 Jul 2025 11:11:24 GMT | MODERN WARFARE BEYOND BULLETS — How Cyber, AI, and Multi-Domain Integration Are Redefining Conflict | Sanjeev Rattan | [Read More](https://medium.com/p/051a7168362b) |
 | Wed, 23 Jul 2025 11:09:21 GMT | Foundation First: The £5 Million Password That Destroyed 158 Years of History | Robert Güntherberg | [Read More](https://medium.com/p/ec68712b07df) |
 | Wed, 23 Jul 2025 11:07:26 GMT | The Fake Job Offer That Asked Me To Launder Money. | The Anti-Scam Diaries | [Read More](https://medium.com/p/6454e1227903) |
 | Wed, 23 Jul 2025 11:07:02 GMT | Corporate Cyber security Training in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/7d596f11b5d8) |
@@ -57,6 +68,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 09:22:48 GMT | Why Smart Students Are Quietly Learning Cloud and Cyber Security at Night | JetkingChandigarh | [Read More](https://medium.com/p/e2bea4090942) |
 | Wed, 23 Jul 2025 09:22:12 GMT | PART 2: The Real Spy Work Begins | Darkder101 | [Read More](https://medium.com/p/829674711cdb) |
 | Wed, 23 Jul 2025 09:21:51 GMT | CTF Day(41) | Ahmed Narmer | [Read More](https://medium.com/p/fe36ae3311b0) |
+| Wed, 23 Jul 2025 09:19:51 GMT | Why You Should Use GUIDs Instead of Integers for IDs | Uzoamaka Nweze | [Read More](https://medium.com/p/62addafb2aa4) |
 | Wed, 23 Jul 2025 09:16:27 GMT | High-Rise Building Security: How Sumintra Ensures Safety in Every Floor | Sumintra | [Read More](https://medium.com/p/254cb50ede6b) |
 | Wed, 23 Jul 2025 09:13:01 GMT | Garden Gates in Saudi Arabia: A Blend of Style, Security & Functionality | Hitechfence | [Read More](https://medium.com/p/050c12982168) |
 | Wed, 23 Jul 2025 09:09:27 GMT | Open Redirect Vulnerability in EXBO’s Support Domain | Lakshya | [Read More](https://medium.com/p/e7b0b39851af) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 07:29:28 GMT | Best Digital Cyber Forensics Investigation Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/32afcfe90965) |
 | Wed, 23 Jul 2025 07:26:13 GMT | AI — The Phantom Menace | Bozhan Bozhkov | [Read More](https://medium.com/p/3afb8c05a665) |
 | Wed, 23 Jul 2025 07:25:28 GMT | ️IDN Homograph Attack!! | Arpit Dadhich | [Read More](https://medium.com/p/2a0468e86bf2) |
-| Wed, 23 Jul 2025 07:15:05 GMT | Where the Battle Begins: Modern Endpoint Defense | Rahul Balaskandan | [Read More](https://medium.com/p/326849b9147a) |
-| Wed, 23 Jul 2025 07:13:57 GMT | “การเรียก API 2 รอบของ Browser โดยที่เราไม่ได้ตั้งค่าเอง” | WantToLearning | [Read More](https://medium.com/p/73172252762b) |
-| Wed, 23 Jul 2025 07:11:01 GMT | How Axontec Is Revolutionizing ELV Systems Across India (And Saving Lakhs) | Berkshire Hathaway | [Read More](https://medium.com/p/e9fecc945f2e) |
-| Wed, 23 Jul 2025 07:10:57 GMT | How to Secure Your Kubernetes Apps with SafeLine WAF and Ingress-nginx | AerieWhole123 | [Read More](https://medium.com/p/e07446504235) |
-| Wed, 23 Jul 2025 07:08:12 GMT | Closeness is a dream | Madhuri Juneja | [Read More](https://medium.com/p/86e502a0f83e) |
-| Wed, 23 Jul 2025 07:05:29 GMT | CTF Day(40) | Ahmed Narmer | [Read More](https://medium.com/p/74dc4866e071) |
-| Wed, 23 Jul 2025 07:02:53 GMT | Note-Taking for Cybersecurity | Red | [Read More](https://medium.com/p/bce1b3f96c15) |
-| Wed, 23 Jul 2025 06:57:20 GMT | ️ Güvenli Yazılım Geliştirme Teknikleri | HSD Necmettin Erbakan University | [Read More](https://medium.com/p/38d5d5b4a99c) |
-| Wed, 23 Jul 2025 06:56:57 GMT | DEK-KEK the industry standard to protect highly sensitive data (Part 1) | Anh Phan | [Read More](https://medium.com/p/76099e9ef969) |
-| Wed, 23 Jul 2025 06:54:33 GMT | The future of SOCs (Security Operations Centers) in the age of AI and AI agents | Paritosh | [Read More](https://medium.com/p/270a5b2b1704) |
-| Wed, 23 Jul 2025 06:52:47 GMT | DownUnderCTF Write-up: philtered (Web Exploitation) | codebreaker | [Read More](https://medium.com/p/540caff53814) |
-| Wed, 23 Jul 2025 06:52:17 GMT | Spring Boot’ta Asenkron İşlemler ve SecurityContextTaskDecorator | Ugur Adalar | [Read More](https://medium.com/p/e79fefb514ee) |
