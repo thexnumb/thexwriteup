@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 21:16:37 GMT | Exploiting Stored XSS in a Payment Support System: From Payload Injection to Cookie Theft | EroHack | [Read More](https://medium.com/p/7cd538c184f0) |
+| Wed, 23 Jul 2025 21:12:34 GMT | The Stylus Package Incident: A Wake-Up Call for the JavaScript Ecosystem | Stefan Herdy | [Read More](https://medium.com/p/efaf5fc694ad) |
+| Wed, 23 Jul 2025 21:09:11 GMT | Vulnerabilities in LLM Applications | RosanaFSS | [Read More](https://medium.com/p/54bf5384a8c1) |
+| Wed, 23 Jul 2025 21:05:55 GMT | Reflected XSS into HTML context with most tags and attributes blocked | Chirag Vyas | [Read More](https://medium.com/p/a23010fa3f61) |
+| Wed, 23 Jul 2025 21:01:03 GMT | قصة نجاح كيف حققت 1000$ من العمل الحر في 60 يوم؟ | katibatech | [Read More](https://medium.com/p/f10735c6b4be) |
+| Wed, 23 Jul 2025 21:01:01 GMT | Part 5: web3 Security — Bridging the Gaps (and Risks) — Cross-Chain Security & Interoperability | Ben San Roman | [Read More](https://medium.com/p/a72412745904) |
+| Wed, 23 Jul 2025 20:58:53 GMT | The Importance of Establishing Digital Trust in an Organization | Cornwellja | [Read More](https://medium.com/p/db50bd64e999) |
+| Wed, 23 Jul 2025 20:55:48 GMT | Starting Over with Bug Bounty (Again) | Aditya Narayan | [Read More](https://medium.com/p/01abcc40174a) |
+| Wed, 23 Jul 2025 20:51:40 GMT | How One Weak Password Took Down a 158-Year-Old Company | Mr.PlanB | [Read More](https://medium.com/p/42e895de7213) |
+| Wed, 23 Jul 2025 20:49:24 GMT | Let’s Be Honest: Sometimes “I’m Fine” Is Just a Lie We All Tell | @Lumi | [Read More](https://medium.com/p/e34a14a150e9) |
 | Wed, 23 Jul 2025 20:28:35 GMT | Turning Lost Phones Into Tools of Surveillance (Legally Dubious Edition) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/95c04aa85584) |
 | Wed, 23 Jul 2025 20:27:40 GMT | The Chatbot That Hacked Your Web App | Derick Johnson | [Read More](https://medium.com/p/cd85f470e8ca) |
 | Wed, 23 Jul 2025 20:27:12 GMT | HOW TO CREATE A PASSWORD POLICY ON MICROSOFT INTUNE | Ariyo Oladapo | [Read More](https://medium.com/p/e9b703160cf6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 15:31:05 GMT | Inside the Phisher’s Mind: How Hackers Actually Build Phishing Links (Step-by-Step Breakdown) | Varnith | [Read More](https://medium.com/p/9caaf581a88d) |
 | Wed, 23 Jul 2025 15:29:28 GMT | SMT Program 2025 Write Up | Sarah | [Read More](https://medium.com/p/b76ca3e8d681) |
 | Wed, 23 Jul 2025 15:29:00 GMT | What Is a Cyber Pandemic? And Why the Next Shutdown Might Be Digital | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/b719bcdbd805) |
-| Wed, 23 Jul 2025 15:28:03 GMT | SharePoint 0day | RavenForTech | [Read More](https://medium.com/p/95ffa494f0ed) |
-| Wed, 23 Jul 2025 15:26:36 GMT | The Metrics Mirage: How Security KPIs Are Hiding Your Real Risk | Eric Zietlow | [Read More](https://medium.com/p/8d9968df8d8d) |
-| Wed, 23 Jul 2025 15:24:39 GMT | Cybersecurity-Week #1 | rkn | [Read More](https://medium.com/p/d8956e9eb3fc) |
-| Wed, 23 Jul 2025 15:16:00 GMT | KPMG CTF {Virtual_Inkpad} | Bhuwan Patidar | [Read More](https://medium.com/p/74a4f58cfd1f) |
-| Wed, 23 Jul 2025 15:15:01 GMT | TryHackMe Include walkthrough: SSRF, log poisoning & LFI2RCE, with additional findings! | Jarrettgxz | [Read More](https://medium.com/p/d4c497745631) |
-| Wed, 23 Jul 2025 15:14:52 GMT | تفعيل الربح من تيك توك: استراتيجيات عملية لكسب أول 1000 دولار | katibatech | [Read More](https://medium.com/p/654fff394290) |
-| Wed, 23 Jul 2025 15:14:22 GMT | VIP Event Security Services UK: Where Luxury Meets Uncompromised Safety | waeventservices.co.uk/ | [Read More](https://medium.com/p/d6d1cecc0c7a) |
-| Wed, 23 Jul 2025 15:10:58 GMT | Kotlin, Spring Boot : HandlerInterceptor vs Filter | Romman Sabbir | [Read More](https://medium.com/p/f7f4c9539874) |
-| Wed, 23 Jul 2025 15:10:41 GMT | Mastering Modern Cybersecurity: Tools, Services, and Strategic Benefits | Vijilan | [Read More](https://medium.com/p/03b44a18b579) |
-| Wed, 23 Jul 2025 15:08:53 GMT | 5. ISO 27001’de Liderlik: Sadece BT’nin Değil, Yönetimin de Konusu | AYŞE KIZILAY | [Read More](https://medium.com/p/aae365d22839) |
