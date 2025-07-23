@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 20:28:35 GMT | Turning Lost Phones Into Tools of Surveillance (Legally Dubious Edition) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/95c04aa85584) |
+| Wed, 23 Jul 2025 20:27:40 GMT | The Chatbot That Hacked Your Web App | Derick Johnson | [Read More](https://medium.com/p/cd85f470e8ca) |
+| Wed, 23 Jul 2025 20:27:12 GMT | HOW TO CREATE A PASSWORD POLICY ON MICROSOFT INTUNE | Ariyo Oladapo | [Read More](https://medium.com/p/e9b703160cf6) |
 | Wed, 23 Jul 2025 20:14:06 GMT | Post-Quantum Encryption: Are We Ready for Quantum Hacking? | Tek News Feed | [Read More](https://medium.com/p/c5feb29c60fe) |
 | Wed, 23 Jul 2025 20:13:07 GMT | Cyber Security Offense and Defense Home Lab — Part 4 (Configuring pfsense firewall-GUI) | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/47a652903450) |
 | Wed, 23 Jul 2025 20:12:35 GMT | Breathing New Life into My Old Lenovo Laptop: The Journey to Building a Personal Home lab. | Austin Gomez | [Read More](https://medium.com/p/6823932ec8ff) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 15:10:58 GMT | Kotlin, Spring Boot : HandlerInterceptor vs Filter | Romman Sabbir | [Read More](https://medium.com/p/f7f4c9539874) |
 | Wed, 23 Jul 2025 15:10:41 GMT | Mastering Modern Cybersecurity: Tools, Services, and Strategic Benefits | Vijilan | [Read More](https://medium.com/p/03b44a18b579) |
 | Wed, 23 Jul 2025 15:08:53 GMT | 5. ISO 27001’de Liderlik: Sadece BT’nin Değil, Yönetimin de Konusu | AYŞE KIZILAY | [Read More](https://medium.com/p/aae365d22839) |
-| Wed, 23 Jul 2025 15:07:49 GMT | 4. ISO 27001’de Organizasyonun Bağlamı Ne Demektir? | AYŞE KIZILAY | [Read More](https://medium.com/p/878e662cf4df) |
-| Wed, 23 Jul 2025 15:04:26 GMT | Voice Authentication & Key Security Risks | dodge | [Read More](https://medium.com/p/ef3ad4ef6f83) |
-| Wed, 23 Jul 2025 15:01:53 GMT | How Your Digital Footprint Grows While You’re Busy | Ingvar Pavlovich | [Read More](https://medium.com/p/597e5ecf60c4) |
