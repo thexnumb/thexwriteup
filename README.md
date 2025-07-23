@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 22:11:30 GMT | $5,300 Bounty: Shopify Admin XSS | Monika sharma | [Read More](https://medium.com/p/20459892cdc3) |
+| Wed, 23 Jul 2025 22:10:57 GMT | VulnLawyers - Pentest Report | device0 | [Read More](https://medium.com/p/8683d963b47f) |
+| Wed, 23 Jul 2025 22:10:01 GMT | SIM Swapping: The Silent Heist Behind Phone Number Hijacking | BlueTeam Bytes | [Read More](https://medium.com/p/7a570eaecfdd) |
+| Wed, 23 Jul 2025 22:08:54 GMT | Stop Treating OAuth 2.0 Like a Black Box: The Deep Dive Every Developer Needs (But Nobody Teaches) | Rachoork | [Read More](https://medium.com/p/1afb3a3f7bbb) |
+| Wed, 23 Jul 2025 21:52:35 GMT | Industrial Intrusion — TryHackMe | omni | [Read More](https://medium.com/p/c684792339b3) |
+| Wed, 23 Jul 2025 21:44:30 GMT | GraphQL Gone Wrong: The Silent Security Nightmare No One Talks About | Bashx0 | [Read More](https://medium.com/p/bf2588e81f2a) |
 | Wed, 23 Jul 2025 21:34:19 GMT | Tracy Champ Recovery | Norman Meg | [Read More](https://medium.com/p/516821287287) |
 | Wed, 23 Jul 2025 21:28:06 GMT | MITRE ATT&CK, Splunk, and VMs | Joseph Thomas Gorman | [Read More](https://medium.com/p/33d7f6490a85) |
 | Wed, 23 Jul 2025 21:16:37 GMT | Exploiting Stored XSS in a Payment Support System: From Payload Injection to Cookie Theft | EroHack | [Read More](https://medium.com/p/7cd538c184f0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 15:57:16 GMT | Building a Token-Safe Chatbot with RESK-LLM and OpenAI | Arch | [Read More](https://medium.com/p/b6aed9735b54) |
 | Wed, 23 Jul 2025 15:57:12 GMT | 6. Bilgi Güvenliği Riski ile Nasıl Baş Edilir? | AYŞE KIZILAY | [Read More](https://medium.com/p/65f9addd8349) |
 | Wed, 23 Jul 2025 15:55:07 GMT | Preventing Prompt Injection with | Arch | [Read More](https://medium.com/p/0585fd460b9c) |
-| Wed, 23 Jul 2025 15:52:28 GMT | DefectDojo Installation | Shir0E | [Read More](https://medium.com/p/6d4696583481) |
-| Wed, 23 Jul 2025 15:47:17 GMT | The Simple Changes That Made Reporting More Fun for My Ethical Hackers Team | Florian Henrion | [Read More](https://medium.com/p/109d33c9edc9) |
-| Wed, 23 Jul 2025 15:45:35 GMT | Sécuriser & Protéger son LLM contre les prompts injection | Arch | [Read More](https://medium.com/p/43e948449b1c) |
-| Wed, 23 Jul 2025 15:43:52 GMT | Exploiting server-side parameter pollution in a query string PortSwigger Lab Write-up | Mohamed Medhat | [Read More](https://medium.com/p/df8e838acd13) |
-| Wed, 23 Jul 2025 15:40:19 GMT | Security Pitfalls of AI Code Generation Tools — 2025 Update | Derek Derui Wang | [Read More](https://medium.com/p/8ded7e50244d) |
-| Wed, 23 Jul 2025 15:31:05 GMT | Inside the Phisher’s Mind: How Hackers Actually Build Phishing Links (Step-by-Step Breakdown) | Varnith | [Read More](https://medium.com/p/9caaf581a88d) |
