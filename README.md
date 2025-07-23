@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 21:34:19 GMT | Tracy Champ Recovery | Norman Meg | [Read More](https://medium.com/p/516821287287) |
+| Wed, 23 Jul 2025 21:28:06 GMT | MITRE ATT&CK, Splunk, and VMs | Joseph Thomas Gorman | [Read More](https://medium.com/p/33d7f6490a85) |
 | Wed, 23 Jul 2025 21:16:37 GMT | Exploiting Stored XSS in a Payment Support System: From Payload Injection to Cookie Theft | EroHack | [Read More](https://medium.com/p/7cd538c184f0) |
 | Wed, 23 Jul 2025 21:12:34 GMT | The Stylus Package Incident: A Wake-Up Call for the JavaScript Ecosystem | Stefan Herdy | [Read More](https://medium.com/p/efaf5fc694ad) |
 | Wed, 23 Jul 2025 21:09:11 GMT | Vulnerabilities in LLM Applications | RosanaFSS | [Read More](https://medium.com/p/54bf5384a8c1) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 15:43:52 GMT | Exploiting server-side parameter pollution in a query string PortSwigger Lab Write-up | Mohamed Medhat | [Read More](https://medium.com/p/df8e838acd13) |
 | Wed, 23 Jul 2025 15:40:19 GMT | Security Pitfalls of AI Code Generation Tools — 2025 Update | Derek Derui Wang | [Read More](https://medium.com/p/8ded7e50244d) |
 | Wed, 23 Jul 2025 15:31:05 GMT | Inside the Phisher’s Mind: How Hackers Actually Build Phishing Links (Step-by-Step Breakdown) | Varnith | [Read More](https://medium.com/p/9caaf581a88d) |
-| Wed, 23 Jul 2025 15:29:28 GMT | SMT Program 2025 Write Up | Sarah | [Read More](https://medium.com/p/b76ca3e8d681) |
-| Wed, 23 Jul 2025 15:29:00 GMT | What Is a Cyber Pandemic? And Why the Next Shutdown Might Be Digital | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/b719bcdbd805) |
