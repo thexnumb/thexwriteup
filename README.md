@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 09:23:15 GMT | Global Password Breach Alert: Trusted Tools to Verify Your Exposure | Fazal | [Read More](https://medium.com/p/0c2aaffa0fb4) |
+| Wed, 23 Jul 2025 09:22:48 GMT | Why Smart Students Are Quietly Learning Cloud and Cyber Security at Night | JetkingChandigarh | [Read More](https://medium.com/p/e2bea4090942) |
+| Wed, 23 Jul 2025 09:22:12 GMT | PART 2: The Real Spy Work Begins | Darkder101 | [Read More](https://medium.com/p/829674711cdb) |
+| Wed, 23 Jul 2025 09:21:51 GMT | CTF Day(41) | Ahmed Narmer | [Read More](https://medium.com/p/fe36ae3311b0) |
+| Wed, 23 Jul 2025 09:16:27 GMT | High-Rise Building Security: How Sumintra Ensures Safety in Every Floor | Sumintra | [Read More](https://medium.com/p/254cb50ede6b) |
+| Wed, 23 Jul 2025 09:13:01 GMT | Garden Gates in Saudi Arabia: A Blend of Style, Security & Functionality | Hitechfence | [Read More](https://medium.com/p/050c12982168) |
+| Wed, 23 Jul 2025 09:09:27 GMT | Open Redirect Vulnerability in EXBO’s Support Domain | Lakshya | [Read More](https://medium.com/p/e7b0b39851af) |
+| Wed, 23 Jul 2025 09:09:02 GMT | The Crime Lab (CyberDefenders) | SANDEEP | [Read More](https://medium.com/p/7643b29039cd) |
+| Wed, 23 Jul 2025 09:08:16 GMT | Cybersecurity Home Lab: Mitigating DoS Attacks with pfSense, Kali, and Ubuntu | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/3ac261651759) |
+| Wed, 23 Jul 2025 09:06:03 GMT | Stop the Confusion: ISO 27001, NIST CSF, NIST 800 Series, NIS2, and SOC 2 Are Not the Same Thing | Jair Abrego Cubilla | [Read More](https://medium.com/p/b1522a852320) |
+| Wed, 23 Jul 2025 09:05:57 GMT | India AI Mission IT Infrastructure: Powering Scalable AI Growth | Nishaverma | [Read More](https://medium.com/p/921d1e7be74d) |
+| Wed, 23 Jul 2025 09:05:00 GMT | Locking Down Symfony’s dev Mode: Why security: false Is (Really) a Bad Idea | Hedi RIAHI | [Read More](https://medium.com/p/98932f81499a) |
+| Wed, 23 Jul 2025 09:02:49 GMT | The Price of Convenience and Surrender: When Mutual Benefit and SaaS Goes Too Far | Namir Sagheenanajar | [Read More](https://medium.com/p/d1febfcd3b2a) |
+| Wed, 23 Jul 2025 08:59:54 GMT | PortSwigger Lab: CORS vulnerability with trusted insecure protocols | Kutay Söker | [Read More](https://medium.com/p/16d75034affe) |
+| Wed, 23 Jul 2025 08:51:11 GMT | Galaxy One XR Phone: The Future of Immersive Mobile Technology | DIGITAL Marketing | [Read More](https://medium.com/p/30e2b4117f0c) |
+| Wed, 23 Jul 2025 08:50:26 GMT | Getting CROSS! PQC Signature Performance in 2025 | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/c3179822d639) |
+| Wed, 23 Jul 2025 08:49:49 GMT | AI Data Governance: Building Trust, Ethics, and Value in Enterprise AI | Samyukta Roy | [Read More](https://medium.com/p/2b3ae334b513) |
+| Wed, 23 Jul 2025 08:46:10 GMT | What Do Ethical Hackers Actually Do? A Look Inside the World of White Hat Hackers | Sanchitamishra | [Read More](https://medium.com/p/cd55b94826cf) |
+| Wed, 23 Jul 2025 08:46:02 GMT | A Beginner’s Guide to MERN Authentication: Client-Server Connection Explained | Sandesh Paudel | [Read More](https://medium.com/p/6a97f162170e) |
+| Wed, 23 Jul 2025 08:42:07 GMT | 404 Brain Logic Not Found | HackersPrey | [Read More](https://medium.com/p/7d8aa2cacd99) |
+| Wed, 23 Jul 2025 08:32:35 GMT | Is Your Login Flow Secure? 5 Subtle Auth Mistakes Even Senior Devs Miss | Sanjeevani Bhandari | [Read More](https://medium.com/p/2102b6dcac53) |
+| Wed, 23 Jul 2025 08:28:08 GMT | Never Forget a Password Again! | Ashisholtikar | [Read More](https://medium.com/p/1efdbc26f8cf) |
+| Wed, 23 Jul 2025 08:27:29 GMT | Is a DMZ the Same as a Firewall? Not Quite — Here’s Why It Matters | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/5b7b931f35d9) |
 | Wed, 23 Jul 2025 08:24:47 GMT | But this is the life I prayed for… | Ife Dimma. | [Read More](https://medium.com/p/23f1f9c544e9) |
+| Wed, 23 Jul 2025 08:20:25 GMT | HTB — Code | n0tabdu11ah | [Read More](https://medium.com/p/9d587ed3eb16) |
 | Wed, 23 Jul 2025 08:18:23 GMT | Why Hiring a Professional Security Guard Is Essential for Australian Businesses | Stateguard Protective Services | [Read More](https://medium.com/p/dc89da3a2426) |
 | Wed, 23 Jul 2025 08:18:12 GMT | Understanding Privacy Impact Assessment (PIA): A Critical Tool for Corporate Data Responsibility | Isabelle Cheng | [Read More](https://medium.com/p/b99959081134) |
 | Wed, 23 Jul 2025 08:16:42 GMT | TryHackMe “Corridor” Walkthrough | The LazyTechBro | [Read More](https://medium.com/p/d78b7eba05f9) |
@@ -88,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 05:09:37 GMT | Referer-Based Access Control: Exploit Referer Headers to Bypass Access Control | Bash Overflow | [Read More](https://medium.com/p/dacd57ab832a) |
 | Wed, 23 Jul 2025 05:06:45 GMT | As part of my Network+ prep, I completed a hands-on lab focused on Ethernet switching technologies… | Adrian Gonzalez | [Read More](https://medium.com/p/c34200af3181) |
 | Wed, 23 Jul 2025 05:06:40 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/041439abe7e6) |
-| Wed, 23 Jul 2025 04:57:08 GMT | API vulnerability make me $500. | Rishav anand | [Read More](https://medium.com/p/b58e1f235ecf) |
-| Wed, 23 Jul 2025 04:49:53 GMT | Why Web3 Needs a Secure Email System: The Case for DMail | Bobby Andrews | [Read More](https://medium.com/p/2efc0fcdc2fc) |
-| Wed, 23 Jul 2025 04:44:10 GMT | Advanced PCNSA Firewall Certification Course: Mastering Routing Protocols, NAT, and IPS Features | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/f312405ae1cd) |
-| Wed, 23 Jul 2025 04:38:03 GMT | Day 9- Understanding Windows Event Viewer & Linux Syslog | unica 02 | [Read More](https://medium.com/p/9a5f5ffbaf2b) |
-| Wed, 23 Jul 2025 04:25:21 GMT | The Dark Forest: A Builder’s Guide to MEV Protection | Harsh Kasana | [Read More](https://medium.com/p/2f422fba9a1d) |
-| Wed, 23 Jul 2025 04:23:45 GMT | File Transfer in Guacamole | Shir0E | [Read More](https://medium.com/p/945e3571ed44) |
-| Wed, 23 Jul 2025 04:19:50 GMT | My Journey to the SMT Program: From Applicant to Accepted | Kiell Tampubolon | [Read More](https://medium.com/p/1c3e0d78d643) |
-| Wed, 23 Jul 2025 04:16:37 GMT | Prospek Kerja Lulusan Informatika: Bukan Cuma Jadi Programmer | Syfrnnurulinsnia | [Read More](https://medium.com/p/4e6311d53ad7) |
-| Wed, 23 Jul 2025 04:14:59 GMT | What Really Happens When You Click a Phishing Link (And Why You Shouldn’t Find Out the Hard Way) | Varnith | [Read More](https://medium.com/p/95650fabea35) |
-| Wed, 23 Jul 2025 04:14:30 GMT | Mengenal dan Menerapkan Pola Perancangan dalam Sistem Teknologi Informasi Sehari-Hari | Moan | [Read More](https://medium.com/p/72474dc3b6f6) |
-| Wed, 23 Jul 2025 04:13:33 GMT | Cyber Security Training Course: Master Key Cybersecurity Defense Ways | Manraj | [Read More](https://medium.com/p/a4eab41c846e) |
-| Wed, 23 Jul 2025 04:04:50 GMT | Top Penetration Testing Companies in 2025: A Complete Guide for Secure Digital Transformation | Securis360 Inc. | [Read More](https://medium.com/p/b804f2df0ffe) |
-| Wed, 23 Jul 2025 04:03:09 GMT | Not Broken, Just Feeling It All | Amrita Barthakur | [Read More](https://medium.com/p/2f9a45d67c7a) |
-| Wed, 23 Jul 2025 03:56:03 GMT | Remote code execution via web shell upload [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/52ee16a59dda) |
-| Wed, 23 Jul 2025 03:48:36 GMT | Resume Mindanao Learning Session | Kautsar Jilan Roqiyah Nur Amira | [Read More](https://medium.com/p/a2ff43014d9d) |
-| Wed, 23 Jul 2025 03:38:43 GMT | Learn Risk Management Framework (RMF) | Manny | [Read More](https://medium.com/p/63a7333f2345) |
-| Wed, 23 Jul 2025 03:37:27 GMT | Conflict Assesment & Alternative Dispute
-Resolution | Kautsar Jilan Roqiyah Nur Amira | [Read More](https://medium.com/p/b036be111ed1) |
-| Wed, 23 Jul 2025 03:36:12 GMT | Cookies dalam situs Web | Mahyra Dev | [Read More](https://medium.com/p/74028851d21f) |
-| Wed, 23 Jul 2025 03:35:53 GMT | Before You’re Hacked, Read These | Aj | [Read More](https://medium.com/p/3b878e505a94) |
-| Wed, 23 Jul 2025 03:32:32 GMT | How CoinDCX Lost $44 Million And What It Means for Crypto Investors | Deven Chhajed | [Read More](https://medium.com/p/44b3e5decb39) |
-| Wed, 23 Jul 2025 03:32:32 GMT | 7 Tips for Secure User Input Sanitization in Node.js | Arunangshu Das | [Read More](https://medium.com/p/a83b224f14db) |
-| Wed, 23 Jul 2025 03:20:27 GMT | Prompt injection detection using python — a simple step to secure your AI system | Debashis Debnath | [Read More](https://medium.com/p/e0a26e9ee916) |
-| Wed, 23 Jul 2025 03:04:42 GMT | How I Simulated and Secured an S3 Bucket: A Hands-On Cloud Security | EhistheGreat | [Read More](https://medium.com/p/71a97ea6d62e) |
-| Wed, 23 Jul 2025 02:58:44 GMT | The Hidden AI Drain on My Mac: Spotlight or Surveillance? | Cevher Dogan | [Read More](https://medium.com/p/a4d2ce19e5ef) |
