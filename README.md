@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 10:21:50 GMT | The Raspberry Pi’s Wi-Fi Glow-Up: Native Monitor Mode & Injection in Kali 2025.1 | Taha Ex | [Read More](https://medium.com/p/90b275826a59) |
+| Wed, 23 Jul 2025 10:21:26 GMT | Fishy Website — Misc — DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/83c3864e7902) |
+| Wed, 23 Jul 2025 10:18:21 GMT | Who needs attack surface management services most? | Ziya Zoe | [Read More](https://medium.com/p/c20717ffbb4a) |
+| Wed, 23 Jul 2025 10:15:13 GMT | Pakistan Issues Warning Over Rising Honey Trap Scams Disguised as Freelance Jobs | Zeeshan Ali Shah | [Read More](https://medium.com/p/a5231ae21c33) |
+| Wed, 23 Jul 2025 10:14:03 GMT | Port Management Information Systems Compared: How Envision PMIS Stacks Up Against Alternatives | P Harshavardhan | [Read More](https://medium.com/p/68bffe6ea286) |
+| Wed, 23 Jul 2025 10:13:41 GMT | ️‍♀What is Digital Forensics? A Beginner’s Guide to Cyber Investigations | Anujsehrawat | [Read More](https://medium.com/p/d61a2fbc4819) |
+| Wed, 23 Jul 2025 10:12:46 GMT | Decisiones estratégicas — Parte 1: Hazlo Fácil | Jonatan Vicente | [Read More](https://medium.com/p/8f899c23bead) |
+| Wed, 23 Jul 2025 10:12:22 GMT | Strategic Decisions — Part 1: Make It Easy | Jonatan Vicente | [Read More](https://medium.com/p/38f21c1f2adb) |
+| Wed, 23 Jul 2025 10:12:19 GMT | Data Protection by NextGen2AI — Safeguarding Your Digital Future | NextGen2AI | [Read More](https://medium.com/p/15070096bce5) |
+| Wed, 23 Jul 2025 10:10:44 GMT | Best Port Management Software in 2025: Envision PMIS vs Alternatives | P Harshavardhan | [Read More](https://medium.com/p/c8fe6c9d9f6f) |
+| Wed, 23 Jul 2025 10:05:36 GMT | What is Network Penetration Testing? A Complete Guide for 2025 | West Advanced Technologies Inc | [Read More](https://medium.com/p/e06436e79083) |
+| Wed, 23 Jul 2025 10:00:37 GMT | Inside the Endpoint: Tracking Logs, Threats, and Anomalies. | Samuel Jack | [Read More](https://medium.com/p/2c4099a286ae) |
+| Wed, 23 Jul 2025 09:55:36 GMT | Warzone 1 TryHackMe Room | Krishna | [Read More](https://medium.com/p/4840eb4f7aaa) |
+| Wed, 23 Jul 2025 09:55:14 GMT | Ultimate Website OSINT Tool | AbhirupKonwar | [Read More](https://medium.com/p/a6d6e87b0639) |
+| Wed, 23 Jul 2025 09:54:37 GMT | Taking SQL Server Security Further: Penetration Testing, DevSecOps, and Hardening | Syed Faysal Ali | [Read More](https://medium.com/p/a5f2c236c5bf) |
+| Wed, 23 Jul 2025 09:53:27 GMT | A Simple Way to Build a Progress Bar for Your Website’s Image Uploader Using Filestack | Idera Dev Tools | [Read More](https://medium.com/p/b825bb4391b2) |
+| Wed, 23 Jul 2025 09:42:27 GMT | How Great Organisations Build Security That Actually Works | John Davies | [Read More](https://medium.com/p/72aacd27acd2) |
 | Wed, 23 Jul 2025 09:38:34 GMT | Threat Modelling: A Structured Process of Identifying Risk | Chris Smallwood | [Read More](https://medium.com/p/4012446ce064) |
 | Wed, 23 Jul 2025 09:34:19 GMT | [CTF Writeup] WhoAmI — SWU CTF 2025 (ACIS Round) | MisterHelloz | [Read More](https://medium.com/p/2becc142cd23) |
 | Wed, 23 Jul 2025 09:33:52 GMT | Is Your Free VPN for Android Safe? 7 Red Flags to Watch For | Aria Penelope Hart | [Read More](https://medium.com/p/51492830e20b) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 06:01:02 GMT | “JS is the New S3”: How I Mined Tokens, PII & DevOps Secrets From JavaScript for Bounties | Narendar Battula (nArEn) | [Read More](https://medium.com/p/13b6bdf1b829) |
 | Wed, 23 Jul 2025 06:00:56 GMT | Cybersécurité en Suisse : actualités du 23 juil 2025 | Marc Barbezat | [Read More](https://medium.com/p/8ab7e47d3445) |
 | Wed, 23 Jul 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Jul 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6f26cc86d081) |
-| Wed, 23 Jul 2025 06:00:24 GMT | SSRF to S3 to Shell: The One-Key Takeover That Started With a Misconfigured Proxy | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c3149003630c) |
-| Wed, 23 Jul 2025 05:57:17 GMT | Voice Assistant Are Always Listening to You | Rahul Mishra | [Read More](https://medium.com/p/dbe63417f41e) |
-| Wed, 23 Jul 2025 05:55:09 GMT | They Never See It Coming: Cybersecurity Lessons from the Shadows | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/dcdf46a09948) |
-| Wed, 23 Jul 2025 05:53:47 GMT | Understanding India’s Cybersecurity Policy Frameworks: IT Act, National Cybersecurity Policy, and… | Rakshak online | [Read More](https://medium.com/p/c8d9e91b881d) |
-| Wed, 23 Jul 2025 05:51:25 GMT | Safeguarding India’s Digital Landscape | Rakshak online | [Read More](https://medium.com/p/c8e79c04073b) |
-| Wed, 23 Jul 2025 05:48:23 GMT | Securing India’s Cyberspace from Quantum Techniques | Rakshak online | [Read More](https://medium.com/p/93092be4bd08) |
-| Wed, 23 Jul 2025 05:48:03 GMT | Shodan Sniper: How I Found 3 Bugs Without Touching a Browser | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1844d3f756f6) |
-| Wed, 23 Jul 2025 05:47:17 GMT | From Insecure Deserialization to Root Access: A Step-by-Step CTF Infra Challenge Writeup | Amreal Abhishek | [Read More](https://medium.com/p/ca657e66945f) |
-| Wed, 23 Jul 2025 05:45:38 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/52cb93d8c2ff) |
-| Wed, 23 Jul 2025 05:41:49 GMT | The Psychology of Bug Bounties: Why I Keep Hunting Even Without Rewards | Viratavi | [Read More](https://medium.com/p/75fb455827c8) |
-| Wed, 23 Jul 2025 05:40:59 GMT | That Wasn’t Your Boss on Zoom: How AI Is Making Cyber Scams Unstoppable | Yash Kumar Chauhan | [Read More](https://medium.com/p/4e8eaaa4f8b9) |
-| Wed, 23 Jul 2025 05:39:18 GMT | WhatsApp Scam Breakdown: “Like YouTube Videos & Earn Money” | Rue | [Read More](https://medium.com/p/b7b7c0d6b28a) |
-| Wed, 23 Jul 2025 05:39:02 GMT | Advanced Threat Hunting Through Memory Address Patterns with Sysmon | Siddhant Mishra | [Read More](https://medium.com/p/276a9bbdeac8) |
-| Wed, 23 Jul 2025 05:38:45 GMT | Encrypt the Ephemeral Diffie-Hellman Combination with the Caesar Cipher | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/7e8e27f6928f) |
-| Wed, 23 Jul 2025 05:36:57 GMT | API Security Best Practices to Protect Digital Ecosystems | Reethika Moovendhan | [Read More](https://medium.com/p/2d549c8924bc) |
-| Wed, 23 Jul 2025 05:30:54 GMT | UPI & QR Code Scams: How Fraudsters Empty Bank Accounts in Seconds | OLC Agra | [Read More](https://medium.com/p/cc4e38404a21) |
-| Wed, 23 Jul 2025 05:29:15 GMT | From Bots to Brains | Ashutosh | [Read More](https://medium.com/p/ad72432d119e) |
