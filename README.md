@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 23:22:39 GMT | Let’s Defend: 113 — SOC163 — Suspicious Certutil.exe Usage - Writeup | EPereda | [Read More](https://medium.com/p/0d5a060a7f85) |
+| Wed, 23 Jul 2025 23:22:28 GMT | Let’s Defend: 115 — SOC165 — Possible SQL Injection Payload Detected - Writeup | EPereda | [Read More](https://medium.com/p/d5ee5831bd18) |
+| Wed, 23 Jul 2025 23:22:02 GMT | Let’s Defend: 120 — SOC170 — Passwd Found in Requested URL — Possible LFI Attack - Writeup | EPereda | [Read More](https://medium.com/p/ff9250042fe9) |
 | Wed, 23 Jul 2025 23:16:32 GMT | Your AI Just Got Hacked by a Sentence: Welcome to the Era of Prompt Injection | Freddy Dordoni | [Read More](https://medium.com/p/05e212e75920) |
 | Wed, 23 Jul 2025 22:57:09 GMT | Investigating an APT with Splunk (Boss of the SOC) | whoami | [Read More](https://medium.com/p/bbf7f35645af) |
 | Wed, 23 Jul 2025 22:50:51 GMT | iOS Malware Development: A Red Team Perspective on Apple’s Security Architecture | Lord Murak | [Read More](https://medium.com/p/0cd35091de78) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 16:35:40 GMT | Malware, Mint, and Misdirection: Bittensor, ETHTrustFund_, CGPT, and WMRP Hit in $10M+ Exploits | Olympix | [Read More](https://medium.com/p/a00e4508173a) |
 | Wed, 23 Jul 2025 16:33:28 GMT | Flipper Zero Episode 5: Evil Portals & the Dangers of Free Wi-Fi | Fahri | [Read More](https://medium.com/p/f23c340859e4) |
 | Wed, 23 Jul 2025 16:30:52 GMT | 7. Bilgi Güvenliğinin Görünmeyen Temelleri | AYŞE KIZILAY | [Read More](https://medium.com/p/8d0fa79ceb5a) |
-| Wed, 23 Jul 2025 16:28:49 GMT | North Korea’s Research Center 227: AI Cyber Warfare on Steroids | Mona Lo | [Read More](https://medium.com/p/b66db8e23080) |
-| Wed, 23 Jul 2025 16:25:45 GMT | “Bug Bounty CVE-2025–0133 PAN-OS: Reflected Cross-Site Scripting (XSS) “Most Exploited… | HariHaranK | [Read More](https://medium.com/p/79832916cfcd) |
-| Wed, 23 Jul 2025 16:22:18 GMT | The Ethics of AI in Fraud Detection: Risks of False Positives and Network Bias | Ajay Singh | [Read More](https://medium.com/p/80c8a25b8c42) |
