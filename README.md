@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 19:17:42 GMT | CTF Day(42) | Ahmed Narmer | [Read More](https://medium.com/p/a77a615ad65e) |
+| Wed, 23 Jul 2025 19:16:54 GMT | ️The SharePoint Heist : | Shreyash Tambe | [Read More](https://medium.com/p/0eca0b32880b) |
+| Wed, 23 Jul 2025 19:15:33 GMT | How I’m Building a Security Platform with AI: A New Development Paradigm | Cgboal | [Read More](https://medium.com/p/bad2ee596d69) |
+| Wed, 23 Jul 2025 19:15:23 GMT | Confidentiality: Ensuring Customer Trust and Brand Loyalty | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/56a29e1840a3) |
+| Wed, 23 Jul 2025 19:02:23 GMT | Portable Kali Linux(SSD) | Dev | [Read More](https://medium.com/p/547cca36f648) |
+| Wed, 23 Jul 2025 19:01:46 GMT | How a Fake News Website Breached Australia’s Energy Sector — Isabella Kelly | Cyber Valkyries | [Read More](https://medium.com/p/7cd93eaff2b7) |
+| Wed, 23 Jul 2025 18:57:42 GMT | Embedded vs. Centralized DevOps: Choosing the Right Organizational Model | Josh Welch | [Read More](https://medium.com/p/d4c0c8e49648) |
+| Wed, 23 Jul 2025 18:57:23 GMT | CCTV Investigation without FBI tools— Blurred ≠ Lost | XIT | [Read More](https://medium.com/p/aeef0dc37d75) |
+| Wed, 23 Jul 2025 18:53:27 GMT | Why You Should Write More Bugs (Seriously) | Sohail Saifi | [Read More](https://medium.com/p/87f84af4802c) |
+| Wed, 23 Jul 2025 18:52:19 GMT | 20 Browser Extensions I Can’t Live Without as a Security Researcher | w00lfff | [Read More](https://medium.com/p/9c180ae88a2e) |
+| Wed, 23 Jul 2025 18:41:22 GMT | Protecting Europe’s Critical Undersea Infrastructure Depends on Coordination and Collaboration | RAND | [Read More](https://medium.com/p/b27236ea3726) |
+| Wed, 23 Jul 2025 18:35:12 GMT | Critical SharePoint Zero-Day: 400+ Organizations Compromised — Is Yours Next? | David Rizzo | [Read More](https://medium.com/p/d6b68e570a09) |
+| Wed, 23 Jul 2025 18:29:36 GMT | Artifact in the age of epistemic warfare | Justin Almeida | [Read More](https://medium.com/p/46aafde37cff) |
 | Wed, 23 Jul 2025 18:05:10 GMT | Cybersecurity for Engineers: Protecting Embedded and Industrial Control Systems | Frederic Lauzier | [Read More](https://medium.com/p/d1613ebd8597) |
 | Wed, 23 Jul 2025 18:04:18 GMT | 5 Security Mistakes Developers Make in Ruby on Rails (And How to Fix Them) | Ajey | [Read More](https://medium.com/p/f528cc8877e5) |
 | Wed, 23 Jul 2025 17:57:38 GMT | SHAPE YOUR FUTURE WITH THE BEST CYBER | Akhilcris | [Read More](https://medium.com/p/8dc3fc215030) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 14:31:46 GMT | Infrastructure Part II: Cause for Concern? | Kalpitha S | [Read More](https://medium.com/p/b129ad70c1fc) |
 | Wed, 23 Jul 2025 14:31:39 GMT | SMT Program Training Notes | Sarah | [Read More](https://medium.com/p/bb820946062c) |
 | Wed, 23 Jul 2025 14:30:06 GMT | The Smart Parent’s Guide to Earning Cash Back on Kids’ Tuition | Cayuga | [Read More](https://medium.com/p/d71f8723e1d4) |
-| Wed, 23 Jul 2025 14:22:22 GMT | ToolShell: The Critical SharePoint Vulnerability You Need to Patch Now | Lemon | [Read More](https://medium.com/p/4ce870dae005) |
-| Wed, 23 Jul 2025 14:21:41 GMT | Fluffy Hack the Box Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/3aae46f1ecf3) |
-| Wed, 23 Jul 2025 14:21:06 GMT | SOC Nedir? Güvenliğin Kalbi Olan Security Operations Center’ı Anlamak | FatihUYSAL | [Read More](https://medium.com/p/ac3b4923d5df) |
-| Wed, 23 Jul 2025 14:12:55 GMT | The One Skill That Makes You Linux Pro: Real-Life Linux Troubleshooting | Karthick Dkk | [Read More](https://medium.com/p/5b1cb5b9f850) |
-| Wed, 23 Jul 2025 14:08:24 GMT | Samsung Future Tech Innovation Unlocking the Next Generation of Digital Life | Info Rx | [Read More](https://medium.com/p/8263923aa7e3) |
-| Wed, 23 Jul 2025 14:06:22 GMT | Day 27 Mini SOC Lab Using Wazuh SIEM (Step-by-Step Guide) | Rishavkumarthapa | [Read More](https://medium.com/p/8ef9331aaf46) |
-| Wed, 23 Jul 2025 14:02:11 GMT | This — This Is the Question I Keep Coming Back to | Jesse Wilson | [Read More](https://medium.com/p/b4bdfd89469a) |
-| Wed, 23 Jul 2025 14:02:04 GMT | How Cybersecurity Firms in Ontario, California Are Adopting Predictive Defense | Zeta Sky | [Read More](https://medium.com/p/eb7bd89d9b49) |
-| Wed, 23 Jul 2025 14:02:03 GMT | HM Treasury’s OFSI has published a Cryptoassets Threat Assessment guide | The British Blockchain Association (The BBA) | [Read More](https://medium.com/p/bbc681ef77d0) |
-| Wed, 23 Jul 2025 14:02:01 GMT | Cyber Briefing: 2025.07.23 | CyberMaterial | [Read More](https://medium.com/p/7203ec78dd84) |
-| Wed, 23 Jul 2025 14:01:22 GMT | Red Stuff Decoded: The Self-Healing Superpower Behind Walrus | Nytaraa | [Read More](https://medium.com/p/bf4f486bcde3) |
-| Wed, 23 Jul 2025 14:00:59 GMT | Deterrence is lacking in cyber defense | Martin Abramov | [Read More](https://medium.com/p/f5ec88bd4606) |
-| Wed, 23 Jul 2025 14:00:41 GMT | ✍️ XSS Nedir? Gerçek Dünya Örneği ve Korunma Yolları | FatihUYSAL | [Read More](https://medium.com/p/84170b5294b9) |
