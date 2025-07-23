@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 08:24:47 GMT | But this is the life I prayed for… | Ife Dimma. | [Read More](https://medium.com/p/23f1f9c544e9) |
+| Wed, 23 Jul 2025 08:18:23 GMT | Why Hiring a Professional Security Guard Is Essential for Australian Businesses | Stateguard Protective Services | [Read More](https://medium.com/p/dc89da3a2426) |
+| Wed, 23 Jul 2025 08:18:12 GMT | Understanding Privacy Impact Assessment (PIA): A Critical Tool for Corporate Data Responsibility | Isabelle Cheng | [Read More](https://medium.com/p/b99959081134) |
+| Wed, 23 Jul 2025 08:16:42 GMT | TryHackMe “Corridor” Walkthrough | The LazyTechBro | [Read More](https://medium.com/p/d78b7eba05f9) |
+| Wed, 23 Jul 2025 08:10:19 GMT | How to Securely Handle Production Credentials in PHP (Without Exposing Them in Git) | Roman Huliak | [Read More](https://medium.com/p/237f4fd5cf91) |
+| Wed, 23 Jul 2025 08:07:45 GMT | Games24x7: Where Trust Meets Gameplay | Games24x7 Blogs | [Read More](https://medium.com/p/f477bb8715f3) |
+| Wed, 23 Jul 2025 08:05:49 GMT | The Rising Heat: How a Simple Water Experiment Revealed the Invisible Power Shaping Our World | Leo Daniel | [Read More](https://medium.com/p/bbda6f2b6f7e) |
+| Wed, 23 Jul 2025 08:01:52 GMT | Code with Fun: A Developer’s Ultimate Hack to Build, Chill, and Thrive | The NewGenCoder | [Read More](https://medium.com/p/97a54387a57d) |
+| Wed, 23 Jul 2025 07:59:51 GMT | Real Yield, Real Security: Why Haven1 Might Be DeFi’s Safest Bet Yet | Victor | [Read More](https://medium.com/p/ea20ca6ed764) |
+| Wed, 23 Jul 2025 07:58:00 GMT | Hosting a Hidden Website on the Dark Web using Tor and XAMPP (Windows) | Soorya A P | [Read More](https://medium.com/p/65d8317e4240) |
+| Wed, 23 Jul 2025 07:53:15 GMT | Behind CVE-2025–26206: What I Found, How I Found It, and Why It Matters | SIBHI | [Read More](https://medium.com/p/dc37cd05e784) |
+| Wed, 23 Jul 2025 07:52:36 GMT | 2. Setting Up the Ultimate Hacker’s Lab (Free Tools Only) | Abhijeet kumawat | [Read More](https://medium.com/p/1f0debb37af1) |
+| Wed, 23 Jul 2025 07:52:08 GMT | Advance Your BA Career with Expert-Led CBAP Certification Training | Certocean | [Read More](https://medium.com/p/4424b9ce5e35) |
+| Wed, 23 Jul 2025 07:50:13 GMT | CVE-2025–54309: CrushFTP Unprotected Alternate Channel Vulnerability (AS2 Validation Bypass) | Samet Yılmaz Temel | [Read More](https://medium.com/p/648f9b9d8aa6) |
+| Wed, 23 Jul 2025 07:48:43 GMT | DownUnderCTF Write-up: corporate-cliche (PWN) | codebreaker | [Read More](https://medium.com/p/82e04df118c2) |
+| Wed, 23 Jul 2025 07:47:56 GMT | Prisma SD-WAN is Here to Secure Your Future — Claim Your Solution Today! | Juara IT Solutions | [Read More](https://medium.com/p/6fc467f1afb0) |
+| Wed, 23 Jul 2025 07:44:41 GMT | Safeline + Ingress-nginx: WAF Integration Guide for K8s | Quella | [Read More](https://medium.com/p/23739bab8e43) |
+| Wed, 23 Jul 2025 07:41:01 GMT | Every Business Needs an IT Strategy, Not Just IT Support | Junoxen | [Read More](https://medium.com/p/2042ee146a76) |
 | Wed, 23 Jul 2025 07:35:48 GMT | Why Arkime is a Game-Changer for Network Forensics (and Why It’s Not Just Another Wireshark) | Dean | [Read More](https://medium.com/p/c653406eae45) |
 | Wed, 23 Jul 2025 07:33:04 GMT | I Spent the Night Building a Home Cybersecurity Lab (and Breaking Into My Own Fake Website) | Tanner Sexton | [Read More](https://medium.com/p/f8ec753f7831) |
 | Wed, 23 Jul 2025 07:29:28 GMT | Best Digital Cyber Forensics Investigation Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/32afcfe90965) |
@@ -25,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 07:05:29 GMT | CTF Day(40) | Ahmed Narmer | [Read More](https://medium.com/p/74dc4866e071) |
 | Wed, 23 Jul 2025 07:02:53 GMT | Note-Taking for Cybersecurity | Red | [Read More](https://medium.com/p/bce1b3f96c15) |
 | Wed, 23 Jul 2025 06:57:20 GMT | ️ Güvenli Yazılım Geliştirme Teknikleri | HSD Necmettin Erbakan University | [Read More](https://medium.com/p/38d5d5b4a99c) |
+| Wed, 23 Jul 2025 06:56:57 GMT | DEK-KEK the industry standard to protect highly sensitive data (Part 1) | Anh Phan | [Read More](https://medium.com/p/76099e9ef969) |
 | Wed, 23 Jul 2025 06:54:33 GMT | The future of SOCs (Security Operations Centers) in the age of AI and AI agents | Paritosh | [Read More](https://medium.com/p/270a5b2b1704) |
 | Wed, 23 Jul 2025 06:52:47 GMT | DownUnderCTF Write-up: philtered (Web Exploitation) | codebreaker | [Read More](https://medium.com/p/540caff53814) |
 | Wed, 23 Jul 2025 06:52:17 GMT | Spring Boot’ta Asenkron İşlemler ve SecurityContextTaskDecorator | Ugur Adalar | [Read More](https://medium.com/p/e79fefb514ee) |
@@ -94,22 +113,3 @@ Resolution | Kautsar Jilan Roqiyah Nur Amira | [Read More](https://medium.com/p/
 | Wed, 23 Jul 2025 03:20:27 GMT | Prompt injection detection using python — a simple step to secure your AI system | Debashis Debnath | [Read More](https://medium.com/p/e0a26e9ee916) |
 | Wed, 23 Jul 2025 03:04:42 GMT | How I Simulated and Secured an S3 Bucket: A Hands-On Cloud Security | EhistheGreat | [Read More](https://medium.com/p/71a97ea6d62e) |
 | Wed, 23 Jul 2025 02:58:44 GMT | The Hidden AI Drain on My Mac: Spotlight or Surveillance? | Cevher Dogan | [Read More](https://medium.com/p/a4d2ce19e5ef) |
-| Wed, 23 Jul 2025 02:46:45 GMT | CVE-2025–53770: A Comprehensive Analysis of the Critical SharePoint Server Vulnerability | Tech Zealots - Threat & Malware Research | [Read More](https://medium.com/p/9c0a9cb90ed9) |
-| Wed, 23 Jul 2025 02:46:26 GMT | How Is AI Enhancing Ransomware-as-a-Service? | Tal Eliyahu | [Read More](https://medium.com/p/390a80f888ff) |
-| Wed, 23 Jul 2025 02:20:11 GMT | SharePoint Servers Under Global Attack: A Threat to Intellectual Property | PatentRiff | [Read More](https://medium.com/p/9c7d9f9e5d7b) |
-| Wed, 23 Jul 2025 02:19:00 GMT | Falling in Love When You Are Young | Garrett Pettingell | [Read More](https://medium.com/p/c7fa54dd8c49) |
-| Wed, 23 Jul 2025 02:00:41 GMT | PURE INTIMACY & VULNERABILITY | COSMIC MOTHER | [Read More](https://medium.com/p/101a315551b1) |
-| Wed, 23 Jul 2025 01:57:56 GMT | Configuring pfSense Interfaces | 3Graces CC | [Read More](https://medium.com/p/eb84dd4b1599) |
-| Wed, 23 Jul 2025 01:31:46 GMT | Someone Just Logged In Without a Password-This 20-Year-Old Hack Still Works | ven coding | [Read More](https://medium.com/p/1e7797242c62) |
-| Wed, 23 Jul 2025 01:27:09 GMT | Active Directory Penetration Testing (What is AD? Common attacks) | 0trc | [Read More](https://medium.com/p/0b4e9f6e4f6e) |
-| Wed, 23 Jul 2025 01:25:31 GMT | How I Got a Free OSCP Exam Directly from OffSec | Pak Cyberbot | [Read More](https://medium.com/p/c54e562121c5) |
-| Wed, 23 Jul 2025 01:21:51 GMT | When My Body Feels Like a Burden, But Life Keeps Asking for More | Zibs Writes | [Read More](https://medium.com/p/7186ad6605c3) |
-| Wed, 23 Jul 2025 01:20:24 GMT | 10 Prerequisites Before Your First Bug Bounty (And the Tools to Get You Started) | Travis Ray Caverhill | [Read More](https://medium.com/p/9ad3635189b1) |
-| Wed, 23 Jul 2025 01:01:31 GMT | Day 58: Full circle | Nile Okomo | [Read More](https://medium.com/p/8891ad0bce4a) |
-| Wed, 23 Jul 2025 00:57:14 GMT | Installing Kali Linux | 3Graces CC | [Read More](https://medium.com/p/c27fc1de432b) |
-| Wed, 23 Jul 2025 00:51:58 GMT | Quantum Threats Are Coming. Is Your Blockchain Ready? | Aliciasierra | [Read More](https://medium.com/p/17782fb72944) |
-| Wed, 23 Jul 2025 00:50:56 GMT | Setting up pfSense | 3Graces CC | [Read More](https://medium.com/p/eeee77c1b46b) |
-| Wed, 23 Jul 2025 00:43:14 GMT | Anatomy of a Web App Breach (And How to Prevent It): The $4.7 Million Mistake Every Developer Makes | Rizqi Mulki | [Read More](https://medium.com/p/c202000b286f) |
-| Wed, 23 Jul 2025 00:36:29 GMT | Rate Limiting: Your Secret Weapon Against Abuse (And Why Your API Is Probably Getting Pwned Right… | Rizqi Mulki | [Read More](https://medium.com/p/ed352c0a4f29) |
-| Wed, 23 Jul 2025 00:30:36 GMT | How to Store Passwords Safely in 2025: The Ultimate Guide That Could Save Your Digital Life | Rizqi Mulki | [Read More](https://medium.com/p/eb4eef5b0b5d) |
-| Wed, 23 Jul 2025 00:27:38 GMT | Azure DevOps Unlocked: Your Complete DevOps Roadmap | Guven Boyraz | [Read More](https://medium.com/p/aa9d90084a8a) |
