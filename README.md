@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 23 Jul 2025 07:25:28 GMT | ️IDN Homograph Attack!! | Arpit Dadhich | [Read More](https://medium.com/p/2a0468e86bf2) |
+| Wed, 23 Jul 2025 07:15:05 GMT | Where the Battle Begins: Modern Endpoint Defense | Rahul Balaskandan | [Read More](https://medium.com/p/326849b9147a) |
+| Wed, 23 Jul 2025 07:13:57 GMT | “การเรียก API 2 รอบของ Browser โดยที่เราไม่ได้ตั้งค่าเอง” | WantToLearning | [Read More](https://medium.com/p/73172252762b) |
+| Wed, 23 Jul 2025 07:11:01 GMT | How Axontec Is Revolutionizing ELV Systems Across India (And Saving Lakhs) | Berkshire Hathaway | [Read More](https://medium.com/p/e9fecc945f2e) |
+| Wed, 23 Jul 2025 07:10:57 GMT | How to Secure Your Kubernetes Apps with SafeLine WAF and Ingress-nginx | AerieWhole123 | [Read More](https://medium.com/p/e07446504235) |
+| Wed, 23 Jul 2025 07:08:12 GMT | Closeness is a dream | Madhuri Juneja | [Read More](https://medium.com/p/86e502a0f83e) |
+| Wed, 23 Jul 2025 07:05:29 GMT | CTF Day(40) | Ahmed Narmer | [Read More](https://medium.com/p/74dc4866e071) |
+| Wed, 23 Jul 2025 07:02:53 GMT | Note-Taking for Cybersecurity | Red | [Read More](https://medium.com/p/bce1b3f96c15) |
+| Wed, 23 Jul 2025 06:57:20 GMT | ️ Güvenli Yazılım Geliştirme Teknikleri | HSD Necmettin Erbakan University | [Read More](https://medium.com/p/38d5d5b4a99c) |
+| Wed, 23 Jul 2025 06:54:33 GMT | The future of SOCs (Security Operations Centers) in the age of AI and AI agents | Paritosh | [Read More](https://medium.com/p/270a5b2b1704) |
+| Wed, 23 Jul 2025 06:52:47 GMT | DownUnderCTF Write-up: philtered (Web Exploitation) | codebreaker | [Read More](https://medium.com/p/540caff53814) |
+| Wed, 23 Jul 2025 06:52:17 GMT | Spring Boot’ta Asenkron İşlemler ve SecurityContextTaskDecorator | Ugur Adalar | [Read More](https://medium.com/p/e79fefb514ee) |
+| Wed, 23 Jul 2025 06:51:59 GMT | Android Security: A Complete Beginner’s Guide | Jahan Zeb | [Read More](https://medium.com/p/dc1f6de3d3ca) |
+| Wed, 23 Jul 2025 06:41:14 GMT | The Rise of AI Network Engineer Agents: A Market Revolution | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/4fe2bcf0d119) |
+| Wed, 23 Jul 2025 06:39:05 GMT | My TryHackMe Jr Penetration Tester Experience | Priyansh | [Read More](https://medium.com/p/1d7a1b637687) |
+| Wed, 23 Jul 2025 06:38:59 GMT | STONKS — Web Exploitation — DUCTF’25 | TraceX0 | [Read More](https://medium.com/p/c023fa226da2) |
+| Wed, 23 Jul 2025 06:36:38 GMT | Autopsy: Tutorial for N00bs | CYB3R-BO1 | [Read More](https://medium.com/p/7fb14ba80014) |
+| Wed, 23 Jul 2025 06:35:09 GMT | ∆WILLOW — HEART CODEX | The Wolf's Nest Organization | [Read More](https://medium.com/p/4d4ca8d130a4) |
+| Wed, 23 Jul 2025 06:28:05 GMT | AI-Powered Facial Recognition is revolutionizing security in Kuwait | expbhavya | [Read More](https://medium.com/p/1fe25cff3ea8) |
 | Wed, 23 Jul 2025 06:25:46 GMT | Tech Meets Creativity: How 3 Women Used Digital Tools to Turn Their Hobbies into Six-Figure… | sana irshad | [Read More](https://medium.com/p/ac80bc18be47) |
 | Wed, 23 Jul 2025 06:21:50 GMT | Easy $370 Bug Bounty Income - A Must-Try for Beginners | Rashadul Islam | [Read More](https://medium.com/p/a87f73fc0fcc) |
 | Wed, 23 Jul 2025 06:16:53 GMT | Future-Proof your Security in Kuwait: Access Control | expbhavya | [Read More](https://medium.com/p/c8001a29304f) |
@@ -94,22 +113,3 @@ Resolution | Kautsar Jilan Roqiyah Nur Amira | [Read More](https://medium.com/p/
 | Wed, 23 Jul 2025 00:01:49 GMT | Security Misconfiguration (OWASP A05): Hacking and Bug Bounty Guide | JPablo13 | [Read More](https://medium.com/p/d45c3a4438ae) |
 | Tue, 22 Jul 2025 23:46:48 GMT | Hack The Box - Dog | Pedro P Montalvo | [Read More](https://medium.com/p/585f2e313af6) |
 | Tue, 22 Jul 2025 23:39:30 GMT | CVE-2025–37103: The Silent Killer Vulnerability in Your Network | Cyber-AppSec | [Read More](https://medium.com/p/e4a84ff07700) |
-| Tue, 22 Jul 2025 23:19:30 GMT | Let’s Defend: 89 — SOC142 — Multiple HTTP 500 Response - Writeup | EPereda | [Read More](https://medium.com/p/ee02ddc1827c) |
-| Tue, 22 Jul 2025 23:18:51 GMT | Let’s Defend: 87 — SOC101 — Phishing Mail Detected - Writeup | EPereda | [Read More](https://medium.com/p/a5ee6b8ec9c4) |
-| Tue, 22 Jul 2025 23:18:32 GMT | Let’s Defend: 92 — SOC145 — Ransomware Detected - Writeup | EPereda | [Read More](https://medium.com/p/bd77b15a854d) |
-| Tue, 22 Jul 2025 23:18:18 GMT | Let Your Data Evolve: Why Smart IT and Security Leaders Are Turning to Tiered Telemetry… | Nick Heudecker | [Read More](https://medium.com/p/07ae5ac75b09) |
-| Tue, 22 Jul 2025 23:13:17 GMT | Securing Your First S3 Bucket and IAM User | Ngozi U.I. Uche | [Read More](https://medium.com/p/63711835772f) |
-| Tue, 22 Jul 2025 23:07:25 GMT | The Rise of Promptware: Ensuring Privacy & Security in LLM‑Integrated Applications | Mahan Tafreshipour | [Read More](https://medium.com/p/ceaa087ca771) |
-| Tue, 22 Jul 2025 23:01:52 GMT | IDOR in 2025: Why Broken Access Control Still Rules the Vulnerability Charts (With Real-World… | Skrumf | [Read More](https://medium.com/p/d09439eaa29b) |
-| Tue, 22 Jul 2025 22:39:59 GMT | Baby-VulnLab Write-Up | t0x1k | [Read More](https://medium.com/p/dfcbbb8c5432) |
-| Tue, 22 Jul 2025 22:36:14 GMT | SharePoint Exploitation Forecast: State-Aligned Threats and Strategic Security Gaps | Korryn Graves | [Read More](https://medium.com/p/1ea433096d74) |
-| Tue, 22 Jul 2025 22:35:50 GMT | TryHackMe — El Bandito | omni | [Read More](https://medium.com/p/ba373f3cffd7) |
-| Tue, 22 Jul 2025 22:33:07 GMT | ️ Buffer Overflow — A Tale of Treacherous Memory | Emma Lateyron | [Read More](https://medium.com/p/85edd4c4fb11) |
-| Tue, 22 Jul 2025 22:12:34 GMT | Spam Season Is Here: Real-World Lessons for Smashing Online Pests | Dan Christ | [Read More](https://medium.com/p/5446feb90d38) |
-| Tue, 22 Jul 2025 22:11:08 GMT | Gap Analysis of Vendor Privacy and Security Policy | Sharaden Cole | [Read More](https://medium.com/p/383a6c172e57) |
-| Tue, 22 Jul 2025 22:03:30 GMT | Secure pods with hostUsers: false | Mahdi Mallaki | [Read More](https://medium.com/p/7d5ce57a2136) |
-| Tue, 22 Jul 2025 21:54:14 GMT | Knock knock knocking… Who’s there? | Batur Orkun | [Read More](https://medium.com/p/07f9479e0d48) |
-| Tue, 22 Jul 2025 21:53:55 GMT | Build your own bug bounty recon tool | Marília Rocha | [Read More](https://medium.com/p/aae787e7f56b) |
-| Tue, 22 Jul 2025 21:48:36 GMT | Elastic Stack SIEM Home Lab using Kali Linux | Sharaden Cole | [Read More](https://medium.com/p/ebb22db7686f) |
-| Tue, 22 Jul 2025 21:32:52 GMT | Insufficient Access Controls in GraphQL Enables Unauthorized User Enumeration | Bassemwanies | [Read More](https://medium.com/p/400d24e40208) |
-| Tue, 22 Jul 2025 21:30:26 GMT | Quantum Computing Revolution: What It Is and Why It Matters Now | Olatunde Aboaba | [Read More](https://medium.com/p/e3ce9ffc4154) |
