@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 05:17:38 GMT | Web Cache Poisoning via Ambiguous Requests Lead to XSS | Bash Overflow | [Read More](https://medium.com/p/aa9f9f59c079) |
+| Thu, 24 Jul 2025 05:17:10 GMT | Explore Generative AI with the Gemini API in Vertex AI | Prathmesh Jejurkar | [Read More](https://medium.com/p/23512d004b37) |
+| Thu, 24 Jul 2025 05:12:06 GMT | Inside the Dark Web: What Really Happens to Leaked Credentials | CYber VIaz | [Read More](https://medium.com/p/b657db3c0ac6) |
+| Thu, 24 Jul 2025 05:03:45 GMT | What is SEToolkit and How to Use It? | Semih Arda Ersöz | [Read More](https://medium.com/p/e3f819a729b8) |
+| Thu, 24 Jul 2025 05:02:24 GMT | Browser-Based Attacks with BeEF: A Comprehensive Guide | Semih Arda Ersöz | [Read More](https://medium.com/p/7d8dfea5dc28) |
+| Thu, 24 Jul 2025 04:59:47 GMT | The King of MITM Attacks: Ettercap | Semih Arda Ersöz | [Read More](https://medium.com/p/60a860b2bbf3) |
+| Thu, 24 Jul 2025 04:52:05 GMT | Setting up the IBM Watsonx API to work with Colab Notebooks | Nadinsonramos | [Read More](https://medium.com/p/4733a608d3e3) |
+| Thu, 24 Jul 2025 04:48:48 GMT | The Coyote Strikes Again: A New Malware Variant Hijacks Windows UI to Steal Banking Logins | CYber VIaz | [Read More](https://medium.com/p/cbe18b8e09b1) |
+| Thu, 24 Jul 2025 04:48:12 GMT | Sigma & Yara Rules | Afridho Tavadhu | [Read More](https://medium.com/p/36a52738fcef) |
+| Thu, 24 Jul 2025 04:43:47 GMT | Cheapest VPS for bug bounty & pentesting | AbhirupKonwar | [Read More](https://medium.com/p/388139977c36) |
 | Thu, 24 Jul 2025 04:36:51 GMT | Shell upload via Content-Type restriction bypass [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/4441ec78fad0) |
+| Thu, 24 Jul 2025 04:36:48 GMT | How I Built a Sigma Detection Rule to Catch APT29’s Encoded PowerShell Attacks | Manish Rawat | [Read More](https://medium.com/p/9561098798f1) |
+| Thu, 24 Jul 2025 04:32:41 GMT | Trust Issues with Sticky Notes | ACM BPHC | [Read More](https://medium.com/p/bb7288c9af15) |
+| Thu, 24 Jul 2025 04:27:41 GMT | Cyber Scam Alert: Fake mParivahan App Draining Bank Accounts Across India | Nivas Kanniah | [Read More](https://medium.com/p/785592ae71fb) |
 | Thu, 24 Jul 2025 04:25:59 GMT | Day 10- Detecting suspicious activity using timestamps, IPs and failed logins | unica 02 | [Read More](https://medium.com/p/463f3c26e19b) |
 | Thu, 24 Jul 2025 04:25:43 GMT | The Linux Security Journey — Disable Kexec (Disable Kernel Execution) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/165aed0e222e) |
 | Thu, 24 Jul 2025 04:17:03 GMT | Unprecedented SharePoint Zero-Day Exploit Exposes 400+ Organizations | Zem Writers | [Read More](https://medium.com/p/766f99105e69) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 20:05:01 GMT | “Americas AI Action Plan”: Can It Propel the U.S. to Lead the Global AI Race? | CCD-IS | [Read More](https://medium.com/p/a49d65c157d1) |
 | Wed, 23 Jul 2025 20:04:22 GMT | Top 5 Reasons Your Business Needs an IT Audit (Even If You Think You Don’t) | Paradise technologies Inc | [Read More](https://medium.com/p/504a84bc478c) |
 | Wed, 23 Jul 2025 20:00:32 GMT | Over 6,000 Japanese Investors Defrauded and $2 Billion Stolen by Chinese Hackers in Early 2025… | David SEHYEON Baek | [Read More](https://medium.com/p/deb1d4c339fc) |
-| Wed, 23 Jul 2025 19:58:13 GMT | eJPT Zero to Hero: Exploitation CTF 1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/4b53e122d8a0) |
-| Wed, 23 Jul 2025 19:52:53 GMT | Session Fixation in Action: How Hackers Bypass Logins Without Passwords | Cyber-30 | [Read More](https://medium.com/p/94d6744f3b4d) |
-| Wed, 23 Jul 2025 19:52:45 GMT | Becoming a top 1% Ethical Hacker! | Ajay Chandran | [Read More](https://medium.com/p/7204efef721f) |
-| Wed, 23 Jul 2025 19:42:36 GMT | Modern Authentication: Beyond JWT | Winifred Oham | [Read More](https://medium.com/p/75d5dbc98c02) |
-| Wed, 23 Jul 2025 19:36:09 GMT | How I Secured My Coolify Server with CrowdSec (And Why You Should Too) | Sandro Sobczyński | [Read More](https://medium.com/p/336f8abe11ee) |
-| Wed, 23 Jul 2025 19:30:17 GMT | En Yaygın Siber Saldırı Türleri-3 | Melek | [Read More](https://medium.com/p/b6bb54540256) |
-| Wed, 23 Jul 2025 19:17:42 GMT | CTF Day(42) | Ahmed Narmer | [Read More](https://medium.com/p/a77a615ad65e) |
-| Wed, 23 Jul 2025 19:16:54 GMT | ️The SharePoint Heist : | Shreyash Tambe | [Read More](https://medium.com/p/0eca0b32880b) |
-| Wed, 23 Jul 2025 19:15:33 GMT | How I’m Building a Security Platform with AI: A New Development Paradigm | Cgboal | [Read More](https://medium.com/p/bad2ee596d69) |
-| Wed, 23 Jul 2025 19:15:23 GMT | Confidentiality: Ensuring Customer Trust and Brand Loyalty | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/56a29e1840a3) |
-| Wed, 23 Jul 2025 19:09:12 GMT | What Is a SaaS Website? Examples and Quick SEO Tips | Globelisted | [Read More](https://medium.com/p/8960d1b6680b) |
-| Wed, 23 Jul 2025 19:02:23 GMT | Portable Kali Linux(SSD) | Dev | [Read More](https://medium.com/p/547cca36f648) |
-| Wed, 23 Jul 2025 19:01:46 GMT | How a Fake News Website Breached Australia’s Energy Sector — Isabella Kelly | Cyber Valkyries | [Read More](https://medium.com/p/7cd93eaff2b7) |
