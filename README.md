@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 15:32:12 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #6 Solution | Aviv Yaniv | [Read More](https://medium.com/p/9020690e1d47) |
+| Thu, 24 Jul 2025 15:31:49 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #5 Solution | Aviv Yaniv | [Read More](https://medium.com/p/a59eb0fc6945) |
+| Thu, 24 Jul 2025 15:31:28 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #4 Solution | Aviv Yaniv | [Read More](https://medium.com/p/a51c43f24bc6) |
+| Thu, 24 Jul 2025 15:26:57 GMT | Muon Dev Update (July 2025) | Robert Wallace | [Read More](https://medium.com/p/2cec6819c4e7) |
+| Thu, 24 Jul 2025 15:23:03 GMT | A Practical Guide to On-Chain Analysis: Navigating the 5 Critical Pitfalls for the Modern Crypto… | Alex Sandro | [Read More](https://medium.com/p/219702a7ef68) |
+| Thu, 24 Jul 2025 15:22:07 GMT | Hackthebox CBBH Çözümleri: “Web Service & API Attacks — Skills Assesment” Çözümü | Osman Can | [Read More](https://medium.com/p/eb1c407589eb) |
+| Thu, 24 Jul 2025 15:18:54 GMT | Chinese Hackers Are Exploiting a Dangerous Microsoft SharePoint Bug, Say Google and Microsoft | Tech Thrilled | [Read More](https://medium.com/p/08ff027c3310) |
+| Thu, 24 Jul 2025 15:18:11 GMT | ⚠️ Phishing in the Cloud: A Real-World Wake-Up Call | GIRISH G | [Read More](https://medium.com/p/b361a01ce337) |
+| Thu, 24 Jul 2025 15:18:06 GMT | Defending Every Layer: OSI Model Security with AWS Services | Allen Cunningham | [Read More](https://medium.com/p/23ddc4d5ff71) |
+| Thu, 24 Jul 2025 15:17:18 GMT | ⚡ *Outpaced by Time: The Hidden Struggles of Building an IT Career in a Rapid World* | Missumehani | [Read More](https://medium.com/p/d23c2d8ae99c) |
 | Thu, 24 Jul 2025 15:12:44 GMT | Complete XSS Guide: Types, Tools, Payloads, and Detection | Shoaib Bin Rashid | [Read More](https://medium.com/p/3243cb8840c6) |
+| Thu, 24 Jul 2025 15:12:05 GMT | Blowing Up the Theme Park | Andy Manoske | [Read More](https://medium.com/p/7fcb3f4de5c1) |
+| Thu, 24 Jul 2025 15:11:13 GMT | Ever wonder how DeFi gets rekt? Let’s talk oracle manipulation! | Joseph Gimba | [Read More](https://medium.com/p/22e4f603eb8c) |
 | Thu, 24 Jul 2025 15:07:25 GMT | How to Upgrade to Windows 11 Before Windows 10 Support Ends (UK Guide 2025) | Alex | [Read More](https://medium.com/p/5380f63fdf15) |
 | Thu, 24 Jul 2025 15:06:07 GMT | IoT Device Security: From Discovery to Defense | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9faee0ea2071) |
 | Thu, 24 Jul 2025 15:01:55 GMT | Why Public Email = Open Door for Targeted Attacks | Ingvar Pavlovich | [Read More](https://medium.com/p/e9434e3c0c0b) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 10:49:37 GMT | The Ultimate Guide to Wi-Fi Hacking-Part 1 | Redfox Security | [Read More](https://medium.com/p/e4ee5e707432) |
 | Thu, 24 Jul 2025 10:43:47 GMT | Resumen de novedades: Inteligencia Artificial & Tecnologías de Información | Dario Bernabeu | [Read More](https://medium.com/p/e04c06e3ea5e) |
 | Thu, 24 Jul 2025 10:42:21 GMT | Building an Advanced Python Keylogger for Red Team Simulation | its lohith | [Read More](https://medium.com/p/a8e7fad92adb) |
-| Thu, 24 Jul 2025 10:40:01 GMT | Caller to Catastrophe: Pen‑Testing Lessons from Clorox’s $380M Help Desk Hack | Inforsecpro | [Read More](https://medium.com/p/6b4a984422d6) |
-| Thu, 24 Jul 2025 10:35:31 GMT | Haze HackTheBox - Detailed Writeup | 0xleksa | [Read More](https://medium.com/p/8c01cce2bbc3) |
-| Thu, 24 Jul 2025 10:29:34 GMT | Integrating OWASP Dependency-Check into Maven Verify Goal | Giannakopoulosj | [Read More](https://medium.com/p/69219ed364ab) |
-| Thu, 24 Jul 2025 10:27:52 GMT | Best RFID Tags in Dubai with iv RFID Solutions | Sharoonecraftz | [Read More](https://medium.com/p/13f721cf58d2) |
-| Thu, 24 Jul 2025 10:26:35 GMT | Şifre mi, Parola mı? Sık Karıştırılan Bu İki Kavramı Artık Doğru Kullanalım! | Tuğrul Kılıç | [Read More](https://medium.com/p/746502c40fec) |
-| Thu, 24 Jul 2025 10:26:30 GMT | Unmasking Root: How a Misconfigured Shadow File Gave Me Full Access | Dipanshu Chhanikar | [Read More](https://medium.com/p/3c14e6684d02) |
-| Thu, 24 Jul 2025 10:23:12 GMT | Cybersecurity Awareness — What Is Data Security Posture Management (DSPM) and Why It Matters in… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/d4703282b6f5) |
-| Thu, 24 Jul 2025 10:20:40 GMT | Why Cybersecurity in Operational Technology Can’t Be Ignored | Daniel | [Read More](https://medium.com/p/fa9f69f02d50) |
-| Thu, 24 Jul 2025 10:16:00 GMT | Some Days I Wake Up Tired, Even After Sleeping. | Dear Diary Soul | [Read More](https://medium.com/p/1cb2337565bf) |
-| Thu, 24 Jul 2025 10:02:37 GMT | Who Really Runs the Sahel? | Universal Peace Federation - Africa | [Read More](https://medium.com/p/73d46961ab09) |
-| Thu, 24 Jul 2025 10:02:33 GMT | HOW I GOT MY FOUR DIGIT BOUNTY $$$$ | cyberblack222 | [Read More](https://medium.com/p/ae355ee9ff48) |
-| Thu, 24 Jul 2025 09:45:14 GMT | Cheyanne Mallas: Driving Cybersecurity Innovation as Project Director | Cheyannemallaspa | [Read More](https://medium.com/p/75402600faca) |
