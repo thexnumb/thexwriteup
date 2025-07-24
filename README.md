@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 20:12:34 GMT | Tired Of Pretending. | Amna Javaid | [Read More](https://medium.com/p/de7caa06f6d5) |
+| Thu, 24 Jul 2025 20:06:32 GMT | Cyber Risk Is Strategic Risk: Why Directors Must Own It (1/3) | Dr Abbie Widin | [Read More](https://medium.com/p/b5e2dbb35a18) |
+| Thu, 24 Jul 2025 20:02:29 GMT | The Fall of XSS.is: Inside the Major Takedown of a Russian-Speaking Cybercrime Forum | Mohammed Muneef | [Read More](https://medium.com/p/242956607902) |
+| Thu, 24 Jul 2025 19:55:39 GMT | Surviving the IT Job Market in Morocco: a journey that I never expected | MeerKat | [Read More](https://medium.com/p/5e833f49188f) |
+| Thu, 24 Jul 2025 19:53:33 GMT | En Yaygın Siber Saldırı Türleri-4 | Melek | [Read More](https://medium.com/p/b86a5523875b) |
+| Thu, 24 Jul 2025 19:49:22 GMT | Overview: OWASP Mobile Top 10 (2024–2025) | AG_Notes | [Read More](https://medium.com/p/5da443d81d1f) |
+| Thu, 24 Jul 2025 19:46:51 GMT | Como o Zabbix pode ajudar na segurança dos ambientes Linux e Windows | tsleite | [Read More](https://medium.com/p/a1c1071f0768) |
 | Thu, 24 Jul 2025 19:35:08 GMT | We All Live in Shells – But What Happens When We Step Outside Them? | Polly BN | [Read More](https://medium.com/p/c3dec63e1117) |
+| Thu, 24 Jul 2025 19:33:22 GMT | How Agentic AI Will Reshape Cybersecurity Teams by 2028 | Taimur Ijlal | [Read More](https://medium.com/p/d472426f615c) |
 | Thu, 24 Jul 2025 19:21:07 GMT | From Zero to Code: How to Prepare Your Laptop for Coding in 2025 | Ejete Blessing | [Read More](https://medium.com/p/cdaec21cc96f) |
 | Thu, 24 Jul 2025 19:16:11 GMT | From Co-Pilot to Spy: Why Your AI Assistant Might Be the Next Big Security Threat | Spencer Thomason | [Read More](https://medium.com/p/b4c2dd80dd96) |
 | Thu, 24 Jul 2025 19:12:39 GMT | Google Warns: Open Source Supply Chain Security at Risk | Dogli Wilberforce | [Read More](https://medium.com/p/8e1c8e1b2cf3) |
@@ -105,11 +113,3 @@ and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://med
 | Thu, 24 Jul 2025 14:33:35 GMT | HTTP Security Headers for Beginners | Vineeth Tunk | [Read More](https://medium.com/p/ed7f97e4865b) |
 | Thu, 24 Jul 2025 14:33:05 GMT | Valentine - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/be1c77e6e541) |
 | Thu, 24 Jul 2025 14:31:20 GMT | Como proteger dados sensíveis com Java 21 e AES-GCM | Dowglas Maia | [Read More](https://medium.com/p/7b4c43ed9b6f) |
-| Thu, 24 Jul 2025 14:30:18 GMT | Automating My Development Life with Python | RimshaKashif | [Read More](https://medium.com/p/25b882640e27) |
-| Thu, 24 Jul 2025 14:27:50 GMT | ️ Discover Domain Ownership Instantly — A Free WHOIS and Subdomain Lookup Tool for OSINT &… | Haxshadow | [Read More](https://medium.com/p/120f67cecb99) |
-| Thu, 24 Jul 2025 14:24:09 GMT | Session Hijacking Explained (and Defended) | Rizqi Mulki | [Read More](https://medium.com/p/1d2d5edea95b) |
-| Thu, 24 Jul 2025 14:24:01 GMT | CrowdStrike’s July 19 Cybersecurity: A Masterclass in What Not to Do in Cybersecurity | Harishsingh | [Read More](https://medium.com/p/6e75bc649d6b) |
-| Thu, 24 Jul 2025 14:22:20 GMT | Dikkate Alınmayan Zafiyetler, Ele Geçirilen Sistemler: Temel Pentest Senaryosu | Nazmiyecaglar | [Read More](https://medium.com/p/474e1962f0ce) |
-| Thu, 24 Jul 2025 14:17:10 GMT | Trust in the Age of AI: A Cybersecurity Wake-Up Call for Every Parent and Citizen in India | Vijay Kumar Gupta | [Read More](https://medium.com/p/fae96ebb5dae) |
-| Thu, 24 Jul 2025 14:17:03 GMT | ️ Cloud Security: Laying the Groundwork for My SOC Analyst Journey. | Dany Christel | [Read More](https://medium.com/p/ffe2f8d9a479) |
-| Thu, 24 Jul 2025 14:16:05 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/20b185ad161d) |
