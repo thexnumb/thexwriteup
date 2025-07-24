@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 06:21:49 GMT | Mastering Secure Authentication: A Deep Dive into JWTs and Web App Security | Rishav Raj | [Read More](https://medium.com/p/ea562c610bd1) |
+| Thu, 24 Jul 2025 06:14:31 GMT | Inside the Vim Vulnerability: How Malicious ZIP Files Can Compromise System Integrity | Infoziant | [Read More](https://medium.com/p/7a46b61aceb3) |
+| Thu, 24 Jul 2025 06:12:12 GMT | Why I Completely Moved to Brave Browser, and Why You Should Consider It Too. | Kriti Tiwari | [Read More](https://medium.com/p/cff899bae8bb) |
+| Thu, 24 Jul 2025 06:06:29 GMT | Describe encryption and hashing | Eyad Hasanato | [Read More](https://medium.com/p/60eea6f03066) |
+| Thu, 24 Jul 2025 06:02:52 GMT | How Linux Wakes Up: The Boot Process Explained Like You’re 5 | MayhemCode | [Read More](https://medium.com/p/76ea6ba9683d) |
+| Thu, 24 Jul 2025 06:01:02 GMT | Today’s Top Cyber Intelligence Highlights — Jul 24, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/63d7c4c1fd82) |
 | Thu, 24 Jul 2025 05:41:08 GMT | Lakshman Rekha in the Digital Age: The First Rule of Cyber Defense | Dr. Rakhi R Wadhwani | [Read More](https://medium.com/p/5b7c96599de8) |
 | Thu, 24 Jul 2025 05:32:17 GMT | Infographic: How AI Transforms eCommerce | Website Design Company - Alakmalak Technologies | [Read More](https://medium.com/p/307dbd8b7fb6) |
 | Thu, 24 Jul 2025 05:29:15 GMT | Why Booking a Flight Is Harder Than It Looks ✈️(Concurrency) | Prem Goswami | [Read More](https://medium.com/p/552800468af8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 21:01:03 GMT | قصة نجاح كيف حققت 1000$ من العمل الحر في 60 يوم؟ | katibatech | [Read More](https://medium.com/p/f10735c6b4be) |
 | Wed, 23 Jul 2025 21:01:01 GMT | Part 5: web3 Security — Bridging the Gaps (and Risks) — Cross-Chain Security & Interoperability | Ben San Roman | [Read More](https://medium.com/p/a72412745904) |
 | Wed, 23 Jul 2025 20:58:53 GMT | The Importance of Establishing Digital Trust in an Organization | Cornwellja | [Read More](https://medium.com/p/db50bd64e999) |
-| Wed, 23 Jul 2025 20:55:48 GMT | Starting Over with Bug Bounty (Again) | Aditya Narayan | [Read More](https://medium.com/p/01abcc40174a) |
-| Wed, 23 Jul 2025 20:51:40 GMT | How One Weak Password Took Down a 158-Year-Old Company | Mr.PlanB | [Read More](https://medium.com/p/42e895de7213) |
-| Wed, 23 Jul 2025 20:49:24 GMT | Let’s Be Honest: Sometimes “I’m Fine” Is Just a Lie We All Tell | @Lumi | [Read More](https://medium.com/p/e34a14a150e9) |
-| Wed, 23 Jul 2025 20:28:35 GMT | Turning Lost Phones Into Tools of Surveillance (Legally Dubious Edition) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/95c04aa85584) |
-| Wed, 23 Jul 2025 20:27:40 GMT | The Chatbot That Hacked Your Web App | Derick Johnson | [Read More](https://medium.com/p/cd85f470e8ca) |
-| Wed, 23 Jul 2025 20:27:12 GMT | HOW TO CREATE A PASSWORD POLICY ON MICROSOFT INTUNE | Ariyo Oladapo | [Read More](https://medium.com/p/e9b703160cf6) |
