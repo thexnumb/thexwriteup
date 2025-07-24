@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 18:21:26 GMT | Cloud Infrastructure Entitlement Management: Fixing the Access Chaos in the Cloud | SafeAeon Inc. | [Read More](https://medium.com/p/1c7c0bfd0659) |
+| Thu, 24 Jul 2025 18:13:52 GMT | What a Burglar Sees When They Look at Your House | SmarterHome.ai | [Read More](https://medium.com/p/6d571b496731) |
+| Thu, 24 Jul 2025 18:10:29 GMT | 802.1X Kimlik Doğrulama Sorunları ve Çözümleri — Detaylı Rehber ️ | Emre Koç | [Read More](https://medium.com/p/190a7f48f4f2) |
+| Thu, 24 Jul 2025 18:10:00 GMT | IoT Security Flaws: What I Learned From Hacking My First Router | Brenton McPherson | [Read More](https://medium.com/p/f87499b0d4ae) |
+| Thu, 24 Jul 2025 18:06:55 GMT | Top 5 Cyber Threats in 2025 and How to Prevent Them | Shieldnova | [Read More](https://medium.com/p/7a6b535de7a3) |
+| Thu, 24 Jul 2025 18:05:09 GMT | DAY 24 — CHAPTER 12: Managing the Linux Kernel | Jinay | [Read More](https://medium.com/p/e455a8a5e862) |
+| Thu, 24 Jul 2025 17:50:53 GMT | Stay One Step Ahead: Mastering Threat Detection Extensions in a High-Risk Digital World | Suhasml | [Read More](https://medium.com/p/c04dfc79a3ab) |
 | Thu, 24 Jul 2025 17:29:57 GMT | Sukses Berkarier di Era Digital dengan S1 Informatika Amikom Jogja | Revofallentino | [Read More](https://medium.com/p/6aaed79c316f) |
 | Thu, 24 Jul 2025 17:27:37 GMT | Europol toma el control del foro XSS y arresta a uno de sus administradores en Kiev | Tiziano Mass | [Read More](https://medium.com/p/e682acbbabde) |
 | Thu, 24 Jul 2025 17:27:33 GMT | “Baik?” | Zahra Azmi | [Read More](https://medium.com/p/ffac2683a30f) |
@@ -106,10 +113,3 @@ and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://med
 | Thu, 24 Jul 2025 13:33:27 GMT | Wireshark: Traffic Analysis - TryHackMe — Walkthrough — Part 1 | Momal Naz | [Read More](https://medium.com/p/41fac39d8ad3) |
 | Thu, 24 Jul 2025 13:32:45 GMT | OSINT CTF Walkthrough: TryHackMe Technocrat - My First Capture! | Adwaith S | [Read More](https://medium.com/p/a5c96b81dbf7) |
 | Thu, 24 Jul 2025 13:31:15 GMT | Most Employees Stay Invisible Forever — Because Leaders Ignore This Brutal Truth | Anil Jangra, MBA | [Read More](https://medium.com/p/ab12956ac623) |
-| Thu, 24 Jul 2025 13:27:25 GMT | How to Outsmart Scammers: Stay Safe from Phishing and Vishing in Crypto | Henry Windle | [Read More](https://medium.com/p/9750f280680a) |
-| Thu, 24 Jul 2025 13:26:32 GMT | Building Your First AI Threat Detection Model: Executive Summary | Paul Sherman | [Read More](https://medium.com/p/e91327684edc) |
-| Thu, 24 Jul 2025 13:25:41 GMT | Top 10 API Security Threats in 2025 & How Testing Services Detect Them | Dmvikash | [Read More](https://medium.com/p/8256b913c2bc) |
-| Thu, 24 Jul 2025 13:24:53 GMT | The Oracles Secure the Data — But Who Secures the Oracles? | Adán Sánchez de Pedro | [Read More](https://medium.com/p/c4cb253a4ea2) |
-| Thu, 24 Jul 2025 13:22:58 GMT | FriendZone - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/f99ec5a3c359) |
-| Thu, 24 Jul 2025 13:21:40 GMT | Bank Paypal Cashapp Transfer and Cloned Cards CC ATM Dumps Buy PayPal Txt USA 616 2021156 | Albert | [Read More](https://medium.com/p/87148f723d51) |
-| Thu, 24 Jul 2025 13:18:24 GMT | Zero-Day Nightmare: How a Turkish Espionage Group Exploited Output Messenger | Kalariya Het | [Read More](https://medium.com/p/12025f58e935) |
