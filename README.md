@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 14:38:42 GMT | The Bug isn’t the problem. Your broken debugging process is. | Balemarthy Vamsi | [Read More](https://medium.com/p/bc69b7bc82a1) |
+| Thu, 24 Jul 2025 14:38:23 GMT | Protecting Sensitive Data with Java 21: Modern Security Best Practices | Dowglas Maia | [Read More](https://medium.com/p/f61d41a9a5ce) |
+| Thu, 24 Jul 2025 14:35:54 GMT | Linux Incident Surface — Tryhackme walkthrough | Mukund | [Read More](https://medium.com/p/91458406872a) |
+| Thu, 24 Jul 2025 14:33:35 GMT | HTTP Security Headers for Beginners | Vineeth Tunk | [Read More](https://medium.com/p/ed7f97e4865b) |
+| Thu, 24 Jul 2025 14:33:05 GMT | Valentine - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/be1c77e6e541) |
+| Thu, 24 Jul 2025 14:31:20 GMT | Como proteger dados sensíveis com Java 21 e AES-GCM | Dowglas Maia | [Read More](https://medium.com/p/7b4c43ed9b6f) |
+| Thu, 24 Jul 2025 14:30:18 GMT | Automating My Development Life with Python | RimshaKashif | [Read More](https://medium.com/p/25b882640e27) |
+| Thu, 24 Jul 2025 14:27:50 GMT | ️ Discover Domain Ownership Instantly — A Free WHOIS and Subdomain Lookup Tool for OSINT &… | Haxshadow | [Read More](https://medium.com/p/120f67cecb99) |
+| Thu, 24 Jul 2025 14:24:09 GMT | Session Hijacking Explained (and Defended) | Rizqi Mulki | [Read More](https://medium.com/p/1d2d5edea95b) |
+| Thu, 24 Jul 2025 14:24:01 GMT | CrowdStrike’s July 19 Cybersecurity: A Masterclass in What Not to Do in Cybersecurity | Harishsingh | [Read More](https://medium.com/p/6e75bc649d6b) |
 | Thu, 24 Jul 2025 14:22:20 GMT | Dikkate Alınmayan Zafiyetler, Ele Geçirilen Sistemler: Temel Pentest Senaryosu | Nazmiyecaglar | [Read More](https://medium.com/p/474e1962f0ce) |
 | Thu, 24 Jul 2025 14:17:10 GMT | Trust in the Age of AI: A Cybersecurity Wake-Up Call for Every Parent and Citizen in India | Vijay Kumar Gupta | [Read More](https://medium.com/p/fae96ebb5dae) |
 | Thu, 24 Jul 2025 14:17:03 GMT | ️ Cloud Security: Laying the Groundwork for My SOC Analyst Journey. | Dany Christel | [Read More](https://medium.com/p/ffe2f8d9a479) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 09:30:01 GMT | Best Network Security solution in Dubai | Oadtechdubai | [Read More](https://medium.com/p/cf6ea2b90418) |
 | Thu, 24 Jul 2025 09:29:58 GMT | Why Math.random() Isn’t Truly Random — and How Crypto APIs Save Your Security | Awwwesssooooome | [Read More](https://medium.com/p/e0a749f99458) |
 | Thu, 24 Jul 2025 09:29:42 GMT | The badge I didn’t expect to wear | Prerna Goel | [Read More](https://medium.com/p/83d3bc7efdbf) |
-| Thu, 24 Jul 2025 09:24:09 GMT | How Much Does a Security Guard Cost in Hyderabad? Everything You Need to Know Before Hiring | Group 24/7 Security Services | [Read More](https://medium.com/p/213d44d88363) |
-| Thu, 24 Jul 2025 09:22:31 GMT | Best Custom Software Development- Karachi, Pakistan! | Ashley Adam | [Read More](https://medium.com/p/67bdf9045d1a) |
-| Thu, 24 Jul 2025 09:21:38 GMT | The Daily Tech Digest: 24 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/38353103710b) |
-| Thu, 24 Jul 2025 09:21:00 GMT | Microsoft Sentinel Data Lake: A New Era in Unified Security and AI | Zolegz | [Read More](https://medium.com/p/94ffb2f09869) |
-| Thu, 24 Jul 2025 09:18:47 GMT | The Real Role of Risk Management in Modern Business | Anjali Moitra Roy | [Read More](https://medium.com/p/37469cc8eda6) |
-| Thu, 24 Jul 2025 09:11:23 GMT | Breaking My Silence: A Month of Milestones in Cybersecurity! | Umer Yousuf | [Read More](https://medium.com/p/ef831aabe670) |
-| Thu, 24 Jul 2025 09:10:24 GMT | What a Smile Can Hide | Rowena Fortuin | [Read More](https://medium.com/p/aee09adaee6a) |
-| Thu, 24 Jul 2025 09:07:06 GMT | The Log4j Specter Still Lingers! | Umer Yousuf | [Read More](https://medium.com/p/c6227159d729) |
-| Thu, 24 Jul 2025 09:06:40 GMT | HackTheBox: LootStash reverse engineering writeup | Rana chouchane | [Read More](https://medium.com/p/cc75e7e2340c) |
-| Thu, 24 Jul 2025 09:06:27 GMT | Forensics - picoGym - St3g0 | Flower Bed | [Read More](https://medium.com/p/2e8ffb38fd13) |
