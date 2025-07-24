@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 16:42:12 GMT | In a world that’s increasingly connected, cybersecurity is no longer a luxury, it’s a necessity. | Valkyrie Pippa | [Read More](https://medium.com/p/b1e90822632a) |
+| Thu, 24 Jul 2025 16:42:07 GMT | A Three-Step Framework for Remediating up to 95% of CVEs in minutes Without Code Changes with… | Sophia Perez | [Read More](https://medium.com/p/f440e251797f) |
+| Thu, 24 Jul 2025 16:40:18 GMT | Your AI Chat History: A Ticking Privacy Bomb? | AI Rabbit | [Read More](https://medium.com/p/7d4d7f339191) |
+| Thu, 24 Jul 2025 16:37:00 GMT | Kenobi Walkthrough Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/be1661b2ec27) |
+| Thu, 24 Jul 2025 16:35:53 GMT | Why Collaborative AI needs a Capability Model | devsecops | [Read More](https://medium.com/p/e06e8aa74a73) |
+| Thu, 24 Jul 2025 16:31:51 GMT | How to Recognize a Phishing Email Before It’s Too Late | Timonéofearth | [Read More](https://medium.com/p/08a56b9782fd) |
+| Thu, 24 Jul 2025 16:31:50 GMT | Securing Passwords in Python Using a Simple SHA-256 Hasher Buildable in Minutes | Eddie Artis Jr. | [Read More](https://medium.com/p/c58c7e16581a) |
+| Thu, 24 Jul 2025 16:24:41 GMT | Emerging Technologies in Computer Science Industry | KIRTPREET KAUR | [Read More](https://medium.com/p/5f7952455fba) |
 | Thu, 24 Jul 2025 16:19:39 GMT | OpenVAS Installation | Shir0E | [Read More](https://medium.com/p/f22a6ffb2797) |
+| Thu, 24 Jul 2025 16:16:37 GMT | The $44M Hack That Left User Wallets Untouched | CoinGen | [Read More](https://medium.com/p/78cadfe766a5) |
 | Thu, 24 Jul 2025 16:13:40 GMT | Why Protecting Your Digital Identity Matters | Akhil Rajan | [Read More](https://medium.com/p/3db8bd55af21) |
 | Thu, 24 Jul 2025 16:12:38 GMT | Cyber Kill Chain Nedir? | FatihUYSAL | [Read More](https://medium.com/p/3a77d70873b6) |
 | Thu, 24 Jul 2025 16:11:28 GMT | Best Apps to Check If Your Phone Is Spied On Without Your Knowledge | Narjis Batool | [Read More](https://medium.com/p/a7ef1c01ac01) |
@@ -104,12 +113,3 @@ and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://med
 | Thu, 24 Jul 2025 12:02:04 GMT | SIGMA & YARA RULES | Alsyah Widi | [Read More](https://medium.com/p/845fc76a4132) |
 | Thu, 24 Jul 2025 12:01:08 GMT | Inside the Rise of DieNet | Vismaya | [Read More](https://medium.com/p/e08e71fbd4b5) |
 | Thu, 24 Jul 2025 11:56:33 GMT | Beyond the Obvious: Fortifying Your Application’s Data Against the Unseen Threats | Viquar Younus Mohammed | [Read More](https://medium.com/p/b3886d511853) |
-| Thu, 24 Jul 2025 11:55:06 GMT | Pre-Account Takeover via OAuth Misconfiguration | Ehtesham Ul Haq | [Read More](https://medium.com/p/0e393cda1f7e) |
-| Thu, 24 Jul 2025 11:31:44 GMT | Securing the Unsecure Networks — A primer | Naveed Ahmed 《内维德》 | [Read More](https://medium.com/p/eecd92895234) |
-| Thu, 24 Jul 2025 11:29:17 GMT | From Recon to Ruin: Red-Team Dissection of the CargoTalon Aerospace Breach | Pentestjunkie07 | [Read More](https://medium.com/p/a1ec72b72685) |
-| Thu, 24 Jul 2025 11:27:02 GMT | Day 53: Internal Audits vs External Audits | Brittney Ginther | [Read More](https://medium.com/p/99b40b54691d) |
-| Thu, 24 Jul 2025 11:26:17 GMT | Even as security technology continues to advance, many homeowners are still making the same… | Erik Olof Olsson | [Read More](https://medium.com/p/545eaa001187) |
-| Thu, 24 Jul 2025 11:26:01 GMT | Cross-Site Request Forgery (CSRF) | Thomas Hofmann | [Read More](https://medium.com/p/ede975acc79d) |
-| Thu, 24 Jul 2025 11:25:07 GMT | 2024'ün En İyi 10 Web Hacking Tekniklerini Birlikte İnceleyelim | Serdarumuturan | [Read More](https://medium.com/p/7f4fefbfe43d) |
-| Thu, 24 Jul 2025 11:24:42 GMT | Stored XSS via File Upload — A 3-Minute Security Breakdown | abhishek sutar | [Read More](https://medium.com/p/e61e096d5e60) |
-| Thu, 24 Jul 2025 11:17:49 GMT | MetaCTF Flash CTF 2024: Cookie Crackdown | Bridget | [Read More](https://medium.com/p/c65d818cc1b5) |
