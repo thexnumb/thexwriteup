@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 05:41:08 GMT | Lakshman Rekha in the Digital Age: The First Rule of Cyber Defense | Dr. Rakhi R Wadhwani | [Read More](https://medium.com/p/5b7c96599de8) |
+| Thu, 24 Jul 2025 05:32:17 GMT | Infographic: How AI Transforms eCommerce | Website Design Company - Alakmalak Technologies | [Read More](https://medium.com/p/307dbd8b7fb6) |
+| Thu, 24 Jul 2025 05:29:15 GMT | Why Booking a Flight Is Harder Than It Looks ✈️(Concurrency) | Prem Goswami | [Read More](https://medium.com/p/552800468af8) |
+| Thu, 24 Jul 2025 05:19:52 GMT | A Python Script to Find Suspicious Log Entries | Cyberfikun | [Read More](https://medium.com/p/bd2a33aefca6) |
+| Thu, 24 Jul 2025 05:19:11 GMT | Authentication Bypass via Inconsistent Credential Validation (Phone vs Email Login) | Lakshya | [Read More](https://medium.com/p/2e435bc2a290) |
 | Thu, 24 Jul 2025 05:17:38 GMT | Web Cache Poisoning via Ambiguous Requests Lead to XSS | Bash Overflow | [Read More](https://medium.com/p/aa9f9f59c079) |
 | Thu, 24 Jul 2025 05:17:10 GMT | Explore Generative AI with the Gemini API in Vertex AI | Prathmesh Jejurkar | [Read More](https://medium.com/p/23512d004b37) |
+| Thu, 24 Jul 2025 05:15:23 GMT | Safe Money, Smart Blockchain: How Umoja Coin Is Rewriting the Trust Equation | Umoja Coin | [Read More](https://medium.com/p/90e0b8905007) |
+| Thu, 24 Jul 2025 05:14:36 GMT | Cortex Cloud by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3fcef6cbace2) |
 | Thu, 24 Jul 2025 05:12:06 GMT | Inside the Dark Web: What Really Happens to Leaked Credentials | CYber VIaz | [Read More](https://medium.com/p/b657db3c0ac6) |
 | Thu, 24 Jul 2025 05:03:45 GMT | What is SEToolkit and How to Use It? | Semih Arda Ersöz | [Read More](https://medium.com/p/e3f819a729b8) |
 | Thu, 24 Jul 2025 05:02:24 GMT | Browser-Based Attacks with BeEF: A Comprehensive Guide | Semih Arda Ersöz | [Read More](https://medium.com/p/7d8dfea5dc28) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 20:28:35 GMT | Turning Lost Phones Into Tools of Surveillance (Legally Dubious Edition) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/95c04aa85584) |
 | Wed, 23 Jul 2025 20:27:40 GMT | The Chatbot That Hacked Your Web App | Derick Johnson | [Read More](https://medium.com/p/cd85f470e8ca) |
 | Wed, 23 Jul 2025 20:27:12 GMT | HOW TO CREATE A PASSWORD POLICY ON MICROSOFT INTUNE | Ariyo Oladapo | [Read More](https://medium.com/p/e9b703160cf6) |
-| Wed, 23 Jul 2025 20:14:06 GMT | Post-Quantum Encryption: Are We Ready for Quantum Hacking? | Tek News Feed | [Read More](https://medium.com/p/c5feb29c60fe) |
-| Wed, 23 Jul 2025 20:13:07 GMT | Cyber Security Offense and Defense Home Lab — Part 4 (Configuring pfsense firewall-GUI) | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/47a652903450) |
-| Wed, 23 Jul 2025 20:12:35 GMT | Breathing New Life into My Old Lenovo Laptop: The Journey to Building a Personal Home lab. | Austin Gomez | [Read More](https://medium.com/p/6823932ec8ff) |
-| Wed, 23 Jul 2025 20:10:20 GMT | MCM Client: What It Is, Why It’s on Your Phone, and Whether You Should Worry | Akshay Chauhan | [Read More](https://medium.com/p/131ff4429127) |
-| Wed, 23 Jul 2025 20:05:01 GMT | “Americas AI Action Plan”: Can It Propel the U.S. to Lead the Global AI Race? | CCD-IS | [Read More](https://medium.com/p/a49d65c157d1) |
-| Wed, 23 Jul 2025 20:04:22 GMT | Top 5 Reasons Your Business Needs an IT Audit (Even If You Think You Don’t) | Paradise technologies Inc | [Read More](https://medium.com/p/504a84bc478c) |
-| Wed, 23 Jul 2025 20:00:32 GMT | Over 6,000 Japanese Investors Defrauded and $2 Billion Stolen by Chinese Hackers in Early 2025… | David SEHYEON Baek | [Read More](https://medium.com/p/deb1d4c339fc) |
