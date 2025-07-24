@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 10:42:21 GMT | Building an Advanced Python Keylogger for Red Team Simulation | its lohith | [Read More](https://medium.com/p/a8e7fad92adb) |
+| Thu, 24 Jul 2025 10:40:01 GMT | Caller to Catastrophe: Pen‑Testing Lessons from Clorox’s $380M Help Desk Hack | Inforsecpro | [Read More](https://medium.com/p/6b4a984422d6) |
+| Thu, 24 Jul 2025 10:35:31 GMT | Haze HackTheBox - Detailed Writeup | 0xleksa | [Read More](https://medium.com/p/8c01cce2bbc3) |
+| Thu, 24 Jul 2025 10:29:34 GMT | Integrating OWASP Dependency-Check into Maven Verify Goal | Giannakopoulosj | [Read More](https://medium.com/p/69219ed364ab) |
+| Thu, 24 Jul 2025 10:27:52 GMT | Best RFID Tags in Dubai with iv RFID Solutions | Sharoonecraftz | [Read More](https://medium.com/p/13f721cf58d2) |
+| Thu, 24 Jul 2025 10:26:30 GMT | Unmasking Root: How a Misconfigured Shadow File Gave Me Full Access | Dipanshu Chhanikar | [Read More](https://medium.com/p/3c14e6684d02) |
+| Thu, 24 Jul 2025 10:23:12 GMT | Cybersecurity Awareness — What Is Data Security Posture Management (DSPM) and Why It Matters in… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/d4703282b6f5) |
+| Thu, 24 Jul 2025 10:20:40 GMT | Why Cybersecurity in Operational Technology Can’t Be Ignored | Daniel | [Read More](https://medium.com/p/fa9f69f02d50) |
 | Thu, 24 Jul 2025 10:16:00 GMT | Some Days I Wake Up Tired, Even After Sleeping. | Dear Diary Soul | [Read More](https://medium.com/p/1cb2337565bf) |
 | Thu, 24 Jul 2025 10:02:37 GMT | Who Really Runs the Sahel? | Universal Peace Federation - Africa | [Read More](https://medium.com/p/73d46961ab09) |
 | Thu, 24 Jul 2025 10:02:33 GMT | HOW I GOT MY FOUR DIGIT BOUNTY $$$$ | cyberblack222 | [Read More](https://medium.com/p/ae355ee9ff48) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 05:14:36 GMT | Cortex Cloud by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3fcef6cbace2) |
 | Thu, 24 Jul 2025 05:12:06 GMT | Inside the Dark Web: What Really Happens to Leaked Credentials | CYber VIaz | [Read More](https://medium.com/p/b657db3c0ac6) |
 | Thu, 24 Jul 2025 05:03:45 GMT | What is SEToolkit and How to Use It? | Semih Arda Ersöz | [Read More](https://medium.com/p/e3f819a729b8) |
-| Thu, 24 Jul 2025 05:02:24 GMT | Browser-Based Attacks with BeEF: A Comprehensive Guide | Semih Arda Ersöz | [Read More](https://medium.com/p/7d8dfea5dc28) |
-| Thu, 24 Jul 2025 04:59:47 GMT | The King of MITM Attacks: Ettercap | Semih Arda Ersöz | [Read More](https://medium.com/p/60a860b2bbf3) |
-| Thu, 24 Jul 2025 04:52:05 GMT | Setting up the IBM Watsonx API to work with Colab Notebooks | Nadinsonramos | [Read More](https://medium.com/p/4733a608d3e3) |
-| Thu, 24 Jul 2025 04:48:48 GMT | The Coyote Strikes Again: A New Malware Variant Hijacks Windows UI to Steal Banking Logins | CYber VIaz | [Read More](https://medium.com/p/cbe18b8e09b1) |
-| Thu, 24 Jul 2025 04:48:12 GMT | Sigma & Yara Rules | Afridho Tavadhu | [Read More](https://medium.com/p/36a52738fcef) |
-| Thu, 24 Jul 2025 04:43:47 GMT | Cheapest VPS for bug bounty & pentesting | AbhirupKonwar | [Read More](https://medium.com/p/388139977c36) |
-| Thu, 24 Jul 2025 04:36:51 GMT | Shell upload via Content-Type restriction bypass [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/4441ec78fad0) |
-| Thu, 24 Jul 2025 04:36:48 GMT | How I Built a Sigma Detection Rule to Catch APT29’s Encoded PowerShell Attacks | Manish Rawat | [Read More](https://medium.com/p/9561098798f1) |
