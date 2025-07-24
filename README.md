@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 04:36:51 GMT | Shell upload via Content-Type restriction bypass [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/4441ec78fad0) |
+| Thu, 24 Jul 2025 04:25:59 GMT | Day 10- Detecting suspicious activity using timestamps, IPs and failed logins | unica 02 | [Read More](https://medium.com/p/463f3c26e19b) |
+| Thu, 24 Jul 2025 04:25:43 GMT | The Linux Security Journey — Disable Kexec (Disable Kernel Execution) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/165aed0e222e) |
+| Thu, 24 Jul 2025 04:17:03 GMT | Unprecedented SharePoint Zero-Day Exploit Exposes 400+ Organizations | Zem Writers | [Read More](https://medium.com/p/766f99105e69) |
+| Thu, 24 Jul 2025 04:01:15 GMT | Why AI Keeps Me Awake at Night | Shashank Gidbidi | [Read More](https://medium.com/p/f660be949b2d) |
+| Thu, 24 Jul 2025 03:58:41 GMT | How I Turned My Compliance Work into Free, Audit-Ready Templates for Students and Small Contractors | Steven McDaniel | [Read More](https://medium.com/p/6ea16ddef3c6) |
+| Thu, 24 Jul 2025 03:56:12 GMT | Top 5 Open Source WAFs to Secure Your Web Apps in 2025 | Quella | [Read More](https://medium.com/p/923afc9a83d2) |
+| Thu, 24 Jul 2025 03:50:49 GMT | National Children’s Day: How Telkom’s CyberHeroes Makes Digital Literacy Fun for Kids | telkomsustainibility | [Read More](https://medium.com/p/7349839721df) |
+| Thu, 24 Jul 2025 03:34:04 GMT | Crypto Hackers Just Got Smarter — Here’s How They’re Using Your Device | Cyber-AppSec | [Read More](https://medium.com/p/7792c9fe8b75) |
+| Thu, 24 Jul 2025 03:32:34 GMT | How Hackers Exploited Google OAuth to Bypass Gmail Security | Deven Chhajed | [Read More](https://medium.com/p/d00491b9419f) |
 | Thu, 24 Jul 2025 03:26:06 GMT | [Security Series] Website Vulnerability Testing using OWASP ZAP | Rahmat Wibowo | [Read More](https://medium.com/p/793e6264ab8c) |
 | Thu, 24 Jul 2025 03:22:39 GMT | Phishing (Cyber Attacks): How to Catch Them Before They Potentially Catch You | Muamer Huseinovic | [Read More](https://medium.com/p/f967dbeaecde) |
 | Thu, 24 Jul 2025 03:18:46 GMT | “The Hacker’s Edge: Why Mindset Beats Tools in Cybersecurity (Every Time)” | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ea9bd93e3a3e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 19:09:12 GMT | What Is a SaaS Website? Examples and Quick SEO Tips | Globelisted | [Read More](https://medium.com/p/8960d1b6680b) |
 | Wed, 23 Jul 2025 19:02:23 GMT | Portable Kali Linux(SSD) | Dev | [Read More](https://medium.com/p/547cca36f648) |
 | Wed, 23 Jul 2025 19:01:46 GMT | How a Fake News Website Breached Australia’s Energy Sector — Isabella Kelly | Cyber Valkyries | [Read More](https://medium.com/p/7cd93eaff2b7) |
-| Wed, 23 Jul 2025 18:57:42 GMT | Embedded vs. Centralized DevOps: Choosing the Right Organizational Model | Josh Welch | [Read More](https://medium.com/p/d4c0c8e49648) |
-| Wed, 23 Jul 2025 18:57:23 GMT | CCTV Investigation without FBI tools— Blurred ≠ Lost | XIT | [Read More](https://medium.com/p/aeef0dc37d75) |
-| Wed, 23 Jul 2025 18:53:27 GMT | Why You Should Write More Bugs (Seriously) | Sohail Saifi | [Read More](https://medium.com/p/87f84af4802c) |
-| Wed, 23 Jul 2025 18:52:19 GMT | 20 Browser Extensions I Can’t Live Without as a Security Researcher | w00lfff | [Read More](https://medium.com/p/9c180ae88a2e) |
-| Wed, 23 Jul 2025 18:41:22 GMT | Protecting Europe’s Critical Undersea Infrastructure Depends on Coordination and Collaboration | RAND | [Read More](https://medium.com/p/b27236ea3726) |
-| Wed, 23 Jul 2025 18:35:12 GMT | Critical SharePoint Zero-Day: 400+ Organizations Compromised — Is Yours Next? | David Rizzo | [Read More](https://medium.com/p/d6b68e570a09) |
-| Wed, 23 Jul 2025 18:29:36 GMT | Artifact in the age of epistemic warfare | Justin Almeida | [Read More](https://medium.com/p/46aafde37cff) |
-| Wed, 23 Jul 2025 18:05:10 GMT | Cybersecurity for Engineers: Protecting Embedded and Industrial Control Systems | Frederic Lauzier | [Read More](https://medium.com/p/d1613ebd8597) |
-| Wed, 23 Jul 2025 18:04:18 GMT | 5 Security Mistakes Developers Make in Ruby on Rails (And How to Fix Them) | Ajey | [Read More](https://medium.com/p/f528cc8877e5) |
-| Wed, 23 Jul 2025 17:57:38 GMT | SHAPE YOUR FUTURE WITH THE BEST CYBER | Akhilcris | [Read More](https://medium.com/p/8dc3fc215030) |
