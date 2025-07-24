@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 23:33:57 GMT | How I Chained 2FA Bypasses in a Crypto P2P System to Steal User USDT | 0xBartita | [Read More](https://medium.com/p/ed68ee078998) |
+| Thu, 24 Jul 2025 23:28:23 GMT | JavaScript Prototype Conundrum | Sagar Pandita | [Read More](https://medium.com/p/926b807ba72b) |
+| Thu, 24 Jul 2025 23:22:17 GMT | Tawana Mohammadi and the Philosophy of Stateless Code | Apo Miner | [Read More](https://medium.com/p/3b9d7f7914cc) |
 | Thu, 24 Jul 2025 23:14:30 GMT | The Single Point of Failure: Hw One Microsoft Vulnerability Exposed the Fragility of Digital… | The Daily Reflection | [Read More](https://medium.com/p/ea8fc0674010) |
 | Thu, 24 Jul 2025 23:13:04 GMT | The Perils of Mobile Devices: Protecting Your Data in a Remote Work World | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d73cefc32836) |
 | Thu, 24 Jul 2025 23:07:41 GMT | ,   ! ️ | Visual Monitoring Solutions | [Read More](https://medium.com/p/423c9d65b8b3) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 16:16:37 GMT | The $44M Hack That Left User Wallets Untouched | CoinGen | [Read More](https://medium.com/p/78cadfe766a5) |
 | Thu, 24 Jul 2025 16:13:40 GMT | Why Protecting Your Digital Identity Matters | Akhil Rajan | [Read More](https://medium.com/p/3db8bd55af21) |
 | Thu, 24 Jul 2025 16:12:38 GMT | Cyber Kill Chain Nedir? | FatihUYSAL | [Read More](https://medium.com/p/3a77d70873b6) |
-| Thu, 24 Jul 2025 16:11:28 GMT | Best Apps to Check If Your Phone Is Spied On Without Your Knowledge | Narjis Batool | [Read More](https://medium.com/p/a7ef1c01ac01) |
-| Thu, 24 Jul 2025 16:05:35 GMT | How Login Authentication Actually Works ??? A Beginner-to-Pro Guide | Sanjeevani Bhandari | [Read More](https://medium.com/p/7ff7b619cbfa) |
-| Thu, 24 Jul 2025 16:03:44 GMT | How I Gained RCE on an ISP’s ACS Dashboard via SQLi and Misconfigurations (Red Team Simulation) | KonaN | [Read More](https://medium.com/p/9c00088159a0) |
