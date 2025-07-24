@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 03:26:06 GMT | [Security Series] Website Vulnerability Testing using OWASP ZAP | Rahmat Wibowo | [Read More](https://medium.com/p/793e6264ab8c) |
+| Thu, 24 Jul 2025 03:22:39 GMT | Phishing (Cyber Attacks): How to Catch Them Before They Potentially Catch You | Muamer Huseinovic | [Read More](https://medium.com/p/f967dbeaecde) |
+| Thu, 24 Jul 2025 03:18:46 GMT | “The Hacker’s Edge: Why Mindset Beats Tools in Cybersecurity (Every Time)” | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ea9bd93e3a3e) |
+| Thu, 24 Jul 2025 03:18:28 GMT | Cybersecurity for Small Businesses and Non-Tech Audiences: A Simple Guide | Paritosh | [Read More](https://medium.com/p/eefa12dcbbab) |
+| Thu, 24 Jul 2025 03:14:19 GMT | How to Protect an Application from Cyber Attacks | Maverick Steel | [Read More](https://medium.com/p/f37ec2ace3b1) |
+| Thu, 24 Jul 2025 03:14:00 GMT | New 0day RCE in Apache OFBiz (CVE-2023–51467): Patch Now | AerieWhole123 | [Read More](https://medium.com/p/c2173126960e) |
+| Thu, 24 Jul 2025 02:56:26 GMT | What is AI Prompt Injection and How to Mitigate It? (Explained with an Example) | Mohamed AboElKheir | [Read More](https://medium.com/p/3f75dab66922) |
+| Thu, 24 Jul 2025 02:50:46 GMT | IDOR vulnerability gives me 2500$ | L4zyhacker | [Read More](https://medium.com/p/42cd077c37f1) |
+| Thu, 24 Jul 2025 02:44:22 GMT | Compendium of bitwise nomenclature from applications to cybersecurity | Joe Alongi | [Read More](https://medium.com/p/c19a23b61a26) |
+| Thu, 24 Jul 2025 02:36:28 GMT | The Hidden Backdoor in Microsoft SharePoint — A less technical dive into Microsoft’s latest blunder | VaRiOus_CanAriEs | [Read More](https://medium.com/p/468070e8a3cc) |
+| Thu, 24 Jul 2025 02:31:26 GMT | Unmasking the Docker Daemon: Vulnerabilities, Exploits & Defenses | nehalmr | [Read More](https://medium.com/p/813b16e22c76) |
+| Thu, 24 Jul 2025 02:26:32 GMT | Qantas Cyber Incident Shakes Traveler Confidence — What It Means for Secure Journeys | Simon Kalipciyan | [Read More](https://medium.com/p/6120347a67ad) |
+| Thu, 24 Jul 2025 02:07:24 GMT | Why GRC is the Future of Cybersecurity | aadesh.k | [Read More](https://medium.com/p/51a58e3a7e00) |
+| Thu, 24 Jul 2025 01:54:08 GMT | Container Layers and Secret Data | W. Jenks Gibbons | [Read More](https://medium.com/p/2f732a42b850) |
+| Thu, 24 Jul 2025 01:51:19 GMT | Real-Time Adaptive Security: A New Era of Master Protection | Sarmin Islam | [Read More](https://medium.com/p/40ce35fcb681) |
 | Thu, 24 Jul 2025 01:20:16 GMT | When Growth Outpaces Design: Fragile Architecture in Cybersecurity | Adri Leite | [Read More](https://medium.com/p/77ecc951d758) |
 | Thu, 24 Jul 2025 01:16:04 GMT | Zeek - THM | Isiah | [Read More](https://medium.com/p/4a7a34192fa6) |
 | Thu, 24 Jul 2025 01:15:06 GMT | Tuning Detections isn’t Hard Unless You Make it Hard | Ryan G. Cox | [Read More](https://medium.com/p/15a7374cde47) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 18:05:10 GMT | Cybersecurity for Engineers: Protecting Embedded and Industrial Control Systems | Frederic Lauzier | [Read More](https://medium.com/p/d1613ebd8597) |
 | Wed, 23 Jul 2025 18:04:18 GMT | 5 Security Mistakes Developers Make in Ruby on Rails (And How to Fix Them) | Ajey | [Read More](https://medium.com/p/f528cc8877e5) |
 | Wed, 23 Jul 2025 17:57:38 GMT | SHAPE YOUR FUTURE WITH THE BEST CYBER | Akhilcris | [Read More](https://medium.com/p/8dc3fc215030) |
-| Wed, 23 Jul 2025 17:51:27 GMT | The Future of Diplomacy: Navigating the Age of Advanced AI and Cyberspace | CCD-IS | [Read More](https://medium.com/p/51cd9c520f07) |
-| Wed, 23 Jul 2025 17:50:54 GMT | Top Enumeration Techniques Every Ethical Hacker Must Know in 2025 | Rajkumar Kumawat | [Read More](https://medium.com/p/10d1a75a41f3) |
-| Wed, 23 Jul 2025 17:43:38 GMT | Sam Altman Warns AI Can Now Defeat Bank Security and Steal ‘Everyone’s Money’ | Coby Mendoza | [Read More](https://medium.com/p/817fa22248fc) |
-| Wed, 23 Jul 2025 17:36:39 GMT | How AI Makes Phishing Easier Than Ever (And What You Can Do About It) | Mark Puckett | [Read More](https://medium.com/p/635afb85b5d1) |
-| Wed, 23 Jul 2025 17:36:20 GMT | I Used JWT in Production—Big Mistake | Thread Whisperer | [Read More](https://medium.com/p/fcb50c8de12e) |
-| Wed, 23 Jul 2025 17:36:14 GMT | Corriger sans chercher la cause, c’est mal! | Patrick Boucher | [Read More](https://medium.com/p/a052d031addc) |
-| Wed, 23 Jul 2025 17:28:32 GMT | Coyote Malware Exploits Microsoft UI Automation to Steal Credentials in the Wild | Jasmitha | [Read More](https://medium.com/p/2db1c631babc) |
-| Wed, 23 Jul 2025 17:24:23 GMT | 3. Terimler ve Tanımların Arkasındaki Güç | AYŞE KIZILAY | [Read More](https://medium.com/p/76426a7b9317) |
-| Wed, 23 Jul 2025 17:22:53 GMT | Say Goodbye to Spam: Best Spy Apps for Blocking Unknown Callers | Narjis Batool | [Read More](https://medium.com/p/9234c9afade5) |
-| Wed, 23 Jul 2025 17:22:22 GMT | Next Generation Firewall Management Service: Smarter, Faster, Safer Network Protection | SafeAeon Inc. | [Read More](https://medium.com/p/a296f33e8343) |
-| Wed, 23 Jul 2025 17:20:51 GMT | Deep Packet Capture in Python: A Complete Guide to Sniffing Techniques | Ahmed Sobhi Ali | [Read More](https://medium.com/p/54d650e403e1) |
-| Wed, 23 Jul 2025 17:16:50 GMT | ybeCybersecurity Awareness Training: Your First Line of Defense Starts with People | SafeAeon Inc. | [Read More](https://medium.com/p/008c381f5d95) |
-| Wed, 23 Jul 2025 17:13:49 GMT | Is your digital privacy truly in your hands? | Abith Ahamed | [Read More](https://medium.com/p/8ef1ea1c094c) |
-| Wed, 23 Jul 2025 17:11:33 GMT | Expertise as a Service: Getting the Right Minds When You Need Them | SafeAeon Inc. | [Read More](https://medium.com/p/31987c74af07) |
-| Wed, 23 Jul 2025 17:08:52 GMT | Hardening Linux Containers for Production Use | Karthikeyan Nagaraj | [Read More](https://medium.com/p/790b99ec5150) |
