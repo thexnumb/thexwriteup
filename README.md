@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 08:29:50 GMT | BLACKSITE OSINT v2.6 | Inayat Hussain | [Read More](https://medium.com/p/c9c823620739) |
+| Thu, 24 Jul 2025 08:29:48 GMT | ️‍♂️ Threat Hunting: Becoming the Cybersecurity Detective Your Network Deserves | Ankita Singh | [Read More](https://medium.com/p/8d2a26d2d5a8) |
+| Thu, 24 Jul 2025 08:26:20 GMT | Gift payment 4,000 USDT Blockchain Trc20 for you u can use ( Okx walllet — Safepal wallet — Tron… | Joelle luxer | [Read More](https://medium.com/p/56eb61c34e2a) |
+| Thu, 24 Jul 2025 08:26:07 GMT | Reconic Next Gen Recon Framework | Inayat Hussain | [Read More](https://medium.com/p/18af72140a7f) |
+| Thu, 24 Jul 2025 08:25:27 GMT | Starting My Cybersecurity Journey | Elene Kapanadze | [Read More](https://medium.com/p/86b82c7aaa66) |
+| Thu, 24 Jul 2025 08:10:57 GMT | 從空氣清淨機看 WAF 設定常見問題 | LKC-AGH-Expert | [Read More](https://medium.com/p/ec2eb0f7b33a) |
+| Thu, 24 Jul 2025 08:10:27 GMT | When “Professor Said” Breaks AI Safety: An Accidental Jailbreak I Found | Teo Kamenov | [Read More](https://medium.com/p/3900a6aa67c2) |
+| Thu, 24 Jul 2025 08:08:52 GMT | Why Military Veterans Should Choose Cybersecurity for Their Next Mission | Shreyashettyctr | [Read More](https://medium.com/p/045fe5835c37) |
+| Thu, 24 Jul 2025 08:07:48 GMT | How Mobile APIs Leak Everything — Even If the App Is Secure | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7de79bafb345) |
+| Thu, 24 Jul 2025 08:06:33 GMT | Prevent Unvalidated Redirects in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/986d58f26e94) |
+| Thu, 24 Jul 2025 08:02:37 GMT | BUG BOUNTY-Entender el negocio es entender la superficie de ataque | Gorka | [Read More](https://medium.com/p/3ce1ebbfb211) |
+| Thu, 24 Jul 2025 08:01:38 GMT | Part 6: Post-Exploitation in Mobile APIs — Data Dumps, Admin Panels, and Beyond | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7c906e86791d) |
+| Thu, 24 Jul 2025 08:00:21 GMT | 500M GPS Token Security Fund: Rewiring Web3’s Security Value Cycle | GoPlus Security | [Read More](https://medium.com/p/49c84e65a285) |
+| Thu, 24 Jul 2025 07:54:29 GMT | What It Feels Like to Be the Strong One — Until You Break. | Jimmy (Wealth) | [Read More](https://medium.com/p/36773e3fd46c) |
+| Thu, 24 Jul 2025 07:49:34 GMT | Linux File Permissions: An Introduction for Beginners | Redinit | [Read More](https://medium.com/p/9f1cffa6e77f) |
+| Thu, 24 Jul 2025 07:44:40 GMT | Ache for Something Real | Ika ⋆౨;ৎ⟡ | [Read More](https://medium.com/p/8fbc3bfad2a9) |
 | Thu, 24 Jul 2025 07:44:34 GMT | Cheyanne Mallas: Transforming Cybersecurity as Project Director | Cheyannemallaspa | [Read More](https://medium.com/p/3e7bcee062bf) |
 | Thu, 24 Jul 2025 07:44:09 GMT | Cyber Hygiene 101: Easy Habits for Better Online Security | Ayesha noor | [Read More](https://medium.com/p/7324e066d051) |
 | Thu, 24 Jul 2025 07:39:58 GMT | ️ DNS and Deception: How SSRF and Metadata Gave Me Cloud Access on a Silver Platter | Iski | [Read More](https://medium.com/p/e9cf97c3693f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 00:31:47 GMT | Breaking Root: The Ultimate Guide to Linux Capabilities | ThamizhElango Natarajan | [Read More](https://medium.com/p/04507d5fb46f) |
 | Thu, 24 Jul 2025 00:27:55 GMT | The Dark Web: Truth and Lies | Dove | [Read More](https://medium.com/p/d3d3213d666a) |
 | Thu, 24 Jul 2025 00:22:20 GMT | How I Chained 2FA Bypasses in a Crypto P2P System to Steal User USDT | 0xBartita | [Read More](https://medium.com/p/ef214879c173) |
-| Thu, 24 Jul 2025 00:20:07 GMT | THE ART OF THE DEVIL: PART 2 | Ghost | [Read More](https://medium.com/p/ed0ba08fb3b5) |
-| Thu, 24 Jul 2025 00:20:04 GMT | from addiction to the world of Cybersecurity. | Stephen Daniels (Ghost) | [Read More](https://medium.com/p/a736472e2d30) |
-| Thu, 24 Jul 2025 00:07:53 GMT | FlagCasino HackTheBox (HTB) reverse engineering Writeup | Rana chouchane | [Read More](https://medium.com/p/5e8aa6d96a8a) |
-| Wed, 23 Jul 2025 23:58:54 GMT | Nuclear Hackers: The SharePoint Breach That Shook National Security | Anthony Conforti | [Read More](https://medium.com/p/6933e60fecd5) |
-| Wed, 23 Jul 2025 23:56:24 GMT | 1분 만에 벌어진 내부자의 공격 by. 위즈노트 AI | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/9b01aef099b8) |
-| Wed, 23 Jul 2025 23:50:34 GMT | Don’t Trust the Path: Web Cache Deception Deep Dive | Mostafa Rashidy | [Read More](https://medium.com/p/8efe6953380d) |
-| Wed, 23 Jul 2025 23:50:32 GMT | Pros and Cons of Buying a 2018 or Older MacBook | Sims | [Read More](https://medium.com/p/7760c14a17b7) |
-| Wed, 23 Jul 2025 23:40:24 GMT | Career Prospects for Informatics Graduates: Not Just Coding | Nurahmadfathibr | [Read More](https://medium.com/p/ae06aa62e16a) |
-| Wed, 23 Jul 2025 23:37:54 GMT | Installing cameras isn’t enough — who’s watching them? | Visual Monitoring Solutions | [Read More](https://medium.com/p/c257ec33e573) |
-| Wed, 23 Jul 2025 23:22:39 GMT | Let’s Defend: 113 — SOC163 — Suspicious Certutil.exe Usage - Writeup | EPereda | [Read More](https://medium.com/p/0d5a060a7f85) |
-| Wed, 23 Jul 2025 23:22:28 GMT | Let’s Defend: 115 — SOC165 — Possible SQL Injection Payload Detected - Writeup | EPereda | [Read More](https://medium.com/p/d5ee5831bd18) |
-| Wed, 23 Jul 2025 23:22:02 GMT | Let’s Defend: 120 — SOC170 — Passwd Found in Requested URL — Possible LFI Attack - Writeup | EPereda | [Read More](https://medium.com/p/ff9250042fe9) |
-| Wed, 23 Jul 2025 23:16:32 GMT | Your AI Just Got Hacked by a Sentence: Welcome to the Era of Prompt Injection | Freddy Dordoni | [Read More](https://medium.com/p/05e212e75920) |
-| Wed, 23 Jul 2025 22:57:09 GMT | Investigating an APT with Splunk (Boss of the SOC) | whoami | [Read More](https://medium.com/p/bbf7f35645af) |
-| Wed, 23 Jul 2025 22:50:51 GMT | iOS Malware Development: A Red Team Perspective on Apple’s Security Architecture | Lord Murak | [Read More](https://medium.com/p/0cd35091de78) |
-| Wed, 23 Jul 2025 22:37:42 GMT | Inside the Mind of a Hacker: What Every Cybersecurity Pro Should Know | Steven McDaniel | [Read More](https://medium.com/p/2c8cdb47f4e9) |
