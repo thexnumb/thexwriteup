@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 19:16:11 GMT | From Co-Pilot to Spy: Why Your AI Assistant Might Be the Next Big Security Threat | Spencer Thomason | [Read More](https://medium.com/p/b4c2dd80dd96) |
+| Thu, 24 Jul 2025 19:12:39 GMT | Google Warns: Open Source Supply Chain Security at Risk | Dogli Wilberforce | [Read More](https://medium.com/p/8e1c8e1b2cf3) |
+| Thu, 24 Jul 2025 19:09:43 GMT | The Dark Side of Smart TVs: How Easy It Is to Hack Yours | hacker_might | [Read More](https://medium.com/p/d756d7730d77) |
+| Thu, 24 Jul 2025 19:09:37 GMT | The Trojan at the Gates: When Helpful Tools Turn Against Us | Sudx Official | [Read More](https://medium.com/p/d70885f19037) |
+| Thu, 24 Jul 2025 19:08:57 GMT | Comprehensive Guide to Linux Firewalls-2025 | Cybersectoworld | [Read More](https://medium.com/p/22957536ac8e) |
+| Thu, 24 Jul 2025 19:06:23 GMT | Is Your Email Safe? Discover How to Use an Email Breach Checker to Protect Your Data! | WeScan Journal | [Read More](https://medium.com/p/8c7de41ffbd4) |
+| Thu, 24 Jul 2025 18:49:19 GMT | Inside the GMX Exploit: When Modular Design Becomes an Attack Surface | Olympix | [Read More](https://medium.com/p/9a31baedd7b1) |
+| Thu, 24 Jul 2025 18:42:18 GMT | AWS- WAF on ALB tg on Instance | Mrunal Ugemuge | [Read More](https://medium.com/p/29fbeb8daab4) |
+| Thu, 24 Jul 2025 18:36:51 GMT | Books So Good, Hackers Want Them Banned | Aj | [Read More](https://medium.com/p/dcb51e92531f) |
+| Thu, 24 Jul 2025 18:34:58 GMT | Why Your Security Framework Needs a Methodology: Embracing SABSA in Enterprise Security | Rob Campbell | [Read More](https://medium.com/p/d27d8921141d) |
+| Thu, 24 Jul 2025 18:32:23 GMT | Tailgating Attack: The Physical Threat That Bypasses Cyber Defenses | SafeAeon Inc. | [Read More](https://medium.com/p/1f6d7b65382d) |
+| Thu, 24 Jul 2025 18:28:29 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU | Chiara Jakub | [Read More](https://medium.com/p/09b3644b60e3) |
+| Thu, 24 Jul 2025 18:27:56 GMT | 5 AI Tools to Enhance Cybersecurity | Amina Sani | [Read More](https://medium.com/p/e5e7eea7d0bb) |
 | Thu, 24 Jul 2025 18:21:26 GMT | Cloud Infrastructure Entitlement Management: Fixing the Access Chaos in the Cloud | SafeAeon Inc. | [Read More](https://medium.com/p/1c7c0bfd0659) |
 | Thu, 24 Jul 2025 18:13:52 GMT | What a Burglar Sees When They Look at Your House | SmarterHome.ai | [Read More](https://medium.com/p/6d571b496731) |
 | Thu, 24 Jul 2025 18:10:29 GMT | 802.1X Kimlik Doğrulama Sorunları ve Çözümleri — Detaylı Rehber ️ | Emre Koç | [Read More](https://medium.com/p/190a7f48f4f2) |
@@ -100,16 +113,3 @@ and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://med
 | Thu, 24 Jul 2025 14:16:05 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/20b185ad161d) |
 | Thu, 24 Jul 2025 14:11:38 GMT | Automate cleanup of unused EBS volumes | NIKHIL P PAWAR | [Read More](https://medium.com/p/85752092cb26) |
 | Thu, 24 Jul 2025 14:09:35 GMT | Forget the Cloud; IT’s Toughest Problems Are Something Else! | Akshat Virmani | [Read More](https://medium.com/p/058654b00676) |
-| Thu, 24 Jul 2025 14:02:56 GMT | CTF Day(43) | Ahmed Narmer | [Read More](https://medium.com/p/1a92e694ba8a) |
-| Thu, 24 Jul 2025 14:02:45 GMT | The #1 VPN You Should Be Using in 2025 | Magnussnordvpn | [Read More](https://medium.com/p/d282527c387a) |
-| Thu, 24 Jul 2025 14:02:41 GMT | Why AI Regulation Has A Long Way To Go | abdeldayemnour | [Read More](https://medium.com/p/59b49e46dd9d) |
-| Thu, 24 Jul 2025 14:02:38 GMT | Cyber Briefing: 2025.07.24 | CyberMaterial | [Read More](https://medium.com/p/d70e5533ed2f) |
-| Thu, 24 Jul 2025 13:58:11 GMT | Business Logic Vulnerabilities part-11 : Authentication bypass via encryption oracle | Ahmad Sopyan | [Read More](https://medium.com/p/66c44f7ed2b1) |
-| Thu, 24 Jul 2025 13:57:53 GMT | TryHackMe - Windows Threat Detection 3 - WriteUp | Axoloth | [Read More](https://medium.com/p/1716ab52cdf5) |
-| Thu, 24 Jul 2025 13:57:00 GMT | The Rise of AI in Cybersecurity: A New Era of Digital Protection | Talktopuneet | [Read More](https://medium.com/p/7a62d884824a) |
-| Thu, 24 Jul 2025 13:46:32 GMT | How a Reflected XSS Vulnerability Earned Me a Hall-of-Fame Spot | Ibtissam hammadi | [Read More](https://medium.com/p/1d36f87705ff) |
-| Thu, 24 Jul 2025 13:37:54 GMT | Quantum Computers Are Here: What do you need to know? | Tech Teacups | [Read More](https://medium.com/p/51d3f953b0bd) |
-| Thu, 24 Jul 2025 13:37:47 GMT | Adam Gale, Field CTO For AI & Cybersecurity At Netapp On Securing Critical Infrastructure In The… | Orsonamiri | [Read More](https://medium.com/p/5d19adbe208b) |
-| Thu, 24 Jul 2025 13:33:27 GMT | Wireshark: Traffic Analysis - TryHackMe — Walkthrough — Part 1 | Momal Naz | [Read More](https://medium.com/p/41fac39d8ad3) |
-| Thu, 24 Jul 2025 13:32:45 GMT | OSINT CTF Walkthrough: TryHackMe Technocrat - My First Capture! | Adwaith S | [Read More](https://medium.com/p/a5c96b81dbf7) |
-| Thu, 24 Jul 2025 13:31:15 GMT | Most Employees Stay Invisible Forever — Because Leaders Ignore This Brutal Truth | Anil Jangra, MBA | [Read More](https://medium.com/p/ab12956ac623) |
