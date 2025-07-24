@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 15:12:44 GMT | Complete XSS Guide: Types, Tools, Payloads, and Detection | Shoaib Bin Rashid | [Read More](https://medium.com/p/3243cb8840c6) |
+| Thu, 24 Jul 2025 15:07:25 GMT | How to Upgrade to Windows 11 Before Windows 10 Support Ends (UK Guide 2025) | Alex | [Read More](https://medium.com/p/5380f63fdf15) |
+| Thu, 24 Jul 2025 15:06:07 GMT | IoT Device Security: From Discovery to Defense | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9faee0ea2071) |
+| Thu, 24 Jul 2025 15:01:55 GMT | Why Public Email = Open Door for Targeted Attacks | Ingvar Pavlovich | [Read More](https://medium.com/p/e9434e3c0c0b) |
+| Thu, 24 Jul 2025 15:01:55 GMT | What Is a WAF? Why Your Web App Needs One | Jachimike Onwuchekwa | [Read More](https://medium.com/p/2e591857a9f0) |
+| Thu, 24 Jul 2025 14:52:49 GMT | Here’s Why Alaska Airlines Grounded Its Entire Fleet Amid Nationwide Shutdown | SR | [Read More](https://medium.com/p/d18e0a5ef20b) |
+| Thu, 24 Jul 2025 14:49:38 GMT | How I Built a MAC Changer Tool in Python — A Networking Project | Itzmeimran | [Read More](https://medium.com/p/636cd6548240) |
+| Thu, 24 Jul 2025 14:46:56 GMT | Overstep Rootkit: UNC6148’s Persistent Exploitation of End-of-Life SonicWall SMA 100 Appliances | Wes Young | [Read More](https://medium.com/p/c56b3064f7f8) |
 | Thu, 24 Jul 2025 14:38:42 GMT | The Bug isn’t the problem. Your broken debugging process is. | Balemarthy Vamsi | [Read More](https://medium.com/p/bc69b7bc82a1) |
 | Thu, 24 Jul 2025 14:38:23 GMT | Protecting Sensitive Data with Java 21: Modern Security Best Practices | Dowglas Maia | [Read More](https://medium.com/p/f61d41a9a5ce) |
+| Thu, 24 Jul 2025 14:37:42 GMT | America’s AI Action Plan: 12 AI Cybersecurity Priorities | Tal Eliyahu | [Read More](https://medium.com/p/1060b5371721) |
 | Thu, 24 Jul 2025 14:35:54 GMT | Linux Incident Surface — Tryhackme walkthrough | Mukund | [Read More](https://medium.com/p/91458406872a) |
 | Thu, 24 Jul 2025 14:33:35 GMT | HTTP Security Headers for Beginners | Vineeth Tunk | [Read More](https://medium.com/p/ed7f97e4865b) |
 | Thu, 24 Jul 2025 14:33:05 GMT | Valentine - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/be1c77e6e541) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 10:02:37 GMT | Who Really Runs the Sahel? | Universal Peace Federation - Africa | [Read More](https://medium.com/p/73d46961ab09) |
 | Thu, 24 Jul 2025 10:02:33 GMT | HOW I GOT MY FOUR DIGIT BOUNTY $$$$ | cyberblack222 | [Read More](https://medium.com/p/ae355ee9ff48) |
 | Thu, 24 Jul 2025 09:45:14 GMT | Cheyanne Mallas: Driving Cybersecurity Innovation as Project Director | Cheyannemallaspa | [Read More](https://medium.com/p/75402600faca) |
-| Thu, 24 Jul 2025 09:42:42 GMT | Reliable Security: Turnstile Solutions for Enterprises in Qatar | expbhavya | [Read More](https://medium.com/p/ec6c2586b4d3) |
-| Thu, 24 Jul 2025 09:39:53 GMT | The Metaverse: Our Next Cyber Battlefield? | Utkarsh Raj | [Read More](https://medium.com/p/b13dde4c140c) |
-| Thu, 24 Jul 2025 09:36:26 GMT | ️ Trusted Night Security Guard Services for 24/7 Protection | Sumintra | [Read More](https://medium.com/p/b399fcd4b8b0) |
-| Thu, 24 Jul 2025 09:34:59 GMT | Cloud Reconnaissance Is a Nightmare I Built Tools to Fix It, But I’ll Only Launch Them If You Want… | Sujal Meghwal | [Read More](https://medium.com/p/3ce740c8e0aa) |
-| Thu, 24 Jul 2025 09:32:53 GMT | 有告警不等於真安全：您的 EDR 驗證做對了嗎？ | LKC-AGH-Expert | [Read More](https://medium.com/p/ed523f0154e6) |
-| Thu, 24 Jul 2025 09:32:11 GMT | Red Team Operations in AWS Cloud | Alireza Mokhtari | [Read More](https://medium.com/p/49da591db144) |
-| Thu, 24 Jul 2025 09:30:01 GMT | Best Network Security solution in Dubai | Oadtechdubai | [Read More](https://medium.com/p/cf6ea2b90418) |
-| Thu, 24 Jul 2025 09:29:58 GMT | Why Math.random() Isn’t Truly Random — and How Crypto APIs Save Your Security | Awwwesssooooome | [Read More](https://medium.com/p/e0a749f99458) |
-| Thu, 24 Jul 2025 09:29:42 GMT | The badge I didn’t expect to wear | Prerna Goel | [Read More](https://medium.com/p/83d3bc7efdbf) |
