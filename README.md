@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 19:35:08 GMT | We All Live in Shells – But What Happens When We Step Outside Them? | Polly BN | [Read More](https://medium.com/p/c3dec63e1117) |
+| Thu, 24 Jul 2025 19:21:07 GMT | From Zero to Code: How to Prepare Your Laptop for Coding in 2025 | Ejete Blessing | [Read More](https://medium.com/p/cdaec21cc96f) |
 | Thu, 24 Jul 2025 19:16:11 GMT | From Co-Pilot to Spy: Why Your AI Assistant Might Be the Next Big Security Threat | Spencer Thomason | [Read More](https://medium.com/p/b4c2dd80dd96) |
 | Thu, 24 Jul 2025 19:12:39 GMT | Google Warns: Open Source Supply Chain Security at Risk | Dogli Wilberforce | [Read More](https://medium.com/p/8e1c8e1b2cf3) |
 | Thu, 24 Jul 2025 19:09:43 GMT | The Dark Side of Smart TVs: How Easy It Is to Hack Yours | hacker_might | [Read More](https://medium.com/p/d756d7730d77) |
@@ -111,5 +113,3 @@ and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://med
 | Thu, 24 Jul 2025 14:17:10 GMT | Trust in the Age of AI: A Cybersecurity Wake-Up Call for Every Parent and Citizen in India | Vijay Kumar Gupta | [Read More](https://medium.com/p/fae96ebb5dae) |
 | Thu, 24 Jul 2025 14:17:03 GMT | ️ Cloud Security: Laying the Groundwork for My SOC Analyst Journey. | Dany Christel | [Read More](https://medium.com/p/ffe2f8d9a479) |
 | Thu, 24 Jul 2025 14:16:05 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/20b185ad161d) |
-| Thu, 24 Jul 2025 14:11:38 GMT | Automate cleanup of unused EBS volumes | NIKHIL P PAWAR | [Read More](https://medium.com/p/85752092cb26) |
-| Thu, 24 Jul 2025 14:09:35 GMT | Forget the Cloud; IT’s Toughest Problems Are Something Else! | Akshat Virmani | [Read More](https://medium.com/p/058654b00676) |
