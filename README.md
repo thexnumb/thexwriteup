@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 22:40:07 GMT | Construction Security Guard in Dallas Texas | Twin City Security Dallas | [Read More](https://medium.com/p/d0760e9fc521) |
+| Thu, 24 Jul 2025 22:31:48 GMT | ALLSIGNS2PWNAGE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/73cf842c0106) |
+| Thu, 24 Jul 2025 22:28:01 GMT | A Deep Dive into a Critical Vulnerability in Clockwork | 0vulns | [Read More](https://medium.com/p/f68ddb5ec48c) |
+| Thu, 24 Jul 2025 22:27:31 GMT | Handling Sensitive Data in LLM Agents: A Security-First Approach | Velu Sankaran | [Read More](https://medium.com/p/2e64b1bf9cc5) |
+| Thu, 24 Jul 2025 22:26:55 GMT | Detecting Web Shells with YARA & Loki — TryHackMe YARA Room Walkthrough | Asad Ali | [Read More](https://medium.com/p/a8eb32014159) |
+| Thu, 24 Jul 2025 22:16:33 GMT | Hunting Insider Threats: Data Exposure Detection | Karthikeyan Nagaraj | [Read More](https://medium.com/p/c23025d81b6d) |
+| Thu, 24 Jul 2025 22:16:33 GMT | How to Prevent a Data Breach: Smart Tips to Keep Your Info Safe | Timonéofearth | [Read More](https://medium.com/p/7e0b7023c38e) |
 | Thu, 24 Jul 2025 22:06:36 GMT | How do we handle the indeterministic nature of AI systems? | Anil K Pantangi | [Read More](https://medium.com/p/ce8477a204a0) |
 | Thu, 24 Jul 2025 22:03:06 GMT | How to Use Nmap for Network Troubleshooting: A Guide for IT Support Consultants | Cyberoptic Security | [Read More](https://medium.com/p/d83d4ba23e7f) |
 | Thu, 24 Jul 2025 21:59:58 GMT | UNDERSTANDING NETWORKING, IP ADDRESSES & DIGITAL IDENTITY | Ifeoma Nwokeoma | [Read More](https://medium.com/p/5698d55dd824) |
@@ -106,10 +113,3 @@ and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://med
 | Thu, 24 Jul 2025 15:59:58 GMT | What the Mirror Knows | Isha | [Read More](https://medium.com/p/4ad7c29e0dad) |
 | Thu, 24 Jul 2025 15:54:23 GMT | Security Analysis of the Fellou AI Browser | Anatoliy Fedorenko | [Read More](https://medium.com/p/62c0fb00ff2a) |
 | Thu, 24 Jul 2025 15:48:29 GMT | Fear Might Get Clicks, but It Won’t Build Culture — My Framer Site | Herd Security | [Read More](https://medium.com/p/2f0d0024ab2f) |
-| Thu, 24 Jul 2025 15:42:09 GMT | # **Advanced XSS Exploitation: Bypassing CSP and DOM Sanitization in Modern Web Applications** | Aifee Aadil | [Read More](https://medium.com/p/3b8267941574) |
-| Thu, 24 Jul 2025 15:32:12 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #6 Solution | Aviv Yaniv | [Read More](https://medium.com/p/9020690e1d47) |
-| Thu, 24 Jul 2025 15:31:49 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #5 Solution | Aviv Yaniv | [Read More](https://medium.com/p/a59eb0fc6945) |
-| Thu, 24 Jul 2025 15:31:28 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #4 Solution | Aviv Yaniv | [Read More](https://medium.com/p/a51c43f24bc6) |
-| Thu, 24 Jul 2025 15:26:57 GMT | Muon Dev Update (July 2025) | Robert Wallace | [Read More](https://medium.com/p/2cec6819c4e7) |
-| Thu, 24 Jul 2025 15:23:03 GMT | A Practical Guide to On-Chain Analysis: Navigating the 5 Critical Pitfalls for the Modern Crypto… | Alex Sandro | [Read More](https://medium.com/p/219702a7ef68) |
-| Thu, 24 Jul 2025 15:22:07 GMT | Hackthebox CBBH Çözümleri: “Web Service & API Attacks — Skills Assesment” Çözümü | Osman Can | [Read More](https://medium.com/p/eb1c407589eb) |
