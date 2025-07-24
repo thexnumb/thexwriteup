@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 20:41:06 GMT | Kernel DACL Management | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f4e00b8da8a3) |
+| Thu, 24 Jul 2025 20:38:20 GMT | From Zero to Building Top Web3 Applications | Mohamedajguernoun | [Read More](https://medium.com/p/19aee6c2d1d7) |
+| Thu, 24 Jul 2025 20:25:02 GMT | Complete Guide: Installing Operating Systems on VirtualBox, Hyper-V, and VMware | Nihar Mane | [Read More](https://medium.com/p/612eaabf7c9f) |
+| Thu, 24 Jul 2025 20:19:49 GMT | Mapping the NIST Standard of Prevention to the 2019 Capital One Breach | Alex Riley | [Read More](https://medium.com/p/676b748881f8) |
+| Thu, 24 Jul 2025 20:14:38 GMT | Invisible Cyber Red Flags Boards Miss for Critical Infrastructure (3/3) | Dr Abbie Widin | [Read More](https://medium.com/p/2490a2ee8845) |
+| Thu, 24 Jul 2025 20:14:06 GMT | Beyond the Firewall — How AI, Model Drift & Misinformation Threaten Australia’s Critical… | Dr Abbie Widin | [Read More](https://medium.com/p/6b8225f5d705) |
 | Thu, 24 Jul 2025 20:12:34 GMT | Tired Of Pretending. | Amna Javaid | [Read More](https://medium.com/p/de7caa06f6d5) |
 | Thu, 24 Jul 2025 20:06:32 GMT | Cyber Risk Is Strategic Risk: Why Directors Must Own It (1/3) | Dr Abbie Widin | [Read More](https://medium.com/p/b5e2dbb35a18) |
 | Thu, 24 Jul 2025 20:02:29 GMT | The Fall of XSS.is: Inside the Major Takedown of a Russian-Speaking Cybercrime Forum | Mohammed Muneef | [Read More](https://medium.com/p/242956607902) |
@@ -107,9 +113,3 @@ and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://med
 | Thu, 24 Jul 2025 14:49:38 GMT | How I Built a MAC Changer Tool in Python — A Networking Project | Itzmeimran | [Read More](https://medium.com/p/636cd6548240) |
 | Thu, 24 Jul 2025 14:46:56 GMT | Overstep Rootkit: UNC6148’s Persistent Exploitation of End-of-Life SonicWall SMA 100 Appliances | Wes Young | [Read More](https://medium.com/p/c56b3064f7f8) |
 | Thu, 24 Jul 2025 14:38:42 GMT | The Bug isn’t the problem. Your broken debugging process is. | Balemarthy Vamsi | [Read More](https://medium.com/p/bc69b7bc82a1) |
-| Thu, 24 Jul 2025 14:38:23 GMT | Protecting Sensitive Data with Java 21: Modern Security Best Practices | Dowglas Maia | [Read More](https://medium.com/p/f61d41a9a5ce) |
-| Thu, 24 Jul 2025 14:37:42 GMT | America’s AI Action Plan: 12 AI Cybersecurity Priorities | Tal Eliyahu | [Read More](https://medium.com/p/1060b5371721) |
-| Thu, 24 Jul 2025 14:35:54 GMT | Linux Incident Surface — Tryhackme walkthrough | Mukund | [Read More](https://medium.com/p/91458406872a) |
-| Thu, 24 Jul 2025 14:33:35 GMT | HTTP Security Headers for Beginners | Vineeth Tunk | [Read More](https://medium.com/p/ed7f97e4865b) |
-| Thu, 24 Jul 2025 14:33:05 GMT | Valentine - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/be1c77e6e541) |
-| Thu, 24 Jul 2025 14:31:20 GMT | Como proteger dados sensíveis com Java 21 e AES-GCM | Dowglas Maia | [Read More](https://medium.com/p/7b4c43ed9b6f) |
