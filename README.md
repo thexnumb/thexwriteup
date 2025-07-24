@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 17:29:57 GMT | Sukses Berkarier di Era Digital dengan S1 Informatika Amikom Jogja | Revofallentino | [Read More](https://medium.com/p/6aaed79c316f) |
+| Thu, 24 Jul 2025 17:27:37 GMT | Europol toma el control del foro XSS y arresta a uno de sus administradores en Kiev | Tiziano Mass | [Read More](https://medium.com/p/e682acbbabde) |
+| Thu, 24 Jul 2025 17:27:33 GMT | “Baik?” | Zahra Azmi | [Read More](https://medium.com/p/ffac2683a30f) |
+| Thu, 24 Jul 2025 17:25:37 GMT | Hacking GANDALF: AI Security Challenge | Apilchand | [Read More](https://medium.com/p/072d9835f2b4) |
+| Thu, 24 Jul 2025 17:20:49 GMT | The Sentence I Published — And Couldn’t Take Back | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/95a6fd3dd751) |
+| Thu, 24 Jul 2025 17:20:16 GMT | N0aziXss Port Scanner v3.1: The Next Evolution in Intelligent Network Scanning | N0aziXss | [Read More](https://medium.com/p/34d5311a0559) |
+| Thu, 24 Jul 2025 17:19:51 GMT | Our World’s Ready for Robotaxis and Autonomous Driving | Dr. Jason Hung | [Read More](https://medium.com/p/19cbb3e6969e) |
 | Thu, 24 Jul 2025 17:10:26 GMT | Smishing Scams: Don’t Let That Text Message Trick You! | Natarajan C K | [Read More](https://medium.com/p/d2fdf02d571a) |
 | Thu, 24 Jul 2025 17:08:56 GMT | The Dark Web’s AI Secrets: How Hackers Stay Ahead | Code With Hannan | [Read More](https://medium.com/p/bb8deeccb835) |
 | Thu, 24 Jul 2025 17:08:52 GMT | DOGE-Led Staff Cuts: A Perfect Storm for Cybersecurity? | Peter | [Read More](https://medium.com/p/e9d37195d93c) |
@@ -106,10 +113,3 @@ and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://med
 | Thu, 24 Jul 2025 13:22:58 GMT | FriendZone - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/f99ec5a3c359) |
 | Thu, 24 Jul 2025 13:21:40 GMT | Bank Paypal Cashapp Transfer and Cloned Cards CC ATM Dumps Buy PayPal Txt USA 616 2021156 | Albert | [Read More](https://medium.com/p/87148f723d51) |
 | Thu, 24 Jul 2025 13:18:24 GMT | Zero-Day Nightmare: How a Turkish Espionage Group Exploited Output Messenger | Kalariya Het | [Read More](https://medium.com/p/12025f58e935) |
-| Thu, 24 Jul 2025 13:13:52 GMT | 2025 Sifted Feature | Clementine Gazay | [Read More](https://medium.com/p/d58f3b3c1cc2) |
-| Thu, 24 Jul 2025 13:08:57 GMT | Siber Güvenlik Bakışıyla: Https/Http | Barış A. | [Read More](https://medium.com/p/2c2a3d720243) |
-| Thu, 24 Jul 2025 13:01:50 GMT | I Built a Free VPN Server at Home with a Raspberry Pi | Mohamad MERHI | [Read More](https://medium.com/p/905c2e5a2f75) |
-| Thu, 24 Jul 2025 12:56:51 GMT | Windows Host based attack | Ravikumark | [Read More](https://medium.com/p/1ed2d9d9bc6d) |
-| Thu, 24 Jul 2025 12:55:41 GMT | How I Track Cyber Attacks & CVEs in Real-Time — No Tools, No Noise | Darsh Patel | [Read More](https://medium.com/p/7afbd672af6c) |
-| Thu, 24 Jul 2025 12:42:21 GMT | Don’t Get Hacked: Simple Cyber Security Tips for Employees | Afzal Ahmed Baig | [Read More](https://medium.com/p/6cb46a6e7f5a) |
-| Thu, 24 Jul 2025 12:41:29 GMT | UAE Cybersecurity Trends to Watch in 2025 | Yasinussf | [Read More](https://medium.com/p/beae0aec78ca) |
