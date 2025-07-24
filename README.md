@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 10:16:00 GMT | Some Days I Wake Up Tired, Even After Sleeping. | Dear Diary Soul | [Read More](https://medium.com/p/1cb2337565bf) |
+| Thu, 24 Jul 2025 10:02:37 GMT | Who Really Runs the Sahel? | Universal Peace Federation - Africa | [Read More](https://medium.com/p/73d46961ab09) |
+| Thu, 24 Jul 2025 10:02:33 GMT | HOW I GOT MY FOUR DIGIT BOUNTY $$$$ | cyberblack222 | [Read More](https://medium.com/p/ae355ee9ff48) |
 | Thu, 24 Jul 2025 09:45:14 GMT | Cheyanne Mallas: Driving Cybersecurity Innovation as Project Director | Cheyannemallaspa | [Read More](https://medium.com/p/75402600faca) |
+| Thu, 24 Jul 2025 09:42:42 GMT | Reliable Security: Turnstile Solutions for Enterprises in Qatar | expbhavya | [Read More](https://medium.com/p/ec6c2586b4d3) |
 | Thu, 24 Jul 2025 09:39:53 GMT | The Metaverse: Our Next Cyber Battlefield? | Utkarsh Raj | [Read More](https://medium.com/p/b13dde4c140c) |
+| Thu, 24 Jul 2025 09:36:26 GMT | ️ Trusted Night Security Guard Services for 24/7 Protection | Sumintra | [Read More](https://medium.com/p/b399fcd4b8b0) |
 | Thu, 24 Jul 2025 09:34:59 GMT | Cloud Reconnaissance Is a Nightmare I Built Tools to Fix It, But I’ll Only Launch Them If You Want… | Sujal Meghwal | [Read More](https://medium.com/p/3ce740c8e0aa) |
 | Thu, 24 Jul 2025 09:32:53 GMT | 有告警不等於真安全：您的 EDR 驗證做對了嗎？ | LKC-AGH-Expert | [Read More](https://medium.com/p/ed523f0154e6) |
 | Thu, 24 Jul 2025 09:32:11 GMT | Red Team Operations in AWS Cloud | Alireza Mokhtari | [Read More](https://medium.com/p/49da591db144) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 04:43:47 GMT | Cheapest VPS for bug bounty & pentesting | AbhirupKonwar | [Read More](https://medium.com/p/388139977c36) |
 | Thu, 24 Jul 2025 04:36:51 GMT | Shell upload via Content-Type restriction bypass [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/4441ec78fad0) |
 | Thu, 24 Jul 2025 04:36:48 GMT | How I Built a Sigma Detection Rule to Catch APT29’s Encoded PowerShell Attacks | Manish Rawat | [Read More](https://medium.com/p/9561098798f1) |
-| Thu, 24 Jul 2025 04:32:41 GMT | Trust Issues with Sticky Notes | ACM BPHC | [Read More](https://medium.com/p/bb7288c9af15) |
-| Thu, 24 Jul 2025 04:27:41 GMT | Cyber Scam Alert: Fake mParivahan App Draining Bank Accounts Across India | Nivas Kanniah | [Read More](https://medium.com/p/785592ae71fb) |
-| Thu, 24 Jul 2025 04:25:59 GMT | Day 10- Detecting suspicious activity using timestamps, IPs and failed logins | unica 02 | [Read More](https://medium.com/p/463f3c26e19b) |
-| Thu, 24 Jul 2025 04:25:43 GMT | The Linux Security Journey — Disable Kexec (Disable Kernel Execution) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/165aed0e222e) |
-| Thu, 24 Jul 2025 04:17:03 GMT | Unprecedented SharePoint Zero-Day Exploit Exposes 400+ Organizations | Zem Writers | [Read More](https://medium.com/p/766f99105e69) |
