@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 22:06:36 GMT | How do we handle the indeterministic nature of AI systems? | Anil K Pantangi | [Read More](https://medium.com/p/ce8477a204a0) |
+| Thu, 24 Jul 2025 22:03:06 GMT | How to Use Nmap for Network Troubleshooting: A Guide for IT Support Consultants | Cyberoptic Security | [Read More](https://medium.com/p/d83d4ba23e7f) |
+| Thu, 24 Jul 2025 21:59:58 GMT | UNDERSTANDING NETWORKING, IP ADDRESSES & DIGITAL IDENTITY | Ifeoma Nwokeoma | [Read More](https://medium.com/p/5698d55dd824) |
+| Thu, 24 Jul 2025 21:58:28 GMT | From World Wars to Cyberwars: The Rise of the Digital Battlefield | Muhammad Jibran Narejo | [Read More](https://medium.com/p/db669e114033) |
+| Thu, 24 Jul 2025 21:58:02 GMT | Understanding Database Normalization: From 0NF to 3NF with Practical Examples | Abdul-latif Saadiq | [Read More](https://medium.com/p/8fb3b353eba6) |
 | Thu, 24 Jul 2025 21:29:39 GMT | The Courage to Be Wrong: Why Vulnerability is Agile Leadership’s Secret Weapon | Muhammad Waqas Sharif | [Read More](https://medium.com/p/0c6938c45fc2) |
 | Thu, 24 Jul 2025 21:26:05 GMT | TryHackMe: LazyAdmin [Write-up / Walkthrough] | SIGKILLers | [Read More](https://medium.com/p/7cae9c9a31d5) |
 | Thu, 24 Jul 2025 21:23:52 GMT | Securely storing credentials in Terraform with ‘Ephemeral Blocks’ and ‘Write-Only’ attributes | ISHII (石井) | [Read More](https://medium.com/p/6867826b9ef7) |
@@ -108,8 +113,3 @@ and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://med
 | Thu, 24 Jul 2025 15:26:57 GMT | Muon Dev Update (July 2025) | Robert Wallace | [Read More](https://medium.com/p/2cec6819c4e7) |
 | Thu, 24 Jul 2025 15:23:03 GMT | A Practical Guide to On-Chain Analysis: Navigating the 5 Critical Pitfalls for the Modern Crypto… | Alex Sandro | [Read More](https://medium.com/p/219702a7ef68) |
 | Thu, 24 Jul 2025 15:22:07 GMT | Hackthebox CBBH Çözümleri: “Web Service & API Attacks — Skills Assesment” Çözümü | Osman Can | [Read More](https://medium.com/p/eb1c407589eb) |
-| Thu, 24 Jul 2025 15:18:54 GMT | Chinese Hackers Are Exploiting a Dangerous Microsoft SharePoint Bug, Say Google and Microsoft | Tech Thrilled | [Read More](https://medium.com/p/08ff027c3310) |
-| Thu, 24 Jul 2025 15:18:11 GMT | ⚠️ Phishing in the Cloud: A Real-World Wake-Up Call | GIRISH G | [Read More](https://medium.com/p/b361a01ce337) |
-| Thu, 24 Jul 2025 15:18:06 GMT | Defending Every Layer: OSI Model Security with AWS Services | Allen Cunningham | [Read More](https://medium.com/p/23ddc4d5ff71) |
-| Thu, 24 Jul 2025 15:17:18 GMT | ⚡ *Outpaced by Time: The Hidden Struggles of Building an IT Career in a Rapid World* | Missumehani | [Read More](https://medium.com/p/d23c2d8ae99c) |
-| Thu, 24 Jul 2025 15:12:44 GMT | Complete XSS Guide: Types, Tools, Payloads, and Detection | Shoaib Bin Rashid | [Read More](https://medium.com/p/3243cb8840c6) |
