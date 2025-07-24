@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 16:19:39 GMT | OpenVAS Installation | Shir0E | [Read More](https://medium.com/p/f22a6ffb2797) |
+| Thu, 24 Jul 2025 16:13:40 GMT | Why Protecting Your Digital Identity Matters | Akhil Rajan | [Read More](https://medium.com/p/3db8bd55af21) |
+| Thu, 24 Jul 2025 16:12:38 GMT | Cyber Kill Chain Nedir? | FatihUYSAL | [Read More](https://medium.com/p/3a77d70873b6) |
+| Thu, 24 Jul 2025 16:11:28 GMT | Best Apps to Check If Your Phone Is Spied On Without Your Knowledge | Narjis Batool | [Read More](https://medium.com/p/a7ef1c01ac01) |
+| Thu, 24 Jul 2025 16:05:35 GMT | How Login Authentication Actually Works ??? A Beginner-to-Pro Guide | Sanjeevani Bhandari | [Read More](https://medium.com/p/7ff7b619cbfa) |
+| Thu, 24 Jul 2025 16:03:44 GMT | How I Gained RCE on an ISP’s ACS Dashboard via SQLi and Misconfigurations (Red Team Simulation) | KonaN | [Read More](https://medium.com/p/9c00088159a0) |
+| Thu, 24 Jul 2025 16:03:43 GMT | 7 Examples of How AI is Improving Data Security | Xaltius | [Read More](https://medium.com/p/157ee21409c3) |
+| Thu, 24 Jul 2025 16:03:26 GMT | Critical HPE Access Point Vulnerability (CVE-2025–37103): What You Need to Know, How It Could Be… | _Anirudh_ | [Read More](https://medium.com/p/2b2c4efa2283) |
+| Thu, 24 Jul 2025 16:03:19 GMT | Learn how to protect websites
+and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://medium.com/p/19175121b6ad) |
+| Thu, 24 Jul 2025 16:01:48 GMT | AI-Powered Risk Management: Use Cases, Threats, and Trends | ODSC - Open Data Science | [Read More](https://medium.com/p/1027ed8969c2) |
+| Thu, 24 Jul 2025 15:59:58 GMT | What the Mirror Knows | Isha | [Read More](https://medium.com/p/4ad7c29e0dad) |
+| Thu, 24 Jul 2025 15:54:23 GMT | Security Analysis of the Fellou AI Browser | Anatoliy Fedorenko | [Read More](https://medium.com/p/62c0fb00ff2a) |
+| Thu, 24 Jul 2025 15:48:29 GMT | Fear Might Get Clicks, but It Won’t Build Culture — My Framer Site | Herd Security | [Read More](https://medium.com/p/2f0d0024ab2f) |
+| Thu, 24 Jul 2025 15:42:09 GMT | # **Advanced XSS Exploitation: Bypassing CSP and DOM Sanitization in Modern Web Applications** | Aifee Aadil | [Read More](https://medium.com/p/3b8267941574) |
 | Thu, 24 Jul 2025 15:32:12 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #6 Solution | Aviv Yaniv | [Read More](https://medium.com/p/9020690e1d47) |
 | Thu, 24 Jul 2025 15:31:49 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #5 Solution | Aviv Yaniv | [Read More](https://medium.com/p/a59eb0fc6945) |
 | Thu, 24 Jul 2025 15:31:28 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #4 Solution | Aviv Yaniv | [Read More](https://medium.com/p/a51c43f24bc6) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 11:25:07 GMT | 2024'ün En İyi 10 Web Hacking Tekniklerini Birlikte İnceleyelim | Serdarumuturan | [Read More](https://medium.com/p/7f4fefbfe43d) |
 | Thu, 24 Jul 2025 11:24:42 GMT | Stored XSS via File Upload — A 3-Minute Security Breakdown | abhishek sutar | [Read More](https://medium.com/p/e61e096d5e60) |
 | Thu, 24 Jul 2025 11:17:49 GMT | MetaCTF Flash CTF 2024: Cookie Crackdown | Bridget | [Read More](https://medium.com/p/c65d818cc1b5) |
-| Thu, 24 Jul 2025 11:11:50 GMT | Admin Emails & Passwords Exposed via HTTP Method Change | Mahmoud El Manzalawy | [Read More](https://medium.com/p/da23186f37d3) |
-| Thu, 24 Jul 2025 11:11:14 GMT | Dom-Based Xss | Monika sharma | [Read More](https://medium.com/p/fa913b66b09b) |
-| Thu, 24 Jul 2025 11:09:51 GMT | The Thumbnail Trap: An Unpatched Google Docs Vulnerability That Risks Your Privacy | Shubhang Borkar | [Read More](https://medium.com/p/e68911384e6e) |
-| Thu, 24 Jul 2025 11:09:09 GMT | Episode 4 – Silently Dangerous: Blind SQL Injection | Yamini Yadav | [Read More](https://medium.com/p/a795fab8f669) |
-| Thu, 24 Jul 2025 11:07:33 GMT | Episode 3: XML Injection — When Hidden Tags Rewrite the Story | Yamini Yadav | [Read More](https://medium.com/p/56e5f6b691ab) |
-| Thu, 24 Jul 2025 11:06:49 GMT | Demystifying CORS | Ivan Penev | [Read More](https://medium.com/p/be575dfbe7a6) |
-| Thu, 24 Jul 2025 11:03:36 GMT | Reclaim Your Privacy: The Power of Ech Browser’s Tracker Blocker | Psylinks Announce | [Read More](https://medium.com/p/5b9d4811142d) |
-| Thu, 24 Jul 2025 11:01:49 GMT | Hunting WMI Persistence: A Beginner’s Journey into Detection Engineering | Manish Rawat | [Read More](https://medium.com/p/a9a5e09983c9) |
-| Thu, 24 Jul 2025 11:00:18 GMT | Ulysses Lab | SANDEEP | [Read More](https://medium.com/p/b432917d69c2) |
-| Thu, 24 Jul 2025 10:58:55 GMT | Master the Symantec 250–587 Exam in 2025 Complete Guide to Security Management | Mehmood Ali | [Read More](https://medium.com/p/b94384583683) |
-| Thu, 24 Jul 2025 10:57:31 GMT | Spotting the Fakes: How Ech Browser’s Smart Scam Detection Keeps You Safe Online ! | Psylinks Announce | [Read More](https://medium.com/p/d44a5c775052) |
-| Thu, 24 Jul 2025 10:49:37 GMT | The Ultimate Guide to Wi-Fi Hacking-Part 1 | Redfox Security | [Read More](https://medium.com/p/e4ee5e707432) |
-| Thu, 24 Jul 2025 10:43:47 GMT | Resumen de novedades: Inteligencia Artificial & Tecnologías de Información | Dario Bernabeu | [Read More](https://medium.com/p/e04c06e3ea5e) |
-| Thu, 24 Jul 2025 10:42:21 GMT | Building an Advanced Python Keylogger for Red Team Simulation | its lohith | [Read More](https://medium.com/p/a8e7fad92adb) |
