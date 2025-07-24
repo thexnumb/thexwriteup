@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 13:33:27 GMT | Wireshark: Traffic Analysis - TryHackMe — Walkthrough — Part 1 | Momal Naz | [Read More](https://medium.com/p/41fac39d8ad3) |
+| Thu, 24 Jul 2025 13:32:45 GMT | OSINT CTF Walkthrough: TryHackMe Technocrat - My First Capture! | Adwaith S | [Read More](https://medium.com/p/a5c96b81dbf7) |
+| Thu, 24 Jul 2025 13:31:15 GMT | Most Employees Stay Invisible Forever — Because Leaders Ignore This Brutal Truth | Anil Jangra, MBA | [Read More](https://medium.com/p/ab12956ac623) |
+| Thu, 24 Jul 2025 13:27:25 GMT | How to Outsmart Scammers: Stay Safe from Phishing and Vishing in Crypto | Henry Windle | [Read More](https://medium.com/p/9750f280680a) |
+| Thu, 24 Jul 2025 13:26:32 GMT | Building Your First AI Threat Detection Model: Executive Summary | Paul Sherman | [Read More](https://medium.com/p/e91327684edc) |
+| Thu, 24 Jul 2025 13:25:41 GMT | Top 10 API Security Threats in 2025 & How Testing Services Detect Them | Dmvikash | [Read More](https://medium.com/p/8256b913c2bc) |
+| Thu, 24 Jul 2025 13:24:53 GMT | The Oracles Secure the Data — But Who Secures the Oracles? | Adán Sánchez de Pedro | [Read More](https://medium.com/p/c4cb253a4ea2) |
+| Thu, 24 Jul 2025 13:22:58 GMT | FriendZone - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/f99ec5a3c359) |
+| Thu, 24 Jul 2025 13:21:40 GMT | Bank Paypal Cashapp Transfer and Cloned Cards CC ATM Dumps Buy PayPal Txt USA 616 2021156 | Albert | [Read More](https://medium.com/p/87148f723d51) |
+| Thu, 24 Jul 2025 13:18:24 GMT | Zero-Day Nightmare: How a Turkish Espionage Group Exploited Output Messenger | Kalariya Het | [Read More](https://medium.com/p/12025f58e935) |
+| Thu, 24 Jul 2025 13:13:52 GMT | 2025 Sifted Feature | Clementine Gazay | [Read More](https://medium.com/p/d58f3b3c1cc2) |
+| Thu, 24 Jul 2025 13:08:57 GMT | Siber Güvenlik Bakışıyla: Https/Http | Barış A. | [Read More](https://medium.com/p/2c2a3d720243) |
+| Thu, 24 Jul 2025 13:01:50 GMT | I Built a Free VPN Server at Home with a Raspberry Pi | Mohamad MERHI | [Read More](https://medium.com/p/905c2e5a2f75) |
+| Thu, 24 Jul 2025 12:56:51 GMT | Windows Host based attack | Ravikumark | [Read More](https://medium.com/p/1ed2d9d9bc6d) |
+| Thu, 24 Jul 2025 12:55:41 GMT | How I Track Cyber Attacks & CVEs in Real-Time — No Tools, No Noise | Darsh Patel | [Read More](https://medium.com/p/7afbd672af6c) |
+| Thu, 24 Jul 2025 12:42:21 GMT | Don’t Get Hacked: Simple Cyber Security Tips for Employees | Afzal Ahmed Baig | [Read More](https://medium.com/p/6cb46a6e7f5a) |
+| Thu, 24 Jul 2025 12:41:29 GMT | UAE Cybersecurity Trends to Watch in 2025 | Yasinussf | [Read More](https://medium.com/p/beae0aec78ca) |
 | Thu, 24 Jul 2025 12:33:09 GMT | “The Art of Exploiting Open Redirects: A Hacker’s Playbook” | Aman Sharma | [Read More](https://medium.com/p/5591242f7ebd) |
 | Thu, 24 Jul 2025 12:31:49 GMT | Read This Before You Hack LLMs for Excessive Agency: Your Must‑Know AI Security Foundations. | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/05e48bb239a6) |
 | Thu, 24 Jul 2025 12:28:24 GMT | Discovered a Reflected HTML Injection on Microsoft Learn That Earned a Spot in Microsoft’s Hall of… | Gouri Sankar A | [Read More](https://medium.com/p/aa607a52e077) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 08:27:43 GMT | Donald Trump is Israel First | Brandon Lewis | [Read More](https://medium.com/p/648820c4a01e) |
 | Thu, 24 Jul 2025 08:26:20 GMT | Gift payment 4,000 USDT Blockchain Trc20 for you u can use ( Okx walllet — Safepal wallet — Tron… | Joelle luxer | [Read More](https://medium.com/p/56eb61c34e2a) |
 | Thu, 24 Jul 2025 08:26:07 GMT | Reconic Next Gen Recon Framework | Inayat Hussain | [Read More](https://medium.com/p/18af72140a7f) |
-| Thu, 24 Jul 2025 08:25:27 GMT | Starting My Cybersecurity Journey | Elene Kapanadze | [Read More](https://medium.com/p/86b82c7aaa66) |
-| Thu, 24 Jul 2025 08:13:33 GMT | Fixing Nigeria’s global security reputation in the wake of the US advisory | Lekan Olayiwola | [Read More](https://medium.com/p/b9feea0b5524) |
-| Thu, 24 Jul 2025 08:10:57 GMT | 從空氣清淨機看 WAF 設定常見問題 | LKC-AGH-Expert | [Read More](https://medium.com/p/ec2eb0f7b33a) |
-| Thu, 24 Jul 2025 08:10:27 GMT | When “Professor Said” Breaks AI Safety: An Accidental Jailbreak I Found | Teo Kamenov | [Read More](https://medium.com/p/3900a6aa67c2) |
-| Thu, 24 Jul 2025 08:08:52 GMT | Why Military Veterans Should Choose Cybersecurity for Their Next Mission | Shreyashettyctr | [Read More](https://medium.com/p/045fe5835c37) |
-| Thu, 24 Jul 2025 08:07:48 GMT | How Mobile APIs Leak Everything — Even If the App Is Secure | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7de79bafb345) |
-| Thu, 24 Jul 2025 08:06:33 GMT | Prevent Unvalidated Redirects in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/986d58f26e94) |
-| Thu, 24 Jul 2025 08:02:37 GMT | BUG BOUNTY-Entender el negocio es entender la superficie de ataque | Gorka | [Read More](https://medium.com/p/3ce1ebbfb211) |
-| Thu, 24 Jul 2025 08:01:38 GMT | Part 6: Post-Exploitation in Mobile APIs — Data Dumps, Admin Panels, and Beyond | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7c906e86791d) |
-| Thu, 24 Jul 2025 08:00:21 GMT | 500M GPS Token Security Fund: Rewiring Web3’s Security Value Cycle | GoPlus Security | [Read More](https://medium.com/p/49c84e65a285) |
-| Thu, 24 Jul 2025 07:54:29 GMT | What It Feels Like to Be the Strong One — Until You Break. | Jimmy (Wealth) | [Read More](https://medium.com/p/36773e3fd46c) |
-| Thu, 24 Jul 2025 07:49:34 GMT | Linux File Permissions: An Introduction for Beginners | Redinit | [Read More](https://medium.com/p/9f1cffa6e77f) |
-| Thu, 24 Jul 2025 07:44:40 GMT | Ache for Something Real | Ika ⋆౨;ৎ⟡ | [Read More](https://medium.com/p/8fbc3bfad2a9) |
-| Thu, 24 Jul 2025 07:44:34 GMT | Cheyanne Mallas: Transforming Cybersecurity as Project Director | Cheyannemallaspa | [Read More](https://medium.com/p/3e7bcee062bf) |
-| Thu, 24 Jul 2025 07:44:09 GMT | Cyber Hygiene 101: Easy Habits for Better Online Security | Ayesha noor | [Read More](https://medium.com/p/7324e066d051) |
-| Thu, 24 Jul 2025 07:39:58 GMT | ️ DNS and Deception: How SSRF and Metadata Gave Me Cloud Access on a Silver Platter | Iski | [Read More](https://medium.com/p/e9cf97c3693f) |
-| Thu, 24 Jul 2025 07:34:10 GMT | Best Enterprise Mobility Management Software | Vantage MDM | [Read More](https://medium.com/p/1161d5361169) |
