@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 01:20:16 GMT | When Growth Outpaces Design: Fragile Architecture in Cybersecurity | Adri Leite | [Read More](https://medium.com/p/77ecc951d758) |
+| Thu, 24 Jul 2025 01:16:04 GMT | Zeek - THM | Isiah | [Read More](https://medium.com/p/4a7a34192fa6) |
+| Thu, 24 Jul 2025 01:15:06 GMT | Tuning Detections isn’t Hard Unless You Make it Hard | Ryan G. Cox | [Read More](https://medium.com/p/15a7374cde47) |
+| Thu, 24 Jul 2025 00:47:45 GMT | Secrets & Systems Or, Why This Isn’t Just Another Bookity Book | Haley M Slaughter | [Read More](https://medium.com/p/a0758be26bfa) |
+| Thu, 24 Jul 2025 00:39:54 GMT | ⚡ Why Cybersecurity Is Now the Heart of the Smart Grid Revolution | Mike L | [Read More](https://medium.com/p/d55817c59bac) |
+| Thu, 24 Jul 2025 00:39:34 GMT | The Human Element: Intelligence Over Everything | Geoffrey Blue-Jack | [Read More](https://medium.com/p/11dafb1f2156) |
+| Thu, 24 Jul 2025 00:39:03 GMT | Why you should validate and sanitize | Shailendrarijal | [Read More](https://medium.com/p/391b989187f4) |
+| Thu, 24 Jul 2025 00:31:47 GMT | Breaking Root: The Ultimate Guide to Linux Capabilities | ThamizhElango Natarajan | [Read More](https://medium.com/p/04507d5fb46f) |
+| Thu, 24 Jul 2025 00:27:55 GMT | The Dark Web: Truth and Lies | Dove | [Read More](https://medium.com/p/d3d3213d666a) |
+| Thu, 24 Jul 2025 00:22:20 GMT | How I Chained 2FA Bypasses in a Crypto P2P System to Steal User USDT | 0xBartita | [Read More](https://medium.com/p/ef214879c173) |
+| Thu, 24 Jul 2025 00:20:07 GMT | THE ART OF THE DEVIL: PART 2 | Ghost | [Read More](https://medium.com/p/ed0ba08fb3b5) |
+| Thu, 24 Jul 2025 00:20:04 GMT | from addiction to the world of Cybersecurity. | Stephen Daniels (Ghost) | [Read More](https://medium.com/p/a736472e2d30) |
+| Thu, 24 Jul 2025 00:07:53 GMT | FlagCasino HackTheBox (HTB) reverse engineering Writeup | Rana chouchane | [Read More](https://medium.com/p/5e8aa6d96a8a) |
+| Wed, 23 Jul 2025 23:58:54 GMT | Nuclear Hackers: The SharePoint Breach That Shook National Security | Anthony Conforti | [Read More](https://medium.com/p/6933e60fecd5) |
+| Wed, 23 Jul 2025 23:56:24 GMT | 1분 만에 벌어진 내부자의 공격 by. 위즈노트 AI | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/9b01aef099b8) |
+| Wed, 23 Jul 2025 23:50:34 GMT | Don’t Trust the Path: Web Cache Deception Deep Dive | Mostafa Rashidy | [Read More](https://medium.com/p/8efe6953380d) |
+| Wed, 23 Jul 2025 23:50:32 GMT | Pros and Cons of Buying a 2018 or Older MacBook | Sims | [Read More](https://medium.com/p/7760c14a17b7) |
+| Wed, 23 Jul 2025 23:40:24 GMT | Career Prospects for Informatics Graduates: Not Just Coding | Nurahmadfathibr | [Read More](https://medium.com/p/ae06aa62e16a) |
+| Wed, 23 Jul 2025 23:37:54 GMT | Installing cameras isn’t enough — who’s watching them? | Visual Monitoring Solutions | [Read More](https://medium.com/p/c257ec33e573) |
 | Wed, 23 Jul 2025 23:22:39 GMT | Let’s Defend: 113 — SOC163 — Suspicious Certutil.exe Usage - Writeup | EPereda | [Read More](https://medium.com/p/0d5a060a7f85) |
 | Wed, 23 Jul 2025 23:22:28 GMT | Let’s Defend: 115 — SOC165 — Possible SQL Injection Payload Detected - Writeup | EPereda | [Read More](https://medium.com/p/d5ee5831bd18) |
 | Wed, 23 Jul 2025 23:22:02 GMT | Let’s Defend: 120 — SOC170 — Passwd Found in Requested URL — Possible LFI Attack - Writeup | EPereda | [Read More](https://medium.com/p/ff9250042fe9) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 17:13:49 GMT | Is your digital privacy truly in your hands? | Abith Ahamed | [Read More](https://medium.com/p/8ef1ea1c094c) |
 | Wed, 23 Jul 2025 17:11:33 GMT | Expertise as a Service: Getting the Right Minds When You Need Them | SafeAeon Inc. | [Read More](https://medium.com/p/31987c74af07) |
 | Wed, 23 Jul 2025 17:08:52 GMT | Hardening Linux Containers for Production Use | Karthikeyan Nagaraj | [Read More](https://medium.com/p/790b99ec5150) |
-| Wed, 23 Jul 2025 17:07:04 GMT | Think Before You Click | Krishna | [Read More](https://medium.com/p/035763d599cb) |
-| Wed, 23 Jul 2025 17:03:27 GMT | 10. İyileştirme: Sistemin Nefes Alması | AYŞE KIZILAY | [Read More](https://medium.com/p/95fda1e91fd7) |
-| Wed, 23 Jul 2025 16:59:45 GMT | यूट्यूब पर सब्सक्राइबर कैसे बढ़ाएं | SetupHindi | [Read More](https://medium.com/p/a742cde32c3a) |
-| Wed, 23 Jul 2025 16:58:33 GMT | 9. Ölçmeden Yönetişim Olmaz | AYŞE KIZILAY | [Read More](https://medium.com/p/39e3f5d6caa6) |
-| Wed, 23 Jul 2025 16:58:16 GMT | Multi-Tenant Kubernetes (Part 1): A Practical Guide to Isolation and Resource Management | Shawn Weigand | [Read More](https://medium.com/p/308ea814f4ff) |
-| Wed, 23 Jul 2025 16:53:14 GMT | ️‍♂️ Cyber Kill Chain: Real-Life Style Breakdown | Ayush Bagde | [Read More](https://medium.com/p/4528dc0871ef) |
-| Wed, 23 Jul 2025 16:53:05 GMT | Hangi Siber Güvenlik Alanı Sana Göre? — Mini Test | İbrahim Gündoğmuş | [Read More](https://medium.com/p/ed3d06401624) |
-| Wed, 23 Jul 2025 16:52:37 GMT | “I’m Fine”: The Hidden Weight of Pretending Everything’s Okay | Pascale Bouchard | [Read More](https://medium.com/p/5604acff9092) |
-| Wed, 23 Jul 2025 16:51:41 GMT | PCAP Challenge Walkthrough — Finding the Compromised Host and C2 Serve | Meghana | [Read More](https://medium.com/p/cb342e8100af) |
-| Wed, 23 Jul 2025 16:48:17 GMT | How State-Backed Chinese Hackers Are Weaponizing SharePoint Zero‑Day Flaws — And What You Must Do… | CyBlog | [Read More](https://medium.com/p/2ece1c85b8b1) |
-| Wed, 23 Jul 2025 16:47:56 GMT | Passing NE | Josh Colpean | [Read More](https://medium.com/p/2d39bac74d9f) |
-| Wed, 23 Jul 2025 16:44:06 GMT | TryHackMe — Light: A Gentle Introduction to SQL Injection on SQLite | Erickson | [Read More](https://medium.com/p/4cfc2f57d7bb) |
-| Wed, 23 Jul 2025 16:42:10 GMT | How Stealthy RATs and Credential Thieves Are Slipping Into Organizations — And What You Must Do Now | CyBlog | [Read More](https://medium.com/p/30ff913983e6) |
-| Wed, 23 Jul 2025 16:41:24 GMT | 8. Güvenliği Uygulamaya Dönüştürmek | AYŞE KIZILAY | [Read More](https://medium.com/p/7c6973084165) |
-| Wed, 23 Jul 2025 16:39:58 GMT | DeltaPrime, iVest, and Spectra Finance Lose $1.25M | Olympix | [Read More](https://medium.com/p/292cdc604b01) |
-| Wed, 23 Jul 2025 16:37:52 GMT | $255M Drained: Ronin, WazirX, Li.Fi, and Minterest Fall to Misconfig, Key Theft, and Call Injection | Olympix | [Read More](https://medium.com/p/a9718500fedc) |
-| Wed, 23 Jul 2025 16:35:40 GMT | Malware, Mint, and Misdirection: Bittensor, ETHTrustFund_, CGPT, and WMRP Hit in $10M+ Exploits | Olympix | [Read More](https://medium.com/p/a00e4508173a) |
-| Wed, 23 Jul 2025 16:33:28 GMT | Flipper Zero Episode 5: Evil Portals & the Dangers of Free Wi-Fi | Fahri | [Read More](https://medium.com/p/f23c340859e4) |
-| Wed, 23 Jul 2025 16:30:52 GMT | 7. Bilgi Güvenliğinin Görünmeyen Temelleri | AYŞE KIZILAY | [Read More](https://medium.com/p/8d0fa79ceb5a) |
