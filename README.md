@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 07:16:27 GMT | Neutralize Stolen Passwords in 30 Minutes — LeakRadar.io | Alexandre Vandamme | [Read More](https://medium.com/p/dba901e71f12) |
+| Thu, 24 Jul 2025 07:14:39 GMT | ️‍♂️ “JavaScript OPSEC Fails: How I Found Secrets, Endpoints, and PII in .JS Files” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ef02cead4648) |
+| Thu, 24 Jul 2025 07:07:09 GMT | How SafeLine Uses Dynamic Encryption to Defeat Crawlers and Scanners | AerieWhole123 | [Read More](https://medium.com/p/623b0d7a15c9) |
+| Thu, 24 Jul 2025 07:01:46 GMT | WHAT IS SIEM? | Devaaravindlutukurty | [Read More](https://medium.com/p/93ea25216bca) |
+| Thu, 24 Jul 2025 07:01:44 GMT | How to Train Employees on AI Security - AI Security Certification -AI Security Training Course | Practical DevSecOps | [Read More](https://medium.com/p/8b3f2dcb27f0) |
+| Thu, 24 Jul 2025 07:00:41 GMT | Bee Man Framework | Rahul The Shell Bee | [Read More](https://medium.com/p/58a0bb4ef8c6) |
+| Thu, 24 Jul 2025 06:58:31 GMT | Top FREE AI Courses & Certifications in 2025 — Level Up Your Skills | Rashadul Islam | [Read More](https://medium.com/p/c415997104ed) |
+| Thu, 24 Jul 2025 06:56:35 GMT | Mapping Real-World APTs Using MITRE ATT&CK Navigator — A Red Teamer’s Guide to Threat-Informed… | YoungerSibling | [Read More](https://medium.com/p/0061007bc130) |
+| Thu, 24 Jul 2025 06:53:37 GMT | The News Isn’t Informing You — It’s Performing for You | Matas Rimkus | [Read More](https://medium.com/p/ace1c8866f2a) |
+| Thu, 24 Jul 2025 06:51:23 GMT | Cisco ISE upgrade (Primary/Secondary): | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/aff7b3e1b5c4) |
+| Thu, 24 Jul 2025 06:50:56 GMT | Malware Analysis for Beginners using Ghidra | Devansh | [Read More](https://medium.com/p/99eeef39636b) |
+| Thu, 24 Jul 2025 06:49:19 GMT | How Hackers Attack Web Apps — and How You Can Stop Them | Aditya Pidurkar | [Read More](https://medium.com/p/364553c318e2) |
+| Thu, 24 Jul 2025 06:46:32 GMT | Building a Secure API with ASP.NET Core, JWT, and Refresh Tokens | Matin Ghanbari | [Read More](https://medium.com/p/03dac37b4055) |
+| Thu, 24 Jul 2025 06:43:33 GMT | “Digital Arrest Scams: The New Age Fraud That’s Tricking Smart People into Losing Crores” | Amaan Saiyed | [Read More](https://medium.com/p/e3c291f05a09) |
+| Thu, 24 Jul 2025 06:38:59 GMT | CyberX: The Standard in Specialized Cybersecurity for UAE | Tekhabeeb | [Read More](https://medium.com/p/45c196bc51f5) |
+| Thu, 24 Jul 2025 06:37:52 GMT | Hacking isn’t always on Terminal | 7error | [Read More](https://medium.com/p/175bf196fbae) |
+| Thu, 24 Jul 2025 06:37:00 GMT | Why 10,000+ People Bought This $19 Camera Last Month (TP-Link Tapo C100 Breakdown | Top secure tools | [Read More](https://medium.com/p/815aa7d7c27b) |
+| Thu, 24 Jul 2025 06:30:00 GMT | The API Security Wake-Up Call: Why Your Backend is a Breach Waiting to Happen | Freddy Dordoni | [Read More](https://medium.com/p/afdfd53f122c) |
 | Thu, 24 Jul 2025 06:21:49 GMT | Mastering Secure Authentication: A Deep Dive into JWTs and Web App Security | Rishav Raj | [Read More](https://medium.com/p/ea562c610bd1) |
 | Thu, 24 Jul 2025 06:14:31 GMT | Inside the Vim Vulnerability: How Malicious ZIP Files Can Compromise System Integrity | Infoziant | [Read More](https://medium.com/p/7a46b61aceb3) |
 | Thu, 24 Jul 2025 06:12:12 GMT | Why I Completely Moved to Brave Browser, and Why You Should Consider It Too. | Kriti Tiwari | [Read More](https://medium.com/p/cff899bae8bb) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 22:28:36 GMT | 10 Things That Require Zero Talent But Build the Life of a Cybersecurity Professional | i4m_x | [Read More](https://medium.com/p/bc71fbea7f6d) |
 | Wed, 23 Jul 2025 22:26:59 GMT | Be a Man, They Said | Simon Fokt, PhD | [Read More](https://medium.com/p/e697aa9a61d9) |
 | Wed, 23 Jul 2025 22:24:17 GMT | How to Get My Email Off the Dark Web (And What to Do Next) | Akshay Chauhan | [Read More](https://medium.com/p/df6fadba6c71) |
-| Wed, 23 Jul 2025 22:23:14 GMT | ️‍♂️ Recon to Master: The Complete Bug Bounty Checklist | Vipul Sonule | [Read More](https://medium.com/p/239ecca2fd5c) |
-| Wed, 23 Jul 2025 22:22:59 GMT | $700 Bounty For Stored XSS | Monika sharma | [Read More](https://medium.com/p/19277a9c079b) |
-| Wed, 23 Jul 2025 22:17:12 GMT | Vulnerability Discovery & Remediation Using Nessus | Myshawne Stallings | [Read More](https://medium.com/p/8220c7ee8ff4) |
-| Wed, 23 Jul 2025 22:11:30 GMT | $5,300 Bounty: Shopify Admin XSS | Monika sharma | [Read More](https://medium.com/p/20459892cdc3) |
-| Wed, 23 Jul 2025 22:10:57 GMT | VulnLawyers - Pentest Report | device0 | [Read More](https://medium.com/p/8683d963b47f) |
-| Wed, 23 Jul 2025 22:10:01 GMT | SIM Swapping: The Silent Heist Behind Phone Number Hijacking | BlueTeam Bytes | [Read More](https://medium.com/p/7a570eaecfdd) |
-| Wed, 23 Jul 2025 22:08:54 GMT | Stop Treating OAuth 2.0 Like a Black Box: The Deep Dive Every Developer Needs (But Nobody Teaches) | Rachoork | [Read More](https://medium.com/p/1afb3a3f7bbb) |
-| Wed, 23 Jul 2025 21:52:35 GMT | Industrial Intrusion — TryHackMe | omni | [Read More](https://medium.com/p/c684792339b3) |
-| Wed, 23 Jul 2025 21:44:30 GMT | GraphQL Gone Wrong: The Silent Security Nightmare No One Talks About | Bashx0 | [Read More](https://medium.com/p/bf2588e81f2a) |
-| Wed, 23 Jul 2025 21:34:19 GMT | Tracy Champ Recovery | Norman Meg | [Read More](https://medium.com/p/516821287287) |
-| Wed, 23 Jul 2025 21:28:06 GMT | MITRE ATT&CK, Splunk, and VMs | Joseph Thomas Gorman | [Read More](https://medium.com/p/33d7f6490a85) |
-| Wed, 23 Jul 2025 21:16:37 GMT | Exploiting Stored XSS in a Payment Support System: From Payload Injection to Cookie Theft | EroHack | [Read More](https://medium.com/p/7cd538c184f0) |
-| Wed, 23 Jul 2025 21:12:34 GMT | The Stylus Package Incident: A Wake-Up Call for the JavaScript Ecosystem | Stefan Herdy | [Read More](https://medium.com/p/efaf5fc694ad) |
-| Wed, 23 Jul 2025 21:09:11 GMT | Vulnerabilities in LLM Applications | RosanaFSS | [Read More](https://medium.com/p/54bf5384a8c1) |
-| Wed, 23 Jul 2025 21:05:55 GMT | Reflected XSS into HTML context with most tags and attributes blocked | Chirag Vyas | [Read More](https://medium.com/p/a23010fa3f61) |
-| Wed, 23 Jul 2025 21:01:03 GMT | قصة نجاح كيف حققت 1000$ من العمل الحر في 60 يوم؟ | katibatech | [Read More](https://medium.com/p/f10735c6b4be) |
-| Wed, 23 Jul 2025 21:01:01 GMT | Part 5: web3 Security — Bridging the Gaps (and Risks) — Cross-Chain Security & Interoperability | Ben San Roman | [Read More](https://medium.com/p/a72412745904) |
-| Wed, 23 Jul 2025 20:58:53 GMT | The Importance of Establishing Digital Trust in an Organization | Cornwellja | [Read More](https://medium.com/p/db50bd64e999) |
