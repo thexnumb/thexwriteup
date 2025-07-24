@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 21:29:39 GMT | The Courage to Be Wrong: Why Vulnerability is Agile Leadership’s Secret Weapon | Muhammad Waqas Sharif | [Read More](https://medium.com/p/0c6938c45fc2) |
+| Thu, 24 Jul 2025 21:26:05 GMT | TryHackMe: LazyAdmin [Write-up / Walkthrough] | SIGKILLers | [Read More](https://medium.com/p/7cae9c9a31d5) |
+| Thu, 24 Jul 2025 21:23:52 GMT | Securely storing credentials in Terraform with ‘Ephemeral Blocks’ and ‘Write-Only’ attributes | ISHII (石井) | [Read More](https://medium.com/p/6867826b9ef7) |
+| Thu, 24 Jul 2025 21:23:01 GMT | Monetizing Stolen Data in the Name of Threat Intelligence – The Case of Farnsworth Intelligence | David SEHYEON Baek | [Read More](https://medium.com/p/6810bb4529fb) |
+| Thu, 24 Jul 2025 21:19:19 GMT | 10% discount on Vulnerability Assessment and Penetration Testing (VAPT) | Muhammad Inam Abbasi | [Read More](https://medium.com/p/a1627ff4108e) |
+| Thu, 24 Jul 2025 21:17:43 GMT | “When Silence Falls: The Hidden Art of Burning a Hacker Forum” | An0n | [Read More](https://medium.com/p/a926bf6372d7) |
+| Thu, 24 Jul 2025 21:15:48 GMT | Cleaning the Digital Mirror: A Personal Strategy for the Coming Cyber Storm ⛈️ | Angelo Sorte | [Read More](https://medium.com/p/1bb952d3662d) |
 | Thu, 24 Jul 2025 21:01:49 GMT | Part 6: The Institutional Imperative — Enterprise Grade Custody & Compliance | Ben San Roman | [Read More](https://medium.com/p/aff3362ad744) |
 | Thu, 24 Jul 2025 20:55:47 GMT | Designing Secure APIs: OAuth2, JWT, and Zero Trust Principles in Enterprise Systems | Suraj Thakur | [Read More](https://medium.com/p/b67dda47f671) |
+| Thu, 24 Jul 2025 20:48:03 GMT | The Shadow in the Stream: Hunting Adversary-in-the-Middle Phishing Attacks with KQL | Alan | [Read More](https://medium.com/p/7081b0695216) |
 | Thu, 24 Jul 2025 20:41:06 GMT | Kernel DACL Management | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f4e00b8da8a3) |
 | Thu, 24 Jul 2025 20:38:20 GMT | From Zero to Building Top Web3 Applications | Mohamedajguernoun | [Read More](https://medium.com/p/19aee6c2d1d7) |
 | Thu, 24 Jul 2025 20:25:02 GMT | Complete Guide: Installing Operating Systems on VirtualBox, Hyper-V, and VMware | Nihar Mane | [Read More](https://medium.com/p/612eaabf7c9f) |
@@ -105,11 +113,3 @@ and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://med
 | Thu, 24 Jul 2025 15:18:06 GMT | Defending Every Layer: OSI Model Security with AWS Services | Allen Cunningham | [Read More](https://medium.com/p/23ddc4d5ff71) |
 | Thu, 24 Jul 2025 15:17:18 GMT | ⚡ *Outpaced by Time: The Hidden Struggles of Building an IT Career in a Rapid World* | Missumehani | [Read More](https://medium.com/p/d23c2d8ae99c) |
 | Thu, 24 Jul 2025 15:12:44 GMT | Complete XSS Guide: Types, Tools, Payloads, and Detection | Shoaib Bin Rashid | [Read More](https://medium.com/p/3243cb8840c6) |
-| Thu, 24 Jul 2025 15:12:05 GMT | Blowing Up the Theme Park | Andy Manoske | [Read More](https://medium.com/p/7fcb3f4de5c1) |
-| Thu, 24 Jul 2025 15:11:13 GMT | Ever wonder how DeFi gets rekt? Let’s talk oracle manipulation! | Joseph Gimba | [Read More](https://medium.com/p/22e4f603eb8c) |
-| Thu, 24 Jul 2025 15:07:25 GMT | How to Upgrade to Windows 11 Before Windows 10 Support Ends (UK Guide 2025) | Alex | [Read More](https://medium.com/p/5380f63fdf15) |
-| Thu, 24 Jul 2025 15:06:07 GMT | IoT Device Security: From Discovery to Defense | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9faee0ea2071) |
-| Thu, 24 Jul 2025 15:01:55 GMT | Why Public Email = Open Door for Targeted Attacks | Ingvar Pavlovich | [Read More](https://medium.com/p/e9434e3c0c0b) |
-| Thu, 24 Jul 2025 15:01:55 GMT | What Is a WAF? Why Your Web App Needs One | Jachimike Onwuchekwa | [Read More](https://medium.com/p/2e591857a9f0) |
-| Thu, 24 Jul 2025 14:52:49 GMT | Here’s Why Alaska Airlines Grounded Its Entire Fleet Amid Nationwide Shutdown | SR | [Read More](https://medium.com/p/d18e0a5ef20b) |
-| Thu, 24 Jul 2025 14:49:38 GMT | How I Built a MAC Changer Tool in Python — A Networking Project | Itzmeimran | [Read More](https://medium.com/p/636cd6548240) |
