@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 23:14:30 GMT | The Single Point of Failure: Hw One Microsoft Vulnerability Exposed the Fragility of Digital… | The Daily Reflection | [Read More](https://medium.com/p/ea8fc0674010) |
+| Thu, 24 Jul 2025 23:13:04 GMT | The Perils of Mobile Devices: Protecting Your Data in a Remote Work World | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d73cefc32836) |
+| Thu, 24 Jul 2025 23:07:41 GMT | ,   ! ️ | Visual Monitoring Solutions | [Read More](https://medium.com/p/423c9d65b8b3) |
+| Thu, 24 Jul 2025 23:01:15 GMT | Day 59: Why is Cybersecurity so hard? | Nile Okomo | [Read More](https://medium.com/p/00b57cf736a6) |
+| Thu, 24 Jul 2025 22:59:16 GMT | The mirror that we run away from | Whitney Fakolade | [Read More](https://medium.com/p/5341aefd7578) |
+| Thu, 24 Jul 2025 22:57:38 GMT | Dead Apps, Live Threats: How Abandoned Mobile Apps Are Still Stealing Data | Akshay Chauhan | [Read More](https://medium.com/p/e1852047a9cd) |
+| Thu, 24 Jul 2025 22:48:10 GMT | ¡¡Mi introducción a Linux — Un camino hacia la libertad tecnológica | Zeyled Nazey | [Read More](https://medium.com/p/7fbef4bf7707) |
 | Thu, 24 Jul 2025 22:40:07 GMT | Construction Security Guard in Dallas Texas | Twin City Security Dallas | [Read More](https://medium.com/p/d0760e9fc521) |
 | Thu, 24 Jul 2025 22:31:48 GMT | ALLSIGNS2PWNAGE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/73cf842c0106) |
 | Thu, 24 Jul 2025 22:28:01 GMT | A Deep Dive into a Critical Vulnerability in Clockwork | 0vulns | [Read More](https://medium.com/p/f68ddb5ec48c) |
@@ -105,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 16:11:28 GMT | Best Apps to Check If Your Phone Is Spied On Without Your Knowledge | Narjis Batool | [Read More](https://medium.com/p/a7ef1c01ac01) |
 | Thu, 24 Jul 2025 16:05:35 GMT | How Login Authentication Actually Works ??? A Beginner-to-Pro Guide | Sanjeevani Bhandari | [Read More](https://medium.com/p/7ff7b619cbfa) |
 | Thu, 24 Jul 2025 16:03:44 GMT | How I Gained RCE on an ISP’s ACS Dashboard via SQLi and Misconfigurations (Red Team Simulation) | KonaN | [Read More](https://medium.com/p/9c00088159a0) |
-| Thu, 24 Jul 2025 16:03:43 GMT | 7 Examples of How AI is Improving Data Security | Xaltius | [Read More](https://medium.com/p/157ee21409c3) |
-| Thu, 24 Jul 2025 16:03:26 GMT | Critical HPE Access Point Vulnerability (CVE-2025–37103): What You Need to Know, How It Could Be… | _Anirudh_ | [Read More](https://medium.com/p/2b2c4efa2283) |
-| Thu, 24 Jul 2025 16:03:19 GMT | Learn how to protect websites
-and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://medium.com/p/19175121b6ad) |
-| Thu, 24 Jul 2025 16:01:48 GMT | AI-Powered Risk Management: Use Cases, Threats, and Trends | ODSC - Open Data Science | [Read More](https://medium.com/p/1027ed8969c2) |
-| Thu, 24 Jul 2025 15:59:58 GMT | What the Mirror Knows | Isha | [Read More](https://medium.com/p/4ad7c29e0dad) |
-| Thu, 24 Jul 2025 15:54:23 GMT | Security Analysis of the Fellou AI Browser | Anatoliy Fedorenko | [Read More](https://medium.com/p/62c0fb00ff2a) |
-| Thu, 24 Jul 2025 15:48:29 GMT | Fear Might Get Clicks, but It Won’t Build Culture — My Framer Site | Herd Security | [Read More](https://medium.com/p/2f0d0024ab2f) |
