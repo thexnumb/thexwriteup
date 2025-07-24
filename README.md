@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 11:11:50 GMT | Admin Emails & Passwords Exposed via HTTP Method Change | Mahmoud El Manzalawy | [Read More](https://medium.com/p/da23186f37d3) |
+| Thu, 24 Jul 2025 11:11:14 GMT | Dom-Based Xss | Monika sharma | [Read More](https://medium.com/p/fa913b66b09b) |
+| Thu, 24 Jul 2025 11:09:51 GMT | The Thumbnail Trap: An Unpatched Google Docs Vulnerability That Risks Your Privacy | Shubhang Borkar | [Read More](https://medium.com/p/e68911384e6e) |
+| Thu, 24 Jul 2025 11:09:09 GMT | Episode 4 – Silently Dangerous: Blind SQL Injection | Yamini Yadav | [Read More](https://medium.com/p/a795fab8f669) |
+| Thu, 24 Jul 2025 11:07:33 GMT | Episode 3: XML Injection — When Hidden Tags Rewrite the Story | Yamini Yadav | [Read More](https://medium.com/p/56e5f6b691ab) |
+| Thu, 24 Jul 2025 11:06:49 GMT | Demystifying CORS | Ivan Penev | [Read More](https://medium.com/p/be575dfbe7a6) |
+| Thu, 24 Jul 2025 11:03:36 GMT | Reclaim Your Privacy: The Power of Ech Browser’s Tracker Blocker | Psylinks Announce | [Read More](https://medium.com/p/5b9d4811142d) |
+| Thu, 24 Jul 2025 11:01:49 GMT | Hunting WMI Persistence: A Beginner’s Journey into Detection Engineering | Manish Rawat | [Read More](https://medium.com/p/a9a5e09983c9) |
+| Thu, 24 Jul 2025 11:00:18 GMT | Ulysses Lab | SANDEEP | [Read More](https://medium.com/p/b432917d69c2) |
+| Thu, 24 Jul 2025 10:58:55 GMT | Master the Symantec 250–587 Exam in 2025 Complete Guide to Security Management | Mehmood Ali | [Read More](https://medium.com/p/b94384583683) |
+| Thu, 24 Jul 2025 10:57:31 GMT | Spotting the Fakes: How Ech Browser’s Smart Scam Detection Keeps You Safe Online ! | Psylinks Announce | [Read More](https://medium.com/p/d44a5c775052) |
+| Thu, 24 Jul 2025 10:49:37 GMT | The Ultimate Guide to Wi-Fi Hacking-Part 1 | Redfox Security | [Read More](https://medium.com/p/e4ee5e707432) |
+| Thu, 24 Jul 2025 10:43:47 GMT | Resumen de novedades: Inteligencia Artificial & Tecnologías de Información | Dario Bernabeu | [Read More](https://medium.com/p/e04c06e3ea5e) |
 | Thu, 24 Jul 2025 10:42:21 GMT | Building an Advanced Python Keylogger for Red Team Simulation | its lohith | [Read More](https://medium.com/p/a8e7fad92adb) |
 | Thu, 24 Jul 2025 10:40:01 GMT | Caller to Catastrophe: Pen‑Testing Lessons from Clorox’s $380M Help Desk Hack | Inforsecpro | [Read More](https://medium.com/p/6b4a984422d6) |
 | Thu, 24 Jul 2025 10:35:31 GMT | Haze HackTheBox - Detailed Writeup | 0xleksa | [Read More](https://medium.com/p/8c01cce2bbc3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 06:14:31 GMT | Inside the Vim Vulnerability: How Malicious ZIP Files Can Compromise System Integrity | Infoziant | [Read More](https://medium.com/p/7a46b61aceb3) |
 | Thu, 24 Jul 2025 06:12:12 GMT | Why I Completely Moved to Brave Browser, and Why You Should Consider It Too. | Kriti Tiwari | [Read More](https://medium.com/p/cff899bae8bb) |
 | Thu, 24 Jul 2025 06:06:29 GMT | Describe encryption and hashing | Eyad Hasanato | [Read More](https://medium.com/p/60eea6f03066) |
-| Thu, 24 Jul 2025 06:02:52 GMT | How Linux Wakes Up: The Boot Process Explained Like You’re 5 | MayhemCode | [Read More](https://medium.com/p/76ea6ba9683d) |
-| Thu, 24 Jul 2025 06:01:02 GMT | Today’s Top Cyber Intelligence Highlights — Jul 24, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/63d7c4c1fd82) |
-| Thu, 24 Jul 2025 05:41:08 GMT | Lakshman Rekha in the Digital Age: The First Rule of Cyber Defense | Dr. Rakhi R Wadhwani | [Read More](https://medium.com/p/5b7c96599de8) |
-| Thu, 24 Jul 2025 05:32:17 GMT | Infographic: How AI Transforms eCommerce | Website Design Company - Alakmalak Technologies | [Read More](https://medium.com/p/307dbd8b7fb6) |
-| Thu, 24 Jul 2025 05:29:15 GMT | Why Booking a Flight Is Harder Than It Looks ✈️(Concurrency) | Prem Goswami | [Read More](https://medium.com/p/552800468af8) |
-| Thu, 24 Jul 2025 05:19:52 GMT | A Python Script to Find Suspicious Log Entries | Cyberfikun | [Read More](https://medium.com/p/bd2a33aefca6) |
-| Thu, 24 Jul 2025 05:19:11 GMT | Authentication Bypass via Inconsistent Credential Validation (Phone vs Email Login) | Lakshya | [Read More](https://medium.com/p/2e435bc2a290) |
-| Thu, 24 Jul 2025 05:17:38 GMT | Web Cache Poisoning via Ambiguous Requests Lead to XSS | Bash Overflow | [Read More](https://medium.com/p/aa9f9f59c079) |
-| Thu, 24 Jul 2025 05:17:10 GMT | Explore Generative AI with the Gemini API in Vertex AI | Prathmesh Jejurkar | [Read More](https://medium.com/p/23512d004b37) |
-| Thu, 24 Jul 2025 05:15:23 GMT | Safe Money, Smart Blockchain: How Umoja Coin Is Rewriting the Trust Equation | Umoja Coin | [Read More](https://medium.com/p/90e0b8905007) |
-| Thu, 24 Jul 2025 05:14:36 GMT | Cortex Cloud by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3fcef6cbace2) |
-| Thu, 24 Jul 2025 05:12:06 GMT | Inside the Dark Web: What Really Happens to Leaked Credentials | CYber VIaz | [Read More](https://medium.com/p/b657db3c0ac6) |
-| Thu, 24 Jul 2025 05:03:45 GMT | What is SEToolkit and How to Use It? | Semih Arda Ersöz | [Read More](https://medium.com/p/e3f819a729b8) |
