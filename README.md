@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 14:22:20 GMT | Dikkate Alınmayan Zafiyetler, Ele Geçirilen Sistemler: Temel Pentest Senaryosu | Nazmiyecaglar | [Read More](https://medium.com/p/474e1962f0ce) |
+| Thu, 24 Jul 2025 14:17:10 GMT | Trust in the Age of AI: A Cybersecurity Wake-Up Call for Every Parent and Citizen in India | Vijay Kumar Gupta | [Read More](https://medium.com/p/fae96ebb5dae) |
+| Thu, 24 Jul 2025 14:17:03 GMT | ️ Cloud Security: Laying the Groundwork for My SOC Analyst Journey. | Dany Christel | [Read More](https://medium.com/p/ffe2f8d9a479) |
+| Thu, 24 Jul 2025 14:16:05 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/20b185ad161d) |
+| Thu, 24 Jul 2025 14:11:38 GMT | Automate cleanup of unused EBS volumes | NIKHIL P PAWAR | [Read More](https://medium.com/p/85752092cb26) |
+| Thu, 24 Jul 2025 14:09:35 GMT | Forget the Cloud; IT’s Toughest Problems Are Something Else! | Akshat Virmani | [Read More](https://medium.com/p/058654b00676) |
+| Thu, 24 Jul 2025 14:02:56 GMT | CTF Day(43) | Ahmed Narmer | [Read More](https://medium.com/p/1a92e694ba8a) |
+| Thu, 24 Jul 2025 14:02:45 GMT | The #1 VPN You Should Be Using in 2025 | Magnussnordvpn | [Read More](https://medium.com/p/d282527c387a) |
+| Thu, 24 Jul 2025 14:02:41 GMT | Why AI Regulation Has A Long Way To Go | abdeldayemnour | [Read More](https://medium.com/p/59b49e46dd9d) |
+| Thu, 24 Jul 2025 14:02:38 GMT | Cyber Briefing: 2025.07.24 | CyberMaterial | [Read More](https://medium.com/p/d70e5533ed2f) |
+| Thu, 24 Jul 2025 13:58:11 GMT | Business Logic Vulnerabilities part-11 : Authentication bypass via encryption oracle | Ahmad Sopyan | [Read More](https://medium.com/p/66c44f7ed2b1) |
+| Thu, 24 Jul 2025 13:57:53 GMT | TryHackMe - Windows Threat Detection 3 - WriteUp | Axoloth | [Read More](https://medium.com/p/1716ab52cdf5) |
+| Thu, 24 Jul 2025 13:57:00 GMT | The Rise of AI in Cybersecurity: A New Era of Digital Protection | Talktopuneet | [Read More](https://medium.com/p/7a62d884824a) |
+| Thu, 24 Jul 2025 13:46:32 GMT | How a Reflected XSS Vulnerability Earned Me a Hall-of-Fame Spot | Ibtissam hammadi | [Read More](https://medium.com/p/1d36f87705ff) |
+| Thu, 24 Jul 2025 13:37:54 GMT | Quantum Computers Are Here: What do you need to know? | Tech Teacups | [Read More](https://medium.com/p/51d3f953b0bd) |
+| Thu, 24 Jul 2025 13:37:47 GMT | Adam Gale, Field CTO For AI & Cybersecurity At Netapp On Securing Critical Infrastructure In The… | Orsonamiri | [Read More](https://medium.com/p/5d19adbe208b) |
 | Thu, 24 Jul 2025 13:33:27 GMT | Wireshark: Traffic Analysis - TryHackMe — Walkthrough — Part 1 | Momal Naz | [Read More](https://medium.com/p/41fac39d8ad3) |
 | Thu, 24 Jul 2025 13:32:45 GMT | OSINT CTF Walkthrough: TryHackMe Technocrat - My First Capture! | Adwaith S | [Read More](https://medium.com/p/a5c96b81dbf7) |
 | Thu, 24 Jul 2025 13:31:15 GMT | Most Employees Stay Invisible Forever — Because Leaders Ignore This Brutal Truth | Anil Jangra, MBA | [Read More](https://medium.com/p/ab12956ac623) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 09:07:06 GMT | The Log4j Specter Still Lingers! | Umer Yousuf | [Read More](https://medium.com/p/c6227159d729) |
 | Thu, 24 Jul 2025 09:06:40 GMT | HackTheBox: LootStash reverse engineering writeup | Rana chouchane | [Read More](https://medium.com/p/cc75e7e2340c) |
 | Thu, 24 Jul 2025 09:06:27 GMT | Forensics - picoGym - St3g0 | Flower Bed | [Read More](https://medium.com/p/2e8ffb38fd13) |
-| Thu, 24 Jul 2025 09:05:52 GMT | Unmasking ToolShell: The Critical Flaw That Rocked SharePoint | Ashutosh | [Read More](https://medium.com/p/49c62e6a4384) |
-| Thu, 24 Jul 2025 09:02:26 GMT | SharePoint Under Siege: Unauthenticated RCE via CVE-2025–53770 & CVE-2025–53771 | Umer Yousuf | [Read More](https://medium.com/p/194d489093bf) |
-| Thu, 24 Jul 2025 08:55:48 GMT | Quick-Start Guide: Installing the All-in-One Wazuh Stack on Ubuntu 24.04.02 | Ahmed Abbes | [Read More](https://medium.com/p/a7b0c5fd066e) |
-| Thu, 24 Jul 2025 08:55:41 GMT | Intelligent Document Automation: Wie Unternehmen 2025 ihre Dokumentenprozesse revolutionieren | Philip Hansen | [Read More](https://medium.com/p/5dfff17f701a) |
-| Thu, 24 Jul 2025 08:51:55 GMT | Under the Hood: Securing Kafka, Pulsar, and Redis Streams — Why Real-Time Data Needs Real… | AIAlchemist_Ab1r | [Read More](https://medium.com/p/d7495cfcca96) |
-| Thu, 24 Jul 2025 08:42:51 GMT | What is Web Application VAPT? A Complete Guide for 2025 | West Advanced Technologies Inc | [Read More](https://medium.com/p/a5f787626c22) |
-| Thu, 24 Jul 2025 08:39:36 GMT | What is insurance, and why do we need it? | Sameerak_Writes | [Read More](https://medium.com/p/c130802f0533) |
-| Thu, 24 Jul 2025 08:38:36 GMT | Implementing Passkeys (WebAuthn) in NestJS & Next.js to Protect API Routes | Shao Xuan | [Read More](https://medium.com/p/ef1da7fa9364) |
-| Thu, 24 Jul 2025 08:36:34 GMT | TombWatcher HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/33f2bc278260) |
-| Thu, 24 Jul 2025 08:34:19 GMT | ReconRover — A Reconnaissance Framework That Makes Bug Hunting Simple | Inayat Hussain | [Read More](https://medium.com/p/3016467ae738) |
-| Thu, 24 Jul 2025 08:31:35 GMT | Crisis of Credibility: Can the UN Still Deliver Global Justice? | Sainandan Iyer | [Read More](https://medium.com/p/b9defe114461) |
-| Thu, 24 Jul 2025 08:29:50 GMT | BLACKSITE OSINT v2.6 | Inayat Hussain | [Read More](https://medium.com/p/c9c823620739) |
-| Thu, 24 Jul 2025 08:29:48 GMT | ️‍♂️ Threat Hunting: Becoming the Cybersecurity Detective Your Network Deserves | Ankita Singh | [Read More](https://medium.com/p/8d2a26d2d5a8) |
-| Thu, 24 Jul 2025 08:27:43 GMT | Donald Trump is Israel First | Brandon Lewis | [Read More](https://medium.com/p/648820c4a01e) |
-| Thu, 24 Jul 2025 08:26:20 GMT | Gift payment 4,000 USDT Blockchain Trc20 for you u can use ( Okx walllet — Safepal wallet — Tron… | Joelle luxer | [Read More](https://medium.com/p/56eb61c34e2a) |
-| Thu, 24 Jul 2025 08:26:07 GMT | Reconic Next Gen Recon Framework | Inayat Hussain | [Read More](https://medium.com/p/18af72140a7f) |
