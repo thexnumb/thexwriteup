@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 12:33:09 GMT | “The Art of Exploiting Open Redirects: A Hacker’s Playbook” | Aman Sharma | [Read More](https://medium.com/p/5591242f7ebd) |
+| Thu, 24 Jul 2025 12:31:49 GMT | Read This Before You Hack LLMs for Excessive Agency: Your Must‑Know AI Security Foundations. | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/05e48bb239a6) |
+| Thu, 24 Jul 2025 12:28:24 GMT | Discovered a Reflected HTML Injection on Microsoft Learn That Earned a Spot in Microsoft’s Hall of… | Gouri Sankar A | [Read More](https://medium.com/p/aa607a52e077) |
+| Thu, 24 Jul 2025 12:27:21 GMT | Part 2-Geolocation Basics in OSINT: Reading the Hidden Clues in Photo Metadata | Joe The OSINT Guy | [Read More](https://medium.com/p/890bcb8791b7) |
+| Thu, 24 Jul 2025 12:23:48 GMT | Hacker vs Threat Actor: What’s the Difference and Why It Matters | Cyber Timi | [Read More](https://medium.com/p/e9f7d3d28278) |
+| Thu, 24 Jul 2025 12:23:31 GMT | 5 Game-Changing Tips for Flutter Developers in 2025 | Appcurators | [Read More](https://medium.com/p/5ff383b7e519) |
+| Thu, 24 Jul 2025 12:17:31 GMT | How Privacy by Design Enhances Trust and Brand Reputation. | sanya | [Read More](https://medium.com/p/957b0d777715) |
+| Thu, 24 Jul 2025 12:15:05 GMT | Cybersecurity and Cyber Attacks: Protecting the Digital World - eNetwork: | Digital marketing in lahore | [Read More](https://medium.com/p/bee82538cc76) |
+| Thu, 24 Jul 2025 12:07:02 GMT | How Private Is Incognito Browsing on Your Android Device? | Keir Finlow-Bates | [Read More](https://medium.com/p/9e7a9bc8b26a) |
+| Thu, 24 Jul 2025 12:06:00 GMT | How Do Attack Surface Management Services Work? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/87d9f78e4588) |
+| Thu, 24 Jul 2025 12:02:04 GMT | SIGMA & YARA RULES | Alsyah Widi | [Read More](https://medium.com/p/845fc76a4132) |
+| Thu, 24 Jul 2025 12:01:08 GMT | Inside the Rise of DieNet | Vismaya | [Read More](https://medium.com/p/e08e71fbd4b5) |
+| Thu, 24 Jul 2025 11:56:33 GMT | Beyond the Obvious: Fortifying Your Application’s Data Against the Unseen Threats | Viquar Younus Mohammed | [Read More](https://medium.com/p/b3886d511853) |
+| Thu, 24 Jul 2025 11:55:06 GMT | Pre-Account Takeover via OAuth Misconfiguration | Ehtesham Ul Haq | [Read More](https://medium.com/p/0e393cda1f7e) |
 | Thu, 24 Jul 2025 11:31:44 GMT | Securing the Unsecure Networks — A primer | Naveed Ahmed 《内维德》 | [Read More](https://medium.com/p/eecd92895234) |
 | Thu, 24 Jul 2025 11:29:17 GMT | From Recon to Ruin: Red-Team Dissection of the CargoTalon Aerospace Breach | Pentestjunkie07 | [Read More](https://medium.com/p/a1ec72b72685) |
 | Thu, 24 Jul 2025 11:27:02 GMT | Day 53: Internal Audits vs External Audits | Brittney Ginther | [Read More](https://medium.com/p/99b40b54691d) |
@@ -38,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 10:35:31 GMT | Haze HackTheBox - Detailed Writeup | 0xleksa | [Read More](https://medium.com/p/8c01cce2bbc3) |
 | Thu, 24 Jul 2025 10:29:34 GMT | Integrating OWASP Dependency-Check into Maven Verify Goal | Giannakopoulosj | [Read More](https://medium.com/p/69219ed364ab) |
 | Thu, 24 Jul 2025 10:27:52 GMT | Best RFID Tags in Dubai with iv RFID Solutions | Sharoonecraftz | [Read More](https://medium.com/p/13f721cf58d2) |
+| Thu, 24 Jul 2025 10:26:35 GMT | Şifre mi, Parola mı? Sık Karıştırılan Bu İki Kavramı Artık Doğru Kullanalım! | Tuğrul Kılıç | [Read More](https://medium.com/p/746502c40fec) |
 | Thu, 24 Jul 2025 10:26:30 GMT | Unmasking Root: How a Misconfigured Shadow File Gave Me Full Access | Dipanshu Chhanikar | [Read More](https://medium.com/p/3c14e6684d02) |
 | Thu, 24 Jul 2025 10:23:12 GMT | Cybersecurity Awareness — What Is Data Security Posture Management (DSPM) and Why It Matters in… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/d4703282b6f5) |
 | Thu, 24 Jul 2025 10:20:40 GMT | Why Cybersecurity in Operational Technology Can’t Be Ignored | Daniel | [Read More](https://medium.com/p/fa9f69f02d50) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 07:44:09 GMT | Cyber Hygiene 101: Easy Habits for Better Online Security | Ayesha noor | [Read More](https://medium.com/p/7324e066d051) |
 | Thu, 24 Jul 2025 07:39:58 GMT | ️ DNS and Deception: How SSRF and Metadata Gave Me Cloud Access on a Silver Platter | Iski | [Read More](https://medium.com/p/e9cf97c3693f) |
 | Thu, 24 Jul 2025 07:34:10 GMT | Best Enterprise Mobility Management Software | Vantage MDM | [Read More](https://medium.com/p/1161d5361169) |
-| Thu, 24 Jul 2025 07:24:01 GMT | Top-Rated Web Application Security Course in 2025 | cyber security Updates | [Read More](https://medium.com/p/0f67f3792bcb) |
-| Thu, 24 Jul 2025 07:16:27 GMT | Neutralize Stolen Passwords in 30 Minutes — LeakRadar.io | Alexandre Vandamme | [Read More](https://medium.com/p/dba901e71f12) |
-| Thu, 24 Jul 2025 07:14:39 GMT | ️‍♂️ “JavaScript OPSEC Fails: How I Found Secrets, Endpoints, and PII in .JS Files” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ef02cead4648) |
-| Thu, 24 Jul 2025 07:07:09 GMT | How SafeLine Uses Dynamic Encryption to Defeat Crawlers and Scanners | AerieWhole123 | [Read More](https://medium.com/p/623b0d7a15c9) |
-| Thu, 24 Jul 2025 07:01:46 GMT | WHAT IS SIEM? | Devaaravindlutukurty | [Read More](https://medium.com/p/93ea25216bca) |
-| Thu, 24 Jul 2025 07:01:44 GMT | How to Train Employees on AI Security - AI Security Certification -AI Security Training Course | Practical DevSecOps | [Read More](https://medium.com/p/8b3f2dcb27f0) |
-| Thu, 24 Jul 2025 07:00:41 GMT | Bee Man Framework | Rahul The Shell Bee | [Read More](https://medium.com/p/58a0bb4ef8c6) |
-| Thu, 24 Jul 2025 06:58:31 GMT | Top FREE AI Courses & Certifications in 2025 — Level Up Your Skills | Rashadul Islam | [Read More](https://medium.com/p/c415997104ed) |
-| Thu, 24 Jul 2025 06:56:35 GMT | Mapping Real-World APTs Using MITRE ATT&CK Navigator — A Red Teamer’s Guide to Threat-Informed… | YoungerSibling | [Read More](https://medium.com/p/0061007bc130) |
-| Thu, 24 Jul 2025 06:53:37 GMT | The News Isn’t Informing You — It’s Performing for You | Matas Rimkus | [Read More](https://medium.com/p/ace1c8866f2a) |
-| Thu, 24 Jul 2025 06:51:23 GMT | Cisco ISE upgrade (Primary/Secondary): | Jean Baptiste Lapeyre | [Read More](https://medium.com/p/aff7b3e1b5c4) |
-| Thu, 24 Jul 2025 06:50:56 GMT | Malware Analysis for Beginners using Ghidra | Devansh | [Read More](https://medium.com/p/99eeef39636b) |
-| Thu, 24 Jul 2025 06:49:19 GMT | How Hackers Attack Web Apps — and How You Can Stop Them | Aditya Pidurkar | [Read More](https://medium.com/p/364553c318e2) |
-| Thu, 24 Jul 2025 06:46:32 GMT | Building a Secure API with ASP.NET Core, JWT, and Refresh Tokens | Matin Ghanbari | [Read More](https://medium.com/p/03dac37b4055) |
-| Thu, 24 Jul 2025 06:43:33 GMT | “Digital Arrest Scams: The New Age Fraud That’s Tricking Smart People into Losing Crores” | Amaan Saiyed | [Read More](https://medium.com/p/e3c291f05a09) |
