@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 21:01:49 GMT | Part 6: The Institutional Imperative — Enterprise Grade Custody & Compliance | Ben San Roman | [Read More](https://medium.com/p/aff3362ad744) |
+| Thu, 24 Jul 2025 20:55:47 GMT | Designing Secure APIs: OAuth2, JWT, and Zero Trust Principles in Enterprise Systems | Suraj Thakur | [Read More](https://medium.com/p/b67dda47f671) |
 | Thu, 24 Jul 2025 20:41:06 GMT | Kernel DACL Management | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f4e00b8da8a3) |
 | Thu, 24 Jul 2025 20:38:20 GMT | From Zero to Building Top Web3 Applications | Mohamedajguernoun | [Read More](https://medium.com/p/19aee6c2d1d7) |
 | Thu, 24 Jul 2025 20:25:02 GMT | Complete Guide: Installing Operating Systems on VirtualBox, Hyper-V, and VMware | Nihar Mane | [Read More](https://medium.com/p/612eaabf7c9f) |
@@ -111,5 +113,3 @@ and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://med
 | Thu, 24 Jul 2025 15:01:55 GMT | What Is a WAF? Why Your Web App Needs One | Jachimike Onwuchekwa | [Read More](https://medium.com/p/2e591857a9f0) |
 | Thu, 24 Jul 2025 14:52:49 GMT | Here’s Why Alaska Airlines Grounded Its Entire Fleet Amid Nationwide Shutdown | SR | [Read More](https://medium.com/p/d18e0a5ef20b) |
 | Thu, 24 Jul 2025 14:49:38 GMT | How I Built a MAC Changer Tool in Python — A Networking Project | Itzmeimran | [Read More](https://medium.com/p/636cd6548240) |
-| Thu, 24 Jul 2025 14:46:56 GMT | Overstep Rootkit: UNC6148’s Persistent Exploitation of End-of-Life SonicWall SMA 100 Appliances | Wes Young | [Read More](https://medium.com/p/c56b3064f7f8) |
-| Thu, 24 Jul 2025 14:38:42 GMT | The Bug isn’t the problem. Your broken debugging process is. | Balemarthy Vamsi | [Read More](https://medium.com/p/bc69b7bc82a1) |
