@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 17:10:26 GMT | Smishing Scams: Don’t Let That Text Message Trick You! | Natarajan C K | [Read More](https://medium.com/p/d2fdf02d571a) |
+| Thu, 24 Jul 2025 17:08:56 GMT | The Dark Web’s AI Secrets: How Hackers Stay Ahead | Code With Hannan | [Read More](https://medium.com/p/bb8deeccb835) |
+| Thu, 24 Jul 2025 17:08:52 GMT | DOGE-Led Staff Cuts: A Perfect Storm for Cybersecurity? | Peter | [Read More](https://medium.com/p/e9d37195d93c) |
+| Thu, 24 Jul 2025 17:03:13 GMT | Bridging the Cybersecurity Gap: Free Cybersecurity Bootcamp Launch | Joshua Oyeniyi | [Read More](https://medium.com/p/3af67f0a4c5c) |
+| Thu, 24 Jul 2025 17:00:32 GMT | 從被動防禦到主動識別：n8n 與 AI 如何提升企業郵件安全性 | Ivan Cheng | [Read More](https://medium.com/p/41b2978d4fee) |
+| Thu, 24 Jul 2025 16:56:32 GMT | Enterprise Browsers: Technology Trends and Leadership Insights from Michael Shieh and Rik Turner | Mammoth Cyber | [Read More](https://medium.com/p/986dbfe81613) |
+| Thu, 24 Jul 2025 16:55:41 GMT | 4,000 Fake Profiles and a Wiped Database: How Replit’s AI Incident Shook 30 Million Developers | NeuralNikitha | [Read More](https://medium.com/p/f3b98c4b0a27) |
+| Thu, 24 Jul 2025 16:53:19 GMT | How Two Critical SysAid Flaws Are Under Active Attack — And What You Must Patch Now | CyBlog | [Read More](https://medium.com/p/e7a26e1f69d4) |
+| Thu, 24 Jul 2025 16:53:16 GMT | The Amazon Q VS Code Prompt Injection Explained: Impact and Learnings for DevOps | Ismail Kovvuru | [Read More](https://medium.com/p/3a9d2f752dea) |
+| Thu, 24 Jul 2025 16:51:22 GMT | Google Launches OSS Rebuild to Unmask Malicious Open‑Source Packages | CyBlog | [Read More](https://medium.com/p/d518287c948f) |
+| Thu, 24 Jul 2025 16:49:44 GMT | How I Hid a Secret Message in an Image Using ExifTool (Kali Linux Demo) | CyberFaez | [Read More](https://medium.com/p/f4705e03b7a7) |
+| Thu, 24 Jul 2025 16:48:05 GMT | SWOT_SCAN | Ivo Mickevičs | [Read More](https://medium.com/p/401e1f56025b) |
 | Thu, 24 Jul 2025 16:42:12 GMT | In a world that’s increasingly connected, cybersecurity is no longer a luxury, it’s a necessity. | Valkyrie Pippa | [Read More](https://medium.com/p/b1e90822632a) |
 | Thu, 24 Jul 2025 16:42:07 GMT | A Three-Step Framework for Remediating up to 95% of CVEs in minutes Without Code Changes with… | Sophia Perez | [Read More](https://medium.com/p/f440e251797f) |
+| Thu, 24 Jul 2025 16:40:38 GMT | Certifications on Network Penetration Testing | Aaron DeJong | [Read More](https://medium.com/p/36a7b7e72d04) |
 | Thu, 24 Jul 2025 16:40:18 GMT | Your AI Chat History: A Ticking Privacy Bomb? | AI Rabbit | [Read More](https://medium.com/p/7d4d7f339191) |
 | Thu, 24 Jul 2025 16:37:00 GMT | Kenobi Walkthrough Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/be1661b2ec27) |
 | Thu, 24 Jul 2025 16:35:53 GMT | Why Collaborative AI needs a Capability Model | devsecops | [Read More](https://medium.com/p/e06e8aa74a73) |
@@ -100,16 +113,3 @@ and (no tech skills or coding required) | Mdfirojkobir | [Read More](https://med
 | Thu, 24 Jul 2025 12:55:41 GMT | How I Track Cyber Attacks & CVEs in Real-Time — No Tools, No Noise | Darsh Patel | [Read More](https://medium.com/p/7afbd672af6c) |
 | Thu, 24 Jul 2025 12:42:21 GMT | Don’t Get Hacked: Simple Cyber Security Tips for Employees | Afzal Ahmed Baig | [Read More](https://medium.com/p/6cb46a6e7f5a) |
 | Thu, 24 Jul 2025 12:41:29 GMT | UAE Cybersecurity Trends to Watch in 2025 | Yasinussf | [Read More](https://medium.com/p/beae0aec78ca) |
-| Thu, 24 Jul 2025 12:33:09 GMT | “The Art of Exploiting Open Redirects: A Hacker’s Playbook” | Aman Sharma | [Read More](https://medium.com/p/5591242f7ebd) |
-| Thu, 24 Jul 2025 12:31:49 GMT | Read This Before You Hack LLMs for Excessive Agency: Your Must‑Know AI Security Foundations. | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/05e48bb239a6) |
-| Thu, 24 Jul 2025 12:28:24 GMT | Discovered a Reflected HTML Injection on Microsoft Learn That Earned a Spot in Microsoft’s Hall of… | Gouri Sankar A | [Read More](https://medium.com/p/aa607a52e077) |
-| Thu, 24 Jul 2025 12:27:21 GMT | Part 2-Geolocation Basics in OSINT: Reading the Hidden Clues in Photo Metadata | Joe The OSINT Guy | [Read More](https://medium.com/p/890bcb8791b7) |
-| Thu, 24 Jul 2025 12:23:48 GMT | Hacker vs Threat Actor: What’s the Difference and Why It Matters | Cyber Timi | [Read More](https://medium.com/p/e9f7d3d28278) |
-| Thu, 24 Jul 2025 12:23:31 GMT | 5 Game-Changing Tips for Flutter Developers in 2025 | Appcurators | [Read More](https://medium.com/p/5ff383b7e519) |
-| Thu, 24 Jul 2025 12:17:31 GMT | How Privacy by Design Enhances Trust and Brand Reputation. | sanya | [Read More](https://medium.com/p/957b0d777715) |
-| Thu, 24 Jul 2025 12:15:05 GMT | Cybersecurity and Cyber Attacks: Protecting the Digital World - eNetwork: | Digital marketing in lahore | [Read More](https://medium.com/p/bee82538cc76) |
-| Thu, 24 Jul 2025 12:07:02 GMT | How Private Is Incognito Browsing on Your Android Device? | Keir Finlow-Bates | [Read More](https://medium.com/p/9e7a9bc8b26a) |
-| Thu, 24 Jul 2025 12:06:00 GMT | How Do Attack Surface Management Services Work? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/87d9f78e4588) |
-| Thu, 24 Jul 2025 12:02:04 GMT | SIGMA & YARA RULES | Alsyah Widi | [Read More](https://medium.com/p/845fc76a4132) |
-| Thu, 24 Jul 2025 12:01:08 GMT | Inside the Rise of DieNet | Vismaya | [Read More](https://medium.com/p/e08e71fbd4b5) |
-| Thu, 24 Jul 2025 11:56:33 GMT | Beyond the Obvious: Fortifying Your Application’s Data Against the Unseen Threats | Viquar Younus Mohammed | [Read More](https://medium.com/p/b3886d511853) |
