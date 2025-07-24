@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 07:44:34 GMT | Cheyanne Mallas: Transforming Cybersecurity as Project Director | Cheyannemallaspa | [Read More](https://medium.com/p/3e7bcee062bf) |
+| Thu, 24 Jul 2025 07:44:09 GMT | Cyber Hygiene 101: Easy Habits for Better Online Security | Ayesha noor | [Read More](https://medium.com/p/7324e066d051) |
+| Thu, 24 Jul 2025 07:39:58 GMT | ️ DNS and Deception: How SSRF and Metadata Gave Me Cloud Access on a Silver Platter | Iski | [Read More](https://medium.com/p/e9cf97c3693f) |
+| Thu, 24 Jul 2025 07:34:10 GMT | Best Enterprise Mobility Management Software | Vantage MDM | [Read More](https://medium.com/p/1161d5361169) |
+| Thu, 24 Jul 2025 07:24:01 GMT | Top-Rated Web Application Security Course in 2025 | cyber security Updates | [Read More](https://medium.com/p/0f67f3792bcb) |
 | Thu, 24 Jul 2025 07:16:27 GMT | Neutralize Stolen Passwords in 30 Minutes — LeakRadar.io | Alexandre Vandamme | [Read More](https://medium.com/p/dba901e71f12) |
 | Thu, 24 Jul 2025 07:14:39 GMT | ️‍♂️ “JavaScript OPSEC Fails: How I Found Secrets, Endpoints, and PII in .JS Files” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ef02cead4648) |
 | Thu, 24 Jul 2025 07:07:09 GMT | How SafeLine Uses Dynamic Encryption to Defeat Crawlers and Scanners | AerieWhole123 | [Read More](https://medium.com/p/623b0d7a15c9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 23 Jul 2025 22:57:09 GMT | Investigating an APT with Splunk (Boss of the SOC) | whoami | [Read More](https://medium.com/p/bbf7f35645af) |
 | Wed, 23 Jul 2025 22:50:51 GMT | iOS Malware Development: A Red Team Perspective on Apple’s Security Architecture | Lord Murak | [Read More](https://medium.com/p/0cd35091de78) |
 | Wed, 23 Jul 2025 22:37:42 GMT | Inside the Mind of a Hacker: What Every Cybersecurity Pro Should Know | Steven McDaniel | [Read More](https://medium.com/p/2c8cdb47f4e9) |
-| Wed, 23 Jul 2025 22:33:01 GMT | CoinDCX Hacked for $44,000,000 | JayOnchain | [Read More](https://medium.com/p/e302cad0b5b8) |
-| Wed, 23 Jul 2025 22:31:47 GMT | What Is a Password manager? Why You Need One to Stay Secure Online | Timonéofearth | [Read More](https://medium.com/p/d5bb4e654f7c) |
-| Wed, 23 Jul 2025 22:28:36 GMT | 10 Things That Require Zero Talent But Build the Life of a Cybersecurity Professional | i4m_x | [Read More](https://medium.com/p/bc71fbea7f6d) |
-| Wed, 23 Jul 2025 22:26:59 GMT | Be a Man, They Said | Simon Fokt, PhD | [Read More](https://medium.com/p/e697aa9a61d9) |
-| Wed, 23 Jul 2025 22:24:17 GMT | How to Get My Email Off the Dark Web (And What to Do Next) | Akshay Chauhan | [Read More](https://medium.com/p/df6fadba6c71) |
