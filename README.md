@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 11:31:44 GMT | Securing the Unsecure Networks — A primer | Naveed Ahmed 《内维德》 | [Read More](https://medium.com/p/eecd92895234) |
+| Thu, 24 Jul 2025 11:29:17 GMT | From Recon to Ruin: Red-Team Dissection of the CargoTalon Aerospace Breach | Pentestjunkie07 | [Read More](https://medium.com/p/a1ec72b72685) |
+| Thu, 24 Jul 2025 11:27:02 GMT | Day 53: Internal Audits vs External Audits | Brittney Ginther | [Read More](https://medium.com/p/99b40b54691d) |
+| Thu, 24 Jul 2025 11:26:17 GMT | Even as security technology continues to advance, many homeowners are still making the same… | Erik Olof Olsson | [Read More](https://medium.com/p/545eaa001187) |
+| Thu, 24 Jul 2025 11:26:01 GMT | Cross-Site Request Forgery (CSRF) | Thomas Hofmann | [Read More](https://medium.com/p/ede975acc79d) |
+| Thu, 24 Jul 2025 11:25:07 GMT | 2024'ün En İyi 10 Web Hacking Tekniklerini Birlikte İnceleyelim | Serdarumuturan | [Read More](https://medium.com/p/7f4fefbfe43d) |
+| Thu, 24 Jul 2025 11:24:42 GMT | Stored XSS via File Upload — A 3-Minute Security Breakdown | abhishek sutar | [Read More](https://medium.com/p/e61e096d5e60) |
+| Thu, 24 Jul 2025 11:17:49 GMT | MetaCTF Flash CTF 2024: Cookie Crackdown | Bridget | [Read More](https://medium.com/p/c65d818cc1b5) |
 | Thu, 24 Jul 2025 11:11:50 GMT | Admin Emails & Passwords Exposed via HTTP Method Change | Mahmoud El Manzalawy | [Read More](https://medium.com/p/da23186f37d3) |
 | Thu, 24 Jul 2025 11:11:14 GMT | Dom-Based Xss | Monika sharma | [Read More](https://medium.com/p/fa913b66b09b) |
 | Thu, 24 Jul 2025 11:09:51 GMT | The Thumbnail Trap: An Unpatched Google Docs Vulnerability That Risks Your Privacy | Shubhang Borkar | [Read More](https://medium.com/p/e68911384e6e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 06:49:19 GMT | How Hackers Attack Web Apps — and How You Can Stop Them | Aditya Pidurkar | [Read More](https://medium.com/p/364553c318e2) |
 | Thu, 24 Jul 2025 06:46:32 GMT | Building a Secure API with ASP.NET Core, JWT, and Refresh Tokens | Matin Ghanbari | [Read More](https://medium.com/p/03dac37b4055) |
 | Thu, 24 Jul 2025 06:43:33 GMT | “Digital Arrest Scams: The New Age Fraud That’s Tricking Smart People into Losing Crores” | Amaan Saiyed | [Read More](https://medium.com/p/e3c291f05a09) |
-| Thu, 24 Jul 2025 06:38:59 GMT | CyberX: The Standard in Specialized Cybersecurity for UAE | Tekhabeeb | [Read More](https://medium.com/p/45c196bc51f5) |
-| Thu, 24 Jul 2025 06:37:52 GMT | Hacking isn’t always on Terminal | 7error | [Read More](https://medium.com/p/175bf196fbae) |
-| Thu, 24 Jul 2025 06:37:00 GMT | Why 10,000+ People Bought This $19 Camera Last Month (TP-Link Tapo C100 Breakdown | Top secure tools | [Read More](https://medium.com/p/815aa7d7c27b) |
-| Thu, 24 Jul 2025 06:30:00 GMT | The API Security Wake-Up Call: Why Your Backend is a Breach Waiting to Happen | Freddy Dordoni | [Read More](https://medium.com/p/afdfd53f122c) |
-| Thu, 24 Jul 2025 06:21:49 GMT | Mastering Secure Authentication: A Deep Dive into JWTs and Web App Security | Rishav Raj | [Read More](https://medium.com/p/ea562c610bd1) |
-| Thu, 24 Jul 2025 06:14:31 GMT | Inside the Vim Vulnerability: How Malicious ZIP Files Can Compromise System Integrity | Infoziant | [Read More](https://medium.com/p/7a46b61aceb3) |
-| Thu, 24 Jul 2025 06:12:12 GMT | Why I Completely Moved to Brave Browser, and Why You Should Consider It Too. | Kriti Tiwari | [Read More](https://medium.com/p/cff899bae8bb) |
-| Thu, 24 Jul 2025 06:06:29 GMT | Describe encryption and hashing | Eyad Hasanato | [Read More](https://medium.com/p/60eea6f03066) |
