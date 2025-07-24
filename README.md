@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Jul 2025 09:22:31 GMT | Best Custom Software Development- Karachi, Pakistan! | Ashley Adam | [Read More](https://medium.com/p/67bdf9045d1a) |
+| Thu, 24 Jul 2025 09:11:23 GMT | Breaking My Silence: A Month of Milestones in Cybersecurity! | Umer Yousuf | [Read More](https://medium.com/p/ef831aabe670) |
+| Thu, 24 Jul 2025 09:10:24 GMT | What a Smile Can Hide | Rowena Fortuin | [Read More](https://medium.com/p/aee09adaee6a) |
+| Thu, 24 Jul 2025 09:07:06 GMT | The Log4j Specter Still Lingers! | Umer Yousuf | [Read More](https://medium.com/p/c6227159d729) |
+| Thu, 24 Jul 2025 09:06:40 GMT | HackTheBox: LootStash reverse engineering writeup | Rana chouchane | [Read More](https://medium.com/p/cc75e7e2340c) |
+| Thu, 24 Jul 2025 09:06:27 GMT | Forensics - picoGym - St3g0 | Flower Bed | [Read More](https://medium.com/p/2e8ffb38fd13) |
+| Thu, 24 Jul 2025 09:05:52 GMT | Unmasking ToolShell: The Critical Flaw That Rocked SharePoint | Ashutosh | [Read More](https://medium.com/p/49c62e6a4384) |
+| Thu, 24 Jul 2025 09:02:26 GMT | SharePoint Under Siege: Unauthenticated RCE via CVE-2025–53770 & CVE-2025–53771 | Umer Yousuf | [Read More](https://medium.com/p/194d489093bf) |
+| Thu, 24 Jul 2025 08:55:48 GMT | Quick-Start Guide: Installing the All-in-One Wazuh Stack on Ubuntu 24.04.02 | Ahmed Abbes | [Read More](https://medium.com/p/a7b0c5fd066e) |
+| Thu, 24 Jul 2025 08:55:41 GMT | Intelligent Document Automation: Wie Unternehmen 2025 ihre Dokumentenprozesse revolutionieren | Philip Hansen | [Read More](https://medium.com/p/5dfff17f701a) |
+| Thu, 24 Jul 2025 08:51:55 GMT | Under the Hood: Securing Kafka, Pulsar, and Redis Streams — Why Real-Time Data Needs Real… | AIAlchemist_Ab1r | [Read More](https://medium.com/p/d7495cfcca96) |
+| Thu, 24 Jul 2025 08:42:51 GMT | What is Web Application VAPT? A Complete Guide for 2025 | West Advanced Technologies Inc | [Read More](https://medium.com/p/a5f787626c22) |
+| Thu, 24 Jul 2025 08:39:36 GMT | What is insurance, and why do we need it? | Sameerak_Writes | [Read More](https://medium.com/p/c130802f0533) |
+| Thu, 24 Jul 2025 08:38:36 GMT | Implementing Passkeys (WebAuthn) in NestJS & Next.js to Protect API Routes | Shao Xuan | [Read More](https://medium.com/p/ef1da7fa9364) |
+| Thu, 24 Jul 2025 08:36:34 GMT | TombWatcher HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/33f2bc278260) |
+| Thu, 24 Jul 2025 08:34:19 GMT | ReconRover — A Reconnaissance Framework That Makes Bug Hunting Simple | Inayat Hussain | [Read More](https://medium.com/p/3016467ae738) |
+| Thu, 24 Jul 2025 08:31:35 GMT | Crisis of Credibility: Can the UN Still Deliver Global Justice? | Sainandan Iyer | [Read More](https://medium.com/p/b9defe114461) |
 | Thu, 24 Jul 2025 08:29:50 GMT | BLACKSITE OSINT v2.6 | Inayat Hussain | [Read More](https://medium.com/p/c9c823620739) |
 | Thu, 24 Jul 2025 08:29:48 GMT | ️‍♂️ Threat Hunting: Becoming the Cybersecurity Detective Your Network Deserves | Ankita Singh | [Read More](https://medium.com/p/8d2a26d2d5a8) |
+| Thu, 24 Jul 2025 08:27:43 GMT | Donald Trump is Israel First | Brandon Lewis | [Read More](https://medium.com/p/648820c4a01e) |
 | Thu, 24 Jul 2025 08:26:20 GMT | Gift payment 4,000 USDT Blockchain Trc20 for you u can use ( Okx walllet — Safepal wallet — Tron… | Joelle luxer | [Read More](https://medium.com/p/56eb61c34e2a) |
 | Thu, 24 Jul 2025 08:26:07 GMT | Reconic Next Gen Recon Framework | Inayat Hussain | [Read More](https://medium.com/p/18af72140a7f) |
 | Thu, 24 Jul 2025 08:25:27 GMT | Starting My Cybersecurity Journey | Elene Kapanadze | [Read More](https://medium.com/p/86b82c7aaa66) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 03:14:19 GMT | How to Protect an Application from Cyber Attacks | Maverick Steel | [Read More](https://medium.com/p/f37ec2ace3b1) |
 | Thu, 24 Jul 2025 03:14:00 GMT | New 0day RCE in Apache OFBiz (CVE-2023–51467): Patch Now | AerieWhole123 | [Read More](https://medium.com/p/c2173126960e) |
 | Thu, 24 Jul 2025 02:56:26 GMT | What is AI Prompt Injection and How to Mitigate It? (Explained with an Example) | Mohamed AboElKheir | [Read More](https://medium.com/p/3f75dab66922) |
-| Thu, 24 Jul 2025 02:50:46 GMT | IDOR vulnerability gives me 2500$ | L4zyhacker | [Read More](https://medium.com/p/42cd077c37f1) |
-| Thu, 24 Jul 2025 02:44:22 GMT | Compendium of bitwise nomenclature from applications to cybersecurity | Joe Alongi | [Read More](https://medium.com/p/c19a23b61a26) |
-| Thu, 24 Jul 2025 02:36:28 GMT | The Hidden Backdoor in Microsoft SharePoint — A less technical dive into Microsoft’s latest blunder | VaRiOus_CanAriEs | [Read More](https://medium.com/p/468070e8a3cc) |
-| Thu, 24 Jul 2025 02:31:26 GMT | Unmasking the Docker Daemon: Vulnerabilities, Exploits & Defenses | nehalmr | [Read More](https://medium.com/p/813b16e22c76) |
-| Thu, 24 Jul 2025 02:26:32 GMT | Qantas Cyber Incident Shakes Traveler Confidence — What It Means for Secure Journeys | Simon Kalipciyan | [Read More](https://medium.com/p/6120347a67ad) |
-| Thu, 24 Jul 2025 02:07:24 GMT | Why GRC is the Future of Cybersecurity | aadesh.k | [Read More](https://medium.com/p/51a58e3a7e00) |
-| Thu, 24 Jul 2025 01:54:08 GMT | Container Layers and Secret Data | W. Jenks Gibbons | [Read More](https://medium.com/p/2f732a42b850) |
-| Thu, 24 Jul 2025 01:51:19 GMT | Real-Time Adaptive Security: A New Era of Master Protection | Sarmin Islam | [Read More](https://medium.com/p/40ce35fcb681) |
-| Thu, 24 Jul 2025 01:20:16 GMT | When Growth Outpaces Design: Fragile Architecture in Cybersecurity | Adri Leite | [Read More](https://medium.com/p/77ecc951d758) |
-| Thu, 24 Jul 2025 01:16:04 GMT | Zeek - THM | Isiah | [Read More](https://medium.com/p/4a7a34192fa6) |
-| Thu, 24 Jul 2025 01:15:06 GMT | Tuning Detections isn’t Hard Unless You Make it Hard | Ryan G. Cox | [Read More](https://medium.com/p/15a7374cde47) |
-| Thu, 24 Jul 2025 00:47:45 GMT | Secrets & Systems Or, Why This Isn’t Just Another Bookity Book | Haley M Slaughter | [Read More](https://medium.com/p/a0758be26bfa) |
-| Thu, 24 Jul 2025 00:39:54 GMT | ⚡ Why Cybersecurity Is Now the Heart of the Smart Grid Revolution | Mike L | [Read More](https://medium.com/p/d55817c59bac) |
-| Thu, 24 Jul 2025 00:39:34 GMT | The Human Element: Intelligence Over Everything | Geoffrey Blue-Jack | [Read More](https://medium.com/p/11dafb1f2156) |
-| Thu, 24 Jul 2025 00:39:03 GMT | Why you should validate and sanitize | Shailendrarijal | [Read More](https://medium.com/p/391b989187f4) |
-| Thu, 24 Jul 2025 00:31:47 GMT | Breaking Root: The Ultimate Guide to Linux Capabilities | ThamizhElango Natarajan | [Read More](https://medium.com/p/04507d5fb46f) |
-| Thu, 24 Jul 2025 00:27:55 GMT | The Dark Web: Truth and Lies | Dove | [Read More](https://medium.com/p/d3d3213d666a) |
-| Thu, 24 Jul 2025 00:22:20 GMT | How I Chained 2FA Bypasses in a Crypto P2P System to Steal User USDT | 0xBartita | [Read More](https://medium.com/p/ef214879c173) |
