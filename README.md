@@ -12,8 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 12:43:34 GMT | Popular npm Packages Hijacked — Prettier-ESLint & is: Here is What You Need to Know (July 17, 2025) | Brez | [Read More](https://medium.com/p/e4c8765eac7d) |
+| Fri, 25 Jul 2025 12:36:01 GMT | Threat Intelligence Feed Integrations and Automations in the SOC ️ | Esra Kayhan | [Read More](https://medium.com/p/f1eda34aa65f) |
+| Fri, 25 Jul 2025 12:35:55 GMT | Learning to Share Myself | Pascale Bouchard | [Read More](https://medium.com/p/27a9b387ea7e) |
+| Fri, 25 Jul 2025 12:31:01 GMT | ️ I Investigate Crypto Scams — Here’s What Victims Should Know | Derrick M Langston | [Read More](https://medium.com/p/a903680a0c92) |
+| Fri, 25 Jul 2025 12:28:52 GMT | I Wrote Malware That Targeted the German Federal Bureau of Information Security (BSI) | Marcel Rick-Cen | [Read More](https://medium.com/p/10527ebf75a4) |
+| Fri, 25 Jul 2025 12:27:27 GMT | How a Simple Endpoint Earned Me a $7500 Bounty from Microsoft | Gouri Sankar A | [Read More](https://medium.com/p/1891a35d40be) |
+| Fri, 25 Jul 2025 12:23:24 GMT | Why use security and privacy by design services? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/01767df37e7a) |
+| Fri, 25 Jul 2025 12:21:23 GMT | The Role of a Cybersecurity Agency in Safeguarding Businesses in the Digital Era | secureroot | [Read More](https://medium.com/p/8a914904639b) |
+| Fri, 25 Jul 2025 12:20:44 GMT | Curvance Announces Promo Drop: Gain CVE Today | Curvance | [Read More](https://medium.com/p/d9790f60f1e1) |
+| Fri, 25 Jul 2025 12:20:42 GMT | XDR, MDR, EDR… So, Which One Actually Responds? | Yuksel | [Read More](https://medium.com/p/7184c7573a56) |
+| Fri, 25 Jul 2025 12:19:47 GMT | Building a Secure API Key Management System with Django Ninja and NextAuth | Abhay Mishra | [Read More](https://medium.com/p/f1eee2f203a3) |
+| Fri, 25 Jul 2025 12:18:30 GMT | Coordinating Cyber Defense: Project Management in Cybersecurity Teams | Christopher Udoka | [Read More](https://medium.com/p/e7e039633372) |
+| Fri, 25 Jul 2025 12:16:47 GMT | Recon Solana Announces Token Surge: Get RECON Today | Recon Solana | [Read More](https://medium.com/p/f9e03adf0832) |
+| Fri, 25 Jul 2025 12:15:14 GMT | DC-3 Walkthrough — My OSCP Journey Continues (Sorry for the Delay ) | DataDefender | [Read More](https://medium.com/p/ee8d9cd2e8c5) |
+| Fri, 25 Jul 2025 12:14:56 GMT | Wallet security : the underrated skill | ARIJIT ROY | [Read More](https://medium.com/p/cd4d845a03ba) |
+| Fri, 25 Jul 2025 12:13:44 GMT | The Importance of Penetration Testing in Compliance | Steve Splash | [Read More](https://medium.com/p/c982dbc4a3e5) |
+| Fri, 25 Jul 2025 12:12:12 GMT | What are security and privacy by design services? | Ziya Zoe | [Read More](https://medium.com/p/af2028570345) |
+| Fri, 25 Jul 2025 12:11:01 GMT | Lean & Mean: Practicing Peak Source Code Security for Bootstrapped Startups | cyber_pix | [Read More](https://medium.com/p/68ca33e5dc08) |
+| Fri, 25 Jul 2025 12:10:36 GMT | A Step-by-Step Guide to Building Secure Applications Using Privacy by Design. | sanya | [Read More](https://medium.com/p/819c1d782634) |
+| Fri, 25 Jul 2025 12:10:17 GMT | Comprehensive hping3 tutorial for absolute beginners | Steve Splash | [Read More](https://medium.com/p/7d03c3419aae) |
+| Fri, 25 Jul 2025 12:06:01 GMT | 2026 Roadmap: A Guide For CISOs (start early) | Yael Nagler | [Read More](https://medium.com/p/40f9ca8ed00f) |
+| Fri, 25 Jul 2025 12:05:54 GMT | Zero-Day Exploits: Just Pull the Plug and It’s All Fixed… Right? | Yuksel | [Read More](https://medium.com/p/0d5a0bb1f247) |
+| Fri, 25 Jul 2025 12:03:07 GMT | Wallet security : the underrated skill | ARIJIT ROY | [Read More](https://medium.com/p/cadb16f4c6b8) |
+| Fri, 25 Jul 2025 12:00:00 GMT | A classic story of Blind IDOR | xploiterr | [Read More](https://medium.com/p/1e2b02bf0996) |
+| Fri, 25 Jul 2025 11:55:28 GMT | The entrepreneurial journey is akin to navigating uncharted waters, The startup ecosystem is a… | Concentics Private Limited | [Read More](https://medium.com/p/09457c3a0e31) |
+| Fri, 25 Jul 2025 11:48:57 GMT | One Inspection by Axontec Can Prevent a Lifetime of Regret | Berkshire Hathaway | [Read More](https://medium.com/p/b60bd0eae7ab) |
+| Fri, 25 Jul 2025 11:46:44 GMT | The First Place Enterprises Should Look in Network Security: Segmentation and Visibility | Yuksel | [Read More](https://medium.com/p/74b9e7ddbd37) |
+| Fri, 25 Jul 2025 11:41:20 GMT | What Is ISO 27701 Compliance and Why Is It Important for Data Privacy | Deepti Bansal | [Read More](https://medium.com/p/fc64821a12a2) |
 | Fri, 25 Jul 2025 11:31:50 GMT | Day 54 of #60DaysofGRC: Sampling Methodologies | Brittney Ginther | [Read More](https://medium.com/p/fd798d489996) |
 | Fri, 25 Jul 2025 11:30:34 GMT | Introduction to Information Security Certifications | Dhanashri Bhale | [Read More](https://medium.com/p/bd381ea1f9bd) |
+| Fri, 25 Jul 2025 11:30:24 GMT | The Strength to Be Soft | Aveline Wingfield | [Read More](https://medium.com/p/5f7463e95b13) |
 | Fri, 25 Jul 2025 11:27:31 GMT | XSS and CSRF — A Full Kill Chain | MahmoudKroush | [Read More](https://medium.com/p/4606e435dacb) |
 | Fri, 25 Jul 2025 11:25:11 GMT | Secury™: Revolutionizing Supply Chain Transparency for a Trusted Future. | Secury | [Read More](https://medium.com/p/ccbb46b6d1b4) |
 | Fri, 25 Jul 2025 11:24:51 GMT | Social Engineering Attacks: Cybersecurity’s Weakest Link and How to Defend Against Them | RzaAlasgarli | [Read More](https://medium.com/p/57b318867f97) |
@@ -84,32 +113,3 @@ Want to know who’s… | Kumarsmagic | [Read More](https://medium.com/p/5f0da6c
 | Fri, 25 Jul 2025 07:57:05 GMT | The Daily Tech Digest: 25 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/44fc61e67739) |
 | Fri, 25 Jul 2025 07:56:07 GMT | What is negative SEO? And how to prevent, detect, and recover from it. | Insight Hub | [Read More](https://medium.com/p/d0de9ff0f558) |
 | Fri, 25 Jul 2025 07:55:16 GMT | Best Cybercrime Security Company In India — CyberKanun | Amit solanki | [Read More](https://medium.com/p/e653a262915d) |
-| Fri, 25 Jul 2025 07:52:46 GMT | From DevOps to Cybersecurity: My Journey into Offensive Security and Practical Learning | Gleb Wam | [Read More](https://medium.com/p/f09b260b247d) |
-| Fri, 25 Jul 2025 07:49:35 GMT | Getting an .ipa file without Jailbreak | Shibin B Shaji | [Read More](https://medium.com/p/04c6ce22baa0) |
-| Fri, 25 Jul 2025 07:47:16 GMT | Stop Hackers in Their Tracks | Emotions | [Read More](https://medium.com/p/3f20a1fa1d86) |
-| Fri, 25 Jul 2025 07:47:07 GMT | Authentication, Evolved: Why MFA Matters More Than Ever | Ketan Polawar | [Read More](https://medium.com/p/ebe2c3e653a5) |
-| Fri, 25 Jul 2025 07:44:15 GMT | SIEM : Graylog Implementation | Mohdtasleem | [Read More](https://medium.com/p/0b036dc06d0c) |
-| Fri, 25 Jul 2025 07:39:00 GMT | How I Discovered Critical WordPress Vulnerabilities: A Real-World Case Study | Zubair Usman | [Read More](https://medium.com/p/e5e41c47fb14) |
-| Fri, 25 Jul 2025 07:37:33 GMT | The Middle East has rapidly adopted digital | Gauravinsightss | [Read More](https://medium.com/p/16b03882989f) |
-| Fri, 25 Jul 2025 07:33:05 GMT | How to Upload Images in UploadThing Using a Custom React Component | MD Samrose | [Read More](https://medium.com/p/4c7e61c590aa) |
-| Fri, 25 Jul 2025 07:29:36 GMT | You Can’t Improve What You Can’t Prove: Fixing the Cybersecurity Evidence Gap | Rue | [Read More](https://medium.com/p/d98c05c59d4f) |
-| Fri, 25 Jul 2025 07:26:50 GMT | 5 quick rules to protect your inbox, identity, and peace of mind | Cloudbric VPN | [Read More](https://medium.com/p/f07826f34015) |
-| Fri, 25 Jul 2025 07:25:41 GMT | My Journey to the CEH Practical v12 | Francesco Pastore | [Read More](https://medium.com/p/bd8a85c22742) |
-| Fri, 25 Jul 2025 07:25:29 GMT | Top Cyber Security Jobs You Can Get Without a Degree | Sanchitamishra | [Read More](https://medium.com/p/98c647b7a304) |
-| Fri, 25 Jul 2025 07:24:34 GMT | Querying Like a Pro in Arkime: Getting the Most Out of Arkime Viewer: Beyond the Basics | Dean | [Read More](https://medium.com/p/4452dce482e4) |
-| Fri, 25 Jul 2025 07:24:16 GMT | DPIIT and BIS: Your Essential Guide to Succeeding in the Indian Market | Maiervidornoaltios | [Read More](https://medium.com/p/4d1c5daecab9) |
-| Fri, 25 Jul 2025 07:23:00 GMT | How to Keep Your Fintech App Secure in 2025 | UniRidge | [Read More](https://medium.com/p/339b9c49e65d) |
-| Fri, 25 Jul 2025 07:20:57 GMT | Gift payment 7,000 USDT Blockchain Trc20 for you u can use ( Okx walllet — Safepal wallet — Tron… | Joelle luxer | [Read More](https://medium.com/p/38f892971b18) |
-| Fri, 25 Jul 2025 07:19:28 GMT | OverTheWire-Bandit Walkthrough(Vietnamese)(Tiếng Việt) Level 0 => Level 20 | Vinh Luong | [Read More](https://medium.com/p/59e92383a5bd) |
-| Fri, 25 Jul 2025 07:18:01 GMT | Inside the APK: Reverse Engineering Mobile Apps Like a Spy (No Phone Needed) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8d2d13a86eb5) |
-| Fri, 25 Jul 2025 07:15:27 GMT | ️ Push to Prod, Oops: How an Exposed Git Folder Gave Me Credentials and Source Code on a Plate… | Iski | [Read More](https://medium.com/p/b30fd42e2367) |
-| Fri, 25 Jul 2025 07:12:07 GMT | Super Easy Madagascar Hissing Cockroach Housing | Rich Struck | [Read More](https://medium.com/p/f9b0f5187c4c) |
-| Fri, 25 Jul 2025 07:11:59 GMT | Wanna Be a Cybersecurity Hero? CySA+ Might Just Be Your Superpower | Safarisprz01 | [Read More](https://medium.com/p/10862add6b58) |
-| Fri, 25 Jul 2025 07:06:39 GMT | Six awesome foods to feed your Madagascar Hissing Cockroach colony. | Rich Struck | [Read More](https://medium.com/p/625f171d7f1c) |
-| Fri, 25 Jul 2025 07:06:06 GMT | ️‍♂️ How I Discovered a Critical SQL Injection in Redacted.com and Extracted Oracle DB Data | EL_Cazad0r | [Read More](https://medium.com/p/4c2f171bae7d) |
-| Fri, 25 Jul 2025 07:06:05 GMT | I Fixed a Bug and It Came Back Stronger — Send Help | Shanvika Devi | [Read More](https://medium.com/p/f1d415503e51) |
-| Fri, 25 Jul 2025 07:02:59 GMT | Cyber Threat Landscape Evolution — From computer viruses to AI generated malware | SOCFortress | [Read More](https://medium.com/p/4eff310d2fa4) |
-| Fri, 25 Jul 2025 06:54:55 GMT | How SafeLine WAF Harnesses Nginx for High-Performance Security | Quella | [Read More](https://medium.com/p/1aa6a72101e7) |
-| Fri, 25 Jul 2025 06:50:22 GMT | Certified Digital Democracy and Blockchain Revenue and Customs with International Model (Blueprint) | Dr Francesco Dergano | [Read More](https://medium.com/p/5c0c1dcdad8d) |
-| Fri, 25 Jul 2025 06:49:00 GMT | DownUnderCTF 2025 — rocky (Reverse Engineering) | codebreaker | [Read More](https://medium.com/p/9e6e05ca0d56) |
-| Fri, 25 Jul 2025 06:44:33 GMT | Reflected XSS Exploitation: My First Hands-On Attack! | Alok Kumar | [Read More](https://medium.com/p/8a0950fc266f) |
