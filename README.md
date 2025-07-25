@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 17:09:40 GMT | The tool that gave me the first bounty | mohaned alkhlot | [Read More](https://medium.com/p/9303cac972a3) |
+| Fri, 25 Jul 2025 17:09:24 GMT | picoCTF — Verify | Robby firdauzy | [Read More](https://medium.com/p/4dde4b071ae4) |
+| Fri, 25 Jul 2025 17:06:33 GMT | Amazon Prime Scam Alert | Eina Schroeder | [Read More](https://medium.com/p/4d614a811806) |
+| Fri, 25 Jul 2025 17:06:01 GMT | Our Smart Contract Dev Hid a Backdoor — And Drained $1.2M Before We Caught Him | Web3 Nautiyal | [Read More](https://medium.com/p/1a6a8b327f07) |
+| Fri, 25 Jul 2025 16:54:09 GMT | “The Hidden Epidemic: How Sensitive Data Exposure Became My Biggest Security Nightmare” | Aman Sharma | [Read More](https://medium.com/p/7f492a42456a) |
+| Fri, 25 Jul 2025 16:52:43 GMT | Rodičovská kontrola na úrovni wifi routera | WELLNET.SK | [Read More](https://medium.com/p/6dfc3a82d4f3) |
+| Fri, 25 Jul 2025 16:52:21 GMT | Stopping Advanced Threats with Endpoint Detection and Response | SafeAeon Inc. | [Read More](https://medium.com/p/b1a78969b329) |
 | Fri, 25 Jul 2025 16:43:02 GMT | Global SharePoint Server Hack Escalates as Ransomware Joins Cyber-Espionage Campaign. | eL Njas!™ | [Read More](https://medium.com/p/25d7c3d6dc85) |
 | Fri, 25 Jul 2025 16:42:07 GMT | OpenCTI Setup: Integrating MITRE, AbuseIPDB, AlienVault & RSS Feeds for Threat Intelligence | Hariharan | [Read More](https://medium.com/p/ac0c559169b2) |
 | Fri, 25 Jul 2025 16:41:48 GMT | Plaintext, Encoding, Hashing & Encryption – Explained with examples | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/95cebd880eb0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 12:14:56 GMT | Wallet security : the underrated skill | ARIJIT ROY | [Read More](https://medium.com/p/cd4d845a03ba) |
 | Fri, 25 Jul 2025 12:13:44 GMT | The Importance of Penetration Testing in Compliance | Steve Splash | [Read More](https://medium.com/p/c982dbc4a3e5) |
 | Fri, 25 Jul 2025 12:12:12 GMT | What are security and privacy by design services? | Ziya Zoe | [Read More](https://medium.com/p/af2028570345) |
-| Fri, 25 Jul 2025 12:11:01 GMT | Lean & Mean: Practicing Peak Source Code Security for Bootstrapped Startups | cyber_pix | [Read More](https://medium.com/p/68ca33e5dc08) |
-| Fri, 25 Jul 2025 12:10:36 GMT | A Step-by-Step Guide to Building Secure Applications Using Privacy by Design. | sanya | [Read More](https://medium.com/p/819c1d782634) |
-| Fri, 25 Jul 2025 12:10:17 GMT | Comprehensive hping3 tutorial for absolute beginners | Steve Splash | [Read More](https://medium.com/p/7d03c3419aae) |
-| Fri, 25 Jul 2025 12:06:01 GMT | 2026 Roadmap: A Guide For CISOs (start early) | Yael Nagler | [Read More](https://medium.com/p/40f9ca8ed00f) |
-| Fri, 25 Jul 2025 12:05:54 GMT | Zero-Day Exploits: Just Pull the Plug and It’s All Fixed… Right? | Yuksel | [Read More](https://medium.com/p/0d5a0bb1f247) |
-| Fri, 25 Jul 2025 12:03:07 GMT | Wallet security : the underrated skill | ARIJIT ROY | [Read More](https://medium.com/p/cadb16f4c6b8) |
-| Fri, 25 Jul 2025 12:00:00 GMT | A classic story of Blind IDOR | xploiterr | [Read More](https://medium.com/p/1e2b02bf0996) |
