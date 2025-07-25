@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 20:53:22 GMT | Generative AI in Cybersecurity 2025: The Defender’s New Weapon Against AI-Powered Threats | Shehryar Rumi | [Read More](https://medium.com/p/aa7d219e5411) |
+| Fri, 25 Jul 2025 20:44:28 GMT | What If You Don’t Have to Leave to Be Free? | cefon | [Read More](https://medium.com/p/fefc88fb7f6d) |
+| Fri, 25 Jul 2025 20:42:56 GMT | Stop Fighting Compliance — Use It to Build a Better Security Program | James Wright | [Read More](https://medium.com/p/c78a71813a9e) |
+| Fri, 25 Jul 2025 20:41:24 GMT | When Trusted Tools Turn Toxic | James Wright | [Read More](https://medium.com/p/92bae17d41e2) |
 | Fri, 25 Jul 2025 20:38:45 GMT | New Types of Hacking: IDOR Attacks Evolved | The OSINT Edge | [Read More](https://medium.com/p/ce556e25572e) |
+| Fri, 25 Jul 2025 20:38:05 GMT | Setting Up Certificate Services and New Users on the Domain Controller | 3Graces CC | [Read More](https://medium.com/p/345dab036423) |
+| Fri, 25 Jul 2025 20:37:47 GMT | Setting Up a Windows Domain Controller in VirtualBox | 3Graces CC | [Read More](https://medium.com/p/939f5992a4e6) |
 | Fri, 25 Jul 2025 20:31:50 GMT | Zero-Trust Architecture: Programming Security from Day One | Let's code | [Read More](https://medium.com/p/cee092f62cc9) |
 | Fri, 25 Jul 2025 20:29:56 GMT | Cybersecurity Certifications: Milestones, Not Endpoints | James Wright | [Read More](https://medium.com/p/5eb601b60b25) |
 | Fri, 25 Jul 2025 20:29:27 GMT | CTF Walkthrough: Fly | Jonathan M. | [Read More](https://medium.com/p/3b33ed7dfb0d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 15:23:57 GMT | Mobile Application XML Configuration Security: Identifying and Mitigating Critical Vulnerabilities | Xavier J. Cruz | [Read More](https://medium.com/p/cdf03dc15c9b) |
 | Fri, 25 Jul 2025 15:22:36 GMT | Penpie, Converge Finance, Astroport, and Novax Exploited for $33.6M | Olympix | [Read More](https://medium.com/p/f158bebff146) |
 | Fri, 25 Jul 2025 15:21:04 GMT | Quick-Skoping through Netskope SWG Tenants — CVE-2024–7401 | RedSeer Security | [Read More](https://medium.com/p/5ddf6e3a4bd5) |
-| Fri, 25 Jul 2025 15:17:00 GMT | London Bridge — A Linux Exploitation Walkthrough | Aadi Jamadar | [Read More](https://medium.com/p/9d9512a738a6) |
-| Fri, 25 Jul 2025 15:16:30 GMT | Return of Browser-Based Cryptojacking: 3,500+ Websites Compromised in Global JavaScript Miner… | _Anirudh_ | [Read More](https://medium.com/p/0397da39b6de) |
-| Fri, 25 Jul 2025 15:03:13 GMT | Looking back at the Cursor and Github Co-pilot invisible exploit | Kaamil Mirza | [Read More](https://medium.com/p/4be00493b53d) |
-| Fri, 25 Jul 2025 15:01:19 GMT | Solving PortSwigger’s Authentication Lab: 7 Key Steps Using Kali Linux and Burp Suite | Shehroz Ahmed Khan | [Read More](https://medium.com/p/32cf24fea6cc) |
-| Fri, 25 Jul 2025 15:00:31 GMT | How to Start Your Journey in Tech: A Guide for Beginners | Abdulbasit Lukman | [Read More](https://medium.com/p/5721eea68faa) |
-| Fri, 25 Jul 2025 14:53:47 GMT | From Logs to Intelligence: Practical Threat Hunting with QRadar | Santhosh Kumar | [Read More](https://medium.com/p/6946a45c0b7d) |
