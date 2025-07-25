@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 23:22:03 GMT | You Don’t Have to Pretend with God | Nissi | [Read More](https://medium.com/p/aa61b1bf8396) |
+| Fri, 25 Jul 2025 23:20:58 GMT | Flash USDT Explained – For Educational Purposes Only | Hoce | [Read More](https://medium.com/p/75d4a8de98a7) |
+| Fri, 25 Jul 2025 23:18:59 GMT | What RHCSS Taught Me About Hardening Red Hat Servers — And How I Would Actually Use It | Abdulmalik Basulayb | [Read More](https://medium.com/p/3bbcf4008c99) |
 | Fri, 25 Jul 2025 23:02:27 GMT | ISO 27001 vs. SOC 2: Which Should Your Organization Prioritize? | Raphael P. | [Read More](https://medium.com/p/91417af11dc1) |
 | Fri, 25 Jul 2025 22:35:27 GMT | Top 5 Scams Targeting Seasoned Adults This Summer | Elizabeth Ndungu | [Read More](https://medium.com/p/f9c94d0d6da6) |
 | Fri, 25 Jul 2025 22:34:13 GMT | Docker Zero to Hero For Hackers: A Practical Guide for Cybersecurity Enthusiasts | Hidden Investigations | [Read More](https://medium.com/p/480b90ec45ba) |
@@ -26,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 21:49:39 GMT | Securing AWS Bedrock Generative AI workloads within a VPC using VPC Interface Endpoints in… | Collin Smith | [Read More](https://medium.com/p/91614c801dfc) |
 | Fri, 25 Jul 2025 21:39:25 GMT | Why Bitchat Is a Bad Idea: (My Audit Found Critical Zero-Days) | Saad Khalid | [Read More](https://medium.com/p/1b126a45a2c5) |
 | Fri, 25 Jul 2025 21:37:47 GMT | Setting up a WSUS Server on the Domain Controller | 3Graces CC | [Read More](https://medium.com/p/60bba9792978) |
+| Fri, 25 Jul 2025 21:34:20 GMT | Dobradinha Azure da Semana: como tirei a DP-900 e SC-900 | Eduardo O. Lentz | [Read More](https://medium.com/p/d0002b6152c2) |
 | Fri, 25 Jul 2025 21:32:12 GMT | Debilidades | Sara Reinero | [Read More](https://medium.com/p/99e3ae3296ff) |
 | Fri, 25 Jul 2025 21:28:50 GMT | Who is Shivinaa? What is Shoresh’d? | Shivinaa | [Read More](https://medium.com/p/4ea3a3f5967c) |
 | Fri, 25 Jul 2025 21:28:37 GMT | Is XBOW Replacing Cybersecurity Professionals? The Truth Behind the AI Hacker Taking Over HackerOne | Ghulam Mohiuddin | [Read More](https://medium.com/p/7f5f38d78153) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 16:38:39 GMT | About Me | Jose Hernandez | [Read More](https://medium.com/p/3b2d53016d87) |
 | Fri, 25 Jul 2025 16:35:25 GMT | TRAI and RBI Launch Digital Consent Pilot to Curb Spam Calls in India: What It Means for You | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/e26375913d66) |
 | Fri, 25 Jul 2025 16:17:16 GMT | Downgrading FIDO: How Attackers Are Exploiting Cross-Device Sign-In to Phish Secure Accounts | _Anirudh_ | [Read More](https://medium.com/p/74df24b5717f) |
-| Fri, 25 Jul 2025 16:13:03 GMT | How I hacked Income Tax Website | Adwait Gawade | [Read More](https://medium.com/p/94094671e51f) |
-| Fri, 25 Jul 2025 16:09:33 GMT | Level Up Your App Security: Meet the OWASP ASVS Assessment Tool | Tanmay Bhattacharjee | [Read More](https://medium.com/p/6dfe657d6d2f) |
-| Fri, 25 Jul 2025 16:05:26 GMT | A Warning from 1979-And Why It’s Still Not Too Late to Listen. | Gitika Babbar | [Read More](https://medium.com/p/dfa51466c65d) |
-| Fri, 25 Jul 2025 16:03:29 GMT | Through Their Eyes: Am I Who They Say I Am | Jessica Mae Sustiguer Devera | [Read More](https://medium.com/p/7358e1ed5e30) |
