@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 22:35:27 GMT | Top 5 Scams Targeting Seasoned Adults This Summer | Elizabeth Ndungu | [Read More](https://medium.com/p/f9c94d0d6da6) |
+| Fri, 25 Jul 2025 22:34:13 GMT | Docker Zero to Hero For Hackers: A Practical Guide for Cybersecurity Enthusiasts | Hidden Investigations | [Read More](https://medium.com/p/480b90ec45ba) |
+| Fri, 25 Jul 2025 22:27:29 GMT | DORK Announces Reward Drop: Collect DORK Today | DORK | [Read More](https://medium.com/p/1b9e390027a4) |
+| Fri, 25 Jul 2025 22:27:16 GMT | Kod, Mantık ve Ordu | Mustafa bekir kaya | [Read More](https://medium.com/p/adc8aaad8624) |
 | Fri, 25 Jul 2025 22:16:59 GMT | Securing Remote Access: VPN vs. Zero‑Trust Alternatives | Karthikeyan Nagaraj | [Read More](https://medium.com/p/eb42f1e0cdb1) |
 | Fri, 25 Jul 2025 22:07:03 GMT | 7 Common Types of Phishing Scams (And How to Spot Them Before It’s Too Late) | Timonéofearth | [Read More](https://medium.com/p/bc9a2bd51600) |
 | Fri, 25 Jul 2025 22:04:36 GMT | السيادة الرقمية تبدأ من النواة | Khaled Ibn El-Walid SOUANE | [Read More](https://medium.com/p/1742439c9761) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 16:05:26 GMT | A Warning from 1979-And Why It’s Still Not Too Late to Listen. | Gitika Babbar | [Read More](https://medium.com/p/dfa51466c65d) |
 | Fri, 25 Jul 2025 16:03:29 GMT | Through Their Eyes: Am I Who They Say I Am | Jessica Mae Sustiguer Devera | [Read More](https://medium.com/p/7358e1ed5e30) |
 | Fri, 25 Jul 2025 16:02:19 GMT | The Cybersecurity Talent Shortage: Challenges and Solutions | Xaltius | [Read More](https://medium.com/p/1ff1c1488feb) |
-| Fri, 25 Jul 2025 16:00:34 GMT | My First Medium Write-Up: Critical IDOR in a City’s Public Transport System (Accepted + Hall of… | Amarendra Prakash | [Read More](https://medium.com/p/3431a5d86115) |
-| Fri, 25 Jul 2025 15:57:51 GMT | Linux Antivirus:My Deep Dive into ClamAV, Bitdefender & ESET | Demianchuk Sergii | [Read More](https://medium.com/p/6fa2c9d9142b) |
-| Fri, 25 Jul 2025 15:50:06 GMT | My Instagram Business Account Was Hacked! | Insha Javed | [Read More](https://medium.com/p/2eed9c08e95b) |
-| Fri, 25 Jul 2025 15:46:58 GMT | Remote Work’s Hidden Cost: How Distributed Teams Broke the Security Model | Eric Zietlow | [Read More](https://medium.com/p/565e6dbeaba7) |
