@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 15:39:09 GMT | Linux Privilege Escalation — TryHackMe | notfo | [Read More](https://medium.com/p/812681d8c4a8) |
+| Fri, 25 Jul 2025 15:34:20 GMT | Discover Top Local Businesses Effortlessly with List & Post | List and Post | [Read More](https://medium.com/p/f08be13165a2) |
+| Fri, 25 Jul 2025 15:31:10 GMT | What is Physical Security? | Liam Truth | [Read More](https://medium.com/p/453195714a60) |
+| Fri, 25 Jul 2025 15:29:37 GMT | DHCP: How Devices Get Their IP Address | Ifeoma Nwokeoma | [Read More](https://medium.com/p/ff04fb0d8ea2) |
+| Fri, 25 Jul 2025 15:27:28 GMT | Smart Home Basics: Which Amazon Security Gadget Is Right for You | Nexora Nest | [Read More](https://medium.com/p/0fde122aec67) |
+| Fri, 25 Jul 2025 15:26:40 GMT | Securing PHP in the Age of AI Robots | Roman Huliak | [Read More](https://medium.com/p/f9c23c8a6e49) |
+| Fri, 25 Jul 2025 15:24:40 GMT | BingX, Aave Repay Adapter, Nexera, and 0xf2…48 Compromised for Over $100M via Wallet Breaches… | Olympix | [Read More](https://medium.com/p/d08579ba34f4) |
+| Fri, 25 Jul 2025 15:23:57 GMT | Mobile Application XML Configuration Security: Identifying and Mitigating Critical Vulnerabilities | Xavier J. Cruz | [Read More](https://medium.com/p/cdf03dc15c9b) |
+| Fri, 25 Jul 2025 15:22:36 GMT | Penpie, Converge Finance, Astroport, and Novax Exploited for $33.6M | Olympix | [Read More](https://medium.com/p/f158bebff146) |
+| Fri, 25 Jul 2025 15:21:04 GMT | Quick-Skoping through Netskope SWG Tenants — CVE-2024–7401 | RedSeer Security | [Read More](https://medium.com/p/5ddf6e3a4bd5) |
+| Fri, 25 Jul 2025 15:17:00 GMT | London Bridge — A Linux Exploitation Walkthrough | Aadi Jamadar | [Read More](https://medium.com/p/9d9512a738a6) |
 | Fri, 25 Jul 2025 15:16:30 GMT | Return of Browser-Based Cryptojacking: 3,500+ Websites Compromised in Global JavaScript Miner… | _Anirudh_ | [Read More](https://medium.com/p/0397da39b6de) |
 | Fri, 25 Jul 2025 15:03:13 GMT | Looking back at the Cursor and Github Co-pilot invisible exploit | Kaamil Mirza | [Read More](https://medium.com/p/4be00493b53d) |
 | Fri, 25 Jul 2025 15:01:19 GMT | Solving PortSwigger’s Authentication Lab: 7 Key Steps Using Kali Linux and Burp Suite | Shehroz Ahmed Khan | [Read More](https://medium.com/p/32cf24fea6cc) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 11:01:51 GMT | What’s Changing in the HIPAA Security Rule — and How to Prepare Your Security Stack | Feroot Security | [Read More](https://medium.com/p/657a416ff817) |
 | Fri, 25 Jul 2025 11:01:51 GMT | ✋ No More Spoilers: Locking Down FastAPI Against IDOR | Raúl Ereño | [Read More](https://medium.com/p/7a939ad2c988) |
 | Fri, 25 Jul 2025 10:52:00 GMT | AI Wars | Mark King | [Read More](https://medium.com/p/4cdb9902f7a7) |
-| Fri, 25 Jul 2025 10:43:16 GMT | Hackers Can Manipulate AI Chatbots with Prompt Injections | Karl Buhl | [Read More](https://medium.com/p/2fd090fff20f) |
-| Fri, 25 Jul 2025 10:43:02 GMT | Planning HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/b079e90c10a4) |
-| Fri, 25 Jul 2025 10:42:21 GMT | Information Security Awareness: Principles and Best Practices for Employees | Andrey Pautov | [Read More](https://medium.com/p/6e518eda752c) |
-| Fri, 25 Jul 2025 10:33:25 GMT | Why Choose Armed Security Guard Services? | cxccv | [Read More](https://medium.com/p/fba73b73a857) |
-| Fri, 25 Jul 2025 10:32:25 GMT | Vuln Hub Sunset Machine — Full Walkthrough | Karthik reddy morapally | [Read More](https://medium.com/p/98aa976b6507) |
-| Fri, 25 Jul 2025 10:31:50 GMT | Catching APT29’s Favorite Evasion Trick: Detecting DLL Sideloading with Sigma (T1574.002) | Manish Rawat | [Read More](https://medium.com/p/5ce2a31d8779) |
-| Fri, 25 Jul 2025 10:30:02 GMT | The Ultimate Bug Bounty Cheat Sheet for Ethical Hackers (2025 Edition) | Elie Attieh | [Read More](https://medium.com/p/5c63ba5ca0a6) |
-| Fri, 25 Jul 2025 10:23:39 GMT | OSCE Trains Uzbek Cyber Experts to Safeguard Digital Transformation | SafetyDetectives Research Team | [Read More](https://medium.com/p/9f093eeacfce) |
-| Fri, 25 Jul 2025 10:23:33 GMT | Exploiting SSRF via Cloudflare Image Proxy on [REDACTED] | @Sauravkrish | [Read More](https://medium.com/p/a32aeb8e6b8c) |
-| Fri, 25 Jul 2025 10:18:54 GMT | Crypto Hacking Is Evolving, So Are We. Why Efani and Tangem Teamed Up to Protect U.S. Investors | Haris Nadeem | [Read More](https://medium.com/p/a8b2dd963ce6) |
-| Fri, 25 Jul 2025 10:18:34 GMT | CargoTalon Exposed: Inside the Red‑Team Playbook of Aerospace Espionage | Pentestjunkie07 | [Read More](https://medium.com/p/375279ee4e84) |
