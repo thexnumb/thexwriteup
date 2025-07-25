@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 10:33:25 GMT | Why Choose Armed Security Guard Services? | cxccv | [Read More](https://medium.com/p/fba73b73a857) |
+| Fri, 25 Jul 2025 10:32:25 GMT | Vuln Hub Sunset Machine — Full Walkthrough | Karthik reddy morapally | [Read More](https://medium.com/p/98aa976b6507) |
+| Fri, 25 Jul 2025 10:31:50 GMT | Catching APT29’s Favorite Evasion Trick: Detecting DLL Sideloading with Sigma (T1574.002) | Manish Rawat | [Read More](https://medium.com/p/5ce2a31d8779) |
+| Fri, 25 Jul 2025 10:30:02 GMT | The Ultimate Bug Bounty Cheat Sheet for Ethical Hackers (2025 Edition) | Elie Attieh | [Read More](https://medium.com/p/5c63ba5ca0a6) |
+| Fri, 25 Jul 2025 10:23:39 GMT | OSCE Trains Uzbek Cyber Experts to Safeguard Digital Transformation | SafetyDetectives Research Team | [Read More](https://medium.com/p/9f093eeacfce) |
 | Fri, 25 Jul 2025 10:23:33 GMT | Exploiting SSRF via Cloudflare Image Proxy on [REDACTED] | @Sauravkrish | [Read More](https://medium.com/p/a32aeb8e6b8c) |
+| Fri, 25 Jul 2025 10:18:54 GMT | Crypto Hacking Is Evolving, So Are We. Why Efani and Tangem Teamed Up to Protect U.S. Investors | Haris Nadeem | [Read More](https://medium.com/p/a8b2dd963ce6) |
 | Fri, 25 Jul 2025 10:18:34 GMT | CargoTalon Exposed: Inside the Red‑Team Playbook of Aerospace Espionage | Pentestjunkie07 | [Read More](https://medium.com/p/375279ee4e84) |
 | Fri, 25 Jul 2025 10:18:30 GMT | Why Your Business Needs Regular Penetration Testing — Before Hackers Strike | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/8cd1b88ee2cf) |
 | Fri, 25 Jul 2025 10:16:16 GMT | Elmo X Account Hack Highlights Gaps in Social Media Security | SafetyDetectives Research Team | [Read More](https://medium.com/p/c6992834bb04) |
@@ -107,9 +113,3 @@ Want to know who’s… | Kumarsmagic | [Read More](https://medium.com/p/5f0da6c
 | Fri, 25 Jul 2025 05:47:18 GMT | If Microsoft Can Be Breached, What About You? | Finstein.ai | [Read More](https://medium.com/p/85a4ed1d445a) |
 | Fri, 25 Jul 2025 05:46:18 GMT | How to Recover a Frozen Bank Account in India | OLC Agra | [Read More](https://medium.com/p/a425b9449549) |
 | Fri, 25 Jul 2025 05:44:30 GMT | How to Reduce Fraud on Your Website Using LeakRadar.io | Alexandre Vandamme | [Read More](https://medium.com/p/15dba82673e1) |
-| Fri, 25 Jul 2025 05:39:17 GMT | Why Test Management Matters More Than You Think (A Tester’s POV) | Kavitha Rajagopal | [Read More](https://medium.com/p/2a1d8b1a3888) |
-| Fri, 25 Jul 2025 05:38:33 GMT | The Last Time You’ll Ever Use a Password | Saurabh Jain | [Read More](https://medium.com/p/fd36ef314883) |
-| Fri, 25 Jul 2025 05:26:58 GMT | Why Proactive Threat Hunting Matters? | Ash | [Read More](https://medium.com/p/951586b25518) |
-| Fri, 25 Jul 2025 05:21:48 GMT | Hunt Down Cyber Threats: A Guide to Proactive Cybersecurity | Saikrishna | [Read More](https://medium.com/p/0caea8bbe531) |
-| Fri, 25 Jul 2025 05:11:59 GMT | Drosera Network: Weaving a Decentralized Security Network for Ethereum | Chidrexx | [Read More](https://medium.com/p/acce88048a46) |
-| Fri, 25 Jul 2025 05:11:54 GMT | Top Reasons to Choose B.Voc in Cybersecurity and Digital Forensics | Edept | [Read More](https://medium.com/p/dd399edb1928) |
