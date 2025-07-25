@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 03:36:48 GMT | I Watched a Hacker Crack a Password in 2 Minutes. Here’s What I Learned. | Tools Online | [Read More](https://medium.com/p/32a01ef66e59) |
+| Fri, 25 Jul 2025 03:31:03 GMT | How I Discovered a Critical Security Flaw - Unauthenticated File Download via Public File URL | Blue_eye | [Read More](https://medium.com/p/ac49d53c1cda) |
+| Fri, 25 Jul 2025 03:31:03 GMT | How to Audit a Ruby on Rails Application You Didn’t Build (Senior Dev Edition) | Ajey | [Read More](https://medium.com/p/90cd4cd67745) |
+| Fri, 25 Jul 2025 03:30:24 GMT | The Ethics of AI in Fraud Detection: Risks of False Positives and Network Bias | Waqas Ishtiaq | [Read More](https://medium.com/p/28358ff3fcef) |
+| Fri, 25 Jul 2025 03:19:46 GMT | Cyber Risk Management Framework: Steps for Assessing and Mitigating Threats | Chatsm | [Read More](https://medium.com/p/0e03aad115c4) |
+| Fri, 25 Jul 2025 03:19:37 GMT | My First CTF: How I Stepped Into the World of Ethical Hacking | Anjali K. Thomas | [Read More](https://medium.com/p/872f35d84f03) |
+| Fri, 25 Jul 2025 03:19:31 GMT | How I Hardened PeerGenius Backend: Enterprise Security, Testing & Performance at Scale | Sanchay Gawande | [Read More](https://medium.com/p/26a2abebfe14) |
+| Fri, 25 Jul 2025 03:14:17 GMT | Recalling An Article About North Korea And Its Unheard Strategy of Maintaining & Increasing Its… | Deondre Waltenberger | [Read More](https://medium.com/p/5c119c886c3b) |
+| Fri, 25 Jul 2025 03:01:51 GMT | U.S., Japan, Australia Forge Deep Military Ties Amid China’s Pacific Expansion | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/aa2bccfcb7d2) |
+| Fri, 25 Jul 2025 02:51:54 GMT | A Messy Revelation: How I Came Out as a Kinky Husband | Bjørn Jørgensen | [Read More](https://medium.com/p/5a51b2a07ae5) |
+| Fri, 25 Jul 2025 02:27:48 GMT | TryHackMe Include (Medium) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/b7fd3cc78916) |
+| Fri, 25 Jul 2025 02:23:14 GMT | When Politics Dictates AI: Why Trust, Safety, and Data Privacy Must Stay Non-Negotiable | Kim Chandler McDonald | [Read More](https://medium.com/p/5ac8e39fbb6c) |
+| Fri, 25 Jul 2025 02:13:14 GMT | Inside an AI-Powered Phishing Attack: How It Works and How to Stop It | Victor Lees | [Read More](https://medium.com/p/3598f131d9ea) |
+| Fri, 25 Jul 2025 02:08:10 GMT | Cyber Kill Chain Analysis: The Stealth WordPress Mu-Plugin Backdoor Attack | Cyber-AppSec | [Read More](https://medium.com/p/93de23cb4a0c) |
+| Fri, 25 Jul 2025 02:04:48 GMT | From a Penetration Tester’s Desk: How to Identify and Fix Common PHP Vulnerabilities | Ann R. | [Read More](https://medium.com/p/01f2480d85ce) |
+| Fri, 25 Jul 2025 02:01:52 GMT | I Got Into the Hall of Fame on NASA’s Vulnerability Disclosure Program Just by Dorking — Here’s How | ./Rey~ | [Read More](https://medium.com/p/149dbe15636f) |
+| Fri, 25 Jul 2025 01:49:59 GMT | Portswigger Reflected XSS into attribute with angle brackets HTML-encoded Writeup | Cybernerddd | [Read More](https://medium.com/p/cfb35018ca3a) |
 | Fri, 25 Jul 2025 01:42:07 GMT | TCP Packet Analysis for Beginners | Luke | [Read More](https://medium.com/p/1072469e9725) |
 | Fri, 25 Jul 2025 01:24:45 GMT | Why Cybersecurity Matters More Than Ever in 2025 — And How You Can Start Learning Today | CyberCraftDefense | [Read More](https://medium.com/p/ac1a610cc069) |
 | Fri, 25 Jul 2025 01:06:53 GMT | How I Started Earning Online with ESET — A Step-by-Step Breakdown | Para | [Read More](https://medium.com/p/e4338a30b916) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 18:10:29 GMT | 802.1X Kimlik Doğrulama Sorunları ve Çözümleri — Detaylı Rehber ️ | Emre Koç | [Read More](https://medium.com/p/190a7f48f4f2) |
 | Thu, 24 Jul 2025 18:10:00 GMT | IoT Security Flaws: What I Learned From Hacking My First Router | Brenton McPherson | [Read More](https://medium.com/p/f87499b0d4ae) |
 | Thu, 24 Jul 2025 18:06:55 GMT | Top 5 Cyber Threats in 2025 and How to Prevent Them | Shieldnova | [Read More](https://medium.com/p/7a6b535de7a3) |
-| Thu, 24 Jul 2025 18:05:09 GMT | DAY 24 — CHAPTER 12: Managing the Linux Kernel | Jinay | [Read More](https://medium.com/p/e455a8a5e862) |
-| Thu, 24 Jul 2025 17:50:53 GMT | Stay One Step Ahead: Mastering Threat Detection Extensions in a High-Risk Digital World | Suhasml | [Read More](https://medium.com/p/c04dfc79a3ab) |
-| Thu, 24 Jul 2025 17:29:57 GMT | Sukses Berkarier di Era Digital dengan S1 Informatika Amikom Jogja | Revofallentino | [Read More](https://medium.com/p/6aaed79c316f) |
-| Thu, 24 Jul 2025 17:27:37 GMT | Europol toma el control del foro XSS y arresta a uno de sus administradores en Kiev | Tiziano Mass | [Read More](https://medium.com/p/e682acbbabde) |
-| Thu, 24 Jul 2025 17:27:33 GMT | “Baik?” | Zahra Azmi | [Read More](https://medium.com/p/ffac2683a30f) |
-| Thu, 24 Jul 2025 17:25:37 GMT | Hacking GANDALF: AI Security Challenge | Apilchand | [Read More](https://medium.com/p/072d9835f2b4) |
-| Thu, 24 Jul 2025 17:20:49 GMT | The Sentence I Published — And Couldn’t Take Back | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/95a6fd3dd751) |
-| Thu, 24 Jul 2025 17:20:16 GMT | N0aziXss Port Scanner v3.1: The Next Evolution in Intelligent Network Scanning | N0aziXss | [Read More](https://medium.com/p/34d5311a0559) |
-| Thu, 24 Jul 2025 17:19:51 GMT | Our World’s Ready for Robotaxis and Autonomous Driving | Dr. Jason Hung | [Read More](https://medium.com/p/19cbb3e6969e) |
-| Thu, 24 Jul 2025 17:10:26 GMT | Smishing Scams: Don’t Let That Text Message Trick You! | Natarajan C K | [Read More](https://medium.com/p/d2fdf02d571a) |
-| Thu, 24 Jul 2025 17:08:56 GMT | The Dark Web’s AI Secrets: How Hackers Stay Ahead | Code With Hannan | [Read More](https://medium.com/p/bb8deeccb835) |
-| Thu, 24 Jul 2025 17:08:52 GMT | DOGE-Led Staff Cuts: A Perfect Storm for Cybersecurity? | Peter | [Read More](https://medium.com/p/e9d37195d93c) |
-| Thu, 24 Jul 2025 17:03:13 GMT | Bridging the Cybersecurity Gap: Free Cybersecurity Bootcamp Launch | Joshua Oyeniyi | [Read More](https://medium.com/p/3af67f0a4c5c) |
-| Thu, 24 Jul 2025 17:00:32 GMT | 從被動防禦到主動識別：n8n 與 AI 如何提升企業郵件安全性 | Ivan Cheng | [Read More](https://medium.com/p/41b2978d4fee) |
-| Thu, 24 Jul 2025 16:56:32 GMT | Enterprise Browsers: Technology Trends and Leadership Insights from Michael Shieh and Rik Turner | Mammoth Cyber | [Read More](https://medium.com/p/986dbfe81613) |
-| Thu, 24 Jul 2025 16:55:41 GMT | 4,000 Fake Profiles and a Wiped Database: How Replit’s AI Incident Shook 30 Million Developers | NeuralNikitha | [Read More](https://medium.com/p/f3b98c4b0a27) |
-| Thu, 24 Jul 2025 16:53:19 GMT | How Two Critical SysAid Flaws Are Under Active Attack — And What You Must Patch Now | CyBlog | [Read More](https://medium.com/p/e7a26e1f69d4) |
