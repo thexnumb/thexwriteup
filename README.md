@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 09:25:39 GMT | Cybersecurity Certifications in 2025: Hands-On vs. HR-Friendly - Reviewing HackTheBox CJCA | Motasem Hamdan | [Read More](https://medium.com/p/3f23a7ff93ba) |
+| Fri, 25 Jul 2025 09:19:38 GMT | Rise of Deepfake Voice Scams: How Mobile Calls Are Being Hijacked — by Vasantha Venu Gopal Sudheer | KLEAP Institute of Information Security | [Read More](https://medium.com/p/a7b0e0c4059b) |
+| Fri, 25 Jul 2025 09:18:20 GMT | Linux Log Analysis for Blue Team: Mastering Authentication Monitoring and Threat Detection | Zrhmz | [Read More](https://medium.com/p/2d4b802d4002) |
+| Fri, 25 Jul 2025 09:16:50 GMT | Find The Best College For B.Tech. In Cyber Security | K.R. Mangalam University | [Read More](https://medium.com/p/5b6b279c8c12) |
+| Fri, 25 Jul 2025 09:15:51 GMT | Unauthenticated Unsubscribe Endpoint Allows Unauthorized Email Preference Manipulation | Mohamed Abdelmoatie | [Read More](https://medium.com/p/922598a06988) |
+| Fri, 25 Jul 2025 09:14:27 GMT | Your Files Are Living Rent-Free in Someone’s Cloud Forever (And That’s Weird) | Jennifer Emeka | [Read More](https://medium.com/p/315899277e81) |
+| Fri, 25 Jul 2025 09:12:40 GMT | Cybersecurity and Business Continuity Planning | Terna Global Business School | [Read More](https://medium.com/p/7f65fe6d0638) |
+| Fri, 25 Jul 2025 09:07:58 GMT | “Don’t Be the Next Victim: Must-Know Cybersecurity Secrets” | Bisma Hassan | [Read More](https://medium.com/p/377dabf3ca2d) |
+| Fri, 25 Jul 2025 09:07:22 GMT | Phishing Email Awareness: Protecting Employees and Organizations | Andrey Pautov | [Read More](https://medium.com/p/cf5bc57a0511) |
+| Fri, 25 Jul 2025 09:06:45 GMT | Top 5 Crypto Scams to Avoid: A Complete Guide for Safe Bitcoin & DeFi Investing | Rabab Toor | [Read More](https://medium.com/p/62f308e9a57a) |
+| Fri, 25 Jul 2025 09:02:35 GMT | BUGBOUNTY- No caces bugs. Caza inconsistencias. | Gorka | [Read More](https://medium.com/p/9ea08ecabe96) |
+| Fri, 25 Jul 2025 08:58:24 GMT | Cracking My First Web CTF — eJPT Web Application Penetration Testing (CTF 1) | Zi Yang John Lim | [Read More](https://medium.com/p/627f8c64b06a) |
+| Fri, 25 Jul 2025 08:58:05 GMT | Security Focus Month: Leveling Up Our Skills, Together | Simon Robinson | [Read More](https://medium.com/p/046d65ee2953) |
+| Fri, 25 Jul 2025 08:55:50 GMT | How I Discovered a Critical WordPress Auth Bypass: Methodology + Tools | Zubair Usman | [Read More](https://medium.com/p/5fab7a52a1ef) |
+| Fri, 25 Jul 2025 08:55:07 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/ac71627f5a66) |
+| Fri, 25 Jul 2025 08:33:01 GMT | Complete IT Hardware Solutions for Surveillance, Networking & Industrial Needs | satyaprakash Behera | [Read More](https://medium.com/p/f11230a875de) |
+| Fri, 25 Jul 2025 08:31:33 GMT | Event-Auth-Route: Phase 1: HMAC AND JWT | Ankit Kumar | [Read More](https://medium.com/p/84e7f7adc970) |
 | Fri, 25 Jul 2025 08:22:19 GMT | HackTheBox: Chemistry Writeup | Jad Ghamloush | [Read More](https://medium.com/p/d073d6764f65) |
 | Fri, 25 Jul 2025 08:19:33 GMT | Will Quantum Computing Break the Internet? | Niamh Wordcast — ✺ | [Read More](https://medium.com/p/5035f16c40b5) |
 | Fri, 25 Jul 2025 08:19:27 GMT | Find Private IPs of Connected Wi-Fi Users Using Termux (2025 Updated Method)
@@ -96,20 +113,3 @@ Want to know who’s… | Kumarsmagic | [Read More](https://medium.com/p/5f0da6c
 | Fri, 25 Jul 2025 03:19:46 GMT | Cyber Risk Management Framework: Steps for Assessing and Mitigating Threats | Chatsm | [Read More](https://medium.com/p/0e03aad115c4) |
 | Fri, 25 Jul 2025 03:19:37 GMT | My First CTF: How I Stepped Into the World of Ethical Hacking | Anjali K. Thomas | [Read More](https://medium.com/p/872f35d84f03) |
 | Fri, 25 Jul 2025 03:19:31 GMT | How I Hardened PeerGenius Backend: Enterprise Security, Testing & Performance at Scale | Sanchay Gawande | [Read More](https://medium.com/p/26a2abebfe14) |
-| Fri, 25 Jul 2025 03:14:17 GMT | Recalling An Article About North Korea And Its Unheard Strategy of Maintaining & Increasing Its… | Deondre Waltenberger | [Read More](https://medium.com/p/5c119c886c3b) |
-| Fri, 25 Jul 2025 03:01:51 GMT | U.S., Japan, Australia Forge Deep Military Ties Amid China’s Pacific Expansion | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/aa2bccfcb7d2) |
-| Fri, 25 Jul 2025 02:51:54 GMT | A Messy Revelation: How I Came Out as a Kinky Husband | Bjørn Jørgensen | [Read More](https://medium.com/p/5a51b2a07ae5) |
-| Fri, 25 Jul 2025 02:40:37 GMT | Masa Depan AI, Big Data, dan Cybersecurity: Apakah Kamu Siap? | Rifadeta | [Read More](https://medium.com/p/71ef3307f637) |
-| Fri, 25 Jul 2025 02:27:48 GMT | TryHackMe Include (Medium) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/b7fd3cc78916) |
-| Fri, 25 Jul 2025 02:23:14 GMT | When Politics Dictates AI: Why Trust, Safety, and Data Privacy Must Stay Non-Negotiable | Kim Chandler McDonald | [Read More](https://medium.com/p/5ac8e39fbb6c) |
-| Fri, 25 Jul 2025 02:13:14 GMT | Inside an AI-Powered Phishing Attack: How It Works and How to Stop It | Victor Lees | [Read More](https://medium.com/p/3598f131d9ea) |
-| Fri, 25 Jul 2025 02:08:10 GMT | Cyber Kill Chain Analysis: The Stealth WordPress Mu-Plugin Backdoor Attack | Cyber-AppSec | [Read More](https://medium.com/p/93de23cb4a0c) |
-| Fri, 25 Jul 2025 02:04:48 GMT | From a Penetration Tester’s Desk: How to Identify and Fix Common PHP Vulnerabilities | Ann R. | [Read More](https://medium.com/p/01f2480d85ce) |
-| Fri, 25 Jul 2025 02:01:52 GMT | I Got Into the Hall of Fame on NASA’s Vulnerability Disclosure Program Just by Dorking — Here’s How | ./Rey~ | [Read More](https://medium.com/p/149dbe15636f) |
-| Fri, 25 Jul 2025 01:49:59 GMT | Portswigger Reflected XSS into attribute with angle brackets HTML-encoded Writeup | Cybernerddd | [Read More](https://medium.com/p/cfb35018ca3a) |
-| Fri, 25 Jul 2025 01:42:07 GMT | TCP Packet Analysis for Beginners | Luke | [Read More](https://medium.com/p/1072469e9725) |
-| Fri, 25 Jul 2025 01:24:45 GMT | Why Cybersecurity Matters More Than Ever in 2025 — And How You Can Start Learning Today | CyberCraftDefense | [Read More](https://medium.com/p/ac1a610cc069) |
-| Fri, 25 Jul 2025 01:06:53 GMT | How I Started Earning Online with ESET — A Step-by-Step Breakdown | Para | [Read More](https://medium.com/p/e4338a30b916) |
-| Fri, 25 Jul 2025 01:02:34 GMT | Cybersecurity Outsourcing Services to Safeguard Your Digital Ecosystem | Magellan Solutions | [Read More](https://medium.com/p/1fb8f7929596) |
-| Fri, 25 Jul 2025 01:02:10 GMT | Zero Trust Security Ne Demek? Geleneksel Güvenliğin Sonu | FatihUYSAL | [Read More](https://medium.com/p/02d64d1a901e) |
-| Fri, 25 Jul 2025 00:48:21 GMT | ️ Pentest Nedir? Nasıl Yapılır? Derinlemesine Sızma Testi Rehberi (2025) | FatihUYSAL | [Read More](https://medium.com/p/9eae70324cff) |
