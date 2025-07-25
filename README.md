@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 21:32:12 GMT | Debilidades | Sara Reinero | [Read More](https://medium.com/p/99e3ae3296ff) |
+| Fri, 25 Jul 2025 21:28:50 GMT | Who is Shivinaa? What is Shoresh’d? | Shivinaa | [Read More](https://medium.com/p/4ea3a3f5967c) |
+| Fri, 25 Jul 2025 21:28:37 GMT | Is XBOW Replacing Cybersecurity Professionals? The Truth Behind the AI Hacker Taking Over HackerOne | Ghulam Mohiuddin | [Read More](https://medium.com/p/7f5f38d78153) |
 | Fri, 25 Jul 2025 20:53:22 GMT | Generative AI in Cybersecurity 2025: The Defender’s New Weapon Against AI-Powered Threats | Shehryar Rumi | [Read More](https://medium.com/p/aa7d219e5411) |
 | Fri, 25 Jul 2025 20:44:28 GMT | What If You Don’t Have to Leave to Be Free? | cefon | [Read More](https://medium.com/p/fefc88fb7f6d) |
 | Fri, 25 Jul 2025 20:42:56 GMT | Stop Fighting Compliance — Use It to Build a Better Security Program | James Wright | [Read More](https://medium.com/p/c78a71813a9e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 15:27:28 GMT | Smart Home Basics: Which Amazon Security Gadget Is Right for You | Nexora Nest | [Read More](https://medium.com/p/0fde122aec67) |
 | Fri, 25 Jul 2025 15:26:40 GMT | Securing PHP in the Age of AI Robots | Roman Huliak | [Read More](https://medium.com/p/f9c23c8a6e49) |
 | Fri, 25 Jul 2025 15:24:40 GMT | BingX, Aave Repay Adapter, Nexera, and 0xf2…48 Compromised for Over $100M via Wallet Breaches… | Olympix | [Read More](https://medium.com/p/d08579ba34f4) |
-| Fri, 25 Jul 2025 15:23:57 GMT | Mobile Application XML Configuration Security: Identifying and Mitigating Critical Vulnerabilities | Xavier J. Cruz | [Read More](https://medium.com/p/cdf03dc15c9b) |
-| Fri, 25 Jul 2025 15:22:36 GMT | Penpie, Converge Finance, Astroport, and Novax Exploited for $33.6M | Olympix | [Read More](https://medium.com/p/f158bebff146) |
-| Fri, 25 Jul 2025 15:21:04 GMT | Quick-Skoping through Netskope SWG Tenants — CVE-2024–7401 | RedSeer Security | [Read More](https://medium.com/p/5ddf6e3a4bd5) |
