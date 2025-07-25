@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 05:11:59 GMT | Drosera Network: Weaving a Decentralized Security Network for Ethereum | Chidrexx | [Read More](https://medium.com/p/acce88048a46) |
+| Fri, 25 Jul 2025 05:11:54 GMT | Top Reasons to Choose B.Voc in Cybersecurity and Digital Forensics | Edept | [Read More](https://medium.com/p/dd399edb1928) |
+| Fri, 25 Jul 2025 04:53:28 GMT | Zero Trust Network Security By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/a74a010b657b) |
+| Fri, 25 Jul 2025 04:49:57 GMT | Before I Write a Single Line of Code: My Personal Security Checklist Every Developer Should Have | Harry Zhou | [Read More](https://medium.com/p/a87d07f2c444) |
+| Fri, 25 Jul 2025 04:48:49 GMT | The Vital Role of a Security Guard in Modern Society | Stateguard Protective Services | [Read More](https://medium.com/p/f39d0bbe072a) |
 | Fri, 25 Jul 2025 04:39:12 GMT | 2. Network Security | unknownman | [Read More](https://medium.com/p/fc27c0c08ccf) |
 | Fri, 25 Jul 2025 04:27:11 GMT | Day 11- Firewalls, SIEM tools & event Correlation For absolute beginners | unica 02 | [Read More](https://medium.com/p/f3ecfa111919) |
 | Fri, 25 Jul 2025 04:19:04 GMT | 5 Security Design Mistakes I See Again and Again | Christina Irick | [Read More](https://medium.com/p/1629c820535a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 19:21:07 GMT | From Zero to Code: How to Prepare Your Laptop for Coding in 2025 | Ejete Blessing | [Read More](https://medium.com/p/cdaec21cc96f) |
 | Thu, 24 Jul 2025 19:16:11 GMT | From Co-Pilot to Spy: Why Your AI Assistant Might Be the Next Big Security Threat | Spencer Thomason | [Read More](https://medium.com/p/b4c2dd80dd96) |
 | Thu, 24 Jul 2025 19:12:39 GMT | Google Warns: Open Source Supply Chain Security at Risk | Dogli Wilberforce | [Read More](https://medium.com/p/8e1c8e1b2cf3) |
-| Thu, 24 Jul 2025 19:09:43 GMT | The Dark Side of Smart TVs: How Easy It Is to Hack Yours | hacker_might | [Read More](https://medium.com/p/d756d7730d77) |
-| Thu, 24 Jul 2025 19:09:37 GMT | The Trojan at the Gates: When Helpful Tools Turn Against Us | Sudx Official | [Read More](https://medium.com/p/d70885f19037) |
-| Thu, 24 Jul 2025 19:08:57 GMT | Comprehensive Guide to Linux Firewalls-2025 | Cybersectoworld | [Read More](https://medium.com/p/22957536ac8e) |
-| Thu, 24 Jul 2025 19:06:23 GMT | Is Your Email Safe? Discover How to Use an Email Breach Checker to Protect Your Data! | WeScan Journal | [Read More](https://medium.com/p/8c7de41ffbd4) |
-| Thu, 24 Jul 2025 18:49:19 GMT | Inside the GMX Exploit: When Modular Design Becomes an Attack Surface | Olympix | [Read More](https://medium.com/p/9a31baedd7b1) |
