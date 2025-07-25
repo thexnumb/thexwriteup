@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 11:12:01 GMT | A common myth persists: to have a secure browser, you must tolerate slower speeds and heavy… | Psylinks Announce | [Read More](https://medium.com/p/ce18bab34c1c) |
+| Fri, 25 Jul 2025 11:11:38 GMT | Invention of printing | Ali Raza | [Read More](https://medium.com/p/6934b3934683) |
+| Fri, 25 Jul 2025 11:06:28 GMT | This Week in Cybersecurity: CISA KEV Additions and Intensified Threat Campaigns | Loginsoft | [Read More](https://medium.com/p/285ba9b8fef8) |
+| Fri, 25 Jul 2025 11:01:51 GMT | What’s Changing in the HIPAA Security Rule — and How to Prepare Your Security Stack | Feroot Security | [Read More](https://medium.com/p/657a416ff817) |
+| Fri, 25 Jul 2025 11:01:51 GMT | ✋ No More Spoilers: Locking Down FastAPI Against IDOR | Raúl Ereño | [Read More](https://medium.com/p/7a939ad2c988) |
+| Fri, 25 Jul 2025 10:52:00 GMT | AI Wars | Mark King | [Read More](https://medium.com/p/4cdb9902f7a7) |
+| Fri, 25 Jul 2025 10:43:16 GMT | Hackers Can Manipulate AI Chatbots with Prompt Injections | Karl Buhl | [Read More](https://medium.com/p/2fd090fff20f) |
+| Fri, 25 Jul 2025 10:43:02 GMT | Planning HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/b079e90c10a4) |
+| Fri, 25 Jul 2025 10:42:21 GMT | Information Security Awareness: Principles and Best Practices for Employees | Andrey Pautov | [Read More](https://medium.com/p/6e518eda752c) |
 | Fri, 25 Jul 2025 10:33:25 GMT | Why Choose Armed Security Guard Services? | cxccv | [Read More](https://medium.com/p/fba73b73a857) |
 | Fri, 25 Jul 2025 10:32:25 GMT | Vuln Hub Sunset Machine — Full Walkthrough | Karthik reddy morapally | [Read More](https://medium.com/p/98aa976b6507) |
 | Fri, 25 Jul 2025 10:31:50 GMT | Catching APT29’s Favorite Evasion Trick: Detecting DLL Sideloading with Sigma (T1574.002) | Manish Rawat | [Read More](https://medium.com/p/5ce2a31d8779) |
@@ -104,12 +113,3 @@ Want to know who’s… | Kumarsmagic | [Read More](https://medium.com/p/5f0da6c
 | Fri, 25 Jul 2025 06:26:25 GMT | Amazon Q Nearly Hacked by Prompt Injection — What It Means for the Future of AI Coding Security | Ted Rogers | [Read More](https://medium.com/p/3be3448a7756) |
 | Fri, 25 Jul 2025 06:23:18 GMT | The Cybersecurity Mirage: Why You’re Not As Safe As You Think | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/fe8d01ab081a) |
 | Fri, 25 Jul 2025 06:16:52 GMT | My Love to HACK | Shiyas ps | [Read More](https://medium.com/p/d4bba2e64fc3) |
-| Fri, 25 Jul 2025 06:10:50 GMT | Sitting Ducks in Cyberspace | Shashankrawat | [Read More](https://medium.com/p/a16641f67f37) |
-| Fri, 25 Jul 2025 06:08:12 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/9a108df9bb72) |
-| Fri, 25 Jul 2025 06:08:09 GMT | Episode 5: HTML Injection: Understanding, Finding, and Preventing a Silent Web Threat | Yamini Yadav | [Read More](https://medium.com/p/2375f76bc808) |
-| Fri, 25 Jul 2025 06:07:58 GMT | How a Weak Password Led to the Collapse of KNP Logistics, a 158-Year-Old UK Company | Zeron | [Read More](https://medium.com/p/fd75e9d710be) |
-| Fri, 25 Jul 2025 06:07:40 GMT | One Tool to Rule JWTs — Easy JWT Pentesting with JWTAuditor | Sid Joshi | [Read More](https://medium.com/p/3483b37b01a3) |
-| Fri, 25 Jul 2025 06:00:48 GMT | Today’s Top Cyber Intelligence Highlights — Jul 25, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/8df82e5c6f2d) |
-| Fri, 25 Jul 2025 05:47:18 GMT | If Microsoft Can Be Breached, What About You? | Finstein.ai | [Read More](https://medium.com/p/85a4ed1d445a) |
-| Fri, 25 Jul 2025 05:46:18 GMT | How to Recover a Frozen Bank Account in India | OLC Agra | [Read More](https://medium.com/p/a425b9449549) |
-| Fri, 25 Jul 2025 05:44:30 GMT | How to Reduce Fraud on Your Website Using LeakRadar.io | Alexandre Vandamme | [Read More](https://medium.com/p/15dba82673e1) |
