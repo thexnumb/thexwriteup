@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 06:30:52 GMT | Why “Thinking Technology”? | AYŞE KIZILAY | [Read More](https://medium.com/p/d9b18db79581) |
+| Fri, 25 Jul 2025 06:27:35 GMT | My Fitness Tracker Led Hackers Straight to My Door | Aj | [Read More](https://medium.com/p/51e1260a360a) |
+| Fri, 25 Jul 2025 06:26:25 GMT | Amazon Q Nearly Hacked by Prompt Injection — What It Means for the Future of AI Coding Security | Ted Rogers | [Read More](https://medium.com/p/3be3448a7756) |
+| Fri, 25 Jul 2025 06:23:18 GMT | The Cybersecurity Mirage: Why You’re Not As Safe As You Think | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/fe8d01ab081a) |
+| Fri, 25 Jul 2025 06:16:52 GMT | My Love to HACK | Shiyas ps | [Read More](https://medium.com/p/d4bba2e64fc3) |
+| Fri, 25 Jul 2025 06:10:50 GMT | Sitting Ducks in Cyberspace | Shashankrawat | [Read More](https://medium.com/p/a16641f67f37) |
+| Fri, 25 Jul 2025 06:08:12 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/9a108df9bb72) |
+| Fri, 25 Jul 2025 06:08:09 GMT | Episode 5: HTML Injection: Understanding, Finding, and Preventing a Silent Web Threat | Yamini Yadav | [Read More](https://medium.com/p/2375f76bc808) |
+| Fri, 25 Jul 2025 06:07:58 GMT | How a Weak Password Led to the Collapse of KNP Logistics, a 158-Year-Old UK Company | Zeron | [Read More](https://medium.com/p/fd75e9d710be) |
+| Fri, 25 Jul 2025 06:07:40 GMT | One Tool to Rule JWTs — Easy JWT Pentesting with JWTAuditor | Sid Joshi | [Read More](https://medium.com/p/3483b37b01a3) |
+| Fri, 25 Jul 2025 06:00:48 GMT | Today’s Top Cyber Intelligence Highlights — Jul 25, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/8df82e5c6f2d) |
 | Fri, 25 Jul 2025 05:47:18 GMT | If Microsoft Can Be Breached, What About You? | Finstein.ai | [Read More](https://medium.com/p/85a4ed1d445a) |
 | Fri, 25 Jul 2025 05:46:18 GMT | How to Recover a Frozen Bank Account in India | OLC Agra | [Read More](https://medium.com/p/a425b9449549) |
 | Fri, 25 Jul 2025 05:44:30 GMT | How to Reduce Fraud on Your Website Using LeakRadar.io | Alexandre Vandamme | [Read More](https://medium.com/p/15dba82673e1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 21:01:49 GMT | Part 6: The Institutional Imperative — Enterprise Grade Custody & Compliance | Ben San Roman | [Read More](https://medium.com/p/aff3362ad744) |
 | Thu, 24 Jul 2025 20:55:47 GMT | Designing Secure APIs: OAuth2, JWT, and Zero Trust Principles in Enterprise Systems | Suraj Thakur | [Read More](https://medium.com/p/b67dda47f671) |
 | Thu, 24 Jul 2025 20:48:03 GMT | The Shadow in the Stream: Hunting Adversary-in-the-Middle Phishing Attacks with KQL | Alan | [Read More](https://medium.com/p/7081b0695216) |
-| Thu, 24 Jul 2025 20:41:06 GMT | Kernel DACL Management | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f4e00b8da8a3) |
-| Thu, 24 Jul 2025 20:38:20 GMT | From Zero to Building Top Web3 Applications | Mohamedajguernoun | [Read More](https://medium.com/p/19aee6c2d1d7) |
-| Thu, 24 Jul 2025 20:25:02 GMT | Complete Guide: Installing Operating Systems on VirtualBox, Hyper-V, and VMware | Nihar Mane | [Read More](https://medium.com/p/612eaabf7c9f) |
-| Thu, 24 Jul 2025 20:19:49 GMT | Mapping the NIST Standard of Prevention to the 2019 Capital One Breach | Alex Riley | [Read More](https://medium.com/p/676b748881f8) |
-| Thu, 24 Jul 2025 20:14:38 GMT | Invisible Cyber Red Flags Boards Miss for Critical Infrastructure (3/3) | Dr Abbie Widin | [Read More](https://medium.com/p/2490a2ee8845) |
-| Thu, 24 Jul 2025 20:14:06 GMT | Beyond the Firewall — How AI, Model Drift & Misinformation Threaten Australia’s Critical… | Dr Abbie Widin | [Read More](https://medium.com/p/6b8225f5d705) |
-| Thu, 24 Jul 2025 20:12:34 GMT | Tired Of Pretending. | Amna Javaid | [Read More](https://medium.com/p/de7caa06f6d5) |
-| Thu, 24 Jul 2025 20:06:32 GMT | Cyber Risk Is Strategic Risk: Why Directors Must Own It (1/3) | Dr Abbie Widin | [Read More](https://medium.com/p/b5e2dbb35a18) |
-| Thu, 24 Jul 2025 20:02:29 GMT | The Fall of XSS.is: Inside the Major Takedown of a Russian-Speaking Cybercrime Forum | Mohammed Muneef | [Read More](https://medium.com/p/242956607902) |
-| Thu, 24 Jul 2025 19:55:39 GMT | Surviving the IT Job Market in Morocco: a journey that I never expected | MeerKat | [Read More](https://medium.com/p/5e833f49188f) |
-| Thu, 24 Jul 2025 19:53:33 GMT | En Yaygın Siber Saldırı Türleri-4 | Melek | [Read More](https://medium.com/p/b86a5523875b) |
