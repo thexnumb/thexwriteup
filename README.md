@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 14:35:35 GMT | Urgent Warning for Organizations: Interlock Ransomware Attacks | IT_Engineer | [Read More](https://medium.com/p/f50387f6775d) |
+| Fri, 25 Jul 2025 14:24:08 GMT | Secure Collaboration at Scale: Share Sensitive Data with No User Limit | Ewyatt | [Read More](https://medium.com/p/116b69d9aa80) |
+| Fri, 25 Jul 2025 14:21:14 GMT | Penetration Testing on demo.testfire.net — A Hands-On Lab in Ethical Hacking | Aum Vipul | [Read More](https://medium.com/p/84c962d82025) |
 | Fri, 25 Jul 2025 14:17:52 GMT | How I Went from Guest to Admin in 5 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/a39f6335834d) |
+| Fri, 25 Jul 2025 14:15:35 GMT | London Bridge – Writeup | Aadi Jamadar | [Read More](https://medium.com/p/e74f7461efe4) |
 | Fri, 25 Jul 2025 14:14:00 GMT | Bug Bounty Is Fun Until You Get a P1 Duplicate | Chip | [Read More](https://medium.com/p/91b2e336498f) |
 | Fri, 25 Jul 2025 14:08:50 GMT | Digging Deeper into Windows Forensics: TryHackMe’s Windows Forensics 2 Room | Furkanctiner | [Read More](https://medium.com/p/ed34f70b6e0d) |
 | Fri, 25 Jul 2025 14:02:43 GMT | “The System Has Determined That Was a Lie” | Anka | [Read More](https://medium.com/p/8638c3d3be9f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 09:58:48 GMT | With Oil and Vinegar, Have Some MAYO | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/dde2ab5ef70a) |
 | Fri, 25 Jul 2025 09:58:00 GMT | Unzip and Detonate: How One Upload Can Break the Filesystem | Narendar Battula (nArEn) | [Read More](https://medium.com/p/601ef62def4a) |
 | Fri, 25 Jul 2025 09:56:12 GMT | Day 61: More Nmap | Nile Okomo | [Read More](https://medium.com/p/45f059621edc) |
-| Fri, 25 Jul 2025 09:55:22 GMT | ️So You Think You Know the Internet? Wait Till You Meet Its Secret Sides | JahdiSec | [Read More](https://medium.com/p/11b2ab5ca720) |
-| Fri, 25 Jul 2025 09:52:33 GMT | The Great Divide: High Octane vs. Lackadaisical Laggards in Information Technology | Namir Sagheenanajar | [Read More](https://medium.com/p/e8c4206c827b) |
-| Fri, 25 Jul 2025 09:51:09 GMT | How I Made $820 in Bug Bounties as a Total Beginner | Rashadul Islam | [Read More](https://medium.com/p/1cd7f7cbae3e) |
-| Fri, 25 Jul 2025 09:51:09 GMT | Why Choosing the Right Cyber Security Provider Matters More Than Ever in 2025 | Hardwin Software (Solutions) | [Read More](https://medium.com/p/db3c8e3b7423) |
