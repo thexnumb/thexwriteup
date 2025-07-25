@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 09:47:54 GMT | ️ From Subdomain to Subjugation: The 2025 Recon Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/673439fc5510) |
+| Fri, 25 Jul 2025 09:37:55 GMT | New Chaos Ransomware Campaigns Leveraging Social Engineering | Geethu_Giri | [Read More](https://medium.com/p/55ee15584d98) |
+| Fri, 25 Jul 2025 09:33:20 GMT | The Hidden Danger Behind Downloading Porn Videos: A Malware Trap in Disguise | Sarviya | [Read More](https://medium.com/p/50cae2e4ab1a) |
+| Fri, 25 Jul 2025 09:31:42 GMT | Detecting and Classifying Cyberattacks with Machine Learning | Arshathhaq | [Read More](https://medium.com/p/2f560855a0f6) |
 | Fri, 25 Jul 2025 09:25:39 GMT | Cybersecurity Certifications in 2025: Hands-On vs. HR-Friendly - Reviewing HackTheBox CJCA | Motasem Hamdan | [Read More](https://medium.com/p/3f23a7ff93ba) |
+| Fri, 25 Jul 2025 09:22:28 GMT | Bloom Filters for RBAC in Front End Applications | Aarne Laur | [Read More](https://medium.com/p/0679c8b6e8e7) |
 | Fri, 25 Jul 2025 09:19:38 GMT | Rise of Deepfake Voice Scams: How Mobile Calls Are Being Hijacked — by Vasantha Venu Gopal Sudheer | KLEAP Institute of Information Security | [Read More](https://medium.com/p/a7b0e0c4059b) |
 | Fri, 25 Jul 2025 09:18:20 GMT | Linux Log Analysis for Blue Team: Mastering Authentication Monitoring and Threat Detection | Zrhmz | [Read More](https://medium.com/p/2d4b802d4002) |
 | Fri, 25 Jul 2025 09:16:50 GMT | Find The Best College For B.Tech. In Cyber Security | K.R. Mangalam University | [Read More](https://medium.com/p/5b6b279c8c12) |
@@ -108,8 +113,3 @@ Want to know who’s… | Kumarsmagic | [Read More](https://medium.com/p/5f0da6c
 | Fri, 25 Jul 2025 03:37:43 GMT | Routing-Based SSRF  —  Host Header Injection Leads to Internal Access | Bash Overflow | [Read More](https://medium.com/p/b65a1c8b1b42) |
 | Fri, 25 Jul 2025 03:36:48 GMT | I Watched a Hacker Crack a Password in 2 Minutes. Here’s What I Learned. | Tools Online | [Read More](https://medium.com/p/32a01ef66e59) |
 | Fri, 25 Jul 2025 03:31:03 GMT | How I Discovered a Critical Security Flaw - Unauthenticated File Download via Public File URL | Blue_eye | [Read More](https://medium.com/p/ac49d53c1cda) |
-| Fri, 25 Jul 2025 03:31:03 GMT | How to Audit a Ruby on Rails Application You Didn’t Build (Senior Dev Edition) | Ajey | [Read More](https://medium.com/p/90cd4cd67745) |
-| Fri, 25 Jul 2025 03:30:24 GMT | The Ethics of AI in Fraud Detection: Risks of False Positives and Network Bias | Waqas Ishtiaq | [Read More](https://medium.com/p/28358ff3fcef) |
-| Fri, 25 Jul 2025 03:19:46 GMT | Cyber Risk Management Framework: Steps for Assessing and Mitigating Threats | Chatsm | [Read More](https://medium.com/p/0e03aad115c4) |
-| Fri, 25 Jul 2025 03:19:37 GMT | My First CTF: How I Stepped Into the World of Ethical Hacking | Anjali K. Thomas | [Read More](https://medium.com/p/872f35d84f03) |
-| Fri, 25 Jul 2025 03:19:31 GMT | How I Hardened PeerGenius Backend: Enterprise Security, Testing & Performance at Scale | Sanchay Gawande | [Read More](https://medium.com/p/26a2abebfe14) |
