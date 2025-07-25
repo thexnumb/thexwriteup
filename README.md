@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 14:17:52 GMT | How I Went from Guest to Admin in 5 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/a39f6335834d) |
+| Fri, 25 Jul 2025 14:14:00 GMT | Bug Bounty Is Fun Until You Get a P1 Duplicate | Chip | [Read More](https://medium.com/p/91b2e336498f) |
+| Fri, 25 Jul 2025 14:08:50 GMT | Digging Deeper into Windows Forensics: TryHackMe’s Windows Forensics 2 Room | Furkanctiner | [Read More](https://medium.com/p/ed34f70b6e0d) |
+| Fri, 25 Jul 2025 14:02:43 GMT | “The System Has Determined That Was a Lie” | Anka | [Read More](https://medium.com/p/8638c3d3be9f) |
+| Fri, 25 Jul 2025 14:02:42 GMT | ️ Tribal Leadership and Infosec: Building Strong Tribes in a World of Digital Threats | MrGood | [Read More](https://medium.com/p/4e45fe60eca1) |
+| Fri, 25 Jul 2025 14:02:37 GMT | Cyber Briefing: 2025.07.25 | CyberMaterial | [Read More](https://medium.com/p/52cc3c97c1d2) |
+| Fri, 25 Jul 2025 14:02:21 GMT | Common Bug in Calculate: Understanding omitempty and Integer Division in Go | mobin shaterian | [Read More](https://medium.com/p/d8c5b8da86a1) |
+| Fri, 25 Jul 2025 13:56:24 GMT | Harvest Exclusive BNTY Through Bounty's Distribution Fiesta | Bounty | [Read More](https://medium.com/p/20480f50a599) |
+| Fri, 25 Jul 2025 13:55:46 GMT | Oski Lab - Guide — CyberDefenders | Johnathonsiganoff | [Read More](https://medium.com/p/46e726f267c2) |
+| Fri, 25 Jul 2025 13:55:31 GMT | Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | CypherNova1337 | [Read More](https://medium.com/p/45303d5c7208) |
+| Fri, 25 Jul 2025 13:47:45 GMT | From Clicks to Cognition: The Romantic Rise of Agentic Software | Prakhar | [Read More](https://medium.com/p/12dece6b48a2) |
+| Fri, 25 Jul 2025 13:45:22 GMT | Penetration Testing /Bug Bounty — WEB- 3 | Prabhjeetsingh | [Read More](https://medium.com/p/3c1c6b965580) |
+| Fri, 25 Jul 2025 13:41:45 GMT | Artificial Super Intelligence | Sangeeta Singh | [Read More](https://medium.com/p/d4ead2a9786c) |
+| Fri, 25 Jul 2025 13:40:52 GMT | Penetration Testing /Bug Bounty— WEB- 2 | Prabhjeetsingh | [Read More](https://medium.com/p/2dc78ef583ce) |
+| Fri, 25 Jul 2025 13:36:46 GMT | Torch Wallet Security Research | Rinat Khasanshin | [Read More](https://medium.com/p/ad4e8a6953b9) |
+| Fri, 25 Jul 2025 13:35:32 GMT | Pentesting — WEB- 1 | Prabhjeetsingh | [Read More](https://medium.com/p/d2bc08cc6512) |
+| Fri, 25 Jul 2025 13:34:48 GMT | The Day My Photos Were Held Hostage | Aj | [Read More](https://medium.com/p/3ab81b40a8e3) |
+| Fri, 25 Jul 2025 13:32:18 GMT | ️‍♂️Windows Forensics Guide: From User Behavior to Malware Traces | Furkanctiner | [Read More](https://medium.com/p/f935d01ece91) |
 | Fri, 25 Jul 2025 13:30:48 GMT | “The Girl Who Feared Her Calm: A Story Of Silent Chaos” | @Lil.Moonx | [Read More](https://medium.com/p/a9f2d53d4214) |
 | Fri, 25 Jul 2025 13:27:04 GMT | How Project Managers Work with Cybersecurity Teams | Matthewdada | [Read More](https://medium.com/p/e850babab121) |
+| Fri, 25 Jul 2025 13:23:51 GMT | Pivoting Techniques | Hydsec | [Read More](https://medium.com/p/8f1df1f3d919) |
 | Fri, 25 Jul 2025 13:19:08 GMT | Online Privacy in 2025 — A Safer Future or a Digital Minefield? | Olatunde Aboaba | [Read More](https://medium.com/p/8e3738a327f5) |
 | Fri, 25 Jul 2025 13:15:52 GMT | Hypervisor Hijack: Pen Tester’s Breakdown of the VMware vSphere Breach. | Inforsecpro | [Read More](https://medium.com/p/eb35620b150b) |
 | Fri, 25 Jul 2025 13:12:49 GMT | Hidden Risk Behind Every Input Field. | Rabia Riaz | [Read More](https://medium.com/p/5c9f9ff33e14) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 09:52:33 GMT | The Great Divide: High Octane vs. Lackadaisical Laggards in Information Technology | Namir Sagheenanajar | [Read More](https://medium.com/p/e8c4206c827b) |
 | Fri, 25 Jul 2025 09:51:09 GMT | How I Made $820 in Bug Bounties as a Total Beginner | Rashadul Islam | [Read More](https://medium.com/p/1cd7f7cbae3e) |
 | Fri, 25 Jul 2025 09:51:09 GMT | Why Choosing the Right Cyber Security Provider Matters More Than Ever in 2025 | Hardwin Software (Solutions) | [Read More](https://medium.com/p/db3c8e3b7423) |
-| Fri, 25 Jul 2025 09:47:54 GMT | ️ From Subdomain to Subjugation: The 2025 Recon Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/673439fc5510) |
-| Fri, 25 Jul 2025 09:47:11 GMT | Cyber Hope Help Initiative Foundation — Building a Safer Digital India | Akshaya Mary Lingala | [Read More](https://medium.com/p/2054f2dbf6f1) |
-| Fri, 25 Jul 2025 09:46:45 GMT | 當 SharePoint 成為破口：從鏈式 RCE 攻擊看企業資安防線的脆弱點 | Kevin Wang | [Read More](https://medium.com/p/a1bf8883359e) |
-| Fri, 25 Jul 2025 09:37:55 GMT | New Chaos Ransomware Campaigns Leveraging Social Engineering | Geethu_Giri | [Read More](https://medium.com/p/55ee15584d98) |
-| Fri, 25 Jul 2025 09:33:20 GMT | The Hidden Danger Behind Downloading Porn Videos: A Malware Trap in Disguise | Sarviya | [Read More](https://medium.com/p/50cae2e4ab1a) |
-| Fri, 25 Jul 2025 09:31:42 GMT | Detecting and Classifying Cyberattacks with Machine Learning | Arshathhaq | [Read More](https://medium.com/p/2f560855a0f6) |
-| Fri, 25 Jul 2025 09:25:39 GMT | Cybersecurity Certifications in 2025: Hands-On vs. HR-Friendly - Reviewing HackTheBox CJCA | Motasem Hamdan | [Read More](https://medium.com/p/3f23a7ff93ba) |
-| Fri, 25 Jul 2025 09:22:28 GMT | Bloom Filters for RBAC in Front End Applications | Aarne Laur | [Read More](https://medium.com/p/0679c8b6e8e7) |
-| Fri, 25 Jul 2025 09:19:38 GMT | Rise of Deepfake Voice Scams: How Mobile Calls Are Being Hijacked — by Vasantha Venu Gopal Sudheer | KLEAP Institute of Information Security | [Read More](https://medium.com/p/a7b0e0c4059b) |
-| Fri, 25 Jul 2025 09:18:20 GMT | Linux Log Analysis for Blue Team: Mastering Authentication Monitoring and Threat Detection | Zrhmz | [Read More](https://medium.com/p/2d4b802d4002) |
-| Fri, 25 Jul 2025 09:16:50 GMT | Find The Best College For B.Tech. In Cyber Security | K.R. Mangalam University | [Read More](https://medium.com/p/5b6b279c8c12) |
-| Fri, 25 Jul 2025 09:15:51 GMT | Unauthenticated Unsubscribe Endpoint Allows Unauthorized Email Preference Manipulation | Mohamed Abdelmoatie | [Read More](https://medium.com/p/922598a06988) |
-| Fri, 25 Jul 2025 09:14:27 GMT | Your Files Are Living Rent-Free in Someone’s Cloud Forever (And That’s Weird) | Jennifer Emeka | [Read More](https://medium.com/p/315899277e81) |
-| Fri, 25 Jul 2025 09:12:40 GMT | Cybersecurity and Business Continuity Planning | Terna Global Business School | [Read More](https://medium.com/p/7f65fe6d0638) |
-| Fri, 25 Jul 2025 09:07:58 GMT | “Don’t Be the Next Victim: Must-Know Cybersecurity Secrets” | Bisma Hassan | [Read More](https://medium.com/p/377dabf3ca2d) |
-| Fri, 25 Jul 2025 09:07:22 GMT | Phishing Email Awareness: Protecting Employees and Organizations | Andrey Pautov | [Read More](https://medium.com/p/cf5bc57a0511) |
-| Fri, 25 Jul 2025 09:06:45 GMT | Top 5 Crypto Scams to Avoid: A Complete Guide for Safe Bitcoin & DeFi Investing | Rabab Toor | [Read More](https://medium.com/p/62f308e9a57a) |
-| Fri, 25 Jul 2025 09:02:35 GMT | BUGBOUNTY- No caces bugs. Caza inconsistencias. | Gorka | [Read More](https://medium.com/p/9ea08ecabe96) |
-| Fri, 25 Jul 2025 08:58:24 GMT | Cracking My First Web CTF — eJPT Web Application Penetration Testing (CTF 1) | Zi Yang John Lim | [Read More](https://medium.com/p/627f8c64b06a) |
