@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 01:42:07 GMT | TCP Packet Analysis for Beginners | Luke | [Read More](https://medium.com/p/1072469e9725) |
+| Fri, 25 Jul 2025 01:24:45 GMT | Why Cybersecurity Matters More Than Ever in 2025 — And How You Can Start Learning Today | CyberCraftDefense | [Read More](https://medium.com/p/ac1a610cc069) |
+| Fri, 25 Jul 2025 01:06:53 GMT | How I Started Earning Online with ESET — A Step-by-Step Breakdown | Para | [Read More](https://medium.com/p/e4338a30b916) |
+| Fri, 25 Jul 2025 01:02:34 GMT | Cybersecurity Outsourcing Services to Safeguard Your Digital Ecosystem | Magellan Solutions | [Read More](https://medium.com/p/1fb8f7929596) |
+| Fri, 25 Jul 2025 01:02:10 GMT | Zero Trust Security Ne Demek? Geleneksel Güvenliğin Sonu | FatihUYSAL | [Read More](https://medium.com/p/02d64d1a901e) |
+| Fri, 25 Jul 2025 00:48:21 GMT | ️ Pentest Nedir? Nasıl Yapılır? Derinlemesine Sızma Testi Rehberi (2025) | FatihUYSAL | [Read More](https://medium.com/p/9eae70324cff) |
+| Fri, 25 Jul 2025 00:42:42 GMT | Day 60: Staying safe and organized | Nile Okomo | [Read More](https://medium.com/p/d4457f506188) |
+| Fri, 25 Jul 2025 00:36:13 GMT | These 10 Burp Extensions Changed the Way I Do Bug Bounties | Omar Mahmoud | [Read More](https://medium.com/p/54daf5b08b15) |
+| Fri, 25 Jul 2025 00:25:50 GMT | Active Directory Home Lab integrating PowerShell Project Write Up! | Luis Fernando Murillo | [Read More](https://medium.com/p/d0b24b485d0a) |
+| Fri, 25 Jul 2025 00:18:18 GMT | Unpacking the Bypass: Client-Side Premium Authentication Compromise in Truecaller’s Android… | CypherNova1337 | [Read More](https://medium.com/p/d7af697be07e) |
+| Fri, 25 Jul 2025 00:12:54 GMT | Stateful React JavaScript form fields through Redux data persistence and management | Joe Alongi | [Read More](https://medium.com/p/2f298aa914f6) |
+| Fri, 25 Jul 2025 00:09:55 GMT | The Future of Tech: Key Growth Sectors in Nigeria and Globally (2025-2030). | Muhammad Bello Ibrahim | [Read More](https://medium.com/p/ec235b03da5b) |
+| Fri, 25 Jul 2025 00:02:56 GMT | Vulnerable and Outdated Components (OWASP A06): Guía de Hacking y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/1a7daca12822) |
+| Thu, 24 Jul 2025 23:59:25 GMT | Cookies Aren’t Sweet Anymore: How Web Trackers Quietly Build Your Digital Identity | Akshay Chauhan | [Read More](https://medium.com/p/f838fb16f6f7) |
+| Thu, 24 Jul 2025 23:51:03 GMT | Hackviser — Apache CouchDB 1.7.0/2.x < 2.1.1 Remote Code Execution (CVE-2017–12636) | Dogukan İSPİRLİ | [Read More](https://medium.com/p/b10c42f10531) |
+| Thu, 24 Jul 2025 23:44:14 GMT | Computing and secure work habits for software development | Joe Alongi | [Read More](https://medium.com/p/4acde9570cf4) |
+| Thu, 24 Jul 2025 23:40:11 GMT | Your Personal Antivirus Against Deception ️ | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/b93d30904c8b) |
 | Thu, 24 Jul 2025 23:33:57 GMT | How I Chained 2FA Bypasses in a Crypto P2P System to Steal User USDT | 0xBartita | [Read More](https://medium.com/p/ed68ee078998) |
 | Thu, 24 Jul 2025 23:28:23 GMT | JavaScript Prototype Conundrum | Sagar Pandita | [Read More](https://medium.com/p/926b807ba72b) |
 | Thu, 24 Jul 2025 23:22:17 GMT | Tawana Mohammadi and the Philosophy of Stateless Code | Apo Miner | [Read More](https://medium.com/p/3b9d7f7914cc) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 16:56:32 GMT | Enterprise Browsers: Technology Trends and Leadership Insights from Michael Shieh and Rik Turner | Mammoth Cyber | [Read More](https://medium.com/p/986dbfe81613) |
 | Thu, 24 Jul 2025 16:55:41 GMT | 4,000 Fake Profiles and a Wiped Database: How Replit’s AI Incident Shook 30 Million Developers | NeuralNikitha | [Read More](https://medium.com/p/f3b98c4b0a27) |
 | Thu, 24 Jul 2025 16:53:19 GMT | How Two Critical SysAid Flaws Are Under Active Attack — And What You Must Patch Now | CyBlog | [Read More](https://medium.com/p/e7a26e1f69d4) |
-| Thu, 24 Jul 2025 16:53:16 GMT | The Amazon Q VS Code Prompt Injection Explained: Impact and Learnings for DevOps | Ismail Kovvuru | [Read More](https://medium.com/p/3a9d2f752dea) |
-| Thu, 24 Jul 2025 16:51:22 GMT | Google Launches OSS Rebuild to Unmask Malicious Open‑Source Packages | CyBlog | [Read More](https://medium.com/p/d518287c948f) |
-| Thu, 24 Jul 2025 16:49:44 GMT | How I Hid a Secret Message in an Image Using ExifTool (Kali Linux Demo) | CyberFaez | [Read More](https://medium.com/p/f4705e03b7a7) |
-| Thu, 24 Jul 2025 16:48:05 GMT | SWOT_SCAN | Ivo Mickevičs | [Read More](https://medium.com/p/401e1f56025b) |
-| Thu, 24 Jul 2025 16:42:12 GMT | In a world that’s increasingly connected, cybersecurity is no longer a luxury, it’s a necessity. | Valkyrie Pippa | [Read More](https://medium.com/p/b1e90822632a) |
-| Thu, 24 Jul 2025 16:42:07 GMT | A Three-Step Framework for Remediating up to 95% of CVEs in minutes Without Code Changes with… | Sophia Perez | [Read More](https://medium.com/p/f440e251797f) |
-| Thu, 24 Jul 2025 16:40:38 GMT | Certifications on Network Penetration Testing | Aaron DeJong | [Read More](https://medium.com/p/36a7b7e72d04) |
-| Thu, 24 Jul 2025 16:40:18 GMT | Your AI Chat History: A Ticking Privacy Bomb? | AI Rabbit | [Read More](https://medium.com/p/7d4d7f339191) |
-| Thu, 24 Jul 2025 16:37:00 GMT | Kenobi Walkthrough Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/be1661b2ec27) |
-| Thu, 24 Jul 2025 16:35:53 GMT | Why Collaborative AI needs a Capability Model | devsecops | [Read More](https://medium.com/p/e06e8aa74a73) |
-| Thu, 24 Jul 2025 16:31:51 GMT | How to Recognize a Phishing Email Before It’s Too Late | Timonéofearth | [Read More](https://medium.com/p/08a56b9782fd) |
-| Thu, 24 Jul 2025 16:31:50 GMT | Securing Passwords in Python Using a Simple SHA-256 Hasher Buildable in Minutes | Eddie Artis Jr. | [Read More](https://medium.com/p/c58c7e16581a) |
-| Thu, 24 Jul 2025 16:24:41 GMT | Emerging Technologies in Computer Science Industry | KIRTPREET KAUR | [Read More](https://medium.com/p/5f7952455fba) |
-| Thu, 24 Jul 2025 16:19:39 GMT | OpenVAS Installation | Shir0E | [Read More](https://medium.com/p/f22a6ffb2797) |
-| Thu, 24 Jul 2025 16:16:37 GMT | The $44M Hack That Left User Wallets Untouched | CoinGen | [Read More](https://medium.com/p/78cadfe766a5) |
-| Thu, 24 Jul 2025 16:13:40 GMT | Why Protecting Your Digital Identity Matters | Akhil Rajan | [Read More](https://medium.com/p/3db8bd55af21) |
-| Thu, 24 Jul 2025 16:12:38 GMT | Cyber Kill Chain Nedir? | FatihUYSAL | [Read More](https://medium.com/p/3a77d70873b6) |
