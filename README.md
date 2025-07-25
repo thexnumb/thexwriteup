@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 11:31:50 GMT | Day 54 of #60DaysofGRC: Sampling Methodologies | Brittney Ginther | [Read More](https://medium.com/p/fd798d489996) |
+| Fri, 25 Jul 2025 11:30:34 GMT | Introduction to Information Security Certifications | Dhanashri Bhale | [Read More](https://medium.com/p/bd381ea1f9bd) |
+| Fri, 25 Jul 2025 11:27:31 GMT | XSS and CSRF — A Full Kill Chain | MahmoudKroush | [Read More](https://medium.com/p/4606e435dacb) |
+| Fri, 25 Jul 2025 11:25:11 GMT | Secury™: Revolutionizing Supply Chain Transparency for a Trusted Future. | Secury | [Read More](https://medium.com/p/ccbb46b6d1b4) |
+| Fri, 25 Jul 2025 11:24:51 GMT | Social Engineering Attacks: Cybersecurity’s Weakest Link and How to Defend Against Them | RzaAlasgarli | [Read More](https://medium.com/p/57b318867f97) |
+| Fri, 25 Jul 2025 11:24:04 GMT | What Is Flash USDT? Know Before You're Tricked | Hoce | [Read More](https://medium.com/p/1bd7bc224177) |
+| Fri, 25 Jul 2025 11:12:16 GMT | How to Protect Your SMB from Rising Cybersecurity Threats | tommy reed | [Read More](https://medium.com/p/c15127904fda) |
 | Fri, 25 Jul 2025 11:12:01 GMT | A common myth persists: to have a secure browser, you must tolerate slower speeds and heavy… | Psylinks Announce | [Read More](https://medium.com/p/ce18bab34c1c) |
 | Fri, 25 Jul 2025 11:11:38 GMT | Invention of printing | Ali Raza | [Read More](https://medium.com/p/6934b3934683) |
+| Fri, 25 Jul 2025 11:10:21 GMT | Siber Güvenlikte Log Takibi Neden Bu Kadar Önemlidir? | Seval Gürbüz | [Read More](https://medium.com/p/59b2d3983e2e) |
 | Fri, 25 Jul 2025 11:06:28 GMT | This Week in Cybersecurity: CISA KEV Additions and Intensified Threat Campaigns | Loginsoft | [Read More](https://medium.com/p/285ba9b8fef8) |
 | Fri, 25 Jul 2025 11:01:51 GMT | What’s Changing in the HIPAA Security Rule — and How to Prepare Your Security Stack | Feroot Security | [Read More](https://medium.com/p/657a416ff817) |
 | Fri, 25 Jul 2025 11:01:51 GMT | ✋ No More Spoilers: Locking Down FastAPI Against IDOR | Raúl Ereño | [Read More](https://medium.com/p/7a939ad2c988) |
@@ -105,11 +113,3 @@ Want to know who’s… | Kumarsmagic | [Read More](https://medium.com/p/5f0da6c
 | Fri, 25 Jul 2025 06:50:22 GMT | Certified Digital Democracy and Blockchain Revenue and Customs with International Model (Blueprint) | Dr Francesco Dergano | [Read More](https://medium.com/p/5c0c1dcdad8d) |
 | Fri, 25 Jul 2025 06:49:00 GMT | DownUnderCTF 2025 — rocky (Reverse Engineering) | codebreaker | [Read More](https://medium.com/p/9e6e05ca0d56) |
 | Fri, 25 Jul 2025 06:44:33 GMT | Reflected XSS Exploitation: My First Hands-On Attack! | Alok Kumar | [Read More](https://medium.com/p/8a0950fc266f) |
-| Fri, 25 Jul 2025 06:41:17 GMT | Fix It Once, Debug It Forever — When Your Bugfix Becomes a Horror Franchise | Kavya's Programming Path | [Read More](https://medium.com/p/1887fccecb89) |
-| Fri, 25 Jul 2025 06:38:00 GMT | Professional Email ID : Simplified | Arnab Biswas | [Read More](https://medium.com/p/08103df85ca9) |
-| Fri, 25 Jul 2025 06:30:52 GMT | Why “Thinking Technology”? | AYŞE KIZILAY | [Read More](https://medium.com/p/d9b18db79581) |
-| Fri, 25 Jul 2025 06:29:07 GMT | The Growing Importance of Security Guard Securityin India’s Evolving Safety Landscape | Ciss India | [Read More](https://medium.com/p/7634df2742be) |
-| Fri, 25 Jul 2025 06:27:35 GMT | My Fitness Tracker Led Hackers Straight to My Door | Aj | [Read More](https://medium.com/p/51e1260a360a) |
-| Fri, 25 Jul 2025 06:26:25 GMT | Amazon Q Nearly Hacked by Prompt Injection — What It Means for the Future of AI Coding Security | Ted Rogers | [Read More](https://medium.com/p/3be3448a7756) |
-| Fri, 25 Jul 2025 06:23:18 GMT | The Cybersecurity Mirage: Why You’re Not As Safe As You Think | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/fe8d01ab081a) |
-| Fri, 25 Jul 2025 06:16:52 GMT | My Love to HACK | Shiyas ps | [Read More](https://medium.com/p/d4bba2e64fc3) |
