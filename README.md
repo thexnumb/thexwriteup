@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 07:39:00 GMT | How I Discovered Critical WordPress Vulnerabilities: A Real-World Case Study | Zubair Usman | [Read More](https://medium.com/p/e5e41c47fb14) |
+| Fri, 25 Jul 2025 07:37:33 GMT | The Middle East has rapidly adopted digital | Gauravinsightss | [Read More](https://medium.com/p/16b03882989f) |
+| Fri, 25 Jul 2025 07:29:36 GMT | You Can’t Improve What You Can’t Prove: Fixing the Cybersecurity Evidence Gap | Rue | [Read More](https://medium.com/p/d98c05c59d4f) |
+| Fri, 25 Jul 2025 07:26:50 GMT | 5 quick rules to protect your inbox, identity, and peace of mind | Cloudbric VPN | [Read More](https://medium.com/p/f07826f34015) |
+| Fri, 25 Jul 2025 07:25:41 GMT | My Journey to the CEH Practical v12 | Francesco Pastore | [Read More](https://medium.com/p/bd8a85c22742) |
+| Fri, 25 Jul 2025 07:25:29 GMT | Top Cyber Security Jobs You Can Get Without a Degree | Sanchitamishra | [Read More](https://medium.com/p/98c647b7a304) |
+| Fri, 25 Jul 2025 07:24:34 GMT | Querying Like a Pro in Arkime: Getting the Most Out of Arkime Viewer: Beyond the Basics | Dean | [Read More](https://medium.com/p/4452dce482e4) |
 | Fri, 25 Jul 2025 07:24:16 GMT | DPIIT and BIS: Your Essential Guide to Succeeding in the Indian Market | Maiervidornoaltios | [Read More](https://medium.com/p/4d1c5daecab9) |
+| Fri, 25 Jul 2025 07:23:00 GMT | How to Keep Your Fintech App Secure in 2025 | UniRidge | [Read More](https://medium.com/p/339b9c49e65d) |
 | Fri, 25 Jul 2025 07:20:57 GMT | Gift payment 7,000 USDT Blockchain Trc20 for you u can use ( Okx walllet — Safepal wallet — Tron… | Joelle luxer | [Read More](https://medium.com/p/38f892971b18) |
 | Fri, 25 Jul 2025 07:19:28 GMT | OverTheWire-Bandit Walkthrough(Vietnamese)(Tiếng Việt) Level 0 => Level 20 | Vinh Luong | [Read More](https://medium.com/p/59e92383a5bd) |
 | Fri, 25 Jul 2025 07:18:01 GMT | Inside the APK: Reverse Engineering Mobile Apps Like a Spy (No Phone Needed) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8d2d13a86eb5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 23:14:30 GMT | The Single Point of Failure: Hw One Microsoft Vulnerability Exposed the Fragility of Digital… | The Daily Reflection | [Read More](https://medium.com/p/ea8fc0674010) |
 | Thu, 24 Jul 2025 23:13:04 GMT | The Perils of Mobile Devices: Protecting Your Data in a Remote Work World | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d73cefc32836) |
 | Thu, 24 Jul 2025 23:07:41 GMT | ,   ! ️ | Visual Monitoring Solutions | [Read More](https://medium.com/p/423c9d65b8b3) |
-| Thu, 24 Jul 2025 23:01:15 GMT | Day 59: Why is Cybersecurity so hard? | Nile Okomo | [Read More](https://medium.com/p/00b57cf736a6) |
-| Thu, 24 Jul 2025 22:59:16 GMT | The mirror that we run away from | Whitney Fakolade | [Read More](https://medium.com/p/5341aefd7578) |
-| Thu, 24 Jul 2025 22:57:38 GMT | Dead Apps, Live Threats: How Abandoned Mobile Apps Are Still Stealing Data | Akshay Chauhan | [Read More](https://medium.com/p/e1852047a9cd) |
-| Thu, 24 Jul 2025 22:48:10 GMT | ¡¡Mi introducción a Linux — Un camino hacia la libertad tecnológica | Zeyled Nazey | [Read More](https://medium.com/p/7fbef4bf7707) |
-| Thu, 24 Jul 2025 22:40:07 GMT | Construction Security Guard in Dallas Texas | Twin City Security Dallas | [Read More](https://medium.com/p/d0760e9fc521) |
-| Thu, 24 Jul 2025 22:31:48 GMT | ALLSIGNS2PWNAGE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/73cf842c0106) |
-| Thu, 24 Jul 2025 22:28:01 GMT | A Deep Dive into a Critical Vulnerability in Clockwork | 0vulns | [Read More](https://medium.com/p/f68ddb5ec48c) |
-| Thu, 24 Jul 2025 22:27:31 GMT | Handling Sensitive Data in LLM Agents: A Security-First Approach | Velu Sankaran | [Read More](https://medium.com/p/2e64b1bf9cc5) |
