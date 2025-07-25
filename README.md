@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 16:43:02 GMT | Global SharePoint Server Hack Escalates as Ransomware Joins Cyber-Espionage Campaign. | eL Njas!™ | [Read More](https://medium.com/p/25d7c3d6dc85) |
+| Fri, 25 Jul 2025 16:42:07 GMT | OpenCTI Setup: Integrating MITRE, AbuseIPDB, AlienVault & RSS Feeds for Threat Intelligence | Hariharan | [Read More](https://medium.com/p/ac0c559169b2) |
+| Fri, 25 Jul 2025 16:41:48 GMT | Plaintext, Encoding, Hashing & Encryption – Explained with examples | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/95cebd880eb0) |
+| Fri, 25 Jul 2025 16:41:01 GMT | ️ SubDNS-UI: Build Your Own Subdomain + DNS Enumerator with a Clean UI and Markdown Reporting | Rajkumar Kumawat | [Read More](https://medium.com/p/b560724d505a) |
+| Fri, 25 Jul 2025 16:39:52 GMT | Cybersecurity News Review — Week 30 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/8f31ad4a64ed) |
+| Fri, 25 Jul 2025 16:38:39 GMT | About Me | Jose Hernandez | [Read More](https://medium.com/p/3b2d53016d87) |
+| Fri, 25 Jul 2025 16:35:25 GMT | TRAI and RBI Launch Digital Consent Pilot to Curb Spam Calls in India: What It Means for You | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/e26375913d66) |
 | Fri, 25 Jul 2025 16:17:16 GMT | Downgrading FIDO: How Attackers Are Exploiting Cross-Device Sign-In to Phish Secure Accounts | _Anirudh_ | [Read More](https://medium.com/p/74df24b5717f) |
 | Fri, 25 Jul 2025 16:13:03 GMT | How I hacked Income Tax Website | Adwait Gawade | [Read More](https://medium.com/p/94094671e51f) |
 | Fri, 25 Jul 2025 16:09:33 GMT | Level Up Your App Security: Meet the OWASP ASVS Assessment Tool | Tanmay Bhattacharjee | [Read More](https://medium.com/p/6dfe657d6d2f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 12:05:54 GMT | Zero-Day Exploits: Just Pull the Plug and It’s All Fixed… Right? | Yuksel | [Read More](https://medium.com/p/0d5a0bb1f247) |
 | Fri, 25 Jul 2025 12:03:07 GMT | Wallet security : the underrated skill | ARIJIT ROY | [Read More](https://medium.com/p/cadb16f4c6b8) |
 | Fri, 25 Jul 2025 12:00:00 GMT | A classic story of Blind IDOR | xploiterr | [Read More](https://medium.com/p/1e2b02bf0996) |
-| Fri, 25 Jul 2025 11:55:28 GMT | The entrepreneurial journey is akin to navigating uncharted waters, The startup ecosystem is a… | Concentics Private Limited | [Read More](https://medium.com/p/09457c3a0e31) |
-| Fri, 25 Jul 2025 11:48:57 GMT | One Inspection by Axontec Can Prevent a Lifetime of Regret | Berkshire Hathaway | [Read More](https://medium.com/p/b60bd0eae7ab) |
-| Fri, 25 Jul 2025 11:46:44 GMT | The First Place Enterprises Should Look in Network Security: Segmentation and Visibility | Yuksel | [Read More](https://medium.com/p/74b9e7ddbd37) |
-| Fri, 25 Jul 2025 11:41:20 GMT | What Is ISO 27701 Compliance and Why Is It Important for Data Privacy | Deepti Bansal | [Read More](https://medium.com/p/fc64821a12a2) |
-| Fri, 25 Jul 2025 11:31:50 GMT | Day 54 of #60DaysofGRC: Sampling Methodologies | Brittney Ginther | [Read More](https://medium.com/p/fd798d489996) |
-| Fri, 25 Jul 2025 11:30:34 GMT | Introduction to Information Security Certifications | Dhanashri Bhale | [Read More](https://medium.com/p/bd381ea1f9bd) |
-| Fri, 25 Jul 2025 11:30:24 GMT | The Strength to Be Soft | Aveline Wingfield | [Read More](https://medium.com/p/5f7463e95b13) |
