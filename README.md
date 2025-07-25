@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 20:12:55 GMT | UK Proposes Ransomware Payment Ban for Public Sector | Matthew.Rosenquist | [Read More](https://medium.com/p/7f5031ae5fcc) |
+| Fri, 25 Jul 2025 20:01:48 GMT | How We Secured A Vibe-Coded App: Real Fixes for Real Vulnerabilities | Ravi Khurana | [Read More](https://medium.com/p/104a7d9b4284) |
+| Fri, 25 Jul 2025 20:00:55 GMT | Cybercrime among young people is rapidly increasing, driven by poverty, peer pressure, and the… | Abisolakaf | [Read More](https://medium.com/p/55011905112e) |
+| Fri, 25 Jul 2025 20:00:51 GMT | Mobile Money Meets Crypto: Why Rally's Hybrid Model Works | Echelon Prime | [Read More](https://medium.com/p/d8919ee3b8c2) |
+| Fri, 25 Jul 2025 20:00:48 GMT | How I Found and Exploited a Critical Remote Code Execution in OpenSSH (CVE-2024–6387) Using Shodan… | MostReal | [Read More](https://medium.com/p/172b8535f53d) |
+| Fri, 25 Jul 2025 20:00:34 GMT | The Prophylactic and the Remedial | Above The Firewall | [Read More](https://medium.com/p/7b5d411366b4) |
+| Fri, 25 Jul 2025 19:57:51 GMT | ️ How I Found an Unauthenticated GraphQL Data Exposure and got 0$ for it | 77r4sed | [Read More](https://medium.com/p/edfb07bf72a8) |
+| Fri, 25 Jul 2025 19:51:39 GMT | Hacker Watches What He Wants For Free. Hacking Netflix Pt.2 - Bug Bounty Tour #4 | NnFace | [Read More](https://medium.com/p/1c029997d8e2) |
+| Fri, 25 Jul 2025 19:48:31 GMT | Private Sector Intelligence and the Cyber Threat Intelligence Maturity Model | Michael Lortz | [Read More](https://medium.com/p/239f25785d43) |
+| Fri, 25 Jul 2025 19:44:55 GMT | I found Information Disclosure in VFS-GLOBAL | Raghul L | [Read More](https://medium.com/p/30cc1a8c541d) |
+| Fri, 25 Jul 2025 19:44:54 GMT | Crypto Custody 101: Hot Wallets vs Cold Wallets vs Exchanges | Generational Wealth | [Read More](https://medium.com/p/08e44e520de9) |
+| Fri, 25 Jul 2025 19:42:37 GMT | System Enumeration: How Attackers Map Your Environment Before Striking | Iqra baba | [Read More](https://medium.com/p/6561c7a51f9f) |
+| Fri, 25 Jul 2025 19:41:54 GMT | Reverse Engineering for Bugs Part 1- How I discovered my 1st 0day in Windows | Mahmoud NourEldin | [Read More](https://medium.com/p/42516e75e9b6) |
+| Fri, 25 Jul 2025 19:35:46 GMT | Europe’s OSS Security Deficit: Quantifying the €160 Billion Threat to Digital Sovereignty | Mind-Front | [Read More](https://medium.com/p/4783c8deaced) |
 | Fri, 25 Jul 2025 19:31:18 GMT | ️ Top 10 Web App Attack Vectors You Must Master in 2025 | SAMAEL 0x4 | [Read More](https://medium.com/p/bcdd1e507223) |
 | Fri, 25 Jul 2025 19:28:49 GMT | My Path to Security: A Hands-on Series | Habeebullah Olaosebikan | [Read More](https://medium.com/p/197e7dcb1bf7) |
 | Fri, 25 Jul 2025 19:25:12 GMT | ISO27031:2025 — Nouvelle version pour continuité informatique | Patrick Boucher | [Read More](https://medium.com/p/cdd68ea8c8a6) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 14:52:36 GMT | Stop Guessing and Start Knowing: Why SentryPC Is the Ultimate Monitoring & Control Software for… | Paul Meyer | [Read More](https://medium.com/p/b170cde68937) |
 | Fri, 25 Jul 2025 14:45:39 GMT | Why Do I Keep Running? | Susu | [Read More](https://medium.com/p/3c71df8333c1) |
 | Fri, 25 Jul 2025 14:35:35 GMT | Urgent Warning for Organizations: Interlock Ransomware Attacks | IT_Engineer | [Read More](https://medium.com/p/f50387f6775d) |
-| Fri, 25 Jul 2025 14:24:08 GMT | Secure Collaboration at Scale: Share Sensitive Data with No User Limit | Ewyatt | [Read More](https://medium.com/p/116b69d9aa80) |
-| Fri, 25 Jul 2025 14:21:14 GMT | Penetration Testing on demo.testfire.net — A Hands-On Lab in Ethical Hacking | Aum Vipul | [Read More](https://medium.com/p/84c962d82025) |
-| Fri, 25 Jul 2025 14:17:52 GMT | How I Went from Guest to Admin in 5 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/a39f6335834d) |
-| Fri, 25 Jul 2025 14:15:35 GMT | London Bridge – Writeup | Aadi Jamadar | [Read More](https://medium.com/p/e74f7461efe4) |
-| Fri, 25 Jul 2025 14:14:00 GMT | Bug Bounty Is Fun Until You Get a P1 Duplicate | Chip | [Read More](https://medium.com/p/91b2e336498f) |
-| Fri, 25 Jul 2025 14:08:50 GMT | Digging Deeper into Windows Forensics: TryHackMe’s Windows Forensics 2 Room | Furkanctiner | [Read More](https://medium.com/p/ed34f70b6e0d) |
-| Fri, 25 Jul 2025 14:02:43 GMT | “The System Has Determined That Was a Lie” | Anka | [Read More](https://medium.com/p/8638c3d3be9f) |
-| Fri, 25 Jul 2025 14:02:42 GMT | ️ Tribal Leadership and Infosec: Building Strong Tribes in a World of Digital Threats | MrGood | [Read More](https://medium.com/p/4e45fe60eca1) |
-| Fri, 25 Jul 2025 14:02:37 GMT | Cyber Briefing: 2025.07.25 | CyberMaterial | [Read More](https://medium.com/p/52cc3c97c1d2) |
-| Fri, 25 Jul 2025 14:02:21 GMT | Common Bug in Calculate: Understanding omitempty and Integer Division in Go | mobin shaterian | [Read More](https://medium.com/p/d8c5b8da86a1) |
-| Fri, 25 Jul 2025 13:56:24 GMT | Harvest Exclusive BNTY Through Bounty's Distribution Fiesta | Bounty | [Read More](https://medium.com/p/20480f50a599) |
-| Fri, 25 Jul 2025 13:55:46 GMT | Oski Lab - Guide — CyberDefenders | Johnathonsiganoff | [Read More](https://medium.com/p/46e726f267c2) |
-| Fri, 25 Jul 2025 13:55:31 GMT | Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | CypherNova1337 | [Read More](https://medium.com/p/45303d5c7208) |
-| Fri, 25 Jul 2025 13:47:45 GMT | From Clicks to Cognition: The Romantic Rise of Agentic Software | Prakhar | [Read More](https://medium.com/p/12dece6b48a2) |
