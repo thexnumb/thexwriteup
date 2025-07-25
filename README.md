@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 17:32:18 GMT | Insider Threat Detection to Prevent Employee-Driven Breaches | SafeAeon Inc. | [Read More](https://medium.com/p/6dce53a244d8) |
+| Fri, 25 Jul 2025 17:24:19 GMT | Advanced XSS Bypass Payloads When <script>, alert(), and prompt() Are Blocked | Kalireddipalli | [Read More](https://medium.com/p/6454946f9b6d) |
+| Fri, 25 Jul 2025 17:15:29 GMT | Frugal Cloud Security: Enforcing Trusted Ingress with AWS WAF and Cloudflare: Why and How | Devam Desai | [Read More](https://medium.com/p/cb99de6aeb08) |
 | Fri, 25 Jul 2025 17:09:40 GMT | The tool that gave me the first bounty | mohaned alkhlot | [Read More](https://medium.com/p/9303cac972a3) |
 | Fri, 25 Jul 2025 17:09:24 GMT | picoCTF — Verify | Robby firdauzy | [Read More](https://medium.com/p/4dde4b071ae4) |
 | Fri, 25 Jul 2025 17:06:33 GMT | Amazon Prime Scam Alert | Eina Schroeder | [Read More](https://medium.com/p/4d614a811806) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 12:18:30 GMT | Coordinating Cyber Defense: Project Management in Cybersecurity Teams | Christopher Udoka | [Read More](https://medium.com/p/e7e039633372) |
 | Fri, 25 Jul 2025 12:16:47 GMT | Recon Solana Announces Token Surge: Get RECON Today | Recon Solana | [Read More](https://medium.com/p/f9e03adf0832) |
 | Fri, 25 Jul 2025 12:15:14 GMT | DC-3 Walkthrough — My OSCP Journey Continues (Sorry for the Delay ) | DataDefender | [Read More](https://medium.com/p/ee8d9cd2e8c5) |
-| Fri, 25 Jul 2025 12:14:56 GMT | Wallet security : the underrated skill | ARIJIT ROY | [Read More](https://medium.com/p/cd4d845a03ba) |
-| Fri, 25 Jul 2025 12:13:44 GMT | The Importance of Penetration Testing in Compliance | Steve Splash | [Read More](https://medium.com/p/c982dbc4a3e5) |
-| Fri, 25 Jul 2025 12:12:12 GMT | What are security and privacy by design services? | Ziya Zoe | [Read More](https://medium.com/p/af2028570345) |
