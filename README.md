@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 05:47:18 GMT | If Microsoft Can Be Breached, What About You? | Finstein.ai | [Read More](https://medium.com/p/85a4ed1d445a) |
+| Fri, 25 Jul 2025 05:46:18 GMT | How to Recover a Frozen Bank Account in India | OLC Agra | [Read More](https://medium.com/p/a425b9449549) |
+| Fri, 25 Jul 2025 05:44:30 GMT | How to Reduce Fraud on Your Website Using LeakRadar.io | Alexandre Vandamme | [Read More](https://medium.com/p/15dba82673e1) |
+| Fri, 25 Jul 2025 05:39:17 GMT | Why Test Management Matters More Than You Think (A Tester’s POV) | Kavitha Rajagopal | [Read More](https://medium.com/p/2a1d8b1a3888) |
+| Fri, 25 Jul 2025 05:38:33 GMT | The Last Time You’ll Ever Use a Password | Saurabh Jain | [Read More](https://medium.com/p/fd36ef314883) |
+| Fri, 25 Jul 2025 05:26:58 GMT | Why Proactive Threat Hunting Matters? | Ash | [Read More](https://medium.com/p/951586b25518) |
+| Fri, 25 Jul 2025 05:21:48 GMT | Hunt Down Cyber Threats: A Guide to Proactive Cybersecurity | Saikrishna | [Read More](https://medium.com/p/0caea8bbe531) |
 | Fri, 25 Jul 2025 05:11:59 GMT | Drosera Network: Weaving a Decentralized Security Network for Ethereum | Chidrexx | [Read More](https://medium.com/p/acce88048a46) |
 | Fri, 25 Jul 2025 05:11:54 GMT | Top Reasons to Choose B.Voc in Cybersecurity and Digital Forensics | Edept | [Read More](https://medium.com/p/dd399edb1928) |
 | Fri, 25 Jul 2025 04:53:28 GMT | Zero Trust Network Security By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/a74a010b657b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 20:02:29 GMT | The Fall of XSS.is: Inside the Major Takedown of a Russian-Speaking Cybercrime Forum | Mohammed Muneef | [Read More](https://medium.com/p/242956607902) |
 | Thu, 24 Jul 2025 19:55:39 GMT | Surviving the IT Job Market in Morocco: a journey that I never expected | MeerKat | [Read More](https://medium.com/p/5e833f49188f) |
 | Thu, 24 Jul 2025 19:53:33 GMT | En Yaygın Siber Saldırı Türleri-4 | Melek | [Read More](https://medium.com/p/b86a5523875b) |
-| Thu, 24 Jul 2025 19:49:22 GMT | Overview: OWASP Mobile Top 10 (2024–2025) | AG_Notes | [Read More](https://medium.com/p/5da443d81d1f) |
-| Thu, 24 Jul 2025 19:46:51 GMT | Como o Zabbix pode ajudar na segurança dos ambientes Linux e Windows | tsleite | [Read More](https://medium.com/p/a1c1071f0768) |
-| Thu, 24 Jul 2025 19:35:08 GMT | We All Live in Shells – But What Happens When We Step Outside Them? | Polly BN | [Read More](https://medium.com/p/c3dec63e1117) |
-| Thu, 24 Jul 2025 19:33:22 GMT | How Agentic AI Will Reshape Cybersecurity Teams by 2028 | Taimur Ijlal | [Read More](https://medium.com/p/d472426f615c) |
-| Thu, 24 Jul 2025 19:21:07 GMT | From Zero to Code: How to Prepare Your Laptop for Coding in 2025 | Ejete Blessing | [Read More](https://medium.com/p/cdaec21cc96f) |
-| Thu, 24 Jul 2025 19:16:11 GMT | From Co-Pilot to Spy: Why Your AI Assistant Might Be the Next Big Security Threat | Spencer Thomason | [Read More](https://medium.com/p/b4c2dd80dd96) |
-| Thu, 24 Jul 2025 19:12:39 GMT | Google Warns: Open Source Supply Chain Security at Risk | Dogli Wilberforce | [Read More](https://medium.com/p/8e1c8e1b2cf3) |
