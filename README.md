@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 22:16:59 GMT | Securing Remote Access: VPN vs. Zero‑Trust Alternatives | Karthikeyan Nagaraj | [Read More](https://medium.com/p/eb42f1e0cdb1) |
+| Fri, 25 Jul 2025 22:07:03 GMT | 7 Common Types of Phishing Scams (And How to Spot Them Before It’s Too Late) | Timonéofearth | [Read More](https://medium.com/p/bc9a2bd51600) |
+| Fri, 25 Jul 2025 22:04:36 GMT | السيادة الرقمية تبدأ من النواة | Khaled Ibn El-Walid SOUANE | [Read More](https://medium.com/p/1742439c9761) |
+| Fri, 25 Jul 2025 22:02:29 GMT | Série “App na Cloud”: Ep 1 — Autenticação no Azure com Casos de Uso em um Blob Storage | Osvaldo Ferreira Alves | [Read More](https://medium.com/p/0aa439e1aa3a) |
+| Fri, 25 Jul 2025 22:01:50 GMT | Here’s the Tea — Insecure Design Doxes Hundreds of Women | akacipher | [Read More](https://medium.com/p/da4dda398c90) |
+| Fri, 25 Jul 2025 21:59:40 GMT | NIST CSF 2.0: A Comprehensive Guide to the New Govern‑Centered Cybersecurity Framework | Samara Almursi Risha | [Read More](https://medium.com/p/f6ea0e67cce1) |
+| Fri, 25 Jul 2025 21:49:39 GMT | Securing AWS Bedrock Generative AI workloads within a VPC using VPC Interface Endpoints in… | Collin Smith | [Read More](https://medium.com/p/91614c801dfc) |
+| Fri, 25 Jul 2025 21:39:25 GMT | Why Bitchat Is a Bad Idea: (My Audit Found Critical Zero-Days) | Saad Khalid | [Read More](https://medium.com/p/1b126a45a2c5) |
+| Fri, 25 Jul 2025 21:37:47 GMT | Setting up a WSUS Server on the Domain Controller | 3Graces CC | [Read More](https://medium.com/p/60bba9792978) |
 | Fri, 25 Jul 2025 21:32:12 GMT | Debilidades | Sara Reinero | [Read More](https://medium.com/p/99e3ae3296ff) |
 | Fri, 25 Jul 2025 21:28:50 GMT | Who is Shivinaa? What is Shoresh’d? | Shivinaa | [Read More](https://medium.com/p/4ea3a3f5967c) |
 | Fri, 25 Jul 2025 21:28:37 GMT | Is XBOW Replacing Cybersecurity Professionals? The Truth Behind the AI Hacker Taking Over HackerOne | Ghulam Mohiuddin | [Read More](https://medium.com/p/7f5f38d78153) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 15:57:51 GMT | Linux Antivirus:My Deep Dive into ClamAV, Bitdefender & ESET | Demianchuk Sergii | [Read More](https://medium.com/p/6fa2c9d9142b) |
 | Fri, 25 Jul 2025 15:50:06 GMT | My Instagram Business Account Was Hacked! | Insha Javed | [Read More](https://medium.com/p/2eed9c08e95b) |
 | Fri, 25 Jul 2025 15:46:58 GMT | Remote Work’s Hidden Cost: How Distributed Teams Broke the Security Model | Eric Zietlow | [Read More](https://medium.com/p/565e6dbeaba7) |
-| Fri, 25 Jul 2025 15:39:09 GMT | Linux Privilege Escalation — TryHackMe | notfo | [Read More](https://medium.com/p/812681d8c4a8) |
-| Fri, 25 Jul 2025 15:34:35 GMT | Yara dan Sigma Rules pada Cyber Security | DzakySN | [Read More](https://medium.com/p/900ea0647ca4) |
-| Fri, 25 Jul 2025 15:34:20 GMT | Discover Top Local Businesses Effortlessly with List & Post | List and Post | [Read More](https://medium.com/p/f08be13165a2) |
-| Fri, 25 Jul 2025 15:33:06 GMT | Digital Doppelgängers: Why AI Agents Demand a New Identity Framework | Clearprüf | [Read More](https://medium.com/p/e63d3f40965c) |
-| Fri, 25 Jul 2025 15:31:10 GMT | What is Physical Security? | Liam Truth | [Read More](https://medium.com/p/453195714a60) |
-| Fri, 25 Jul 2025 15:29:37 GMT | DHCP: How Devices Get Their IP Address | Ifeoma Nwokeoma | [Read More](https://medium.com/p/ff04fb0d8ea2) |
-| Fri, 25 Jul 2025 15:27:28 GMT | Smart Home Basics: Which Amazon Security Gadget Is Right for You | Nexora Nest | [Read More](https://medium.com/p/0fde122aec67) |
-| Fri, 25 Jul 2025 15:26:40 GMT | Securing PHP in the Age of AI Robots | Roman Huliak | [Read More](https://medium.com/p/f9c23c8a6e49) |
-| Fri, 25 Jul 2025 15:24:40 GMT | BingX, Aave Repay Adapter, Nexera, and 0xf2…48 Compromised for Over $100M via Wallet Breaches… | Olympix | [Read More](https://medium.com/p/d08579ba34f4) |
