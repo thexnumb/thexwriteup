@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 19:16:42 GMT | Hypervisor Intrusions: UNC3944’s Campaign Against VMware vSphere | RealSec.io | [Read More](https://medium.com/p/9b3f79820117) |
+| Fri, 25 Jul 2025 19:14:14 GMT | How I Found Over 30 Security Vulnerabilities in a Single Program | Samet Yiğit | [Read More](https://medium.com/p/64642ab2df72) |
+| Fri, 25 Jul 2025 19:12:06 GMT | Guide: Grab BUG During the Upcoming Reward Rain | Bug | [Read More](https://medium.com/p/cc867ca23d89) |
+| Fri, 25 Jul 2025 19:05:50 GMT | A Letter to My Scammer: The weight of Small Betrayals | Ajay Kumar Raja | [Read More](https://medium.com/p/8dfefa639bec) |
+| Fri, 25 Jul 2025 18:49:52 GMT | 10 Mind-Blowing Google Dorks You Should Use in 2025 | SAMAEL 0x4 | [Read More](https://medium.com/p/6b761875a27f) |
+| Fri, 25 Jul 2025 18:49:37 GMT | JavaScript Security in 2025: Defending Against Advanced Threats | Navanath Jadhav | [Read More](https://medium.com/p/795e36a24559) |
+| Fri, 25 Jul 2025 18:49:27 GMT | NoSQL Injection: Exploitation Techniques and Attack Scenarios | Het Patel | [Read More](https://medium.com/p/434ebec61dbd) |
+| Fri, 25 Jul 2025 18:47:47 GMT | AI in Logistics Software Development-Overview | Nigam Raval | [Read More](https://medium.com/p/96233836bf70) |
+| Fri, 25 Jul 2025 18:47:12 GMT | Client-Side Mayhem: My Hands-On Experience Hacking Smart Home Interfaces with JavaScript | Maximilian Oliver | [Read More](https://medium.com/p/a8ddbf35a970) |
+| Fri, 25 Jul 2025 18:43:45 GMT | How to optimize and secure Django? | XO Aria | [Read More](https://medium.com/p/f2629126af4a) |
+| Fri, 25 Jul 2025 18:38:00 GMT | Mandatory UK Government Cybersecurity Certification: Cyber Essentials Scheme | Dr Francesco Dergano | [Read More](https://medium.com/p/f1dcd39f63e8) |
+| Fri, 25 Jul 2025 18:37:47 GMT | CTF Friday Overtime- TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/4d1e5f7e9bac) |
+| Fri, 25 Jul 2025 18:36:50 GMT | DAY 25 — Chapter 13: Becoming Secure and Anonymous in a Tracked World | Jinay | [Read More](https://medium.com/p/f376df382c37) |
+| Fri, 25 Jul 2025 18:34:57 GMT | The Quiet War Inside Your Wi-Fi Router | Akshay Chauhan | [Read More](https://medium.com/p/bd587975ce0c) |
+| Fri, 25 Jul 2025 18:32:04 GMT | The Future of Commercial Perimeter Security: Smart Fencing and Real-Time Alerts | DEFEND MY BUSINESS | [Read More](https://medium.com/p/f2522be00ab2) |
+| Fri, 25 Jul 2025 18:31:49 GMT | Built It. Obfuscated It. Now What? Securing Your Python Tool After Deployment | Rue | [Read More](https://medium.com/p/e2fe12b21b3b) |
+| Fri, 25 Jul 2025 18:31:40 GMT | Best Parental Monitoring Spy Apps to Track Your Child’s Phone Usage | Narjis Batool | [Read More](https://medium.com/p/334e393e1006) |
+| Fri, 25 Jul 2025 18:24:22 GMT | eJPT Zero to Hero: Exploitation CTF 2 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/428fb7e2a7f9) |
+| Fri, 25 Jul 2025 18:21:39 GMT | Putin’s Digital Disaster | Leo Griffin | [Read More](https://medium.com/p/0faa69fc27aa) |
+| Fri, 25 Jul 2025 18:21:10 GMT | How to Integrate a Commercial Perimeter Security System with Access Control | DEFEND MY BUSINESS | [Read More](https://medium.com/p/604fee80dea2) |
 | Fri, 25 Jul 2025 18:15:21 GMT | “Cybersecurity Isn’t About Tools. It’s About Pressure.” | Mimi Jae TheLightOfZen (and more) | [Read More](https://medium.com/p/e20f1e407379) |
 | Fri, 25 Jul 2025 18:07:36 GMT | Cybersecurity as Poetry | Rue | [Read More](https://medium.com/p/72f78c7a66b5) |
 | Fri, 25 Jul 2025 18:05:46 GMT | Empowering India’s Digital Backbone: The Story of Cnergee Technologies | Falgun jadhav | [Read More](https://medium.com/p/f27f68e4e489) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 13:35:32 GMT | Pentesting — WEB- 1 | Prabhjeetsingh | [Read More](https://medium.com/p/d2bc08cc6512) |
 | Fri, 25 Jul 2025 13:34:48 GMT | The Day My Photos Were Held Hostage | Aj | [Read More](https://medium.com/p/3ab81b40a8e3) |
 | Fri, 25 Jul 2025 13:32:18 GMT | ️‍♂️Windows Forensics Guide: From User Behavior to Malware Traces | Furkanctiner | [Read More](https://medium.com/p/f935d01ece91) |
-| Fri, 25 Jul 2025 13:30:48 GMT | “The Girl Who Feared Her Calm: A Story Of Silent Chaos” | @Lil.Moonx | [Read More](https://medium.com/p/a9f2d53d4214) |
-| Fri, 25 Jul 2025 13:27:04 GMT | How Project Managers Work with Cybersecurity Teams | Matthewdada | [Read More](https://medium.com/p/e850babab121) |
-| Fri, 25 Jul 2025 13:23:51 GMT | Pivoting Techniques | Hydsec | [Read More](https://medium.com/p/8f1df1f3d919) |
-| Fri, 25 Jul 2025 13:19:08 GMT | Online Privacy in 2025 — A Safer Future or a Digital Minefield? | Olatunde Aboaba | [Read More](https://medium.com/p/8e3738a327f5) |
-| Fri, 25 Jul 2025 13:15:52 GMT | Hypervisor Hijack: Pen Tester’s Breakdown of the VMware vSphere Breach. | Inforsecpro | [Read More](https://medium.com/p/eb35620b150b) |
-| Fri, 25 Jul 2025 13:12:49 GMT | Hidden Risk Behind Every Input Field. | Rabia Riaz | [Read More](https://medium.com/p/5c9f9ff33e14) |
-| Fri, 25 Jul 2025 13:12:33 GMT | Hunt Me I: Payment Collectors TryHackMe Room | Krishna | [Read More](https://medium.com/p/c1989757cdaa) |
-| Fri, 25 Jul 2025 13:03:23 GMT | SOCFortres5: The Invisible Click — How a Silent Social Engineering Tactic Is Outsmarting Your… | Darshan | [Read More](https://medium.com/p/b0f7b87896b7) |
-| Fri, 25 Jul 2025 13:00:47 GMT | SOCFortres5: When Silence Breaks — The Cyberattack That Breached America’s Nuclear Watchdog | Darshan | [Read More](https://medium.com/p/b6d1734e17aa) |
-| Fri, 25 Jul 2025 12:59:47 GMT | Web Security Academy Lab Walk-Through: Username Enumeration via Different Responses. | George Ibrahim | [Read More](https://medium.com/p/d854b793b09e) |
-| Fri, 25 Jul 2025 12:57:44 GMT | AI-Powered Cyberattacks: How Hackers Are Using Machine Learning and How to Defend Against It | Steve Splash | [Read More](https://medium.com/p/18af9a123093) |
-| Fri, 25 Jul 2025 12:57:44 GMT | From Permission Audits to Automated Revocation: Fighting Ghost OAuth Grants in the Cloud - Notion | Roberto D'Andrea | [Read More](https://medium.com/p/29ed247c8115) |
-| Fri, 25 Jul 2025 12:56:20 GMT | Best Online Colleges for MBA in Information Technology | Ankitasgupta | [Read More](https://medium.com/p/8de7e7aa5b53) |
-| Fri, 25 Jul 2025 12:54:46 GMT | Quantum Passwords: How Physics Could Finally Solve Cybersecurity’s Biggest Problem | Iliya Garakh | [Read More](https://medium.com/p/a83d31e58922) |
-| Fri, 25 Jul 2025 12:54:35 GMT | Day 12 of 100 Days of DevOps: Troubleshooting Apache Not Reachable on Custom Port (5004) | Damian Ogedengbe | [Read More](https://medium.com/p/56a3f6fbb882) |
-| Fri, 25 Jul 2025 12:51:33 GMT | The Ultimate Recon Toolkit for Bug Bounty Hunters (2025 Edition) | Krish_cyber | [Read More](https://medium.com/p/406065a86c16) |
-| Fri, 25 Jul 2025 12:43:34 GMT | Popular npm Packages Hijacked — Prettier-ESLint & is: Here is What You Need to Know (July 17, 2025) | Brez | [Read More](https://medium.com/p/e4c8765eac7d) |
-| Fri, 25 Jul 2025 12:36:01 GMT | Threat Intelligence Feed Integrations and Automations in the SOC ️ | Esra Kayhan | [Read More](https://medium.com/p/f1eda34aa65f) |
-| Fri, 25 Jul 2025 12:35:55 GMT | Learning to Share Myself | Pascale Bouchard | [Read More](https://medium.com/p/27a9b387ea7e) |
-| Fri, 25 Jul 2025 12:31:01 GMT | ️ I Investigate Crypto Scams — Here’s What Victims Should Know | Derrick M Langston | [Read More](https://medium.com/p/a903680a0c92) |
