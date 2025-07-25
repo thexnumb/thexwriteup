@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 20:38:45 GMT | New Types of Hacking: IDOR Attacks Evolved | The OSINT Edge | [Read More](https://medium.com/p/ce556e25572e) |
+| Fri, 25 Jul 2025 20:31:50 GMT | Zero-Trust Architecture: Programming Security from Day One | Let's code | [Read More](https://medium.com/p/cee092f62cc9) |
+| Fri, 25 Jul 2025 20:29:56 GMT | Cybersecurity Certifications: Milestones, Not Endpoints | James Wright | [Read More](https://medium.com/p/5eb601b60b25) |
+| Fri, 25 Jul 2025 20:29:27 GMT | CTF Walkthrough: Fly | Jonathan M. | [Read More](https://medium.com/p/3b33ed7dfb0d) |
 | Fri, 25 Jul 2025 20:12:55 GMT | UK Proposes Ransomware Payment Ban for Public Sector | Matthew.Rosenquist | [Read More](https://medium.com/p/7f5031ae5fcc) |
 | Fri, 25 Jul 2025 20:01:48 GMT | How We Secured A Vibe-Coded App: Real Fixes for Real Vulnerabilities | Ravi Khurana | [Read More](https://medium.com/p/104a7d9b4284) |
 | Fri, 25 Jul 2025 20:00:55 GMT | Cybercrime among young people is rapidly increasing, driven by poverty, peer pressure, and the… | Abisolakaf | [Read More](https://medium.com/p/55011905112e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 15:01:19 GMT | Solving PortSwigger’s Authentication Lab: 7 Key Steps Using Kali Linux and Burp Suite | Shehroz Ahmed Khan | [Read More](https://medium.com/p/32cf24fea6cc) |
 | Fri, 25 Jul 2025 15:00:31 GMT | How to Start Your Journey in Tech: A Guide for Beginners | Abdulbasit Lukman | [Read More](https://medium.com/p/5721eea68faa) |
 | Fri, 25 Jul 2025 14:53:47 GMT | From Logs to Intelligence: Practical Threat Hunting with QRadar | Santhosh Kumar | [Read More](https://medium.com/p/6946a45c0b7d) |
-| Fri, 25 Jul 2025 14:52:46 GMT | Why Even the Smallest Security Tasks Should Never Be Postponed | Pavel Perevozchikov | [Read More](https://medium.com/p/57f285bb96cf) |
-| Fri, 25 Jul 2025 14:52:36 GMT | Stop Guessing and Start Knowing: Why SentryPC Is the Ultimate Monitoring & Control Software for… | Paul Meyer | [Read More](https://medium.com/p/b170cde68937) |
-| Fri, 25 Jul 2025 14:45:39 GMT | Why Do I Keep Running? | Susu | [Read More](https://medium.com/p/3c71df8333c1) |
-| Fri, 25 Jul 2025 14:35:35 GMT | Urgent Warning for Organizations: Interlock Ransomware Attacks | IT_Engineer | [Read More](https://medium.com/p/f50387f6775d) |
