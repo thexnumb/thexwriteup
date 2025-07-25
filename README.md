@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 19:31:18 GMT | ️ Top 10 Web App Attack Vectors You Must Master in 2025 | SAMAEL 0x4 | [Read More](https://medium.com/p/bcdd1e507223) |
+| Fri, 25 Jul 2025 19:28:49 GMT | My Path to Security: A Hands-on Series | Habeebullah Olaosebikan | [Read More](https://medium.com/p/197e7dcb1bf7) |
+| Fri, 25 Jul 2025 19:25:12 GMT | ISO27031:2025 — Nouvelle version pour continuité informatique | Patrick Boucher | [Read More](https://medium.com/p/cdd68ea8c8a6) |
+| Fri, 25 Jul 2025 19:24:47 GMT | Cracking an MD5 Hash with a Custom Dictionary Attack in Kali Linux | LobaMegaTON | [Read More](https://medium.com/p/94e93756b987) |
 | Fri, 25 Jul 2025 19:16:42 GMT | Hypervisor Intrusions: UNC3944’s Campaign Against VMware vSphere | RealSec.io | [Read More](https://medium.com/p/9b3f79820117) |
 | Fri, 25 Jul 2025 19:14:14 GMT | How I Found Over 30 Security Vulnerabilities in a Single Program | Samet Yiğit | [Read More](https://medium.com/p/64642ab2df72) |
+| Fri, 25 Jul 2025 19:13:04 GMT | Eyes in the Sky: AI and the Drone Revolution | Angelo Sorte | [Read More](https://medium.com/p/d6b972abaae7) |
+| Fri, 25 Jul 2025 19:13:01 GMT | Viral App Tea — Hacked | STARK | [Read More](https://medium.com/p/8f4d1f879084) |
 | Fri, 25 Jul 2025 19:12:06 GMT | Guide: Grab BUG During the Upcoming Reward Rain | Bug | [Read More](https://medium.com/p/cc867ca23d89) |
+| Fri, 25 Jul 2025 19:09:59 GMT | 10 Red Team Tools That Belong in Every Hacker’s Arsenal | SAMAEL 0x4 | [Read More](https://medium.com/p/3e37fdaaf167) |
 | Fri, 25 Jul 2025 19:05:50 GMT | A Letter to My Scammer: The weight of Small Betrayals | Ajay Kumar Raja | [Read More](https://medium.com/p/8dfefa639bec) |
 | Fri, 25 Jul 2025 18:49:52 GMT | 10 Mind-Blowing Google Dorks You Should Use in 2025 | SAMAEL 0x4 | [Read More](https://medium.com/p/6b761875a27f) |
 | Fri, 25 Jul 2025 18:49:37 GMT | JavaScript Security in 2025: Defending Against Advanced Threats | Navanath Jadhav | [Read More](https://medium.com/p/795e36a24559) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 13:55:46 GMT | Oski Lab - Guide — CyberDefenders | Johnathonsiganoff | [Read More](https://medium.com/p/46e726f267c2) |
 | Fri, 25 Jul 2025 13:55:31 GMT | Unveiling a Covert Redirect: The Unicode Vulnerability in Whoop.com’s Infrastructure | CypherNova1337 | [Read More](https://medium.com/p/45303d5c7208) |
 | Fri, 25 Jul 2025 13:47:45 GMT | From Clicks to Cognition: The Romantic Rise of Agentic Software | Prakhar | [Read More](https://medium.com/p/12dece6b48a2) |
-| Fri, 25 Jul 2025 13:45:22 GMT | Penetration Testing /Bug Bounty — WEB- 3 | Prabhjeetsingh | [Read More](https://medium.com/p/3c1c6b965580) |
-| Fri, 25 Jul 2025 13:41:45 GMT | Artificial Super Intelligence | Sangeeta Singh | [Read More](https://medium.com/p/d4ead2a9786c) |
-| Fri, 25 Jul 2025 13:40:52 GMT | Penetration Testing /Bug Bounty— WEB- 2 | Prabhjeetsingh | [Read More](https://medium.com/p/2dc78ef583ce) |
-| Fri, 25 Jul 2025 13:36:46 GMT | Torch Wallet Security Research | Rinat Khasanshin | [Read More](https://medium.com/p/ad4e8a6953b9) |
-| Fri, 25 Jul 2025 13:35:32 GMT | Pentesting — WEB- 1 | Prabhjeetsingh | [Read More](https://medium.com/p/d2bc08cc6512) |
-| Fri, 25 Jul 2025 13:34:48 GMT | The Day My Photos Were Held Hostage | Aj | [Read More](https://medium.com/p/3ab81b40a8e3) |
-| Fri, 25 Jul 2025 13:32:18 GMT | ️‍♂️Windows Forensics Guide: From User Behavior to Malware Traces | Furkanctiner | [Read More](https://medium.com/p/f935d01ece91) |
