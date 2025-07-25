@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 10:23:33 GMT | Exploiting SSRF via Cloudflare Image Proxy on [REDACTED] | @Sauravkrish | [Read More](https://medium.com/p/a32aeb8e6b8c) |
+| Fri, 25 Jul 2025 10:18:34 GMT | CargoTalon Exposed: Inside the Red‑Team Playbook of Aerospace Espionage | Pentestjunkie07 | [Read More](https://medium.com/p/375279ee4e84) |
+| Fri, 25 Jul 2025 10:18:30 GMT | Why Your Business Needs Regular Penetration Testing — Before Hackers Strike | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/8cd1b88ee2cf) |
+| Fri, 25 Jul 2025 10:16:16 GMT | Elmo X Account Hack Highlights Gaps in Social Media Security | SafetyDetectives Research Team | [Read More](https://medium.com/p/c6992834bb04) |
+| Fri, 25 Jul 2025 10:13:56 GMT | Microsoft SharePoint Vulnerability Under Active Exploitation, CISA Confirms | SafetyDetectives Research Team | [Read More](https://medium.com/p/507599ea2df3) |
+| Fri, 25 Jul 2025 10:13:56 GMT | Windows Event Log Analysis for Blue Team: Mastering Enterprise Threat Detection | Zrhmz | [Read More](https://medium.com/p/a1541a2232bc) |
+| Fri, 25 Jul 2025 10:12:01 GMT | Why Trading Terminal Apps Are Becoming the New Power Tools of Modern Traders | LogiClump Technologies | [Read More](https://medium.com/p/18e8de649b1f) |
+| Fri, 25 Jul 2025 09:58:48 GMT | With Oil and Vinegar, Have Some MAYO | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/dde2ab5ef70a) |
+| Fri, 25 Jul 2025 09:58:00 GMT | Unzip and Detonate: How One Upload Can Break the Filesystem | Narendar Battula (nArEn) | [Read More](https://medium.com/p/601ef62def4a) |
+| Fri, 25 Jul 2025 09:56:12 GMT | Day 61: More Nmap | Nile Okomo | [Read More](https://medium.com/p/45f059621edc) |
+| Fri, 25 Jul 2025 09:55:22 GMT | ️So You Think You Know the Internet? Wait Till You Meet Its Secret Sides | JahdiSec | [Read More](https://medium.com/p/11b2ab5ca720) |
+| Fri, 25 Jul 2025 09:52:33 GMT | The Great Divide: High Octane vs. Lackadaisical Laggards in Information Technology | Namir Sagheenanajar | [Read More](https://medium.com/p/e8c4206c827b) |
+| Fri, 25 Jul 2025 09:51:09 GMT | How I Made $820 in Bug Bounties as a Total Beginner | Rashadul Islam | [Read More](https://medium.com/p/1cd7f7cbae3e) |
+| Fri, 25 Jul 2025 09:51:09 GMT | Why Choosing the Right Cyber Security Provider Matters More Than Ever in 2025 | Hardwin Software (Solutions) | [Read More](https://medium.com/p/db3c8e3b7423) |
 | Fri, 25 Jul 2025 09:47:54 GMT | ️ From Subdomain to Subjugation: The 2025 Recon Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/673439fc5510) |
+| Fri, 25 Jul 2025 09:47:11 GMT | Cyber Hope Help Initiative Foundation — Building a Safer Digital India | Akshaya Mary Lingala | [Read More](https://medium.com/p/2054f2dbf6f1) |
+| Fri, 25 Jul 2025 09:46:45 GMT | 當 SharePoint 成為破口：從鏈式 RCE 攻擊看企業資安防線的脆弱點 | Kevin Wang | [Read More](https://medium.com/p/a1bf8883359e) |
 | Fri, 25 Jul 2025 09:37:55 GMT | New Chaos Ransomware Campaigns Leveraging Social Engineering | Geethu_Giri | [Read More](https://medium.com/p/55ee15584d98) |
 | Fri, 25 Jul 2025 09:33:20 GMT | The Hidden Danger Behind Downloading Porn Videos: A Malware Trap in Disguise | Sarviya | [Read More](https://medium.com/p/50cae2e4ab1a) |
 | Fri, 25 Jul 2025 09:31:42 GMT | Detecting and Classifying Cyberattacks with Machine Learning | Arshathhaq | [Read More](https://medium.com/p/2f560855a0f6) |
@@ -97,19 +113,3 @@ Want to know who’s… | Kumarsmagic | [Read More](https://medium.com/p/5f0da6c
 | Fri, 25 Jul 2025 05:21:48 GMT | Hunt Down Cyber Threats: A Guide to Proactive Cybersecurity | Saikrishna | [Read More](https://medium.com/p/0caea8bbe531) |
 | Fri, 25 Jul 2025 05:11:59 GMT | Drosera Network: Weaving a Decentralized Security Network for Ethereum | Chidrexx | [Read More](https://medium.com/p/acce88048a46) |
 | Fri, 25 Jul 2025 05:11:54 GMT | Top Reasons to Choose B.Voc in Cybersecurity and Digital Forensics | Edept | [Read More](https://medium.com/p/dd399edb1928) |
-| Fri, 25 Jul 2025 04:53:28 GMT | Zero Trust Network Security By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/a74a010b657b) |
-| Fri, 25 Jul 2025 04:49:57 GMT | Before I Write a Single Line of Code: My Personal Security Checklist Every Developer Should Have | Harry Zhou | [Read More](https://medium.com/p/a87d07f2c444) |
-| Fri, 25 Jul 2025 04:48:49 GMT | The Vital Role of a Security Guard in Modern Society | Stateguard Protective Services | [Read More](https://medium.com/p/f39d0bbe072a) |
-| Fri, 25 Jul 2025 04:39:12 GMT | 2. Network Security | unknownman | [Read More](https://medium.com/p/fc27c0c08ccf) |
-| Fri, 25 Jul 2025 04:27:11 GMT | Day 11- Firewalls, SIEM tools & event Correlation For absolute beginners | unica 02 | [Read More](https://medium.com/p/f3ecfa111919) |
-| Fri, 25 Jul 2025 04:19:04 GMT | 5 Security Design Mistakes I See Again and Again | Christina Irick | [Read More](https://medium.com/p/1629c820535a) |
-| Fri, 25 Jul 2025 04:06:35 GMT | Cara Mengetes Kekuatan Password Kamu Secara Aman | Iklil Daris | [Read More](https://medium.com/p/086936f4ba64) |
-| Fri, 25 Jul 2025 04:04:58 GMT | The Deepfake Heist Playbook: Inside 2025’s $46 Million AI Crime Wave — and the Quiet Heroes… | R. Thompson (PhD) | [Read More](https://medium.com/p/f105ecb83a8d) |
-| Fri, 25 Jul 2025 03:59:59 GMT | Your Attack Surface Is a Jungle — And It’s Eating You Alive | Paritosh | [Read More](https://medium.com/p/a07465bbebc7) |
-| Fri, 25 Jul 2025 03:58:04 GMT | PJPT vs PNPT: A Practical Comparison of two Awesome Certifications | Crashwire | [Read More](https://medium.com/p/de30de0a4018) |
-| Fri, 25 Jul 2025 03:55:11 GMT | The Convenient Lie We’ve All Mastered | Alma | [Read More](https://medium.com/p/47cf2ddadf60) |
-| Fri, 25 Jul 2025 03:43:14 GMT | Apusic Server RCE via File Upload and Path Traversal (Exploit Confirmed) | AerieWhole123 | [Read More](https://medium.com/p/5b7e1ded3211) |
-| Fri, 25 Jul 2025 03:39:01 GMT | China’s Quantum Move Just Shook Global Cybersecurity — Here’s Why It Matters | Bobby Andrews | [Read More](https://medium.com/p/8170116c11f9) |
-| Fri, 25 Jul 2025 03:37:43 GMT | Routing-Based SSRF  —  Host Header Injection Leads to Internal Access | Bash Overflow | [Read More](https://medium.com/p/b65a1c8b1b42) |
-| Fri, 25 Jul 2025 03:36:48 GMT | I Watched a Hacker Crack a Password in 2 Minutes. Here’s What I Learned. | Tools Online | [Read More](https://medium.com/p/32a01ef66e59) |
-| Fri, 25 Jul 2025 03:31:03 GMT | How I Discovered a Critical Security Flaw - Unauthenticated File Download via Public File URL | Blue_eye | [Read More](https://medium.com/p/ac49d53c1cda) |
