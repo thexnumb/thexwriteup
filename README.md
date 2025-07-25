@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 16:17:16 GMT | Downgrading FIDO: How Attackers Are Exploiting Cross-Device Sign-In to Phish Secure Accounts | _Anirudh_ | [Read More](https://medium.com/p/74df24b5717f) |
+| Fri, 25 Jul 2025 16:13:03 GMT | How I hacked Income Tax Website | Adwait Gawade | [Read More](https://medium.com/p/94094671e51f) |
+| Fri, 25 Jul 2025 16:09:33 GMT | Level Up Your App Security: Meet the OWASP ASVS Assessment Tool | Tanmay Bhattacharjee | [Read More](https://medium.com/p/6dfe657d6d2f) |
+| Fri, 25 Jul 2025 16:05:26 GMT | A Warning from 1979-And Why It’s Still Not Too Late to Listen. | Gitika Babbar | [Read More](https://medium.com/p/dfa51466c65d) |
+| Fri, 25 Jul 2025 16:03:29 GMT | Through Their Eyes: Am I Who They Say I Am | Jessica Mae Sustiguer Devera | [Read More](https://medium.com/p/7358e1ed5e30) |
+| Fri, 25 Jul 2025 16:02:19 GMT | The Cybersecurity Talent Shortage: Challenges and Solutions | Xaltius | [Read More](https://medium.com/p/1ff1c1488feb) |
+| Fri, 25 Jul 2025 16:00:34 GMT | My First Medium Write-Up: Critical IDOR in a City’s Public Transport System (Accepted + Hall of… | Amarendra Prakash | [Read More](https://medium.com/p/3431a5d86115) |
+| Fri, 25 Jul 2025 15:57:51 GMT | Linux Antivirus:My Deep Dive into ClamAV, Bitdefender & ESET | Demianchuk Sergii | [Read More](https://medium.com/p/6fa2c9d9142b) |
+| Fri, 25 Jul 2025 15:50:06 GMT | My Instagram Business Account Was Hacked! | Insha Javed | [Read More](https://medium.com/p/2eed9c08e95b) |
+| Fri, 25 Jul 2025 15:46:58 GMT | Remote Work’s Hidden Cost: How Distributed Teams Broke the Security Model | Eric Zietlow | [Read More](https://medium.com/p/565e6dbeaba7) |
 | Fri, 25 Jul 2025 15:39:09 GMT | Linux Privilege Escalation — TryHackMe | notfo | [Read More](https://medium.com/p/812681d8c4a8) |
+| Fri, 25 Jul 2025 15:34:35 GMT | Yara dan Sigma Rules pada Cyber Security | DzakySN | [Read More](https://medium.com/p/900ea0647ca4) |
 | Fri, 25 Jul 2025 15:34:20 GMT | Discover Top Local Businesses Effortlessly with List & Post | List and Post | [Read More](https://medium.com/p/f08be13165a2) |
+| Fri, 25 Jul 2025 15:33:06 GMT | Digital Doppelgängers: Why AI Agents Demand a New Identity Framework | Clearprüf | [Read More](https://medium.com/p/e63d3f40965c) |
 | Fri, 25 Jul 2025 15:31:10 GMT | What is Physical Security? | Liam Truth | [Read More](https://medium.com/p/453195714a60) |
 | Fri, 25 Jul 2025 15:29:37 GMT | DHCP: How Devices Get Their IP Address | Ifeoma Nwokeoma | [Read More](https://medium.com/p/ff04fb0d8ea2) |
 | Fri, 25 Jul 2025 15:27:28 GMT | Smart Home Basics: Which Amazon Security Gadget Is Right for You | Nexora Nest | [Read More](https://medium.com/p/0fde122aec67) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 11:31:50 GMT | Day 54 of #60DaysofGRC: Sampling Methodologies | Brittney Ginther | [Read More](https://medium.com/p/fd798d489996) |
 | Fri, 25 Jul 2025 11:30:34 GMT | Introduction to Information Security Certifications | Dhanashri Bhale | [Read More](https://medium.com/p/bd381ea1f9bd) |
 | Fri, 25 Jul 2025 11:30:24 GMT | The Strength to Be Soft | Aveline Wingfield | [Read More](https://medium.com/p/5f7463e95b13) |
-| Fri, 25 Jul 2025 11:27:31 GMT | XSS and CSRF — A Full Kill Chain | MahmoudKroush | [Read More](https://medium.com/p/4606e435dacb) |
-| Fri, 25 Jul 2025 11:25:11 GMT | Secury™: Revolutionizing Supply Chain Transparency for a Trusted Future. | Secury | [Read More](https://medium.com/p/ccbb46b6d1b4) |
-| Fri, 25 Jul 2025 11:24:51 GMT | Social Engineering Attacks: Cybersecurity’s Weakest Link and How to Defend Against Them | RzaAlasgarli | [Read More](https://medium.com/p/57b318867f97) |
-| Fri, 25 Jul 2025 11:24:04 GMT | What Is Flash USDT? Know Before You're Tricked | Hoce | [Read More](https://medium.com/p/1bd7bc224177) |
-| Fri, 25 Jul 2025 11:12:16 GMT | How to Protect Your SMB from Rising Cybersecurity Threats | tommy reed | [Read More](https://medium.com/p/c15127904fda) |
-| Fri, 25 Jul 2025 11:12:01 GMT | A common myth persists: to have a secure browser, you must tolerate slower speeds and heavy… | Psylinks Announce | [Read More](https://medium.com/p/ce18bab34c1c) |
-| Fri, 25 Jul 2025 11:11:38 GMT | Invention of printing | Ali Raza | [Read More](https://medium.com/p/6934b3934683) |
-| Fri, 25 Jul 2025 11:10:21 GMT | Siber Güvenlikte Log Takibi Neden Bu Kadar Önemlidir? | Seval Gürbüz | [Read More](https://medium.com/p/59b2d3983e2e) |
-| Fri, 25 Jul 2025 11:06:28 GMT | This Week in Cybersecurity: CISA KEV Additions and Intensified Threat Campaigns | Loginsoft | [Read More](https://medium.com/p/285ba9b8fef8) |
-| Fri, 25 Jul 2025 11:01:51 GMT | What’s Changing in the HIPAA Security Rule — and How to Prepare Your Security Stack | Feroot Security | [Read More](https://medium.com/p/657a416ff817) |
-| Fri, 25 Jul 2025 11:01:51 GMT | ✋ No More Spoilers: Locking Down FastAPI Against IDOR | Raúl Ereño | [Read More](https://medium.com/p/7a939ad2c988) |
-| Fri, 25 Jul 2025 10:52:00 GMT | AI Wars | Mark King | [Read More](https://medium.com/p/4cdb9902f7a7) |
