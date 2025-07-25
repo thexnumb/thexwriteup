@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 23:02:27 GMT | ISO 27001 vs. SOC 2: Which Should Your Organization Prioritize? | Raphael P. | [Read More](https://medium.com/p/91417af11dc1) |
 | Fri, 25 Jul 2025 22:35:27 GMT | Top 5 Scams Targeting Seasoned Adults This Summer | Elizabeth Ndungu | [Read More](https://medium.com/p/f9c94d0d6da6) |
 | Fri, 25 Jul 2025 22:34:13 GMT | Docker Zero to Hero For Hackers: A Practical Guide for Cybersecurity Enthusiasts | Hidden Investigations | [Read More](https://medium.com/p/480b90ec45ba) |
 | Fri, 25 Jul 2025 22:27:29 GMT | DORK Announces Reward Drop: Collect DORK Today | DORK | [Read More](https://medium.com/p/1b9e390027a4) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 16:09:33 GMT | Level Up Your App Security: Meet the OWASP ASVS Assessment Tool | Tanmay Bhattacharjee | [Read More](https://medium.com/p/6dfe657d6d2f) |
 | Fri, 25 Jul 2025 16:05:26 GMT | A Warning from 1979-And Why It’s Still Not Too Late to Listen. | Gitika Babbar | [Read More](https://medium.com/p/dfa51466c65d) |
 | Fri, 25 Jul 2025 16:03:29 GMT | Through Their Eyes: Am I Who They Say I Am | Jessica Mae Sustiguer Devera | [Read More](https://medium.com/p/7358e1ed5e30) |
-| Fri, 25 Jul 2025 16:02:19 GMT | The Cybersecurity Talent Shortage: Challenges and Solutions | Xaltius | [Read More](https://medium.com/p/1ff1c1488feb) |
