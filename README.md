@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 15:16:30 GMT | Return of Browser-Based Cryptojacking: 3,500+ Websites Compromised in Global JavaScript Miner… | _Anirudh_ | [Read More](https://medium.com/p/0397da39b6de) |
+| Fri, 25 Jul 2025 15:03:13 GMT | Looking back at the Cursor and Github Co-pilot invisible exploit | Kaamil Mirza | [Read More](https://medium.com/p/4be00493b53d) |
+| Fri, 25 Jul 2025 15:01:19 GMT | Solving PortSwigger’s Authentication Lab: 7 Key Steps Using Kali Linux and Burp Suite | Shehroz Ahmed Khan | [Read More](https://medium.com/p/32cf24fea6cc) |
+| Fri, 25 Jul 2025 15:00:31 GMT | How to Start Your Journey in Tech: A Guide for Beginners | Abdulbasit Lukman | [Read More](https://medium.com/p/5721eea68faa) |
+| Fri, 25 Jul 2025 14:53:47 GMT | From Logs to Intelligence: Practical Threat Hunting with QRadar | Santhosh Kumar | [Read More](https://medium.com/p/6946a45c0b7d) |
+| Fri, 25 Jul 2025 14:52:46 GMT | Why Even the Smallest Security Tasks Should Never Be Postponed | Pavel Perevozchikov | [Read More](https://medium.com/p/57f285bb96cf) |
+| Fri, 25 Jul 2025 14:52:36 GMT | Stop Guessing and Start Knowing: Why SentryPC Is the Ultimate Monitoring & Control Software for… | Paul Meyer | [Read More](https://medium.com/p/b170cde68937) |
+| Fri, 25 Jul 2025 14:45:39 GMT | Why Do I Keep Running? | Susu | [Read More](https://medium.com/p/3c71df8333c1) |
 | Fri, 25 Jul 2025 14:35:35 GMT | Urgent Warning for Organizations: Interlock Ransomware Attacks | IT_Engineer | [Read More](https://medium.com/p/f50387f6775d) |
 | Fri, 25 Jul 2025 14:24:08 GMT | Secure Collaboration at Scale: Share Sensitive Data with No User Limit | Ewyatt | [Read More](https://medium.com/p/116b69d9aa80) |
 | Fri, 25 Jul 2025 14:21:14 GMT | Penetration Testing on demo.testfire.net — A Hands-On Lab in Ethical Hacking | Aum Vipul | [Read More](https://medium.com/p/84c962d82025) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 10:23:33 GMT | Exploiting SSRF via Cloudflare Image Proxy on [REDACTED] | @Sauravkrish | [Read More](https://medium.com/p/a32aeb8e6b8c) |
 | Fri, 25 Jul 2025 10:18:54 GMT | Crypto Hacking Is Evolving, So Are We. Why Efani and Tangem Teamed Up to Protect U.S. Investors | Haris Nadeem | [Read More](https://medium.com/p/a8b2dd963ce6) |
 | Fri, 25 Jul 2025 10:18:34 GMT | CargoTalon Exposed: Inside the Red‑Team Playbook of Aerospace Espionage | Pentestjunkie07 | [Read More](https://medium.com/p/375279ee4e84) |
-| Fri, 25 Jul 2025 10:18:30 GMT | Why Your Business Needs Regular Penetration Testing — Before Hackers Strike | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/8cd1b88ee2cf) |
-| Fri, 25 Jul 2025 10:16:16 GMT | Elmo X Account Hack Highlights Gaps in Social Media Security | SafetyDetectives Research Team | [Read More](https://medium.com/p/c6992834bb04) |
-| Fri, 25 Jul 2025 10:13:56 GMT | Microsoft SharePoint Vulnerability Under Active Exploitation, CISA Confirms | SafetyDetectives Research Team | [Read More](https://medium.com/p/507599ea2df3) |
-| Fri, 25 Jul 2025 10:13:56 GMT | Windows Event Log Analysis for Blue Team: Mastering Enterprise Threat Detection | Zrhmz | [Read More](https://medium.com/p/a1541a2232bc) |
-| Fri, 25 Jul 2025 10:12:01 GMT | Why Trading Terminal Apps Are Becoming the New Power Tools of Modern Traders | LogiClump Technologies | [Read More](https://medium.com/p/18e8de649b1f) |
-| Fri, 25 Jul 2025 09:58:48 GMT | With Oil and Vinegar, Have Some MAYO | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/dde2ab5ef70a) |
-| Fri, 25 Jul 2025 09:58:00 GMT | Unzip and Detonate: How One Upload Can Break the Filesystem | Narendar Battula (nArEn) | [Read More](https://medium.com/p/601ef62def4a) |
-| Fri, 25 Jul 2025 09:56:12 GMT | Day 61: More Nmap | Nile Okomo | [Read More](https://medium.com/p/45f059621edc) |
