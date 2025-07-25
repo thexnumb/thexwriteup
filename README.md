@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 04:39:12 GMT | 2. Network Security | unknownman | [Read More](https://medium.com/p/fc27c0c08ccf) |
+| Fri, 25 Jul 2025 04:27:11 GMT | Day 11- Firewalls, SIEM tools & event Correlation For absolute beginners | unica 02 | [Read More](https://medium.com/p/f3ecfa111919) |
+| Fri, 25 Jul 2025 04:19:04 GMT | 5 Security Design Mistakes I See Again and Again | Christina Irick | [Read More](https://medium.com/p/1629c820535a) |
+| Fri, 25 Jul 2025 04:06:35 GMT | Cara Mengetes Kekuatan Password Kamu Secara Aman | Iklil Daris | [Read More](https://medium.com/p/086936f4ba64) |
+| Fri, 25 Jul 2025 04:04:58 GMT | The Deepfake Heist Playbook: Inside 2025’s $46 Million AI Crime Wave — and the Quiet Heroes… | R. Thompson (PhD) | [Read More](https://medium.com/p/f105ecb83a8d) |
+| Fri, 25 Jul 2025 03:59:59 GMT | Your Attack Surface Is a Jungle — And It’s Eating You Alive | Paritosh | [Read More](https://medium.com/p/a07465bbebc7) |
+| Fri, 25 Jul 2025 03:58:04 GMT | PJPT vs PNPT: A Practical Comparison of two Awesome Certifications | Crashwire | [Read More](https://medium.com/p/de30de0a4018) |
+| Fri, 25 Jul 2025 03:55:11 GMT | The Convenient Lie We’ve All Mastered | Alma | [Read More](https://medium.com/p/47cf2ddadf60) |
+| Fri, 25 Jul 2025 03:43:14 GMT | Apusic Server RCE via File Upload and Path Traversal (Exploit Confirmed) | AerieWhole123 | [Read More](https://medium.com/p/5b7e1ded3211) |
+| Fri, 25 Jul 2025 03:39:01 GMT | China’s Quantum Move Just Shook Global Cybersecurity — Here’s Why It Matters | Bobby Andrews | [Read More](https://medium.com/p/8170116c11f9) |
+| Fri, 25 Jul 2025 03:37:43 GMT | Routing-Based SSRF  —  Host Header Injection Leads to Internal Access | Bash Overflow | [Read More](https://medium.com/p/b65a1c8b1b42) |
 | Fri, 25 Jul 2025 03:36:48 GMT | I Watched a Hacker Crack a Password in 2 Minutes. Here’s What I Learned. | Tools Online | [Read More](https://medium.com/p/32a01ef66e59) |
 | Fri, 25 Jul 2025 03:31:03 GMT | How I Discovered a Critical Security Flaw - Unauthenticated File Download via Public File URL | Blue_eye | [Read More](https://medium.com/p/ac49d53c1cda) |
 | Fri, 25 Jul 2025 03:31:03 GMT | How to Audit a Ruby on Rails Application You Didn’t Build (Senior Dev Edition) | Ajey | [Read More](https://medium.com/p/90cd4cd67745) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Jul 2025 19:08:57 GMT | Comprehensive Guide to Linux Firewalls-2025 | Cybersectoworld | [Read More](https://medium.com/p/22957536ac8e) |
 | Thu, 24 Jul 2025 19:06:23 GMT | Is Your Email Safe? Discover How to Use an Email Breach Checker to Protect Your Data! | WeScan Journal | [Read More](https://medium.com/p/8c7de41ffbd4) |
 | Thu, 24 Jul 2025 18:49:19 GMT | Inside the GMX Exploit: When Modular Design Becomes an Attack Surface | Olympix | [Read More](https://medium.com/p/9a31baedd7b1) |
-| Thu, 24 Jul 2025 18:42:18 GMT | AWS- WAF on ALB tg on Instance | Mrunal Ugemuge | [Read More](https://medium.com/p/29fbeb8daab4) |
-| Thu, 24 Jul 2025 18:36:51 GMT | Books So Good, Hackers Want Them Banned | Aj | [Read More](https://medium.com/p/dcb51e92531f) |
-| Thu, 24 Jul 2025 18:34:58 GMT | Why Your Security Framework Needs a Methodology: Embracing SABSA in Enterprise Security | Rob Campbell | [Read More](https://medium.com/p/d27d8921141d) |
-| Thu, 24 Jul 2025 18:32:23 GMT | Tailgating Attack: The Physical Threat That Bypasses Cyber Defenses | SafeAeon Inc. | [Read More](https://medium.com/p/1f6d7b65382d) |
-| Thu, 24 Jul 2025 18:28:29 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU | Chiara Jakub | [Read More](https://medium.com/p/09b3644b60e3) |
-| Thu, 24 Jul 2025 18:27:56 GMT | 5 AI Tools to Enhance Cybersecurity | Amina Sani | [Read More](https://medium.com/p/e5e7eea7d0bb) |
-| Thu, 24 Jul 2025 18:21:26 GMT | Cloud Infrastructure Entitlement Management: Fixing the Access Chaos in the Cloud | SafeAeon Inc. | [Read More](https://medium.com/p/1c7c0bfd0659) |
-| Thu, 24 Jul 2025 18:13:52 GMT | What a Burglar Sees When They Look at Your House | SmarterHome.ai | [Read More](https://medium.com/p/6d571b496731) |
-| Thu, 24 Jul 2025 18:10:29 GMT | 802.1X Kimlik Doğrulama Sorunları ve Çözümleri — Detaylı Rehber ️ | Emre Koç | [Read More](https://medium.com/p/190a7f48f4f2) |
-| Thu, 24 Jul 2025 18:10:00 GMT | IoT Security Flaws: What I Learned From Hacking My First Router | Brenton McPherson | [Read More](https://medium.com/p/f87499b0d4ae) |
-| Thu, 24 Jul 2025 18:06:55 GMT | Top 5 Cyber Threats in 2025 and How to Prevent Them | Shieldnova | [Read More](https://medium.com/p/7a6b535de7a3) |
