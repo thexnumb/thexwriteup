@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 08:22:19 GMT | HackTheBox: Chemistry Writeup | Jad Ghamloush | [Read More](https://medium.com/p/d073d6764f65) |
+| Fri, 25 Jul 2025 08:19:33 GMT | Will Quantum Computing Break the Internet? | Niamh Wordcast — ✺ | [Read More](https://medium.com/p/5035f16c40b5) |
+| Fri, 25 Jul 2025 08:19:27 GMT | Find Private IPs of Connected Wi-Fi Users Using Termux (2025 Updated Method)
+Want to know who’s… | Kumarsmagic | [Read More](https://medium.com/p/5f0da6c477c4) |
+| Fri, 25 Jul 2025 08:16:19 GMT | Access Denied Subdomain Bypass | SIDDHANT SHUKLA | [Read More](https://medium.com/p/178c2717fad9) |
+| Fri, 25 Jul 2025 08:09:21 GMT | How Traditional Antivirus works and why are they outdated | Guruvijey | [Read More](https://medium.com/p/2832d32308aa) |
+| Fri, 25 Jul 2025 08:09:18 GMT | The Secret Language That Keeps AI in Check | DragonWarriorCodes | [Read More](https://medium.com/p/7e6b3b21ad30) |
+| Fri, 25 Jul 2025 08:02:41 GMT | Cyber Security Defend — Arkime (Moloch) Network Monitoring Part1 Docker Compose Deployment | Tony Fu - OSCP, BTL1, AWS x 3 | [Read More](https://medium.com/p/aba07338bfad) |
+| Fri, 25 Jul 2025 07:57:05 GMT | The Daily Tech Digest: 25 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/44fc61e67739) |
+| Fri, 25 Jul 2025 07:56:07 GMT | What is negative SEO? And how to prevent, detect, and recover from it. | Insight Hub | [Read More](https://medium.com/p/d0de9ff0f558) |
+| Fri, 25 Jul 2025 07:55:16 GMT | Best Cybercrime Security Company In India — CyberKanun | Amit solanki | [Read More](https://medium.com/p/e653a262915d) |
+| Fri, 25 Jul 2025 07:52:46 GMT | From DevOps to Cybersecurity: My Journey into Offensive Security and Practical Learning | Gleb Wam | [Read More](https://medium.com/p/f09b260b247d) |
+| Fri, 25 Jul 2025 07:49:35 GMT | Getting an .ipa file without Jailbreak | Shibin B Shaji | [Read More](https://medium.com/p/04c6ce22baa0) |
+| Fri, 25 Jul 2025 07:47:16 GMT | Stop Hackers in Their Tracks | Emotions | [Read More](https://medium.com/p/3f20a1fa1d86) |
+| Fri, 25 Jul 2025 07:47:07 GMT | Authentication, Evolved: Why MFA Matters More Than Ever | Ketan Polawar | [Read More](https://medium.com/p/ebe2c3e653a5) |
+| Fri, 25 Jul 2025 07:44:15 GMT | SIEM : Graylog Implementation | Mohdtasleem | [Read More](https://medium.com/p/0b036dc06d0c) |
 | Fri, 25 Jul 2025 07:39:00 GMT | How I Discovered Critical WordPress Vulnerabilities: A Real-World Case Study | Zubair Usman | [Read More](https://medium.com/p/e5e41c47fb14) |
 | Fri, 25 Jul 2025 07:37:33 GMT | The Middle East has rapidly adopted digital | Gauravinsightss | [Read More](https://medium.com/p/16b03882989f) |
+| Fri, 25 Jul 2025 07:33:05 GMT | How to Upload Images in UploadThing Using a Custom React Component | MD Samrose | [Read More](https://medium.com/p/4c7e61c590aa) |
 | Fri, 25 Jul 2025 07:29:36 GMT | You Can’t Improve What You Can’t Prove: Fixing the Cybersecurity Evidence Gap | Rue | [Read More](https://medium.com/p/d98c05c59d4f) |
 | Fri, 25 Jul 2025 07:26:50 GMT | 5 quick rules to protect your inbox, identity, and peace of mind | Cloudbric VPN | [Read More](https://medium.com/p/f07826f34015) |
 | Fri, 25 Jul 2025 07:25:41 GMT | My Journey to the CEH Practical v12 | Francesco Pastore | [Read More](https://medium.com/p/bd8a85c22742) |
@@ -82,6 +99,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 03:14:17 GMT | Recalling An Article About North Korea And Its Unheard Strategy of Maintaining & Increasing Its… | Deondre Waltenberger | [Read More](https://medium.com/p/5c119c886c3b) |
 | Fri, 25 Jul 2025 03:01:51 GMT | U.S., Japan, Australia Forge Deep Military Ties Amid China’s Pacific Expansion | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/aa2bccfcb7d2) |
 | Fri, 25 Jul 2025 02:51:54 GMT | A Messy Revelation: How I Came Out as a Kinky Husband | Bjørn Jørgensen | [Read More](https://medium.com/p/5a51b2a07ae5) |
+| Fri, 25 Jul 2025 02:40:37 GMT | Masa Depan AI, Big Data, dan Cybersecurity: Apakah Kamu Siap? | Rifadeta | [Read More](https://medium.com/p/71ef3307f637) |
 | Fri, 25 Jul 2025 02:27:48 GMT | TryHackMe Include (Medium) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/b7fd3cc78916) |
 | Fri, 25 Jul 2025 02:23:14 GMT | When Politics Dictates AI: Why Trust, Safety, and Data Privacy Must Stay Non-Negotiable | Kim Chandler McDonald | [Read More](https://medium.com/p/5ac8e39fbb6c) |
 | Fri, 25 Jul 2025 02:13:14 GMT | Inside an AI-Powered Phishing Attack: How It Works and How to Stop It | Victor Lees | [Read More](https://medium.com/p/3598f131d9ea) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 01:02:34 GMT | Cybersecurity Outsourcing Services to Safeguard Your Digital Ecosystem | Magellan Solutions | [Read More](https://medium.com/p/1fb8f7929596) |
 | Fri, 25 Jul 2025 01:02:10 GMT | Zero Trust Security Ne Demek? Geleneksel Güvenliğin Sonu | FatihUYSAL | [Read More](https://medium.com/p/02d64d1a901e) |
 | Fri, 25 Jul 2025 00:48:21 GMT | ️ Pentest Nedir? Nasıl Yapılır? Derinlemesine Sızma Testi Rehberi (2025) | FatihUYSAL | [Read More](https://medium.com/p/9eae70324cff) |
-| Fri, 25 Jul 2025 00:42:42 GMT | Day 60: Staying safe and organized | Nile Okomo | [Read More](https://medium.com/p/d4457f506188) |
-| Fri, 25 Jul 2025 00:36:13 GMT | These 10 Burp Extensions Changed the Way I Do Bug Bounties | Omar Mahmoud | [Read More](https://medium.com/p/54daf5b08b15) |
-| Fri, 25 Jul 2025 00:25:50 GMT | Active Directory Home Lab integrating PowerShell Project Write Up! | Luis Fernando Murillo | [Read More](https://medium.com/p/d0b24b485d0a) |
-| Fri, 25 Jul 2025 00:18:18 GMT | Unpacking the Bypass: Client-Side Premium Authentication Compromise in Truecaller’s Android… | CypherNova1337 | [Read More](https://medium.com/p/d7af697be07e) |
-| Fri, 25 Jul 2025 00:12:54 GMT | Stateful React JavaScript form fields through Redux data persistence and management | Joe Alongi | [Read More](https://medium.com/p/2f298aa914f6) |
-| Fri, 25 Jul 2025 00:09:55 GMT | The Future of Tech: Key Growth Sectors in Nigeria and Globally (2025-2030). | Muhammad Bello Ibrahim | [Read More](https://medium.com/p/ec235b03da5b) |
-| Fri, 25 Jul 2025 00:02:56 GMT | Vulnerable and Outdated Components (OWASP A06): Guía de Hacking y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/1a7daca12822) |
-| Thu, 24 Jul 2025 23:59:25 GMT | Cookies Aren’t Sweet Anymore: How Web Trackers Quietly Build Your Digital Identity | Akshay Chauhan | [Read More](https://medium.com/p/f838fb16f6f7) |
-| Thu, 24 Jul 2025 23:51:03 GMT | Hackviser — Apache CouchDB 1.7.0/2.x < 2.1.1 Remote Code Execution (CVE-2017–12636) | Dogukan İSPİRLİ | [Read More](https://medium.com/p/b10c42f10531) |
-| Thu, 24 Jul 2025 23:44:14 GMT | Computing and secure work habits for software development | Joe Alongi | [Read More](https://medium.com/p/4acde9570cf4) |
-| Thu, 24 Jul 2025 23:40:11 GMT | Your Personal Antivirus Against Deception ️ | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/b93d30904c8b) |
-| Thu, 24 Jul 2025 23:33:57 GMT | How I Chained 2FA Bypasses in a Crypto P2P System to Steal User USDT | 0xBartita | [Read More](https://medium.com/p/ed68ee078998) |
-| Thu, 24 Jul 2025 23:28:23 GMT | JavaScript Prototype Conundrum | Sagar Pandita | [Read More](https://medium.com/p/926b807ba72b) |
-| Thu, 24 Jul 2025 23:22:17 GMT | Tawana Mohammadi and the Philosophy of Stateless Code | Apo Miner | [Read More](https://medium.com/p/3b9d7f7914cc) |
-| Thu, 24 Jul 2025 23:14:30 GMT | The Single Point of Failure: Hw One Microsoft Vulnerability Exposed the Fragility of Digital… | The Daily Reflection | [Read More](https://medium.com/p/ea8fc0674010) |
-| Thu, 24 Jul 2025 23:13:04 GMT | The Perils of Mobile Devices: Protecting Your Data in a Remote Work World | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d73cefc32836) |
-| Thu, 24 Jul 2025 23:07:41 GMT | ,   ! ️ | Visual Monitoring Solutions | [Read More](https://medium.com/p/423c9d65b8b3) |
