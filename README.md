@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 13:30:48 GMT | “The Girl Who Feared Her Calm: A Story Of Silent Chaos” | @Lil.Moonx | [Read More](https://medium.com/p/a9f2d53d4214) |
+| Fri, 25 Jul 2025 13:27:04 GMT | How Project Managers Work with Cybersecurity Teams | Matthewdada | [Read More](https://medium.com/p/e850babab121) |
+| Fri, 25 Jul 2025 13:19:08 GMT | Online Privacy in 2025 — A Safer Future or a Digital Minefield? | Olatunde Aboaba | [Read More](https://medium.com/p/8e3738a327f5) |
+| Fri, 25 Jul 2025 13:15:52 GMT | Hypervisor Hijack: Pen Tester’s Breakdown of the VMware vSphere Breach. | Inforsecpro | [Read More](https://medium.com/p/eb35620b150b) |
+| Fri, 25 Jul 2025 13:12:49 GMT | Hidden Risk Behind Every Input Field. | Rabia Riaz | [Read More](https://medium.com/p/5c9f9ff33e14) |
+| Fri, 25 Jul 2025 13:12:33 GMT | Hunt Me I: Payment Collectors TryHackMe Room | Krishna | [Read More](https://medium.com/p/c1989757cdaa) |
+| Fri, 25 Jul 2025 13:03:23 GMT | SOCFortres5: The Invisible Click — How a Silent Social Engineering Tactic Is Outsmarting Your… | Darshan | [Read More](https://medium.com/p/b0f7b87896b7) |
+| Fri, 25 Jul 2025 13:00:47 GMT | SOCFortres5: When Silence Breaks — The Cyberattack That Breached America’s Nuclear Watchdog | Darshan | [Read More](https://medium.com/p/b6d1734e17aa) |
+| Fri, 25 Jul 2025 12:59:47 GMT | Web Security Academy Lab Walk-Through: Username Enumeration via Different Responses. | George Ibrahim | [Read More](https://medium.com/p/d854b793b09e) |
+| Fri, 25 Jul 2025 12:57:44 GMT | AI-Powered Cyberattacks: How Hackers Are Using Machine Learning and How to Defend Against It | Steve Splash | [Read More](https://medium.com/p/18af9a123093) |
+| Fri, 25 Jul 2025 12:57:44 GMT | From Permission Audits to Automated Revocation: Fighting Ghost OAuth Grants in the Cloud - Notion | Roberto D'Andrea | [Read More](https://medium.com/p/29ed247c8115) |
+| Fri, 25 Jul 2025 12:56:20 GMT | Best Online Colleges for MBA in Information Technology | Ankitasgupta | [Read More](https://medium.com/p/8de7e7aa5b53) |
+| Fri, 25 Jul 2025 12:54:46 GMT | Quantum Passwords: How Physics Could Finally Solve Cybersecurity’s Biggest Problem | Iliya Garakh | [Read More](https://medium.com/p/a83d31e58922) |
+| Fri, 25 Jul 2025 12:54:35 GMT | Day 12 of 100 Days of DevOps: Troubleshooting Apache Not Reachable on Custom Port (5004) | Damian Ogedengbe | [Read More](https://medium.com/p/56a3f6fbb882) |
+| Fri, 25 Jul 2025 12:51:33 GMT | The Ultimate Recon Toolkit for Bug Bounty Hunters (2025 Edition) | Krish_cyber | [Read More](https://medium.com/p/406065a86c16) |
 | Fri, 25 Jul 2025 12:43:34 GMT | Popular npm Packages Hijacked — Prettier-ESLint & is: Here is What You Need to Know (July 17, 2025) | Brez | [Read More](https://medium.com/p/e4c8765eac7d) |
 | Fri, 25 Jul 2025 12:36:01 GMT | Threat Intelligence Feed Integrations and Automations in the SOC ️ | Esra Kayhan | [Read More](https://medium.com/p/f1eda34aa65f) |
 | Fri, 25 Jul 2025 12:35:55 GMT | Learning to Share Myself | Pascale Bouchard | [Read More](https://medium.com/p/27a9b387ea7e) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 09:06:45 GMT | Top 5 Crypto Scams to Avoid: A Complete Guide for Safe Bitcoin & DeFi Investing | Rabab Toor | [Read More](https://medium.com/p/62f308e9a57a) |
 | Fri, 25 Jul 2025 09:02:35 GMT | BUGBOUNTY- No caces bugs. Caza inconsistencias. | Gorka | [Read More](https://medium.com/p/9ea08ecabe96) |
 | Fri, 25 Jul 2025 08:58:24 GMT | Cracking My First Web CTF — eJPT Web Application Penetration Testing (CTF 1) | Zi Yang John Lim | [Read More](https://medium.com/p/627f8c64b06a) |
-| Fri, 25 Jul 2025 08:58:05 GMT | Security Focus Month: Leveling Up Our Skills, Together | Simon Robinson | [Read More](https://medium.com/p/046d65ee2953) |
-| Fri, 25 Jul 2025 08:55:50 GMT | How I Discovered a Critical WordPress Auth Bypass: Methodology + Tools | Zubair Usman | [Read More](https://medium.com/p/5fab7a52a1ef) |
-| Fri, 25 Jul 2025 08:55:07 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/ac71627f5a66) |
-| Fri, 25 Jul 2025 08:33:01 GMT | Complete IT Hardware Solutions for Surveillance, Networking & Industrial Needs | satyaprakash Behera | [Read More](https://medium.com/p/f11230a875de) |
-| Fri, 25 Jul 2025 08:31:33 GMT | Event-Auth-Route: Phase 1: HMAC AND JWT | Ankit Kumar | [Read More](https://medium.com/p/84e7f7adc970) |
-| Fri, 25 Jul 2025 08:22:19 GMT | HackTheBox: Chemistry Writeup | Jad Ghamloush | [Read More](https://medium.com/p/d073d6764f65) |
-| Fri, 25 Jul 2025 08:19:33 GMT | Will Quantum Computing Break the Internet? | Niamh Wordcast — ✺ | [Read More](https://medium.com/p/5035f16c40b5) |
-| Fri, 25 Jul 2025 08:19:27 GMT | Find Private IPs of Connected Wi-Fi Users Using Termux (2025 Updated Method)
-Want to know who’s… | Kumarsmagic | [Read More](https://medium.com/p/5f0da6c477c4) |
-| Fri, 25 Jul 2025 08:16:19 GMT | Access Denied Subdomain Bypass | SIDDHANT SHUKLA | [Read More](https://medium.com/p/178c2717fad9) |
-| Fri, 25 Jul 2025 08:09:21 GMT | How Traditional Antivirus works and why are they outdated | Guruvijey | [Read More](https://medium.com/p/2832d32308aa) |
-| Fri, 25 Jul 2025 08:09:18 GMT | The Secret Language That Keeps AI in Check | DragonWarriorCodes | [Read More](https://medium.com/p/7e6b3b21ad30) |
-| Fri, 25 Jul 2025 08:02:41 GMT | Cyber Security Defend — Arkime (Moloch) Network Monitoring Part1 Docker Compose Deployment | Tony Fu - OSCP, BTL1, AWS x 3 | [Read More](https://medium.com/p/aba07338bfad) |
-| Fri, 25 Jul 2025 07:57:05 GMT | The Daily Tech Digest: 25 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/44fc61e67739) |
-| Fri, 25 Jul 2025 07:56:07 GMT | What is negative SEO? And how to prevent, detect, and recover from it. | Insight Hub | [Read More](https://medium.com/p/d0de9ff0f558) |
-| Fri, 25 Jul 2025 07:55:16 GMT | Best Cybercrime Security Company In India — CyberKanun | Amit solanki | [Read More](https://medium.com/p/e653a262915d) |
