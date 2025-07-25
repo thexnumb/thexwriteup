@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Jul 2025 18:15:21 GMT | “Cybersecurity Isn’t About Tools. It’s About Pressure.” | Mimi Jae TheLightOfZen (and more) | [Read More](https://medium.com/p/e20f1e407379) |
+| Fri, 25 Jul 2025 18:07:36 GMT | Cybersecurity as Poetry | Rue | [Read More](https://medium.com/p/72f78c7a66b5) |
+| Fri, 25 Jul 2025 18:05:46 GMT | Empowering India’s Digital Backbone: The Story of Cnergee Technologies | Falgun jadhav | [Read More](https://medium.com/p/f27f68e4e489) |
+| Fri, 25 Jul 2025 18:03:36 GMT | ReconDog — Simple Information Gathering Tool for Beginners | Kambetastephano | [Read More](https://medium.com/p/a77c9d5a8391) |
+| Fri, 25 Jul 2025 18:02:27 GMT | SOC Automation Home Lab Write-Up | Devanshi Chavda | [Read More](https://medium.com/p/a0dfe57d9ff2) |
+| Fri, 25 Jul 2025 17:58:01 GMT | Understanding PII Data in a World Obsessed with Personalization | Dhanush V | [Read More](https://medium.com/p/ccfd8569d25c) |
+| Fri, 25 Jul 2025 17:55:54 GMT | From DevOps to DevSecOps: Shifting Left for Enhanced Software Security | Swayam Surat | [Read More](https://medium.com/p/99a76dbae89a) |
+| Fri, 25 Jul 2025 17:44:47 GMT | ️ They’re Watching: The Dark Side of Human OSINT You Need to Know | Maruti Marathe | [Read More](https://medium.com/p/c436e10a66d4) |
+| Fri, 25 Jul 2025 17:42:06 GMT | Zero Trust Security Model for Remote Workforce Protection | SafeAeon Inc. | [Read More](https://medium.com/p/523ebd58f283) |
+| Fri, 25 Jul 2025 17:40:56 GMT | The Sentinel’s Blind Spot: A Guide to EDR Evasion | Itz.sanskarr | [Read More](https://medium.com/p/577083673c16) |
 | Fri, 25 Jul 2025 17:32:18 GMT | Insider Threat Detection to Prevent Employee-Driven Breaches | SafeAeon Inc. | [Read More](https://medium.com/p/6dce53a244d8) |
 | Fri, 25 Jul 2025 17:24:19 GMT | Advanced XSS Bypass Payloads When <script>, alert(), and prompt() Are Blocked | Kalireddipalli | [Read More](https://medium.com/p/6454946f9b6d) |
 | Fri, 25 Jul 2025 17:15:29 GMT | Frugal Cloud Security: Enforcing Trusted Ingress with AWS WAF and Cloudflare: Why and How | Devam Desai | [Read More](https://medium.com/p/cb99de6aeb08) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 12:36:01 GMT | Threat Intelligence Feed Integrations and Automations in the SOC ️ | Esra Kayhan | [Read More](https://medium.com/p/f1eda34aa65f) |
 | Fri, 25 Jul 2025 12:35:55 GMT | Learning to Share Myself | Pascale Bouchard | [Read More](https://medium.com/p/27a9b387ea7e) |
 | Fri, 25 Jul 2025 12:31:01 GMT | ️ I Investigate Crypto Scams — Here’s What Victims Should Know | Derrick M Langston | [Read More](https://medium.com/p/a903680a0c92) |
-| Fri, 25 Jul 2025 12:28:52 GMT | I Wrote Malware That Targeted the German Federal Bureau of Information Security (BSI) | Marcel Rick-Cen | [Read More](https://medium.com/p/10527ebf75a4) |
-| Fri, 25 Jul 2025 12:27:27 GMT | How a Simple Endpoint Earned Me a $7500 Bounty from Microsoft | Gouri Sankar A | [Read More](https://medium.com/p/1891a35d40be) |
-| Fri, 25 Jul 2025 12:23:24 GMT | Why use security and privacy by design services? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/01767df37e7a) |
-| Fri, 25 Jul 2025 12:21:23 GMT | The Role of a Cybersecurity Agency in Safeguarding Businesses in the Digital Era | secureroot | [Read More](https://medium.com/p/8a914904639b) |
-| Fri, 25 Jul 2025 12:20:44 GMT | Curvance Announces Promo Drop: Gain CVE Today | Curvance | [Read More](https://medium.com/p/d9790f60f1e1) |
-| Fri, 25 Jul 2025 12:20:42 GMT | XDR, MDR, EDR… So, Which One Actually Responds? | Yuksel | [Read More](https://medium.com/p/7184c7573a56) |
-| Fri, 25 Jul 2025 12:19:47 GMT | Building a Secure API Key Management System with Django Ninja and NextAuth | Abhay Mishra | [Read More](https://medium.com/p/f1eee2f203a3) |
-| Fri, 25 Jul 2025 12:18:30 GMT | Coordinating Cyber Defense: Project Management in Cybersecurity Teams | Christopher Udoka | [Read More](https://medium.com/p/e7e039633372) |
-| Fri, 25 Jul 2025 12:16:47 GMT | Recon Solana Announces Token Surge: Get RECON Today | Recon Solana | [Read More](https://medium.com/p/f9e03adf0832) |
-| Fri, 25 Jul 2025 12:15:14 GMT | DC-3 Walkthrough — My OSCP Journey Continues (Sorry for the Delay ) | DataDefender | [Read More](https://medium.com/p/ee8d9cd2e8c5) |
