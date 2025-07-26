@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 13:16:15 GMT | Competing in Devpost’s World’s Largest Hackathon: My Aurarora Journey! ✨ | The Streets to Entrepreneurs | [Read More](https://medium.com/p/a1f272a0e954) |
+| Sat, 26 Jul 2025 12:56:35 GMT | From File Upload to Shell: A Deep Dive into RCE Exploits | Digant Prajapati | [Read More](https://medium.com/p/9eee5af22242) |
+| Sat, 26 Jul 2025 12:49:09 GMT | To engage directly: | Drew Phillips jr | [Read More](https://medium.com/p/524b0323f086) |
+| Sat, 26 Jul 2025 12:46:36 GMT | Linux PAM Modules: In-Depth Security and Authentication | Esra Kayhan | [Read More](https://medium.com/p/84ffce5f9106) |
+| Sat, 26 Jul 2025 12:39:01 GMT | My MasterCard | HD.39 | [Read More](https://medium.com/p/07bf440d1e38) |
+| Sat, 26 Jul 2025 12:37:23 GMT | Cicada - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/0198ce49d80e) |
 | Sat, 26 Jul 2025 12:34:16 GMT | Timestamp: July 26, 2025. | Drew Phillips jr | [Read More](https://medium.com/p/a51ba5cf376f) |
 | Sat, 26 Jul 2025 12:33:48 GMT | The Invisible War for Your Data: Why Your Family’s Privacy is at Risk | Edgar Yende | [Read More](https://medium.com/p/b0b32a6510d7) |
+| Sat, 26 Jul 2025 12:33:29 GMT | 2025 DevOps Outlook: How AI DevOps Platforms Are Redefining the Role of DevOps Service Companies | Devseccopsai | [Read More](https://medium.com/p/5353770980c0) |
 | Sat, 26 Jul 2025 12:31:27 GMT | Tabletop Exercises: Is Your Organization Overlooking a Critical Gap in Its Incident Response? | Heba Farahat | [Read More](https://medium.com/p/7ff8a30653da) |
 | Sat, 26 Jul 2025 12:24:05 GMT | How to use “Caido Workflows” to scan for anything | Mostafa Alrefai | [Read More](https://medium.com/p/07eed72ba06a) |
 | Sat, 26 Jul 2025 12:19:14 GMT | Recon-ng Nedir? Nasıl Kullanılır? (Etkili Uygulama Tekniğiyle) | idriscelik | [Read More](https://medium.com/p/f32d35651590) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 07:21:10 GMT | Soft Doesn’t Mean Weak: A Love Letter to The Sensitive Ones | Rahtesa | [Read More](https://medium.com/p/0159d19c698d) |
 | Sat, 26 Jul 2025 07:19:05 GMT | How to Build a Basic Vulnerability Scanner in Python Using APIs (For Beginners) | Carylrobert | [Read More](https://medium.com/p/1e5c39b29468) |
 | Sat, 26 Jul 2025 07:14:47 GMT | ️Fortifying Your Fortress: Tackling CSRF, XSS, and IP-Geolocation Mismatches in Modern Web Apps… | Renjith KN | [Read More](https://medium.com/p/bb9722a85080) |
-| Sat, 26 Jul 2025 07:12:39 GMT | BUG-BOUNTY SERIES 1 : Pengenalan dan Dasar Bug Bounty | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/4e5a302c607d) |
-| Sat, 26 Jul 2025 07:09:57 GMT | Episode 6: How I Discovered LDAP Injection and Why It Matters (Even If You’re Not a Hacker) | Yamini Yadav | [Read More](https://medium.com/p/f2d7f22e3390) |
-| Sat, 26 Jul 2025 07:07:46 GMT | I Automated CSP Extraction and Mapped 100+ Subdomains | Ibtissam hammadi | [Read More](https://medium.com/p/adf04880ea5d) |
-| Sat, 26 Jul 2025 07:07:38 GMT | Qué Piensan los CIOs: 15 Claves Reales sobre Liderazgo y Cultura Tech | Alberto Marauri | [Read More](https://medium.com/p/06c72311c8f6) |
-| Sat, 26 Jul 2025 07:01:54 GMT | How I Automated My Web Dev Routine Using Just JavaScript and Browser APIs | Suleman safdar | [Read More](https://medium.com/p/a02732563d41) |
-| Sat, 26 Jul 2025 07:01:02 GMT | Framing the responsibility of National Security Organizations on AI | Mubarek | [Read More](https://medium.com/p/a74b6ff9cc5c) |
-| Sat, 26 Jul 2025 07:00:46 GMT | Best AWS Associate Certification Course in 2025 | cyber security Updates | [Read More](https://medium.com/p/18f8048aecd2) |
