@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 07:19:05 GMT | How to Build a Basic Vulnerability Scanner in Python Using APIs (For Beginners) | Carylrobert | [Read More](https://medium.com/p/1e5c39b29468) |
+| Sat, 26 Jul 2025 07:09:57 GMT | Episode 6: How I Discovered LDAP Injection and Why It Matters (Even If You’re Not a Hacker) | Yamini Yadav | [Read More](https://medium.com/p/f2d7f22e3390) |
+| Sat, 26 Jul 2025 07:07:46 GMT | I Automated CSP Extraction and Mapped 100+ Subdomains | Ibtissam hammadi | [Read More](https://medium.com/p/adf04880ea5d) |
+| Sat, 26 Jul 2025 07:07:38 GMT | Qué Piensan los CIOs: 15 Claves Reales sobre Liderazgo y Cultura Tech | Alberto Marauri | [Read More](https://medium.com/p/06c72311c8f6) |
+| Sat, 26 Jul 2025 07:01:54 GMT | How I Automated My Web Dev Routine Using Just JavaScript and Browser APIs | Suleman safdar | [Read More](https://medium.com/p/a02732563d41) |
+| Sat, 26 Jul 2025 07:01:02 GMT | Framing the responsibility of National Security Organizations on AI | Mubarek | [Read More](https://medium.com/p/a74b6ff9cc5c) |
+| Sat, 26 Jul 2025 07:00:46 GMT | Best AWS Associate Certification Course in 2025 | cyber security Updates | [Read More](https://medium.com/p/18f8048aecd2) |
+| Sat, 26 Jul 2025 07:00:39 GMT | Intelligent Perimeter Defense: Perimeter Intrusion Detection Solutions for KSA | expbhavya | [Read More](https://medium.com/p/10373ad071e2) |
+| Sat, 26 Jul 2025 06:59:27 GMT | Top Web Development Company Near Me in Shimla | Skydo Solutions | [Read More](https://medium.com/p/9922951caf97) |
+| Sat, 26 Jul 2025 06:57:32 GMT | Understanding Sockets in Python for Cybersecurity: A Beginner’s Guide | Carylrobert | [Read More](https://medium.com/p/10df9aff6a50) |
+| Sat, 26 Jul 2025 06:55:47 GMT | Capture Exclusive RECON Through Recon Solana's Bonus Rollout | Daniel
+ Larson | [Read More](https://medium.com/p/6acac449fd41) |
+| Sat, 26 Jul 2025 06:51:48 GMT | The Linux Security Journey — Non-Executable Memory (NX Bit Support) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/a7e1d0a2ac0d) |
+| Sat, 26 Jul 2025 06:50:08 GMT | How to Automate Nmap with Python — A Beginner-Friendly Guide | Carylrobert | [Read More](https://medium.com/p/a0614dd06950) |
+| Sat, 26 Jul 2025 06:49:43 GMT | Mastering Nmap: A Beginner’s Guide and Enterprise Use Cases | Akhil Binu | [Read More](https://medium.com/p/ae6d6072b0e1) |
+| Sat, 26 Jul 2025 06:34:09 GMT | How the Internet Works: Crash Course for Beginners | Ayush Kumar | [Read More](https://medium.com/p/cdab7d641410) |
+| Sat, 26 Jul 2025 06:33:44 GMT | Linux Command Line Cheat Sheet | Zino jo | [Read More](https://medium.com/p/3f3cb22296a5) |
+| Sat, 26 Jul 2025 06:30:20 GMT | Why a No-Subscription Home Security System Might Be Perfect for You | ARK Writes | [Read More](https://medium.com/p/a0579e6e7b8a) |
 | Sat, 26 Jul 2025 06:23:46 GMT | Why Penetration Testers Earn Higher Pay in Cybersecurity | Zino jo | [Read More](https://medium.com/p/9e99a7d1d5de) |
 | Sat, 26 Jul 2025 06:19:47 GMT | The Invisible Heist: How Hackers Are Stealing Your Life Without Touching Your Bank Account | Recover Right | [Read More](https://medium.com/p/30b492f6654f) |
 | Sat, 26 Jul 2025 06:19:25 GMT | How I Found a $3,000 Bug Using Just Recon | Zino jo | [Read More](https://medium.com/p/18dd88e827ae) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 21:49:39 GMT | Securing AWS Bedrock Generative AI workloads within a VPC using VPC Interface Endpoints in… | Collin Smith | [Read More](https://medium.com/p/91614c801dfc) |
 | Fri, 25 Jul 2025 21:39:25 GMT | Why Bitchat Is a Bad Idea: (My Audit Found Critical Zero-Days) | Saad Khalid | [Read More](https://medium.com/p/1b126a45a2c5) |
 | Fri, 25 Jul 2025 21:37:47 GMT | Setting up a WSUS Server on the Domain Controller | 3Graces CC | [Read More](https://medium.com/p/60bba9792978) |
-| Fri, 25 Jul 2025 21:34:20 GMT | Dobradinha Azure da Semana: como tirei a DP-900 e SC-900 | Eduardo O. Lentz | [Read More](https://medium.com/p/d0002b6152c2) |
-| Fri, 25 Jul 2025 21:32:12 GMT | Debilidades | Sara Reinero | [Read More](https://medium.com/p/99e3ae3296ff) |
-| Fri, 25 Jul 2025 21:28:50 GMT | Who is Shivinaa? What is Shoresh’d? | Shivinaa | [Read More](https://medium.com/p/4ea3a3f5967c) |
-| Fri, 25 Jul 2025 21:28:37 GMT | Is XBOW Replacing Cybersecurity Professionals? The Truth Behind the AI Hacker Taking Over HackerOne | Ghulam Mohiuddin | [Read More](https://medium.com/p/7f5f38d78153) |
-| Fri, 25 Jul 2025 20:53:22 GMT | Generative AI in Cybersecurity 2025: The Defender’s New Weapon Against AI-Powered Threats | Shehryar Rumi | [Read More](https://medium.com/p/aa7d219e5411) |
-| Fri, 25 Jul 2025 20:44:28 GMT | What If You Don’t Have to Leave to Be Free? | cefon | [Read More](https://medium.com/p/fefc88fb7f6d) |
-| Fri, 25 Jul 2025 20:42:56 GMT | Stop Fighting Compliance — Use It to Build a Better Security Program | James Wright | [Read More](https://medium.com/p/c78a71813a9e) |
-| Fri, 25 Jul 2025 20:41:24 GMT | When Trusted Tools Turn Toxic | James Wright | [Read More](https://medium.com/p/92bae17d41e2) |
-| Fri, 25 Jul 2025 20:38:45 GMT | New Types of Hacking: IDOR Attacks Evolved | The OSINT Edge | [Read More](https://medium.com/p/ce556e25572e) |
-| Fri, 25 Jul 2025 20:38:05 GMT | Setting Up Certificate Services and New Users on the Domain Controller | 3Graces CC | [Read More](https://medium.com/p/345dab036423) |
-| Fri, 25 Jul 2025 20:37:47 GMT | Setting Up a Windows Domain Controller in VirtualBox | 3Graces CC | [Read More](https://medium.com/p/939f5992a4e6) |
-| Fri, 25 Jul 2025 20:31:50 GMT | Zero-Trust Architecture: Programming Security from Day One | Let's code | [Read More](https://medium.com/p/cee092f62cc9) |
-| Fri, 25 Jul 2025 20:29:56 GMT | Cybersecurity Certifications: Milestones, Not Endpoints | James Wright | [Read More](https://medium.com/p/5eb601b60b25) |
-| Fri, 25 Jul 2025 20:29:27 GMT | CTF Walkthrough: Fly | Jonathan M. | [Read More](https://medium.com/p/3b33ed7dfb0d) |
-| Fri, 25 Jul 2025 20:12:55 GMT | UK Proposes Ransomware Payment Ban for Public Sector | Matthew.Rosenquist | [Read More](https://medium.com/p/7f5031ae5fcc) |
-| Fri, 25 Jul 2025 20:01:48 GMT | How We Secured A Vibe-Coded App: Real Fixes for Real Vulnerabilities | Ravi Khurana | [Read More](https://medium.com/p/104a7d9b4284) |
-| Fri, 25 Jul 2025 20:00:55 GMT | Cybercrime among young people is rapidly increasing, driven by poverty, peer pressure, and the… | Abisolakaf | [Read More](https://medium.com/p/55011905112e) |
