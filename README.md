@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 16:46:17 GMT | Hacking File Uploads — Exploiting PNG-only Upload Restrictions | Smabuhaider | [Read More](https://medium.com/p/e3f487e121fd) |
+| Sat, 26 Jul 2025 16:31:50 GMT | AI ‘Nudify’ Tools Rake in $36M Annually: 24M Users Target Women in Photos | Dadang Irsyam - Tech n Society Strategist | [Read More](https://medium.com/p/e27d32f352fd) |
+| Sat, 26 Jul 2025 16:29:43 GMT | How Hard Is Cybersecurity? Here’s What You Need to Know | Gotechanic003 | [Read More](https://medium.com/p/1e5fce21f508) |
+| Sat, 26 Jul 2025 16:29:04 GMT | The Silent Revolution Is Already Here | sana irshad | [Read More](https://medium.com/p/2aec3ef236cd) |
+| Sat, 26 Jul 2025 16:25:34 GMT | DOM XSS Deep Dive: Exploiting More PortSwigger Labs (Lab 4) | M. Mustafa Hussaini | [Read More](https://medium.com/p/506efbd75388) |
 | Sat, 26 Jul 2025 16:19:00 GMT | Cybersecurity Isn’t Rocket Science — But It’s Not Easy Either | Gotechanic003 | [Read More](https://medium.com/p/31750241675c) |
 | Sat, 26 Jul 2025 16:18:52 GMT | N0aziXss Origin Recon v3.1: The Ultimate CDN Bypass & Infrastructure Mapping Tool | N0aziXss | [Read More](https://medium.com/p/efcd80439b3f) |
 | Sat, 26 Jul 2025 16:13:46 GMT | 10 Common Online Scams (and How to Avoid Them in 2025) | Manander Singh (MSD) | [Read More](https://medium.com/p/620320bc49bd) |
@@ -108,8 +113,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 09:31:03 GMT | Malware Mind Control: Reverse Engineering C2 Channels to Enslave Botnets | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/9a57685b6405) |
 | Sat, 26 Jul 2025 09:27:33 GMT | VulnLayers — Pentest Report | device0 | [Read More](https://medium.com/p/ab4ae8a4ae5a) |
 | Sat, 26 Jul 2025 09:23:15 GMT | Common Digital Forensics Issues — And How to Fix Them | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/781d19e61d2d) |
-| Sat, 26 Jul 2025 09:22:45 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #9 Solution | Aviv Yaniv | [Read More](https://medium.com/p/38f19939ac57) |
-| Sat, 26 Jul 2025 09:22:35 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #8 Solution | Aviv Yaniv | [Read More](https://medium.com/p/29309bb33cf9) |
-| Sat, 26 Jul 2025 09:22:20 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #7 Solution | Aviv Yaniv | [Read More](https://medium.com/p/42ccffceb492) |
-| Sat, 26 Jul 2025 09:21:26 GMT | GraphQL for the next API Penetration Testing | 0xjar | [Read More](https://medium.com/p/0922b3adef58) |
-| Sat, 26 Jul 2025 09:19:48 GMT | The Art of Not Getting Caught: Avoiding the Gaze of the Surveillance State | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/978e485aef1b) |
