@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 15:36:41 GMT | “the thing that you are most afraid to write, write that.” | Dhara Joy | [Read More](https://medium.com/p/445a10f718ea) |
+| Sat, 26 Jul 2025 15:35:42 GMT | Stateless Routing with HMAC: A New Layer of C2 Discipline | Rezznux | [Read More](https://medium.com/p/981dea76f9ab) |
+| Sat, 26 Jul 2025 15:30:12 GMT | ShaktiCTF25 | MegaTron | [Read More](https://medium.com/p/081e4271bf1d) |
+| Sat, 26 Jul 2025 15:26:11 GMT | Is Cybersecurity Hard? A Beginner’s Honest Guide | Gotechanic01 | [Read More](https://medium.com/p/186ebdf18693) |
+| Sat, 26 Jul 2025 15:26:01 GMT | Information Disclosure | Ayesha | [Read More](https://medium.com/p/6e18eef4ee5f) |
 | Sat, 26 Jul 2025 15:02:27 GMT | Cracking KQL: How a Suspicious Login Alert Led Me into the World of Threat Hunting (and the 10 KQL… | Ishita Singh | [Read More](https://medium.com/p/4ea6366ff0b3) |
 | Sat, 26 Jul 2025 15:00:27 GMT | Here’s to Failing (and Trying Anyway) | Priya Chauhan | [Read More](https://medium.com/p/487f7d46a0a1) |
 | Sat, 26 Jul 2025 15:00:23 GMT | Why Hackers Still Win in 2025 — And What We Must Finally Do to Stop Them | Pavlović Goran | [Read More](https://medium.com/p/e86fa13f25a2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 08:50:44 GMT | Learn Hacking the Smart Way in 2025 — A Beginner’s Guide to Cybersecurity Career as Penetration… | SVR | [Read More](https://medium.com/p/ffce33a82348) |
 | Sat, 26 Jul 2025 08:47:23 GMT | Welcome to the Chaos Theater: Madness Orchestration in the Age of AI | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/20430e9d1756) |
 | Sat, 26 Jul 2025 08:46:22 GMT | DNS Zone Transfer: Concepts, Mechanism, and Security Implications | Meravytes | [Read More](https://medium.com/p/acd4f1f53f6d) |
-| Sat, 26 Jul 2025 08:43:33 GMT | How to Become a Bug Bounty Hunter in 2025 (No Degree Needed) | Inayat Hussain | [Read More](https://medium.com/p/23ea2f5d8800) |
-| Sat, 26 Jul 2025 08:41:41 GMT | Top 10 Open-Source Intelligence (OSINT) Tools for Cybersecurity Professionals in 2025 | Inayat Hussain | [Read More](https://medium.com/p/fb27ba4f7be7) |
-| Sat, 26 Jul 2025 08:39:57 GMT | The Rise of a Self-Made Technologist from Rural Pakistan | Inayat Hussain | [Read More](https://medium.com/p/95293911e838) |
-| Sat, 26 Jul 2025 08:38:43 GMT | Exploring the Benefits of Las Sola Bollard Outdoor Lighting | willisvanessa2426 | [Read More](https://medium.com/p/a1b2e3b94936) |
-| Sat, 26 Jul 2025 08:36:33 GMT | Linux Command 101: “tr” | Faith Alabi Erioluwa | [Read More](https://medium.com/p/635ff794a555) |
