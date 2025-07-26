@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 05:42:05 GMT | The Modern Developer’s Guide to Building Secure Web Apps (Without Overengineering It) | Parth Patel | [Read More](https://medium.com/p/2dfa67c30754) |
+| Sat, 26 Jul 2025 05:32:10 GMT | PA-450R by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b5701bc22ad7) |
 | Sat, 26 Jul 2025 05:28:02 GMT | Data breach: what should we do? | Mufid Fata Rifki | [Read More](https://medium.com/p/a7cd5e939009) |
 | Sat, 26 Jul 2025 05:18:58 GMT | Level Up Your OSINT: 21 Essential Browser Extensions You Need Now | Sohanur Rahman | [Read More](https://medium.com/p/4495860d1f9c) |
 | Sat, 26 Jul 2025 05:11:31 GMT | Build Your Own Web Application Vulnerability Scanner Using Python + Flask (OWASP-Based) | Pranav V | [Read More](https://medium.com/p/b4f16cd2ce39) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 19:28:49 GMT | My Path to Security: A Hands-on Series | Habeebullah Olaosebikan | [Read More](https://medium.com/p/197e7dcb1bf7) |
 | Fri, 25 Jul 2025 19:25:12 GMT | ISO27031:2025 — Nouvelle version pour continuité informatique | Patrick Boucher | [Read More](https://medium.com/p/cdd68ea8c8a6) |
 | Fri, 25 Jul 2025 19:24:47 GMT | Cracking an MD5 Hash with a Custom Dictionary Attack in Kali Linux | LobaMegaTON | [Read More](https://medium.com/p/94e93756b987) |
-| Fri, 25 Jul 2025 19:16:42 GMT | Hypervisor Intrusions: UNC3944’s Campaign Against VMware vSphere | RealSec.io | [Read More](https://medium.com/p/9b3f79820117) |
-| Fri, 25 Jul 2025 19:14:14 GMT | How I Found Over 30 Security Vulnerabilities in a Single Program | Samet Yiğit | [Read More](https://medium.com/p/64642ab2df72) |
