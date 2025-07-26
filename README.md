@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 23:04:19 GMT | I Got ROOT Access to a Hosting Provider Without a Single Exploit | KonaN | [Read More](https://medium.com/p/c6af4185dc54) |
+| Sat, 26 Jul 2025 23:03:48 GMT | Boom. That’s Exploitation — Stage 4 of the Cyber Kill Chain | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/65094ad30bfb) |
+| Sat, 26 Jul 2025 23:00:34 GMT | How to Install Linux on a Windows PC (Beginner Friendly) | Omeiza | [Read More](https://medium.com/p/3172df4b9fa5) |
+| Sat, 26 Jul 2025 22:47:37 GMT | DID YOU LOST YOUR CRYPTO? DO YOU WANT TO RECOVER YOUR STOLEN BITCOIN,
+BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e4c) |
+| Sat, 26 Jul 2025 22:44:51 GMT | Code Fails & Epic Glitches: The Most Interesting Software Bugs Ever | Vladimir Josifoski | [Read More](https://medium.com/p/cc6f4d907781) |
+| Sat, 26 Jul 2025 22:44:33 GMT | Leaking Secrets : Building an LLM-Powered Secret Scanner for Codebases | Aishwarya Athreya | [Read More](https://medium.com/p/9b76270c3694) |
+| Sat, 26 Jul 2025 22:40:55 GMT | Soteria Review: State-of-the-Art AI Website Security Technology Instantly Scans, Detects & Fixes… | Mason Bernard | [Read More](https://medium.com/p/b89104d0f3bb) |
 | Sat, 26 Jul 2025 22:39:43 GMT | What Happens After You Log a Bug? The QA Perspective | Vladimir Josifoski | [Read More](https://medium.com/p/d840f948de9b) |
 | Sat, 26 Jul 2025 22:37:30 GMT | My OSCP Journey — Abhay Pandit | Abhay pandit | [Read More](https://medium.com/p/26fe2f2c7fe9) |
 | Sat, 26 Jul 2025 21:47:18 GMT | The Allianz Life Data Breach Explained | CyberCipher | [Read More](https://medium.com/p/911228b3d77f) |
@@ -106,10 +114,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 16:03:24 GMT | Information Disclosure | Ayesha | [Read More](https://medium.com/p/5545bfe66054) |
 | Sat, 26 Jul 2025 16:02:19 GMT | Is Cybersecurity Hard to Learn Without a Tech Background? | Gotechanic01 | [Read More](https://medium.com/p/91304de93486) |
 | Sat, 26 Jul 2025 15:47:53 GMT | Overview of the new eMAPT | Rodolfo Mariano | [Read More](https://medium.com/p/53d45776fffe) |
-| Sat, 26 Jul 2025 15:45:31 GMT | Overthewire is a free website that helps beginners learn Linux by playing games. | Augustine Sito | [Read More](https://medium.com/p/2206b65a45f0) |
-| Sat, 26 Jul 2025 15:40:27 GMT | Breaking the Myth: How Hard Is Cybersecurity Really? | Gotechanic01 | [Read More](https://medium.com/p/082ff518f7d1) |
-| Sat, 26 Jul 2025 15:36:41 GMT | “the thing that you are most afraid to write, write that.” | Dhara Joy | [Read More](https://medium.com/p/445a10f718ea) |
-| Sat, 26 Jul 2025 15:35:42 GMT | Stateless Routing with HMAC: A New Layer of C2 Discipline | Rezznux | [Read More](https://medium.com/p/981dea76f9ab) |
-| Sat, 26 Jul 2025 15:30:12 GMT | ShaktiCTF25 | MegaTron | [Read More](https://medium.com/p/081e4271bf1d) |
-| Sat, 26 Jul 2025 15:26:11 GMT | Is Cybersecurity Hard? A Beginner’s Honest Guide | Gotechanic01 | [Read More](https://medium.com/p/186ebdf18693) |
-| Sat, 26 Jul 2025 15:26:01 GMT | Information Disclosure | Ayesha | [Read More](https://medium.com/p/6e18eef4ee5f) |
