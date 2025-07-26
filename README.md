@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 11:30:20 GMT | Your Data, Your Control: Ech Browser’s Commitment to Privacy | Psylinks Announce | [Read More](https://medium.com/p/bd66d8ba0f0e) |
+| Sat, 26 Jul 2025 11:28:01 GMT | Repeat Offenders: LummaStealer Malware Analysis | grepStrength | [Read More](https://medium.com/p/8335683eaa0c) |
+| Sat, 26 Jul 2025 11:23:52 GMT | Breaking Filter: XSS Bypass using ononmouseovermouseover, ONMOUSEOVER and without () `` [] … | xploiterr | [Read More](https://medium.com/p/e2025486351c) |
+| Sat, 26 Jul 2025 11:17:08 GMT | Post-Quantum Security: Future-Proofing Data in the Quantum Era | Bobby Andrews | [Read More](https://medium.com/p/865d1e6a51b8) |
 | Sat, 26 Jul 2025 11:15:17 GMT | Are we waiting for the pain to return, so we can choose to be numb? | Storiews | [Read More](https://medium.com/p/0ad44c5655e3) |
 | Sat, 26 Jul 2025 11:12:08 GMT | Hacking Raven2- Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/81e0bfbb8ff0) |
+| Sat, 26 Jul 2025 11:09:42 GMT | Cyber Security Certification for Working Professionals - IIFIS | seenivasan V | [Read More](https://medium.com/p/d6bcfabd4384) |
+| Sat, 26 Jul 2025 11:09:20 GMT | Title:  From Zero to Red Team – My Linux Basics Journey (Documenting Everything) | Neo | [Read More](https://medium.com/p/0a7c8ada9653) |
 | Sat, 26 Jul 2025 11:07:36 GMT | Why Every Girls Hostel in Delhi Must Have a Security Guard Today? | Sumintra | [Read More](https://medium.com/p/d08804ac1fec) |
 | Sat, 26 Jul 2025 11:07:07 GMT | What is Ethical Hacking? | sihackermok | [Read More](https://medium.com/p/ecd2e163de7e) |
 | Sat, 26 Jul 2025 11:04:09 GMT | I Made Myself Smaller So No One Would Worry About Me | iel | [Read More](https://medium.com/p/6c6397e3119d) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 06:30:20 GMT | Why a No-Subscription Home Security System Might Be Perfect for You | ARK Writes | [Read More](https://medium.com/p/a0579e6e7b8a) |
 | Sat, 26 Jul 2025 06:23:46 GMT | Why Penetration Testers Earn Higher Pay in Cybersecurity | Zino jo | [Read More](https://medium.com/p/9e99a7d1d5de) |
 | Sat, 26 Jul 2025 06:19:47 GMT | The Invisible Heist: How Hackers Are Stealing Your Life Without Touching Your Bank Account | Recover Right | [Read More](https://medium.com/p/30b492f6654f) |
-| Sat, 26 Jul 2025 06:19:25 GMT | How I Found a $3,000 Bug Using Just Recon | Zino jo | [Read More](https://medium.com/p/18dd88e827ae) |
-| Sat, 26 Jul 2025 06:16:48 GMT | Cloudmitra Application Hosting — Reliable, Secure & Cost-Effective | Cloudmitra Cloud Servers | [Read More](https://medium.com/p/177db7edba01) |
-| Sat, 26 Jul 2025 06:14:05 GMT | Hacking Isn’t Impossible—If You Know Where to Begin! | Emotions | [Read More](https://medium.com/p/30ea3ee871d0) |
-| Sat, 26 Jul 2025 06:11:49 GMT | Academy: TCM-Security Walkthrough | Khushipanwar | [Read More](https://medium.com/p/8a81dda28e75) |
-| Sat, 26 Jul 2025 06:10:10 GMT | 7 Years in Cybersecurity: What I’ve Learned as a Penetration Tester | Mr Joe | [Read More](https://medium.com/p/85d7c14cb17e) |
-| Sat, 26 Jul 2025 06:06:05 GMT | How AI Is Affecting Cybersecurity: A Penetration Tester’s Perspective | Mr Joe | [Read More](https://medium.com/p/4cb739eb9699) |
