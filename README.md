@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 06:23:46 GMT | Why Penetration Testers Earn Higher Pay in Cybersecurity | Zino jo | [Read More](https://medium.com/p/9e99a7d1d5de) |
+| Sat, 26 Jul 2025 06:19:47 GMT | The Invisible Heist: How Hackers Are Stealing Your Life Without Touching Your Bank Account | Recover Right | [Read More](https://medium.com/p/30b492f6654f) |
+| Sat, 26 Jul 2025 06:19:25 GMT | How I Found a $3,000 Bug Using Just Recon | Zino jo | [Read More](https://medium.com/p/18dd88e827ae) |
+| Sat, 26 Jul 2025 06:16:48 GMT | Cloudmitra Application Hosting — Reliable, Secure & Cost-Effective | Cloudmitra Cloud Servers | [Read More](https://medium.com/p/177db7edba01) |
+| Sat, 26 Jul 2025 06:14:05 GMT | Hacking Isn’t Impossible—If You Know Where to Begin! | Emotions | [Read More](https://medium.com/p/30ea3ee871d0) |
+| Sat, 26 Jul 2025 06:11:49 GMT | Academy: TCM-Security Walkthrough | Khushipanwar | [Read More](https://medium.com/p/8a81dda28e75) |
+| Sat, 26 Jul 2025 06:10:10 GMT | 7 Years in Cybersecurity: What I’ve Learned as a Penetration Tester | Mr Joe | [Read More](https://medium.com/p/85d7c14cb17e) |
+| Sat, 26 Jul 2025 06:06:05 GMT | How AI Is Affecting Cybersecurity: A Penetration Tester’s Perspective | Mr Joe | [Read More](https://medium.com/p/4cb739eb9699) |
+| Sat, 26 Jul 2025 06:02:27 GMT | How to Recover a Frozen Bank Account Linked to Cyber Fraud? | OLC Agra | [Read More](https://medium.com/p/68eff965d39a) |
+| Sat, 26 Jul 2025 06:00:40 GMT | How to Exploit XSS Using Burp Suite | Mr Joe | [Read More](https://medium.com/p/e46f4c4ef91d) |
+| Sat, 26 Jul 2025 06:00:33 GMT | Today’s Top Cyber Intelligence Highlights — Jul 26, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b87a9044cebb) |
+| Sat, 26 Jul 2025 05:59:51 GMT | How AI Is Transforming Education: Smart Classrooms & Personalized Learning in 2025 | Payaam Raza | [Read More](https://medium.com/p/65b4e8310c14) |
+| Sat, 26 Jul 2025 05:54:56 GMT | You Are Being Watched: What Your Browser Knows About You in 60 Seconds | CYber VIaz | [Read More](https://medium.com/p/a0f1c1896516) |
+| Sat, 26 Jul 2025 05:48:25 GMT | SSRF via Flawed Request Parsing Leads to SSRF and Internal Admin Access | Bash Overflow | [Read More](https://medium.com/p/ffac4b3103db) |
+| Sat, 26 Jul 2025 05:47:37 GMT | How I Got Into Cybersecurity at 17 — My Journey from School Dropout to Analyst | Christian Ravindu | [Read More](https://medium.com/p/8940f8e93a38) |
 | Sat, 26 Jul 2025 05:42:05 GMT | The Modern Developer’s Guide to Building Secure Web Apps (Without Overengineering It) | Parth Patel | [Read More](https://medium.com/p/2dfa67c30754) |
 | Sat, 26 Jul 2025 05:32:10 GMT | PA-450R by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b5701bc22ad7) |
 | Sat, 26 Jul 2025 05:28:02 GMT | Data breach: what should we do? | Mufid Fata Rifki | [Read More](https://medium.com/p/a7cd5e939009) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 20:12:55 GMT | UK Proposes Ransomware Payment Ban for Public Sector | Matthew.Rosenquist | [Read More](https://medium.com/p/7f5031ae5fcc) |
 | Fri, 25 Jul 2025 20:01:48 GMT | How We Secured A Vibe-Coded App: Real Fixes for Real Vulnerabilities | Ravi Khurana | [Read More](https://medium.com/p/104a7d9b4284) |
 | Fri, 25 Jul 2025 20:00:55 GMT | Cybercrime among young people is rapidly increasing, driven by poverty, peer pressure, and the… | Abisolakaf | [Read More](https://medium.com/p/55011905112e) |
-| Fri, 25 Jul 2025 20:00:51 GMT | Mobile Money Meets Crypto: Why Rally's Hybrid Model Works | Echelon Prime | [Read More](https://medium.com/p/d8919ee3b8c2) |
-| Fri, 25 Jul 2025 20:00:48 GMT | How I Found and Exploited a Critical Remote Code Execution in OpenSSH (CVE-2024–6387) Using Shodan… | MostReal | [Read More](https://medium.com/p/172b8535f53d) |
-| Fri, 25 Jul 2025 20:00:34 GMT | The Prophylactic and the Remedial | Above The Firewall | [Read More](https://medium.com/p/7b5d411366b4) |
-| Fri, 25 Jul 2025 19:57:51 GMT | ️ How I Found an Unauthenticated GraphQL Data Exposure and got 0$ for it | 77r4sed | [Read More](https://medium.com/p/edfb07bf72a8) |
-| Fri, 25 Jul 2025 19:51:39 GMT | Hacker Watches What He Wants For Free. Hacking Netflix Pt.2 - Bug Bounty Tour #4 | NnFace | [Read More](https://medium.com/p/1c029997d8e2) |
-| Fri, 25 Jul 2025 19:48:31 GMT | Private Sector Intelligence and the Cyber Threat Intelligence Maturity Model | Michael Lortz | [Read More](https://medium.com/p/239f25785d43) |
-| Fri, 25 Jul 2025 19:44:55 GMT | I found Information Disclosure in VFS-GLOBAL | Raghul L | [Read More](https://medium.com/p/30cc1a8c541d) |
-| Fri, 25 Jul 2025 19:44:54 GMT | Crypto Custody 101: Hot Wallets vs Cold Wallets vs Exchanges | Generational Wealth | [Read More](https://medium.com/p/08e44e520de9) |
-| Fri, 25 Jul 2025 19:42:37 GMT | System Enumeration: How Attackers Map Your Environment Before Striking | Iqra baba | [Read More](https://medium.com/p/6561c7a51f9f) |
-| Fri, 25 Jul 2025 19:41:54 GMT | Reverse Engineering for Bugs Part 1- How I discovered my 1st 0day in Windows | Mahmoud NourEldin | [Read More](https://medium.com/p/42516e75e9b6) |
-| Fri, 25 Jul 2025 19:35:46 GMT | Europe’s OSS Security Deficit: Quantifying the €160 Billion Threat to Digital Sovereignty | Mind-Front | [Read More](https://medium.com/p/4783c8deaced) |
-| Fri, 25 Jul 2025 19:31:18 GMT | ️ Top 10 Web App Attack Vectors You Must Master in 2025 | SAMAEL 0x4 | [Read More](https://medium.com/p/bcdd1e507223) |
-| Fri, 25 Jul 2025 19:28:49 GMT | My Path to Security: A Hands-on Series | Habeebullah Olaosebikan | [Read More](https://medium.com/p/197e7dcb1bf7) |
-| Fri, 25 Jul 2025 19:25:12 GMT | ISO27031:2025 — Nouvelle version pour continuité informatique | Patrick Boucher | [Read More](https://medium.com/p/cdd68ea8c8a6) |
-| Fri, 25 Jul 2025 19:24:47 GMT | Cracking an MD5 Hash with a Custom Dictionary Attack in Kali Linux | LobaMegaTON | [Read More](https://medium.com/p/94e93756b987) |
