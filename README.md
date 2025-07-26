@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 22:39:43 GMT | What Happens After You Log a Bug? The QA Perspective | Vladimir Josifoski | [Read More](https://medium.com/p/d840f948de9b) |
+| Sat, 26 Jul 2025 22:37:30 GMT | My OSCP Journey — Abhay Pandit | Abhay pandit | [Read More](https://medium.com/p/26fe2f2c7fe9) |
 | Sat, 26 Jul 2025 21:47:18 GMT | The Allianz Life Data Breach Explained | CyberCipher | [Read More](https://medium.com/p/911228b3d77f) |
 | Sat, 26 Jul 2025 21:46:19 GMT | $1000 Bounty: Reset any password | Monika sharma | [Read More](https://medium.com/p/474606e18441) |
 | Sat, 26 Jul 2025 21:43:06 GMT | How to Protect Your YouTube Channel from Hacking in 2025 | Keepnet Labs | [Read More](https://medium.com/p/76864b2c2a30) |
@@ -111,5 +113,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 15:30:12 GMT | ShaktiCTF25 | MegaTron | [Read More](https://medium.com/p/081e4271bf1d) |
 | Sat, 26 Jul 2025 15:26:11 GMT | Is Cybersecurity Hard? A Beginner’s Honest Guide | Gotechanic01 | [Read More](https://medium.com/p/186ebdf18693) |
 | Sat, 26 Jul 2025 15:26:01 GMT | Information Disclosure | Ayesha | [Read More](https://medium.com/p/6e18eef4ee5f) |
-| Sat, 26 Jul 2025 15:02:27 GMT | Cracking KQL: How a Suspicious Login Alert Led Me into the World of Threat Hunting (and the 10 KQL… | Ishita Singh | [Read More](https://medium.com/p/4ea6366ff0b3) |
-| Sat, 26 Jul 2025 15:00:27 GMT | Here’s to Failing (and Trying Anyway) | Priya Chauhan | [Read More](https://medium.com/p/487f7d46a0a1) |
