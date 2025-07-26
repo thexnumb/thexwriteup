@@ -12,10 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 21:47:18 GMT | The Allianz Life Data Breach Explained | CyberCipher | [Read More](https://medium.com/p/911228b3d77f) |
+| Sat, 26 Jul 2025 21:46:19 GMT | $1000 Bounty: Reset any password | Monika sharma | [Read More](https://medium.com/p/474606e18441) |
+| Sat, 26 Jul 2025 21:43:06 GMT | How to Protect Your YouTube Channel from Hacking in 2025 | Keepnet Labs | [Read More](https://medium.com/p/76864b2c2a30) |
+| Sat, 26 Jul 2025 21:42:32 GMT | my first post | peony sage | [Read More](https://medium.com/p/d3487d1d20e2) |
+| Sat, 26 Jul 2025 21:40:58 GMT | Hacked by a Wall Toy: How a Novelty Device Crippled a Growing Marketing Firm | Noel | [Read More](https://medium.com/p/7ccaa47f90f7) |
 | Sat, 26 Jul 2025 21:40:37 GMT | We Laughed at Our Smart Thermostat — Until It Wiped Out Our Servers | Noel | [Read More](https://medium.com/p/7fcb3f39b1d2) |
 | Sat, 26 Jul 2025 21:37:03 GMT | CyberDefenders Challenge Week Incident Report | Vinay Morale | [Read More](https://medium.com/p/8ba904e4148c) |
 | Sat, 26 Jul 2025 21:36:41 GMT | $3,000 for Finding a Hidden Subdomain: My Reconnaissance Success Story | Krish_cyber | [Read More](https://medium.com/p/990396554a2e) |
 | Sat, 26 Jul 2025 21:36:05 GMT | Bounty $$$: Grafana LFI | Monika sharma | [Read More](https://medium.com/p/7cf9f167e1b2) |
+| Sat, 26 Jul 2025 21:35:54 GMT | How to Create Hacking Lab ⚡ | Vipul Sonule | [Read More](https://medium.com/p/c994cdb0483a) |
+| Sat, 26 Jul 2025 21:35:35 GMT | Cloud Security: Building a Multi-Layered Defense for the Digital Era | Hemant Patkar, CISSP | [Read More](https://medium.com/p/5c91e11fc1db) |
 | Sat, 26 Jul 2025 21:32:37 GMT | My Simple Method to Test for IDOR Vulnerabilities | Ibtissam hammadi | [Read More](https://medium.com/p/5963f6ed8785) |
 | Sat, 26 Jul 2025 21:32:31 GMT | WHEN BIRTHDAYS NO LONGER FEEL LIKE BIRTHDAYS | Oluyinka Annabelle | [Read More](https://medium.com/p/ae953f239e33) |
 | Sat, 26 Jul 2025 21:20:59 GMT | Part 1 of a 3-part series on Threat hunting and detection engineering | Benyamin Ben-david | [Read More](https://medium.com/p/415d22cba57a) |
@@ -106,10 +113,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 15:26:01 GMT | Information Disclosure | Ayesha | [Read More](https://medium.com/p/6e18eef4ee5f) |
 | Sat, 26 Jul 2025 15:02:27 GMT | Cracking KQL: How a Suspicious Login Alert Led Me into the World of Threat Hunting (and the 10 KQL… | Ishita Singh | [Read More](https://medium.com/p/4ea6366ff0b3) |
 | Sat, 26 Jul 2025 15:00:27 GMT | Here’s to Failing (and Trying Anyway) | Priya Chauhan | [Read More](https://medium.com/p/487f7d46a0a1) |
-| Sat, 26 Jul 2025 15:00:23 GMT | Why Hackers Still Win in 2025 — And What We Must Finally Do to Stop Them | Pavlović Goran | [Read More](https://medium.com/p/e86fa13f25a2) |
-| Sat, 26 Jul 2025 14:56:33 GMT | How I Built a .NET Security Scanner Without a Security Team (And Blocked 90% of Vulnerabilities) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/ac0803ef5bea) |
-| Sat, 26 Jul 2025 14:50:41 GMT | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/e87f2606e013) |
-| Sat, 26 Jul 2025 14:50:03 GMT | Don’t Install Linux Until You Read This: Easy Guide to Architectures & Distros | MayhemCode | [Read More](https://medium.com/p/fde501b0bb0c) |
-| Sat, 26 Jul 2025 14:50:03 GMT | A GIRL TRAPPED IN A CYCLE. | Angelica | [Read More](https://medium.com/p/ddd218fb05c1) |
-| Sat, 26 Jul 2025 14:49:24 GMT | 5 Blue Team Lessons That Actually Work in Real Environments | Ranjan Marasini | [Read More](https://medium.com/p/e87b6bc49008) |
-| Sat, 26 Jul 2025 14:42:55 GMT | How to Break Into Cybersecurity: A Complete Beginner’s Guide | Genrunic | [Read More](https://medium.com/p/2806d56cf9fa) |
