@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 04:53:26 GMT | Bring Python to Your Android App Using Chaquopy | Sumeet Sharma | [Read More](https://medium.com/p/91f852426033) |
+| Sat, 26 Jul 2025 04:52:16 GMT | The Bug Hiding in Plain Sight: A Simple Click Led to Cross-Org Account Takeover | Ayaa Hamed | [Read More](https://medium.com/p/82b77f640f6f) |
+| Sat, 26 Jul 2025 04:47:28 GMT | Operation CargoTalon: The Cyber Espionage Campaign Targeting Russia’s Aerospace Sector | CYber VIaz | [Read More](https://medium.com/p/57b0db64b4f0) |
+| Sat, 26 Jul 2025 04:40:03 GMT | How a PUBG Ace Lost ₹1 Lakh in a Real-Time Phishing Scam: A Game Hack Case Study | Nikita | [Read More](https://medium.com/p/4b1d63924e1e) |
+| Sat, 26 Jul 2025 04:37:20 GMT | Small Tasks, Big Lessons: My Journey Through a Phishing Simulation Project During Internship | 0xprowl3r | [Read More](https://medium.com/p/2a260291f3da) |
+| Sat, 26 Jul 2025 04:36:02 GMT | Cracking OSEP at 19: The Second Youngest Hacker to Do It | ProwlSec | [Read More](https://medium.com/p/c2ae4b3e3eca) |
+| Sat, 26 Jul 2025 04:30:38 GMT | Claim Exclusive CVE Through Curvance's Distribution Wave | Curvance | [Read More](https://medium.com/p/d6c92e97eedb) |
+| Sat, 26 Jul 2025 04:30:22 GMT | Curvance Announces Treasure Rollout: Collect CVE Today | Curvance | [Read More](https://medium.com/p/c2de1942afcf) |
+| Sat, 26 Jul 2025 04:30:12 GMT | The Growing Threat of Forgotten Subdomains: Real Risks Hiding in Plain Sight | Aravind S V | [Read More](https://medium.com/p/dfa5f27868ff) |
+| Sat, 26 Jul 2025 04:24:51 GMT | Technologies for Ensuring AI Safety: Fundamentals and Practices of LLM Guardrails | Atsushi Hatakeyama | [Read More](https://medium.com/p/553d8cc5ed8e) |
+| Sat, 26 Jul 2025 04:23:25 GMT | Database Caching Layers That Supercharge Web Apps | Rizqi Mulki | [Read More](https://medium.com/p/004f33124cbb) |
+| Sat, 26 Jul 2025 04:20:50 GMT | Stronger Together: What an Escape Room Taught Me About Teamwork | Dr Sean Duffy | [Read More](https://medium.com/p/d0fd2b9b5d3e) |
 | Sat, 26 Jul 2025 04:08:30 GMT | Threat detection approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/7ad259aae9e2) |
 | Sat, 26 Jul 2025 03:59:32 GMT | Layered cybersecurity approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/983c8ec0d1ed) |
+| Sat, 26 Jul 2025 03:58:54 GMT | The AI Arms Race: Can Cybersecurity Survive the Professional Hacker? | Bikash Peeripaul | [Read More](https://medium.com/p/89c387b34d85) |
 | Sat, 26 Jul 2025 03:57:45 GMT | The New Cyber Sentinel: How AI Is Transforming Threat Detection | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/2b8a3b861332) |
 | Sat, 26 Jul 2025 03:46:57 GMT | Insecure OTP Mechanism: How I Discovered a Replay Attack Vulnerability | Blue_eye | [Read More](https://medium.com/p/a1c10e49c298) |
 | Sat, 26 Jul 2025 03:35:12 GMT | SMT 2025 — Expert Lecture 1 | Firdhan H | [Read More](https://medium.com/p/caed1401d694) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 19:12:06 GMT | Guide: Grab BUG During the Upcoming Reward Rain | Bug | [Read More](https://medium.com/p/cc867ca23d89) |
 | Fri, 25 Jul 2025 19:09:59 GMT | 10 Red Team Tools That Belong in Every Hacker’s Arsenal | SAMAEL 0x4 | [Read More](https://medium.com/p/3e37fdaaf167) |
 | Fri, 25 Jul 2025 19:05:50 GMT | A Letter to My Scammer: The weight of Small Betrayals | Ajay Kumar Raja | [Read More](https://medium.com/p/8dfefa639bec) |
-| Fri, 25 Jul 2025 18:49:52 GMT | 10 Mind-Blowing Google Dorks You Should Use in 2025 | SAMAEL 0x4 | [Read More](https://medium.com/p/6b761875a27f) |
-| Fri, 25 Jul 2025 18:49:37 GMT | JavaScript Security in 2025: Defending Against Advanced Threats | Navanath Jadhav | [Read More](https://medium.com/p/795e36a24559) |
-| Fri, 25 Jul 2025 18:49:27 GMT | NoSQL Injection: Exploitation Techniques and Attack Scenarios | Het Patel | [Read More](https://medium.com/p/434ebec61dbd) |
-| Fri, 25 Jul 2025 18:47:47 GMT | AI in Logistics Software Development-Overview | Nigam Raval | [Read More](https://medium.com/p/96233836bf70) |
-| Fri, 25 Jul 2025 18:47:12 GMT | Client-Side Mayhem: My Hands-On Experience Hacking Smart Home Interfaces with JavaScript | Maximilian Oliver | [Read More](https://medium.com/p/a8ddbf35a970) |
-| Fri, 25 Jul 2025 18:43:45 GMT | How to optimize and secure Django? | XO Aria | [Read More](https://medium.com/p/f2629126af4a) |
-| Fri, 25 Jul 2025 18:38:00 GMT | Mandatory UK Government Cybersecurity Certification: Cyber Essentials Scheme | Dr Francesco Dergano | [Read More](https://medium.com/p/f1dcd39f63e8) |
-| Fri, 25 Jul 2025 18:37:47 GMT | CTF Friday Overtime- TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/4d1e5f7e9bac) |
-| Fri, 25 Jul 2025 18:36:50 GMT | DAY 25 — Chapter 13: Becoming Secure and Anonymous in a Tracked World | Jinay | [Read More](https://medium.com/p/f376df382c37) |
-| Fri, 25 Jul 2025 18:34:57 GMT | The Quiet War Inside Your Wi-Fi Router | Akshay Chauhan | [Read More](https://medium.com/p/bd587975ce0c) |
-| Fri, 25 Jul 2025 18:32:04 GMT | The Future of Commercial Perimeter Security: Smart Fencing and Real-Time Alerts | DEFEND MY BUSINESS | [Read More](https://medium.com/p/f2522be00ab2) |
-| Fri, 25 Jul 2025 18:31:49 GMT | Built It. Obfuscated It. Now What? Securing Your Python Tool After Deployment | Rue | [Read More](https://medium.com/p/e2fe12b21b3b) |
-| Fri, 25 Jul 2025 18:31:40 GMT | Best Parental Monitoring Spy Apps to Track Your Child’s Phone Usage | Narjis Batool | [Read More](https://medium.com/p/334e393e1006) |
