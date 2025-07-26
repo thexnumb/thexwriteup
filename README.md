@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 01:39:42 GMT | OS command injection, simple case [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/601126eea44a) |
+| Sat, 26 Jul 2025 01:27:04 GMT | Let’s Defend: 123 — SOC173 — Follina 0-Day Detected | EPereda | [Read More](https://medium.com/p/4ab5759af14e) |
+| Sat, 26 Jul 2025 01:27:03 GMT | Let’s Defend: 153 — SOC202 — FakeGPT Malicious Chrome Extension - Writeup | EPereda | [Read More](https://medium.com/p/301b3cdc0e6d) |
+| Sat, 26 Jul 2025 01:26:59 GMT | Let’s Defend: 161 — SOC211 — Utilman.exe Winlogon Exploit Attempt - Writeup | EPereda | [Read More](https://medium.com/p/e387d204b951) |
+| Sat, 26 Jul 2025 01:22:27 GMT | GLBA Compliance: What Every Financial Institution and School Must Know | Don Jayathilake | [Read More](https://medium.com/p/43cd4105eca8) |
+| Sat, 26 Jul 2025 01:16:03 GMT | Day 0 — The Start of My Cybersecurity Journey | Tomaz | [Read More](https://medium.com/p/c96f5b07bfd7) |
+| Sat, 26 Jul 2025 01:01:01 GMT | Secure Storage in Android: SharedPreferences, DataStore, and Keystore Explained | Charles Raj Iruthayaraj | [Read More](https://medium.com/p/bf59474aa382) |
+| Sat, 26 Jul 2025 00:43:08 GMT | Coding habits and Mac local environments for software development | Joe Alongi | [Read More](https://medium.com/p/cc70246162d4) |
+| Sat, 26 Jul 2025 00:40:47 GMT | Navigating the Canadian Job Market: Insights from Diego De Fabio Brito | Berkcan Alankoy | [Read More](https://medium.com/p/55231ab8e90f) |
+| Sat, 26 Jul 2025 00:37:22 GMT | How to Contact Me Safely About Crypto Recovery | Swift Wealth Rescue | [Read More](https://medium.com/p/eb8c66fbdb91) |
+| Sat, 26 Jul 2025 00:26:35 GMT | Launch bonus Secrets: How to Pocket DORK for maximum benefits | DORK | [Read More](https://medium.com/p/261553caacfc) |
+| Sat, 26 Jul 2025 00:24:52 GMT | I Thought USPS Was Scamming Me — Here’s What I Learned About Email Security (And Modern Paranoia) | Jennifer Wei | [Read More](https://medium.com/p/169e62b1a33c) |
+| Sat, 26 Jul 2025 00:01:51 GMT | Vulnerable and obsolete components (OWASP A06): Hacking and Bug Bounty Guide | JPablo13 | [Read More](https://medium.com/p/0f8b3d1736c4) |
 | Fri, 25 Jul 2025 23:22:03 GMT | You Don’t Have to Pretend with God | Nissi | [Read More](https://medium.com/p/aa61b1bf8396) |
 | Fri, 25 Jul 2025 23:20:58 GMT | Flash USDT Explained – For Educational Purposes Only | Hoce | [Read More](https://medium.com/p/75d4a8de98a7) |
 | Fri, 25 Jul 2025 23:18:59 GMT | What RHCSS Taught Me About Hardening Red Hat Servers — And How I Would Actually Use It | Abdulmalik Basulayb | [Read More](https://medium.com/p/3bbcf4008c99) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 17:15:29 GMT | Frugal Cloud Security: Enforcing Trusted Ingress with AWS WAF and Cloudflare: Why and How | Devam Desai | [Read More](https://medium.com/p/cb99de6aeb08) |
 | Fri, 25 Jul 2025 17:09:40 GMT | The tool that gave me the first bounty | mohaned alkhlot | [Read More](https://medium.com/p/9303cac972a3) |
 | Fri, 25 Jul 2025 17:09:24 GMT | picoCTF — Verify | Robby firdauzy | [Read More](https://medium.com/p/4dde4b071ae4) |
-| Fri, 25 Jul 2025 17:06:33 GMT | Amazon Prime Scam Alert | Eina Schroeder | [Read More](https://medium.com/p/4d614a811806) |
-| Fri, 25 Jul 2025 17:06:01 GMT | Our Smart Contract Dev Hid a Backdoor — And Drained $1.2M Before We Caught Him | Web3 Nautiyal | [Read More](https://medium.com/p/1a6a8b327f07) |
-| Fri, 25 Jul 2025 16:54:09 GMT | “The Hidden Epidemic: How Sensitive Data Exposure Became My Biggest Security Nightmare” | Aman Sharma | [Read More](https://medium.com/p/7f492a42456a) |
-| Fri, 25 Jul 2025 16:52:43 GMT | Rodičovská kontrola na úrovni wifi routera | WELLNET.SK | [Read More](https://medium.com/p/6dfc3a82d4f3) |
-| Fri, 25 Jul 2025 16:52:21 GMT | Stopping Advanced Threats with Endpoint Detection and Response | SafeAeon Inc. | [Read More](https://medium.com/p/b1a78969b329) |
-| Fri, 25 Jul 2025 16:43:02 GMT | Global SharePoint Server Hack Escalates as Ransomware Joins Cyber-Espionage Campaign. | eL Njas!™ | [Read More](https://medium.com/p/25d7c3d6dc85) |
-| Fri, 25 Jul 2025 16:42:07 GMT | OpenCTI Setup: Integrating MITRE, AbuseIPDB, AlienVault & RSS Feeds for Threat Intelligence | Hariharan | [Read More](https://medium.com/p/ac0c559169b2) |
-| Fri, 25 Jul 2025 16:41:48 GMT | Plaintext, Encoding, Hashing & Encryption – Explained with examples | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/95cebd880eb0) |
-| Fri, 25 Jul 2025 16:41:01 GMT | ️ SubDNS-UI: Build Your Own Subdomain + DNS Enumerator with a Clean UI and Markdown Reporting | Rajkumar Kumawat | [Read More](https://medium.com/p/b560724d505a) |
-| Fri, 25 Jul 2025 16:39:52 GMT | Cybersecurity News Review — Week 30 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/8f31ad4a64ed) |
-| Fri, 25 Jul 2025 16:38:39 GMT | About Me | Jose Hernandez | [Read More](https://medium.com/p/3b2d53016d87) |
-| Fri, 25 Jul 2025 16:35:25 GMT | TRAI and RBI Launch Digital Consent Pilot to Curb Spam Calls in India: What It Means for You | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/e26375913d66) |
-| Fri, 25 Jul 2025 16:17:16 GMT | Downgrading FIDO: How Attackers Are Exploiting Cross-Device Sign-In to Phish Secure Accounts | _Anirudh_ | [Read More](https://medium.com/p/74df24b5717f) |
