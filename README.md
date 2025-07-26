@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 23:20:36 GMT | Why Your Security Strategy Is Backwards (And How to Fix It) | Joao Silva | [Read More](https://medium.com/p/42348dab7b8b) |
+| Sat, 26 Jul 2025 23:15:21 GMT | Semicenk —’’ Canın Sağolsun’’ Şarkısının Nöro-Sosyal Analizi ve Toplumsal Etkisi | Kubra Soydan | [Read More](https://medium.com/p/8eb4e05c3405) |
 | Sat, 26 Jul 2025 23:04:19 GMT | I Got ROOT Access to a Hosting Provider Without a Single Exploit | KonaN | [Read More](https://medium.com/p/c6af4185dc54) |
 | Sat, 26 Jul 2025 23:03:48 GMT | Boom. That’s Exploitation — Stage 4 of the Cyber Kill Chain | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/65094ad30bfb) |
 | Sat, 26 Jul 2025 23:00:34 GMT | How to Install Linux on a Windows PC (Beginner Friendly) | Omeiza | [Read More](https://medium.com/p/3172df4b9fa5) |
@@ -112,5 +114,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e
 By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) |
 | Sat, 26 Jul 2025 16:03:35 GMT | Introduction to Threat Intelligence: Key Concepts and Definitions | Hitesh Said | [Read More](https://medium.com/p/11969e321798) |
 | Sat, 26 Jul 2025 16:03:24 GMT | Information Disclosure | Ayesha | [Read More](https://medium.com/p/5545bfe66054) |
-| Sat, 26 Jul 2025 16:02:19 GMT | Is Cybersecurity Hard to Learn Without a Tech Background? | Gotechanic01 | [Read More](https://medium.com/p/91304de93486) |
-| Sat, 26 Jul 2025 15:47:53 GMT | Overview of the new eMAPT | Rodolfo Mariano | [Read More](https://medium.com/p/53d45776fffe) |
