@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 19:27:17 GMT | EP 02: Sender Policy Framework (SPF) | H.W.K. Aravinda | [Read More](https://medium.com/p/48e74b7e8d4e) |
+| Sat, 26 Jul 2025 19:19:42 GMT | Write Up CTF IT Fest IPB 2025 | syntaxis | [Read More](https://medium.com/p/1e0ff918e312) |
+| Sat, 26 Jul 2025 19:05:50 GMT | 5 Reasons I Stopped Counting On People. | Dani Ike | [Read More](https://medium.com/p/c31c7dea648c) |
 | Sat, 26 Jul 2025 19:02:55 GMT | How to Prepare for Penetration Testing: Key Technological Prerequisites | Ayush Aarav | [Read More](https://medium.com/p/a992c8ede91c) |
 | Sat, 26 Jul 2025 18:45:25 GMT | does getting to know them means loving them lesser ? | Gabrielle | [Read More](https://medium.com/p/f01ac5f3c706) |
 | Sat, 26 Jul 2025 18:43:49 GMT | Did‏ you expect to be a farmer when you studied networking?‍‍ | Maya | [Read More](https://medium.com/p/d33213ae80b7) |
@@ -110,6 +113,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 12:24:05 GMT | How to use “Caido Workflows” to scan for anything | Mostafa Alrefai | [Read More](https://medium.com/p/07eed72ba06a) |
 | Sat, 26 Jul 2025 12:19:14 GMT | Recon-ng Nedir? Nasıl Kullanılır? (Etkili Uygulama Tekniğiyle) | idriscelik | [Read More](https://medium.com/p/f32d35651590) |
 | Sat, 26 Jul 2025 12:18:49 GMT | Insecure by Design: How a Mobile API Let Me Reset Anyone’s Password With Just a Phone Number | Iski | [Read More](https://medium.com/p/ba588ec384e5) |
-| Sat, 26 Jul 2025 12:16:52 GMT | I Want to Be Ugly | Kakoli Aster♡ | [Read More](https://medium.com/p/845501a3d5df) |
-| Sat, 26 Jul 2025 12:09:30 GMT | The Future of Email Isn’t Centralized | Aliciasierra | [Read More](https://medium.com/p/028ea455bd3d) |
-| Sat, 26 Jul 2025 12:07:16 GMT | Cybersecurity in 2025: Emerging Threats and How to Stay Protected | Marymagdalene Ogeleka | [Read More](https://medium.com/p/cbe558f9a4e4) |
