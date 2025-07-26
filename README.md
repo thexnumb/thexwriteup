@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 11:15:17 GMT | Are we waiting for the pain to return, so we can choose to be numb? | Storiews | [Read More](https://medium.com/p/0ad44c5655e3) |
+| Sat, 26 Jul 2025 11:12:08 GMT | Hacking Raven2- Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/81e0bfbb8ff0) |
+| Sat, 26 Jul 2025 11:07:36 GMT | Why Every Girls Hostel in Delhi Must Have a Security Guard Today? | Sumintra | [Read More](https://medium.com/p/d08804ac1fec) |
+| Sat, 26 Jul 2025 11:07:07 GMT | What is Ethical Hacking? | sihackermok | [Read More](https://medium.com/p/ecd2e163de7e) |
+| Sat, 26 Jul 2025 11:04:09 GMT | I Made Myself Smaller So No One Would Worry About Me | iel | [Read More](https://medium.com/p/6c6397e3119d) |
+| Sat, 26 Jul 2025 11:02:48 GMT | Cybersecurity as Poetry #2 shorts from notes app | Rue | [Read More](https://medium.com/p/c94913c04ead) |
+| Sat, 26 Jul 2025 10:56:47 GMT | I Was Told Not To Make A Scene | Avanti Nioding | [Read More](https://medium.com/p/b2f1cf2fb82b) |
+| Sat, 26 Jul 2025 10:55:48 GMT | ️ Static Malware Analysis: A Step-by-Step Walkthrough | Praz Timsina | [Read More](https://medium.com/p/351647d6592d) |
+| Sat, 26 Jul 2025 10:50:20 GMT | Which is Easy Cybersecurity Or Artificial Intelligence: A Detailed Comparison | Techzonego | [Read More](https://medium.com/p/aec3864095a8) |
+| Sat, 26 Jul 2025 10:47:28 GMT | Fixing APT repository Warnings in Kali Linux | GhostNex | [Read More](https://medium.com/p/3b14d3eb0fce) |
+| Sat, 26 Jul 2025 10:35:57 GMT | ️ TryHackMe Autopsy Room: A Hands-on Guide to Windows Forensics | Furkanctiner | [Read More](https://medium.com/p/1fe373ce1567) |
 | Sat, 26 Jul 2025 10:34:29 GMT | Review for CYBERSKY Courses | Diyar Saadi - Malfav | [Read More](https://medium.com/p/900a9f5828c8) |
 | Sat, 26 Jul 2025 10:29:01 GMT | Tea App That Claimed to Protect Women Exposes 72,000 IDs in Epic Security Fail | IC News | [Read More](https://medium.com/p/782ae2be287d) |
 | Sat, 26 Jul 2025 10:24:57 GMT | Diploma in AI and Information Security in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/26444b327f69) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 06:11:49 GMT | Academy: TCM-Security Walkthrough | Khushipanwar | [Read More](https://medium.com/p/8a81dda28e75) |
 | Sat, 26 Jul 2025 06:10:10 GMT | 7 Years in Cybersecurity: What I’ve Learned as a Penetration Tester | Mr Joe | [Read More](https://medium.com/p/85d7c14cb17e) |
 | Sat, 26 Jul 2025 06:06:05 GMT | How AI Is Affecting Cybersecurity: A Penetration Tester’s Perspective | Mr Joe | [Read More](https://medium.com/p/4cb739eb9699) |
-| Sat, 26 Jul 2025 06:02:27 GMT | How to Recover a Frozen Bank Account Linked to Cyber Fraud? | OLC Agra | [Read More](https://medium.com/p/68eff965d39a) |
-| Sat, 26 Jul 2025 06:00:40 GMT | How to Exploit XSS Using Burp Suite | Mr Joe | [Read More](https://medium.com/p/e46f4c4ef91d) |
-| Sat, 26 Jul 2025 06:00:33 GMT | Today’s Top Cyber Intelligence Highlights — Jul 26, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b87a9044cebb) |
-| Sat, 26 Jul 2025 05:59:51 GMT | How AI Is Transforming Education: Smart Classrooms & Personalized Learning in 2025 | Payaam Raza | [Read More](https://medium.com/p/65b4e8310c14) |
-| Sat, 26 Jul 2025 05:54:56 GMT | You Are Being Watched: What Your Browser Knows About You in 60 Seconds | CYber VIaz | [Read More](https://medium.com/p/a0f1c1896516) |
-| Sat, 26 Jul 2025 05:48:25 GMT | SSRF via Flawed Request Parsing Leads to SSRF and Internal Admin Access | Bash Overflow | [Read More](https://medium.com/p/ffac4b3103db) |
-| Sat, 26 Jul 2025 05:47:37 GMT | How I Got Into Cybersecurity at 17 — My Journey from School Dropout to Analyst | Christian Ravindu | [Read More](https://medium.com/p/8940f8e93a38) |
-| Sat, 26 Jul 2025 05:42:05 GMT | The Modern Developer’s Guide to Building Secure Web Apps (Without Overengineering It) | Parth Patel | [Read More](https://medium.com/p/2dfa67c30754) |
-| Sat, 26 Jul 2025 05:32:10 GMT | PA-450R by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b5701bc22ad7) |
-| Sat, 26 Jul 2025 05:28:02 GMT | Data breach: what should we do? | Mufid Fata Rifki | [Read More](https://medium.com/p/a7cd5e939009) |
-| Sat, 26 Jul 2025 05:18:58 GMT | Level Up Your OSINT: 21 Essential Browser Extensions You Need Now | Sohanur Rahman | [Read More](https://medium.com/p/4495860d1f9c) |
