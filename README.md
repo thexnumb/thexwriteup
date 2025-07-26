@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 12:34:16 GMT | Timestamp: July 26, 2025. | Drew Phillips jr | [Read More](https://medium.com/p/a51ba5cf376f) |
+| Sat, 26 Jul 2025 12:33:48 GMT | The Invisible War for Your Data: Why Your Family’s Privacy is at Risk | Edgar Yende | [Read More](https://medium.com/p/b0b32a6510d7) |
+| Sat, 26 Jul 2025 12:31:27 GMT | Tabletop Exercises: Is Your Organization Overlooking a Critical Gap in Its Incident Response? | Heba Farahat | [Read More](https://medium.com/p/7ff8a30653da) |
+| Sat, 26 Jul 2025 12:24:05 GMT | How to use “Caido Workflows” to scan for anything | Mostafa Alrefai | [Read More](https://medium.com/p/07eed72ba06a) |
+| Sat, 26 Jul 2025 12:19:14 GMT | Recon-ng Nedir? Nasıl Kullanılır? (Etkili Uygulama Tekniğiyle) | idriscelik | [Read More](https://medium.com/p/f32d35651590) |
+| Sat, 26 Jul 2025 12:18:49 GMT | Insecure by Design: How a Mobile API Let Me Reset Anyone’s Password With Just a Phone Number | Iski | [Read More](https://medium.com/p/ba588ec384e5) |
+| Sat, 26 Jul 2025 12:16:52 GMT | I Want to Be Ugly | Kakoli Aster♡ | [Read More](https://medium.com/p/845501a3d5df) |
+| Sat, 26 Jul 2025 12:09:30 GMT | The Future of Email Isn’t Centralized | Aliciasierra | [Read More](https://medium.com/p/028ea455bd3d) |
+| Sat, 26 Jul 2025 12:07:16 GMT | Cybersecurity in 2025: Emerging Threats and How to Stay Protected | Marymagdalene Ogeleka | [Read More](https://medium.com/p/cbe558f9a4e4) |
+| Sat, 26 Jul 2025 12:01:48 GMT | How I’m Breaking Into Ethical Hacking Without Fancy Gear or Connections | Ghostgrid (Ndifreke Bassey) | [Read More](https://medium.com/p/c33f3c5d48af) |
+| Sat, 26 Jul 2025 11:59:50 GMT | “Wayback Machine” üzerinden Hassas Dosya Keşfi | Necati Ustun | [Read More](https://medium.com/p/4ce4e0153b10) |
+| Sat, 26 Jul 2025 11:59:35 GMT | How to Delete 99.9% of Your Digital Footprint | ASWIN S KUMAR | [Read More](https://medium.com/p/24b586d5ab67) |
 | Sat, 26 Jul 2025 11:30:20 GMT | Your Data, Your Control: Ech Browser’s Commitment to Privacy | Psylinks Announce | [Read More](https://medium.com/p/bd66d8ba0f0e) |
 | Sat, 26 Jul 2025 11:28:01 GMT | Repeat Offenders: LummaStealer Malware Analysis | grepStrength | [Read More](https://medium.com/p/8335683eaa0c) |
 | Sat, 26 Jul 2025 11:23:52 GMT | Breaking Filter: XSS Bypass using ononmouseovermouseover, ONMOUSEOVER and without () `` [] … | xploiterr | [Read More](https://medium.com/p/e2025486351c) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 07:01:54 GMT | How I Automated My Web Dev Routine Using Just JavaScript and Browser APIs | Suleman safdar | [Read More](https://medium.com/p/a02732563d41) |
 | Sat, 26 Jul 2025 07:01:02 GMT | Framing the responsibility of National Security Organizations on AI | Mubarek | [Read More](https://medium.com/p/a74b6ff9cc5c) |
 | Sat, 26 Jul 2025 07:00:46 GMT | Best AWS Associate Certification Course in 2025 | cyber security Updates | [Read More](https://medium.com/p/18f8048aecd2) |
-| Sat, 26 Jul 2025 07:00:39 GMT | Intelligent Perimeter Defense: Perimeter Intrusion Detection Solutions for KSA | expbhavya | [Read More](https://medium.com/p/10373ad071e2) |
-| Sat, 26 Jul 2025 06:59:27 GMT | Top Web Development Company Near Me in Shimla | Skydo Solutions | [Read More](https://medium.com/p/9922951caf97) |
-| Sat, 26 Jul 2025 06:57:32 GMT | Understanding Sockets in Python for Cybersecurity: A Beginner’s Guide | Carylrobert | [Read More](https://medium.com/p/10df9aff6a50) |
-| Sat, 26 Jul 2025 06:55:47 GMT | Capture Exclusive RECON Through Recon Solana's Bonus Rollout | Daniel
- Larson | [Read More](https://medium.com/p/6acac449fd41) |
-| Sat, 26 Jul 2025 06:51:48 GMT | The Linux Security Journey — Non-Executable Memory (NX Bit Support) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/a7e1d0a2ac0d) |
-| Sat, 26 Jul 2025 06:50:08 GMT | How to Automate Nmap with Python — A Beginner-Friendly Guide | Carylrobert | [Read More](https://medium.com/p/a0614dd06950) |
-| Sat, 26 Jul 2025 06:49:43 GMT | Mastering Nmap: A Beginner’s Guide and Enterprise Use Cases | Akhil Binu | [Read More](https://medium.com/p/ae6d6072b0e1) |
-| Sat, 26 Jul 2025 06:34:09 GMT | How the Internet Works: Crash Course for Beginners | Ayush Kumar | [Read More](https://medium.com/p/cdab7d641410) |
-| Sat, 26 Jul 2025 06:33:44 GMT | Linux Command Line Cheat Sheet | Zino jo | [Read More](https://medium.com/p/3f3cb22296a5) |
-| Sat, 26 Jul 2025 06:30:20 GMT | Why a No-Subscription Home Security System Might Be Perfect for You | ARK Writes | [Read More](https://medium.com/p/a0579e6e7b8a) |
-| Sat, 26 Jul 2025 06:23:46 GMT | Why Penetration Testers Earn Higher Pay in Cybersecurity | Zino jo | [Read More](https://medium.com/p/9e99a7d1d5de) |
-| Sat, 26 Jul 2025 06:19:47 GMT | The Invisible Heist: How Hackers Are Stealing Your Life Without Touching Your Bank Account | Recover Right | [Read More](https://medium.com/p/30b492f6654f) |
