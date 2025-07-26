@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 20:17:57 GMT | Growing in the Quiet, the Unseen and Felt | Liana Rosh | [Read More](https://medium.com/p/c780f7fdc3aa) |
+| Sat, 26 Jul 2025 20:08:50 GMT | I Got Hired Without a CV | Esther | [Read More](https://medium.com/p/45742dc44e2f) |
+| Sat, 26 Jul 2025 20:01:22 GMT | Civilization. The next page.(109) | Jan Slort | [Read More](https://medium.com/p/0b70594f96b8) |
+| Sat, 26 Jul 2025 19:52:26 GMT | ️ TryHackMe: Memory Forensics with Redline — Step by Step Review | Furkanctiner | [Read More](https://medium.com/p/59a053948874) |
+| Sat, 26 Jul 2025 19:52:21 GMT | Tired of high costs and unreliable on-site guards? | Visual Monitoring Solutions | [Read More](https://medium.com/p/645ef6750376) |
+| Sat, 26 Jul 2025 19:47:53 GMT | DAY 26–Memory Is a Liar: How I Solved the 13Cubed Memory CTF Using Volatility | Jinay | [Read More](https://medium.com/p/21d9909a9754) |
+| Sat, 26 Jul 2025 19:45:19 GMT | IAM at SCALE — Enterprise level IAM handling | Atimis | [Read More](https://medium.com/p/d2f5825c1a10) |
+| Sat, 26 Jul 2025 19:37:57 GMT | CVE-2025–6977-POC — Reflected XSS in ProfileGrid WordPress Plugin (Unauthenticated) | CANITEY | [Read More](https://medium.com/p/158bb0595c08) |
 | Sat, 26 Jul 2025 19:27:17 GMT | EP 02: Sender Policy Framework (SPF) | H.W.K. Aravinda | [Read More](https://medium.com/p/48e74b7e8d4e) |
 | Sat, 26 Jul 2025 19:19:42 GMT | Write Up CTF IT Fest IPB 2025 | syntaxis | [Read More](https://medium.com/p/1e0ff918e312) |
 | Sat, 26 Jul 2025 19:05:50 GMT | 5 Reasons I Stopped Counting On People. | Dani Ike | [Read More](https://medium.com/p/c31c7dea648c) |
@@ -105,11 +113,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 12:49:09 GMT | To engage directly: | Drew Phillips jr | [Read More](https://medium.com/p/524b0323f086) |
 | Sat, 26 Jul 2025 12:46:36 GMT | Linux PAM Modules: In-Depth Security and Authentication | Esra Kayhan | [Read More](https://medium.com/p/84ffce5f9106) |
 | Sat, 26 Jul 2025 12:39:01 GMT | My MasterCard | HD.39 | [Read More](https://medium.com/p/07bf440d1e38) |
-| Sat, 26 Jul 2025 12:37:23 GMT | Cicada - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/0198ce49d80e) |
-| Sat, 26 Jul 2025 12:34:16 GMT | Timestamp: July 26, 2025. | Drew Phillips jr | [Read More](https://medium.com/p/a51ba5cf376f) |
-| Sat, 26 Jul 2025 12:33:48 GMT | The Invisible War for Your Data: Why Your Family’s Privacy is at Risk | Edgar Yende | [Read More](https://medium.com/p/b0b32a6510d7) |
-| Sat, 26 Jul 2025 12:33:29 GMT | 2025 DevOps Outlook: How AI DevOps Platforms Are Redefining the Role of DevOps Service Companies | Devseccopsai | [Read More](https://medium.com/p/5353770980c0) |
-| Sat, 26 Jul 2025 12:31:27 GMT | Tabletop Exercises: Is Your Organization Overlooking a Critical Gap in Its Incident Response? | Heba Farahat | [Read More](https://medium.com/p/7ff8a30653da) |
-| Sat, 26 Jul 2025 12:24:05 GMT | How to use “Caido Workflows” to scan for anything | Mostafa Alrefai | [Read More](https://medium.com/p/07eed72ba06a) |
-| Sat, 26 Jul 2025 12:19:14 GMT | Recon-ng Nedir? Nasıl Kullanılır? (Etkili Uygulama Tekniğiyle) | idriscelik | [Read More](https://medium.com/p/f32d35651590) |
-| Sat, 26 Jul 2025 12:18:49 GMT | Insecure by Design: How a Mobile API Let Me Reset Anyone’s Password With Just a Phone Number | Iski | [Read More](https://medium.com/p/ba588ec384e5) |
