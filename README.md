@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 16:19:00 GMT | Cybersecurity Isn’t Rocket Science — But It’s Not Easy Either | Gotechanic003 | [Read More](https://medium.com/p/31750241675c) |
+| Sat, 26 Jul 2025 16:18:52 GMT | N0aziXss Origin Recon v3.1: The Ultimate CDN Bypass & Infrastructure Mapping Tool | N0aziXss | [Read More](https://medium.com/p/efcd80439b3f) |
+| Sat, 26 Jul 2025 16:13:46 GMT | 10 Common Online Scams (and How to Avoid Them in 2025) | Manander Singh (MSD) | [Read More](https://medium.com/p/620320bc49bd) |
+| Sat, 26 Jul 2025 16:11:27 GMT | You Got Hacked and Didn’t Even Notice — Here’s How | Yousaf javed | [Read More](https://medium.com/p/d69128f61e5e) |
+| Sat, 26 Jul 2025 16:06:42 GMT | How Hackers Use AI in 2025: The Alarming Rise of Smart Malware and Ransomware
+By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) |
+| Sat, 26 Jul 2025 16:03:35 GMT | Introduction to Threat Intelligence: Key Concepts and Definitions | Hitesh Said | [Read More](https://medium.com/p/11969e321798) |
+| Sat, 26 Jul 2025 16:03:24 GMT | Information Disclosure | Ayesha | [Read More](https://medium.com/p/5545bfe66054) |
+| Sat, 26 Jul 2025 16:02:19 GMT | Is Cybersecurity Hard to Learn Without a Tech Background? | Gotechanic01 | [Read More](https://medium.com/p/91304de93486) |
+| Sat, 26 Jul 2025 15:47:53 GMT | Overview of the new eMAPT | Rodolfo Mariano | [Read More](https://medium.com/p/53d45776fffe) |
+| Sat, 26 Jul 2025 15:45:31 GMT | Overthewire is a free website that helps beginners learn Linux by playing games. | Augustine Sito | [Read More](https://medium.com/p/2206b65a45f0) |
+| Sat, 26 Jul 2025 15:40:27 GMT | Breaking the Myth: How Hard Is Cybersecurity Really? | Gotechanic01 | [Read More](https://medium.com/p/082ff518f7d1) |
 | Sat, 26 Jul 2025 15:36:41 GMT | “the thing that you are most afraid to write, write that.” | Dhara Joy | [Read More](https://medium.com/p/445a10f718ea) |
 | Sat, 26 Jul 2025 15:35:42 GMT | Stateless Routing with HMAC: A New Layer of C2 Discipline | Rezznux | [Read More](https://medium.com/p/981dea76f9ab) |
 | Sat, 26 Jul 2025 15:30:12 GMT | ShaktiCTF25 | MegaTron | [Read More](https://medium.com/p/081e4271bf1d) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 09:22:20 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #7 Solution | Aviv Yaniv | [Read More](https://medium.com/p/42ccffceb492) |
 | Sat, 26 Jul 2025 09:21:26 GMT | GraphQL for the next API Penetration Testing | 0xjar | [Read More](https://medium.com/p/0922b3adef58) |
 | Sat, 26 Jul 2025 09:19:48 GMT | The Art of Not Getting Caught: Avoiding the Gaze of the Surveillance State | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/978e485aef1b) |
-| Sat, 26 Jul 2025 09:15:50 GMT | How to Convert MBOX to EML Files? A Complete Guide | MILAN KUMAR VISHVAS | [Read More](https://medium.com/p/a73277d84841) |
-| Sat, 26 Jul 2025 09:15:14 GMT | Report: Content Security Policy Bypass (Static Nonce) Level:Medium | henrie mate | [Read More](https://medium.com/p/6d0f1d0bb87a) |
-| Sat, 26 Jul 2025 09:08:00 GMT | Receive Your Share of Curvance's Token Release and Enjoy bonus tokens | Curvance | [Read More](https://medium.com/p/90927ec4e62d) |
-| Sat, 26 Jul 2025 09:02:12 GMT | Cybersecurity in the AI Era: Why Your Skills Are More Critical Than Ever | Dhanushshet | [Read More](https://medium.com/p/7d7f94f8aa13) |
-| Sat, 26 Jul 2025 08:57:19 GMT | Walkthrough THM Dreaming | Telynor | [Read More](https://medium.com/p/b952d6218a2c) |
-| Sat, 26 Jul 2025 08:55:06 GMT | Tea App, Meant to Protect Women, Faces Breach and a Painful Lesson in Security Oversight & “Vibe… | Cyber Axe | [Read More](https://medium.com/p/3ac2abd78d14) |
-| Sat, 26 Jul 2025 08:51:49 GMT | Navigating the Multi-Cloud Maze: Essential Pentesting Training for Security Teams in Large… | cyber_pix | [Read More](https://medium.com/p/7baa89c8e690) |
-| Sat, 26 Jul 2025 08:51:33 GMT | Cybersecurity Basics for Beginners: They Said It Was Just Data — Until It Ruined Lives… | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/85efa0faf53d) |
-| Sat, 26 Jul 2025 08:50:44 GMT | Learn Hacking the Smart Way in 2025 — A Beginner’s Guide to Cybersecurity Career as Penetration… | SVR | [Read More](https://medium.com/p/ffce33a82348) |
-| Sat, 26 Jul 2025 08:47:23 GMT | Welcome to the Chaos Theater: Madness Orchestration in the Age of AI | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/20430e9d1756) |
-| Sat, 26 Jul 2025 08:46:22 GMT | DNS Zone Transfer: Concepts, Mechanism, and Security Implications | Meravytes | [Read More](https://medium.com/p/acd4f1f53f6d) |
