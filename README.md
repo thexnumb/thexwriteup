@@ -12,10 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 09:15:50 GMT | How to Convert MBOX to EML Files? A Complete Guide | MILAN KUMAR VISHVAS | [Read More](https://medium.com/p/a73277d84841) |
+| Sat, 26 Jul 2025 09:15:14 GMT | Report: Content Security Policy Bypass (Static Nonce) Level:Medium | henrie mate | [Read More](https://medium.com/p/6d0f1d0bb87a) |
+| Sat, 26 Jul 2025 09:08:00 GMT | Receive Your Share of Curvance's Token Release and Enjoy bonus tokens | Curvance | [Read More](https://medium.com/p/90927ec4e62d) |
+| Sat, 26 Jul 2025 09:02:12 GMT | Cybersecurity in the AI Era: Why Your Skills Are More Critical Than Ever | Dhanushshet | [Read More](https://medium.com/p/7d7f94f8aa13) |
+| Sat, 26 Jul 2025 08:57:19 GMT | Walkthrough THM Dreaming | Telynor | [Read More](https://medium.com/p/b952d6218a2c) |
+| Sat, 26 Jul 2025 08:55:06 GMT | Tea App, Meant to Protect Women, Faces Breach and a Painful Lesson in Security Oversight & “Vibe… | Cyber Axe | [Read More](https://medium.com/p/3ac2abd78d14) |
+| Sat, 26 Jul 2025 08:51:49 GMT | Navigating the Multi-Cloud Maze: Essential Pentesting Training for Security Teams in Large… | cyber_pix | [Read More](https://medium.com/p/7baa89c8e690) |
+| Sat, 26 Jul 2025 08:51:33 GMT | Cybersecurity Basics for Beginners: They Said It Was Just Data — Until It Ruined Lives… | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/85efa0faf53d) |
+| Sat, 26 Jul 2025 08:50:44 GMT | Learn Hacking the Smart Way in 2025 — A Beginner’s Guide to Cybersecurity Career as Penetration… | SVR | [Read More](https://medium.com/p/ffce33a82348) |
+| Sat, 26 Jul 2025 08:47:23 GMT | Welcome to the Chaos Theater: Madness Orchestration in the Age of AI | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/20430e9d1756) |
 | Sat, 26 Jul 2025 08:46:22 GMT | DNS Zone Transfer: Concepts, Mechanism, and Security Implications | Meravytes | [Read More](https://medium.com/p/acd4f1f53f6d) |
 | Sat, 26 Jul 2025 08:43:33 GMT | How to Become a Bug Bounty Hunter in 2025 (No Degree Needed) | Inayat Hussain | [Read More](https://medium.com/p/23ea2f5d8800) |
 | Sat, 26 Jul 2025 08:41:41 GMT | Top 10 Open-Source Intelligence (OSINT) Tools for Cybersecurity Professionals in 2025 | Inayat Hussain | [Read More](https://medium.com/p/fb27ba4f7be7) |
 | Sat, 26 Jul 2025 08:39:57 GMT | The Rise of a Self-Made Technologist from Rural Pakistan | Inayat Hussain | [Read More](https://medium.com/p/95293911e838) |
+| Sat, 26 Jul 2025 08:38:43 GMT | Exploring the Benefits of Las Sola Bollard Outdoor Lighting | willisvanessa2426 | [Read More](https://medium.com/p/a1b2e3b94936) |
 | Sat, 26 Jul 2025 08:36:33 GMT | Linux Command 101: “tr” | Faith Alabi Erioluwa | [Read More](https://medium.com/p/635ff794a555) |
 | Sat, 26 Jul 2025 08:33:12 GMT | Your PM Toolkit: Security and Certifications | The ProductOS | [Read More](https://medium.com/p/d3ece045cf5f) |
 | Sat, 26 Jul 2025 08:29:46 GMT | The “Free” VPN That Sold My Data | Aj | [Read More](https://medium.com/p/20bda7f53aac) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 03:33:15 GMT | Do You Avoid People? Or Are You Afraid to Be Seen? | Sana Hanif | [Read More](https://medium.com/p/e53b7accc1bd) |
 | Sat, 26 Jul 2025 03:31:56 GMT | How Hackers Are Turning IPv6 Into a Silent Weapon | Deven Chhajed | [Read More](https://medium.com/p/6e1f477cad13) |
 | Sat, 26 Jul 2025 03:30:16 GMT | The Crash-Out Chronicles | Mary B | [Read More](https://medium.com/p/3b60398e05a0) |
-| Sat, 26 Jul 2025 03:27:25 GMT | Samsung Launches Galaxy Z Fold7, Galaxy Z Flip7 and Galaxy Watch8 Series Globally Starting Today | Aly Elvi | [Read More](https://medium.com/p/ec281b31fc94) |
-| Sat, 26 Jul 2025 03:25:22 GMT | ☕ How the Tea App Got Leaked by 4chan | Olsen Budanur | [Read More](https://medium.com/p/542e480752ac) |
-| Sat, 26 Jul 2025 03:24:43 GMT | SharePoint ToolShell: The Most sophisticated Enterprise hack of 2025 | Mostefa Jakboub | [Read More](https://medium.com/p/7acb4bf71222) |
-| Sat, 26 Jul 2025 03:23:18 GMT | The Smart Way to Share Wi-Fi and Account Access (Without Sharing Your Real Password) | Tools Online | [Read More](https://medium.com/p/65b33faf8e0a) |
-| Sat, 26 Jul 2025 03:21:49 GMT | Swimming in Ignorance and Finding Yourself Through Not Knowing | firdashafira | [Read More](https://medium.com/p/5b2daa6fbff4) |
-| Sat, 26 Jul 2025 02:50:59 GMT | FileFix: A New Clipboard-Based Cyberattack Method (Social Engineering) | Muamer Huseinovic | [Read More](https://medium.com/p/58b58599cd7a) |
-| Sat, 26 Jul 2025 02:24:59 GMT | ️‍♂️ Hunting an APT with CrowdStrike: From Detection to Containment | Paritosh | [Read More](https://medium.com/p/07548a6e5efe) |
-| Sat, 26 Jul 2025 02:13:21 GMT | Healthcare Isn’t Just Under Threat, It’s Underprepared | Ernest Nwangbo | [Read More](https://medium.com/p/1ecfde44f51d) |
-| Sat, 26 Jul 2025 02:05:18 GMT | Claim Exclusive BOUNTY Through ChainBounty's Distribution Wave | ChainBounty | [Read More](https://medium.com/p/de529f8829db) |
-| Sat, 26 Jul 2025 02:02:36 GMT | Operation GhostChat & PhantomPrayers | Cyber-AppSec | [Read More](https://medium.com/p/1cd1da0e3162) |
-| Sat, 26 Jul 2025 01:39:42 GMT | OS command injection, simple case [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/601126eea44a) |
