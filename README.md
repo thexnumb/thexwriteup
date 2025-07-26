@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 20:38:47 GMT | HackTheBox-Cypher(WriteUp) | Aniket Das | [Read More](https://medium.com/p/34038da31222) |
+| Sat, 26 Jul 2025 20:31:26 GMT | Threat Intel with MISP — TryHackMe Room Walkthrough | Asad Ali | [Read More](https://medium.com/p/92d82c37ad15) |
+| Sat, 26 Jul 2025 20:22:52 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/8ad24bc208d2) |
+| Sat, 26 Jul 2025 20:20:22 GMT | Runner HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/1ba26a922ed3) |
 | Sat, 26 Jul 2025 20:17:57 GMT | Growing in the Quiet, the Unseen and Felt | Liana Rosh | [Read More](https://medium.com/p/c780f7fdc3aa) |
 | Sat, 26 Jul 2025 20:08:50 GMT | I Got Hired Without a CV | Esther | [Read More](https://medium.com/p/45742dc44e2f) |
 | Sat, 26 Jul 2025 20:01:22 GMT | Civilization. The next page.(109) | Jan Slort | [Read More](https://medium.com/p/0b70594f96b8) |
@@ -109,7 +113,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 13:52:36 GMT | The IoT Hacking Roadmap: A Red Teamer’s Perspective | Shaheer Yasir | [Read More](https://medium.com/p/71e051d53962) |
 | Sat, 26 Jul 2025 13:46:44 GMT | I Refused to Buy a New Camera — So I Hacked My 3D Printer Instead | Avi Rzayev | [Read More](https://medium.com/p/92a2177c86ba) |
 | Sat, 26 Jul 2025 13:16:15 GMT | Competing in Devpost’s World’s Largest Hackathon: My Aurarora Journey! ✨ | The Streets to Entrepreneurs | [Read More](https://medium.com/p/a1f272a0e954) |
-| Sat, 26 Jul 2025 12:56:35 GMT | From File Upload to Shell: A Deep Dive into RCE Exploits | Digant Prajapati | [Read More](https://medium.com/p/9eee5af22242) |
-| Sat, 26 Jul 2025 12:49:09 GMT | To engage directly: | Drew Phillips jr | [Read More](https://medium.com/p/524b0323f086) |
-| Sat, 26 Jul 2025 12:46:36 GMT | Linux PAM Modules: In-Depth Security and Authentication | Esra Kayhan | [Read More](https://medium.com/p/84ffce5f9106) |
-| Sat, 26 Jul 2025 12:39:01 GMT | My MasterCard | HD.39 | [Read More](https://medium.com/p/07bf440d1e38) |
