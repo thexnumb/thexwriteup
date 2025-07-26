@@ -12,11 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 18:26:03 GMT | HTTP Parameter Pollution | Andrew Max | [Read More](https://medium.com/p/0af3dcd1f96c) |
+| Sat, 26 Jul 2025 18:22:33 GMT | Strengthening Security with Orchestration, CI/CD, DevSecOps, IaC & Machine Learning | Dany Christel | [Read More](https://medium.com/p/5bed3cac0011) |
+| Sat, 26 Jul 2025 18:20:31 GMT | Why ISO/SAE 21434 Needs a Relook? | Sumit Chouhan | [Read More](https://medium.com/p/04267148ba72) |
+| Sat, 26 Jul 2025 18:17:29 GMT | Tea App Hack Exposes Private Photos on 4chan — What’s Next for the Company? | Jeremy Smith | [Read More](https://medium.com/p/36afdeeb0c29) |
+| Sat, 26 Jul 2025 18:16:25 GMT | The Irony is the Tea: How a Women’s Gossip App Became a Parable of Digital Hubris | Hakan Özerdem | [Read More](https://medium.com/p/d45765bf7a71) |
+| Sat, 26 Jul 2025 18:14:49 GMT | How Attackers Steal Data Using CORS Misconfigurations — Step-by-Step Breakdown! | Zoningxtr | [Read More](https://medium.com/p/b483b5f10cc5) |
+| Sat, 26 Jul 2025 18:14:20 GMT | Defender for Identity: Uncover What Lurks in Your Active Directory | Sebastian Kandler | [Read More](https://medium.com/p/c72d72e780f4) |
+| Sat, 26 Jul 2025 18:14:14 GMT | What Writing 40+ Cybersecurity Policies Taught Me About Doing Compliance Right | Steven McDaniel | [Read More](https://medium.com/p/f70082b9fc1c) |
+| Sat, 26 Jul 2025 17:58:30 GMT | Beyond Human Eyes: How AI Uncovers Critical Security Vulnerabilities. | Yahya Sayed | [Read More](https://medium.com/p/cd7266bc05e5) |
+| Sat, 26 Jul 2025 17:57:18 GMT | The Complex and Crucial World of Cybersecurity — Roles, Responsibilities, and the Challenges We… | Amie | [Read More](https://medium.com/p/f6b33d49ff44) |
+| Sat, 26 Jul 2025 17:56:16 GMT | Title: Toward Artificial Epistemology: Architecting Non-Biological Cognition Beyond Simulation | AhmadrezaDaryanoush | [Read More](https://medium.com/p/052bbfbba6c8) |
+| Sat, 26 Jul 2025 17:55:20 GMT | What’s the Difference Between IT Support and IT Services? | Susan Clinton | [Read More](https://medium.com/p/77bdfbd171cf) |
 | Sat, 26 Jul 2025 17:42:49 GMT | The IoT Security Imperative: Rethinking Cybersecurity in a Hyperconnected World | Dr. Pankaj Lamture | [Read More](https://medium.com/p/29c8fdf53838) |
 | Sat, 26 Jul 2025 17:36:43 GMT | Лего створення AI-агента: Recall Hackathon, GAIA, Lit Protocol | Mykola Vasyk | [Read More](https://medium.com/p/46222508a9ab) |
+| Sat, 26 Jul 2025 17:36:20 GMT | Technology | Corey | [Read More](https://medium.com/p/64c659c9d20e) |
 | Sat, 26 Jul 2025 17:35:53 GMT | Parental Guide: Top Spy Apps to Monitor Your Child’s Instagram | Narjis Batool | [Read More](https://medium.com/p/73662ae32065) |
 | Sat, 26 Jul 2025 17:33:59 GMT | This is the Most Important Danger on Holiday | Peter | [Read More](https://medium.com/p/c226a5e3499a) |
 | Sat, 26 Jul 2025 17:33:44 GMT | Something Is Rotten in Google Search | Yemi Oyedepo | [Read More](https://medium.com/p/482bd4742960) |
+| Sat, 26 Jul 2025 17:31:14 GMT | The Asymmetry of Affection | Ava Hayes | [Read More](https://medium.com/p/19726589f08f) |
 | Sat, 26 Jul 2025 17:26:01 GMT | CVE-2025–44148: Cross Site Scripting (XSS) vulnerability on a small business. | Will.Star | [Read More](https://medium.com/p/f88f109262f6) |
 | Sat, 26 Jul 2025 17:25:54 GMT | Cybersecurity in an AI‑Driven World: Protect Yourself from Advanced Threats | James Williams | [Read More](https://medium.com/p/91f4c8b336ca) |
 | Sat, 26 Jul 2025 17:25:00 GMT | How Hashing Protects Your Passwords and Speeds Up the Internet | Habiba Fatima | [Read More](https://medium.com/p/9fd8657bfabe) |
@@ -99,17 +113,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 11:59:35 GMT | How to Delete 99.9% of Your Digital Footprint | ASWIN S KUMAR | [Read More](https://medium.com/p/24b586d5ab67) |
 | Sat, 26 Jul 2025 11:30:20 GMT | Your Data, Your Control: Ech Browser’s Commitment to Privacy | Psylinks Announce | [Read More](https://medium.com/p/bd66d8ba0f0e) |
 | Sat, 26 Jul 2025 11:28:01 GMT | Repeat Offenders: LummaStealer Malware Analysis | grepStrength | [Read More](https://medium.com/p/8335683eaa0c) |
-| Sat, 26 Jul 2025 11:23:52 GMT | Breaking Filter: XSS Bypass using ononmouseovermouseover, ONMOUSEOVER and without () `` [] … | xploiterr | [Read More](https://medium.com/p/e2025486351c) |
-| Sat, 26 Jul 2025 11:17:08 GMT | Post-Quantum Security: Future-Proofing Data in the Quantum Era | Bobby Andrews | [Read More](https://medium.com/p/865d1e6a51b8) |
-| Sat, 26 Jul 2025 11:15:17 GMT | Are we waiting for the pain to return, so we can choose to be numb? | Storiews | [Read More](https://medium.com/p/0ad44c5655e3) |
-| Sat, 26 Jul 2025 11:12:08 GMT | Hacking Raven2- Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/81e0bfbb8ff0) |
-| Sat, 26 Jul 2025 11:09:42 GMT | Cyber Security Certification for Working Professionals - IIFIS | seenivasan V | [Read More](https://medium.com/p/d6bcfabd4384) |
-| Sat, 26 Jul 2025 11:09:20 GMT | Title:  From Zero to Red Team – My Linux Basics Journey (Documenting Everything) | Neo | [Read More](https://medium.com/p/0a7c8ada9653) |
-| Sat, 26 Jul 2025 11:07:36 GMT | Why Every Girls Hostel in Delhi Must Have a Security Guard Today? | Sumintra | [Read More](https://medium.com/p/d08804ac1fec) |
-| Sat, 26 Jul 2025 11:07:07 GMT | What is Ethical Hacking? | sihackermok | [Read More](https://medium.com/p/ecd2e163de7e) |
-| Sat, 26 Jul 2025 11:04:09 GMT | I Made Myself Smaller So No One Would Worry About Me | iel | [Read More](https://medium.com/p/6c6397e3119d) |
-| Sat, 26 Jul 2025 11:02:48 GMT | Cybersecurity as Poetry #2 shorts from notes app | Rue | [Read More](https://medium.com/p/c94913c04ead) |
-| Sat, 26 Jul 2025 10:56:47 GMT | I Was Told Not To Make A Scene | Avanti Nioding | [Read More](https://medium.com/p/b2f1cf2fb82b) |
-| Sat, 26 Jul 2025 10:55:48 GMT | ️ Static Malware Analysis: A Step-by-Step Walkthrough | Praz Timsina | [Read More](https://medium.com/p/351647d6592d) |
-| Sat, 26 Jul 2025 10:50:20 GMT | Which is Easy Cybersecurity Or Artificial Intelligence: A Detailed Comparison | Techzonego | [Read More](https://medium.com/p/aec3864095a8) |
-| Sat, 26 Jul 2025 10:47:28 GMT | Fixing APT repository Warnings in Kali Linux | GhostNex | [Read More](https://medium.com/p/3b14d3eb0fce) |
