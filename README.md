@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 21:40:37 GMT | We Laughed at Our Smart Thermostat — Until It Wiped Out Our Servers | Noel | [Read More](https://medium.com/p/7fcb3f39b1d2) |
+| Sat, 26 Jul 2025 21:37:03 GMT | CyberDefenders Challenge Week Incident Report | Vinay Morale | [Read More](https://medium.com/p/8ba904e4148c) |
+| Sat, 26 Jul 2025 21:36:41 GMT | $3,000 for Finding a Hidden Subdomain: My Reconnaissance Success Story | Krish_cyber | [Read More](https://medium.com/p/990396554a2e) |
+| Sat, 26 Jul 2025 21:36:05 GMT | Bounty $$$: Grafana LFI | Monika sharma | [Read More](https://medium.com/p/7cf9f167e1b2) |
+| Sat, 26 Jul 2025 21:32:37 GMT | My Simple Method to Test for IDOR Vulnerabilities | Ibtissam hammadi | [Read More](https://medium.com/p/5963f6ed8785) |
+| Sat, 26 Jul 2025 21:32:31 GMT | WHEN BIRTHDAYS NO LONGER FEEL LIKE BIRTHDAYS | Oluyinka Annabelle | [Read More](https://medium.com/p/ae953f239e33) |
+| Sat, 26 Jul 2025 21:20:59 GMT | Part 1 of a 3-part series on Threat hunting and detection engineering | Benyamin Ben-david | [Read More](https://medium.com/p/415d22cba57a) |
+| Sat, 26 Jul 2025 21:19:26 GMT | 2025 Security Awareness Training Topics: Essential Cybersecurity Skills for the Future | Keepnet Labs | [Read More](https://medium.com/p/d622d72d5f76) |
+| Sat, 26 Jul 2025 21:17:43 GMT | A letter to the fear that follows me | Ink Within | [Read More](https://medium.com/p/33a70f1dabd2) |
 | Sat, 26 Jul 2025 21:11:30 GMT | Application Security: Understanding Threat Modeling for Modern Security Reviews | Janith Malinga | [Read More](https://medium.com/p/d802cbe87558) |
 | Sat, 26 Jul 2025 21:11:04 GMT | What Lies Beneath: AI’s Hidden Security Risks from Prompts to Orchestration | Mo Zaman | [Read More](https://medium.com/p/c9cbc8ab9980) |
 | Sat, 26 Jul 2025 20:55:10 GMT | Why Automate CVE Reporting with AI? | SR | [Read More](https://medium.com/p/e83b685dff7d) |
@@ -104,12 +113,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 14:50:03 GMT | A GIRL TRAPPED IN A CYCLE. | Angelica | [Read More](https://medium.com/p/ddd218fb05c1) |
 | Sat, 26 Jul 2025 14:49:24 GMT | 5 Blue Team Lessons That Actually Work in Real Environments | Ranjan Marasini | [Read More](https://medium.com/p/e87b6bc49008) |
 | Sat, 26 Jul 2025 14:42:55 GMT | How to Break Into Cybersecurity: A Complete Beginner’s Guide | Genrunic | [Read More](https://medium.com/p/2806d56cf9fa) |
-| Sat, 26 Jul 2025 14:42:30 GMT | Public APIs vs. Private APIs: A Bug Hunter’s Perspective | N4!T40 07 | [Read More](https://medium.com/p/f506cb0a3865) |
-| Sat, 26 Jul 2025 14:41:23 GMT | We Thought Arc Was Cheap — Until It Crashed Our Rust App at Scale | Concurrent Mind | [Read More](https://medium.com/p/81c797bfc698) |
-| Sat, 26 Jul 2025 14:31:50 GMT | Day 55: Audit Planning ️ | Brittney Ginther | [Read More](https://medium.com/p/863f6789b969) |
-| Sat, 26 Jul 2025 14:27:18 GMT | The Great Decryption: Is Your Data Secure in a Post-Quantum World? | Kapil Sharma | [Read More](https://medium.com/p/21b001e3a916) |
-| Sat, 26 Jul 2025 14:16:21 GMT | How we deployed a Full-Stack MERN Web App on a Real Server and What I Learned | Kalkidan | [Read More](https://medium.com/p/d3c5c4213e34) |
-| Sat, 26 Jul 2025 14:15:03 GMT | Pwning SkyTower — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/a9c8270ba867) |
-| Sat, 26 Jul 2025 14:13:00 GMT | Shortcut virus | Dark Eagle | [Read More](https://medium.com/p/ddf3b5eeb20a) |
-| Sat, 26 Jul 2025 14:08:54 GMT | Amazon, Someone Used My Credit Card on Your Platform. Why Won’t You Investigate? | HD.39 | [Read More](https://medium.com/p/ff6dd1f64c4b) |
-| Sat, 26 Jul 2025 14:08:12 GMT | AWS Detection Engineering —  Architecting Security Logging at Scale in AWS | Muh. Fani Akbar | [Read More](https://medium.com/p/d962ec91453a) |
