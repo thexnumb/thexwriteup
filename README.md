@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 08:46:22 GMT | DNS Zone Transfer: Concepts, Mechanism, and Security Implications | Meravytes | [Read More](https://medium.com/p/acd4f1f53f6d) |
+| Sat, 26 Jul 2025 08:43:33 GMT | How to Become a Bug Bounty Hunter in 2025 (No Degree Needed) | Inayat Hussain | [Read More](https://medium.com/p/23ea2f5d8800) |
+| Sat, 26 Jul 2025 08:41:41 GMT | Top 10 Open-Source Intelligence (OSINT) Tools for Cybersecurity Professionals in 2025 | Inayat Hussain | [Read More](https://medium.com/p/fb27ba4f7be7) |
+| Sat, 26 Jul 2025 08:39:57 GMT | The Rise of a Self-Made Technologist from Rural Pakistan | Inayat Hussain | [Read More](https://medium.com/p/95293911e838) |
+| Sat, 26 Jul 2025 08:36:33 GMT | Linux Command 101: “tr” | Faith Alabi Erioluwa | [Read More](https://medium.com/p/635ff794a555) |
+| Sat, 26 Jul 2025 08:33:12 GMT | Your PM Toolkit: Security and Certifications | The ProductOS | [Read More](https://medium.com/p/d3ece045cf5f) |
+| Sat, 26 Jul 2025 08:29:46 GMT | The “Free” VPN That Sold My Data | Aj | [Read More](https://medium.com/p/20bda7f53aac) |
 | Sat, 26 Jul 2025 08:25:41 GMT | ️‍♂️ Beyond XSS: Weaponizing HTML Injection in the Real World | Kalireddipalli | [Read More](https://medium.com/p/b78ee16acf5d) |
 | Sat, 26 Jul 2025 08:24:30 GMT | Bypassing Subscription Restrictions to Access Premium Features | Zyadatef | [Read More](https://medium.com/p/e8d8390dc2a1) |
 | Sat, 26 Jul 2025 08:15:12 GMT | Top Automated Business Ideas You Can Start in 2025 | Digitall Ignite | [Read More](https://medium.com/p/77023c9b4c13) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 02:05:18 GMT | Claim Exclusive BOUNTY Through ChainBounty's Distribution Wave | ChainBounty | [Read More](https://medium.com/p/de529f8829db) |
 | Sat, 26 Jul 2025 02:02:36 GMT | Operation GhostChat & PhantomPrayers | Cyber-AppSec | [Read More](https://medium.com/p/1cd1da0e3162) |
 | Sat, 26 Jul 2025 01:39:42 GMT | OS command injection, simple case [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/601126eea44a) |
-| Sat, 26 Jul 2025 01:27:04 GMT | Let’s Defend: 123 — SOC173 — Follina 0-Day Detected | EPereda | [Read More](https://medium.com/p/4ab5759af14e) |
-| Sat, 26 Jul 2025 01:27:03 GMT | Let’s Defend: 153 — SOC202 — FakeGPT Malicious Chrome Extension - Writeup | EPereda | [Read More](https://medium.com/p/301b3cdc0e6d) |
-| Sat, 26 Jul 2025 01:26:59 GMT | Let’s Defend: 161 — SOC211 — Utilman.exe Winlogon Exploit Attempt - Writeup | EPereda | [Read More](https://medium.com/p/e387d204b951) |
-| Sat, 26 Jul 2025 01:22:27 GMT | GLBA Compliance: What Every Financial Institution and School Must Know | Don Jayathilake | [Read More](https://medium.com/p/43cd4105eca8) |
-| Sat, 26 Jul 2025 01:16:03 GMT | Day 0 — The Start of My Cybersecurity Journey | Tomaz | [Read More](https://medium.com/p/c96f5b07bfd7) |
-| Sat, 26 Jul 2025 01:01:01 GMT | Secure Storage in Android: SharedPreferences, DataStore, and Keystore Explained | Charles Raj Iruthayaraj | [Read More](https://medium.com/p/bf59474aa382) |
-| Sat, 26 Jul 2025 00:43:08 GMT | Coding habits and Mac local environments for software development | Joe Alongi | [Read More](https://medium.com/p/cc70246162d4) |
