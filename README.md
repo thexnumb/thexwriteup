@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 21:11:30 GMT | Application Security: Understanding Threat Modeling for Modern Security Reviews | Janith Malinga | [Read More](https://medium.com/p/d802cbe87558) |
+| Sat, 26 Jul 2025 21:11:04 GMT | What Lies Beneath: AI’s Hidden Security Risks from Prompts to Orchestration | Mo Zaman | [Read More](https://medium.com/p/c9cbc8ab9980) |
+| Sat, 26 Jul 2025 20:55:10 GMT | Why Automate CVE Reporting with AI? | SR | [Read More](https://medium.com/p/e83b685dff7d) |
+| Sat, 26 Jul 2025 20:51:38 GMT | Choosing a Dark Web Monitoring Platform that Delivers Actionable Threat Intelligence | David SEHYEON Baek | [Read More](https://medium.com/p/c3d5bdec459e) |
 | Sat, 26 Jul 2025 20:38:47 GMT | HackTheBox-Cypher(WriteUp) | Aniket Das | [Read More](https://medium.com/p/34038da31222) |
+| Sat, 26 Jul 2025 20:34:11 GMT | Day 8 : Proxy upgrade attacks, how a Trap could’ve stopped it | Leoprince.sui | [Read More](https://medium.com/p/c2a328ace520) |
+| Sat, 26 Jul 2025 20:33:01 GMT | FTC Safeguards Rule Checklist: San Diego, Tucson, & Phoenix | Brendan Quinn | [Read More](https://medium.com/p/8800d13252a7) |
 | Sat, 26 Jul 2025 20:31:26 GMT | Threat Intel with MISP — TryHackMe Room Walkthrough | Asad Ali | [Read More](https://medium.com/p/92d82c37ad15) |
 | Sat, 26 Jul 2025 20:22:52 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/8ad24bc208d2) |
 | Sat, 26 Jul 2025 20:20:22 GMT | Runner HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/1ba26a922ed3) |
@@ -28,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 19:19:42 GMT | Write Up CTF IT Fest IPB 2025 | syntaxis | [Read More](https://medium.com/p/1e0ff918e312) |
 | Sat, 26 Jul 2025 19:05:50 GMT | 5 Reasons I Stopped Counting On People. | Dani Ike | [Read More](https://medium.com/p/c31c7dea648c) |
 | Sat, 26 Jul 2025 19:02:55 GMT | How to Prepare for Penetration Testing: Key Technological Prerequisites | Ayush Aarav | [Read More](https://medium.com/p/a992c8ede91c) |
+| Sat, 26 Jul 2025 18:45:44 GMT | Pentesting with Anime: Why My Terminal Has a Personality | echosso | [Read More](https://medium.com/p/64206cd4579e) |
 | Sat, 26 Jul 2025 18:45:25 GMT | does getting to know them means loving them lesser ? | Gabrielle | [Read More](https://medium.com/p/f01ac5f3c706) |
 | Sat, 26 Jul 2025 18:43:49 GMT | Did‏ you expect to be a farmer when you studied networking?‍‍ | Maya | [Read More](https://medium.com/p/d33213ae80b7) |
 | Sat, 26 Jul 2025 18:36:30 GMT | When an Android App Whispers Secrets: How I Found Plaintext Credentials in Logcat | Rutvik Kalkumbe | [Read More](https://medium.com/p/e44abf0856e3) |
@@ -106,10 +113,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 14:13:00 GMT | Shortcut virus | Dark Eagle | [Read More](https://medium.com/p/ddf3b5eeb20a) |
 | Sat, 26 Jul 2025 14:08:54 GMT | Amazon, Someone Used My Credit Card on Your Platform. Why Won’t You Investigate? | HD.39 | [Read More](https://medium.com/p/ff6dd1f64c4b) |
 | Sat, 26 Jul 2025 14:08:12 GMT | AWS Detection Engineering —  Architecting Security Logging at Scale in AWS | Muh. Fani Akbar | [Read More](https://medium.com/p/d962ec91453a) |
-| Sat, 26 Jul 2025 14:00:16 GMT | Safeguarding Small Businesses: 15 Critical IT Security Challenges in 2025 | ITAdOn IT Solutions | [Read More](https://medium.com/p/43394d256c9b) |
-| Sat, 26 Jul 2025 13:57:01 GMT | # ️ Inside Cybersecurity in Uganda: Challenges, Growth, and the Road Ahead | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/1f6ad3ee589d) |
-| Sat, 26 Jul 2025 13:54:55 GMT | My Journey into Ethical Hacking — Why I Teach Cybersecurity Practically — Robin Paul | Robin Paul | [Read More](https://medium.com/p/f3da751cf0eb) |
-| Sat, 26 Jul 2025 13:54:03 GMT | ️‍♂️ How I Landed Two P1s and My First Bug Bounty | Madhu Kanwat | [Read More](https://medium.com/p/3ded6f5f2af6) |
-| Sat, 26 Jul 2025 13:52:36 GMT | The IoT Hacking Roadmap: A Red Teamer’s Perspective | Shaheer Yasir | [Read More](https://medium.com/p/71e051d53962) |
-| Sat, 26 Jul 2025 13:46:44 GMT | I Refused to Buy a New Camera — So I Hacked My 3D Printer Instead | Avi Rzayev | [Read More](https://medium.com/p/92a2177c86ba) |
-| Sat, 26 Jul 2025 13:16:15 GMT | Competing in Devpost’s World’s Largest Hackathon: My Aurarora Journey! ✨ | The Streets to Entrepreneurs | [Read More](https://medium.com/p/a1f272a0e954) |
