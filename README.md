@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 14:41:23 GMT | We Thought Arc Was Cheap — Until It Crashed Our Rust App at Scale | Concurrent Mind | [Read More](https://medium.com/p/81c797bfc698) |
+| Sat, 26 Jul 2025 14:31:50 GMT | Day 55: Audit Planning ️ | Brittney Ginther | [Read More](https://medium.com/p/863f6789b969) |
+| Sat, 26 Jul 2025 14:27:18 GMT | The Great Decryption: Is Your Data Secure in a Post-Quantum World? | Kapil Sharma | [Read More](https://medium.com/p/21b001e3a916) |
+| Sat, 26 Jul 2025 14:16:21 GMT | How we deployed a Full-Stack MERN Web App on a Real Server and What I Learned | Kalkidan | [Read More](https://medium.com/p/d3c5c4213e34) |
 | Sat, 26 Jul 2025 14:15:03 GMT | Pwning SkyTower — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/a9c8270ba867) |
 | Sat, 26 Jul 2025 14:13:00 GMT | Shortcut virus | Dark Eagle | [Read More](https://medium.com/p/ddf3b5eeb20a) |
+| Sat, 26 Jul 2025 14:08:54 GMT | Amazon, Someone Used My Credit Card on Your Platform. Why Won’t You Investigate? | HD.39 | [Read More](https://medium.com/p/ff6dd1f64c4b) |
+| Sat, 26 Jul 2025 14:08:12 GMT | AWS Detection Engineering —  Architecting Security Logging at Scale in AWS | Muh. Fani Akbar | [Read More](https://medium.com/p/d962ec91453a) |
 | Sat, 26 Jul 2025 14:00:16 GMT | Safeguarding Small Businesses: 15 Critical IT Security Challenges in 2025 | ITAdOn IT Solutions | [Read More](https://medium.com/p/43394d256c9b) |
 | Sat, 26 Jul 2025 13:57:01 GMT | # ️ Inside Cybersecurity in Uganda: Challenges, Growth, and the Road Ahead | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/1f6ad3ee589d) |
 | Sat, 26 Jul 2025 13:54:55 GMT | My Journey into Ethical Hacking — Why I Teach Cybersecurity Practically — Robin Paul | Robin Paul | [Read More](https://medium.com/p/f3da751cf0eb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 08:02:26 GMT | Essential Bug Bounty Resources for Beginners | Apilchand | [Read More](https://medium.com/p/8100ae5a5b24) |
 | Sat, 26 Jul 2025 08:01:55 GMT | Bug Bounty - La mejor herramienta es una mente incómoda | Gorka | [Read More](https://medium.com/p/45c3309ca923) |
 | Sat, 26 Jul 2025 07:58:10 GMT | TASK 3 — Bootcamp Merdeka Siber | Hans Nova Santosa | [Read More](https://medium.com/p/550d60efd7c7) |
-| Sat, 26 Jul 2025 07:54:04 GMT | Secure Remote Access with SSH vs Telnet: A Practical Comparison using Metasploitable, OpenSSH &… | Olasumbo Oyewo | [Read More](https://medium.com/p/9c618ba71c38) |
-| Sat, 26 Jul 2025 07:52:24 GMT | BRICS in the Digital Age: Why the 17th Summit in Rio Signals a Cybersecurity Shift | Rue | [Read More](https://medium.com/p/bb2b0f1ae35e) |
-| Sat, 26 Jul 2025 07:46:36 GMT | Information Disclosure | Ayesha | [Read More](https://medium.com/p/1683d8393e5d) |
-| Sat, 26 Jul 2025 07:46:22 GMT | How AI Agents Could Be the Biggest Security Threat Since XSS | The Observer | [Read More](https://medium.com/p/18d5e204deea) |
-| Sat, 26 Jul 2025 07:46:16 GMT | Cybercrime in Faridabad: Trends and Prevention Strategies | Giribabu V | [Read More](https://medium.com/p/593b7d098879) |
-| Sat, 26 Jul 2025 07:46:10 GMT | From Smart to Safe: Building Runtime Guardrails for AI Agents | Sakshi Pimpale | [Read More](https://medium.com/p/c17f0c0d92bc) |
