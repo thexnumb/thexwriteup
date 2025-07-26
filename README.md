@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 03:27:25 GMT | Samsung Launches Galaxy Z Fold7, Galaxy Z Flip7 and Galaxy Watch8 Series Globally Starting Today | Aly Elvi | [Read More](https://medium.com/p/ec281b31fc94) |
+| Sat, 26 Jul 2025 02:50:59 GMT | FileFix: A New Clipboard-Based Cyberattack Method (Social Engineering) | Muamer Huseinovic | [Read More](https://medium.com/p/58b58599cd7a) |
+| Sat, 26 Jul 2025 02:24:59 GMT | ️‍♂️ Hunting an APT with CrowdStrike: From Detection to Containment | Paritosh | [Read More](https://medium.com/p/07548a6e5efe) |
+| Sat, 26 Jul 2025 02:13:21 GMT | Healthcare Isn’t Just Under Threat, It’s Underprepared | Ernest Nwangbo | [Read More](https://medium.com/p/1ecfde44f51d) |
+| Sat, 26 Jul 2025 02:05:18 GMT | Claim Exclusive BOUNTY Through ChainBounty's Distribution Wave | ChainBounty | [Read More](https://medium.com/p/de529f8829db) |
+| Sat, 26 Jul 2025 02:02:36 GMT | Operation GhostChat & PhantomPrayers | Cyber-AppSec | [Read More](https://medium.com/p/1cd1da0e3162) |
 | Sat, 26 Jul 2025 01:39:42 GMT | OS command injection, simple case [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/601126eea44a) |
 | Sat, 26 Jul 2025 01:27:04 GMT | Let’s Defend: 123 — SOC173 — Follina 0-Day Detected | EPereda | [Read More](https://medium.com/p/4ab5759af14e) |
 | Sat, 26 Jul 2025 01:27:03 GMT | Let’s Defend: 153 — SOC202 — FakeGPT Malicious Chrome Extension - Writeup | EPereda | [Read More](https://medium.com/p/301b3cdc0e6d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 17:55:54 GMT | From DevOps to DevSecOps: Shifting Left for Enhanced Software Security | Swayam Surat | [Read More](https://medium.com/p/99a76dbae89a) |
 | Fri, 25 Jul 2025 17:44:47 GMT | ️ They’re Watching: The Dark Side of Human OSINT You Need to Know | Maruti Marathe | [Read More](https://medium.com/p/c436e10a66d4) |
 | Fri, 25 Jul 2025 17:42:06 GMT | Zero Trust Security Model for Remote Workforce Protection | SafeAeon Inc. | [Read More](https://medium.com/p/523ebd58f283) |
-| Fri, 25 Jul 2025 17:40:56 GMT | The Sentinel’s Blind Spot: A Guide to EDR Evasion | Itz.sanskarr | [Read More](https://medium.com/p/577083673c16) |
-| Fri, 25 Jul 2025 17:32:18 GMT | Insider Threat Detection to Prevent Employee-Driven Breaches | SafeAeon Inc. | [Read More](https://medium.com/p/6dce53a244d8) |
-| Fri, 25 Jul 2025 17:24:19 GMT | Advanced XSS Bypass Payloads When <script>, alert(), and prompt() Are Blocked | Kalireddipalli | [Read More](https://medium.com/p/6454946f9b6d) |
-| Fri, 25 Jul 2025 17:15:29 GMT | Frugal Cloud Security: Enforcing Trusted Ingress with AWS WAF and Cloudflare: Why and How | Devam Desai | [Read More](https://medium.com/p/cb99de6aeb08) |
-| Fri, 25 Jul 2025 17:09:40 GMT | The tool that gave me the first bounty | mohaned alkhlot | [Read More](https://medium.com/p/9303cac972a3) |
-| Fri, 25 Jul 2025 17:09:24 GMT | picoCTF — Verify | Robby firdauzy | [Read More](https://medium.com/p/4dde4b071ae4) |
