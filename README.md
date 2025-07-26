@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 10:34:29 GMT | Review for CYBERSKY Courses | Diyar Saadi - Malfav | [Read More](https://medium.com/p/900a9f5828c8) |
+| Sat, 26 Jul 2025 10:29:01 GMT | Tea App That Claimed to Protect Women Exposes 72,000 IDs in Epic Security Fail | IC News | [Read More](https://medium.com/p/782ae2be287d) |
+| Sat, 26 Jul 2025 10:24:57 GMT | Diploma in AI and Information Security in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/26444b327f69) |
 | Sat, 26 Jul 2025 10:17:06 GMT | The Importance of Strong Passwords and Multi-Factor Authentication | Functioning Media University | [Read More](https://medium.com/p/9a80d592a402) |
 | Sat, 26 Jul 2025 10:15:58 GMT | Grab Your Share of Bug's Promo Drop and Enjoy larger allocations | Bug | [Read More](https://medium.com/p/d7f1b365f1c2) |
+| Sat, 26 Jul 2025 10:15:55 GMT | If I Don’t Activate Windows 10, Will This Compromise My Security? | Leon sananda | [Read More](https://medium.com/p/4f4d00d857af) |
 | Sat, 26 Jul 2025 10:14:25 GMT | Passive Reconnaissance: The Quiet First Step in Hacking | Casper Sec | [Read More](https://medium.com/p/fcd563f60bbe) |
 | Sat, 26 Jul 2025 10:10:39 GMT | The Top 10 Cybersecurity Companies To Know | Aihanleyue | [Read More](https://medium.com/p/1bcbd48c6029) |
 | Sat, 26 Jul 2025 10:02:36 GMT | The API Trapdoor — Hacking Mobile Apps Without Ever Installing Them | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e5ed7206f9b5) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 05:32:10 GMT | PA-450R by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b5701bc22ad7) |
 | Sat, 26 Jul 2025 05:28:02 GMT | Data breach: what should we do? | Mufid Fata Rifki | [Read More](https://medium.com/p/a7cd5e939009) |
 | Sat, 26 Jul 2025 05:18:58 GMT | Level Up Your OSINT: 21 Essential Browser Extensions You Need Now | Sohanur Rahman | [Read More](https://medium.com/p/4495860d1f9c) |
-| Sat, 26 Jul 2025 05:11:31 GMT | Build Your Own Web Application Vulnerability Scanner Using Python + Flask (OWASP-Based) | Pranav V | [Read More](https://medium.com/p/b4f16cd2ce39) |
-| Sat, 26 Jul 2025 05:06:34 GMT | “Invisible Until It’s Too Late” — The Cybersecurity Principle That Separates Amateurs from… | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/c06520d68c4f) |
-| Sat, 26 Jul 2025 05:04:37 GMT | Tech Problems❓ | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/fa0ba653bd32) |
-| Sat, 26 Jul 2025 04:53:26 GMT | Bring Python to Your Android App Using Chaquopy | Sumeet Sharma | [Read More](https://medium.com/p/91f852426033) |
