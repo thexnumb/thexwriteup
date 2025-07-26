@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 08:25:41 GMT | ️‍♂️ Beyond XSS: Weaponizing HTML Injection in the Real World | Kalireddipalli | [Read More](https://medium.com/p/b78ee16acf5d) |
+| Sat, 26 Jul 2025 08:24:30 GMT | Bypassing Subscription Restrictions to Access Premium Features | Zyadatef | [Read More](https://medium.com/p/e8d8390dc2a1) |
+| Sat, 26 Jul 2025 08:15:12 GMT | Top Automated Business Ideas You Can Start in 2025 | Digitall Ignite | [Read More](https://medium.com/p/77023c9b4c13) |
+| Sat, 26 Jul 2025 08:04:50 GMT | Cybersecurity Career Outlook: Jobs and Growth 2025 | Self Info | [Read More](https://medium.com/p/6c1150cc50a2) |
+| Sat, 26 Jul 2025 08:04:24 GMT | Award Winning Managed IT Services Brisbane By Elevate | Elevate | [Read More](https://medium.com/p/d8adb64c6972) |
+| Sat, 26 Jul 2025 08:02:26 GMT | Essential Bug Bounty Resources for Beginners | Apilchand | [Read More](https://medium.com/p/8100ae5a5b24) |
+| Sat, 26 Jul 2025 08:01:55 GMT | Bug Bounty - La mejor herramienta es una mente incómoda | Gorka | [Read More](https://medium.com/p/45c3309ca923) |
+| Sat, 26 Jul 2025 07:58:10 GMT | TASK 3 — Bootcamp Merdeka Siber | Hans Nova Santosa | [Read More](https://medium.com/p/550d60efd7c7) |
+| Sat, 26 Jul 2025 07:54:04 GMT | Secure Remote Access with SSH vs Telnet: A Practical Comparison using Metasploitable, OpenSSH &… | Olasumbo Oyewo | [Read More](https://medium.com/p/9c618ba71c38) |
+| Sat, 26 Jul 2025 07:52:24 GMT | BRICS in the Digital Age: Why the 17th Summit in Rio Signals a Cybersecurity Shift | Rue | [Read More](https://medium.com/p/bb2b0f1ae35e) |
+| Sat, 26 Jul 2025 07:46:36 GMT | Information Disclosure | Ayesha | [Read More](https://medium.com/p/1683d8393e5d) |
+| Sat, 26 Jul 2025 07:46:22 GMT | How AI Agents Could Be the Biggest Security Threat Since XSS | The Observer | [Read More](https://medium.com/p/18d5e204deea) |
+| Sat, 26 Jul 2025 07:46:16 GMT | Cybercrime in Faridabad: Trends and Prevention Strategies | Giribabu V | [Read More](https://medium.com/p/593b7d098879) |
+| Sat, 26 Jul 2025 07:46:10 GMT | From Smart to Safe: Building Runtime Guardrails for AI Agents | Sakshi Pimpale | [Read More](https://medium.com/p/c17f0c0d92bc) |
+| Sat, 26 Jul 2025 07:45:45 GMT | Building a Secure, Scalable, and Automated Cloud-Native Platform on AWS with EKS, GitOps, and… | Ujjwalsapkota | [Read More](https://medium.com/p/76a0ca36d276) |
+| Sat, 26 Jul 2025 07:32:10 GMT | BUG-BOUNTY SERIES 3: Tools Bug Bounty untuk Pemula | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/9725141bf8cc) |
 | Sat, 26 Jul 2025 07:31:58 GMT | Subdomain Enumeration with Subfinder — A Pentester’s First Recon Step | Ezekiel peter | [Read More](https://medium.com/p/a4bb2885c815) |
 | Sat, 26 Jul 2025 07:27:09 GMT | LFI Exploitation Using Burp Suite — A Penetration Tester’s Guide | Ezekiel peter | [Read More](https://medium.com/p/95b51912cb12) |
 | Sat, 26 Jul 2025 07:21:40 GMT | BUG-BOUNTY SERIES 2: Roadmap Bug Bounty Hunter skillset & Tools yang Wajib Dikuasai | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/7bd53ff1a066) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 01:16:03 GMT | Day 0 — The Start of My Cybersecurity Journey | Tomaz | [Read More](https://medium.com/p/c96f5b07bfd7) |
 | Sat, 26 Jul 2025 01:01:01 GMT | Secure Storage in Android: SharedPreferences, DataStore, and Keystore Explained | Charles Raj Iruthayaraj | [Read More](https://medium.com/p/bf59474aa382) |
 | Sat, 26 Jul 2025 00:43:08 GMT | Coding habits and Mac local environments for software development | Joe Alongi | [Read More](https://medium.com/p/cc70246162d4) |
-| Sat, 26 Jul 2025 00:40:47 GMT | Navigating the Canadian Job Market: Insights from Diego De Fabio Brito | Berkcan Alankoy | [Read More](https://medium.com/p/55231ab8e90f) |
-| Sat, 26 Jul 2025 00:37:22 GMT | How to Contact Me Safely About Crypto Recovery | Swift Wealth Rescue | [Read More](https://medium.com/p/eb8c66fbdb91) |
-| Sat, 26 Jul 2025 00:26:35 GMT | Launch bonus Secrets: How to Pocket DORK for maximum benefits | DORK | [Read More](https://medium.com/p/261553caacfc) |
-| Sat, 26 Jul 2025 00:24:52 GMT | I Thought USPS Was Scamming Me — Here’s What I Learned About Email Security (And Modern Paranoia) | Jennifer Wei | [Read More](https://medium.com/p/169e62b1a33c) |
-| Sat, 26 Jul 2025 00:01:51 GMT | Vulnerable and obsolete components (OWASP A06): Hacking and Bug Bounty Guide | JPablo13 | [Read More](https://medium.com/p/0f8b3d1736c4) |
-| Fri, 25 Jul 2025 23:22:03 GMT | You Don’t Have to Pretend with God | Nissi | [Read More](https://medium.com/p/aa61b1bf8396) |
-| Fri, 25 Jul 2025 23:20:58 GMT | Flash USDT Explained – For Educational Purposes Only | Hoce | [Read More](https://medium.com/p/75d4a8de98a7) |
-| Fri, 25 Jul 2025 23:18:59 GMT | What RHCSS Taught Me About Hardening Red Hat Servers — And How I Would Actually Use It | Abdulmalik Basulayb | [Read More](https://medium.com/p/3bbcf4008c99) |
-| Fri, 25 Jul 2025 23:02:27 GMT | ISO 27001 vs. SOC 2: Which Should Your Organization Prioritize? | Raphael P. | [Read More](https://medium.com/p/91417af11dc1) |
-| Fri, 25 Jul 2025 22:35:27 GMT | Top 5 Scams Targeting Seasoned Adults This Summer | Elizabeth Ndungu | [Read More](https://medium.com/p/f9c94d0d6da6) |
-| Fri, 25 Jul 2025 22:34:13 GMT | Docker Zero to Hero For Hackers: A Practical Guide for Cybersecurity Enthusiasts | Hidden Investigations | [Read More](https://medium.com/p/480b90ec45ba) |
-| Fri, 25 Jul 2025 22:27:29 GMT | DORK Announces Reward Drop: Collect DORK Today | DORK | [Read More](https://medium.com/p/1b9e390027a4) |
-| Fri, 25 Jul 2025 22:27:16 GMT | Kod, Mantık ve Ordu | Mustafa bekir kaya | [Read More](https://medium.com/p/adc8aaad8624) |
-| Fri, 25 Jul 2025 22:16:59 GMT | Securing Remote Access: VPN vs. Zero‑Trust Alternatives | Karthikeyan Nagaraj | [Read More](https://medium.com/p/eb42f1e0cdb1) |
-| Fri, 25 Jul 2025 22:07:03 GMT | 7 Common Types of Phishing Scams (And How to Spot Them Before It’s Too Late) | Timonéofearth | [Read More](https://medium.com/p/bc9a2bd51600) |
-| Fri, 25 Jul 2025 22:04:36 GMT | السيادة الرقمية تبدأ من النواة | Khaled Ibn El-Walid SOUANE | [Read More](https://medium.com/p/1742439c9761) |
