@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 14:15:03 GMT | Pwning SkyTower — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/a9c8270ba867) |
+| Sat, 26 Jul 2025 14:13:00 GMT | Shortcut virus | Dark Eagle | [Read More](https://medium.com/p/ddf3b5eeb20a) |
+| Sat, 26 Jul 2025 14:00:16 GMT | Safeguarding Small Businesses: 15 Critical IT Security Challenges in 2025 | ITAdOn IT Solutions | [Read More](https://medium.com/p/43394d256c9b) |
+| Sat, 26 Jul 2025 13:57:01 GMT | # ️ Inside Cybersecurity in Uganda: Challenges, Growth, and the Road Ahead | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/1f6ad3ee589d) |
+| Sat, 26 Jul 2025 13:54:55 GMT | My Journey into Ethical Hacking — Why I Teach Cybersecurity Practically — Robin Paul | Robin Paul | [Read More](https://medium.com/p/f3da751cf0eb) |
+| Sat, 26 Jul 2025 13:54:03 GMT | ️‍♂️ How I Landed Two P1s and My First Bug Bounty | Madhu Kanwat | [Read More](https://medium.com/p/3ded6f5f2af6) |
+| Sat, 26 Jul 2025 13:52:36 GMT | The IoT Hacking Roadmap: A Red Teamer’s Perspective | Shaheer Yasir | [Read More](https://medium.com/p/71e051d53962) |
+| Sat, 26 Jul 2025 13:46:44 GMT | I Refused to Buy a New Camera — So I Hacked My 3D Printer Instead | Avi Rzayev | [Read More](https://medium.com/p/92a2177c86ba) |
 | Sat, 26 Jul 2025 13:16:15 GMT | Competing in Devpost’s World’s Largest Hackathon: My Aurarora Journey! ✨ | The Streets to Entrepreneurs | [Read More](https://medium.com/p/a1f272a0e954) |
 | Sat, 26 Jul 2025 12:56:35 GMT | From File Upload to Shell: A Deep Dive into RCE Exploits | Digant Prajapati | [Read More](https://medium.com/p/9eee5af22242) |
 | Sat, 26 Jul 2025 12:49:09 GMT | To engage directly: | Drew Phillips jr | [Read More](https://medium.com/p/524b0323f086) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 07:46:22 GMT | How AI Agents Could Be the Biggest Security Threat Since XSS | The Observer | [Read More](https://medium.com/p/18d5e204deea) |
 | Sat, 26 Jul 2025 07:46:16 GMT | Cybercrime in Faridabad: Trends and Prevention Strategies | Giribabu V | [Read More](https://medium.com/p/593b7d098879) |
 | Sat, 26 Jul 2025 07:46:10 GMT | From Smart to Safe: Building Runtime Guardrails for AI Agents | Sakshi Pimpale | [Read More](https://medium.com/p/c17f0c0d92bc) |
-| Sat, 26 Jul 2025 07:45:45 GMT | Building a Secure, Scalable, and Automated Cloud-Native Platform on AWS with EKS, GitOps, and… | Ujjwalsapkota | [Read More](https://medium.com/p/76a0ca36d276) |
-| Sat, 26 Jul 2025 07:32:10 GMT | BUG-BOUNTY SERIES 3: Tools Bug Bounty untuk Pemula | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/9725141bf8cc) |
-| Sat, 26 Jul 2025 07:31:58 GMT | Subdomain Enumeration with Subfinder — A Pentester’s First Recon Step | Ezekiel peter | [Read More](https://medium.com/p/a4bb2885c815) |
-| Sat, 26 Jul 2025 07:27:09 GMT | LFI Exploitation Using Burp Suite — A Penetration Tester’s Guide | Ezekiel peter | [Read More](https://medium.com/p/95b51912cb12) |
-| Sat, 26 Jul 2025 07:21:40 GMT | BUG-BOUNTY SERIES 2: Roadmap Bug Bounty Hunter skillset & Tools yang Wajib Dikuasai | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/7bd53ff1a066) |
-| Sat, 26 Jul 2025 07:21:10 GMT | Soft Doesn’t Mean Weak: A Love Letter to The Sensitive Ones | Rahtesa | [Read More](https://medium.com/p/0159d19c698d) |
-| Sat, 26 Jul 2025 07:19:05 GMT | How to Build a Basic Vulnerability Scanner in Python Using APIs (For Beginners) | Carylrobert | [Read More](https://medium.com/p/1e5c39b29468) |
-| Sat, 26 Jul 2025 07:14:47 GMT | ️Fortifying Your Fortress: Tackling CSRF, XSS, and IP-Geolocation Mismatches in Modern Web Apps… | Renjith KN | [Read More](https://medium.com/p/bb9722a85080) |
