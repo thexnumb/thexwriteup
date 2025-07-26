@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 19:02:55 GMT | How to Prepare for Penetration Testing: Key Technological Prerequisites | Ayush Aarav | [Read More](https://medium.com/p/a992c8ede91c) |
+| Sat, 26 Jul 2025 18:45:25 GMT | does getting to know them means loving them lesser ? | Gabrielle | [Read More](https://medium.com/p/f01ac5f3c706) |
+| Sat, 26 Jul 2025 18:43:49 GMT | Did‏ you expect to be a farmer when you studied networking?‍‍ | Maya | [Read More](https://medium.com/p/d33213ae80b7) |
+| Sat, 26 Jul 2025 18:36:30 GMT | When an Android App Whispers Secrets: How I Found Plaintext Credentials in Logcat | Rutvik Kalkumbe | [Read More](https://medium.com/p/e44abf0856e3) |
+| Sat, 26 Jul 2025 18:32:33 GMT | Ghosting MoTW: How Attackers Slip Through Windows’ First Line of Defense | CyberArmorKnight | [Read More](https://medium.com/p/4b805601dc4b) |
 | Sat, 26 Jul 2025 18:26:03 GMT | HTTP Parameter Pollution | Andrew Max | [Read More](https://medium.com/p/0af3dcd1f96c) |
 | Sat, 26 Jul 2025 18:22:33 GMT | Strengthening Security with Orchestration, CI/CD, DevSecOps, IaC & Machine Learning | Dany Christel | [Read More](https://medium.com/p/5bed3cac0011) |
 | Sat, 26 Jul 2025 18:20:31 GMT | Why ISO/SAE 21434 Needs a Relook? | Sumit Chouhan | [Read More](https://medium.com/p/04267148ba72) |
@@ -108,8 +113,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 12:16:52 GMT | I Want to Be Ugly | Kakoli Aster♡ | [Read More](https://medium.com/p/845501a3d5df) |
 | Sat, 26 Jul 2025 12:09:30 GMT | The Future of Email Isn’t Centralized | Aliciasierra | [Read More](https://medium.com/p/028ea455bd3d) |
 | Sat, 26 Jul 2025 12:07:16 GMT | Cybersecurity in 2025: Emerging Threats and How to Stay Protected | Marymagdalene Ogeleka | [Read More](https://medium.com/p/cbe558f9a4e4) |
-| Sat, 26 Jul 2025 12:01:48 GMT | How I’m Breaking Into Ethical Hacking Without Fancy Gear or Connections | Ghostgrid (Ndifreke Bassey) | [Read More](https://medium.com/p/c33f3c5d48af) |
-| Sat, 26 Jul 2025 11:59:50 GMT | “Wayback Machine” üzerinden Hassas Dosya Keşfi | Necati Ustun | [Read More](https://medium.com/p/4ce4e0153b10) |
-| Sat, 26 Jul 2025 11:59:35 GMT | How to Delete 99.9% of Your Digital Footprint | ASWIN S KUMAR | [Read More](https://medium.com/p/24b586d5ab67) |
-| Sat, 26 Jul 2025 11:30:20 GMT | Your Data, Your Control: Ech Browser’s Commitment to Privacy | Psylinks Announce | [Read More](https://medium.com/p/bd66d8ba0f0e) |
-| Sat, 26 Jul 2025 11:28:01 GMT | Repeat Offenders: LummaStealer Malware Analysis | grepStrength | [Read More](https://medium.com/p/8335683eaa0c) |
