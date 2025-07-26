@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 17:42:49 GMT | The IoT Security Imperative: Rethinking Cybersecurity in a Hyperconnected World | Dr. Pankaj Lamture | [Read More](https://medium.com/p/29c8fdf53838) |
+| Sat, 26 Jul 2025 17:36:43 GMT | Лего створення AI-агента: Recall Hackathon, GAIA, Lit Protocol | Mykola Vasyk | [Read More](https://medium.com/p/46222508a9ab) |
+| Sat, 26 Jul 2025 17:35:53 GMT | Parental Guide: Top Spy Apps to Monitor Your Child’s Instagram | Narjis Batool | [Read More](https://medium.com/p/73662ae32065) |
+| Sat, 26 Jul 2025 17:33:59 GMT | This is the Most Important Danger on Holiday | Peter | [Read More](https://medium.com/p/c226a5e3499a) |
+| Sat, 26 Jul 2025 17:33:44 GMT | Something Is Rotten in Google Search | Yemi Oyedepo | [Read More](https://medium.com/p/482bd4742960) |
+| Sat, 26 Jul 2025 17:26:01 GMT | CVE-2025–44148: Cross Site Scripting (XSS) vulnerability on a small business. | Will.Star | [Read More](https://medium.com/p/f88f109262f6) |
+| Sat, 26 Jul 2025 17:25:54 GMT | Cybersecurity in an AI‑Driven World: Protect Yourself from Advanced Threats | James Williams | [Read More](https://medium.com/p/91f4c8b336ca) |
+| Sat, 26 Jul 2025 17:25:00 GMT | How Hashing Protects Your Passwords and Speeds Up the Internet | Habiba Fatima | [Read More](https://medium.com/p/9fd8657bfabe) |
+| Sat, 26 Jul 2025 17:18:53 GMT | Day 12- Hardware basics everyone should know before starting in cybersecurity or IT | unica 02 | [Read More](https://medium.com/p/2be26c3bc3b4) |
+| Sat, 26 Jul 2025 17:16:47 GMT | More XSS Labs Cracked! | M. Mustafa Hussaini | [Read More](https://medium.com/p/ad0cbf0ed2ce) |
+| Sat, 26 Jul 2025 17:15:28 GMT | The Evolving Landscape of Cybersecurity: Leadership, AI, and the Business Impact | Raviteja Mureboina | [Read More](https://medium.com/p/f7ff2bb0f5e2) |
+| Sat, 26 Jul 2025 17:11:09 GMT | Your Web App’s First Line of Defense: Essential Frontend File Validation | Krishnamani | [Read More](https://medium.com/p/fe61c8209edd) |
 | Sat, 26 Jul 2025 17:04:51 GMT | Don’t Send the Code | AGI: Quantum/Thermo | [Read More](https://medium.com/p/f60ab43da367) |
 | Sat, 26 Jul 2025 17:03:36 GMT | Hidden Threats in Code: Unsafe Functions That Open the Door to Exploits | Planet Strike | [Read More](https://medium.com/p/eb0564c35a38) |
 | Sat, 26 Jul 2025 17:03:25 GMT | N0aziXss NetRecon v3.1: The Ultimate Network Intelligence Toolkit | N0aziXss | [Read More](https://medium.com/p/ad2c7ee560a4) |
@@ -101,15 +113,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 10:55:48 GMT | ️ Static Malware Analysis: A Step-by-Step Walkthrough | Praz Timsina | [Read More](https://medium.com/p/351647d6592d) |
 | Sat, 26 Jul 2025 10:50:20 GMT | Which is Easy Cybersecurity Or Artificial Intelligence: A Detailed Comparison | Techzonego | [Read More](https://medium.com/p/aec3864095a8) |
 | Sat, 26 Jul 2025 10:47:28 GMT | Fixing APT repository Warnings in Kali Linux | GhostNex | [Read More](https://medium.com/p/3b14d3eb0fce) |
-| Sat, 26 Jul 2025 10:35:57 GMT | ️ TryHackMe Autopsy Room: A Hands-on Guide to Windows Forensics | Furkanctiner | [Read More](https://medium.com/p/1fe373ce1567) |
-| Sat, 26 Jul 2025 10:34:29 GMT | Review for CYBERSKY Courses | Diyar Saadi - Malfav | [Read More](https://medium.com/p/900a9f5828c8) |
-| Sat, 26 Jul 2025 10:29:01 GMT | Tea App That Claimed to Protect Women Exposes 72,000 IDs in Epic Security Fail | IC News | [Read More](https://medium.com/p/782ae2be287d) |
-| Sat, 26 Jul 2025 10:24:57 GMT | Diploma in AI and Information Security in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/26444b327f69) |
-| Sat, 26 Jul 2025 10:17:06 GMT | The Importance of Strong Passwords and Multi-Factor Authentication | Functioning Media University | [Read More](https://medium.com/p/9a80d592a402) |
-| Sat, 26 Jul 2025 10:15:58 GMT | Grab Your Share of Bug's Promo Drop and Enjoy larger allocations | Bug | [Read More](https://medium.com/p/d7f1b365f1c2) |
-| Sat, 26 Jul 2025 10:15:55 GMT | If I Don’t Activate Windows 10, Will This Compromise My Security? | Leon sananda | [Read More](https://medium.com/p/4f4d00d857af) |
-| Sat, 26 Jul 2025 10:14:25 GMT | Passive Reconnaissance: The Quiet First Step in Hacking | Casper Sec | [Read More](https://medium.com/p/fcd563f60bbe) |
-| Sat, 26 Jul 2025 10:10:39 GMT | The Top 10 Cybersecurity Companies To Know | Aihanleyue | [Read More](https://medium.com/p/1bcbd48c6029) |
-| Sat, 26 Jul 2025 10:02:36 GMT | The API Trapdoor — Hacking Mobile Apps Without Ever Installing Them | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e5ed7206f9b5) |
-| Sat, 26 Jul 2025 10:00:02 GMT | Enhancing IoT Security with Machine Learning and SHAP Explainability | Kayy | [Read More](https://medium.com/p/320f6a434c1e) |
-| Sat, 26 Jul 2025 09:56:49 GMT | Cybersecurity in High-Risk Industries: What Healthcare, Finance, and Energy Must Get Right | Richard Dosumu | [Read More](https://medium.com/p/5c15bcc3eca8) |
