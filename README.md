@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 10:17:06 GMT | The Importance of Strong Passwords and Multi-Factor Authentication | Functioning Media University | [Read More](https://medium.com/p/9a80d592a402) |
+| Sat, 26 Jul 2025 10:15:58 GMT | Grab Your Share of Bug's Promo Drop and Enjoy larger allocations | Bug | [Read More](https://medium.com/p/d7f1b365f1c2) |
+| Sat, 26 Jul 2025 10:14:25 GMT | Passive Reconnaissance: The Quiet First Step in Hacking | Casper Sec | [Read More](https://medium.com/p/fcd563f60bbe) |
+| Sat, 26 Jul 2025 10:10:39 GMT | The Top 10 Cybersecurity Companies To Know | Aihanleyue | [Read More](https://medium.com/p/1bcbd48c6029) |
+| Sat, 26 Jul 2025 10:02:36 GMT | The API Trapdoor — Hacking Mobile Apps Without Ever Installing Them | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e5ed7206f9b5) |
+| Sat, 26 Jul 2025 10:00:02 GMT | Enhancing IoT Security with Machine Learning and SHAP Explainability | Kayy | [Read More](https://medium.com/p/320f6a434c1e) |
+| Sat, 26 Jul 2025 09:56:49 GMT | Cybersecurity in High-Risk Industries: What Healthcare, Finance, and Energy Must Get Right | Richard Dosumu | [Read More](https://medium.com/p/5c15bcc3eca8) |
+| Sat, 26 Jul 2025 09:53:03 GMT | Zero to Owned: The Ultimate Bug Bounty Recon Blueprint (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e5379f8f1c26) |
+| Sat, 26 Jul 2025 09:51:22 GMT | LINUX OPERATING SYSTEM | Pathan Farhana | [Read More](https://medium.com/p/c591e5238b80) |
+| Sat, 26 Jul 2025 09:48:26 GMT | Zero-Touch Recon: Finding Critical Web App Vulnerabilities Without Ever Logging In | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f1621c675caa) |
+| Sat, 26 Jul 2025 09:39:20 GMT | The Artificial Intelligence Revolution in Cybersecurity | Aditya Sharma | [Read More](https://medium.com/p/47d6b830c102) |
+| Sat, 26 Jul 2025 09:32:24 GMT | Auto‑remediate Public S3 Buckets with AWS Config + SNS + Lambda | Vijesh Vijayan Nair | [Read More](https://medium.com/p/f04b666b05d5) |
 | Sat, 26 Jul 2025 09:31:03 GMT | Malware Mind Control: Reverse Engineering C2 Channels to Enslave Botnets | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/9a57685b6405) |
 | Sat, 26 Jul 2025 09:27:33 GMT | VulnLayers — Pentest Report | device0 | [Read More](https://medium.com/p/ab4ae8a4ae5a) |
 | Sat, 26 Jul 2025 09:23:15 GMT | Common Digital Forensics Issues — And How to Fix Them | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/781d19e61d2d) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 05:06:34 GMT | “Invisible Until It’s Too Late” — The Cybersecurity Principle That Separates Amateurs from… | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/c06520d68c4f) |
 | Sat, 26 Jul 2025 05:04:37 GMT | Tech Problems❓ | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/fa0ba653bd32) |
 | Sat, 26 Jul 2025 04:53:26 GMT | Bring Python to Your Android App Using Chaquopy | Sumeet Sharma | [Read More](https://medium.com/p/91f852426033) |
-| Sat, 26 Jul 2025 04:52:16 GMT | The Bug Hiding in Plain Sight: A Simple Click Led to Cross-Org Account Takeover | Ayaa Hamed | [Read More](https://medium.com/p/82b77f640f6f) |
-| Sat, 26 Jul 2025 04:47:28 GMT | Operation CargoTalon: The Cyber Espionage Campaign Targeting Russia’s Aerospace Sector | CYber VIaz | [Read More](https://medium.com/p/57b0db64b4f0) |
-| Sat, 26 Jul 2025 04:40:03 GMT | How a PUBG Ace Lost ₹1 Lakh in a Real-Time Phishing Scam: A Game Hack Case Study | Nikita | [Read More](https://medium.com/p/4b1d63924e1e) |
-| Sat, 26 Jul 2025 04:37:20 GMT | Small Tasks, Big Lessons: My Journey Through a Phishing Simulation Project During Internship | 0xprowl3r | [Read More](https://medium.com/p/2a260291f3da) |
-| Sat, 26 Jul 2025 04:36:02 GMT | Cracking OSEP at 19: The Second Youngest Hacker to Do It | ProwlSec | [Read More](https://medium.com/p/c2ae4b3e3eca) |
-| Sat, 26 Jul 2025 04:30:38 GMT | Claim Exclusive CVE Through Curvance's Distribution Wave | Curvance | [Read More](https://medium.com/p/d6c92e97eedb) |
-| Sat, 26 Jul 2025 04:30:22 GMT | Curvance Announces Treasure Rollout: Collect CVE Today | Curvance | [Read More](https://medium.com/p/c2de1942afcf) |
-| Sat, 26 Jul 2025 04:30:12 GMT | The Growing Threat of Forgotten Subdomains: Real Risks Hiding in Plain Sight | Aravind S V | [Read More](https://medium.com/p/dfa5f27868ff) |
-| Sat, 26 Jul 2025 04:24:51 GMT | Technologies for Ensuring AI Safety: Fundamentals and Practices of LLM Guardrails | Atsushi Hatakeyama | [Read More](https://medium.com/p/553d8cc5ed8e) |
-| Sat, 26 Jul 2025 04:23:25 GMT | Database Caching Layers That Supercharge Web Apps | Rizqi Mulki | [Read More](https://medium.com/p/004f33124cbb) |
-| Sat, 26 Jul 2025 04:20:50 GMT | Stronger Together: What an Escape Room Taught Me About Teamwork | Dr Sean Duffy | [Read More](https://medium.com/p/d0fd2b9b5d3e) |
-| Sat, 26 Jul 2025 04:08:30 GMT | Threat detection approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/7ad259aae9e2) |
