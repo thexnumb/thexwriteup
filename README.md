@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 04:08:30 GMT | Threat detection approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/7ad259aae9e2) |
+| Sat, 26 Jul 2025 03:59:32 GMT | Layered cybersecurity approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/983c8ec0d1ed) |
+| Sat, 26 Jul 2025 03:57:45 GMT | The New Cyber Sentinel: How AI Is Transforming Threat Detection | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/2b8a3b861332) |
+| Sat, 26 Jul 2025 03:46:57 GMT | Insecure OTP Mechanism: How I Discovered a Replay Attack Vulnerability | Blue_eye | [Read More](https://medium.com/p/a1c10e49c298) |
+| Sat, 26 Jul 2025 03:35:12 GMT | SMT 2025 — Expert Lecture 1 | Firdhan H | [Read More](https://medium.com/p/caed1401d694) |
+| Sat, 26 Jul 2025 03:33:15 GMT | Do You Avoid People? Or Are You Afraid to Be Seen? | Sana Hanif | [Read More](https://medium.com/p/e53b7accc1bd) |
+| Sat, 26 Jul 2025 03:31:56 GMT | How Hackers Are Turning IPv6 Into a Silent Weapon | Deven Chhajed | [Read More](https://medium.com/p/6e1f477cad13) |
+| Sat, 26 Jul 2025 03:30:16 GMT | The Crash-Out Chronicles | Mary B | [Read More](https://medium.com/p/3b60398e05a0) |
 | Sat, 26 Jul 2025 03:27:25 GMT | Samsung Launches Galaxy Z Fold7, Galaxy Z Flip7 and Galaxy Watch8 Series Globally Starting Today | Aly Elvi | [Read More](https://medium.com/p/ec281b31fc94) |
+| Sat, 26 Jul 2025 03:25:22 GMT | ☕ How the Tea App Got Leaked by 4chan | Olsen Budanur | [Read More](https://medium.com/p/542e480752ac) |
+| Sat, 26 Jul 2025 03:24:43 GMT | SharePoint ToolShell: The Most sophisticated Enterprise hack of 2025 | Mostefa Jakboub | [Read More](https://medium.com/p/7acb4bf71222) |
+| Sat, 26 Jul 2025 03:23:18 GMT | The Smart Way to Share Wi-Fi and Account Access (Without Sharing Your Real Password) | Tools Online | [Read More](https://medium.com/p/65b33faf8e0a) |
+| Sat, 26 Jul 2025 03:21:49 GMT | Swimming in Ignorance and Finding Yourself Through Not Knowing | firdashafira | [Read More](https://medium.com/p/5b2daa6fbff4) |
 | Sat, 26 Jul 2025 02:50:59 GMT | FileFix: A New Clipboard-Based Cyberattack Method (Social Engineering) | Muamer Huseinovic | [Read More](https://medium.com/p/58b58599cd7a) |
 | Sat, 26 Jul 2025 02:24:59 GMT | ️‍♂️ Hunting an APT with CrowdStrike: From Detection to Containment | Paritosh | [Read More](https://medium.com/p/07548a6e5efe) |
 | Sat, 26 Jul 2025 02:13:21 GMT | Healthcare Isn’t Just Under Threat, It’s Underprepared | Ernest Nwangbo | [Read More](https://medium.com/p/1ecfde44f51d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 18:32:04 GMT | The Future of Commercial Perimeter Security: Smart Fencing and Real-Time Alerts | DEFEND MY BUSINESS | [Read More](https://medium.com/p/f2522be00ab2) |
 | Fri, 25 Jul 2025 18:31:49 GMT | Built It. Obfuscated It. Now What? Securing Your Python Tool After Deployment | Rue | [Read More](https://medium.com/p/e2fe12b21b3b) |
 | Fri, 25 Jul 2025 18:31:40 GMT | Best Parental Monitoring Spy Apps to Track Your Child’s Phone Usage | Narjis Batool | [Read More](https://medium.com/p/334e393e1006) |
-| Fri, 25 Jul 2025 18:24:22 GMT | eJPT Zero to Hero: Exploitation CTF 2 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/428fb7e2a7f9) |
-| Fri, 25 Jul 2025 18:21:39 GMT | Putin’s Digital Disaster | Leo Griffin | [Read More](https://medium.com/p/0faa69fc27aa) |
-| Fri, 25 Jul 2025 18:21:10 GMT | How to Integrate a Commercial Perimeter Security System with Access Control | DEFEND MY BUSINESS | [Read More](https://medium.com/p/604fee80dea2) |
-| Fri, 25 Jul 2025 18:15:21 GMT | “Cybersecurity Isn’t About Tools. It’s About Pressure.” | Mimi Jae TheLightOfZen (and more) | [Read More](https://medium.com/p/e20f1e407379) |
-| Fri, 25 Jul 2025 18:07:36 GMT | Cybersecurity as Poetry | Rue | [Read More](https://medium.com/p/72f78c7a66b5) |
-| Fri, 25 Jul 2025 18:05:46 GMT | Empowering India’s Digital Backbone: The Story of Cnergee Technologies | Falgun jadhav | [Read More](https://medium.com/p/f27f68e4e489) |
-| Fri, 25 Jul 2025 18:03:36 GMT | ReconDog — Simple Information Gathering Tool for Beginners | Kambetastephano | [Read More](https://medium.com/p/a77c9d5a8391) |
-| Fri, 25 Jul 2025 18:02:27 GMT | SOC Automation Home Lab Write-Up | Devanshi Chavda | [Read More](https://medium.com/p/a0dfe57d9ff2) |
-| Fri, 25 Jul 2025 17:58:01 GMT | Understanding PII Data in a World Obsessed with Personalization | Dhanush V | [Read More](https://medium.com/p/ccfd8569d25c) |
-| Fri, 25 Jul 2025 17:55:54 GMT | From DevOps to DevSecOps: Shifting Left for Enhanced Software Security | Swayam Surat | [Read More](https://medium.com/p/99a76dbae89a) |
-| Fri, 25 Jul 2025 17:44:47 GMT | ️ They’re Watching: The Dark Side of Human OSINT You Need to Know | Maruti Marathe | [Read More](https://medium.com/p/c436e10a66d4) |
-| Fri, 25 Jul 2025 17:42:06 GMT | Zero Trust Security Model for Remote Workforce Protection | SafeAeon Inc. | [Read More](https://medium.com/p/523ebd58f283) |
