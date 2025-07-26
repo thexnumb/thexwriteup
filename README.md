@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 17:04:51 GMT | Don’t Send the Code | AGI: Quantum/Thermo | [Read More](https://medium.com/p/f60ab43da367) |
+| Sat, 26 Jul 2025 17:03:36 GMT | Hidden Threats in Code: Unsafe Functions That Open the Door to Exploits | Planet Strike | [Read More](https://medium.com/p/eb0564c35a38) |
+| Sat, 26 Jul 2025 17:03:25 GMT | N0aziXss NetRecon v3.1: The Ultimate Network Intelligence Toolkit | N0aziXss | [Read More](https://medium.com/p/ad2c7ee560a4) |
+| Sat, 26 Jul 2025 17:02:25 GMT | “IDOR Attacks Unmasked: Code Exploits and Real-World Breaches” | Aman Sharma | [Read More](https://medium.com/p/b05cddfb45c7) |
+| Sat, 26 Jul 2025 17:01:42 GMT | When Pandas Attack: AI-Enhanced ‘Koske’ Malware Threatens Cloud Environments. | eL Njas!™ | [Read More](https://medium.com/p/4341ed99df3e) |
+| Sat, 26 Jul 2025 16:59:56 GMT | Introducing CyverIQ.com – Where Cybersecurity Meets Intelligence | Dolores Abernathy | [Read More](https://medium.com/p/e4143f3a84e1) |
+| Sat, 26 Jul 2025 16:52:01 GMT | Hacking the Machine: How Adversarial AI Attacks Are Tricking Smart Systems | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/64dce60373a5) |
+| Sat, 26 Jul 2025 16:49:32 GMT | How Base64 Works — and Why Output Length mod 4 = 1 Is Invalid: A Simple 6-Bit Proof | Bill Nice G. HAVUGUKURI | [Read More](https://medium.com/p/e37af8d9f616) |
 | Sat, 26 Jul 2025 16:46:17 GMT | Hacking File Uploads — Exploiting PNG-only Upload Restrictions | Smabuhaider | [Read More](https://medium.com/p/e3f487e121fd) |
 | Sat, 26 Jul 2025 16:31:50 GMT | AI ‘Nudify’ Tools Rake in $36M Annually: 24M Users Target Women in Photos | Dadang Irsyam - Tech n Society Strategist | [Read More](https://medium.com/p/e27d32f352fd) |
 | Sat, 26 Jul 2025 16:29:43 GMT | How Hard Is Cybersecurity? Here’s What You Need to Know | Gotechanic003 | [Read More](https://medium.com/p/1e5fce21f508) |
@@ -105,11 +113,3 @@ By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) 
 | Sat, 26 Jul 2025 10:02:36 GMT | The API Trapdoor — Hacking Mobile Apps Without Ever Installing Them | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e5ed7206f9b5) |
 | Sat, 26 Jul 2025 10:00:02 GMT | Enhancing IoT Security with Machine Learning and SHAP Explainability | Kayy | [Read More](https://medium.com/p/320f6a434c1e) |
 | Sat, 26 Jul 2025 09:56:49 GMT | Cybersecurity in High-Risk Industries: What Healthcare, Finance, and Energy Must Get Right | Richard Dosumu | [Read More](https://medium.com/p/5c15bcc3eca8) |
-| Sat, 26 Jul 2025 09:53:03 GMT | Zero to Owned: The Ultimate Bug Bounty Recon Blueprint (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e5379f8f1c26) |
-| Sat, 26 Jul 2025 09:51:22 GMT | LINUX OPERATING SYSTEM | Pathan Farhana | [Read More](https://medium.com/p/c591e5238b80) |
-| Sat, 26 Jul 2025 09:48:26 GMT | Zero-Touch Recon: Finding Critical Web App Vulnerabilities Without Ever Logging In | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f1621c675caa) |
-| Sat, 26 Jul 2025 09:39:20 GMT | The Artificial Intelligence Revolution in Cybersecurity | Aditya Sharma | [Read More](https://medium.com/p/47d6b830c102) |
-| Sat, 26 Jul 2025 09:32:24 GMT | Auto‑remediate Public S3 Buckets with AWS Config + SNS + Lambda | Vijesh Vijayan Nair | [Read More](https://medium.com/p/f04b666b05d5) |
-| Sat, 26 Jul 2025 09:31:03 GMT | Malware Mind Control: Reverse Engineering C2 Channels to Enslave Botnets | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/9a57685b6405) |
-| Sat, 26 Jul 2025 09:27:33 GMT | VulnLayers — Pentest Report | device0 | [Read More](https://medium.com/p/ab4ae8a4ae5a) |
-| Sat, 26 Jul 2025 09:23:15 GMT | Common Digital Forensics Issues — And How to Fix Them | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/781d19e61d2d) |
