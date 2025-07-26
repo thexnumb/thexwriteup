@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 05:28:02 GMT | Data breach: what should we do? | Mufid Fata Rifki | [Read More](https://medium.com/p/a7cd5e939009) |
+| Sat, 26 Jul 2025 05:18:58 GMT | Level Up Your OSINT: 21 Essential Browser Extensions You Need Now | Sohanur Rahman | [Read More](https://medium.com/p/4495860d1f9c) |
+| Sat, 26 Jul 2025 05:11:31 GMT | Build Your Own Web Application Vulnerability Scanner Using Python + Flask (OWASP-Based) | Pranav V | [Read More](https://medium.com/p/b4f16cd2ce39) |
+| Sat, 26 Jul 2025 05:06:34 GMT | “Invisible Until It’s Too Late” — The Cybersecurity Principle That Separates Amateurs from… | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/c06520d68c4f) |
+| Sat, 26 Jul 2025 05:04:37 GMT | Tech Problems❓ | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/fa0ba653bd32) |
 | Sat, 26 Jul 2025 04:53:26 GMT | Bring Python to Your Android App Using Chaquopy | Sumeet Sharma | [Read More](https://medium.com/p/91f852426033) |
 | Sat, 26 Jul 2025 04:52:16 GMT | The Bug Hiding in Plain Sight: A Simple Click Led to Cross-Org Account Takeover | Ayaa Hamed | [Read More](https://medium.com/p/82b77f640f6f) |
 | Sat, 26 Jul 2025 04:47:28 GMT | Operation CargoTalon: The Cyber Espionage Campaign Targeting Russia’s Aerospace Sector | CYber VIaz | [Read More](https://medium.com/p/57b0db64b4f0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 19:24:47 GMT | Cracking an MD5 Hash with a Custom Dictionary Attack in Kali Linux | LobaMegaTON | [Read More](https://medium.com/p/94e93756b987) |
 | Fri, 25 Jul 2025 19:16:42 GMT | Hypervisor Intrusions: UNC3944’s Campaign Against VMware vSphere | RealSec.io | [Read More](https://medium.com/p/9b3f79820117) |
 | Fri, 25 Jul 2025 19:14:14 GMT | How I Found Over 30 Security Vulnerabilities in a Single Program | Samet Yiğit | [Read More](https://medium.com/p/64642ab2df72) |
-| Fri, 25 Jul 2025 19:13:04 GMT | Eyes in the Sky: AI and the Drone Revolution | Angelo Sorte | [Read More](https://medium.com/p/d6b972abaae7) |
-| Fri, 25 Jul 2025 19:13:01 GMT | Viral App Tea — Hacked | STARK | [Read More](https://medium.com/p/8f4d1f879084) |
-| Fri, 25 Jul 2025 19:12:06 GMT | Guide: Grab BUG During the Upcoming Reward Rain | Bug | [Read More](https://medium.com/p/cc867ca23d89) |
-| Fri, 25 Jul 2025 19:09:59 GMT | 10 Red Team Tools That Belong in Every Hacker’s Arsenal | SAMAEL 0x4 | [Read More](https://medium.com/p/3e37fdaaf167) |
-| Fri, 25 Jul 2025 19:05:50 GMT | A Letter to My Scammer: The weight of Small Betrayals | Ajay Kumar Raja | [Read More](https://medium.com/p/8dfefa639bec) |
