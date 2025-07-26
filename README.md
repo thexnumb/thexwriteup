@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 09:31:03 GMT | Malware Mind Control: Reverse Engineering C2 Channels to Enslave Botnets | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/9a57685b6405) |
+| Sat, 26 Jul 2025 09:27:33 GMT | VulnLayers — Pentest Report | device0 | [Read More](https://medium.com/p/ab4ae8a4ae5a) |
+| Sat, 26 Jul 2025 09:23:15 GMT | Common Digital Forensics Issues — And How to Fix Them | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/781d19e61d2d) |
+| Sat, 26 Jul 2025 09:22:45 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #9 Solution | Aviv Yaniv | [Read More](https://medium.com/p/38f19939ac57) |
+| Sat, 26 Jul 2025 09:22:35 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #8 Solution | Aviv Yaniv | [Read More](https://medium.com/p/29309bb33cf9) |
+| Sat, 26 Jul 2025 09:22:20 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #7 Solution | Aviv Yaniv | [Read More](https://medium.com/p/42ccffceb492) |
+| Sat, 26 Jul 2025 09:21:26 GMT | GraphQL for the next API Penetration Testing | 0xjar | [Read More](https://medium.com/p/0922b3adef58) |
+| Sat, 26 Jul 2025 09:19:48 GMT | The Art of Not Getting Caught: Avoiding the Gaze of the Surveillance State | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/978e485aef1b) |
 | Sat, 26 Jul 2025 09:15:50 GMT | How to Convert MBOX to EML Files? A Complete Guide | MILAN KUMAR VISHVAS | [Read More](https://medium.com/p/a73277d84841) |
 | Sat, 26 Jul 2025 09:15:14 GMT | Report: Content Security Policy Bypass (Static Nonce) Level:Medium | henrie mate | [Read More](https://medium.com/p/6d0f1d0bb87a) |
 | Sat, 26 Jul 2025 09:08:00 GMT | Receive Your Share of Curvance's Token Release and Enjoy bonus tokens | Curvance | [Read More](https://medium.com/p/90927ec4e62d) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 04:23:25 GMT | Database Caching Layers That Supercharge Web Apps | Rizqi Mulki | [Read More](https://medium.com/p/004f33124cbb) |
 | Sat, 26 Jul 2025 04:20:50 GMT | Stronger Together: What an Escape Room Taught Me About Teamwork | Dr Sean Duffy | [Read More](https://medium.com/p/d0fd2b9b5d3e) |
 | Sat, 26 Jul 2025 04:08:30 GMT | Threat detection approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/7ad259aae9e2) |
-| Sat, 26 Jul 2025 03:59:32 GMT | Layered cybersecurity approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/983c8ec0d1ed) |
-| Sat, 26 Jul 2025 03:58:54 GMT | The AI Arms Race: Can Cybersecurity Survive the Professional Hacker? | Bikash Peeripaul | [Read More](https://medium.com/p/89c387b34d85) |
-| Sat, 26 Jul 2025 03:57:45 GMT | The New Cyber Sentinel: How AI Is Transforming Threat Detection | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/2b8a3b861332) |
-| Sat, 26 Jul 2025 03:46:57 GMT | Insecure OTP Mechanism: How I Discovered a Replay Attack Vulnerability | Blue_eye | [Read More](https://medium.com/p/a1c10e49c298) |
-| Sat, 26 Jul 2025 03:35:12 GMT | SMT 2025 — Expert Lecture 1 | Firdhan H | [Read More](https://medium.com/p/caed1401d694) |
-| Sat, 26 Jul 2025 03:33:15 GMT | Do You Avoid People? Or Are You Afraid to Be Seen? | Sana Hanif | [Read More](https://medium.com/p/e53b7accc1bd) |
-| Sat, 26 Jul 2025 03:31:56 GMT | How Hackers Are Turning IPv6 Into a Silent Weapon | Deven Chhajed | [Read More](https://medium.com/p/6e1f477cad13) |
-| Sat, 26 Jul 2025 03:30:16 GMT | The Crash-Out Chronicles | Mary B | [Read More](https://medium.com/p/3b60398e05a0) |
