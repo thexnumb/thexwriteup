@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 07:31:58 GMT | Subdomain Enumeration with Subfinder — A Pentester’s First Recon Step | Ezekiel peter | [Read More](https://medium.com/p/a4bb2885c815) |
+| Sat, 26 Jul 2025 07:27:09 GMT | LFI Exploitation Using Burp Suite — A Penetration Tester’s Guide | Ezekiel peter | [Read More](https://medium.com/p/95b51912cb12) |
+| Sat, 26 Jul 2025 07:21:40 GMT | BUG-BOUNTY SERIES 2: Roadmap Bug Bounty Hunter skillset & Tools yang Wajib Dikuasai | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/7bd53ff1a066) |
+| Sat, 26 Jul 2025 07:21:10 GMT | Soft Doesn’t Mean Weak: A Love Letter to The Sensitive Ones | Rahtesa | [Read More](https://medium.com/p/0159d19c698d) |
 | Sat, 26 Jul 2025 07:19:05 GMT | How to Build a Basic Vulnerability Scanner in Python Using APIs (For Beginners) | Carylrobert | [Read More](https://medium.com/p/1e5c39b29468) |
+| Sat, 26 Jul 2025 07:14:47 GMT | ️Fortifying Your Fortress: Tackling CSRF, XSS, and IP-Geolocation Mismatches in Modern Web Apps… | Renjith KN | [Read More](https://medium.com/p/bb9722a85080) |
+| Sat, 26 Jul 2025 07:12:39 GMT | BUG-BOUNTY SERIES 1 : Pengenalan dan Dasar Bug Bounty | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/4e5a302c607d) |
 | Sat, 26 Jul 2025 07:09:57 GMT | Episode 6: How I Discovered LDAP Injection and Why It Matters (Even If You’re Not a Hacker) | Yamini Yadav | [Read More](https://medium.com/p/f2d7f22e3390) |
 | Sat, 26 Jul 2025 07:07:46 GMT | I Automated CSP Extraction and Mapped 100+ Subdomains | Ibtissam hammadi | [Read More](https://medium.com/p/adf04880ea5d) |
 | Sat, 26 Jul 2025 07:07:38 GMT | Qué Piensan los CIOs: 15 Claves Reales sobre Liderazgo y Cultura Tech | Alberto Marauri | [Read More](https://medium.com/p/06c72311c8f6) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Jul 2025 22:16:59 GMT | Securing Remote Access: VPN vs. Zero‑Trust Alternatives | Karthikeyan Nagaraj | [Read More](https://medium.com/p/eb42f1e0cdb1) |
 | Fri, 25 Jul 2025 22:07:03 GMT | 7 Common Types of Phishing Scams (And How to Spot Them Before It’s Too Late) | Timonéofearth | [Read More](https://medium.com/p/bc9a2bd51600) |
 | Fri, 25 Jul 2025 22:04:36 GMT | السيادة الرقمية تبدأ من النواة | Khaled Ibn El-Walid SOUANE | [Read More](https://medium.com/p/1742439c9761) |
-| Fri, 25 Jul 2025 22:02:29 GMT | Série “App na Cloud”: Ep 1 — Autenticação no Azure com Casos de Uso em um Blob Storage | Osvaldo Ferreira Alves | [Read More](https://medium.com/p/0aa439e1aa3a) |
-| Fri, 25 Jul 2025 22:01:50 GMT | Here’s the Tea — Insecure Design Doxes Hundreds of Women | akacipher | [Read More](https://medium.com/p/da4dda398c90) |
-| Fri, 25 Jul 2025 21:59:40 GMT | NIST CSF 2.0: A Comprehensive Guide to the New Govern‑Centered Cybersecurity Framework | Samara Almursi Risha | [Read More](https://medium.com/p/f6ea0e67cce1) |
-| Fri, 25 Jul 2025 21:49:39 GMT | Securing AWS Bedrock Generative AI workloads within a VPC using VPC Interface Endpoints in… | Collin Smith | [Read More](https://medium.com/p/91614c801dfc) |
-| Fri, 25 Jul 2025 21:39:25 GMT | Why Bitchat Is a Bad Idea: (My Audit Found Critical Zero-Days) | Saad Khalid | [Read More](https://medium.com/p/1b126a45a2c5) |
-| Fri, 25 Jul 2025 21:37:47 GMT | Setting up a WSUS Server on the Domain Controller | 3Graces CC | [Read More](https://medium.com/p/60bba9792978) |
