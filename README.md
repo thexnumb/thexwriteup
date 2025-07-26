@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Jul 2025 15:02:27 GMT | Cracking KQL: How a Suspicious Login Alert Led Me into the World of Threat Hunting (and the 10 KQL… | Ishita Singh | [Read More](https://medium.com/p/4ea6366ff0b3) |
+| Sat, 26 Jul 2025 15:00:27 GMT | Here’s to Failing (and Trying Anyway) | Priya Chauhan | [Read More](https://medium.com/p/487f7d46a0a1) |
+| Sat, 26 Jul 2025 15:00:23 GMT | Why Hackers Still Win in 2025 — And What We Must Finally Do to Stop Them | Pavlović Goran | [Read More](https://medium.com/p/e86fa13f25a2) |
+| Sat, 26 Jul 2025 14:56:33 GMT | How I Built a .NET Security Scanner Without a Security Team (And Blocked 90% of Vulnerabilities) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/ac0803ef5bea) |
+| Sat, 26 Jul 2025 14:50:41 GMT | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/e87f2606e013) |
+| Sat, 26 Jul 2025 14:50:03 GMT | Don’t Install Linux Until You Read This: Easy Guide to Architectures & Distros | MayhemCode | [Read More](https://medium.com/p/fde501b0bb0c) |
+| Sat, 26 Jul 2025 14:50:03 GMT | A GIRL TRAPPED IN A CYCLE. | Angelica | [Read More](https://medium.com/p/ddd218fb05c1) |
+| Sat, 26 Jul 2025 14:49:24 GMT | 5 Blue Team Lessons That Actually Work in Real Environments | Ranjan Marasini | [Read More](https://medium.com/p/e87b6bc49008) |
+| Sat, 26 Jul 2025 14:42:55 GMT | How to Break Into Cybersecurity: A Complete Beginner’s Guide | Genrunic | [Read More](https://medium.com/p/2806d56cf9fa) |
+| Sat, 26 Jul 2025 14:42:30 GMT | Public APIs vs. Private APIs: A Bug Hunter’s Perspective | N4!T40 07 | [Read More](https://medium.com/p/f506cb0a3865) |
 | Sat, 26 Jul 2025 14:41:23 GMT | We Thought Arc Was Cheap — Until It Crashed Our Rust App at Scale | Concurrent Mind | [Read More](https://medium.com/p/81c797bfc698) |
 | Sat, 26 Jul 2025 14:31:50 GMT | Day 55: Audit Planning ️ | Brittney Ginther | [Read More](https://medium.com/p/863f6789b969) |
 | Sat, 26 Jul 2025 14:27:18 GMT | The Great Decryption: Is Your Data Secure in a Post-Quantum World? | Kapil Sharma | [Read More](https://medium.com/p/21b001e3a916) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 08:39:57 GMT | The Rise of a Self-Made Technologist from Rural Pakistan | Inayat Hussain | [Read More](https://medium.com/p/95293911e838) |
 | Sat, 26 Jul 2025 08:38:43 GMT | Exploring the Benefits of Las Sola Bollard Outdoor Lighting | willisvanessa2426 | [Read More](https://medium.com/p/a1b2e3b94936) |
 | Sat, 26 Jul 2025 08:36:33 GMT | Linux Command 101: “tr” | Faith Alabi Erioluwa | [Read More](https://medium.com/p/635ff794a555) |
-| Sat, 26 Jul 2025 08:33:12 GMT | Your PM Toolkit: Security and Certifications | The ProductOS | [Read More](https://medium.com/p/d3ece045cf5f) |
-| Sat, 26 Jul 2025 08:29:46 GMT | The “Free” VPN That Sold My Data | Aj | [Read More](https://medium.com/p/20bda7f53aac) |
-| Sat, 26 Jul 2025 08:25:41 GMT | ️‍♂️ Beyond XSS: Weaponizing HTML Injection in the Real World | Kalireddipalli | [Read More](https://medium.com/p/b78ee16acf5d) |
-| Sat, 26 Jul 2025 08:24:30 GMT | Bypassing Subscription Restrictions to Access Premium Features | Zyadatef | [Read More](https://medium.com/p/e8d8390dc2a1) |
-| Sat, 26 Jul 2025 08:15:12 GMT | Top Automated Business Ideas You Can Start in 2025 | Digitall Ignite | [Read More](https://medium.com/p/77023c9b4c13) |
-| Sat, 26 Jul 2025 08:04:50 GMT | Cybersecurity Career Outlook: Jobs and Growth 2025 | Self Info | [Read More](https://medium.com/p/6c1150cc50a2) |
-| Sat, 26 Jul 2025 08:04:24 GMT | Award Winning Managed IT Services Brisbane By Elevate | Elevate | [Read More](https://medium.com/p/d8adb64c6972) |
-| Sat, 26 Jul 2025 08:02:26 GMT | Essential Bug Bounty Resources for Beginners | Apilchand | [Read More](https://medium.com/p/8100ae5a5b24) |
-| Sat, 26 Jul 2025 08:01:55 GMT | Bug Bounty - La mejor herramienta es una mente incómoda | Gorka | [Read More](https://medium.com/p/45c3309ca923) |
-| Sat, 26 Jul 2025 07:58:10 GMT | TASK 3 — Bootcamp Merdeka Siber | Hans Nova Santosa | [Read More](https://medium.com/p/550d60efd7c7) |
