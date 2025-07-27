@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 15:18:37 GMT | Fine Tunning padaRuleset dan Decoder di Wazuh Server | DzakySN | [Read More](https://medium.com/p/f032618e9a5b) |
+| Sun, 27 Jul 2025 15:09:54 GMT | TheHackersLabs — Mentallity [Write Up] | APS88 | [Read More](https://medium.com/p/62f4a34e7366) |
+| Sun, 27 Jul 2025 15:02:23 GMT | The Most Underrated Skill in QA: Communication | Nirmal Kiran Patel | [Read More](https://medium.com/p/fa5d33c794ae) |
+| Sun, 27 Jul 2025 15:00:11 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #10 Solution | Aviv Yaniv | [Read More](https://medium.com/p/7c89a4232964) |
+| Sun, 27 Jul 2025 14:58:48 GMT | CLOUDFLARE WARP NEDİR, NE DEĞİLDİR? YENİ NESİL İNTERNET KALKANI | Emre Özel | [Read More](https://medium.com/p/b71688be0889) |
+| Sun, 27 Jul 2025 14:56:41 GMT | Junior QA Case Study: Real Bug Hunt in Homa Games | Leonardo Cardoso | [Read More](https://medium.com/p/e4864f003012) |
+| Sun, 27 Jul 2025 14:55:28 GMT | ANDROID PENTESTING —PART 1— FUNDAMENTALS | PARADOX | [Read More](https://medium.com/p/95f4fd659051) |
+| Sun, 27 Jul 2025 14:55:22 GMT | Future-Proofing Your Cloud: The Holistic Guide to Cloud-Native Security | clietech | [Read More](https://medium.com/p/47a4c6602b09) |
+| Sun, 27 Jul 2025 14:51:03 GMT | Firebase Storage Bucket Recon | AbhirupKonwar | [Read More](https://medium.com/p/df5e5acb65e2) |
 | Sun, 27 Jul 2025 14:37:24 GMT | The Phantom Wallet: How AI-Fueled Crypto Scams Are Haunting Us | Tony Kenler | [Read More](https://medium.com/p/f3b14645326d) |
+| Sun, 27 Jul 2025 14:35:30 GMT | Symfonos: 2 — VulnHub Walkthrough (Boot-to-Root) | DataDefender | [Read More](https://medium.com/p/31704e9f68ed) |
 | Sun, 27 Jul 2025 14:33:28 GMT | ️ Cybersecurity for All: How Local Initiatives Are Changing the Game | Raghavan P | [Read More](https://medium.com/p/643b31e8b715) |
 | Sun, 27 Jul 2025 14:28:35 GMT | Angular Application Security | Piyali Das | [Read More](https://medium.com/p/b3d7a4002209) |
 | Sun, 27 Jul 2025 14:25:51 GMT | Understanding Transport Layer Security (TLS) and Public Key Infrastructure (PKI): How Secure Web… | Afdul Rohmat | [Read More](https://medium.com/p/12107627280e) |
@@ -56,6 +66,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 12:02:18 GMT | Microsoft SharePoint’s Latest RCE Vulnerability: History, Method, Mitigation, and Lessons | Manubhav Sharma | [Read More](https://medium.com/p/1b2799083d04) |
 | Sun, 27 Jul 2025 12:02:16 GMT | How I Went from Failing to Acing My Exams — Without Paying a Dime Upfront | Gary Coleman | [Read More](https://medium.com/p/09ea4bf51174) |
 | Sun, 27 Jul 2025 12:00:50 GMT | Israel’s Imperative: A Swift and Successful Finish | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/e8a86301cd25) |
+| Sun, 27 Jul 2025 11:55:14 GMT | Trusted VM Walkthrough | Spookz | [Read More](https://medium.com/p/6ced3f350035) |
 | Sun, 27 Jul 2025 11:50:36 GMT | How to Set Up FlareVM on VirtualBox for Malware Analysis | Bilawal Ali | [Read More](https://medium.com/p/5a988eab7549) |
 | Sun, 27 Jul 2025 11:45:37 GMT | Guide: Get CVE During the Upcoming Bonus Rollout | Curvance | [Read More](https://medium.com/p/244cc8543e79) |
 | Sun, 27 Jul 2025 11:28:29 GMT | Exposed xmlrpc.php – How a Legacy File Opens the Door to Attacks | Ehtesham Ul Haq | [Read More](https://medium.com/p/d99dd0cb9d33) |
@@ -102,14 +113,3 @@ Imagine you’re… | Bigenaryal | [Read More](https://medium.com/p/8db7e996cdf2
 | Sun, 27 Jul 2025 08:49:24 GMT | ️ Locking Down the Backend | Dhaval Agr'vat | [Read More](https://medium.com/p/e031757de4fe) |
 | Sun, 27 Jul 2025 08:47:33 GMT | Cloud Security Attacks, Pen testing, and Defense: A Technical Deep Dive from the Field | Prakashraam | [Read More](https://medium.com/p/333f2d65d5d3) |
 | Sun, 27 Jul 2025 08:46:39 GMT | Complete Digital Security Surveillance System for Modern Madrasas in Bangladesh | optimationbd | [Read More](https://medium.com/p/068d06f578a4) |
-| Sun, 27 Jul 2025 08:40:55 GMT | How I Stay Current with Incident Response Best Practices | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/99954de6d09b) |
-| Sun, 27 Jul 2025 08:39:34 GMT | Open interview | cefon | [Read More](https://medium.com/p/80948e527293) |
-| Sun, 27 Jul 2025 08:36:47 GMT | Free Cybersecurity Solutions for SMEs — Better Than Nothing, But Know the Limitations | David SEHYEON Baek | [Read More](https://medium.com/p/6ad7758d1b79) |
-| Sun, 27 Jul 2025 08:35:53 GMT | “It’s All Just the Same Website, Right?” — My Adventures in Subdomain Shenanigans | mUsHaRaF | [Read More](https://medium.com/p/443a89341e40) |
-| Sun, 27 Jul 2025 08:20:24 GMT | What the Probe Picks Up: A Deep Dive into Metadata | Sayantani Halder | [Read More](https://medium.com/p/f210eba2299a) |
-| Sun, 27 Jul 2025 08:18:31 GMT | Business Logic Vulnerabilities in Symfony: Explained with Real-World Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/321d84638cde) |
-| Sun, 27 Jul 2025 08:16:33 GMT | Bug Bounty — “Si todo parece seguro, es que no has mirado lo suficiente” | Gorka | [Read More](https://medium.com/p/386fef4ba55f) |
-| Sun, 27 Jul 2025 08:11:16 GMT | Cyber Defense Frameworks: Thinking Like A Defender | Khushi Arora | [Read More](https://medium.com/p/a3ab81a26869) |
-| Sun, 27 Jul 2025 08:08:05 GMT | The Machine Learning Pipeline: Attacks and a Zero Trust Framework | Sandeep Saxena | [Read More](https://medium.com/p/ba68ea414ac5) |
-| Sun, 27 Jul 2025 07:56:17 GMT | Defense Against Hardware Trojans and IC Cloning | Riya R V | [Read More](https://medium.com/p/f3b04c20c406) |
-| Sun, 27 Jul 2025 07:46:41 GMT | I can hack so why can’t I do bounties? | Thexssrat | [Read More](https://medium.com/p/5e0cd09486c4) |
