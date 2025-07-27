@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 22:45:09 GMT | Day 63: Shellcodes | Nile Okomo | [Read More](https://medium.com/p/6f2fe2e790c0) |
+| Sun, 27 Jul 2025 22:37:22 GMT | Cybersecurity Lab FortiGate | Andrew (Ocee) Onaulogho | [Read More](https://medium.com/p/2ffe309492ff) |
+| Sun, 27 Jul 2025 22:31:51 GMT | BACKTRACK WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/f442205f292d) |
+| Sun, 27 Jul 2025 22:23:23 GMT | TryHackMe: Mastering Memory Forensics with Volatility | Furkanctiner | [Read More](https://medium.com/p/212bb5fb424c) |
+| Sun, 27 Jul 2025 22:22:38 GMT | Surfshark VPN Review (2025): Is It Still Worth Your Money? | Kambetastephano | [Read More](https://medium.com/p/1d4c595e3dd5) |
+| Sun, 27 Jul 2025 22:18:21 GMT | Human Deception: The Importance of Social Engineering Awareness in Cybersecurity | Orkun Sarı | [Read More](https://medium.com/p/8306ab0a84d6) |
+| Sun, 27 Jul 2025 22:17:57 GMT | AI-Powered Cyber Threats: How Hackers Are Using Chat-bots to Launch Attacks | Usman Samar | [Read More](https://medium.com/p/acd968f1b291) |
+| Sun, 27 Jul 2025 22:17:40 GMT | Securing Machine Learning Pipelines Against Adversarial Attacks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a4f723cbf31e) |
 | Sun, 27 Jul 2025 22:13:03 GMT | EDR is not enough. | Aman_Utkhedkar | [Read More](https://medium.com/p/2702d4e30387) |
 | Sun, 27 Jul 2025 22:10:54 GMT | Trust Chains and Digital Security: A Simplified Guide to PKI Hierarchies | Infosecjourney.tech | [Read More](https://medium.com/p/9402483a0364) |
 | Sun, 27 Jul 2025 22:07:06 GMT | the Naval Group «cyberattack» : when cyber warfare meets billion-dollar deals | Sirine Amrane | [Read More](https://medium.com/p/6eec975afadf) |
@@ -107,11 +115,3 @@ Kali Linux is a very strong operating… | Yousaffffyyy | [Read More](https://me
 | Sun, 27 Jul 2025 16:05:19 GMT | How to Keep Your WordPress Site Clean and Secure: A Friendly Guide | Devid h | [Read More](https://medium.com/p/e16afd7c6072) |
 | Sun, 27 Jul 2025 16:04:51 GMT | Can Hacking Be Good? | Catherine Ma | [Read More](https://medium.com/p/c849fd09ba8d) |
 | Sun, 27 Jul 2025 16:02:43 GMT | The Truth About Recovering Crypto from Scammers | Derrick M Langston | [Read More](https://medium.com/p/089fd02701fd) |
-| Sun, 27 Jul 2025 16:01:36 GMT | Day 8 — The IT FOMO No One Talks About | Hajeera | [Read More](https://medium.com/p/d19ceef7f293) |
-| Sun, 27 Jul 2025 16:00:17 GMT | AI in Payment Systems | Anandha Kumar J | [Read More](https://medium.com/p/0c4bb5b30b1f) |
-| Sun, 27 Jul 2025 15:56:07 GMT | A Hands-On Guide to API Key Aliasing & Quota Sharing on AWS CloudFront + API Gateway | Kinjal Thakkar | [Read More](https://medium.com/p/4f6b83ffe7dc) |
-| Sun, 27 Jul 2025 15:53:30 GMT | Alert! Then What? Incident Handling and Response Basics | Sayantani Halder | [Read More](https://medium.com/p/03a1d6611000) |
-| Sun, 27 Jul 2025 15:53:09 GMT | Introducing Redshift Commander: A Simpler Way to Handle Amazon Redshift Privileges | Francesco Larghi | [Read More](https://medium.com/p/79aed03c4a0a) |
-| Sun, 27 Jul 2025 15:51:35 GMT | Enhancing Wazuh SIEM with Conversational AI: The MCP Server Revolution | am | [Read More](https://medium.com/p/496d5916c6a3) |
-| Sun, 27 Jul 2025 15:47:41 GMT | How I Learned to Hack Websites (Legally) — No Tech Background, No Problem | maggs | [Read More](https://medium.com/p/f829ebb7e38d) |
-| Sun, 27 Jul 2025 15:47:18 GMT | Revolutionzing Education: How AI-Powered Tutoring is Personalizing Learning Like Never Before | Payaam Raza | [Read More](https://medium.com/p/b7258fc09299) |
