@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 05:22:13 GMT | AI-Assisted Insecurity: Forging JWTs from Auto-Generated Weak Secrets | SAEED | [Read More](https://medium.com/p/9a6db38b14ad) |
+| Sun, 27 Jul 2025 05:17:40 GMT | How Teenagers Are Becoming Cybercriminals: The Role of Social Media and Gaming | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/ad9a743f7321) |
+| Sun, 27 Jul 2025 05:10:11 GMT | “️ Why VAPT is the Backbone of Modern Cybersecurity” | Shieldnova | [Read More](https://medium.com/p/3ac181667467) |
+| Sun, 27 Jul 2025 05:03:16 GMT | From OWASP Top 10 to Real-World Exploitation: A Flowchart-Driven Guide for Penetration Testers | YoungerSibling | [Read More](https://medium.com/p/b41f82aa989a) |
+| Sun, 27 Jul 2025 04:57:56 GMT | Week 6 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/d2a27e136f24) |
+| Sun, 27 Jul 2025 04:50:06 GMT | How SSH Works, explained in simple way | Ayush Kumar | [Read More](https://medium.com/p/6265af303189) |
 | Sun, 27 Jul 2025 04:40:01 GMT | why escaping feels easier than owning your mistakes. | Arya | [Read More](https://medium.com/p/0b8d576bdd97) |
 | Sun, 27 Jul 2025 04:36:42 GMT | Episode 7: Server-Side Includes Injection — The Quiet Danger Lurking in Legacy Code | Yamini Yadav | [Read More](https://medium.com/p/51002a88fb88) |
 | Sun, 27 Jul 2025 04:33:39 GMT | HTTP/HTTPS, Demystified: How the Web Talks Behind the Scenes | Ayush Kumar | [Read More](https://medium.com/p/007f59b42185) |
@@ -107,9 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e
 | Sat, 26 Jul 2025 18:16:25 GMT | The Irony is the Tea: How a Women’s Gossip App Became a Parable of Digital Hubris | Hakan Özerdem | [Read More](https://medium.com/p/d45765bf7a71) |
 | Sat, 26 Jul 2025 18:14:49 GMT | How Attackers Steal Data Using CORS Misconfigurations — Step-by-Step Breakdown! | Zoningxtr | [Read More](https://medium.com/p/b483b5f10cc5) |
 | Sat, 26 Jul 2025 18:14:20 GMT | Defender for Identity: Uncover What Lurks in Your Active Directory | Sebastian Kandler | [Read More](https://medium.com/p/c72d72e780f4) |
-| Sat, 26 Jul 2025 18:14:14 GMT | What Writing 40+ Cybersecurity Policies Taught Me About Doing Compliance Right | Steven McDaniel | [Read More](https://medium.com/p/f70082b9fc1c) |
-| Sat, 26 Jul 2025 17:58:30 GMT | Beyond Human Eyes: How AI Uncovers Critical Security Vulnerabilities. | Yahya Sayed | [Read More](https://medium.com/p/cd7266bc05e5) |
-| Sat, 26 Jul 2025 17:57:18 GMT | The Complex and Crucial World of Cybersecurity — Roles, Responsibilities, and the Challenges We… | Amie | [Read More](https://medium.com/p/f6b33d49ff44) |
-| Sat, 26 Jul 2025 17:56:16 GMT | Title: Toward Artificial Epistemology: Architecting Non-Biological Cognition Beyond Simulation | AhmadrezaDaryanoush | [Read More](https://medium.com/p/052bbfbba6c8) |
-| Sat, 26 Jul 2025 17:55:20 GMT | What’s the Difference Between IT Support and IT Services? | Susan Clinton | [Read More](https://medium.com/p/77bdfbd171cf) |
-| Sat, 26 Jul 2025 17:42:49 GMT | The IoT Security Imperative: Rethinking Cybersecurity in a Hyperconnected World | Dr. Pankaj Lamture | [Read More](https://medium.com/p/29c8fdf53838) |
