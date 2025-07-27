@@ -12,8 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 07:15:25 GMT | Starting My Cybersecurity Journey! | RNS | [Read More](https://medium.com/p/e9392726f20c) |
 | Sun, 27 Jul 2025 07:14:35 GMT | Best smart board for conference room. | MD ABDUS SAMAD | [Read More](https://medium.com/p/eaf8ea2363b2) |
 | Sun, 27 Jul 2025 07:12:34 GMT | Edge Caching for 500 MB IFC Files: When Local Storage Beats the Cloud | AlterSquare | [Read More](https://medium.com/p/2d6ee3cec193) |
+| Sun, 27 Jul 2025 07:11:35 GMT | Cyberpour Review: Is This the Digital Authority Worth Following? | cybergeeker | [Read More](https://medium.com/p/3f1f910ea2b0) |
 | Sun, 27 Jul 2025 07:06:08 GMT | Beyond Passwords: How SalatStealer Targets Your Browser and Crypto Wallets | Pratik Gurav | [Read More](https://medium.com/p/9a476e7bd651) |
 | Sun, 27 Jul 2025 07:01:21 GMT | Host Validation Bypass via Connection State Attack: Multiple Requests Over the Same TCP Connection | Bash Overflow | [Read More](https://medium.com/p/9fc2406d2fe1) |
 | Sun, 27 Jul 2025 06:59:26 GMT | The Death of Traditional Tech: How AI Is Rewriting Every Rule in 2025 | Chilkotikartik | [Read More](https://medium.com/p/22aa03387611) |
@@ -111,5 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e
 | Sat, 26 Jul 2025 20:33:01 GMT | FTC Safeguards Rule Checklist: San Diego, Tucson, & Phoenix | Brendan Quinn | [Read More](https://medium.com/p/8800d13252a7) |
 | Sat, 26 Jul 2025 20:31:26 GMT | Threat Intel with MISP — TryHackMe Room Walkthrough | Asad Ali | [Read More](https://medium.com/p/92d82c37ad15) |
 | Sat, 26 Jul 2025 20:22:52 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/8ad24bc208d2) |
-| Sat, 26 Jul 2025 20:20:22 GMT | Runner HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/1ba26a922ed3) |
-| Sat, 26 Jul 2025 20:17:57 GMT | Growing in the Quiet, the Unseen and Felt | Liana Rosh | [Read More](https://medium.com/p/c780f7fdc3aa) |
