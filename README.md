@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 06:31:36 GMT | How I Bypassed a Strict Proxy Using .MSI Files | Muhammad Sarmad Shafiq | [Read More](https://medium.com/p/2fc865ef33bd) |
+| Sun, 27 Jul 2025 06:16:12 GMT | 工廠轉型智慧化，也要有防駭客觀念！用 IEC 62443 來保護智慧工廠的安全！ | xamns | [Read More](https://medium.com/p/d7564cfd0c08) |
+| Sun, 27 Jul 2025 06:04:14 GMT | Researching bcrypt for secure password storage attacks (an analysis) | Marla Tumenjargal | [Read More](https://medium.com/p/def2b1e95567) |
+| Sun, 27 Jul 2025 06:03:18 GMT | Bridging Tech and Business: The Real Role of a Business Analyst | Jayakishor Bayadi | [Read More](https://medium.com/p/0f2702aec3eb) |
+| Sun, 27 Jul 2025 06:00:24 GMT | Today’s Top Cyber Intelligence Highlights — Jul 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d029e685bc7b) |
+| Sun, 27 Jul 2025 05:57:43 GMT | Wildcard SSL Explained: Pros, Cons, and Use Cases for Subdomain Security | Hardy Mervana | [Read More](https://medium.com/p/f428a98d8f24) |
+| Sun, 27 Jul 2025 05:56:57 GMT | Your ChatGPT History Could Be Used in Court — Here’s What You Need to Know | Rue | [Read More](https://medium.com/p/ace2fd1a6586) |
+| Sun, 27 Jul 2025 05:53:04 GMT | Wazuh Single Node Installation Guide For Home Lab on Ubuntu. | Rupesh Sharma | [Read More](https://medium.com/p/0eb2ca339408) |
+| Sun, 27 Jul 2025 05:48:30 GMT | What is Network Level Authentication? | R1punjay_Singh | [Read More](https://medium.com/p/e690f46ce387) |
+| Sun, 27 Jul 2025 05:40:52 GMT | AI-Powered Zero Trust in 2025: The New Cybersecurity Battlefield | _Anirudh_ | [Read More](https://medium.com/p/1161897f92e8) |
+| Sun, 27 Jul 2025 05:40:34 GMT | Wi-Fi MITM in Practice: Build Your Own Access Point with Internet and mitmproxy | Gleb Wam | [Read More](https://medium.com/p/4ee903afc213) |
 | Sun, 27 Jul 2025 05:32:24 GMT | Cypher Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/74e8fcdead9e) |
 | Sun, 27 Jul 2025 05:25:33 GMT | From Recovery to Resilience: How My Journey Fuels My Cybersecurity Career | Taylorsoule | [Read More](https://medium.com/p/58b53fb27abc) |
 | Sun, 27 Jul 2025 05:22:13 GMT | AI-Assisted Insecurity: Forging JWTs from Auto-Generated Weak Secrets | SAEED | [Read More](https://medium.com/p/9a6db38b14ad) |
@@ -102,14 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e
 | Sat, 26 Jul 2025 19:27:17 GMT | EP 02: Sender Policy Framework (SPF) | H.W.K. Aravinda | [Read More](https://medium.com/p/48e74b7e8d4e) |
 | Sat, 26 Jul 2025 19:19:42 GMT | Write Up CTF IT Fest IPB 2025 | syntaxis | [Read More](https://medium.com/p/1e0ff918e312) |
 | Sat, 26 Jul 2025 19:05:50 GMT | 5 Reasons I Stopped Counting On People. | Dani Ike | [Read More](https://medium.com/p/c31c7dea648c) |
-| Sat, 26 Jul 2025 19:02:55 GMT | How to Prepare for Penetration Testing: Key Technological Prerequisites | Ayush Aarav | [Read More](https://medium.com/p/a992c8ede91c) |
-| Sat, 26 Jul 2025 18:45:44 GMT | Pentesting with Anime: Why My Terminal Has a Personality | echosso | [Read More](https://medium.com/p/64206cd4579e) |
-| Sat, 26 Jul 2025 18:45:25 GMT | does getting to know them means loving them lesser ? | Gabrielle | [Read More](https://medium.com/p/f01ac5f3c706) |
-| Sat, 26 Jul 2025 18:43:49 GMT | Did‏ you expect to be a farmer when you studied networking?‍‍ | Maya | [Read More](https://medium.com/p/d33213ae80b7) |
-| Sat, 26 Jul 2025 18:36:30 GMT | When an Android App Whispers Secrets: How I Found Plaintext Credentials in Logcat | Rutvik Kalkumbe | [Read More](https://medium.com/p/e44abf0856e3) |
-| Sat, 26 Jul 2025 18:32:33 GMT | Ghosting MoTW: How Attackers Slip Through Windows’ First Line of Defense | CyberArmorKnight | [Read More](https://medium.com/p/4b805601dc4b) |
-| Sat, 26 Jul 2025 18:26:03 GMT | HTTP Parameter Pollution | Andrew Max | [Read More](https://medium.com/p/0af3dcd1f96c) |
-| Sat, 26 Jul 2025 18:22:33 GMT | Strengthening Security with Orchestration, CI/CD, DevSecOps, IaC & Machine Learning | Dany Christel | [Read More](https://medium.com/p/5bed3cac0011) |
-| Sat, 26 Jul 2025 18:20:31 GMT | Why ISO/SAE 21434 Needs a Relook? | Sumit Chouhan | [Read More](https://medium.com/p/04267148ba72) |
-| Sat, 26 Jul 2025 18:17:29 GMT | Tea App Hack Exposes Private Photos on 4chan — What’s Next for the Company? | Jeremy Smith | [Read More](https://medium.com/p/36afdeeb0c29) |
-| Sat, 26 Jul 2025 18:16:25 GMT | The Irony is the Tea: How a Women’s Gossip App Became a Parable of Digital Hubris | Hakan Özerdem | [Read More](https://medium.com/p/d45765bf7a71) |
