@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 20:36:39 GMT | Why Big Players Are Betting on Bitcoin And NFTs | Myxoplixx | [Read More](https://medium.com/p/fca4c959f36d) |
+| Sun, 27 Jul 2025 20:36:23 GMT | The Power of Information in the Digital Age: Why Staying Updated Matters More Than Ever | Fahadsyed | [Read More](https://medium.com/p/e0dd091e2aba) |
+| Sun, 27 Jul 2025 20:32:33 GMT | 0-Click Account Takeover via Password Reset | Piyush | [Read More](https://medium.com/p/f17143426a59) |
+| Sun, 27 Jul 2025 20:28:32 GMT | The Cyber Plague of 2030: When Smart Cities Went Dark | O. J. Okpabi | [Read More](https://medium.com/p/ae490ebfcf1b) |
+| Sun, 27 Jul 2025 20:28:26 GMT | How to Ruin Your Weekend: Building a DIY EDR | Itz.sanskarr | [Read More](https://medium.com/p/a8f6dc6f8da4) |
+| Sun, 27 Jul 2025 20:27:20 GMT | OSCP Linux Privilege Escalation | enigma_ | [Read More](https://medium.com/p/18c75248be91) |
 | Sun, 27 Jul 2025 20:09:57 GMT | Extracting Database Information When Union Injection Fails | niko | [Read More](https://medium.com/p/c21cb6f866c1) |
 | Sun, 27 Jul 2025 19:59:47 GMT | AresGPT: A New Era of Network+ Training Begins | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/f90da3c0754b) |
 | Sun, 27 Jul 2025 19:44:22 GMT | Running Your First GPT-Powered Terminal Command | Ekene Joseph | [Read More](https://medium.com/p/b96519f830e4) |
@@ -109,9 +115,3 @@ Kali Linux is a very strong operating… | Yousaffffyyy | [Read More](https://me
 | Sun, 27 Jul 2025 14:35:30 GMT | Symfonos: 2 — VulnHub Walkthrough (Boot-to-Root) | DataDefender | [Read More](https://medium.com/p/31704e9f68ed) |
 | Sun, 27 Jul 2025 14:33:28 GMT | ️ Cybersecurity for All: How Local Initiatives Are Changing the Game | Raghavan P | [Read More](https://medium.com/p/643b31e8b715) |
 | Sun, 27 Jul 2025 14:28:35 GMT | Angular Application Security | Piyali Das | [Read More](https://medium.com/p/b3d7a4002209) |
-| Sun, 27 Jul 2025 14:25:51 GMT | Understanding Transport Layer Security (TLS) and Public Key Infrastructure (PKI): How Secure Web… | Afdul Rohmat | [Read More](https://medium.com/p/12107627280e) |
-| Sun, 27 Jul 2025 14:19:52 GMT | The Watchdogs Within: The Engines That Flag Threats | Sayantani Halder | [Read More](https://medium.com/p/b6ac831519c4) |
-| Sun, 27 Jul 2025 14:14:11 GMT | My notes on “Windows Security Internals — A Deep Dive into Windows Authentication, Authorization… | Feghouli Hamza | [Read More](https://medium.com/p/8098cb15d28d) |
-| Sun, 27 Jul 2025 14:13:55 GMT | Expose the Unseen: Image-Based OSINT Techniques for Digital Sleuths | Kavi Amudan | [Read More](https://medium.com/p/ebef73ca7006) |
-| Sun, 27 Jul 2025 14:08:11 GMT | ️‍♂️ Linux Forensics Case Study Using Autopsy-M57 Jean Scenario | Mohamed Basil | [Read More](https://medium.com/p/b9f4aa9f9740) |
-| Sun, 27 Jul 2025 14:01:58 GMT | A Deep Dive into Scout Suite: Cloud Security Auditing Made Easier | XoX | [Read More](https://medium.com/p/e49fb33c290c) |
