@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 03:41:53 GMT | COLDDBOX-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/df88948da298) |
+| Sun, 27 Jul 2025 03:33:46 GMT | 別只會上Patch：用全局思維管理資安攻擊表面 | Yoyo Lin | [Read More](https://medium.com/p/c4ca2d75e150) |
+| Sun, 27 Jul 2025 03:32:04 GMT | Securing Your Lenovo: A Deep Look Into the Vantage Vulnerabilities You Shouldn’t Ignore | Deven Chhajed | [Read More](https://medium.com/p/a0c3c84797db) |
+| Sun, 27 Jul 2025 03:25:16 GMT | ️‍♂️ The Art of Open Source Intelligence (OSINT): 10 Powerful Tools Every Cyber Sleuth Should… | Paritosh | [Read More](https://medium.com/p/db273d86bec8) |
+| Sun, 27 Jul 2025 03:20:13 GMT | My Intro to Cybersecurity | Oatmilk | [Read More](https://medium.com/p/0daf2588645f) |
+| Sun, 27 Jul 2025 03:14:46 GMT | How to Secure Your MVP (Cursor apps) | Algo Insights | [Read More](https://medium.com/p/44f570752e78) |
+| Sun, 27 Jul 2025 03:01:54 GMT | When Safety Promises Become Privacy Nightmares: The Tea App Story | Friendly Guide | [Read More](https://medium.com/p/83b032f2244d) |
+| Sun, 27 Jul 2025 02:54:16 GMT | 6 Ways To Tell If Your Phone Is Hacked—And What To Do Next | Kajal Sharma | [Read More](https://medium.com/p/d86e653855a4) |
+| Sun, 27 Jul 2025 02:52:48 GMT | Parameter Tampering on a Govt. site | Parag Bagade | [Read More](https://medium.com/p/b5a7c6a5490c) |
+| Sun, 27 Jul 2025 02:41:16 GMT | “Bug Bounty ”Telerik Report Server Authentication Bypass — CVE-2024–4358 “POC” | HariHaranK | [Read More](https://medium.com/p/358575ed7102) |
+| Sun, 27 Jul 2025 02:39:29 GMT | Let’s Defend: 90 — SOC143 — Password Stealer Detected - Writeup | EPereda | [Read More](https://medium.com/p/5f6b549d1838) |
+| Sun, 27 Jul 2025 02:39:20 GMT | Hacking Headless: From Web to Root with Blind XSS and Sudo Shenanigans | Michael Moomey | [Read More](https://medium.com/p/60083317ba9d) |
+| Sun, 27 Jul 2025 02:14:49 GMT | How Does Cybersecurity Protect Businesses? | Sadaqat Hayat | [Read More](https://medium.com/p/3656c91bc69a) |
 | Sun, 27 Jul 2025 01:41:50 GMT | LoRA-Leak: Unveiling Membership Inference Vulnerabilities in Fine-Tuned Language Models | Sai Dheeraj Gummadi | [Read More](https://medium.com/p/7c4adc321d39) |
 | Sun, 27 Jul 2025 01:40:10 GMT | 5 Best Cybersecurity Books I’ve Read Along My Career | José Reyes (@Architekt) | [Read More](https://medium.com/p/0705e9806b51) |
 | Sun, 27 Jul 2025 01:39:11 GMT | Let Soteria scan, protect, fix, and manage client websites automatically while you earn recurring… | Mdfirojkobir | [Read More](https://medium.com/p/608f776f8263) |
@@ -100,16 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e
 | Sat, 26 Jul 2025 17:26:01 GMT | CVE-2025–44148: Cross Site Scripting (XSS) vulnerability on a small business. | Will.Star | [Read More](https://medium.com/p/f88f109262f6) |
 | Sat, 26 Jul 2025 17:25:54 GMT | Cybersecurity in an AI‑Driven World: Protect Yourself from Advanced Threats | James Williams | [Read More](https://medium.com/p/91f4c8b336ca) |
 | Sat, 26 Jul 2025 17:25:00 GMT | How Hashing Protects Your Passwords and Speeds Up the Internet | Habiba Fatima | [Read More](https://medium.com/p/9fd8657bfabe) |
-| Sat, 26 Jul 2025 17:18:53 GMT | Day 12- Hardware basics everyone should know before starting in cybersecurity or IT | unica 02 | [Read More](https://medium.com/p/2be26c3bc3b4) |
-| Sat, 26 Jul 2025 17:16:47 GMT | More XSS Labs Cracked! | M. Mustafa Hussaini | [Read More](https://medium.com/p/ad0cbf0ed2ce) |
-| Sat, 26 Jul 2025 17:15:28 GMT | The Evolving Landscape of Cybersecurity: Leadership, AI, and the Business Impact | Raviteja Mureboina | [Read More](https://medium.com/p/f7ff2bb0f5e2) |
-| Sat, 26 Jul 2025 17:11:09 GMT | Your Web App’s First Line of Defense: Essential Frontend File Validation | Krishnamani | [Read More](https://medium.com/p/fe61c8209edd) |
-| Sat, 26 Jul 2025 17:04:51 GMT | Don’t Send the Code | AGI: Quantum/Thermo | [Read More](https://medium.com/p/f60ab43da367) |
-| Sat, 26 Jul 2025 17:03:36 GMT | Hidden Threats in Code: Unsafe Functions That Open the Door to Exploits | Planet Strike | [Read More](https://medium.com/p/eb0564c35a38) |
-| Sat, 26 Jul 2025 17:03:25 GMT | N0aziXss NetRecon v3.1: The Ultimate Network Intelligence Toolkit | N0aziXss | [Read More](https://medium.com/p/ad2c7ee560a4) |
-| Sat, 26 Jul 2025 17:02:25 GMT | “IDOR Attacks Unmasked: Code Exploits and Real-World Breaches” | Aman Sharma | [Read More](https://medium.com/p/b05cddfb45c7) |
-| Sat, 26 Jul 2025 17:01:42 GMT | When Pandas Attack: AI-Enhanced ‘Koske’ Malware Threatens Cloud Environments. | eL Njas!™ | [Read More](https://medium.com/p/4341ed99df3e) |
-| Sat, 26 Jul 2025 16:59:56 GMT | Introducing CyverIQ.com – Where Cybersecurity Meets Intelligence | Dolores Abernathy | [Read More](https://medium.com/p/e4143f3a84e1) |
-| Sat, 26 Jul 2025 16:52:01 GMT | Hacking the Machine: How Adversarial AI Attacks Are Tricking Smart Systems | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/64dce60373a5) |
-| Sat, 26 Jul 2025 16:49:32 GMT | How Base64 Works — and Why Output Length mod 4 = 1 Is Invalid: A Simple 6-Bit Proof | Bill Nice G. HAVUGUKURI | [Read More](https://medium.com/p/e37af8d9f616) |
-| Sat, 26 Jul 2025 16:46:17 GMT | Hacking File Uploads — Exploiting PNG-only Upload Restrictions | Smabuhaider | [Read More](https://medium.com/p/e3f487e121fd) |
