@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 05:32:24 GMT | Cypher Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/74e8fcdead9e) |
+| Sun, 27 Jul 2025 05:25:33 GMT | From Recovery to Resilience: How My Journey Fuels My Cybersecurity Career | Taylorsoule | [Read More](https://medium.com/p/58b53fb27abc) |
 | Sun, 27 Jul 2025 05:22:13 GMT | AI-Assisted Insecurity: Forging JWTs from Auto-Generated Weak Secrets | SAEED | [Read More](https://medium.com/p/9a6db38b14ad) |
 | Sun, 27 Jul 2025 05:17:40 GMT | How Teenagers Are Becoming Cybercriminals: The Role of Social Media and Gaming | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/ad9a743f7321) |
 | Sun, 27 Jul 2025 05:10:11 GMT | “️ Why VAPT is the Backbone of Modern Cybersecurity” | Shieldnova | [Read More](https://medium.com/p/3ac181667467) |
@@ -111,5 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e
 | Sat, 26 Jul 2025 18:20:31 GMT | Why ISO/SAE 21434 Needs a Relook? | Sumit Chouhan | [Read More](https://medium.com/p/04267148ba72) |
 | Sat, 26 Jul 2025 18:17:29 GMT | Tea App Hack Exposes Private Photos on 4chan — What’s Next for the Company? | Jeremy Smith | [Read More](https://medium.com/p/36afdeeb0c29) |
 | Sat, 26 Jul 2025 18:16:25 GMT | The Irony is the Tea: How a Women’s Gossip App Became a Parable of Digital Hubris | Hakan Özerdem | [Read More](https://medium.com/p/d45765bf7a71) |
-| Sat, 26 Jul 2025 18:14:49 GMT | How Attackers Steal Data Using CORS Misconfigurations — Step-by-Step Breakdown! | Zoningxtr | [Read More](https://medium.com/p/b483b5f10cc5) |
-| Sat, 26 Jul 2025 18:14:20 GMT | Defender for Identity: Uncover What Lurks in Your Active Directory | Sebastian Kandler | [Read More](https://medium.com/p/c72d72e780f4) |
