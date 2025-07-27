@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 08:20:24 GMT | What the Probe Picks Up: A Deep Dive into Metadata | Sayantani Halder | [Read More](https://medium.com/p/f210eba2299a) |
+| Sun, 27 Jul 2025 08:18:31 GMT | Business Logic Vulnerabilities in Symfony: Explained with Real-World Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/321d84638cde) |
+| Sun, 27 Jul 2025 08:16:33 GMT | Bug Bounty — “Si todo parece seguro, es que no has mirado lo suficiente” | Gorka | [Read More](https://medium.com/p/386fef4ba55f) |
+| Sun, 27 Jul 2025 08:11:16 GMT | Cyber Defense Frameworks: Thinking Like A Defender | Khushi Arora | [Read More](https://medium.com/p/a3ab81a26869) |
+| Sun, 27 Jul 2025 08:08:05 GMT | The Machine Learning Pipeline: Attacks and a Zero Trust Framework | Sandeep Saxena | [Read More](https://medium.com/p/ba68ea414ac5) |
+| Sun, 27 Jul 2025 07:56:17 GMT | Defense Against Hardware Trojans and IC Cloning | Riya R V | [Read More](https://medium.com/p/f3b04c20c406) |
+| Sun, 27 Jul 2025 07:46:41 GMT | I can hack so why can’t I do bounties? | Thexssrat | [Read More](https://medium.com/p/5e0cd09486c4) |
+| Sun, 27 Jul 2025 07:42:24 GMT | Article #1 Protect Yourself from #virtualvipers | rkdnawab | [Read More](https://medium.com/p/e3fc0ac88d87) |
+| Sun, 27 Jul 2025 07:42:21 GMT | How I Used Python to Automate Every Repetitive Task in My Job — and No One Noticed | Suleman safdar | [Read More](https://medium.com/p/8b268cb7834b) |
+| Sun, 27 Jul 2025 07:40:48 GMT | Securing the Future of Two-Wheeler Battery Swapping: A Resilient Framework Inspired by Nepal’s… | Anil Pandey | [Read More](https://medium.com/p/50bb76b1118a) |
+| Sun, 27 Jul 2025 07:38:54 GMT | When You’re the One Everyone’s Counting On | Teresa Hart | [Read More](https://medium.com/p/411e19be739f) |
+| Sun, 27 Jul 2025 07:32:42 GMT | Complete Ethical Hacking Course with Certification 2025 | cyber security Updates | [Read More](https://medium.com/p/f070c2444cec) |
 | Sun, 27 Jul 2025 07:15:25 GMT | Starting My Cybersecurity Journey! | RNS | [Read More](https://medium.com/p/e9392726f20c) |
 | Sun, 27 Jul 2025 07:14:35 GMT | Best smart board for conference room. | MD ABDUS SAMAD | [Read More](https://medium.com/p/eaf8ea2363b2) |
 | Sun, 27 Jul 2025 07:12:34 GMT | Edge Caching for 500 MB IFC Files: When Local Storage Beats the Cloud | AlterSquare | [Read More](https://medium.com/p/2d6ee3cec193) |
@@ -101,15 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e
 | Sat, 26 Jul 2025 21:35:35 GMT | Cloud Security: Building a Multi-Layered Defense for the Digital Era | Hemant Patkar, CISSP | [Read More](https://medium.com/p/5c91e11fc1db) |
 | Sat, 26 Jul 2025 21:32:37 GMT | My Simple Method to Test for IDOR Vulnerabilities | Ibtissam hammadi | [Read More](https://medium.com/p/5963f6ed8785) |
 | Sat, 26 Jul 2025 21:32:31 GMT | WHEN BIRTHDAYS NO LONGER FEEL LIKE BIRTHDAYS | Oluyinka Annabelle | [Read More](https://medium.com/p/ae953f239e33) |
-| Sat, 26 Jul 2025 21:20:59 GMT | Part 1 of a 3-part series on Threat hunting and detection engineering | Benyamin Ben-david | [Read More](https://medium.com/p/415d22cba57a) |
-| Sat, 26 Jul 2025 21:19:26 GMT | 2025 Security Awareness Training Topics: Essential Cybersecurity Skills for the Future | Keepnet Labs | [Read More](https://medium.com/p/d622d72d5f76) |
-| Sat, 26 Jul 2025 21:17:43 GMT | A letter to the fear that follows me | Ink Within | [Read More](https://medium.com/p/33a70f1dabd2) |
-| Sat, 26 Jul 2025 21:11:30 GMT | Application Security: Understanding Threat Modeling for Modern Security Reviews | Janith Malinga | [Read More](https://medium.com/p/d802cbe87558) |
-| Sat, 26 Jul 2025 21:11:04 GMT | What Lies Beneath: AI’s Hidden Security Risks from Prompts to Orchestration | Mo Zaman | [Read More](https://medium.com/p/c9cbc8ab9980) |
-| Sat, 26 Jul 2025 20:55:10 GMT | Why Automate CVE Reporting with AI? | SR | [Read More](https://medium.com/p/e83b685dff7d) |
-| Sat, 26 Jul 2025 20:51:38 GMT | Choosing a Dark Web Monitoring Platform that Delivers Actionable Threat Intelligence | David SEHYEON Baek | [Read More](https://medium.com/p/c3d5bdec459e) |
-| Sat, 26 Jul 2025 20:38:47 GMT | HackTheBox-Cypher(WriteUp) | Aniket Das | [Read More](https://medium.com/p/34038da31222) |
-| Sat, 26 Jul 2025 20:34:11 GMT | Day 8 : Proxy upgrade attacks, how a Trap could’ve stopped it | Leoprince.sui | [Read More](https://medium.com/p/c2a328ace520) |
-| Sat, 26 Jul 2025 20:33:01 GMT | FTC Safeguards Rule Checklist: San Diego, Tucson, & Phoenix | Brendan Quinn | [Read More](https://medium.com/p/8800d13252a7) |
-| Sat, 26 Jul 2025 20:31:26 GMT | Threat Intel with MISP — TryHackMe Room Walkthrough | Asad Ali | [Read More](https://medium.com/p/92d82c37ad15) |
-| Sat, 26 Jul 2025 20:22:52 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/8ad24bc208d2) |
