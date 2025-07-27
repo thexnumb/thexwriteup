@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 15:34:41 GMT | THM - Stolen Mount | Francesco Pastore | [Read More](https://medium.com/p/ac76f1ea7ce1) |
+| Sun, 27 Jul 2025 15:31:59 GMT | Understanding DHCP: How IP Adresses Are Assigned and Exploited | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/ae8ba62e823a) |
+| Sun, 27 Jul 2025 15:29:23 GMT | Token Leakage via Referrer — The Invisible Slip to Third Parties | Sidhartha | [Read More](https://medium.com/p/9c8d326dd52c) |
+| Sun, 27 Jul 2025 15:19:37 GMT | Here’s the Truth About macOS Malware — From Someone Who Entrusts Apple with Their Entire Digital… | Kylie Harris | [Read More](https://medium.com/p/4ad7e8528495) |
 | Sun, 27 Jul 2025 15:18:37 GMT | Fine Tunning padaRuleset dan Decoder di Wazuh Server | DzakySN | [Read More](https://medium.com/p/f032618e9a5b) |
+| Sun, 27 Jul 2025 15:17:06 GMT | To Burn Until There’s Nothing Left | aln | [Read More](https://medium.com/p/d19da203f3ee) |
+| Sun, 27 Jul 2025 15:13:31 GMT | Security risks often hide in features added later | Nasrin | [Read More](https://medium.com/p/ec8e20824fe6) |
 | Sun, 27 Jul 2025 15:09:54 GMT | TheHackersLabs — Mentallity [Write Up] | APS88 | [Read More](https://medium.com/p/62f4a34e7366) |
 | Sun, 27 Jul 2025 15:02:23 GMT | The Most Underrated Skill in QA: Communication | Nirmal Kiran Patel | [Read More](https://medium.com/p/fa5d33c794ae) |
 | Sun, 27 Jul 2025 15:00:11 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #10 Solution | Aviv Yaniv | [Read More](https://medium.com/p/7c89a4232964) |
@@ -21,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 14:55:28 GMT | ANDROID PENTESTING —PART 1— FUNDAMENTALS | PARADOX | [Read More](https://medium.com/p/95f4fd659051) |
 | Sun, 27 Jul 2025 14:55:22 GMT | Future-Proofing Your Cloud: The Holistic Guide to Cloud-Native Security | clietech | [Read More](https://medium.com/p/47a4c6602b09) |
 | Sun, 27 Jul 2025 14:51:03 GMT | Firebase Storage Bucket Recon | AbhirupKonwar | [Read More](https://medium.com/p/df5e5acb65e2) |
+| Sun, 27 Jul 2025 14:41:12 GMT | LAPORAN YARA ARA vs SIGMA BOY | DhiasCode | [Read More](https://medium.com/p/fa563d357637) |
 | Sun, 27 Jul 2025 14:37:24 GMT | The Phantom Wallet: How AI-Fueled Crypto Scams Are Haunting Us | Tony Kenler | [Read More](https://medium.com/p/f3b14645326d) |
 | Sun, 27 Jul 2025 14:35:30 GMT | Symfonos: 2 — VulnHub Walkthrough (Boot-to-Root) | DataDefender | [Read More](https://medium.com/p/31704e9f68ed) |
 | Sun, 27 Jul 2025 14:33:28 GMT | ️ Cybersecurity for All: How Local Initiatives Are Changing the Game | Raghavan P | [Read More](https://medium.com/p/643b31e8b715) |
@@ -106,10 +113,3 @@ Imagine you’re… | Bigenaryal | [Read More](https://medium.com/p/8db7e996cdf2
 | Sun, 27 Jul 2025 09:22:42 GMT | OS command injection part-2 : Blind OS command injection with time delays | Ahmad Sopyan | [Read More](https://medium.com/p/3ac263ffa452) |
 | Sun, 27 Jul 2025 09:19:49 GMT | Quick‑Start Server Hardening Checklist (all open‑source) | Andrey Pautov | [Read More](https://medium.com/p/08e9887b9faa) |
 | Sun, 27 Jul 2025 09:19:30 GMT | Day 13- Exploring Windows System Hardware | unica 02 | [Read More](https://medium.com/p/6d5c468d258f) |
-| Sun, 27 Jul 2025 09:17:43 GMT | Fast and Efficient Web Browsing Tool: Test Application Security with Skipfish | Semih Arda Ersöz | [Read More](https://medium.com/p/d537f545bd1e) |
-| Sun, 27 Jul 2025 09:01:32 GMT | How I Passed CompTIA Security+ 701 | Jebin Jose | [Read More](https://medium.com/p/d5b81f127041) |
-| Sun, 27 Jul 2025 08:51:32 GMT | The Hidden Books That Protect Your Digital Life | Aj | [Read More](https://medium.com/p/b9cd180dd71c) |
-| Sun, 27 Jul 2025 08:50:49 GMT | My Phone Was Hacked Once. How Did I Find the Hacker? | Shahzaib | [Read More](https://medium.com/p/b27d098b6125) |
-| Sun, 27 Jul 2025 08:49:24 GMT | ️ Locking Down the Backend | Dhaval Agr'vat | [Read More](https://medium.com/p/e031757de4fe) |
-| Sun, 27 Jul 2025 08:47:33 GMT | Cloud Security Attacks, Pen testing, and Defense: A Technical Deep Dive from the Field | Prakashraam | [Read More](https://medium.com/p/333f2d65d5d3) |
-| Sun, 27 Jul 2025 08:46:39 GMT | Complete Digital Security Surveillance System for Modern Madrasas in Bangladesh | optimationbd | [Read More](https://medium.com/p/068d06f578a4) |
