@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 19:13:30 GMT | What Is Cybersecurity — And Why It Matters Now More Than Ever | Vatsal Sharma | [Read More](https://medium.com/p/8ab95285d146) |
+| Sun, 27 Jul 2025 19:01:48 GMT | July 27, 2025 – Silent Grit, Strange Conversations, and System Commands | IamGhost | [Read More](https://medium.com/p/88f95ec90c03) |
+| Sun, 27 Jul 2025 18:59:37 GMT | Cybersecurity Burnout: A Personal Anecdote | KarmicDragoon92 | [Read More](https://medium.com/p/795daeff65b6) |
+| Sun, 27 Jul 2025 18:57:27 GMT | Adaptive AI: Entering the Fastlane Beyond Digital Transformation | Traderjohnd | [Read More](https://medium.com/p/88d21f9c10b3) |
+| Sun, 27 Jul 2025 18:55:03 GMT | Linking The Distributed Web With The Centralised Web — The Web Returns To Its Roots | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/fdbdc7648268) |
+| Sun, 27 Jul 2025 18:42:53 GMT | Decoding the encoded: JSON Web Tokens | Alapan Das | [Read More](https://medium.com/p/7ecc1462b133) |
+| Sun, 27 Jul 2025 18:42:28 GMT | When AI Takes the Wheel: Navigating Identity and Access in the Age of Autonomous Agents | Jamal Jones | [Read More](https://medium.com/p/863d2e333349) |
+| Sun, 27 Jul 2025 18:28:41 GMT | Navigating Japan's Cybersecurity Landscape | nolly | [Read More](https://medium.com/p/403c301e6d0a) |
+| Sun, 27 Jul 2025 18:28:25 GMT | Cybersecurity Compliance Is Easy — Until You Have to Keep It Up | Steven McDaniel | [Read More](https://medium.com/p/7bb8d154b2d4) |
+| Sun, 27 Jul 2025 18:26:47 GMT | HICA CTF- ON3_P1ECE - Jinchuriki - Hide Chopper - Walkthrough | Puniyatjangir | [Read More](https://medium.com/p/0b16c3e70473) |
+| Sun, 27 Jul 2025 18:24:37 GMT | Kali Linux with Commands – A Complete Guide with Explanation
+Kali Linux is a very strong operating… | Yousaffffyyy | [Read More](https://medium.com/p/fc1e1d7a3d0b) |
 | Sun, 27 Jul 2025 18:19:39 GMT | Recon Methodology by Muhammad Khalid Bin Walid
  
  Everyone has a methodology, either similar or… | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/51c2d2a6514e) |
@@ -103,14 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 13:35:18 GMT | Symphonus: VulnHub Walkthrough — Hack the Tune (OSCP-Like) | DataDefender | [Read More](https://medium.com/p/bdb4dc5d6a72) |
 | Sun, 27 Jul 2025 13:32:07 GMT | CVE-2025–32463 - Exploit and Explain | Quyna | [Read More](https://medium.com/p/96abac68f24a) |
 | Sun, 27 Jul 2025 13:29:39 GMT | Jailhouse Tech: Could the Cops Track Your iPhone? | xhiddebx | [Read More](https://medium.com/p/ba8ab4239892) |
-| Sun, 27 Jul 2025 13:27:45 GMT | Distributed Denial of Service (DDoS): New Techniques & Mitigation | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d9ac8f1cb7d2) |
-| Sun, 27 Jul 2025 13:17:43 GMT | Sliver C2 for Red team operations | Lord Murak | [Read More](https://medium.com/p/153135648218) |
-| Sun, 27 Jul 2025 13:13:03 GMT | Classical Security in the Age of AI: Why the Old Guard Still Holds the Line | Igor Dubrovsky | [Read More](https://medium.com/p/5e02d7e12d22) |
-| Sun, 27 Jul 2025 13:08:19 GMT | AI Won’t Replace Cloud, DevOps, or Cybersecurity Engineers, It’ll Make Them More Valuable | Zudonu Osomudeya | [Read More](https://medium.com/p/a468397df20f) |
-| Sun, 27 Jul 2025 13:04:21 GMT | eDemocracy, Its Challenges, and the Future of Elections in Indonesia: Lessons Learned from the IA… | Mohamad Nur Syahril Kaharu | [Read More](https://medium.com/p/0905b214f1dd) |
-| Sun, 27 Jul 2025 13:02:43 GMT | Ethical Hacking Intro | Sidhu | [Read More](https://medium.com/p/9f500f80529d) |
-| Sun, 27 Jul 2025 13:01:53 GMT | Isolated SSH Dev Environments on a Single EC2 Using Docker | Varungweb | [Read More](https://medium.com/p/e84d21c40e45) |
-| Sun, 27 Jul 2025 12:59:54 GMT | My First Step into Cybersecurity: Exploring Nmap | TenzinLama(DragonWarrior) | [Read More](https://medium.com/p/69f8df09b9bf) |
-| Sun, 27 Jul 2025 12:58:02 GMT | Haven1 — The Safer Side of Web3 | Jerry Drylles | [Read More](https://medium.com/p/423256f4a09e) |
-| Sun, 27 Jul 2025 12:57:28 GMT | Passmuse: The AI Password Generator That Knows You | Vildan Bina | [Read More](https://medium.com/p/b67b1bac7014) |
-| Sun, 27 Jul 2025 12:54:51 GMT | Phishing: An Advanced Cyber Threat and Effective Countermeasures | Alireza mesbah ( hjmersad) | [Read More](https://medium.com/p/4b7a98b69230) |
