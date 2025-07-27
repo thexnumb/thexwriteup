@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 09:22:42 GMT | OS command injection part-2 : Blind OS command injection with time delays | Ahmad Sopyan | [Read More](https://medium.com/p/3ac263ffa452) |
+| Sun, 27 Jul 2025 09:19:49 GMT | Quick‑Start Server Hardening Checklist (all open‑source) | Andrey Pautov | [Read More](https://medium.com/p/08e9887b9faa) |
+| Sun, 27 Jul 2025 09:01:32 GMT | How I Passed CompTIA Security+ 701 | Jebin Jose | [Read More](https://medium.com/p/d5b81f127041) |
+| Sun, 27 Jul 2025 08:51:32 GMT | The Hidden Books That Protect Your Digital Life | Aj | [Read More](https://medium.com/p/b9cd180dd71c) |
+| Sun, 27 Jul 2025 08:50:49 GMT | My Phone Was Hacked Once. How Did I Find the Hacker? | Shahzaib | [Read More](https://medium.com/p/b27d098b6125) |
+| Sun, 27 Jul 2025 08:49:24 GMT | ️ Locking Down the Backend | Dhaval Agr'vat | [Read More](https://medium.com/p/e031757de4fe) |
 | Sun, 27 Jul 2025 08:47:33 GMT | Cloud Security Attacks, Pen testing, and Defense: A Technical Deep Dive from the Field | Prakashraam | [Read More](https://medium.com/p/333f2d65d5d3) |
+| Sun, 27 Jul 2025 08:46:39 GMT | Complete Digital Security Surveillance System for Modern Madrasas in Bangladesh | optimationbd | [Read More](https://medium.com/p/068d06f578a4) |
 | Sun, 27 Jul 2025 08:40:55 GMT | How I Stay Current with Incident Response Best Practices | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/99954de6d09b) |
+| Sun, 27 Jul 2025 08:39:34 GMT | Open interview | cefon | [Read More](https://medium.com/p/80948e527293) |
 | Sun, 27 Jul 2025 08:36:47 GMT | Free Cybersecurity Solutions for SMEs — Better Than Nothing, But Know the Limitations | David SEHYEON Baek | [Read More](https://medium.com/p/6ad7758d1b79) |
 | Sun, 27 Jul 2025 08:35:53 GMT | “It’s All Just the Same Website, Right?” — My Adventures in Subdomain Shenanigans | mUsHaRaF | [Read More](https://medium.com/p/443a89341e40) |
 | Sun, 27 Jul 2025 08:20:24 GMT | What the Probe Picks Up: A Deep Dive into Metadata | Sayantani Halder | [Read More](https://medium.com/p/f210eba2299a) |
@@ -105,11 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e
 | Sat, 26 Jul 2025 22:39:43 GMT | What Happens After You Log a Bug? The QA Perspective | Vladimir Josifoski | [Read More](https://medium.com/p/d840f948de9b) |
 | Sat, 26 Jul 2025 22:37:30 GMT | My OSCP Journey — Abhay Pandit | Abhay pandit | [Read More](https://medium.com/p/26fe2f2c7fe9) |
 | Sat, 26 Jul 2025 21:47:18 GMT | The Allianz Life Data Breach Explained | CyberCipher | [Read More](https://medium.com/p/911228b3d77f) |
-| Sat, 26 Jul 2025 21:46:19 GMT | $1000 Bounty: Reset any password | Monika sharma | [Read More](https://medium.com/p/474606e18441) |
-| Sat, 26 Jul 2025 21:43:06 GMT | How to Protect Your YouTube Channel from Hacking in 2025 | Keepnet Labs | [Read More](https://medium.com/p/76864b2c2a30) |
-| Sat, 26 Jul 2025 21:42:32 GMT | my first post | peony sage | [Read More](https://medium.com/p/d3487d1d20e2) |
-| Sat, 26 Jul 2025 21:40:58 GMT | Hacked by a Wall Toy: How a Novelty Device Crippled a Growing Marketing Firm | Noel | [Read More](https://medium.com/p/7ccaa47f90f7) |
-| Sat, 26 Jul 2025 21:40:37 GMT | We Laughed at Our Smart Thermostat — Until It Wiped Out Our Servers | Noel | [Read More](https://medium.com/p/7fcb3f39b1d2) |
-| Sat, 26 Jul 2025 21:37:03 GMT | CyberDefenders Challenge Week Incident Report | Vinay Morale | [Read More](https://medium.com/p/8ba904e4148c) |
-| Sat, 26 Jul 2025 21:36:41 GMT | $3,000 for Finding a Hidden Subdomain: My Reconnaissance Success Story | Krish_cyber | [Read More](https://medium.com/p/990396554a2e) |
-| Sat, 26 Jul 2025 21:36:05 GMT | Bounty $$$: Grafana LFI | Monika sharma | [Read More](https://medium.com/p/7cf9f167e1b2) |
