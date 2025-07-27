@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 09:42:26 GMT | OT Cyber Security Training in Delhi NCR | TheEvolvEdge | [Read More](https://medium.com/p/c19c6c2e0512) |
+| Sun, 27 Jul 2025 09:34:20 GMT | Uncovering the Cybercriminal’s Playbook: Their Strategies and How They Attack the Digital World | Angga Alfiansah | [Read More](https://medium.com/p/988fb7a7ed18) |
+| Sun, 27 Jul 2025 09:28:23 GMT | Breaking Boundaries: A Scholarly & Practical Guide to kali-tools-fuzzing | RafalW3bCraft | [Read More](https://medium.com/p/dae7ddd713c0) |
+| Sun, 27 Jul 2025 09:27:40 GMT | Web3 Identity Turning Digital Reputation Into Real Value | flash bolt | [Read More](https://medium.com/p/f0ae59db2599) |
+| Sun, 27 Jul 2025 09:25:37 GMT | Post-Truth and the Decline of Leadership | Anton Voichenko (aka Anton Vokrug) | [Read More](https://medium.com/p/40eec5f9e22c) |
 | Sun, 27 Jul 2025 09:22:42 GMT | OS command injection part-2 : Blind OS command injection with time delays | Ahmad Sopyan | [Read More](https://medium.com/p/3ac263ffa452) |
 | Sun, 27 Jul 2025 09:19:49 GMT | Quick‑Start Server Hardening Checklist (all open‑source) | Andrey Pautov | [Read More](https://medium.com/p/08e9887b9faa) |
+| Sun, 27 Jul 2025 09:19:30 GMT | Day 13- Exploring Windows System Hardware | unica 02 | [Read More](https://medium.com/p/6d5c468d258f) |
+| Sun, 27 Jul 2025 09:17:43 GMT | Fast and Efficient Web Browsing Tool: Test Application Security with Skipfish | Semih Arda Ersöz | [Read More](https://medium.com/p/d537f545bd1e) |
 | Sun, 27 Jul 2025 09:01:32 GMT | How I Passed CompTIA Security+ 701 | Jebin Jose | [Read More](https://medium.com/p/d5b81f127041) |
 | Sun, 27 Jul 2025 08:51:32 GMT | The Hidden Books That Protect Your Digital Life | Aj | [Read More](https://medium.com/p/b9cd180dd71c) |
 | Sun, 27 Jul 2025 08:50:49 GMT | My Phone Was Hacked Once. How Did I Find the Hacker? | Shahzaib | [Read More](https://medium.com/p/b27d098b6125) |
@@ -105,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Jul 2025 23:04:19 GMT | I Got ROOT Access to a Hosting Provider Without a Single Exploit | KonaN | [Read More](https://medium.com/p/c6af4185dc54) |
 | Sat, 26 Jul 2025 23:03:48 GMT | Boom. That’s Exploitation — Stage 4 of the Cyber Kill Chain | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/65094ad30bfb) |
 | Sat, 26 Jul 2025 23:00:34 GMT | How to Install Linux on a Windows PC (Beginner Friendly) | Omeiza | [Read More](https://medium.com/p/3172df4b9fa5) |
-| Sat, 26 Jul 2025 22:47:37 GMT | DID YOU LOST YOUR CRYPTO? DO YOU WANT TO RECOVER YOUR STOLEN BITCOIN,
-BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e4c) |
-| Sat, 26 Jul 2025 22:44:51 GMT | Code Fails & Epic Glitches: The Most Interesting Software Bugs Ever | Vladimir Josifoski | [Read More](https://medium.com/p/cc6f4d907781) |
-| Sat, 26 Jul 2025 22:44:33 GMT | Leaking Secrets : Building an LLM-Powered Secret Scanner for Codebases | Aishwarya Athreya | [Read More](https://medium.com/p/9b76270c3694) |
-| Sat, 26 Jul 2025 22:40:55 GMT | Soteria Review: State-of-the-Art AI Website Security Technology Instantly Scans, Detects & Fixes… | Mason Bernard | [Read More](https://medium.com/p/b89104d0f3bb) |
-| Sat, 26 Jul 2025 22:39:43 GMT | What Happens After You Log a Bug? The QA Perspective | Vladimir Josifoski | [Read More](https://medium.com/p/d840f948de9b) |
-| Sat, 26 Jul 2025 22:37:30 GMT | My OSCP Journey — Abhay Pandit | Abhay pandit | [Read More](https://medium.com/p/26fe2f2c7fe9) |
-| Sat, 26 Jul 2025 21:47:18 GMT | The Allianz Life Data Breach Explained | CyberCipher | [Read More](https://medium.com/p/911228b3d77f) |
