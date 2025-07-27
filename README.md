@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 01:41:50 GMT | LoRA-Leak: Unveiling Membership Inference Vulnerabilities in Fine-Tuned Language Models | Sai Dheeraj Gummadi | [Read More](https://medium.com/p/7c4adc321d39) |
+| Sun, 27 Jul 2025 01:40:10 GMT | 5 Best Cybersecurity Books I’ve Read Along My Career | José Reyes (@Architekt) | [Read More](https://medium.com/p/0705e9806b51) |
+| Sun, 27 Jul 2025 01:39:11 GMT | Let Soteria scan, protect, fix, and manage client websites automatically while you earn recurring… | Mdfirojkobir | [Read More](https://medium.com/p/608f776f8263) |
+| Sun, 27 Jul 2025 01:33:15 GMT | The Hardest Thing to Write Is the Truth | Jamie Shaw | [Read More](https://medium.com/p/8d4bdde2e2c1) |
+| Sun, 27 Jul 2025 01:19:24 GMT | :     HackerOne! | Umer Yousuf | [Read More](https://medium.com/p/19b7aeaf7c6a) |
+| Sun, 27 Jul 2025 01:17:36 GMT | Weaponizing Trust: Inside the SharePoint Zero-Day Exploit by Chinese APTs Targeting On-Prem… | Akilnath Bodipudi | [Read More](https://medium.com/p/28e647fbe2f9) |
+| Sun, 27 Jul 2025 01:05:36 GMT | Best 4K Security Camera System for Home | Ingramvillaescusa | [Read More](https://medium.com/p/fb53e53512df) |
+| Sun, 27 Jul 2025 00:53:23 GMT | A Casual Spiral | Betty LaBoop | [Read More](https://medium.com/p/c8e12b66ec6a) |
+| Sun, 27 Jul 2025 00:52:11 GMT | Digital Transformation: What It Really Means — And How to Get It Right | Anashnidi | [Read More](https://medium.com/p/e48772a458e2) |
+| Sun, 27 Jul 2025 00:10:18 GMT | How your daily Digital diet is quietly killing your privacy | Yash Kumar Chauhan | [Read More](https://medium.com/p/a956bb5ad1f1) |
+| Sun, 27 Jul 2025 00:04:17 GMT | SQL injection vulnerability allowing login bypass [ES] [PortSwigger] | h0lm3s | [Read More](https://medium.com/p/53c7adf477df) |
 | Sat, 26 Jul 2025 23:20:36 GMT | Why Your Security Strategy Is Backwards (And How to Fix It) | Joao Silva | [Read More](https://medium.com/p/42348dab7b8b) |
 | Sat, 26 Jul 2025 23:15:21 GMT | Semicenk —’’ Canın Sağolsun’’ Şarkısının Nöro-Sosyal Analizi ve Toplumsal Etkisi | Kubra Soydan | [Read More](https://medium.com/p/8eb4e05c3405) |
 | Sat, 26 Jul 2025 23:04:19 GMT | I Got ROOT Access to a Hosting Provider Without a Single Exploit | KonaN | [Read More](https://medium.com/p/c6af4185dc54) |
@@ -102,15 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e
 | Sat, 26 Jul 2025 16:52:01 GMT | Hacking the Machine: How Adversarial AI Attacks Are Tricking Smart Systems | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/64dce60373a5) |
 | Sat, 26 Jul 2025 16:49:32 GMT | How Base64 Works — and Why Output Length mod 4 = 1 Is Invalid: A Simple 6-Bit Proof | Bill Nice G. HAVUGUKURI | [Read More](https://medium.com/p/e37af8d9f616) |
 | Sat, 26 Jul 2025 16:46:17 GMT | Hacking File Uploads — Exploiting PNG-only Upload Restrictions | Smabuhaider | [Read More](https://medium.com/p/e3f487e121fd) |
-| Sat, 26 Jul 2025 16:31:50 GMT | AI ‘Nudify’ Tools Rake in $36M Annually: 24M Users Target Women in Photos | Dadang Irsyam - Tech n Society Strategist | [Read More](https://medium.com/p/e27d32f352fd) |
-| Sat, 26 Jul 2025 16:29:43 GMT | How Hard Is Cybersecurity? Here’s What You Need to Know | Gotechanic003 | [Read More](https://medium.com/p/1e5fce21f508) |
-| Sat, 26 Jul 2025 16:29:04 GMT | The Silent Revolution Is Already Here | sana irshad | [Read More](https://medium.com/p/2aec3ef236cd) |
-| Sat, 26 Jul 2025 16:25:34 GMT | DOM XSS Deep Dive: Exploiting More PortSwigger Labs (Lab 4) | M. Mustafa Hussaini | [Read More](https://medium.com/p/506efbd75388) |
-| Sat, 26 Jul 2025 16:19:00 GMT | Cybersecurity Isn’t Rocket Science — But It’s Not Easy Either | Gotechanic003 | [Read More](https://medium.com/p/31750241675c) |
-| Sat, 26 Jul 2025 16:18:52 GMT | N0aziXss Origin Recon v3.1: The Ultimate CDN Bypass & Infrastructure Mapping Tool | N0aziXss | [Read More](https://medium.com/p/efcd80439b3f) |
-| Sat, 26 Jul 2025 16:13:46 GMT | 10 Common Online Scams (and How to Avoid Them in 2025) | Manander Singh (MSD) | [Read More](https://medium.com/p/620320bc49bd) |
-| Sat, 26 Jul 2025 16:11:27 GMT | You Got Hacked and Didn’t Even Notice — Here’s How | Yousaf javed | [Read More](https://medium.com/p/d69128f61e5e) |
-| Sat, 26 Jul 2025 16:06:42 GMT | How Hackers Use AI in 2025: The Alarming Rise of Smart Malware and Ransomware
-By Pankaj Pawar | Pankaj Pawar | [Read More](https://medium.com/p/247372e711dd) |
-| Sat, 26 Jul 2025 16:03:35 GMT | Introduction to Threat Intelligence: Key Concepts and Definitions | Hitesh Said | [Read More](https://medium.com/p/11969e321798) |
-| Sat, 26 Jul 2025 16:03:24 GMT | Information Disclosure | Ayesha | [Read More](https://medium.com/p/5545bfe66054) |
