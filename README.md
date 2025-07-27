@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 14:37:24 GMT | The Phantom Wallet: How AI-Fueled Crypto Scams Are Haunting Us | Tony Kenler | [Read More](https://medium.com/p/f3b14645326d) |
+| Sun, 27 Jul 2025 14:33:28 GMT | ️ Cybersecurity for All: How Local Initiatives Are Changing the Game | Raghavan P | [Read More](https://medium.com/p/643b31e8b715) |
+| Sun, 27 Jul 2025 14:28:35 GMT | Angular Application Security | Piyali Das | [Read More](https://medium.com/p/b3d7a4002209) |
+| Sun, 27 Jul 2025 14:25:51 GMT | Understanding Transport Layer Security (TLS) and Public Key Infrastructure (PKI): How Secure Web… | Afdul Rohmat | [Read More](https://medium.com/p/12107627280e) |
+| Sun, 27 Jul 2025 14:19:52 GMT | The Watchdogs Within: The Engines That Flag Threats | Sayantani Halder | [Read More](https://medium.com/p/b6ac831519c4) |
 | Sun, 27 Jul 2025 14:14:11 GMT | My notes on “Windows Security Internals — A Deep Dive into Windows Authentication, Authorization… | Feghouli Hamza | [Read More](https://medium.com/p/8098cb15d28d) |
 | Sun, 27 Jul 2025 14:13:55 GMT | Expose the Unseen: Image-Based OSINT Techniques for Digital Sleuths | Kavi Amudan | [Read More](https://medium.com/p/ebef73ca7006) |
 | Sun, 27 Jul 2025 14:08:11 GMT | ️‍♂️ Linux Forensics Case Study Using Autopsy-M57 Jean Scenario | Mohamed Basil | [Read More](https://medium.com/p/b9f4aa9f9740) |
@@ -108,8 +113,3 @@ Imagine you’re… | Bigenaryal | [Read More](https://medium.com/p/8db7e996cdf2
 | Sun, 27 Jul 2025 08:08:05 GMT | The Machine Learning Pipeline: Attacks and a Zero Trust Framework | Sandeep Saxena | [Read More](https://medium.com/p/ba68ea414ac5) |
 | Sun, 27 Jul 2025 07:56:17 GMT | Defense Against Hardware Trojans and IC Cloning | Riya R V | [Read More](https://medium.com/p/f3b04c20c406) |
 | Sun, 27 Jul 2025 07:46:41 GMT | I can hack so why can’t I do bounties? | Thexssrat | [Read More](https://medium.com/p/5e0cd09486c4) |
-| Sun, 27 Jul 2025 07:42:24 GMT | Article #1 Protect Yourself from #virtualvipers | rkdnawab | [Read More](https://medium.com/p/e3fc0ac88d87) |
-| Sun, 27 Jul 2025 07:42:21 GMT | How I Used Python to Automate Every Repetitive Task in My Job — and No One Noticed | Suleman safdar | [Read More](https://medium.com/p/8b268cb7834b) |
-| Sun, 27 Jul 2025 07:40:48 GMT | Securing the Future of Two-Wheeler Battery Swapping: A Resilient Framework Inspired by Nepal’s… | Anil Pandey | [Read More](https://medium.com/p/50bb76b1118a) |
-| Sun, 27 Jul 2025 07:38:54 GMT | When You’re the One Everyone’s Counting On | Teresa Hart | [Read More](https://medium.com/p/411e19be739f) |
-| Sun, 27 Jul 2025 07:32:42 GMT | Complete Ethical Hacking Course with Certification 2025 | cyber security Updates | [Read More](https://medium.com/p/f070c2444cec) |
