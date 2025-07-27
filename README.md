@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 07:14:35 GMT | Best smart board for conference room. | MD ABDUS SAMAD | [Read More](https://medium.com/p/eaf8ea2363b2) |
+| Sun, 27 Jul 2025 07:12:34 GMT | Edge Caching for 500 MB IFC Files: When Local Storage Beats the Cloud | AlterSquare | [Read More](https://medium.com/p/2d6ee3cec193) |
+| Sun, 27 Jul 2025 07:06:08 GMT | Beyond Passwords: How SalatStealer Targets Your Browser and Crypto Wallets | Pratik Gurav | [Read More](https://medium.com/p/9a476e7bd651) |
+| Sun, 27 Jul 2025 07:01:21 GMT | Host Validation Bypass via Connection State Attack: Multiple Requests Over the Same TCP Connection | Bash Overflow | [Read More](https://medium.com/p/9fc2406d2fe1) |
+| Sun, 27 Jul 2025 06:59:26 GMT | The Death of Traditional Tech: How AI Is Rewriting Every Rule in 2025 | Chilkotikartik | [Read More](https://medium.com/p/22aa03387611) |
+| Sun, 27 Jul 2025 06:54:28 GMT | Say Yes to the Dance | musingsfrommarc | [Read More](https://medium.com/p/6e47f7b15acd) |
+| Sun, 27 Jul 2025 06:49:55 GMT | WeTransfer now claims rights to your content — here’s an alternative | Viggo Blum | [Read More](https://medium.com/p/bce589538954) |
+| Sun, 27 Jul 2025 06:44:49 GMT | Hacking Gen Z: The Dark Side of Talent and Technology | Nitin Saraswat | [Read More](https://medium.com/p/d8cadecfe3bb) |
+| Sun, 27 Jul 2025 06:39:33 GMT | Mendeteksi Malware Menggunakan YARA dan Sigma Rules di Wazuh | Andriadl | [Read More](https://medium.com/p/c37e2e7e3169) |
 | Sun, 27 Jul 2025 06:31:36 GMT | How I Bypassed a Strict Proxy Using .MSI Files | Muhammad Sarmad Shafiq | [Read More](https://medium.com/p/2fc865ef33bd) |
+| Sun, 27 Jul 2025 06:28:03 GMT | OS command injection part-1 : simple case | Ahmad Sopyan | [Read More](https://medium.com/p/bdf22ea89ef5) |
 | Sun, 27 Jul 2025 06:16:12 GMT | 工廠轉型智慧化，也要有防駭客觀念！用 IEC 62443 來保護智慧工廠的安全！ | xamns | [Read More](https://medium.com/p/d7564cfd0c08) |
 | Sun, 27 Jul 2025 06:04:14 GMT | Researching bcrypt for secure password storage attacks (an analysis) | Marla Tumenjargal | [Read More](https://medium.com/p/def2b1e95567) |
 | Sun, 27 Jul 2025 06:03:18 GMT | Bridging Tech and Business: The Real Role of a Business Analyst | Jayakishor Bayadi | [Read More](https://medium.com/p/0f2702aec3eb) |
@@ -103,13 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e
 | Sat, 26 Jul 2025 20:22:52 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/8ad24bc208d2) |
 | Sat, 26 Jul 2025 20:20:22 GMT | Runner HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/1ba26a922ed3) |
 | Sat, 26 Jul 2025 20:17:57 GMT | Growing in the Quiet, the Unseen and Felt | Liana Rosh | [Read More](https://medium.com/p/c780f7fdc3aa) |
-| Sat, 26 Jul 2025 20:08:50 GMT | I Got Hired Without a CV | Esther | [Read More](https://medium.com/p/45742dc44e2f) |
-| Sat, 26 Jul 2025 20:01:22 GMT | Civilization. The next page.(109) | Jan Slort | [Read More](https://medium.com/p/0b70594f96b8) |
-| Sat, 26 Jul 2025 19:52:26 GMT | ️ TryHackMe: Memory Forensics with Redline — Step by Step Review | Furkanctiner | [Read More](https://medium.com/p/59a053948874) |
-| Sat, 26 Jul 2025 19:52:21 GMT | Tired of high costs and unreliable on-site guards? | Visual Monitoring Solutions | [Read More](https://medium.com/p/645ef6750376) |
-| Sat, 26 Jul 2025 19:47:53 GMT | DAY 26–Memory Is a Liar: How I Solved the 13Cubed Memory CTF Using Volatility | Jinay | [Read More](https://medium.com/p/21d9909a9754) |
-| Sat, 26 Jul 2025 19:45:19 GMT | IAM at SCALE — Enterprise level IAM handling | Atimis | [Read More](https://medium.com/p/d2f5825c1a10) |
-| Sat, 26 Jul 2025 19:37:57 GMT | CVE-2025–6977-POC — Reflected XSS in ProfileGrid WordPress Plugin (Unauthenticated) | CANITEY | [Read More](https://medium.com/p/158bb0595c08) |
-| Sat, 26 Jul 2025 19:27:17 GMT | EP 02: Sender Policy Framework (SPF) | H.W.K. Aravinda | [Read More](https://medium.com/p/48e74b7e8d4e) |
-| Sat, 26 Jul 2025 19:19:42 GMT | Write Up CTF IT Fest IPB 2025 | syntaxis | [Read More](https://medium.com/p/1e0ff918e312) |
-| Sat, 26 Jul 2025 19:05:50 GMT | 5 Reasons I Stopped Counting On People. | Dani Ike | [Read More](https://medium.com/p/c31c7dea648c) |
