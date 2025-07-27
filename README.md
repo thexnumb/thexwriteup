@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 18:19:39 GMT | Recon Methodology by Muhammad Khalid Bin Walid
+ 
+ Everyone has a methodology, either similar or… | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/51c2d2a6514e) |
+| Sun, 27 Jul 2025 18:19:29 GMT | DAY 27 — Chapter 14: Using and Abusing Services — Apache, OpenSSH, MySQL, PostgreSQL | Jinay | [Read More](https://medium.com/p/5c859c44bca8) |
+| Sun, 27 Jul 2025 18:14:25 GMT | 4.4 From 36k+ Amazon Reviews: Wireless Security Camera in 2025 | Top secure tools | [Read More](https://medium.com/p/63fe8f906a3e) |
+| Sun, 27 Jul 2025 18:14:15 GMT | Keycloak vs. Auth0 vs. Okta: The Ultimate IAM Comparison Guide | Jay Chu | [Read More](https://medium.com/p/d185a58c5488) |
+| Sun, 27 Jul 2025 18:11:35 GMT | How to use THEHIVE for CTI | Genrunic | [Read More](https://medium.com/p/e46a2d429739) |
+| Sun, 27 Jul 2025 17:57:21 GMT | How to Destroy SSL/TLS Errors: New AWS GCP Guide | Samarth | [Read More](https://medium.com/p/531b6c19402b) |
+| Sun, 27 Jul 2025 17:50:23 GMT | Mastering Nmap -From Basics to Pro Scanning Techniques | Mohamed Basil | [Read More](https://medium.com/p/624aa6291b5a) |
 | Sun, 27 Jul 2025 17:38:20 GMT | Own the‑Box: Your Field‑Tested Offensive Security Manual | Sajjad Asaad | [Read More](https://medium.com/p/0b01e67bae11) |
+| Sun, 27 Jul 2025 17:37:36 GMT | When Encryption Dies: Preparing Human Response for the Quantum Threat | Jeffrey Nickle | [Read More](https://medium.com/p/022a6d727bfc) |
 | Sun, 27 Jul 2025 17:35:49 GMT | Salvatore D’arpa Jason D’Arpa TED Talks Tesla Motors Xai Foundation Googlee | Signallink Protocol Drew Phillips jr | [Read More](https://medium.com/p/e7ffe12f8054) |
 | Sun, 27 Jul 2025 17:25:59 GMT | My First Vulnerability- SQL Injection. | Vinaykumar | [Read More](https://medium.com/p/b07aa6d18df2) |
 | Sun, 27 Jul 2025 17:24:28 GMT | Endpoint Security Isn’t Just Antivirus: CIS Benchmark Validation in Practice | Siddhi Patil | [Read More](https://medium.com/p/a9b0829e8d8e) |
@@ -104,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 12:58:02 GMT | Haven1 — The Safer Side of Web3 | Jerry Drylles | [Read More](https://medium.com/p/423256f4a09e) |
 | Sun, 27 Jul 2025 12:57:28 GMT | Passmuse: The AI Password Generator That Knows You | Vildan Bina | [Read More](https://medium.com/p/b67b1bac7014) |
 | Sun, 27 Jul 2025 12:54:51 GMT | Phishing: An Advanced Cyber Threat and Effective Countermeasures | Alireza mesbah ( hjmersad) | [Read More](https://medium.com/p/4b7a98b69230) |
-| Sun, 27 Jul 2025 12:52:21 GMT | Breaking Into NoSQL: Understanding NoSQL Injection with Buggy Buy | Muneeza Badar | [Read More](https://medium.com/p/6ceb237e09b9) |
-| Sun, 27 Jul 2025 12:51:52 GMT | ️ Multi-Layered Security Monitoring on Linux and Windows Systems with OSSEC | Esra Kayhan | [Read More](https://medium.com/p/803853d30351) |
-| Sun, 27 Jul 2025 12:50:10 GMT | Cyberpour: Your Go-To Resource for Tech Enthusiasts and Digital Innovators | hplistener | [Read More](https://medium.com/p/7215ae628ea5) |
-| Sun, 27 Jul 2025 12:47:17 GMT | Criminals don’t wait — neither do we. | Visual Monitoring Solutions | [Read More](https://medium.com/p/4fee854b2b74) |
-| Sun, 27 Jul 2025 12:38:50 GMT | N0aziXss Domain Recon v3.1: The Next Generation of WHOIS Intelligence | N0aziXss | [Read More](https://medium.com/p/73657e92ac7d) |
-| Sun, 27 Jul 2025 12:29:38 GMT | [Hack The Box CTF] Cypher Write-Up | fnwn | [Read More](https://medium.com/p/b6a24b9298fb) |
-| Sun, 27 Jul 2025 12:02:45 GMT | Testing Firebase API Key Vulnerabilities: A Step-by-Step Guide | Ranjan Kumar | [Read More](https://medium.com/p/3e265e673a69) |
-| Sun, 27 Jul 2025 12:02:34 GMT | I Was Just Writing A Story. The AI Almost Built Me a Bomb. | Phil Stafford | [Read More](https://medium.com/p/8e3d31216594) |
