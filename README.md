@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 13:32:07 GMT | CVE-2025–32463 - Exploit and Explain | Quyna | [Read More](https://medium.com/p/96abac68f24a) |
+| Sun, 27 Jul 2025 13:29:39 GMT | Jailhouse Tech: Could the Cops Track Your iPhone? | xhiddebx | [Read More](https://medium.com/p/ba8ab4239892) |
+| Sun, 27 Jul 2025 13:27:45 GMT | Distributed Denial of Service (DDoS): New Techniques & Mitigation | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d9ac8f1cb7d2) |
+| Sun, 27 Jul 2025 13:17:43 GMT | Sliver C2 for Red team operations | Lord Murak | [Read More](https://medium.com/p/153135648218) |
+| Sun, 27 Jul 2025 13:13:03 GMT | Classical Security in the Age of AI: Why the Old Guard Still Holds the Line | Igor Dubrovsky | [Read More](https://medium.com/p/5e02d7e12d22) |
+| Sun, 27 Jul 2025 13:08:19 GMT | AI Won’t Replace Cloud, DevOps, or Cybersecurity Engineers, It’ll Make Them More Valuable | Zudonu Osomudeya | [Read More](https://medium.com/p/a468397df20f) |
+| Sun, 27 Jul 2025 13:04:21 GMT | eDemocracy, Its Challenges, and the Future of Elections in Indonesia: Lessons Learned from the IA… | Mohamad Nur Syahril Kaharu | [Read More](https://medium.com/p/0905b214f1dd) |
+| Sun, 27 Jul 2025 13:02:43 GMT | Ethical Hacking Intro | Sidhu | [Read More](https://medium.com/p/9f500f80529d) |
+| Sun, 27 Jul 2025 13:01:53 GMT | Isolated SSH Dev Environments on a Single EC2 Using Docker | Varungweb | [Read More](https://medium.com/p/e84d21c40e45) |
+| Sun, 27 Jul 2025 12:59:54 GMT | My First Step into Cybersecurity: Exploring Nmap | TenzinLama(DragonWarrior) | [Read More](https://medium.com/p/69f8df09b9bf) |
+| Sun, 27 Jul 2025 12:58:02 GMT | Haven1 — The Safer Side of Web3 | Jerry Drylles | [Read More](https://medium.com/p/423256f4a09e) |
+| Sun, 27 Jul 2025 12:57:28 GMT | Passmuse: The AI Password Generator That Knows You | Vildan Bina | [Read More](https://medium.com/p/b67b1bac7014) |
+| Sun, 27 Jul 2025 12:54:51 GMT | Phishing: An Advanced Cyber Threat and Effective Countermeasures | Alireza mesbah ( hjmersad) | [Read More](https://medium.com/p/4b7a98b69230) |
+| Sun, 27 Jul 2025 12:52:21 GMT | Breaking Into NoSQL: Understanding NoSQL Injection with Buggy Buy | Muneeza Badar | [Read More](https://medium.com/p/6ceb237e09b9) |
+| Sun, 27 Jul 2025 12:51:52 GMT | ️ Multi-Layered Security Monitoring on Linux and Windows Systems with OSSEC | Esra Kayhan | [Read More](https://medium.com/p/803853d30351) |
+| Sun, 27 Jul 2025 12:50:10 GMT | Cyberpour: Your Go-To Resource for Tech Enthusiasts and Digital Innovators | hplistener | [Read More](https://medium.com/p/7215ae628ea5) |
+| Sun, 27 Jul 2025 12:47:17 GMT | Criminals don’t wait — neither do we. | Visual Monitoring Solutions | [Read More](https://medium.com/p/4fee854b2b74) |
 | Sun, 27 Jul 2025 12:38:50 GMT | N0aziXss Domain Recon v3.1: The Next Generation of WHOIS Intelligence | N0aziXss | [Read More](https://medium.com/p/73657e92ac7d) |
 | Sun, 27 Jul 2025 12:29:38 GMT | [Hack The Box CTF] Cypher Write-Up | fnwn | [Read More](https://medium.com/p/b6a24b9298fb) |
 | Sun, 27 Jul 2025 12:02:45 GMT | Testing Firebase API Key Vulnerabilities: A Step-by-Step Guide | Ranjan Kumar | [Read More](https://medium.com/p/3e265e673a69) |
@@ -96,20 +113,3 @@ Imagine you’re… | Bigenaryal | [Read More](https://medium.com/p/8db7e996cdf2
 | Sun, 27 Jul 2025 06:28:03 GMT | OS command injection part-1 : simple case | Ahmad Sopyan | [Read More](https://medium.com/p/bdf22ea89ef5) |
 | Sun, 27 Jul 2025 06:16:12 GMT | 工廠轉型智慧化，也要有防駭客觀念！用 IEC 62443 來保護智慧工廠的安全！ | xamns | [Read More](https://medium.com/p/d7564cfd0c08) |
 | Sun, 27 Jul 2025 06:04:14 GMT | Researching bcrypt for secure password storage attacks (an analysis) | Marla Tumenjargal | [Read More](https://medium.com/p/def2b1e95567) |
-| Sun, 27 Jul 2025 06:03:18 GMT | Bridging Tech and Business: The Real Role of a Business Analyst | Jayakishor Bayadi | [Read More](https://medium.com/p/0f2702aec3eb) |
-| Sun, 27 Jul 2025 06:00:24 GMT | Today’s Top Cyber Intelligence Highlights — Jul 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d029e685bc7b) |
-| Sun, 27 Jul 2025 05:57:43 GMT | Wildcard SSL Explained: Pros, Cons, and Use Cases for Subdomain Security | Hardy Mervana | [Read More](https://medium.com/p/f428a98d8f24) |
-| Sun, 27 Jul 2025 05:56:57 GMT | Your ChatGPT History Could Be Used in Court — Here’s What You Need to Know | Rue | [Read More](https://medium.com/p/ace2fd1a6586) |
-| Sun, 27 Jul 2025 05:53:04 GMT | Wazuh Single Node Installation Guide For Home Lab on Ubuntu. | Rupesh Sharma | [Read More](https://medium.com/p/0eb2ca339408) |
-| Sun, 27 Jul 2025 05:48:30 GMT | What is Network Level Authentication? | R1punjay_Singh | [Read More](https://medium.com/p/e690f46ce387) |
-| Sun, 27 Jul 2025 05:40:52 GMT | AI-Powered Zero Trust in 2025: The New Cybersecurity Battlefield | _Anirudh_ | [Read More](https://medium.com/p/1161897f92e8) |
-| Sun, 27 Jul 2025 05:40:34 GMT | Wi-Fi MITM in Practice: Build Your Own Access Point with Internet and mitmproxy | Gleb Wam | [Read More](https://medium.com/p/4ee903afc213) |
-| Sun, 27 Jul 2025 05:32:24 GMT | Cypher Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/74e8fcdead9e) |
-| Sun, 27 Jul 2025 05:25:33 GMT | From Recovery to Resilience: How My Journey Fuels My Cybersecurity Career | Taylorsoule | [Read More](https://medium.com/p/58b53fb27abc) |
-| Sun, 27 Jul 2025 05:22:13 GMT | AI-Assisted Insecurity: Forging JWTs from Auto-Generated Weak Secrets | SAEED | [Read More](https://medium.com/p/9a6db38b14ad) |
-| Sun, 27 Jul 2025 05:17:40 GMT | How Teenagers Are Becoming Cybercriminals: The Role of Social Media and Gaming | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/ad9a743f7321) |
-| Sun, 27 Jul 2025 05:10:11 GMT | “️ Why VAPT is the Backbone of Modern Cybersecurity” | Shieldnova | [Read More](https://medium.com/p/3ac181667467) |
-| Sun, 27 Jul 2025 05:03:16 GMT | From OWASP Top 10 to Real-World Exploitation: A Flowchart-Driven Guide for Penetration Testers | YoungerSibling | [Read More](https://medium.com/p/b41f82aa989a) |
-| Sun, 27 Jul 2025 04:57:56 GMT | Week 6 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/d2a27e136f24) |
-| Sun, 27 Jul 2025 04:50:06 GMT | How SSH Works, explained in simple way | Ayush Kumar | [Read More](https://medium.com/p/6265af303189) |
-| Sun, 27 Jul 2025 04:40:01 GMT | why escaping feels easier than owning your mistakes. | Arya | [Read More](https://medium.com/p/0b8d576bdd97) |
