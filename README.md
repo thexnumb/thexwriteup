@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 22:13:03 GMT | EDR is not enough. | Aman_Utkhedkar | [Read More](https://medium.com/p/2702d4e30387) |
+| Sun, 27 Jul 2025 22:10:54 GMT | Trust Chains and Digital Security: A Simplified Guide to PKI Hierarchies | Infosecjourney.tech | [Read More](https://medium.com/p/9402483a0364) |
+| Sun, 27 Jul 2025 22:07:06 GMT | the Naval Group «cyberattack» : when cyber warfare meets billion-dollar deals | Sirine Amrane | [Read More](https://medium.com/p/6eec975afadf) |
+| Sun, 27 Jul 2025 22:00:35 GMT | Why I Write About Digital Risk (and Why You Might Want to Read) | Evgeny Ermakov | [Read More](https://medium.com/p/0accc969848c) |
+| Sun, 27 Jul 2025 21:58:41 GMT | Hacking the hackers: hacking Russian Corporate Mail!! | Fantasma | [Read More](https://medium.com/p/bacc26ad3804) |
+| Sun, 27 Jul 2025 21:58:20 GMT | I Turned an “Informative” Severity Bug into a “Medium” Payout — Here’s How I Worded the Report | CypherNova1337 | [Read More](https://medium.com/p/a141a60594d9) |
+| Sun, 27 Jul 2025 21:57:14 GMT | HackTheBox - Postman | jniket | [Read More](https://medium.com/p/3045be675d48) |
+| Sun, 27 Jul 2025 21:56:30 GMT | TryHackMe — Web App PenTest: NoSQL Injection | Huy Phu | [Read More](https://medium.com/p/2aae869300eb) |
+| Sun, 27 Jul 2025 21:47:29 GMT | Chunked File Uploads in Native PHP for Large Files (800MB+) | Roman Huliak | [Read More](https://medium.com/p/dbf6228d8434) |
+| Sun, 27 Jul 2025 21:43:55 GMT | Day 62: Even More Nmap | Nile Okomo | [Read More](https://medium.com/p/4aad1a4972c5) |
 | Sun, 27 Jul 2025 21:39:33 GMT | How to Start Bug Bounty in 2025 (Beginner’s Guide + Tips) | Mr Joe | [Read More](https://medium.com/p/24f98b55f3fd) |
+| Sun, 27 Jul 2025 21:39:00 GMT | VX AI Retro RPG | VXRL | [Read More](https://medium.com/p/7669b5f2dbe6) |
 | Sun, 27 Jul 2025 21:33:04 GMT | SQLMap — TryHackMe Walkthrough by Ishita Gandhi | Ishitagandhi | [Read More](https://medium.com/p/8ebb8f6b05b2) |
 | Sun, 27 Jul 2025 21:31:41 GMT | Working with System Commands Using the subprocess Module — Python in Cybersecurity | Mohammed Gabic | [Read More](https://medium.com/p/ab5d2e1155c9) |
 | Sun, 27 Jul 2025 21:28:17 GMT | Exposing the Rise of Job Scams Targeting Desperate Youth Searching for Job | Jagath Jayaprakash | [Read More](https://medium.com/p/b236a94b5a07) |
@@ -104,14 +115,3 @@ Kali Linux is a very strong operating… | Yousaffffyyy | [Read More](https://me
 | Sun, 27 Jul 2025 15:51:35 GMT | Enhancing Wazuh SIEM with Conversational AI: The MCP Server Revolution | am | [Read More](https://medium.com/p/496d5916c6a3) |
 | Sun, 27 Jul 2025 15:47:41 GMT | How I Learned to Hack Websites (Legally) — No Tech Background, No Problem | maggs | [Read More](https://medium.com/p/f829ebb7e38d) |
 | Sun, 27 Jul 2025 15:47:18 GMT | Revolutionzing Education: How AI-Powered Tutoring is Personalizing Learning Like Never Before | Payaam Raza | [Read More](https://medium.com/p/b7258fc09299) |
-| Sun, 27 Jul 2025 15:45:26 GMT | TryHackMe: Daily Bugle Writeup (Hard Room) | Sondip Roy | [Read More](https://medium.com/p/2e43e6ad24f0) |
-| Sun, 27 Jul 2025 15:37:34 GMT | ️ What is DORA and Why It Matters for Cybersecurity in Finance | Neelendra Singh Tomar | [Read More](https://medium.com/p/48db4dee5585) |
-| Sun, 27 Jul 2025 15:34:41 GMT | THM - Stolen Mount | Francesco Pastore | [Read More](https://medium.com/p/ac76f1ea7ce1) |
-| Sun, 27 Jul 2025 15:31:59 GMT | Understanding DHCP: How IP Adresses Are Assigned and Exploited | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/ae8ba62e823a) |
-| Sun, 27 Jul 2025 15:29:23 GMT | Token Leakage via Referrer — The Invisible Slip to Third Parties | Sidhartha | [Read More](https://medium.com/p/9c8d326dd52c) |
-| Sun, 27 Jul 2025 15:19:37 GMT | Here’s the Truth About macOS Malware — From Someone Who Entrusts Apple with Their Entire Digital… | Kylie Harris | [Read More](https://medium.com/p/4ad7e8528495) |
-| Sun, 27 Jul 2025 15:18:37 GMT | Fine Tunning padaRuleset dan Decoder di Wazuh Server | DzakySN | [Read More](https://medium.com/p/f032618e9a5b) |
-| Sun, 27 Jul 2025 15:17:06 GMT | To Burn Until There’s Nothing Left | aln | [Read More](https://medium.com/p/d19da203f3ee) |
-| Sun, 27 Jul 2025 15:13:31 GMT | Security risks often hide in features added later | Nasrin | [Read More](https://medium.com/p/ec8e20824fe6) |
-| Sun, 27 Jul 2025 15:09:54 GMT | TheHackersLabs — Mentallity [Write Up] | APS88 | [Read More](https://medium.com/p/62f4a34e7366) |
-| Sun, 27 Jul 2025 15:02:23 GMT | The Most Underrated Skill in QA: Communication | Nirmal Kiran Patel | [Read More](https://medium.com/p/fa5d33c794ae) |
