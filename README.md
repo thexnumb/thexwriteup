@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 19:25:02 GMT | ️ Automate Secret and PII Scanning in Jenkins With HashiCorp Vault Radar | Raymon Epping | [Read More](https://medium.com/p/27af771d2963) |
+| Sun, 27 Jul 2025 19:22:07 GMT | The Message That Emptied A Village | O. J. Okpabi | [Read More](https://medium.com/p/ba9d834e33e3) |
+| Sun, 27 Jul 2025 19:19:28 GMT | Dodge - Tryhackme Walkthrough | Aydan | [Read More](https://medium.com/p/958149ec7577) |
+| Sun, 27 Jul 2025 19:18:29 GMT | Mapping Real-World Threat Infrastructure: APT28 & Public IOC Attribution | Yug Shah | [Read More](https://medium.com/p/abb62a1b8251) |
+| Sun, 27 Jul 2025 19:18:16 GMT | The Social Engineering Risks of Agentic AI in Customer Service | OWilliams | [Read More](https://medium.com/p/4ccdb82dca1f) |
+| Sun, 27 Jul 2025 19:16:33 GMT | From HTML Injection to Server File Reading via PDF Export | Mohand | [Read More](https://medium.com/p/068e76b1f7bd) |
 | Sun, 27 Jul 2025 19:13:30 GMT | What Is Cybersecurity — And Why It Matters Now More Than Ever | Vatsal Sharma | [Read More](https://medium.com/p/8ab95285d146) |
 | Sun, 27 Jul 2025 19:01:48 GMT | July 27, 2025 – Silent Grit, Strange Conversations, and System Commands | IamGhost | [Read More](https://medium.com/p/88f95ec90c03) |
 | Sun, 27 Jul 2025 18:59:37 GMT | Cybersecurity Burnout: A Personal Anecdote | KarmicDragoon92 | [Read More](https://medium.com/p/795daeff65b6) |
@@ -109,9 +115,3 @@ Kali Linux is a very strong operating… | Yousaffffyyy | [Read More](https://me
 | Sun, 27 Jul 2025 13:53:06 GMT | Mapping the NIST Cybersecurity Framework to the Secure Software Development Framework | Alex Riley | [Read More](https://medium.com/p/c6ab656e8e3a) |
 | Sun, 27 Jul 2025 13:50:39 GMT | Unlocking the Future of Passwords: How AI Storytelling Creates Unforgettable Security | Vildan Bina | [Read More](https://medium.com/p/902e028cb729) |
 | Sun, 27 Jul 2025 13:36:54 GMT | Everything You Need To Know About The Tea App Data Breach | Udodi | [Read More](https://medium.com/p/eee6d0d11bb2) |
-| Sun, 27 Jul 2025 13:36:49 GMT | why do i take everything so personally? | vnqzci ˎˊ˗ | [Read More](https://medium.com/p/fc2638f81019) |
-| Sun, 27 Jul 2025 13:36:47 GMT | The One Thing Java Developers Must Unlearn Today: != null Everywhere | The Quantum Yogi | [Read More](https://medium.com/p/3f840c988fe4) |
-| Sun, 27 Jul 2025 13:35:27 GMT | Juicy Details TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/66f454c2b34b) |
-| Sun, 27 Jul 2025 13:35:18 GMT | Symphonus: VulnHub Walkthrough — Hack the Tune (OSCP-Like) | DataDefender | [Read More](https://medium.com/p/bdb4dc5d6a72) |
-| Sun, 27 Jul 2025 13:32:07 GMT | CVE-2025–32463 - Exploit and Explain | Quyna | [Read More](https://medium.com/p/96abac68f24a) |
-| Sun, 27 Jul 2025 13:29:39 GMT | Jailhouse Tech: Could the Cops Track Your iPhone? | xhiddebx | [Read More](https://medium.com/p/ba8ab4239892) |
