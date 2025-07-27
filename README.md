@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 10:42:55 GMT | The Silenced Firewall | SIMKRA | [Read More](https://medium.com/p/c7d3be426c8d) |
+| Sun, 27 Jul 2025 10:36:41 GMT | Let ChatGPT Help You Secure Smart Home Devices | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/f6b1ee611348) |
+| Sun, 27 Jul 2025 10:31:21 GMT | Your Domain History Is a Privacy Nightmare — Here’s Why It Should Scare You | Yasunori Kuji | [Read More](https://medium.com/p/277619ece517) |
+| Sun, 27 Jul 2025 10:27:42 GMT | Biggest Executive Event of 2025? Here’s a Recap of the Epic BRAVO 500 by XLSMART! | resnatary | [Read More](https://medium.com/p/544104e69987) |
+| Sun, 27 Jul 2025 10:21:55 GMT | Cache Me Outside: How I Poisoned CDN Caches and Hijacked Sessions Like a Magician | Iski | [Read More](https://medium.com/p/4be2e65167f4) |
+| Sun, 27 Jul 2025 10:16:55 GMT | Machine Learning — Understanding the Basics | Ridhaf Fhathima Shaik | [Read More](https://medium.com/p/b77387d23612) |
 | Sun, 27 Jul 2025 10:10:28 GMT | 16 Years, 1 Week, 1 Cert: Returning to Cybersecurity with a Fresh Lens | Krishnamoorthy Sankaran | [Read More](https://medium.com/p/3ffbdd990696) |
 | Sun, 27 Jul 2025 10:04:11 GMT | TryHackMe: Mastering KAPE — Efficient Triage and Evidence Collection | Furkanctiner | [Read More](https://medium.com/p/db7e2dd8a0ee) |
 | Sun, 27 Jul 2025 10:04:04 GMT | OracleVM Linux Edition for Malware Dynamic Analysis. | lukewago | [Read More](https://medium.com/p/b8564c332115) |
@@ -107,9 +113,3 @@ Imagine you’re… | Bigenaryal | [Read More](https://medium.com/p/8db7e996cdf2
 | Sun, 27 Jul 2025 02:39:29 GMT | Let’s Defend: 90 — SOC143 — Password Stealer Detected - Writeup | EPereda | [Read More](https://medium.com/p/5f6b549d1838) |
 | Sun, 27 Jul 2025 02:39:20 GMT | Hacking Headless: From Web to Root with Blind XSS and Sudo Shenanigans | Michael Moomey | [Read More](https://medium.com/p/60083317ba9d) |
 | Sun, 27 Jul 2025 02:14:49 GMT | How Does Cybersecurity Protect Businesses? | Sadaqat Hayat | [Read More](https://medium.com/p/3656c91bc69a) |
-| Sun, 27 Jul 2025 01:41:50 GMT | LoRA-Leak: Unveiling Membership Inference Vulnerabilities in Fine-Tuned Language Models | Sai Dheeraj Gummadi | [Read More](https://medium.com/p/7c4adc321d39) |
-| Sun, 27 Jul 2025 01:40:10 GMT | 5 Best Cybersecurity Books I’ve Read Along My Career | José Reyes (@Architekt) | [Read More](https://medium.com/p/0705e9806b51) |
-| Sun, 27 Jul 2025 01:39:11 GMT | Let Soteria scan, protect, fix, and manage client websites automatically while you earn recurring… | Mdfirojkobir | [Read More](https://medium.com/p/608f776f8263) |
-| Sun, 27 Jul 2025 01:33:15 GMT | The Hardest Thing to Write Is the Truth | Jamie Shaw | [Read More](https://medium.com/p/8d4bdde2e2c1) |
-| Sun, 27 Jul 2025 01:19:24 GMT | :     HackerOne! | Umer Yousuf | [Read More](https://medium.com/p/19b7aeaf7c6a) |
-| Sun, 27 Jul 2025 01:17:36 GMT | Weaponizing Trust: Inside the SharePoint Zero-Day Exploit by Chinese APTs Targeting On-Prem… | Akilnath Bodipudi | [Read More](https://medium.com/p/28e647fbe2f9) |
