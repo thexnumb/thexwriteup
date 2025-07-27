@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 16:36:05 GMT | Tea App Forgot to Lock the Teapot | Franky Arriola | [Read More](https://medium.com/p/331fd5827842) |
+| Sun, 27 Jul 2025 16:35:35 GMT | Process Ghosting — Deep Dive & Why Microsoft had to ruin the fun | MalDevTy | [Read More](https://medium.com/p/fa0863fb0aab) |
+| Sun, 27 Jul 2025 16:32:15 GMT | Flash USDT: What You See Isn’t Always What You Get | Rodah | [Read More](https://medium.com/p/58a225a427df) |
+| Sun, 27 Jul 2025 16:29:49 GMT | Understanding Flash USDT: A Quick Insight | Rodah | [Read More](https://medium.com/p/1ece838ee3ee) |
+| Sun, 27 Jul 2025 16:28:48 GMT | F5 BIGIP COURSE Promo Udemy | DeepDive4learn | [Read More](https://medium.com/p/98c6d9cec53e) |
+| Sun, 27 Jul 2025 16:24:34 GMT | The Basics of Flash USDT | Higo | [Read More](https://medium.com/p/94bf3778fb99) |
+| Sun, 27 Jul 2025 16:23:03 GMT | What Is Flash USDT? | Higo | [Read More](https://medium.com/p/394570723379) |
+| Sun, 27 Jul 2025 16:21:39 GMT | Flash USDT Isn’t What You Think — Here’s the Truth | Higo | [Read More](https://medium.com/p/309098a935ab) |
 | Sun, 27 Jul 2025 16:20:58 GMT | The Playbook for Playbooks | Ryan G. Cox | [Read More](https://medium.com/p/c5c8cc0a6638) |
 | Sun, 27 Jul 2025 16:18:02 GMT | Dissecting a Malware Sample: Static Analysis of an Unknown Threat (Part 1) | Mohamed Niyas | [Read More](https://medium.com/p/bd8dfed2adad) |
 | Sun, 27 Jul 2025 16:15:46 GMT | Track Snapchat Like a Pro: Top Spy Apps That Actually Work | Narjis Batool | [Read More](https://medium.com/p/ce958eb5b667) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 10:53:07 GMT | Race conditions | MUHTADIN | [Read More](https://medium.com/p/8e39d3b02be4) |
 | Sun, 27 Jul 2025 10:47:06 GMT | How real hackers automate scripts on Arch Linux with systemd (A Beginner’s Guide) | sys_br3ach3r | [Read More](https://medium.com/p/5d95b0e2ec41) |
 | Sun, 27 Jul 2025 10:46:52 GMT | “From Zero to Hero: How I Landed My First Bug Bounty (And How You Can Too!)” | Aman Sharma | [Read More](https://medium.com/p/19e384ea4fdd) |
-| Sun, 27 Jul 2025 10:46:14 GMT | Immutability in Cloud Data Storage is Broken — and It’s Costing You a Fortune | Deb Roy | [Read More](https://medium.com/p/d2da6376dfe0) |
-| Sun, 27 Jul 2025 10:42:55 GMT | The Silenced Firewall | SIMKRA | [Read More](https://medium.com/p/c7d3be426c8d) |
-| Sun, 27 Jul 2025 10:36:41 GMT | Let ChatGPT Help You Secure Smart Home Devices | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/f6b1ee611348) |
-| Sun, 27 Jul 2025 10:31:21 GMT | Your Domain History Is a Privacy Nightmare — Here’s Why It Should Scare You | Yasunori Kuji | [Read More](https://medium.com/p/277619ece517) |
-| Sun, 27 Jul 2025 10:27:42 GMT | Biggest Executive Event of 2025? Here’s a Recap of the Epic BRAVO 500 by XLSMART! | resnatary | [Read More](https://medium.com/p/544104e69987) |
-| Sun, 27 Jul 2025 10:21:55 GMT | Cache Me Outside: How I Poisoned CDN Caches and Hijacked Sessions Like a Magician | Iski | [Read More](https://medium.com/p/4be2e65167f4) |
-| Sun, 27 Jul 2025 10:16:55 GMT | Machine Learning — Understanding the Basics | Ridhaf Fhathima Shaik | [Read More](https://medium.com/p/b77387d23612) |
-| Sun, 27 Jul 2025 10:10:28 GMT | 16 Years, 1 Week, 1 Cert: Returning to Cybersecurity with a Fresh Lens | Krishnamoorthy Sankaran | [Read More](https://medium.com/p/3ffbdd990696) |
