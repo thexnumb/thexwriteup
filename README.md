@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 04:40:01 GMT | why escaping feels easier than owning your mistakes. | Arya | [Read More](https://medium.com/p/0b8d576bdd97) |
+| Sun, 27 Jul 2025 04:36:42 GMT | Episode 7: Server-Side Includes Injection — The Quiet Danger Lurking in Legacy Code | Yamini Yadav | [Read More](https://medium.com/p/51002a88fb88) |
+| Sun, 27 Jul 2025 04:33:39 GMT | HTTP/HTTPS, Demystified: How the Web Talks Behind the Scenes | Ayush Kumar | [Read More](https://medium.com/p/007f59b42185) |
+| Sun, 27 Jul 2025 04:29:00 GMT | ️ Why We Chose HackTheDisk: A Complete Cybersecurity Partner for Modern Businesses | Léandro | [Read More](https://medium.com/p/6945c29e737b) |
+| Sun, 27 Jul 2025 04:27:20 GMT | Beyond Antivirus: Rethinking Cybersecurity with RGB, Entropy, and APT Defense | Ramadhana Khalaf Sandhyakala | [Read More](https://medium.com/p/913e7d4f6919) |
+| Sun, 27 Jul 2025 04:22:35 GMT | Security First: Why Biyapay Is Built for Peace of Mind | Big Ahvas | [Read More](https://medium.com/p/560f5ee2a588) |
+| Sun, 27 Jul 2025 04:06:14 GMT | Stages of Socialization Using Prompt Chaining for AI Beginners Maximizing the benefits of… | Botcy | [Read More](https://medium.com/p/83fb4186e587) |
+| Sun, 27 Jul 2025 03:54:21 GMT | When the Mind No Longer Belongs to Us | Human.exe | [Read More](https://medium.com/p/42853370a0a0) |
+| Sun, 27 Jul 2025 03:54:10 GMT | SHORT NEWS ABOUT CHATGPT MID-2025 ChatGPT Ushers in a New Era of Multitasking AI Assistants: The… | Botcy | [Read More](https://medium.com/p/3d7053db8b89) |
 | Sun, 27 Jul 2025 03:41:53 GMT | COLDDBOX-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/df88948da298) |
 | Sun, 27 Jul 2025 03:33:46 GMT | 別只會上Patch：用全局思維管理資安攻擊表面 | Yoyo Lin | [Read More](https://medium.com/p/c4ca2d75e150) |
 | Sun, 27 Jul 2025 03:32:04 GMT | Securing Your Lenovo: A Deep Look Into the Vantage Vulnerabilities You Shouldn’t Ignore | Deven Chhajed | [Read More](https://medium.com/p/a0c3c84797db) |
@@ -104,12 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e
 | Sat, 26 Jul 2025 17:56:16 GMT | Title: Toward Artificial Epistemology: Architecting Non-Biological Cognition Beyond Simulation | AhmadrezaDaryanoush | [Read More](https://medium.com/p/052bbfbba6c8) |
 | Sat, 26 Jul 2025 17:55:20 GMT | What’s the Difference Between IT Support and IT Services? | Susan Clinton | [Read More](https://medium.com/p/77bdfbd171cf) |
 | Sat, 26 Jul 2025 17:42:49 GMT | The IoT Security Imperative: Rethinking Cybersecurity in a Hyperconnected World | Dr. Pankaj Lamture | [Read More](https://medium.com/p/29c8fdf53838) |
-| Sat, 26 Jul 2025 17:36:43 GMT | Лего створення AI-агента: Recall Hackathon, GAIA, Lit Protocol | Mykola Vasyk | [Read More](https://medium.com/p/46222508a9ab) |
-| Sat, 26 Jul 2025 17:36:20 GMT | Technology | Corey | [Read More](https://medium.com/p/64c659c9d20e) |
-| Sat, 26 Jul 2025 17:35:53 GMT | Parental Guide: Top Spy Apps to Monitor Your Child’s Instagram | Narjis Batool | [Read More](https://medium.com/p/73662ae32065) |
-| Sat, 26 Jul 2025 17:33:59 GMT | This is the Most Important Danger on Holiday | Peter | [Read More](https://medium.com/p/c226a5e3499a) |
-| Sat, 26 Jul 2025 17:33:44 GMT | Something Is Rotten in Google Search | Yemi Oyedepo | [Read More](https://medium.com/p/482bd4742960) |
-| Sat, 26 Jul 2025 17:31:14 GMT | The Asymmetry of Affection | Ava Hayes | [Read More](https://medium.com/p/19726589f08f) |
-| Sat, 26 Jul 2025 17:26:01 GMT | CVE-2025–44148: Cross Site Scripting (XSS) vulnerability on a small business. | Will.Star | [Read More](https://medium.com/p/f88f109262f6) |
-| Sat, 26 Jul 2025 17:25:54 GMT | Cybersecurity in an AI‑Driven World: Protect Yourself from Advanced Threats | James Williams | [Read More](https://medium.com/p/91f4c8b336ca) |
-| Sat, 26 Jul 2025 17:25:00 GMT | How Hashing Protects Your Passwords and Speeds Up the Internet | Habiba Fatima | [Read More](https://medium.com/p/9fd8657bfabe) |
