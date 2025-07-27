@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 11:08:17 GMT | Hackers Are Already Trying to Get You — Start Cybersecurity Practice Now! | Rashadul Islam | [Read More](https://medium.com/p/e4b7a0f2b3f8) |
+| Sun, 27 Jul 2025 11:05:56 GMT | Detecting Azure Front Door WAF with BChecks | fz42 | [Read More](https://medium.com/p/3f92017bb58e) |
+| Sun, 27 Jul 2025 11:02:50 GMT | Cookies, LocalStorage y SessionStorage…: ¿cuál usar y cuándo? | Hirochi Riveros | [Read More](https://medium.com/p/3c4da4494011) |
+| Sun, 27 Jul 2025 11:01:05 GMT | Blockchain in a Nutshell: Simplifying the Digital Revolution | Natarajan C K | [Read More](https://medium.com/p/cc9e103c6e08) |
+| Sun, 27 Jul 2025 10:53:07 GMT | Race conditions | MUHTADIN | [Read More](https://medium.com/p/8e39d3b02be4) |
+| Sun, 27 Jul 2025 10:47:06 GMT | How real hackers automate scripts on Arch Linux with systemd (A Beginner’s Guide) | sys_br3ach3r | [Read More](https://medium.com/p/5d95b0e2ec41) |
+| Sun, 27 Jul 2025 10:46:52 GMT | “From Zero to Hero: How I Landed My First Bug Bounty (And How You Can Too!)” | Aman Sharma | [Read More](https://medium.com/p/19e384ea4fdd) |
+| Sun, 27 Jul 2025 10:46:14 GMT | Immutability in Cloud Data Storage is Broken — and It’s Costing You a Fortune | Deb Roy | [Read More](https://medium.com/p/d2da6376dfe0) |
 | Sun, 27 Jul 2025 10:42:55 GMT | The Silenced Firewall | SIMKRA | [Read More](https://medium.com/p/c7d3be426c8d) |
 | Sun, 27 Jul 2025 10:36:41 GMT | Let ChatGPT Help You Secure Smart Home Devices | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/f6b1ee611348) |
 | Sun, 27 Jul 2025 10:31:21 GMT | Your Domain History Is a Privacy Nightmare — Here’s Why It Should Scare You | Yasunori Kuji | [Read More](https://medium.com/p/277619ece517) |
@@ -105,11 +113,3 @@ Imagine you’re… | Bigenaryal | [Read More](https://medium.com/p/8db7e996cdf2
 | Sun, 27 Jul 2025 03:32:04 GMT | Securing Your Lenovo: A Deep Look Into the Vantage Vulnerabilities You Shouldn’t Ignore | Deven Chhajed | [Read More](https://medium.com/p/a0c3c84797db) |
 | Sun, 27 Jul 2025 03:25:16 GMT | ️‍♂️ The Art of Open Source Intelligence (OSINT): 10 Powerful Tools Every Cyber Sleuth Should… | Paritosh | [Read More](https://medium.com/p/db273d86bec8) |
 | Sun, 27 Jul 2025 03:20:13 GMT | My Intro to Cybersecurity | Oatmilk | [Read More](https://medium.com/p/0daf2588645f) |
-| Sun, 27 Jul 2025 03:14:46 GMT | How to Secure Your MVP (Cursor apps) | Algo Insights | [Read More](https://medium.com/p/44f570752e78) |
-| Sun, 27 Jul 2025 03:01:54 GMT | When Safety Promises Become Privacy Nightmares: The Tea App Story | Friendly Guide | [Read More](https://medium.com/p/83b032f2244d) |
-| Sun, 27 Jul 2025 02:54:16 GMT | 6 Ways To Tell If Your Phone Is Hacked—And What To Do Next | Kajal Sharma | [Read More](https://medium.com/p/d86e653855a4) |
-| Sun, 27 Jul 2025 02:52:48 GMT | Parameter Tampering on a Govt. site | Parag Bagade | [Read More](https://medium.com/p/b5a7c6a5490c) |
-| Sun, 27 Jul 2025 02:41:16 GMT | “Bug Bounty ”Telerik Report Server Authentication Bypass — CVE-2024–4358 “POC” | HariHaranK | [Read More](https://medium.com/p/358575ed7102) |
-| Sun, 27 Jul 2025 02:39:29 GMT | Let’s Defend: 90 — SOC143 — Password Stealer Detected - Writeup | EPereda | [Read More](https://medium.com/p/5f6b549d1838) |
-| Sun, 27 Jul 2025 02:39:20 GMT | Hacking Headless: From Web to Root with Blind XSS and Sudo Shenanigans | Michael Moomey | [Read More](https://medium.com/p/60083317ba9d) |
-| Sun, 27 Jul 2025 02:14:49 GMT | How Does Cybersecurity Protect Businesses? | Sadaqat Hayat | [Read More](https://medium.com/p/3656c91bc69a) |
