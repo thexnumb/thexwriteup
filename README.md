@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 23:24:14 GMT | HackTheBox — Exatlon Challenge Walkthrough (Rev) | Yusuf Bashir | [Read More](https://medium.com/p/37afce00dc1d) |
+| Sun, 27 Jul 2025 23:16:17 GMT | Global information security and infrastructure approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/d85bb9dcbbaa) |
 | Sun, 27 Jul 2025 23:14:20 GMT | Secure software development and threat modeling approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/118934037764) |
 | Sun, 27 Jul 2025 23:11:49 GMT | How Knowledge Graphs Can Supercharge Cyber Threat Intelligence | Michael Bocanegra | [Read More](https://medium.com/p/3788d4fa0bd9) |
 | Sun, 27 Jul 2025 23:02:39 GMT | CyberDefenders — Insider Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/8ce7f94a4418) |
@@ -113,5 +115,3 @@ Kali Linux is a very strong operating… | Yousaffffyyy | [Read More](https://me
 | Sun, 27 Jul 2025 16:24:34 GMT | The Basics of Flash USDT | Higo | [Read More](https://medium.com/p/94bf3778fb99) |
 | Sun, 27 Jul 2025 16:23:03 GMT | What Is Flash USDT? | Higo | [Read More](https://medium.com/p/394570723379) |
 | Sun, 27 Jul 2025 16:21:39 GMT | Flash USDT Isn’t What You Think — Here’s the Truth | Higo | [Read More](https://medium.com/p/309098a935ab) |
-| Sun, 27 Jul 2025 16:20:58 GMT | The Playbook for Playbooks | Ryan G. Cox | [Read More](https://medium.com/p/c5c8cc0a6638) |
-| Sun, 27 Jul 2025 16:18:02 GMT | Dissecting a Malware Sample: Static Analysis of an Unknown Threat (Part 1) | Mohamed Niyas | [Read More](https://medium.com/p/bd8dfed2adad) |
