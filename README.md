@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 16:20:58 GMT | The Playbook for Playbooks | Ryan G. Cox | [Read More](https://medium.com/p/c5c8cc0a6638) |
+| Sun, 27 Jul 2025 16:18:02 GMT | Dissecting a Malware Sample: Static Analysis of an Unknown Threat (Part 1) | Mohamed Niyas | [Read More](https://medium.com/p/bd8dfed2adad) |
+| Sun, 27 Jul 2025 16:15:46 GMT | Track Snapchat Like a Pro: Top Spy Apps That Actually Work | Narjis Batool | [Read More](https://medium.com/p/ce958eb5b667) |
+| Sun, 27 Jul 2025 16:13:56 GMT | Deteksi Ancaman di Log OpenStack dengan Wazuh: Instalasi Single-Node & Penerapan Custom Ruleset | DhiasCode | [Read More](https://medium.com/p/6e2e174985c8) |
+| Sun, 27 Jul 2025 16:05:19 GMT | How to Keep Your WordPress Site Clean and Secure: A Friendly Guide | Devid h | [Read More](https://medium.com/p/e16afd7c6072) |
+| Sun, 27 Jul 2025 16:04:51 GMT | Can Hacking Be Good? | Catherine Ma | [Read More](https://medium.com/p/c849fd09ba8d) |
+| Sun, 27 Jul 2025 16:02:43 GMT | The Truth About Recovering Crypto from Scammers | Derrick M Langston | [Read More](https://medium.com/p/089fd02701fd) |
+| Sun, 27 Jul 2025 16:01:36 GMT | Day 8 — The IT FOMO No One Talks About | Hajeera | [Read More](https://medium.com/p/d19ceef7f293) |
+| Sun, 27 Jul 2025 16:00:17 GMT | AI in Payment Systems | Anandha Kumar J | [Read More](https://medium.com/p/0c4bb5b30b1f) |
+| Sun, 27 Jul 2025 15:56:07 GMT | A Hands-On Guide to API Key Aliasing & Quota Sharing on AWS CloudFront + API Gateway | Kinjal Thakkar | [Read More](https://medium.com/p/4f6b83ffe7dc) |
+| Sun, 27 Jul 2025 15:53:30 GMT | Alert! Then What? Incident Handling and Response Basics | Sayantani Halder | [Read More](https://medium.com/p/03a1d6611000) |
+| Sun, 27 Jul 2025 15:53:09 GMT | Introducing Redshift Commander: A Simpler Way to Handle Amazon Redshift Privileges | Francesco Larghi | [Read More](https://medium.com/p/79aed03c4a0a) |
+| Sun, 27 Jul 2025 15:51:35 GMT | Enhancing Wazuh SIEM with Conversational AI: The MCP Server Revolution | am | [Read More](https://medium.com/p/496d5916c6a3) |
+| Sun, 27 Jul 2025 15:47:41 GMT | How I Learned to Hack Websites (Legally) — No Tech Background, No Problem | maggs | [Read More](https://medium.com/p/f829ebb7e38d) |
+| Sun, 27 Jul 2025 15:47:18 GMT | Revolutionzing Education: How AI-Powered Tutoring is Personalizing Learning Like Never Before | Payaam Raza | [Read More](https://medium.com/p/b7258fc09299) |
+| Sun, 27 Jul 2025 15:45:26 GMT | TryHackMe: Daily Bugle Writeup (Hard Room) | Sondip Roy | [Read More](https://medium.com/p/2e43e6ad24f0) |
+| Sun, 27 Jul 2025 15:37:34 GMT | ️ What is DORA and Why It Matters for Cybersecurity in Finance | Neelendra Singh Tomar | [Read More](https://medium.com/p/48db4dee5585) |
 | Sun, 27 Jul 2025 15:34:41 GMT | THM - Stolen Mount | Francesco Pastore | [Read More](https://medium.com/p/ac76f1ea7ce1) |
 | Sun, 27 Jul 2025 15:31:59 GMT | Understanding DHCP: How IP Adresses Are Assigned and Exploited | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/ae8ba62e823a) |
 | Sun, 27 Jul 2025 15:29:23 GMT | Token Leakage via Referrer — The Invisible Slip to Third Parties | Sidhartha | [Read More](https://medium.com/p/9c8d326dd52c) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 10:21:55 GMT | Cache Me Outside: How I Poisoned CDN Caches and Hijacked Sessions Like a Magician | Iski | [Read More](https://medium.com/p/4be2e65167f4) |
 | Sun, 27 Jul 2025 10:16:55 GMT | Machine Learning — Understanding the Basics | Ridhaf Fhathima Shaik | [Read More](https://medium.com/p/b77387d23612) |
 | Sun, 27 Jul 2025 10:10:28 GMT | 16 Years, 1 Week, 1 Cert: Returning to Cybersecurity with a Fresh Lens | Krishnamoorthy Sankaran | [Read More](https://medium.com/p/3ffbdd990696) |
-| Sun, 27 Jul 2025 10:04:11 GMT | TryHackMe: Mastering KAPE — Efficient Triage and Evidence Collection | Furkanctiner | [Read More](https://medium.com/p/db7e2dd8a0ee) |
-| Sun, 27 Jul 2025 10:04:04 GMT | OracleVM Linux Edition for Malware Dynamic Analysis. | lukewago | [Read More](https://medium.com/p/b8564c332115) |
-| Sun, 27 Jul 2025 10:01:59 GMT | The Anatomy of Password Hacking — and How to Stay Protected | iamprovidence | [Read More](https://medium.com/p/f666182badd5) |
-| Sun, 27 Jul 2025 10:01:02 GMT | NIST Cybersecurity Framework Explained Simply: A Beginner’s Guide | SHAKTHIVEL RAJESH | [Read More](https://medium.com/p/91a951feb459) |
-| Sun, 27 Jul 2025 09:54:32 GMT | Into the Analyst’s Mind: My Weekend Dive into Threat Intelligence with Rishika Desai Ma’am | Hitesh Said | [Read More](https://medium.com/p/69ea46398070) |
-| Sun, 27 Jul 2025 09:49:35 GMT | SSL VPN vs IPSec VPN: The Beginner’s A to Z Guide on how they Protect Your Data
-Imagine you’re… | Bigenaryal | [Read More](https://medium.com/p/8db7e996cdf2) |
-| Sun, 27 Jul 2025 09:46:03 GMT | Linux Command Line Interface (CLI) — Part 8: Environment & PATH Variables | Bharath | [Read More](https://medium.com/p/3f18f5b50716) |
-| Sun, 27 Jul 2025 09:45:39 GMT | Why Is Email Encryption Important | Red | [Read More](https://medium.com/p/afe1a70bb70b) |
-| Sun, 27 Jul 2025 09:45:30 GMT | Day #31 EDR Basics: Detecting System Vulnerabilities with Wazuh A HandsOn Guide | Rishavkumarthapa | [Read More](https://medium.com/p/1c491ae8e923) |
-| Sun, 27 Jul 2025 09:42:26 GMT | OT Cyber Security Training in Delhi NCR | TheEvolvEdge | [Read More](https://medium.com/p/c19c6c2e0512) |
-| Sun, 27 Jul 2025 09:34:20 GMT | Uncovering the Cybercriminal’s Playbook: Their Strategies and How They Attack the Digital World | Angga Alfiansah | [Read More](https://medium.com/p/988fb7a7ed18) |
-| Sun, 27 Jul 2025 09:28:23 GMT | Breaking Boundaries: A Scholarly & Practical Guide to kali-tools-fuzzing | RafalW3bCraft | [Read More](https://medium.com/p/dae7ddd713c0) |
-| Sun, 27 Jul 2025 09:27:40 GMT | Web3 Identity Turning Digital Reputation Into Real Value | flash bolt | [Read More](https://medium.com/p/f0ae59db2599) |
-| Sun, 27 Jul 2025 09:25:37 GMT | Post-Truth and the Decline of Leadership | Anton Voichenko (aka Anton Vokrug) | [Read More](https://medium.com/p/40eec5f9e22c) |
-| Sun, 27 Jul 2025 09:22:42 GMT | OS command injection part-2 : Blind OS command injection with time delays | Ahmad Sopyan | [Read More](https://medium.com/p/3ac263ffa452) |
-| Sun, 27 Jul 2025 09:19:49 GMT | Quick‑Start Server Hardening Checklist (all open‑source) | Andrey Pautov | [Read More](https://medium.com/p/08e9887b9faa) |
-| Sun, 27 Jul 2025 09:19:30 GMT | Day 13- Exploring Windows System Hardware | unica 02 | [Read More](https://medium.com/p/6d5c468d258f) |
