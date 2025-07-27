@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 20:09:57 GMT | Extracting Database Information When Union Injection Fails | niko | [Read More](https://medium.com/p/c21cb6f866c1) |
+| Sun, 27 Jul 2025 19:59:47 GMT | AresGPT: A New Era of Network+ Training Begins | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/f90da3c0754b) |
+| Sun, 27 Jul 2025 19:44:22 GMT | Running Your First GPT-Powered Terminal Command | Ekene Joseph | [Read More](https://medium.com/p/b96519f830e4) |
+| Sun, 27 Jul 2025 19:40:37 GMT | Lists, Dictionaries, and Handling Data in Python for Cybersecurity | Ekene Joseph | [Read More](https://medium.com/p/02692aaebfeb) |
+| Sun, 27 Jul 2025 19:37:42 GMT | FCF-Fortinet Cyber Security Fundamentals 3.0 | Shibly Sadik | [Read More](https://medium.com/p/c006df27f3fc) |
+| Sun, 27 Jul 2025 19:31:24 GMT | Ghost in the Shell Was the Warning. Kurzweil Says the Merge Is the Plan. | Laura Ferrer | [Read More](https://medium.com/p/cd53fdef1dee) |
+| Sun, 27 Jul 2025 19:25:54 GMT | Cybercrime As A Career Path | O. J. Okpabi | [Read More](https://medium.com/p/b7da19dcbb24) |
 | Sun, 27 Jul 2025 19:25:02 GMT | ️ Automate Secret and PII Scanning in Jenkins With HashiCorp Vault Radar | Raymon Epping | [Read More](https://medium.com/p/27af771d2963) |
 | Sun, 27 Jul 2025 19:22:07 GMT | The Message That Emptied A Village | O. J. Okpabi | [Read More](https://medium.com/p/ba9d834e33e3) |
 | Sun, 27 Jul 2025 19:19:28 GMT | Dodge - Tryhackme Walkthrough | Aydan | [Read More](https://medium.com/p/958149ec7577) |
@@ -108,10 +115,3 @@ Kali Linux is a very strong operating… | Yousaffffyyy | [Read More](https://me
 | Sun, 27 Jul 2025 14:13:55 GMT | Expose the Unseen: Image-Based OSINT Techniques for Digital Sleuths | Kavi Amudan | [Read More](https://medium.com/p/ebef73ca7006) |
 | Sun, 27 Jul 2025 14:08:11 GMT | ️‍♂️ Linux Forensics Case Study Using Autopsy-M57 Jean Scenario | Mohamed Basil | [Read More](https://medium.com/p/b9f4aa9f9740) |
 | Sun, 27 Jul 2025 14:01:58 GMT | A Deep Dive into Scout Suite: Cloud Security Auditing Made Easier | XoX | [Read More](https://medium.com/p/e49fb33c290c) |
-| Sun, 27 Jul 2025 13:59:37 GMT | In-House IT Teams: Cost Center or Competitive Advantage? | PureCompass | [Read More](https://medium.com/p/ff8936537e85) |
-| Sun, 27 Jul 2025 13:58:35 GMT | not like a thought, but like a bruise | Oliver | [Read More](https://medium.com/p/d2981227b058) |
-| Sun, 27 Jul 2025 13:54:25 GMT | Configure FortiGate Virtual Wire — Cấu hình FortiGate Virtual Wire | DuyThanhCCIE | [Read More](https://medium.com/p/d1b7ebef09bd) |
-| Sun, 27 Jul 2025 13:53:29 GMT | THM - Sneaky Patch | Francesco Pastore | [Read More](https://medium.com/p/84d6a8ebd467) |
-| Sun, 27 Jul 2025 13:53:06 GMT | Mapping the NIST Cybersecurity Framework to the Secure Software Development Framework | Alex Riley | [Read More](https://medium.com/p/c6ab656e8e3a) |
-| Sun, 27 Jul 2025 13:50:39 GMT | Unlocking the Future of Passwords: How AI Storytelling Creates Unforgettable Security | Vildan Bina | [Read More](https://medium.com/p/902e028cb729) |
-| Sun, 27 Jul 2025 13:36:54 GMT | Everything You Need To Know About The Tea App Data Breach | Udodi | [Read More](https://medium.com/p/eee6d0d11bb2) |
