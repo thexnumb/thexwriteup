@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 12:38:50 GMT | N0aziXss Domain Recon v3.1: The Next Generation of WHOIS Intelligence | N0aziXss | [Read More](https://medium.com/p/73657e92ac7d) |
+| Sun, 27 Jul 2025 12:29:38 GMT | [Hack The Box CTF] Cypher Write-Up | fnwn | [Read More](https://medium.com/p/b6a24b9298fb) |
+| Sun, 27 Jul 2025 12:02:45 GMT | Testing Firebase API Key Vulnerabilities: A Step-by-Step Guide | Ranjan Kumar | [Read More](https://medium.com/p/3e265e673a69) |
+| Sun, 27 Jul 2025 12:02:34 GMT | I Was Just Writing A Story. The AI Almost Built Me a Bomb. | Phil Stafford | [Read More](https://medium.com/p/8e3d31216594) |
+| Sun, 27 Jul 2025 12:02:18 GMT | Microsoft SharePoint’s Latest RCE Vulnerability: History, Method, Mitigation, and Lessons | Manubhav Sharma | [Read More](https://medium.com/p/1b2799083d04) |
+| Sun, 27 Jul 2025 12:02:16 GMT | How I Went from Failing to Acing My Exams — Without Paying a Dime Upfront | Gary Coleman | [Read More](https://medium.com/p/09ea4bf51174) |
+| Sun, 27 Jul 2025 12:00:50 GMT | Israel’s Imperative: A Swift and Successful Finish | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/e8a86301cd25) |
+| Sun, 27 Jul 2025 11:50:36 GMT | How to Set Up FlareVM on VirtualBox for Malware Analysis | Bilawal Ali | [Read More](https://medium.com/p/5a988eab7549) |
+| Sun, 27 Jul 2025 11:45:37 GMT | Guide: Get CVE During the Upcoming Bonus Rollout | Curvance | [Read More](https://medium.com/p/244cc8543e79) |
 | Sun, 27 Jul 2025 11:28:29 GMT | Exposed xmlrpc.php – How a Legacy File Opens the Door to Attacks | Ehtesham Ul Haq | [Read More](https://medium.com/p/d99dd0cb9d33) |
 | Sun, 27 Jul 2025 11:22:41 GMT | How to Tell Your Story Without Oversharing or Underselling | Severen Henderson | [Read More](https://medium.com/p/a38907d4c8b8) |
 | Sun, 27 Jul 2025 11:19:10 GMT | I Was Wrong About Host Hardening (Roger A. Grimes) | Mansoor A., MBA | [Read More](https://medium.com/p/0d7c345f6585) |
@@ -104,12 +113,3 @@ Imagine you’re… | Bigenaryal | [Read More](https://medium.com/p/8db7e996cdf2
 | Sun, 27 Jul 2025 04:57:56 GMT | Week 6 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/d2a27e136f24) |
 | Sun, 27 Jul 2025 04:50:06 GMT | How SSH Works, explained in simple way | Ayush Kumar | [Read More](https://medium.com/p/6265af303189) |
 | Sun, 27 Jul 2025 04:40:01 GMT | why escaping feels easier than owning your mistakes. | Arya | [Read More](https://medium.com/p/0b8d576bdd97) |
-| Sun, 27 Jul 2025 04:36:42 GMT | Episode 7: Server-Side Includes Injection — The Quiet Danger Lurking in Legacy Code | Yamini Yadav | [Read More](https://medium.com/p/51002a88fb88) |
-| Sun, 27 Jul 2025 04:33:39 GMT | HTTP/HTTPS, Demystified: How the Web Talks Behind the Scenes | Ayush Kumar | [Read More](https://medium.com/p/007f59b42185) |
-| Sun, 27 Jul 2025 04:29:00 GMT | ️ Why We Chose HackTheDisk: A Complete Cybersecurity Partner for Modern Businesses | Léandro | [Read More](https://medium.com/p/6945c29e737b) |
-| Sun, 27 Jul 2025 04:27:20 GMT | Beyond Antivirus: Rethinking Cybersecurity with RGB, Entropy, and APT Defense | Ramadhana Khalaf Sandhyakala | [Read More](https://medium.com/p/913e7d4f6919) |
-| Sun, 27 Jul 2025 04:22:35 GMT | Security First: Why Biyapay Is Built for Peace of Mind | Big Ahvas | [Read More](https://medium.com/p/560f5ee2a588) |
-| Sun, 27 Jul 2025 04:06:14 GMT | Stages of Socialization Using Prompt Chaining for AI Beginners Maximizing the benefits of… | Botcy | [Read More](https://medium.com/p/83fb4186e587) |
-| Sun, 27 Jul 2025 03:54:21 GMT | When the Mind No Longer Belongs to Us | Human.exe | [Read More](https://medium.com/p/42853370a0a0) |
-| Sun, 27 Jul 2025 03:54:10 GMT | SHORT NEWS ABOUT CHATGPT MID-2025 ChatGPT Ushers in a New Era of Multitasking AI Assistants: The… | Botcy | [Read More](https://medium.com/p/3d7053db8b89) |
-| Sun, 27 Jul 2025 03:41:53 GMT | COLDDBOX-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/df88948da298) |
