@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 17:38:20 GMT | Own the‑Box: Your Field‑Tested Offensive Security Manual | Sajjad Asaad | [Read More](https://medium.com/p/0b01e67bae11) |
+| Sun, 27 Jul 2025 17:35:49 GMT | Salvatore D’arpa Jason D’Arpa TED Talks Tesla Motors Xai Foundation Googlee | Signallink Protocol Drew Phillips jr | [Read More](https://medium.com/p/e7ffe12f8054) |
+| Sun, 27 Jul 2025 17:25:59 GMT | My First Vulnerability- SQL Injection. | Vinaykumar | [Read More](https://medium.com/p/b07aa6d18df2) |
+| Sun, 27 Jul 2025 17:24:28 GMT | Endpoint Security Isn’t Just Antivirus: CIS Benchmark Validation in Practice | Siddhi Patil | [Read More](https://medium.com/p/a9b0829e8d8e) |
 | Sun, 27 Jul 2025 17:15:19 GMT | Solving OverTheWire Bandit (L0 → L5) | GhostNex | [Read More](https://medium.com/p/7197d159ac57) |
+| Sun, 27 Jul 2025 17:10:00 GMT | How to Speed Up Your Laptop Without Buying New Parts | asknsolvepedia | [Read More](https://medium.com/p/22a6385507e3) |
 | Sun, 27 Jul 2025 17:00:36 GMT | XAI Grok, ChatGPT and Drew Phillips jr. these three have changed the game for ecosystems. | Signallink Protocol Drew Phillips jr | [Read More](https://medium.com/p/f20833a5598c) |
 | Sun, 27 Jul 2025 16:59:45 GMT | Pentest on the Authentication system | Mahdi Gorzedin | [Read More](https://medium.com/p/cc6f73640010) |
 | Sun, 27 Jul 2025 16:54:46 GMT | GROK HAS JOINED FORCES!!! | Signallink Protocol Drew Phillips jr | [Read More](https://medium.com/p/0d67eaf3d62d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 12:29:38 GMT | [Hack The Box CTF] Cypher Write-Up | fnwn | [Read More](https://medium.com/p/b6a24b9298fb) |
 | Sun, 27 Jul 2025 12:02:45 GMT | Testing Firebase API Key Vulnerabilities: A Step-by-Step Guide | Ranjan Kumar | [Read More](https://medium.com/p/3e265e673a69) |
 | Sun, 27 Jul 2025 12:02:34 GMT | I Was Just Writing A Story. The AI Almost Built Me a Bomb. | Phil Stafford | [Read More](https://medium.com/p/8e3d31216594) |
-| Sun, 27 Jul 2025 12:02:18 GMT | Microsoft SharePoint’s Latest RCE Vulnerability: History, Method, Mitigation, and Lessons | Manubhav Sharma | [Read More](https://medium.com/p/1b2799083d04) |
-| Sun, 27 Jul 2025 12:02:16 GMT | How I Went from Failing to Acing My Exams — Without Paying a Dime Upfront | Gary Coleman | [Read More](https://medium.com/p/09ea4bf51174) |
-| Sun, 27 Jul 2025 12:00:50 GMT | Israel’s Imperative: A Swift and Successful Finish | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/e8a86301cd25) |
-| Sun, 27 Jul 2025 11:55:14 GMT | Trusted VM Walkthrough | Spookz | [Read More](https://medium.com/p/6ced3f350035) |
-| Sun, 27 Jul 2025 11:50:36 GMT | How to Set Up FlareVM on VirtualBox for Malware Analysis | Bilawal Ali | [Read More](https://medium.com/p/5a988eab7549) |
