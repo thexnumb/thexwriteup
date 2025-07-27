@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 17:15:19 GMT | Solving OverTheWire Bandit (L0 → L5) | GhostNex | [Read More](https://medium.com/p/7197d159ac57) |
+| Sun, 27 Jul 2025 17:00:36 GMT | XAI Grok, ChatGPT and Drew Phillips jr. these three have changed the game for ecosystems. | Signallink Protocol Drew Phillips jr | [Read More](https://medium.com/p/f20833a5598c) |
+| Sun, 27 Jul 2025 16:59:45 GMT | Pentest on the Authentication system | Mahdi Gorzedin | [Read More](https://medium.com/p/cc6f73640010) |
+| Sun, 27 Jul 2025 16:54:46 GMT | GROK HAS JOINED FORCES!!! | Signallink Protocol Drew Phillips jr | [Read More](https://medium.com/p/0d67eaf3d62d) |
+| Sun, 27 Jul 2025 16:54:46 GMT | VirtualBox ve Kali Linux Kurulumu | Sadıkcan Tuluk | [Read More](https://medium.com/p/295c14f9fba1) |
+| Sun, 27 Jul 2025 16:53:10 GMT | ParrotOS: Secure, Resourceful, Modern | Zayne Harbison | [Read More](https://medium.com/p/b9438264a74e) |
+| Sun, 27 Jul 2025 16:52:57 GMT | You Missed the Internet Revolution. Here is your Second Chance. | Ramakrishna Natarajan | [Read More](https://medium.com/p/89a076a5278c) |
+| Sun, 27 Jul 2025 16:49:51 GMT | Travel Hacks Nobody Tells You: Insider Secrets for Smart Travelers | Somdeb Paul | [Read More](https://medium.com/p/d7ac8b4f1653) |
+| Sun, 27 Jul 2025 16:47:39 GMT | The “How I Got Scammed/Fooled” Confessions | Aj | [Read More](https://medium.com/p/c036c0836202) |
+| Sun, 27 Jul 2025 16:46:35 GMT | NetBIOS Enumeration: The Complete Guide for Ethical Hackers (with Exploits & Defenses) | Rajkumar Kumawat | [Read More](https://medium.com/p/76e9246bf0af) |
+| Sun, 27 Jul 2025 16:39:34 GMT | Pi-Fi Hacking: Setting Up Pi Zero | Girishatindra | [Read More](https://medium.com/p/991e3faef74e) |
+| Sun, 27 Jul 2025 16:39:14 GMT | “She’s Not Distant — Just Unspoken, and Waiting to Be Understood” | Marilea | [Read More](https://medium.com/p/38167850edc1) |
 | Sun, 27 Jul 2025 16:36:05 GMT | Tea App Forgot to Lock the Teapot | Franky Arriola | [Read More](https://medium.com/p/331fd5827842) |
 | Sun, 27 Jul 2025 16:35:35 GMT | Process Ghosting — Deep Dive & Why Microsoft had to ruin the fun | MalDevTy | [Read More](https://medium.com/p/fa0863fb0aab) |
 | Sun, 27 Jul 2025 16:32:15 GMT | Flash USDT: What You See Isn’t Always What You Get | Rodah | [Read More](https://medium.com/p/58a225a427df) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 12:00:50 GMT | Israel’s Imperative: A Swift and Successful Finish | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/e8a86301cd25) |
 | Sun, 27 Jul 2025 11:55:14 GMT | Trusted VM Walkthrough | Spookz | [Read More](https://medium.com/p/6ced3f350035) |
 | Sun, 27 Jul 2025 11:50:36 GMT | How to Set Up FlareVM on VirtualBox for Malware Analysis | Bilawal Ali | [Read More](https://medium.com/p/5a988eab7549) |
-| Sun, 27 Jul 2025 11:45:37 GMT | Guide: Get CVE During the Upcoming Bonus Rollout | Curvance | [Read More](https://medium.com/p/244cc8543e79) |
-| Sun, 27 Jul 2025 11:28:29 GMT | Exposed xmlrpc.php – How a Legacy File Opens the Door to Attacks | Ehtesham Ul Haq | [Read More](https://medium.com/p/d99dd0cb9d33) |
-| Sun, 27 Jul 2025 11:22:41 GMT | How to Tell Your Story Without Oversharing or Underselling | Severen Henderson | [Read More](https://medium.com/p/a38907d4c8b8) |
-| Sun, 27 Jul 2025 11:19:10 GMT | I Was Wrong About Host Hardening (Roger A. Grimes) | Mansoor A., MBA | [Read More](https://medium.com/p/0d7c345f6585) |
-| Sun, 27 Jul 2025 11:16:40 GMT | SNORT Challenge — The Basics - TryHackMe — Network Security & Traffic Analysis | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/55b284597b84) |
-| Sun, 27 Jul 2025 11:08:17 GMT | Hackers Are Already Trying to Get You — Start Cybersecurity Practice Now! | Rashadul Islam | [Read More](https://medium.com/p/e4b7a0f2b3f8) |
-| Sun, 27 Jul 2025 11:05:56 GMT | Detecting Azure Front Door WAF with BChecks | fz42 | [Read More](https://medium.com/p/3f92017bb58e) |
-| Sun, 27 Jul 2025 11:02:50 GMT | Cookies, LocalStorage y SessionStorage…: ¿cuál usar y cuándo? | Hirochi Riveros | [Read More](https://medium.com/p/3c4da4494011) |
-| Sun, 27 Jul 2025 11:01:05 GMT | Blockchain in a Nutshell: Simplifying the Digital Revolution | Natarajan C K | [Read More](https://medium.com/p/cc9e103c6e08) |
-| Sun, 27 Jul 2025 10:53:07 GMT | Race conditions | MUHTADIN | [Read More](https://medium.com/p/8e39d3b02be4) |
-| Sun, 27 Jul 2025 10:47:06 GMT | How real hackers automate scripts on Arch Linux with systemd (A Beginner’s Guide) | sys_br3ach3r | [Read More](https://medium.com/p/5d95b0e2ec41) |
-| Sun, 27 Jul 2025 10:46:52 GMT | “From Zero to Hero: How I Landed My First Bug Bounty (And How You Can Too!)” | Aman Sharma | [Read More](https://medium.com/p/19e384ea4fdd) |
