@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 21:39:33 GMT | How to Start Bug Bounty in 2025 (Beginner’s Guide + Tips) | Mr Joe | [Read More](https://medium.com/p/24f98b55f3fd) |
+| Sun, 27 Jul 2025 21:33:04 GMT | SQLMap — TryHackMe Walkthrough by Ishita Gandhi | Ishitagandhi | [Read More](https://medium.com/p/8ebb8f6b05b2) |
+| Sun, 27 Jul 2025 21:31:41 GMT | Working with System Commands Using the subprocess Module — Python in Cybersecurity | Mohammed Gabic | [Read More](https://medium.com/p/ab5d2e1155c9) |
+| Sun, 27 Jul 2025 21:28:17 GMT | Exposing the Rise of Job Scams Targeting Desperate Youth Searching for Job | Jagath Jayaprakash | [Read More](https://medium.com/p/b236a94b5a07) |
+| Sun, 27 Jul 2025 21:25:33 GMT | Build Practical Python Scripts for Cybersecurity | Mohammed Gabic | [Read More](https://medium.com/p/3154abc25cbb) |
+| Sun, 27 Jul 2025 21:21:49 GMT | Accessing Private Chats Without Email Verification | Ibtissam hammadi | [Read More](https://medium.com/p/1aeb29e3491a) |
+| Sun, 27 Jul 2025 21:17:51 GMT | Error Handling with Python in Cybersecurity Making Your Scripts More Reliable and Secure | Mohammed Gabic | [Read More](https://medium.com/p/4953162abee2) |
 | Sun, 27 Jul 2025 21:12:28 GMT | The Importance Of Choosing A Password Wallet | Zayne Harbison | [Read More](https://medium.com/p/da0db70b1550) |
 | Sun, 27 Jul 2025 21:04:48 GMT | File handling and log analysis with Python in Cyber security | Ekene Joseph | [Read More](https://medium.com/p/6c2a058c75b8) |
 | Sun, 27 Jul 2025 20:50:22 GMT | How To Fly Business Class For The Price Of Economy Using This Hack | Hash | [Read More](https://medium.com/p/773266de6f7e) |
@@ -108,10 +115,3 @@ Kali Linux is a very strong operating… | Yousaffffyyy | [Read More](https://me
 | Sun, 27 Jul 2025 15:13:31 GMT | Security risks often hide in features added later | Nasrin | [Read More](https://medium.com/p/ec8e20824fe6) |
 | Sun, 27 Jul 2025 15:09:54 GMT | TheHackersLabs — Mentallity [Write Up] | APS88 | [Read More](https://medium.com/p/62f4a34e7366) |
 | Sun, 27 Jul 2025 15:02:23 GMT | The Most Underrated Skill in QA: Communication | Nirmal Kiran Patel | [Read More](https://medium.com/p/fa5d33c794ae) |
-| Sun, 27 Jul 2025 15:00:11 GMT | Walk Through Guide for Kusto Detective Agency Season 3, Call of the Cyber Duty, Case #10 Solution | Aviv Yaniv | [Read More](https://medium.com/p/7c89a4232964) |
-| Sun, 27 Jul 2025 14:58:48 GMT | CLOUDFLARE WARP NEDİR, NE DEĞİLDİR? YENİ NESİL İNTERNET KALKANI | Emre Özel | [Read More](https://medium.com/p/b71688be0889) |
-| Sun, 27 Jul 2025 14:56:41 GMT | Junior QA Case Study: Real Bug Hunt in Homa Games | Leonardo Cardoso | [Read More](https://medium.com/p/e4864f003012) |
-| Sun, 27 Jul 2025 14:55:28 GMT | ANDROID PENTESTING —PART 1— FUNDAMENTALS | PARADOX | [Read More](https://medium.com/p/95f4fd659051) |
-| Sun, 27 Jul 2025 14:55:22 GMT | Future-Proofing Your Cloud: The Holistic Guide to Cloud-Native Security | clietech | [Read More](https://medium.com/p/47a4c6602b09) |
-| Sun, 27 Jul 2025 14:51:03 GMT | Firebase Storage Bucket Recon | AbhirupKonwar | [Read More](https://medium.com/p/df5e5acb65e2) |
-| Sun, 27 Jul 2025 14:41:12 GMT | LAPORAN YARA ARA vs SIGMA BOY | DhiasCode | [Read More](https://medium.com/p/fa563d357637) |
