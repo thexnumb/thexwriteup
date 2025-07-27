@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 21:12:28 GMT | The Importance Of Choosing A Password Wallet | Zayne Harbison | [Read More](https://medium.com/p/da0db70b1550) |
+| Sun, 27 Jul 2025 21:04:48 GMT | File handling and log analysis with Python in Cyber security | Ekene Joseph | [Read More](https://medium.com/p/6c2a058c75b8) |
+| Sun, 27 Jul 2025 20:50:22 GMT | How To Fly Business Class For The Price Of Economy Using This Hack | Hash | [Read More](https://medium.com/p/773266de6f7e) |
+| Sun, 27 Jul 2025 20:50:07 GMT | Learning to swim in a Network ocean | Cypher | [Read More](https://medium.com/p/3f1c922bd453) |
 | Sun, 27 Jul 2025 20:36:39 GMT | Why Big Players Are Betting on Bitcoin And NFTs | Myxoplixx | [Read More](https://medium.com/p/fca4c959f36d) |
 | Sun, 27 Jul 2025 20:36:23 GMT | The Power of Information in the Digital Age: Why Staying Updated Matters More Than Ever | Fahadsyed | [Read More](https://medium.com/p/e0dd091e2aba) |
 | Sun, 27 Jul 2025 20:32:33 GMT | 0-Click Account Takeover via Password Reset | Piyush | [Read More](https://medium.com/p/f17143426a59) |
@@ -111,7 +115,3 @@ Kali Linux is a very strong operating… | Yousaffffyyy | [Read More](https://me
 | Sun, 27 Jul 2025 14:55:22 GMT | Future-Proofing Your Cloud: The Holistic Guide to Cloud-Native Security | clietech | [Read More](https://medium.com/p/47a4c6602b09) |
 | Sun, 27 Jul 2025 14:51:03 GMT | Firebase Storage Bucket Recon | AbhirupKonwar | [Read More](https://medium.com/p/df5e5acb65e2) |
 | Sun, 27 Jul 2025 14:41:12 GMT | LAPORAN YARA ARA vs SIGMA BOY | DhiasCode | [Read More](https://medium.com/p/fa563d357637) |
-| Sun, 27 Jul 2025 14:37:24 GMT | The Phantom Wallet: How AI-Fueled Crypto Scams Are Haunting Us | Tony Kenler | [Read More](https://medium.com/p/f3b14645326d) |
-| Sun, 27 Jul 2025 14:35:30 GMT | Symfonos: 2 — VulnHub Walkthrough (Boot-to-Root) | DataDefender | [Read More](https://medium.com/p/31704e9f68ed) |
-| Sun, 27 Jul 2025 14:33:28 GMT | ️ Cybersecurity for All: How Local Initiatives Are Changing the Game | Raghavan P | [Read More](https://medium.com/p/643b31e8b715) |
-| Sun, 27 Jul 2025 14:28:35 GMT | Angular Application Security | Piyali Das | [Read More](https://medium.com/p/b3d7a4002209) |
