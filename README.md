@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 08:47:33 GMT | Cloud Security Attacks, Pen testing, and Defense: A Technical Deep Dive from the Field | Prakashraam | [Read More](https://medium.com/p/333f2d65d5d3) |
+| Sun, 27 Jul 2025 08:40:55 GMT | How I Stay Current with Incident Response Best Practices | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/99954de6d09b) |
+| Sun, 27 Jul 2025 08:36:47 GMT | Free Cybersecurity Solutions for SMEs — Better Than Nothing, But Know the Limitations | David SEHYEON Baek | [Read More](https://medium.com/p/6ad7758d1b79) |
+| Sun, 27 Jul 2025 08:35:53 GMT | “It’s All Just the Same Website, Right?” — My Adventures in Subdomain Shenanigans | mUsHaRaF | [Read More](https://medium.com/p/443a89341e40) |
 | Sun, 27 Jul 2025 08:20:24 GMT | What the Probe Picks Up: A Deep Dive into Metadata | Sayantani Halder | [Read More](https://medium.com/p/f210eba2299a) |
 | Sun, 27 Jul 2025 08:18:31 GMT | Business Logic Vulnerabilities in Symfony: Explained with Real-World Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/321d84638cde) |
 | Sun, 27 Jul 2025 08:16:33 GMT | Bug Bounty — “Si todo parece seguro, es que no has mirado lo suficiente” | Gorka | [Read More](https://medium.com/p/386fef4ba55f) |
@@ -109,7 +113,3 @@ BEST ONLINE HACKERS | Wisdomalfred | [Read More](https://medium.com/p/21d79f7e1e
 | Sat, 26 Jul 2025 21:37:03 GMT | CyberDefenders Challenge Week Incident Report | Vinay Morale | [Read More](https://medium.com/p/8ba904e4148c) |
 | Sat, 26 Jul 2025 21:36:41 GMT | $3,000 for Finding a Hidden Subdomain: My Reconnaissance Success Story | Krish_cyber | [Read More](https://medium.com/p/990396554a2e) |
 | Sat, 26 Jul 2025 21:36:05 GMT | Bounty $$$: Grafana LFI | Monika sharma | [Read More](https://medium.com/p/7cf9f167e1b2) |
-| Sat, 26 Jul 2025 21:35:54 GMT | How to Create Hacking Lab ⚡ | Vipul Sonule | [Read More](https://medium.com/p/c994cdb0483a) |
-| Sat, 26 Jul 2025 21:35:35 GMT | Cloud Security: Building a Multi-Layered Defense for the Digital Era | Hemant Patkar, CISSP | [Read More](https://medium.com/p/5c91e11fc1db) |
-| Sat, 26 Jul 2025 21:32:37 GMT | My Simple Method to Test for IDOR Vulnerabilities | Ibtissam hammadi | [Read More](https://medium.com/p/5963f6ed8785) |
-| Sat, 26 Jul 2025 21:32:31 GMT | WHEN BIRTHDAYS NO LONGER FEEL LIKE BIRTHDAYS | Oluyinka Annabelle | [Read More](https://medium.com/p/ae953f239e33) |
