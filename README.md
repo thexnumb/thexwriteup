@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 14:14:11 GMT | My notes on “Windows Security Internals — A Deep Dive into Windows Authentication, Authorization… | Feghouli Hamza | [Read More](https://medium.com/p/8098cb15d28d) |
+| Sun, 27 Jul 2025 14:13:55 GMT | Expose the Unseen: Image-Based OSINT Techniques for Digital Sleuths | Kavi Amudan | [Read More](https://medium.com/p/ebef73ca7006) |
+| Sun, 27 Jul 2025 14:08:11 GMT | ️‍♂️ Linux Forensics Case Study Using Autopsy-M57 Jean Scenario | Mohamed Basil | [Read More](https://medium.com/p/b9f4aa9f9740) |
+| Sun, 27 Jul 2025 14:01:58 GMT | A Deep Dive into Scout Suite: Cloud Security Auditing Made Easier | XoX | [Read More](https://medium.com/p/e49fb33c290c) |
+| Sun, 27 Jul 2025 13:59:37 GMT | In-House IT Teams: Cost Center or Competitive Advantage? | PureCompass | [Read More](https://medium.com/p/ff8936537e85) |
+| Sun, 27 Jul 2025 13:58:35 GMT | not like a thought, but like a bruise | Oliver | [Read More](https://medium.com/p/d2981227b058) |
+| Sun, 27 Jul 2025 13:54:25 GMT | Configure FortiGate Virtual Wire — Cấu hình FortiGate Virtual Wire | DuyThanhCCIE | [Read More](https://medium.com/p/d1b7ebef09bd) |
+| Sun, 27 Jul 2025 13:53:29 GMT | THM - Sneaky Patch | Francesco Pastore | [Read More](https://medium.com/p/84d6a8ebd467) |
+| Sun, 27 Jul 2025 13:53:06 GMT | Mapping the NIST Cybersecurity Framework to the Secure Software Development Framework | Alex Riley | [Read More](https://medium.com/p/c6ab656e8e3a) |
+| Sun, 27 Jul 2025 13:50:39 GMT | Unlocking the Future of Passwords: How AI Storytelling Creates Unforgettable Security | Vildan Bina | [Read More](https://medium.com/p/902e028cb729) |
+| Sun, 27 Jul 2025 13:36:54 GMT | Everything You Need To Know About The Tea App Data Breach | Udodi | [Read More](https://medium.com/p/eee6d0d11bb2) |
+| Sun, 27 Jul 2025 13:36:49 GMT | why do i take everything so personally? | vnqzci ˎˊ˗ | [Read More](https://medium.com/p/fc2638f81019) |
+| Sun, 27 Jul 2025 13:36:47 GMT | The One Thing Java Developers Must Unlearn Today: != null Everywhere | The Quantum Yogi | [Read More](https://medium.com/p/3f840c988fe4) |
+| Sun, 27 Jul 2025 13:35:27 GMT | Juicy Details TryHackMe Writeup | Krishna | [Read More](https://medium.com/p/66f454c2b34b) |
+| Sun, 27 Jul 2025 13:35:18 GMT | Symphonus: VulnHub Walkthrough — Hack the Tune (OSCP-Like) | DataDefender | [Read More](https://medium.com/p/bdb4dc5d6a72) |
 | Sun, 27 Jul 2025 13:32:07 GMT | CVE-2025–32463 - Exploit and Explain | Quyna | [Read More](https://medium.com/p/96abac68f24a) |
 | Sun, 27 Jul 2025 13:29:39 GMT | Jailhouse Tech: Could the Cops Track Your iPhone? | xhiddebx | [Read More](https://medium.com/p/ba8ab4239892) |
 | Sun, 27 Jul 2025 13:27:45 GMT | Distributed Denial of Service (DDoS): New Techniques & Mitigation | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d9ac8f1cb7d2) |
@@ -98,18 +113,3 @@ Imagine you’re… | Bigenaryal | [Read More](https://medium.com/p/8db7e996cdf2
 | Sun, 27 Jul 2025 07:40:48 GMT | Securing the Future of Two-Wheeler Battery Swapping: A Resilient Framework Inspired by Nepal’s… | Anil Pandey | [Read More](https://medium.com/p/50bb76b1118a) |
 | Sun, 27 Jul 2025 07:38:54 GMT | When You’re the One Everyone’s Counting On | Teresa Hart | [Read More](https://medium.com/p/411e19be739f) |
 | Sun, 27 Jul 2025 07:32:42 GMT | Complete Ethical Hacking Course with Certification 2025 | cyber security Updates | [Read More](https://medium.com/p/f070c2444cec) |
-| Sun, 27 Jul 2025 07:15:25 GMT | Starting My Cybersecurity Journey! | RNS | [Read More](https://medium.com/p/e9392726f20c) |
-| Sun, 27 Jul 2025 07:14:35 GMT | Best smart board for conference room. | MD ABDUS SAMAD | [Read More](https://medium.com/p/eaf8ea2363b2) |
-| Sun, 27 Jul 2025 07:12:34 GMT | Edge Caching for 500 MB IFC Files: When Local Storage Beats the Cloud | AlterSquare | [Read More](https://medium.com/p/2d6ee3cec193) |
-| Sun, 27 Jul 2025 07:11:35 GMT | Cyberpour Review: Is This the Digital Authority Worth Following? | cybergeeker | [Read More](https://medium.com/p/3f1f910ea2b0) |
-| Sun, 27 Jul 2025 07:06:08 GMT | Beyond Passwords: How SalatStealer Targets Your Browser and Crypto Wallets | Pratik Gurav | [Read More](https://medium.com/p/9a476e7bd651) |
-| Sun, 27 Jul 2025 07:01:21 GMT | Host Validation Bypass via Connection State Attack: Multiple Requests Over the Same TCP Connection | Bash Overflow | [Read More](https://medium.com/p/9fc2406d2fe1) |
-| Sun, 27 Jul 2025 06:59:26 GMT | The Death of Traditional Tech: How AI Is Rewriting Every Rule in 2025 | Chilkotikartik | [Read More](https://medium.com/p/22aa03387611) |
-| Sun, 27 Jul 2025 06:54:28 GMT | Say Yes to the Dance | musingsfrommarc | [Read More](https://medium.com/p/6e47f7b15acd) |
-| Sun, 27 Jul 2025 06:49:55 GMT | WeTransfer now claims rights to your content — here’s an alternative | Viggo Blum | [Read More](https://medium.com/p/bce589538954) |
-| Sun, 27 Jul 2025 06:44:49 GMT | Hacking Gen Z: The Dark Side of Talent and Technology | Nitin Saraswat | [Read More](https://medium.com/p/d8cadecfe3bb) |
-| Sun, 27 Jul 2025 06:39:33 GMT | Mendeteksi Malware Menggunakan YARA dan Sigma Rules di Wazuh | Andriadl | [Read More](https://medium.com/p/c37e2e7e3169) |
-| Sun, 27 Jul 2025 06:31:36 GMT | How I Bypassed a Strict Proxy Using .MSI Files | Muhammad Sarmad Shafiq | [Read More](https://medium.com/p/2fc865ef33bd) |
-| Sun, 27 Jul 2025 06:28:03 GMT | OS command injection part-1 : simple case | Ahmad Sopyan | [Read More](https://medium.com/p/bdf22ea89ef5) |
-| Sun, 27 Jul 2025 06:16:12 GMT | 工廠轉型智慧化，也要有防駭客觀念！用 IEC 62443 來保護智慧工廠的安全！ | xamns | [Read More](https://medium.com/p/d7564cfd0c08) |
-| Sun, 27 Jul 2025 06:04:14 GMT | Researching bcrypt for secure password storage attacks (an analysis) | Marla Tumenjargal | [Read More](https://medium.com/p/def2b1e95567) |
