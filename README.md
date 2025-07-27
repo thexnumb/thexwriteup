@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 23:14:20 GMT | Secure software development and threat modeling approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/118934037764) |
+| Sun, 27 Jul 2025 23:11:49 GMT | How Knowledge Graphs Can Supercharge Cyber Threat Intelligence | Michael Bocanegra | [Read More](https://medium.com/p/3788d4fa0bd9) |
+| Sun, 27 Jul 2025 23:02:39 GMT | CyberDefenders — Insider Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/8ce7f94a4418) |
+| Sun, 27 Jul 2025 23:02:29 GMT | BruteForceAI -The Future of Automated Login Attacks with AI Power | Javier Calderon Jr | [Read More](https://medium.com/p/c18330301da4) |
+| Sun, 27 Jul 2025 22:50:26 GMT | Title: The One with the eval() — A DOM-Based XSS That Got Personal | Mostafa Ghanem | [Read More](https://medium.com/p/80416c67cf9b) |
 | Sun, 27 Jul 2025 22:45:09 GMT | Day 63: Shellcodes | Nile Okomo | [Read More](https://medium.com/p/6f2fe2e790c0) |
 | Sun, 27 Jul 2025 22:37:22 GMT | Cybersecurity Lab FortiGate | Andrew (Ocee) Onaulogho | [Read More](https://medium.com/p/2ffe309492ff) |
 | Sun, 27 Jul 2025 22:31:51 GMT | BACKTRACK WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/f442205f292d) |
@@ -110,8 +115,3 @@ Kali Linux is a very strong operating… | Yousaffffyyy | [Read More](https://me
 | Sun, 27 Jul 2025 16:21:39 GMT | Flash USDT Isn’t What You Think — Here’s the Truth | Higo | [Read More](https://medium.com/p/309098a935ab) |
 | Sun, 27 Jul 2025 16:20:58 GMT | The Playbook for Playbooks | Ryan G. Cox | [Read More](https://medium.com/p/c5c8cc0a6638) |
 | Sun, 27 Jul 2025 16:18:02 GMT | Dissecting a Malware Sample: Static Analysis of an Unknown Threat (Part 1) | Mohamed Niyas | [Read More](https://medium.com/p/bd8dfed2adad) |
-| Sun, 27 Jul 2025 16:15:46 GMT | Track Snapchat Like a Pro: Top Spy Apps That Actually Work | Narjis Batool | [Read More](https://medium.com/p/ce958eb5b667) |
-| Sun, 27 Jul 2025 16:13:56 GMT | Deteksi Ancaman di Log OpenStack dengan Wazuh: Instalasi Single-Node & Penerapan Custom Ruleset | DhiasCode | [Read More](https://medium.com/p/6e2e174985c8) |
-| Sun, 27 Jul 2025 16:05:19 GMT | How to Keep Your WordPress Site Clean and Secure: A Friendly Guide | Devid h | [Read More](https://medium.com/p/e16afd7c6072) |
-| Sun, 27 Jul 2025 16:04:51 GMT | Can Hacking Be Good? | Catherine Ma | [Read More](https://medium.com/p/c849fd09ba8d) |
-| Sun, 27 Jul 2025 16:02:43 GMT | The Truth About Recovering Crypto from Scammers | Derrick M Langston | [Read More](https://medium.com/p/089fd02701fd) |
