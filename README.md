@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Jul 2025 11:28:29 GMT | Exposed xmlrpc.php – How a Legacy File Opens the Door to Attacks | Ehtesham Ul Haq | [Read More](https://medium.com/p/d99dd0cb9d33) |
+| Sun, 27 Jul 2025 11:22:41 GMT | How to Tell Your Story Without Oversharing or Underselling | Severen Henderson | [Read More](https://medium.com/p/a38907d4c8b8) |
+| Sun, 27 Jul 2025 11:19:10 GMT | I Was Wrong About Host Hardening (Roger A. Grimes) | Mansoor A., MBA | [Read More](https://medium.com/p/0d7c345f6585) |
+| Sun, 27 Jul 2025 11:16:40 GMT | SNORT Challenge — The Basics - TryHackMe — Network Security & Traffic Analysis | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/55b284597b84) |
 | Sun, 27 Jul 2025 11:08:17 GMT | Hackers Are Already Trying to Get You — Start Cybersecurity Practice Now! | Rashadul Islam | [Read More](https://medium.com/p/e4b7a0f2b3f8) |
 | Sun, 27 Jul 2025 11:05:56 GMT | Detecting Azure Front Door WAF with BChecks | fz42 | [Read More](https://medium.com/p/3f92017bb58e) |
 | Sun, 27 Jul 2025 11:02:50 GMT | Cookies, LocalStorage y SessionStorage…: ¿cuál usar y cuándo? | Hirochi Riveros | [Read More](https://medium.com/p/3c4da4494011) |
@@ -109,7 +113,3 @@ Imagine you’re… | Bigenaryal | [Read More](https://medium.com/p/8db7e996cdf2
 | Sun, 27 Jul 2025 03:54:21 GMT | When the Mind No Longer Belongs to Us | Human.exe | [Read More](https://medium.com/p/42853370a0a0) |
 | Sun, 27 Jul 2025 03:54:10 GMT | SHORT NEWS ABOUT CHATGPT MID-2025 ChatGPT Ushers in a New Era of Multitasking AI Assistants: The… | Botcy | [Read More](https://medium.com/p/3d7053db8b89) |
 | Sun, 27 Jul 2025 03:41:53 GMT | COLDDBOX-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/df88948da298) |
-| Sun, 27 Jul 2025 03:33:46 GMT | 別只會上Patch：用全局思維管理資安攻擊表面 | Yoyo Lin | [Read More](https://medium.com/p/c4ca2d75e150) |
-| Sun, 27 Jul 2025 03:32:04 GMT | Securing Your Lenovo: A Deep Look Into the Vantage Vulnerabilities You Shouldn’t Ignore | Deven Chhajed | [Read More](https://medium.com/p/a0c3c84797db) |
-| Sun, 27 Jul 2025 03:25:16 GMT | ️‍♂️ The Art of Open Source Intelligence (OSINT): 10 Powerful Tools Every Cyber Sleuth Should… | Paritosh | [Read More](https://medium.com/p/db273d86bec8) |
-| Sun, 27 Jul 2025 03:20:13 GMT | My Intro to Cybersecurity | Oatmilk | [Read More](https://medium.com/p/0daf2588645f) |
