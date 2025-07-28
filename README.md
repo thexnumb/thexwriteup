@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 23:18:00 GMT | You Won’t Believe How Sophisticated This LNK Phishing Attack Is | Cyber-AppSec | [Read More](https://medium.com/p/f9738d5812a7) |
+| Mon, 28 Jul 2025 23:03:35 GMT | Clickjacking: Everything You Need to Know About This UI-Based Threat | محمد عمر | [Read More](https://medium.com/p/22a3ade82fba) |
+| Mon, 28 Jul 2025 23:02:56 GMT | Free Speech in Nigeria: Impact of The Cybercrimes (Prohibition, Prevention, Etc.)(Amendment) Act | SamObed Amedu | [Read More](https://medium.com/p/8bd4cfff2313) |
+| Mon, 28 Jul 2025 22:59:31 GMT | SQL injection attack, querying the database type and version on Oracle | Zabed Ullah Poyel | [Read More](https://medium.com/p/f20c4c7bdd00) |
 | Mon, 28 Jul 2025 22:47:43 GMT | SQL injection vulnerability allowing login bypass | Zabed Ullah Poyel | [Read More](https://medium.com/p/2053316e5319) |
 | Mon, 28 Jul 2025 22:42:36 GMT | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Zabed Ullah Poyel | [Read More](https://medium.com/p/8a8e89db0537) |
 | Mon, 28 Jul 2025 22:35:19 GMT | Is Artificial Intelligence Democratizing or Monopolizing Learning? | Imperfect Code Academy | [Read More](https://medium.com/p/0402cb4bc685) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 16:53:00 GMT | My Journey with Red Hat System Administration (RHSA) — What I Learned and What’s Next | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/abff49924a76) |
 | Mon, 28 Jul 2025 16:49:59 GMT | DockerLabs — PingCTF [Write-Up] | APS88 | [Read More](https://medium.com/p/02b2a40bff2e) |
 | Mon, 28 Jul 2025 16:34:55 GMT | Click, Type, Control: How Linux Lets You Design the Desktop Experience | MayhemCode | [Read More](https://medium.com/p/3dc0439e86ed) |
-| Mon, 28 Jul 2025 16:14:26 GMT | Top 10 Questions to Ask Your ISO 27001 Consultant | DEFEND MY BUSINESS | [Read More](https://medium.com/p/1ba43b9d4d51) |
-| Mon, 28 Jul 2025 16:13:38 GMT | BehindTheScreens: Cyber Blowback & AI Diplomacy (July 21–28, 2025) | Sam - Behind The Screens | [Read More](https://medium.com/p/6a656e07bb1c) |
-| Mon, 28 Jul 2025 16:12:20 GMT | A Part for Him; A Part for Me | DJ | [Read More](https://medium.com/p/437afb72b1ec) |
-| Mon, 28 Jul 2025 16:09:55 GMT | Help Shape the Future of CVEs with the CVE Consumer WG | CVE Program Blog | [Read More](https://medium.com/p/8aea02445477) |
