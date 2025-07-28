@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 21:16:37 GMT | Secure your remote MCP Server in the AWS Cloud | ML-Guy | [Read More](https://medium.com/p/ee91b4cfd104) |
+| Mon, 28 Jul 2025 21:14:53 GMT | Cypher — HTB Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/1f6a0ab304ea) |
+| Mon, 28 Jul 2025 21:13:38 GMT | From Hypervisors to DNS: One Forensic Thread Across Three TryHackMe Rooms | Reda  kiker | [Read More](https://medium.com/p/3c8ba31c2f72) |
+| Mon, 28 Jul 2025 21:12:36 GMT | Recognizing the Signs of Flash USDT | Toto | [Read More](https://medium.com/p/128d279dd2fc) |
+| Mon, 28 Jul 2025 21:03:47 GMT | Phantom Jobs Have Been Wasting Your Time & Energy | ɌƋƑ•TECH | [Read More](https://medium.com/p/3a8b2992e4d2) |
+| Mon, 28 Jul 2025 21:00:47 GMT | Top 5 Best Crypto Recovery Service Companies Consult Ghost Mystery Recovery Hacker | Danielzain | [Read More](https://medium.com/p/014d0f800ba3) |
+| Mon, 28 Jul 2025 21:00:37 GMT | Advanced AI in Imperfect-Information Environments: A Synthesis of Belief Modeling and Strategic… | Berend Watchus | [Read More](https://medium.com/p/645c9f3b9458) |
+| Mon, 28 Jul 2025 20:51:08 GMT | Triggered by a Swipe — How My Debit Card Became a Beacon for Surveillance Part 1 | Daretoexpose | [Read More](https://medium.com/p/d8c1a41814b4) |
+| Mon, 28 Jul 2025 20:49:24 GMT | Prospek Karir Lulusan Informatika di Industri Blockchain | m wildanu staifen | [Read More](https://medium.com/p/c74bb95516f4) |
 | Mon, 28 Jul 2025 20:44:19 GMT | Cybersecurity in 2025: Threats, Trends, and What You Should Know | Nilesh | [Read More](https://medium.com/p/c4840a52d7c0) |
 | Mon, 28 Jul 2025 20:41:14 GMT | MCP vs API: Why Language Models Need More Than Just Endpoints | Michał Oziębło | [Read More](https://medium.com/p/8525acb8f23d) |
 | Mon, 28 Jul 2025 20:40:09 GMT | RC4 Shellcode Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0c7adc22fff5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 15:40:52 GMT | Why Hackers Don’t Need You to Click Anymore | Ramya Sharma | [Read More](https://medium.com/p/5664d6367841) |
 | Mon, 28 Jul 2025 15:32:27 GMT | They Laughed at My “No JWT” Rule — Until Our Breach Post‑Mortem Went Viral (for the Right Reasons) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/3e427244463a) |
 | Mon, 28 Jul 2025 15:31:51 GMT | Thwarting Cyber Attacks, Ensuring Business Continuity: How Rainbow Secure Safeguards Modern… | Dr. Shashi Karhail | [Read More](https://medium.com/p/6a1ae63c3329) |
-| Mon, 28 Jul 2025 15:31:12 GMT | How I Hacked My First Target — And What It Taught Me About Real-World Security | Priyansh | [Read More](https://medium.com/p/cfee18e2cf91) |
-| Mon, 28 Jul 2025 15:28:08 GMT | Contain your Agents: Running MCP Servers in Docker for safer, and reproducible, LLM Workflows | Sam Gallagher | [Read More](https://medium.com/p/dbda5afe2804) |
-| Mon, 28 Jul 2025 15:27:55 GMT | Built in Germany, Deployed Globally: Quarero Robotics Accelerates Production for Global Expansion | Presslink Media | [Read More](https://medium.com/p/f0721e6939e0) |
-| Mon, 28 Jul 2025 15:26:23 GMT | MAC Table Overflow - Port security | Samara Almursi Risha | [Read More](https://medium.com/p/f1a3d6fab73a) |
-| Mon, 28 Jul 2025 15:24:47 GMT | I EXPOSED ENTIRE FRAUD ECOSYSTEM OF CARDING OPERATIONS (CC CHECKER BOTS) ABUSING STRIPE MERCHANT… | Krivadna | [Read More](https://medium.com/p/d1bc0051ad4c) |
-| Mon, 28 Jul 2025 15:24:43 GMT | Hacking Windows Login Password via Utilman.exe Exploit | Pranav V | [Read More](https://medium.com/p/46ee997c86c0) |
-| Mon, 28 Jul 2025 15:17:47 GMT | News From OWASP: Securing Agentic Applications Guide 1.0 | noailabs | [Read More](https://medium.com/p/14d5d5fa8adf) |
-| Mon, 28 Jul 2025 15:17:14 GMT | Understanding CSRF and How to Prevent It in Your Application — Part 1 | Gokul Karthik | [Read More](https://medium.com/p/9178bbc828d7) |
-| Mon, 28 Jul 2025 15:15:49 GMT | The Most Dangerous Asset in Your Company? The One You Forgot. | Evgeny Ermakov | [Read More](https://medium.com/p/b4044e01e668) |
