@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 07:24:16 GMT | Penetrasyon Testine Giriş ve Temel Araçların Kullanımı | Sadıkcan Tuluk | [Read More](https://medium.com/p/db3508466121) |
+| Mon, 28 Jul 2025 07:21:20 GMT | Over 200,000 WordPress Sites at Risk! | cybrNK | [Read More](https://medium.com/p/4cd51f28a95c) |
+| Mon, 28 Jul 2025 07:20:10 GMT | KubePwn: The Ultimate Kubernetes Red & Blue Team — Container Breakout & Cluster Takeover in… | Deepanshu khanna | [Read More](https://medium.com/p/e3350b927844) |
+| Mon, 28 Jul 2025 07:19:41 GMT | NIST’s SP 800–18r2 Draft Is Here — A Unified Approach to Security, Privacy & Supply Chain Risk | Paritosh | [Read More](https://medium.com/p/d25ce7d60cc1) |
+| Mon, 28 Jul 2025 07:18:42 GMT | Land-Use Classifications: Common Errors at Field Level | scstech | [Read More](https://medium.com/p/e2cb2b1beb66) |
+| Mon, 28 Jul 2025 07:18:15 GMT | How Generative AI Will Prevent Cyberattacks by 2025 | Anika Sharma | [Read More](https://medium.com/p/77d097cc3d0a) |
+| Mon, 28 Jul 2025 07:11:50 GMT | Beginner’s Guide to Active Reconnaissance (Part 3.3): TCP-Based Nmap Host Discovery Techniques | Ar-jay A. Ballaco | [Read More](https://medium.com/p/f0d159586da8) |
+| Mon, 28 Jul 2025 07:07:01 GMT | Surviving the Cut, but Drowning in Tasks: The Layoff Lottery’s Bitter Prize | Namir Sagheenanajar | [Read More](https://medium.com/p/eacf7cfd724c) |
+| Mon, 28 Jul 2025 07:05:40 GMT | From Regular Account to Admin: Reproducing CVE-2025–24000 in WordPress Post SMTP Plugin | Sector Cyber Security | [Read More](https://medium.com/p/8105ff85e274) |
+| Mon, 28 Jul 2025 07:05:08 GMT | Top 10 VAPT Services Providers in the UAE 2025: Leading Cybersecurity Services in Dubai | CyberSigma | [Read More](https://medium.com/p/ab16cef0e5de) |
+| Mon, 28 Jul 2025 07:04:41 GMT | CVE-2025–51985: SQL Injection Vulnerability in Netcore Cloudmail’s Forgot Password Endpoint | Rishabh Katiyar | [Read More](https://medium.com/p/a6b708379757) |
+| Mon, 28 Jul 2025 07:03:28 GMT | Build a Secure Future with Professional Cyber Security Training | Parimehra | [Read More](https://medium.com/p/7fcaf843a676) |
+| Mon, 28 Jul 2025 07:01:13 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/733b9c4ca5ff) |
+| Mon, 28 Jul 2025 06:53:23 GMT | Top 6 Electronic Surveillance Services in India | Suchandra Adhikary | [Read More](https://medium.com/p/d8a9169de5fb) |
+| Mon, 28 Jul 2025 06:51:22 GMT | Understanding and Improving Your SOC with SOC-CMM | Vaasudev | [Read More](https://medium.com/p/750820b60110) |
+| Mon, 28 Jul 2025 06:49:25 GMT | Email Testing Across Regions — Why You Need a Proxy | Alexa Clark | [Read More](https://medium.com/p/417c0aec0060) |
+| Mon, 28 Jul 2025 06:46:51 GMT | How I Bought a ₹4999 Course for Just ₹1 Using a Simple Logic Bug | Anupam Singh | [Read More](https://medium.com/p/111fecbe21c0) |
+| Mon, 28 Jul 2025 06:41:47 GMT | Why AI Vulnerabilities Could Topple Critical Infrastructure | Travis Ray Caverhill | [Read More](https://medium.com/p/ccee38aa67c1) |
+| Mon, 28 Jul 2025 06:38:22 GMT | How I Bypassed a Broken 2FA Implementation Using Response Manipulation | Anupam Singh | [Read More](https://medium.com/p/440aa03c8e6d) |
 | Mon, 28 Jul 2025 06:22:08 GMT | Automate the Hacker’s Mindset: The Full Guide to Prompt Engineering for Bug Bounties | Narendar Battula (nArEn) | [Read More](https://medium.com/p/414331239987) |
 | Mon, 28 Jul 2025 06:21:28 GMT | How I Found a Reflected XSS on AppyPie’s Template Search Page | Anupam Singh | [Read More](https://medium.com/p/7ddf3516d3f7) |
 | Mon, 28 Jul 2025 06:17:36 GMT | CVE-2025-30983 Technical Analysis | AbhirupKonwar | [Read More](https://medium.com/p/4bd30b2c9369) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 23:02:29 GMT | BruteForceAI -The Future of Automated Login Attacks with AI Power | Javier Calderon Jr | [Read More](https://medium.com/p/c18330301da4) |
 | Sun, 27 Jul 2025 22:50:26 GMT | Title: The One with the eval() — A DOM-Based XSS That Got Personal | Mostafa Ghanem | [Read More](https://medium.com/p/80416c67cf9b) |
 | Sun, 27 Jul 2025 22:45:09 GMT | Day 63: Shellcodes | Nile Okomo | [Read More](https://medium.com/p/6f2fe2e790c0) |
-| Sun, 27 Jul 2025 22:37:22 GMT | Cybersecurity Lab FortiGate | Andrew (Ocee) Onaulogho | [Read More](https://medium.com/p/2ffe309492ff) |
-| Sun, 27 Jul 2025 22:31:51 GMT | BACKTRACK WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/f442205f292d) |
-| Sun, 27 Jul 2025 22:23:23 GMT | TryHackMe: Mastering Memory Forensics with Volatility | Furkanctiner | [Read More](https://medium.com/p/212bb5fb424c) |
-| Sun, 27 Jul 2025 22:22:38 GMT | Surfshark VPN Review (2025): Is It Still Worth Your Money? | Kambetastephano | [Read More](https://medium.com/p/1d4c595e3dd5) |
-| Sun, 27 Jul 2025 22:18:21 GMT | Human Deception: The Importance of Social Engineering Awareness in Cybersecurity | Orkun Sarı | [Read More](https://medium.com/p/8306ab0a84d6) |
-| Sun, 27 Jul 2025 22:17:57 GMT | AI-Powered Cyber Threats: How Hackers Are Using Chat-bots to Launch Attacks | Usman Samar | [Read More](https://medium.com/p/acd968f1b291) |
-| Sun, 27 Jul 2025 22:17:40 GMT | Securing Machine Learning Pipelines Against Adversarial Attacks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a4f723cbf31e) |
-| Sun, 27 Jul 2025 22:13:03 GMT | EDR is not enough. | Aman_Utkhedkar | [Read More](https://medium.com/p/2702d4e30387) |
-| Sun, 27 Jul 2025 22:10:54 GMT | Trust Chains and Digital Security: A Simplified Guide to PKI Hierarchies | Infosecjourney.tech | [Read More](https://medium.com/p/9402483a0364) |
-| Sun, 27 Jul 2025 22:07:06 GMT | the Naval Group «cyberattack» : when cyber warfare meets billion-dollar deals | Sirine Amrane | [Read More](https://medium.com/p/6eec975afadf) |
-| Sun, 27 Jul 2025 22:00:35 GMT | Why I Write About Digital Risk (and Why You Might Want to Read) | Evgeny Ermakov | [Read More](https://medium.com/p/0accc969848c) |
-| Sun, 27 Jul 2025 21:58:41 GMT | Hacking the hackers: hacking Russian Corporate Mail!! | Fantasma | [Read More](https://medium.com/p/bacc26ad3804) |
-| Sun, 27 Jul 2025 21:58:20 GMT | I Turned an “Informative” Severity Bug into a “Medium” Payout — Here’s How I Worded the Report | CypherNova1337 | [Read More](https://medium.com/p/a141a60594d9) |
-| Sun, 27 Jul 2025 21:57:14 GMT | HackTheBox - Postman | jniket | [Read More](https://medium.com/p/3045be675d48) |
-| Sun, 27 Jul 2025 21:56:30 GMT | TryHackMe — Web App PenTest: NoSQL Injection | Huy Phu | [Read More](https://medium.com/p/2aae869300eb) |
-| Sun, 27 Jul 2025 21:47:29 GMT | Chunked File Uploads in Native PHP for Large Files (800MB+) | Roman Huliak | [Read More](https://medium.com/p/dbf6228d8434) |
-| Sun, 27 Jul 2025 21:43:55 GMT | Day 62: Even More Nmap | Nile Okomo | [Read More](https://medium.com/p/4aad1a4972c5) |
-| Sun, 27 Jul 2025 21:39:33 GMT | How to Start Bug Bounty in 2025 (Beginner’s Guide + Tips) | Mr Joe | [Read More](https://medium.com/p/24f98b55f3fd) |
-| Sun, 27 Jul 2025 21:39:00 GMT | VX AI Retro RPG | VXRL | [Read More](https://medium.com/p/7669b5f2dbe6) |
