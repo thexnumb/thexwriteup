@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 17:35:55 GMT | The Cloud is Convenient — But Is It Safe? | Bhushan | [Read More](https://medium.com/p/949f08215fb3) |
+| Mon, 28 Jul 2025 17:28:41 GMT | Dream Job-1 HackTheBox Sherlock | Krishna | [Read More](https://medium.com/p/325799c244a3) |
+| Mon, 28 Jul 2025 17:25:49 GMT | Vulnerabilidades en SharePoint On-Prem CVE-2025–53770/53771: Guía de Detección y Protección | VenariX, Inc. | [Read More](https://medium.com/p/f11308797da5) |
+| Mon, 28 Jul 2025 17:23:17 GMT | Alignment Engineering — A Unified Approach to Vulnerability and Volition in Modern LLMs | Tomer Wetzler | [Read More](https://medium.com/p/8c144133ffbf) |
 | Mon, 28 Jul 2025 17:20:23 GMT | Inside the Hidden Internet: The Truth About the Dark Web | Anirudh PV | [Read More](https://medium.com/p/d1d852ec8666) |
 | Mon, 28 Jul 2025 17:19:26 GMT | Stop Leaving Bugs Behind with my new Recon Tool | Appsec.pt | [Read More](https://medium.com/p/627a9068f1b2) |
 | Mon, 28 Jul 2025 17:18:03 GMT | On-Prem SharePoint Vulnerabilities CVE-2025–53770/53771: Detection and Protection Guidance | VenariX, Inc. | [Read More](https://medium.com/p/57e072a7566c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 12:49:18 GMT | Exploits, Espionage, and Executive Orders: What This Week’s HPH Briefing Reveals About the State… | James Wright | [Read More](https://medium.com/p/726f6be54c92) |
 | Mon, 28 Jul 2025 12:43:51 GMT | Let’s Defend: 197 — SOC235 — Atlassian Confluence Broken Access Control 0-Day CVE-2023–22515 -… | EPereda | [Read More](https://medium.com/p/1cd6eee97318) |
 | Mon, 28 Jul 2025 12:43:48 GMT | Let’s Defend: 208 — SOC246 — Forced Authentication Detected - Writeup | EPereda | [Read More](https://medium.com/p/7c7b3e919e54) |
-| Mon, 28 Jul 2025 12:43:46 GMT | Let’s Defend: 214 — SOC251 — Quishing Detected (QR Code Phishing) - Writeup | EPereda | [Read More](https://medium.com/p/a41cc78f7e3f) |
-| Mon, 28 Jul 2025 12:40:16 GMT | My Washing Machine Was Smarter Than Me… Until I Fought Back | CtrlC3 | [Read More](https://medium.com/p/a2e975843360) |
-| Mon, 28 Jul 2025 12:39:20 GMT | Oops, They Hacked the Subs: When National Security Goes Sideways | xhiddebx | [Read More](https://medium.com/p/aa1e9db2b987) |
-| Mon, 28 Jul 2025 12:39:13 GMT | Al jouw data veilig in Nederlandse datacenters | HostingFormule | [Read More](https://medium.com/p/e6ce3f26c7e3) |
