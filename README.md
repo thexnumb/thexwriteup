@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 19:04:28 GMT | Dynamic Resolution: How Hackers Implement Elusive Command and Control Infrastructure | Ben Kofman | [Read More](https://medium.com/p/4caba9a29cad) |
+| Mon, 28 Jul 2025 19:02:45 GMT | Browser Extension Security: Analysing Malicious Extensions in the Wild | H1m3 | [Read More](https://medium.com/p/5bf134ab7fc3) |
+| Mon, 28 Jul 2025 19:01:36 GMT | How to Use a Crypto Wallet Like a Pro | The Wallet and The Heart | [Read More](https://medium.com/p/1fbf69d96271) |
+| Mon, 28 Jul 2025 19:00:45 GMT | "Getting Started with Ethical Hacking on Android" | Gopal Jangid | [Read More](https://medium.com/p/f100dd0ca0ae) |
+| Mon, 28 Jul 2025 18:55:28 GMT | The Learning Never Stops | R-Squared Cyber | [Read More](https://medium.com/p/2d3274582c30) |
+| Mon, 28 Jul 2025 18:51:35 GMT | Decentralized Identity: How Blockchain Is Reshaping Digital Trust | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/91c0bd7f5a96) |
+| Mon, 28 Jul 2025 18:49:30 GMT | The Cost of Trust: Pen Testing Takeaways from the Allianz Supply Chain Breach | Pentestjunkie07 | [Read More](https://medium.com/p/ba6f2f537825) |
+| Mon, 28 Jul 2025 18:46:52 GMT | Why Every Company Should Fear the ‘Sleeping Employee’ Threat | Akshay Chauhan | [Read More](https://medium.com/p/edb2a245325f) |
+| Mon, 28 Jul 2025 18:44:36 GMT | AI Agent for Your Open-Source SIEM Stack Is Here — Wazuh, Velociraptor, and CoPilot Just Got… | SOCFortress | [Read More](https://medium.com/p/2e0542aac697) |
+| Mon, 28 Jul 2025 18:43:00 GMT | Practice these Questions for the Google Cloud Professional Cloud Security Engineer Certification… | Sachin Sharma - Lead DevOps Engineer | [Read More](https://medium.com/p/b5f775756c3b) |
+| Mon, 28 Jul 2025 18:40:43 GMT | How a Broken Chocolate Taught File Permissions Better Than a Lecture Ever Could | Gitika Babbar | [Read More](https://medium.com/p/5a5800ad2993) |
+| Mon, 28 Jul 2025 18:37:19 GMT | My First Steps into Cybersecurity: Exploring DNS, Nslookup, and Footprinting | Rajeshwar choudhary | [Read More](https://medium.com/p/c8e2f31f548c) |
+| Mon, 28 Jul 2025 18:34:37 GMT | VulnHub Basic Pentesting: 1 Machine Writeup | Arjunraghunadhan | [Read More](https://medium.com/p/429eba248b61) |
+| Mon, 28 Jul 2025 18:29:38 GMT | How Access Tokens and Refresh Tokens Work Together in Backend Systems | Ritesh Gupta | [Read More](https://medium.com/p/059d74e3770d) |
 | Mon, 28 Jul 2025 18:27:17 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/0b2f6ee3827e) |
+| Mon, 28 Jul 2025 18:25:08 GMT | Protect Yourself Online in 2025: Easy Cybersecurity Tips You Can’t Ignore | Med Abou | [Read More](https://medium.com/p/159b337668ba) |
 | Mon, 28 Jul 2025 18:24:16 GMT | Putin Never Believed Ukraine Could Hit This Hard — Digitally | Leo Griffin | [Read More](https://medium.com/p/1dc51d780eb7) |
 | Mon, 28 Jul 2025 18:20:50 GMT | “All I Did Was Google — You Won’t Believe What I Discovered” | Ayeoritseju "Aye" Erumi | [Read More](https://medium.com/p/7f4ad8f5d28b) |
 | Mon, 28 Jul 2025 18:11:00 GMT | Logic Bombs: The Silent Code That Blows Up Your System From the Inside | Akshay Chauhan | [Read More](https://medium.com/p/267c2c987e3a) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 14:04:29 GMT | A Fractional CTO Is Not a One-Person Tech Department | Richard Hunting | [Read More](https://medium.com/p/71603418c102) |
 | Mon, 28 Jul 2025 14:02:58 GMT | Cyber Briefing: 2025.07.28 | CyberMaterial | [Read More](https://medium.com/p/2881ba6c2885) |
 | Mon, 28 Jul 2025 13:58:21 GMT | Can Neural Networks Be Chaotic? | Wendell Mouzali Ruiz | [Read More](https://medium.com/p/3ed53db29b5f) |
-| Mon, 28 Jul 2025 13:54:27 GMT | The Hidden Costs of FormData: Memory Leaks and Developer Frustration | Dennis Peter Munyao | [Read More](https://medium.com/p/21c2fa4650a2) |
-| Mon, 28 Jul 2025 13:51:09 GMT | Kubernetes Security Best Practices | Newsha Ozgoli | [Read More](https://medium.com/p/de8ab23353a1) |
-| Mon, 28 Jul 2025 13:45:51 GMT | Cybersecurity Basics: Protecting Your Digital Assets | TabTree IT Consulting Company | [Read More](https://medium.com/p/f9ed8ad214c3) |
-| Mon, 28 Jul 2025 13:43:48 GMT | Understanding the Software Supply Chain: Why It Matters More Than Ever | Sachin Sampras M | [Read More](https://medium.com/p/5ef66914b28b) |
-| Mon, 28 Jul 2025 13:35:03 GMT | Lessons from a $250,000 Blind XSS: Bug bounty Ultimate Payoff | Zino jo | [Read More](https://medium.com/p/1d0c57dbf914) |
-| Mon, 28 Jul 2025 13:34:59 GMT | Test It or Regret It… | Ayeoritseju "Aye" Erumi | [Read More](https://medium.com/p/5962ec17daae) |
-| Mon, 28 Jul 2025 13:31:02 GMT | Beyond Spreadsheets: How to Build a Business Case for GRC Software That Your CFO Can’t Ignore | Gurpreet Singh | [Read More](https://medium.com/p/eea6eb5088a9) |
-| Mon, 28 Jul 2025 13:28:56 GMT | Enhancing Your Security Systems with Tamper-Evident Packaging | Sofiamcmahon | [Read More](https://medium.com/p/eca7695a049c) |
-| Mon, 28 Jul 2025 13:28:30 GMT | Cybersecurity Services Company You Can Rely on for 24/7 Protection | Secure My ORG | [Read More](https://medium.com/p/3bef259895e6) |
-| Mon, 28 Jul 2025 13:25:37 GMT | Hack Like a Pro: Flashing ATTINY85 with UNO and Cracking Android 4-Digit PINs | Sourabh Panchal | [Read More](https://medium.com/p/386bd27844d7) |
-| Mon, 28 Jul 2025 13:25:02 GMT | From Info Ops to InfoSec | Shivinaa | [Read More](https://medium.com/p/0c2c61e3847d) |
-| Mon, 28 Jul 2025 13:21:59 GMT | DeltaPrime, Caterpillar Coin, and Bankroll Network Lose $7.6M | Olympix | [Read More](https://medium.com/p/959ec2273e83) |
-| Mon, 28 Jul 2025 13:21:51 GMT | Top Security Guard Services in Pune — Choose Paradigm for Trusted Protection | Paradigm Integrated Facility Management Services | [Read More](https://medium.com/p/c5669bcdcfbb) |
-| Mon, 28 Jul 2025 13:21:19 GMT | Don’t Ignore These VoIP Threats — Fix Them Now | Voizcall | [Read More](https://medium.com/p/b25f7775e409) |
-| Mon, 28 Jul 2025 13:21:01 GMT | Can You Really Take Over Netflix Accounts Easily | Ibtissam hammadi | [Read More](https://medium.com/p/1c29bb394d02) |
