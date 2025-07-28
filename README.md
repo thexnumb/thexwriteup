@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 11:32:51 GMT | €1500 bounty — How I Bypassed 403 Forbidden and Gained Access to the Intranet Portal. | Ashar Mahmood | [Read More](https://medium.com/p/3464f29f4ddb) |
+| Mon, 28 Jul 2025 11:32:34 GMT | The SharePoint Wake-Up Call: What GRC Professionals Must Learn from the Latest Wave of Attacks | Brittney Ginther | [Read More](https://medium.com/p/3e006f586192) |
+| Mon, 28 Jul 2025 11:25:59 GMT | Intro to Malware Analysis on TryHackMe: Understanding Malicious Code Step by Step | Furkanctiner | [Read More](https://medium.com/p/5d1e98c267e1) |
+| Mon, 28 Jul 2025 11:16:30 GMT | I Wrote a Cybersecurity Policy… Then Rewrote It. Here’s Why That Matters. | Gift Afortu | [Read More](https://medium.com/p/d95fddbbfc2b) |
 | Mon, 28 Jul 2025 11:16:11 GMT | The Role of AWS Certifications in IT Career Growth? | Mohammed Numan | [Read More](https://medium.com/p/8725b9134c91) |
+| Mon, 28 Jul 2025 11:16:08 GMT | Allianz Life Insurance Confirms Major Data Breach Affecting Customer Personal Information | ansiholan - aibriefnow.com | [Read More](https://medium.com/p/4781b4c001ad) |
+| Mon, 28 Jul 2025 11:15:10 GMT | Learning How To Write Again: The Art of Being Vulnerable and Appreciating Process. | Kora | [Read More](https://medium.com/p/7c3ab7c64413) |
 | Mon, 28 Jul 2025 11:13:18 GMT | Industrial Intrusion CTF (THM) — OT Challenge “Kaboom” Write-up | 0xZeus | [Read More](https://medium.com/p/abcdae7648f1) |
 | Mon, 28 Jul 2025 11:11:51 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5e73a3b5ddb0) |
 | Mon, 28 Jul 2025 11:08:28 GMT | Cybersecurity Is Not a just a Trend. | Sampson Jonny | [Read More](https://medium.com/p/3d83fbeb2b83) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 07:33:21 GMT | what i haven’t said out loud is… | lowercaseissue | [Read More](https://medium.com/p/f46287d447c1) |
 | Mon, 28 Jul 2025 07:31:06 GMT | Your ‘AI-Powered’ Product Might Be a Fancy Excel Sheet | Yash Gorasiya | [Read More](https://medium.com/p/50a4be4e43c6) |
 | Mon, 28 Jul 2025 07:30:06 GMT | Phishing in Hacking: How Hackers Steal Your Login Info and How You Can Protect Yourself | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/30d7270ae8fd) |
-| Mon, 28 Jul 2025 07:28:39 GMT | RDP — PORT 3389 | Very Lazy Tech | [Read More](https://medium.com/p/a46cc674d5e9) |
-| Mon, 28 Jul 2025 07:24:16 GMT | Penetrasyon Testine Giriş ve Temel Araçların Kullanımı | Sadıkcan Tuluk | [Read More](https://medium.com/p/db3508466121) |
-| Mon, 28 Jul 2025 07:21:20 GMT | Over 200,000 WordPress Sites at Risk! | cybrNK | [Read More](https://medium.com/p/4cd51f28a95c) |
-| Mon, 28 Jul 2025 07:20:10 GMT | KubePwn: The Ultimate Kubernetes Red & Blue Team — Container Breakout & Cluster Takeover in… | Deepanshu khanna | [Read More](https://medium.com/p/e3350b927844) |
-| Mon, 28 Jul 2025 07:19:41 GMT | NIST’s SP 800–18r2 Draft Is Here — A Unified Approach to Security, Privacy & Supply Chain Risk | Paritosh | [Read More](https://medium.com/p/d25ce7d60cc1) |
-| Mon, 28 Jul 2025 07:18:42 GMT | Land-Use Classifications: Common Errors at Field Level | scstech | [Read More](https://medium.com/p/e2cb2b1beb66) |
