@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 03:43:45 GMT | Quantum-Secure Blockchain: Future-Proofing Web3 | Dukerearing | [Read More](https://medium.com/p/6cd30b20491b) |
+| Mon, 28 Jul 2025 03:38:54 GMT | Dev Mode Disaster: How an Open GraphQL Playground Let Me Query Everything, Including Your… | Iski | [Read More](https://medium.com/p/c2496948b162) |
+| Mon, 28 Jul 2025 03:38:12 GMT | How Penetration Testing Service Protects Your Business from Cyber Threats | Chatsm | [Read More](https://medium.com/p/6e5e94f0e732) |
+| Mon, 28 Jul 2025 03:31:36 GMT | Digital Crossroads: Critical Security Vulnerabilities Meet AI Policy Breakthrough | Akshat Ratanpal | [Read More](https://medium.com/p/2c62e52d6c55) |
+| Mon, 28 Jul 2025 03:31:36 GMT | Cracking the Signal: What the MTN Data Breach Teaches Us About Telecom Cybersecurity | Deven Chhajed | [Read More](https://medium.com/p/cafcf622cfc8) |
+| Mon, 28 Jul 2025 03:30:13 GMT | DevOps Explained | Praharsha Kumar | [Read More](https://medium.com/p/f5ea2bf7a359) |
+| Mon, 28 Jul 2025 03:19:04 GMT | About Me: A Teen Tech Enthusiast | Vedant Bansal | [Read More](https://medium.com/p/66cef66d26c6) |
+| Mon, 28 Jul 2025 03:12:15 GMT | How a Cursor User Lost $500,000 from Crypto Wallet | Mrinal Kanti Sardar | [Read More](https://medium.com/p/0a7067498fbc) |
+| Mon, 28 Jul 2025 03:00:12 GMT | As i silence my dreams from making a sound (Poetry) | Alyssa Skyes | [Read More](https://medium.com/p/3ac555f0f629) |
+| Mon, 28 Jul 2025 02:56:51 GMT | Digital Transformation and Cloud Computing: Powering the Future of Business | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/297cb62e7d95) |
+| Mon, 28 Jul 2025 02:40:25 GMT | How Blockchain Is Transforming Cybersecurity: Beyond Cryptocurrency | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/8daab049f015) |
+| Mon, 28 Jul 2025 02:30:59 GMT | Managing VPC Traffic Flow & Security in AWS | Meet Patel | [Read More](https://medium.com/p/7fa6418eb2c9) |
+| Mon, 28 Jul 2025 02:23:04 GMT | Top 5 Ways Hackers Trick Employees (And How to Stop Them) | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/1965d2f332c8) |
+| Mon, 28 Jul 2025 01:58:42 GMT | I Almost Fell for a Fake Cybersecurity Internship — Here’s What You Need to Know Before You Do | Sujal Adhikari | [Read More](https://medium.com/p/81e6e50b42b6) |
 | Mon, 28 Jul 2025 01:52:20 GMT | Why Penetration Testing Matters for New Zealand Businesses in 2025 | Cyberoptic Security | [Read More](https://medium.com/p/e925de043fe9) |
 | Mon, 28 Jul 2025 01:51:01 GMT | Building Secure APIs: OAuth2, JWT & API Keys in Practice | Mahdi Jafari | [Read More](https://medium.com/p/eafe02937244) |
 | Mon, 28 Jul 2025 01:47:35 GMT | Dependabot Alert運用の実際と改善の取り組み | Daichi Harada | [Read More](https://medium.com/p/31900d6da0d1) |
@@ -98,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 18:28:41 GMT | Navigating Japan's Cybersecurity Landscape | nolly | [Read More](https://medium.com/p/403c301e6d0a) |
 | Sun, 27 Jul 2025 18:28:25 GMT | Cybersecurity Compliance Is Easy — Until You Have to Keep It Up | Steven McDaniel | [Read More](https://medium.com/p/7bb8d154b2d4) |
 | Sun, 27 Jul 2025 18:26:47 GMT | HICA CTF- ON3_P1ECE - Jinchuriki - Hide Chopper - Walkthrough | Puniyatjangir | [Read More](https://medium.com/p/0b16c3e70473) |
-| Sun, 27 Jul 2025 18:24:37 GMT | Kali Linux with Commands – A Complete Guide with Explanation
-Kali Linux is a very strong operating… | Yousaffffyyy | [Read More](https://medium.com/p/fc1e1d7a3d0b) |
-| Sun, 27 Jul 2025 18:19:39 GMT | Recon Methodology by Muhammad Khalid Bin Walid
- 
- Everyone has a methodology, either similar or… | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/51c2d2a6514e) |
-| Sun, 27 Jul 2025 18:19:29 GMT | DAY 27 — Chapter 14: Using and Abusing Services — Apache, OpenSSH, MySQL, PostgreSQL | Jinay | [Read More](https://medium.com/p/5c859c44bca8) |
-| Sun, 27 Jul 2025 18:14:25 GMT | 4.4 From 36k+ Amazon Reviews: Wireless Security Camera in 2025 | Top secure tools | [Read More](https://medium.com/p/63fe8f906a3e) |
-| Sun, 27 Jul 2025 18:14:15 GMT | Keycloak vs. Auth0 vs. Okta: The Ultimate IAM Comparison Guide | Jay Chu | [Read More](https://medium.com/p/d185a58c5488) |
-| Sun, 27 Jul 2025 18:11:35 GMT | How to use THEHIVE for CTI | Genrunic | [Read More](https://medium.com/p/e46a2d429739) |
-| Sun, 27 Jul 2025 17:57:21 GMT | How to Destroy SSL/TLS Errors: New AWS GCP Guide | Samarth | [Read More](https://medium.com/p/531b6c19402b) |
-| Sun, 27 Jul 2025 17:50:23 GMT | Mastering Nmap -From Basics to Pro Scanning Techniques | Mohamed Basil | [Read More](https://medium.com/p/624aa6291b5a) |
-| Sun, 27 Jul 2025 17:38:20 GMT | Own the‑Box: Your Field‑Tested Offensive Security Manual | Sajjad Asaad | [Read More](https://medium.com/p/0b01e67bae11) |
-| Sun, 27 Jul 2025 17:37:36 GMT | When Encryption Dies: Preparing Human Response for the Quantum Threat | Jeffrey Nickle | [Read More](https://medium.com/p/022a6d727bfc) |
-| Sun, 27 Jul 2025 17:35:49 GMT | Salvatore D’arpa Jason D’Arpa TED Talks Tesla Motors Xai Foundation Googlee | Signallink Protocol Drew Phillips jr | [Read More](https://medium.com/p/e7ffe12f8054) |
-| Sun, 27 Jul 2025 17:25:59 GMT | My First Vulnerability- SQL Injection. | Vinaykumar | [Read More](https://medium.com/p/b07aa6d18df2) |
-| Sun, 27 Jul 2025 17:24:28 GMT | Endpoint Security Isn’t Just Antivirus: CIS Benchmark Validation in Practice | Siddhi Patil | [Read More](https://medium.com/p/a9b0829e8d8e) |
-| Sun, 27 Jul 2025 17:15:19 GMT | Solving OverTheWire Bandit (L0 → L5) | GhostNex | [Read More](https://medium.com/p/7197d159ac57) |
