@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 14:47:29 GMT | My Journey into Bug Bounty: A Fresh Start with Clear Goals | sl0th0x87 | [Read More](https://medium.com/p/e157ddaa23b5) |
+| Mon, 28 Jul 2025 14:45:07 GMT | The Dark Story Behind the Tea App Data Breach | Alper Konuralp | [Read More](https://medium.com/p/616b6385320c) |
+| Mon, 28 Jul 2025 14:44:10 GMT | Spatial Data shouldn’t be Hard. It should be Special | SeerAI | [Read More](https://medium.com/p/60652184b2d4) |
+| Mon, 28 Jul 2025 14:42:32 GMT | Tea Uygulaması Veri İhlalinin Arkasındaki Karanlık Hikaye | Alper Konuralp | [Read More](https://medium.com/p/6bd6b635f5fe) |
+| Mon, 28 Jul 2025 14:41:23 GMT | Mastering SQLMAP with TryHackMe: My First Step into SQL Injection | Vikash Yadav | [Read More](https://medium.com/p/6e4a208d8b87) |
+| Mon, 28 Jul 2025 14:35:38 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/d46d461830ad) |
+| Mon, 28 Jul 2025 14:34:05 GMT | Maximizing Cyber Defense with Advanced SIEM Remediation and XDR Solutions | Vijilan | [Read More](https://medium.com/p/b9156c05d040) |
+| Mon, 28 Jul 2025 14:33:59 GMT | The Quantum Apocalypse: Q-Day Is Here — And We’re Not Ready | Arun | [Read More](https://medium.com/p/72db8ec85bd3) |
+| Mon, 28 Jul 2025 14:30:44 GMT | Threat Intelligence Digest — Week Ending:July 27, 2025 [Free] | IndigoINT | [Read More](https://medium.com/p/aaf82bb188e6) |
+| Mon, 28 Jul 2025 14:29:35 GMT | TCS Layoffs Signal a New Era for India’s IT Workforce | Sowbaranic Raj | [Read More](https://medium.com/p/bc44ddf25ff4) |
+| Mon, 28 Jul 2025 14:23:29 GMT | Resilience by Design: The Role of the USDh Reserve Fund | Hermetica | [Read More](https://medium.com/p/2bfaa5de0a5a) |
 | Mon, 28 Jul 2025 14:23:28 GMT | How a Race Condition Let Me Buy $40,000 in Stocks With $2,500 | Ahmed adel | [Read More](https://medium.com/p/c377b710dff7) |
+| Mon, 28 Jul 2025 14:20:20 GMT | The SOC Analyst Job Application Process is Broken: Here’s Why and How to Fix It | Vijay Kumar Gupta | [Read More](https://medium.com/p/fcd7cb1efe71) |
 | Mon, 28 Jul 2025 14:20:15 GMT | How to Look Into a Bug: Lessons from the Storming Phase of Team Development | DeepyaC | [Read More](https://medium.com/p/0ff32c4921e2) |
 | Mon, 28 Jul 2025 14:10:45 GMT | Unmasking the True Self | Leon Bloder | [Read More](https://medium.com/p/4e5f8229ef9a) |
 | Mon, 28 Jul 2025 14:09:34 GMT | NO! Apps Like Linq Still Don’t Make Sending Nudes Safe | Savvy Cyber Kids | [Read More](https://medium.com/p/cc7ac6e55ee5) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 10:27:50 GMT | The Ultimate Guide to Wi-Fi Hacking — Part 2 | Redfox Security | [Read More](https://medium.com/p/d00b5bad48c7) |
 | Mon, 28 Jul 2025 10:19:42 GMT | How to Secure Your PHP Backend with These Underrated Tricks | Asian Digital Hub | [Read More](https://medium.com/p/d1f8c8777f47) |
 | Mon, 28 Jul 2025 10:13:25 GMT | Perfect DevOps Example Project for your CV. Automate K8s Installation with Ansible Playbook | BecomeDevOps | [Read More](https://medium.com/p/9e676d9b7bd7) |
-| Mon, 28 Jul 2025 10:13:18 GMT | How to Connect Splunk Cloud from a Deployment Server or Heavy Forwarder | Chandra Tadala | [Read More](https://medium.com/p/e48bc974c1fc) |
-| Mon, 28 Jul 2025 10:10:07 GMT | What Is a Trading Terminal and Why Do Traders Rely on It? | LogiClump Technologies | [Read More](https://medium.com/p/c664e9753245) |
-| Mon, 28 Jul 2025 10:09:47 GMT | 您的資安投資有效嗎？用 BAS 驗證給你答案 | LKC-AGH-Expert | [Read More](https://medium.com/p/0125309bac9c) |
-| Mon, 28 Jul 2025 10:07:28 GMT | Adam Gale, Field CTO For AI & Cybersecurity At Netapp On Securing Critical Infrastructure In The… | Smithwilsontd | [Read More](https://medium.com/p/c78be8933dc7) |
-| Mon, 28 Jul 2025 10:06:56 GMT | Security Token Offering Platforms — Exploring Top 5 Platforms | Core Devs Ltd | [Read More](https://medium.com/p/1560689df12a) |
-| Mon, 28 Jul 2025 10:03:19 GMT | How Wi-Fi 7 and AI Together Will Redefine Connectivity | New Trend Computer Networks | [Read More](https://medium.com/p/40ac8638a722) |
-| Mon, 28 Jul 2025 09:59:50 GMT | TryHackMe-Linux Privilege Escalation Room (TASK 12) | Zahirov Rahid | [Read More](https://medium.com/p/522c5f32aedf) |
-| Mon, 28 Jul 2025 09:58:03 GMT | How to Learn Cybersecurity in 2025 — A Roadmap for Beginners | Ezekiel peter | [Read More](https://medium.com/p/129074f95a85) |
-| Mon, 28 Jul 2025 09:56:31 GMT | Top Endpoint Security Certification Program for Beginners | cyber security Updates | [Read More](https://medium.com/p/9fae47d33949) |
-| Mon, 28 Jul 2025 09:52:03 GMT | nYour Guide to Retail, Payment, and Healthcare Kiosks in the UAE Market | Rakesh | [Read More](https://medium.com/p/fccce0c1bd90) |
-| Mon, 28 Jul 2025 09:52:01 GMT | ️ 7 Days to Kickstart Your Journey as a Cybersecurity Engineer | Rue | [Read More](https://medium.com/p/52daf2acdca2) |
-| Mon, 28 Jul 2025 09:50:48 GMT | How I’d Begin a Cybersecurity Career Today (Starting Completely from Scratch | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/f44bf8012999) |
