@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 21:20:09 GMT | The Tragedy of Half-Existence | Manu Pratap Singh | [Read More](https://medium.com/p/c1068e72594a) |
+| Mon, 28 Jul 2025 21:17:10 GMT | How Flash USDT Can Be Misunderstood | Toto | [Read More](https://medium.com/p/57e067346abe) |
 | Mon, 28 Jul 2025 21:16:37 GMT | Secure your remote MCP Server in the AWS Cloud | ML-Guy | [Read More](https://medium.com/p/ee91b4cfd104) |
 | Mon, 28 Jul 2025 21:14:53 GMT | Cypher — HTB Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/1f6a0ab304ea) |
 | Mon, 28 Jul 2025 21:13:38 GMT | From Hypervisors to DNS: One Forensic Thread Across Three TryHackMe Rooms | Reda  kiker | [Read More](https://medium.com/p/3c8ba31c2f72) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 15:43:36 GMT | SOC 2 vs. ISO 27001: Which Security Certification Should Your Company Pursue First? | Josh Welch | [Read More](https://medium.com/p/9aa62bc3f1da) |
 | Mon, 28 Jul 2025 15:41:14 GMT | What Is Microsoft Defender for Endpoint? | Eyad Hasanato | [Read More](https://medium.com/p/dc0f54408163) |
 | Mon, 28 Jul 2025 15:40:52 GMT | Why Hackers Don’t Need You to Click Anymore | Ramya Sharma | [Read More](https://medium.com/p/5664d6367841) |
-| Mon, 28 Jul 2025 15:32:27 GMT | They Laughed at My “No JWT” Rule — Until Our Breach Post‑Mortem Went Viral (for the Right Reasons) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/3e427244463a) |
-| Mon, 28 Jul 2025 15:31:51 GMT | Thwarting Cyber Attacks, Ensuring Business Continuity: How Rainbow Secure Safeguards Modern… | Dr. Shashi Karhail | [Read More](https://medium.com/p/6a1ae63c3329) |
