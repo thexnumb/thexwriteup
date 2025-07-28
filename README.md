@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 15:24:47 GMT | I EXPOSED ENTIRE FRAUD ECOSYSTEM OF CARDING OPERATIONS (CC CHECKER BOTS) ABUSING STRIPE MERCHANT… | Krivadna | [Read More](https://medium.com/p/d1bc0051ad4c) |
+| Mon, 28 Jul 2025 15:17:47 GMT | News From OWASP: Securing Agentic Applications Guide 1.0 | noailabs | [Read More](https://medium.com/p/14d5d5fa8adf) |
+| Mon, 28 Jul 2025 15:17:14 GMT | Understanding CSRF and How to Prevent It in Your Application — Part 1 | Gokul Karthik | [Read More](https://medium.com/p/9178bbc828d7) |
+| Mon, 28 Jul 2025 15:15:49 GMT | The Most Dangerous Asset in Your Company? The One You Forgot. | Evgeny Ermakov | [Read More](https://medium.com/p/b4044e01e668) |
+| Mon, 28 Jul 2025 15:12:37 GMT | ⚠️ CVE‑2025‑32463 & CVE‑2025‑32462 — Sudo Privilege Escalation Flaws in Linux | Aditya Bhatt | [Read More](https://medium.com/p/543709ee6eba) |
+| Mon, 28 Jul 2025 15:07:25 GMT | Can I Haz Root? :: Absolute | Cyber Grover ‍ | [Read More](https://medium.com/p/e26351346943) |
+| Mon, 28 Jul 2025 14:55:15 GMT | Left The Country With A Suitcase. Built A $200 Million Company. | Millionaire Codes | [Read More](https://medium.com/p/654a25349ce8) |
+| Mon, 28 Jul 2025 14:54:42 GMT | SQLMAP | TheSocialHacker | [Read More](https://medium.com/p/65322d1f9075) |
+| Mon, 28 Jul 2025 14:47:58 GMT | # Inside NullSec Philippines: The Rising Force in Southeast Asia's Cyber Underground | Filipino CyberSec News | [Read More](https://medium.com/p/ffd025ba1954) |
 | Mon, 28 Jul 2025 14:47:29 GMT | My Journey into Bug Bounty: A Fresh Start with Clear Goals | sl0th0x87 | [Read More](https://medium.com/p/e157ddaa23b5) |
 | Mon, 28 Jul 2025 14:45:07 GMT | The Dark Story Behind the Tea App Data Breach | Alper Konuralp | [Read More](https://medium.com/p/616b6385320c) |
 | Mon, 28 Jul 2025 14:44:10 GMT | Spatial Data shouldn’t be Hard. It should be Special | SeerAI | [Read More](https://medium.com/p/60652184b2d4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 10:56:00 GMT | API Security Explained: Best Practices for Developers and Architects | Shraddha Zope-Ladhe | [Read More](https://medium.com/p/158b0339a195) |
 | Mon, 28 Jul 2025 10:53:01 GMT | AradığınSertifikalarBurada SİBER GÜVENLİK | Abdullah Narin | [Read More](https://medium.com/p/40b0d857bfcd) |
 | Mon, 28 Jul 2025 10:51:16 GMT | Day 7 of MCP Security: Identity Drift & Policy Misalignment in MCP Systems | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/8be21e307746) |
-| Mon, 28 Jul 2025 10:50:46 GMT | How I Dump a Full Source Code From a Private GitHub Repo — A Freelance VAPT Story | VETTRIVEL | [Read More](https://medium.com/p/60400f4188ae) |
-| Mon, 28 Jul 2025 10:48:02 GMT | How Fast Can Hackers Crack Your Password? | Karl Buhl | [Read More](https://medium.com/p/0ffba4704ee0) |
-| Mon, 28 Jul 2025 10:41:06 GMT | How One Logical vulnerability Opened the Gates | Foxy eye | [Read More](https://medium.com/p/dc9a088ced08) |
-| Mon, 28 Jul 2025 10:40:03 GMT | Chill Hack Write-Up (TryHackMe) | Mustafa Bostan | [Read More](https://medium.com/p/721d383ad072) |
-| Mon, 28 Jul 2025 10:34:50 GMT | McDonald’s Hiring Chatbot Security Breach: Is AI Really Secure? | Amzur Technologies, Inc. | [Read More](https://medium.com/p/31496e890995) |
-| Mon, 28 Jul 2025 10:31:26 GMT | ️ Web3 Security Weekly — July 21–27, 2025 | Null Return | [Read More](https://medium.com/p/1b1c0f3aee0f) |
-| Mon, 28 Jul 2025 10:27:50 GMT | The Ultimate Guide to Wi-Fi Hacking — Part 2 | Redfox Security | [Read More](https://medium.com/p/d00b5bad48c7) |
-| Mon, 28 Jul 2025 10:19:42 GMT | How to Secure Your PHP Backend with These Underrated Tricks | Asian Digital Hub | [Read More](https://medium.com/p/d1f8c8777f47) |
-| Mon, 28 Jul 2025 10:13:25 GMT | Perfect DevOps Example Project for your CV. Automate K8s Installation with Ansible Playbook | BecomeDevOps | [Read More](https://medium.com/p/9e676d9b7bd7) |
