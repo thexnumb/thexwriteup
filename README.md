@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 17:20:23 GMT | Inside the Hidden Internet: The Truth About the Dark Web | Anirudh PV | [Read More](https://medium.com/p/d1d852ec8666) |
+| Mon, 28 Jul 2025 17:19:26 GMT | Stop Leaving Bugs Behind with my new Recon Tool | Appsec.pt | [Read More](https://medium.com/p/627a9068f1b2) |
+| Mon, 28 Jul 2025 17:18:03 GMT | On-Prem SharePoint Vulnerabilities CVE-2025–53770/53771: Detection and Protection Guidance | VenariX, Inc. | [Read More](https://medium.com/p/57e072a7566c) |
+| Mon, 28 Jul 2025 17:15:32 GMT | N0aziXss SecureCrawl v3.1: The Automated Web Security Auditor | N0aziXss | [Read More](https://medium.com/p/1b437f5cf685) |
+| Mon, 28 Jul 2025 17:15:19 GMT | Blinding the Algorithms: Adversarial Attacks and Defense Techniques | Melike Ateş | [Read More](https://medium.com/p/dd953edd6e32) |
+| Mon, 28 Jul 2025 17:14:13 GMT | Goals of Information Security | Igor Berner | [Read More](https://medium.com/p/0efc50eba24c) |
+| Mon, 28 Jul 2025 17:12:41 GMT | AV (Antivirüs) ve EDR(Endpoint Detection and Response) Nedir ve Farkları Nelerdir? | Emin Eren KADIOĞLU | [Read More](https://medium.com/p/43122d54e0db) |
+| Mon, 28 Jul 2025 17:02:47 GMT | How I Built NeuroShell — An AI-Powered Terminal That Understands You | AI Unfiltered | [Read More](https://medium.com/p/26a7beb9b721) |
+| Mon, 28 Jul 2025 17:02:07 GMT | What is GRC in Cybersecurity? A Beginner-Friendly Breakdown of Governance, Risk & Compliance | Ginikachi Jessica Williams | [Read More](https://medium.com/p/b221383a4bb0) |
+| Mon, 28 Jul 2025 17:01:38 GMT | The 5 Dumbest Exploits I’ve Ever Seen (That Actually Worked)! | Faheem Anis | [Read More](https://medium.com/p/d11761fbc0dd) |
+| Mon, 28 Jul 2025 16:57:19 GMT | Buy PayPal Txt USA 616 2021156 dumps bank wu tras Cloned cc cvv | Albert | [Read More](https://medium.com/p/ced4a264c947) |
+| Mon, 28 Jul 2025 16:53:00 GMT | My Journey with Red Hat System Administration (RHSA) — What I Learned and What’s Next | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/abff49924a76) |
+| Mon, 28 Jul 2025 16:49:59 GMT | DockerLabs — PingCTF [Write-Up] | APS88 | [Read More](https://medium.com/p/02b2a40bff2e) |
+| Mon, 28 Jul 2025 16:34:55 GMT | Click, Type, Control: How Linux Lets You Design the Desktop Experience | MayhemCode | [Read More](https://medium.com/p/3dc0439e86ed) |
 | Mon, 28 Jul 2025 16:14:26 GMT | Top 10 Questions to Ask Your ISO 27001 Consultant | DEFEND MY BUSINESS | [Read More](https://medium.com/p/1ba43b9d4d51) |
 | Mon, 28 Jul 2025 16:13:38 GMT | BehindTheScreens: Cyber Blowback & AI Diplomacy (July 21–28, 2025) | Sam - Behind The Screens | [Read More](https://medium.com/p/6a656e07bb1c) |
 | Mon, 28 Jul 2025 16:12:20 GMT | A Part for Him; A Part for Me | DJ | [Read More](https://medium.com/p/437afb72b1ec) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 12:40:16 GMT | My Washing Machine Was Smarter Than Me… Until I Fought Back | CtrlC3 | [Read More](https://medium.com/p/a2e975843360) |
 | Mon, 28 Jul 2025 12:39:20 GMT | Oops, They Hacked the Subs: When National Security Goes Sideways | xhiddebx | [Read More](https://medium.com/p/aa1e9db2b987) |
 | Mon, 28 Jul 2025 12:39:13 GMT | Al jouw data veilig in Nederlandse datacenters | HostingFormule | [Read More](https://medium.com/p/e6ce3f26c7e3) |
-| Mon, 28 Jul 2025 12:36:05 GMT | They Know More Than Your Mother: The Invisible Trackers Following Your Every Click and How to Erase… | shawn anwar | [Read More](https://medium.com/p/851ecbed17df) |
-| Mon, 28 Jul 2025 12:36:04 GMT | THM:SQLMAP | Mohit Sharma | [Read More](https://medium.com/p/9fd83c8281d5) |
-| Mon, 28 Jul 2025 12:34:43 GMT | What is VAPT Testing? | Qualysectechnologies | [Read More](https://medium.com/p/fa864e9f5495) |
-| Mon, 28 Jul 2025 12:29:53 GMT | Scaling Enterprise Workflows with Java | RimshaKashif | [Read More](https://medium.com/p/02c3cce6c0ce) |
-| Mon, 28 Jul 2025 12:29:04 GMT | Are security and privacy by design services necessary? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/a4a9c609cc26) |
-| Mon, 28 Jul 2025 12:18:55 GMT | Aeroflot was hacked due to blatant and direct violations of basic cybersecurity principles | 0trust0day | [Read More](https://medium.com/p/518fb21e775c) |
-| Mon, 28 Jul 2025 12:18:06 GMT | How to Evaluate Vendors Offering Security and Privacy by Design Services | sanya | [Read More](https://medium.com/p/07d0092a2048) |
-| Mon, 28 Jul 2025 12:14:52 GMT | Top AI Security Careers: Land High-Demand Jobs Certified | Modern Security | [Read More](https://medium.com/p/9437b17f7a69) |
-| Mon, 28 Jul 2025 12:14:51 GMT | Windows & Linux Log Formatları, Event ID’ler | Muhammed Aziz Özaltın | [Read More](https://medium.com/p/afed29e9c36f) |
-| Mon, 28 Jul 2025 12:11:08 GMT | Should You Buy an iPhone 16 or Wait for the iPhone 17? | Aly Elvi | [Read More](https://medium.com/p/63651f2e4544) |
-| Mon, 28 Jul 2025 12:04:06 GMT | Cybercrime in India 2025: Key Threats & Legal Defenses | Sonia Rathi | [Read More](https://medium.com/p/f7d7a9e73540) |
-| Mon, 28 Jul 2025 12:03:15 GMT | Application Security Market Growth and Recent Trends, Forecast by 2031 | Anthena John | [Read More](https://medium.com/p/cf7b6beb4306) |
-| Mon, 28 Jul 2025 11:59:19 GMT | Hackthebox CBBH Çözümleri: “Web Attacks — Skills Assessment” Çözümü | Osman Can | [Read More](https://medium.com/p/8007a741e9fe) |
-| Mon, 28 Jul 2025 11:57:34 GMT | A Comprehensive Guide on Prompt Injection-Part 1 | Renu Khandelwal | [Read More](https://medium.com/p/855c9d63b8c6) |
