@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 09:28:32 GMT | Stored XSS into HTML context with nothing encoded | Peta Pavan | [Read More](https://medium.com/p/8f1b45650eff) |
+| Mon, 28 Jul 2025 09:26:17 GMT | Cybersecurity Solutions for Every Industry | Telepathy | [Read More](https://medium.com/p/e48568715b0e) |
+| Mon, 28 Jul 2025 09:22:01 GMT | Working with System Commands Using the subprocess Module - Python in cybersecurity | Mr Joe | [Read More](https://medium.com/p/fd851107a4d4) |
+| Mon, 28 Jul 2025 09:21:53 GMT | The Daily Tech Digest: 28 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/a92c3dbe408f) |
+| Mon, 28 Jul 2025 09:19:47 GMT | The Cybersecurity Mistakes You Don’t Know You’re Making | Shahzaib | [Read More](https://medium.com/p/a5f7064ca5e8) |
+| Mon, 28 Jul 2025 09:17:48 GMT | ️ Reflected XSS in the Wild — From Simple Input to Critical Access | Ali Ziro | [Read More](https://medium.com/p/4885a3b1ee1a) |
+| Mon, 28 Jul 2025 09:17:44 GMT | Why API Security Can’t Be an Afterthought Anymore | saurabh cyberinfomines | [Read More](https://medium.com/p/f709ff7e8abc) |
+| Mon, 28 Jul 2025 09:12:52 GMT | Everything You Need to Know About Cybersecurity Courses in 2025 | Zaina D | [Read More](https://medium.com/p/91696094462f) |
+| Mon, 28 Jul 2025 09:12:45 GMT | Pentesting isn’t just a test — it’s a mind game. | zahidul Islam Ratul | [Read More](https://medium.com/p/202aeee12e59) |
+| Mon, 28 Jul 2025 09:09:06 GMT | WordPress Malware Removal Service — Fix Hacked Site Fast - Fiverr Expert | Most. Jannatun Nime | [Read More](https://medium.com/p/78e424220b66) |
+| Mon, 28 Jul 2025 09:06:38 GMT | Top 5 Common Cyber Attacks You Must Know in 2025 | Cyber Achievers India | [Read More](https://medium.com/p/b995b29ccf82) |
+| Mon, 28 Jul 2025 09:02:44 GMT | Cybersecurity: A New Basic Skill for Indian Students | Cyber Achievers India | [Read More](https://medium.com/p/af792f682aef) |
+| Mon, 28 Jul 2025 09:02:18 GMT | Why Ongoing WordPress Maintenance Matters for Business Websites | Bhavesh Rajpurohit | [Read More](https://medium.com/p/914736ca8a31) |
+| Mon, 28 Jul 2025 09:01:39 GMT | I Breached a Hacker’s Platform by Reading Their Source Code | KonaN | [Read More](https://medium.com/p/620843c3c528) |
+| Mon, 28 Jul 2025 09:01:37 GMT | Rug Pulls and Red Flags: Don’t Let Shady Partners Yeet Your Crypto | Jeremiah shadams | [Read More](https://medium.com/p/1847e9ef47b4) |
+| Mon, 28 Jul 2025 08:59:52 GMT | Boost Your AI Career with Trainomart’s Deep Reinforcement Learning Online Course | Trainomart | [Read More](https://medium.com/p/bf3cd1ea8b74) |
+| Mon, 28 Jul 2025 08:49:42 GMT | Dedicated Server for Media: Why It’s Key for Streaming and Content Delivery | HostNOC | [Read More](https://medium.com/p/31c412339099) |
+| Mon, 28 Jul 2025 08:46:15 GMT | Mobile App VAPT: A Complete Guide to Securing Your App | West Advanced Technologies Inc | [Read More](https://medium.com/p/d630e2adc934) |
+| Mon, 28 Jul 2025 08:45:13 GMT | Robin Paul: A Rising Cybersecurity Mentor from the Telugu States | Cyber Achievers India | [Read More](https://medium.com/p/18c2732fb1d9) |
+| Mon, 28 Jul 2025 08:43:33 GMT | How I Used Surfshark VPN to Unlock Streaming, Privacy, and Free Internet in 2025 | Kambetastephano | [Read More](https://medium.com/p/0983a10339dc) |
+| Mon, 28 Jul 2025 08:38:40 GMT | When the AI Outsmarted Me: The Quiet War for Language Model Security | Aryan | [Read More](https://medium.com/p/77199dea3786) |
+| Mon, 28 Jul 2025 08:38:27 GMT | Surfshark VPN in 2025: Real-World Test & Stream Performance Review | Kambetastephano | [Read More](https://medium.com/p/ec1dd11b85e4) |
+| Mon, 28 Jul 2025 08:36:07 GMT | Secure your Laravel App: OWASP Top 10 + Beyond | Dominik | [Read More](https://medium.com/p/a10f823621f0) |
+| Mon, 28 Jul 2025 08:34:04 GMT | From Root User Risks to Role-Based Security: A Developer’s Guide to Not Getting Hacked on AWS | Emmanuel Odhiambo | [Read More](https://medium.com/p/ba2cb55056b5) |
+| Mon, 28 Jul 2025 08:32:46 GMT | ️ How I Automated Secret & PII Scanning in Jenkins with HashiCorp Vault Radar (In 5 Minutes) | Raymon Epping | [Read More](https://medium.com/p/ff5cbb383de5) |
 | Mon, 28 Jul 2025 08:30:41 GMT | Bureau Veritas is a solid cybersecurity benchmark — slightly tarnished by the public exposure of… | 0trust0day | [Read More](https://medium.com/p/ff2f2eb85fa9) |
 | Mon, 28 Jul 2025 08:26:31 GMT | HTB — Code - Easy - Writeup | Shibin B Shaji | [Read More](https://medium.com/p/44ad4a2d2b8f) |
 | Mon, 28 Jul 2025 08:22:42 GMT | Qualification Required for Cybersecurity Course - Craw Security | Crawsec | [Read More](https://medium.com/p/3ee14e0d6de1) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 05:21:36 GMT | Top Certifications and Skills Every Cybersecurity Engineer Needs in 2025 | Edstellar Official | [Read More](https://medium.com/p/d286dc673777) |
 | Mon, 28 Jul 2025 05:20:48 GMT | Hunting GitHub Secrets Across Time and Space | Michael Schladt | [Read More](https://medium.com/p/69f6c258c63d) |
 | Mon, 28 Jul 2025 05:17:56 GMT | ТОП-5 приватних OSINT-компаній світу. Хто володіє даними — керує ситуацією | CYBERFIELD NET | [Read More](https://medium.com/p/3fdd3a516f3d) |
-| Mon, 28 Jul 2025 05:15:29 GMT | Cybersecurity Basics: A Deep Dive into Authentication Types | Jyoti Joshi | [Read More](https://medium.com/p/18f8d6f77683) |
-| Mon, 28 Jul 2025 05:09:11 GMT | AI Is Taking Over — Here's How You Can Start Learning It Today | Muhammad Kabir Adam | [Read More](https://medium.com/p/ba1d97cad7a2) |
-| Mon, 28 Jul 2025 05:08:35 GMT | DevSecOps Explained: From Fundamentals to Advanced Practice | Gopal Mohan | [Read More](https://medium.com/p/d84aebedce21) |
-| Mon, 28 Jul 2025 05:06:47 GMT | Are You Ready to Fortify or Fall? The 2025 Cyber Defense Revolution | ZENcurity | [Read More](https://medium.com/p/19341cd08201) |
-| Mon, 28 Jul 2025 04:50:16 GMT | Understanding API Security: Best Practices and Strategies | Vansh Khandelwal | [Read More](https://medium.com/p/c15b14072cec) |
-| Mon, 28 Jul 2025 04:38:43 GMT | How to Use FTP to Upload Files to WordPress Without Login | Smit Pipaliya | [Read More](https://medium.com/p/f768abc6b8c0) |
-| Mon, 28 Jul 2025 04:31:55 GMT | A Friendly Guide to Session Management, Cookies, and Authentication | Ayush Kumar | [Read More](https://medium.com/p/7361af099fbe) |
-| Mon, 28 Jul 2025 04:26:34 GMT | How Machine Learning Is Transforming Cybersecurity: Smarter Threat Detection for a Digital World | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/732834d04903) |
-| Mon, 28 Jul 2025 04:16:34 GMT | Pelatihan Sistem Manajemen Pengamanan (Security Management System) | Transindo Training | [Read More](https://medium.com/p/5a4b0c50f554) |
-| Mon, 28 Jul 2025 04:11:46 GMT | Powering Progress: The Critical Role of Secure Data Centers in Kuwait | expbhavya | [Read More](https://medium.com/p/f5c9c45ce001) |
-| Mon, 28 Jul 2025 03:55:39 GMT | AiGuard Security System by Guardian Integrated Security | Guardian Integrated Security | [Read More](https://medium.com/p/4a149df3209b) |
-| Mon, 28 Jul 2025 03:46:58 GMT | My Journey on the Web Requests Bug Bounty Pathway: A Different Approach to Note-Taking and Learning | Noble Mutoko | [Read More](https://medium.com/p/e7e335784fa1) |
-| Mon, 28 Jul 2025 03:43:45 GMT | Quantum-Secure Blockchain: Future-Proofing Web3 | Dukerearing | [Read More](https://medium.com/p/6cd30b20491b) |
-| Mon, 28 Jul 2025 03:38:54 GMT | Dev Mode Disaster: How an Open GraphQL Playground Let Me Query Everything, Including Your… | Iski | [Read More](https://medium.com/p/c2496948b162) |
-| Mon, 28 Jul 2025 03:38:12 GMT | How Penetration Testing Service Protects Your Business from Cyber Threats | Chatsm | [Read More](https://medium.com/p/6e5e94f0e732) |
-| Mon, 28 Jul 2025 03:31:36 GMT | Digital Crossroads: Critical Security Vulnerabilities Meet AI Policy Breakthrough | Akshat Ratanpal | [Read More](https://medium.com/p/2c62e52d6c55) |
-| Mon, 28 Jul 2025 03:31:36 GMT | Cracking the Signal: What the MTN Data Breach Teaches Us About Telecom Cybersecurity | Deven Chhajed | [Read More](https://medium.com/p/cafcf622cfc8) |
-| Mon, 28 Jul 2025 03:30:13 GMT | DevOps Explained | Praharsha Kumar | [Read More](https://medium.com/p/f5ea2bf7a359) |
-| Mon, 28 Jul 2025 03:19:04 GMT | About Me: A Teen Tech Enthusiast | Vedant Bansal | [Read More](https://medium.com/p/66cef66d26c6) |
-| Mon, 28 Jul 2025 03:12:15 GMT | How a Cursor User Lost $500,000 from Crypto Wallet | Mrinal Kanti Sardar | [Read More](https://medium.com/p/0a7067498fbc) |
-| Mon, 28 Jul 2025 03:00:12 GMT | As i silence my dreams from making a sound (Poetry) | Alyssa Skyes | [Read More](https://medium.com/p/3ac555f0f629) |
-| Mon, 28 Jul 2025 02:56:51 GMT | Digital Transformation and Cloud Computing: Powering the Future of Business | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/297cb62e7d95) |
-| Mon, 28 Jul 2025 02:40:25 GMT | How Blockchain Is Transforming Cybersecurity: Beyond Cryptocurrency | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/8daab049f015) |
-| Mon, 28 Jul 2025 02:36:53 GMT | Puzzle Node | Achmad Isma'il | [Read More](https://medium.com/p/98eaf0194ac3) |
-| Mon, 28 Jul 2025 02:30:59 GMT | Managing VPC Traffic Flow & Security in AWS | Meet Patel | [Read More](https://medium.com/p/7fa6418eb2c9) |
