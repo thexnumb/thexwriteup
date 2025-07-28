@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 18:27:17 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/0b2f6ee3827e) |
+| Mon, 28 Jul 2025 18:24:16 GMT | Putin Never Believed Ukraine Could Hit This Hard — Digitally | Leo Griffin | [Read More](https://medium.com/p/1dc51d780eb7) |
+| Mon, 28 Jul 2025 18:20:50 GMT | “All I Did Was Google — You Won’t Believe What I Discovered” | Ayeoritseju "Aye" Erumi | [Read More](https://medium.com/p/7f4ad8f5d28b) |
+| Mon, 28 Jul 2025 18:11:00 GMT | Logic Bombs: The Silent Code That Blows Up Your System From the Inside | Akshay Chauhan | [Read More](https://medium.com/p/267c2c987e3a) |
+| Mon, 28 Jul 2025 18:03:42 GMT | Cybersecurity issues in AI | Manpreet Singh | [Read More](https://medium.com/p/8670e966fcb0) |
+| Mon, 28 Jul 2025 18:02:50 GMT | Data-Structure Injection (DSI) in LLM Agents | Tomer Wetzler | [Read More](https://medium.com/p/818bbbba2713) |
+| Mon, 28 Jul 2025 18:01:07 GMT | Data-Structure Retrieval (DSR) for AI Interpretability | Tomer Wetzler | [Read More](https://medium.com/p/2c51fea5cc9a) |
+| Mon, 28 Jul 2025 17:57:54 GMT | Browser Hijackers: The Silent Takeover of Your Online Activity | SafeAeon Inc. | [Read More](https://medium.com/p/c6f2ef3a1251) |
+| Mon, 28 Jul 2025 17:55:17 GMT | AI vs. AI in Cybersecurity: How We’re Using Artificial Intelligence to Defend Against Smarter… | Vasanthi Sivasankar | [Read More](https://medium.com/p/d9992cd09168) |
+| Mon, 28 Jul 2025 17:54:16 GMT | TechMatter Joins Forces with DoctorPapers to Grow Its Healthcare RCM Services | Kurt Goodwin | [Read More](https://medium.com/p/6ebe07b4e9d6) |
+| Mon, 28 Jul 2025 17:53:53 GMT | Vulnerability Analysis: Tools and Techniques | Rushikesh G | [Read More](https://medium.com/p/24e2f2035fbc) |
+| Mon, 28 Jul 2025 17:49:33 GMT | Part I: Setting Up Python and the OpenAI API | Allie Hsu | [Read More](https://medium.com/p/478a2cf72492) |
+| Mon, 28 Jul 2025 17:46:33 GMT | ¿Qué es la Cyber Kill Chain y cuál es su función? | Tiziano Mass | [Read More](https://medium.com/p/a828d62660aa) |
+| Mon, 28 Jul 2025 17:43:47 GMT | Cracking Logins with Burp Suite: Brute Forcing Buggy Buy Like a Pro | Muneeza Badar | [Read More](https://medium.com/p/c38d5faad10c) |
 | Mon, 28 Jul 2025 17:35:55 GMT | The Cloud is Convenient — But Is It Safe? | Bhushan | [Read More](https://medium.com/p/949f08215fb3) |
+| Mon, 28 Jul 2025 17:33:21 GMT | The cringe gateway: When woo-woo becomes too precise to ignore | Alexis Vale | [Read More](https://medium.com/p/8a60bee21eb7) |
 | Mon, 28 Jul 2025 17:28:41 GMT | Dream Job-1 HackTheBox Sherlock | Krishna | [Read More](https://medium.com/p/325799c244a3) |
 | Mon, 28 Jul 2025 17:25:49 GMT | Vulnerabilidades en SharePoint On-Prem CVE-2025–53770/53771: Guía de Detección y Protección | VenariX, Inc. | [Read More](https://medium.com/p/f11308797da5) |
 | Mon, 28 Jul 2025 17:23:17 GMT | Alignment Engineering — A Unified Approach to Vulnerability and Volition in Modern LLMs | Tomer Wetzler | [Read More](https://medium.com/p/8c144133ffbf) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 13:21:51 GMT | Top Security Guard Services in Pune — Choose Paradigm for Trusted Protection | Paradigm Integrated Facility Management Services | [Read More](https://medium.com/p/c5669bcdcfbb) |
 | Mon, 28 Jul 2025 13:21:19 GMT | Don’t Ignore These VoIP Threats — Fix Them Now | Voizcall | [Read More](https://medium.com/p/b25f7775e409) |
 | Mon, 28 Jul 2025 13:21:01 GMT | Can You Really Take Over Netflix Accounts Easily | Ibtissam hammadi | [Read More](https://medium.com/p/1c29bb394d02) |
-| Mon, 28 Jul 2025 13:06:44 GMT | What Happens to an IOC If the Attack Fails? (Hint: It Still Matters) | Omar | [Read More](https://medium.com/p/0ad62e32abb2) |
-| Mon, 28 Jul 2025 13:05:50 GMT | Incident Management 101: How SOC Analysts Investigate Cyber Alerts | Geoffrey Blue-Jack | [Read More](https://medium.com/p/22534206cce9) |
-| Mon, 28 Jul 2025 13:05:07 GMT | KPMG CTF 2025 Writeup | KISHORERAM | [Read More](https://medium.com/p/217e7db468ba) |
-| Mon, 28 Jul 2025 13:04:30 GMT | Think Like a Hacker to Beat One: Master Ethical Hacking | Joshuaa Smi | [Read More](https://medium.com/p/f7d8740678a1) |
-| Mon, 28 Jul 2025 13:03:53 GMT | The Ultimate Guide to Selecting the Best Bank Deposit Bags for Your Business | Sofiamcmahon | [Read More](https://medium.com/p/4191ad7d30ea) |
-| Mon, 28 Jul 2025 13:00:48 GMT | Business Fiber Internet for Co-Working Spaces and Shared Offices | DEFEND MY BUSINESS | [Read More](https://medium.com/p/d996b3b26335) |
-| Mon, 28 Jul 2025 12:57:21 GMT | Vulnerable Directory + Broken Token Generator = Authorizing Every Hacker. Hacking Epam Systems | NnFace | [Read More](https://medium.com/p/706b77951b6c) |
-| Mon, 28 Jul 2025 12:54:44 GMT | Day 64: EternalBlue | Nile Okomo | [Read More](https://medium.com/p/7f320bf6b6b2) |
-| Mon, 28 Jul 2025 12:51:56 GMT | Could Your Business Intelligence Platform Be the Next Attack Vector? | Finstein.ai | [Read More](https://medium.com/p/fe6518ee71d6) |
-| Mon, 28 Jul 2025 12:51:20 GMT | Malware, Ransomware, and You: Why You Should Care (Even if You’re Not in IT) | Mahad Aqeel | [Read More](https://medium.com/p/1bc9aa234f4f) |
-| Mon, 28 Jul 2025 12:50:55 GMT | Top Security Services Companies in Bangalore: Why SouthWall Security Leads the Way | Southwallsecuritiesservice | [Read More](https://medium.com/p/9cc7e7b805c6) |
-| Mon, 28 Jul 2025 12:50:45 GMT | Building AI Systems That Run My Workflow End-to-End | RimshaKashif | [Read More](https://medium.com/p/2eb052fd5753) |
-| Mon, 28 Jul 2025 12:49:18 GMT | Exploits, Espionage, and Executive Orders: What This Week’s HPH Briefing Reveals About the State… | James Wright | [Read More](https://medium.com/p/726f6be54c92) |
-| Mon, 28 Jul 2025 12:43:51 GMT | Let’s Defend: 197 — SOC235 — Atlassian Confluence Broken Access Control 0-Day CVE-2023–22515 -… | EPereda | [Read More](https://medium.com/p/1cd6eee97318) |
-| Mon, 28 Jul 2025 12:43:48 GMT | Let’s Defend: 208 — SOC246 — Forced Authentication Detected - Writeup | EPereda | [Read More](https://medium.com/p/7c7b3e919e54) |
