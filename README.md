@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 11:16:11 GMT | The Role of AWS Certifications in IT Career Growth? | Mohammed Numan | [Read More](https://medium.com/p/8725b9134c91) |
+| Mon, 28 Jul 2025 11:13:18 GMT | Industrial Intrusion CTF (THM) — OT Challenge “Kaboom” Write-up | 0xZeus | [Read More](https://medium.com/p/abcdae7648f1) |
+| Mon, 28 Jul 2025 11:11:51 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5e73a3b5ddb0) |
+| Mon, 28 Jul 2025 11:08:28 GMT | Cybersecurity Is Not a just a Trend. | Sampson Jonny | [Read More](https://medium.com/p/3d83fbeb2b83) |
+| Mon, 28 Jul 2025 11:04:46 GMT | CVE-2025-30943 Technical Analysis | AbhirupKonwar | [Read More](https://medium.com/p/b59fa1e4782c) |
+| Mon, 28 Jul 2025 11:04:00 GMT | AI in Cybersecurity and Fraud Prevention: Transforming Digital Defense | TheCertExpert | [Read More](https://medium.com/p/d549b7dfc7b3) |
+| Mon, 28 Jul 2025 11:03:07 GMT | Mastering Velociraptor on TryHackMe: Blue Team Threat Hunting in Action | Furkanctiner | [Read More](https://medium.com/p/92f0cab1763a) |
+| Mon, 28 Jul 2025 11:01:37 GMT | Why “Automatic” Isn’t Always Your Friend: Uncovering the Hidden Pitfalls of IT Hardware Settings | Essential Nexus | [Read More](https://medium.com/p/1c4ac6eb6346) |
+| Mon, 28 Jul 2025 10:59:49 GMT | Cybercrime in India: Types, Vulnerabilities & Legal Solutions (2025 Guide) | Earning Handle | [Read More](https://medium.com/p/270425b20777) |
+| Mon, 28 Jul 2025 10:56:00 GMT | API Security Explained: Best Practices for Developers and Architects | Shraddha Zope-Ladhe | [Read More](https://medium.com/p/158b0339a195) |
+| Mon, 28 Jul 2025 10:53:01 GMT | AradığınSertifikalarBurada SİBER GÜVENLİK | Abdullah Narin | [Read More](https://medium.com/p/40b0d857bfcd) |
+| Mon, 28 Jul 2025 10:51:16 GMT | Day 7 of MCP Security: Identity Drift & Policy Misalignment in MCP Systems | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/8be21e307746) |
+| Mon, 28 Jul 2025 10:50:46 GMT | How I Dump a Full Source Code From a Private GitHub Repo — A Freelance VAPT Story | VETTRIVEL | [Read More](https://medium.com/p/60400f4188ae) |
+| Mon, 28 Jul 2025 10:48:02 GMT | How Fast Can Hackers Crack Your Password? | Karl Buhl | [Read More](https://medium.com/p/0ffba4704ee0) |
 | Mon, 28 Jul 2025 10:41:06 GMT | How One Logical vulnerability Opened the Gates | Foxy eye | [Read More](https://medium.com/p/dc9a088ced08) |
 | Mon, 28 Jul 2025 10:40:03 GMT | Chill Hack Write-Up (TryHackMe) | Mustafa Bostan | [Read More](https://medium.com/p/721d383ad072) |
 | Mon, 28 Jul 2025 10:34:50 GMT | McDonald’s Hiring Chatbot Security Breach: Is AI Really Secure? | Amzur Technologies, Inc. | [Read More](https://medium.com/p/31496e890995) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 07:20:10 GMT | KubePwn: The Ultimate Kubernetes Red & Blue Team — Container Breakout & Cluster Takeover in… | Deepanshu khanna | [Read More](https://medium.com/p/e3350b927844) |
 | Mon, 28 Jul 2025 07:19:41 GMT | NIST’s SP 800–18r2 Draft Is Here — A Unified Approach to Security, Privacy & Supply Chain Risk | Paritosh | [Read More](https://medium.com/p/d25ce7d60cc1) |
 | Mon, 28 Jul 2025 07:18:42 GMT | Land-Use Classifications: Common Errors at Field Level | scstech | [Read More](https://medium.com/p/e2cb2b1beb66) |
-| Mon, 28 Jul 2025 07:18:15 GMT | How Generative AI Will Prevent Cyberattacks by 2025 | Anika Sharma | [Read More](https://medium.com/p/77d097cc3d0a) |
-| Mon, 28 Jul 2025 07:17:18 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/b57bccf69b16) |
-| Mon, 28 Jul 2025 07:11:50 GMT | Beginner’s Guide to Active Reconnaissance (Part 3.3): TCP-Based Nmap Host Discovery Techniques | Ar-jay A. Ballaco | [Read More](https://medium.com/p/f0d159586da8) |
-| Mon, 28 Jul 2025 07:07:01 GMT | Surviving the Cut, but Drowning in Tasks: The Layoff Lottery’s Bitter Prize | Namir Sagheenanajar | [Read More](https://medium.com/p/eacf7cfd724c) |
-| Mon, 28 Jul 2025 07:05:40 GMT | From Regular Account to Admin: Reproducing CVE-2025–24000 in WordPress Post SMTP Plugin | Sector Cyber Security | [Read More](https://medium.com/p/8105ff85e274) |
-| Mon, 28 Jul 2025 07:05:08 GMT | Top 10 VAPT Services Providers in the UAE 2025: Leading Cybersecurity Services in Dubai | CyberSigma | [Read More](https://medium.com/p/ab16cef0e5de) |
-| Mon, 28 Jul 2025 07:04:41 GMT | CVE-2025–51985: SQL Injection Vulnerability in Netcore Cloudmail’s Forgot Password Endpoint | Rishabh Katiyar | [Read More](https://medium.com/p/a6b708379757) |
-| Mon, 28 Jul 2025 07:03:28 GMT | Build a Secure Future with Professional Cyber Security Training | Parimehra | [Read More](https://medium.com/p/7fcaf843a676) |
-| Mon, 28 Jul 2025 07:01:13 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/733b9c4ca5ff) |
-| Mon, 28 Jul 2025 06:53:23 GMT | Top 6 Electronic Surveillance Services in India | Suchandra Adhikary | [Read More](https://medium.com/p/d8a9169de5fb) |
-| Mon, 28 Jul 2025 06:51:22 GMT | Understanding and Improving Your SOC with SOC-CMM | Vaasudev | [Read More](https://medium.com/p/750820b60110) |
-| Mon, 28 Jul 2025 06:49:25 GMT | Email Testing Across Regions — Why You Need a Proxy | Alexa Clark | [Read More](https://medium.com/p/417c0aec0060) |
-| Mon, 28 Jul 2025 06:46:51 GMT | How I Bought a ₹4999 Course for Just ₹1 Using a Simple Logic Bug | Anupam Singh | [Read More](https://medium.com/p/111fecbe21c0) |
-| Mon, 28 Jul 2025 06:41:47 GMT | Why AI Vulnerabilities Could Topple Critical Infrastructure | Travis Ray Caverhill | [Read More](https://medium.com/p/ccee38aa67c1) |
