@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 10:41:06 GMT | How One Logical vulnerability Opened the Gates | Foxy eye | [Read More](https://medium.com/p/dc9a088ced08) |
+| Mon, 28 Jul 2025 10:40:03 GMT | Chill Hack Write-Up (TryHackMe) | Mustafa Bostan | [Read More](https://medium.com/p/721d383ad072) |
+| Mon, 28 Jul 2025 10:34:50 GMT | McDonald’s Hiring Chatbot Security Breach: Is AI Really Secure? | Amzur Technologies, Inc. | [Read More](https://medium.com/p/31496e890995) |
+| Mon, 28 Jul 2025 10:31:26 GMT | ️ Web3 Security Weekly — July 21–27, 2025 | Null Return | [Read More](https://medium.com/p/1b1c0f3aee0f) |
+| Mon, 28 Jul 2025 10:27:50 GMT | The Ultimate Guide to Wi-Fi Hacking — Part 2 | Redfox Security | [Read More](https://medium.com/p/d00b5bad48c7) |
 | Mon, 28 Jul 2025 10:19:42 GMT | How to Secure Your PHP Backend with These Underrated Tricks | Asian Digital Hub | [Read More](https://medium.com/p/d1f8c8777f47) |
 | Mon, 28 Jul 2025 10:13:25 GMT | Perfect DevOps Example Project for your CV. Automate K8s Installation with Ansible Playbook | BecomeDevOps | [Read More](https://medium.com/p/9e676d9b7bd7) |
 | Mon, 28 Jul 2025 10:13:18 GMT | How to Connect Splunk Cloud from a Deployment Server or Heavy Forwarder | Chandra Tadala | [Read More](https://medium.com/p/e48bc974c1fc) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 06:49:25 GMT | Email Testing Across Regions — Why You Need a Proxy | Alexa Clark | [Read More](https://medium.com/p/417c0aec0060) |
 | Mon, 28 Jul 2025 06:46:51 GMT | How I Bought a ₹4999 Course for Just ₹1 Using a Simple Logic Bug | Anupam Singh | [Read More](https://medium.com/p/111fecbe21c0) |
 | Mon, 28 Jul 2025 06:41:47 GMT | Why AI Vulnerabilities Could Topple Critical Infrastructure | Travis Ray Caverhill | [Read More](https://medium.com/p/ccee38aa67c1) |
-| Mon, 28 Jul 2025 06:38:22 GMT | How I Bypassed a Broken 2FA Implementation Using Response Manipulation | Anupam Singh | [Read More](https://medium.com/p/440aa03c8e6d) |
-| Mon, 28 Jul 2025 06:22:08 GMT | Automate the Hacker’s Mindset: The Full Guide to Prompt Engineering for Bug Bounties | Narendar Battula (nArEn) | [Read More](https://medium.com/p/414331239987) |
-| Mon, 28 Jul 2025 06:21:28 GMT | How I Found a Reflected XSS on AppyPie’s Template Search Page | Anupam Singh | [Read More](https://medium.com/p/7ddf3516d3f7) |
-| Mon, 28 Jul 2025 06:17:36 GMT | CVE-2025-30983 Technical Analysis | AbhirupKonwar | [Read More](https://medium.com/p/4bd30b2c9369) |
-| Mon, 28 Jul 2025 06:16:38 GMT | How Blockchain Is Changing Information Security Jobs | Nagaraj | [Read More](https://medium.com/p/099ab8f7e980) |
