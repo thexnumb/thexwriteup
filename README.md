@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 16:14:26 GMT | Top 10 Questions to Ask Your ISO 27001 Consultant | DEFEND MY BUSINESS | [Read More](https://medium.com/p/1ba43b9d4d51) |
+| Mon, 28 Jul 2025 16:13:38 GMT | BehindTheScreens: Cyber Blowback & AI Diplomacy (July 21–28, 2025) | Sam - Behind The Screens | [Read More](https://medium.com/p/6a656e07bb1c) |
+| Mon, 28 Jul 2025 16:12:20 GMT | A Part for Him; A Part for Me | DJ | [Read More](https://medium.com/p/437afb72b1ec) |
+| Mon, 28 Jul 2025 16:09:55 GMT | Help Shape the Future of CVEs with the CVE Consumer WG | CVE Program Blog | [Read More](https://medium.com/p/8aea02445477) |
+| Mon, 28 Jul 2025 16:09:52 GMT | How AI is Reshaping Threat Detection in Cybersecurity | Enrique Somoza | [Read More](https://medium.com/p/336e13c273bc) |
+| Mon, 28 Jul 2025 16:06:36 GMT | Ethics | Igor Berner | [Read More](https://medium.com/p/f15d33bc953e) |
+| Mon, 28 Jul 2025 15:58:23 GMT | It is a blessing (Confidential data) in disguise | wh0arey0u | [Read More](https://medium.com/p/e7c652103a91) |
+| Mon, 28 Jul 2025 15:56:06 GMT | What If Your Wallet Could Protect You at Gunpoint? | Abdulai Yorli Iddrisu | [Read More](https://medium.com/p/441af3ec4e5e) |
+| Mon, 28 Jul 2025 15:54:12 GMT | Why Law Firms Must Modernize Their IT Infrastructure to Stay Competitive | Josh Welch | [Read More](https://medium.com/p/42aeff6e413a) |
+| Mon, 28 Jul 2025 15:49:59 GMT | From Classroom to Real-World: My Journey into Information Systems | Anikeev Kirill | [Read More](https://medium.com/p/6fd17df6d719) |
+| Mon, 28 Jul 2025 15:44:32 GMT | Due Care and Due Diligence | Igor Berner | [Read More](https://medium.com/p/45e40d41b376) |
+| Mon, 28 Jul 2025 15:43:36 GMT | SOC 2 vs. ISO 27001: Which Security Certification Should Your Company Pursue First? | Josh Welch | [Read More](https://medium.com/p/9aa62bc3f1da) |
 | Mon, 28 Jul 2025 15:41:14 GMT | What Is Microsoft Defender for Endpoint? | Eyad Hasanato | [Read More](https://medium.com/p/dc0f54408163) |
 | Mon, 28 Jul 2025 15:40:52 GMT | Why Hackers Don’t Need You to Click Anymore | Ramya Sharma | [Read More](https://medium.com/p/5664d6367841) |
 | Mon, 28 Jul 2025 15:32:27 GMT | They Laughed at My “No JWT” Rule — Until Our Breach Post‑Mortem Went Viral (for the Right Reasons) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/3e427244463a) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 12:03:15 GMT | Application Security Market Growth and Recent Trends, Forecast by 2031 | Anthena John | [Read More](https://medium.com/p/cf7b6beb4306) |
 | Mon, 28 Jul 2025 11:59:19 GMT | Hackthebox CBBH Çözümleri: “Web Attacks — Skills Assessment” Çözümü | Osman Can | [Read More](https://medium.com/p/8007a741e9fe) |
 | Mon, 28 Jul 2025 11:57:34 GMT | A Comprehensive Guide on Prompt Injection-Part 1 | Renu Khandelwal | [Read More](https://medium.com/p/855c9d63b8c6) |
-| Mon, 28 Jul 2025 11:51:29 GMT | It’s Time to Learn About Ethical Hacking. Now Is the Time to Start Up | Shahzaib | [Read More](https://medium.com/p/31e31c4c6b03) |
-| Mon, 28 Jul 2025 11:51:03 GMT | HTTPS doesn’t guarantees 100% Security. Here’s Why. | Rabia Riaz | [Read More](https://medium.com/p/6c6dcf6fa716) |
-| Mon, 28 Jul 2025 11:34:36 GMT | Complete Guide to SOC Metrics: Measuring What Matters in Cybersecurity | ayub_91 | [Read More](https://medium.com/p/0d67fb37aaaf) |
-| Mon, 28 Jul 2025 11:32:51 GMT | €1500 bounty — How I Bypassed 403 Forbidden and Gained Access to the Intranet Portal. | Ashar Mahmood | [Read More](https://medium.com/p/3464f29f4ddb) |
-| Mon, 28 Jul 2025 11:32:34 GMT | The SharePoint Wake-Up Call: What GRC Professionals Must Learn from the Latest Wave of Attacks | Brittney Ginther | [Read More](https://medium.com/p/3e006f586192) |
-| Mon, 28 Jul 2025 11:25:59 GMT | Intro to Malware Analysis on TryHackMe: Understanding Malicious Code Step by Step | Furkanctiner | [Read More](https://medium.com/p/5d1e98c267e1) |
-| Mon, 28 Jul 2025 11:16:30 GMT | I Wrote a Cybersecurity Policy… Then Rewrote It. Here’s Why That Matters. | Gift Afortu | [Read More](https://medium.com/p/d95fddbbfc2b) |
-| Mon, 28 Jul 2025 11:16:11 GMT | The Role of AWS Certifications in IT Career Growth? | Mohammed Numan | [Read More](https://medium.com/p/8725b9134c91) |
-| Mon, 28 Jul 2025 11:16:08 GMT | Allianz Life Insurance Confirms Major Data Breach Affecting Customer Personal Information | ansiholan - aibriefnow.com | [Read More](https://medium.com/p/4781b4c001ad) |
-| Mon, 28 Jul 2025 11:15:10 GMT | Learning How To Write Again: The Art of Being Vulnerable and Appreciating Process. | Kora | [Read More](https://medium.com/p/7c3ab7c64413) |
-| Mon, 28 Jul 2025 11:13:18 GMT | Industrial Intrusion CTF (THM) — OT Challenge “Kaboom” Write-up | 0xZeus | [Read More](https://medium.com/p/abcdae7648f1) |
-| Mon, 28 Jul 2025 11:11:51 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5e73a3b5ddb0) |
