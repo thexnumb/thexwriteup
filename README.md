@@ -12,12 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 07:42:17 GMT | A Step-by-Step Guide to Choosing the Right ELV Service Provider in Dubai | Abhilashtec | [Read More](https://medium.com/p/355434acefdf) |
+| Mon, 28 Jul 2025 07:42:09 GMT | Yapay Zekâ ile Hayatımıza Giren Yeni Meslekler | AYŞE KIZILAY | [Read More](https://medium.com/p/2ca97ec8eb06) |
+| Mon, 28 Jul 2025 07:39:26 GMT | B2B Interactions in Insurance: A UX, Security, and Operational Dilemma | Joanna Stevens | [Read More](https://medium.com/p/6d5c9c1e0c1d) |
+| Mon, 28 Jul 2025 07:35:20 GMT | Root Detection in Android: Techniques, Bypassing Tools, and Strategic Remediation ️ | Amarnath_chukkapalli | [Read More](https://medium.com/p/f4b20821e84b) |
+| Mon, 28 Jul 2025 07:33:21 GMT | what i haven’t said out loud is… | lowercaseissue | [Read More](https://medium.com/p/f46287d447c1) |
+| Mon, 28 Jul 2025 07:31:06 GMT | Your ‘AI-Powered’ Product Might Be a Fancy Excel Sheet | Yash Gorasiya | [Read More](https://medium.com/p/50a4be4e43c6) |
+| Mon, 28 Jul 2025 07:30:06 GMT | Phishing in Hacking: How Hackers Steal Your Login Info and How You Can Protect Yourself | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/30d7270ae8fd) |
+| Mon, 28 Jul 2025 07:28:39 GMT | RDP — PORT 3389 | Very Lazy Tech | [Read More](https://medium.com/p/a46cc674d5e9) |
 | Mon, 28 Jul 2025 07:24:16 GMT | Penetrasyon Testine Giriş ve Temel Araçların Kullanımı | Sadıkcan Tuluk | [Read More](https://medium.com/p/db3508466121) |
 | Mon, 28 Jul 2025 07:21:20 GMT | Over 200,000 WordPress Sites at Risk! | cybrNK | [Read More](https://medium.com/p/4cd51f28a95c) |
 | Mon, 28 Jul 2025 07:20:10 GMT | KubePwn: The Ultimate Kubernetes Red & Blue Team — Container Breakout & Cluster Takeover in… | Deepanshu khanna | [Read More](https://medium.com/p/e3350b927844) |
 | Mon, 28 Jul 2025 07:19:41 GMT | NIST’s SP 800–18r2 Draft Is Here — A Unified Approach to Security, Privacy & Supply Chain Risk | Paritosh | [Read More](https://medium.com/p/d25ce7d60cc1) |
 | Mon, 28 Jul 2025 07:18:42 GMT | Land-Use Classifications: Common Errors at Field Level | scstech | [Read More](https://medium.com/p/e2cb2b1beb66) |
 | Mon, 28 Jul 2025 07:18:15 GMT | How Generative AI Will Prevent Cyberattacks by 2025 | Anika Sharma | [Read More](https://medium.com/p/77d097cc3d0a) |
+| Mon, 28 Jul 2025 07:17:18 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/b57bccf69b16) |
 | Mon, 28 Jul 2025 07:11:50 GMT | Beginner’s Guide to Active Reconnaissance (Part 3.3): TCP-Based Nmap Host Discovery Techniques | Ar-jay A. Ballaco | [Read More](https://medium.com/p/f0d159586da8) |
 | Mon, 28 Jul 2025 07:07:01 GMT | Surviving the Cut, but Drowning in Tasks: The Layoff Lottery’s Bitter Prize | Namir Sagheenanajar | [Read More](https://medium.com/p/eacf7cfd724c) |
 | Mon, 28 Jul 2025 07:05:40 GMT | From Regular Account to Admin: Reproducing CVE-2025–24000 in WordPress Post SMTP Plugin | Sector Cyber Security | [Read More](https://medium.com/p/8105ff85e274) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 00:31:05 GMT | How a Simple Sign-Up Test Exposed a Hidden Account Duplication Flaw | Monika sharma | [Read More](https://medium.com/p/58f97c99a1de) |
 | Mon, 28 Jul 2025 00:30:32 GMT | How I Found 50 Bugs With Just 3 Recon Tools | Ibtissam hammadi | [Read More](https://medium.com/p/42b2a004c141) |
 | Mon, 28 Jul 2025 00:14:29 GMT | Sharing is caring… Or is it? The hidden truth about VPNs that no one tells you. | Freddy Dordoni | [Read More](https://medium.com/p/25a7d6438b2a) |
-| Sun, 27 Jul 2025 23:44:35 GMT | Laravel Debugging: A Sweet Yet Treacherous Elixir | Abdellah Lamine | [Read More](https://medium.com/p/95649b5d9f38) |
-| Sun, 27 Jul 2025 23:24:14 GMT | HackTheBox — Exatlon Challenge Walkthrough (Rev) | Yusuf Bashir | [Read More](https://medium.com/p/37afce00dc1d) |
-| Sun, 27 Jul 2025 23:16:17 GMT | Global information security and infrastructure approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/d85bb9dcbbaa) |
-| Sun, 27 Jul 2025 23:14:20 GMT | Secure software development and threat modeling approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/118934037764) |
-| Sun, 27 Jul 2025 23:11:49 GMT | How Knowledge Graphs Can Supercharge Cyber Threat Intelligence | Michael Bocanegra | [Read More](https://medium.com/p/3788d4fa0bd9) |
-| Sun, 27 Jul 2025 23:02:39 GMT | CyberDefenders — Insider Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/8ce7f94a4418) |
-| Sun, 27 Jul 2025 23:02:29 GMT | BruteForceAI -The Future of Automated Login Attacks with AI Power | Javier Calderon Jr | [Read More](https://medium.com/p/c18330301da4) |
-| Sun, 27 Jul 2025 22:50:26 GMT | Title: The One with the eval() — A DOM-Based XSS That Got Personal | Mostafa Ghanem | [Read More](https://medium.com/p/80416c67cf9b) |
-| Sun, 27 Jul 2025 22:45:09 GMT | Day 63: Shellcodes | Nile Okomo | [Read More](https://medium.com/p/6f2fe2e790c0) |
