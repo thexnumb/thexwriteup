@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 14:23:28 GMT | How a Race Condition Let Me Buy $40,000 in Stocks With $2,500 | Ahmed adel | [Read More](https://medium.com/p/c377b710dff7) |
+| Mon, 28 Jul 2025 14:20:15 GMT | How to Look Into a Bug: Lessons from the Storming Phase of Team Development | DeepyaC | [Read More](https://medium.com/p/0ff32c4921e2) |
+| Mon, 28 Jul 2025 14:10:45 GMT | Unmasking the True Self | Leon Bloder | [Read More](https://medium.com/p/4e5f8229ef9a) |
+| Mon, 28 Jul 2025 14:09:34 GMT | NO! Apps Like Linq Still Don’t Make Sending Nudes Safe | Savvy Cyber Kids | [Read More](https://medium.com/p/cc7ac6e55ee5) |
+| Mon, 28 Jul 2025 14:09:20 GMT | Sextortion & Kids: What Parents & Teachers Need to Know | Savvy Cyber Kids | [Read More](https://medium.com/p/730f3c697ee9) |
+| Mon, 28 Jul 2025 14:08:58 GMT | The Downside of Screen Time for Babies | Savvy Cyber Kids | [Read More](https://medium.com/p/5f7debd4eb60) |
+| Mon, 28 Jul 2025 14:04:29 GMT | A Fractional CTO Is Not a One-Person Tech Department | Richard Hunting | [Read More](https://medium.com/p/71603418c102) |
+| Mon, 28 Jul 2025 14:02:58 GMT | Cyber Briefing: 2025.07.28 | CyberMaterial | [Read More](https://medium.com/p/2881ba6c2885) |
+| Mon, 28 Jul 2025 13:58:21 GMT | Can Neural Networks Be Chaotic? | Wendell Mouzali Ruiz | [Read More](https://medium.com/p/3ed53db29b5f) |
+| Mon, 28 Jul 2025 13:54:27 GMT | The Hidden Costs of FormData: Memory Leaks and Developer Frustration | Dennis Peter Munyao | [Read More](https://medium.com/p/21c2fa4650a2) |
+| Mon, 28 Jul 2025 13:51:09 GMT | Kubernetes Security Best Practices | Newsha Ozgoli | [Read More](https://medium.com/p/de8ab23353a1) |
+| Mon, 28 Jul 2025 13:45:51 GMT | Cybersecurity Basics: Protecting Your Digital Assets | TabTree IT Consulting Company | [Read More](https://medium.com/p/f9ed8ad214c3) |
+| Mon, 28 Jul 2025 13:43:48 GMT | Understanding the Software Supply Chain: Why It Matters More Than Ever | Sachin Sampras M | [Read More](https://medium.com/p/5ef66914b28b) |
 | Mon, 28 Jul 2025 13:35:03 GMT | Lessons from a $250,000 Blind XSS: Bug bounty Ultimate Payoff | Zino jo | [Read More](https://medium.com/p/1d0c57dbf914) |
 | Mon, 28 Jul 2025 13:34:59 GMT | Test It or Regret It… | Ayeoritseju "Aye" Erumi | [Read More](https://medium.com/p/5962ec17daae) |
 | Mon, 28 Jul 2025 13:31:02 GMT | Beyond Spreadsheets: How to Build a Business Case for GRC Software That Your CFO Can’t Ignore | Gurpreet Singh | [Read More](https://medium.com/p/eea6eb5088a9) |
+| Mon, 28 Jul 2025 13:28:56 GMT | Enhancing Your Security Systems with Tamper-Evident Packaging | Sofiamcmahon | [Read More](https://medium.com/p/eca7695a049c) |
 | Mon, 28 Jul 2025 13:28:30 GMT | Cybersecurity Services Company You Can Rely on for 24/7 Protection | Secure My ORG | [Read More](https://medium.com/p/3bef259895e6) |
 | Mon, 28 Jul 2025 13:25:37 GMT | Hack Like a Pro: Flashing ATTINY85 with UNO and Cracking Android 4-Digit PINs | Sourabh Panchal | [Read More](https://medium.com/p/386bd27844d7) |
 | Mon, 28 Jul 2025 13:25:02 GMT | From Info Ops to InfoSec | Shivinaa | [Read More](https://medium.com/p/0c2c61e3847d) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 09:52:03 GMT | nYour Guide to Retail, Payment, and Healthcare Kiosks in the UAE Market | Rakesh | [Read More](https://medium.com/p/fccce0c1bd90) |
 | Mon, 28 Jul 2025 09:52:01 GMT | ️ 7 Days to Kickstart Your Journey as a Cybersecurity Engineer | Rue | [Read More](https://medium.com/p/52daf2acdca2) |
 | Mon, 28 Jul 2025 09:50:48 GMT | How I’d Begin a Cybersecurity Career Today (Starting Completely from Scratch | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/f44bf8012999) |
-| Mon, 28 Jul 2025 09:50:04 GMT | Strengthening Software Supply Chain Security with SBOMs | IARM Information Security | [Read More](https://medium.com/p/727c070abbeb) |
-| Mon, 28 Jul 2025 09:49:59 GMT | Port Scanning with Python — Python in cybersecurity | Ezekiel peter | [Read More](https://medium.com/p/8cceafaa3c41) |
-| Mon, 28 Jul 2025 09:47:28 GMT | Unleashing the Power of Managed WiFi: The Smartest Network Solution for Modern Enterprises | Actcorp | [Read More](https://medium.com/p/4967fa6c8e31) |
-| Mon, 28 Jul 2025 09:43:50 GMT | Cisco Cyber Security Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/9e182bbe2c4c) |
-| Mon, 28 Jul 2025 09:40:43 GMT | Introduction to Sockets in Python (Python in cybersecurity) | Ezekiel peter | [Read More](https://medium.com/p/a165e50d1f15) |
-| Mon, 28 Jul 2025 09:37:06 GMT | Peace building in the Community. | Wem'Afrika | [Read More](https://medium.com/p/b9a67eb7a9a5) |
-| Mon, 28 Jul 2025 09:34:50 GMT | How to Configure Your Mac and iPhone for iOS Application Penetration Testing | Nishant Shekhar Singh | [Read More](https://medium.com/p/1e2ea1a7390a) |
-| Mon, 28 Jul 2025 09:30:49 GMT | Python in cybersecurity — Nmap Automation and Log Parsing for Suspicious Activity Detection | Mr Joe | [Read More](https://medium.com/p/b225e02bfd3c) |
-| Mon, 28 Jul 2025 09:28:32 GMT | Stored XSS into HTML context with nothing encoded | Peta Pavan | [Read More](https://medium.com/p/8f1b45650eff) |
-| Mon, 28 Jul 2025 09:26:17 GMT | Cybersecurity Solutions for Every Industry | Telepathy | [Read More](https://medium.com/p/e48568715b0e) |
-| Mon, 28 Jul 2025 09:22:01 GMT | Working with System Commands Using the subprocess Module - Python in cybersecurity | Mr Joe | [Read More](https://medium.com/p/fd851107a4d4) |
-| Mon, 28 Jul 2025 09:21:53 GMT | The Daily Tech Digest: 28 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/a92c3dbe408f) |
-| Mon, 28 Jul 2025 09:19:47 GMT | The Cybersecurity Mistakes You Don’t Know You’re Making | Shahzaib | [Read More](https://medium.com/p/a5f7064ca5e8) |
-| Mon, 28 Jul 2025 09:17:48 GMT | ️ Reflected XSS in the Wild — From Simple Input to Critical Access | Ali Ziro | [Read More](https://medium.com/p/4885a3b1ee1a) |
