@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 06:22:08 GMT | Automate the Hacker’s Mindset: The Full Guide to Prompt Engineering for Bug Bounties | Narendar Battula (nArEn) | [Read More](https://medium.com/p/414331239987) |
+| Mon, 28 Jul 2025 06:21:28 GMT | How I Found a Reflected XSS on AppyPie’s Template Search Page | Anupam Singh | [Read More](https://medium.com/p/7ddf3516d3f7) |
+| Mon, 28 Jul 2025 06:17:36 GMT | CVE-2025-30983 Technical Analysis | AbhirupKonwar | [Read More](https://medium.com/p/4bd30b2c9369) |
+| Mon, 28 Jul 2025 06:16:38 GMT | How Blockchain Is Changing Information Security Jobs | Nagaraj | [Read More](https://medium.com/p/099ab8f7e980) |
+| Mon, 28 Jul 2025 06:16:25 GMT | SafeLine vs. BunkerWeb: Which Open Source WAF Is Right for You? | AerieWhole123 | [Read More](https://medium.com/p/eba2bb9680a5) |
+| Mon, 28 Jul 2025 06:10:47 GMT | Technology Fatigue: The Hidden Cost of Modern Work | Ioana Balint | [Read More](https://medium.com/p/1de79d728f68) |
+| Mon, 28 Jul 2025 06:09:13 GMT | Are Refurbished PCs Safe for Online Banking and Work? Here’s the Truth | Recyclekart | [Read More](https://medium.com/p/0f269dfe7df5) |
+| Mon, 28 Jul 2025 06:08:56 GMT | The Hacker’s Paradise: Why 2025 Is the Best Year Yet for Cybercriminals | Sofia | [Read More](https://medium.com/p/d62d47df7109) |
+| Mon, 28 Jul 2025 06:08:02 GMT | ️ Investigating SSH Authentication Failures on Linux | Gözde | [Read More](https://medium.com/p/30ae275a0caf) |
+| Mon, 28 Jul 2025 06:04:13 GMT | Common Cyber Threats Everyone Should Know | Ayaan Ali Bhatti | [Read More](https://medium.com/p/a520857c0ae9) |
+| Mon, 28 Jul 2025 06:03:25 GMT | The Auth Apocalypse: Broken Authentication & Session Management Explored. | Yamini Yadav | [Read More](https://medium.com/p/ff4642c376e2) |
+| Mon, 28 Jul 2025 06:01:41 GMT | Same Vulnerability, Different Data: Uncovering Multiple IDOR Exposures on a Government Portal | Parag Bagade | [Read More](https://medium.com/p/02a26dd38c2f) |
+| Mon, 28 Jul 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Jul 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c3fdb3590a33) |
+| Mon, 28 Jul 2025 06:00:24 GMT | From CTFs to Career: | Satyam Pathania | [Read More](https://medium.com/p/bf352c61ecdf) |
+| Mon, 28 Jul 2025 05:55:14 GMT | Best Web Optimization Services in India | Ajath Infotech | [Read More](https://medium.com/p/746b8a37f3f1) |
 | Mon, 28 Jul 2025 05:44:40 GMT | “Oops, All My Selfies Are on the Dark Web”: When Dating Apps Get Hacked | xhiddebx | [Read More](https://medium.com/p/cbf8f2062192) |
 | Mon, 28 Jul 2025 05:43:32 GMT | Quantum Computing: The existential threat to my password? | CtrlC3 | [Read More](https://medium.com/p/edfcd2da808d) |
 | Mon, 28 Jul 2025 05:41:51 GMT | Building a ‘Wi-Fi Boy’: When Hacking Toys Becomes Serious Business | CtrlC3 | [Read More](https://medium.com/p/8b01758401c8) |
@@ -46,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 03:00:12 GMT | As i silence my dreams from making a sound (Poetry) | Alyssa Skyes | [Read More](https://medium.com/p/3ac555f0f629) |
 | Mon, 28 Jul 2025 02:56:51 GMT | Digital Transformation and Cloud Computing: Powering the Future of Business | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/297cb62e7d95) |
 | Mon, 28 Jul 2025 02:40:25 GMT | How Blockchain Is Transforming Cybersecurity: Beyond Cryptocurrency | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/8daab049f015) |
+| Mon, 28 Jul 2025 02:36:53 GMT | Puzzle Node | Achmad Isma'il | [Read More](https://medium.com/p/98eaf0194ac3) |
 | Mon, 28 Jul 2025 02:30:59 GMT | Managing VPC Traffic Flow & Security in AWS | Meet Patel | [Read More](https://medium.com/p/7fa6418eb2c9) |
 | Mon, 28 Jul 2025 02:23:04 GMT | Top 5 Ways Hackers Trick Employees (And How to Stop Them) | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/1965d2f332c8) |
 | Mon, 28 Jul 2025 01:58:42 GMT | I Almost Fell for a Fake Cybersecurity Internship — Here’s What You Need to Know Before You Do | Sujal Adhikari | [Read More](https://medium.com/p/81e6e50b42b6) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 21:43:55 GMT | Day 62: Even More Nmap | Nile Okomo | [Read More](https://medium.com/p/4aad1a4972c5) |
 | Sun, 27 Jul 2025 21:39:33 GMT | How to Start Bug Bounty in 2025 (Beginner’s Guide + Tips) | Mr Joe | [Read More](https://medium.com/p/24f98b55f3fd) |
 | Sun, 27 Jul 2025 21:39:00 GMT | VX AI Retro RPG | VXRL | [Read More](https://medium.com/p/7669b5f2dbe6) |
-| Sun, 27 Jul 2025 21:33:04 GMT | SQLMap — TryHackMe Walkthrough by Ishita Gandhi | Ishitagandhi | [Read More](https://medium.com/p/8ebb8f6b05b2) |
-| Sun, 27 Jul 2025 21:31:41 GMT | Working with System Commands Using the subprocess Module — Python in Cybersecurity | Mohammed Gabic | [Read More](https://medium.com/p/ab5d2e1155c9) |
-| Sun, 27 Jul 2025 21:28:17 GMT | Exposing the Rise of Job Scams Targeting Desperate Youth Searching for Job | Jagath Jayaprakash | [Read More](https://medium.com/p/b236a94b5a07) |
-| Sun, 27 Jul 2025 21:25:33 GMT | Build Practical Python Scripts for Cybersecurity | Mohammed Gabic | [Read More](https://medium.com/p/3154abc25cbb) |
-| Sun, 27 Jul 2025 21:21:49 GMT | Accessing Private Chats Without Email Verification | Ibtissam hammadi | [Read More](https://medium.com/p/1aeb29e3491a) |
-| Sun, 27 Jul 2025 21:17:51 GMT | Error Handling with Python in Cybersecurity Making Your Scripts More Reliable and Secure | Mohammed Gabic | [Read More](https://medium.com/p/4953162abee2) |
-| Sun, 27 Jul 2025 21:12:28 GMT | The Importance Of Choosing A Password Wallet | Zayne Harbison | [Read More](https://medium.com/p/da0db70b1550) |
-| Sun, 27 Jul 2025 21:04:48 GMT | File handling and log analysis with Python in Cyber security | Ekene Joseph | [Read More](https://medium.com/p/6c2a058c75b8) |
-| Sun, 27 Jul 2025 20:50:22 GMT | How To Fly Business Class For The Price Of Economy Using This Hack | Hash | [Read More](https://medium.com/p/773266de6f7e) |
-| Sun, 27 Jul 2025 20:50:07 GMT | Learning to swim in a Network ocean | Cypher | [Read More](https://medium.com/p/3f1c922bd453) |
-| Sun, 27 Jul 2025 20:36:39 GMT | Why Big Players Are Betting on Bitcoin And NFTs | Myxoplixx | [Read More](https://medium.com/p/fca4c959f36d) |
-| Sun, 27 Jul 2025 20:36:23 GMT | The Power of Information in the Digital Age: Why Staying Updated Matters More Than Ever | Fahadsyed | [Read More](https://medium.com/p/e0dd091e2aba) |
-| Sun, 27 Jul 2025 20:32:33 GMT | 0-Click Account Takeover via Password Reset | Piyush | [Read More](https://medium.com/p/f17143426a59) |
-| Sun, 27 Jul 2025 20:28:32 GMT | The Cyber Plague of 2030: When Smart Cities Went Dark | O. J. Okpabi | [Read More](https://medium.com/p/ae490ebfcf1b) |
-| Sun, 27 Jul 2025 20:28:26 GMT | How to Ruin Your Weekend: Building a DIY EDR | Itz.sanskarr | [Read More](https://medium.com/p/a8f6dc6f8da4) |
-| Sun, 27 Jul 2025 20:27:20 GMT | OSCP Linux Privilege Escalation | enigma_ | [Read More](https://medium.com/p/18c75248be91) |
