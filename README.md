@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 08:30:41 GMT | Bureau Veritas is a solid cybersecurity benchmark — slightly tarnished by the public exposure of… | 0trust0day | [Read More](https://medium.com/p/ff2f2eb85fa9) |
+| Mon, 28 Jul 2025 08:26:31 GMT | HTB — Code - Easy - Writeup | Shibin B Shaji | [Read More](https://medium.com/p/44ad4a2d2b8f) |
+| Mon, 28 Jul 2025 08:22:42 GMT | Qualification Required for Cybersecurity Course - Craw Security | Crawsec | [Read More](https://medium.com/p/3ee14e0d6de1) |
+| Mon, 28 Jul 2025 08:22:17 GMT | Free, Fast, and Secure: Why SafeLine WAF Deserves a Spot in Your Stack | Quella | [Read More](https://medium.com/p/6f84448fdee3) |
+| Mon, 28 Jul 2025 08:17:22 GMT | Cloudflare Abused by Cloudflare | Anatoliy Fedorenko | [Read More](https://medium.com/p/b32962714b0b) |
+| Mon, 28 Jul 2025 08:16:37 GMT | Password Reset Poisoning via Dangling Markup | Bash Overflow | [Read More](https://medium.com/p/ee7ee428d632) |
+| Mon, 28 Jul 2025 08:13:31 GMT | Carbon Black (P1:Overview): A Practical Guide/An Practical Training | Dean | [Read More](https://medium.com/p/ecd775d2e919) |
+| Mon, 28 Jul 2025 08:12:12 GMT | EU AI Act Article 15: Understanding Accuracy, Robustness, and Cybersecurity | Şaban İbrahim GÖKSAL | [Read More](https://medium.com/p/a0b8eacb83e2) |
+| Mon, 28 Jul 2025 08:10:15 GMT | Is Your Website Being Fooled by VPNs & Proxies? | Fraudo.io | [Read More](https://medium.com/p/2dd512d97bd2) |
+| Mon, 28 Jul 2025 08:10:09 GMT | Tea Dating App Breach Exposes 72,000 Private Images | Azeeza | [Read More](https://medium.com/p/1c40a76b314a) |
+| Mon, 28 Jul 2025 08:08:07 GMT | Converting A Private Key Into a Public Address on Ethereum | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/13694f51c790) |
+| Mon, 28 Jul 2025 08:04:25 GMT | Day 14- Understanding connection types and their functions | unica 02 | [Read More](https://medium.com/p/4414918ae3b3) |
+| Mon, 28 Jul 2025 08:02:47 GMT | How I solved my first 4 CTF challenges on PicoCTF | CosmicByte | [Read More](https://medium.com/p/87946fecb531) |
+| Mon, 28 Jul 2025 08:02:43 GMT | Why I pursued CompTIA A+ despite everyone saying it’s not useful | Maxime Siffert | [Read More](https://medium.com/p/26a651039818) |
+| Mon, 28 Jul 2025 08:02:39 GMT | CVE-2025–53770: A Critical Zero-Day RCE Vulnerability in Microsoft SharePoint Server | iMaggs | [Read More](https://medium.com/p/6459d51011ac) |
+| Mon, 28 Jul 2025 07:59:56 GMT | I Am My Own Conflict !! | herstorycorner | [Read More](https://medium.com/p/ab27712d08ed) |
+| Mon, 28 Jul 2025 07:56:42 GMT | How I got Zero-Click Account Takeover (ATO) through Forgot Password | Kerolos Ayman | [Read More](https://medium.com/p/f15d9049e128) |
+| Mon, 28 Jul 2025 07:53:53 GMT | New Professions Emerging with Artificial Intelligence | AYŞE KIZILAY | [Read More](https://medium.com/p/eec3c6a98a90) |
+| Mon, 28 Jul 2025 07:52:50 GMT | Modern Cybercrime: Who’s Behind It and Who’s Stopping It | Netlas.io | [Read More](https://medium.com/p/6532ee547180) |
+| Mon, 28 Jul 2025 07:51:56 GMT | Hacker’s Internship Diaries — Week 2: OWASP A05 to A10 Explained — Dive Into SQLi & XSS | Mehmet Akif VARDAR | [Read More](https://medium.com/p/a50357266e75) |
+| Mon, 28 Jul 2025 07:51:43 GMT | CVE-2023–50164: New Struts2 Upload Vulnerability Explained | AerieWhole123 | [Read More](https://medium.com/p/5b2cf745f0b9) |
 | Mon, 28 Jul 2025 07:42:17 GMT | A Step-by-Step Guide to Choosing the Right ELV Service Provider in Dubai | Abhilashtec | [Read More](https://medium.com/p/355434acefdf) |
 | Mon, 28 Jul 2025 07:42:09 GMT | Yapay Zekâ ile Hayatımıza Giren Yeni Meslekler | AYŞE KIZILAY | [Read More](https://medium.com/p/2ca97ec8eb06) |
 | Mon, 28 Jul 2025 07:39:26 GMT | B2B Interactions in Insurance: A UX, Security, and Operational Dilemma | Joanna Stevens | [Read More](https://medium.com/p/6d5c9c1e0c1d) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 02:40:25 GMT | How Blockchain Is Transforming Cybersecurity: Beyond Cryptocurrency | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/8daab049f015) |
 | Mon, 28 Jul 2025 02:36:53 GMT | Puzzle Node | Achmad Isma'il | [Read More](https://medium.com/p/98eaf0194ac3) |
 | Mon, 28 Jul 2025 02:30:59 GMT | Managing VPC Traffic Flow & Security in AWS | Meet Patel | [Read More](https://medium.com/p/7fa6418eb2c9) |
-| Mon, 28 Jul 2025 02:23:04 GMT | Top 5 Ways Hackers Trick Employees (And How to Stop Them) | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/1965d2f332c8) |
-| Mon, 28 Jul 2025 01:58:42 GMT | I Almost Fell for a Fake Cybersecurity Internship — Here’s What You Need to Know Before You Do | Sujal Adhikari | [Read More](https://medium.com/p/81e6e50b42b6) |
-| Mon, 28 Jul 2025 01:52:20 GMT | Why Penetration Testing Matters for New Zealand Businesses in 2025 | Cyberoptic Security | [Read More](https://medium.com/p/e925de043fe9) |
-| Mon, 28 Jul 2025 01:51:01 GMT | Building Secure APIs: OAuth2, JWT & API Keys in Practice | Mahdi Jafari | [Read More](https://medium.com/p/eafe02937244) |
-| Mon, 28 Jul 2025 01:47:35 GMT | Dependabot Alert運用の実際と改善の取り組み | Daichi Harada | [Read More](https://medium.com/p/31900d6da0d1) |
-| Mon, 28 Jul 2025 01:43:20 GMT | Managing Information Services: Strategies, Challenges, and Best Practices | Afous A. | [Read More](https://medium.com/p/b1725f1e9c23) |
-| Mon, 28 Jul 2025 01:38:42 GMT | CyberSecurity Journal week 1 | Xavier Pena | [Read More](https://medium.com/p/9dd6b3ad8247) |
-| Mon, 28 Jul 2025 01:28:43 GMT | The Dark Side of Online Puppy Sales | Max | [Read More](https://medium.com/p/126207bae350) |
-| Mon, 28 Jul 2025 01:14:38 GMT | Does Ego or Pride Have a Place in Love? | @lenviedexister | [Read More](https://medium.com/p/aa6562f30d36) |
-| Mon, 28 Jul 2025 01:10:04 GMT | How I accessed WAF Bypass for Stored XSS Smart Idea | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/708082fcfa79) |
-| Mon, 28 Jul 2025 01:06:25 GMT | 100 Essays: Why Strangers Showed Up When My Loved Ones Didn’t | Sherene Jensen | [Read More](https://medium.com/p/d1a65b164f6a) |
-| Mon, 28 Jul 2025 01:04:37 GMT | Continuous Data Risk Exposure Management: A Primer | Nick Deshpande | [Read More](https://medium.com/p/db5896e6f204) |
-| Mon, 28 Jul 2025 01:00:44 GMT | End-to-End OSINT Investigation — From LinkedIn Sock-Puppet to Infrastructure Mapping | David SEHYEON Baek | [Read More](https://medium.com/p/a19b8c1997eb) |
-| Mon, 28 Jul 2025 00:41:45 GMT | Web Security 2025: Should You Disable JavaScript? | Aleksei Aleinikov | [Read More](https://medium.com/p/d15e05e23e1e) |
-| Mon, 28 Jul 2025 00:40:37 GMT | My JS Recon Stack: How I Mine JavaScript for Tokens, Endpoints, and Vulnerabilities | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d9692f650474) |
-| Mon, 28 Jul 2025 00:40:29 GMT | I Used usedJS to Find 100+ Vulnerabilities — Here’s How | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4c510fdb1f63) |
-| Mon, 28 Jul 2025 00:38:31 GMT | CI/CD Security 2025: Protecting Your Delivery Pipeline | Aleksei Aleinikov | [Read More](https://medium.com/p/6bdb86ceef14) |
-| Mon, 28 Jul 2025 00:31:40 GMT | Breaking Up With Old Ways: How AI Became My Professional Partner | Shahzaib | [Read More](https://medium.com/p/4a249a0f93a5) |
-| Mon, 28 Jul 2025 00:31:05 GMT | How a Simple Sign-Up Test Exposed a Hidden Account Duplication Flaw | Monika sharma | [Read More](https://medium.com/p/58f97c99a1de) |
-| Mon, 28 Jul 2025 00:30:32 GMT | How I Found 50 Bugs With Just 3 Recon Tools | Ibtissam hammadi | [Read More](https://medium.com/p/42b2a004c141) |
-| Mon, 28 Jul 2025 00:14:29 GMT | Sharing is caring… Or is it? The hidden truth about VPNs that no one tells you. | Freddy Dordoni | [Read More](https://medium.com/p/25a7d6438b2a) |
