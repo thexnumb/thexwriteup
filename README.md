@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 10:19:42 GMT | How to Secure Your PHP Backend with These Underrated Tricks | Asian Digital Hub | [Read More](https://medium.com/p/d1f8c8777f47) |
+| Mon, 28 Jul 2025 10:13:25 GMT | Perfect DevOps Example Project for your CV. Automate K8s Installation with Ansible Playbook | BecomeDevOps | [Read More](https://medium.com/p/9e676d9b7bd7) |
+| Mon, 28 Jul 2025 10:13:18 GMT | How to Connect Splunk Cloud from a Deployment Server or Heavy Forwarder | Chandra Tadala | [Read More](https://medium.com/p/e48bc974c1fc) |
+| Mon, 28 Jul 2025 10:10:07 GMT | What Is a Trading Terminal and Why Do Traders Rely on It? | LogiClump Technologies | [Read More](https://medium.com/p/c664e9753245) |
+| Mon, 28 Jul 2025 10:09:47 GMT | 您的資安投資有效嗎？用 BAS 驗證給你答案 | LKC-AGH-Expert | [Read More](https://medium.com/p/0125309bac9c) |
+| Mon, 28 Jul 2025 10:07:28 GMT | Adam Gale, Field CTO For AI & Cybersecurity At Netapp On Securing Critical Infrastructure In The… | Smithwilsontd | [Read More](https://medium.com/p/c78be8933dc7) |
+| Mon, 28 Jul 2025 10:06:56 GMT | Security Token Offering Platforms — Exploring Top 5 Platforms | Core Devs Ltd | [Read More](https://medium.com/p/1560689df12a) |
+| Mon, 28 Jul 2025 10:03:19 GMT | How Wi-Fi 7 and AI Together Will Redefine Connectivity | New Trend Computer Networks | [Read More](https://medium.com/p/40ac8638a722) |
+| Mon, 28 Jul 2025 09:59:50 GMT | TryHackMe-Linux Privilege Escalation Room (TASK 12) | Zahirov Rahid | [Read More](https://medium.com/p/522c5f32aedf) |
+| Mon, 28 Jul 2025 09:58:03 GMT | How to Learn Cybersecurity in 2025 — A Roadmap for Beginners | Ezekiel peter | [Read More](https://medium.com/p/129074f95a85) |
+| Mon, 28 Jul 2025 09:56:31 GMT | Top Endpoint Security Certification Program for Beginners | cyber security Updates | [Read More](https://medium.com/p/9fae47d33949) |
+| Mon, 28 Jul 2025 09:52:03 GMT | nYour Guide to Retail, Payment, and Healthcare Kiosks in the UAE Market | Rakesh | [Read More](https://medium.com/p/fccce0c1bd90) |
+| Mon, 28 Jul 2025 09:52:01 GMT | ️ 7 Days to Kickstart Your Journey as a Cybersecurity Engineer | Rue | [Read More](https://medium.com/p/52daf2acdca2) |
+| Mon, 28 Jul 2025 09:50:48 GMT | How I’d Begin a Cybersecurity Career Today (Starting Completely from Scratch | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/f44bf8012999) |
+| Mon, 28 Jul 2025 09:50:04 GMT | Strengthening Software Supply Chain Security with SBOMs | IARM Information Security | [Read More](https://medium.com/p/727c070abbeb) |
+| Mon, 28 Jul 2025 09:49:59 GMT | Port Scanning with Python — Python in cybersecurity | Ezekiel peter | [Read More](https://medium.com/p/8cceafaa3c41) |
+| Mon, 28 Jul 2025 09:47:28 GMT | Unleashing the Power of Managed WiFi: The Smartest Network Solution for Modern Enterprises | Actcorp | [Read More](https://medium.com/p/4967fa6c8e31) |
+| Mon, 28 Jul 2025 09:43:50 GMT | Cisco Cyber Security Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/9e182bbe2c4c) |
+| Mon, 28 Jul 2025 09:40:43 GMT | Introduction to Sockets in Python (Python in cybersecurity) | Ezekiel peter | [Read More](https://medium.com/p/a165e50d1f15) |
+| Mon, 28 Jul 2025 09:37:06 GMT | Peace building in the Community. | Wem'Afrika | [Read More](https://medium.com/p/b9a67eb7a9a5) |
+| Mon, 28 Jul 2025 09:34:50 GMT | How to Configure Your Mac and iPhone for iOS Application Penetration Testing | Nishant Shekhar Singh | [Read More](https://medium.com/p/1e2ea1a7390a) |
+| Mon, 28 Jul 2025 09:30:49 GMT | Python in cybersecurity — Nmap Automation and Log Parsing for Suspicious Activity Detection | Mr Joe | [Read More](https://medium.com/p/b225e02bfd3c) |
 | Mon, 28 Jul 2025 09:28:32 GMT | Stored XSS into HTML context with nothing encoded | Peta Pavan | [Read More](https://medium.com/p/8f1b45650eff) |
 | Mon, 28 Jul 2025 09:26:17 GMT | Cybersecurity Solutions for Every Industry | Telepathy | [Read More](https://medium.com/p/e48568715b0e) |
 | Mon, 28 Jul 2025 09:22:01 GMT | Working with System Commands Using the subprocess Module - Python in cybersecurity | Mr Joe | [Read More](https://medium.com/p/fd851107a4d4) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 06:21:28 GMT | How I Found a Reflected XSS on AppyPie’s Template Search Page | Anupam Singh | [Read More](https://medium.com/p/7ddf3516d3f7) |
 | Mon, 28 Jul 2025 06:17:36 GMT | CVE-2025-30983 Technical Analysis | AbhirupKonwar | [Read More](https://medium.com/p/4bd30b2c9369) |
 | Mon, 28 Jul 2025 06:16:38 GMT | How Blockchain Is Changing Information Security Jobs | Nagaraj | [Read More](https://medium.com/p/099ab8f7e980) |
-| Mon, 28 Jul 2025 06:16:25 GMT | SafeLine vs. BunkerWeb: Which Open Source WAF Is Right for You? | AerieWhole123 | [Read More](https://medium.com/p/eba2bb9680a5) |
-| Mon, 28 Jul 2025 06:10:47 GMT | Technology Fatigue: The Hidden Cost of Modern Work | Ioana Balint | [Read More](https://medium.com/p/1de79d728f68) |
-| Mon, 28 Jul 2025 06:09:13 GMT | Are Refurbished PCs Safe for Online Banking and Work? Here’s the Truth | Recyclekart | [Read More](https://medium.com/p/0f269dfe7df5) |
-| Mon, 28 Jul 2025 06:08:56 GMT | The Hacker’s Paradise: Why 2025 Is the Best Year Yet for Cybercriminals | Sofia | [Read More](https://medium.com/p/d62d47df7109) |
-| Mon, 28 Jul 2025 06:08:02 GMT | ️ Investigating SSH Authentication Failures on Linux | Gözde | [Read More](https://medium.com/p/30ae275a0caf) |
-| Mon, 28 Jul 2025 06:04:13 GMT | Common Cyber Threats Everyone Should Know | Ayaan Ali Bhatti | [Read More](https://medium.com/p/a520857c0ae9) |
-| Mon, 28 Jul 2025 06:03:25 GMT | The Auth Apocalypse: Broken Authentication & Session Management Explored. | Yamini Yadav | [Read More](https://medium.com/p/ff4642c376e2) |
-| Mon, 28 Jul 2025 06:01:41 GMT | Same Vulnerability, Different Data: Uncovering Multiple IDOR Exposures on a Government Portal | Parag Bagade | [Read More](https://medium.com/p/02a26dd38c2f) |
-| Mon, 28 Jul 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Jul 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c3fdb3590a33) |
-| Mon, 28 Jul 2025 06:00:24 GMT | From CTFs to Career: | Satyam Pathania | [Read More](https://medium.com/p/bf352c61ecdf) |
-| Mon, 28 Jul 2025 05:55:14 GMT | Best Web Optimization Services in India | Ajath Infotech | [Read More](https://medium.com/p/746b8a37f3f1) |
-| Mon, 28 Jul 2025 05:44:40 GMT | “Oops, All My Selfies Are on the Dark Web”: When Dating Apps Get Hacked | xhiddebx | [Read More](https://medium.com/p/cbf8f2062192) |
-| Mon, 28 Jul 2025 05:43:32 GMT | Quantum Computing: The existential threat to my password? | CtrlC3 | [Read More](https://medium.com/p/edfcd2da808d) |
-| Mon, 28 Jul 2025 05:41:51 GMT | Building a ‘Wi-Fi Boy’: When Hacking Toys Becomes Serious Business | CtrlC3 | [Read More](https://medium.com/p/8b01758401c8) |
-| Mon, 28 Jul 2025 05:37:23 GMT | The Linux Concept Journey — strace (System Call Tracing) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/11354f94b00d) |
-| Mon, 28 Jul 2025 05:35:29 GMT | Top Reasons to Conduct Routine Vulnerability Assessments and Penetration Tests in 2025 | Dmvikash | [Read More](https://medium.com/p/69cda7e86298) |
-| Mon, 28 Jul 2025 05:28:25 GMT | From Free to Enterprise: Threat Intelligence Platforms Explained | Adam Goss | [Read More](https://medium.com/p/d12c87f31af6) |
-| Mon, 28 Jul 2025 05:27:57 GMT | Tea, a women-only dating safety app, suffered a devastating breach, exposing over 72,000 sensitive… | TECHi | [Read More](https://medium.com/p/bdd9ba113c83) |
-| Mon, 28 Jul 2025 05:25:22 GMT | CEH vs OSCP: Which Cybersecurity Certification is Right for You? | InfosecTrain | [Read More](https://medium.com/p/848e2e9cc90f) |
-| Mon, 28 Jul 2025 05:21:36 GMT | Top Certifications and Skills Every Cybersecurity Engineer Needs in 2025 | Edstellar Official | [Read More](https://medium.com/p/d286dc673777) |
-| Mon, 28 Jul 2025 05:20:48 GMT | Hunting GitHub Secrets Across Time and Space | Michael Schladt | [Read More](https://medium.com/p/69f6c258c63d) |
-| Mon, 28 Jul 2025 05:17:56 GMT | ТОП-5 приватних OSINT-компаній світу. Хто володіє даними — керує ситуацією | CYBERFIELD NET | [Read More](https://medium.com/p/3fdd3a516f3d) |
