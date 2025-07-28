@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 05:44:40 GMT | “Oops, All My Selfies Are on the Dark Web”: When Dating Apps Get Hacked | xhiddebx | [Read More](https://medium.com/p/cbf8f2062192) |
+| Mon, 28 Jul 2025 05:43:32 GMT | Quantum Computing: The existential threat to my password? | CtrlC3 | [Read More](https://medium.com/p/edfcd2da808d) |
+| Mon, 28 Jul 2025 05:41:51 GMT | Building a ‘Wi-Fi Boy’: When Hacking Toys Becomes Serious Business | CtrlC3 | [Read More](https://medium.com/p/8b01758401c8) |
+| Mon, 28 Jul 2025 05:37:23 GMT | The Linux Concept Journey — strace (System Call Tracing) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/11354f94b00d) |
+| Mon, 28 Jul 2025 05:35:29 GMT | Top Reasons to Conduct Routine Vulnerability Assessments and Penetration Tests in 2025 | Dmvikash | [Read More](https://medium.com/p/69cda7e86298) |
+| Mon, 28 Jul 2025 05:28:25 GMT | From Free to Enterprise: Threat Intelligence Platforms Explained | Adam Goss | [Read More](https://medium.com/p/d12c87f31af6) |
+| Mon, 28 Jul 2025 05:27:57 GMT | Tea, a women-only dating safety app, suffered a devastating breach, exposing over 72,000 sensitive… | TECHi | [Read More](https://medium.com/p/bdd9ba113c83) |
+| Mon, 28 Jul 2025 05:25:22 GMT | CEH vs OSCP: Which Cybersecurity Certification is Right for You? | InfosecTrain | [Read More](https://medium.com/p/848e2e9cc90f) |
 | Mon, 28 Jul 2025 05:21:36 GMT | Top Certifications and Skills Every Cybersecurity Engineer Needs in 2025 | Edstellar Official | [Read More](https://medium.com/p/d286dc673777) |
 | Mon, 28 Jul 2025 05:20:48 GMT | Hunting GitHub Secrets Across Time and Space | Michael Schladt | [Read More](https://medium.com/p/69f6c258c63d) |
 | Mon, 28 Jul 2025 05:17:56 GMT | ТОП-5 приватних OSINT-компаній світу. Хто володіє даними — керує ситуацією | CYBERFIELD NET | [Read More](https://medium.com/p/3fdd3a516f3d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 20:28:32 GMT | The Cyber Plague of 2030: When Smart Cities Went Dark | O. J. Okpabi | [Read More](https://medium.com/p/ae490ebfcf1b) |
 | Sun, 27 Jul 2025 20:28:26 GMT | How to Ruin Your Weekend: Building a DIY EDR | Itz.sanskarr | [Read More](https://medium.com/p/a8f6dc6f8da4) |
 | Sun, 27 Jul 2025 20:27:20 GMT | OSCP Linux Privilege Escalation | enigma_ | [Read More](https://medium.com/p/18c75248be91) |
-| Sun, 27 Jul 2025 20:09:57 GMT | Extracting Database Information When Union Injection Fails | niko | [Read More](https://medium.com/p/c21cb6f866c1) |
-| Sun, 27 Jul 2025 19:59:47 GMT | AresGPT: A New Era of Network+ Training Begins | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/f90da3c0754b) |
-| Sun, 27 Jul 2025 19:44:22 GMT | Running Your First GPT-Powered Terminal Command | Ekene Joseph | [Read More](https://medium.com/p/b96519f830e4) |
-| Sun, 27 Jul 2025 19:40:37 GMT | Lists, Dictionaries, and Handling Data in Python for Cybersecurity | Ekene Joseph | [Read More](https://medium.com/p/02692aaebfeb) |
-| Sun, 27 Jul 2025 19:37:42 GMT | FCF-Fortinet Cyber Security Fundamentals 3.0 | Shibly Sadik | [Read More](https://medium.com/p/c006df27f3fc) |
-| Sun, 27 Jul 2025 19:31:24 GMT | Ghost in the Shell Was the Warning. Kurzweil Says the Merge Is the Plan. | Laura Ferrer | [Read More](https://medium.com/p/cd53fdef1dee) |
-| Sun, 27 Jul 2025 19:25:54 GMT | Cybercrime As A Career Path | O. J. Okpabi | [Read More](https://medium.com/p/b7da19dcbb24) |
-| Sun, 27 Jul 2025 19:25:02 GMT | ️ Automate Secret and PII Scanning in Jenkins With HashiCorp Vault Radar | Raymon Epping | [Read More](https://medium.com/p/27af771d2963) |
