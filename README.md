@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 22:09:31 GMT | Part 3 — Getting Started in Cyber Security — Offensive Operations & Compliance | Angu Nji | [Read More](https://medium.com/p/8b3354dffd2c) |
+| Mon, 28 Jul 2025 22:01:05 GMT | You’re Not Failing at Cybersecurity Job Search — The System Is Failing You | Mudassir Syed | [Read More](https://medium.com/p/ae92ca36860b) |
+| Mon, 28 Jul 2025 21:43:46 GMT | Friday Overtime — TryHackMe CTF Walkthrough | Asad Ali | [Read More](https://medium.com/p/22a20285a606) |
+| Mon, 28 Jul 2025 21:33:33 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/48fc9bb29fcb) |
 | Mon, 28 Jul 2025 21:20:09 GMT | The Tragedy of Half-Existence | Manu Pratap Singh | [Read More](https://medium.com/p/c1068e72594a) |
 | Mon, 28 Jul 2025 21:17:10 GMT | How Flash USDT Can Be Misunderstood | Toto | [Read More](https://medium.com/p/57e067346abe) |
 | Mon, 28 Jul 2025 21:16:37 GMT | Secure your remote MCP Server in the AWS Cloud | ML-Guy | [Read More](https://medium.com/p/ee91b4cfd104) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 15:56:06 GMT | What If Your Wallet Could Protect You at Gunpoint? | Abdulai Yorli Iddrisu | [Read More](https://medium.com/p/441af3ec4e5e) |
 | Mon, 28 Jul 2025 15:54:12 GMT | Why Law Firms Must Modernize Their IT Infrastructure to Stay Competitive | Josh Welch | [Read More](https://medium.com/p/42aeff6e413a) |
 | Mon, 28 Jul 2025 15:49:59 GMT | From Classroom to Real-World: My Journey into Information Systems | Anikeev Kirill | [Read More](https://medium.com/p/6fd17df6d719) |
-| Mon, 28 Jul 2025 15:44:32 GMT | Due Care and Due Diligence | Igor Berner | [Read More](https://medium.com/p/45e40d41b376) |
-| Mon, 28 Jul 2025 15:43:36 GMT | SOC 2 vs. ISO 27001: Which Security Certification Should Your Company Pursue First? | Josh Welch | [Read More](https://medium.com/p/9aa62bc3f1da) |
-| Mon, 28 Jul 2025 15:41:14 GMT | What Is Microsoft Defender for Endpoint? | Eyad Hasanato | [Read More](https://medium.com/p/dc0f54408163) |
-| Mon, 28 Jul 2025 15:40:52 GMT | Why Hackers Don’t Need You to Click Anymore | Ramya Sharma | [Read More](https://medium.com/p/5664d6367841) |
