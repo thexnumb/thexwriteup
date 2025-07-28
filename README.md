@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 20:11:29 GMT | How to Answer Apple’s Encryption Question When Submitting Your iOS App | Landon Johnson | [Read More](https://medium.com/p/4eb888ab9261) |
+| Mon, 28 Jul 2025 20:00:32 GMT | Raising a Digitally Safe Generation: Why Cybersecurity Education Must Begin in Elementary School | Paul  Cuffe | [Read More](https://medium.com/p/0572f1e04e24) |
+| Mon, 28 Jul 2025 19:57:09 GMT | DECODING INDIA: THE SECURITY ARCHITECTURE OF A RISING POWER | Ghost | [Read More](https://medium.com/p/f38d045cd4be) |
+| Mon, 28 Jul 2025 19:55:06 GMT | AppOps: The Future of Application Management and Secure Distribution | Robert Agyekum | [Read More](https://medium.com/p/12f4f3eef11b) |
+| Mon, 28 Jul 2025 19:54:54 GMT | En Yaygın Siber Saldırı Türleri-5 | Melek | [Read More](https://medium.com/p/3f7ae7ab4407) |
+| Mon, 28 Jul 2025 19:51:51 GMT | Arctic — HackTheBox Machine | Pedromoreiralopes | [Read More](https://medium.com/p/b5d34c2a183b) |
+| Mon, 28 Jul 2025 19:45:09 GMT | How to Create a Network Security Plan: A Step-by-Step Guide | IT_Engineer | [Read More](https://medium.com/p/3dba1818090f) |
+| Mon, 28 Jul 2025 19:44:44 GMT | ️ FlareGuard and the Future of Lightweight Security at the Edge | Harshad Kadam | [Read More](https://medium.com/p/8840ffe6cdd4) |
+| Mon, 28 Jul 2025 19:44:40 GMT | The Rise of Self-Aware Code: Why the Next Digital Assets Will Think for Themselves | Mic Kosana | [Read More](https://medium.com/p/4479e28ca0ef) |
+| Mon, 28 Jul 2025 19:43:31 GMT | Leadership & Success Podcast Interviews Matthew Rosenquist | Matthew.Rosenquist | [Read More](https://medium.com/p/da9870a5ea52) |
+| Mon, 28 Jul 2025 19:40:54 GMT | Ausencia de seguridad | 0xCByteS | [Read More](https://medium.com/p/eb8291be3775) |
+| Mon, 28 Jul 2025 19:40:50 GMT | They All Came Pre-Hacked: The Persistent Surveillance of My iPhone and Digital Identity (Part 1) | Daretoexpose | [Read More](https://medium.com/p/c869b34b0512) |
+| Mon, 28 Jul 2025 19:37:56 GMT | DAY 28 — Chapter 15: Automate Like a Hacker: Task Scheduling and rc Scripts in Linux | Jinay | [Read More](https://medium.com/p/4dc6cd644a38) |
+| Mon, 28 Jul 2025 19:37:09 GMT | Overview of the Most Common AI-Powered Cyber Threats in 2025 — Part 3 | WAITS Software- und Prozessberatungsgesellsch. mbH | [Read More](https://medium.com/p/e84af6be8d6d) |
 | Mon, 28 Jul 2025 19:29:04 GMT | Inside the Takedown: Technical Forensic Analysis of How Authorities Unmasked and Apprehended the… | X-3306 | [Read More](https://medium.com/p/4f0468b662f9) |
 | Mon, 28 Jul 2025 19:23:07 GMT | AI Pentesting with PTJunior from Vulnetic | Daniel Knight | [Read More](https://medium.com/p/b52e2699eedb) |
 | Mon, 28 Jul 2025 19:23:06 GMT | How I Coded My Way to Free Seats | Florian Kamps | [Read More](https://medium.com/p/3ed3de56148a) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 14:47:29 GMT | My Journey into Bug Bounty: A Fresh Start with Clear Goals | sl0th0x87 | [Read More](https://medium.com/p/e157ddaa23b5) |
 | Mon, 28 Jul 2025 14:45:07 GMT | The Dark Story Behind the Tea App Data Breach | Alper Konuralp | [Read More](https://medium.com/p/616b6385320c) |
 | Mon, 28 Jul 2025 14:44:10 GMT | Spatial Data shouldn’t be Hard. It should be Special | SeerAI | [Read More](https://medium.com/p/60652184b2d4) |
-| Mon, 28 Jul 2025 14:42:32 GMT | Tea Uygulaması Veri İhlalinin Arkasındaki Karanlık Hikaye | Alper Konuralp | [Read More](https://medium.com/p/6bd6b635f5fe) |
-| Mon, 28 Jul 2025 14:41:23 GMT | Mastering SQLMAP with TryHackMe: My First Step into SQL Injection | Vikash Yadav | [Read More](https://medium.com/p/6e4a208d8b87) |
-| Mon, 28 Jul 2025 14:35:38 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/d46d461830ad) |
-| Mon, 28 Jul 2025 14:34:05 GMT | Maximizing Cyber Defense with Advanced SIEM Remediation and XDR Solutions | Vijilan | [Read More](https://medium.com/p/b9156c05d040) |
-| Mon, 28 Jul 2025 14:33:59 GMT | The Quantum Apocalypse: Q-Day Is Here — And We’re Not Ready | Arun | [Read More](https://medium.com/p/72db8ec85bd3) |
-| Mon, 28 Jul 2025 14:30:44 GMT | Threat Intelligence Digest — Week Ending:July 27, 2025 [Free] | IndigoINT | [Read More](https://medium.com/p/aaf82bb188e6) |
-| Mon, 28 Jul 2025 14:29:35 GMT | TCS Layoffs Signal a New Era for India’s IT Workforce | Sowbaranic Raj | [Read More](https://medium.com/p/bc44ddf25ff4) |
-| Mon, 28 Jul 2025 14:23:29 GMT | Resilience by Design: The Role of the USDh Reserve Fund | Hermetica | [Read More](https://medium.com/p/2bfaa5de0a5a) |
-| Mon, 28 Jul 2025 14:23:28 GMT | How a Race Condition Let Me Buy $40,000 in Stocks With $2,500 | Ahmed adel | [Read More](https://medium.com/p/c377b710dff7) |
-| Mon, 28 Jul 2025 14:20:20 GMT | The SOC Analyst Job Application Process is Broken: Here’s Why and How to Fix It | Vijay Kumar Gupta | [Read More](https://medium.com/p/fcd7cb1efe71) |
-| Mon, 28 Jul 2025 14:20:15 GMT | How to Look Into a Bug: Lessons from the Storming Phase of Team Development | DeepyaC | [Read More](https://medium.com/p/0ff32c4921e2) |
-| Mon, 28 Jul 2025 14:10:45 GMT | Unmasking the True Self | Leon Bloder | [Read More](https://medium.com/p/4e5f8229ef9a) |
-| Mon, 28 Jul 2025 14:09:34 GMT | NO! Apps Like Linq Still Don’t Make Sending Nudes Safe | Savvy Cyber Kids | [Read More](https://medium.com/p/cc7ac6e55ee5) |
-| Mon, 28 Jul 2025 14:09:20 GMT | Sextortion & Kids: What Parents & Teachers Need to Know | Savvy Cyber Kids | [Read More](https://medium.com/p/730f3c697ee9) |
