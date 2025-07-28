@@ -12,9 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 13:35:03 GMT | Lessons from a $250,000 Blind XSS: Bug bounty Ultimate Payoff | Zino jo | [Read More](https://medium.com/p/1d0c57dbf914) |
+| Mon, 28 Jul 2025 13:34:59 GMT | Test It or Regret It… | Ayeoritseju "Aye" Erumi | [Read More](https://medium.com/p/5962ec17daae) |
+| Mon, 28 Jul 2025 13:31:02 GMT | Beyond Spreadsheets: How to Build a Business Case for GRC Software That Your CFO Can’t Ignore | Gurpreet Singh | [Read More](https://medium.com/p/eea6eb5088a9) |
+| Mon, 28 Jul 2025 13:28:30 GMT | Cybersecurity Services Company You Can Rely on for 24/7 Protection | Secure My ORG | [Read More](https://medium.com/p/3bef259895e6) |
+| Mon, 28 Jul 2025 13:25:37 GMT | Hack Like a Pro: Flashing ATTINY85 with UNO and Cracking Android 4-Digit PINs | Sourabh Panchal | [Read More](https://medium.com/p/386bd27844d7) |
+| Mon, 28 Jul 2025 13:25:02 GMT | From Info Ops to InfoSec | Shivinaa | [Read More](https://medium.com/p/0c2c61e3847d) |
+| Mon, 28 Jul 2025 13:21:59 GMT | DeltaPrime, Caterpillar Coin, and Bankroll Network Lose $7.6M | Olympix | [Read More](https://medium.com/p/959ec2273e83) |
+| Mon, 28 Jul 2025 13:21:51 GMT | Top Security Guard Services in Pune — Choose Paradigm for Trusted Protection | Paradigm Integrated Facility Management Services | [Read More](https://medium.com/p/c5669bcdcfbb) |
+| Mon, 28 Jul 2025 13:21:19 GMT | Don’t Ignore These VoIP Threats — Fix Them Now | Voizcall | [Read More](https://medium.com/p/b25f7775e409) |
+| Mon, 28 Jul 2025 13:21:01 GMT | Can You Really Take Over Netflix Accounts Easily | Ibtissam hammadi | [Read More](https://medium.com/p/1c29bb394d02) |
+| Mon, 28 Jul 2025 13:06:44 GMT | What Happens to an IOC If the Attack Fails? (Hint: It Still Matters) | Omar | [Read More](https://medium.com/p/0ad62e32abb2) |
+| Mon, 28 Jul 2025 13:05:50 GMT | Incident Management 101: How SOC Analysts Investigate Cyber Alerts | Geoffrey Blue-Jack | [Read More](https://medium.com/p/22534206cce9) |
+| Mon, 28 Jul 2025 13:05:07 GMT | KPMG CTF 2025 Writeup | KISHORERAM | [Read More](https://medium.com/p/217e7db468ba) |
+| Mon, 28 Jul 2025 13:04:30 GMT | Think Like a Hacker to Beat One: Master Ethical Hacking | Joshuaa Smi | [Read More](https://medium.com/p/f7d8740678a1) |
+| Mon, 28 Jul 2025 13:03:53 GMT | The Ultimate Guide to Selecting the Best Bank Deposit Bags for Your Business | Sofiamcmahon | [Read More](https://medium.com/p/4191ad7d30ea) |
+| Mon, 28 Jul 2025 13:00:48 GMT | Business Fiber Internet for Co-Working Spaces and Shared Offices | DEFEND MY BUSINESS | [Read More](https://medium.com/p/d996b3b26335) |
+| Mon, 28 Jul 2025 12:57:21 GMT | Vulnerable Directory + Broken Token Generator = Authorizing Every Hacker. Hacking Epam Systems | NnFace | [Read More](https://medium.com/p/706b77951b6c) |
+| Mon, 28 Jul 2025 12:54:44 GMT | Day 64: EternalBlue | Nile Okomo | [Read More](https://medium.com/p/7f320bf6b6b2) |
+| Mon, 28 Jul 2025 12:51:56 GMT | Could Your Business Intelligence Platform Be the Next Attack Vector? | Finstein.ai | [Read More](https://medium.com/p/fe6518ee71d6) |
+| Mon, 28 Jul 2025 12:51:20 GMT | Malware, Ransomware, and You: Why You Should Care (Even if You’re Not in IT) | Mahad Aqeel | [Read More](https://medium.com/p/1bc9aa234f4f) |
+| Mon, 28 Jul 2025 12:50:55 GMT | Top Security Services Companies in Bangalore: Why SouthWall Security Leads the Way | Southwallsecuritiesservice | [Read More](https://medium.com/p/9cc7e7b805c6) |
+| Mon, 28 Jul 2025 12:50:45 GMT | Building AI Systems That Run My Workflow End-to-End | RimshaKashif | [Read More](https://medium.com/p/2eb052fd5753) |
+| Mon, 28 Jul 2025 12:49:18 GMT | Exploits, Espionage, and Executive Orders: What This Week’s HPH Briefing Reveals About the State… | James Wright | [Read More](https://medium.com/p/726f6be54c92) |
 | Mon, 28 Jul 2025 12:43:51 GMT | Let’s Defend: 197 — SOC235 — Atlassian Confluence Broken Access Control 0-Day CVE-2023–22515 -… | EPereda | [Read More](https://medium.com/p/1cd6eee97318) |
 | Mon, 28 Jul 2025 12:43:48 GMT | Let’s Defend: 208 — SOC246 — Forced Authentication Detected - Writeup | EPereda | [Read More](https://medium.com/p/7c7b3e919e54) |
 | Mon, 28 Jul 2025 12:43:46 GMT | Let’s Defend: 214 — SOC251 — Quishing Detected (QR Code Phishing) - Writeup | EPereda | [Read More](https://medium.com/p/a41cc78f7e3f) |
+| Mon, 28 Jul 2025 12:40:16 GMT | My Washing Machine Was Smarter Than Me… Until I Fought Back | CtrlC3 | [Read More](https://medium.com/p/a2e975843360) |
 | Mon, 28 Jul 2025 12:39:20 GMT | Oops, They Hacked the Subs: When National Security Goes Sideways | xhiddebx | [Read More](https://medium.com/p/aa1e9db2b987) |
 | Mon, 28 Jul 2025 12:39:13 GMT | Al jouw data veilig in Nederlandse datacenters | HostingFormule | [Read More](https://medium.com/p/e6ce3f26c7e3) |
 | Mon, 28 Jul 2025 12:36:05 GMT | They Know More Than Your Mother: The Invisible Trackers Following Your Every Click and How to Erase… | shawn anwar | [Read More](https://medium.com/p/851ecbed17df) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 09:21:53 GMT | The Daily Tech Digest: 28 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/a92c3dbe408f) |
 | Mon, 28 Jul 2025 09:19:47 GMT | The Cybersecurity Mistakes You Don’t Know You’re Making | Shahzaib | [Read More](https://medium.com/p/a5f7064ca5e8) |
 | Mon, 28 Jul 2025 09:17:48 GMT | ️ Reflected XSS in the Wild — From Simple Input to Critical Access | Ali Ziro | [Read More](https://medium.com/p/4885a3b1ee1a) |
-| Mon, 28 Jul 2025 09:17:44 GMT | Why API Security Can’t Be an Afterthought Anymore | saurabh cyberinfomines | [Read More](https://medium.com/p/f709ff7e8abc) |
-| Mon, 28 Jul 2025 09:12:52 GMT | Everything You Need to Know About Cybersecurity Courses in 2025 | Zaina D | [Read More](https://medium.com/p/91696094462f) |
-| Mon, 28 Jul 2025 09:12:45 GMT | Pentesting isn’t just a test — it’s a mind game. | zahidul Islam Ratul | [Read More](https://medium.com/p/202aeee12e59) |
-| Mon, 28 Jul 2025 09:09:06 GMT | WordPress Malware Removal Service — Fix Hacked Site Fast - Fiverr Expert | Most. Jannatun Nime | [Read More](https://medium.com/p/78e424220b66) |
-| Mon, 28 Jul 2025 09:06:38 GMT | Top 5 Common Cyber Attacks You Must Know in 2025 | Cyber Achievers India | [Read More](https://medium.com/p/b995b29ccf82) |
-| Mon, 28 Jul 2025 09:02:44 GMT | Cybersecurity: A New Basic Skill for Indian Students | Cyber Achievers India | [Read More](https://medium.com/p/af792f682aef) |
-| Mon, 28 Jul 2025 09:02:18 GMT | Why Ongoing WordPress Maintenance Matters for Business Websites | Bhavesh Rajpurohit | [Read More](https://medium.com/p/914736ca8a31) |
-| Mon, 28 Jul 2025 09:01:39 GMT | I Breached a Hacker’s Platform by Reading Their Source Code | KonaN | [Read More](https://medium.com/p/620843c3c528) |
-| Mon, 28 Jul 2025 09:01:37 GMT | Rug Pulls and Red Flags: Don’t Let Shady Partners Yeet Your Crypto | Jeremiah shadams | [Read More](https://medium.com/p/1847e9ef47b4) |
-| Mon, 28 Jul 2025 08:59:52 GMT | Boost Your AI Career with Trainomart’s Deep Reinforcement Learning Online Course | Trainomart | [Read More](https://medium.com/p/bf3cd1ea8b74) |
-| Mon, 28 Jul 2025 08:49:42 GMT | Dedicated Server for Media: Why It’s Key for Streaming and Content Delivery | HostNOC | [Read More](https://medium.com/p/31c412339099) |
-| Mon, 28 Jul 2025 08:46:15 GMT | Mobile App VAPT: A Complete Guide to Securing Your App | West Advanced Technologies Inc | [Read More](https://medium.com/p/d630e2adc934) |
-| Mon, 28 Jul 2025 08:45:13 GMT | Robin Paul: A Rising Cybersecurity Mentor from the Telugu States | Cyber Achievers India | [Read More](https://medium.com/p/18c2732fb1d9) |
-| Mon, 28 Jul 2025 08:43:33 GMT | How I Used Surfshark VPN to Unlock Streaming, Privacy, and Free Internet in 2025 | Kambetastephano | [Read More](https://medium.com/p/0983a10339dc) |
-| Mon, 28 Jul 2025 08:38:40 GMT | When the AI Outsmarted Me: The Quiet War for Language Model Security | Aryan | [Read More](https://medium.com/p/77199dea3786) |
-| Mon, 28 Jul 2025 08:38:27 GMT | Surfshark VPN in 2025: Real-World Test & Stream Performance Review | Kambetastephano | [Read More](https://medium.com/p/ec1dd11b85e4) |
-| Mon, 28 Jul 2025 08:36:07 GMT | Secure your Laravel App: OWASP Top 10 + Beyond | Dominik | [Read More](https://medium.com/p/a10f823621f0) |
-| Mon, 28 Jul 2025 08:34:04 GMT | From Root User Risks to Role-Based Security: A Developer’s Guide to Not Getting Hacked on AWS | Emmanuel Odhiambo | [Read More](https://medium.com/p/ba2cb55056b5) |
-| Mon, 28 Jul 2025 08:32:46 GMT | ️ How I Automated Secret & PII Scanning in Jenkins with HashiCorp Vault Radar (In 5 Minutes) | Raymon Epping | [Read More](https://medium.com/p/ff5cbb383de5) |
-| Mon, 28 Jul 2025 08:30:41 GMT | Bureau Veritas is a solid cybersecurity benchmark — slightly tarnished by the public exposure of… | 0trust0day | [Read More](https://medium.com/p/ff2f2eb85fa9) |
-| Mon, 28 Jul 2025 08:26:31 GMT | HTB — Code - Easy - Writeup | Shibin B Shaji | [Read More](https://medium.com/p/44ad4a2d2b8f) |
-| Mon, 28 Jul 2025 08:22:42 GMT | Qualification Required for Cybersecurity Course - Craw Security | Crawsec | [Read More](https://medium.com/p/3ee14e0d6de1) |
-| Mon, 28 Jul 2025 08:22:17 GMT | Free, Fast, and Secure: Why SafeLine WAF Deserves a Spot in Your Stack | Quella | [Read More](https://medium.com/p/6f84448fdee3) |
-| Mon, 28 Jul 2025 08:17:22 GMT | Cloudflare Abused by Cloudflare | Anatoliy Fedorenko | [Read More](https://medium.com/p/b32962714b0b) |
