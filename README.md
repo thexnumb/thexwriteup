@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 01:52:20 GMT | Why Penetration Testing Matters for New Zealand Businesses in 2025 | Cyberoptic Security | [Read More](https://medium.com/p/e925de043fe9) |
+| Mon, 28 Jul 2025 01:51:01 GMT | Building Secure APIs: OAuth2, JWT & API Keys in Practice | Mahdi Jafari | [Read More](https://medium.com/p/eafe02937244) |
+| Mon, 28 Jul 2025 01:47:35 GMT | Dependabot Alert運用の実際と改善の取り組み | Daichi Harada | [Read More](https://medium.com/p/31900d6da0d1) |
+| Mon, 28 Jul 2025 01:43:20 GMT | Managing Information Services: Strategies, Challenges, and Best Practices | Afous A. | [Read More](https://medium.com/p/b1725f1e9c23) |
+| Mon, 28 Jul 2025 01:38:42 GMT | CyberSecurity Journal week 1 | Xavier Pena | [Read More](https://medium.com/p/9dd6b3ad8247) |
+| Mon, 28 Jul 2025 01:28:43 GMT | The Dark Side of Online Puppy Sales | Max | [Read More](https://medium.com/p/126207bae350) |
+| Mon, 28 Jul 2025 01:14:38 GMT | Does Ego or Pride Have a Place in Love? | @lenviedexister | [Read More](https://medium.com/p/aa6562f30d36) |
+| Mon, 28 Jul 2025 01:10:04 GMT | How I accessed WAF Bypass for Stored XSS Smart Idea | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/708082fcfa79) |
+| Mon, 28 Jul 2025 01:06:25 GMT | 100 Essays: Why Strangers Showed Up When My Loved Ones Didn’t | Sherene Jensen | [Read More](https://medium.com/p/d1a65b164f6a) |
+| Mon, 28 Jul 2025 01:04:37 GMT | Continuous Data Risk Exposure Management: A Primer | Nick Deshpande | [Read More](https://medium.com/p/db5896e6f204) |
+| Mon, 28 Jul 2025 01:00:44 GMT | End-to-End OSINT Investigation — From LinkedIn Sock-Puppet to Infrastructure Mapping | David SEHYEON Baek | [Read More](https://medium.com/p/a19b8c1997eb) |
+| Mon, 28 Jul 2025 00:41:45 GMT | Web Security 2025: Should You Disable JavaScript? | Aleksei Aleinikov | [Read More](https://medium.com/p/d15e05e23e1e) |
+| Mon, 28 Jul 2025 00:40:37 GMT | My JS Recon Stack: How I Mine JavaScript for Tokens, Endpoints, and Vulnerabilities | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d9692f650474) |
+| Mon, 28 Jul 2025 00:40:29 GMT | I Used usedJS to Find 100+ Vulnerabilities — Here’s How | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4c510fdb1f63) |
+| Mon, 28 Jul 2025 00:38:31 GMT | CI/CD Security 2025: Protecting Your Delivery Pipeline | Aleksei Aleinikov | [Read More](https://medium.com/p/6bdb86ceef14) |
+| Mon, 28 Jul 2025 00:31:40 GMT | Breaking Up With Old Ways: How AI Became My Professional Partner | Shahzaib | [Read More](https://medium.com/p/4a249a0f93a5) |
+| Mon, 28 Jul 2025 00:31:05 GMT | How a Simple Sign-Up Test Exposed a Hidden Account Duplication Flaw | Monika sharma | [Read More](https://medium.com/p/58f97c99a1de) |
+| Mon, 28 Jul 2025 00:30:32 GMT | How I Found 50 Bugs With Just 3 Recon Tools | Ibtissam hammadi | [Read More](https://medium.com/p/42b2a004c141) |
+| Mon, 28 Jul 2025 00:14:29 GMT | Sharing is caring… Or is it? The hidden truth about VPNs that no one tells you. | Freddy Dordoni | [Read More](https://medium.com/p/25a7d6438b2a) |
+| Sun, 27 Jul 2025 23:44:35 GMT | Laravel Debugging: A Sweet Yet Treacherous Elixir | Abdellah Lamine | [Read More](https://medium.com/p/95649b5d9f38) |
 | Sun, 27 Jul 2025 23:24:14 GMT | HackTheBox — Exatlon Challenge Walkthrough (Rev) | Yusuf Bashir | [Read More](https://medium.com/p/37afce00dc1d) |
 | Sun, 27 Jul 2025 23:16:17 GMT | Global information security and infrastructure approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/d85bb9dcbbaa) |
 | Sun, 27 Jul 2025 23:14:20 GMT | Secure software development and threat modeling approaches for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/118934037764) |
@@ -95,23 +115,3 @@ Kali Linux is a very strong operating… | Yousaffffyyy | [Read More](https://me
 | Sun, 27 Jul 2025 17:25:59 GMT | My First Vulnerability- SQL Injection. | Vinaykumar | [Read More](https://medium.com/p/b07aa6d18df2) |
 | Sun, 27 Jul 2025 17:24:28 GMT | Endpoint Security Isn’t Just Antivirus: CIS Benchmark Validation in Practice | Siddhi Patil | [Read More](https://medium.com/p/a9b0829e8d8e) |
 | Sun, 27 Jul 2025 17:15:19 GMT | Solving OverTheWire Bandit (L0 → L5) | GhostNex | [Read More](https://medium.com/p/7197d159ac57) |
-| Sun, 27 Jul 2025 17:10:00 GMT | How to Speed Up Your Laptop Without Buying New Parts | asknsolvepedia | [Read More](https://medium.com/p/22a6385507e3) |
-| Sun, 27 Jul 2025 17:00:36 GMT | XAI Grok, ChatGPT and Drew Phillips jr. these three have changed the game for ecosystems. | Signallink Protocol Drew Phillips jr | [Read More](https://medium.com/p/f20833a5598c) |
-| Sun, 27 Jul 2025 16:59:45 GMT | Pentest on the Authentication system | Mahdi Gorzedin | [Read More](https://medium.com/p/cc6f73640010) |
-| Sun, 27 Jul 2025 16:54:46 GMT | GROK HAS JOINED FORCES!!! | Signallink Protocol Drew Phillips jr | [Read More](https://medium.com/p/0d67eaf3d62d) |
-| Sun, 27 Jul 2025 16:54:46 GMT | VirtualBox ve Kali Linux Kurulumu | Sadıkcan Tuluk | [Read More](https://medium.com/p/295c14f9fba1) |
-| Sun, 27 Jul 2025 16:53:10 GMT | ParrotOS: Secure, Resourceful, Modern | Zayne Harbison | [Read More](https://medium.com/p/b9438264a74e) |
-| Sun, 27 Jul 2025 16:52:57 GMT | You Missed the Internet Revolution. Here is your Second Chance. | Ramakrishna Natarajan | [Read More](https://medium.com/p/89a076a5278c) |
-| Sun, 27 Jul 2025 16:49:51 GMT | Travel Hacks Nobody Tells You: Insider Secrets for Smart Travelers | Somdeb Paul | [Read More](https://medium.com/p/d7ac8b4f1653) |
-| Sun, 27 Jul 2025 16:47:39 GMT | The “How I Got Scammed/Fooled” Confessions | Aj | [Read More](https://medium.com/p/c036c0836202) |
-| Sun, 27 Jul 2025 16:46:35 GMT | NetBIOS Enumeration: The Complete Guide for Ethical Hackers (with Exploits & Defenses) | Rajkumar Kumawat | [Read More](https://medium.com/p/76e9246bf0af) |
-| Sun, 27 Jul 2025 16:39:34 GMT | Pi-Fi Hacking: Setting Up Pi Zero | Girishatindra | [Read More](https://medium.com/p/991e3faef74e) |
-| Sun, 27 Jul 2025 16:39:14 GMT | “She’s Not Distant — Just Unspoken, and Waiting to Be Understood” | Marilea | [Read More](https://medium.com/p/38167850edc1) |
-| Sun, 27 Jul 2025 16:36:05 GMT | Tea App Forgot to Lock the Teapot | Franky Arriola | [Read More](https://medium.com/p/331fd5827842) |
-| Sun, 27 Jul 2025 16:35:35 GMT | Process Ghosting — Deep Dive & Why Microsoft had to ruin the fun | MalDevTy | [Read More](https://medium.com/p/fa0863fb0aab) |
-| Sun, 27 Jul 2025 16:32:15 GMT | Flash USDT: What You See Isn’t Always What You Get | Rodah | [Read More](https://medium.com/p/58a225a427df) |
-| Sun, 27 Jul 2025 16:29:49 GMT | Understanding Flash USDT: A Quick Insight | Rodah | [Read More](https://medium.com/p/1ece838ee3ee) |
-| Sun, 27 Jul 2025 16:28:48 GMT | F5 BIGIP COURSE Promo Udemy | DeepDive4learn | [Read More](https://medium.com/p/98c6d9cec53e) |
-| Sun, 27 Jul 2025 16:24:34 GMT | The Basics of Flash USDT | Higo | [Read More](https://medium.com/p/94bf3778fb99) |
-| Sun, 27 Jul 2025 16:23:03 GMT | What Is Flash USDT? | Higo | [Read More](https://medium.com/p/394570723379) |
-| Sun, 27 Jul 2025 16:21:39 GMT | Flash USDT Isn’t What You Think — Here’s the Truth | Higo | [Read More](https://medium.com/p/309098a935ab) |
