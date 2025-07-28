@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 04:38:43 GMT | How to Use FTP to Upload Files to WordPress Without Login | Smit Pipaliya | [Read More](https://medium.com/p/f768abc6b8c0) |
+| Mon, 28 Jul 2025 04:31:55 GMT | A Friendly Guide to Session Management, Cookies, and Authentication | Ayush Kumar | [Read More](https://medium.com/p/7361af099fbe) |
+| Mon, 28 Jul 2025 04:26:34 GMT | How Machine Learning Is Transforming Cybersecurity: Smarter Threat Detection for a Digital World | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/732834d04903) |
+| Mon, 28 Jul 2025 04:16:34 GMT | Pelatihan Sistem Manajemen Pengamanan (Security Management System) | Transindo Training | [Read More](https://medium.com/p/5a4b0c50f554) |
+| Mon, 28 Jul 2025 04:11:46 GMT | Powering Progress: The Critical Role of Secure Data Centers in Kuwait | expbhavya | [Read More](https://medium.com/p/f5c9c45ce001) |
+| Mon, 28 Jul 2025 03:55:39 GMT | AiGuard Security System by Guardian Integrated Security | Guardian Integrated Security | [Read More](https://medium.com/p/4a149df3209b) |
+| Mon, 28 Jul 2025 03:46:58 GMT | My Journey on the Web Requests Bug Bounty Pathway: A Different Approach to Note-Taking and Learning | Noble Mutoko | [Read More](https://medium.com/p/e7e335784fa1) |
 | Mon, 28 Jul 2025 03:43:45 GMT | Quantum-Secure Blockchain: Future-Proofing Web3 | Dukerearing | [Read More](https://medium.com/p/6cd30b20491b) |
 | Mon, 28 Jul 2025 03:38:54 GMT | Dev Mode Disaster: How an Open GraphQL Playground Let Me Query Everything, Including Your… | Iski | [Read More](https://medium.com/p/c2496948b162) |
 | Mon, 28 Jul 2025 03:38:12 GMT | How Penetration Testing Service Protects Your Business from Cyber Threats | Chatsm | [Read More](https://medium.com/p/6e5e94f0e732) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 19:13:30 GMT | What Is Cybersecurity — And Why It Matters Now More Than Ever | Vatsal Sharma | [Read More](https://medium.com/p/8ab95285d146) |
 | Sun, 27 Jul 2025 19:01:48 GMT | July 27, 2025 – Silent Grit, Strange Conversations, and System Commands | IamGhost | [Read More](https://medium.com/p/88f95ec90c03) |
 | Sun, 27 Jul 2025 18:59:37 GMT | Cybersecurity Burnout: A Personal Anecdote | KarmicDragoon92 | [Read More](https://medium.com/p/795daeff65b6) |
-| Sun, 27 Jul 2025 18:57:27 GMT | Adaptive AI: Entering the Fastlane Beyond Digital Transformation | Traderjohnd | [Read More](https://medium.com/p/88d21f9c10b3) |
-| Sun, 27 Jul 2025 18:55:03 GMT | Linking The Distributed Web With The Centralised Web — The Web Returns To Its Roots | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/fdbdc7648268) |
-| Sun, 27 Jul 2025 18:42:53 GMT | Decoding the encoded: JSON Web Tokens | Alapan Das | [Read More](https://medium.com/p/7ecc1462b133) |
-| Sun, 27 Jul 2025 18:42:28 GMT | When AI Takes the Wheel: Navigating Identity and Access in the Age of Autonomous Agents | Jamal Jones | [Read More](https://medium.com/p/863d2e333349) |
-| Sun, 27 Jul 2025 18:28:41 GMT | Navigating Japan's Cybersecurity Landscape | nolly | [Read More](https://medium.com/p/403c301e6d0a) |
-| Sun, 27 Jul 2025 18:28:25 GMT | Cybersecurity Compliance Is Easy — Until You Have to Keep It Up | Steven McDaniel | [Read More](https://medium.com/p/7bb8d154b2d4) |
-| Sun, 27 Jul 2025 18:26:47 GMT | HICA CTF- ON3_P1ECE - Jinchuriki - Hide Chopper - Walkthrough | Puniyatjangir | [Read More](https://medium.com/p/0b16c3e70473) |
