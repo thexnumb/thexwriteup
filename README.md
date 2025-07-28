@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 19:29:04 GMT | Inside the Takedown: Technical Forensic Analysis of How Authorities Unmasked and Apprehended the… | X-3306 | [Read More](https://medium.com/p/4f0468b662f9) |
+| Mon, 28 Jul 2025 19:23:07 GMT | AI Pentesting with PTJunior from Vulnetic | Daniel Knight | [Read More](https://medium.com/p/b52e2699eedb) |
+| Mon, 28 Jul 2025 19:23:06 GMT | How I Coded My Way to Free Seats | Florian Kamps | [Read More](https://medium.com/p/3ed3de56148a) |
+| Mon, 28 Jul 2025 19:20:31 GMT | Introducing the American Website & Email Secured Seal — Build Trust, Boost Conversions, and Stay… | American Ratings Team | [Read More](https://medium.com/p/3f4b14394af4) |
 | Mon, 28 Jul 2025 19:04:28 GMT | Dynamic Resolution: How Hackers Implement Elusive Command and Control Infrastructure | Ben Kofman | [Read More](https://medium.com/p/4caba9a29cad) |
 | Mon, 28 Jul 2025 19:02:45 GMT | Browser Extension Security: Analysing Malicious Extensions in the Wild | H1m3 | [Read More](https://medium.com/p/5bf134ab7fc3) |
 | Mon, 28 Jul 2025 19:01:36 GMT | How to Use a Crypto Wallet Like a Pro | The Wallet and The Heart | [Read More](https://medium.com/p/1fbf69d96271) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 14:10:45 GMT | Unmasking the True Self | Leon Bloder | [Read More](https://medium.com/p/4e5f8229ef9a) |
 | Mon, 28 Jul 2025 14:09:34 GMT | NO! Apps Like Linq Still Don’t Make Sending Nudes Safe | Savvy Cyber Kids | [Read More](https://medium.com/p/cc7ac6e55ee5) |
 | Mon, 28 Jul 2025 14:09:20 GMT | Sextortion & Kids: What Parents & Teachers Need to Know | Savvy Cyber Kids | [Read More](https://medium.com/p/730f3c697ee9) |
-| Mon, 28 Jul 2025 14:08:58 GMT | The Downside of Screen Time for Babies | Savvy Cyber Kids | [Read More](https://medium.com/p/5f7debd4eb60) |
-| Mon, 28 Jul 2025 14:04:29 GMT | A Fractional CTO Is Not a One-Person Tech Department | Richard Hunting | [Read More](https://medium.com/p/71603418c102) |
-| Mon, 28 Jul 2025 14:02:58 GMT | Cyber Briefing: 2025.07.28 | CyberMaterial | [Read More](https://medium.com/p/2881ba6c2885) |
-| Mon, 28 Jul 2025 13:58:21 GMT | Can Neural Networks Be Chaotic? | Wendell Mouzali Ruiz | [Read More](https://medium.com/p/3ed53db29b5f) |
