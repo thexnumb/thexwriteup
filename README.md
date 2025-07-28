@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 23:38:31 GMT | QSafe Wallet: The Last Lock | Fedoski | [Read More](https://medium.com/p/f1f4d30befa4) |
 | Mon, 28 Jul 2025 23:18:00 GMT | You Won’t Believe How Sophisticated This LNK Phishing Attack Is | Cyber-AppSec | [Read More](https://medium.com/p/f9738d5812a7) |
 | Mon, 28 Jul 2025 23:03:35 GMT | Clickjacking: Everything You Need to Know About This UI-Based Threat | محمد عمر | [Read More](https://medium.com/p/22a3ade82fba) |
 | Mon, 28 Jul 2025 23:02:56 GMT | Free Speech in Nigeria: Impact of The Cybercrimes (Prohibition, Prevention, Etc.)(Amendment) Act | SamObed Amedu | [Read More](https://medium.com/p/8bd4cfff2313) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 16:57:19 GMT | Buy PayPal Txt USA 616 2021156 dumps bank wu tras Cloned cc cvv | Albert | [Read More](https://medium.com/p/ced4a264c947) |
 | Mon, 28 Jul 2025 16:53:00 GMT | My Journey with Red Hat System Administration (RHSA) — What I Learned and What’s Next | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/abff49924a76) |
 | Mon, 28 Jul 2025 16:49:59 GMT | DockerLabs — PingCTF [Write-Up] | APS88 | [Read More](https://medium.com/p/02b2a40bff2e) |
-| Mon, 28 Jul 2025 16:34:55 GMT | Click, Type, Control: How Linux Lets You Design the Desktop Experience | MayhemCode | [Read More](https://medium.com/p/3dc0439e86ed) |
