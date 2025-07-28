@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 22:47:43 GMT | SQL injection vulnerability allowing login bypass | Zabed Ullah Poyel | [Read More](https://medium.com/p/2053316e5319) |
+| Mon, 28 Jul 2025 22:42:36 GMT | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Zabed Ullah Poyel | [Read More](https://medium.com/p/8a8e89db0537) |
+| Mon, 28 Jul 2025 22:35:19 GMT | Is Artificial Intelligence Democratizing or Monopolizing Learning? | Imperfect Code Academy | [Read More](https://medium.com/p/0402cb4bc685) |
+| Mon, 28 Jul 2025 22:23:41 GMT | Why Jesus Never Asked, “How’s Your Week Been?” | Dan Foster | [Read More](https://medium.com/p/6453c109e9fe) |
+| Mon, 28 Jul 2025 22:22:13 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/93f8af96511a) |
+| Mon, 28 Jul 2025 22:17:36 GMT | Building and Using Threat Intelligence Dashboards | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d72c811e6d37) |
 | Mon, 28 Jul 2025 22:09:31 GMT | Part 3 — Getting Started in Cyber Security — Offensive Operations & Compliance | Angu Nji | [Read More](https://medium.com/p/8b3354dffd2c) |
 | Mon, 28 Jul 2025 22:01:05 GMT | You’re Not Failing at Cybersecurity Job Search — The System Is Failing You | Mudassir Syed | [Read More](https://medium.com/p/ae92ca36860b) |
 | Mon, 28 Jul 2025 21:43:46 GMT | Friday Overtime — TryHackMe CTF Walkthrough | Asad Ali | [Read More](https://medium.com/p/22a20285a606) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 16:13:38 GMT | BehindTheScreens: Cyber Blowback & AI Diplomacy (July 21–28, 2025) | Sam - Behind The Screens | [Read More](https://medium.com/p/6a656e07bb1c) |
 | Mon, 28 Jul 2025 16:12:20 GMT | A Part for Him; A Part for Me | DJ | [Read More](https://medium.com/p/437afb72b1ec) |
 | Mon, 28 Jul 2025 16:09:55 GMT | Help Shape the Future of CVEs with the CVE Consumer WG | CVE Program Blog | [Read More](https://medium.com/p/8aea02445477) |
-| Mon, 28 Jul 2025 16:09:52 GMT | How AI is Reshaping Threat Detection in Cybersecurity | Enrique Somoza | [Read More](https://medium.com/p/336e13c273bc) |
-| Mon, 28 Jul 2025 16:06:36 GMT | Ethics | Igor Berner | [Read More](https://medium.com/p/f15d33bc953e) |
-| Mon, 28 Jul 2025 15:58:23 GMT | It is a blessing (Confidential data) in disguise | wh0arey0u | [Read More](https://medium.com/p/e7c652103a91) |
-| Mon, 28 Jul 2025 15:56:06 GMT | What If Your Wallet Could Protect You at Gunpoint? | Abdulai Yorli Iddrisu | [Read More](https://medium.com/p/441af3ec4e5e) |
-| Mon, 28 Jul 2025 15:54:12 GMT | Why Law Firms Must Modernize Their IT Infrastructure to Stay Competitive | Josh Welch | [Read More](https://medium.com/p/42aeff6e413a) |
-| Mon, 28 Jul 2025 15:49:59 GMT | From Classroom to Real-World: My Journey into Information Systems | Anikeev Kirill | [Read More](https://medium.com/p/6fd17df6d719) |
