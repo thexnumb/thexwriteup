@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 12:43:51 GMT | Let’s Defend: 197 — SOC235 — Atlassian Confluence Broken Access Control 0-Day CVE-2023–22515 -… | EPereda | [Read More](https://medium.com/p/1cd6eee97318) |
+| Mon, 28 Jul 2025 12:43:48 GMT | Let’s Defend: 208 — SOC246 — Forced Authentication Detected - Writeup | EPereda | [Read More](https://medium.com/p/7c7b3e919e54) |
+| Mon, 28 Jul 2025 12:43:46 GMT | Let’s Defend: 214 — SOC251 — Quishing Detected (QR Code Phishing) - Writeup | EPereda | [Read More](https://medium.com/p/a41cc78f7e3f) |
+| Mon, 28 Jul 2025 12:39:20 GMT | Oops, They Hacked the Subs: When National Security Goes Sideways | xhiddebx | [Read More](https://medium.com/p/aa1e9db2b987) |
+| Mon, 28 Jul 2025 12:39:13 GMT | Al jouw data veilig in Nederlandse datacenters | HostingFormule | [Read More](https://medium.com/p/e6ce3f26c7e3) |
+| Mon, 28 Jul 2025 12:36:05 GMT | They Know More Than Your Mother: The Invisible Trackers Following Your Every Click and How to Erase… | shawn anwar | [Read More](https://medium.com/p/851ecbed17df) |
+| Mon, 28 Jul 2025 12:36:04 GMT | THM:SQLMAP | Mohit Sharma | [Read More](https://medium.com/p/9fd83c8281d5) |
+| Mon, 28 Jul 2025 12:34:43 GMT | What is VAPT Testing? | Qualysectechnologies | [Read More](https://medium.com/p/fa864e9f5495) |
+| Mon, 28 Jul 2025 12:29:53 GMT | Scaling Enterprise Workflows with Java | RimshaKashif | [Read More](https://medium.com/p/02c3cce6c0ce) |
+| Mon, 28 Jul 2025 12:29:04 GMT | Are security and privacy by design services necessary? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/a4a9c609cc26) |
+| Mon, 28 Jul 2025 12:18:55 GMT | Aeroflot was hacked due to blatant and direct violations of basic cybersecurity principles | 0trust0day | [Read More](https://medium.com/p/518fb21e775c) |
+| Mon, 28 Jul 2025 12:18:06 GMT | How to Evaluate Vendors Offering Security and Privacy by Design Services | sanya | [Read More](https://medium.com/p/07d0092a2048) |
+| Mon, 28 Jul 2025 12:14:52 GMT | Top AI Security Careers: Land High-Demand Jobs Certified | Modern Security | [Read More](https://medium.com/p/9437b17f7a69) |
+| Mon, 28 Jul 2025 12:14:51 GMT | Windows & Linux Log Formatları, Event ID’ler | Muhammed Aziz Özaltın | [Read More](https://medium.com/p/afed29e9c36f) |
+| Mon, 28 Jul 2025 12:11:08 GMT | Should You Buy an iPhone 16 or Wait for the iPhone 17? | Aly Elvi | [Read More](https://medium.com/p/63651f2e4544) |
+| Mon, 28 Jul 2025 12:04:06 GMT | Cybercrime in India 2025: Key Threats & Legal Defenses | Sonia Rathi | [Read More](https://medium.com/p/f7d7a9e73540) |
+| Mon, 28 Jul 2025 12:03:15 GMT | Application Security Market Growth and Recent Trends, Forecast by 2031 | Anthena John | [Read More](https://medium.com/p/cf7b6beb4306) |
+| Mon, 28 Jul 2025 11:59:19 GMT | Hackthebox CBBH Çözümleri: “Web Attacks — Skills Assessment” Çözümü | Osman Can | [Read More](https://medium.com/p/8007a741e9fe) |
+| Mon, 28 Jul 2025 11:57:34 GMT | A Comprehensive Guide on Prompt Injection-Part 1 | Renu Khandelwal | [Read More](https://medium.com/p/855c9d63b8c6) |
+| Mon, 28 Jul 2025 11:51:29 GMT | It’s Time to Learn About Ethical Hacking. Now Is the Time to Start Up | Shahzaib | [Read More](https://medium.com/p/31e31c4c6b03) |
+| Mon, 28 Jul 2025 11:51:03 GMT | HTTPS doesn’t guarantees 100% Security. Here’s Why. | Rabia Riaz | [Read More](https://medium.com/p/6c6dcf6fa716) |
+| Mon, 28 Jul 2025 11:34:36 GMT | Complete Guide to SOC Metrics: Measuring What Matters in Cybersecurity | ayub_91 | [Read More](https://medium.com/p/0d67fb37aaaf) |
 | Mon, 28 Jul 2025 11:32:51 GMT | €1500 bounty — How I Bypassed 403 Forbidden and Gained Access to the Intranet Portal. | Ashar Mahmood | [Read More](https://medium.com/p/3464f29f4ddb) |
 | Mon, 28 Jul 2025 11:32:34 GMT | The SharePoint Wake-Up Call: What GRC Professionals Must Learn from the Latest Wave of Attacks | Brittney Ginther | [Read More](https://medium.com/p/3e006f586192) |
 | Mon, 28 Jul 2025 11:25:59 GMT | Intro to Malware Analysis on TryHackMe: Understanding Malicious Code Step by Step | Furkanctiner | [Read More](https://medium.com/p/5d1e98c267e1) |
@@ -27,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 11:03:07 GMT | Mastering Velociraptor on TryHackMe: Blue Team Threat Hunting in Action | Furkanctiner | [Read More](https://medium.com/p/92f0cab1763a) |
 | Mon, 28 Jul 2025 11:01:37 GMT | Why “Automatic” Isn’t Always Your Friend: Uncovering the Hidden Pitfalls of IT Hardware Settings | Essential Nexus | [Read More](https://medium.com/p/1c4ac6eb6346) |
 | Mon, 28 Jul 2025 10:59:49 GMT | Cybercrime in India: Types, Vulnerabilities & Legal Solutions (2025 Guide) | Earning Handle | [Read More](https://medium.com/p/270425b20777) |
+| Mon, 28 Jul 2025 10:59:37 GMT | Race Conditions Exploit (Hidden multi-step sequences) | CyrilLK | [Read More](https://medium.com/p/9a0b303fbaed) |
 | Mon, 28 Jul 2025 10:56:00 GMT | API Security Explained: Best Practices for Developers and Architects | Shraddha Zope-Ladhe | [Read More](https://medium.com/p/158b0339a195) |
 | Mon, 28 Jul 2025 10:53:01 GMT | AradığınSertifikalarBurada SİBER GÜVENLİK | Abdullah Narin | [Read More](https://medium.com/p/40b0d857bfcd) |
 | Mon, 28 Jul 2025 10:51:16 GMT | Day 7 of MCP Security: Identity Drift & Policy Misalignment in MCP Systems | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/8be21e307746) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 08:22:42 GMT | Qualification Required for Cybersecurity Course - Craw Security | Crawsec | [Read More](https://medium.com/p/3ee14e0d6de1) |
 | Mon, 28 Jul 2025 08:22:17 GMT | Free, Fast, and Secure: Why SafeLine WAF Deserves a Spot in Your Stack | Quella | [Read More](https://medium.com/p/6f84448fdee3) |
 | Mon, 28 Jul 2025 08:17:22 GMT | Cloudflare Abused by Cloudflare | Anatoliy Fedorenko | [Read More](https://medium.com/p/b32962714b0b) |
-| Mon, 28 Jul 2025 08:16:37 GMT | Password Reset Poisoning via Dangling Markup | Bash Overflow | [Read More](https://medium.com/p/ee7ee428d632) |
-| Mon, 28 Jul 2025 08:13:31 GMT | Carbon Black (P1:Overview): A Practical Guide/An Practical Training | Dean | [Read More](https://medium.com/p/ecd775d2e919) |
-| Mon, 28 Jul 2025 08:12:12 GMT | EU AI Act Article 15: Understanding Accuracy, Robustness, and Cybersecurity | Şaban İbrahim GÖKSAL | [Read More](https://medium.com/p/a0b8eacb83e2) |
-| Mon, 28 Jul 2025 08:10:15 GMT | Is Your Website Being Fooled by VPNs & Proxies? | Fraudo.io | [Read More](https://medium.com/p/2dd512d97bd2) |
-| Mon, 28 Jul 2025 08:10:09 GMT | Tea Dating App Breach Exposes 72,000 Private Images | Azeeza | [Read More](https://medium.com/p/1c40a76b314a) |
-| Mon, 28 Jul 2025 08:08:07 GMT | Converting A Private Key Into a Public Address on Ethereum | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/13694f51c790) |
-| Mon, 28 Jul 2025 08:04:25 GMT | Day 14- Understanding connection types and their functions | unica 02 | [Read More](https://medium.com/p/4414918ae3b3) |
-| Mon, 28 Jul 2025 08:02:47 GMT | How I solved my first 4 CTF challenges on PicoCTF | CosmicByte | [Read More](https://medium.com/p/87946fecb531) |
-| Mon, 28 Jul 2025 08:02:43 GMT | Why I pursued CompTIA A+ despite everyone saying it’s not useful | Maxime Siffert | [Read More](https://medium.com/p/26a651039818) |
-| Mon, 28 Jul 2025 08:02:39 GMT | CVE-2025–53770: A Critical Zero-Day RCE Vulnerability in Microsoft SharePoint Server | iMaggs | [Read More](https://medium.com/p/6459d51011ac) |
-| Mon, 28 Jul 2025 07:59:56 GMT | I Am My Own Conflict !! | herstorycorner | [Read More](https://medium.com/p/ab27712d08ed) |
-| Mon, 28 Jul 2025 07:56:42 GMT | How I got Zero-Click Account Takeover (ATO) through Forgot Password | Kerolos Ayman | [Read More](https://medium.com/p/f15d9049e128) |
-| Mon, 28 Jul 2025 07:53:53 GMT | New Professions Emerging with Artificial Intelligence | AYŞE KIZILAY | [Read More](https://medium.com/p/eec3c6a98a90) |
-| Mon, 28 Jul 2025 07:52:50 GMT | Modern Cybercrime: Who’s Behind It and Who’s Stopping It | Netlas.io | [Read More](https://medium.com/p/6532ee547180) |
-| Mon, 28 Jul 2025 07:51:56 GMT | Hacker’s Internship Diaries — Week 2: OWASP A05 to A10 Explained — Dive Into SQLi & XSS | Mehmet Akif VARDAR | [Read More](https://medium.com/p/a50357266e75) |
-| Mon, 28 Jul 2025 07:51:43 GMT | CVE-2023–50164: New Struts2 Upload Vulnerability Explained | AerieWhole123 | [Read More](https://medium.com/p/5b2cf745f0b9) |
-| Mon, 28 Jul 2025 07:42:17 GMT | A Step-by-Step Guide to Choosing the Right ELV Service Provider in Dubai | Abhilashtec | [Read More](https://medium.com/p/355434acefdf) |
-| Mon, 28 Jul 2025 07:42:09 GMT | Yapay Zekâ ile Hayatımıza Giren Yeni Meslekler | AYŞE KIZILAY | [Read More](https://medium.com/p/2ca97ec8eb06) |
-| Mon, 28 Jul 2025 07:39:26 GMT | B2B Interactions in Insurance: A UX, Security, and Operational Dilemma | Joanna Stevens | [Read More](https://medium.com/p/6d5c9c1e0c1d) |
-| Mon, 28 Jul 2025 07:35:20 GMT | Root Detection in Android: Techniques, Bypassing Tools, and Strategic Remediation ️ | Amarnath_chukkapalli | [Read More](https://medium.com/p/f4b20821e84b) |
-| Mon, 28 Jul 2025 07:33:21 GMT | what i haven’t said out loud is… | lowercaseissue | [Read More](https://medium.com/p/f46287d447c1) |
-| Mon, 28 Jul 2025 07:31:06 GMT | Your ‘AI-Powered’ Product Might Be a Fancy Excel Sheet | Yash Gorasiya | [Read More](https://medium.com/p/50a4be4e43c6) |
-| Mon, 28 Jul 2025 07:30:06 GMT | Phishing in Hacking: How Hackers Steal Your Login Info and How You Can Protect Yourself | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/30d7270ae8fd) |
