@@ -12,10 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 15:41:14 GMT | What Is Microsoft Defender for Endpoint? | Eyad Hasanato | [Read More](https://medium.com/p/dc0f54408163) |
+| Mon, 28 Jul 2025 15:40:52 GMT | Why Hackers Don’t Need You to Click Anymore | Ramya Sharma | [Read More](https://medium.com/p/5664d6367841) |
+| Mon, 28 Jul 2025 15:32:27 GMT | They Laughed at My “No JWT” Rule — Until Our Breach Post‑Mortem Went Viral (for the Right Reasons) | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/3e427244463a) |
+| Mon, 28 Jul 2025 15:31:51 GMT | Thwarting Cyber Attacks, Ensuring Business Continuity: How Rainbow Secure Safeguards Modern… | Dr. Shashi Karhail | [Read More](https://medium.com/p/6a1ae63c3329) |
+| Mon, 28 Jul 2025 15:31:12 GMT | How I Hacked My First Target — And What It Taught Me About Real-World Security | Priyansh | [Read More](https://medium.com/p/cfee18e2cf91) |
+| Mon, 28 Jul 2025 15:28:08 GMT | Contain your Agents: Running MCP Servers in Docker for safer, and reproducible, LLM Workflows | Sam Gallagher | [Read More](https://medium.com/p/dbda5afe2804) |
+| Mon, 28 Jul 2025 15:27:55 GMT | Built in Germany, Deployed Globally: Quarero Robotics Accelerates Production for Global Expansion | Presslink Media | [Read More](https://medium.com/p/f0721e6939e0) |
+| Mon, 28 Jul 2025 15:26:23 GMT | MAC Table Overflow - Port security | Samara Almursi Risha | [Read More](https://medium.com/p/f1a3d6fab73a) |
 | Mon, 28 Jul 2025 15:24:47 GMT | I EXPOSED ENTIRE FRAUD ECOSYSTEM OF CARDING OPERATIONS (CC CHECKER BOTS) ABUSING STRIPE MERCHANT… | Krivadna | [Read More](https://medium.com/p/d1bc0051ad4c) |
+| Mon, 28 Jul 2025 15:24:43 GMT | Hacking Windows Login Password via Utilman.exe Exploit | Pranav V | [Read More](https://medium.com/p/46ee997c86c0) |
 | Mon, 28 Jul 2025 15:17:47 GMT | News From OWASP: Securing Agentic Applications Guide 1.0 | noailabs | [Read More](https://medium.com/p/14d5d5fa8adf) |
 | Mon, 28 Jul 2025 15:17:14 GMT | Understanding CSRF and How to Prevent It in Your Application — Part 1 | Gokul Karthik | [Read More](https://medium.com/p/9178bbc828d7) |
 | Mon, 28 Jul 2025 15:15:49 GMT | The Most Dangerous Asset in Your Company? The One You Forgot. | Evgeny Ermakov | [Read More](https://medium.com/p/b4044e01e668) |
+| Mon, 28 Jul 2025 15:15:05 GMT | Threat Intelligence Digest — Week Ending:July 27th, 2025 [Paid] | IndigoINT | [Read More](https://medium.com/p/f6496a13fb6b) |
 | Mon, 28 Jul 2025 15:12:37 GMT | ⚠️ CVE‑2025‑32463 & CVE‑2025‑32462 — Sudo Privilege Escalation Flaws in Linux | Aditya Bhatt | [Read More](https://medium.com/p/543709ee6eba) |
 | Mon, 28 Jul 2025 15:07:25 GMT | Can I Haz Root? :: Absolute | Cyber Grover ‍ | [Read More](https://medium.com/p/e26351346943) |
 | Mon, 28 Jul 2025 14:55:15 GMT | Left The Country With A Suitcase. Built A $200 Million Company. | Millionaire Codes | [Read More](https://medium.com/p/654a25349ce8) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 11:15:10 GMT | Learning How To Write Again: The Art of Being Vulnerable and Appreciating Process. | Kora | [Read More](https://medium.com/p/7c3ab7c64413) |
 | Mon, 28 Jul 2025 11:13:18 GMT | Industrial Intrusion CTF (THM) — OT Challenge “Kaboom” Write-up | 0xZeus | [Read More](https://medium.com/p/abcdae7648f1) |
 | Mon, 28 Jul 2025 11:11:51 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5e73a3b5ddb0) |
-| Mon, 28 Jul 2025 11:08:28 GMT | Cybersecurity Is Not a just a Trend. | Sampson Jonny | [Read More](https://medium.com/p/3d83fbeb2b83) |
-| Mon, 28 Jul 2025 11:04:46 GMT | CVE-2025-30943 Technical Analysis | AbhirupKonwar | [Read More](https://medium.com/p/b59fa1e4782c) |
-| Mon, 28 Jul 2025 11:04:00 GMT | AI in Cybersecurity and Fraud Prevention: Transforming Digital Defense | TheCertExpert | [Read More](https://medium.com/p/d549b7dfc7b3) |
-| Mon, 28 Jul 2025 11:03:07 GMT | Mastering Velociraptor on TryHackMe: Blue Team Threat Hunting in Action | Furkanctiner | [Read More](https://medium.com/p/92f0cab1763a) |
-| Mon, 28 Jul 2025 11:01:37 GMT | Why “Automatic” Isn’t Always Your Friend: Uncovering the Hidden Pitfalls of IT Hardware Settings | Essential Nexus | [Read More](https://medium.com/p/1c4ac6eb6346) |
-| Mon, 28 Jul 2025 10:59:49 GMT | Cybercrime in India: Types, Vulnerabilities & Legal Solutions (2025 Guide) | Earning Handle | [Read More](https://medium.com/p/270425b20777) |
-| Mon, 28 Jul 2025 10:59:37 GMT | Race Conditions Exploit (Hidden multi-step sequences) | CyrilLK | [Read More](https://medium.com/p/9a0b303fbaed) |
-| Mon, 28 Jul 2025 10:56:00 GMT | API Security Explained: Best Practices for Developers and Architects | Shraddha Zope-Ladhe | [Read More](https://medium.com/p/158b0339a195) |
-| Mon, 28 Jul 2025 10:53:01 GMT | AradığınSertifikalarBurada SİBER GÜVENLİK | Abdullah Narin | [Read More](https://medium.com/p/40b0d857bfcd) |
-| Mon, 28 Jul 2025 10:51:16 GMT | Day 7 of MCP Security: Identity Drift & Policy Misalignment in MCP Systems | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/8be21e307746) |
