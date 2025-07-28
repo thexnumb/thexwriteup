@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 05:21:36 GMT | Top Certifications and Skills Every Cybersecurity Engineer Needs in 2025 | Edstellar Official | [Read More](https://medium.com/p/d286dc673777) |
+| Mon, 28 Jul 2025 05:20:48 GMT | Hunting GitHub Secrets Across Time and Space | Michael Schladt | [Read More](https://medium.com/p/69f6c258c63d) |
+| Mon, 28 Jul 2025 05:17:56 GMT | ТОП-5 приватних OSINT-компаній світу. Хто володіє даними — керує ситуацією | CYBERFIELD NET | [Read More](https://medium.com/p/3fdd3a516f3d) |
+| Mon, 28 Jul 2025 05:15:29 GMT | Cybersecurity Basics: A Deep Dive into Authentication Types | Jyoti Joshi | [Read More](https://medium.com/p/18f8d6f77683) |
+| Mon, 28 Jul 2025 05:09:11 GMT | AI Is Taking Over — Here's How You Can Start Learning It Today | Muhammad Kabir Adam | [Read More](https://medium.com/p/ba1d97cad7a2) |
+| Mon, 28 Jul 2025 05:08:35 GMT | DevSecOps Explained: From Fundamentals to Advanced Practice | Gopal Mohan | [Read More](https://medium.com/p/d84aebedce21) |
+| Mon, 28 Jul 2025 05:06:47 GMT | Are You Ready to Fortify or Fall? The 2025 Cyber Defense Revolution | ZENcurity | [Read More](https://medium.com/p/19341cd08201) |
+| Mon, 28 Jul 2025 04:50:16 GMT | Understanding API Security: Best Practices and Strategies | Vansh Khandelwal | [Read More](https://medium.com/p/c15b14072cec) |
 | Mon, 28 Jul 2025 04:38:43 GMT | How to Use FTP to Upload Files to WordPress Without Login | Smit Pipaliya | [Read More](https://medium.com/p/f768abc6b8c0) |
 | Mon, 28 Jul 2025 04:31:55 GMT | A Friendly Guide to Session Management, Cookies, and Authentication | Ayush Kumar | [Read More](https://medium.com/p/7361af099fbe) |
 | Mon, 28 Jul 2025 04:26:34 GMT | How Machine Learning Is Transforming Cybersecurity: Smarter Threat Detection for a Digital World | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/732834d04903) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Jul 2025 19:31:24 GMT | Ghost in the Shell Was the Warning. Kurzweil Says the Merge Is the Plan. | Laura Ferrer | [Read More](https://medium.com/p/cd53fdef1dee) |
 | Sun, 27 Jul 2025 19:25:54 GMT | Cybercrime As A Career Path | O. J. Okpabi | [Read More](https://medium.com/p/b7da19dcbb24) |
 | Sun, 27 Jul 2025 19:25:02 GMT | ️ Automate Secret and PII Scanning in Jenkins With HashiCorp Vault Radar | Raymon Epping | [Read More](https://medium.com/p/27af771d2963) |
-| Sun, 27 Jul 2025 19:22:07 GMT | The Message That Emptied A Village | O. J. Okpabi | [Read More](https://medium.com/p/ba9d834e33e3) |
-| Sun, 27 Jul 2025 19:19:28 GMT | Dodge - Tryhackme Walkthrough | Aydan | [Read More](https://medium.com/p/958149ec7577) |
-| Sun, 27 Jul 2025 19:18:29 GMT | Mapping Real-World Threat Infrastructure: APT28 & Public IOC Attribution | Yug Shah | [Read More](https://medium.com/p/abb62a1b8251) |
-| Sun, 27 Jul 2025 19:18:16 GMT | The Social Engineering Risks of Agentic AI in Customer Service | OWilliams | [Read More](https://medium.com/p/4ccdb82dca1f) |
-| Sun, 27 Jul 2025 19:16:33 GMT | From HTML Injection to Server File Reading via PDF Export | Mohand | [Read More](https://medium.com/p/068e76b1f7bd) |
-| Sun, 27 Jul 2025 19:13:30 GMT | What Is Cybersecurity — And Why It Matters Now More Than Ever | Vatsal Sharma | [Read More](https://medium.com/p/8ab95285d146) |
-| Sun, 27 Jul 2025 19:01:48 GMT | July 27, 2025 – Silent Grit, Strange Conversations, and System Commands | IamGhost | [Read More](https://medium.com/p/88f95ec90c03) |
-| Sun, 27 Jul 2025 18:59:37 GMT | Cybersecurity Burnout: A Personal Anecdote | KarmicDragoon92 | [Read More](https://medium.com/p/795daeff65b6) |
