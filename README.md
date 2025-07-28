@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Jul 2025 20:44:19 GMT | Cybersecurity in 2025: Threats, Trends, and What You Should Know | Nilesh | [Read More](https://medium.com/p/c4840a52d7c0) |
+| Mon, 28 Jul 2025 20:41:14 GMT | MCP vs API: Why Language Models Need More Than Just Endpoints | Michał Oziębło | [Read More](https://medium.com/p/8525acb8f23d) |
+| Mon, 28 Jul 2025 20:40:09 GMT | RC4 Shellcode Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0c7adc22fff5) |
+| Mon, 28 Jul 2025 20:34:54 GMT | Escape - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/99933e11af2a) |
+| Mon, 28 Jul 2025 20:30:57 GMT | Security Analysis of the Russian State Messenger Max Using RAG | Denis | [Read More](https://medium.com/p/05563e26451e) |
+| Mon, 28 Jul 2025 20:28:34 GMT | Why Most Small Businesses Fail at Cybersecurity Compliance (And How to Fix It Without Breaking the… | Steven McDaniel | [Read More](https://medium.com/p/3ee84f61ac56) |
+| Mon, 28 Jul 2025 20:23:11 GMT | Think all your team’s devices are secure? Think again. | Breeze End Technology | [Read More](https://medium.com/p/3cf952f79b79) |
+| Mon, 28 Jul 2025 20:19:58 GMT | Democratizing Technology | Configr Technologies | [Read More](https://medium.com/p/6693a5717a07) |
+| Mon, 28 Jul 2025 20:17:22 GMT | To the Space Between Us: A Story of Unspoken Truths and Fragile Connection | Lisa Meints | [Read More](https://medium.com/p/58c82d69adf6) |
 | Mon, 28 Jul 2025 20:11:29 GMT | How to Answer Apple’s Encryption Question When Submitting Your iOS App | Landon Johnson | [Read More](https://medium.com/p/4eb888ab9261) |
 | Mon, 28 Jul 2025 20:00:32 GMT | Raising a Digitally Safe Generation: Why Cybersecurity Education Must Begin in Elementary School | Paul  Cuffe | [Read More](https://medium.com/p/0572f1e04e24) |
 | Mon, 28 Jul 2025 19:57:09 GMT | DECODING INDIA: THE SECURITY ARCHITECTURE OF A RISING POWER | Ghost | [Read More](https://medium.com/p/f38d045cd4be) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 15:17:47 GMT | News From OWASP: Securing Agentic Applications Guide 1.0 | noailabs | [Read More](https://medium.com/p/14d5d5fa8adf) |
 | Mon, 28 Jul 2025 15:17:14 GMT | Understanding CSRF and How to Prevent It in Your Application — Part 1 | Gokul Karthik | [Read More](https://medium.com/p/9178bbc828d7) |
 | Mon, 28 Jul 2025 15:15:49 GMT | The Most Dangerous Asset in Your Company? The One You Forgot. | Evgeny Ermakov | [Read More](https://medium.com/p/b4044e01e668) |
-| Mon, 28 Jul 2025 15:15:05 GMT | Threat Intelligence Digest — Week Ending:July 27th, 2025 [Paid] | IndigoINT | [Read More](https://medium.com/p/f6496a13fb6b) |
-| Mon, 28 Jul 2025 15:12:37 GMT | ⚠️ CVE‑2025‑32463 & CVE‑2025‑32462 — Sudo Privilege Escalation Flaws in Linux | Aditya Bhatt | [Read More](https://medium.com/p/543709ee6eba) |
-| Mon, 28 Jul 2025 15:07:25 GMT | Can I Haz Root? :: Absolute | Cyber Grover ‍ | [Read More](https://medium.com/p/e26351346943) |
-| Mon, 28 Jul 2025 14:55:15 GMT | Left The Country With A Suitcase. Built A $200 Million Company. | Millionaire Codes | [Read More](https://medium.com/p/654a25349ce8) |
-| Mon, 28 Jul 2025 14:54:42 GMT | SQLMAP | TheSocialHacker | [Read More](https://medium.com/p/65322d1f9075) |
-| Mon, 28 Jul 2025 14:47:58 GMT | # Inside NullSec Philippines: The Rising Force in Southeast Asia's Cyber Underground | Filipino CyberSec News | [Read More](https://medium.com/p/ffd025ba1954) |
-| Mon, 28 Jul 2025 14:47:29 GMT | My Journey into Bug Bounty: A Fresh Start with Clear Goals | sl0th0x87 | [Read More](https://medium.com/p/e157ddaa23b5) |
-| Mon, 28 Jul 2025 14:45:07 GMT | The Dark Story Behind the Tea App Data Breach | Alper Konuralp | [Read More](https://medium.com/p/616b6385320c) |
-| Mon, 28 Jul 2025 14:44:10 GMT | Spatial Data shouldn’t be Hard. It should be Special | SeerAI | [Read More](https://medium.com/p/60652184b2d4) |
