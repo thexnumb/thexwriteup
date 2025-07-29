@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 05:28:14 GMT | How to Start Hacking — A Step-by-Step Beginner’s Guide | Rayyanshowkath | [Read More](https://medium.com/p/0d4f138385d0) |
+| Tue, 29 Jul 2025 05:19:56 GMT | Privacy in the Era of AI: Protecting Your PII Data in 2025 | Yash Patel | [Read More](https://medium.com/p/af86d5a03a3f) |
+| Tue, 29 Jul 2025 05:18:33 GMT | From CTF Addict to Offensive Security Explorer: My Journey into Ethical Hacking | Z33 Security | [Read More](https://medium.com/p/305812789e08) |
+| Tue, 29 Jul 2025 05:17:22 GMT | Source code Analysis = $$$$$ | Rishav anand | [Read More](https://medium.com/p/e76aa9ea679e) |
+| Tue, 29 Jul 2025 04:54:01 GMT | Information Gathering CTF 1 (eJPT) | Hejackson | [Read More](https://medium.com/p/a5e0765fb337) |
 | Tue, 29 Jul 2025 04:43:06 GMT | MCP Security: Tools, Risks, and Best Practices | Dave Patten | [Read More](https://medium.com/p/440277cb3837) |
 | Tue, 29 Jul 2025 04:37:02 GMT | Portswigger Web Security Academy - Access Control Lab #1 | BooRuleDie | [Read More](https://medium.com/p/bdd7d4abed43) |
 | Tue, 29 Jul 2025 04:34:34 GMT | Day 15- Basic Troubleshooting Process for Operating Systems | unica 02 | [Read More](https://medium.com/p/42b28fe97aee) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 19:45:09 GMT | How to Create a Network Security Plan: A Step-by-Step Guide | IT_Engineer | [Read More](https://medium.com/p/3dba1818090f) |
 | Mon, 28 Jul 2025 19:44:44 GMT | ️ FlareGuard and the Future of Lightweight Security at the Edge | Harshad Kadam | [Read More](https://medium.com/p/8840ffe6cdd4) |
 | Mon, 28 Jul 2025 19:44:40 GMT | The Rise of Self-Aware Code: Why the Next Digital Assets Will Think for Themselves | Mic Kosana | [Read More](https://medium.com/p/4479e28ca0ef) |
-| Mon, 28 Jul 2025 19:43:31 GMT | Leadership & Success Podcast Interviews Matthew Rosenquist | Matthew.Rosenquist | [Read More](https://medium.com/p/da9870a5ea52) |
-| Mon, 28 Jul 2025 19:40:54 GMT | Ausencia de seguridad | 0xCByteS | [Read More](https://medium.com/p/eb8291be3775) |
-| Mon, 28 Jul 2025 19:40:50 GMT | They All Came Pre-Hacked: The Persistent Surveillance of My iPhone and Digital Identity (Part 1) | Daretoexpose | [Read More](https://medium.com/p/c869b34b0512) |
-| Mon, 28 Jul 2025 19:37:56 GMT | DAY 28 — Chapter 15: Automate Like a Hacker: Task Scheduling and rc Scripts in Linux | Jinay | [Read More](https://medium.com/p/4dc6cd644a38) |
-| Mon, 28 Jul 2025 19:37:09 GMT | Overview of the Most Common AI-Powered Cyber Threats in 2025 — Part 3 | WAITS Software- und Prozessberatungsgesellsch. mbH | [Read More](https://medium.com/p/e84af6be8d6d) |
