@@ -12,13 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 14:37:15 GMT | XDC Tech Webinar 10.0 | XDC Innovation Labs | [Read More](https://medium.com/p/0775257750aa) |
+| Tue, 29 Jul 2025 14:35:29 GMT | CVE-2025–52206 Reflected Cross-Site Scripting (XSS) | Marco Nappi | [Read More](https://medium.com/p/af3252bc9b36) |
+| Tue, 29 Jul 2025 14:34:07 GMT | Creating Your Own Threat Intelligence Pipeline: A Custom Approach to Security Monitoring | Taiga Walker | [Read More](https://medium.com/p/142d19edd4e2) |
+| Tue, 29 Jul 2025 14:33:43 GMT | TuesdayTool 31: Vulnhuntr, An AI — Powered Vulnerability Hunting Tool | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/01e9fff65f05) |
+| Tue, 29 Jul 2025 14:31:42 GMT | Beyond Bias: Understanding AI’s Internal Vulnerabilities and Hypergame Strategies with the CDCL… | Berend Watchus | [Read More](https://medium.com/p/6e2060333f2f) |
+| Tue, 29 Jul 2025 14:31:34 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonz | [Read More](https://medium.com/p/6f9b29d90896) |
+| Tue, 29 Jul 2025 14:31:29 GMT | The Importance of Wasting Time | Vijay Kumar Gupta | [Read More](https://medium.com/p/36965ab7ab9f) |
+| Tue, 29 Jul 2025 14:29:52 GMT | How AIOps Integration Improves IT Efficiency and Resilience? | Seraphina blake | [Read More](https://medium.com/p/ab857fc86df4) |
 | Tue, 29 Jul 2025 14:25:31 GMT | AI-Powered Cybersecurity: Augmenting Human Defenders
 The ever-growing volume and sophistication of… | José Emanuel Cascone Rêgo de Sousa | [Read More](https://medium.com/p/62e014d1bed9) |
+| Tue, 29 Jul 2025 14:24:48 GMT | What Are Drosera Traps Really For? | No-brainer | [Read More](https://medium.com/p/dbaa8b60d15d) |
 | Tue, 29 Jul 2025 14:22:01 GMT | ️ Network Attacks: What Every SOC Analyst Must Understand. | Dany Christel | [Read More](https://medium.com/p/3fe26c3e059c) |
 | Tue, 29 Jul 2025 14:21:20 GMT | Which one lasts longer, pencil or pen? Smart Tips For Making Wallet Backups That Last | Lucien Bourdon | [Read More](https://medium.com/p/a2d22197bf05) |
 | Tue, 29 Jul 2025 14:19:25 GMT | DonutLoader Uncovered: The Stealthy Malware Hiding in Plain Sight | Pratik Gurav | [Read More](https://medium.com/p/2775c955fd40) |
+| Tue, 29 Jul 2025 14:18:12 GMT | Logitech Pebble 2 Combo is Perfect for Your Steam Deck | Dad with a Deck | [Read More](https://medium.com/p/6e21d01d8a0b) |
 | Tue, 29 Jul 2025 14:16:49 GMT | The Identity Illusion: Rethinking AI Agents, Delegation, and Enterprise Access | Cathal Devilly | [Read More](https://medium.com/p/be583d29f97c) |
 | Tue, 29 Jul 2025 14:16:23 GMT | Hugedata CTF challenge | Rajsegar Alagarathnam | [Read More](https://medium.com/p/c76544e1ef95) |
+| Tue, 29 Jul 2025 14:14:53 GMT | Radiografía del liderazgo tecnológico en España | Alberto Marauri | [Read More](https://medium.com/p/f495a46285b3) |
 | Tue, 29 Jul 2025 14:12:55 GMT | EscapeTwo - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/0c565050cdfc) |
 | Tue, 29 Jul 2025 14:09:26 GMT | “What If We Didn’t Wait Until the End?” | Khushboo Rathi Bhutada | [Read More](https://medium.com/p/374fae83f55a) |
 | Tue, 29 Jul 2025 14:03:40 GMT | AI in Cybersecurity: A Double-Edged Sword | Akshaya Mary Lingala | [Read More](https://medium.com/p/2f412b1d4cfd) |
@@ -102,14 +113,3 @@ The ever-growing volume and sophistication of… | José Emanuel Cascone Rêgo d
 | Tue, 29 Jul 2025 11:09:37 GMT | From Dorking to Critical: Exposing Company Database Credentials and Full Source Code via Public… | 0xRedFox29 | [Read More](https://medium.com/p/197a1fc049c2) |
 | Tue, 29 Jul 2025 11:09:00 GMT | Addressing Cybersecurity Challenges In The Era Of 5G Networks | Teleglobal International | [Read More](https://medium.com/p/92d9ce06c00a) |
 | Tue, 29 Jul 2025 11:07:25 GMT | Cybersecurity Is Changing Rapidly | aadesh.k | [Read More](https://medium.com/p/28235649dfb8) |
-| Tue, 29 Jul 2025 11:04:32 GMT | Authentication Bypass: NOSQL Injection on Buggy Buy’s Login | Muneeza Badar | [Read More](https://medium.com/p/a756bf82818a) |
-| Tue, 29 Jul 2025 11:02:35 GMT | Why Most Executives Underestimate Their Digital Risks | Ingvar Pavlovich | [Read More](https://medium.com/p/498302634904) |
-| Tue, 29 Jul 2025 11:02:27 GMT | Safeguarding Cryptographic Keys in Mobile Applications | Arise by INFINITAS | [Read More](https://medium.com/p/3a98246cd2b5) |
-| Tue, 29 Jul 2025 11:00:56 GMT | Steel Mountain — TryHackMe — by Abhay Pandit | Abhay pandit | [Read More](https://medium.com/p/1b64bc4e46b0) |
-| Tue, 29 Jul 2025 10:58:13 GMT | Enumeration in Ethical Hacking: A Bridge Between Reconnaissance and Scanning | evans | [Read More](https://medium.com/p/90e9097f75e6) |
-| Tue, 29 Jul 2025 10:56:49 GMT | To Kill a Monkey: Kemi Adetiba’s Crime Thriller Shows That Even in Love and Crime, Education Wins | Basid Musa | [Read More](https://medium.com/p/0312f3b0154a) |
-| Tue, 29 Jul 2025 10:54:18 GMT | 5G Cybersecurity Guide — Read Before You Deploy | Generative AI Blog | [Read More](https://medium.com/p/950f777e3757) |
-| Tue, 29 Jul 2025 10:54:12 GMT | Ethical Hacking Training in Kerala — Upgrade Your Cybersecurity Skills with Tedora Academy | Archanaa | [Read More](https://medium.com/p/35bfce0bc131) |
-| Tue, 29 Jul 2025 10:53:01 GMT | “Weird” Makes You Resilient | Steve Ezeribe | [Read More](https://medium.com/p/6cf15a1c3023) |
-| Tue, 29 Jul 2025 10:51:42 GMT | Click, Swipe, Protect: Why Cyber Laws Matter Now More Than Ever | Malavika Manoj | [Read More](https://medium.com/p/aa41396507f7) |
-| Tue, 29 Jul 2025 10:51:22 GMT | NeuroSyncAI™ as a Deterministic Integrity Layer: Beyond Blockchain, Beyond Keypairs | Trang Phan | [Read More](https://medium.com/p/00a72b44523a) |
