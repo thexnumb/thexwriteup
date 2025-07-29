@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 10:41:05 GMT | CSP e nonce.md | Victor Hugo Nóbrega Alves | [Read More](https://medium.com/p/f7054d77ae41) |
+| Tue, 29 Jul 2025 10:38:52 GMT | Best Advanced Penetration Testing Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/01ff5c7ec0d9) |
+| Tue, 29 Jul 2025 10:30:34 GMT | Laravel: Defensive programming strategies in 2025 | Laravel Daily tips | [Read More](https://medium.com/p/ebb7630cc845) |
+| Tue, 29 Jul 2025 10:28:32 GMT | Comprehensive Protection for Your Business and Property | cxccv | [Read More](https://medium.com/p/2487a971ccb6) |
+| Tue, 29 Jul 2025 10:26:22 GMT | Purple Teaming Nedir? Red Team & Blue Team’in Güç Birliği | FatihUYSAL | [Read More](https://medium.com/p/65fe2be06b27) |
+| Tue, 29 Jul 2025 10:26:05 GMT | The Tuesday Night Chair Circle | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/aca380f0b0ee) |
+| Tue, 29 Jul 2025 10:23:04 GMT | Third-Party Risk Management: Why It’s More Than Just Compliance — A Vanguardtec Insight | vanguardtec | [Read More](https://medium.com/p/1cc742199c82) |
 | Tue, 29 Jul 2025 10:16:18 GMT | Supply chain cyberattacks turning weaknesses into traps | Martin Abramov | [Read More](https://medium.com/p/c53644aabd54) |
 | Tue, 29 Jul 2025 10:09:56 GMT | Security in the Age of Agentic AI: Architectural Challenges (Part 2) | Kristin Dahl | [Read More](https://medium.com/p/b1ae320e32b1) |
 | Tue, 29 Jul 2025 10:07:31 GMT | Protect What Matters Most: Professional Security Services in Hobart | Stateguard Protective Services | [Read More](https://medium.com/p/8d88951a8701) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 06:00:27 GMT | Today’s Top Cyber Intelligence Highlights — Jul 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b4eb4167c50d) |
 | Tue, 29 Jul 2025 05:56:55 GMT | ISO 27001 ile Bilgi Güvenliğine Yolculuk — 4 | İrem Çagla Demirtaş | [Read More](https://medium.com/p/3d531f6f5422) |
 | Tue, 29 Jul 2025 05:56:14 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/d445505003fc) |
-| Tue, 29 Jul 2025 05:53:23 GMT | Global Capability Centers GCCs Playbook — for Indian Government Policies, Announcements & Recent… | KC | [Read More](https://medium.com/p/db80073c62c4) |
-| Tue, 29 Jul 2025 05:51:49 GMT | Vibe coding & Software Vulnerabilities | AInote | [Read More](https://medium.com/p/bb90cf4afe57) |
-| Tue, 29 Jul 2025 05:50:07 GMT | How Safe Is Your Password? A Data-Driven Look at Modern Hacking Tactics | Naman Barola | [Read More](https://medium.com/p/39e426c8c91e) |
-| Tue, 29 Jul 2025 05:43:19 GMT | Say Goodbye to Boring Uploads! Drag & Drop Magic in Next.js with react-dropzone | Muhammad Syaifuddin Zuhri | [Read More](https://medium.com/p/2809e98dfa76) |
-| Tue, 29 Jul 2025 05:42:46 GMT | AgentTesla Deep Dive: Steganography, Keylogging, and Data Theft Explained | Namrata Amane | [Read More](https://medium.com/p/8bf486a4d708) |
-| Tue, 29 Jul 2025 05:28:14 GMT | How to Start Hacking — A Step-by-Step Beginner’s Guide | Rayyanshowkath | [Read More](https://medium.com/p/0d4f138385d0) |
-| Tue, 29 Jul 2025 05:26:27 GMT | How AI-Powered Tech Is Changing Daily Life in 2025? | Rajkumari Amara Devi | [Read More](https://medium.com/p/354857634fc4) |
