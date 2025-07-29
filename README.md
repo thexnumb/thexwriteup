@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 11:34:49 GMT | How I Gained Remote Code Execution (RCE) on Huawei Phones | Neil Mark Ochea | [Read More](https://medium.com/p/e55a986c1ca0) |
+| Tue, 29 Jul 2025 11:34:25 GMT | How Security Services Work for Commercial Buildings in Hyderabad | Group 24/7 Security Services | [Read More](https://medium.com/p/f598dc00c76d) |
+| Tue, 29 Jul 2025 11:34:17 GMT | How to Secure Your App Using JWT: Access Tokens, Refresh Tokens, Rotation, and CSRF Protection | Samir Mirzaliyev | [Read More](https://medium.com/p/f1fd6a5a612a) |
+| Tue, 29 Jul 2025 11:33:05 GMT | What I Learned About Bash Scripting — A Beginner Hacker’s Guide | Srihari | [Read More](https://medium.com/p/2b4941746b6e) |
+| Tue, 29 Jul 2025 11:31:59 GMT | Day 56: Audit Execution | Brittney Ginther | [Read More](https://medium.com/p/b4c754366de0) |
+| Tue, 29 Jul 2025 11:31:30 GMT | Building a SIEM in a Zero-Budget Startup: Lessons from the Trenches | Sebbas | [Read More](https://medium.com/p/03da59d40ba1) |
+| Tue, 29 Jul 2025 11:25:53 GMT | Dexalot vs. Suzaku: Not All DEXs Are Built Equal! | Usman Adk | [Read More](https://medium.com/p/41c74ed30655) |
+| Tue, 29 Jul 2025 11:23:55 GMT | Understanding Log Types in SIEM for Digital Assets | Devaaravindlutukurty | [Read More](https://medium.com/p/bed31c83548d) |
+| Tue, 29 Jul 2025 11:19:57 GMT | More Than Just Antivirus: Discover the Power of Complete Cybersecurity Solutions | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/a52ebb4dec31) |
+| Tue, 29 Jul 2025 11:16:34 GMT | AI realme 15 pro 5g phone is really good? | techcirclehub | [Read More](https://medium.com/p/a729f1b7923f) |
+| Tue, 29 Jul 2025 11:16:10 GMT | QANplatform’s Core Innovation, the QVM Passes Security Audit | QANplatform | [Read More](https://medium.com/p/e6dad138207e) |
+| Tue, 29 Jul 2025 11:15:01 GMT | Types of OTP: Which One is Right for Your Business? | Helo.ai by VivaConnect | [Read More](https://medium.com/p/9a58378e57a6) |
+| Tue, 29 Jul 2025 11:14:44 GMT | Active Directory Certificate Services Zafiyetleri | Yasin Murat Kaşka | [Read More](https://medium.com/p/2093b05cac5f) |
+| Tue, 29 Jul 2025 11:13:57 GMT | Efani Officially Launches Dual eSIM Mobile Service, Here’s Why It Matters | Haris Nadeem | [Read More](https://medium.com/p/7843132f169c) |
+| Tue, 29 Jul 2025 11:11:47 GMT | Cyber Security Roadmap for Beginners [GitHub Resources Included]- NareshIT | Naresh I Technologies | [Read More](https://medium.com/p/3d734771b641) |
 | Tue, 29 Jul 2025 11:09:37 GMT | From Dorking to Critical: Exposing Company Database Credentials and Full Source Code via Public… | 0xRedFox29 | [Read More](https://medium.com/p/197a1fc049c2) |
+| Tue, 29 Jul 2025 11:09:00 GMT | Addressing Cybersecurity Challenges In The Era Of 5G Networks | Teleglobal International | [Read More](https://medium.com/p/92d9ce06c00a) |
 | Tue, 29 Jul 2025 11:07:25 GMT | Cybersecurity Is Changing Rapidly | aadesh.k | [Read More](https://medium.com/p/28235649dfb8) |
 | Tue, 29 Jul 2025 11:04:32 GMT | Authentication Bypass: NOSQL Injection on Buggy Buy’s Login | Muneeza Badar | [Read More](https://medium.com/p/a756bf82818a) |
 | Tue, 29 Jul 2025 11:02:35 GMT | Why Most Executives Underestimate Their Digital Risks | Ingvar Pavlovich | [Read More](https://medium.com/p/498302634904) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 07:20:53 GMT | Freedom, Speed, and Security in the Digital World — Reimagined | WeeCoins Premium & WeeCoins International | [Read More](https://medium.com/p/73134898248e) |
 | Tue, 29 Jul 2025 07:15:43 GMT | CORS — havfsizlik yoki zaiflik? CORS error? | Ismoil Turdaliyev | [Read More](https://medium.com/p/2d4b61b46331) |
 | Tue, 29 Jul 2025 07:13:53 GMT | Beginner’s Guide to Active Reconnaissance (Part 3.4): | Ar-jay A. Ballaco | [Read More](https://medium.com/p/a65d056707f1) |
-| Tue, 29 Jul 2025 07:11:51 GMT | Back From the Dead: MSSQL Resurrection Attack | Slygoo | [Read More](https://medium.com/p/d155d348d55b) |
-| Tue, 29 Jul 2025 07:09:15 GMT | What Sparked Me Into Cybersecurity? | Rahul mane | [Read More](https://medium.com/p/bfb6a98680c2) |
-| Tue, 29 Jul 2025 07:04:32 GMT | Authentication vs Authorization — Deep Dive for Modern Web Apps | Kaveesha Sanduni Kodikara | [Read More](https://medium.com/p/d27174acaf5c) |
-| Tue, 29 Jul 2025 07:01:46 GMT | Free vs Paid Password Managers in 2025: What’s Actually Worth Your Time and Money? | Tech Pulse Daily | [Read More](https://medium.com/p/e351213772d2) |
-| Tue, 29 Jul 2025 07:01:42 GMT | The Impact of 5G on Cybersecurity: Opportunities and Challenges | Payoda Technology Inc | [Read More](https://medium.com/p/17b554998a11) |
-| Tue, 29 Jul 2025 06:59:47 GMT | Explained: How the Best IT Staffing Services Solve Developer Shortages in Hyderabad | Quadrant IT Services | [Read More](https://medium.com/p/8de305cb6f8f) |
-| Tue, 29 Jul 2025 06:54:52 GMT | 未来の私よ、コレを読め。webサイトの攻撃と対策 part1 | ttt | [Read More](https://medium.com/p/c7a7437c15bf) |
-| Tue, 29 Jul 2025 06:54:47 GMT | Is Online Dating Safe for Seniors in 2025? | Elizabeth | [Read More](https://medium.com/p/489cc77a8aae) |
-| Tue, 29 Jul 2025 06:54:46 GMT | Critical 0-Day RCE Vulnerability Found in E-Safenet Document Management System | AerieWhole123 | [Read More](https://medium.com/p/2832d89dd783) |
-| Tue, 29 Jul 2025 06:52:10 GMT | Unlocking Cybersecurity Success with CISSP Certification: Why Online CISSP Training at Cybernous is… | Cybernous Infosec consulting | [Read More](https://medium.com/p/b7a6a6674492) |
-| Tue, 29 Jul 2025 06:50:00 GMT | online dating | rhijoyce | [Read More](https://medium.com/p/a849a356379f) |
-| Tue, 29 Jul 2025 06:48:17 GMT | Midnight Hammer”: Serangan Langsung AS terhadap Fasilitas Nuklir Iran dan Konsekuensi Geopolitiknya | FPCI Chapter UMM | [Read More](https://medium.com/p/4605e80c67d6) |
-| Tue, 29 Jul 2025 06:45:44 GMT | Adopting Agentic AI in Cybersecurity: From Reactive Defense to Autonomous Resilience | Ashutosh Bhatte | [Read More](https://medium.com/p/6b9f8862fbb6) |
-| Tue, 29 Jul 2025 06:40:07 GMT | BF jail writeup(Brainfuck coding)World wide CTF 2025 | 0xBeast | [Read More](https://medium.com/p/7fba4bde8bb6) |
-| Tue, 29 Jul 2025 06:40:04 GMT | Digital Sovereignty Supply Chain Thinking: The Role of the Invisible Identity Fabric | Carsten Stöcker | [Read More](https://medium.com/p/c88ecba132ee) |
-| Tue, 29 Jul 2025 06:37:48 GMT | How I Found a $2,800 Bug in 60 minutes — and How You Can Spot It Too | Rashadul Islam | [Read More](https://medium.com/p/95bfe919e7f4) |
