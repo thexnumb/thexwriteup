@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 18:29:58 GMT | ghidraMCP: AI-Powered Reverse Engineering Made Easy | Metehan Uluocak | [Read More](https://medium.com/p/8b012183acd5) |
+| Tue, 29 Jul 2025 18:29:06 GMT | Critical Alert: Patch Your Sophos Firewall NOW — Understanding the New Vulnerabilities | IT_Engineer | [Read More](https://medium.com/p/f86f79786375) |
+| Tue, 29 Jul 2025 18:28:44 GMT | DAY 29 — CTF #6: Operation — Blind Gallery | Jinay | [Read More](https://medium.com/p/dcc2f2066044) |
+| Tue, 29 Jul 2025 18:25:30 GMT | Home Security System Installation in Charlotte NC | Ingramvillaescusa | [Read More](https://medium.com/p/4a68a0bebf5f) |
+| Tue, 29 Jul 2025 18:22:44 GMT | Revenue Cycle on Life Support: Why Cybersecurity Is the Only Cure | Travis Ray Caverhill | [Read More](https://medium.com/p/a1276e7913a8) |
+| Tue, 29 Jul 2025 18:22:35 GMT | FullMounty PwnTillDawn -- 10.150.150.134 Write-Up | Ishengoma | [Read More](https://medium.com/p/4048c02d1acd) |
+| Tue, 29 Jul 2025 18:14:58 GMT | We Need To Stop Using Private Keys and Move To Storing Seed Values | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d918e854b808) |
+| Tue, 29 Jul 2025 18:12:59 GMT | ￼ | Cyber News | [Read More](https://medium.com/p/24110cbbc847) |
+| Tue, 29 Jul 2025 18:12:20 GMT | SharePoint Zero-Day Exploited: CVE-2025–53770 Breakdown | Kalariya Het | [Read More](https://medium.com/p/eaca88bf4946) |
+| Tue, 29 Jul 2025 18:12:02 GMT | How to Break Into Cybersecurity Without Feeling Overwhelmed | Med Abou | [Read More](https://medium.com/p/68fe2ffe15d7) |
+| Tue, 29 Jul 2025 18:08:16 GMT | Aeroflot Hack Exposes Data Leak, Disrupts Flights | Kalariya Het | [Read More](https://medium.com/p/26272236dbae) |
+| Tue, 29 Jul 2025 18:07:32 GMT | AI vs. Cybersecurity: This Week’s Frontlines (July 29, 2025) | Abdul Saboor | [Read More](https://medium.com/p/bc75a5b3c3fb) |
+| Tue, 29 Jul 2025 18:07:16 GMT | Securing Docker Containers: Best Practices | @rnab | [Read More](https://medium.com/p/968f10a116ca) |
+| Tue, 29 Jul 2025 18:06:57 GMT | Siber Güvenliğe Giriş Notları -1 | Duygu Öztürk | [Read More](https://medium.com/p/03cb35570e11) |
+| Tue, 29 Jul 2025 18:00:50 GMT | Prompt Engineering Toolkit for JavaScript Recon (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6209c57ce8ef) |
+| Tue, 29 Jul 2025 17:59:43 GMT | THM - Infinity Shell | Francesco Pastore | [Read More](https://medium.com/p/df67e7e6c335) |
+| Tue, 29 Jul 2025 17:58:42 GMT | Sıfır Maliyetle Web Sitesi Güvenliği: 5 Ücretsiz ve Kritik Araç | Mehmet Can Duman | [Read More](https://medium.com/p/6aec8f8dd2fd) |
+| Tue, 29 Jul 2025 17:57:38 GMT | Tiny AI Breakthroughs That Transformed My Cyber Journey | Abraham Eleojo Salifu | [Read More](https://medium.com/p/82dd82e5f3f1) |
+| Tue, 29 Jul 2025 17:54:28 GMT | LunaEngine: The Self-Hosted IT Management System for Modern Enterprises | Faisal Dad Khan | [Read More](https://medium.com/p/0e5123a0aca3) |
+| Tue, 29 Jul 2025 17:50:41 GMT | Not All Hackers Are Equal: The Ones Who Can Ruin Your Life | Shahzaib | [Read More](https://medium.com/p/c7b423c3dc5e) |
 | Tue, 29 Jul 2025 17:46:29 GMT | The 5-Minute Asset Exposure Checklist | Evgeny Ermakov | [Read More](https://medium.com/p/4e97b845fd78) |
 | Tue, 29 Jul 2025 17:45:43 GMT | Why Traditional Risk Assessment Frameworks Are Failing in the Age of SaaS and Cloud Technology | BuntahBole | [Read More](https://medium.com/p/df7b3893efef) |
 | Tue, 29 Jul 2025 17:41:43 GMT | Telling the Story: Documentation in the Cybersecurity World | Sayantani Halder | [Read More](https://medium.com/p/75d22418d103) |
@@ -93,24 +113,3 @@ In today’s world, safety is more… | Durranih | [Read More](https://medium.co
 | Tue, 29 Jul 2025 14:34:07 GMT | Creating Your Own Threat Intelligence Pipeline: A Custom Approach to Security Monitoring | Taiga Walker | [Read More](https://medium.com/p/142d19edd4e2) |
 | Tue, 29 Jul 2025 14:33:43 GMT | TuesdayTool 31: Vulnhuntr, An AI — Powered Vulnerability Hunting Tool | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/01e9fff65f05) |
 | Tue, 29 Jul 2025 14:31:42 GMT | Beyond Bias: Understanding AI’s Internal Vulnerabilities and Hypergame Strategies with the CDCL… | Berend Watchus | [Read More](https://medium.com/p/6e2060333f2f) |
-| Tue, 29 Jul 2025 14:31:34 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonz | [Read More](https://medium.com/p/6f9b29d90896) |
-| Tue, 29 Jul 2025 14:31:29 GMT | The Importance of Wasting Time | Vijay Kumar Gupta | [Read More](https://medium.com/p/36965ab7ab9f) |
-| Tue, 29 Jul 2025 14:29:52 GMT | How AIOps Integration Improves IT Efficiency and Resilience? | Seraphina blake | [Read More](https://medium.com/p/ab857fc86df4) |
-| Tue, 29 Jul 2025 14:25:31 GMT | AI-Powered Cybersecurity: Augmenting Human Defenders
-The ever-growing volume and sophistication of… | José Emanuel Cascone Rêgo de Sousa | [Read More](https://medium.com/p/62e014d1bed9) |
-| Tue, 29 Jul 2025 14:24:48 GMT | What Are Drosera Traps Really For? | No-brainer | [Read More](https://medium.com/p/dbaa8b60d15d) |
-| Tue, 29 Jul 2025 14:22:01 GMT | ️ Network Attacks: What Every SOC Analyst Must Understand. | Dany Christel | [Read More](https://medium.com/p/3fe26c3e059c) |
-| Tue, 29 Jul 2025 14:21:20 GMT | Which one lasts longer, pencil or pen? Smart Tips For Making Wallet Backups That Last | Lucien Bourdon | [Read More](https://medium.com/p/a2d22197bf05) |
-| Tue, 29 Jul 2025 14:19:25 GMT | DonutLoader Uncovered: The Stealthy Malware Hiding in Plain Sight | Pratik Gurav | [Read More](https://medium.com/p/2775c955fd40) |
-| Tue, 29 Jul 2025 14:18:12 GMT | Logitech Pebble 2 Combo is Perfect for Your Steam Deck | Dad with a Deck | [Read More](https://medium.com/p/6e21d01d8a0b) |
-| Tue, 29 Jul 2025 14:16:49 GMT | The Identity Illusion: Rethinking AI Agents, Delegation, and Enterprise Access | Cathal Devilly | [Read More](https://medium.com/p/be583d29f97c) |
-| Tue, 29 Jul 2025 14:16:23 GMT | Hugedata CTF challenge | Rajsegar Alagarathnam | [Read More](https://medium.com/p/c76544e1ef95) |
-| Tue, 29 Jul 2025 14:14:53 GMT | Radiografía del liderazgo tecnológico en España | Alberto Marauri | [Read More](https://medium.com/p/f495a46285b3) |
-| Tue, 29 Jul 2025 14:12:55 GMT | EscapeTwo - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/0c565050cdfc) |
-| Tue, 29 Jul 2025 14:09:26 GMT | “What If We Didn’t Wait Until the End?” | Khushboo Rathi Bhutada | [Read More](https://medium.com/p/374fae83f55a) |
-| Tue, 29 Jul 2025 14:03:40 GMT | AI in Cybersecurity: A Double-Edged Sword | Akshaya Mary Lingala | [Read More](https://medium.com/p/2f412b1d4cfd) |
-| Tue, 29 Jul 2025 14:02:59 GMT | Cyber Briefing: 2025.07.29 | CyberMaterial | [Read More](https://medium.com/p/e59f991ad34c) |
-| Tue, 29 Jul 2025 14:02:27 GMT | AI vs Phishing: How I Built the OFFTECh Tool to Detect Scam Links in Real Time | LazyHacker | [Read More](https://medium.com/p/b1a1ad95b65e) |
-| Tue, 29 Jul 2025 14:01:58 GMT | I Had Zero Experience in Active Directory When I Was Asked to Lead a Company-Wide Migration | Jeffrey Fesunoff | [Read More](https://medium.com/p/4f22bf2f9d07) |
-| Tue, 29 Jul 2025 13:59:14 GMT | Firewall vs Antivirus — What’s the Difference? | Cybersecurity Umbrella | [Read More](https://medium.com/p/99c8187cb8b5) |
-| Tue, 29 Jul 2025 13:58:53 GMT | The CISO’s Dilemma | Manan Kharbanda | [Read More](https://medium.com/p/651aa1dc127c) |
