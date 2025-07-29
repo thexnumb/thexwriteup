@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 19:13:22 GMT | AI in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/3eaf20307c60) |
+| Tue, 29 Jul 2025 19:09:39 GMT | AI Isn’t Taking Your Job — The Person Using AI Is | Aryan kumar | [Read More](https://medium.com/p/89ed54c1450c) |
+| Tue, 29 Jul 2025 19:08:09 GMT | Building a Real-Time Blockchain Threat Detection Pipeline: From Theory to Production | Heartlin Machado | [Read More](https://medium.com/p/c8981437c55c) |
+| Tue, 29 Jul 2025 19:06:45 GMT | This Python Script Checks If Your Passwords Are Leaked Online | Aashish Kumar | [Read More](https://medium.com/p/8c3f86e94380) |
+| Tue, 29 Jul 2025 19:05:39 GMT | My Life in the SOC: Lessons from the Frontlines of Cyber Defense | Saumya Shree | [Read More](https://medium.com/p/f268adfcf26c) |
+| Tue, 29 Jul 2025 19:01:39 GMT | 7 Disadvantages of Cloud Storage You Should Know | Timonéofearth | [Read More](https://medium.com/p/75ff11fcd33c) |
+| Tue, 29 Jul 2025 18:45:11 GMT | Crypto Challenge: Back to Roots -UIUCTF 2025 | Alinboby | [Read More](https://medium.com/p/22fdd1e08fda) |
+| Tue, 29 Jul 2025 18:43:55 GMT | Top 10 IAM Configuration Issue Remediation Plan for Prisma Cloud across AWS, GCP, and Azure… | Nazeer | [Read More](https://medium.com/p/6ab9c242c380) |
+| Tue, 29 Jul 2025 18:41:02 GMT | How to Protect RESTful APIs: A Practical Guide for Developers ️ | Mahdi Mirshafiee | [Read More](https://medium.com/p/d85a2bb8c958) |
+| Tue, 29 Jul 2025 18:38:40 GMT | Hiding Malware in DNS Records | Metehan Uluocak | [Read More](https://medium.com/p/4ad77a607144) |
+| Tue, 29 Jul 2025 18:37:25 GMT | Email Best Practices to Prevent Cyber Attacks: Simple Habits That Save You from Big Trouble | SafeAeon Inc. | [Read More](https://medium.com/p/3b67e22be304) |
 | Tue, 29 Jul 2025 18:29:58 GMT | ghidraMCP: AI-Powered Reverse Engineering Made Easy | Metehan Uluocak | [Read More](https://medium.com/p/8b012183acd5) |
 | Tue, 29 Jul 2025 18:29:06 GMT | Critical Alert: Patch Your Sophos Firewall NOW — Understanding the New Vulnerabilities | IT_Engineer | [Read More](https://medium.com/p/f86f79786375) |
 | Tue, 29 Jul 2025 18:28:44 GMT | DAY 29 — CTF #6: Operation — Blind Gallery | Jinay | [Read More](https://medium.com/p/dcc2f2066044) |
@@ -102,14 +113,3 @@ In today’s world, safety is more… | Durranih | [Read More](https://medium.co
 | Tue, 29 Jul 2025 15:03:44 GMT | Pwned Labs -Illuminate GCP by Fuzzing IAM Permissions | Moghees Ahmad | [Read More](https://medium.com/p/decefd2e4e5d) |
 | Tue, 29 Jul 2025 15:03:07 GMT | Why Nigeria Needs Its Own Sovereign Cloud And Why the Time is Now | Cybervertex | [Read More](https://medium.com/p/f3008dbfb041) |
 | Tue, 29 Jul 2025 15:01:52 GMT | Offboarding Devices Without Drama: 7 Compliance Risks You Can’t Ignore | Yuvi Aggarwal | [Read More](https://medium.com/p/75e5f6f423e2) |
-| Tue, 29 Jul 2025 15:00:09 GMT | Daily Security News Digest — July 29, 2025 | Security News Digest | [Read More](https://medium.com/p/d6ac0b7f20c7) |
-| Tue, 29 Jul 2025 14:50:25 GMT | Microsoft Defender – How a Free Baseline Tool Is Disrupting the Paid Endpoint Security Market | David SEHYEON Baek | [Read More](https://medium.com/p/7d8096202eea) |
-| Tue, 29 Jul 2025 14:48:28 GMT | 5 Non-Negotiable Features Every Managed Services Provider (MSP) Should Have…Or Don’t Bother | Paradise technologies Inc | [Read More](https://medium.com/p/b42242b74dfa) |
-| Tue, 29 Jul 2025 14:47:56 GMT | Hackers Are Using IPv6 in Ways You Won’t Believe | Abhishek pawar | [Read More](https://medium.com/p/8fed16d0a2dd) |
-| Tue, 29 Jul 2025 14:47:17 GMT | It all started with a simple spark — a curiosity about how things work behind the screen. | Jebin R | [Read More](https://medium.com/p/ba3684d23764) |
-| Tue, 29 Jul 2025 14:46:01 GMT | Storm-2603: SharePoint Zero-Day Exploitation and Warlock Ransomware — A Hybrid Financial and… | Wes Young | [Read More](https://medium.com/p/205d1ae06fc1) |
-| Tue, 29 Jul 2025 14:37:15 GMT | XDC Tech Webinar 10.0 | XDC Innovation Labs | [Read More](https://medium.com/p/0775257750aa) |
-| Tue, 29 Jul 2025 14:35:29 GMT | CVE-2025–52206 Reflected Cross-Site Scripting (XSS) | Marco Nappi | [Read More](https://medium.com/p/af3252bc9b36) |
-| Tue, 29 Jul 2025 14:34:07 GMT | Creating Your Own Threat Intelligence Pipeline: A Custom Approach to Security Monitoring | Taiga Walker | [Read More](https://medium.com/p/142d19edd4e2) |
-| Tue, 29 Jul 2025 14:33:43 GMT | TuesdayTool 31: Vulnhuntr, An AI — Powered Vulnerability Hunting Tool | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/01e9fff65f05) |
-| Tue, 29 Jul 2025 14:31:42 GMT | Beyond Bias: Understanding AI’s Internal Vulnerabilities and Hypergame Strategies with the CDCL… | Berend Watchus | [Read More](https://medium.com/p/6e2060333f2f) |
