@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 22:17:02 GMT | Blockchain Security: Smart Contract Vulnerabilities to Watch | Karthikeyan Nagaraj | [Read More](https://medium.com/p/dde38090c829) |
+| Tue, 29 Jul 2025 22:06:35 GMT | Technical Product Management | Day | [Read More](https://medium.com/p/6147ce939a37) |
+| Tue, 29 Jul 2025 21:58:15 GMT | Hackers Hijack Toptal GitHub to Spread Devastating Malware Through npm | Cyber-AppSec | [Read More](https://medium.com/p/ddef91795bd9) |
+| Tue, 29 Jul 2025 21:52:08 GMT | The ‘Coding’ Conundrum: Why Our Boardrooms Don’t Speak Security (And How to Fix It) | Manan Kharbanda | [Read More](https://medium.com/p/449f18656684) |
+| Tue, 29 Jul 2025 21:51:51 GMT | Build, Clone, Defend: Long-Range RFID Attacks Explained | Stingrai | [Read More](https://medium.com/p/0fe4cc894055) |
+| Tue, 29 Jul 2025 21:48:29 GMT | Tea- app made for good attention but bad execution | Alexiious | [Read More](https://medium.com/p/93c44b340c32) |
 | Tue, 29 Jul 2025 21:38:22 GMT | Build-Vulnlab Write-up | t0x1k | [Read More](https://medium.com/p/94d4080fe40f) |
 | Tue, 29 Jul 2025 21:38:12 GMT | AI Security Newsletter — July, 2025 | Tal Eliyahu | [Read More](https://medium.com/p/91c38d1a3d1d) |
 | Tue, 29 Jul 2025 21:36:59 GMT | Google is Ending Support for “Less Secure Apps” on March 14, 2025 | Luca Berton | [Read More](https://medium.com/p/4aafce218e75) |
@@ -40,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 19:50:56 GMT | Slides-To-Translate: When IT Says No, Build a $0.04 Solution on Your Lunch Break | Médéric Hurier (Fmind) | [Read More](https://medium.com/p/3afa8bd9f6bb) |
 | Tue, 29 Jul 2025 19:48:17 GMT | Threat Intelligence Using VirusTotal and AbuseIPDB | James N | [Read More](https://medium.com/p/541f4507e7bb) |
 | Tue, 29 Jul 2025 19:47:51 GMT | Beyond Standalone: Integrating Smart Camera Devices in Your Home | Leo Beenhakker | [Read More](https://medium.com/p/d3d3c8ded2f0) |
+| Tue, 29 Jul 2025 19:47:23 GMT | ArNS Exploit: From Zero to Domain Owner | Aminudin | [Read More](https://medium.com/p/ac5d04583bf4) |
 | Tue, 29 Jul 2025 19:36:24 GMT | How to Hypnotize a Housefly (And Why It Might Actually Work) | Tim Villegas | [Read More](https://medium.com/p/bfaab30746aa) |
 | Tue, 29 Jul 2025 19:36:01 GMT | From SIEM to LLM: Building Cybersecurity AI Tools | Heartlin Machado | [Read More](https://medium.com/p/feb13e2577b3) |
 | Tue, 29 Jul 2025 19:33:03 GMT | Tired of Cyber Threats? Here’s How Digital Identity Services Help | WallaceId | [Read More](https://medium.com/p/65f414baa822) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 16:43:06 GMT | IAM in action: Real world use cases of identity types (B2B, B2C & more) | Malith Dilshan | [Read More](https://medium.com/p/25762baa1bf4) |
 | Tue, 29 Jul 2025 16:41:50 GMT | 7 Massive Secrets To Control Your Energy And Dominate In Bed | SheSaidWhat | [Read More](https://medium.com/p/b9f46f06a408) |
 | Tue, 29 Jul 2025 16:41:36 GMT | Grounded by Ghosts: How Cyberpartisans Crippled Aeroflot Overnight | Ryder Blackthorn | [Read More](https://medium.com/p/8e9df720ff4c) |
-| Tue, 29 Jul 2025 16:40:16 GMT | SharePoint’s Zero-Day Nightmare: Unpacking CVE-2025-53770 and Why Patching Isn’t Enough | Sarper AVCI | [Read More](https://medium.com/p/bdacd67bbc72) |
-| Tue, 29 Jul 2025 16:38:11 GMT | Practice these Questions for the Google Cloud Professional Cloud Security Engineer Certification… | Sachin Sharma - Lead DevOps Engineer | [Read More](https://medium.com/p/aad8c6bc87bd) |
-| Tue, 29 Jul 2025 16:36:22 GMT | How I Fuzzed a Login Page with Burp Suite on Juice Shop | Abhilash H | [Read More](https://medium.com/p/f1b019f9f811) |
-| Tue, 29 Jul 2025 16:35:10 GMT | Twitter spaces #malware #analysis with expert #jessica” | ADanielHill | [Read More](https://medium.com/p/747d4f67985b) |
-| Tue, 29 Jul 2025 16:32:46 GMT | How I Hacked a Cisco Router with a Dictionary Attack | Alex Benny | [Read More](https://medium.com/p/b612880603f5) |
-| Tue, 29 Jul 2025 16:32:36 GMT | I Was Tired of Being Tracked Online — Here’s How Surfshark VPN Helped Me Take Back Control | Kambetastephano | [Read More](https://medium.com/p/785dcd494005) |
-| Tue, 29 Jul 2025 16:29:50 GMT | Compliance as a Service: The Smarter Way to Stay Secure and Audit-Ready | SafeAeon Inc. | [Read More](https://medium.com/p/a763ee48399a) |
