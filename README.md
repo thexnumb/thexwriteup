@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 08:21:55 GMT | Witness-based Encryption — Using an NP Problem To Encrypt a Message | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/a82c33e50093) |
+| Tue, 29 Jul 2025 08:19:56 GMT | Recon for REWARD — Full Bug Bounty Step-By-Step Playbook | Rashadul Islam | [Read More](https://medium.com/p/30dbaa62ce9f) |
+| Tue, 29 Jul 2025 08:13:13 GMT | Building a Cybersecurity Career:What You Need to Know | Kartik Debnath | [Read More](https://medium.com/p/facbef185de4) |
+| Tue, 29 Jul 2025 08:12:37 GMT | I Challenge the System: Inayat Hussain’s Journey from Rural Rejection to Tech Revolution | Inayat Hussain | [Read More](https://medium.com/p/06169cbb6168) |
+| Tue, 29 Jul 2025 08:01:13 GMT | MCP Protocol Vulnerability Exposes Full Databases — Penligent Delivers a Comprehensive AI… | PenligentAI | [Read More](https://medium.com/p/e08f4f1653c4) |
+| Tue, 29 Jul 2025 07:59:10 GMT | Web Application Firewall Tips: A Practical Guide for Better Web Security | Maverick Steel | [Read More](https://medium.com/p/9d4f6cab856e) |
+| Tue, 29 Jul 2025 07:56:46 GMT | From Rural Sindh to Global Cybersecurity: My Journey of Building Without Borders | Inayat Hussain | [Read More](https://medium.com/p/c29ce6385607) |
+| Tue, 29 Jul 2025 07:54:13 GMT | McDonald’s AI Hiring Assistant “Olivia” Exposed ~64 Million Applicants — How AI Pentesting… | PenligentAI | [Read More](https://medium.com/p/93804f65847d) |
+| Tue, 29 Jul 2025 07:53:03 GMT | ️‍♂️ Recon to Master: The Complete Bug Bounty Checklist | Vipul Sonule | [Read More](https://medium.com/p/b4af6a064b02) |
+| Tue, 29 Jul 2025 07:51:23 GMT | How To Make A Good Password — Four Strong Password Examples | Kajal Sharma | [Read More](https://medium.com/p/98c0bf2ef70b) |
+| Tue, 29 Jul 2025 07:50:17 GMT | They Knew My Password | Aj | [Read More](https://medium.com/p/a5617eebac43) |
+| Tue, 29 Jul 2025 07:50:00 GMT | The Daily Tech Digest: 29 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/1fd533dae578) |
+| Tue, 29 Jul 2025 07:44:50 GMT | The X-13 Neurotoxin: The Dark Enlightenment of AI | CypherTrax | [Read More](https://medium.com/p/510d7bfcb838) |
+| Tue, 29 Jul 2025 07:39:51 GMT | A Detailed Guide on Nmap | Akhil Binu | [Read More](https://medium.com/p/6075bfd20be1) |
+| Tue, 29 Jul 2025 07:36:49 GMT | CTF Walkthrough for 0N3_P1ECE: Exploring Web Exploits in a One Piece-Themed Challenge | Sohambughunt | [Read More](https://medium.com/p/b3466aa29ea4) |
 | Tue, 29 Jul 2025 07:36:00 GMT | Cybersecurity Market — Defending the Digital Frontier | sravanthi V | [Read More](https://medium.com/p/32d50f790af7) |
 | Tue, 29 Jul 2025 07:35:26 GMT | How I Clinched $500 Within Minutes !! | TSxNINJA | [Read More](https://medium.com/p/5b828ad0f5a4) |
 | Tue, 29 Jul 2025 07:31:30 GMT | Automate XSS & IDOR Bug Hunting Using Bash & Python — A Hacker’s Toolkit | Vipul Sonule | [Read More](https://medium.com/p/e8453e51f703) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 03:05:45 GMT | Encryption GUI Simulator: A Tool for the Curious and the Cosmic | jorgerodriguezpagan | [Read More](https://medium.com/p/35e76dfb64f2) |
 | Tue, 29 Jul 2025 03:04:28 GMT | Developers Who Hack > Developers Who Just Code! Why? | FrostFoe | [Read More](https://medium.com/p/c6c63c20f71c) |
 | Tue, 29 Jul 2025 03:01:57 GMT | Japan Faces Worst Security Crisis Since WWII | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/76600237c8fb) |
-| Tue, 29 Jul 2025 03:01:17 GMT | “Climbing the Filesystem Ladder: Path Traversal Is Still Alive (And Kicking Your Backend)” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d696aa9f1bda) |
-| Tue, 29 Jul 2025 02:56:24 GMT | Essential Linux Commands Every Ethical Hacker Should Know (With Practical Examples) —  Part 1 | Hammad Zahid | [Read More](https://medium.com/p/c2bf068a9570) |
-| Tue, 29 Jul 2025 02:45:12 GMT | ️Getting Started with Burp Suite for Beginners | Paritosh | [Read More](https://medium.com/p/f2f894329dfd) |
-| Tue, 29 Jul 2025 02:43:19 GMT | Introduction: The Rise of Collaboration App Threat Vectors | Shadow Packet | [Read More](https://medium.com/p/ce41327e003f) |
-| Tue, 29 Jul 2025 02:42:06 GMT | SQL Injection Prevention: MySQL vs PostgreSQL | Rizqi Mulki | [Read More](https://medium.com/p/79c4dcc17fa1) |
-| Tue, 29 Jul 2025 02:31:42 GMT | What is a CDN and What Does It Do? | Bontie | [Read More](https://medium.com/p/a218812facfc) |
-| Tue, 29 Jul 2025 02:31:34 GMT | Patch or Perish: SharePoint’s Wake-Up Call after hundreds of organizations were impacted | Jai Advani | [Read More](https://medium.com/p/d3269cf5a3ae) |
-| Tue, 29 Jul 2025 02:30:45 GMT | The One Subscription That Replaced 3 Others (and Saved Me Money Every Month) | Kambetastephano | [Read More](https://medium.com/p/8d1bb9441b62) |
-| Tue, 29 Jul 2025 02:26:55 GMT | Bifrost Launches Bug Bounty on Immunefi With $500,000 for a Single Critical Vulnerability | Bifrost | [Read More](https://medium.com/p/533eeab3e5a1) |
-| Tue, 29 Jul 2025 02:21:48 GMT | I Reported a Critical Stored XSS to Zora — What Happened Next Will Dishearten You | John Yangtsali | [Read More](https://medium.com/p/1188d6194554) |
-| Tue, 29 Jul 2025 02:17:03 GMT | eJPT Zero to Hero: Exploitation CTF 3 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/c5da88ff7f7c) |
-| Tue, 29 Jul 2025 02:01:40 GMT | Call Me Ishmael… But I Don’t Tell My Credit Card | Kaiwanyawit Chawankul | [Read More](https://medium.com/p/c7b7c55a93bd) |
-| Tue, 29 Jul 2025 02:01:38 GMT | The Night Bangladesh Bank Nearly Lost $1 Billion | zahidul Islam Ratul | [Read More](https://medium.com/p/5372d9b1348c) |
-| Tue, 29 Jul 2025 01:53:59 GMT | Vulnerability - Let's chat! | The Unpleasing Path | [Read More](https://medium.com/p/6dc02043b4f3) |
-| Tue, 29 Jul 2025 01:44:00 GMT | SOCFortres5: DynaRisk Secures $4.7M to Revolutionize Cyber Risk Management for Insurers | Darshan | [Read More](https://medium.com/p/1f6391fe8c1e) |
