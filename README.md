@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 17:46:29 GMT | The 5-Minute Asset Exposure Checklist | Evgeny Ermakov | [Read More](https://medium.com/p/4e97b845fd78) |
+| Tue, 29 Jul 2025 17:45:43 GMT | Why Traditional Risk Assessment Frameworks Are Failing in the Age of SaaS and Cloud Technology | BuntahBole | [Read More](https://medium.com/p/df7b3893efef) |
+| Tue, 29 Jul 2025 17:41:43 GMT | Telling the Story: Documentation in the Cybersecurity World | Sayantani Halder | [Read More](https://medium.com/p/75d22418d103) |
+| Tue, 29 Jul 2025 17:38:05 GMT | Introducing CerberusX: The Next-Gen XSS Scanner for Ethical Hackers | N0aziXss | [Read More](https://medium.com/p/5e05f5c3718c) |
+| Tue, 29 Jul 2025 17:33:06 GMT | The Top Spy Apps for Monitoring Mobile Devices: Ultimate Guide for Parents & Spouses | Narjis Batool | [Read More](https://medium.com/p/692690a124c5) |
+| Tue, 29 Jul 2025 17:32:59 GMT | Mr Robot (TryHackMe) — Complete Walk-Through & Pen-Test Style Report | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/670aa1b64c53) |
+| Tue, 29 Jul 2025 17:32:52 GMT | The 90-Day Cybersecurity Job Search Breakthrough Plan | Mudassir Syed | [Read More](https://medium.com/p/42baf7ed7551) |
+| Tue, 29 Jul 2025 17:32:29 GMT | ️Installing Ubuntu on VMware: A Beginner-Friendly Setup Guide | Ayush Pandey | [Read More](https://medium.com/p/46595b13f113) |
+| Tue, 29 Jul 2025 17:24:17 GMT | A fear of New Beginnings | Bijou-Noelle Martey | [Read More](https://medium.com/p/4d4e535da9d9) |
+| Tue, 29 Jul 2025 17:23:06 GMT | HACKED ACCOUNT | Grace Cofie | [Read More](https://medium.com/p/ad76ba94d392) |
+| Tue, 29 Jul 2025 17:20:05 GMT | CyberChef: The Basics - TryHackMe - Walkthrough - Notes and Tasks Answers | Yogesh Mishra | [Read More](https://medium.com/p/44c3214ca934) |
 | Tue, 29 Jul 2025 17:17:22 GMT | “Can We Use CANVA for Resume Design? My Honest Review” | Sadika Islam Roza | [Read More](https://medium.com/p/f9ddd24f1e09) |
 | Tue, 29 Jul 2025 17:16:18 GMT | How AI Is used as Both a Shield and a Sword in Cyber-Security | Aashif | [Read More](https://medium.com/p/f8e4ab97876f) |
 | Tue, 29 Jul 2025 17:07:16 GMT | Your Password Is Not a Lock: How Digital Thieves Are Hacking Our Lives One Click at a Time | Nikhila motupalli | [Read More](https://medium.com/p/eb702574bac2) |
@@ -103,14 +114,3 @@ The ever-growing volume and sophistication of… | José Emanuel Cascone Rêgo d
 | Tue, 29 Jul 2025 14:01:58 GMT | I Had Zero Experience in Active Directory When I Was Asked to Lead a Company-Wide Migration | Jeffrey Fesunoff | [Read More](https://medium.com/p/4f22bf2f9d07) |
 | Tue, 29 Jul 2025 13:59:14 GMT | Firewall vs Antivirus — What’s the Difference? | Cybersecurity Umbrella | [Read More](https://medium.com/p/99c8187cb8b5) |
 | Tue, 29 Jul 2025 13:58:53 GMT | The CISO’s Dilemma | Manan Kharbanda | [Read More](https://medium.com/p/651aa1dc127c) |
-| Tue, 29 Jul 2025 13:56:12 GMT | Cybersecurity Essentials for Small Businesses: Protecting Your Digital Infrastructure | José Emanuel Cascone Rêgo de Sousa | [Read More](https://medium.com/p/7c711c3bd4f0) |
-| Tue, 29 Jul 2025 13:55:13 GMT | If You Open Unknown Links Like Me… You Will Lose Everything | Shahzaib | [Read More](https://medium.com/p/c97212e5c130) |
-| Tue, 29 Jul 2025 13:48:01 GMT | Why Men Regret Losing These Types of Women: Understanding Missed Connections | Lucas Brown | [Read More](https://medium.com/p/cca8bb2c351e) |
-| Tue, 29 Jul 2025 13:46:10 GMT | Proof of Stake vs Proof of Work: A Look Through the Lens of Security | Ramprasad goud | [Read More](https://medium.com/p/cafeaabf74ef) |
-| Tue, 29 Jul 2025 13:40:44 GMT | Pwned Labs -Impersonate GCP Service Account for Privileged Access | Moghees Ahmad | [Read More](https://medium.com/p/fdfbc4531177) |
-| Tue, 29 Jul 2025 13:39:14 GMT | Critical Livewire Vulnerability Puts Laravel Apps at Risk of Remote Code Execution | SafetyDetectives Research Team | [Read More](https://medium.com/p/615b80ab5e6b) |
-| Tue, 29 Jul 2025 13:36:51 GMT | Microsoft AppLocker Bug Could Let Hackers Slip Past Restrictions | SafetyDetectives Research Team | [Read More](https://medium.com/p/22f0f4b29671) |
-| Tue, 29 Jul 2025 13:36:33 GMT | Validating Inputs: Stop Android Vulnerabilities Before They Start | Divya Dharshini | [Read More](https://medium.com/p/5984829cb775) |
-| Tue, 29 Jul 2025 13:33:32 GMT | Let’s Defend: 231 — SOC205 — Malicious Macro has been executed - Writeup | EPereda | [Read More](https://medium.com/p/6a8b6bac2067) |
-| Tue, 29 Jul 2025 13:33:30 GMT | Let’s Defend: 249 — SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability… | EPereda | [Read More](https://medium.com/p/38cfbe82651e) |
-| Tue, 29 Jul 2025 13:33:25 GMT | Let’s Defend: 257 — SOC282 — Phishing Alert — Deceptive Mail Detected - Writeup | EPereda | [Read More](https://medium.com/p/743a6ba093ed) |
