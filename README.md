@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 11:09:37 GMT | From Dorking to Critical: Exposing Company Database Credentials and Full Source Code via Public… | 0xRedFox29 | [Read More](https://medium.com/p/197a1fc049c2) |
+| Tue, 29 Jul 2025 11:07:25 GMT | Cybersecurity Is Changing Rapidly | aadesh.k | [Read More](https://medium.com/p/28235649dfb8) |
+| Tue, 29 Jul 2025 11:04:32 GMT | Authentication Bypass: NOSQL Injection on Buggy Buy’s Login | Muneeza Badar | [Read More](https://medium.com/p/a756bf82818a) |
+| Tue, 29 Jul 2025 11:02:35 GMT | Why Most Executives Underestimate Their Digital Risks | Ingvar Pavlovich | [Read More](https://medium.com/p/498302634904) |
+| Tue, 29 Jul 2025 11:02:27 GMT | Safeguarding Cryptographic Keys in Mobile Applications | Arise by INFINITAS | [Read More](https://medium.com/p/3a98246cd2b5) |
+| Tue, 29 Jul 2025 11:00:56 GMT | Steel Mountain — TryHackMe — by Abhay Pandit | Abhay pandit | [Read More](https://medium.com/p/1b64bc4e46b0) |
+| Tue, 29 Jul 2025 10:58:13 GMT | Enumeration in Ethical Hacking: A Bridge Between Reconnaissance and Scanning | evans | [Read More](https://medium.com/p/90e9097f75e6) |
+| Tue, 29 Jul 2025 10:56:49 GMT | To Kill a Monkey: Kemi Adetiba’s Crime Thriller Shows That Even in Love and Crime, Education Wins | Basid Musa | [Read More](https://medium.com/p/0312f3b0154a) |
+| Tue, 29 Jul 2025 10:54:18 GMT | 5G Cybersecurity Guide — Read Before You Deploy | Generative AI Blog | [Read More](https://medium.com/p/950f777e3757) |
+| Tue, 29 Jul 2025 10:54:12 GMT | Ethical Hacking Training in Kerala — Upgrade Your Cybersecurity Skills with Tedora Academy | Archanaa | [Read More](https://medium.com/p/35bfce0bc131) |
+| Tue, 29 Jul 2025 10:53:01 GMT | “Weird” Makes You Resilient | Steve Ezeribe | [Read More](https://medium.com/p/6cf15a1c3023) |
+| Tue, 29 Jul 2025 10:51:42 GMT | Click, Swipe, Protect: Why Cyber Laws Matter Now More Than Ever | Malavika Manoj | [Read More](https://medium.com/p/aa41396507f7) |
+| Tue, 29 Jul 2025 10:51:22 GMT | NeuroSyncAI™ as a Deterministic Integrity Layer: Beyond Blockchain, Beyond Keypairs | Trang Phan | [Read More](https://medium.com/p/00a72b44523a) |
+| Tue, 29 Jul 2025 10:50:55 GMT | Cloud VAPT: Securing Your Cloud Infrastructure | West Advanced Technologies Inc | [Read More](https://medium.com/p/4ce810d1a973) |
+| Tue, 29 Jul 2025 10:48:42 GMT | Top Security Challenges for Businesses in Florida and How Access Control Helps | Juliakibaker | [Read More](https://medium.com/p/a74d6160eadd) |
 | Tue, 29 Jul 2025 10:41:05 GMT | CSP e nonce.md | Victor Hugo Nóbrega Alves | [Read More](https://medium.com/p/f7054d77ae41) |
+| Tue, 29 Jul 2025 10:40:41 GMT | Empowering Safety: Women Security Guard Services in Delhi | Sumintra | [Read More](https://medium.com/p/b669ebf251a0) |
 | Tue, 29 Jul 2025 10:38:52 GMT | Best Advanced Penetration Testing Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/01ff5c7ec0d9) |
 | Tue, 29 Jul 2025 10:30:34 GMT | Laravel: Defensive programming strategies in 2025 | Laravel Daily tips | [Read More](https://medium.com/p/ebb7630cc845) |
 | Tue, 29 Jul 2025 10:28:32 GMT | Comprehensive Protection for Your Business and Property | cxccv | [Read More](https://medium.com/p/2487a971ccb6) |
@@ -34,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 09:42:43 GMT | Analyzing Chrome extension — a less discussed vector for cyber-attack? | Galdadoun | [Read More](https://medium.com/p/38ebaf4b48d5) |
 | Tue, 29 Jul 2025 09:38:16 GMT | Deepfake Threats in Corporate Espionage: The New Face of Cybercrime | CYber VIaz | [Read More](https://medium.com/p/de461c406561) |
 | Tue, 29 Jul 2025 09:36:30 GMT | Is Pydantic as safe as It Is popular? | Maikel Mardjan | [Read More](https://medium.com/p/ea8130296d67) |
+| Tue, 29 Jul 2025 09:31:56 GMT | SIEM, SOAR, EDR ve XDR Nedir? Başlangıç Seviyesi Detaylı Anlatım | FatihUYSAL | [Read More](https://medium.com/p/8c4bc4f89bc4) |
 | Tue, 29 Jul 2025 09:28:06 GMT | Scale-Ready : Image Deduplication with Cryptographic & Perceptual Hashes | Sudhindra Kr. Saxena | [Read More](https://medium.com/p/ae363f54710f) |
 | Tue, 29 Jul 2025 09:24:31 GMT | What is Japan’s Latest and Most Impressive Technology in 2025? | sihackermok | [Read More](https://medium.com/p/dcfe1a62a73f) |
 | Tue, 29 Jul 2025 09:21:49 GMT | Git-Dumped, DB-Hijacked, Shell-Dropped: The Accidental WordPress Takeover | KonaN | [Read More](https://medium.com/p/d520307a7427) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 06:40:07 GMT | BF jail writeup(Brainfuck coding)World wide CTF 2025 | 0xBeast | [Read More](https://medium.com/p/7fba4bde8bb6) |
 | Tue, 29 Jul 2025 06:40:04 GMT | Digital Sovereignty Supply Chain Thinking: The Role of the Invisible Identity Fabric | Carsten Stöcker | [Read More](https://medium.com/p/c88ecba132ee) |
 | Tue, 29 Jul 2025 06:37:48 GMT | How I Found a $2,800 Bug in 60 minutes — and How You Can Spot It Too | Rashadul Islam | [Read More](https://medium.com/p/95bfe919e7f4) |
-| Tue, 29 Jul 2025 06:36:44 GMT | Credential Access Walkthrough — Real Logs, Real Struggles, Real Wins | Kloveslemnyuy | [Read More](https://medium.com/p/ae3f9c2dd883) |
-| Tue, 29 Jul 2025 06:31:38 GMT | “Why Hackers Keep Picking On You (And How To Make Them Stop)” | Zuri | [Read More](https://medium.com/p/377b7428e97b) |
-| Tue, 29 Jul 2025 06:31:07 GMT | “What Is Cloud Computing? Explained with Real-Life Examples” | Vipinjha | [Read More](https://medium.com/p/ffbb68d44a02) |
-| Tue, 29 Jul 2025 06:27:55 GMT | ¿Organizas bien tus reportes de Bug Bounty? Probablemente no. | Gorka | [Read More](https://medium.com/p/892b654ffbc3) |
-| Tue, 29 Jul 2025 06:25:40 GMT | Environmental Monitoring Initiatives Gain Momentum across Qatar | expbhavya | [Read More](https://medium.com/p/4fdf81a81875) |
-| Tue, 29 Jul 2025 06:25:12 GMT | Hackers Breach Toptal’s GitHub: 10 Malicious npm Packages Exfiltrate Tokens and Destroy Systems | CYber VIaz | [Read More](https://medium.com/p/0fafbf4ebe85) |
-| Tue, 29 Jul 2025 06:23:54 GMT | How to Run a Tabletop Exercise for a Ransomware Attack on OT Infrastructure | Microminder Cyber Security | [Read More](https://medium.com/p/0bde70629780) |
-| Tue, 29 Jul 2025 06:19:20 GMT | Cheyanne Mallas: Directing the Future of Cybersecurity with Clarity and Purpose | Cheyannemallaspa | [Read More](https://medium.com/p/43406af5d590) |
-| Tue, 29 Jul 2025 06:18:31 GMT | Top OT Cybersecurity Threats in 2025 and How to Mitigate Them | Microminder Cyber Security | [Read More](https://medium.com/p/b50d31d89476) |
-| Tue, 29 Jul 2025 06:16:47 GMT | Breaking the Login: Understanding HTTP Brute Force Attacks and How to Prevent Them | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/4e3c3eb134ed) |
-| Tue, 29 Jul 2025 06:10:20 GMT | Why Your AI Chats Could Land You in Court | Ahsan Sarfraz | [Read More](https://medium.com/p/1aee5f77d86d) |
-| Tue, 29 Jul 2025 06:09:50 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/21c5c30566dc) |
-| Tue, 29 Jul 2025 06:06:34 GMT | Mainan dari Alam, Ide dari Hati: Kreativitas Anak Zaman Dulu yang Bikin Kagum | KASKUSGAMING.INFO | [Read More](https://medium.com/p/fd8c0be9c24e) |
-| Tue, 29 Jul 2025 06:02:13 GMT | 7 Cybersecurity Habits That Could Save Your Entire Life Online!!!! | Rue | [Read More](https://medium.com/p/1d311d86889b) |
-| Tue, 29 Jul 2025 06:00:27 GMT | Today’s Top Cyber Intelligence Highlights — Jul 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b4eb4167c50d) |
-| Tue, 29 Jul 2025 05:56:55 GMT | ISO 27001 ile Bilgi Güvenliğine Yolculuk — 4 | İrem Çagla Demirtaş | [Read More](https://medium.com/p/3d531f6f5422) |
-| Tue, 29 Jul 2025 05:56:14 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/d445505003fc) |
