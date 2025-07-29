@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 12:37:49 GMT | How I Found a Password Reset Flaw That Led to Full Account Takeover | Aryamevada | [Read More](https://medium.com/p/9f76d138d052) |
+| Tue, 29 Jul 2025 12:34:40 GMT | When Trust Becomes a Threat: Muddled Libra and the Rise of Cloud-Driven Breaches | Pentestjunkie07 | [Read More](https://medium.com/p/6acfc0a97dcc) |
+| Tue, 29 Jul 2025 12:32:03 GMT | Deep Dive: Secrets in the Source — How to Find Leaked Keys, Tokens, and Hidden Endpoints with AI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/882d2347c492) |
+| Tue, 29 Jul 2025 12:31:11 GMT | Building Robust Fraud Detection in Fintech: A Developer’s Guide | Klaus Dev | [Read More](https://medium.com/p/11f06580dc2d) |
+| Tue, 29 Jul 2025 12:29:41 GMT | Deepfakes in 2024–25: Escalating Risks for Businesses | Global Association of Forensic Accountants-GAFA | [Read More](https://medium.com/p/ba4c288d43f9) |
+| Tue, 29 Jul 2025 12:27:34 GMT | 5 Lessons from Satya Nadella — Every Tech Professionals Should Know | K's spotlight | [Read More](https://medium.com/p/8377eb6081b0) |
+| Tue, 29 Jul 2025 12:26:06 GMT | ️ How I Found 13 Bugs Using Just 3 Recon Tools — No Browser, Just Burp at the End | Ekene Joseph | [Read More](https://medium.com/p/f938760f882c) |
+| Tue, 29 Jul 2025 12:25:52 GMT | Zero-Day Alert: How a SharePoint Breach Exposed U.S. | AliiAssghar | [Read More](https://medium.com/p/a7194c8fc5ce) |
+| Tue, 29 Jul 2025 12:25:18 GMT | TryHackMe: Simple CTF (write-up) | Farid Mehdiyev | [Read More](https://medium.com/p/11bc51436ecc) |
+| Tue, 29 Jul 2025 12:19:28 GMT | Automating Microsoft Sentinel Deployments with Azure Developer CLI: A Complete Technical Guide | Dave R - Microsoft Azure & AI MVP☁️ | [Read More](https://medium.com/p/84a100338f1a) |
+| Tue, 29 Jul 2025 12:18:00 GMT | The Mental Game of Bug Bounty: How I Fight Boredom, Burnout & Brain Fog | Manzjson | [Read More](https://medium.com/p/e1fcc0d63ef8) |
+| Tue, 29 Jul 2025 12:17:43 GMT | How Recon Helped Me Land a $50,000 Bug Bounty — No Exploits Needed | Ekene Joseph | [Read More](https://medium.com/p/3e9e2f3c9730) |
+| Tue, 29 Jul 2025 12:14:50 GMT | Pwned Labs -Gain Entry to GCP via GitLab Commit | Moghees Ahmad | [Read More](https://medium.com/p/56631010b303) |
+| Tue, 29 Jul 2025 12:12:04 GMT | 【冷钱包骗局再现！如何防止资产被黑客端走？】⚠️ | Le'Born RWA | [Read More](https://medium.com/p/ee505c135cae) |
+| Tue, 29 Jul 2025 12:10:40 GMT | 【Beware of Cold Wallet Supply Chain Scams】⚠️ | Le'Born RWA | [Read More](https://medium.com/p/d4ca12cb0281) |
+| Tue, 29 Jul 2025 12:07:10 GMT | What Role Does Data Minimization Play in Privacy by Design? | sanya | [Read More](https://medium.com/p/e43cca2f6627) |
+| Tue, 29 Jul 2025 11:59:07 GMT | Pushing data to the safety climax (trying!) | Razvanghiorghe | [Read More](https://medium.com/p/44d202141039) |
+| Tue, 29 Jul 2025 11:58:34 GMT | TryHackMe - Reset Walkthrough | Babatunde Ojo | [Read More](https://medium.com/p/c8270157595a) |
+| Tue, 29 Jul 2025 11:54:49 GMT | OWASP Top 10 for MCP (Model Context Protocol) — know them before you start using MCP servers! | Mansura H. | [Read More](https://medium.com/p/0c8c3b71f89b) |
+| Tue, 29 Jul 2025 11:53:25 GMT | When to choose Attack Surface Management Services? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/0481e62b8dc6) |
+| Tue, 29 Jul 2025 11:51:21 GMT | 4 Cybersecurity Projects That Earn Me Over $4,000/Month as a Penetration Tester | Ekene Joseph | [Read More](https://medium.com/p/8ad3451273a6) |
+| Tue, 29 Jul 2025 11:50:20 GMT | Common IAM Policy Mistakes: The StringNotLike vs. StringNotEquals Confusion | Bhavesh | [Read More](https://medium.com/p/c18e68b738ab) |
+| Tue, 29 Jul 2025 11:50:20 GMT | Top 10 Windows & Linux Privilege Escalation Techniques Every Pentester Should Master | Pratham Shah | [Read More](https://medium.com/p/1b604193c0a8) |
+| Tue, 29 Jul 2025 11:46:33 GMT | ◀️How YouTube Saves So Many Videos and Runs Smoothly, The Tech Secrets Behind Its Speed & Storage | Ashish Dhaware | [Read More](https://medium.com/p/ff209b5059b2) |
+| Tue, 29 Jul 2025 11:45:43 GMT | Brute Force Attack: Cracking Buggy Buy’s Logins | Muniza Badar | [Read More](https://medium.com/p/1e1b468fad60) |
+| Tue, 29 Jul 2025 11:42:12 GMT | How I Make $5,000/Month as a Penetration Tester — And How You Can Too | Zino jo | [Read More](https://medium.com/p/e5810340f4b2) |
+| Tue, 29 Jul 2025 11:41:49 GMT | ️ Avast Free có tốt không ? #TEKNews by TUNGTEK | TUNGTEK Tùng | [Read More](https://medium.com/p/6f8138cca4fa) |
 | Tue, 29 Jul 2025 11:34:49 GMT | How I Gained Remote Code Execution (RCE) on Huawei Phones | Neil Mark Ochea | [Read More](https://medium.com/p/e55a986c1ca0) |
 | Tue, 29 Jul 2025 11:34:25 GMT | How Security Services Work for Commercial Buildings in Hyderabad | Group 24/7 Security Services | [Read More](https://medium.com/p/f598dc00c76d) |
 | Tue, 29 Jul 2025 11:34:17 GMT | How to Secure Your App Using JWT: Access Tokens, Refresh Tokens, Rotation, and CSRF Protection | Samir Mirzaliyev | [Read More](https://medium.com/p/f1fd6a5a612a) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 08:34:49 GMT | TShark Nedir? Komut Satırından Güçlü Ağ Trafiği Analizi | Muhammet Yasin Ağzıkuru | [Read More](https://medium.com/p/46dd8868dd2a) |
 | Tue, 29 Jul 2025 08:30:50 GMT | MCP Servers: Powerful Allies or Sneaky Threats? | Daniel Ostrovsky | [Read More](https://medium.com/p/e4685834843a) |
 | Tue, 29 Jul 2025 08:21:55 GMT | Witness-based Encryption — Using an NP Problem To Encrypt a Message | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/a82c33e50093) |
-| Tue, 29 Jul 2025 08:19:56 GMT | Recon for REWARD — Full Bug Bounty Step-By-Step Playbook | Rashadul Islam | [Read More](https://medium.com/p/30dbaa62ce9f) |
-| Tue, 29 Jul 2025 08:13:13 GMT | Building a Cybersecurity Career:What You Need to Know | Kartik Debnath | [Read More](https://medium.com/p/facbef185de4) |
-| Tue, 29 Jul 2025 08:12:37 GMT | I Challenge the System: Inayat Hussain’s Journey from Rural Rejection to Tech Revolution | Inayat Hussain | [Read More](https://medium.com/p/06169cbb6168) |
-| Tue, 29 Jul 2025 08:01:13 GMT | MCP Protocol Vulnerability Exposes Full Databases — Penligent Delivers a Comprehensive AI… | PenligentAI | [Read More](https://medium.com/p/e08f4f1653c4) |
-| Tue, 29 Jul 2025 07:59:10 GMT | Web Application Firewall Tips: A Practical Guide for Better Web Security | Maverick Steel | [Read More](https://medium.com/p/9d4f6cab856e) |
-| Tue, 29 Jul 2025 07:56:46 GMT | From Rural Sindh to Global Cybersecurity: My Journey of Building Without Borders | Inayat Hussain | [Read More](https://medium.com/p/c29ce6385607) |
-| Tue, 29 Jul 2025 07:54:13 GMT | McDonald’s AI Hiring Assistant “Olivia” Exposed ~64 Million Applicants — How AI Pentesting… | PenligentAI | [Read More](https://medium.com/p/93804f65847d) |
-| Tue, 29 Jul 2025 07:53:03 GMT | ️‍♂️ Recon to Master: The Complete Bug Bounty Checklist | Vipul Sonule | [Read More](https://medium.com/p/b4af6a064b02) |
-| Tue, 29 Jul 2025 07:51:23 GMT | How To Make A Good Password — Four Strong Password Examples | Kajal Sharma | [Read More](https://medium.com/p/98c0bf2ef70b) |
-| Tue, 29 Jul 2025 07:50:17 GMT | They Knew My Password | Aj | [Read More](https://medium.com/p/a5617eebac43) |
-| Tue, 29 Jul 2025 07:50:00 GMT | The Daily Tech Digest: 29 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/1fd533dae578) |
-| Tue, 29 Jul 2025 07:44:50 GMT | The X-13 Neurotoxin: The Dark Enlightenment of AI | CypherTrax | [Read More](https://medium.com/p/510d7bfcb838) |
-| Tue, 29 Jul 2025 07:39:51 GMT | A Detailed Guide on Nmap | Akhil Binu | [Read More](https://medium.com/p/6075bfd20be1) |
-| Tue, 29 Jul 2025 07:36:49 GMT | CTF Walkthrough for 0N3_P1ECE: Exploring Web Exploits in a One Piece-Themed Challenge | Sohambughunt | [Read More](https://medium.com/p/b3466aa29ea4) |
-| Tue, 29 Jul 2025 07:36:00 GMT | Cybersecurity Market — Defending the Digital Frontier | sravanthi V | [Read More](https://medium.com/p/32d50f790af7) |
-| Tue, 29 Jul 2025 07:35:26 GMT | How I Clinched $500 Within Minutes !! | TSxNINJA | [Read More](https://medium.com/p/5b828ad0f5a4) |
-| Tue, 29 Jul 2025 07:31:30 GMT | Automate XSS & IDOR Bug Hunting Using Bash & Python — A Hacker’s Toolkit | Vipul Sonule | [Read More](https://medium.com/p/e8453e51f703) |
-| Tue, 29 Jul 2025 07:31:23 GMT | Easiest No Rate Limit Bypass‼️ | TSxNINJA | [Read More](https://medium.com/p/47baf1813309) |
-| Tue, 29 Jul 2025 07:31:20 GMT | How I Passed the BSCP Exam: A Full Review & Prep Guide | Sid Joshi | [Read More](https://medium.com/p/f597707fb75e) |
-| Tue, 29 Jul 2025 07:31:13 GMT | Tea Uygulaması İkinci Kez Hacklendi: Bu Sefer Durum Çok Daha Ciddi | Alper Konuralp | [Read More](https://medium.com/p/f1dd1a46b06a) |
-| Tue, 29 Jul 2025 07:28:01 GMT | Security Checklist for Android Apps: A Developer’s Field Guide | Divya Dharshini | [Read More](https://medium.com/p/2076fb940703) |
-| Tue, 29 Jul 2025 07:24:56 GMT | Why I Choose Audio: Trust, Stories, and the Magic of Listening | Liat Portal | [Read More](https://medium.com/p/0ae516095d05) |
-| Tue, 29 Jul 2025 07:23:34 GMT | Why Modern Businesses Need Account Management Software | Bhavesh Rajpurohit | [Read More](https://medium.com/p/a18e6a196867) |
-| Tue, 29 Jul 2025 07:23:23 GMT | API Security Market — Safeguarding the Digital Economy | sravanthi V | [Read More](https://medium.com/p/257716d2bfc4) |
-| Tue, 29 Jul 2025 07:20:53 GMT | Freedom, Speed, and Security in the Digital World — Reimagined | WeeCoins Premium & WeeCoins International | [Read More](https://medium.com/p/73134898248e) |
-| Tue, 29 Jul 2025 07:15:43 GMT | CORS — havfsizlik yoki zaiflik? CORS error? | Ismoil Turdaliyev | [Read More](https://medium.com/p/2d4b61b46331) |
-| Tue, 29 Jul 2025 07:13:53 GMT | Beginner’s Guide to Active Reconnaissance (Part 3.4): | Ar-jay A. Ballaco | [Read More](https://medium.com/p/a65d056707f1) |
