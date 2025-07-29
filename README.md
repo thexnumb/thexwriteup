@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 21:38:22 GMT | Build-Vulnlab Write-up | t0x1k | [Read More](https://medium.com/p/94d4080fe40f) |
+| Tue, 29 Jul 2025 21:38:12 GMT | AI Security Newsletter — July, 2025 | Tal Eliyahu | [Read More](https://medium.com/p/91c38d1a3d1d) |
+| Tue, 29 Jul 2025 21:36:59 GMT | Google is Ending Support for “Less Secure Apps” on March 14, 2025 | Luca Berton | [Read More](https://medium.com/p/4aafce218e75) |
+| Tue, 29 Jul 2025 21:36:19 GMT | Why I’m Scary Excited to Help You Master Your Personal Tech | Dan Christ | [Read More](https://medium.com/p/7d1398a74d7f) |
+| Tue, 29 Jul 2025 21:34:42 GMT | Scattered Spider: The Looming Shadow Over U.S. Cybersecurity | James Richardson | [Read More](https://medium.com/p/e8ce141185a5) |
+| Tue, 29 Jul 2025 21:33:45 GMT | How I Passed the CompTIA Security+ Exam in 2 Months | Daniel J. L'Episcopo | [Read More](https://medium.com/p/a7fe7c252140) |
+| Tue, 29 Jul 2025 21:31:44 GMT | My Experience Studying for the Security+ Certification | Alexander Haffty | [Read More](https://medium.com/p/13fe683cd232) |
+| Tue, 29 Jul 2025 21:23:05 GMT | Persuasion as a Weapon: How Hackers Use Logos, Pathos, and Ethos to Breach Human Defenses | Asma Yasmeen | [Read More](https://medium.com/p/993099660fbb) |
 | Tue, 29 Jul 2025 21:04:31 GMT | Cybersecurity Compliance is a Lie (Unless You Do This) | Steven McDaniel | [Read More](https://medium.com/p/ee92fe72e379) |
 | Tue, 29 Jul 2025 21:01:50 GMT | In-depth Cybersecurity Threat landscape spanning June to July 2025 | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/857cef3ff036) |
 | Tue, 29 Jul 2025 21:01:02 GMT | Part 7: On the Horizon — Quantum Computing & Future Threats | Ben San Roman | [Read More](https://medium.com/p/a7a56a34b141) |
@@ -104,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 16:32:46 GMT | How I Hacked a Cisco Router with a Dictionary Attack | Alex Benny | [Read More](https://medium.com/p/b612880603f5) |
 | Tue, 29 Jul 2025 16:32:36 GMT | I Was Tired of Being Tracked Online — Here’s How Surfshark VPN Helped Me Take Back Control | Kambetastephano | [Read More](https://medium.com/p/785dcd494005) |
 | Tue, 29 Jul 2025 16:29:50 GMT | Compliance as a Service: The Smarter Way to Stay Secure and Audit-Ready | SafeAeon Inc. | [Read More](https://medium.com/p/a763ee48399a) |
-| Tue, 29 Jul 2025 16:23:26 GMT | Proč by se i malé a střední firmy měly zajímat o kybernetickou bezpečnost? | Cyber Solution | [Read More](https://medium.com/p/6e84018639cf) |
-| Tue, 29 Jul 2025 16:21:38 GMT | Set It and Forget It: How Feroot’s PaymentGuard AI Automates PCI 6.4.3 | Feroot Security | [Read More](https://medium.com/p/db5821b1c09a) |
-| Tue, 29 Jul 2025 16:19:45 GMT | The Benefits of Bulletproof Glass: Protection You Can Trust
-In today’s world, safety is more… | Durranih | [Read More](https://medium.com/p/78782f751050) |
-| Tue, 29 Jul 2025 16:18:11 GMT | DeedRAT Backdoor: How Threat Actors Hijack Antivirus Software for Stealthy Payload Deployment | Jon C | [Read More](https://medium.com/p/7d1cc55a0361) |
-| Tue, 29 Jul 2025 16:12:49 GMT | Decisions, Systems, and the Power of Social Technology | Anikeev Kirill | [Read More](https://medium.com/p/492134784337) |
-| Tue, 29 Jul 2025 16:08:52 GMT | Blacklock Security Limited — Best Pen Testing Company NZ | Black Lock | [Read More](https://medium.com/p/516add8185ba) |
-| Tue, 29 Jul 2025 16:06:59 GMT | Top VPNs with Kill Switch: Stay Protected If Your Connection Drops | Timonéofearth | [Read More](https://medium.com/p/ea7cf1b015ec) |
-| Tue, 29 Jul 2025 16:04:17 GMT | Simplifying Cybersecurity: What Network Protocols Are and Why You Should Actually learn them . | Felipe Jeske Turini | [Read More](https://medium.com/p/f1b143d69554) |
