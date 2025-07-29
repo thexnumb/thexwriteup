@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 13:36:51 GMT | Microsoft AppLocker Bug Could Let Hackers Slip Past Restrictions | SafetyDetectives Research Team | [Read More](https://medium.com/p/22f0f4b29671) |
+| Tue, 29 Jul 2025 13:33:32 GMT | Let’s Defend: 231 — SOC205 — Malicious Macro has been executed - Writeup | EPereda | [Read More](https://medium.com/p/6a8b6bac2067) |
+| Tue, 29 Jul 2025 13:33:30 GMT | Let’s Defend: 249 — SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability… | EPereda | [Read More](https://medium.com/p/38cfbe82651e) |
+| Tue, 29 Jul 2025 13:33:25 GMT | Let’s Defend: 257 — SOC282 — Phishing Alert — Deceptive Mail Detected - Writeup | EPereda | [Read More](https://medium.com/p/743a6ba093ed) |
+| Tue, 29 Jul 2025 13:32:38 GMT | From Firewall to Full-Stack: EDSPL’s Scalable Cybersecurity | saurabh cyberinfomines | [Read More](https://medium.com/p/a083e8a0aab1) |
+| Tue, 29 Jul 2025 13:31:37 GMT | Vision Transformer ile Ağ Trafiğinde Anomali Tespiti: Görselleştirerek Güvenliği Artırmak | Enes Said Altun | [Read More](https://medium.com/p/86f5b6d90137) |
+| Tue, 29 Jul 2025 13:31:07 GMT | Polymorphic Ransomware 2.0: | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/a6c5cf232057) |
+| Tue, 29 Jul 2025 13:30:49 GMT | IDOR Is Still a Thing — And It’s Still a Threat | Aravind S V | [Read More](https://medium.com/p/559be52fd35a) |
+| Tue, 29 Jul 2025 13:18:28 GMT | Introduction to Endpoint Security | News | [Read More](https://medium.com/p/5e603dba7611) |
+| Tue, 29 Jul 2025 13:17:28 GMT | Securing APIs: Best Practices and Common Pitfalls | News | [Read More](https://medium.com/p/1d998730c978) |
+| Tue, 29 Jul 2025 13:14:53 GMT | Keep Your Samsung Safe: Here’s How to Activate Theft Protection on Galaxy Phones | ansiholan - aibriefnow.com | [Read More](https://medium.com/p/2a3aa42945f7) |
+| Tue, 29 Jul 2025 13:10:51 GMT | Exploring Psychological Risks in Digital Forensics: The Case of Secondary Traumatic Stress | Tedislava Vasileva | [Read More](https://medium.com/p/4774fcd2f421) |
+| Tue, 29 Jul 2025 13:10:37 GMT | How Hackers Think: Test Your Software with Chaos Engineering! | Murat Kocacık | [Read More](https://medium.com/p/5bb1723fe62a) |
+| Tue, 29 Jul 2025 13:08:13 GMT | Hackerlar Nasıl Düşünür? Fuzz Testing ile Yazılımınızı Kaçak Testçilerle Test Edin! | Murat Kocacık | [Read More](https://medium.com/p/24a971fc0bd7) |
+| Tue, 29 Jul 2025 13:08:09 GMT | How a Simple Payload Led Me to My First SQL Injection Vulnerability | SVR Articles | [Read More](https://medium.com/p/a7b5a9a27f72) |
+| Tue, 29 Jul 2025 13:06:56 GMT | US Wants $2.4M in Bitcoin from Hackers — For Its Own Crypto Stash?! | CoinGen | [Read More](https://medium.com/p/1156bc27bec3) |
+| Tue, 29 Jul 2025 13:06:01 GMT | How I Turned a Headless Browser into a Critical SSRF Goldmine | Ibtissam hammadi | [Read More](https://medium.com/p/57b37235af0f) |
+| Tue, 29 Jul 2025 13:04:11 GMT | What Is Google reCAPTCHA and Which Type Is Best in 2025? | amol pawar | [Read More](https://medium.com/p/0df1b9f22ea1) |
+| Tue, 29 Jul 2025 13:01:58 GMT | ️ Creating Isolated Security Test Environments with Linux Network Namespaces | Esra Kayhan | [Read More](https://medium.com/p/1beb430c05bf) |
+| Tue, 29 Jul 2025 12:58:16 GMT | Effortlessly Export Couchbase RBAC and Sync HashiCorp Vault Dynamic Roles | Raymon Epping | [Read More](https://medium.com/p/1a58bb85996d) |
+| Tue, 29 Jul 2025 12:43:11 GMT | Cybersecurity Career Roadmap 2025: From IT Beginner to Cybersecurity Leader | Gourav(spidergk) | [Read More](https://medium.com/p/f10b5a4fa095) |
 | Tue, 29 Jul 2025 12:37:49 GMT | How I Found a Password Reset Flaw That Led to Full Account Takeover | Aryamevada | [Read More](https://medium.com/p/9f76d138d052) |
 | Tue, 29 Jul 2025 12:34:40 GMT | When Trust Becomes a Threat: Muddled Libra and the Rise of Cloud-Driven Breaches | Pentestjunkie07 | [Read More](https://medium.com/p/6acfc0a97dcc) |
 | Tue, 29 Jul 2025 12:32:03 GMT | Deep Dive: Secrets in the Source — How to Find Leaked Keys, Tokens, and Hidden Endpoints with AI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/882d2347c492) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 09:49:50 GMT | OAuth Misconfiguration in Symfony: Secure It Now | Pentest_Testing_Corp | [Read More](https://medium.com/p/7ac2a464f8e0) |
 | Tue, 29 Jul 2025 09:47:56 GMT | Understanding RBAC in Kubernetes: A Simple Example with VMAgent and Service Discovery | Praveen Krishna Murthy | [Read More](https://medium.com/p/52850114d2c8) |
 | Tue, 29 Jul 2025 09:42:43 GMT | Analyzing Chrome extension — a less discussed vector for cyber-attack? | Galdadoun | [Read More](https://medium.com/p/38ebaf4b48d5) |
-| Tue, 29 Jul 2025 09:38:16 GMT | Deepfake Threats in Corporate Espionage: The New Face of Cybercrime | CYber VIaz | [Read More](https://medium.com/p/de461c406561) |
-| Tue, 29 Jul 2025 09:36:30 GMT | Is Pydantic as safe as It Is popular? | Maikel Mardjan | [Read More](https://medium.com/p/ea8130296d67) |
-| Tue, 29 Jul 2025 09:31:56 GMT | SIEM, SOAR, EDR ve XDR Nedir? Başlangıç Seviyesi Detaylı Anlatım | FatihUYSAL | [Read More](https://medium.com/p/8c4bc4f89bc4) |
-| Tue, 29 Jul 2025 09:28:06 GMT | Scale-Ready : Image Deduplication with Cryptographic & Perceptual Hashes | Sudhindra Kr. Saxena | [Read More](https://medium.com/p/ae363f54710f) |
-| Tue, 29 Jul 2025 09:24:31 GMT | What is Japan’s Latest and Most Impressive Technology in 2025? | sihackermok | [Read More](https://medium.com/p/dcfe1a62a73f) |
-| Tue, 29 Jul 2025 09:21:49 GMT | Git-Dumped, DB-Hijacked, Shell-Dropped: The Accidental WordPress Takeover | KonaN | [Read More](https://medium.com/p/d520307a7427) |
-| Tue, 29 Jul 2025 09:13:28 GMT | CCTV Installation Services In Bangalore | Bhuvanesh Technotym | [Read More](https://medium.com/p/85003ad96721) |
-| Tue, 29 Jul 2025 09:01:57 GMT | Forensics - picoGym - Sleuthkit Apprentice | Flower Bed | [Read More](https://medium.com/p/dea9b7b56330) |
-| Tue, 29 Jul 2025 09:01:55 GMT | The Digital ICU | John Lamisi | [Read More](https://medium.com/p/40196e3b544e) |
-| Tue, 29 Jul 2025 08:59:42 GMT | # Doomscrolling an Identity Governance Programme | Manoj Kumar | [Read More](https://medium.com/p/45a94c4ed12e) |
-| Tue, 29 Jul 2025 08:58:34 GMT | Cypher - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/57d1debd3f5c) |
-| Tue, 29 Jul 2025 08:53:18 GMT | OpenSSL ile Kendinden İmzalı SSL Sertifikası Oluşturma | Ahmet Enes Tokmak | [Read More](https://medium.com/p/487a689290d9) |
-| Tue, 29 Jul 2025 08:52:01 GMT | Code Haystack HEPA Filter | Carl Sue | [Read More](https://medium.com/p/9d3958058a6e) |
-| Tue, 29 Jul 2025 08:51:20 GMT | Per tanto tempo ho tenuto per me alcune parole. | MartinaELaSuaVoce | [Read More](https://medium.com/p/345fe68f5ff3) |
-| Tue, 29 Jul 2025 08:45:47 GMT | How to Set Up Cloudflare for Your Website: A Step-by-Step Guide | Net2secure | [Read More](https://medium.com/p/ad3fd0facbe3) |
-| Tue, 29 Jul 2025 08:44:37 GMT | ประจำวันอังคารที่ 29 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c53185276ff8) |
-| Tue, 29 Jul 2025 08:37:44 GMT | Top Skills You’ll Learn in Ethical Hacking Training in Kerala | Shilpa Digitalpro | [Read More](https://medium.com/p/234cde730667) |
-| Tue, 29 Jul 2025 08:35:37 GMT | Smarter Traffic Filtering with SafeLine WAF: Real-Time Protection for Modern Attacks | AerieWhole123 | [Read More](https://medium.com/p/8c55054c3b4e) |
-| Tue, 29 Jul 2025 08:34:49 GMT | TShark Nedir? Komut Satırından Güçlü Ağ Trafiği Analizi | Muhammet Yasin Ağzıkuru | [Read More](https://medium.com/p/46dd8868dd2a) |
-| Tue, 29 Jul 2025 08:30:50 GMT | MCP Servers: Powerful Allies or Sneaky Threats? | Daniel Ostrovsky | [Read More](https://medium.com/p/e4685834843a) |
-| Tue, 29 Jul 2025 08:21:55 GMT | Witness-based Encryption — Using an NP Problem To Encrypt a Message | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/a82c33e50093) |
