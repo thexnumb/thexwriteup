@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 23:14:34 GMT | The Rise of Shadow AI: When Employees Use Unapproved AI Tools at Work | Akshay Chauhan | [Read More](https://medium.com/p/1514e8b4bbf7) |
+| Tue, 29 Jul 2025 23:08:22 GMT | Click. Steal. Repeat | kneox | [Read More](https://medium.com/p/d4a962c11167) |
+| Tue, 29 Jul 2025 22:57:03 GMT | Hack The Box: Cap — Write-up | Hayden Sapp | [Read More](https://medium.com/p/5eed223aa23e) |
+| Tue, 29 Jul 2025 22:51:11 GMT | Mocktail e Flutter em 2025? | Marden Cavalcante | [Read More](https://medium.com/p/5ff29d13ea4d) |
+| Tue, 29 Jul 2025 22:45:26 GMT | How do some dApps pretend to have verified contracts when they don’t? | The Block Experts | [Read More](https://medium.com/p/de116b7d672b) |
 | Tue, 29 Jul 2025 22:44:54 GMT | When AI Models Become Malware Targets: The Rise of Model Poisoning Attacks | Akshay Chauhan | [Read More](https://medium.com/p/9aff52a792e6) |
 | Tue, 29 Jul 2025 22:43:31 GMT | SQL injection attack, querying the database type and version on MySQL and Microsoft | Zabed Ullah Poyel | [Read More](https://medium.com/p/40b7182a5699) |
 | Tue, 29 Jul 2025 22:36:06 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/69849a2570f2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 17:07:16 GMT | Your Password Is Not a Lock: How Digital Thieves Are Hacking Our Lives One Click at a Time | Nikhila motupalli | [Read More](https://medium.com/p/eb702574bac2) |
 | Tue, 29 Jul 2025 17:06:02 GMT | TryHackMe Writeup✍: Snort | Zohal | [Read More](https://medium.com/p/201606b93b29) |
 | Tue, 29 Jul 2025 17:02:59 GMT | Women Violated: How Hackers Breached the Tea App — and How to Secure It | John The CEO, Cloud And Social Thought Leader | [Read More](https://medium.com/p/dc005e0353d1) |
-| Tue, 29 Jul 2025 17:01:55 GMT | OWASP Top 10 for Node.js Developers: Fortifying Your Applications in 2025 | habtesoft | [Read More](https://medium.com/p/0ea0279d7132) |
-| Tue, 29 Jul 2025 17:01:48 GMT | Taking Over a Russian Domain using Techniques from Digital Forensics | SCorpion | [Read More](https://medium.com/p/05bb2e1872be) |
-| Tue, 29 Jul 2025 17:00:56 GMT | User-Based Unconstrained Delegation and SPN-jacking | Giulio Pierantoni | [Read More](https://medium.com/p/29b916d1ff25) |
-| Tue, 29 Jul 2025 16:52:47 GMT | From Zero to Hacker: My Real Bug Bounty Starting Point | 77r4sed | [Read More](https://medium.com/p/58d9d949734e) |
-| Tue, 29 Jul 2025 16:50:21 GMT | FIRST HACKING | Enoch Root | [Read More](https://medium.com/p/9764f59c8823) |
