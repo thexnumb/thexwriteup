@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 16:23:26 GMT | Proč by se i malé a střední firmy měly zajímat o kybernetickou bezpečnost? | Cyber Solution | [Read More](https://medium.com/p/6e84018639cf) |
+| Tue, 29 Jul 2025 16:12:49 GMT | Decisions, Systems, and the Power of Social Technology | Anikeev Kirill | [Read More](https://medium.com/p/492134784337) |
+| Tue, 29 Jul 2025 16:08:52 GMT | Blacklock Security Limited — Best Pen Testing Company NZ | Black Lock | [Read More](https://medium.com/p/516add8185ba) |
+| Tue, 29 Jul 2025 16:06:59 GMT | Top VPNs with Kill Switch: Stay Protected If Your Connection Drops | Timonéofearth | [Read More](https://medium.com/p/ea7cf1b015ec) |
+| Tue, 29 Jul 2025 16:04:17 GMT | Simplifying Cybersecurity: What Network Protocols Are and Why You Should Actually learn them . | Felipe Jeske Turini | [Read More](https://medium.com/p/f1b143d69554) |
+| Tue, 29 Jul 2025 15:59:58 GMT | Toptal GitHub Breach: Malicious npm Packages Target Developers | Liran Nachman | [Read More](https://medium.com/p/9888931f85a7) |
+| Tue, 29 Jul 2025 15:57:37 GMT | Understanding Shellshock: The Bash Bug That Shook the Internet | M7 | [Read More](https://medium.com/p/af9ca610a5a0) |
+| Tue, 29 Jul 2025 15:57:23 GMT | The Landlord Didn’t Get Away With It: Thanks to Code and AI | Joel Salt | [Read More](https://medium.com/p/ff609ab39145) |
+| Tue, 29 Jul 2025 15:50:24 GMT | ISMAP Management Standards Chapter 1: What’s Your “Measuring Stick” for Choosing Cloud Services? | nolly | [Read More](https://medium.com/p/011350dda604) |
+| Tue, 29 Jul 2025 15:49:32 GMT | Zast.ai is live! | ZAST AI | [Read More](https://medium.com/p/576186389d81) |
+| Tue, 29 Jul 2025 15:47:58 GMT | Bastard — HackTheBox Writeup | Pedromoreiralopes | [Read More](https://medium.com/p/bafafae56195) |
+| Tue, 29 Jul 2025 15:47:51 GMT | SIEM Use Case Series Day 1: Detecting Brute Force Attacks via Failed Login Attempts | NineTales | [Read More](https://medium.com/p/14ac62cea94f) |
 | Tue, 29 Jul 2025 15:43:47 GMT | Comment faire du poisoning sur Perplexity.ai : guide complet | Eandgo Referencement | [Read More](https://medium.com/p/8758ad156237) |
 | Tue, 29 Jul 2025 15:41:19 GMT | Navigating Japan’s Cybersecurity Landscape | nolly | [Read More](https://medium.com/p/0791591ef6d9) |
 | Tue, 29 Jul 2025 15:31:51 GMT | Implementing Zero-Trust Architecture in .NET APIs with Certificate-Based Authentication | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/5e48e04b0cbf) |
@@ -101,15 +113,3 @@ The ever-growing volume and sophistication of… | José Emanuel Cascone Rêgo d
 | Tue, 29 Jul 2025 12:29:41 GMT | Deepfakes in 2024–25: Escalating Risks for Businesses | Global Association of Forensic Accountants-GAFA | [Read More](https://medium.com/p/ba4c288d43f9) |
 | Tue, 29 Jul 2025 12:27:34 GMT | 5 Lessons from Satya Nadella — Every Tech Professionals Should Know | K's spotlight | [Read More](https://medium.com/p/8377eb6081b0) |
 | Tue, 29 Jul 2025 12:26:06 GMT | ️ How I Found 13 Bugs Using Just 3 Recon Tools — No Browser, Just Burp at the End | Ekene Joseph | [Read More](https://medium.com/p/f938760f882c) |
-| Tue, 29 Jul 2025 12:25:52 GMT | Zero-Day Alert: How a SharePoint Breach Exposed U.S. | AliiAssghar | [Read More](https://medium.com/p/a7194c8fc5ce) |
-| Tue, 29 Jul 2025 12:25:18 GMT | TryHackMe: Simple CTF (write-up) | Farid Mehdiyev | [Read More](https://medium.com/p/11bc51436ecc) |
-| Tue, 29 Jul 2025 12:19:28 GMT | Automating Microsoft Sentinel Deployments with Azure Developer CLI: A Complete Technical Guide | Dave R - Microsoft Azure & AI MVP☁️ | [Read More](https://medium.com/p/84a100338f1a) |
-| Tue, 29 Jul 2025 12:18:00 GMT | The Mental Game of Bug Bounty: How I Fight Boredom, Burnout & Brain Fog | Manzjson | [Read More](https://medium.com/p/e1fcc0d63ef8) |
-| Tue, 29 Jul 2025 12:17:43 GMT | How Recon Helped Me Land a $50,000 Bug Bounty — No Exploits Needed | Ekene Joseph | [Read More](https://medium.com/p/3e9e2f3c9730) |
-| Tue, 29 Jul 2025 12:14:50 GMT | Pwned Labs -Gain Entry to GCP via GitLab Commit | Moghees Ahmad | [Read More](https://medium.com/p/56631010b303) |
-| Tue, 29 Jul 2025 12:12:04 GMT | 【冷钱包骗局再现！如何防止资产被黑客端走？】⚠️ | Le'Born RWA | [Read More](https://medium.com/p/ee505c135cae) |
-| Tue, 29 Jul 2025 12:10:40 GMT | 【Beware of Cold Wallet Supply Chain Scams】⚠️ | Le'Born RWA | [Read More](https://medium.com/p/d4ca12cb0281) |
-| Tue, 29 Jul 2025 12:07:10 GMT | What Role Does Data Minimization Play in Privacy by Design? | sanya | [Read More](https://medium.com/p/e43cca2f6627) |
-| Tue, 29 Jul 2025 11:59:07 GMT | Pushing data to the safety climax (trying!) | Razvanghiorghe | [Read More](https://medium.com/p/44d202141039) |
-| Tue, 29 Jul 2025 11:58:34 GMT | TryHackMe - Reset Walkthrough | Babatunde Ojo | [Read More](https://medium.com/p/c8270157595a) |
-| Tue, 29 Jul 2025 11:54:49 GMT | OWASP Top 10 for MCP (Model Context Protocol) — know them before you start using MCP servers! | Mansura H. | [Read More](https://medium.com/p/0c8c3b71f89b) |
