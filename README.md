@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 20:17:20 GMT | Snort in Action: A Hands-On Guide to IDS & IPS | Pius Emmanuel Papka | [Read More](https://medium.com/p/56a8bfcf0663) |
+| Tue, 29 Jul 2025 20:13:20 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/813670d6b072) |
+| Tue, 29 Jul 2025 20:07:32 GMT | ROOMSHIELD PROTOCOL: DESIGNING ACCOUNTABILITY IN THE AGE OF AI | Can Doğan | [Read More](https://medium.com/p/07266ebe61ac) |
+| Tue, 29 Jul 2025 20:06:54 GMT | Remote Code Execution on Dutch Site via CVE-2024-36401 | AbhirupKonwar | [Read More](https://medium.com/p/7678b19cfa31) |
+| Tue, 29 Jul 2025 19:52:44 GMT | Meme World Order: Building a Decentralized Future, Together!" | MEMES WORLD  ORDER | [Read More](https://medium.com/p/136437f0505b) |
+| Tue, 29 Jul 2025 19:50:56 GMT | Slides-To-Translate: When IT Says No, Build a $0.04 Solution on Your Lunch Break | Médéric Hurier (Fmind) | [Read More](https://medium.com/p/3afa8bd9f6bb) |
+| Tue, 29 Jul 2025 19:48:17 GMT | Threat Intelligence Using VirusTotal and AbuseIPDB | James N | [Read More](https://medium.com/p/541f4507e7bb) |
+| Tue, 29 Jul 2025 19:47:51 GMT | Beyond Standalone: Integrating Smart Camera Devices in Your Home | Leo Beenhakker | [Read More](https://medium.com/p/d3d3c8ded2f0) |
 | Tue, 29 Jul 2025 19:36:24 GMT | How to Hypnotize a Housefly (And Why It Might Actually Work) | Tim Villegas | [Read More](https://medium.com/p/bfaab30746aa) |
 | Tue, 29 Jul 2025 19:36:01 GMT | From SIEM to LLM: Building Cybersecurity AI Tools | Heartlin Machado | [Read More](https://medium.com/p/feb13e2577b3) |
 | Tue, 29 Jul 2025 19:33:03 GMT | Tired of Cyber Threats? Here’s How Digital Identity Services Help | WallaceId | [Read More](https://medium.com/p/65f414baa822) |
@@ -105,11 +113,3 @@ In today’s world, safety is more… | Durranih | [Read More](https://medium.co
 | Tue, 29 Jul 2025 15:31:51 GMT | Implementing Zero-Trust Architecture in .NET APIs with Certificate-Based Authentication | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/5e48e04b0cbf) |
 | Tue, 29 Jul 2025 15:31:51 GMT | Why Device Onboarding Breaks (and How to Finally Get It Right) | Yuvi Aggarwal | [Read More](https://medium.com/p/3bcc0b0078f7) |
 | Tue, 29 Jul 2025 15:30:26 GMT | Understanding XSS: The Silent Killer of Web Application Security | Ayshee | [Read More](https://medium.com/p/0dfe0c998bbc) |
-| Tue, 29 Jul 2025 15:30:03 GMT | Sunray Finance, Fire Token, and OnyxDAO Drained via Key Compromise, Launch-Time Burn Flaw, and… | Olympix | [Read More](https://medium.com/p/4a062046957d) |
-| Tue, 29 Jul 2025 15:28:18 GMT | MDR — Old Information Just Isn’t Enough Anymore | Conceal, Inc. | [Read More](https://medium.com/p/8d86e76fe59c) |
-| Tue, 29 Jul 2025 15:28:06 GMT | Radiant Capital, Bedrock, and Shezmu Compromised for $60M via Multisig Misconfig, Minting… | Olympix | [Read More](https://medium.com/p/621d04b42ad4) |
-| Tue, 29 Jul 2025 15:26:47 GMT | Finding Home | Silentwhispers79 | [Read More](https://medium.com/p/7103744e9c74) |
-| Tue, 29 Jul 2025 15:26:39 GMT | Suzanne Alipourian-Frascogna: Driving Innovation at the Intersection of Cybersecurity and Product… | Suzanne Alipourian-Frascogna | [Read More](https://medium.com/p/3ec0318bb664) |
-| Tue, 29 Jul 2025 15:25:00 GMT | You Think the Dark Web Is Just for Hackers? Here’s What I Actually Found | Hugo Valters | [Read More](https://medium.com/p/9acbc4dd836a) |
-| Tue, 29 Jul 2025 15:20:04 GMT | I Did Basic Pentesting Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/2acabca0772f) |
-| Tue, 29 Jul 2025 15:18:41 GMT | No Tape, Just Time | Marie Grace, PhD | [Read More](https://medium.com/p/a0d235a2e77b) |
