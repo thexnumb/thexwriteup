@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 17:17:22 GMT | “Can We Use CANVA for Resume Design? My Honest Review” | Sadika Islam Roza | [Read More](https://medium.com/p/f9ddd24f1e09) |
+| Tue, 29 Jul 2025 17:16:18 GMT | How AI Is used as Both a Shield and a Sword in Cyber-Security | Aashif | [Read More](https://medium.com/p/f8e4ab97876f) |
+| Tue, 29 Jul 2025 17:07:16 GMT | Your Password Is Not a Lock: How Digital Thieves Are Hacking Our Lives One Click at a Time | Nikhila motupalli | [Read More](https://medium.com/p/eb702574bac2) |
+| Tue, 29 Jul 2025 17:06:02 GMT | TryHackMe Writeup✍: Snort | Zohal | [Read More](https://medium.com/p/201606b93b29) |
+| Tue, 29 Jul 2025 17:02:59 GMT | Women Violated: How Hackers Breached the Tea App — and How to Secure It | John The CEO, Cloud And Social Thought Leader | [Read More](https://medium.com/p/dc005e0353d1) |
+| Tue, 29 Jul 2025 17:01:55 GMT | OWASP Top 10 for Node.js Developers: Fortifying Your Applications in 2025 | habtesoft | [Read More](https://medium.com/p/0ea0279d7132) |
+| Tue, 29 Jul 2025 17:01:48 GMT | Taking Over a Russian Domain using Techniques from Digital Forensics | SCorpion | [Read More](https://medium.com/p/05bb2e1872be) |
+| Tue, 29 Jul 2025 17:00:56 GMT | User-Based Unconstrained Delegation and SPN-jacking | Giulio Pierantoni | [Read More](https://medium.com/p/29b916d1ff25) |
+| Tue, 29 Jul 2025 16:52:47 GMT | From Zero to Hacker: My Real Bug Bounty Starting Point | 77r4sed | [Read More](https://medium.com/p/58d9d949734e) |
+| Tue, 29 Jul 2025 16:50:21 GMT | FIRST HACKING | Enoch Root | [Read More](https://medium.com/p/9764f59c8823) |
+| Tue, 29 Jul 2025 16:47:30 GMT | Your Code Was Fine Until a Senior Dev Needed to Feel Smart | The Latency Gambler | [Read More](https://medium.com/p/b7c4f2c33b90) |
+| Tue, 29 Jul 2025 16:46:51 GMT | Virus vs Worm | Cyber T | [Read More](https://medium.com/p/da5bd53b5299) |
 | Tue, 29 Jul 2025 16:43:06 GMT | IAM in action: Real world use cases of identity types (B2B, B2C & more) | Malith Dilshan | [Read More](https://medium.com/p/25762baa1bf4) |
 | Tue, 29 Jul 2025 16:41:50 GMT | 7 Massive Secrets To Control Your Energy And Dominate In Bed | SheSaidWhat | [Read More](https://medium.com/p/b9f46f06a408) |
 | Tue, 29 Jul 2025 16:41:36 GMT | Grounded by Ghosts: How Cyberpartisans Crippled Aeroflot Overnight | Ryder Blackthorn | [Read More](https://medium.com/p/8e9df720ff4c) |
@@ -102,15 +114,3 @@ The ever-growing volume and sophistication of… | José Emanuel Cascone Rêgo d
 | Tue, 29 Jul 2025 13:33:32 GMT | Let’s Defend: 231 — SOC205 — Malicious Macro has been executed - Writeup | EPereda | [Read More](https://medium.com/p/6a8b6bac2067) |
 | Tue, 29 Jul 2025 13:33:30 GMT | Let’s Defend: 249 — SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability… | EPereda | [Read More](https://medium.com/p/38cfbe82651e) |
 | Tue, 29 Jul 2025 13:33:25 GMT | Let’s Defend: 257 — SOC282 — Phishing Alert — Deceptive Mail Detected - Writeup | EPereda | [Read More](https://medium.com/p/743a6ba093ed) |
-| Tue, 29 Jul 2025 13:32:38 GMT | From Firewall to Full-Stack: EDSPL’s Scalable Cybersecurity | saurabh cyberinfomines | [Read More](https://medium.com/p/a083e8a0aab1) |
-| Tue, 29 Jul 2025 13:31:37 GMT | Vision Transformer ile Ağ Trafiğinde Anomali Tespiti: Görselleştirerek Güvenliği Artırmak | Enes Said Altun | [Read More](https://medium.com/p/86f5b6d90137) |
-| Tue, 29 Jul 2025 13:31:23 GMT | Why Are We Afraid to Stand by What Truly Moves Us? | Wizard Mike | [Read More](https://medium.com/p/7f9615994304) |
-| Tue, 29 Jul 2025 13:31:07 GMT | Polymorphic Ransomware 2.0: | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/a6c5cf232057) |
-| Tue, 29 Jul 2025 13:30:49 GMT | IDOR Is Still a Thing — And It’s Still a Threat | Aravind S V | [Read More](https://medium.com/p/559be52fd35a) |
-| Tue, 29 Jul 2025 13:18:28 GMT | Introduction to Endpoint Security | News | [Read More](https://medium.com/p/5e603dba7611) |
-| Tue, 29 Jul 2025 13:17:28 GMT | Securing APIs: Best Practices and Common Pitfalls | News | [Read More](https://medium.com/p/1d998730c978) |
-| Tue, 29 Jul 2025 13:14:53 GMT | Keep Your Samsung Safe: Here’s How to Activate Theft Protection on Galaxy Phones | ansiholan - aibriefnow.com | [Read More](https://medium.com/p/2a3aa42945f7) |
-| Tue, 29 Jul 2025 13:10:51 GMT | Exploring Psychological Risks in Digital Forensics: The Case of Secondary Traumatic Stress | Tedislava Vasileva | [Read More](https://medium.com/p/4774fcd2f421) |
-| Tue, 29 Jul 2025 13:10:37 GMT | How Hackers Think: Test Your Software with Chaos Engineering! | Murat Kocacık | [Read More](https://medium.com/p/5bb1723fe62a) |
-| Tue, 29 Jul 2025 13:08:13 GMT | Hackerlar Nasıl Düşünür? Fuzz Testing ile Yazılımınızı Kaçak Testçilerle Test Edin! | Murat Kocacık | [Read More](https://medium.com/p/24a971fc0bd7) |
-| Tue, 29 Jul 2025 13:08:09 GMT | How a Simple Payload Led Me to My First SQL Injection Vulnerability | SVR Articles | [Read More](https://medium.com/p/a7b5a9a27f72) |
