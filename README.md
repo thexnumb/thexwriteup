@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 03:54:46 GMT | PortSwigger Lab: Path traversal writeup (All labs) | awes0meness | [Read More](https://medium.com/p/030d60dd898a) |
+| Tue, 29 Jul 2025 03:46:59 GMT | ️ JWT Do It? How None Algorithm and Leaky Secrets Let Me Forge Admin Tokens | Iski | [Read More](https://medium.com/p/c8a0f0f8da82) |
+| Tue, 29 Jul 2025 03:31:52 GMT | Major Supply Chain Attack Hits 5,000 Developers While Netflix Openly Embraces AI for Content… | Akshat Ratanpal | [Read More](https://medium.com/p/3a63de3fcd7b) |
+| Tue, 29 Jul 2025 03:31:52 GMT | Why I Started Caring About Cybersecurity Only After My Data Got Leaked | Dhruvdeep Singh | [Read More](https://medium.com/p/3e15fabc47a0) |
+| Tue, 29 Jul 2025 03:31:52 GMT | The VeriSource Breach: What 4 Million Exposed Records Mean for Your Digital Safety | Deven Chhajed | [Read More](https://medium.com/p/be7f9e09cdc4) |
+| Tue, 29 Jul 2025 03:26:02 GMT | Business Cybersecurity: Should You Rely on Password Managers in 2025? | Elevate | [Read More](https://medium.com/p/34e589fa25c1) |
+| Tue, 29 Jul 2025 03:21:01 GMT | From Curiosity to Cybersecurity: My Journey into the Digital Shadows | Mr San | [Read More](https://medium.com/p/5955c7fac36e) |
+| Tue, 29 Jul 2025 03:18:46 GMT | How to build a free Cybersecurity/ITSM home lab | NiteAdmin | [Read More](https://medium.com/p/0e7d8c270fe9) |
+| Tue, 29 Jul 2025 03:14:21 GMT | Visit kalkikrivadna.com | Krivadna | [Read More](https://medium.com/p/496a65395dc3) |
+| Tue, 29 Jul 2025 03:07:59 GMT | I cried in front of 40 familiar strangers | Sahaj Bains | [Read More](https://medium.com/p/6940aa753bbf) |
+| Tue, 29 Jul 2025 03:05:45 GMT | Encryption GUI Simulator: A Tool for the Curious and the Cosmic | jorgerodriguezpagan | [Read More](https://medium.com/p/35e76dfb64f2) |
+| Tue, 29 Jul 2025 03:04:28 GMT | Developers Who Hack > Developers Who Just Code! Why? | FrostFoe | [Read More](https://medium.com/p/c6c63c20f71c) |
+| Tue, 29 Jul 2025 03:01:57 GMT | Japan Faces Worst Security Crisis Since WWII | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/76600237c8fb) |
+| Tue, 29 Jul 2025 03:01:17 GMT | “Climbing the Filesystem Ladder: Path Traversal Is Still Alive (And Kicking Your Backend)” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d696aa9f1bda) |
+| Tue, 29 Jul 2025 02:56:24 GMT | Essential Linux Commands Every Ethical Hacker Should Know (With Practical Examples) —  Part 1 | Hammad Zahid | [Read More](https://medium.com/p/c2bf068a9570) |
+| Tue, 29 Jul 2025 02:45:12 GMT | ️Getting Started with Burp Suite for Beginners | Paritosh | [Read More](https://medium.com/p/f2f894329dfd) |
+| Tue, 29 Jul 2025 02:43:19 GMT | Introduction: The Rise of Collaboration App Threat Vectors | Shadow Packet | [Read More](https://medium.com/p/ce41327e003f) |
+| Tue, 29 Jul 2025 02:42:06 GMT | SQL Injection Prevention: MySQL vs PostgreSQL | Rizqi Mulki | [Read More](https://medium.com/p/79c4dcc17fa1) |
+| Tue, 29 Jul 2025 02:31:42 GMT | What is a CDN and What Does It Do? | Bontie | [Read More](https://medium.com/p/a218812facfc) |
+| Tue, 29 Jul 2025 02:31:34 GMT | Patch or Perish: SharePoint’s Wake-Up Call after hundreds of organizations were impacted | Jai Advani | [Read More](https://medium.com/p/d3269cf5a3ae) |
+| Tue, 29 Jul 2025 02:30:45 GMT | The One Subscription That Replaced 3 Others (and Saved Me Money Every Month) | Kambetastephano | [Read More](https://medium.com/p/8d1bb9441b62) |
+| Tue, 29 Jul 2025 02:26:55 GMT | Bifrost Launches Bug Bounty on Immunefi With $500,000 for a Single Critical Vulnerability | Bifrost | [Read More](https://medium.com/p/533eeab3e5a1) |
+| Tue, 29 Jul 2025 02:21:48 GMT | I Reported a Critical Stored XSS to Zora — What Happened Next Will Dishearten You | John Yangtsali | [Read More](https://medium.com/p/1188d6194554) |
+| Tue, 29 Jul 2025 02:17:03 GMT | eJPT Zero to Hero: Exploitation CTF 3 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/c5da88ff7f7c) |
+| Tue, 29 Jul 2025 02:01:40 GMT | Call Me Ishmael… But I Don’t Tell My Credit Card | Kaiwanyawit Chawankul | [Read More](https://medium.com/p/c7b7c55a93bd) |
+| Tue, 29 Jul 2025 02:01:38 GMT | The Night Bangladesh Bank Nearly Lost $1 Billion | zahidul Islam Ratul | [Read More](https://medium.com/p/5372d9b1348c) |
 | Tue, 29 Jul 2025 01:53:59 GMT | Vulnerability - Let's chat! | The Unpleasing Path | [Read More](https://medium.com/p/6dc02043b4f3) |
 | Tue, 29 Jul 2025 01:44:00 GMT | SOCFortres5: DynaRisk Secures $4.7M to Revolutionize Cyber Risk Management for Insurers | Darshan | [Read More](https://medium.com/p/1f6391fe8c1e) |
 | Tue, 29 Jul 2025 01:39:55 GMT | SOCFortres5: Critical Salesforce Tableau Vulnerabilities Allow Remote Code Execution | Darshan | [Read More](https://medium.com/p/006a43eab32e) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 18:49:30 GMT | The Cost of Trust: Pen Testing Takeaways from the Allianz Supply Chain Breach | Pentestjunkie07 | [Read More](https://medium.com/p/ba6f2f537825) |
 | Mon, 28 Jul 2025 18:46:52 GMT | Why Every Company Should Fear the ‘Sleeping Employee’ Threat | Akshay Chauhan | [Read More](https://medium.com/p/edb2a245325f) |
 | Mon, 28 Jul 2025 18:44:36 GMT | AI Agent for Your Open-Source SIEM Stack Is Here — Wazuh, Velociraptor, and CoPilot Just Got… | SOCFortress | [Read More](https://medium.com/p/2e0542aac697) |
-| Mon, 28 Jul 2025 18:43:00 GMT | Practice these Questions for the Google Cloud Professional Cloud Security Engineer Certification… | Sachin Sharma - Lead DevOps Engineer | [Read More](https://medium.com/p/b5f775756c3b) |
-| Mon, 28 Jul 2025 18:40:43 GMT | How a Broken Chocolate Taught File Permissions Better Than a Lecture Ever Could | Gitika Babbar | [Read More](https://medium.com/p/5a5800ad2993) |
-| Mon, 28 Jul 2025 18:37:19 GMT | My First Steps into Cybersecurity: Exploring DNS, Nslookup, and Footprinting | Rajeshwar choudhary | [Read More](https://medium.com/p/c8e2f31f548c) |
-| Mon, 28 Jul 2025 18:34:37 GMT | VulnHub Basic Pentesting: 1 Machine Writeup | Arjunraghunadhan | [Read More](https://medium.com/p/429eba248b61) |
-| Mon, 28 Jul 2025 18:29:38 GMT | How Access Tokens and Refresh Tokens Work Together in Backend Systems | Ritesh Gupta | [Read More](https://medium.com/p/059d74e3770d) |
-| Mon, 28 Jul 2025 18:27:17 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/0b2f6ee3827e) |
-| Mon, 28 Jul 2025 18:25:08 GMT | Protect Yourself Online in 2025: Easy Cybersecurity Tips You Can’t Ignore | Med Abou | [Read More](https://medium.com/p/159b337668ba) |
-| Mon, 28 Jul 2025 18:24:16 GMT | Putin Never Believed Ukraine Could Hit This Hard — Digitally | Leo Griffin | [Read More](https://medium.com/p/1dc51d780eb7) |
-| Mon, 28 Jul 2025 18:20:50 GMT | “All I Did Was Google — You Won’t Believe What I Discovered” | Ayeoritseju "Aye" Erumi | [Read More](https://medium.com/p/7f4ad8f5d28b) |
-| Mon, 28 Jul 2025 18:11:00 GMT | Logic Bombs: The Silent Code That Blows Up Your System From the Inside | Akshay Chauhan | [Read More](https://medium.com/p/267c2c987e3a) |
-| Mon, 28 Jul 2025 18:03:42 GMT | Cybersecurity issues in AI | Manpreet Singh | [Read More](https://medium.com/p/8670e966fcb0) |
-| Mon, 28 Jul 2025 18:02:50 GMT | Data-Structure Injection (DSI) in LLM Agents | Tomer Wetzler | [Read More](https://medium.com/p/818bbbba2713) |
-| Mon, 28 Jul 2025 18:01:07 GMT | Data-Structure Retrieval (DSR) for AI Interpretability | Tomer Wetzler | [Read More](https://medium.com/p/2c51fea5cc9a) |
-| Mon, 28 Jul 2025 17:57:54 GMT | Browser Hijackers: The Silent Takeover of Your Online Activity | SafeAeon Inc. | [Read More](https://medium.com/p/c6f2ef3a1251) |
-| Mon, 28 Jul 2025 17:55:17 GMT | AI vs. AI in Cybersecurity: How We’re Using Artificial Intelligence to Defend Against Smarter… | Vasanthi Sivasankar | [Read More](https://medium.com/p/d9992cd09168) |
-| Mon, 28 Jul 2025 17:54:16 GMT | TechMatter Joins Forces with DoctorPapers to Grow Its Healthcare RCM Services | Kurt Goodwin | [Read More](https://medium.com/p/6ebe07b4e9d6) |
-| Mon, 28 Jul 2025 17:53:53 GMT | Vulnerability Analysis: Tools and Techniques | Rushikesh G | [Read More](https://medium.com/p/24e2f2035fbc) |
-| Mon, 28 Jul 2025 17:49:33 GMT | Part I: Setting Up Python and the OpenAI API | Allie Hsu | [Read More](https://medium.com/p/478a2cf72492) |
-| Mon, 28 Jul 2025 17:46:33 GMT | ¿Qué es la Cyber Kill Chain y cuál es su función? | Tiziano Mass | [Read More](https://medium.com/p/a828d62660aa) |
-| Mon, 28 Jul 2025 17:43:47 GMT | Cracking Logins with Burp Suite: Brute Forcing Buggy Buy Like a Pro | Muneeza Badar | [Read More](https://medium.com/p/c38d5faad10c) |
-| Mon, 28 Jul 2025 17:35:55 GMT | The Cloud is Convenient — But Is It Safe? | Bhushan | [Read More](https://medium.com/p/949f08215fb3) |
-| Mon, 28 Jul 2025 17:33:21 GMT | The cringe gateway: When woo-woo becomes too precise to ignore | Alexis Vale | [Read More](https://medium.com/p/8a60bee21eb7) |
-| Mon, 28 Jul 2025 17:28:41 GMT | Dream Job-1 HackTheBox Sherlock | Krishna | [Read More](https://medium.com/p/325799c244a3) |
-| Mon, 28 Jul 2025 17:25:49 GMT | Vulnerabilidades en SharePoint On-Prem CVE-2025–53770/53771: Guía de Detección y Protección | VenariX, Inc. | [Read More](https://medium.com/p/f11308797da5) |
-| Mon, 28 Jul 2025 17:23:17 GMT | Alignment Engineering — A Unified Approach to Vulnerability and Volition in Modern LLMs | Tomer Wetzler | [Read More](https://medium.com/p/8c144133ffbf) |
-| Mon, 28 Jul 2025 17:20:23 GMT | Inside the Hidden Internet: The Truth About the Dark Web | Anirudh PV | [Read More](https://medium.com/p/d1d852ec8666) |
