@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 07:15:43 GMT | CORS — havfsizlik yoki zaiflik? CORS error? | Ismoil Turdaliyev | [Read More](https://medium.com/p/2d4b61b46331) |
+| Tue, 29 Jul 2025 07:13:53 GMT | Beginner’s Guide to Active Reconnaissance (Part 3.4): | Ar-jay A. Ballaco | [Read More](https://medium.com/p/a65d056707f1) |
+| Tue, 29 Jul 2025 07:11:51 GMT | Back From the Dead: MSSQL Resurrection Attack | Slygoo | [Read More](https://medium.com/p/d155d348d55b) |
+| Tue, 29 Jul 2025 07:09:15 GMT | What Sparked Me Into Cybersecurity? | Rahul mane | [Read More](https://medium.com/p/bfb6a98680c2) |
+| Tue, 29 Jul 2025 07:04:32 GMT | Authentication vs Authorization — Deep Dive for Modern Web Apps | Kaveesha Sanduni Kodikara | [Read More](https://medium.com/p/d27174acaf5c) |
+| Tue, 29 Jul 2025 07:01:46 GMT | Free vs Paid Password Managers in 2025: What’s Actually Worth Your Time and Money? | Tech Pulse Daily | [Read More](https://medium.com/p/e351213772d2) |
+| Tue, 29 Jul 2025 07:01:42 GMT | The Impact of 5G on Cybersecurity: Opportunities and Challenges | Payoda Technology Inc | [Read More](https://medium.com/p/17b554998a11) |
+| Tue, 29 Jul 2025 06:59:47 GMT | Explained: How the Best IT Staffing Services Solve Developer Shortages in Hyderabad | Quadrant IT Services | [Read More](https://medium.com/p/8de305cb6f8f) |
+| Tue, 29 Jul 2025 06:54:52 GMT | 未来の私よ、コレを読め。webサイトの攻撃と対策 part1 | ttt | [Read More](https://medium.com/p/c7a7437c15bf) |
+| Tue, 29 Jul 2025 06:54:47 GMT | Is Online Dating Safe for Seniors in 2025? | Elizabeth | [Read More](https://medium.com/p/489cc77a8aae) |
+| Tue, 29 Jul 2025 06:54:46 GMT | Critical 0-Day RCE Vulnerability Found in E-Safenet Document Management System | AerieWhole123 | [Read More](https://medium.com/p/2832d89dd783) |
+| Tue, 29 Jul 2025 06:52:10 GMT | Unlocking Cybersecurity Success with CISSP Certification: Why Online CISSP Training at Cybernous is… | Cybernous Infosec consulting | [Read More](https://medium.com/p/b7a6a6674492) |
+| Tue, 29 Jul 2025 06:50:00 GMT | online dating | rhijoyce | [Read More](https://medium.com/p/a849a356379f) |
+| Tue, 29 Jul 2025 06:48:17 GMT | Midnight Hammer”: Serangan Langsung AS terhadap Fasilitas Nuklir Iran dan Konsekuensi Geopolitiknya | FPCI Chapter UMM | [Read More](https://medium.com/p/4605e80c67d6) |
+| Tue, 29 Jul 2025 06:45:44 GMT | Adopting Agentic AI in Cybersecurity: From Reactive Defense to Autonomous Resilience | Ashutosh Bhatte | [Read More](https://medium.com/p/6b9f8862fbb6) |
+| Tue, 29 Jul 2025 06:40:07 GMT | BF jail writeup(Brainfuck coding)World wide CTF 2025 | 0xBeast | [Read More](https://medium.com/p/7fba4bde8bb6) |
+| Tue, 29 Jul 2025 06:40:04 GMT | Digital Sovereignty Supply Chain Thinking: The Role of the Invisible Identity Fabric | Carsten Stöcker | [Read More](https://medium.com/p/c88ecba132ee) |
+| Tue, 29 Jul 2025 06:37:48 GMT | How I Found a $2,800 Bug in 60 minutes — and How You Can Spot It Too | Rashadul Islam | [Read More](https://medium.com/p/95bfe919e7f4) |
+| Tue, 29 Jul 2025 06:36:44 GMT | Credential Access Walkthrough — Real Logs, Real Struggles, Real Wins | Kloveslemnyuy | [Read More](https://medium.com/p/ae3f9c2dd883) |
+| Tue, 29 Jul 2025 06:31:38 GMT | “Why Hackers Keep Picking On You (And How To Make Them Stop)” | Zuri | [Read More](https://medium.com/p/377b7428e97b) |
+| Tue, 29 Jul 2025 06:31:07 GMT | “What Is Cloud Computing? Explained with Real-Life Examples” | Vipinjha | [Read More](https://medium.com/p/ffbb68d44a02) |
 | Tue, 29 Jul 2025 06:27:55 GMT | ¿Organizas bien tus reportes de Bug Bounty? Probablemente no. | Gorka | [Read More](https://medium.com/p/892b654ffbc3) |
 | Tue, 29 Jul 2025 06:25:40 GMT | Environmental Monitoring Initiatives Gain Momentum across Qatar | expbhavya | [Read More](https://medium.com/p/4fdf81a81875) |
 | Tue, 29 Jul 2025 06:25:12 GMT | Hackers Breach Toptal’s GitHub: 10 Malicious npm Packages Exfiltrate Tokens and Destroy Systems | CYber VIaz | [Read More](https://medium.com/p/0fafbf4ebe85) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 00:14:11 GMT | How I Found a Critical IDOR in a University System (and Why Ethical Hacking Matters) | Jake Long | [Read More](https://medium.com/p/4d80a6947ca3) |
 | Tue, 29 Jul 2025 00:01:37 GMT | Identification and Authentication Failures (OWASP A07): Hacking y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/2846761ebcb9) |
 | Mon, 28 Jul 2025 23:38:31 GMT | QSafe Wallet: The Last Lock | Fedoski | [Read More](https://medium.com/p/f1f4d30befa4) |
-| Mon, 28 Jul 2025 23:18:00 GMT | You Won’t Believe How Sophisticated This LNK Phishing Attack Is | Cyber-AppSec | [Read More](https://medium.com/p/f9738d5812a7) |
-| Mon, 28 Jul 2025 23:03:35 GMT | Clickjacking: Everything You Need to Know About This UI-Based Threat | محمد عمر | [Read More](https://medium.com/p/22a3ade82fba) |
-| Mon, 28 Jul 2025 23:02:56 GMT | Free Speech in Nigeria: Impact of The Cybercrimes (Prohibition, Prevention, Etc.)(Amendment) Act | SamObed Amedu | [Read More](https://medium.com/p/8bd4cfff2313) |
-| Mon, 28 Jul 2025 22:59:31 GMT | SQL injection attack, querying the database type and version on Oracle | Zabed Ullah Poyel | [Read More](https://medium.com/p/f20c4c7bdd00) |
-| Mon, 28 Jul 2025 22:47:43 GMT | SQL injection vulnerability allowing login bypass | Zabed Ullah Poyel | [Read More](https://medium.com/p/2053316e5319) |
-| Mon, 28 Jul 2025 22:42:36 GMT | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Zabed Ullah Poyel | [Read More](https://medium.com/p/8a8e89db0537) |
-| Mon, 28 Jul 2025 22:35:19 GMT | Is Artificial Intelligence Democratizing or Monopolizing Learning? | Imperfect Code Academy | [Read More](https://medium.com/p/0402cb4bc685) |
-| Mon, 28 Jul 2025 22:23:41 GMT | Why Jesus Never Asked, “How’s Your Week Been?” | Dan Foster | [Read More](https://medium.com/p/6453c109e9fe) |
-| Mon, 28 Jul 2025 22:22:13 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/93f8af96511a) |
-| Mon, 28 Jul 2025 22:17:36 GMT | Building and Using Threat Intelligence Dashboards | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d72c811e6d37) |
-| Mon, 28 Jul 2025 22:09:31 GMT | Part 3 — Getting Started in Cyber Security — Offensive Operations & Compliance | Angu Nji | [Read More](https://medium.com/p/8b3354dffd2c) |
-| Mon, 28 Jul 2025 22:01:05 GMT | You’re Not Failing at Cybersecurity Job Search — The System Is Failing You | Mudassir Syed | [Read More](https://medium.com/p/ae92ca36860b) |
-| Mon, 28 Jul 2025 21:43:46 GMT | Friday Overtime — TryHackMe CTF Walkthrough | Asad Ali | [Read More](https://medium.com/p/22a20285a606) |
-| Mon, 28 Jul 2025 21:33:33 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/48fc9bb29fcb) |
-| Mon, 28 Jul 2025 21:20:09 GMT | The Tragedy of Half-Existence | Manu Pratap Singh | [Read More](https://medium.com/p/c1068e72594a) |
-| Mon, 28 Jul 2025 21:17:10 GMT | How Flash USDT Can Be Misunderstood | Toto | [Read More](https://medium.com/p/57e067346abe) |
-| Mon, 28 Jul 2025 21:16:37 GMT | Secure your remote MCP Server in the AWS Cloud | ML-Guy | [Read More](https://medium.com/p/ee91b4cfd104) |
-| Mon, 28 Jul 2025 21:14:53 GMT | Cypher — HTB Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/1f6a0ab304ea) |
-| Mon, 28 Jul 2025 21:13:38 GMT | From Hypervisors to DNS: One Forensic Thread Across Three TryHackMe Rooms | Reda  kiker | [Read More](https://medium.com/p/3c8ba31c2f72) |
-| Mon, 28 Jul 2025 21:12:36 GMT | Recognizing the Signs of Flash USDT | Toto | [Read More](https://medium.com/p/128d279dd2fc) |
-| Mon, 28 Jul 2025 21:03:47 GMT | Phantom Jobs Have Been Wasting Your Time & Energy | ɌƋƑ•TECH | [Read More](https://medium.com/p/3a8b2992e4d2) |
