@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 10:16:18 GMT | Supply chain cyberattacks turning weaknesses into traps | Martin Abramov | [Read More](https://medium.com/p/c53644aabd54) |
+| Tue, 29 Jul 2025 10:09:56 GMT | Security in the Age of Agentic AI: Architectural Challenges (Part 2) | Kristin Dahl | [Read More](https://medium.com/p/b1ae320e32b1) |
+| Tue, 29 Jul 2025 10:07:31 GMT | Protect What Matters Most: Professional Security Services in Hobart | Stateguard Protective Services | [Read More](https://medium.com/p/8d88951a8701) |
+| Tue, 29 Jul 2025 10:03:54 GMT | Top Cyber Security Consultant in Barcelona - SSI IT — Safeguard Your Digital Infrastructure Today | Public | [Read More](https://medium.com/p/b67c8fa1c35f) |
+| Tue, 29 Jul 2025 09:59:38 GMT | AI and Cybersecurity: Fighting the Most Dangerous Threats 2025 | Iqra Anwar | [Read More](https://medium.com/p/87afbf0c4d65) |
+| Tue, 29 Jul 2025 09:58:34 GMT | MITRE ATT&CK Framework Nedir? Detaylı Anlatım + Gerçek Bir Saldırı Senaryosu ile Örnek | FatihUYSAL | [Read More](https://medium.com/p/9c2abc32b662) |
+| Tue, 29 Jul 2025 09:56:13 GMT | Day 65: ARP and DNS Poisoning | Nile Okomo | [Read More](https://medium.com/p/3a9a8d0977a7) |
+| Tue, 29 Jul 2025 09:55:33 GMT | Rise of the Indian Digital Warrior | Sitinoldae | [Read More](https://medium.com/p/3459f7276d5f) |
+| Tue, 29 Jul 2025 09:52:44 GMT | Understanding Hacking GraphQL — Part 1 | Redfox Security | [Read More](https://medium.com/p/a40ab91579c8) |
+| Tue, 29 Jul 2025 09:51:33 GMT | Azog, the Red Flag You’ll End Up Reporting To: Cybersecurity Leadership Challenges — Part 2 | checkm4te | [Read More](https://medium.com/p/47afd25da453) |
+| Tue, 29 Jul 2025 09:49:50 GMT | OAuth Misconfiguration in Symfony: Secure It Now | Pentest_Testing_Corp | [Read More](https://medium.com/p/7ac2a464f8e0) |
 | Tue, 29 Jul 2025 09:47:56 GMT | Understanding RBAC in Kubernetes: A Simple Example with VMAgent and Service Discovery | Praveen Krishna Murthy | [Read More](https://medium.com/p/52850114d2c8) |
 | Tue, 29 Jul 2025 09:42:43 GMT | Analyzing Chrome extension — a less discussed vector for cyber-attack? | Galdadoun | [Read More](https://medium.com/p/38ebaf4b48d5) |
 | Tue, 29 Jul 2025 09:38:16 GMT | Deepfake Threats in Corporate Espionage: The New Face of Cybercrime | CYber VIaz | [Read More](https://medium.com/p/de461c406561) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 05:42:46 GMT | AgentTesla Deep Dive: Steganography, Keylogging, and Data Theft Explained | Namrata Amane | [Read More](https://medium.com/p/8bf486a4d708) |
 | Tue, 29 Jul 2025 05:28:14 GMT | How to Start Hacking — A Step-by-Step Beginner’s Guide | Rayyanshowkath | [Read More](https://medium.com/p/0d4f138385d0) |
 | Tue, 29 Jul 2025 05:26:27 GMT | How AI-Powered Tech Is Changing Daily Life in 2025? | Rajkumari Amara Devi | [Read More](https://medium.com/p/354857634fc4) |
-| Tue, 29 Jul 2025 05:20:11 GMT | GenAI Bug Bounty Platform | AbhirupKonwar | [Read More](https://medium.com/p/323c850a4db5) |
-| Tue, 29 Jul 2025 05:20:10 GMT | More than Tools — Recon as a Strategic Mindset | Dzianis Skliar | [Read More](https://medium.com/p/403a1af8af26) |
-| Tue, 29 Jul 2025 05:19:56 GMT | Privacy in the Era of AI: Protecting Your PII Data in 2025 | Yash Patel | [Read More](https://medium.com/p/af86d5a03a3f) |
-| Tue, 29 Jul 2025 05:18:33 GMT | From CTF Addict to Offensive Security Explorer: My Journey into Ethical Hacking | Z33 Security | [Read More](https://medium.com/p/305812789e08) |
-| Tue, 29 Jul 2025 05:17:22 GMT | Source code Analysis = $$$$$ | Rishav anand | [Read More](https://medium.com/p/e76aa9ea679e) |
-| Tue, 29 Jul 2025 04:54:01 GMT | Information Gathering CTF 1 (eJPT) | Hejackson | [Read More](https://medium.com/p/a5e0765fb337) |
-| Tue, 29 Jul 2025 04:43:06 GMT | MCP Security: Tools, Risks, and Best Practices | Dave Patten | [Read More](https://medium.com/p/440277cb3837) |
-| Tue, 29 Jul 2025 04:37:02 GMT | Portswigger Web Security Academy - Access Control Lab #1 | BooRuleDie | [Read More](https://medium.com/p/bdd7d4abed43) |
-| Tue, 29 Jul 2025 04:34:34 GMT | Day 15- Basic Troubleshooting Process for Operating Systems | unica 02 | [Read More](https://medium.com/p/42b28fe97aee) |
-| Tue, 29 Jul 2025 04:33:35 GMT | What Are the Key SOCI Act Requirements and How Can Your Business Prepare? | cyber ethos | [Read More](https://medium.com/p/75dea95ac1be) |
-| Tue, 29 Jul 2025 04:31:07 GMT | Why Cloud Backup Needs to Be Part of Your Compliance Strategy | Clairegreen | [Read More](https://medium.com/p/84946714ebb9) |
