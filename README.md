@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 01:53:59 GMT | Vulnerability - Let's chat! | The Unpleasing Path | [Read More](https://medium.com/p/6dc02043b4f3) |
+| Tue, 29 Jul 2025 01:44:00 GMT | SOCFortres5: DynaRisk Secures $4.7M to Revolutionize Cyber Risk Management for Insurers | Darshan | [Read More](https://medium.com/p/1f6391fe8c1e) |
+| Tue, 29 Jul 2025 01:39:55 GMT | SOCFortres5: Critical Salesforce Tableau Vulnerabilities Allow Remote Code Execution | Darshan | [Read More](https://medium.com/p/006a43eab32e) |
+| Tue, 29 Jul 2025 01:23:38 GMT | LazyOwn: CRIMEN — El Framework RedTeam Definitivo para Todos los Niveles | Lazyown Redteam | [Read More](https://medium.com/p/adcb59714890) |
+| Tue, 29 Jul 2025 01:23:07 GMT | Your EC2 Is Probably Vulnerable. And AWS Isn’t Going to Tell You. | Yajur | [Read More](https://medium.com/p/4736b6d9d655) |
+| Tue, 29 Jul 2025 00:54:54 GMT | HackTheBox: Don’t Panic! reverse engineering writeup | Rana chouchane | [Read More](https://medium.com/p/897bcc6cd809) |
+| Tue, 29 Jul 2025 00:50:57 GMT | Stop Killing Our Operating Systems | Midna | [Read More](https://medium.com/p/f9b9bcbcdae6) |
+| Tue, 29 Jul 2025 00:37:13 GMT | Demystifying Security in AWS Cloud: Simple Guide to Staying Safe in the Cloud | Saima Anam Syed | [Read More](https://medium.com/p/2a5e6a08071d) |
+| Tue, 29 Jul 2025 00:33:25 GMT | How I Found Insecure Direct Object Reference (IDOR) vulnerability ? | Muhammad Wageh | [Read More](https://medium.com/p/6d572929b850) |
+| Tue, 29 Jul 2025 00:20:44 GMT | VulnEscape  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/095a10f09edd) |
+| Tue, 29 Jul 2025 00:14:11 GMT | How I Found a Critical IDOR in a University System (and Why Ethical Hacking Matters) | Jake Long | [Read More](https://medium.com/p/4d80a6947ca3) |
+| Tue, 29 Jul 2025 00:01:37 GMT | Identification and Authentication Failures (OWASP A07): Hacking y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/2846761ebcb9) |
 | Mon, 28 Jul 2025 23:38:31 GMT | QSafe Wallet: The Last Lock | Fedoski | [Read More](https://medium.com/p/f1f4d30befa4) |
 | Mon, 28 Jul 2025 23:18:00 GMT | You Won’t Believe How Sophisticated This LNK Phishing Attack Is | Cyber-AppSec | [Read More](https://medium.com/p/f9738d5812a7) |
 | Mon, 28 Jul 2025 23:03:35 GMT | Clickjacking: Everything You Need to Know About This UI-Based Threat | محمد عمر | [Read More](https://medium.com/p/22a3ade82fba) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 17:25:49 GMT | Vulnerabilidades en SharePoint On-Prem CVE-2025–53770/53771: Guía de Detección y Protección | VenariX, Inc. | [Read More](https://medium.com/p/f11308797da5) |
 | Mon, 28 Jul 2025 17:23:17 GMT | Alignment Engineering — A Unified Approach to Vulnerability and Volition in Modern LLMs | Tomer Wetzler | [Read More](https://medium.com/p/8c144133ffbf) |
 | Mon, 28 Jul 2025 17:20:23 GMT | Inside the Hidden Internet: The Truth About the Dark Web | Anirudh PV | [Read More](https://medium.com/p/d1d852ec8666) |
-| Mon, 28 Jul 2025 17:19:26 GMT | Stop Leaving Bugs Behind with my new Recon Tool | Appsec.pt | [Read More](https://medium.com/p/627a9068f1b2) |
-| Mon, 28 Jul 2025 17:18:03 GMT | On-Prem SharePoint Vulnerabilities CVE-2025–53770/53771: Detection and Protection Guidance | VenariX, Inc. | [Read More](https://medium.com/p/57e072a7566c) |
-| Mon, 28 Jul 2025 17:15:32 GMT | N0aziXss SecureCrawl v3.1: The Automated Web Security Auditor | N0aziXss | [Read More](https://medium.com/p/1b437f5cf685) |
-| Mon, 28 Jul 2025 17:15:19 GMT | Blinding the Algorithms: Adversarial Attacks and Defense Techniques | Melike Ateş | [Read More](https://medium.com/p/dd953edd6e32) |
-| Mon, 28 Jul 2025 17:14:13 GMT | Goals of Information Security | Igor Berner | [Read More](https://medium.com/p/0efc50eba24c) |
-| Mon, 28 Jul 2025 17:12:41 GMT | AV (Antivirüs) ve EDR(Endpoint Detection and Response) Nedir ve Farkları Nelerdir? | Emin Eren KADIOĞLU | [Read More](https://medium.com/p/43122d54e0db) |
-| Mon, 28 Jul 2025 17:02:47 GMT | How I Built NeuroShell — An AI-Powered Terminal That Understands You | AI Unfiltered | [Read More](https://medium.com/p/26a7beb9b721) |
-| Mon, 28 Jul 2025 17:02:07 GMT | What is GRC in Cybersecurity? A Beginner-Friendly Breakdown of Governance, Risk & Compliance | Ginikachi Jessica Williams | [Read More](https://medium.com/p/b221383a4bb0) |
-| Mon, 28 Jul 2025 17:01:38 GMT | The 5 Dumbest Exploits I’ve Ever Seen (That Actually Worked)! | Faheem Anis | [Read More](https://medium.com/p/d11761fbc0dd) |
-| Mon, 28 Jul 2025 16:57:19 GMT | Buy PayPal Txt USA 616 2021156 dumps bank wu tras Cloned cc cvv | Albert | [Read More](https://medium.com/p/ced4a264c947) |
-| Mon, 28 Jul 2025 16:53:00 GMT | My Journey with Red Hat System Administration (RHSA) — What I Learned and What’s Next | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/abff49924a76) |
-| Mon, 28 Jul 2025 16:49:59 GMT | DockerLabs — PingCTF [Write-Up] | APS88 | [Read More](https://medium.com/p/02b2a40bff2e) |
