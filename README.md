@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 20:29:50 GMT | Zero-Knowledge VPN: We Don’t Know What You’re Doing (and That’s the Point) | Matreshka VPN | [Read More](https://medium.com/p/fd36acff723f) |
+| Tue, 29 Jul 2025 20:28:59 GMT | Just One Click To Leak All Victim Information | Mado | [Read More](https://medium.com/p/54599e3b6268) |
+| Tue, 29 Jul 2025 20:25:45 GMT | UIUCTF 2025 | Dark Eagle | [Read More](https://medium.com/p/dc58015f02ea) |
+| Tue, 29 Jul 2025 20:23:27 GMT | Defending Your Digital Footprint: Practical Strategies for Personal Data Security | Deepak Gupta | [Read More](https://medium.com/p/6903147ede02) |
 | Tue, 29 Jul 2025 20:17:20 GMT | Snort in Action: A Hands-On Guide to IDS & IPS | Pius Emmanuel Papka | [Read More](https://medium.com/p/56a8bfcf0663) |
 | Tue, 29 Jul 2025 20:13:20 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/813670d6b072) |
 | Tue, 29 Jul 2025 20:07:32 GMT | ROOMSHIELD PROTOCOL: DESIGNING ACCOUNTABILITY IN THE AGE OF AI | Can Doğan | [Read More](https://medium.com/p/07266ebe61ac) |
@@ -109,7 +113,3 @@ In today’s world, safety is more… | Durranih | [Read More](https://medium.co
 | Tue, 29 Jul 2025 15:47:58 GMT | Bastard — HackTheBox Writeup | Pedromoreiralopes | [Read More](https://medium.com/p/bafafae56195) |
 | Tue, 29 Jul 2025 15:47:51 GMT | SIEM Use Case Series Day 1: Detecting Brute Force Attacks via Failed Login Attempts | NineTales | [Read More](https://medium.com/p/14ac62cea94f) |
 | Tue, 29 Jul 2025 15:43:47 GMT | Comment faire du poisoning sur Perplexity.ai : guide complet | Eandgo Referencement | [Read More](https://medium.com/p/8758ad156237) |
-| Tue, 29 Jul 2025 15:41:19 GMT | Navigating Japan’s Cybersecurity Landscape | nolly | [Read More](https://medium.com/p/0791591ef6d9) |
-| Tue, 29 Jul 2025 15:31:51 GMT | Implementing Zero-Trust Architecture in .NET APIs with Certificate-Based Authentication | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/5e48e04b0cbf) |
-| Tue, 29 Jul 2025 15:31:51 GMT | Why Device Onboarding Breaks (and How to Finally Get It Right) | Yuvi Aggarwal | [Read More](https://medium.com/p/3bcc0b0078f7) |
-| Tue, 29 Jul 2025 15:30:26 GMT | Understanding XSS: The Silent Killer of Web Application Security | Ayshee | [Read More](https://medium.com/p/0dfe0c998bbc) |
