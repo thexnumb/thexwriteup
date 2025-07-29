@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 23:42:11 GMT | Ultimate API Bug Bounty: Find & Secure Hidden API Endpoints | Israel Aráoz Severiche | [Read More](https://medium.com/p/139c8f0a061a) |
+| Tue, 29 Jul 2025 23:30:07 GMT | AWS IAM: Auto-Disable Suspicious IAM Users Using CloudTrail, CloudWatch, and AWS Lambda | Micaiah Ampofo | [Read More](https://medium.com/p/8b3cf5b2301e) |
+| Tue, 29 Jul 2025 23:19:27 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/b83e750dd51f) |
+| Tue, 29 Jul 2025 23:19:27 GMT | FORZERUNE (401) - Enter the Forbidden Zone 
+Welcome to Forzerune,, where code meets chaos, and the… | FORZERUNE | [Read More](https://medium.com/p/93de61987f50) |
+| Tue, 29 Jul 2025 23:15:29 GMT | Leak of Internal Reference Name at Multiple Locations. | xploiterr | [Read More](https://medium.com/p/c3d021b2295d) |
 | Tue, 29 Jul 2025 23:14:34 GMT | The Rise of Shadow AI: When Employees Use Unapproved AI Tools at Work | Akshay Chauhan | [Read More](https://medium.com/p/1514e8b4bbf7) |
 | Tue, 29 Jul 2025 23:08:22 GMT | Click. Steal. Repeat | kneox | [Read More](https://medium.com/p/d4a962c11167) |
 | Tue, 29 Jul 2025 22:57:03 GMT | Hack The Box: Cap — Write-up | Hayden Sapp | [Read More](https://medium.com/p/5eed223aa23e) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 17:24:17 GMT | A fear of New Beginnings | Bijou-Noelle Martey | [Read More](https://medium.com/p/4d4e535da9d9) |
 | Tue, 29 Jul 2025 17:23:06 GMT | HACKED ACCOUNT | Grace Cofie | [Read More](https://medium.com/p/ad76ba94d392) |
 | Tue, 29 Jul 2025 17:20:05 GMT | CyberChef: The Basics - TryHackMe - Walkthrough - Notes and Tasks Answers | Yogesh Mishra | [Read More](https://medium.com/p/44c3214ca934) |
-| Tue, 29 Jul 2025 17:17:22 GMT | “Can We Use CANVA for Resume Design? My Honest Review” | Sadika Islam Roza | [Read More](https://medium.com/p/f9ddd24f1e09) |
-| Tue, 29 Jul 2025 17:16:18 GMT | How AI Is used as Both a Shield and a Sword in Cyber-Security | Aashif | [Read More](https://medium.com/p/f8e4ab97876f) |
-| Tue, 29 Jul 2025 17:07:16 GMT | Your Password Is Not a Lock: How Digital Thieves Are Hacking Our Lives One Click at a Time | Nikhila motupalli | [Read More](https://medium.com/p/eb702574bac2) |
-| Tue, 29 Jul 2025 17:06:02 GMT | TryHackMe Writeup✍: Snort | Zohal | [Read More](https://medium.com/p/201606b93b29) |
-| Tue, 29 Jul 2025 17:02:59 GMT | Women Violated: How Hackers Breached the Tea App — and How to Secure It | John The CEO, Cloud And Social Thought Leader | [Read More](https://medium.com/p/dc005e0353d1) |
