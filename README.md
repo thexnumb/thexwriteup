@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 22:44:54 GMT | When AI Models Become Malware Targets: The Rise of Model Poisoning Attacks | Akshay Chauhan | [Read More](https://medium.com/p/9aff52a792e6) |
+| Tue, 29 Jul 2025 22:43:31 GMT | SQL injection attack, querying the database type and version on MySQL and Microsoft | Zabed Ullah Poyel | [Read More](https://medium.com/p/40b7182a5699) |
+| Tue, 29 Jul 2025 22:36:06 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/69849a2570f2) |
+| Tue, 29 Jul 2025 22:35:31 GMT | Vinyl Fence vs. Chain Link Fence: Which Is Easier to Install? | Rafael Torres | [Read More](https://medium.com/p/32da9a091ba5) |
 | Tue, 29 Jul 2025 22:17:02 GMT | Blockchain Security: Smart Contract Vulnerabilities to Watch | Karthikeyan Nagaraj | [Read More](https://medium.com/p/dde38090c829) |
+| Tue, 29 Jul 2025 22:11:37 GMT | Ukraine Looks to Pump Extra ₴400 Billion Into Defense & Security | Ryder Blackthorn | [Read More](https://medium.com/p/a95b754f0455) |
 | Tue, 29 Jul 2025 22:06:35 GMT | Technical Product Management | Day | [Read More](https://medium.com/p/6147ce939a37) |
 | Tue, 29 Jul 2025 21:58:15 GMT | Hackers Hijack Toptal GitHub to Spread Devastating Malware Through npm | Cyber-AppSec | [Read More](https://medium.com/p/ddef91795bd9) |
 | Tue, 29 Jul 2025 21:52:08 GMT | The ‘Coding’ Conundrum: Why Our Boardrooms Don’t Speak Security (And How to Fix It) | Manan Kharbanda | [Read More](https://medium.com/p/449f18656684) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 17:00:56 GMT | User-Based Unconstrained Delegation and SPN-jacking | Giulio Pierantoni | [Read More](https://medium.com/p/29b916d1ff25) |
 | Tue, 29 Jul 2025 16:52:47 GMT | From Zero to Hacker: My Real Bug Bounty Starting Point | 77r4sed | [Read More](https://medium.com/p/58d9d949734e) |
 | Tue, 29 Jul 2025 16:50:21 GMT | FIRST HACKING | Enoch Root | [Read More](https://medium.com/p/9764f59c8823) |
-| Tue, 29 Jul 2025 16:47:30 GMT | Your Code Was Fine Until a Senior Dev Needed to Feel Smart | The Latency Gambler | [Read More](https://medium.com/p/b7c4f2c33b90) |
-| Tue, 29 Jul 2025 16:46:51 GMT | Virus vs Worm | Cyber T | [Read More](https://medium.com/p/da5bd53b5299) |
-| Tue, 29 Jul 2025 16:43:06 GMT | IAM in action: Real world use cases of identity types (B2B, B2C & more) | Malith Dilshan | [Read More](https://medium.com/p/25762baa1bf4) |
-| Tue, 29 Jul 2025 16:41:50 GMT | 7 Massive Secrets To Control Your Energy And Dominate In Bed | SheSaidWhat | [Read More](https://medium.com/p/b9f46f06a408) |
-| Tue, 29 Jul 2025 16:41:36 GMT | Grounded by Ghosts: How Cyberpartisans Crippled Aeroflot Overnight | Ryder Blackthorn | [Read More](https://medium.com/p/8e9df720ff4c) |
