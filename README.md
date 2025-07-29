@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 09:21:49 GMT | Git-Dumped, DB-Hijacked, Shell-Dropped: The Accidental WordPress Takeover | KonaN | [Read More](https://medium.com/p/d520307a7427) |
+| Tue, 29 Jul 2025 09:13:28 GMT | CCTV Installation Services In Bangalore | Bhuvanesh Technotym | [Read More](https://medium.com/p/85003ad96721) |
+| Tue, 29 Jul 2025 09:01:57 GMT | Forensics - picoGym - Sleuthkit Apprentice | Flower Bed | [Read More](https://medium.com/p/dea9b7b56330) |
+| Tue, 29 Jul 2025 09:01:55 GMT | The Digital ICU | John Lamisi | [Read More](https://medium.com/p/40196e3b544e) |
+| Tue, 29 Jul 2025 08:59:42 GMT | # Doomscrolling an Identity Governance Programme | Manoj Kumar | [Read More](https://medium.com/p/45a94c4ed12e) |
+| Tue, 29 Jul 2025 08:58:34 GMT | Cypher - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/57d1debd3f5c) |
+| Tue, 29 Jul 2025 08:53:18 GMT | OpenSSL ile Kendinden İmzalı SSL Sertifikası Oluşturma | Ahmet Enes Tokmak | [Read More](https://medium.com/p/487a689290d9) |
+| Tue, 29 Jul 2025 08:52:01 GMT | Code Haystack HEPA Filter | Carl Sue | [Read More](https://medium.com/p/9d3958058a6e) |
+| Tue, 29 Jul 2025 08:51:20 GMT | Per tanto tempo ho tenuto per me alcune parole. | MartinaELaSuaVoce | [Read More](https://medium.com/p/345fe68f5ff3) |
+| Tue, 29 Jul 2025 08:45:47 GMT | How to Set Up Cloudflare for Your Website: A Step-by-Step Guide | Net2secure | [Read More](https://medium.com/p/ad3fd0facbe3) |
+| Tue, 29 Jul 2025 08:44:37 GMT | ประจำวันอังคารที่ 29 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c53185276ff8) |
+| Tue, 29 Jul 2025 08:37:44 GMT | Top Skills You’ll Learn in Ethical Hacking Training in Kerala | Shilpa Digitalpro | [Read More](https://medium.com/p/234cde730667) |
+| Tue, 29 Jul 2025 08:35:37 GMT | Smarter Traffic Filtering with SafeLine WAF: Real-Time Protection for Modern Attacks | AerieWhole123 | [Read More](https://medium.com/p/8c55054c3b4e) |
+| Tue, 29 Jul 2025 08:34:49 GMT | TShark Nedir? Komut Satırından Güçlü Ağ Trafiği Analizi | Muhammet Yasin Ağzıkuru | [Read More](https://medium.com/p/46dd8868dd2a) |
+| Tue, 29 Jul 2025 08:30:50 GMT | MCP Servers: Powerful Allies or Sneaky Threats? | Daniel Ostrovsky | [Read More](https://medium.com/p/e4685834843a) |
 | Tue, 29 Jul 2025 08:21:55 GMT | Witness-based Encryption — Using an NP Problem To Encrypt a Message | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/a82c33e50093) |
 | Tue, 29 Jul 2025 08:19:56 GMT | Recon for REWARD — Full Bug Bounty Step-By-Step Playbook | Rashadul Islam | [Read More](https://medium.com/p/30dbaa62ce9f) |
 | Tue, 29 Jul 2025 08:13:13 GMT | Building a Cybersecurity Career:What You Need to Know | Kartik Debnath | [Read More](https://medium.com/p/facbef185de4) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 04:22:16 GMT | Debugging Win: Don’t Trust the Wrong Key! | Tofayeltuhin | [Read More](https://medium.com/p/fee57b56e982) |
 | Tue, 29 Jul 2025 04:20:09 GMT | Installing OWASP ZAP in Termux: The Complete Guide (And Why It’s More Complicated Than You Think) | @cybermentorgopal | [Read More](https://medium.com/p/7b9fbc26e2de) |
 | Tue, 29 Jul 2025 04:10:53 GMT | Discover associated urls with a domain | Sagar Majumdar | [Read More](https://medium.com/p/39ac92a6fadf) |
-| Tue, 29 Jul 2025 04:03:27 GMT | DOM XSS in document.write Sink Using Source location.search Inside a <select> Element | Bash Overflow | [Read More](https://medium.com/p/6df5304d9b11) |
-| Tue, 29 Jul 2025 03:54:46 GMT | PortSwigger Lab: Path traversal writeup (All labs) | awes0meness | [Read More](https://medium.com/p/030d60dd898a) |
-| Tue, 29 Jul 2025 03:46:59 GMT | ️ JWT Do It? How None Algorithm and Leaky Secrets Let Me Forge Admin Tokens | Iski | [Read More](https://medium.com/p/c8a0f0f8da82) |
-| Tue, 29 Jul 2025 03:46:51 GMT | Why It’s Time to Upgrade Your WinForms and WebForms Applications — And How AI Can Help-Robert… | Robert Gichuru | [Read More](https://medium.com/p/e47bfe65b64d) |
-| Tue, 29 Jul 2025 03:31:52 GMT | Major Supply Chain Attack Hits 5,000 Developers While Netflix Openly Embraces AI for Content… | Akshat Ratanpal | [Read More](https://medium.com/p/3a63de3fcd7b) |
-| Tue, 29 Jul 2025 03:31:52 GMT | Why I Started Caring About Cybersecurity Only After My Data Got Leaked | Dhruvdeep Singh | [Read More](https://medium.com/p/3e15fabc47a0) |
-| Tue, 29 Jul 2025 03:31:52 GMT | The VeriSource Breach: What 4 Million Exposed Records Mean for Your Digital Safety | Deven Chhajed | [Read More](https://medium.com/p/be7f9e09cdc4) |
-| Tue, 29 Jul 2025 03:26:02 GMT | Business Cybersecurity: Should You Rely on Password Managers in 2025? | Elevate | [Read More](https://medium.com/p/34e589fa25c1) |
-| Tue, 29 Jul 2025 03:21:01 GMT | From Curiosity to Cybersecurity: My Journey into the Digital Shadows | Mr San | [Read More](https://medium.com/p/5955c7fac36e) |
-| Tue, 29 Jul 2025 03:18:46 GMT | How to build a free Cybersecurity/ITSM home lab | NiteAdmin | [Read More](https://medium.com/p/0e7d8c270fe9) |
-| Tue, 29 Jul 2025 03:14:21 GMT | Visit kalkikrivadna.com | Krivadna | [Read More](https://medium.com/p/496a65395dc3) |
-| Tue, 29 Jul 2025 03:07:59 GMT | I cried in front of 40 familiar strangers | Sahaj Bains | [Read More](https://medium.com/p/6940aa753bbf) |
-| Tue, 29 Jul 2025 03:05:45 GMT | Encryption GUI Simulator: A Tool for the Curious and the Cosmic | jorgerodriguezpagan | [Read More](https://medium.com/p/35e76dfb64f2) |
-| Tue, 29 Jul 2025 03:04:28 GMT | Developers Who Hack > Developers Who Just Code! Why? | FrostFoe | [Read More](https://medium.com/p/c6c63c20f71c) |
-| Tue, 29 Jul 2025 03:01:57 GMT | Japan Faces Worst Security Crisis Since WWII | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/76600237c8fb) |
