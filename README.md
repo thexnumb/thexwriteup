@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 16:43:06 GMT | IAM in action: Real world use cases of identity types (B2B, B2C & more) | Malith Dilshan | [Read More](https://medium.com/p/25762baa1bf4) |
+| Tue, 29 Jul 2025 16:41:50 GMT | 7 Massive Secrets To Control Your Energy And Dominate In Bed | SheSaidWhat | [Read More](https://medium.com/p/b9f46f06a408) |
+| Tue, 29 Jul 2025 16:41:36 GMT | Grounded by Ghosts: How Cyberpartisans Crippled Aeroflot Overnight | Ryder Blackthorn | [Read More](https://medium.com/p/8e9df720ff4c) |
+| Tue, 29 Jul 2025 16:40:16 GMT | SharePoint’s Zero-Day Nightmare: Unpacking CVE-2025-53770 and Why Patching Isn’t Enough | Sarper AVCI | [Read More](https://medium.com/p/bdacd67bbc72) |
+| Tue, 29 Jul 2025 16:38:11 GMT | Practice these Questions for the Google Cloud Professional Cloud Security Engineer Certification… | Sachin Sharma - Lead DevOps Engineer | [Read More](https://medium.com/p/aad8c6bc87bd) |
+| Tue, 29 Jul 2025 16:36:22 GMT | How I Fuzzed a Login Page with Burp Suite on Juice Shop | Abhilash H | [Read More](https://medium.com/p/f1b019f9f811) |
+| Tue, 29 Jul 2025 16:35:10 GMT | Twitter spaces #malware #analysis with expert #jessica” | ADanielHill | [Read More](https://medium.com/p/747d4f67985b) |
+| Tue, 29 Jul 2025 16:32:46 GMT | How I Hacked a Cisco Router with a Dictionary Attack | Alex Benny | [Read More](https://medium.com/p/b612880603f5) |
+| Tue, 29 Jul 2025 16:32:36 GMT | I Was Tired of Being Tracked Online — Here’s How Surfshark VPN Helped Me Take Back Control | Kambetastephano | [Read More](https://medium.com/p/785dcd494005) |
+| Tue, 29 Jul 2025 16:29:50 GMT | Compliance as a Service: The Smarter Way to Stay Secure and Audit-Ready | SafeAeon Inc. | [Read More](https://medium.com/p/a763ee48399a) |
 | Tue, 29 Jul 2025 16:23:26 GMT | Proč by se i malé a střední firmy měly zajímat o kybernetickou bezpečnost? | Cyber Solution | [Read More](https://medium.com/p/6e84018639cf) |
+| Tue, 29 Jul 2025 16:21:38 GMT | Set It and Forget It: How Feroot’s PaymentGuard AI Automates PCI 6.4.3 | Feroot Security | [Read More](https://medium.com/p/db5821b1c09a) |
+| Tue, 29 Jul 2025 16:19:45 GMT | The Benefits of Bulletproof Glass: Protection You Can Trust
+In today’s world, safety is more… | Durranih | [Read More](https://medium.com/p/78782f751050) |
+| Tue, 29 Jul 2025 16:18:11 GMT | DeedRAT Backdoor: How Threat Actors Hijack Antivirus Software for Stealthy Payload Deployment | Jon C | [Read More](https://medium.com/p/7d1cc55a0361) |
 | Tue, 29 Jul 2025 16:12:49 GMT | Decisions, Systems, and the Power of Social Technology | Anikeev Kirill | [Read More](https://medium.com/p/492134784337) |
 | Tue, 29 Jul 2025 16:08:52 GMT | Blacklock Security Limited — Best Pen Testing Company NZ | Black Lock | [Read More](https://medium.com/p/516add8185ba) |
 | Tue, 29 Jul 2025 16:06:59 GMT | Top VPNs with Kill Switch: Stay Protected If Your Connection Drops | Timonéofearth | [Read More](https://medium.com/p/ea7cf1b015ec) |
@@ -100,16 +114,3 @@ The ever-growing volume and sophistication of… | José Emanuel Cascone Rêgo d
 | Tue, 29 Jul 2025 13:10:37 GMT | How Hackers Think: Test Your Software with Chaos Engineering! | Murat Kocacık | [Read More](https://medium.com/p/5bb1723fe62a) |
 | Tue, 29 Jul 2025 13:08:13 GMT | Hackerlar Nasıl Düşünür? Fuzz Testing ile Yazılımınızı Kaçak Testçilerle Test Edin! | Murat Kocacık | [Read More](https://medium.com/p/24a971fc0bd7) |
 | Tue, 29 Jul 2025 13:08:09 GMT | How a Simple Payload Led Me to My First SQL Injection Vulnerability | SVR Articles | [Read More](https://medium.com/p/a7b5a9a27f72) |
-| Tue, 29 Jul 2025 13:06:56 GMT | US Wants $2.4M in Bitcoin from Hackers — For Its Own Crypto Stash?! | CoinGen | [Read More](https://medium.com/p/1156bc27bec3) |
-| Tue, 29 Jul 2025 13:06:01 GMT | How I Turned a Headless Browser into a Critical SSRF Goldmine | Ibtissam hammadi | [Read More](https://medium.com/p/57b37235af0f) |
-| Tue, 29 Jul 2025 13:04:11 GMT | What Is Google reCAPTCHA and Which Type Is Best in 2025? | amol pawar | [Read More](https://medium.com/p/0df1b9f22ea1) |
-| Tue, 29 Jul 2025 13:01:58 GMT | ️ Creating Isolated Security Test Environments with Linux Network Namespaces | Esra Kayhan | [Read More](https://medium.com/p/1beb430c05bf) |
-| Tue, 29 Jul 2025 12:58:16 GMT | Effortlessly Export Couchbase RBAC and Sync HashiCorp Vault Dynamic Roles | Raymon Epping | [Read More](https://medium.com/p/1a58bb85996d) |
-| Tue, 29 Jul 2025 12:43:11 GMT | Cybersecurity Career Roadmap 2025: From IT Beginner to Cybersecurity Leader | Gourav(spidergk) | [Read More](https://medium.com/p/f10b5a4fa095) |
-| Tue, 29 Jul 2025 12:37:49 GMT | How I Found a Password Reset Flaw That Led to Full Account Takeover | Aryamevada | [Read More](https://medium.com/p/9f76d138d052) |
-| Tue, 29 Jul 2025 12:34:40 GMT | When Trust Becomes a Threat: Muddled Libra and the Rise of Cloud-Driven Breaches | Pentestjunkie07 | [Read More](https://medium.com/p/6acfc0a97dcc) |
-| Tue, 29 Jul 2025 12:32:03 GMT | Deep Dive: Secrets in the Source — How to Find Leaked Keys, Tokens, and Hidden Endpoints with AI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/882d2347c492) |
-| Tue, 29 Jul 2025 12:31:11 GMT | Building Robust Fraud Detection in Fintech: A Developer’s Guide | Klaus Dev | [Read More](https://medium.com/p/11f06580dc2d) |
-| Tue, 29 Jul 2025 12:29:41 GMT | Deepfakes in 2024–25: Escalating Risks for Businesses | Global Association of Forensic Accountants-GAFA | [Read More](https://medium.com/p/ba4c288d43f9) |
-| Tue, 29 Jul 2025 12:27:34 GMT | 5 Lessons from Satya Nadella — Every Tech Professionals Should Know | K's spotlight | [Read More](https://medium.com/p/8377eb6081b0) |
-| Tue, 29 Jul 2025 12:26:06 GMT | ️ How I Found 13 Bugs Using Just 3 Recon Tools — No Browser, Just Burp at the End | Ekene Joseph | [Read More](https://medium.com/p/f938760f882c) |
