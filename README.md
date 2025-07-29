@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 19:36:24 GMT | How to Hypnotize a Housefly (And Why It Might Actually Work) | Tim Villegas | [Read More](https://medium.com/p/bfaab30746aa) |
+| Tue, 29 Jul 2025 19:36:01 GMT | From SIEM to LLM: Building Cybersecurity AI Tools | Heartlin Machado | [Read More](https://medium.com/p/feb13e2577b3) |
+| Tue, 29 Jul 2025 19:33:03 GMT | Tired of Cyber Threats? Here’s How Digital Identity Services Help | WallaceId | [Read More](https://medium.com/p/65f414baa822) |
+| Tue, 29 Jul 2025 19:30:51 GMT | Cyber Campaign Targets Russian Critical Infrastructure | RealSec.io | [Read More](https://medium.com/p/c36ce105b9b2) |
+| Tue, 29 Jul 2025 19:21:33 GMT | Understanding Delta Time in Wireshark | Javier | [Read More](https://medium.com/p/058e49aabf80) |
+| Tue, 29 Jul 2025 19:21:15 GMT | The One Niche Programming Skill That VCs Are Pouring Millions Into (And It’s Not AI) | Satish Chadive | [Read More](https://medium.com/p/e0ff7ee32cf5) |
+| Tue, 29 Jul 2025 19:20:09 GMT | SECURITY APPARATCHIKS | Peter W. Collier | [Read More](https://medium.com/p/31bf78c07273) |
+| Tue, 29 Jul 2025 19:14:27 GMT | German Law Creates Loophole for Alleged $2.9M Crypto Theft | IC News | [Read More](https://medium.com/p/edbcbafa046d) |
 | Tue, 29 Jul 2025 19:13:22 GMT | AI in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/3eaf20307c60) |
 | Tue, 29 Jul 2025 19:09:39 GMT | AI Isn’t Taking Your Job — The Person Using AI Is | Aryan kumar | [Read More](https://medium.com/p/89ed54c1450c) |
 | Tue, 29 Jul 2025 19:08:09 GMT | Building a Real-Time Blockchain Threat Detection Pipeline: From Theory to Production | Heartlin Machado | [Read More](https://medium.com/p/c8981437c55c) |
@@ -105,11 +113,3 @@ In today’s world, safety is more… | Durranih | [Read More](https://medium.co
 | Tue, 29 Jul 2025 15:25:00 GMT | You Think the Dark Web Is Just for Hackers? Here’s What I Actually Found | Hugo Valters | [Read More](https://medium.com/p/9acbc4dd836a) |
 | Tue, 29 Jul 2025 15:20:04 GMT | I Did Basic Pentesting Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/2acabca0772f) |
 | Tue, 29 Jul 2025 15:18:41 GMT | No Tape, Just Time | Marie Grace, PhD | [Read More](https://medium.com/p/a0d235a2e77b) |
-| Tue, 29 Jul 2025 15:18:09 GMT | ᯤInto the Matrix CZ FAHIM’s Cyber Realm⌖ | CZ FAHIM | [Read More](https://medium.com/p/f1c27888c8e5) |
-| Tue, 29 Jul 2025 15:17:13 GMT | Co je kybernetická bezpečnost a proč je nutné ji věnovat pozornost? | Cyber Solution | [Read More](https://medium.com/p/a735593dc6ef) |
-| Tue, 29 Jul 2025 15:16:46 GMT | Writeup: SSTI1 — picoCTF 2025 | hareem khan | [Read More](https://medium.com/p/3efd45283c83) |
-| Tue, 29 Jul 2025 15:09:44 GMT | Tracing a SQL Injection Attack with Wireshark: What Hackers See, What You Can Learn | Gamuchirai | [Read More](https://medium.com/p/af327ae74f72) |
-| Tue, 29 Jul 2025 15:04:10 GMT | Arcadia Finance, Silo Finance, and CoinMarketCap Breached for $4.1M | Olympix | [Read More](https://medium.com/p/6e5a15e2c255) |
-| Tue, 29 Jul 2025 15:03:44 GMT | Pwned Labs -Illuminate GCP by Fuzzing IAM Permissions | Moghees Ahmad | [Read More](https://medium.com/p/decefd2e4e5d) |
-| Tue, 29 Jul 2025 15:03:07 GMT | Why Nigeria Needs Its Own Sovereign Cloud And Why the Time is Now | Cybervertex | [Read More](https://medium.com/p/f3008dbfb041) |
-| Tue, 29 Jul 2025 15:01:52 GMT | Offboarding Devices Without Drama: 7 Compliance Risks You Can’t Ignore | Yuvi Aggarwal | [Read More](https://medium.com/p/75e5f6f423e2) |
