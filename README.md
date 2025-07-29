@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 07:36:00 GMT | Cybersecurity Market — Defending the Digital Frontier | sravanthi V | [Read More](https://medium.com/p/32d50f790af7) |
+| Tue, 29 Jul 2025 07:35:26 GMT | How I Clinched $500 Within Minutes !! | TSxNINJA | [Read More](https://medium.com/p/5b828ad0f5a4) |
+| Tue, 29 Jul 2025 07:31:30 GMT | Automate XSS & IDOR Bug Hunting Using Bash & Python — A Hacker’s Toolkit | Vipul Sonule | [Read More](https://medium.com/p/e8453e51f703) |
+| Tue, 29 Jul 2025 07:31:23 GMT | Easiest No Rate Limit Bypass‼️ | TSxNINJA | [Read More](https://medium.com/p/47baf1813309) |
+| Tue, 29 Jul 2025 07:31:20 GMT | How I Passed the BSCP Exam: A Full Review & Prep Guide | Sid Joshi | [Read More](https://medium.com/p/f597707fb75e) |
+| Tue, 29 Jul 2025 07:31:13 GMT | Tea Uygulaması İkinci Kez Hacklendi: Bu Sefer Durum Çok Daha Ciddi | Alper Konuralp | [Read More](https://medium.com/p/f1dd1a46b06a) |
+| Tue, 29 Jul 2025 07:28:01 GMT | Security Checklist for Android Apps: A Developer’s Field Guide | Divya Dharshini | [Read More](https://medium.com/p/2076fb940703) |
+| Tue, 29 Jul 2025 07:24:56 GMT | Why I Choose Audio: Trust, Stories, and the Magic of Listening | Liat Portal | [Read More](https://medium.com/p/0ae516095d05) |
+| Tue, 29 Jul 2025 07:23:34 GMT | Why Modern Businesses Need Account Management Software | Bhavesh Rajpurohit | [Read More](https://medium.com/p/a18e6a196867) |
+| Tue, 29 Jul 2025 07:23:23 GMT | API Security Market — Safeguarding the Digital Economy | sravanthi V | [Read More](https://medium.com/p/257716d2bfc4) |
+| Tue, 29 Jul 2025 07:20:53 GMT | Freedom, Speed, and Security in the Digital World — Reimagined | WeeCoins Premium & WeeCoins International | [Read More](https://medium.com/p/73134898248e) |
 | Tue, 29 Jul 2025 07:15:43 GMT | CORS — havfsizlik yoki zaiflik? CORS error? | Ismoil Turdaliyev | [Read More](https://medium.com/p/2d4b61b46331) |
 | Tue, 29 Jul 2025 07:13:53 GMT | Beginner’s Guide to Active Reconnaissance (Part 3.4): | Ar-jay A. Ballaco | [Read More](https://medium.com/p/a65d056707f1) |
 | Tue, 29 Jul 2025 07:11:51 GMT | Back From the Dead: MSSQL Resurrection Attack | Slygoo | [Read More](https://medium.com/p/d155d348d55b) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 02:01:38 GMT | The Night Bangladesh Bank Nearly Lost $1 Billion | zahidul Islam Ratul | [Read More](https://medium.com/p/5372d9b1348c) |
 | Tue, 29 Jul 2025 01:53:59 GMT | Vulnerability - Let's chat! | The Unpleasing Path | [Read More](https://medium.com/p/6dc02043b4f3) |
 | Tue, 29 Jul 2025 01:44:00 GMT | SOCFortres5: DynaRisk Secures $4.7M to Revolutionize Cyber Risk Management for Insurers | Darshan | [Read More](https://medium.com/p/1f6391fe8c1e) |
-| Tue, 29 Jul 2025 01:39:55 GMT | SOCFortres5: Critical Salesforce Tableau Vulnerabilities Allow Remote Code Execution | Darshan | [Read More](https://medium.com/p/006a43eab32e) |
-| Tue, 29 Jul 2025 01:23:38 GMT | LazyOwn: CRIMEN — El Framework RedTeam Definitivo para Todos los Niveles | Lazyown Redteam | [Read More](https://medium.com/p/adcb59714890) |
-| Tue, 29 Jul 2025 01:23:07 GMT | Your EC2 Is Probably Vulnerable. And AWS Isn’t Going to Tell You. | Yajur | [Read More](https://medium.com/p/4736b6d9d655) |
-| Tue, 29 Jul 2025 00:54:54 GMT | HackTheBox: Don’t Panic! reverse engineering writeup | Rana chouchane | [Read More](https://medium.com/p/897bcc6cd809) |
-| Tue, 29 Jul 2025 00:50:57 GMT | Stop Killing Our Operating Systems | Midna | [Read More](https://medium.com/p/f9b9bcbcdae6) |
-| Tue, 29 Jul 2025 00:37:13 GMT | Demystifying Security in AWS Cloud: Simple Guide to Staying Safe in the Cloud | Saima Anam Syed | [Read More](https://medium.com/p/2a5e6a08071d) |
-| Tue, 29 Jul 2025 00:33:25 GMT | How I Found Insecure Direct Object Reference (IDOR) vulnerability ? | Muhammad Wageh | [Read More](https://medium.com/p/6d572929b850) |
-| Tue, 29 Jul 2025 00:20:44 GMT | VulnEscape  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/095a10f09edd) |
-| Tue, 29 Jul 2025 00:14:11 GMT | How I Found a Critical IDOR in a University System (and Why Ethical Hacking Matters) | Jake Long | [Read More](https://medium.com/p/4d80a6947ca3) |
-| Tue, 29 Jul 2025 00:01:37 GMT | Identification and Authentication Failures (OWASP A07): Hacking y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/2846761ebcb9) |
-| Mon, 28 Jul 2025 23:38:31 GMT | QSafe Wallet: The Last Lock | Fedoski | [Read More](https://medium.com/p/f1f4d30befa4) |
