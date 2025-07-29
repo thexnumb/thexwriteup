@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 04:43:06 GMT | MCP Security: Tools, Risks, and Best Practices | Dave Patten | [Read More](https://medium.com/p/440277cb3837) |
+| Tue, 29 Jul 2025 04:37:02 GMT | Portswigger Web Security Academy - Access Control Lab #1 | BooRuleDie | [Read More](https://medium.com/p/bdd7d4abed43) |
+| Tue, 29 Jul 2025 04:34:34 GMT | Day 15- Basic Troubleshooting Process for Operating Systems | unica 02 | [Read More](https://medium.com/p/42b28fe97aee) |
+| Tue, 29 Jul 2025 04:33:35 GMT | What Are the Key SOCI Act Requirements and How Can Your Business Prepare? | cyber ethos | [Read More](https://medium.com/p/75dea95ac1be) |
+| Tue, 29 Jul 2025 04:31:07 GMT | Why Cloud Backup Needs to Be Part of Your Compliance Strategy | Clairegreen | [Read More](https://medium.com/p/84946714ebb9) |
+| Tue, 29 Jul 2025 04:27:50 GMT | Top 5 Flagship Phones Launching Globally in 2025 | Rajkumari Amara Devi | [Read More](https://medium.com/p/4e4a24850a38) |
+| Tue, 29 Jul 2025 04:23:44 GMT | What is Detection Engineering and Why It Matters for Modern Security? | Stevanus Banu | [Read More](https://medium.com/p/09fbb9f941c4) |
+| Tue, 29 Jul 2025 04:23:30 GMT | Forensics - picoGym - Sleuthkit Intro | Flower Bed | [Read More](https://medium.com/p/364a52a7bc9f) |
+| Tue, 29 Jul 2025 04:22:16 GMT | Debugging Win: Don’t Trust the Wrong Key! | Tofayeltuhin | [Read More](https://medium.com/p/fee57b56e982) |
+| Tue, 29 Jul 2025 04:20:09 GMT | Installing OWASP ZAP in Termux: The Complete Guide (And Why It’s More Complicated Than You Think) | @cybermentorgopal | [Read More](https://medium.com/p/7b9fbc26e2de) |
+| Tue, 29 Jul 2025 04:10:53 GMT | Discover associated urls with a domain | Sagar Majumdar | [Read More](https://medium.com/p/39ac92a6fadf) |
+| Tue, 29 Jul 2025 04:03:27 GMT | DOM XSS in document.write Sink Using Source location.search Inside a <select> Element | Bash Overflow | [Read More](https://medium.com/p/6df5304d9b11) |
 | Tue, 29 Jul 2025 03:54:46 GMT | PortSwigger Lab: Path traversal writeup (All labs) | awes0meness | [Read More](https://medium.com/p/030d60dd898a) |
 | Tue, 29 Jul 2025 03:46:59 GMT | ️ JWT Do It? How None Algorithm and Leaky Secrets Let Me Forge Admin Tokens | Iski | [Read More](https://medium.com/p/c8a0f0f8da82) |
+| Tue, 29 Jul 2025 03:46:51 GMT | Why It’s Time to Upgrade Your WinForms and WebForms Applications — And How AI Can Help-Robert… | Robert Gichuru | [Read More](https://medium.com/p/e47bfe65b64d) |
 | Tue, 29 Jul 2025 03:31:52 GMT | Major Supply Chain Attack Hits 5,000 Developers While Netflix Openly Embraces AI for Content… | Akshat Ratanpal | [Read More](https://medium.com/p/3a63de3fcd7b) |
 | Tue, 29 Jul 2025 03:31:52 GMT | Why I Started Caring About Cybersecurity Only After My Data Got Leaked | Dhruvdeep Singh | [Read More](https://medium.com/p/3e15fabc47a0) |
 | Tue, 29 Jul 2025 03:31:52 GMT | The VeriSource Breach: What 4 Million Exposed Records Mean for Your Digital Safety | Deven Chhajed | [Read More](https://medium.com/p/be7f9e09cdc4) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Jul 2025 19:40:50 GMT | They All Came Pre-Hacked: The Persistent Surveillance of My iPhone and Digital Identity (Part 1) | Daretoexpose | [Read More](https://medium.com/p/c869b34b0512) |
 | Mon, 28 Jul 2025 19:37:56 GMT | DAY 28 — Chapter 15: Automate Like a Hacker: Task Scheduling and rc Scripts in Linux | Jinay | [Read More](https://medium.com/p/4dc6cd644a38) |
 | Mon, 28 Jul 2025 19:37:09 GMT | Overview of the Most Common AI-Powered Cyber Threats in 2025 — Part 3 | WAITS Software- und Prozessberatungsgesellsch. mbH | [Read More](https://medium.com/p/e84af6be8d6d) |
-| Mon, 28 Jul 2025 19:29:04 GMT | Inside the Takedown: Technical Forensic Analysis of How Authorities Unmasked and Apprehended the… | X-3306 | [Read More](https://medium.com/p/4f0468b662f9) |
-| Mon, 28 Jul 2025 19:23:07 GMT | AI Pentesting with PTJunior from Vulnetic | Daniel Knight | [Read More](https://medium.com/p/b52e2699eedb) |
-| Mon, 28 Jul 2025 19:23:06 GMT | How I Coded My Way to Free Seats | Florian Kamps | [Read More](https://medium.com/p/3ed3de56148a) |
-| Mon, 28 Jul 2025 19:20:31 GMT | Introducing the American Website & Email Secured Seal — Build Trust, Boost Conversions, and Stay… | American Ratings Team | [Read More](https://medium.com/p/3f4b14394af4) |
-| Mon, 28 Jul 2025 19:04:28 GMT | Dynamic Resolution: How Hackers Implement Elusive Command and Control Infrastructure | Ben Kofman | [Read More](https://medium.com/p/4caba9a29cad) |
-| Mon, 28 Jul 2025 19:02:45 GMT | Browser Extension Security: Analysing Malicious Extensions in the Wild | H1m3 | [Read More](https://medium.com/p/5bf134ab7fc3) |
-| Mon, 28 Jul 2025 19:01:36 GMT | How to Use a Crypto Wallet Like a Pro | The Wallet and The Heart | [Read More](https://medium.com/p/1fbf69d96271) |
-| Mon, 28 Jul 2025 19:00:45 GMT | "Getting Started with Ethical Hacking on Android" | Gopal Jangid | [Read More](https://medium.com/p/f100dd0ca0ae) |
-| Mon, 28 Jul 2025 18:55:28 GMT | The Learning Never Stops | R-Squared Cyber | [Read More](https://medium.com/p/2d3274582c30) |
-| Mon, 28 Jul 2025 18:51:35 GMT | Decentralized Identity: How Blockchain Is Reshaping Digital Trust | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/91c0bd7f5a96) |
-| Mon, 28 Jul 2025 18:49:30 GMT | The Cost of Trust: Pen Testing Takeaways from the Allianz Supply Chain Breach | Pentestjunkie07 | [Read More](https://medium.com/p/ba6f2f537825) |
-| Mon, 28 Jul 2025 18:46:52 GMT | Why Every Company Should Fear the ‘Sleeping Employee’ Threat | Akshay Chauhan | [Read More](https://medium.com/p/edb2a245325f) |
-| Mon, 28 Jul 2025 18:44:36 GMT | AI Agent for Your Open-Source SIEM Stack Is Here — Wazuh, Velociraptor, and CoPilot Just Got… | SOCFortress | [Read More](https://medium.com/p/2e0542aac697) |
