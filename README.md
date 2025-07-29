@@ -12,12 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 14:25:31 GMT | AI-Powered Cybersecurity: Augmenting Human Defenders
+The ever-growing volume and sophistication of… | José Emanuel Cascone Rêgo de Sousa | [Read More](https://medium.com/p/62e014d1bed9) |
+| Tue, 29 Jul 2025 14:22:01 GMT | ️ Network Attacks: What Every SOC Analyst Must Understand. | Dany Christel | [Read More](https://medium.com/p/3fe26c3e059c) |
+| Tue, 29 Jul 2025 14:21:20 GMT | Which one lasts longer, pencil or pen? Smart Tips For Making Wallet Backups That Last | Lucien Bourdon | [Read More](https://medium.com/p/a2d22197bf05) |
+| Tue, 29 Jul 2025 14:19:25 GMT | DonutLoader Uncovered: The Stealthy Malware Hiding in Plain Sight | Pratik Gurav | [Read More](https://medium.com/p/2775c955fd40) |
+| Tue, 29 Jul 2025 14:16:49 GMT | The Identity Illusion: Rethinking AI Agents, Delegation, and Enterprise Access | Cathal Devilly | [Read More](https://medium.com/p/be583d29f97c) |
+| Tue, 29 Jul 2025 14:16:23 GMT | Hugedata CTF challenge | Rajsegar Alagarathnam | [Read More](https://medium.com/p/c76544e1ef95) |
+| Tue, 29 Jul 2025 14:12:55 GMT | EscapeTwo - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/0c565050cdfc) |
+| Tue, 29 Jul 2025 14:09:26 GMT | “What If We Didn’t Wait Until the End?” | Khushboo Rathi Bhutada | [Read More](https://medium.com/p/374fae83f55a) |
+| Tue, 29 Jul 2025 14:03:40 GMT | AI in Cybersecurity: A Double-Edged Sword | Akshaya Mary Lingala | [Read More](https://medium.com/p/2f412b1d4cfd) |
+| Tue, 29 Jul 2025 14:02:59 GMT | Cyber Briefing: 2025.07.29 | CyberMaterial | [Read More](https://medium.com/p/e59f991ad34c) |
+| Tue, 29 Jul 2025 14:02:27 GMT | AI vs Phishing: How I Built the OFFTECh Tool to Detect Scam Links in Real Time | LazyHacker | [Read More](https://medium.com/p/b1a1ad95b65e) |
+| Tue, 29 Jul 2025 14:01:58 GMT | I Had Zero Experience in Active Directory When I Was Asked to Lead a Company-Wide Migration | Jeffrey Fesunoff | [Read More](https://medium.com/p/4f22bf2f9d07) |
+| Tue, 29 Jul 2025 13:59:14 GMT | Firewall vs Antivirus — What’s the Difference? | Cybersecurity Umbrella | [Read More](https://medium.com/p/99c8187cb8b5) |
+| Tue, 29 Jul 2025 13:58:53 GMT | The CISO’s Dilemma | Manan Kharbanda | [Read More](https://medium.com/p/651aa1dc127c) |
+| Tue, 29 Jul 2025 13:56:12 GMT | Cybersecurity Essentials for Small Businesses: Protecting Your Digital Infrastructure | José Emanuel Cascone Rêgo de Sousa | [Read More](https://medium.com/p/7c711c3bd4f0) |
+| Tue, 29 Jul 2025 13:55:13 GMT | If You Open Unknown Links Like Me… You Will Lose Everything | Shahzaib | [Read More](https://medium.com/p/c97212e5c130) |
+| Tue, 29 Jul 2025 13:48:01 GMT | Why Men Regret Losing These Types of Women: Understanding Missed Connections | Lucas Brown | [Read More](https://medium.com/p/cca8bb2c351e) |
+| Tue, 29 Jul 2025 13:46:10 GMT | Proof of Stake vs Proof of Work: A Look Through the Lens of Security | Ramprasad goud | [Read More](https://medium.com/p/cafeaabf74ef) |
+| Tue, 29 Jul 2025 13:40:44 GMT | Pwned Labs -Impersonate GCP Service Account for Privileged Access | Moghees Ahmad | [Read More](https://medium.com/p/fdfbc4531177) |
+| Tue, 29 Jul 2025 13:39:14 GMT | Critical Livewire Vulnerability Puts Laravel Apps at Risk of Remote Code Execution | SafetyDetectives Research Team | [Read More](https://medium.com/p/615b80ab5e6b) |
 | Tue, 29 Jul 2025 13:36:51 GMT | Microsoft AppLocker Bug Could Let Hackers Slip Past Restrictions | SafetyDetectives Research Team | [Read More](https://medium.com/p/22f0f4b29671) |
+| Tue, 29 Jul 2025 13:36:33 GMT | Validating Inputs: Stop Android Vulnerabilities Before They Start | Divya Dharshini | [Read More](https://medium.com/p/5984829cb775) |
 | Tue, 29 Jul 2025 13:33:32 GMT | Let’s Defend: 231 — SOC205 — Malicious Macro has been executed - Writeup | EPereda | [Read More](https://medium.com/p/6a8b6bac2067) |
 | Tue, 29 Jul 2025 13:33:30 GMT | Let’s Defend: 249 — SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability… | EPereda | [Read More](https://medium.com/p/38cfbe82651e) |
 | Tue, 29 Jul 2025 13:33:25 GMT | Let’s Defend: 257 — SOC282 — Phishing Alert — Deceptive Mail Detected - Writeup | EPereda | [Read More](https://medium.com/p/743a6ba093ed) |
 | Tue, 29 Jul 2025 13:32:38 GMT | From Firewall to Full-Stack: EDSPL’s Scalable Cybersecurity | saurabh cyberinfomines | [Read More](https://medium.com/p/a083e8a0aab1) |
 | Tue, 29 Jul 2025 13:31:37 GMT | Vision Transformer ile Ağ Trafiğinde Anomali Tespiti: Görselleştirerek Güvenliği Artırmak | Enes Said Altun | [Read More](https://medium.com/p/86f5b6d90137) |
+| Tue, 29 Jul 2025 13:31:23 GMT | Why Are We Afraid to Stand by What Truly Moves Us? | Wizard Mike | [Read More](https://medium.com/p/7f9615994304) |
 | Tue, 29 Jul 2025 13:31:07 GMT | Polymorphic Ransomware 2.0: | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/a6c5cf232057) |
 | Tue, 29 Jul 2025 13:30:49 GMT | IDOR Is Still a Thing — And It’s Still a Threat | Aravind S V | [Read More](https://medium.com/p/559be52fd35a) |
 | Tue, 29 Jul 2025 13:18:28 GMT | Introduction to Endpoint Security | News | [Read More](https://medium.com/p/5e603dba7611) |
@@ -56,6 +79,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 11:51:21 GMT | 4 Cybersecurity Projects That Earn Me Over $4,000/Month as a Penetration Tester | Ekene Joseph | [Read More](https://medium.com/p/8ad3451273a6) |
 | Tue, 29 Jul 2025 11:50:20 GMT | Common IAM Policy Mistakes: The StringNotLike vs. StringNotEquals Confusion | Bhavesh | [Read More](https://medium.com/p/c18e68b738ab) |
 | Tue, 29 Jul 2025 11:50:20 GMT | Top 10 Windows & Linux Privilege Escalation Techniques Every Pentester Should Master | Pratham Shah | [Read More](https://medium.com/p/1b604193c0a8) |
+| Tue, 29 Jul 2025 11:48:58 GMT | Bifrost 启动漏洞赏金计划，单个漏洞最高奖励 50 万美元 | Bifrost 中文 | [Read More](https://medium.com/p/16483bf32a79) |
 | Tue, 29 Jul 2025 11:46:33 GMT | ◀️How YouTube Saves So Many Videos and Runs Smoothly, The Tech Secrets Behind Its Speed & Storage | Ashish Dhaware | [Read More](https://medium.com/p/ff209b5059b2) |
 | Tue, 29 Jul 2025 11:45:43 GMT | Brute Force Attack: Cracking Buggy Buy’s Logins | Muniza Badar | [Read More](https://medium.com/p/1e1b468fad60) |
 | Tue, 29 Jul 2025 11:42:12 GMT | How I Make $5,000/Month as a Penetration Tester — And How You Can Too | Zino jo | [Read More](https://medium.com/p/e5810340f4b2) |
@@ -89,26 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 10:53:01 GMT | “Weird” Makes You Resilient | Steve Ezeribe | [Read More](https://medium.com/p/6cf15a1c3023) |
 | Tue, 29 Jul 2025 10:51:42 GMT | Click, Swipe, Protect: Why Cyber Laws Matter Now More Than Ever | Malavika Manoj | [Read More](https://medium.com/p/aa41396507f7) |
 | Tue, 29 Jul 2025 10:51:22 GMT | NeuroSyncAI™ as a Deterministic Integrity Layer: Beyond Blockchain, Beyond Keypairs | Trang Phan | [Read More](https://medium.com/p/00a72b44523a) |
-| Tue, 29 Jul 2025 10:50:55 GMT | Cloud VAPT: Securing Your Cloud Infrastructure | West Advanced Technologies Inc | [Read More](https://medium.com/p/4ce810d1a973) |
-| Tue, 29 Jul 2025 10:48:42 GMT | Top Security Challenges for Businesses in Florida and How Access Control Helps | Juliakibaker | [Read More](https://medium.com/p/a74d6160eadd) |
-| Tue, 29 Jul 2025 10:41:05 GMT | CSP e nonce.md | Victor Hugo Nóbrega Alves | [Read More](https://medium.com/p/f7054d77ae41) |
-| Tue, 29 Jul 2025 10:40:41 GMT | Empowering Safety: Women Security Guard Services in Delhi | Sumintra | [Read More](https://medium.com/p/b669ebf251a0) |
-| Tue, 29 Jul 2025 10:38:52 GMT | Best Advanced Penetration Testing Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/01ff5c7ec0d9) |
-| Tue, 29 Jul 2025 10:30:34 GMT | Laravel: Defensive programming strategies in 2025 | Laravel Daily tips | [Read More](https://medium.com/p/ebb7630cc845) |
-| Tue, 29 Jul 2025 10:28:32 GMT | Comprehensive Protection for Your Business and Property | cxccv | [Read More](https://medium.com/p/2487a971ccb6) |
-| Tue, 29 Jul 2025 10:26:22 GMT | Purple Teaming Nedir? Red Team & Blue Team’in Güç Birliği | FatihUYSAL | [Read More](https://medium.com/p/65fe2be06b27) |
-| Tue, 29 Jul 2025 10:26:05 GMT | The Tuesday Night Chair Circle | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/aca380f0b0ee) |
-| Tue, 29 Jul 2025 10:23:04 GMT | Third-Party Risk Management: Why It’s More Than Just Compliance — A Vanguardtec Insight | vanguardtec | [Read More](https://medium.com/p/1cc742199c82) |
-| Tue, 29 Jul 2025 10:16:18 GMT | Supply chain cyberattacks turning weaknesses into traps | Martin Abramov | [Read More](https://medium.com/p/c53644aabd54) |
-| Tue, 29 Jul 2025 10:09:56 GMT | Security in the Age of Agentic AI: Architectural Challenges (Part 2) | Kristin Dahl | [Read More](https://medium.com/p/b1ae320e32b1) |
-| Tue, 29 Jul 2025 10:07:31 GMT | Protect What Matters Most: Professional Security Services in Hobart | Stateguard Protective Services | [Read More](https://medium.com/p/8d88951a8701) |
-| Tue, 29 Jul 2025 10:03:54 GMT | Top Cyber Security Consultant in Barcelona - SSI IT — Safeguard Your Digital Infrastructure Today | Public | [Read More](https://medium.com/p/b67c8fa1c35f) |
-| Tue, 29 Jul 2025 09:59:38 GMT | AI and Cybersecurity: Fighting the Most Dangerous Threats 2025 | Iqra Anwar | [Read More](https://medium.com/p/87afbf0c4d65) |
-| Tue, 29 Jul 2025 09:58:34 GMT | MITRE ATT&CK Framework Nedir? Detaylı Anlatım + Gerçek Bir Saldırı Senaryosu ile Örnek | FatihUYSAL | [Read More](https://medium.com/p/9c2abc32b662) |
-| Tue, 29 Jul 2025 09:56:13 GMT | Day 65: ARP and DNS Poisoning | Nile Okomo | [Read More](https://medium.com/p/3a9a8d0977a7) |
-| Tue, 29 Jul 2025 09:55:33 GMT | Rise of the Indian Digital Warrior | Sitinoldae | [Read More](https://medium.com/p/3459f7276d5f) |
-| Tue, 29 Jul 2025 09:52:44 GMT | Understanding Hacking GraphQL — Part 1 | Redfox Security | [Read More](https://medium.com/p/a40ab91579c8) |
-| Tue, 29 Jul 2025 09:51:33 GMT | Azog, the Red Flag You’ll End Up Reporting To: Cybersecurity Leadership Challenges — Part 2 | checkm4te | [Read More](https://medium.com/p/47afd25da453) |
-| Tue, 29 Jul 2025 09:49:50 GMT | OAuth Misconfiguration in Symfony: Secure It Now | Pentest_Testing_Corp | [Read More](https://medium.com/p/7ac2a464f8e0) |
-| Tue, 29 Jul 2025 09:47:56 GMT | Understanding RBAC in Kubernetes: A Simple Example with VMAgent and Service Discovery | Praveen Krishna Murthy | [Read More](https://medium.com/p/52850114d2c8) |
-| Tue, 29 Jul 2025 09:42:43 GMT | Analyzing Chrome extension — a less discussed vector for cyber-attack? | Galdadoun | [Read More](https://medium.com/p/38ebaf4b48d5) |
