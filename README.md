@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 21:04:31 GMT | Cybersecurity Compliance is a Lie (Unless You Do This) | Steven McDaniel | [Read More](https://medium.com/p/ee92fe72e379) |
+| Tue, 29 Jul 2025 21:01:50 GMT | In-depth Cybersecurity Threat landscape spanning June to July 2025 | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/857cef3ff036) |
+| Tue, 29 Jul 2025 21:01:02 GMT | Part 7: On the Horizon — Quantum Computing & Future Threats | Ben San Roman | [Read More](https://medium.com/p/a7a56a34b141) |
+| Tue, 29 Jul 2025 20:51:11 GMT | So What’s In a Bitcoin Wallet? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/2e02a3600988) |
+| Tue, 29 Jul 2025 20:48:51 GMT | How to Analyze Suspicious Email Headers Online (Free Tool) | Saffansiddiqui | [Read More](https://medium.com/p/d872e0bd813d) |
+| Tue, 29 Jul 2025 20:48:31 GMT | XSS Labs | Usama Hanif | [Read More](https://medium.com/p/87506f82236a) |
+| Tue, 29 Jul 2025 20:48:17 GMT | Why VLANs Still Matter — From On-Prem Switches to the Cloud | Richard Oheneba Gyan | [Read More](https://medium.com/p/e939b18e9dca) |
+| Tue, 29 Jul 2025 20:47:59 GMT | I Found a Team of Legit Hackers Who Actually Help You — Here’s What You Need to Know | Helo Company | [Read More](https://medium.com/p/778351b6a04b) |
 | Tue, 29 Jul 2025 20:29:50 GMT | Zero-Knowledge VPN: We Don’t Know What You’re Doing (and That’s the Point) | Matreshka VPN | [Read More](https://medium.com/p/fd36acff723f) |
 | Tue, 29 Jul 2025 20:28:59 GMT | Just One Click To Leak All Victim Information | Mado | [Read More](https://medium.com/p/54599e3b6268) |
 | Tue, 29 Jul 2025 20:25:45 GMT | UIUCTF 2025 | Dark Eagle | [Read More](https://medium.com/p/dc58015f02ea) |
@@ -105,11 +113,3 @@ In today’s world, safety is more… | Durranih | [Read More](https://medium.co
 | Tue, 29 Jul 2025 16:08:52 GMT | Blacklock Security Limited — Best Pen Testing Company NZ | Black Lock | [Read More](https://medium.com/p/516add8185ba) |
 | Tue, 29 Jul 2025 16:06:59 GMT | Top VPNs with Kill Switch: Stay Protected If Your Connection Drops | Timonéofearth | [Read More](https://medium.com/p/ea7cf1b015ec) |
 | Tue, 29 Jul 2025 16:04:17 GMT | Simplifying Cybersecurity: What Network Protocols Are and Why You Should Actually learn them . | Felipe Jeske Turini | [Read More](https://medium.com/p/f1b143d69554) |
-| Tue, 29 Jul 2025 15:59:58 GMT | Toptal GitHub Breach: Malicious npm Packages Target Developers | Liran Nachman | [Read More](https://medium.com/p/9888931f85a7) |
-| Tue, 29 Jul 2025 15:57:37 GMT | Understanding Shellshock: The Bash Bug That Shook the Internet | M7 | [Read More](https://medium.com/p/af9ca610a5a0) |
-| Tue, 29 Jul 2025 15:57:23 GMT | The Landlord Didn’t Get Away With It: Thanks to Code and AI | Joel Salt | [Read More](https://medium.com/p/ff609ab39145) |
-| Tue, 29 Jul 2025 15:50:24 GMT | ISMAP Management Standards Chapter 1: What’s Your “Measuring Stick” for Choosing Cloud Services? | nolly | [Read More](https://medium.com/p/011350dda604) |
-| Tue, 29 Jul 2025 15:49:32 GMT | Zast.ai is live! | ZAST AI | [Read More](https://medium.com/p/576186389d81) |
-| Tue, 29 Jul 2025 15:47:58 GMT | Bastard — HackTheBox Writeup | Pedromoreiralopes | [Read More](https://medium.com/p/bafafae56195) |
-| Tue, 29 Jul 2025 15:47:51 GMT | SIEM Use Case Series Day 1: Detecting Brute Force Attacks via Failed Login Attempts | NineTales | [Read More](https://medium.com/p/14ac62cea94f) |
-| Tue, 29 Jul 2025 15:43:47 GMT | Comment faire du poisoning sur Perplexity.ai : guide complet | Eandgo Referencement | [Read More](https://medium.com/p/8758ad156237) |
