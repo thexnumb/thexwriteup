@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 15:18:41 GMT | No Tape, Just Time | Marie Grace, PhD | [Read More](https://medium.com/p/a0d235a2e77b) |
+| Tue, 29 Jul 2025 15:17:13 GMT | Co je kybernetická bezpečnost a proč je nutné ji věnovat pozornost? | Cyber Solution | [Read More](https://medium.com/p/a735593dc6ef) |
+| Tue, 29 Jul 2025 15:09:44 GMT | Tracing a SQL Injection Attack with Wireshark: What Hackers See, What You Can Learn | Gamuchirai | [Read More](https://medium.com/p/af327ae74f72) |
+| Tue, 29 Jul 2025 15:04:10 GMT | Arcadia Finance, Silo Finance, and CoinMarketCap Breached for $4.1M | Olympix | [Read More](https://medium.com/p/6e5a15e2c255) |
+| Tue, 29 Jul 2025 15:03:44 GMT | Pwned Labs -Illuminate GCP by Fuzzing IAM Permissions | Moghees Ahmad | [Read More](https://medium.com/p/decefd2e4e5d) |
+| Tue, 29 Jul 2025 15:03:07 GMT | Why Nigeria Needs Its Own Sovereign Cloud And Why the Time is Now | Cybervertex | [Read More](https://medium.com/p/f3008dbfb041) |
+| Tue, 29 Jul 2025 15:01:52 GMT | Offboarding Devices Without Drama: 7 Compliance Risks You Can’t Ignore | Yuvi Aggarwal | [Read More](https://medium.com/p/75e5f6f423e2) |
+| Tue, 29 Jul 2025 15:00:09 GMT | Daily Security News Digest — July 29, 2025 | Security News Digest | [Read More](https://medium.com/p/d6ac0b7f20c7) |
+| Tue, 29 Jul 2025 14:50:25 GMT | Microsoft Defender – How a Free Baseline Tool Is Disrupting the Paid Endpoint Security Market | David SEHYEON Baek | [Read More](https://medium.com/p/7d8096202eea) |
+| Tue, 29 Jul 2025 14:48:28 GMT | 5 Non-Negotiable Features Every Managed Services Provider (MSP) Should Have…Or Don’t Bother | Paradise technologies Inc | [Read More](https://medium.com/p/b42242b74dfa) |
+| Tue, 29 Jul 2025 14:47:56 GMT | Hackers Are Using IPv6 in Ways You Won’t Believe | Abhishek pawar | [Read More](https://medium.com/p/8fed16d0a2dd) |
+| Tue, 29 Jul 2025 14:47:17 GMT | It all started with a simple spark — a curiosity about how things work behind the screen. | Jebin R | [Read More](https://medium.com/p/ba3684d23764) |
+| Tue, 29 Jul 2025 14:46:01 GMT | Storm-2603: SharePoint Zero-Day Exploitation and Warlock Ransomware — A Hybrid Financial and… | Wes Young | [Read More](https://medium.com/p/205d1ae06fc1) |
 | Tue, 29 Jul 2025 14:37:15 GMT | XDC Tech Webinar 10.0 | XDC Innovation Labs | [Read More](https://medium.com/p/0775257750aa) |
 | Tue, 29 Jul 2025 14:35:29 GMT | CVE-2025–52206 Reflected Cross-Site Scripting (XSS) | Marco Nappi | [Read More](https://medium.com/p/af3252bc9b36) |
 | Tue, 29 Jul 2025 14:34:07 GMT | Creating Your Own Threat Intelligence Pipeline: A Custom Approach to Security Monitoring | Taiga Walker | [Read More](https://medium.com/p/142d19edd4e2) |
@@ -100,16 +113,3 @@ The ever-growing volume and sophistication of… | José Emanuel Cascone Rêgo d
 | Tue, 29 Jul 2025 11:34:17 GMT | How to Secure Your App Using JWT: Access Tokens, Refresh Tokens, Rotation, and CSRF Protection | Samir Mirzaliyev | [Read More](https://medium.com/p/f1fd6a5a612a) |
 | Tue, 29 Jul 2025 11:33:05 GMT | What I Learned About Bash Scripting — A Beginner Hacker’s Guide | Srihari | [Read More](https://medium.com/p/2b4941746b6e) |
 | Tue, 29 Jul 2025 11:31:59 GMT | Day 56: Audit Execution | Brittney Ginther | [Read More](https://medium.com/p/b4c754366de0) |
-| Tue, 29 Jul 2025 11:31:30 GMT | Building a SIEM in a Zero-Budget Startup: Lessons from the Trenches | Sebbas | [Read More](https://medium.com/p/03da59d40ba1) |
-| Tue, 29 Jul 2025 11:25:53 GMT | Dexalot vs. Suzaku: Not All DEXs Are Built Equal! | Usman Adk | [Read More](https://medium.com/p/41c74ed30655) |
-| Tue, 29 Jul 2025 11:23:55 GMT | Understanding Log Types in SIEM for Digital Assets | Devaaravindlutukurty | [Read More](https://medium.com/p/bed31c83548d) |
-| Tue, 29 Jul 2025 11:19:57 GMT | More Than Just Antivirus: Discover the Power of Complete Cybersecurity Solutions | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/a52ebb4dec31) |
-| Tue, 29 Jul 2025 11:16:34 GMT | AI realme 15 pro 5g phone is really good? | techcirclehub | [Read More](https://medium.com/p/a729f1b7923f) |
-| Tue, 29 Jul 2025 11:16:10 GMT | QANplatform’s Core Innovation, the QVM Passes Security Audit | QANplatform | [Read More](https://medium.com/p/e6dad138207e) |
-| Tue, 29 Jul 2025 11:15:01 GMT | Types of OTP: Which One is Right for Your Business? | Helo.ai by VivaConnect | [Read More](https://medium.com/p/9a58378e57a6) |
-| Tue, 29 Jul 2025 11:14:44 GMT | Active Directory Certificate Services Zafiyetleri | Yasin Murat Kaşka | [Read More](https://medium.com/p/2093b05cac5f) |
-| Tue, 29 Jul 2025 11:13:57 GMT | Efani Officially Launches Dual eSIM Mobile Service, Here’s Why It Matters | Haris Nadeem | [Read More](https://medium.com/p/7843132f169c) |
-| Tue, 29 Jul 2025 11:11:47 GMT | Cyber Security Roadmap for Beginners [GitHub Resources Included]- NareshIT | Naresh I Technologies | [Read More](https://medium.com/p/3d734771b641) |
-| Tue, 29 Jul 2025 11:09:37 GMT | From Dorking to Critical: Exposing Company Database Credentials and Full Source Code via Public… | 0xRedFox29 | [Read More](https://medium.com/p/197a1fc049c2) |
-| Tue, 29 Jul 2025 11:09:00 GMT | Addressing Cybersecurity Challenges In The Era Of 5G Networks | Teleglobal International | [Read More](https://medium.com/p/92d9ce06c00a) |
-| Tue, 29 Jul 2025 11:07:25 GMT | Cybersecurity Is Changing Rapidly | aadesh.k | [Read More](https://medium.com/p/28235649dfb8) |
