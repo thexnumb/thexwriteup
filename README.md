@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Jul 2025 09:47:56 GMT | Understanding RBAC in Kubernetes: A Simple Example with VMAgent and Service Discovery | Praveen Krishna Murthy | [Read More](https://medium.com/p/52850114d2c8) |
+| Tue, 29 Jul 2025 09:42:43 GMT | Analyzing Chrome extension — a less discussed vector for cyber-attack? | Galdadoun | [Read More](https://medium.com/p/38ebaf4b48d5) |
+| Tue, 29 Jul 2025 09:38:16 GMT | Deepfake Threats in Corporate Espionage: The New Face of Cybercrime | CYber VIaz | [Read More](https://medium.com/p/de461c406561) |
+| Tue, 29 Jul 2025 09:36:30 GMT | Is Pydantic as safe as It Is popular? | Maikel Mardjan | [Read More](https://medium.com/p/ea8130296d67) |
+| Tue, 29 Jul 2025 09:28:06 GMT | Scale-Ready : Image Deduplication with Cryptographic & Perceptual Hashes | Sudhindra Kr. Saxena | [Read More](https://medium.com/p/ae363f54710f) |
+| Tue, 29 Jul 2025 09:24:31 GMT | What is Japan’s Latest and Most Impressive Technology in 2025? | sihackermok | [Read More](https://medium.com/p/dcfe1a62a73f) |
 | Tue, 29 Jul 2025 09:21:49 GMT | Git-Dumped, DB-Hijacked, Shell-Dropped: The Accidental WordPress Takeover | KonaN | [Read More](https://medium.com/p/d520307a7427) |
 | Tue, 29 Jul 2025 09:13:28 GMT | CCTV Installation Services In Bangalore | Bhuvanesh Technotym | [Read More](https://medium.com/p/85003ad96721) |
 | Tue, 29 Jul 2025 09:01:57 GMT | Forensics - picoGym - Sleuthkit Apprentice | Flower Bed | [Read More](https://medium.com/p/dea9b7b56330) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Jul 2025 04:34:34 GMT | Day 15- Basic Troubleshooting Process for Operating Systems | unica 02 | [Read More](https://medium.com/p/42b28fe97aee) |
 | Tue, 29 Jul 2025 04:33:35 GMT | What Are the Key SOCI Act Requirements and How Can Your Business Prepare? | cyber ethos | [Read More](https://medium.com/p/75dea95ac1be) |
 | Tue, 29 Jul 2025 04:31:07 GMT | Why Cloud Backup Needs to Be Part of Your Compliance Strategy | Clairegreen | [Read More](https://medium.com/p/84946714ebb9) |
-| Tue, 29 Jul 2025 04:27:50 GMT | Top 5 Flagship Phones Launching Globally in 2025 | Rajkumari Amara Devi | [Read More](https://medium.com/p/4e4a24850a38) |
-| Tue, 29 Jul 2025 04:23:44 GMT | What is Detection Engineering and Why It Matters for Modern Security? | Stevanus Banu | [Read More](https://medium.com/p/09fbb9f941c4) |
-| Tue, 29 Jul 2025 04:23:30 GMT | Forensics - picoGym - Sleuthkit Intro | Flower Bed | [Read More](https://medium.com/p/364a52a7bc9f) |
-| Tue, 29 Jul 2025 04:22:16 GMT | Debugging Win: Don’t Trust the Wrong Key! | Tofayeltuhin | [Read More](https://medium.com/p/fee57b56e982) |
-| Tue, 29 Jul 2025 04:20:09 GMT | Installing OWASP ZAP in Termux: The Complete Guide (And Why It’s More Complicated Than You Think) | @cybermentorgopal | [Read More](https://medium.com/p/7b9fbc26e2de) |
-| Tue, 29 Jul 2025 04:10:53 GMT | Discover associated urls with a domain | Sagar Majumdar | [Read More](https://medium.com/p/39ac92a6fadf) |
