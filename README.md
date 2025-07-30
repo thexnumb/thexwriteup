@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 09:24:09 GMT | Best Recovery Expert | Norman Meg | [Read More](https://medium.com/p/37e4eeb6a43e) |
+| Wed, 30 Jul 2025 09:17:51 GMT | Decoding Signals: A Tactical & Scholarly Guide to Kali-Tools-RFID | RafalW3bCraft | [Read More](https://medium.com/p/06680aae7d3b) |
+| Wed, 30 Jul 2025 09:16:44 GMT | Blockchain-Based Fraud Detection: Building Trust in Digital Finance | Amit Sharma | [Read More](https://medium.com/p/c628b9c91278) |
+| Wed, 30 Jul 2025 09:15:35 GMT | Vulnerability- What is it? | Ink & Instinct | [Read More](https://medium.com/p/3fcae14bdf5a) |
+| Wed, 30 Jul 2025 09:10:04 GMT | How to Bypass Netflix Account Sharing Enforcement on a Laptop (for Educational Purposes Only) | Dragon | [Read More](https://medium.com/p/192191d49ca3) |
+| Wed, 30 Jul 2025 09:09:40 GMT | What tech skill should you learn first? (and why it could make or break you) | Newton Tech Navigator | [Read More](https://medium.com/p/e92c54cf61c2) |
+| Wed, 30 Jul 2025 09:09:38 GMT | Zero Trust Architecture and Its Role in Enhancing Modern Tech Stacks | Aniketh Roy | [Read More](https://medium.com/p/b8fedcdf5abb) |
+| Wed, 30 Jul 2025 09:07:07 GMT | BugBounty Radar — A Quick User Guide | ZoomEye | [Read More](https://medium.com/p/6ef72d2f04bb) |
+| Wed, 30 Jul 2025 09:06:03 GMT | [중소기업 기술보호 가이드 시리즈 1] 꼭 챙겨야 할 “관리적 보안” 이야기 | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/a048de1a4e0b) |
+| Wed, 30 Jul 2025 09:05:37 GMT | Brute Force Attack — LetsDefend Lab | Atlas Security | [Read More](https://medium.com/p/6137241ae467) |
+| Wed, 30 Jul 2025 09:04:40 GMT | Why Are Apps Asking for Bluetooth Access? The Hidden Truth You Need to Know | Rahul Mishra | [Read More](https://medium.com/p/02ee4d9b7843) |
+| Wed, 30 Jul 2025 09:00:57 GMT | Cybersecurity as a Catalyst: Enhancing Enterprise Tech Stacks with Confidence | Trisha Gaur | [Read More](https://medium.com/p/3258a192828a) |
+| Wed, 30 Jul 2025 08:57:31 GMT | IA for Security — Enriquecendo respostas do AI Chatbot com Processos de Cibersegurança usando RAG… | Fernando Carrara | [Read More](https://medium.com/p/dac282f39912) |
+| Wed, 30 Jul 2025 08:56:19 GMT | Information Technology Best Colleges in India — Galgotias Educational Institutions | Galgotias College | [Read More](https://medium.com/p/ef1c036cc2e1) |
+| Wed, 30 Jul 2025 08:55:24 GMT | Cybersecurity’s Next Takeover Targets: The M&A Wave Reshaping Digital Defence | The Thematic Investor | [Read More](https://medium.com/p/bf5920a63e33) |
+| Wed, 30 Jul 2025 08:52:43 GMT | Fraud Detection AI Isn’t What It Used to Be — Here Are the Breakthroughs to Know | Prakriti Juneja | [Read More](https://medium.com/p/017b7c2dc1ea) |
+| Wed, 30 Jul 2025 08:49:12 GMT | The Daily Tech Digest: 30 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f8ec9b9b8d29) |
+| Wed, 30 Jul 2025 08:46:14 GMT | Personal Security Services in Virginia: Custom Protection for Every Lifestyle | Susan Menon | [Read More](https://medium.com/p/4afaf09d222f) |
+| Wed, 30 Jul 2025 08:39:40 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/1c6a6d3f25de) |
+| Wed, 30 Jul 2025 08:38:48 GMT | How to Spot Phishing Emails: A Practical Guide for Staying Safe Online | Richardhonour | [Read More](https://medium.com/p/66d6a1e2b383) |
+| Wed, 30 Jul 2025 08:35:33 GMT | Hackers don’t knock. They exploit. | Prishusoft | [Read More](https://medium.com/p/7e8de489599d) |
+| Wed, 30 Jul 2025 08:34:08 GMT | Building a Smart Disposable Email Detector: My Journey with iKick | Sahaya Godson | [Read More](https://medium.com/p/3bb09d93f9ad) |
+| Wed, 30 Jul 2025 08:32:39 GMT | Exploiting IPv6 with mitm6: Relaying to Domain Controller via SMB/LDAP | shubham parmar | [Read More](https://medium.com/p/f5b70152a0df) |
+| Wed, 30 Jul 2025 08:29:04 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/2f43c070a9b9) |
 | Wed, 30 Jul 2025 08:08:58 GMT | Scattered Spider Hijacks VMware Systems | Finstein.ai | [Read More](https://medium.com/p/81ff55aacd9f) |
 | Wed, 30 Jul 2025 08:07:50 GMT | 2025 expo osaka | Bosco Tang | [Read More](https://medium.com/p/d6b9c970ce02) |
 | Wed, 30 Jul 2025 08:07:13 GMT | VIP Protection Services in Virginia: Elite Security for High-Profile Clients | Susan Menon | [Read More](https://medium.com/p/f0a664dc0963) |
@@ -89,27 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 04:07:16 GMT | Managing Secrets in Docker: Tools and Techniques | @rnab | [Read More](https://medium.com/p/2fbe2d08d858) |
 | Wed, 30 Jul 2025 04:06:19 GMT | How a Fake IDE Extension Stole $500K From an Experienced Developer | Rathod Veerender | [Read More](https://medium.com/p/2912518c57b8) |
 | Wed, 30 Jul 2025 03:56:14 GMT | Meta Madness: How Hidden Metadata Gave Me Access to Private Docs ️ | Iski | [Read More](https://medium.com/p/3160044d9ef0) |
-| Wed, 30 Jul 2025 03:56:03 GMT | How to Secure Database Access in Web Applications | Rizqi Mulki | [Read More](https://medium.com/p/0092017e8fe9) |
-| Wed, 30 Jul 2025 03:55:46 GMT | Artificial Intelligence (AI) and Its Development Towards AGI Introduction: Background to the Birth… | Botcy | [Read More](https://medium.com/p/a0e61d846436) |
-| Wed, 30 Jul 2025 03:55:46 GMT | Avoiding Privilege Escalation in Your DBMS | Rizqi Mulki | [Read More](https://medium.com/p/e01b72ec96f9) |
-| Wed, 30 Jul 2025 03:55:21 GMT | The Right Way to Use Prepared Statements | Rizqi Mulki | [Read More](https://medium.com/p/9f258fcbd959) |
-| Wed, 30 Jul 2025 03:51:57 GMT | Exploring Ethical and Secure Use of AI in Social Work and Mental Health Practice | Ameer R. Weston-Lee / Soul Cyber | [Read More](https://medium.com/p/186c28df1d9c) |
-| Wed, 30 Jul 2025 03:49:26 GMT | My Data Is Trapped in the Cloud, and It’s Not My Fault | MAD Mathan | [Read More](https://medium.com/p/bd707b85e23b) |
-| Wed, 30 Jul 2025 03:48:17 GMT | SafeLine vs. NAXSI: Smarter WAF for 2025? | Quella | [Read More](https://medium.com/p/682ca7919a6c) |
-| Wed, 30 Jul 2025 03:46:37 GMT | From Insecure Storage to Secure Practices: A Follow-Up | Blue_eye | [Read More](https://medium.com/p/fda2f5bc043f) |
-| Wed, 30 Jul 2025 03:39:25 GMT | Google’s AI Mode gets new ‘Canvas’ feature, real-time help with Search Live, and more | Aly Elvi | [Read More](https://medium.com/p/b6fab57be961) |
-| Wed, 30 Jul 2025 03:34:01 GMT | Side Quest 012: GRACE.. JUST BREATHE. | Dondre Anastasio Dodson | [Read More](https://medium.com/p/2e96f6cd3eaa) |
-| Wed, 30 Jul 2025 03:31:51 GMT | Security Checklist for Android Apps: A Developer’s Field Guide | Divya Dharshini | [Read More](https://medium.com/p/ea88c1882ac8) |
-| Wed, 30 Jul 2025 03:31:51 GMT | Applying the NIST Cybersecurity Framework to a DMZ Project (Cisco Packet Tracer) | SHAKTHIVEL RAJESH | [Read More](https://medium.com/p/cfaf8641f8f0) |
-| Wed, 30 Jul 2025 03:31:51 GMT | Plug In, Get Hacked? The Alarming Rise of ChoiceJacking and How to Stay Safe | Deven Chhajed | [Read More](https://medium.com/p/87e8131dc95c) |
-| Wed, 30 Jul 2025 03:31:51 GMT | Chinese State Actors Exploit Critical SharePoint Zero-Days as AI Achieves Reasoning Breakthrough | Akshat Ratanpal | [Read More](https://medium.com/p/7bea397dc3f4) |
-| Wed, 30 Jul 2025 03:29:56 GMT | pfSense Firewall Setup on Vmware ESXi | James Rawlings | [Read More](https://medium.com/p/f87e267854bb) |
-| Wed, 30 Jul 2025 03:14:18 GMT | The R2 Facility Loophole | Kyle Marks | [Read More](https://medium.com/p/cb8150bdd002) |
-| Wed, 30 Jul 2025 03:11:27 GMT | CyberDefenders:  Web Investigation Lab — Walkthrough | Luis Marquez | [Read More](https://medium.com/p/8c91c347fdfc) |
-| Wed, 30 Jul 2025 03:03:46 GMT | Diamante’s Security Isn’t Just Strong - It’s Quantum-Safe. | DIAM | [Read More](https://medium.com/p/4057ac678957) |
-| Wed, 30 Jul 2025 03:03:22 GMT | EDR-on-EDR Violence: An Accidental Offshoot of our RMM Abuse Research (BYOEDR) | Mike Manrod | [Read More](https://medium.com/p/4688957f31a9) |
-| Wed, 30 Jul 2025 03:01:40 GMT | UK and Germany Forge Historic Defense Pact | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/f22fb729406a) |
-| Wed, 30 Jul 2025 02:58:36 GMT | New eSafeNet RCE Vulnerability Exposes Enterprise Data: What You Need to Know | AerieWhole123 | [Read More](https://medium.com/p/7e0c3a0a6f5a) |
-| Wed, 30 Jul 2025 02:45:34 GMT | Burp Suite + ChatGPT = Ultimate Hacker Assistant? | Paritosh | [Read More](https://medium.com/p/7d66970f8930) |
-| Wed, 30 Jul 2025 02:31:51 GMT | Race Condition Vulnerability | Abhishek Kumar | [Read More](https://medium.com/p/58f6875fec08) |
-| Wed, 30 Jul 2025 02:31:51 GMT | Why Cybersecurity Has a Massive Future Scope in India | Abhishek Kumar | [Read More](https://medium.com/p/43eeaf5b2a92) |
