@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 11:33:50 GMT | Why Partnering with MDR Service Providers Is the Smartest Cybersecurity Move in 2025 | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/88ebe261a689) |
+| Wed, 30 Jul 2025 11:31:40 GMT | Day 57: Final Report Development | Brittney Ginther | [Read More](https://medium.com/p/1afea2c53b52) |
+| Wed, 30 Jul 2025 11:31:09 GMT | What Is Steganography? Hidden Messages in Images Explained | Vicky | [Read More](https://medium.com/p/9d0a330fd104) |
+| Wed, 30 Jul 2025 11:30:20 GMT | HTB Starting Point Tier 0 Meow ve Fawn Makinelerinin Çözümleri ve Bilinmesi Gerekenler | Burhan Demir | [Read More](https://medium.com/p/2b06ab8e6ec3) |
+| Wed, 30 Jul 2025 11:27:03 GMT | Blast From The Past: Dot-Com Guillotine — CutOffMyFeet.com | Namir Sagheenanajar | [Read More](https://medium.com/p/d488f4dd05dc) |
+| Wed, 30 Jul 2025 11:24:58 GMT | YURT DIŞINDA SİBER GÜVENLİK | Abdullah Narin | [Read More](https://medium.com/p/f96cd905e7b2) |
+| Wed, 30 Jul 2025 11:24:54 GMT | Understanding Hacking GraphQL — Part 2 | Redfox Security | [Read More](https://medium.com/p/8eaa3bbd773b) |
+| Wed, 30 Jul 2025 11:22:54 GMT | What’s the Difference Between Authentication and Authorization? | Maverick Steel | [Read More](https://medium.com/p/539fa7ea13a0) |
+| Wed, 30 Jul 2025 11:21:11 GMT | Why Cybersecurity Will Be Overwhelmingly Recommended in the Future: | houssem eddine ben youssef | [Read More](https://medium.com/p/75e317c7c1b8) |
+| Wed, 30 Jul 2025 11:18:40 GMT | Zero Trust Security for Small Businesses: A Practical Guide | Sarwatiftikhar | [Read More](https://medium.com/p/3f9d1e2810fe) |
+| Wed, 30 Jul 2025 11:12:55 GMT | Organize Your Wazuh SOC Workflow: GitHub Repository Setup for New Cybersecurity Analysts | Enitan Ogungbade | [Read More](https://medium.com/p/c200bdb82a26) |
 | Wed, 30 Jul 2025 11:03:24 GMT | The AI Security Paradox: When Intelligence Becomes Vulnerability | Tony Fish | [Read More](https://medium.com/p/179ee3932df6) |
 | Wed, 30 Jul 2025 11:01:54 GMT | Topic 3: LLM Security: Not Just an IT Problem — Why Every Business Leader Should Care | Scott Huang | [Read More](https://medium.com/p/2bcef2f4a50c) |
 | Wed, 30 Jul 2025 11:01:18 GMT | Think You’re a Hacker? | Shahzaib | [Read More](https://medium.com/p/a2a0f52ccb26) |
@@ -102,15 +113,3 @@ By: Nehir - Legally Curious | Legally Curious | [Read More](https://medium.com/p
 | Wed, 30 Jul 2025 07:00:37 GMT | ประจำวันพุธที่ 30 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c164e3585a2e) |
 | Wed, 30 Jul 2025 06:43:32 GMT | RDP Brute-force Testing in My Home Lab: A Hands-on Pentest Walkthrough | Lily | [Read More](https://medium.com/p/8fed3474156f) |
 | Wed, 30 Jul 2025 06:43:22 GMT | We Scanned 68,000 WordPress Sites: Only 15.3% Pass Basic Security (Are You One of Them?) | Smit Pipaliya | [Read More](https://medium.com/p/2b8e97770fa8) |
-| Wed, 30 Jul 2025 06:43:12 GMT | Brené Brown on Vulnerability versus Machiavellian Shielding | Basil Shah | [Read More](https://medium.com/p/308c3f0714db) |
-| Wed, 30 Jul 2025 06:42:36 GMT | What Is Adware? Definition, Types, and Prevention Tips [Complete Guide] | Hamza Hanif | [Read More](https://medium.com/p/63b59154805c) |
-| Wed, 30 Jul 2025 06:42:09 GMT | What are the data types in SIEM Solution? | Devaaravindlutukurty | [Read More](https://medium.com/p/84b93a949dd7) |
-| Wed, 30 Jul 2025 06:38:41 GMT | You Feel So Much | NRWillick | [Read More](https://medium.com/p/65dd7473a07e) |
-| Wed, 30 Jul 2025 06:38:04 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/a48c82bfb671) |
-| Wed, 30 Jul 2025 06:35:52 GMT | My First CTF Learning
- It was my first experience with a CTF challenge, and it was quite difficult… | Gowthamaraj | [Read More](https://medium.com/p/174a7d38c2ec) |
-| Wed, 30 Jul 2025 06:31:18 GMT | MCP and A2A in AI Agent Protocols — Security considerations (II) — OWASP Top 10 for LLM… | SOCFortress | [Read More](https://medium.com/p/29d634a8f758) |
-| Wed, 30 Jul 2025 06:30:56 GMT | Why Cybersecurity Education Is the Most Valuable Investment for Indian Businesses in 2025 | DefenceRabbit | [Read More](https://medium.com/p/9b468846e5c0) |
-| Wed, 30 Jul 2025 06:27:28 GMT | How Samsung Galaxy S25 Increases Mobile Gaming 2025? | Emma Carter | [Read More](https://medium.com/p/ccd57f6cc3b9) |
-| Wed, 30 Jul 2025 06:27:02 GMT | ‍ BugBounty-Cuando no sabes por dónde seguir, mira atrás | Gorka | [Read More](https://medium.com/p/d5ff15ab2e5b) |
-| Wed, 30 Jul 2025 06:26:38 GMT | MITRE: TryHackMe Room Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/9a3998d2a688) |
