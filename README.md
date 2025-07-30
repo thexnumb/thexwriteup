@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 16:10:19 GMT | Siber Güvenliğe Giriş Notları -2 | Duygu Öztürk | [Read More](https://medium.com/p/cdc393c6ffbc) |
+| Wed, 30 Jul 2025 16:07:14 GMT | Happy Birthday to Ethereum! | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/259c5ed8afcd) |
+| Wed, 30 Jul 2025 16:06:39 GMT | How to Utilize Spy Apps in Order to Detect Spyware on Your Mobile Phone | Narjis Batool | [Read More](https://medium.com/p/48e0b83691a5) |
+| Wed, 30 Jul 2025 15:58:23 GMT | Follow the Rabbit: How I Hacked My Way Through Google’s XSS Game | Bhaskar Maity | [Read More](https://medium.com/p/2a5178c3435e) |
+| Wed, 30 Jul 2025 15:58:18 GMT | Linux Exploitation and Privilege Escalation Project! | Luis Fernando Murillo | [Read More](https://medium.com/p/342dae0844de) |
+| Wed, 30 Jul 2025 15:56:31 GMT | How to Earn VINE Rewards via Exchange Campaigns | Bitcoinpepe | [Read More](https://medium.com/p/7dc8e56c41e1) |
+| Wed, 30 Jul 2025 15:51:35 GMT | Can You See Your Security Architecture Clearly? | Christina Irick | [Read More](https://medium.com/p/12fc158965da) |
+| Wed, 30 Jul 2025 15:50:46 GMT | Bitchat: So Private, Even *I* Can Read Your Messages? | CtrlC3 | [Read More](https://medium.com/p/59f3c0e2ada3) |
+| Wed, 30 Jul 2025 15:47:08 GMT | Cybersecurity Audit and Risk Assessment Lab | Sharaden Cole | [Read More](https://medium.com/p/5348091a6e46) |
+| Wed, 30 Jul 2025 15:46:07 GMT | Easily Configure SSL on Linux Using Certbot | Prashant Raorane | [Read More](https://medium.com/p/1d3a44cac737) |
 | Wed, 30 Jul 2025 15:43:19 GMT | What AI in the U.S. Can Learn from Helvetas’ Hard Lessons in Cameroon, Africa | Jerry Yonga | [Read More](https://medium.com/p/ee6b1352576b) |
 | Wed, 30 Jul 2025 15:43:06 GMT | AI Agent Passes CAPTCHA and What That Means | Peter Sikabonyi | [Read More](https://medium.com/p/fc1c2535d467) |
 | Wed, 30 Jul 2025 15:40:06 GMT | E-skimming: The Silent Threat Targeting Online Payments | VenariX, Inc. | [Read More](https://medium.com/p/4930afdf73b7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 12:21:16 GMT | Best Practices for Policy-as-Code Automation: I Blocked Production for 3 Hours and Lost $50K… | AbdulRahman Mostafa | [Read More](https://medium.com/p/f59d3d5f4bd2) |
 | Wed, 30 Jul 2025 12:20:00 GMT | How a Home Security System Helps to Create a Secure Shelter | WSS - Wireless Security Solutions | [Read More](https://medium.com/p/9ab6cf2cc36b) |
 | Wed, 30 Jul 2025 12:17:48 GMT | Is Incognito Mode Really Private? Here’s the Ugly Truth | CYber VIaz | [Read More](https://medium.com/p/9a5c66317e40) |
-| Wed, 30 Jul 2025 12:13:37 GMT | Guide to Cross-Site Scripting (XSS) | Che Chalk | [Read More](https://medium.com/p/e4b722b16a58) |
-| Wed, 30 Jul 2025 12:10:48 GMT | How to Integrate Security and Privacy by Design into Agile Development? | sanya | [Read More](https://medium.com/p/9bab5634fbd8) |
-| Wed, 30 Jul 2025 12:08:26 GMT | How India’s DPDP Act Transforms Data Handling in E-Commerce: A Practical Use Case | Abirami Ramachandran | [Read More](https://medium.com/p/f5bd27e83764) |
-| Wed, 30 Jul 2025 12:03:32 GMT | Sql Firewall extension for Postgresql database security | Muhammet Kurtoglu | [Read More](https://medium.com/p/331439a24dbf) |
-| Wed, 30 Jul 2025 12:02:39 GMT | Russia and China to Conduct Defensive Naval Drills in Sea of Japan This August, Signaling Growing… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/95a292d4a146) |
-| Wed, 30 Jul 2025 11:51:46 GMT | How I Passed CompTIA Security+ | Dothecoder | [Read More](https://medium.com/p/67c00096b0cb) |
-| Wed, 30 Jul 2025 11:48:10 GMT | Top CCTV cameras for Home Solar, Wireless and Night Vision | Shujaaseo | [Read More](https://medium.com/p/22282e240612) |
-| Wed, 30 Jul 2025 11:42:56 GMT | The Future of Cyber Security Services: Trends to Watch in 2025 | YASH Technologies | [Read More](https://medium.com/p/45e7cef545b2) |
-| Wed, 30 Jul 2025 11:41:05 GMT | Ensure Compliance & Security with Axipro’s Expert-Led ISO 27001 Internal Audit Services | Axipro | [Read More](https://medium.com/p/f057b3bcf627) |
-| Wed, 30 Jul 2025 11:40:19 GMT | Unmasking AI’s Deceptive Side: How a New Benchmark (‘MIRAGE-Bench’) Illuminates the Cognitive… | Berend Watchus | [Read More](https://medium.com/p/b0c918dbcdbf) |
