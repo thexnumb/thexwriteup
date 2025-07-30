@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 10:15:44 GMT | Cloud Malware Spreads Cryptominers | Finstein.ai | [Read More](https://medium.com/p/e82ec29d67f6) |
+| Wed, 30 Jul 2025 10:12:40 GMT | Day 66: FTP | Nile Okomo | [Read More](https://medium.com/p/f9e863b268f9) |
+| Wed, 30 Jul 2025 10:11:00 GMT | Email Threats in 2025: Security Guide for AWS & DevOps Teams | Ismail Kovvuru | [Read More](https://medium.com/p/aaa04b8e1647) |
+| Wed, 30 Jul 2025 10:10:08 GMT | Unleashing creativity with IDEEZA ! | Herstonpierre | [Read More](https://medium.com/p/dea149503cb2) |
+| Wed, 30 Jul 2025 10:05:42 GMT | Episode 8: Server-Side Template Injection — The Quiet Killer Hiding in Plain HTML | Yamini Yadav | [Read More](https://medium.com/p/26596ac16006) |
+| Wed, 30 Jul 2025 10:02:16 GMT | A Silent Exchange | maydayhobby | [Read More](https://medium.com/p/b415d36a5180) |
+| Wed, 30 Jul 2025 09:59:51 GMT | How IPSpecialist Services Keeps Your IT Environment Threat-Free | IPSpecialist | [Read More](https://medium.com/p/0587c0036644) |
+| Wed, 30 Jul 2025 09:57:45 GMT | Model Poisoning in Machine Learning: A Deep Dive with MNIST and CNNs | M7 | [Read More](https://medium.com/p/2737e447003e) |
+| Wed, 30 Jul 2025 09:53:44 GMT | ZTNA by Palo Alto Networks: A Comprehensive Guide to Zero Trust Network Access | Juara IT Solutions | [Read More](https://medium.com/p/7e2e9f8941f4) |
+| Wed, 30 Jul 2025 09:49:19 GMT | Cyber Security Company in Dubai, UAE | Oadtechdubai | [Read More](https://medium.com/p/3958c2085f1b) |
+| Wed, 30 Jul 2025 09:47:08 GMT | Identity Security In Play: After The Mega-Deal | The Thematic Investor | [Read More](https://medium.com/p/83d8b5baccc7) |
+| Wed, 30 Jul 2025 09:45:59 GMT | How I find vulnerability can make X(Twitter) lose  millions of dollars | L4zyhacker | [Read More](https://medium.com/p/ae34d713254f) |
+| Wed, 30 Jul 2025 09:41:21 GMT | Secure Shopping with ITIO Innovex: The PCI DSS Compliance Edge in 2025 | ITIO INNOVEX | [Read More](https://medium.com/p/2989649d903c) |
+| Wed, 30 Jul 2025 09:37:27 GMT | 未来の私よ、コレを読め。webサイトの攻撃と対策 part2 | ttt | [Read More](https://medium.com/p/7189786a678a) |
 | Wed, 30 Jul 2025 09:24:09 GMT | Best Recovery Expert | Norman Meg | [Read More](https://medium.com/p/37e4eeb6a43e) |
 | Wed, 30 Jul 2025 09:17:51 GMT | Decoding Signals: A Tactical & Scholarly Guide to Kali-Tools-RFID | RafalW3bCraft | [Read More](https://medium.com/p/06680aae7d3b) |
 | Wed, 30 Jul 2025 09:16:44 GMT | Blockchain-Based Fraud Detection: Building Trust in Digital Finance | Amit Sharma | [Read More](https://medium.com/p/c628b9c91278) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 05:31:37 GMT | No One Talks About This Kind of Rejection | Phoenix | [Read More](https://medium.com/p/74048370a40d) |
 | Wed, 30 Jul 2025 05:18:10 GMT | Major Crypto Hacks and Drosera’s Real-World Defense | Yuni | [Read More](https://medium.com/p/24c0f41d42d0) |
 | Wed, 30 Jul 2025 05:06:55 GMT | I Fell for the Fake Shipping Text | Aj | [Read More](https://medium.com/p/b239b3691a6c) |
-| Wed, 30 Jul 2025 05:06:46 GMT | 3. Understanding Reconnaissance: Finding the Unseen | Abhijeet kumawat | [Read More](https://medium.com/p/8c7a91b89c35) |
-| Wed, 30 Jul 2025 05:02:57 GMT | Prompt Engineering Toolkit (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0b9ed2e01047) |
-| Wed, 30 Jul 2025 05:01:56 GMT | 7,000 Servers Wiped — Pro-Ukraine Hackers Cripple Russia’s Aeroflot in Yearlong Cyber Siege | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/64f495d7e03e) |
-| Wed, 30 Jul 2025 04:50:50 GMT | Log Transmission to SIEM: Typical and Security Solutions | Devaaravindlutukurty | [Read More](https://medium.com/p/843bd9e9d1d6) |
-| Wed, 30 Jul 2025 04:43:56 GMT | The Linux Concept Journey — ltrace (Library Call Tracer) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/123fe6e7739a) |
-| Wed, 30 Jul 2025 04:41:21 GMT | Generative AI in Cybersecurity: The Next Frontier of Digital Defence | Akshaya Mary Lingala | [Read More](https://medium.com/p/015359c6ead7) |
-| Wed, 30 Jul 2025 04:36:59 GMT | Control Everything with the Linux Shell — Without the Headache (Part 1) | MayhemCode | [Read More](https://medium.com/p/e61681286544) |
-| Wed, 30 Jul 2025 04:36:27 GMT | UK Online Safety Law: What’s Changing and Why It Matters | Sam Writes Security | [Read More](https://medium.com/p/bf11cbfffb18) |
-| Wed, 30 Jul 2025 04:33:15 GMT | ISMAP Management Standards Chapter 2: The Basics of Information Security Audits and the “Statement… | nolly | [Read More](https://medium.com/p/cd9a89c07d26) |
-| Wed, 30 Jul 2025 04:32:41 GMT | What is Same origin policy ? Why you should know about SOP ? | Ayush Kumar | [Read More](https://medium.com/p/36ef803b4732) |
-| Wed, 30 Jul 2025 04:08:39 GMT | Boosting Data Center Security in Sultanate of Oman: Implementing Robust Access Control Systems | expbhavya | [Read More](https://medium.com/p/c79616595c5e) |
-| Wed, 30 Jul 2025 04:07:16 GMT | Managing Secrets in Docker: Tools and Techniques | @rnab | [Read More](https://medium.com/p/2fbe2d08d858) |
-| Wed, 30 Jul 2025 04:06:19 GMT | How a Fake IDE Extension Stole $500K From an Experienced Developer | Rathod Veerender | [Read More](https://medium.com/p/2912518c57b8) |
-| Wed, 30 Jul 2025 03:56:14 GMT | Meta Madness: How Hidden Metadata Gave Me Access to Private Docs ️ | Iski | [Read More](https://medium.com/p/3160044d9ef0) |
