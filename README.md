@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 15:15:28 GMT | The Courage to Be Ordinary | Mindspherelab | [Read More](https://medium.com/p/641ecf2a17ae) |
+| Wed, 30 Jul 2025 15:11:26 GMT | DCHSpy: Iran-Linked Android Spyware Masquerading as VPN and Starlink Apps | _Anirudh_ | [Read More](https://medium.com/p/f44c3a51e5bc) |
+| Wed, 30 Jul 2025 15:10:42 GMT | TheHackersLabs — HellRoot [Write-Up] | APS88 | [Read More](https://medium.com/p/6c6d7e728e07) |
+| Wed, 30 Jul 2025 15:09:50 GMT | Install Deepseek Locally with Ollama & Access via Chatbox AI | Aravind S V | [Read More](https://medium.com/p/bea148e40751) |
+| Wed, 30 Jul 2025 15:06:59 GMT | Global Military Intelligence South Korean Intelligence Agency | Emily Taylor | [Read More](https://medium.com/p/8f41f78995fb) |
+| Wed, 30 Jul 2025 15:06:56 GMT | “ARP Spoofing” Nedir? Nasıl Yapılır? | Furkan Kadıkıran | [Read More](https://medium.com/p/7d998f5eb4ea) |
+| Wed, 30 Jul 2025 15:05:41 GMT | The 5-Minute Security Routine That Blocks 90% of Cyber Attacks | Che Chalk | [Read More](https://medium.com/p/62a337829fdd) |
+| Wed, 30 Jul 2025 15:04:08 GMT | APT41’s African Government IT Services Attack Campaign (2024–2025) | _Anirudh_ | [Read More](https://medium.com/p/035d823e42bf) |
+| Wed, 30 Jul 2025 15:03:10 GMT | APT35 (Charming Kitten): A Strategic Intelligence Report — Evolution, Operations, and Threat… | BeGoodToAll | [Read More](https://medium.com/p/862eea4a2db4) |
+| Wed, 30 Jul 2025 15:02:29 GMT | Why Do We See Query Parameters in HTTPS URLs? Is It Still Secure? | Tanish Dewase | [Read More](https://medium.com/p/5f3b6ee7702a) |
+| Wed, 30 Jul 2025 15:02:21 GMT | The Fall of the House of Democracy: What Epstein, AI, and Cybersecurity Law Warn Us About Our… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/265cc33337a3) |
+| Wed, 30 Jul 2025 14:58:45 GMT | Proactive Cybersecurity Monitoring and MSSP Solutions for Modern Enterprises | Vijilan | [Read More](https://medium.com/p/4145f2ee926c) |
+| Wed, 30 Jul 2025 14:48:58 GMT | Introducing the Talsec Portal: A New Way to Monitor Your Mobile App Security — Try It Now! | Talsec | [Read More](https://medium.com/p/5332e4f1033d) |
 | Wed, 30 Jul 2025 14:47:58 GMT | Meet the Team Behind Hello Future Technologies (Private) Limited | Muhammad Saad Jalil | [Read More](https://medium.com/p/73b30dadb432) |
+| Wed, 30 Jul 2025 14:46:33 GMT | CloudLinux Features Overview. Advantages and Disadvantages of the OS | HostPro | [Read More](https://medium.com/p/9b9fdb6f2d16) |
+| Wed, 30 Jul 2025 14:46:33 GMT | Vulnerability Name: The Human Element in Credential Authentication | _Anirudh_ | [Read More](https://medium.com/p/1c0a454f656f) |
 | Wed, 30 Jul 2025 14:42:52 GMT | Report Bug Bounty Jangan Pake Video! | Rona Febriana | [Read More](https://medium.com/p/8a64178a1733) |
 | Wed, 30 Jul 2025 14:40:58 GMT | From Hospitality to Hacking: Why I’m Pursuing a Career in Cybersecurity | Kristel Eagar | [Read More](https://medium.com/p/fb08953c6163) |
 | Wed, 30 Jul 2025 14:37:40 GMT | IDOR in the Wild: How I Discovered a Critical Data Exposure via Vendor ID | Blue_eye | [Read More](https://medium.com/p/8ce73edc1b3e) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 11:21:11 GMT | Why Cybersecurity Will Be Overwhelmingly Recommended in the Future: | houssem eddine ben youssef | [Read More](https://medium.com/p/75e317c7c1b8) |
 | Wed, 30 Jul 2025 11:18:40 GMT | Zero Trust Security for Small Businesses: A Practical Guide | Sarwatiftikhar | [Read More](https://medium.com/p/3f9d1e2810fe) |
 | Wed, 30 Jul 2025 11:12:55 GMT | Organize Your Wazuh SOC Workflow: GitHub Repository Setup for New Cybersecurity Analysts | Enitan Ogungbade | [Read More](https://medium.com/p/c200bdb82a26) |
-| Wed, 30 Jul 2025 11:03:24 GMT | The AI Security Paradox: When Intelligence Becomes Vulnerability | Tony Fish | [Read More](https://medium.com/p/179ee3932df6) |
-| Wed, 30 Jul 2025 11:01:54 GMT | Topic 3: LLM Security: Not Just an IT Problem — Why Every Business Leader Should Care | Scott Huang | [Read More](https://medium.com/p/2bcef2f4a50c) |
-| Wed, 30 Jul 2025 11:01:18 GMT | Think You’re a Hacker? | Shahzaib | [Read More](https://medium.com/p/a2a0f52ccb26) |
-| Wed, 30 Jul 2025 11:00:37 GMT | When ‘Being Pleasant’ Feels Like a Disguise | Karen Bromberg | [Read More](https://medium.com/p/26cb9cbf4e7d) |
-| Wed, 30 Jul 2025 10:56:10 GMT | Prompt Injection Playground: Mastering AI Attacks with Lakera’s Gandalf | Jade Hill | [Read More](https://medium.com/p/5e7481b22e9d) |
-| Wed, 30 Jul 2025 10:50:05 GMT | Why AI Security Is More Important Than You Think | Rodrigo Fernandez | [Read More](https://medium.com/p/499a37448365) |
-| Wed, 30 Jul 2025 10:48:42 GMT | Muhammad Qasim Akhund — A Passionate Frontend Developer Crafting Scalable Web Experiences | Muhammad Qasim Akhund | [Read More](https://medium.com/p/48774a3822ec) |
-| Wed, 30 Jul 2025 10:45:21 GMT | NETWORK: Siber Güvenliğin Temel Taşı | Doga Calkap | [Read More](https://medium.com/p/aab8ae20ad11) |
-| Wed, 30 Jul 2025 10:43:28 GMT | Phoenix Woman Gets 8.5 Years for North Korean Laptop Farm | Karl Buhl | [Read More](https://medium.com/p/d49a818f3a38) |
-| Wed, 30 Jul 2025 10:43:25 GMT | O que é IAM ? | José Guilherme Vinche | [Read More](https://medium.com/p/557690cc5bcf) |
-| Wed, 30 Jul 2025 10:41:00 GMT | Can You Commit a Crime on TikTok? Can a Video Get You Taken to Court?
-By: Nehir - Legally Curious | Legally Curious | [Read More](https://medium.com/p/fb09acdb1101) |
-| Wed, 30 Jul 2025 10:38:32 GMT | AI Red‑Teaming: Combating Malicious LLM‑Powered Cybercrime with penligent.ai | PenligentAI | [Read More](https://medium.com/p/3bb6c3ddcbc3) |
-| Wed, 30 Jul 2025 10:36:19 GMT | My First SOC Analyst Challenge — Real Alert, Real Response | Samuel Jack | [Read More](https://medium.com/p/623c9531731d) |
-| Wed, 30 Jul 2025 10:34:27 GMT | ChatGPT and the Security Crossroads: Bridging the Gap in the Age of AI-Driven Development | PenligentAI | [Read More](https://medium.com/p/03559c0ef93c) |
-| Wed, 30 Jul 2025 10:31:54 GMT | Mastering IAM with Asgardeo | Thidas Senavirathna | [Read More](https://medium.com/p/aa6bbf6a93bf) |
