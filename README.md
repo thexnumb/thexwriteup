@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 01:32:10 GMT | Cybersecurity Challenges in Remote Tech Jobs and How to Overcome Them | Reapool | [Read More](https://medium.com/p/4e04f4db8c9f) |
+| Wed, 30 Jul 2025 01:28:54 GMT | Linkable Token ID in Microsoft Entra: Investigating Cross-Workload Attacks with SessionId | Abhishek Kumar Sharma | [Read More](https://medium.com/p/5bcd3c46a086) |
+| Wed, 30 Jul 2025 01:24:22 GMT | How Much Does It Cost for Construction Site Security Camera Rental in the U.S | Ivis Constructionsurveillance | [Read More](https://medium.com/p/d3171f847d9f) |
+| Wed, 30 Jul 2025 01:22:57 GMT | Decodificando Tanssi II: Como Appchains Podem Herdar Segurança Econômica do Ethereum com o… | IsaLeal | [Read More](https://medium.com/p/dfc5cdebdcc1) |
+| Wed, 30 Jul 2025 01:15:51 GMT | Opinion: CVE-2025–43714 Shows Why We Need to Treat AI Like a Web App | VaRiOus_CanAriEs | [Read More](https://medium.com/p/3a18f11b3f88) |
+| Wed, 30 Jul 2025 01:06:33 GMT | What if Your Pipeline Could Predict Failure? The Future of CI/CD with ML | Aravind Sunkara | [Read More](https://medium.com/p/f73e99fa5ade) |
+| Wed, 30 Jul 2025 00:59:10 GMT | Fileless Virus vs Rootkit | Cyber T | [Read More](https://medium.com/p/109fe54c24c2) |
+| Wed, 30 Jul 2025 00:40:11 GMT | If Tears Could Speak | Jessica Mae Sustiguer Devera | [Read More](https://medium.com/p/69c05b411965) |
+| Wed, 30 Jul 2025 00:36:41 GMT | How to Recover Lost Cryptocurrency or Access Your Wallet | Simone Bianca | [Read More](https://medium.com/p/354155877928) |
+| Wed, 30 Jul 2025 00:33:24 GMT | OAuth is not for Authentication — A common misconception | Ayyappan Subramanian | [Read More](https://medium.com/p/b877d98d07d7) |
+| Wed, 30 Jul 2025 00:24:47 GMT | We All Wear a Pretence Coat. Here’s How to Take It Off | Greg Twemlow | [Read More](https://medium.com/p/8d43a39684c3) |
+| Wed, 30 Jul 2025 00:20:45 GMT | Cybersecurity: 7 Simple Tips to Stay Safe Online | Vedant Bansal | [Read More](https://medium.com/p/4e5fc8f3b70a) |
+| Wed, 30 Jul 2025 00:19:20 GMT | A CCSP (Certified Cloud Security Professional) Exam Kickstarter for Cloud Native Security… | Gerald Bachlmayr | [Read More](https://medium.com/p/d300969164c3) |
+| Wed, 30 Jul 2025 00:12:03 GMT | Third open letter to New Zealand’s Parliamentary Commissioner for the Environment — #3 Avoiding… | Occam | [Read More](https://medium.com/p/268315b90771) |
+| Wed, 30 Jul 2025 00:05:53 GMT | Proton Pass vs Bitwarden vs 1Password: Which Password Manager Is Worth It in 2025? | BiyteLüm | [Read More](https://medium.com/p/d66032871029) |
+| Wed, 30 Jul 2025 00:03:53 GMT | SSRF via Host Header Injection — A Prank Gone Vulnerable | Minio Haxer | [Read More](https://medium.com/p/52eb514f664d) |
+| Wed, 30 Jul 2025 00:02:29 GMT | The RAT That Fights Back: XWorm v6 and the New Era of Stealthy Cyber Threats | Robert Encarnacao | [Read More](https://medium.com/p/9714c2e6ae18) |
+| Wed, 30 Jul 2025 00:02:28 GMT | Identification and Authentication Failures (OWASP A07): For hacking, bug bounty and web development | JPablo13 | [Read More](https://medium.com/p/52a707be67af) |
+| Tue, 29 Jul 2025 23:57:50 GMT | An open letter to New Zealand’s Parliamentary Commissioner for the Environment — #1 There’s No… | Occam | [Read More](https://medium.com/p/4caca7ff23f9) |
 | Tue, 29 Jul 2025 23:42:11 GMT | Ultimate API Bug Bounty: Find & Secure Hidden API Endpoints | Israel Aráoz Severiche | [Read More](https://medium.com/p/139c8f0a061a) |
 | Tue, 29 Jul 2025 23:30:07 GMT | AWS IAM: Auto-Disable Suspicious IAM Users Using CloudTrail, CloudWatch, and AWS Lambda | Micaiah Ampofo | [Read More](https://medium.com/p/8b3cf5b2301e) |
 | Tue, 29 Jul 2025 23:19:27 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/b83e750dd51f) |
@@ -94,22 +113,3 @@ Welcome to Forzerune,, where code meets chaos, and the… | FORZERUNE | [Read Mo
 | Tue, 29 Jul 2025 18:12:02 GMT | How to Break Into Cybersecurity Without Feeling Overwhelmed | Med Abou | [Read More](https://medium.com/p/68fe2ffe15d7) |
 | Tue, 29 Jul 2025 18:08:16 GMT | Aeroflot Hack Exposes Data Leak, Disrupts Flights | Kalariya Het | [Read More](https://medium.com/p/26272236dbae) |
 | Tue, 29 Jul 2025 18:07:32 GMT | AI vs. Cybersecurity: This Week’s Frontlines (July 29, 2025) | Abdul Saboor | [Read More](https://medium.com/p/bc75a5b3c3fb) |
-| Tue, 29 Jul 2025 18:07:16 GMT | Securing Docker Containers: Best Practices | @rnab | [Read More](https://medium.com/p/968f10a116ca) |
-| Tue, 29 Jul 2025 18:06:57 GMT | Siber Güvenliğe Giriş Notları -1 | Duygu Öztürk | [Read More](https://medium.com/p/03cb35570e11) |
-| Tue, 29 Jul 2025 18:00:50 GMT | Prompt Engineering Toolkit for JavaScript Recon (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6209c57ce8ef) |
-| Tue, 29 Jul 2025 17:59:43 GMT | THM - Infinity Shell | Francesco Pastore | [Read More](https://medium.com/p/df67e7e6c335) |
-| Tue, 29 Jul 2025 17:58:42 GMT | Sıfır Maliyetle Web Sitesi Güvenliği: 5 Ücretsiz ve Kritik Araç | Mehmet Can Duman | [Read More](https://medium.com/p/6aec8f8dd2fd) |
-| Tue, 29 Jul 2025 17:57:38 GMT | Tiny AI Breakthroughs That Transformed My Cyber Journey | Abraham Eleojo Salifu | [Read More](https://medium.com/p/82dd82e5f3f1) |
-| Tue, 29 Jul 2025 17:54:28 GMT | LunaEngine: The Self-Hosted IT Management System for Modern Enterprises | Faisal Dad Khan | [Read More](https://medium.com/p/0e5123a0aca3) |
-| Tue, 29 Jul 2025 17:50:41 GMT | Not All Hackers Are Equal: The Ones Who Can Ruin Your Life | Shahzaib | [Read More](https://medium.com/p/c7b423c3dc5e) |
-| Tue, 29 Jul 2025 17:46:29 GMT | The 5-Minute Asset Exposure Checklist | Evgeny Ermakov | [Read More](https://medium.com/p/4e97b845fd78) |
-| Tue, 29 Jul 2025 17:45:43 GMT | Why Traditional Risk Assessment Frameworks Are Failing in the Age of SaaS and Cloud Technology | BuntahBole | [Read More](https://medium.com/p/df7b3893efef) |
-| Tue, 29 Jul 2025 17:41:43 GMT | Telling the Story: Documentation in the Cybersecurity World | Sayantani Halder | [Read More](https://medium.com/p/75d22418d103) |
-| Tue, 29 Jul 2025 17:38:05 GMT | Introducing CerberusX: The Next-Gen XSS Scanner for Ethical Hackers | N0aziXss | [Read More](https://medium.com/p/5e05f5c3718c) |
-| Tue, 29 Jul 2025 17:33:06 GMT | The Top Spy Apps for Monitoring Mobile Devices: Ultimate Guide for Parents & Spouses | Narjis Batool | [Read More](https://medium.com/p/692690a124c5) |
-| Tue, 29 Jul 2025 17:32:59 GMT | Mr Robot (TryHackMe) — Complete Walk-Through & Pen-Test Style Report | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/670aa1b64c53) |
-| Tue, 29 Jul 2025 17:32:52 GMT | The 90-Day Cybersecurity Job Search Breakthrough Plan | Mudassir Syed | [Read More](https://medium.com/p/42baf7ed7551) |
-| Tue, 29 Jul 2025 17:32:29 GMT | ️Installing Ubuntu on VMware: A Beginner-Friendly Setup Guide | Ayush Pandey | [Read More](https://medium.com/p/46595b13f113) |
-| Tue, 29 Jul 2025 17:24:17 GMT | A fear of New Beginnings | Bijou-Noelle Martey | [Read More](https://medium.com/p/4d4e535da9d9) |
-| Tue, 29 Jul 2025 17:23:06 GMT | HACKED ACCOUNT | Grace Cofie | [Read More](https://medium.com/p/ad76ba94d392) |
-| Tue, 29 Jul 2025 17:20:05 GMT | CyberChef: The Basics - TryHackMe - Walkthrough - Notes and Tasks Answers | Yogesh Mishra | [Read More](https://medium.com/p/44c3214ca934) |
