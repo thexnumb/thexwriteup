@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 22:44:22 GMT | CTF Write-up: Dominando a Máquina TIME ⏳ | Jonathan M. | [Read More](https://medium.com/p/fe58ab8ca589) |
+| Wed, 30 Jul 2025 22:36:22 GMT | Some Assembly Required 2 PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/0e45b0bf2390) |
+| Wed, 30 Jul 2025 22:31:37 GMT | Watering Hole Attacks: Don’t Fall Prey to Hackers | Spokeo People Search | [Read More](https://medium.com/p/1b6058c57719) |
+| Wed, 30 Jul 2025 22:22:48 GMT | Why I Started Writing My Own Bash Scripts | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/ee265e71b16a) |
 | Wed, 30 Jul 2025 22:16:37 GMT | Secure Software Supply Chain: From Dependencies to Deployment | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d5d40f58e2c8) |
 | Wed, 30 Jul 2025 22:12:59 GMT | Breaking the Shield: Exploiting HTTP Headers in Web Applications | i4m_x | [Read More](https://medium.com/p/b7f9cc3ce670) |
 | Wed, 30 Jul 2025 22:07:14 GMT | 4 تا از بهترین هکر های دنیا | Cyber News | [Read More](https://medium.com/p/1f1362434443) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 16:41:08 GMT | Why the Lock Icon in Your Browser Actually Matters: The Role of SSL and TLS | Natarajan C K | [Read More](https://medium.com/p/d5a935f23dcb) |
 | Wed, 30 Jul 2025 16:38:58 GMT | Τί είναι οι Επεκτάσεις Browser και Πώς να τις Χρησιμοποιείς με Ασφάλεια και Ευκολία | Akis Papas | [Read More](https://medium.com/p/c26306c79d7f) |
 | Wed, 30 Jul 2025 16:35:16 GMT | The AI Chameleon: When Ethical Alignment Meets the Power to Simulate Minds for Deception | Berend Watchus | [Read More](https://medium.com/p/fe0a14bb8834) |
-| Wed, 30 Jul 2025 16:32:15 GMT | SecureP2PChat Tool | Oussemaghariani | [Read More](https://medium.com/p/72b052b2912a) |
-| Wed, 30 Jul 2025 16:30:49 GMT | ⸻ | Hamzah Hatamleh | [Read More](https://medium.com/p/b5cfffa84a6f) |
-| Wed, 30 Jul 2025 16:29:46 GMT | TryHackMe - Humans as Attack Vectors - WriteUp | Axoloth | [Read More](https://medium.com/p/fe7775217df0) |
-| Wed, 30 Jul 2025 16:24:36 GMT | Generative AI for Translation: Bridging Global Language Gaps | Kaiser | [Read More](https://medium.com/p/ce839fa548e3) |
