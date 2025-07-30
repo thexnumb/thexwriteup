@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 13:40:23 GMT | The Rise of Quishing: A 2025 Phishing Evolution That’s Hiding in Plain Sight | Tarush Sharma | [Read More](https://medium.com/p/5a21add1f1d1) |
+| Wed, 30 Jul 2025 13:18:38 GMT | Troubleshooting Guide for Secure VoIP Conference Calls | Voizcall | [Read More](https://medium.com/p/b493b55d745e) |
+| Wed, 30 Jul 2025 13:17:56 GMT | Demokratiemanifest für die schweigende Mehrheit: | Petr Legkov | [Read More](https://medium.com/p/30cb9debf492) |
+| Wed, 30 Jul 2025 13:12:01 GMT | Cybersecurity experts warn of sophisticated Gmail phishing scam | Aly Elvi | [Read More](https://medium.com/p/fe5cb8b8cf94) |
+| Wed, 30 Jul 2025 13:10:13 GMT | A Guide to AI Security: What You Need to Know About Adversarial Threats and Defences. | Umealor Obumneme | [Read More](https://medium.com/p/745aee1a210a) |
+| Wed, 30 Jul 2025 13:10:00 GMT | When Fiction Meets Reality: Why “More Short Stories from Tech” Is Essential Reading After the Tea… | Ludostuartdouglas | [Read More](https://medium.com/p/396b90898141) |
+| Wed, 30 Jul 2025 13:07:03 GMT | Dynamic Security Policies with Linux Firewall (iptables/nftables) | Esra Kayhan | [Read More](https://medium.com/p/23cf76b08ca0) |
+| Wed, 30 Jul 2025 13:06:18 GMT | Stored XSS: Exploiting Buggy Buy with a Single Script | Muniza Badar | [Read More](https://medium.com/p/a73b1379b97a) |
+| Wed, 30 Jul 2025 13:05:11 GMT | Bridging the Gap: How We Solved Web App Scanning Nightmares for Banks & Customer Service | Yasin Kabboura | [Read More](https://medium.com/p/add44b46cf3e) |
+| Wed, 30 Jul 2025 13:02:38 GMT | I Don’t Know How to Be Soft Anymore | Dhruvdeep Singh | [Read More](https://medium.com/p/bc6e67afc1df) |
+| Wed, 30 Jul 2025 13:02:38 GMT | What Is Two-Factor Authentication (2FA) and Why It Matters | Timonéofearth | [Read More](https://medium.com/p/e205172e6dc1) |
+| Wed, 30 Jul 2025 13:02:35 GMT | We were part of a Botnet: A GitLab Breach Post‑Mortem | Gaille Amolong | [Read More](https://medium.com/p/2039cd476c60) |
+| Wed, 30 Jul 2025 12:55:11 GMT | From Self-XSS to Account Takeover | Mark Roy | [Read More](https://medium.com/p/c6488adc5737) |
+| Wed, 30 Jul 2025 12:46:07 GMT | From Brew to Container: Running Vault Radar in GitHub Actions Like a Pro | Raymon Epping | [Read More](https://medium.com/p/fa219602ec53) |
 | Wed, 30 Jul 2025 12:38:21 GMT | Cyber Threat Round-Up (July 2025) | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/28daed466c26) |
 | Wed, 30 Jul 2025 12:36:51 GMT | Understanding CORS | Thomas Hofmann | [Read More](https://medium.com/p/cb322767904e) |
 | Wed, 30 Jul 2025 12:31:03 GMT | AI in the Crosshairs: How Cybercriminals Are Hijacking Artificial Intelligence | Travis Ray Caverhill | [Read More](https://medium.com/p/b53f389c82b1) |
@@ -99,17 +113,3 @@ By: Nehir - Legally Curious | Legally Curious | [Read More](https://medium.com/p
 | Wed, 30 Jul 2025 08:46:14 GMT | Personal Security Services in Virginia: Custom Protection for Every Lifestyle | Susan Menon | [Read More](https://medium.com/p/4afaf09d222f) |
 | Wed, 30 Jul 2025 08:39:40 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/1c6a6d3f25de) |
 | Wed, 30 Jul 2025 08:38:48 GMT | How to Spot Phishing Emails: A Practical Guide for Staying Safe Online | Richardhonour | [Read More](https://medium.com/p/66d6a1e2b383) |
-| Wed, 30 Jul 2025 08:35:33 GMT | Hackers don’t knock. They exploit. | Prishusoft | [Read More](https://medium.com/p/7e8de489599d) |
-| Wed, 30 Jul 2025 08:34:08 GMT | Building a Smart Disposable Email Detector: My Journey with iKick | Sahaya Godson | [Read More](https://medium.com/p/3bb09d93f9ad) |
-| Wed, 30 Jul 2025 08:32:39 GMT | Exploiting IPv6 with mitm6: Relaying to Domain Controller via SMB/LDAP | shubham parmar | [Read More](https://medium.com/p/f5b70152a0df) |
-| Wed, 30 Jul 2025 08:29:04 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/2f43c070a9b9) |
-| Wed, 30 Jul 2025 08:08:58 GMT | Scattered Spider Hijacks VMware Systems | Finstein.ai | [Read More](https://medium.com/p/81ff55aacd9f) |
-| Wed, 30 Jul 2025 08:07:50 GMT | 2025 expo osaka | Bosco Tang | [Read More](https://medium.com/p/d6b9c970ce02) |
-| Wed, 30 Jul 2025 08:07:13 GMT | VIP Protection Services in Virginia: Elite Security for High-Profile Clients | Susan Menon | [Read More](https://medium.com/p/f0a664dc0963) |
-| Wed, 30 Jul 2025 08:05:58 GMT | What Are the Benefits of Termux? | Kambetastephano | [Read More](https://medium.com/p/67ada84e3922) |
-| Wed, 30 Jul 2025 07:55:43 GMT | “Something You Are” Authentication — Biometrics | Ahmad I. Fajar | [Read More](https://medium.com/p/1b78d6748ab3) |
-| Wed, 30 Jul 2025 07:53:27 GMT | Ransomware Disrupts U.S. Food Supply Chain | Finstein.ai | [Read More](https://medium.com/p/c12d024db496) |
-| Wed, 30 Jul 2025 07:52:17 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/dbd69dad87b0) |
-| Wed, 30 Jul 2025 07:49:50 GMT | Rethinking Incident Response — From PICERL to DAIR (Expanded Edition) | Dean | [Read More](https://medium.com/p/7d309f00d43a) |
-| Wed, 30 Jul 2025 07:48:31 GMT | How Azure Helps In Streamlining IT Infrastructure? | Mohammed Numan | [Read More](https://medium.com/p/b1f154ab9811) |
-| Wed, 30 Jul 2025 07:44:55 GMT | The Science Behind Voice Deepfakes: Biomarkers, Behaviors, and AI | Behavioral Signals Team | [Read More](https://medium.com/p/28931bda081a) |
