@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 05:18:10 GMT | Major Crypto Hacks and Drosera’s Real-World Defense | Yuni | [Read More](https://medium.com/p/24c0f41d42d0) |
+| Wed, 30 Jul 2025 05:06:55 GMT | I Fell for the Fake Shipping Text | Aj | [Read More](https://medium.com/p/b239b3691a6c) |
+| Wed, 30 Jul 2025 05:06:46 GMT | 3. Understanding Reconnaissance: Finding the Unseen | Abhijeet kumawat | [Read More](https://medium.com/p/8c7a91b89c35) |
+| Wed, 30 Jul 2025 05:02:57 GMT | Prompt Engineering Toolkit (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0b9ed2e01047) |
+| Wed, 30 Jul 2025 05:01:56 GMT | 7,000 Servers Wiped — Pro-Ukraine Hackers Cripple Russia’s Aeroflot in Yearlong Cyber Siege | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/64f495d7e03e) |
+| Wed, 30 Jul 2025 04:50:50 GMT | Log Transmission to SIEM: Typical and Security Solutions | Devaaravindlutukurty | [Read More](https://medium.com/p/843bd9e9d1d6) |
 | Wed, 30 Jul 2025 04:43:56 GMT | The Linux Concept Journey — ltrace (Library Call Tracer) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/123fe6e7739a) |
+| Wed, 30 Jul 2025 04:41:21 GMT | Generative AI in Cybersecurity: The Next Frontier of Digital Defence | Akshaya Mary Lingala | [Read More](https://medium.com/p/015359c6ead7) |
 | Wed, 30 Jul 2025 04:36:59 GMT | Control Everything with the Linux Shell — Without the Headache (Part 1) | MayhemCode | [Read More](https://medium.com/p/e61681286544) |
 | Wed, 30 Jul 2025 04:36:27 GMT | UK Online Safety Law: What’s Changing and Why It Matters | Sam Writes Security | [Read More](https://medium.com/p/bf11cbfffb18) |
 | Wed, 30 Jul 2025 04:33:15 GMT | ISMAP Management Standards Chapter 2: The Basics of Information Security Audits and the “Statement… | nolly | [Read More](https://medium.com/p/cd9a89c07d26) |
@@ -106,10 +113,3 @@ Welcome to Forzerune,, where code meets chaos, and the… | FORZERUNE | [Read Mo
 | Tue, 29 Jul 2025 20:48:17 GMT | Why VLANs Still Matter — From On-Prem Switches to the Cloud | Richard Oheneba Gyan | [Read More](https://medium.com/p/e939b18e9dca) |
 | Tue, 29 Jul 2025 20:47:59 GMT | I Found a Team of Legit Hackers Who Actually Help You — Here’s What You Need to Know | Helo Company | [Read More](https://medium.com/p/778351b6a04b) |
 | Tue, 29 Jul 2025 20:29:50 GMT | Zero-Knowledge VPN: We Don’t Know What You’re Doing (and That’s the Point) | Matreshka VPN | [Read More](https://medium.com/p/fd36acff723f) |
-| Tue, 29 Jul 2025 20:28:59 GMT | Just One Click To Leak All Victim Information | Mado | [Read More](https://medium.com/p/54599e3b6268) |
-| Tue, 29 Jul 2025 20:25:45 GMT | UIUCTF 2025 | Dark Eagle | [Read More](https://medium.com/p/dc58015f02ea) |
-| Tue, 29 Jul 2025 20:23:27 GMT | Defending Your Digital Footprint: Practical Strategies for Personal Data Security | Deepak Gupta | [Read More](https://medium.com/p/6903147ede02) |
-| Tue, 29 Jul 2025 20:17:20 GMT | Snort in Action: A Hands-On Guide to IDS & IPS | Pius Emmanuel Papka | [Read More](https://medium.com/p/56a8bfcf0663) |
-| Tue, 29 Jul 2025 20:13:20 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/813670d6b072) |
-| Tue, 29 Jul 2025 20:07:32 GMT | ROOMSHIELD PROTOCOL: DESIGNING ACCOUNTABILITY IN THE AGE OF AI | Can Doğan | [Read More](https://medium.com/p/07266ebe61ac) |
-| Tue, 29 Jul 2025 20:06:54 GMT | Remote Code Execution on Dutch Site via CVE-2024-36401 | AbhirupKonwar | [Read More](https://medium.com/p/7678b19cfa31) |
