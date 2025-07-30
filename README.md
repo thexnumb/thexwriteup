@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 23:37:31 GMT | Privacy, Promotion, and Platform Pitfalls: The Case of How Telegram’s Marketing Approach… | Rabel Catayoc, DM | [Read More](https://medium.com/p/b56afb06ab9c) |
+| Wed, 30 Jul 2025 23:28:02 GMT | The Digital Con Game: Why “Digital Dynasties” Captures Our Tech-Obsessed Moment | Ludostuartdouglas | [Read More](https://medium.com/p/3c4a5f9e19b1) |
+| Wed, 30 Jul 2025 23:16:38 GMT | OSCP Prep: DOG | Dino | [Read More](https://medium.com/p/a0002e8a478c) |
 | Wed, 30 Jul 2025 22:56:54 GMT | Don’t Click That PyPI Email — It Could Be a Supply Chain Time Bomb | Cyber-AppSec | [Read More](https://medium.com/p/2d70c11a76e5) |
 | Wed, 30 Jul 2025 22:45:38 GMT | ♦ Pwny CTF | löca | [Read More](https://medium.com/p/e1563ff75154) |
 | Wed, 30 Jul 2025 22:44:22 GMT | CTF Write-up: Dominando a Máquina TIME ⏳ | Jonathan M. | [Read More](https://medium.com/p/fe58ab8ca589) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 17:06:01 GMT | Temporary File Storage in Spring Boot During Form Submission Flows | Alexander Obregon | [Read More](https://medium.com/p/64b436b65827) |
 | Wed, 30 Jul 2025 17:01:57 GMT | Protecting Against XSS and CSRF Attacks in Node.js: A Developer’s Guide | habtesoft | [Read More](https://medium.com/p/dc257a29b372) |
 | Wed, 30 Jul 2025 16:58:25 GMT | The Ghost in the Machine: How Stolen Keys Haunt Your Network Long After a Patch | Karla Ortiz-Flores | [Read More](https://medium.com/p/b4cd91cdfc41) |
-| Wed, 30 Jul 2025 16:53:53 GMT | AWS Pentesting: Conquering the Cloudgoat Beanstalk Secrets Challenge | Ojasveer Singh Saini | [Read More](https://medium.com/p/b1f9ec880813) |
-| Wed, 30 Jul 2025 16:51:42 GMT | Unraveling the Psychology of Cybersecurity | Kara Davis | [Read More](https://medium.com/p/8139b073b970) |
-| Wed, 30 Jul 2025 16:41:52 GMT | Threshold diary: Dropping armor | jmbo | [Read More](https://medium.com/p/d1fd769ec6f6) |
