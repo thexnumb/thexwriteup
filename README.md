@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 22:56:54 GMT | Don’t Click That PyPI Email — It Could Be a Supply Chain Time Bomb | Cyber-AppSec | [Read More](https://medium.com/p/2d70c11a76e5) |
+| Wed, 30 Jul 2025 22:45:38 GMT | ♦ Pwny CTF | löca | [Read More](https://medium.com/p/e1563ff75154) |
 | Wed, 30 Jul 2025 22:44:22 GMT | CTF Write-up: Dominando a Máquina TIME ⏳ | Jonathan M. | [Read More](https://medium.com/p/fe58ab8ca589) |
+| Wed, 30 Jul 2025 22:42:38 GMT | Tea App Exposed: How a “Safe Space” Became a Privacy Nightmare for 72,000 Women | Jeff Murdock | [Read More](https://medium.com/p/7bbed587d81b) |
 | Wed, 30 Jul 2025 22:36:22 GMT | Some Assembly Required 2 PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/0e45b0bf2390) |
 | Wed, 30 Jul 2025 22:31:37 GMT | Watering Hole Attacks: Don’t Fall Prey to Hackers | Spokeo People Search | [Read More](https://medium.com/p/1b6058c57719) |
 | Wed, 30 Jul 2025 22:22:48 GMT | Why I Started Writing My Own Bash Scripts | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/ee265e71b16a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 16:53:53 GMT | AWS Pentesting: Conquering the Cloudgoat Beanstalk Secrets Challenge | Ojasveer Singh Saini | [Read More](https://medium.com/p/b1f9ec880813) |
 | Wed, 30 Jul 2025 16:51:42 GMT | Unraveling the Psychology of Cybersecurity | Kara Davis | [Read More](https://medium.com/p/8139b073b970) |
 | Wed, 30 Jul 2025 16:41:52 GMT | Threshold diary: Dropping armor | jmbo | [Read More](https://medium.com/p/d1fd769ec6f6) |
-| Wed, 30 Jul 2025 16:41:08 GMT | Why the Lock Icon in Your Browser Actually Matters: The Role of SSL and TLS | Natarajan C K | [Read More](https://medium.com/p/d5a935f23dcb) |
-| Wed, 30 Jul 2025 16:38:58 GMT | Τί είναι οι Επεκτάσεις Browser και Πώς να τις Χρησιμοποιείς με Ασφάλεια και Ευκολία | Akis Papas | [Read More](https://medium.com/p/c26306c79d7f) |
-| Wed, 30 Jul 2025 16:35:16 GMT | The AI Chameleon: When Ethical Alignment Meets the Power to Simulate Minds for Deception | Berend Watchus | [Read More](https://medium.com/p/fe0a14bb8834) |
