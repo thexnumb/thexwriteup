@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 07:26:27 GMT | BCA Course in India | amecee.ashish | [Read More](https://medium.com/p/3aad249e897f) |
+| Wed, 30 Jul 2025 07:17:29 GMT | OSINT Writeup — World Wide CTF 2025 | Ӿ₮Ɽ3₥3Ɽ | [Read More](https://medium.com/p/d84fd191a1f6) |
+| Wed, 30 Jul 2025 07:16:57 GMT | Agentic AI in Cybersecurity and Beyond: The Next Level | noailabs | [Read More](https://medium.com/p/50d52e6a20a7) |
+| Wed, 30 Jul 2025 07:14:00 GMT | Cybersecurity is to the practice of protecting systems, networks, and data from digital attacks… | Cybersecurity Explainer | [Read More](https://medium.com/p/a732b93385a9) |
+| Wed, 30 Jul 2025 07:13:12 GMT | Fake 7-Zip Installer Steals Active Directory Credentials - Full Malware Analysis with ANY.RUN | Motasem Hamdan | [Read More](https://medium.com/p/43ecfef6491f) |
+| Wed, 30 Jul 2025 07:12:28 GMT | Executive Protection Services in Virginia: Safeguarding High-Profile Individuals with Excellence | Susan Menon | [Read More](https://medium.com/p/c6ca5ed0b63d) |
+| Wed, 30 Jul 2025 07:10:05 GMT | Why Proof of Stake Is Winning the Battle for Blockchain Security | Icon0x | [Read More](https://medium.com/p/4668c6f235e5) |
+| Wed, 30 Jul 2025 07:09:33 GMT | Intelligent Incident Management Strategies Every Modern Enterprise Should Implement | Ishaan Nair | [Read More](https://medium.com/p/0677064c8387) |
+| Wed, 30 Jul 2025 07:08:49 GMT | Gift payment 7,000 USDT TRC20 u can use (Okx web3 wallet) | Miya clark | [Read More](https://medium.com/p/e553adcd452a) |
+| Wed, 30 Jul 2025 07:08:38 GMT | Hengbot Sirius: The World’s First Trainable AI Robotic Dog | Tech News | [Read More](https://medium.com/p/3db2e39f9dd6) |
+| Wed, 30 Jul 2025 07:07:57 GMT | Hack The Box Academy Writeup — PASSWORD ATTACKS — Writing Custom Wordlists and Rules | Ilias Mavropoulos | [Read More](https://medium.com/p/6a5e01b60638) |
+| Wed, 30 Jul 2025 07:02:52 GMT | AI vs AI: Simulated API Warfare in Cyberspace — A Technical Deep Dive | SR | [Read More](https://medium.com/p/2214f0c14f62) |
+| Wed, 30 Jul 2025 07:01:46 GMT | The $500,000 extension: How trust became a crypto developer’s biggest vulnerability. | Amrik Singh Hanjra | [Read More](https://medium.com/p/a9420a100105) |
+| Wed, 30 Jul 2025 07:00:37 GMT | ประจำวันพุธที่ 30 กรกฎาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c164e3585a2e) |
+| Wed, 30 Jul 2025 06:43:32 GMT | RDP Brute-force Testing in My Home Lab: A Hands-on Pentest Walkthrough | Lily | [Read More](https://medium.com/p/8fed3474156f) |
+| Wed, 30 Jul 2025 06:43:22 GMT | We Scanned 68,000 WordPress Sites: Only 15.3% Pass Basic Security (Are You One of Them?) | Smit Pipaliya | [Read More](https://medium.com/p/2b8e97770fa8) |
+| Wed, 30 Jul 2025 06:43:12 GMT | Brené Brown on Vulnerability versus Machiavellian Shielding | Basil Shah | [Read More](https://medium.com/p/308c3f0714db) |
+| Wed, 30 Jul 2025 06:42:36 GMT | What Is Adware? Definition, Types, and Prevention Tips [Complete Guide] | Hamza Hanif | [Read More](https://medium.com/p/63b59154805c) |
+| Wed, 30 Jul 2025 06:42:09 GMT | What are the data types in SIEM Solution? | Devaaravindlutukurty | [Read More](https://medium.com/p/84b93a949dd7) |
+| Wed, 30 Jul 2025 06:38:41 GMT | You Feel So Much | NRWillick | [Read More](https://medium.com/p/65dd7473a07e) |
+| Wed, 30 Jul 2025 06:38:04 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/a48c82bfb671) |
+| Wed, 30 Jul 2025 06:35:52 GMT | My First CTF Learning
+ It was my first experience with a CTF challenge, and it was quite difficult… | Gowthamaraj | [Read More](https://medium.com/p/174a7d38c2ec) |
 | Wed, 30 Jul 2025 06:31:18 GMT | MCP and A2A in AI Agent Protocols — Security considerations (II) — OWASP Top 10 for LLM… | SOCFortress | [Read More](https://medium.com/p/29d634a8f758) |
 | Wed, 30 Jul 2025 06:30:56 GMT | Why Cybersecurity Education Is the Most Valuable Investment for Indian Businesses in 2025 | DefenceRabbit | [Read More](https://medium.com/p/9b468846e5c0) |
 | Wed, 30 Jul 2025 06:27:28 GMT | How Samsung Galaxy S25 Increases Mobile Gaming 2025? | Emma Carter | [Read More](https://medium.com/p/ccd57f6cc3b9) |
@@ -21,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 06:24:09 GMT | Exploiting Overprivileged Kubernetes Service Accounts | grepStrength | [Read More](https://medium.com/p/bf5deb46a5e2) |
 | Wed, 30 Jul 2025 06:21:58 GMT | Old Bugs, New Tricks: Why DOM XSS (and Friends) Still Pay in 2025 | Vivek PS | [Read More](https://medium.com/p/d5fc18718266) |
 | Wed, 30 Jul 2025 06:19:43 GMT | Top IT Companies in India for 2025–2026 Updated List & Rankings | Intileo Technologies | [Read More](https://medium.com/p/9b25894d2157) |
+| Wed, 30 Jul 2025 06:05:10 GMT | Prospek Kerja Lulusan Informatika: Peluang Luas di Era Digital | Evan Zaqli | [Read More](https://medium.com/p/19a6ca5c30c8) |
 | Wed, 30 Jul 2025 06:01:41 GMT | Today’s Top Cyber Intelligence Highlights — Jul 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a6e239a351fd) |
 | Wed, 30 Jul 2025 05:59:43 GMT | The Agile Transformation Imperative: Why Organizations Need Expert Agile Consulting Now | Amyra Sheldon | [Read More](https://medium.com/p/97fb6f88f1b2) |
 | Wed, 30 Jul 2025 05:55:35 GMT | Improve your business’s security by using the most effective security solution in Riyadh | Mohd Armaan | [Read More](https://medium.com/p/137319284960) |
@@ -89,27 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 00:19:20 GMT | A CCSP (Certified Cloud Security Professional) Exam Kickstarter for Cloud Native Security… | Gerald Bachlmayr | [Read More](https://medium.com/p/d300969164c3) |
 | Wed, 30 Jul 2025 00:12:03 GMT | Third open letter to New Zealand’s Parliamentary Commissioner for the Environment — #3 Avoiding… | Occam | [Read More](https://medium.com/p/268315b90771) |
 | Wed, 30 Jul 2025 00:05:53 GMT | Proton Pass vs Bitwarden vs 1Password: Which Password Manager Is Worth It in 2025? | BiyteLüm | [Read More](https://medium.com/p/d66032871029) |
-| Wed, 30 Jul 2025 00:03:53 GMT | SSRF via Host Header Injection — A Prank Gone Vulnerable | Minio Haxer | [Read More](https://medium.com/p/52eb514f664d) |
-| Wed, 30 Jul 2025 00:02:29 GMT | The RAT That Fights Back: XWorm v6 and the New Era of Stealthy Cyber Threats | Robert Encarnacao | [Read More](https://medium.com/p/9714c2e6ae18) |
-| Wed, 30 Jul 2025 00:02:28 GMT | Identification and Authentication Failures (OWASP A07): For hacking, bug bounty and web development | JPablo13 | [Read More](https://medium.com/p/52a707be67af) |
-| Tue, 29 Jul 2025 23:57:50 GMT | An open letter to New Zealand’s Parliamentary Commissioner for the Environment — #1 There’s No… | Occam | [Read More](https://medium.com/p/4caca7ff23f9) |
-| Tue, 29 Jul 2025 23:42:11 GMT | Ultimate API Bug Bounty: Find & Secure Hidden API Endpoints | Israel Aráoz Severiche | [Read More](https://medium.com/p/139c8f0a061a) |
-| Tue, 29 Jul 2025 23:30:07 GMT | AWS IAM: Auto-Disable Suspicious IAM Users Using CloudTrail, CloudWatch, and AWS Lambda | Micaiah Ampofo | [Read More](https://medium.com/p/8b3cf5b2301e) |
-| Tue, 29 Jul 2025 23:19:27 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/b83e750dd51f) |
-| Tue, 29 Jul 2025 23:19:27 GMT | FORZERUNE (401) - Enter the Forbidden Zone 
-Welcome to Forzerune,, where code meets chaos, and the… | FORZERUNE | [Read More](https://medium.com/p/93de61987f50) |
-| Tue, 29 Jul 2025 23:15:29 GMT | Leak of Internal Reference Name at Multiple Locations. | xploiterr | [Read More](https://medium.com/p/c3d021b2295d) |
-| Tue, 29 Jul 2025 23:14:34 GMT | The Rise of Shadow AI: When Employees Use Unapproved AI Tools at Work | Akshay Chauhan | [Read More](https://medium.com/p/1514e8b4bbf7) |
-| Tue, 29 Jul 2025 23:08:22 GMT | Click. Steal. Repeat | kneox | [Read More](https://medium.com/p/d4a962c11167) |
-| Tue, 29 Jul 2025 22:57:03 GMT | Hack The Box: Cap — Write-up | Hayden Sapp | [Read More](https://medium.com/p/5eed223aa23e) |
-| Tue, 29 Jul 2025 22:51:11 GMT | Mocktail e Flutter em 2025? | Marden Cavalcante | [Read More](https://medium.com/p/5ff29d13ea4d) |
-| Tue, 29 Jul 2025 22:45:26 GMT | How do some dApps pretend to have verified contracts when they don’t? | The Block Experts | [Read More](https://medium.com/p/de116b7d672b) |
-| Tue, 29 Jul 2025 22:44:54 GMT | When AI Models Become Malware Targets: The Rise of Model Poisoning Attacks | Akshay Chauhan | [Read More](https://medium.com/p/9aff52a792e6) |
-| Tue, 29 Jul 2025 22:43:31 GMT | SQL injection attack, querying the database type and version on MySQL and Microsoft | Zabed Ullah Poyel | [Read More](https://medium.com/p/40b7182a5699) |
-| Tue, 29 Jul 2025 22:36:06 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/69849a2570f2) |
-| Tue, 29 Jul 2025 22:35:31 GMT | Vinyl Fence vs. Chain Link Fence: Which Is Easier to Install? | Rafael Torres | [Read More](https://medium.com/p/32da9a091ba5) |
-| Tue, 29 Jul 2025 22:17:02 GMT | Blockchain Security: Smart Contract Vulnerabilities to Watch | Karthikeyan Nagaraj | [Read More](https://medium.com/p/dde38090c829) |
-| Tue, 29 Jul 2025 22:11:37 GMT | Ukraine Looks to Pump Extra ₴400 Billion Into Defense & Security | Ryder Blackthorn | [Read More](https://medium.com/p/a95b754f0455) |
-| Tue, 29 Jul 2025 22:06:35 GMT | Technical Product Management | Day | [Read More](https://medium.com/p/6147ce939a37) |
-| Tue, 29 Jul 2025 21:58:15 GMT | Hackers Hijack Toptal GitHub to Spread Devastating Malware Through npm | Cyber-AppSec | [Read More](https://medium.com/p/ddef91795bd9) |
-| Tue, 29 Jul 2025 21:52:08 GMT | The ‘Coding’ Conundrum: Why Our Boardrooms Don’t Speak Security (And How to Fix It) | Manan Kharbanda | [Read More](https://medium.com/p/449f18656684) |
