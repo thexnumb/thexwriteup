@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 07:33:35 GMT | Catatan Belajar: Penetration Testing — Pre-engagement Activities | Kiara Humaira | [Read More](https://medium.com/p/d52c6013e006) |
+| Wed, 30 Jul 2025 07:32:45 GMT | Deciphering Data for Growth: What Does a Data Analytics Service Include in Hyderabad? | Quadrant IT Services | [Read More](https://medium.com/p/07521ba121d7) |
+| Wed, 30 Jul 2025 07:29:57 GMT | SafeLine vs. FortiWeb: Which WAF Fits Your Architecture? | Quella | [Read More](https://medium.com/p/7dd1f52cbb30) |
+| Wed, 30 Jul 2025 07:29:27 GMT | What Are Offensive Security Services? A Complete Guide | Qualysec Technology | [Read More](https://medium.com/p/99d934c9f36c) |
+| Wed, 30 Jul 2025 07:28:39 GMT | Reflected DOM XSS Vulnerability via eval() Leading to alert() | Bash Overflow | [Read More](https://medium.com/p/058fdc70cebe) |
 | Wed, 30 Jul 2025 07:26:27 GMT | BCA Course in India | amecee.ashish | [Read More](https://medium.com/p/3aad249e897f) |
+| Wed, 30 Jul 2025 07:25:41 GMT | How I Secured a Startup’s AWS Account from Scratch (and Scaled It with Terraform) | Dylancorr G | [Read More](https://medium.com/p/d76781422b18) |
+| Wed, 30 Jul 2025 07:22:51 GMT | Assign Microsoft Graph permissions using Azure Bicep | Brian Veldman | [Read More](https://medium.com/p/740f0e6214c5) |
+| Wed, 30 Jul 2025 07:22:12 GMT | Cybersecurity Trends and Innovations Set to Transform 2025 | Nitisha Khedekar | [Read More](https://medium.com/p/4829b48ef41b) |
 | Wed, 30 Jul 2025 07:17:29 GMT | OSINT Writeup — World Wide CTF 2025 | Ӿ₮Ɽ3₥3Ɽ | [Read More](https://medium.com/p/d84fd191a1f6) |
 | Wed, 30 Jul 2025 07:16:57 GMT | Agentic AI in Cybersecurity and Beyond: The Next Level | noailabs | [Read More](https://medium.com/p/50d52e6a20a7) |
 | Wed, 30 Jul 2025 07:14:00 GMT | Cybersecurity is to the practice of protecting systems, networks, and data from digital attacks… | Cybersecurity Explainer | [Read More](https://medium.com/p/a732b93385a9) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 01:15:51 GMT | Opinion: CVE-2025–43714 Shows Why We Need to Treat AI Like a Web App | VaRiOus_CanAriEs | [Read More](https://medium.com/p/3a18f11b3f88) |
 | Wed, 30 Jul 2025 01:06:33 GMT | What if Your Pipeline Could Predict Failure? The Future of CI/CD with ML | Aravind Sunkara | [Read More](https://medium.com/p/f73e99fa5ade) |
 | Wed, 30 Jul 2025 00:59:10 GMT | Fileless Virus vs Rootkit | Cyber T | [Read More](https://medium.com/p/109fe54c24c2) |
-| Wed, 30 Jul 2025 00:40:11 GMT | If Tears Could Speak | Jessica Mae Sustiguer Devera | [Read More](https://medium.com/p/69c05b411965) |
-| Wed, 30 Jul 2025 00:36:41 GMT | How to Recover Lost Cryptocurrency or Access Your Wallet | Simone Bianca | [Read More](https://medium.com/p/354155877928) |
-| Wed, 30 Jul 2025 00:33:24 GMT | OAuth is not for Authentication — A common misconception | Ayyappan Subramanian | [Read More](https://medium.com/p/b877d98d07d7) |
-| Wed, 30 Jul 2025 00:24:47 GMT | We All Wear a Pretence Coat. Here’s How to Take It Off | Greg Twemlow | [Read More](https://medium.com/p/8d43a39684c3) |
-| Wed, 30 Jul 2025 00:20:45 GMT | Cybersecurity: 7 Simple Tips to Stay Safe Online | Vedant Bansal | [Read More](https://medium.com/p/4e5fc8f3b70a) |
-| Wed, 30 Jul 2025 00:19:20 GMT | A CCSP (Certified Cloud Security Professional) Exam Kickstarter for Cloud Native Security… | Gerald Bachlmayr | [Read More](https://medium.com/p/d300969164c3) |
-| Wed, 30 Jul 2025 00:12:03 GMT | Third open letter to New Zealand’s Parliamentary Commissioner for the Environment — #3 Avoiding… | Occam | [Read More](https://medium.com/p/268315b90771) |
-| Wed, 30 Jul 2025 00:05:53 GMT | Proton Pass vs Bitwarden vs 1Password: Which Password Manager Is Worth It in 2025? | BiyteLüm | [Read More](https://medium.com/p/d66032871029) |
