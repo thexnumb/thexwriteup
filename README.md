@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 21:12:24 GMT | Injectics — TryHackMe CTF Walkthrough | Ali Ahmed | [Read More](https://medium.com/p/cc399669e68e) |
+| Wed, 30 Jul 2025 21:11:52 GMT | Dark Web Links: What They Are and Why You Should Be Cautious | SafeAeon Inc. | [Read More](https://medium.com/p/a6765e9b29f7) |
+| Wed, 30 Jul 2025 21:01:38 GMT | Part 8: web3 Security — The Empowered User — Best Practices & The Path Forward | Ben San Roman | [Read More](https://medium.com/p/b8485f858e0b) |
+| Wed, 30 Jul 2025 20:59:33 GMT | Why We Pretend to Be Strong | Cristale | [Read More](https://medium.com/p/9cbd37878643) |
+| Wed, 30 Jul 2025 20:54:48 GMT | CyberDefenders: PoisonedCredentials Lab — Walkthrough | Luis Marquez | [Read More](https://medium.com/p/50dc57ac81f1) |
+| Wed, 30 Jul 2025 20:35:26 GMT | Introduction to Insecure Output Handling | Saniye Nur | [Read More](https://medium.com/p/a11a74767c39) |
 | Wed, 30 Jul 2025 20:34:04 GMT | Red Teaming 101: What It Is and Why It Matters in Modern Cyber security | CypherWolf | [Read More](https://medium.com/p/05a55e5d9ef5) |
 | Wed, 30 Jul 2025 20:27:01 GMT | The Day I Cried in Packages Mall Parking Lot | Maham Tanveer | [Read More](https://medium.com/p/844a08048b41) |
 | Wed, 30 Jul 2025 20:26:54 GMT | Are Your Devices Spying on You? What Every Business Needs to Know | Elijah Swanson | [Read More](https://medium.com/p/da58bb6b5b2f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 15:56:31 GMT | How to Earn VINE Rewards via Exchange Campaigns | Bitcoinpepe | [Read More](https://medium.com/p/7dc8e56c41e1) |
 | Wed, 30 Jul 2025 15:51:35 GMT | Can You See Your Security Architecture Clearly? | Christina Irick | [Read More](https://medium.com/p/12fc158965da) |
 | Wed, 30 Jul 2025 15:50:46 GMT | Bitchat: So Private, Even *I* Can Read Your Messages? | CtrlC3 | [Read More](https://medium.com/p/59f3c0e2ada3) |
-| Wed, 30 Jul 2025 15:47:08 GMT | Cybersecurity Audit and Risk Assessment Lab | Sharaden Cole | [Read More](https://medium.com/p/5348091a6e46) |
-| Wed, 30 Jul 2025 15:46:07 GMT | Easily Configure SSL on Linux Using Certbot | Prashant Raorane | [Read More](https://medium.com/p/1d3a44cac737) |
-| Wed, 30 Jul 2025 15:43:19 GMT | What AI in the U.S. Can Learn from Helvetas’ Hard Lessons in Cameroon, Africa | Jerry Yonga | [Read More](https://medium.com/p/ee6b1352576b) |
-| Wed, 30 Jul 2025 15:43:06 GMT | AI Agent Passes CAPTCHA and What That Means | Peter Sikabonyi | [Read More](https://medium.com/p/fc1c2535d467) |
-| Wed, 30 Jul 2025 15:40:06 GMT | E-skimming: The Silent Threat Targeting Online Payments | VenariX, Inc. | [Read More](https://medium.com/p/4930afdf73b7) |
-| Wed, 30 Jul 2025 15:37:50 GMT | Jack Dorsey’s New App: Secure or Security Theater? | CtrlC3 | [Read More](https://medium.com/p/797ae9459a44) |
