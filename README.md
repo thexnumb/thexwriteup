@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 04:43:56 GMT | The Linux Concept Journey — ltrace (Library Call Tracer) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/123fe6e7739a) |
+| Wed, 30 Jul 2025 04:36:59 GMT | Control Everything with the Linux Shell — Without the Headache (Part 1) | MayhemCode | [Read More](https://medium.com/p/e61681286544) |
+| Wed, 30 Jul 2025 04:36:27 GMT | UK Online Safety Law: What’s Changing and Why It Matters | Sam Writes Security | [Read More](https://medium.com/p/bf11cbfffb18) |
+| Wed, 30 Jul 2025 04:33:15 GMT | ISMAP Management Standards Chapter 2: The Basics of Information Security Audits and the “Statement… | nolly | [Read More](https://medium.com/p/cd9a89c07d26) |
+| Wed, 30 Jul 2025 04:32:41 GMT | What is Same origin policy ? Why you should know about SOP ? | Ayush Kumar | [Read More](https://medium.com/p/36ef803b4732) |
+| Wed, 30 Jul 2025 04:08:39 GMT | Boosting Data Center Security in Sultanate of Oman: Implementing Robust Access Control Systems | expbhavya | [Read More](https://medium.com/p/c79616595c5e) |
+| Wed, 30 Jul 2025 04:07:16 GMT | Managing Secrets in Docker: Tools and Techniques | @rnab | [Read More](https://medium.com/p/2fbe2d08d858) |
+| Wed, 30 Jul 2025 04:06:19 GMT | How a Fake IDE Extension Stole $500K From an Experienced Developer | Rathod Veerender | [Read More](https://medium.com/p/2912518c57b8) |
+| Wed, 30 Jul 2025 03:56:14 GMT | Meta Madness: How Hidden Metadata Gave Me Access to Private Docs ️ | Iski | [Read More](https://medium.com/p/3160044d9ef0) |
+| Wed, 30 Jul 2025 03:56:03 GMT | How to Secure Database Access in Web Applications | Rizqi Mulki | [Read More](https://medium.com/p/0092017e8fe9) |
+| Wed, 30 Jul 2025 03:55:46 GMT | Artificial Intelligence (AI) and Its Development Towards AGI Introduction: Background to the Birth… | Botcy | [Read More](https://medium.com/p/a0e61d846436) |
+| Wed, 30 Jul 2025 03:55:46 GMT | Avoiding Privilege Escalation in Your DBMS | Rizqi Mulki | [Read More](https://medium.com/p/e01b72ec96f9) |
+| Wed, 30 Jul 2025 03:55:21 GMT | The Right Way to Use Prepared Statements | Rizqi Mulki | [Read More](https://medium.com/p/9f258fcbd959) |
+| Wed, 30 Jul 2025 03:51:57 GMT | Exploring Ethical and Secure Use of AI in Social Work and Mental Health Practice | Ameer R. Weston-Lee / Soul Cyber | [Read More](https://medium.com/p/186c28df1d9c) |
+| Wed, 30 Jul 2025 03:49:26 GMT | My Data Is Trapped in the Cloud, and It’s Not My Fault | MAD Mathan | [Read More](https://medium.com/p/bd707b85e23b) |
+| Wed, 30 Jul 2025 03:48:17 GMT | SafeLine vs. NAXSI: Smarter WAF for 2025? | Quella | [Read More](https://medium.com/p/682ca7919a6c) |
 | Wed, 30 Jul 2025 03:46:37 GMT | From Insecure Storage to Secure Practices: A Follow-Up | Blue_eye | [Read More](https://medium.com/p/fda2f5bc043f) |
+| Wed, 30 Jul 2025 03:39:25 GMT | Google’s AI Mode gets new ‘Canvas’ feature, real-time help with Search Live, and more | Aly Elvi | [Read More](https://medium.com/p/b6fab57be961) |
 | Wed, 30 Jul 2025 03:34:01 GMT | Side Quest 012: GRACE.. JUST BREATHE. | Dondre Anastasio Dodson | [Read More](https://medium.com/p/2e96f6cd3eaa) |
 | Wed, 30 Jul 2025 03:31:51 GMT | Security Checklist for Android Apps: A Developer’s Field Guide | Divya Dharshini | [Read More](https://medium.com/p/ea88c1882ac8) |
 | Wed, 30 Jul 2025 03:31:51 GMT | Applying the NIST Cybersecurity Framework to a DMZ Project (Cisco Packet Tracer) | SHAKTHIVEL RAJESH | [Read More](https://medium.com/p/cfaf8641f8f0) |
@@ -96,20 +113,3 @@ Welcome to Forzerune,, where code meets chaos, and the… | FORZERUNE | [Read Mo
 | Tue, 29 Jul 2025 20:13:20 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/813670d6b072) |
 | Tue, 29 Jul 2025 20:07:32 GMT | ROOMSHIELD PROTOCOL: DESIGNING ACCOUNTABILITY IN THE AGE OF AI | Can Doğan | [Read More](https://medium.com/p/07266ebe61ac) |
 | Tue, 29 Jul 2025 20:06:54 GMT | Remote Code Execution on Dutch Site via CVE-2024-36401 | AbhirupKonwar | [Read More](https://medium.com/p/7678b19cfa31) |
-| Tue, 29 Jul 2025 19:52:44 GMT | Meme World Order: Building a Decentralized Future, Together!" | MEMES WORLD  ORDER | [Read More](https://medium.com/p/136437f0505b) |
-| Tue, 29 Jul 2025 19:50:56 GMT | Slides-To-Translate: When IT Says No, Build a $0.04 Solution on Your Lunch Break | Médéric Hurier (Fmind) | [Read More](https://medium.com/p/3afa8bd9f6bb) |
-| Tue, 29 Jul 2025 19:48:17 GMT | Threat Intelligence Using VirusTotal and AbuseIPDB | James N | [Read More](https://medium.com/p/541f4507e7bb) |
-| Tue, 29 Jul 2025 19:47:51 GMT | Beyond Standalone: Integrating Smart Camera Devices in Your Home | Leo Beenhakker | [Read More](https://medium.com/p/d3d3c8ded2f0) |
-| Tue, 29 Jul 2025 19:47:23 GMT | ArNS Exploit: From Zero to Domain Owner | Aminudin | [Read More](https://medium.com/p/ac5d04583bf4) |
-| Tue, 29 Jul 2025 19:36:24 GMT | How to Hypnotize a Housefly (And Why It Might Actually Work) | Tim Villegas | [Read More](https://medium.com/p/bfaab30746aa) |
-| Tue, 29 Jul 2025 19:36:01 GMT | From SIEM to LLM: Building Cybersecurity AI Tools | Heartlin Machado | [Read More](https://medium.com/p/feb13e2577b3) |
-| Tue, 29 Jul 2025 19:33:03 GMT | Tired of Cyber Threats? Here’s How Digital Identity Services Help | WallaceId | [Read More](https://medium.com/p/65f414baa822) |
-| Tue, 29 Jul 2025 19:30:51 GMT | Cyber Campaign Targets Russian Critical Infrastructure | RealSec.io | [Read More](https://medium.com/p/c36ce105b9b2) |
-| Tue, 29 Jul 2025 19:21:33 GMT | Understanding Delta Time in Wireshark | Javier | [Read More](https://medium.com/p/058e49aabf80) |
-| Tue, 29 Jul 2025 19:21:15 GMT | The One Niche Programming Skill That VCs Are Pouring Millions Into (And It’s Not AI) | Satish Chadive | [Read More](https://medium.com/p/e0ff7ee32cf5) |
-| Tue, 29 Jul 2025 19:20:09 GMT | SECURITY APPARATCHIKS | Peter W. Collier | [Read More](https://medium.com/p/31bf78c07273) |
-| Tue, 29 Jul 2025 19:14:27 GMT | German Law Creates Loophole for Alleged $2.9M Crypto Theft | IC News | [Read More](https://medium.com/p/edbcbafa046d) |
-| Tue, 29 Jul 2025 19:13:22 GMT | AI in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/3eaf20307c60) |
-| Tue, 29 Jul 2025 19:09:39 GMT | AI Isn’t Taking Your Job — The Person Using AI Is | Aryan kumar | [Read More](https://medium.com/p/89ed54c1450c) |
-| Tue, 29 Jul 2025 19:08:09 GMT | Building a Real-Time Blockchain Threat Detection Pipeline: From Theory to Production | Heartlin Machado | [Read More](https://medium.com/p/c8981437c55c) |
-| Tue, 29 Jul 2025 19:06:45 GMT | This Python Script Checks If Your Passwords Are Leaked Online | Aashish Kumar | [Read More](https://medium.com/p/8c3f86e94380) |
