@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 19:19:16 GMT | Embarking on the Bug Bounty Journey: A Deep Dive into the Top Platforms | Mike (sl0th0x87) | [Read More](https://medium.com/p/8d62a14cd2a6) |
+| Wed, 30 Jul 2025 19:16:36 GMT | Can a Fence Encroach on Your Neighbor’s Property If No Prior Study Is Done? | Daniel Hall | [Read More](https://medium.com/p/271f8d749de4) |
+| Wed, 30 Jul 2025 19:14:54 GMT | Bridging Enumeration and Exploitation: A Practical Guide to Live Host Detection with httpx | Gopal Mohan | [Read More](https://medium.com/p/074933fe97bb) |
+| Wed, 30 Jul 2025 19:13:14 GMT | Packet Sniffing, Firewall Configuration, and Vulnerability Scanning | Shubham Khanna | [Read More](https://medium.com/p/02c80e1fcbe7) |
+| Wed, 30 Jul 2025 19:08:59 GMT | How can Windsurf/Cursor help you with your secure code review? | Cristian | [Read More](https://medium.com/p/d93394a4d719) |
+| Wed, 30 Jul 2025 19:08:05 GMT | Comprehensive Subdomain Enumeration with Subfinder: A Practical Guide for Cybersecurity… | Gopal Mohan | [Read More](https://medium.com/p/26f1827cbb98) |
+| Wed, 30 Jul 2025 19:07:24 GMT | WebSockets, Protobuf, and a Hidden SQL Injection: My Unexpected Bug Hunting Journey | MOAMEN REZK | [Read More](https://medium.com/p/c22e935cca72) |
+| Wed, 30 Jul 2025 19:03:35 GMT | Password Profile Extension for Postgresql | Çağhan Tutku Uzundurukan | [Read More](https://medium.com/p/16aae2f757ac) |
+| Wed, 30 Jul 2025 19:00:02 GMT | The Swedish Data Goldmine: How an Unsecured Server Exposed a Nation’s Secrets | Karthick Ganapathy | [Read More](https://medium.com/p/3bfc180e4f34) |
+| Wed, 30 Jul 2025 18:58:20 GMT | DAY 30 — MemLabs Lab 4 Analysis: Phase 1 | Jinay | [Read More](https://medium.com/p/8d43eec2a679) |
+| Wed, 30 Jul 2025 18:49:21 GMT | Why Choosing Professional Event Security Services in London is a Game-Changer for Your Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/22cdc1d959da) |
+| Wed, 30 Jul 2025 18:49:02 GMT | MOVEit Cybersecurity Attack: Tales from the Digital Frontier | Prem at Varso | [Read More](https://medium.com/p/f2526cc6d723) |
+| Wed, 30 Jul 2025 18:45:46 GMT | I’m Okay With Crying in Public | Vandana Nagarkoti | [Read More](https://medium.com/p/fce5a0ca6f2b) |
+| Wed, 30 Jul 2025 18:41:10 GMT | Reflected XSS Vulnerability Found on TechHunk.com — A Short but Real Case Study | Polash Mridha | [Read More](https://medium.com/p/ee1143f8e05c) |
+| Wed, 30 Jul 2025 18:37:52 GMT | Defending Against Automated Attacks: Bot Detection for the Digital Age | The Quiet Hacker | [Read More](https://medium.com/p/151c5e585d06) |
+| Wed, 30 Jul 2025 18:37:22 GMT | SQL injection attack, listing the database contents on non-Oracle databases | Zabed Ullah Poyel | [Read More](https://medium.com/p/7064ee28d888) |
 | Wed, 30 Jul 2025 18:33:14 GMT | Hacking into Sunset Server | Ajjurock150 | [Read More](https://medium.com/p/689abdcc4a14) |
 | Wed, 30 Jul 2025 18:30:52 GMT | How to Protect Your Business from Inside Threats: 5 Promising Tips | Aleena Waseem | [Read More](https://medium.com/p/467b0999713b) |
 | Wed, 30 Jul 2025 18:30:51 GMT | Recovering a Redacted RSA Private Key: A CTF Crypto Writeup | Shoaib Bin Rashid | [Read More](https://medium.com/p/9489e381a484) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 14:40:58 GMT | From Hospitality to Hacking: Why I’m Pursuing a Career in Cybersecurity | Kristel Eagar | [Read More](https://medium.com/p/fb08953c6163) |
 | Wed, 30 Jul 2025 14:37:40 GMT | IDOR in the Wild: How I Discovered a Critical Data Exposure via Vendor ID | Blue_eye | [Read More](https://medium.com/p/8ce73edc1b3e) |
 | Wed, 30 Jul 2025 14:36:05 GMT | Why AI is Breaking the Rules (And What Smart Leaders Are Doing About It. GRC+ AI) | Myra Jarenga | [Read More](https://medium.com/p/fbae22888d64) |
-| Wed, 30 Jul 2025 14:35:55 GMT | 84 Pentest GitHub Projects | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/c201d8cb9c45) |
-| Wed, 30 Jul 2025 14:31:17 GMT | Big M&A Is Back … for the Right Strategic Combo | Kevin R Davis | [Read More](https://medium.com/p/5e935b3f4847) |
-| Wed, 30 Jul 2025 14:31:14 GMT | 81 OSINT projects on GitHub | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/bf7dee1a0a1e) |
-| Wed, 30 Jul 2025 14:30:46 GMT | Mengenal dan Mencegah Serangan Siber: Dari DDoS, Malwere, Hingga Phishing | Wisnalaa | [Read More](https://medium.com/p/8538e01ab56c) |
-| Wed, 30 Jul 2025 14:29:39 GMT | Language-First Interoperability in Action: A Closer Look into AI-Driven Referral Eligibility | May Terry | [Read More](https://medium.com/p/72d4c2d8d15e) |
-| Wed, 30 Jul 2025 14:28:15 GMT | The Rise of AI Personal Assistants: How They’re Changing Our Lives in 2025 | Women Plans Daily | [Read More](https://medium.com/p/d72a30977d85) |
-| Wed, 30 Jul 2025 14:25:40 GMT | Buggy Buy’s Search Manipulation via NoSQL Injection | Muniza Badar | [Read More](https://medium.com/p/14c7ca74cdda) |
-| Wed, 30 Jul 2025 14:20:17 GMT | 15+ Linux Bash One-Liners Hackers Use (And You Should Too!) | Very Lazy Tech | [Read More](https://medium.com/p/e5487159f232) |
-| Wed, 30 Jul 2025 14:16:54 GMT | Access Bank Account Information via Response Manipulation | brbr0s | [Read More](https://medium.com/p/d3b1ec95375f) |
-| Wed, 30 Jul 2025 14:13:59 GMT | Cool GitHub projects for summer 2025 | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/f38299c5396c) |
-| Wed, 30 Jul 2025 14:12:16 GMT | Unpacking Federation: How “Sign in with Google” Keeps Your Digital Life Seamless and Secure | Gideon Bakel | [Read More](https://medium.com/p/29912418478c) |
-| Wed, 30 Jul 2025 14:10:07 GMT | A Comprehensive Security Review of the Most Recent USD 44 Million Cryptocurrency Exchange Breach in… | Rangashree Rangaraja | [Read More](https://medium.com/p/29bd899985c0) |
-| Wed, 30 Jul 2025 14:09:51 GMT | Hackerverse July CTF: A Fun Deep Dive | Jainsparsh1 | [Read More](https://medium.com/p/8d2653089820) |
-| Wed, 30 Jul 2025 14:07:16 GMT | Addressing Docker Security Vulnerabilities | @rnab | [Read More](https://medium.com/p/1d02ce842d13) |
-| Wed, 30 Jul 2025 14:06:57 GMT | Server-side request forgery (SSRF) | Usama Hanif | [Read More](https://medium.com/p/41275201e79c) |
-| Wed, 30 Jul 2025 14:05:35 GMT | Cookie Monster Attacks: Stealing Sessions Like It’s 1999 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4d434ab34b97) |
