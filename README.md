@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 17:40:57 GMT | Why Your Business Needs Cyber Threat Intelligence (Before It’s Too Late) | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/03657800f03f) |
+| Wed, 30 Jul 2025 17:39:05 GMT | Your Workflow Automation (N8n, Make &Co.) Got Hacked? Here’s What You Can Do | AI Rabbit | [Read More](https://medium.com/p/38a365c08801) |
+| Wed, 30 Jul 2025 17:38:05 GMT | Wireshark Network Forensics and Malware Investigation | Luis Fernando Murillo | [Read More](https://medium.com/p/e4544a27934a) |
+| Wed, 30 Jul 2025 17:29:48 GMT | From Exposed API Key to Arbitrary Account Creation: A GraphQL Bug Bounty Walkthrough | Utkarsh Srivastava | [Read More](https://medium.com/p/af0d26accab3) |
+| Wed, 30 Jul 2025 17:29:25 GMT | y’all confused about cybersecurity??? | Muhammed Afnaan | [Read More](https://medium.com/p/c48738b18d50) |
+| Wed, 30 Jul 2025 17:28:53 GMT | Infosys to Hire 20,000 Freshers While TCS Cuts 12,000 Jobs: A Tale of Two Tech Giants | Anoopam Mani. | [Read More](https://medium.com/p/ef6bae97f242) |
+| Wed, 30 Jul 2025 17:22:46 GMT | Hall of Fame: Open Redirect Vulnerability in Ericsson Job Portal | Gourav(spidergk) | [Read More](https://medium.com/p/7f9a2e77bd77) |
 | Wed, 30 Jul 2025 17:20:00 GMT | Securing Telecom Infrastructure at Scale: Understanding SAN Certificates, Their Use in 5G/Cloud… | Swarnendu Das | [Read More](https://medium.com/p/872ca11d5f3c) |
 | Wed, 30 Jul 2025 17:06:01 GMT | Temporary File Storage in Spring Boot During Form Submission Flows | Alexander Obregon | [Read More](https://medium.com/p/64b436b65827) |
 | Wed, 30 Jul 2025 17:01:57 GMT | Protecting Against XSS and CSRF Attacks in Node.js: A Developer’s Guide | habtesoft | [Read More](https://medium.com/p/dc257a29b372) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 13:36:21 GMT | How a Custom Trading Terminal Can Boost Your Forex Strategy? | LogiClump Technologies | [Read More](https://medium.com/p/a5bcfce81082) |
 | Wed, 30 Jul 2025 13:34:13 GMT | The Girl Who’s Still Figuring It Out | Rejoice Afen-Akpaida | [Read More](https://medium.com/p/4c4225f93f73) |
 | Wed, 30 Jul 2025 13:18:38 GMT | Troubleshooting Guide for Secure VoIP Conference Calls | Voizcall | [Read More](https://medium.com/p/b493b55d745e) |
-| Wed, 30 Jul 2025 13:17:56 GMT | Demokratiemanifest für die schweigende Mehrheit: | Petr Legkov | [Read More](https://medium.com/p/30cb9debf492) |
-| Wed, 30 Jul 2025 13:12:01 GMT | Cybersecurity experts warn of sophisticated Gmail phishing scam | Aly Elvi | [Read More](https://medium.com/p/fe5cb8b8cf94) |
-| Wed, 30 Jul 2025 13:10:13 GMT | A Guide to AI Security: What You Need to Know About Adversarial Threats and Defences. | Umealor Obumneme | [Read More](https://medium.com/p/745aee1a210a) |
-| Wed, 30 Jul 2025 13:10:00 GMT | When Fiction Meets Reality: Why “More Short Stories from Tech” Is Essential Reading After the Tea… | Ludostuartdouglas | [Read More](https://medium.com/p/396b90898141) |
-| Wed, 30 Jul 2025 13:07:03 GMT | Dynamic Security Policies with Linux Firewall (iptables/nftables) | Esra Kayhan | [Read More](https://medium.com/p/23cf76b08ca0) |
-| Wed, 30 Jul 2025 13:06:18 GMT | Stored XSS: Exploiting Buggy Buy with a Single Script | Muniza Badar | [Read More](https://medium.com/p/a73b1379b97a) |
-| Wed, 30 Jul 2025 13:05:11 GMT | Bridging the Gap: How We Solved Web App Scanning Nightmares for Banks & Customer Service | Yasin Kabboura | [Read More](https://medium.com/p/add44b46cf3e) |
