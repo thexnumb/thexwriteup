@@ -12,7 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 14:16:54 GMT | Access Bank Account Information via Response Manipulation | brbr0s | [Read More](https://medium.com/p/d3b1ec95375f) |
+| Wed, 30 Jul 2025 14:12:16 GMT | Unpacking Federation: How “Sign in with Google” Keeps Your Digital Life Seamless and Secure | Gideon Bakel | [Read More](https://medium.com/p/29912418478c) |
+| Wed, 30 Jul 2025 14:10:07 GMT | A Comprehensive Security Review of the Most Recent USD 44 Million Cryptocurrency Exchange Breach in… | Rangashree Rangaraja | [Read More](https://medium.com/p/29bd899985c0) |
+| Wed, 30 Jul 2025 14:09:51 GMT | Hackerverse July CTF: A Fun Deep Dive | Jainsparsh1 | [Read More](https://medium.com/p/8d2653089820) |
+| Wed, 30 Jul 2025 14:07:16 GMT | Addressing Docker Security Vulnerabilities | @rnab | [Read More](https://medium.com/p/1d02ce842d13) |
+| Wed, 30 Jul 2025 14:06:57 GMT | Server-side request forgery (SSRF) | Usama Hanif | [Read More](https://medium.com/p/41275201e79c) |
+| Wed, 30 Jul 2025 14:05:35 GMT | Cookie Monster Attacks: Stealing Sessions Like It’s 1999 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4d434ab34b97) |
+| Wed, 30 Jul 2025 14:04:44 GMT | Server-side request forgery (SSRF) | Usama Hanif | [Read More](https://medium.com/p/700fbeccfdb1) |
+| Wed, 30 Jul 2025 14:03:08 GMT | Cyber Briefing: 2025.07.30 | CyberMaterial | [Read More](https://medium.com/p/287e8626a5b0) |
+| Wed, 30 Jul 2025 14:03:08 GMT | Why Cybersecurity Services in Ontario, California Are Focusing on CISO Trends for 2025 | Zeta Sky | [Read More](https://medium.com/p/b93078ba330d) |
+| Wed, 30 Jul 2025 14:03:04 GMT | Modern Cybersecurity Services in Ontario Need Policy Buy-In to Work | Zeta Sky | [Read More](https://medium.com/p/85e575e9034b) |
+| Wed, 30 Jul 2025 14:02:56 GMT | Quarero Robotics Opens Strategic Investment Round to Scale AI Security Innovation Across Europe | Presslink Media | [Read More](https://medium.com/p/fb51a00a20a6) |
+| Wed, 30 Jul 2025 14:00:01 GMT | Bastion — HackTheBox Writeup | Pedromoreiralopes | [Read More](https://medium.com/p/a340b44bf01d) |
+| Wed, 30 Jul 2025 13:59:26 GMT | Ransomware: How It Works and How to Prevent It | News | [Read More](https://medium.com/p/650fef0fd18a) |
+| Wed, 30 Jul 2025 13:58:29 GMT | What is Malware? A Deep Dive | News | [Read More](https://medium.com/p/0b218e564117) |
+| Wed, 30 Jul 2025 13:48:54 GMT | Cloud Native Hero Is Evolving: Now a Daily Newsletter | Swapnil Kulkarni | [Read More](https://medium.com/p/e12d18e24fc6) |
+| Wed, 30 Jul 2025 13:47:15 GMT | My First Month in Bug Bounty: 2 Bugs, 1 Bounty, No BS | Jo Zyd | [Read More](https://medium.com/p/4bd61fafc3fd) |
+| Wed, 30 Jul 2025 13:42:03 GMT | Web Request — HTB — BUG BOUNTY PATH- MODULE 1 | Masum Billah | [Read More](https://medium.com/p/3dfb2c339457) |
+| Wed, 30 Jul 2025 13:41:55 GMT | Why Proof of Work Still Matters: A Security Deep-Dive Into Blockchain Consensus | Maheswaran1412 | [Read More](https://medium.com/p/8db977451fa1) |
+| Wed, 30 Jul 2025 13:41:52 GMT | Building Cross-Chain Bridges in Go: Architecting Scalable, Secure, and Real-World Blockchain… | Ancilar Technologies | [Read More](https://medium.com/p/3123d9ceede2) |
 | Wed, 30 Jul 2025 13:40:23 GMT | The Rise of Quishing: A 2025 Phishing Evolution That’s Hiding in Plain Sight | Tarush Sharma | [Read More](https://medium.com/p/5a21add1f1d1) |
+| Wed, 30 Jul 2025 13:39:56 GMT | Can your phone’s PRNG compromise you? | Secserv.me | [Read More](https://medium.com/p/2c012c79791a) |
+| Wed, 30 Jul 2025 13:36:21 GMT | How a Custom Trading Terminal Can Boost Your Forex Strategy? | LogiClump Technologies | [Read More](https://medium.com/p/a5bcfce81082) |
+| Wed, 30 Jul 2025 13:34:13 GMT | The Girl Who’s Still Figuring It Out | Rejoice Afen-Akpaida | [Read More](https://medium.com/p/4c4225f93f73) |
 | Wed, 30 Jul 2025 13:18:38 GMT | Troubleshooting Guide for Secure VoIP Conference Calls | Voizcall | [Read More](https://medium.com/p/b493b55d745e) |
 | Wed, 30 Jul 2025 13:17:56 GMT | Demokratiemanifest für die schweigende Mehrheit: | Petr Legkov | [Read More](https://medium.com/p/30cb9debf492) |
 | Wed, 30 Jul 2025 13:12:01 GMT | Cybersecurity experts warn of sophisticated Gmail phishing scam | Aly Elvi | [Read More](https://medium.com/p/fe5cb8b8cf94) |
@@ -90,26 +113,3 @@ By: Nehir - Legally Curious | Legally Curious | [Read More](https://medium.com/p
 | Wed, 30 Jul 2025 09:53:44 GMT | ZTNA by Palo Alto Networks: A Comprehensive Guide to Zero Trust Network Access | Juara IT Solutions | [Read More](https://medium.com/p/7e2e9f8941f4) |
 | Wed, 30 Jul 2025 09:49:19 GMT | Cyber Security Company in Dubai, UAE | Oadtechdubai | [Read More](https://medium.com/p/3958c2085f1b) |
 | Wed, 30 Jul 2025 09:47:08 GMT | Identity Security In Play: After The Mega-Deal | The Thematic Investor | [Read More](https://medium.com/p/83d8b5baccc7) |
-| Wed, 30 Jul 2025 09:45:59 GMT | How I find vulnerability can make X(Twitter) lose  millions of dollars | L4zyhacker | [Read More](https://medium.com/p/ae34d713254f) |
-| Wed, 30 Jul 2025 09:41:21 GMT | Secure Shopping with ITIO Innovex: The PCI DSS Compliance Edge in 2025 | ITIO INNOVEX | [Read More](https://medium.com/p/2989649d903c) |
-| Wed, 30 Jul 2025 09:37:27 GMT | 未来の私よ、コレを読め。webサイトの攻撃と対策 part2 | ttt | [Read More](https://medium.com/p/7189786a678a) |
-| Wed, 30 Jul 2025 09:24:09 GMT | Best Recovery Expert | Norman Meg | [Read More](https://medium.com/p/37e4eeb6a43e) |
-| Wed, 30 Jul 2025 09:17:51 GMT | Decoding Signals: A Tactical & Scholarly Guide to Kali-Tools-RFID | RafalW3bCraft | [Read More](https://medium.com/p/06680aae7d3b) |
-| Wed, 30 Jul 2025 09:16:44 GMT | Blockchain-Based Fraud Detection: Building Trust in Digital Finance | Amit Sharma | [Read More](https://medium.com/p/c628b9c91278) |
-| Wed, 30 Jul 2025 09:15:35 GMT | Vulnerability- What is it? | Ink & Instinct | [Read More](https://medium.com/p/3fcae14bdf5a) |
-| Wed, 30 Jul 2025 09:10:04 GMT | How to Bypass Netflix Account Sharing Enforcement on a Laptop (for Educational Purposes Only) | Dragon | [Read More](https://medium.com/p/192191d49ca3) |
-| Wed, 30 Jul 2025 09:09:40 GMT | What tech skill should you learn first? (and why it could make or break you) | Newton Tech Navigator | [Read More](https://medium.com/p/e92c54cf61c2) |
-| Wed, 30 Jul 2025 09:09:38 GMT | Zero Trust Architecture and Its Role in Enhancing Modern Tech Stacks | Aniketh Roy | [Read More](https://medium.com/p/b8fedcdf5abb) |
-| Wed, 30 Jul 2025 09:07:07 GMT | BugBounty Radar — A Quick User Guide | ZoomEye | [Read More](https://medium.com/p/6ef72d2f04bb) |
-| Wed, 30 Jul 2025 09:06:03 GMT | [중소기업 기술보호 가이드 시리즈 1] 꼭 챙겨야 할 “관리적 보안” 이야기 | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/a048de1a4e0b) |
-| Wed, 30 Jul 2025 09:05:37 GMT | Brute Force Attack — LetsDefend Lab | Atlas Security | [Read More](https://medium.com/p/6137241ae467) |
-| Wed, 30 Jul 2025 09:04:40 GMT | Why Are Apps Asking for Bluetooth Access? The Hidden Truth You Need to Know | Rahul Mishra | [Read More](https://medium.com/p/02ee4d9b7843) |
-| Wed, 30 Jul 2025 09:00:57 GMT | Cybersecurity as a Catalyst: Enhancing Enterprise Tech Stacks with Confidence | Trisha Gaur | [Read More](https://medium.com/p/3258a192828a) |
-| Wed, 30 Jul 2025 08:57:31 GMT | IA for Security — Enriquecendo respostas do AI Chatbot com Processos de Cibersegurança usando RAG… | Fernando Carrara | [Read More](https://medium.com/p/dac282f39912) |
-| Wed, 30 Jul 2025 08:56:19 GMT | Information Technology Best Colleges in India — Galgotias Educational Institutions | Galgotias College | [Read More](https://medium.com/p/ef1c036cc2e1) |
-| Wed, 30 Jul 2025 08:55:24 GMT | Cybersecurity’s Next Takeover Targets: The M&A Wave Reshaping Digital Defence | The Thematic Investor | [Read More](https://medium.com/p/bf5920a63e33) |
-| Wed, 30 Jul 2025 08:52:43 GMT | Fraud Detection AI Isn’t What It Used to Be — Here Are the Breakthroughs to Know | Prakriti Juneja | [Read More](https://medium.com/p/017b7c2dc1ea) |
-| Wed, 30 Jul 2025 08:49:12 GMT | The Daily Tech Digest: 30 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f8ec9b9b8d29) |
-| Wed, 30 Jul 2025 08:46:14 GMT | Personal Security Services in Virginia: Custom Protection for Every Lifestyle | Susan Menon | [Read More](https://medium.com/p/4afaf09d222f) |
-| Wed, 30 Jul 2025 08:39:40 GMT | Home Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/1c6a6d3f25de) |
-| Wed, 30 Jul 2025 08:38:48 GMT | How to Spot Phishing Emails: A Practical Guide for Staying Safe Online | Richardhonour | [Read More](https://medium.com/p/66d6a1e2b383) |
