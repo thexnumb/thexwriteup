@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 14:47:58 GMT | Meet the Team Behind Hello Future Technologies (Private) Limited | Muhammad Saad Jalil | [Read More](https://medium.com/p/73b30dadb432) |
+| Wed, 30 Jul 2025 14:42:52 GMT | Report Bug Bounty Jangan Pake Video! | Rona Febriana | [Read More](https://medium.com/p/8a64178a1733) |
+| Wed, 30 Jul 2025 14:40:58 GMT | From Hospitality to Hacking: Why I’m Pursuing a Career in Cybersecurity | Kristel Eagar | [Read More](https://medium.com/p/fb08953c6163) |
+| Wed, 30 Jul 2025 14:37:40 GMT | IDOR in the Wild: How I Discovered a Critical Data Exposure via Vendor ID | Blue_eye | [Read More](https://medium.com/p/8ce73edc1b3e) |
+| Wed, 30 Jul 2025 14:36:05 GMT | Why AI is Breaking the Rules (And What Smart Leaders Are Doing About It. GRC+ AI) | Myra Jarenga | [Read More](https://medium.com/p/fbae22888d64) |
+| Wed, 30 Jul 2025 14:35:55 GMT | 84 Pentest GitHub Projects | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/c201d8cb9c45) |
+| Wed, 30 Jul 2025 14:31:17 GMT | Big M&A Is Back … for the Right Strategic Combo | Kevin R Davis | [Read More](https://medium.com/p/5e935b3f4847) |
+| Wed, 30 Jul 2025 14:31:14 GMT | 81 OSINT projects on GitHub | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/bf7dee1a0a1e) |
+| Wed, 30 Jul 2025 14:30:46 GMT | Mengenal dan Mencegah Serangan Siber: Dari DDoS, Malwere, Hingga Phishing | Wisnalaa | [Read More](https://medium.com/p/8538e01ab56c) |
+| Wed, 30 Jul 2025 14:29:39 GMT | Language-First Interoperability in Action: A Closer Look into AI-Driven Referral Eligibility | May Terry | [Read More](https://medium.com/p/72d4c2d8d15e) |
+| Wed, 30 Jul 2025 14:28:15 GMT | The Rise of AI Personal Assistants: How They’re Changing Our Lives in 2025 | Women Plans Daily | [Read More](https://medium.com/p/d72a30977d85) |
+| Wed, 30 Jul 2025 14:25:40 GMT | Buggy Buy’s Search Manipulation via NoSQL Injection | Muniza Badar | [Read More](https://medium.com/p/14c7ca74cdda) |
+| Wed, 30 Jul 2025 14:20:17 GMT | 15+ Linux Bash One-Liners Hackers Use (And You Should Too!) | Very Lazy Tech | [Read More](https://medium.com/p/e5487159f232) |
 | Wed, 30 Jul 2025 14:16:54 GMT | Access Bank Account Information via Response Manipulation | brbr0s | [Read More](https://medium.com/p/d3b1ec95375f) |
+| Wed, 30 Jul 2025 14:13:59 GMT | Cool GitHub projects for summer 2025 | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/f38299c5396c) |
 | Wed, 30 Jul 2025 14:12:16 GMT | Unpacking Federation: How “Sign in with Google” Keeps Your Digital Life Seamless and Secure | Gideon Bakel | [Read More](https://medium.com/p/29912418478c) |
 | Wed, 30 Jul 2025 14:10:07 GMT | A Comprehensive Security Review of the Most Recent USD 44 Million Cryptocurrency Exchange Breach in… | Rangashree Rangaraja | [Read More](https://medium.com/p/29bd899985c0) |
 | Wed, 30 Jul 2025 14:09:51 GMT | Hackerverse July CTF: A Fun Deep Dive | Jainsparsh1 | [Read More](https://medium.com/p/8d2653089820) |
@@ -99,17 +113,3 @@ By: Nehir - Legally Curious | Legally Curious | [Read More](https://medium.com/p
 | Wed, 30 Jul 2025 10:36:19 GMT | My First SOC Analyst Challenge — Real Alert, Real Response | Samuel Jack | [Read More](https://medium.com/p/623c9531731d) |
 | Wed, 30 Jul 2025 10:34:27 GMT | ChatGPT and the Security Crossroads: Bridging the Gap in the Age of AI-Driven Development | PenligentAI | [Read More](https://medium.com/p/03559c0ef93c) |
 | Wed, 30 Jul 2025 10:31:54 GMT | Mastering IAM with Asgardeo | Thidas Senavirathna | [Read More](https://medium.com/p/aa6bbf6a93bf) |
-| Wed, 30 Jul 2025 10:29:53 GMT | Protect your API KEY in android | Richa Shah | [Read More](https://medium.com/p/534a62caf7a4) |
-| Wed, 30 Jul 2025 10:29:45 GMT | Vibe Coding: Trendy Efficiency or Latent Security Risk? | PenligentAI | [Read More](https://medium.com/p/bc3c0a340255) |
-| Wed, 30 Jul 2025 10:25:10 GMT | Demystifying Computer Networks: From Simple Connections to the Internet | Allen Ace | [Read More](https://medium.com/p/a9feb9706263) |
-| Wed, 30 Jul 2025 10:15:44 GMT | Cloud Malware Spreads Cryptominers | Finstein.ai | [Read More](https://medium.com/p/e82ec29d67f6) |
-| Wed, 30 Jul 2025 10:12:40 GMT | Day 66: FTP | Nile Okomo | [Read More](https://medium.com/p/f9e863b268f9) |
-| Wed, 30 Jul 2025 10:11:00 GMT | Email Threats in 2025: Security Guide for AWS & DevOps Teams | Ismail Kovvuru | [Read More](https://medium.com/p/aaa04b8e1647) |
-| Wed, 30 Jul 2025 10:10:08 GMT | Unleashing creativity with IDEEZA ! | Herstonpierre | [Read More](https://medium.com/p/dea149503cb2) |
-| Wed, 30 Jul 2025 10:05:42 GMT | Episode 8: Server-Side Template Injection — The Quiet Killer Hiding in Plain HTML | Yamini Yadav | [Read More](https://medium.com/p/26596ac16006) |
-| Wed, 30 Jul 2025 10:02:16 GMT | A Silent Exchange | maydayhobby | [Read More](https://medium.com/p/b415d36a5180) |
-| Wed, 30 Jul 2025 09:59:51 GMT | How IPSpecialist Services Keeps Your IT Environment Threat-Free | IPSpecialist | [Read More](https://medium.com/p/0587c0036644) |
-| Wed, 30 Jul 2025 09:57:45 GMT | Model Poisoning in Machine Learning: A Deep Dive with MNIST and CNNs | M7 | [Read More](https://medium.com/p/2737e447003e) |
-| Wed, 30 Jul 2025 09:53:44 GMT | ZTNA by Palo Alto Networks: A Comprehensive Guide to Zero Trust Network Access | Juara IT Solutions | [Read More](https://medium.com/p/7e2e9f8941f4) |
-| Wed, 30 Jul 2025 09:49:19 GMT | Cyber Security Company in Dubai, UAE | Oadtechdubai | [Read More](https://medium.com/p/3958c2085f1b) |
-| Wed, 30 Jul 2025 09:47:08 GMT | Identity Security In Play: After The Mega-Deal | The Thematic Investor | [Read More](https://medium.com/p/83d8b5baccc7) |
