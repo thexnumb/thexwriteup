@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 10:38:32 GMT | AI Red‑Teaming: Combating Malicious LLM‑Powered Cybercrime with penligent.ai | PenligentAI | [Read More](https://medium.com/p/3bb6c3ddcbc3) |
+| Wed, 30 Jul 2025 10:36:19 GMT | My First SOC Analyst Challenge — Real Alert, Real Response | Samuel Jack | [Read More](https://medium.com/p/623c9531731d) |
+| Wed, 30 Jul 2025 10:34:27 GMT | ChatGPT and the Security Crossroads: Bridging the Gap in the Age of AI-Driven Development | PenligentAI | [Read More](https://medium.com/p/03559c0ef93c) |
+| Wed, 30 Jul 2025 10:31:54 GMT | Mastering IAM with Asgardeo | Thidas Senavirathna | [Read More](https://medium.com/p/aa6bbf6a93bf) |
+| Wed, 30 Jul 2025 10:29:53 GMT | Protect your API KEY in android | Richa Shah | [Read More](https://medium.com/p/534a62caf7a4) |
+| Wed, 30 Jul 2025 10:29:45 GMT | Vibe Coding: Trendy Efficiency or Latent Security Risk? | PenligentAI | [Read More](https://medium.com/p/bc3c0a340255) |
+| Wed, 30 Jul 2025 10:25:10 GMT | Demystifying Computer Networks: From Simple Connections to the Internet | Allen Ace | [Read More](https://medium.com/p/a9feb9706263) |
 | Wed, 30 Jul 2025 10:15:44 GMT | Cloud Malware Spreads Cryptominers | Finstein.ai | [Read More](https://medium.com/p/e82ec29d67f6) |
 | Wed, 30 Jul 2025 10:12:40 GMT | Day 66: FTP | Nile Okomo | [Read More](https://medium.com/p/f9e863b268f9) |
 | Wed, 30 Jul 2025 10:11:00 GMT | Email Threats in 2025: Security Guide for AWS & DevOps Teams | Ismail Kovvuru | [Read More](https://medium.com/p/aaa04b8e1647) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 05:55:35 GMT | Improve your business’s security by using the most effective security solution in Riyadh | Mohd Armaan | [Read More](https://medium.com/p/137319284960) |
 | Wed, 30 Jul 2025 05:45:29 GMT | Reactive Maintenance Explained: Benefits, Challenges, and Use Cases | Neellam Suri | [Read More](https://medium.com/p/25dfd0bb8d59) |
 | Wed, 30 Jul 2025 05:39:40 GMT | How I Earned a $4,000 Bug Bounty Using a Simple Yet Overlooked Method | Joseph jr | [Read More](https://medium.com/p/27197ace1eeb) |
-| Wed, 30 Jul 2025 05:38:57 GMT | Physical layerdə yer alan protokol & kiberhücumlar | Abdul Guliyev | [Read More](https://medium.com/p/06e7cfbcf06d) |
-| Wed, 30 Jul 2025 05:38:12 GMT | Privileged Access Management: Securing Organizations in a Digital Age | Rachel K | [Read More](https://medium.com/p/db5a04263ba8) |
-| Wed, 30 Jul 2025 05:33:55 GMT | George Dfouni Hotelier Uncovers the Hidden Cybersecurity Risks Lurking in Hospitality | Georgedfouni | [Read More](https://medium.com/p/7a00dd088456) |
-| Wed, 30 Jul 2025 05:32:41 GMT | From Recon to Control: Ethical Hacking of an IoT Drone | Tedislava Vasileva | [Read More](https://medium.com/p/b1c53f3c65d0) |
-| Wed, 30 Jul 2025 05:31:37 GMT | No One Talks About This Kind of Rejection | Phoenix | [Read More](https://medium.com/p/74048370a40d) |
-| Wed, 30 Jul 2025 05:18:10 GMT | Major Crypto Hacks and Drosera’s Real-World Defense | Yuni | [Read More](https://medium.com/p/24c0f41d42d0) |
-| Wed, 30 Jul 2025 05:06:55 GMT | I Fell for the Fake Shipping Text | Aj | [Read More](https://medium.com/p/b239b3691a6c) |
