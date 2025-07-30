@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 22:16:37 GMT | Secure Software Supply Chain: From Dependencies to Deployment | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d5d40f58e2c8) |
+| Wed, 30 Jul 2025 22:12:59 GMT | Breaking the Shield: Exploiting HTTP Headers in Web Applications | i4m_x | [Read More](https://medium.com/p/b7f9cc3ce670) |
+| Wed, 30 Jul 2025 22:07:14 GMT | 4 تا از بهترین هکر های دنیا | Cyber News | [Read More](https://medium.com/p/1f1362434443) |
+| Wed, 30 Jul 2025 22:00:37 GMT | Eskohl Consulting — Third-Party Risk Management (TPRM) Policy | Sharaden Cole | [Read More](https://medium.com/p/69bc360d8d37) |
+| Wed, 30 Jul 2025 21:47:41 GMT | 5 Sneaky Social Engineering Tactics You Should Watch Out For | Cyber Timi | [Read More](https://medium.com/p/46776b788c04) |
+| Wed, 30 Jul 2025 21:41:59 GMT | Log Analizi Nedir? Neden Önemlidir? | Bugra Arslan | [Read More](https://medium.com/p/b436f90cf195) |
+| Wed, 30 Jul 2025 21:41:51 GMT | Under Attack: The Hidden Risks of Ignoring Post-Attack Forensics | Bits Kingdom | [Read More](https://medium.com/p/5dae24873a4a) |
+| Wed, 30 Jul 2025 21:41:48 GMT | Palo Alto تستحوذ على CyberArk بقيمة 25 مليار دولار | katibatech | [Read More](https://medium.com/p/386274d0fcb0) |
+| Wed, 30 Jul 2025 21:36:59 GMT | Changing Course, From Horror to Hackers | Tom Torretti | [Read More](https://medium.com/p/54d7da28a5b5) |
 | Wed, 30 Jul 2025 21:32:07 GMT | WISSys: Revolutionizing Enterprise Physical Security Through Passive WiFi Monitoring | Dr Karim Patatas | [Read More](https://medium.com/p/2bdf54e1f20b) |
 | Wed, 30 Jul 2025 21:30:54 GMT | DUCTF 2025 — Skippy | codebreaker | [Read More](https://medium.com/p/a6aeed070227) |
 | Wed, 30 Jul 2025 21:22:18 GMT | Prompt Engineering and AI in Protostar | Ani | [Read More](https://medium.com/p/d2ae3a5a8b6a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 16:30:49 GMT | ⸻ | Hamzah Hatamleh | [Read More](https://medium.com/p/b5cfffa84a6f) |
 | Wed, 30 Jul 2025 16:29:46 GMT | TryHackMe - Humans as Attack Vectors - WriteUp | Axoloth | [Read More](https://medium.com/p/fe7775217df0) |
 | Wed, 30 Jul 2025 16:24:36 GMT | Generative AI for Translation: Bridging Global Language Gaps | Kaiser | [Read More](https://medium.com/p/ce839fa548e3) |
-| Wed, 30 Jul 2025 16:20:01 GMT | Understanding File Systems: A Crucial Element in Cyber Forensics | Vijay Kumar Gupta | [Read More](https://medium.com/p/c9916c17c9e0) |
-| Wed, 30 Jul 2025 16:19:58 GMT | Trick - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/c446d22ac79c) |
-| Wed, 30 Jul 2025 16:18:09 GMT | Privilege Escalation: From User to Admin. | Muniza Badar | [Read More](https://medium.com/p/22befa6f1f9c) |
-| Wed, 30 Jul 2025 16:15:20 GMT | How I Put My AWS IAM Policies Under the Microscope with Access Analyzer | AashishChaudhari | [Read More](https://medium.com/p/0ba8dc94a6e5) |
-| Wed, 30 Jul 2025 16:10:19 GMT | Siber Güvenliğe Giriş Notları -2 | Duygu Öztürk | [Read More](https://medium.com/p/cdc393c6ffbc) |
-| Wed, 30 Jul 2025 16:07:14 GMT | Happy Birthday to Ethereum! | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/259c5ed8afcd) |
-| Wed, 30 Jul 2025 16:06:39 GMT | How to Utilize Spy Apps in Order to Detect Spyware on Your Mobile Phone | Narjis Batool | [Read More](https://medium.com/p/48e0b83691a5) |
-| Wed, 30 Jul 2025 15:58:23 GMT | Follow the Rabbit: How I Hacked My Way Through Google’s XSS Game | Bhaskar Maity | [Read More](https://medium.com/p/2a5178c3435e) |
-| Wed, 30 Jul 2025 15:58:18 GMT | Linux Exploitation and Privilege Escalation Project! | Luis Fernando Murillo | [Read More](https://medium.com/p/342dae0844de) |
