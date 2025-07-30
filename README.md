@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 11:03:24 GMT | The AI Security Paradox: When Intelligence Becomes Vulnerability | Tony Fish | [Read More](https://medium.com/p/179ee3932df6) |
+| Wed, 30 Jul 2025 11:01:54 GMT | Topic 3: LLM Security: Not Just an IT Problem — Why Every Business Leader Should Care | Scott Huang | [Read More](https://medium.com/p/2bcef2f4a50c) |
+| Wed, 30 Jul 2025 11:01:18 GMT | Think You’re a Hacker? | Shahzaib | [Read More](https://medium.com/p/a2a0f52ccb26) |
+| Wed, 30 Jul 2025 10:56:10 GMT | Prompt Injection Playground: Mastering AI Attacks with Lakera’s Gandalf | Jade Hill | [Read More](https://medium.com/p/5e7481b22e9d) |
+| Wed, 30 Jul 2025 10:50:05 GMT | Why AI Security Is More Important Than You Think | Rodrigo Fernandez | [Read More](https://medium.com/p/499a37448365) |
+| Wed, 30 Jul 2025 10:48:42 GMT | Muhammad Qasim Akhund — A Passionate Frontend Developer Crafting Scalable Web Experiences | Muhammad Qasim Akhund | [Read More](https://medium.com/p/48774a3822ec) |
+| Wed, 30 Jul 2025 10:45:21 GMT | NETWORK: Siber Güvenliğin Temel Taşı | Doga Calkap | [Read More](https://medium.com/p/aab8ae20ad11) |
+| Wed, 30 Jul 2025 10:43:28 GMT | Phoenix Woman Gets 8.5 Years for North Korean Laptop Farm | Karl Buhl | [Read More](https://medium.com/p/d49a818f3a38) |
+| Wed, 30 Jul 2025 10:43:25 GMT | O que é IAM ? | José Guilherme Vinche | [Read More](https://medium.com/p/557690cc5bcf) |
+| Wed, 30 Jul 2025 10:41:00 GMT | Can You Commit a Crime on TikTok? Can a Video Get You Taken to Court?
+By: Nehir - Legally Curious | Legally Curious | [Read More](https://medium.com/p/fb09acdb1101) |
 | Wed, 30 Jul 2025 10:38:32 GMT | AI Red‑Teaming: Combating Malicious LLM‑Powered Cybercrime with penligent.ai | PenligentAI | [Read More](https://medium.com/p/3bb6c3ddcbc3) |
 | Wed, 30 Jul 2025 10:36:19 GMT | My First SOC Analyst Challenge — Real Alert, Real Response | Samuel Jack | [Read More](https://medium.com/p/623c9531731d) |
 | Wed, 30 Jul 2025 10:34:27 GMT | ChatGPT and the Security Crossroads: Bridging the Gap in the Age of AI-Driven Development | PenligentAI | [Read More](https://medium.com/p/03559c0ef93c) |
@@ -103,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 06:27:28 GMT | How Samsung Galaxy S25 Increases Mobile Gaming 2025? | Emma Carter | [Read More](https://medium.com/p/ccd57f6cc3b9) |
 | Wed, 30 Jul 2025 06:27:02 GMT | ‍ BugBounty-Cuando no sabes por dónde seguir, mira atrás | Gorka | [Read More](https://medium.com/p/d5ff15ab2e5b) |
 | Wed, 30 Jul 2025 06:26:38 GMT | MITRE: TryHackMe Room Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/9a3998d2a688) |
-| Wed, 30 Jul 2025 06:25:42 GMT | I Spent 3 Hours Getting A+ Security. Why Don’t Billion-Dollar Companies? | Belsneskristian | [Read More](https://medium.com/p/0a98ee940517) |
-| Wed, 30 Jul 2025 06:24:09 GMT | Exploiting Overprivileged Kubernetes Service Accounts | grepStrength | [Read More](https://medium.com/p/bf5deb46a5e2) |
-| Wed, 30 Jul 2025 06:21:58 GMT | Old Bugs, New Tricks: Why DOM XSS (and Friends) Still Pay in 2025 | Vivek PS | [Read More](https://medium.com/p/d5fc18718266) |
-| Wed, 30 Jul 2025 06:19:43 GMT | Top IT Companies in India for 2025–2026 Updated List & Rankings | Intileo Technologies | [Read More](https://medium.com/p/9b25894d2157) |
-| Wed, 30 Jul 2025 06:05:10 GMT | Prospek Kerja Lulusan Informatika: Peluang Luas di Era Digital | Evan Zaqli | [Read More](https://medium.com/p/19a6ca5c30c8) |
-| Wed, 30 Jul 2025 06:01:41 GMT | Today’s Top Cyber Intelligence Highlights — Jul 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a6e239a351fd) |
-| Wed, 30 Jul 2025 05:59:43 GMT | The Agile Transformation Imperative: Why Organizations Need Expert Agile Consulting Now | Amyra Sheldon | [Read More](https://medium.com/p/97fb6f88f1b2) |
-| Wed, 30 Jul 2025 05:55:35 GMT | Improve your business’s security by using the most effective security solution in Riyadh | Mohd Armaan | [Read More](https://medium.com/p/137319284960) |
-| Wed, 30 Jul 2025 05:45:29 GMT | Reactive Maintenance Explained: Benefits, Challenges, and Use Cases | Neellam Suri | [Read More](https://medium.com/p/25dfd0bb8d59) |
-| Wed, 30 Jul 2025 05:39:40 GMT | How I Earned a $4,000 Bug Bounty Using a Simple Yet Overlooked Method | Joseph jr | [Read More](https://medium.com/p/27197ace1eeb) |
