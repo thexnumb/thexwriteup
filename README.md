@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 20:34:04 GMT | Red Teaming 101: What It Is and Why It Matters in Modern Cyber security | CypherWolf | [Read More](https://medium.com/p/05a55e5d9ef5) |
+| Wed, 30 Jul 2025 20:27:01 GMT | The Day I Cried in Packages Mall Parking Lot | Maham Tanveer | [Read More](https://medium.com/p/844a08048b41) |
+| Wed, 30 Jul 2025 20:26:54 GMT | Are Your Devices Spying on You? What Every Business Needs to Know | Elijah Swanson | [Read More](https://medium.com/p/da58bb6b5b2f) |
+| Wed, 30 Jul 2025 20:25:02 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/84dfafffe99f) |
+| Wed, 30 Jul 2025 20:24:52 GMT | How LLMInspect could stop Anthropic Claude-style abuse in 2025 | Aysha Mir | [Read More](https://medium.com/p/529b9ac2a263) |
+| Wed, 30 Jul 2025 20:21:11 GMT | PicoCTF: Who Are You? — Writeup | 0xSudo | [Read More](https://medium.com/p/6c4358ee1319) |
+| Wed, 30 Jul 2025 20:21:10 GMT | VIPKeylogger Injection Analysis | atlas | [Read More](https://medium.com/p/a52f428e10a6) |
 | Wed, 30 Jul 2025 20:14:22 GMT | JWT vs OAuth2: What I Learned While Implementing Secure Authentication in Production | Madhav Gupta | [Read More](https://medium.com/p/6160cda4226d) |
 | Wed, 30 Jul 2025 20:05:29 GMT | How to Earn VINE Rewards via Exchange Campaigns | Bitcoinpepe | [Read More](https://medium.com/p/84842c438908) |
 | Wed, 30 Jul 2025 20:04:47 GMT | As AI Grows Smarter, Guarding Your Privacy Gets Harder. | Cornwellja | [Read More](https://medium.com/p/76792eafa679) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 15:43:06 GMT | AI Agent Passes CAPTCHA and What That Means | Peter Sikabonyi | [Read More](https://medium.com/p/fc1c2535d467) |
 | Wed, 30 Jul 2025 15:40:06 GMT | E-skimming: The Silent Threat Targeting Online Payments | VenariX, Inc. | [Read More](https://medium.com/p/4930afdf73b7) |
 | Wed, 30 Jul 2025 15:37:50 GMT | Jack Dorsey’s New App: Secure or Security Theater? | CtrlC3 | [Read More](https://medium.com/p/797ae9459a44) |
-| Wed, 30 Jul 2025 15:36:27 GMT | Open Redirection Attacks | Vinay Gurjar | [Read More](https://medium.com/p/e57181566f56) |
-| Wed, 30 Jul 2025 15:27:32 GMT | How I Started My Cybersecurity Career (and How You Can Too) | Mahmud Abubakar | [Read More](https://medium.com/p/5d58c23f7033) |
-| Wed, 30 Jul 2025 15:21:48 GMT | Mastering Log Correlation: The Art of Connecting the Dots in Threat Hunting | Zrhmz | [Read More](https://medium.com/p/aac97bd50db0) |
-| Wed, 30 Jul 2025 15:20:34 GMT | The 3 Most Common Mistakes When Buying Security Fences (And How to Dodge Them Like a Pro) | Rafael Torres | [Read More](https://medium.com/p/b06257cc9fa8) |
-| Wed, 30 Jul 2025 15:16:56 GMT | These 5 Businesses Are Cyberattack Magnets…And If You Run One, Hackers Are Already Watching | Paradise technologies Inc | [Read More](https://medium.com/p/0242b531f7f3) |
-| Wed, 30 Jul 2025 15:16:35 GMT | Integrity: The Backbone of Reliable Customer Interactions | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/e0cd34c5827d) |
-| Wed, 30 Jul 2025 15:15:28 GMT | The Courage to Be Ordinary | Mindspherelab | [Read More](https://medium.com/p/641ecf2a17ae) |
