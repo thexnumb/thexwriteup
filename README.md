@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 15:43:19 GMT | What AI in the U.S. Can Learn from Helvetas’ Hard Lessons in Cameroon, Africa | Jerry Yonga | [Read More](https://medium.com/p/ee6b1352576b) |
+| Wed, 30 Jul 2025 15:43:06 GMT | AI Agent Passes CAPTCHA and What That Means | Peter Sikabonyi | [Read More](https://medium.com/p/fc1c2535d467) |
+| Wed, 30 Jul 2025 15:40:06 GMT | E-skimming: The Silent Threat Targeting Online Payments | VenariX, Inc. | [Read More](https://medium.com/p/4930afdf73b7) |
+| Wed, 30 Jul 2025 15:37:50 GMT | Jack Dorsey’s New App: Secure or Security Theater? | CtrlC3 | [Read More](https://medium.com/p/797ae9459a44) |
+| Wed, 30 Jul 2025 15:36:27 GMT | Open Redirection Attacks | Vinay Gurjar | [Read More](https://medium.com/p/e57181566f56) |
+| Wed, 30 Jul 2025 15:27:32 GMT | How I Started My Cybersecurity Career (and How You Can Too) | Mahmud Abubakar | [Read More](https://medium.com/p/5d58c23f7033) |
+| Wed, 30 Jul 2025 15:21:48 GMT | Mastering Log Correlation: The Art of Connecting the Dots in Threat Hunting | Zrhmz | [Read More](https://medium.com/p/aac97bd50db0) |
+| Wed, 30 Jul 2025 15:20:34 GMT | The 3 Most Common Mistakes When Buying Security Fences (And How to Dodge Them Like a Pro) | Rafael Torres | [Read More](https://medium.com/p/b06257cc9fa8) |
+| Wed, 30 Jul 2025 15:16:56 GMT | These 5 Businesses Are Cyberattack Magnets…And If You Run One, Hackers Are Already Watching | Paradise technologies Inc | [Read More](https://medium.com/p/0242b531f7f3) |
+| Wed, 30 Jul 2025 15:16:35 GMT | Integrity: The Backbone of Reliable Customer Interactions | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/e0cd34c5827d) |
 | Wed, 30 Jul 2025 15:15:28 GMT | The Courage to Be Ordinary | Mindspherelab | [Read More](https://medium.com/p/641ecf2a17ae) |
+| Wed, 30 Jul 2025 15:15:17 GMT | The 5 Biggest Mistakes Companies Make When “Cleaning Up” Digital Assets | Evgeny Ermakov | [Read More](https://medium.com/p/45be827f489c) |
 | Wed, 30 Jul 2025 15:11:26 GMT | DCHSpy: Iran-Linked Android Spyware Masquerading as VPN and Starlink Apps | _Anirudh_ | [Read More](https://medium.com/p/f44c3a51e5bc) |
 | Wed, 30 Jul 2025 15:10:42 GMT | TheHackersLabs — HellRoot [Write-Up] | APS88 | [Read More](https://medium.com/p/6c6d7e728e07) |
 | Wed, 30 Jul 2025 15:09:50 GMT | Install Deepseek Locally with Ollama & Access via Chatbox AI | Aravind S V | [Read More](https://medium.com/p/bea148e40751) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 11:42:56 GMT | The Future of Cyber Security Services: Trends to Watch in 2025 | YASH Technologies | [Read More](https://medium.com/p/45e7cef545b2) |
 | Wed, 30 Jul 2025 11:41:05 GMT | Ensure Compliance & Security with Axipro’s Expert-Led ISO 27001 Internal Audit Services | Axipro | [Read More](https://medium.com/p/f057b3bcf627) |
 | Wed, 30 Jul 2025 11:40:19 GMT | Unmasking AI’s Deceptive Side: How a New Benchmark (‘MIRAGE-Bench’) Illuminates the Cognitive… | Berend Watchus | [Read More](https://medium.com/p/b0c918dbcdbf) |
-| Wed, 30 Jul 2025 11:33:50 GMT | Why Partnering with MDR Service Providers Is the Smartest Cybersecurity Move in 2025 | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/88ebe261a689) |
-| Wed, 30 Jul 2025 11:31:40 GMT | Day 57: Final Report Development | Brittney Ginther | [Read More](https://medium.com/p/1afea2c53b52) |
-| Wed, 30 Jul 2025 11:31:09 GMT | What Is Steganography? Hidden Messages in Images Explained | Vicky | [Read More](https://medium.com/p/9d0a330fd104) |
-| Wed, 30 Jul 2025 11:30:20 GMT | HTB Starting Point Tier 0 Meow ve Fawn Makinelerinin Çözümleri ve Bilinmesi Gerekenler | Burhan Demir | [Read More](https://medium.com/p/2b06ab8e6ec3) |
-| Wed, 30 Jul 2025 11:27:03 GMT | Blast From The Past: Dot-Com Guillotine — CutOffMyFeet.com | Namir Sagheenanajar | [Read More](https://medium.com/p/d488f4dd05dc) |
-| Wed, 30 Jul 2025 11:24:58 GMT | YURT DIŞINDA SİBER GÜVENLİK | Abdullah Narin | [Read More](https://medium.com/p/f96cd905e7b2) |
-| Wed, 30 Jul 2025 11:24:54 GMT | Understanding Hacking GraphQL — Part 2 | Redfox Security | [Read More](https://medium.com/p/8eaa3bbd773b) |
-| Wed, 30 Jul 2025 11:22:54 GMT | What’s the Difference Between Authentication and Authorization? | Maverick Steel | [Read More](https://medium.com/p/539fa7ea13a0) |
-| Wed, 30 Jul 2025 11:21:11 GMT | Why Cybersecurity Will Be Overwhelmingly Recommended in the Future: | houssem eddine ben youssef | [Read More](https://medium.com/p/75e317c7c1b8) |
-| Wed, 30 Jul 2025 11:18:40 GMT | Zero Trust Security for Small Businesses: A Practical Guide | Sarwatiftikhar | [Read More](https://medium.com/p/3f9d1e2810fe) |
-| Wed, 30 Jul 2025 11:12:55 GMT | Organize Your Wazuh SOC Workflow: GitHub Repository Setup for New Cybersecurity Analysts | Enitan Ogungbade | [Read More](https://medium.com/p/c200bdb82a26) |
