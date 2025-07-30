@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 03:46:37 GMT | From Insecure Storage to Secure Practices: A Follow-Up | Blue_eye | [Read More](https://medium.com/p/fda2f5bc043f) |
+| Wed, 30 Jul 2025 03:34:01 GMT | Side Quest 012: GRACE.. JUST BREATHE. | Dondre Anastasio Dodson | [Read More](https://medium.com/p/2e96f6cd3eaa) |
+| Wed, 30 Jul 2025 03:31:51 GMT | Security Checklist for Android Apps: A Developer’s Field Guide | Divya Dharshini | [Read More](https://medium.com/p/ea88c1882ac8) |
+| Wed, 30 Jul 2025 03:31:51 GMT | Applying the NIST Cybersecurity Framework to a DMZ Project (Cisco Packet Tracer) | SHAKTHIVEL RAJESH | [Read More](https://medium.com/p/cfaf8641f8f0) |
+| Wed, 30 Jul 2025 03:31:51 GMT | Plug In, Get Hacked? The Alarming Rise of ChoiceJacking and How to Stay Safe | Deven Chhajed | [Read More](https://medium.com/p/87e8131dc95c) |
+| Wed, 30 Jul 2025 03:31:51 GMT | Chinese State Actors Exploit Critical SharePoint Zero-Days as AI Achieves Reasoning Breakthrough | Akshat Ratanpal | [Read More](https://medium.com/p/7bea397dc3f4) |
+| Wed, 30 Jul 2025 03:29:56 GMT | pfSense Firewall Setup on Vmware ESXi | James Rawlings | [Read More](https://medium.com/p/f87e267854bb) |
+| Wed, 30 Jul 2025 03:14:18 GMT | The R2 Facility Loophole | Kyle Marks | [Read More](https://medium.com/p/cb8150bdd002) |
+| Wed, 30 Jul 2025 03:11:27 GMT | CyberDefenders:  Web Investigation Lab — Walkthrough | Luis Marquez | [Read More](https://medium.com/p/8c91c347fdfc) |
+| Wed, 30 Jul 2025 03:03:46 GMT | Diamante’s Security Isn’t Just Strong - It’s Quantum-Safe. | DIAM | [Read More](https://medium.com/p/4057ac678957) |
+| Wed, 30 Jul 2025 03:03:22 GMT | EDR-on-EDR Violence: An Accidental Offshoot of our RMM Abuse Research (BYOEDR) | Mike Manrod | [Read More](https://medium.com/p/4688957f31a9) |
+| Wed, 30 Jul 2025 03:01:40 GMT | UK and Germany Forge Historic Defense Pact | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/f22fb729406a) |
+| Wed, 30 Jul 2025 02:58:36 GMT | New eSafeNet RCE Vulnerability Exposes Enterprise Data: What You Need to Know | AerieWhole123 | [Read More](https://medium.com/p/7e0c3a0a6f5a) |
+| Wed, 30 Jul 2025 02:45:34 GMT | Burp Suite + ChatGPT = Ultimate Hacker Assistant? | Paritosh | [Read More](https://medium.com/p/7d66970f8930) |
+| Wed, 30 Jul 2025 02:31:51 GMT | Race Condition Vulnerability | Abhishek Kumar | [Read More](https://medium.com/p/58f6875fec08) |
+| Wed, 30 Jul 2025 02:31:51 GMT | Why Cybersecurity Has a Massive Future Scope in India | Abhishek Kumar | [Read More](https://medium.com/p/43eeaf5b2a92) |
+| Wed, 30 Jul 2025 02:26:08 GMT | The Future of Cybersecurity Is Built on Zero Trust | Gauri | [Read More](https://medium.com/p/70897581eb7f) |
+| Wed, 30 Jul 2025 02:08:24 GMT | How a Stray Quote Unleashed XSS on an Unofficial Telegram Site | Kishwordulal | [Read More](https://medium.com/p/38f03141063c) |
+| Wed, 30 Jul 2025 01:58:14 GMT | Data Visualisation 101 in Cybersecurity | N0H4TS | [Read More](https://medium.com/p/625f2320e789) |
 | Wed, 30 Jul 2025 01:32:10 GMT | Cybersecurity Challenges in Remote Tech Jobs and How to Overcome Them | Reapool | [Read More](https://medium.com/p/4e04f4db8c9f) |
 | Wed, 30 Jul 2025 01:28:54 GMT | Linkable Token ID in Microsoft Entra: Investigating Cross-Workload Attacks with SessionId | Abhishek Kumar Sharma | [Read More](https://medium.com/p/5bcd3c46a086) |
 | Wed, 30 Jul 2025 01:24:22 GMT | How Much Does It Cost for Construction Site Security Camera Rental in the U.S | Ivis Constructionsurveillance | [Read More](https://medium.com/p/d3171f847d9f) |
@@ -94,22 +113,3 @@ Welcome to Forzerune,, where code meets chaos, and the… | FORZERUNE | [Read Mo
 | Tue, 29 Jul 2025 19:09:39 GMT | AI Isn’t Taking Your Job — The Person Using AI Is | Aryan kumar | [Read More](https://medium.com/p/89ed54c1450c) |
 | Tue, 29 Jul 2025 19:08:09 GMT | Building a Real-Time Blockchain Threat Detection Pipeline: From Theory to Production | Heartlin Machado | [Read More](https://medium.com/p/c8981437c55c) |
 | Tue, 29 Jul 2025 19:06:45 GMT | This Python Script Checks If Your Passwords Are Leaked Online | Aashish Kumar | [Read More](https://medium.com/p/8c3f86e94380) |
-| Tue, 29 Jul 2025 19:05:39 GMT | My Life in the SOC: Lessons from the Frontlines of Cyber Defense | Saumya Shree | [Read More](https://medium.com/p/f268adfcf26c) |
-| Tue, 29 Jul 2025 19:01:39 GMT | 7 Disadvantages of Cloud Storage You Should Know | Timonéofearth | [Read More](https://medium.com/p/75ff11fcd33c) |
-| Tue, 29 Jul 2025 18:45:11 GMT | Crypto Challenge: Back to Roots -UIUCTF 2025 | Alinboby | [Read More](https://medium.com/p/22fdd1e08fda) |
-| Tue, 29 Jul 2025 18:43:55 GMT | Top 10 IAM Configuration Issue Remediation Plan for Prisma Cloud across AWS, GCP, and Azure… | Nazeer | [Read More](https://medium.com/p/6ab9c242c380) |
-| Tue, 29 Jul 2025 18:41:02 GMT | How to Protect RESTful APIs: A Practical Guide for Developers ️ | Mahdi Mirshafiee | [Read More](https://medium.com/p/d85a2bb8c958) |
-| Tue, 29 Jul 2025 18:38:40 GMT | Hiding Malware in DNS Records | Metehan Uluocak | [Read More](https://medium.com/p/4ad77a607144) |
-| Tue, 29 Jul 2025 18:37:25 GMT | Email Best Practices to Prevent Cyber Attacks: Simple Habits That Save You from Big Trouble | SafeAeon Inc. | [Read More](https://medium.com/p/3b67e22be304) |
-| Tue, 29 Jul 2025 18:29:58 GMT | ghidraMCP: AI-Powered Reverse Engineering Made Easy | Metehan Uluocak | [Read More](https://medium.com/p/8b012183acd5) |
-| Tue, 29 Jul 2025 18:29:06 GMT | Critical Alert: Patch Your Sophos Firewall NOW — Understanding the New Vulnerabilities | IT_Engineer | [Read More](https://medium.com/p/f86f79786375) |
-| Tue, 29 Jul 2025 18:28:44 GMT | DAY 29 — CTF #6: Operation — Blind Gallery | Jinay | [Read More](https://medium.com/p/dcc2f2066044) |
-| Tue, 29 Jul 2025 18:25:30 GMT | Home Security System Installation in Charlotte NC | Ingramvillaescusa | [Read More](https://medium.com/p/4a68a0bebf5f) |
-| Tue, 29 Jul 2025 18:22:44 GMT | Revenue Cycle on Life Support: Why Cybersecurity Is the Only Cure | Travis Ray Caverhill | [Read More](https://medium.com/p/a1276e7913a8) |
-| Tue, 29 Jul 2025 18:22:35 GMT | FullMounty PwnTillDawn -- 10.150.150.134 Write-Up | Ishengoma | [Read More](https://medium.com/p/4048c02d1acd) |
-| Tue, 29 Jul 2025 18:14:58 GMT | We Need To Stop Using Private Keys and Move To Storing Seed Values | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d918e854b808) |
-| Tue, 29 Jul 2025 18:12:59 GMT | ￼ | Cyber News | [Read More](https://medium.com/p/24110cbbc847) |
-| Tue, 29 Jul 2025 18:12:20 GMT | SharePoint Zero-Day Exploited: CVE-2025–53770 Breakdown | Kalariya Het | [Read More](https://medium.com/p/eaca88bf4946) |
-| Tue, 29 Jul 2025 18:12:02 GMT | How to Break Into Cybersecurity Without Feeling Overwhelmed | Med Abou | [Read More](https://medium.com/p/68fe2ffe15d7) |
-| Tue, 29 Jul 2025 18:08:16 GMT | Aeroflot Hack Exposes Data Leak, Disrupts Flights | Kalariya Het | [Read More](https://medium.com/p/26272236dbae) |
-| Tue, 29 Jul 2025 18:07:32 GMT | AI vs. Cybersecurity: This Week’s Frontlines (July 29, 2025) | Abdul Saboor | [Read More](https://medium.com/p/bc75a5b3c3fb) |
