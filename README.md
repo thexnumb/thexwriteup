@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 20:14:22 GMT | JWT vs OAuth2: What I Learned While Implementing Secure Authentication in Production | Madhav Gupta | [Read More](https://medium.com/p/6160cda4226d) |
+| Wed, 30 Jul 2025 20:05:29 GMT | How to Earn VINE Rewards via Exchange Campaigns | Bitcoinpepe | [Read More](https://medium.com/p/84842c438908) |
+| Wed, 30 Jul 2025 20:04:47 GMT | As AI Grows Smarter, Guarding Your Privacy Gets Harder. | Cornwellja | [Read More](https://medium.com/p/76792eafa679) |
+| Wed, 30 Jul 2025 20:02:14 GMT | The Privilege Trap: How BeyondTrust Became the Attacker’s Best Friend | Pentestjunkie07 | [Read More](https://medium.com/p/b90401abcd72) |
+| Wed, 30 Jul 2025 19:56:36 GMT | Top 10 Misconfiguration Findings & Remediation Plans for key cloud services across AWS, GCP, and… | Nazeer | [Read More](https://medium.com/p/d3b135185fe5) |
+| Wed, 30 Jul 2025 19:55:50 GMT | Beyond the Hype: Critical Security Vulnerabilities in Large Language Models | CT Chidambaram | [Read More](https://medium.com/p/b1f9d956deb3) |
+| Wed, 30 Jul 2025 19:53:28 GMT | Building Trustworthy AI into Cybersecurity Operations | Graylog | [Read More](https://medium.com/p/fbb75805ab9b) |
+| Wed, 30 Jul 2025 19:53:01 GMT | Secure Password Management: A Hands-on Demonstration Using Bitwarden | Mrittika Debnath | [Read More](https://medium.com/p/9429dc96386a) |
+| Wed, 30 Jul 2025 19:41:47 GMT | Using HTTP to Hack Redis: From SSRF to Full Control | Sarper AVCI | [Read More](https://medium.com/p/df24e5936677) |
 | Wed, 30 Jul 2025 19:38:38 GMT | SANITY | Boluwatife Lash | [Read More](https://medium.com/p/f7e2b3823231) |
+| Wed, 30 Jul 2025 19:38:16 GMT | If AI Writes the Rules, Who Holds It Accountable?A Deep Dive into Digital Compliance | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/737b7e50c6db) |
 | Wed, 30 Jul 2025 19:36:05 GMT | 50% of Businesses Hit by Cyberattacks Shut Down, Is Yours Prepared? | Susan Nilon | [Read More](https://medium.com/p/8c38c9aaff9f) |
+| Wed, 30 Jul 2025 19:35:16 GMT | My Thoughts on Blockchain Security: Algorand’s Pure Proof-of-Stake as the Standard | Joshua Obafemi | [Read More](https://medium.com/p/25a08654ec12) |
+| Wed, 30 Jul 2025 19:34:30 GMT | Your AI is Compromised, and It’s Your API’s Fault: Stop Securing AI in a Silo | Akansha Shukla | [Read More](https://medium.com/p/2bfd67219022) |
+| Wed, 30 Jul 2025 19:32:49 GMT | M2 Exchange, DCF, and Vista Finance Hit by Access Control Flaws, Price Games, and Staking Logic… | Olympix | [Read More](https://medium.com/p/1d1e52efe545) |
+| Wed, 30 Jul 2025 19:31:09 GMT | DeltaPrime, Ramses, and Morpho Breached via Unchecked Input, Reward Logic Bugs, and Oracle… | Olympix | [Read More](https://medium.com/p/1650b71c78dd) |
 | Wed, 30 Jul 2025 19:24:52 GMT | Building Trustworthy AI into Cybersecurity Operations | Graylog | [Read More](https://medium.com/p/4a21d5740ba5) |
 | Wed, 30 Jul 2025 19:21:43 GMT | My Recon methodology for Bug bounty Hunting | Shubham Khanna | [Read More](https://medium.com/p/0cfbd603cfac) |
 | Wed, 30 Jul 2025 19:19:16 GMT | Embarking on the Bug Bounty Journey: A Deep Dive into the Top Platforms | Mike (sl0th0x87) | [Read More](https://medium.com/p/8d62a14cd2a6) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 15:16:56 GMT | These 5 Businesses Are Cyberattack Magnets…And If You Run One, Hackers Are Already Watching | Paradise technologies Inc | [Read More](https://medium.com/p/0242b531f7f3) |
 | Wed, 30 Jul 2025 15:16:35 GMT | Integrity: The Backbone of Reliable Customer Interactions | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/e0cd34c5827d) |
 | Wed, 30 Jul 2025 15:15:28 GMT | The Courage to Be Ordinary | Mindspherelab | [Read More](https://medium.com/p/641ecf2a17ae) |
-| Wed, 30 Jul 2025 15:15:17 GMT | The 5 Biggest Mistakes Companies Make When “Cleaning Up” Digital Assets | Evgeny Ermakov | [Read More](https://medium.com/p/45be827f489c) |
-| Wed, 30 Jul 2025 15:11:26 GMT | DCHSpy: Iran-Linked Android Spyware Masquerading as VPN and Starlink Apps | _Anirudh_ | [Read More](https://medium.com/p/f44c3a51e5bc) |
-| Wed, 30 Jul 2025 15:10:42 GMT | TheHackersLabs — HellRoot [Write-Up] | APS88 | [Read More](https://medium.com/p/6c6d7e728e07) |
-| Wed, 30 Jul 2025 15:09:50 GMT | Install Deepseek Locally with Ollama & Access via Chatbox AI | Aravind S V | [Read More](https://medium.com/p/bea148e40751) |
-| Wed, 30 Jul 2025 15:06:59 GMT | Global Military Intelligence South Korean Intelligence Agency | Emily Taylor | [Read More](https://medium.com/p/8f41f78995fb) |
-| Wed, 30 Jul 2025 15:06:56 GMT | “ARP Spoofing” Nedir? Nasıl Yapılır? | Furkan Kadıkıran | [Read More](https://medium.com/p/7d998f5eb4ea) |
-| Wed, 30 Jul 2025 15:05:41 GMT | The 5-Minute Security Routine That Blocks 90% of Cyber Attacks | Che Chalk | [Read More](https://medium.com/p/62a337829fdd) |
-| Wed, 30 Jul 2025 15:04:08 GMT | APT41’s African Government IT Services Attack Campaign (2024–2025) | _Anirudh_ | [Read More](https://medium.com/p/035d823e42bf) |
-| Wed, 30 Jul 2025 15:03:10 GMT | APT35 (Charming Kitten): A Strategic Intelligence Report — Evolution, Operations, and Threat… | BeGoodToAll | [Read More](https://medium.com/p/862eea4a2db4) |
-| Wed, 30 Jul 2025 15:02:29 GMT | Why Do We See Query Parameters in HTTPS URLs? Is It Still Secure? | Tanish Dewase | [Read More](https://medium.com/p/5f3b6ee7702a) |
-| Wed, 30 Jul 2025 15:02:21 GMT | The Fall of the House of Democracy: What Epstein, AI, and Cybersecurity Law Warn Us About Our… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/265cc33337a3) |
-| Wed, 30 Jul 2025 14:58:45 GMT | Proactive Cybersecurity Monitoring and MSSP Solutions for Modern Enterprises | Vijilan | [Read More](https://medium.com/p/4145f2ee926c) |
-| Wed, 30 Jul 2025 14:48:58 GMT | Introducing the Talsec Portal: A New Way to Monitor Your Mobile App Security — Try It Now! | Talsec | [Read More](https://medium.com/p/5332e4f1033d) |
-| Wed, 30 Jul 2025 14:47:58 GMT | Meet the Team Behind Hello Future Technologies (Private) Limited | Muhammad Saad Jalil | [Read More](https://medium.com/p/73b30dadb432) |
