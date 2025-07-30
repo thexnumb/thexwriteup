@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 19:38:38 GMT | SANITY | Boluwatife Lash | [Read More](https://medium.com/p/f7e2b3823231) |
+| Wed, 30 Jul 2025 19:36:05 GMT | 50% of Businesses Hit by Cyberattacks Shut Down, Is Yours Prepared? | Susan Nilon | [Read More](https://medium.com/p/8c38c9aaff9f) |
+| Wed, 30 Jul 2025 19:24:52 GMT | Building Trustworthy AI into Cybersecurity Operations | Graylog | [Read More](https://medium.com/p/4a21d5740ba5) |
+| Wed, 30 Jul 2025 19:21:43 GMT | My Recon methodology for Bug bounty Hunting | Shubham Khanna | [Read More](https://medium.com/p/0cfbd603cfac) |
 | Wed, 30 Jul 2025 19:19:16 GMT | Embarking on the Bug Bounty Journey: A Deep Dive into the Top Platforms | Mike (sl0th0x87) | [Read More](https://medium.com/p/8d62a14cd2a6) |
+| Wed, 30 Jul 2025 19:19:12 GMT | Cybersecurity/Privacy in the age of AI | Aadya Yadav | [Read More](https://medium.com/p/7728cda8ae99) |
 | Wed, 30 Jul 2025 19:16:36 GMT | Can a Fence Encroach on Your Neighbor’s Property If No Prior Study Is Done? | Daniel Hall | [Read More](https://medium.com/p/271f8d749de4) |
 | Wed, 30 Jul 2025 19:14:54 GMT | Bridging Enumeration and Exploitation: A Practical Guide to Live Host Detection with httpx | Gopal Mohan | [Read More](https://medium.com/p/074933fe97bb) |
 | Wed, 30 Jul 2025 19:13:14 GMT | Packet Sniffing, Firewall Configuration, and Vulnerability Scanning | Shubham Khanna | [Read More](https://medium.com/p/02c80e1fcbe7) |
+| Wed, 30 Jul 2025 19:12:59 GMT | Dijital Mağarada Mıyız? | AYŞE KIZILAY | [Read More](https://medium.com/p/0f8f0cdeb0b3) |
 | Wed, 30 Jul 2025 19:08:59 GMT | How can Windsurf/Cursor help you with your secure code review? | Cristian | [Read More](https://medium.com/p/d93394a4d719) |
 | Wed, 30 Jul 2025 19:08:05 GMT | Comprehensive Subdomain Enumeration with Subfinder: A Practical Guide for Cybersecurity… | Gopal Mohan | [Read More](https://medium.com/p/26f1827cbb98) |
 | Wed, 30 Jul 2025 19:07:24 GMT | WebSockets, Protobuf, and a Hidden SQL Injection: My Unexpected Bug Hunting Journey | MOAMEN REZK | [Read More](https://medium.com/p/c22e935cca72) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 14:58:45 GMT | Proactive Cybersecurity Monitoring and MSSP Solutions for Modern Enterprises | Vijilan | [Read More](https://medium.com/p/4145f2ee926c) |
 | Wed, 30 Jul 2025 14:48:58 GMT | Introducing the Talsec Portal: A New Way to Monitor Your Mobile App Security — Try It Now! | Talsec | [Read More](https://medium.com/p/5332e4f1033d) |
 | Wed, 30 Jul 2025 14:47:58 GMT | Meet the Team Behind Hello Future Technologies (Private) Limited | Muhammad Saad Jalil | [Read More](https://medium.com/p/73b30dadb432) |
-| Wed, 30 Jul 2025 14:46:33 GMT | CloudLinux Features Overview. Advantages and Disadvantages of the OS | HostPro | [Read More](https://medium.com/p/9b9fdb6f2d16) |
-| Wed, 30 Jul 2025 14:46:33 GMT | Vulnerability Name: The Human Element in Credential Authentication | _Anirudh_ | [Read More](https://medium.com/p/1c0a454f656f) |
-| Wed, 30 Jul 2025 14:42:52 GMT | Report Bug Bounty Jangan Pake Video! | Rona Febriana | [Read More](https://medium.com/p/8a64178a1733) |
-| Wed, 30 Jul 2025 14:40:58 GMT | From Hospitality to Hacking: Why I’m Pursuing a Career in Cybersecurity | Kristel Eagar | [Read More](https://medium.com/p/fb08953c6163) |
-| Wed, 30 Jul 2025 14:37:40 GMT | IDOR in the Wild: How I Discovered a Critical Data Exposure via Vendor ID | Blue_eye | [Read More](https://medium.com/p/8ce73edc1b3e) |
-| Wed, 30 Jul 2025 14:36:05 GMT | Why AI is Breaking the Rules (And What Smart Leaders Are Doing About It. GRC+ AI) | Myra Jarenga | [Read More](https://medium.com/p/fbae22888d64) |
