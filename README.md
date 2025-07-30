@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 17:20:00 GMT | Securing Telecom Infrastructure at Scale: Understanding SAN Certificates, Their Use in 5G/Cloud… | Swarnendu Das | [Read More](https://medium.com/p/872ca11d5f3c) |
+| Wed, 30 Jul 2025 17:06:01 GMT | Temporary File Storage in Spring Boot During Form Submission Flows | Alexander Obregon | [Read More](https://medium.com/p/64b436b65827) |
+| Wed, 30 Jul 2025 17:01:57 GMT | Protecting Against XSS and CSRF Attacks in Node.js: A Developer’s Guide | habtesoft | [Read More](https://medium.com/p/dc257a29b372) |
+| Wed, 30 Jul 2025 16:58:25 GMT | The Ghost in the Machine: How Stolen Keys Haunt Your Network Long After a Patch | Karla Ortiz-Flores | [Read More](https://medium.com/p/b4cd91cdfc41) |
+| Wed, 30 Jul 2025 16:53:53 GMT | AWS Pentesting: Conquering the Cloudgoat Beanstalk Secrets Challenge | Ojasveer Singh Saini | [Read More](https://medium.com/p/b1f9ec880813) |
 | Wed, 30 Jul 2025 16:51:42 GMT | Unraveling the Psychology of Cybersecurity | Kara Davis | [Read More](https://medium.com/p/8139b073b970) |
 | Wed, 30 Jul 2025 16:41:52 GMT | Threshold diary: Dropping armor | jmbo | [Read More](https://medium.com/p/d1fd769ec6f6) |
 | Wed, 30 Jul 2025 16:41:08 GMT | Why the Lock Icon in Your Browser Actually Matters: The Role of SSL and TLS | Natarajan C K | [Read More](https://medium.com/p/d5a935f23dcb) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 13:07:03 GMT | Dynamic Security Policies with Linux Firewall (iptables/nftables) | Esra Kayhan | [Read More](https://medium.com/p/23cf76b08ca0) |
 | Wed, 30 Jul 2025 13:06:18 GMT | Stored XSS: Exploiting Buggy Buy with a Single Script | Muniza Badar | [Read More](https://medium.com/p/a73b1379b97a) |
 | Wed, 30 Jul 2025 13:05:11 GMT | Bridging the Gap: How We Solved Web App Scanning Nightmares for Banks & Customer Service | Yasin Kabboura | [Read More](https://medium.com/p/add44b46cf3e) |
-| Wed, 30 Jul 2025 13:02:38 GMT | I Don’t Know How to Be Soft Anymore | Dhruvdeep Singh | [Read More](https://medium.com/p/bc6e67afc1df) |
-| Wed, 30 Jul 2025 13:02:38 GMT | What Is Two-Factor Authentication (2FA) and Why It Matters | Timonéofearth | [Read More](https://medium.com/p/e205172e6dc1) |
-| Wed, 30 Jul 2025 13:02:35 GMT | We were part of a Botnet: A GitLab Breach Post‑Mortem | Gaille Amolong | [Read More](https://medium.com/p/2039cd476c60) |
-| Wed, 30 Jul 2025 12:55:11 GMT | From Self-XSS to Account Takeover | Mark Roy | [Read More](https://medium.com/p/c6488adc5737) |
-| Wed, 30 Jul 2025 12:46:07 GMT | From Brew to Container: Running Vault Radar in GitHub Actions Like a Pro | Raymon Epping | [Read More](https://medium.com/p/fa219602ec53) |
