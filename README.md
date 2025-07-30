@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 08:08:58 GMT | Scattered Spider Hijacks VMware Systems | Finstein.ai | [Read More](https://medium.com/p/81ff55aacd9f) |
+| Wed, 30 Jul 2025 08:07:50 GMT | 2025 expo osaka | Bosco Tang | [Read More](https://medium.com/p/d6b9c970ce02) |
+| Wed, 30 Jul 2025 08:07:13 GMT | VIP Protection Services in Virginia: Elite Security for High-Profile Clients | Susan Menon | [Read More](https://medium.com/p/f0a664dc0963) |
+| Wed, 30 Jul 2025 08:05:58 GMT | What Are the Benefits of Termux? | Kambetastephano | [Read More](https://medium.com/p/67ada84e3922) |
+| Wed, 30 Jul 2025 07:55:43 GMT | “Something You Are” Authentication — Biometrics | Ahmad I. Fajar | [Read More](https://medium.com/p/1b78d6748ab3) |
+| Wed, 30 Jul 2025 07:53:27 GMT | Ransomware Disrupts U.S. Food Supply Chain | Finstein.ai | [Read More](https://medium.com/p/c12d024db496) |
+| Wed, 30 Jul 2025 07:52:17 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/dbd69dad87b0) |
+| Wed, 30 Jul 2025 07:49:50 GMT | Rethinking Incident Response — From PICERL to DAIR (Expanded Edition) | Dean | [Read More](https://medium.com/p/7d309f00d43a) |
+| Wed, 30 Jul 2025 07:48:31 GMT | How Azure Helps In Streamlining IT Infrastructure? | Mohammed Numan | [Read More](https://medium.com/p/b1f154ab9811) |
+| Wed, 30 Jul 2025 07:44:55 GMT | The Science Behind Voice Deepfakes: Biomarkers, Behaviors, and AI | Behavioral Signals Team | [Read More](https://medium.com/p/28931bda081a) |
 | Wed, 30 Jul 2025 07:33:35 GMT | Catatan Belajar: Penetration Testing — Pre-engagement Activities | Kiara Humaira | [Read More](https://medium.com/p/d52c6013e006) |
 | Wed, 30 Jul 2025 07:32:45 GMT | Deciphering Data for Growth: What Does a Data Analytics Service Include in Hyderabad? | Quadrant IT Services | [Read More](https://medium.com/p/07521ba121d7) |
 | Wed, 30 Jul 2025 07:29:57 GMT | SafeLine vs. FortiWeb: Which WAF Fits Your Architecture? | Quella | [Read More](https://medium.com/p/7dd1f52cbb30) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 02:45:34 GMT | Burp Suite + ChatGPT = Ultimate Hacker Assistant? | Paritosh | [Read More](https://medium.com/p/7d66970f8930) |
 | Wed, 30 Jul 2025 02:31:51 GMT | Race Condition Vulnerability | Abhishek Kumar | [Read More](https://medium.com/p/58f6875fec08) |
 | Wed, 30 Jul 2025 02:31:51 GMT | Why Cybersecurity Has a Massive Future Scope in India | Abhishek Kumar | [Read More](https://medium.com/p/43eeaf5b2a92) |
-| Wed, 30 Jul 2025 02:26:08 GMT | The Future of Cybersecurity Is Built on Zero Trust | Gauri | [Read More](https://medium.com/p/70897581eb7f) |
-| Wed, 30 Jul 2025 02:08:24 GMT | How a Stray Quote Unleashed XSS on an Unofficial Telegram Site | Kishwordulal | [Read More](https://medium.com/p/38f03141063c) |
-| Wed, 30 Jul 2025 01:58:14 GMT | Data Visualisation 101 in Cybersecurity | N0H4TS | [Read More](https://medium.com/p/625f2320e789) |
-| Wed, 30 Jul 2025 01:32:10 GMT | Cybersecurity Challenges in Remote Tech Jobs and How to Overcome Them | Reapool | [Read More](https://medium.com/p/4e04f4db8c9f) |
-| Wed, 30 Jul 2025 01:28:54 GMT | Linkable Token ID in Microsoft Entra: Investigating Cross-Workload Attacks with SessionId | Abhishek Kumar Sharma | [Read More](https://medium.com/p/5bcd3c46a086) |
-| Wed, 30 Jul 2025 01:24:22 GMT | How Much Does It Cost for Construction Site Security Camera Rental in the U.S | Ivis Constructionsurveillance | [Read More](https://medium.com/p/d3171f847d9f) |
-| Wed, 30 Jul 2025 01:22:57 GMT | Decodificando Tanssi II: Como Appchains Podem Herdar Segurança Econômica do Ethereum com o… | IsaLeal | [Read More](https://medium.com/p/dfc5cdebdcc1) |
-| Wed, 30 Jul 2025 01:15:51 GMT | Opinion: CVE-2025–43714 Shows Why We Need to Treat AI Like a Web App | VaRiOus_CanAriEs | [Read More](https://medium.com/p/3a18f11b3f88) |
-| Wed, 30 Jul 2025 01:06:33 GMT | What if Your Pipeline Could Predict Failure? The Future of CI/CD with ML | Aravind Sunkara | [Read More](https://medium.com/p/f73e99fa5ade) |
-| Wed, 30 Jul 2025 00:59:10 GMT | Fileless Virus vs Rootkit | Cyber T | [Read More](https://medium.com/p/109fe54c24c2) |
