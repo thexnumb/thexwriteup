@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 16:51:42 GMT | Unraveling the Psychology of Cybersecurity | Kara Davis | [Read More](https://medium.com/p/8139b073b970) |
+| Wed, 30 Jul 2025 16:41:52 GMT | Threshold diary: Dropping armor | jmbo | [Read More](https://medium.com/p/d1fd769ec6f6) |
+| Wed, 30 Jul 2025 16:41:08 GMT | Why the Lock Icon in Your Browser Actually Matters: The Role of SSL and TLS | Natarajan C K | [Read More](https://medium.com/p/d5a935f23dcb) |
+| Wed, 30 Jul 2025 16:38:58 GMT | Τί είναι οι Επεκτάσεις Browser και Πώς να τις Χρησιμοποιείς με Ασφάλεια και Ευκολία | Akis Papas | [Read More](https://medium.com/p/c26306c79d7f) |
+| Wed, 30 Jul 2025 16:35:16 GMT | The AI Chameleon: When Ethical Alignment Meets the Power to Simulate Minds for Deception | Berend Watchus | [Read More](https://medium.com/p/fe0a14bb8834) |
+| Wed, 30 Jul 2025 16:32:15 GMT | SecureP2PChat Tool | Oussemaghariani | [Read More](https://medium.com/p/72b052b2912a) |
+| Wed, 30 Jul 2025 16:30:49 GMT | ⸻ | Hamzah Hatamleh | [Read More](https://medium.com/p/b5cfffa84a6f) |
+| Wed, 30 Jul 2025 16:29:46 GMT | TryHackMe - Humans as Attack Vectors - WriteUp | Axoloth | [Read More](https://medium.com/p/fe7775217df0) |
+| Wed, 30 Jul 2025 16:24:36 GMT | Generative AI for Translation: Bridging Global Language Gaps | Kaiser | [Read More](https://medium.com/p/ce839fa548e3) |
+| Wed, 30 Jul 2025 16:20:01 GMT | Understanding File Systems: A Crucial Element in Cyber Forensics | Vijay Kumar Gupta | [Read More](https://medium.com/p/c9916c17c9e0) |
+| Wed, 30 Jul 2025 16:19:58 GMT | Trick - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/c446d22ac79c) |
+| Wed, 30 Jul 2025 16:18:09 GMT | Privilege Escalation: From User to Admin. | Muniza Badar | [Read More](https://medium.com/p/22befa6f1f9c) |
+| Wed, 30 Jul 2025 16:15:20 GMT | How I Put My AWS IAM Policies Under the Microscope with Access Analyzer | AashishChaudhari | [Read More](https://medium.com/p/0ba8dc94a6e5) |
 | Wed, 30 Jul 2025 16:10:19 GMT | Siber Güvenliğe Giriş Notları -2 | Duygu Öztürk | [Read More](https://medium.com/p/cdc393c6ffbc) |
 | Wed, 30 Jul 2025 16:07:14 GMT | Happy Birthday to Ethereum! | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/259c5ed8afcd) |
 | Wed, 30 Jul 2025 16:06:39 GMT | How to Utilize Spy Apps in Order to Detect Spyware on Your Mobile Phone | Narjis Batool | [Read More](https://medium.com/p/48e0b83691a5) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 13:02:35 GMT | We were part of a Botnet: A GitLab Breach Post‑Mortem | Gaille Amolong | [Read More](https://medium.com/p/2039cd476c60) |
 | Wed, 30 Jul 2025 12:55:11 GMT | From Self-XSS to Account Takeover | Mark Roy | [Read More](https://medium.com/p/c6488adc5737) |
 | Wed, 30 Jul 2025 12:46:07 GMT | From Brew to Container: Running Vault Radar in GitHub Actions Like a Pro | Raymon Epping | [Read More](https://medium.com/p/fa219602ec53) |
-| Wed, 30 Jul 2025 12:38:21 GMT | Cyber Threat Round-Up (July 2025) | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/28daed466c26) |
-| Wed, 30 Jul 2025 12:36:51 GMT | Understanding CORS | Thomas Hofmann | [Read More](https://medium.com/p/cb322767904e) |
-| Wed, 30 Jul 2025 12:31:03 GMT | AI in the Crosshairs: How Cybercriminals Are Hijacking Artificial Intelligence | Travis Ray Caverhill | [Read More](https://medium.com/p/b53f389c82b1) |
-| Wed, 30 Jul 2025 12:27:54 GMT | From Path Guessing to Dashboard Takeover: Full Access to Government Data via Broken Access Control | 0xHamod | [Read More](https://medium.com/p/a4c048fc05bb) |
-| Wed, 30 Jul 2025 12:27:53 GMT | Who Should Pursue Palo Alto SecOps-Pro Certification? | CertifyInsider | [Read More](https://medium.com/p/f1db5a39e240) |
-| Wed, 30 Jul 2025 12:27:10 GMT | Cybersecurity: Fundamentals of Securing the Digital Landscape | Poddar Group of Institutions | [Read More](https://medium.com/p/0add01218780) |
-| Wed, 30 Jul 2025 12:23:16 GMT | I Explored Multiple Tech Fields for Free Before I Found My Path in Product Management | Daisy Dickson | [Read More](https://medium.com/p/d6460c7edb6c) |
-| Wed, 30 Jul 2025 12:22:20 GMT | ZoomEye: The Bug Hunter’s and Pentester’s Ultimate Reconnaissance Guide | N4!T40 07 | [Read More](https://medium.com/p/1324592bef1a) |
-| Wed, 30 Jul 2025 12:21:58 GMT | Does Vulnerability cost you Authority or deepen your Influence? | Natacha Degazon | [Read More](https://medium.com/p/1c1eb7e5103e) |
-| Wed, 30 Jul 2025 12:21:49 GMT | Hacking an Admin Panel Using WebSocket Manipulation | Ibtissam hammadi | [Read More](https://medium.com/p/be28059d878d) |
-| Wed, 30 Jul 2025 12:21:16 GMT | Best Practices for Policy-as-Code Automation: I Blocked Production for 3 Hours and Lost $50K… | AbdulRahman Mostafa | [Read More](https://medium.com/p/f59d3d5f4bd2) |
-| Wed, 30 Jul 2025 12:20:00 GMT | How a Home Security System Helps to Create a Secure Shelter | WSS - Wireless Security Solutions | [Read More](https://medium.com/p/9ab6cf2cc36b) |
-| Wed, 30 Jul 2025 12:17:48 GMT | Is Incognito Mode Really Private? Here’s the Ugly Truth | CYber VIaz | [Read More](https://medium.com/p/9a5c66317e40) |
