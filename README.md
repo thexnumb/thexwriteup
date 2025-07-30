@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 18:33:14 GMT | Hacking into Sunset Server | Ajjurock150 | [Read More](https://medium.com/p/689abdcc4a14) |
+| Wed, 30 Jul 2025 18:30:52 GMT | How to Protect Your Business from Inside Threats: 5 Promising Tips | Aleena Waseem | [Read More](https://medium.com/p/467b0999713b) |
+| Wed, 30 Jul 2025 18:30:51 GMT | Recovering a Redacted RSA Private Key: A CTF Crypto Writeup | Shoaib Bin Rashid | [Read More](https://medium.com/p/9489e381a484) |
+| Wed, 30 Jul 2025 18:28:21 GMT | Phishing: Tichá hrozba, která může potopit i vaši firmu! | Cyber Solution | [Read More](https://medium.com/p/f7f255b32cc7) |
+| Wed, 30 Jul 2025 18:26:35 GMT | Cloud App Monitoring: The Smart Way to Keep Your Applications Fast, Secure, and Always Available | SafeAeon Inc. | [Read More](https://medium.com/p/4649ef07829e) |
+| Wed, 30 Jul 2025 18:23:46 GMT | AI SOC is the Future! | Simbian.ai | [Read More](https://medium.com/p/90c818fab129) |
+| Wed, 30 Jul 2025 18:18:51 GMT | Strengthening Relationships with… Video Games? | Savvy Cyber Kids | [Read More](https://medium.com/p/ac41cc0e6d10) |
+| Wed, 30 Jul 2025 18:18:13 GMT | AI SOC vs Traditional SOC: How to Use AI for Cybersecurity | Simbian.ai | [Read More](https://medium.com/p/8fae8e752ab0) |
+| Wed, 30 Jul 2025 18:18:07 GMT | Mom/Dad, I Screwed Up | Savvy Cyber Kids | [Read More](https://medium.com/p/69a5cc9057f7) |
+| Wed, 30 Jul 2025 18:17:56 GMT | AI Finds Critical Zero-Day in Linux Kernel: o3’s Game-Changing Security Discovery | Simbian.ai | [Read More](https://medium.com/p/1d0ddbbe1d4e) |
+| Wed, 30 Jul 2025 18:17:52 GMT | Your Kid’s Phone May Kill Them | Savvy Cyber Kids | [Read More](https://medium.com/p/f8f600f41e2f) |
+| Wed, 30 Jul 2025 18:14:23 GMT | Manage  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/e40d7ba05f42) |
+| Wed, 30 Jul 2025 18:09:57 GMT | Let’s Talk ITGC- The Bare Minimum Your IT Shouldn’t Skip | Arzoo Parween | [Read More](https://medium.com/p/bb0ec455b454) |
+| Wed, 30 Jul 2025 18:05:25 GMT | Behind the Scenes of a Security Incident: What Really Happens? | Alsabah Afshi | [Read More](https://medium.com/p/a691794b699e) |
+| Wed, 30 Jul 2025 17:48:18 GMT | Exploring Interesting Security Research Techniques: Parser differentials | Abdul Mazid | [Read More](https://medium.com/p/004a146c81cf) |
+| Wed, 30 Jul 2025 17:46:12 GMT | A Junior Admin’s Guide to VPN Tunnels and Cryptography | Bigenaryal | [Read More](https://medium.com/p/a8e4beadd814) |
+| Wed, 30 Jul 2025 17:45:18 GMT | My Browser is a Hacking Lab: Here Are My 20 Essential Extensions. | r4gh4v | [Read More](https://medium.com/p/918420f6615b) |
+| Wed, 30 Jul 2025 17:40:58 GMT | Anger – when everything just stay inside | Rahul Gupta | [Read More](https://medium.com/p/8a43ab740e54) |
 | Wed, 30 Jul 2025 17:40:57 GMT | Why Your Business Needs Cyber Threat Intelligence (Before It’s Too Late) | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/03657800f03f) |
 | Wed, 30 Jul 2025 17:39:05 GMT | Your Workflow Automation (N8n, Make &Co.) Got Hacked? Here’s What You Can Do | AI Rabbit | [Read More](https://medium.com/p/38a365c08801) |
 | Wed, 30 Jul 2025 17:38:05 GMT | Wireshark Network Forensics and Malware Investigation | Luis Fernando Murillo | [Read More](https://medium.com/p/e4544a27934a) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 14:07:16 GMT | Addressing Docker Security Vulnerabilities | @rnab | [Read More](https://medium.com/p/1d02ce842d13) |
 | Wed, 30 Jul 2025 14:06:57 GMT | Server-side request forgery (SSRF) | Usama Hanif | [Read More](https://medium.com/p/41275201e79c) |
 | Wed, 30 Jul 2025 14:05:35 GMT | Cookie Monster Attacks: Stealing Sessions Like It’s 1999 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4d434ab34b97) |
-| Wed, 30 Jul 2025 14:04:44 GMT | Server-side request forgery (SSRF) | Usama Hanif | [Read More](https://medium.com/p/700fbeccfdb1) |
-| Wed, 30 Jul 2025 14:03:08 GMT | Cyber Briefing: 2025.07.30 | CyberMaterial | [Read More](https://medium.com/p/287e8626a5b0) |
-| Wed, 30 Jul 2025 14:03:08 GMT | Why Cybersecurity Services in Ontario, California Are Focusing on CISO Trends for 2025 | Zeta Sky | [Read More](https://medium.com/p/b93078ba330d) |
-| Wed, 30 Jul 2025 14:03:04 GMT | Modern Cybersecurity Services in Ontario Need Policy Buy-In to Work | Zeta Sky | [Read More](https://medium.com/p/85e575e9034b) |
-| Wed, 30 Jul 2025 14:02:56 GMT | Quarero Robotics Opens Strategic Investment Round to Scale AI Security Innovation Across Europe | Presslink Media | [Read More](https://medium.com/p/fb51a00a20a6) |
-| Wed, 30 Jul 2025 14:00:01 GMT | Bastion — HackTheBox Writeup | Pedromoreiralopes | [Read More](https://medium.com/p/a340b44bf01d) |
-| Wed, 30 Jul 2025 13:59:26 GMT | Ransomware: How It Works and How to Prevent It | News | [Read More](https://medium.com/p/650fef0fd18a) |
-| Wed, 30 Jul 2025 13:58:29 GMT | What is Malware? A Deep Dive | News | [Read More](https://medium.com/p/0b218e564117) |
-| Wed, 30 Jul 2025 13:48:54 GMT | Cloud Native Hero Is Evolving: Now a Daily Newsletter | Swapnil Kulkarni | [Read More](https://medium.com/p/e12d18e24fc6) |
-| Wed, 30 Jul 2025 13:47:15 GMT | My First Month in Bug Bounty: 2 Bugs, 1 Bounty, No BS | Jo Zyd | [Read More](https://medium.com/p/4bd61fafc3fd) |
-| Wed, 30 Jul 2025 13:42:03 GMT | Web Request — HTB — BUG BOUNTY PATH- MODULE 1 | Masum Billah | [Read More](https://medium.com/p/3dfb2c339457) |
-| Wed, 30 Jul 2025 13:41:55 GMT | Why Proof of Work Still Matters: A Security Deep-Dive Into Blockchain Consensus | Maheswaran1412 | [Read More](https://medium.com/p/8db977451fa1) |
-| Wed, 30 Jul 2025 13:41:52 GMT | Building Cross-Chain Bridges in Go: Architecting Scalable, Secure, and Real-World Blockchain… | Ancilar Technologies | [Read More](https://medium.com/p/3123d9ceede2) |
-| Wed, 30 Jul 2025 13:40:23 GMT | The Rise of Quishing: A 2025 Phishing Evolution That’s Hiding in Plain Sight | Tarush Sharma | [Read More](https://medium.com/p/5a21add1f1d1) |
-| Wed, 30 Jul 2025 13:39:56 GMT | Can your phone’s PRNG compromise you? | Secserv.me | [Read More](https://medium.com/p/2c012c79791a) |
-| Wed, 30 Jul 2025 13:36:21 GMT | How a Custom Trading Terminal Can Boost Your Forex Strategy? | LogiClump Technologies | [Read More](https://medium.com/p/a5bcfce81082) |
-| Wed, 30 Jul 2025 13:34:13 GMT | The Girl Who’s Still Figuring It Out | Rejoice Afen-Akpaida | [Read More](https://medium.com/p/4c4225f93f73) |
-| Wed, 30 Jul 2025 13:18:38 GMT | Troubleshooting Guide for Secure VoIP Conference Calls | Voizcall | [Read More](https://medium.com/p/b493b55d745e) |
