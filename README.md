@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Jul 2025 21:32:07 GMT | WISSys: Revolutionizing Enterprise Physical Security Through Passive WiFi Monitoring | Dr Karim Patatas | [Read More](https://medium.com/p/2bdf54e1f20b) |
+| Wed, 30 Jul 2025 21:30:54 GMT | DUCTF 2025 — Skippy | codebreaker | [Read More](https://medium.com/p/a6aeed070227) |
+| Wed, 30 Jul 2025 21:22:18 GMT | Prompt Engineering and AI in Protostar | Ani | [Read More](https://medium.com/p/d2ae3a5a8b6a) |
 | Wed, 30 Jul 2025 21:12:24 GMT | Injectics — TryHackMe CTF Walkthrough | Ali Ahmed | [Read More](https://medium.com/p/cc399669e68e) |
 | Wed, 30 Jul 2025 21:11:52 GMT | Dark Web Links: What They Are and Why You Should Be Cautious | SafeAeon Inc. | [Read More](https://medium.com/p/a6765e9b29f7) |
 | Wed, 30 Jul 2025 21:01:38 GMT | Part 8: web3 Security — The Empowered User — Best Practices & The Path Forward | Ben San Roman | [Read More](https://medium.com/p/b8485f858e0b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 16:06:39 GMT | How to Utilize Spy Apps in Order to Detect Spyware on Your Mobile Phone | Narjis Batool | [Read More](https://medium.com/p/48e0b83691a5) |
 | Wed, 30 Jul 2025 15:58:23 GMT | Follow the Rabbit: How I Hacked My Way Through Google’s XSS Game | Bhaskar Maity | [Read More](https://medium.com/p/2a5178c3435e) |
 | Wed, 30 Jul 2025 15:58:18 GMT | Linux Exploitation and Privilege Escalation Project! | Luis Fernando Murillo | [Read More](https://medium.com/p/342dae0844de) |
-| Wed, 30 Jul 2025 15:56:31 GMT | How to Earn VINE Rewards via Exchange Campaigns | Bitcoinpepe | [Read More](https://medium.com/p/7dc8e56c41e1) |
-| Wed, 30 Jul 2025 15:51:35 GMT | Can You See Your Security Architecture Clearly? | Christina Irick | [Read More](https://medium.com/p/12fc158965da) |
-| Wed, 30 Jul 2025 15:50:46 GMT | Bitchat: So Private, Even *I* Can Read Your Messages? | CtrlC3 | [Read More](https://medium.com/p/59f3c0e2ada3) |
