@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 09:23:54 GMT | Cracked Passwords? These books fix that. | Aj | [Read More](https://medium.com/p/288c4778bf5d) |
+| Thu, 31 Jul 2025 09:13:03 GMT | Why Cybersecurity Should Be a Teenager’s Concern Too | Ayaan Ali Bhatti | [Read More](https://medium.com/p/c7c92369940b) |
+| Thu, 31 Jul 2025 09:10:28 GMT | 5 Reasons Why You Should Hire a Security Guard Company In Singapore For Security | Jane Tang | [Read More](https://medium.com/p/b752ae4ae176) |
+| Thu, 31 Jul 2025 08:59:51 GMT | Modern Web Development Technologies Shaping Online Experiences | Ketan Patel | [Read More](https://medium.com/p/e9371a078560) |
+| Thu, 31 Jul 2025 08:59:31 GMT | How to Build a PHP Friction Engine Without Breaking Your Auth Stack | Asian Digital Hub | [Read More](https://medium.com/p/6b5315bf0ac4) |
+| Thu, 31 Jul 2025 08:58:28 GMT | The $45 Million Question: Why Your Password Manager Choice in 2025 Could Make or Break Your Digital… | TechEd Publishers | [Read More](https://medium.com/p/79ed573f8670) |
+| Thu, 31 Jul 2025 08:54:03 GMT | Why the Best Android App Developers Are Found Right Here in Your Country | Appcurators | [Read More](https://medium.com/p/fe3e886aad02) |
+| Thu, 31 Jul 2025 08:53:51 GMT | Data at Rest and Data in Transit in Modern Android Development | Dharma Kshetri | [Read More](https://medium.com/p/700c46ab7d6e) |
+| Thu, 31 Jul 2025 08:53:50 GMT | How a SOC Handles a Real Cyberattack | Neetrox | [Read More](https://medium.com/p/c2b551d3d815) |
+| Thu, 31 Jul 2025 08:52:32 GMT | Secret Ingredients for Secure Development: Achieving Fast and Accurate Secret Detection | Denis Makrushin | [Read More](https://medium.com/p/0cf351e74250) |
+| Thu, 31 Jul 2025 08:52:05 GMT | Ghost Commands: The Prompt Injection Exploit No Firewall Saw Coming | Pentestjunkie07 | [Read More](https://medium.com/p/f5b2ce38fa2a) |
+| Thu, 31 Jul 2025 08:47:56 GMT | Encrypting Local Data in ArkTS | Zulfu Balkan | [Read More](https://medium.com/p/09f154875c62) |
+| Thu, 31 Jul 2025 08:47:05 GMT | Breaking Free of Vendor Defaults: A New Era in Detection Engineering | Siddhant Mishra | [Read More](https://medium.com/p/95fe7f510210) |
+| Thu, 31 Jul 2025 08:43:51 GMT | Behind the Code: Deploying My Advanced Keylogger with Screenshot & Email Features | its lohith | [Read More](https://medium.com/p/debf581098c8) |
+| Thu, 31 Jul 2025 08:41:39 GMT | How to install metasploitable on macbook | Shubham Khanna | [Read More](https://medium.com/p/991094d3d522) |
+| Thu, 31 Jul 2025 08:38:57 GMT | Everest & the SAP SuccessFactors Campaign | VenariX, Inc. | [Read More](https://medium.com/p/ec21541b77e7) |
+| Thu, 31 Jul 2025 08:35:59 GMT | AWS Role Chaining: Respect the Limits, Reap the Power | Vishal | [Read More](https://medium.com/p/7a07aa703551) |
 | Thu, 31 Jul 2025 08:24:16 GMT | VX AI Suite — AI Testing AI Platform | VXRL | [Read More](https://medium.com/p/383a7ee09db8) |
 | Thu, 31 Jul 2025 08:23:02 GMT | Day 2 in the Cloud: Getting Started with Amazon EC2 | Akshat | [Read More](https://medium.com/p/a7b90bc5bd3b) |
 | Thu, 31 Jul 2025 08:20:57 GMT | Your Data Isn’t Where You Think It Is… | JetkingChandigarh | [Read More](https://medium.com/p/79cfc699a82a) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 03:19:42 GMT | SafeLine vs. AWS WAF: Which One Fits Your Web Security Needs? | AerieWhole123 | [Read More](https://medium.com/p/97edb450c174) |
 | Thu, 31 Jul 2025 03:18:16 GMT | Why Most “Threat Hunting” Fails — And What Real Professionals Actually Do | Manish Rawat | [Read More](https://medium.com/p/50e1d3469dcb) |
 | Thu, 31 Jul 2025 03:06:51 GMT | Refactoring Roulette: When to Rewrite, When to Patch | mimo | [Read More](https://medium.com/p/b10c7ef2b75d) |
-| Thu, 31 Jul 2025 03:02:40 GMT | Trump’s AI Chip Reversal Hands China Critical Tech Advantage, Threatening U.S. | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/93bb7f6a2620) |
-| Thu, 31 Jul 2025 02:59:50 GMT | Building Auth Nodes in Blok: Secure Your App with JWT | Akshat Sharma | [Read More](https://medium.com/p/d235fba29d6e) |
-| Thu, 31 Jul 2025 02:56:24 GMT | Why I Should Learn Cloud Computing and Security | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/070511cbbfa4) |
-| Thu, 31 Jul 2025 02:54:02 GMT | iPhone 17 Series Price Leak: How It Compares to iPhone 16, Galaxy S25 Ultra & Pixel 9 Pro XL | Aly Elvi | [Read More](https://medium.com/p/d66942a3e668) |
-| Thu, 31 Jul 2025 02:51:46 GMT | Permissions on Android — Learn how to implement the complete workflow. | André Michel Pozos | [Read More](https://medium.com/p/01c36be8190a) |
-| Thu, 31 Jul 2025 02:46:59 GMT | THM: OSINT Dojo —  Sakura Room | kalibri | [Read More](https://medium.com/p/d0a7299fdf00) |
-| Thu, 31 Jul 2025 02:41:39 GMT | The Extraordinary Journey of a Click: The Secret Adventure Behind Every Web Page | Jagkter | [Read More](https://medium.com/p/e8fd787c871b) |
-| Thu, 31 Jul 2025 02:23:36 GMT | Stored DOM XSS: A Hidden Threat in Blog Comments | Bash Overflow | [Read More](https://medium.com/p/50aca72e40fd) |
-| Thu, 31 Jul 2025 02:15:08 GMT | Self-modifying code and kernel hot patches: from dirty hacks to industrial solutions | Progsky | [Read More](https://medium.com/p/adb0b1d03152) |
-| Thu, 31 Jul 2025 01:41:46 GMT | Pembelajaran untuk memahami Cyber Security | Marifsetyautama | [Read More](https://medium.com/p/4195eebdfb01) |
-| Thu, 31 Jul 2025 01:27:54 GMT | Tayvan'da 2025 yılında iki büyük hastaneyi hedef alan yıkıcı bir fidye yazılımı saldırısı… | Serhat Çallı | [Read More](https://medium.com/p/5e026fdbb3c7) |
-| Thu, 31 Jul 2025 01:21:07 GMT | Caido…the new orange ? | Walter Cuestas | [Read More](https://medium.com/p/50f00e9b5140) |
-| Thu, 31 Jul 2025 01:19:04 GMT | Getting Started with nftables — The Modern Linux Firewall | Pawan Koirala | [Read More](https://medium.com/p/86295774a1b7) |
-| Thu, 31 Jul 2025 01:09:00 GMT | Palo Alto Networks to Acquire CyberArk | Raviteja Mureboina | [Read More](https://medium.com/p/ae108aaacdd8) |
-| Thu, 31 Jul 2025 01:07:31 GMT | How to Prevent Malware: 10 Proven Tips to Stay Safe Online | Timonéofearth | [Read More](https://medium.com/p/0703b7d76691) |
-| Thu, 31 Jul 2025 00:34:16 GMT | Protecting Citrix NetScaler from CitrixBleed 2: Detection and Mitigation Strategies for… | Criminal IP | [Read More](https://medium.com/p/4969057b2c78) |
-| Thu, 31 Jul 2025 00:31:52 GMT | 12 ~/.bashrc Hacks Hackers Can’t Live Without | Very Lazy Tech | [Read More](https://medium.com/p/09e89bb00f45) |
