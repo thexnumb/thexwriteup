@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 22:31:39 GMT | LIAN_YU WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/d826bb430bd7) |
+| Thu, 31 Jul 2025 22:29:30 GMT | Understanding RFC 1918 — Private IP Addressing in Local Networks[HTTP — IP restriction bypass]… | Islam Elnajdy | [Read More](https://medium.com/p/6e167a4a922a) |
+| Thu, 31 Jul 2025 22:20:13 GMT | How I Discovered an IDOR Vulnerability in chatgpt.com and Got Rewarded by OpenAI | Moamelshakeer | [Read More](https://medium.com/p/bc4da48d5013) |
 | Thu, 31 Jul 2025 22:17:39 GMT | Red Team vs. Blue Team: Designing Collaborative Exercises | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ffe54a72e9cf) |
 | Thu, 31 Jul 2025 22:15:39 GMT | Strutted Walkthrough — HTB | Aashraymt | [Read More](https://medium.com/p/69a002ba3488) |
 | Thu, 31 Jul 2025 22:11:01 GMT | What Is Patching in Cybersecurity? Why It’s Essential for Your Safety | Timonéofearth | [Read More](https://medium.com/p/f03446fc3f81) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 15:58:29 GMT | Insecure Deserialization in Java — A Deep Dive into One of the Most Dangerous Vulnerabilities | Amit Kumar Biswas @Amitlt2 | [Read More](https://medium.com/p/4cd1920773f3) |
 | Thu, 31 Jul 2025 15:55:50 GMT | MySQL + Web Security: Best Practices for Every Developer | Rizqi Mulki | [Read More](https://medium.com/p/c6831c172d96) |
 | Thu, 31 Jul 2025 15:55:28 GMT | Portswigger Academy: Access control vulnerabilities Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/26eb2facd8b3) |
-| Thu, 31 Jul 2025 15:53:57 GMT | How 3 Lines of Code Broke NVIDIA’s AI Cloud | Avnessh Kumar | [Read More](https://medium.com/p/05f47533941c) |
-| Thu, 31 Jul 2025 15:52:02 GMT | Control, Anonymity, Freedom | Kelvenr | [Read More](https://medium.com/p/109605b035d0) |
-| Thu, 31 Jul 2025 15:50:45 GMT | Don’t Let Hackers Steal Data via Misconfigured Databases | Rizqi Mulki | [Read More](https://medium.com/p/ea4a8505bfc4) |
