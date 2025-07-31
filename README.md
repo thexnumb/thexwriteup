@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 15:38:59 GMT | Why Some Bugs Slip Through: Common Reasons and How to Prevent Them | Vladimir Josifoski | [Read More](https://medium.com/p/e87f2a84a27e) |
+| Thu, 31 Jul 2025 15:24:13 GMT | Set Token Expiry: Why Short-Lived Tokens Are Your Security Lifeline | sonal sadafal | [Read More](https://medium.com/p/403350f8fb2e) |
 | Thu, 31 Jul 2025 15:19:25 GMT | Advancing AI Beyond the Trivial: A Security-First Paradigm for IT | CyberSecured Solutions | [Read More](https://medium.com/p/52e1c4c9af28) |
 | Thu, 31 Jul 2025 15:16:39 GMT | What Do I Need Right Now? | Sahyandri Wankhede | [Read More](https://medium.com/p/88f9b41c505f) |
 | Thu, 31 Jul 2025 15:14:47 GMT | The Backbone of the Digital World: A Deep Dive Into Networking | Hussain Abbas | [Read More](https://medium.com/p/7c2fadf97bb1) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 10:47:48 GMT | He Promised Me a Future. What I Got Was a Cage | Freedom Writer | [Read More](https://medium.com/p/c1fc3e6e1ebd) |
 | Thu, 31 Jul 2025 10:39:26 GMT | Easy to be a PREY than PREDATOR | VInBloom | [Read More](https://medium.com/p/b10030f22ef9) |
 | Thu, 31 Jul 2025 10:32:49 GMT | Best Ethical Hacking Courses & Certificates Online. | Win In Life Academy | [Read More](https://medium.com/p/aa2c879fc111) |
-| Thu, 31 Jul 2025 10:29:34 GMT | What is a Buffer Overflow | Kanav Arora | [Read More](https://medium.com/p/c79a40a2daf9) |
-| Thu, 31 Jul 2025 10:18:31 GMT | Is 3-Tiers Architecture Justified? | Justified Code | [Read More](https://medium.com/p/20aa515851f0) |
