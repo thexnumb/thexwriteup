@@ -12,10 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 19:16:36 GMT | Are You Even Traveling If You Don’t Cry at Least Once? | EscapeArtisan | [Read More](https://medium.com/p/5d7af9a49757) |
+| Thu, 31 Jul 2025 19:06:05 GMT | Patch Management as a Service: The Security Layer Your Business Can’t Ignore | SafeAeon Inc. | [Read More](https://medium.com/p/fa70b9059198) |
+| Thu, 31 Jul 2025 19:05:18 GMT | THM - Evil-GPT v2 | Francesco Pastore | [Read More](https://medium.com/p/653c9f6a8fe5) |
+| Thu, 31 Jul 2025 18:56:20 GMT | Building ngx-numeric-captcha: A Journey from Concept to npm Publication | Shreyashthorat | [Read More](https://medium.com/p/64f6d4ce91b0) |
+| Thu, 31 Jul 2025 18:55:29 GMT | THM - Evil-GPT | Francesco Pastore | [Read More](https://medium.com/p/18b87cc47436) |
+| Thu, 31 Jul 2025 18:52:03 GMT | Tyler Technologies: America’s Hidden Judicial Vulnerability | Relational AI Ethics | [Read More](https://medium.com/p/a7b46afb4016) |
+| Thu, 31 Jul 2025 18:47:43 GMT | Tehlike İçeriden Geldiğinde Güven Yeterli Değildir | AYŞE KIZILAY | [Read More](https://medium.com/p/7356c9cffc03) |
+| Thu, 31 Jul 2025 18:43:18 GMT | Identity in the 21st Century: Technology, Cybersecurity, and the Rise of Digital Cloning | Solene Vu | [Read More](https://medium.com/p/b4a80530297b) |
+| Thu, 31 Jul 2025 18:40:31 GMT | FHEは「個人データ主権」の夢をいかに現実にするか？：データ経済の未来像 | mirao | [Read More](https://medium.com/p/90984f068b9b) |
+| Thu, 31 Jul 2025 18:39:01 GMT | Why Networking Support Is the Silent Backbone of Modern Businesses | itsupport.net.in | [Read More](https://medium.com/p/b663d577a393) |
+| Thu, 31 Jul 2025 18:27:48 GMT | HOW TO RECOVER STOLEN OR LOST BITCOIN/MALICE CYBER RECOVERY WILL SOLVE YOUR PROBLEMS | Stanley Cassiuss | [Read More](https://medium.com/p/ac6ee56ea6b7) |
 | Thu, 31 Jul 2025 18:17:56 GMT | Detecting Living-off-the-Land (LOLBAS) Attacks with Sigma Rules | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/340e441fc444) |
 | Thu, 31 Jul 2025 18:08:12 GMT | “DeepFace” Kimin Gerçek Olduğunu Nasıl Anlayacağız? | UniVerse | [Read More](https://medium.com/p/15418fcc364e) |
 | Thu, 31 Jul 2025 18:06:30 GMT | How Large Language Models (LLMs) in Cybersecurity Secure Our Future? - USCSI® | United States Cybersecurity Institute (USCSI®) | [Read More](https://medium.com/p/45a0a9730084) |
 | Thu, 31 Jul 2025 18:03:08 GMT | The Compliance Trap: Chasing Checkboxes Is Sabotaging Your Organization’s Security | Nimish Agarwal | [Read More](https://medium.com/p/2f030e075a36) |
+| Thu, 31 Jul 2025 18:02:31 GMT | Aflac Social Engineering Attack Lessons to Learn | Asad Syed | [Read More](https://medium.com/p/121e6ff0872c) |
 | Thu, 31 Jul 2025 18:01:57 GMT | Polter’s $12M Oracle Exploit, CloberDex’s Reentrancy, and Coin31’s Access Control Failure | Olympix | [Read More](https://medium.com/p/a16f0005f729) |
 | Thu, 31 Jul 2025 18:00:23 GMT | Insecure Direct Object Reference (IDOR): Buggy Buy’s Broken Access Control | Muniza Badar | [Read More](https://medium.com/p/5a59bba49610) |
 | Thu, 31 Jul 2025 18:00:22 GMT | Cyber Insurance: Your Digital Safety Net | Aastha Thakker | [Read More](https://medium.com/p/4a7290f7214e) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 14:11:56 GMT | The UK’s Online Safety Act 2023 and the online adult industry. | Basil Manoussos, BSc,MSc,MBCS,ACSFS | [Read More](https://medium.com/p/3ec46339b9f8) |
 | Thu, 31 Jul 2025 14:10:26 GMT | Ignite — TryHackMe CTF Walkthrough | Ali Ahmed | [Read More](https://medium.com/p/d25b2614ebe2) |
 | Thu, 31 Jul 2025 14:08:40 GMT | Gremlin’s Guide : | Iangdonohue | [Read More](https://medium.com/p/5de7336d20ea) |
-| Thu, 31 Jul 2025 14:07:07 GMT | Write-up: WatchStore — TheHackersLabs | D4xt | [Read More](https://medium.com/p/2b311c4faf97) |
-| Thu, 31 Jul 2025 14:07:04 GMT | Why High-Security Bags Are Essential for Safeguarding Cash and Valuables During Transport | Sofiamcmahon | [Read More](https://medium.com/p/e8b4ab822fbb) |
-| Thu, 31 Jul 2025 14:06:17 GMT | (Tryhackme) — Year Of The JellyFish | Dair H | [Read More](https://medium.com/p/7c81fe6a47c3) |
-| Thu, 31 Jul 2025 14:03:49 GMT | Best Cloud Hosting for Accounting Firms in 2025 | Ayush Sharma | [Read More](https://medium.com/p/810b49861d4e) |
-| Thu, 31 Jul 2025 14:02:55 GMT | The Cost of Choosing the Wrong Tech Stack — A Lesson from A Tech Lead | CodeLink | [Read More](https://medium.com/p/b86c56605bc3) |
-| Thu, 31 Jul 2025 14:02:42 GMT | Cyber Briefing: 2025.07.31 | CyberMaterial | [Read More](https://medium.com/p/d5bad641a2d6) |
-| Thu, 31 Jul 2025 13:56:55 GMT | From Zero to EC2 Hero: How a Little Curiosity Can Lead to Big Hacks | CtrlC3 | [Read More](https://medium.com/p/288b3a0ea62f) |
-| Thu, 31 Jul 2025 13:54:25 GMT | 0x41haz Walkthrough TryHackMe | Moonlander | [Read More](https://medium.com/p/ed93735f718c) |
-| Thu, 31 Jul 2025 13:51:59 GMT | API Hacking’e Giriş: Modern Uygulamaların Görünmeyen Zayıf Noktaları bölüm 1 | Oruç | [Read More](https://medium.com/p/7b9898682054) |
-| Thu, 31 Jul 2025 13:34:34 GMT | IP Filtering for Neo4j Aura. Simpler and Stronger Network Security | Ian McCloy | [Read More](https://medium.com/p/ffe3eda8ed17) |
-| Thu, 31 Jul 2025 13:34:29 GMT | Forced Browsing: Unauthorized Endpoint Access | Muniza Badar | [Read More](https://medium.com/p/c926153504d4) |
-| Thu, 31 Jul 2025 13:31:18 GMT | The Daily Tech Digest: 31 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/28b726bddaf6) |
