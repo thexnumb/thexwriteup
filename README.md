@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 11:33:04 GMT | TryHackMe Walkthrough: The Sticker Shop | cyberwinx | [Read More](https://medium.com/p/f3bfc09baadb) |
+| Thu, 31 Jul 2025 11:31:23 GMT | Top 7 Browser Extensions That Protect You from Cyber Threats in 2025 | Richardhonour | [Read More](https://medium.com/p/5e23e589fec6) |
+| Thu, 31 Jul 2025 11:27:28 GMT | Information Security Training vs Ethical Hacking Training: What Should You Opt for? | Rahul Sharma | [Read More](https://medium.com/p/013e477cd863) |
+| Thu, 31 Jul 2025 11:26:39 GMT | Day 58: Emerging Technology: AI, ML, and Privacy in GRC | Brittney Ginther | [Read More](https://medium.com/p/53712eef67d4) |
+| Thu, 31 Jul 2025 11:23:06 GMT | The Smartest Target: Why We Shouldn’t Trust AI Blindly | Travis Ray Caverhill | [Read More](https://medium.com/p/2e634a295381) |
 | Thu, 31 Jul 2025 11:15:54 GMT | Secrets of Cross-Site Scripting (XSS) | Ahmed Elsayyad | [Read More](https://medium.com/p/52a2a7364871) |
 | Thu, 31 Jul 2025 11:11:47 GMT | Deepfakes in Court: The Legal System’s Looming Crisis | Travis Ray Caverhill | [Read More](https://medium.com/p/1a6d391f66b9) |
 | Thu, 31 Jul 2025 11:10:40 GMT | Beginner’s Guide to Active Reconnaissance (Part 4): Discovering Live Hosts with UDP Tools | Ar-jay A. Ballaco | [Read More](https://medium.com/p/4f5da8636e1d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 06:12:30 GMT | SafeLine vs. F5 Advanced WAF: Lightweight Agility or Enterprise Power? | AerieWhole123 | [Read More](https://medium.com/p/067f0bb24fe8) |
 | Thu, 31 Jul 2025 06:08:58 GMT | How to Set Up SOC Monitoring Without a Security Team: Affordable Security Operations for Small… | Anshul Goyal | [Read More](https://medium.com/p/9b8034481f88) |
 | Thu, 31 Jul 2025 06:07:41 GMT | JWT Attacks in Symfony: Prevention & Code Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/0268e2f4994f) |
-| Thu, 31 Jul 2025 06:06:59 GMT | CISSP Certification: Advance Your Cybersecurity Career with Cybernous CISSP Online Training | Cybernous Infosec consulting | [Read More](https://medium.com/p/332186b366df) |
-| Thu, 31 Jul 2025 06:06:16 GMT | Digital Transformation: Where AI meets Data, and Security Fuels Innovation | World Trade Center Shamshabad - Future City | [Read More](https://medium.com/p/426db38ec72b) |
-| Thu, 31 Jul 2025 06:01:48 GMT | They Hacked My Life — Not Just My Password | Sofia | [Read More](https://medium.com/p/3fca1824ad67) |
-| Thu, 31 Jul 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Jul 31, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b69d9d3c219e) |
-| Thu, 31 Jul 2025 05:55:32 GMT | WriteScriptPath Abuse in Active Directory | Munib Nawaz | [Read More](https://medium.com/p/cb5945848a51) |
