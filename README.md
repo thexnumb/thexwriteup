@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 05:25:54 GMT | The EDI Security Gap Enterprise Teams Ignore | Herbert Moroni Gois | [Read More](https://medium.com/p/751ea1685390) |
+| Thu, 31 Jul 2025 05:15:28 GMT | Tapo’s Newly Launched Dual-Lens Camera: 2K Surveillance with Hassle-Free Local Storage | Masudrana | [Read More](https://medium.com/p/69e52bc282cc) |
+| Thu, 31 Jul 2025 05:13:26 GMT | Day 17- Understanding the OSI Model | unica 02 | [Read More](https://medium.com/p/b43db5246cec) |
+| Thu, 31 Jul 2025 05:12:26 GMT | Is Your Web Application a Ticking Time Bomb? What OWASP Wants You to Know | Mammad Yahyayev | [Read More](https://medium.com/p/b47f1a56ce00) |
+| Thu, 31 Jul 2025 04:54:47 GMT | What is PKCE? | Neelendra Singh Tomar | [Read More](https://medium.com/p/3e0c257e7e7f) |
+| Thu, 31 Jul 2025 04:52:18 GMT | AI and the Future: How It’s Changing the World Now? | Charlotte Anderson | [Read More](https://medium.com/p/c8bcb7d6e29d) |
+| Thu, 31 Jul 2025 04:51:34 GMT | Cybersecurity Reinvented: Inside the Best VAPT Services in Bangalore | Noahlucas | [Read More](https://medium.com/p/1796a678f787) |
 | Thu, 31 Jul 2025 04:42:17 GMT | How Our Cybersecurity Apps Defend Against Tomorrow’s Threats | Webtrills | [Read More](https://medium.com/p/4b0bbf4217fb) |
 | Thu, 31 Jul 2025 04:39:50 GMT | Building an SMS Spam Classifier from First Principles: Unpacking Naive Bayes for Cybersecurity | Menelik | [Read More](https://medium.com/p/df39ee45fd8c) |
+| Thu, 31 Jul 2025 04:35:51 GMT | What It Really Takes to Get Compliance Certifications Like SOC 2, HIPAA, ISO 27001, and Beyond | Swapnil Kulkarni | [Read More](https://medium.com/p/661d44ea5c33) |
 | Thu, 31 Jul 2025 04:32:00 GMT | Ready to Hack? Here’s How I Set Up My Hacking Environment (Without Getting Overwhelmed) | Ayush Kumar | [Read More](https://medium.com/p/fa8a553acf4d) |
 | Thu, 31 Jul 2025 04:31:57 GMT | What Happens to Your Deleted Data in the Cloud ? | Rahul Mishra | [Read More](https://medium.com/p/70180755813f) |
 | Thu, 31 Jul 2025 04:24:16 GMT | CSRF in Disguise: How a Tracking Pixel Let Me Steal User Actions Like a Spy | Iski | [Read More](https://medium.com/p/28c084002d1e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 19:31:09 GMT | DeltaPrime, Ramses, and Morpho Breached via Unchecked Input, Reward Logic Bugs, and Oracle… | Olympix | [Read More](https://medium.com/p/1650b71c78dd) |
 | Wed, 30 Jul 2025 19:24:52 GMT | Building Trustworthy AI into Cybersecurity Operations | Graylog | [Read More](https://medium.com/p/4a21d5740ba5) |
 | Wed, 30 Jul 2025 19:21:43 GMT | My Recon methodology for Bug bounty Hunting | Shubham Khanna | [Read More](https://medium.com/p/0cfbd603cfac) |
-| Wed, 30 Jul 2025 19:19:16 GMT | Embarking on the Bug Bounty Journey: A Deep Dive into the Top Platforms | Mike (sl0th0x87) | [Read More](https://medium.com/p/8d62a14cd2a6) |
-| Wed, 30 Jul 2025 19:19:12 GMT | Cybersecurity/Privacy in the age of AI | Aadya Yadav | [Read More](https://medium.com/p/7728cda8ae99) |
-| Wed, 30 Jul 2025 19:16:36 GMT | Can a Fence Encroach on Your Neighbor’s Property If No Prior Study Is Done? | Daniel Hall | [Read More](https://medium.com/p/271f8d749de4) |
-| Wed, 30 Jul 2025 19:14:54 GMT | Bridging Enumeration and Exploitation: A Practical Guide to Live Host Detection with httpx | Gopal Mohan | [Read More](https://medium.com/p/074933fe97bb) |
-| Wed, 30 Jul 2025 19:13:14 GMT | Packet Sniffing, Firewall Configuration, and Vulnerability Scanning | Shubham Khanna | [Read More](https://medium.com/p/02c80e1fcbe7) |
-| Wed, 30 Jul 2025 19:12:59 GMT | Dijital Mağarada Mıyız? | AYŞE KIZILAY | [Read More](https://medium.com/p/0f8f0cdeb0b3) |
-| Wed, 30 Jul 2025 19:08:59 GMT | How can Windsurf/Cursor help you with your secure code review? | Cristian | [Read More](https://medium.com/p/d93394a4d719) |
-| Wed, 30 Jul 2025 19:08:05 GMT | Comprehensive Subdomain Enumeration with Subfinder: A Practical Guide for Cybersecurity… | Gopal Mohan | [Read More](https://medium.com/p/26f1827cbb98) |
