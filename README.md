@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 23:15:15 GMT | Let’s Defend: 263 — SOC287 — Arbitrary File Read on Checkpoint Security Gateway [CVE-2024–24919] -… | EPereda | [Read More](https://medium.com/p/51ea8f10955b) |
+| Thu, 31 Jul 2025 23:14:42 GMT | How Hackers Are Hijacking Smart Devices to Build Silent Bot Armies | Akshay Chauhan | [Read More](https://medium.com/p/0a27d5726975) |
+| Thu, 31 Jul 2025 23:06:32 GMT | Mapping the Modern Identity Management Ecosystem: A Strategic Guide for Leaders | Deepak Gupta | [Read More](https://medium.com/p/91f0fc82c5bc) |
+| Thu, 31 Jul 2025 22:48:37 GMT | Back to College | N7RUZN | [Read More](https://medium.com/p/d380f7e7d082) |
+| Thu, 31 Jul 2025 22:38:16 GMT | Python P/W Strength Checker & Generator | Lorrin J | [Read More](https://medium.com/p/dea08788e0cb) |
 | Thu, 31 Jul 2025 22:31:39 GMT | LIAN_YU WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/d826bb430bd7) |
 | Thu, 31 Jul 2025 22:29:30 GMT | Understanding RFC 1918 — Private IP Addressing in Local Networks[HTTP — IP restriction bypass]… | Islam Elnajdy | [Read More](https://medium.com/p/6e167a4a922a) |
 | Thu, 31 Jul 2025 22:20:13 GMT | How I Discovered an IDOR Vulnerability in chatgpt.com and Got Rewarded by OpenAI | Moamelshakeer | [Read More](https://medium.com/p/bc4da48d5013) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 16:05:06 GMT | CyberArk Architecture Explained — How the Components Work Together | Terence Imoma | [Read More](https://medium.com/p/66d94b59ccb8) |
 | Thu, 31 Jul 2025 16:04:41 GMT | How I Found Critical Vulns on Government Websites… While Asleep | KonaN | [Read More](https://medium.com/p/de8f44db9d15) |
 | Thu, 31 Jul 2025 16:03:26 GMT | PostgreSQL Roles and Permissions for Secure Apps | Rizqi Mulki | [Read More](https://medium.com/p/e405fb5bb193) |
-| Thu, 31 Jul 2025 16:01:46 GMT | Mastering DNS Enumeration — Your Gateway to Real-World Cyber Recon | Rajkumar Kumawat | [Read More](https://medium.com/p/128eef4260e8) |
-| Thu, 31 Jul 2025 16:00:46 GMT | How I Bypassed Facebook’s Email Validation (Logic Flaw) | Abdullah Ahmed | [Read More](https://medium.com/p/de61cc81e25c) |
-| Thu, 31 Jul 2025 15:58:29 GMT | Insecure Deserialization in Java — A Deep Dive into One of the Most Dangerous Vulnerabilities | Amit Kumar Biswas @Amitlt2 | [Read More](https://medium.com/p/4cd1920773f3) |
-| Thu, 31 Jul 2025 15:55:50 GMT | MySQL + Web Security: Best Practices for Every Developer | Rizqi Mulki | [Read More](https://medium.com/p/c6831c172d96) |
-| Thu, 31 Jul 2025 15:55:28 GMT | Portswigger Academy: Access control vulnerabilities Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/26eb2facd8b3) |
