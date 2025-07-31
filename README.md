@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 09:36:09 GMT | Start Bug Bounty Earning Using OWASP Top 10 (Even If You’re a Complete Beginner) | Rashadul Islam | [Read More](https://medium.com/p/26361c7ab789) |
+| Thu, 31 Jul 2025 09:34:24 GMT | Path traversal | Usama Hanif | [Read More](https://medium.com/p/848c0499197d) |
+| Thu, 31 Jul 2025 09:29:37 GMT | Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/e5b16ac69287) |
 | Thu, 31 Jul 2025 09:23:54 GMT | Cracked Passwords? These books fix that. | Aj | [Read More](https://medium.com/p/288c4778bf5d) |
+| Thu, 31 Jul 2025 09:19:47 GMT | Công ty cho thuê dịch vụ bảo vệ sự kiện — An ninh tuyệt đối cho thành công rực rỡ! | DaiAnGroup | [Read More](https://medium.com/p/a7a6a89c26d1) |
+| Thu, 31 Jul 2025 09:15:05 GMT | Shield Your Business with SSI IT Cyber Security Services | Travis | [Read More](https://medium.com/p/294e670fb71e) |
 | Thu, 31 Jul 2025 09:13:03 GMT | Why Cybersecurity Should Be a Teenager’s Concern Too | Ayaan Ali Bhatti | [Read More](https://medium.com/p/c7c92369940b) |
 | Thu, 31 Jul 2025 09:10:28 GMT | 5 Reasons Why You Should Hire a Security Guard Company In Singapore For Security | Jane Tang | [Read More](https://medium.com/p/b752ae4ae176) |
 | Thu, 31 Jul 2025 08:59:51 GMT | Modern Web Development Technologies Shaping Online Experiences | Ketan Patel | [Read More](https://medium.com/p/e9371a078560) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 03:38:34 GMT | Intentional friction: balancing security and usability in UX | Ian Araujo | [Read More](https://medium.com/p/dd9ce19a435e) |
 | Thu, 31 Jul 2025 03:35:08 GMT | Default Passwords are the Trojan Horses of the Digital World | Dr. Rakhi R Wadhwani | [Read More](https://medium.com/p/7a8a640b8a64) |
 | Thu, 31 Jul 2025 03:31:58 GMT | Why Issues Are Found in Production: A Deep Dive into Software Testing Gaps | Mayanksingh Rajput | [Read More](https://medium.com/p/88a7b7b4e7d2) |
-| Thu, 31 Jul 2025 03:31:55 GMT | TikTok Alleged Data Breach and the R00TK1T Claims | Deven Chhajed | [Read More](https://medium.com/p/07201749ffbd) |
-| Thu, 31 Jul 2025 03:23:35 GMT | STAC in Practice: How We Built Deployable Cryptographic Sovereignty | ExeQuantum | [Read More](https://medium.com/p/187b85a5f058) |
-| Thu, 31 Jul 2025 03:19:42 GMT | SafeLine vs. AWS WAF: Which One Fits Your Web Security Needs? | AerieWhole123 | [Read More](https://medium.com/p/97edb450c174) |
-| Thu, 31 Jul 2025 03:18:16 GMT | Why Most “Threat Hunting” Fails — And What Real Professionals Actually Do | Manish Rawat | [Read More](https://medium.com/p/50e1d3469dcb) |
-| Thu, 31 Jul 2025 03:06:51 GMT | Refactoring Roulette: When to Rewrite, When to Patch | mimo | [Read More](https://medium.com/p/b10c7ef2b75d) |
