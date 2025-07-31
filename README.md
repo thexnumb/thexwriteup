@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 17:32:04 GMT | Serverless Rules CDK Nag Pack | Serverless Advocate | [Read More](https://medium.com/p/338f50d68215) |
 | Thu, 31 Jul 2025 17:16:23 GMT | Log4Shell in 2025: Why It’s Still a Bug Bounty Goldmine | Kalariya Het | [Read More](https://medium.com/p/493344e84b0e) |
 | Thu, 31 Jul 2025 17:09:09 GMT | 7 Life-Saving Cybersecurity Habits Most People Ignore (But Shouldn’t) | Masonmarkus | [Read More](https://medium.com/p/6ce668e40296) |
 | Thu, 31 Jul 2025 17:07:30 GMT | “How I Turned an LFI into a $5,000 Payday (And How You Can Too)” | Aman Sharma | [Read More](https://medium.com/p/2bdf7b719709) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 13:02:15 GMT | The Silent Bug Hiding in Your async/await Code | Bhagya Rana | [Read More](https://medium.com/p/4f41120e38fc) |
 | Thu, 31 Jul 2025 13:00:54 GMT | Hypervisor Ransomware: CVE-2024–37085, AD Abuse, and the Escalating Threat to VMware ESXi… | Wes Young | [Read More](https://medium.com/p/2d547806d4e4) |
 | Thu, 31 Jul 2025 12:59:52 GMT | Java Code Analysis!?! - Write-up | Omar Budran | [Read More](https://medium.com/p/650d860704d9) |
-| Thu, 31 Jul 2025 12:57:47 GMT | Building a Simple Banner Grabbing Script in Python: A Practical Introduction to Sockets (Inspired… | PJSM-Sec | [Read More](https://medium.com/p/fcf285a3edba) |
