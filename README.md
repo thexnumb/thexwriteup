@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 20:21:51 GMT | The Midnight Hack: How I Turned a Nginx Attack into a Security Masterclass | Renda Zhang | [Read More](https://medium.com/p/bd00a7fed3c2) |
+| Thu, 31 Jul 2025 20:16:06 GMT | Prompt Injection 2.0: Hybrid Threats, AI‑Worms & Rogue Memory Hacks | Elad Golan | [Read More](https://medium.com/p/60f829ffc85b) |
+| Thu, 31 Jul 2025 20:11:06 GMT | Designing a Military-Grade Data Center: High Performance, High Availability, and Extreme Security | Engr Syed Saad Gilani | [Read More](https://medium.com/p/84c092937569) |
+| Thu, 31 Jul 2025 20:08:05 GMT | “The Blind Spot You Didn’t Even Know You Had” – The Cybersecurity Gap That Breaches Love | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/b025946dee17) |
+| Thu, 31 Jul 2025 20:04:58 GMT | 6 Eye-Opening Facts About AI Security in Enterprises | Sandeep Singh | [Read More](https://medium.com/p/79b31815976b) |
+| Thu, 31 Jul 2025 19:48:29 GMT | The things we don't say. | A Quiet Place | [Read More](https://medium.com/p/5ee009032ed5) |
 | Thu, 31 Jul 2025 19:36:20 GMT | How I got RCE on redbull from recon (CVE-2025–30406) | ABDELKARIM MOUCHQUELITA | [Read More](https://medium.com/p/f0e702d131ce) |
+| Thu, 31 Jul 2025 19:31:21 GMT | Everything DevOps needs to know about Docker Security (in one article) | BecomeDevOps | [Read More](https://medium.com/p/52bf14a68ff9) |
 | Thu, 31 Jul 2025 19:30:34 GMT | Secure Coding Part 6 : Command Injection — Attack (Python ) | Siddiquimohammad | [Read More](https://medium.com/p/13922f22d45a) |
+| Thu, 31 Jul 2025 19:30:25 GMT | Grant Thornton Netherlands: Public Pre-Pentest Analysis (Open Resources Only) | 0trust0day | [Read More](https://medium.com/p/8ff1450cbf98) |
 | Thu, 31 Jul 2025 19:24:35 GMT | Secure Coding Review in Python — Real-Life Code, Real Security Lessons | Md. Shefayer Ahmed | [Read More](https://medium.com/p/f01900e50a49) |
 | Thu, 31 Jul 2025 19:17:12 GMT | Let’s Defend: 212 — SOC250 — APT35 HyperScrape Data Exfiltration Tool Detected - Writeup | EPereda | [Read More](https://medium.com/p/5709fc37fa52) |
 | Thu, 31 Jul 2025 19:16:36 GMT | Are You Even Traveling If You Don’t Cry at Least Once? | EscapeArtisan | [Read More](https://medium.com/p/5d7af9a49757) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 14:34:57 GMT | 5 Day Roundup | Caleb DeBari | [Read More](https://medium.com/p/18e0721eefe3) |
 | Thu, 31 Jul 2025 14:34:48 GMT | Packing Heat: How to Keep Windows Defender Off Your Back (Maybe) | SilentInject | [Read More](https://medium.com/p/a84ac05c16a0) |
 | Thu, 31 Jul 2025 14:33:46 GMT | “Report bug bounty ke company raksasa dunia, gak perlu pake bahasa inggris loh!” | Rona Febriana | [Read More](https://medium.com/p/581694914eb5) |
-| Thu, 31 Jul 2025 14:33:10 GMT | Challenge Accepted: 90-Day Challenge to My First Bug Bounty | Mike (sl0th0x87) | [Read More](https://medium.com/p/30e716ed1221) |
-| Thu, 31 Jul 2025 14:33:02 GMT | HTB Getting started machine | Penevalexander | [Read More](https://medium.com/p/4be3ca464e46) |
-| Thu, 31 Jul 2025 14:27:15 GMT | Swift ile Keychain API | Mesut Aygun | [Read More](https://medium.com/p/2252992255bf) |
-| Thu, 31 Jul 2025 14:25:30 GMT | Footprinting Lab — Medium | Mkirahmet | [Read More](https://medium.com/p/ee0cdaab9a30) |
-| Thu, 31 Jul 2025 14:25:25 GMT | New AI regulation means a whole lot more logging | Graylog | [Read More](https://medium.com/p/caef8c10bb8b) |
-| Thu, 31 Jul 2025 14:24:06 GMT | Making GDPR Compliance Manageable; One Identity at a Time | Openiam | [Read More](https://medium.com/p/65bd5cf2e633) |
-| Thu, 31 Jul 2025 14:20:41 GMT | AWS Account Governance — A Step-by-Step Security Implementation Guide | Sharaden Cole | [Read More](https://medium.com/p/8f119780b3c5) |
-| Thu, 31 Jul 2025 14:20:28 GMT | How Secure Packaging Safeguards Your Goods Against Theft and Fraud in the Supply Chain | Sofiamcmahon | [Read More](https://medium.com/p/734eb82353f7) |
