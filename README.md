@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 12:47:45 GMT | IDOR allow Zero Click account takeover on a web3 program | JEETPAL | [Read More](https://medium.com/p/abef994d2aef) |
+| Thu, 31 Jul 2025 12:44:53 GMT | 15 Cyber Attacks That Could Cripple Your Business (And How to Stop Them) | Ampcus Cyber | [Read More](https://medium.com/p/69310663bcb4) |
+| Thu, 31 Jul 2025 12:41:04 GMT | Unpacking the ICJ Advisory Opinion on Climate Change from a Climate Security Perspective | Ecosystem for Peace - A compendium of ideas | [Read More](https://medium.com/p/ad8860243df4) |
+| Thu, 31 Jul 2025 12:38:57 GMT | Understanding CVSS: The Common Vulnerability Scoring System | Divyansh Gohil | [Read More](https://medium.com/p/a4fd9c330b99) |
+| Thu, 31 Jul 2025 12:37:38 GMT | How to Analyze Your GitHub Code Quality with SonarQube and Docker | Rachana Gupta | [Read More](https://medium.com/p/d6238c1d8a07) |
+| Thu, 31 Jul 2025 12:33:53 GMT | What Are The Best Practices For Securing A Canopy? | Rocket Canopy | [Read More](https://medium.com/p/60b4a94f6100) |
+| Thu, 31 Jul 2025 12:32:32 GMT | How to become an effective Teacher? | Solomon Ashagre | [Read More](https://medium.com/p/f40559b01b56) |
+| Thu, 31 Jul 2025 12:30:40 GMT | Someone like you wouldn’t choose someone like me | Darkenthusiastexpert | [Read More](https://medium.com/p/686ba893f1f6) |
+| Thu, 31 Jul 2025 12:27:23 GMT | Güvenlik File S | ReklamWeb | [Read More](https://medium.com/p/bc78bf1a2288) |
+| Thu, 31 Jul 2025 12:24:18 GMT | Common Mistakes Companies Make When Applying Privacy by Design Principles. | sanya | [Read More](https://medium.com/p/5f2d82ecc6d2) |
+| Thu, 31 Jul 2025 12:23:40 GMT | Encrypted Chat (Who needs signal?) | Paul Vella | [Read More](https://medium.com/p/ef372ff99bad) |
+| Thu, 31 Jul 2025 12:15:24 GMT | MFA Fatigue: How Habituation Opens Doors for Hackers? | Sewar Khalifeh | [Read More](https://medium.com/p/0671f4317ee7) |
+| Thu, 31 Jul 2025 12:14:46 GMT | Step-by-Step Guide on how to setup AWS Elastic Disaster Recovery Walkthrough | Mmesoma Okaro | [Read More](https://medium.com/p/7cfbcf93aa69) |
+| Thu, 31 Jul 2025 12:09:22 GMT | Kickstart your career with a comprehensive cybersecurity course in Trivandrum offered by Offenso… | Sandrazeraa | [Read More](https://medium.com/p/f3f4a66cbc55) |
+| Thu, 31 Jul 2025 12:07:56 GMT | PCI DSS for Beginners: Get Compliant Without the Headaches | SecureSlate | [Read More](https://medium.com/p/2b715de0dd0f) |
+| Thu, 31 Jul 2025 11:58:53 GMT | How Evrone Enhanced PMT Online’s Telehealth Platform with a Robust Backend | Ekaterina | [Read More](https://medium.com/p/abc81cdd2b92) |
+| Thu, 31 Jul 2025 11:57:18 GMT | WorldWide CTF “Faulty Curve” Challenge Writeup (Cryptography) | Ahmed Yacine Allag | [Read More](https://medium.com/p/782a26fc6595) |
+| Thu, 31 Jul 2025 11:56:37 GMT | Where to Find Reliable Penetration Testing Services Today | SecDesk | [Read More](https://medium.com/p/1bb89427adcd) |
+| Thu, 31 Jul 2025 11:49:54 GMT | Are Security and Privacy by Design Services essential? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/f77c0ec1022c) |
+| Thu, 31 Jul 2025 11:43:28 GMT | From Missiles to Metaverses: Mapping India’s Strategic and Digital Frontiers | Cosmic Ink | [Read More](https://medium.com/p/bca2987d8c18) |
+| Thu, 31 Jul 2025 11:38:13 GMT | Top AI‑Powered Cybersecurity Threats in 2025 | Quintin Del-Vierro | [Read More](https://medium.com/p/4b22d1c55db7) |
+| Thu, 31 Jul 2025 11:37:31 GMT | Assessing Value Chain and Component Integrations Risk in an Enterprise AI System (as per NIST AI… | Devaraj Mohan | [Read More](https://medium.com/p/13866b4aff42) |
 | Thu, 31 Jul 2025 11:33:04 GMT | TryHackMe Walkthrough: The Sticker Shop | cyberwinx | [Read More](https://medium.com/p/f3bfc09baadb) |
 | Thu, 31 Jul 2025 11:31:23 GMT | Top 7 Browser Extensions That Protect You from Cyber Threats in 2025 | Richardhonour | [Read More](https://medium.com/p/5e23e589fec6) |
 | Thu, 31 Jul 2025 11:27:28 GMT | Information Security Training vs Ethical Hacking Training: What Should You Opt for? | Rahul Sharma | [Read More](https://medium.com/p/013e477cd863) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 07:14:31 GMT | Deneyimlemeden Öğrenmeniz Gereken Güvenlik Açıkları | Poyrazavsever | [Read More](https://medium.com/p/55c31f58c2b2) |
 | Thu, 31 Jul 2025 07:12:50 GMT | Cybersecurity: The Silent Shield Every Business Needs to Survive & Grow | Seema D. | [Read More](https://medium.com/p/4139a411520a) |
 | Thu, 31 Jul 2025 07:11:07 GMT | India is leading the way in cloud computing, shaping its digital future | Bikash Peeripaul | [Read More](https://medium.com/p/4bb4642a1d24) |
-| Thu, 31 Jul 2025 07:09:18 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/578c8f965508) |
-| Thu, 31 Jul 2025 07:06:53 GMT | What Up Doe?! | Denise Jackson | [Read More](https://medium.com/p/bdbea8942c35) |
-| Thu, 31 Jul 2025 07:01:55 GMT | How Hackers Stole $1.5 Billion from Bybit: A Wake-Up Call for the Crypto Industry | Emre Demirhan | [Read More](https://medium.com/p/d6399de2fd14) |
-| Thu, 31 Jul 2025 07:01:48 GMT | FortiMonitor: Digital Experience Monitoring (DEM) Platform | Juara IT Solutions | [Read More](https://medium.com/p/750768282d0c) |
-| Thu, 31 Jul 2025 06:56:44 GMT | Tatildeyken Ev Güvenliği Nasıl Sağlanır? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/4b04f5c531df) |
-| Thu, 31 Jul 2025 06:56:28 GMT | Know JWT or Risk Getting Hacked: A Complete Developer’s Guide | Sai Pranav Moluguri | [Read More](https://medium.com/p/3d0b7f80e858) |
-| Thu, 31 Jul 2025 06:49:22 GMT | Philippines President to Visit India Next Week to Strengthen Defence And Maritime Ties | Media Eye News | [Read More](https://medium.com/p/d11483ab3841) |
-| Thu, 31 Jul 2025 06:48:12 GMT | Semperis 2025 Ransomware Study Reveals Relentless Cyberattacks on Global Organisations | Louise Rolfe | [Read More](https://medium.com/p/d62a9e57c982) |
-| Thu, 31 Jul 2025 06:45:50 GMT | Home Lab Chronicles: Part 01 — Setting up an OPNSense Firewall | Suprim Devkota | [Read More](https://medium.com/p/5498b8c914ae) |
-| Thu, 31 Jul 2025 06:45:44 GMT | Remote Code Execution Flaw Found in Yonyou U8 Cloud (All Versions Affected) | AerieWhole123 | [Read More](https://medium.com/p/4343d0f73ab1) |
-| Thu, 31 Jul 2025 06:41:15 GMT | How I Got Easy Admin Panel Access & Database Credentials — Bug Bounty Hunting | Pranav Patil | [Read More](https://medium.com/p/a16935d0d3b8) |
-| Thu, 31 Jul 2025 06:41:06 GMT | Why API Security Testing Is Essential for Modern Businesses | West Advanced Technologies Inc | [Read More](https://medium.com/p/e4b3772b4797) |
-| Thu, 31 Jul 2025 06:36:55 GMT | Missed Call From ‘Unknown’: My Life as a Hacker (Kinda) | xhiddebx | [Read More](https://medium.com/p/318934d3284e) |
-| Thu, 31 Jul 2025 06:35:56 GMT | This is How I *ALMOST* found my first bug. | Rabia Riaz | [Read More](https://medium.com/p/f3cfb9efdf0d) |
-| Thu, 31 Jul 2025 06:26:35 GMT | No, no todo fallo en login es una SQLi | Gorka | [Read More](https://medium.com/p/a21592652d96) |
-| Thu, 31 Jul 2025 06:25:13 GMT | The Crucial Role of Linux in Cybersecurity and How I Mastered It | Prabha | [Read More](https://medium.com/p/b48934d23bbb) |
-| Thu, 31 Jul 2025 06:24:51 GMT | Modern Encryption, Modern Monitoring: TLS 1.3 and Post-Quantum in the Real World | Techleadgurdeepgill | [Read More](https://medium.com/p/83dc33566302) |
-| Thu, 31 Jul 2025 06:24:12 GMT | The Hidden Dangers of Vibe Coding | Haroon Mansoori | [Read More](https://medium.com/p/db1edb041cb5) |
-| Thu, 31 Jul 2025 06:15:32 GMT | 1951 Rare 1-Rupee Note Turns into a High-Value Collectible in Pakistan | Osama Khan | [Read More](https://medium.com/p/d058520b3b6c) |
-| Thu, 31 Jul 2025 06:12:30 GMT | SafeLine vs. F5 Advanced WAF: Lightweight Agility or Enterprise Power? | AerieWhole123 | [Read More](https://medium.com/p/067f0bb24fe8) |
-| Thu, 31 Jul 2025 06:08:58 GMT | How to Set Up SOC Monitoring Without a Security Team: Affordable Security Operations for Small… | Anshul Goyal | [Read More](https://medium.com/p/9b8034481f88) |
-| Thu, 31 Jul 2025 06:07:41 GMT | JWT Attacks in Symfony: Prevention & Code Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/0268e2f4994f) |
