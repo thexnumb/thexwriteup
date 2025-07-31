@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 22:17:39 GMT | Red Team vs. Blue Team: Designing Collaborative Exercises | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ffe54a72e9cf) |
+| Thu, 31 Jul 2025 22:15:39 GMT | Strutted Walkthrough — HTB | Aashraymt | [Read More](https://medium.com/p/69a002ba3488) |
+| Thu, 31 Jul 2025 22:11:01 GMT | What Is Patching in Cybersecurity? Why It’s Essential for Your Safety | Timonéofearth | [Read More](https://medium.com/p/f03446fc3f81) |
+| Thu, 31 Jul 2025 22:06:01 GMT | The Tech News Roundup for July 2025 | Chris @ mostsignificant | [Read More](https://medium.com/p/83428f99123f) |
+| Thu, 31 Jul 2025 21:59:14 GMT | It is my birthday — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/d847d06843b7) |
+| Thu, 31 Jul 2025 21:47:28 GMT | Not strong enough this time | lili | [Read More](https://medium.com/p/dc0d40175c4f) |
+| Thu, 31 Jul 2025 21:44:55 GMT | “Wait… YOU built an AWS network architecture and launched a live website from scratch?” | Sybil Amarachi Ikechukwu | [Read More](https://medium.com/p/526c45d4f67e) |
 | Thu, 31 Jul 2025 21:38:25 GMT | When Randomness Backfires: Security Risks in AI | Patrick Walsh | [Read More](https://medium.com/p/a07b6e08dab0) |
+| Thu, 31 Jul 2025 21:32:58 GMT | Investigating the pcrnparty.org → mrcparty.net politico-digital web traffic redirection conflict. | M. Thibaut | [Read More](https://medium.com/p/113bc8a2c35d) |
+| Thu, 31 Jul 2025 21:31:36 GMT | Multi-Part File Uploads and Validation in FastAPI for Large Datasets | Bhagya Rana | [Read More](https://medium.com/p/9a3a71f0c475) |
+| Thu, 31 Jul 2025 21:31:28 GMT | The Ultimate FREE Resource Guide to Start Bug Bounty Hunting | CyberHead | [Read More](https://medium.com/p/3a42211fe8eb) |
 | Thu, 31 Jul 2025 21:22:34 GMT | Real World Vulnerable Code Analysis: CVE-2024–9461 (Remote Code Execution) | Jonas Benjamin Friedli | [Read More](https://medium.com/p/953536cf4181) |
 | Thu, 31 Jul 2025 21:20:28 GMT | Why Are API’s Not Secured? | API Expert | [Read More](https://medium.com/p/7e48b3295489) |
 | Thu, 31 Jul 2025 21:14:04 GMT | Cybersecurity | Farhan | [Read More](https://medium.com/p/94407464e545) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 15:53:57 GMT | How 3 Lines of Code Broke NVIDIA’s AI Cloud | Avnessh Kumar | [Read More](https://medium.com/p/05f47533941c) |
 | Thu, 31 Jul 2025 15:52:02 GMT | Control, Anonymity, Freedom | Kelvenr | [Read More](https://medium.com/p/109605b035d0) |
 | Thu, 31 Jul 2025 15:50:45 GMT | Don’t Let Hackers Steal Data via Misconfigured Databases | Rizqi Mulki | [Read More](https://medium.com/p/ea4a8505bfc4) |
-| Thu, 31 Jul 2025 15:49:55 GMT | Port Security in CCNP & FortiGate — Your First Line of Network Defense! | Himanshu Sahu | [Read More](https://medium.com/p/0fbc039e26a2) |
-| Thu, 31 Jul 2025 15:48:44 GMT | Portswigger Academy: Access control vulnerabilities Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/2fb6e1452d37) |
-| Thu, 31 Jul 2025 15:47:07 GMT | What core skills should I master first for modern penetration testing in 2025 | Mainekdeveloper | [Read More](https://medium.com/p/86bcef95665c) |
-| Thu, 31 Jul 2025 15:46:43 GMT | We Were Taught to Be Rocks. It’s Time to Learn to Bend. | Randhir Jha | [Read More](https://medium.com/p/421bb265fd08) |
-| Thu, 31 Jul 2025 15:38:59 GMT | Why Some Bugs Slip Through: Common Reasons and How to Prevent Them | Vladimir Josifoski | [Read More](https://medium.com/p/e87f2a84a27e) |
-| Thu, 31 Jul 2025 15:25:04 GMT | Foot printing & Reconnaissance: The Ethical Art of Gathering Intel in Cybersecurity | Hussain Abbas | [Read More](https://medium.com/p/489bba72bd98) |
-| Thu, 31 Jul 2025 15:24:13 GMT | Set Token Expiry: Why Short-Lived Tokens Are Your Security Lifeline | sonal sadafal | [Read More](https://medium.com/p/403350f8fb2e) |
-| Thu, 31 Jul 2025 15:19:25 GMT | Advancing AI Beyond the Trivial: A Security-First Paradigm for IT | CyberSecured Solutions | [Read More](https://medium.com/p/52e1c4c9af28) |
-| Thu, 31 Jul 2025 15:16:39 GMT | What Do I Need Right Now? | Sahyandri Wankhede | [Read More](https://medium.com/p/88f9b41c505f) |
-| Thu, 31 Jul 2025 15:14:47 GMT | The Backbone of the Digital World: A Deep Dive Into Networking | Hussain Abbas | [Read More](https://medium.com/p/7c2fadf97bb1) |
