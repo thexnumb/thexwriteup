@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 10:18:31 GMT | Is 3-Tiers Architecture Justified? | Justified Code | [Read More](https://medium.com/p/20aa515851f0) |
+| Thu, 31 Jul 2025 10:09:33 GMT | Integrating Kali Linux with macOS Using Apple’s New Containerization Feature (2025) | Taha Ex | [Read More](https://medium.com/p/ef645ba51671) |
+| Thu, 31 Jul 2025 10:08:24 GMT | Day 67: SNMP | Nile Okomo | [Read More](https://medium.com/p/b81be10c1102) |
+| Thu, 31 Jul 2025 10:07:16 GMT | Learn about JWT if you want to Bypass Authentication | Mr Horbio | [Read More](https://medium.com/p/4f9ea587a786) |
+| Thu, 31 Jul 2025 10:06:34 GMT | How I Built My Own AI SOC (So You Can, Too): The Complete, Practically Detailed Roadmap | cybrNK | [Read More](https://medium.com/p/29fb9bf8e174) |
+| Thu, 31 Jul 2025 10:01:39 GMT | My Foundational Cybersecurity Trilogy: Conquering CompTIA A+, Network+, and Security+ | Ejike Etolue | [Read More](https://medium.com/p/2e7defc25870) |
+| Thu, 31 Jul 2025 10:01:39 GMT | HTB Starting Point Tier 0 Dancing ve Redeemer Makineleri Çözümleri ile Bilinmesi Gerekenler | Burhan Demir | [Read More](https://medium.com/p/9e9306ce2489) |
+| Thu, 31 Jul 2025 10:00:14 GMT | Understanding TP, FP, FN, and TN in Cybersecurity | Vineeth Tunk | [Read More](https://medium.com/p/8a8823e0205b) |
+| Thu, 31 Jul 2025 09:59:59 GMT | Understanding Hacking GraphQL — Part 3 | Redfox Security | [Read More](https://medium.com/p/38f56c7ea4fc) |
+| Thu, 31 Jul 2025 09:57:59 GMT | What is the Career Scope After BCA in India? | amecee.ashish | [Read More](https://medium.com/p/e333db0552a5) |
+| Thu, 31 Jul 2025 09:56:52 GMT | McDonald’s AI Hiring Breach: A Governance Wake-Up Call for High-Risk Systems | Kurt Geyrozaga | [Read More](https://medium.com/p/6f83d3b90c1a) |
+| Thu, 31 Jul 2025 09:56:46 GMT | How data is Ingested into SIEM Solution? | Devaaravindlutukurty | [Read More](https://medium.com/p/5d450c1d6200) |
+| Thu, 31 Jul 2025 09:55:08 GMT | Fishing for Secrets: How to Find Hidden API Keys Across GitHub, NPM, and PyPI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a79cde57eb08) |
+| Thu, 31 Jul 2025 09:54:38 GMT | Waking Watch Security: Your Trusted Fire Safety Solution | Professional UK Services | [Read More](https://medium.com/p/413ce48066e6) |
+| Thu, 31 Jul 2025 09:53:31 GMT | Top VAPT Companies in the USA in 2025 | Jay Chris Roberts | [Read More](https://medium.com/p/bad62888a3e6) |
 | Thu, 31 Jul 2025 09:36:09 GMT | Start Bug Bounty Earning Using OWASP Top 10 (Even If You’re a Complete Beginner) | Rashadul Islam | [Read More](https://medium.com/p/26361c7ab789) |
 | Thu, 31 Jul 2025 09:34:24 GMT | Path traversal | Usama Hanif | [Read More](https://medium.com/p/848c0499197d) |
 | Thu, 31 Jul 2025 09:29:37 GMT | Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/e5b16ac69287) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 04:51:34 GMT | Cybersecurity Reinvented: Inside the Best VAPT Services in Bangalore | Noahlucas | [Read More](https://medium.com/p/1796a678f787) |
 | Thu, 31 Jul 2025 04:42:17 GMT | How Our Cybersecurity Apps Defend Against Tomorrow’s Threats | Webtrills | [Read More](https://medium.com/p/4b0bbf4217fb) |
 | Thu, 31 Jul 2025 04:39:50 GMT | Building an SMS Spam Classifier from First Principles: Unpacking Naive Bayes for Cybersecurity | Menelik | [Read More](https://medium.com/p/df39ee45fd8c) |
-| Thu, 31 Jul 2025 04:35:51 GMT | What It Really Takes to Get Compliance Certifications Like SOC 2, HIPAA, ISO 27001, and Beyond | Swapnil Kulkarni | [Read More](https://medium.com/p/661d44ea5c33) |
-| Thu, 31 Jul 2025 04:32:00 GMT | Ready to Hack? Here’s How I Set Up My Hacking Environment (Without Getting Overwhelmed) | Ayush Kumar | [Read More](https://medium.com/p/fa8a553acf4d) |
-| Thu, 31 Jul 2025 04:31:57 GMT | What Happens to Your Deleted Data in the Cloud ? | Rahul Mishra | [Read More](https://medium.com/p/70180755813f) |
-| Thu, 31 Jul 2025 04:24:16 GMT | CSRF in Disguise: How a Tracking Pixel Let Me Steal User Actions Like a Spy | Iski | [Read More](https://medium.com/p/28c084002d1e) |
-| Thu, 31 Jul 2025 04:07:50 GMT | Cyber Security Expert Lecturer (Mr. David Sahyeon Baek) | Khairielputra | [Read More](https://medium.com/p/b77e0f56315c) |
-| Thu, 31 Jul 2025 04:04:01 GMT | Reverse Engineering: A Double-Edged Sword and How to Prevent It | Geeky Vartika | [Read More](https://medium.com/p/7f44498f6ab6) |
-| Thu, 31 Jul 2025 04:01:52 GMT | Server Software: Everything You Need to Know | HostNOC | [Read More](https://medium.com/p/3fc9f8759582) |
-| Thu, 31 Jul 2025 04:00:39 GMT | Scattered Spider Broadens Targets With New Ransomware and Hybrid Tactics | SafetyDetectives Research Team | [Read More](https://medium.com/p/5829d3fa03e2) |
-| Thu, 31 Jul 2025 03:58:02 GMT | Threats, Risks, Vulnerabilities — What? | BlueTeam Bytes | [Read More](https://medium.com/p/db33fd020d33) |
-| Thu, 31 Jul 2025 03:55:09 GMT | Why the Blockchain Is Safe for Everyone to Use in 2025 | Eye Of Unity | [Read More](https://medium.com/p/19c3f93610ec) |
-| Thu, 31 Jul 2025 03:54:59 GMT | Ultimate Guide: PortSwigger Authentication Labs — Full Details & Practical Exploitation | Gopal Mohan | [Read More](https://medium.com/p/9d97fd7d22a8) |
-| Thu, 31 Jul 2025 03:41:08 GMT | Burp Suite Tabs Explained: A Quick Guide to Every Tool | Paritosh | [Read More](https://medium.com/p/dc844590239c) |
-| Thu, 31 Jul 2025 03:38:34 GMT | Intentional friction: balancing security and usability in UX | Ian Araujo | [Read More](https://medium.com/p/dd9ce19a435e) |
-| Thu, 31 Jul 2025 03:35:08 GMT | Default Passwords are the Trojan Horses of the Digital World | Dr. Rakhi R Wadhwani | [Read More](https://medium.com/p/7a8a640b8a64) |
-| Thu, 31 Jul 2025 03:31:58 GMT | Why Issues Are Found in Production: A Deep Dive into Software Testing Gaps | Mayanksingh Rajput | [Read More](https://medium.com/p/88a7b7b4e7d2) |
