@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 07:39:40 GMT | Cybersecurity: A Paramount Issue In Today’s Day & Age | Daniel Goulyk | [Read More](https://medium.com/p/2d939b601eaf) |
+| Thu, 31 Jul 2025 07:37:35 GMT | Top 10 Website Security Best Practices Every Business Should Follow | Anashnidi | [Read More](https://medium.com/p/97917cc1d9d0) |
+| Thu, 31 Jul 2025 07:31:36 GMT | Control the Chaos: Learn Shell Paths, Bash Configs & I/O Magic (Part 2) | MayhemCode | [Read More](https://medium.com/p/99272517d844) |
+| Thu, 31 Jul 2025 07:20:13 GMT | Cybersecurity Threats in Today’s Connected Vehicles | Aditya Sharma | [Read More](https://medium.com/p/408efa41365b) |
+| Thu, 31 Jul 2025 07:19:36 GMT | Kremlin’s Nightmare Week: Digital Attacks Plunge Russia into Domestic Disarray | Leo Griffin | [Read More](https://medium.com/p/1d6f6e692b41) |
 | Thu, 31 Jul 2025 07:18:44 GMT | The Million-Dollar Lesson: How Password Neglect and Basic Security Failures Cripple Businesses | Egyda-Ai | [Read More](https://medium.com/p/755583984d6e) |
+| Thu, 31 Jul 2025 07:14:31 GMT | Deneyimlemeden Öğrenmeniz Gereken Güvenlik Açıkları | Poyrazavsever | [Read More](https://medium.com/p/55c31f58c2b2) |
 | Thu, 31 Jul 2025 07:12:50 GMT | Cybersecurity: The Silent Shield Every Business Needs to Survive & Grow | Seema D. | [Read More](https://medium.com/p/4139a411520a) |
 | Thu, 31 Jul 2025 07:11:07 GMT | India is leading the way in cloud computing, shaping its digital future | Bikash Peeripaul | [Read More](https://medium.com/p/4bb4642a1d24) |
 | Thu, 31 Jul 2025 07:09:18 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/578c8f965508) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 22:31:37 GMT | Watering Hole Attacks: Don’t Fall Prey to Hackers | Spokeo People Search | [Read More](https://medium.com/p/1b6058c57719) |
 | Wed, 30 Jul 2025 22:22:48 GMT | Why I Started Writing My Own Bash Scripts | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/ee265e71b16a) |
 | Wed, 30 Jul 2025 22:16:37 GMT | Secure Software Supply Chain: From Dependencies to Deployment | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d5d40f58e2c8) |
-| Wed, 30 Jul 2025 22:12:59 GMT | Breaking the Shield: Exploiting HTTP Headers in Web Applications | i4m_x | [Read More](https://medium.com/p/b7f9cc3ce670) |
-| Wed, 30 Jul 2025 22:07:14 GMT | 4 تا از بهترین هکر های دنیا | Cyber News | [Read More](https://medium.com/p/1f1362434443) |
-| Wed, 30 Jul 2025 22:00:37 GMT | Eskohl Consulting — Third-Party Risk Management (TPRM) Policy | Sharaden Cole | [Read More](https://medium.com/p/69bc360d8d37) |
-| Wed, 30 Jul 2025 21:47:41 GMT | 5 Sneaky Social Engineering Tactics You Should Watch Out For | Cyber Timi | [Read More](https://medium.com/p/46776b788c04) |
-| Wed, 30 Jul 2025 21:41:59 GMT | Log Analizi Nedir? Neden Önemlidir? | Bugra Arslan | [Read More](https://medium.com/p/b436f90cf195) |
-| Wed, 30 Jul 2025 21:41:51 GMT | Under Attack: The Hidden Risks of Ignoring Post-Attack Forensics | Bits Kingdom | [Read More](https://medium.com/p/5dae24873a4a) |
