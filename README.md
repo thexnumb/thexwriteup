@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 15:19:25 GMT | Advancing AI Beyond the Trivial: A Security-First Paradigm for IT | CyberSecured Solutions | [Read More](https://medium.com/p/52e1c4c9af28) |
+| Thu, 31 Jul 2025 15:16:39 GMT | What Do I Need Right Now? | Sahyandri Wankhede | [Read More](https://medium.com/p/88f9b41c505f) |
+| Thu, 31 Jul 2025 15:14:47 GMT | The Backbone of the Digital World: A Deep Dive Into Networking | Hussain Abbas | [Read More](https://medium.com/p/7c2fadf97bb1) |
+| Thu, 31 Jul 2025 15:14:01 GMT | در عصری که هوش مصنوعی دیگر فقط ابزار نیست، بلکه نقش تصمیم‌گیرنده را برعهده گرفته، پرسش‌های بنیادی… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/1ce6c38db5d5) |
+| Thu, 31 Jul 2025 15:07:17 GMT | ️ Tea App Data Breach: Where to Find the Data (Step-by-Step Guide) | CyberShiv | [Read More](https://medium.com/p/71f8000dae2d) |
+| Thu, 31 Jul 2025 15:05:20 GMT | Swag Shop - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/3ea050b67a3c) |
+| Thu, 31 Jul 2025 15:00:51 GMT | Proton Under Pressure? Privacy in a Post-Quantum World | Truspex | [Read More](https://medium.com/p/44b6c2480e16) |
+| Thu, 31 Jul 2025 14:57:53 GMT | “Cybersecurity is hard…” — A Student’s Plea (and a Lifeline) | Authlyn | [Read More](https://medium.com/p/15377caaec18) |
+| Thu, 31 Jul 2025 14:56:16 GMT | Understanding TLS and certificates | Armel de Marsac | [Read More](https://medium.com/p/c5e4b99d6e59) |
+| Thu, 31 Jul 2025 14:53:40 GMT | What is a “OSS Vulnerability Janitor”? | Jonathan Leitschuh | [Read More](https://medium.com/p/b7ab176bdd3f) |
+| Thu, 31 Jul 2025 14:50:06 GMT | UUSEC WAF | nosec | [Read More](https://medium.com/p/2847ddeb0c90) |
+| Thu, 31 Jul 2025 14:43:16 GMT | The Moat Between Us | AmusedAuthority | [Read More](https://medium.com/p/775a23d71a0e) |
 | Thu, 31 Jul 2025 14:42:13 GMT | 未来の私よ、コレを読め。webサイトの攻撃と対策 part 3 | ttt | [Read More](https://medium.com/p/5880d2b40249) |
+| Thu, 31 Jul 2025 14:41:07 GMT | The Human Illusion: Why the 1950 Turing Test Still Haunts AI over 70 years later. | secHERity | [Read More](https://medium.com/p/7e9700759129) |
 | Thu, 31 Jul 2025 14:37:50 GMT | OpenResty Manager | nosec | [Read More](https://medium.com/p/74695703656e) |
 | Thu, 31 Jul 2025 14:37:23 GMT | CISA KEV Additions and Advanced Threat Actors Disrupt Enterprise Security Posture | Loginsoft | [Read More](https://medium.com/p/64f1c1f63285) |
 | Thu, 31 Jul 2025 14:34:57 GMT | 5 Day Roundup | Caleb DeBari | [Read More](https://medium.com/p/18e0721eefe3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 10:32:49 GMT | Best Ethical Hacking Courses & Certificates Online. | Win In Life Academy | [Read More](https://medium.com/p/aa2c879fc111) |
 | Thu, 31 Jul 2025 10:29:34 GMT | What is a Buffer Overflow | Kanav Arora | [Read More](https://medium.com/p/c79a40a2daf9) |
 | Thu, 31 Jul 2025 10:18:31 GMT | Is 3-Tiers Architecture Justified? | Justified Code | [Read More](https://medium.com/p/20aa515851f0) |
-| Thu, 31 Jul 2025 10:09:33 GMT | Integrating Kali Linux with macOS Using Apple’s New Containerization Feature (2025) | Taha Ex | [Read More](https://medium.com/p/ef645ba51671) |
-| Thu, 31 Jul 2025 10:08:24 GMT | Day 67: SNMP | Nile Okomo | [Read More](https://medium.com/p/b81be10c1102) |
-| Thu, 31 Jul 2025 10:07:16 GMT | Learn about JWT if you want to Bypass Authentication | Mr Horbio | [Read More](https://medium.com/p/4f9ea587a786) |
-| Thu, 31 Jul 2025 10:06:34 GMT | How I Built My Own AI SOC (So You Can, Too): The Complete, Practically Detailed Roadmap | cybrNK | [Read More](https://medium.com/p/29fb9bf8e174) |
-| Thu, 31 Jul 2025 10:01:39 GMT | My Foundational Cybersecurity Trilogy: Conquering CompTIA A+, Network+, and Security+ | Ejike Etolue | [Read More](https://medium.com/p/2e7defc25870) |
-| Thu, 31 Jul 2025 10:01:39 GMT | HTB Starting Point Tier 0 Dancing ve Redeemer Makineleri Çözümleri ile Bilinmesi Gerekenler | Burhan Demir | [Read More](https://medium.com/p/9e9306ce2489) |
-| Thu, 31 Jul 2025 10:00:14 GMT | Understanding TP, FP, FN, and TN in Cybersecurity | Vineeth Tunk | [Read More](https://medium.com/p/8a8823e0205b) |
-| Thu, 31 Jul 2025 09:59:59 GMT | Understanding Hacking GraphQL — Part 3 | Redfox Security | [Read More](https://medium.com/p/38f56c7ea4fc) |
-| Thu, 31 Jul 2025 09:57:59 GMT | What is the Career Scope After BCA in India? | amecee.ashish | [Read More](https://medium.com/p/e333db0552a5) |
-| Thu, 31 Jul 2025 09:56:52 GMT | McDonald’s AI Hiring Breach: A Governance Wake-Up Call for High-Risk Systems | Kurt Geyrozaga | [Read More](https://medium.com/p/6f83d3b90c1a) |
-| Thu, 31 Jul 2025 09:56:46 GMT | How data is Ingested into SIEM Solution? | Devaaravindlutukurty | [Read More](https://medium.com/p/5d450c1d6200) |
-| Thu, 31 Jul 2025 09:55:08 GMT | Fishing for Secrets: How to Find Hidden API Keys Across GitHub, NPM, and PyPI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a79cde57eb08) |
-| Thu, 31 Jul 2025 09:54:38 GMT | Waking Watch Security: Your Trusted Fire Safety Solution | Professional UK Services | [Read More](https://medium.com/p/413ce48066e6) |
