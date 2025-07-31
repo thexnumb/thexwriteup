@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 21:38:25 GMT | When Randomness Backfires: Security Risks in AI | Patrick Walsh | [Read More](https://medium.com/p/a07b6e08dab0) |
+| Thu, 31 Jul 2025 21:22:34 GMT | Real World Vulnerable Code Analysis: CVE-2024–9461 (Remote Code Execution) | Jonas Benjamin Friedli | [Read More](https://medium.com/p/953536cf4181) |
+| Thu, 31 Jul 2025 21:20:28 GMT | Why Are API’s Not Secured? | API Expert | [Read More](https://medium.com/p/7e48b3295489) |
 | Thu, 31 Jul 2025 21:14:04 GMT | Cybersecurity | Farhan | [Read More](https://medium.com/p/94407464e545) |
 | Thu, 31 Jul 2025 21:13:56 GMT | $1000 in 30 Days: My Bug Bounty Breakthrough! | Shahzaib | [Read More](https://medium.com/p/becdad0e30cd) |
 | Thu, 31 Jul 2025 21:12:44 GMT | Smart Wireless Tracker for Items | Trexo | [Read More](https://medium.com/p/f7da3d9af216) |
+| Thu, 31 Jul 2025 21:12:01 GMT | IA em Vigilância Inteligente: Como Redes Neurais Convolucionais (CNNs) Podem Evitar Golpes Como o… | Vinicius Teixeira | [Read More](https://medium.com/p/58de8651601f) |
 | Thu, 31 Jul 2025 21:06:46 GMT | Digital Footprint: What Instagram, TikTok & Others Collects About You | Jan Szalasny | [Read More](https://medium.com/p/65c1ae6967e6) |
 | Thu, 31 Jul 2025 20:44:40 GMT | Direct vs Indirect Syscalls | S12 - 0x12Dark Development | [Read More](https://medium.com/p/420b568a8f9c) |
 | Thu, 31 Jul 2025 20:44:10 GMT | The Ultimate Solution to Cybersecurity Emerges | Benjamin Yan | [Read More](https://medium.com/p/0dce440276a5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 15:19:25 GMT | Advancing AI Beyond the Trivial: A Security-First Paradigm for IT | CyberSecured Solutions | [Read More](https://medium.com/p/52e1c4c9af28) |
 | Thu, 31 Jul 2025 15:16:39 GMT | What Do I Need Right Now? | Sahyandri Wankhede | [Read More](https://medium.com/p/88f9b41c505f) |
 | Thu, 31 Jul 2025 15:14:47 GMT | The Backbone of the Digital World: A Deep Dive Into Networking | Hussain Abbas | [Read More](https://medium.com/p/7c2fadf97bb1) |
-| Thu, 31 Jul 2025 15:14:01 GMT | در عصری که هوش مصنوعی دیگر فقط ابزار نیست، بلکه نقش تصمیم‌گیرنده را برعهده گرفته، پرسش‌های بنیادی… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/1ce6c38db5d5) |
-| Thu, 31 Jul 2025 15:07:17 GMT | ️ Tea App Data Breach: Where to Find the Data (Step-by-Step Guide) | CyberShiv | [Read More](https://medium.com/p/71f8000dae2d) |
-| Thu, 31 Jul 2025 15:05:20 GMT | Swag Shop - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/3ea050b67a3c) |
-| Thu, 31 Jul 2025 15:00:51 GMT | Proton Under Pressure? Privacy in a Post-Quantum World | Truspex | [Read More](https://medium.com/p/44b6c2480e16) |
