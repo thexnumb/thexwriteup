@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 08:24:16 GMT | VX AI Suite — AI Testing AI Platform | VXRL | [Read More](https://medium.com/p/383a7ee09db8) |
+| Thu, 31 Jul 2025 08:23:02 GMT | Day 2 in the Cloud: Getting Started with Amazon EC2 | Akshat | [Read More](https://medium.com/p/a7b90bc5bd3b) |
+| Thu, 31 Jul 2025 08:20:57 GMT | Your Data Isn’t Where You Think It Is… | JetkingChandigarh | [Read More](https://medium.com/p/79cfc699a82a) |
+| Thu, 31 Jul 2025 08:20:06 GMT | The Great Firewall: Will AI Defend Freedom or Fuel Control? | Sam | [Read More](https://medium.com/p/412b59c3c709) |
+| Thu, 31 Jul 2025 08:19:13 GMT | Poisoned Packages: How I Hacked the Build Pipeline Without Touching the App | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8796e9752516) |
+| Thu, 31 Jul 2025 08:18:38 GMT | Staying Ahead of Threats: Why IP Reputation & Risk Scoring Should Be in Your Security Stack | Fraudo.io | [Read More](https://medium.com/p/c917ffab3294) |
+| Thu, 31 Jul 2025 08:09:14 GMT | IBM — Cost of a Data Breach Report 2025 — The AI Oversight Gap | SOCFortress | [Read More](https://medium.com/p/e06ace712e16) |
+| Thu, 31 Jul 2025 08:04:24 GMT | PortSwigger — Cross-origin resource sharing (CORS) | Rza Shirinov | [Read More](https://medium.com/p/0b69134af002) |
+| Thu, 31 Jul 2025 07:58:24 GMT | Hudson Cybertec: A Benchmark in DNS Security and WordPress | 0trust0day | [Read More](https://medium.com/p/703029abf70c) |
+| Thu, 31 Jul 2025 07:46:42 GMT | AI Is Empowering Engineers in Cloud, DevOps, and Cybersecurity Roles. | Amol Rangari | [Read More](https://medium.com/p/bfabbc51e2fb) |
+| Thu, 31 Jul 2025 07:45:55 GMT | Massive AT&T Data Breach: Lessons Learned and the Role of Compliance in Prevention | Cisogenemarketing | [Read More](https://medium.com/p/2bec72832474) |
+| Thu, 31 Jul 2025 07:42:54 GMT | SQL injection attack, listing the database contents on Oracle | Zabed Ullah Poyel | [Read More](https://medium.com/p/0aa1c6ac4d37) |
 | Thu, 31 Jul 2025 07:39:40 GMT | Cybersecurity: A Paramount Issue In Today’s Day & Age | Daniel Goulyk | [Read More](https://medium.com/p/2d939b601eaf) |
 | Thu, 31 Jul 2025 07:37:35 GMT | Top 10 Website Security Best Practices Every Business Should Follow | Anashnidi | [Read More](https://medium.com/p/97917cc1d9d0) |
 | Thu, 31 Jul 2025 07:31:36 GMT | Control the Chaos: Learn Shell Paths, Bash Configs & I/O Magic (Part 2) | MayhemCode | [Read More](https://medium.com/p/99272517d844) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 01:07:31 GMT | How to Prevent Malware: 10 Proven Tips to Stay Safe Online | Timonéofearth | [Read More](https://medium.com/p/0703b7d76691) |
 | Thu, 31 Jul 2025 00:34:16 GMT | Protecting Citrix NetScaler from CitrixBleed 2: Detection and Mitigation Strategies for… | Criminal IP | [Read More](https://medium.com/p/4969057b2c78) |
 | Thu, 31 Jul 2025 00:31:52 GMT | 12 ~/.bashrc Hacks Hackers Can’t Live Without | Very Lazy Tech | [Read More](https://medium.com/p/09e89bb00f45) |
-| Thu, 31 Jul 2025 00:16:45 GMT | Top Private Messaging Applications 2025: Session versus Briar Detailed Analysis | BiyteLüm | [Read More](https://medium.com/p/54f24b1db288) |
-| Wed, 30 Jul 2025 23:37:31 GMT | Privacy, Promotion, and Platform Pitfalls: The Case of How Telegram’s Marketing Approach… | Rabel Catayoc, DM | [Read More](https://medium.com/p/b56afb06ab9c) |
-| Wed, 30 Jul 2025 23:28:02 GMT | The Digital Con Game: Why “Digital Dynasties” Captures Our Tech-Obsessed Moment | Ludostuartdouglas | [Read More](https://medium.com/p/3c4a5f9e19b1) |
-| Wed, 30 Jul 2025 23:16:38 GMT | OSCP Prep: DOG | Dino | [Read More](https://medium.com/p/a0002e8a478c) |
-| Wed, 30 Jul 2025 22:56:54 GMT | Don’t Click That PyPI Email — It Could Be a Supply Chain Time Bomb | Cyber-AppSec | [Read More](https://medium.com/p/2d70c11a76e5) |
-| Wed, 30 Jul 2025 22:45:38 GMT | ♦ Pwny CTF | löca | [Read More](https://medium.com/p/e1563ff75154) |
-| Wed, 30 Jul 2025 22:44:22 GMT | CTF Write-up: Dominando a Máquina TIME ⏳ | Jonathan M. | [Read More](https://medium.com/p/fe58ab8ca589) |
-| Wed, 30 Jul 2025 22:42:38 GMT | Tea App Exposed: How a “Safe Space” Became a Privacy Nightmare for 72,000 Women | Jeff Murdock | [Read More](https://medium.com/p/7bbed587d81b) |
-| Wed, 30 Jul 2025 22:36:22 GMT | Some Assembly Required 2 PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/0e45b0bf2390) |
-| Wed, 30 Jul 2025 22:31:37 GMT | Watering Hole Attacks: Don’t Fall Prey to Hackers | Spokeo People Search | [Read More](https://medium.com/p/1b6058c57719) |
-| Wed, 30 Jul 2025 22:22:48 GMT | Why I Started Writing My Own Bash Scripts | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/ee265e71b16a) |
-| Wed, 30 Jul 2025 22:16:37 GMT | Secure Software Supply Chain: From Dependencies to Deployment | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d5d40f58e2c8) |
