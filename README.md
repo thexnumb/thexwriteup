@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 23:30:35 GMT | Notes of an Old Guru: The DNS Temporary Attack | 0trust0day | [Read More](https://medium.com/p/952eba82db14) |
+| Thu, 31 Jul 2025 23:21:57 GMT | OSCP Privilege Escalation: Linux File Expansion | enigma_ | [Read More](https://medium.com/p/0d675612b0c6) |
+| Thu, 31 Jul 2025 23:19:44 GMT | ISMAP Management Standards Chapter 3: What is “Governance” for Information Security, Led by… | nolly | [Read More](https://medium.com/p/c459e3bc6b9e) |
+| Thu, 31 Jul 2025 23:19:41 GMT | TryHackMe OWASP TOP 10 2021 -WalkThrough | Kumari Amita Kishore | [Read More](https://medium.com/p/d3c59e8ec24b) |
 | Thu, 31 Jul 2025 23:15:15 GMT | Let’s Defend: 263 — SOC287 — Arbitrary File Read on Checkpoint Security Gateway [CVE-2024–24919] -… | EPereda | [Read More](https://medium.com/p/51ea8f10955b) |
 | Thu, 31 Jul 2025 23:14:42 GMT | How Hackers Are Hijacking Smart Devices to Build Silent Bot Armies | Akshay Chauhan | [Read More](https://medium.com/p/0a27d5726975) |
 | Thu, 31 Jul 2025 23:06:32 GMT | Mapping the Modern Identity Management Ecosystem: A Strategic Guide for Leaders | Deepak Gupta | [Read More](https://medium.com/p/91f0fc82c5bc) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 16:27:09 GMT | What Are Dedicated Servers and Why Do They Matter? | Timonéofearth | [Read More](https://medium.com/p/9c10b4cd9c86) |
 | Thu, 31 Jul 2025 16:21:37 GMT | Cross-Platform Modular Malware | Lord Murak | [Read More](https://medium.com/p/cdf082662ffd) |
 | Thu, 31 Jul 2025 16:18:10 GMT | Naval Group  : yes, AI is absolutely everywhere | Sirine Amrane | [Read More](https://medium.com/p/75318958dccb) |
-| Thu, 31 Jul 2025 16:09:37 GMT | Bug bounty for everypeople!!! | Mazinger | [Read More](https://medium.com/p/ef9935d637a3) |
-| Thu, 31 Jul 2025 16:05:06 GMT | CyberArk Architecture Explained — How the Components Work Together | Terence Imoma | [Read More](https://medium.com/p/66d94b59ccb8) |
-| Thu, 31 Jul 2025 16:04:41 GMT | How I Found Critical Vulns on Government Websites… While Asleep | KonaN | [Read More](https://medium.com/p/de8f44db9d15) |
-| Thu, 31 Jul 2025 16:03:26 GMT | PostgreSQL Roles and Permissions for Secure Apps | Rizqi Mulki | [Read More](https://medium.com/p/e405fb5bb193) |
