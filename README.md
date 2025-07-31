@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 10:39:26 GMT | Easy to be a PREY than PREDATOR | VInBloom | [Read More](https://medium.com/p/b10030f22ef9) |
+| Thu, 31 Jul 2025 10:32:49 GMT | Best Ethical Hacking Courses & Certificates Online. | Win In Life Academy | [Read More](https://medium.com/p/aa2c879fc111) |
+| Thu, 31 Jul 2025 10:29:34 GMT | What is a Buffer Overflow | Kanav Arora | [Read More](https://medium.com/p/c79a40a2daf9) |
 | Thu, 31 Jul 2025 10:18:31 GMT | Is 3-Tiers Architecture Justified? | Justified Code | [Read More](https://medium.com/p/20aa515851f0) |
 | Thu, 31 Jul 2025 10:09:33 GMT | Integrating Kali Linux with macOS Using Apple’s New Containerization Feature (2025) | Taha Ex | [Read More](https://medium.com/p/ef645ba51671) |
 | Thu, 31 Jul 2025 10:08:24 GMT | Day 67: SNMP | Nile Okomo | [Read More](https://medium.com/p/b81be10c1102) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 05:12:26 GMT | Is Your Web Application a Ticking Time Bomb? What OWASP Wants You to Know | Mammad Yahyayev | [Read More](https://medium.com/p/b47f1a56ce00) |
 | Thu, 31 Jul 2025 04:54:47 GMT | What is PKCE? | Neelendra Singh Tomar | [Read More](https://medium.com/p/3e0c257e7e7f) |
 | Thu, 31 Jul 2025 04:52:18 GMT | AI and the Future: How It’s Changing the World Now? | Charlotte Anderson | [Read More](https://medium.com/p/c8bcb7d6e29d) |
-| Thu, 31 Jul 2025 04:51:34 GMT | Cybersecurity Reinvented: Inside the Best VAPT Services in Bangalore | Noahlucas | [Read More](https://medium.com/p/1796a678f787) |
-| Thu, 31 Jul 2025 04:42:17 GMT | How Our Cybersecurity Apps Defend Against Tomorrow’s Threats | Webtrills | [Read More](https://medium.com/p/4b0bbf4217fb) |
-| Thu, 31 Jul 2025 04:39:50 GMT | Building an SMS Spam Classifier from First Principles: Unpacking Naive Bayes for Cybersecurity | Menelik | [Read More](https://medium.com/p/df39ee45fd8c) |
