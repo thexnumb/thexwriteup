@@ -12,9 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 07:18:44 GMT | The Million-Dollar Lesson: How Password Neglect and Basic Security Failures Cripple Businesses | Egyda-Ai | [Read More](https://medium.com/p/755583984d6e) |
+| Thu, 31 Jul 2025 07:12:50 GMT | Cybersecurity: The Silent Shield Every Business Needs to Survive & Grow | Seema D. | [Read More](https://medium.com/p/4139a411520a) |
+| Thu, 31 Jul 2025 07:11:07 GMT | India is leading the way in cloud computing, shaping its digital future | Bikash Peeripaul | [Read More](https://medium.com/p/4bb4642a1d24) |
+| Thu, 31 Jul 2025 07:09:18 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/578c8f965508) |
+| Thu, 31 Jul 2025 07:06:53 GMT | What Up Doe?! | Denise Jackson | [Read More](https://medium.com/p/bdbea8942c35) |
+| Thu, 31 Jul 2025 07:01:55 GMT | How Hackers Stole $1.5 Billion from Bybit: A Wake-Up Call for the Crypto Industry | Emre Demirhan | [Read More](https://medium.com/p/d6399de2fd14) |
+| Thu, 31 Jul 2025 07:01:48 GMT | FortiMonitor: Digital Experience Monitoring (DEM) Platform | Juara IT Solutions | [Read More](https://medium.com/p/750768282d0c) |
+| Thu, 31 Jul 2025 06:56:44 GMT | Tatildeyken Ev Güvenliği Nasıl Sağlanır? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/4b04f5c531df) |
+| Thu, 31 Jul 2025 06:56:28 GMT | Know JWT or Risk Getting Hacked: A Complete Developer’s Guide | Sai Pranav Moluguri | [Read More](https://medium.com/p/3d0b7f80e858) |
+| Thu, 31 Jul 2025 06:49:22 GMT | Philippines President to Visit India Next Week to Strengthen Defence And Maritime Ties | Media Eye News | [Read More](https://medium.com/p/d11483ab3841) |
+| Thu, 31 Jul 2025 06:48:12 GMT | Semperis 2025 Ransomware Study Reveals Relentless Cyberattacks on Global Organisations | Louise Rolfe | [Read More](https://medium.com/p/d62a9e57c982) |
+| Thu, 31 Jul 2025 06:45:50 GMT | Home Lab Chronicles: Part 01 — Setting up an OPNSense Firewall | Suprim Devkota | [Read More](https://medium.com/p/5498b8c914ae) |
+| Thu, 31 Jul 2025 06:45:44 GMT | Remote Code Execution Flaw Found in Yonyou U8 Cloud (All Versions Affected) | AerieWhole123 | [Read More](https://medium.com/p/4343d0f73ab1) |
+| Thu, 31 Jul 2025 06:41:15 GMT | How I Got Easy Admin Panel Access & Database Credentials — Bug Bounty Hunting | Pranav Patil | [Read More](https://medium.com/p/a16935d0d3b8) |
+| Thu, 31 Jul 2025 06:41:06 GMT | Why API Security Testing Is Essential for Modern Businesses | West Advanced Technologies Inc | [Read More](https://medium.com/p/e4b3772b4797) |
+| Thu, 31 Jul 2025 06:36:55 GMT | Missed Call From ‘Unknown’: My Life as a Hacker (Kinda) | xhiddebx | [Read More](https://medium.com/p/318934d3284e) |
+| Thu, 31 Jul 2025 06:35:56 GMT | This is How I *ALMOST* found my first bug. | Rabia Riaz | [Read More](https://medium.com/p/f3cfb9efdf0d) |
 | Thu, 31 Jul 2025 06:26:35 GMT | No, no todo fallo en login es una SQLi | Gorka | [Read More](https://medium.com/p/a21592652d96) |
 | Thu, 31 Jul 2025 06:25:13 GMT | The Crucial Role of Linux in Cybersecurity and How I Mastered It | Prabha | [Read More](https://medium.com/p/b48934d23bbb) |
 | Thu, 31 Jul 2025 06:24:51 GMT | Modern Encryption, Modern Monitoring: TLS 1.3 and Post-Quantum in the Real World | Techleadgurdeepgill | [Read More](https://medium.com/p/83dc33566302) |
+| Thu, 31 Jul 2025 06:24:12 GMT | The Hidden Dangers of Vibe Coding | Haroon Mansoori | [Read More](https://medium.com/p/db1edb041cb5) |
 | Thu, 31 Jul 2025 06:15:32 GMT | 1951 Rare 1-Rupee Note Turns into a High-Value Collectible in Pakistan | Osama Khan | [Read More](https://medium.com/p/d058520b3b6c) |
 | Thu, 31 Jul 2025 06:12:30 GMT | SafeLine vs. F5 Advanced WAF: Lightweight Agility or Enterprise Power? | AerieWhole123 | [Read More](https://medium.com/p/067f0bb24fe8) |
 | Thu, 31 Jul 2025 06:08:58 GMT | How to Set Up SOC Monitoring Without a Security Team: Affordable Security Operations for Small… | Anshul Goyal | [Read More](https://medium.com/p/9b8034481f88) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 21:47:41 GMT | 5 Sneaky Social Engineering Tactics You Should Watch Out For | Cyber Timi | [Read More](https://medium.com/p/46776b788c04) |
 | Wed, 30 Jul 2025 21:41:59 GMT | Log Analizi Nedir? Neden Önemlidir? | Bugra Arslan | [Read More](https://medium.com/p/b436f90cf195) |
 | Wed, 30 Jul 2025 21:41:51 GMT | Under Attack: The Hidden Risks of Ignoring Post-Attack Forensics | Bits Kingdom | [Read More](https://medium.com/p/5dae24873a4a) |
-| Wed, 30 Jul 2025 21:41:48 GMT | Palo Alto تستحوذ على CyberArk بقيمة 25 مليار دولار | katibatech | [Read More](https://medium.com/p/386274d0fcb0) |
-| Wed, 30 Jul 2025 21:36:59 GMT | Changing Course, From Horror to Hackers | Tom Torretti | [Read More](https://medium.com/p/54d7da28a5b5) |
-| Wed, 30 Jul 2025 21:32:07 GMT | WISSys: Revolutionizing Enterprise Physical Security Through Passive WiFi Monitoring | Dr Karim Patatas | [Read More](https://medium.com/p/2bdf54e1f20b) |
-| Wed, 30 Jul 2025 21:30:54 GMT | DUCTF 2025 — Skippy | codebreaker | [Read More](https://medium.com/p/a6aeed070227) |
-| Wed, 30 Jul 2025 21:22:18 GMT | Prompt Engineering and AI in Protostar | Ani | [Read More](https://medium.com/p/d2ae3a5a8b6a) |
-| Wed, 30 Jul 2025 21:12:24 GMT | Injectics — TryHackMe CTF Walkthrough | Ali Ahmed | [Read More](https://medium.com/p/cc399669e68e) |
-| Wed, 30 Jul 2025 21:11:52 GMT | Dark Web Links: What They Are and Why You Should Be Cautious | SafeAeon Inc. | [Read More](https://medium.com/p/a6765e9b29f7) |
-| Wed, 30 Jul 2025 21:01:38 GMT | Part 8: web3 Security — The Empowered User — Best Practices & The Path Forward | Ben San Roman | [Read More](https://medium.com/p/b8485f858e0b) |
-| Wed, 30 Jul 2025 20:59:33 GMT | Why We Pretend to Be Strong | Cristale | [Read More](https://medium.com/p/9cbd37878643) |
-| Wed, 30 Jul 2025 20:54:48 GMT | CyberDefenders: PoisonedCredentials Lab — Walkthrough | Luis Marquez | [Read More](https://medium.com/p/50dc57ac81f1) |
-| Wed, 30 Jul 2025 20:35:26 GMT | Introduction to Insecure Output Handling | Saniye Nur | [Read More](https://medium.com/p/a11a74767c39) |
-| Wed, 30 Jul 2025 20:34:04 GMT | Red Teaming 101: What It Is and Why It Matters in Modern Cyber security | CypherWolf | [Read More](https://medium.com/p/05a55e5d9ef5) |
-| Wed, 30 Jul 2025 20:27:01 GMT | The Day I Cried in Packages Mall Parking Lot | Maham Tanveer | [Read More](https://medium.com/p/844a08048b41) |
-| Wed, 30 Jul 2025 20:26:54 GMT | Are Your Devices Spying on You? What Every Business Needs to Know | Elijah Swanson | [Read More](https://medium.com/p/da58bb6b5b2f) |
-| Wed, 30 Jul 2025 20:25:02 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/84dfafffe99f) |
-| Wed, 30 Jul 2025 20:24:52 GMT | How LLMInspect could stop Anthropic Claude-style abuse in 2025 | Aysha Mir | [Read More](https://medium.com/p/529b9ac2a263) |
-| Wed, 30 Jul 2025 20:21:11 GMT | PicoCTF: Who Are You? — Writeup | 0xSudo | [Read More](https://medium.com/p/6c4358ee1319) |
-| Wed, 30 Jul 2025 20:21:10 GMT | VIPKeylogger Injection Analysis | atlas | [Read More](https://medium.com/p/a52f428e10a6) |
