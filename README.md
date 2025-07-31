@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 21:14:04 GMT | Cybersecurity | Farhan | [Read More](https://medium.com/p/94407464e545) |
+| Thu, 31 Jul 2025 21:13:56 GMT | $1000 in 30 Days: My Bug Bounty Breakthrough! | Shahzaib | [Read More](https://medium.com/p/becdad0e30cd) |
+| Thu, 31 Jul 2025 21:12:44 GMT | Smart Wireless Tracker for Items | Trexo | [Read More](https://medium.com/p/f7da3d9af216) |
+| Thu, 31 Jul 2025 21:06:46 GMT | Digital Footprint: What Instagram, TikTok & Others Collects About You | Jan Szalasny | [Read More](https://medium.com/p/65c1ae6967e6) |
 | Thu, 31 Jul 2025 20:44:40 GMT | Direct vs Indirect Syscalls | S12 - 0x12Dark Development | [Read More](https://medium.com/p/420b568a8f9c) |
 | Thu, 31 Jul 2025 20:44:10 GMT | The Ultimate Solution to Cybersecurity Emerges | Benjamin Yan | [Read More](https://medium.com/p/0dce440276a5) |
 | Thu, 31 Jul 2025 20:40:06 GMT | A Port Beyond the Horizon: Designing the Digital Nerve Center of Russia’s Most Advanced Seaport at… | 0trust0day | [Read More](https://medium.com/p/03ca5d1a4199) |
+| Thu, 31 Jul 2025 20:38:51 GMT | Command Injection Filter Bypass @ Root-me Walkthrough | Amr Elharery | [Read More](https://medium.com/p/bb71e8e3f9f0) |
 | Thu, 31 Jul 2025 20:37:10 GMT | CyberDefenders: Reveal Lab— Walkthrough | Luis Marquez | [Read More](https://medium.com/p/f8cda4322ef5) |
 | Thu, 31 Jul 2025 20:36:36 GMT | Web Gauntlet 3 — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/d8e922a357d5) |
 | Thu, 31 Jul 2025 20:26:39 GMT | Humans as Attack Vectors - Tryhackme | Aaron | [Read More](https://medium.com/p/69ac7d21118f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 15:07:17 GMT | ️ Tea App Data Breach: Where to Find the Data (Step-by-Step Guide) | CyberShiv | [Read More](https://medium.com/p/71f8000dae2d) |
 | Thu, 31 Jul 2025 15:05:20 GMT | Swag Shop - HTB Writeup - Linux | Antonio Perez | [Read More](https://medium.com/p/3ea050b67a3c) |
 | Thu, 31 Jul 2025 15:00:51 GMT | Proton Under Pressure? Privacy in a Post-Quantum World | Truspex | [Read More](https://medium.com/p/44b6c2480e16) |
-| Thu, 31 Jul 2025 14:57:53 GMT | “Cybersecurity is hard…” — A Student’s Plea (and a Lifeline) | Authlyn | [Read More](https://medium.com/p/15377caaec18) |
-| Thu, 31 Jul 2025 14:56:16 GMT | Understanding TLS and certificates | Armel de Marsac | [Read More](https://medium.com/p/c5e4b99d6e59) |
-| Thu, 31 Jul 2025 14:53:40 GMT | What is a “OSS Vulnerability Janitor”? | Jonathan Leitschuh | [Read More](https://medium.com/p/b7ab176bdd3f) |
-| Thu, 31 Jul 2025 14:50:06 GMT | UUSEC WAF | nosec | [Read More](https://medium.com/p/2847ddeb0c90) |
-| Thu, 31 Jul 2025 14:43:16 GMT | The Moat Between Us | AmusedAuthority | [Read More](https://medium.com/p/775a23d71a0e) |
