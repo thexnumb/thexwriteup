@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 14:18:38 GMT | I wouldn’t go to war for a woman like me | Darkenthusiastexpert | [Read More](https://medium.com/p/3771c5d5d58f) |
+| Thu, 31 Jul 2025 14:11:56 GMT | The UK’s Online Safety Act 2023 and the online adult industry. | Basil Manoussos, BSc,MSc,MBCS,ACSFS | [Read More](https://medium.com/p/3ec46339b9f8) |
+| Thu, 31 Jul 2025 14:10:26 GMT | Ignite — TryHackMe CTF Walkthrough | Ali Ahmed | [Read More](https://medium.com/p/d25b2614ebe2) |
+| Thu, 31 Jul 2025 14:08:40 GMT | Gremlin’s Guide : | Iangdonohue | [Read More](https://medium.com/p/5de7336d20ea) |
+| Thu, 31 Jul 2025 14:07:07 GMT | Write-up: WatchStore — TheHackersLabs | D4xt | [Read More](https://medium.com/p/2b311c4faf97) |
+| Thu, 31 Jul 2025 14:07:04 GMT | Why High-Security Bags Are Essential for Safeguarding Cash and Valuables During Transport | Sofiamcmahon | [Read More](https://medium.com/p/e8b4ab822fbb) |
+| Thu, 31 Jul 2025 14:06:17 GMT | (Tryhackme) — Year Of The JellyFish | Dair H | [Read More](https://medium.com/p/7c81fe6a47c3) |
+| Thu, 31 Jul 2025 14:03:49 GMT | Best Cloud Hosting for Accounting Firms in 2025 | Ayush Sharma | [Read More](https://medium.com/p/810b49861d4e) |
+| Thu, 31 Jul 2025 14:02:55 GMT | The Cost of Choosing the Wrong Tech Stack — A Lesson from A Tech Lead | CodeLink | [Read More](https://medium.com/p/b86c56605bc3) |
+| Thu, 31 Jul 2025 14:02:42 GMT | Cyber Briefing: 2025.07.31 | CyberMaterial | [Read More](https://medium.com/p/d5bad641a2d6) |
+| Thu, 31 Jul 2025 13:56:55 GMT | From Zero to EC2 Hero: How a Little Curiosity Can Lead to Big Hacks | CtrlC3 | [Read More](https://medium.com/p/288b3a0ea62f) |
+| Thu, 31 Jul 2025 13:54:25 GMT | 0x41haz Walkthrough TryHackMe | Moonlander | [Read More](https://medium.com/p/ed93735f718c) |
+| Thu, 31 Jul 2025 13:51:59 GMT | API Hacking’e Giriş: Modern Uygulamaların Görünmeyen Zayıf Noktaları bölüm 1 | Oruç | [Read More](https://medium.com/p/7b9898682054) |
+| Thu, 31 Jul 2025 13:34:34 GMT | IP Filtering for Neo4j Aura. Simpler and Stronger Network Security | Ian McCloy | [Read More](https://medium.com/p/ffe3eda8ed17) |
+| Thu, 31 Jul 2025 13:34:29 GMT | Forced Browsing: Unauthorized Endpoint Access | Muniza Badar | [Read More](https://medium.com/p/c926153504d4) |
 | Thu, 31 Jul 2025 13:31:18 GMT | The Daily Tech Digest: 31 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/28b726bddaf6) |
 | Thu, 31 Jul 2025 13:31:17 GMT | API testing Lab 2,Solve Step By Step | sukhveer singh | [Read More](https://medium.com/p/9bd44c84d1b2) |
 | Thu, 31 Jul 2025 13:21:48 GMT | AI in Everyday Life: 10 Ways You’re Already Using Artificial Intelligence | Payaam Raza | [Read More](https://medium.com/p/a04e99db1528) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 08:54:03 GMT | Why the Best Android App Developers Are Found Right Here in Your Country | Appcurators | [Read More](https://medium.com/p/fe3e886aad02) |
 | Thu, 31 Jul 2025 08:53:51 GMT | Data at Rest and Data in Transit in Modern Android Development | Dharma Kshetri | [Read More](https://medium.com/p/700c46ab7d6e) |
 | Thu, 31 Jul 2025 08:53:50 GMT | How a SOC Handles a Real Cyberattack | Neetrox | [Read More](https://medium.com/p/c2b551d3d815) |
-| Thu, 31 Jul 2025 08:52:32 GMT | Secret Ingredients for Secure Development: Achieving Fast and Accurate Secret Detection | Denis Makrushin | [Read More](https://medium.com/p/0cf351e74250) |
-| Thu, 31 Jul 2025 08:52:05 GMT | Ghost Commands: The Prompt Injection Exploit No Firewall Saw Coming | Pentestjunkie07 | [Read More](https://medium.com/p/f5b2ce38fa2a) |
-| Thu, 31 Jul 2025 08:47:56 GMT | Encrypting Local Data in ArkTS | Zulfu Balkan | [Read More](https://medium.com/p/09f154875c62) |
-| Thu, 31 Jul 2025 08:47:05 GMT | Breaking Free of Vendor Defaults: A New Era in Detection Engineering | Siddhant Mishra | [Read More](https://medium.com/p/95fe7f510210) |
-| Thu, 31 Jul 2025 08:43:51 GMT | Behind the Code: Deploying My Advanced Keylogger with Screenshot & Email Features | its lohith | [Read More](https://medium.com/p/debf581098c8) |
-| Thu, 31 Jul 2025 08:41:39 GMT | How to install metasploitable on macbook | Shubham Khanna | [Read More](https://medium.com/p/991094d3d522) |
-| Thu, 31 Jul 2025 08:38:57 GMT | Everest & the SAP SuccessFactors Campaign | VenariX, Inc. | [Read More](https://medium.com/p/ec21541b77e7) |
-| Thu, 31 Jul 2025 08:35:59 GMT | AWS Role Chaining: Respect the Limits, Reap the Power | Vishal | [Read More](https://medium.com/p/7a07aa703551) |
-| Thu, 31 Jul 2025 08:24:16 GMT | VX AI Suite — AI Testing AI Platform | VXRL | [Read More](https://medium.com/p/383a7ee09db8) |
-| Thu, 31 Jul 2025 08:23:02 GMT | Day 2 in the Cloud: Getting Started with Amazon EC2 | Akshat | [Read More](https://medium.com/p/a7b90bc5bd3b) |
-| Thu, 31 Jul 2025 08:20:57 GMT | Your Data Isn’t Where You Think It Is… | JetkingChandigarh | [Read More](https://medium.com/p/79cfc699a82a) |
-| Thu, 31 Jul 2025 08:20:06 GMT | The Great Firewall: Will AI Defend Freedom or Fuel Control? | Sam | [Read More](https://medium.com/p/412b59c3c709) |
-| Thu, 31 Jul 2025 08:19:13 GMT | Poisoned Packages: How I Hacked the Build Pipeline Without Touching the App | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8796e9752516) |
-| Thu, 31 Jul 2025 08:18:38 GMT | Staying Ahead of Threats: Why IP Reputation & Risk Scoring Should Be in Your Security Stack | Fraudo.io | [Read More](https://medium.com/p/c917ffab3294) |
-| Thu, 31 Jul 2025 08:09:14 GMT | IBM — Cost of a Data Breach Report 2025 — The AI Oversight Gap | SOCFortress | [Read More](https://medium.com/p/e06ace712e16) |
