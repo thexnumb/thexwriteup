@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 19:36:20 GMT | How I got RCE on redbull from recon (CVE-2025–30406) | ABDELKARIM MOUCHQUELITA | [Read More](https://medium.com/p/f0e702d131ce) |
+| Thu, 31 Jul 2025 19:30:34 GMT | Secure Coding Part 6 : Command Injection — Attack (Python ) | Siddiquimohammad | [Read More](https://medium.com/p/13922f22d45a) |
+| Thu, 31 Jul 2025 19:24:35 GMT | Secure Coding Review in Python — Real-Life Code, Real Security Lessons | Md. Shefayer Ahmed | [Read More](https://medium.com/p/f01900e50a49) |
+| Thu, 31 Jul 2025 19:17:12 GMT | Let’s Defend: 212 — SOC250 — APT35 HyperScrape Data Exfiltration Tool Detected - Writeup | EPereda | [Read More](https://medium.com/p/5709fc37fa52) |
 | Thu, 31 Jul 2025 19:16:36 GMT | Are You Even Traveling If You Don’t Cry at Least Once? | EscapeArtisan | [Read More](https://medium.com/p/5d7af9a49757) |
+| Thu, 31 Jul 2025 19:12:42 GMT | I Paid Someone to Break Into My House – Here’s Why | Johnson | [Read More](https://medium.com/p/6f0718ca9ed8) |
 | Thu, 31 Jul 2025 19:06:05 GMT | Patch Management as a Service: The Security Layer Your Business Can’t Ignore | SafeAeon Inc. | [Read More](https://medium.com/p/fa70b9059198) |
 | Thu, 31 Jul 2025 19:05:18 GMT | THM - Evil-GPT v2 | Francesco Pastore | [Read More](https://medium.com/p/653c9f6a8fe5) |
 | Thu, 31 Jul 2025 18:56:20 GMT | Building ngx-numeric-captcha: A Journey from Concept to npm Publication | Shreyashthorat | [Read More](https://medium.com/p/64f6d4ce91b0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 14:24:06 GMT | Making GDPR Compliance Manageable; One Identity at a Time | Openiam | [Read More](https://medium.com/p/65bd5cf2e633) |
 | Thu, 31 Jul 2025 14:20:41 GMT | AWS Account Governance — A Step-by-Step Security Implementation Guide | Sharaden Cole | [Read More](https://medium.com/p/8f119780b3c5) |
 | Thu, 31 Jul 2025 14:20:28 GMT | How Secure Packaging Safeguards Your Goods Against Theft and Fraud in the Supply Chain | Sofiamcmahon | [Read More](https://medium.com/p/734eb82353f7) |
-| Thu, 31 Jul 2025 14:18:38 GMT | I wouldn’t go to war for a woman like me | Darkenthusiastexpert | [Read More](https://medium.com/p/3771c5d5d58f) |
-| Thu, 31 Jul 2025 14:17:56 GMT | How CAPTCHA Protects Your Website from Bots and Spam | Tech Current Today | [Read More](https://medium.com/p/714c6ceebd49) |
-| Thu, 31 Jul 2025 14:11:56 GMT | The UK’s Online Safety Act 2023 and the online adult industry. | Basil Manoussos, BSc,MSc,MBCS,ACSFS | [Read More](https://medium.com/p/3ec46339b9f8) |
-| Thu, 31 Jul 2025 14:10:26 GMT | Ignite — TryHackMe CTF Walkthrough | Ali Ahmed | [Read More](https://medium.com/p/d25b2614ebe2) |
-| Thu, 31 Jul 2025 14:08:40 GMT | Gremlin’s Guide : | Iangdonohue | [Read More](https://medium.com/p/5de7336d20ea) |
