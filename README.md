@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 16:21:37 GMT | Cross-Platform Modular Malware | Lord Murak | [Read More](https://medium.com/p/cdf082662ffd) |
+| Thu, 31 Jul 2025 16:18:10 GMT | Naval Group  : yes, AI is absolutely everywhere | Sirine Amrane | [Read More](https://medium.com/p/75318958dccb) |
+| Thu, 31 Jul 2025 16:09:37 GMT | Bug bounty for everypeople!!! | Mazinger | [Read More](https://medium.com/p/ef9935d637a3) |
+| Thu, 31 Jul 2025 16:05:06 GMT | CyberArk Architecture Explained — How the Components Work Together | Terence Imoma | [Read More](https://medium.com/p/66d94b59ccb8) |
+| Thu, 31 Jul 2025 16:04:41 GMT | How I Found Critical Vulns on Government Websites… While Asleep | KonaN | [Read More](https://medium.com/p/de8f44db9d15) |
+| Thu, 31 Jul 2025 16:03:26 GMT | PostgreSQL Roles and Permissions for Secure Apps | Rizqi Mulki | [Read More](https://medium.com/p/e405fb5bb193) |
+| Thu, 31 Jul 2025 16:01:46 GMT | Mastering DNS Enumeration — Your Gateway to Real-World Cyber Recon | Rajkumar Kumawat | [Read More](https://medium.com/p/128eef4260e8) |
+| Thu, 31 Jul 2025 16:00:46 GMT | How I Bypassed Facebook’s Email Validation (Logic Flaw) | Abdullah Ahmed | [Read More](https://medium.com/p/de61cc81e25c) |
+| Thu, 31 Jul 2025 15:58:29 GMT | Insecure Deserialization in Java — A Deep Dive into One of the Most Dangerous Vulnerabilities | Amit Kumar Biswas @Amitlt2 | [Read More](https://medium.com/p/4cd1920773f3) |
+| Thu, 31 Jul 2025 15:55:50 GMT | MySQL + Web Security: Best Practices for Every Developer | Rizqi Mulki | [Read More](https://medium.com/p/c6831c172d96) |
+| Thu, 31 Jul 2025 15:55:28 GMT | Portswigger Academy: Access control vulnerabilities Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/26eb2facd8b3) |
+| Thu, 31 Jul 2025 15:53:57 GMT | How 3 Lines of Code Broke NVIDIA’s AI Cloud | Avnessh Kumar | [Read More](https://medium.com/p/05f47533941c) |
+| Thu, 31 Jul 2025 15:52:02 GMT | Control, Anonymity, Freedom | Kelvenr | [Read More](https://medium.com/p/109605b035d0) |
+| Thu, 31 Jul 2025 15:50:45 GMT | Don’t Let Hackers Steal Data via Misconfigured Databases | Rizqi Mulki | [Read More](https://medium.com/p/ea4a8505bfc4) |
+| Thu, 31 Jul 2025 15:49:55 GMT | Port Security in CCNP & FortiGate — Your First Line of Network Defense! | Himanshu Sahu | [Read More](https://medium.com/p/0fbc039e26a2) |
+| Thu, 31 Jul 2025 15:48:44 GMT | Portswigger Academy: Access control vulnerabilities Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/2fb6e1452d37) |
+| Thu, 31 Jul 2025 15:47:07 GMT | What core skills should I master first for modern penetration testing in 2025 | Mainekdeveloper | [Read More](https://medium.com/p/86bcef95665c) |
+| Thu, 31 Jul 2025 15:46:43 GMT | We Were Taught to Be Rocks. It’s Time to Learn to Bend. | Randhir Jha | [Read More](https://medium.com/p/421bb265fd08) |
 | Thu, 31 Jul 2025 15:38:59 GMT | Why Some Bugs Slip Through: Common Reasons and How to Prevent Them | Vladimir Josifoski | [Read More](https://medium.com/p/e87f2a84a27e) |
+| Thu, 31 Jul 2025 15:25:04 GMT | Foot printing & Reconnaissance: The Ethical Art of Gathering Intel in Cybersecurity | Hussain Abbas | [Read More](https://medium.com/p/489bba72bd98) |
 | Thu, 31 Jul 2025 15:24:13 GMT | Set Token Expiry: Why Short-Lived Tokens Are Your Security Lifeline | sonal sadafal | [Read More](https://medium.com/p/403350f8fb2e) |
 | Thu, 31 Jul 2025 15:19:25 GMT | Advancing AI Beyond the Trivial: A Security-First Paradigm for IT | CyberSecured Solutions | [Read More](https://medium.com/p/52e1c4c9af28) |
 | Thu, 31 Jul 2025 15:16:39 GMT | What Do I Need Right Now? | Sahyandri Wankhede | [Read More](https://medium.com/p/88f9b41c505f) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 11:43:28 GMT | From Missiles to Metaverses: Mapping India’s Strategic and Digital Frontiers | Cosmic Ink | [Read More](https://medium.com/p/bca2987d8c18) |
 | Thu, 31 Jul 2025 11:38:13 GMT | Top AI‑Powered Cybersecurity Threats in 2025 | Quintin Del-Vierro | [Read More](https://medium.com/p/4b22d1c55db7) |
 | Thu, 31 Jul 2025 11:37:31 GMT | Assessing Value Chain and Component Integrations Risk in an Enterprise AI System (as per NIST AI… | Devaraj Mohan | [Read More](https://medium.com/p/13866b4aff42) |
-| Thu, 31 Jul 2025 11:33:04 GMT | TryHackMe Walkthrough: The Sticker Shop | cyberwinx | [Read More](https://medium.com/p/f3bfc09baadb) |
-| Thu, 31 Jul 2025 11:31:23 GMT | Top 7 Browser Extensions That Protect You from Cyber Threats in 2025 | Richardhonour | [Read More](https://medium.com/p/5e23e589fec6) |
-| Thu, 31 Jul 2025 11:27:28 GMT | Information Security Training vs Ethical Hacking Training: What Should You Opt for? | Rahul Sharma | [Read More](https://medium.com/p/013e477cd863) |
-| Thu, 31 Jul 2025 11:26:39 GMT | Day 58: Emerging Technology: AI, ML, and Privacy in GRC | Brittney Ginther | [Read More](https://medium.com/p/53712eef67d4) |
-| Thu, 31 Jul 2025 11:23:06 GMT | The Smartest Target: Why We Shouldn’t Trust AI Blindly | Travis Ray Caverhill | [Read More](https://medium.com/p/2e634a295381) |
-| Thu, 31 Jul 2025 11:15:54 GMT | Secrets of Cross-Site Scripting (XSS) | Ahmed Elsayyad | [Read More](https://medium.com/p/52a2a7364871) |
-| Thu, 31 Jul 2025 11:11:47 GMT | Deepfakes in Court: The Legal System’s Looming Crisis | Travis Ray Caverhill | [Read More](https://medium.com/p/1a6d391f66b9) |
-| Thu, 31 Jul 2025 11:10:40 GMT | Beginner’s Guide to Active Reconnaissance (Part 4): Discovering Live Hosts with UDP Tools | Ar-jay A. Ballaco | [Read More](https://medium.com/p/4f5da8636e1d) |
-| Thu, 31 Jul 2025 11:09:05 GMT | Cyber Security: what we need to know. | VeeJay Lao | [Read More](https://medium.com/p/04baef3a55e2) |
-| Thu, 31 Jul 2025 11:08:00 GMT | Pentesting LLMs: A Begineer’s perspective | Manas Harsh | [Read More](https://medium.com/p/0f0df5a227a4) |
-| Thu, 31 Jul 2025 11:02:54 GMT | 1inch unveils a token warning system | 1inch | [Read More](https://medium.com/p/8382e1dcc345) |
-| Thu, 31 Jul 2025 11:00:53 GMT | Page Admin Disclosure via WebSocket on Facebook ( $XXXX 4-Figures Bounty ). | Hassan Khazaal | [Read More](https://medium.com/p/2fbfa34fe978) |
-| Thu, 31 Jul 2025 10:58:12 GMT | Core Changes in Android 16 (Code Named “Baklava”) | Prahalad Sharma | [Read More](https://medium.com/p/5bdb002af380) |
-| Thu, 31 Jul 2025 10:57:37 GMT | Drosera: Redefining Security in Web3 | Chukwujoshua | [Read More](https://medium.com/p/135481a92163) |
-| Thu, 31 Jul 2025 10:54:29 GMT | The Hidden Cost of InnerHTML in 2025 and What to Use Instead? | Asian Digital Hub | [Read More](https://medium.com/p/d09eb9ddf27f) |
-| Thu, 31 Jul 2025 10:52:08 GMT | Cyber Security in the real world: Why strengthening your organisation’s defences is no longer… | Richard J. Thorne | [Read More](https://medium.com/p/22b7db97869e) |
-| Thu, 31 Jul 2025 10:47:48 GMT | He Promised Me a Future. What I Got Was a Cage | Freedom Writer | [Read More](https://medium.com/p/c1fc3e6e1ebd) |
-| Thu, 31 Jul 2025 10:39:26 GMT | Easy to be a PREY than PREDATOR | VInBloom | [Read More](https://medium.com/p/b10030f22ef9) |
-| Thu, 31 Jul 2025 10:32:49 GMT | Best Ethical Hacking Courses & Certificates Online. | Win In Life Academy | [Read More](https://medium.com/p/aa2c879fc111) |
