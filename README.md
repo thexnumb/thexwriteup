@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 18:17:56 GMT | Detecting Living-off-the-Land (LOLBAS) Attacks with Sigma Rules | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/340e441fc444) |
+| Thu, 31 Jul 2025 18:08:12 GMT | “DeepFace” Kimin Gerçek Olduğunu Nasıl Anlayacağız? | UniVerse | [Read More](https://medium.com/p/15418fcc364e) |
+| Thu, 31 Jul 2025 18:06:30 GMT | How Large Language Models (LLMs) in Cybersecurity Secure Our Future? - USCSI® | United States Cybersecurity Institute (USCSI®) | [Read More](https://medium.com/p/45a0a9730084) |
+| Thu, 31 Jul 2025 18:03:08 GMT | The Compliance Trap: Chasing Checkboxes Is Sabotaging Your Organization’s Security | Nimish Agarwal | [Read More](https://medium.com/p/2f030e075a36) |
+| Thu, 31 Jul 2025 18:01:57 GMT | Polter’s $12M Oracle Exploit, CloberDex’s Reentrancy, and Coin31’s Access Control Failure | Olympix | [Read More](https://medium.com/p/a16f0005f729) |
+| Thu, 31 Jul 2025 18:00:23 GMT | Insecure Direct Object Reference (IDOR): Buggy Buy’s Broken Access Control | Muniza Badar | [Read More](https://medium.com/p/5a59bba49610) |
+| Thu, 31 Jul 2025 18:00:22 GMT | Cyber Insurance: Your Digital Safety Net | Aastha Thakker | [Read More](https://medium.com/p/4a7290f7214e) |
+| Thu, 31 Jul 2025 17:59:58 GMT | Business Logic Flaw: Price Manipulation in buggy buy | Muniza Badar | [Read More](https://medium.com/p/62b050eea93b) |
+| Thu, 31 Jul 2025 17:56:44 GMT | ️ What You Actually Do as a Cybersecurity Analyst | Uplatz | [Read More](https://medium.com/p/d6baa5c5176b) |
+| Thu, 31 Jul 2025 17:49:09 GMT | Security-as-a-Service (SECaaS): Everything You Need to Know - USCSI® | United States Cybersecurity Institute (USCSI®) | [Read More](https://medium.com/p/cb0f169dbfe7) |
+| Thu, 31 Jul 2025 17:46:02 GMT | CMMC 2.0 Readiness: Essential Preparation Tips for DoD Contractors | ISI Defense | [Read More](https://medium.com/p/58cd0465a88c) |
+| Thu, 31 Jul 2025 17:41:23 GMT | Lost Your Phone? These Spy Apps Will Help You Find It in a Jiffy | Narjis Batool | [Read More](https://medium.com/p/2ce17d53c2ed) |
 | Thu, 31 Jul 2025 17:32:04 GMT | Serverless Rules CDK Nag Pack | Serverless Advocate | [Read More](https://medium.com/p/338f50d68215) |
 | Thu, 31 Jul 2025 17:16:23 GMT | Log4Shell in 2025: Why It’s Still a Bug Bounty Goldmine | Kalariya Het | [Read More](https://medium.com/p/493344e84b0e) |
 | Thu, 31 Jul 2025 17:09:09 GMT | 7 Life-Saving Cybersecurity Habits Most People Ignore (But Shouldn’t) | Masonmarkus | [Read More](https://medium.com/p/6ce668e40296) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 13:34:34 GMT | IP Filtering for Neo4j Aura. Simpler and Stronger Network Security | Ian McCloy | [Read More](https://medium.com/p/ffe3eda8ed17) |
 | Thu, 31 Jul 2025 13:34:29 GMT | Forced Browsing: Unauthorized Endpoint Access | Muniza Badar | [Read More](https://medium.com/p/c926153504d4) |
 | Thu, 31 Jul 2025 13:31:18 GMT | The Daily Tech Digest: 31 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/28b726bddaf6) |
-| Thu, 31 Jul 2025 13:31:17 GMT | API testing Lab 2,Solve Step By Step | sukhveer singh | [Read More](https://medium.com/p/9bd44c84d1b2) |
-| Thu, 31 Jul 2025 13:21:48 GMT | AI in Everyday Life: 10 Ways You’re Already Using Artificial Intelligence | Payaam Raza | [Read More](https://medium.com/p/a04e99db1528) |
-| Thu, 31 Jul 2025 13:13:51 GMT | Examining the Target Data Breach of 2013 | Alex Riley | [Read More](https://medium.com/p/154d5d05c89c) |
-| Thu, 31 Jul 2025 13:10:58 GMT | Write-up - Smol | hxnxp | [Read More](https://medium.com/p/e3cc6eb0c738) |
-| Thu, 31 Jul 2025 13:04:53 GMT | Dynamic Malware Analysis #1 — LetsDefend | Atlas Security | [Read More](https://medium.com/p/ddabe3944e88) |
-| Thu, 31 Jul 2025 13:03:22 GMT | The Fat Kid I’ll Always Be | Daniel Segev | [Read More](https://medium.com/p/82eca2864fb8) |
-| Thu, 31 Jul 2025 13:02:36 GMT | AI Security Isn’t Magic — It’s a Multi-Cloud Chess Match (and You’re in It) | WayneReidUK | [Read More](https://medium.com/p/aff7b754f19e) |
-| Thu, 31 Jul 2025 13:02:18 GMT | The Silent Bug Hiding in Your async/await Code | Hash Block | [Read More](https://medium.com/p/7118f42c8457) |
-| Thu, 31 Jul 2025 13:02:15 GMT | Seeing Clearly: Why Logging and Monitoring Are Security Architecture Essentials | Christina Irick | [Read More](https://medium.com/p/4f42f545ca4b) |
-| Thu, 31 Jul 2025 13:02:15 GMT | The Silent Bug Hiding in Your async/await Code | Bhagya Rana | [Read More](https://medium.com/p/4f41120e38fc) |
-| Thu, 31 Jul 2025 13:00:54 GMT | Hypervisor Ransomware: CVE-2024–37085, AD Abuse, and the Escalating Threat to VMware ESXi… | Wes Young | [Read More](https://medium.com/p/2d547806d4e4) |
-| Thu, 31 Jul 2025 12:59:52 GMT | Java Code Analysis!?! - Write-up | Omar Budran | [Read More](https://medium.com/p/650d860704d9) |
