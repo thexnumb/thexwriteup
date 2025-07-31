@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 01:41:46 GMT | Pembelajaran untuk memahami Cyber Security | Marifsetyautama | [Read More](https://medium.com/p/4195eebdfb01) |
+| Thu, 31 Jul 2025 01:27:54 GMT | Tayvan'da 2025 yılında iki büyük hastaneyi hedef alan yıkıcı bir fidye yazılımı saldırısı… | Serhat Çallı | [Read More](https://medium.com/p/5e026fdbb3c7) |
+| Thu, 31 Jul 2025 01:21:07 GMT | Caido…the new orange ? | Walter Cuestas | [Read More](https://medium.com/p/50f00e9b5140) |
+| Thu, 31 Jul 2025 01:19:04 GMT | Getting Started with nftables — The Modern Linux Firewall | Pawan Koirala | [Read More](https://medium.com/p/86295774a1b7) |
+| Thu, 31 Jul 2025 01:09:00 GMT | Palo Alto Networks to Acquire CyberArk | Raviteja Mureboina | [Read More](https://medium.com/p/ae108aaacdd8) |
+| Thu, 31 Jul 2025 01:07:31 GMT | How to Prevent Malware: 10 Proven Tips to Stay Safe Online | Timonéofearth | [Read More](https://medium.com/p/0703b7d76691) |
+| Thu, 31 Jul 2025 00:34:16 GMT | Protecting Citrix NetScaler from CitrixBleed 2: Detection and Mitigation Strategies for… | Criminal IP | [Read More](https://medium.com/p/4969057b2c78) |
+| Thu, 31 Jul 2025 00:31:52 GMT | 12 ~/.bashrc Hacks Hackers Can’t Live Without | Very Lazy Tech | [Read More](https://medium.com/p/09e89bb00f45) |
+| Thu, 31 Jul 2025 00:16:45 GMT | Top Private Messaging Applications 2025: Session versus Briar Detailed Analysis | BiyteLüm | [Read More](https://medium.com/p/54f24b1db288) |
 | Wed, 30 Jul 2025 23:37:31 GMT | Privacy, Promotion, and Platform Pitfalls: The Case of How Telegram’s Marketing Approach… | Rabel Catayoc, DM | [Read More](https://medium.com/p/b56afb06ab9c) |
 | Wed, 30 Jul 2025 23:28:02 GMT | The Digital Con Game: Why “Digital Dynasties” Captures Our Tech-Obsessed Moment | Ludostuartdouglas | [Read More](https://medium.com/p/3c4a5f9e19b1) |
 | Wed, 30 Jul 2025 23:16:38 GMT | OSCP Prep: DOG | Dino | [Read More](https://medium.com/p/a0002e8a478c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 17:40:58 GMT | Anger – when everything just stay inside | Rahul Gupta | [Read More](https://medium.com/p/8a43ab740e54) |
 | Wed, 30 Jul 2025 17:40:57 GMT | Why Your Business Needs Cyber Threat Intelligence (Before It’s Too Late) | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/03657800f03f) |
 | Wed, 30 Jul 2025 17:39:05 GMT | Your Workflow Automation (N8n, Make &Co.) Got Hacked? Here’s What You Can Do | AI Rabbit | [Read More](https://medium.com/p/38a365c08801) |
-| Wed, 30 Jul 2025 17:38:05 GMT | Wireshark Network Forensics and Malware Investigation | Luis Fernando Murillo | [Read More](https://medium.com/p/e4544a27934a) |
-| Wed, 30 Jul 2025 17:29:48 GMT | From Exposed API Key to Arbitrary Account Creation: A GraphQL Bug Bounty Walkthrough | Utkarsh Srivastava | [Read More](https://medium.com/p/af0d26accab3) |
-| Wed, 30 Jul 2025 17:29:25 GMT | y’all confused about cybersecurity??? | Muhammed Afnaan | [Read More](https://medium.com/p/c48738b18d50) |
-| Wed, 30 Jul 2025 17:28:53 GMT | Infosys to Hire 20,000 Freshers While TCS Cuts 12,000 Jobs: A Tale of Two Tech Giants | Anoopam Mani. | [Read More](https://medium.com/p/ef6bae97f242) |
-| Wed, 30 Jul 2025 17:22:46 GMT | Hall of Fame: Open Redirect Vulnerability in Ericsson Job Portal | Gourav(spidergk) | [Read More](https://medium.com/p/7f9a2e77bd77) |
-| Wed, 30 Jul 2025 17:20:00 GMT | Securing Telecom Infrastructure at Scale: Understanding SAN Certificates, Their Use in 5G/Cloud… | Swarnendu Das | [Read More](https://medium.com/p/872ca11d5f3c) |
-| Wed, 30 Jul 2025 17:06:01 GMT | Temporary File Storage in Spring Boot During Form Submission Flows | Alexander Obregon | [Read More](https://medium.com/p/64b436b65827) |
-| Wed, 30 Jul 2025 17:01:57 GMT | Protecting Against XSS and CSRF Attacks in Node.js: A Developer’s Guide | habtesoft | [Read More](https://medium.com/p/dc257a29b372) |
-| Wed, 30 Jul 2025 16:58:25 GMT | The Ghost in the Machine: How Stolen Keys Haunt Your Network Long After a Patch | Karla Ortiz-Flores | [Read More](https://medium.com/p/b4cd91cdfc41) |
