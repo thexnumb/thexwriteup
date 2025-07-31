@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 16:54:20 GMT | The Invisible Skill Behind Great AI Results: Why Prompt Engineering Matters More Than You Think | Aaryan | [Read More](https://medium.com/p/af098073b360) |
+| Thu, 31 Jul 2025 16:53:30 GMT | Old Data, New Threat: How the 2024 Snowflake Hack Fueled AT&T’s 2025 Breach | Kalariya Het | [Read More](https://medium.com/p/86b8a100ef6e) |
+| Thu, 31 Jul 2025 16:53:08 GMT | Human Error: The Hidden Threat in Cybersecurity | Shieldnova | [Read More](https://medium.com/p/983c773eaa5b) |
+| Thu, 31 Jul 2025 16:45:03 GMT | Advanced Web Security Techniques to Stay Ahead of Hackers. | Kevin Asutton | [Read More](https://medium.com/p/ba3090d9e038) |
+| Thu, 31 Jul 2025 16:40:16 GMT | love walks in, chaos follows close behind | Andie | [Read More](https://medium.com/p/8c1be474d5ee) |
+| Thu, 31 Jul 2025 16:37:18 GMT | Hồ sơ năng lực công ty bảo vệ Đại An Group | DaiAnGroup | [Read More](https://medium.com/p/1dd3264bad2d) |
+| Thu, 31 Jul 2025 16:37:10 GMT | XSS — Server Side -Root Me | Ahmed Elsayyad | [Read More](https://medium.com/p/e152c6a783a5) |
+| Thu, 31 Jul 2025 16:36:10 GMT | From Beginner to PJPT: My Real Experience as a First-Time Pentester | Kent Michael | [Read More](https://medium.com/p/a370b0e4d831) |
+| Thu, 31 Jul 2025 16:36:01 GMT | Why Cloudflare is not protecting you from DDoS anymore? | Vedran Jakovac | [Read More](https://medium.com/p/fc29f81a2587) |
+| Thu, 31 Jul 2025 16:31:47 GMT | Let’s Defend: 304 — SOC326 — Impersonating Domain MX Record Change Detected - Writeup | EPereda | [Read More](https://medium.com/p/bbf7a6f4c92f) |
+| Thu, 31 Jul 2025 16:30:08 GMT | Government Funding Opportunities for Career Courses in 2025 — What You Need to Know. | Nextstep nexus | [Read More](https://medium.com/p/32d6b7afdd14) |
+| Thu, 31 Jul 2025 16:28:31 GMT | CyberDefender: ‘XWorm’ Lab Challenge Writeup | dead.shut | [Read More](https://medium.com/p/ac7c426042a1) |
+| Thu, 31 Jul 2025 16:27:09 GMT | What Are Dedicated Servers and Why Do They Matter? | Timonéofearth | [Read More](https://medium.com/p/9c10b4cd9c86) |
 | Thu, 31 Jul 2025 16:21:37 GMT | Cross-Platform Modular Malware | Lord Murak | [Read More](https://medium.com/p/cdf082662ffd) |
 | Thu, 31 Jul 2025 16:18:10 GMT | Naval Group  : yes, AI is absolutely everywhere | Sirine Amrane | [Read More](https://medium.com/p/75318958dccb) |
 | Thu, 31 Jul 2025 16:09:37 GMT | Bug bounty for everypeople!!! | Mazinger | [Read More](https://medium.com/p/ef9935d637a3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 12:32:32 GMT | How to become an effective Teacher? | Solomon Ashagre | [Read More](https://medium.com/p/f40559b01b56) |
 | Thu, 31 Jul 2025 12:30:40 GMT | Someone like you wouldn’t choose someone like me | Darkenthusiastexpert | [Read More](https://medium.com/p/686ba893f1f6) |
 | Thu, 31 Jul 2025 12:27:23 GMT | Güvenlik File S | ReklamWeb | [Read More](https://medium.com/p/bc78bf1a2288) |
-| Thu, 31 Jul 2025 12:24:18 GMT | Common Mistakes Companies Make When Applying Privacy by Design Principles. | sanya | [Read More](https://medium.com/p/5f2d82ecc6d2) |
-| Thu, 31 Jul 2025 12:23:40 GMT | Encrypted Chat (Who needs signal?) | Paul Vella | [Read More](https://medium.com/p/ef372ff99bad) |
-| Thu, 31 Jul 2025 12:15:24 GMT | MFA Fatigue: How Habituation Opens Doors for Hackers? | Sewar Khalifeh | [Read More](https://medium.com/p/0671f4317ee7) |
-| Thu, 31 Jul 2025 12:14:46 GMT | Step-by-Step Guide on how to setup AWS Elastic Disaster Recovery Walkthrough | Mmesoma Okaro | [Read More](https://medium.com/p/7cfbcf93aa69) |
-| Thu, 31 Jul 2025 12:09:22 GMT | Kickstart your career with a comprehensive cybersecurity course in Trivandrum offered by Offenso… | Sandrazeraa | [Read More](https://medium.com/p/f3f4a66cbc55) |
-| Thu, 31 Jul 2025 12:07:56 GMT | PCI DSS for Beginners: Get Compliant Without the Headaches | SecureSlate | [Read More](https://medium.com/p/2b715de0dd0f) |
-| Thu, 31 Jul 2025 11:58:53 GMT | How Evrone Enhanced PMT Online’s Telehealth Platform with a Robust Backend | Ekaterina | [Read More](https://medium.com/p/abc81cdd2b92) |
-| Thu, 31 Jul 2025 11:57:18 GMT | WorldWide CTF “Faulty Curve” Challenge Writeup (Cryptography) | Ahmed Yacine Allag | [Read More](https://medium.com/p/782a26fc6595) |
-| Thu, 31 Jul 2025 11:56:37 GMT | Where to Find Reliable Penetration Testing Services Today | SecDesk | [Read More](https://medium.com/p/1bb89427adcd) |
-| Thu, 31 Jul 2025 11:49:54 GMT | Are Security and Privacy by Design Services essential? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/f77c0ec1022c) |
-| Thu, 31 Jul 2025 11:43:28 GMT | From Missiles to Metaverses: Mapping India’s Strategic and Digital Frontiers | Cosmic Ink | [Read More](https://medium.com/p/bca2987d8c18) |
-| Thu, 31 Jul 2025 11:38:13 GMT | Top AI‑Powered Cybersecurity Threats in 2025 | Quintin Del-Vierro | [Read More](https://medium.com/p/4b22d1c55db7) |
-| Thu, 31 Jul 2025 11:37:31 GMT | Assessing Value Chain and Component Integrations Risk in an Enterprise AI System (as per NIST AI… | Devaraj Mohan | [Read More](https://medium.com/p/13866b4aff42) |
