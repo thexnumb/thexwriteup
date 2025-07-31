@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 04:42:17 GMT | How Our Cybersecurity Apps Defend Against Tomorrow’s Threats | Webtrills | [Read More](https://medium.com/p/4b0bbf4217fb) |
+| Thu, 31 Jul 2025 04:39:50 GMT | Building an SMS Spam Classifier from First Principles: Unpacking Naive Bayes for Cybersecurity | Menelik | [Read More](https://medium.com/p/df39ee45fd8c) |
+| Thu, 31 Jul 2025 04:32:00 GMT | Ready to Hack? Here’s How I Set Up My Hacking Environment (Without Getting Overwhelmed) | Ayush Kumar | [Read More](https://medium.com/p/fa8a553acf4d) |
+| Thu, 31 Jul 2025 04:31:57 GMT | What Happens to Your Deleted Data in the Cloud ? | Rahul Mishra | [Read More](https://medium.com/p/70180755813f) |
+| Thu, 31 Jul 2025 04:24:16 GMT | CSRF in Disguise: How a Tracking Pixel Let Me Steal User Actions Like a Spy | Iski | [Read More](https://medium.com/p/28c084002d1e) |
+| Thu, 31 Jul 2025 04:07:50 GMT | Cyber Security Expert Lecturer (Mr. David Sahyeon Baek) | Khairielputra | [Read More](https://medium.com/p/b77e0f56315c) |
+| Thu, 31 Jul 2025 04:04:01 GMT | Reverse Engineering: A Double-Edged Sword and How to Prevent It | Geeky Vartika | [Read More](https://medium.com/p/7f44498f6ab6) |
+| Thu, 31 Jul 2025 04:01:52 GMT | Server Software: Everything You Need to Know | HostNOC | [Read More](https://medium.com/p/3fc9f8759582) |
+| Thu, 31 Jul 2025 04:00:39 GMT | Scattered Spider Broadens Targets With New Ransomware and Hybrid Tactics | SafetyDetectives Research Team | [Read More](https://medium.com/p/5829d3fa03e2) |
+| Thu, 31 Jul 2025 03:58:02 GMT | Threats, Risks, Vulnerabilities — What? | BlueTeam Bytes | [Read More](https://medium.com/p/db33fd020d33) |
+| Thu, 31 Jul 2025 03:55:09 GMT | Why the Blockchain Is Safe for Everyone to Use in 2025 | Eye Of Unity | [Read More](https://medium.com/p/19c3f93610ec) |
+| Thu, 31 Jul 2025 03:54:59 GMT | Ultimate Guide: PortSwigger Authentication Labs — Full Details & Practical Exploitation | Gopal Mohan | [Read More](https://medium.com/p/9d97fd7d22a8) |
 | Thu, 31 Jul 2025 03:41:08 GMT | Burp Suite Tabs Explained: A Quick Guide to Every Tool | Paritosh | [Read More](https://medium.com/p/dc844590239c) |
 | Thu, 31 Jul 2025 03:38:34 GMT | Intentional friction: balancing security and usability in UX | Ian Araujo | [Read More](https://medium.com/p/dd9ce19a435e) |
 | Thu, 31 Jul 2025 03:35:08 GMT | Default Passwords are the Trojan Horses of the Digital World | Dr. Rakhi R Wadhwani | [Read More](https://medium.com/p/7a8a640b8a64) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 19:12:59 GMT | Dijital Mağarada Mıyız? | AYŞE KIZILAY | [Read More](https://medium.com/p/0f8f0cdeb0b3) |
 | Wed, 30 Jul 2025 19:08:59 GMT | How can Windsurf/Cursor help you with your secure code review? | Cristian | [Read More](https://medium.com/p/d93394a4d719) |
 | Wed, 30 Jul 2025 19:08:05 GMT | Comprehensive Subdomain Enumeration with Subfinder: A Practical Guide for Cybersecurity… | Gopal Mohan | [Read More](https://medium.com/p/26f1827cbb98) |
-| Wed, 30 Jul 2025 19:07:24 GMT | WebSockets, Protobuf, and a Hidden SQL Injection: My Unexpected Bug Hunting Journey | MOAMEN REZK | [Read More](https://medium.com/p/c22e935cca72) |
-| Wed, 30 Jul 2025 19:03:35 GMT | Password Profile Extension for Postgresql | Çağhan Tutku Uzundurukan | [Read More](https://medium.com/p/16aae2f757ac) |
-| Wed, 30 Jul 2025 19:00:02 GMT | The Swedish Data Goldmine: How an Unsecured Server Exposed a Nation’s Secrets | Karthick Ganapathy | [Read More](https://medium.com/p/3bfc180e4f34) |
-| Wed, 30 Jul 2025 18:58:20 GMT | DAY 30 — MemLabs Lab 4 Analysis: Phase 1 | Jinay | [Read More](https://medium.com/p/8d43eec2a679) |
-| Wed, 30 Jul 2025 18:49:21 GMT | Why Choosing Professional Event Security Services in London is a Game-Changer for Your Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/22cdc1d959da) |
-| Wed, 30 Jul 2025 18:49:02 GMT | MOVEit Cybersecurity Attack: Tales from the Digital Frontier | Prem at Varso | [Read More](https://medium.com/p/f2526cc6d723) |
-| Wed, 30 Jul 2025 18:45:46 GMT | I’m Okay With Crying in Public | Vandana Nagarkoti | [Read More](https://medium.com/p/fce5a0ca6f2b) |
-| Wed, 30 Jul 2025 18:41:10 GMT | Reflected XSS Vulnerability Found on TechHunk.com — A Short but Real Case Study | Polash Mridha | [Read More](https://medium.com/p/ee1143f8e05c) |
-| Wed, 30 Jul 2025 18:37:52 GMT | Defending Against Automated Attacks: Bot Detection for the Digital Age | The Quiet Hacker | [Read More](https://medium.com/p/151c5e585d06) |
-| Wed, 30 Jul 2025 18:37:22 GMT | SQL injection attack, listing the database contents on non-Oracle databases | Zabed Ullah Poyel | [Read More](https://medium.com/p/7064ee28d888) |
-| Wed, 30 Jul 2025 18:33:14 GMT | Hacking into Sunset Server | Ajjurock150 | [Read More](https://medium.com/p/689abdcc4a14) |
-| Wed, 30 Jul 2025 18:30:52 GMT | How to Protect Your Business from Inside Threats: 5 Promising Tips | Aleena Waseem | [Read More](https://medium.com/p/467b0999713b) |
