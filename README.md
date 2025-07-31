@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 20:44:40 GMT | Direct vs Indirect Syscalls | S12 - 0x12Dark Development | [Read More](https://medium.com/p/420b568a8f9c) |
+| Thu, 31 Jul 2025 20:44:10 GMT | The Ultimate Solution to Cybersecurity Emerges | Benjamin Yan | [Read More](https://medium.com/p/0dce440276a5) |
+| Thu, 31 Jul 2025 20:40:06 GMT | A Port Beyond the Horizon: Designing the Digital Nerve Center of Russia’s Most Advanced Seaport at… | 0trust0day | [Read More](https://medium.com/p/03ca5d1a4199) |
+| Thu, 31 Jul 2025 20:37:10 GMT | CyberDefenders: Reveal Lab— Walkthrough | Luis Marquez | [Read More](https://medium.com/p/f8cda4322ef5) |
+| Thu, 31 Jul 2025 20:36:36 GMT | Web Gauntlet 3 — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/d8e922a357d5) |
+| Thu, 31 Jul 2025 20:26:39 GMT | Humans as Attack Vectors - Tryhackme | Aaron | [Read More](https://medium.com/p/69ac7d21118f) |
 | Thu, 31 Jul 2025 20:21:51 GMT | The Midnight Hack: How I Turned a Nginx Attack into a Security Masterclass | Renda Zhang | [Read More](https://medium.com/p/bd00a7fed3c2) |
+| Thu, 31 Jul 2025 20:20:22 GMT | A Step-by-Step Plan To Learn Agentic AI Security in 2025 | Taimur Ijlal | [Read More](https://medium.com/p/59b4777e675a) |
 | Thu, 31 Jul 2025 20:16:06 GMT | Prompt Injection 2.0: Hybrid Threats, AI‑Worms & Rogue Memory Hacks | Elad Golan | [Read More](https://medium.com/p/60f829ffc85b) |
 | Thu, 31 Jul 2025 20:11:06 GMT | Designing a Military-Grade Data Center: High Performance, High Availability, and Extreme Security | Engr Syed Saad Gilani | [Read More](https://medium.com/p/84c092937569) |
 | Thu, 31 Jul 2025 20:08:05 GMT | “The Blind Spot You Didn’t Even Know You Had” – The Cybersecurity Gap That Breaches Love | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/b025946dee17) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 14:53:40 GMT | What is a “OSS Vulnerability Janitor”? | Jonathan Leitschuh | [Read More](https://medium.com/p/b7ab176bdd3f) |
 | Thu, 31 Jul 2025 14:50:06 GMT | UUSEC WAF | nosec | [Read More](https://medium.com/p/2847ddeb0c90) |
 | Thu, 31 Jul 2025 14:43:16 GMT | The Moat Between Us | AmusedAuthority | [Read More](https://medium.com/p/775a23d71a0e) |
-| Thu, 31 Jul 2025 14:42:13 GMT | 未来の私よ、コレを読め。webサイトの攻撃と対策 part 3 | ttt | [Read More](https://medium.com/p/5880d2b40249) |
-| Thu, 31 Jul 2025 14:41:07 GMT | The Human Illusion: Why the 1950 Turing Test Still Haunts AI over 70 years later. | secHERity | [Read More](https://medium.com/p/7e9700759129) |
-| Thu, 31 Jul 2025 14:37:50 GMT | OpenResty Manager | nosec | [Read More](https://medium.com/p/74695703656e) |
-| Thu, 31 Jul 2025 14:37:23 GMT | CISA KEV Additions and Advanced Threat Actors Disrupt Enterprise Security Posture | Loginsoft | [Read More](https://medium.com/p/64f1c1f63285) |
-| Thu, 31 Jul 2025 14:34:57 GMT | 5 Day Roundup | Caleb DeBari | [Read More](https://medium.com/p/18e0721eefe3) |
-| Thu, 31 Jul 2025 14:34:48 GMT | Packing Heat: How to Keep Windows Defender Off Your Back (Maybe) | SilentInject | [Read More](https://medium.com/p/a84ac05c16a0) |
-| Thu, 31 Jul 2025 14:33:46 GMT | “Report bug bounty ke company raksasa dunia, gak perlu pake bahasa inggris loh!” | Rona Febriana | [Read More](https://medium.com/p/581694914eb5) |
