@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 13:31:18 GMT | The Daily Tech Digest: 31 July 2025 | Souren Stepanyan | [Read More](https://medium.com/p/28b726bddaf6) |
+| Thu, 31 Jul 2025 13:31:17 GMT | API testing Lab 2,Solve Step By Step | sukhveer singh | [Read More](https://medium.com/p/9bd44c84d1b2) |
+| Thu, 31 Jul 2025 13:21:48 GMT | AI in Everyday Life: 10 Ways You’re Already Using Artificial Intelligence | Payaam Raza | [Read More](https://medium.com/p/a04e99db1528) |
+| Thu, 31 Jul 2025 13:13:51 GMT | Examining the Target Data Breach of 2013 | Alex Riley | [Read More](https://medium.com/p/154d5d05c89c) |
+| Thu, 31 Jul 2025 13:10:58 GMT | Write-up - Smol | hxnxp | [Read More](https://medium.com/p/e3cc6eb0c738) |
+| Thu, 31 Jul 2025 13:04:53 GMT | Dynamic Malware Analysis #1 — LetsDefend | Atlas Security | [Read More](https://medium.com/p/ddabe3944e88) |
+| Thu, 31 Jul 2025 13:03:22 GMT | The Fat Kid I’ll Always Be | Daniel Segev | [Read More](https://medium.com/p/82eca2864fb8) |
+| Thu, 31 Jul 2025 13:02:36 GMT | AI Security Isn’t Magic — It’s a Multi-Cloud Chess Match (and You’re in It) | WayneReidUK | [Read More](https://medium.com/p/aff7b754f19e) |
+| Thu, 31 Jul 2025 13:02:18 GMT | The Silent Bug Hiding in Your async/await Code | Hash Block | [Read More](https://medium.com/p/7118f42c8457) |
+| Thu, 31 Jul 2025 13:02:15 GMT | Seeing Clearly: Why Logging and Monitoring Are Security Architecture Essentials | Christina Irick | [Read More](https://medium.com/p/4f42f545ca4b) |
+| Thu, 31 Jul 2025 13:02:15 GMT | The Silent Bug Hiding in Your async/await Code | Bhagya Rana | [Read More](https://medium.com/p/4f41120e38fc) |
+| Thu, 31 Jul 2025 13:00:54 GMT | Hypervisor Ransomware: CVE-2024–37085, AD Abuse, and the Escalating Threat to VMware ESXi… | Wes Young | [Read More](https://medium.com/p/2d547806d4e4) |
+| Thu, 31 Jul 2025 12:59:52 GMT | Java Code Analysis!?! - Write-up | Omar Budran | [Read More](https://medium.com/p/650d860704d9) |
+| Thu, 31 Jul 2025 12:57:47 GMT | Building a Simple Banner Grabbing Script in Python: A Practical Introduction to Sockets (Inspired… | PJSM-Sec | [Read More](https://medium.com/p/fcf285a3edba) |
 | Thu, 31 Jul 2025 12:47:45 GMT | IDOR allow Zero Click account takeover on a web3 program | JEETPAL | [Read More](https://medium.com/p/abef994d2aef) |
 | Thu, 31 Jul 2025 12:44:53 GMT | 15 Cyber Attacks That Could Cripple Your Business (And How to Stop Them) | Ampcus Cyber | [Read More](https://medium.com/p/69310663bcb4) |
 | Thu, 31 Jul 2025 12:41:04 GMT | Unpacking the ICJ Advisory Opinion on Climate Change from a Climate Security Perspective | Ecosystem for Peace - A compendium of ideas | [Read More](https://medium.com/p/ad8860243df4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 08:19:13 GMT | Poisoned Packages: How I Hacked the Build Pipeline Without Touching the App | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8796e9752516) |
 | Thu, 31 Jul 2025 08:18:38 GMT | Staying Ahead of Threats: Why IP Reputation & Risk Scoring Should Be in Your Security Stack | Fraudo.io | [Read More](https://medium.com/p/c917ffab3294) |
 | Thu, 31 Jul 2025 08:09:14 GMT | IBM — Cost of a Data Breach Report 2025 — The AI Oversight Gap | SOCFortress | [Read More](https://medium.com/p/e06ace712e16) |
-| Thu, 31 Jul 2025 08:04:24 GMT | PortSwigger — Cross-origin resource sharing (CORS) | Rza Shirinov | [Read More](https://medium.com/p/0b69134af002) |
-| Thu, 31 Jul 2025 07:58:24 GMT | Hudson Cybertec: A Benchmark in DNS Security and WordPress | 0trust0day | [Read More](https://medium.com/p/703029abf70c) |
-| Thu, 31 Jul 2025 07:46:42 GMT | AI Is Empowering Engineers in Cloud, DevOps, and Cybersecurity Roles. | Amol Rangari | [Read More](https://medium.com/p/bfabbc51e2fb) |
-| Thu, 31 Jul 2025 07:45:55 GMT | Massive AT&T Data Breach: Lessons Learned and the Role of Compliance in Prevention | Cisogenemarketing | [Read More](https://medium.com/p/2bec72832474) |
-| Thu, 31 Jul 2025 07:42:54 GMT | SQL injection attack, listing the database contents on Oracle | Zabed Ullah Poyel | [Read More](https://medium.com/p/0aa1c6ac4d37) |
-| Thu, 31 Jul 2025 07:39:40 GMT | Cybersecurity: A Paramount Issue In Today’s Day & Age | Daniel Goulyk | [Read More](https://medium.com/p/2d939b601eaf) |
-| Thu, 31 Jul 2025 07:37:35 GMT | Top 10 Website Security Best Practices Every Business Should Follow | Anashnidi | [Read More](https://medium.com/p/97917cc1d9d0) |
-| Thu, 31 Jul 2025 07:31:36 GMT | Control the Chaos: Learn Shell Paths, Bash Configs & I/O Magic (Part 2) | MayhemCode | [Read More](https://medium.com/p/99272517d844) |
-| Thu, 31 Jul 2025 07:20:13 GMT | Cybersecurity Threats in Today’s Connected Vehicles | Aditya Sharma | [Read More](https://medium.com/p/408efa41365b) |
-| Thu, 31 Jul 2025 07:19:36 GMT | Kremlin’s Nightmare Week: Digital Attacks Plunge Russia into Domestic Disarray | Leo Griffin | [Read More](https://medium.com/p/1d6f6e692b41) |
-| Thu, 31 Jul 2025 07:18:44 GMT | The Million-Dollar Lesson: How Password Neglect and Basic Security Failures Cripple Businesses | Egyda-Ai | [Read More](https://medium.com/p/755583984d6e) |
-| Thu, 31 Jul 2025 07:14:31 GMT | Deneyimlemeden Öğrenmeniz Gereken Güvenlik Açıkları | Poyrazavsever | [Read More](https://medium.com/p/55c31f58c2b2) |
-| Thu, 31 Jul 2025 07:12:50 GMT | Cybersecurity: The Silent Shield Every Business Needs to Survive & Grow | Seema D. | [Read More](https://medium.com/p/4139a411520a) |
-| Thu, 31 Jul 2025 07:11:07 GMT | India is leading the way in cloud computing, shaping its digital future | Bikash Peeripaul | [Read More](https://medium.com/p/4bb4642a1d24) |
