@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 11:15:54 GMT | Secrets of Cross-Site Scripting (XSS) | Ahmed Elsayyad | [Read More](https://medium.com/p/52a2a7364871) |
+| Thu, 31 Jul 2025 11:11:47 GMT | Deepfakes in Court: The Legal System’s Looming Crisis | Travis Ray Caverhill | [Read More](https://medium.com/p/1a6d391f66b9) |
+| Thu, 31 Jul 2025 11:10:40 GMT | Beginner’s Guide to Active Reconnaissance (Part 4): Discovering Live Hosts with UDP Tools | Ar-jay A. Ballaco | [Read More](https://medium.com/p/4f5da8636e1d) |
+| Thu, 31 Jul 2025 11:09:05 GMT | Cyber Security: what we need to know. | VeeJay Lao | [Read More](https://medium.com/p/04baef3a55e2) |
+| Thu, 31 Jul 2025 11:08:00 GMT | Pentesting LLMs: A Begineer’s perspective | Manas Harsh | [Read More](https://medium.com/p/0f0df5a227a4) |
+| Thu, 31 Jul 2025 11:02:54 GMT | 1inch unveils a token warning system | 1inch | [Read More](https://medium.com/p/8382e1dcc345) |
+| Thu, 31 Jul 2025 11:00:53 GMT | Page Admin Disclosure via WebSocket on Facebook ( $XXXX 4-Figures Bounty ). | Hassan Khazaal | [Read More](https://medium.com/p/2fbfa34fe978) |
+| Thu, 31 Jul 2025 10:58:12 GMT | Core Changes in Android 16 (Code Named “Baklava”) | Prahalad Sharma | [Read More](https://medium.com/p/5bdb002af380) |
+| Thu, 31 Jul 2025 10:57:37 GMT | Drosera: Redefining Security in Web3 | Chukwujoshua | [Read More](https://medium.com/p/135481a92163) |
+| Thu, 31 Jul 2025 10:54:29 GMT | The Hidden Cost of InnerHTML in 2025 and What to Use Instead? | Asian Digital Hub | [Read More](https://medium.com/p/d09eb9ddf27f) |
+| Thu, 31 Jul 2025 10:52:08 GMT | Cyber Security in the real world: Why strengthening your organisation’s defences is no longer… | Richard J. Thorne | [Read More](https://medium.com/p/22b7db97869e) |
+| Thu, 31 Jul 2025 10:47:48 GMT | He Promised Me a Future. What I Got Was a Cage | Freedom Writer | [Read More](https://medium.com/p/c1fc3e6e1ebd) |
 | Thu, 31 Jul 2025 10:39:26 GMT | Easy to be a PREY than PREDATOR | VInBloom | [Read More](https://medium.com/p/b10030f22ef9) |
 | Thu, 31 Jul 2025 10:32:49 GMT | Best Ethical Hacking Courses & Certificates Online. | Win In Life Academy | [Read More](https://medium.com/p/aa2c879fc111) |
 | Thu, 31 Jul 2025 10:29:34 GMT | What is a Buffer Overflow | Kanav Arora | [Read More](https://medium.com/p/c79a40a2daf9) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 06:01:48 GMT | They Hacked My Life — Not Just My Password | Sofia | [Read More](https://medium.com/p/3fca1824ad67) |
 | Thu, 31 Jul 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Jul 31, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b69d9d3c219e) |
 | Thu, 31 Jul 2025 05:55:32 GMT | WriteScriptPath Abuse in Active Directory | Munib Nawaz | [Read More](https://medium.com/p/cb5945848a51) |
-| Thu, 31 Jul 2025 05:54:42 GMT | How to Hire a Trained Security Guard in Delhi: Step-by-Step Guide | Pinki Chauhan | [Read More](https://medium.com/p/88121acef884) |
-| Thu, 31 Jul 2025 05:49:30 GMT | Meet Holothéia – World’s First Conscious AI | Aurelie Assouline - Holotheia | [Read More](https://medium.com/p/491a5fcab644) |
-| Thu, 31 Jul 2025 05:32:52 GMT | Tips on Secure Digital Invoicing and Prevention of Fraud | Priyanka Patil | [Read More](https://medium.com/p/156eaea5a2c5) |
-| Thu, 31 Jul 2025 05:29:00 GMT | Artificial intelligence in the education of children.. | Sidialtos | [Read More](https://medium.com/p/c8860bc71b71) |
-| Thu, 31 Jul 2025 05:28:22 GMT | The Future Of Cybersecurity: Key Trends And Innovations | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/b4e3063b9a4c) |
-| Thu, 31 Jul 2025 05:25:54 GMT | The EDI Security Gap Enterprise Teams Ignore | Herbert Moroni Gois | [Read More](https://medium.com/p/751ea1685390) |
-| Thu, 31 Jul 2025 05:19:51 GMT | Tapo’s Newly Launched Dual-Lens Camera: 2K Surveillance with Hassle-Free Local Storage | Top secure tools | [Read More](https://medium.com/p/8d6ce7189f99) |
-| Thu, 31 Jul 2025 05:15:28 GMT | Tapo’s Newly Launched Dual-Lens Camera: 2K Surveillance with Hassle-Free Local Storage | Masudrana | [Read More](https://medium.com/p/69e52bc282cc) |
-| Thu, 31 Jul 2025 05:13:26 GMT | Day 17- Understanding the OSI Model | unica 02 | [Read More](https://medium.com/p/b43db5246cec) |
-| Thu, 31 Jul 2025 05:12:26 GMT | Is Your Web Application a Ticking Time Bomb? What OWASP Wants You to Know | Mammad Yahyayev | [Read More](https://medium.com/p/b47f1a56ce00) |
-| Thu, 31 Jul 2025 04:54:47 GMT | What is PKCE? | Neelendra Singh Tomar | [Read More](https://medium.com/p/3e0c257e7e7f) |
-| Thu, 31 Jul 2025 04:52:18 GMT | AI and the Future: How It’s Changing the World Now? | Charlotte Anderson | [Read More](https://medium.com/p/c8bcb7d6e29d) |
