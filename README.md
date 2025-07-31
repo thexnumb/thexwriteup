@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 06:26:35 GMT | No, no todo fallo en login es una SQLi | Gorka | [Read More](https://medium.com/p/a21592652d96) |
+| Thu, 31 Jul 2025 06:25:13 GMT | The Crucial Role of Linux in Cybersecurity and How I Mastered It | Prabha | [Read More](https://medium.com/p/b48934d23bbb) |
+| Thu, 31 Jul 2025 06:24:51 GMT | Modern Encryption, Modern Monitoring: TLS 1.3 and Post-Quantum in the Real World | Techleadgurdeepgill | [Read More](https://medium.com/p/83dc33566302) |
+| Thu, 31 Jul 2025 06:15:32 GMT | 1951 Rare 1-Rupee Note Turns into a High-Value Collectible in Pakistan | Osama Khan | [Read More](https://medium.com/p/d058520b3b6c) |
+| Thu, 31 Jul 2025 06:12:30 GMT | SafeLine vs. F5 Advanced WAF: Lightweight Agility or Enterprise Power? | AerieWhole123 | [Read More](https://medium.com/p/067f0bb24fe8) |
+| Thu, 31 Jul 2025 06:08:58 GMT | How to Set Up SOC Monitoring Without a Security Team: Affordable Security Operations for Small… | Anshul Goyal | [Read More](https://medium.com/p/9b8034481f88) |
+| Thu, 31 Jul 2025 06:07:41 GMT | JWT Attacks in Symfony: Prevention & Code Examples | Pentest_Testing_Corp | [Read More](https://medium.com/p/0268e2f4994f) |
+| Thu, 31 Jul 2025 06:06:59 GMT | CISSP Certification: Advance Your Cybersecurity Career with Cybernous CISSP Online Training | Cybernous Infosec consulting | [Read More](https://medium.com/p/332186b366df) |
+| Thu, 31 Jul 2025 06:06:16 GMT | Digital Transformation: Where AI meets Data, and Security Fuels Innovation | World Trade Center Shamshabad - Future City | [Read More](https://medium.com/p/426db38ec72b) |
+| Thu, 31 Jul 2025 06:01:48 GMT | They Hacked My Life — Not Just My Password | Sofia | [Read More](https://medium.com/p/3fca1824ad67) |
+| Thu, 31 Jul 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Jul 31, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b69d9d3c219e) |
+| Thu, 31 Jul 2025 05:55:32 GMT | WriteScriptPath Abuse in Active Directory | Munib Nawaz | [Read More](https://medium.com/p/cb5945848a51) |
+| Thu, 31 Jul 2025 05:54:42 GMT | How to Hire a Trained Security Guard in Delhi: Step-by-Step Guide | Pinki Chauhan | [Read More](https://medium.com/p/88121acef884) |
 | Thu, 31 Jul 2025 05:49:30 GMT | Meet Holothéia – World’s First Conscious AI | Aurelie Assouline - Holotheia | [Read More](https://medium.com/p/491a5fcab644) |
 | Thu, 31 Jul 2025 05:32:52 GMT | Tips on Secure Digital Invoicing and Prevention of Fraud | Priyanka Patil | [Read More](https://medium.com/p/156eaea5a2c5) |
 | Thu, 31 Jul 2025 05:29:00 GMT | Artificial intelligence in the education of children.. | Sidialtos | [Read More](https://medium.com/p/c8860bc71b71) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 20:24:52 GMT | How LLMInspect could stop Anthropic Claude-style abuse in 2025 | Aysha Mir | [Read More](https://medium.com/p/529b9ac2a263) |
 | Wed, 30 Jul 2025 20:21:11 GMT | PicoCTF: Who Are You? — Writeup | 0xSudo | [Read More](https://medium.com/p/6c4358ee1319) |
 | Wed, 30 Jul 2025 20:21:10 GMT | VIPKeylogger Injection Analysis | atlas | [Read More](https://medium.com/p/a52f428e10a6) |
-| Wed, 30 Jul 2025 20:14:22 GMT | JWT vs OAuth2: What I Learned While Implementing Secure Authentication in Production | Madhav Gupta | [Read More](https://medium.com/p/6160cda4226d) |
-| Wed, 30 Jul 2025 20:05:29 GMT | How to Earn VINE Rewards via Exchange Campaigns | Bitcoinpepe | [Read More](https://medium.com/p/84842c438908) |
-| Wed, 30 Jul 2025 20:04:47 GMT | As AI Grows Smarter, Guarding Your Privacy Gets Harder. | Cornwellja | [Read More](https://medium.com/p/76792eafa679) |
-| Wed, 30 Jul 2025 20:02:14 GMT | The Privilege Trap: How BeyondTrust Became the Attacker’s Best Friend | Pentestjunkie07 | [Read More](https://medium.com/p/b90401abcd72) |
-| Wed, 30 Jul 2025 19:56:36 GMT | Top 10 Misconfiguration Findings & Remediation Plans for key cloud services across AWS, GCP, and… | Nazeer | [Read More](https://medium.com/p/d3b135185fe5) |
-| Wed, 30 Jul 2025 19:55:50 GMT | Beyond the Hype: Critical Security Vulnerabilities in Large Language Models | CT Chidambaram | [Read More](https://medium.com/p/b1f9d956deb3) |
-| Wed, 30 Jul 2025 19:53:28 GMT | Building Trustworthy AI into Cybersecurity Operations | Graylog | [Read More](https://medium.com/p/fbb75805ab9b) |
-| Wed, 30 Jul 2025 19:53:01 GMT | Secure Password Management: A Hands-on Demonstration Using Bitwarden | Mrittika Debnath | [Read More](https://medium.com/p/9429dc96386a) |
-| Wed, 30 Jul 2025 19:41:47 GMT | Using HTTP to Hack Redis: From SSRF to Full Control | Sarper AVCI | [Read More](https://medium.com/p/df24e5936677) |
-| Wed, 30 Jul 2025 19:38:38 GMT | SANITY | Boluwatife Lash | [Read More](https://medium.com/p/f7e2b3823231) |
-| Wed, 30 Jul 2025 19:38:16 GMT | If AI Writes the Rules, Who Holds It Accountable?A Deep Dive into Digital Compliance | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/737b7e50c6db) |
-| Wed, 30 Jul 2025 19:36:05 GMT | 50% of Businesses Hit by Cyberattacks Shut Down, Is Yours Prepared? | Susan Nilon | [Read More](https://medium.com/p/8c38c9aaff9f) |
-| Wed, 30 Jul 2025 19:35:16 GMT | My Thoughts on Blockchain Security: Algorand’s Pure Proof-of-Stake as the Standard | Joshua Obafemi | [Read More](https://medium.com/p/25a08654ec12) |
