@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 17:16:23 GMT | Log4Shell in 2025: Why It’s Still a Bug Bounty Goldmine | Kalariya Het | [Read More](https://medium.com/p/493344e84b0e) |
+| Thu, 31 Jul 2025 17:09:09 GMT | 7 Life-Saving Cybersecurity Habits Most People Ignore (But Shouldn’t) | Masonmarkus | [Read More](https://medium.com/p/6ce668e40296) |
+| Thu, 31 Jul 2025 17:07:30 GMT | “How I Turned an LFI into a $5,000 Payday (And How You Can Too)” | Aman Sharma | [Read More](https://medium.com/p/2bdf7b719709) |
+| Thu, 31 Jul 2025 17:02:45 GMT | Best Practices for Storing Passwords in Node.js: A Secure Approach | habtesoft | [Read More](https://medium.com/p/5e1c50ee81e0) |
+| Thu, 31 Jul 2025 17:02:45 GMT | Analysis - The Rising Threat of Sahel Extremism: The United States Cannot Afford to Withdraw from… | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/fbde7931cbf0) |
+| Thu, 31 Jul 2025 17:02:45 GMT | The Last Page Still Counts | Princess Odey | [Read More](https://medium.com/p/6034f42f40e4) |
+| Thu, 31 Jul 2025 16:58:40 GMT | BlueSky Ransomware Lab Analysis | Omer Bawazir | [Read More](https://medium.com/p/b1eae34212fd) |
+| Thu, 31 Jul 2025 16:57:20 GMT | Why a Night Vision Camera for Home Is No Longer Optional — It’s Essential | Infinity Tech Solutions | [Read More](https://medium.com/p/4acb1b52b24d) |
 | Thu, 31 Jul 2025 16:54:20 GMT | The Invisible Skill Behind Great AI Results: Why Prompt Engineering Matters More Than You Think | Aaryan | [Read More](https://medium.com/p/af098073b360) |
 | Thu, 31 Jul 2025 16:53:30 GMT | Old Data, New Threat: How the 2024 Snowflake Hack Fueled AT&T’s 2025 Breach | Kalariya Het | [Read More](https://medium.com/p/86b8a100ef6e) |
 | Thu, 31 Jul 2025 16:53:08 GMT | Human Error: The Hidden Threat in Cybersecurity | Shieldnova | [Read More](https://medium.com/p/983c773eaa5b) |
+| Thu, 31 Jul 2025 16:50:41 GMT | CoinDCX Faces $44 Million Security Breach; Employee Arrested in Connection with Hack | CoinGen | [Read More](https://medium.com/p/e00c7bd46ff1) |
 | Thu, 31 Jul 2025 16:45:03 GMT | Advanced Web Security Techniques to Stay Ahead of Hackers. | Kevin Asutton | [Read More](https://medium.com/p/ba3090d9e038) |
 | Thu, 31 Jul 2025 16:40:16 GMT | love walks in, chaos follows close behind | Andie | [Read More](https://medium.com/p/8c1be474d5ee) |
 | Thu, 31 Jul 2025 16:37:18 GMT | Hồ sơ năng lực công ty bảo vệ Đại An Group | DaiAnGroup | [Read More](https://medium.com/p/1dd3264bad2d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 13:00:54 GMT | Hypervisor Ransomware: CVE-2024–37085, AD Abuse, and the Escalating Threat to VMware ESXi… | Wes Young | [Read More](https://medium.com/p/2d547806d4e4) |
 | Thu, 31 Jul 2025 12:59:52 GMT | Java Code Analysis!?! - Write-up | Omar Budran | [Read More](https://medium.com/p/650d860704d9) |
 | Thu, 31 Jul 2025 12:57:47 GMT | Building a Simple Banner Grabbing Script in Python: A Practical Introduction to Sockets (Inspired… | PJSM-Sec | [Read More](https://medium.com/p/fcf285a3edba) |
-| Thu, 31 Jul 2025 12:47:45 GMT | IDOR allow Zero Click account takeover on a web3 program | JEETPAL | [Read More](https://medium.com/p/abef994d2aef) |
-| Thu, 31 Jul 2025 12:44:53 GMT | 15 Cyber Attacks That Could Cripple Your Business (And How to Stop Them) | Ampcus Cyber | [Read More](https://medium.com/p/69310663bcb4) |
-| Thu, 31 Jul 2025 12:41:04 GMT | Unpacking the ICJ Advisory Opinion on Climate Change from a Climate Security Perspective | Ecosystem for Peace - A compendium of ideas | [Read More](https://medium.com/p/ad8860243df4) |
-| Thu, 31 Jul 2025 12:38:57 GMT | Understanding CVSS: The Common Vulnerability Scoring System | Divyansh Gohil | [Read More](https://medium.com/p/a4fd9c330b99) |
-| Thu, 31 Jul 2025 12:37:38 GMT | How to Analyze Your GitHub Code Quality with SonarQube and Docker | Rachana Gupta | [Read More](https://medium.com/p/d6238c1d8a07) |
-| Thu, 31 Jul 2025 12:33:53 GMT | What Are The Best Practices For Securing A Canopy? | Rocket Canopy | [Read More](https://medium.com/p/60b4a94f6100) |
-| Thu, 31 Jul 2025 12:32:32 GMT | How to become an effective Teacher? | Solomon Ashagre | [Read More](https://medium.com/p/f40559b01b56) |
-| Thu, 31 Jul 2025 12:30:40 GMT | Someone like you wouldn’t choose someone like me | Darkenthusiastexpert | [Read More](https://medium.com/p/686ba893f1f6) |
-| Thu, 31 Jul 2025 12:27:23 GMT | Güvenlik File S | ReklamWeb | [Read More](https://medium.com/p/bc78bf1a2288) |
