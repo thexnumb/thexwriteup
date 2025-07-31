@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 03:41:08 GMT | Burp Suite Tabs Explained: A Quick Guide to Every Tool | Paritosh | [Read More](https://medium.com/p/dc844590239c) |
+| Thu, 31 Jul 2025 03:38:34 GMT | Intentional friction: balancing security and usability in UX | Ian Araujo | [Read More](https://medium.com/p/dd9ce19a435e) |
+| Thu, 31 Jul 2025 03:35:08 GMT | Default Passwords are the Trojan Horses of the Digital World | Dr. Rakhi R Wadhwani | [Read More](https://medium.com/p/7a8a640b8a64) |
+| Thu, 31 Jul 2025 03:31:58 GMT | Why Issues Are Found in Production: A Deep Dive into Software Testing Gaps | Mayanksingh Rajput | [Read More](https://medium.com/p/88a7b7b4e7d2) |
+| Thu, 31 Jul 2025 03:31:55 GMT | TikTok Alleged Data Breach and the R00TK1T Claims | Deven Chhajed | [Read More](https://medium.com/p/07201749ffbd) |
+| Thu, 31 Jul 2025 03:23:35 GMT | STAC in Practice: How We Built Deployable Cryptographic Sovereignty | ExeQuantum | [Read More](https://medium.com/p/187b85a5f058) |
+| Thu, 31 Jul 2025 03:19:42 GMT | SafeLine vs. AWS WAF: Which One Fits Your Web Security Needs? | AerieWhole123 | [Read More](https://medium.com/p/97edb450c174) |
+| Thu, 31 Jul 2025 03:18:16 GMT | Why Most “Threat Hunting” Fails — And What Real Professionals Actually Do | Manish Rawat | [Read More](https://medium.com/p/50e1d3469dcb) |
+| Thu, 31 Jul 2025 03:06:51 GMT | Refactoring Roulette: When to Rewrite, When to Patch | mimo | [Read More](https://medium.com/p/b10c7ef2b75d) |
+| Thu, 31 Jul 2025 03:02:40 GMT | Trump’s AI Chip Reversal Hands China Critical Tech Advantage, Threatening U.S. | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/93bb7f6a2620) |
+| Thu, 31 Jul 2025 02:59:50 GMT | Building Auth Nodes in Blok: Secure Your App with JWT | Akshat Sharma | [Read More](https://medium.com/p/d235fba29d6e) |
+| Thu, 31 Jul 2025 02:56:24 GMT | Why I Should Learn Cloud Computing and Security | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/070511cbbfa4) |
+| Thu, 31 Jul 2025 02:54:02 GMT | iPhone 17 Series Price Leak: How It Compares to iPhone 16, Galaxy S25 Ultra & Pixel 9 Pro XL | Aly Elvi | [Read More](https://medium.com/p/d66942a3e668) |
+| Thu, 31 Jul 2025 02:51:46 GMT | Permissions on Android — Learn how to implement the complete workflow. | André Michel Pozos | [Read More](https://medium.com/p/01c36be8190a) |
+| Thu, 31 Jul 2025 02:46:59 GMT | THM: OSINT Dojo —  Sakura Room | kalibri | [Read More](https://medium.com/p/d0a7299fdf00) |
+| Thu, 31 Jul 2025 02:41:39 GMT | The Extraordinary Journey of a Click: The Secret Adventure Behind Every Web Page | Jagkter | [Read More](https://medium.com/p/e8fd787c871b) |
+| Thu, 31 Jul 2025 02:23:36 GMT | Stored DOM XSS: A Hidden Threat in Blog Comments | Bash Overflow | [Read More](https://medium.com/p/50aca72e40fd) |
+| Thu, 31 Jul 2025 02:15:08 GMT | Self-modifying code and kernel hot patches: from dirty hacks to industrial solutions | Progsky | [Read More](https://medium.com/p/adb0b1d03152) |
 | Thu, 31 Jul 2025 01:41:46 GMT | Pembelajaran untuk memahami Cyber Security | Marifsetyautama | [Read More](https://medium.com/p/4195eebdfb01) |
 | Thu, 31 Jul 2025 01:27:54 GMT | Tayvan'da 2025 yılında iki büyük hastaneyi hedef alan yıkıcı bir fidye yazılımı saldırısı… | Serhat Çallı | [Read More](https://medium.com/p/5e026fdbb3c7) |
 | Thu, 31 Jul 2025 01:21:07 GMT | Caido…the new orange ? | Walter Cuestas | [Read More](https://medium.com/p/50f00e9b5140) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Jul 2025 18:37:22 GMT | SQL injection attack, listing the database contents on non-Oracle databases | Zabed Ullah Poyel | [Read More](https://medium.com/p/7064ee28d888) |
 | Wed, 30 Jul 2025 18:33:14 GMT | Hacking into Sunset Server | Ajjurock150 | [Read More](https://medium.com/p/689abdcc4a14) |
 | Wed, 30 Jul 2025 18:30:52 GMT | How to Protect Your Business from Inside Threats: 5 Promising Tips | Aleena Waseem | [Read More](https://medium.com/p/467b0999713b) |
-| Wed, 30 Jul 2025 18:30:51 GMT | Recovering a Redacted RSA Private Key: A CTF Crypto Writeup | Shoaib Bin Rashid | [Read More](https://medium.com/p/9489e381a484) |
-| Wed, 30 Jul 2025 18:28:21 GMT | Phishing: Tichá hrozba, která může potopit i vaši firmu! | Cyber Solution | [Read More](https://medium.com/p/f7f255b32cc7) |
-| Wed, 30 Jul 2025 18:26:35 GMT | Cloud App Monitoring: The Smart Way to Keep Your Applications Fast, Secure, and Always Available | SafeAeon Inc. | [Read More](https://medium.com/p/4649ef07829e) |
-| Wed, 30 Jul 2025 18:23:46 GMT | AI SOC is the Future! | Simbian.ai | [Read More](https://medium.com/p/90c818fab129) |
-| Wed, 30 Jul 2025 18:18:51 GMT | Strengthening Relationships with… Video Games? | Savvy Cyber Kids | [Read More](https://medium.com/p/ac41cc0e6d10) |
-| Wed, 30 Jul 2025 18:18:13 GMT | AI SOC vs Traditional SOC: How to Use AI for Cybersecurity | Simbian.ai | [Read More](https://medium.com/p/8fae8e752ab0) |
-| Wed, 30 Jul 2025 18:18:07 GMT | Mom/Dad, I Screwed Up | Savvy Cyber Kids | [Read More](https://medium.com/p/69a5cc9057f7) |
-| Wed, 30 Jul 2025 18:17:56 GMT | AI Finds Critical Zero-Day in Linux Kernel: o3’s Game-Changing Security Discovery | Simbian.ai | [Read More](https://medium.com/p/1d0ddbbe1d4e) |
-| Wed, 30 Jul 2025 18:17:52 GMT | Your Kid’s Phone May Kill Them | Savvy Cyber Kids | [Read More](https://medium.com/p/f8f600f41e2f) |
-| Wed, 30 Jul 2025 18:14:23 GMT | Manage  - Hack The Box Walkthrough | WireHawk Security | [Read More](https://medium.com/p/e40d7ba05f42) |
-| Wed, 30 Jul 2025 18:09:57 GMT | Let’s Talk ITGC- The Bare Minimum Your IT Shouldn’t Skip | Arzoo Parween | [Read More](https://medium.com/p/bb0ec455b454) |
-| Wed, 30 Jul 2025 18:05:25 GMT | Behind the Scenes of a Security Incident: What Really Happens? | Alsabah Afshi | [Read More](https://medium.com/p/a691794b699e) |
-| Wed, 30 Jul 2025 17:48:18 GMT | Exploring Interesting Security Research Techniques: Parser differentials | Abdul Mazid | [Read More](https://medium.com/p/004a146c81cf) |
-| Wed, 30 Jul 2025 17:46:12 GMT | A Junior Admin’s Guide to VPN Tunnels and Cryptography | Bigenaryal | [Read More](https://medium.com/p/a8e4beadd814) |
-| Wed, 30 Jul 2025 17:45:18 GMT | My Browser is a Hacking Lab: Here Are My 20 Essential Extensions. | r4gh4v | [Read More](https://medium.com/p/918420f6615b) |
-| Wed, 30 Jul 2025 17:40:58 GMT | Anger – when everything just stay inside | Rahul Gupta | [Read More](https://medium.com/p/8a43ab740e54) |
-| Wed, 30 Jul 2025 17:40:57 GMT | Why Your Business Needs Cyber Threat Intelligence (Before It’s Too Late) | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/03657800f03f) |
-| Wed, 30 Jul 2025 17:39:05 GMT | Your Workflow Automation (N8n, Make &Co.) Got Hacked? Here’s What You Can Do | AI Rabbit | [Read More](https://medium.com/p/38a365c08801) |
