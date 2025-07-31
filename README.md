@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 31 Jul 2025 14:42:13 GMT | 未来の私よ、コレを読め。webサイトの攻撃と対策 part 3 | ttt | [Read More](https://medium.com/p/5880d2b40249) |
+| Thu, 31 Jul 2025 14:37:50 GMT | OpenResty Manager | nosec | [Read More](https://medium.com/p/74695703656e) |
+| Thu, 31 Jul 2025 14:37:23 GMT | CISA KEV Additions and Advanced Threat Actors Disrupt Enterprise Security Posture | Loginsoft | [Read More](https://medium.com/p/64f1c1f63285) |
+| Thu, 31 Jul 2025 14:34:57 GMT | 5 Day Roundup | Caleb DeBari | [Read More](https://medium.com/p/18e0721eefe3) |
+| Thu, 31 Jul 2025 14:34:48 GMT | Packing Heat: How to Keep Windows Defender Off Your Back (Maybe) | SilentInject | [Read More](https://medium.com/p/a84ac05c16a0) |
+| Thu, 31 Jul 2025 14:33:46 GMT | “Report bug bounty ke company raksasa dunia, gak perlu pake bahasa inggris loh!” | Rona Febriana | [Read More](https://medium.com/p/581694914eb5) |
+| Thu, 31 Jul 2025 14:33:10 GMT | Challenge Accepted: 90-Day Challenge to My First Bug Bounty | Mike (sl0th0x87) | [Read More](https://medium.com/p/30e716ed1221) |
+| Thu, 31 Jul 2025 14:33:02 GMT | HTB Getting started machine | Penevalexander | [Read More](https://medium.com/p/4be3ca464e46) |
+| Thu, 31 Jul 2025 14:27:15 GMT | Swift ile Keychain API | Mesut Aygun | [Read More](https://medium.com/p/2252992255bf) |
+| Thu, 31 Jul 2025 14:25:30 GMT | Footprinting Lab — Medium | Mkirahmet | [Read More](https://medium.com/p/ee0cdaab9a30) |
+| Thu, 31 Jul 2025 14:25:25 GMT | New AI regulation means a whole lot more logging | Graylog | [Read More](https://medium.com/p/caef8c10bb8b) |
+| Thu, 31 Jul 2025 14:24:06 GMT | Making GDPR Compliance Manageable; One Identity at a Time | Openiam | [Read More](https://medium.com/p/65bd5cf2e633) |
+| Thu, 31 Jul 2025 14:20:41 GMT | AWS Account Governance — A Step-by-Step Security Implementation Guide | Sharaden Cole | [Read More](https://medium.com/p/8f119780b3c5) |
+| Thu, 31 Jul 2025 14:20:28 GMT | How Secure Packaging Safeguards Your Goods Against Theft and Fraud in the Supply Chain | Sofiamcmahon | [Read More](https://medium.com/p/734eb82353f7) |
 | Thu, 31 Jul 2025 14:18:38 GMT | I wouldn’t go to war for a woman like me | Darkenthusiastexpert | [Read More](https://medium.com/p/3771c5d5d58f) |
+| Thu, 31 Jul 2025 14:17:56 GMT | How CAPTCHA Protects Your Website from Bots and Spam | Tech Current Today | [Read More](https://medium.com/p/714c6ceebd49) |
 | Thu, 31 Jul 2025 14:11:56 GMT | The UK’s Online Safety Act 2023 and the online adult industry. | Basil Manoussos, BSc,MSc,MBCS,ACSFS | [Read More](https://medium.com/p/3ec46339b9f8) |
 | Thu, 31 Jul 2025 14:10:26 GMT | Ignite — TryHackMe CTF Walkthrough | Ali Ahmed | [Read More](https://medium.com/p/d25b2614ebe2) |
 | Thu, 31 Jul 2025 14:08:40 GMT | Gremlin’s Guide : | Iangdonohue | [Read More](https://medium.com/p/5de7336d20ea) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 09:56:46 GMT | How data is Ingested into SIEM Solution? | Devaaravindlutukurty | [Read More](https://medium.com/p/5d450c1d6200) |
 | Thu, 31 Jul 2025 09:55:08 GMT | Fishing for Secrets: How to Find Hidden API Keys Across GitHub, NPM, and PyPI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a79cde57eb08) |
 | Thu, 31 Jul 2025 09:54:38 GMT | Waking Watch Security: Your Trusted Fire Safety Solution | Professional UK Services | [Read More](https://medium.com/p/413ce48066e6) |
-| Thu, 31 Jul 2025 09:53:31 GMT | Top VAPT Companies in the USA in 2025 | Jay Chris Roberts | [Read More](https://medium.com/p/bad62888a3e6) |
-| Thu, 31 Jul 2025 09:36:09 GMT | Start Bug Bounty Earning Using OWASP Top 10 (Even If You’re a Complete Beginner) | Rashadul Islam | [Read More](https://medium.com/p/26361c7ab789) |
-| Thu, 31 Jul 2025 09:34:24 GMT | Path traversal | Usama Hanif | [Read More](https://medium.com/p/848c0499197d) |
-| Thu, 31 Jul 2025 09:29:37 GMT | Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/e5b16ac69287) |
-| Thu, 31 Jul 2025 09:23:54 GMT | Cracked Passwords? These books fix that. | Aj | [Read More](https://medium.com/p/288c4778bf5d) |
-| Thu, 31 Jul 2025 09:19:47 GMT | Công ty cho thuê dịch vụ bảo vệ sự kiện — An ninh tuyệt đối cho thành công rực rỡ! | DaiAnGroup | [Read More](https://medium.com/p/a7a6a89c26d1) |
-| Thu, 31 Jul 2025 09:15:05 GMT | Shield Your Business with SSI IT Cyber Security Services | Travis | [Read More](https://medium.com/p/294e670fb71e) |
-| Thu, 31 Jul 2025 09:13:03 GMT | Why Cybersecurity Should Be a Teenager’s Concern Too | Ayaan Ali Bhatti | [Read More](https://medium.com/p/c7c92369940b) |
-| Thu, 31 Jul 2025 09:10:28 GMT | 5 Reasons Why You Should Hire a Security Guard Company In Singapore For Security | Jane Tang | [Read More](https://medium.com/p/b752ae4ae176) |
-| Thu, 31 Jul 2025 08:59:51 GMT | Modern Web Development Technologies Shaping Online Experiences | Ketan Patel | [Read More](https://medium.com/p/e9371a078560) |
-| Thu, 31 Jul 2025 08:59:31 GMT | How to Build a PHP Friction Engine Without Breaking Your Auth Stack | Asian Digital Hub | [Read More](https://medium.com/p/6b5315bf0ac4) |
-| Thu, 31 Jul 2025 08:58:28 GMT | The $45 Million Question: Why Your Password Manager Choice in 2025 Could Make or Break Your Digital… | TechEd Publishers | [Read More](https://medium.com/p/79ed573f8670) |
-| Thu, 31 Jul 2025 08:54:03 GMT | Why the Best Android App Developers Are Found Right Here in Your Country | Appcurators | [Read More](https://medium.com/p/fe3e886aad02) |
-| Thu, 31 Jul 2025 08:53:51 GMT | Data at Rest and Data in Transit in Modern Android Development | Dharma Kshetri | [Read More](https://medium.com/p/700c46ab7d6e) |
-| Thu, 31 Jul 2025 08:53:50 GMT | How a SOC Handles a Real Cyberattack | Neetrox | [Read More](https://medium.com/p/c2b551d3d815) |
