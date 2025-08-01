@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 14:40:38 GMT | Critical Alert For All ChatGPT Users | Max/Wang | [Read More](https://medium.com/p/1ce243fc44aa) |
+| Fri, 01 Aug 2025 14:37:19 GMT | Why XSS Is Not (Usually) Possible in JSON Responses: Cross-Site Scripting in JSON Responses | Jython | [Read More](https://medium.com/p/67fa4a23b74d) |
+| Fri, 01 Aug 2025 14:33:01 GMT | HTB Starting Point Tier 1 Appointment ve Sequel Makineleri Çözümleri ile Bilinmesi Gerekenler | Burhan Demir | [Read More](https://medium.com/p/90452b06aefe) |
+| Fri, 01 Aug 2025 14:20:00 GMT | CyberArk Workflows — How Accounts, Safes, and Sessions Work Together | Terence Imoma | [Read More](https://medium.com/p/5db3aa5701c0) |
 | Fri, 01 Aug 2025 14:17:26 GMT | Hacker vs. Hacker — TryHackMe writeup | Adhamkhairy | [Read More](https://medium.com/p/ac4efaa0549f) |
+| Fri, 01 Aug 2025 14:15:10 GMT | Home Lab Chronicles: Part 02 — Suricata IDS/IPS and Squid Transparent Proxy Integration | Suprim Devkota | [Read More](https://medium.com/p/f839332833e6) |
 | Fri, 01 Aug 2025 14:13:13 GMT | Enterprise Browser DLP: How Mammoth Secures Sensitive Data in Hybrid Work Environments | Mammoth Cyber | [Read More](https://medium.com/p/179d424f3d44) |
 | Fri, 01 Aug 2025 14:06:38 GMT | Beginners guide to OSINT — I | Pranavkumar Katariya | [Read More](https://medium.com/p/c9e3146cc6c8) |
 | Fri, 01 Aug 2025 14:04:55 GMT | Uncovering the Truth: A Beginner’s Guide to Digital Forensics | Shehab Ahmed | [Read More](https://medium.com/p/c489fad12678) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 09:47:06 GMT | Reliable Network Management Services - Optimize Your Network Performance | Gowthammathiew | [Read More](https://medium.com/p/09cb76aecdc6) |
 | Fri, 01 Aug 2025 09:46:43 GMT | Why Small Companies Get Hit by Big Attacks | Evgeny Ermakov | [Read More](https://medium.com/p/0c2cc98aa447) |
 | Fri, 01 Aug 2025 09:46:11 GMT | cyber security course in india | Krishnavenidotin | [Read More](https://medium.com/p/e66722a8a546) |
-| Fri, 01 Aug 2025 09:45:07 GMT | When Fighting Becomes a Habit, and Silence Becomes Distance | Sachin | [Read More](https://medium.com/p/1d42e5ff2d36) |
-| Fri, 01 Aug 2025 09:44:28 GMT | Top 10 WiFi Hacking Tools Used by Ethical Hackers: Introduction | Manisha Chaudhary | [Read More](https://medium.com/p/4268aa1bd672) |
-| Fri, 01 Aug 2025 09:41:38 GMT | Regurgitated Tech: Is MCP Just SOA’s Latest Remix? | Namir Sagheenanajar | [Read More](https://medium.com/p/4de97bd87a6d) |
-| Fri, 01 Aug 2025 09:41:28 GMT | Exploiting LLM APIs with Excessive Agency [Part 1] | Aditya Bhatt | [Read More](https://medium.com/p/19f0d8c70127) |
-| Fri, 01 Aug 2025 09:40:37 GMT | Your Guide to Smart, Reliable Home Security Boston | First Alarm LLC | [Read More](https://medium.com/p/94815222d8b1) |
