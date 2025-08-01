@@ -12,11 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 10:18:35 GMT | How Thermal Scopes Are Revolutionizing Hunting and Tactical Applications | Night Vision 4 Less | [Read More](https://medium.com/p/033f9e1b93ad) |
+| Fri, 01 Aug 2025 10:11:47 GMT | How Misconfigured Computer Accounts Lead to Hidden Privilege Escalation in Active Directory | Sebastian Kandler | [Read More](https://medium.com/p/4a4ccea7896d) |
+| Fri, 01 Aug 2025 10:10:54 GMT | Trusted Security Services in Hobart: Protect What Matters Most | Stateguard Protective Services | [Read More](https://medium.com/p/95e4773386a6) |
+| Fri, 01 Aug 2025 10:02:54 GMT | DIY Faraday Fashion: How I Sewed a Hoodie That Ghosts Wi-Fi Trackers | Franziska "Ziska" Fink | [Read More](https://medium.com/p/02fd8cc5ce3e) |
+| Fri, 01 Aug 2025 09:59:16 GMT | Understanding the Difference Between Local and Global Variables in Python | Ketan Patel | [Read More](https://medium.com/p/8a499a7b4d1b) |
+| Fri, 01 Aug 2025 09:58:14 GMT | Real-World Scenarios: How Ech Browser Protects You Daily | Psylinks Announce | [Read More](https://medium.com/p/bc61d1e32a8d) |
+| Fri, 01 Aug 2025 09:58:14 GMT | Wonderland Write-Up (TryHackMe) | Mustafa Bostan | [Read More](https://medium.com/p/21abdc2bbded) |
+| Fri, 01 Aug 2025 09:57:58 GMT | How to Improve Event Security with RFID Access Control | ShirleyLiu_RFIDTagcom | [Read More](https://medium.com/p/c6dc292f6058) |
+| Fri, 01 Aug 2025 09:55:18 GMT | Antivirus Is Broken; Here’s How AI Is Fixing It | Ivander “Andreas” Wijaya | [Read More](https://medium.com/p/88bf154e5346) |
+| Fri, 01 Aug 2025 09:54:02 GMT | The Tea App DataBreach: A Hard Look at Common Security Failures (and How to Prevent It) | Priyesh Shukla | [Read More](https://medium.com/p/7a4716dc11a0) |
+| Fri, 01 Aug 2025 09:53:28 GMT | DockerLabs Writeup — Vacaciones (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/7b490c212b4d) |
+| Fri, 01 Aug 2025 09:52:58 GMT | Expert Lecture II | unknownman | [Read More](https://medium.com/p/cca2016cc0f2) |
+| Fri, 01 Aug 2025 09:52:50 GMT | “Microsoft Support” Call Almost Cleaned Out My Savings | Aj | [Read More](https://medium.com/p/a13b693fe424) |
+| Fri, 01 Aug 2025 09:48:52 GMT | Continued pain at M&S as £300m April hack lingers on | Business Broadband Hub | [Read More](https://medium.com/p/8930722b1d9c) |
+| Fri, 01 Aug 2025 09:48:32 GMT | The Future of Browse is Private: Why Ech Browser is a Game-Changer | Psylinks Announce | [Read More](https://medium.com/p/f36b2d344c04) |
+| Fri, 01 Aug 2025 09:47:06 GMT | Reliable Network Management Services - Optimize Your Network Performance | Gowthammathiew | [Read More](https://medium.com/p/09cb76aecdc6) |
 | Fri, 01 Aug 2025 09:46:43 GMT | Why Small Companies Get Hit by Big Attacks | Evgeny Ermakov | [Read More](https://medium.com/p/0c2cc98aa447) |
 | Fri, 01 Aug 2025 09:46:11 GMT | cyber security course in india | Krishnavenidotin | [Read More](https://medium.com/p/e66722a8a546) |
+| Fri, 01 Aug 2025 09:45:07 GMT | When Fighting Becomes a Habit, and Silence Becomes Distance | Sachin | [Read More](https://medium.com/p/1d42e5ff2d36) |
 | Fri, 01 Aug 2025 09:44:28 GMT | Top 10 WiFi Hacking Tools Used by Ethical Hackers: Introduction | Manisha Chaudhary | [Read More](https://medium.com/p/4268aa1bd672) |
 | Fri, 01 Aug 2025 09:41:38 GMT | Regurgitated Tech: Is MCP Just SOA’s Latest Remix? | Namir Sagheenanajar | [Read More](https://medium.com/p/4de97bd87a6d) |
 | Fri, 01 Aug 2025 09:41:28 GMT | Exploiting LLM APIs with Excessive Agency [Part 1] | Aditya Bhatt | [Read More](https://medium.com/p/19f0d8c70127) |
+| Fri, 01 Aug 2025 09:40:37 GMT | Your Guide to Smart, Reliable Home Security Boston | First Alarm LLC | [Read More](https://medium.com/p/94815222d8b1) |
 | Fri, 01 Aug 2025 09:38:54 GMT | Exposed: Google Indexed Thousands of Private AI Chats | Ali Farhat | [Read More](https://medium.com/p/207e2ce06a57) |
 | Fri, 01 Aug 2025 09:33:24 GMT | The Digital Dojo: Mastering Offensive Security with AI-Powered Python Cyber Ranges | SR | [Read More](https://medium.com/p/980ea317d4f9) |
 | Fri, 01 Aug 2025 09:26:40 GMT | The Daily Tech Digest: 01 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/b59c0b551d14) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 05:55:19 GMT | Ajath Infotech Pvt. Ltd.: Transforming Businesses Through Smart App & Web Development | Ajath Infotech | [Read More](https://medium.com/p/f37279175dd3) |
 | Fri, 01 Aug 2025 05:54:19 GMT | Start Earning with Cybersecurity — Even Before You Graduate | Core Academy | [Read More](https://medium.com/p/8ec54543d2a4) |
 | Fri, 01 Aug 2025 05:42:54 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/f15557863798) |
-| Fri, 01 Aug 2025 05:42:38 GMT | Isolation and Access Control Between Teams and Workloads in Apache Airflow and Cloud Composer | Sendoa Moronta | [Read More](https://medium.com/p/7ce1a0b22a3d) |
-| Fri, 01 Aug 2025 05:22:58 GMT | How Russia’s Secret Blizzard Used ISP-Level Malware to Spy on Foreign Embassies in Moscow | CYber VIaz | [Read More](https://medium.com/p/0f778568cc27) |
-| Fri, 01 Aug 2025 05:18:41 GMT | Day 18- Basic computer networking for beginners | unica 02 | [Read More](https://medium.com/p/67b4eaa8dc10) |
-| Fri, 01 Aug 2025 05:15:40 GMT | Why We Must Decode Institutional Language Before It’s Digitised | Sarah Ailish McLoughlin | [Read More](https://medium.com/p/20dac33fc36c) |
-| Fri, 01 Aug 2025 05:07:49 GMT | Emerging Cyber Trends | Aninaabraham | [Read More](https://medium.com/p/36e6bc12d028) |
-| Fri, 01 Aug 2025 05:07:49 GMT | Windows XP Penetration Testing And Exploiting. | Tarunmk | [Read More](https://medium.com/p/8e81ac6a65a5) |
-| Fri, 01 Aug 2025 05:01:30 GMT | Scooter Hacking: Risky Rides or Just Fun & Games? | SilentInject | [Read More](https://medium.com/p/51b43eb1cf4b) |
-| Fri, 01 Aug 2025 04:57:39 GMT | Understanding Buffer Overflow Vulnerabilities and Return Oriented Programming | Pawan Wagh | [Read More](https://medium.com/p/2209dd050583) |
-| Fri, 01 Aug 2025 04:54:50 GMT | ️ Securing Binaries Against Reverse Engineering: A Developer’s Guide | Geeky Vartika | [Read More](https://medium.com/p/1d4616d03e50) |
-| Fri, 01 Aug 2025 04:48:05 GMT | Rapid7 Layoffs: “Brutal, but is it really a surprise?” | Truspex | [Read More](https://medium.com/p/804bcead770e) |
-| Fri, 01 Aug 2025 04:46:44 GMT | Reflected XSS in HTML Context with Most Tags and Attributes Blocked | Bash Overflow | [Read More](https://medium.com/p/b601de27500a) |
-| Fri, 01 Aug 2025 04:46:36 GMT | FutureProof 2.0 - Episode #23 AI in Agriculture — Feeding 10 Billion Without Breaking the Planet | Bayo Adebogun Founder and CEO @VortEdge | [Read More](https://medium.com/p/99f84e4e953d) |
-| Fri, 01 Aug 2025 04:44:21 GMT | What is the difference between IoC and IoA? | BnHany | [Read More](https://medium.com/p/f9e5292fc60b) |
-| Fri, 01 Aug 2025 04:43:48 GMT | PlugScale: The Smarter Way to Build Your Global Capability Center | PlugScale | [Read More](https://medium.com/p/46453e2ac348) |
-| Fri, 01 Aug 2025 04:37:48 GMT | AI SOC Revolution: How Artificial Intelligence is Transforming Cybersecurity Operations in 2025 | Simbian.ai | [Read More](https://medium.com/p/1e3a13b782c2) |
-| Fri, 01 Aug 2025 04:37:33 GMT | Essential Technology Troubleshooting: Your First Line of Defense | Geroge Gary | [Read More](https://medium.com/p/5a8909503e4e) |
-| Fri, 01 Aug 2025 04:37:30 GMT | AI SOC Agents — How Agentic SOC Outpace Traditional Tools | Simbian.ai | [Read More](https://medium.com/p/9d6523c77813) |
-| Fri, 01 Aug 2025 04:37:13 GMT | How AI SOC Analysts Are Revolutionizing Cybersecurity Operations in 2025 | Simbian.ai | [Read More](https://medium.com/p/d5068c990617) |
