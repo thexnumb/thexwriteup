@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 12:37:22 GMT | Ngrok shields n8n flows with free privacy that’s easy peasy - Ngrok护n8n流 免费隐私easy peasy | slUbishi | [Read More](https://medium.com/p/2b6f402797e0) |
+| Fri, 01 Aug 2025 12:33:02 GMT | Hire Rust Developers to Boost Your Cybersecurity and System Efficiency | Rollout IT | [Read More](https://medium.com/p/cf40bed54ed5) |
+| Fri, 01 Aug 2025 12:30:50 GMT | The hidden reason most tech talents don’t succeed — and how to beat it | Newton Tech Navigator | [Read More](https://medium.com/p/8c11fdedf1d0) |
+| Fri, 01 Aug 2025 12:30:41 GMT | When You’re the One Who Loves More (And You Know It) | Rendanup | [Read More](https://medium.com/p/d96864ce1d06) |
+| Fri, 01 Aug 2025 12:26:17 GMT | Who needs Security and Privacy by Design? | Ziya Zoe | [Read More](https://medium.com/p/6961262a7506) |
+| Fri, 01 Aug 2025 12:19:44 GMT | Windows Authentication Monitoring | Neetrox | [Read More](https://medium.com/p/ca3dce7b7526) |
+| Fri, 01 Aug 2025 12:19:30 GMT | $139M Gone: The 5 Most Devastating Crypto Hacks of July 2025 | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/8598393d6e83) |
+| Fri, 01 Aug 2025 12:18:01 GMT | Why use Security and Privacy by Design? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/dcbdb27f6f61) |
+| Fri, 01 Aug 2025 12:17:58 GMT | What is Transport Layer Security ? | kacar | [Read More](https://medium.com/p/d873adb859c7) |
+| Fri, 01 Aug 2025 12:16:40 GMT | Understanding Authentication, Access Control, and Risk Assessments in Cybersecurity. | Dany Christel | [Read More](https://medium.com/p/43f4ba41d9bf) |
+| Fri, 01 Aug 2025 12:15:23 GMT | The Future of Cybersecurity: Why Businesses Must Adopt Privacy by Design Now | sanya | [Read More](https://medium.com/p/937b13cc708c) |
+| Fri, 01 Aug 2025 12:12:09 GMT | Learning Cybersecurity Without a Tech Background: What No One Tells You | Anna | [Read More](https://medium.com/p/8967c3b9aff5) |
+| Fri, 01 Aug 2025 12:09:09 GMT | Advanced Google Dorking - Part 19 | AbhirupKonwar | [Read More](https://medium.com/p/a59ebfb3c775) |
+| Fri, 01 Aug 2025 12:06:17 GMT | D3fenders 2FA Vault Goes Live on Polygon — | Burns | [Read More](https://medium.com/p/4395d53d3bd2) |
+| Fri, 01 Aug 2025 11:48:27 GMT | Ethical Hacking | Sanehairfan | [Read More](https://medium.com/p/1a57d2a17edb) |
+| Fri, 01 Aug 2025 11:38:47 GMT | City of Hats — Redefining Cybersecurity with Autonomous AI Agents | City of Hats | [Read More](https://medium.com/p/37445ed4a3a4) |
 | Fri, 01 Aug 2025 11:32:18 GMT | VPN Speed Wars: Why ExpressVPN’s 7% Beats CyberGhost’s 10% (And Why It Matters) | TechEd Publishers | [Read More](https://medium.com/p/a48370649e3e) |
 | Fri, 01 Aug 2025 11:31:44 GMT | CISO: Self-Assess Your Security Program — A Mindmap | Yael Nagler | [Read More](https://medium.com/p/44aef0594601) |
 | Fri, 01 Aug 2025 11:25:30 GMT | No SQL Injection — PicoCTF WriteUp | Musthofa Kamaluddin | [Read More](https://medium.com/p/c4d6ca4e63fd) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 08:11:23 GMT | Week 7 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/09b4170209d1) |
 | Fri, 01 Aug 2025 08:11:07 GMT | 3 Common IT Issues and How Support Teams Fix Them | Aishwarya | [Read More](https://medium.com/p/36d7973e95f1) |
 | Fri, 01 Aug 2025 08:08:33 GMT | FortiGuard CASB Service: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/0ed0ab4b3a27) |
-| Fri, 01 Aug 2025 08:06:48 GMT | Building Your Cybersecurity Future: Key Concepts and Career Pathways | Ann Maria | [Read More](https://medium.com/p/7ec5b609a6e9) |
-| Fri, 01 Aug 2025 08:06:27 GMT | PenligentAI · 1, August 2025 | PenligentAI | [Read More](https://medium.com/p/4a78bc1840cd) |
-| Fri, 01 Aug 2025 08:04:24 GMT | Meet the New Wave of AI-Native Security Innovators | PenligentAI | [Read More](https://medium.com/p/44dff67cf482) |
-| Fri, 01 Aug 2025 07:59:39 GMT | Penligent.ai: Unveiling the Shocking Power and Challenges of LLM‑Based Penetration Testing | PenligentAI | [Read More](https://medium.com/p/2aefb4a2635e) |
-| Fri, 01 Aug 2025 07:45:19 GMT | 250–587 Administration of Symantec Endpoint Protection 14 Complete Certification Guide 2025 | Mehmood Ali | [Read More](https://medium.com/p/88d9acccc438) |
-| Fri, 01 Aug 2025 07:44:47 GMT | Volatility Essentials: Intro to Memory Forensics — A Memory Guide — TryHackME | Kalp Prajapati | [Read More](https://medium.com/p/26844940ab19) |
-| Fri, 01 Aug 2025 07:42:08 GMT | The 20x Employee: A Strategic Framework for Unlocking Hyper-Productivity with Artificial… | Andrey Pautov | [Read More](https://medium.com/p/8f49cde95a25) |
-| Fri, 01 Aug 2025 07:36:06 GMT | Vulnerability Assessment and Penetration Testing | Shubhamrawat | [Read More](https://medium.com/p/bfa1fdc89ae2) |
-| Fri, 01 Aug 2025 07:34:08 GMT | Secure Docker Image Scanning with Vault Radar: Closing the Loop on Container Secrets ⭕️ | Raymon Epping | [Read More](https://medium.com/p/15dab1ef83d4) |
-| Fri, 01 Aug 2025 07:32:17 GMT | Fixing the BloodHound Startup Error on Kali Linux | Prath | [Read More](https://medium.com/p/3712abe83daf) |
-| Fri, 01 Aug 2025 07:29:33 GMT | “Beyond Encryption: Why Quantum Networks and Quantum-Safe Security Are No Longer Optional” | SAMBATH KUMAR J | [Read More](https://medium.com/p/761d0bbaaa1a) |
-| Fri, 01 Aug 2025 07:28:21 GMT | CoinDCX Hack Explained: Hornet’s Role in the Aftermath | Kapil Kathiriya | [Read More](https://medium.com/p/e65df1adc39b) |
-| Fri, 01 Aug 2025 07:27:42 GMT | WordPress Security in 2025: Core Defenses and Enterprise Strategies | Osom Studio WordPress and WooCommerce Agency | [Read More](https://medium.com/p/12a13cab934c) |
-| Fri, 01 Aug 2025 07:24:14 GMT | RCE in Apache OFBiz: What Devs Should Know About CVE-2023–49070 | AerieWhole123 | [Read More](https://medium.com/p/ddcf2b3bcee1) |
-| Fri, 01 Aug 2025 07:22:11 GMT | How 3 Free Recon Tools found 40 Bugs — Helped To Score $1200 in Bug Bounties | Rashadul Islam | [Read More](https://medium.com/p/55c215b372a3) |
-| Fri, 01 Aug 2025 07:18:24 GMT | How to Watch Anything, Anywhere (Legally-ish) | Cloudbric VPN | [Read More](https://medium.com/p/1c0f4ff0bae2) |
