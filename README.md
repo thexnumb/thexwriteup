@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 18:44:24 GMT | Exploiting CVE-2025–29744 in pg-promise: When Prepared Statements Aren’t Safe | Aniket. | [Read More](https://medium.com/p/5408360ce342) |
+| Fri, 01 Aug 2025 18:43:44 GMT | Best Programming Languages for Cybersecurity in 2025 | Ayza Anam | [Read More](https://medium.com/p/c3aac64b7fa9) |
+| Fri, 01 Aug 2025 18:40:27 GMT | CAASM for Technology Leaders | Arup Nanda | [Read More](https://medium.com/p/9b0879bbd73c) |
+| Fri, 01 Aug 2025 18:34:35 GMT | Beginner’s Guide to Ethical Hacking & Footprinting (in Sinhala  + English) | Ruwan Sanjeewa | [Read More](https://medium.com/p/86dc58009527) |
+| Fri, 01 Aug 2025 18:30:50 GMT | Process ve Thread: Bilgisayarın Mutfak Ekibi | bullbullsena | [Read More](https://medium.com/p/b4f1d7b08b72) |
+| Fri, 01 Aug 2025 18:30:33 GMT | Internet Security Trends Driving Digital Transformation in Business | CanComCo | [Read More](https://medium.com/p/05489418d748) |
+| Fri, 01 Aug 2025 18:25:42 GMT | Dịch vụ bảo vệ chuyên nghiệp, uy tín, giá rẻ — An ninh tuyệt đối cho mọi nhu cầu! | DaiAnGroup | [Read More](https://medium.com/p/a31cc5ec2d92) |
 | Fri, 01 Aug 2025 18:25:24 GMT | What if your smart home turned against you? | Malavika Manoj | [Read More](https://medium.com/p/1432163841b7) |
 | Fri, 01 Aug 2025 18:18:46 GMT | SQL injection — String and authentication [Root me] | Adhamkhairy | [Read More](https://medium.com/p/cccf746dc571) |
 | Fri, 01 Aug 2025 18:17:37 GMT | Armed Armed Security Services That Guarantee Safety and Control | Uniworth | [Read More](https://medium.com/p/b7593f985e47) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 13:41:01 GMT | NodeBlog — HackTheBox | S4ntiHack | [Read More](https://medium.com/p/3c5912931c3f) |
 | Fri, 01 Aug 2025 13:31:43 GMT | HRO Strategies for a Cyber-Resilient Business Transformation: The Human Firewall | IT_Engineer | [Read More](https://medium.com/p/b0645d9a5b90) |
 | Fri, 01 Aug 2025 13:29:31 GMT | Top 10 Cyber Threats You Can Prevent with Managed Security Services | Elevate | [Read More](https://medium.com/p/c6b2d178b1a9) |
-| Fri, 01 Aug 2025 13:21:35 GMT | Global IT Security Rollouts: When Good Intentions Fall Short in Local Operations | KunjiMaru | [Read More](https://medium.com/p/bfecb2cb0df2) |
-| Fri, 01 Aug 2025 13:17:05 GMT | BehindTheScreens: Building a Portfolio-Worthy GRC Policy Suite with GitHub and NIST | Sam - Behind The Screens | [Read More](https://medium.com/p/f8c83c2adafd) |
-| Fri, 01 Aug 2025 13:05:12 GMT | Jail Breaking in Large Language Models (LLM) | Ayush Parwal | [Read More](https://medium.com/p/1ed6b8169e01) |
-| Fri, 01 Aug 2025 13:04:08 GMT | How I Hacked Vimeo Using Just SSRF | Ibtissam hammadi | [Read More](https://medium.com/p/dd2a6c17a5a4) |
-| Fri, 01 Aug 2025 13:02:39 GMT | Pwn2Own Offers $1 Million Bounty for Zero-Click WhatsApp Exploit | Mohammed Muneef | [Read More](https://medium.com/p/cd8a4d8984dd) |
-| Fri, 01 Aug 2025 13:00:45 GMT | SecurityManager Devre Dışıysa, Saldırganın Yolu Açık | Serdarumuturan | [Read More](https://medium.com/p/0837d79d6064) |
-| Fri, 01 Aug 2025 12:59:31 GMT | Cybersecurity Best Practices and Services to Protect Your Business in 2025 | secureroot | [Read More](https://medium.com/p/7529a7829f1d) |
