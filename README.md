@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 13:31:43 GMT | HRO Strategies for a Cyber-Resilient Business Transformation: The Human Firewall | IT_Engineer | [Read More](https://medium.com/p/b0645d9a5b90) |
+| Fri, 01 Aug 2025 13:29:31 GMT | Top 10 Cyber Threats You Can Prevent with Managed Security Services | Elevate | [Read More](https://medium.com/p/c6b2d178b1a9) |
+| Fri, 01 Aug 2025 13:21:35 GMT | Global IT Security Rollouts: When Good Intentions Fall Short in Local Operations | KunjiMaru | [Read More](https://medium.com/p/bfecb2cb0df2) |
+| Fri, 01 Aug 2025 13:17:05 GMT | BehindTheScreens: Building a Portfolio-Worthy GRC Policy Suite with GitHub and NIST | Sam - Behind The Screens | [Read More](https://medium.com/p/f8c83c2adafd) |
+| Fri, 01 Aug 2025 13:05:12 GMT | Jail Breaking in Large Language Models (LLM) | Ayush Parwal | [Read More](https://medium.com/p/1ed6b8169e01) |
+| Fri, 01 Aug 2025 13:04:08 GMT | How I Hacked Vimeo Using Just SSRF | Ibtissam hammadi | [Read More](https://medium.com/p/dd2a6c17a5a4) |
+| Fri, 01 Aug 2025 13:02:39 GMT | Pwn2Own Offers $1 Million Bounty for Zero-Click WhatsApp Exploit | Mohammed Muneef | [Read More](https://medium.com/p/cd8a4d8984dd) |
+| Fri, 01 Aug 2025 13:00:45 GMT | SecurityManager Devre Dışıysa, Saldırganın Yolu Açık | Serdarumuturan | [Read More](https://medium.com/p/0837d79d6064) |
+| Fri, 01 Aug 2025 12:59:31 GMT | Cybersecurity Best Practices and Services to Protect Your Business in 2025 | secureroot | [Read More](https://medium.com/p/7529a7829f1d) |
+| Fri, 01 Aug 2025 12:57:55 GMT | rootme -Local File Inclusion — Double encoding | Abdelfattah Elsabagh | [Read More](https://medium.com/p/f31f7e66bb26) |
+| Fri, 01 Aug 2025 12:57:47 GMT | How Facebook Intercepted Encrypted App Data: Then and Now | Ruben Groothuis | [Read More](https://medium.com/p/912201427823) |
+| Fri, 01 Aug 2025 12:54:44 GMT | From Concept to Impact: A Look at 5 Use Cases That Show Acurast in Action | Acurast | [Read More](https://medium.com/p/c106cf49a79b) |
+| Fri, 01 Aug 2025 12:53:19 GMT | You Don’t Have to Prove Them Wrong, Just Don’t Stay Small to Please Them | Duru joshua | [Read More](https://medium.com/p/583f24dbed56) |
+| Fri, 01 Aug 2025 12:52:16 GMT | Fed Up with Pinokio’s Bloat and Closed Nature, I Built a Portable Alternative in a Weekend. | NeuroDonu | [Read More](https://medium.com/p/0e96fc082e68) |
+| Fri, 01 Aug 2025 12:52:00 GMT | Benign | 0xPhantom | [Read More](https://medium.com/p/ff8eb36be720) |
 | Fri, 01 Aug 2025 12:37:22 GMT | Ngrok shields n8n flows with free privacy that’s easy peasy - Ngrok护n8n流 免费隐私easy peasy | slUbishi | [Read More](https://medium.com/p/2b6f402797e0) |
 | Fri, 01 Aug 2025 12:33:02 GMT | Hire Rust Developers to Boost Your Cybersecurity and System Efficiency | Rollout IT | [Read More](https://medium.com/p/cf40bed54ed5) |
 | Fri, 01 Aug 2025 12:30:50 GMT | The hidden reason most tech talents don’t succeed — and how to beat it | Newton Tech Navigator | [Read More](https://medium.com/p/8c11fdedf1d0) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 09:01:45 GMT | The Shodan & FOFA Hack No One Wants You to Know About | KonaN | [Read More](https://medium.com/p/5eb9be3688de) |
 | Fri, 01 Aug 2025 09:01:32 GMT | How Onsite IT Support Drives Business Efficiency, Security, and Growth? | Managed IT Services | [Read More](https://medium.com/p/f8f6a3a06e01) |
 | Fri, 01 Aug 2025 08:56:58 GMT | It is a blessing (Confidential data) in disguise (Part 2) | wh0arey0u | [Read More](https://medium.com/p/5a85b6d8cfa5) |
-| Fri, 01 Aug 2025 08:51:55 GMT | Tracing Crypto: A Forensic Investigator’s Guide | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/89cf5d718360) |
-| Fri, 01 Aug 2025 08:47:59 GMT | What is Google Dorking? (Google Dorking කියන්නේ මොකද්ද?) | Ruwan Sanjeewa | [Read More](https://medium.com/p/94ee2ea14178) |
-| Fri, 01 Aug 2025 08:45:46 GMT | I Almost Got Robbed Because of This One Dumb Habit — Here’s What I Changed | Souhail Amrani | [Read More](https://medium.com/p/2df804636c67) |
-| Fri, 01 Aug 2025 08:33:46 GMT | Symbiotic — The Modular Restaking Layer Powering the Next Era of Web3 Security | brice1337 | [Read More](https://medium.com/p/574afdb3d798) |
-| Fri, 01 Aug 2025 08:28:46 GMT | NCSC CTF 2025 Forensics writeup | Mustafaalzaareer | [Read More](https://medium.com/p/dd060ace1990) |
-| Fri, 01 Aug 2025 08:26:04 GMT | The Future of AI Startups: 5 Trends TechMindz.ai is Betting On | Tech mindz AI | [Read More](https://medium.com/p/3b98c0aa9661) |
-| Fri, 01 Aug 2025 08:19:38 GMT | My First 7 Days on TryHackMe | Pawan natekar | [Read More](https://medium.com/p/35d1e23bc5f7) |
-| Fri, 01 Aug 2025 08:19:06 GMT | Snake in the Pipeline: North Korea’s Covert Code Sabotage | Pentestjunkie07 | [Read More](https://medium.com/p/267e6c6a2a94) |
-| Fri, 01 Aug 2025 08:16:49 GMT | Managed Detection and Response (MDR): A Smarter Way to Secure Your Business | devika pandey | [Read More](https://medium.com/p/a160e1fc6530) |
-| Fri, 01 Aug 2025 08:15:00 GMT | How Managed SIEM Detects Threats 10x Faster Than Your IT Team | SecureSlate | [Read More](https://medium.com/p/277ffb2115ea) |
-| Fri, 01 Aug 2025 08:13:57 GMT | After the Words | Kristie Bradfield | [Read More](https://medium.com/p/ad36d0937725) |
-| Fri, 01 Aug 2025 08:13:21 GMT | 5 Takeaways from NetTech Episode 5: Securing Your Cloud Environment: Best Practices and Emerging… | Netpremacy | [Read More](https://medium.com/p/ebbea74aa9fc) |
-| Fri, 01 Aug 2025 08:11:23 GMT | Week 7 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/09b4170209d1) |
-| Fri, 01 Aug 2025 08:11:07 GMT | 3 Common IT Issues and How Support Teams Fix Them | Aishwarya | [Read More](https://medium.com/p/36d7973e95f1) |
-| Fri, 01 Aug 2025 08:08:33 GMT | FortiGuard CASB Service: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/0ed0ab4b3a27) |
