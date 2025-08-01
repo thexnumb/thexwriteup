@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 04:01:45 GMT | CAASM for Technology Leaders | Arup Nanda | [Read More](https://medium.com/p/695020751d9f) |
+| Fri, 01 Aug 2025 04:01:42 GMT | Border Security Market is expected to develop at a compound annual growth rate (CAGR) of 9.1% | Vinita kumari | [Read More](https://medium.com/p/992f4875fd4e) |
+| Fri, 01 Aug 2025 03:50:18 GMT | The Hottest WAF of 2025 | Maverick Steel | [Read More](https://medium.com/p/d461eb128e22) |
+| Fri, 01 Aug 2025 03:48:32 GMT | Why Security Should Be Part of Your CI/CD Pipeline | Mohammad Muhiuddin | [Read More](https://medium.com/p/f9482f2b1452) |
+| Fri, 01 Aug 2025 03:46:36 GMT | Permission Power: Smart Permission Management in Android | Divya Dharshini | [Read More](https://medium.com/p/7aa7aff7d58c) |
+| Fri, 01 Aug 2025 03:41:53 GMT | DAILY BUGLE-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/16ffc406780e) |
+| Fri, 01 Aug 2025 03:39:20 GMT | Escalating the Risk of Open Redirects | Akbar Kustirama | [Read More](https://medium.com/p/322e21927377) |
+| Fri, 01 Aug 2025 03:37:49 GMT | SafeLine vs Wallarm: Which WAF Delivers Smarter, Simpler Protection? | AerieWhole123 | [Read More](https://medium.com/p/9a629363fe86) |
+| Fri, 01 Aug 2025 03:34:31 GMT | Why Stored XSS Is Still So Dangerous: A Real Example and How to Defend | ven coding | [Read More](https://medium.com/p/c6774b5de579) |
+| Fri, 01 Aug 2025 03:31:39 GMT | Cybersecurity Betrayal: When the Protector Becomes the Threat | Deven Chhajed | [Read More](https://medium.com/p/02dddb88352c) |
+| Fri, 01 Aug 2025 03:31:38 GMT | Recon in Minutes: Automating Subdomain Discovery for Penetration Tests | mattyerz | [Read More](https://medium.com/p/65fe2b095667) |
+| Fri, 01 Aug 2025 03:31:38 GMT | 5 Tips for Managing Environment Variables Across Environments | Arunangshu Das | [Read More](https://medium.com/p/8a8216176baf) |
+| Fri, 01 Aug 2025 03:30:37 GMT | Revenant: A Modern, Full-Stack Reverse Shell C2 Framework — From Payload Generation to Victim… | Hack-Bat | [Read More](https://medium.com/p/c73167670619) |
+| Fri, 01 Aug 2025 03:28:41 GMT | MatchTheRegex — PicoCTF WriteUp | Musthofa Kamaluddin | [Read More](https://medium.com/p/18b8f4631e2e) |
+| Fri, 01 Aug 2025 03:26:22 GMT | mirror, mirror on the wall — do you like what you see? | Grace D | [Read More](https://medium.com/p/78b3bc419ad2) |
+| Fri, 01 Aug 2025 03:21:06 GMT | Install MISP on Docker on Debian Linux | Advaniar | [Read More](https://medium.com/p/68ace62c2629) |
+| Fri, 01 Aug 2025 03:15:44 GMT | QR Codes: The New Frontier for Phishing Attacks | Shubhangi Singh | [Read More](https://medium.com/p/6868c494ab78) |
+| Fri, 01 Aug 2025 03:14:24 GMT | Absolutely! | Musthofa Kamaluddin | [Read More](https://medium.com/p/21f39ef4d536) |
+| Fri, 01 Aug 2025 03:00:22 GMT | The Threat Isn’t 10 Years Away—It’s Already in Motion | Shubhangi Singh | [Read More](https://medium.com/p/8aba07dedfd6) |
+| Fri, 01 Aug 2025 02:47:47 GMT | Docker :Dockerfile Security How Product Managers Can Prevent Confidential Data Leaks | Lohitaksh Yogi | [Read More](https://medium.com/p/65fe69341934) |
+| Fri, 01 Aug 2025 02:46:42 GMT | Understanding Cross-Site Scripting (XSS) Through JavaScript | Maximilian Oliver | [Read More](https://medium.com/p/242d4a9a6576) |
+| Fri, 01 Aug 2025 02:20:02 GMT | Stop Guessing What 404 Means! The Ultimate Guide to HTTP Status Codes You Need to Bookmark | Paritosh | [Read More](https://medium.com/p/48d080202674) |
+| Fri, 01 Aug 2025 02:16:38 GMT | Why You Should Use Microsoft Graph API for Uploading Files- Over SharePoint REST API? | Ankita Kanzariya | [Read More](https://medium.com/p/5d19545e0293) |
 | Fri, 01 Aug 2025 02:01:25 GMT | A CCSP (Certified Cloud Security Professional) Exam Kickstarter for Cloud Native Security… | Gerald Bachlmayr | [Read More](https://medium.com/p/1120b52c3deb) |
 | Fri, 01 Aug 2025 01:58:36 GMT | This Malware Uses Facebook Ads to Hijack Your Crypto | Cyber-AppSec | [Read More](https://medium.com/p/74a0cb996ef5) |
 | Fri, 01 Aug 2025 01:52:00 GMT | 4. Malware | unknownman | [Read More](https://medium.com/p/2504229d43e2) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 18:55:29 GMT | THM - Evil-GPT | Francesco Pastore | [Read More](https://medium.com/p/18b87cc47436) |
 | Thu, 31 Jul 2025 18:52:03 GMT | Tyler Technologies: America’s Hidden Judicial Vulnerability | Relational AI Ethics | [Read More](https://medium.com/p/a7b46afb4016) |
 | Thu, 31 Jul 2025 18:47:43 GMT | Tehlike İçeriden Geldiğinde Güven Yeterli Değildir | AYŞE KIZILAY | [Read More](https://medium.com/p/7356c9cffc03) |
-| Thu, 31 Jul 2025 18:43:18 GMT | Identity in the 21st Century: Technology, Cybersecurity, and the Rise of Digital Cloning | Solene Vu | [Read More](https://medium.com/p/b4a80530297b) |
-| Thu, 31 Jul 2025 18:40:31 GMT | FHEは「個人データ主権」の夢をいかに現実にするか？：データ経済の未来像 | mirao | [Read More](https://medium.com/p/90984f068b9b) |
-| Thu, 31 Jul 2025 18:39:01 GMT | Why Networking Support Is the Silent Backbone of Modern Businesses | itsupport.net.in | [Read More](https://medium.com/p/b663d577a393) |
-| Thu, 31 Jul 2025 18:27:48 GMT | HOW TO RECOVER STOLEN OR LOST BITCOIN/MALICE CYBER RECOVERY WILL SOLVE YOUR PROBLEMS | Stanley Cassiuss | [Read More](https://medium.com/p/ac6ee56ea6b7) |
-| Thu, 31 Jul 2025 18:17:56 GMT | Detecting Living-off-the-Land (LOLBAS) Attacks with Sigma Rules | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/340e441fc444) |
-| Thu, 31 Jul 2025 18:08:12 GMT | “DeepFace” Kimin Gerçek Olduğunu Nasıl Anlayacağız? | UniVerse | [Read More](https://medium.com/p/15418fcc364e) |
-| Thu, 31 Jul 2025 18:06:30 GMT | How Large Language Models (LLMs) in Cybersecurity Secure Our Future? - USCSI® | United States Cybersecurity Institute (USCSI®) | [Read More](https://medium.com/p/45a0a9730084) |
-| Thu, 31 Jul 2025 18:03:08 GMT | The Compliance Trap: Chasing Checkboxes Is Sabotaging Your Organization’s Security | Nimish Agarwal | [Read More](https://medium.com/p/2f030e075a36) |
-| Thu, 31 Jul 2025 18:02:31 GMT | Aflac Social Engineering Attack Lessons to Learn | Asad Syed | [Read More](https://medium.com/p/121e6ff0872c) |
-| Thu, 31 Jul 2025 18:01:57 GMT | Polter’s $12M Oracle Exploit, CloberDex’s Reentrancy, and Coin31’s Access Control Failure | Olympix | [Read More](https://medium.com/p/a16f0005f729) |
-| Thu, 31 Jul 2025 18:00:23 GMT | Insecure Direct Object Reference (IDOR): Buggy Buy’s Broken Access Control | Muniza Badar | [Read More](https://medium.com/p/5a59bba49610) |
-| Thu, 31 Jul 2025 18:00:22 GMT | Cyber Insurance: Your Digital Safety Net | Aastha Thakker | [Read More](https://medium.com/p/4a7290f7214e) |
-| Thu, 31 Jul 2025 17:59:58 GMT | Business Logic Flaw: Price Manipulation in buggy buy | Muniza Badar | [Read More](https://medium.com/p/62b050eea93b) |
-| Thu, 31 Jul 2025 17:56:44 GMT | ️ What You Actually Do as a Cybersecurity Analyst | Uplatz | [Read More](https://medium.com/p/d6baa5c5176b) |
-| Thu, 31 Jul 2025 17:49:09 GMT | Security-as-a-Service (SECaaS): Everything You Need to Know - USCSI® | United States Cybersecurity Institute (USCSI®) | [Read More](https://medium.com/p/cb0f169dbfe7) |
-| Thu, 31 Jul 2025 17:46:02 GMT | CMMC 2.0 Readiness: Essential Preparation Tips for DoD Contractors | ISI Defense | [Read More](https://medium.com/p/58cd0465a88c) |
-| Thu, 31 Jul 2025 17:41:23 GMT | Lost Your Phone? These Spy Apps Will Help You Find It in a Jiffy | Narjis Batool | [Read More](https://medium.com/p/2ce17d53c2ed) |
-| Thu, 31 Jul 2025 17:32:04 GMT | Serverless Rules CDK Nag Pack | Serverless Advocate | [Read More](https://medium.com/p/338f50d68215) |
-| Thu, 31 Jul 2025 17:16:23 GMT | Log4Shell in 2025: Why It’s Still a Bug Bounty Goldmine | Kalariya Het | [Read More](https://medium.com/p/493344e84b0e) |
-| Thu, 31 Jul 2025 17:09:09 GMT | 7 Life-Saving Cybersecurity Habits Most People Ignore (But Shouldn’t) | Masonmarkus | [Read More](https://medium.com/p/6ce668e40296) |
-| Thu, 31 Jul 2025 17:07:30 GMT | “How I Turned an LFI into a $5,000 Payday (And How You Can Too)” | Aman Sharma | [Read More](https://medium.com/p/2bdf7b719709) |
-| Thu, 31 Jul 2025 17:02:45 GMT | Best Practices for Storing Passwords in Node.js: A Secure Approach | habtesoft | [Read More](https://medium.com/p/5e1c50ee81e0) |
-| Thu, 31 Jul 2025 17:02:45 GMT | Analysis - The Rising Threat of Sahel Extremism: The United States Cannot Afford to Withdraw from… | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/fbde7931cbf0) |
