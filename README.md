@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 14:17:26 GMT | Hacker vs. Hacker — TryHackMe writeup | Adhamkhairy | [Read More](https://medium.com/p/ac4efaa0549f) |
+| Fri, 01 Aug 2025 14:13:13 GMT | Enterprise Browser DLP: How Mammoth Secures Sensitive Data in Hybrid Work Environments | Mammoth Cyber | [Read More](https://medium.com/p/179d424f3d44) |
+| Fri, 01 Aug 2025 14:06:38 GMT | Beginners guide to OSINT — I | Pranavkumar Katariya | [Read More](https://medium.com/p/c9e3146cc6c8) |
+| Fri, 01 Aug 2025 14:04:55 GMT | Uncovering the Truth: A Beginner’s Guide to Digital Forensics | Shehab Ahmed | [Read More](https://medium.com/p/c489fad12678) |
+| Fri, 01 Aug 2025 14:02:45 GMT | Are You Really Safe Online? Why Cyber Security Awareness Is More Critical Than Ever | Paul Meyer | [Read More](https://medium.com/p/fb47eb0dc03d) |
+| Fri, 01 Aug 2025 14:02:43 GMT | What are the latest cybersecurity alerts, incidents, and news? | CyberMaterial | [Read More](https://medium.com/p/aa88696f8821) |
+| Fri, 01 Aug 2025 14:02:43 GMT | What is Cybersecurity? | Heatena | [Read More](https://medium.com/p/77fdb98f3759) |
+| Fri, 01 Aug 2025 13:59:35 GMT | GoHighLevel MasterClass Review: Unlock Your Marketing Automation Potential | Automation Guru | [Read More](https://medium.com/p/5a8d252f3e9e) |
+| Fri, 01 Aug 2025 13:58:54 GMT | Top 10 Security Risks Targeting MCP Servers | SOCRadar® Extended Cyber Threat Intelligence | [Read More](https://medium.com/p/bbef7404bcb8) |
+| Fri, 01 Aug 2025 13:57:49 GMT | INSIDE QILIN RANSOMWARE AFFILIATE PANEL | Rakesh Krishnan | [Read More](https://medium.com/p/70614db64424) |
+| Fri, 01 Aug 2025 13:54:08 GMT | GB Olan Hafıza Kartınız MB mı Gözüküyor? İşte Kolay ve Kesin Çözümü! | NasuhcaN | [Read More](https://medium.com/p/bb823b8752f9) |
+| Fri, 01 Aug 2025 13:52:55 GMT | Top Cybersecurity Certifications (CISSP, Security+, OSCP) | Cyber Security Details | [Read More](https://medium.com/p/2c6fc766c573) |
+| Fri, 01 Aug 2025 13:51:03 GMT | Exploiting Misconfigured DNS for Enumeration and Zone Transfer | Mkirahmet | [Read More](https://medium.com/p/768537532824) |
+| Fri, 01 Aug 2025 13:48:39 GMT | Why there is no job in the market? and very high competition over the time | Bilal Zurmati | [Read More](https://medium.com/p/8da2c79b3533) |
+| Fri, 01 Aug 2025 13:47:21 GMT | WeTransfer’s New Privacy Policy: What You Need to Know | Life is Real | [Read More](https://medium.com/p/11211c2c9550) |
+| Fri, 01 Aug 2025 13:45:20 GMT | Software Integrity Failures: Are You Unknowingly Serving Malicious Code? | Aravind S V | [Read More](https://medium.com/p/f8520c59c0f5) |
+| Fri, 01 Aug 2025 13:43:52 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/56e060efa4ee) |
+| Fri, 01 Aug 2025 13:43:30 GMT | Why CVSS is Dead To Me | PKC | [Read More](https://medium.com/p/42c9d60887b4) |
+| Fri, 01 Aug 2025 13:41:35 GMT | Part 4: “Fileless Persistence” — The Malware That Came to Stay | Kunal Rajour | [Read More](https://medium.com/p/c106019b8298) |
+| Fri, 01 Aug 2025 13:41:01 GMT | NodeBlog — HackTheBox | S4ntiHack | [Read More](https://medium.com/p/3c5912931c3f) |
 | Fri, 01 Aug 2025 13:31:43 GMT | HRO Strategies for a Cyber-Resilient Business Transformation: The Human Firewall | IT_Engineer | [Read More](https://medium.com/p/b0645d9a5b90) |
 | Fri, 01 Aug 2025 13:29:31 GMT | Top 10 Cyber Threats You Can Prevent with Managed Security Services | Elevate | [Read More](https://medium.com/p/c6b2d178b1a9) |
 | Fri, 01 Aug 2025 13:21:35 GMT | Global IT Security Rollouts: When Good Intentions Fall Short in Local Operations | KunjiMaru | [Read More](https://medium.com/p/bfecb2cb0df2) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 09:41:38 GMT | Regurgitated Tech: Is MCP Just SOA’s Latest Remix? | Namir Sagheenanajar | [Read More](https://medium.com/p/4de97bd87a6d) |
 | Fri, 01 Aug 2025 09:41:28 GMT | Exploiting LLM APIs with Excessive Agency [Part 1] | Aditya Bhatt | [Read More](https://medium.com/p/19f0d8c70127) |
 | Fri, 01 Aug 2025 09:40:37 GMT | Your Guide to Smart, Reliable Home Security Boston | First Alarm LLC | [Read More](https://medium.com/p/94815222d8b1) |
-| Fri, 01 Aug 2025 09:38:54 GMT | Exposed: Google Indexed Thousands of Private AI Chats | Ali Farhat | [Read More](https://medium.com/p/207e2ce06a57) |
-| Fri, 01 Aug 2025 09:33:24 GMT | The Digital Dojo: Mastering Offensive Security with AI-Powered Python Cyber Ranges | SR | [Read More](https://medium.com/p/980ea317d4f9) |
-| Fri, 01 Aug 2025 09:26:40 GMT | The Daily Tech Digest: 01 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/b59c0b551d14) |
-| Fri, 01 Aug 2025 09:26:39 GMT | Why You Must Use Https in Local Development | Bharath | [Read More](https://medium.com/p/6188f8ac220f) |
-| Fri, 01 Aug 2025 09:22:47 GMT | Why Penetration Testing Is Essential For Your Business | Qualysec | [Read More](https://medium.com/p/357872fc5822) |
-| Fri, 01 Aug 2025 09:18:01 GMT | Essential Cybersecurity Practices to Safeguard Against Modern Threats and Attacks | IT Specialist | [Read More](https://medium.com/p/3aceb5165c96) |
-| Fri, 01 Aug 2025 09:17:59 GMT | Top MDM Software to Manage Devices Easily | Vantage MDM | [Read More](https://medium.com/p/ade56c9be927) |
-| Fri, 01 Aug 2025 09:15:58 GMT | Building the Secure Pass Generator: Part 2 of the Journey | Pattela Yuva Akhil | [Read More](https://medium.com/p/8de2f2271912) |
-| Fri, 01 Aug 2025 09:15:36 GMT | Quantum Leap of Faith: Is Your Password Ready for 2049? | CtrlC3 | [Read More](https://medium.com/p/6c153fd4d43a) |
-| Fri, 01 Aug 2025 09:14:16 GMT | “Is It Inadvisable?” When Your Password Strategy Gets *Too* Clever | Authlyn | [Read More](https://medium.com/p/44b0a78b78f1) |
-| Fri, 01 Aug 2025 09:12:32 GMT | Small Business, Big Security: Fort Knox on a Shoestring Budget | Truspex | [Read More](https://medium.com/p/10654dff9cbd) |
-| Fri, 01 Aug 2025 09:10:20 GMT | The Surge in Global Cybersecurity Spending: Where Investment is Going in 2025 and What It Means for… | Tarush Sharma | [Read More](https://medium.com/p/5ca4c9c31bba) |
-| Fri, 01 Aug 2025 09:10:06 GMT | Top AI Privacy Concerns: Challenges and Solutions | inVerita | [Read More](https://medium.com/p/5b842d5cd2cf) |
-| Fri, 01 Aug 2025 09:08:41 GMT | Why Data Protection Should Be Your First Business Upgrade | DL Info Shield | [Read More](https://medium.com/p/561b62ebdbb8) |
-| Fri, 01 Aug 2025 09:06:27 GMT | DLL Injection: It’s Not as Scary as It Sounds | SilentInject | [Read More](https://medium.com/p/a4bc14b0a488) |
-| Fri, 01 Aug 2025 09:05:28 GMT | Attacking Windows Credential Manager — HTB Module Walkthrough | Redsnorlax | [Read More](https://medium.com/p/5f7ad3f8e80e) |
-| Fri, 01 Aug 2025 09:02:44 GMT | “Burp + Extensions = JS Recon on Steroids: From Endpoints to Exploits” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4c5946997201) |
-| Fri, 01 Aug 2025 09:01:45 GMT | The Shodan & FOFA Hack No One Wants You to Know About | KonaN | [Read More](https://medium.com/p/5eb9be3688de) |
-| Fri, 01 Aug 2025 09:01:32 GMT | How Onsite IT Support Drives Business Efficiency, Security, and Growth? | Managed IT Services | [Read More](https://medium.com/p/f8f6a3a06e01) |
-| Fri, 01 Aug 2025 08:56:58 GMT | It is a blessing (Confidential data) in disguise (Part 2) | wh0arey0u | [Read More](https://medium.com/p/5a85b6d8cfa5) |
