@@ -12,8 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 04:54:50 GMT | ️ Securing Binaries Against Reverse Engineering: A Developer’s Guide | Geeky Vartika | [Read More](https://medium.com/p/1d4616d03e50) |
+| Fri, 01 Aug 2025 04:48:05 GMT | Rapid7 Layoffs: “Brutal, but is it really a surprise?” | Truspex | [Read More](https://medium.com/p/804bcead770e) |
+| Fri, 01 Aug 2025 04:46:44 GMT | Reflected XSS in HTML Context with Most Tags and Attributes Blocked | Bash Overflow | [Read More](https://medium.com/p/b601de27500a) |
+| Fri, 01 Aug 2025 04:46:36 GMT | FutureProof 2.0 - Episode #23 AI in Agriculture — Feeding 10 Billion Without Breaking the Planet | Bayo Adebogun Founder and CEO @VortEdge | [Read More](https://medium.com/p/99f84e4e953d) |
+| Fri, 01 Aug 2025 04:44:21 GMT | What is the difference between IoC and IoA? | BnHany | [Read More](https://medium.com/p/f9e5292fc60b) |
+| Fri, 01 Aug 2025 04:43:48 GMT | PlugScale: The Smarter Way to Build Your Global Capability Center | PlugScale | [Read More](https://medium.com/p/46453e2ac348) |
+| Fri, 01 Aug 2025 04:37:48 GMT | AI SOC Revolution: How Artificial Intelligence is Transforming Cybersecurity Operations in 2025 | Simbian.ai | [Read More](https://medium.com/p/1e3a13b782c2) |
+| Fri, 01 Aug 2025 04:37:33 GMT | Essential Technology Troubleshooting: Your First Line of Defense | Geroge Gary | [Read More](https://medium.com/p/5a8909503e4e) |
+| Fri, 01 Aug 2025 04:37:30 GMT | AI SOC Agents — How Agentic SOC Outpace Traditional Tools | Simbian.ai | [Read More](https://medium.com/p/9d6523c77813) |
+| Fri, 01 Aug 2025 04:37:13 GMT | How AI SOC Analysts Are Revolutionizing Cybersecurity Operations in 2025 | Simbian.ai | [Read More](https://medium.com/p/d5068c990617) |
+| Fri, 01 Aug 2025 04:34:34 GMT | Master’s Degree vs. Certifications in Cybersecurity: Which Wins? | Authlyn | [Read More](https://medium.com/p/4deb96d3b9a7) |
+| Fri, 01 Aug 2025 04:34:23 GMT | Building a cyber resilience index beyond traditional risk metrics | Cloud4C Services | [Read More](https://medium.com/p/8f8af9bcdfb7) |
+| Fri, 01 Aug 2025 04:29:03 GMT | Password Security: “60 Million Pounds of Trouble” — Are You Next? | CtrlC3 | [Read More](https://medium.com/p/6c490d1ca092) |
+| Fri, 01 Aug 2025 04:13:59 GMT | Something celebrities can’t afford… but I CAN! | Sanchi | [Read More](https://medium.com/p/079906b55a19) |
+| Fri, 01 Aug 2025 04:10:58 GMT | This time depression feels different. | Richa Rangari | [Read More](https://medium.com/p/2525aa152ad3) |
+| Fri, 01 Aug 2025 04:09:50 GMT | I Dropped Out to Learn Cybersecurity (Without a Degree) — And Landed Paid Work | Satyam Pathania | [Read More](https://medium.com/p/60bdacc56b3b) |
+| Fri, 01 Aug 2025 04:09:02 GMT | Fact-Checking |  | [Read More](https://medium.com/p/88e5b3a1820e) |
+| Fri, 01 Aug 2025 04:07:49 GMT | How I Hacked a $500 Bug Using Just an Email Field | Ibtissam hammadi | [Read More](https://medium.com/p/e5a0cb89e051) |
+| Fri, 01 Aug 2025 04:07:26 GMT | Linktree Username Validation Bypass: A Hidden Threat with a Leading Space | Yeswehack | [Read More](https://medium.com/p/52537955f79e) |
+| Fri, 01 Aug 2025 04:07:13 GMT | How a Small Open Redirect Flaw Became a $1000 rXSS Payday | Ibtissam hammadi | [Read More](https://medium.com/p/6960e4610f8f) |
 | Fri, 01 Aug 2025 04:01:45 GMT | CAASM for Technology Leaders | Arup Nanda | [Read More](https://medium.com/p/695020751d9f) |
 | Fri, 01 Aug 2025 04:01:42 GMT | Border Security Market is expected to develop at a compound annual growth rate (CAGR) of 9.1% | Vinita kumari | [Read More](https://medium.com/p/992f4875fd4e) |
+| Fri, 01 Aug 2025 04:00:50 GMT | Secrets in GitHub Repos: How Hackers Find API Keys & Config Files | Vipul Sonule | [Read More](https://medium.com/p/859fec498fdf) |
 | Fri, 01 Aug 2025 03:50:18 GMT | The Hottest WAF of 2025 | Maverick Steel | [Read More](https://medium.com/p/d461eb128e22) |
 | Fri, 01 Aug 2025 03:48:32 GMT | Why Security Should Be Part of Your CI/CD Pipeline | Mohammad Muhiuddin | [Read More](https://medium.com/p/f9482f2b1452) |
 | Fri, 01 Aug 2025 03:46:36 GMT | Permission Power: Smart Permission Management in Android | Divya Dharshini | [Read More](https://medium.com/p/7aa7aff7d58c) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 20:37:10 GMT | CyberDefenders: Reveal Lab— Walkthrough | Luis Marquez | [Read More](https://medium.com/p/f8cda4322ef5) |
 | Thu, 31 Jul 2025 20:36:36 GMT | Web Gauntlet 3 — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/d8e922a357d5) |
 | Thu, 31 Jul 2025 20:26:39 GMT | Humans as Attack Vectors - Tryhackme | Aaron | [Read More](https://medium.com/p/69ac7d21118f) |
-| Thu, 31 Jul 2025 20:21:51 GMT | The Midnight Hack: How I Turned a Nginx Attack into a Security Masterclass | Renda Zhang | [Read More](https://medium.com/p/bd00a7fed3c2) |
-| Thu, 31 Jul 2025 20:20:22 GMT | A Step-by-Step Plan To Learn Agentic AI Security in 2025 | Taimur Ijlal | [Read More](https://medium.com/p/59b4777e675a) |
-| Thu, 31 Jul 2025 20:16:06 GMT | Prompt Injection 2.0: Hybrid Threats, AI‑Worms & Rogue Memory Hacks | Elad Golan | [Read More](https://medium.com/p/60f829ffc85b) |
-| Thu, 31 Jul 2025 20:11:06 GMT | Designing a Military-Grade Data Center: High Performance, High Availability, and Extreme Security | Engr Syed Saad Gilani | [Read More](https://medium.com/p/84c092937569) |
-| Thu, 31 Jul 2025 20:08:05 GMT | “The Blind Spot You Didn’t Even Know You Had” – The Cybersecurity Gap That Breaches Love | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/b025946dee17) |
-| Thu, 31 Jul 2025 20:04:58 GMT | 6 Eye-Opening Facts About AI Security in Enterprises | Sandeep Singh | [Read More](https://medium.com/p/79b31815976b) |
-| Thu, 31 Jul 2025 19:48:29 GMT | The things we don't say. | A Quiet Place | [Read More](https://medium.com/p/5ee009032ed5) |
-| Thu, 31 Jul 2025 19:36:20 GMT | How I got RCE on redbull from recon (CVE-2025–30406) | ABDELKARIM MOUCHQUELITA | [Read More](https://medium.com/p/f0e702d131ce) |
-| Thu, 31 Jul 2025 19:31:21 GMT | Everything DevOps needs to know about Docker Security (in one article) | BecomeDevOps | [Read More](https://medium.com/p/52bf14a68ff9) |
-| Thu, 31 Jul 2025 19:30:34 GMT | Secure Coding Part 6 : Command Injection — Attack (Python ) | Siddiquimohammad | [Read More](https://medium.com/p/13922f22d45a) |
-| Thu, 31 Jul 2025 19:30:25 GMT | Grant Thornton Netherlands: Public Pre-Pentest Analysis (Open Resources Only) | 0trust0day | [Read More](https://medium.com/p/8ff1450cbf98) |
-| Thu, 31 Jul 2025 19:24:35 GMT | Secure Coding Review in Python — Real-Life Code, Real Security Lessons | Md. Shefayer Ahmed | [Read More](https://medium.com/p/f01900e50a49) |
-| Thu, 31 Jul 2025 19:17:12 GMT | Let’s Defend: 212 — SOC250 — APT35 HyperScrape Data Exfiltration Tool Detected - Writeup | EPereda | [Read More](https://medium.com/p/5709fc37fa52) |
-| Thu, 31 Jul 2025 19:16:36 GMT | Are You Even Traveling If You Don’t Cry at Least Once? | EscapeArtisan | [Read More](https://medium.com/p/5d7af9a49757) |
-| Thu, 31 Jul 2025 19:12:42 GMT | I Paid Someone to Break Into My House – Here’s Why | Johnson | [Read More](https://medium.com/p/6f0718ca9ed8) |
-| Thu, 31 Jul 2025 19:06:05 GMT | Patch Management as a Service: The Security Layer Your Business Can’t Ignore | SafeAeon Inc. | [Read More](https://medium.com/p/fa70b9059198) |
-| Thu, 31 Jul 2025 19:05:18 GMT | THM - Evil-GPT v2 | Francesco Pastore | [Read More](https://medium.com/p/653c9f6a8fe5) |
-| Thu, 31 Jul 2025 18:56:20 GMT | Building ngx-numeric-captcha: A Journey from Concept to npm Publication | Shreyashthorat | [Read More](https://medium.com/p/64f6d4ce91b0) |
-| Thu, 31 Jul 2025 18:55:29 GMT | THM - Evil-GPT | Francesco Pastore | [Read More](https://medium.com/p/18b87cc47436) |
-| Thu, 31 Jul 2025 18:52:03 GMT | Tyler Technologies: America’s Hidden Judicial Vulnerability | Relational AI Ethics | [Read More](https://medium.com/p/a7b46afb4016) |
-| Thu, 31 Jul 2025 18:47:43 GMT | Tehlike İçeriden Geldiğinde Güven Yeterli Değildir | AYŞE KIZILAY | [Read More](https://medium.com/p/7356c9cffc03) |
