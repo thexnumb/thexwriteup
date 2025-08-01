@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 20:42:32 GMT | Faking It. | Cindy Kaplan | [Read More](https://medium.com/p/a4cd83968759) |
+| Fri, 01 Aug 2025 20:41:27 GMT | From a Curious Student to a Cybersecurity Enthusiast: My Journey | Yash Katiyara | [Read More](https://medium.com/p/604343315a8a) |
+| Fri, 01 Aug 2025 20:40:43 GMT | Footprinting HTB — FTP, SMB | Mkirahmet | [Read More](https://medium.com/p/50edc083ead9) |
+| Fri, 01 Aug 2025 20:34:27 GMT | WHAT IS THE DIFFERENCE BETWEEN IOC AND IOA | JahdiSec | [Read More](https://medium.com/p/507300951976) |
+| Fri, 01 Aug 2025 20:33:57 GMT | OpenAI Data Leakage: When AI Chats Go Public | Anatoliy Fedorenko | [Read More](https://medium.com/p/d3e07c680a10) |
+| Fri, 01 Aug 2025 20:29:59 GMT | Let’s Defend: 314 — SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) -… | EPereda | [Read More](https://medium.com/p/8e5aa721e64b) |
+| Fri, 01 Aug 2025 20:29:54 GMT | Let’s Defend: 316 — SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing - Writeup | EPereda | [Read More](https://medium.com/p/86ba08d0e71f) |
+| Fri, 01 Aug 2025 20:28:13 GMT | Irish-Name-Repo 1 — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/f2e8ddc3db74) |
+| Fri, 01 Aug 2025 20:21:00 GMT | Nmap : Ağınızın Görünmez Kısımlarını Ortaya Çıkaran “Dijital MRI” Cihazınız ️ | Berdan Mut | [Read More](https://medium.com/p/ecd9a71e4475) |
+| Fri, 01 Aug 2025 20:13:52 GMT | How the $25B Palo Alto–CyberArk Deal Is Upending Cybersecurity and Identity | Deepak Gupta | [Read More](https://medium.com/p/8adb3135e0f2) |
 | Fri, 01 Aug 2025 20:00:03 GMT | The Silence Before The Explosion | Atila Tabani | [Read More](https://medium.com/p/0ef31f446b44) |
 | Fri, 01 Aug 2025 19:57:02 GMT | The Perils of Misconfigured IAM Roles: A Real Threat to Cloud Security | Great adeleke | [Read More](https://medium.com/p/4257fb8f2cc0) |
 | Fri, 01 Aug 2025 19:49:27 GMT | Omni-Path Integration Expertise Offered by Nor-Tech | Emma Lyons | [Read More](https://medium.com/p/e34a91f632f6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 14:13:13 GMT | Enterprise Browser DLP: How Mammoth Secures Sensitive Data in Hybrid Work Environments | Mammoth Cyber | [Read More](https://medium.com/p/179d424f3d44) |
 | Fri, 01 Aug 2025 14:06:38 GMT | Beginners guide to OSINT — I | Pranavkumar Katariya | [Read More](https://medium.com/p/c9e3146cc6c8) |
 | Fri, 01 Aug 2025 14:04:55 GMT | Uncovering the Truth: A Beginner’s Guide to Digital Forensics | Shehab Ahmed | [Read More](https://medium.com/p/c489fad12678) |
-| Fri, 01 Aug 2025 14:02:45 GMT | Are You Really Safe Online? Why Cyber Security Awareness Is More Critical Than Ever | Paul Meyer | [Read More](https://medium.com/p/fb47eb0dc03d) |
-| Fri, 01 Aug 2025 14:02:43 GMT | What are the latest cybersecurity alerts, incidents, and news? | CyberMaterial | [Read More](https://medium.com/p/aa88696f8821) |
-| Fri, 01 Aug 2025 14:02:43 GMT | What is Cybersecurity? | Heatena | [Read More](https://medium.com/p/77fdb98f3759) |
-| Fri, 01 Aug 2025 13:59:35 GMT | GoHighLevel MasterClass Review: Unlock Your Marketing Automation Potential | Automation Guru | [Read More](https://medium.com/p/5a8d252f3e9e) |
-| Fri, 01 Aug 2025 13:58:54 GMT | Top 10 Security Risks Targeting MCP Servers | SOCRadar® Extended Cyber Threat Intelligence | [Read More](https://medium.com/p/bbef7404bcb8) |
-| Fri, 01 Aug 2025 13:57:49 GMT | INSIDE QILIN RANSOMWARE AFFILIATE PANEL | Rakesh Krishnan | [Read More](https://medium.com/p/70614db64424) |
-| Fri, 01 Aug 2025 13:54:08 GMT | GB Olan Hafıza Kartınız MB mı Gözüküyor? İşte Kolay ve Kesin Çözümü! | NasuhcaN | [Read More](https://medium.com/p/bb823b8752f9) |
-| Fri, 01 Aug 2025 13:52:55 GMT | Top Cybersecurity Certifications (CISSP, Security+, OSCP) | Cyber Security Details | [Read More](https://medium.com/p/2c6fc766c573) |
-| Fri, 01 Aug 2025 13:51:03 GMT | Exploiting Misconfigured DNS for Enumeration and Zone Transfer | Mkirahmet | [Read More](https://medium.com/p/768537532824) |
-| Fri, 01 Aug 2025 13:48:39 GMT | Why there is no job in the market? and very high competition over the time | Bilal Zurmati | [Read More](https://medium.com/p/8da2c79b3533) |
