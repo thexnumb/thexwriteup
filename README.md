@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 17:12:01 GMT | What Is SOC 2 Type 2 and Why It Matters in 2025 | Securis360 Inc. | [Read More](https://medium.com/p/f027b8487dcd) |
+| Fri, 01 Aug 2025 17:11:46 GMT | Let’s Talk About Operators in C ⚡ | Tanya Awasthi | [Read More](https://medium.com/p/a6d0a42a7b4c) |
+| Fri, 01 Aug 2025 17:08:16 GMT | No “Spukhaft” in Programming! | Jasvir Nagra | [Read More](https://medium.com/p/54a04ff74442) |
+| Fri, 01 Aug 2025 17:02:19 GMT | I Tried CSRF Attacks in Many Website (And Failed Miserably). Here’s What I Learned | Shah kaif | [Read More](https://medium.com/p/dd71317cb4e0) |
+| Fri, 01 Aug 2025 16:53:17 GMT | FortiGate’i Sanal Makineye Kurma ve Temel Arayüz Kullanımı | Selimayvaz | [Read More](https://medium.com/p/eb8424d80a93) |
+| Fri, 01 Aug 2025 16:53:00 GMT | Top Compliance Risks for Federal Health IT Contractors in 2025 | One Federal Solution | [Read More](https://medium.com/p/63e7cd0d695c) |
+| Fri, 01 Aug 2025 16:47:12 GMT | What’s with Linux Distros? | Ryan Kurtz | [Read More](https://medium.com/p/ce91439e3e19) |
+| Fri, 01 Aug 2025 16:46:23 GMT | Any Password Can Be Hacked from Just 3 Websites! Shocking Truth! | Shahzaib | [Read More](https://medium.com/p/dd3de3a4bb86) |
+| Fri, 01 Aug 2025 16:45:55 GMT | Securely Uploading to S3 Without an Intermediate Server (Using Presigned URLs) | Sumit Chahal | [Read More](https://medium.com/p/f0a8fedbabc5) |
+| Fri, 01 Aug 2025 16:44:01 GMT | Vestra’s $500K Yield Reuse Flaw, Mosca’s Incomplete State Reset, BYC’s Burn-Based Price Play | Olympix | [Read More](https://medium.com/p/e89527df3d08) |
+| Fri, 01 Aug 2025 16:41:38 GMT | Security Alert Resolution Codes | Rybbord | [Read More](https://medium.com/p/c3a0671c7ea4) |
+| Fri, 01 Aug 2025 16:41:04 GMT | eJPT Zero to Hero: Post Exploitation CTF 1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/1d618e78e117) |
+| Fri, 01 Aug 2025 16:41:00 GMT | Cybersecurity Talent Exodus Threatens Healthcare’s Digital Transformation, Black Book Survey Finds | Black Book Market Research | [Read More](https://medium.com/p/95e701977c6a) |
+| Fri, 01 Aug 2025 16:40:34 GMT | Spy on WhatsApp with These Powerful Tracking Apps | Narjis Batool | [Read More](https://medium.com/p/24f21fd14bf0) |
+| Fri, 01 Aug 2025 16:39:25 GMT | Why SMART Isn’t Enough for Drive Health | ULINK DA Drive Analyzer | [Read More](https://medium.com/p/439f774b8949) |
+| Fri, 01 Aug 2025 16:39:10 GMT | 2025 IoT Blueprint for the Global Connected Care Era: New Guide Sets Smart Hospital Standards | Black Book Market Research | [Read More](https://medium.com/p/fde1ed9caa42) |
+| Fri, 01 Aug 2025 16:38:00 GMT | Why Domain Monitoring Is Essential for a Company | Alexandre Vandamme | [Read More](https://medium.com/p/332ba3742bd2) |
+| Fri, 01 Aug 2025 16:36:55 GMT | Don’t Become the Next Target for Scammers! Read How to Avoid Online scams | Kazeem Olawale | [Read More](https://medium.com/p/07daab0f8b7a) |
+| Fri, 01 Aug 2025 16:25:24 GMT | ChatGPT States It Cannot Handle Security | API Expert | [Read More](https://medium.com/p/088133d00d1d) |
 | Fri, 01 Aug 2025 16:16:16 GMT | Wazuh, Ubuntu, Kali, Caldera — a super quick way of building a disposable cyber lab | Phil Legg | [Read More](https://medium.com/p/1ad693665fa5) |
 | Fri, 01 Aug 2025 16:16:05 GMT | The CoinDCX $44 Million Theft Case: A Deep Dive into the Rahul Agarwal Cybercrime Arrest | Vijay Kumar Gupta | [Read More](https://medium.com/p/f0c029b2bac1) |
 | Fri, 01 Aug 2025 16:05:55 GMT | Local File Inclusion — Double encoding [Root-Me] Writeup | Adhamkhairy | [Read More](https://medium.com/p/68ea03d8c39a) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 12:18:01 GMT | Why use Security and Privacy by Design? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/dcbdb27f6f61) |
 | Fri, 01 Aug 2025 12:17:58 GMT | What is Transport Layer Security ? | kacar | [Read More](https://medium.com/p/d873adb859c7) |
 | Fri, 01 Aug 2025 12:16:40 GMT | Understanding Authentication, Access Control, and Risk Assessments in Cybersecurity. | Dany Christel | [Read More](https://medium.com/p/43f4ba41d9bf) |
-| Fri, 01 Aug 2025 12:15:23 GMT | The Future of Cybersecurity: Why Businesses Must Adopt Privacy by Design Now | sanya | [Read More](https://medium.com/p/937b13cc708c) |
-| Fri, 01 Aug 2025 12:12:09 GMT | Learning Cybersecurity Without a Tech Background: What No One Tells You | Anna | [Read More](https://medium.com/p/8967c3b9aff5) |
-| Fri, 01 Aug 2025 12:09:09 GMT | Advanced Google Dorking - Part 19 | AbhirupKonwar | [Read More](https://medium.com/p/a59ebfb3c775) |
-| Fri, 01 Aug 2025 12:06:17 GMT | D3fenders 2FA Vault Goes Live on Polygon — | Burns | [Read More](https://medium.com/p/4395d53d3bd2) |
-| Fri, 01 Aug 2025 11:48:27 GMT | Ethical Hacking | Sanehairfan | [Read More](https://medium.com/p/1a57d2a17edb) |
-| Fri, 01 Aug 2025 11:38:47 GMT | City of Hats — Redefining Cybersecurity with Autonomous AI Agents | City of Hats | [Read More](https://medium.com/p/37445ed4a3a4) |
-| Fri, 01 Aug 2025 11:32:18 GMT | VPN Speed Wars: Why ExpressVPN’s 7% Beats CyberGhost’s 10% (And Why It Matters) | TechEd Publishers | [Read More](https://medium.com/p/a48370649e3e) |
-| Fri, 01 Aug 2025 11:31:44 GMT | CISO: Self-Assess Your Security Program — A Mindmap | Yael Nagler | [Read More](https://medium.com/p/44aef0594601) |
-| Fri, 01 Aug 2025 11:25:30 GMT | No SQL Injection — PicoCTF WriteUp | Musthofa Kamaluddin | [Read More](https://medium.com/p/c4d6ca4e63fd) |
-| Fri, 01 Aug 2025 11:24:12 GMT | Living Off the Cloud: Abusing Cloud Services for Red Teaming | Shadow Packet | [Read More](https://medium.com/p/bf83fae9acae) |
-| Fri, 01 Aug 2025 11:19:03 GMT | 5 Must-Read Hacking & Cybersecurity Books That Shaped My Offensive Journey | Z33 Security | [Read More](https://medium.com/p/d12b52d049f8) |
-| Fri, 01 Aug 2025 11:08:39 GMT | What did SharePoint teach us about the state of enterprise defense in 2025? | STR4T0TT0 | [Read More](https://medium.com/p/017a51c47eec) |
-| Fri, 01 Aug 2025 11:08:07 GMT | CYBERSECURITY FOR E-COMMERCE WEBSITES: ENSURING SAFE TRANSACTIONS | TabTree IT Consulting Company | [Read More](https://medium.com/p/5b9a1e661b07) |
-| Fri, 01 Aug 2025 11:02:26 GMT | ChatGPT for Pen Testing : Revolutionizing Cybersecurity with AI(Pt. 1) | Redfox Security | [Read More](https://medium.com/p/15088a61dfff) |
-| Fri, 01 Aug 2025 11:01:40 GMT | Topic 4: The Sneaky Threat: Understanding Prompt Injection and Its Strategic Business | Scott Huang | [Read More](https://medium.com/p/c3b02bc73288) |
-| Fri, 01 Aug 2025 11:01:38 GMT | You’re always being watched | Anish Kaushal | [Read More](https://medium.com/p/d35ebe86b2f8) |
-| Fri, 01 Aug 2025 10:57:14 GMT | Cybersecurity | Sanehairfan | [Read More](https://medium.com/p/c94891dabe6e) |
-| Fri, 01 Aug 2025 10:56:39 GMT | Your App Passed the Audit. It’s Still a Security Nightmare. | Webpuppies | [Read More](https://medium.com/p/74c0e4d231d9) |
-| Fri, 01 Aug 2025 10:56:33 GMT | Why Custom Website and Application Development Services Are Essential for Business Growth | Softvision Corp | [Read More](https://medium.com/p/4864d96997c5) |
