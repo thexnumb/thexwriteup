@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 08:28:46 GMT | NCSC CTF 2025 Forensics writeup | Mustafaalzaareer | [Read More](https://medium.com/p/dd060ace1990) |
+| Fri, 01 Aug 2025 08:26:04 GMT | The Future of AI Startups: 5 Trends TechMindz.ai is Betting On | Tech mindz AI | [Read More](https://medium.com/p/3b98c0aa9661) |
+| Fri, 01 Aug 2025 08:19:38 GMT | My First 7 Days on TryHackMe | Pawan natekar | [Read More](https://medium.com/p/35d1e23bc5f7) |
+| Fri, 01 Aug 2025 08:19:06 GMT | Snake in the Pipeline: North Korea’s Covert Code Sabotage | Pentestjunkie07 | [Read More](https://medium.com/p/267e6c6a2a94) |
+| Fri, 01 Aug 2025 08:16:49 GMT | Managed Detection and Response (MDR): A Smarter Way to Secure Your Business | devika pandey | [Read More](https://medium.com/p/a160e1fc6530) |
+| Fri, 01 Aug 2025 08:15:00 GMT | How Managed SIEM Detects Threats 10x Faster Than Your IT Team | SecureSlate | [Read More](https://medium.com/p/277ffb2115ea) |
+| Fri, 01 Aug 2025 08:13:57 GMT | After the Words | Kristie Bradfield | [Read More](https://medium.com/p/ad36d0937725) |
+| Fri, 01 Aug 2025 08:13:21 GMT | 5 Takeaways from NetTech Episode 5: Securing Your Cloud Environment: Best Practices and Emerging… | Netpremacy | [Read More](https://medium.com/p/ebbea74aa9fc) |
+| Fri, 01 Aug 2025 08:11:23 GMT | Week 7 — Learning Basic Concepts of Cybersecurity | Aang | [Read More](https://medium.com/p/09b4170209d1) |
+| Fri, 01 Aug 2025 08:11:07 GMT | 3 Common IT Issues and How Support Teams Fix Them | Aishwarya | [Read More](https://medium.com/p/36d7973e95f1) |
+| Fri, 01 Aug 2025 08:08:33 GMT | FortiGuard CASB Service: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/0ed0ab4b3a27) |
+| Fri, 01 Aug 2025 08:06:48 GMT | Building Your Cybersecurity Future: Key Concepts and Career Pathways | Ann Maria | [Read More](https://medium.com/p/7ec5b609a6e9) |
+| Fri, 01 Aug 2025 08:06:27 GMT | PenligentAI · 1, August 2025 | PenligentAI | [Read More](https://medium.com/p/4a78bc1840cd) |
+| Fri, 01 Aug 2025 08:04:24 GMT | Meet the New Wave of AI-Native Security Innovators | PenligentAI | [Read More](https://medium.com/p/44dff67cf482) |
+| Fri, 01 Aug 2025 07:59:39 GMT | Penligent.ai: Unveiling the Shocking Power and Challenges of LLM‑Based Penetration Testing | PenligentAI | [Read More](https://medium.com/p/2aefb4a2635e) |
 | Fri, 01 Aug 2025 07:45:19 GMT | 250–587 Administration of Symantec Endpoint Protection 14 Complete Certification Guide 2025 | Mehmood Ali | [Read More](https://medium.com/p/88d9acccc438) |
 | Fri, 01 Aug 2025 07:44:47 GMT | Volatility Essentials: Intro to Memory Forensics — A Memory Guide — TryHackME | Kalp Prajapati | [Read More](https://medium.com/p/26844940ab19) |
 | Fri, 01 Aug 2025 07:42:08 GMT | The 20x Employee: A Strategic Framework for Unlocking Hyper-Productivity with Artificial… | Andrey Pautov | [Read More](https://medium.com/p/8f49cde95a25) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 03:21:06 GMT | Install MISP on Docker on Debian Linux | Advaniar | [Read More](https://medium.com/p/68ace62c2629) |
 | Fri, 01 Aug 2025 03:15:44 GMT | QR Codes: The New Frontier for Phishing Attacks | Shubhangi Singh | [Read More](https://medium.com/p/6868c494ab78) |
 | Fri, 01 Aug 2025 03:14:24 GMT | Absolutely! | Musthofa Kamaluddin | [Read More](https://medium.com/p/21f39ef4d536) |
-| Fri, 01 Aug 2025 03:00:22 GMT | The Threat Isn’t 10 Years Away—It’s Already in Motion | Shubhangi Singh | [Read More](https://medium.com/p/8aba07dedfd6) |
-| Fri, 01 Aug 2025 02:47:47 GMT | Docker :Dockerfile Security How Product Managers Can Prevent Confidential Data Leaks | Lohitaksh Yogi | [Read More](https://medium.com/p/65fe69341934) |
-| Fri, 01 Aug 2025 02:46:42 GMT | Understanding Cross-Site Scripting (XSS) Through JavaScript | Maximilian Oliver | [Read More](https://medium.com/p/242d4a9a6576) |
-| Fri, 01 Aug 2025 02:20:02 GMT | Stop Guessing What 404 Means! The Ultimate Guide to HTTP Status Codes You Need to Bookmark | Paritosh | [Read More](https://medium.com/p/48d080202674) |
-| Fri, 01 Aug 2025 02:16:38 GMT | Why You Should Use Microsoft Graph API for Uploading Files- Over SharePoint REST API? | Ankita Kanzariya | [Read More](https://medium.com/p/5d19545e0293) |
-| Fri, 01 Aug 2025 02:01:25 GMT | A CCSP (Certified Cloud Security Professional) Exam Kickstarter for Cloud Native Security… | Gerald Bachlmayr | [Read More](https://medium.com/p/1120b52c3deb) |
-| Fri, 01 Aug 2025 01:58:36 GMT | This Malware Uses Facebook Ads to Hijack Your Crypto | Cyber-AppSec | [Read More](https://medium.com/p/74a0cb996ef5) |
-| Fri, 01 Aug 2025 01:52:00 GMT | 4. Malware | unknownman | [Read More](https://medium.com/p/2504229d43e2) |
-| Fri, 01 Aug 2025 01:33:59 GMT | Walkthrough — Module 06: Adding a Database Layer | Thomas Eid | [Read More](https://medium.com/p/59a4255958b9) |
-| Fri, 01 Aug 2025 01:18:27 GMT | Peeking Behind the Curtain: My Journey Understanding XSS with JavaScript | Maximilian Oliver | [Read More](https://medium.com/p/3c606dafe61d) |
-| Fri, 01 Aug 2025 01:06:16 GMT | When Private AI Chats Go Public: The Hidden Risk — and New Opportunity — of Shared ChatGPT Links | Rajan Nagarajan | [Read More](https://medium.com/p/bb75dc42628c) |
-| Fri, 01 Aug 2025 01:01:38 GMT | How a HackTheBox Module Changed My Mindset | Syed Ammar | [Read More](https://medium.com/p/ad1e61ec871b) |
-| Fri, 01 Aug 2025 00:54:25 GMT | IOC vs IOA: Why Most Detection Strategies Are Doomed From the Start | Manish Rawat | [Read More](https://medium.com/p/2ca7c9db5f79) |
-| Fri, 01 Aug 2025 00:53:15 GMT | Pop-Ups, Passwords, and Panic? You’re Not Alone | Liz Ndungu | [Read More](https://medium.com/p/a86589a20bb3) |
-| Fri, 01 Aug 2025 00:47:03 GMT | Why Addictive Relationships Aren’t Based on Genuine Love: Understanding Emotional Manipulation | Lucas Brown | [Read More](https://medium.com/p/009ed716ee4f) |
