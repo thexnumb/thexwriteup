@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 20:00:03 GMT | The Silence Before The Explosion | Atila Tabani | [Read More](https://medium.com/p/0ef31f446b44) |
+| Fri, 01 Aug 2025 19:57:02 GMT | The Perils of Misconfigured IAM Roles: A Real Threat to Cloud Security | Great adeleke | [Read More](https://medium.com/p/4257fb8f2cc0) |
+| Fri, 01 Aug 2025 19:49:27 GMT | Omni-Path Integration Expertise Offered by Nor-Tech | Emma Lyons | [Read More](https://medium.com/p/e34a91f632f6) |
+| Fri, 01 Aug 2025 19:48:33 GMT | IOC vs IOA: The Clues Cybercriminals Didn’t Mean to Leave Behind | JahdiSec | [Read More](https://medium.com/p/d21e98a2d5ed) |
+| Fri, 01 Aug 2025 19:44:13 GMT | Role-Based Access Control (RBAC) in GenosDB | estebanrfp | [Read More](https://medium.com/p/bde218a1a0df) |
+| Fri, 01 Aug 2025 19:40:20 GMT | Cybersecurity Courses: Separating the Signal from the Noise | Authlyn | [Read More](https://medium.com/p/07ce8ef6c100) |
 | Fri, 01 Aug 2025 19:14:41 GMT | Introduction to Cybersecurity: A Beginner Friendly Guide for Curious Beginners | Med Abou | [Read More](https://medium.com/p/f47cbd6e7858) |
 | Fri, 01 Aug 2025 19:12:23 GMT | From Roswell To Real Time Cybercrime | Gautam Mengle | [Read More](https://medium.com/p/341105bc9da4) |
 | Fri, 01 Aug 2025 18:44:24 GMT | Exploiting CVE-2025–29744 in pg-promise: When Prepared Statements Aren’t Safe | Aniket. | [Read More](https://medium.com/p/5408360ce342) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 13:52:55 GMT | Top Cybersecurity Certifications (CISSP, Security+, OSCP) | Cyber Security Details | [Read More](https://medium.com/p/2c6fc766c573) |
 | Fri, 01 Aug 2025 13:51:03 GMT | Exploiting Misconfigured DNS for Enumeration and Zone Transfer | Mkirahmet | [Read More](https://medium.com/p/768537532824) |
 | Fri, 01 Aug 2025 13:48:39 GMT | Why there is no job in the market? and very high competition over the time | Bilal Zurmati | [Read More](https://medium.com/p/8da2c79b3533) |
-| Fri, 01 Aug 2025 13:47:21 GMT | WeTransfer’s New Privacy Policy: What You Need to Know | Life is Real | [Read More](https://medium.com/p/11211c2c9550) |
-| Fri, 01 Aug 2025 13:45:20 GMT | Software Integrity Failures: Are You Unknowingly Serving Malicious Code? | Aravind S V | [Read More](https://medium.com/p/f8520c59c0f5) |
-| Fri, 01 Aug 2025 13:43:52 GMT | FINALLY I GOT MY LOST BITCOIN BACK ALL THANKS TO TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/56e060efa4ee) |
-| Fri, 01 Aug 2025 13:43:30 GMT | Why CVSS is Dead To Me | PKC | [Read More](https://medium.com/p/42c9d60887b4) |
-| Fri, 01 Aug 2025 13:41:35 GMT | Part 4: “Fileless Persistence” — The Malware That Came to Stay | Kunal Rajour | [Read More](https://medium.com/p/c106019b8298) |
-| Fri, 01 Aug 2025 13:41:01 GMT | NodeBlog — HackTheBox | S4ntiHack | [Read More](https://medium.com/p/3c5912931c3f) |
