@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 06:30:10 GMT | Python Sandbox Evasion | Francesco Pastore | [Read More](https://medium.com/p/4ce790e55666) |
+| Fri, 01 Aug 2025 06:21:10 GMT | Top 10 Features Of a Central Monitoring System | Jane Tang | [Read More](https://medium.com/p/39e47ebc3f7c) |
+| Fri, 01 Aug 2025 06:17:06 GMT | 15,000 Critical Systems Are Exposed — Thanks to This Outdated Protocol | Azim Uddin | [Read More](https://medium.com/p/6f6f71d40edc) |
+| Fri, 01 Aug 2025 06:16:40 GMT | The Corix Partners Friday Reading List — August 1, 2025 | JC Gaillard | [Read More](https://medium.com/p/f318a9873674) |
+| Fri, 01 Aug 2025 06:13:37 GMT | Infrastructure as Code (IaC) Security: 10 Best Practices | Spacelift | [Read More](https://medium.com/p/70811d0064e5) |
+| Fri, 01 Aug 2025 06:09:08 GMT | Cyber Risk Management Framework: Best Practices for Continuous Monitoring and Incident Response | Chatsm | [Read More](https://medium.com/p/4967c35cd2b3) |
+| Fri, 01 Aug 2025 06:02:35 GMT | Today’s Top Cyber Intelligence Highlights — Aug 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/2f7e143eadf7) |
+| Fri, 01 Aug 2025 05:55:19 GMT | Ajath Infotech Pvt. Ltd.: Transforming Businesses Through Smart App & Web Development | Ajath Infotech | [Read More](https://medium.com/p/f37279175dd3) |
+| Fri, 01 Aug 2025 05:54:19 GMT | Start Earning with Cybersecurity — Even Before You Graduate | Core Academy | [Read More](https://medium.com/p/8ec54543d2a4) |
+| Fri, 01 Aug 2025 05:42:54 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/f15557863798) |
 | Fri, 01 Aug 2025 05:42:38 GMT | Isolation and Access Control Between Teams and Workloads in Apache Airflow and Cloud Composer | Sendoa Moronta | [Read More](https://medium.com/p/7ce1a0b22a3d) |
 | Fri, 01 Aug 2025 05:22:58 GMT | How Russia’s Secret Blizzard Used ISP-Level Malware to Spy on Foreign Embassies in Moscow | CYber VIaz | [Read More](https://medium.com/p/0f778568cc27) |
 | Fri, 01 Aug 2025 05:18:41 GMT | Day 18- Basic computer networking for beginners | unica 02 | [Read More](https://medium.com/p/67b4eaa8dc10) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 21:59:14 GMT | It is my birthday — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/d847d06843b7) |
 | Thu, 31 Jul 2025 21:47:28 GMT | Not strong enough this time | lili | [Read More](https://medium.com/p/dc0d40175c4f) |
 | Thu, 31 Jul 2025 21:44:55 GMT | “Wait… YOU built an AWS network architecture and launched a live website from scratch?” | Sybil Amarachi Ikechukwu | [Read More](https://medium.com/p/526c45d4f67e) |
-| Thu, 31 Jul 2025 21:38:25 GMT | When Randomness Backfires: Security Risks in AI | Patrick Walsh | [Read More](https://medium.com/p/a07b6e08dab0) |
-| Thu, 31 Jul 2025 21:32:58 GMT | Investigating the pcrnparty.org → mrcparty.net politico-digital web traffic redirection conflict. | M. Thibaut | [Read More](https://medium.com/p/113bc8a2c35d) |
-| Thu, 31 Jul 2025 21:31:36 GMT | Multi-Part File Uploads and Validation in FastAPI for Large Datasets | Bhagya Rana | [Read More](https://medium.com/p/9a3a71f0c475) |
-| Thu, 31 Jul 2025 21:31:28 GMT | The Ultimate FREE Resource Guide to Start Bug Bounty Hunting | CyberHead | [Read More](https://medium.com/p/3a42211fe8eb) |
-| Thu, 31 Jul 2025 21:22:34 GMT | Real World Vulnerable Code Analysis: CVE-2024–9461 (Remote Code Execution) | Jonas Benjamin Friedli | [Read More](https://medium.com/p/953536cf4181) |
-| Thu, 31 Jul 2025 21:20:28 GMT | Why Are API’s Not Secured? | API Expert | [Read More](https://medium.com/p/7e48b3295489) |
-| Thu, 31 Jul 2025 21:14:04 GMT | Cybersecurity | Farhan | [Read More](https://medium.com/p/94407464e545) |
-| Thu, 31 Jul 2025 21:13:56 GMT | $1000 in 30 Days: My Bug Bounty Breakthrough! | Shahzaib | [Read More](https://medium.com/p/becdad0e30cd) |
-| Thu, 31 Jul 2025 21:12:44 GMT | Smart Wireless Tracker for Items | Trexo | [Read More](https://medium.com/p/f7da3d9af216) |
-| Thu, 31 Jul 2025 21:12:01 GMT | IA em Vigilância Inteligente: Como Redes Neurais Convolucionais (CNNs) Podem Evitar Golpes Como o… | Vinicius Teixeira | [Read More](https://medium.com/p/58de8651601f) |
