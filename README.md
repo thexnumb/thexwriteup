@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 05:42:38 GMT | Isolation and Access Control Between Teams and Workloads in Apache Airflow and Cloud Composer | Sendoa Moronta | [Read More](https://medium.com/p/7ce1a0b22a3d) |
+| Fri, 01 Aug 2025 05:22:58 GMT | How Russia’s Secret Blizzard Used ISP-Level Malware to Spy on Foreign Embassies in Moscow | CYber VIaz | [Read More](https://medium.com/p/0f778568cc27) |
+| Fri, 01 Aug 2025 05:18:41 GMT | Day 18- Basic computer networking for beginners | unica 02 | [Read More](https://medium.com/p/67b4eaa8dc10) |
+| Fri, 01 Aug 2025 05:15:40 GMT | Why We Must Decode Institutional Language Before It’s Digitised | Sarah Ailish McLoughlin | [Read More](https://medium.com/p/20dac33fc36c) |
+| Fri, 01 Aug 2025 05:07:49 GMT | Emerging Cyber Trends | Aninaabraham | [Read More](https://medium.com/p/36e6bc12d028) |
+| Fri, 01 Aug 2025 05:07:49 GMT | Windows XP Penetration Testing And Exploiting. | Tarunmk | [Read More](https://medium.com/p/8e81ac6a65a5) |
+| Fri, 01 Aug 2025 05:01:30 GMT | Scooter Hacking: Risky Rides or Just Fun & Games? | SilentInject | [Read More](https://medium.com/p/51b43eb1cf4b) |
+| Fri, 01 Aug 2025 04:57:39 GMT | Understanding Buffer Overflow Vulnerabilities and Return Oriented Programming | Pawan Wagh | [Read More](https://medium.com/p/2209dd050583) |
 | Fri, 01 Aug 2025 04:54:50 GMT | ️ Securing Binaries Against Reverse Engineering: A Developer’s Guide | Geeky Vartika | [Read More](https://medium.com/p/1d4616d03e50) |
 | Fri, 01 Aug 2025 04:48:05 GMT | Rapid7 Layoffs: “Brutal, but is it really a surprise?” | Truspex | [Read More](https://medium.com/p/804bcead770e) |
 | Fri, 01 Aug 2025 04:46:44 GMT | Reflected XSS in HTML Context with Most Tags and Attributes Blocked | Bash Overflow | [Read More](https://medium.com/p/b601de27500a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 21:13:56 GMT | $1000 in 30 Days: My Bug Bounty Breakthrough! | Shahzaib | [Read More](https://medium.com/p/becdad0e30cd) |
 | Thu, 31 Jul 2025 21:12:44 GMT | Smart Wireless Tracker for Items | Trexo | [Read More](https://medium.com/p/f7da3d9af216) |
 | Thu, 31 Jul 2025 21:12:01 GMT | IA em Vigilância Inteligente: Como Redes Neurais Convolucionais (CNNs) Podem Evitar Golpes Como o… | Vinicius Teixeira | [Read More](https://medium.com/p/58de8651601f) |
-| Thu, 31 Jul 2025 21:06:46 GMT | Digital Footprint: What Instagram, TikTok & Others Collects About You | Jan Szalasny | [Read More](https://medium.com/p/65c1ae6967e6) |
-| Thu, 31 Jul 2025 20:44:40 GMT | Direct vs Indirect Syscalls | S12 - 0x12Dark Development | [Read More](https://medium.com/p/420b568a8f9c) |
-| Thu, 31 Jul 2025 20:44:10 GMT | The Ultimate Solution to Cybersecurity Emerges | Benjamin Yan | [Read More](https://medium.com/p/0dce440276a5) |
-| Thu, 31 Jul 2025 20:40:06 GMT | A Port Beyond the Horizon: Designing the Digital Nerve Center of Russia’s Most Advanced Seaport at… | 0trust0day | [Read More](https://medium.com/p/03ca5d1a4199) |
-| Thu, 31 Jul 2025 20:38:51 GMT | Command Injection Filter Bypass @ Root-me Walkthrough | Amr Elharery | [Read More](https://medium.com/p/bb71e8e3f9f0) |
-| Thu, 31 Jul 2025 20:37:10 GMT | CyberDefenders: Reveal Lab— Walkthrough | Luis Marquez | [Read More](https://medium.com/p/f8cda4322ef5) |
-| Thu, 31 Jul 2025 20:36:36 GMT | Web Gauntlet 3 — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/d8e922a357d5) |
-| Thu, 31 Jul 2025 20:26:39 GMT | Humans as Attack Vectors - Tryhackme | Aaron | [Read More](https://medium.com/p/69ac7d21118f) |
