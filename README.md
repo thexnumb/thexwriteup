@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 11:19:03 GMT | 5 Must-Read Hacking & Cybersecurity Books That Shaped My Offensive Journey | Z33 Security | [Read More](https://medium.com/p/d12b52d049f8) |
+| Fri, 01 Aug 2025 11:08:39 GMT | What did SharePoint teach us about the state of enterprise defense in 2025? | STR4T0TT0 | [Read More](https://medium.com/p/017a51c47eec) |
+| Fri, 01 Aug 2025 11:08:07 GMT | CYBERSECURITY FOR E-COMMERCE WEBSITES: ENSURING SAFE TRANSACTIONS | TabTree IT Consulting Company | [Read More](https://medium.com/p/5b9a1e661b07) |
+| Fri, 01 Aug 2025 11:02:26 GMT | ChatGPT for Pen Testing : Revolutionizing Cybersecurity with AI(Pt. 1) | Redfox Security | [Read More](https://medium.com/p/15088a61dfff) |
+| Fri, 01 Aug 2025 11:01:40 GMT | Topic 4: The Sneaky Threat: Understanding Prompt Injection and Its Strategic Business | Scott Huang | [Read More](https://medium.com/p/c3b02bc73288) |
+| Fri, 01 Aug 2025 11:01:38 GMT | You’re always being watched | Anish Kaushal | [Read More](https://medium.com/p/d35ebe86b2f8) |
+| Fri, 01 Aug 2025 10:57:14 GMT | Cybersecurity | Sanehairfan | [Read More](https://medium.com/p/c94891dabe6e) |
+| Fri, 01 Aug 2025 10:56:39 GMT | Your App Passed the Audit. It’s Still a Security Nightmare. | Webpuppies | [Read More](https://medium.com/p/74c0e4d231d9) |
+| Fri, 01 Aug 2025 10:56:33 GMT | Why Custom Website and Application Development Services Are Essential for Business Growth | Softvision Corp | [Read More](https://medium.com/p/4864d96997c5) |
+| Fri, 01 Aug 2025 10:55:38 GMT | Storm-2603 Strikes: DNS-Controlled Backdoor Found in Global Ransomware Attacks | CYber VIaz | [Read More](https://medium.com/p/85d0e60a89c4) |
+| Fri, 01 Aug 2025 10:54:17 GMT | TheHive Project — SOC Level 1: DFIR with TryHackMe | Furkanctiner | [Read More](https://medium.com/p/99c14128d61e) |
 | Fri, 01 Aug 2025 10:46:46 GMT | ChatGPT Leaks? | Pascal Asch | [Read More](https://medium.com/p/0d5f8ab93873) |
+| Fri, 01 Aug 2025 10:44:55 GMT | Tovuz regional “ASAN xidmət” mərkəzinin könüllülərinin təşəbbüsü ilə köhnə veb saytların müasir… | Mubariz Najafov | [Read More](https://medium.com/p/cdcf74ceebb2) |
+| Fri, 01 Aug 2025 10:43:47 GMT | HTB Challenge — CriticalOps | MEGAZORD | [Read More](https://medium.com/p/eeba1a98e225) |
 | Fri, 01 Aug 2025 10:43:38 GMT | DREAD Risk Assessment Model | Cyber Security Details | [Read More](https://medium.com/p/77f23e7d2aa9) |
 | Fri, 01 Aug 2025 10:41:49 GMT | STRIDE Threat Modeling Methodology | Cyber Security Details | [Read More](https://medium.com/p/995a37c7067b) |
 | Fri, 01 Aug 2025 10:40:31 GMT | Threat Modeling for Developers | Cyber Security Details | [Read More](https://medium.com/p/c0a03de88e9a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 07:15:42 GMT | ChatGPT use | Meschain shelly | [Read More](https://medium.com/p/d14f174d5772) |
 | Fri, 01 Aug 2025 07:15:33 GMT | Best Linux Training Programs in India — 2025 Edition | cyber security Updates | [Read More](https://medium.com/p/b4fa6b22f74e) |
 | Fri, 01 Aug 2025 07:11:24 GMT | Hacked the AI, Got the Bounty: Obfuscation & Prompt Injection Techniques for Red Teamers | CyberTechAjju | [Read More](https://medium.com/p/9715be4f23e4) |
-| Fri, 01 Aug 2025 07:07:29 GMT | Microsoft SharePoint Under Attack: A Wake-Up Call for Legacy System Defenders | Rohit.nex | [Read More](https://medium.com/p/fc4218801c12) |
-| Fri, 01 Aug 2025 07:06:42 GMT | Data Center Perimeter Security in KSA: Protecting Critical Infrastructure. | expbhavya | [Read More](https://medium.com/p/6bead9de70b1) |
-| Fri, 01 Aug 2025 07:06:32 GMT | Protect What Matters Most with Sefa Security System — Your Trusted Home Security Partner | Sefa Security Systems LLC | [Read More](https://medium.com/p/024f77fb9055) |
-| Fri, 01 Aug 2025 07:05:12 GMT | Kuku FM App customer care helpline Number☎️ 09244820361 ☎️= How to contact Kuku FM Customer care?☎️ | Kuku FM App customer care helpline Number☎️ 092448 | [Read More](https://medium.com/p/d1f81af18fe7) |
-| Fri, 01 Aug 2025 07:02:02 GMT | CyberMindr vs CrowdStrike: What You Need to Know | Prerna Shukla | [Read More](https://medium.com/p/92554bb7d8d3) |
-| Fri, 01 Aug 2025 07:01:30 GMT | Certified Ethical Hacking Course in Calicut — Start Today | bilalinternship | [Read More](https://medium.com/p/1dcccb0be685) |
-| Fri, 01 Aug 2025 06:57:08 GMT | The Linux Security Journey — Reduced Access to Syscalls | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/627ba12a2b21) |
-| Fri, 01 Aug 2025 06:55:41 GMT | Which WAF Fits Better: SafeLine or Imperva? | AerieWhole123 | [Read More](https://medium.com/p/4791ee080312) |
-| Fri, 01 Aug 2025 06:54:51 GMT | Carbon Black (P2:Dashboard/Alerts): A Practical Guide/An Practical Training | Dean | [Read More](https://medium.com/p/6ba51ea8abe1) |
-| Fri, 01 Aug 2025 06:54:31 GMT | ISO 27001 ile Bilgi Güvenliğine Yolculuk — 5 | İrem Çagla Demirtaş | [Read More](https://medium.com/p/515572ea5679) |
-| Fri, 01 Aug 2025 06:44:28 GMT | Day 68: Tea App Security Breaches | Nile Okomo | [Read More](https://medium.com/p/cae04afd8947) |
-| Fri, 01 Aug 2025 06:31:59 GMT | The Epic Tale of a JWT Key Left on a Confluence Wiki Page — Totally Secure, Right? | Devansh Patel | [Read More](https://medium.com/p/141189f1d9c3) |
-| Fri, 01 Aug 2025 06:30:10 GMT | Python Sandbox Evasion | Francesco Pastore | [Read More](https://medium.com/p/4ce790e55666) |
