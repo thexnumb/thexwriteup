@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 23:21:17 GMT | XXE Vulnerability: কী, কেন, এবং কিভাবে এটি অ্যাটাক হয়? | Ayshee | [Read More](https://medium.com/p/c0cf70c1741e) |
 | Fri, 01 Aug 2025 23:09:32 GMT | Smart Phishing Scams Are Now Changing Tactics in Real Time. Can Your Defenses Keep Up? | Akshay Chauhan | [Read More](https://medium.com/p/90324173f81f) |
 | Fri, 01 Aug 2025 23:03:48 GMT | Fileless Malware: A Growing Threat | Cyber Security Details | [Read More](https://medium.com/p/25bcfac2897a) |
 | Fri, 01 Aug 2025 23:02:57 GMT | Zero-Day Vulnerability Management | Cyber Security Details | [Read More](https://medium.com/p/3542090b35c8) |
@@ -112,4 +113,3 @@ Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/
 | Fri, 01 Aug 2025 16:38:00 GMT | Why Domain Monitoring Is Essential for a Company | Alexandre Vandamme | [Read More](https://medium.com/p/332ba3742bd2) |
 | Fri, 01 Aug 2025 16:36:55 GMT | Don’t Become the Next Target for Scammers! Read How to Avoid Online scams | Kazeem Olawale | [Read More](https://medium.com/p/07daab0f8b7a) |
 | Fri, 01 Aug 2025 16:25:24 GMT | ChatGPT States It Cannot Handle Security | API Expert | [Read More](https://medium.com/p/088133d00d1d) |
-| Fri, 01 Aug 2025 16:16:16 GMT | Wazuh, Ubuntu, Kali, Caldera — a super quick way of building a disposable cyber lab | Phil Legg | [Read More](https://medium.com/p/1ad693665fa5) |
