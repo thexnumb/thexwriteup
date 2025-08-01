@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 07:27:42 GMT | WordPress Security in 2025: Core Defenses and Enterprise Strategies | Osom Studio WordPress and WooCommerce Agency | [Read More](https://medium.com/p/12a13cab934c) |
+| Fri, 01 Aug 2025 07:24:14 GMT | RCE in Apache OFBiz: What Devs Should Know About CVE-2023–49070 | AerieWhole123 | [Read More](https://medium.com/p/ddcf2b3bcee1) |
+| Fri, 01 Aug 2025 07:22:11 GMT | How 3 Free Recon Tools found 40 Bugs — Helped To Score $1200 in Bug Bounties | Rashadul Islam | [Read More](https://medium.com/p/55c215b372a3) |
+| Fri, 01 Aug 2025 07:18:22 GMT | Fixing the BloodHound Startup Error on Kali Linux | Prath | [Read More](https://medium.com/p/3f2872289899) |
+| Fri, 01 Aug 2025 07:15:42 GMT | ChatGPT use | Meschain shelly | [Read More](https://medium.com/p/d14f174d5772) |
+| Fri, 01 Aug 2025 07:11:24 GMT | Hacked the AI, Got the Bounty: Obfuscation & Prompt Injection Techniques for Red Teamers | CyberTechAjju | [Read More](https://medium.com/p/9715be4f23e4) |
+| Fri, 01 Aug 2025 07:07:29 GMT | Microsoft SharePoint Under Attack: A Wake-Up Call for Legacy System Defenders | Rohit.nex | [Read More](https://medium.com/p/fc4218801c12) |
+| Fri, 01 Aug 2025 07:06:42 GMT | Data Center Perimeter Security in KSA: Protecting Critical Infrastructure. | expbhavya | [Read More](https://medium.com/p/6bead9de70b1) |
+| Fri, 01 Aug 2025 07:06:32 GMT | Protect What Matters Most with Sefa Security System — Your Trusted Home Security Partner | Sefa Security Systems LLC | [Read More](https://medium.com/p/024f77fb9055) |
+| Fri, 01 Aug 2025 07:05:12 GMT | Kuku FM App customer care helpline Number☎️ 09244820361 ☎️= How to contact Kuku FM Customer care?☎️ | Kuku FM App customer care helpline Number☎️ 092448 | [Read More](https://medium.com/p/d1f81af18fe7) |
+| Fri, 01 Aug 2025 07:02:02 GMT | CyberMindr vs CrowdStrike: What You Need to Know | Prerna Shukla | [Read More](https://medium.com/p/92554bb7d8d3) |
+| Fri, 01 Aug 2025 07:01:30 GMT | Certified Ethical Hacking Course in Calicut — Start Today | bilalinternship | [Read More](https://medium.com/p/1dcccb0be685) |
+| Fri, 01 Aug 2025 06:57:08 GMT | The Linux Security Journey — Reduced Access to Syscalls | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/627ba12a2b21) |
+| Fri, 01 Aug 2025 06:55:41 GMT | Which WAF Fits Better: SafeLine or Imperva? | AerieWhole123 | [Read More](https://medium.com/p/4791ee080312) |
+| Fri, 01 Aug 2025 06:54:51 GMT | Carbon Black (P2:Dashboard/Alerts): A Practical Guide/An Practical Training | Dean | [Read More](https://medium.com/p/6ba51ea8abe1) |
+| Fri, 01 Aug 2025 06:54:31 GMT | ISO 27001 ile Bilgi Güvenliğine Yolculuk — 5 | İrem Çagla Demirtaş | [Read More](https://medium.com/p/515572ea5679) |
+| Fri, 01 Aug 2025 06:44:28 GMT | Day 68: Tea App Security Breaches | Nile Okomo | [Read More](https://medium.com/p/cae04afd8947) |
+| Fri, 01 Aug 2025 06:31:59 GMT | The Epic Tale of a JWT Key Left on a Confluence Wiki Page — Totally Secure, Right? | Devansh Patel | [Read More](https://medium.com/p/141189f1d9c3) |
 | Fri, 01 Aug 2025 06:30:10 GMT | Python Sandbox Evasion | Francesco Pastore | [Read More](https://medium.com/p/4ce790e55666) |
 | Fri, 01 Aug 2025 06:21:10 GMT | Top 10 Features Of a Central Monitoring System | Jane Tang | [Read More](https://medium.com/p/39e47ebc3f7c) |
 | Fri, 01 Aug 2025 06:17:06 GMT | 15,000 Critical Systems Are Exposed — Thanks to This Outdated Protocol | Azim Uddin | [Read More](https://medium.com/p/6f6f71d40edc) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 23:42:04 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 2 Walkthrough | Mabdullahbinkhalid | [Read More](https://medium.com/p/b5bbb8c72dd0) |
 | Thu, 31 Jul 2025 23:39:50 GMT | The Solidity Compiler has Developed Schizophrenia | Babs | [Read More](https://medium.com/p/4c7d1a593e1f) |
 | Thu, 31 Jul 2025 23:30:35 GMT | Notes of an Old Guru: The DNS Temporary Attack | 0trust0day | [Read More](https://medium.com/p/952eba82db14) |
-| Thu, 31 Jul 2025 23:21:57 GMT | OSCP Privilege Escalation: Linux File Expansion | enigma_ | [Read More](https://medium.com/p/0d675612b0c6) |
-| Thu, 31 Jul 2025 23:19:44 GMT | ISMAP Management Standards Chapter 3: What is “Governance” for Information Security, Led by… | nolly | [Read More](https://medium.com/p/c459e3bc6b9e) |
-| Thu, 31 Jul 2025 23:19:41 GMT | TryHackMe OWASP TOP 10 2021 -WalkThrough | Kumari Amita Kishore | [Read More](https://medium.com/p/d3c59e8ec24b) |
-| Thu, 31 Jul 2025 23:15:15 GMT | Let’s Defend: 263 — SOC287 — Arbitrary File Read on Checkpoint Security Gateway [CVE-2024–24919] -… | EPereda | [Read More](https://medium.com/p/51ea8f10955b) |
-| Thu, 31 Jul 2025 23:14:42 GMT | How Hackers Are Hijacking Smart Devices to Build Silent Bot Armies | Akshay Chauhan | [Read More](https://medium.com/p/0a27d5726975) |
-| Thu, 31 Jul 2025 23:06:32 GMT | Mapping the Modern Identity Management Ecosystem: A Strategic Guide for Leaders | Deepak Gupta | [Read More](https://medium.com/p/91f0fc82c5bc) |
-| Thu, 31 Jul 2025 22:48:37 GMT | Back to College | N7RUZN | [Read More](https://medium.com/p/d380f7e7d082) |
-| Thu, 31 Jul 2025 22:38:16 GMT | Python P/W Strength Checker & Generator | Lorrin J | [Read More](https://medium.com/p/dea08788e0cb) |
-| Thu, 31 Jul 2025 22:31:39 GMT | LIAN_YU WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/d826bb430bd7) |
-| Thu, 31 Jul 2025 22:29:30 GMT | Understanding RFC 1918 — Private IP Addressing in Local Networks[HTTP — IP restriction bypass]… | Islam Elnajdy | [Read More](https://medium.com/p/6e167a4a922a) |
-| Thu, 31 Jul 2025 22:20:13 GMT | How I Discovered an IDOR Vulnerability in chatgpt.com and Got Rewarded by OpenAI | Moamelshakeer | [Read More](https://medium.com/p/bc4da48d5013) |
-| Thu, 31 Jul 2025 22:17:39 GMT | Red Team vs. Blue Team: Designing Collaborative Exercises | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ffe54a72e9cf) |
-| Thu, 31 Jul 2025 22:15:39 GMT | Strutted Walkthrough — HTB | Aashraymt | [Read More](https://medium.com/p/69a002ba3488) |
-| Thu, 31 Jul 2025 22:11:01 GMT | What Is Patching in Cybersecurity? Why It’s Essential for Your Safety | Timonéofearth | [Read More](https://medium.com/p/f03446fc3f81) |
-| Thu, 31 Jul 2025 22:06:01 GMT | The Tech News Roundup for July 2025 | Chris @ mostsignificant | [Read More](https://medium.com/p/83428f99123f) |
-| Thu, 31 Jul 2025 21:59:14 GMT | It is my birthday — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/d847d06843b7) |
-| Thu, 31 Jul 2025 21:47:28 GMT | Not strong enough this time | lili | [Read More](https://medium.com/p/dc0d40175c4f) |
-| Thu, 31 Jul 2025 21:44:55 GMT | “Wait… YOU built an AWS network architecture and launched a live website from scratch?” | Sybil Amarachi Ikechukwu | [Read More](https://medium.com/p/526c45d4f67e) |
