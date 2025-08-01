@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 09:46:43 GMT | Why Small Companies Get Hit by Big Attacks | Evgeny Ermakov | [Read More](https://medium.com/p/0c2cc98aa447) |
+| Fri, 01 Aug 2025 09:46:11 GMT | cyber security course in india | Krishnavenidotin | [Read More](https://medium.com/p/e66722a8a546) |
+| Fri, 01 Aug 2025 09:44:28 GMT | Top 10 WiFi Hacking Tools Used by Ethical Hackers: Introduction | Manisha Chaudhary | [Read More](https://medium.com/p/4268aa1bd672) |
+| Fri, 01 Aug 2025 09:41:38 GMT | Regurgitated Tech: Is MCP Just SOA’s Latest Remix? | Namir Sagheenanajar | [Read More](https://medium.com/p/4de97bd87a6d) |
+| Fri, 01 Aug 2025 09:41:28 GMT | Exploiting LLM APIs with Excessive Agency [Part 1] | Aditya Bhatt | [Read More](https://medium.com/p/19f0d8c70127) |
+| Fri, 01 Aug 2025 09:38:54 GMT | Exposed: Google Indexed Thousands of Private AI Chats | Ali Farhat | [Read More](https://medium.com/p/207e2ce06a57) |
+| Fri, 01 Aug 2025 09:33:24 GMT | The Digital Dojo: Mastering Offensive Security with AI-Powered Python Cyber Ranges | SR | [Read More](https://medium.com/p/980ea317d4f9) |
+| Fri, 01 Aug 2025 09:26:40 GMT | The Daily Tech Digest: 01 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/b59c0b551d14) |
+| Fri, 01 Aug 2025 09:26:39 GMT | Why You Must Use Https in Local Development | Bharath | [Read More](https://medium.com/p/6188f8ac220f) |
+| Fri, 01 Aug 2025 09:22:47 GMT | Why Penetration Testing Is Essential For Your Business | Qualysec | [Read More](https://medium.com/p/357872fc5822) |
+| Fri, 01 Aug 2025 09:18:01 GMT | Essential Cybersecurity Practices to Safeguard Against Modern Threats and Attacks | IT Specialist | [Read More](https://medium.com/p/3aceb5165c96) |
 | Fri, 01 Aug 2025 09:17:59 GMT | Top MDM Software to Manage Devices Easily | Vantage MDM | [Read More](https://medium.com/p/ade56c9be927) |
 | Fri, 01 Aug 2025 09:15:58 GMT | Building the Secure Pass Generator: Part 2 of the Journey | Pattela Yuva Akhil | [Read More](https://medium.com/p/8de2f2271912) |
 | Fri, 01 Aug 2025 09:15:36 GMT | Quantum Leap of Faith: Is Your Password Ready for 2049? | CtrlC3 | [Read More](https://medium.com/p/6c153fd4d43a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 04:37:33 GMT | Essential Technology Troubleshooting: Your First Line of Defense | Geroge Gary | [Read More](https://medium.com/p/5a8909503e4e) |
 | Fri, 01 Aug 2025 04:37:30 GMT | AI SOC Agents — How Agentic SOC Outpace Traditional Tools | Simbian.ai | [Read More](https://medium.com/p/9d6523c77813) |
 | Fri, 01 Aug 2025 04:37:13 GMT | How AI SOC Analysts Are Revolutionizing Cybersecurity Operations in 2025 | Simbian.ai | [Read More](https://medium.com/p/d5068c990617) |
-| Fri, 01 Aug 2025 04:34:34 GMT | Master’s Degree vs. Certifications in Cybersecurity: Which Wins? | Authlyn | [Read More](https://medium.com/p/4deb96d3b9a7) |
-| Fri, 01 Aug 2025 04:34:23 GMT | Building a cyber resilience index beyond traditional risk metrics | Cloud4C Services | [Read More](https://medium.com/p/8f8af9bcdfb7) |
-| Fri, 01 Aug 2025 04:29:03 GMT | Password Security: “60 Million Pounds of Trouble” — Are You Next? | CtrlC3 | [Read More](https://medium.com/p/6c490d1ca092) |
-| Fri, 01 Aug 2025 04:13:59 GMT | Something celebrities can’t afford… but I CAN! | Sanchi | [Read More](https://medium.com/p/079906b55a19) |
-| Fri, 01 Aug 2025 04:10:58 GMT | This time depression feels different. | Richa Rangari | [Read More](https://medium.com/p/2525aa152ad3) |
-| Fri, 01 Aug 2025 04:09:50 GMT | I Dropped Out to Learn Cybersecurity (Without a Degree) — And Landed Paid Work | Satyam Pathania | [Read More](https://medium.com/p/60bdacc56b3b) |
-| Fri, 01 Aug 2025 04:09:02 GMT | Fact-Checking |  | [Read More](https://medium.com/p/88e5b3a1820e) |
-| Fri, 01 Aug 2025 04:07:49 GMT | How I Hacked a $500 Bug Using Just an Email Field | Ibtissam hammadi | [Read More](https://medium.com/p/e5a0cb89e051) |
-| Fri, 01 Aug 2025 04:07:26 GMT | Linktree Username Validation Bypass: A Hidden Threat with a Leading Space | Yeswehack | [Read More](https://medium.com/p/52537955f79e) |
-| Fri, 01 Aug 2025 04:07:13 GMT | How a Small Open Redirect Flaw Became a $1000 rXSS Payday | Ibtissam hammadi | [Read More](https://medium.com/p/6960e4610f8f) |
-| Fri, 01 Aug 2025 04:01:45 GMT | CAASM for Technology Leaders | Arup Nanda | [Read More](https://medium.com/p/695020751d9f) |
