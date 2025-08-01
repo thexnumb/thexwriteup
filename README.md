@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 15:31:37 GMT | Creating a High-Impact Cybersecurity Assessment Report | Ian Mutai Korir | [Read More](https://medium.com/p/a7852f77925f) |
+| Fri, 01 Aug 2025 15:29:37 GMT | The Human Firewall: Why Employee Training is Your First Line of Cyber Defense -Dale Drushella | Dale Drushella | [Read More](https://medium.com/p/af684d62e5a9) |
+| Fri, 01 Aug 2025 15:26:00 GMT | Inbox Imposters: 7 Fast Ways to Spot a Fake Email | SaddleBridge Consulting | [Read More](https://medium.com/p/0a6eb3d26bee) |
+| Fri, 01 Aug 2025 15:23:10 GMT | I Built a Free PowerShell Tool to Analyze Windows Security — Here’s What I Found on My Own System | Igor Dunaev | [Read More](https://medium.com/p/958cd3faf4f2) |
+| Fri, 01 Aug 2025 15:15:54 GMT | Starting Safe Habits Early: Emails for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/0b2fb1785788) |
+| Fri, 01 Aug 2025 15:15:36 GMT | Direct-to-Consumer Genetic Testing: Are you selling yourself? | Savvy Cyber Kids | [Read More](https://medium.com/p/65fdf6c6eb32) |
+| Fri, 01 Aug 2025 15:15:15 GMT | Children Having Their Own iPads | Savvy Cyber Kids | [Read More](https://medium.com/p/80b5f77a787b) |
 | Fri, 01 Aug 2025 15:13:49 GMT | Simple TCP Listener in Python | PJSM-Sec | [Read More](https://medium.com/p/7b722f9a0c88) |
+| Fri, 01 Aug 2025 15:13:18 GMT | RoomShield Protocol – Declaration 002 | RoomShield Protocol | [Read More](https://medium.com/p/367e937d274a) |
 | Fri, 01 Aug 2025 15:11:43 GMT | Top Cybersecurity Certifications (CISSP, Security+, OSCP) | Cyber Security Details | [Read More](https://medium.com/p/0dc444132a16) |
 | Fri, 01 Aug 2025 15:09:21 GMT | Sudo Shell Escaping Privilege Escalation (Linux Privilege Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/e17aef12033c) |
 | Fri, 01 Aug 2025 15:08:44 GMT | Fancy Bear’s invisible invasions | Sharwari Dali | [Read More](https://medium.com/p/ac2631072b1c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 10:41:49 GMT | STRIDE Threat Modeling Methodology | Cyber Security Details | [Read More](https://medium.com/p/995a37c7067b) |
 | Fri, 01 Aug 2025 10:40:31 GMT | Threat Modeling for Developers | Cyber Security Details | [Read More](https://medium.com/p/c0a03de88e9a) |
 | Fri, 01 Aug 2025 10:39:16 GMT | Sandboxing: A Safe Space for Dangerous Code | Cyber Security Details | [Read More](https://medium.com/p/d283e3e0830d) |
-| Fri, 01 Aug 2025 10:38:04 GMT | Reverse Engineering for Malware Analysis | Cyber Security Details | [Read More](https://medium.com/p/3a1b532abc72) |
-| Fri, 01 Aug 2025 10:31:48 GMT | Why a Cybersecurity Compliance Audit Is Essential for Every Organization in China in 2025 | Alex Graham | [Read More](https://medium.com/p/29aeb9c7b07f) |
-| Fri, 01 Aug 2025 10:26:55 GMT | Dork for AI LLM Chatbot | rr-1k | [Read More](https://medium.com/p/fd02c2109b1d) |
-| Fri, 01 Aug 2025 10:21:11 GMT | Top Security Services in India: Safeguarding Lives, Businesses & Assets | Ciss India | [Read More](https://medium.com/p/22ca09bb1fd6) |
-| Fri, 01 Aug 2025 10:18:35 GMT | How Thermal Scopes Are Revolutionizing Hunting and Tactical Applications | Night Vision 4 Less | [Read More](https://medium.com/p/033f9e1b93ad) |
-| Fri, 01 Aug 2025 10:11:47 GMT | How Misconfigured Computer Accounts Lead to Hidden Privilege Escalation in Active Directory | Sebastian Kandler | [Read More](https://medium.com/p/4a4ccea7896d) |
-| Fri, 01 Aug 2025 10:10:54 GMT | Trusted Security Services in Hobart: Protect What Matters Most | Stateguard Protective Services | [Read More](https://medium.com/p/95e4773386a6) |
-| Fri, 01 Aug 2025 10:02:54 GMT | DIY Faraday Fashion: How I Sewed a Hoodie That Ghosts Wi-Fi Trackers | Franziska "Ziska" Fink | [Read More](https://medium.com/p/02fd8cc5ce3e) |
