@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 17:37:05 GMT | Local File Inclusion — Wrappers [Root-me] | Adhamkhairy | [Read More](https://medium.com/p/fefa483c30af) |
+| Fri, 01 Aug 2025 17:30:33 GMT | Surveillance Capitalism Is Watching You — Everyday Habits to Keep Your Data Safe | Rahul Mishra | [Read More](https://medium.com/p/5f971e7e8da7) |
+| Fri, 01 Aug 2025 17:21:09 GMT | How Do You Say Yes to Love Again? | Merxie Ezeh | [Read More](https://medium.com/p/108ed35d824a) |
+| Fri, 01 Aug 2025 17:17:27 GMT | Cybersecurity News Review — Week 31 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/ea8cdcc5fc68) |
 | Fri, 01 Aug 2025 17:12:01 GMT | What Is SOC 2 Type 2 and Why It Matters in 2025 | Securis360 Inc. | [Read More](https://medium.com/p/f027b8487dcd) |
 | Fri, 01 Aug 2025 17:11:46 GMT | Let’s Talk About Operators in C ⚡ | Tanya Awasthi | [Read More](https://medium.com/p/a6d0a42a7b4c) |
 | Fri, 01 Aug 2025 17:08:16 GMT | No “Spukhaft” in Programming! | Jasvir Nagra | [Read More](https://medium.com/p/54a04ff74442) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 12:30:41 GMT | When You’re the One Who Loves More (And You Know It) | Rendanup | [Read More](https://medium.com/p/d96864ce1d06) |
 | Fri, 01 Aug 2025 12:26:17 GMT | Who needs Security and Privacy by Design? | Ziya Zoe | [Read More](https://medium.com/p/6961262a7506) |
 | Fri, 01 Aug 2025 12:19:44 GMT | Windows Authentication Monitoring | Neetrox | [Read More](https://medium.com/p/ca3dce7b7526) |
-| Fri, 01 Aug 2025 12:19:30 GMT | $139M Gone: The 5 Most Devastating Crypto Hacks of July 2025 | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/8598393d6e83) |
-| Fri, 01 Aug 2025 12:18:01 GMT | Why use Security and Privacy by Design? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/dcbdb27f6f61) |
-| Fri, 01 Aug 2025 12:17:58 GMT | What is Transport Layer Security ? | kacar | [Read More](https://medium.com/p/d873adb859c7) |
-| Fri, 01 Aug 2025 12:16:40 GMT | Understanding Authentication, Access Control, and Risk Assessments in Cybersecurity. | Dany Christel | [Read More](https://medium.com/p/43f4ba41d9bf) |
