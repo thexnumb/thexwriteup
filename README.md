@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 22:45:49 GMT | McDonald’s AI Chatbot Data Leak: A No-Code Developer’s Wake-Up Call | Sobemekun Oluwadamilare Matthew | [Read More](https://medium.com/p/bc54fbc85d88) |
+| Fri, 01 Aug 2025 22:29:43 GMT | Data Security in the AI Era: Why Protecting Data Is About Access, Not Isolation | Juan Pablo Castro | [Read More](https://medium.com/p/0f83a8109c22) |
+| Fri, 01 Aug 2025 22:27:54 GMT | An Introduction to Bug Bounty Hunting | Cyber Security Details | [Read More](https://medium.com/p/5329ddaf2dc0) |
+| Fri, 01 Aug 2025 22:23:40 GMT | How to Build a Cybersecurity Home Lab | Cyber Security Details | [Read More](https://medium.com/p/f04794cd3f4a) |
+| Fri, 01 Aug 2025 22:17:58 GMT | Day 6/1 000-Day SOC Mastery | Reda  kiker | [Read More](https://medium.com/p/bba17a2f5dcd) |
 | Fri, 01 Aug 2025 22:16:38 GMT | Detecting Account Takeover in Real Time | Karthikeyan Nagaraj | [Read More](https://medium.com/p/81466a2d7b40) |
 | Fri, 01 Aug 2025 22:14:03 GMT | Local File Inclusion Double encoding @ Root-me Walkthrough | Amr Elharery | [Read More](https://medium.com/p/61da1808e723) |
 | Fri, 01 Aug 2025 22:12:55 GMT | TryHackMe “Silver Platter” CTF
@@ -108,8 +113,3 @@ Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/
 | Fri, 01 Aug 2025 15:51:28 GMT | Understanding IBM Master Data Management (MDM): A Deep Dive with Real-World Examples | Rahul Agarwal | [Read More](https://medium.com/p/1111e0e03ce3) |
 | Fri, 01 Aug 2025 15:45:02 GMT | A Growing Threat to Manufacturing | OEE IntelliSuite | [Read More](https://medium.com/p/fbdc9f6ff31d) |
 | Fri, 01 Aug 2025 15:43:28 GMT | The New Digital Reality: How AI, Cybersecurity, and Machine Learning are Building Our Future | CapitalCoin | [Read More](https://medium.com/p/8f787fa08df0) |
-| Fri, 01 Aug 2025 15:42:15 GMT | Top 14 AI Security Videos — July | Tal Eliyahu | [Read More](https://medium.com/p/5d54b4b89278) |
-| Fri, 01 Aug 2025 15:31:37 GMT | Creating a High-Impact Cybersecurity Assessment Report | Ian Mutai Korir | [Read More](https://medium.com/p/a7852f77925f) |
-| Fri, 01 Aug 2025 15:29:37 GMT | The Human Firewall: Why Employee Training is Your First Line of Cyber Defense -Dale Drushella | Dale Drushella | [Read More](https://medium.com/p/af684d62e5a9) |
-| Fri, 01 Aug 2025 15:26:00 GMT | Inbox Imposters: 7 Fast Ways to Spot a Fake Email | SaddleBridge Consulting | [Read More](https://medium.com/p/0a6eb3d26bee) |
-| Fri, 01 Aug 2025 15:23:10 GMT | I Built a Free PowerShell Tool to Analyze Windows Security — Here’s What I Found on My Own System | Igor Dunaev | [Read More](https://medium.com/p/958cd3faf4f2) |
