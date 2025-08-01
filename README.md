@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 19:14:41 GMT | Introduction to Cybersecurity: A Beginner Friendly Guide for Curious Beginners | Med Abou | [Read More](https://medium.com/p/f47cbd6e7858) |
+| Fri, 01 Aug 2025 19:12:23 GMT | From Roswell To Real Time Cybercrime | Gautam Mengle | [Read More](https://medium.com/p/341105bc9da4) |
 | Fri, 01 Aug 2025 18:44:24 GMT | Exploiting CVE-2025–29744 in pg-promise: When Prepared Statements Aren’t Safe | Aniket. | [Read More](https://medium.com/p/5408360ce342) |
 | Fri, 01 Aug 2025 18:43:44 GMT | Best Programming Languages for Cybersecurity in 2025 | Ayza Anam | [Read More](https://medium.com/p/c3aac64b7fa9) |
 | Fri, 01 Aug 2025 18:40:27 GMT | CAASM for Technology Leaders | Arup Nanda | [Read More](https://medium.com/p/9b0879bbd73c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 13:43:30 GMT | Why CVSS is Dead To Me | PKC | [Read More](https://medium.com/p/42c9d60887b4) |
 | Fri, 01 Aug 2025 13:41:35 GMT | Part 4: “Fileless Persistence” — The Malware That Came to Stay | Kunal Rajour | [Read More](https://medium.com/p/c106019b8298) |
 | Fri, 01 Aug 2025 13:41:01 GMT | NodeBlog — HackTheBox | S4ntiHack | [Read More](https://medium.com/p/3c5912931c3f) |
-| Fri, 01 Aug 2025 13:31:43 GMT | HRO Strategies for a Cyber-Resilient Business Transformation: The Human Firewall | IT_Engineer | [Read More](https://medium.com/p/b0645d9a5b90) |
-| Fri, 01 Aug 2025 13:29:31 GMT | Top 10 Cyber Threats You Can Prevent with Managed Security Services | Elevate | [Read More](https://medium.com/p/c6b2d178b1a9) |
