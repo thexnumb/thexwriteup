@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 21:19:39 GMT | Letter 03 — “August 8, 2025” | Moshii_echoes | [Read More](https://medium.com/p/204055f2feda) |
+| Fri, 01 Aug 2025 21:09:16 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/0e7e01415f9c) |
+| Fri, 01 Aug 2025 21:08:48 GMT | security services One Step Security | Albertcooley | [Read More](https://medium.com/p/54b50b90f9a5) |
+| Fri, 01 Aug 2025 20:51:30 GMT | Il mio paradosso: voglia di essere visto, timore di essere compreso | J1C | [Read More](https://medium.com/p/c41d94f5b0c8) |
+| Fri, 01 Aug 2025 20:46:54 GMT | Cyber Starting Your Cybersecurity Journey: A Call to Action for Future Defenders | Ebusingye | [Read More](https://medium.com/p/d081a8d7e133) |
 | Fri, 01 Aug 2025 20:42:32 GMT | Faking It. | Cindy Kaplan | [Read More](https://medium.com/p/a4cd83968759) |
 | Fri, 01 Aug 2025 20:41:27 GMT | From a Curious Student to a Cybersecurity Enthusiast: My Journey | Yash Katiyara | [Read More](https://medium.com/p/604343315a8a) |
 | Fri, 01 Aug 2025 20:40:43 GMT | Footprinting HTB — FTP, SMB | Mkirahmet | [Read More](https://medium.com/p/50edc083ead9) |
+| Fri, 01 Aug 2025 20:38:52 GMT | Securing Spring Boot with Kotlin | Romman Sabbir | [Read More](https://medium.com/p/11b20cb11d16) |
 | Fri, 01 Aug 2025 20:34:27 GMT | WHAT IS THE DIFFERENCE BETWEEN IOC AND IOA | JahdiSec | [Read More](https://medium.com/p/507300951976) |
 | Fri, 01 Aug 2025 20:33:57 GMT | OpenAI Data Leakage: When AI Chats Go Public | Anatoliy Fedorenko | [Read More](https://medium.com/p/d3e07c680a10) |
 | Fri, 01 Aug 2025 20:29:59 GMT | Let’s Defend: 314 — SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) -… | EPereda | [Read More](https://medium.com/p/8e5aa721e64b) |
@@ -59,6 +65,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 17:02:19 GMT | I Tried CSRF Attacks in Many Website (And Failed Miserably). Here’s What I Learned | Shah kaif | [Read More](https://medium.com/p/dd71317cb4e0) |
 | Fri, 01 Aug 2025 16:53:17 GMT | FortiGate’i Sanal Makineye Kurma ve Temel Arayüz Kullanımı | Selimayvaz | [Read More](https://medium.com/p/eb8424d80a93) |
 | Fri, 01 Aug 2025 16:53:00 GMT | Top Compliance Risks for Federal Health IT Contractors in 2025 | One Federal Solution | [Read More](https://medium.com/p/63e7cd0d695c) |
+| Fri, 01 Aug 2025 16:49:22 GMT | Stored XSS → Account Takeover | s0ly | [Read More](https://medium.com/p/7d9db5e6cdcb) |
 | Fri, 01 Aug 2025 16:47:12 GMT | What’s with Linux Distros? | Ryan Kurtz | [Read More](https://medium.com/p/ce91439e3e19) |
 | Fri, 01 Aug 2025 16:46:23 GMT | Any Password Can Be Hacked from Just 3 Websites! Shocking Truth! | Shahzaib | [Read More](https://medium.com/p/dd3de3a4bb86) |
 | Fri, 01 Aug 2025 16:45:55 GMT | Securely Uploading to S3 Without an Intermediate Server (Using Presigned URLs) | Sumit Chahal | [Read More](https://medium.com/p/f0a8fedbabc5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 14:42:05 GMT | ️ Vulnerability Scanning and Automated Management on Linux Systems | Esra Kayhan | [Read More](https://medium.com/p/6eb136c79d5b) |
 | Fri, 01 Aug 2025 14:40:38 GMT | Critical Alert For All ChatGPT Users | Max/Wang | [Read More](https://medium.com/p/1ce243fc44aa) |
 | Fri, 01 Aug 2025 14:37:19 GMT | Why XSS Is Not (Usually) Possible in JSON Responses: Cross-Site Scripting in JSON Responses | Jython | [Read More](https://medium.com/p/67fa4a23b74d) |
-| Fri, 01 Aug 2025 14:33:01 GMT | HTB Starting Point Tier 1 Appointment ve Sequel Makineleri Çözümleri ile Bilinmesi Gerekenler | Burhan Demir | [Read More](https://medium.com/p/90452b06aefe) |
-| Fri, 01 Aug 2025 14:20:00 GMT | CyberArk Workflows — How Accounts, Safes, and Sessions Work Together | Terence Imoma | [Read More](https://medium.com/p/5db3aa5701c0) |
-| Fri, 01 Aug 2025 14:17:26 GMT | Hacker vs. Hacker — TryHackMe writeup | Adhamkhairy | [Read More](https://medium.com/p/ac4efaa0549f) |
-| Fri, 01 Aug 2025 14:15:10 GMT | Home Lab Chronicles: Part 02 — Suricata IDS/IPS and Squid Transparent Proxy Integration | Suprim Devkota | [Read More](https://medium.com/p/f839332833e6) |
-| Fri, 01 Aug 2025 14:13:13 GMT | Enterprise Browser DLP: How Mammoth Secures Sensitive Data in Hybrid Work Environments | Mammoth Cyber | [Read More](https://medium.com/p/179d424f3d44) |
-| Fri, 01 Aug 2025 14:06:38 GMT | Beginners guide to OSINT — I | Pranavkumar Katariya | [Read More](https://medium.com/p/c9e3146cc6c8) |
-| Fri, 01 Aug 2025 14:04:55 GMT | Uncovering the Truth: A Beginner’s Guide to Digital Forensics | Shehab Ahmed | [Read More](https://medium.com/p/c489fad12678) |
