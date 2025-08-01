@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 02:01:25 GMT | A CCSP (Certified Cloud Security Professional) Exam Kickstarter for Cloud Native Security… | Gerald Bachlmayr | [Read More](https://medium.com/p/1120b52c3deb) |
+| Fri, 01 Aug 2025 01:58:36 GMT | This Malware Uses Facebook Ads to Hijack Your Crypto | Cyber-AppSec | [Read More](https://medium.com/p/74a0cb996ef5) |
+| Fri, 01 Aug 2025 01:52:00 GMT | 4. Malware | unknownman | [Read More](https://medium.com/p/2504229d43e2) |
+| Fri, 01 Aug 2025 01:33:59 GMT | Walkthrough — Module 06: Adding a Database Layer | Thomas Eid | [Read More](https://medium.com/p/59a4255958b9) |
+| Fri, 01 Aug 2025 01:18:27 GMT | Peeking Behind the Curtain: My Journey Understanding XSS with JavaScript | Maximilian Oliver | [Read More](https://medium.com/p/3c606dafe61d) |
+| Fri, 01 Aug 2025 01:06:16 GMT | When Private AI Chats Go Public: The Hidden Risk — and New Opportunity — of Shared ChatGPT Links | Rajan Nagarajan | [Read More](https://medium.com/p/bb75dc42628c) |
+| Fri, 01 Aug 2025 01:01:38 GMT | How a HackTheBox Module Changed My Mindset | Syed Ammar | [Read More](https://medium.com/p/ad1e61ec871b) |
+| Fri, 01 Aug 2025 00:54:25 GMT | IOC vs IOA: Why Most Detection Strategies Are Doomed From the Start | Manish Rawat | [Read More](https://medium.com/p/2ca7c9db5f79) |
+| Fri, 01 Aug 2025 00:53:15 GMT | Pop-Ups, Passwords, and Panic? You’re Not Alone | Liz Ndungu | [Read More](https://medium.com/p/a86589a20bb3) |
+| Fri, 01 Aug 2025 00:47:03 GMT | Why Addictive Relationships Aren’t Based on Genuine Love: Understanding Emotional Manipulation | Lucas Brown | [Read More](https://medium.com/p/009ed716ee4f) |
+| Fri, 01 Aug 2025 00:43:33 GMT | Paradox CTF Write-Up | ABHISHEK M D | [Read More](https://medium.com/p/79b381c740e9) |
+| Fri, 01 Aug 2025 00:40:40 GMT | Indian Army Internship 2025 — Mini CTF | ABHISHEK M D | [Read More](https://medium.com/p/83dd47b78340) |
+| Fri, 01 Aug 2025 00:18:06 GMT | ISMAP Management Standards Chapter 4: Planning and Operating Information Security “Management” | nolly | [Read More](https://medium.com/p/681514fe658a) |
+| Fri, 01 Aug 2025 00:07:43 GMT | Blue - THM | Isiah | [Read More](https://medium.com/p/f1569161b7da) |
+| Fri, 01 Aug 2025 00:02:45 GMT | Software and Data Integrity Failures (OWASP A08): Para Hacking, Bug Bounty y Desarrollo We | JPablo13 | [Read More](https://medium.com/p/e39cc7bda5d4) |
+| Thu, 31 Jul 2025 23:51:56 GMT | DEXX’s $21M Key Leak, MoonHacker’s Contract Hijack, and Clipper’s Liquidity Fragility | Olympix | [Read More](https://medium.com/p/0bdb79d83b93) |
+| Thu, 31 Jul 2025 23:49:26 GMT | Local Area Networks | Allen Ace | [Read More](https://medium.com/p/3c68f1231d51) |
+| Thu, 31 Jul 2025 23:42:04 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 2 Walkthrough | Mabdullahbinkhalid | [Read More](https://medium.com/p/b5bbb8c72dd0) |
+| Thu, 31 Jul 2025 23:39:50 GMT | The Solidity Compiler has Developed Schizophrenia | Babs | [Read More](https://medium.com/p/4c7d1a593e1f) |
 | Thu, 31 Jul 2025 23:30:35 GMT | Notes of an Old Guru: The DNS Temporary Attack | 0trust0day | [Read More](https://medium.com/p/952eba82db14) |
 | Thu, 31 Jul 2025 23:21:57 GMT | OSCP Privilege Escalation: Linux File Expansion | enigma_ | [Read More](https://medium.com/p/0d675612b0c6) |
 | Thu, 31 Jul 2025 23:19:44 GMT | ISMAP Management Standards Chapter 3: What is “Governance” for Information Security, Led by… | nolly | [Read More](https://medium.com/p/c459e3bc6b9e) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 31 Jul 2025 17:07:30 GMT | “How I Turned an LFI into a $5,000 Payday (And How You Can Too)” | Aman Sharma | [Read More](https://medium.com/p/2bdf7b719709) |
 | Thu, 31 Jul 2025 17:02:45 GMT | Best Practices for Storing Passwords in Node.js: A Secure Approach | habtesoft | [Read More](https://medium.com/p/5e1c50ee81e0) |
 | Thu, 31 Jul 2025 17:02:45 GMT | Analysis - The Rising Threat of Sahel Extremism: The United States Cannot Afford to Withdraw from… | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/fbde7931cbf0) |
-| Thu, 31 Jul 2025 17:02:45 GMT | The Last Page Still Counts | Princess Odey | [Read More](https://medium.com/p/6034f42f40e4) |
-| Thu, 31 Jul 2025 16:58:40 GMT | BlueSky Ransomware Lab Analysis | Omer Bawazir | [Read More](https://medium.com/p/b1eae34212fd) |
-| Thu, 31 Jul 2025 16:57:20 GMT | Why a Night Vision Camera for Home Is No Longer Optional — It’s Essential | Infinity Tech Solutions | [Read More](https://medium.com/p/4acb1b52b24d) |
-| Thu, 31 Jul 2025 16:54:20 GMT | The Invisible Skill Behind Great AI Results: Why Prompt Engineering Matters More Than You Think | Aaryan | [Read More](https://medium.com/p/af098073b360) |
-| Thu, 31 Jul 2025 16:53:30 GMT | Old Data, New Threat: How the 2024 Snowflake Hack Fueled AT&T’s 2025 Breach | Kalariya Het | [Read More](https://medium.com/p/86b8a100ef6e) |
-| Thu, 31 Jul 2025 16:53:08 GMT | Human Error: The Hidden Threat in Cybersecurity | Shieldnova | [Read More](https://medium.com/p/983c773eaa5b) |
-| Thu, 31 Jul 2025 16:50:41 GMT | CoinDCX Faces $44 Million Security Breach; Employee Arrested in Connection with Hack | CoinGen | [Read More](https://medium.com/p/e00c7bd46ff1) |
-| Thu, 31 Jul 2025 16:45:03 GMT | Advanced Web Security Techniques to Stay Ahead of Hackers. | Kevin Asutton | [Read More](https://medium.com/p/ba3090d9e038) |
-| Thu, 31 Jul 2025 16:40:16 GMT | love walks in, chaos follows close behind | Andie | [Read More](https://medium.com/p/8c1be474d5ee) |
-| Thu, 31 Jul 2025 16:37:18 GMT | Hồ sơ năng lực công ty bảo vệ Đại An Group | DaiAnGroup | [Read More](https://medium.com/p/1dd3264bad2d) |
-| Thu, 31 Jul 2025 16:37:10 GMT | XSS — Server Side -Root Me | Ahmed Elsayyad | [Read More](https://medium.com/p/e152c6a783a5) |
-| Thu, 31 Jul 2025 16:36:10 GMT | From Beginner to PJPT: My Real Experience as a First-Time Pentester | Kent Michael | [Read More](https://medium.com/p/a370b0e4d831) |
-| Thu, 31 Jul 2025 16:36:01 GMT | Why Cloudflare is not protecting you from DDoS anymore? | Vedran Jakovac | [Read More](https://medium.com/p/fc29f81a2587) |
-| Thu, 31 Jul 2025 16:31:47 GMT | Let’s Defend: 304 — SOC326 — Impersonating Domain MX Record Change Detected - Writeup | EPereda | [Read More](https://medium.com/p/bbf7a6f4c92f) |
-| Thu, 31 Jul 2025 16:30:08 GMT | Government Funding Opportunities for Career Courses in 2025 — What You Need to Know. | Nextstep nexus | [Read More](https://medium.com/p/32d6b7afdd14) |
-| Thu, 31 Jul 2025 16:28:31 GMT | CyberDefender: ‘XWorm’ Lab Challenge Writeup | dead.shut | [Read More](https://medium.com/p/ac7c426042a1) |
-| Thu, 31 Jul 2025 16:27:09 GMT | What Are Dedicated Servers and Why Do They Matter? | Timonéofearth | [Read More](https://medium.com/p/9c10b4cd9c86) |
-| Thu, 31 Jul 2025 16:21:37 GMT | Cross-Platform Modular Malware | Lord Murak | [Read More](https://medium.com/p/cdf082662ffd) |
-| Thu, 31 Jul 2025 16:18:10 GMT | Naval Group  : yes, AI is absolutely everywhere | Sirine Amrane | [Read More](https://medium.com/p/75318958dccb) |
