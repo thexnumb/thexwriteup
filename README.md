@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 18:25:24 GMT | What if your smart home turned against you? | Malavika Manoj | [Read More](https://medium.com/p/1432163841b7) |
+| Fri, 01 Aug 2025 18:18:46 GMT | SQL injection — String and authentication [Root me] | Adhamkhairy | [Read More](https://medium.com/p/cccf746dc571) |
+| Fri, 01 Aug 2025 18:17:37 GMT | Armed Armed Security Services That Guarantee Safety and Control | Uniworth | [Read More](https://medium.com/p/b7593f985e47) |
+| Fri, 01 Aug 2025 18:11:58 GMT | 5 Simple Ways To Outsmart Ransomware | Faiza Arshad | [Read More](https://medium.com/p/8d96f21822e8) |
+| Fri, 01 Aug 2025 18:07:45 GMT | The Arcadia $3.6M Exploit Was a Blueprint for Future Failures | Olympix | [Read More](https://medium.com/p/1d99eb28e6f1) |
+| Fri, 01 Aug 2025 18:06:26 GMT | How I Uncovered Reflected and Stored XSS on a University Portal | Avyukt Security | [Read More](https://medium.com/p/ad6c653c6a81) |
+| Fri, 01 Aug 2025 18:04:59 GMT | How I got attacked by Kim Jong Un’s guys | 0trust0day | [Read More](https://medium.com/p/c8a395a7fb57) |
+| Fri, 01 Aug 2025 17:53:23 GMT | Mass Information Disclosure via Exposed i18n JSON File (internal logic, payment flows, and business… | Mustafa Adam Gamaraldin Abdalla | [Read More](https://medium.com/p/67d6da79ab68) |
+| Fri, 01 Aug 2025 17:50:32 GMT | MEV, Front-Running & Compliance: MiCA’s Silent War on Crypto’s Dirtiest Secret | GozmanGonzalez | [Read More](https://medium.com/p/9e7f328f4706) |
+| Fri, 01 Aug 2025 17:49:32 GMT | The Synthetic Mirror: | Abdul Saboor | [Read More](https://medium.com/p/1075fc8c166e) |
+| Fri, 01 Aug 2025 17:44:58 GMT | Detect Dangerous Wildcard Trust Policies Across AWS Accounts — Even with Identity Center | Ifeanyi Onyekpe | [Read More](https://medium.com/p/fc323805da0f) |
+| Fri, 01 Aug 2025 17:44:46 GMT | Dịch vụ bảo vệ yếu nhân VIP uy tín, chuyên nghiệp — An toàn tuyệt đối | DaiAnGroup | [Read More](https://medium.com/p/e4b9f84e1231) |
 | Fri, 01 Aug 2025 17:37:05 GMT | Local File Inclusion — Wrappers [Root-me] | Adhamkhairy | [Read More](https://medium.com/p/fefa483c30af) |
 | Fri, 01 Aug 2025 17:30:33 GMT | Surveillance Capitalism Is Watching You — Everyday Habits to Keep Your Data Safe | Rahul Mishra | [Read More](https://medium.com/p/5f971e7e8da7) |
 | Fri, 01 Aug 2025 17:21:09 GMT | How Do You Say Yes to Love Again? | Merxie Ezeh | [Read More](https://medium.com/p/108ed35d824a) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 13:02:39 GMT | Pwn2Own Offers $1 Million Bounty for Zero-Click WhatsApp Exploit | Mohammed Muneef | [Read More](https://medium.com/p/cd8a4d8984dd) |
 | Fri, 01 Aug 2025 13:00:45 GMT | SecurityManager Devre Dışıysa, Saldırganın Yolu Açık | Serdarumuturan | [Read More](https://medium.com/p/0837d79d6064) |
 | Fri, 01 Aug 2025 12:59:31 GMT | Cybersecurity Best Practices and Services to Protect Your Business in 2025 | secureroot | [Read More](https://medium.com/p/7529a7829f1d) |
-| Fri, 01 Aug 2025 12:57:55 GMT | rootme -Local File Inclusion — Double encoding | Abdelfattah Elsabagh | [Read More](https://medium.com/p/f31f7e66bb26) |
-| Fri, 01 Aug 2025 12:57:47 GMT | How Facebook Intercepted Encrypted App Data: Then and Now | Ruben Groothuis | [Read More](https://medium.com/p/912201427823) |
-| Fri, 01 Aug 2025 12:54:44 GMT | From Concept to Impact: A Look at 5 Use Cases That Show Acurast in Action | Acurast | [Read More](https://medium.com/p/c106cf49a79b) |
-| Fri, 01 Aug 2025 12:53:19 GMT | You Don’t Have to Prove Them Wrong, Just Don’t Stay Small to Please Them | Duru joshua | [Read More](https://medium.com/p/583f24dbed56) |
-| Fri, 01 Aug 2025 12:52:16 GMT | Fed Up with Pinokio’s Bloat and Closed Nature, I Built a Portable Alternative in a Weekend. | NeuroDonu | [Read More](https://medium.com/p/0e96fc082e68) |
-| Fri, 01 Aug 2025 12:52:00 GMT | Benign | 0xPhantom | [Read More](https://medium.com/p/ff8eb36be720) |
-| Fri, 01 Aug 2025 12:37:22 GMT | Ngrok shields n8n flows with free privacy that’s easy peasy - Ngrok护n8n流 免费隐私easy peasy | slUbishi | [Read More](https://medium.com/p/2b6f402797e0) |
-| Fri, 01 Aug 2025 12:33:02 GMT | Hire Rust Developers to Boost Your Cybersecurity and System Efficiency | Rollout IT | [Read More](https://medium.com/p/cf40bed54ed5) |
-| Fri, 01 Aug 2025 12:30:50 GMT | The hidden reason most tech talents don’t succeed — and how to beat it | Newton Tech Navigator | [Read More](https://medium.com/p/8c11fdedf1d0) |
-| Fri, 01 Aug 2025 12:30:41 GMT | When You’re the One Who Loves More (And You Know It) | Rendanup | [Read More](https://medium.com/p/d96864ce1d06) |
-| Fri, 01 Aug 2025 12:26:17 GMT | Who needs Security and Privacy by Design? | Ziya Zoe | [Read More](https://medium.com/p/6961262a7506) |
-| Fri, 01 Aug 2025 12:19:44 GMT | Windows Authentication Monitoring | Neetrox | [Read More](https://medium.com/p/ca3dce7b7526) |
