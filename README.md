@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 16:16:16 GMT | Wazuh, Ubuntu, Kali, Caldera — a super quick way of building a disposable cyber lab | Phil Legg | [Read More](https://medium.com/p/1ad693665fa5) |
+| Fri, 01 Aug 2025 16:16:05 GMT | The CoinDCX $44 Million Theft Case: A Deep Dive into the Rahul Agarwal Cybercrime Arrest | Vijay Kumar Gupta | [Read More](https://medium.com/p/f0c029b2bac1) |
+| Fri, 01 Aug 2025 16:05:55 GMT | Local File Inclusion — Double encoding [Root-Me] Writeup | Adhamkhairy | [Read More](https://medium.com/p/68ea03d8c39a) |
+| Fri, 01 Aug 2025 16:02:55 GMT | How to Install Parrot OS on VMware Workstation 17 (Fix Boot Errors) | Shawn | [Read More](https://medium.com/p/9537d63c4e8f) |
+| Fri, 01 Aug 2025 16:00:39 GMT | Biometric Replay Attacks: How Hackers Clone Your Fingerprint and Voiceprint | Akshay Chauhan | [Read More](https://medium.com/p/a69af517bbea) |
+| Fri, 01 Aug 2025 15:51:28 GMT | Understanding IBM Master Data Management (MDM): A Deep Dive with Real-World Examples | Rahul Agarwal | [Read More](https://medium.com/p/1111e0e03ce3) |
+| Fri, 01 Aug 2025 15:45:02 GMT | A Growing Threat to Manufacturing | OEE IntelliSuite | [Read More](https://medium.com/p/fbdc9f6ff31d) |
+| Fri, 01 Aug 2025 15:43:28 GMT | The New Digital Reality: How AI, Cybersecurity, and Machine Learning are Building Our Future | CapitalCoin | [Read More](https://medium.com/p/8f787fa08df0) |
+| Fri, 01 Aug 2025 15:42:15 GMT | Top 14 AI Security Videos — July | Tal Eliyahu | [Read More](https://medium.com/p/5d54b4b89278) |
 | Fri, 01 Aug 2025 15:31:37 GMT | Creating a High-Impact Cybersecurity Assessment Report | Ian Mutai Korir | [Read More](https://medium.com/p/a7852f77925f) |
 | Fri, 01 Aug 2025 15:29:37 GMT | The Human Firewall: Why Employee Training is Your First Line of Cyber Defense -Dale Drushella | Dale Drushella | [Read More](https://medium.com/p/af684d62e5a9) |
 | Fri, 01 Aug 2025 15:26:00 GMT | Inbox Imposters: 7 Fast Ways to Spot a Fake Email | SaddleBridge Consulting | [Read More](https://medium.com/p/0a6eb3d26bee) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 10:57:14 GMT | Cybersecurity | Sanehairfan | [Read More](https://medium.com/p/c94891dabe6e) |
 | Fri, 01 Aug 2025 10:56:39 GMT | Your App Passed the Audit. It’s Still a Security Nightmare. | Webpuppies | [Read More](https://medium.com/p/74c0e4d231d9) |
 | Fri, 01 Aug 2025 10:56:33 GMT | Why Custom Website and Application Development Services Are Essential for Business Growth | Softvision Corp | [Read More](https://medium.com/p/4864d96997c5) |
-| Fri, 01 Aug 2025 10:55:38 GMT | Storm-2603 Strikes: DNS-Controlled Backdoor Found in Global Ransomware Attacks | CYber VIaz | [Read More](https://medium.com/p/85d0e60a89c4) |
-| Fri, 01 Aug 2025 10:54:17 GMT | TheHive Project — SOC Level 1: DFIR with TryHackMe | Furkanctiner | [Read More](https://medium.com/p/99c14128d61e) |
-| Fri, 01 Aug 2025 10:46:46 GMT | ChatGPT Leaks? | Pascal Asch | [Read More](https://medium.com/p/0d5f8ab93873) |
-| Fri, 01 Aug 2025 10:44:55 GMT | Tovuz regional “ASAN xidmət” mərkəzinin könüllülərinin təşəbbüsü ilə köhnə veb saytların müasir… | Mubariz Najafov | [Read More](https://medium.com/p/cdcf74ceebb2) |
-| Fri, 01 Aug 2025 10:43:47 GMT | HTB Challenge — CriticalOps | MEGAZORD | [Read More](https://medium.com/p/eeba1a98e225) |
-| Fri, 01 Aug 2025 10:43:38 GMT | DREAD Risk Assessment Model | Cyber Security Details | [Read More](https://medium.com/p/77f23e7d2aa9) |
-| Fri, 01 Aug 2025 10:41:49 GMT | STRIDE Threat Modeling Methodology | Cyber Security Details | [Read More](https://medium.com/p/995a37c7067b) |
-| Fri, 01 Aug 2025 10:40:31 GMT | Threat Modeling for Developers | Cyber Security Details | [Read More](https://medium.com/p/c0a03de88e9a) |
-| Fri, 01 Aug 2025 10:39:16 GMT | Sandboxing: A Safe Space for Dangerous Code | Cyber Security Details | [Read More](https://medium.com/p/d283e3e0830d) |
