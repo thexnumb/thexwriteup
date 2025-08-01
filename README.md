@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 21:39:30 GMT | Want to step into Cybersecurity? | Zyphrex | [Read More](https://medium.com/p/ea60f186af7e) |
+| Fri, 01 Aug 2025 21:24:08 GMT | The Risk You Never Planned For: Why ITDR and ISPM Aren’t Enough | David Canellos | [Read More](https://medium.com/p/de50e1c7f537) |
+| Fri, 01 Aug 2025 21:23:15 GMT | Threat Hunt simulation and Report Generation | Shibly Sadik | [Read More](https://medium.com/p/15591bc84fe7) |
+| Fri, 01 Aug 2025 21:21:47 GMT | DAY 32 — Python Scripting Basics for Cybersecurity | Jinay | [Read More](https://medium.com/p/180d26ecafb4) |
+| Fri, 01 Aug 2025 21:21:39 GMT | Unlocking the Power of /proc/self/fd/ in Linux: From Basics to Exploits and Prevention | Zoningxtr | [Read More](https://medium.com/p/f58d2202b129) |
 | Fri, 01 Aug 2025 21:19:39 GMT | Letter 03 — “August 8, 2025” | Moshii_echoes | [Read More](https://medium.com/p/204055f2feda) |
+| Fri, 01 Aug 2025 21:19:36 GMT | Turn LFI into RCE Using /proc/self/ — A Deep Dive for Pentesters | Zoningxtr | [Read More](https://medium.com/p/cb59dbec15c2) |
+| Fri, 01 Aug 2025 21:17:39 GMT | Xilos: A Definitive Answer to the Shadow AI Crisis | Mill Pond Research | [Read More](https://medium.com/p/4793463779ec) |
+| Fri, 01 Aug 2025 21:16:02 GMT | The SharePoint exploit that breached U.S. Nuke Systems (and why devs should care) | <devtips/> | [Read More](https://medium.com/p/b8b4945eb2b5) |
 | Fri, 01 Aug 2025 21:09:16 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/0e7e01415f9c) |
 | Fri, 01 Aug 2025 21:08:48 GMT | security services One Step Security | Albertcooley | [Read More](https://medium.com/p/54b50b90f9a5) |
 | Fri, 01 Aug 2025 20:51:30 GMT | Il mio paradosso: voglia di essere visto, timore di essere compreso | J1C | [Read More](https://medium.com/p/c41d94f5b0c8) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 15:06:11 GMT | Uncovering the Truth: A Beginner’s Guide to Digital Forensics | Shehab Ahmed | [Read More](https://medium.com/p/85b2b6f9b241) |
 | Fri, 01 Aug 2025 15:04:09 GMT | The Silent Differentiator: How UI/UX Shapes Startup Traction | Fry Rob | [Read More](https://medium.com/p/a5c4101abc13) |
 | Fri, 01 Aug 2025 15:02:57 GMT | Supercharge Your Docusaurus Documentation: Custom Sidebar Icons and Active State Highlighting | Saurabh Patwardhan | [Read More](https://medium.com/p/daa703f2fe5c) |
-| Fri, 01 Aug 2025 14:58:21 GMT | Troubleshooting Common Issues in GoPhish: A Practical Guide to Effective Phishing Simulations | Odzormatilda | [Read More](https://medium.com/p/3456543efa96) |
-| Fri, 01 Aug 2025 14:53:45 GMT | I Just Want Peace: When You’re Tired of Explaining Your Pain to Everyone | Aradhana | [Read More](https://medium.com/p/37fb5d22cb23) |
-| Fri, 01 Aug 2025 14:52:36 GMT | DSViper ile Antivirüs Atlama: Adım Adım Rehber | Mikail Güven Çiçek | [Read More](https://medium.com/p/1dec53f21f1f) |
-| Fri, 01 Aug 2025 14:50:23 GMT | Tea App Hack: Disassembling The Ridiculous App Source Code | Jan Kammerath | [Read More](https://medium.com/p/bc585e15bf4f) |
-| Fri, 01 Aug 2025 14:43:43 GMT | Facts About Data Breaches Demonstrate Financial Impact | Mitchell Barrick | [Read More](https://medium.com/p/8fe6de89f217) |
-| Fri, 01 Aug 2025 14:42:05 GMT | ️ Vulnerability Scanning and Automated Management on Linux Systems | Esra Kayhan | [Read More](https://medium.com/p/6eb136c79d5b) |
-| Fri, 01 Aug 2025 14:40:38 GMT | Critical Alert For All ChatGPT Users | Max/Wang | [Read More](https://medium.com/p/1ce243fc44aa) |
-| Fri, 01 Aug 2025 14:37:19 GMT | Why XSS Is Not (Usually) Possible in JSON Responses: Cross-Site Scripting in JSON Responses | Jython | [Read More](https://medium.com/p/67fa4a23b74d) |
