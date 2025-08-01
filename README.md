@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 11:32:18 GMT | VPN Speed Wars: Why ExpressVPN’s 7% Beats CyberGhost’s 10% (And Why It Matters) | TechEd Publishers | [Read More](https://medium.com/p/a48370649e3e) |
+| Fri, 01 Aug 2025 11:31:44 GMT | CISO: Self-Assess Your Security Program — A Mindmap | Yael Nagler | [Read More](https://medium.com/p/44aef0594601) |
+| Fri, 01 Aug 2025 11:25:30 GMT | No SQL Injection — PicoCTF WriteUp | Musthofa Kamaluddin | [Read More](https://medium.com/p/c4d6ca4e63fd) |
+| Fri, 01 Aug 2025 11:24:12 GMT | Living Off the Cloud: Abusing Cloud Services for Red Teaming | Shadow Packet | [Read More](https://medium.com/p/bf83fae9acae) |
 | Fri, 01 Aug 2025 11:19:03 GMT | 5 Must-Read Hacking & Cybersecurity Books That Shaped My Offensive Journey | Z33 Security | [Read More](https://medium.com/p/d12b52d049f8) |
 | Fri, 01 Aug 2025 11:08:39 GMT | What did SharePoint teach us about the state of enterprise defense in 2025? | STR4T0TT0 | [Read More](https://medium.com/p/017a51c47eec) |
 | Fri, 01 Aug 2025 11:08:07 GMT | CYBERSECURITY FOR E-COMMERCE WEBSITES: ENSURING SAFE TRANSACTIONS | TabTree IT Consulting Company | [Read More](https://medium.com/p/5b9a1e661b07) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 07:24:14 GMT | RCE in Apache OFBiz: What Devs Should Know About CVE-2023–49070 | AerieWhole123 | [Read More](https://medium.com/p/ddcf2b3bcee1) |
 | Fri, 01 Aug 2025 07:22:11 GMT | How 3 Free Recon Tools found 40 Bugs — Helped To Score $1200 in Bug Bounties | Rashadul Islam | [Read More](https://medium.com/p/55c215b372a3) |
 | Fri, 01 Aug 2025 07:18:24 GMT | How to Watch Anything, Anywhere (Legally-ish) | Cloudbric VPN | [Read More](https://medium.com/p/1c0f4ff0bae2) |
-| Fri, 01 Aug 2025 07:18:22 GMT | Fixing the BloodHound Startup Error on Kali Linux | Prath | [Read More](https://medium.com/p/3f2872289899) |
-| Fri, 01 Aug 2025 07:15:42 GMT | ChatGPT use | Meschain shelly | [Read More](https://medium.com/p/d14f174d5772) |
-| Fri, 01 Aug 2025 07:15:33 GMT | Best Linux Training Programs in India — 2025 Edition | cyber security Updates | [Read More](https://medium.com/p/b4fa6b22f74e) |
-| Fri, 01 Aug 2025 07:11:24 GMT | Hacked the AI, Got the Bounty: Obfuscation & Prompt Injection Techniques for Red Teamers | CyberTechAjju | [Read More](https://medium.com/p/9715be4f23e4) |
