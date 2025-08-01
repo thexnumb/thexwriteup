@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 15:13:49 GMT | Simple TCP Listener in Python | PJSM-Sec | [Read More](https://medium.com/p/7b722f9a0c88) |
+| Fri, 01 Aug 2025 15:11:43 GMT | Top Cybersecurity Certifications (CISSP, Security+, OSCP) | Cyber Security Details | [Read More](https://medium.com/p/0dc444132a16) |
+| Fri, 01 Aug 2025 15:09:21 GMT | Sudo Shell Escaping Privilege Escalation (Linux Privilege Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/e17aef12033c) |
+| Fri, 01 Aug 2025 15:08:44 GMT | Fancy Bear’s invisible invasions | Sharwari Dali | [Read More](https://medium.com/p/ac2631072b1c) |
+| Fri, 01 Aug 2025 15:07:25 GMT | “Day 1: Breaking Into Bug Bounties — Your First Steps” | Aman Sharma | [Read More](https://medium.com/p/dd1007e8f098) |
+| Fri, 01 Aug 2025 15:06:11 GMT | Uncovering the Truth: A Beginner’s Guide to Digital Forensics | Shehab Ahmed | [Read More](https://medium.com/p/85b2b6f9b241) |
+| Fri, 01 Aug 2025 15:04:09 GMT | The Silent Differentiator: How UI/UX Shapes Startup Traction | Fry Rob | [Read More](https://medium.com/p/a5c4101abc13) |
+| Fri, 01 Aug 2025 15:02:57 GMT | Supercharge Your Docusaurus Documentation: Custom Sidebar Icons and Active State Highlighting | Saurabh Patwardhan | [Read More](https://medium.com/p/daa703f2fe5c) |
+| Fri, 01 Aug 2025 14:58:21 GMT | Troubleshooting Common Issues in GoPhish: A Practical Guide to Effective Phishing Simulations | Odzormatilda | [Read More](https://medium.com/p/3456543efa96) |
+| Fri, 01 Aug 2025 14:53:45 GMT | I Just Want Peace: When You’re Tired of Explaining Your Pain to Everyone | Aradhana | [Read More](https://medium.com/p/37fb5d22cb23) |
+| Fri, 01 Aug 2025 14:52:36 GMT | DSViper ile Antivirüs Atlama: Adım Adım Rehber | Mikail Güven Çiçek | [Read More](https://medium.com/p/1dec53f21f1f) |
+| Fri, 01 Aug 2025 14:50:23 GMT | Tea App Hack: Disassembling The Ridiculous App Source Code | Jan Kammerath | [Read More](https://medium.com/p/bc585e15bf4f) |
+| Fri, 01 Aug 2025 14:43:43 GMT | Facts About Data Breaches Demonstrate Financial Impact | Mitchell Barrick | [Read More](https://medium.com/p/8fe6de89f217) |
+| Fri, 01 Aug 2025 14:42:05 GMT | ️ Vulnerability Scanning and Automated Management on Linux Systems | Esra Kayhan | [Read More](https://medium.com/p/6eb136c79d5b) |
 | Fri, 01 Aug 2025 14:40:38 GMT | Critical Alert For All ChatGPT Users | Max/Wang | [Read More](https://medium.com/p/1ce243fc44aa) |
 | Fri, 01 Aug 2025 14:37:19 GMT | Why XSS Is Not (Usually) Possible in JSON Responses: Cross-Site Scripting in JSON Responses | Jython | [Read More](https://medium.com/p/67fa4a23b74d) |
 | Fri, 01 Aug 2025 14:33:01 GMT | HTB Starting Point Tier 1 Appointment ve Sequel Makineleri Çözümleri ile Bilinmesi Gerekenler | Burhan Demir | [Read More](https://medium.com/p/90452b06aefe) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 10:11:47 GMT | How Misconfigured Computer Accounts Lead to Hidden Privilege Escalation in Active Directory | Sebastian Kandler | [Read More](https://medium.com/p/4a4ccea7896d) |
 | Fri, 01 Aug 2025 10:10:54 GMT | Trusted Security Services in Hobart: Protect What Matters Most | Stateguard Protective Services | [Read More](https://medium.com/p/95e4773386a6) |
 | Fri, 01 Aug 2025 10:02:54 GMT | DIY Faraday Fashion: How I Sewed a Hoodie That Ghosts Wi-Fi Trackers | Franziska "Ziska" Fink | [Read More](https://medium.com/p/02fd8cc5ce3e) |
-| Fri, 01 Aug 2025 09:59:16 GMT | Understanding the Difference Between Local and Global Variables in Python | Ketan Patel | [Read More](https://medium.com/p/8a499a7b4d1b) |
-| Fri, 01 Aug 2025 09:58:14 GMT | Real-World Scenarios: How Ech Browser Protects You Daily | Psylinks Announce | [Read More](https://medium.com/p/bc61d1e32a8d) |
-| Fri, 01 Aug 2025 09:58:14 GMT | Wonderland Write-Up (TryHackMe) | Mustafa Bostan | [Read More](https://medium.com/p/21abdc2bbded) |
-| Fri, 01 Aug 2025 09:57:58 GMT | How to Improve Event Security with RFID Access Control | ShirleyLiu_RFIDTagcom | [Read More](https://medium.com/p/c6dc292f6058) |
-| Fri, 01 Aug 2025 09:55:18 GMT | Antivirus Is Broken; Here’s How AI Is Fixing It | Ivander “Andreas” Wijaya | [Read More](https://medium.com/p/88bf154e5346) |
-| Fri, 01 Aug 2025 09:54:02 GMT | The Tea App DataBreach: A Hard Look at Common Security Failures (and How to Prevent It) | Priyesh Shukla | [Read More](https://medium.com/p/7a4716dc11a0) |
-| Fri, 01 Aug 2025 09:53:28 GMT | DockerLabs Writeup — Vacaciones (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/7b490c212b4d) |
-| Fri, 01 Aug 2025 09:52:58 GMT | Expert Lecture II | unknownman | [Read More](https://medium.com/p/cca2016cc0f2) |
-| Fri, 01 Aug 2025 09:52:50 GMT | “Microsoft Support” Call Almost Cleaned Out My Savings | Aj | [Read More](https://medium.com/p/a13b693fe424) |
-| Fri, 01 Aug 2025 09:48:52 GMT | Continued pain at M&S as £300m April hack lingers on | Business Broadband Hub | [Read More](https://medium.com/p/8930722b1d9c) |
-| Fri, 01 Aug 2025 09:48:32 GMT | The Future of Browse is Private: Why Ech Browser is a Game-Changer | Psylinks Announce | [Read More](https://medium.com/p/f36b2d344c04) |
-| Fri, 01 Aug 2025 09:47:06 GMT | Reliable Network Management Services - Optimize Your Network Performance | Gowthammathiew | [Read More](https://medium.com/p/09cb76aecdc6) |
-| Fri, 01 Aug 2025 09:46:43 GMT | Why Small Companies Get Hit by Big Attacks | Evgeny Ermakov | [Read More](https://medium.com/p/0c2cc98aa447) |
-| Fri, 01 Aug 2025 09:46:11 GMT | cyber security course in india | Krishnavenidotin | [Read More](https://medium.com/p/e66722a8a546) |
