@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 22:16:38 GMT | Detecting Account Takeover in Real Time | Karthikeyan Nagaraj | [Read More](https://medium.com/p/81466a2d7b40) |
+| Fri, 01 Aug 2025 22:14:03 GMT | Local File Inclusion Double encoding @ Root-me Walkthrough | Amr Elharery | [Read More](https://medium.com/p/61da1808e723) |
+| Fri, 01 Aug 2025 22:12:55 GMT | TryHackMe “Silver Platter” CTF
+Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/dd212c1fc768) |
+| Fri, 01 Aug 2025 22:07:28 GMT | TryHackMe Pre Security 101 — Offensive Security Intro | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/6b9ab6525cfc) |
+| Fri, 01 Aug 2025 22:03:23 GMT | Article 1:  Why I’m Learning Offensive Security for 365 Days – My #365ToOffSec Challenge | DERR | [Read More](https://medium.com/p/aac5bf1f607e) |
+| Fri, 01 Aug 2025 22:02:39 GMT | Top Cybersecurity Certifications (CISSP, Security+, OSCP) | Cyber Security Details | [Read More](https://medium.com/p/84606c51a072) |
+| Fri, 01 Aug 2025 21:53:30 GMT | The Algorithmic Pandemic: How Smart Devices Are Re-Wiring Our Well-Being | Chris Ford | [Read More](https://medium.com/p/2b286d2a52d5) |
+| Fri, 01 Aug 2025 21:46:20 GMT | K8s Data Security: Monitoring Agents and Pod Security Standards | W. Jenks Gibbons | [Read More](https://medium.com/p/6576a824765f) |
+| Fri, 01 Aug 2025 21:44:09 GMT | PHP Wrappers | DuckWrites | [Read More](https://medium.com/p/3a314ed04e3f) |
+| Fri, 01 Aug 2025 21:41:46 GMT | Vibe Coding with Copilot: The Security Pitfalls Nobody Warns You About | Halil Ural | [Read More](https://medium.com/p/631dd49783b3) |
+| Fri, 01 Aug 2025 21:39:53 GMT | Fortytwo.nl — It’s So Bad, I’m Embarrassed to Write About It | 0trust0day | [Read More](https://medium.com/p/7eb68b204058) |
 | Fri, 01 Aug 2025 21:39:30 GMT | Want to step into Cybersecurity? | Zyphrex | [Read More](https://medium.com/p/ea60f186af7e) |
+| Fri, 01 Aug 2025 21:35:50 GMT | My First Wake-Up Call | Dr Tai Durojaiye | [Read More](https://medium.com/p/d4235a457ecb) |
 | Fri, 01 Aug 2025 21:24:08 GMT | The Risk You Never Planned For: Why ITDR and ISPM Aren’t Enough | David Canellos | [Read More](https://medium.com/p/de50e1c7f537) |
 | Fri, 01 Aug 2025 21:23:15 GMT | Threat Hunt simulation and Report Generation | Shibly Sadik | [Read More](https://medium.com/p/15591bc84fe7) |
 | Fri, 01 Aug 2025 21:21:47 GMT | DAY 32 — Python Scripting Basics for Cybersecurity | Jinay | [Read More](https://medium.com/p/180d26ecafb4) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 15:29:37 GMT | The Human Firewall: Why Employee Training is Your First Line of Cyber Defense -Dale Drushella | Dale Drushella | [Read More](https://medium.com/p/af684d62e5a9) |
 | Fri, 01 Aug 2025 15:26:00 GMT | Inbox Imposters: 7 Fast Ways to Spot a Fake Email | SaddleBridge Consulting | [Read More](https://medium.com/p/0a6eb3d26bee) |
 | Fri, 01 Aug 2025 15:23:10 GMT | I Built a Free PowerShell Tool to Analyze Windows Security — Here’s What I Found on My Own System | Igor Dunaev | [Read More](https://medium.com/p/958cd3faf4f2) |
-| Fri, 01 Aug 2025 15:15:54 GMT | Starting Safe Habits Early: Emails for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/0b2fb1785788) |
-| Fri, 01 Aug 2025 15:15:36 GMT | Direct-to-Consumer Genetic Testing: Are you selling yourself? | Savvy Cyber Kids | [Read More](https://medium.com/p/65fdf6c6eb32) |
-| Fri, 01 Aug 2025 15:15:15 GMT | Children Having Their Own iPads | Savvy Cyber Kids | [Read More](https://medium.com/p/80b5f77a787b) |
-| Fri, 01 Aug 2025 15:13:49 GMT | Simple TCP Listener in Python | PJSM-Sec | [Read More](https://medium.com/p/7b722f9a0c88) |
-| Fri, 01 Aug 2025 15:13:18 GMT | RoomShield Protocol – Declaration 002 | RoomShield Protocol | [Read More](https://medium.com/p/367e937d274a) |
-| Fri, 01 Aug 2025 15:11:43 GMT | Top Cybersecurity Certifications (CISSP, Security+, OSCP) | Cyber Security Details | [Read More](https://medium.com/p/0dc444132a16) |
-| Fri, 01 Aug 2025 15:09:21 GMT | Sudo Shell Escaping Privilege Escalation (Linux Privilege Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/e17aef12033c) |
-| Fri, 01 Aug 2025 15:08:44 GMT | Fancy Bear’s invisible invasions | Sharwari Dali | [Read More](https://medium.com/p/ac2631072b1c) |
-| Fri, 01 Aug 2025 15:07:25 GMT | “Day 1: Breaking Into Bug Bounties — Your First Steps” | Aman Sharma | [Read More](https://medium.com/p/dd1007e8f098) |
-| Fri, 01 Aug 2025 15:06:11 GMT | Uncovering the Truth: A Beginner’s Guide to Digital Forensics | Shehab Ahmed | [Read More](https://medium.com/p/85b2b6f9b241) |
-| Fri, 01 Aug 2025 15:04:09 GMT | The Silent Differentiator: How UI/UX Shapes Startup Traction | Fry Rob | [Read More](https://medium.com/p/a5c4101abc13) |
-| Fri, 01 Aug 2025 15:02:57 GMT | Supercharge Your Docusaurus Documentation: Custom Sidebar Icons and Active State Highlighting | Saurabh Patwardhan | [Read More](https://medium.com/p/daa703f2fe5c) |
