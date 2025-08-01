@@ -12,11 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 07:45:19 GMT | 250–587 Administration of Symantec Endpoint Protection 14 Complete Certification Guide 2025 | Mehmood Ali | [Read More](https://medium.com/p/88d9acccc438) |
+| Fri, 01 Aug 2025 07:44:47 GMT | Volatility Essentials: Intro to Memory Forensics — A Memory Guide — TryHackME | Kalp Prajapati | [Read More](https://medium.com/p/26844940ab19) |
+| Fri, 01 Aug 2025 07:42:08 GMT | The 20x Employee: A Strategic Framework for Unlocking Hyper-Productivity with Artificial… | Andrey Pautov | [Read More](https://medium.com/p/8f49cde95a25) |
+| Fri, 01 Aug 2025 07:36:06 GMT | Vulnerability Assessment and Penetration Testing | Shubhamrawat | [Read More](https://medium.com/p/bfa1fdc89ae2) |
+| Fri, 01 Aug 2025 07:34:08 GMT | Secure Docker Image Scanning with Vault Radar: Closing the Loop on Container Secrets ⭕️ | Raymon Epping | [Read More](https://medium.com/p/15dab1ef83d4) |
+| Fri, 01 Aug 2025 07:32:17 GMT | Fixing the BloodHound Startup Error on Kali Linux | Prath | [Read More](https://medium.com/p/3712abe83daf) |
+| Fri, 01 Aug 2025 07:29:33 GMT | “Beyond Encryption: Why Quantum Networks and Quantum-Safe Security Are No Longer Optional” | SAMBATH KUMAR J | [Read More](https://medium.com/p/761d0bbaaa1a) |
+| Fri, 01 Aug 2025 07:28:21 GMT | CoinDCX Hack Explained: Hornet’s Role in the Aftermath | Kapil Kathiriya | [Read More](https://medium.com/p/e65df1adc39b) |
 | Fri, 01 Aug 2025 07:27:42 GMT | WordPress Security in 2025: Core Defenses and Enterprise Strategies | Osom Studio WordPress and WooCommerce Agency | [Read More](https://medium.com/p/12a13cab934c) |
 | Fri, 01 Aug 2025 07:24:14 GMT | RCE in Apache OFBiz: What Devs Should Know About CVE-2023–49070 | AerieWhole123 | [Read More](https://medium.com/p/ddcf2b3bcee1) |
 | Fri, 01 Aug 2025 07:22:11 GMT | How 3 Free Recon Tools found 40 Bugs — Helped To Score $1200 in Bug Bounties | Rashadul Islam | [Read More](https://medium.com/p/55c215b372a3) |
+| Fri, 01 Aug 2025 07:18:24 GMT | How to Watch Anything, Anywhere (Legally-ish) | Cloudbric VPN | [Read More](https://medium.com/p/1c0f4ff0bae2) |
 | Fri, 01 Aug 2025 07:18:22 GMT | Fixing the BloodHound Startup Error on Kali Linux | Prath | [Read More](https://medium.com/p/3f2872289899) |
 | Fri, 01 Aug 2025 07:15:42 GMT | ChatGPT use | Meschain shelly | [Read More](https://medium.com/p/d14f174d5772) |
+| Fri, 01 Aug 2025 07:15:33 GMT | Best Linux Training Programs in India — 2025 Edition | cyber security Updates | [Read More](https://medium.com/p/b4fa6b22f74e) |
 | Fri, 01 Aug 2025 07:11:24 GMT | Hacked the AI, Got the Bounty: Obfuscation & Prompt Injection Techniques for Red Teamers | CyberTechAjju | [Read More](https://medium.com/p/9715be4f23e4) |
 | Fri, 01 Aug 2025 07:07:29 GMT | Microsoft SharePoint Under Attack: A Wake-Up Call for Legacy System Defenders | Rohit.nex | [Read More](https://medium.com/p/fc4218801c12) |
 | Fri, 01 Aug 2025 07:06:42 GMT | Data Center Perimeter Security in KSA: Protecting Critical Infrastructure. | expbhavya | [Read More](https://medium.com/p/6bead9de70b1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 00:54:25 GMT | IOC vs IOA: Why Most Detection Strategies Are Doomed From the Start | Manish Rawat | [Read More](https://medium.com/p/2ca7c9db5f79) |
 | Fri, 01 Aug 2025 00:53:15 GMT | Pop-Ups, Passwords, and Panic? You’re Not Alone | Liz Ndungu | [Read More](https://medium.com/p/a86589a20bb3) |
 | Fri, 01 Aug 2025 00:47:03 GMT | Why Addictive Relationships Aren’t Based on Genuine Love: Understanding Emotional Manipulation | Lucas Brown | [Read More](https://medium.com/p/009ed716ee4f) |
-| Fri, 01 Aug 2025 00:43:33 GMT | Paradox CTF Write-Up | ABHISHEK M D | [Read More](https://medium.com/p/79b381c740e9) |
-| Fri, 01 Aug 2025 00:40:40 GMT | Indian Army Internship 2025 — Mini CTF | ABHISHEK M D | [Read More](https://medium.com/p/83dd47b78340) |
-| Fri, 01 Aug 2025 00:18:06 GMT | ISMAP Management Standards Chapter 4: Planning and Operating Information Security “Management” | nolly | [Read More](https://medium.com/p/681514fe658a) |
-| Fri, 01 Aug 2025 00:07:43 GMT | Blue - THM | Isiah | [Read More](https://medium.com/p/f1569161b7da) |
-| Fri, 01 Aug 2025 00:02:45 GMT | Software and Data Integrity Failures (OWASP A08): Para Hacking, Bug Bounty y Desarrollo We | JPablo13 | [Read More](https://medium.com/p/e39cc7bda5d4) |
-| Thu, 31 Jul 2025 23:51:56 GMT | DEXX’s $21M Key Leak, MoonHacker’s Contract Hijack, and Clipper’s Liquidity Fragility | Olympix | [Read More](https://medium.com/p/0bdb79d83b93) |
-| Thu, 31 Jul 2025 23:49:26 GMT | Local Area Networks | Allen Ace | [Read More](https://medium.com/p/3c68f1231d51) |
-| Thu, 31 Jul 2025 23:42:04 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 2 Walkthrough | Mabdullahbinkhalid | [Read More](https://medium.com/p/b5bbb8c72dd0) |
-| Thu, 31 Jul 2025 23:39:50 GMT | The Solidity Compiler has Developed Schizophrenia | Babs | [Read More](https://medium.com/p/4c7d1a593e1f) |
-| Thu, 31 Jul 2025 23:30:35 GMT | Notes of an Old Guru: The DNS Temporary Attack | 0trust0day | [Read More](https://medium.com/p/952eba82db14) |
