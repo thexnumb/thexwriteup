@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 10:46:46 GMT | ChatGPT Leaks? | Pascal Asch | [Read More](https://medium.com/p/0d5f8ab93873) |
+| Fri, 01 Aug 2025 10:43:38 GMT | DREAD Risk Assessment Model | Cyber Security Details | [Read More](https://medium.com/p/77f23e7d2aa9) |
+| Fri, 01 Aug 2025 10:41:49 GMT | STRIDE Threat Modeling Methodology | Cyber Security Details | [Read More](https://medium.com/p/995a37c7067b) |
+| Fri, 01 Aug 2025 10:40:31 GMT | Threat Modeling for Developers | Cyber Security Details | [Read More](https://medium.com/p/c0a03de88e9a) |
+| Fri, 01 Aug 2025 10:39:16 GMT | Sandboxing: A Safe Space for Dangerous Code | Cyber Security Details | [Read More](https://medium.com/p/d283e3e0830d) |
+| Fri, 01 Aug 2025 10:38:04 GMT | Reverse Engineering for Malware Analysis | Cyber Security Details | [Read More](https://medium.com/p/3a1b532abc72) |
+| Fri, 01 Aug 2025 10:31:48 GMT | Why a Cybersecurity Compliance Audit Is Essential for Every Organization in China in 2025 | Alex Graham | [Read More](https://medium.com/p/29aeb9c7b07f) |
+| Fri, 01 Aug 2025 10:26:55 GMT | Dork for AI LLM Chatbot | rr-1k | [Read More](https://medium.com/p/fd02c2109b1d) |
+| Fri, 01 Aug 2025 10:21:11 GMT | Top Security Services in India: Safeguarding Lives, Businesses & Assets | Ciss India | [Read More](https://medium.com/p/22ca09bb1fd6) |
 | Fri, 01 Aug 2025 10:18:35 GMT | How Thermal Scopes Are Revolutionizing Hunting and Tactical Applications | Night Vision 4 Less | [Read More](https://medium.com/p/033f9e1b93ad) |
 | Fri, 01 Aug 2025 10:11:47 GMT | How Misconfigured Computer Accounts Lead to Hidden Privilege Escalation in Active Directory | Sebastian Kandler | [Read More](https://medium.com/p/4a4ccea7896d) |
 | Fri, 01 Aug 2025 10:10:54 GMT | Trusted Security Services in Hobart: Protect What Matters Most | Stateguard Protective Services | [Read More](https://medium.com/p/95e4773386a6) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 06:44:28 GMT | Day 68: Tea App Security Breaches | Nile Okomo | [Read More](https://medium.com/p/cae04afd8947) |
 | Fri, 01 Aug 2025 06:31:59 GMT | The Epic Tale of a JWT Key Left on a Confluence Wiki Page — Totally Secure, Right? | Devansh Patel | [Read More](https://medium.com/p/141189f1d9c3) |
 | Fri, 01 Aug 2025 06:30:10 GMT | Python Sandbox Evasion | Francesco Pastore | [Read More](https://medium.com/p/4ce790e55666) |
-| Fri, 01 Aug 2025 06:21:10 GMT | Top 10 Features Of a Central Monitoring System | Jane Tang | [Read More](https://medium.com/p/39e47ebc3f7c) |
-| Fri, 01 Aug 2025 06:17:06 GMT | 15,000 Critical Systems Are Exposed — Thanks to This Outdated Protocol | Azim Uddin | [Read More](https://medium.com/p/6f6f71d40edc) |
-| Fri, 01 Aug 2025 06:16:40 GMT | The Corix Partners Friday Reading List — August 1, 2025 | JC Gaillard | [Read More](https://medium.com/p/f318a9873674) |
-| Fri, 01 Aug 2025 06:13:37 GMT | Infrastructure as Code (IaC) Security: 10 Best Practices | Spacelift | [Read More](https://medium.com/p/70811d0064e5) |
-| Fri, 01 Aug 2025 06:09:08 GMT | Cyber Risk Management Framework: Best Practices for Continuous Monitoring and Incident Response | Chatsm | [Read More](https://medium.com/p/4967c35cd2b3) |
-| Fri, 01 Aug 2025 06:02:35 GMT | Today’s Top Cyber Intelligence Highlights — Aug 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/2f7e143eadf7) |
-| Fri, 01 Aug 2025 05:55:19 GMT | Ajath Infotech Pvt. Ltd.: Transforming Businesses Through Smart App & Web Development | Ajath Infotech | [Read More](https://medium.com/p/f37279175dd3) |
-| Fri, 01 Aug 2025 05:54:19 GMT | Start Earning with Cybersecurity — Even Before You Graduate | Core Academy | [Read More](https://medium.com/p/8ec54543d2a4) |
-| Fri, 01 Aug 2025 05:42:54 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/f15557863798) |
