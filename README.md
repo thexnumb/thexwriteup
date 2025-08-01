@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 09:17:59 GMT | Top MDM Software to Manage Devices Easily | Vantage MDM | [Read More](https://medium.com/p/ade56c9be927) |
+| Fri, 01 Aug 2025 09:15:58 GMT | Building the Secure Pass Generator: Part 2 of the Journey | Pattela Yuva Akhil | [Read More](https://medium.com/p/8de2f2271912) |
+| Fri, 01 Aug 2025 09:15:36 GMT | Quantum Leap of Faith: Is Your Password Ready for 2049? | CtrlC3 | [Read More](https://medium.com/p/6c153fd4d43a) |
+| Fri, 01 Aug 2025 09:14:16 GMT | “Is It Inadvisable?” When Your Password Strategy Gets *Too* Clever | Authlyn | [Read More](https://medium.com/p/44b0a78b78f1) |
+| Fri, 01 Aug 2025 09:12:32 GMT | Small Business, Big Security: Fort Knox on a Shoestring Budget | Truspex | [Read More](https://medium.com/p/10654dff9cbd) |
+| Fri, 01 Aug 2025 09:10:20 GMT | The Surge in Global Cybersecurity Spending: Where Investment is Going in 2025 and What It Means for… | Tarush Sharma | [Read More](https://medium.com/p/5ca4c9c31bba) |
+| Fri, 01 Aug 2025 09:10:06 GMT | Top AI Privacy Concerns: Challenges and Solutions | inVerita | [Read More](https://medium.com/p/5b842d5cd2cf) |
+| Fri, 01 Aug 2025 09:08:41 GMT | Why Data Protection Should Be Your First Business Upgrade | DL Info Shield | [Read More](https://medium.com/p/561b62ebdbb8) |
+| Fri, 01 Aug 2025 09:06:27 GMT | DLL Injection: It’s Not as Scary as It Sounds | SilentInject | [Read More](https://medium.com/p/a4bc14b0a488) |
+| Fri, 01 Aug 2025 09:05:28 GMT | Attacking Windows Credential Manager — HTB Module Walkthrough | Redsnorlax | [Read More](https://medium.com/p/5f7ad3f8e80e) |
+| Fri, 01 Aug 2025 09:02:44 GMT | “Burp + Extensions = JS Recon on Steroids: From Endpoints to Exploits” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4c5946997201) |
+| Fri, 01 Aug 2025 09:01:45 GMT | The Shodan & FOFA Hack No One Wants You to Know About | KonaN | [Read More](https://medium.com/p/5eb9be3688de) |
+| Fri, 01 Aug 2025 09:01:32 GMT | How Onsite IT Support Drives Business Efficiency, Security, and Growth? | Managed IT Services | [Read More](https://medium.com/p/f8f6a3a06e01) |
+| Fri, 01 Aug 2025 08:56:58 GMT | It is a blessing (Confidential data) in disguise (Part 2) | wh0arey0u | [Read More](https://medium.com/p/5a85b6d8cfa5) |
+| Fri, 01 Aug 2025 08:51:55 GMT | Tracing Crypto: A Forensic Investigator’s Guide | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/89cf5d718360) |
+| Fri, 01 Aug 2025 08:47:59 GMT | What is Google Dorking? (Google Dorking කියන්නේ මොකද්ද?) | Ruwan Sanjeewa | [Read More](https://medium.com/p/94ee2ea14178) |
+| Fri, 01 Aug 2025 08:45:46 GMT | I Almost Got Robbed Because of This One Dumb Habit — Here’s What I Changed | Souhail Amrani | [Read More](https://medium.com/p/2df804636c67) |
+| Fri, 01 Aug 2025 08:33:46 GMT | Symbiotic — The Modular Restaking Layer Powering the Next Era of Web3 Security | brice1337 | [Read More](https://medium.com/p/574afdb3d798) |
 | Fri, 01 Aug 2025 08:28:46 GMT | NCSC CTF 2025 Forensics writeup | Mustafaalzaareer | [Read More](https://medium.com/p/dd060ace1990) |
 | Fri, 01 Aug 2025 08:26:04 GMT | The Future of AI Startups: 5 Trends TechMindz.ai is Betting On | Tech mindz AI | [Read More](https://medium.com/p/3b98c0aa9661) |
 | Fri, 01 Aug 2025 08:19:38 GMT | My First 7 Days on TryHackMe | Pawan natekar | [Read More](https://medium.com/p/35d1e23bc5f7) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 04:07:26 GMT | Linktree Username Validation Bypass: A Hidden Threat with a Leading Space | Yeswehack | [Read More](https://medium.com/p/52537955f79e) |
 | Fri, 01 Aug 2025 04:07:13 GMT | How a Small Open Redirect Flaw Became a $1000 rXSS Payday | Ibtissam hammadi | [Read More](https://medium.com/p/6960e4610f8f) |
 | Fri, 01 Aug 2025 04:01:45 GMT | CAASM for Technology Leaders | Arup Nanda | [Read More](https://medium.com/p/695020751d9f) |
-| Fri, 01 Aug 2025 04:01:42 GMT | Border Security Market is expected to develop at a compound annual growth rate (CAGR) of 9.1% | Vinita kumari | [Read More](https://medium.com/p/992f4875fd4e) |
-| Fri, 01 Aug 2025 04:00:50 GMT | Secrets in GitHub Repos: How Hackers Find API Keys & Config Files | Vipul Sonule | [Read More](https://medium.com/p/859fec498fdf) |
-| Fri, 01 Aug 2025 03:50:18 GMT | The Hottest WAF of 2025 | Maverick Steel | [Read More](https://medium.com/p/d461eb128e22) |
-| Fri, 01 Aug 2025 03:48:32 GMT | Why Security Should Be Part of Your CI/CD Pipeline | Mohammad Muhiuddin | [Read More](https://medium.com/p/f9482f2b1452) |
-| Fri, 01 Aug 2025 03:46:36 GMT | Permission Power: Smart Permission Management in Android | Divya Dharshini | [Read More](https://medium.com/p/7aa7aff7d58c) |
-| Fri, 01 Aug 2025 03:41:53 GMT | DAILY BUGLE-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/16ffc406780e) |
-| Fri, 01 Aug 2025 03:39:20 GMT | Escalating the Risk of Open Redirects | Akbar Kustirama | [Read More](https://medium.com/p/322e21927377) |
-| Fri, 01 Aug 2025 03:37:49 GMT | SafeLine vs Wallarm: Which WAF Delivers Smarter, Simpler Protection? | AerieWhole123 | [Read More](https://medium.com/p/9a629363fe86) |
-| Fri, 01 Aug 2025 03:34:31 GMT | Why Stored XSS Is Still So Dangerous: A Real Example and How to Defend | ven coding | [Read More](https://medium.com/p/c6774b5de579) |
-| Fri, 01 Aug 2025 03:31:39 GMT | Cybersecurity Betrayal: When the Protector Becomes the Threat | Deven Chhajed | [Read More](https://medium.com/p/02dddb88352c) |
-| Fri, 01 Aug 2025 03:31:38 GMT | Recon in Minutes: Automating Subdomain Discovery for Penetration Tests | mattyerz | [Read More](https://medium.com/p/65fe2b095667) |
-| Fri, 01 Aug 2025 03:31:38 GMT | 5 Tips for Managing Environment Variables Across Environments | Arunangshu Das | [Read More](https://medium.com/p/8a8216176baf) |
-| Fri, 01 Aug 2025 03:30:37 GMT | Revenant: A Modern, Full-Stack Reverse Shell C2 Framework — From Payload Generation to Victim… | Hack-Bat | [Read More](https://medium.com/p/c73167670619) |
-| Fri, 01 Aug 2025 03:28:41 GMT | MatchTheRegex — PicoCTF WriteUp | Musthofa Kamaluddin | [Read More](https://medium.com/p/18b8f4631e2e) |
-| Fri, 01 Aug 2025 03:26:22 GMT | mirror, mirror on the wall — do you like what you see? | Grace D | [Read More](https://medium.com/p/78b3bc419ad2) |
-| Fri, 01 Aug 2025 03:21:06 GMT | Install MISP on Docker on Debian Linux | Advaniar | [Read More](https://medium.com/p/68ace62c2629) |
-| Fri, 01 Aug 2025 03:15:44 GMT | QR Codes: The New Frontier for Phishing Attacks | Shubhangi Singh | [Read More](https://medium.com/p/6868c494ab78) |
-| Fri, 01 Aug 2025 03:14:24 GMT | Absolutely! | Musthofa Kamaluddin | [Read More](https://medium.com/p/21f39ef4d536) |
