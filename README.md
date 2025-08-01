@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 Aug 2025 23:09:32 GMT | Smart Phishing Scams Are Now Changing Tactics in Real Time. Can Your Defenses Keep Up? | Akshay Chauhan | [Read More](https://medium.com/p/90324173f81f) |
+| Fri, 01 Aug 2025 23:03:48 GMT | Fileless Malware: A Growing Threat | Cyber Security Details | [Read More](https://medium.com/p/25bcfac2897a) |
+| Fri, 01 Aug 2025 23:02:57 GMT | Zero-Day Vulnerability Management | Cyber Security Details | [Read More](https://medium.com/p/3542090b35c8) |
+| Fri, 01 Aug 2025 22:56:20 GMT | My Vows to You | Lisa and Kyle | [Read More](https://medium.com/p/42a3ca716783) |
+| Fri, 01 Aug 2025 22:55:14 GMT | AI with Cyber security | Jayasri Vijayakumar | [Read More](https://medium.com/p/aaa256d434f2) |
+| Fri, 01 Aug 2025 22:52:39 GMT | From Vulnerability to Visibility: Managing Server Security with SecuMS and OmniGuard | Ramadhana Khalaf Sandhyakala | [Read More](https://medium.com/p/484ada85a712) |
+| Fri, 01 Aug 2025 22:51:16 GMT | Don’t Browse Unprotected: Why a VPN is an Essential Tool for Your Digital Life | Szabolcs Záhorszki | [Read More](https://medium.com/p/7127c878f2e3) |
 | Fri, 01 Aug 2025 22:45:49 GMT | McDonald’s AI Chatbot Data Leak: A No-Code Developer’s Wake-Up Call | Sobemekun Oluwadamilare Matthew | [Read More](https://medium.com/p/bc54fbc85d88) |
 | Fri, 01 Aug 2025 22:29:43 GMT | Data Security in the AI Era: Why Protecting Data Is About Access, Not Isolation | Juan Pablo Castro | [Read More](https://medium.com/p/0f83a8109c22) |
 | Fri, 01 Aug 2025 22:27:54 GMT | An Introduction to Bug Bounty Hunting | Cyber Security Details | [Read More](https://medium.com/p/5329ddaf2dc0) |
@@ -106,10 +113,3 @@ Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/
 | Fri, 01 Aug 2025 16:36:55 GMT | Don’t Become the Next Target for Scammers! Read How to Avoid Online scams | Kazeem Olawale | [Read More](https://medium.com/p/07daab0f8b7a) |
 | Fri, 01 Aug 2025 16:25:24 GMT | ChatGPT States It Cannot Handle Security | API Expert | [Read More](https://medium.com/p/088133d00d1d) |
 | Fri, 01 Aug 2025 16:16:16 GMT | Wazuh, Ubuntu, Kali, Caldera — a super quick way of building a disposable cyber lab | Phil Legg | [Read More](https://medium.com/p/1ad693665fa5) |
-| Fri, 01 Aug 2025 16:16:05 GMT | The CoinDCX $44 Million Theft Case: A Deep Dive into the Rahul Agarwal Cybercrime Arrest | Vijay Kumar Gupta | [Read More](https://medium.com/p/f0c029b2bac1) |
-| Fri, 01 Aug 2025 16:05:55 GMT | Local File Inclusion — Double encoding [Root-Me] Writeup | Adhamkhairy | [Read More](https://medium.com/p/68ea03d8c39a) |
-| Fri, 01 Aug 2025 16:02:55 GMT | How to Install Parrot OS on VMware Workstation 17 (Fix Boot Errors) | Shawn | [Read More](https://medium.com/p/9537d63c4e8f) |
-| Fri, 01 Aug 2025 16:00:39 GMT | Biometric Replay Attacks: How Hackers Clone Your Fingerprint and Voiceprint | Akshay Chauhan | [Read More](https://medium.com/p/a69af517bbea) |
-| Fri, 01 Aug 2025 15:51:28 GMT | Understanding IBM Master Data Management (MDM): A Deep Dive with Real-World Examples | Rahul Agarwal | [Read More](https://medium.com/p/1111e0e03ce3) |
-| Fri, 01 Aug 2025 15:45:02 GMT | A Growing Threat to Manufacturing | OEE IntelliSuite | [Read More](https://medium.com/p/fbdc9f6ff31d) |
-| Fri, 01 Aug 2025 15:43:28 GMT | The New Digital Reality: How AI, Cybersecurity, and Machine Learning are Building Our Future | CapitalCoin | [Read More](https://medium.com/p/8f787fa08df0) |
