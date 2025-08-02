@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 16:14:11 GMT | HackTheBox — Planning (Writeup) | ruruuu | [Read More](https://medium.com/p/3a1d6d597cca) |
+| Sat, 02 Aug 2025 16:13:38 GMT | Broken Access Control-Part 2 | t0x1k | [Read More](https://medium.com/p/7651d13c5c13) |
+| Sat, 02 Aug 2025 16:10:15 GMT | Insecure Refresh Token Usage Leads to Account Takeover (IDOR) | Mahmoud Gamal | [Read More](https://medium.com/p/14c4a9ec504b) |
+| Sat, 02 Aug 2025 16:07:33 GMT | AI-GENERATED  MUSIC: SOUL OR SIMULATION ? | Knowledge Upswing | [Read More](https://medium.com/p/731d703e7ce7) |
+| Sat, 02 Aug 2025 16:06:55 GMT | ️ Into the Shadows: Navigating the Dark Web — Myths, Markets & Cyber Threats | Asma Yasmeen | [Read More](https://medium.com/p/03a24d457416) |
+| Sat, 02 Aug 2025 16:05:30 GMT | Soupedecode 01 - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/2ca90ac439ba) |
+| Sat, 02 Aug 2025 16:03:49 GMT | BLUEMOO WALKTHROUG | akpsecurity | [Read More](https://medium.com/p/b86daf57a5ce) |
+| Sat, 02 Aug 2025 16:02:15 GMT | CSRF where token is duplicated in cookie — PortSwigger Walkthrough | Amr Elharery | [Read More](https://medium.com/p/99850cf273e2) |
+| Sat, 02 Aug 2025 16:01:56 GMT | Deepfakes Are the Next Cyber Weapon! | Your's Nightmare | [Read More](https://medium.com/p/78253c82478e) |
+| Sat, 02 Aug 2025 15:54:39 GMT | Symphonus 3 — Web Challenge Report (Medium) | DataDefender | [Read More](https://medium.com/p/d160392cb8ba) |
+| Sat, 02 Aug 2025 15:52:11 GMT | صیغه آوج صیغه آبیک صیغه البرز صیغه بوئین زهرا صیغه تاکستان صیغه بیدستان صیغه قروه صیغه خرمدشت | wosado7802@zelknow.com | [Read More](https://medium.com/p/4c6a27ba20f9) |
+| Sat, 02 Aug 2025 15:51:49 GMT | صیغه آمل صیغه بابل صیغه بابلسر صیغه بهشهر شما صیغه تنکابن صیغه جویبار صیغه چالوس صیغه رامسر | wosado7802@zelknow.com | [Read More](https://medium.com/p/46c7125c02ef) |
+| Sat, 02 Aug 2025 15:51:22 GMT | صیغه طالقان صیغه کرج صیغه نظرآباد صیغه فردیس صیغه آسارا صیغه کوهسار صیغه گرمدره صیغه ماهدشت | wosado7802@zelknow.com | [Read More](https://medium.com/p/f70a729a7906) |
+| Sat, 02 Aug 2025 15:50:49 GMT | Building an Incident Response Plan: Templates Included | Aj | [Read More](https://medium.com/p/7fa798f87d00) |
+| Sat, 02 Aug 2025 15:50:12 GMT | Stack Overflow Protection and Bypass Techniques — ROP, ASLR, Canaries, and More | Gleb Wam | [Read More](https://medium.com/p/f5d992c3ab79) |
+| Sat, 02 Aug 2025 15:48:59 GMT | What You Should Know About AI, Security, and Privacy in 2025 | Bambino Guapo | [Read More](https://medium.com/p/0a6cfb09bb26) |
+| Sat, 02 Aug 2025 15:46:37 GMT | Active Directory Basics You Might Know!! | Mainekdeveloper | [Read More](https://medium.com/p/c039b2b57a10) |
+| Sat, 02 Aug 2025 15:43:05 GMT | CyberSecurity ඉන්ජිනේරුවෙක් විදිහට Training වෙන්න ආරම්භක පියවර— Day 1 - Senuk Dias | Senuk Dias | [Read More](https://medium.com/p/bcfa3e08ccd3) |
+| Sat, 02 Aug 2025 15:42:50 GMT | Python for Pentesters: TryHackMe | RHR | [Read More](https://medium.com/p/55ee5245fd69) |
+| Sat, 02 Aug 2025 15:41:33 GMT | Next.js Middleware Authorization Bypass (CVE-2025–29927) | Akbogaismaill | [Read More](https://medium.com/p/bb49dde824c1) |
 | Sat, 02 Aug 2025 15:36:55 GMT | DockerLabs Writeup — AguaDeMayo (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/71776c70cd87) |
 | Sat, 02 Aug 2025 15:21:40 GMT | ✉️SMTP Enumeration: The Ethical Hacker’s Guide to Uncovering Email Vulnerabilities | Rajkumar Kumawat | [Read More](https://medium.com/p/efc85ae0a563) |
 | Sat, 02 Aug 2025 15:20:37 GMT | It Took Me 10 Minutes to Find an BAC Vulnerability $$$ That Exposed Every Users Profiles . | Mufij Topinkatti | [Read More](https://medium.com/p/8fcaa192fd20) |
@@ -92,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 11:35:25 GMT | Securing MCP Tools with CEL and AgentGateway | Rajat Nigam | [Read More](https://medium.com/p/82fb9935330a) |
 | Sat, 02 Aug 2025 11:32:37 GMT | Secure Coding Challenges Build Bulletproof Applications | AppSecMaster LLC | [Read More](https://medium.com/p/01c250faf3b0) |
 | Sat, 02 Aug 2025 11:32:07 GMT | How to Enumerate SSH with Kali Linux — A Deep Dive & How SSH Works | MR Gh0st [ 0xff ] | [Read More](https://medium.com/p/8583f654ca75) |
-| Sat, 02 Aug 2025 11:31:07 GMT | “10 Proven Productivity Hacks to Get More Done in Less Time” | Laxmi Suthar | [Read More](https://medium.com/p/3337a268a255) |
-| Sat, 02 Aug 2025 11:29:19 GMT | Hands‑On Ethical Hacking Course in Calicut | bilalinternship | [Read More](https://medium.com/p/51aafd491fd6) |
-| Sat, 02 Aug 2025 11:24:26 GMT | Is Vibe Coding Safe for Startups? 
-A Technical Risk Audit Based on Real-World Use Cases | Tech Nest | [Read More](https://medium.com/p/c121f82b385b) |
-| Sat, 02 Aug 2025 11:23:41 GMT | How to Enumerate Web Applications Like a Pro | SVR Articles | [Read More](https://medium.com/p/dea02b5c56b9) |
-| Sat, 02 Aug 2025 11:23:24 GMT | Reflected XSS in HTML Context with All Standard Tags Blocked Except Custom Ones | Bash Overflow | [Read More](https://medium.com/p/72e2f0b34131) |
-| Sat, 02 Aug 2025 11:09:59 GMT | Microsoft Intune — Modern Endpoint Management in the Cloud | Janith Sandamal | [Read More](https://medium.com/p/bd72172c717e) |
-| Sat, 02 Aug 2025 11:08:14 GMT | (Access Control) Lab: Unprotected Admin Functionality - 2025 | Ananda | [Read More](https://medium.com/p/baf7cce78b05) |
-| Sat, 02 Aug 2025 11:06:19 GMT | Critical SUSE Manager Vulnerability Lets Attackers Execute Arbitrary Commands as Root | Whitehatians | [Read More](https://medium.com/p/84334c553e76) |
-| Sat, 02 Aug 2025 11:02:41 GMT | Get Ready for Ech Browser: Your Journey to a Safer Internet Starts Here! | Psylinks Announce | [Read More](https://medium.com/p/0117ac8509f7) |
-| Sat, 02 Aug 2025 11:01:02 GMT | Exploiting URL-Based Price Manipulation on a Third-Party E-Commerce Cart | Mrflash | [Read More](https://medium.com/p/19f7357b8410) |
-| Sat, 02 Aug 2025 11:00:21 GMT | 12 Kubernetes Security Anti‑Patterns You Ship Every Week (and the One‑Line Fix for Each) | DevOpsDynamo | [Read More](https://medium.com/p/a5e3456ec605) |
-| Sat, 02 Aug 2025 10:58:27 GMT | Search Engine for Hackers(Shodan) | Sanehairfan | [Read More](https://medium.com/p/fab0ea95660d) |
-| Sat, 02 Aug 2025 10:51:37 GMT | From Prototype Pollution to DOM-based XSS: A Real-World Exploit Walkthrough | Yashwanthstefen | [Read More](https://medium.com/p/d586ba8e0fad) |
-| Sat, 02 Aug 2025 10:48:02 GMT | Brr v1 Writeup — THM Industrial Intrusion CTF (Task 10) | Avyukt Security | [Read More](https://medium.com/p/5efb542ecfae) |
-| Sat, 02 Aug 2025 10:40:00 GMT | Damn Vulnerable Web Application (DVWA) | Vicent Kyungai | [Read More](https://medium.com/p/dd2d8ee97d8f) |
-| Sat, 02 Aug 2025 10:39:03 GMT | Raffael Putra Hermawan | PRIVACY ! | [Read More](https://medium.com/p/f4989a5c0df2) |
-| Sat, 02 Aug 2025 10:38:10 GMT | Struggling with the concept of rows & columns? Yeah, me too! | AMINAT OLAIDE | [Read More](https://medium.com/p/693fc42b7c9a) |
-| Sat, 02 Aug 2025 10:33:55 GMT | Discovery of Blind SQL Injection and OS Command Injection Vulnerabilities in a University Portal | Avyukt Security | [Read More](https://medium.com/p/064929692019) |
-| Sat, 02 Aug 2025 10:31:44 GMT | CYBERSECURITY
-IN DIGITAL EVANGELISM:
-SAFEGUARDING THE GOSPEL IN THE DIGITAL AGE | Mcloxyventures | [Read More](https://medium.com/p/477ab94d0da0) |
-| Sat, 02 Aug 2025 10:25:03 GMT | Scalability by Design: How to Build Apps That Grow and Handle Millions | Natarajan C K | [Read More](https://medium.com/p/8f5303443bc1) |
