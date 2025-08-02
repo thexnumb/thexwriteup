@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 21:03:14 GMT | I Wrote a Eulogy for Manual Recon | Ibtissam hammadi | [Read More](https://medium.com/p/73c2bfa992ae) |
+| Sat, 02 Aug 2025 21:02:21 GMT | ASCWG CTF Qualification 2025 — Operation Spare Clue Challenge | Ahmed Mohammed | [Read More](https://medium.com/p/f82a18ccf55c) |
+| Sat, 02 Aug 2025 21:01:55 GMT | K8s: Deploying a Monitoring Agent with a Baseline Pod Security Standard | W. Jenks Gibbons | [Read More](https://medium.com/p/ee1aacb04023) |
+| Sat, 02 Aug 2025 20:57:58 GMT | Device Security is Not Working | Keir Finlow-Bates | [Read More](https://medium.com/p/2ec00a5b52d0) |
+| Sat, 02 Aug 2025 20:57:02 GMT | The AI Gold Rush: Are We Headed for a Reality Check? | Linda mhlangu | [Read More](https://medium.com/p/091c7cf14947) |
+| Sat, 02 Aug 2025 20:55:01 GMT | The Future Is Here | Jahan Zaib | [Read More](https://medium.com/p/e4d29bb50fdb) |
+| Sat, 02 Aug 2025 20:44:49 GMT | ️ I Audit People’s Digital Setups for Privacy — Here’s Why You Might Need One | BiyteLüm | [Read More](https://medium.com/p/47853377c47d) |
+| Sat, 02 Aug 2025 20:41:04 GMT | Systems Engineering in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/1c39f62834ad) |
 | Sat, 02 Aug 2025 20:37:34 GMT | Home Lab: Building out Active Directory | Caleb Allison | [Read More](https://medium.com/p/8e2aaaf181ca) |
 | Sat, 02 Aug 2025 20:36:05 GMT | A Low-Cost, High-Impact Justice Reform Model for Turkey
 This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](https://medium.com/p/b2000cc43599) |
@@ -105,11 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 15:03:37 GMT | Be Patient and Keep it Simple, The Bug is There | Anas H Hmaidy | [Read More](https://medium.com/p/bdc93cfe50c6) |
 | Sat, 02 Aug 2025 15:00:42 GMT | Cybersecurity Details: Security Audits: Compliance & Best Practices | Cyber Security Details | [Read More](https://medium.com/p/7d33a1a20e7b) |
 | Sat, 02 Aug 2025 14:53:56 GMT | Siber Güvenlik Kullanışlı Araçlar | Mustafa Gunay | [Read More](https://medium.com/p/ce285c486521) |
-| Sat, 02 Aug 2025 14:53:36 GMT | ISMAP Management Standards Chapter 5: The Full Scope of Specific Security Measures, “Control… | nolly | [Read More](https://medium.com/p/85b9f8e4299e) |
-| Sat, 02 Aug 2025 14:48:04 GMT | New Plague Malware Targets Linux Servers to Gain Stealthy SSH Access | Chetan Seripally | [Read More](https://medium.com/p/329cc5cfeed5) |
-| Sat, 02 Aug 2025 14:46:36 GMT | Data Flow and Synchronization Between SIEM and SOAR Tools in SOC | Esra Kayhan | [Read More](https://medium.com/p/930b6e4974b8) |
-| Sat, 02 Aug 2025 14:43:34 GMT | INFIDELITY CONCERNS. HOW I KNEW I WAS WITH A CHEATING PARTNER | Poz Cajorla | [Read More](https://medium.com/p/9b401c73b0bd) |
-| Sat, 02 Aug 2025 14:38:18 GMT | No Power, No Problem: How I Secured My Home with the Anti-Looter Kit in 48 Hours | Survival Gear | [Read More](https://medium.com/p/e444bbd3ad3b) |
-| Sat, 02 Aug 2025 14:36:43 GMT | Own a Domain? Then You Should Have a security.txt (RFC 9116) | Mauro Stepanoski | [Read More](https://medium.com/p/67648146331a) |
-| Sat, 02 Aug 2025 14:33:17 GMT | The best five ai tools make sure you don’t miss it . | Ashish Samudrala | [Read More](https://medium.com/p/73ba8438735c) |
-| Sat, 02 Aug 2025 14:31:50 GMT | You know that feeling when you’re debugging production at 2 AM and suddenly wonder, “Wait, when did… | Solo Recon | [Read More](https://medium.com/p/20bd86b5093a) |
