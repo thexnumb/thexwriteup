@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 11:09:59 GMT | Microsoft Intune — Modern Endpoint Management in the Cloud | Janith Sandamal | [Read More](https://medium.com/p/bd72172c717e) |
+| Sat, 02 Aug 2025 11:08:14 GMT | (Access Control) Lab: Unprotected Admin Functionality - 2025 | Ananda | [Read More](https://medium.com/p/baf7cce78b05) |
+| Sat, 02 Aug 2025 11:06:19 GMT | Critical SUSE Manager Vulnerability Lets Attackers Execute Arbitrary Commands as Root | Whitehatians | [Read More](https://medium.com/p/84334c553e76) |
+| Sat, 02 Aug 2025 11:02:41 GMT | Get Ready for Ech Browser: Your Journey to a Safer Internet Starts Here! | Psylinks Announce | [Read More](https://medium.com/p/0117ac8509f7) |
+| Sat, 02 Aug 2025 11:01:02 GMT | Exploiting URL-Based Price Manipulation on a Third-Party E-Commerce Cart | Mrflash | [Read More](https://medium.com/p/19f7357b8410) |
+| Sat, 02 Aug 2025 11:00:21 GMT | 12 Kubernetes Security Anti‑Patterns You Ship Every Week (and the One‑Line Fix for Each) | DevOpsDynamo | [Read More](https://medium.com/p/a5e3456ec605) |
+| Sat, 02 Aug 2025 10:58:27 GMT | Search Engine for Hackers(Shodan) | Sanehairfan | [Read More](https://medium.com/p/fab0ea95660d) |
+| Sat, 02 Aug 2025 10:51:37 GMT | From Prototype Pollution to DOM-based XSS: A Real-World Exploit Walkthrough | Yashwanthstefen | [Read More](https://medium.com/p/d586ba8e0fad) |
+| Sat, 02 Aug 2025 10:48:02 GMT | Brr v1 Writeup — THM Industrial Intrusion CTF (Task 10) | Avyukt Security | [Read More](https://medium.com/p/5efb542ecfae) |
 | Sat, 02 Aug 2025 10:40:00 GMT | Damn Vulnerable Web Application (DVWA) | Vicent Kyungai | [Read More](https://medium.com/p/dd2d8ee97d8f) |
 | Sat, 02 Aug 2025 10:39:03 GMT | Raffael Putra Hermawan | PRIVACY ! | [Read More](https://medium.com/p/f4989a5c0df2) |
+| Sat, 02 Aug 2025 10:38:10 GMT | Struggling with the concept of rows & columns? Yeah, me too! | AMINAT OLAIDE | [Read More](https://medium.com/p/693fc42b7c9a) |
 | Sat, 02 Aug 2025 10:33:55 GMT | Discovery of Blind SQL Injection and OS Command Injection Vulnerabilities in a University Portal | Avyukt Security | [Read More](https://medium.com/p/064929692019) |
 | Sat, 02 Aug 2025 10:31:44 GMT | CYBERSECURITY
 IN DIGITAL EVANGELISM:
@@ -104,13 +114,3 @@ SAFEGUARDING THE GOSPEL IN THE DIGITAL AGE | Mcloxyventures | [Read More](https:
 | Sat, 02 Aug 2025 04:31:58 GMT | ChatGPT Privacy Leak 2025: Deep Dive, Real-World Impact, and Industry Lessons | Ismail Kovvuru | [Read More](https://medium.com/p/421f4ad450c0) |
 | Sat, 02 Aug 2025 04:24:18 GMT | Data Protection by NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/ab9e99cdbf75) |
 | Sat, 02 Aug 2025 04:20:31 GMT | New Vulnerabilities Caught My Eye This Week | Filipino CyberSec News | [Read More](https://medium.com/p/1543af673428) |
-| Sat, 02 Aug 2025 04:17:30 GMT | NullSec Philippines Hacked a Thai Government Subdomain | Filipino CyberSec News | [Read More](https://medium.com/p/b5a755320d6c) |
-| Sat, 02 Aug 2025 04:04:50 GMT | Men Talk About Loneliness — But Only in DMs, At 2AM | Dhruvdeep Singh | [Read More](https://medium.com/p/f6229c9437a0) |
-| Sat, 02 Aug 2025 03:44:03 GMT | The Cybersecurity Landscape in 2025 | Josaiah Dkhar | [Read More](https://medium.com/p/b44c08153720) |
-| Sat, 02 Aug 2025 03:42:02 GMT | 9 New macOS Productivity Apps I’m Obsessed With. | Nikhil Vemu | [Read More](https://medium.com/p/b396dcefd254) |
-| Sat, 02 Aug 2025 03:35:39 GMT | Securing Your Dynamics 365 Customizations with Checkmarx | Mustaque Ehiya | [Read More](https://medium.com/p/9553bd8a2252) |
-| Sat, 02 Aug 2025 03:31:43 GMT | 5 Essential Tips for Throttling APIs in Node.js | Arunangshu Das | [Read More](https://medium.com/p/3183c2105d78) |
-| Sat, 02 Aug 2025 03:31:40 GMT | Safe Connections: Networking Security for Android Apps | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/d2249085d98a) |
-| Sat, 02 Aug 2025 03:28:48 GMT | Fake Microsoft Apps Are Being Used to Steal Your Credentials — Even If You Don’t Click “Allow” | Dhruvdeep Singh | [Read More](https://medium.com/p/5eed921bdff9) |
-| Sat, 02 Aug 2025 03:27:30 GMT | Baseline vs Anomaly Detection: Understanding the Cybersecurity Mindset Shift | Manish Rawat | [Read More](https://medium.com/p/cb9257d7cb5d) |
-| Sat, 02 Aug 2025 03:17:57 GMT | How I Hacked Database using AI Powered Assistant | AbhirupKonwar | [Read More](https://medium.com/p/c2471217ff5b) |
