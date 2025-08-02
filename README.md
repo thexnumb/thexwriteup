@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 08:46:38 GMT | Kali Linux Practice Exam for Ethical Hackers — Your 2025 Guide to Pentesting Prep | Daywalkernyc | [Read More](https://medium.com/p/a56072322531) |
+| Sat, 02 Aug 2025 08:45:52 GMT | My First Medium Post | KCS | [Read More](https://medium.com/p/eba973d6e591) |
+| Sat, 02 Aug 2025 08:37:28 GMT | How to Stay Anonymous Online : Protect Your Online Identity in 2025 | Anirudh PV | [Read More](https://medium.com/p/18fdcd64b6cd) |
+| Sat, 02 Aug 2025 08:31:10 GMT | Top 5 Teen Chat Sites in 2025 (With Safety Ratings) | FreeTeenChat | [Read More](https://medium.com/p/7d49984fc5a0) |
 | Sat, 02 Aug 2025 08:23:25 GMT | The Hardest Battle Is Within | metafosita | [Read More](https://medium.com/p/8fe77f41d104) |
+| Sat, 02 Aug 2025 08:22:39 GMT | When the End Is Not the End | metafosita | [Read More](https://medium.com/p/b3b2200a0059) |
 | Sat, 02 Aug 2025 08:17:28 GMT | Networking Essentials - Try Hack Me - Complete Walkthrough - A Beginner’s Guide to Network… | Avrodip Joy | [Read More](https://medium.com/p/2ff61e1859ae) |
+| Sat, 02 Aug 2025 08:15:44 GMT | Kerajaan Mataram: Dari Kesaktian Hingga Kudeta Berdarah | KASKUSGAMING.INFO | [Read More](https://medium.com/p/90a66b102863) |
 | Sat, 02 Aug 2025 08:13:16 GMT | 5 Real-Life Cybersecurity Breaches Everyone Should Know About | Sandhiya | [Read More](https://medium.com/p/aca6d6eb2ac7) |
 | Sat, 02 Aug 2025 08:04:04 GMT | ️ I Spent 72 Hours on the Dark Web — Here’s What No One Tells You | adityaax | [Read More](https://medium.com/p/9aa5273bce78) |
 | Sat, 02 Aug 2025 08:03:35 GMT | The Silence Between Drake’s Lyrics — Part 2.5 | Real-Talk | [Read More](https://medium.com/p/e83b7def8248) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 00:34:29 GMT | Identity and Access Management: RBAC vs ABAC — Choosing the Right Authorisation Model | Samuel Odekunle | [Read More](https://medium.com/p/96bd01f6c07c) |
 | Sat, 02 Aug 2025 00:28:21 GMT | Bypass de WAF com Double Encoding: Uma Jornada através de SQL Injection | Jonathan M. | [Read More](https://medium.com/p/eaae211f1c54) |
 | Sat, 02 Aug 2025 00:11:04 GMT | Cloud Security in 2025: A Data Driven Call for Proactive Risk Management | Raviteja Mureboina | [Read More](https://medium.com/p/fb9205e9428d) |
-| Sat, 02 Aug 2025 00:05:17 GMT | PM in Progress: Reading the Tea Leaves of an App in Hot Water | Andrew Leng Ly | [Read More](https://medium.com/p/7a2c0daff29e) |
-| Sat, 02 Aug 2025 00:04:27 GMT | CTF SQHell- TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/861953b63f23) |
-| Sat, 02 Aug 2025 00:01:39 GMT | Software and Data Integrity Failures (OWASP A08): For Hacking, Bug Bounty, and Web Development | JPablo13 | [Read More](https://medium.com/p/54403ea14351) |
-| Fri, 01 Aug 2025 23:21:17 GMT | XXE Vulnerability: কী, কেন, এবং কিভাবে এটি অ্যাটাক হয়? | Ayshee | [Read More](https://medium.com/p/c0cf70c1741e) |
-| Fri, 01 Aug 2025 23:09:32 GMT | Smart Phishing Scams Are Now Changing Tactics in Real Time. Can Your Defenses Keep Up? | Akshay Chauhan | [Read More](https://medium.com/p/90324173f81f) |
-| Fri, 01 Aug 2025 23:03:48 GMT | Fileless Malware: A Growing Threat | Cyber Security Details | [Read More](https://medium.com/p/25bcfac2897a) |
