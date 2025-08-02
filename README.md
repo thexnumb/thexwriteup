@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 23:15:57 GMT | Truecaller Call Recording Discontinuation: iOS Platform Analysis | ObisDev | [Read More](https://medium.com/p/f3b4096ddab9) |
+| Sat, 02 Aug 2025 23:01:06 GMT | I Bought Tickets Online… And My Identity Was Stolen | Aj | [Read More](https://medium.com/p/72ef5553f3a8) |
+| Sat, 02 Aug 2025 23:00:15 GMT | The 5 Confessions I Heard Most When I Was a Pastor | Dan Foster | [Read More](https://medium.com/p/897ca2e8d583) |
 | Sat, 02 Aug 2025 22:34:59 GMT | Towards a more decentralized internet via the Asentu browser | Opal Hits | [Read More](https://medium.com/p/7a7f1749904c) |
 | Sat, 02 Aug 2025 22:27:07 GMT | Zeek Exercises - THM | Isiah | [Read More](https://medium.com/p/80bf0583824f) |
 | Sat, 02 Aug 2025 22:22:46 GMT | LFI Log Poisoning: Guia Completo e Walkthrough Prático | Jonathan M. | [Read More](https://medium.com/p/77d4a80a757f) |
@@ -110,6 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 15:54:39 GMT | Symphonus 3 — Web Challenge Report (Medium) | DataDefender | [Read More](https://medium.com/p/d160392cb8ba) |
 | Sat, 02 Aug 2025 15:52:11 GMT | صیغه آوج صیغه آبیک صیغه البرز صیغه بوئین زهرا صیغه تاکستان صیغه بیدستان صیغه قروه صیغه خرمدشت | wosado7802@zelknow.com | [Read More](https://medium.com/p/4c6a27ba20f9) |
 | Sat, 02 Aug 2025 15:51:49 GMT | صیغه آمل صیغه بابل صیغه بابلسر صیغه بهشهر شما صیغه تنکابن صیغه جویبار صیغه چالوس صیغه رامسر | wosado7802@zelknow.com | [Read More](https://medium.com/p/46c7125c02ef) |
-| Sat, 02 Aug 2025 15:51:22 GMT | صیغه طالقان صیغه کرج صیغه نظرآباد صیغه فردیس صیغه آسارا صیغه کوهسار صیغه گرمدره صیغه ماهدشت | wosado7802@zelknow.com | [Read More](https://medium.com/p/f70a729a7906) |
-| Sat, 02 Aug 2025 15:50:49 GMT | Building an Incident Response Plan: Templates Included | Aj | [Read More](https://medium.com/p/7fa798f87d00) |
-| Sat, 02 Aug 2025 15:50:12 GMT | Stack Overflow Protection and Bypass Techniques — ROP, ASLR, Canaries, and More | Gleb Wam | [Read More](https://medium.com/p/f5d992c3ab79) |
