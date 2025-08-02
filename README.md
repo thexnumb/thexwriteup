@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 12:39:28 GMT | Cybersecurity Details: Database Security: Protecting the Core | Cyber Security Details | [Read More](https://medium.com/p/6d302eff1a81) |
+| Sat, 02 Aug 2025 12:27:31 GMT | Day 69: Public exploits | Nile Okomo | [Read More](https://medium.com/p/9acbfb301324) |
+| Sat, 02 Aug 2025 12:22:44 GMT | PySpark for Cybersecurity Analytics: Scaling Threat Detection with Distributed Data Processing | Manan Grover | [Read More](https://medium.com/p/17aa9000cad9) |
+| Sat, 02 Aug 2025 12:15:53 GMT | The Invisible War Inside Your SaaS | echosso | [Read More](https://medium.com/p/b49485de0451) |
+| Sat, 02 Aug 2025 12:14:00 GMT | Why SOC Level 1? | Furkanctiner | [Read More](https://medium.com/p/fd4fa7e1a331) |
+| Sat, 02 Aug 2025 12:12:11 GMT | How Businesses in Hyderabad Can Protect Themselves from Cyber Threats | Giribabu V | [Read More](https://medium.com/p/7dbeedef4841) |
+| Sat, 02 Aug 2025 12:10:00 GMT | Why You should avoid dangerouslySetInnerHTML in React? | Prateeklohani | [Read More](https://medium.com/p/564592ad0381) |
+| Sat, 02 Aug 2025 12:07:14 GMT | The Ultimate Guide to Metasploit Framework: From Installation to Payload Creation | Cyberhawk Consultancy | [Read More](https://medium.com/p/b8639139c8d1) |
+| Sat, 02 Aug 2025 12:05:25 GMT | Introducing GAIA Hub: A Community for Tech Enthusiasts Across the Globe | Generative AI Academy | [Read More](https://medium.com/p/7b498087cc50) |
+| Sat, 02 Aug 2025 12:01:13 GMT | Unleashing Python: My Journey from Scripts to Full-Stack Automation | RimshaKashif | [Read More](https://medium.com/p/44c2539b70ff) |
+| Sat, 02 Aug 2025 11:58:46 GMT | Trust Is the New Zero-Day: What a Malicious NPM Package Taught Us About AI, Supply Chains, and… | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/7a569127ec18) |
+| Sat, 02 Aug 2025 11:56:26 GMT | Indonesia atau Negara Open Source? What’s With Indonesia? — Ransomware in a nutshell | Rizki Dwi Rahmawan | [Read More](https://medium.com/p/4b0a97b86e7b) |
+| Sat, 02 Aug 2025 11:52:42 GMT | nz gym #1 | nzunuzzz | [Read More](https://medium.com/p/28d781fd6ccb) |
+| Sat, 02 Aug 2025 11:52:32 GMT | TCP/IP Model | Roshinni Gandhi | [Read More](https://medium.com/p/f5575984b9c9) |
+| Sat, 02 Aug 2025 11:51:12 GMT | Crafting Scalable Java Applications | RimshaKashif | [Read More](https://medium.com/p/5085b41012c0) |
+| Sat, 02 Aug 2025 11:49:00 GMT | The Current Security Landscape in 2025: A Real-World View from the Frontlines | Amit Rathi | [Read More](https://medium.com/p/dadea4563bf7) |
+| Sat, 02 Aug 2025 11:47:56 GMT | Cloud Security Careers Emerging in Kolhapur’s Tech Hubs | Dkvilas | [Read More](https://medium.com/p/f3b294006e9e) |
+| Sat, 02 Aug 2025 11:45:16 GMT | A Case Study in AI-Era Risk: Empirical Validation of the UPRA and CDCL Frameworks in Scholarly… | Berend Watchus | [Read More](https://medium.com/p/33e0f25640bb) |
+| Sat, 02 Aug 2025 11:41:50 GMT | My AI-Powered Productivity Stack | RimshaKashif | [Read More](https://medium.com/p/e0d7cb6fe809) |
+| Sat, 02 Aug 2025 11:37:13 GMT | I Watched a Bug Crawl in My Tub | cindee D Renee | [Read More](https://medium.com/p/c3855d33fc36) |
+| Sat, 02 Aug 2025 11:35:25 GMT | Securing MCP Tools with CEL and AgentGateway | Rajat Nigam | [Read More](https://medium.com/p/82fb9935330a) |
+| Sat, 02 Aug 2025 11:32:37 GMT | Secure Coding Challenges Build Bulletproof Applications | AppSecMaster LLC | [Read More](https://medium.com/p/01c250faf3b0) |
 | Sat, 02 Aug 2025 11:32:07 GMT | How to Enumerate SSH with Kali Linux — A Deep Dive & How SSH Works | MR Gh0st [ 0xff ] | [Read More](https://medium.com/p/8583f654ca75) |
 | Sat, 02 Aug 2025 11:31:07 GMT | “10 Proven Productivity Hacks to Get More Done in Less Time” | Laxmi Suthar | [Read More](https://medium.com/p/3337a268a255) |
 | Sat, 02 Aug 2025 11:29:19 GMT | Hands‑On Ethical Hacking Course in Calicut | bilalinternship | [Read More](https://medium.com/p/51aafd491fd6) |
@@ -93,25 +115,3 @@ SAFEGUARDING THE GOSPEL IN THE DIGITAL AGE | Mcloxyventures | [Read More](https:
 | Sat, 02 Aug 2025 06:04:27 GMT | Advanced Burp Suite Practical Guide: Real-World Web App Pentesting | Paritosh | [Read More](https://medium.com/p/cde171611f6b) |
 | Sat, 02 Aug 2025 06:00:33 GMT | Today’s Top Cyber Intelligence Highlights — Aug 02, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/568790e6ed13) |
 | Sat, 02 Aug 2025 05:55:33 GMT | Practice these Questions for the Google Cloud Professional Cloud Security Engineer Certification… | Sachin Sharma - Lead DevOps Engineer | [Read More](https://medium.com/p/0e875e34f633) |
-| Sat, 02 Aug 2025 05:53:30 GMT | "Can You Really Hack Facebook? The Truth from an Ethical Hacker’s Perspective" | Md Habibur Rahman | [Read More](https://medium.com/p/c110fc9b890d) |
-| Sat, 02 Aug 2025 05:50:52 GMT | The Technomancer’s Last Season: A Love Letter to the Wild Internet | lukas langsadl | [Read More](https://medium.com/p/6f4c5977e106) |
-| Sat, 02 Aug 2025 05:50:52 GMT | The Windows Concept Journey — WAC (Windows Admin Center) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f513c8111419) |
-| Sat, 02 Aug 2025 05:48:07 GMT | “Not all hackers wear hoodies in the dark. Some wear badges and protect you.” | Md Habibur Rahman | [Read More](https://medium.com/p/91b5351c9a04) |
-| Sat, 02 Aug 2025 05:44:56 GMT | Reliable Security Solutions Company in UAE for Future-Ready Businesses | Tekshoyabeelyas | [Read More](https://medium.com/p/2f3f8fcd66da) |
-| Sat, 02 Aug 2025 05:39:20 GMT | AI Agents, Clearly Explained | Bilal Faisal | [Read More](https://medium.com/p/ccd8e2e4421d) |
-| Sat, 02 Aug 2025 05:36:58 GMT | How NISTIR 8286 Helps You Connect Cybersecurity and Business Risk | Kambetastephano | [Read More](https://medium.com/p/8c1d51ce90bc) |
-| Sat, 02 Aug 2025 05:35:33 GMT | Top PHP Security Tricks No One’s Using (But Should Be) | Asian Digital Hub | [Read More](https://medium.com/p/cccc1605dcf2) |
-| Sat, 02 Aug 2025 05:34:20 GMT | Self-Healing Smart Contracts: The Future of Secure Blockchain Automation | Recover Right | [Read More](https://medium.com/p/9cc05220d409) |
-| Sat, 02 Aug 2025 05:31:53 GMT | CISA Launches Thorium: A Public Malware Analysis Platform | Dhruvdeep Singh | [Read More](https://medium.com/p/6a1d80c5558f) |
-| Sat, 02 Aug 2025 05:29:13 GMT | How I found PII leak in Hotstar and earned a swag | DEep | [Read More](https://medium.com/p/03b12940fbf3) |
-| Sat, 02 Aug 2025 05:29:04 GMT | How to Fix /usr/bin/kali: line 35: -c: command not found on NetHunter | Dinesh Pathro | [Read More](https://medium.com/p/ff1e3d9e9e43) |
-| Sat, 02 Aug 2025 05:24:28 GMT | Are AWS private link and VPC interface endpoints different concepts or the same? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/572a83138db8) |
-| Sat, 02 Aug 2025 05:20:17 GMT | Top Cybersecurity Awareness Tips To Protect Your Digital World | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/ce35ee4f9d12) |
-| Sat, 02 Aug 2025 05:19:49 GMT | From Qubits to Creation | Gonzalo Florez Giraldo | [Read More](https://medium.com/p/18d4a124db25) |
-| Sat, 02 Aug 2025 05:14:40 GMT | What Went Wrong at SingHealth in 2018 breach? A Cybersecurity Audit Perspective | Jadala Ajay | [Read More](https://medium.com/p/fe2a2dfed386) |
-| Sat, 02 Aug 2025 04:48:24 GMT | Securing Your Applications with AWS WAF and Load Balancer: A Complete Guide | Averageguymedianow | [Read More](https://medium.com/p/44a307e56b46) |
-| Sat, 02 Aug 2025 04:46:34 GMT | Zero Trust Security: Why Implicit Trust is Dead in Corporate Networks | Paran | [Read More](https://medium.com/p/7a3fb822dcab) |
-| Sat, 02 Aug 2025 04:45:39 GMT | Cyber Security Course | Aditya thorat | [Read More](https://medium.com/p/ac6eb8b0191e) |
-| Sat, 02 Aug 2025 04:41:32 GMT | The Importance of Cybersecurity in Business Operations | Suganth Manoharan | [Read More](https://medium.com/p/cf76cd39985c) |
-| Sat, 02 Aug 2025 04:41:00 GMT | Filtering In-Scope Domains Using Burp Suite Configuration and Domain List | mattyerz | [Read More](https://medium.com/p/8c587fd4baa7) |
-| Sat, 02 Aug 2025 04:39:34 GMT | How I Earned $50 for a Subdomain That Almost Got Taken Over | Isha Sangpal | [Read More](https://medium.com/p/51898b777e34) |
