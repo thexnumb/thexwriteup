@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 03:44:03 GMT | The Cybersecurity Landscape in 2025 | Josaiah Dkhar | [Read More](https://medium.com/p/b44c08153720) |
+| Sat, 02 Aug 2025 03:42:02 GMT | 9 New macOS Productivity Apps I’m Obsessed With. | Nikhil Vemu | [Read More](https://medium.com/p/b396dcefd254) |
+| Sat, 02 Aug 2025 03:35:39 GMT | Securing Your Dynamics 365 Customizations with Checkmarx | Mustaque Ehiya | [Read More](https://medium.com/p/9553bd8a2252) |
+| Sat, 02 Aug 2025 03:31:43 GMT | 5 Essential Tips for Throttling APIs in Node.js | Arunangshu Das | [Read More](https://medium.com/p/3183c2105d78) |
+| Sat, 02 Aug 2025 03:31:40 GMT | Safe Connections: Networking Security for Android Apps | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/d2249085d98a) |
+| Sat, 02 Aug 2025 03:28:48 GMT | Fake Microsoft Apps Are Being Used to Steal Your Credentials — Even If You Don’t Click “Allow” | Dhruvdeep Singh | [Read More](https://medium.com/p/5eed921bdff9) |
+| Sat, 02 Aug 2025 03:27:30 GMT | Baseline vs Anomaly Detection: Understanding the Cybersecurity Mindset Shift | Manish Rawat | [Read More](https://medium.com/p/cb9257d7cb5d) |
 | Sat, 02 Aug 2025 03:17:57 GMT | How I Hacked Database using AI Powered Assistant | AbhirupKonwar | [Read More](https://medium.com/p/c2471217ff5b) |
 | Sat, 02 Aug 2025 03:14:41 GMT | How to Protect Your Business from Spear Phishing and Phishing Attacks | Hardy Mervana | [Read More](https://medium.com/p/67b6c8efeddb) |
 | Sat, 02 Aug 2025 03:13:30 GMT | 0x4148 — Blind SQL Injection | Nano | [Read More](https://medium.com/p/a1a5eded53a4) |
@@ -106,10 +113,3 @@ Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/
 | Fri, 01 Aug 2025 18:25:42 GMT | Dịch vụ bảo vệ chuyên nghiệp, uy tín, giá rẻ — An ninh tuyệt đối cho mọi nhu cầu! | DaiAnGroup | [Read More](https://medium.com/p/a31cc5ec2d92) |
 | Fri, 01 Aug 2025 18:25:24 GMT | What if your smart home turned against you? | Malavika Manoj | [Read More](https://medium.com/p/1432163841b7) |
 | Fri, 01 Aug 2025 18:18:46 GMT | SQL injection — String and authentication [Root me] | Adhamkhairy | [Read More](https://medium.com/p/cccf746dc571) |
-| Fri, 01 Aug 2025 18:17:37 GMT | Armed Armed Security Services That Guarantee Safety and Control | Uniworth | [Read More](https://medium.com/p/b7593f985e47) |
-| Fri, 01 Aug 2025 18:11:58 GMT | 5 Simple Ways To Outsmart Ransomware | Faiza Arshad | [Read More](https://medium.com/p/8d96f21822e8) |
-| Fri, 01 Aug 2025 18:07:45 GMT | The Arcadia $3.6M Exploit Was a Blueprint for Future Failures | Olympix | [Read More](https://medium.com/p/1d99eb28e6f1) |
-| Fri, 01 Aug 2025 18:06:26 GMT | How I Uncovered Reflected and Stored XSS on a University Portal | Avyukt Security | [Read More](https://medium.com/p/ad6c653c6a81) |
-| Fri, 01 Aug 2025 18:04:59 GMT | How I got attacked by Kim Jong Un’s guys | 0trust0day | [Read More](https://medium.com/p/c8a395a7fb57) |
-| Fri, 01 Aug 2025 17:53:23 GMT | Mass Information Disclosure via Exposed i18n JSON File (internal logic, payment flows, and business… | Mustafa Adam Gamaraldin Abdalla | [Read More](https://medium.com/p/67d6da79ab68) |
-| Fri, 01 Aug 2025 17:50:32 GMT | MEV, Front-Running & Compliance: MiCA’s Silent War on Crypto’s Dirtiest Secret | GozmanGonzalez | [Read More](https://medium.com/p/9e7f328f4706) |
