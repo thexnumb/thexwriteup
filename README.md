@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 22:13:22 GMT | 3.6 Roentgen — ASC Cyber WarGames 2025 — Web Challenge | Adham Medhat | [Read More](https://medium.com/p/083462937a4c) |
+| Sat, 02 Aug 2025 22:01:00 GMT | Day 77! | Faithel | [Read More](https://medium.com/p/4021ca914147) |
+| Sat, 02 Aug 2025 21:53:37 GMT | ️‍♂️Penetration Testing Report: Recon & Enumeration on inlanefreight.htb | Mkirahmet | [Read More](https://medium.com/p/8a312071ca37) |
+| Sat, 02 Aug 2025 21:52:13 GMT | 12 Psychological Tactics Every Spy Needs: CIA Social Engineering Techniques From the Logical Spy | Lucid Life | [Read More](https://medium.com/p/02db89e6b63d) |
+| Sat, 02 Aug 2025 21:47:08 GMT | Vulnlab Data CTF Write-Up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/22c3c6f4432b) |
+| Sat, 02 Aug 2025 21:44:17 GMT | Pentest Walkthrough: MSSQL, Oracle, and IPMI Enumeration with Password Extraction | Mkirahmet | [Read More](https://medium.com/p/0f9c69fc1abf) |
 | Sat, 02 Aug 2025 21:35:02 GMT | How I Tracked Down a Single Question That Broke All Our Cron Jobs | Silent Resolver | [Read More](https://medium.com/p/ad8fc41be7ff) |
 | Sat, 02 Aug 2025 21:34:05 GMT | LFI com PHP Wrappers: Entendendo a Vulnerabilidade na Prática | Jonathan M. | [Read More](https://medium.com/p/7f12e20aacd1) |
 | Sat, 02 Aug 2025 21:18:07 GMT | AI Security: Why Rushing Artificial Intelligence Could Put Us All at Risk | Linda mhlangu | [Read More](https://medium.com/p/eff13bbe8a45) |
@@ -107,9 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 15:43:05 GMT | CyberSecurity ඉන්ජිනේරුවෙක් විදිහට Training වෙන්න ආරම්භක පියවර— Day 1 - Senuk Dias | Senuk Dias | [Read More](https://medium.com/p/bcfa3e08ccd3) |
 | Sat, 02 Aug 2025 15:42:50 GMT | Python for Pentesters: TryHackMe | RHR | [Read More](https://medium.com/p/55ee5245fd69) |
 | Sat, 02 Aug 2025 15:41:33 GMT | Next.js Middleware Authorization Bypass (CVE-2025–29927) | Akbogaismaill | [Read More](https://medium.com/p/bb49dde824c1) |
-| Sat, 02 Aug 2025 15:36:55 GMT | DockerLabs Writeup — AguaDeMayo (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/71776c70cd87) |
-| Sat, 02 Aug 2025 15:21:40 GMT | ✉️SMTP Enumeration: The Ethical Hacker’s Guide to Uncovering Email Vulnerabilities | Rajkumar Kumawat | [Read More](https://medium.com/p/efc85ae0a563) |
-| Sat, 02 Aug 2025 15:20:37 GMT | It Took Me 10 Minutes to Find an BAC Vulnerability $$$ That Exposed Every Users Profiles . | Mufij Topinkatti | [Read More](https://medium.com/p/8fcaa192fd20) |
-| Sat, 02 Aug 2025 15:18:58 GMT | AI Cyber Attacks And A New Age Of Digital Threats | SteveMC | [Read More](https://medium.com/p/931240c4378f) |
-| Sat, 02 Aug 2025 15:16:46 GMT | 8 Powerful Visuals To Transform Your Mindset | Vijay Kumar Gupta | [Read More](https://medium.com/p/967ec2bcb816) |
-| Sat, 02 Aug 2025 15:12:38 GMT | Cybersecurity Details: Blockchain Security: Immutable Ledgers | Cyber Security Details | [Read More](https://medium.com/p/43e4cf46e9bc) |
