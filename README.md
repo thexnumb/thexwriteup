@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 03:17:57 GMT | How I Hacked Database using AI Powered Assistant | AbhirupKonwar | [Read More](https://medium.com/p/c2471217ff5b) |
+| Sat, 02 Aug 2025 03:14:41 GMT | How to Protect Your Business from Spear Phishing and Phishing Attacks | Hardy Mervana | [Read More](https://medium.com/p/67b6c8efeddb) |
+| Sat, 02 Aug 2025 03:13:30 GMT | 0x4148 — Blind SQL Injection | Nano | [Read More](https://medium.com/p/a1a5eded53a4) |
+| Sat, 02 Aug 2025 03:12:56 GMT | The Silent Struggle: Why Men Don’t Talk About Loneliness (And What Happens When We Do) | Real-Talk | [Read More](https://medium.com/p/880d35df83b2) |
+| Sat, 02 Aug 2025 03:09:36 GMT | Surge of Akira Ransomware Hits SonicWall Firewalls | Dhruvdeep Singh | [Read More](https://medium.com/p/fa3cfe427555) |
+| Sat, 02 Aug 2025 02:50:26 GMT | Creating a Home SOC Lab for Beginners - Part I | Stefan Bargan | [Read More](https://medium.com/p/b20ad51f6ca9) |
+| Sat, 02 Aug 2025 02:42:52 GMT | Dynamics 365 CE— Open Source Code Security Validations | Mustaque Ehiya | [Read More](https://medium.com/p/035a71b2a266) |
+| Sat, 02 Aug 2025 02:28:08 GMT | Between Withdrawal and Openness: The Fragile Balance of Trust | Tami | [Read More](https://medium.com/p/9a3c3b618f0c) |
+| Sat, 02 Aug 2025 02:27:05 GMT | How Insufficient IT/OT Network Segmentation Puts Critical Systems at Risk | Raviteja Mureboina | [Read More](https://medium.com/p/80055f77acf6) |
+| Sat, 02 Aug 2025 02:21:35 GMT | The Ultimate 2FA App Battle: Proton, Aegis, and Authy Duke It Out in 2025 | BiyteLüm | [Read More](https://medium.com/p/2c0e6e1b4fa0) |
+| Sat, 02 Aug 2025 02:10:21 GMT | Top Container Image Best Practices with Google Cloud: A Product Manager’s Guide | Lohitaksh Yogi | [Read More](https://medium.com/p/8e4e2886a39d) |
+| Sat, 02 Aug 2025 01:51:38 GMT | The Hidden Danger of Shared Local Admin Accounts | Raviteja Mureboina | [Read More](https://medium.com/p/4aed3972f8f1) |
 | Sat, 02 Aug 2025 01:37:49 GMT | SIEM LAB: Detecting LSASS Credential Dumping Attack (T1003.001) with Wazuh and Sysmon | Stevanus Banu | [Read More](https://medium.com/p/9cf3cfac123c) |
 | Sat, 02 Aug 2025 01:36:30 GMT | Do Not Track vs. Global Privacy Control | Sean Oriyano | [Read More](https://medium.com/p/cc0ad5655e53) |
 | Sat, 02 Aug 2025 01:25:27 GMT | oceano oco | quando o peixe fala | [Read More](https://medium.com/p/588b71ec06f8) |
@@ -101,15 +113,3 @@ Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/
 | Fri, 01 Aug 2025 18:04:59 GMT | How I got attacked by Kim Jong Un’s guys | 0trust0day | [Read More](https://medium.com/p/c8a395a7fb57) |
 | Fri, 01 Aug 2025 17:53:23 GMT | Mass Information Disclosure via Exposed i18n JSON File (internal logic, payment flows, and business… | Mustafa Adam Gamaraldin Abdalla | [Read More](https://medium.com/p/67d6da79ab68) |
 | Fri, 01 Aug 2025 17:50:32 GMT | MEV, Front-Running & Compliance: MiCA’s Silent War on Crypto’s Dirtiest Secret | GozmanGonzalez | [Read More](https://medium.com/p/9e7f328f4706) |
-| Fri, 01 Aug 2025 17:49:32 GMT | The Synthetic Mirror: | Abdul Saboor | [Read More](https://medium.com/p/1075fc8c166e) |
-| Fri, 01 Aug 2025 17:44:58 GMT | Detect Dangerous Wildcard Trust Policies Across AWS Accounts — Even with Identity Center | Ifeanyi Onyekpe | [Read More](https://medium.com/p/fc323805da0f) |
-| Fri, 01 Aug 2025 17:44:46 GMT | Dịch vụ bảo vệ yếu nhân VIP uy tín, chuyên nghiệp — An toàn tuyệt đối | DaiAnGroup | [Read More](https://medium.com/p/e4b9f84e1231) |
-| Fri, 01 Aug 2025 17:37:05 GMT | Local File Inclusion — Wrappers [Root-me] | Adhamkhairy | [Read More](https://medium.com/p/fefa483c30af) |
-| Fri, 01 Aug 2025 17:30:33 GMT | Surveillance Capitalism Is Watching You — Everyday Habits to Keep Your Data Safe | Rahul Mishra | [Read More](https://medium.com/p/5f971e7e8da7) |
-| Fri, 01 Aug 2025 17:21:09 GMT | How Do You Say Yes to Love Again? | Merxie Ezeh | [Read More](https://medium.com/p/108ed35d824a) |
-| Fri, 01 Aug 2025 17:17:27 GMT | Cybersecurity News Review — Week 31 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/ea8cdcc5fc68) |
-| Fri, 01 Aug 2025 17:12:01 GMT | What Is SOC 2 Type 2 and Why It Matters in 2025 | Securis360 Inc. | [Read More](https://medium.com/p/f027b8487dcd) |
-| Fri, 01 Aug 2025 17:11:46 GMT | Let’s Talk About Operators in C ⚡ | Tanya Awasthi | [Read More](https://medium.com/p/a6d0a42a7b4c) |
-| Fri, 01 Aug 2025 17:08:16 GMT | No “Spukhaft” in Programming! | Jasvir Nagra | [Read More](https://medium.com/p/54a04ff74442) |
-| Fri, 01 Aug 2025 17:02:19 GMT | I Tried CSRF Attacks in Many Website (And Failed Miserably). Here’s What I Learned | Shah kaif | [Read More](https://medium.com/p/dd71317cb4e0) |
-| Fri, 01 Aug 2025 16:53:17 GMT | FortiGate’i Sanal Makineye Kurma ve Temel Arayüz Kullanımı | Selimayvaz | [Read More](https://medium.com/p/eb8424d80a93) |
