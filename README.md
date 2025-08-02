@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 16:44:19 GMT | Building Security In, Not Bolting On | Tom Ermolaev | [Read More](https://medium.com/p/a36e18488557) |
+| Sat, 02 Aug 2025 16:42:36 GMT | From Fiber Taps to Zero-Click Exploits: The True Power of NSA, CIA & Unit 8200 | Muhammad Sameer | [Read More](https://medium.com/p/964fff2712dc) |
+| Sat, 02 Aug 2025 16:40:45 GMT | Written in the Palms | Isha | [Read More](https://medium.com/p/bc5c7be6737f) |
+| Sat, 02 Aug 2025 16:40:37 GMT | How to Kill Privacy and Call It Child Protection: The UK’s Online Safety Act | Matyas Koszegi | [Read More](https://medium.com/p/0497723db4e1) |
+| Sat, 02 Aug 2025 16:39:51 GMT | Economic Risks of Cybersecurity Vulnerabilities in Global Supply Chains | Mohi Uddin | [Read More](https://medium.com/p/b37b13358489) |
+| Sat, 02 Aug 2025 16:34:34 GMT | SameSite Lax bypass via method override @ PortSwigger Walkthrough | Amr Elharery | [Read More](https://medium.com/p/14d0b3911e19) |
+| Sat, 02 Aug 2025 16:29:36 GMT | The Cyber Attack That Changed Geopolitics | Aj | [Read More](https://medium.com/p/c274cac16f1c) |
+| Sat, 02 Aug 2025 16:24:37 GMT | An Open Discussion on Risk | JMP ESP FF E4 | [Read More](https://medium.com/p/58d91111d7fc) |
 | Sat, 02 Aug 2025 16:14:11 GMT | HackTheBox — Planning (Writeup) | ruruuu | [Read More](https://medium.com/p/3a1d6d597cca) |
 | Sat, 02 Aug 2025 16:13:38 GMT | Broken Access Control-Part 2 | t0x1k | [Read More](https://medium.com/p/7651d13c5c13) |
 | Sat, 02 Aug 2025 16:10:15 GMT | Insecure Refresh Token Usage Leads to Account Takeover (IDOR) | Mahmoud Gamal | [Read More](https://medium.com/p/14c4a9ec504b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 11:52:42 GMT | nz gym #1 | nzunuzzz | [Read More](https://medium.com/p/28d781fd6ccb) |
 | Sat, 02 Aug 2025 11:52:32 GMT | TCP/IP Model | Roshinni Gandhi | [Read More](https://medium.com/p/f5575984b9c9) |
 | Sat, 02 Aug 2025 11:51:12 GMT | Crafting Scalable Java Applications | RimshaKashif | [Read More](https://medium.com/p/5085b41012c0) |
-| Sat, 02 Aug 2025 11:49:00 GMT | The Current Security Landscape in 2025: A Real-World View from the Frontlines | Amit Rathi | [Read More](https://medium.com/p/dadea4563bf7) |
-| Sat, 02 Aug 2025 11:47:56 GMT | Cloud Security Careers Emerging in Kolhapur’s Tech Hubs | Dkvilas | [Read More](https://medium.com/p/f3b294006e9e) |
-| Sat, 02 Aug 2025 11:45:16 GMT | A Case Study in AI-Era Risk: Empirical Validation of the UPRA and CDCL Frameworks in Scholarly… | Berend Watchus | [Read More](https://medium.com/p/33e0f25640bb) |
-| Sat, 02 Aug 2025 11:41:50 GMT | My AI-Powered Productivity Stack | RimshaKashif | [Read More](https://medium.com/p/e0d7cb6fe809) |
-| Sat, 02 Aug 2025 11:37:13 GMT | I Watched a Bug Crawl in My Tub | cindee D Renee | [Read More](https://medium.com/p/c3855d33fc36) |
-| Sat, 02 Aug 2025 11:35:25 GMT | Securing MCP Tools with CEL and AgentGateway | Rajat Nigam | [Read More](https://medium.com/p/82fb9935330a) |
-| Sat, 02 Aug 2025 11:32:37 GMT | Secure Coding Challenges Build Bulletproof Applications | AppSecMaster LLC | [Read More](https://medium.com/p/01c250faf3b0) |
-| Sat, 02 Aug 2025 11:32:07 GMT | How to Enumerate SSH with Kali Linux — A Deep Dive & How SSH Works | MR Gh0st [ 0xff ] | [Read More](https://medium.com/p/8583f654ca75) |
