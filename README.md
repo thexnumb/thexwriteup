@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 07:04:38 GMT | Best Basic Networking Training Institute in Delhi | cyber security Updates | [Read More](https://medium.com/p/37c1371ff4d5) |
+| Sat, 02 Aug 2025 06:55:29 GMT | I Thought My Code Was Clean… Until SonarQube Told Me the Truth | Ravitejakoyya | [Read More](https://medium.com/p/b4f82f7ad2be) |
+| Sat, 02 Aug 2025 06:54:10 GMT | The Silent Clock Ticking in Your Digital Life | Dr. Morteza SaberiKamarposhti | [Read More](https://medium.com/p/982b72cc0096) |
+| Sat, 02 Aug 2025 06:39:03 GMT | ⚠️ The Most Dangerous Scam of 2025 — And How to Detect It in Seconds | CYber VIaz | [Read More](https://medium.com/p/74399c3479bf) |
+| Sat, 02 Aug 2025 06:35:16 GMT | Google rolls out Gemini Deep Think AI, a reasoning model that tests multiple ideas in parallel | Aly Elvi | [Read More](https://medium.com/p/c431b2bf3d7c) |
+| Sat, 02 Aug 2025 06:31:57 GMT | Pi-hole Donation Data Breach: Names and Emails Exposed Through WordPress Plugin Flaw | Dhruvdeep Singh | [Read More](https://medium.com/p/70c4ba4fdfd4) |
+| Sat, 02 Aug 2025 06:29:05 GMT | Clever Burglar-Proofing Using Home Automation — Smarter, Not Just Safe | Electrical Insights | [Read More](https://medium.com/p/560400268509) |
 | Sat, 02 Aug 2025 06:18:21 GMT | Cloud Storage vs. Cloud Computing: What’s the Difference? | Masaab Elahi | [Read More](https://medium.com/p/16c3f1aed1b2) |
 | Sat, 02 Aug 2025 06:17:49 GMT | Matthew Rosenquist Joins MindShield Advisory Board | Matthew.Rosenquist | [Read More](https://medium.com/p/c8f53512178f) |
 | Sat, 02 Aug 2025 06:04:27 GMT | Advanced Burp Suite Practical Guide: Real-World Web App Pentesting | Paritosh | [Read More](https://medium.com/p/cde171611f6b) |
@@ -106,10 +113,3 @@ Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/
 | Fri, 01 Aug 2025 21:44:09 GMT | PHP Wrappers | DuckWrites | [Read More](https://medium.com/p/3a314ed04e3f) |
 | Fri, 01 Aug 2025 21:41:46 GMT | Vibe Coding with Copilot: The Security Pitfalls Nobody Warns You About | Halil Ural | [Read More](https://medium.com/p/631dd49783b3) |
 | Fri, 01 Aug 2025 21:39:53 GMT | Fortytwo.nl — It’s So Bad, I’m Embarrassed to Write About It | 0trust0day | [Read More](https://medium.com/p/7eb68b204058) |
-| Fri, 01 Aug 2025 21:39:30 GMT | Want to step into Cybersecurity? | Zyphrex | [Read More](https://medium.com/p/ea60f186af7e) |
-| Fri, 01 Aug 2025 21:35:50 GMT | My First Wake-Up Call | Dr Tai Durojaiye | [Read More](https://medium.com/p/d4235a457ecb) |
-| Fri, 01 Aug 2025 21:24:08 GMT | The Risk You Never Planned For: Why ITDR and ISPM Aren’t Enough | David Canellos | [Read More](https://medium.com/p/de50e1c7f537) |
-| Fri, 01 Aug 2025 21:23:15 GMT | Threat Hunt simulation and Report Generation | Shibly Sadik | [Read More](https://medium.com/p/15591bc84fe7) |
-| Fri, 01 Aug 2025 21:21:47 GMT | DAY 32 — Python Scripting Basics for Cybersecurity | Jinay | [Read More](https://medium.com/p/180d26ecafb4) |
-| Fri, 01 Aug 2025 21:21:39 GMT | Unlocking the Power of /proc/self/fd/ in Linux: From Basics to Exploits and Prevention | Zoningxtr | [Read More](https://medium.com/p/f58d2202b129) |
-| Fri, 01 Aug 2025 21:19:39 GMT | Letter 03 — “August 8, 2025” | Moshii_echoes | [Read More](https://medium.com/p/204055f2feda) |
