@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 22:34:59 GMT | Towards a more decentralized internet via the Asentu browser | Opal Hits | [Read More](https://medium.com/p/7a7f1749904c) |
+| Sat, 02 Aug 2025 22:27:07 GMT | Zeek Exercises - THM | Isiah | [Read More](https://medium.com/p/80bf0583824f) |
+| Sat, 02 Aug 2025 22:22:46 GMT | LFI Log Poisoning: Guia Completo e Walkthrough Prático | Jonathan M. | [Read More](https://medium.com/p/77d4a80a757f) |
+| Sat, 02 Aug 2025 22:19:18 GMT | Ethical Intelligence: Building Malaysia’s AI & Climate Ethics Brand | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/57592add34c5) |
+| Sat, 02 Aug 2025 22:13:48 GMT | The Silent Threat: How a Simple Zip File Triggered Google Web Designer’s Weakness️ | Shaber Tseng | [Read More](https://medium.com/p/e1b18db76533) |
 | Sat, 02 Aug 2025 22:13:22 GMT | 3.6 Roentgen — ASC Cyber WarGames 2025 — Web Challenge | Adham Medhat | [Read More](https://medium.com/p/083462937a4c) |
 | Sat, 02 Aug 2025 22:01:00 GMT | Day 77! | Faithel | [Read More](https://medium.com/p/4021ca914147) |
 | Sat, 02 Aug 2025 21:53:37 GMT | ️‍♂️Penetration Testing Report: Recon & Enumeration on inlanefreight.htb | Mkirahmet | [Read More](https://medium.com/p/8a312071ca37) |
@@ -108,8 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 15:51:22 GMT | صیغه طالقان صیغه کرج صیغه نظرآباد صیغه فردیس صیغه آسارا صیغه کوهسار صیغه گرمدره صیغه ماهدشت | wosado7802@zelknow.com | [Read More](https://medium.com/p/f70a729a7906) |
 | Sat, 02 Aug 2025 15:50:49 GMT | Building an Incident Response Plan: Templates Included | Aj | [Read More](https://medium.com/p/7fa798f87d00) |
 | Sat, 02 Aug 2025 15:50:12 GMT | Stack Overflow Protection and Bypass Techniques — ROP, ASLR, Canaries, and More | Gleb Wam | [Read More](https://medium.com/p/f5d992c3ab79) |
-| Sat, 02 Aug 2025 15:48:59 GMT | What You Should Know About AI, Security, and Privacy in 2025 | Bambino Guapo | [Read More](https://medium.com/p/0a6cfb09bb26) |
-| Sat, 02 Aug 2025 15:46:37 GMT | Active Directory Basics You Might Know!! | Mainekdeveloper | [Read More](https://medium.com/p/c039b2b57a10) |
-| Sat, 02 Aug 2025 15:43:05 GMT | CyberSecurity ඉන්ජිනේරුවෙක් විදිහට Training වෙන්න ආරම්භක පියවර— Day 1 - Senuk Dias | Senuk Dias | [Read More](https://medium.com/p/bcfa3e08ccd3) |
-| Sat, 02 Aug 2025 15:42:50 GMT | Python for Pentesters: TryHackMe | RHR | [Read More](https://medium.com/p/55ee5245fd69) |
-| Sat, 02 Aug 2025 15:41:33 GMT | Next.js Middleware Authorization Bypass (CVE-2025–29927) | Akbogaismaill | [Read More](https://medium.com/p/bb49dde824c1) |
