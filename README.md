@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 13:31:21 GMT | The Act of Open Source Intelligence (OSINT) | Mgbada Nelson | [Read More](https://medium.com/p/dd3a6656ce40) |
+| Sat, 02 Aug 2025 13:28:47 GMT | Managing Common Cybersecurity Threats, Risks, and Vulnerabilities | Ferdi Karakurt | [Read More](https://medium.com/p/59648640de73) |
+| Sat, 02 Aug 2025 13:09:38 GMT | Grid-scale Sodium-ion Battery | S. W. Lawrence, MD | [Read More](https://medium.com/p/13d7620576d9) |
+| Sat, 02 Aug 2025 13:05:26 GMT | Tools Every Penetration Tester Must Build Themselves | sudo whoami | [Read More](https://medium.com/p/6ee53ffb7680) |
+| Sat, 02 Aug 2025 13:00:30 GMT | 8 Security Domains Every Cybersecurity Analyst Should Know | Ferdi Karakurt | [Read More](https://medium.com/p/b8f0aa608fd5) |
+| Sat, 02 Aug 2025 12:51:58 GMT | Mission App Possible : An Enterprise Security Story | sumit sharma | [Read More](https://medium.com/p/71115405d3f7) |
+| Sat, 02 Aug 2025 12:51:16 GMT | Search Engines Indexing ChatGPT shared Chats | Vaasudev | [Read More](https://medium.com/p/5308464a8bbb) |
+| Sat, 02 Aug 2025 12:49:08 GMT | Title: Tech Trifecta: AI, Green Energy, and Smart Cities as Levers of Leap | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/68696d2246db) |
+| Sat, 02 Aug 2025 12:49:01 GMT | AS-REP Roasting Attack: Exploiting Kerberos Without Pre-Authentication | Ahmed Badry | [Read More](https://medium.com/p/37a2aa7499be) |
+| Sat, 02 Aug 2025 12:47:03 GMT | CVE-2025–26062: Unauthenticated Access to Intelbras Router Settings — Exposing Sensitive Data! | CVEHUB | [Read More](https://medium.com/p/3f7aba710409) |
+| Sat, 02 Aug 2025 12:46:31 GMT | Digital Safety and Mental Health: Managing Screen Time and Social Media | Ali Hasan | [Read More](https://medium.com/p/f226eee56020) |
+| Sat, 02 Aug 2025 12:45:36 GMT | CVE-2025–51503: XSS Vulnerability in Microweber CMS Puts Admin Accounts at Risk | CVEHUB | [Read More](https://medium.com/p/01fcf5579dd9) |
+| Sat, 02 Aug 2025 12:43:57 GMT | Intrusion Detection and Log Analysis Using Suricata and the ELK Stack | Mohammed Ramees | [Read More](https://medium.com/p/0a087c8a5d73) |
+| Sat, 02 Aug 2025 12:41:31 GMT | CVE-2025–51384: Buffer Overflow Bug in D-Link DI-8200 Router! | CVEHUB | [Read More](https://medium.com/p/afa60cbc8008) |
+| Sat, 02 Aug 2025 12:40:50 GMT | Cybersecurity Details: Operating System Security: Strengthening the Foundation | Cyber Security Details | [Read More](https://medium.com/p/b1327dab316d) |
 | Sat, 02 Aug 2025 12:39:28 GMT | Cybersecurity Details: Database Security: Protecting the Core | Cyber Security Details | [Read More](https://medium.com/p/6d302eff1a81) |
+| Sat, 02 Aug 2025 12:38:05 GMT | Cybersecurity Details: Web Application Security: Fortifying Frontends | Cyber Security Details | [Read More](https://medium.com/p/17e923ebbaf8) |
+| Sat, 02 Aug 2025 12:36:40 GMT | Cybersecurity Details: Network Security: Guarding the Gates | Cyber Security Details | [Read More](https://medium.com/p/85f3f8ae7ee1) |
 | Sat, 02 Aug 2025 12:27:31 GMT | Day 69: Public exploits | Nile Okomo | [Read More](https://medium.com/p/9acbfb301324) |
 | Sat, 02 Aug 2025 12:22:44 GMT | PySpark for Cybersecurity Analytics: Scaling Threat Detection with Distributed Data Processing | Manan Grover | [Read More](https://medium.com/p/17aa9000cad9) |
 | Sat, 02 Aug 2025 12:15:53 GMT | The Invisible War Inside Your SaaS | echosso | [Read More](https://medium.com/p/b49485de0451) |
@@ -98,20 +115,3 @@ SAFEGUARDING THE GOSPEL IN THE DIGITAL AGE | Mcloxyventures | [Read More](https:
 | Sat, 02 Aug 2025 07:47:33 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/3854ef2e357a) |
 | Sat, 02 Aug 2025 07:42:27 GMT | FortiGuard SOC-as-a-Service: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/732b2c842a0d) |
 | Sat, 02 Aug 2025 07:40:17 GMT | Home Lab Chronicles: Part 03 — High Availability (HA), CARP, pfSync and XMLRPC | Suprim Devkota | [Read More](https://medium.com/p/40c612f09b79) |
-| Sat, 02 Aug 2025 07:34:37 GMT | The Silent Performance: Liberating Men from the “Actor” Role in Their Emotional Lives - Part 2 | Real-Talk | [Read More](https://medium.com/p/9c8a88a4e2ee) |
-| Sat, 02 Aug 2025 07:26:49 GMT | My Weirdest Discovery in a Pentest | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/86f861c8141d) |
-| Sat, 02 Aug 2025 07:26:47 GMT | Digital Shield Hardware Wallet and EAL6+: Why This Chip Matters for Your Crypto Security | Digital Shield | [Read More](https://medium.com/p/b98b178eccb9) |
-| Sat, 02 Aug 2025 07:19:36 GMT | DO NOT CLICK  Avoid Online Scams: Free Redirect Checker Tool | Krivadna | [Read More](https://medium.com/p/f3f1a431be6f) |
-| Sat, 02 Aug 2025 07:18:19 GMT | In Between | Mansi Rupareliya | [Read More](https://medium.com/p/478e18cebe2d) |
-| Sat, 02 Aug 2025 07:04:38 GMT | Best Basic Networking Training Institute in Delhi | cyber security Updates | [Read More](https://medium.com/p/37c1371ff4d5) |
-| Sat, 02 Aug 2025 06:55:29 GMT | I Thought My Code Was Clean… Until SonarQube Told Me the Truth | Ravitejakoyya | [Read More](https://medium.com/p/b4f82f7ad2be) |
-| Sat, 02 Aug 2025 06:54:10 GMT | The Silent Clock Ticking in Your Digital Life | Dr. Morteza SaberiKamarposhti | [Read More](https://medium.com/p/982b72cc0096) |
-| Sat, 02 Aug 2025 06:39:03 GMT | ⚠️ The Most Dangerous Scam of 2025 — And How to Detect It in Seconds | CYber VIaz | [Read More](https://medium.com/p/74399c3479bf) |
-| Sat, 02 Aug 2025 06:35:16 GMT | Google rolls out Gemini Deep Think AI, a reasoning model that tests multiple ideas in parallel | Aly Elvi | [Read More](https://medium.com/p/c431b2bf3d7c) |
-| Sat, 02 Aug 2025 06:31:57 GMT | Pi-hole Donation Data Breach: Names and Emails Exposed Through WordPress Plugin Flaw | Dhruvdeep Singh | [Read More](https://medium.com/p/70c4ba4fdfd4) |
-| Sat, 02 Aug 2025 06:29:05 GMT | Clever Burglar-Proofing Using Home Automation — Smarter, Not Just Safe | Electrical Insights | [Read More](https://medium.com/p/560400268509) |
-| Sat, 02 Aug 2025 06:18:21 GMT | Cloud Storage vs. Cloud Computing: What’s the Difference? | Masaab Elahi | [Read More](https://medium.com/p/16c3f1aed1b2) |
-| Sat, 02 Aug 2025 06:17:49 GMT | Matthew Rosenquist Joins MindShield Advisory Board | Matthew.Rosenquist | [Read More](https://medium.com/p/c8f53512178f) |
-| Sat, 02 Aug 2025 06:04:27 GMT | Advanced Burp Suite Practical Guide: Real-World Web App Pentesting | Paritosh | [Read More](https://medium.com/p/cde171611f6b) |
-| Sat, 02 Aug 2025 06:00:33 GMT | Today’s Top Cyber Intelligence Highlights — Aug 02, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/568790e6ed13) |
-| Sat, 02 Aug 2025 05:55:33 GMT | Practice these Questions for the Google Cloud Professional Cloud Security Engineer Certification… | Sachin Sharma - Lead DevOps Engineer | [Read More](https://medium.com/p/0e875e34f633) |
