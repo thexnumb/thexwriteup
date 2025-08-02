@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 14:15:23 GMT | The Silent Risk in Your ICS: Why S7 Protocol Needs Security Attention | Azim Uddin | [Read More](https://medium.com/p/d30cdad1da43) |
+| Sat, 02 Aug 2025 14:14:13 GMT | Guide to Windows Privilege Escalation through Insecure Windows Service Permissions. | Muhammadhuzaifa | [Read More](https://medium.com/p/0d0dcff72e64) |
+| Sat, 02 Aug 2025 14:13:31 GMT | Regional Development: Sabah, Sarawak & the Tech North | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/5d605e8e686d) |
+| Sat, 02 Aug 2025 14:06:11 GMT | Basic Pentesting 1 in 3 Different Ways A Beginner-Friendly Guide | SACHIN PV | [Read More](https://medium.com/p/156908690fee) |
+| Sat, 02 Aug 2025 14:04:17 GMT | ️ Dive Into Hacking, Virtual Machines, Linux & Networking — A Beginner’s Guide | Aryaajay | [Read More](https://medium.com/p/00702fe1c643) |
+| Sat, 02 Aug 2025 14:02:33 GMT | WARNING ⛔️ : Never Use Free WiFi—Don’t Connect to Public Wi-Fi With Your Mobile Phones | Shahzaib | [Read More](https://medium.com/p/27a0cf09b638) |
+| Sat, 02 Aug 2025 13:58:13 GMT | As a non-cyber person. Have you heard about “Dark Web Monitoring”? | Noussayr Derbel | [Read More](https://medium.com/p/9f6012efd5d3) |
+| Sat, 02 Aug 2025 13:57:06 GMT | Secure Coding Part 7: Command Injection — Attack (Python) — shell=True | Siddiquimohammad | [Read More](https://medium.com/p/8cf5e04ba09b) |
+| Sat, 02 Aug 2025 13:52:58 GMT | RED DA Cybersecurity & EN 18031: A Short Guide for Manufacturers | Simon Stampfl | [Read More](https://medium.com/p/6aa89ae176a8) |
+| Sat, 02 Aug 2025 13:47:26 GMT | Why Every American Needs a Power-Free Home Security Backup (Especially Now) | Survival Gear | [Read More](https://medium.com/p/625f72db151d) |
+| Sat, 02 Aug 2025 13:40:56 GMT | Securing the Future: How Zero Trust Architectures Must Evolve Against Deepfake Threats and Quantum… | Anish sharma | [Read More](https://medium.com/p/b82167143fb5) |
+| Sat, 02 Aug 2025 13:38:45 GMT | HTB Academy Web Attacks — Skills Assessment Walkthrough | Noorbnhossam | [Read More](https://medium.com/p/e64cacd7d726) |
+| Sat, 02 Aug 2025 13:38:08 GMT | Oops! When DevOps Becomes “DevOops”: $44M Crypto Hack | CtrlC3 | [Read More](https://medium.com/p/d9e3eea8b1de) |
+| Sat, 02 Aug 2025 13:38:07 GMT | The "god of forces" mentioned in Daniel 11:38-39 could be interpreted in various ways, including a… | Darren Robert Brown | [Read More](https://medium.com/p/8fef475e8f3b) |
+| Sat, 02 Aug 2025 13:36:37 GMT | “Was this an attack?” — Decoding the Paranoia (and Maybe the Truth) | Authlyn | [Read More](https://medium.com/p/3a2f8d813312) |
+| Sat, 02 Aug 2025 13:34:36 GMT | SiberGüvenlik Sertifikaları ve Eğitimler | Mustafa Gunay | [Read More](https://medium.com/p/bd33f1ddeb16) |
 | Sat, 02 Aug 2025 13:31:21 GMT | The Act of Open Source Intelligence (OSINT) | Mgbada Nelson | [Read More](https://medium.com/p/dd3a6656ce40) |
+| Sat, 02 Aug 2025 13:30:01 GMT | Subdomain Enumeration Like a Pro — Complete Step-by-Step Guide (2025 Edition) | Rajesh Kumar | [Read More](https://medium.com/p/692becbf2522) |
 | Sat, 02 Aug 2025 13:28:47 GMT | Managing Common Cybersecurity Threats, Risks, and Vulnerabilities | Ferdi Karakurt | [Read More](https://medium.com/p/59648640de73) |
 | Sat, 02 Aug 2025 13:09:38 GMT | Grid-scale Sodium-ion Battery | S. W. Lawrence, MD | [Read More](https://medium.com/p/13d7620576d9) |
 | Sat, 02 Aug 2025 13:05:26 GMT | Tools Every Penetration Tester Must Build Themselves | sudo whoami | [Read More](https://medium.com/p/6ee53ffb7680) |
@@ -98,20 +115,3 @@ SAFEGUARDING THE GOSPEL IN THE DIGITAL AGE | Mcloxyventures | [Read More](https:
 | Sat, 02 Aug 2025 08:37:28 GMT | How to Stay Anonymous Online : Protect Your Online Identity in 2025 | Anirudh PV | [Read More](https://medium.com/p/18fdcd64b6cd) |
 | Sat, 02 Aug 2025 08:31:10 GMT | Top 5 Teen Chat Sites in 2025 (With Safety Ratings) | FreeTeenChat | [Read More](https://medium.com/p/7d49984fc5a0) |
 | Sat, 02 Aug 2025 08:23:25 GMT | The Hardest Battle Is Within | metafosita | [Read More](https://medium.com/p/8fe77f41d104) |
-| Sat, 02 Aug 2025 08:22:39 GMT | When the End Is Not the End | metafosita | [Read More](https://medium.com/p/b3b2200a0059) |
-| Sat, 02 Aug 2025 08:17:28 GMT | Networking Essentials - Try Hack Me - Complete Walkthrough - A Beginner’s Guide to Network… | Avrodip Joy | [Read More](https://medium.com/p/2ff61e1859ae) |
-| Sat, 02 Aug 2025 08:15:44 GMT | Kerajaan Mataram: Dari Kesaktian Hingga Kudeta Berdarah | KASKUSGAMING.INFO | [Read More](https://medium.com/p/90a66b102863) |
-| Sat, 02 Aug 2025 08:13:16 GMT | 5 Real-Life Cybersecurity Breaches Everyone Should Know About | Sandhiya | [Read More](https://medium.com/p/aca6d6eb2ac7) |
-| Sat, 02 Aug 2025 08:04:04 GMT | ️ I Spent 72 Hours on the Dark Web — Here’s What No One Tells You | adityaax | [Read More](https://medium.com/p/9aa5273bce78) |
-| Sat, 02 Aug 2025 08:03:35 GMT | The Silence Between Drake’s Lyrics — Part 2.5 | Real-Talk | [Read More](https://medium.com/p/e83b7def8248) |
-| Sat, 02 Aug 2025 08:01:58 GMT | 5 Critical Mistakes to Avoid When Migrating to AWS Cloud: A Senior DevOps Engineer’s Playbook | Mohamed ElEmam | [Read More](https://medium.com/p/16be59faa939) |
-| Sat, 02 Aug 2025 08:01:58 GMT | INFOSEC: Windows 10 Host Security Project Challenges | Stephanie Chibueze | [Read More](https://medium.com/p/49185e762895) |
-| Sat, 02 Aug 2025 08:01:58 GMT | Hacking ChatGPT: A Time Bomb for Your Personal Data | ParlonsIA | [Read More](https://medium.com/p/c0cbd5e876db) |
-| Sat, 02 Aug 2025 08:01:29 GMT | Stealth Mode: 10 Bash Tricks to Stay Hidden While Hacking | Very Lazy Tech | [Read More](https://medium.com/p/6df8fdeabe3d) |
-| Sat, 02 Aug 2025 07:54:31 GMT | ¿Cuál me gusta más? CGOblin o gomulti_loader | Lazyown Redteam | [Read More](https://medium.com/p/6eb58f080269) |
-| Sat, 02 Aug 2025 07:52:30 GMT | Sygnia.co — a solid cybersecurity benchmark, definitely a company you can trust | 0trust0day | [Read More](https://medium.com/p/853e5cf95baf) |
-| Sat, 02 Aug 2025 07:51:12 GMT | Part 16 — How I Run My Entire Digital Life on a Raspberry Pi: True Remote Access Freedom via NGINX | Levente Csikor | [Read More](https://medium.com/p/1a222a489ad5) |
-| Sat, 02 Aug 2025 07:51:04 GMT | Spring Annotations vs. Express Middleware | rezauditore | [Read More](https://medium.com/p/4af5ac7017ee) |
-| Sat, 02 Aug 2025 07:47:33 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/3854ef2e357a) |
-| Sat, 02 Aug 2025 07:42:27 GMT | FortiGuard SOC-as-a-Service: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/732b2c842a0d) |
-| Sat, 02 Aug 2025 07:40:17 GMT | Home Lab Chronicles: Part 03 — High Availability (HA), CARP, pfSync and XMLRPC | Suprim Devkota | [Read More](https://medium.com/p/40c612f09b79) |
