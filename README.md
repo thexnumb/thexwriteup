@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 10:40:00 GMT | Damn Vulnerable Web Application (DVWA) | Vicent Kyungai | [Read More](https://medium.com/p/dd2d8ee97d8f) |
+| Sat, 02 Aug 2025 10:39:03 GMT | Raffael Putra Hermawan | PRIVACY ! | [Read More](https://medium.com/p/f4989a5c0df2) |
+| Sat, 02 Aug 2025 10:33:55 GMT | Discovery of Blind SQL Injection and OS Command Injection Vulnerabilities in a University Portal | Avyukt Security | [Read More](https://medium.com/p/064929692019) |
+| Sat, 02 Aug 2025 10:31:44 GMT | CYBERSECURITY
+IN DIGITAL EVANGELISM:
+SAFEGUARDING THE GOSPEL IN THE DIGITAL AGE | Mcloxyventures | [Read More](https://medium.com/p/477ab94d0da0) |
+| Sat, 02 Aug 2025 10:25:03 GMT | Scalability by Design: How to Build Apps That Grow and Handle Millions | Natarajan C K | [Read More](https://medium.com/p/8f5303443bc1) |
+| Sat, 02 Aug 2025 10:23:24 GMT | Quranium ($QRN): Believe in Something That Lasts. | Bright Mmaduabuchi | [Read More](https://medium.com/p/8504ac8c689e) |
+| Sat, 02 Aug 2025 10:14:58 GMT | Top 10 Cybersecurity Threats in 2025 & How to Prevent Them | Paliwalnishtha | [Read More](https://medium.com/p/abfd88b25ed1) |
 | Sat, 02 Aug 2025 10:07:22 GMT | The Future of Cybersecurity: AI-Powered Threat Detection in 2025 | Win In Life Academy | [Read More](https://medium.com/p/7e1bd4019263) |
 | Sat, 02 Aug 2025 09:59:25 GMT | Diploma vs Certification in Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/9549c8547f68) |
 | Sat, 02 Aug 2025 09:59:02 GMT | PSARA LICENSE SERVICE: A Complete Guide to Legal Security Agency Registration | mohammad shad | [Read More](https://medium.com/p/a1f999861ff8) |
@@ -105,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 03:28:48 GMT | Fake Microsoft Apps Are Being Used to Steal Your Credentials — Even If You Don’t Click “Allow” | Dhruvdeep Singh | [Read More](https://medium.com/p/5eed921bdff9) |
 | Sat, 02 Aug 2025 03:27:30 GMT | Baseline vs Anomaly Detection: Understanding the Cybersecurity Mindset Shift | Manish Rawat | [Read More](https://medium.com/p/cb9257d7cb5d) |
 | Sat, 02 Aug 2025 03:17:57 GMT | How I Hacked Database using AI Powered Assistant | AbhirupKonwar | [Read More](https://medium.com/p/c2471217ff5b) |
-| Sat, 02 Aug 2025 03:14:41 GMT | How to Protect Your Business from Spear Phishing and Phishing Attacks | Hardy Mervana | [Read More](https://medium.com/p/67b6c8efeddb) |
-| Sat, 02 Aug 2025 03:13:30 GMT | 0x4148 — Blind SQL Injection | Nano | [Read More](https://medium.com/p/a1a5eded53a4) |
-| Sat, 02 Aug 2025 03:12:56 GMT | The Silent Struggle: Why Men Don’t Talk About Loneliness (And What Happens When We Do) | Real-Talk | [Read More](https://medium.com/p/880d35df83b2) |
-| Sat, 02 Aug 2025 03:09:36 GMT | Surge of Akira Ransomware Hits SonicWall Firewalls | Dhruvdeep Singh | [Read More](https://medium.com/p/fa3cfe427555) |
-| Sat, 02 Aug 2025 02:50:26 GMT | Creating a Home SOC Lab for Beginners - Part I | Stefan Bargan | [Read More](https://medium.com/p/b20ad51f6ca9) |
-| Sat, 02 Aug 2025 02:42:52 GMT | Dynamics 365 CE— Open Source Code Security Validations | Mustaque Ehiya | [Read More](https://medium.com/p/035a71b2a266) |
-| Sat, 02 Aug 2025 02:28:08 GMT | Between Withdrawal and Openness: The Fragile Balance of Trust | Tami | [Read More](https://medium.com/p/9a3c3b618f0c) |
