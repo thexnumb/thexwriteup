@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 05:29:04 GMT | How to Fix /usr/bin/kali: line 35: -c: command not found on NetHunter | Dinesh Pathro | [Read More](https://medium.com/p/ff1e3d9e9e43) |
+| Sat, 02 Aug 2025 05:20:17 GMT | Top Cybersecurity Awareness Tips To Protect Your Digital World | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/ce35ee4f9d12) |
+| Sat, 02 Aug 2025 05:19:49 GMT | From Qubits to Creation | Gonzalo Florez Giraldo | [Read More](https://medium.com/p/18d4a124db25) |
+| Sat, 02 Aug 2025 05:14:40 GMT | What Went Wrong at SingHealth in 2018 breach? A Cybersecurity Audit Perspective | Jadala Ajay | [Read More](https://medium.com/p/fe2a2dfed386) |
 | Sat, 02 Aug 2025 04:48:24 GMT | Securing Your Applications with AWS WAF and Load Balancer: A Complete Guide | Averageguymedianow | [Read More](https://medium.com/p/44a307e56b46) |
 | Sat, 02 Aug 2025 04:46:34 GMT | Zero Trust Security: Why Implicit Trust is Dead in Corporate Networks | Paran | [Read More](https://medium.com/p/7a3fb822dcab) |
 | Sat, 02 Aug 2025 04:45:39 GMT | Cyber Security Course | Aditya thorat | [Read More](https://medium.com/p/ac6eb8b0191e) |
@@ -109,7 +113,3 @@ Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/
 | Fri, 01 Aug 2025 20:29:54 GMT | Let’s Defend: 316 — SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing - Writeup | EPereda | [Read More](https://medium.com/p/86ba08d0e71f) |
 | Fri, 01 Aug 2025 20:28:13 GMT | Irish-Name-Repo 1 — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/f2e8ddc3db74) |
 | Fri, 01 Aug 2025 20:21:00 GMT | Nmap : Ağınızın Görünmez Kısımlarını Ortaya Çıkaran “Dijital MRI” Cihazınız ️ | Berdan Mut | [Read More](https://medium.com/p/ecd9a71e4475) |
-| Fri, 01 Aug 2025 20:13:52 GMT | How the $25B Palo Alto–CyberArk Deal Is Upending Cybersecurity and Identity | Deepak Gupta | [Read More](https://medium.com/p/8adb3135e0f2) |
-| Fri, 01 Aug 2025 20:00:03 GMT | The Silence Before The Explosion | Atila Tabani | [Read More](https://medium.com/p/0ef31f446b44) |
-| Fri, 01 Aug 2025 19:57:02 GMT | The Perils of Misconfigured IAM Roles: A Real Threat to Cloud Security | Great adeleke | [Read More](https://medium.com/p/4257fb8f2cc0) |
-| Fri, 01 Aug 2025 19:49:27 GMT | Omni-Path Integration Expertise Offered by Nor-Tech | Emma Lyons | [Read More](https://medium.com/p/e34a91f632f6) |
