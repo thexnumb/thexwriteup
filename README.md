@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 17:19:35 GMT | The Complete Guide to Agentic AI in Security Operations: How Autonomous SOC Agents Are… | Simbian.ai | [Read More](https://medium.com/p/8ffa3b1d4a58) |
+| Sat, 02 Aug 2025 17:19:01 GMT | Unlock $2.8 Million in Annual Savings: How AI SOC Agents Revolutionize Cybersecurity ROI | Simbian.ai | [Read More](https://medium.com/p/ec06907301d5) |
+| Sat, 02 Aug 2025 17:16:04 GMT | The Untapped Force Shaping the Future of Cybersecurity: Focus | Bodhisatya Mookherjee | [Read More](https://medium.com/p/681fbe9d4ab2) |
+| Sat, 02 Aug 2025 17:15:37 GMT | How I Reported a Major Privacy Loophole in ChatGPT’s Sharing Feature | LETCHU PKT | [Read More](https://medium.com/p/6bc4225d81b5) |
+| Sat, 02 Aug 2025 17:12:41 GMT | Top Snapchat Spy Apps for Teens’ Safety & Relationship Trust | Narjis Batool | [Read More](https://medium.com/p/42747aee7139) |
 | Sat, 02 Aug 2025 17:07:52 GMT | No Rate Limiting: My First Real Bug Bounty Find (At 17) | Ishaan Bansal | [Read More](https://medium.com/p/5a8641a2bb81) |
 | Sat, 02 Aug 2025 17:01:47 GMT | The Quantum Threat: Reshaping Cybersecurity in the Age of Supercomputing | Alae Meftah | [Read More](https://medium.com/p/ec3cbc257dc8) |
 | Sat, 02 Aug 2025 16:57:57 GMT | Are Cybersecurity Bootcamps Worth the Hype? | Aj | [Read More](https://medium.com/p/9c6080487990) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 12:36:40 GMT | Cybersecurity Details: Network Security: Guarding the Gates | Cyber Security Details | [Read More](https://medium.com/p/85f3f8ae7ee1) |
 | Sat, 02 Aug 2025 12:27:31 GMT | Day 69: Public exploits | Nile Okomo | [Read More](https://medium.com/p/9acbfb301324) |
 | Sat, 02 Aug 2025 12:22:44 GMT | PySpark for Cybersecurity Analytics: Scaling Threat Detection with Distributed Data Processing | Manan Grover | [Read More](https://medium.com/p/17aa9000cad9) |
-| Sat, 02 Aug 2025 12:15:53 GMT | The Invisible War Inside Your SaaS | echosso | [Read More](https://medium.com/p/b49485de0451) |
-| Sat, 02 Aug 2025 12:14:00 GMT | Why SOC Level 1? | Furkanctiner | [Read More](https://medium.com/p/fd4fa7e1a331) |
-| Sat, 02 Aug 2025 12:12:11 GMT | How Businesses in Hyderabad Can Protect Themselves from Cyber Threats | Giribabu V | [Read More](https://medium.com/p/7dbeedef4841) |
-| Sat, 02 Aug 2025 12:10:00 GMT | Why You should avoid dangerouslySetInnerHTML in React? | Prateeklohani | [Read More](https://medium.com/p/564592ad0381) |
-| Sat, 02 Aug 2025 12:07:14 GMT | The Ultimate Guide to Metasploit Framework: From Installation to Payload Creation | Cyberhawk Consultancy | [Read More](https://medium.com/p/b8639139c8d1) |
