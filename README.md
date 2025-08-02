@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 08:23:25 GMT | The Hardest Battle Is Within | metafosita | [Read More](https://medium.com/p/8fe77f41d104) |
+| Sat, 02 Aug 2025 08:17:28 GMT | Networking Essentials - Try Hack Me - Complete Walkthrough - A Beginner’s Guide to Network… | Avrodip Joy | [Read More](https://medium.com/p/2ff61e1859ae) |
+| Sat, 02 Aug 2025 08:13:16 GMT | 5 Real-Life Cybersecurity Breaches Everyone Should Know About | Sandhiya | [Read More](https://medium.com/p/aca6d6eb2ac7) |
+| Sat, 02 Aug 2025 08:04:04 GMT | ️ I Spent 72 Hours on the Dark Web — Here’s What No One Tells You | adityaax | [Read More](https://medium.com/p/9aa5273bce78) |
+| Sat, 02 Aug 2025 08:03:35 GMT | The Silence Between Drake’s Lyrics — Part 2.5 | Real-Talk | [Read More](https://medium.com/p/e83b7def8248) |
+| Sat, 02 Aug 2025 08:01:58 GMT | 5 Critical Mistakes to Avoid When Migrating to AWS Cloud: A Senior DevOps Engineer’s Playbook | Mohamed ElEmam | [Read More](https://medium.com/p/16be59faa939) |
+| Sat, 02 Aug 2025 08:01:58 GMT | INFOSEC: Windows 10 Host Security Project Challenges | Stephanie Chibueze | [Read More](https://medium.com/p/49185e762895) |
+| Sat, 02 Aug 2025 08:01:58 GMT | Hacking ChatGPT: A Time Bomb for Your Personal Data | ParlonsIA | [Read More](https://medium.com/p/c0cbd5e876db) |
+| Sat, 02 Aug 2025 08:01:29 GMT | Stealth Mode: 10 Bash Tricks to Stay Hidden While Hacking | Very Lazy Tech | [Read More](https://medium.com/p/6df8fdeabe3d) |
+| Sat, 02 Aug 2025 07:54:31 GMT | ¿Cuál me gusta más? CGOblin o gomulti_loader | Lazyown Redteam | [Read More](https://medium.com/p/6eb58f080269) |
+| Sat, 02 Aug 2025 07:52:30 GMT | Sygnia.co — a solid cybersecurity benchmark, definitely a company you can trust | 0trust0day | [Read More](https://medium.com/p/853e5cf95baf) |
+| Sat, 02 Aug 2025 07:51:12 GMT | Part 16 — How I Run My Entire Digital Life on a Raspberry Pi: True Remote Access Freedom via NGINX | Levente Csikor | [Read More](https://medium.com/p/1a222a489ad5) |
+| Sat, 02 Aug 2025 07:51:04 GMT | Spring Annotations vs. Express Middleware | rezauditore | [Read More](https://medium.com/p/4af5ac7017ee) |
+| Sat, 02 Aug 2025 07:47:33 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/3854ef2e357a) |
+| Sat, 02 Aug 2025 07:42:27 GMT | FortiGuard SOC-as-a-Service: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/732b2c842a0d) |
+| Sat, 02 Aug 2025 07:40:17 GMT | Home Lab Chronicles: Part 03 — High Availability (HA), CARP, pfSync and XMLRPC | Suprim Devkota | [Read More](https://medium.com/p/40c612f09b79) |
+| Sat, 02 Aug 2025 07:34:37 GMT | The Silent Performance: Liberating Men from the “Actor” Role in Their Emotional Lives - Part 2 | Real-Talk | [Read More](https://medium.com/p/9c8a88a4e2ee) |
 | Sat, 02 Aug 2025 07:26:49 GMT | My Weirdest Discovery in a Pentest | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/86f861c8141d) |
 | Sat, 02 Aug 2025 07:26:47 GMT | Digital Shield Hardware Wallet and EAL6+: Why This Chip Matters for Your Crypto Security | Digital Shield | [Read More](https://medium.com/p/b98b178eccb9) |
 | Sat, 02 Aug 2025 07:19:36 GMT | DO NOT CLICK  Avoid Online Scams: Free Redirect Checker Tool | Krivadna | [Read More](https://medium.com/p/f3f1a431be6f) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 Aug 2025 23:21:17 GMT | XXE Vulnerability: কী, কেন, এবং কিভাবে এটি অ্যাটাক হয়? | Ayshee | [Read More](https://medium.com/p/c0cf70c1741e) |
 | Fri, 01 Aug 2025 23:09:32 GMT | Smart Phishing Scams Are Now Changing Tactics in Real Time. Can Your Defenses Keep Up? | Akshay Chauhan | [Read More](https://medium.com/p/90324173f81f) |
 | Fri, 01 Aug 2025 23:03:48 GMT | Fileless Malware: A Growing Threat | Cyber Security Details | [Read More](https://medium.com/p/25bcfac2897a) |
-| Fri, 01 Aug 2025 23:02:57 GMT | Zero-Day Vulnerability Management | Cyber Security Details | [Read More](https://medium.com/p/3542090b35c8) |
-| Fri, 01 Aug 2025 22:56:20 GMT | My Vows to You | Lisa and Kyle | [Read More](https://medium.com/p/42a3ca716783) |
-| Fri, 01 Aug 2025 22:55:14 GMT | AI with Cyber security | Jayasri Vijayakumar | [Read More](https://medium.com/p/aaa256d434f2) |
-| Fri, 01 Aug 2025 22:52:39 GMT | From Vulnerability to Visibility: Managing Server Security with SecuMS and OmniGuard | Ramadhana Khalaf Sandhyakala | [Read More](https://medium.com/p/484ada85a712) |
-| Fri, 01 Aug 2025 22:51:16 GMT | Don’t Browse Unprotected: Why a VPN is an Essential Tool for Your Digital Life | Szabolcs Záhorszki | [Read More](https://medium.com/p/7127c878f2e3) |
-| Fri, 01 Aug 2025 22:45:49 GMT | McDonald’s AI Chatbot Data Leak: A No-Code Developer’s Wake-Up Call | Sobemekun Oluwadamilare Matthew | [Read More](https://medium.com/p/bc54fbc85d88) |
-| Fri, 01 Aug 2025 22:29:43 GMT | Data Security in the AI Era: Why Protecting Data Is About Access, Not Isolation | Juan Pablo Castro | [Read More](https://medium.com/p/0f83a8109c22) |
-| Fri, 01 Aug 2025 22:27:54 GMT | An Introduction to Bug Bounty Hunting | Cyber Security Details | [Read More](https://medium.com/p/5329ddaf2dc0) |
-| Fri, 01 Aug 2025 22:23:40 GMT | How to Build a Cybersecurity Home Lab | Cyber Security Details | [Read More](https://medium.com/p/f04794cd3f4a) |
-| Fri, 01 Aug 2025 22:17:58 GMT | Day 6/1 000-Day SOC Mastery | Reda  kiker | [Read More](https://medium.com/p/bba17a2f5dcd) |
-| Fri, 01 Aug 2025 22:16:38 GMT | Detecting Account Takeover in Real Time | Karthikeyan Nagaraj | [Read More](https://medium.com/p/81466a2d7b40) |
-| Fri, 01 Aug 2025 22:14:03 GMT | Local File Inclusion Double encoding @ Root-me Walkthrough | Amr Elharery | [Read More](https://medium.com/p/61da1808e723) |
-| Fri, 01 Aug 2025 22:12:55 GMT | TryHackMe “Silver Platter” CTF
-Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/dd212c1fc768) |
-| Fri, 01 Aug 2025 22:07:28 GMT | TryHackMe Pre Security 101 — Offensive Security Intro | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/6b9ab6525cfc) |
-| Fri, 01 Aug 2025 22:03:23 GMT | Article 1:  Why I’m Learning Offensive Security for 365 Days – My #365ToOffSec Challenge | DERR | [Read More](https://medium.com/p/aac5bf1f607e) |
-| Fri, 01 Aug 2025 22:02:39 GMT | Top Cybersecurity Certifications (CISSP, Security+, OSCP) | Cyber Security Details | [Read More](https://medium.com/p/84606c51a072) |
-| Fri, 01 Aug 2025 21:53:30 GMT | The Algorithmic Pandemic: How Smart Devices Are Re-Wiring Our Well-Being | Chris Ford | [Read More](https://medium.com/p/2b286d2a52d5) |
