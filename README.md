@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 19:09:20 GMT | My First Steps into the World of Cybersecurity | KARIM QASIR | [Read More](https://medium.com/p/b27c55be2f55) |
+| Sat, 02 Aug 2025 19:06:43 GMT | From a Boring Engagement to Uncovering a High Severity CVE | m3m0o | [Read More](https://medium.com/p/6ed52b5f618f) |
+| Sat, 02 Aug 2025 19:05:39 GMT | Mastering Network Reconnaissance: My Journey with Nmap | Robert Perez | [Read More](https://medium.com/p/5afc62939324) |
+| Sat, 02 Aug 2025 19:03:34 GMT | Cyber Defense 101 with Cyber Kill Chain | Mudassir Syed | [Read More](https://medium.com/p/475d546e4f3f) |
+| Sat, 02 Aug 2025 19:02:13 GMT | RoomShield Protocol – Declaration 003 | RoomShield Protocol | [Read More](https://medium.com/p/36a3f8223ea7) |
+| Sat, 02 Aug 2025 19:01:53 GMT | Start your own website | Zen | [Read More](https://medium.com/p/47bb8d27686c) |
+| Sat, 02 Aug 2025 19:00:56 GMT | Cracking OverTheWire Bandit: Levels 6 to 11 — Walkthrough & Commands | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/58c5f2aa67f1) |
+| Sat, 02 Aug 2025 18:59:17 GMT | How Anyone Can Become a Hacker Who Changes History (Legally and Ethically) | H3X | [Read More](https://medium.com/p/64ba68a77b32) |
+| Sat, 02 Aug 2025 18:54:22 GMT | Defending Against Prompt Injection: Safeguarding Your AI Conversations | Sainadh Ainala | [Read More](https://medium.com/p/1017ce62473b) |
+| Sat, 02 Aug 2025 18:47:35 GMT | ️ Will AI Replace Cybersecurity Jobs — or Create Better Ones? | Asanda Zibane | [Read More](https://medium.com/p/9c03d3ab5027) |
+| Sat, 02 Aug 2025 18:42:54 GMT | I Couldn’t Connect My MySQL Server to Workbench — Here’s How I Fixed It | Adanna_io | [Read More](https://medium.com/p/ae36d1bc2fd1) |
+| Sat, 02 Aug 2025 18:42:46 GMT | Part 1: Malware — Origins & Evolution | Sammcmullen | [Read More](https://medium.com/p/090117e85634) |
+| Sat, 02 Aug 2025 18:41:51 GMT | Phishing: The Alarming Reality Behind Today’s Biggest Data Breaches | Obaid Naseer | [Read More](https://medium.com/p/66a0fa363497) |
+| Sat, 02 Aug 2025 18:31:39 GMT | How I set up IAM with AWS - Nextwork Cloud Security Project - AWS Beginner Series | Angie | [Read More](https://medium.com/p/8bc3da69aeff) |
+| Sat, 02 Aug 2025 18:26:35 GMT | ️ JavaScript Recon via GitHub: Finding Secrets Before You Even Hit the App | Narendar Battula (nArEn) | [Read More](https://medium.com/p/cb88e36bc0d7) |
 | Sat, 02 Aug 2025 18:17:13 GMT | Social Identity and Political Mobilization in Cyberspace | Ellereem | [Read More](https://medium.com/p/efcbc2c650fe) |
 | Sat, 02 Aug 2025 18:17:09 GMT | ️ Sinhala-English Guide to Reconnaissance Tools in Ethical Hacking (Practical Examples) | Ruwan Sanjeewa | [Read More](https://medium.com/p/d8376907eb3b) |
 | Sat, 02 Aug 2025 18:13:10 GMT | “Push to Pwn: Hacking GitHub Like a Pro — The Ultimate OSINT + CI/CD Exploitation Playbook” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/089fff02fa9a) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 13:52:58 GMT | RED DA Cybersecurity & EN 18031: A Short Guide for Manufacturers | Simon Stampfl | [Read More](https://medium.com/p/6aa89ae176a8) |
 | Sat, 02 Aug 2025 13:47:26 GMT | Why Every American Needs a Power-Free Home Security Backup (Especially Now) | Survival Gear | [Read More](https://medium.com/p/625f72db151d) |
 | Sat, 02 Aug 2025 13:40:56 GMT | Securing the Future: How Zero Trust Architectures Must Evolve Against Deepfake Threats and Quantum… | Anish sharma | [Read More](https://medium.com/p/b82167143fb5) |
-| Sat, 02 Aug 2025 13:38:45 GMT | HTB Academy Web Attacks — Skills Assessment Walkthrough | Noorbnhossam | [Read More](https://medium.com/p/e64cacd7d726) |
-| Sat, 02 Aug 2025 13:38:08 GMT | Oops! When DevOps Becomes “DevOops”: $44M Crypto Hack | CtrlC3 | [Read More](https://medium.com/p/d9e3eea8b1de) |
-| Sat, 02 Aug 2025 13:38:07 GMT | The "god of forces" mentioned in Daniel 11:38-39 could be interpreted in various ways, including a… | Darren Robert Brown | [Read More](https://medium.com/p/8fef475e8f3b) |
-| Sat, 02 Aug 2025 13:36:37 GMT | “Was this an attack?” — Decoding the Paranoia (and Maybe the Truth) | Authlyn | [Read More](https://medium.com/p/3a2f8d813312) |
-| Sat, 02 Aug 2025 13:34:36 GMT | SiberGüvenlik Sertifikaları ve Eğitimler | Mustafa Gunay | [Read More](https://medium.com/p/bd33f1ddeb16) |
-| Sat, 02 Aug 2025 13:31:21 GMT | The Act of Open Source Intelligence (OSINT) | Mgbada Nelson | [Read More](https://medium.com/p/dd3a6656ce40) |
-| Sat, 02 Aug 2025 13:30:01 GMT | Subdomain Enumeration Like a Pro — Complete Step-by-Step Guide (2025 Edition) | Rajesh Kumar | [Read More](https://medium.com/p/692becbf2522) |
-| Sat, 02 Aug 2025 13:28:47 GMT | Managing Common Cybersecurity Threats, Risks, and Vulnerabilities | Ferdi Karakurt | [Read More](https://medium.com/p/59648640de73) |
-| Sat, 02 Aug 2025 13:09:38 GMT | Grid-scale Sodium-ion Battery | S. W. Lawrence, MD | [Read More](https://medium.com/p/13d7620576d9) |
-| Sat, 02 Aug 2025 13:05:26 GMT | Tools Every Penetration Tester Must Build Themselves | sudo whoami | [Read More](https://medium.com/p/6ee53ffb7680) |
-| Sat, 02 Aug 2025 13:00:30 GMT | 8 Security Domains Every Cybersecurity Analyst Should Know | Ferdi Karakurt | [Read More](https://medium.com/p/b8f0aa608fd5) |
-| Sat, 02 Aug 2025 12:51:58 GMT | Mission App Possible : An Enterprise Security Story | sumit sharma | [Read More](https://medium.com/p/71115405d3f7) |
-| Sat, 02 Aug 2025 12:51:16 GMT | Search Engines Indexing ChatGPT shared Chats | Vaasudev | [Read More](https://medium.com/p/5308464a8bbb) |
-| Sat, 02 Aug 2025 12:49:08 GMT | Title: Tech Trifecta: AI, Green Energy, and Smart Cities as Levers of Leap | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/68696d2246db) |
-| Sat, 02 Aug 2025 12:49:01 GMT | AS-REP Roasting Attack: Exploiting Kerberos Without Pre-Authentication | Ahmed Badry | [Read More](https://medium.com/p/37a2aa7499be) |
