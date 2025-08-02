@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 19:36:34 GMT | Securing LLM-Native Cloud Applications | Above The Firewall | [Read More](https://medium.com/p/51d83c981511) |
+| Sat, 02 Aug 2025 19:35:26 GMT | Client-Side Lies: Hacking the Logic Behind PortSwigger’s Business Flaw Lab | Ishtiyak  Surve | [Read More](https://medium.com/p/30da3638d0b3) |
+| Sat, 02 Aug 2025 19:29:39 GMT | Part8: Mastering Network Security: In-Depth Concepts, Threats & Defenses | White Panther | [Read More](https://medium.com/p/a181018cc0d0) |
+| Sat, 02 Aug 2025 19:24:38 GMT | DAY 33 — CTF #7: Signal in Static | Jinay | [Read More](https://medium.com/p/5ac789e4c3b6) |
+| Sat, 02 Aug 2025 19:22:12 GMT | Cybersecurity — Discover the Top 3 Career & Earnings Growth Strategies for 2025 | Franklin Rhodes | [Read More](https://medium.com/p/b3be9233d460) |
 | Sat, 02 Aug 2025 19:09:20 GMT | My First Steps into the World of Cybersecurity | KARIM QASIR | [Read More](https://medium.com/p/b27c55be2f55) |
+| Sat, 02 Aug 2025 19:06:56 GMT | The Shadow Architect: How Qatar’s Ideological Strategist Forged the Modern Islamist Playbook In… | Omar Omarson | [Read More](https://medium.com/p/1fcdec23f7f9) |
 | Sat, 02 Aug 2025 19:06:43 GMT | From a Boring Engagement to Uncovering a High Severity CVE | m3m0o | [Read More](https://medium.com/p/6ed52b5f618f) |
 | Sat, 02 Aug 2025 19:05:39 GMT | Mastering Network Reconnaissance: My Journey with Nmap | Robert Perez | [Read More](https://medium.com/p/5afc62939324) |
 | Sat, 02 Aug 2025 19:03:34 GMT | Cyber Defense 101 with Cyber Kill Chain | Mudassir Syed | [Read More](https://medium.com/p/475d546e4f3f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 14:13:31 GMT | Regional Development: Sabah, Sarawak & the Tech North | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/5d605e8e686d) |
 | Sat, 02 Aug 2025 14:06:11 GMT | Basic Pentesting 1 in 3 Different Ways A Beginner-Friendly Guide | SACHIN PV | [Read More](https://medium.com/p/156908690fee) |
 | Sat, 02 Aug 2025 14:04:17 GMT | ️ Dive Into Hacking, Virtual Machines, Linux & Networking — A Beginner’s Guide | Aryaajay | [Read More](https://medium.com/p/00702fe1c643) |
-| Sat, 02 Aug 2025 14:02:33 GMT | WARNING ⛔️ : Never Use Free WiFi—Don’t Connect to Public Wi-Fi With Your Mobile Phones | Shahzaib | [Read More](https://medium.com/p/27a0cf09b638) |
-| Sat, 02 Aug 2025 13:58:13 GMT | As a non-cyber person. Have you heard about “Dark Web Monitoring”? | Noussayr Derbel | [Read More](https://medium.com/p/9f6012efd5d3) |
-| Sat, 02 Aug 2025 13:57:06 GMT | Secure Coding Part 7: Command Injection — Attack (Python) — shell=True | Siddiquimohammad | [Read More](https://medium.com/p/8cf5e04ba09b) |
-| Sat, 02 Aug 2025 13:52:58 GMT | RED DA Cybersecurity & EN 18031: A Short Guide for Manufacturers | Simon Stampfl | [Read More](https://medium.com/p/6aa89ae176a8) |
-| Sat, 02 Aug 2025 13:47:26 GMT | Why Every American Needs a Power-Free Home Security Backup (Especially Now) | Survival Gear | [Read More](https://medium.com/p/625f72db151d) |
-| Sat, 02 Aug 2025 13:40:56 GMT | Securing the Future: How Zero Trust Architectures Must Evolve Against Deepfake Threats and Quantum… | Anish sharma | [Read More](https://medium.com/p/b82167143fb5) |
