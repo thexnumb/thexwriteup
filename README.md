@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 14:43:34 GMT | INFIDELITY CONCERNS. HOW I KNEW I WAS WITH A CHEATING PARTNER | Poz Cajorla | [Read More](https://medium.com/p/9b401c73b0bd) |
+| Sat, 02 Aug 2025 14:38:18 GMT | No Power, No Problem: How I Secured My Home with the Anti-Looter Kit in 48 Hours | Survival Gear | [Read More](https://medium.com/p/e444bbd3ad3b) |
+| Sat, 02 Aug 2025 14:33:17 GMT | The best five ai tools make sure you don’t miss it . | Ashish Samudrala | [Read More](https://medium.com/p/73ba8438735c) |
+| Sat, 02 Aug 2025 14:31:50 GMT | You know that feeling when you’re debugging production at 2 AM and suddenly wonder, “Wait, when did… | Solo Recon | [Read More](https://medium.com/p/20bd86b5093a) |
+| Sat, 02 Aug 2025 14:28:21 GMT | CYBER GHOSTS Hackers — OSINT, Red Teaming & Ethical Hacking by ALPHA | CYBER GHOSTS | [Read More](https://medium.com/p/d03d5bfc2094) |
+| Sat, 02 Aug 2025 14:26:51 GMT | Investigating X Profiles and Posts Using Grok AI | Bank Security | [Read More](https://medium.com/p/91157776783e) |
+| Sat, 02 Aug 2025 14:23:03 GMT | What Is Zero Trust Security? | Osamamurtaza | [Read More](https://medium.com/p/197075b4c238) |
+| Sat, 02 Aug 2025 14:18:20 GMT | AI Is Not the Enemy: What the Future of Human-AI Collaboration Looks Like | DARWIN NENSON | [Read More](https://medium.com/p/87489e0f7438) |
 | Sat, 02 Aug 2025 14:15:23 GMT | The Silent Risk in Your ICS: Why S7 Protocol Needs Security Attention | Azim Uddin | [Read More](https://medium.com/p/d30cdad1da43) |
 | Sat, 02 Aug 2025 14:14:13 GMT | Guide to Windows Privilege Escalation through Insecure Windows Service Permissions. | Muhammadhuzaifa | [Read More](https://medium.com/p/0d0dcff72e64) |
+| Sat, 02 Aug 2025 14:14:07 GMT | The Weight She Carried / 母が背負った重み | Weave Poetry | [Read More](https://medium.com/p/d9896b4a48bb) |
 | Sat, 02 Aug 2025 14:13:31 GMT | Regional Development: Sabah, Sarawak & the Tech North | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/5d605e8e686d) |
 | Sat, 02 Aug 2025 14:06:11 GMT | Basic Pentesting 1 in 3 Different Ways A Beginner-Friendly Guide | SACHIN PV | [Read More](https://medium.com/p/156908690fee) |
 | Sat, 02 Aug 2025 14:04:17 GMT | ️ Dive Into Hacking, Virtual Machines, Linux & Networking — A Beginner’s Guide | Aryaajay | [Read More](https://medium.com/p/00702fe1c643) |
@@ -106,12 +115,3 @@ SAFEGUARDING THE GOSPEL IN THE DIGITAL AGE | Mcloxyventures | [Read More](https:
 | Sat, 02 Aug 2025 09:08:43 GMT | TryHackMe Pre Security 101 — Defensive Security Intro | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/60d53189fa9e) |
 | Sat, 02 Aug 2025 09:02:07 GMT | Cybersecurity in the Legal Dimension: Digital Forensics, Legal Holds, and E-Discovery | Richard Dosumu | [Read More](https://medium.com/p/0f4c82a6cb90) |
 | Sat, 02 Aug 2025 09:00:51 GMT | The Fundamentals of Information Gathering in Pentesting | Dhanush S | [Read More](https://medium.com/p/c0d5028e00ad) |
-| Sat, 02 Aug 2025 09:00:15 GMT | Reasons You’re Not Receiving JWT Tokens and How to Fix It in Spring Security | Anh Trần Tuấn | [Read More](https://medium.com/p/f9cfeb7678c4) |
-| Sat, 02 Aug 2025 09:00:12 GMT | Reasons You’re Not Receiving JWT Tokens and How to Fix It in Spring Security | Anh Trần Tuấn | [Read More](https://medium.com/p/19ba2c5dd728) |
-| Sat, 02 Aug 2025 08:58:07 GMT | Expert Lecture 1 Journal | Brisbane Jovan Rivaldi Sihombing | [Read More](https://medium.com/p/530ae63b26bb) |
-| Sat, 02 Aug 2025 08:54:49 GMT | Home Lab Chronicles: Part 04 — Zenarmor integration | Suprim Devkota | [Read More](https://medium.com/p/24d087fbddac) |
-| Sat, 02 Aug 2025 08:46:38 GMT | Kali Linux Practice Exam for Ethical Hackers — Your 2025 Guide to Pentesting Prep | Daywalkernyc | [Read More](https://medium.com/p/a56072322531) |
-| Sat, 02 Aug 2025 08:45:52 GMT | My First Medium Post | KCS | [Read More](https://medium.com/p/eba973d6e591) |
-| Sat, 02 Aug 2025 08:37:28 GMT | How to Stay Anonymous Online : Protect Your Online Identity in 2025 | Anirudh PV | [Read More](https://medium.com/p/18fdcd64b6cd) |
-| Sat, 02 Aug 2025 08:31:10 GMT | Top 5 Teen Chat Sites in 2025 (With Safety Ratings) | FreeTeenChat | [Read More](https://medium.com/p/7d49984fc5a0) |
-| Sat, 02 Aug 2025 08:23:25 GMT | The Hardest Battle Is Within | metafosita | [Read More](https://medium.com/p/8fe77f41d104) |
