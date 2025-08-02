@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 06:18:21 GMT | Cloud Storage vs. Cloud Computing: What’s the Difference? | Masaab Elahi | [Read More](https://medium.com/p/16c3f1aed1b2) |
+| Sat, 02 Aug 2025 06:17:49 GMT | Matthew Rosenquist Joins MindShield Advisory Board | Matthew.Rosenquist | [Read More](https://medium.com/p/c8f53512178f) |
+| Sat, 02 Aug 2025 06:04:27 GMT | Advanced Burp Suite Practical Guide: Real-World Web App Pentesting | Paritosh | [Read More](https://medium.com/p/cde171611f6b) |
+| Sat, 02 Aug 2025 06:00:33 GMT | Today’s Top Cyber Intelligence Highlights — Aug 02, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/568790e6ed13) |
+| Sat, 02 Aug 2025 05:55:33 GMT | Practice these Questions for the Google Cloud Professional Cloud Security Engineer Certification… | Sachin Sharma - Lead DevOps Engineer | [Read More](https://medium.com/p/0e875e34f633) |
+| Sat, 02 Aug 2025 05:53:30 GMT | "Can You Really Hack Facebook? The Truth from an Ethical Hacker’s Perspective" | Md Habibur Rahman | [Read More](https://medium.com/p/c110fc9b890d) |
+| Sat, 02 Aug 2025 05:50:52 GMT | The Technomancer’s Last Season: A Love Letter to the Wild Internet | lukas langsadl | [Read More](https://medium.com/p/6f4c5977e106) |
+| Sat, 02 Aug 2025 05:50:52 GMT | The Windows Concept Journey — WAC (Windows Admin Center) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f513c8111419) |
+| Sat, 02 Aug 2025 05:48:07 GMT | “Not all hackers wear hoodies in the dark. Some wear badges and protect you.” | Md Habibur Rahman | [Read More](https://medium.com/p/91b5351c9a04) |
+| Sat, 02 Aug 2025 05:44:56 GMT | Reliable Security Solutions Company in UAE for Future-Ready Businesses | Tekshoyabeelyas | [Read More](https://medium.com/p/2f3f8fcd66da) |
+| Sat, 02 Aug 2025 05:39:20 GMT | AI Agents, Clearly Explained | Bilal Faisal | [Read More](https://medium.com/p/ccd8e2e4421d) |
+| Sat, 02 Aug 2025 05:36:58 GMT | How NISTIR 8286 Helps You Connect Cybersecurity and Business Risk | Kambetastephano | [Read More](https://medium.com/p/8c1d51ce90bc) |
+| Sat, 02 Aug 2025 05:35:33 GMT | Top PHP Security Tricks No One’s Using (But Should Be) | Asian Digital Hub | [Read More](https://medium.com/p/cccc1605dcf2) |
+| Sat, 02 Aug 2025 05:34:20 GMT | Self-Healing Smart Contracts: The Future of Secure Blockchain Automation | Recover Right | [Read More](https://medium.com/p/9cc05220d409) |
+| Sat, 02 Aug 2025 05:31:53 GMT | CISA Launches Thorium: A Public Malware Analysis Platform | Dhruvdeep Singh | [Read More](https://medium.com/p/6a1d80c5558f) |
+| Sat, 02 Aug 2025 05:29:13 GMT | How I found PII leak in Hotstar and earned a swag | DEep | [Read More](https://medium.com/p/03b12940fbf3) |
 | Sat, 02 Aug 2025 05:29:04 GMT | How to Fix /usr/bin/kali: line 35: -c: command not found on NetHunter | Dinesh Pathro | [Read More](https://medium.com/p/ff1e3d9e9e43) |
+| Sat, 02 Aug 2025 05:24:28 GMT | Are AWS private link and VPC interface endpoints different concepts or the same? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/572a83138db8) |
 | Sat, 02 Aug 2025 05:20:17 GMT | Top Cybersecurity Awareness Tips To Protect Your Digital World | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/ce35ee4f9d12) |
 | Sat, 02 Aug 2025 05:19:49 GMT | From Qubits to Creation | Gonzalo Florez Giraldo | [Read More](https://medium.com/p/18d4a124db25) |
 | Sat, 02 Aug 2025 05:14:40 GMT | What Went Wrong at SingHealth in 2018 breach? A Cybersecurity Audit Perspective | Jadala Ajay | [Read More](https://medium.com/p/fe2a2dfed386) |
@@ -96,20 +113,3 @@ Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/
 | Fri, 01 Aug 2025 21:21:47 GMT | DAY 32 — Python Scripting Basics for Cybersecurity | Jinay | [Read More](https://medium.com/p/180d26ecafb4) |
 | Fri, 01 Aug 2025 21:21:39 GMT | Unlocking the Power of /proc/self/fd/ in Linux: From Basics to Exploits and Prevention | Zoningxtr | [Read More](https://medium.com/p/f58d2202b129) |
 | Fri, 01 Aug 2025 21:19:39 GMT | Letter 03 — “August 8, 2025” | Moshii_echoes | [Read More](https://medium.com/p/204055f2feda) |
-| Fri, 01 Aug 2025 21:19:36 GMT | Turn LFI into RCE Using /proc/self/ — A Deep Dive for Pentesters | Zoningxtr | [Read More](https://medium.com/p/cb59dbec15c2) |
-| Fri, 01 Aug 2025 21:17:39 GMT | Xilos: A Definitive Answer to the Shadow AI Crisis | Mill Pond Research | [Read More](https://medium.com/p/4793463779ec) |
-| Fri, 01 Aug 2025 21:16:02 GMT | The SharePoint exploit that breached U.S. Nuke Systems (and why devs should care) | <devtips/> | [Read More](https://medium.com/p/b8b4945eb2b5) |
-| Fri, 01 Aug 2025 21:09:16 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/0e7e01415f9c) |
-| Fri, 01 Aug 2025 21:08:48 GMT | security services One Step Security | Albertcooley | [Read More](https://medium.com/p/54b50b90f9a5) |
-| Fri, 01 Aug 2025 20:51:30 GMT | Il mio paradosso: voglia di essere visto, timore di essere compreso | J1C | [Read More](https://medium.com/p/c41d94f5b0c8) |
-| Fri, 01 Aug 2025 20:46:54 GMT | Cyber Starting Your Cybersecurity Journey: A Call to Action for Future Defenders | Ebusingye | [Read More](https://medium.com/p/d081a8d7e133) |
-| Fri, 01 Aug 2025 20:42:32 GMT | Faking It. | Cindy Kaplan | [Read More](https://medium.com/p/a4cd83968759) |
-| Fri, 01 Aug 2025 20:41:27 GMT | From a Curious Student to a Cybersecurity Enthusiast: My Journey | Yash Katiyara | [Read More](https://medium.com/p/604343315a8a) |
-| Fri, 01 Aug 2025 20:40:43 GMT | Footprinting HTB — FTP, SMB | Mkirahmet | [Read More](https://medium.com/p/50edc083ead9) |
-| Fri, 01 Aug 2025 20:38:52 GMT | Securing Spring Boot with Kotlin | Romman Sabbir | [Read More](https://medium.com/p/11b20cb11d16) |
-| Fri, 01 Aug 2025 20:34:27 GMT | WHAT IS THE DIFFERENCE BETWEEN IOC AND IOA | JahdiSec | [Read More](https://medium.com/p/507300951976) |
-| Fri, 01 Aug 2025 20:33:57 GMT | OpenAI Data Leakage: When AI Chats Go Public | Anatoliy Fedorenko | [Read More](https://medium.com/p/d3e07c680a10) |
-| Fri, 01 Aug 2025 20:29:59 GMT | Let’s Defend: 314 — SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) -… | EPereda | [Read More](https://medium.com/p/8e5aa721e64b) |
-| Fri, 01 Aug 2025 20:29:54 GMT | Let’s Defend: 316 — SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing - Writeup | EPereda | [Read More](https://medium.com/p/86ba08d0e71f) |
-| Fri, 01 Aug 2025 20:28:13 GMT | Irish-Name-Repo 1 — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/f2e8ddc3db74) |
-| Fri, 01 Aug 2025 20:21:00 GMT | Nmap : Ağınızın Görünmez Kısımlarını Ortaya Çıkaran “Dijital MRI” Cihazınız ️ | Berdan Mut | [Read More](https://medium.com/p/ecd9a71e4475) |
