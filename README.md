@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 15:36:55 GMT | DockerLabs Writeup — AguaDeMayo (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/71776c70cd87) |
+| Sat, 02 Aug 2025 15:21:40 GMT | ✉️SMTP Enumeration: The Ethical Hacker’s Guide to Uncovering Email Vulnerabilities | Rajkumar Kumawat | [Read More](https://medium.com/p/efc85ae0a563) |
+| Sat, 02 Aug 2025 15:20:37 GMT | It Took Me 10 Minutes to Find an BAC Vulnerability $$$ That Exposed Every Users Profiles . | Mufij Topinkatti | [Read More](https://medium.com/p/8fcaa192fd20) |
+| Sat, 02 Aug 2025 15:18:58 GMT | AI Cyber Attacks And A New Age Of Digital Threats | SteveMC | [Read More](https://medium.com/p/931240c4378f) |
 | Sat, 02 Aug 2025 15:16:46 GMT | 8 Powerful Visuals To Transform Your Mindset | Vijay Kumar Gupta | [Read More](https://medium.com/p/967ec2bcb816) |
 | Sat, 02 Aug 2025 15:12:38 GMT | Cybersecurity Details: Blockchain Security: Immutable Ledgers | Cyber Security Details | [Read More](https://medium.com/p/43e4cf46e9bc) |
 | Sat, 02 Aug 2025 15:10:01 GMT | Cybersecurity Details: Artificial Intelligence in Cybersecurity: A Double-Edged Sword | Cyber Security Details | [Read More](https://medium.com/p/6ce1689f15ba) |
@@ -111,7 +115,3 @@ A Technical Risk Audit Based on Real-World Use Cases | Tech Nest | [Read More](h
 IN DIGITAL EVANGELISM:
 SAFEGUARDING THE GOSPEL IN THE DIGITAL AGE | Mcloxyventures | [Read More](https://medium.com/p/477ab94d0da0) |
 | Sat, 02 Aug 2025 10:25:03 GMT | Scalability by Design: How to Build Apps That Grow and Handle Millions | Natarajan C K | [Read More](https://medium.com/p/8f5303443bc1) |
-| Sat, 02 Aug 2025 10:23:24 GMT | Quranium ($QRN): Believe in Something That Lasts. | Bright Mmaduabuchi | [Read More](https://medium.com/p/8504ac8c689e) |
-| Sat, 02 Aug 2025 10:14:58 GMT | Top 10 Cybersecurity Threats in 2025 & How to Prevent Them | Paliwalnishtha | [Read More](https://medium.com/p/abfd88b25ed1) |
-| Sat, 02 Aug 2025 10:07:22 GMT | The Future of Cybersecurity: AI-Powered Threat Detection in 2025 | Win In Life Academy | [Read More](https://medium.com/p/7e1bd4019263) |
-| Sat, 02 Aug 2025 09:59:25 GMT | Diploma vs Certification in Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/9549c8547f68) |
