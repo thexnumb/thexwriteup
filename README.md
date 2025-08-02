@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 20:21:31 GMT | The Hard Truth: Even the Best Admin Can’t Protect You Alone | Evgeny Ermakov | [Read More](https://medium.com/p/614e3cae1439) |
+| Sat, 02 Aug 2025 20:10:03 GMT | Part9 : The Complete Guide to Wireless Networks: Standards, Technologies, and Applications | White Panther | [Read More](https://medium.com/p/d74a341ac5d1) |
+| Sat, 02 Aug 2025 20:09:28 GMT | TryHackMe — VulnNet: Roasted | ruruuu | [Read More](https://medium.com/p/8df3064fd0a8) |
+| Sat, 02 Aug 2025 20:02:26 GMT | Title: The Beauty of Programming | Prosper Opara | [Read More](https://medium.com/p/4f00f20cd20a) |
+| Sat, 02 Aug 2025 20:01:45 GMT | CyberSecStats #23 — Monthly cybersecurity statistics round-up (June/July 2025) | CyberSecStats | [Read More](https://medium.com/p/5efe0497bd15) |
+| Sat, 02 Aug 2025 19:57:44 GMT | The Cyber Security Podcasts everyone should be listening to! | SecBySam | [Read More](https://medium.com/p/68d7abbfea3a) |
+| Sat, 02 Aug 2025 19:38:59 GMT | Beyond Port Scanning: My Deep Dive into Service Footprinting and Enumeration | Robert Perez | [Read More](https://medium.com/p/09d2322be246) |
 | Sat, 02 Aug 2025 19:36:34 GMT | Securing LLM-Native Cloud Applications | Above The Firewall | [Read More](https://medium.com/p/51d83c981511) |
 | Sat, 02 Aug 2025 19:35:26 GMT | Client-Side Lies: Hacking the Logic Behind PortSwigger’s Business Flaw Lab | Ishtiyak  Surve | [Read More](https://medium.com/p/30da3638d0b3) |
 | Sat, 02 Aug 2025 19:29:39 GMT | Part8: Mastering Network Security: In-Depth Concepts, Threats & Defenses | White Panther | [Read More](https://medium.com/p/a181018cc0d0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 14:28:21 GMT | CYBER GHOSTS Hackers — OSINT, Red Teaming & Ethical Hacking by ALPHA | CYBER GHOSTS | [Read More](https://medium.com/p/d03d5bfc2094) |
 | Sat, 02 Aug 2025 14:26:51 GMT | Investigating X Profiles and Posts Using Grok AI | Bank Security | [Read More](https://medium.com/p/91157776783e) |
 | Sat, 02 Aug 2025 14:23:03 GMT | What Is Zero Trust Security? | Osamamurtaza | [Read More](https://medium.com/p/197075b4c238) |
-| Sat, 02 Aug 2025 14:18:20 GMT | AI Is Not the Enemy: What the Future of Human-AI Collaboration Looks Like | DARWIN NENSON | [Read More](https://medium.com/p/87489e0f7438) |
-| Sat, 02 Aug 2025 14:15:23 GMT | The Silent Risk in Your ICS: Why S7 Protocol Needs Security Attention | Azim Uddin | [Read More](https://medium.com/p/d30cdad1da43) |
-| Sat, 02 Aug 2025 14:14:13 GMT | Guide to Windows Privilege Escalation through Insecure Windows Service Permissions. | Muhammadhuzaifa | [Read More](https://medium.com/p/0d0dcff72e64) |
-| Sat, 02 Aug 2025 14:14:07 GMT | The Weight She Carried / 母が背負った重み | Weave Poetry | [Read More](https://medium.com/p/d9896b4a48bb) |
-| Sat, 02 Aug 2025 14:13:31 GMT | Regional Development: Sabah, Sarawak & the Tech North | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/5d605e8e686d) |
-| Sat, 02 Aug 2025 14:06:11 GMT | Basic Pentesting 1 in 3 Different Ways A Beginner-Friendly Guide | SACHIN PV | [Read More](https://medium.com/p/156908690fee) |
-| Sat, 02 Aug 2025 14:04:17 GMT | ️ Dive Into Hacking, Virtual Machines, Linux & Networking — A Beginner’s Guide | Aryaajay | [Read More](https://medium.com/p/00702fe1c643) |
