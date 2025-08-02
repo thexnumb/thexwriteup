@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 04:48:24 GMT | Securing Your Applications with AWS WAF and Load Balancer: A Complete Guide | Averageguymedianow | [Read More](https://medium.com/p/44a307e56b46) |
+| Sat, 02 Aug 2025 04:46:34 GMT | Zero Trust Security: Why Implicit Trust is Dead in Corporate Networks | Paran | [Read More](https://medium.com/p/7a3fb822dcab) |
+| Sat, 02 Aug 2025 04:45:39 GMT | Cyber Security Course | Aditya thorat | [Read More](https://medium.com/p/ac6eb8b0191e) |
+| Sat, 02 Aug 2025 04:41:32 GMT | The Importance of Cybersecurity in Business Operations | Suganth Manoharan | [Read More](https://medium.com/p/cf76cd39985c) |
+| Sat, 02 Aug 2025 04:41:00 GMT | Filtering In-Scope Domains Using Burp Suite Configuration and Domain List | mattyerz | [Read More](https://medium.com/p/8c587fd4baa7) |
+| Sat, 02 Aug 2025 04:39:34 GMT | How I Earned $50 for a Subdomain That Almost Got Taken Over | Isha Sangpal | [Read More](https://medium.com/p/51898b777e34) |
+| Sat, 02 Aug 2025 04:38:28 GMT | Hunting for Secure Connections: A Site-to-Site IPSec VPN Deployment for Healthcare Organizations | Travis Sanchez | [Read More](https://medium.com/p/70d03deaceb9) |
+| Sat, 02 Aug 2025 04:37:27 GMT | ️ Ethical Hacking: An Introduction for Beginners | Usmaumer | [Read More](https://medium.com/p/1f1cd141ca0a) |
+| Sat, 02 Aug 2025 04:32:56 GMT | Navigating SharePoint Security: Essential Steps to Protect Against New Vulnerabilities | Swaroop Deshpande | [Read More](https://medium.com/p/9c2b40d7dbf2) |
+| Sat, 02 Aug 2025 04:31:58 GMT | ChatGPT Privacy Leak 2025: Deep Dive, Real-World Impact, and Industry Lessons | Ismail Kovvuru | [Read More](https://medium.com/p/421f4ad450c0) |
+| Sat, 02 Aug 2025 04:24:18 GMT | Data Protection by NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/ab9e99cdbf75) |
+| Sat, 02 Aug 2025 04:20:31 GMT | New Vulnerabilities Caught My Eye This Week | Filipino CyberSec News | [Read More](https://medium.com/p/1543af673428) |
+| Sat, 02 Aug 2025 04:17:30 GMT | NullSec Philippines Hacked a Thai Government Subdomain | Filipino CyberSec News | [Read More](https://medium.com/p/b5a755320d6c) |
+| Sat, 02 Aug 2025 04:04:50 GMT | Men Talk About Loneliness — But Only in DMs, At 2AM | Dhruvdeep Singh | [Read More](https://medium.com/p/f6229c9437a0) |
 | Sat, 02 Aug 2025 03:44:03 GMT | The Cybersecurity Landscape in 2025 | Josaiah Dkhar | [Read More](https://medium.com/p/b44c08153720) |
 | Sat, 02 Aug 2025 03:42:02 GMT | 9 New macOS Productivity Apps I’m Obsessed With. | Nikhil Vemu | [Read More](https://medium.com/p/b396dcefd254) |
 | Sat, 02 Aug 2025 03:35:39 GMT | Securing Your Dynamics 365 Customizations with Checkmarx | Mustaque Ehiya | [Read More](https://medium.com/p/9553bd8a2252) |
@@ -99,17 +113,3 @@ Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/
 | Fri, 01 Aug 2025 20:00:03 GMT | The Silence Before The Explosion | Atila Tabani | [Read More](https://medium.com/p/0ef31f446b44) |
 | Fri, 01 Aug 2025 19:57:02 GMT | The Perils of Misconfigured IAM Roles: A Real Threat to Cloud Security | Great adeleke | [Read More](https://medium.com/p/4257fb8f2cc0) |
 | Fri, 01 Aug 2025 19:49:27 GMT | Omni-Path Integration Expertise Offered by Nor-Tech | Emma Lyons | [Read More](https://medium.com/p/e34a91f632f6) |
-| Fri, 01 Aug 2025 19:48:33 GMT | IOC vs IOA: The Clues Cybercriminals Didn’t Mean to Leave Behind | JahdiSec | [Read More](https://medium.com/p/d21e98a2d5ed) |
-| Fri, 01 Aug 2025 19:44:13 GMT | Role-Based Access Control (RBAC) in GenosDB | estebanrfp | [Read More](https://medium.com/p/bde218a1a0df) |
-| Fri, 01 Aug 2025 19:40:20 GMT | Cybersecurity Courses: Separating the Signal from the Noise | Authlyn | [Read More](https://medium.com/p/07ce8ef6c100) |
-| Fri, 01 Aug 2025 19:14:41 GMT | Introduction to Cybersecurity: A Beginner Friendly Guide for Curious Beginners | Med Abou | [Read More](https://medium.com/p/f47cbd6e7858) |
-| Fri, 01 Aug 2025 19:12:23 GMT | From Roswell To Real Time Cybercrime | Gautam Mengle | [Read More](https://medium.com/p/341105bc9da4) |
-| Fri, 01 Aug 2025 18:44:24 GMT | Exploiting CVE-2025–29744 in pg-promise: When Prepared Statements Aren’t Safe | Aniket. | [Read More](https://medium.com/p/5408360ce342) |
-| Fri, 01 Aug 2025 18:43:44 GMT | Best Programming Languages for Cybersecurity in 2025 | Ayza Anam | [Read More](https://medium.com/p/c3aac64b7fa9) |
-| Fri, 01 Aug 2025 18:40:27 GMT | CAASM for Technology Leaders | Arup Nanda | [Read More](https://medium.com/p/9b0879bbd73c) |
-| Fri, 01 Aug 2025 18:34:35 GMT | Beginner’s Guide to Ethical Hacking & Footprinting (in Sinhala  + English) | Ruwan Sanjeewa | [Read More](https://medium.com/p/86dc58009527) |
-| Fri, 01 Aug 2025 18:30:50 GMT | Process ve Thread: Bilgisayarın Mutfak Ekibi | bullbullsena | [Read More](https://medium.com/p/b4f1d7b08b72) |
-| Fri, 01 Aug 2025 18:30:33 GMT | Internet Security Trends Driving Digital Transformation in Business | CanComCo | [Read More](https://medium.com/p/05489418d748) |
-| Fri, 01 Aug 2025 18:25:42 GMT | Dịch vụ bảo vệ chuyên nghiệp, uy tín, giá rẻ — An ninh tuyệt đối cho mọi nhu cầu! | DaiAnGroup | [Read More](https://medium.com/p/a31cc5ec2d92) |
-| Fri, 01 Aug 2025 18:25:24 GMT | What if your smart home turned against you? | Malavika Manoj | [Read More](https://medium.com/p/1432163841b7) |
-| Fri, 01 Aug 2025 18:18:46 GMT | SQL injection — String and authentication [Root me] | Adhamkhairy | [Read More](https://medium.com/p/cccf746dc571) |
