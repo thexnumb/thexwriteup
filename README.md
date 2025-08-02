@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 21:35:02 GMT | How I Tracked Down a Single Question That Broke All Our Cron Jobs | Silent Resolver | [Read More](https://medium.com/p/ad8fc41be7ff) |
+| Sat, 02 Aug 2025 21:34:05 GMT | LFI com PHP Wrappers: Entendendo a Vulnerabilidade na Prática | Jonathan M. | [Read More](https://medium.com/p/7f12e20aacd1) |
+| Sat, 02 Aug 2025 21:18:07 GMT | AI Security: Why Rushing Artificial Intelligence Could Put Us All at Risk | Linda mhlangu | [Read More](https://medium.com/p/eff13bbe8a45) |
 | Sat, 02 Aug 2025 21:03:14 GMT | I Wrote a Eulogy for Manual Recon | Ibtissam hammadi | [Read More](https://medium.com/p/73c2bfa992ae) |
 | Sat, 02 Aug 2025 21:02:21 GMT | ASCWG CTF Qualification 2025 — Operation Spare Clue Challenge | Ahmed Mohammed | [Read More](https://medium.com/p/f82a18ccf55c) |
 | Sat, 02 Aug 2025 21:01:55 GMT | K8s: Deploying a Monitoring Agent with a Baseline Pod Security Standard | W. Jenks Gibbons | [Read More](https://medium.com/p/ee1aacb04023) |
@@ -20,6 +23,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 20:55:01 GMT | The Future Is Here | Jahan Zaib | [Read More](https://medium.com/p/e4d29bb50fdb) |
 | Sat, 02 Aug 2025 20:44:49 GMT | ️ I Audit People’s Digital Setups for Privacy — Here’s Why You Might Need One | BiyteLüm | [Read More](https://medium.com/p/47853377c47d) |
 | Sat, 02 Aug 2025 20:41:04 GMT | Systems Engineering in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/1c39f62834ad) |
+| Sat, 02 Aug 2025 20:39:47 GMT | Upload File pada Next.js dengan Aman dan Gratis Menggunakan Cloudinary | Algostudio | [Read More](https://medium.com/p/f4045f5daa26) |
 | Sat, 02 Aug 2025 20:37:34 GMT | Home Lab: Building out Active Directory | Caleb Allison | [Read More](https://medium.com/p/8e2aaaf181ca) |
 | Sat, 02 Aug 2025 20:36:05 GMT | A Low-Cost, High-Impact Justice Reform Model for Turkey
 This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](https://medium.com/p/b2000cc43599) |
@@ -109,7 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 15:18:58 GMT | AI Cyber Attacks And A New Age Of Digital Threats | SteveMC | [Read More](https://medium.com/p/931240c4378f) |
 | Sat, 02 Aug 2025 15:16:46 GMT | 8 Powerful Visuals To Transform Your Mindset | Vijay Kumar Gupta | [Read More](https://medium.com/p/967ec2bcb816) |
 | Sat, 02 Aug 2025 15:12:38 GMT | Cybersecurity Details: Blockchain Security: Immutable Ledgers | Cyber Security Details | [Read More](https://medium.com/p/43e4cf46e9bc) |
-| Sat, 02 Aug 2025 15:10:01 GMT | Cybersecurity Details: Artificial Intelligence in Cybersecurity: A Double-Edged Sword | Cyber Security Details | [Read More](https://medium.com/p/6ce1689f15ba) |
-| Sat, 02 Aug 2025 15:03:37 GMT | Be Patient and Keep it Simple, The Bug is There | Anas H Hmaidy | [Read More](https://medium.com/p/bdc93cfe50c6) |
-| Sat, 02 Aug 2025 15:00:42 GMT | Cybersecurity Details: Security Audits: Compliance & Best Practices | Cyber Security Details | [Read More](https://medium.com/p/7d33a1a20e7b) |
-| Sat, 02 Aug 2025 14:53:56 GMT | Siber Güvenlik Kullanışlı Araçlar | Mustafa Gunay | [Read More](https://medium.com/p/ce285c486521) |
