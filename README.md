@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 01:37:49 GMT | SIEM LAB: Detecting LSASS Credential Dumping Attack (T1003.001) with Wazuh and Sysmon | Stevanus Banu | [Read More](https://medium.com/p/9cf3cfac123c) |
+| Sat, 02 Aug 2025 01:36:30 GMT | Do Not Track vs. Global Privacy Control | Sean Oriyano | [Read More](https://medium.com/p/cc0ad5655e53) |
+| Sat, 02 Aug 2025 01:25:27 GMT | oceano oco | quando o peixe fala | [Read More](https://medium.com/p/588b71ec06f8) |
+| Sat, 02 Aug 2025 01:22:05 GMT | Common Misconfigurations That Expose Databases | Rizqi Mulki | [Read More](https://medium.com/p/1884c7a189c4) |
+| Sat, 02 Aug 2025 01:21:49 GMT | Protecting Sensitive Data at Rest and in Transit | Rizqi Mulki | [Read More](https://medium.com/p/0178666617ee) |
+| Sat, 02 Aug 2025 01:21:27 GMT | Why You Should Never Trust User Input (Database Edition) | Rizqi Mulki | [Read More](https://medium.com/p/1a9edcb129ab) |
+| Sat, 02 Aug 2025 01:18:35 GMT | Let My Journey Begin! | Jasonzamora | [Read More](https://medium.com/p/91c7d82170dd) |
+| Sat, 02 Aug 2025 01:12:06 GMT | MITRE ATT&CK T1190 ve ToolShell (CVE‑2025‑53770): Gerçek Bir RCE Saldırısının Anatomisi | Serhat Çallı | [Read More](https://medium.com/p/57ee9154a7a1) |
+| Sat, 02 Aug 2025 00:37:30 GMT | AI Security Isn’t That Complicated – We Just Forgot Asimov | welshmanofsteel | [Read More](https://medium.com/p/6d27725dd066) |
+| Sat, 02 Aug 2025 00:34:29 GMT | Identity and Access Management: RBAC vs ABAC — Choosing the Right Authorisation Model | Samuel Odekunle | [Read More](https://medium.com/p/96bd01f6c07c) |
+| Sat, 02 Aug 2025 00:28:21 GMT | Bypass de WAF com Double Encoding: Uma Jornada através de SQL Injection | Jonathan M. | [Read More](https://medium.com/p/eaae211f1c54) |
+| Sat, 02 Aug 2025 00:11:04 GMT | Cloud Security in 2025: A Data Driven Call for Proactive Risk Management | Raviteja Mureboina | [Read More](https://medium.com/p/fb9205e9428d) |
+| Sat, 02 Aug 2025 00:05:17 GMT | PM in Progress: Reading the Tea Leaves of an App in Hot Water | Andrew Leng Ly | [Read More](https://medium.com/p/7a2c0daff29e) |
+| Sat, 02 Aug 2025 00:04:27 GMT | CTF SQHell- TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/861953b63f23) |
+| Sat, 02 Aug 2025 00:01:39 GMT | Software and Data Integrity Failures (OWASP A08): For Hacking, Bug Bounty, and Web Development | JPablo13 | [Read More](https://medium.com/p/54403ea14351) |
 | Fri, 01 Aug 2025 23:21:17 GMT | XXE Vulnerability: কী, কেন, এবং কিভাবে এটি অ্যাটাক হয়? | Ayshee | [Read More](https://medium.com/p/c0cf70c1741e) |
 | Fri, 01 Aug 2025 23:09:32 GMT | Smart Phishing Scams Are Now Changing Tactics in Real Time. Can Your Defenses Keep Up? | Akshay Chauhan | [Read More](https://medium.com/p/90324173f81f) |
 | Fri, 01 Aug 2025 23:03:48 GMT | Fileless Malware: A Growing Threat | Cyber Security Details | [Read More](https://medium.com/p/25bcfac2897a) |
@@ -98,18 +113,3 @@ Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/
 | Fri, 01 Aug 2025 17:08:16 GMT | No “Spukhaft” in Programming! | Jasvir Nagra | [Read More](https://medium.com/p/54a04ff74442) |
 | Fri, 01 Aug 2025 17:02:19 GMT | I Tried CSRF Attacks in Many Website (And Failed Miserably). Here’s What I Learned | Shah kaif | [Read More](https://medium.com/p/dd71317cb4e0) |
 | Fri, 01 Aug 2025 16:53:17 GMT | FortiGate’i Sanal Makineye Kurma ve Temel Arayüz Kullanımı | Selimayvaz | [Read More](https://medium.com/p/eb8424d80a93) |
-| Fri, 01 Aug 2025 16:53:00 GMT | Top Compliance Risks for Federal Health IT Contractors in 2025 | One Federal Solution | [Read More](https://medium.com/p/63e7cd0d695c) |
-| Fri, 01 Aug 2025 16:49:22 GMT | Stored XSS → Account Takeover | s0ly | [Read More](https://medium.com/p/7d9db5e6cdcb) |
-| Fri, 01 Aug 2025 16:47:12 GMT | What’s with Linux Distros? | Ryan Kurtz | [Read More](https://medium.com/p/ce91439e3e19) |
-| Fri, 01 Aug 2025 16:46:23 GMT | Any Password Can Be Hacked from Just 3 Websites! Shocking Truth! | Shahzaib | [Read More](https://medium.com/p/dd3de3a4bb86) |
-| Fri, 01 Aug 2025 16:45:55 GMT | Securely Uploading to S3 Without an Intermediate Server (Using Presigned URLs) | Sumit Chahal | [Read More](https://medium.com/p/f0a8fedbabc5) |
-| Fri, 01 Aug 2025 16:44:01 GMT | Vestra’s $500K Yield Reuse Flaw, Mosca’s Incomplete State Reset, BYC’s Burn-Based Price Play | Olympix | [Read More](https://medium.com/p/e89527df3d08) |
-| Fri, 01 Aug 2025 16:41:38 GMT | Security Alert Resolution Codes | Rybbord | [Read More](https://medium.com/p/c3a0671c7ea4) |
-| Fri, 01 Aug 2025 16:41:04 GMT | eJPT Zero to Hero: Post Exploitation CTF 1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/1d618e78e117) |
-| Fri, 01 Aug 2025 16:41:00 GMT | Cybersecurity Talent Exodus Threatens Healthcare’s Digital Transformation, Black Book Survey Finds | Black Book Market Research | [Read More](https://medium.com/p/95e701977c6a) |
-| Fri, 01 Aug 2025 16:40:34 GMT | Spy on WhatsApp with These Powerful Tracking Apps | Narjis Batool | [Read More](https://medium.com/p/24f21fd14bf0) |
-| Fri, 01 Aug 2025 16:39:25 GMT | Why SMART Isn’t Enough for Drive Health | ULINK DA Drive Analyzer | [Read More](https://medium.com/p/439f774b8949) |
-| Fri, 01 Aug 2025 16:39:10 GMT | 2025 IoT Blueprint for the Global Connected Care Era: New Guide Sets Smart Hospital Standards | Black Book Market Research | [Read More](https://medium.com/p/fde1ed9caa42) |
-| Fri, 01 Aug 2025 16:38:00 GMT | Why Domain Monitoring Is Essential for a Company | Alexandre Vandamme | [Read More](https://medium.com/p/332ba3742bd2) |
-| Fri, 01 Aug 2025 16:36:55 GMT | Don’t Become the Next Target for Scammers! Read How to Avoid Online scams | Kazeem Olawale | [Read More](https://medium.com/p/07daab0f8b7a) |
-| Fri, 01 Aug 2025 16:25:24 GMT | ChatGPT States It Cannot Handle Security | API Expert | [Read More](https://medium.com/p/088133d00d1d) |
