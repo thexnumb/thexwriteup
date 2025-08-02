@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 20:37:34 GMT | Home Lab: Building out Active Directory | Caleb Allison | [Read More](https://medium.com/p/8e2aaaf181ca) |
+| Sat, 02 Aug 2025 20:36:05 GMT | A Low-Cost, High-Impact Justice Reform Model for Turkey
+This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](https://medium.com/p/b2000cc43599) |
+| Sat, 02 Aug 2025 20:33:27 GMT | Guardians of the Digital Realm: Exploring Data Leakage Prevention Tools | Rachit Sharma | [Read More](https://medium.com/p/f020542aa812) |
 | Sat, 02 Aug 2025 20:21:31 GMT | The Hard Truth: Even the Best Admin Can’t Protect You Alone | Evgeny Ermakov | [Read More](https://medium.com/p/614e3cae1439) |
 | Sat, 02 Aug 2025 20:10:03 GMT | Part9 : The Complete Guide to Wireless Networks: Standards, Technologies, and Applications | White Panther | [Read More](https://medium.com/p/d74a341ac5d1) |
 | Sat, 02 Aug 2025 20:09:28 GMT | TryHackMe — VulnNet: Roasted | ruruuu | [Read More](https://medium.com/p/8df3064fd0a8) |
@@ -109,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 14:36:43 GMT | Own a Domain? Then You Should Have a security.txt (RFC 9116) | Mauro Stepanoski | [Read More](https://medium.com/p/67648146331a) |
 | Sat, 02 Aug 2025 14:33:17 GMT | The best five ai tools make sure you don’t miss it . | Ashish Samudrala | [Read More](https://medium.com/p/73ba8438735c) |
 | Sat, 02 Aug 2025 14:31:50 GMT | You know that feeling when you’re debugging production at 2 AM and suddenly wonder, “Wait, when did… | Solo Recon | [Read More](https://medium.com/p/20bd86b5093a) |
-| Sat, 02 Aug 2025 14:28:21 GMT | CYBER GHOSTS Hackers — OSINT, Red Teaming & Ethical Hacking by ALPHA | CYBER GHOSTS | [Read More](https://medium.com/p/d03d5bfc2094) |
-| Sat, 02 Aug 2025 14:26:51 GMT | Investigating X Profiles and Posts Using Grok AI | Bank Security | [Read More](https://medium.com/p/91157776783e) |
-| Sat, 02 Aug 2025 14:23:03 GMT | What Is Zero Trust Security? | Osamamurtaza | [Read More](https://medium.com/p/197075b4c238) |
