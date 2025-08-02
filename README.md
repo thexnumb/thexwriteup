@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 09:08:43 GMT | TryHackMe Pre Security 101 — Defensive Security Intro | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/60d53189fa9e) |
+| Sat, 02 Aug 2025 09:02:07 GMT | Cybersecurity in the Legal Dimension: Digital Forensics, Legal Holds, and E-Discovery | Richard Dosumu | [Read More](https://medium.com/p/0f4c82a6cb90) |
+| Sat, 02 Aug 2025 09:00:51 GMT | The Fundamentals of Information Gathering in Pentesting | Dhanush S | [Read More](https://medium.com/p/c0d5028e00ad) |
+| Sat, 02 Aug 2025 09:00:15 GMT | Reasons You’re Not Receiving JWT Tokens and How to Fix It in Spring Security | Anh Trần Tuấn | [Read More](https://medium.com/p/f9cfeb7678c4) |
+| Sat, 02 Aug 2025 09:00:12 GMT | Reasons You’re Not Receiving JWT Tokens and How to Fix It in Spring Security | Anh Trần Tuấn | [Read More](https://medium.com/p/19ba2c5dd728) |
+| Sat, 02 Aug 2025 08:58:07 GMT | Expert Lecture 1 Journal | Brisbane Jovan Rivaldi Sihombing | [Read More](https://medium.com/p/530ae63b26bb) |
+| Sat, 02 Aug 2025 08:54:49 GMT | Home Lab Chronicles: Part 04 — Zenarmor integration | Suprim Devkota | [Read More](https://medium.com/p/24d087fbddac) |
 | Sat, 02 Aug 2025 08:46:38 GMT | Kali Linux Practice Exam for Ethical Hackers — Your 2025 Guide to Pentesting Prep | Daywalkernyc | [Read More](https://medium.com/p/a56072322531) |
 | Sat, 02 Aug 2025 08:45:52 GMT | My First Medium Post | KCS | [Read More](https://medium.com/p/eba973d6e591) |
 | Sat, 02 Aug 2025 08:37:28 GMT | How to Stay Anonymous Online : Protect Your Online Identity in 2025 | Anirudh PV | [Read More](https://medium.com/p/18fdcd64b6cd) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 01:25:27 GMT | oceano oco | quando o peixe fala | [Read More](https://medium.com/p/588b71ec06f8) |
 | Sat, 02 Aug 2025 01:22:05 GMT | Common Misconfigurations That Expose Databases | Rizqi Mulki | [Read More](https://medium.com/p/1884c7a189c4) |
 | Sat, 02 Aug 2025 01:21:49 GMT | Protecting Sensitive Data at Rest and in Transit | Rizqi Mulki | [Read More](https://medium.com/p/0178666617ee) |
-| Sat, 02 Aug 2025 01:21:27 GMT | Why You Should Never Trust User Input (Database Edition) | Rizqi Mulki | [Read More](https://medium.com/p/1a9edcb129ab) |
-| Sat, 02 Aug 2025 01:18:35 GMT | Let My Journey Begin! | Jasonzamora | [Read More](https://medium.com/p/91c7d82170dd) |
-| Sat, 02 Aug 2025 01:12:06 GMT | MITRE ATT&CK T1190 ve ToolShell (CVE‑2025‑53770): Gerçek Bir RCE Saldırısının Anatomisi | Serhat Çallı | [Read More](https://medium.com/p/57ee9154a7a1) |
-| Sat, 02 Aug 2025 00:37:30 GMT | AI Security Isn’t That Complicated – We Just Forgot Asimov | welshmanofsteel | [Read More](https://medium.com/p/6d27725dd066) |
-| Sat, 02 Aug 2025 00:34:29 GMT | Identity and Access Management: RBAC vs ABAC — Choosing the Right Authorisation Model | Samuel Odekunle | [Read More](https://medium.com/p/96bd01f6c07c) |
-| Sat, 02 Aug 2025 00:28:21 GMT | Bypass de WAF com Double Encoding: Uma Jornada através de SQL Injection | Jonathan M. | [Read More](https://medium.com/p/eaae211f1c54) |
-| Sat, 02 Aug 2025 00:11:04 GMT | Cloud Security in 2025: A Data Driven Call for Proactive Risk Management | Raviteja Mureboina | [Read More](https://medium.com/p/fb9205e9428d) |
