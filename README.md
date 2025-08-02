@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 18:17:13 GMT | Social Identity and Political Mobilization in Cyberspace | Ellereem | [Read More](https://medium.com/p/efcbc2c650fe) |
+| Sat, 02 Aug 2025 18:17:09 GMT | ️ Sinhala-English Guide to Reconnaissance Tools in Ethical Hacking (Practical Examples) | Ruwan Sanjeewa | [Read More](https://medium.com/p/d8376907eb3b) |
+| Sat, 02 Aug 2025 18:13:10 GMT | “Push to Pwn: Hacking GitHub Like a Pro — The Ultimate OSINT + CI/CD Exploitation Playbook” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/089fff02fa9a) |
+| Sat, 02 Aug 2025 18:11:40 GMT | Cap HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/4ab6c912d405) |
+| Sat, 02 Aug 2025 17:59:11 GMT | My First CTF: Steganography | Domwat | [Read More](https://medium.com/p/af5a00faf0fb) |
+| Sat, 02 Aug 2025 17:54:51 GMT | Hackers Exploit Critical WordPress Theme Flaw to Hijack Sites via Remote Plugin Install… | DefenceRabbit | [Read More](https://medium.com/p/6cdc738c08ea) |
+| Sat, 02 Aug 2025 17:48:17 GMT | You can find my version of performing the lab here : https://github.com/Jeytha/OT-Pentest-Sim-Lab-1 | Jeythasahanav | [Read More](https://medium.com/p/b63f8df8a6e1) |
+| Sat, 02 Aug 2025 17:47:21 GMT | A Comprehensive Guide to GPG-Signed Hash Manifests with GitHub Actions | Femi Oyesanya | [Read More](https://medium.com/p/50a04766a0e7) |
+| Sat, 02 Aug 2025 17:45:55 GMT | SSRF explained | digistam | [Read More](https://medium.com/p/7d832c33775a) |
+| Sat, 02 Aug 2025 17:42:21 GMT | Z-Score: A Metric for Measuring Detection Use Case Consolidation | Zied Eid Alghamdi | [Read More](https://medium.com/p/dbaa16897cbd) |
+| Sat, 02 Aug 2025 17:39:37 GMT | The Conflicts between Confidentiality, Artificial Intelligence and Interoperability in Healthcare | Renato Marcos Endrizzi Sabbatini, PhD | [Read More](https://medium.com/p/0875c69f3cd2) |
 | Sat, 02 Aug 2025 17:19:35 GMT | The Complete Guide to Agentic AI in Security Operations: How Autonomous SOC Agents Are… | Simbian.ai | [Read More](https://medium.com/p/8ffa3b1d4a58) |
 | Sat, 02 Aug 2025 17:19:01 GMT | Unlock $2.8 Million in Annual Savings: How AI SOC Agents Revolutionize Cybersecurity ROI | Simbian.ai | [Read More](https://medium.com/p/ec06907301d5) |
 | Sat, 02 Aug 2025 17:16:04 GMT | The Untapped Force Shaping the Future of Cybersecurity: Focus | Bodhisatya Mookherjee | [Read More](https://medium.com/p/681fbe9d4ab2) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 12:51:16 GMT | Search Engines Indexing ChatGPT shared Chats | Vaasudev | [Read More](https://medium.com/p/5308464a8bbb) |
 | Sat, 02 Aug 2025 12:49:08 GMT | Title: Tech Trifecta: AI, Green Energy, and Smart Cities as Levers of Leap | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/68696d2246db) |
 | Sat, 02 Aug 2025 12:49:01 GMT | AS-REP Roasting Attack: Exploiting Kerberos Without Pre-Authentication | Ahmed Badry | [Read More](https://medium.com/p/37a2aa7499be) |
-| Sat, 02 Aug 2025 12:47:03 GMT | CVE-2025–26062: Unauthenticated Access to Intelbras Router Settings — Exposing Sensitive Data! | CVEHUB | [Read More](https://medium.com/p/3f7aba710409) |
-| Sat, 02 Aug 2025 12:46:31 GMT | Digital Safety and Mental Health: Managing Screen Time and Social Media | Ali Hasan | [Read More](https://medium.com/p/f226eee56020) |
-| Sat, 02 Aug 2025 12:45:36 GMT | CVE-2025–51503: XSS Vulnerability in Microweber CMS Puts Admin Accounts at Risk | CVEHUB | [Read More](https://medium.com/p/01fcf5579dd9) |
-| Sat, 02 Aug 2025 12:43:57 GMT | Intrusion Detection and Log Analysis Using Suricata and the ELK Stack | Mohammed Ramees | [Read More](https://medium.com/p/0a087c8a5d73) |
-| Sat, 02 Aug 2025 12:41:31 GMT | CVE-2025–51384: Buffer Overflow Bug in D-Link DI-8200 Router! | CVEHUB | [Read More](https://medium.com/p/afa60cbc8008) |
-| Sat, 02 Aug 2025 12:40:50 GMT | Cybersecurity Details: Operating System Security: Strengthening the Foundation | Cyber Security Details | [Read More](https://medium.com/p/b1327dab316d) |
-| Sat, 02 Aug 2025 12:39:28 GMT | Cybersecurity Details: Database Security: Protecting the Core | Cyber Security Details | [Read More](https://medium.com/p/6d302eff1a81) |
-| Sat, 02 Aug 2025 12:38:05 GMT | Cybersecurity Details: Web Application Security: Fortifying Frontends | Cyber Security Details | [Read More](https://medium.com/p/17e923ebbaf8) |
-| Sat, 02 Aug 2025 12:36:40 GMT | Cybersecurity Details: Network Security: Guarding the Gates | Cyber Security Details | [Read More](https://medium.com/p/85f3f8ae7ee1) |
-| Sat, 02 Aug 2025 12:27:31 GMT | Day 69: Public exploits | Nile Okomo | [Read More](https://medium.com/p/9acbfb301324) |
-| Sat, 02 Aug 2025 12:22:44 GMT | PySpark for Cybersecurity Analytics: Scaling Threat Detection with Distributed Data Processing | Manan Grover | [Read More](https://medium.com/p/17aa9000cad9) |
