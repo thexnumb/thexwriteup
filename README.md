@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 10:07:22 GMT | The Future of Cybersecurity: AI-Powered Threat Detection in 2025 | Win In Life Academy | [Read More](https://medium.com/p/7e1bd4019263) |
+| Sat, 02 Aug 2025 09:59:25 GMT | Diploma vs Certification in Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/9549c8547f68) |
+| Sat, 02 Aug 2025 09:59:02 GMT | PSARA LICENSE SERVICE: A Complete Guide to Legal Security Agency Registration | mohammad shad | [Read More](https://medium.com/p/a1f999861ff8) |
+| Sat, 02 Aug 2025 09:51:52 GMT | [Security Series] SQL Injection and Database Takeover Simulation Using SQLMAP | Rahmat Wibowo | [Read More](https://medium.com/p/90892a45febd) |
 | Sat, 02 Aug 2025 09:41:54 GMT | TryHackMe Pre Security 101 — What is Networking? | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/4b46e8d88d27) |
 | Sat, 02 Aug 2025 09:29:50 GMT | One-Stop CCTV Camera Installation and Maintenance in Hyderabad | Smart Secures | [Read More](https://medium.com/p/56ed89062553) |
 | Sat, 02 Aug 2025 09:24:35 GMT | Package of Problems: How a Frontend NPM Library Leaked Internal API Keys | Iski | [Read More](https://medium.com/p/423784602d54) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 02:50:26 GMT | Creating a Home SOC Lab for Beginners - Part I | Stefan Bargan | [Read More](https://medium.com/p/b20ad51f6ca9) |
 | Sat, 02 Aug 2025 02:42:52 GMT | Dynamics 365 CE— Open Source Code Security Validations | Mustaque Ehiya | [Read More](https://medium.com/p/035a71b2a266) |
 | Sat, 02 Aug 2025 02:28:08 GMT | Between Withdrawal and Openness: The Fragile Balance of Trust | Tami | [Read More](https://medium.com/p/9a3c3b618f0c) |
-| Sat, 02 Aug 2025 02:27:05 GMT | How Insufficient IT/OT Network Segmentation Puts Critical Systems at Risk | Raviteja Mureboina | [Read More](https://medium.com/p/80055f77acf6) |
-| Sat, 02 Aug 2025 02:21:35 GMT | The Ultimate 2FA App Battle: Proton, Aegis, and Authy Duke It Out in 2025 | BiyteLüm | [Read More](https://medium.com/p/2c0e6e1b4fa0) |
-| Sat, 02 Aug 2025 02:10:21 GMT | Top Container Image Best Practices with Google Cloud: A Product Manager’s Guide | Lohitaksh Yogi | [Read More](https://medium.com/p/8e4e2886a39d) |
-| Sat, 02 Aug 2025 01:51:38 GMT | The Hidden Danger of Shared Local Admin Accounts | Raviteja Mureboina | [Read More](https://medium.com/p/4aed3972f8f1) |
