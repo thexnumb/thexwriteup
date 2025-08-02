@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 15:16:46 GMT | 8 Powerful Visuals To Transform Your Mindset | Vijay Kumar Gupta | [Read More](https://medium.com/p/967ec2bcb816) |
+| Sat, 02 Aug 2025 15:12:38 GMT | Cybersecurity Details: Blockchain Security: Immutable Ledgers | Cyber Security Details | [Read More](https://medium.com/p/43e4cf46e9bc) |
+| Sat, 02 Aug 2025 15:10:01 GMT | Cybersecurity Details: Artificial Intelligence in Cybersecurity: A Double-Edged Sword | Cyber Security Details | [Read More](https://medium.com/p/6ce1689f15ba) |
+| Sat, 02 Aug 2025 15:03:37 GMT | Be Patient and Keep it Simple, The Bug is There | Anas H Hmaidy | [Read More](https://medium.com/p/bdc93cfe50c6) |
+| Sat, 02 Aug 2025 15:00:42 GMT | Cybersecurity Details: Security Audits: Compliance & Best Practices | Cyber Security Details | [Read More](https://medium.com/p/7d33a1a20e7b) |
+| Sat, 02 Aug 2025 14:53:56 GMT | Siber Güvenlik Kullanışlı Araçlar | Mustafa Gunay | [Read More](https://medium.com/p/ce285c486521) |
+| Sat, 02 Aug 2025 14:53:36 GMT | ISMAP Management Standards Chapter 5: The Full Scope of Specific Security Measures, “Control… | nolly | [Read More](https://medium.com/p/85b9f8e4299e) |
+| Sat, 02 Aug 2025 14:48:04 GMT | New Plague Malware Targets Linux Servers to Gain Stealthy SSH Access | Chetan Seripally | [Read More](https://medium.com/p/329cc5cfeed5) |
+| Sat, 02 Aug 2025 14:46:36 GMT | Data Flow and Synchronization Between SIEM and SOAR Tools in SOC | Esra Kayhan | [Read More](https://medium.com/p/930b6e4974b8) |
 | Sat, 02 Aug 2025 14:43:34 GMT | INFIDELITY CONCERNS. HOW I KNEW I WAS WITH A CHEATING PARTNER | Poz Cajorla | [Read More](https://medium.com/p/9b401c73b0bd) |
 | Sat, 02 Aug 2025 14:38:18 GMT | No Power, No Problem: How I Secured My Home with the Anti-Looter Kit in 48 Hours | Survival Gear | [Read More](https://medium.com/p/e444bbd3ad3b) |
+| Sat, 02 Aug 2025 14:36:43 GMT | Own a Domain? Then You Should Have a security.txt (RFC 9116) | Mauro Stepanoski | [Read More](https://medium.com/p/67648146331a) |
 | Sat, 02 Aug 2025 14:33:17 GMT | The best five ai tools make sure you don’t miss it . | Ashish Samudrala | [Read More](https://medium.com/p/73ba8438735c) |
 | Sat, 02 Aug 2025 14:31:50 GMT | You know that feeling when you’re debugging production at 2 AM and suddenly wonder, “Wait, when did… | Solo Recon | [Read More](https://medium.com/p/20bd86b5093a) |
 | Sat, 02 Aug 2025 14:28:21 GMT | CYBER GHOSTS Hackers — OSINT, Red Teaming & Ethical Hacking by ALPHA | CYBER GHOSTS | [Read More](https://medium.com/p/d03d5bfc2094) |
@@ -105,13 +115,3 @@ SAFEGUARDING THE GOSPEL IN THE DIGITAL AGE | Mcloxyventures | [Read More](https:
 | Sat, 02 Aug 2025 10:14:58 GMT | Top 10 Cybersecurity Threats in 2025 & How to Prevent Them | Paliwalnishtha | [Read More](https://medium.com/p/abfd88b25ed1) |
 | Sat, 02 Aug 2025 10:07:22 GMT | The Future of Cybersecurity: AI-Powered Threat Detection in 2025 | Win In Life Academy | [Read More](https://medium.com/p/7e1bd4019263) |
 | Sat, 02 Aug 2025 09:59:25 GMT | Diploma vs Certification in Cyber Security | Manisha Chaudhary | [Read More](https://medium.com/p/9549c8547f68) |
-| Sat, 02 Aug 2025 09:59:02 GMT | PSARA LICENSE SERVICE: A Complete Guide to Legal Security Agency Registration | mohammad shad | [Read More](https://medium.com/p/a1f999861ff8) |
-| Sat, 02 Aug 2025 09:51:52 GMT | [Security Series] SQL Injection and Database Takeover Simulation Using SQLMAP | Rahmat Wibowo | [Read More](https://medium.com/p/90892a45febd) |
-| Sat, 02 Aug 2025 09:41:54 GMT | TryHackMe Pre Security 101 — What is Networking? | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/4b46e8d88d27) |
-| Sat, 02 Aug 2025 09:29:50 GMT | One-Stop CCTV Camera Installation and Maintenance in Hyderabad | Smart Secures | [Read More](https://medium.com/p/56ed89062553) |
-| Sat, 02 Aug 2025 09:24:35 GMT | Package of Problems: How a Frontend NPM Library Leaked Internal API Keys | Iski | [Read More](https://medium.com/p/423784602d54) |
-| Sat, 02 Aug 2025 09:24:00 GMT | Soteria Review: Keep Your Website Safe — See How It Works! | MD. ABDUR RAZZAQUE SHEIKH | [Read More](https://medium.com/p/51157c193262) |
-| Sat, 02 Aug 2025 09:23:27 GMT | Sicheres Passwort Erstellen Online Pw Gen 2025 | StarkPasswortGenerator | [Read More](https://medium.com/p/4f666a7e2fbd) |
-| Sat, 02 Aug 2025 09:08:43 GMT | TryHackMe Pre Security 101 — Defensive Security Intro | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/60d53189fa9e) |
-| Sat, 02 Aug 2025 09:02:07 GMT | Cybersecurity in the Legal Dimension: Digital Forensics, Legal Holds, and E-Discovery | Richard Dosumu | [Read More](https://medium.com/p/0f4c82a6cb90) |
-| Sat, 02 Aug 2025 09:00:51 GMT | The Fundamentals of Information Gathering in Pentesting | Dhanush S | [Read More](https://medium.com/p/c0d5028e00ad) |
