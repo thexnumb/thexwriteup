@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 11:32:07 GMT | How to Enumerate SSH with Kali Linux — A Deep Dive & How SSH Works | MR Gh0st [ 0xff ] | [Read More](https://medium.com/p/8583f654ca75) |
+| Sat, 02 Aug 2025 11:31:07 GMT | “10 Proven Productivity Hacks to Get More Done in Less Time” | Laxmi Suthar | [Read More](https://medium.com/p/3337a268a255) |
+| Sat, 02 Aug 2025 11:29:19 GMT | Hands‑On Ethical Hacking Course in Calicut | bilalinternship | [Read More](https://medium.com/p/51aafd491fd6) |
+| Sat, 02 Aug 2025 11:24:26 GMT | Is Vibe Coding Safe for Startups? 
+A Technical Risk Audit Based on Real-World Use Cases | Tech Nest | [Read More](https://medium.com/p/c121f82b385b) |
+| Sat, 02 Aug 2025 11:23:41 GMT | How to Enumerate Web Applications Like a Pro | SVR Articles | [Read More](https://medium.com/p/dea02b5c56b9) |
+| Sat, 02 Aug 2025 11:23:24 GMT | Reflected XSS in HTML Context with All Standard Tags Blocked Except Custom Ones | Bash Overflow | [Read More](https://medium.com/p/72e2f0b34131) |
 | Sat, 02 Aug 2025 11:09:59 GMT | Microsoft Intune — Modern Endpoint Management in the Cloud | Janith Sandamal | [Read More](https://medium.com/p/bd72172c717e) |
 | Sat, 02 Aug 2025 11:08:14 GMT | (Access Control) Lab: Unprotected Admin Functionality - 2025 | Ananda | [Read More](https://medium.com/p/baf7cce78b05) |
 | Sat, 02 Aug 2025 11:06:19 GMT | Critical SUSE Manager Vulnerability Lets Attackers Execute Arbitrary Commands as Root | Whitehatians | [Read More](https://medium.com/p/84334c553e76) |
@@ -108,9 +115,3 @@ SAFEGUARDING THE GOSPEL IN THE DIGITAL AGE | Mcloxyventures | [Read More](https:
 | Sat, 02 Aug 2025 04:41:32 GMT | The Importance of Cybersecurity in Business Operations | Suganth Manoharan | [Read More](https://medium.com/p/cf76cd39985c) |
 | Sat, 02 Aug 2025 04:41:00 GMT | Filtering In-Scope Domains Using Burp Suite Configuration and Domain List | mattyerz | [Read More](https://medium.com/p/8c587fd4baa7) |
 | Sat, 02 Aug 2025 04:39:34 GMT | How I Earned $50 for a Subdomain That Almost Got Taken Over | Isha Sangpal | [Read More](https://medium.com/p/51898b777e34) |
-| Sat, 02 Aug 2025 04:38:28 GMT | Hunting for Secure Connections: A Site-to-Site IPSec VPN Deployment for Healthcare Organizations | Travis Sanchez | [Read More](https://medium.com/p/70d03deaceb9) |
-| Sat, 02 Aug 2025 04:37:27 GMT | ️ Ethical Hacking: An Introduction for Beginners | Usmaumer | [Read More](https://medium.com/p/1f1cd141ca0a) |
-| Sat, 02 Aug 2025 04:32:56 GMT | Navigating SharePoint Security: Essential Steps to Protect Against New Vulnerabilities | Swaroop Deshpande | [Read More](https://medium.com/p/9c2b40d7dbf2) |
-| Sat, 02 Aug 2025 04:31:58 GMT | ChatGPT Privacy Leak 2025: Deep Dive, Real-World Impact, and Industry Lessons | Ismail Kovvuru | [Read More](https://medium.com/p/421f4ad450c0) |
-| Sat, 02 Aug 2025 04:24:18 GMT | Data Protection by NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/ab9e99cdbf75) |
-| Sat, 02 Aug 2025 04:20:31 GMT | New Vulnerabilities Caught My Eye This Week | Filipino CyberSec News | [Read More](https://medium.com/p/1543af673428) |
