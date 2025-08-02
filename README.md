@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 07:26:49 GMT | My Weirdest Discovery in a Pentest | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/86f861c8141d) |
+| Sat, 02 Aug 2025 07:26:47 GMT | Digital Shield Hardware Wallet and EAL6+: Why This Chip Matters for Your Crypto Security | Digital Shield | [Read More](https://medium.com/p/b98b178eccb9) |
+| Sat, 02 Aug 2025 07:19:36 GMT | DO NOT CLICK  Avoid Online Scams: Free Redirect Checker Tool | Krivadna | [Read More](https://medium.com/p/f3f1a431be6f) |
+| Sat, 02 Aug 2025 07:18:19 GMT | In Between | Mansi Rupareliya | [Read More](https://medium.com/p/478e18cebe2d) |
 | Sat, 02 Aug 2025 07:04:38 GMT | Best Basic Networking Training Institute in Delhi | cyber security Updates | [Read More](https://medium.com/p/37c1371ff4d5) |
 | Sat, 02 Aug 2025 06:55:29 GMT | I Thought My Code Was Clean… Until SonarQube Told Me the Truth | Ravitejakoyya | [Read More](https://medium.com/p/b4f82f7ad2be) |
 | Sat, 02 Aug 2025 06:54:10 GMT | The Silent Clock Ticking in Your Digital Life | Dr. Morteza SaberiKamarposhti | [Read More](https://medium.com/p/982b72cc0096) |
@@ -109,7 +113,3 @@ Walkthrough | チェインズ・ナバーロ | [Read More](https://medium.com/p/
 | Fri, 01 Aug 2025 22:03:23 GMT | Article 1:  Why I’m Learning Offensive Security for 365 Days – My #365ToOffSec Challenge | DERR | [Read More](https://medium.com/p/aac5bf1f607e) |
 | Fri, 01 Aug 2025 22:02:39 GMT | Top Cybersecurity Certifications (CISSP, Security+, OSCP) | Cyber Security Details | [Read More](https://medium.com/p/84606c51a072) |
 | Fri, 01 Aug 2025 21:53:30 GMT | The Algorithmic Pandemic: How Smart Devices Are Re-Wiring Our Well-Being | Chris Ford | [Read More](https://medium.com/p/2b286d2a52d5) |
-| Fri, 01 Aug 2025 21:46:20 GMT | K8s Data Security: Monitoring Agents and Pod Security Standards | W. Jenks Gibbons | [Read More](https://medium.com/p/6576a824765f) |
-| Fri, 01 Aug 2025 21:44:09 GMT | PHP Wrappers | DuckWrites | [Read More](https://medium.com/p/3a314ed04e3f) |
-| Fri, 01 Aug 2025 21:41:46 GMT | Vibe Coding with Copilot: The Security Pitfalls Nobody Warns You About | Halil Ural | [Read More](https://medium.com/p/631dd49783b3) |
-| Fri, 01 Aug 2025 21:39:53 GMT | Fortytwo.nl — It’s So Bad, I’m Embarrassed to Write About It | 0trust0day | [Read More](https://medium.com/p/7eb68b204058) |
