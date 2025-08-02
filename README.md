@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 17:07:52 GMT | No Rate Limiting: My First Real Bug Bounty Find (At 17) | Ishaan Bansal | [Read More](https://medium.com/p/5a8641a2bb81) |
+| Sat, 02 Aug 2025 17:01:47 GMT | The Quantum Threat: Reshaping Cybersecurity in the Age of Supercomputing | Alae Meftah | [Read More](https://medium.com/p/ec3cbc257dc8) |
+| Sat, 02 Aug 2025 16:57:57 GMT | Are Cybersecurity Bootcamps Worth the Hype? | Aj | [Read More](https://medium.com/p/9c6080487990) |
+| Sat, 02 Aug 2025 16:57:37 GMT | Can Quantum Computers Break the Blockchain? | IamVishnu | [Read More](https://medium.com/p/dbc50b607f4e) |
+| Sat, 02 Aug 2025 16:52:01 GMT | How I Got a $1000 Bounty for Chaining LFI to RCE via Log Injection | Zoningxtr | [Read More](https://medium.com/p/5147552ca2cc) |
+| Sat, 02 Aug 2025 16:51:07 GMT | Behind the Alias: A OSINT Case Study in Digital Attribution | Hitesh Said | [Read More](https://medium.com/p/d3084ae8d6f9) |
+| Sat, 02 Aug 2025 16:47:09 GMT | Why does no one listen anymore? | time_traveller2014 | [Read More](https://medium.com/p/36ccc3b3d03f) |
 | Sat, 02 Aug 2025 16:44:19 GMT | Building Security In, Not Bolting On | Tom Ermolaev | [Read More](https://medium.com/p/a36e18488557) |
 | Sat, 02 Aug 2025 16:42:36 GMT | From Fiber Taps to Zero-Click Exploits: The True Power of NSA, CIA & Unit 8200 | Muhammad Sameer | [Read More](https://medium.com/p/964fff2712dc) |
 | Sat, 02 Aug 2025 16:40:45 GMT | Written in the Palms | Isha | [Read More](https://medium.com/p/bc5c7be6737f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 12:12:11 GMT | How Businesses in Hyderabad Can Protect Themselves from Cyber Threats | Giribabu V | [Read More](https://medium.com/p/7dbeedef4841) |
 | Sat, 02 Aug 2025 12:10:00 GMT | Why You should avoid dangerouslySetInnerHTML in React? | Prateeklohani | [Read More](https://medium.com/p/564592ad0381) |
 | Sat, 02 Aug 2025 12:07:14 GMT | The Ultimate Guide to Metasploit Framework: From Installation to Payload Creation | Cyberhawk Consultancy | [Read More](https://medium.com/p/b8639139c8d1) |
-| Sat, 02 Aug 2025 12:05:25 GMT | Introducing GAIA Hub: A Community for Tech Enthusiasts Across the Globe | Generative AI Academy | [Read More](https://medium.com/p/7b498087cc50) |
-| Sat, 02 Aug 2025 12:01:13 GMT | Unleashing Python: My Journey from Scripts to Full-Stack Automation | RimshaKashif | [Read More](https://medium.com/p/44c2539b70ff) |
-| Sat, 02 Aug 2025 11:58:46 GMT | Trust Is the New Zero-Day: What a Malicious NPM Package Taught Us About AI, Supply Chains, and… | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/7a569127ec18) |
-| Sat, 02 Aug 2025 11:56:26 GMT | Indonesia atau Negara Open Source? What’s With Indonesia? — Ransomware in a nutshell | Rizki Dwi Rahmawan | [Read More](https://medium.com/p/4b0a97b86e7b) |
-| Sat, 02 Aug 2025 11:52:42 GMT | nz gym #1 | nzunuzzz | [Read More](https://medium.com/p/28d781fd6ccb) |
-| Sat, 02 Aug 2025 11:52:32 GMT | TCP/IP Model | Roshinni Gandhi | [Read More](https://medium.com/p/f5575984b9c9) |
-| Sat, 02 Aug 2025 11:51:12 GMT | Crafting Scalable Java Applications | RimshaKashif | [Read More](https://medium.com/p/5085b41012c0) |
