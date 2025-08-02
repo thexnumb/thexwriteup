@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 Aug 2025 09:41:54 GMT | TryHackMe Pre Security 101 — What is Networking? | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/4b46e8d88d27) |
+| Sat, 02 Aug 2025 09:29:50 GMT | One-Stop CCTV Camera Installation and Maintenance in Hyderabad | Smart Secures | [Read More](https://medium.com/p/56ed89062553) |
+| Sat, 02 Aug 2025 09:24:35 GMT | Package of Problems: How a Frontend NPM Library Leaked Internal API Keys | Iski | [Read More](https://medium.com/p/423784602d54) |
+| Sat, 02 Aug 2025 09:24:00 GMT | Soteria Review: Keep Your Website Safe — See How It Works! | MD. ABDUR RAZZAQUE SHEIKH | [Read More](https://medium.com/p/51157c193262) |
+| Sat, 02 Aug 2025 09:23:27 GMT | Sicheres Passwort Erstellen Online Pw Gen 2025 | StarkPasswortGenerator | [Read More](https://medium.com/p/4f666a7e2fbd) |
 | Sat, 02 Aug 2025 09:08:43 GMT | TryHackMe Pre Security 101 — Defensive Security Intro | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/60d53189fa9e) |
 | Sat, 02 Aug 2025 09:02:07 GMT | Cybersecurity in the Legal Dimension: Digital Forensics, Legal Holds, and E-Discovery | Richard Dosumu | [Read More](https://medium.com/p/0f4c82a6cb90) |
 | Sat, 02 Aug 2025 09:00:51 GMT | The Fundamentals of Information Gathering in Pentesting | Dhanush S | [Read More](https://medium.com/p/c0d5028e00ad) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 02:21:35 GMT | The Ultimate 2FA App Battle: Proton, Aegis, and Authy Duke It Out in 2025 | BiyteLüm | [Read More](https://medium.com/p/2c0e6e1b4fa0) |
 | Sat, 02 Aug 2025 02:10:21 GMT | Top Container Image Best Practices with Google Cloud: A Product Manager’s Guide | Lohitaksh Yogi | [Read More](https://medium.com/p/8e4e2886a39d) |
 | Sat, 02 Aug 2025 01:51:38 GMT | The Hidden Danger of Shared Local Admin Accounts | Raviteja Mureboina | [Read More](https://medium.com/p/4aed3972f8f1) |
-| Sat, 02 Aug 2025 01:37:49 GMT | SIEM LAB: Detecting LSASS Credential Dumping Attack (T1003.001) with Wazuh and Sysmon | Stevanus Banu | [Read More](https://medium.com/p/9cf3cfac123c) |
-| Sat, 02 Aug 2025 01:36:30 GMT | Do Not Track vs. Global Privacy Control | Sean Oriyano | [Read More](https://medium.com/p/cc0ad5655e53) |
-| Sat, 02 Aug 2025 01:25:27 GMT | oceano oco | quando o peixe fala | [Read More](https://medium.com/p/588b71ec06f8) |
-| Sat, 02 Aug 2025 01:22:05 GMT | Common Misconfigurations That Expose Databases | Rizqi Mulki | [Read More](https://medium.com/p/1884c7a189c4) |
-| Sat, 02 Aug 2025 01:21:49 GMT | Protecting Sensitive Data at Rest and in Transit | Rizqi Mulki | [Read More](https://medium.com/p/0178666617ee) |
