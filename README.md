@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 22:17:40 GMT | Rebels With A Cause: A Road to Nowhere? | Grant Krasner | [Read More](https://medium.com/p/25bf11c815fb) |
+| Sun, 03 Aug 2025 22:16:43 GMT | This Simple Recon Trick Exposed 100+ Hidden Vulnerabilities | Ibtissam hammadi | [Read More](https://medium.com/p/570f75a59df7) |
+| Sun, 03 Aug 2025 22:06:12 GMT | Digital Forensics 101: A Beginner’s Guide to Cyber Crime Investigation | i4m_x | [Read More](https://medium.com/p/a6404ae87efe) |
+| Sun, 03 Aug 2025 22:04:28 GMT | When Networking Became a Game of Choices | Gitika Babbar | [Read More](https://medium.com/p/8da6291a9af9) |
+| Sun, 03 Aug 2025 21:51:57 GMT | AI vs. Hospitals: What’s Really Happening and How to Stay Ahead | Sourabhrajgole | [Read More](https://medium.com/p/040ca7d65675) |
 | Sun, 03 Aug 2025 21:09:53 GMT | HOW TO CHOOSE THE BEST CRYPTO COINS TO INVEST IN. | Insurance Investment Management | [Read More](https://medium.com/p/4701fc4dcae0) |
 | Sun, 03 Aug 2025 21:06:18 GMT | Zero to Hero in Scanning & Enumeration: Sinhala-English Beginner’s Guide | Ruwan Sanjeewa | [Read More](https://medium.com/p/b25994878919) |
 | Sun, 03 Aug 2025 21:05:23 GMT | Letsdefend-Splunk (Part 1) | Şervan Alkan | [Read More](https://medium.com/p/ab00763e4d1f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 15:32:05 GMT | Week 2. | rkdnawab | [Read More](https://medium.com/p/7c20890207ac) |
 | Sun, 03 Aug 2025 15:31:56 GMT | Unmasking the Cyber Storm : 2025’s Biggest Cyber Attacks and Trends You Need to Know | Josaiah Dkhar | [Read More](https://medium.com/p/4da69d92a86f) |
 | Sun, 03 Aug 2025 15:31:43 GMT | En Yaygın Siber Saldırı Türleri-6 | Melek | [Read More](https://medium.com/p/7944d9be503e) |
-| Sun, 03 Aug 2025 15:31:16 GMT | Chapter 18 (Task Management System): Adding Analytics and Reporting to the Task Management System | Natarajan C K | [Read More](https://medium.com/p/69163f78ff59) |
-| Sun, 03 Aug 2025 15:24:49 GMT | How I Found a Phishing Vector Hiding in a Fortune 500 Company Email (And What It Says About Trust… | Brenton McPherson | [Read More](https://medium.com/p/6f5f8c88beae) |
-| Sun, 03 Aug 2025 15:22:33 GMT | Vulnerabilities of Docker every Developer and DevOps needs to know | Jitin Kayyala | [Read More](https://medium.com/p/29e9e06999fe) |
-| Sun, 03 Aug 2025 15:21:57 GMT | How to Automate MySQL Backups in 5 Minutes | Giampaolocappellotto | [Read More](https://medium.com/p/3e0ea3c9b7c8) |
-| Sun, 03 Aug 2025 15:20:15 GMT | Creating and Detecting Hidden Messages (Steganography) | Dipakkumargupta (Ethical Hacker) | [Read More](https://medium.com/p/41b6c5211f6c) |
