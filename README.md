@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 18:18:07 GMT | Leaked Photos Suggest Apple Is Finally Prepping Faster Charging for the iPhone 17 Lineup | Cameron Eittreim | [Read More](https://medium.com/p/b3d3dece6beb) |
+| Sun, 03 Aug 2025 18:16:19 GMT | “I was never a Pool” | Ana S | [Read More](https://medium.com/p/de2c3408d778) |
+| Sun, 03 Aug 2025 18:06:35 GMT | AI-Powered Phishing Is Here !!!!(And You’ll Never Spot It) | Rue | [Read More](https://medium.com/p/31081282f558) |
+| Sun, 03 Aug 2025 17:59:48 GMT | # I Found a Subdomain Takeover on Jio — But Got No Credit | divyanshu | [Read More](https://medium.com/p/c46222f8bf0a) |
+| Sun, 03 Aug 2025 17:56:19 GMT | Why Cyber Hygiene Matters: Small Habits, Big Protection | Tarush Sharma | [Read More](https://medium.com/p/fd73daad0625) |
+| Sun, 03 Aug 2025 17:54:33 GMT | The Future of AI Security: Why Autonomous Agents Need a New Kind of Governance | Anandita Dubey | [Read More](https://medium.com/p/d19400e8f161) |
+| Sun, 03 Aug 2025 17:47:03 GMT | Ever Wondered What Happens When You Click “Send”? | Anik Sikder | [Read More](https://medium.com/p/e5eb1b9ffcbd) |
 | Sun, 03 Aug 2025 17:37:41 GMT | Aktif Dizin Taraması İçin İlk Adım | Zehra | [Read More](https://medium.com/p/df76dcdc3b85) |
+| Sun, 03 Aug 2025 17:36:50 GMT | ️ Deploying AD on Server 2022 with GPO Enforcement of Password and Lockout Policies | Yasiin Mahamed IT | [Read More](https://medium.com/p/04408075df3f) |
 | Sun, 03 Aug 2025 17:36:41 GMT | How I Found 3 Security Bugs as a Beginner — My Real Bug Bounty Kickstart! | Priyaagitaa | [Read More](https://medium.com/p/16332b8a62a8) |
 | Sun, 03 Aug 2025 17:33:08 GMT | From LFI to RCE via /var/log/vsftpd.log | Zoningxtr | [Read More](https://medium.com/p/32a9b6ecf3ea) |
 | Sun, 03 Aug 2025 17:22:52 GMT | Quarterly Red-Team Exercises and Policy Updates | Giampaolocappellotto | [Read More](https://medium.com/p/2ed4b9cbdcaa) |
@@ -64,6 +72,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 15:11:36 GMT | Cyber Security Cloud Security: Protecting Data in the Cloud | Cyber Security Research | [Read More](https://medium.com/p/074ecbacc32e) |
 | Sun, 03 Aug 2025 15:07:39 GMT | Cyber Security Configuration Management: Maintaining Secure Settings | Cyber Security Research | [Read More](https://medium.com/p/831762580073) |
 | Sun, 03 Aug 2025 15:02:46 GMT | Menguji Kerentanan SQL Injection pada DVWA hingga Dump Database | veliadevs | [Read More](https://medium.com/p/822f4116135b) |
+| Sun, 03 Aug 2025 14:59:31 GMT | The Pyramid of Pain: A Technical and Operational Deep Dive into Adversary Disruption | Dexter Fox | [Read More](https://medium.com/p/e0be5536e98b) |
 | Sun, 03 Aug 2025 14:55:37 GMT | Cyber Security Patch Management: Keeping Systems Up-to-Date | Cyber Security Research | [Read More](https://medium.com/p/e68a4932a318) |
 | Sun, 03 Aug 2025 14:54:45 GMT | Menyusup ke Dunia “WGEL CTF”! | Akbarsp | [Read More](https://medium.com/p/3dd1bca6e0e3) |
 | Sun, 03 Aug 2025 14:51:06 GMT | ISMAP Management Standards Chapter 6: Building an Information Security Organization and Securing… | nolly | [Read More](https://medium.com/p/1bc7dd94695e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 12:54:03 GMT | Cyber Security Zero-Day Exploits: Exploiting Unknown Vulnerabilities | Cyber Security Research | [Read More](https://medium.com/p/eca19f8e615b) |
 | Sun, 03 Aug 2025 12:52:03 GMT | Cyber Security Privilege Escalation: Gaining Elevated Access | Cyber Security Research | [Read More](https://medium.com/p/fc83f67b788a) |
 | Sun, 03 Aug 2025 12:47:46 GMT | Breaking Access: Understanding IDOR Vulnerability and How to Find It Using Burp Suite | GABBYTECH | [Read More](https://medium.com/p/a85fb2762a90) |
-| Sun, 03 Aug 2025 12:31:42 GMT | Hacking Hackademic RTB1: Full Walkthrough to Root | Regan Temudo | [Read More](https://medium.com/p/e9f26f861d8d) |
-| Sun, 03 Aug 2025 12:31:27 GMT | Cybersecurity: Student Onel de Guzman and the ILOVEYOU Virus | Dr. Seabelo Chabo John, Ed.D. | [Read More](https://medium.com/p/06dc634bd50f) |
-| Sun, 03 Aug 2025 12:25:54 GMT | AI Security: Addressing Detailed Vulnerabilities | Artificial Intelligence Details | [Read More](https://medium.com/p/b37325663e13) |
-| Sun, 03 Aug 2025 12:25:11 GMT | Stored XSS to Privilege Escalation to Admin Takeover to Data Breach | Ahmad Halabi | [Read More](https://medium.com/p/6239d0cc3a5c) |
-| Sun, 03 Aug 2025 12:24:12 GMT | How I Logged in with an Expired Azure AD Password | Amrit Sinha | [Read More](https://medium.com/p/5668d0f36525) |
-| Sun, 03 Aug 2025 12:15:56 GMT | SPHINCS+: The Pinnacle of Quantum-Resistant Hash-Based Digital Signatures | Elif Abanoz | [Read More](https://medium.com/p/347285b637e5) |
-| Sun, 03 Aug 2025 12:13:59 GMT | The Myth of Security by Obscurity: “Nobody Knows” ≠ “Nobody Will Find” | Evgeny Ermakov | [Read More](https://medium.com/p/cbaa49ad65cc) |
-| Sun, 03 Aug 2025 12:11:41 GMT | DockerLabs Writeup — Dance-Samba (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d65a160f23df) |
-| Sun, 03 Aug 2025 12:05:35 GMT | The WAF Weakness Handbook: Confusing Firewalls Like a Pro | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d1ed97e888e2) |
