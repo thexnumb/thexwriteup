@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 15:14:32 GMT | Smart Parenting: Top Spy Apps to Track and Limit Screen Time | Narjis Batool | [Read More](https://medium.com/p/b8c90a13e4c0) |
+| Sun, 03 Aug 2025 15:13:30 GMT | Cyber Security Mobile Security: Securing Mobile Devices | Cyber Security Research | [Read More](https://medium.com/p/31fc2c1115f3) |
+| Sun, 03 Aug 2025 15:11:36 GMT | Cyber Security Cloud Security: Protecting Data in the Cloud | Cyber Security Research | [Read More](https://medium.com/p/074ecbacc32e) |
+| Sun, 03 Aug 2025 15:07:39 GMT | Cyber Security Configuration Management: Maintaining Secure Settings | Cyber Security Research | [Read More](https://medium.com/p/831762580073) |
+| Sun, 03 Aug 2025 15:02:46 GMT | Menguji Kerentanan SQL Injection pada DVWA hingga Dump Database | veliadevs | [Read More](https://medium.com/p/822f4116135b) |
+| Sun, 03 Aug 2025 14:55:37 GMT | Cyber Security Patch Management: Keeping Systems Up-to-Date | Cyber Security Research | [Read More](https://medium.com/p/e68a4932a318) |
+| Sun, 03 Aug 2025 14:54:45 GMT | Menyusup ke Dunia “WGEL CTF”! | Akbarsp | [Read More](https://medium.com/p/3dd1bca6e0e3) |
+| Sun, 03 Aug 2025 14:51:06 GMT | ISMAP Management Standards Chapter 6: Building an Information Security Organization and Securing… | nolly | [Read More](https://medium.com/p/1bc7dd94695e) |
+| Sun, 03 Aug 2025 14:46:08 GMT | The news of a layoff | Blogger | [Read More](https://medium.com/p/740d11c06e8c) |
+| Sun, 03 Aug 2025 14:44:16 GMT | SUBDOMAİN TARAMA | ömer Kaan kurt | [Read More](https://medium.com/p/da78d9b959d4) |
+| Sun, 03 Aug 2025 14:41:47 GMT | The Ultimate Guide to RCP, SMB, and FTP Enumeration: Tools, Techniques & Real-World Scenarios | Rajkumar Kumawat | [Read More](https://medium.com/p/174a01f7fb04) |
+| Sun, 03 Aug 2025 14:41:08 GMT | Dancing - HackTheBox Tier 0 Write-Up | Bridget | [Read More](https://medium.com/p/e8f8f7ad98f9) |
 | Sun, 03 Aug 2025 14:37:04 GMT | Cyber Security Awareness: Your Ultimate Defense Against Digital Threats in 2025 | Paul Meyer | [Read More](https://medium.com/p/d9f33aaf8bc5) |
 | Sun, 03 Aug 2025 14:28:28 GMT | Server-Side Request Forgery (SSRF): Risks, Real-World Scenarios, and Prevention | Raghav Bang | [Read More](https://medium.com/p/8895cf800642) |
 | Sun, 03 Aug 2025 14:19:18 GMT | Shodan: İnternetin Karanlık Aynası | Aybike Tutar | [Read More](https://medium.com/p/def5a66fdcbc) |
@@ -101,15 +113,3 @@ It’s enough that you’re here… for yourself. | Marta | [Read More](https://
 | Sun, 03 Aug 2025 08:31:47 GMT | (Access Control) Lab: Unprotected admin functionality with unpredictable URL - 2025 | Ananda | [Read More](https://medium.com/p/093b3fb3c6e1) |
 | Sun, 03 Aug 2025 08:27:53 GMT | AI vs AI: How Cyberattacks and Defenses Are Evolving in 2025 | Rue | [Read More](https://medium.com/p/a98d4111e35c) |
 | Sun, 03 Aug 2025 08:27:43 GMT | Symfony Web Cache Deception: Real Threat & Code Demo | Pentest_Testing_Corp | [Read More](https://medium.com/p/cf717c2dcc2f) |
-| Sun, 03 Aug 2025 08:25:12 GMT | How Windows Authenticates Users : A Beginner-Friendly Guide | T3rminat0r | [Read More](https://medium.com/p/018254ccd045) |
-| Sun, 03 Aug 2025 08:21:46 GMT | ️ Part 2/6: Active Directory Structure & Replication — Understand the Backbone of AD | Ayush Bagde | [Read More](https://medium.com/p/19edfc1b8884) |
-| Sun, 03 Aug 2025 08:20:28 GMT | “Day 2: Reconnaissance — How I Found My First Real Bug (And How You Can Too)” | Aman Sharma | [Read More](https://medium.com/p/dbf81cb44069) |
-| Sun, 03 Aug 2025 08:13:40 GMT | A Step-by-Step Plan To Learn Agentic AI Security in 2025 | Rue | [Read More](https://medium.com/p/0a41453a496a) |
-| Sun, 03 Aug 2025 08:08:19 GMT | Why Cybersecurity Matters: A Simple Guide to Protecting Our Digital Lives | Thinuri Thissera | [Read More](https://medium.com/p/eecb8a720da0) |
-| Sun, 03 Aug 2025 08:06:41 GMT | Cyber Security Botnets: Armies of Infected Machines | Cyber Security Research | [Read More](https://medium.com/p/678a4eb850ba) |
-| Sun, 03 Aug 2025 08:05:47 GMT | Laravel Rate Limiting — Explained with Real-Life Examples | Sandeeppant | [Read More](https://medium.com/p/ed63d3c8b11b) |
-| Sun, 03 Aug 2025 08:02:41 GMT | Difference in Threat Intelligence, Threat Hunting, Threat Modeling, and Threat Analysis | Rishika Desai | [Read More](https://medium.com/p/4e794823f72b) |
-| Sun, 03 Aug 2025 08:01:08 GMT | The Best Cybersecurity Certifications for Beginners and Experts | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/a49c9ad02efc) |
-| Sun, 03 Aug 2025 08:01:07 GMT | Cyber Security Spyware: Monitoring User Activity | Cyber Security Research | [Read More](https://medium.com/p/9f59d11fd3de) |
-| Sun, 03 Aug 2025 07:58:55 GMT | What is Cross-Site Scripting (XSS)? | Vansh_Makkar | [Read More](https://medium.com/p/cc43d6791fb2) |
-| Sun, 03 Aug 2025 07:50:12 GMT | Clean-Up Fail: How a Forgotten Admin Endpoint Let Me Drop All The Data ️ | Iski | [Read More](https://medium.com/p/1e1c376a986a) |
