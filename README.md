@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 15:32:05 GMT | Week 2. | rkdnawab | [Read More](https://medium.com/p/7c20890207ac) |
+| Sun, 03 Aug 2025 15:31:56 GMT | Unmasking the Cyber Storm : 2025’s Biggest Cyber Attacks and Trends You Need to Know | Josaiah Dkhar | [Read More](https://medium.com/p/4da69d92a86f) |
+| Sun, 03 Aug 2025 15:31:43 GMT | En Yaygın Siber Saldırı Türleri-6 | Melek | [Read More](https://medium.com/p/7944d9be503e) |
+| Sun, 03 Aug 2025 15:31:16 GMT | Chapter 18 (Task Management System): Adding Analytics and Reporting to the Task Management System | Natarajan C K | [Read More](https://medium.com/p/69163f78ff59) |
+| Sun, 03 Aug 2025 15:24:49 GMT | How I Found a Phishing Vector Hiding in a Fortune 500 Company Email (And What It Says About Trust… | Brenton McPherson | [Read More](https://medium.com/p/6f5f8c88beae) |
+| Sun, 03 Aug 2025 15:22:33 GMT | Vulnerabilities of Docker every Developer and DevOps needs to know | Jitin Kayyala | [Read More](https://medium.com/p/29e9e06999fe) |
+| Sun, 03 Aug 2025 15:21:57 GMT | How to Automate MySQL Backups in 5 Minutes | Giampaolocappellotto | [Read More](https://medium.com/p/3e0ea3c9b7c8) |
+| Sun, 03 Aug 2025 15:20:15 GMT | Creating and Detecting Hidden Messages (Steganography) | Dipakkumargupta (Ethical Hacker) | [Read More](https://medium.com/p/41b6c5211f6c) |
+| Sun, 03 Aug 2025 15:18:47 GMT | The Analyst That Never Sleeps: How AI Agents Are Changing Cybersecurity Forever❗ | SupportXDR | [Read More](https://medium.com/p/a6d5328c0022) |
+| Sun, 03 Aug 2025 15:18:14 GMT | Why Modern IT Isn’t Working – And What Real Leadership Looks Like | James Knight | [Read More](https://medium.com/p/db5393def6de) |
+| Sun, 03 Aug 2025 15:17:53 GMT | PORTSWIGGER Cross-site scripting Labs (APPRENTICE level) Walkthrough | Dayanhesara | [Read More](https://medium.com/p/5452334f4c67) |
 | Sun, 03 Aug 2025 15:14:32 GMT | Smart Parenting: Top Spy Apps to Track and Limit Screen Time | Narjis Batool | [Read More](https://medium.com/p/b8c90a13e4c0) |
 | Sun, 03 Aug 2025 15:13:30 GMT | Cyber Security Mobile Security: Securing Mobile Devices | Cyber Security Research | [Read More](https://medium.com/p/31fc2c1115f3) |
 | Sun, 03 Aug 2025 15:11:36 GMT | Cyber Security Cloud Security: Protecting Data in the Cloud | Cyber Security Research | [Read More](https://medium.com/p/074ecbacc32e) |
@@ -101,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 09:20:26 GMT | That Email Looks Fishy… Probably Is. | Authlyn | [Read More](https://medium.com/p/e56626fc2fa0) |
 | Sun, 03 Aug 2025 09:03:44 GMT | Cybersecurity Updates: My Brain Feels Like It’s on Fire | Truspex | [Read More](https://medium.com/p/d4b2cda6b1e7) |
 | Sun, 03 Aug 2025 09:00:43 GMT | Hashcat v7: “Faster Cracking, Fewer Tears!” | CtrlC3 | [Read More](https://medium.com/p/47d2c99c8395) |
-| Sun, 03 Aug 2025 08:58:09 GMT | Sanal Makinede Wazuh ve Wazuh Agent Kurulumu | Ebubekir Çakıcı | [Read More](https://medium.com/p/0b434dac01f0) |
-| Sun, 03 Aug 2025 08:58:02 GMT | BlackBerry KEY3 — The Comeback of the Iconic Keyboard Smartphone | DIGITAL Marketing | [Read More](https://medium.com/p/58d93fcdd7e1) |
-| Sun, 03 Aug 2025 08:46:55 GMT | Burp Suite For Beginners: How I Learned the Proxy and Interceptor | Ayush Kumar | [Read More](https://medium.com/p/dcb787dc89ae) |
-| Sun, 03 Aug 2025 08:45:00 GMT | Not everything has to be a breakthrough.
-It’s enough that you’re here… for yourself. | Marta | [Read More](https://medium.com/p/4f1f0ee843d6) |
-| Sun, 03 Aug 2025 08:43:32 GMT | How I Turned a Temporary Upload into Remote Code Execution Using LFI | Zoningxtr | [Read More](https://medium.com/p/8339f75b6cb0) |
-| Sun, 03 Aug 2025 08:42:08 GMT | Who is Moiz Ul Ghani | Moiz Ul Ghani | [Read More](https://medium.com/p/fcbdbf16c6bc) |
-| Sun, 03 Aug 2025 08:36:54 GMT | Ethical Hacking 101 — Free Online Course for Teens! | Lakshanaa Arunkumar | [Read More](https://medium.com/p/85161b7c248b) |
-| Sun, 03 Aug 2025 08:34:14 GMT | Loitering Detection uses AI-powered video analytics | Visual Monitoring Solutions | [Read More](https://medium.com/p/e7ac8365b8eb) |
-| Sun, 03 Aug 2025 08:31:47 GMT | (Access Control) Lab: Unprotected admin functionality with unpredictable URL - 2025 | Ananda | [Read More](https://medium.com/p/093b3fb3c6e1) |
-| Sun, 03 Aug 2025 08:27:53 GMT | AI vs AI: How Cyberattacks and Defenses Are Evolving in 2025 | Rue | [Read More](https://medium.com/p/a98d4111e35c) |
-| Sun, 03 Aug 2025 08:27:43 GMT | Symfony Web Cache Deception: Real Threat & Code Demo | Pentest_Testing_Corp | [Read More](https://medium.com/p/cf717c2dcc2f) |
