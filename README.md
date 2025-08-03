@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 19:37:51 GMT | Narcoterrorism, Hybrid Warfare & the Global Threat Matrix | SIMKRA | [Read More](https://medium.com/p/0e0f9dc754f9) |
+| Sun, 03 Aug 2025 19:37:31 GMT | The New Battleground of Global Politics | Your's Nightmare | [Read More](https://medium.com/p/6153ddf8c04f) |
+| Sun, 03 Aug 2025 19:25:41 GMT | One week ago, I finally started learning cybersecurity — after years of avoiding it. | KISHOR SUTRADHAR | [Read More](https://medium.com/p/1dce5779442a) |
+| Sun, 03 Aug 2025 19:21:38 GMT | Maggots in the Bin? Here’s How Toms River Families Are Beating the Summer Trash Crisis | Jessica Ray | [Read More](https://medium.com/p/c1c56a0394ab) |
 | Sun, 03 Aug 2025 19:06:55 GMT | Imperfect Consistency: What 30 Days on TryHackMe Taught Me | Cybersecure | [Read More](https://medium.com/p/63b93982166f) |
 | Sun, 03 Aug 2025 19:06:38 GMT | Cybercrime Ka Dark Bazaar: Aapka Data Kitne Me Bikta Hai? | Munazzaeng | [Read More](https://medium.com/p/7258bc1d2113) |
 | Sun, 03 Aug 2025 18:52:29 GMT | FindCheapVPNs.com — The Best Site to Compare Cheap VPNs Fast | Ech the Tech Fox | [Read More](https://medium.com/p/b35402be1d55) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 13:34:28 GMT | I Built My Own Driveway Gates & Saved Thousands—Here’s How You Can Too | ARK Writes | [Read More](https://medium.com/p/5eff611c11a4) |
 | Sun, 03 Aug 2025 13:32:24 GMT | Web Design: Crafting Digital Experiences That Matter | Prosper Opara | [Read More](https://medium.com/p/f66512bea4d7) |
 | Sun, 03 Aug 2025 13:28:02 GMT | PyLog-Sentry: I Built My Own Log Analysis and Alert System (Post-SOC L1 Project) | Furkanctiner | [Read More](https://medium.com/p/2f7a470476b2) |
-| Sun, 03 Aug 2025 13:16:39 GMT | Tech Frontier Weekly Brief (July 29–Aug 2, 2025): AI Power Plays, Global Defense Shifts &… | Haizy Shah | [Read More](https://medium.com/p/18be163d6239) |
-| Sun, 03 Aug 2025 13:04:18 GMT | Phishing Campaigns Are Now Abusing Proofpoint and Intermedia to Bypass Security — Here’s How | Dhruvdeep Singh | [Read More](https://medium.com/p/9a2994d4e5ea) |
-| Sun, 03 Aug 2025 13:03:11 GMT | Breach Writeup — THM Industrial Intrusion CTF (Task 3) | Avyukt Security | [Read More](https://medium.com/p/369e15d1f8eb) |
-| Sun, 03 Aug 2025 13:02:58 GMT | OSINT 2 Writeup — THM Industrial Intrusion CTF (Task 6) | Avyukt Security | [Read More](https://medium.com/p/b928cd9da9fc) |
