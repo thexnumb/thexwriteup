@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 21:09:53 GMT | HOW TO CHOOSE THE BEST CRYPTO COINS TO INVEST IN. | Insurance Investment Management | [Read More](https://medium.com/p/4701fc4dcae0) |
+| Sun, 03 Aug 2025 21:06:18 GMT | Zero to Hero in Scanning & Enumeration: Sinhala-English Beginner’s Guide | Ruwan Sanjeewa | [Read More](https://medium.com/p/b25994878919) |
+| Sun, 03 Aug 2025 21:05:23 GMT | Letsdefend-Splunk (Part 1) | Şervan Alkan | [Read More](https://medium.com/p/ab00763e4d1f) |
+| Sun, 03 Aug 2025 21:05:22 GMT | “Your Phone’s Not Listening — It’s Just Smarter Than You Think” | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/21a30cccec5d) |
+| Sun, 03 Aug 2025 21:04:02 GMT | Going Pro: Cybersecurity for the Modern Business | Ahmed Zouhair | [Read More](https://medium.com/p/16f899fad293) |
+| Sun, 03 Aug 2025 20:58:00 GMT | Mastering Suricata: From Setup to Advanced Threat Detection | Mohamed Basil | [Read More](https://medium.com/p/4ec1cdb9dec1) |
+| Sun, 03 Aug 2025 20:52:08 GMT | Adım Adım Active Directory Kurulumu ve Domain Ortamı Oluşturma | İbrahim Birkan Öztürk | [Read More](https://medium.com/p/1516daf8f5b9) |
+| Sun, 03 Aug 2025 20:50:00 GMT | Drosera Traps | Gen. Dave | [Read More](https://medium.com/p/76bae1378a46) |
+| Sun, 03 Aug 2025 20:49:58 GMT | Wearing Armor to Feel Safe but Dying Inside | Nimraiftikhar | [Read More](https://medium.com/p/2a7a7403708f) |
+| Sun, 03 Aug 2025 20:43:58 GMT | WHAT IS THE BEST CRYPTOCURRENCY OF THE YEAR? | Insurance Investment Management | [Read More](https://medium.com/p/d1517d77768f) |
 | Sun, 03 Aug 2025 20:34:08 GMT | “Has My Computer Been Hacked?” | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/3e53a6963276) |
 | Sun, 03 Aug 2025 20:31:16 GMT | K8s: Deploy a Monitoring Agent with a Restricted Pod Security Standard | W. Jenks Gibbons | [Read More](https://medium.com/p/8ecc4ef5165f) |
 | Sun, 03 Aug 2025 20:29:19 GMT | Day 70: Questions that I used to ask myself | Nile Okomo | [Read More](https://medium.com/p/a5fac54a8327) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 15:22:33 GMT | Vulnerabilities of Docker every Developer and DevOps needs to know | Jitin Kayyala | [Read More](https://medium.com/p/29e9e06999fe) |
 | Sun, 03 Aug 2025 15:21:57 GMT | How to Automate MySQL Backups in 5 Minutes | Giampaolocappellotto | [Read More](https://medium.com/p/3e0ea3c9b7c8) |
 | Sun, 03 Aug 2025 15:20:15 GMT | Creating and Detecting Hidden Messages (Steganography) | Dipakkumargupta (Ethical Hacker) | [Read More](https://medium.com/p/41b6c5211f6c) |
-| Sun, 03 Aug 2025 15:18:47 GMT | The Analyst That Never Sleeps: How AI Agents Are Changing Cybersecurity Forever❗ | SupportXDR | [Read More](https://medium.com/p/a6d5328c0022) |
-| Sun, 03 Aug 2025 15:18:14 GMT | Why Modern IT Isn’t Working – And What Real Leadership Looks Like | James Knight | [Read More](https://medium.com/p/db5393def6de) |
-| Sun, 03 Aug 2025 15:17:53 GMT | PORTSWIGGER Cross-site scripting Labs (APPRENTICE level) Walkthrough | Dayanhesara | [Read More](https://medium.com/p/5452334f4c67) |
-| Sun, 03 Aug 2025 15:14:32 GMT | Smart Parenting: Top Spy Apps to Track and Limit Screen Time | Narjis Batool | [Read More](https://medium.com/p/b8c90a13e4c0) |
-| Sun, 03 Aug 2025 15:13:30 GMT | Cyber Security Mobile Security: Securing Mobile Devices | Cyber Security Research | [Read More](https://medium.com/p/31fc2c1115f3) |
-| Sun, 03 Aug 2025 15:11:36 GMT | Cyber Security Cloud Security: Protecting Data in the Cloud | Cyber Security Research | [Read More](https://medium.com/p/074ecbacc32e) |
-| Sun, 03 Aug 2025 15:07:39 GMT | Cyber Security Configuration Management: Maintaining Secure Settings | Cyber Security Research | [Read More](https://medium.com/p/831762580073) |
-| Sun, 03 Aug 2025 15:02:46 GMT | Menguji Kerentanan SQL Injection pada DVWA hingga Dump Database | veliadevs | [Read More](https://medium.com/p/822f4116135b) |
-| Sun, 03 Aug 2025 14:59:31 GMT | The Pyramid of Pain: A Technical and Operational Deep Dive into Adversary Disruption | Dexter Fox | [Read More](https://medium.com/p/e0be5536e98b) |
-| Sun, 03 Aug 2025 14:55:37 GMT | Cyber Security Patch Management: Keeping Systems Up-to-Date | Cyber Security Research | [Read More](https://medium.com/p/e68a4932a318) |
