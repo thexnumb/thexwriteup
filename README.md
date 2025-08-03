@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 09:35:04 GMT | IAM Roles Anywhere -Access AWS services from on premises | Dhilipsingh G | [Read More](https://medium.com/p/860c95c26ec2) |
+| Sun, 03 Aug 2025 09:34:28 GMT | How To Track Exploited CVEs | VenariX, Inc. | [Read More](https://medium.com/p/b7bb610336a7) |
+| Sun, 03 Aug 2025 09:33:09 GMT | RIP Azure Dedicated HSM (2018–2028) | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/8633808045ab) |
+| Sun, 03 Aug 2025 09:32:33 GMT | I Almost Gave Up, and Honestly, I Still Might | John Okwuose | [Read More](https://medium.com/p/fa3521dc3fd3) |
+| Sun, 03 Aug 2025 09:32:18 GMT | Connect, Capture, Control: How to Take Android Screenshots with ADB on Kali Linux | Dorinelrushi | [Read More](https://medium.com/p/da7c09cf5f4c) |
+| Sun, 03 Aug 2025 09:20:26 GMT | That Email Looks Fishy… Probably Is. | Authlyn | [Read More](https://medium.com/p/e56626fc2fa0) |
 | Sun, 03 Aug 2025 09:03:44 GMT | Cybersecurity Updates: My Brain Feels Like It’s on Fire | Truspex | [Read More](https://medium.com/p/d4b2cda6b1e7) |
 | Sun, 03 Aug 2025 09:00:43 GMT | Hashcat v7: “Faster Cracking, Fewer Tears!” | CtrlC3 | [Read More](https://medium.com/p/47d2c99c8395) |
 | Sun, 03 Aug 2025 08:58:09 GMT | Sanal Makinede Wazuh ve Wazuh Agent Kurulumu | Ebubekir Çakıcı | [Read More](https://medium.com/p/0b434dac01f0) |
@@ -107,9 +113,3 @@ It’s enough that you’re here… for yourself. | Marta | [Read More](https://
 | Sat, 02 Aug 2025 23:01:06 GMT | I Bought Tickets Online… And My Identity Was Stolen | Aj | [Read More](https://medium.com/p/72ef5553f3a8) |
 | Sat, 02 Aug 2025 23:00:15 GMT | The 5 Confessions I Heard Most When I Was a Pastor | Dan Foster | [Read More](https://medium.com/p/897ca2e8d583) |
 | Sat, 02 Aug 2025 22:34:59 GMT | Towards a more decentralized internet via the Asentu browser | Opal Hits | [Read More](https://medium.com/p/7a7f1749904c) |
-| Sat, 02 Aug 2025 22:27:07 GMT | Zeek Exercises - THM | Isiah | [Read More](https://medium.com/p/80bf0583824f) |
-| Sat, 02 Aug 2025 22:22:46 GMT | LFI Log Poisoning: Guia Completo e Walkthrough Prático | Jonathan M. | [Read More](https://medium.com/p/77d4a80a757f) |
-| Sat, 02 Aug 2025 22:19:18 GMT | Ethical Intelligence: Building Malaysia’s AI & Climate Ethics Brand | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/57592add34c5) |
-| Sat, 02 Aug 2025 22:13:48 GMT | The Silent Threat: How a Simple Zip File Triggered Google Web Designer’s Weakness️ | Shaber Tseng | [Read More](https://medium.com/p/e1b18db76533) |
-| Sat, 02 Aug 2025 22:13:22 GMT | 3.6 Roentgen — ASC Cyber WarGames 2025 — Web Challenge | Adham Medhat | [Read More](https://medium.com/p/083462937a4c) |
-| Sat, 02 Aug 2025 22:01:00 GMT | Day 77! | Faithel | [Read More](https://medium.com/p/4021ca914147) |
