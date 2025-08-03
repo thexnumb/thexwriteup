@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 04:49:41 GMT | picoCTF — Custom Encryption [Cryptography] | Fadia Nur Annisa | [Read More](https://medium.com/p/e45af7388790) |
+| Sun, 03 Aug 2025 04:45:38 GMT | Why Samsung Galaxy S25 Is Great for Gaming — 2025 Review? | Luna Collins | [Read More](https://medium.com/p/6157c6ccda1b) |
+| Sun, 03 Aug 2025 04:44:35 GMT | Protecting Atlassian from Phishing Attacks | Turaab Akbar | [Read More](https://medium.com/p/56f0b414c65e) |
+| Sun, 03 Aug 2025 04:43:40 GMT | The Plague You Didn’t See Coming: A Silent Linux Backdoor That Bypassed Detection for a Year | IamVishnu | [Read More](https://medium.com/p/f8947e27c42a) |
+| Sun, 03 Aug 2025 04:41:55 GMT | I Want to Love Someone Who Doesn’t See That as a Red Flag | Dhruvdeep Singh | [Read More](https://medium.com/p/6752836edf76) |
+| Sun, 03 Aug 2025 04:37:20 GMT | How Businesses Grow with Friendship: The PureCompass Perspective - PureCompass - Business… | PureCompass | [Read More](https://medium.com/p/d959b054d9fe) |
+| Sun, 03 Aug 2025 04:09:09 GMT | Node.js Interview Q&A: Day 24 | Dipak Ahirav | [Read More](https://medium.com/p/79940b63ff17) |
+| Sun, 03 Aug 2025 04:02:02 GMT | Cosmist vs Terran: A Meta-Redux | Nicholas Cole Akers | [Read More](https://medium.com/p/d9c9427d4e32) |
+| Sun, 03 Aug 2025 03:57:15 GMT | Phishing the Wallet: Inside Campaigns Targeting UPI and Digital Payment Systems | Vidhi patel | [Read More](https://medium.com/p/05624490ddd1) |
+| Sun, 03 Aug 2025 03:52:22 GMT | We’re Authenticating Transactions. But Not the Channel That Executes Them. | Rodrigo Gutierrez | [Read More](https://medium.com/p/3a5d7c5a866b) |
+| Sun, 03 Aug 2025 03:51:25 GMT | National Identity Card (NID) | Shatrughan | [Read More](https://medium.com/p/bc7f18edcb6b) |
 | Sun, 03 Aug 2025 03:32:36 GMT | Gremlin Stealer: The Polished Malware Kit Reshaping Info-Stealer Threats | Deven Chhajed | [Read More](https://medium.com/p/78297586373a) |
 | Sun, 03 Aug 2025 02:58:33 GMT | CyberDefenders WebStrike LabWrite-Up | Giovanny Joseph | [Read More](https://medium.com/p/5970e2fd5991) |
 | Sun, 03 Aug 2025 02:47:58 GMT | How I Bypassed OTP Verification with Just a Script Tag | Ivoabreu | [Read More](https://medium.com/p/7cbb880060c3) |
@@ -102,14 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 18:11:40 GMT | Cap HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/4ab6c912d405) |
 | Sat, 02 Aug 2025 17:59:11 GMT | My First CTF: Steganography | Domwat | [Read More](https://medium.com/p/af5a00faf0fb) |
 | Sat, 02 Aug 2025 17:54:51 GMT | Hackers Exploit Critical WordPress Theme Flaw to Hijack Sites via Remote Plugin Install… | DefenceRabbit | [Read More](https://medium.com/p/6cdc738c08ea) |
-| Sat, 02 Aug 2025 17:48:17 GMT | You can find my version of performing the lab here : https://github.com/Jeytha/OT-Pentest-Sim-Lab-1 | Jeythasahanav | [Read More](https://medium.com/p/b63f8df8a6e1) |
-| Sat, 02 Aug 2025 17:47:21 GMT | A Comprehensive Guide to GPG-Signed Hash Manifests with GitHub Actions | Femi Oyesanya | [Read More](https://medium.com/p/50a04766a0e7) |
-| Sat, 02 Aug 2025 17:45:55 GMT | SSRF explained | digistam | [Read More](https://medium.com/p/7d832c33775a) |
-| Sat, 02 Aug 2025 17:42:21 GMT | Z-Score: A Metric for Measuring Detection Use Case Consolidation | Zied Eid Alghamdi | [Read More](https://medium.com/p/dbaa16897cbd) |
-| Sat, 02 Aug 2025 17:39:37 GMT | The Conflicts between Confidentiality, Artificial Intelligence and Interoperability in Healthcare | Renato Marcos Endrizzi Sabbatini, PhD | [Read More](https://medium.com/p/0875c69f3cd2) |
-| Sat, 02 Aug 2025 17:19:35 GMT | The Complete Guide to Agentic AI in Security Operations: How Autonomous SOC Agents Are… | Simbian.ai | [Read More](https://medium.com/p/8ffa3b1d4a58) |
-| Sat, 02 Aug 2025 17:19:01 GMT | Unlock $2.8 Million in Annual Savings: How AI SOC Agents Revolutionize Cybersecurity ROI | Simbian.ai | [Read More](https://medium.com/p/ec06907301d5) |
-| Sat, 02 Aug 2025 17:16:04 GMT | The Untapped Force Shaping the Future of Cybersecurity: Focus | Bodhisatya Mookherjee | [Read More](https://medium.com/p/681fbe9d4ab2) |
-| Sat, 02 Aug 2025 17:15:37 GMT | How I Reported a Major Privacy Loophole in ChatGPT’s Sharing Feature | LETCHU PKT | [Read More](https://medium.com/p/6bc4225d81b5) |
-| Sat, 02 Aug 2025 17:12:41 GMT | Top Snapchat Spy Apps for Teens’ Safety & Relationship Trust | Narjis Batool | [Read More](https://medium.com/p/42747aee7139) |
-| Sat, 02 Aug 2025 17:07:52 GMT | No Rate Limiting: My First Real Bug Bounty Find (At 17) | Ishaan Bansal | [Read More](https://medium.com/p/5a8641a2bb81) |
