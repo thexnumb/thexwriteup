@@ -12,10 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 09:03:44 GMT | Cybersecurity Updates: My Brain Feels Like It’s on Fire | Truspex | [Read More](https://medium.com/p/d4b2cda6b1e7) |
+| Sun, 03 Aug 2025 09:00:43 GMT | Hashcat v7: “Faster Cracking, Fewer Tears!” | CtrlC3 | [Read More](https://medium.com/p/47d2c99c8395) |
+| Sun, 03 Aug 2025 08:58:09 GMT | Sanal Makinede Wazuh ve Wazuh Agent Kurulumu | Ebubekir Çakıcı | [Read More](https://medium.com/p/0b434dac01f0) |
+| Sun, 03 Aug 2025 08:58:02 GMT | BlackBerry KEY3 — The Comeback of the Iconic Keyboard Smartphone | DIGITAL Marketing | [Read More](https://medium.com/p/58d93fcdd7e1) |
 | Sun, 03 Aug 2025 08:46:55 GMT | Burp Suite For Beginners: How I Learned the Proxy and Interceptor | Ayush Kumar | [Read More](https://medium.com/p/dcb787dc89ae) |
 | Sun, 03 Aug 2025 08:45:00 GMT | Not everything has to be a breakthrough.
 It’s enough that you’re here… for yourself. | Marta | [Read More](https://medium.com/p/4f1f0ee843d6) |
 | Sun, 03 Aug 2025 08:43:32 GMT | How I Turned a Temporary Upload into Remote Code Execution Using LFI | Zoningxtr | [Read More](https://medium.com/p/8339f75b6cb0) |
+| Sun, 03 Aug 2025 08:42:08 GMT | Who is Moiz Ul Ghani | Moiz Ul Ghani | [Read More](https://medium.com/p/fcbdbf16c6bc) |
 | Sun, 03 Aug 2025 08:36:54 GMT | Ethical Hacking 101 — Free Online Course for Teens! | Lakshanaa Arunkumar | [Read More](https://medium.com/p/85161b7c248b) |
 | Sun, 03 Aug 2025 08:34:14 GMT | Loitering Detection uses AI-powered video analytics | Visual Monitoring Solutions | [Read More](https://medium.com/p/e7ac8365b8eb) |
 | Sun, 03 Aug 2025 08:31:47 GMT | (Access Control) Lab: Unprotected admin functionality with unpredictable URL - 2025 | Ananda | [Read More](https://medium.com/p/093b3fb3c6e1) |
@@ -108,8 +113,3 @@ It’s enough that you’re here… for yourself. | Marta | [Read More](https://
 | Sat, 02 Aug 2025 22:13:48 GMT | The Silent Threat: How a Simple Zip File Triggered Google Web Designer’s Weakness️ | Shaber Tseng | [Read More](https://medium.com/p/e1b18db76533) |
 | Sat, 02 Aug 2025 22:13:22 GMT | 3.6 Roentgen — ASC Cyber WarGames 2025 — Web Challenge | Adham Medhat | [Read More](https://medium.com/p/083462937a4c) |
 | Sat, 02 Aug 2025 22:01:00 GMT | Day 77! | Faithel | [Read More](https://medium.com/p/4021ca914147) |
-| Sat, 02 Aug 2025 21:53:37 GMT | ️‍♂️Penetration Testing Report: Recon & Enumeration on inlanefreight.htb | Mkirahmet | [Read More](https://medium.com/p/8a312071ca37) |
-| Sat, 02 Aug 2025 21:52:13 GMT | 12 Psychological Tactics Every Spy Needs: CIA Social Engineering Techniques From the Logical Spy | Lucid Life | [Read More](https://medium.com/p/02db89e6b63d) |
-| Sat, 02 Aug 2025 21:47:08 GMT | Vulnlab Data CTF Write-Up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/22c3c6f4432b) |
-| Sat, 02 Aug 2025 21:44:17 GMT | Pentest Walkthrough: MSSQL, Oracle, and IPMI Enumeration with Password Extraction | Mkirahmet | [Read More](https://medium.com/p/0f9c69fc1abf) |
-| Sat, 02 Aug 2025 21:35:02 GMT | How I Tracked Down a Single Question That Broke All Our Cron Jobs | Silent Resolver | [Read More](https://medium.com/p/ad8fc41be7ff) |
