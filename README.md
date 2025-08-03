@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 23:10:16 GMT | Top 10 Cybersecurity Skills Every IT Enthusiast Should Master in 2025 | James William Steven Parker | [Read More](https://medium.com/p/e6830c67d77a) |
+| Sun, 03 Aug 2025 23:09:29 GMT | Palo Alto Unit 42’s Attribution Framework | SOCFortress | [Read More](https://medium.com/p/3aa83deaec8b) |
+| Sun, 03 Aug 2025 23:06:16 GMT | ️ Reverse Shell Shellcode Execution in Go — Educational Example | Lazyown Redteam | [Read More](https://medium.com/p/906c11e39182) |
+| Sun, 03 Aug 2025 23:03:10 GMT | How to Learn Ethical Hacking for Free: Your Ultimate Beginner’s Guide | James William Steven Parker | [Read More](https://medium.com/p/7e998634bd35) |
+| Sun, 03 Aug 2025 22:58:02 GMT | SQLi Guide: DB Exploitation Techniques | Che Chalk • Cybersecurity Writer | [Read More](https://medium.com/p/efee21ba2dde) |
+| Sun, 03 Aug 2025 22:55:08 GMT | VoIP’s Dirty Little Secret: The Flaw That Let Me Impersonate a CEO | Mrx0rd | [Read More](https://medium.com/p/5f5f59b1b0e2) |
+| Sun, 03 Aug 2025 22:54:47 GMT | TryHackMe Pre Security 101 — Packets & Frames | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/7261626d651e) |
+| Sun, 03 Aug 2025 22:54:07 GMT | TryHackMe Pre Security 101 — OSI Model | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/f68dac02ddcf) |
+| Sun, 03 Aug 2025 22:53:23 GMT | TryHackMe Pre Security 101 — Intro to LAN | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/4fc621b23133) |
 | Sun, 03 Aug 2025 22:31:01 GMT | MOUNTAINEER WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/fd75b5e8eb38) |
 | Sun, 03 Aug 2025 22:17:40 GMT | Rebels With A Cause: A Road to Nowhere? | Grant Krasner | [Read More](https://medium.com/p/25bf11c815fb) |
 | Sun, 03 Aug 2025 22:16:43 GMT | This Simple Recon Trick Exposed 100+ Hidden Vulnerabilities | Ibtissam hammadi | [Read More](https://medium.com/p/570f75a59df7) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 16:14:41 GMT | DDoS — How it works and how to defend | Ac Studio | [Read More](https://medium.com/p/79c9dd321e4d) |
 | Sun, 03 Aug 2025 16:04:09 GMT | Simple CTF Write-Up | Melih Eymen Bulut | [Read More](https://medium.com/p/6ad222776c13) |
 | Sun, 03 Aug 2025 16:03:37 GMT | Zero Trust Network Access (ZTNA) | Abdul Ahad | [Read More](https://medium.com/p/a3e9eb2e5892) |
-| Sun, 03 Aug 2025 16:01:44 GMT | Why Skipping Authentication Basics Can Break Your App | Marko Uremović | [Read More](https://medium.com/p/7515fab9271a) |
-| Sun, 03 Aug 2025 15:58:41 GMT | Code - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/bda07b468d6d) |
-| Sun, 03 Aug 2025 15:49:23 GMT | ️‍♂️ PenTest Walkthrough: Password Attacks at Nexura LLC | Mkirahmet | [Read More](https://medium.com/p/f23b65fa5fbb) |
-| Sun, 03 Aug 2025 15:46:41 GMT | Corporate Greed Chronicles: Clouds of Cash, Storms of Severance - Atlassian Excess | Namir Sagheenanajar | [Read More](https://medium.com/p/936ff7f9dc60) |
-| Sun, 03 Aug 2025 15:45:11 GMT | Cicadas, Why? | Nancy Parish | [Read More](https://medium.com/p/0bac9ad568a1) |
-| Sun, 03 Aug 2025 15:43:56 GMT | AI and Cyber Insurance — What’s Coming and Why It Matters Now | Suhail R. Ahmad | [Read More](https://medium.com/p/b9b311c0587d) |
-| Sun, 03 Aug 2025 15:37:47 GMT | https://cybersecuritypulse.wordpress.com/ | @cybermentorgopal | [Read More](https://medium.com/p/c7d93d394dbe) |
-| Sun, 03 Aug 2025 15:32:05 GMT | Week 2. | rkdnawab | [Read More](https://medium.com/p/7c20890207ac) |
-| Sun, 03 Aug 2025 15:31:56 GMT | Unmasking the Cyber Storm : 2025’s Biggest Cyber Attacks and Trends You Need to Know | Josaiah Dkhar | [Read More](https://medium.com/p/4da69d92a86f) |
