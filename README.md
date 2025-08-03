@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 20:34:08 GMT | “Has My Computer Been Hacked?” | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/3e53a6963276) |
+| Sun, 03 Aug 2025 20:31:16 GMT | K8s: Deploy a Monitoring Agent with a Restricted Pod Security Standard | W. Jenks Gibbons | [Read More](https://medium.com/p/8ecc4ef5165f) |
+| Sun, 03 Aug 2025 20:29:19 GMT | Day 70: Questions that I used to ask myself | Nile Okomo | [Read More](https://medium.com/p/a5fac54a8327) |
+| Sun, 03 Aug 2025 20:27:04 GMT | Application Layer Attacks: The Silent Killer of Modern Apps | Siddiquimohammad | [Read More](https://medium.com/p/07b067569e4d) |
+| Sun, 03 Aug 2025 20:26:31 GMT | I Found My Home Address on 50+ Websites.Here’s What Scared Me Most | BiyteLüm | [Read More](https://medium.com/p/48130dc09a98) |
 | Sun, 03 Aug 2025 20:14:51 GMT | The 10 Critical Cybersecurity Issues in the World of AI | Muhammad Adenowo | [Read More](https://medium.com/p/1bd03be7f7d4) |
 | Sun, 03 Aug 2025 20:13:18 GMT | HOW CAN ONE INVEST IN BITCOINS? | Insurance Investment Management | [Read More](https://medium.com/p/6864b286a5a0) |
 | Sun, 03 Aug 2025 20:11:37 GMT | USB File Recovery: A Complete Guide to Restoring Deleted Data | Fatima Heshma | [Read More](https://medium.com/p/f3a7add50f2c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 15:02:46 GMT | Menguji Kerentanan SQL Injection pada DVWA hingga Dump Database | veliadevs | [Read More](https://medium.com/p/822f4116135b) |
 | Sun, 03 Aug 2025 14:59:31 GMT | The Pyramid of Pain: A Technical and Operational Deep Dive into Adversary Disruption | Dexter Fox | [Read More](https://medium.com/p/e0be5536e98b) |
 | Sun, 03 Aug 2025 14:55:37 GMT | Cyber Security Patch Management: Keeping Systems Up-to-Date | Cyber Security Research | [Read More](https://medium.com/p/e68a4932a318) |
-| Sun, 03 Aug 2025 14:54:45 GMT | Menyusup ke Dunia “WGEL CTF”! | Akbarsp | [Read More](https://medium.com/p/3dd1bca6e0e3) |
-| Sun, 03 Aug 2025 14:51:06 GMT | ISMAP Management Standards Chapter 6: Building an Information Security Organization and Securing… | nolly | [Read More](https://medium.com/p/1bc7dd94695e) |
-| Sun, 03 Aug 2025 14:46:08 GMT | The news of a layoff | Blogger | [Read More](https://medium.com/p/740d11c06e8c) |
-| Sun, 03 Aug 2025 14:44:16 GMT | SUBDOMAİN TARAMA | ömer Kaan kurt | [Read More](https://medium.com/p/da78d9b959d4) |
-| Sun, 03 Aug 2025 14:41:47 GMT | The Ultimate Guide to RCP, SMB, and FTP Enumeration: Tools, Techniques & Real-World Scenarios | Rajkumar Kumawat | [Read More](https://medium.com/p/174a01f7fb04) |
