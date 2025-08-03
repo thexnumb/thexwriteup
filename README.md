@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 01:51:51 GMT | The Outlaw — Prologue | Darwin Dela Cruz | [Read More](https://medium.com/p/0a0d3497a34e) |
+| Sun, 03 Aug 2025 01:42:36 GMT | Cookies in the Backend? Here’s the Simplest Explanation You’ll Ever Need | Shubham Sharma | [Read More](https://medium.com/p/9b8eb16cb800) |
+| Sun, 03 Aug 2025 01:25:05 GMT | Why Installing an Automatic Gate Opener Is the Smartest Move You’ll Make This Year | Earnest Sherrill | [Read More](https://medium.com/p/ecd2e5a550ab) |
+| Sun, 03 Aug 2025 00:57:45 GMT | Hackers Vow to Dump 3.5TB of Stolen Ingram Micro Data | Muneeb Sikhani | [Read More](https://medium.com/p/95f49bdcc1f9) |
+| Sun, 03 Aug 2025 00:57:02 GMT | ☢ Da LFI ao Root via Log Poisoning ☢ — CTF Writeup | Jonathan M. | [Read More](https://medium.com/p/b753d40f2ce1) |
+| Sun, 03 Aug 2025 00:51:07 GMT | I Am Now a Certified Red Team Analyst (CRTA)– My Full Experience with CyberWarFare Labs | Xh081iX | [Read More](https://medium.com/p/a11817048eb8) |
+| Sun, 03 Aug 2025 00:47:02 GMT | Oyster Malware via Fake PuTTY | Cyber T | [Read More](https://medium.com/p/38addfb61f38) |
+| Sun, 03 Aug 2025 00:46:40 GMT | My Virtual HomeLab: Malware Analysis | Cybersec with Hemmars | [Read More](https://medium.com/p/51d885051dad) |
+| Sun, 03 Aug 2025 00:45:54 GMT | Land a Job in Cybersecurity Without any Degree | Satyam Pathania | [Read More](https://medium.com/p/4d9f301149a4) |
+| Sun, 03 Aug 2025 00:42:32 GMT | Find Information About Anyone Through Social Media OSINT Techniques | Ghani Mengal | [Read More](https://medium.com/p/91dc68fd4a27) |
+| Sun, 03 Aug 2025 00:42:20 GMT | Landing a Cybersecurity Role in 2026: What Will Actually Work | Hemant Patkar, CISSP | [Read More](https://medium.com/p/92a001e65e69) |
+| Sun, 03 Aug 2025 00:41:54 GMT | How Race Conditions Let You Snatch Unlimited Free Domains | Monika sharma | [Read More](https://medium.com/p/963deec411a5) |
+| Sun, 03 Aug 2025 00:29:07 GMT | How Uncontrolled Search Paths Can Let Hackers Hijack Your Node.js App (CWE-427 Explained) | Ali nazari | [Read More](https://medium.com/p/04ef8df6d883) |
+| Sun, 03 Aug 2025 00:23:43 GMT | Week 1 — Foundational Encryption Concepts | Joshua O. Berkoh | [Read More](https://medium.com/p/26ac02d4388d) |
+| Sat, 02 Aug 2025 23:56:54 GMT | Cybersecurity Brain Teasers That Got Students Thinking Like Analysts | Gitika Babbar | [Read More](https://medium.com/p/7cb2f199948e) |
+| Sat, 02 Aug 2025 23:55:19 GMT | Digital Resistance in a Surveillance Society: Analyzing Watch Dogs 2’s Gamified Hactivism | User12778993 | [Read More](https://medium.com/p/8023e1c5b705) |
+| Sat, 02 Aug 2025 23:48:16 GMT | Absolutely! | Amr Abdulhameed | [Read More](https://medium.com/p/b66ed524dedc) |
+| Sat, 02 Aug 2025 23:44:20 GMT | 5 Must-Know Skills for Engineering Students to Kickstart a Career in Cybersecurity | Tejas Khairnar | [Read More](https://medium.com/p/b64ae8bf7dce) |
 | Sat, 02 Aug 2025 23:15:57 GMT | Truecaller Call Recording Discontinuation: iOS Platform Analysis | ObisDev | [Read More](https://medium.com/p/f3b4096ddab9) |
 | Sat, 02 Aug 2025 23:01:06 GMT | I Bought Tickets Online… And My Identity Was Stolen | Aj | [Read More](https://medium.com/p/72ef5553f3a8) |
 | Sat, 02 Aug 2025 23:00:15 GMT | The 5 Confessions I Heard Most When I Was a Pastor | Dan Foster | [Read More](https://medium.com/p/897ca2e8d583) |
@@ -95,21 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 16:47:09 GMT | Why does no one listen anymore? | time_traveller2014 | [Read More](https://medium.com/p/36ccc3b3d03f) |
 | Sat, 02 Aug 2025 16:44:19 GMT | Building Security In, Not Bolting On | Tom Ermolaev | [Read More](https://medium.com/p/a36e18488557) |
 | Sat, 02 Aug 2025 16:42:36 GMT | From Fiber Taps to Zero-Click Exploits: The True Power of NSA, CIA & Unit 8200 | Muhammad Sameer | [Read More](https://medium.com/p/964fff2712dc) |
-| Sat, 02 Aug 2025 16:40:45 GMT | Written in the Palms | Isha | [Read More](https://medium.com/p/bc5c7be6737f) |
-| Sat, 02 Aug 2025 16:40:37 GMT | How to Kill Privacy and Call It Child Protection: The UK’s Online Safety Act | Matyas Koszegi | [Read More](https://medium.com/p/0497723db4e1) |
-| Sat, 02 Aug 2025 16:39:51 GMT | Economic Risks of Cybersecurity Vulnerabilities in Global Supply Chains | Mohi Uddin | [Read More](https://medium.com/p/b37b13358489) |
-| Sat, 02 Aug 2025 16:34:34 GMT | SameSite Lax bypass via method override @ PortSwigger Walkthrough | Amr Elharery | [Read More](https://medium.com/p/14d0b3911e19) |
-| Sat, 02 Aug 2025 16:29:36 GMT | The Cyber Attack That Changed Geopolitics | Aj | [Read More](https://medium.com/p/c274cac16f1c) |
-| Sat, 02 Aug 2025 16:24:37 GMT | An Open Discussion on Risk | JMP ESP FF E4 | [Read More](https://medium.com/p/58d91111d7fc) |
-| Sat, 02 Aug 2025 16:14:11 GMT | HackTheBox — Planning (Writeup) | ruruuu | [Read More](https://medium.com/p/3a1d6d597cca) |
-| Sat, 02 Aug 2025 16:13:38 GMT | Broken Access Control-Part 2 | t0x1k | [Read More](https://medium.com/p/7651d13c5c13) |
-| Sat, 02 Aug 2025 16:10:15 GMT | Insecure Refresh Token Usage Leads to Account Takeover (IDOR) | Mahmoud Gamal | [Read More](https://medium.com/p/14c4a9ec504b) |
-| Sat, 02 Aug 2025 16:07:33 GMT | AI-GENERATED  MUSIC: SOUL OR SIMULATION ? | Knowledge Upswing | [Read More](https://medium.com/p/731d703e7ce7) |
-| Sat, 02 Aug 2025 16:06:55 GMT | ️ Into the Shadows: Navigating the Dark Web — Myths, Markets & Cyber Threats | Asma Yasmeen | [Read More](https://medium.com/p/03a24d457416) |
-| Sat, 02 Aug 2025 16:05:30 GMT | Soupedecode 01 - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/2ca90ac439ba) |
-| Sat, 02 Aug 2025 16:03:49 GMT | BLUEMOO WALKTHROUG | akpsecurity | [Read More](https://medium.com/p/b86daf57a5ce) |
-| Sat, 02 Aug 2025 16:02:15 GMT | CSRF where token is duplicated in cookie — PortSwigger Walkthrough | Amr Elharery | [Read More](https://medium.com/p/99850cf273e2) |
-| Sat, 02 Aug 2025 16:01:56 GMT | Deepfakes Are the Next Cyber Weapon! | Your's Nightmare | [Read More](https://medium.com/p/78253c82478e) |
-| Sat, 02 Aug 2025 15:54:39 GMT | Symphonus 3 — Web Challenge Report (Medium) | DataDefender | [Read More](https://medium.com/p/d160392cb8ba) |
-| Sat, 02 Aug 2025 15:52:11 GMT | صیغه آوج صیغه آبیک صیغه البرز صیغه بوئین زهرا صیغه تاکستان صیغه بیدستان صیغه قروه صیغه خرمدشت | wosado7802@zelknow.com | [Read More](https://medium.com/p/4c6a27ba20f9) |
-| Sat, 02 Aug 2025 15:51:49 GMT | صیغه آمل صیغه بابل صیغه بابلسر صیغه بهشهر شما صیغه تنکابن صیغه جویبار صیغه چالوس صیغه رامسر | wosado7802@zelknow.com | [Read More](https://medium.com/p/46c7125c02ef) |
