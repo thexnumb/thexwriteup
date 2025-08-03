@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 05:21:41 GMT | “GitHub Recon: Hacking the Frontend Without Touching the App” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5d8798d5ac64) |
+| Sun, 03 Aug 2025 05:19:56 GMT | The development of thinking abilities in artificial intelligence models.. | Sidialtos | [Read More](https://medium.com/p/fafb1f7002c8) |
+| Sun, 03 Aug 2025 05:05:33 GMT | Could Hackers Hijack Your EV? | Penyu Labs | [Read More](https://medium.com/p/7773ebfb76bd) |
 | Sun, 03 Aug 2025 04:49:41 GMT | picoCTF — Custom Encryption [Cryptography] | Fadia Nur Annisa | [Read More](https://medium.com/p/e45af7388790) |
 | Sun, 03 Aug 2025 04:45:38 GMT | Why Samsung Galaxy S25 Is Great for Gaming — 2025 Review? | Luna Collins | [Read More](https://medium.com/p/6157c6ccda1b) |
 | Sun, 03 Aug 2025 04:44:35 GMT | Protecting Atlassian from Phishing Attacks | Turaab Akbar | [Read More](https://medium.com/p/56f0b414c65e) |
@@ -110,6 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 18:17:13 GMT | Social Identity and Political Mobilization in Cyberspace | Ellereem | [Read More](https://medium.com/p/efcbc2c650fe) |
 | Sat, 02 Aug 2025 18:17:09 GMT | ️ Sinhala-English Guide to Reconnaissance Tools in Ethical Hacking (Practical Examples) | Ruwan Sanjeewa | [Read More](https://medium.com/p/d8376907eb3b) |
 | Sat, 02 Aug 2025 18:13:10 GMT | “Push to Pwn: Hacking GitHub Like a Pro — The Ultimate OSINT + CI/CD Exploitation Playbook” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/089fff02fa9a) |
-| Sat, 02 Aug 2025 18:11:40 GMT | Cap HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/4ab6c912d405) |
-| Sat, 02 Aug 2025 17:59:11 GMT | My First CTF: Steganography | Domwat | [Read More](https://medium.com/p/af5a00faf0fb) |
-| Sat, 02 Aug 2025 17:54:51 GMT | Hackers Exploit Critical WordPress Theme Flaw to Hijack Sites via Remote Plugin Install… | DefenceRabbit | [Read More](https://medium.com/p/6cdc738c08ea) |
