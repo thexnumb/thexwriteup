@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 19:06:55 GMT | Imperfect Consistency: What 30 Days on TryHackMe Taught Me | Cybersecure | [Read More](https://medium.com/p/63b93982166f) |
+| Sun, 03 Aug 2025 19:06:38 GMT | Cybercrime Ka Dark Bazaar: Aapka Data Kitne Me Bikta Hai? | Munazzaeng | [Read More](https://medium.com/p/7258bc1d2113) |
+| Sun, 03 Aug 2025 18:52:29 GMT | FindCheapVPNs.com — The Best Site to Compare Cheap VPNs Fast | Ech the Tech Fox | [Read More](https://medium.com/p/b35402be1d55) |
+| Sun, 03 Aug 2025 18:48:38 GMT | Will AI Steal Cybersecurity Jobs — Or Create Them? | Rue | [Read More](https://medium.com/p/b98101a85020) |
+| Sun, 03 Aug 2025 18:45:06 GMT | The Culture Shift of GenAI: Generating an Artificially Intelligent World | Ashley Drey | [Read More](https://medium.com/p/0b185f5ab44f) |
+| Sun, 03 Aug 2025 18:41:20 GMT | Controlled DoS Attack Sim: Ethical Security Research Guide | @umesh | [Read More](https://medium.com/p/521fde58c1a5) |
+| Sun, 03 Aug 2025 18:24:37 GMT | Why Traditional IAM Tools Can’t Handle Autonomous AI | Anandita Dubey | [Read More](https://medium.com/p/04565f1f6996) |
 | Sun, 03 Aug 2025 18:18:07 GMT | Leaked Photos Suggest Apple Is Finally Prepping Faster Charging for the iPhone 17 Lineup | Cameron Eittreim | [Read More](https://medium.com/p/b3d3dece6beb) |
 | Sun, 03 Aug 2025 18:16:19 GMT | “I was never a Pool” | Ana S | [Read More](https://medium.com/p/de2c3408d778) |
 | Sun, 03 Aug 2025 18:06:35 GMT | AI-Powered Phishing Is Here !!!!(And You’ll Never Spot It) | Rue | [Read More](https://medium.com/p/31081282f558) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 13:04:18 GMT | Phishing Campaigns Are Now Abusing Proofpoint and Intermedia to Bypass Security — Here’s How | Dhruvdeep Singh | [Read More](https://medium.com/p/9a2994d4e5ea) |
 | Sun, 03 Aug 2025 13:03:11 GMT | Breach Writeup — THM Industrial Intrusion CTF (Task 3) | Avyukt Security | [Read More](https://medium.com/p/369e15d1f8eb) |
 | Sun, 03 Aug 2025 13:02:58 GMT | OSINT 2 Writeup — THM Industrial Intrusion CTF (Task 6) | Avyukt Security | [Read More](https://medium.com/p/b928cd9da9fc) |
-| Sun, 03 Aug 2025 13:00:39 GMT | Web 3.0 CTF Solutions — ASCWG 2025 Qualifications | Wasfy Elbaz | [Read More](https://medium.com/p/ff3064416d67) |
-| Sun, 03 Aug 2025 13:00:22 GMT | iOS 15.2+ Now Uses Cloudflare’s & Akamai’s DNS By Default for Your Device’s Traffic | Basil A. | [Read More](https://medium.com/p/95d0f805a827) |
-| Sun, 03 Aug 2025 12:57:50 GMT | Cyber Security Pen Testing: Simulating Real-World Attacks | Cyber Security Research | [Read More](https://medium.com/p/2fdc6cc6e706) |
-| Sun, 03 Aug 2025 12:55:53 GMT | Cyber Security Reverse Engineering: Analyzing Malicious Code | Cyber Security Research | [Read More](https://medium.com/p/36fdb88461ee) |
-| Sun, 03 Aug 2025 12:54:03 GMT | Cyber Security Zero-Day Exploits: Exploiting Unknown Vulnerabilities | Cyber Security Research | [Read More](https://medium.com/p/eca19f8e615b) |
-| Sun, 03 Aug 2025 12:52:03 GMT | Cyber Security Privilege Escalation: Gaining Elevated Access | Cyber Security Research | [Read More](https://medium.com/p/fc83f67b788a) |
-| Sun, 03 Aug 2025 12:47:46 GMT | Breaking Access: Understanding IDOR Vulnerability and How to Find It Using Burp Suite | GABBYTECH | [Read More](https://medium.com/p/a85fb2762a90) |
