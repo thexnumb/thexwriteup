@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 16:46:21 GMT | JavaScript + Burp + GitHub = Supply Chain Goldmine | Narendar Battula (nArEn) | [Read More](https://medium.com/p/81cbf39d575c) |
+| Sun, 03 Aug 2025 16:45:32 GMT | CyberDefenders Oski Lab Write-Up | Giovanny Joseph | [Read More](https://medium.com/p/c0f673fd8afd) |
+| Sun, 03 Aug 2025 16:39:27 GMT | HTB Starting Point Tier 1 Crocodile ve Responder Makineleri Çözümleri ile Bilinmesi Gerekenler | Burhan Demir | [Read More](https://medium.com/p/614b83bbb4ac) |
+| Sun, 03 Aug 2025 16:34:26 GMT | LLM Security in 2025: How Samsung’s $62M Mistake Reveals 8 Critical Risks Every Enterprise Must… | Max Levko | [Read More](https://medium.com/p/f1e2bf9aa957) |
+| Sun, 03 Aug 2025 16:33:56 GMT | Red Teaming in AWS Cloud: Tactics, Techniques, and Procedures | Lord Murak | [Read More](https://medium.com/p/100bf0e3f425) |
+| Sun, 03 Aug 2025 16:32:53 GMT | I Called Out a Scam Targeting Developers. This Is What Happened Next. | NIkhil Kumar | [Read More](https://medium.com/p/eabea63b4077) |
+| Sun, 03 Aug 2025 16:31:57 GMT | Exposed AI Conversations: Analyzing Publicly Shared Chats Across Popular AI Services | Anatoliy Fedorenko | [Read More](https://medium.com/p/f816634d3b16) |
+| Sun, 03 Aug 2025 16:30:28 GMT | Top 20 WAF Bypass Chains Using Burp Suite + AI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5eefda3c3283) |
+| Sun, 03 Aug 2025 16:22:47 GMT | Email Security Beyond SPF/DKIM/DMARC | Karthikeyan Nagaraj | [Read More](https://medium.com/p/62ce6cd13479) |
 | Sun, 03 Aug 2025 16:18:04 GMT | Full Guide: From LFI to RCE via /var/log/mail.log ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/54b9686def62) |
 | Sun, 03 Aug 2025 16:14:41 GMT | DDoS — How it works and how to defend | Ac Studio | [Read More](https://medium.com/p/79c9dd321e4d) |
 | Sun, 03 Aug 2025 16:04:09 GMT | Simple CTF Write-Up | Melih Eymen Bulut | [Read More](https://medium.com/p/6ad222776c13) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 10:51:52 GMT | JWT for Backend Developers: How It Works, Why It’s Secure, and When to Use It..‍ | Shubham Vartak | [Read More](https://medium.com/p/59f4ac0a14f6) |
 | Sun, 03 Aug 2025 10:44:49 GMT | How Anyone Can Start Protecting Themselves from Invisible Cyber Threats" | H3X | [Read More](https://medium.com/p/25883d8ea532) |
 | Sun, 03 Aug 2025 10:41:03 GMT | Cypher — Hack The Box | Toshith | [Read More](https://medium.com/p/02e33b8b043c) |
-| Sun, 03 Aug 2025 10:34:46 GMT | SMT 2025 — Expert Lecture 2 | Firdhan H | [Read More](https://medium.com/p/e6cb7b00fedd) |
-| Sun, 03 Aug 2025 10:25:44 GMT | How Azure SAS Expiration Actions Empower Customer | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/40c2a3d78e1d) |
-| Sun, 03 Aug 2025 10:20:08 GMT | Why I Am Learning Cybersecurity (And No, It’s Not for the Money) | Emmanuel Jeffrey Kassa | [Read More](https://medium.com/p/2dec725c0c5d) |
-| Sun, 03 Aug 2025 10:17:26 GMT | VeraCrypt — And Memories of Classic Ciphers (Twofish, Serpent and Camellia) | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/ed18e8f9ff5d) |
-| Sun, 03 Aug 2025 10:10:52 GMT | SQL Injection Fundamentals — HTB Walkthrough | Vincent Olago | [Read More](https://medium.com/p/1ae01e85ba34) |
-| Sun, 03 Aug 2025 10:04:46 GMT | PortSwigger XSS Labs: A Complete Guide to All 9 Apprentice-Level Challenges | Thanuj Dilshan Thilakarathne | [Read More](https://medium.com/p/6fba56da8635) |
-| Sun, 03 Aug 2025 10:04:32 GMT | How I Hunt Bugs Without Tools — Just Brain, Browser, and a Bit of Madness | Viratavi | [Read More](https://medium.com/p/55eb104cf79c) |
-| Sun, 03 Aug 2025 10:03:13 GMT | The Age of Rogue AI Is Already Here | Seán Baufeld | [Read More](https://medium.com/p/74a1daa6c595) |
-| Sun, 03 Aug 2025 09:58:40 GMT | Competitive intelligence | Ashraf Emon | [Read More](https://medium.com/p/63986c6f9aaa) |
