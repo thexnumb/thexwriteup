@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 07:33:46 GMT | Roadmap to Learn AI And Machine Learning in 2025 | cyber security Updates | [Read More](https://medium.com/p/3d3aed5fa270) |
+| Sun, 03 Aug 2025 07:22:37 GMT | Hacking the Blockchain: | Kushagra Raghuwanshi | [Read More](https://medium.com/p/24fd3d58417d) |
+| Sun, 03 Aug 2025 07:20:47 GMT | The Page She Never Read.. | Fazeelat | [Read More](https://medium.com/p/6c6da3abb16d) |
+| Sun, 03 Aug 2025 07:16:01 GMT | AWS Ecosystem: AWS re:Inforce | Asia from TakeCert | [Read More](https://medium.com/p/404a6b43f32f) |
+| Sun, 03 Aug 2025 07:10:20 GMT | Inayat Hussain Chohan: The Polymath Who Dared to Rewire the Future | Inayat Hussain | [Read More](https://medium.com/p/7d2b83d68a91) |
+| Sun, 03 Aug 2025 07:09:29 GMT | Asking Satoshi … Why RIPEMD160 and SHA-256 and Why RIPEMD160? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/28609e058d8f) |
 | Sun, 03 Aug 2025 07:05:52 GMT | TryHackMe – Blue (CTF Room) Walkthrough | Sakthi S | [Read More](https://medium.com/p/744e2cab97f0) |
 | Sun, 03 Aug 2025 07:04:47 GMT | Stepping down into the Ocaml Mines — UIUCTF 2025 Writeup | Nikhil Chapre | [Read More](https://medium.com/p/303a2eb5551a) |
 | Sun, 03 Aug 2025 06:57:38 GMT | How a Simple Guess Unlocked Millions of Government IDs & Private Info | Parag Bagade | [Read More](https://medium.com/p/e583e3d8618a) |
@@ -107,9 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 20:02:26 GMT | Title: The Beauty of Programming | Prosper Opara | [Read More](https://medium.com/p/4f00f20cd20a) |
 | Sat, 02 Aug 2025 20:01:45 GMT | CyberSecStats #23 — Monthly cybersecurity statistics round-up (June/July 2025) | CyberSecStats | [Read More](https://medium.com/p/5efe0497bd15) |
 | Sat, 02 Aug 2025 19:57:44 GMT | The Cyber Security Podcasts everyone should be listening to! | SecBySam | [Read More](https://medium.com/p/68d7abbfea3a) |
-| Sat, 02 Aug 2025 19:38:59 GMT | Beyond Port Scanning: My Deep Dive into Service Footprinting and Enumeration | Robert Perez | [Read More](https://medium.com/p/09d2322be246) |
-| Sat, 02 Aug 2025 19:36:34 GMT | Securing LLM-Native Cloud Applications | Above The Firewall | [Read More](https://medium.com/p/51d83c981511) |
-| Sat, 02 Aug 2025 19:35:26 GMT | Client-Side Lies: Hacking the Logic Behind PortSwigger’s Business Flaw Lab | Ishtiyak  Surve | [Read More](https://medium.com/p/30da3638d0b3) |
-| Sat, 02 Aug 2025 19:29:39 GMT | Part8: Mastering Network Security: In-Depth Concepts, Threats & Defenses | White Panther | [Read More](https://medium.com/p/a181018cc0d0) |
-| Sat, 02 Aug 2025 19:24:38 GMT | DAY 33 — CTF #7: Signal in Static | Jinay | [Read More](https://medium.com/p/5ac789e4c3b6) |
-| Sat, 02 Aug 2025 19:22:12 GMT | Cybersecurity — Discover the Top 3 Career & Earnings Growth Strategies for 2025 | Franklin Rhodes | [Read More](https://medium.com/p/b3be9233d460) |
