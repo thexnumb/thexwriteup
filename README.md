@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 17:18:00 GMT | Advanced Cybersecurity Strategies for 2025 | Giampaolocappellotto | [Read More](https://medium.com/p/d2f548bb53b4) |
+| Sun, 03 Aug 2025 17:15:37 GMT | Data-Vulnlab Write-Up | t0x1k | [Read More](https://medium.com/p/79d791a68d5f) |
+| Sun, 03 Aug 2025 17:14:33 GMT | CI/CD with Jenkins: Build Your Pipeline from Scratch | Giampaolocappellotto | [Read More](https://medium.com/p/ea0af5f77e72) |
+| Sun, 03 Aug 2025 17:09:39 GMT | Automating Configuration Management with Ansible | Giampaolocappellotto | [Read More](https://medium.com/p/3b38c615a1bf) |
+| Sun, 03 Aug 2025 17:03:48 GMT | JWTs & CSRF Tokens | Buddika Gunawardena | [Read More](https://medium.com/p/465e5d4f91cf) |
+| Sun, 03 Aug 2025 17:03:03 GMT | Infrastructure Monitoring with Prometheus and Grafana | Giampaolocappellotto | [Read More](https://medium.com/p/5cdebac90528) |
+| Sun, 03 Aug 2025 16:58:46 GMT | Burp Suite x AI: The Mutation Engine That Thinks, Chains, and Exploits Like a Human | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bf250df0ba0c) |
+| Sun, 03 Aug 2025 16:53:42 GMT | There may be truth in online banking fearmongering | Cedric Fitzgerald | [Read More](https://medium.com/p/c860c6931189) |
+| Sun, 03 Aug 2025 16:51:41 GMT | How I Discovered a Real University Vulnerability Built Custom Scripts, and Reported It the Right… | Michael | [Read More](https://medium.com/p/8ab807873f98) |
 | Sun, 03 Aug 2025 16:46:21 GMT | JavaScript + Burp + GitHub = Supply Chain Goldmine | Narendar Battula (nArEn) | [Read More](https://medium.com/p/81cbf39d575c) |
 | Sun, 03 Aug 2025 16:45:32 GMT | CyberDefenders Oski Lab Write-Up | Giovanny Joseph | [Read More](https://medium.com/p/c0f673fd8afd) |
+| Sun, 03 Aug 2025 16:45:19 GMT | Google — ShallWePlay | David T. Garitagoitia | [Read More](https://medium.com/p/0d81b27bcfae) |
 | Sun, 03 Aug 2025 16:39:27 GMT | HTB Starting Point Tier 1 Crocodile ve Responder Makineleri Çözümleri ile Bilinmesi Gerekenler | Burhan Demir | [Read More](https://medium.com/p/614b83bbb4ac) |
 | Sun, 03 Aug 2025 16:34:26 GMT | LLM Security in 2025: How Samsung’s $62M Mistake Reveals 8 Critical Risks Every Enterprise Must… | Max Levko | [Read More](https://medium.com/p/f1e2bf9aa957) |
 | Sun, 03 Aug 2025 16:33:56 GMT | Red Teaming in AWS Cloud: Tactics, Techniques, and Procedures | Lord Murak | [Read More](https://medium.com/p/100bf0e3f425) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 11:33:04 GMT | “WAF This Way: Real-World Bypass Tactics from the Trenches” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0d2eaae9e32f) |
 | Sun, 03 Aug 2025 11:31:02 GMT | INFORMATION | Sami Toor | [Read More](https://medium.com/p/0504b9dc5b77) |
 | Sun, 03 Aug 2025 11:24:07 GMT | What is a Zero-Day Vulnerability? | Aardaa Karakas | [Read More](https://medium.com/p/6d2c2c883d01) |
-| Sun, 03 Aug 2025 11:22:20 GMT | TryHackMe: Snort Challenge — The Basics - Complete Step-by-Step Walkthrough | Asad Ali | [Read More](https://medium.com/p/425e146d2624) |
-| Sun, 03 Aug 2025 11:18:25 GMT | WAF Confusion Reloaded: Turning Firewalls into Exploit Accelerators | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ccab152838cd) |
-| Sun, 03 Aug 2025 11:12:54 GMT | Dissecting a Double Extension Malware Attack: Deep Dive into hxxps://voomka[.]in/statement[.]php | Shefali Kumari | [Read More](https://medium.com/p/d1d7ee542fa1) |
-| Sun, 03 Aug 2025 11:02:29 GMT | Can AI Help Save the Planet? Exploring Its Role in Climate Action | Payaam Raza | [Read More](https://medium.com/p/c33468c2b981) |
-| Sun, 03 Aug 2025 11:01:02 GMT | What We Actually Want to Say, But Have No Courage to Do It? | Runims1 | [Read More](https://medium.com/p/04303ff59cfb) |
-| Sun, 03 Aug 2025 10:58:48 GMT | Day 20- Detecting Security Events using Windows Event Viewer in a practical way | unica 02 | [Read More](https://medium.com/p/6abad8b444a9) |
-| Sun, 03 Aug 2025 10:57:41 GMT | Extracting Data from the Subdomain Grave | SIDDHANT SHUKLA | [Read More](https://medium.com/p/7fa1cc935e23) |
-| Sun, 03 Aug 2025 10:51:52 GMT | JWT for Backend Developers: How It Works, Why It’s Secure, and When to Use It..‍ | Shubham Vartak | [Read More](https://medium.com/p/59f4ac0a14f6) |
-| Sun, 03 Aug 2025 10:44:49 GMT | How Anyone Can Start Protecting Themselves from Invisible Cyber Threats" | H3X | [Read More](https://medium.com/p/25883d8ea532) |
-| Sun, 03 Aug 2025 10:41:03 GMT | Cypher — Hack The Box | Toshith | [Read More](https://medium.com/p/02e33b8b043c) |
