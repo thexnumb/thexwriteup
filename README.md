@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 06:31:42 GMT | Beyond Recon: 4 Battle-Tested Bug Bounty Strategies | Abdelrhman Zayed | [Read More](https://medium.com/p/bb24bb437b2c) |
+| Sun, 03 Aug 2025 06:31:40 GMT | When Hackers Ground Planes — The Aeroflot Cyber Meltdown | Devansh Patel | [Read More](https://medium.com/p/ead44263c2e3) |
+| Sun, 03 Aug 2025 06:28:48 GMT | Navigating Enterprise Security with SecuMS and Omniguard | Mufid Fata Rifki | [Read More](https://medium.com/p/bfa0d41473b6) |
+| Sun, 03 Aug 2025 06:00:28 GMT | Today’s Top Cyber Intelligence Highlights — Aug 03, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/329f93cf8960) |
+| Sun, 03 Aug 2025 05:56:29 GMT | An AI Just Became the #1 Hacker. Are Humans Still Needed? | Arul N V | [Read More](https://medium.com/p/435ce3d28760) |
+| Sun, 03 Aug 2025 05:52:34 GMT | Tamil Language -World’s First Mother Tongue | Technology 2030 | [Read More](https://medium.com/p/8ea72c6e9500) |
 | Sun, 03 Aug 2025 05:49:02 GMT | Expert Lecture Journal 2 | Najlaputi | [Read More](https://medium.com/p/0cfc080eb3fd) |
 | Sun, 03 Aug 2025 05:46:12 GMT | Why LLMs Alone Aren’t Enough in Cybersecurity — and How RAG Fills the Gap | Shoaib Rashid | [Read More](https://medium.com/p/70a0ee35b06d) |
 | Sun, 03 Aug 2025 05:44:45 GMT | Code Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/e55309832f06) |
@@ -107,9 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 19:06:56 GMT | The Shadow Architect: How Qatar’s Ideological Strategist Forged the Modern Islamist Playbook In… | Omar Omarson | [Read More](https://medium.com/p/1fcdec23f7f9) |
 | Sat, 02 Aug 2025 19:06:43 GMT | From a Boring Engagement to Uncovering a High Severity CVE | m3m0o | [Read More](https://medium.com/p/6ed52b5f618f) |
 | Sat, 02 Aug 2025 19:05:39 GMT | Mastering Network Reconnaissance: My Journey with Nmap | Robert Perez | [Read More](https://medium.com/p/5afc62939324) |
-| Sat, 02 Aug 2025 19:03:34 GMT | Cyber Defense 101 with Cyber Kill Chain | Mudassir Syed | [Read More](https://medium.com/p/475d546e4f3f) |
-| Sat, 02 Aug 2025 19:02:13 GMT | RoomShield Protocol – Declaration 003 | RoomShield Protocol | [Read More](https://medium.com/p/36a3f8223ea7) |
-| Sat, 02 Aug 2025 19:01:53 GMT | Start your own website | Zen | [Read More](https://medium.com/p/47bb8d27686c) |
-| Sat, 02 Aug 2025 19:00:56 GMT | Cracking OverTheWire Bandit: Levels 6 to 11 — Walkthrough & Commands | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/58c5f2aa67f1) |
-| Sat, 02 Aug 2025 18:59:17 GMT | How Anyone Can Become a Hacker Who Changes History (Legally and Ethically) | H3X | [Read More](https://medium.com/p/64ba68a77b32) |
-| Sat, 02 Aug 2025 18:54:22 GMT | Defending Against Prompt Injection: Safeguarding Your AI Conversations | Sainadh Ainala | [Read More](https://medium.com/p/1017ce62473b) |
