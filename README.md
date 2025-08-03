@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 17:37:41 GMT | Aktif Dizin Taraması İçin İlk Adım | Zehra | [Read More](https://medium.com/p/df76dcdc3b85) |
+| Sun, 03 Aug 2025 17:36:41 GMT | How I Found 3 Security Bugs as a Beginner — My Real Bug Bounty Kickstart! | Priyaagitaa | [Read More](https://medium.com/p/16332b8a62a8) |
+| Sun, 03 Aug 2025 17:33:08 GMT | From LFI to RCE via /var/log/vsftpd.log | Zoningxtr | [Read More](https://medium.com/p/32a9b6ecf3ea) |
+| Sun, 03 Aug 2025 17:22:52 GMT | Quarterly Red-Team Exercises and Policy Updates | Giampaolocappellotto | [Read More](https://medium.com/p/2ed4b9cbdcaa) |
 | Sun, 03 Aug 2025 17:18:00 GMT | Advanced Cybersecurity Strategies for 2025 | Giampaolocappellotto | [Read More](https://medium.com/p/d2f548bb53b4) |
+| Sun, 03 Aug 2025 17:17:00 GMT | DNS Under Siege: How New Threats and Privacy Tech Are Shaping DNS Security | MonitorDNS | [Read More](https://medium.com/p/a78fcc690e62) |
 | Sun, 03 Aug 2025 17:15:37 GMT | Data-Vulnlab Write-Up | t0x1k | [Read More](https://medium.com/p/79d791a68d5f) |
 | Sun, 03 Aug 2025 17:14:33 GMT | CI/CD with Jenkins: Build Your Pipeline from Scratch | Giampaolocappellotto | [Read More](https://medium.com/p/ea0af5f77e72) |
 | Sun, 03 Aug 2025 17:09:39 GMT | Automating Configuration Management with Ansible | Giampaolocappellotto | [Read More](https://medium.com/p/3b38c615a1bf) |
+| Sun, 03 Aug 2025 17:04:09 GMT | CLOSING CYBERSECURITY LITERACY GAPS THROUGH DIGITAL UBUNTU | Folaranmi Umoru | [Read More](https://medium.com/p/22695c8f9dd6) |
 | Sun, 03 Aug 2025 17:03:48 GMT | JWTs & CSRF Tokens | Buddika Gunawardena | [Read More](https://medium.com/p/465e5d4f91cf) |
 | Sun, 03 Aug 2025 17:03:03 GMT | Infrastructure Monitoring with Prometheus and Grafana | Giampaolocappellotto | [Read More](https://medium.com/p/5cdebac90528) |
 | Sun, 03 Aug 2025 16:58:46 GMT | Burp Suite x AI: The Mutation Engine That Thinks, Chains, and Exploits Like a Human | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bf250df0ba0c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 12:13:59 GMT | The Myth of Security by Obscurity: “Nobody Knows” ≠ “Nobody Will Find” | Evgeny Ermakov | [Read More](https://medium.com/p/cbaa49ad65cc) |
 | Sun, 03 Aug 2025 12:11:41 GMT | DockerLabs Writeup — Dance-Samba (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d65a160f23df) |
 | Sun, 03 Aug 2025 12:05:35 GMT | The WAF Weakness Handbook: Confusing Firewalls Like a Pro | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d1ed97e888e2) |
-| Sun, 03 Aug 2025 11:57:24 GMT | “Aunty, It’s Me. Please Help!” | O. J. Okpabi | [Read More](https://medium.com/p/4b861badc4b7) |
-| Sun, 03 Aug 2025 11:57:22 GMT | Your Data Is Currency — Here’s Why You Need to Protect It | Kavya Sharma | [Read More](https://medium.com/p/29cb3223d8c2) |
-| Sun, 03 Aug 2025 11:35:50 GMT | “In the Depths of Feelings” | InnerHues | [Read More](https://medium.com/p/0d2226483a20) |
-| Sun, 03 Aug 2025 11:33:04 GMT | “WAF This Way: Real-World Bypass Tactics from the Trenches” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0d2eaae9e32f) |
-| Sun, 03 Aug 2025 11:31:02 GMT | INFORMATION | Sami Toor | [Read More](https://medium.com/p/0504b9dc5b77) |
-| Sun, 03 Aug 2025 11:24:07 GMT | What is a Zero-Day Vulnerability? | Aardaa Karakas | [Read More](https://medium.com/p/6d2c2c883d01) |
