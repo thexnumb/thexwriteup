@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 08:25:12 GMT | How Windows Authenticates Users : A Beginner-Friendly Guide | T3rminat0r | [Read More](https://medium.com/p/018254ccd045) |
+| Sun, 03 Aug 2025 08:21:46 GMT | ️ Part 2/6: Active Directory Structure & Replication — Understand the Backbone of AD | Ayush Bagde | [Read More](https://medium.com/p/19edfc1b8884) |
+| Sun, 03 Aug 2025 08:20:28 GMT | “Day 2: Reconnaissance — How I Found My First Real Bug (And How You Can Too)” | Aman Sharma | [Read More](https://medium.com/p/dbf81cb44069) |
+| Sun, 03 Aug 2025 08:13:40 GMT | A Step-by-Step Plan To Learn Agentic AI Security in 2025 | Rue | [Read More](https://medium.com/p/0a41453a496a) |
+| Sun, 03 Aug 2025 08:08:19 GMT | Why Cybersecurity Matters: A Simple Guide to Protecting Our Digital Lives | Thinuri Thissera | [Read More](https://medium.com/p/eecb8a720da0) |
+| Sun, 03 Aug 2025 08:06:41 GMT | Cyber Security Botnets: Armies of Infected Machines | Cyber Security Research | [Read More](https://medium.com/p/678a4eb850ba) |
+| Sun, 03 Aug 2025 08:05:47 GMT | Laravel Rate Limiting — Explained with Real-Life Examples | Sandeeppant | [Read More](https://medium.com/p/ed63d3c8b11b) |
+| Sun, 03 Aug 2025 08:02:41 GMT | Difference in Threat Intelligence, Threat Hunting, Threat Modeling, and Threat Analysis | Rishika Desai | [Read More](https://medium.com/p/4e794823f72b) |
+| Sun, 03 Aug 2025 08:01:08 GMT | The Best Cybersecurity Certifications for Beginners and Experts | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/a49c9ad02efc) |
+| Sun, 03 Aug 2025 08:01:07 GMT | Cyber Security Spyware: Monitoring User Activity | Cyber Security Research | [Read More](https://medium.com/p/9f59d11fd3de) |
+| Sun, 03 Aug 2025 07:58:55 GMT | What is Cross-Site Scripting (XSS)? | Vansh_Makkar | [Read More](https://medium.com/p/cc43d6791fb2) |
+| Sun, 03 Aug 2025 07:50:12 GMT | Clean-Up Fail: How a Forgotten Admin Endpoint Let Me Drop All The Data ️ | Iski | [Read More](https://medium.com/p/1e1c376a986a) |
 | Sun, 03 Aug 2025 07:33:46 GMT | Roadmap to Learn AI And Machine Learning in 2025 | cyber security Updates | [Read More](https://medium.com/p/3d3aed5fa270) |
 | Sun, 03 Aug 2025 07:22:37 GMT | Hacking the Blockchain: | Kushagra Raghuwanshi | [Read More](https://medium.com/p/24fd3d58417d) |
 | Sun, 03 Aug 2025 07:20:47 GMT | The Page She Never Read.. | Fazeelat | [Read More](https://medium.com/p/6c6da3abb16d) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 20:57:58 GMT | Device Security is Not Working | Keir Finlow-Bates | [Read More](https://medium.com/p/2ec00a5b52d0) |
 | Sat, 02 Aug 2025 20:57:02 GMT | The AI Gold Rush: Are We Headed for a Reality Check? | Linda mhlangu | [Read More](https://medium.com/p/091c7cf14947) |
 | Sat, 02 Aug 2025 20:55:01 GMT | The Future Is Here | Jahan Zaib | [Read More](https://medium.com/p/e4d29bb50fdb) |
-| Sat, 02 Aug 2025 20:44:49 GMT | ️ I Audit People’s Digital Setups for Privacy — Here’s Why You Might Need One | BiyteLüm | [Read More](https://medium.com/p/47853377c47d) |
-| Sat, 02 Aug 2025 20:41:04 GMT | Systems Engineering in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/1c39f62834ad) |
-| Sat, 02 Aug 2025 20:39:47 GMT | Upload File pada Next.js dengan Aman dan Gratis Menggunakan Cloudinary | Algostudio | [Read More](https://medium.com/p/f4045f5daa26) |
-| Sat, 02 Aug 2025 20:37:34 GMT | Home Lab: Building out Active Directory | Caleb Allison | [Read More](https://medium.com/p/8e2aaaf181ca) |
-| Sat, 02 Aug 2025 20:36:05 GMT | A Low-Cost, High-Impact Justice Reform Model for Turkey
-This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](https://medium.com/p/b2000cc43599) |
-| Sat, 02 Aug 2025 20:33:27 GMT | Guardians of the Digital Realm: Exploring Data Leakage Prevention Tools | Rachit Sharma | [Read More](https://medium.com/p/f020542aa812) |
-| Sat, 02 Aug 2025 20:21:31 GMT | The Hard Truth: Even the Best Admin Can’t Protect You Alone | Evgeny Ermakov | [Read More](https://medium.com/p/614e3cae1439) |
-| Sat, 02 Aug 2025 20:10:03 GMT | Part9 : The Complete Guide to Wireless Networks: Standards, Technologies, and Applications | White Panther | [Read More](https://medium.com/p/d74a341ac5d1) |
-| Sat, 02 Aug 2025 20:09:28 GMT | TryHackMe — VulnNet: Roasted | ruruuu | [Read More](https://medium.com/p/8df3064fd0a8) |
-| Sat, 02 Aug 2025 20:02:26 GMT | Title: The Beauty of Programming | Prosper Opara | [Read More](https://medium.com/p/4f00f20cd20a) |
-| Sat, 02 Aug 2025 20:01:45 GMT | CyberSecStats #23 — Monthly cybersecurity statistics round-up (June/July 2025) | CyberSecStats | [Read More](https://medium.com/p/5efe0497bd15) |
-| Sat, 02 Aug 2025 19:57:44 GMT | The Cyber Security Podcasts everyone should be listening to! | SecBySam | [Read More](https://medium.com/p/68d7abbfea3a) |
