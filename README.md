@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 11:35:50 GMT | “In the Depths of Feelings” | InnerHues | [Read More](https://medium.com/p/0d2226483a20) |
+| Sun, 03 Aug 2025 11:33:04 GMT | “WAF This Way: Real-World Bypass Tactics from the Trenches” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0d2eaae9e32f) |
+| Sun, 03 Aug 2025 11:31:02 GMT | INFORMATION | Sami Toor | [Read More](https://medium.com/p/0504b9dc5b77) |
+| Sun, 03 Aug 2025 11:24:07 GMT | What is a Zero-Day Vulnerability? | Aardaa Karakas | [Read More](https://medium.com/p/6d2c2c883d01) |
+| Sun, 03 Aug 2025 11:22:20 GMT | TryHackMe: Snort Challenge — The Basics - Complete Step-by-Step Walkthrough | Asad Ali | [Read More](https://medium.com/p/425e146d2624) |
+| Sun, 03 Aug 2025 11:18:25 GMT | WAF Confusion Reloaded: Turning Firewalls into Exploit Accelerators | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ccab152838cd) |
+| Sun, 03 Aug 2025 11:12:54 GMT | Dissecting a Double Extension Malware Attack: Deep Dive into hxxps://voomka[.]in/statement[.]php | Shefali Kumari | [Read More](https://medium.com/p/d1d7ee542fa1) |
 | Sun, 03 Aug 2025 11:02:29 GMT | Can AI Help Save the Planet? Exploring Its Role in Climate Action | Payaam Raza | [Read More](https://medium.com/p/c33468c2b981) |
 | Sun, 03 Aug 2025 11:01:02 GMT | What We Actually Want to Say, But Have No Courage to Do It? | Runims1 | [Read More](https://medium.com/p/04303ff59cfb) |
 | Sun, 03 Aug 2025 10:58:48 GMT | Day 20- Detecting Security Events using Windows Event Viewer in a practical way | unica 02 | [Read More](https://medium.com/p/6abad8b444a9) |
@@ -106,10 +113,3 @@ It’s enough that you’re here… for yourself. | Marta | [Read More](https://
 | Sun, 03 Aug 2025 02:58:33 GMT | CyberDefenders WebStrike LabWrite-Up | Giovanny Joseph | [Read More](https://medium.com/p/5970e2fd5991) |
 | Sun, 03 Aug 2025 02:47:58 GMT | How I Bypassed OTP Verification with Just a Script Tag | Ivoabreu | [Read More](https://medium.com/p/7cbb880060c3) |
 | Sun, 03 Aug 2025 02:46:59 GMT | Footprinting and Scanning CTF 1 | Hejackson | [Read More](https://medium.com/p/96d74426eac1) |
-| Sun, 03 Aug 2025 02:39:34 GMT | I want to start writing. | ZeakPeak | [Read More](https://medium.com/p/537282cd9501) |
-| Sun, 03 Aug 2025 02:38:56 GMT | TCP vs UDP: A Beginner’s Learning Journal | JEONGYU NOH | [Read More](https://medium.com/p/adf6b0c11ec0) |
-| Sun, 03 Aug 2025 02:35:28 GMT | Unpacking Cybersecurity: Key Insights from NPCore’s Expert Lecture | Nuraidahks | [Read More](https://medium.com/p/c38d3091e9af) |
-| Sun, 03 Aug 2025 02:07:16 GMT | Enhancing Web Application Security with OAuth2 and NestJS | @rnab | [Read More](https://medium.com/p/4c2c18ad0d06) |
-| Sun, 03 Aug 2025 01:51:51 GMT | The Outlaw — Prologue | Darwin Dela Cruz | [Read More](https://medium.com/p/0a0d3497a34e) |
-| Sun, 03 Aug 2025 01:42:36 GMT | Cookies in the Backend? Here’s the Simplest Explanation You’ll Ever Need | Shubham Sharma | [Read More](https://medium.com/p/9b8eb16cb800) |
-| Sun, 03 Aug 2025 01:25:05 GMT | Why Installing an Automatic Gate Opener Is the Smartest Move You’ll Make This Year | Earnest Sherrill | [Read More](https://medium.com/p/ecd2e5a550ab) |
