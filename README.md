@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 08:46:55 GMT | Burp Suite For Beginners: How I Learned the Proxy and Interceptor | Ayush Kumar | [Read More](https://medium.com/p/dcb787dc89ae) |
+| Sun, 03 Aug 2025 08:45:00 GMT | Not everything has to be a breakthrough.
+It’s enough that you’re here… for yourself. | Marta | [Read More](https://medium.com/p/4f1f0ee843d6) |
+| Sun, 03 Aug 2025 08:43:32 GMT | How I Turned a Temporary Upload into Remote Code Execution Using LFI | Zoningxtr | [Read More](https://medium.com/p/8339f75b6cb0) |
+| Sun, 03 Aug 2025 08:36:54 GMT | Ethical Hacking 101 — Free Online Course for Teens! | Lakshanaa Arunkumar | [Read More](https://medium.com/p/85161b7c248b) |
+| Sun, 03 Aug 2025 08:34:14 GMT | Loitering Detection uses AI-powered video analytics | Visual Monitoring Solutions | [Read More](https://medium.com/p/e7ac8365b8eb) |
+| Sun, 03 Aug 2025 08:31:47 GMT | (Access Control) Lab: Unprotected admin functionality with unpredictable URL - 2025 | Ananda | [Read More](https://medium.com/p/093b3fb3c6e1) |
+| Sun, 03 Aug 2025 08:27:53 GMT | AI vs AI: How Cyberattacks and Defenses Are Evolving in 2025 | Rue | [Read More](https://medium.com/p/a98d4111e35c) |
+| Sun, 03 Aug 2025 08:27:43 GMT | Symfony Web Cache Deception: Real Threat & Code Demo | Pentest_Testing_Corp | [Read More](https://medium.com/p/cf717c2dcc2f) |
 | Sun, 03 Aug 2025 08:25:12 GMT | How Windows Authenticates Users : A Beginner-Friendly Guide | T3rminat0r | [Read More](https://medium.com/p/018254ccd045) |
 | Sun, 03 Aug 2025 08:21:46 GMT | ️ Part 2/6: Active Directory Structure & Replication — Understand the Backbone of AD | Ayush Bagde | [Read More](https://medium.com/p/19edfc1b8884) |
 | Sun, 03 Aug 2025 08:20:28 GMT | “Day 2: Reconnaissance — How I Found My First Real Bug (And How You Can Too)” | Aman Sharma | [Read More](https://medium.com/p/dbf81cb44069) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 Aug 2025 21:47:08 GMT | Vulnlab Data CTF Write-Up | Will Giles - Cybersecurity | [Read More](https://medium.com/p/22c3c6f4432b) |
 | Sat, 02 Aug 2025 21:44:17 GMT | Pentest Walkthrough: MSSQL, Oracle, and IPMI Enumeration with Password Extraction | Mkirahmet | [Read More](https://medium.com/p/0f9c69fc1abf) |
 | Sat, 02 Aug 2025 21:35:02 GMT | How I Tracked Down a Single Question That Broke All Our Cron Jobs | Silent Resolver | [Read More](https://medium.com/p/ad8fc41be7ff) |
-| Sat, 02 Aug 2025 21:34:05 GMT | LFI com PHP Wrappers: Entendendo a Vulnerabilidade na Prática | Jonathan M. | [Read More](https://medium.com/p/7f12e20aacd1) |
-| Sat, 02 Aug 2025 21:18:07 GMT | AI Security: Why Rushing Artificial Intelligence Could Put Us All at Risk | Linda mhlangu | [Read More](https://medium.com/p/eff13bbe8a45) |
-| Sat, 02 Aug 2025 21:03:14 GMT | I Wrote a Eulogy for Manual Recon | Ibtissam hammadi | [Read More](https://medium.com/p/73c2bfa992ae) |
-| Sat, 02 Aug 2025 21:02:21 GMT | ASCWG CTF Qualification 2025 — Operation Spare Clue Challenge | Ahmed Mohammed | [Read More](https://medium.com/p/f82a18ccf55c) |
-| Sat, 02 Aug 2025 21:01:55 GMT | K8s: Deploying a Monitoring Agent with a Baseline Pod Security Standard | W. Jenks Gibbons | [Read More](https://medium.com/p/ee1aacb04023) |
-| Sat, 02 Aug 2025 20:57:58 GMT | Device Security is Not Working | Keir Finlow-Bates | [Read More](https://medium.com/p/2ec00a5b52d0) |
-| Sat, 02 Aug 2025 20:57:02 GMT | The AI Gold Rush: Are We Headed for a Reality Check? | Linda mhlangu | [Read More](https://medium.com/p/091c7cf14947) |
-| Sat, 02 Aug 2025 20:55:01 GMT | The Future Is Here | Jahan Zaib | [Read More](https://medium.com/p/e4d29bb50fdb) |
