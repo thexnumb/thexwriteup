@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 11:02:29 GMT | Can AI Help Save the Planet? Exploring Its Role in Climate Action | Payaam Raza | [Read More](https://medium.com/p/c33468c2b981) |
+| Sun, 03 Aug 2025 11:01:02 GMT | What We Actually Want to Say, But Have No Courage to Do It? | Runims1 | [Read More](https://medium.com/p/04303ff59cfb) |
+| Sun, 03 Aug 2025 10:58:48 GMT | Day 20- Detecting Security Events using Windows Event Viewer in a practical way | unica 02 | [Read More](https://medium.com/p/6abad8b444a9) |
+| Sun, 03 Aug 2025 10:57:41 GMT | Extracting Data from the Subdomain Grave | SIDDHANT SHUKLA | [Read More](https://medium.com/p/7fa1cc935e23) |
+| Sun, 03 Aug 2025 10:51:52 GMT | JWT for Backend Developers: How It Works, Why It’s Secure, and When to Use It..‍ | Shubham Vartak | [Read More](https://medium.com/p/59f4ac0a14f6) |
 | Sun, 03 Aug 2025 10:44:49 GMT | How Anyone Can Start Protecting Themselves from Invisible Cyber Threats" | H3X | [Read More](https://medium.com/p/25883d8ea532) |
 | Sun, 03 Aug 2025 10:41:03 GMT | Cypher — Hack The Box | Toshith | [Read More](https://medium.com/p/02e33b8b043c) |
 | Sun, 03 Aug 2025 10:34:46 GMT | SMT 2025 — Expert Lecture 2 | Firdhan H | [Read More](https://medium.com/p/e6cb7b00fedd) |
@@ -108,8 +113,3 @@ It’s enough that you’re here… for yourself. | Marta | [Read More](https://
 | Sun, 03 Aug 2025 01:51:51 GMT | The Outlaw — Prologue | Darwin Dela Cruz | [Read More](https://medium.com/p/0a0d3497a34e) |
 | Sun, 03 Aug 2025 01:42:36 GMT | Cookies in the Backend? Here’s the Simplest Explanation You’ll Ever Need | Shubham Sharma | [Read More](https://medium.com/p/9b8eb16cb800) |
 | Sun, 03 Aug 2025 01:25:05 GMT | Why Installing an Automatic Gate Opener Is the Smartest Move You’ll Make This Year | Earnest Sherrill | [Read More](https://medium.com/p/ecd2e5a550ab) |
-| Sun, 03 Aug 2025 00:57:45 GMT | Hackers Vow to Dump 3.5TB of Stolen Ingram Micro Data | Muneeb Sikhani | [Read More](https://medium.com/p/95f49bdcc1f9) |
-| Sun, 03 Aug 2025 00:57:02 GMT | ☢ Da LFI ao Root via Log Poisoning ☢ — CTF Writeup | Jonathan M. | [Read More](https://medium.com/p/b753d40f2ce1) |
-| Sun, 03 Aug 2025 00:51:07 GMT | I Am Now a Certified Red Team Analyst (CRTA)– My Full Experience with CyberWarFare Labs | Xh081iX | [Read More](https://medium.com/p/a11817048eb8) |
-| Sun, 03 Aug 2025 00:47:02 GMT | Oyster Malware via Fake PuTTY | Cyber T | [Read More](https://medium.com/p/38addfb61f38) |
-| Sun, 03 Aug 2025 00:46:40 GMT | My Virtual HomeLab: Malware Analysis | Cybersec with Hemmars | [Read More](https://medium.com/p/51d885051dad) |
