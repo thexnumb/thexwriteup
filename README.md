@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 05:49:02 GMT | Expert Lecture Journal 2 | Najlaputi | [Read More](https://medium.com/p/0cfc080eb3fd) |
+| Sun, 03 Aug 2025 05:46:12 GMT | Why LLMs Alone Aren’t Enough in Cybersecurity — and How RAG Fills the Gap | Shoaib Rashid | [Read More](https://medium.com/p/70a0ee35b06d) |
+| Sun, 03 Aug 2025 05:44:45 GMT | Code Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/e55309832f06) |
+| Sun, 03 Aug 2025 05:44:05 GMT | Securing Passwords to Protect Ansarada | Turaab Akbar | [Read More](https://medium.com/p/10f4e15ba6b1) |
+| Sun, 03 Aug 2025 05:40:53 GMT | “Juicy 404s”: How Broken Pages Spilled Secrets and Gave Me Admin Access | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d87c938ac26b) |
+| Sun, 03 Aug 2025 05:39:20 GMT | Protecting Ansarada from Phishing Attacks | Turaab Akbar | [Read More](https://medium.com/p/0ece09bc2c80) |
+| Sun, 03 Aug 2025 05:32:14 GMT | OSINT 1 Writeup — THM Industrial Intrusion CTF (Task 5) | Avyukt Security | [Read More](https://medium.com/p/5f6758b972dc) |
+| Sun, 03 Aug 2025 05:31:57 GMT | When Two Givers Become Best Friends, It’s Magic | Ayushi Jindal | [Read More](https://medium.com/p/8bfd654b70d3) |
+| Sun, 03 Aug 2025 05:30:36 GMT | How DRM protection works in Android OTT Apps: | AMAR PAL SINGH | [Read More](https://medium.com/p/8fd3afd2a7b3) |
 | Sun, 03 Aug 2025 05:21:41 GMT | “GitHub Recon: Hacking the Frontend Without Touching the App” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5d8798d5ac64) |
 | Sun, 03 Aug 2025 05:19:56 GMT | The development of thinking abilities in artificial intelligence models.. | Sidialtos | [Read More](https://medium.com/p/fafb1f7002c8) |
 | Sun, 03 Aug 2025 05:05:33 GMT | Could Hackers Hijack Your EV? | Penyu Labs | [Read More](https://medium.com/p/7773ebfb76bd) |
@@ -104,12 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 19:00:56 GMT | Cracking OverTheWire Bandit: Levels 6 to 11 — Walkthrough & Commands | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/58c5f2aa67f1) |
 | Sat, 02 Aug 2025 18:59:17 GMT | How Anyone Can Become a Hacker Who Changes History (Legally and Ethically) | H3X | [Read More](https://medium.com/p/64ba68a77b32) |
 | Sat, 02 Aug 2025 18:54:22 GMT | Defending Against Prompt Injection: Safeguarding Your AI Conversations | Sainadh Ainala | [Read More](https://medium.com/p/1017ce62473b) |
-| Sat, 02 Aug 2025 18:47:35 GMT | ️ Will AI Replace Cybersecurity Jobs — or Create Better Ones? | Asanda Zibane | [Read More](https://medium.com/p/9c03d3ab5027) |
-| Sat, 02 Aug 2025 18:42:54 GMT | I Couldn’t Connect My MySQL Server to Workbench — Here’s How I Fixed It | Adanna_io | [Read More](https://medium.com/p/ae36d1bc2fd1) |
-| Sat, 02 Aug 2025 18:42:46 GMT | Part 1: Malware — Origins & Evolution | Sammcmullen | [Read More](https://medium.com/p/090117e85634) |
-| Sat, 02 Aug 2025 18:41:51 GMT | Phishing: The Alarming Reality Behind Today’s Biggest Data Breaches | Obaid Naseer | [Read More](https://medium.com/p/66a0fa363497) |
-| Sat, 02 Aug 2025 18:31:39 GMT | How I set up IAM with AWS - Nextwork Cloud Security Project - AWS Beginner Series | Angie | [Read More](https://medium.com/p/8bc3da69aeff) |
-| Sat, 02 Aug 2025 18:26:35 GMT | ️ JavaScript Recon via GitHub: Finding Secrets Before You Even Hit the App | Narendar Battula (nArEn) | [Read More](https://medium.com/p/cb88e36bc0d7) |
-| Sat, 02 Aug 2025 18:17:13 GMT | Social Identity and Political Mobilization in Cyberspace | Ellereem | [Read More](https://medium.com/p/efcbc2c650fe) |
-| Sat, 02 Aug 2025 18:17:09 GMT | ️ Sinhala-English Guide to Reconnaissance Tools in Ethical Hacking (Practical Examples) | Ruwan Sanjeewa | [Read More](https://medium.com/p/d8376907eb3b) |
-| Sat, 02 Aug 2025 18:13:10 GMT | “Push to Pwn: Hacking GitHub Like a Pro — The Ultimate OSINT + CI/CD Exploitation Playbook” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/089fff02fa9a) |
