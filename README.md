@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 22:31:01 GMT | MOUNTAINEER WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/fd75b5e8eb38) |
 | Sun, 03 Aug 2025 22:17:40 GMT | Rebels With A Cause: A Road to Nowhere? | Grant Krasner | [Read More](https://medium.com/p/25bf11c815fb) |
 | Sun, 03 Aug 2025 22:16:43 GMT | This Simple Recon Trick Exposed 100+ Hidden Vulnerabilities | Ibtissam hammadi | [Read More](https://medium.com/p/570f75a59df7) |
 | Sun, 03 Aug 2025 22:06:12 GMT | Digital Forensics 101: A Beginner’s Guide to Cyber Crime Investigation | i4m_x | [Read More](https://medium.com/p/a6404ae87efe) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 15:37:47 GMT | https://cybersecuritypulse.wordpress.com/ | @cybermentorgopal | [Read More](https://medium.com/p/c7d93d394dbe) |
 | Sun, 03 Aug 2025 15:32:05 GMT | Week 2. | rkdnawab | [Read More](https://medium.com/p/7c20890207ac) |
 | Sun, 03 Aug 2025 15:31:56 GMT | Unmasking the Cyber Storm : 2025’s Biggest Cyber Attacks and Trends You Need to Know | Josaiah Dkhar | [Read More](https://medium.com/p/4da69d92a86f) |
-| Sun, 03 Aug 2025 15:31:43 GMT | En Yaygın Siber Saldırı Türleri-6 | Melek | [Read More](https://medium.com/p/7944d9be503e) |
