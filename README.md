@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 14:37:04 GMT | Cyber Security Awareness: Your Ultimate Defense Against Digital Threats in 2025 | Paul Meyer | [Read More](https://medium.com/p/d9f33aaf8bc5) |
+| Sun, 03 Aug 2025 14:28:28 GMT | Server-Side Request Forgery (SSRF): Risks, Real-World Scenarios, and Prevention | Raghav Bang | [Read More](https://medium.com/p/8895cf800642) |
+| Sun, 03 Aug 2025 14:19:18 GMT | Shodan: İnternetin Karanlık Aynası | Aybike Tutar | [Read More](https://medium.com/p/def5a66fdcbc) |
 | Sun, 03 Aug 2025 14:13:59 GMT | Essential Security Headers Every Web Developer Should Know | Raghav Bang | [Read More](https://medium.com/p/a018d37fbabf) |
 | Sun, 03 Aug 2025 14:07:50 GMT | The Threat of Shadow AI: The Invisible Force Inside Your Business | Sonal Sareen | [Read More](https://medium.com/p/d44c9dcfa56f) |
 | Sun, 03 Aug 2025 14:06:01 GMT | Amazon Q Hack: A Wake-Up Call for AI Security and GRC | Brittney Ginther | [Read More](https://medium.com/p/71c2a1cd5223) |
@@ -110,6 +113,3 @@ It’s enough that you’re here… for yourself. | Marta | [Read More](https://
 | Sun, 03 Aug 2025 08:01:07 GMT | Cyber Security Spyware: Monitoring User Activity | Cyber Security Research | [Read More](https://medium.com/p/9f59d11fd3de) |
 | Sun, 03 Aug 2025 07:58:55 GMT | What is Cross-Site Scripting (XSS)? | Vansh_Makkar | [Read More](https://medium.com/p/cc43d6791fb2) |
 | Sun, 03 Aug 2025 07:50:12 GMT | Clean-Up Fail: How a Forgotten Admin Endpoint Let Me Drop All The Data ️ | Iski | [Read More](https://medium.com/p/1e1c376a986a) |
-| Sun, 03 Aug 2025 07:33:46 GMT | Roadmap to Learn AI And Machine Learning in 2025 | cyber security Updates | [Read More](https://medium.com/p/3d3aed5fa270) |
-| Sun, 03 Aug 2025 07:22:37 GMT | Hacking the Blockchain: | Kushagra Raghuwanshi | [Read More](https://medium.com/p/24fd3d58417d) |
-| Sun, 03 Aug 2025 07:20:47 GMT | The Page She Never Read.. | Fazeelat | [Read More](https://medium.com/p/6c6da3abb16d) |
