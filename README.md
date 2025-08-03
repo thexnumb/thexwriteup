@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 14:13:59 GMT | Essential Security Headers Every Web Developer Should Know | Raghav Bang | [Read More](https://medium.com/p/a018d37fbabf) |
+| Sun, 03 Aug 2025 14:07:50 GMT | The Threat of Shadow AI: The Invisible Force Inside Your Business | Sonal Sareen | [Read More](https://medium.com/p/d44c9dcfa56f) |
+| Sun, 03 Aug 2025 14:06:01 GMT | Amazon Q Hack: A Wake-Up Call for AI Security and GRC | Brittney Ginther | [Read More](https://medium.com/p/71c2a1cd5223) |
+| Sun, 03 Aug 2025 14:05:43 GMT | Photto Shoot Time - HOOKNSPEED RECOVERY TRIVANDRUM,KERALA | Hooknspeed Recovery Thiruvananthapuram | [Read More](https://medium.com/p/81419e2fde6f) |
+| Sun, 03 Aug 2025 14:05:33 GMT | From Beginner to $3000 Per Month PenTester: A Real-World Guide | Rashadul Islam | [Read More](https://medium.com/p/5bf3d0246a2a) |
+| Sun, 03 Aug 2025 14:04:44 GMT | Iframe Protection: Why It Matters & How to Secure Your Web App | Raghav Bang | [Read More](https://medium.com/p/7e8c2a742eac) |
+| Sun, 03 Aug 2025 13:59:17 GMT | Ransomware Killed a Company?! | Truspex | [Read More](https://medium.com/p/b424e07ab519) |
+| Sun, 03 Aug 2025 13:52:46 GMT | 11 Tiny Habits That Transform Your Self-Image | Vijay Kumar Gupta | [Read More](https://medium.com/p/8f5937df9f5c) |
+| Sun, 03 Aug 2025 13:46:54 GMT | What is SSO and Why It Matters -Core Concepts | Luqmancheruvakkat | [Read More](https://medium.com/p/bec9f7308244) |
+| Sun, 03 Aug 2025 13:44:55 GMT | THM - CONTAIN | Francesco Pastore | [Read More](https://medium.com/p/53a3a1a1b4e9) |
+| Sun, 03 Aug 2025 13:43:44 GMT | Kloxo Hosting Panel: Local Privilege Escalation Lets Attackers Go Root! | CVEHUB | [Read More](https://medium.com/p/bbca1b633c4d) |
+| Sun, 03 Aug 2025 13:41:29 GMT | CVE-2025–50472: Critical RCE Vulnerability in Modelscope’s ms-swift Library | CVEHUB | [Read More](https://medium.com/p/df96846d5208) |
+| Sun, 03 Aug 2025 13:41:11 GMT | CVE-2025–45150: LangChain-ChatGLM-Webui Exposed! Sensitive Files at Risk | CVEHUB | [Read More](https://medium.com/p/891e786bd2b9) |
+| Sun, 03 Aug 2025 13:40:11 GMT | SQL Injection Fundamentals Assessment—HTB Academy | Ahmadhossam | [Read More](https://medium.com/p/d07d8cc60b49) |
+| Sun, 03 Aug 2025 13:36:05 GMT | AI Just Broke Cybersecurity: Here’s What No One Is Telling You | Rue | [Read More](https://medium.com/p/4acaf5d83cba) |
+| Sun, 03 Aug 2025 13:34:28 GMT | I Built My Own Driveway Gates & Saved Thousands—Here’s How You Can Too | ARK Writes | [Read More](https://medium.com/p/5eff611c11a4) |
+| Sun, 03 Aug 2025 13:32:24 GMT | Web Design: Crafting Digital Experiences That Matter | Prosper Opara | [Read More](https://medium.com/p/f66512bea4d7) |
 | Sun, 03 Aug 2025 13:28:02 GMT | PyLog-Sentry: I Built My Own Log Analysis and Alert System (Post-SOC L1 Project) | Furkanctiner | [Read More](https://medium.com/p/2f7a470476b2) |
 | Sun, 03 Aug 2025 13:16:39 GMT | Tech Frontier Weekly Brief (July 29–Aug 2, 2025): AI Power Plays, Global Defense Shifts &… | Haizy Shah | [Read More](https://medium.com/p/18be163d6239) |
 | Sun, 03 Aug 2025 13:04:18 GMT | Phishing Campaigns Are Now Abusing Proofpoint and Intermedia to Bypass Security — Here’s How | Dhruvdeep Singh | [Read More](https://medium.com/p/9a2994d4e5ea) |
@@ -96,20 +113,3 @@ It’s enough that you’re here… for yourself. | Marta | [Read More](https://
 | Sun, 03 Aug 2025 07:33:46 GMT | Roadmap to Learn AI And Machine Learning in 2025 | cyber security Updates | [Read More](https://medium.com/p/3d3aed5fa270) |
 | Sun, 03 Aug 2025 07:22:37 GMT | Hacking the Blockchain: | Kushagra Raghuwanshi | [Read More](https://medium.com/p/24fd3d58417d) |
 | Sun, 03 Aug 2025 07:20:47 GMT | The Page She Never Read.. | Fazeelat | [Read More](https://medium.com/p/6c6da3abb16d) |
-| Sun, 03 Aug 2025 07:16:01 GMT | AWS Ecosystem: AWS re:Inforce | Asia from TakeCert | [Read More](https://medium.com/p/404a6b43f32f) |
-| Sun, 03 Aug 2025 07:10:20 GMT | Inayat Hussain Chohan: The Polymath Who Dared to Rewire the Future | Inayat Hussain | [Read More](https://medium.com/p/7d2b83d68a91) |
-| Sun, 03 Aug 2025 07:09:29 GMT | Asking Satoshi … Why RIPEMD160 and SHA-256 and Why RIPEMD160? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/28609e058d8f) |
-| Sun, 03 Aug 2025 07:05:52 GMT | TryHackMe – Blue (CTF Room) Walkthrough | Sakthi S | [Read More](https://medium.com/p/744e2cab97f0) |
-| Sun, 03 Aug 2025 07:04:47 GMT | Stepping down into the Ocaml Mines — UIUCTF 2025 Writeup | Nikhil Chapre | [Read More](https://medium.com/p/303a2eb5551a) |
-| Sun, 03 Aug 2025 06:57:38 GMT | How a Simple Guess Unlocked Millions of Government IDs & Private Info | Parag Bagade | [Read More](https://medium.com/p/e583e3d8618a) |
-| Sun, 03 Aug 2025 06:42:55 GMT | CSRF where Referer validation depends on header being present @ PortSwigger Walkthrough | Amr Elharery | [Read More](https://medium.com/p/5997b4e4e493) |
-| Sun, 03 Aug 2025 06:31:42 GMT | Beyond Recon: 4 Battle-Tested Bug Bounty Strategies | Abdelrhman Zayed | [Read More](https://medium.com/p/bb24bb437b2c) |
-| Sun, 03 Aug 2025 06:31:40 GMT | When Hackers Ground Planes — The Aeroflot Cyber Meltdown | Devansh Patel | [Read More](https://medium.com/p/ead44263c2e3) |
-| Sun, 03 Aug 2025 06:28:48 GMT | Navigating Enterprise Security with SecuMS and Omniguard | Mufid Fata Rifki | [Read More](https://medium.com/p/bfa0d41473b6) |
-| Sun, 03 Aug 2025 06:00:28 GMT | Today’s Top Cyber Intelligence Highlights — Aug 03, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/329f93cf8960) |
-| Sun, 03 Aug 2025 05:56:29 GMT | An AI Just Became the #1 Hacker. Are Humans Still Needed? | Arul N V | [Read More](https://medium.com/p/435ce3d28760) |
-| Sun, 03 Aug 2025 05:52:34 GMT | Tamil Language -World’s First Mother Tongue | Technology 2030 | [Read More](https://medium.com/p/8ea72c6e9500) |
-| Sun, 03 Aug 2025 05:49:02 GMT | Expert Lecture Journal 2 | Najlaputi | [Read More](https://medium.com/p/0cfc080eb3fd) |
-| Sun, 03 Aug 2025 05:46:12 GMT | Why LLMs Alone Aren’t Enough in Cybersecurity — and How RAG Fills the Gap | Shoaib Rashid | [Read More](https://medium.com/p/70a0ee35b06d) |
-| Sun, 03 Aug 2025 05:44:45 GMT | Code Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/e55309832f06) |
-| Sun, 03 Aug 2025 05:44:05 GMT | Securing Passwords to Protect Ansarada | Turaab Akbar | [Read More](https://medium.com/p/10f4e15ba6b1) |
