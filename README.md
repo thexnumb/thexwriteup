@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 10:20:08 GMT | Why I Am Learning Cybersecurity (And No, It’s Not for the Money) | Emmanuel Jeffrey Kassa | [Read More](https://medium.com/p/2dec725c0c5d) |
+| Sun, 03 Aug 2025 10:10:52 GMT | SQL Injection Fundamentals — HTB Walkthrough | Vincent Olago | [Read More](https://medium.com/p/1ae01e85ba34) |
+| Sun, 03 Aug 2025 10:04:46 GMT | PortSwigger XSS Labs: A Complete Guide to All 9 Apprentice-Level Challenges | Thanuj Dilshan Thilakarathne | [Read More](https://medium.com/p/6fba56da8635) |
+| Sun, 03 Aug 2025 10:04:32 GMT | How I Hunt Bugs Without Tools — Just Brain, Browser, and a Bit of Madness | Viratavi | [Read More](https://medium.com/p/55eb104cf79c) |
+| Sun, 03 Aug 2025 10:03:13 GMT | The Age of Rogue AI Is Already Here | Seán Baufeld | [Read More](https://medium.com/p/74a1daa6c595) |
+| Sun, 03 Aug 2025 09:58:40 GMT | Competitive intelligence | Ashraf Emon | [Read More](https://medium.com/p/63986c6f9aaa) |
+| Sun, 03 Aug 2025 09:50:17 GMT | VulnHub: Hacker Fest 2019 Çözümü | Azat Dicle | [Read More](https://medium.com/p/27a0dc9840b0) |
+| Sun, 03 Aug 2025 09:47:05 GMT | Passkeys Are Here — And They’re Changing Logins Forever | YAGS.IN | [Read More](https://medium.com/p/f6323ac01358) |
+| Sun, 03 Aug 2025 09:45:56 GMT | My Soul Feels Like a House With Too Many Empty Rooms | John Okwuose | [Read More](https://medium.com/p/280b350616bd) |
 | Sun, 03 Aug 2025 09:35:04 GMT | IAM Roles Anywhere -Access AWS services from on premises | Dhilipsingh G | [Read More](https://medium.com/p/860c95c26ec2) |
 | Sun, 03 Aug 2025 09:34:28 GMT | How To Track Exploited CVEs | VenariX, Inc. | [Read More](https://medium.com/p/b7bb610336a7) |
 | Sun, 03 Aug 2025 09:33:09 GMT | RIP Azure Dedicated HSM (2018–2028) | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/8633808045ab) |
@@ -104,12 +113,3 @@ It’s enough that you’re here… for yourself. | Marta | [Read More](https://
 | Sun, 03 Aug 2025 00:42:20 GMT | Landing a Cybersecurity Role in 2026: What Will Actually Work | Hemant Patkar, CISSP | [Read More](https://medium.com/p/92a001e65e69) |
 | Sun, 03 Aug 2025 00:41:54 GMT | How Race Conditions Let You Snatch Unlimited Free Domains | Monika sharma | [Read More](https://medium.com/p/963deec411a5) |
 | Sun, 03 Aug 2025 00:29:07 GMT | How Uncontrolled Search Paths Can Let Hackers Hijack Your Node.js App (CWE-427 Explained) | Ali nazari | [Read More](https://medium.com/p/04ef8df6d883) |
-| Sun, 03 Aug 2025 00:23:43 GMT | Week 1 — Foundational Encryption Concepts | Joshua O. Berkoh | [Read More](https://medium.com/p/26ac02d4388d) |
-| Sat, 02 Aug 2025 23:56:54 GMT | Cybersecurity Brain Teasers That Got Students Thinking Like Analysts | Gitika Babbar | [Read More](https://medium.com/p/7cb2f199948e) |
-| Sat, 02 Aug 2025 23:55:19 GMT | Digital Resistance in a Surveillance Society: Analyzing Watch Dogs 2’s Gamified Hactivism | User12778993 | [Read More](https://medium.com/p/8023e1c5b705) |
-| Sat, 02 Aug 2025 23:48:16 GMT | Absolutely! | Amr Abdulhameed | [Read More](https://medium.com/p/b66ed524dedc) |
-| Sat, 02 Aug 2025 23:44:20 GMT | 5 Must-Know Skills for Engineering Students to Kickstart a Career in Cybersecurity | Tejas Khairnar | [Read More](https://medium.com/p/b64ae8bf7dce) |
-| Sat, 02 Aug 2025 23:15:57 GMT | Truecaller Call Recording Discontinuation: iOS Platform Analysis | ObisDev | [Read More](https://medium.com/p/f3b4096ddab9) |
-| Sat, 02 Aug 2025 23:01:06 GMT | I Bought Tickets Online… And My Identity Was Stolen | Aj | [Read More](https://medium.com/p/72ef5553f3a8) |
-| Sat, 02 Aug 2025 23:00:15 GMT | The 5 Confessions I Heard Most When I Was a Pastor | Dan Foster | [Read More](https://medium.com/p/897ca2e8d583) |
-| Sat, 02 Aug 2025 22:34:59 GMT | Towards a more decentralized internet via the Asentu browser | Opal Hits | [Read More](https://medium.com/p/7a7f1749904c) |
