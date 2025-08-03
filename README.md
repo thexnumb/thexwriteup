@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 20:14:51 GMT | The 10 Critical Cybersecurity Issues in the World of AI | Muhammad Adenowo | [Read More](https://medium.com/p/1bd03be7f7d4) |
+| Sun, 03 Aug 2025 20:13:18 GMT | HOW CAN ONE INVEST IN BITCOINS? | Insurance Investment Management | [Read More](https://medium.com/p/6864b286a5a0) |
+| Sun, 03 Aug 2025 20:11:37 GMT | USB File Recovery: A Complete Guide to Restoring Deleted Data | Fatima Heshma | [Read More](https://medium.com/p/f3a7add50f2c) |
+| Sun, 03 Aug 2025 20:07:16 GMT | Enhancing Web Security: OAuth2 Implementation in NestJS | @rnab | [Read More](https://medium.com/p/c38dae3aeb65) |
+| Sun, 03 Aug 2025 20:06:54 GMT | Part 14: Deep Link & URI Hijacking in Flutter — How Malicious Apps Spoof or Intercept… | Sumit Kumar | [Read More](https://medium.com/p/cf8e7f90273e) |
+| Sun, 03 Aug 2025 20:06:14 GMT | ️ Part 13: SSL Pinning Bypass in Flutter — How Attackers Spoof Certificates to Intercept… | Sumit Kumar | [Read More](https://medium.com/p/3074f6462b42) |
+| Sun, 03 Aug 2025 20:04:52 GMT | Part 12: Firebase Anonymous Auth Hijacking — How Attackers Impersonate Real Users in Flutter… | Sumit Kumar | [Read More](https://medium.com/p/68dd263b554e) |
+| Sun, 03 Aug 2025 20:03:57 GMT | Part 11: WebView JavaScript Bridge Injection — How Flutter Allows JS-to-Dart Code Execution | Sumit Kumar | [Read More](https://medium.com/p/76a57e9e2f2f) |
+| Sun, 03 Aug 2025 20:02:55 GMT | Part 10: Flutter SharedPreferences Credential Dump — How Rooted Devices Expose User Tokens & PII | Sumit Kumar | [Read More](https://medium.com/p/0d02e047a916) |
+| Sun, 03 Aug 2025 19:59:58 GMT | Phishing: People Hack with Words, Not Code | Bello Al-Amin Tomiwa | [Read More](https://medium.com/p/c3f7d9a7f9ac) |
+| Sun, 03 Aug 2025 19:59:19 GMT | Part 9: Hardcoded API Keys in Flutter — How Secrets Leak Through APK Decompilation | Sumit Kumar | [Read More](https://medium.com/p/538c949edc15) |
+| Sun, 03 Aug 2025 19:59:08 GMT | The secret of doing well | Sami Toor | [Read More](https://medium.com/p/45feee28f362) |
+| Sun, 03 Aug 2025 19:56:48 GMT | Part 8: Runtime Code Injection in Flutter — How Frida Hooks Can Modify Your App on the Fly | Sumit Kumar | [Read More](https://medium.com/p/1275055b81d8) |
+| Sun, 03 Aug 2025 19:54:25 GMT | Part 7: Deep Link Hijacking in Flutter — How Malicious Apps Can Launch Yours in Dangerous States | Sumit Kumar | [Read More](https://medium.com/p/7d12a60e4ebf) |
+| Sun, 03 Aug 2025 19:53:33 GMT | Part 6: Firebase Misconfigurations in Flutter — How Open Rules Can Expose All Your App’s Data | Sumit Kumar | [Read More](https://medium.com/p/a36110884437) |
+| Sun, 03 Aug 2025 19:52:11 GMT | Part 5: JavaScript Injection in Flutter WebViews — How Untrusted Web Content Can Exploit Your… | Sumit Kumar | [Read More](https://medium.com/p/b5063f42ba24) |
+| Sun, 03 Aug 2025 19:51:07 GMT | Part 4: Token Theft via SharedPreferences — How JWTs Leak from Flutter Apps | Sumit Kumar | [Read More](https://medium.com/p/7e7dec6271d3) |
+| Sun, 03 Aug 2025 19:49:56 GMT | Part 3: Debug Mode Abuse in Flutter — How Dev Builds Can Open the Door to Attackers | Sumit Kumar | [Read More](https://medium.com/p/37a48a85b5e2) |
+| Sun, 03 Aug 2025 19:48:28 GMT | Part 2: Biometric Authentication Bypass in Flutter — How Frida Can Fool Your Fingerprint Checks | Sumit Kumar | [Read More](https://medium.com/p/c26d99a96fc7) |
+| Sun, 03 Aug 2025 19:47:20 GMT | Part 1: Offline Login Bypass in Flutter — How SharedPreferences Can Let Attackers Skip… | Sumit Kumar | [Read More](https://medium.com/p/0e1cd25e1c04) |
+| Sun, 03 Aug 2025 19:44:58 GMT | Flutter App Hacking & Security Risks — A Full-Spectrum Guide (Intro to the Series) | Sumit Kumar | [Read More](https://medium.com/p/66f9a62012ed) |
+| Sun, 03 Aug 2025 19:39:48 GMT | Getting Started with the Basics: Navigating Linux Like a Hacker | Michael Hampton | [Read More](https://medium.com/p/d6b8fbe63222) |
 | Sun, 03 Aug 2025 19:37:51 GMT | Narcoterrorism, Hybrid Warfare & the Global Threat Matrix | SIMKRA | [Read More](https://medium.com/p/0e0f9dc754f9) |
 | Sun, 03 Aug 2025 19:37:31 GMT | The New Battleground of Global Politics | Your's Nightmare | [Read More](https://medium.com/p/6153ddf8c04f) |
 | Sun, 03 Aug 2025 19:25:41 GMT | One week ago, I finally started learning cybersecurity — after years of avoiding it. | KISHOR SUTRADHAR | [Read More](https://medium.com/p/1dce5779442a) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 14:46:08 GMT | The news of a layoff | Blogger | [Read More](https://medium.com/p/740d11c06e8c) |
 | Sun, 03 Aug 2025 14:44:16 GMT | SUBDOMAİN TARAMA | ömer Kaan kurt | [Read More](https://medium.com/p/da78d9b959d4) |
 | Sun, 03 Aug 2025 14:41:47 GMT | The Ultimate Guide to RCP, SMB, and FTP Enumeration: Tools, Techniques & Real-World Scenarios | Rajkumar Kumawat | [Read More](https://medium.com/p/174a01f7fb04) |
-| Sun, 03 Aug 2025 14:41:08 GMT | Dancing - HackTheBox Tier 0 Write-Up | Bridget | [Read More](https://medium.com/p/e8f8f7ad98f9) |
-| Sun, 03 Aug 2025 14:37:04 GMT | Cyber Security Awareness: Your Ultimate Defense Against Digital Threats in 2025 | Paul Meyer | [Read More](https://medium.com/p/d9f33aaf8bc5) |
-| Sun, 03 Aug 2025 14:28:28 GMT | Server-Side Request Forgery (SSRF): Risks, Real-World Scenarios, and Prevention | Raghav Bang | [Read More](https://medium.com/p/8895cf800642) |
-| Sun, 03 Aug 2025 14:19:18 GMT | Shodan: İnternetin Karanlık Aynası | Aybike Tutar | [Read More](https://medium.com/p/def5a66fdcbc) |
-| Sun, 03 Aug 2025 14:13:59 GMT | Essential Security Headers Every Web Developer Should Know | Raghav Bang | [Read More](https://medium.com/p/a018d37fbabf) |
-| Sun, 03 Aug 2025 14:07:50 GMT | The Threat of Shadow AI: The Invisible Force Inside Your Business | Sonal Sareen | [Read More](https://medium.com/p/d44c9dcfa56f) |
-| Sun, 03 Aug 2025 14:06:01 GMT | Amazon Q Hack: A Wake-Up Call for AI Security and GRC | Brittney Ginther | [Read More](https://medium.com/p/71c2a1cd5223) |
-| Sun, 03 Aug 2025 14:05:43 GMT | Photto Shoot Time - HOOKNSPEED RECOVERY TRIVANDRUM,KERALA | Hooknspeed Recovery Thiruvananthapuram | [Read More](https://medium.com/p/81419e2fde6f) |
-| Sun, 03 Aug 2025 14:05:33 GMT | From Beginner to $3000 Per Month PenTester: A Real-World Guide | Rashadul Islam | [Read More](https://medium.com/p/5bf3d0246a2a) |
-| Sun, 03 Aug 2025 14:04:44 GMT | Iframe Protection: Why It Matters & How to Secure Your Web App | Raghav Bang | [Read More](https://medium.com/p/7e8c2a742eac) |
-| Sun, 03 Aug 2025 13:59:17 GMT | Ransomware Killed a Company?! | Truspex | [Read More](https://medium.com/p/b424e07ab519) |
-| Sun, 03 Aug 2025 13:52:46 GMT | 11 Tiny Habits That Transform Your Self-Image | Vijay Kumar Gupta | [Read More](https://medium.com/p/8f5937df9f5c) |
-| Sun, 03 Aug 2025 13:46:54 GMT | What is SSO and Why It Matters -Core Concepts | Luqmancheruvakkat | [Read More](https://medium.com/p/bec9f7308244) |
-| Sun, 03 Aug 2025 13:44:55 GMT | THM - CONTAIN | Francesco Pastore | [Read More](https://medium.com/p/53a3a1a1b4e9) |
-| Sun, 03 Aug 2025 13:43:44 GMT | Kloxo Hosting Panel: Local Privilege Escalation Lets Attackers Go Root! | CVEHUB | [Read More](https://medium.com/p/bbca1b633c4d) |
-| Sun, 03 Aug 2025 13:41:29 GMT | CVE-2025–50472: Critical RCE Vulnerability in Modelscope’s ms-swift Library | CVEHUB | [Read More](https://medium.com/p/df96846d5208) |
-| Sun, 03 Aug 2025 13:41:11 GMT | CVE-2025–45150: LangChain-ChatGLM-Webui Exposed! Sensitive Files at Risk | CVEHUB | [Read More](https://medium.com/p/891e786bd2b9) |
-| Sun, 03 Aug 2025 13:40:11 GMT | SQL Injection Fundamentals Assessment—HTB Academy | Ahmadhossam | [Read More](https://medium.com/p/d07d8cc60b49) |
-| Sun, 03 Aug 2025 13:36:05 GMT | AI Just Broke Cybersecurity: Here’s What No One Is Telling You | Rue | [Read More](https://medium.com/p/4acaf5d83cba) |
-| Sun, 03 Aug 2025 13:34:28 GMT | I Built My Own Driveway Gates & Saved Thousands—Here’s How You Can Too | ARK Writes | [Read More](https://medium.com/p/5eff611c11a4) |
-| Sun, 03 Aug 2025 13:32:24 GMT | Web Design: Crafting Digital Experiences That Matter | Prosper Opara | [Read More](https://medium.com/p/f66512bea4d7) |
-| Sun, 03 Aug 2025 13:28:02 GMT | PyLog-Sentry: I Built My Own Log Analysis and Alert System (Post-SOC L1 Project) | Furkanctiner | [Read More](https://medium.com/p/2f7a470476b2) |
