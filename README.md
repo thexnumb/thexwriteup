@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 12:31:42 GMT | Hacking Hackademic RTB1: Full Walkthrough to Root | Regan Temudo | [Read More](https://medium.com/p/e9f26f861d8d) |
+| Sun, 03 Aug 2025 12:31:27 GMT | Cybersecurity: Student Onel de Guzman and the ILOVEYOU Virus | Dr. Seabelo Chabo John, Ed.D. | [Read More](https://medium.com/p/06dc634bd50f) |
+| Sun, 03 Aug 2025 12:25:54 GMT | AI Security: Addressing Detailed Vulnerabilities | Artificial Intelligence Details | [Read More](https://medium.com/p/b37325663e13) |
+| Sun, 03 Aug 2025 12:25:11 GMT | Stored XSS to Privilege Escalation to Admin Takeover to Data Breach | Ahmad Halabi | [Read More](https://medium.com/p/6239d0cc3a5c) |
+| Sun, 03 Aug 2025 12:24:12 GMT | How I Logged in with an Expired Azure AD Password | Amrit Sinha | [Read More](https://medium.com/p/5668d0f36525) |
+| Sun, 03 Aug 2025 12:15:56 GMT | SPHINCS+: The Pinnacle of Quantum-Resistant Hash-Based Digital Signatures | Elif Abanoz | [Read More](https://medium.com/p/347285b637e5) |
+| Sun, 03 Aug 2025 12:13:59 GMT | The Myth of Security by Obscurity: “Nobody Knows” ≠ “Nobody Will Find” | Evgeny Ermakov | [Read More](https://medium.com/p/cbaa49ad65cc) |
+| Sun, 03 Aug 2025 12:11:41 GMT | DockerLabs Writeup — Dance-Samba (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d65a160f23df) |
+| Sun, 03 Aug 2025 12:05:35 GMT | The WAF Weakness Handbook: Confusing Firewalls Like a Pro | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d1ed97e888e2) |
+| Sun, 03 Aug 2025 11:57:24 GMT | “Aunty, It’s Me. Please Help!” | O. J. Okpabi | [Read More](https://medium.com/p/4b861badc4b7) |
+| Sun, 03 Aug 2025 11:57:22 GMT | Your Data Is Currency — Here’s Why You Need to Protect It | Kavya Sharma | [Read More](https://medium.com/p/29cb3223d8c2) |
 | Sun, 03 Aug 2025 11:35:50 GMT | “In the Depths of Feelings” | InnerHues | [Read More](https://medium.com/p/0d2226483a20) |
 | Sun, 03 Aug 2025 11:33:04 GMT | “WAF This Way: Real-World Bypass Tactics from the Trenches” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0d2eaae9e32f) |
 | Sun, 03 Aug 2025 11:31:02 GMT | INFORMATION | Sami Toor | [Read More](https://medium.com/p/0504b9dc5b77) |
@@ -102,14 +113,3 @@ It’s enough that you’re here… for yourself. | Marta | [Read More](https://
 | Sun, 03 Aug 2025 04:45:38 GMT | Why Samsung Galaxy S25 Is Great for Gaming — 2025 Review? | Luna Collins | [Read More](https://medium.com/p/6157c6ccda1b) |
 | Sun, 03 Aug 2025 04:44:35 GMT | Protecting Atlassian from Phishing Attacks | Turaab Akbar | [Read More](https://medium.com/p/56f0b414c65e) |
 | Sun, 03 Aug 2025 04:43:40 GMT | The Plague You Didn’t See Coming: A Silent Linux Backdoor That Bypassed Detection for a Year | IamVishnu | [Read More](https://medium.com/p/f8947e27c42a) |
-| Sun, 03 Aug 2025 04:41:55 GMT | I Want to Love Someone Who Doesn’t See That as a Red Flag | Dhruvdeep Singh | [Read More](https://medium.com/p/6752836edf76) |
-| Sun, 03 Aug 2025 04:37:20 GMT | How Businesses Grow with Friendship: The PureCompass Perspective - PureCompass - Business… | PureCompass | [Read More](https://medium.com/p/d959b054d9fe) |
-| Sun, 03 Aug 2025 04:09:09 GMT | Node.js Interview Q&A: Day 24 | Dipak Ahirav | [Read More](https://medium.com/p/79940b63ff17) |
-| Sun, 03 Aug 2025 04:02:02 GMT | Cosmist vs Terran: A Meta-Redux | Nicholas Cole Akers | [Read More](https://medium.com/p/d9c9427d4e32) |
-| Sun, 03 Aug 2025 03:57:15 GMT | Phishing the Wallet: Inside Campaigns Targeting UPI and Digital Payment Systems | Vidhi patel | [Read More](https://medium.com/p/05624490ddd1) |
-| Sun, 03 Aug 2025 03:52:22 GMT | We’re Authenticating Transactions. But Not the Channel That Executes Them. | Rodrigo Gutierrez | [Read More](https://medium.com/p/3a5d7c5a866b) |
-| Sun, 03 Aug 2025 03:51:25 GMT | National Identity Card (NID) | Shatrughan | [Read More](https://medium.com/p/bc7f18edcb6b) |
-| Sun, 03 Aug 2025 03:32:36 GMT | Gremlin Stealer: The Polished Malware Kit Reshaping Info-Stealer Threats | Deven Chhajed | [Read More](https://medium.com/p/78297586373a) |
-| Sun, 03 Aug 2025 02:58:33 GMT | CyberDefenders WebStrike LabWrite-Up | Giovanny Joseph | [Read More](https://medium.com/p/5970e2fd5991) |
-| Sun, 03 Aug 2025 02:47:58 GMT | How I Bypassed OTP Verification with Just a Script Tag | Ivoabreu | [Read More](https://medium.com/p/7cbb880060c3) |
-| Sun, 03 Aug 2025 02:46:59 GMT | Footprinting and Scanning CTF 1 | Hejackson | [Read More](https://medium.com/p/96d74426eac1) |
