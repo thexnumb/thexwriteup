@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 03:32:36 GMT | Gremlin Stealer: The Polished Malware Kit Reshaping Info-Stealer Threats | Deven Chhajed | [Read More](https://medium.com/p/78297586373a) |
+| Sun, 03 Aug 2025 02:58:33 GMT | CyberDefenders WebStrike LabWrite-Up | Giovanny Joseph | [Read More](https://medium.com/p/5970e2fd5991) |
+| Sun, 03 Aug 2025 02:47:58 GMT | How I Bypassed OTP Verification with Just a Script Tag | Ivoabreu | [Read More](https://medium.com/p/7cbb880060c3) |
+| Sun, 03 Aug 2025 02:46:59 GMT | Footprinting and Scanning CTF 1 | Hejackson | [Read More](https://medium.com/p/96d74426eac1) |
+| Sun, 03 Aug 2025 02:39:34 GMT | I want to start writing. | ZeakPeak | [Read More](https://medium.com/p/537282cd9501) |
+| Sun, 03 Aug 2025 02:38:56 GMT | TCP vs UDP: A Beginner’s Learning Journal | JEONGYU NOH | [Read More](https://medium.com/p/adf6b0c11ec0) |
+| Sun, 03 Aug 2025 02:35:28 GMT | Unpacking Cybersecurity: Key Insights from NPCore’s Expert Lecture | Nuraidahks | [Read More](https://medium.com/p/c38d3091e9af) |
+| Sun, 03 Aug 2025 02:07:16 GMT | Enhancing Web Application Security with OAuth2 and NestJS | @rnab | [Read More](https://medium.com/p/4c2c18ad0d06) |
 | Sun, 03 Aug 2025 01:51:51 GMT | The Outlaw — Prologue | Darwin Dela Cruz | [Read More](https://medium.com/p/0a0d3497a34e) |
 | Sun, 03 Aug 2025 01:42:36 GMT | Cookies in the Backend? Here’s the Simplest Explanation You’ll Ever Need | Shubham Sharma | [Read More](https://medium.com/p/9b8eb16cb800) |
 | Sun, 03 Aug 2025 01:25:05 GMT | Why Installing an Automatic Gate Opener Is the Smartest Move You’ll Make This Year | Earnest Sherrill | [Read More](https://medium.com/p/ecd2e5a550ab) |
@@ -105,11 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 17:15:37 GMT | How I Reported a Major Privacy Loophole in ChatGPT’s Sharing Feature | LETCHU PKT | [Read More](https://medium.com/p/6bc4225d81b5) |
 | Sat, 02 Aug 2025 17:12:41 GMT | Top Snapchat Spy Apps for Teens’ Safety & Relationship Trust | Narjis Batool | [Read More](https://medium.com/p/42747aee7139) |
 | Sat, 02 Aug 2025 17:07:52 GMT | No Rate Limiting: My First Real Bug Bounty Find (At 17) | Ishaan Bansal | [Read More](https://medium.com/p/5a8641a2bb81) |
-| Sat, 02 Aug 2025 17:01:47 GMT | The Quantum Threat: Reshaping Cybersecurity in the Age of Supercomputing | Alae Meftah | [Read More](https://medium.com/p/ec3cbc257dc8) |
-| Sat, 02 Aug 2025 16:57:57 GMT | Are Cybersecurity Bootcamps Worth the Hype? | Aj | [Read More](https://medium.com/p/9c6080487990) |
-| Sat, 02 Aug 2025 16:57:37 GMT | Can Quantum Computers Break the Blockchain? | IamVishnu | [Read More](https://medium.com/p/dbc50b607f4e) |
-| Sat, 02 Aug 2025 16:52:01 GMT | How I Got a $1000 Bounty for Chaining LFI to RCE via Log Injection | Zoningxtr | [Read More](https://medium.com/p/5147552ca2cc) |
-| Sat, 02 Aug 2025 16:51:07 GMT | Behind the Alias: A OSINT Case Study in Digital Attribution | Hitesh Said | [Read More](https://medium.com/p/d3084ae8d6f9) |
-| Sat, 02 Aug 2025 16:47:09 GMT | Why does no one listen anymore? | time_traveller2014 | [Read More](https://medium.com/p/36ccc3b3d03f) |
-| Sat, 02 Aug 2025 16:44:19 GMT | Building Security In, Not Bolting On | Tom Ermolaev | [Read More](https://medium.com/p/a36e18488557) |
-| Sat, 02 Aug 2025 16:42:36 GMT | From Fiber Taps to Zero-Click Exploits: The True Power of NSA, CIA & Unit 8200 | Muhammad Sameer | [Read More](https://medium.com/p/964fff2712dc) |
