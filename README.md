@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 23:34:02 GMT | Ai having an existential crisis rendered useless | Alex (KishinInfosec) | [Read More](https://medium.com/p/2fadee2fff8e) |
+| Sun, 03 Aug 2025 23:24:19 GMT | Um só | Aryane Shelldury | [Read More](https://medium.com/p/ab90b298f126) |
+| Sun, 03 Aug 2025 23:18:08 GMT | Uncovering SQL Injection | 0X0mahmoud | [Read More](https://medium.com/p/db784a309b48) |
 | Sun, 03 Aug 2025 23:10:16 GMT | Top 10 Cybersecurity Skills Every IT Enthusiast Should Master in 2025 | James William Steven Parker | [Read More](https://medium.com/p/e6830c67d77a) |
 | Sun, 03 Aug 2025 23:09:29 GMT | Palo Alto Unit 42’s Attribution Framework | SOCFortress | [Read More](https://medium.com/p/3aa83deaec8b) |
 | Sun, 03 Aug 2025 23:06:16 GMT | ️ Reverse Shell Shellcode Execution in Go — Educational Example | Lazyown Redteam | [Read More](https://medium.com/p/906c11e39182) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 16:30:28 GMT | Top 20 WAF Bypass Chains Using Burp Suite + AI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5eefda3c3283) |
 | Sun, 03 Aug 2025 16:22:47 GMT | Email Security Beyond SPF/DKIM/DMARC | Karthikeyan Nagaraj | [Read More](https://medium.com/p/62ce6cd13479) |
 | Sun, 03 Aug 2025 16:18:04 GMT | Full Guide: From LFI to RCE via /var/log/mail.log ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/54b9686def62) |
-| Sun, 03 Aug 2025 16:14:41 GMT | DDoS — How it works and how to defend | Ac Studio | [Read More](https://medium.com/p/79c9dd321e4d) |
-| Sun, 03 Aug 2025 16:04:09 GMT | Simple CTF Write-Up | Melih Eymen Bulut | [Read More](https://medium.com/p/6ad222776c13) |
-| Sun, 03 Aug 2025 16:03:37 GMT | Zero Trust Network Access (ZTNA) | Abdul Ahad | [Read More](https://medium.com/p/a3e9eb2e5892) |
