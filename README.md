@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 07:05:52 GMT | TryHackMe – Blue (CTF Room) Walkthrough | Sakthi S | [Read More](https://medium.com/p/744e2cab97f0) |
+| Sun, 03 Aug 2025 07:04:47 GMT | Stepping down into the Ocaml Mines — UIUCTF 2025 Writeup | Nikhil Chapre | [Read More](https://medium.com/p/303a2eb5551a) |
+| Sun, 03 Aug 2025 06:57:38 GMT | How a Simple Guess Unlocked Millions of Government IDs & Private Info | Parag Bagade | [Read More](https://medium.com/p/e583e3d8618a) |
+| Sun, 03 Aug 2025 06:42:55 GMT | CSRF where Referer validation depends on header being present @ PortSwigger Walkthrough | Amr Elharery | [Read More](https://medium.com/p/5997b4e4e493) |
 | Sun, 03 Aug 2025 06:31:42 GMT | Beyond Recon: 4 Battle-Tested Bug Bounty Strategies | Abdelrhman Zayed | [Read More](https://medium.com/p/bb24bb437b2c) |
 | Sun, 03 Aug 2025 06:31:40 GMT | When Hackers Ground Planes — The Aeroflot Cyber Meltdown | Devansh Patel | [Read More](https://medium.com/p/ead44263c2e3) |
 | Sun, 03 Aug 2025 06:28:48 GMT | Navigating Enterprise Security with SecuMS and Omniguard | Mufid Fata Rifki | [Read More](https://medium.com/p/bfa0d41473b6) |
@@ -109,7 +113,3 @@ This article presents a justice reform… | Ömer Faruk Yılmaz | [Read More](ht
 | Sat, 02 Aug 2025 19:29:39 GMT | Part8: Mastering Network Security: In-Depth Concepts, Threats & Defenses | White Panther | [Read More](https://medium.com/p/a181018cc0d0) |
 | Sat, 02 Aug 2025 19:24:38 GMT | DAY 33 — CTF #7: Signal in Static | Jinay | [Read More](https://medium.com/p/5ac789e4c3b6) |
 | Sat, 02 Aug 2025 19:22:12 GMT | Cybersecurity — Discover the Top 3 Career & Earnings Growth Strategies for 2025 | Franklin Rhodes | [Read More](https://medium.com/p/b3be9233d460) |
-| Sat, 02 Aug 2025 19:09:20 GMT | My First Steps into the World of Cybersecurity | KARIM QASIR | [Read More](https://medium.com/p/b27c55be2f55) |
-| Sat, 02 Aug 2025 19:06:56 GMT | The Shadow Architect: How Qatar’s Ideological Strategist Forged the Modern Islamist Playbook In… | Omar Omarson | [Read More](https://medium.com/p/1fcdec23f7f9) |
-| Sat, 02 Aug 2025 19:06:43 GMT | From a Boring Engagement to Uncovering a High Severity CVE | m3m0o | [Read More](https://medium.com/p/6ed52b5f618f) |
-| Sat, 02 Aug 2025 19:05:39 GMT | Mastering Network Reconnaissance: My Journey with Nmap | Robert Perez | [Read More](https://medium.com/p/5afc62939324) |
