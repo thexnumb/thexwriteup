@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 13:28:02 GMT | PyLog-Sentry: I Built My Own Log Analysis and Alert System (Post-SOC L1 Project) | Furkanctiner | [Read More](https://medium.com/p/2f7a470476b2) |
+| Sun, 03 Aug 2025 13:16:39 GMT | Tech Frontier Weekly Brief (July 29–Aug 2, 2025): AI Power Plays, Global Defense Shifts &… | Haizy Shah | [Read More](https://medium.com/p/18be163d6239) |
+| Sun, 03 Aug 2025 13:04:18 GMT | Phishing Campaigns Are Now Abusing Proofpoint and Intermedia to Bypass Security — Here’s How | Dhruvdeep Singh | [Read More](https://medium.com/p/9a2994d4e5ea) |
+| Sun, 03 Aug 2025 13:03:11 GMT | Breach Writeup — THM Industrial Intrusion CTF (Task 3) | Avyukt Security | [Read More](https://medium.com/p/369e15d1f8eb) |
+| Sun, 03 Aug 2025 13:02:58 GMT | OSINT 2 Writeup — THM Industrial Intrusion CTF (Task 6) | Avyukt Security | [Read More](https://medium.com/p/b928cd9da9fc) |
+| Sun, 03 Aug 2025 13:00:39 GMT | Web 3.0 CTF Solutions — ASCWG 2025 Qualifications | Wasfy Elbaz | [Read More](https://medium.com/p/ff3064416d67) |
+| Sun, 03 Aug 2025 13:00:22 GMT | iOS 15.2+ Now Uses Cloudflare’s & Akamai’s DNS By Default for Your Device’s Traffic | Basil A. | [Read More](https://medium.com/p/95d0f805a827) |
+| Sun, 03 Aug 2025 12:57:50 GMT | Cyber Security Pen Testing: Simulating Real-World Attacks | Cyber Security Research | [Read More](https://medium.com/p/2fdc6cc6e706) |
+| Sun, 03 Aug 2025 12:55:53 GMT | Cyber Security Reverse Engineering: Analyzing Malicious Code | Cyber Security Research | [Read More](https://medium.com/p/36fdb88461ee) |
+| Sun, 03 Aug 2025 12:54:03 GMT | Cyber Security Zero-Day Exploits: Exploiting Unknown Vulnerabilities | Cyber Security Research | [Read More](https://medium.com/p/eca19f8e615b) |
+| Sun, 03 Aug 2025 12:52:03 GMT | Cyber Security Privilege Escalation: Gaining Elevated Access | Cyber Security Research | [Read More](https://medium.com/p/fc83f67b788a) |
+| Sun, 03 Aug 2025 12:47:46 GMT | Breaking Access: Understanding IDOR Vulnerability and How to Find It Using Burp Suite | GABBYTECH | [Read More](https://medium.com/p/a85fb2762a90) |
 | Sun, 03 Aug 2025 12:31:42 GMT | Hacking Hackademic RTB1: Full Walkthrough to Root | Regan Temudo | [Read More](https://medium.com/p/e9f26f861d8d) |
 | Sun, 03 Aug 2025 12:31:27 GMT | Cybersecurity: Student Onel de Guzman and the ILOVEYOU Virus | Dr. Seabelo Chabo John, Ed.D. | [Read More](https://medium.com/p/06dc634bd50f) |
 | Sun, 03 Aug 2025 12:25:54 GMT | AI Security: Addressing Detailed Vulnerabilities | Artificial Intelligence Details | [Read More](https://medium.com/p/b37325663e13) |
@@ -101,15 +113,3 @@ It’s enough that you’re here… for yourself. | Marta | [Read More](https://
 | Sun, 03 Aug 2025 05:46:12 GMT | Why LLMs Alone Aren’t Enough in Cybersecurity — and How RAG Fills the Gap | Shoaib Rashid | [Read More](https://medium.com/p/70a0ee35b06d) |
 | Sun, 03 Aug 2025 05:44:45 GMT | Code Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/e55309832f06) |
 | Sun, 03 Aug 2025 05:44:05 GMT | Securing Passwords to Protect Ansarada | Turaab Akbar | [Read More](https://medium.com/p/10f4e15ba6b1) |
-| Sun, 03 Aug 2025 05:40:53 GMT | “Juicy 404s”: How Broken Pages Spilled Secrets and Gave Me Admin Access | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d87c938ac26b) |
-| Sun, 03 Aug 2025 05:39:20 GMT | Protecting Ansarada from Phishing Attacks | Turaab Akbar | [Read More](https://medium.com/p/0ece09bc2c80) |
-| Sun, 03 Aug 2025 05:32:14 GMT | OSINT 1 Writeup — THM Industrial Intrusion CTF (Task 5) | Avyukt Security | [Read More](https://medium.com/p/5f6758b972dc) |
-| Sun, 03 Aug 2025 05:31:57 GMT | When Two Givers Become Best Friends, It’s Magic | Ayushi Jindal | [Read More](https://medium.com/p/8bfd654b70d3) |
-| Sun, 03 Aug 2025 05:30:36 GMT | How DRM protection works in Android OTT Apps: | AMAR PAL SINGH | [Read More](https://medium.com/p/8fd3afd2a7b3) |
-| Sun, 03 Aug 2025 05:21:41 GMT | “GitHub Recon: Hacking the Frontend Without Touching the App” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5d8798d5ac64) |
-| Sun, 03 Aug 2025 05:19:56 GMT | The development of thinking abilities in artificial intelligence models.. | Sidialtos | [Read More](https://medium.com/p/fafb1f7002c8) |
-| Sun, 03 Aug 2025 05:05:33 GMT | Could Hackers Hijack Your EV? | Penyu Labs | [Read More](https://medium.com/p/7773ebfb76bd) |
-| Sun, 03 Aug 2025 04:49:41 GMT | picoCTF — Custom Encryption [Cryptography] | Fadia Nur Annisa | [Read More](https://medium.com/p/e45af7388790) |
-| Sun, 03 Aug 2025 04:45:38 GMT | Why Samsung Galaxy S25 Is Great for Gaming — 2025 Review? | Luna Collins | [Read More](https://medium.com/p/6157c6ccda1b) |
-| Sun, 03 Aug 2025 04:44:35 GMT | Protecting Atlassian from Phishing Attacks | Turaab Akbar | [Read More](https://medium.com/p/56f0b414c65e) |
-| Sun, 03 Aug 2025 04:43:40 GMT | The Plague You Didn’t See Coming: A Silent Linux Backdoor That Bypassed Detection for a Year | IamVishnu | [Read More](https://medium.com/p/f8947e27c42a) |
