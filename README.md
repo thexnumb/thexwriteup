@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 16:18:04 GMT | Full Guide: From LFI to RCE via /var/log/mail.log ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/54b9686def62) |
+| Sun, 03 Aug 2025 16:14:41 GMT | DDoS — How it works and how to defend | Ac Studio | [Read More](https://medium.com/p/79c9dd321e4d) |
+| Sun, 03 Aug 2025 16:04:09 GMT | Simple CTF Write-Up | Melih Eymen Bulut | [Read More](https://medium.com/p/6ad222776c13) |
+| Sun, 03 Aug 2025 16:03:37 GMT | Zero Trust Network Access (ZTNA) | Abdul Ahad | [Read More](https://medium.com/p/a3e9eb2e5892) |
+| Sun, 03 Aug 2025 16:01:44 GMT | Why Skipping Authentication Basics Can Break Your App | Marko Uremović | [Read More](https://medium.com/p/7515fab9271a) |
+| Sun, 03 Aug 2025 15:58:41 GMT | Code - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/bda07b468d6d) |
+| Sun, 03 Aug 2025 15:49:23 GMT | ️‍♂️ PenTest Walkthrough: Password Attacks at Nexura LLC | Mkirahmet | [Read More](https://medium.com/p/f23b65fa5fbb) |
+| Sun, 03 Aug 2025 15:46:41 GMT | Corporate Greed Chronicles: Clouds of Cash, Storms of Severance - Atlassian Excess | Namir Sagheenanajar | [Read More](https://medium.com/p/936ff7f9dc60) |
+| Sun, 03 Aug 2025 15:45:11 GMT | Cicadas, Why? | Nancy Parish | [Read More](https://medium.com/p/0bac9ad568a1) |
+| Sun, 03 Aug 2025 15:43:56 GMT | AI and Cyber Insurance — What’s Coming and Why It Matters Now | Suhail R. Ahmad | [Read More](https://medium.com/p/b9b311c0587d) |
+| Sun, 03 Aug 2025 15:37:47 GMT | https://cybersecuritypulse.wordpress.com/ | @cybermentorgopal | [Read More](https://medium.com/p/c7d93d394dbe) |
 | Sun, 03 Aug 2025 15:32:05 GMT | Week 2. | rkdnawab | [Read More](https://medium.com/p/7c20890207ac) |
 | Sun, 03 Aug 2025 15:31:56 GMT | Unmasking the Cyber Storm : 2025’s Biggest Cyber Attacks and Trends You Need to Know | Josaiah Dkhar | [Read More](https://medium.com/p/4da69d92a86f) |
 | Sun, 03 Aug 2025 15:31:43 GMT | En Yaygın Siber Saldırı Türleri-6 | Melek | [Read More](https://medium.com/p/7944d9be503e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 10:04:32 GMT | How I Hunt Bugs Without Tools — Just Brain, Browser, and a Bit of Madness | Viratavi | [Read More](https://medium.com/p/55eb104cf79c) |
 | Sun, 03 Aug 2025 10:03:13 GMT | The Age of Rogue AI Is Already Here | Seán Baufeld | [Read More](https://medium.com/p/74a1daa6c595) |
 | Sun, 03 Aug 2025 09:58:40 GMT | Competitive intelligence | Ashraf Emon | [Read More](https://medium.com/p/63986c6f9aaa) |
-| Sun, 03 Aug 2025 09:50:17 GMT | VulnHub: Hacker Fest 2019 Çözümü | Azat Dicle | [Read More](https://medium.com/p/27a0dc9840b0) |
-| Sun, 03 Aug 2025 09:47:05 GMT | Passkeys Are Here — And They’re Changing Logins Forever | YAGS.IN | [Read More](https://medium.com/p/f6323ac01358) |
-| Sun, 03 Aug 2025 09:45:56 GMT | My Soul Feels Like a House With Too Many Empty Rooms | John Okwuose | [Read More](https://medium.com/p/280b350616bd) |
-| Sun, 03 Aug 2025 09:35:04 GMT | IAM Roles Anywhere -Access AWS services from on premises | Dhilipsingh G | [Read More](https://medium.com/p/860c95c26ec2) |
-| Sun, 03 Aug 2025 09:34:28 GMT | How To Track Exploited CVEs | VenariX, Inc. | [Read More](https://medium.com/p/b7bb610336a7) |
-| Sun, 03 Aug 2025 09:33:09 GMT | RIP Azure Dedicated HSM (2018–2028) | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/8633808045ab) |
-| Sun, 03 Aug 2025 09:32:33 GMT | I Almost Gave Up, and Honestly, I Still Might | John Okwuose | [Read More](https://medium.com/p/fa3521dc3fd3) |
-| Sun, 03 Aug 2025 09:32:18 GMT | Connect, Capture, Control: How to Take Android Screenshots with ADB on Kali Linux | Dorinelrushi | [Read More](https://medium.com/p/da7c09cf5f4c) |
-| Sun, 03 Aug 2025 09:20:26 GMT | That Email Looks Fishy… Probably Is. | Authlyn | [Read More](https://medium.com/p/e56626fc2fa0) |
-| Sun, 03 Aug 2025 09:03:44 GMT | Cybersecurity Updates: My Brain Feels Like It’s on Fire | Truspex | [Read More](https://medium.com/p/d4b2cda6b1e7) |
-| Sun, 03 Aug 2025 09:00:43 GMT | Hashcat v7: “Faster Cracking, Fewer Tears!” | CtrlC3 | [Read More](https://medium.com/p/47d2c99c8395) |
