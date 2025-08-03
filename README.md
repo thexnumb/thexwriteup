@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 Aug 2025 10:44:49 GMT | How Anyone Can Start Protecting Themselves from Invisible Cyber Threats" | H3X | [Read More](https://medium.com/p/25883d8ea532) |
+| Sun, 03 Aug 2025 10:41:03 GMT | Cypher — Hack The Box | Toshith | [Read More](https://medium.com/p/02e33b8b043c) |
+| Sun, 03 Aug 2025 10:34:46 GMT | SMT 2025 — Expert Lecture 2 | Firdhan H | [Read More](https://medium.com/p/e6cb7b00fedd) |
+| Sun, 03 Aug 2025 10:25:44 GMT | How Azure SAS Expiration Actions Empower Customer | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/40c2a3d78e1d) |
 | Sun, 03 Aug 2025 10:20:08 GMT | Why I Am Learning Cybersecurity (And No, It’s Not for the Money) | Emmanuel Jeffrey Kassa | [Read More](https://medium.com/p/2dec725c0c5d) |
+| Sun, 03 Aug 2025 10:17:26 GMT | VeraCrypt — And Memories of Classic Ciphers (Twofish, Serpent and Camellia) | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/ed18e8f9ff5d) |
 | Sun, 03 Aug 2025 10:10:52 GMT | SQL Injection Fundamentals — HTB Walkthrough | Vincent Olago | [Read More](https://medium.com/p/1ae01e85ba34) |
 | Sun, 03 Aug 2025 10:04:46 GMT | PortSwigger XSS Labs: A Complete Guide to All 9 Apprentice-Level Challenges | Thanuj Dilshan Thilakarathne | [Read More](https://medium.com/p/6fba56da8635) |
 | Sun, 03 Aug 2025 10:04:32 GMT | How I Hunt Bugs Without Tools — Just Brain, Browser, and a Bit of Madness | Viratavi | [Read More](https://medium.com/p/55eb104cf79c) |
@@ -108,8 +113,3 @@ It’s enough that you’re here… for yourself. | Marta | [Read More](https://
 | Sun, 03 Aug 2025 00:51:07 GMT | I Am Now a Certified Red Team Analyst (CRTA)– My Full Experience with CyberWarFare Labs | Xh081iX | [Read More](https://medium.com/p/a11817048eb8) |
 | Sun, 03 Aug 2025 00:47:02 GMT | Oyster Malware via Fake PuTTY | Cyber T | [Read More](https://medium.com/p/38addfb61f38) |
 | Sun, 03 Aug 2025 00:46:40 GMT | My Virtual HomeLab: Malware Analysis | Cybersec with Hemmars | [Read More](https://medium.com/p/51d885051dad) |
-| Sun, 03 Aug 2025 00:45:54 GMT | Land a Job in Cybersecurity Without any Degree | Satyam Pathania | [Read More](https://medium.com/p/4d9f301149a4) |
-| Sun, 03 Aug 2025 00:42:32 GMT | Find Information About Anyone Through Social Media OSINT Techniques | Ghani Mengal | [Read More](https://medium.com/p/91dc68fd4a27) |
-| Sun, 03 Aug 2025 00:42:20 GMT | Landing a Cybersecurity Role in 2026: What Will Actually Work | Hemant Patkar, CISSP | [Read More](https://medium.com/p/92a001e65e69) |
-| Sun, 03 Aug 2025 00:41:54 GMT | How Race Conditions Let You Snatch Unlimited Free Domains | Monika sharma | [Read More](https://medium.com/p/963deec411a5) |
-| Sun, 03 Aug 2025 00:29:07 GMT | How Uncontrolled Search Paths Can Let Hackers Hijack Your Node.js App (CWE-427 Explained) | Ali nazari | [Read More](https://medium.com/p/04ef8df6d883) |
