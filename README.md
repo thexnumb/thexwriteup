@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 09:28:18 GMT | Why Composite Doors Are the Perfect Upgrade for UK Homes | Kam Singh | [Read More](https://medium.com/p/89810151fb28) |
+| Mon, 04 Aug 2025 09:21:26 GMT | Web Application Firewalls in Canada: Trends, Challenges, and Market Insights Through 2028 | Gargiben | [Read More](https://medium.com/p/6f2d0e4f405b) |
+| Mon, 04 Aug 2025 09:15:55 GMT | Cybersecurity Calling? Your Back-to-School Game Plan | Authlyn | [Read More](https://medium.com/p/07ed299e04b5) |
+| Mon, 04 Aug 2025 09:15:30 GMT | 10 Bug Report Mistakes That Annoy Developers — And How to Avoid Them | Parinita Kapoor | [Read More](https://medium.com/p/30c86271bc27) |
+| Mon, 04 Aug 2025 09:09:46 GMT | Empower Your Business with MetaOye Solutions: Premier IT Services for the Digital Age | MetaOye Solutions | [Read More](https://medium.com/p/bc052b38d531) |
+| Mon, 04 Aug 2025 09:08:23 GMT | How Security Systems Work | Ingramvillaescusa | [Read More](https://medium.com/p/dd7db888479a) |
+| Mon, 04 Aug 2025 09:06:43 GMT | Africa 5.0 — Africa in the Age of the Machine and Digital Civilisation. | Jumanne Rajabu Mtambalike | [Read More](https://medium.com/p/7848009f122e) |
+| Mon, 04 Aug 2025 09:06:28 GMT | How the Tea App Exposed 72,000 IDs and 1.1 Million DMs: A Security Breakdown | Aaron | [Read More](https://medium.com/p/2fa3217f2845) |
+| Mon, 04 Aug 2025 09:06:05 GMT | Cómo organizar tus reportes de Bug Bounty y potenciar tu progreso con IA | Gorka | [Read More](https://medium.com/p/3dbe3a043828) |
+| Mon, 04 Aug 2025 09:05:42 GMT | Managed IT Services vs. In-House IT: Cost-Benefit Analysis for CTOs | Embee Software | [Read More](https://medium.com/p/3d6e04a6f89c) |
+| Mon, 04 Aug 2025 09:03:38 GMT | Microsoft: “Oops, China Hacked Us… And We Used Engineers There.” | Truspex | [Read More](https://medium.com/p/36bf713118b8) |
+| Mon, 04 Aug 2025 09:03:31 GMT | CVE-2024–24915 | Karol Mazurek | [Read More](https://medium.com/p/eb26548d54e4) |
+| Mon, 04 Aug 2025 09:00:48 GMT | Anonymous Write-Up (TryHackMe) | Mustafa Bostan | [Read More](https://medium.com/p/7bd847c333ed) |
+| Mon, 04 Aug 2025 08:58:19 GMT | The Daily Tech Digest: 04 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/dc0cb37cf9cb) |
+| Mon, 04 Aug 2025 08:56:20 GMT | How to Create a Certificate Authority Server via SmallStepCA | Ed Roof Maker | [Read More](https://medium.com/p/786cbb201016) |
+| Mon, 04 Aug 2025 08:55:39 GMT | NetHunter’s Messed Up? Let’s Fix That Terminal, Fast! | SilentInject | [Read More](https://medium.com/p/6d37c8bf36f0) |
+| Mon, 04 Aug 2025 08:49:48 GMT | How Palo Alto Networks Will Integrate CyberArk’s Identity Security into Its AI-Focused Platforms | TechIntelPro | [Read More](https://medium.com/p/d58a88a77ecb) |
+| Mon, 04 Aug 2025 08:32:01 GMT | You’re using GitHub dorks wrong: How to improve your search queries to find in-scope leaks faster | Tillson Galloway | [Read More](https://medium.com/p/165433700b46) |
+| Mon, 04 Aug 2025 08:31:39 GMT | Introduction to Windows API | Mainekdeveloper | [Read More](https://medium.com/p/042676eba6a7) |
 | Mon, 04 Aug 2025 08:29:06 GMT | How Python Developers Help Businesses Build Smarter Solutions | Bhavesh Rajpurohit | [Read More](https://medium.com/p/215881810997) |
 | Mon, 04 Aug 2025 08:25:53 GMT | Tag, Sort, Win — Azure’s Ledger Update | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/e8d2886a6741) |
 | Mon, 04 Aug 2025 08:24:54 GMT | MDM Software: A Beginner’s Quick Guide | Vantage MDM | [Read More](https://medium.com/p/64dd32dff2e6) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 04:28:31 GMT | The Sea , A Quiet Lesson in Love | sasha | [Read More](https://medium.com/p/43ca6577c80b) |
 | Mon, 04 Aug 2025 04:25:14 GMT | How to File a Lawsuit After Financial Identity Theft | Tycoonstories | [Read More](https://medium.com/p/57c6112fe88b) |
 | Mon, 04 Aug 2025 04:14:18 GMT | TECHNICAL BLOGGING IN CYBER SECURITY | Mizhabsadik | [Read More](https://medium.com/p/6ce45842abac) |
-| Mon, 04 Aug 2025 04:11:25 GMT | Why Proactive Threat Hunting Matters | Muhammed Nihal TS | [Read More](https://medium.com/p/d1f19553a2e9) |
-| Mon, 04 Aug 2025 04:09:10 GMT | How AI Impacts Your World Today: A 2025 Perspective? | Lily Adams | [Read More](https://medium.com/p/7997d87413a4) |
-| Mon, 04 Aug 2025 04:08:34 GMT | Hardening Your Kubernetes Fortress, Part 1: Auditing with kube-bench | Harsh Kahate | [Read More](https://medium.com/p/a5ef28467ed6) |
-| Mon, 04 Aug 2025 04:04:29 GMT | why proactive threat hunting matters | Shirazmuhammed | [Read More](https://medium.com/p/d331ba0e1991) |
-| Mon, 04 Aug 2025 03:59:11 GMT | Technical Blogging on Cybersecurity | Adil K N | [Read More](https://medium.com/p/469a9c69580c) |
-| Mon, 04 Aug 2025 03:56:09 GMT | Blurry HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/e6490e2f7ca1) |
-| Mon, 04 Aug 2025 03:53:18 GMT | Cyber Warfare in 2025: Executive Report | CCD-IS | [Read More](https://medium.com/p/d06cf65588de) |
-| Mon, 04 Aug 2025 03:52:18 GMT | LazyOwn: CRIMEN — The Red Team Framework That Thinks It’s James Bond (But Is Actually Grisun0) | Lazyown Redteam | [Read More](https://medium.com/p/7f83eb2bf84f) |
-| Mon, 04 Aug 2025 03:51:15 GMT | Your AI Assistant’s Secret Weakness: Unquestioning Obedience | Victor Yan | [Read More](https://medium.com/p/e78206ad9899) |
-| Mon, 04 Aug 2025 03:47:28 GMT | Securing GitHub Actions with AWS OIDC: A Complete Guide to Passwordless Authentication | Kiran Anil | [Read More](https://medium.com/p/90d5293a18e8) |
-| Mon, 04 Aug 2025 03:38:46 GMT | What Else Can Your Security Camera Do That You Never Thought Of? | Sareena | [Read More](https://medium.com/p/46df2756a89d) |
-| Mon, 04 Aug 2025 03:38:39 GMT | Reflected XSS with Some SVG Markup Allowed | Bash Overflow | [Read More](https://medium.com/p/65e24224d819) |
-| Mon, 04 Aug 2025 03:35:50 GMT | Product Management: The Essential Competency Framework | Pratyush Mittal | [Read More](https://medium.com/p/49b1d211a7c8) |
-| Mon, 04 Aug 2025 03:31:41 GMT | When Hospitals Get Hacked: Inside the Twin Data Breaches That Hit Ascension Healthcare | Deven Chhajed | [Read More](https://medium.com/p/4f68de28806e) |
-| Mon, 04 Aug 2025 03:17:29 GMT | Step into Cybersecurity Leadership with CISM! | Cybernous Infosec consulting | [Read More](https://medium.com/p/2994cac2456e) |
-| Mon, 04 Aug 2025 03:10:40 GMT | Cyber Security Training: Safe Careers in a Digital Age | Manraj | [Read More](https://medium.com/p/2d80186fa913) |
-| Mon, 04 Aug 2025 03:05:58 GMT | Catatan Belajar: Understanding Rules of Engagement (RoE) in Penetration Testing | Kiara Humaira | [Read More](https://medium.com/p/fbb14fbd30f1) |
-| Mon, 04 Aug 2025 02:56:39 GMT | Ninety Laptops, Millions of Dollars — The Chapman Scam | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/475886d927a7) |
-| Mon, 04 Aug 2025 02:48:19 GMT | IAM 101: Identity and Access Management for Security Professionals | Mudassir Syed | [Read More](https://medium.com/p/8f32c222e70c) |
