@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 08:29:06 GMT | How Python Developers Help Businesses Build Smarter Solutions | Bhavesh Rajpurohit | [Read More](https://medium.com/p/215881810997) |
+| Mon, 04 Aug 2025 08:25:53 GMT | Tag, Sort, Win — Azure’s Ledger Update | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/e8d2886a6741) |
+| Mon, 04 Aug 2025 08:24:54 GMT | MDM Software: A Beginner’s Quick Guide | Vantage MDM | [Read More](https://medium.com/p/64dd32dff2e6) |
+| Mon, 04 Aug 2025 08:13:02 GMT | Linux Hardening: A Strategic Guide to Securing Your System | Mohamed Gebril | [Read More](https://medium.com/p/ff942308f51e) |
+| Mon, 04 Aug 2025 08:11:22 GMT | SSRF with filter bypass via open redirection vulnerability — PortSwigger Walkthroug | Amr Elharery | [Read More](https://medium.com/p/a5e5c86344fd) |
+| Mon, 04 Aug 2025 08:07:00 GMT | The Rise of Cybersecurity Across Asia-Pacific: A Regional View on Service Providers, Risk, and… | QualysecEurope | [Read More](https://medium.com/p/773cbb7a2689) |
+| Mon, 04 Aug 2025 08:05:53 GMT | Making Security Simple Everyday & Everywhere — My Journey Start Here! | Tegar Bayu Pratama | [Read More](https://medium.com/p/b49cc66a4c46) |
+| Mon, 04 Aug 2025 08:05:47 GMT | Catch_Me_If_You_Can - CyberTalents challenge writeup | Youssef | [Read More](https://medium.com/p/c02c3cedeb11) |
+| Mon, 04 Aug 2025 08:00:30 GMT | Can AI Be Emotionally Dumb but Ethically Smart? | Yash Gorasiya | [Read More](https://medium.com/p/379868372846) |
+| Mon, 04 Aug 2025 07:58:58 GMT | The Business Benefits of PCI DSS Compliance Beyond Security | eSecForte Technologies | [Read More](https://medium.com/p/818ed689961b) |
+| Mon, 04 Aug 2025 07:50:13 GMT | 52 Small Business Cyber Attack Statistics for 2025 — Europe | David Miller | [Read More](https://medium.com/p/46d1d109ecf0) |
+| Mon, 04 Aug 2025 07:46:50 GMT | Decoding the Digital Fortress: Security Specifics | Cyber Security Research | [Read More](https://medium.com/p/f239fca77eb0) |
+| Mon, 04 Aug 2025 07:46:23 GMT | Critical RCE Flaw in Apache ActiveMQ via Jolokia Interface (CVE-2022–41678) | AerieWhole123 | [Read More](https://medium.com/p/327082be385c) |
+| Mon, 04 Aug 2025 07:45:29 GMT | Untangling the Web: A Cyber Security Deep Dive | Cyber Security Research | [Read More](https://medium.com/p/5b77fdef3c52) |
+| Mon, 04 Aug 2025 07:32:29 GMT | Get Ahead of Security Risks with a Smart ISO 27001 Risk Assessment by Axipro | Axipro | [Read More](https://medium.com/p/ca05221e23a0) |
+| Mon, 04 Aug 2025 07:31:06 GMT | Are you learning IT courses Wrong? Check our course.. | Shailesh Baral | [Read More](https://medium.com/p/4e08204f393e) |
+| Mon, 04 Aug 2025 07:29:57 GMT | sionHome Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/a03d580a83ad) |
+| Mon, 04 Aug 2025 07:26:18 GMT | Top 5 Must-Have Elite OS’es For Hackers/Bug Bounty Hunters. | NnFace | [Read More](https://medium.com/p/f63138454cad) |
 | Mon, 04 Aug 2025 07:25:43 GMT | Why Most North American Small Businesses Are Invisible on Google — and How to Fix It Fast | WeFive | [Read More](https://medium.com/p/a86ab9eafa32) |
+| Mon, 04 Aug 2025 07:25:14 GMT | What does a Cybersecurity Analyst do in a company? | mohammed mubashir | [Read More](https://medium.com/p/536ef2b1c99e) |
+| Mon, 04 Aug 2025 07:21:27 GMT | SocGholish Intrusion Set & RansomHub Deployment | Janardhan Pattipati | [Read More](https://medium.com/p/334ff6372e06) |
 | Mon, 04 Aug 2025 07:19:05 GMT | Why Gen Z Is Meming World War III, And What It Reveals About AI, Cybersecurity, and Digital Power | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/407683724d0d) |
 | Mon, 04 Aug 2025 07:17:00 GMT | Chain Up Bugs — Web Application | Sakib Haque Zisan | [Read More](https://medium.com/p/8a0b1d148e5b) |
 | Mon, 04 Aug 2025 07:14:35 GMT | SafeLine vs. Barracuda WAF: Which One Fits Your Security Needs? | AerieWhole123 | [Read More](https://medium.com/p/efa25416340b) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 03:05:58 GMT | Catatan Belajar: Understanding Rules of Engagement (RoE) in Penetration Testing | Kiara Humaira | [Read More](https://medium.com/p/fbb14fbd30f1) |
 | Mon, 04 Aug 2025 02:56:39 GMT | Ninety Laptops, Millions of Dollars — The Chapman Scam | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/475886d927a7) |
 | Mon, 04 Aug 2025 02:48:19 GMT | IAM 101: Identity and Access Management for Security Professionals | Mudassir Syed | [Read More](https://medium.com/p/8f32c222e70c) |
-| Mon, 04 Aug 2025 02:46:09 GMT | “Is This a Honeypot or a Czech Literature Fan’s Forgotten Server?” — The Bizarre Case of odaha.com | Mr_Abdellah | [Read More](https://medium.com/p/ff4c72b7915c) |
-| Mon, 04 Aug 2025 02:44:19 GMT | Why Secure, Privacy‑Preserving AI Matters | Naman Jain | [Read More](https://medium.com/p/66f6058faa97) |
-| Mon, 04 Aug 2025 02:32:16 GMT | AGI: The Last Invention Humanity Will Ever Need? | Biplab_Dev | [Read More](https://medium.com/p/8f5ff350d739) |
-| Mon, 04 Aug 2025 02:30:26 GMT | Backend Bottlenecks You Didn’t Know You Had | Rizqi Mulki | [Read More](https://medium.com/p/2d3a6ad57341) |
-| Mon, 04 Aug 2025 02:20:16 GMT | From Monolith to Microservices Without Breaking Performance | Rizqi Mulki | [Read More](https://medium.com/p/e8eb6b8c778a) |
-| Mon, 04 Aug 2025 02:17:48 GMT | The Public Exposure Of Your AI Conversations: Some Facts | Sorab Ghaswalla | [Read More](https://medium.com/p/03ca20c1ba53) |
-| Mon, 04 Aug 2025 02:14:41 GMT | The Backend Scaling Strategy No One Told You About | Rizqi Mulki | [Read More](https://medium.com/p/494f0bfc73b3) |
-| Mon, 04 Aug 2025 01:47:49 GMT | Not All Payment Systems Are Built to Protect You | rebootingdaily | [Read More](https://medium.com/p/4f5b6578dfb4) |
-| Mon, 04 Aug 2025 01:44:29 GMT | $47 Million Real Estate Scam Leaves Houston Investors Reeling: What Went Wrong and How to Stay Safe | "Tracey, the Safety Lady" Hawkins | [Read More](https://medium.com/p/0eac8a8337f8) |
-| Mon, 04 Aug 2025 01:09:07 GMT | EN- We Shared the Responsibility, Not the Bill: The Snowflake Breach | ahmetw.eth | [Read More](https://medium.com/p/7e4060b5d3ce) |
-| Mon, 04 Aug 2025 01:03:45 GMT | CyberDefenders PoisionedCredentials Write-up | Giovanny Joseph | [Read More](https://medium.com/p/7d5d883b3704) |
-| Mon, 04 Aug 2025 01:02:29 GMT | TR- Sorumluluğu Paylaştık Faturayı Değil: Snowflake Breach | ahmetw.eth | [Read More](https://medium.com/p/420979781787) |
-| Mon, 04 Aug 2025 00:55:48 GMT | HackTheBox - OpenAdmin | jniket | [Read More](https://medium.com/p/63d090236e2d) |
-| Mon, 04 Aug 2025 00:41:30 GMT | This ChatGPT Agent Does My Finances. Here’s How It Works. | Fahad's Foresight | [Read More](https://medium.com/p/699a81cbc7cc) |
-| Mon, 04 Aug 2025 00:41:08 GMT | The AI Research of July 2025: Four Papers That Will Reshape the Future | Fahad's Foresight | [Read More](https://medium.com/p/6819816bf412) |
-| Mon, 04 Aug 2025 00:24:53 GMT | Stuxnet: Bir Solucan Virüsünün Atom Bombası Etkisi | Serhat Çallı | [Read More](https://medium.com/p/134ba31d3659) |
-| Mon, 04 Aug 2025 00:13:23 GMT | Are Video Games Too Violent for Children? | Savvy Cyber Kids | [Read More](https://medium.com/p/f6dd706dd7ad) |
-| Mon, 04 Aug 2025 00:13:07 GMT | Streaming and Mainstream Popularity | Savvy Cyber Kids | [Read More](https://medium.com/p/51d038f7085e) |
-| Mon, 04 Aug 2025 00:12:50 GMT | What Does Your Child Think about AI? | Savvy Cyber Kids | [Read More](https://medium.com/p/890d5ed12065) |
-| Mon, 04 Aug 2025 00:12:28 GMT | Title: What the World Wants to Know: The Most Searched Questions About Marcel Ray Duriez | Marcel Ray Duriez | [Read More](https://medium.com/p/2aed7171dfdc) |
