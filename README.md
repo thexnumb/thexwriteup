@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 21:16:27 GMT | Security Vulnerability Assessment Report: educrate.space | Pulkit Rai | [Read More](https://medium.com/p/f716197d86c2) |
+| Mon, 04 Aug 2025 21:11:03 GMT | The Future of Artificial Intelligence: What the Next 5 Years Might Bring | Rehman Rehman | [Read More](https://medium.com/p/50c3e3519b2f) |
+| Mon, 04 Aug 2025 21:02:48 GMT | Blog 5: Mastering Port Discovery—Scanning Open Services with Nmap with Wireshark Analysis. | Ar-jay A. Ballaco | [Read More](https://medium.com/p/1df382e43913) |
+| Mon, 04 Aug 2025 20:54:07 GMT | It’s Time to Update Your Threat Model | Robert Stribley | [Read More](https://medium.com/p/894df1c40bcd) |
+| Mon, 04 Aug 2025 20:39:19 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/9c2c21936d25) |
 | Mon, 04 Aug 2025 20:36:39 GMT | MSFvenom vs Donut: AV Detection Face-Off | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1229f5b55d60) |
 | Mon, 04 Aug 2025 20:30:50 GMT | I Found 50+ XSS Flaws Using Just My Browser | Ibtissam hammadi | [Read More](https://medium.com/p/a00caba76c48) |
 | Mon, 04 Aug 2025 20:24:27 GMT | Polymorphic Viruses: The Shape-Shifting Malware Threat You Can’t Ignore | SafeAeon Inc. | [Read More](https://medium.com/p/378245a43474) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 16:21:50 GMT | My Cyber Journey: From Loops to Linux Practice | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/30e5446a72a1) |
 | Mon, 04 Aug 2025 16:21:44 GMT | TryHackMe Writeup✍: Snort | Zohal | [Read More](https://medium.com/p/eacc45c922ea) |
 | Mon, 04 Aug 2025 16:21:32 GMT | “Is This Healthy?”: When Self-Care Becomes Surveillance and Cybersecurity Becomes Medicine | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/5e2175ceb7b9) |
-| Mon, 04 Aug 2025 16:17:20 GMT | EP 03: Domain Keys Identified Mail(DKIM) | H.W.K. Aravinda | [Read More](https://medium.com/p/0d16afcafa94) |
-| Mon, 04 Aug 2025 16:17:00 GMT | The Infrastructure Security Paradox: Breaking SIEM Trade-offs | Graylog | [Read More](https://medium.com/p/63797634a786) |
-| Mon, 04 Aug 2025 16:11:25 GMT | SonarCloud - GitHub repositories security analysis | Piyali Das | [Read More](https://medium.com/p/59f51254e498) |
-| Mon, 04 Aug 2025 16:10:55 GMT | Thuê bảo vệ giữ xe chuyên nghiệp giá rẻ — An toàn tuyệt đối cho tài sản của bạn | DaiAnGroup | [Read More](https://medium.com/p/6140ce187c23) |
-| Mon, 04 Aug 2025 16:08:11 GMT | The Orbital Swarm Is Already Here | Jay Allen | [Read More](https://medium.com/p/90d2ed7d35e8) |
