@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 04:59:04 GMT | RST TI Report Digest: 04 Aug 2025 | RST Cloud | [Read More](https://medium.com/p/0e04cbb28bcf) |
+| Mon, 04 Aug 2025 04:45:47 GMT | Zeek (Bro) Network Analysis: Advanced Tactics | Aj | [Read More](https://medium.com/p/dcbf160b5743) |
+| Mon, 04 Aug 2025 04:43:41 GMT | How to Start Hacking with Kali Linux | Shahzaib | [Read More](https://medium.com/p/2574a050d928) |
+| Mon, 04 Aug 2025 04:43:26 GMT | How to Install KeyCloak IAM in Rocky Linux 9.6 | Ed Roof Maker | [Read More](https://medium.com/p/34bae6b657fa) |
+| Mon, 04 Aug 2025 04:43:01 GMT | Check, Check… Is This Thing On? | Sex & the Single Girl | [Read More](https://medium.com/p/4de725fe0f3a) |
+| Mon, 04 Aug 2025 04:42:55 GMT | What is Email Spoofing? | Bhuvana Medicherla | [Read More](https://medium.com/p/96e3879ffd62) |
+| Mon, 04 Aug 2025 04:41:37 GMT | ANDROID PENTESTING — PART 2 — STATIC ANALYSIS | PARADOX | [Read More](https://medium.com/p/307844a36b50) |
+| Mon, 04 Aug 2025 04:41:24 GMT | How to Find and Exploit Information Disclosure Vulnerabilities Like a Pro | Monika sharma | [Read More](https://medium.com/p/a9386ef01000) |
+| Mon, 04 Aug 2025 04:41:18 GMT | The Human Hack: How Social Engineering Tricks You — And How to Stay Safe | Geeky Vartika | [Read More](https://medium.com/p/862d4e0205e9) |
+| Mon, 04 Aug 2025 04:36:48 GMT | Why degrees and certifications don’t matter anymore! | Arman Reza | [Read More](https://medium.com/p/3054e0737ddf) |
+| Mon, 04 Aug 2025 04:33:22 GMT | Day 21- Windows Command prompt for beginners | unica 02 | [Read More](https://medium.com/p/51957f4c6e08) |
+| Mon, 04 Aug 2025 04:28:31 GMT | The Sea , A Quiet Lesson in Love | sasha | [Read More](https://medium.com/p/43ca6577c80b) |
+| Mon, 04 Aug 2025 04:25:14 GMT | How to File a Lawsuit After Financial Identity Theft | Tycoonstories | [Read More](https://medium.com/p/57c6112fe88b) |
+| Mon, 04 Aug 2025 04:14:18 GMT | TECHNICAL BLOGGING IN CYBER SECURITY | Mizhabsadik | [Read More](https://medium.com/p/6ce45842abac) |
+| Mon, 04 Aug 2025 04:11:25 GMT | Why Proactive Threat Hunting Matters | Muhammed Nihal TS | [Read More](https://medium.com/p/d1f19553a2e9) |
+| Mon, 04 Aug 2025 04:09:10 GMT | How AI Impacts Your World Today: A 2025 Perspective? | Lily Adams | [Read More](https://medium.com/p/7997d87413a4) |
+| Mon, 04 Aug 2025 04:08:34 GMT | Hardening Your Kubernetes Fortress, Part 1: Auditing with kube-bench | Harsh Kahate | [Read More](https://medium.com/p/a5ef28467ed6) |
 | Mon, 04 Aug 2025 04:04:29 GMT | why proactive threat hunting matters | Shirazmuhammed | [Read More](https://medium.com/p/d331ba0e1991) |
 | Mon, 04 Aug 2025 03:59:11 GMT | Technical Blogging on Cybersecurity | Adil K N | [Read More](https://medium.com/p/469a9c69580c) |
 | Mon, 04 Aug 2025 03:56:09 GMT | Blurry HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/e6490e2f7ca1) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 19:59:08 GMT | The secret of doing well | Sami Toor | [Read More](https://medium.com/p/45feee28f362) |
 | Sun, 03 Aug 2025 19:56:48 GMT | Part 8: Runtime Code Injection in Flutter — How Frida Hooks Can Modify Your App on the Fly | Sumit Kumar | [Read More](https://medium.com/p/1275055b81d8) |
 | Sun, 03 Aug 2025 19:54:25 GMT | Part 7: Deep Link Hijacking in Flutter — How Malicious Apps Can Launch Yours in Dangerous States | Sumit Kumar | [Read More](https://medium.com/p/7d12a60e4ebf) |
-| Sun, 03 Aug 2025 19:53:33 GMT | Part 6: Firebase Misconfigurations in Flutter — How Open Rules Can Expose All Your App’s Data | Sumit Kumar | [Read More](https://medium.com/p/a36110884437) |
-| Sun, 03 Aug 2025 19:52:11 GMT | Part 5: JavaScript Injection in Flutter WebViews — How Untrusted Web Content Can Exploit Your… | Sumit Kumar | [Read More](https://medium.com/p/b5063f42ba24) |
-| Sun, 03 Aug 2025 19:51:07 GMT | Part 4: Token Theft via SharedPreferences — How JWTs Leak from Flutter Apps | Sumit Kumar | [Read More](https://medium.com/p/7e7dec6271d3) |
-| Sun, 03 Aug 2025 19:49:56 GMT | Part 3: Debug Mode Abuse in Flutter — How Dev Builds Can Open the Door to Attackers | Sumit Kumar | [Read More](https://medium.com/p/37a48a85b5e2) |
-| Sun, 03 Aug 2025 19:48:28 GMT | Part 2: Biometric Authentication Bypass in Flutter — How Frida Can Fool Your Fingerprint Checks | Sumit Kumar | [Read More](https://medium.com/p/c26d99a96fc7) |
-| Sun, 03 Aug 2025 19:47:20 GMT | Part 1: Offline Login Bypass in Flutter — How SharedPreferences Can Let Attackers Skip… | Sumit Kumar | [Read More](https://medium.com/p/0e1cd25e1c04) |
-| Sun, 03 Aug 2025 19:44:58 GMT | Flutter App Hacking & Security Risks — A Full-Spectrum Guide (Intro to the Series) | Sumit Kumar | [Read More](https://medium.com/p/66f9a62012ed) |
-| Sun, 03 Aug 2025 19:39:48 GMT | Getting Started with the Basics: Navigating Linux Like a Hacker | Michael Hampton | [Read More](https://medium.com/p/d6b8fbe63222) |
-| Sun, 03 Aug 2025 19:37:51 GMT | Narcoterrorism, Hybrid Warfare & the Global Threat Matrix | SIMKRA | [Read More](https://medium.com/p/0e0f9dc754f9) |
-| Sun, 03 Aug 2025 19:37:31 GMT | The New Battleground of Global Politics | Your's Nightmare | [Read More](https://medium.com/p/6153ddf8c04f) |
-| Sun, 03 Aug 2025 19:25:41 GMT | One week ago, I finally started learning cybersecurity — after years of avoiding it. | KISHOR SUTRADHAR | [Read More](https://medium.com/p/1dce5779442a) |
-| Sun, 03 Aug 2025 19:21:38 GMT | Maggots in the Bin? Here’s How Toms River Families Are Beating the Summer Trash Crisis | Jessica Ray | [Read More](https://medium.com/p/c1c56a0394ab) |
-| Sun, 03 Aug 2025 19:06:55 GMT | Imperfect Consistency: What 30 Days on TryHackMe Taught Me | Cybersecure | [Read More](https://medium.com/p/63b93982166f) |
-| Sun, 03 Aug 2025 19:06:38 GMT | Cybercrime Ka Dark Bazaar: Aapka Data Kitne Me Bikta Hai? | Munazzaeng | [Read More](https://medium.com/p/7258bc1d2113) |
-| Sun, 03 Aug 2025 18:52:29 GMT | FindCheapVPNs.com — The Best Site to Compare Cheap VPNs Fast | Ech the Tech Fox | [Read More](https://medium.com/p/b35402be1d55) |
-| Sun, 03 Aug 2025 18:48:38 GMT | Will AI Steal Cybersecurity Jobs — Or Create Them? | Rue | [Read More](https://medium.com/p/b98101a85020) |
-| Sun, 03 Aug 2025 18:45:06 GMT | The Culture Shift of GenAI: Generating an Artificially Intelligent World | Ashley Drey | [Read More](https://medium.com/p/0b185f5ab44f) |
