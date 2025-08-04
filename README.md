@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 04:04:29 GMT | why proactive threat hunting matters | Shirazmuhammed | [Read More](https://medium.com/p/d331ba0e1991) |
+| Mon, 04 Aug 2025 03:59:11 GMT | Technical Blogging on Cybersecurity | Adil K N | [Read More](https://medium.com/p/469a9c69580c) |
+| Mon, 04 Aug 2025 03:56:09 GMT | Blurry HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/e6490e2f7ca1) |
+| Mon, 04 Aug 2025 03:53:18 GMT | Cyber Warfare in 2025: Executive Report | CCD-IS | [Read More](https://medium.com/p/d06cf65588de) |
+| Mon, 04 Aug 2025 03:52:18 GMT | LazyOwn: CRIMEN — The Red Team Framework That Thinks It’s James Bond (But Is Actually Grisun0) | Lazyown Redteam | [Read More](https://medium.com/p/7f83eb2bf84f) |
+| Mon, 04 Aug 2025 03:51:15 GMT | Your AI Assistant’s Secret Weakness: Unquestioning Obedience | Victor Yan | [Read More](https://medium.com/p/e78206ad9899) |
+| Mon, 04 Aug 2025 03:47:28 GMT | Securing GitHub Actions with AWS OIDC: A Complete Guide to Passwordless Authentication | Kiran Anil | [Read More](https://medium.com/p/90d5293a18e8) |
+| Mon, 04 Aug 2025 03:38:46 GMT | What Else Can Your Security Camera Do That You Never Thought Of? | Sareena | [Read More](https://medium.com/p/46df2756a89d) |
+| Mon, 04 Aug 2025 03:38:39 GMT | Reflected XSS with Some SVG Markup Allowed | Bash Overflow | [Read More](https://medium.com/p/65e24224d819) |
+| Mon, 04 Aug 2025 03:35:50 GMT | Product Management: The Essential Competency Framework | Pratyush Mittal | [Read More](https://medium.com/p/49b1d211a7c8) |
+| Mon, 04 Aug 2025 03:31:41 GMT | When Hospitals Get Hacked: Inside the Twin Data Breaches That Hit Ascension Healthcare | Deven Chhajed | [Read More](https://medium.com/p/4f68de28806e) |
+| Mon, 04 Aug 2025 03:17:29 GMT | Step into Cybersecurity Leadership with CISM! | Cybernous Infosec consulting | [Read More](https://medium.com/p/2994cac2456e) |
+| Mon, 04 Aug 2025 03:10:40 GMT | Cyber Security Training: Safe Careers in a Digital Age | Manraj | [Read More](https://medium.com/p/2d80186fa913) |
+| Mon, 04 Aug 2025 03:05:58 GMT | Catatan Belajar: Understanding Rules of Engagement (RoE) in Penetration Testing | Kiara Humaira | [Read More](https://medium.com/p/fbb14fbd30f1) |
+| Mon, 04 Aug 2025 02:56:39 GMT | Ninety Laptops, Millions of Dollars — The Chapman Scam | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/475886d927a7) |
+| Mon, 04 Aug 2025 02:48:19 GMT | IAM 101: Identity and Access Management for Security Professionals | Mudassir Syed | [Read More](https://medium.com/p/8f32c222e70c) |
+| Mon, 04 Aug 2025 02:46:09 GMT | “Is This a Honeypot or a Czech Literature Fan’s Forgotten Server?” — The Bizarre Case of odaha.com | Mr_Abdellah | [Read More](https://medium.com/p/ff4c72b7915c) |
+| Mon, 04 Aug 2025 02:44:19 GMT | Why Secure, Privacy‑Preserving AI Matters | Naman Jain | [Read More](https://medium.com/p/66f6058faa97) |
+| Mon, 04 Aug 2025 02:32:16 GMT | AGI: The Last Invention Humanity Will Ever Need? | Biplab_Dev | [Read More](https://medium.com/p/8f5ff350d739) |
+| Mon, 04 Aug 2025 02:30:26 GMT | Backend Bottlenecks You Didn’t Know You Had | Rizqi Mulki | [Read More](https://medium.com/p/2d3a6ad57341) |
+| Mon, 04 Aug 2025 02:20:16 GMT | From Monolith to Microservices Without Breaking Performance | Rizqi Mulki | [Read More](https://medium.com/p/e8eb6b8c778a) |
+| Mon, 04 Aug 2025 02:17:48 GMT | The Public Exposure Of Your AI Conversations: Some Facts | Sorab Ghaswalla | [Read More](https://medium.com/p/03ca20c1ba53) |
+| Mon, 04 Aug 2025 02:14:41 GMT | The Backend Scaling Strategy No One Told You About | Rizqi Mulki | [Read More](https://medium.com/p/494f0bfc73b3) |
 | Mon, 04 Aug 2025 01:47:49 GMT | Not All Payment Systems Are Built to Protect You | rebootingdaily | [Read More](https://medium.com/p/4f5b6578dfb4) |
 | Mon, 04 Aug 2025 01:44:29 GMT | $47 Million Real Estate Scam Leaves Houston Investors Reeling: What Went Wrong and How to Stay Safe | "Tracey, the Safety Lady" Hawkins | [Read More](https://medium.com/p/0eac8a8337f8) |
 | Mon, 04 Aug 2025 01:09:07 GMT | EN- We Shared the Responsibility, Not the Bill: The Snowflake Breach | ahmetw.eth | [Read More](https://medium.com/p/7e4060b5d3ce) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 18:52:29 GMT | FindCheapVPNs.com — The Best Site to Compare Cheap VPNs Fast | Ech the Tech Fox | [Read More](https://medium.com/p/b35402be1d55) |
 | Sun, 03 Aug 2025 18:48:38 GMT | Will AI Steal Cybersecurity Jobs — Or Create Them? | Rue | [Read More](https://medium.com/p/b98101a85020) |
 | Sun, 03 Aug 2025 18:45:06 GMT | The Culture Shift of GenAI: Generating an Artificially Intelligent World | Ashley Drey | [Read More](https://medium.com/p/0b185f5ab44f) |
-| Sun, 03 Aug 2025 18:41:20 GMT | Controlled DoS Attack Sim: Ethical Security Research Guide | @umesh | [Read More](https://medium.com/p/521fde58c1a5) |
-| Sun, 03 Aug 2025 18:24:37 GMT | Why Traditional IAM Tools Can’t Handle Autonomous AI | Anandita Dubey | [Read More](https://medium.com/p/04565f1f6996) |
-| Sun, 03 Aug 2025 18:18:07 GMT | Leaked Photos Suggest Apple Is Finally Prepping Faster Charging for the iPhone 17 Lineup | Cameron Eittreim | [Read More](https://medium.com/p/b3d3dece6beb) |
-| Sun, 03 Aug 2025 18:16:19 GMT | “I was never a Pool” | Ana S | [Read More](https://medium.com/p/de2c3408d778) |
-| Sun, 03 Aug 2025 18:06:35 GMT | AI-Powered Phishing Is Here !!!!(And You’ll Never Spot It) | Rue | [Read More](https://medium.com/p/31081282f558) |
-| Sun, 03 Aug 2025 17:59:48 GMT | # I Found a Subdomain Takeover on Jio — But Got No Credit | divyanshu | [Read More](https://medium.com/p/c46222f8bf0a) |
-| Sun, 03 Aug 2025 17:56:19 GMT | Why Cyber Hygiene Matters: Small Habits, Big Protection | Tarush Sharma | [Read More](https://medium.com/p/fd73daad0625) |
-| Sun, 03 Aug 2025 17:54:33 GMT | The Future of AI Security: Why Autonomous Agents Need a New Kind of Governance | Anandita Dubey | [Read More](https://medium.com/p/d19400e8f161) |
-| Sun, 03 Aug 2025 17:47:03 GMT | Ever Wondered What Happens When You Click “Send”? | Anik Sikder | [Read More](https://medium.com/p/e5eb1b9ffcbd) |
-| Sun, 03 Aug 2025 17:37:41 GMT | Aktif Dizin Taraması İçin İlk Adım | Zehra | [Read More](https://medium.com/p/df76dcdc3b85) |
-| Sun, 03 Aug 2025 17:36:50 GMT | ️ Deploying AD on Server 2022 with GPO Enforcement of Password and Lockout Policies | Yasiin Mahamed IT | [Read More](https://medium.com/p/04408075df3f) |
-| Sun, 03 Aug 2025 17:36:41 GMT | How I Found 3 Security Bugs as a Beginner — My Real Bug Bounty Kickstart! | Priyaagitaa | [Read More](https://medium.com/p/16332b8a62a8) |
-| Sun, 03 Aug 2025 17:33:08 GMT | From LFI to RCE via /var/log/vsftpd.log | Zoningxtr | [Read More](https://medium.com/p/32a9b6ecf3ea) |
-| Sun, 03 Aug 2025 17:22:52 GMT | Quarterly Red-Team Exercises and Policy Updates | Giampaolocappellotto | [Read More](https://medium.com/p/2ed4b9cbdcaa) |
-| Sun, 03 Aug 2025 17:18:00 GMT | Advanced Cybersecurity Strategies for 2025 | Giampaolocappellotto | [Read More](https://medium.com/p/d2f548bb53b4) |
-| Sun, 03 Aug 2025 17:17:00 GMT | DNS Under Siege: How New Threats and Privacy Tech Are Shaping DNS Security | MonitorDNS | [Read More](https://medium.com/p/a78fcc690e62) |
-| Sun, 03 Aug 2025 17:15:37 GMT | Data-Vulnlab Write-Up | t0x1k | [Read More](https://medium.com/p/79d791a68d5f) |
-| Sun, 03 Aug 2025 17:14:33 GMT | CI/CD with Jenkins: Build Your Pipeline from Scratch | Giampaolocappellotto | [Read More](https://medium.com/p/ea0af5f77e72) |
-| Sun, 03 Aug 2025 17:09:39 GMT | Automating Configuration Management with Ansible | Giampaolocappellotto | [Read More](https://medium.com/p/3b38c615a1bf) |
-| Sun, 03 Aug 2025 17:04:09 GMT | CLOSING CYBERSECURITY LITERACY GAPS THROUGH DIGITAL UBUNTU | Folaranmi Umoru | [Read More](https://medium.com/p/22695c8f9dd6) |
-| Sun, 03 Aug 2025 17:03:48 GMT | JWTs & CSRF Tokens | Buddika Gunawardena | [Read More](https://medium.com/p/465e5d4f91cf) |
-| Sun, 03 Aug 2025 17:03:03 GMT | Infrastructure Monitoring with Prometheus and Grafana | Giampaolocappellotto | [Read More](https://medium.com/p/5cdebac90528) |
-| Sun, 03 Aug 2025 16:58:46 GMT | Burp Suite x AI: The Mutation Engine That Thinks, Chains, and Exploits Like a Human | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bf250df0ba0c) |
