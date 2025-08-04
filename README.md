@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 11:15:08 GMT | What Are The Top 5 Middleware Software | Cannyfore Technology Solutions Pvt Ltd | [Read More](https://medium.com/p/ed03cc0e6874) |
+| Mon, 04 Aug 2025 11:13:54 GMT | Modern ReactJS Security Guide: Updated Best Practices for 2025 (with Code Examples) | Elif Karadağ | [Read More](https://medium.com/p/31f1a9faca08) |
+| Mon, 04 Aug 2025 11:13:03 GMT | Nursing, IT, or Trade? Best PR Courses in Sydney Based on Job Demand in 2025 | GroWsmart Education & Migration | [Read More](https://medium.com/p/669b3a95699a) |
+| Mon, 04 Aug 2025 11:04:17 GMT | Allite Patrol and Security Services Inc | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/3e39c0343d35) |
+| Mon, 04 Aug 2025 11:02:30 GMT | How Social Media Algorithms Manipulate What You See — and Who Controls Them? | Olatunde Aboaba | [Read More](https://medium.com/p/44cbee3de260) |
+| Mon, 04 Aug 2025 10:53:14 GMT | Freshers Guide to Building a Career in Digital Security in Navi Mumbai | Dkvilas | [Read More](https://medium.com/p/fcf9b5d329a0) |
+| Mon, 04 Aug 2025 10:53:10 GMT | The Flash Drive Trap: Why USBs Still Pose a Massive Security Threat | Samuel Frank | [Read More](https://medium.com/p/14ba92bc1f91) |
+| Mon, 04 Aug 2025 10:51:58 GMT | How Regular Fire System Maintenance Reduces the Risk of Fire Accidents | Abhilashtec | [Read More](https://medium.com/p/4e018d6bb5cf) |
+| Mon, 04 Aug 2025 10:50:46 GMT | Langkah Mudah Install Kali Linux di Virtual Machine | Anya Forger | [Read More](https://medium.com/p/88b5d297b3e1) |
 | Mon, 04 Aug 2025 10:39:27 GMT | Cryptographic Verification for ML Models with HashTraceAI | VSec | [Read More](https://medium.com/p/ecf1ededa58b) |
 | Mon, 04 Aug 2025 10:38:59 GMT | Solidity Audit :- Unbounded Gas consumption | JEETPAL | [Read More](https://medium.com/p/f271b65be3f3) |
 | Mon, 04 Aug 2025 10:37:06 GMT | What Makes a Company That Offers Armed Guards Security Services in CA Special? | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/ef79a5b4faff) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 06:27:24 GMT | Security in the Age of AI: Building Fast, Building SafeLaying the Foundation for AI-Ready… | Babar saad | [Read More](https://medium.com/p/88fd53e46f45) |
 | Mon, 04 Aug 2025 06:25:59 GMT | Cyber Security Highlights — July | Rue | [Read More](https://medium.com/p/981c8cbf7716) |
 | Mon, 04 Aug 2025 06:24:14 GMT | Part 10 : Mastering Network Management and Troubleshooting: A Comprehensive Guide | White Panther | [Read More](https://medium.com/p/ae2e0cdcf945) |
-| Mon, 04 Aug 2025 06:20:49 GMT | ️ Web3 Security Weekly — July 28 — Aug 3, 2025 | Null Return | [Read More](https://medium.com/p/eb91fb9dd3fe) |
-| Mon, 04 Aug 2025 06:19:21 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/c3e38243aa53) |
-| Mon, 04 Aug 2025 06:12:47 GMT | TryHackMe — Blue Room Walkthrough (Difficulty: Easy) | Ruposhree B. | [Read More](https://medium.com/p/9b0ebe14e1d6) |
-| Mon, 04 Aug 2025 06:10:18 GMT | Farkımız Ne? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/70f8abdf231c) |
-| Mon, 04 Aug 2025 06:09:24 GMT | Understanding IDOR (Insecure Direct Object Reference) — With a Real-Life Style Example | Kai Thorne | [Read More](https://medium.com/p/ad03c20c99b6) |
-| Mon, 04 Aug 2025 06:06:13 GMT | VMvare Üzerinde Windows Server Kurulumu | Ömer POLAT | [Read More](https://medium.com/p/fc55041e571f) |
-| Mon, 04 Aug 2025 06:01:43 GMT | From SQLi to Java RCE: Exploiting H2 with Multipart Payloads (HTB Challenge Walkthrough) | Ahmadhossam | [Read More](https://medium.com/p/aa26cecd057d) |
-| Mon, 04 Aug 2025 05:59:48 GMT | Helping businesses become more efficient with reliable solutions for IT in Riyadh as well Across… | Tekshoyabeelyas | [Read More](https://medium.com/p/74a45d89a501) |
-| Mon, 04 Aug 2025 05:57:11 GMT | DAY 1 Recon: Manual Reconnaissance: How I Explore Targets Like a Hacker (But With Good Intentions) | Ayush Kumar | [Read More](https://medium.com/p/04b61864d1ea) |
