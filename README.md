@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 07:25:43 GMT | Why Most North American Small Businesses Are Invisible on Google — and How to Fix It Fast | WeFive | [Read More](https://medium.com/p/a86ab9eafa32) |
+| Mon, 04 Aug 2025 07:19:05 GMT | Why Gen Z Is Meming World War III, And What It Reveals About AI, Cybersecurity, and Digital Power | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/407683724d0d) |
+| Mon, 04 Aug 2025 07:17:00 GMT | Chain Up Bugs — Web Application | Sakib Haque Zisan | [Read More](https://medium.com/p/8a0b1d148e5b) |
+| Mon, 04 Aug 2025 07:14:35 GMT | SafeLine vs. Barracuda WAF: Which One Fits Your Security Needs? | AerieWhole123 | [Read More](https://medium.com/p/efa25416340b) |
+| Mon, 04 Aug 2025 07:12:04 GMT | DNS Cache Poisoning — Is It Still Relevant? | Netlas.io | [Read More](https://medium.com/p/93c4369938b4) |
+| Mon, 04 Aug 2025 07:11:37 GMT | CoCSRF with broken Referer validation — PortSwigger Walkthrough | Amr Elharery | [Read More](https://medium.com/p/8d896b716be8) |
+| Mon, 04 Aug 2025 07:10:04 GMT | The Kind of Hug That Could Save Me | Khushi Singh࿐ | [Read More](https://medium.com/p/329fd64b7080) |
+| Mon, 04 Aug 2025 07:02:40 GMT | ARP Spoofing — The Computer Networking Behind It and a Mitigation Strategy | Martin Yordanov | [Read More](https://medium.com/p/87abce337a36) |
+| Mon, 04 Aug 2025 07:00:49 GMT | Traffic to Blacklisted IP | ahmed abdulaziz | [Read More](https://medium.com/p/00e7a138037b) |
+| Mon, 04 Aug 2025 06:59:26 GMT | Troubleshooting MTP | lukewago | [Read More](https://medium.com/p/f3fe4fde2fe4) |
+| Mon, 04 Aug 2025 06:59:24 GMT | Burp Suite + MITM + VPN = Full Traffic Hijack for Analysis | Paritosh | [Read More](https://medium.com/p/25c7a2390e16) |
+| Mon, 04 Aug 2025 06:58:29 GMT | Quantum-as-a-Service Is Here — And Your Current Cloud Security Won’t Survive It | CloudweldOps | [Read More](https://medium.com/p/111e34ee141b) |
 | Mon, 04 Aug 2025 06:49:40 GMT | 5 Full Stack Development Companies Redefining Digital Transformation | Johnbutcher | [Read More](https://medium.com/p/fad31c1c4445) |
+| Mon, 04 Aug 2025 06:48:54 GMT | The Poisoned Pipeline: Exploiting CI/CD Secrets Without Accessing the Code | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f6a1aa32b67f) |
 | Mon, 04 Aug 2025 06:46:01 GMT | Bypass Like a Boss: Burp Suite Tricks to Defeat WAFs & Filters | Paritosh | [Read More](https://medium.com/p/a131c966663b) |
 | Mon, 04 Aug 2025 06:40:57 GMT | Hack The Box: Active Walkthrough | packetsniper | [Read More](https://medium.com/p/737305c29d27) |
 | Mon, 04 Aug 2025 06:39:55 GMT | Why Data Sourcing Is the Core Challenge Across Industries ? | Raonejalagandeswaran | [Read More](https://medium.com/p/8c3e0def5a16) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 00:13:07 GMT | Streaming and Mainstream Popularity | Savvy Cyber Kids | [Read More](https://medium.com/p/51d038f7085e) |
 | Mon, 04 Aug 2025 00:12:50 GMT | What Does Your Child Think about AI? | Savvy Cyber Kids | [Read More](https://medium.com/p/890d5ed12065) |
 | Mon, 04 Aug 2025 00:12:28 GMT | Title: What the World Wants to Know: The Most Searched Questions About Marcel Ray Duriez | Marcel Ray Duriez | [Read More](https://medium.com/p/2aed7171dfdc) |
-| Sun, 03 Aug 2025 23:34:02 GMT | Ai having an existential crisis rendered useless | Alex (KishinInfosec) | [Read More](https://medium.com/p/2fadee2fff8e) |
-| Sun, 03 Aug 2025 23:24:19 GMT | Um só | Aryane Shelldury | [Read More](https://medium.com/p/ab90b298f126) |
-| Sun, 03 Aug 2025 23:18:08 GMT | Uncovering SQL Injection | 0X0mahmoud | [Read More](https://medium.com/p/db784a309b48) |
-| Sun, 03 Aug 2025 23:10:16 GMT | Top 10 Cybersecurity Skills Every IT Enthusiast Should Master in 2025 | James William Steven Parker | [Read More](https://medium.com/p/e6830c67d77a) |
-| Sun, 03 Aug 2025 23:09:29 GMT | Palo Alto Unit 42’s Attribution Framework | SOCFortress | [Read More](https://medium.com/p/3aa83deaec8b) |
-| Sun, 03 Aug 2025 23:06:16 GMT | ️ Reverse Shell Shellcode Execution in Go — Educational Example | Lazyown Redteam | [Read More](https://medium.com/p/906c11e39182) |
-| Sun, 03 Aug 2025 23:03:10 GMT | How to Learn Ethical Hacking for Free: Your Ultimate Beginner’s Guide | James William Steven Parker | [Read More](https://medium.com/p/7e998634bd35) |
-| Sun, 03 Aug 2025 22:58:02 GMT | SQLi Guide: DB Exploitation Techniques | Che Chalk • Cybersecurity Writer | [Read More](https://medium.com/p/efee21ba2dde) |
-| Sun, 03 Aug 2025 22:55:08 GMT | VoIP’s Dirty Little Secret: The Flaw That Let Me Impersonate a CEO | Mrx0rd | [Read More](https://medium.com/p/5f5f59b1b0e2) |
-| Sun, 03 Aug 2025 22:54:47 GMT | TryHackMe Pre Security 101 — Packets & Frames | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/7261626d651e) |
-| Sun, 03 Aug 2025 22:54:07 GMT | TryHackMe Pre Security 101 — OSI Model | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/f68dac02ddcf) |
-| Sun, 03 Aug 2025 22:53:23 GMT | TryHackMe Pre Security 101 — Intro to LAN | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/4fc621b23133) |
-| Sun, 03 Aug 2025 22:31:01 GMT | MOUNTAINEER WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/fd75b5e8eb38) |
