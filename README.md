@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 11:40:30 GMT | MetaSpace Bug Bounty — Secure the Galaxy ️ | METASPACE | [Read More](https://medium.com/p/af5b77ce02a3) |
+| Mon, 04 Aug 2025 11:34:42 GMT | From Reactive Audits to Autonomous Assurance | Above The Firewall | [Read More](https://medium.com/p/b56ed3bb794f) |
+| Mon, 04 Aug 2025 11:32:38 GMT | Day 60: Develop Your GRC Roadmap and Portfolio | Brittney Ginther | [Read More](https://medium.com/p/b157187e0747) |
+| Mon, 04 Aug 2025 11:29:28 GMT | (Access Control) Lab: User role controlled by request parameter - 2025 | Ananda | [Read More](https://medium.com/p/94f8cd63b14a) |
+| Mon, 04 Aug 2025 11:27:44 GMT | Empowering Businesses with Custom Software Development — Concentics Pvt. | Concentics Private Limited | [Read More](https://medium.com/p/08172648c268) |
+| Mon, 04 Aug 2025 11:25:07 GMT | ️‍♂️ How I Bypassed the “Admin” Name Filter on example.target.com with a Unicode Homoglyph | Aman Bhuiyan | [Read More](https://medium.com/p/ef653a59da5b) |
+| Mon, 04 Aug 2025 11:19:49 GMT | How to Choose the Best Cybersecurity Graduate Program for Your Goals | Tanisha Singh | [Read More](https://medium.com/p/59469d06eb6d) |
 | Mon, 04 Aug 2025 11:15:08 GMT | What Are The Top 5 Middleware Software | Cannyfore Technology Solutions Pvt Ltd | [Read More](https://medium.com/p/ed03cc0e6874) |
+| Mon, 04 Aug 2025 11:14:46 GMT | 09164131429 | شماره خاله #شماره خاله #خاله شیراز #خاله اصفهان | [Read More](https://medium.com/p/9f07fad1ac3e) |
 | Mon, 04 Aug 2025 11:13:54 GMT | Modern ReactJS Security Guide: Updated Best Practices for 2025 (with Code Examples) | Elif Karadağ | [Read More](https://medium.com/p/31f1a9faca08) |
 | Mon, 04 Aug 2025 11:13:03 GMT | Nursing, IT, or Trade? Best PR Courses in Sydney Based on Job Demand in 2025 | GroWsmart Education & Migration | [Read More](https://medium.com/p/669b3a95699a) |
 | Mon, 04 Aug 2025 11:04:17 GMT | Allite Patrol and Security Services Inc | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/3e39c0343d35) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 06:49:40 GMT | 5 Full Stack Development Companies Redefining Digital Transformation | Johnbutcher | [Read More](https://medium.com/p/fad31c1c4445) |
 | Mon, 04 Aug 2025 06:48:54 GMT | The Poisoned Pipeline: Exploiting CI/CD Secrets Without Accessing the Code | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f6a1aa32b67f) |
 | Mon, 04 Aug 2025 06:46:01 GMT | Bypass Like a Boss: Burp Suite Tricks to Defeat WAFs & Filters | Paritosh | [Read More](https://medium.com/p/a131c966663b) |
-| Mon, 04 Aug 2025 06:40:57 GMT | Hack The Box: Active Walkthrough | packetsniper | [Read More](https://medium.com/p/737305c29d27) |
-| Mon, 04 Aug 2025 06:39:55 GMT | Why Data Sourcing Is the Core Challenge Across Industries ? | Raonejalagandeswaran | [Read More](https://medium.com/p/8c3e0def5a16) |
-| Mon, 04 Aug 2025 06:39:28 GMT | Compliance Automation Strategies to Future-Proof Your Enterprise | Sophia Nellon | [Read More](https://medium.com/p/600002cde1b1) |
-| Mon, 04 Aug 2025 06:35:50 GMT | Facing the Camera: Learning to Be Seen | memory$gospel | [Read More](https://medium.com/p/1c92bec47016) |
-| Mon, 04 Aug 2025 06:35:29 GMT | IT vs. AI: A Transforming Landscape and the Future of Work | Bikash Peeripaul | [Read More](https://medium.com/p/bec8e52d8c5b) |
-| Mon, 04 Aug 2025 06:27:24 GMT | Security in the Age of AI: Building Fast, Building SafeLaying the Foundation for AI-Ready… | Babar saad | [Read More](https://medium.com/p/88fd53e46f45) |
-| Mon, 04 Aug 2025 06:25:59 GMT | Cyber Security Highlights — July | Rue | [Read More](https://medium.com/p/981c8cbf7716) |
-| Mon, 04 Aug 2025 06:24:14 GMT | Part 10 : Mastering Network Management and Troubleshooting: A Comprehensive Guide | White Panther | [Read More](https://medium.com/p/ae2e0cdcf945) |
