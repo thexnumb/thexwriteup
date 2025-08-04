@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 13:36:43 GMT | CurXecute Vulnerability in Cursor IDE: A Wake-Up Call for Developer Security | Chetan Seripally | [Read More](https://medium.com/p/25b607ba960e) |
+| Mon, 04 Aug 2025 13:36:07 GMT | Today I think I saw the best video ever made about how hosting works from an cyber security side | 0trust0day | [Read More](https://medium.com/p/82001ef2ac87) |
+| Mon, 04 Aug 2025 13:33:56 GMT | From Automated Tools to Manual Mastery | Andrei Ivan | [Read More](https://medium.com/p/71f12ad80115) |
+| Mon, 04 Aug 2025 13:32:14 GMT | Gizlenen Kodların Anatomisi: Obfuscation ile Savaş | Hacercaliskan | [Read More](https://medium.com/p/82d0f8b3aca7) |
+| Mon, 04 Aug 2025 13:31:41 GMT | Actually, Go Ahead and Run Your MCP Tools via npx/uvx | Bob Dickinson | [Read More](https://medium.com/p/2b3ae49c59a5) |
+| Mon, 04 Aug 2025 13:31:41 GMT | Mozilla Warns of Phishing Attacks Targeting Add-On Developers | Dhruvdeep Singh | [Read More](https://medium.com/p/742c9e07b262) |
+| Mon, 04 Aug 2025 13:30:09 GMT | Exploiting Server-Side Template Injection (SSTI) to Gain Remote Code Execution | Gh0st Cipher | [Read More](https://medium.com/p/86fa381a99e4) |
+| Mon, 04 Aug 2025 13:25:48 GMT | Over the past few weeks, I’ve immersed myself in the fundamentals of cybersecurity by starting with… | Sharmayashu | [Read More](https://medium.com/p/556d7b200e69) |
+| Mon, 04 Aug 2025 13:24:11 GMT | So a Fish Means Phishing? Cybersecurity Lessons from Pictionary | Gitika Babbar | [Read More](https://medium.com/p/41140c6a467f) |
+| Mon, 04 Aug 2025 13:22:01 GMT | To Cert or Not to Cert? | Danny | [Read More](https://medium.com/p/6340b9d7ebfe) |
+| Mon, 04 Aug 2025 13:20:42 GMT | PortSwigger Lab Walkthrough: OS Command Injection (Simple Case) | Siddiquimohammad | [Read More](https://medium.com/p/d20695c18fef) |
+| Mon, 04 Aug 2025 13:17:05 GMT | Top 10 Systems Integration Companies in the UAE (2025) | Andrew jones | [Read More](https://medium.com/p/b4eb429f0c64) |
+| Mon, 04 Aug 2025 13:16:06 GMT | North Korea’s Steganographic Malware: How Hackers Are Using JPEGs to Launch Global Cyberattacks in… | The UNFILTERED Draft | [Read More](https://medium.com/p/1480d4a403bc) |
+| Mon, 04 Aug 2025 13:07:33 GMT | IoT Tools Every Cybersecurity Professional Should Know | Anuj Tomar | [Read More](https://medium.com/p/defedebdfc93) |
+| Mon, 04 Aug 2025 13:01:57 GMT | Mammoth Cyber Announces Integration with Fortinet at Black Hat 2025: Enhancing Enterprise Browser… | Mammoth Cyber | [Read More](https://medium.com/p/72d37567821e) |
+| Mon, 04 Aug 2025 12:58:01 GMT | Securing Your React Application: A Guide to JWT Protected Routes and Token Refresh | Anil Chitte | [Read More](https://medium.com/p/26cc53a6d421) |
+| Mon, 04 Aug 2025 12:52:59 GMT | Zero Trust Architecture: The Future of Cybersecurity in a Hybrid Enterprise World | Lennon Masendu | [Read More](https://medium.com/p/4b3326f7d404) |
+| Mon, 04 Aug 2025 12:51:23 GMT | Literature Review | Covenant O.B. | [Read More](https://medium.com/p/9cc365684b51) |
 | Mon, 04 Aug 2025 12:45:22 GMT | Shodan.io, often dubbed the "search engine for hackers," is a powerful and unique tool that maps… | Yousaffffyyy | [Read More](https://medium.com/p/268fdeeb3fc7) |
 | Mon, 04 Aug 2025 12:43:31 GMT | From PNG to XSS: How I Tricked a Web App Into Executing My Payload | Mohamed Rashith S | [Read More](https://medium.com/p/c66f5a990195) |
 | Mon, 04 Aug 2025 12:40:05 GMT | No One Prepares You for the Silence After a Breakdown | Dhruvdeep Singh | [Read More](https://medium.com/p/d51a9c60f07d) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 09:15:30 GMT | 10 Bug Report Mistakes That Annoy Developers — And How to Avoid Them | Parinita Kapoor | [Read More](https://medium.com/p/30c86271bc27) |
 | Mon, 04 Aug 2025 09:09:46 GMT | Empower Your Business with MetaOye Solutions: Premier IT Services for the Digital Age | MetaOye Solutions | [Read More](https://medium.com/p/bc052b38d531) |
 | Mon, 04 Aug 2025 09:08:23 GMT | How Security Systems Work | Ingramvillaescusa | [Read More](https://medium.com/p/dd7db888479a) |
-| Mon, 04 Aug 2025 09:06:43 GMT | Africa 5.0 — Africa in the Age of the Machine and Digital Civilisation. | Jumanne Rajabu Mtambalike | [Read More](https://medium.com/p/7848009f122e) |
-| Mon, 04 Aug 2025 09:06:28 GMT | How the Tea App Exposed 72,000 IDs and 1.1 Million DMs: A Security Breakdown | Aaron | [Read More](https://medium.com/p/2fa3217f2845) |
-| Mon, 04 Aug 2025 09:06:05 GMT | Cómo organizar tus reportes de Bug Bounty y potenciar tu progreso con IA | Gorka | [Read More](https://medium.com/p/3dbe3a043828) |
-| Mon, 04 Aug 2025 09:05:42 GMT | Managed IT Services vs. In-House IT: Cost-Benefit Analysis for CTOs | Embee Software | [Read More](https://medium.com/p/3d6e04a6f89c) |
-| Mon, 04 Aug 2025 09:03:38 GMT | Microsoft: “Oops, China Hacked Us… And We Used Engineers There.” | Truspex | [Read More](https://medium.com/p/36bf713118b8) |
-| Mon, 04 Aug 2025 09:03:31 GMT | CVE-2024–24915 | Karol Mazurek | [Read More](https://medium.com/p/eb26548d54e4) |
-| Mon, 04 Aug 2025 09:00:48 GMT | Anonymous Write-Up (TryHackMe) | Mustafa Bostan | [Read More](https://medium.com/p/7bd847c333ed) |
-| Mon, 04 Aug 2025 08:58:19 GMT | The Daily Tech Digest: 04 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/dc0cb37cf9cb) |
-| Mon, 04 Aug 2025 08:56:20 GMT | How to Create a Certificate Authority Server via SmallStepCA | Ed Roof Maker | [Read More](https://medium.com/p/786cbb201016) |
-| Mon, 04 Aug 2025 08:55:39 GMT | NetHunter’s Messed Up? Let’s Fix That Terminal, Fast! | SilentInject | [Read More](https://medium.com/p/6d37c8bf36f0) |
-| Mon, 04 Aug 2025 08:49:48 GMT | How Palo Alto Networks Will Integrate CyberArk’s Identity Security into Its AI-Focused Platforms | TechIntelPro | [Read More](https://medium.com/p/d58a88a77ecb) |
-| Mon, 04 Aug 2025 08:32:01 GMT | You’re using GitHub dorks wrong: How to improve your search queries to find in-scope leaks faster | Tillson Galloway | [Read More](https://medium.com/p/165433700b46) |
-| Mon, 04 Aug 2025 08:31:39 GMT | Introduction to Windows API | Mainekdeveloper | [Read More](https://medium.com/p/042676eba6a7) |
-| Mon, 04 Aug 2025 08:29:06 GMT | How Python Developers Help Businesses Build Smarter Solutions | Bhavesh Rajpurohit | [Read More](https://medium.com/p/215881810997) |
-| Mon, 04 Aug 2025 08:25:53 GMT | Tag, Sort, Win — Azure’s Ledger Update | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/e8d2886a6741) |
-| Mon, 04 Aug 2025 08:24:54 GMT | MDM Software: A Beginner’s Quick Guide | Vantage MDM | [Read More](https://medium.com/p/64dd32dff2e6) |
-| Mon, 04 Aug 2025 08:13:02 GMT | Linux Hardening: A Strategic Guide to Securing Your System | Mohamed Gebril | [Read More](https://medium.com/p/ff942308f51e) |
-| Mon, 04 Aug 2025 08:11:22 GMT | SSRF with filter bypass via open redirection vulnerability — PortSwigger Walkthroug | Amr Elharery | [Read More](https://medium.com/p/a5e5c86344fd) |
