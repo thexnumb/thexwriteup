@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 22:06:30 GMT | Privately Send HTTP Requests Between AWS Accounts | Anton Yurchenko | [Read More](https://medium.com/p/99052e5070f2) |
+| Mon, 04 Aug 2025 22:03:49 GMT | Roam Global eSIM Bounty Program | Roam | [Read More](https://medium.com/p/5b2efed8436d) |
+| Mon, 04 Aug 2025 21:54:14 GMT | Building a Secure Multihomed Firewall System with pfSense, DMZ, Suricata (IDS/IPS), and Wazuh… | Berkay Köseoğlu | [Read More](https://medium.com/p/cd58815a050e) |
+| Mon, 04 Aug 2025 21:47:17 GMT | AWS IAM Roles Anywhere | Nathaniel Agbenyenu | [Read More](https://medium.com/p/ab01df441927) |
+| Mon, 04 Aug 2025 21:44:20 GMT | The 2025 GitHub Recon Checklist for Bug Bounty Hunters | Tillson Galloway | [Read More](https://medium.com/p/e626ee1a1012) |
+| Mon, 04 Aug 2025 21:39:20 GMT | Rwanda’s Regional Role: Between Security, Influence, and Emerging Imperial Ambitions | Afrikan Identity | [Read More](https://medium.com/p/bc3f37a16991) |
+| Mon, 04 Aug 2025 21:36:09 GMT | Bypassing Authentication and Triggering XSS via Simple URL Manipulation | Fareed Ahmed | [Read More](https://medium.com/p/a3d56c66b136) |
 | Mon, 04 Aug 2025 21:32:08 GMT | The BTL1 Exam, and Course Survival Guide… Or how I passed with 100%, and got my gold coin, and how… | Seccult | [Read More](https://medium.com/p/b7ce92221db3) |
 | Mon, 04 Aug 2025 21:19:04 GMT | Western Techniques | Norman Meg | [Read More](https://medium.com/p/3d7786395080) |
 | Mon, 04 Aug 2025 21:16:27 GMT | Security Vulnerability Assessment Report: educrate.space | Pulkit Rai | [Read More](https://medium.com/p/f716197d86c2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 16:53:18 GMT | The Layers of Protection: Cyber Security Details Defined | Cyber Security Research | [Read More](https://medium.com/p/d7ad335d87ef) |
 | Mon, 04 Aug 2025 16:51:19 GMT | Cybersecurity Details: A Microscopic Look at Security | Cyber Security Research | [Read More](https://medium.com/p/7e8c7372e1fe) |
 | Mon, 04 Aug 2025 16:49:25 GMT | Evolving Threats, Evolving Defenses: Security Details | Cyber Security Research | [Read More](https://medium.com/p/9df626b4571f) |
-| Mon, 04 Aug 2025 16:40:42 GMT | Application Security Testing | Piyali Das | [Read More](https://medium.com/p/e603c0deef64) |
-| Mon, 04 Aug 2025 16:40:03 GMT | How Hackers Use AI? | Tal Eliyahu | [Read More](https://medium.com/p/07de9e0a7f23) |
-| Mon, 04 Aug 2025 16:39:30 GMT | Starting My Cybersecurity Journey | Xilent-Xoxo | [Read More](https://medium.com/p/eafb3d7ddfdc) |
-| Mon, 04 Aug 2025 16:32:52 GMT | Installing a Custom SSL Certificate on Check Point Management Server (Gaia Portal) | Thapamanish | [Read More](https://medium.com/p/10439afcaf83) |
-| Mon, 04 Aug 2025 16:29:04 GMT | The Chaos of the SIEM Consolidation Proves One Size Doesn’t Fit All | Graylog | [Read More](https://medium.com/p/fbceecf2a781) |
-| Mon, 04 Aug 2025 16:25:41 GMT | The Digital Gumshoe: How AI is Becoming Cybersecurity’s New Best Friend | CapitalCoin | [Read More](https://medium.com/p/487ce1a78071) |
-| Mon, 04 Aug 2025 16:21:50 GMT | My Cyber Journey: From Loops to Linux Practice | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/30e5446a72a1) |
