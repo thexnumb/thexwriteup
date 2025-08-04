@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 10:39:27 GMT | Cryptographic Verification for ML Models with HashTraceAI | VSec | [Read More](https://medium.com/p/ecf1ededa58b) |
+| Mon, 04 Aug 2025 10:38:59 GMT | Solidity Audit :- Unbounded Gas consumption | JEETPAL | [Read More](https://medium.com/p/f271b65be3f3) |
+| Mon, 04 Aug 2025 10:37:06 GMT | What Makes a Company That Offers Armed Guards Security Services in CA Special? | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/ef79a5b4faff) |
+| Mon, 04 Aug 2025 10:33:37 GMT | How AI is Reshaping Search and YouTube Marketing in Southeast Asia | Rahul Sharma | [Read More](https://medium.com/p/1d10ffcd9632) |
+| Mon, 04 Aug 2025 10:33:00 GMT | Linux Komut Satırı Notları: Sistem Yönetimi ve Güvenlik için Pratik Bilgiler | Fatih Kaya | [Read More](https://medium.com/p/7c0452d6d149) |
 | Mon, 04 Aug 2025 10:22:58 GMT | Unveiling Hidden Risks: Monitoring Inactive Guests in Microsoft Entra for Stronger Security | CloudLink | [Read More](https://medium.com/p/8c6b053481b0) |
 | Mon, 04 Aug 2025 10:22:51 GMT | ChatGPT for Penetration Testing (Pt. 2): Real-World Scenarios and Ethical Use | Redfox Security | [Read More](https://medium.com/p/79e3ed40b2aa) |
 | Mon, 04 Aug 2025 10:19:07 GMT |  | Khouloud Ben | [Read More](https://medium.com/p/526ae73dbe34) |
@@ -28,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 10:00:45 GMT | Why Wireless Penetration Testing Is Critical for Business Security | West Advanced Technologies Inc | [Read More](https://medium.com/p/5b27b275df91) |
 | Mon, 04 Aug 2025 10:00:01 GMT | Digital Safeguards: A Compendium of Security Details | Cyber Security Research | [Read More](https://medium.com/p/b5c71be4e794) |
 | Mon, 04 Aug 2025 09:58:38 GMT | Data’s Defense: Exploring Cyber Security Measures | Cyber Security Research | [Read More](https://medium.com/p/644c9760ecd4) |
+| Mon, 04 Aug 2025 09:58:27 GMT | Thuê bảo vệ trực đêm — Giải pháp an toàn cho cá nhân và doanh nghiệp | DaiAnGroup | [Read More](https://medium.com/p/8863deaae026) |
 | Mon, 04 Aug 2025 09:55:57 GMT | The Quiet Power of Being Soft in a Loud World | Varnika Saxena | [Read More](https://medium.com/p/fa6473ed207d) |
 | Mon, 04 Aug 2025 09:49:15 GMT | How to Secure Your Google Maps API Key in Flutter (Android & iOS) | Urvashikharecha | [Read More](https://medium.com/p/bb7f7b96450d) |
 | Mon, 04 Aug 2025 09:48:53 GMT | How AI Hackers Exploit Machine Learning Models — And What We Do to Stop Them | DefenceRabbit | [Read More](https://medium.com/p/7fae506145c4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 06:01:43 GMT | From SQLi to Java RCE: Exploiting H2 with Multipart Payloads (HTB Challenge Walkthrough) | Ahmadhossam | [Read More](https://medium.com/p/aa26cecd057d) |
 | Mon, 04 Aug 2025 05:59:48 GMT | Helping businesses become more efficient with reliable solutions for IT in Riyadh as well Across… | Tekshoyabeelyas | [Read More](https://medium.com/p/74a45d89a501) |
 | Mon, 04 Aug 2025 05:57:11 GMT | DAY 1 Recon: Manual Reconnaissance: How I Explore Targets Like a Hacker (But With Good Intentions) | Ayush Kumar | [Read More](https://medium.com/p/04b61864d1ea) |
-| Mon, 04 Aug 2025 05:56:23 GMT | Google dorking/Hacking | Yeshwanth P | [Read More](https://medium.com/p/b4251a8b7a8f) |
-| Mon, 04 Aug 2025 05:53:50 GMT | Beyond Basics: 6 Python Libraries That Teach You More Than Just Code | Babar saad | [Read More](https://medium.com/p/a3e25ee46333) |
-| Mon, 04 Aug 2025 05:53:22 GMT | ⚔️ Burp Suite x AI: The Ultimate Payload Chaining Recon Engine | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ac2af4c19c98) |
-| Mon, 04 Aug 2025 05:52:47 GMT | What are some remote access software for mobile devices? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/0df8a0b99719) |
-| Mon, 04 Aug 2025 05:46:12 GMT | Structured vs. Unstructured Threat Intelligence: The Ultimate Guide | Adam Goss | [Read More](https://medium.com/p/49e371c84f1f) |
-| Mon, 04 Aug 2025 05:45:49 GMT | Quantum Cryptography vs Man-in-the-Middle Attacks: A New Paradigm for Secure Communication | Tedislava Vasileva | [Read More](https://medium.com/p/050eb29a2138) |
