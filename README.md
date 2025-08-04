@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 23:12:27 GMT | IDS Nedir ve Çeşitlerinde Bulunan Güvenlik Açıkları ? | ErenCatak | [Read More](https://medium.com/p/6d5fbf4492b1) |
+| Mon, 04 Aug 2025 23:05:44 GMT | Unveiling the Hidden Vulnerability in AI’s Memory | Elias Hossain | [Read More](https://medium.com/p/80db6ea5eacb) |
+| Mon, 04 Aug 2025 22:56:11 GMT | How to Add a User with Non-Interactive Shell in Linux | Farhan Latif | [Read More](https://medium.com/p/b9b388fc3895) |
+| Mon, 04 Aug 2025 22:54:41 GMT | Hi | Samwissy | [Read More](https://medium.com/p/a537e71d66a6) |
+| Mon, 04 Aug 2025 22:52:56 GMT | WhatsApp Hacked? Don’t Panic — Here’s Your Action Plan | Amy Abafor | [Read More](https://medium.com/p/d6f3d54329c7) |
 | Mon, 04 Aug 2025 22:40:15 GMT | Mobile Device Security Tips | Pisarski | [Read More](https://medium.com/p/c1c51f041e4b) |
 | Mon, 04 Aug 2025 22:35:26 GMT | The Cyber Security Hands-on training platforms everyone should be using! | SecBySam | [Read More](https://medium.com/p/4422d13ffae3) |
 | Mon, 04 Aug 2025 22:29:13 GMT | The Digital Throne: Why Women in Leadership Must Refuse to Bow? | Lastingglory | [Read More](https://medium.com/p/d826b842ad26) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 16:58:32 GMT | Watch Kalakaar (2025) Hindi Hot Web Series — Stream Now in HD | SSR NEW MOVIES | [Read More](https://medium.com/p/f38aa5700381) |
 | Mon, 04 Aug 2025 16:56:14 GMT | AI can now launch cyberattacks on its own: are we prepared? | Chris Kremidas-Courtney | [Read More](https://medium.com/p/2ff6d24cf245) |
 | Mon, 04 Aug 2025 16:55:31 GMT | Portswigger Academy: API testing Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/00e84e83886c) |
-| Mon, 04 Aug 2025 16:55:19 GMT | The Secrets of Secure Code | Cyber Security Research | [Read More](https://medium.com/p/204d9a074a81) |
-| Mon, 04 Aug 2025 16:55:14 GMT | Portswigger OS Command Injection Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/025d9ab3f020) |
-| Mon, 04 Aug 2025 16:54:56 GMT | Portswigger API testing Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/f89b3de213ac) |
-| Mon, 04 Aug 2025 16:54:37 GMT | Portswigger API testing Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/96eafc51d047) |
-| Mon, 04 Aug 2025 16:54:19 GMT | Portswigger Path Traversal Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/5c176bd690a7) |
