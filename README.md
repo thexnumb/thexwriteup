@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 16:29:04 GMT | The Chaos of the SIEM Consolidation Proves One Size Doesn’t Fit All | Graylog | [Read More](https://medium.com/p/fbceecf2a781) |
+| Mon, 04 Aug 2025 16:25:41 GMT | The Digital Gumshoe: How AI is Becoming Cybersecurity’s New Best Friend | CapitalCoin | [Read More](https://medium.com/p/487ce1a78071) |
+| Mon, 04 Aug 2025 16:21:50 GMT | My Cyber Journey: From Loops to Linux Practice | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/30e5446a72a1) |
+| Mon, 04 Aug 2025 16:21:44 GMT | TryHackMe Writeup✍: Snort | Zohal | [Read More](https://medium.com/p/eacc45c922ea) |
+| Mon, 04 Aug 2025 16:21:32 GMT | “Is This Healthy?”: When Self-Care Becomes Surveillance and Cybersecurity Becomes Medicine | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/5e2175ceb7b9) |
+| Mon, 04 Aug 2025 16:17:20 GMT | EP 03: Domain Keys Identified Mail(DKIM) | H.W.K. Aravinda | [Read More](https://medium.com/p/0d16afcafa94) |
+| Mon, 04 Aug 2025 16:17:00 GMT | The Infrastructure Security Paradox: Breaking SIEM Trade-offs | Graylog | [Read More](https://medium.com/p/63797634a786) |
+| Mon, 04 Aug 2025 16:11:25 GMT | SonarCloud - GitHub repositories security analysis | Piyali Das | [Read More](https://medium.com/p/59f51254e498) |
+| Mon, 04 Aug 2025 16:10:55 GMT | Thuê bảo vệ giữ xe chuyên nghiệp giá rẻ — An toàn tuyệt đối cho tài sản của bạn | DaiAnGroup | [Read More](https://medium.com/p/6140ce187c23) |
+| Mon, 04 Aug 2025 16:08:11 GMT | The Orbital Swarm Is Already Here | Jay Allen | [Read More](https://medium.com/p/90d2ed7d35e8) |
+| Mon, 04 Aug 2025 16:03:21 GMT | The Silent Crisis Ruining Your Digital Life | Mabrokacod | [Read More](https://medium.com/p/6b467443cb55) |
+| Mon, 04 Aug 2025 16:02:06 GMT | Vicious Vulnerabilities and How to Fix Them — A Developer’s Guide to GitHub Dependabot in… | Sasiru Tharinda | [Read More](https://medium.com/p/82bd9365aa6c) |
+| Mon, 04 Aug 2025 16:01:53 GMT | From Manual Code Analysis to CVE-2025–54119. | Marco Nappi | [Read More](https://medium.com/p/0fbc08611f8e) |
+| Mon, 04 Aug 2025 16:01:48 GMT | TryhackMe-Blue: | Mohit Sharma | [Read More](https://medium.com/p/6727eddf69a7) |
+| Mon, 04 Aug 2025 16:01:42 GMT | The Power of Black Male Vulnerability | Kenyata O Swann | [Read More](https://medium.com/p/3b7025a7968c) |
+| Mon, 04 Aug 2025 16:01:40 GMT | The Complete Guide to Finding Every Website Selling Your Personal Data | BiyteLüm | [Read More](https://medium.com/p/e0cf7e844a4a) |
+| Mon, 04 Aug 2025 16:00:04 GMT | Nonce Upon a Time: A Small Misconfiguration to Account Takeover | Rounak Dhadiwal | [Read More](https://medium.com/p/a29a6baf1d18) |
+| Mon, 04 Aug 2025 15:56:56 GMT | Why Pharmacy Law Is the Next Big Battleground in AI, Healthcare, and Government Regulation | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/479e0657bd1f) |
+| Mon, 04 Aug 2025 15:56:12 GMT | NMAP and all about it — tool guide | Ayushmohansah | [Read More](https://medium.com/p/4436d3fc08e2) |
+| Mon, 04 Aug 2025 15:54:38 GMT | Strengthening Identity and Access Management: How Rainbow Secure is Empowering Businesses | Dr. Shashi Karhail | [Read More](https://medium.com/p/789e3cf17768) |
+| Mon, 04 Aug 2025 15:51:46 GMT | Spring Boot Security with JWT: Key Classes and Interfaces | Pratikmadekar | [Read More](https://medium.com/p/25a83c2fa5ee) |
+| Mon, 04 Aug 2025 15:50:08 GMT | How to Spot and Report a Social Engineering Attack in Real Time | Tarush Sharma | [Read More](https://medium.com/p/1a0b69995900) |
 | Mon, 04 Aug 2025 15:45:40 GMT | Red Team Automation in a Box: My CALDERA Home Lab Setup | Tijan Hydara | [Read More](https://medium.com/p/6f5fb6a7beb9) |
 | Mon, 04 Aug 2025 15:40:57 GMT | “Do You Have Any Recent Certifications?” | Hachion - Online IT & Software Training | [Read More](https://medium.com/p/886f6a5601b8) |
 | Mon, 04 Aug 2025 15:34:35 GMT | The Genius Behind the Prompts: How Cutting-Edge AI Techniques Map to The 19 Laws of AI Prompting… | Nikolay Gul | [Read More](https://medium.com/p/ceb69d637cfc) |
@@ -27,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 15:13:37 GMT | Threat and Vulnerabilities Report — July 2025 | Loginsoft | [Read More](https://medium.com/p/4d2aeacff58c) |
 | Mon, 04 Aug 2025 15:10:29 GMT | Unauthorized Privilege Escalation in Role Logic | Ahmed Mahmoud | [Read More](https://medium.com/p/5271f34e652c) |
 | Mon, 04 Aug 2025 15:07:08 GMT | National Infrastructure, Minimal Security: The Risk We’re Not Funding | James Wright | [Read More](https://medium.com/p/61e134cc55f0) |
+| Mon, 04 Aug 2025 15:06:45 GMT | Chained RCE on TwistedWeb 14.0.0 via Command Injection and Unauthenticated PUT | Just Insecure | [Read More](https://medium.com/p/1aa657995b4e) |
 | Mon, 04 Aug 2025 15:06:44 GMT | VulnCMS 1 VulnHub CTF Walkthrough for Beginners | Prajwal | [Read More](https://medium.com/p/e8c3f1e544ab) |
 | Mon, 04 Aug 2025 15:06:03 GMT | bbBảo vệ thời vụ là gì? Thuê bảo vệ theo ngày ở đâu uy tín? | DaiAnGroup | [Read More](https://medium.com/p/3b1ca6cea220) |
 | Mon, 04 Aug 2025 15:00:03 GMT | Building Strong Cyber Defenses with Managed SIEM, XDR, and SOC | Vijilan | [Read More](https://medium.com/p/565df609849b) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 12:38:36 GMT | How can Enterprises Transfer Egnyte to Microsoft 365? | Arun Jyothi | [Read More](https://medium.com/p/11854464e435) |
 | Mon, 04 Aug 2025 12:38:03 GMT | Confluence Takeover: How a Simple Support Email Gave Me Full Wiki Access | Vikash Maurya | [Read More](https://medium.com/p/a9ac7c27fa31) |
 | Mon, 04 Aug 2025 12:36:53 GMT | ASCWG CTF 2025 Qualifications — Web Challenge Official Solution: Redirect Havoc | Mostafa Khalifa | [Read More](https://medium.com/p/705071177a4d) |
-| Mon, 04 Aug 2025 12:32:59 GMT | Why IACS UR E26 Falls Short of True Maritime Cyber Resilience | Tony Shin | [Read More](https://medium.com/p/33389da1ae6b) |
-| Mon, 04 Aug 2025 12:32:57 GMT | The #1 Beginner mistake in any CTF and how to never make it again | Niklas Heringer | [Read More](https://medium.com/p/2af25968c804) |
-| Mon, 04 Aug 2025 12:32:35 GMT | Without Email, Password, or OTP, I managed to access an account by exploiting a token stored in… | Ria Sarkar | [Read More](https://medium.com/p/ef1868160c69) |
-| Mon, 04 Aug 2025 12:30:14 GMT | Starting SOC Level 2 Journey: A Friendly Dive into Log Analysis | Furkanctiner | [Read More](https://medium.com/p/8e4b24f1a5ba) |
-| Mon, 04 Aug 2025 12:30:11 GMT | How is AI revolutionizing traditional cybersecurity protocols? | sanya | [Read More](https://medium.com/p/f659e5ec9e87) |
-| Mon, 04 Aug 2025 12:26:25 GMT | Over 16 Billion Passwords Leaked in 2025 — Is Your Business at Risk? | Technijian | [Read More](https://medium.com/p/6b6b9d63719e) |
-| Mon, 04 Aug 2025 12:26:06 GMT | QSafe Wallet Hits 10K Installs — Here’s Why Web3 Users Are Choosing Security That Works. | Bright Mmaduabuchi | [Read More](https://medium.com/p/91053bfe549f) |
-| Mon, 04 Aug 2025 12:22:28 GMT | Are Hybrid SOC Services worth the investment? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/0769c8f8e6c1) |
-| Mon, 04 Aug 2025 12:21:17 GMT | The One Cybersecurity Mistake Almost Everyone Makes (And How Hackers Use It Against You) | H3X | [Read More](https://medium.com/p/d34d8b999285) |
-| Mon, 04 Aug 2025 12:19:59 GMT | Source of Competitive intelligence | Ashraf Emon | [Read More](https://medium.com/p/6795cf8c2554) |
-| Mon, 04 Aug 2025 12:19:56 GMT | SOC 2 for AI Startups: What Regulators Watch And How to Stay Compliant | SecureSlate | [Read More](https://medium.com/p/c494a36c6005) |
-| Mon, 04 Aug 2025 12:17:23 GMT | IACS UR E26: Cyber Resilience Standard Reshaping Maritime Industry | Tony Shin | [Read More](https://medium.com/p/a61f9754ea05) |
-| Mon, 04 Aug 2025 12:13:27 GMT | When Hardware Becomes the Last Line of Defense | Tenzro | [Read More](https://medium.com/p/0b31d8c4a9e5) |
-| Mon, 04 Aug 2025 12:10:38 GMT | Must-Have Qualities to Look For in a Professional Traffic Marshal Service | Jane Tang | [Read More](https://medium.com/p/2242171c7844) |
-| Mon, 04 Aug 2025 12:09:30 GMT | I Wrote My Darkest Story at 3 AM and It Changed Everything | Girish Dhamane | [Read More](https://medium.com/p/897085f9a287) |
-| Mon, 04 Aug 2025 12:08:30 GMT | Ethical Hacking Practical Course in Delhi | Crawsec | [Read More](https://medium.com/p/1b02083cd5fb) |
-| Mon, 04 Aug 2025 12:06:31 GMT | “Blue” Room — Penetration Testing | Shourya Pratap Singh | [Read More](https://medium.com/p/a6efe282e339) |
-| Mon, 04 Aug 2025 12:03:38 GMT | What Are Security Solutions in Singapore, and Why Do You Need Them? | Jane Tang | [Read More](https://medium.com/p/c7b33f31562c) |
-| Mon, 04 Aug 2025 11:54:05 GMT | Subdomain Recon Playbook 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/cc768950dd74) |
-| Mon, 04 Aug 2025 11:50:39 GMT | The Masks We Wear: Why We Lie to the World About Who We Are | Vishnulal | [Read More](https://medium.com/p/c257567d73d6) |
-| Mon, 04 Aug 2025 11:47:31 GMT | (Access Control) Lab: User role can be modified in user profile - 2025 | Ananda | [Read More](https://medium.com/p/b163d18ce3ee) |
-| Mon, 04 Aug 2025 11:47:09 GMT | My CEH Journey and Why It’s Way More Practical Than People Think — A Ground-Level Perspective | Reggie Menacherry | [Read More](https://medium.com/p/f2e633f72940) |
-| Mon, 04 Aug 2025 11:46:58 GMT | Why Ethical Hacking Should Be Part of Modern Education — Especially in Cities Like Kozhikode | Archanaa | [Read More](https://medium.com/p/c4bfcbda1cd9) |
