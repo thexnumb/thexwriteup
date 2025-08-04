@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 05:56:23 GMT | Google dorking/Hacking | Yeshwanth P | [Read More](https://medium.com/p/b4251a8b7a8f) |
+| Mon, 04 Aug 2025 05:53:50 GMT | Beyond Basics: 6 Python Libraries That Teach You More Than Just Code | Babar saad | [Read More](https://medium.com/p/a3e25ee46333) |
+| Mon, 04 Aug 2025 05:53:22 GMT | ⚔️ Burp Suite x AI: The Ultimate Payload Chaining Recon Engine | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ac2af4c19c98) |
+| Mon, 04 Aug 2025 05:52:47 GMT | What are some remote access software for mobile devices? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/0df8a0b99719) |
+| Mon, 04 Aug 2025 05:46:12 GMT | Structured vs. Unstructured Threat Intelligence: The Ultimate Guide | Adam Goss | [Read More](https://medium.com/p/49e371c84f1f) |
+| Mon, 04 Aug 2025 05:45:49 GMT | Quantum Cryptography vs Man-in-the-Middle Attacks: A New Paradigm for Secure Communication | Tedislava Vasileva | [Read More](https://medium.com/p/050eb29a2138) |
+| Mon, 04 Aug 2025 05:44:26 GMT | Why Every Business Needs Penetration Testing to Stay Safe Online | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/3d60e4fbc395) |
+| Mon, 04 Aug 2025 05:34:08 GMT | ️ Ticket to Trouble: How I Hijacked Support Tickets to See Everyone’s Complaints ️ | Iski | [Read More](https://medium.com/p/3fbcb33afdf7) |
+| Mon, 04 Aug 2025 05:34:07 GMT | India’s Trusted Tech Partner — Explore Ajath Infotech Pvt. Ltd.’s Software Excellence | Ajath Infotech | [Read More](https://medium.com/p/ffec8336fd92) |
+| Mon, 04 Aug 2025 05:32:01 GMT | Child Safety or an Authoritarian Government’s First Major Overreach? | Jason | [Read More](https://medium.com/p/9297e8c3ca85) |
+| Mon, 04 Aug 2025 05:27:26 GMT | Understanding the CWE Top 25: A Pentester’s Guide to Root-Level Software Weaknesses | YoungerSibling | [Read More](https://medium.com/p/8c0c256334a0) |
+| Mon, 04 Aug 2025 05:22:14 GMT | The Future of Cybersecurity AI-Powered Threat Detection in 2025 | Win In Life Academy | [Read More](https://medium.com/p/4fc8911b03cb) |
+| Mon, 04 Aug 2025 05:21:54 GMT | Build a Career in Ethical Hacking | Rabeespace | [Read More](https://medium.com/p/95ae6b03f61b) |
+| Mon, 04 Aug 2025 05:18:25 GMT | The development of thinking abilities in artificial intelligence models.. | Sidialtos | [Read More](https://medium.com/p/8486162c3eae) |
+| Mon, 04 Aug 2025 05:17:36 GMT | Object-Oriented Programming in Python — Explained Simply | sabaraheem | [Read More](https://medium.com/p/a7cd077076ac) |
 | Mon, 04 Aug 2025 04:59:04 GMT | RST TI Report Digest: 04 Aug 2025 | RST Cloud | [Read More](https://medium.com/p/0e04cbb28bcf) |
 | Mon, 04 Aug 2025 04:45:47 GMT | Zeek (Bro) Network Analysis: Advanced Tactics | Aj | [Read More](https://medium.com/p/dcbf160b5743) |
 | Mon, 04 Aug 2025 04:43:41 GMT | How to Start Hacking with Kali Linux | Shahzaib | [Read More](https://medium.com/p/2574a050d928) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 20:31:16 GMT | K8s: Deploy a Monitoring Agent with a Restricted Pod Security Standard | W. Jenks Gibbons | [Read More](https://medium.com/p/8ecc4ef5165f) |
 | Sun, 03 Aug 2025 20:29:19 GMT | Day 70: Questions that I used to ask myself | Nile Okomo | [Read More](https://medium.com/p/a5fac54a8327) |
 | Sun, 03 Aug 2025 20:27:04 GMT | Application Layer Attacks: The Silent Killer of Modern Apps | Siddiquimohammad | [Read More](https://medium.com/p/07b067569e4d) |
-| Sun, 03 Aug 2025 20:26:31 GMT | I Found My Home Address on 50+ Websites.Here’s What Scared Me Most | BiyteLüm | [Read More](https://medium.com/p/48130dc09a98) |
-| Sun, 03 Aug 2025 20:14:51 GMT | The 10 Critical Cybersecurity Issues in the World of AI | Muhammad Adenowo | [Read More](https://medium.com/p/1bd03be7f7d4) |
-| Sun, 03 Aug 2025 20:13:18 GMT | HOW CAN ONE INVEST IN BITCOINS? | Insurance Investment Management | [Read More](https://medium.com/p/6864b286a5a0) |
-| Sun, 03 Aug 2025 20:11:37 GMT | USB File Recovery: A Complete Guide to Restoring Deleted Data | Fatima Heshma | [Read More](https://medium.com/p/f3a7add50f2c) |
-| Sun, 03 Aug 2025 20:07:16 GMT | Enhancing Web Security: OAuth2 Implementation in NestJS | @rnab | [Read More](https://medium.com/p/c38dae3aeb65) |
-| Sun, 03 Aug 2025 20:06:54 GMT | Part 14: Deep Link & URI Hijacking in Flutter — How Malicious Apps Spoof or Intercept… | Sumit Kumar | [Read More](https://medium.com/p/cf8e7f90273e) |
-| Sun, 03 Aug 2025 20:06:14 GMT | ️ Part 13: SSL Pinning Bypass in Flutter — How Attackers Spoof Certificates to Intercept… | Sumit Kumar | [Read More](https://medium.com/p/3074f6462b42) |
-| Sun, 03 Aug 2025 20:04:52 GMT | Part 12: Firebase Anonymous Auth Hijacking — How Attackers Impersonate Real Users in Flutter… | Sumit Kumar | [Read More](https://medium.com/p/68dd263b554e) |
-| Sun, 03 Aug 2025 20:03:57 GMT | Part 11: WebView JavaScript Bridge Injection — How Flutter Allows JS-to-Dart Code Execution | Sumit Kumar | [Read More](https://medium.com/p/76a57e9e2f2f) |
-| Sun, 03 Aug 2025 20:02:55 GMT | Part 10: Flutter SharedPreferences Credential Dump — How Rooted Devices Expose User Tokens & PII | Sumit Kumar | [Read More](https://medium.com/p/0d02e047a916) |
-| Sun, 03 Aug 2025 19:59:58 GMT | Phishing: People Hack with Words, Not Code | Bello Al-Amin Tomiwa | [Read More](https://medium.com/p/c3f7d9a7f9ac) |
-| Sun, 03 Aug 2025 19:59:19 GMT | Part 9: Hardcoded API Keys in Flutter — How Secrets Leak Through APK Decompilation | Sumit Kumar | [Read More](https://medium.com/p/538c949edc15) |
-| Sun, 03 Aug 2025 19:59:08 GMT | The secret of doing well | Sami Toor | [Read More](https://medium.com/p/45feee28f362) |
-| Sun, 03 Aug 2025 19:56:48 GMT | Part 8: Runtime Code Injection in Flutter — How Frida Hooks Can Modify Your App on the Fly | Sumit Kumar | [Read More](https://medium.com/p/1275055b81d8) |
-| Sun, 03 Aug 2025 19:54:25 GMT | Part 7: Deep Link Hijacking in Flutter — How Malicious Apps Can Launch Yours in Dangerous States | Sumit Kumar | [Read More](https://medium.com/p/7d12a60e4ebf) |
