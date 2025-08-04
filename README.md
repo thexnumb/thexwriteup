@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 14:47:17 GMT | DockerLabs Writeup — Grandma (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/618f9d58a65e) |
+| Mon, 04 Aug 2025 14:38:55 GMT | How I hacked Income Tax Portal Pt. 2 | Adwait Gawade | [Read More](https://medium.com/p/b1d1a66c9639) |
+| Mon, 04 Aug 2025 14:38:27 GMT | Cybersecurity Details: The Art of Prevention | Cyber Security Research | [Read More](https://medium.com/p/e7cb4f57a2db) |
+| Mon, 04 Aug 2025 14:37:56 GMT | Hi Researcher! | Bugcrowd | [Read More](https://medium.com/p/d57ddfa29ddd) |
+| Mon, 04 Aug 2025 14:37:30 GMT | Cybersecurity RSS | Alex (KishinInfosec) | [Read More](https://medium.com/p/ff680e46352b) |
+| Mon, 04 Aug 2025 14:36:34 GMT | The Hacker’s Mindset: Understanding Security Details | Cyber Security Research | [Read More](https://medium.com/p/bf94bcc9d897) |
+| Mon, 04 Aug 2025 14:35:20 GMT | SOC 2 Type I for Startups: Lessons From the Trenches | Berk Yanadur | [Read More](https://medium.com/p/be0acb419f09) |
+| Mon, 04 Aug 2025 14:34:35 GMT | Zero Trust & Beyond: Advanced Security Details | Cyber Security Research | [Read More](https://medium.com/p/8ce90b57cd02) |
+| Mon, 04 Aug 2025 14:33:58 GMT | SOCFortres5: Apple Patches Critical Safari Vulnerability Also Exploited as Zero-Day in Google… | Darshan | [Read More](https://medium.com/p/d5270a32f08a) |
+| Mon, 04 Aug 2025 14:33:05 GMT | ️ What is SecOps ?? | Jyotin Rustagi | [Read More](https://medium.com/p/7d4ca91ac59f) |
+| Mon, 04 Aug 2025 14:32:35 GMT | Inside the Security Operations Center | Cyber Security Research | [Read More](https://medium.com/p/acc5cdf32504) |
+| Mon, 04 Aug 2025 14:31:46 GMT | SOCFortres5: Researchers Exploit Critical 0-Day in Google kernelCTF and Debian 12 Linux Kernels | Darshan | [Read More](https://medium.com/p/04571a708cc7) |
+| Mon, 04 Aug 2025 14:30:44 GMT | The Algorithmic Armor: Cybersecurity Details Revealed | Cyber Security Research | [Read More](https://medium.com/p/9aa18c109d8a) |
+| Mon, 04 Aug 2025 14:29:19 GMT | SOCFortres5: SquareX Researchers Reaffirm Browser Security Leadership with Key Vulnerability… | Darshan | [Read More](https://medium.com/p/ec600a00c3e8) |
 | Mon, 04 Aug 2025 14:09:36 GMT | In Web3, security often feels like an afterthought — a post-mortem discussion after funds vanish. | Ebuka Eze | [Read More](https://medium.com/p/87680522eb75) |
 | Mon, 04 Aug 2025 14:07:10 GMT | Shell Secrets Part 3: History, Shortcuts & Search Like a Pro | MayhemCode | [Read More](https://medium.com/p/33c404079d5e) |
 | Mon, 04 Aug 2025 14:04:59 GMT | The Script “I Believed” In | •┈ | [Read More](https://medium.com/p/c39a0a969356) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 10:37:06 GMT | What Makes a Company That Offers Armed Guards Security Services in CA Special? | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/ef79a5b4faff) |
 | Mon, 04 Aug 2025 10:33:37 GMT | How AI is Reshaping Search and YouTube Marketing in Southeast Asia | Rahul Sharma | [Read More](https://medium.com/p/1d10ffcd9632) |
 | Mon, 04 Aug 2025 10:33:00 GMT | Linux Komut Satırı Notları: Sistem Yönetimi ve Güvenlik için Pratik Bilgiler | Fatih Kaya | [Read More](https://medium.com/p/7c0452d6d149) |
-| Mon, 04 Aug 2025 10:22:58 GMT | Unveiling Hidden Risks: Monitoring Inactive Guests in Microsoft Entra for Stronger Security | CloudLink | [Read More](https://medium.com/p/8c6b053481b0) |
-| Mon, 04 Aug 2025 10:22:51 GMT | ChatGPT for Penetration Testing (Pt. 2): Real-World Scenarios and Ethical Use | Redfox Security | [Read More](https://medium.com/p/79e3ed40b2aa) |
-| Mon, 04 Aug 2025 10:19:07 GMT |  | Khouloud Ben | [Read More](https://medium.com/p/526ae73dbe34) |
-| Mon, 04 Aug 2025 10:19:06 GMT | (Draft)Pwned Labs -Escalate GCP privileges with Implicit Delegation | Moghees Ahmad | [Read More](https://medium.com/p/1bc4302a1c00) |
-| Mon, 04 Aug 2025 10:14:23 GMT | Keep Your Android Phone Safe and Snappy: A Friendly Guide | Byte Cys | [Read More](https://medium.com/p/0c94694f4f75) |
-| Mon, 04 Aug 2025 10:12:22 GMT | PGDBA in Information Technology | MIT School of Distance Education | [Read More](https://medium.com/p/0d5541e1f6eb) |
-| Mon, 04 Aug 2025 10:12:02 GMT | When Privacy Fails: How ChatGPT Conversations Became Public on Search Engines | cybrNK | [Read More](https://medium.com/p/b7400970a61b) |
-| Mon, 04 Aug 2025 10:08:35 GMT | 未来の私よ、コレを読め。webサイトの攻撃と対策 EXTRA | ttt | [Read More](https://medium.com/p/33a089b45f82) |
-| Mon, 04 Aug 2025 10:07:10 GMT | https://media.licdn.com/dms/image/v2/D4E22AQEHJTZdI2f1nw/feedshare-shrink_800/B4EZhZ7CuXHgAg-/0/1753 | Benjamin Oseghale | [Read More](https://medium.com/p/e433af9d0697) |
-| Mon, 04 Aug 2025 10:07:06 GMT | Using Machine Learning for Multi-Task Prediction in Cybersecurity Incidents | Mujeeb Rofiu | [Read More](https://medium.com/p/b5dd5f55bd74) |
-| Mon, 04 Aug 2025 10:04:58 GMT | How to Install Open Policy Agent in Rocky Linux 9.6 | Ed Roof Maker | [Read More](https://medium.com/p/1841e001d88f) |
-| Mon, 04 Aug 2025 10:02:44 GMT | The Cyber Security Blueprint: Details Unveiled | Cyber Security Research | [Read More](https://medium.com/p/f184afdf9009) |
-| Mon, 04 Aug 2025 10:01:19 GMT | Cybersecurity Details: Unmasking the Threats | Cyber Security Research | [Read More](https://medium.com/p/282eb160372a) |
-| Mon, 04 Aug 2025 10:00:45 GMT | Why Wireless Penetration Testing Is Critical for Business Security | West Advanced Technologies Inc | [Read More](https://medium.com/p/5b27b275df91) |
