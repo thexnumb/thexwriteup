@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 22:40:15 GMT | Mobile Device Security Tips | Pisarski | [Read More](https://medium.com/p/c1c51f041e4b) |
+| Mon, 04 Aug 2025 22:35:26 GMT | The Cyber Security Hands-on training platforms everyone should be using! | SecBySam | [Read More](https://medium.com/p/4422d13ffae3) |
+| Mon, 04 Aug 2025 22:29:13 GMT | The Digital Throne: Why Women in Leadership Must Refuse to Bow? | Lastingglory | [Read More](https://medium.com/p/d826b842ad26) |
+| Mon, 04 Aug 2025 22:19:15 GMT | Automate IDOR Hunting Like a Pro with Burp Suite’s Authorize Extension | Abdul Mateen | [Read More](https://medium.com/p/214ca1dcf9b9) |
 | Mon, 04 Aug 2025 22:06:30 GMT | Privately Send HTTP Requests Between AWS Accounts | Anton Yurchenko | [Read More](https://medium.com/p/99052e5070f2) |
 | Mon, 04 Aug 2025 22:03:49 GMT | Roam Global eSIM Bounty Program | Roam | [Read More](https://medium.com/p/5b2efed8436d) |
 | Mon, 04 Aug 2025 21:54:14 GMT | Building a Secure Multihomed Firewall System with pfSense, DMZ, Suricata (IDS/IPS), and Wazuh… | Berkay Köseoğlu | [Read More](https://medium.com/p/cd58815a050e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 16:54:56 GMT | Portswigger API testing Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/f89b3de213ac) |
 | Mon, 04 Aug 2025 16:54:37 GMT | Portswigger API testing Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/96eafc51d047) |
 | Mon, 04 Aug 2025 16:54:19 GMT | Portswigger Path Traversal Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/5c176bd690a7) |
-| Mon, 04 Aug 2025 16:53:44 GMT | Portswigger OS Command Injection Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/70bc241161c8) |
-| Mon, 04 Aug 2025 16:53:18 GMT | The Layers of Protection: Cyber Security Details Defined | Cyber Security Research | [Read More](https://medium.com/p/d7ad335d87ef) |
-| Mon, 04 Aug 2025 16:51:19 GMT | Cybersecurity Details: A Microscopic Look at Security | Cyber Security Research | [Read More](https://medium.com/p/7e8c7372e1fe) |
-| Mon, 04 Aug 2025 16:49:25 GMT | Evolving Threats, Evolving Defenses: Security Details | Cyber Security Research | [Read More](https://medium.com/p/9df626b4571f) |
