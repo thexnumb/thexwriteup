@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 20:36:39 GMT | MSFvenom vs Donut: AV Detection Face-Off | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1229f5b55d60) |
+| Mon, 04 Aug 2025 20:30:50 GMT | I Found 50+ XSS Flaws Using Just My Browser | Ibtissam hammadi | [Read More](https://medium.com/p/a00caba76c48) |
+| Mon, 04 Aug 2025 20:24:27 GMT | Polymorphic Viruses: The Shape-Shifting Malware Threat You Can’t Ignore | SafeAeon Inc. | [Read More](https://medium.com/p/378245a43474) |
 | Mon, 04 Aug 2025 20:17:29 GMT | En Yaygın Siber Saldırı Türleri-7 | Melek | [Read More](https://medium.com/p/9a66a95b787d) |
 | Mon, 04 Aug 2025 20:17:00 GMT | Session Fixation in Vvveb CMS v1.0.6.1 | Andrew Paul | [Read More](https://medium.com/p/9784ddb125f1) |
 | Mon, 04 Aug 2025 20:10:41 GMT | Your Phone Isn’t Safe Anymore | Aj | [Read More](https://medium.com/p/cfdd4ed99b73) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 16:11:25 GMT | SonarCloud - GitHub repositories security analysis | Piyali Das | [Read More](https://medium.com/p/59f51254e498) |
 | Mon, 04 Aug 2025 16:10:55 GMT | Thuê bảo vệ giữ xe chuyên nghiệp giá rẻ — An toàn tuyệt đối cho tài sản của bạn | DaiAnGroup | [Read More](https://medium.com/p/6140ce187c23) |
 | Mon, 04 Aug 2025 16:08:11 GMT | The Orbital Swarm Is Already Here | Jay Allen | [Read More](https://medium.com/p/90d2ed7d35e8) |
-| Mon, 04 Aug 2025 16:03:21 GMT | The Silent Crisis Ruining Your Digital Life | Mabrokacod | [Read More](https://medium.com/p/6b467443cb55) |
-| Mon, 04 Aug 2025 16:02:06 GMT | Vicious Vulnerabilities and How to Fix Them — A Developer’s Guide to GitHub Dependabot in… | Sasiru Tharinda | [Read More](https://medium.com/p/82bd9365aa6c) |
-| Mon, 04 Aug 2025 16:01:53 GMT | From Manual Code Analysis to CVE-2025–54119. | Marco Nappi | [Read More](https://medium.com/p/0fbc08611f8e) |
