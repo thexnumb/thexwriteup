@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 20:17:29 GMT | En Yaygın Siber Saldırı Türleri-7 | Melek | [Read More](https://medium.com/p/9a66a95b787d) |
+| Mon, 04 Aug 2025 20:17:00 GMT | Session Fixation in Vvveb CMS v1.0.6.1 | Andrew Paul | [Read More](https://medium.com/p/9784ddb125f1) |
+| Mon, 04 Aug 2025 20:10:41 GMT | Your Phone Isn’t Safe Anymore | Aj | [Read More](https://medium.com/p/cfdd4ed99b73) |
+| Mon, 04 Aug 2025 20:10:06 GMT | What You Need To Know About Property, Business Interruption, & Cyber Insurance | Financial Poise | [Read More](https://medium.com/p/835a82a379ae) |
+| Mon, 04 Aug 2025 20:06:29 GMT | 5 Jaw-Dropping SIEM Cybersecurity Tools Keeping Hackers Up at Night (2025 Edition) | cybrNK | [Read More](https://medium.com/p/c8b2613a864e) |
+| Mon, 04 Aug 2025 20:02:25 GMT | Haven1 Isn’t Just a Safer Chain, It’s the Foundation DeFi Always Needed | Victor | [Read More](https://medium.com/p/9e347a828e3b) |
+| Mon, 04 Aug 2025 19:59:19 GMT | What is SIEM? | Kiran Adhikari | [Read More](https://medium.com/p/d928314274e9) |
+| Mon, 04 Aug 2025 19:57:48 GMT | The Hidden Risks of AI Code Editors — and Why Total Reliance Is Dangerous | Tapendra Dev | [Read More](https://medium.com/p/95c8a0660f1b) |
+| Mon, 04 Aug 2025 19:55:05 GMT | I Built a Hacker-Grade Cyber Tool Because I Found a 0-day in a billion dollar company | Ayman IA | [Read More](https://medium.com/p/2c116068e027) |
+| Mon, 04 Aug 2025 19:42:48 GMT | Pod Security Standard not being applied to Namespace? | W. Jenks Gibbons | [Read More](https://medium.com/p/7d1d637077af) |
+| Mon, 04 Aug 2025 19:42:48 GMT | Sanal Makinede Windows Server Üzerinden Active Directory ve Group Policy (VirtualBox) | Mertcan Kopruvalı | [Read More](https://medium.com/p/dbdd65e844b6) |
 | Mon, 04 Aug 2025 19:30:56 GMT | Lazy VM-idekCTF 2025 Writeup | Mirseyid Mirzazada | [Read More](https://medium.com/p/077a8653a870) |
+| Mon, 04 Aug 2025 19:30:27 GMT | Irish Name Repo 3 — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/757644d1f92b) |
 | Mon, 04 Aug 2025 19:22:13 GMT | BGP Hijacking | Muhammed İkbal Yıldız | [Read More](https://medium.com/p/8cbe876c0f2d) |
 | Mon, 04 Aug 2025 19:20:56 GMT | Potential XSS Vulnerability in Acronis Login Callback URL | Monika sharma | [Read More](https://medium.com/p/db0eb8b7b0c0) |
 | Mon, 04 Aug 2025 19:20:22 GMT | The New Breed of Cyberattacks: How Companies are Evolving and How AI Is Redefining Cybersecurity | Harish Sandela | [Read More](https://medium.com/p/c848397cc747) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 16:03:21 GMT | The Silent Crisis Ruining Your Digital Life | Mabrokacod | [Read More](https://medium.com/p/6b467443cb55) |
 | Mon, 04 Aug 2025 16:02:06 GMT | Vicious Vulnerabilities and How to Fix Them — A Developer’s Guide to GitHub Dependabot in… | Sasiru Tharinda | [Read More](https://medium.com/p/82bd9365aa6c) |
 | Mon, 04 Aug 2025 16:01:53 GMT | From Manual Code Analysis to CVE-2025–54119. | Marco Nappi | [Read More](https://medium.com/p/0fbc08611f8e) |
-| Mon, 04 Aug 2025 16:01:48 GMT | TryhackMe-Blue: | Mohit Sharma | [Read More](https://medium.com/p/6727eddf69a7) |
-| Mon, 04 Aug 2025 16:01:42 GMT | The Power of Black Male Vulnerability | Kenyata O Swann | [Read More](https://medium.com/p/3b7025a7968c) |
-| Mon, 04 Aug 2025 16:01:40 GMT | The Complete Guide to Finding Every Website Selling Your Personal Data | BiyteLüm | [Read More](https://medium.com/p/e0cf7e844a4a) |
-| Mon, 04 Aug 2025 16:00:48 GMT | อ่อว เข้าใจแล้วว I got it - EP.2: Bugที่มองไม่เห็น…เมื่อค่าว่างไม่ใช่ค่าว่าง | Biw Titikarn | [Read More](https://medium.com/p/6fa6894a46ac) |
-| Mon, 04 Aug 2025 16:00:04 GMT | Nonce Upon a Time: A Small Misconfiguration to Account Takeover | Rounak Dhadiwal | [Read More](https://medium.com/p/a29a6baf1d18) |
-| Mon, 04 Aug 2025 15:56:56 GMT | Why Pharmacy Law Is the Next Big Battleground in AI, Healthcare, and Government Regulation | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/479e0657bd1f) |
-| Mon, 04 Aug 2025 15:56:12 GMT | NMAP and all about it — tool guide | Ayushmohansah | [Read More](https://medium.com/p/4436d3fc08e2) |
-| Mon, 04 Aug 2025 15:54:38 GMT | Strengthening Identity and Access Management: How Rainbow Secure is Empowering Businesses | Dr. Shashi Karhail | [Read More](https://medium.com/p/789e3cf17768) |
-| Mon, 04 Aug 2025 15:51:46 GMT | Spring Boot Security with JWT: Key Classes and Interfaces | Pratikmadekar | [Read More](https://medium.com/p/25a83c2fa5ee) |
-| Mon, 04 Aug 2025 15:50:08 GMT | How to Spot and Report a Social Engineering Attack in Real Time | Tarush Sharma | [Read More](https://medium.com/p/1a0b69995900) |
-| Mon, 04 Aug 2025 15:45:40 GMT | Red Team Automation in a Box: My CALDERA Home Lab Setup | Tijan Hydara | [Read More](https://medium.com/p/6f5fb6a7beb9) |
-| Mon, 04 Aug 2025 15:40:57 GMT | “Do You Have Any Recent Certifications?” | Hachion - Online IT & Software Training | [Read More](https://medium.com/p/886f6a5601b8) |
