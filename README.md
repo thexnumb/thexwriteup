@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 19:30:56 GMT | Lazy VM-idekCTF 2025 Writeup | Mirseyid Mirzazada | [Read More](https://medium.com/p/077a8653a870) |
+| Mon, 04 Aug 2025 19:22:13 GMT | BGP Hijacking | Muhammed İkbal Yıldız | [Read More](https://medium.com/p/8cbe876c0f2d) |
+| Mon, 04 Aug 2025 19:20:56 GMT | Potential XSS Vulnerability in Acronis Login Callback URL | Monika sharma | [Read More](https://medium.com/p/db0eb8b7b0c0) |
 | Mon, 04 Aug 2025 19:20:22 GMT | The New Breed of Cyberattacks: How Companies are Evolving and How AI Is Redefining Cybersecurity | Harish Sandela | [Read More](https://medium.com/p/c848397cc747) |
 | Mon, 04 Aug 2025 19:18:45 GMT | Security Breach at The Property Ombudsman: Repeated Infrastructure Failures Ignored Despite Fraud… | Lucretia Delvaux | [Read More](https://medium.com/p/62ef8eb7155f) |
 | Mon, 04 Aug 2025 19:18:25 GMT | Kicking Off My Crowdfunding dApp with Rust — Part 1: Getting Rusty the Right Way | Bestine Okinda | [Read More](https://medium.com/p/133a79407dcc) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 15:50:08 GMT | How to Spot and Report a Social Engineering Attack in Real Time | Tarush Sharma | [Read More](https://medium.com/p/1a0b69995900) |
 | Mon, 04 Aug 2025 15:45:40 GMT | Red Team Automation in a Box: My CALDERA Home Lab Setup | Tijan Hydara | [Read More](https://medium.com/p/6f5fb6a7beb9) |
 | Mon, 04 Aug 2025 15:40:57 GMT | “Do You Have Any Recent Certifications?” | Hachion - Online IT & Software Training | [Read More](https://medium.com/p/886f6a5601b8) |
-| Mon, 04 Aug 2025 15:34:35 GMT | The Genius Behind the Prompts: How Cutting-Edge AI Techniques Map to The 19 Laws of AI Prompting… | Nikolay Gul | [Read More](https://medium.com/p/ceb69d637cfc) |
-| Mon, 04 Aug 2025 15:32:54 GMT | Your Biggest Cybersecurity Threat Isn’t All-Nighter in Kali Linux. It’s Your Average Co-Worker. | Afwan Mulia Pratama | [Read More](https://medium.com/p/056c925b0d4c) |
-| Mon, 04 Aug 2025 15:28:52 GMT | Which Linux Distro Should You Use for Hacking and Cybersecurity — and How? | Ali Ziro | [Read More](https://medium.com/p/c0acabffb6db) |
