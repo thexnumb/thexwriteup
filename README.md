@@ -12,11 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 15:45:40 GMT | Red Team Automation in a Box: My CALDERA Home Lab Setup | Tijan Hydara | [Read More](https://medium.com/p/6f5fb6a7beb9) |
+| Mon, 04 Aug 2025 15:40:57 GMT | “Do You Have Any Recent Certifications?” | Hachion - Online IT & Software Training | [Read More](https://medium.com/p/886f6a5601b8) |
+| Mon, 04 Aug 2025 15:34:35 GMT | The Genius Behind the Prompts: How Cutting-Edge AI Techniques Map to The 19 Laws of AI Prompting… | Nikolay Gul | [Read More](https://medium.com/p/ceb69d637cfc) |
+| Mon, 04 Aug 2025 15:32:54 GMT | Your Biggest Cybersecurity Threat Isn’t All-Nighter in Kali Linux. It’s Your Average Co-Worker. | Afwan Mulia Pratama | [Read More](https://medium.com/p/056c925b0d4c) |
+| Mon, 04 Aug 2025 15:28:52 GMT | Which Linux Distro Should You Use for Hacking and Cybersecurity — and How? | Ali Ziro | [Read More](https://medium.com/p/c0acabffb6db) |
+| Mon, 04 Aug 2025 15:25:34 GMT | Revival Hijacking: How Deleted PyPI Packages Become Threats | Dmitry Protsenko | [Read More](https://medium.com/p/43cf3c7fc653) |
+| Mon, 04 Aug 2025 15:24:28 GMT | Threat Modeling 101: A Developer’s Guide to Building Secure Software | Iryna Tyshchenko | [Read More](https://medium.com/p/b8bd649214bd) |
+| Mon, 04 Aug 2025 15:22:46 GMT | Find Trusted Security Guard Companies in San Francisco — Your Safety is Our Priority | Direct Guard Services | [Read More](https://medium.com/p/b3bb81894f1b) |
+| Mon, 04 Aug 2025 15:21:45 GMT | When Passwords Leak — and You Don’t Even Know | Evgeny Ermakov | [Read More](https://medium.com/p/3661dfeffb27) |
+| Mon, 04 Aug 2025 15:20:09 GMT | Server Security vs Best Practices (Which of These Snippets of Backend Configuration Would You Pick) | Clement Brian | [Read More](https://medium.com/p/448e2f483e1a) |
+| Mon, 04 Aug 2025 15:17:06 GMT | Your Phone Knows Too Much: The Creepy, Convenient, and Catastrophic Security Flaws in Emerging… | Paradise technologies Inc | [Read More](https://medium.com/p/f1879d0a6a5a) |
 | Mon, 04 Aug 2025 15:16:39 GMT | Insider Threat Detection in SOC: Analyzing Linux User Behavior | Esra Kayhan | [Read More](https://medium.com/p/040ecacd60a4) |
 | Mon, 04 Aug 2025 15:13:37 GMT | Threat and Vulnerabilities Report — July 2025 | Loginsoft | [Read More](https://medium.com/p/4d2aeacff58c) |
 | Mon, 04 Aug 2025 15:10:29 GMT | Unauthorized Privilege Escalation in Role Logic | Ahmed Mahmoud | [Read More](https://medium.com/p/5271f34e652c) |
 | Mon, 04 Aug 2025 15:07:08 GMT | National Infrastructure, Minimal Security: The Risk We’re Not Funding | James Wright | [Read More](https://medium.com/p/61e134cc55f0) |
 | Mon, 04 Aug 2025 15:06:44 GMT | VulnCMS 1 VulnHub CTF Walkthrough for Beginners | Prajwal | [Read More](https://medium.com/p/e8c3f1e544ab) |
+| Mon, 04 Aug 2025 15:06:03 GMT | bbBảo vệ thời vụ là gì? Thuê bảo vệ theo ngày ở đâu uy tín? | DaiAnGroup | [Read More](https://medium.com/p/3b1ca6cea220) |
 | Mon, 04 Aug 2025 15:00:03 GMT | Building Strong Cyber Defenses with Managed SIEM, XDR, and SOC | Vijilan | [Read More](https://medium.com/p/565df609849b) |
 | Mon, 04 Aug 2025 14:55:44 GMT | Threat Intelligence Digest — Week Ending:Aug 3, 2025[Free] | IndigoINT | [Read More](https://medium.com/p/f912e387e1c9) |
 | Mon, 04 Aug 2025 14:55:06 GMT | Smart Cities and AI: How Artificial Intelligence Is Powering Urban Innovation | Payaam Raza | [Read More](https://medium.com/p/840cb6a326dd) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 11:47:31 GMT | (Access Control) Lab: User role can be modified in user profile - 2025 | Ananda | [Read More](https://medium.com/p/b163d18ce3ee) |
 | Mon, 04 Aug 2025 11:47:09 GMT | My CEH Journey and Why It’s Way More Practical Than People Think — A Ground-Level Perspective | Reggie Menacherry | [Read More](https://medium.com/p/f2e633f72940) |
 | Mon, 04 Aug 2025 11:46:58 GMT | Why Ethical Hacking Should Be Part of Modern Education — Especially in Cities Like Kozhikode | Archanaa | [Read More](https://medium.com/p/c4bfcbda1cd9) |
-| Mon, 04 Aug 2025 11:45:58 GMT | Hack The Box Outbound Write-up and CVE-2025–49113 in Depth Explanation | Koby Garbrah | [Read More](https://medium.com/p/40b9ceb9064a) |
-| Mon, 04 Aug 2025 11:40:30 GMT | MetaSpace Bug Bounty — Secure the Galaxy ️ | METASPACE | [Read More](https://medium.com/p/af5b77ce02a3) |
-| Mon, 04 Aug 2025 11:34:42 GMT | From Reactive Audits to Autonomous Assurance | Above The Firewall | [Read More](https://medium.com/p/b56ed3bb794f) |
-| Mon, 04 Aug 2025 11:32:38 GMT | Day 60: Develop Your GRC Roadmap and Portfolio | Brittney Ginther | [Read More](https://medium.com/p/b157187e0747) |
-| Mon, 04 Aug 2025 11:29:28 GMT | (Access Control) Lab: User role controlled by request parameter - 2025 | Ananda | [Read More](https://medium.com/p/94f8cd63b14a) |
-| Mon, 04 Aug 2025 11:27:44 GMT | Empowering Businesses with Custom Software Development — Concentics Pvt. | Concentics Private Limited | [Read More](https://medium.com/p/08172648c268) |
-| Mon, 04 Aug 2025 11:25:07 GMT | ️‍♂️ How I Bypassed the “Admin” Name Filter on example.target.com with a Unicode Homoglyph | Aman Bhuiyan | [Read More](https://medium.com/p/ef653a59da5b) |
-| Mon, 04 Aug 2025 11:19:49 GMT | How to Choose the Best Cybersecurity Graduate Program for Your Goals | Tanisha Singh | [Read More](https://medium.com/p/59469d06eb6d) |
-| Mon, 04 Aug 2025 11:15:08 GMT | What Are The Top 5 Middleware Software | Cannyfore Technology Solutions Pvt Ltd | [Read More](https://medium.com/p/ed03cc0e6874) |
-| Mon, 04 Aug 2025 11:14:46 GMT | 09164131429 | شماره خاله #شماره خاله #خاله شیراز #خاله اصفهان | [Read More](https://medium.com/p/9f07fad1ac3e) |
-| Mon, 04 Aug 2025 11:13:54 GMT | Modern ReactJS Security Guide: Updated Best Practices for 2025 (with Code Examples) | Elif Karadağ | [Read More](https://medium.com/p/31f1a9faca08) |
-| Mon, 04 Aug 2025 11:13:03 GMT | Nursing, IT, or Trade? Best PR Courses in Sydney Based on Job Demand in 2025 | GroWsmart Education & Migration | [Read More](https://medium.com/p/669b3a95699a) |
