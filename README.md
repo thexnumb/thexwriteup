@@ -12,6 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 12:45:22 GMT | Shodan.io, often dubbed the "search engine for hackers," is a powerful and unique tool that maps… | Yousaffffyyy | [Read More](https://medium.com/p/268fdeeb3fc7) |
+| Mon, 04 Aug 2025 12:43:31 GMT | From PNG to XSS: How I Tricked a Web App Into Executing My Payload | Mohamed Rashith S | [Read More](https://medium.com/p/c66f5a990195) |
+| Mon, 04 Aug 2025 12:40:05 GMT | No One Prepares You for the Silence After a Breakdown | Dhruvdeep Singh | [Read More](https://medium.com/p/d51a9c60f07d) |
+| Mon, 04 Aug 2025 12:38:36 GMT | How can Enterprises Transfer Egnyte to Microsoft 365? | Arun Jyothi | [Read More](https://medium.com/p/11854464e435) |
+| Mon, 04 Aug 2025 12:38:03 GMT | Confluence Takeover: How a Simple Support Email Gave Me Full Wiki Access | Vikash Maurya | [Read More](https://medium.com/p/a9ac7c27fa31) |
+| Mon, 04 Aug 2025 12:36:53 GMT | ASCWG CTF 2025 Qualifications — Web Challenge Official Solution: Redirect Havoc | Mostafa Khalifa | [Read More](https://medium.com/p/705071177a4d) |
+| Mon, 04 Aug 2025 12:32:59 GMT | Why IACS UR E26 Falls Short of True Maritime Cyber Resilience | Tony Shin | [Read More](https://medium.com/p/33389da1ae6b) |
+| Mon, 04 Aug 2025 12:32:57 GMT | The #1 Beginner mistake in any CTF and how to never make it again | Niklas Heringer | [Read More](https://medium.com/p/2af25968c804) |
+| Mon, 04 Aug 2025 12:32:35 GMT | Without Email, Password, or OTP, I managed to access an account by exploiting a token stored in… | Ria Sarkar | [Read More](https://medium.com/p/ef1868160c69) |
+| Mon, 04 Aug 2025 12:30:14 GMT | Starting SOC Level 2 Journey: A Friendly Dive into Log Analysis | Furkanctiner | [Read More](https://medium.com/p/8e4b24f1a5ba) |
+| Mon, 04 Aug 2025 12:30:11 GMT | How is AI revolutionizing traditional cybersecurity protocols? | sanya | [Read More](https://medium.com/p/f659e5ec9e87) |
+| Mon, 04 Aug 2025 12:26:25 GMT | Over 16 Billion Passwords Leaked in 2025 — Is Your Business at Risk? | Technijian | [Read More](https://medium.com/p/6b6b9d63719e) |
+| Mon, 04 Aug 2025 12:26:06 GMT | QSafe Wallet Hits 10K Installs — Here’s Why Web3 Users Are Choosing Security That Works. | Bright Mmaduabuchi | [Read More](https://medium.com/p/91053bfe549f) |
+| Mon, 04 Aug 2025 12:22:28 GMT | Are Hybrid SOC Services worth the investment? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/0769c8f8e6c1) |
+| Mon, 04 Aug 2025 12:21:17 GMT | The One Cybersecurity Mistake Almost Everyone Makes (And How Hackers Use It Against You) | H3X | [Read More](https://medium.com/p/d34d8b999285) |
+| Mon, 04 Aug 2025 12:19:59 GMT | Source of Competitive intelligence | Ashraf Emon | [Read More](https://medium.com/p/6795cf8c2554) |
+| Mon, 04 Aug 2025 12:19:56 GMT | SOC 2 for AI Startups: What Regulators Watch And How to Stay Compliant | SecureSlate | [Read More](https://medium.com/p/c494a36c6005) |
+| Mon, 04 Aug 2025 12:17:23 GMT | IACS UR E26: Cyber Resilience Standard Reshaping Maritime Industry | Tony Shin | [Read More](https://medium.com/p/a61f9754ea05) |
+| Mon, 04 Aug 2025 12:13:27 GMT | When Hardware Becomes the Last Line of Defense | Tenzro | [Read More](https://medium.com/p/0b31d8c4a9e5) |
+| Mon, 04 Aug 2025 12:10:38 GMT | Must-Have Qualities to Look For in a Professional Traffic Marshal Service | Jane Tang | [Read More](https://medium.com/p/2242171c7844) |
+| Mon, 04 Aug 2025 12:09:30 GMT | I Wrote My Darkest Story at 3 AM and It Changed Everything | Girish Dhamane | [Read More](https://medium.com/p/897085f9a287) |
+| Mon, 04 Aug 2025 12:08:30 GMT | Ethical Hacking Practical Course in Delhi | Crawsec | [Read More](https://medium.com/p/1b02083cd5fb) |
+| Mon, 04 Aug 2025 12:06:31 GMT | “Blue” Room — Penetration Testing | Shourya Pratap Singh | [Read More](https://medium.com/p/a6efe282e339) |
+| Mon, 04 Aug 2025 12:03:38 GMT | What Are Security Solutions in Singapore, and Why Do You Need Them? | Jane Tang | [Read More](https://medium.com/p/c7b33f31562c) |
+| Mon, 04 Aug 2025 11:54:05 GMT | Subdomain Recon Playbook 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/cc768950dd74) |
+| Mon, 04 Aug 2025 11:50:39 GMT | The Masks We Wear: Why We Lie to the World About Who We Are | Vishnulal | [Read More](https://medium.com/p/c257567d73d6) |
+| Mon, 04 Aug 2025 11:47:31 GMT | (Access Control) Lab: User role can be modified in user profile - 2025 | Ananda | [Read More](https://medium.com/p/b163d18ce3ee) |
+| Mon, 04 Aug 2025 11:47:09 GMT | My CEH Journey and Why It’s Way More Practical Than People Think — A Ground-Level Perspective | Reggie Menacherry | [Read More](https://medium.com/p/f2e633f72940) |
+| Mon, 04 Aug 2025 11:46:58 GMT | Why Ethical Hacking Should Be Part of Modern Education — Especially in Cities Like Kozhikode | Archanaa | [Read More](https://medium.com/p/c4bfcbda1cd9) |
+| Mon, 04 Aug 2025 11:45:58 GMT | Hack The Box Outbound Write-up and CVE-2025–49113 in Depth Explanation | Koby Garbrah | [Read More](https://medium.com/p/40b9ceb9064a) |
 | Mon, 04 Aug 2025 11:40:30 GMT | MetaSpace Bug Bounty — Secure the Galaxy ️ | METASPACE | [Read More](https://medium.com/p/af5b77ce02a3) |
 | Mon, 04 Aug 2025 11:34:42 GMT | From Reactive Audits to Autonomous Assurance | Above The Firewall | [Read More](https://medium.com/p/b56ed3bb794f) |
 | Mon, 04 Aug 2025 11:32:38 GMT | Day 60: Develop Your GRC Roadmap and Portfolio | Brittney Ginther | [Read More](https://medium.com/p/b157187e0747) |
@@ -82,33 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 08:24:54 GMT | MDM Software: A Beginner’s Quick Guide | Vantage MDM | [Read More](https://medium.com/p/64dd32dff2e6) |
 | Mon, 04 Aug 2025 08:13:02 GMT | Linux Hardening: A Strategic Guide to Securing Your System | Mohamed Gebril | [Read More](https://medium.com/p/ff942308f51e) |
 | Mon, 04 Aug 2025 08:11:22 GMT | SSRF with filter bypass via open redirection vulnerability — PortSwigger Walkthroug | Amr Elharery | [Read More](https://medium.com/p/a5e5c86344fd) |
-| Mon, 04 Aug 2025 08:07:00 GMT | The Rise of Cybersecurity Across Asia-Pacific: A Regional View on Service Providers, Risk, and… | QualysecEurope | [Read More](https://medium.com/p/773cbb7a2689) |
-| Mon, 04 Aug 2025 08:05:53 GMT | Making Security Simple Everyday & Everywhere — My Journey Start Here! | Tegar Bayu Pratama | [Read More](https://medium.com/p/b49cc66a4c46) |
-| Mon, 04 Aug 2025 08:05:47 GMT | Catch_Me_If_You_Can - CyberTalents challenge writeup | Youssef | [Read More](https://medium.com/p/c02c3cedeb11) |
-| Mon, 04 Aug 2025 08:00:30 GMT | Can AI Be Emotionally Dumb but Ethically Smart? | Yash Gorasiya | [Read More](https://medium.com/p/379868372846) |
-| Mon, 04 Aug 2025 07:58:58 GMT | The Business Benefits of PCI DSS Compliance Beyond Security | eSecForte Technologies | [Read More](https://medium.com/p/818ed689961b) |
-| Mon, 04 Aug 2025 07:50:13 GMT | 52 Small Business Cyber Attack Statistics for 2025 — Europe | David Miller | [Read More](https://medium.com/p/46d1d109ecf0) |
-| Mon, 04 Aug 2025 07:46:50 GMT | Decoding the Digital Fortress: Security Specifics | Cyber Security Research | [Read More](https://medium.com/p/f239fca77eb0) |
-| Mon, 04 Aug 2025 07:46:23 GMT | Critical RCE Flaw in Apache ActiveMQ via Jolokia Interface (CVE-2022–41678) | AerieWhole123 | [Read More](https://medium.com/p/327082be385c) |
-| Mon, 04 Aug 2025 07:45:29 GMT | Untangling the Web: A Cyber Security Deep Dive | Cyber Security Research | [Read More](https://medium.com/p/5b77fdef3c52) |
-| Mon, 04 Aug 2025 07:32:29 GMT | Get Ahead of Security Risks with a Smart ISO 27001 Risk Assessment by Axipro | Axipro | [Read More](https://medium.com/p/ca05221e23a0) |
-| Mon, 04 Aug 2025 07:31:06 GMT | Are you learning IT courses Wrong? Check our course.. | Shailesh Baral | [Read More](https://medium.com/p/4e08204f393e) |
-| Mon, 04 Aug 2025 07:29:57 GMT | sionHome Security Cameras in India. | Meghaharmedia | [Read More](https://medium.com/p/a03d580a83ad) |
-| Mon, 04 Aug 2025 07:26:18 GMT | Top 5 Must-Have Elite OS’es For Hackers/Bug Bounty Hunters. | NnFace | [Read More](https://medium.com/p/f63138454cad) |
-| Mon, 04 Aug 2025 07:25:43 GMT | Why Most North American Small Businesses Are Invisible on Google — and How to Fix It Fast | WeFive | [Read More](https://medium.com/p/a86ab9eafa32) |
-| Mon, 04 Aug 2025 07:25:14 GMT | What does a Cybersecurity Analyst do in a company? | mohammed mubashir | [Read More](https://medium.com/p/536ef2b1c99e) |
-| Mon, 04 Aug 2025 07:21:27 GMT | SocGholish Intrusion Set & RansomHub Deployment | Janardhan Pattipati | [Read More](https://medium.com/p/334ff6372e06) |
-| Mon, 04 Aug 2025 07:19:05 GMT | Why Gen Z Is Meming World War III, And What It Reveals About AI, Cybersecurity, and Digital Power | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/407683724d0d) |
-| Mon, 04 Aug 2025 07:17:00 GMT | Chain Up Bugs — Web Application | Sakib Haque Zisan | [Read More](https://medium.com/p/8a0b1d148e5b) |
-| Mon, 04 Aug 2025 07:14:35 GMT | SafeLine vs. Barracuda WAF: Which One Fits Your Security Needs? | AerieWhole123 | [Read More](https://medium.com/p/efa25416340b) |
-| Mon, 04 Aug 2025 07:12:04 GMT | DNS Cache Poisoning — Is It Still Relevant? | Netlas.io | [Read More](https://medium.com/p/93c4369938b4) |
-| Mon, 04 Aug 2025 07:11:37 GMT | CoCSRF with broken Referer validation — PortSwigger Walkthrough | Amr Elharery | [Read More](https://medium.com/p/8d896b716be8) |
-| Mon, 04 Aug 2025 07:10:04 GMT | The Kind of Hug That Could Save Me | Khushi Singh࿐ | [Read More](https://medium.com/p/329fd64b7080) |
-| Mon, 04 Aug 2025 07:02:40 GMT | ARP Spoofing — The Computer Networking Behind It and a Mitigation Strategy | Martin Yordanov | [Read More](https://medium.com/p/87abce337a36) |
-| Mon, 04 Aug 2025 07:00:49 GMT | Traffic to Blacklisted IP | ahmed abdulaziz | [Read More](https://medium.com/p/00e7a138037b) |
-| Mon, 04 Aug 2025 06:59:26 GMT | Troubleshooting MTP | lukewago | [Read More](https://medium.com/p/f3fe4fde2fe4) |
-| Mon, 04 Aug 2025 06:59:24 GMT | Burp Suite + MITM + VPN = Full Traffic Hijack for Analysis | Paritosh | [Read More](https://medium.com/p/25c7a2390e16) |
-| Mon, 04 Aug 2025 06:58:29 GMT | Quantum-as-a-Service Is Here — And Your Current Cloud Security Won’t Survive It | CloudweldOps | [Read More](https://medium.com/p/111e34ee141b) |
-| Mon, 04 Aug 2025 06:49:40 GMT | 5 Full Stack Development Companies Redefining Digital Transformation | Johnbutcher | [Read More](https://medium.com/p/fad31c1c4445) |
-| Mon, 04 Aug 2025 06:48:54 GMT | The Poisoned Pipeline: Exploiting CI/CD Secrets Without Accessing the Code | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f6a1aa32b67f) |
-| Mon, 04 Aug 2025 06:46:01 GMT | Bypass Like a Boss: Burp Suite Tricks to Defeat WAFs & Filters | Paritosh | [Read More](https://medium.com/p/a131c966663b) |
