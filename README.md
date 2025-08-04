@@ -12,11 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 18:28:46 GMT | Automate Subdomain Discovery with Amass | Mayank Kumar Prajapati | [Read More](https://medium.com/p/57c3c665df61) |
+| Mon, 04 Aug 2025 18:28:24 GMT | How I Built a Complete SOC Home Lab from Scratch | TraceX0 | [Read More](https://medium.com/p/66877555336b) |
+| Mon, 04 Aug 2025 18:26:03 GMT | howHow to Fix Packet Loss: A Simple Guide to Smoother Internet Performance | SafeAeon Inc. | [Read More](https://medium.com/p/0b8d1f66945c) |
+| Mon, 04 Aug 2025 18:19:03 GMT | Chapter 2: TCP/IP Essentials | Thexnumb | [Read More](https://medium.com/p/a6b5b97e60e3) |
+| Mon, 04 Aug 2025 18:10:18 GMT | Crypto Investigations 101: Understanding the Difference Between Private Keys and Seed Phrases | Aleon akibo | [Read More](https://medium.com/p/154e6fbd2e38) |
+| Mon, 04 Aug 2025 18:08:31 GMT | The Secret Within the Treasury Code: Secure Code Analysis (Part 1) | Sevban Dönmez | [Read More](https://medium.com/p/183c2fa7004a) |
+| Mon, 04 Aug 2025 18:07:31 GMT | Linux Command Line Interface (CLI) — Part 9: Linux file system, Directory Structure & File Metadata | Bharath | [Read More](https://medium.com/p/b607c68e135f) |
+| Mon, 04 Aug 2025 18:07:16 GMT | Securing Applications with Advanced NextAuth.js Techniques | @rnab | [Read More](https://medium.com/p/af6f0024e84e) |
+| Mon, 04 Aug 2025 18:07:14 GMT | https://wa.me/923282105224 | john well | [Read More](https://medium.com/p/b655b232c30f) |
+| Mon, 04 Aug 2025 18:00:23 GMT | Best Spy App Qustodio Review: Worth It for Parental Control? | Narjis Batool | [Read More](https://medium.com/p/a96c5faa9845) |
+| Mon, 04 Aug 2025 17:59:13 GMT | The Mirror of Leadership: Why Self-Reflection is a Vulnerable Act | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/db8e17fc1b27) |
+| Mon, 04 Aug 2025 17:58:58 GMT | Pi-Fi Hacking: Capturing WPA Handshake | Girishatindra | [Read More](https://medium.com/p/5d2787d0b7d0) |
+| Mon, 04 Aug 2025 17:53:11 GMT | Part 2: Backend Bouncer Unleashed — Node.js, Multer & Saying ‘Nope!’ to Nasty Files | Krishnamani | [Read More](https://medium.com/p/d0e78b7df00b) |
+| Mon, 04 Aug 2025 17:48:41 GMT | Still Tangled, But Less So (or “how to write a blog when you have no idea what to write about”) | Adam Ryan | [Read More](https://medium.com/p/a8c4038400fe) |
 | Mon, 04 Aug 2025 17:47:26 GMT | When Every Alert Feels Urgent: How I Navigate Noise in the SOC | Saumya Shree | [Read More](https://medium.com/p/d721eafaa945) |
 | Mon, 04 Aug 2025 17:43:55 GMT | Automating Recon Like a Pro: Auto-Recon-suite | Walaa Baidaq | [Read More](https://medium.com/p/23531660f602) |
 | Mon, 04 Aug 2025 17:41:00 GMT | Portswigger Path Traversal Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/e28541cf8134) |
 | Mon, 04 Aug 2025 17:38:53 GMT | How to File a Cybercrime Complaint in India Explained | NIkhil Kumar | [Read More](https://medium.com/p/269a6d3eb498) |
 | Mon, 04 Aug 2025 17:38:08 GMT | Cybersecurity Student Success Stories: Inspiring Journeys to Digital Defense | Hack Behind The Mask | [Read More](https://medium.com/p/03e51470c540) |
+| Mon, 04 Aug 2025 17:37:32 GMT | Mastering Rate Limiting in Laravel 12: A Developer’s Guide | Sadique Ali | [Read More](https://medium.com/p/1b4f4bae2d5f) |
 | Mon, 04 Aug 2025 17:35:12 GMT | Full LFI-to-RCE via Apache Access Logs | Zoningxtr | [Read More](https://medium.com/p/e521ec06ec1a) |
 | Mon, 04 Aug 2025 17:34:17 GMT | Full Guide: From LFI to RCE via /var/log/apache2/error.log | Zoningxtr | [Read More](https://medium.com/p/0f364049b107) |
 | Mon, 04 Aug 2025 17:33:47 GMT | From LFI to RCE via /var/log/sshd.log | Zoningxtr | [Read More](https://medium.com/p/1cd81cd318ef) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 14:55:44 GMT | Threat Intelligence Digest — Week Ending:Aug 3, 2025[Free] | IndigoINT | [Read More](https://medium.com/p/f912e387e1c9) |
 | Mon, 04 Aug 2025 14:55:06 GMT | Smart Cities and AI: How Artificial Intelligence Is Powering Urban Innovation | Payaam Raza | [Read More](https://medium.com/p/840cb6a326dd) |
 | Mon, 04 Aug 2025 14:54:53 GMT | TryHackMe: Blue Room — Complete Walkthrough & Experience | Vikash Yadav | [Read More](https://medium.com/p/462d691c1055) |
-| Mon, 04 Aug 2025 14:52:58 GMT | The Future of the Vulnerability Researcher: A New Frontier Between Automation and Creativity | Sevban Dönmez | [Read More](https://medium.com/p/3e744920d456) |
-| Mon, 04 Aug 2025 14:47:17 GMT | DockerLabs Writeup — Grandma (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/618f9d58a65e) |
-| Mon, 04 Aug 2025 14:44:13 GMT | ASCWG Qualifications 2025 CTF Digital Forensics challenges Writeup | 0xZew | [Read More](https://medium.com/p/c60ea13e902a) |
-| Mon, 04 Aug 2025 14:38:55 GMT | How I hacked Income Tax Portal Pt. 2 | Adwait Gawade | [Read More](https://medium.com/p/b1d1a66c9639) |
-| Mon, 04 Aug 2025 14:38:27 GMT | Cybersecurity Details: The Art of Prevention | Cyber Security Research | [Read More](https://medium.com/p/e7cb4f57a2db) |
-| Mon, 04 Aug 2025 14:37:56 GMT | Hi Researcher! | Bugcrowd | [Read More](https://medium.com/p/d57ddfa29ddd) |
-| Mon, 04 Aug 2025 14:37:30 GMT | Cybersecurity RSS | Alex (KishinInfosec) | [Read More](https://medium.com/p/ff680e46352b) |
-| Mon, 04 Aug 2025 14:36:34 GMT | The Hacker’s Mindset: Understanding Security Details | Cyber Security Research | [Read More](https://medium.com/p/bf94bcc9d897) |
-| Mon, 04 Aug 2025 14:35:20 GMT | SOC 2 Type I for Startups: Lessons From the Trenches | Berk Yanadur | [Read More](https://medium.com/p/be0acb419f09) |
-| Mon, 04 Aug 2025 14:34:35 GMT | Zero Trust & Beyond: Advanced Security Details | Cyber Security Research | [Read More](https://medium.com/p/8ce90b57cd02) |
-| Mon, 04 Aug 2025 14:33:58 GMT | SOCFortres5: Apple Patches Critical Safari Vulnerability Also Exploited as Zero-Day in Google… | Darshan | [Read More](https://medium.com/p/d5270a32f08a) |
-| Mon, 04 Aug 2025 14:33:05 GMT | ️ What is SecOps ?? | Jyotin Rustagi | [Read More](https://medium.com/p/7d4ca91ac59f) |
-| Mon, 04 Aug 2025 14:32:35 GMT | Inside the Security Operations Center | Cyber Security Research | [Read More](https://medium.com/p/acc5cdf32504) |
-| Mon, 04 Aug 2025 14:31:46 GMT | SOCFortres5: Researchers Exploit Critical 0-Day in Google kernelCTF and Debian 12 Linux Kernels | Darshan | [Read More](https://medium.com/p/04571a708cc7) |
-| Mon, 04 Aug 2025 14:30:44 GMT | The Algorithmic Armor: Cybersecurity Details Revealed | Cyber Security Research | [Read More](https://medium.com/p/9aa18c109d8a) |
