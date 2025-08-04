@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 21:32:08 GMT | The BTL1 Exam, and Course Survival Guide… Or how I passed with 100%, and got my gold coin, and how… | Seccult | [Read More](https://medium.com/p/b7ce92221db3) |
+| Mon, 04 Aug 2025 21:19:04 GMT | Western Techniques | Norman Meg | [Read More](https://medium.com/p/3d7786395080) |
 | Mon, 04 Aug 2025 21:16:27 GMT | Security Vulnerability Assessment Report: educrate.space | Pulkit Rai | [Read More](https://medium.com/p/f716197d86c2) |
 | Mon, 04 Aug 2025 21:11:03 GMT | The Future of Artificial Intelligence: What the Next 5 Years Might Bring | Rehman Rehman | [Read More](https://medium.com/p/50c3e3519b2f) |
 | Mon, 04 Aug 2025 21:02:48 GMT | Blog 5: Mastering Port Discovery—Scanning Open Services with Nmap with Wireshark Analysis. | Ar-jay A. Ballaco | [Read More](https://medium.com/p/1df382e43913) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 16:29:04 GMT | The Chaos of the SIEM Consolidation Proves One Size Doesn’t Fit All | Graylog | [Read More](https://medium.com/p/fbceecf2a781) |
 | Mon, 04 Aug 2025 16:25:41 GMT | The Digital Gumshoe: How AI is Becoming Cybersecurity’s New Best Friend | CapitalCoin | [Read More](https://medium.com/p/487ce1a78071) |
 | Mon, 04 Aug 2025 16:21:50 GMT | My Cyber Journey: From Loops to Linux Practice | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/30e5446a72a1) |
-| Mon, 04 Aug 2025 16:21:44 GMT | TryHackMe Writeup✍: Snort | Zohal | [Read More](https://medium.com/p/eacc45c922ea) |
-| Mon, 04 Aug 2025 16:21:32 GMT | “Is This Healthy?”: When Self-Care Becomes Surveillance and Cybersecurity Becomes Medicine | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/5e2175ceb7b9) |
