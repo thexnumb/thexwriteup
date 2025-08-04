@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 06:49:40 GMT | 5 Full Stack Development Companies Redefining Digital Transformation | Johnbutcher | [Read More](https://medium.com/p/fad31c1c4445) |
+| Mon, 04 Aug 2025 06:46:01 GMT | Bypass Like a Boss: Burp Suite Tricks to Defeat WAFs & Filters | Paritosh | [Read More](https://medium.com/p/a131c966663b) |
+| Mon, 04 Aug 2025 06:40:57 GMT | Hack The Box: Active Walkthrough | packetsniper | [Read More](https://medium.com/p/737305c29d27) |
+| Mon, 04 Aug 2025 06:39:55 GMT | Why Data Sourcing Is the Core Challenge Across Industries ? | Raonejalagandeswaran | [Read More](https://medium.com/p/8c3e0def5a16) |
+| Mon, 04 Aug 2025 06:39:28 GMT | Compliance Automation Strategies to Future-Proof Your Enterprise | Sophia Nellon | [Read More](https://medium.com/p/600002cde1b1) |
+| Mon, 04 Aug 2025 06:35:50 GMT | Facing the Camera: Learning to Be Seen | memory$gospel | [Read More](https://medium.com/p/1c92bec47016) |
+| Mon, 04 Aug 2025 06:35:29 GMT | IT vs. AI: A Transforming Landscape and the Future of Work | Bikash Peeripaul | [Read More](https://medium.com/p/bec8e52d8c5b) |
+| Mon, 04 Aug 2025 06:27:24 GMT | Security in the Age of AI: Building Fast, Building SafeLaying the Foundation for AI-Ready… | Babar saad | [Read More](https://medium.com/p/88fd53e46f45) |
+| Mon, 04 Aug 2025 06:25:59 GMT | Cyber Security Highlights — July | Rue | [Read More](https://medium.com/p/981c8cbf7716) |
+| Mon, 04 Aug 2025 06:24:14 GMT | Part 10 : Mastering Network Management and Troubleshooting: A Comprehensive Guide | White Panther | [Read More](https://medium.com/p/ae2e0cdcf945) |
+| Mon, 04 Aug 2025 06:20:49 GMT | ️ Web3 Security Weekly — July 28 — Aug 3, 2025 | Null Return | [Read More](https://medium.com/p/eb91fb9dd3fe) |
+| Mon, 04 Aug 2025 06:19:21 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/c3e38243aa53) |
+| Mon, 04 Aug 2025 06:12:47 GMT | TryHackMe — Blue Room Walkthrough (Difficulty: Easy) | Ruposhree B. | [Read More](https://medium.com/p/9b0ebe14e1d6) |
+| Mon, 04 Aug 2025 06:10:18 GMT | Farkımız Ne? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/70f8abdf231c) |
+| Mon, 04 Aug 2025 06:09:24 GMT | Understanding IDOR (Insecure Direct Object Reference) — With a Real-Life Style Example | Kai Thorne | [Read More](https://medium.com/p/ad03c20c99b6) |
+| Mon, 04 Aug 2025 06:06:13 GMT | VMvare Üzerinde Windows Server Kurulumu | Ömer POLAT | [Read More](https://medium.com/p/fc55041e571f) |
+| Mon, 04 Aug 2025 06:01:43 GMT | From SQLi to Java RCE: Exploiting H2 with Multipart Payloads (HTB Challenge Walkthrough) | Ahmadhossam | [Read More](https://medium.com/p/aa26cecd057d) |
+| Mon, 04 Aug 2025 05:59:48 GMT | Helping businesses become more efficient with reliable solutions for IT in Riyadh as well Across… | Tekshoyabeelyas | [Read More](https://medium.com/p/74a45d89a501) |
+| Mon, 04 Aug 2025 05:57:11 GMT | DAY 1 Recon: Manual Reconnaissance: How I Explore Targets Like a Hacker (But With Good Intentions) | Ayush Kumar | [Read More](https://medium.com/p/04b61864d1ea) |
 | Mon, 04 Aug 2025 05:56:23 GMT | Google dorking/Hacking | Yeshwanth P | [Read More](https://medium.com/p/b4251a8b7a8f) |
 | Mon, 04 Aug 2025 05:53:50 GMT | Beyond Basics: 6 Python Libraries That Teach You More Than Just Code | Babar saad | [Read More](https://medium.com/p/a3e25ee46333) |
 | Mon, 04 Aug 2025 05:53:22 GMT | ⚔️ Burp Suite x AI: The Ultimate Payload Chaining Recon Engine | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ac2af4c19c98) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 22:54:07 GMT | TryHackMe Pre Security 101 — OSI Model | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/f68dac02ddcf) |
 | Sun, 03 Aug 2025 22:53:23 GMT | TryHackMe Pre Security 101 — Intro to LAN | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/4fc621b23133) |
 | Sun, 03 Aug 2025 22:31:01 GMT | MOUNTAINEER WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/fd75b5e8eb38) |
-| Sun, 03 Aug 2025 22:17:40 GMT | Rebels With A Cause: A Road to Nowhere? | Grant Krasner | [Read More](https://medium.com/p/25bf11c815fb) |
-| Sun, 03 Aug 2025 22:16:43 GMT | This Simple Recon Trick Exposed 100+ Hidden Vulnerabilities | Ibtissam hammadi | [Read More](https://medium.com/p/570f75a59df7) |
-| Sun, 03 Aug 2025 22:06:12 GMT | Digital Forensics 101: A Beginner’s Guide to Cyber Crime Investigation | i4m_x | [Read More](https://medium.com/p/a6404ae87efe) |
-| Sun, 03 Aug 2025 22:04:28 GMT | When Networking Became a Game of Choices | Gitika Babbar | [Read More](https://medium.com/p/8da6291a9af9) |
-| Sun, 03 Aug 2025 21:51:57 GMT | AI vs. Hospitals: What’s Really Happening and How to Stay Ahead | Sourabhrajgole | [Read More](https://medium.com/p/040ca7d65675) |
-| Sun, 03 Aug 2025 21:09:53 GMT | HOW TO CHOOSE THE BEST CRYPTO COINS TO INVEST IN. | Insurance Investment Management | [Read More](https://medium.com/p/4701fc4dcae0) |
-| Sun, 03 Aug 2025 21:06:18 GMT | Zero to Hero in Scanning & Enumeration: Sinhala-English Beginner’s Guide | Ruwan Sanjeewa | [Read More](https://medium.com/p/b25994878919) |
-| Sun, 03 Aug 2025 21:05:23 GMT | Letsdefend-Splunk (Part 1) | Şervan Alkan | [Read More](https://medium.com/p/ab00763e4d1f) |
-| Sun, 03 Aug 2025 21:05:22 GMT | “Your Phone’s Not Listening — It’s Just Smarter Than You Think” | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/21a30cccec5d) |
-| Sun, 03 Aug 2025 21:04:02 GMT | Going Pro: Cybersecurity for the Modern Business | Ahmed Zouhair | [Read More](https://medium.com/p/16f899fad293) |
-| Sun, 03 Aug 2025 20:58:00 GMT | Mastering Suricata: From Setup to Advanced Threat Detection | Mohamed Basil | [Read More](https://medium.com/p/4ec1cdb9dec1) |
-| Sun, 03 Aug 2025 20:52:08 GMT | Adım Adım Active Directory Kurulumu ve Domain Ortamı Oluşturma | İbrahim Birkan Öztürk | [Read More](https://medium.com/p/1516daf8f5b9) |
-| Sun, 03 Aug 2025 20:50:00 GMT | Drosera Traps | Gen. Dave | [Read More](https://medium.com/p/76bae1378a46) |
-| Sun, 03 Aug 2025 20:49:58 GMT | Wearing Armor to Feel Safe but Dying Inside | Nimraiftikhar | [Read More](https://medium.com/p/2a7a7403708f) |
-| Sun, 03 Aug 2025 20:43:58 GMT | WHAT IS THE BEST CRYPTOCURRENCY OF THE YEAR? | Insurance Investment Management | [Read More](https://medium.com/p/d1517d77768f) |
-| Sun, 03 Aug 2025 20:34:08 GMT | “Has My Computer Been Hacked?” | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/3e53a6963276) |
-| Sun, 03 Aug 2025 20:31:16 GMT | K8s: Deploy a Monitoring Agent with a Restricted Pod Security Standard | W. Jenks Gibbons | [Read More](https://medium.com/p/8ecc4ef5165f) |
-| Sun, 03 Aug 2025 20:29:19 GMT | Day 70: Questions that I used to ask myself | Nile Okomo | [Read More](https://medium.com/p/a5fac54a8327) |
-| Sun, 03 Aug 2025 20:27:04 GMT | Application Layer Attacks: The Silent Killer of Modern Apps | Siddiquimohammad | [Read More](https://medium.com/p/07b067569e4d) |
