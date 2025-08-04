@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 14:09:36 GMT | In Web3, security often feels like an afterthought — a post-mortem discussion after funds vanish. | Ebuka Eze | [Read More](https://medium.com/p/87680522eb75) |
+| Mon, 04 Aug 2025 14:07:10 GMT | Shell Secrets Part 3: History, Shortcuts & Search Like a Pro | MayhemCode | [Read More](https://medium.com/p/33c404079d5e) |
+| Mon, 04 Aug 2025 14:04:59 GMT | The Script “I Believed” In | •┈ | [Read More](https://medium.com/p/c39a0a969356) |
+| Mon, 04 Aug 2025 14:02:51 GMT | Cyber Briefing: 2025.08.04 | CyberMaterial | [Read More](https://medium.com/p/a9a99f4f7a6a) |
+| Mon, 04 Aug 2025 14:02:10 GMT | Securing GKE Clusters with OPA & Sentinel | Rajesh Nadiminti | [Read More](https://medium.com/p/2d1f675049b6) |
+| Mon, 04 Aug 2025 14:01:57 GMT | DNS Proxy for C2 Servers | umbraXsecure | [Read More](https://medium.com/p/c1a3f2cf4944) |
+| Mon, 04 Aug 2025 14:01:51 GMT | 7 Practical Ways to Start Taking Cybersecurity Seriously (Without Getting Overwhelmed) | Dhruvdeep Singh | [Read More](https://medium.com/p/aaae6e71cbed) |
+| Mon, 04 Aug 2025 14:00:42 GMT | 0903.968.9679 | شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس | [Read More](https://medium.com/p/4d9ff3a77e9c) |
+| Mon, 04 Aug 2025 13:54:14 GMT | The IT Guy Who Knew Too Much: Why Insiders Are the Most Dangerous Threat | Travis Ray Caverhill | [Read More](https://medium.com/p/1ebbefadefd2) |
+| Mon, 04 Aug 2025 13:54:00 GMT | Why Traditional AI Defense is Failing Against Modern Threats | Eric Zietlow | [Read More](https://medium.com/p/69fd5aea1bac) |
+| Mon, 04 Aug 2025 13:53:07 GMT | Feeling Safe Enough to Receive Love | Blaze | [Read More](https://medium.com/p/34a6cc211b3a) |
+| Mon, 04 Aug 2025 13:52:54 GMT | The Hidden Reality of Internet Censorship: How It Shapes What You See Online | Atlas News | [Read More](https://medium.com/p/00d35d5b6441) |
+| Mon, 04 Aug 2025 13:52:04 GMT | You Might Not Be Bad at Trust. You Just Haven’t Felt Safe | Bhavana Lakhinena | [Read More](https://medium.com/p/0b127de2a257) |
+| Mon, 04 Aug 2025 13:44:56 GMT | From Pentester to Tool Developer: How AI Broke Down the Coding Barrier in Cybersecurity | Max Muxammil | [Read More](https://medium.com/p/097de7388a06) |
+| Mon, 04 Aug 2025 13:43:35 GMT | SOC (Security Operations Center) | Nupelda Kandemir | [Read More](https://medium.com/p/375a5956bab4) |
+| Mon, 04 Aug 2025 13:43:11 GMT | I Got Scammed in Crypto — Here’s What I Learned (and How I Help Others) | CryptoScamSurvivor | [Read More](https://medium.com/p/f798bd933856) |
 | Mon, 04 Aug 2025 13:36:43 GMT | CurXecute Vulnerability in Cursor IDE: A Wake-Up Call for Developer Security | Chetan Seripally | [Read More](https://medium.com/p/25b607ba960e) |
 | Mon, 04 Aug 2025 13:36:07 GMT | Today I think I saw the best video ever made about how hosting works from an cyber security side | 0trust0day | [Read More](https://medium.com/p/82001ef2ac87) |
 | Mon, 04 Aug 2025 13:33:56 GMT | From Automated Tools to Manual Mastery | Andrei Ivan | [Read More](https://medium.com/p/71f12ad80115) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 10:02:44 GMT | The Cyber Security Blueprint: Details Unveiled | Cyber Security Research | [Read More](https://medium.com/p/f184afdf9009) |
 | Mon, 04 Aug 2025 10:01:19 GMT | Cybersecurity Details: Unmasking the Threats | Cyber Security Research | [Read More](https://medium.com/p/282eb160372a) |
 | Mon, 04 Aug 2025 10:00:45 GMT | Why Wireless Penetration Testing Is Critical for Business Security | West Advanced Technologies Inc | [Read More](https://medium.com/p/5b27b275df91) |
-| Mon, 04 Aug 2025 10:00:01 GMT | Digital Safeguards: A Compendium of Security Details | Cyber Security Research | [Read More](https://medium.com/p/b5c71be4e794) |
-| Mon, 04 Aug 2025 09:58:38 GMT | Data’s Defense: Exploring Cyber Security Measures | Cyber Security Research | [Read More](https://medium.com/p/644c9760ecd4) |
-| Mon, 04 Aug 2025 09:58:27 GMT | Thuê bảo vệ trực đêm — Giải pháp an toàn cho cá nhân và doanh nghiệp | DaiAnGroup | [Read More](https://medium.com/p/8863deaae026) |
-| Mon, 04 Aug 2025 09:55:57 GMT | The Quiet Power of Being Soft in a Loud World | Varnika Saxena | [Read More](https://medium.com/p/fa6473ed207d) |
-| Mon, 04 Aug 2025 09:49:15 GMT | How to Secure Your Google Maps API Key in Flutter (Android & iOS) | Urvashikharecha | [Read More](https://medium.com/p/bb7f7b96450d) |
-| Mon, 04 Aug 2025 09:48:53 GMT | How AI Hackers Exploit Machine Learning Models — And What We Do to Stop Them | DefenceRabbit | [Read More](https://medium.com/p/7fae506145c4) |
-| Mon, 04 Aug 2025 09:41:39 GMT | Adaptive Resource Allocation in C#, Scaling Snacks and Stacks | Namir Sagheenanajar | [Read More](https://medium.com/p/1c8604dd8c49) |
-| Mon, 04 Aug 2025 09:40:11 GMT | Authentication in .NET — Part 4: JWT Authentication & Refresh Tokens for Secure APIs | Dilanka Muthukumarana | [Read More](https://medium.com/p/c30844b2dcf1) |
-| Mon, 04 Aug 2025 09:34:47 GMT | The Day I Started Thinking Like a Real Threat Hunter | Manish Rawat | [Read More](https://medium.com/p/9d6af45127bc) |
-| Mon, 04 Aug 2025 09:34:26 GMT | Hacking, Heartbreak, and Honeypots: A Cybersecurity Breakdown of ‘I Am Kaathalan’ | Sidharth R Menon | [Read More](https://medium.com/p/b63badb54959) |
-| Mon, 04 Aug 2025 09:28:18 GMT | Why Composite Doors Are the Perfect Upgrade for UK Homes | Kam Singh | [Read More](https://medium.com/p/89810151fb28) |
-| Mon, 04 Aug 2025 09:21:26 GMT | Web Application Firewalls in Canada: Trends, Challenges, and Market Insights Through 2028 | Gargiben | [Read More](https://medium.com/p/6f2d0e4f405b) |
-| Mon, 04 Aug 2025 09:15:55 GMT | Cybersecurity Calling? Your Back-to-School Game Plan | Authlyn | [Read More](https://medium.com/p/07ed299e04b5) |
-| Mon, 04 Aug 2025 09:15:30 GMT | 10 Bug Report Mistakes That Annoy Developers — And How to Avoid Them | Parinita Kapoor | [Read More](https://medium.com/p/30c86271bc27) |
-| Mon, 04 Aug 2025 09:09:46 GMT | Empower Your Business with MetaOye Solutions: Premier IT Services for the Digital Age | MetaOye Solutions | [Read More](https://medium.com/p/bc052b38d531) |
-| Mon, 04 Aug 2025 09:08:23 GMT | How Security Systems Work | Ingramvillaescusa | [Read More](https://medium.com/p/dd7db888479a) |
