@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 15:16:39 GMT | Insider Threat Detection in SOC: Analyzing Linux User Behavior | Esra Kayhan | [Read More](https://medium.com/p/040ecacd60a4) |
+| Mon, 04 Aug 2025 15:13:37 GMT | Threat and Vulnerabilities Report — July 2025 | Loginsoft | [Read More](https://medium.com/p/4d2aeacff58c) |
+| Mon, 04 Aug 2025 15:10:29 GMT | Unauthorized Privilege Escalation in Role Logic | Ahmed Mahmoud | [Read More](https://medium.com/p/5271f34e652c) |
+| Mon, 04 Aug 2025 15:07:08 GMT | National Infrastructure, Minimal Security: The Risk We’re Not Funding | James Wright | [Read More](https://medium.com/p/61e134cc55f0) |
+| Mon, 04 Aug 2025 15:06:44 GMT | VulnCMS 1 VulnHub CTF Walkthrough for Beginners | Prajwal | [Read More](https://medium.com/p/e8c3f1e544ab) |
+| Mon, 04 Aug 2025 15:00:03 GMT | Building Strong Cyber Defenses with Managed SIEM, XDR, and SOC | Vijilan | [Read More](https://medium.com/p/565df609849b) |
+| Mon, 04 Aug 2025 14:55:44 GMT | Threat Intelligence Digest — Week Ending:Aug 3, 2025[Free] | IndigoINT | [Read More](https://medium.com/p/f912e387e1c9) |
+| Mon, 04 Aug 2025 14:55:06 GMT | Smart Cities and AI: How Artificial Intelligence Is Powering Urban Innovation | Payaam Raza | [Read More](https://medium.com/p/840cb6a326dd) |
+| Mon, 04 Aug 2025 14:54:53 GMT | TryHackMe: Blue Room — Complete Walkthrough & Experience | Vikash Yadav | [Read More](https://medium.com/p/462d691c1055) |
+| Mon, 04 Aug 2025 14:52:58 GMT | The Future of the Vulnerability Researcher: A New Frontier Between Automation and Creativity | Sevban Dönmez | [Read More](https://medium.com/p/3e744920d456) |
 | Mon, 04 Aug 2025 14:47:17 GMT | DockerLabs Writeup — Grandma (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/618f9d58a65e) |
+| Mon, 04 Aug 2025 14:44:13 GMT | ASCWG Qualifications 2025 CTF Digital Forensics challenges Writeup | 0xZew | [Read More](https://medium.com/p/c60ea13e902a) |
 | Mon, 04 Aug 2025 14:38:55 GMT | How I hacked Income Tax Portal Pt. 2 | Adwait Gawade | [Read More](https://medium.com/p/b1d1a66c9639) |
 | Mon, 04 Aug 2025 14:38:27 GMT | Cybersecurity Details: The Art of Prevention | Cyber Security Research | [Read More](https://medium.com/p/e7cb4f57a2db) |
 | Mon, 04 Aug 2025 14:37:56 GMT | Hi Researcher! | Bugcrowd | [Read More](https://medium.com/p/d57ddfa29ddd) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 11:14:46 GMT | 09164131429 | شماره خاله #شماره خاله #خاله شیراز #خاله اصفهان | [Read More](https://medium.com/p/9f07fad1ac3e) |
 | Mon, 04 Aug 2025 11:13:54 GMT | Modern ReactJS Security Guide: Updated Best Practices for 2025 (with Code Examples) | Elif Karadağ | [Read More](https://medium.com/p/31f1a9faca08) |
 | Mon, 04 Aug 2025 11:13:03 GMT | Nursing, IT, or Trade? Best PR Courses in Sydney Based on Job Demand in 2025 | GroWsmart Education & Migration | [Read More](https://medium.com/p/669b3a95699a) |
-| Mon, 04 Aug 2025 11:04:17 GMT | Allite Patrol and Security Services Inc | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/3e39c0343d35) |
-| Mon, 04 Aug 2025 11:02:30 GMT | How Social Media Algorithms Manipulate What You See — and Who Controls Them? | Olatunde Aboaba | [Read More](https://medium.com/p/44cbee3de260) |
-| Mon, 04 Aug 2025 10:53:14 GMT | Freshers Guide to Building a Career in Digital Security in Navi Mumbai | Dkvilas | [Read More](https://medium.com/p/fcf9b5d329a0) |
-| Mon, 04 Aug 2025 10:53:10 GMT | The Flash Drive Trap: Why USBs Still Pose a Massive Security Threat | Samuel Frank | [Read More](https://medium.com/p/14ba92bc1f91) |
-| Mon, 04 Aug 2025 10:51:58 GMT | How Regular Fire System Maintenance Reduces the Risk of Fire Accidents | Abhilashtec | [Read More](https://medium.com/p/4e018d6bb5cf) |
-| Mon, 04 Aug 2025 10:50:46 GMT | Langkah Mudah Install Kali Linux di Virtual Machine | Anya Forger | [Read More](https://medium.com/p/88b5d297b3e1) |
-| Mon, 04 Aug 2025 10:39:27 GMT | Cryptographic Verification for ML Models with HashTraceAI | VSec | [Read More](https://medium.com/p/ecf1ededa58b) |
-| Mon, 04 Aug 2025 10:38:59 GMT | Solidity Audit :- Unbounded Gas consumption | JEETPAL | [Read More](https://medium.com/p/f271b65be3f3) |
-| Mon, 04 Aug 2025 10:37:06 GMT | What Makes a Company That Offers Armed Guards Security Services in CA Special? | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/ef79a5b4faff) |
-| Mon, 04 Aug 2025 10:33:37 GMT | How AI is Reshaping Search and YouTube Marketing in Southeast Asia | Rahul Sharma | [Read More](https://medium.com/p/1d10ffcd9632) |
-| Mon, 04 Aug 2025 10:33:00 GMT | Linux Komut Satırı Notları: Sistem Yönetimi ve Güvenlik için Pratik Bilgiler | Fatih Kaya | [Read More](https://medium.com/p/7c0452d6d149) |
