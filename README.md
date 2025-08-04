@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 10:22:58 GMT | Unveiling Hidden Risks: Monitoring Inactive Guests in Microsoft Entra for Stronger Security | CloudLink | [Read More](https://medium.com/p/8c6b053481b0) |
+| Mon, 04 Aug 2025 10:22:51 GMT | ChatGPT for Penetration Testing (Pt. 2): Real-World Scenarios and Ethical Use | Redfox Security | [Read More](https://medium.com/p/79e3ed40b2aa) |
+| Mon, 04 Aug 2025 10:19:07 GMT |  | Khouloud Ben | [Read More](https://medium.com/p/526ae73dbe34) |
+| Mon, 04 Aug 2025 10:19:06 GMT | (Draft)Pwned Labs -Escalate GCP privileges with Implicit Delegation | Moghees Ahmad | [Read More](https://medium.com/p/1bc4302a1c00) |
+| Mon, 04 Aug 2025 10:14:23 GMT | Keep Your Android Phone Safe and Snappy: A Friendly Guide | Byte Cys | [Read More](https://medium.com/p/0c94694f4f75) |
+| Mon, 04 Aug 2025 10:12:22 GMT | PGDBA in Information Technology | MIT School of Distance Education | [Read More](https://medium.com/p/0d5541e1f6eb) |
+| Mon, 04 Aug 2025 10:12:02 GMT | When Privacy Fails: How ChatGPT Conversations Became Public on Search Engines | cybrNK | [Read More](https://medium.com/p/b7400970a61b) |
+| Mon, 04 Aug 2025 10:08:35 GMT | 未来の私よ、コレを読め。webサイトの攻撃と対策 EXTRA | ttt | [Read More](https://medium.com/p/33a089b45f82) |
+| Mon, 04 Aug 2025 10:07:10 GMT | https://media.licdn.com/dms/image/v2/D4E22AQEHJTZdI2f1nw/feedshare-shrink_800/B4EZhZ7CuXHgAg-/0/1753 | Benjamin Oseghale | [Read More](https://medium.com/p/e433af9d0697) |
+| Mon, 04 Aug 2025 10:07:06 GMT | Using Machine Learning for Multi-Task Prediction in Cybersecurity Incidents | Mujeeb Rofiu | [Read More](https://medium.com/p/b5dd5f55bd74) |
+| Mon, 04 Aug 2025 10:04:58 GMT | How to Install Open Policy Agent in Rocky Linux 9.6 | Ed Roof Maker | [Read More](https://medium.com/p/1841e001d88f) |
+| Mon, 04 Aug 2025 10:02:44 GMT | The Cyber Security Blueprint: Details Unveiled | Cyber Security Research | [Read More](https://medium.com/p/f184afdf9009) |
+| Mon, 04 Aug 2025 10:01:19 GMT | Cybersecurity Details: Unmasking the Threats | Cyber Security Research | [Read More](https://medium.com/p/282eb160372a) |
+| Mon, 04 Aug 2025 10:00:45 GMT | Why Wireless Penetration Testing Is Critical for Business Security | West Advanced Technologies Inc | [Read More](https://medium.com/p/5b27b275df91) |
+| Mon, 04 Aug 2025 10:00:01 GMT | Digital Safeguards: A Compendium of Security Details | Cyber Security Research | [Read More](https://medium.com/p/b5c71be4e794) |
+| Mon, 04 Aug 2025 09:58:38 GMT | Data’s Defense: Exploring Cyber Security Measures | Cyber Security Research | [Read More](https://medium.com/p/644c9760ecd4) |
+| Mon, 04 Aug 2025 09:55:57 GMT | The Quiet Power of Being Soft in a Loud World | Varnika Saxena | [Read More](https://medium.com/p/fa6473ed207d) |
+| Mon, 04 Aug 2025 09:49:15 GMT | How to Secure Your Google Maps API Key in Flutter (Android & iOS) | Urvashikharecha | [Read More](https://medium.com/p/bb7f7b96450d) |
+| Mon, 04 Aug 2025 09:48:53 GMT | How AI Hackers Exploit Machine Learning Models — And What We Do to Stop Them | DefenceRabbit | [Read More](https://medium.com/p/7fae506145c4) |
+| Mon, 04 Aug 2025 09:41:39 GMT | Adaptive Resource Allocation in C#, Scaling Snacks and Stacks | Namir Sagheenanajar | [Read More](https://medium.com/p/1c8604dd8c49) |
+| Mon, 04 Aug 2025 09:40:11 GMT | Authentication in .NET — Part 4: JWT Authentication & Refresh Tokens for Secure APIs | Dilanka Muthukumarana | [Read More](https://medium.com/p/c30844b2dcf1) |
+| Mon, 04 Aug 2025 09:34:47 GMT | The Day I Started Thinking Like a Real Threat Hunter | Manish Rawat | [Read More](https://medium.com/p/9d6af45127bc) |
+| Mon, 04 Aug 2025 09:34:26 GMT | Hacking, Heartbreak, and Honeypots: A Cybersecurity Breakdown of ‘I Am Kaathalan’ | Sidharth R Menon | [Read More](https://medium.com/p/b63badb54959) |
 | Mon, 04 Aug 2025 09:28:18 GMT | Why Composite Doors Are the Perfect Upgrade for UK Homes | Kam Singh | [Read More](https://medium.com/p/89810151fb28) |
 | Mon, 04 Aug 2025 09:21:26 GMT | Web Application Firewalls in Canada: Trends, Challenges, and Market Insights Through 2028 | Gargiben | [Read More](https://medium.com/p/6f2d0e4f405b) |
 | Mon, 04 Aug 2025 09:15:55 GMT | Cybersecurity Calling? Your Back-to-School Game Plan | Authlyn | [Read More](https://medium.com/p/07ed299e04b5) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 05:52:47 GMT | What are some remote access software for mobile devices? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/0df8a0b99719) |
 | Mon, 04 Aug 2025 05:46:12 GMT | Structured vs. Unstructured Threat Intelligence: The Ultimate Guide | Adam Goss | [Read More](https://medium.com/p/49e371c84f1f) |
 | Mon, 04 Aug 2025 05:45:49 GMT | Quantum Cryptography vs Man-in-the-Middle Attacks: A New Paradigm for Secure Communication | Tedislava Vasileva | [Read More](https://medium.com/p/050eb29a2138) |
-| Mon, 04 Aug 2025 05:44:26 GMT | Why Every Business Needs Penetration Testing to Stay Safe Online | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/3d60e4fbc395) |
-| Mon, 04 Aug 2025 05:34:08 GMT | ️ Ticket to Trouble: How I Hijacked Support Tickets to See Everyone’s Complaints ️ | Iski | [Read More](https://medium.com/p/3fbcb33afdf7) |
-| Mon, 04 Aug 2025 05:34:07 GMT | India’s Trusted Tech Partner — Explore Ajath Infotech Pvt. Ltd.’s Software Excellence | Ajath Infotech | [Read More](https://medium.com/p/ffec8336fd92) |
-| Mon, 04 Aug 2025 05:32:01 GMT | Child Safety or an Authoritarian Government’s First Major Overreach? | Jason | [Read More](https://medium.com/p/9297e8c3ca85) |
-| Mon, 04 Aug 2025 05:27:26 GMT | Understanding the CWE Top 25: A Pentester’s Guide to Root-Level Software Weaknesses | YoungerSibling | [Read More](https://medium.com/p/8c0c256334a0) |
-| Mon, 04 Aug 2025 05:22:14 GMT | The Future of Cybersecurity AI-Powered Threat Detection in 2025 | Win In Life Academy | [Read More](https://medium.com/p/4fc8911b03cb) |
-| Mon, 04 Aug 2025 05:21:54 GMT | Build a Career in Ethical Hacking | Rabeespace | [Read More](https://medium.com/p/95ae6b03f61b) |
-| Mon, 04 Aug 2025 05:18:25 GMT | The development of thinking abilities in artificial intelligence models.. | Sidialtos | [Read More](https://medium.com/p/8486162c3eae) |
-| Mon, 04 Aug 2025 05:17:36 GMT | Object-Oriented Programming in Python — Explained Simply | sabaraheem | [Read More](https://medium.com/p/a7cd077076ac) |
-| Mon, 04 Aug 2025 04:59:04 GMT | RST TI Report Digest: 04 Aug 2025 | RST Cloud | [Read More](https://medium.com/p/0e04cbb28bcf) |
-| Mon, 04 Aug 2025 04:45:47 GMT | Zeek (Bro) Network Analysis: Advanced Tactics | Aj | [Read More](https://medium.com/p/dcbf160b5743) |
-| Mon, 04 Aug 2025 04:43:41 GMT | How to Start Hacking with Kali Linux | Shahzaib | [Read More](https://medium.com/p/2574a050d928) |
-| Mon, 04 Aug 2025 04:43:26 GMT | How to Install KeyCloak IAM in Rocky Linux 9.6 | Ed Roof Maker | [Read More](https://medium.com/p/34bae6b657fa) |
-| Mon, 04 Aug 2025 04:43:01 GMT | Check, Check… Is This Thing On? | Sex & the Single Girl | [Read More](https://medium.com/p/4de725fe0f3a) |
-| Mon, 04 Aug 2025 04:42:55 GMT | What is Email Spoofing? | Bhuvana Medicherla | [Read More](https://medium.com/p/96e3879ffd62) |
-| Mon, 04 Aug 2025 04:41:37 GMT | ANDROID PENTESTING — PART 2 — STATIC ANALYSIS | PARADOX | [Read More](https://medium.com/p/307844a36b50) |
-| Mon, 04 Aug 2025 04:41:24 GMT | How to Find and Exploit Information Disclosure Vulnerabilities Like a Pro | Monika sharma | [Read More](https://medium.com/p/a9386ef01000) |
-| Mon, 04 Aug 2025 04:41:18 GMT | The Human Hack: How Social Engineering Tricks You — And How to Stay Safe | Geeky Vartika | [Read More](https://medium.com/p/862d4e0205e9) |
-| Mon, 04 Aug 2025 04:36:48 GMT | Why degrees and certifications don’t matter anymore! | Arman Reza | [Read More](https://medium.com/p/3054e0737ddf) |
-| Mon, 04 Aug 2025 04:33:22 GMT | Day 21- Windows Command prompt for beginners | unica 02 | [Read More](https://medium.com/p/51957f4c6e08) |
-| Mon, 04 Aug 2025 04:28:31 GMT | The Sea , A Quiet Lesson in Love | sasha | [Read More](https://medium.com/p/43ca6577c80b) |
-| Mon, 04 Aug 2025 04:25:14 GMT | How to File a Lawsuit After Financial Identity Theft | Tycoonstories | [Read More](https://medium.com/p/57c6112fe88b) |
-| Mon, 04 Aug 2025 04:14:18 GMT | TECHNICAL BLOGGING IN CYBER SECURITY | Mizhabsadik | [Read More](https://medium.com/p/6ce45842abac) |
