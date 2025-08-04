@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 17:47:26 GMT | When Every Alert Feels Urgent: How I Navigate Noise in the SOC | Saumya Shree | [Read More](https://medium.com/p/d721eafaa945) |
+| Mon, 04 Aug 2025 17:43:55 GMT | Automating Recon Like a Pro: Auto-Recon-suite | Walaa Baidaq | [Read More](https://medium.com/p/23531660f602) |
+| Mon, 04 Aug 2025 17:41:00 GMT | Portswigger Path Traversal Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/e28541cf8134) |
+| Mon, 04 Aug 2025 17:38:53 GMT | How to File a Cybercrime Complaint in India Explained | NIkhil Kumar | [Read More](https://medium.com/p/269a6d3eb498) |
+| Mon, 04 Aug 2025 17:38:08 GMT | Cybersecurity Student Success Stories: Inspiring Journeys to Digital Defense | Hack Behind The Mask | [Read More](https://medium.com/p/03e51470c540) |
+| Mon, 04 Aug 2025 17:35:12 GMT | Full LFI-to-RCE via Apache Access Logs | Zoningxtr | [Read More](https://medium.com/p/e521ec06ec1a) |
+| Mon, 04 Aug 2025 17:34:17 GMT | Full Guide: From LFI to RCE via /var/log/apache2/error.log | Zoningxtr | [Read More](https://medium.com/p/0f364049b107) |
+| Mon, 04 Aug 2025 17:33:47 GMT | From LFI to RCE via /var/log/sshd.log | Zoningxtr | [Read More](https://medium.com/p/1cd81cd318ef) |
+| Mon, 04 Aug 2025 17:33:05 GMT | How Hackers hide Malware in image files — A black hat tactic. | err0rgod | [Read More](https://medium.com/p/efe0b2b5fb5c) |
+| Mon, 04 Aug 2025 17:32:39 GMT | Firmware Dumping Techniques for STM32 Microcontrollers | Abdelwahed Baha | [Read More](https://medium.com/p/62598da6733a) |
+| Mon, 04 Aug 2025 17:25:57 GMT | Get Your First Bug in 7 Days — The Beginner's Bug Bounty Blueprint | Hack Behind The Mask | [Read More](https://medium.com/p/865d2be6f9bb) |
 | Mon, 04 Aug 2025 17:18:04 GMT | Silent Takeover: When Hackers Control Your Smart Building | Aj | [Read More](https://medium.com/p/d068d0c3bee0) |
 | Mon, 04 Aug 2025 17:13:43 GMT | CVE-2025–24813Apache Tomcat Vulnerability Opens Door to Remote Code Execution via Path Equivalence | gm0 | [Read More](https://medium.com/p/39061e91270f) |
 | Mon, 04 Aug 2025 17:13:19 GMT | EXPLOIT VSFTPD : START YOUR RED TEAM JOURNEY | Aniket Paul | [Read More](https://medium.com/p/4d3ee7eb0f94) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 14:32:35 GMT | Inside the Security Operations Center | Cyber Security Research | [Read More](https://medium.com/p/acc5cdf32504) |
 | Mon, 04 Aug 2025 14:31:46 GMT | SOCFortres5: Researchers Exploit Critical 0-Day in Google kernelCTF and Debian 12 Linux Kernels | Darshan | [Read More](https://medium.com/p/04571a708cc7) |
 | Mon, 04 Aug 2025 14:30:44 GMT | The Algorithmic Armor: Cybersecurity Details Revealed | Cyber Security Research | [Read More](https://medium.com/p/9aa18c109d8a) |
-| Mon, 04 Aug 2025 14:29:19 GMT | SOCFortres5: SquareX Researchers Reaffirm Browser Security Leadership with Key Vulnerability… | Darshan | [Read More](https://medium.com/p/ec600a00c3e8) |
-| Mon, 04 Aug 2025 14:09:36 GMT | In Web3, security often feels like an afterthought — a post-mortem discussion after funds vanish. | Ebuka Eze | [Read More](https://medium.com/p/87680522eb75) |
-| Mon, 04 Aug 2025 14:07:10 GMT | Shell Secrets Part 3: History, Shortcuts & Search Like a Pro | MayhemCode | [Read More](https://medium.com/p/33c404079d5e) |
-| Mon, 04 Aug 2025 14:04:59 GMT | The Script “I Believed” In | •┈ | [Read More](https://medium.com/p/c39a0a969356) |
-| Mon, 04 Aug 2025 14:02:51 GMT | Cyber Briefing: 2025.08.04 | CyberMaterial | [Read More](https://medium.com/p/a9a99f4f7a6a) |
-| Mon, 04 Aug 2025 14:02:10 GMT | Securing GKE Clusters with OPA & Sentinel | Rajesh Nadiminti | [Read More](https://medium.com/p/2d1f675049b6) |
-| Mon, 04 Aug 2025 14:01:57 GMT | DNS Proxy for C2 Servers | umbraXsecure | [Read More](https://medium.com/p/c1a3f2cf4944) |
-| Mon, 04 Aug 2025 14:01:51 GMT | 7 Practical Ways to Start Taking Cybersecurity Seriously (Without Getting Overwhelmed) | Dhruvdeep Singh | [Read More](https://medium.com/p/aaae6e71cbed) |
-| Mon, 04 Aug 2025 14:00:42 GMT | 0903.968.9679 | شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس | [Read More](https://medium.com/p/4d9ff3a77e9c) |
-| Mon, 04 Aug 2025 13:54:14 GMT | The IT Guy Who Knew Too Much: Why Insiders Are the Most Dangerous Threat | Travis Ray Caverhill | [Read More](https://medium.com/p/1ebbefadefd2) |
-| Mon, 04 Aug 2025 13:54:00 GMT | Why Traditional AI Defense is Failing Against Modern Threats | Eric Zietlow | [Read More](https://medium.com/p/69fd5aea1bac) |
