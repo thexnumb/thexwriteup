@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 23:40:26 GMT | How to Fix Packet Loss Without Losing Your Mind | Akshay Chauhan | [Read More](https://medium.com/p/a0487fc6e987) |
 | Mon, 04 Aug 2025 23:12:27 GMT | IDS Nedir ve Çeşitlerinde Bulunan Güvenlik Açıkları ? | ErenCatak | [Read More](https://medium.com/p/6d5fbf4492b1) |
 | Mon, 04 Aug 2025 23:05:44 GMT | Unveiling the Hidden Vulnerability in AI’s Memory | Elias Hossain | [Read More](https://medium.com/p/80db6ea5eacb) |
 | Mon, 04 Aug 2025 22:56:11 GMT | How to Add a User with Non-Interactive Shell in Linux | Farhan Latif | [Read More](https://medium.com/p/b9b388fc3895) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 16:58:35 GMT | Cloud, Cyber, Data Science Talent Gap: Bridging with MSPs in 2025 | UpTech Solution | [Read More](https://medium.com/p/83e5cefedb73) |
 | Mon, 04 Aug 2025 16:58:32 GMT | Watch Kalakaar (2025) Hindi Hot Web Series — Stream Now in HD | SSR NEW MOVIES | [Read More](https://medium.com/p/f38aa5700381) |
 | Mon, 04 Aug 2025 16:56:14 GMT | AI can now launch cyberattacks on its own: are we prepared? | Chris Kremidas-Courtney | [Read More](https://medium.com/p/2ff6d24cf245) |
-| Mon, 04 Aug 2025 16:55:31 GMT | Portswigger Academy: API testing Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/00e84e83886c) |
