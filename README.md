@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 Aug 2025 01:47:49 GMT | Not All Payment Systems Are Built to Protect You | rebootingdaily | [Read More](https://medium.com/p/4f5b6578dfb4) |
+| Mon, 04 Aug 2025 01:44:29 GMT | $47 Million Real Estate Scam Leaves Houston Investors Reeling: What Went Wrong and How to Stay Safe | "Tracey, the Safety Lady" Hawkins | [Read More](https://medium.com/p/0eac8a8337f8) |
+| Mon, 04 Aug 2025 01:09:07 GMT | EN- We Shared the Responsibility, Not the Bill: The Snowflake Breach | ahmetw.eth | [Read More](https://medium.com/p/7e4060b5d3ce) |
+| Mon, 04 Aug 2025 01:03:45 GMT | CyberDefenders PoisionedCredentials Write-up | Giovanny Joseph | [Read More](https://medium.com/p/7d5d883b3704) |
+| Mon, 04 Aug 2025 01:02:29 GMT | TR- Sorumluluğu Paylaştık Faturayı Değil: Snowflake Breach | ahmetw.eth | [Read More](https://medium.com/p/420979781787) |
+| Mon, 04 Aug 2025 00:55:48 GMT | HackTheBox - OpenAdmin | jniket | [Read More](https://medium.com/p/63d090236e2d) |
+| Mon, 04 Aug 2025 00:41:30 GMT | This ChatGPT Agent Does My Finances. Here’s How It Works. | Fahad's Foresight | [Read More](https://medium.com/p/699a81cbc7cc) |
+| Mon, 04 Aug 2025 00:41:08 GMT | The AI Research of July 2025: Four Papers That Will Reshape the Future | Fahad's Foresight | [Read More](https://medium.com/p/6819816bf412) |
+| Mon, 04 Aug 2025 00:24:53 GMT | Stuxnet: Bir Solucan Virüsünün Atom Bombası Etkisi | Serhat Çallı | [Read More](https://medium.com/p/134ba31d3659) |
+| Mon, 04 Aug 2025 00:13:23 GMT | Are Video Games Too Violent for Children? | Savvy Cyber Kids | [Read More](https://medium.com/p/f6dd706dd7ad) |
+| Mon, 04 Aug 2025 00:13:07 GMT | Streaming and Mainstream Popularity | Savvy Cyber Kids | [Read More](https://medium.com/p/51d038f7085e) |
+| Mon, 04 Aug 2025 00:12:50 GMT | What Does Your Child Think about AI? | Savvy Cyber Kids | [Read More](https://medium.com/p/890d5ed12065) |
+| Mon, 04 Aug 2025 00:12:28 GMT | Title: What the World Wants to Know: The Most Searched Questions About Marcel Ray Duriez | Marcel Ray Duriez | [Read More](https://medium.com/p/2aed7171dfdc) |
 | Sun, 03 Aug 2025 23:34:02 GMT | Ai having an existential crisis rendered useless | Alex (KishinInfosec) | [Read More](https://medium.com/p/2fadee2fff8e) |
 | Sun, 03 Aug 2025 23:24:19 GMT | Um só | Aryane Shelldury | [Read More](https://medium.com/p/ab90b298f126) |
 | Sun, 03 Aug 2025 23:18:08 GMT | Uncovering SQL Injection | 0X0mahmoud | [Read More](https://medium.com/p/db784a309b48) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 Aug 2025 17:03:48 GMT | JWTs & CSRF Tokens | Buddika Gunawardena | [Read More](https://medium.com/p/465e5d4f91cf) |
 | Sun, 03 Aug 2025 17:03:03 GMT | Infrastructure Monitoring with Prometheus and Grafana | Giampaolocappellotto | [Read More](https://medium.com/p/5cdebac90528) |
 | Sun, 03 Aug 2025 16:58:46 GMT | Burp Suite x AI: The Mutation Engine That Thinks, Chains, and Exploits Like a Human | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bf250df0ba0c) |
-| Sun, 03 Aug 2025 16:53:42 GMT | There may be truth in online banking fearmongering | Cedric Fitzgerald | [Read More](https://medium.com/p/c860c6931189) |
-| Sun, 03 Aug 2025 16:51:41 GMT | How I Discovered a Real University Vulnerability Built Custom Scripts, and Reported It the Right… | Michael | [Read More](https://medium.com/p/8ab807873f98) |
-| Sun, 03 Aug 2025 16:46:21 GMT | JavaScript + Burp + GitHub = Supply Chain Goldmine | Narendar Battula (nArEn) | [Read More](https://medium.com/p/81cbf39d575c) |
-| Sun, 03 Aug 2025 16:45:32 GMT | CyberDefenders Oski Lab Write-Up | Giovanny Joseph | [Read More](https://medium.com/p/c0f673fd8afd) |
-| Sun, 03 Aug 2025 16:45:19 GMT | Google — ShallWePlay | David T. Garitagoitia | [Read More](https://medium.com/p/0d81b27bcfae) |
-| Sun, 03 Aug 2025 16:39:27 GMT | HTB Starting Point Tier 1 Crocodile ve Responder Makineleri Çözümleri ile Bilinmesi Gerekenler | Burhan Demir | [Read More](https://medium.com/p/614b83bbb4ac) |
-| Sun, 03 Aug 2025 16:34:26 GMT | LLM Security in 2025: How Samsung’s $62M Mistake Reveals 8 Critical Risks Every Enterprise Must… | Max Levko | [Read More](https://medium.com/p/f1e2bf9aa957) |
-| Sun, 03 Aug 2025 16:33:56 GMT | Red Teaming in AWS Cloud: Tactics, Techniques, and Procedures | Lord Murak | [Read More](https://medium.com/p/100bf0e3f425) |
-| Sun, 03 Aug 2025 16:32:53 GMT | I Called Out a Scam Targeting Developers. This Is What Happened Next. | NIkhil Kumar | [Read More](https://medium.com/p/eabea63b4077) |
-| Sun, 03 Aug 2025 16:31:57 GMT | Exposed AI Conversations: Analyzing Publicly Shared Chats Across Popular AI Services | Anatoliy Fedorenko | [Read More](https://medium.com/p/f816634d3b16) |
-| Sun, 03 Aug 2025 16:30:28 GMT | Top 20 WAF Bypass Chains Using Burp Suite + AI | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5eefda3c3283) |
-| Sun, 03 Aug 2025 16:22:47 GMT | Email Security Beyond SPF/DKIM/DMARC | Karthikeyan Nagaraj | [Read More](https://medium.com/p/62ce6cd13479) |
-| Sun, 03 Aug 2025 16:18:04 GMT | Full Guide: From LFI to RCE via /var/log/mail.log ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/54b9686def62) |
