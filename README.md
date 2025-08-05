@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 21:31:32 GMT | 3 Reasons Chicago Businesses Are Installing Bollards | Carmen Lopez | [Read More](https://medium.com/p/9d973db4e266) |
+| Tue, 05 Aug 2025 21:27:51 GMT | Shocking Android App Vulnerabilities: Here’s the Free Tool Hackers Don’t Want You to Find! | cybrNK | [Read More](https://medium.com/p/6e48a39ff580) |
 | Tue, 05 Aug 2025 21:17:37 GMT | Cyber Security Authorization: Granting Access Privileges | Cyber Security Research | [Read More](https://medium.com/p/e8cfec80b72b) |
+| Tue, 05 Aug 2025 21:15:44 GMT | Cyber Security Authentication: Verifying User Identities | Cyber Security Research | [Read More](https://medium.com/p/4e36b2b9488f) |
 | Tue, 05 Aug 2025 21:13:53 GMT | Cyber Security Encryption: Securing Data in Transit and at Rest | Cyber Security Research | [Read More](https://medium.com/p/e5a9dbd76f50) |
 | Tue, 05 Aug 2025 21:11:53 GMT | Cyber Security Privacy: Protecting Sensitive Information | Cyber Security Research | [Read More](https://medium.com/p/b26946289af5) |
 | Tue, 05 Aug 2025 21:10:04 GMT | Cyber Security Ethics: Defining the Moral Boundaries | Cyber Security Research | [Read More](https://medium.com/p/1c38747a7b13) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 16:41:40 GMT | Portswigger XML External Entity (XXE) Injection Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/6d2ff43b001f) |
 | Tue, 05 Aug 2025 16:41:39 GMT | Portswigger XML External Entity (XXE) Injection Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/08830fc0ce2b) |
 | Tue, 05 Aug 2025 16:41:39 GMT | Portswigger XML External Entity (XXE) Injection Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/2cbf5b357011) |
-| Tue, 05 Aug 2025 16:38:28 GMT | Pengalaman Seru Belajar di Red Hat Academy. | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/c569de14c5ae) |
-| Tue, 05 Aug 2025 16:37:36 GMT | Directory - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/7834f5161751) |
-| Tue, 05 Aug 2025 16:35:28 GMT | Cracked in Seconds: How a Weak Password Exposed 64 Million McDonald’s Applicants | Kalariya Het | [Read More](https://medium.com/p/dc1184c9c52c) |
