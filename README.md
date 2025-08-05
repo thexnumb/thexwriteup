@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 08:29:24 GMT | I Turned IDOR and XSS Into a Mass Account Takeover | Ibtissam hammadi | [Read More](https://medium.com/p/a0b487c19366) |
+| Tue, 05 Aug 2025 08:22:53 GMT | Hidden Risks in High-Speed Tech-Driven Business: Are We Secure Enough? | Kogilacv | [Read More](https://medium.com/p/cdbf4947dbf3) |
+| Tue, 05 Aug 2025 08:22:52 GMT | Perplexity AI’s Stealth Data Collection Scandal: The AI That Ignores robots.txt | Alper Konuralp | [Read More](https://medium.com/p/3f0788f0b03d) |
+| Tue, 05 Aug 2025 08:21:36 GMT | The Hidden Layer of Cybersecurity: What Most People Never Think About | Sofia | [Read More](https://medium.com/p/0bf1baa710cb) |
+| Tue, 05 Aug 2025 08:11:57 GMT | Building a Honeypot with Azure and Feeding Custom Threat Intelligence | Levent Karaagac | [Read More](https://medium.com/p/372d7f4c3626) |
+| Tue, 05 Aug 2025 08:09:11 GMT | Detect and Prevent XML Injection in Symfony Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/26df2ad3bd78) |
+| Tue, 05 Aug 2025 08:08:49 GMT | Özel Güvenlik Hizmeti Nedir? Nerelerde Kullanılır? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/e25d70d2fb33) |
+| Tue, 05 Aug 2025 08:05:45 GMT | What is a SOC Analyst? The Unsung Hero in Cybersecurity Operations | MITS Academy | [Read More](https://medium.com/p/ecc358d0a542) |
+| Tue, 05 Aug 2025 08:00:03 GMT | SafeLine vs AppTrana: Fully Managed or Full Control? | AerieWhole123 | [Read More](https://medium.com/p/5d61423fe50a) |
+| Tue, 05 Aug 2025 07:50:52 GMT | The Click That Cost Me Everything: How One Email Unraveled My Life | JetkingChandigarh | [Read More](https://medium.com/p/dd3b45522912) |
+| Tue, 05 Aug 2025 07:49:22 GMT | What is Ethical Hacking? A Beginner’s Guide to Fighting Cybercrime Legally | MITS Academy | [Read More](https://medium.com/p/6ef7494d2c26) |
+| Tue, 05 Aug 2025 07:47:27 GMT | What Happens After a Web Application Pen Test? Your Next Security Steps | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/e70e8f425e72) |
+| Tue, 05 Aug 2025 07:43:10 GMT | Top 10 Python Jobs For Freshers in India | cyber security Updates | [Read More](https://medium.com/p/193289975889) |
+| Tue, 05 Aug 2025 07:41:54 GMT | Siber Güvenlik Nedir? | Gamze Nur İlgün | [Read More](https://medium.com/p/9a5622ca4df3) |
 | Tue, 05 Aug 2025 07:37:57 GMT | Understanding the security landscape of MCP | Saurabh Rai | [Read More](https://medium.com/p/670d8f1aae1d) |
 | Tue, 05 Aug 2025 07:33:40 GMT | IoT Devices: The Silent Cybersecurity Time Bomb in Our Homes and Workplaces | Prachi Anarkat | [Read More](https://medium.com/p/3864817fc3eb) |
 | Tue, 05 Aug 2025 07:32:40 GMT | Leveraging AI for SOC Automation: Building NeuroScout | Ajay Bommidi | [Read More](https://medium.com/p/2a9cd1c6cfa0) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 01:54:41 GMT | From PDF to Five-Figure Payday: When Legacy Docs Attack | Armand Jasharaj | [Read More](https://medium.com/p/05f35eb85164) |
 | Tue, 05 Aug 2025 01:49:54 GMT | What I’ve Learned from a Decade in Cybersecurity: Priorities for 2025 | Vivek Lenkalapally | [Read More](https://medium.com/p/81a663c02a5a) |
 | Tue, 05 Aug 2025 01:46:30 GMT | Breaking into ‘Code’, a HackTheBox machine | JJDSEC | [Read More](https://medium.com/p/24ae738b8b2b) |
-| Tue, 05 Aug 2025 01:43:43 GMT | The Reluctant Perfectionist | Khurziya Maratova | [Read More](https://medium.com/p/e0611cae06ca) |
-| Tue, 05 Aug 2025 01:23:27 GMT | Untitled | Daretoexpose | [Read More](https://medium.com/p/d757fabad2bf) |
-| Tue, 05 Aug 2025 01:19:16 GMT | Security Groups for Pods의 동작 방식 및 적용 시 주의 사항 | LG U+ Techblog | [Read More](https://medium.com/p/7c3c0bfb07e0) |
-| Tue, 05 Aug 2025 01:16:47 GMT | Snort IDS Part 1: Getting Started with Real-Time Network Traffic Analysis on Linux | Kallabharath | [Read More](https://medium.com/p/629f80591140) |
-| Tue, 05 Aug 2025 01:13:15 GMT | AI Security Reports — July 2025 | Tal Eliyahu | [Read More](https://medium.com/p/d186c1314140) |
-| Tue, 05 Aug 2025 01:11:59 GMT | Hacking for a Grade: What If Our Adversaries Are Using the DoD as a Classroom? | Thomas Holt Russell, III | [Read More](https://medium.com/p/c35673f18efb) |
-| Tue, 05 Aug 2025 01:10:47 GMT | CTF Biscuit — Vai um biscoitinho modificao ae? | Jonathan M. | [Read More](https://medium.com/p/ef79d7dae205) |
-| Tue, 05 Aug 2025 01:09:18 GMT | Coded in Blood: How Malicious Scripts Are Hiding in EHR Customizations | Travis Ray Caverhill | [Read More](https://medium.com/p/d164a49478e1) |
-| Tue, 05 Aug 2025 00:50:06 GMT | Where the Firewalls End: Exfiltration Tunnels You’re Not Monitoring | Travis Ray Caverhill | [Read More](https://medium.com/p/36f064f906fe) |
-| Tue, 05 Aug 2025 00:45:48 GMT | “to be loved is to be known” | luz perez | [Read More](https://medium.com/p/8a2a96491d49) |
-| Tue, 05 Aug 2025 00:42:59 GMT | Sound, Security, and Simplicity: The 3 Hottest Electronics on Amazon Right Now | Earnest Sherrill | [Read More](https://medium.com/p/a8de320256a0) |
-| Tue, 05 Aug 2025 00:42:01 GMT | Microsoft’s Failed Strategy — Security as an Afterthought | Matthew.Rosenquist | [Read More](https://medium.com/p/ab39f5cb290d) |
-| Tue, 05 Aug 2025 00:40:31 GMT | A CCSP (Certified Cloud Security Professional) Exam Kickstarter for Cloud Native Security… | Gerald Bachlmayr | [Read More](https://medium.com/p/8c0ccfeed457) |
-| Tue, 05 Aug 2025 00:29:44 GMT | Kernel32 Kung Fu: Manual Shellcode on Windows | Itz.sanskarr | [Read More](https://medium.com/p/ddc770d49b87) |
