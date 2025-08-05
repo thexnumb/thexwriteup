@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 14:16:33 GMT | Fluffy - Easy - Hack The Box | Anasmohammed | [Read More](https://medium.com/p/8ece26f2fa87) |
+| Tue, 05 Aug 2025 14:12:11 GMT | Caido on Oracle VPS (the easy way) | Osama Ahmed Khan | [Read More](https://medium.com/p/59f7ed49e02e) |
+| Tue, 05 Aug 2025 14:08:10 GMT | Rising Threat of Illegal Domains Targeting Mobile Banking and Online Shopping in the Global South | ElviraKHWATENGE | [Read More](https://medium.com/p/0759ef80fc04) |
+| Tue, 05 Aug 2025 14:03:54 GMT | Mailing - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/5af8d625c7d3) |
+| Tue, 05 Aug 2025 14:03:24 GMT | Brene Brown | DGWell | [Read More](https://medium.com/p/6850cc19ebaa) |
+| Tue, 05 Aug 2025 14:01:51 GMT | Cyber Briefing: 2025.08.05 | CyberMaterial | [Read More](https://medium.com/p/fe11d447d695) |
+| Tue, 05 Aug 2025 13:59:31 GMT | How to Change Apple ID Country or Region Without Losing Apps in 2025 | Digimad.online | [Read More](https://medium.com/p/bc9e389a5343) |
+| Tue, 05 Aug 2025 13:57:40 GMT | ️ Building “Jeff’s Dead Man’s Switch” — A USB-Triggered Anti-Theft & File Encryption System for… | Jeffreyjoseph | [Read More](https://medium.com/p/bc5bab096da9) |
+| Tue, 05 Aug 2025 13:54:31 GMT | How to Delete Your Personal Information from Data Brokers (When They Resist) | BiyteLüm | [Read More](https://medium.com/p/3f5430e062ef) |
+| Tue, 05 Aug 2025 13:51:41 GMT | Web Session Recording with Mammoth Enterprise AI Browser: Securing Contractors and Critical Apps | Mammoth Cyber | [Read More](https://medium.com/p/f7204a35f2b5) |
+| Tue, 05 Aug 2025 13:51:07 GMT | To Pay or Not to Pay: The High-Stakes Dilemma of Ransomware Attacks | Paradise technologies Inc | [Read More](https://medium.com/p/2fe22c0e2402) |
+| Tue, 05 Aug 2025 13:50:41 GMT | ChatGPT’s New AI agent Has Passed The “I am not a robot” CAPTCHA | Shizukawatanabe | [Read More](https://medium.com/p/49528adef860) |
+| Tue, 05 Aug 2025 13:46:41 GMT | The Small Business Cybersecurity Survival Guide: 12 Essential Shields Against 2024’s Digital… | Paul Meyer | [Read More](https://medium.com/p/c98b5025585a) |
+| Tue, 05 Aug 2025 13:43:07 GMT | The global gimbal stabilizers market is projected to grow from USD 793 million in 2025 to USD… | Manav | [Read More](https://medium.com/p/f7a50b6c2970) |
+| Tue, 05 Aug 2025 13:36:38 GMT | MFA Matters: Adding 10-seconds of security that stops 99% of hackers | SaddleBridge Consulting | [Read More](https://medium.com/p/3da93d8e92d8) |
 | Tue, 05 Aug 2025 13:31:42 GMT | Microsoft Raises Zero Day Quest Prize Pool to $5 Million to Tackle AI and Cloud Vulnerabilities | Dhruvdeep Singh | [Read More](https://medium.com/p/9425c7e6553d) |
 | Tue, 05 Aug 2025 13:30:42 GMT | Let me take you into a world that’s not science fiction anymore, but a real thing happening above… | Persis Tafflin | [Read More](https://medium.com/p/03d8a51bb3ff) |
 | Tue, 05 Aug 2025 13:28:33 GMT | Showcase: Local File Converter; Running in the browser | Workemaileden | [Read More](https://medium.com/p/dc7ff2f0d7d5) |
@@ -43,6 +58,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 12:21:27 GMT | Yeni Başlayanlar İçin FortiGate ile Güvenli Ağ Yapılandırması | SelimAyvaz | [Read More](https://medium.com/p/1217c679b0c3) |
 | Tue, 05 Aug 2025 12:21:26 GMT | Open Redirect on Logout Page — When Shopping Got Too Redirected | Aryamevada | [Read More](https://medium.com/p/31549480a630) |
 | Tue, 05 Aug 2025 12:13:52 GMT | Hunting TOCTOU and LD_PRELOAD Attacks with eBPF LSM | Satyam Dubey | [Read More](https://medium.com/p/ea7f4e6c3884) |
+| Tue, 05 Aug 2025 12:12:18 GMT | Entegre Güvenlik Sistemleri Nedir? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/3b111f42ddcd) |
 | Tue, 05 Aug 2025 12:12:05 GMT | DockerLabs Writeup — Bicho (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3a68461cdeb4) |
 | Tue, 05 Aug 2025 12:11:16 GMT | Zero.WebAppSecurity Penetrasyon Testi | Bilge Güngör | [Read More](https://medium.com/p/7842e293cb1a) |
 | Tue, 05 Aug 2025 12:10:51 GMT | Hackers Are Now Abusing Security Tools to Steal Microsoft 365 Logins — Here’s How (No CVE Yet) | Rue | [Read More](https://medium.com/p/d320dfc40bd6) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 10:30:46 GMT | CVE-2025–54956: Sensitive Authorization Header Exposure in R ‘gh’ Package | CVEHUB | [Read More](https://medium.com/p/d591d1923916) |
 | Tue, 05 Aug 2025 10:29:19 GMT | Best Managed Cybersecurity Services In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/608b6f0d7e04) |
 | Tue, 05 Aug 2025 10:28:28 GMT | Co je to Malware a jak se mu branit? | Cyber Solution | [Read More](https://medium.com/p/bc133fe0ace1) |
-| Tue, 05 Aug 2025 10:24:35 GMT | Securing AWS: The Role Of Penetration Testing And Best Practices | Redfox Security | [Read More](https://medium.com/p/3488073260d3) |
-| Tue, 05 Aug 2025 10:16:34 GMT | Mastering Wazuh: Atomic Red Team ile Saldırı Simülasyonları | BARAN PARLAK | [Read More](https://medium.com/p/12c0acd3dce6) |
-| Tue, 05 Aug 2025 10:12:33 GMT | ️Hijacked Without Login⚠: Inside the Citrix Bleed Exploit | LazyHacker | [Read More](https://medium.com/p/6e663b48db6b) |
-| Tue, 05 Aug 2025 10:12:21 GMT | How I Built an Automated Bug Reporting System with Python | Dustdusky | [Read More](https://medium.com/p/d2706e172723) |
-| Tue, 05 Aug 2025 10:12:13 GMT | YCus: Financial & IT Consulting | YCus | [Read More](https://medium.com/p/d9b05024e395) |
-| Tue, 05 Aug 2025 10:12:09 GMT | Unlock Your Cybersecurity Career with Ethical Hacking Certification | Certocean | [Read More](https://medium.com/p/2dc320a6f729) |
-| Tue, 05 Aug 2025 10:07:40 GMT | 25 Hidden Google Dorks for 2025 Bug Bounty Hunters: Real Targets, Real Bounties | Qasim Mahmood Khalid | [Read More](https://medium.com/p/0bf8dd18d8bb) |
-| Tue, 05 Aug 2025 10:07:01 GMT | 5. Cryptography | unknownman | [Read More](https://medium.com/p/6675123bade5) |
-| Tue, 05 Aug 2025 10:03:58 GMT | Comprehensive Guide to Security Profiles in Palo Alto Networks Firewalls | Adhiraj Jarwal | [Read More](https://medium.com/p/6e26d26bfe2d) |
-| Tue, 05 Aug 2025 10:03:35 GMT | Networking Fundamentals Every Cybersecurity Consultant Should Know | Mindaugas Asipauskas | [Read More](https://medium.com/p/506fec1a8542) |
-| Tue, 05 Aug 2025 10:02:40 GMT | Why Information Security is a Smart Choice for Fresh Graduates | Kartik Debnath | [Read More](https://medium.com/p/db18b22b82ac) |
-| Tue, 05 Aug 2025 09:58:43 GMT | Bug Hunting Story: You Won’t Believe What I Found Hidden in a RetToken Parameter | Elie Attieh | [Read More](https://medium.com/p/781b9ec7e3f5) |
-| Tue, 05 Aug 2025 09:55:31 GMT | Fighting Bots for Free: My Hands-On Review of SafeLine WAF | Quella | [Read More](https://medium.com/p/66b5e970c4a4) |
-| Tue, 05 Aug 2025 09:52:58 GMT | Modern Web Development with Vue.js and Zend Framework | Ketan Patel | [Read More](https://medium.com/p/9a63ed4ea0de) |
-| Tue, 05 Aug 2025 09:51:54 GMT | Cybersecurity Firms: Automated Scans or Actual Value? | Truspex | [Read More](https://medium.com/p/715f7c8033a3) |
-| Tue, 05 Aug 2025 09:51:49 GMT | Why DevOps Teams Favor Penligent.ai for AI-Powered Penetration Testing in 2025 | PenligentAI | [Read More](https://medium.com/p/559f007703b4) |
