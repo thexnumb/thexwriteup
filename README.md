@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 01:54:41 GMT | From PDF to Five-Figure Payday: When Legacy Docs Attack | Armand Jasharaj | [Read More](https://medium.com/p/05f35eb85164) |
+| Tue, 05 Aug 2025 01:49:54 GMT | What I’ve Learned from a Decade in Cybersecurity: Priorities for 2025 | Vivek Lenkalapally | [Read More](https://medium.com/p/81a663c02a5a) |
+| Tue, 05 Aug 2025 01:46:30 GMT | Breaking into ‘Code’, a HackTheBox machine | JJDSEC | [Read More](https://medium.com/p/24ae738b8b2b) |
+| Tue, 05 Aug 2025 01:43:43 GMT | The Reluctant Perfectionist | Khurziya Maratova | [Read More](https://medium.com/p/e0611cae06ca) |
+| Tue, 05 Aug 2025 01:23:27 GMT | Untitled | Daretoexpose | [Read More](https://medium.com/p/d757fabad2bf) |
+| Tue, 05 Aug 2025 01:19:16 GMT | Security Groups for Pods의 동작 방식 및 적용 시 주의 사항 | LG U+ Techblog | [Read More](https://medium.com/p/7c3c0bfb07e0) |
+| Tue, 05 Aug 2025 01:16:47 GMT | Snort IDS Part 1: Getting Started with Real-Time Network Traffic Analysis on Linux | Kallabharath | [Read More](https://medium.com/p/629f80591140) |
+| Tue, 05 Aug 2025 01:13:15 GMT | AI Security Reports — July 2025 | Tal Eliyahu | [Read More](https://medium.com/p/d186c1314140) |
+| Tue, 05 Aug 2025 01:11:59 GMT | Hacking for a Grade: What If Our Adversaries Are Using the DoD as a Classroom? | Thomas Holt Russell, III | [Read More](https://medium.com/p/c35673f18efb) |
+| Tue, 05 Aug 2025 01:10:47 GMT | CTF Biscuit — Vai um biscoitinho modificao ae? | Jonathan M. | [Read More](https://medium.com/p/ef79d7dae205) |
+| Tue, 05 Aug 2025 01:09:18 GMT | Coded in Blood: How Malicious Scripts Are Hiding in EHR Customizations | Travis Ray Caverhill | [Read More](https://medium.com/p/d164a49478e1) |
+| Tue, 05 Aug 2025 00:50:06 GMT | Where the Firewalls End: Exfiltration Tunnels You’re Not Monitoring | Travis Ray Caverhill | [Read More](https://medium.com/p/36f064f906fe) |
+| Tue, 05 Aug 2025 00:45:48 GMT | “to be loved is to be known” | luz perez | [Read More](https://medium.com/p/8a2a96491d49) |
+| Tue, 05 Aug 2025 00:42:59 GMT | Sound, Security, and Simplicity: The 3 Hottest Electronics on Amazon Right Now | Earnest Sherrill | [Read More](https://medium.com/p/a8de320256a0) |
+| Tue, 05 Aug 2025 00:42:01 GMT | Microsoft’s Failed Strategy — Security as an Afterthought | Matthew.Rosenquist | [Read More](https://medium.com/p/ab39f5cb290d) |
+| Tue, 05 Aug 2025 00:40:31 GMT | A CCSP (Certified Cloud Security Professional) Exam Kickstarter for Cloud Native Security… | Gerald Bachlmayr | [Read More](https://medium.com/p/8c0ccfeed457) |
+| Tue, 05 Aug 2025 00:29:44 GMT | Kernel32 Kung Fu: Manual Shellcode on Windows | Itz.sanskarr | [Read More](https://medium.com/p/ddc770d49b87) |
+| Tue, 05 Aug 2025 00:25:36 GMT | A Multi-Layered Phishing Attack Is Hijacking Microsoft 365 Accounts — Here’s How | Cyber-AppSec | [Read More](https://medium.com/p/f8dc962c998e) |
+| Tue, 05 Aug 2025 00:25:22 GMT | The Sentence I Almost Deleted — But Still Hear in My Head | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/91f73287db23) |
+| Tue, 05 Aug 2025 00:24:24 GMT | How RFID Access Systems Can Be Exploited in Minutes | Travis Ray Caverhill | [Read More](https://medium.com/p/1a2e99d0a002) |
+| Tue, 05 Aug 2025 00:19:11 GMT | Breaking Recon with AMASS | Technologist036 | [Read More](https://medium.com/p/4f0761125d42) |
+| Tue, 05 Aug 2025 00:02:52 GMT | When Numbers Lie: Overflowing the Cart to Steal a Jacket | Ahmadhossam | [Read More](https://medium.com/p/835386ea2fb0) |
+| Tue, 05 Aug 2025 00:01:59 GMT | Security Logging and Monitoring Failures (OWASP A09): Guía Completa de Hacking, Bug Bounty | JPablo13 | [Read More](https://medium.com/p/482e518699ca) |
+| Mon, 04 Aug 2025 23:44:16 GMT | How a Simple .git/config Check Earned Me $1000 | Minio Haxer | [Read More](https://medium.com/p/23699662a134) |
 | Mon, 04 Aug 2025 23:40:26 GMT | How to Fix Packet Loss Without Losing Your Mind | Akshay Chauhan | [Read More](https://medium.com/p/a0487fc6e987) |
 | Mon, 04 Aug 2025 23:12:27 GMT | IDS Nedir ve Çeşitlerinde Bulunan Güvenlik Açıkları ? | ErenCatak | [Read More](https://medium.com/p/6d5fbf4492b1) |
 | Mon, 04 Aug 2025 23:05:44 GMT | Unveiling the Hidden Vulnerability in AI’s Memory | Elias Hossain | [Read More](https://medium.com/p/80db6ea5eacb) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 17:47:26 GMT | When Every Alert Feels Urgent: How I Navigate Noise in the SOC | Saumya Shree | [Read More](https://medium.com/p/d721eafaa945) |
 | Mon, 04 Aug 2025 17:43:55 GMT | Automating Recon Like a Pro: Auto-Recon-suite | Walaa Baidaq | [Read More](https://medium.com/p/23531660f602) |
 | Mon, 04 Aug 2025 17:41:00 GMT | Portswigger Path Traversal Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/e28541cf8134) |
-| Mon, 04 Aug 2025 17:38:53 GMT | How to File a Cybercrime Complaint in India Explained | NIkhil Kumar | [Read More](https://medium.com/p/269a6d3eb498) |
-| Mon, 04 Aug 2025 17:38:08 GMT | Cybersecurity Student Success Stories: Inspiring Journeys to Digital Defense | Hack Behind The Mask | [Read More](https://medium.com/p/03e51470c540) |
-| Mon, 04 Aug 2025 17:37:32 GMT | Mastering Rate Limiting in Laravel 12: A Developer’s Guide | Sadique Ali | [Read More](https://medium.com/p/1b4f4bae2d5f) |
-| Mon, 04 Aug 2025 17:35:12 GMT | Full LFI-to-RCE via Apache Access Logs | Zoningxtr | [Read More](https://medium.com/p/e521ec06ec1a) |
-| Mon, 04 Aug 2025 17:34:17 GMT | Full Guide: From LFI to RCE via /var/log/apache2/error.log | Zoningxtr | [Read More](https://medium.com/p/0f364049b107) |
-| Mon, 04 Aug 2025 17:33:47 GMT | From LFI to RCE via /var/log/sshd.log | Zoningxtr | [Read More](https://medium.com/p/1cd81cd318ef) |
-| Mon, 04 Aug 2025 17:33:05 GMT | How Hackers hide Malware in image files — A black hat tactic. | err0rgod | [Read More](https://medium.com/p/efe0b2b5fb5c) |
-| Mon, 04 Aug 2025 17:32:39 GMT | Firmware Dumping Techniques for STM32 Microcontrollers | Abdelwahed Baha | [Read More](https://medium.com/p/62598da6733a) |
-| Mon, 04 Aug 2025 17:25:57 GMT | Get Your First Bug in 7 Days — The Beginner's Bug Bounty Blueprint | Hack Behind The Mask | [Read More](https://medium.com/p/865d2be6f9bb) |
-| Mon, 04 Aug 2025 17:18:04 GMT | Silent Takeover: When Hackers Control Your Smart Building | Aj | [Read More](https://medium.com/p/d068d0c3bee0) |
-| Mon, 04 Aug 2025 17:13:43 GMT | CVE-2025–24813Apache Tomcat Vulnerability Opens Door to Remote Code Execution via Path Equivalence | gm0 | [Read More](https://medium.com/p/39061e91270f) |
-| Mon, 04 Aug 2025 17:13:19 GMT | EXPLOIT VSFTPD : START YOUR RED TEAM JOURNEY | Aniket Paul | [Read More](https://medium.com/p/4d3ee7eb0f94) |
-| Mon, 04 Aug 2025 17:12:59 GMT | Windows Forensics Ep.1: Investigating Windows Event Logs for Security Incidents | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/6ef4842eac46) |
-| Mon, 04 Aug 2025 17:11:55 GMT | Technical Paper, PB-FED : Password Based File Encryption Decryption System | Abhiram S | [Read More](https://medium.com/p/224f29fdbe2c) |
-| Mon, 04 Aug 2025 17:10:14 GMT | What I Learned When I Replaced My Old Wooden Fence With Vinyl | Packwiz | [Read More](https://medium.com/p/fb0ee6183413) |
-| Mon, 04 Aug 2025 17:07:21 GMT | White Paper Cuts | Ana S. | [Read More](https://medium.com/p/fa83238d4e28) |
-| Mon, 04 Aug 2025 17:06:37 GMT | Chaos Theory: The Ransomware Rebrand Hitting Harder | Aj | [Read More](https://medium.com/p/6686626adaee) |
-| Mon, 04 Aug 2025 17:06:28 GMT | Mini SOC Home Lab | Hazem Ahmed | [Read More](https://medium.com/p/bab1dc64847e) |
-| Mon, 04 Aug 2025 17:01:46 GMT | The Linux Process Journey — lsmod | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9186514ff301) |
-| Mon, 04 Aug 2025 17:01:43 GMT | CORS in Node.js: Understanding and Solving Issues | habtesoft | [Read More](https://medium.com/p/d9576a0ee309) |
-| Mon, 04 Aug 2025 17:00:34 GMT | Is it possible to cover the gap of 3 years in 1 year? | Hawra Baroda | [Read More](https://medium.com/p/cb2697a96230) |
-| Mon, 04 Aug 2025 16:58:35 GMT | Cloud, Cyber, Data Science Talent Gap: Bridging with MSPs in 2025 | UpTech Solution | [Read More](https://medium.com/p/83e5cefedb73) |
-| Mon, 04 Aug 2025 16:58:32 GMT | Watch Kalakaar (2025) Hindi Hot Web Series — Stream Now in HD | SSR NEW MOVIES | [Read More](https://medium.com/p/f38aa5700381) |
-| Mon, 04 Aug 2025 16:56:14 GMT | AI can now launch cyberattacks on its own: are we prepared? | Chris Kremidas-Courtney | [Read More](https://medium.com/p/2ff6d24cf245) |
