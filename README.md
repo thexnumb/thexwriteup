@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 22:39:39 GMT | Preliminary data show rebound in homicides in 2024 | jak | [Read More](https://medium.com/p/5f4866e25e2f) |
+| Tue, 05 Aug 2025 22:33:29 GMT | How I Discovered a Critical OTP Rate Limiting Vulnerability on a Bug Bounty Program | Lime | [Read More](https://medium.com/p/e8386e857579) |
+| Tue, 05 Aug 2025 22:16:31 GMT | Dark Web Websites: What They Are and Why People Visit Them | SafeAeon Inc. | [Read More](https://medium.com/p/2330bbd066d8) |
 | Tue, 05 Aug 2025 21:50:01 GMT | Cyber colleagues, join over 932k+ online students enrolled in the “Google Cybersecurity… | Franklin Rhodes | [Read More](https://medium.com/p/52699e816252) |
 | Tue, 05 Aug 2025 21:49:35 GMT | When the Price Goes Wrong: $9K from 2 Price Manipulation | Ay0ub N0uri | [Read More](https://medium.com/p/343b839bd522) |
 | Tue, 05 Aug 2025 21:48:17 GMT | Brim | Isiah | [Read More](https://medium.com/p/f334d50d4763) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 17:05:04 GMT | ️ Breaking the Web: Solving All Stages of the XSS Challenge (by yamagata21) | Bhaskar Maity | [Read More](https://medium.com/p/427c92832981) |
 | Tue, 05 Aug 2025 17:03:19 GMT | Cybersecurity: Is Threat Modeling a Luxury? | Ivan Fedorets | [Read More](https://medium.com/p/0c3f11dd9403) |
 | Tue, 05 Aug 2025 17:01:15 GMT | How I Got a Reverse Shell Through a Telnet Backdoor (TryHackMe Walkthrough) | JEONGYU NOH | [Read More](https://medium.com/p/09231d6a0d29) |
-| Tue, 05 Aug 2025 16:54:33 GMT | Apple Intelligence and the Future of AI Security: Privacy by Design | Rajeev KR | [Read More](https://medium.com/p/f694a1b65f65) |
-| Tue, 05 Aug 2025 16:54:26 GMT | Cyber Privilege: Building Digital Trust in a Threat-Filled World | Vanirayala | [Read More](https://medium.com/p/983d249b3da4) |
-| Tue, 05 Aug 2025 16:52:54 GMT | How an API Token Flaw Let Me Bypass Premium Restrictions | Shubham Sharma | [Read More](https://medium.com/p/43a395f3ddd9) |
