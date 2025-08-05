@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 21:50:01 GMT | Cyber colleagues, join over 932k+ online students enrolled in the “Google Cybersecurity… | Franklin Rhodes | [Read More](https://medium.com/p/52699e816252) |
+| Tue, 05 Aug 2025 21:49:35 GMT | When the Price Goes Wrong: $9K from 2 Price Manipulation | Ay0ub N0uri | [Read More](https://medium.com/p/343b839bd522) |
+| Tue, 05 Aug 2025 21:48:17 GMT | Brim | Isiah | [Read More](https://medium.com/p/f334d50d4763) |
+| Tue, 05 Aug 2025 21:44:34 GMT | Trying to be everything — And not fall apart. | Ashes & Honey | [Read More](https://medium.com/p/1659775f4dfb) |
+| Tue, 05 Aug 2025 21:36:16 GMT | Why Are Developers So Incompetent When It Comes To Security? | Andrew Zuo | [Read More](https://medium.com/p/501f0605c3fe) |
 | Tue, 05 Aug 2025 21:31:32 GMT | 3 Reasons Chicago Businesses Are Installing Bollards | Carmen Lopez | [Read More](https://medium.com/p/9d973db4e266) |
 | Tue, 05 Aug 2025 21:27:51 GMT | Shocking Android App Vulnerabilities: Here’s the Free Tool Hackers Don’t Want You to Find! | cybrNK | [Read More](https://medium.com/p/6e48a39ff580) |
 | Tue, 05 Aug 2025 21:17:37 GMT | Cyber Security Authorization: Granting Access Privileges | Cyber Security Research | [Read More](https://medium.com/p/e8cfec80b72b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 16:54:33 GMT | Apple Intelligence and the Future of AI Security: Privacy by Design | Rajeev KR | [Read More](https://medium.com/p/f694a1b65f65) |
 | Tue, 05 Aug 2025 16:54:26 GMT | Cyber Privilege: Building Digital Trust in a Threat-Filled World | Vanirayala | [Read More](https://medium.com/p/983d249b3da4) |
 | Tue, 05 Aug 2025 16:52:54 GMT | How an API Token Flaw Let Me Bypass Premium Restrictions | Shubham Sharma | [Read More](https://medium.com/p/43a395f3ddd9) |
-| Tue, 05 Aug 2025 16:45:01 GMT | Coinbase Breach: Threats Exposed | Kalariya Het | [Read More](https://medium.com/p/f892a7945ca1) |
-| Tue, 05 Aug 2025 16:43:39 GMT | BYOD Policy Risks: How Personal Devices Threaten Organizational Security | Tarush Sharma | [Read More](https://medium.com/p/61e1d0f5bbcb) |
-| Tue, 05 Aug 2025 16:41:40 GMT | Portswigger XML External Entity (XXE) Injection Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/6d2ff43b001f) |
-| Tue, 05 Aug 2025 16:41:39 GMT | Portswigger XML External Entity (XXE) Injection Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/08830fc0ce2b) |
-| Tue, 05 Aug 2025 16:41:39 GMT | Portswigger XML External Entity (XXE) Injection Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/2cbf5b357011) |
