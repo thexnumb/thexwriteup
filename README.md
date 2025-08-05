@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 03:46:38 GMT | Taming the WebView: Secure Web Content in Your App | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/5e1cd62e6eb0) |
+| Tue, 05 Aug 2025 03:40:00 GMT | Beyond The Basics: Is Your Med Spa Covered For These Common Liability Claims? | revathi msr | [Read More](https://medium.com/p/1853083dfb78) |
+| Tue, 05 Aug 2025 03:38:25 GMT | Forgotten by Design: How an Unused Subdomain Gave Me Full Cloud Access ☁️ | Iski | [Read More](https://medium.com/p/ba7f0c2b4ea2) |
+| Tue, 05 Aug 2025 03:37:46 GMT | Top Home Security Gadgets for 2025: What’s Really Worth Your Money | Sareena | [Read More](https://medium.com/p/0646aa0f3fb4) |
+| Tue, 05 Aug 2025 03:31:02 GMT | Unpacking Adyen’s Cyberattack and What It Means for Global Payments | Deven Chhajed | [Read More](https://medium.com/p/3d3678c888f2) |
+| Tue, 05 Aug 2025 03:24:01 GMT | How to Convert a PEM File into a PPK File Using PuTTY | Venkatreddy | [Read More](https://medium.com/p/0d613118f51b) |
+| Tue, 05 Aug 2025 03:19:29 GMT | #Catatan Belajar: Menyusun ROE | Kiara Humaira | [Read More](https://medium.com/p/284c228117d7) |
+| Tue, 05 Aug 2025 03:19:28 GMT | Prompt, Compile, Deploy… or Not? | Pedro Rau | [Read More](https://medium.com/p/c5241d0ac830) |
+| Tue, 05 Aug 2025 03:14:01 GMT | Breaking In Without Burning Out: A Beginner’s Cybersecurity Roadmap | Luis Marquez | [Read More](https://medium.com/p/b0e61142d913) |
+| Tue, 05 Aug 2025 02:57:07 GMT | How to Build Your Own Burp Suite Extension (Python/Java) | Paritosh | [Read More](https://medium.com/p/efc3c72a98e8) |
+| Tue, 05 Aug 2025 02:38:42 GMT | CIA的三個層次 | Wentz Wu | [Read More](https://medium.com/p/1f5ea2a7da84) |
+| Tue, 05 Aug 2025 02:36:52 GMT | ️Hijacked Without Login⚠: Inside the Citrix Bleed Exploit | LazyHacker | [Read More](https://medium.com/p/9ee11ac5cb45) |
+| Tue, 05 Aug 2025 02:33:24 GMT | How to hack: Internal from THM | Vladimir Cuc | [Read More](https://medium.com/p/136a80c11741) |
+| Tue, 05 Aug 2025 02:32:39 GMT | İmza istismar edən zərərli proqramların aşkarlanması | Orkhan Jalalov | [Read More](https://medium.com/p/d33f82c39439) |
+| Tue, 05 Aug 2025 02:32:25 GMT | On Shards and Blades | Denise Azevedo | [Read More](https://medium.com/p/5fe770d2bcef) |
+| Tue, 05 Aug 2025 02:23:35 GMT | The Cybersecurity Crisis of 2025 | Pawan natekar | [Read More](https://medium.com/p/24f2b99895e1) |
+| Tue, 05 Aug 2025 02:23:34 GMT | Tuesday Morning Threat Report: Aug 5, 2025 | Mark Maguire | [Read More](https://medium.com/p/6e2339d10144) |
+| Tue, 05 Aug 2025 02:21:09 GMT | Why Azure’s Virtual Network Manager Is the Future of Government Cloud Networking | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/b1e7d9b7d6f9) |
 | Tue, 05 Aug 2025 01:54:41 GMT | From PDF to Five-Figure Payday: When Legacy Docs Attack | Armand Jasharaj | [Read More](https://medium.com/p/05f35eb85164) |
 | Tue, 05 Aug 2025 01:49:54 GMT | What I’ve Learned from a Decade in Cybersecurity: Priorities for 2025 | Vivek Lenkalapally | [Read More](https://medium.com/p/81a663c02a5a) |
 | Tue, 05 Aug 2025 01:46:30 GMT | Breaking into ‘Code’, a HackTheBox machine | JJDSEC | [Read More](https://medium.com/p/24ae738b8b2b) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 18:37:11 GMT | [2] picoCTF 2025 Challenge — n0s4n1ty 1 (Web Exploitation)[Easy] | Saptarshi | [Read More](https://medium.com/p/05a15a3928ec) |
 | Mon, 04 Aug 2025 18:36:54 GMT | July 2025’s Worst Security Bugs (And What to Fix Before It’s Too Late) | Larsen | [Read More](https://medium.com/p/059a633236ba) |
 | Mon, 04 Aug 2025 18:35:57 GMT | Write-up: Dragon— TheHackersLabs | D4xt | [Read More](https://medium.com/p/1474d6c91e09) |
-| Mon, 04 Aug 2025 18:33:13 GMT | How to reset FortiGate Password (macOS and Windows) | barancem | [Read More](https://medium.com/p/e48ee4513d71) |
-| Mon, 04 Aug 2025 18:28:46 GMT | Automate Subdomain Discovery with Amass | Mayank Kumar Prajapati | [Read More](https://medium.com/p/57c3c665df61) |
-| Mon, 04 Aug 2025 18:28:24 GMT | How I Built a Complete SOC Home Lab from Scratch | TraceX0 | [Read More](https://medium.com/p/66877555336b) |
-| Mon, 04 Aug 2025 18:26:03 GMT | howHow to Fix Packet Loss: A Simple Guide to Smoother Internet Performance | SafeAeon Inc. | [Read More](https://medium.com/p/0b8d1f66945c) |
-| Mon, 04 Aug 2025 18:19:03 GMT | Chapter 2: TCP/IP Essentials | Thexnumb | [Read More](https://medium.com/p/a6b5b97e60e3) |
-| Mon, 04 Aug 2025 18:10:18 GMT | Crypto Investigations 101: Understanding the Difference Between Private Keys and Seed Phrases | Aleon akibo | [Read More](https://medium.com/p/154e6fbd2e38) |
-| Mon, 04 Aug 2025 18:08:31 GMT | The Secret Within the Treasury Code: Secure Code Analysis (Part 1) | Sevban Dönmez | [Read More](https://medium.com/p/183c2fa7004a) |
-| Mon, 04 Aug 2025 18:07:31 GMT | Linux Command Line Interface (CLI) — Part 9: Linux file system, Directory Structure & File Metadata | Bharath | [Read More](https://medium.com/p/b607c68e135f) |
-| Mon, 04 Aug 2025 18:07:16 GMT | Securing Applications with Advanced NextAuth.js Techniques | @rnab | [Read More](https://medium.com/p/af6f0024e84e) |
-| Mon, 04 Aug 2025 18:07:14 GMT | https://wa.me/923282105224 | john well | [Read More](https://medium.com/p/b655b232c30f) |
-| Mon, 04 Aug 2025 18:00:23 GMT | Best Spy App Qustodio Review: Worth It for Parental Control? | Narjis Batool | [Read More](https://medium.com/p/a96c5faa9845) |
-| Mon, 04 Aug 2025 17:59:13 GMT | The Mirror of Leadership: Why Self-Reflection is a Vulnerable Act | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/db8e17fc1b27) |
-| Mon, 04 Aug 2025 17:58:58 GMT | Pi-Fi Hacking: Capturing WPA Handshake | Girishatindra | [Read More](https://medium.com/p/5d2787d0b7d0) |
-| Mon, 04 Aug 2025 17:53:11 GMT | Part 2: Backend Bouncer Unleashed — Node.js, Multer & Saying ‘Nope!’ to Nasty Files | Krishnamani | [Read More](https://medium.com/p/d0e78b7df00b) |
-| Mon, 04 Aug 2025 17:48:41 GMT | Still Tangled, But Less So (or “how to write a blog when you have no idea what to write about”) | Adam Ryan | [Read More](https://medium.com/p/a8c4038400fe) |
-| Mon, 04 Aug 2025 17:47:26 GMT | When Every Alert Feels Urgent: How I Navigate Noise in the SOC | Saumya Shree | [Read More](https://medium.com/p/d721eafaa945) |
-| Mon, 04 Aug 2025 17:43:55 GMT | Automating Recon Like a Pro: Auto-Recon-suite | Walaa Baidaq | [Read More](https://medium.com/p/23531660f602) |
-| Mon, 04 Aug 2025 17:41:00 GMT | Portswigger Path Traversal Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/e28541cf8134) |
