@@ -12,10 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 09:51:54 GMT | Cybersecurity Firms: Automated Scans or Actual Value? | Truspex | [Read More](https://medium.com/p/715f7c8033a3) |
+| Tue, 05 Aug 2025 09:51:49 GMT | Why DevOps Teams Favor Penligent.ai for AI-Powered Penetration Testing in 2025 | PenligentAI | [Read More](https://medium.com/p/559f007703b4) |
+| Tue, 05 Aug 2025 09:48:07 GMT | A16z Insights: From Unpatched AI to Penligent.ai | PenligentAI | [Read More](https://medium.com/p/b6b9dab15e1b) |
+| Tue, 05 Aug 2025 09:43:40 GMT | A Big Question Mark | Weave Poetry | [Read More](https://medium.com/p/e5ed244e04f8) |
+| Tue, 05 Aug 2025 09:43:25 GMT | The AI‑Powered Pentest Revolution: pentesttool, pentestAI, and pentestGPT You Should Know | PenligentAI | [Read More](https://medium.com/p/2a37d6c2d793) |
+| Tue, 05 Aug 2025 09:37:59 GMT | IACS UR E26-E27 Implementation for VLCC Cyber Resilience | Tony Shin | [Read More](https://medium.com/p/ef386d9d520f) |
+| Tue, 05 Aug 2025 09:35:14 GMT | The Growing Demand for Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/6fc6973738cc) |
+| Tue, 05 Aug 2025 09:29:37 GMT | Frontend Dev in Focus: TS vs JS & Must-Have Tools | Bhavesh Rajpurohit | [Read More](https://medium.com/p/ab8fb882ed41) |
 | Tue, 05 Aug 2025 09:23:23 GMT | Boost Your Cybersecurity Career with CISM Certification! | Cybernous Infosec consulting | [Read More](https://medium.com/p/76bb5f673984) |
 | Tue, 05 Aug 2025 09:21:14 GMT | The Man Who Got Lost in His Notes | Yalcin Arsan | [Read More](https://medium.com/p/ed0080bd380e) |
 | Tue, 05 Aug 2025 09:18:14 GMT | The Universal Symbolic Communication Protocol (USCP): The Rosetta Stone. | Branden Lee Friend | [Read More](https://medium.com/p/08805d8a92fb) |
 | Tue, 05 Aug 2025 09:18:01 GMT | What Is SECaaS? Benefits, Risks, and How to Choose the Right Provider | Minzelo | [Read More](https://medium.com/p/778fee404b19) |
+| Tue, 05 Aug 2025 09:15:44 GMT | Stop Common Attacks Cold with These Built-In PHP Defenses | Asian Digital Hub | [Read More](https://medium.com/p/b9cc81d355e0) |
 | Tue, 05 Aug 2025 09:15:02 GMT | Secure Your Business with Cyber Security Solutions — TTR Technology Cybersecurity Expert | tommy reed | [Read More](https://medium.com/p/c2dcebac22b7) |
 | Tue, 05 Aug 2025 09:13:51 GMT | [CVE-2025–54424] Critical RCE Vulnerability in 1Panel Pro — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/92dd39a83f92) |
 | Tue, 05 Aug 2025 09:10:06 GMT | 31 & Switching to Cybersec? You’re Not Alone. | Authlyn | [Read More](https://medium.com/p/a5bbe41e61c6) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 05:08:30 GMT | The AI Arms Race Has Begun: Are CISOs Ready? | Prabhat Jha | [Read More](https://medium.com/p/e854c2cdf050) |
 | Tue, 05 Aug 2025 05:01:33 GMT | A Call for Safe and Transparent Social Media | Hemraj Kumawat | [Read More](https://medium.com/p/28991d2676d9) |
 | Tue, 05 Aug 2025 05:01:21 GMT | Portswigger Web Security Academy - File Upload Lab #1 | BooRuleDie | [Read More](https://medium.com/p/352f5792b64b) |
-| Tue, 05 Aug 2025 05:00:42 GMT | Top Cybersecurity Trends to Watch in 2025: AI, Zero Trust, and Emerging Threats | peopletech | [Read More](https://medium.com/p/314d013dbba0) |
-| Tue, 05 Aug 2025 04:56:56 GMT | 4. Top 10 Recon Tools I Use Every Day (With Pro Tips & Workflows) | Abhijeet kumawat | [Read More](https://medium.com/p/61665e79e65d) |
-| Tue, 05 Aug 2025 04:55:11 GMT | Covert Channel Chronicles: Remotely Activated Hardware Trojans | Ian Barwise | [Read More](https://medium.com/p/e2ca1ebf8d8c) |
-| Tue, 05 Aug 2025 04:48:10 GMT | Unmanned Underwater Vehicle (UUV) Market | George Buttler | [Read More](https://medium.com/p/5d0019ab97d3) |
-| Tue, 05 Aug 2025 04:43:48 GMT | Shifting Left with Security in Cursor AI: Integrating Semgrep and Detect Secrets | Srinivasan Azhagar | [Read More](https://medium.com/p/1ecb5102505d) |
-| Tue, 05 Aug 2025 04:38:32 GMT | OWASP Securing Agentic Applications: A Security Checklist for LLM-Based Agents | Viktor Davydych | [Read More](https://medium.com/p/062cba15fb3c) |
-| Tue, 05 Aug 2025 04:27:37 GMT | The modern employee dilemma | Raonejalagandeswaran | [Read More](https://medium.com/p/123c8eeeccf1) |
-| Tue, 05 Aug 2025 04:25:43 GMT | Ultimate App Security in Flutter with ultra_secure_flutter_kit — A Complete Guide | AlexCodeX | [Read More](https://medium.com/p/d48af36bc3e5) |
-| Tue, 05 Aug 2025 04:25:15 GMT | How GPS Tracking Technology is Transforming Vehicle Security Forever | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/fa2c1fac6fbd) |
