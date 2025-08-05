@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 19:14:06 GMT | When Bad Data Becomes the Real Threat: The Dark Trick Behind Poisoned Intel | Akshay Chauhan | [Read More](https://medium.com/p/581d8940bfbe) |
+| Tue, 05 Aug 2025 19:13:11 GMT | Famous Breaches from the 90s You’ve Never Heard Of | Berk Yanadur | [Read More](https://medium.com/p/54608297068a) |
+| Tue, 05 Aug 2025 19:07:43 GMT | Prompt Security: Navigating and Protecting the New Frontier of AI Interactions | Halil Ural | [Read More](https://medium.com/p/1addc3e43859) |
+| Tue, 05 Aug 2025 19:06:50 GMT | Cybersecurity or Cyber Security: Why One Word Could Make a Big Difference | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/2662414eb0ce) |
+| Tue, 05 Aug 2025 19:00:13 GMT | SEC Clarifies Liquid Staking and Protocol Staking: What This Means for Blockchain Innovation and… | Jetvoy.com | [Read More](https://medium.com/p/d414838bf31b) |
+| Tue, 05 Aug 2025 18:56:13 GMT | The Persistent Threat of ADOT Smishing Scams | Jacob Vasquez | [Read More](https://medium.com/p/4908783c5a88) |
+| Tue, 05 Aug 2025 18:54:39 GMT | Mass Data Exposure: Why PII Leaks Are Rampant, and Largely Ignored | Utkarsh Shrivastava | [Read More](https://medium.com/p/d2d41c3c6986) |
+| Tue, 05 Aug 2025 18:50:10 GMT | Great Support Starts with the Right Questions: Using W5H in Tech Support | Biswajitsatapathy | [Read More](https://medium.com/p/b471ad00e78a) |
+| Tue, 05 Aug 2025 18:47:48 GMT | Do you Practice, but Still Feel Stuck at Bug Bounty? | Appsec.pt | [Read More](https://medium.com/p/6b80dba02403) |
+| Tue, 05 Aug 2025 18:39:12 GMT | The Ultimate Guide to the Best Penetration Testing Tools in 2025 | cybrNK | [Read More](https://medium.com/p/cdbd77bcd99e) |
+| Tue, 05 Aug 2025 18:35:58 GMT | Securing AI Agent orchestration using the AI Agent Resource Registry | Valdez Ladd | [Read More](https://medium.com/p/5917de49ab20) |
+| Tue, 05 Aug 2025 18:31:41 GMT | How I Went from IT Support to Senior Pentester in Just 2 Years | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/7df8739f5f17) |
+| Tue, 05 Aug 2025 18:31:15 GMT | Remote Code Execution / Uzaktan Kod Yürütme Nedir? | Mustafa Şen | [Read More](https://medium.com/p/97fa03d7bf72) |
+| Tue, 05 Aug 2025 18:30:45 GMT | LazyOwn RedTeam Framework: How Open-Source Chaos Forces Blue Teams to Stay Sharp (and Sane) | Lazyown Redteam | [Read More](https://medium.com/p/5b927f32ff84) |
+| Tue, 05 Aug 2025 18:26:02 GMT | NIST SP 800–82r3, “Guide to Operational Technology (OT) Security, what the heck is it? | Jacob Vasquez | [Read More](https://medium.com/p/c34576b66216) |
 | Tue, 05 Aug 2025 18:22:47 GMT | Advanced Info-Stealer Targets 4,000+ IPs Worldwide | RealSec.io | [Read More](https://medium.com/p/76472da79886) |
 | Tue, 05 Aug 2025 18:22:38 GMT | Top Spy App Eyezy Review: Track Any Phone with Ease | Narjis Batool | [Read More](https://medium.com/p/2f4a0814715d) |
 | Tue, 05 Aug 2025 18:21:48 GMT | Ultimate Technical Breakdown of the MITRE Ecosystem | Shadow Packet | [Read More](https://medium.com/p/3aaf6e57322d) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 15:03:44 GMT | When the Network Goes Silent: How to Respond to Digital Stonewalling in Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/0b25e94256c8) |
 | Tue, 05 Aug 2025 15:02:08 GMT | Europe Security Market Growth Fueled by Smart Technology Integration Through 2033 | Joey Moore | [Read More](https://medium.com/p/bd22c9577cea) |
 | Tue, 05 Aug 2025 15:00:35 GMT | Secret bytes 2025: turning every PNG pixel into a vault | Aleksei Aleinikov | [Read More](https://medium.com/p/7352bcc4ba85) |
-| Tue, 05 Aug 2025 14:59:12 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/73f237458412) |
-| Tue, 05 Aug 2025 14:57:24 GMT | Securing Agentic Workflows: A Necessity in the Age of Autonomous AI | Sandeep Gunnam | [Read More](https://medium.com/p/61e059cbcb75) |
-| Tue, 05 Aug 2025 14:51:40 GMT | My preparation for Security+ | Zen | [Read More](https://medium.com/p/35f11a4352ea) |
-| Tue, 05 Aug 2025 14:51:23 GMT | Jangan dikit-dikit “Bypass”. Gak semua yang “Aneh” itu vulnerability | Rona Febriana | [Read More](https://medium.com/p/05b3482f5b14) |
-| Tue, 05 Aug 2025 14:50:11 GMT | Root-Me: XSS — Stored 1 | _marwankhodair_ | [Read More](https://medium.com/p/6bcbc1356f5a) |
-| Tue, 05 Aug 2025 14:46:38 GMT | Akira Ransomware: Conti Lineage, VPN Exploitation, and Double Extortion at Scale | Wes Young | [Read More](https://medium.com/p/e1c6b9fd22f9) |
-| Tue, 05 Aug 2025 14:43:56 GMT | Web Security — SMT Program 2025 Write-up | Gracialy | [Read More](https://medium.com/p/20c48523dbcc) |
-| Tue, 05 Aug 2025 14:42:15 GMT | My College Firewall Blocked Everything. So I Built My Own Global VPN for Free! | Naga Praneeth kandikandi | [Read More](https://medium.com/p/8a6425be888a) |
-| Tue, 05 Aug 2025 14:37:50 GMT | Day 71: Metasploit | Nile Okomo | [Read More](https://medium.com/p/d360a8868bcc) |
-| Tue, 05 Aug 2025 14:37:00 GMT | How to detect ADCS Attacks | Kévin Abou Ahmed | [Read More](https://medium.com/p/ea0c0038341a) |
-| Tue, 05 Aug 2025 14:33:12 GMT | TryHackMe - Carnage - WriteUp | Axoloth | [Read More](https://medium.com/p/7a9e08e9fd8b) |
-| Tue, 05 Aug 2025 14:32:22 GMT | Tame the Terminal (Part 4): Count Logs, Slice Text & Echo Like a Pro | MayhemCode | [Read More](https://medium.com/p/ba96a7a1c019) |
-| Tue, 05 Aug 2025 14:32:14 GMT | Why Organizational Cybersecurity Starts with Your Entire Team | CYBERUP INSTITUTE | [Read More](https://medium.com/p/fd98d27cba89) |
-| Tue, 05 Aug 2025 14:30:23 GMT | Stay Safe: Microsoft Now the #1 Most Spoofed Company | Zack Calloway | [Read More](https://medium.com/p/e0cbbfc36b2d) |
-| Tue, 05 Aug 2025 14:30:10 GMT | ISMAP Management Standards Chapter 8: Protecting Information Assets — The Importance of “Asset… | nolly | [Read More](https://medium.com/p/faa0e34feae1) |
