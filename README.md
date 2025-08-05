@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 06:30:38 GMT | XSS Trap Card Series — Vol. 1 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4a1fd177cc74) |
+| Tue, 05 Aug 2025 06:21:50 GMT | Day 22- PowerShell Basic Commands for beginners | unica 02 | [Read More](https://medium.com/p/cc7741d6d139) |
+| Tue, 05 Aug 2025 06:12:33 GMT | Türkiye’nin Her Yerinde Güvenlik Hizmeti Veren Lider Firma: Desecure | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/1c6f7d307374) |
+| Tue, 05 Aug 2025 06:01:39 GMT | What is Compliance-Management-as-a-Service (CMaaS) and Why You Need It | CyRAACS | [Read More](https://medium.com/p/dda1f6248087) |
+| Tue, 05 Aug 2025 06:01:24 GMT | The Unfunded Frontier: Why Emotional Infrastructure Is the Missing Pillar in Global Security and… | Harbour of Mercy CIC | [Read More](https://medium.com/p/1d10168ca186) |
+| Tue, 05 Aug 2025 06:00:36 GMT | Today’s Top Cyber Intelligence Highlights — Aug 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/91e0d4c9ef97) |
+| Tue, 05 Aug 2025 05:57:51 GMT | We Didn’t Fix Alignment; We Just Found the Light Switch | The AIthicist | [Read More](https://medium.com/p/048879eb10f2) |
+| Tue, 05 Aug 2025 05:55:56 GMT | Phishing: The Silent Danger Inside and Outside Organizations | RTB CYBERTECH | [Read More](https://medium.com/p/de8d7f222f46) |
+| Tue, 05 Aug 2025 05:54:57 GMT | ️ How to Implement ISO/IEC 27001 Step-by-Step in a Manufacturing Company Using IBM and GCP Cloud… | Hammad Zahid | [Read More](https://medium.com/p/bbd8afa45e7c) |
+| Tue, 05 Aug 2025 05:52:59 GMT | How to Disappear Online (When You Feel Like Someone’s Watching You) | Karthikeyan | [Read More](https://medium.com/p/c3c2a7022ca1) |
+| Tue, 05 Aug 2025 05:49:24 GMT | AI-Powered Decentralization: The Future of Autonomous Blockchain Networks | Suhana Shaik | [Read More](https://medium.com/p/6a7f3cbf6d81) |
+| Tue, 05 Aug 2025 05:46:57 GMT | Cybersecurity budgets: Is more money really the answer? | Martin Abramov | [Read More](https://medium.com/p/24fb0f72964a) |
+| Tue, 05 Aug 2025 05:46:41 GMT | Subdomain Scanner to HTTP Hunter: | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e1b8abaf6fb3) |
+| Tue, 05 Aug 2025 05:44:28 GMT | How to Build a Career in Cybersecurity | Charleskerren | [Read More](https://medium.com/p/f74424b75050) |
+| Tue, 05 Aug 2025 05:43:22 GMT | Cybersecurity Trends 2025: How CEH v13 Certification Keeps You Ahead | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/0fbdf87b772c) |
+| Tue, 05 Aug 2025 05:43:12 GMT | AI in Cybersecurity: Good or Dangerous? | Ann Maria | [Read More](https://medium.com/p/c52f427a0fa0) |
+| Tue, 05 Aug 2025 05:43:11 GMT | CI/CD + Security: A DevSecOps Playbook [Part 1] | Ayush Pandey | [Read More](https://medium.com/p/1f5010a0abbd) |
+| Tue, 05 Aug 2025 05:36:47 GMT | Intercepting the Ether — A Scholarly & Industry-Level Guide to Kali-Tools-SDR | RafalW3bCraft | [Read More](https://medium.com/p/4132f208428a) |
+| Tue, 05 Aug 2025 05:33:42 GMT | Encryption: The Unsung Hero of Digital Security | Geeky Vartika | [Read More](https://medium.com/p/25b27037325b) |
+| Tue, 05 Aug 2025 05:33:02 GMT | Day 62 Bonus Gets Crazy | Bboneus Skids | [Read More](https://medium.com/p/724c2b77984c) |
+| Tue, 05 Aug 2025 05:31:34 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/ebe623d5cc42) |
 | Tue, 05 Aug 2025 05:22:44 GMT | How System Integration Can Revolutionize Healthcare Operations: A Complete Guide | Diga core | [Read More](https://medium.com/p/568fe8daceeb) |
 | Tue, 05 Aug 2025 05:18:48 GMT | The cyber attack on DeepSeek exposes the dangers of artificial intelligence platforms.. | Sidialtos | [Read More](https://medium.com/p/fd13f2b53e07) |
 | Tue, 05 Aug 2025 05:08:30 GMT | The AI Arms Race Has Begun: Are CISOs Ready? | Prabhat Jha | [Read More](https://medium.com/p/e854c2cdf050) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 21:39:20 GMT | Rwanda’s Regional Role: Between Security, Influence, and Emerging Imperial Ambitions | Afrikan Identity | [Read More](https://medium.com/p/bc3f37a16991) |
 | Mon, 04 Aug 2025 21:36:09 GMT | Bypassing Authentication and Triggering XSS via Simple URL Manipulation | Fareed Ahmed | [Read More](https://medium.com/p/a3d56c66b136) |
 | Mon, 04 Aug 2025 21:32:08 GMT | The BTL1 Exam, and Course Survival Guide… Or how I passed with 100%, and got my gold coin, and how… | Seccult | [Read More](https://medium.com/p/b7ce92221db3) |
-| Mon, 04 Aug 2025 21:19:04 GMT | Western Techniques | Norman Meg | [Read More](https://medium.com/p/3d7786395080) |
-| Mon, 04 Aug 2025 21:16:27 GMT | Security Vulnerability Assessment Report: educrate.space | Pulkit Rai | [Read More](https://medium.com/p/f716197d86c2) |
-| Mon, 04 Aug 2025 21:11:03 GMT | The Future of Artificial Intelligence: What the Next 5 Years Might Bring | Rehman Rehman | [Read More](https://medium.com/p/50c3e3519b2f) |
-| Mon, 04 Aug 2025 21:02:48 GMT | Blog 5: Mastering Port Discovery—Scanning Open Services with Nmap with Wireshark Analysis. | Ar-jay A. Ballaco | [Read More](https://medium.com/p/1df382e43913) |
-| Mon, 04 Aug 2025 20:54:07 GMT | It’s Time to Update Your Threat Model | Robert Stribley | [Read More](https://medium.com/p/894df1c40bcd) |
-| Mon, 04 Aug 2025 20:39:19 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/9c2c21936d25) |
-| Mon, 04 Aug 2025 20:36:39 GMT | MSFvenom vs Donut: AV Detection Face-Off | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1229f5b55d60) |
-| Mon, 04 Aug 2025 20:30:50 GMT | I Found 50+ XSS Flaws Using Just My Browser | Ibtissam hammadi | [Read More](https://medium.com/p/a00caba76c48) |
-| Mon, 04 Aug 2025 20:24:27 GMT | Polymorphic Viruses: The Shape-Shifting Malware Threat You Can’t Ignore | SafeAeon Inc. | [Read More](https://medium.com/p/378245a43474) |
-| Mon, 04 Aug 2025 20:17:29 GMT | En Yaygın Siber Saldırı Türleri-7 | Melek | [Read More](https://medium.com/p/9a66a95b787d) |
-| Mon, 04 Aug 2025 20:17:00 GMT | Session Fixation in Vvveb CMS v1.0.6.1 | Andrew Paul | [Read More](https://medium.com/p/9784ddb125f1) |
-| Mon, 04 Aug 2025 20:10:41 GMT | Your Phone Isn’t Safe Anymore | Aj | [Read More](https://medium.com/p/cfdd4ed99b73) |
-| Mon, 04 Aug 2025 20:10:06 GMT | What You Need To Know About Property, Business Interruption, & Cyber Insurance | Financial Poise | [Read More](https://medium.com/p/835a82a379ae) |
-| Mon, 04 Aug 2025 20:06:29 GMT | 5 Jaw-Dropping SIEM Cybersecurity Tools Keeping Hackers Up at Night (2025 Edition) | cybrNK | [Read More](https://medium.com/p/c8b2613a864e) |
-| Mon, 04 Aug 2025 20:02:25 GMT | Haven1 Isn’t Just a Safer Chain, It’s the Foundation DeFi Always Needed | Victor | [Read More](https://medium.com/p/9e347a828e3b) |
-| Mon, 04 Aug 2025 19:59:19 GMT | What is SIEM? | Kiran Adhikari | [Read More](https://medium.com/p/d928314274e9) |
-| Mon, 04 Aug 2025 19:57:48 GMT | The Hidden Risks of AI Code Editors — and Why Total Reliance Is Dangerous | Tapendra Dev | [Read More](https://medium.com/p/95c8a0660f1b) |
-| Mon, 04 Aug 2025 19:55:05 GMT | I Built a Hacker-Grade Cyber Tool Because I Found a 0-day in a billion dollar company | Ayman IA | [Read More](https://medium.com/p/2c116068e027) |
-| Mon, 04 Aug 2025 19:42:48 GMT | Pod Security Standard not being applied to Namespace? | W. Jenks Gibbons | [Read More](https://medium.com/p/7d1d637077af) |
-| Mon, 04 Aug 2025 19:42:48 GMT | Sanal Makinede Windows Server Üzerinden Active Directory ve Group Policy (VirtualBox) | Mertcan Kopruvalı | [Read More](https://medium.com/p/dbdd65e844b6) |
-| Mon, 04 Aug 2025 19:30:56 GMT | Lazy VM-idekCTF 2025 Writeup | Mirseyid Mirzazada | [Read More](https://medium.com/p/077a8653a870) |
