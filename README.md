@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 19:37:50 GMT | Varonis and Microsoft: Securing AI’s Future with Data Protection | Andrew Kagan | [Read More](https://medium.com/p/5b6f8cb4c608) |
+| Tue, 05 Aug 2025 19:35:05 GMT | Why You Should Add Air Gaps Before and After a CDR/XDR File Cleansing Server | Juda slomovich | [Read More](https://medium.com/p/0485144f095c) |
+| Tue, 05 Aug 2025 19:33:59 GMT | EXP-401 OSEE Review — Offensive Security Exploitation Expert | Jake Mayhew | [Read More](https://medium.com/p/508f3357851d) |
+| Tue, 05 Aug 2025 19:32:05 GMT | We trust. We get hurt. And then we trust again. | Hitesh Singh | [Read More](https://medium.com/p/6cb17d32857b) |
+| Tue, 05 Aug 2025 19:26:07 GMT | Introducción a Linux — Parte 3: Primeros Comandos y Estructura del Sistema | Zeyled Nazey | [Read More](https://medium.com/p/0f69f593bb08) |
+| Tue, 05 Aug 2025 19:20:02 GMT | Who Needs to Comply with EN 18031 Cybersecurity Standards? | Simon Stampfl | [Read More](https://medium.com/p/871d85211ee3) |
+| Tue, 05 Aug 2025 19:19:45 GMT | One Character, One Flaw: Why & sleep 5 # Works But & sleep 5 Doesn’t | Siddiquimohammad | [Read More](https://medium.com/p/f001a4708370) |
 | Tue, 05 Aug 2025 19:14:06 GMT | When Bad Data Becomes the Real Threat: The Dark Trick Behind Poisoned Intel | Akshay Chauhan | [Read More](https://medium.com/p/581d8940bfbe) |
 | Tue, 05 Aug 2025 19:13:11 GMT | Famous Breaches from the 90s You’ve Never Heard Of | Berk Yanadur | [Read More](https://medium.com/p/54608297068a) |
+| Tue, 05 Aug 2025 19:11:04 GMT | How Cybersecurity Services Safeguard Small Businesses in 2025 | Startupvisors | [Read More](https://medium.com/p/b87d7015a8ed) |
 | Tue, 05 Aug 2025 19:07:43 GMT | Prompt Security: Navigating and Protecting the New Frontier of AI Interactions | Halil Ural | [Read More](https://medium.com/p/1addc3e43859) |
 | Tue, 05 Aug 2025 19:06:50 GMT | Cybersecurity or Cyber Security: Why One Word Could Make a Big Difference | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/2662414eb0ce) |
 | Tue, 05 Aug 2025 19:00:13 GMT | SEC Clarifies Liquid Staking and Protocol Staking: What This Means for Blockchain Innovation and… | Jetvoy.com | [Read More](https://medium.com/p/d414838bf31b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 15:30:50 GMT | 6 Lessons I Learnt as a Beginner- From an Event that Sparked my Drive. | Haruna Rasheedah | [Read More](https://medium.com/p/a086caf792ae) |
 | Tue, 05 Aug 2025 15:29:58 GMT | BLUE- TRYHACKME | TheSocialHacker | [Read More](https://medium.com/p/555dbefbe12e) |
 | Tue, 05 Aug 2025 15:23:51 GMT | Your ChatGPT Prompts Are Bad. Here’s the Only One You’ll Ever Need. | Fahad's Foresight | [Read More](https://medium.com/p/356430e5f482) |
-| Tue, 05 Aug 2025 15:21:22 GMT | AI in Cybersecurity: How Machine Learning Stops Cyber Threats Faster | Payaam Raza | [Read More](https://medium.com/p/248cddf07fe5) |
-| Tue, 05 Aug 2025 15:20:01 GMT | SIEM Mimarisi ve Bileşenleri | ErenCatak | [Read More](https://medium.com/p/31994bf6beba) |
-| Tue, 05 Aug 2025 15:13:33 GMT | Professional Hacking Service - Sessions Hijacking | BlackHat | [Read More](https://medium.com/p/178324c1a20e) |
-| Tue, 05 Aug 2025 15:11:53 GMT | How I Balance Gym, Work, and Cybersecurity Studies (Without Burning Out) | Rue | [Read More](https://medium.com/p/14eef381f9e2) |
-| Tue, 05 Aug 2025 15:09:19 GMT | XSS (Cross-Site Scripting) Explained Simply | Binurajendran | [Read More](https://medium.com/p/da8604448d22) |
-| Tue, 05 Aug 2025 15:03:44 GMT | When the Network Goes Silent: How to Respond to Digital Stonewalling in Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/0b25e94256c8) |
-| Tue, 05 Aug 2025 15:02:08 GMT | Europe Security Market Growth Fueled by Smart Technology Integration Through 2033 | Joey Moore | [Read More](https://medium.com/p/bd22c9577cea) |
-| Tue, 05 Aug 2025 15:00:35 GMT | Secret bytes 2025: turning every PNG pixel into a vault | Aleksei Aleinikov | [Read More](https://medium.com/p/7352bcc4ba85) |
