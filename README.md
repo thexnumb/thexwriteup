@@ -12,10 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 17:19:44 GMT | Bug Bounty Hunting — Are Self Hosted Programs Any Better? | Rehan Sohail | [Read More](https://medium.com/p/797ecf90bc80) |
+| Tue, 05 Aug 2025 17:11:28 GMT | Secure Your Spreadsheets — OCT Newsletter 8–4–2025 | www.OneCoolTip.com | [Read More](https://medium.com/p/02d2fb1f3988) |
+| Tue, 05 Aug 2025 17:05:04 GMT | ️ Breaking the Web: Solving All Stages of the XSS Challenge (by yamagata21) | Bhaskar Maity | [Read More](https://medium.com/p/427c92832981) |
+| Tue, 05 Aug 2025 17:03:19 GMT | Cybersecurity: Is Threat Modeling a Luxury? | Ivan Fedorets | [Read More](https://medium.com/p/0c3f11dd9403) |
+| Tue, 05 Aug 2025 17:01:15 GMT | How I Got a Reverse Shell Through a Telnet Backdoor (TryHackMe Walkthrough) | JEONGYU NOH | [Read More](https://medium.com/p/09231d6a0d29) |
+| Tue, 05 Aug 2025 16:54:33 GMT | Apple Intelligence and the Future of AI Security: Privacy by Design | Rajeev KR | [Read More](https://medium.com/p/f694a1b65f65) |
+| Tue, 05 Aug 2025 16:54:26 GMT | Cyber Privilege: Building Digital Trust in a Threat-Filled World | Vanirayala | [Read More](https://medium.com/p/983d249b3da4) |
+| Tue, 05 Aug 2025 16:52:54 GMT | How an API Token Flaw Let Me Bypass Premium Restrictions | Shubham Sharma | [Read More](https://medium.com/p/43a395f3ddd9) |
 | Tue, 05 Aug 2025 16:45:01 GMT | Coinbase Breach: Threats Exposed | Kalariya Het | [Read More](https://medium.com/p/f892a7945ca1) |
+| Tue, 05 Aug 2025 16:43:39 GMT | BYOD Policy Risks: How Personal Devices Threaten Organizational Security | Tarush Sharma | [Read More](https://medium.com/p/61e1d0f5bbcb) |
 | Tue, 05 Aug 2025 16:41:40 GMT | Portswigger XML External Entity (XXE) Injection Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/6d2ff43b001f) |
 | Tue, 05 Aug 2025 16:41:39 GMT | Portswigger XML External Entity (XXE) Injection Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/08830fc0ce2b) |
 | Tue, 05 Aug 2025 16:41:39 GMT | Portswigger XML External Entity (XXE) Injection Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/2cbf5b357011) |
+| Tue, 05 Aug 2025 16:38:28 GMT | Pengalaman Seru Belajar di Red Hat Academy. | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/c569de14c5ae) |
+| Tue, 05 Aug 2025 16:37:36 GMT | Directory - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/7834f5161751) |
 | Tue, 05 Aug 2025 16:35:28 GMT | Cracked in Seconds: How a Weak Password Exposed 64 Million McDonald’s Applicants | Kalariya Het | [Read More](https://medium.com/p/dc1184c9c52c) |
 | Tue, 05 Aug 2025 16:30:37 GMT | Why Vibe Coding Is the New Silent Threat to User Privacy | Feroot Security | [Read More](https://medium.com/p/4188f5ffe5b0) |
 | Tue, 05 Aug 2025 16:26:44 GMT | Not Just Another Leak: When Malware Steals Passwords | Evgeny Ermakov | [Read More](https://medium.com/p/4b836c2586c9) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 13:01:48 GMT | The Hidden Risks Behind “Free” OSINT Tools Everyone Recommends | Ingvar Pavlovich | [Read More](https://medium.com/p/3626316f6679) |
 | Tue, 05 Aug 2025 13:01:44 GMT | Cisco Confirms Data Breach After Employee Falls for Voice Phishing Scam | Dhruvdeep Singh | [Read More](https://medium.com/p/c2baf6e30473) |
 | Tue, 05 Aug 2025 12:57:55 GMT | Cyber Attacks in Indonesia: Trends, Methods, and How to Protect Yourself | Ahmad Nabih | [Read More](https://medium.com/p/3c3216a122d4) |
-| Tue, 05 Aug 2025 12:45:56 GMT | Part 1: Introduction to Cybersecurity — A Beginner’s Guide | Harini Ganesan | [Read More](https://medium.com/p/002c2c98abe4) |
-| Tue, 05 Aug 2025 12:43:06 GMT | Why Your Favorite AI Could Be Reprogrammed by Hackers | Elad Golan | [Read More](https://medium.com/p/7ee1adbdfff0) |
-| Tue, 05 Aug 2025 12:43:01 GMT | I Found a Major Privacy Leak in a Popular Social App Just Because a Friend Said “Check This Out” | KonaN | [Read More](https://medium.com/p/cd7edd798e32) |
-| Tue, 05 Aug 2025 12:42:40 GMT | Layered Defenses: How Ech Browser Combines Security Protocols for Maximum Protection | Psylinks Announce | [Read More](https://medium.com/p/e2dd826f272f) |
-| Tue, 05 Aug 2025 12:40:49 GMT | AI That Never Sleeps: Quarero Robotics Unveils Fully Autonomous Solution for 24/7 Smart… | Presslink Media | [Read More](https://medium.com/p/06ccd935c77e) |
-| Tue, 05 Aug 2025 12:38:34 GMT | Starting my Cybersecurity Journey | Amol kumar | [Read More](https://medium.com/p/7ba29f47c624) |
-| Tue, 05 Aug 2025 12:35:44 GMT | CompTIA — SecurityX 1.1 | Morgan Kitt | [Read More](https://medium.com/p/4928338432b4) |
-| Tue, 05 Aug 2025 12:31:11 GMT | RecipeLister.exe: A Recipe App Turned Cyber Threat — What You Need to Know | Manubhav Sharma | [Read More](https://medium.com/p/1d8a16e4abb7) |
-| Tue, 05 Aug 2025 12:30:25 GMT | Encrypted Client Hello (ECH): The New Gold Standard in Browser Privacy | Psylinks Announce | [Read More](https://medium.com/p/46ab43df0f24) |
-| Tue, 05 Aug 2025 12:29:47 GMT | 關於密碼(2) — 密碼要設成 N3v@rM1^d! 這樣嗎？ | Iggie Zhu | [Read More](https://medium.com/p/41c242df900f) |
-| Tue, 05 Aug 2025 12:29:17 GMT | IT Strategy In 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/887478c05728) |
