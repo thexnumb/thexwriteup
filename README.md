@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 18:22:47 GMT | Advanced Info-Stealer Targets 4,000+ IPs Worldwide | RealSec.io | [Read More](https://medium.com/p/76472da79886) |
+| Tue, 05 Aug 2025 18:22:38 GMT | Top Spy App Eyezy Review: Track Any Phone with Ease | Narjis Batool | [Read More](https://medium.com/p/2f4a0814715d) |
+| Tue, 05 Aug 2025 18:21:48 GMT | Ultimate Technical Breakdown of the MITRE Ecosystem | Shadow Packet | [Read More](https://medium.com/p/3aaf6e57322d) |
+| Tue, 05 Aug 2025 18:13:10 GMT | [Web Security Academy] — Server-Side Vulnerabilities / Access Control | Voltsec | [Read More](https://medium.com/p/906564782917) |
+| Tue, 05 Aug 2025 18:10:05 GMT | Top CCTV cameras for Home Solar, Wireless and Night Vision | Shujaaseo | [Read More](https://medium.com/p/fcc823b0a707) |
+| Tue, 05 Aug 2025 18:06:36 GMT | Evolving Strategies in the Information Market | Mike Ratcliffe | [Read More](https://medium.com/p/07e319e0f905) |
+| Tue, 05 Aug 2025 18:06:31 GMT | An Assessment of the Cyber Doctrines, Capabilities, and Strategic Cohesion of the BRICS Bloc Part 1 | Ali Gündoğar | [Read More](https://medium.com/p/bdccc0f29060) |
+| Tue, 05 Aug 2025 18:06:00 GMT | CTF Day(46) | Ahmed Narmer | [Read More](https://medium.com/p/10776d84ae32) |
+| Tue, 05 Aug 2025 18:02:06 GMT | Mobile Devices 1.2 Mobile Device Accessories | William Kunesh | [Read More](https://medium.com/p/abdb502e0988) |
+| Tue, 05 Aug 2025 18:00:52 GMT | Why You Should Add Air Gaps Before and After a CDR/XDR File Cleansing Server | Juda slomovich | [Read More](https://medium.com/p/069bd3d394a7) |
+| Tue, 05 Aug 2025 17:57:44 GMT | Why Russian Hackers Are the Most Dangerous in the World: History, Tactics & Infamous Attacks | Er Raj Aryan | [Read More](https://medium.com/p/1d4779ee10d8) |
+| Tue, 05 Aug 2025 17:53:09 GMT | The Human Firewall: Why Vishing is Cybersecurity’s Sneakiest Threat | Houssam LASFAR | [Read More](https://medium.com/p/62bff2fadf95) |
+| Tue, 05 Aug 2025 17:52:59 GMT | CTF Day(45) | Ahmed Narmer | [Read More](https://medium.com/p/b47df7665c0f) |
+| Tue, 05 Aug 2025 17:50:00 GMT | Cyber Security Policy: Establishing the Ground Rules | Cyber Security Research | [Read More](https://medium.com/p/6c8a34f78614) |
+| Tue, 05 Aug 2025 17:48:15 GMT | Cyber Security Best Practices: Proven Strategies for Success | Cyber Security Research | [Read More](https://medium.com/p/56f52df126aa) |
+| Tue, 05 Aug 2025 17:46:18 GMT | Cyber Security Trends: Adapting to the Evolving Landscape | Cyber Security Research | [Read More](https://medium.com/p/10caf72e7973) |
+| Tue, 05 Aug 2025 17:44:32 GMT | DVWA XSS (Reflected) — Exploiting Every Security Level with Real Payloads | Bhaskar Maity | [Read More](https://medium.com/p/6685cc78f31e) |
 | Tue, 05 Aug 2025 17:40:34 GMT | Reaching the Minimum Viable Security Posture: iOS 18.6 Security and Privacy Settings | The Algorithm Archive | [Read More](https://medium.com/p/a485f0d0baf3) |
 | Tue, 05 Aug 2025 17:36:29 GMT | How the new cyber security act is raising the bar for IoT in Australia? | LEAP Strategies | [Read More](https://medium.com/p/3f8787e8c2aa) |
 | Tue, 05 Aug 2025 17:36:02 GMT | Portswigger Information disclosure Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/028794b70321) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 14:32:14 GMT | Why Organizational Cybersecurity Starts with Your Entire Team | CYBERUP INSTITUTE | [Read More](https://medium.com/p/fd98d27cba89) |
 | Tue, 05 Aug 2025 14:30:23 GMT | Stay Safe: Microsoft Now the #1 Most Spoofed Company | Zack Calloway | [Read More](https://medium.com/p/e0cbbfc36b2d) |
 | Tue, 05 Aug 2025 14:30:10 GMT | ISMAP Management Standards Chapter 8: Protecting Information Assets — The Importance of “Asset… | nolly | [Read More](https://medium.com/p/faa0e34feae1) |
-| Tue, 05 Aug 2025 14:25:03 GMT | Securing Hybrid Cloud: What You Need to Know | HorizonIQ | [Read More](https://medium.com/p/e0f597cd5d0f) |
-| Tue, 05 Aug 2025 14:17:08 GMT | Face Swap: the tool hackers don’t want you to know about | Luciano Gutierrez | [Read More](https://medium.com/p/2b5b541864e4) |
-| Tue, 05 Aug 2025 14:16:33 GMT | Fluffy - Easy - Hack The Box | Anasmohammed | [Read More](https://medium.com/p/8ece26f2fa87) |
-| Tue, 05 Aug 2025 14:12:11 GMT | Caido on Oracle VPS (the easy way) | Osama Ahmed Khan | [Read More](https://medium.com/p/59f7ed49e02e) |
-| Tue, 05 Aug 2025 14:08:10 GMT | Rising Threat of Illegal Domains Targeting Mobile Banking and Online Shopping in the Global South | ElviraKHWATENGE | [Read More](https://medium.com/p/0759ef80fc04) |
-| Tue, 05 Aug 2025 14:03:54 GMT | Mailing - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/5af8d625c7d3) |
-| Tue, 05 Aug 2025 14:03:24 GMT | Brene Brown | DGWell | [Read More](https://medium.com/p/6850cc19ebaa) |
-| Tue, 05 Aug 2025 14:01:51 GMT | Cyber Briefing: 2025.08.05 | CyberMaterial | [Read More](https://medium.com/p/fe11d447d695) |
-| Tue, 05 Aug 2025 13:59:31 GMT | How to Change Apple ID Country or Region Without Losing Apps in 2025 | Digimad.online | [Read More](https://medium.com/p/bc9e389a5343) |
-| Tue, 05 Aug 2025 13:57:40 GMT | ️ Building “Jeff’s Dead Man’s Switch” — A USB-Triggered Anti-Theft & File Encryption System for… | Jeffreyjoseph | [Read More](https://medium.com/p/bc5bab096da9) |
-| Tue, 05 Aug 2025 13:54:31 GMT | How to Delete Your Personal Information from Data Brokers (When They Resist) | BiyteLüm | [Read More](https://medium.com/p/3f5430e062ef) |
-| Tue, 05 Aug 2025 13:51:41 GMT | Web Session Recording with Mammoth Enterprise AI Browser: Securing Contractors and Critical Apps | Mammoth Cyber | [Read More](https://medium.com/p/f7204a35f2b5) |
-| Tue, 05 Aug 2025 13:51:07 GMT | To Pay or Not to Pay: The High-Stakes Dilemma of Ransomware Attacks | Paradise technologies Inc | [Read More](https://medium.com/p/2fe22c0e2402) |
-| Tue, 05 Aug 2025 13:50:41 GMT | ChatGPT’s New AI agent Has Passed The “I am not a robot” CAPTCHA | Shizukawatanabe | [Read More](https://medium.com/p/49528adef860) |
-| Tue, 05 Aug 2025 13:46:41 GMT | The Small Business Cybersecurity Survival Guide: 12 Essential Shields Against 2024’s Digital… | Paul Meyer | [Read More](https://medium.com/p/c98b5025585a) |
-| Tue, 05 Aug 2025 13:43:07 GMT | The global gimbal stabilizers market is projected to grow from USD 793 million in 2025 to USD… | Manav | [Read More](https://medium.com/p/f7a50b6c2970) |
-| Tue, 05 Aug 2025 13:36:38 GMT | MFA Matters: Adding 10-seconds of security that stops 99% of hackers | SaddleBridge Consulting | [Read More](https://medium.com/p/3da93d8e92d8) |
