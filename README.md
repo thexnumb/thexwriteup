@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 20:11:17 GMT | Hacker’s jargon: a Crypto Drainer refers to a set of automated tools used to steal cryptocurrency. | 0trust0day | [Read More](https://medium.com/p/3d35d79752bd) |
+| Tue, 05 Aug 2025 20:04:51 GMT | Vulnerabilities of Agentic AI: How It Can Get Hacked and How to Secure It | Het Mehta | [Read More](https://medium.com/p/8bb705414d04) |
+| Tue, 05 Aug 2025 20:04:37 GMT | ASC Cyber WarGames 2025 Qualifications — (Web) | Abdelrahman Radwan | [Read More](https://medium.com/p/e275bbe9753f) |
+| Tue, 05 Aug 2025 19:59:10 GMT | Finding Hidden APIs & Parameters in Minutes with Burp Suite | Paritosh | [Read More](https://medium.com/p/562ed5c92504) |
+| Tue, 05 Aug 2025 19:56:34 GMT | Passphrases That Humans Remember — and Bots Can’t Crack | SaddleBridge Consulting | [Read More](https://medium.com/p/b2ae53ae07fe) |
+| Tue, 05 Aug 2025 19:56:01 GMT | How Azure Empowers Startups with Scalability, Security, and Speed | Techridge Solutions | [Read More](https://medium.com/p/bfaf4cf1d56e) |
+| Tue, 05 Aug 2025 19:54:59 GMT | Cybersecurity Leadership in a Dangerous World with Bob Zinga | Matthew.Rosenquist | [Read More](https://medium.com/p/3e9dec9ccaeb) |
+| Tue, 05 Aug 2025 19:51:58 GMT | How criminals test each SMS message on their own phone first to confirm it will reach yours | Paul Walsh | [Read More](https://medium.com/p/f23aa0ae982c) |
+| Tue, 05 Aug 2025 19:49:31 GMT | America’s AI Action Plan | Andrew Kagan | [Read More](https://medium.com/p/5f1bd400535f) |
+| Tue, 05 Aug 2025 19:46:37 GMT | Why Python Is Crucial for Cybersecurity Today | The Analytics Edge | [Read More](https://medium.com/p/141969394868) |
+| Tue, 05 Aug 2025 19:43:37 GMT | Building an Automated RDP Brute Force Detection and Response Workflow with Shuffler | Mohamed Ali Zehri | [Read More](https://medium.com/p/9748bdb84d82) |
+| Tue, 05 Aug 2025 19:38:54 GMT | Penetration Testing Process | Mena George | [Read More](https://medium.com/p/7e2a1df5c41a) |
 | Tue, 05 Aug 2025 19:37:50 GMT | Varonis and Microsoft: Securing AI’s Future with Data Protection | Andrew Kagan | [Read More](https://medium.com/p/5b6f8cb4c608) |
 | Tue, 05 Aug 2025 19:35:05 GMT | Why You Should Add Air Gaps Before and After a CDR/XDR File Cleansing Server | Juda slomovich | [Read More](https://medium.com/p/0485144f095c) |
 | Tue, 05 Aug 2025 19:33:59 GMT | EXP-401 OSEE Review — Offensive Security Exploitation Expert | Jake Mayhew | [Read More](https://medium.com/p/508f3357851d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 16:05:57 GMT | DAY 35 — MemLabs Lab 4: Phase 2 | Jinay | [Read More](https://medium.com/p/1b773b090091) |
 | Tue, 05 Aug 2025 16:05:06 GMT | Javascript e o XSS | Gabriel Jesus | [Read More](https://medium.com/p/4bc1caa98bb8) |
 | Tue, 05 Aug 2025 16:02:46 GMT | The Loneliness of Being the Strong One | RJ Menon | [Read More](https://medium.com/p/492b88234bb4) |
-| Tue, 05 Aug 2025 15:57:17 GMT | Finding My Voice at the WiCyS NY Metro Summer Mixer | Gitika Babbar | [Read More](https://medium.com/p/d786e1394e97) |
-| Tue, 05 Aug 2025 15:55:23 GMT | Reddit Just Killed Paywalled Subreddits And Is Coming for Google Next | Aaron | [Read More](https://medium.com/p/d9ea61870ec1) |
-| Tue, 05 Aug 2025 15:48:02 GMT | ICMTC 2025 FORENSICS | Omar Shams | [Read More](https://medium.com/p/35f4c8cfe425) |
-| Tue, 05 Aug 2025 15:47:16 GMT | SIEM Use Case Series Day 3: Detecting Inbound Connections from Known IOCs | NineTales | [Read More](https://medium.com/p/968952b5fce3) |
-| Tue, 05 Aug 2025 15:46:51 GMT | Unlock the Secrets: Top Bug Bounty Hunting Techniques (Part 1) | Haxshadow | [Read More](https://medium.com/p/6112998d8503) |
-| Tue, 05 Aug 2025 15:42:54 GMT | The Proactive Shield: Guiding Your Medical Practice Through Advanced Cybersecurity Strategies | Griffin Healthcare Advisors | [Read More](https://medium.com/p/f2b41f1da145) |
-| Tue, 05 Aug 2025 15:41:18 GMT | Best Ethical Hacking Training in Noida - Ducat India | Nikita Sharmaaa | [Read More](https://medium.com/p/b958e6e33e32) |
-| Tue, 05 Aug 2025 15:39:37 GMT | Scanning Web Servers for Vulnerabilities with Nikto: My Hands-On Lab Experience | Eddie Artis Jr. | [Read More](https://medium.com/p/d736c561554b) |
-| Tue, 05 Aug 2025 15:33:53 GMT | Starting Bug Bounty — Documenting My Journey | Calvaryhasarrived | [Read More](https://medium.com/p/54ae237d1467) |
-| Tue, 05 Aug 2025 15:30:50 GMT | 6 Lessons I Learnt as a Beginner- From an Event that Sparked my Drive. | Haruna Rasheedah | [Read More](https://medium.com/p/a086caf792ae) |
-| Tue, 05 Aug 2025 15:29:58 GMT | BLUE- TRYHACKME | TheSocialHacker | [Read More](https://medium.com/p/555dbefbe12e) |
-| Tue, 05 Aug 2025 15:23:51 GMT | Your ChatGPT Prompts Are Bad. Here’s the Only One You’ll Ever Need. | Fahad's Foresight | [Read More](https://medium.com/p/356430e5f482) |
