@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 16:45:01 GMT | Coinbase Breach: Threats Exposed | Kalariya Het | [Read More](https://medium.com/p/f892a7945ca1) |
+| Tue, 05 Aug 2025 16:41:40 GMT | Portswigger XML External Entity (XXE) Injection Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/6d2ff43b001f) |
+| Tue, 05 Aug 2025 16:41:39 GMT | Portswigger XML External Entity (XXE) Injection Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/08830fc0ce2b) |
+| Tue, 05 Aug 2025 16:41:39 GMT | Portswigger XML External Entity (XXE) Injection Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/2cbf5b357011) |
+| Tue, 05 Aug 2025 16:35:28 GMT | Cracked in Seconds: How a Weak Password Exposed 64 Million McDonald’s Applicants | Kalariya Het | [Read More](https://medium.com/p/dc1184c9c52c) |
+| Tue, 05 Aug 2025 16:30:37 GMT | Why Vibe Coding Is the New Silent Threat to User Privacy | Feroot Security | [Read More](https://medium.com/p/4188f5ffe5b0) |
+| Tue, 05 Aug 2025 16:26:44 GMT | Not Just Another Leak: When Malware Steals Passwords | Evgeny Ermakov | [Read More](https://medium.com/p/4b836c2586c9) |
+| Tue, 05 Aug 2025 16:23:32 GMT | Implementing Zero Trust Architecture in Resource‑Constrained Environments: A Practical Guide to… | Engr Syed Saad Gilani | [Read More](https://medium.com/p/2bceeb9beb3c) |
+| Tue, 05 Aug 2025 16:22:57 GMT | Cyberdefenders XLMRat Lab Walkthrough | Emir | [Read More](https://medium.com/p/085ff0452c2c) |
 | Tue, 05 Aug 2025 16:22:51 GMT | Biometric Authentication Risks and Best Defenses | Karthikeyan Nagaraj | [Read More](https://medium.com/p/4aee4e74bf74) |
 | Tue, 05 Aug 2025 16:18:04 GMT | Bug Bounty Journal — Day 1: CSV Injection, No Impact? | Xilent-Xoxo | [Read More](https://medium.com/p/d5d74a079dac) |
 | Tue, 05 Aug 2025 16:15:43 GMT | How the Great Firewall Learns to Filter Encrypted Traffic — and How It Can Still Be Bypassed | 0trust0day | [Read More](https://medium.com/p/75732eb12ea5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 12:30:25 GMT | Encrypted Client Hello (ECH): The New Gold Standard in Browser Privacy | Psylinks Announce | [Read More](https://medium.com/p/46ab43df0f24) |
 | Tue, 05 Aug 2025 12:29:47 GMT | 關於密碼(2) — 密碼要設成 N3v@rM1^d! 這樣嗎？ | Iggie Zhu | [Read More](https://medium.com/p/41c242df900f) |
 | Tue, 05 Aug 2025 12:29:17 GMT | IT Strategy In 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/887478c05728) |
-| Tue, 05 Aug 2025 12:21:27 GMT | Yeni Başlayanlar İçin FortiGate ile Güvenli Ağ Yapılandırması | SelimAyvaz | [Read More](https://medium.com/p/1217c679b0c3) |
-| Tue, 05 Aug 2025 12:21:26 GMT | Open Redirect on Logout Page — When Shopping Got Too Redirected | Aryamevada | [Read More](https://medium.com/p/31549480a630) |
-| Tue, 05 Aug 2025 12:13:52 GMT | Hunting TOCTOU and LD_PRELOAD Attacks with eBPF LSM | Satyam Dubey | [Read More](https://medium.com/p/ea7f4e6c3884) |
-| Tue, 05 Aug 2025 12:12:18 GMT | Entegre Güvenlik Sistemleri Nedir? | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/3b111f42ddcd) |
-| Tue, 05 Aug 2025 12:12:05 GMT | DockerLabs Writeup — Bicho (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3a68461cdeb4) |
-| Tue, 05 Aug 2025 12:11:16 GMT | Zero.WebAppSecurity Penetrasyon Testi | Bilge Güngör | [Read More](https://medium.com/p/7842e293cb1a) |
-| Tue, 05 Aug 2025 12:10:51 GMT | Hackers Are Now Abusing Security Tools to Steal Microsoft 365 Logins — Here’s How (No CVE Yet) | Rue | [Read More](https://medium.com/p/d320dfc40bd6) |
-| Tue, 05 Aug 2025 12:07:20 GMT | Think Blockchain Is Just for Crypto? Here’s How It’s Changing Entire Industries | Olatunde Aboaba | [Read More](https://medium.com/p/bbbeb9d7f05b) |
-| Tue, 05 Aug 2025 12:07:06 GMT | ️ How to Protect Ourselves in a Vulnerable Cyberspace | Mahbube Alam Akash | [Read More](https://medium.com/p/78e7f4e90b51) |
