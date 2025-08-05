@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 17:40:34 GMT | Reaching the Minimum Viable Security Posture: iOS 18.6 Security and Privacy Settings | The Algorithm Archive | [Read More](https://medium.com/p/a485f0d0baf3) |
+| Tue, 05 Aug 2025 17:36:29 GMT | How the new cyber security act is raising the bar for IoT in Australia? | LEAP Strategies | [Read More](https://medium.com/p/3f8787e8c2aa) |
+| Tue, 05 Aug 2025 17:36:02 GMT | Portswigger Information disclosure Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/028794b70321) |
+| Tue, 05 Aug 2025 17:34:37 GMT | Recovery Made Easy With James | Norman Meg | [Read More](https://medium.com/p/c374a81908bf) |
+| Tue, 05 Aug 2025 17:32:11 GMT | How Defense Contractors Are Preparing for CMMC 2.0 in 2025 | ISI Defense | [Read More](https://medium.com/p/b3b91c5d82f4) |
+| Tue, 05 Aug 2025 17:31:53 GMT | Portswigger Information Disclosure Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/d009714c118a) |
+| Tue, 05 Aug 2025 17:31:09 GMT | Why Steel Fences Are Taking Over Modern Properties | Andortiz | [Read More](https://medium.com/p/74974bd381a7) |
+| Tue, 05 Aug 2025 17:25:54 GMT | BankX, Idols NFT, and Mosca Exploited for $403K via Reentrancy, Double Rewards, and Reward Reset… | Olympix | [Read More](https://medium.com/p/fdff2390d457) |
+| Tue, 05 Aug 2025 17:24:13 GMT | Moby Trade, FEG, and AST Token Exploited for $3.5M | Olympix | [Read More](https://medium.com/p/7bbe694bd764) |
+| Tue, 05 Aug 2025 17:24:09 GMT | How Machine Learning is Reshaping Cybersecurity: Smarter Defenses for Smarter Threats | Rebecca Ssesanga | [Read More](https://medium.com/p/f709af04c922) |
+| Tue, 05 Aug 2025 17:22:43 GMT | UniLend’s Sequencing Bug, Orange Finance’s Key Leak, and Labubu’s Transfer Logic Fail | Olympix | [Read More](https://medium.com/p/762eebfd9a6e) |
+| Tue, 05 Aug 2025 17:22:41 GMT | Understanding the Cyber Kill Chain: A Complete Guide to Preventing Attacks | Hrishidev K V | [Read More](https://medium.com/p/6ab07404bd7d) |
+| Tue, 05 Aug 2025 17:22:25 GMT | CTF Day(44) | Ahmed Narmer | [Read More](https://medium.com/p/8f035cea69e7) |
+| Tue, 05 Aug 2025 17:20:25 GMT | Simplifying Enterprise Networking with SD-WAN | Abdul Ahad | [Read More](https://medium.com/p/0bd5323119b7) |
 | Tue, 05 Aug 2025 17:19:44 GMT | Bug Bounty Hunting — Are Self Hosted Programs Any Better? | Rehan Sohail | [Read More](https://medium.com/p/797ecf90bc80) |
+| Tue, 05 Aug 2025 17:18:26 GMT | Day 72: Wireless Connections | Nile Okomo | [Read More](https://medium.com/p/f7eff04187cd) |
+| Tue, 05 Aug 2025 17:15:38 GMT | SIEM Use Case Series Day 4: Detecting Password Spray Attempts from a Host | NineTales | [Read More](https://medium.com/p/8f20a76194cb) |
+| Tue, 05 Aug 2025 17:14:54 GMT | Why Cyber Privilege Matters in the Fight Against Cybercrime | Vanirayala | [Read More](https://medium.com/p/33c0d42a230a) |
 | Tue, 05 Aug 2025 17:11:28 GMT | Secure Your Spreadsheets — OCT Newsletter 8–4–2025 | www.OneCoolTip.com | [Read More](https://medium.com/p/02d2fb1f3988) |
 | Tue, 05 Aug 2025 17:05:04 GMT | ️ Breaking the Web: Solving All Stages of the XSS Challenge (by yamagata21) | Bhaskar Maity | [Read More](https://medium.com/p/427c92832981) |
 | Tue, 05 Aug 2025 17:03:19 GMT | Cybersecurity: Is Threat Modeling a Luxury? | Ivan Fedorets | [Read More](https://medium.com/p/0c3f11dd9403) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 13:46:41 GMT | The Small Business Cybersecurity Survival Guide: 12 Essential Shields Against 2024’s Digital… | Paul Meyer | [Read More](https://medium.com/p/c98b5025585a) |
 | Tue, 05 Aug 2025 13:43:07 GMT | The global gimbal stabilizers market is projected to grow from USD 793 million in 2025 to USD… | Manav | [Read More](https://medium.com/p/f7a50b6c2970) |
 | Tue, 05 Aug 2025 13:36:38 GMT | MFA Matters: Adding 10-seconds of security that stops 99% of hackers | SaddleBridge Consulting | [Read More](https://medium.com/p/3da93d8e92d8) |
-| Tue, 05 Aug 2025 13:31:42 GMT | Microsoft Raises Zero Day Quest Prize Pool to $5 Million to Tackle AI and Cloud Vulnerabilities | Dhruvdeep Singh | [Read More](https://medium.com/p/9425c7e6553d) |
-| Tue, 05 Aug 2025 13:30:42 GMT | Let me take you into a world that’s not science fiction anymore, but a real thing happening above… | Persis Tafflin | [Read More](https://medium.com/p/03d8a51bb3ff) |
-| Tue, 05 Aug 2025 13:28:33 GMT | Showcase: Local File Converter; Running in the browser | Workemaileden | [Read More](https://medium.com/p/dc7ff2f0d7d5) |
-| Tue, 05 Aug 2025 13:26:25 GMT | The Journey of a Bug Report: From QA to Developer | İlay İnan Ünal | [Read More](https://medium.com/p/7527aaedcfdf) |
-| Tue, 05 Aug 2025 13:22:02 GMT | Social Engineering Testing: The Human Element of Cybersecurity | West Advanced Technologies Inc | [Read More](https://medium.com/p/9da0736f0682) |
-| Tue, 05 Aug 2025 13:21:49 GMT | Bilgi Toplama (Reconnaissance) | Sadıkcan Tuluk | [Read More](https://medium.com/p/836adbc759a2) |
-| Tue, 05 Aug 2025 13:21:43 GMT | SEC’s Major Shift: Why Many Crypto Assets Are No Longer Considered Securities | GFEX Official | [Read More](https://medium.com/p/4a933fd18e3c) |
-| Tue, 05 Aug 2025 13:21:38 GMT | Vulnerability Management and Your Organization. | Miguel Gonzalez | [Read More](https://medium.com/p/eb36ac96e7c1) |
-| Tue, 05 Aug 2025 13:20:53 GMT | How Can Your IT Services Get a Spot in the AI Overview? | Girisha | [Read More](https://medium.com/p/ae3bc20efaae) |
-| Tue, 05 Aug 2025 13:16:40 GMT | SonicWall Urges Admins to Disable SSLVPN as Attacks Surge | Dhruvdeep Singh | [Read More](https://medium.com/p/bfeaf5c319df) |
-| Tue, 05 Aug 2025 13:13:20 GMT | Cyber Security Protecting the Digital World and Presenting it with Impact | Kridha Graphics | [Read More](https://medium.com/p/d3cbd6a03550) |
-| Tue, 05 Aug 2025 13:13:14 GMT | How Hackers Target Each Layer of the Network Stack | PyNet Labs | [Read More](https://medium.com/p/8ff3275d1f1a) |
-| Tue, 05 Aug 2025 13:05:08 GMT | How I Found a $4,750 Security Flaw by Accident | Ibtissam hammadi | [Read More](https://medium.com/p/6acb32eaede5) |
-| Tue, 05 Aug 2025 13:03:42 GMT | Protect Your Magento Store: Essential Security Best Practices | Swapnil S. | [Read More](https://medium.com/p/b0d60e32d889) |
-| Tue, 05 Aug 2025 13:01:48 GMT | The Hidden Risks Behind “Free” OSINT Tools Everyone Recommends | Ingvar Pavlovich | [Read More](https://medium.com/p/3626316f6679) |
-| Tue, 05 Aug 2025 13:01:44 GMT | Cisco Confirms Data Breach After Employee Falls for Voice Phishing Scam | Dhruvdeep Singh | [Read More](https://medium.com/p/c2baf6e30473) |
-| Tue, 05 Aug 2025 12:57:55 GMT | Cyber Attacks in Indonesia: Trends, Methods, and How to Protect Yourself | Ahmad Nabih | [Read More](https://medium.com/p/3c3216a122d4) |
