@@ -12,12 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 11:41:00 GMT | Enroll in Cyber Security Course in Hyderabad by Visualpath | Pravin Choudhary | [Read More](https://medium.com/p/5e09d8f20013) |
+| Tue, 05 Aug 2025 11:28:59 GMT | Kenyan Spy Code | Omondi Ochuka | [Read More](https://medium.com/p/7cae3702f9a4) |
+| Tue, 05 Aug 2025 11:25:04 GMT | Build Your Own Shell in C: A Beginner’s Guide | Nabin Lopchan | [Read More](https://medium.com/p/bb8ca3111217) |
+| Tue, 05 Aug 2025 11:19:24 GMT | Cyber Security Risk Management: Minimizing the Impact | Cyber Security Research | [Read More](https://medium.com/p/aeaa4b1accf8) |
+| Tue, 05 Aug 2025 11:19:23 GMT | Top 5 XOAR Tools in Cybersecurity for 2025: Comprehensive Analysis | cybrNK | [Read More](https://medium.com/p/4307f3f7b63c) |
+| Tue, 05 Aug 2025 11:17:56 GMT | Cyber Security Audits: Evaluating the Security Posture | Cyber Security Research | [Read More](https://medium.com/p/dca32ce5f962) |
+| Tue, 05 Aug 2025 11:16:44 GMT | Modern Hacking Threats to Organizations — and How to Stay Secure in 2025 | Pavlović Goran | [Read More](https://medium.com/p/b45a4ac6c525) |
+| Tue, 05 Aug 2025 11:16:09 GMT | Best Cyber Security Course in Noida — Career-Focused Training with GRAStech | GRAStech | [Read More](https://medium.com/p/287231ea82a0) |
+| Tue, 05 Aug 2025 11:16:04 GMT | Cyber Security Compliance: Adhering to the Standards | Cyber Security Research | [Read More](https://medium.com/p/71d19566c6c1) |
 | Tue, 05 Aug 2025 11:13:46 GMT | Why Every UAE Business Needs a Cybersecurity Support Partner — Now More Than Ever | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/5067192c1cf9) |
 | Tue, 05 Aug 2025 11:13:41 GMT | Cyber Security Incident Response: Handling the Breach | Cyber Security Research | [Read More](https://medium.com/p/2b4ad0b92ad2) |
 | Tue, 05 Aug 2025 11:13:18 GMT | How LinkedIn Censors Users for Political Reasons | James Bone | [Read More](https://medium.com/p/03bc35e50bbc) |
 | Tue, 05 Aug 2025 11:11:16 GMT | Siber Güvenlik Yaz Kampı: Ağ Temelleri - TalentCoders Günlükleri 1 | Hakan ÇEVİK | [Read More](https://medium.com/p/1ece9bb2d99a) |
 | Tue, 05 Aug 2025 11:08:00 GMT | World’s First Fully Sovereign Communication Platform ​for Governments | Sover App | [Read More](https://medium.com/p/58eb10682ca9) |
 | Tue, 05 Aug 2025 11:07:41 GMT | The Ultimate Guide to CPENT: My Journey, Lessons Learned & How to Prepare | Ria Banerjee | [Read More](https://medium.com/p/75f70037b18a) |
+| Tue, 05 Aug 2025 11:07:01 GMT | Reflected XSS Into a Template Literal With Angle Brackets, Single, Double Quotes, Backslash and… | Bash Overflow | [Read More](https://medium.com/p/695c75db1c54) |
 | Tue, 05 Aug 2025 11:02:04 GMT | AI vs AI: 2025 CrowdStrike Global Threat Report | noailabs | [Read More](https://medium.com/p/0d838e5b0aba) |
 | Tue, 05 Aug 2025 11:01:59 GMT | The Power of Vulnerability: How Embracing Your Fears Can Set You Free | Page & Thoughts | [Read More](https://medium.com/p/38f9b34995a2) |
 | Tue, 05 Aug 2025 11:01:55 GMT | Comparando técnicas de criptografia | Sabrina | [Read More](https://medium.com/p/9b69cc762f48) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 08:05:45 GMT | What is a SOC Analyst? The Unsung Hero in Cybersecurity Operations | MITS Academy | [Read More](https://medium.com/p/ecc358d0a542) |
 | Tue, 05 Aug 2025 08:00:03 GMT | SafeLine vs AppTrana: Fully Managed or Full Control? | AerieWhole123 | [Read More](https://medium.com/p/5d61423fe50a) |
 | Tue, 05 Aug 2025 07:50:52 GMT | The Click That Cost Me Everything: How One Email Unraveled My Life | JetkingChandigarh | [Read More](https://medium.com/p/dd3b45522912) |
-| Tue, 05 Aug 2025 07:49:22 GMT | What is Ethical Hacking? A Beginner’s Guide to Fighting Cybercrime Legally | MITS Academy | [Read More](https://medium.com/p/6ef7494d2c26) |
-| Tue, 05 Aug 2025 07:47:27 GMT | What Happens After a Web Application Pen Test? Your Next Security Steps | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/e70e8f425e72) |
-| Tue, 05 Aug 2025 07:43:10 GMT | Top 10 Python Jobs For Freshers in India | cyber security Updates | [Read More](https://medium.com/p/193289975889) |
-| Tue, 05 Aug 2025 07:41:54 GMT | Siber Güvenlik Nedir? | Gamze Nur İlgün | [Read More](https://medium.com/p/9a5622ca4df3) |
-| Tue, 05 Aug 2025 07:37:57 GMT | Understanding the security landscape of MCP | Saurabh Rai | [Read More](https://medium.com/p/670d8f1aae1d) |
-| Tue, 05 Aug 2025 07:33:40 GMT | IoT Devices: The Silent Cybersecurity Time Bomb in Our Homes and Workplaces | Prachi Anarkat | [Read More](https://medium.com/p/3864817fc3eb) |
-| Tue, 05 Aug 2025 07:32:40 GMT | Leveraging AI for SOC Automation: Building NeuroScout | Ajay Bommidi | [Read More](https://medium.com/p/2a9cd1c6cfa0) |
-| Tue, 05 Aug 2025 07:27:49 GMT | Building Personal Threat Intelligence Lab with OpenCTI & Docker | Aster!X | [Read More](https://medium.com/p/21b208124c44) |
-| Tue, 05 Aug 2025 07:25:48 GMT | CXF Service List Endpoint Recon | AbhirupKonwar | [Read More](https://medium.com/p/de898ff3b03a) |
-| Tue, 05 Aug 2025 07:25:19 GMT | 10 Node.js Backend Mistakes I’ll Never Make Again — And What to Do Instead | Ahmedrao | [Read More](https://medium.com/p/e34b956a9f90) |
