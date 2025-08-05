@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 23:34:01 GMT | New in the Loop with AI Pentesting | Daniel Knight | [Read More](https://medium.com/p/11639337c274) |
+| Tue, 05 Aug 2025 23:17:23 GMT | This One Network Mistake Could Let Hackers Spy on Everything You Do Online | Cyber-AppSec | [Read More](https://medium.com/p/b1a35ea99b67) |
 | Tue, 05 Aug 2025 23:07:15 GMT | Beyond the Lightbulb (and Other Household Hazards): Crafting a Product Strategy That Doesn’t Flop | Somaditya Roy | [Read More](https://medium.com/p/64669c950663) |
 | Tue, 05 Aug 2025 22:47:18 GMT | Hackviser — Roundcube ≤ 1.6.10 | Dogukan İSPİRLİ | [Read More](https://medium.com/p/4fdaee448270) |
 | Tue, 05 Aug 2025 22:39:39 GMT | Preliminary data show rebound in homicides in 2024 | jak | [Read More](https://medium.com/p/5f4866e25e2f) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 17:18:26 GMT | Day 72: Wireless Connections | Nile Okomo | [Read More](https://medium.com/p/f7eff04187cd) |
 | Tue, 05 Aug 2025 17:15:38 GMT | SIEM Use Case Series Day 4: Detecting Password Spray Attempts from a Host | NineTales | [Read More](https://medium.com/p/8f20a76194cb) |
 | Tue, 05 Aug 2025 17:14:54 GMT | Why Cyber Privilege Matters in the Fight Against Cybercrime | Vanirayala | [Read More](https://medium.com/p/33c0d42a230a) |
-| Tue, 05 Aug 2025 17:11:28 GMT | Secure Your Spreadsheets — OCT Newsletter 8–4–2025 | www.OneCoolTip.com | [Read More](https://medium.com/p/02d2fb1f3988) |
-| Tue, 05 Aug 2025 17:05:04 GMT | ️ Breaking the Web: Solving All Stages of the XSS Challenge (by yamagata21) | Bhaskar Maity | [Read More](https://medium.com/p/427c92832981) |
