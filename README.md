@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 14:46:38 GMT | Akira Ransomware: Conti Lineage, VPN Exploitation, and Double Extortion at Scale | Wes Young | [Read More](https://medium.com/p/e1c6b9fd22f9) |
+| Tue, 05 Aug 2025 14:43:56 GMT | Web Security — SMT Program 2025 Write-up | Gracialy | [Read More](https://medium.com/p/20c48523dbcc) |
+| Tue, 05 Aug 2025 14:42:15 GMT | My College Firewall Blocked Everything. So I Built My Own Global VPN for Free! | Naga Praneeth kandikandi | [Read More](https://medium.com/p/8a6425be888a) |
+| Tue, 05 Aug 2025 14:37:50 GMT | Day 71: Metasploit | Nile Okomo | [Read More](https://medium.com/p/d360a8868bcc) |
+| Tue, 05 Aug 2025 14:37:00 GMT | How to detect ADCS Attacks | Kévin Abou Ahmed | [Read More](https://medium.com/p/ea0c0038341a) |
+| Tue, 05 Aug 2025 14:33:12 GMT | TryHackMe - Carnage - WriteUp | Axoloth | [Read More](https://medium.com/p/7a9e08e9fd8b) |
+| Tue, 05 Aug 2025 14:32:22 GMT | Tame the Terminal (Part 4): Count Logs, Slice Text & Echo Like a Pro | MayhemCode | [Read More](https://medium.com/p/ba96a7a1c019) |
+| Tue, 05 Aug 2025 14:32:14 GMT | Why Organizational Cybersecurity Starts with Your Entire Team | CYBERUP INSTITUTE | [Read More](https://medium.com/p/fd98d27cba89) |
+| Tue, 05 Aug 2025 14:30:23 GMT | Stay Safe: Microsoft Now the #1 Most Spoofed Company | Zack Calloway | [Read More](https://medium.com/p/e0cbbfc36b2d) |
+| Tue, 05 Aug 2025 14:30:10 GMT | ISMAP Management Standards Chapter 8: Protecting Information Assets — The Importance of “Asset… | nolly | [Read More](https://medium.com/p/faa0e34feae1) |
+| Tue, 05 Aug 2025 14:25:03 GMT | Securing Hybrid Cloud: What You Need to Know | HorizonIQ | [Read More](https://medium.com/p/e0f597cd5d0f) |
+| Tue, 05 Aug 2025 14:17:08 GMT | Face Swap: the tool hackers don’t want you to know about | Luciano Gutierrez | [Read More](https://medium.com/p/2b5b541864e4) |
 | Tue, 05 Aug 2025 14:16:33 GMT | Fluffy - Easy - Hack The Box | Anasmohammed | [Read More](https://medium.com/p/8ece26f2fa87) |
 | Tue, 05 Aug 2025 14:12:11 GMT | Caido on Oracle VPS (the easy way) | Osama Ahmed Khan | [Read More](https://medium.com/p/59f7ed49e02e) |
 | Tue, 05 Aug 2025 14:08:10 GMT | Rising Threat of Illegal Domains Targeting Mobile Banking and Online Shopping in the Global South | ElviraKHWATENGE | [Read More](https://medium.com/p/0759ef80fc04) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 10:52:27 GMT | Best Ethical Hacking Training in Noida | Raazverma | [Read More](https://medium.com/p/5941a65747a2) |
 | Tue, 05 Aug 2025 10:52:24 GMT | Best Ethical Hacking Training in Noida - Ducat India | prathamkumar | [Read More](https://medium.com/p/6f01c81f60cd) |
 | Tue, 05 Aug 2025 10:51:53 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ritikyaduvanshi | [Read More](https://medium.com/p/4cb460484249) |
-| Tue, 05 Aug 2025 10:51:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | Pathakarjun | [Read More](https://medium.com/p/6224eafe9eef) |
-| Tue, 05 Aug 2025 10:51:41 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ducat India | [Read More](https://medium.com/p/3632d2aff394) |
-| Tue, 05 Aug 2025 10:51:40 GMT | Best Ethical Hacking Training in Noida - Ducat India | Toshansharma | [Read More](https://medium.com/p/d2f8b8a09a58) |
-| Tue, 05 Aug 2025 10:46:28 GMT | Behind the Firewall: My Experience as an Intern at Cyber Privilege | Bhavya sree | [Read More](https://medium.com/p/d1a8f765c401) |
-| Tue, 05 Aug 2025 10:41:24 GMT | 12 Habits That Shield Your Digital Life From Hackers | Alex Sofroniev | [Read More](https://medium.com/p/12c4388cd928) |
-| Tue, 05 Aug 2025 10:33:47 GMT | CVE-2025–20697: OOB Write in MediaTek Power HAL Could Lead to Privilege Escalation | CVEHUB | [Read More](https://medium.com/p/da96669464a5) |
-| Tue, 05 Aug 2025 10:33:39 GMT | Trouver un emploi en cybersécurité : de la posture à la stratégie | Larbi OUIYZME | [Read More](https://medium.com/p/52acfb6238e3) |
-| Tue, 05 Aug 2025 10:32:16 GMT | CVE-2025–20696: OOB Write in MediaTek DA Leads to Potential Local Privilege Escalation | CVEHUB | [Read More](https://medium.com/p/23a718ce41aa) |
-| Tue, 05 Aug 2025 10:31:01 GMT | How to Create and Apply Sensitivity Labels in Microsoft Purview for Smarter Data Protection | Oludolamu Onimole | [Read More](https://medium.com/p/fee99ed2153f) |
-| Tue, 05 Aug 2025 10:30:46 GMT | CVE-2025–54956: Sensitive Authorization Header Exposure in R ‘gh’ Package | CVEHUB | [Read More](https://medium.com/p/d591d1923916) |
-| Tue, 05 Aug 2025 10:29:19 GMT | Best Managed Cybersecurity Services In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/608b6f0d7e04) |
-| Tue, 05 Aug 2025 10:28:28 GMT | Co je to Malware a jak se mu branit? | Cyber Solution | [Read More](https://medium.com/p/bc133fe0ace1) |
