@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 15:13:33 GMT | Professional Hacking Service - Sessions Hijacking | BlackHat | [Read More](https://medium.com/p/178324c1a20e) |
+| Tue, 05 Aug 2025 15:11:53 GMT | How I Balance Gym, Work, and Cybersecurity Studies (Without Burning Out) | Rue | [Read More](https://medium.com/p/14eef381f9e2) |
+| Tue, 05 Aug 2025 15:09:19 GMT | XSS (Cross-Site Scripting) Explained Simply | Binurajendran | [Read More](https://medium.com/p/da8604448d22) |
+| Tue, 05 Aug 2025 15:03:44 GMT | When the Network Goes Silent: How to Respond to Digital Stonewalling in Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/0b25e94256c8) |
+| Tue, 05 Aug 2025 15:02:08 GMT | Europe Security Market Growth Fueled by Smart Technology Integration Through 2033 | Joey Moore | [Read More](https://medium.com/p/bd22c9577cea) |
+| Tue, 05 Aug 2025 15:00:35 GMT | Secret bytes 2025: turning every PNG pixel into a vault | Aleksei Aleinikov | [Read More](https://medium.com/p/7352bcc4ba85) |
+| Tue, 05 Aug 2025 14:59:12 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/73f237458412) |
+| Tue, 05 Aug 2025 14:57:24 GMT | Securing Agentic Workflows: A Necessity in the Age of Autonomous AI | Sandeep Gunnam | [Read More](https://medium.com/p/61e059cbcb75) |
+| Tue, 05 Aug 2025 14:51:40 GMT | My preparation for Security+ | Zen | [Read More](https://medium.com/p/35f11a4352ea) |
+| Tue, 05 Aug 2025 14:51:23 GMT | Jangan dikit-dikit “Bypass”. Gak semua yang “Aneh” itu vulnerability | Rona Febriana | [Read More](https://medium.com/p/05b3482f5b14) |
+| Tue, 05 Aug 2025 14:50:11 GMT | Root-Me: XSS — Stored 1 | _marwankhodair_ | [Read More](https://medium.com/p/6bcbc1356f5a) |
 | Tue, 05 Aug 2025 14:46:38 GMT | Akira Ransomware: Conti Lineage, VPN Exploitation, and Double Extortion at Scale | Wes Young | [Read More](https://medium.com/p/e1c6b9fd22f9) |
 | Tue, 05 Aug 2025 14:43:56 GMT | Web Security — SMT Program 2025 Write-up | Gracialy | [Read More](https://medium.com/p/20c48523dbcc) |
 | Tue, 05 Aug 2025 14:42:15 GMT | My College Firewall Blocked Everything. So I Built My Own Global VPN for Free! | Naga Praneeth kandikandi | [Read More](https://medium.com/p/8a6425be888a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 11:07:41 GMT | The Ultimate Guide to CPENT: My Journey, Lessons Learned & How to Prepare | Ria Banerjee | [Read More](https://medium.com/p/75f70037b18a) |
 | Tue, 05 Aug 2025 11:07:01 GMT | Reflected XSS Into a Template Literal With Angle Brackets, Single, Double Quotes, Backslash and… | Bash Overflow | [Read More](https://medium.com/p/695c75db1c54) |
 | Tue, 05 Aug 2025 11:02:04 GMT | AI vs AI: 2025 CrowdStrike Global Threat Report | noailabs | [Read More](https://medium.com/p/0d838e5b0aba) |
-| Tue, 05 Aug 2025 11:01:59 GMT | The Power of Vulnerability: How Embracing Your Fears Can Set You Free | Page & Thoughts | [Read More](https://medium.com/p/38f9b34995a2) |
-| Tue, 05 Aug 2025 11:01:55 GMT | Comparando técnicas de criptografia | Sabrina | [Read More](https://medium.com/p/9b69cc762f48) |
-| Tue, 05 Aug 2025 11:01:20 GMT | How CyberNX Helps Secure Your Digital Assets Through Penetration Testing | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/438ea150828c) |
-| Tue, 05 Aug 2025 11:01:10 GMT | How Bluetooth Access Control is Revolutionizing Security in 2025 | Joven A Rodrigues | [Read More](https://medium.com/p/285dcc8e2331) |
-| Tue, 05 Aug 2025 10:58:21 GMT | Strategic Decisions — Part 2: Discover who you are | Jonatan Vicente | [Read More](https://medium.com/p/aab6d092ccc3) |
-| Tue, 05 Aug 2025 10:58:04 GMT | Decisiones estratégicas — Parte 2: Conócete | Jonatan Vicente | [Read More](https://medium.com/p/cd0488ced0eb) |
-| Tue, 05 Aug 2025 10:54:33 GMT | Best Ethical Hacking Training in Noida | Abhishekbhardwaj | [Read More](https://medium.com/p/7bb106b09e1f) |
-| Tue, 05 Aug 2025 10:54:16 GMT | New xss0r Offers! | xss0r | [Read More](https://medium.com/p/d7d48e859b4d) |
-| Tue, 05 Aug 2025 10:52:27 GMT | Best Ethical Hacking Training in Noida | Raazverma | [Read More](https://medium.com/p/5941a65747a2) |
-| Tue, 05 Aug 2025 10:52:24 GMT | Best Ethical Hacking Training in Noida - Ducat India | prathamkumar | [Read More](https://medium.com/p/6f01c81f60cd) |
-| Tue, 05 Aug 2025 10:51:53 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ritikyaduvanshi | [Read More](https://medium.com/p/4cb460484249) |
