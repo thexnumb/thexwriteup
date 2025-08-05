@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 13:31:42 GMT | Microsoft Raises Zero Day Quest Prize Pool to $5 Million to Tackle AI and Cloud Vulnerabilities | Dhruvdeep Singh | [Read More](https://medium.com/p/9425c7e6553d) |
+| Tue, 05 Aug 2025 13:30:42 GMT | Let me take you into a world that’s not science fiction anymore, but a real thing happening above… | Persis Tafflin | [Read More](https://medium.com/p/03d8a51bb3ff) |
+| Tue, 05 Aug 2025 13:28:33 GMT | Showcase: Local File Converter; Running in the browser | Workemaileden | [Read More](https://medium.com/p/dc7ff2f0d7d5) |
+| Tue, 05 Aug 2025 13:26:25 GMT | The Journey of a Bug Report: From QA to Developer | İlay İnan Ünal | [Read More](https://medium.com/p/7527aaedcfdf) |
+| Tue, 05 Aug 2025 13:22:02 GMT | Social Engineering Testing: The Human Element of Cybersecurity | West Advanced Technologies Inc | [Read More](https://medium.com/p/9da0736f0682) |
+| Tue, 05 Aug 2025 13:21:49 GMT | Bilgi Toplama (Reconnaissance) | Sadıkcan Tuluk | [Read More](https://medium.com/p/836adbc759a2) |
+| Tue, 05 Aug 2025 13:21:43 GMT | SEC’s Major Shift: Why Many Crypto Assets Are No Longer Considered Securities | GFEX Official | [Read More](https://medium.com/p/4a933fd18e3c) |
+| Tue, 05 Aug 2025 13:21:38 GMT | Vulnerability Management and Your Organization. | Miguel Gonzalez | [Read More](https://medium.com/p/eb36ac96e7c1) |
+| Tue, 05 Aug 2025 13:20:53 GMT | How Can Your IT Services Get a Spot in the AI Overview? | Girisha | [Read More](https://medium.com/p/ae3bc20efaae) |
+| Tue, 05 Aug 2025 13:16:40 GMT | SonicWall Urges Admins to Disable SSLVPN as Attacks Surge | Dhruvdeep Singh | [Read More](https://medium.com/p/bfeaf5c319df) |
+| Tue, 05 Aug 2025 13:13:20 GMT | Cyber Security Protecting the Digital World and Presenting it with Impact | Kridha Graphics | [Read More](https://medium.com/p/d3cbd6a03550) |
+| Tue, 05 Aug 2025 13:13:14 GMT | How Hackers Target Each Layer of the Network Stack | PyNet Labs | [Read More](https://medium.com/p/8ff3275d1f1a) |
+| Tue, 05 Aug 2025 13:05:08 GMT | How I Found a $4,750 Security Flaw by Accident | Ibtissam hammadi | [Read More](https://medium.com/p/6acb32eaede5) |
+| Tue, 05 Aug 2025 13:03:42 GMT | Protect Your Magento Store: Essential Security Best Practices | Swapnil S. | [Read More](https://medium.com/p/b0d60e32d889) |
+| Tue, 05 Aug 2025 13:01:48 GMT | The Hidden Risks Behind “Free” OSINT Tools Everyone Recommends | Ingvar Pavlovich | [Read More](https://medium.com/p/3626316f6679) |
+| Tue, 05 Aug 2025 13:01:44 GMT | Cisco Confirms Data Breach After Employee Falls for Voice Phishing Scam | Dhruvdeep Singh | [Read More](https://medium.com/p/c2baf6e30473) |
+| Tue, 05 Aug 2025 12:57:55 GMT | Cyber Attacks in Indonesia: Trends, Methods, and How to Protect Yourself | Ahmad Nabih | [Read More](https://medium.com/p/3c3216a122d4) |
 | Tue, 05 Aug 2025 12:45:56 GMT | Part 1: Introduction to Cybersecurity — A Beginner’s Guide | Harini Ganesan | [Read More](https://medium.com/p/002c2c98abe4) |
 | Tue, 05 Aug 2025 12:43:06 GMT | Why Your Favorite AI Could Be Reprogrammed by Hackers | Elad Golan | [Read More](https://medium.com/p/7ee1adbdfff0) |
 | Tue, 05 Aug 2025 12:43:01 GMT | I Found a Major Privacy Leak in a Popular Social App Just Because a Friend Said “Check This Out” | KonaN | [Read More](https://medium.com/p/cd7edd798e32) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 09:52:58 GMT | Modern Web Development with Vue.js and Zend Framework | Ketan Patel | [Read More](https://medium.com/p/9a63ed4ea0de) |
 | Tue, 05 Aug 2025 09:51:54 GMT | Cybersecurity Firms: Automated Scans or Actual Value? | Truspex | [Read More](https://medium.com/p/715f7c8033a3) |
 | Tue, 05 Aug 2025 09:51:49 GMT | Why DevOps Teams Favor Penligent.ai for AI-Powered Penetration Testing in 2025 | PenligentAI | [Read More](https://medium.com/p/559f007703b4) |
-| Tue, 05 Aug 2025 09:50:33 GMT | Chain and Ribbon | Weave Poetry | [Read More](https://medium.com/p/784e1bab7e50) |
-| Tue, 05 Aug 2025 09:48:07 GMT | A16z Insights: From Unpatched AI to Penligent.ai | PenligentAI | [Read More](https://medium.com/p/b6b9dab15e1b) |
-| Tue, 05 Aug 2025 09:43:40 GMT | A Big Question Mark | Weave Poetry | [Read More](https://medium.com/p/e5ed244e04f8) |
-| Tue, 05 Aug 2025 09:43:25 GMT | The AI‑Powered Pentest Revolution: pentesttool, pentestAI, and pentestGPT You Should Know | PenligentAI | [Read More](https://medium.com/p/2a37d6c2d793) |
-| Tue, 05 Aug 2025 09:37:59 GMT | IACS UR E26-E27 Implementation for VLCC Cyber Resilience | Tony Shin | [Read More](https://medium.com/p/ef386d9d520f) |
-| Tue, 05 Aug 2025 09:35:14 GMT | The Growing Demand for Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/6fc6973738cc) |
-| Tue, 05 Aug 2025 09:29:37 GMT | Frontend Dev in Focus: TS vs JS & Must-Have Tools | Bhavesh Rajpurohit | [Read More](https://medium.com/p/ab8fb882ed41) |
-| Tue, 05 Aug 2025 09:23:23 GMT | Boost Your Cybersecurity Career with CISM Certification! | Cybernous Infosec consulting | [Read More](https://medium.com/p/76bb5f673984) |
-| Tue, 05 Aug 2025 09:21:14 GMT | The Man Who Got Lost in His Notes | Yalcin Arsan | [Read More](https://medium.com/p/ed0080bd380e) |
-| Tue, 05 Aug 2025 09:18:14 GMT | The Universal Symbolic Communication Protocol (USCP): The Rosetta Stone. | Branden Lee Friend | [Read More](https://medium.com/p/08805d8a92fb) |
-| Tue, 05 Aug 2025 09:18:01 GMT | What Is SECaaS? Benefits, Risks, and How to Choose the Right Provider | Minzelo | [Read More](https://medium.com/p/778fee404b19) |
-| Tue, 05 Aug 2025 09:15:44 GMT | Stop Common Attacks Cold with These Built-In PHP Defenses | Asian Digital Hub | [Read More](https://medium.com/p/b9cc81d355e0) |
-| Tue, 05 Aug 2025 09:15:02 GMT | Secure Your Business with Cyber Security Solutions — TTR Technology Cybersecurity Expert | tommy reed | [Read More](https://medium.com/p/c2dcebac22b7) |
-| Tue, 05 Aug 2025 09:13:51 GMT | [CVE-2025–54424] Critical RCE Vulnerability in 1Panel Pro — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/92dd39a83f92) |
-| Tue, 05 Aug 2025 09:10:06 GMT | 31 & Switching to Cybersec? You’re Not Alone. | Authlyn | [Read More](https://medium.com/p/a5bbe41e61c6) |
-| Tue, 05 Aug 2025 09:08:03 GMT | Packed in Plain Sight: How One ZIP File Harvested the World | Pentestjunkie07 | [Read More](https://medium.com/p/02e2c9f54ae2) |
-| Tue, 05 Aug 2025 09:07:16 GMT | Ağ ve Ötesi: Temel Network #1 | Emin Eren KADIOĞLU | [Read More](https://medium.com/p/11ae3d9f0bbb) |
