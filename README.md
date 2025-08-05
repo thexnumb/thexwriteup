@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 21:17:37 GMT | Cyber Security Authorization: Granting Access Privileges | Cyber Security Research | [Read More](https://medium.com/p/e8cfec80b72b) |
+| Tue, 05 Aug 2025 21:13:53 GMT | Cyber Security Encryption: Securing Data in Transit and at Rest | Cyber Security Research | [Read More](https://medium.com/p/e5a9dbd76f50) |
+| Tue, 05 Aug 2025 21:11:53 GMT | Cyber Security Privacy: Protecting Sensitive Information | Cyber Security Research | [Read More](https://medium.com/p/b26946289af5) |
+| Tue, 05 Aug 2025 21:10:04 GMT | Cyber Security Ethics: Defining the Moral Boundaries | Cyber Security Research | [Read More](https://medium.com/p/1c38747a7b13) |
+| Tue, 05 Aug 2025 21:06:48 GMT | TryHackMe Anonymous Playground — Walkthrough | mauzware | [Read More](https://medium.com/p/dce2d7d56d56) |
+| Tue, 05 Aug 2025 21:05:54 GMT | Remote code execution via polyglot web shell upload — PortSwigger Walkthrough | Amr Elharery | [Read More](https://medium.com/p/c29c5d60557f) |
+| Tue, 05 Aug 2025 21:01:07 GMT | Yapay Zekâ ve Siber Güvenlik: Müttefik mi, Tehdit mi? — Aynı Bıçağın İki Yüzü | Eflal Kuruyüz | [Read More](https://medium.com/p/c21874c02b1d) |
+| Tue, 05 Aug 2025 20:51:53 GMT | I Paid ₹1 for a ₹1000 Event – How “Vibe Coding” Can Lead to Real-World Failures | Dnavin | [Read More](https://medium.com/p/cac19ac62c66) |
+| Tue, 05 Aug 2025 20:43:38 GMT | Click This link please | S M MASUD | [Read More](https://medium.com/p/8af162682f24) |
+| Tue, 05 Aug 2025 20:42:07 GMT | AI, AI Agents, and Where We Are at in the Timeline. | Derrick Brandt | [Read More](https://medium.com/p/f3fb6f8fcdc9) |
 | Tue, 05 Aug 2025 20:26:30 GMT | Why Now’s the Time to Become an MSP Partner and Grow Your Business | SafeAeon Inc. | [Read More](https://medium.com/p/3f2e3e97ff3d) |
 | Tue, 05 Aug 2025 20:26:25 GMT | PortSwigger Lab Walkthrough: Blind OS Command Injection with Time Delays | Siddiquimohammad | [Read More](https://medium.com/p/abd889b5d3b9) |
 | Tue, 05 Aug 2025 20:25:11 GMT | Vulnerability Data Enrichment for CVE Records: 242 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/9ca019d41848) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 16:38:28 GMT | Pengalaman Seru Belajar di Red Hat Academy. | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/c569de14c5ae) |
 | Tue, 05 Aug 2025 16:37:36 GMT | Directory - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/7834f5161751) |
 | Tue, 05 Aug 2025 16:35:28 GMT | Cracked in Seconds: How a Weak Password Exposed 64 Million McDonald’s Applicants | Kalariya Het | [Read More](https://medium.com/p/dc1184c9c52c) |
-| Tue, 05 Aug 2025 16:30:37 GMT | Why Vibe Coding Is the New Silent Threat to User Privacy | Feroot Security | [Read More](https://medium.com/p/4188f5ffe5b0) |
-| Tue, 05 Aug 2025 16:26:44 GMT | Not Just Another Leak: When Malware Steals Passwords | Evgeny Ermakov | [Read More](https://medium.com/p/4b836c2586c9) |
-| Tue, 05 Aug 2025 16:23:32 GMT | Implementing Zero Trust Architecture in Resource‑Constrained Environments: A Practical Guide to… | Engr Syed Saad Gilani | [Read More](https://medium.com/p/2bceeb9beb3c) |
-| Tue, 05 Aug 2025 16:22:57 GMT | Cyberdefenders XLMRat Lab Walkthrough | Emir | [Read More](https://medium.com/p/085ff0452c2c) |
-| Tue, 05 Aug 2025 16:22:51 GMT | Biometric Authentication Risks and Best Defenses | Karthikeyan Nagaraj | [Read More](https://medium.com/p/4aee4e74bf74) |
-| Tue, 05 Aug 2025 16:18:04 GMT | Bug Bounty Journal — Day 1: CSV Injection, No Impact? | Xilent-Xoxo | [Read More](https://medium.com/p/d5d74a079dac) |
-| Tue, 05 Aug 2025 16:15:43 GMT | How the Great Firewall Learns to Filter Encrypted Traffic — and How It Can Still Be Bypassed | 0trust0day | [Read More](https://medium.com/p/75732eb12ea5) |
-| Tue, 05 Aug 2025 16:13:06 GMT | Securing APIs with JWT, OAuth, and Go: Concepts, Integration & Best Practices | Thant Hein Thwin | [Read More](https://medium.com/p/8e9d44344702) |
-| Tue, 05 Aug 2025 16:12:43 GMT | Why Priil Internet Security Software Stands Out as the Best Antivirus Software in 2025 | Priil Antivirus | [Read More](https://medium.com/p/c227304061d5) |
-| Tue, 05 Aug 2025 16:07:10 GMT | What Is Tailscale? The VPN That Doesn’t Suck | Hugo Valters | [Read More](https://medium.com/p/05d244a30dba) |
