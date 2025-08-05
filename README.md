@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 16:22:51 GMT | Biometric Authentication Risks and Best Defenses | Karthikeyan Nagaraj | [Read More](https://medium.com/p/4aee4e74bf74) |
+| Tue, 05 Aug 2025 16:18:04 GMT | Bug Bounty Journal — Day 1: CSV Injection, No Impact? | Xilent-Xoxo | [Read More](https://medium.com/p/d5d74a079dac) |
+| Tue, 05 Aug 2025 16:15:43 GMT | How the Great Firewall Learns to Filter Encrypted Traffic — and How It Can Still Be Bypassed | 0trust0day | [Read More](https://medium.com/p/75732eb12ea5) |
+| Tue, 05 Aug 2025 16:13:06 GMT | Securing APIs with JWT, OAuth, and Go: Concepts, Integration & Best Practices | Thant Hein Thwin | [Read More](https://medium.com/p/8e9d44344702) |
+| Tue, 05 Aug 2025 16:12:43 GMT | Why Priil Internet Security Software Stands Out as the Best Antivirus Software in 2025 | Priil Antivirus | [Read More](https://medium.com/p/c227304061d5) |
+| Tue, 05 Aug 2025 16:07:10 GMT | What Is Tailscale? The VPN That Doesn’t Suck | Hugo Valters | [Read More](https://medium.com/p/05d244a30dba) |
+| Tue, 05 Aug 2025 16:06:31 GMT | 5 Simple Tips That Keep Mosquitoes Away | Peter | [Read More](https://medium.com/p/b34166b153fd) |
+| Tue, 05 Aug 2025 16:06:03 GMT | The Ultimate Guide to AWS S3 Bucket Security: From Basics to Advanced | Kishan Rank | [Read More](https://medium.com/p/c6ac5293a266) |
+| Tue, 05 Aug 2025 16:05:57 GMT | DAY 35 — MemLabs Lab 4: Phase 2 | Jinay | [Read More](https://medium.com/p/1b773b090091) |
+| Tue, 05 Aug 2025 16:05:06 GMT | Javascript e o XSS | Gabriel Jesus | [Read More](https://medium.com/p/4bc1caa98bb8) |
+| Tue, 05 Aug 2025 16:02:46 GMT | The Loneliness of Being the Strong One | RJ Menon | [Read More](https://medium.com/p/492b88234bb4) |
+| Tue, 05 Aug 2025 15:57:17 GMT | Finding My Voice at the WiCyS NY Metro Summer Mixer | Gitika Babbar | [Read More](https://medium.com/p/d786e1394e97) |
+| Tue, 05 Aug 2025 15:55:23 GMT | Reddit Just Killed Paywalled Subreddits And Is Coming for Google Next | Aaron | [Read More](https://medium.com/p/d9ea61870ec1) |
+| Tue, 05 Aug 2025 15:48:02 GMT | ICMTC 2025 FORENSICS | Omar Shams | [Read More](https://medium.com/p/35f4c8cfe425) |
+| Tue, 05 Aug 2025 15:47:16 GMT | SIEM Use Case Series Day 3: Detecting Inbound Connections from Known IOCs | NineTales | [Read More](https://medium.com/p/968952b5fce3) |
+| Tue, 05 Aug 2025 15:46:51 GMT | Unlock the Secrets: Top Bug Bounty Hunting Techniques (Part 1) | Haxshadow | [Read More](https://medium.com/p/6112998d8503) |
+| Tue, 05 Aug 2025 15:42:54 GMT | The Proactive Shield: Guiding Your Medical Practice Through Advanced Cybersecurity Strategies | Griffin Healthcare Advisors | [Read More](https://medium.com/p/f2b41f1da145) |
+| Tue, 05 Aug 2025 15:41:18 GMT | Best Ethical Hacking Training in Noida - Ducat India | Nikita Sharmaaa | [Read More](https://medium.com/p/b958e6e33e32) |
 | Tue, 05 Aug 2025 15:39:37 GMT | Scanning Web Servers for Vulnerabilities with Nikto: My Hands-On Lab Experience | Eddie Artis Jr. | [Read More](https://medium.com/p/d736c561554b) |
 | Tue, 05 Aug 2025 15:33:53 GMT | Starting Bug Bounty — Documenting My Journey | Calvaryhasarrived | [Read More](https://medium.com/p/54ae237d1467) |
 | Tue, 05 Aug 2025 15:30:50 GMT | 6 Lessons I Learnt as a Beginner- From an Event that Sparked my Drive. | Haruna Rasheedah | [Read More](https://medium.com/p/a086caf792ae) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 12:10:51 GMT | Hackers Are Now Abusing Security Tools to Steal Microsoft 365 Logins — Here’s How (No CVE Yet) | Rue | [Read More](https://medium.com/p/d320dfc40bd6) |
 | Tue, 05 Aug 2025 12:07:20 GMT | Think Blockchain Is Just for Crypto? Here’s How It’s Changing Entire Industries | Olatunde Aboaba | [Read More](https://medium.com/p/bbbeb9d7f05b) |
 | Tue, 05 Aug 2025 12:07:06 GMT | ️ How to Protect Ourselves in a Vulnerable Cyberspace | Mahbube Alam Akash | [Read More](https://medium.com/p/78e7f4e90b51) |
-| Tue, 05 Aug 2025 12:01:48 GMT | Hi. My name is Elio. | Elio Lazaro | [Read More](https://medium.com/p/a5b9b1bb7340) |
-| Tue, 05 Aug 2025 11:58:02 GMT | Building a strong cybersecurity culture: Lessons from Cybersecurity Awareness Month | Evistia | [Read More](https://medium.com/p/262375b38dcb) |
-| Tue, 05 Aug 2025 11:53:58 GMT | Why Cybersecurity Must Be a Top Priority in 2025 | Chris | [Read More](https://medium.com/p/8a74a657733c) |
-| Tue, 05 Aug 2025 11:53:56 GMT | Are Hybrid SOC Services right for you? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/ada4e23b3952) |
-| Tue, 05 Aug 2025 11:43:31 GMT | How Quppy AML Bot Detects Emerging Crypto Fraud: New Sources, Smarter Scoring | QuppyAMLBOT | [Read More](https://medium.com/p/f6f3163a4608) |
-| Tue, 05 Aug 2025 11:41:00 GMT | Enroll in Cyber Security Course in Hyderabad by Visualpath | Pravin Choudhary | [Read More](https://medium.com/p/5e09d8f20013) |
-| Tue, 05 Aug 2025 11:38:30 GMT | How Hackers Use Your Social Profiles and How to Stop Them Fast | Qoli AI | [Read More](https://medium.com/p/d19ce5041982) |
-| Tue, 05 Aug 2025 11:32:56 GMT | TryHackMe: Snort Challenge — Live Attacks - Complete Step-by-Step Walkthrough | Asad Ali | [Read More](https://medium.com/p/ab3160e00e64) |
-| Tue, 05 Aug 2025 11:31:48 GMT | 60 Takeaways from #60DaysofGRC: A Birthday Recap | Brittney Ginther | [Read More](https://medium.com/p/206af358c62b) |
-| Tue, 05 Aug 2025 11:28:59 GMT | Kenyan Spy Code | Omondi Ochuka | [Read More](https://medium.com/p/7cae3702f9a4) |
-| Tue, 05 Aug 2025 11:25:04 GMT | Build Your Own Shell in C: A Beginner’s Guide | Nabin Lopchan | [Read More](https://medium.com/p/bb8ca3111217) |
-| Tue, 05 Aug 2025 11:19:24 GMT | Cyber Security Risk Management: Minimizing the Impact | Cyber Security Research | [Read More](https://medium.com/p/aeaa4b1accf8) |
-| Tue, 05 Aug 2025 11:19:23 GMT | Top 5 XOAR Tools in Cybersecurity for 2025: Comprehensive Analysis | cybrNK | [Read More](https://medium.com/p/4307f3f7b63c) |
-| Tue, 05 Aug 2025 11:17:56 GMT | Cyber Security Audits: Evaluating the Security Posture | Cyber Security Research | [Read More](https://medium.com/p/dca32ce5f962) |
-| Tue, 05 Aug 2025 11:16:44 GMT | Modern Hacking Threats to Organizations — and How to Stay Secure in 2025 | Pavlović Goran | [Read More](https://medium.com/p/b45a4ac6c525) |
-| Tue, 05 Aug 2025 11:16:09 GMT | Best Cyber Security Course in Noida — Career-Focused Training with GRAStech | GRAStech | [Read More](https://medium.com/p/287231ea82a0) |
-| Tue, 05 Aug 2025 11:16:04 GMT | Cyber Security Compliance: Adhering to the Standards | Cyber Security Research | [Read More](https://medium.com/p/71d19566c6c1) |
-| Tue, 05 Aug 2025 11:13:46 GMT | Why Every UAE Business Needs a Cybersecurity Support Partner — Now More Than Ever | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/5067192c1cf9) |
