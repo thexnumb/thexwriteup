@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 11:13:46 GMT | Why Every UAE Business Needs a Cybersecurity Support Partner — Now More Than Ever | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/5067192c1cf9) |
+| Tue, 05 Aug 2025 11:13:41 GMT | Cyber Security Incident Response: Handling the Breach | Cyber Security Research | [Read More](https://medium.com/p/2b4ad0b92ad2) |
+| Tue, 05 Aug 2025 11:13:18 GMT | How LinkedIn Censors Users for Political Reasons | James Bone | [Read More](https://medium.com/p/03bc35e50bbc) |
+| Tue, 05 Aug 2025 11:11:16 GMT | Siber Güvenlik Yaz Kampı: Ağ Temelleri - TalentCoders Günlükleri 1 | Hakan ÇEVİK | [Read More](https://medium.com/p/1ece9bb2d99a) |
+| Tue, 05 Aug 2025 11:08:00 GMT | World’s First Fully Sovereign Communication Platform ​for Governments | Sover App | [Read More](https://medium.com/p/58eb10682ca9) |
+| Tue, 05 Aug 2025 11:07:41 GMT | The Ultimate Guide to CPENT: My Journey, Lessons Learned & How to Prepare | Ria Banerjee | [Read More](https://medium.com/p/75f70037b18a) |
+| Tue, 05 Aug 2025 11:02:04 GMT | AI vs AI: 2025 CrowdStrike Global Threat Report | noailabs | [Read More](https://medium.com/p/0d838e5b0aba) |
+| Tue, 05 Aug 2025 11:01:59 GMT | The Power of Vulnerability: How Embracing Your Fears Can Set You Free | Page & Thoughts | [Read More](https://medium.com/p/38f9b34995a2) |
+| Tue, 05 Aug 2025 11:01:55 GMT | Comparando técnicas de criptografia | Sabrina | [Read More](https://medium.com/p/9b69cc762f48) |
+| Tue, 05 Aug 2025 11:01:20 GMT | How CyberNX Helps Secure Your Digital Assets Through Penetration Testing | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/438ea150828c) |
+| Tue, 05 Aug 2025 11:01:10 GMT | How Bluetooth Access Control is Revolutionizing Security in 2025 | Joven A Rodrigues | [Read More](https://medium.com/p/285dcc8e2331) |
+| Tue, 05 Aug 2025 10:58:21 GMT | Strategic Decisions — Part 2: Discover who you are | Jonatan Vicente | [Read More](https://medium.com/p/aab6d092ccc3) |
+| Tue, 05 Aug 2025 10:58:04 GMT | Decisiones estratégicas — Parte 2: Conócete | Jonatan Vicente | [Read More](https://medium.com/p/cd0488ced0eb) |
+| Tue, 05 Aug 2025 10:54:33 GMT | Best Ethical Hacking Training in Noida | Abhishekbhardwaj | [Read More](https://medium.com/p/7bb106b09e1f) |
+| Tue, 05 Aug 2025 10:54:16 GMT | New xss0r Offers! | xss0r | [Read More](https://medium.com/p/d7d48e859b4d) |
+| Tue, 05 Aug 2025 10:52:27 GMT | Best Ethical Hacking Training in Noida | Raazverma | [Read More](https://medium.com/p/5941a65747a2) |
+| Tue, 05 Aug 2025 10:52:24 GMT | Best Ethical Hacking Training in Noida - Ducat India | prathamkumar | [Read More](https://medium.com/p/6f01c81f60cd) |
+| Tue, 05 Aug 2025 10:51:53 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ritikyaduvanshi | [Read More](https://medium.com/p/4cb460484249) |
+| Tue, 05 Aug 2025 10:51:43 GMT | Best Ethical Hacking Training in Noida - Ducat India | Pathakarjun | [Read More](https://medium.com/p/6224eafe9eef) |
+| Tue, 05 Aug 2025 10:51:41 GMT | Best Ethical Hacking Training in Noida - Ducat India | Ducat India | [Read More](https://medium.com/p/3632d2aff394) |
+| Tue, 05 Aug 2025 10:51:40 GMT | Best Ethical Hacking Training in Noida - Ducat India | Toshansharma | [Read More](https://medium.com/p/d2f8b8a09a58) |
+| Tue, 05 Aug 2025 10:46:28 GMT | Behind the Firewall: My Experience as an Intern at Cyber Privilege | Bhavya sree | [Read More](https://medium.com/p/d1a8f765c401) |
 | Tue, 05 Aug 2025 10:41:24 GMT | 12 Habits That Shield Your Digital Life From Hackers | Alex Sofroniev | [Read More](https://medium.com/p/12c4388cd928) |
 | Tue, 05 Aug 2025 10:33:47 GMT | CVE-2025–20697: OOB Write in MediaTek Power HAL Could Lead to Privilege Escalation | CVEHUB | [Read More](https://medium.com/p/da96669464a5) |
 | Tue, 05 Aug 2025 10:33:39 GMT | Trouver un emploi en cybersécurité : de la posture à la stratégie | Larbi OUIYZME | [Read More](https://medium.com/p/52acfb6238e3) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 07:27:49 GMT | Building Personal Threat Intelligence Lab with OpenCTI & Docker | Aster!X | [Read More](https://medium.com/p/21b208124c44) |
 | Tue, 05 Aug 2025 07:25:48 GMT | CXF Service List Endpoint Recon | AbhirupKonwar | [Read More](https://medium.com/p/de898ff3b03a) |
 | Tue, 05 Aug 2025 07:25:19 GMT | 10 Node.js Backend Mistakes I’ll Never Make Again — And What to Do Instead | Ahmedrao | [Read More](https://medium.com/p/e34b956a9f90) |
-| Tue, 05 Aug 2025 07:12:49 GMT | I Am A Tailor, Until It’s Mine | Susu | [Read More](https://medium.com/p/a631e65fefdf) |
-| Tue, 05 Aug 2025 07:07:44 GMT | The HALO Smart Sensor Explained: Smarter Detection for Safer Spaces | Abcom Distribution LLC | [Read More](https://medium.com/p/bce91e9e870a) |
-| Tue, 05 Aug 2025 07:04:30 GMT | Home Lab Chronicles: Part 05 — Wazuh SIEM Setup | Suprim Devkota | [Read More](https://medium.com/p/195bc33802ae) |
-| Tue, 05 Aug 2025 07:04:16 GMT | How to Turn Your Android Phone into a Hacking Machine with Termux | Kambetastephano | [Read More](https://medium.com/p/d68e94ac6ffb) |
-| Tue, 05 Aug 2025 07:04:04 GMT | CERT-In’s New Cyber Audit Mandate: India’s Security Wake-Up Call | The UNFILTERED Draft | [Read More](https://medium.com/p/54183a56a4ed) |
-| Tue, 05 Aug 2025 07:03:06 GMT | SafeLine vs Azure WAF: Which WAF Offers Better Flexibility and Control? | AerieWhole123 | [Read More](https://medium.com/p/5c7f896e3980) |
-| Tue, 05 Aug 2025 06:58:20 GMT | Phishing in Cyber Law: Understanding, Preventing, and Prosecuting the Digital Deception | Amit solanki | [Read More](https://medium.com/p/6f88ab5182b9) |
-| Tue, 05 Aug 2025 06:56:52 GMT | Carbon Black (P4:Enforce): A Practical Guide/An Practical Training | Dean | [Read More](https://medium.com/p/15045788310f) |
-| Tue, 05 Aug 2025 06:54:11 GMT | ChatGPT App: Your AI Sidekick, Now in Your Pocket | Emma Johnson | [Read More](https://medium.com/p/588c73466dbf) |
-| Tue, 05 Aug 2025 06:45:58 GMT | “Authentication vs Authorization: The Twin Pillars of Access Control in Modern Web Architecture” | Sai Pranav Moluguri | [Read More](https://medium.com/p/94eb70e9f32f) |
-| Tue, 05 Aug 2025 06:45:37 GMT | Thompson — TryHackMe Walkthrough (Easy Tomcat Exploit to Root) | Aadi | [Read More](https://medium.com/p/ee102af78415) |
-| Tue, 05 Aug 2025 06:44:40 GMT | XSS Reborn: 5 Killer Scenarios That Break Assumptions & Apps .. Advanced XSS Vol. 2 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f36eac655919) |
-| Tue, 05 Aug 2025 06:44:39 GMT | Keep your site running like a well-oiled machine ️ | Aarav Infotech India Pvt. Ltd. | [Read More](https://medium.com/p/5deb57775ed2) |
-| Tue, 05 Aug 2025 06:42:37 GMT | Payments Beyond ISO Standards: APIs, UPI, and the Modern Shift | Hariharan Ramesh | [Read More](https://medium.com/p/57ee2579cf64) |
-| Tue, 05 Aug 2025 06:39:33 GMT | Am I a Failure? | hppy | [Read More](https://medium.com/p/0256a18ee9a8) |
-| Tue, 05 Aug 2025 06:38:57 GMT | Book Trained Security Guards in Hyderabad — Fast & Reliable Service | Group 24/7 Security Services | [Read More](https://medium.com/p/47a2d0ce5db7) |
-| Tue, 05 Aug 2025 06:38:41 GMT | Building an AI Stack for Threat Intelligence in Blue Team Operations (Part 1) | Wasitpon Sinthuphon | [Read More](https://medium.com/p/0e980f652bd6) |
-| Tue, 05 Aug 2025 06:36:42 GMT | HPE Alletra Storage MP B10000: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d64b9c86b62d) |
-| Tue, 05 Aug 2025 06:31:55 GMT | How I Got on a US Government Hall of Fame in 5 Minutes. | Devansh Patel | [Read More](https://medium.com/p/280be3993f79) |
-| Tue, 05 Aug 2025 06:30:38 GMT | XSS Trap Card Series — Vol. 1 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4a1fd177cc74) |
-| Tue, 05 Aug 2025 06:21:50 GMT | Day 22- PowerShell Basic Commands for beginners | unica 02 | [Read More](https://medium.com/p/cc7741d6d139) |
-| Tue, 05 Aug 2025 06:12:33 GMT | Türkiye’nin Her Yerinde Güvenlik Hizmeti Veren Lider Firma: Desecure | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/1c6f7d307374) |
