@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 10:12:21 GMT | How I Built an Automated Bug Reporting System with Python | Dustdusky | [Read More](https://medium.com/p/d2706e172723) |
+| Tue, 05 Aug 2025 10:12:09 GMT | Unlock Your Cybersecurity Career with Ethical Hacking Certification | Certocean | [Read More](https://medium.com/p/2dc320a6f729) |
+| Tue, 05 Aug 2025 10:07:40 GMT | 25 Hidden Google Dorks for 2025 Bug Bounty Hunters: Real Targets, Real Bounties | Qasim Mahmood Khalid | [Read More](https://medium.com/p/0bf8dd18d8bb) |
+| Tue, 05 Aug 2025 10:07:01 GMT | 5. Cryptography | unknownman | [Read More](https://medium.com/p/6675123bade5) |
+| Tue, 05 Aug 2025 10:03:58 GMT | Comprehensive Guide to Security Profiles in Palo Alto Networks Firewalls | Adhiraj Jarwal | [Read More](https://medium.com/p/6e26d26bfe2d) |
+| Tue, 05 Aug 2025 10:03:35 GMT | Networking Fundamentals Every Cybersecurity Consultant Should Know | Mindaugas Asipauskas | [Read More](https://medium.com/p/506fec1a8542) |
+| Tue, 05 Aug 2025 10:02:40 GMT | Why Information Security is a Smart Choice for Fresh Graduates | Kartik Debnath | [Read More](https://medium.com/p/db18b22b82ac) |
+| Tue, 05 Aug 2025 09:58:43 GMT | Bug Hunting Story: You Won’t Believe What I Found Hidden in a RetToken Parameter | Elie Attieh | [Read More](https://medium.com/p/781b9ec7e3f5) |
+| Tue, 05 Aug 2025 09:55:31 GMT | Fighting Bots for Free: My Hands-On Review of SafeLine WAF | Quella | [Read More](https://medium.com/p/66b5e970c4a4) |
+| Tue, 05 Aug 2025 09:52:58 GMT | Modern Web Development with Vue.js and Zend Framework | Ketan Patel | [Read More](https://medium.com/p/9a63ed4ea0de) |
 | Tue, 05 Aug 2025 09:51:54 GMT | Cybersecurity Firms: Automated Scans or Actual Value? | Truspex | [Read More](https://medium.com/p/715f7c8033a3) |
 | Tue, 05 Aug 2025 09:51:49 GMT | Why DevOps Teams Favor Penligent.ai for AI-Powered Penetration Testing in 2025 | PenligentAI | [Read More](https://medium.com/p/559f007703b4) |
+| Tue, 05 Aug 2025 09:50:33 GMT | Chain and Ribbon | Weave Poetry | [Read More](https://medium.com/p/784e1bab7e50) |
 | Tue, 05 Aug 2025 09:48:07 GMT | A16z Insights: From Unpatched AI to Penligent.ai | PenligentAI | [Read More](https://medium.com/p/b6b9dab15e1b) |
 | Tue, 05 Aug 2025 09:43:40 GMT | A Big Question Mark | Weave Poetry | [Read More](https://medium.com/p/e5ed244e04f8) |
 | Tue, 05 Aug 2025 09:43:25 GMT | The AI‑Powered Pentest Revolution: pentesttool, pentestAI, and pentestGPT You Should Know | PenligentAI | [Read More](https://medium.com/p/2a37d6c2d793) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 05:46:41 GMT | Subdomain Scanner to HTTP Hunter: | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e1b8abaf6fb3) |
 | Tue, 05 Aug 2025 05:44:28 GMT | How to Build a Career in Cybersecurity | Charleskerren | [Read More](https://medium.com/p/f74424b75050) |
 | Tue, 05 Aug 2025 05:43:22 GMT | Cybersecurity Trends 2025: How CEH v13 Certification Keeps You Ahead | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/0fbdf87b772c) |
-| Tue, 05 Aug 2025 05:43:12 GMT | AI in Cybersecurity: Good or Dangerous? | Ann Maria | [Read More](https://medium.com/p/c52f427a0fa0) |
-| Tue, 05 Aug 2025 05:43:11 GMT | CI/CD + Security: A DevSecOps Playbook [Part 1] | Ayush Pandey | [Read More](https://medium.com/p/1f5010a0abbd) |
-| Tue, 05 Aug 2025 05:36:47 GMT | Intercepting the Ether — A Scholarly & Industry-Level Guide to Kali-Tools-SDR | RafalW3bCraft | [Read More](https://medium.com/p/4132f208428a) |
-| Tue, 05 Aug 2025 05:33:42 GMT | Encryption: The Unsung Hero of Digital Security | Geeky Vartika | [Read More](https://medium.com/p/25b27037325b) |
-| Tue, 05 Aug 2025 05:33:02 GMT | Day 62 Bonus Gets Crazy | Bboneus Skids | [Read More](https://medium.com/p/724c2b77984c) |
-| Tue, 05 Aug 2025 05:31:34 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/ebe623d5cc42) |
-| Tue, 05 Aug 2025 05:22:44 GMT | How System Integration Can Revolutionize Healthcare Operations: A Complete Guide | Diga core | [Read More](https://medium.com/p/568fe8daceeb) |
-| Tue, 05 Aug 2025 05:18:48 GMT | The cyber attack on DeepSeek exposes the dangers of artificial intelligence platforms.. | Sidialtos | [Read More](https://medium.com/p/fd13f2b53e07) |
-| Tue, 05 Aug 2025 05:08:30 GMT | The AI Arms Race Has Begun: Are CISOs Ready? | Prabhat Jha | [Read More](https://medium.com/p/e854c2cdf050) |
-| Tue, 05 Aug 2025 05:01:33 GMT | A Call for Safe and Transparent Social Media | Hemraj Kumawat | [Read More](https://medium.com/p/28991d2676d9) |
-| Tue, 05 Aug 2025 05:01:21 GMT | Portswigger Web Security Academy - File Upload Lab #1 | BooRuleDie | [Read More](https://medium.com/p/352f5792b64b) |
