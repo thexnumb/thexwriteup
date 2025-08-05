@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 09:23:23 GMT | Boost Your Cybersecurity Career with CISM Certification! | Cybernous Infosec consulting | [Read More](https://medium.com/p/76bb5f673984) |
+| Tue, 05 Aug 2025 09:21:14 GMT | The Man Who Got Lost in His Notes | Yalcin Arsan | [Read More](https://medium.com/p/ed0080bd380e) |
+| Tue, 05 Aug 2025 09:18:14 GMT | The Universal Symbolic Communication Protocol (USCP): The Rosetta Stone. | Branden Lee Friend | [Read More](https://medium.com/p/08805d8a92fb) |
+| Tue, 05 Aug 2025 09:18:01 GMT | What Is SECaaS? Benefits, Risks, and How to Choose the Right Provider | Minzelo | [Read More](https://medium.com/p/778fee404b19) |
+| Tue, 05 Aug 2025 09:15:02 GMT | Secure Your Business with Cyber Security Solutions — TTR Technology Cybersecurity Expert | tommy reed | [Read More](https://medium.com/p/c2dcebac22b7) |
+| Tue, 05 Aug 2025 09:13:51 GMT | [CVE-2025–54424] Critical RCE Vulnerability in 1Panel Pro — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/92dd39a83f92) |
+| Tue, 05 Aug 2025 09:10:06 GMT | 31 & Switching to Cybersec? You’re Not Alone. | Authlyn | [Read More](https://medium.com/p/a5bbe41e61c6) |
+| Tue, 05 Aug 2025 09:08:03 GMT | Packed in Plain Sight: How One ZIP File Harvested the World | Pentestjunkie07 | [Read More](https://medium.com/p/02e2c9f54ae2) |
+| Tue, 05 Aug 2025 09:07:16 GMT | Ağ ve Ötesi: Temel Network #1 | Emin Eren KADIOĞLU | [Read More](https://medium.com/p/11ae3d9f0bbb) |
+| Tue, 05 Aug 2025 09:06:13 GMT | Laundromats & Laptops: The North Korean Remote Work Hack | CtrlC3 | [Read More](https://medium.com/p/62fbe49a359a) |
+| Tue, 05 Aug 2025 09:00:52 GMT | Building a Detailed Role-Based Access Control System with Spring Security and Spring Boot | Anh Trần Tuấn | [Read More](https://medium.com/p/a83ad83a7480) |
+| Tue, 05 Aug 2025 09:00:49 GMT | Building a Detailed Role-Based Access Control System with Spring Security and Spring Boot | Anh Trần Tuấn | [Read More](https://medium.com/p/6aa781e49b1b) |
+| Tue, 05 Aug 2025 09:00:48 GMT | Black Hats vs. White Hats in Cyber security | The_cyber_nerd | [Read More](https://medium.com/p/6260c5d487aa) |
+| Tue, 05 Aug 2025 08:58:21 GMT | PHP Tricks to Detect Suspicious Requests Before They Hit the Logic Layer | Asian Digital Hub | [Read More](https://medium.com/p/b2759d080e7b) |
+| Tue, 05 Aug 2025 08:55:48 GMT | Filtering out Noise on Burp suite like a Pro | Abdul Mazid | [Read More](https://medium.com/p/b3fa2423a34b) |
+| Tue, 05 Aug 2025 08:55:01 GMT | Cyber Security Architecture: Building a Secure Foundation | Cyber Security Research | [Read More](https://medium.com/p/6fee34e86ae8) |
+| Tue, 05 Aug 2025 08:54:16 GMT | More Sneaky Social Engineering Tactics You Should Know | Cyber Timi | [Read More](https://medium.com/p/3eb41bb98068) |
+| Tue, 05 Aug 2025 08:50:17 GMT | Your Online Store Could Be at Risk — 7 Security Essentials Every Owner Must Know | Amber Rose | [Read More](https://medium.com/p/cfc44364f5b7) |
+| Tue, 05 Aug 2025 08:47:50 GMT | Benefits of IT Outsourcing Agency in India | Shraddha Gite | [Read More](https://medium.com/p/3ad985595397) |
+| Tue, 05 Aug 2025 08:44:45 GMT | Stop Hardcoding Secrets Before It’s Too Late (A ColdFusion Security Wake-Up Call) | Lajin Mohan | [Read More](https://medium.com/p/f456db78a62c) |
+| Tue, 05 Aug 2025 08:44:39 GMT | Day2 Recon: Scope Discovery: Finding Every Domain & IP with WHOIS, reverse WHOIS, IP lookups… | Ayush Kumar | [Read More](https://medium.com/p/b69238aa5fe2) |
+| Tue, 05 Aug 2025 08:36:20 GMT | Honeypots: Trapping Hackers with Decoy Systems | Aj | [Read More](https://medium.com/p/80c08caab946) |
+| Tue, 05 Aug 2025 08:36:14 GMT | Digital Fraud in the Jewellery Business — How Hackers Are Misusing Trusted Jewellery Brands? | ThreatWatch360 | [Read More](https://medium.com/p/ad08e10b66cb) |
+| Tue, 05 Aug 2025 08:36:08 GMT | Your Domain, My Playground: How I Created Links on Your Site Without Access ‍ | Shubhang Borkar | [Read More](https://medium.com/p/9a77b712ac31) |
+| Tue, 05 Aug 2025 08:33:44 GMT | Reflected XSS Made Easy: Catching Real Bugs in the Wild | Monika sharma | [Read More](https://medium.com/p/4222376ae3ea) |
+| Tue, 05 Aug 2025 08:30:17 GMT | How to Use Camera Hacking Tools with Kali Linux | Shahzaib | [Read More](https://medium.com/p/940d28737cd4) |
 | Tue, 05 Aug 2025 08:29:24 GMT | I Turned IDOR and XSS Into a Mass Account Takeover | Ibtissam hammadi | [Read More](https://medium.com/p/a0b487c19366) |
 | Tue, 05 Aug 2025 08:22:53 GMT | Hidden Risks in High-Speed Tech-Driven Business: Are We Secure Enough? | Kogilacv | [Read More](https://medium.com/p/cdbf4947dbf3) |
 | Tue, 05 Aug 2025 08:22:52 GMT | Perplexity AI’s Stealth Data Collection Scandal: The AI That Ignores robots.txt | Alper Konuralp | [Read More](https://medium.com/p/3f0788f0b03d) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 04:27:37 GMT | The modern employee dilemma | Raonejalagandeswaran | [Read More](https://medium.com/p/123c8eeeccf1) |
 | Tue, 05 Aug 2025 04:25:43 GMT | Ultimate App Security in Flutter with ultra_secure_flutter_kit — A Complete Guide | AlexCodeX | [Read More](https://medium.com/p/d48af36bc3e5) |
 | Tue, 05 Aug 2025 04:25:15 GMT | How GPS Tracking Technology is Transforming Vehicle Security Forever | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/fa2c1fac6fbd) |
-| Tue, 05 Aug 2025 04:21:15 GMT | Transform and Scale Your IT Business with DevOps and Business Consulting Services for the Modern… | Harshavardhansai | [Read More](https://medium.com/p/c97869a93399) |
-| Tue, 05 Aug 2025 04:14:13 GMT | If You Can’t See It, You Can’t Protect It: Why Asset Management Is the Foundation of Cybersecurity | Shashank Rajesh Kulkarni | [Read More](https://medium.com/p/c153e0ab58cc) |
-| Tue, 05 Aug 2025 04:13:20 GMT | Securing Agentic AI: 10 Essential Security Patchments You Must Know | Subhashree A | [Read More](https://medium.com/p/81bcb3b271d2) |
-| Tue, 05 Aug 2025 03:59:15 GMT | SCAMTRACK + GHOSTMODE | ekomsSavior | [Read More](https://medium.com/p/3d82b9f98263) |
-| Tue, 05 Aug 2025 03:54:40 GMT | What If We Give It a Try? | Nadia Hadisty | [Read More](https://medium.com/p/4a8c82906481) |
-| Tue, 05 Aug 2025 03:46:38 GMT | Taming the WebView: Secure Web Content in Your App | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/5e1cd62e6eb0) |
-| Tue, 05 Aug 2025 03:40:00 GMT | Beyond The Basics: Is Your Med Spa Covered For These Common Liability Claims? | revathi msr | [Read More](https://medium.com/p/1853083dfb78) |
-| Tue, 05 Aug 2025 03:38:25 GMT | Forgotten by Design: How an Unused Subdomain Gave Me Full Cloud Access ☁️ | Iski | [Read More](https://medium.com/p/ba7f0c2b4ea2) |
-| Tue, 05 Aug 2025 03:37:46 GMT | Top Home Security Gadgets for 2025: What’s Really Worth Your Money | Sareena | [Read More](https://medium.com/p/0646aa0f3fb4) |
-| Tue, 05 Aug 2025 03:31:02 GMT | Unpacking Adyen’s Cyberattack and What It Means for Global Payments | Deven Chhajed | [Read More](https://medium.com/p/3d3678c888f2) |
-| Tue, 05 Aug 2025 03:24:01 GMT | How to Convert a PEM File into a PPK File Using PuTTY | Venkatreddy | [Read More](https://medium.com/p/0d613118f51b) |
-| Tue, 05 Aug 2025 03:19:29 GMT | #Catatan Belajar: Menyusun ROE | Kiara Humaira | [Read More](https://medium.com/p/284c228117d7) |
-| Tue, 05 Aug 2025 03:19:28 GMT | Prompt, Compile, Deploy… or Not? | Pedro Rau | [Read More](https://medium.com/p/c5241d0ac830) |
-| Tue, 05 Aug 2025 03:14:01 GMT | Breaking In Without Burning Out: A Beginner’s Cybersecurity Roadmap | Luis Marquez | [Read More](https://medium.com/p/b0e61142d913) |
-| Tue, 05 Aug 2025 02:57:07 GMT | How to Build Your Own Burp Suite Extension (Python/Java) | Paritosh | [Read More](https://medium.com/p/efc3c72a98e8) |
-| Tue, 05 Aug 2025 02:38:42 GMT | CIA的三個層次 | Wentz Wu | [Read More](https://medium.com/p/1f5ea2a7da84) |
-| Tue, 05 Aug 2025 02:36:52 GMT | ️Hijacked Without Login⚠: Inside the Citrix Bleed Exploit | LazyHacker | [Read More](https://medium.com/p/9ee11ac5cb45) |
-| Tue, 05 Aug 2025 02:33:24 GMT | How to hack: Internal from THM | Vladimir Cuc | [Read More](https://medium.com/p/136a80c11741) |
-| Tue, 05 Aug 2025 02:32:39 GMT | İmza istismar edən zərərli proqramların aşkarlanması | Orkhan Jalalov | [Read More](https://medium.com/p/d33f82c39439) |
-| Tue, 05 Aug 2025 02:32:25 GMT | On Shards and Blades | Denise Azevedo | [Read More](https://medium.com/p/5fe770d2bcef) |
-| Tue, 05 Aug 2025 02:23:35 GMT | The Cybersecurity Crisis of 2025 | Pawan natekar | [Read More](https://medium.com/p/24f2b99895e1) |
-| Tue, 05 Aug 2025 02:23:34 GMT | Tuesday Morning Threat Report: Aug 5, 2025 | Mark Maguire | [Read More](https://medium.com/p/6e2339d10144) |
-| Tue, 05 Aug 2025 02:21:09 GMT | Why Azure’s Virtual Network Manager Is the Future of Government Cloud Networking | Vijay Borkar (VBCloudboy) | [Read More](https://medium.com/p/b1e7d9b7d6f9) |
-| Tue, 05 Aug 2025 01:54:41 GMT | From PDF to Five-Figure Payday: When Legacy Docs Attack | Armand Jasharaj | [Read More](https://medium.com/p/05f35eb85164) |
-| Tue, 05 Aug 2025 01:49:54 GMT | What I’ve Learned from a Decade in Cybersecurity: Priorities for 2025 | Vivek Lenkalapally | [Read More](https://medium.com/p/81a663c02a5a) |
-| Tue, 05 Aug 2025 01:46:30 GMT | Breaking into ‘Code’, a HackTheBox machine | JJDSEC | [Read More](https://medium.com/p/24ae738b8b2b) |
