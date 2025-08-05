@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 07:37:57 GMT | Understanding the security landscape of MCP | Saurabh Rai | [Read More](https://medium.com/p/670d8f1aae1d) |
+| Tue, 05 Aug 2025 07:33:40 GMT | IoT Devices: The Silent Cybersecurity Time Bomb in Our Homes and Workplaces | Prachi Anarkat | [Read More](https://medium.com/p/3864817fc3eb) |
+| Tue, 05 Aug 2025 07:32:40 GMT | Leveraging AI for SOC Automation: Building NeuroScout | Ajay Bommidi | [Read More](https://medium.com/p/2a9cd1c6cfa0) |
+| Tue, 05 Aug 2025 07:27:49 GMT | Building Personal Threat Intelligence Lab with OpenCTI & Docker | Aster!X | [Read More](https://medium.com/p/21b208124c44) |
+| Tue, 05 Aug 2025 07:25:48 GMT | CXF Service List Endpoint Recon | AbhirupKonwar | [Read More](https://medium.com/p/de898ff3b03a) |
+| Tue, 05 Aug 2025 07:25:19 GMT | 10 Node.js Backend Mistakes I’ll Never Make Again — And What to Do Instead | Ahmedrao | [Read More](https://medium.com/p/e34b956a9f90) |
 | Tue, 05 Aug 2025 07:12:49 GMT | I Am A Tailor, Until It’s Mine | Susu | [Read More](https://medium.com/p/a631e65fefdf) |
 | Tue, 05 Aug 2025 07:07:44 GMT | The HALO Smart Sensor Explained: Smarter Detection for Safer Spaces | Abcom Distribution LLC | [Read More](https://medium.com/p/bce91e9e870a) |
 | Tue, 05 Aug 2025 07:04:30 GMT | Home Lab Chronicles: Part 05 — Wazuh SIEM Setup | Suprim Devkota | [Read More](https://medium.com/p/195bc33802ae) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 00:42:01 GMT | Microsoft’s Failed Strategy — Security as an Afterthought | Matthew.Rosenquist | [Read More](https://medium.com/p/ab39f5cb290d) |
 | Tue, 05 Aug 2025 00:40:31 GMT | A CCSP (Certified Cloud Security Professional) Exam Kickstarter for Cloud Native Security… | Gerald Bachlmayr | [Read More](https://medium.com/p/8c0ccfeed457) |
 | Tue, 05 Aug 2025 00:29:44 GMT | Kernel32 Kung Fu: Manual Shellcode on Windows | Itz.sanskarr | [Read More](https://medium.com/p/ddc770d49b87) |
-| Tue, 05 Aug 2025 00:25:36 GMT | A Multi-Layered Phishing Attack Is Hijacking Microsoft 365 Accounts — Here’s How | Cyber-AppSec | [Read More](https://medium.com/p/f8dc962c998e) |
-| Tue, 05 Aug 2025 00:25:22 GMT | The Sentence I Almost Deleted — But Still Hear in My Head | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/91f73287db23) |
-| Tue, 05 Aug 2025 00:24:24 GMT | How RFID Access Systems Can Be Exploited in Minutes | Travis Ray Caverhill | [Read More](https://medium.com/p/1a2e99d0a002) |
-| Tue, 05 Aug 2025 00:19:11 GMT | Breaking Recon with AMASS | Technologist036 | [Read More](https://medium.com/p/4f0761125d42) |
-| Tue, 05 Aug 2025 00:02:52 GMT | When Numbers Lie: Overflowing the Cart to Steal a Jacket | Ahmadhossam | [Read More](https://medium.com/p/835386ea2fb0) |
-| Tue, 05 Aug 2025 00:01:59 GMT | Security Logging and Monitoring Failures (OWASP A09): Guía Completa de Hacking, Bug Bounty | JPablo13 | [Read More](https://medium.com/p/482e518699ca) |
