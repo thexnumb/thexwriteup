@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 10:41:24 GMT | 12 Habits That Shield Your Digital Life From Hackers | Alex Sofroniev | [Read More](https://medium.com/p/12c4388cd928) |
+| Tue, 05 Aug 2025 10:33:47 GMT | CVE-2025–20697: OOB Write in MediaTek Power HAL Could Lead to Privilege Escalation | CVEHUB | [Read More](https://medium.com/p/da96669464a5) |
+| Tue, 05 Aug 2025 10:33:39 GMT | Trouver un emploi en cybersécurité : de la posture à la stratégie | Larbi OUIYZME | [Read More](https://medium.com/p/52acfb6238e3) |
+| Tue, 05 Aug 2025 10:32:16 GMT | CVE-2025–20696: OOB Write in MediaTek DA Leads to Potential Local Privilege Escalation | CVEHUB | [Read More](https://medium.com/p/23a718ce41aa) |
+| Tue, 05 Aug 2025 10:31:01 GMT | How to Create and Apply Sensitivity Labels in Microsoft Purview for Smarter Data Protection | Oludolamu Onimole | [Read More](https://medium.com/p/fee99ed2153f) |
+| Tue, 05 Aug 2025 10:30:46 GMT | CVE-2025–54956: Sensitive Authorization Header Exposure in R ‘gh’ Package | CVEHUB | [Read More](https://medium.com/p/d591d1923916) |
+| Tue, 05 Aug 2025 10:29:19 GMT | Best Managed Cybersecurity Services In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/608b6f0d7e04) |
+| Tue, 05 Aug 2025 10:28:28 GMT | Co je to Malware a jak se mu branit? | Cyber Solution | [Read More](https://medium.com/p/bc133fe0ace1) |
+| Tue, 05 Aug 2025 10:24:35 GMT | Securing AWS: The Role Of Penetration Testing And Best Practices | Redfox Security | [Read More](https://medium.com/p/3488073260d3) |
+| Tue, 05 Aug 2025 10:16:34 GMT | Mastering Wazuh: Atomic Red Team ile Saldırı Simülasyonları | BARAN PARLAK | [Read More](https://medium.com/p/12c0acd3dce6) |
+| Tue, 05 Aug 2025 10:12:33 GMT | ️Hijacked Without Login⚠: Inside the Citrix Bleed Exploit | LazyHacker | [Read More](https://medium.com/p/6e663b48db6b) |
 | Tue, 05 Aug 2025 10:12:21 GMT | How I Built an Automated Bug Reporting System with Python | Dustdusky | [Read More](https://medium.com/p/d2706e172723) |
+| Tue, 05 Aug 2025 10:12:13 GMT | YCus: Financial & IT Consulting | YCus | [Read More](https://medium.com/p/d9b05024e395) |
 | Tue, 05 Aug 2025 10:12:09 GMT | Unlock Your Cybersecurity Career with Ethical Hacking Certification | Certocean | [Read More](https://medium.com/p/2dc320a6f729) |
 | Tue, 05 Aug 2025 10:07:40 GMT | 25 Hidden Google Dorks for 2025 Bug Bounty Hunters: Real Targets, Real Bounties | Qasim Mahmood Khalid | [Read More](https://medium.com/p/0bf8dd18d8bb) |
 | Tue, 05 Aug 2025 10:07:01 GMT | 5. Cryptography | unknownman | [Read More](https://medium.com/p/6675123bade5) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 06:30:38 GMT | XSS Trap Card Series — Vol. 1 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4a1fd177cc74) |
 | Tue, 05 Aug 2025 06:21:50 GMT | Day 22- PowerShell Basic Commands for beginners | unica 02 | [Read More](https://medium.com/p/cc7741d6d139) |
 | Tue, 05 Aug 2025 06:12:33 GMT | Türkiye’nin Her Yerinde Güvenlik Hizmeti Veren Lider Firma: Desecure | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/1c6f7d307374) |
-| Tue, 05 Aug 2025 06:01:39 GMT | What is Compliance-Management-as-a-Service (CMaaS) and Why You Need It | CyRAACS | [Read More](https://medium.com/p/dda1f6248087) |
-| Tue, 05 Aug 2025 06:01:24 GMT | The Unfunded Frontier: Why Emotional Infrastructure Is the Missing Pillar in Global Security and… | Harbour of Mercy CIC | [Read More](https://medium.com/p/1d10168ca186) |
-| Tue, 05 Aug 2025 06:00:36 GMT | Today’s Top Cyber Intelligence Highlights — Aug 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/91e0d4c9ef97) |
-| Tue, 05 Aug 2025 05:57:51 GMT | We Didn’t Fix Alignment; We Just Found the Light Switch | The AIthicist | [Read More](https://medium.com/p/048879eb10f2) |
-| Tue, 05 Aug 2025 05:55:56 GMT | Phishing: The Silent Danger Inside and Outside Organizations | RTB CYBERTECH | [Read More](https://medium.com/p/de8d7f222f46) |
-| Tue, 05 Aug 2025 05:54:57 GMT | ️ How to Implement ISO/IEC 27001 Step-by-Step in a Manufacturing Company Using IBM and GCP Cloud… | Hammad Zahid | [Read More](https://medium.com/p/bbd8afa45e7c) |
-| Tue, 05 Aug 2025 05:52:59 GMT | How to Disappear Online (When You Feel Like Someone’s Watching You) | Karthikeyan | [Read More](https://medium.com/p/c3c2a7022ca1) |
-| Tue, 05 Aug 2025 05:49:24 GMT | AI-Powered Decentralization: The Future of Autonomous Blockchain Networks | Suhana Shaik | [Read More](https://medium.com/p/6a7f3cbf6d81) |
-| Tue, 05 Aug 2025 05:46:57 GMT | Cybersecurity budgets: Is more money really the answer? | Martin Abramov | [Read More](https://medium.com/p/24fb0f72964a) |
-| Tue, 05 Aug 2025 05:46:41 GMT | Subdomain Scanner to HTTP Hunter: | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e1b8abaf6fb3) |
-| Tue, 05 Aug 2025 05:44:28 GMT | How to Build a Career in Cybersecurity | Charleskerren | [Read More](https://medium.com/p/f74424b75050) |
-| Tue, 05 Aug 2025 05:43:22 GMT | Cybersecurity Trends 2025: How CEH v13 Certification Keeps You Ahead | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/0fbdf87b772c) |
