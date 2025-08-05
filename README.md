@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 05:22:44 GMT | How System Integration Can Revolutionize Healthcare Operations: A Complete Guide | Diga core | [Read More](https://medium.com/p/568fe8daceeb) |
+| Tue, 05 Aug 2025 05:18:48 GMT | The cyber attack on DeepSeek exposes the dangers of artificial intelligence platforms.. | Sidialtos | [Read More](https://medium.com/p/fd13f2b53e07) |
+| Tue, 05 Aug 2025 05:08:30 GMT | The AI Arms Race Has Begun: Are CISOs Ready? | Prabhat Jha | [Read More](https://medium.com/p/e854c2cdf050) |
+| Tue, 05 Aug 2025 05:01:33 GMT | A Call for Safe and Transparent Social Media | Hemraj Kumawat | [Read More](https://medium.com/p/28991d2676d9) |
+| Tue, 05 Aug 2025 05:01:21 GMT | Portswigger Web Security Academy - File Upload Lab #1 | BooRuleDie | [Read More](https://medium.com/p/352f5792b64b) |
+| Tue, 05 Aug 2025 05:00:42 GMT | Top Cybersecurity Trends to Watch in 2025: AI, Zero Trust, and Emerging Threats | peopletech | [Read More](https://medium.com/p/314d013dbba0) |
+| Tue, 05 Aug 2025 04:56:56 GMT | 4. Top 10 Recon Tools I Use Every Day (With Pro Tips & Workflows) | Abhijeet kumawat | [Read More](https://medium.com/p/61665e79e65d) |
+| Tue, 05 Aug 2025 04:55:11 GMT | Covert Channel Chronicles: Remotely Activated Hardware Trojans | Ian Barwise | [Read More](https://medium.com/p/e2ca1ebf8d8c) |
+| Tue, 05 Aug 2025 04:48:10 GMT | Unmanned Underwater Vehicle (UUV) Market | George Buttler | [Read More](https://medium.com/p/5d0019ab97d3) |
 | Tue, 05 Aug 2025 04:43:48 GMT | Shifting Left with Security in Cursor AI: Integrating Semgrep and Detect Secrets | Srinivasan Azhagar | [Read More](https://medium.com/p/1ecb5102505d) |
 | Tue, 05 Aug 2025 04:38:32 GMT | OWASP Securing Agentic Applications: A Security Checklist for LLM-Based Agents | Viktor Davydych | [Read More](https://medium.com/p/062cba15fb3c) |
 | Tue, 05 Aug 2025 04:27:37 GMT | The modern employee dilemma | Raonejalagandeswaran | [Read More](https://medium.com/p/123c8eeeccf1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 19:42:48 GMT | Pod Security Standard not being applied to Namespace? | W. Jenks Gibbons | [Read More](https://medium.com/p/7d1d637077af) |
 | Mon, 04 Aug 2025 19:42:48 GMT | Sanal Makinede Windows Server Üzerinden Active Directory ve Group Policy (VirtualBox) | Mertcan Kopruvalı | [Read More](https://medium.com/p/dbdd65e844b6) |
 | Mon, 04 Aug 2025 19:30:56 GMT | Lazy VM-idekCTF 2025 Writeup | Mirseyid Mirzazada | [Read More](https://medium.com/p/077a8653a870) |
-| Mon, 04 Aug 2025 19:30:27 GMT | Irish Name Repo 3 — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/757644d1f92b) |
-| Mon, 04 Aug 2025 19:22:13 GMT | BGP Hijacking | Muhammed İkbal Yıldız | [Read More](https://medium.com/p/8cbe876c0f2d) |
-| Mon, 04 Aug 2025 19:20:56 GMT | Potential XSS Vulnerability in Acronis Login Callback URL | Monika sharma | [Read More](https://medium.com/p/db0eb8b7b0c0) |
-| Mon, 04 Aug 2025 19:20:22 GMT | The New Breed of Cyberattacks: How Companies are Evolving and How AI Is Redefining Cybersecurity | Harish Sandela | [Read More](https://medium.com/p/c848397cc747) |
-| Mon, 04 Aug 2025 19:18:45 GMT | Security Breach at The Property Ombudsman: Repeated Infrastructure Failures Ignored Despite Fraud… | Lucretia Delvaux | [Read More](https://medium.com/p/62ef8eb7155f) |
-| Mon, 04 Aug 2025 19:18:25 GMT | Kicking Off My Crowdfunding dApp with Rust — Part 1: Getting Rusty the Right Way | Bestine Okinda | [Read More](https://medium.com/p/133a79407dcc) |
-| Mon, 04 Aug 2025 19:17:49 GMT | SOC Analistinin Gözünden: Günlük Loglar Arasında Tehdit Avcılığı | Muhammed Aziz Özaltın | [Read More](https://medium.com/p/9ad8985be92e) |
-| Mon, 04 Aug 2025 19:16:45 GMT | SSL 3.0 vs. TLS 1.1/1.2/1.3 : Delta | Avery Brennen | [Read More](https://medium.com/p/2402ef90ac8f) |
-| Mon, 04 Aug 2025 19:14:50 GMT | eJPT Lab: Shellshock | Psalm Endozo | [Read More](https://medium.com/p/f928cb53d607) |
