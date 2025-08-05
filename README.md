@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 23:07:15 GMT | Beyond the Lightbulb (and Other Household Hazards): Crafting a Product Strategy That Doesn’t Flop | Somaditya Roy | [Read More](https://medium.com/p/64669c950663) |
+| Tue, 05 Aug 2025 22:47:18 GMT | Hackviser — Roundcube ≤ 1.6.10 | Dogukan İSPİRLİ | [Read More](https://medium.com/p/4fdaee448270) |
 | Tue, 05 Aug 2025 22:39:39 GMT | Preliminary data show rebound in homicides in 2024 | jak | [Read More](https://medium.com/p/5f4866e25e2f) |
 | Tue, 05 Aug 2025 22:33:29 GMT | How I Discovered a Critical OTP Rate Limiting Vulnerability on a Bug Bounty Program | Lime | [Read More](https://medium.com/p/e8386e857579) |
 | Tue, 05 Aug 2025 22:16:31 GMT | Dark Web Websites: What They Are and Why People Visit Them | SafeAeon Inc. | [Read More](https://medium.com/p/2330bbd066d8) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 17:14:54 GMT | Why Cyber Privilege Matters in the Fight Against Cybercrime | Vanirayala | [Read More](https://medium.com/p/33c0d42a230a) |
 | Tue, 05 Aug 2025 17:11:28 GMT | Secure Your Spreadsheets — OCT Newsletter 8–4–2025 | www.OneCoolTip.com | [Read More](https://medium.com/p/02d2fb1f3988) |
 | Tue, 05 Aug 2025 17:05:04 GMT | ️ Breaking the Web: Solving All Stages of the XSS Challenge (by yamagata21) | Bhaskar Maity | [Read More](https://medium.com/p/427c92832981) |
-| Tue, 05 Aug 2025 17:03:19 GMT | Cybersecurity: Is Threat Modeling a Luxury? | Ivan Fedorets | [Read More](https://medium.com/p/0c3f11dd9403) |
-| Tue, 05 Aug 2025 17:01:15 GMT | How I Got a Reverse Shell Through a Telnet Backdoor (TryHackMe Walkthrough) | JEONGYU NOH | [Read More](https://medium.com/p/09231d6a0d29) |
