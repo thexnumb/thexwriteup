@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 07:12:49 GMT | I Am A Tailor, Until It’s Mine | Susu | [Read More](https://medium.com/p/a631e65fefdf) |
+| Tue, 05 Aug 2025 07:07:44 GMT | The HALO Smart Sensor Explained: Smarter Detection for Safer Spaces | Abcom Distribution LLC | [Read More](https://medium.com/p/bce91e9e870a) |
+| Tue, 05 Aug 2025 07:04:30 GMT | Home Lab Chronicles: Part 05 — Wazuh SIEM Setup | Suprim Devkota | [Read More](https://medium.com/p/195bc33802ae) |
+| Tue, 05 Aug 2025 07:04:16 GMT | How to Turn Your Android Phone into a Hacking Machine with Termux | Kambetastephano | [Read More](https://medium.com/p/d68e94ac6ffb) |
+| Tue, 05 Aug 2025 07:04:04 GMT | CERT-In’s New Cyber Audit Mandate: India’s Security Wake-Up Call | The UNFILTERED Draft | [Read More](https://medium.com/p/54183a56a4ed) |
+| Tue, 05 Aug 2025 07:03:06 GMT | SafeLine vs Azure WAF: Which WAF Offers Better Flexibility and Control? | AerieWhole123 | [Read More](https://medium.com/p/5c7f896e3980) |
+| Tue, 05 Aug 2025 06:58:20 GMT | Phishing in Cyber Law: Understanding, Preventing, and Prosecuting the Digital Deception | Amit solanki | [Read More](https://medium.com/p/6f88ab5182b9) |
+| Tue, 05 Aug 2025 06:56:52 GMT | Carbon Black (P4:Enforce): A Practical Guide/An Practical Training | Dean | [Read More](https://medium.com/p/15045788310f) |
+| Tue, 05 Aug 2025 06:54:11 GMT | ChatGPT App: Your AI Sidekick, Now in Your Pocket | Emma Johnson | [Read More](https://medium.com/p/588c73466dbf) |
+| Tue, 05 Aug 2025 06:45:58 GMT | “Authentication vs Authorization: The Twin Pillars of Access Control in Modern Web Architecture” | Sai Pranav Moluguri | [Read More](https://medium.com/p/94eb70e9f32f) |
+| Tue, 05 Aug 2025 06:45:37 GMT | Thompson — TryHackMe Walkthrough (Easy Tomcat Exploit to Root) | Aadi | [Read More](https://medium.com/p/ee102af78415) |
+| Tue, 05 Aug 2025 06:44:40 GMT | XSS Reborn: 5 Killer Scenarios That Break Assumptions & Apps .. Advanced XSS Vol. 2 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f36eac655919) |
+| Tue, 05 Aug 2025 06:44:39 GMT | Keep your site running like a well-oiled machine ️ | Aarav Infotech India Pvt. Ltd. | [Read More](https://medium.com/p/5deb57775ed2) |
+| Tue, 05 Aug 2025 06:42:37 GMT | Payments Beyond ISO Standards: APIs, UPI, and the Modern Shift | Hariharan Ramesh | [Read More](https://medium.com/p/57ee2579cf64) |
+| Tue, 05 Aug 2025 06:39:33 GMT | Am I a Failure? | hppy | [Read More](https://medium.com/p/0256a18ee9a8) |
+| Tue, 05 Aug 2025 06:38:57 GMT | Book Trained Security Guards in Hyderabad — Fast & Reliable Service | Group 24/7 Security Services | [Read More](https://medium.com/p/47a2d0ce5db7) |
+| Tue, 05 Aug 2025 06:38:41 GMT | Building an AI Stack for Threat Intelligence in Blue Team Operations (Part 1) | Wasitpon Sinthuphon | [Read More](https://medium.com/p/0e980f652bd6) |
+| Tue, 05 Aug 2025 06:36:42 GMT | HPE Alletra Storage MP B10000: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d64b9c86b62d) |
+| Tue, 05 Aug 2025 06:31:55 GMT | How I Got on a US Government Hall of Fame in 5 Minutes. | Devansh Patel | [Read More](https://medium.com/p/280be3993f79) |
 | Tue, 05 Aug 2025 06:30:38 GMT | XSS Trap Card Series — Vol. 1 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4a1fd177cc74) |
 | Tue, 05 Aug 2025 06:21:50 GMT | Day 22- PowerShell Basic Commands for beginners | unica 02 | [Read More](https://medium.com/p/cc7741d6d139) |
 | Tue, 05 Aug 2025 06:12:33 GMT | Türkiye’nin Her Yerinde Güvenlik Hizmeti Veren Lider Firma: Desecure | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/1c6f7d307374) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 00:19:11 GMT | Breaking Recon with AMASS | Technologist036 | [Read More](https://medium.com/p/4f0761125d42) |
 | Tue, 05 Aug 2025 00:02:52 GMT | When Numbers Lie: Overflowing the Cart to Steal a Jacket | Ahmadhossam | [Read More](https://medium.com/p/835386ea2fb0) |
 | Tue, 05 Aug 2025 00:01:59 GMT | Security Logging and Monitoring Failures (OWASP A09): Guía Completa de Hacking, Bug Bounty | JPablo13 | [Read More](https://medium.com/p/482e518699ca) |
-| Mon, 04 Aug 2025 23:44:16 GMT | How a Simple .git/config Check Earned Me $1000 | Minio Haxer | [Read More](https://medium.com/p/23699662a134) |
-| Mon, 04 Aug 2025 23:40:26 GMT | How to Fix Packet Loss Without Losing Your Mind | Akshay Chauhan | [Read More](https://medium.com/p/a0487fc6e987) |
-| Mon, 04 Aug 2025 23:12:27 GMT | IDS Nedir ve Çeşitlerinde Bulunan Güvenlik Açıkları ? | ErenCatak | [Read More](https://medium.com/p/6d5fbf4492b1) |
-| Mon, 04 Aug 2025 23:05:44 GMT | Unveiling the Hidden Vulnerability in AI’s Memory | Elias Hossain | [Read More](https://medium.com/p/80db6ea5eacb) |
-| Mon, 04 Aug 2025 22:56:11 GMT | How to Add a User with Non-Interactive Shell in Linux | Farhan Latif | [Read More](https://medium.com/p/b9b388fc3895) |
-| Mon, 04 Aug 2025 22:54:41 GMT | Hi | Samwissy | [Read More](https://medium.com/p/a537e71d66a6) |
-| Mon, 04 Aug 2025 22:52:56 GMT | WhatsApp Hacked? Don’t Panic — Here’s Your Action Plan | Amy Abafor | [Read More](https://medium.com/p/d6f3d54329c7) |
-| Mon, 04 Aug 2025 22:40:15 GMT | Mobile Device Security Tips | Pisarski | [Read More](https://medium.com/p/c1c51f041e4b) |
-| Mon, 04 Aug 2025 22:35:26 GMT | The Cyber Security Hands-on training platforms everyone should be using! | SecBySam | [Read More](https://medium.com/p/4422d13ffae3) |
-| Mon, 04 Aug 2025 22:29:13 GMT | The Digital Throne: Why Women in Leadership Must Refuse to Bow? | Lastingglory | [Read More](https://medium.com/p/d826b842ad26) |
-| Mon, 04 Aug 2025 22:19:15 GMT | Automate IDOR Hunting Like a Pro with Burp Suite’s Authorize Extension | Abdul Mateen | [Read More](https://medium.com/p/214ca1dcf9b9) |
-| Mon, 04 Aug 2025 22:06:30 GMT | Privately Send HTTP Requests Between AWS Accounts | Anton Yurchenko | [Read More](https://medium.com/p/99052e5070f2) |
-| Mon, 04 Aug 2025 22:03:49 GMT | Roam Global eSIM Bounty Program | Roam | [Read More](https://medium.com/p/5b2efed8436d) |
-| Mon, 04 Aug 2025 21:54:14 GMT | Building a Secure Multihomed Firewall System with pfSense, DMZ, Suricata (IDS/IPS), and Wazuh… | Berkay Köseoğlu | [Read More](https://medium.com/p/cd58815a050e) |
-| Mon, 04 Aug 2025 21:47:17 GMT | AWS IAM Roles Anywhere | Nathaniel Agbenyenu | [Read More](https://medium.com/p/ab01df441927) |
-| Mon, 04 Aug 2025 21:44:20 GMT | The 2025 GitHub Recon Checklist for Bug Bounty Hunters | Tillson Galloway | [Read More](https://medium.com/p/e626ee1a1012) |
-| Mon, 04 Aug 2025 21:39:20 GMT | Rwanda’s Regional Role: Between Security, Influence, and Emerging Imperial Ambitions | Afrikan Identity | [Read More](https://medium.com/p/bc3f37a16991) |
-| Mon, 04 Aug 2025 21:36:09 GMT | Bypassing Authentication and Triggering XSS via Simple URL Manipulation | Fareed Ahmed | [Read More](https://medium.com/p/a3d56c66b136) |
-| Mon, 04 Aug 2025 21:32:08 GMT | The BTL1 Exam, and Course Survival Guide… Or how I passed with 100%, and got my gold coin, and how… | Seccult | [Read More](https://medium.com/p/b7ce92221db3) |
