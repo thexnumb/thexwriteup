@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 20:26:30 GMT | Why Now’s the Time to Become an MSP Partner and Grow Your Business | SafeAeon Inc. | [Read More](https://medium.com/p/3f2e3e97ff3d) |
+| Tue, 05 Aug 2025 20:26:25 GMT | PortSwigger Lab Walkthrough: Blind OS Command Injection with Time Delays | Siddiquimohammad | [Read More](https://medium.com/p/abd889b5d3b9) |
+| Tue, 05 Aug 2025 20:25:11 GMT | Vulnerability Data Enrichment for CVE Records: 242 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/9ca019d41848) |
+| Tue, 05 Aug 2025 20:21:11 GMT | More jobs, more risk, especially if you’re polyworking. | Breeze End Technology | [Read More](https://medium.com/p/6d47e3ef328d) |
+| Tue, 05 Aug 2025 20:20:33 GMT | Digital Signatures — Dijital İmzalar | Batuhan | [Read More](https://medium.com/p/713941778ab6) |
 | Tue, 05 Aug 2025 20:11:17 GMT | Hacker’s jargon: a Crypto Drainer refers to a set of automated tools used to steal cryptocurrency. | 0trust0day | [Read More](https://medium.com/p/3d35d79752bd) |
 | Tue, 05 Aug 2025 20:04:51 GMT | Vulnerabilities of Agentic AI: How It Can Get Hacked and How to Secure It | Het Mehta | [Read More](https://medium.com/p/8bb705414d04) |
 | Tue, 05 Aug 2025 20:04:37 GMT | ASC Cyber WarGames 2025 Qualifications — (Web) | Abdelrahman Radwan | [Read More](https://medium.com/p/e275bbe9753f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 16:13:06 GMT | Securing APIs with JWT, OAuth, and Go: Concepts, Integration & Best Practices | Thant Hein Thwin | [Read More](https://medium.com/p/8e9d44344702) |
 | Tue, 05 Aug 2025 16:12:43 GMT | Why Priil Internet Security Software Stands Out as the Best Antivirus Software in 2025 | Priil Antivirus | [Read More](https://medium.com/p/c227304061d5) |
 | Tue, 05 Aug 2025 16:07:10 GMT | What Is Tailscale? The VPN That Doesn’t Suck | Hugo Valters | [Read More](https://medium.com/p/05d244a30dba) |
-| Tue, 05 Aug 2025 16:06:31 GMT | 5 Simple Tips That Keep Mosquitoes Away | Peter | [Read More](https://medium.com/p/b34166b153fd) |
-| Tue, 05 Aug 2025 16:06:03 GMT | The Ultimate Guide to AWS S3 Bucket Security: From Basics to Advanced | Kishan Rank | [Read More](https://medium.com/p/c6ac5293a266) |
-| Tue, 05 Aug 2025 16:05:57 GMT | DAY 35 — MemLabs Lab 4: Phase 2 | Jinay | [Read More](https://medium.com/p/1b773b090091) |
-| Tue, 05 Aug 2025 16:05:06 GMT | Javascript e o XSS | Gabriel Jesus | [Read More](https://medium.com/p/4bc1caa98bb8) |
-| Tue, 05 Aug 2025 16:02:46 GMT | The Loneliness of Being the Strong One | RJ Menon | [Read More](https://medium.com/p/492b88234bb4) |
