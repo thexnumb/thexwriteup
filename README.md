@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 04:43:48 GMT | Shifting Left with Security in Cursor AI: Integrating Semgrep and Detect Secrets | Srinivasan Azhagar | [Read More](https://medium.com/p/1ecb5102505d) |
+| Tue, 05 Aug 2025 04:38:32 GMT | OWASP Securing Agentic Applications: A Security Checklist for LLM-Based Agents | Viktor Davydych | [Read More](https://medium.com/p/062cba15fb3c) |
+| Tue, 05 Aug 2025 04:27:37 GMT | The modern employee dilemma | Raonejalagandeswaran | [Read More](https://medium.com/p/123c8eeeccf1) |
+| Tue, 05 Aug 2025 04:25:43 GMT | Ultimate App Security in Flutter with ultra_secure_flutter_kit — A Complete Guide | AlexCodeX | [Read More](https://medium.com/p/d48af36bc3e5) |
+| Tue, 05 Aug 2025 04:25:15 GMT | How GPS Tracking Technology is Transforming Vehicle Security Forever | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/fa2c1fac6fbd) |
+| Tue, 05 Aug 2025 04:21:15 GMT | Transform and Scale Your IT Business with DevOps and Business Consulting Services for the Modern… | Harshavardhansai | [Read More](https://medium.com/p/c97869a93399) |
+| Tue, 05 Aug 2025 04:14:13 GMT | If You Can’t See It, You Can’t Protect It: Why Asset Management Is the Foundation of Cybersecurity | Shashank Rajesh Kulkarni | [Read More](https://medium.com/p/c153e0ab58cc) |
+| Tue, 05 Aug 2025 04:13:20 GMT | Securing Agentic AI: 10 Essential Security Patchments You Must Know | Subhashree A | [Read More](https://medium.com/p/81bcb3b271d2) |
+| Tue, 05 Aug 2025 03:59:15 GMT | SCAMTRACK + GHOSTMODE | ekomsSavior | [Read More](https://medium.com/p/3d82b9f98263) |
+| Tue, 05 Aug 2025 03:54:40 GMT | What If We Give It a Try? | Nadia Hadisty | [Read More](https://medium.com/p/4a8c82906481) |
 | Tue, 05 Aug 2025 03:46:38 GMT | Taming the WebView: Secure Web Content in Your App | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/5e1cd62e6eb0) |
 | Tue, 05 Aug 2025 03:40:00 GMT | Beyond The Basics: Is Your Med Spa Covered For These Common Liability Claims? | revathi msr | [Read More](https://medium.com/p/1853083dfb78) |
 | Tue, 05 Aug 2025 03:38:25 GMT | Forgotten by Design: How an Unused Subdomain Gave Me Full Cloud Access ☁️ | Iski | [Read More](https://medium.com/p/ba7f0c2b4ea2) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 Aug 2025 19:17:49 GMT | SOC Analistinin Gözünden: Günlük Loglar Arasında Tehdit Avcılığı | Muhammed Aziz Özaltın | [Read More](https://medium.com/p/9ad8985be92e) |
 | Mon, 04 Aug 2025 19:16:45 GMT | SSL 3.0 vs. TLS 1.1/1.2/1.3 : Delta | Avery Brennen | [Read More](https://medium.com/p/2402ef90ac8f) |
 | Mon, 04 Aug 2025 19:14:50 GMT | eJPT Lab: Shellshock | Psalm Endozo | [Read More](https://medium.com/p/f928cb53d607) |
-| Mon, 04 Aug 2025 19:10:39 GMT | picobrowser — PicoCTF — Writeup | 0xSudo | [Read More](https://medium.com/p/1e66cb2b8820) |
-| Mon, 04 Aug 2025 19:00:27 GMT | pfSense DHCP Guide | James Rawlings | [Read More](https://medium.com/p/f4146bb9c19b) |
-| Mon, 04 Aug 2025 18:57:51 GMT | InfoSec Is Shifting: These Are The Patterns Driving the Change | Yael Nagler | [Read More](https://medium.com/p/33d5749ba524) |
-| Mon, 04 Aug 2025 18:55:14 GMT | How to Detect Mass Error-Based SQL Injection with Google Dorks, FOFA, NUCLEI, and Automation | Anonymous27 | [Read More](https://medium.com/p/8c6724ddd9d3) |
-| Mon, 04 Aug 2025 18:55:06 GMT | Faster, cheaper, and more transparent: New Search Optimization features | Shreya Agrawal | [Read More](https://medium.com/p/a5f9ff51b0ea) |
-| Mon, 04 Aug 2025 18:52:00 GMT | OWASP A1 — Injection: Secure Code Analysis (Part 2) | Sevban Dönmez | [Read More](https://medium.com/p/cac0ce219fec) |
-| Mon, 04 Aug 2025 18:38:13 GMT | Passkeys Are Just Passwords That Require a Password Manager | Dan Fabulich | [Read More](https://medium.com/p/ebb7f2fdcadf) |
-| Mon, 04 Aug 2025 18:37:11 GMT | [2] picoCTF 2025 Challenge — n0s4n1ty 1 (Web Exploitation)[Easy] | Saptarshi | [Read More](https://medium.com/p/05a15a3928ec) |
-| Mon, 04 Aug 2025 18:36:54 GMT | July 2025’s Worst Security Bugs (And What to Fix Before It’s Too Late) | Larsen | [Read More](https://medium.com/p/059a633236ba) |
-| Mon, 04 Aug 2025 18:35:57 GMT | Write-up: Dragon— TheHackersLabs | D4xt | [Read More](https://medium.com/p/1474d6c91e09) |
