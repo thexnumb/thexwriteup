@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 Aug 2025 15:39:37 GMT | Scanning Web Servers for Vulnerabilities with Nikto: My Hands-On Lab Experience | Eddie Artis Jr. | [Read More](https://medium.com/p/d736c561554b) |
+| Tue, 05 Aug 2025 15:33:53 GMT | Starting Bug Bounty — Documenting My Journey | Calvaryhasarrived | [Read More](https://medium.com/p/54ae237d1467) |
+| Tue, 05 Aug 2025 15:30:50 GMT | 6 Lessons I Learnt as a Beginner- From an Event that Sparked my Drive. | Haruna Rasheedah | [Read More](https://medium.com/p/a086caf792ae) |
+| Tue, 05 Aug 2025 15:29:58 GMT | BLUE- TRYHACKME | TheSocialHacker | [Read More](https://medium.com/p/555dbefbe12e) |
+| Tue, 05 Aug 2025 15:23:51 GMT | Your ChatGPT Prompts Are Bad. Here’s the Only One You’ll Ever Need. | Fahad's Foresight | [Read More](https://medium.com/p/356430e5f482) |
+| Tue, 05 Aug 2025 15:21:22 GMT | AI in Cybersecurity: How Machine Learning Stops Cyber Threats Faster | Payaam Raza | [Read More](https://medium.com/p/248cddf07fe5) |
+| Tue, 05 Aug 2025 15:20:01 GMT | SIEM Mimarisi ve Bileşenleri | ErenCatak | [Read More](https://medium.com/p/31994bf6beba) |
 | Tue, 05 Aug 2025 15:13:33 GMT | Professional Hacking Service - Sessions Hijacking | BlackHat | [Read More](https://medium.com/p/178324c1a20e) |
 | Tue, 05 Aug 2025 15:11:53 GMT | How I Balance Gym, Work, and Cybersecurity Studies (Without Burning Out) | Rue | [Read More](https://medium.com/p/14eef381f9e2) |
 | Tue, 05 Aug 2025 15:09:19 GMT | XSS (Cross-Site Scripting) Explained Simply | Binurajendran | [Read More](https://medium.com/p/da8604448d22) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 11:16:09 GMT | Best Cyber Security Course in Noida — Career-Focused Training with GRAStech | GRAStech | [Read More](https://medium.com/p/287231ea82a0) |
 | Tue, 05 Aug 2025 11:16:04 GMT | Cyber Security Compliance: Adhering to the Standards | Cyber Security Research | [Read More](https://medium.com/p/71d19566c6c1) |
 | Tue, 05 Aug 2025 11:13:46 GMT | Why Every UAE Business Needs a Cybersecurity Support Partner — Now More Than Ever | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/5067192c1cf9) |
-| Tue, 05 Aug 2025 11:13:41 GMT | Cyber Security Incident Response: Handling the Breach | Cyber Security Research | [Read More](https://medium.com/p/2b4ad0b92ad2) |
-| Tue, 05 Aug 2025 11:13:18 GMT | How LinkedIn Censors Users for Political Reasons | James Bone | [Read More](https://medium.com/p/03bc35e50bbc) |
-| Tue, 05 Aug 2025 11:11:16 GMT | Siber Güvenlik Yaz Kampı: Ağ Temelleri - TalentCoders Günlükleri 1 | Hakan ÇEVİK | [Read More](https://medium.com/p/1ece9bb2d99a) |
-| Tue, 05 Aug 2025 11:08:00 GMT | World’s First Fully Sovereign Communication Platform ​for Governments | Sover App | [Read More](https://medium.com/p/58eb10682ca9) |
-| Tue, 05 Aug 2025 11:07:41 GMT | The Ultimate Guide to CPENT: My Journey, Lessons Learned & How to Prepare | Ria Banerjee | [Read More](https://medium.com/p/75f70037b18a) |
-| Tue, 05 Aug 2025 11:07:01 GMT | Reflected XSS Into a Template Literal With Angle Brackets, Single, Double Quotes, Backslash and… | Bash Overflow | [Read More](https://medium.com/p/695c75db1c54) |
-| Tue, 05 Aug 2025 11:02:04 GMT | AI vs AI: 2025 CrowdStrike Global Threat Report | noailabs | [Read More](https://medium.com/p/0d838e5b0aba) |
