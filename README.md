@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 19:34:34 GMT | When detection fails: 5 lessons learned that caused security alerts go dark because of data… | LogFiend | [Read More](https://medium.com/p/708df74a89bd) |
+| Wed, 06 Aug 2025 19:31:03 GMT | Poisoning the web: Ultimate guide to the web cache poisoning | Manas Harsh | [Read More](https://medium.com/p/ade6eb884d39) |
+| Wed, 06 Aug 2025 19:30:25 GMT | Recovery/Crypto | Norman Meg | [Read More](https://medium.com/p/8243fe089920) |
+| Wed, 06 Aug 2025 19:26:34 GMT | The Paradox of Love: A Fragile Dance | Clumsy_fellaaaaa | [Read More](https://medium.com/p/9027386e2777) |
+| Wed, 06 Aug 2025 19:14:51 GMT | Cybersecurity & Social Engineering  Factor Still Matters
+Cybersecurity isn’t just about firewalls… | Murat Tarsuslu | [Read More](https://medium.com/p/6a51a62e6d02) |
 | Wed, 06 Aug 2025 19:10:28 GMT | Learn Real WiFi Hacking Concepts with Termux — Not Fake Tricks | Kambetastephano | [Read More](https://medium.com/p/35693a356bf3) |
+| Wed, 06 Aug 2025 19:08:29 GMT | HOW CAN I RECOVER MY LOST BITCOIN, USDT?/MALICE CYBER RECOVERY WILL SOLVE YOUR PROBLEMS | Thomas nils | [Read More](https://medium.com/p/caf06d87b946) |
 | Wed, 06 Aug 2025 19:06:23 GMT | Is Your Email on the Dark Web? Here’s How to Find Out | SafeAeon Inc. | [Read More](https://medium.com/p/2c84deb43e93) |
 | Wed, 06 Aug 2025 19:04:35 GMT | Runtime BOM (RBOM): The Optimized Upgrade to SBOM, Powered by RapidFort | Jacob Mitani | [Read More](https://medium.com/p/939a05fe1d00) |
 | Wed, 06 Aug 2025 19:01:07 GMT | The Machine Uprising Has Been Cancelled. Anton Vibe Art | En Doa | [Read More](https://medium.com/p/0a1d90829920) |
@@ -106,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 15:06:21 GMT | “Elon Musk Wants to Invest with You”—Sure, and I’m the CEO of Mars | Priyansh Shrivastava | [Read More](https://medium.com/p/470ecb069fd2) |
 | Wed, 06 Aug 2025 15:06:01 GMT | Tools that i have learnt as an intern in “Cyber Privilege” | Dosapati Jatha Sri Mahidhar | [Read More](https://medium.com/p/8243d2e30520) |
 | Wed, 06 Aug 2025 15:04:53 GMT | Kickstarting My Cyber Forensics Internship at Cyber Privilege Pvt. Ltd. | Charansaibalaji | [Read More](https://medium.com/p/e23009288ef1) |
-| Wed, 06 Aug 2025 15:03:17 GMT | Why Automated Tools and Dashboards Can’t Replace a Human Investigator | Ingvar Pavlovich | [Read More](https://medium.com/p/44f7643a651e) |
-| Wed, 06 Aug 2025 15:02:54 GMT | The Ultimate Guide to Preventing Facebook and WhatsApp Account Disables in 2025 | Devriazul | [Read More](https://medium.com/p/a65c3e41f7d7) |
-| Wed, 06 Aug 2025 15:02:36 GMT | Before You Trust Google Drive… Read This! | Your's Nightmare | [Read More](https://medium.com/p/a1ed88c8cdde) |
-| Wed, 06 Aug 2025 15:02:29 GMT | Your WhatsApp Chats Aren’t as Private as You Think! | Your's Nightmare | [Read More](https://medium.com/p/2245096576bd) |
-| Wed, 06 Aug 2025 15:02:03 GMT | Earn Big with BUG $BUG Yield Rewards | hasan13war | [Read More](https://medium.com/p/1f6c1503c5e5) |
-| Wed, 06 Aug 2025 15:01:30 GMT | How I Found 50+ Open Redirects Using Automation and Simple Bash Scripts | dr34m14 | [Read More](https://medium.com/p/91e3b92f5c69) |
