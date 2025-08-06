@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 06:30:53 GMT | The Best Crypto Hardware Wallet to Buy in 2025: Digital Shield — Redefining the Boundaries of… | Digital Shield Offcial | [Read More](https://medium.com/p/d410ff5bd68f) |
+| Wed, 06 Aug 2025 06:30:18 GMT | OAuth Confusion: How One Misconfigured Login Could Cost You Everything | Shatrughan | [Read More](https://medium.com/p/37aa1a0301e6) |
+| Wed, 06 Aug 2025 06:25:39 GMT | Expert Lecture 2 Journal: Security Vulnerability Assessment & Governance Solution | Brisbane Jovan Rivaldi Sihombing | [Read More](https://medium.com/p/a8d73c03a3a1) |
+| Wed, 06 Aug 2025 06:24:47 GMT | “Re Vault” Exposed: Millions of Dell Laptops Vulnerable to Takeover and Persistent Malware Attacks | Tarush Sharma | [Read More](https://medium.com/p/e07ebbdac5fb) |
+| Wed, 06 Aug 2025 06:21:39 GMT | How to Safely Store Your Web3 Assets: Try Digital Shield Hardware Wallet | Digital Shield | [Read More](https://medium.com/p/a328616d6f97) |
+| Wed, 06 Aug 2025 06:20:01 GMT | Blind SQL Injection Found! In Tirreno : Security Analytics | CyberDucky | [Read More](https://medium.com/p/cbd791cec1c0) |
+| Wed, 06 Aug 2025 06:14:10 GMT | “401 Isn’t a Wall — It’s a Window: Turning Unauthorized Into Unlocked” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4ce72cd382be) |
+| Wed, 06 Aug 2025 06:10:47 GMT | Information Technology vs. Artificial Intelligence: Understanding the Key Differences | Bikash Peeripaul | [Read More](https://medium.com/p/0e38de194c17) |
+| Wed, 06 Aug 2025 06:09:24 GMT | Cybersecurity Job Roles of the Future: | Dr. Deep Pandey | [Read More](https://medium.com/p/f6bf9231056e) |
+| Wed, 06 Aug 2025 06:04:01 GMT | Deploy Microsoft Entra ID Administrative Units using PowerShell | Brian Veldman | [Read More](https://medium.com/p/d3f834b8a9f6) |
+| Wed, 06 Aug 2025 06:02:09 GMT | Top Smartphones Launching in August 2025: What to Expect | pardeep brar | [Read More](https://medium.com/p/004d08cba187) |
+| Wed, 06 Aug 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Aug 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5e1ace3949e5) |
+| Wed, 06 Aug 2025 05:59:20 GMT | CYBERSECURITY: BASICS 1 NETWORKING | Rayyanshowkath | [Read More](https://medium.com/p/be092268522c) |
+| Wed, 06 Aug 2025 05:51:52 GMT | My Journey into Information Security: From Paint to Post-Quantum | Beenu Pulikottil | [Read More](https://medium.com/p/1e6f871d5fdc) |
+| Wed, 06 Aug 2025 05:51:37 GMT | ️ Microsoft’s $5M Zero Day Quest Returns: A Game-Changer in Cybersecurity Research | Tarush Sharma | [Read More](https://medium.com/p/a92dffb89646) |
+| Wed, 06 Aug 2025 05:48:33 GMT | Improve Your Business by partnering by using the most effective Security Solutions Company in UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/fa5236086cc0) |
+| Wed, 06 Aug 2025 05:47:06 GMT | Day3 Recon: Subdomain Enumeration for Beginners: A Hands-On Guide Using Sublist3r, Amass & Gobuster | Ayush Kumar | [Read More](https://medium.com/p/20ce5cacab81) |
+| Wed, 06 Aug 2025 05:45:45 GMT | TryHackMe — Linux Privilege Escalation | Alfien Dhika | [Read More](https://medium.com/p/5f848a82dc5d) |
+| Wed, 06 Aug 2025 05:36:59 GMT | TRAINING BLADE SERVER | Transindo Training | [Read More](https://medium.com/p/1eb2ca12dbdd) |
+| Wed, 06 Aug 2025 05:32:32 GMT | Changing the SSID name on a Wi-Fi repeater leads to a CVE!? | esistdini | [Read More](https://medium.com/p/6a0d4c22b84e) |
+| Wed, 06 Aug 2025 05:30:23 GMT | Selection in Gurugram Cyber Police as Cyber Security Intern — 2024 | Mohittkumarr | [Read More](https://medium.com/p/320a01611e2d) |
 | Wed, 06 Aug 2025 05:29:36 GMT | “404 + JS + GitHub = A Triple Threat Attack Surface” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/82775003f078) |
 | Wed, 06 Aug 2025 05:23:42 GMT | Supervised, Unsupervised, and Reinforcement Learning Models | Jeeva Selvaraju | [Read More](https://medium.com/p/46958a928c1b) |
 | Wed, 06 Aug 2025 05:19:29 GMT | Art and IT: Holding on to humanity in a world of machines | Buddhika Jayawardena | [Read More](https://medium.com/p/3a291f5fcb30) |
@@ -92,24 +113,3 @@ A Wake-Up Call for the Crypto… | Dalvir | [Read More](https://medium.com/p/f1e
 | Tue, 05 Aug 2025 21:15:44 GMT | Cyber Security Authentication: Verifying User Identities | Cyber Security Research | [Read More](https://medium.com/p/4e36b2b9488f) |
 | Tue, 05 Aug 2025 21:13:53 GMT | Cyber Security Encryption: Securing Data in Transit and at Rest | Cyber Security Research | [Read More](https://medium.com/p/e5a9dbd76f50) |
 | Tue, 05 Aug 2025 21:11:53 GMT | Cyber Security Privacy: Protecting Sensitive Information | Cyber Security Research | [Read More](https://medium.com/p/b26946289af5) |
-| Tue, 05 Aug 2025 21:10:04 GMT | Cyber Security Ethics: Defining the Moral Boundaries | Cyber Security Research | [Read More](https://medium.com/p/1c38747a7b13) |
-| Tue, 05 Aug 2025 21:06:48 GMT | TryHackMe Anonymous Playground — Walkthrough | mauzware | [Read More](https://medium.com/p/dce2d7d56d56) |
-| Tue, 05 Aug 2025 21:05:54 GMT | Remote code execution via polyglot web shell upload — PortSwigger Walkthrough | Amr Elharery | [Read More](https://medium.com/p/c29c5d60557f) |
-| Tue, 05 Aug 2025 21:01:07 GMT | Yapay Zekâ ve Siber Güvenlik: Müttefik mi, Tehdit mi? — Aynı Bıçağın İki Yüzü | Eflal Kuruyüz | [Read More](https://medium.com/p/c21874c02b1d) |
-| Tue, 05 Aug 2025 20:51:53 GMT | I Paid ₹1 for a ₹1000 Event – How “Vibe Coding” Can Lead to Real-World Failures | Dnavin | [Read More](https://medium.com/p/cac19ac62c66) |
-| Tue, 05 Aug 2025 20:43:38 GMT | Click This link please | S M MASUD | [Read More](https://medium.com/p/8af162682f24) |
-| Tue, 05 Aug 2025 20:42:07 GMT | AI, AI Agents, and Where We Are at in the Timeline. | Derrick Brandt | [Read More](https://medium.com/p/f3fb6f8fcdc9) |
-| Tue, 05 Aug 2025 20:26:30 GMT | Why Now’s the Time to Become an MSP Partner and Grow Your Business | SafeAeon Inc. | [Read More](https://medium.com/p/3f2e3e97ff3d) |
-| Tue, 05 Aug 2025 20:26:25 GMT | PortSwigger Lab Walkthrough: Blind OS Command Injection with Time Delays | Siddiquimohammad | [Read More](https://medium.com/p/abd889b5d3b9) |
-| Tue, 05 Aug 2025 20:25:11 GMT | Vulnerability Data Enrichment for CVE Records: 242 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/9ca019d41848) |
-| Tue, 05 Aug 2025 20:21:11 GMT | More jobs, more risk, especially if you’re polyworking. | Breeze End Technology | [Read More](https://medium.com/p/6d47e3ef328d) |
-| Tue, 05 Aug 2025 20:20:33 GMT | Digital Signatures — Dijital İmzalar | Batuhan | [Read More](https://medium.com/p/713941778ab6) |
-| Tue, 05 Aug 2025 20:11:17 GMT | Hacker’s jargon: a Crypto Drainer refers to a set of automated tools used to steal cryptocurrency. | 0trust0day | [Read More](https://medium.com/p/3d35d79752bd) |
-| Tue, 05 Aug 2025 20:04:51 GMT | Vulnerabilities of Agentic AI: How It Can Get Hacked and How to Secure It | Het Mehta | [Read More](https://medium.com/p/8bb705414d04) |
-| Tue, 05 Aug 2025 20:04:37 GMT | ASC Cyber WarGames 2025 Qualifications — (Web) | Abdelrahman Radwan | [Read More](https://medium.com/p/e275bbe9753f) |
-| Tue, 05 Aug 2025 19:59:10 GMT | Finding Hidden APIs & Parameters in Minutes with Burp Suite | Paritosh | [Read More](https://medium.com/p/562ed5c92504) |
-| Tue, 05 Aug 2025 19:56:34 GMT | Passphrases That Humans Remember — and Bots Can’t Crack | SaddleBridge Consulting | [Read More](https://medium.com/p/b2ae53ae07fe) |
-| Tue, 05 Aug 2025 19:56:01 GMT | How Azure Empowers Startups with Scalability, Security, and Speed | Techridge Solutions | [Read More](https://medium.com/p/bfaf4cf1d56e) |
-| Tue, 05 Aug 2025 19:54:59 GMT | Cybersecurity Leadership in a Dangerous World with Bob Zinga | Matthew.Rosenquist | [Read More](https://medium.com/p/3e9dec9ccaeb) |
-| Tue, 05 Aug 2025 19:51:58 GMT | How criminals test each SMS message on their own phone first to confirm it will reach yours | Paul Walsh | [Read More](https://medium.com/p/f23aa0ae982c) |
-| Tue, 05 Aug 2025 19:49:31 GMT | America’s AI Action Plan | Andrew Kagan | [Read More](https://medium.com/p/5f1bd400535f) |
