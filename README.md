@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 18:21:03 GMT | The Power of Log Correlation in Threat Hunting | Zrhmz | [Read More](https://medium.com/p/88b926b522c7) |
+| Wed, 06 Aug 2025 18:16:38 GMT | BLUE- TRYHACKME | Pawan Badoni | [Read More](https://medium.com/p/77dccfc89023) |
+| Wed, 06 Aug 2025 18:15:14 GMT | AI will not cause economic growth of 20% to 30% per year | Gaetan Lion | [Read More](https://medium.com/p/8decea769888) |
+| Wed, 06 Aug 2025 18:13:54 GMT | Hak5 WiFi Pineapple Pager: A Modern Classic | LazyDom | [Read More](https://medium.com/p/00d5252819f5) |
+| Wed, 06 Aug 2025 18:13:19 GMT | Increase Workplace Productivity : Employee Monitoring Spy Apps | Narjis Batool | [Read More](https://medium.com/p/4de8851aa2d5) |
+| Wed, 06 Aug 2025 18:09:04 GMT | Making dorks from HTML Comment | AbhirupKonwar | [Read More](https://medium.com/p/b4794b54d596) |
+| Wed, 06 Aug 2025 18:08:47 GMT | How Public Logs Can Leak Authentication Tokens — A Real Netlify Token Exposure Case | Monika sharma | [Read More](https://medium.com/p/a08561b2aedb) |
+| Wed, 06 Aug 2025 18:07:02 GMT | Wireless Penetration Testing Made Easy: Our Team’s Go-To Wifite Workflow | Mark Puckett | [Read More](https://medium.com/p/f7d2f8be0839) |
+| Wed, 06 Aug 2025 18:05:01 GMT | Detecting Web Shells - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/c78c304253bf) |
+| Wed, 06 Aug 2025 18:03:13 GMT | Forensics - picoGym - Redaction gone wrong | Flower Bed | [Read More](https://medium.com/p/687c9bd6c61e) |
+| Wed, 06 Aug 2025 18:02:42 GMT | How a Broken Facebook Link Let Me Hijack User Traffic — Twice | vaaditya320 | [Read More](https://medium.com/p/79caa1710f6c) |
+| Wed, 06 Aug 2025 17:57:41 GMT | SÖYLEME!!! | Esra | [Read More](https://medium.com/p/86774db5494b) |
+| Wed, 06 Aug 2025 17:54:41 GMT | Terran Comlink on Budget: Mission Impossible Complete | Pisarski | [Read More](https://medium.com/p/75b747cb01c8) |
+| Wed, 06 Aug 2025 17:51:41 GMT | Why Vulnerability Is the Antidote to Shame — And How to Practice It Without Feeling Exposed | Alexandra Gulbis, LCSW, ABS | [Read More](https://medium.com/p/5e605d58283f) |
+| Wed, 06 Aug 2025 17:49:50 GMT | ️ CyberRecon Arsenal — Your Ultimate All-in-One Reconnaissance Toolkit for Bug Bounty &… | LETCHU PKT | [Read More](https://medium.com/p/a41d786a3600) |
+| Wed, 06 Aug 2025 17:46:57 GMT | Architecting a Resilient AI Security Service: A Blueprint for Guardrail Implementation | Mujtaba Qadri | [Read More](https://medium.com/p/1e4f9bf8ff60) |
+| Wed, 06 Aug 2025 17:46:22 GMT | Drosera Network: A Quick Introduction | Onenee of Alode | [Read More](https://medium.com/p/f144ebf82210) |
+| Wed, 06 Aug 2025 17:41:14 GMT | Automation vs. Orchestration: Insights From IT Managed Services Providers in Springfield | PCnet | [Read More](https://medium.com/p/6e1a68e58ac5) |
 | Wed, 06 Aug 2025 17:38:25 GMT | Hooked on Bugs: 10 Classic React Mistakes and How to Fix Them | Aram Manukyan | [Read More](https://medium.com/p/e569a7fffb19) |
 | Wed, 06 Aug 2025 17:29:42 GMT | Human Risk, Mathematical Solution: A Bayesian View on Insider Threat Detection | Patrick Lefler | [Read More](https://medium.com/p/2335cffdf690) |
 | Wed, 06 Aug 2025 17:22:59 GMT | ️Giriş Seviyesinden Kısaca JWT (JSON Web Token) Rehberi | Nur AK | [Read More](https://medium.com/p/a5b2948486af) |
@@ -26,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 16:50:15 GMT | The Day Networking Humbled the Kahoot Champions | Gitika Babbar | [Read More](https://medium.com/p/ae0f99d8bc12) |
 | Wed, 06 Aug 2025 16:49:34 GMT | ‘Day 2&3&4 Of 5000 Hour Hacker’ | Red-X | [Read More](https://medium.com/p/c95538328f51) |
 | Wed, 06 Aug 2025 16:49:03 GMT | IT Security. AI. Love it. | Mohammed Brückner | [Read More](https://medium.com/p/baf443c8255d) |
+| Wed, 06 Aug 2025 16:48:38 GMT | # Demystifying DNS Overrides: A Beginner’s Guide to How Hackers Access Internal Networks | Sameer Shah | [Read More](https://medium.com/p/02fb698228f8) |
 | Wed, 06 Aug 2025 16:45:15 GMT | gfhft yht fuy tuytg ut | Jaide Amayrani | [Read More](https://medium.com/p/b73770bf89ce) |
 | Wed, 06 Aug 2025 16:42:52 GMT | dfgdrfryhftyrfy | Jaide Amayrani | [Read More](https://medium.com/p/bf6750c2ed07) |
 | Wed, 06 Aug 2025 16:37:58 GMT | Cyber Awareness Challenge 2025: Is Your Home PC Truly Safe? | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/0408e01a5311) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 14:07:16 GMT | Effective Use of Environment Variables in Next.js | @rnab | [Read More](https://medium.com/p/f913e192de76) |
 | Wed, 06 Aug 2025 14:06:49 GMT | Cyber Security Ransomware: Holding Data Hostage | Cyber Security Research | [Read More](https://medium.com/p/eec256b7b565) |
 | Wed, 06 Aug 2025 14:05:33 GMT | Cyber Security Malware: Understanding the Threats | Cyber Security Research | [Read More](https://medium.com/p/5e3e1871cdf1) |
-| Wed, 06 Aug 2025 14:04:11 GMT | Cyber Security Phishing: Spotting the Bait | Cyber Security Research | [Read More](https://medium.com/p/dc7cec2908e3) |
-| Wed, 06 Aug 2025 14:04:06 GMT | Mastering Java for Real-World Applications | RimshaKashif | [Read More](https://medium.com/p/021395611426) |
-| Wed, 06 Aug 2025 14:02:17 GMT | Cyber Security Social Engineering: Deceptive Tactics Exposed | Cyber Security Research | [Read More](https://medium.com/p/2b4b8370dd21) |
-| Wed, 06 Aug 2025 14:01:55 GMT | Cyber Briefing: 2025.08.06 | CyberMaterial | [Read More](https://medium.com/p/0c74bb113148) |
-| Wed, 06 Aug 2025 14:00:47 GMT | Cyber Security Biometrics: Using Unique Identifiers | Cyber Security Research | [Read More](https://medium.com/p/17212a3c87a0) |
-| Wed, 06 Aug 2025 13:59:42 GMT | Flash USDT – Digital Illusions You Should Understand | Kisi | [Read More](https://medium.com/p/7fc84ef76bc1) |
-| Wed, 06 Aug 2025 13:59:13 GMT | Cyber Security Multi-Factor Authentication: Adding Layers of Security | Cyber Security Research | [Read More](https://medium.com/p/833042daad95) |
-| Wed, 06 Aug 2025 13:56:32 GMT | The ones who followed me | Jon | [Read More](https://medium.com/p/c014bbcba396) |
-| Wed, 06 Aug 2025 13:47:25 GMT | Agentic AI Security: New OWASP Report | noailabs | [Read More](https://medium.com/p/f70c203fb71e) |
-| Wed, 06 Aug 2025 13:46:15 GMT | We Speak CVE Podcast — “Mapping the Root Causes of CVEs” | CVE Program Blog | [Read More](https://medium.com/p/f69d76fd9eea) |
-| Wed, 06 Aug 2025 13:46:01 GMT | 》Notable Exploits in Web3 That Drosera Could Have Prevented.《 | CaspianXenon | [Read More](https://medium.com/p/f030245bd0bb) |
-| Wed, 06 Aug 2025 13:42:35 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Advice From a Fellow Learner | Abeera Mehtab | [Read More](https://medium.com/p/3570c5151eca) |
-| Wed, 06 Aug 2025 13:39:55 GMT | AI Security: Vulnerabilities and Defenses | Artificial Intelligence Details | [Read More](https://medium.com/p/96926ada46a2) |
-| Wed, 06 Aug 2025 13:36:43 GMT | Why Drosera Is a Needed Concept | CaspianXenon | [Read More](https://medium.com/p/93aae421d7b6) |
-| Wed, 06 Aug 2025 13:26:34 GMT | Kuruluşlar İçin Yapay Zeka’nın Eksik Dönemi #1: LLM Güvenliği | huseyingulsin | [Read More](https://medium.com/p/127fc0328bc9) |
-| Wed, 06 Aug 2025 13:24:21 GMT | Understanding Token-Based Authentication: Single vs. Dual Tokens | zzye | [Read More](https://medium.com/p/433718a8c43a) |
-| Wed, 06 Aug 2025 13:20:14 GMT | ️ From Enumeration to RCE: A Real-World Capture the Flag Experience | Samruth Sriram D | [Read More](https://medium.com/p/c573110bf091) |
-| Wed, 06 Aug 2025 13:18:27 GMT | Install Tools Cyberfox | Ginda Sundara | [Read More](https://medium.com/p/479f19eab224) |
-| Wed, 06 Aug 2025 13:17:15 GMT | WhatsApp’s Latest Anti-Scam Move: What You Need to Know | Dhruvdeep Singh | [Read More](https://medium.com/p/3289a17eef0e) |
