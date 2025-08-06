@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 21:30:10 GMT | Job search — Cybersecurity | Zen | [Read More](https://medium.com/p/4dcea7484d5b) |
+| Wed, 06 Aug 2025 21:26:21 GMT | Keyloggers: The Silent Threat Tracking Your Every Keystroke | Akshay Chauhan | [Read More](https://medium.com/p/3192baa24efc) |
+| Wed, 06 Aug 2025 21:25:25 GMT | Title: TryHackMe Bounty Hacker write-up | Kumari Amita Kishore | [Read More](https://medium.com/p/3438e3af6c36) |
+| Wed, 06 Aug 2025 21:21:31 GMT | Gerçek Bir Pentest Senaryosu: Flutter’da Trafik Dinleme ve Güvenlik Önlemlerini Atlatma | Süleyman Emre Erdem | [Read More](https://medium.com/p/132d29721010) |
+| Wed, 06 Aug 2025 21:11:30 GMT | Building Drivana.pro: A Multi-Tenant Document Intelligence Platform for the Automotive Industry | Daniel C Arruda | [Read More](https://medium.com/p/a744d6b32eef) |
 | Wed, 06 Aug 2025 20:43:09 GMT | ByBit, ODOS, and BBX Hacked: $1.5B | Olympix | [Read More](https://medium.com/p/f65cdf790bd2) |
 | Wed, 06 Aug 2025 20:42:42 GMT | TCM OSINT: A Journey into Open-Source Intelligence | rnnull | [Read More](https://medium.com/p/52a7985c462a) |
 | Wed, 06 Aug 2025 20:41:15 GMT | Zoth, FortuneWheel, and Sorra Finance Exploited for $347K via LTV Mismatch, Unprotected Swaps, and… | Olympix | [Read More](https://medium.com/p/5fd8ea76a914) |
@@ -108,8 +113,3 @@ Cybersecurity isn’t just about firewalls… | Murat Tarsuslu | [Read More](htt
 | Wed, 06 Aug 2025 16:00:30 GMT | In an increasingly digital world where cyber threats loom larger than ever, a new kind of hero has… | Asish S George | [Read More](https://medium.com/p/7a075b510308) |
 | Wed, 06 Aug 2025 16:00:26 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Introduction to Main Cybersecurity Domains | Abeera Mehtab | [Read More](https://medium.com/p/9ab0e85f5422) |
 | Wed, 06 Aug 2025 15:59:14 GMT | Be careful what you share with ChatGPT and other AI chatbots ⚠️ | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/6d080df5cdd2) |
-| Wed, 06 Aug 2025 15:58:52 GMT | Disaster Recovery in Cloud Computing: Everything You Should Know | Techridge Solutions | [Read More](https://medium.com/p/bab0be6e6b66) |
-| Wed, 06 Aug 2025 15:54:53 GMT | The Doctor Will See You Now. And So Will the Algorithm | PRASHANT KUMAR GIRI | [Read More](https://medium.com/p/b88d6ff9beb0) |
-| Wed, 06 Aug 2025 15:51:31 GMT | OpenVAS kompakt jetzt als Open Access erhält­lich | Holger Reibold | [Read More](https://medium.com/p/a3e1f65e8727) |
-| Wed, 06 Aug 2025 15:43:28 GMT | Quantum 102: Understanding Quantum Logic Gates Through a Beginner Project | Titiksha Agrawal | [Read More](https://medium.com/p/796ddbea0585) |
-| Wed, 06 Aug 2025 15:42:08 GMT | Understanding Browser Fingerprinting | Anirudh PV | [Read More](https://medium.com/p/c55b24c0e4fb) |
