@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 22:27:19 GMT | Fetch | SIGKILLers | [Read More](https://medium.com/p/e93e234ddb32) |
 | Wed, 06 Aug 2025 22:19:11 GMT | Everybody Needs Me — But I Need Me More | Alfred Adom | [Read More](https://medium.com/p/139002e1fb9c) |
+| Wed, 06 Aug 2025 22:17:00 GMT | Security Monitoring in Serverless Applications | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7a40363cbbf9) |
 | Wed, 06 Aug 2025 22:08:21 GMT | Host & Network Penetration Testing: Exploitation — CTF 1 | Mohamed amine Gabsi | [Read More](https://medium.com/p/f523fc759395) |
 | Wed, 06 Aug 2025 22:06:47 GMT | How To Setup GCP Workload Identity Federation | farhane karim | [Read More](https://medium.com/p/d995f339dc79) |
 | Wed, 06 Aug 2025 22:06:25 GMT | What You See Isn’t What You Paste: Unmasking Clipboard Poisoning | Shashikantpal | [Read More](https://medium.com/p/cce254b617ee) |
@@ -111,5 +113,3 @@ Cybersecurity isn’t just about firewalls… | Murat Tarsuslu | [Read More](htt
 | Wed, 06 Aug 2025 16:30:11 GMT | I Craved Love and Got Silence Instead | Aj | [Read More](https://medium.com/p/c0f27ad1948a) |
 | Wed, 06 Aug 2025 16:27:42 GMT | Day 4: IDOR — How I Hacked a Dating App & Accessed Every User’s Private Data | Aman Sharma | [Read More](https://medium.com/p/b59a485f455f) |
 | Wed, 06 Aug 2025 16:25:06 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Cybersecurity Job Roles Breakdown | Abeera Mehtab | [Read More](https://medium.com/p/b02ab38b5c11) |
-| Wed, 06 Aug 2025 16:17:44 GMT | Bug Bounty Hunting — The Journey Begins | Horizon | [Read More](https://medium.com/p/29521aa7c72d) |
-| Wed, 06 Aug 2025 16:17:33 GMT | SKR CTF — Forget Password | CyberFaez | [Read More](https://medium.com/p/3236d68bad2c) |
