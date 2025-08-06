@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 11:33:48 GMT | Outsmarting the Hook — How to Defend Against Phishing and Social Engineering | Archana Reddy Mucha | [Read More](https://medium.com/p/07c500f19a23) |
+| Wed, 06 Aug 2025 11:33:45 GMT | Haven1 Web3’ün Geleceğini Şekillendiren Güvenli ve Kullanıcı Odaklı DeFi Ekosistemi | OomerBtc | [Read More](https://medium.com/p/4d1457bee855) |
+| Wed, 06 Aug 2025 11:25:56 GMT | Secure Coding Part 8 — Command Injection Attack: Python eval() | Siddiquimohammad | [Read More](https://medium.com/p/99c82eda5256) |
+| Wed, 06 Aug 2025 11:25:04 GMT | Dangerous ads, cryptojacking scripts, and deceptive popups aren’t just annoying — they’re among… | Psylinks Announce | [Read More](https://medium.com/p/918a6e02c0fa) |
+| Wed, 06 Aug 2025 11:24:59 GMT | # SAFETELEGRAMİN – Volunteer Team Shutting Down Illegal Telegram Channels (Led by XeereemX, Stopped… | XeereemX | [Read More](https://medium.com/p/2eda4f77bbb9) |
+| Wed, 06 Aug 2025 11:21:59 GMT | What a Firewall Missed And Why It Matters | Brittney Ginther | [Read More](https://medium.com/p/0c8454055526) |
+| Wed, 06 Aug 2025 11:19:43 GMT | It’s all about hacking being “Ethical” | Byitcnenyka | [Read More](https://medium.com/p/11e5081ac952) |
 | Wed, 06 Aug 2025 11:14:04 GMT | Nasdaq Index Tech Sector Update: Key Developments Across Software and Semiconductor Segments | Jacksmithjs | [Read More](https://medium.com/p/b30e963d9ee0) |
+| Wed, 06 Aug 2025 11:12:05 GMT | DockerLabs Writeup — Candy (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e10fc64bd69f) |
 | Wed, 06 Aug 2025 11:08:58 GMT | Nikto Tool with Kali Linux: The Web Hacker’s Secret Weapon | Shahzaib | [Read More](https://medium.com/p/965702a1d25e) |
 | Wed, 06 Aug 2025 11:06:40 GMT | The Future of Cybersecurity Insurance: New Requirements & Best Practices | Sennovate | [Read More](https://medium.com/p/6464f1551950) |
 | Wed, 06 Aug 2025 10:59:14 GMT | Unlock the Power of RHEL 10: Join Our Free Live Webinar with RHCA Shiv Hari | Anu.R | [Read More](https://medium.com/p/f906b4762367) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 07:42:03 GMT | Home Lab Chronicles: Part 06 — Setup of TheHive, MISP and Cortex | Suprim Devkota | [Read More](https://medium.com/p/97bc6bb3606e) |
 | Wed, 06 Aug 2025 07:39:02 GMT | Protokollere Fısıldamak-I: Active Directory Güvenliği: Bölüm-3 | Salih Doğan BÜLBÜL | [Read More](https://medium.com/p/44bdac25103a) |
 | Wed, 06 Aug 2025 07:34:33 GMT | Research Summary — Part One | YOUTH FOR CLIMATE | [Read More](https://medium.com/p/e3b645b1b4fe) |
-| Wed, 06 Aug 2025 07:34:10 GMT | How IP Intelligence Is Quietly Fighting Online Fraud | Fraudo.io | [Read More](https://medium.com/p/0ac563d24408) |
-| Wed, 06 Aug 2025 07:32:02 GMT | Complete AWS Security Course for IT and Cybersecurity Jobs | cyber security Updates | [Read More](https://medium.com/p/534cf8c64c4f) |
-| Wed, 06 Aug 2025 07:31:41 GMT | Let’sDefend Write-up: SOC166 — JavaScript Code Detected in Requested URL | Dipanshu Chhanikar | [Read More](https://medium.com/p/77fd1a3c2845) |
-| Wed, 06 Aug 2025 07:28:49 GMT | Top 10 Highest Paying Cyber Security Jobs | Manisha Chaudhary | [Read More](https://medium.com/p/25ee714b8ff3) |
-| Wed, 06 Aug 2025 07:28:31 GMT | Three Dots to Root: How I Found a Path Traversal in Microsoft’s Agentic Web — NLWeb | Aonan Guan | [Read More](https://medium.com/p/4e8d8f483327) |
-| Wed, 06 Aug 2025 07:23:57 GMT | ✅ General Steps to Claim a Fogo Airdrop (If Officially Announced): | Bitcoinpepe | [Read More](https://medium.com/p/de7119c70625) |
-| Wed, 06 Aug 2025 07:23:16 GMT | how you can claim $MBG token rewards in 2025 based on the latest official MultiBank Group programs: | Bitcoinpepe | [Read More](https://medium.com/p/0aacac8e6471) |
-| Wed, 06 Aug 2025 07:22:26 GMT | Looking for active domains to tackle bug bounties and pen-testing! | Advaniar | [Read More](https://medium.com/p/25bf65638b0e) |
