@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 17:38:25 GMT | Hooked on Bugs: 10 Classic React Mistakes and How to Fix Them | Aram Manukyan | [Read More](https://medium.com/p/e569a7fffb19) |
+| Wed, 06 Aug 2025 17:29:42 GMT | Human Risk, Mathematical Solution: A Bayesian View on Insider Threat Detection | Patrick Lefler | [Read More](https://medium.com/p/2335cffdf690) |
+| Wed, 06 Aug 2025 17:22:59 GMT | ️Giriş Seviyesinden Kısaca JWT (JSON Web Token) Rehberi | Nur AK | [Read More](https://medium.com/p/a5b2948486af) |
 | Wed, 06 Aug 2025 17:20:13 GMT | 10 Seconds That Can End Your 20-Year Career in Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/2150e2ad7ae5) |
 | Wed, 06 Aug 2025 17:10:31 GMT | Ghosting the System: Staying Anonymous Under Mandatory Digital ID | T. J. Factura | [Read More](https://medium.com/p/cb0a7f589f17) |
 | Wed, 06 Aug 2025 17:02:43 GMT | Overflow Ops: The Complete Hands-On Guide ️ to Integer Exploits in Ethereum ⚙️ | vishhxyz | [Read More](https://medium.com/p/0fe262d5c2a4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 13:20:14 GMT | ️ From Enumeration to RCE: A Real-World Capture the Flag Experience | Samruth Sriram D | [Read More](https://medium.com/p/c573110bf091) |
 | Wed, 06 Aug 2025 13:18:27 GMT | Install Tools Cyberfox | Ginda Sundara | [Read More](https://medium.com/p/479f19eab224) |
 | Wed, 06 Aug 2025 13:17:15 GMT | WhatsApp’s Latest Anti-Scam Move: What You Need to Know | Dhruvdeep Singh | [Read More](https://medium.com/p/3289a17eef0e) |
-| Wed, 06 Aug 2025 13:10:35 GMT | Key Features of Law №2024/017 (On Personal Data Protection in Cameroon) | Pollicy | [Read More](https://medium.com/p/5ee06f79dd1a) |
-| Wed, 06 Aug 2025 13:05:35 GMT | In Our Bubble | Isha | [Read More](https://medium.com/p/c04de994626e) |
-| Wed, 06 Aug 2025 13:02:09 GMT | Cybersecurity Questions I Asked Daycares When Deciding on Childcare Options | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/deb2b64d60f7) |
