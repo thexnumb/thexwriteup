@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 22:19:11 GMT | Everybody Needs Me — But I Need Me More | Alfred Adom | [Read More](https://medium.com/p/139002e1fb9c) |
+| Wed, 06 Aug 2025 22:08:21 GMT | Host & Network Penetration Testing: Exploitation — CTF 1 | Mohamed amine Gabsi | [Read More](https://medium.com/p/f523fc759395) |
+| Wed, 06 Aug 2025 22:06:47 GMT | How To Setup GCP Workload Identity Federation | farhane karim | [Read More](https://medium.com/p/d995f339dc79) |
+| Wed, 06 Aug 2025 22:06:25 GMT | What You See Isn’t What You Paste: Unmasking Clipboard Poisoning | Shashikantpal | [Read More](https://medium.com/p/cce254b617ee) |
+| Wed, 06 Aug 2025 22:01:43 GMT | Root Me — ELF x86 — Stack buffer overflow — basic 4 | Devilman24 | [Read More](https://medium.com/p/4b2a27c2ad84) |
+| Wed, 06 Aug 2025 21:51:00 GMT | The Silent Killers in Your SaaS Stack | Cyber-AppSec | [Read More](https://medium.com/p/636cc40aa660) |
+| Wed, 06 Aug 2025 21:47:53 GMT | How to Tell If an Email Is Fake or Dangerous | Rahul Bhichher | [Read More](https://medium.com/p/4221c0d3539d) |
+| Wed, 06 Aug 2025 21:45:08 GMT | CYBER SECURITY AND HYBRID WARFARE: A THREAT TO NATIONAL SECURITY As time passes, new inventions… | Bakhtawar Majeed | [Read More](https://medium.com/p/1e8e0062997a) |
+| Wed, 06 Aug 2025 21:40:00 GMT | How to Write an Amazing Tech Blog Post (That Actually Gets Read)** | Paul Ebuka | [Read More](https://medium.com/p/c9ec1eb0579e) |
 | Wed, 06 Aug 2025 21:30:10 GMT | Job search — Cybersecurity | Zen | [Read More](https://medium.com/p/4dcea7484d5b) |
 | Wed, 06 Aug 2025 21:26:21 GMT | Keyloggers: The Silent Threat Tracking Your Every Keystroke | Akshay Chauhan | [Read More](https://medium.com/p/3192baa24efc) |
 | Wed, 06 Aug 2025 21:25:25 GMT | Title: TryHackMe Bounty Hacker write-up | Kumari Amita Kishore | [Read More](https://medium.com/p/3438e3af6c36) |
@@ -104,12 +113,3 @@ Cybersecurity isn’t just about firewalls… | Murat Tarsuslu | [Read More](htt
 | Wed, 06 Aug 2025 16:25:06 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Cybersecurity Job Roles Breakdown | Abeera Mehtab | [Read More](https://medium.com/p/b02ab38b5c11) |
 | Wed, 06 Aug 2025 16:17:44 GMT | Bug Bounty Hunting — The Journey Begins | Horizon | [Read More](https://medium.com/p/29521aa7c72d) |
 | Wed, 06 Aug 2025 16:17:33 GMT | SKR CTF — Forget Password | CyberFaez | [Read More](https://medium.com/p/3236d68bad2c) |
-| Wed, 06 Aug 2025 16:16:54 GMT | The One Line of Code That Crashed My Startup | Scofield O. Idehen | [Read More](https://medium.com/p/819ed3dc6d1c) |
-| Wed, 06 Aug 2025 16:12:11 GMT | Getting the Trifecta (SecPlus What’s Next? | Josh Colpean | [Read More](https://medium.com/p/1cc7defbb55c) |
-| Wed, 06 Aug 2025 16:11:45 GMT | Designing Cloud-Native Security Architectures | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e597d05fe369) |
-| Wed, 06 Aug 2025 16:09:25 GMT | AI Powered Apps Deployed without any Authentication | AbhirupKonwar | [Read More](https://medium.com/p/b5d708836250) |
-| Wed, 06 Aug 2025 16:08:52 GMT | “Day 3: XSS Deep Dive — From Alert(1) to Account Takeovers” | Aman Sharma | [Read More](https://medium.com/p/cf422ec57def) |
-| Wed, 06 Aug 2025 16:06:32 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/3c53461b5690) |
-| Wed, 06 Aug 2025 16:00:30 GMT | In an increasingly digital world where cyber threats loom larger than ever, a new kind of hero has… | Asish S George | [Read More](https://medium.com/p/7a075b510308) |
-| Wed, 06 Aug 2025 16:00:26 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Introduction to Main Cybersecurity Domains | Abeera Mehtab | [Read More](https://medium.com/p/9ab0e85f5422) |
-| Wed, 06 Aug 2025 15:59:14 GMT | Be careful what you share with ChatGPT and other AI chatbots ⚠️ | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/6d080df5cdd2) |
