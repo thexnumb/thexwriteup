@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 09:43:40 GMT | Part 27: Miscellaneous & Advanced Flutter Exploits — From Stack Trace Leaks to Input Hijacking | Sumit Kumar | [Read More](https://medium.com/p/6ed1f435ec8a) |
+| Wed, 06 Aug 2025 09:43:25 GMT | Part 26: Asset Tampering in Flutter — Runtime Modifications and Dynamic Asset Swaps | Sumit Kumar | [Read More](https://medium.com/p/bab44d12d59c) |
+| Wed, 06 Aug 2025 09:43:08 GMT | ️ Part 25: Asset Repack Attacks — How Attackers Modify Your Flutter App’s Assets to Inject… | Sumit Kumar | [Read More](https://medium.com/p/526ceb8f6b91) |
+| Wed, 06 Aug 2025 09:42:55 GMT | ️ Part 24: Flutter Code Obfuscation Bypass — Why Obfuscation Isn’t Enough to Protect Your App… | Sumit Kumar | [Read More](https://medium.com/p/413179f4e026) |
+| Wed, 06 Aug 2025 09:42:37 GMT | Part 23: Reverse Engineering libapp.so — Extracting Hidden Secrets From Compiled Flutter Code | Sumit Kumar | [Read More](https://medium.com/p/6b98c6701abf) |
+| Wed, 06 Aug 2025 09:42:14 GMT | Part 22: Flutter App Integrity Bypass via Repack & Side-Loading — The Hidden Danger of Modified… | Sumit Kumar | [Read More](https://medium.com/p/cef6bf2eeae0) |
+| Wed, 06 Aug 2025 09:41:56 GMT | The Consultant Crack-Up: How AI and Policy Shifts Are Sinking Big Consulting | Namir Sagheenanajar | [Read More](https://medium.com/p/152a76893265) |
+| Wed, 06 Aug 2025 09:41:53 GMT | Part 21: Reverse Engineering Flutter Apps Using JADX & Ghidra — How Hackers Extract Secrets… | Sumit Kumar | [Read More](https://medium.com/p/b1bf754f1fe7) |
+| Wed, 06 Aug 2025 09:41:42 GMT | “Juicy 403” — When Forbidden Means You’re Close to Gold | Narendar Battula (nArEn) | [Read More](https://medium.com/p/47a2aa5d5696) |
+| Wed, 06 Aug 2025 09:41:36 GMT | Part 20: Runtime Memory Inspection (RAM Sniffing) — How Hackers Extract Secrets from Your… | Sumit Kumar | [Read More](https://medium.com/p/7fbd01da4e98) |
+| Wed, 06 Aug 2025 09:38:43 GMT | Top 7 Infor LN Consulting Companies in the USA (2025 Edition) | Evelyn Hartley | [Read More](https://medium.com/p/821750570942) |
+| Wed, 06 Aug 2025 09:37:41 GMT | Seven Common Web App Vulnerabilities | Redfox Security | [Read More](https://medium.com/p/e6718a722955) |
+| Wed, 06 Aug 2025 09:35:36 GMT | HCIS Certification in Saudi Arabia: Your Guide to Compliance & Safe Perimeter Security | Hitechfence | [Read More](https://medium.com/p/c542339bf7a0) |
+| Wed, 06 Aug 2025 09:35:08 GMT | Part 19: Runtime Memory Hooking — Hijacking Flutter's Internal State While the App Runs | Sumit Kumar | [Read More](https://medium.com/p/988cf4d02079) |
+| Wed, 06 Aug 2025 09:34:04 GMT | ️ Part 18: Flutter Asset Injection — How Attackers Tamper with Static Resources in Your App | Sumit Kumar | [Read More](https://medium.com/p/7a54227bb2dd) |
+| Wed, 06 Aug 2025 09:33:05 GMT | Part 17: Runtime Memory Token Extraction in Flutter — How Attackers Sniff Sensitive Data from… | Sumit Kumar | [Read More](https://medium.com/p/f6a6bcd228d3) |
+| Wed, 06 Aug 2025 09:31:40 GMT | When Identity Data is Leaked: Should we be able to change our NIK like we change our password? | Hildan Kusto Utomo | [Read More](https://medium.com/p/935d6d24c5a7) |
+| Wed, 06 Aug 2025 09:31:29 GMT | Part 16: Dynamic Code Execution in Flutter — How Attackers Inject and Run Arbitrary Dart at… | Sumit Kumar | [Read More](https://medium.com/p/5aae3ab11083) |
+| Wed, 06 Aug 2025 09:30:10 GMT | Part 15: Runtime Code Injection in Flutter Plugins using Frida — Hijacking Native Behavior at… | Sumit Kumar | [Read More](https://medium.com/p/db51db674e2b) |
+| Wed, 06 Aug 2025 09:21:33 GMT | The Human Side of Cybersecurity | CYBERUP INSTITUTE | [Read More](https://medium.com/p/dccf6f2b541d) |
+| Wed, 06 Aug 2025 09:19:48 GMT | SSI IT | SSI IT Solutions | [Read More](https://medium.com/p/c093c8419e6f) |
+| Wed, 06 Aug 2025 09:16:25 GMT | Understanding EN 18031: The Standard, RED Directive, and Timeline | Simon Stampfl | [Read More](https://medium.com/p/02dbd5816145) |
+| Wed, 06 Aug 2025 09:15:40 GMT | Ethical hacker testing security systems | Sanajahfer | [Read More](https://medium.com/p/ca9e97a6cb2f) |
 | Wed, 06 Aug 2025 09:14:38 GMT | Is your database secure? Probably not. Find out why before it’s too late! | Rafael Santos | [Read More](https://medium.com/p/d6a478888154) |
 | Wed, 06 Aug 2025 09:12:57 GMT | I built my own web Pentesting labs in a few minutes. this is how… | Oussama BEDLOU | [Read More](https://medium.com/p/57a4f034e91a) |
 | Wed, 06 Aug 2025 09:12:54 GMT | As we get deep into this engagement, I’ll demonstrate my penetration testing methodology and my… | Cyb0rgBytes | [Read More](https://medium.com/p/b616fbd0d00f) |
@@ -89,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 05:48:33 GMT | Improve Your Business by partnering by using the most effective Security Solutions Company in UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/fa5236086cc0) |
 | Wed, 06 Aug 2025 05:47:06 GMT | Day3 Recon: Subdomain Enumeration for Beginners: A Hands-On Guide Using Sublist3r, Amass & Gobuster | Ayush Kumar | [Read More](https://medium.com/p/20ce5cacab81) |
 | Wed, 06 Aug 2025 05:45:45 GMT | TryHackMe — Linux Privilege Escalation | Alfien Dhika | [Read More](https://medium.com/p/5f848a82dc5d) |
-| Wed, 06 Aug 2025 05:36:59 GMT | TRAINING BLADE SERVER | Transindo Training | [Read More](https://medium.com/p/1eb2ca12dbdd) |
-| Wed, 06 Aug 2025 05:32:32 GMT | Changing the SSID name on a Wi-Fi repeater leads to a CVE!? | esistdini | [Read More](https://medium.com/p/6a0d4c22b84e) |
-| Wed, 06 Aug 2025 05:30:23 GMT | Selection in Gurugram Cyber Police as Cyber Security Intern — 2024 | Mohittkumarr | [Read More](https://medium.com/p/320a01611e2d) |
-| Wed, 06 Aug 2025 05:29:36 GMT | “404 + JS + GitHub = A Triple Threat Attack Surface” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/82775003f078) |
-| Wed, 06 Aug 2025 05:23:42 GMT | Supervised, Unsupervised, and Reinforcement Learning Models | Jeeva Selvaraju | [Read More](https://medium.com/p/46958a928c1b) |
-| Wed, 06 Aug 2025 05:19:29 GMT | Art and IT: Holding on to humanity in a world of machines | Buddhika Jayawardena | [Read More](https://medium.com/p/3a291f5fcb30) |
-| Wed, 06 Aug 2025 05:09:48 GMT | Library vs Mobile: Changing Information-Seeking behaviors. | GRANTHALAYA108 | [Read More](https://medium.com/p/6efa8f34a56b) |
-| Wed, 06 Aug 2025 05:09:13 GMT | How U.S. Military Veterans Can Launch a Cybersecurity Career with EC‑Council University | Shreyashettyctr | [Read More](https://medium.com/p/bce6f651010d) |
-| Wed, 06 Aug 2025 05:07:40 GMT | 404 Isn’t Always Safe: How “Helpful” Error Pages Leak Real Secrets | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b6996f0283a3) |
-| Wed, 06 Aug 2025 05:05:35 GMT | How I Learned SQLi and XSS the Hard Way | Karan | [Read More](https://medium.com/p/74c95eb99253) |
-| Wed, 06 Aug 2025 05:02:16 GMT | Day 23- Installation and Configuration in Cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/29c2b164c61c) |
-| Wed, 06 Aug 2025 05:01:47 GMT | WANNACRY? I CRIED TOO … THE MAN WHO SAVED THE INTERNET, THEN GOT ARRESTED | Kotedjo Manahoih | [Read More](https://medium.com/p/a6e01067f556) |
-| Wed, 06 Aug 2025 04:56:43 GMT | Launch Your Cybersecurity Career with GI Bill® Benefits at EC-Council University | Shreyashettyctr | [Read More](https://medium.com/p/eacdaf00001d) |
-| Wed, 06 Aug 2025 04:53:11 GMT | Why Teach Engineering If AI Is Taking Over? | Dr. Alok Pratap | [Read More](https://medium.com/p/7b805450e56f) |
-| Wed, 06 Aug 2025 04:49:11 GMT | Google AI Mode Boosts Smart Tracking in 2025 | Priyaa Patel | [Read More](https://medium.com/p/d6164bcdd9d5) |
-| Wed, 06 Aug 2025 04:44:54 GMT | A Beginner’s Guide to Algorithms and Machine Learning: Concepts and Types | Jeeva Selvaraju | [Read More](https://medium.com/p/90c0550cb325) |
-| Wed, 06 Aug 2025 04:36:01 GMT | Security Vulnerabilities in PHP, Apache, and NPM — Detection and Prevention Guide | Mubbasher Ahmed | [Read More](https://medium.com/p/d3497205a5cf) |
-| Wed, 06 Aug 2025 04:30:00 GMT | Master Cyber Security with a Course in Kochi | bushaira bk | [Read More](https://medium.com/p/2e8b8f9bb865) |
-| Wed, 06 Aug 2025 04:25:36 GMT | Crypto Under Siege: Security Breaches and Fraud Shake the Market
-A Wake-Up Call for the Crypto… | Dalvir | [Read More](https://medium.com/p/f1ea88eca6d8) |
-| Wed, 06 Aug 2025 04:02:29 GMT | My Work at the Intersection of Cybersecurity, Culture, and Conscious Tech | Vonte Sewell | [Read More](https://medium.com/p/7608b47ec9ce) |
-| Wed, 06 Aug 2025 04:00:59 GMT | Menyambut Cinta dengan Tangan Terbuka | Dari Sudut Jakarta | [Read More](https://medium.com/p/6c56064413f4) |
-| Wed, 06 Aug 2025 03:54:06 GMT | Are they really looking down on me? | Journals | [Read More](https://medium.com/p/4f47ffe4d5c8) |
-| Wed, 06 Aug 2025 03:51:42 GMT | The Power of Crypto: Using Cryptography Safely in Android | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/cdaba1053f5f) |
