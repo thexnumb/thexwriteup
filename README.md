@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 23:11:42 GMT | Free Cybersecurity Roadmap for Beginners (2025) | Ghulam Mohiuddin | [Read More](https://medium.com/p/d9242d45f97c) |
+| Wed, 06 Aug 2025 23:10:15 GMT | I’m Not a Marketer — But This AI-Powered Growth System Helped Me Stop Winging It | AIAlchemist_Ab1r | [Read More](https://medium.com/p/bdc30866f916) |
+| Wed, 06 Aug 2025 23:07:10 GMT | CTF Day(47) | Ahmed Narmer | [Read More](https://medium.com/p/efe493fc5e12) |
+| Wed, 06 Aug 2025 23:03:05 GMT | What is SPIFEE and What should you know | Malhar | [Read More](https://medium.com/p/5ad98db8a38b) |
+| Wed, 06 Aug 2025 23:01:03 GMT | The Power of Saying “I Don’t Know” | Zee Wen | [Read More](https://medium.com/p/3446fcb1c260) |
 | Wed, 06 Aug 2025 22:27:19 GMT | Fetch | SIGKILLers | [Read More](https://medium.com/p/e93e234ddb32) |
 | Wed, 06 Aug 2025 22:19:11 GMT | Everybody Needs Me — But I Need Me More | Alfred Adom | [Read More](https://medium.com/p/139002e1fb9c) |
 | Wed, 06 Aug 2025 22:17:00 GMT | Security Monitoring in Serverless Applications | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7a40363cbbf9) |
@@ -108,8 +113,3 @@ Cybersecurity isn’t just about firewalls… | Murat Tarsuslu | [Read More](htt
 | Wed, 06 Aug 2025 16:45:15 GMT | gfhft yht fuy tuytg ut | Jaide Amayrani | [Read More](https://medium.com/p/b73770bf89ce) |
 | Wed, 06 Aug 2025 16:42:52 GMT | dfgdrfryhftyrfy | Jaide Amayrani | [Read More](https://medium.com/p/bf6750c2ed07) |
 | Wed, 06 Aug 2025 16:37:58 GMT | Cyber Awareness Challenge 2025: Is Your Home PC Truly Safe? | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/0408e01a5311) |
-| Wed, 06 Aug 2025 16:37:41 GMT | DanaBot Lab(CyberDefenders) | Andry Maulana | [Read More](https://medium.com/p/f4bc28937426) |
-| Wed, 06 Aug 2025 16:36:51 GMT | Why More Accounting Teams Are Switching to CrowdStrike for Cybersecurity | OneUp Networks | [Read More](https://medium.com/p/597cdcfaabc3) |
-| Wed, 06 Aug 2025 16:30:11 GMT | I Craved Love and Got Silence Instead | Aj | [Read More](https://medium.com/p/c0f27ad1948a) |
-| Wed, 06 Aug 2025 16:27:42 GMT | Day 4: IDOR — How I Hacked a Dating App & Accessed Every User’s Private Data | Aman Sharma | [Read More](https://medium.com/p/b59a485f455f) |
-| Wed, 06 Aug 2025 16:25:06 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Cybersecurity Job Roles Breakdown | Abeera Mehtab | [Read More](https://medium.com/p/b02ab38b5c11) |
