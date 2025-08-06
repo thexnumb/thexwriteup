@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 08:23:14 GMT | Drosera 101: The Trap-Based Security Layer DeFi Didn’t Know It Needed | GHALI 0NE | [Read More](https://medium.com/p/f3ccd46b3619) |
+| Wed, 06 Aug 2025 08:13:49 GMT | How SafeLine WAF Defends Against Bots with Smart Rate Limiting | AerieWhole123 | [Read More](https://medium.com/p/adac397fdab2) |
+| Wed, 06 Aug 2025 08:13:17 GMT | SQL injection Lab 1 & 2from Port Swigger Academy lab | Chandra Kamal Singh | [Read More](https://medium.com/p/e6b82ed5772f) |
+| Wed, 06 Aug 2025 08:13:04 GMT | our love feels like poetry, like a neo-soul playlist. | Lynda | [Read More](https://medium.com/p/ac65347fa7a7) |
+| Wed, 06 Aug 2025 08:12:36 GMT | Carbon Black (P6:Settings): A Practical Guide/An Practical Training | Dean | [Read More](https://medium.com/p/cf7bc635a734) |
+| Wed, 06 Aug 2025 08:02:10 GMT | A+A 2025 Düsseldorf: Where the Future of Workplace Safety Takes Center Stage | Connect Displays | [Read More](https://medium.com/p/8cb061e2c993) |
+| Wed, 06 Aug 2025 08:01:46 GMT | Unraveling SSL/TLS in Java: A Developer’s Guide to Keystores, Truststores, and Sanity | Nitesh Thakur | [Read More](https://medium.com/p/d404f3023abd) |
+| Wed, 06 Aug 2025 08:00:33 GMT | Hacking Kya Hai? Pura Guide Ethical Hacking Ke Liye (2025) | HACKERS NO ONE ☠️☠️ | [Read More](https://medium.com/p/300a5d1568cf) |
+| Wed, 06 Aug 2025 07:51:26 GMT | The Day Software Development Died — And What’s Rising From Its Ashes | Jonas Kjellin | [Read More](https://medium.com/p/3a909e5d76c3) |
+| Wed, 06 Aug 2025 07:50:15 GMT | How to recover a 7z file when the password is forgotten or lost? | Carlielevins | [Read More](https://medium.com/p/7a5fe9c750fc) |
+| Wed, 06 Aug 2025 07:45:11 GMT | Cleared for Success: High-Income Careers With and Without Security Clearance | Bernard Benjamin | [Read More](https://medium.com/p/29d4b94aaacd) |
+| Wed, 06 Aug 2025 07:44:20 GMT | Sunflowers and Stars | Isha | [Read More](https://medium.com/p/d360ffb1a3ad) |
 | Wed, 06 Aug 2025 07:42:03 GMT | Home Lab Chronicles: Part 06 — Setup of TheHive, MISP and Cortex | Suprim Devkota | [Read More](https://medium.com/p/97bc6bb3606e) |
 | Wed, 06 Aug 2025 07:39:02 GMT | Protokollere Fısıldamak-I: Active Directory Güvenliği: Bölüm-3 | Salih Doğan BÜLBÜL | [Read More](https://medium.com/p/44bdac25103a) |
 | Wed, 06 Aug 2025 07:34:33 GMT | Research Summary — Part One | YOUTH FOR CLIMATE | [Read More](https://medium.com/p/e3b645b1b4fe) |
@@ -101,15 +113,3 @@ A Wake-Up Call for the Crypto… | Dalvir | [Read More](https://medium.com/p/f1e
 | Wed, 06 Aug 2025 02:17:00 GMT | News Update: Flight Disruption at Perth Airport Highlights Growing Concerns Over Aviation Security | Simon Kalipciyan | [Read More](https://medium.com/p/f1c1f7bbfce9) |
 | Wed, 06 Aug 2025 02:16:19 GMT | ChatGPT leaking your chats !!! | Darshan Naresh Naik | [Read More](https://medium.com/p/f77469f7e8a1) |
 | Wed, 06 Aug 2025 02:15:45 GMT | They Hacked Microsoft 365 Using FAKE Apps | Cyber-AppSec | [Read More](https://medium.com/p/b25c9bd74592) |
-| Wed, 06 Aug 2025 02:11:45 GMT | OAuth 2.1 Decoded: Understanding Every Complex Detail | Kunal Sinha | [Read More](https://medium.com/p/d55c7575071c) |
-| Wed, 06 Aug 2025 02:02:57 GMT | The AI-Generated Malware That Breached CI/CD Pipelines | Cyber-AppSec | [Read More](https://medium.com/p/a81958ebd377) |
-| Wed, 06 Aug 2025 02:02:40 GMT | AI Agent Security: Safeguarding Code Execution | Aryandokania | [Read More](https://medium.com/p/f058f8bf7dfc) |
-| Wed, 06 Aug 2025 02:01:20 GMT | Python: Cybersecurity’s Secret Weapon | Adityasharma008 | [Read More](https://medium.com/p/f0a57df28a8e) |
-| Wed, 06 Aug 2025 01:56:42 GMT | Brain Drain in Pakistan: Why Our Best Minds Leave — And How We Can Bring Them Back | Inayat Hussain | [Read More](https://medium.com/p/9cccfb0b9fb3) |
-| Wed, 06 Aug 2025 01:46:55 GMT | Dịch vụ bảo vệ ngân hàng uy tín — Đảm bảo an ninh tuyệt đối | DaiAnGroup | [Read More](https://medium.com/p/404caee6b58c) |
-| Wed, 06 Aug 2025 01:33:01 GMT | I Wrote One Middleware That Blocked 90% of Spam | Nikulsinh Rajput | [Read More](https://medium.com/p/b9929d171797) |
-| Wed, 06 Aug 2025 01:24:41 GMT | Has the Solana ecosystem lost its hype, or is it simply no longer in vogue? | ElectusDAO | [Read More](https://medium.com/p/94913294df73) |
-| Wed, 06 Aug 2025 01:21:24 GMT | Secure Code Signing at Scale with GaraSign | Sudhir Mohanty (Devops & Test Automation Engineer) | [Read More](https://medium.com/p/71fc16f55e39) |
-| Wed, 06 Aug 2025 01:18:07 GMT | Passive Reconnaissance: TryHackMe | ShadowPacketRHR | [Read More](https://medium.com/p/4143d8489f9b) |
-| Wed, 06 Aug 2025 01:17:17 GMT | The Cyber Kill Chain Behind the PXA Stealer Attacks | Cyber-AppSec | [Read More](https://medium.com/p/d53fdb8a25d5) |
-| Wed, 06 Aug 2025 01:13:33 GMT | Best SEO Expert in Davie, Florida | Muhammad Roohullah | [Read More](https://medium.com/p/4fb61eb4bfeb) |
