@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 19:10:28 GMT | Learn Real WiFi Hacking Concepts with Termux — Not Fake Tricks | Kambetastephano | [Read More](https://medium.com/p/35693a356bf3) |
+| Wed, 06 Aug 2025 19:06:23 GMT | Is Your Email on the Dark Web? Here’s How to Find Out | SafeAeon Inc. | [Read More](https://medium.com/p/2c84deb43e93) |
+| Wed, 06 Aug 2025 19:04:35 GMT | Runtime BOM (RBOM): The Optimized Upgrade to SBOM, Powered by RapidFort | Jacob Mitani | [Read More](https://medium.com/p/939a05fe1d00) |
+| Wed, 06 Aug 2025 19:01:07 GMT | The Machine Uprising Has Been Cancelled. Anton Vibe Art | En Doa | [Read More](https://medium.com/p/0a1d90829920) |
+| Wed, 06 Aug 2025 18:53:26 GMT | VulnOS “Legacy” Lab Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/406813eb338a) |
+| Wed, 06 Aug 2025 18:46:43 GMT | Mastering Pivoting in Threat Hunting — Following the Trail | Zrhmz | [Read More](https://medium.com/p/05e1e85f325a) |
+| Wed, 06 Aug 2025 18:42:17 GMT | TryHackMe Incident Handling with Splunk — Write-Up | Paul D. | [Read More](https://medium.com/p/4821b89d1eed) |
+| Wed, 06 Aug 2025 18:41:42 GMT | Why Most Cybersecurity Certifications Fail (And How to Make Them Actually Useful) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/2ba9147b3a87) |
+| Wed, 06 Aug 2025 18:41:27 GMT | Massive Dell Firmware Flaw Could Enable Persistent Takeovers | Travis Ray Caverhill | [Read More](https://medium.com/p/6d9c9d576d6e) |
+| Wed, 06 Aug 2025 18:40:32 GMT | Claude Cannot Secure your API’s | API Expert | [Read More](https://medium.com/p/76a8ba4ce3ab) |
+| Wed, 06 Aug 2025 18:40:16 GMT | SQL Injection Explained: The Silent Hacker Trap Hiding in Your Website | SafeAeon Inc. | [Read More](https://medium.com/p/b5904f289e5e) |
+| Wed, 06 Aug 2025 18:34:22 GMT | Remote Code Execution via Polyglot Web Shell Upload — PortSwigger Lab | Adhamkhairy | [Read More](https://medium.com/p/39e885fb48ff) |
+| Wed, 06 Aug 2025 18:34:19 GMT | Letting Go of My Fear of Being Perceived (hello Scorpio rising, Leo north node ) | Carol | [Read More](https://medium.com/p/73176434c5fe) |
+| Wed, 06 Aug 2025 18:33:51 GMT | Beyond Tic-Tac-Toe: Merging Strategic AI Benchmarks for the Next Generation of Agent Intelligence | Berend Watchus | [Read More](https://medium.com/p/7fa508c83da3) |
+| Wed, 06 Aug 2025 18:32:54 GMT | Why Cybersecurity Consulting Firms Are Vital for Modern Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/066e1c1e7b55) |
+| Wed, 06 Aug 2025 18:28:52 GMT | Fortinet Firewall & VmWare Test Ortamı Kurulumu - Ağ Güvenliğine Giriş - TalentCoders Siber… | Hakan ÇEVİK | [Read More](https://medium.com/p/2ff7207ec630) |
+| Wed, 06 Aug 2025 18:26:46 GMT | CTF — Writeup: De Reconnaissance a Root | Jonathan M. | [Read More](https://medium.com/p/1f11df87f94a) |
 | Wed, 06 Aug 2025 18:21:03 GMT | The Power of Log Correlation in Threat Hunting | Zrhmz | [Read More](https://medium.com/p/88b926b522c7) |
 | Wed, 06 Aug 2025 18:16:38 GMT | BLUE- TRYHACKME | Pawan Badoni | [Read More](https://medium.com/p/77dccfc89023) |
 | Wed, 06 Aug 2025 18:15:14 GMT | AI will not cause economic growth of 20% to 30% per year | Gaetan Lion | [Read More](https://medium.com/p/8decea769888) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 15:02:29 GMT | Your WhatsApp Chats Aren’t as Private as You Think! | Your's Nightmare | [Read More](https://medium.com/p/2245096576bd) |
 | Wed, 06 Aug 2025 15:02:03 GMT | Earn Big with BUG $BUG Yield Rewards | hasan13war | [Read More](https://medium.com/p/1f6c1503c5e5) |
 | Wed, 06 Aug 2025 15:01:30 GMT | How I Found 50+ Open Redirects Using Automation and Simple Bash Scripts | dr34m14 | [Read More](https://medium.com/p/91e3b92f5c69) |
-| Wed, 06 Aug 2025 14:56:03 GMT | I Got Hacked by My Own Smart Fridge: A Cautionary Tale | vydhi | [Read More](https://medium.com/p/50690cda4710) |
-| Wed, 06 Aug 2025 14:55:39 GMT | Cybersecurity Feels Impossible at First — Here’s How to Start Without Burning Out | Dhruvdeep Singh | [Read More](https://medium.com/p/4428d76430f9) |
-| Wed, 06 Aug 2025 14:54:24 GMT | The Real Reason Dev Teams Still Struggle to Catch High-Risk Vulnerabilities Early | Sam Bishop | [Read More](https://medium.com/p/f3388b733c9f) |
-| Wed, 06 Aug 2025 14:54:13 GMT | How Top CISOs Are Saving Their SOCs From Alert Overload (And Finally Catching Real Threats) | IamPreth | [Read More](https://medium.com/p/e9665be17937) |
-| Wed, 06 Aug 2025 14:53:54 GMT | Cisco VPN Bug Bounty: Path Traversal and XSS via SAML Endpoint Exploitation | Aftab Raja | [Read More](https://medium.com/p/2b615249b31f) |
-| Wed, 06 Aug 2025 14:53:49 GMT | Bug Hunting 101: How to Find XSS in Unusual Places ️ | Vipul Sonule | [Read More](https://medium.com/p/08a132dac4c3) |
-| Wed, 06 Aug 2025 14:49:09 GMT | BSides Cheltenham 2025 — A cyber security event not to be missed! | Forrest Caffray | [Read More](https://medium.com/p/7cca0e2618da) |
-| Wed, 06 Aug 2025 14:47:37 GMT | Ethically Hack Human Mind — Social Engineering Fundamentals (FREE Course!) | yasinzoneofficiel | [Read More](https://medium.com/p/c610d793db96) |
-| Wed, 06 Aug 2025 14:41:48 GMT | Business Logic Flaw That No One Knows About ! | TSxNINJA | [Read More](https://medium.com/p/836859be1471) |
-| Wed, 06 Aug 2025 14:40:25 GMT | OSCP Exam Success: 5 Must-Know Commands and Tools Every Pentester Should Master | Anezaneo | [Read More](https://medium.com/p/c65523e38cc1) |
-| Wed, 06 Aug 2025 14:38:59 GMT | ELK Stack SIEM Setup & Investigation | whoami | [Read More](https://medium.com/p/25053c853516) |
-| Wed, 06 Aug 2025 14:38:32 GMT | Buffer Overflow Exploits: A Developer’s Nightmare | Aj | [Read More](https://medium.com/p/f4f70e88fe9a) |
-| Wed, 06 Aug 2025 14:17:51 GMT | 5 Things My Cyber Forensics Internship Taught Me That University Didn’t | Jaikrishnavanthala | [Read More](https://medium.com/p/92ba0f56584e) |
-| Wed, 06 Aug 2025 14:11:47 GMT | Bounty - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/cf2eb611ab01) |
-| Wed, 06 Aug 2025 14:07:16 GMT | Effective Use of Environment Variables in Next.js | @rnab | [Read More](https://medium.com/p/f913e192de76) |
-| Wed, 06 Aug 2025 14:06:49 GMT | Cyber Security Ransomware: Holding Data Hostage | Cyber Security Research | [Read More](https://medium.com/p/eec256b7b565) |
-| Wed, 06 Aug 2025 14:05:33 GMT | Cyber Security Malware: Understanding the Threats | Cyber Security Research | [Read More](https://medium.com/p/5e3e1871cdf1) |
