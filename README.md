@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 11:14:04 GMT | Nasdaq Index Tech Sector Update: Key Developments Across Software and Semiconductor Segments | Jacksmithjs | [Read More](https://medium.com/p/b30e963d9ee0) |
+| Wed, 06 Aug 2025 11:08:58 GMT | Nikto Tool with Kali Linux: The Web Hacker’s Secret Weapon | Shahzaib | [Read More](https://medium.com/p/965702a1d25e) |
+| Wed, 06 Aug 2025 11:06:40 GMT | The Future of Cybersecurity Insurance: New Requirements & Best Practices | Sennovate | [Read More](https://medium.com/p/6464f1551950) |
+| Wed, 06 Aug 2025 10:59:14 GMT | Unlock the Power of RHEL 10: Join Our Free Live Webinar with RHCA Shiv Hari | Anu.R | [Read More](https://medium.com/p/f906b4762367) |
+| Wed, 06 Aug 2025 10:55:38 GMT | Master Cloud Security Your Guide to the AWS Certified Security Specialty (SCS-C02) Certification | Mehmood Ali | [Read More](https://medium.com/p/a483e566c78a) |
+| Wed, 06 Aug 2025 10:52:59 GMT | Top 10 Industries Winning Big with Oracle Managed Services | Trajectus | [Read More](https://medium.com/p/a73b147c6d29) |
+| Wed, 06 Aug 2025 10:49:18 GMT | My ADHD Thought of the Day | @iammrtownsend | [Read More](https://medium.com/p/65aadc8724d8) |
+| Wed, 06 Aug 2025 10:48:27 GMT | How I Hacked Premium Content Without Even Trying | Arai Santai | [Read More](https://medium.com/p/1fe714855afa) |
+| Wed, 06 Aug 2025 10:47:39 GMT | Firmware Dumping Techniques for STM32 Microcontrollers — Part 2 | Abdelwahed Baha | [Read More](https://medium.com/p/cde0209328f2) |
 | Wed, 06 Aug 2025 10:42:14 GMT | How to Track Unauthorized Software Installations (2025 Guide) | Hanee Raza | [Read More](https://medium.com/p/78cfea0ed3fe) |
+| Wed, 06 Aug 2025 10:42:02 GMT | What James Howells Taught Us about Crypto Security | Favour Bello | [Read More](https://medium.com/p/e4ef59fccfb5) |
 | Wed, 06 Aug 2025 10:41:40 GMT | How Dilmun ERP Enhances Data Security and Compliance | ELECTRONIC CLICKS | [Read More](https://medium.com/p/a855b970290c) |
 | Wed, 06 Aug 2025 10:41:37 GMT | How to Become a SOC Analyst With No Experience | Emuze Osaigbovo | [Read More](https://medium.com/p/8ea3dafb1043) |
 | Wed, 06 Aug 2025 10:36:21 GMT | ️ How SkyPtoP Ensures Safe Peer-to-Peer Deliveries: Behind the Scenes of Our Vetting Process | Rinat Kriukov | [Read More](https://medium.com/p/f33343a5fe9d) |
@@ -24,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 10:29:02 GMT | LSware Security Solutions — SecuMS & Omniguard | Khairielputra | [Read More](https://medium.com/p/ab4b3c2de6ac) |
 | Wed, 06 Aug 2025 10:25:08 GMT | AI Spam Filters for Dummies: What Does “Spam” Even Mean? And What Does AI Have To Do With It? | İmge | [Read More](https://medium.com/p/9135aad3d860) |
 | Wed, 06 Aug 2025 10:20:09 GMT | JDK7: What Decompiling a Bank App Taught Me About App Security | Mr Programmer | [Read More](https://medium.com/p/ed9b51cc497c) |
+| Wed, 06 Aug 2025 10:20:03 GMT | Cetification | F4BLOX | [Read More](https://medium.com/p/82ef3eb11c17) |
 | Wed, 06 Aug 2025 10:17:17 GMT | Stop using assert in your Python code | Maikel Mardjan | [Read More](https://medium.com/p/0196318fa982) |
 | Wed, 06 Aug 2025 10:15:25 GMT | Shocking Impact of Not Having a Managed IT Provider | Sayema | [Read More](https://medium.com/p/a3ca9c579097) |
 | Wed, 06 Aug 2025 10:15:21 GMT | Why Cyber Governance Is Now Every Leader’s Responsibility | John Davies | [Read More](https://medium.com/p/b02edff56453) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 07:23:57 GMT | ✅ General Steps to Claim a Fogo Airdrop (If Officially Announced): | Bitcoinpepe | [Read More](https://medium.com/p/de7119c70625) |
 | Wed, 06 Aug 2025 07:23:16 GMT | how you can claim $MBG token rewards in 2025 based on the latest official MultiBank Group programs: | Bitcoinpepe | [Read More](https://medium.com/p/0aacac8e6471) |
 | Wed, 06 Aug 2025 07:22:26 GMT | Looking for active domains to tackle bug bounties and pen-testing! | Advaniar | [Read More](https://medium.com/p/25bf65638b0e) |
-| Wed, 06 Aug 2025 07:22:06 GMT | The project’s roadmap indicates a dedicated airdrop coming in Q4 2025, but this will be directed at… | Bitcoinpepe | [Read More](https://medium.com/p/0a8a975db9c1) |
-| Wed, 06 Aug 2025 07:16:56 GMT | What to Look for in a Tech Partner Today in 2025? | Intuition Softech | [Read More](https://medium.com/p/d949297734bd) |
-| Wed, 06 Aug 2025 07:14:17 GMT | Wireshark: The Top Choice for Network Traffic Analysis | Serishahid | [Read More](https://medium.com/p/4c44df2abb00) |
-| Wed, 06 Aug 2025 07:13:46 GMT | Cybersecurity in 2025: 5 Predictions That Will Shape the Year Ahead | TheReviewHive | [Read More](https://medium.com/p/2290bdd5016b) |
-| Wed, 06 Aug 2025 07:10:37 GMT | SafeLine vs Reblaze: Smarter WAF for Modern Web Protection? | AerieWhole123 | [Read More](https://medium.com/p/ae90cb3fa778) |
-| Wed, 06 Aug 2025 07:04:50 GMT | CCTV Camera Solutions in Dubai | Cost To Cost | [Read More](https://medium.com/p/48f1fc20823f) |
-| Wed, 06 Aug 2025 07:00:08 GMT | The Fragility of the Cloud: Lessons from Recent Data Loss Incidents with OneDrive and AWS | MyOwnSys | [Read More](https://medium.com/p/52491cd596b5) |
-| Wed, 06 Aug 2025 06:58:54 GMT | Cyber Security Training in Kochi: What You Need to Know | bushaira bk | [Read More](https://medium.com/p/234b246d25d6) |
-| Wed, 06 Aug 2025 06:57:03 GMT | Catatan Belajar: OSINT Collection Methods: Target Domain Name Information | ki.a | [Read More](https://medium.com/p/0a737306e228) |
-| Wed, 06 Aug 2025 06:56:07 GMT | Catatan Belajar: OSINT in Penetration Testing | ki.a | [Read More](https://medium.com/p/b9ce3c20c1d0) |
-| Wed, 06 Aug 2025 06:52:26 GMT | Java’s Best Kept Secrets: Hidden Tips That Will Make Your Code Less Embarrassing (And Maybe Even… | Sumant Khapre | [Read More](https://medium.com/p/f4cc44b1c837) |
