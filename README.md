@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 14:17:51 GMT | 5 Things My Cyber Forensics Internship Taught Me That University Didn’t | Jaikrishnavanthala | [Read More](https://medium.com/p/92ba0f56584e) |
+| Wed, 06 Aug 2025 14:11:47 GMT | Bounty - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/cf2eb611ab01) |
+| Wed, 06 Aug 2025 14:07:16 GMT | Effective Use of Environment Variables in Next.js | @rnab | [Read More](https://medium.com/p/f913e192de76) |
+| Wed, 06 Aug 2025 14:06:49 GMT | Cyber Security Ransomware: Holding Data Hostage | Cyber Security Research | [Read More](https://medium.com/p/eec256b7b565) |
+| Wed, 06 Aug 2025 14:05:33 GMT | Cyber Security Malware: Understanding the Threats | Cyber Security Research | [Read More](https://medium.com/p/5e3e1871cdf1) |
+| Wed, 06 Aug 2025 14:04:11 GMT | Cyber Security Phishing: Spotting the Bait | Cyber Security Research | [Read More](https://medium.com/p/dc7cec2908e3) |
+| Wed, 06 Aug 2025 14:04:06 GMT | Mastering Java for Real-World Applications | RimshaKashif | [Read More](https://medium.com/p/021395611426) |
+| Wed, 06 Aug 2025 14:02:17 GMT | Cyber Security Social Engineering: Deceptive Tactics Exposed | Cyber Security Research | [Read More](https://medium.com/p/2b4b8370dd21) |
+| Wed, 06 Aug 2025 14:01:55 GMT | Cyber Briefing: 2025.08.06 | CyberMaterial | [Read More](https://medium.com/p/0c74bb113148) |
+| Wed, 06 Aug 2025 14:00:47 GMT | Cyber Security Biometrics: Using Unique Identifiers | Cyber Security Research | [Read More](https://medium.com/p/17212a3c87a0) |
+| Wed, 06 Aug 2025 13:59:42 GMT | Flash USDT – Digital Illusions You Should Understand | Kisi | [Read More](https://medium.com/p/7fc84ef76bc1) |
+| Wed, 06 Aug 2025 13:59:13 GMT | Cyber Security Multi-Factor Authentication: Adding Layers of Security | Cyber Security Research | [Read More](https://medium.com/p/833042daad95) |
+| Wed, 06 Aug 2025 13:56:32 GMT | The ones who followed me | Jon | [Read More](https://medium.com/p/c014bbcba396) |
+| Wed, 06 Aug 2025 13:47:25 GMT | Agentic AI Security: New OWASP Report | noailabs | [Read More](https://medium.com/p/f70c203fb71e) |
+| Wed, 06 Aug 2025 13:46:15 GMT | We Speak CVE Podcast — “Mapping the Root Causes of CVEs” | CVE Program Blog | [Read More](https://medium.com/p/f69d76fd9eea) |
+| Wed, 06 Aug 2025 13:46:01 GMT | 》Notable Exploits in Web3 That Drosera Could Have Prevented.《 | CaspianXenon | [Read More](https://medium.com/p/f030245bd0bb) |
+| Wed, 06 Aug 2025 13:42:35 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Advice From a Fellow Learner | Abeera Mehtab | [Read More](https://medium.com/p/3570c5151eca) |
+| Wed, 06 Aug 2025 13:39:55 GMT | AI Security: Vulnerabilities and Defenses | Artificial Intelligence Details | [Read More](https://medium.com/p/96926ada46a2) |
 | Wed, 06 Aug 2025 13:36:43 GMT | Why Drosera Is a Needed Concept | CaspianXenon | [Read More](https://medium.com/p/93aae421d7b6) |
 | Wed, 06 Aug 2025 13:24:21 GMT | Understanding Token-Based Authentication: Single vs. Dual Tokens | zzye | [Read More](https://medium.com/p/433718a8c43a) |
 | Wed, 06 Aug 2025 13:20:14 GMT | ️ From Enumeration to RCE: A Real-World Capture the Flag Experience | Samruth Sriram D | [Read More](https://medium.com/p/c573110bf091) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 09:42:37 GMT | Part 23: Reverse Engineering libapp.so — Extracting Hidden Secrets From Compiled Flutter Code | Sumit Kumar | [Read More](https://medium.com/p/6b98c6701abf) |
 | Wed, 06 Aug 2025 09:42:14 GMT | Part 22: Flutter App Integrity Bypass via Repack & Side-Loading — The Hidden Danger of Modified… | Sumit Kumar | [Read More](https://medium.com/p/cef6bf2eeae0) |
 | Wed, 06 Aug 2025 09:41:56 GMT | The Consultant Crack-Up: How AI and Policy Shifts Are Sinking Big Consulting | Namir Sagheenanajar | [Read More](https://medium.com/p/152a76893265) |
-| Wed, 06 Aug 2025 09:41:53 GMT | Part 21: Reverse Engineering Flutter Apps Using JADX & Ghidra — How Hackers Extract Secrets… | Sumit Kumar | [Read More](https://medium.com/p/b1bf754f1fe7) |
-| Wed, 06 Aug 2025 09:41:42 GMT | “Juicy 403” — When Forbidden Means You’re Close to Gold | Narendar Battula (nArEn) | [Read More](https://medium.com/p/47a2aa5d5696) |
-| Wed, 06 Aug 2025 09:41:36 GMT | Part 20: Runtime Memory Inspection (RAM Sniffing) — How Hackers Extract Secrets from Your… | Sumit Kumar | [Read More](https://medium.com/p/7fbd01da4e98) |
-| Wed, 06 Aug 2025 09:38:43 GMT | Top 7 Infor LN Consulting Companies in the USA (2025 Edition) | Evelyn Hartley | [Read More](https://medium.com/p/821750570942) |
-| Wed, 06 Aug 2025 09:37:41 GMT | Seven Common Web App Vulnerabilities | Redfox Security | [Read More](https://medium.com/p/e6718a722955) |
-| Wed, 06 Aug 2025 09:35:36 GMT | HCIS Certification in Saudi Arabia: Your Guide to Compliance & Safe Perimeter Security | Hitechfence | [Read More](https://medium.com/p/c542339bf7a0) |
-| Wed, 06 Aug 2025 09:35:08 GMT | Part 19: Runtime Memory Hooking — Hijacking Flutter's Internal State While the App Runs | Sumit Kumar | [Read More](https://medium.com/p/988cf4d02079) |
-| Wed, 06 Aug 2025 09:34:04 GMT | ️ Part 18: Flutter Asset Injection — How Attackers Tamper with Static Resources in Your App | Sumit Kumar | [Read More](https://medium.com/p/7a54227bb2dd) |
-| Wed, 06 Aug 2025 09:33:05 GMT | Part 17: Runtime Memory Token Extraction in Flutter — How Attackers Sniff Sensitive Data from… | Sumit Kumar | [Read More](https://medium.com/p/f6a6bcd228d3) |
-| Wed, 06 Aug 2025 09:31:40 GMT | When Identity Data is Leaked: Should we be able to change our NIK like we change our password? | Hildan Kusto Utomo | [Read More](https://medium.com/p/935d6d24c5a7) |
-| Wed, 06 Aug 2025 09:31:29 GMT | Part 16: Dynamic Code Execution in Flutter — How Attackers Inject and Run Arbitrary Dart at… | Sumit Kumar | [Read More](https://medium.com/p/5aae3ab11083) |
-| Wed, 06 Aug 2025 09:30:10 GMT | Part 15: Runtime Code Injection in Flutter Plugins using Frida — Hijacking Native Behavior at… | Sumit Kumar | [Read More](https://medium.com/p/db51db674e2b) |
-| Wed, 06 Aug 2025 09:21:33 GMT | The Human Side of Cybersecurity | CYBERUP INSTITUTE | [Read More](https://medium.com/p/dccf6f2b541d) |
-| Wed, 06 Aug 2025 09:19:48 GMT | SSI IT | SSI IT Solutions | [Read More](https://medium.com/p/c093c8419e6f) |
-| Wed, 06 Aug 2025 09:16:25 GMT | Understanding EN 18031: The Standard, RED Directive, and Timeline | Simon Stampfl | [Read More](https://medium.com/p/02dbd5816145) |
-| Wed, 06 Aug 2025 09:15:40 GMT | Ethical hacker testing security systems | Sanajahfer | [Read More](https://medium.com/p/ca9e97a6cb2f) |
-| Wed, 06 Aug 2025 09:14:38 GMT | Is your database secure? Probably not. Find out why before it’s too late! | Rafael Santos | [Read More](https://medium.com/p/d6a478888154) |
-| Wed, 06 Aug 2025 09:12:57 GMT | I built my own web Pentesting labs in a few minutes. this is how… | Oussama BEDLOU | [Read More](https://medium.com/p/57a4f034e91a) |
