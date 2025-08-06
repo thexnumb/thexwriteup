@@ -12,10 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 20:21:55 GMT | Why the United Nations Needs Real Reform | samayxpatel | [Read More](https://medium.com/p/0e91b357650d) |
+| Wed, 06 Aug 2025 20:19:12 GMT | How AI Is Getting Adopted in Organizations (Spoiler: Not Like the Movies) | Sandeep Singh | [Read More](https://medium.com/p/67b387f56cc6) |
+| Wed, 06 Aug 2025 20:15:45 GMT | Snort Room Deep-Dive: From Raw Packets to the Top of the Leaderboard | Reda  kiker | [Read More](https://medium.com/p/06a25ff9a746) |
+| Wed, 06 Aug 2025 20:13:36 GMT | Web Cache Deception: How I Tricked the Cache and Exposed Sensitive User Data. | MBANKO KEVIN GUBUI | [Read More](https://medium.com/p/2f1bbecaac9d) |
+| Wed, 06 Aug 2025 20:13:00 GMT | Elvis is alive! How ‘AI’ stunts modern mythmaking | Peter Hansteen | [Read More](https://medium.com/p/986806cdc713) |
+| Wed, 06 Aug 2025 20:10:48 GMT | Teach Me to Think Like an Operator | Five Insights | [Read More](https://medium.com/p/3b5b50fb794e) |
+| Wed, 06 Aug 2025 20:07:40 GMT | Not All Guards Stand the Same: How to Choose a Security Company You Can Actually Trust | Teona | [Read More](https://medium.com/p/40411c961387) |
+| Wed, 06 Aug 2025 20:06:27 GMT | SOC Analisti Nasıl Olunur? Kapsamlı ve Güncel Kariyer Rehberi | Furkan Dinçer | [Read More](https://medium.com/p/ca515cf5876c) |
+| Wed, 06 Aug 2025 20:00:22 GMT | Lab: DOM XSS in document.write sink using source location.search - PortSwigger | SIGKILLers | [Read More](https://medium.com/p/798e455b2896) |
+| Wed, 06 Aug 2025 19:57:32 GMT | DAY 37 — Starting with YARA | Jinay | [Read More](https://medium.com/p/891841f709da) |
+| Wed, 06 Aug 2025 19:55:02 GMT | This “deal” stole $847 from my friend | Scott Brenner | [Read More](https://medium.com/p/8f78008f5452) |
+| Wed, 06 Aug 2025 19:35:00 GMT | When Sharing Your Story Feels Exposing | Susie Winfield | [Read More](https://medium.com/p/ccb06f4d99cc) |
 | Wed, 06 Aug 2025 19:34:34 GMT | When detection fails: 5 lessons learned that caused security alerts go dark because of data… | LogFiend | [Read More](https://medium.com/p/708df74a89bd) |
 | Wed, 06 Aug 2025 19:31:03 GMT | Poisoning the web: Ultimate guide to the web cache poisoning | Manas Harsh | [Read More](https://medium.com/p/ade6eb884d39) |
 | Wed, 06 Aug 2025 19:30:25 GMT | Recovery/Crypto | Norman Meg | [Read More](https://medium.com/p/8243fe089920) |
+| Wed, 06 Aug 2025 19:30:15 GMT | How good of an actor are you? | Kondapalli Koyal | [Read More](https://medium.com/p/d2ec3d649c71) |
 | Wed, 06 Aug 2025 19:26:34 GMT | The Paradox of Love: A Fragile Dance | Clumsy_fellaaaaa | [Read More](https://medium.com/p/9027386e2777) |
+| Wed, 06 Aug 2025 19:22:56 GMT | Princípios de Segurança — Explorando CIA, DAD e mais… | Ane Duarte | [Read More](https://medium.com/p/febd50138be5) |
 | Wed, 06 Aug 2025 19:14:51 GMT | Cybersecurity & Social Engineering  Factor Still Matters
 Cybersecurity isn’t just about firewalls… | Murat Tarsuslu | [Read More](https://medium.com/p/6a51a62e6d02) |
 | Wed, 06 Aug 2025 19:10:28 GMT | Learn Real WiFi Hacking Concepts with Termux — Not Fake Tricks | Kambetastephano | [Read More](https://medium.com/p/35693a356bf3) |
@@ -99,17 +113,3 @@ Cybersecurity isn’t just about firewalls… | Murat Tarsuslu | [Read More](htt
 | Wed, 06 Aug 2025 15:34:18 GMT | Mastering the ELK Stack: My Journey from Learner to Security Analyst | Ronak Joshi | [Read More](https://medium.com/p/44d7580b01f4) |
 | Wed, 06 Aug 2025 15:32:01 GMT | Web Requests 101: Understanding HTTP for Beginner Ethical Hackers | Mainekdeveloper | [Read More](https://medium.com/p/b08694c81e2a) |
 | Wed, 06 Aug 2025 15:31:55 GMT | Coding in the Age of Prompts | Aadarsh Shumsher Kunwar | [Read More](https://medium.com/p/c51b1ec8a9d8) |
-| Wed, 06 Aug 2025 15:30:20 GMT | How Platnova is Helping Users Stay One Step Ahead of Scammers | Platnova | [Read More](https://medium.com/p/d107b43fef2d) |
-| Wed, 06 Aug 2025 15:28:49 GMT | Guardians of the Grid: How Cyber Privilege is Fighting Modern Cybercrime | Vanirayala | [Read More](https://medium.com/p/5ad2a56cbe72) |
-| Wed, 06 Aug 2025 15:28:41 GMT | *Love, Silence, and the Courage to Be Genuine* | The W Way | [Read More](https://medium.com/p/4eea00d31ed4) |
-| Wed, 06 Aug 2025 15:27:43 GMT | TryHackMe - AllSignsPoint2Pwnage - WriteUp | Axoloth | [Read More](https://medium.com/p/4e6ba621e2f6) |
-| Wed, 06 Aug 2025 15:27:01 GMT | Florida Sues XVideos & Co. for Ditching Age Checks | Mary Carter | [Read More](https://medium.com/p/fe49d2d23107) |
-| Wed, 06 Aug 2025 15:25:46 GMT | Hybrid Cloud Management Solutions: Unlocking the Future of Scalable, Secure IT | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/06258808e4ce) |
-| Wed, 06 Aug 2025 15:24:41 GMT | What is at the heart of Shor’s algorithm? | Cesaire Njietche Fangang | [Read More](https://medium.com/p/6f0785f070c0) |
-| Wed, 06 Aug 2025 15:23:55 GMT | Internship in Cyber Privilege | Dosapati Jatha Sri Mahidhar | [Read More](https://medium.com/p/8f690a46004d) |
-| Wed, 06 Aug 2025 15:18:40 GMT | Google Cybersecurity Professional Certificate: Your Path to a Secure Future | Invest Learn Make | [Read More](https://medium.com/p/dcd8294f1d1a) |
-| Wed, 06 Aug 2025 15:17:02 GMT | Availability: The Hidden Hero of Seamless Customer Service | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/b9cb3d5ade03) |
-| Wed, 06 Aug 2025 15:11:59 GMT | SharePoint Breach July 2025: ToolShell Zero‑Day exploitHits On‑Prem Servers | Ved Trivedi | [Read More](https://medium.com/p/2f443f52ca74) |
-| Wed, 06 Aug 2025 15:06:21 GMT | “Elon Musk Wants to Invest with You”—Sure, and I’m the CEO of Mars | Priyansh Shrivastava | [Read More](https://medium.com/p/470ecb069fd2) |
-| Wed, 06 Aug 2025 15:06:01 GMT | Tools that i have learnt as an intern in “Cyber Privilege” | Dosapati Jatha Sri Mahidhar | [Read More](https://medium.com/p/8243d2e30520) |
-| Wed, 06 Aug 2025 15:04:53 GMT | Kickstarting My Cyber Forensics Internship at Cyber Privilege Pvt. Ltd. | Charansaibalaji | [Read More](https://medium.com/p/e23009288ef1) |
