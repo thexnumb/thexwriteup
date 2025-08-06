@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 01:56:42 GMT | Brain Drain in Pakistan: Why Our Best Minds Leave — And How We Can Bring Them Back | Inayat Hussain | [Read More](https://medium.com/p/9cccfb0b9fb3) |
+| Wed, 06 Aug 2025 01:46:55 GMT | Dịch vụ bảo vệ ngân hàng uy tín — Đảm bảo an ninh tuyệt đối | DaiAnGroup | [Read More](https://medium.com/p/404caee6b58c) |
+| Wed, 06 Aug 2025 01:33:01 GMT | I Wrote One Middleware That Blocked 90% of Spam | Nikulsinh Rajput | [Read More](https://medium.com/p/b9929d171797) |
+| Wed, 06 Aug 2025 01:24:41 GMT | Has the Solana ecosystem lost its hype, or is it simply no longer in vogue? | ElectusDAO | [Read More](https://medium.com/p/94913294df73) |
+| Wed, 06 Aug 2025 01:21:24 GMT | Secure Code Signing at Scale with GaraSign | Sudhir Mohanty (Devops & Test Automation Engineer) | [Read More](https://medium.com/p/71fc16f55e39) |
+| Wed, 06 Aug 2025 01:18:07 GMT | Passive Reconnaissance: TryHackMe | ShadowPacketRHR | [Read More](https://medium.com/p/4143d8489f9b) |
+| Wed, 06 Aug 2025 01:17:17 GMT | The Cyber Kill Chain Behind the PXA Stealer Attacks | Cyber-AppSec | [Read More](https://medium.com/p/d53fdb8a25d5) |
+| Wed, 06 Aug 2025 01:13:33 GMT | Best SEO Expert in Davie, Florida | Muhammad Roohullah | [Read More](https://medium.com/p/4fb61eb4bfeb) |
+| Wed, 06 Aug 2025 01:10:04 GMT | The Browser Is the New Battleground in Cybersecurity | Cyber-AppSec | [Read More](https://medium.com/p/4840760e3929) |
+| Wed, 06 Aug 2025 01:01:43 GMT | Peran Kunci Chief Information Security Officer… | Groupmediatraining | [Read More](https://medium.com/p/2833137587cf) |
+| Wed, 06 Aug 2025 00:57:37 GMT | The Ashley Madison Break | Marvion Criddle | [Read More](https://medium.com/p/66dd94db0a5d) |
+| Wed, 06 Aug 2025 00:42:41 GMT | What is Code Signing & Why It Matters for Modern Software Security | Sudhir Mohanty (Devops & Test Automation Engineer) | [Read More](https://medium.com/p/b992657e413e) |
+| Wed, 06 Aug 2025 00:33:37 GMT | Gaining Control: How I Learned to Hack Telnet on TryHackMe | JEONGYU NOH | [Read More](https://medium.com/p/8bbb0b0b8861) |
+| Wed, 06 Aug 2025 00:21:32 GMT | Automation vs. Accountability: Vibe Coding and the Tea Breach | Eric Vanderburg | [Read More](https://medium.com/p/bacc0d8d57c8) |
+| Wed, 06 Aug 2025 00:19:40 GMT | How Scrum Corrupted the Agile Revolution: The Tools of Looters in Tech | Leandro Costa de Oliveira | [Read More](https://medium.com/p/daad5a01f0f6) |
+| Wed, 06 Aug 2025 00:01:41 GMT | Security Logging and Monitoring Failures (OWASP A09): Complete Hacking and Bug Bounty Guide | JPablo13 | [Read More](https://medium.com/p/8533fa2d8c3d) |
+| Tue, 05 Aug 2025 23:55:44 GMT | AI Security: What is MCP Security & Why It Matters Now? | Rahul Bhichher | [Read More](https://medium.com/p/a0f76852fb7c) |
+| Tue, 05 Aug 2025 23:54:47 GMT | JavaScript Protocol and XSS: Modern Defence Strategies | Deep Singh | [Read More](https://medium.com/p/3b58b1e13606) |
+| Tue, 05 Aug 2025 23:48:03 GMT | The “Layered Instinct” Method: Why Most Cybersecurity Strategies Fail Before the First Alert | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/96fa7f16147f) |
 | Tue, 05 Aug 2025 23:34:01 GMT | New in the Loop with AI Pentesting | Daniel Knight | [Read More](https://medium.com/p/11639337c274) |
 | Tue, 05 Aug 2025 23:17:23 GMT | This One Network Mistake Could Let Hackers Spy on Everything You Do Online | Cyber-AppSec | [Read More](https://medium.com/p/b1a35ea99b67) |
 | Tue, 05 Aug 2025 23:07:15 GMT | Beyond the Lightbulb (and Other Household Hazards): Crafting a Product Strategy That Doesn’t Flop | Somaditya Roy | [Read More](https://medium.com/p/64669c950663) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 17:50:00 GMT | Cyber Security Policy: Establishing the Ground Rules | Cyber Security Research | [Read More](https://medium.com/p/6c8a34f78614) |
 | Tue, 05 Aug 2025 17:48:15 GMT | Cyber Security Best Practices: Proven Strategies for Success | Cyber Security Research | [Read More](https://medium.com/p/56f52df126aa) |
 | Tue, 05 Aug 2025 17:46:18 GMT | Cyber Security Trends: Adapting to the Evolving Landscape | Cyber Security Research | [Read More](https://medium.com/p/10caf72e7973) |
-| Tue, 05 Aug 2025 17:44:32 GMT | DVWA XSS (Reflected) — Exploiting Every Security Level with Real Payloads | Bhaskar Maity | [Read More](https://medium.com/p/6685cc78f31e) |
-| Tue, 05 Aug 2025 17:40:34 GMT | Reaching the Minimum Viable Security Posture: iOS 18.6 Security and Privacy Settings | The Algorithm Archive | [Read More](https://medium.com/p/a485f0d0baf3) |
-| Tue, 05 Aug 2025 17:36:29 GMT | How the new cyber security act is raising the bar for IoT in Australia? | LEAP Strategies | [Read More](https://medium.com/p/3f8787e8c2aa) |
-| Tue, 05 Aug 2025 17:36:02 GMT | Portswigger Information disclosure Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/028794b70321) |
-| Tue, 05 Aug 2025 17:34:37 GMT | Recovery Made Easy With James | Norman Meg | [Read More](https://medium.com/p/c374a81908bf) |
-| Tue, 05 Aug 2025 17:32:11 GMT | How Defense Contractors Are Preparing for CMMC 2.0 in 2025 | ISI Defense | [Read More](https://medium.com/p/b3b91c5d82f4) |
-| Tue, 05 Aug 2025 17:31:53 GMT | Portswigger Information Disclosure Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/d009714c118a) |
-| Tue, 05 Aug 2025 17:31:09 GMT | Why Steel Fences Are Taking Over Modern Properties | Andortiz | [Read More](https://medium.com/p/74974bd381a7) |
-| Tue, 05 Aug 2025 17:25:54 GMT | BankX, Idols NFT, and Mosca Exploited for $403K via Reentrancy, Double Rewards, and Reward Reset… | Olympix | [Read More](https://medium.com/p/fdff2390d457) |
-| Tue, 05 Aug 2025 17:24:13 GMT | Moby Trade, FEG, and AST Token Exploited for $3.5M | Olympix | [Read More](https://medium.com/p/7bbe694bd764) |
-| Tue, 05 Aug 2025 17:24:09 GMT | How Machine Learning is Reshaping Cybersecurity: Smarter Defenses for Smarter Threats | Rebecca Ssesanga | [Read More](https://medium.com/p/f709af04c922) |
-| Tue, 05 Aug 2025 17:22:43 GMT | UniLend’s Sequencing Bug, Orange Finance’s Key Leak, and Labubu’s Transfer Logic Fail | Olympix | [Read More](https://medium.com/p/762eebfd9a6e) |
-| Tue, 05 Aug 2025 17:22:41 GMT | Understanding the Cyber Kill Chain: A Complete Guide to Preventing Attacks | Hrishidev K V | [Read More](https://medium.com/p/6ab07404bd7d) |
-| Tue, 05 Aug 2025 17:22:25 GMT | CTF Day(44) | Ahmed Narmer | [Read More](https://medium.com/p/8f035cea69e7) |
-| Tue, 05 Aug 2025 17:20:25 GMT | Simplifying Enterprise Networking with SD-WAN | Abdul Ahad | [Read More](https://medium.com/p/0bd5323119b7) |
-| Tue, 05 Aug 2025 17:19:44 GMT | Bug Bounty Hunting — Are Self Hosted Programs Any Better? | Rehan Sohail | [Read More](https://medium.com/p/797ecf90bc80) |
-| Tue, 05 Aug 2025 17:18:26 GMT | Day 72: Wireless Connections | Nile Okomo | [Read More](https://medium.com/p/f7eff04187cd) |
-| Tue, 05 Aug 2025 17:15:38 GMT | SIEM Use Case Series Day 4: Detecting Password Spray Attempts from a Host | NineTales | [Read More](https://medium.com/p/8f20a76194cb) |
-| Tue, 05 Aug 2025 17:14:54 GMT | Why Cyber Privilege Matters in the Fight Against Cybercrime | Vanirayala | [Read More](https://medium.com/p/33c0d42a230a) |
