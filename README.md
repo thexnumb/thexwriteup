@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 10:17:17 GMT | Stop using assert in your Python code | Maikel Mardjan | [Read More](https://medium.com/p/0196318fa982) |
+| Wed, 06 Aug 2025 10:15:21 GMT | Why Cyber Governance Is Now Every Leader’s Responsibility | John Davies | [Read More](https://medium.com/p/b02edff56453) |
+| Wed, 06 Aug 2025 10:11:25 GMT | Unlock Burp Suite Pro on macOS for Free — Full Setup Guide (No Errors) | Amreal Abhishek | [Read More](https://medium.com/p/82f64eb09055) |
+| Wed, 06 Aug 2025 10:11:19 GMT | Blue Write-Up | Melih Eymen Bulut | [Read More](https://medium.com/p/6fffcb4efa97) |
+| Wed, 06 Aug 2025 10:11:01 GMT | From Fear to Confidence: My Journey Through Six Years of Blogging and Self-Discovery | Blogfessions of a Nomadic Spirit | [Read More](https://medium.com/p/a103b6afa94a) |
+| Wed, 06 Aug 2025 10:09:36 GMT | Train Your PHP to Auto-Label Malicious Payloads Without Machine Learning | Asian Digital Hub | [Read More](https://medium.com/p/2588e825951e) |
+| Wed, 06 Aug 2025 10:02:56 GMT | AI didn’t just simulate an attack — it planned and executed a real breach like a human hacker! | Harsh Panchal | [Read More](https://medium.com/p/19a15de8717c) |
+| Wed, 06 Aug 2025 10:01:59 GMT | [중소기업 기술보호 가이드 시리즈 2] ‘비밀관리성’을 위한 제도적 기반과 조직 체계 갖추기 by. 위즈노트에이아이 | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/d9e1cf16ff0b) |
+| Wed, 06 Aug 2025 10:00:07 GMT | ️Walkthrough: HackTheBox Nibbles (Easy Linux Box) | Xyplex | [Read More](https://medium.com/p/37fe48e098f0) |
+| Wed, 06 Aug 2025 10:00:07 GMT | How we used AI to reduce testing costs and boost quality | Kiran Pannala | [Read More](https://medium.com/p/86d5408387dc) |
+| Wed, 06 Aug 2025 09:56:33 GMT | Becoming a Cloud Security Consultant What You Need to Know | Kartik Debnath | [Read More](https://medium.com/p/608b32f46175) |
+| Wed, 06 Aug 2025 09:52:52 GMT | The Help Desk Heist Hijacking Your Hypervisor | Aj | [Read More](https://medium.com/p/646857029910) |
 | Wed, 06 Aug 2025 09:43:40 GMT | Part 27: Miscellaneous & Advanced Flutter Exploits — From Stack Trace Leaks to Input Hijacking | Sumit Kumar | [Read More](https://medium.com/p/6ed1f435ec8a) |
 | Wed, 06 Aug 2025 09:43:25 GMT | Part 26: Asset Tampering in Flutter — Runtime Modifications and Dynamic Asset Swaps | Sumit Kumar | [Read More](https://medium.com/p/bab44d12d59c) |
 | Wed, 06 Aug 2025 09:43:08 GMT | ️ Part 25: Asset Repack Attacks — How Attackers Modify Your Flutter App’s Assets to Inject… | Sumit Kumar | [Read More](https://medium.com/p/526ceb8f6b91) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 06:24:47 GMT | “Re Vault” Exposed: Millions of Dell Laptops Vulnerable to Takeover and Persistent Malware Attacks | Tarush Sharma | [Read More](https://medium.com/p/e07ebbdac5fb) |
 | Wed, 06 Aug 2025 06:21:39 GMT | How to Safely Store Your Web3 Assets: Try Digital Shield Hardware Wallet | Digital Shield | [Read More](https://medium.com/p/a328616d6f97) |
 | Wed, 06 Aug 2025 06:20:01 GMT | Blind SQL Injection Found! In Tirreno : Security Analytics | CyberDucky | [Read More](https://medium.com/p/cbd791cec1c0) |
-| Wed, 06 Aug 2025 06:14:10 GMT | “401 Isn’t a Wall — It’s a Window: Turning Unauthorized Into Unlocked” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4ce72cd382be) |
-| Wed, 06 Aug 2025 06:10:47 GMT | Information Technology vs. Artificial Intelligence: Understanding the Key Differences | Bikash Peeripaul | [Read More](https://medium.com/p/0e38de194c17) |
-| Wed, 06 Aug 2025 06:09:24 GMT | Cybersecurity Job Roles of the Future: | Dr. Deep Pandey | [Read More](https://medium.com/p/f6bf9231056e) |
-| Wed, 06 Aug 2025 06:04:01 GMT | Deploy Microsoft Entra ID Administrative Units using PowerShell | Brian Veldman | [Read More](https://medium.com/p/d3f834b8a9f6) |
-| Wed, 06 Aug 2025 06:02:09 GMT | Top Smartphones Launching in August 2025: What to Expect | pardeep brar | [Read More](https://medium.com/p/004d08cba187) |
-| Wed, 06 Aug 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Aug 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5e1ace3949e5) |
-| Wed, 06 Aug 2025 05:59:20 GMT | CYBERSECURITY: BASICS 1 NETWORKING | Rayyanshowkath | [Read More](https://medium.com/p/be092268522c) |
-| Wed, 06 Aug 2025 05:51:52 GMT | My Journey into Information Security: From Paint to Post-Quantum | Beenu Pulikottil | [Read More](https://medium.com/p/1e6f871d5fdc) |
-| Wed, 06 Aug 2025 05:51:37 GMT | ️ Microsoft’s $5M Zero Day Quest Returns: A Game-Changer in Cybersecurity Research | Tarush Sharma | [Read More](https://medium.com/p/a92dffb89646) |
-| Wed, 06 Aug 2025 05:48:33 GMT | Improve Your Business by partnering by using the most effective Security Solutions Company in UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/fa5236086cc0) |
-| Wed, 06 Aug 2025 05:47:06 GMT | Day3 Recon: Subdomain Enumeration for Beginners: A Hands-On Guide Using Sublist3r, Amass & Gobuster | Ayush Kumar | [Read More](https://medium.com/p/20ce5cacab81) |
-| Wed, 06 Aug 2025 05:45:45 GMT | TryHackMe — Linux Privilege Escalation | Alfien Dhika | [Read More](https://medium.com/p/5f848a82dc5d) |
