@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 15:18:40 GMT | Google Cybersecurity Professional Certificate: Your Path to a Secure Future | Invest Learn Make | [Read More](https://medium.com/p/dcd8294f1d1a) |
+| Wed, 06 Aug 2025 15:17:02 GMT | Availability: The Hidden Hero of Seamless Customer Service | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/b9cb3d5ade03) |
+| Wed, 06 Aug 2025 15:11:59 GMT | SharePoint Breach July 2025: ToolShell Zero‑Day exploitHits On‑Prem Servers | Ved Trivedi | [Read More](https://medium.com/p/2f443f52ca74) |
+| Wed, 06 Aug 2025 15:06:21 GMT | “Elon Musk Wants to Invest with You”—Sure, and I’m the CEO of Mars | Priyansh Shrivastava | [Read More](https://medium.com/p/470ecb069fd2) |
+| Wed, 06 Aug 2025 15:06:01 GMT | Tools that i have learnt as an intern in “Cyber Privilege” | Dosapati Jatha Sri Mahidhar | [Read More](https://medium.com/p/8243d2e30520) |
+| Wed, 06 Aug 2025 15:04:53 GMT | Kickstarting My Cyber Forensics Internship at Cyber Privilege Pvt. Ltd. | Charansaibalaji | [Read More](https://medium.com/p/e23009288ef1) |
+| Wed, 06 Aug 2025 15:03:17 GMT | Why Automated Tools and Dashboards Can’t Replace a Human Investigator | Ingvar Pavlovich | [Read More](https://medium.com/p/44f7643a651e) |
+| Wed, 06 Aug 2025 15:02:54 GMT | The Ultimate Guide to Preventing Facebook and WhatsApp Account Disables in 2025 | Devriazul | [Read More](https://medium.com/p/a65c3e41f7d7) |
+| Wed, 06 Aug 2025 15:02:36 GMT | Before You Trust Google Drive… Read This! | Your's Nightmare | [Read More](https://medium.com/p/a1ed88c8cdde) |
+| Wed, 06 Aug 2025 15:02:29 GMT | Your WhatsApp Chats Aren’t as Private as You Think! | Your's Nightmare | [Read More](https://medium.com/p/2245096576bd) |
+| Wed, 06 Aug 2025 15:02:03 GMT | Earn Big with BUG $BUG Yield Rewards | hasan13war | [Read More](https://medium.com/p/1f6c1503c5e5) |
+| Wed, 06 Aug 2025 15:01:30 GMT | How I Found 50+ Open Redirects Using Automation and Simple Bash Scripts | dr34m14 | [Read More](https://medium.com/p/91e3b92f5c69) |
+| Wed, 06 Aug 2025 14:56:03 GMT | I Got Hacked by My Own Smart Fridge: A Cautionary Tale | vydhi | [Read More](https://medium.com/p/50690cda4710) |
+| Wed, 06 Aug 2025 14:55:39 GMT | Cybersecurity Feels Impossible at First — Here’s How to Start Without Burning Out | Dhruvdeep Singh | [Read More](https://medium.com/p/4428d76430f9) |
+| Wed, 06 Aug 2025 14:54:24 GMT | The Real Reason Dev Teams Still Struggle to Catch High-Risk Vulnerabilities Early | Sam Bishop | [Read More](https://medium.com/p/f3388b733c9f) |
+| Wed, 06 Aug 2025 14:54:13 GMT | How Top CISOs Are Saving Their SOCs From Alert Overload (And Finally Catching Real Threats) | IamPreth | [Read More](https://medium.com/p/e9665be17937) |
+| Wed, 06 Aug 2025 14:53:54 GMT | Cisco VPN Bug Bounty: Path Traversal and XSS via SAML Endpoint Exploitation | Aftab Raja | [Read More](https://medium.com/p/2b615249b31f) |
+| Wed, 06 Aug 2025 14:53:49 GMT | Bug Hunting 101: How to Find XSS in Unusual Places ️ | Vipul Sonule | [Read More](https://medium.com/p/08a132dac4c3) |
 | Wed, 06 Aug 2025 14:49:09 GMT | BSides Cheltenham 2025 — A cyber security event not to be missed! | Forrest Caffray | [Read More](https://medium.com/p/7cca0e2618da) |
 | Wed, 06 Aug 2025 14:47:37 GMT | Ethically Hack Human Mind — Social Engineering Fundamentals (FREE Course!) | yasinzoneofficiel | [Read More](https://medium.com/p/c610d793db96) |
 | Wed, 06 Aug 2025 14:41:48 GMT | Business Logic Flaw That No One Knows About ! | TSxNINJA | [Read More](https://medium.com/p/836859be1471) |
@@ -37,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 13:42:35 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Advice From a Fellow Learner | Abeera Mehtab | [Read More](https://medium.com/p/3570c5151eca) |
 | Wed, 06 Aug 2025 13:39:55 GMT | AI Security: Vulnerabilities and Defenses | Artificial Intelligence Details | [Read More](https://medium.com/p/96926ada46a2) |
 | Wed, 06 Aug 2025 13:36:43 GMT | Why Drosera Is a Needed Concept | CaspianXenon | [Read More](https://medium.com/p/93aae421d7b6) |
+| Wed, 06 Aug 2025 13:26:34 GMT | Kuruluşlar İçin Yapay Zeka’nın Eksik Dönemi #1: LLM Güvenliği | huseyingulsin | [Read More](https://medium.com/p/127fc0328bc9) |
 | Wed, 06 Aug 2025 13:24:21 GMT | Understanding Token-Based Authentication: Single vs. Dual Tokens | zzye | [Read More](https://medium.com/p/433718a8c43a) |
 | Wed, 06 Aug 2025 13:20:14 GMT | ️ From Enumeration to RCE: A Real-World Capture the Flag Experience | Samruth Sriram D | [Read More](https://medium.com/p/c573110bf091) |
 | Wed, 06 Aug 2025 13:18:27 GMT | Install Tools Cyberfox | Ginda Sundara | [Read More](https://medium.com/p/479f19eab224) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 10:34:28 GMT | Cybersecurity as a Service: What You’re Missing Could Cost You | SecureSlate | [Read More](https://medium.com/p/828546edf240) |
 | Wed, 06 Aug 2025 10:33:27 GMT | CVE-2025–5988: Ansible AAP Gateway Vulnerable to CSRF Attacks | CVEHUB | [Read More](https://medium.com/p/fb24839c109e) |
 | Wed, 06 Aug 2025 10:32:40 GMT | Semperis Releases New Service Account Protection in Directory Services Protector to Identify and… | SarahBark | [Read More](https://medium.com/p/ad5b21b9d319) |
-| Wed, 06 Aug 2025 10:31:54 GMT | CVE-2025–44955: RUCKUS Network Director Root Access via Hardcoded Password! | CVEHUB | [Read More](https://medium.com/p/b7a76545405c) |
-| Wed, 06 Aug 2025 10:29:02 GMT | LSware Security Solutions — SecuMS & Omniguard | Khairielputra | [Read More](https://medium.com/p/ab4b3c2de6ac) |
-| Wed, 06 Aug 2025 10:25:08 GMT | AI Spam Filters for Dummies: What Does “Spam” Even Mean? And What Does AI Have To Do With It? | İmge | [Read More](https://medium.com/p/9135aad3d860) |
-| Wed, 06 Aug 2025 10:20:09 GMT | JDK7: What Decompiling a Bank App Taught Me About App Security | Mr Programmer | [Read More](https://medium.com/p/ed9b51cc497c) |
-| Wed, 06 Aug 2025 10:20:03 GMT | Cetification | F4BLOX | [Read More](https://medium.com/p/82ef3eb11c17) |
-| Wed, 06 Aug 2025 10:17:17 GMT | Stop using assert in your Python code | Maikel Mardjan | [Read More](https://medium.com/p/0196318fa982) |
-| Wed, 06 Aug 2025 10:15:25 GMT | Shocking Impact of Not Having a Managed IT Provider | Sayema | [Read More](https://medium.com/p/a3ca9c579097) |
-| Wed, 06 Aug 2025 10:15:21 GMT | Why Cyber Governance Is Now Every Leader’s Responsibility | John Davies | [Read More](https://medium.com/p/b02edff56453) |
-| Wed, 06 Aug 2025 10:11:25 GMT | Unlock Burp Suite Pro on macOS for Free — Full Setup Guide (No Errors) | Amreal Abhishek | [Read More](https://medium.com/p/82f64eb09055) |
-| Wed, 06 Aug 2025 10:11:19 GMT | Blue Write-Up | Melih Eymen Bulut | [Read More](https://medium.com/p/6fffcb4efa97) |
-| Wed, 06 Aug 2025 10:11:01 GMT | From Fear to Confidence: My Journey Through Six Years of Blogging and Self-Discovery | Blogfessions of a Nomadic Spirit | [Read More](https://medium.com/p/a103b6afa94a) |
-| Wed, 06 Aug 2025 10:09:36 GMT | Train Your PHP to Auto-Label Malicious Payloads Without Machine Learning | Asian Digital Hub | [Read More](https://medium.com/p/2588e825951e) |
-| Wed, 06 Aug 2025 10:02:56 GMT | AI didn’t just simulate an attack — it planned and executed a real breach like a human hacker! | Harsh Panchal | [Read More](https://medium.com/p/19a15de8717c) |
-| Wed, 06 Aug 2025 10:01:59 GMT | [중소기업 기술보호 가이드 시리즈 2] ‘비밀관리성’을 위한 제도적 기반과 조직 체계 갖추기 by. 위즈노트에이아이 | 위즈노트위즈노트에이아이 | [Read More](https://medium.com/p/d9e1cf16ff0b) |
-| Wed, 06 Aug 2025 10:00:07 GMT | ️Walkthrough: HackTheBox Nibbles (Easy Linux Box) | Xyplex | [Read More](https://medium.com/p/37fe48e098f0) |
-| Wed, 06 Aug 2025 10:00:07 GMT | How we used AI to reduce testing costs and boost quality | Kiran Pannala | [Read More](https://medium.com/p/86d5408387dc) |
-| Wed, 06 Aug 2025 09:56:33 GMT | Becoming a Cloud Security Consultant What You Need to Know | Kartik Debnath | [Read More](https://medium.com/p/608b32f46175) |
-| Wed, 06 Aug 2025 09:52:52 GMT | The Help Desk Heist Hijacking Your Hypervisor | Aj | [Read More](https://medium.com/p/646857029910) |
-| Wed, 06 Aug 2025 09:43:40 GMT | Part 27: Miscellaneous & Advanced Flutter Exploits — From Stack Trace Leaks to Input Hijacking | Sumit Kumar | [Read More](https://medium.com/p/6ed1f435ec8a) |
