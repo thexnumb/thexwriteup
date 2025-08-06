@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 16:17:44 GMT | Bug Bounty Hunting — The Journey Begins | Horizon | [Read More](https://medium.com/p/29521aa7c72d) |
+| Wed, 06 Aug 2025 16:17:33 GMT | SKR CTF — Forget Password | CyberFaez | [Read More](https://medium.com/p/3236d68bad2c) |
+| Wed, 06 Aug 2025 16:16:54 GMT | The One Line of Code That Crashed My Startup | Scofield O. Idehen | [Read More](https://medium.com/p/819ed3dc6d1c) |
+| Wed, 06 Aug 2025 16:12:11 GMT | Getting the Trifecta (SecPlus What’s Next? | Josh Colpean | [Read More](https://medium.com/p/1cc7defbb55c) |
+| Wed, 06 Aug 2025 16:11:45 GMT | Designing Cloud-Native Security Architectures | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e597d05fe369) |
+| Wed, 06 Aug 2025 16:09:25 GMT | AI Powered Apps Deployed without any Authentication | AbhirupKonwar | [Read More](https://medium.com/p/b5d708836250) |
+| Wed, 06 Aug 2025 16:08:52 GMT | “Day 3: XSS Deep Dive — From Alert(1) to Account Takeovers” | Aman Sharma | [Read More](https://medium.com/p/cf422ec57def) |
+| Wed, 06 Aug 2025 16:06:32 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/3c53461b5690) |
+| Wed, 06 Aug 2025 16:00:30 GMT | In an increasingly digital world where cyber threats loom larger than ever, a new kind of hero has… | Asish S George | [Read More](https://medium.com/p/7a075b510308) |
+| Wed, 06 Aug 2025 16:00:26 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Introduction to Main Cybersecurity Domains | Abeera Mehtab | [Read More](https://medium.com/p/9ab0e85f5422) |
+| Wed, 06 Aug 2025 15:59:14 GMT | Be careful what you share with ChatGPT and other AI chatbots ⚠️ | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/6d080df5cdd2) |
+| Wed, 06 Aug 2025 15:58:52 GMT | Disaster Recovery in Cloud Computing: Everything You Should Know | Techridge Solutions | [Read More](https://medium.com/p/bab0be6e6b66) |
+| Wed, 06 Aug 2025 15:54:53 GMT | The Doctor Will See You Now. And So Will the Algorithm | PRASHANT KUMAR GIRI | [Read More](https://medium.com/p/b88d6ff9beb0) |
+| Wed, 06 Aug 2025 15:51:31 GMT | OpenVAS kompakt jetzt als Open Access erhält­lich | Holger Reibold | [Read More](https://medium.com/p/a3e1f65e8727) |
+| Wed, 06 Aug 2025 15:43:28 GMT | Quantum 102: Understanding Quantum Logic Gates Through a Beginner Project | Titiksha Agrawal | [Read More](https://medium.com/p/796ddbea0585) |
+| Wed, 06 Aug 2025 15:42:08 GMT | Understanding Browser Fingerprinting | Anirudh PV | [Read More](https://medium.com/p/c55b24c0e4fb) |
+| Wed, 06 Aug 2025 15:41:45 GMT | HostedAnyWhere Software Part-2 | Marwan NAEL | [Read More](https://medium.com/p/46444bc6a236) |
+| Wed, 06 Aug 2025 15:39:11 GMT | grief | Fallonbuchholz | [Read More](https://medium.com/p/570d3fa0f1b5) |
 | Wed, 06 Aug 2025 15:35:50 GMT | SPIFFE & SPIRE: Your Kubernetes Workloads’ Secret Identity Agency | Mohammed-Reda TARMIDI | [Read More](https://medium.com/p/0e8947437871) |
 | Wed, 06 Aug 2025 15:34:18 GMT | Mastering the ELK Stack: My Journey from Learner to Security Analyst | Ronak Joshi | [Read More](https://medium.com/p/44d7580b01f4) |
 | Wed, 06 Aug 2025 15:32:01 GMT | Web Requests 101: Understanding HTTP for Beginner Ethical Hackers | Mainekdeveloper | [Read More](https://medium.com/p/b08694c81e2a) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 12:01:55 GMT | Building an AI Stack for Threat Intelligence in Blue Team Operations (Part 2) | Wasitpon Sinthuphon | [Read More](https://medium.com/p/cb4722ce6a0c) |
 | Wed, 06 Aug 2025 12:01:53 GMT | TryHackMe — Splunk: Exploring SPL Walkthrough | Furkanctiner | [Read More](https://medium.com/p/47bfc559cd2e) |
 | Wed, 06 Aug 2025 12:01:00 GMT | Why invest in Hybrid SOC Services now? | Ziya Zoe | [Read More](https://medium.com/p/4c6f2646bad7) |
-| Wed, 06 Aug 2025 12:00:57 GMT | i liked you more than i was afraid of getting hurt | hea | [Read More](https://medium.com/p/f08e52564492) |
-| Wed, 06 Aug 2025 11:52:49 GMT | Unlock Growth with NetSuite License Pricing | Daman inoday | [Read More](https://medium.com/p/b50ed3bef004) |
-| Wed, 06 Aug 2025 11:50:34 GMT | Lock It Down — Password Hygiene and the Power of Multi-Factor Authentication (MFA) | Archana Reddy Mucha | [Read More](https://medium.com/p/8fea0e1c74c1) |
-| Wed, 06 Aug 2025 11:48:56 GMT | If You’re Looking for Reliable Penetration Testing, I Highly Recommend CyberNX | Pamarpooja | [Read More](https://medium.com/p/e451b204d7b3) |
-| Wed, 06 Aug 2025 11:33:48 GMT | Outsmarting the Hook — How to Defend Against Phishing and Social Engineering | Archana Reddy Mucha | [Read More](https://medium.com/p/07c500f19a23) |
-| Wed, 06 Aug 2025 11:33:45 GMT | Haven1 Web3’ün Geleceğini Şekillendiren Güvenli ve Kullanıcı Odaklı DeFi Ekosistemi | OomerBtc | [Read More](https://medium.com/p/4d1457bee855) |
-| Wed, 06 Aug 2025 11:25:56 GMT | Secure Coding Part 8 — Command Injection Attack: Python eval() | Siddiquimohammad | [Read More](https://medium.com/p/99c82eda5256) |
-| Wed, 06 Aug 2025 11:25:04 GMT | Dangerous ads, cryptojacking scripts, and deceptive popups aren’t just annoying — they’re among… | Psylinks Announce | [Read More](https://medium.com/p/918a6e02c0fa) |
-| Wed, 06 Aug 2025 11:24:59 GMT | # SAFETELEGRAMİN – Volunteer Team Shutting Down Illegal Telegram Channels (Led by XeereemX, Stopped… | XeereemX | [Read More](https://medium.com/p/2eda4f77bbb9) |
-| Wed, 06 Aug 2025 11:21:59 GMT | What a Firewall Missed And Why It Matters | Brittney Ginther | [Read More](https://medium.com/p/0c8454055526) |
-| Wed, 06 Aug 2025 11:19:43 GMT | It’s all about hacking being “Ethical” | Byitcnenyka | [Read More](https://medium.com/p/11e5081ac952) |
-| Wed, 06 Aug 2025 11:14:04 GMT | Nasdaq Index Tech Sector Update: Key Developments Across Software and Semiconductor Segments | Jacksmithjs | [Read More](https://medium.com/p/b30e963d9ee0) |
-| Wed, 06 Aug 2025 11:12:05 GMT | DockerLabs Writeup — Candy (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e10fc64bd69f) |
-| Wed, 06 Aug 2025 11:08:58 GMT | Nikto Tool with Kali Linux: The Web Hacker’s Secret Weapon | Shahzaib | [Read More](https://medium.com/p/965702a1d25e) |
-| Wed, 06 Aug 2025 11:06:40 GMT | The Future of Cybersecurity Insurance: New Requirements & Best Practices | Sennovate | [Read More](https://medium.com/p/6464f1551950) |
-| Wed, 06 Aug 2025 10:59:14 GMT | Unlock the Power of RHEL 10: Join Our Free Live Webinar with RHCA Shiv Hari | Anu.R | [Read More](https://medium.com/p/f906b4762367) |
-| Wed, 06 Aug 2025 10:55:38 GMT | Master Cloud Security Your Guide to the AWS Certified Security Specialty (SCS-C02) Certification | Mehmood Ali | [Read More](https://medium.com/p/a483e566c78a) |
-| Wed, 06 Aug 2025 10:52:59 GMT | Top 10 Industries Winning Big with Oracle Managed Services | Trajectus | [Read More](https://medium.com/p/a73b147c6d29) |
