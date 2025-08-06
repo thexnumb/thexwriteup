@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 17:20:13 GMT | 10 Seconds That Can End Your 20-Year Career in Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/2150e2ad7ae5) |
+| Wed, 06 Aug 2025 17:10:31 GMT | Ghosting the System: Staying Anonymous Under Mandatory Digital ID | T. J. Factura | [Read More](https://medium.com/p/cb0a7f589f17) |
+| Wed, 06 Aug 2025 17:02:43 GMT | Overflow Ops: The Complete Hands-On Guide ️ to Integer Exploits in Ethereum ⚙️ | vishhxyz | [Read More](https://medium.com/p/0fe262d5c2a4) |
+| Wed, 06 Aug 2025 17:01:59 GMT | fxdfgdgdrtg | Rominna Lochlynn | [Read More](https://medium.com/p/5e8abd938754) |
+| Wed, 06 Aug 2025 17:01:46 GMT | Growth Mindsets: Takeaways from InfoComm’s Education Sessions | Matt Pana | [Read More](https://medium.com/p/fc512af32789) |
+| Wed, 06 Aug 2025 16:58:59 GMT | Carnage — TryHackMe WriteUp | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/1eceb9963d3e) |
+| Wed, 06 Aug 2025 16:57:25 GMT | Hacking into a misconfigured Apache Tomcat webserver (and defending it later). | Felipe Jeske Turini | [Read More](https://medium.com/p/a373345956ee) |
+| Wed, 06 Aug 2025 16:53:39 GMT | Chronos | Chaitanyapatnana | [Read More](https://medium.com/p/2b62d383ee7d) |
+| Wed, 06 Aug 2025 16:50:15 GMT | The Day Networking Humbled the Kahoot Champions | Gitika Babbar | [Read More](https://medium.com/p/ae0f99d8bc12) |
+| Wed, 06 Aug 2025 16:49:34 GMT | ‘Day 2&3&4 Of 5000 Hour Hacker’ | Red-X | [Read More](https://medium.com/p/c95538328f51) |
+| Wed, 06 Aug 2025 16:49:03 GMT | IT Security. AI. Love it. | Mohammed Brückner | [Read More](https://medium.com/p/baf443c8255d) |
+| Wed, 06 Aug 2025 16:45:15 GMT | gfhft yht fuy tuytg ut | Jaide Amayrani | [Read More](https://medium.com/p/b73770bf89ce) |
+| Wed, 06 Aug 2025 16:42:52 GMT | dfgdrfryhftyrfy | Jaide Amayrani | [Read More](https://medium.com/p/bf6750c2ed07) |
+| Wed, 06 Aug 2025 16:37:58 GMT | Cyber Awareness Challenge 2025: Is Your Home PC Truly Safe? | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/0408e01a5311) |
+| Wed, 06 Aug 2025 16:37:41 GMT | DanaBot Lab(CyberDefenders) | Andry Maulana | [Read More](https://medium.com/p/f4bc28937426) |
+| Wed, 06 Aug 2025 16:36:51 GMT | Why More Accounting Teams Are Switching to CrowdStrike for Cybersecurity | OneUp Networks | [Read More](https://medium.com/p/597cdcfaabc3) |
+| Wed, 06 Aug 2025 16:30:11 GMT | I Craved Love and Got Silence Instead | Aj | [Read More](https://medium.com/p/c0f27ad1948a) |
+| Wed, 06 Aug 2025 16:27:42 GMT | Day 4: IDOR — How I Hacked a Dating App & Accessed Every User’s Private Data | Aman Sharma | [Read More](https://medium.com/p/b59a485f455f) |
+| Wed, 06 Aug 2025 16:25:06 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Cybersecurity Job Roles Breakdown | Abeera Mehtab | [Read More](https://medium.com/p/b02ab38b5c11) |
 | Wed, 06 Aug 2025 16:17:44 GMT | Bug Bounty Hunting — The Journey Begins | Horizon | [Read More](https://medium.com/p/29521aa7c72d) |
 | Wed, 06 Aug 2025 16:17:33 GMT | SKR CTF — Forget Password | CyberFaez | [Read More](https://medium.com/p/3236d68bad2c) |
 | Wed, 06 Aug 2025 16:16:54 GMT | The One Line of Code That Crashed My Startup | Scofield O. Idehen | [Read More](https://medium.com/p/819ed3dc6d1c) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 13:10:35 GMT | Key Features of Law №2024/017 (On Personal Data Protection in Cameroon) | Pollicy | [Read More](https://medium.com/p/5ee06f79dd1a) |
 | Wed, 06 Aug 2025 13:05:35 GMT | In Our Bubble | Isha | [Read More](https://medium.com/p/c04de994626e) |
 | Wed, 06 Aug 2025 13:02:09 GMT | Cybersecurity Questions I Asked Daycares When Deciding on Childcare Options | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/deb2b64d60f7) |
-| Wed, 06 Aug 2025 13:02:08 GMT | Mammoth Cyber Unveils Enterprise AI Browser at Black Hat USA 2025 | Mammoth Cyber | [Read More](https://medium.com/p/472b8d8dd5c3) |
-| Wed, 06 Aug 2025 13:01:27 GMT | I Found a $2,500 Security Flaw in 15 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/64550f55aaab) |
-| Wed, 06 Aug 2025 12:59:51 GMT | Safeguarding Industrial Control Systems: CISA Flags New Threats in Recent Advisories | Chetan Seripally | [Read More](https://medium.com/p/14ab10ac2a59) |
-| Wed, 06 Aug 2025 12:58:25 GMT | The all new Tokenize.it Wallet | Christoph Jentzsch | [Read More](https://medium.com/p/a2f9e81d3e30) |
-| Wed, 06 Aug 2025 12:51:17 GMT | TOP Gmail SCAM: Email Users, Be Aware of This Unsubscribe Trap! | Meow Lookout | [Read More](https://medium.com/p/7219f6178274) |
-| Wed, 06 Aug 2025 12:49:15 GMT | Weaponized LNK Files: The Full CryptoWall Ransomware Chain in a Shortcut | Yashvi Shah | [Read More](https://medium.com/p/00a0e13695e4) |
-| Wed, 06 Aug 2025 12:49:06 GMT | XLMRat Lab | Andry Maulana | [Read More](https://medium.com/p/73d892371943) |
-| Wed, 06 Aug 2025 12:48:37 GMT | Jenny Kyle Crypto Recove | Norman Meg | [Read More](https://medium.com/p/917ecc0cb965) |
-| Wed, 06 Aug 2025 12:47:57 GMT | Here’s How to Unblock Any Website in 2025 (Using a Cheap VPN That Actually Works) | Ech the Tech Fox | [Read More](https://medium.com/p/b74e8ef7121c) |
-| Wed, 06 Aug 2025 12:42:05 GMT | Saldırı ve Savunma Teknikleri: Siber Güvenlikte Red Team & Blue Team Yaklaşımı | FatihUYSAL | [Read More](https://medium.com/p/5dbce92417b4) |
-| Wed, 06 Aug 2025 12:36:31 GMT | How Content and Context Help Uncover Hidden Threats | Conceal, Inc. | [Read More](https://medium.com/p/d731ae840021) |
-| Wed, 06 Aug 2025 12:32:49 GMT | Cybersecurity at Scale: Safeguarding the Digital Core of Water and Power | David Johnson | [Read More](https://medium.com/p/0833abb7d476) |
-| Wed, 06 Aug 2025 12:32:16 GMT | Online Safety Act: Can it save kids or bury democracy? | Mary Carter | [Read More](https://medium.com/p/74ec59c73c1a) |
-| Wed, 06 Aug 2025 12:25:33 GMT | I Shared My Wi-Fi Password… And Regretted It | Aj | [Read More](https://medium.com/p/0be67814fcab) |
-| Wed, 06 Aug 2025 12:17:28 GMT | High-Frequency Sound Cannons: A New Non-Lethal Deterrent for Security | Julien Garnier | [Read More](https://medium.com/p/00e9851dfbfc) |
-| Wed, 06 Aug 2025 12:01:57 GMT | What I Learned from HTB’s Junior Cybersecurity Analyst Path | Jersey | [Read More](https://medium.com/p/a1804592bb7d) |
-| Wed, 06 Aug 2025 12:01:55 GMT | Building an AI Stack for Threat Intelligence in Blue Team Operations (Part 2) | Wasitpon Sinthuphon | [Read More](https://medium.com/p/cb4722ce6a0c) |
-| Wed, 06 Aug 2025 12:01:53 GMT | TryHackMe — Splunk: Exploring SPL Walkthrough | Furkanctiner | [Read More](https://medium.com/p/47bfc559cd2e) |
-| Wed, 06 Aug 2025 12:01:00 GMT | Why invest in Hybrid SOC Services now? | Ziya Zoe | [Read More](https://medium.com/p/4c6f2646bad7) |
