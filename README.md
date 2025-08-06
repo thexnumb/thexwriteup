@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 15:35:50 GMT | SPIFFE & SPIRE: Your Kubernetes Workloads’ Secret Identity Agency | Mohammed-Reda TARMIDI | [Read More](https://medium.com/p/0e8947437871) |
+| Wed, 06 Aug 2025 15:34:18 GMT | Mastering the ELK Stack: My Journey from Learner to Security Analyst | Ronak Joshi | [Read More](https://medium.com/p/44d7580b01f4) |
+| Wed, 06 Aug 2025 15:32:01 GMT | Web Requests 101: Understanding HTTP for Beginner Ethical Hackers | Mainekdeveloper | [Read More](https://medium.com/p/b08694c81e2a) |
+| Wed, 06 Aug 2025 15:31:55 GMT | Coding in the Age of Prompts | Aadarsh Shumsher Kunwar | [Read More](https://medium.com/p/c51b1ec8a9d8) |
+| Wed, 06 Aug 2025 15:30:20 GMT | How Platnova is Helping Users Stay One Step Ahead of Scammers | Platnova | [Read More](https://medium.com/p/d107b43fef2d) |
+| Wed, 06 Aug 2025 15:28:49 GMT | Guardians of the Grid: How Cyber Privilege is Fighting Modern Cybercrime | Vanirayala | [Read More](https://medium.com/p/5ad2a56cbe72) |
+| Wed, 06 Aug 2025 15:28:41 GMT | *Love, Silence, and the Courage to Be Genuine* | The W Way | [Read More](https://medium.com/p/4eea00d31ed4) |
+| Wed, 06 Aug 2025 15:27:43 GMT | TryHackMe - AllSignsPoint2Pwnage - WriteUp | Axoloth | [Read More](https://medium.com/p/4e6ba621e2f6) |
+| Wed, 06 Aug 2025 15:27:01 GMT | Florida Sues XVideos & Co. for Ditching Age Checks | Mary Carter | [Read More](https://medium.com/p/fe49d2d23107) |
+| Wed, 06 Aug 2025 15:25:46 GMT | Hybrid Cloud Management Solutions: Unlocking the Future of Scalable, Secure IT | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/06258808e4ce) |
+| Wed, 06 Aug 2025 15:24:41 GMT | What is at the heart of Shor’s algorithm? | Cesaire Njietche Fangang | [Read More](https://medium.com/p/6f0785f070c0) |
+| Wed, 06 Aug 2025 15:23:55 GMT | Internship in Cyber Privilege | Dosapati Jatha Sri Mahidhar | [Read More](https://medium.com/p/8f690a46004d) |
 | Wed, 06 Aug 2025 15:18:40 GMT | Google Cybersecurity Professional Certificate: Your Path to a Secure Future | Invest Learn Make | [Read More](https://medium.com/p/dcd8294f1d1a) |
 | Wed, 06 Aug 2025 15:17:02 GMT | Availability: The Hidden Hero of Seamless Customer Service | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/b9cb3d5ade03) |
 | Wed, 06 Aug 2025 15:11:59 GMT | SharePoint Breach July 2025: ToolShell Zero‑Day exploitHits On‑Prem Servers | Ved Trivedi | [Read More](https://medium.com/p/2f443f52ca74) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 10:59:14 GMT | Unlock the Power of RHEL 10: Join Our Free Live Webinar with RHCA Shiv Hari | Anu.R | [Read More](https://medium.com/p/f906b4762367) |
 | Wed, 06 Aug 2025 10:55:38 GMT | Master Cloud Security Your Guide to the AWS Certified Security Specialty (SCS-C02) Certification | Mehmood Ali | [Read More](https://medium.com/p/a483e566c78a) |
 | Wed, 06 Aug 2025 10:52:59 GMT | Top 10 Industries Winning Big with Oracle Managed Services | Trajectus | [Read More](https://medium.com/p/a73b147c6d29) |
-| Wed, 06 Aug 2025 10:49:18 GMT | My ADHD Thought of the Day | @iammrtownsend | [Read More](https://medium.com/p/65aadc8724d8) |
-| Wed, 06 Aug 2025 10:48:27 GMT | How I Hacked Premium Content Without Even Trying | Arai Santai | [Read More](https://medium.com/p/1fe714855afa) |
-| Wed, 06 Aug 2025 10:47:39 GMT | Firmware Dumping Techniques for STM32 Microcontrollers — Part 2 | Abdelwahed Baha | [Read More](https://medium.com/p/cde0209328f2) |
-| Wed, 06 Aug 2025 10:42:14 GMT | How to Track Unauthorized Software Installations (2025 Guide) | Hanee Raza | [Read More](https://medium.com/p/78cfea0ed3fe) |
-| Wed, 06 Aug 2025 10:42:02 GMT | What James Howells Taught Us about Crypto Security | Favour Bello | [Read More](https://medium.com/p/e4ef59fccfb5) |
-| Wed, 06 Aug 2025 10:41:40 GMT | How Dilmun ERP Enhances Data Security and Compliance | ELECTRONIC CLICKS | [Read More](https://medium.com/p/a855b970290c) |
-| Wed, 06 Aug 2025 10:41:37 GMT | How to Become a SOC Analyst With No Experience | Emuze Osaigbovo | [Read More](https://medium.com/p/8ea3dafb1043) |
-| Wed, 06 Aug 2025 10:36:21 GMT | ️ How SkyPtoP Ensures Safe Peer-to-Peer Deliveries: Behind the Scenes of Our Vetting Process | Rinat Kriukov | [Read More](https://medium.com/p/f33343a5fe9d) |
-| Wed, 06 Aug 2025 10:35:26 GMT | CVE-2025–8516: Path Traversal Vulnerability in Kingdee Cloud-Starry-Sky Enterprise Edition | CVEHUB | [Read More](https://medium.com/p/41a1b13eac41) |
-| Wed, 06 Aug 2025 10:34:28 GMT | Cybersecurity as a Service: What You’re Missing Could Cost You | SecureSlate | [Read More](https://medium.com/p/828546edf240) |
-| Wed, 06 Aug 2025 10:33:27 GMT | CVE-2025–5988: Ansible AAP Gateway Vulnerable to CSRF Attacks | CVEHUB | [Read More](https://medium.com/p/fb24839c109e) |
-| Wed, 06 Aug 2025 10:32:40 GMT | Semperis Releases New Service Account Protection in Directory Services Protector to Identify and… | SarahBark | [Read More](https://medium.com/p/ad5b21b9d319) |
