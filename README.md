@@ -12,10 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 07:42:03 GMT | Home Lab Chronicles: Part 06 — Setup of TheHive, MISP and Cortex | Suprim Devkota | [Read More](https://medium.com/p/97bc6bb3606e) |
+| Wed, 06 Aug 2025 07:39:02 GMT | Protokollere Fısıldamak-I: Active Directory Güvenliği: Bölüm-3 | Salih Doğan BÜLBÜL | [Read More](https://medium.com/p/44bdac25103a) |
+| Wed, 06 Aug 2025 07:34:33 GMT | Research Summary — Part One | YOUTH FOR CLIMATE | [Read More](https://medium.com/p/e3b645b1b4fe) |
+| Wed, 06 Aug 2025 07:34:10 GMT | How IP Intelligence Is Quietly Fighting Online Fraud | Fraudo.io | [Read More](https://medium.com/p/0ac563d24408) |
+| Wed, 06 Aug 2025 07:32:02 GMT | Complete AWS Security Course for IT and Cybersecurity Jobs | cyber security Updates | [Read More](https://medium.com/p/534cf8c64c4f) |
+| Wed, 06 Aug 2025 07:31:41 GMT | Let’sDefend Write-up: SOC166 — JavaScript Code Detected in Requested URL | Dipanshu Chhanikar | [Read More](https://medium.com/p/77fd1a3c2845) |
+| Wed, 06 Aug 2025 07:28:49 GMT | Top 10 Highest Paying Cyber Security Jobs | Manisha Chaudhary | [Read More](https://medium.com/p/25ee714b8ff3) |
+| Wed, 06 Aug 2025 07:28:31 GMT | Three Dots to Root: How I Found a Path Traversal in Microsoft’s Agentic Web — NLWeb | Aonan Guan | [Read More](https://medium.com/p/4e8d8f483327) |
 | Wed, 06 Aug 2025 07:23:57 GMT | ✅ General Steps to Claim a Fogo Airdrop (If Officially Announced): | Bitcoinpepe | [Read More](https://medium.com/p/de7119c70625) |
 | Wed, 06 Aug 2025 07:23:16 GMT | how you can claim $MBG token rewards in 2025 based on the latest official MultiBank Group programs: | Bitcoinpepe | [Read More](https://medium.com/p/0aacac8e6471) |
 | Wed, 06 Aug 2025 07:22:26 GMT | Looking for active domains to tackle bug bounties and pen-testing! | Advaniar | [Read More](https://medium.com/p/25bf65638b0e) |
 | Wed, 06 Aug 2025 07:22:06 GMT | The project’s roadmap indicates a dedicated airdrop coming in Q4 2025, but this will be directed at… | Bitcoinpepe | [Read More](https://medium.com/p/0a8a975db9c1) |
+| Wed, 06 Aug 2025 07:16:56 GMT | What to Look for in a Tech Partner Today in 2025? | Intuition Softech | [Read More](https://medium.com/p/d949297734bd) |
 | Wed, 06 Aug 2025 07:14:17 GMT | Wireshark: The Top Choice for Network Traffic Analysis | Serishahid | [Read More](https://medium.com/p/4c44df2abb00) |
 | Wed, 06 Aug 2025 07:13:46 GMT | Cybersecurity in 2025: 5 Predictions That Will Shape the Year Ahead | TheReviewHive | [Read More](https://medium.com/p/2290bdd5016b) |
 | Wed, 06 Aug 2025 07:10:37 GMT | SafeLine vs Reblaze: Smarter WAF for Modern Web Protection? | AerieWhole123 | [Read More](https://medium.com/p/ae90cb3fa778) |
@@ -104,12 +113,3 @@ A Wake-Up Call for the Crypto… | Dalvir | [Read More](https://medium.com/p/f1e
 | Wed, 06 Aug 2025 01:18:07 GMT | Passive Reconnaissance: TryHackMe | ShadowPacketRHR | [Read More](https://medium.com/p/4143d8489f9b) |
 | Wed, 06 Aug 2025 01:17:17 GMT | The Cyber Kill Chain Behind the PXA Stealer Attacks | Cyber-AppSec | [Read More](https://medium.com/p/d53fdb8a25d5) |
 | Wed, 06 Aug 2025 01:13:33 GMT | Best SEO Expert in Davie, Florida | Muhammad Roohullah | [Read More](https://medium.com/p/4fb61eb4bfeb) |
-| Wed, 06 Aug 2025 01:10:04 GMT | The Browser Is the New Battleground in Cybersecurity | Cyber-AppSec | [Read More](https://medium.com/p/4840760e3929) |
-| Wed, 06 Aug 2025 01:01:43 GMT | Peran Kunci Chief Information Security Officer… | Groupmediatraining | [Read More](https://medium.com/p/2833137587cf) |
-| Wed, 06 Aug 2025 00:57:37 GMT | The Ashley Madison Break | Marvion Criddle | [Read More](https://medium.com/p/66dd94db0a5d) |
-| Wed, 06 Aug 2025 00:42:41 GMT | What is Code Signing & Why It Matters for Modern Software Security | Sudhir Mohanty (Devops & Test Automation Engineer) | [Read More](https://medium.com/p/b992657e413e) |
-| Wed, 06 Aug 2025 00:33:37 GMT | Gaining Control: How I Learned to Hack Telnet on TryHackMe | JEONGYU NOH | [Read More](https://medium.com/p/8bbb0b0b8861) |
-| Wed, 06 Aug 2025 00:21:32 GMT | Automation vs. Accountability: Vibe Coding and the Tea Breach | Eric Vanderburg | [Read More](https://medium.com/p/bacc0d8d57c8) |
-| Wed, 06 Aug 2025 00:19:40 GMT | How Scrum Corrupted the Agile Revolution: The Tools of Looters in Tech | Leandro Costa de Oliveira | [Read More](https://medium.com/p/daad5a01f0f6) |
-| Wed, 06 Aug 2025 00:01:41 GMT | Security Logging and Monitoring Failures (OWASP A09): Complete Hacking and Bug Bounty Guide | JPablo13 | [Read More](https://medium.com/p/8533fa2d8c3d) |
-| Tue, 05 Aug 2025 23:55:44 GMT | AI Security: What is MCP Security & Why It Matters Now? | Rahul Bhichher | [Read More](https://medium.com/p/a0f76852fb7c) |
