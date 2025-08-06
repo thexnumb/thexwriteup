@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 23:35:11 GMT | Detecting Web Shells - Tryhackme | Aaron | [Read More](https://medium.com/p/fe948436aa87) |
+| Wed, 06 Aug 2025 23:33:20 GMT | Start Earning with BUG $BUG on StakingRewards | BUG | [Read More](https://medium.com/p/162801ddb582) |
+| Wed, 06 Aug 2025 23:29:07 GMT | Qualys Introduces Agentic AI | Raviteja Mureboina | [Read More](https://medium.com/p/3baea3d9e494) |
+| Wed, 06 Aug 2025 23:26:15 GMT | Pen Testing Your Mobile Application (and Its API) | Cyberoptic Security | [Read More](https://medium.com/p/8c0175ab7539) |
+| Wed, 06 Aug 2025 23:23:55 GMT | WordPress Exploit — Alemha Watermarker 1.3.1 (Stored XSS Vulnerability) Write Up | hazmatmonstarrr | [Read More](https://medium.com/p/505de4b71fb7) |
+| Wed, 06 Aug 2025 23:23:17 GMT | Mr. Robot CTF writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/195f67540a53) |
+| Wed, 06 Aug 2025 23:15:44 GMT | Testing out some PowerShell commands for exporting a readable Windows Update log, the current… | Tyrik Emptage | [Read More](https://medium.com/p/7f4813cd7235) |
 | Wed, 06 Aug 2025 23:11:42 GMT | Free Cybersecurity Roadmap for Beginners (2025) | Ghulam Mohiuddin | [Read More](https://medium.com/p/d9242d45f97c) |
 | Wed, 06 Aug 2025 23:10:15 GMT | I’m Not a Marketer — But This AI-Powered Growth System Helped Me Stop Winging It | AIAlchemist_Ab1r | [Read More](https://medium.com/p/bdc30866f916) |
 | Wed, 06 Aug 2025 23:07:10 GMT | CTF Day(47) | Ahmed Narmer | [Read More](https://medium.com/p/efe493fc5e12) |
@@ -106,10 +113,3 @@ Cybersecurity isn’t just about firewalls… | Murat Tarsuslu | [Read More](htt
 | Wed, 06 Aug 2025 16:58:59 GMT | Carnage — TryHackMe WriteUp | G3mini - Salvatore Gifuni | [Read More](https://medium.com/p/1eceb9963d3e) |
 | Wed, 06 Aug 2025 16:57:25 GMT | Hacking into a misconfigured Apache Tomcat webserver (and defending it later). | Felipe Jeske Turini | [Read More](https://medium.com/p/a373345956ee) |
 | Wed, 06 Aug 2025 16:53:39 GMT | Chronos | Chaitanyapatnana | [Read More](https://medium.com/p/2b62d383ee7d) |
-| Wed, 06 Aug 2025 16:50:15 GMT | The Day Networking Humbled the Kahoot Champions | Gitika Babbar | [Read More](https://medium.com/p/ae0f99d8bc12) |
-| Wed, 06 Aug 2025 16:49:34 GMT | ‘Day 2&3&4 Of 5000 Hour Hacker’ | Red-X | [Read More](https://medium.com/p/c95538328f51) |
-| Wed, 06 Aug 2025 16:49:03 GMT | IT Security. AI. Love it. | Mohammed Brückner | [Read More](https://medium.com/p/baf443c8255d) |
-| Wed, 06 Aug 2025 16:48:38 GMT | # Demystifying DNS Overrides: A Beginner’s Guide to How Hackers Access Internal Networks | Sameer Shah | [Read More](https://medium.com/p/02fb698228f8) |
-| Wed, 06 Aug 2025 16:45:15 GMT | gfhft yht fuy tuytg ut | Jaide Amayrani | [Read More](https://medium.com/p/b73770bf89ce) |
-| Wed, 06 Aug 2025 16:42:52 GMT | dfgdrfryhftyrfy | Jaide Amayrani | [Read More](https://medium.com/p/bf6750c2ed07) |
-| Wed, 06 Aug 2025 16:37:58 GMT | Cyber Awareness Challenge 2025: Is Your Home PC Truly Safe? | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/0408e01a5311) |
