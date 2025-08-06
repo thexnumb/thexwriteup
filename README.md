@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 03:37:18 GMT | Exploiting Cross-Site Scripting (XSS) to Steal Cookies — Takeover Using Cookie-Editor | Bash Overflow | [Read More](https://medium.com/p/abd98e0849d2) |
+| Wed, 06 Aug 2025 03:31:42 GMT | Darcula PhaaS: The AI-Powered Phishing Engine That Hijacked 884,000 Credit Cards | Deven Chhajed | [Read More](https://medium.com/p/6317b5f066ea) |
+| Wed, 06 Aug 2025 03:27:02 GMT | “Denied at the Gate”: A Traveler’s Nightmare | Garfield Wang’s Story | [Read More](https://medium.com/p/86e18d227b19) |
+| Wed, 06 Aug 2025 03:13:59 GMT | When Hope Reigns | NightFox | [Read More](https://medium.com/p/1eb0582993ae) |
+| Wed, 06 Aug 2025 03:10:35 GMT | Anomaly Detection 13 — Machine Learning for Anomaly Detection in Cybersecurity | Ayşe Kübra Kuyucu | [Read More](https://medium.com/p/65bc241466eb) |
+| Wed, 06 Aug 2025 03:10:31 GMT | Build a Facial Attendance System with FACEIO and Vanilla JavaScript | Pius Oruko | [Read More](https://medium.com/p/fcdb12647c36) |
+| Wed, 06 Aug 2025 03:06:05 GMT | iDocView RCE Vulnerability: How a Simple URL Leads to Remote Code Execution | Quella | [Read More](https://medium.com/p/0ab0cc3a25cb) |
+| Wed, 06 Aug 2025 02:54:14 GMT | Xbox Next-Gen Console Specs Confirmed - Bigger Than PS6? (2025 Leak Explained) | Digimad.online | [Read More](https://medium.com/p/2a0b49b6f0a9) |
+| Wed, 06 Aug 2025 02:31:26 GMT | Rules I Never Agreed To | Zulfa Laili | [Read More](https://medium.com/p/dedc207111fe) |
+| Wed, 06 Aug 2025 02:27:16 GMT | Update Urgently: New Android Patches Prevent Remote Access via Malicious Media | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/4a6a3d37ea96) |
+| Wed, 06 Aug 2025 02:19:50 GMT | Bảng báo giá thuê dịch vụ bảo vệ theo giờ chuyên nghiệp tại Hà Nội | DaiAnGroup | [Read More](https://medium.com/p/fd92fc16cb1f) |
+| Wed, 06 Aug 2025 02:17:00 GMT | News Update: Flight Disruption at Perth Airport Highlights Growing Concerns Over Aviation Security | Simon Kalipciyan | [Read More](https://medium.com/p/f1c1f7bbfce9) |
+| Wed, 06 Aug 2025 02:16:19 GMT | ChatGPT leaking your chats !!! | Darshan Naresh Naik | [Read More](https://medium.com/p/f77469f7e8a1) |
+| Wed, 06 Aug 2025 02:15:45 GMT | They Hacked Microsoft 365 Using FAKE Apps | Cyber-AppSec | [Read More](https://medium.com/p/b25c9bd74592) |
+| Wed, 06 Aug 2025 02:11:45 GMT | OAuth 2.1 Decoded: Understanding Every Complex Detail | Kunal Sinha | [Read More](https://medium.com/p/d55c7575071c) |
+| Wed, 06 Aug 2025 02:02:57 GMT | The AI-Generated Malware That Breached CI/CD Pipelines | Cyber-AppSec | [Read More](https://medium.com/p/a81958ebd377) |
+| Wed, 06 Aug 2025 02:02:40 GMT | AI Agent Security: Safeguarding Code Execution | Aryandokania | [Read More](https://medium.com/p/f058f8bf7dfc) |
+| Wed, 06 Aug 2025 02:01:20 GMT | Python: Cybersecurity’s Secret Weapon | Adityasharma008 | [Read More](https://medium.com/p/f0a57df28a8e) |
 | Wed, 06 Aug 2025 01:56:42 GMT | Brain Drain in Pakistan: Why Our Best Minds Leave — And How We Can Bring Them Back | Inayat Hussain | [Read More](https://medium.com/p/9cccfb0b9fb3) |
 | Wed, 06 Aug 2025 01:46:55 GMT | Dịch vụ bảo vệ ngân hàng uy tín — Đảm bảo an ninh tuyệt đối | DaiAnGroup | [Read More](https://medium.com/p/404caee6b58c) |
 | Wed, 06 Aug 2025 01:33:01 GMT | I Wrote One Middleware That Blocked 90% of Spam | Nikulsinh Rajput | [Read More](https://medium.com/p/b9929d171797) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 18:35:58 GMT | Securing AI Agent orchestration using the AI Agent Resource Registry | Valdez Ladd | [Read More](https://medium.com/p/5917de49ab20) |
 | Tue, 05 Aug 2025 18:31:41 GMT | How I Went from IT Support to Senior Pentester in Just 2 Years | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/7df8739f5f17) |
 | Tue, 05 Aug 2025 18:31:15 GMT | Remote Code Execution / Uzaktan Kod Yürütme Nedir? | Mustafa Şen | [Read More](https://medium.com/p/97fa03d7bf72) |
-| Tue, 05 Aug 2025 18:30:45 GMT | LazyOwn RedTeam Framework: How Open-Source Chaos Forces Blue Teams to Stay Sharp (and Sane) | Lazyown Redteam | [Read More](https://medium.com/p/5b927f32ff84) |
-| Tue, 05 Aug 2025 18:26:02 GMT | NIST SP 800–82r3, “Guide to Operational Technology (OT) Security, what the heck is it? | Jacob Vasquez | [Read More](https://medium.com/p/c34576b66216) |
-| Tue, 05 Aug 2025 18:22:47 GMT | Advanced Info-Stealer Targets 4,000+ IPs Worldwide | RealSec.io | [Read More](https://medium.com/p/76472da79886) |
-| Tue, 05 Aug 2025 18:22:38 GMT | Top Spy App Eyezy Review: Track Any Phone with Ease | Narjis Batool | [Read More](https://medium.com/p/2f4a0814715d) |
-| Tue, 05 Aug 2025 18:21:48 GMT | Ultimate Technical Breakdown of the MITRE Ecosystem | Shadow Packet | [Read More](https://medium.com/p/3aaf6e57322d) |
-| Tue, 05 Aug 2025 18:13:10 GMT | [Web Security Academy] — Server-Side Vulnerabilities / Access Control | Voltsec | [Read More](https://medium.com/p/906564782917) |
-| Tue, 05 Aug 2025 18:10:05 GMT | Top CCTV cameras for Home Solar, Wireless and Night Vision | Shujaaseo | [Read More](https://medium.com/p/fcc823b0a707) |
-| Tue, 05 Aug 2025 18:06:36 GMT | Evolving Strategies in the Information Market | Mike Ratcliffe | [Read More](https://medium.com/p/07e319e0f905) |
-| Tue, 05 Aug 2025 18:06:31 GMT | An Assessment of the Cyber Doctrines, Capabilities, and Strategic Cohesion of the BRICS Bloc Part 1 | Ali Gündoğar | [Read More](https://medium.com/p/bdccc0f29060) |
-| Tue, 05 Aug 2025 18:06:00 GMT | CTF Day(46) | Ahmed Narmer | [Read More](https://medium.com/p/10776d84ae32) |
-| Tue, 05 Aug 2025 18:02:06 GMT | Mobile Devices 1.2 Mobile Device Accessories | William Kunesh | [Read More](https://medium.com/p/abdb502e0988) |
-| Tue, 05 Aug 2025 18:00:52 GMT | Why You Should Add Air Gaps Before and After a CDR/XDR File Cleansing Server | Juda slomovich | [Read More](https://medium.com/p/069bd3d394a7) |
-| Tue, 05 Aug 2025 17:57:44 GMT | Why Russian Hackers Are the Most Dangerous in the World: History, Tactics & Infamous Attacks | Er Raj Aryan | [Read More](https://medium.com/p/1d4779ee10d8) |
-| Tue, 05 Aug 2025 17:53:09 GMT | The Human Firewall: Why Vishing is Cybersecurity’s Sneakiest Threat | Houssam LASFAR | [Read More](https://medium.com/p/62bff2fadf95) |
-| Tue, 05 Aug 2025 17:52:59 GMT | CTF Day(45) | Ahmed Narmer | [Read More](https://medium.com/p/b47df7665c0f) |
-| Tue, 05 Aug 2025 17:50:00 GMT | Cyber Security Policy: Establishing the Ground Rules | Cyber Security Research | [Read More](https://medium.com/p/6c8a34f78614) |
-| Tue, 05 Aug 2025 17:48:15 GMT | Cyber Security Best Practices: Proven Strategies for Success | Cyber Security Research | [Read More](https://medium.com/p/56f52df126aa) |
-| Tue, 05 Aug 2025 17:46:18 GMT | Cyber Security Trends: Adapting to the Evolving Landscape | Cyber Security Research | [Read More](https://medium.com/p/10caf72e7973) |
