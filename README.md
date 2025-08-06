@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 10:42:14 GMT | How to Track Unauthorized Software Installations (2025 Guide) | Hanee Raza | [Read More](https://medium.com/p/78cfea0ed3fe) |
+| Wed, 06 Aug 2025 10:41:40 GMT | How Dilmun ERP Enhances Data Security and Compliance | ELECTRONIC CLICKS | [Read More](https://medium.com/p/a855b970290c) |
+| Wed, 06 Aug 2025 10:41:37 GMT | How to Become a SOC Analyst With No Experience | Emuze Osaigbovo | [Read More](https://medium.com/p/8ea3dafb1043) |
+| Wed, 06 Aug 2025 10:36:21 GMT | ️ How SkyPtoP Ensures Safe Peer-to-Peer Deliveries: Behind the Scenes of Our Vetting Process | Rinat Kriukov | [Read More](https://medium.com/p/f33343a5fe9d) |
+| Wed, 06 Aug 2025 10:35:26 GMT | CVE-2025–8516: Path Traversal Vulnerability in Kingdee Cloud-Starry-Sky Enterprise Edition | CVEHUB | [Read More](https://medium.com/p/41a1b13eac41) |
+| Wed, 06 Aug 2025 10:34:28 GMT | Cybersecurity as a Service: What You’re Missing Could Cost You | SecureSlate | [Read More](https://medium.com/p/828546edf240) |
+| Wed, 06 Aug 2025 10:33:27 GMT | CVE-2025–5988: Ansible AAP Gateway Vulnerable to CSRF Attacks | CVEHUB | [Read More](https://medium.com/p/fb24839c109e) |
+| Wed, 06 Aug 2025 10:32:40 GMT | Semperis Releases New Service Account Protection in Directory Services Protector to Identify and… | SarahBark | [Read More](https://medium.com/p/ad5b21b9d319) |
+| Wed, 06 Aug 2025 10:31:54 GMT | CVE-2025–44955: RUCKUS Network Director Root Access via Hardcoded Password! | CVEHUB | [Read More](https://medium.com/p/b7a76545405c) |
+| Wed, 06 Aug 2025 10:29:02 GMT | LSware Security Solutions — SecuMS & Omniguard | Khairielputra | [Read More](https://medium.com/p/ab4b3c2de6ac) |
+| Wed, 06 Aug 2025 10:25:08 GMT | AI Spam Filters for Dummies: What Does “Spam” Even Mean? And What Does AI Have To Do With It? | İmge | [Read More](https://medium.com/p/9135aad3d860) |
+| Wed, 06 Aug 2025 10:20:09 GMT | JDK7: What Decompiling a Bank App Taught Me About App Security | Mr Programmer | [Read More](https://medium.com/p/ed9b51cc497c) |
 | Wed, 06 Aug 2025 10:17:17 GMT | Stop using assert in your Python code | Maikel Mardjan | [Read More](https://medium.com/p/0196318fa982) |
+| Wed, 06 Aug 2025 10:15:25 GMT | Shocking Impact of Not Having a Managed IT Provider | Sayema | [Read More](https://medium.com/p/a3ca9c579097) |
 | Wed, 06 Aug 2025 10:15:21 GMT | Why Cyber Governance Is Now Every Leader’s Responsibility | John Davies | [Read More](https://medium.com/p/b02edff56453) |
 | Wed, 06 Aug 2025 10:11:25 GMT | Unlock Burp Suite Pro on macOS for Free — Full Setup Guide (No Errors) | Amreal Abhishek | [Read More](https://medium.com/p/82f64eb09055) |
 | Wed, 06 Aug 2025 10:11:19 GMT | Blue Write-Up | Melih Eymen Bulut | [Read More](https://medium.com/p/6fffcb4efa97) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 06:57:03 GMT | Catatan Belajar: OSINT Collection Methods: Target Domain Name Information | ki.a | [Read More](https://medium.com/p/0a737306e228) |
 | Wed, 06 Aug 2025 06:56:07 GMT | Catatan Belajar: OSINT in Penetration Testing | ki.a | [Read More](https://medium.com/p/b9ce3c20c1d0) |
 | Wed, 06 Aug 2025 06:52:26 GMT | Java’s Best Kept Secrets: Hidden Tips That Will Make Your Code Less Embarrassing (And Maybe Even… | Sumant Khapre | [Read More](https://medium.com/p/f4cc44b1c837) |
-| Wed, 06 Aug 2025 06:47:58 GMT | How Event Security Teams Keep Crowds Safe Without Killing The Vibe | GPS Security Group Inc | [Read More](https://medium.com/p/0175afd9e728) |
-| Wed, 06 Aug 2025 06:47:55 GMT | What is Ethical Hacking? | Shilpa Digitalpro | [Read More](https://medium.com/p/2ce3a14966a3) |
-| Wed, 06 Aug 2025 06:45:57 GMT | BREAKMYSSH | Enoch Root | [Read More](https://medium.com/p/13bec2e2bbc0) |
-| Wed, 06 Aug 2025 06:45:47 GMT | How to Choose an HCIS-Approved Security Company in Saudi Arabia | Zenecaastra | [Read More](https://medium.com/p/3e2fb1b08aa1) |
-| Wed, 06 Aug 2025 06:45:27 GMT | The Psychology of Bug Reports: Writing Issues That Developers Don’t Hate | Mario Frohlich | [Read More](https://medium.com/p/a3f7f7fa42e4) |
-| Wed, 06 Aug 2025 06:41:29 GMT | Zip Me In: How I Used Archive Bombs and Zip Slip to Write Anywhere | Iski | [Read More](https://medium.com/p/4032dda9c04f) |
-| Wed, 06 Aug 2025 06:30:53 GMT | The Best Crypto Hardware Wallet to Buy in 2025: Digital Shield — Redefining the Boundaries of… | Digital Shield Offcial | [Read More](https://medium.com/p/d410ff5bd68f) |
-| Wed, 06 Aug 2025 06:30:18 GMT | OAuth Confusion: How One Misconfigured Login Could Cost You Everything | Shatrughan | [Read More](https://medium.com/p/37aa1a0301e6) |
-| Wed, 06 Aug 2025 06:27:00 GMT | Process Mining: Unlocking the Hidden Workflows in Your Business | Gauri Kale | [Read More](https://medium.com/p/766afcd52087) |
-| Wed, 06 Aug 2025 06:25:39 GMT | Expert Lecture 2 Journal: Security Vulnerability Assessment & Governance Solution | Brisbane Jovan Rivaldi Sihombing | [Read More](https://medium.com/p/a8d73c03a3a1) |
-| Wed, 06 Aug 2025 06:24:47 GMT | “Re Vault” Exposed: Millions of Dell Laptops Vulnerable to Takeover and Persistent Malware Attacks | Tarush Sharma | [Read More](https://medium.com/p/e07ebbdac5fb) |
-| Wed, 06 Aug 2025 06:21:39 GMT | How to Safely Store Your Web3 Assets: Try Digital Shield Hardware Wallet | Digital Shield | [Read More](https://medium.com/p/a328616d6f97) |
-| Wed, 06 Aug 2025 06:20:01 GMT | Blind SQL Injection Found! In Tirreno : Security Analytics | CyberDucky | [Read More](https://medium.com/p/cbd791cec1c0) |
