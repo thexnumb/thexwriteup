@@ -12,8 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 07:23:57 GMT | ✅ General Steps to Claim a Fogo Airdrop (If Officially Announced): | Bitcoinpepe | [Read More](https://medium.com/p/de7119c70625) |
+| Wed, 06 Aug 2025 07:23:16 GMT | how you can claim $MBG token rewards in 2025 based on the latest official MultiBank Group programs: | Bitcoinpepe | [Read More](https://medium.com/p/0aacac8e6471) |
+| Wed, 06 Aug 2025 07:22:26 GMT | Looking for active domains to tackle bug bounties and pen-testing! | Advaniar | [Read More](https://medium.com/p/25bf65638b0e) |
+| Wed, 06 Aug 2025 07:22:06 GMT | The project’s roadmap indicates a dedicated airdrop coming in Q4 2025, but this will be directed at… | Bitcoinpepe | [Read More](https://medium.com/p/0a8a975db9c1) |
+| Wed, 06 Aug 2025 07:14:17 GMT | Wireshark: The Top Choice for Network Traffic Analysis | Serishahid | [Read More](https://medium.com/p/4c44df2abb00) |
+| Wed, 06 Aug 2025 07:13:46 GMT | Cybersecurity in 2025: 5 Predictions That Will Shape the Year Ahead | TheReviewHive | [Read More](https://medium.com/p/2290bdd5016b) |
+| Wed, 06 Aug 2025 07:10:37 GMT | SafeLine vs Reblaze: Smarter WAF for Modern Web Protection? | AerieWhole123 | [Read More](https://medium.com/p/ae90cb3fa778) |
+| Wed, 06 Aug 2025 07:04:50 GMT | CCTV Camera Solutions in Dubai | Cost To Cost | [Read More](https://medium.com/p/48f1fc20823f) |
+| Wed, 06 Aug 2025 07:00:08 GMT | The Fragility of the Cloud: Lessons from Recent Data Loss Incidents with OneDrive and AWS | MyOwnSys | [Read More](https://medium.com/p/52491cd596b5) |
+| Wed, 06 Aug 2025 06:58:54 GMT | Cyber Security Training in Kochi: What You Need to Know | bushaira bk | [Read More](https://medium.com/p/234b246d25d6) |
+| Wed, 06 Aug 2025 06:57:03 GMT | Catatan Belajar: OSINT Collection Methods: Target Domain Name Information | ki.a | [Read More](https://medium.com/p/0a737306e228) |
+| Wed, 06 Aug 2025 06:56:07 GMT | Catatan Belajar: OSINT in Penetration Testing | ki.a | [Read More](https://medium.com/p/b9ce3c20c1d0) |
+| Wed, 06 Aug 2025 06:52:26 GMT | Java’s Best Kept Secrets: Hidden Tips That Will Make Your Code Less Embarrassing (And Maybe Even… | Sumant Khapre | [Read More](https://medium.com/p/f4cc44b1c837) |
+| Wed, 06 Aug 2025 06:47:58 GMT | How Event Security Teams Keep Crowds Safe Without Killing The Vibe | GPS Security Group Inc | [Read More](https://medium.com/p/0175afd9e728) |
+| Wed, 06 Aug 2025 06:47:55 GMT | What is Ethical Hacking? | Shilpa Digitalpro | [Read More](https://medium.com/p/2ce3a14966a3) |
+| Wed, 06 Aug 2025 06:45:57 GMT | BREAKMYSSH | Enoch Root | [Read More](https://medium.com/p/13bec2e2bbc0) |
+| Wed, 06 Aug 2025 06:45:47 GMT | How to Choose an HCIS-Approved Security Company in Saudi Arabia | Zenecaastra | [Read More](https://medium.com/p/3e2fb1b08aa1) |
+| Wed, 06 Aug 2025 06:45:27 GMT | The Psychology of Bug Reports: Writing Issues That Developers Don’t Hate | Mario Frohlich | [Read More](https://medium.com/p/a3f7f7fa42e4) |
+| Wed, 06 Aug 2025 06:41:29 GMT | Zip Me In: How I Used Archive Bombs and Zip Slip to Write Anywhere | Iski | [Read More](https://medium.com/p/4032dda9c04f) |
 | Wed, 06 Aug 2025 06:30:53 GMT | The Best Crypto Hardware Wallet to Buy in 2025: Digital Shield — Redefining the Boundaries of… | Digital Shield Offcial | [Read More](https://medium.com/p/d410ff5bd68f) |
 | Wed, 06 Aug 2025 06:30:18 GMT | OAuth Confusion: How One Misconfigured Login Could Cost You Everything | Shatrughan | [Read More](https://medium.com/p/37aa1a0301e6) |
+| Wed, 06 Aug 2025 06:27:00 GMT | Process Mining: Unlocking the Hidden Workflows in Your Business | Gauri Kale | [Read More](https://medium.com/p/766afcd52087) |
 | Wed, 06 Aug 2025 06:25:39 GMT | Expert Lecture 2 Journal: Security Vulnerability Assessment & Governance Solution | Brisbane Jovan Rivaldi Sihombing | [Read More](https://medium.com/p/a8d73c03a3a1) |
 | Wed, 06 Aug 2025 06:24:47 GMT | “Re Vault” Exposed: Millions of Dell Laptops Vulnerable to Takeover and Persistent Malware Attacks | Tarush Sharma | [Read More](https://medium.com/p/e07ebbdac5fb) |
 | Wed, 06 Aug 2025 06:21:39 GMT | How to Safely Store Your Web3 Assets: Try Digital Shield Hardware Wallet | Digital Shield | [Read More](https://medium.com/p/a328616d6f97) |
@@ -93,23 +113,3 @@ A Wake-Up Call for the Crypto… | Dalvir | [Read More](https://medium.com/p/f1e
 | Wed, 06 Aug 2025 00:19:40 GMT | How Scrum Corrupted the Agile Revolution: The Tools of Looters in Tech | Leandro Costa de Oliveira | [Read More](https://medium.com/p/daad5a01f0f6) |
 | Wed, 06 Aug 2025 00:01:41 GMT | Security Logging and Monitoring Failures (OWASP A09): Complete Hacking and Bug Bounty Guide | JPablo13 | [Read More](https://medium.com/p/8533fa2d8c3d) |
 | Tue, 05 Aug 2025 23:55:44 GMT | AI Security: What is MCP Security & Why It Matters Now? | Rahul Bhichher | [Read More](https://medium.com/p/a0f76852fb7c) |
-| Tue, 05 Aug 2025 23:54:47 GMT | JavaScript Protocol and XSS: Modern Defence Strategies | Deep Singh | [Read More](https://medium.com/p/3b58b1e13606) |
-| Tue, 05 Aug 2025 23:48:03 GMT | The “Layered Instinct” Method: Why Most Cybersecurity Strategies Fail Before the First Alert | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/96fa7f16147f) |
-| Tue, 05 Aug 2025 23:34:01 GMT | New in the Loop with AI Pentesting | Daniel Knight | [Read More](https://medium.com/p/11639337c274) |
-| Tue, 05 Aug 2025 23:17:23 GMT | This One Network Mistake Could Let Hackers Spy on Everything You Do Online | Cyber-AppSec | [Read More](https://medium.com/p/b1a35ea99b67) |
-| Tue, 05 Aug 2025 23:07:15 GMT | Beyond the Lightbulb (and Other Household Hazards): Crafting a Product Strategy That Doesn’t Flop | Somaditya Roy | [Read More](https://medium.com/p/64669c950663) |
-| Tue, 05 Aug 2025 22:47:18 GMT | Hackviser — Roundcube ≤ 1.6.10 | Dogukan İSPİRLİ | [Read More](https://medium.com/p/4fdaee448270) |
-| Tue, 05 Aug 2025 22:39:39 GMT | Preliminary data show rebound in homicides in 2024 | jak | [Read More](https://medium.com/p/5f4866e25e2f) |
-| Tue, 05 Aug 2025 22:33:29 GMT | How I Discovered a Critical OTP Rate Limiting Vulnerability on a Bug Bounty Program | Lime | [Read More](https://medium.com/p/e8386e857579) |
-| Tue, 05 Aug 2025 22:16:31 GMT | Dark Web Websites: What They Are and Why People Visit Them | SafeAeon Inc. | [Read More](https://medium.com/p/2330bbd066d8) |
-| Tue, 05 Aug 2025 21:50:01 GMT | Cyber colleagues, join over 932k+ online students enrolled in the “Google Cybersecurity… | Franklin Rhodes | [Read More](https://medium.com/p/52699e816252) |
-| Tue, 05 Aug 2025 21:49:35 GMT | When the Price Goes Wrong: $9K from 2 Price Manipulation | Ay0ub N0uri | [Read More](https://medium.com/p/343b839bd522) |
-| Tue, 05 Aug 2025 21:48:17 GMT | Brim | Isiah | [Read More](https://medium.com/p/f334d50d4763) |
-| Tue, 05 Aug 2025 21:44:34 GMT | Trying to be everything — And not fall apart. | Ashes & Honey | [Read More](https://medium.com/p/1659775f4dfb) |
-| Tue, 05 Aug 2025 21:36:16 GMT | Why Are Developers So Incompetent When It Comes To Security? | Andrew Zuo | [Read More](https://medium.com/p/501f0605c3fe) |
-| Tue, 05 Aug 2025 21:31:32 GMT | 3 Reasons Chicago Businesses Are Installing Bollards | Carmen Lopez | [Read More](https://medium.com/p/9d973db4e266) |
-| Tue, 05 Aug 2025 21:27:51 GMT | Shocking Android App Vulnerabilities: Here’s the Free Tool Hackers Don’t Want You to Find! | cybrNK | [Read More](https://medium.com/p/6e48a39ff580) |
-| Tue, 05 Aug 2025 21:17:37 GMT | Cyber Security Authorization: Granting Access Privileges | Cyber Security Research | [Read More](https://medium.com/p/e8cfec80b72b) |
-| Tue, 05 Aug 2025 21:15:44 GMT | Cyber Security Authentication: Verifying User Identities | Cyber Security Research | [Read More](https://medium.com/p/4e36b2b9488f) |
-| Tue, 05 Aug 2025 21:13:53 GMT | Cyber Security Encryption: Securing Data in Transit and at Rest | Cyber Security Research | [Read More](https://medium.com/p/e5a9dbd76f50) |
-| Tue, 05 Aug 2025 21:11:53 GMT | Cyber Security Privacy: Protecting Sensitive Information | Cyber Security Research | [Read More](https://medium.com/p/b26946289af5) |
