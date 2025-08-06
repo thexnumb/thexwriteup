@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 20:41:15 GMT | Zoth, FortuneWheel, and Sorra Finance Exploited for $347K via LTV Mismatch, Unprotected Swaps, and… | Olympix | [Read More](https://medium.com/p/5fd8ea76a914) |
+| Wed, 06 Aug 2025 20:37:55 GMT | Quest | Norman Meg | [Read More](https://medium.com/p/5029e63be157) |
+| Wed, 06 Aug 2025 20:36:59 GMT | How to Discover Plain-Text Credentials Before Attackers Turn Them Against You | Alexandre Vandamme | [Read More](https://medium.com/p/e09b11085516) |
+| Wed, 06 Aug 2025 20:32:41 GMT | Wedding Website Privacy in 2025: How to Keep Your Info Secure | Lucian Olosutean | [Read More](https://medium.com/p/28620d009c66) |
 | Wed, 06 Aug 2025 20:21:55 GMT | Why the United Nations Needs Real Reform | samayxpatel | [Read More](https://medium.com/p/0e91b357650d) |
 | Wed, 06 Aug 2025 20:19:12 GMT | How AI Is Getting Adopted in Organizations (Spoiler: Not Like the Movies) | Sandeep Singh | [Read More](https://medium.com/p/67b387f56cc6) |
 | Wed, 06 Aug 2025 20:15:45 GMT | Snort Room Deep-Dive: From Raw Packets to the Top of the Leaderboard | Reda  kiker | [Read More](https://medium.com/p/06a25ff9a746) |
@@ -109,7 +113,3 @@ Cybersecurity isn’t just about firewalls… | Murat Tarsuslu | [Read More](htt
 | Wed, 06 Aug 2025 15:42:08 GMT | Understanding Browser Fingerprinting | Anirudh PV | [Read More](https://medium.com/p/c55b24c0e4fb) |
 | Wed, 06 Aug 2025 15:41:45 GMT | HostedAnyWhere Software Part-2 | Marwan NAEL | [Read More](https://medium.com/p/46444bc6a236) |
 | Wed, 06 Aug 2025 15:39:11 GMT | grief | Fallonbuchholz | [Read More](https://medium.com/p/570d3fa0f1b5) |
-| Wed, 06 Aug 2025 15:35:50 GMT | SPIFFE & SPIRE: Your Kubernetes Workloads’ Secret Identity Agency | Mohammed-Reda TARMIDI | [Read More](https://medium.com/p/0e8947437871) |
-| Wed, 06 Aug 2025 15:34:18 GMT | Mastering the ELK Stack: My Journey from Learner to Security Analyst | Ronak Joshi | [Read More](https://medium.com/p/44d7580b01f4) |
-| Wed, 06 Aug 2025 15:32:01 GMT | Web Requests 101: Understanding HTTP for Beginner Ethical Hackers | Mainekdeveloper | [Read More](https://medium.com/p/b08694c81e2a) |
-| Wed, 06 Aug 2025 15:31:55 GMT | Coding in the Age of Prompts | Aadarsh Shumsher Kunwar | [Read More](https://medium.com/p/c51b1ec8a9d8) |
