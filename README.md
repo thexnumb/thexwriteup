@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 05:29:36 GMT | “404 + JS + GitHub = A Triple Threat Attack Surface” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/82775003f078) |
+| Wed, 06 Aug 2025 05:23:42 GMT | Supervised, Unsupervised, and Reinforcement Learning Models | Jeeva Selvaraju | [Read More](https://medium.com/p/46958a928c1b) |
+| Wed, 06 Aug 2025 05:19:29 GMT | Art and IT: Holding on to humanity in a world of machines | Buddhika Jayawardena | [Read More](https://medium.com/p/3a291f5fcb30) |
+| Wed, 06 Aug 2025 05:09:48 GMT | Library vs Mobile: Changing Information-Seeking behaviors. | GRANTHALAYA108 | [Read More](https://medium.com/p/6efa8f34a56b) |
+| Wed, 06 Aug 2025 05:09:13 GMT | How U.S. Military Veterans Can Launch a Cybersecurity Career with EC‑Council University | Shreyashettyctr | [Read More](https://medium.com/p/bce6f651010d) |
+| Wed, 06 Aug 2025 05:07:40 GMT | 404 Isn’t Always Safe: How “Helpful” Error Pages Leak Real Secrets | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b6996f0283a3) |
+| Wed, 06 Aug 2025 05:05:35 GMT | How I Learned SQLi and XSS the Hard Way | Karan | [Read More](https://medium.com/p/74c95eb99253) |
+| Wed, 06 Aug 2025 05:02:16 GMT | Day 23- Installation and Configuration in Cybersecurity for beginners | unica 02 | [Read More](https://medium.com/p/29c2b164c61c) |
+| Wed, 06 Aug 2025 05:01:47 GMT | WANNACRY? I CRIED TOO … THE MAN WHO SAVED THE INTERNET, THEN GOT ARRESTED | Kotedjo Manahoih | [Read More](https://medium.com/p/a6e01067f556) |
+| Wed, 06 Aug 2025 04:56:43 GMT | Launch Your Cybersecurity Career with GI Bill® Benefits at EC-Council University | Shreyashettyctr | [Read More](https://medium.com/p/eacdaf00001d) |
+| Wed, 06 Aug 2025 04:53:11 GMT | Why Teach Engineering If AI Is Taking Over? | Dr. Alok Pratap | [Read More](https://medium.com/p/7b805450e56f) |
+| Wed, 06 Aug 2025 04:49:11 GMT | Google AI Mode Boosts Smart Tracking in 2025 | Priyaa Patel | [Read More](https://medium.com/p/d6164bcdd9d5) |
+| Wed, 06 Aug 2025 04:44:54 GMT | A Beginner’s Guide to Algorithms and Machine Learning: Concepts and Types | Jeeva Selvaraju | [Read More](https://medium.com/p/90c0550cb325) |
 | Wed, 06 Aug 2025 04:36:01 GMT | Security Vulnerabilities in PHP, Apache, and NPM — Detection and Prevention Guide | Mubbasher Ahmed | [Read More](https://medium.com/p/d3497205a5cf) |
 | Wed, 06 Aug 2025 04:30:00 GMT | Master Cyber Security with a Course in Kochi | bushaira bk | [Read More](https://medium.com/p/2e8b8f9bb865) |
 | Wed, 06 Aug 2025 04:25:36 GMT | Crypto Under Siege: Security Breaches and Fraud Shake the Market
@@ -100,16 +113,3 @@ A Wake-Up Call for the Crypto… | Dalvir | [Read More](https://medium.com/p/f1e
 | Tue, 05 Aug 2025 19:54:59 GMT | Cybersecurity Leadership in a Dangerous World with Bob Zinga | Matthew.Rosenquist | [Read More](https://medium.com/p/3e9dec9ccaeb) |
 | Tue, 05 Aug 2025 19:51:58 GMT | How criminals test each SMS message on their own phone first to confirm it will reach yours | Paul Walsh | [Read More](https://medium.com/p/f23aa0ae982c) |
 | Tue, 05 Aug 2025 19:49:31 GMT | America’s AI Action Plan | Andrew Kagan | [Read More](https://medium.com/p/5f1bd400535f) |
-| Tue, 05 Aug 2025 19:46:37 GMT | Why Python Is Crucial for Cybersecurity Today | The Analytics Edge | [Read More](https://medium.com/p/141969394868) |
-| Tue, 05 Aug 2025 19:43:37 GMT | Building an Automated RDP Brute Force Detection and Response Workflow with Shuffler | Mohamed Ali Zehri | [Read More](https://medium.com/p/9748bdb84d82) |
-| Tue, 05 Aug 2025 19:38:54 GMT | Penetration Testing Process | Mena George | [Read More](https://medium.com/p/7e2a1df5c41a) |
-| Tue, 05 Aug 2025 19:37:50 GMT | Varonis and Microsoft: Securing AI’s Future with Data Protection | Andrew Kagan | [Read More](https://medium.com/p/5b6f8cb4c608) |
-| Tue, 05 Aug 2025 19:35:05 GMT | Why You Should Add Air Gaps Before and After a CDR/XDR File Cleansing Server | Juda slomovich | [Read More](https://medium.com/p/0485144f095c) |
-| Tue, 05 Aug 2025 19:33:59 GMT | EXP-401 OSEE Review — Offensive Security Exploitation Expert | Jake Mayhew | [Read More](https://medium.com/p/508f3357851d) |
-| Tue, 05 Aug 2025 19:32:05 GMT | We trust. We get hurt. And then we trust again. | Hitesh Singh | [Read More](https://medium.com/p/6cb17d32857b) |
-| Tue, 05 Aug 2025 19:26:07 GMT | Introducción a Linux — Parte 3: Primeros Comandos y Estructura del Sistema | Zeyled Nazey | [Read More](https://medium.com/p/0f69f593bb08) |
-| Tue, 05 Aug 2025 19:20:02 GMT | Who Needs to Comply with EN 18031 Cybersecurity Standards? | Simon Stampfl | [Read More](https://medium.com/p/871d85211ee3) |
-| Tue, 05 Aug 2025 19:19:45 GMT | One Character, One Flaw: Why & sleep 5 # Works But & sleep 5 Doesn’t | Siddiquimohammad | [Read More](https://medium.com/p/f001a4708370) |
-| Tue, 05 Aug 2025 19:14:06 GMT | When Bad Data Becomes the Real Threat: The Dark Trick Behind Poisoned Intel | Akshay Chauhan | [Read More](https://medium.com/p/581d8940bfbe) |
-| Tue, 05 Aug 2025 19:13:11 GMT | Famous Breaches from the 90s You’ve Never Heard Of | Berk Yanadur | [Read More](https://medium.com/p/54608297068a) |
-| Tue, 05 Aug 2025 19:11:04 GMT | How Cybersecurity Services Safeguard Small Businesses in 2025 | Startupvisors | [Read More](https://medium.com/p/b87d7015a8ed) |
