@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 14:49:09 GMT | BSides Cheltenham 2025 — A cyber security event not to be missed! | Forrest Caffray | [Read More](https://medium.com/p/7cca0e2618da) |
+| Wed, 06 Aug 2025 14:47:37 GMT | Ethically Hack Human Mind — Social Engineering Fundamentals (FREE Course!) | yasinzoneofficiel | [Read More](https://medium.com/p/c610d793db96) |
+| Wed, 06 Aug 2025 14:41:48 GMT | Business Logic Flaw That No One Knows About ! | TSxNINJA | [Read More](https://medium.com/p/836859be1471) |
+| Wed, 06 Aug 2025 14:40:25 GMT | OSCP Exam Success: 5 Must-Know Commands and Tools Every Pentester Should Master | Anezaneo | [Read More](https://medium.com/p/c65523e38cc1) |
+| Wed, 06 Aug 2025 14:38:59 GMT | ELK Stack SIEM Setup & Investigation | whoami | [Read More](https://medium.com/p/25053c853516) |
+| Wed, 06 Aug 2025 14:38:32 GMT | Buffer Overflow Exploits: A Developer’s Nightmare | Aj | [Read More](https://medium.com/p/f4f70e88fe9a) |
 | Wed, 06 Aug 2025 14:17:51 GMT | 5 Things My Cyber Forensics Internship Taught Me That University Didn’t | Jaikrishnavanthala | [Read More](https://medium.com/p/92ba0f56584e) |
 | Wed, 06 Aug 2025 14:11:47 GMT | Bounty - HTB Writeup - Windows | Antonio Perez | [Read More](https://medium.com/p/cf2eb611ab01) |
 | Wed, 06 Aug 2025 14:07:16 GMT | Effective Use of Environment Variables in Next.js | @rnab | [Read More](https://medium.com/p/f913e192de76) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 09:56:33 GMT | Becoming a Cloud Security Consultant What You Need to Know | Kartik Debnath | [Read More](https://medium.com/p/608b32f46175) |
 | Wed, 06 Aug 2025 09:52:52 GMT | The Help Desk Heist Hijacking Your Hypervisor | Aj | [Read More](https://medium.com/p/646857029910) |
 | Wed, 06 Aug 2025 09:43:40 GMT | Part 27: Miscellaneous & Advanced Flutter Exploits — From Stack Trace Leaks to Input Hijacking | Sumit Kumar | [Read More](https://medium.com/p/6ed1f435ec8a) |
-| Wed, 06 Aug 2025 09:43:25 GMT | Part 26: Asset Tampering in Flutter — Runtime Modifications and Dynamic Asset Swaps | Sumit Kumar | [Read More](https://medium.com/p/bab44d12d59c) |
-| Wed, 06 Aug 2025 09:43:08 GMT | ️ Part 25: Asset Repack Attacks — How Attackers Modify Your Flutter App’s Assets to Inject… | Sumit Kumar | [Read More](https://medium.com/p/526ceb8f6b91) |
-| Wed, 06 Aug 2025 09:42:55 GMT | ️ Part 24: Flutter Code Obfuscation Bypass — Why Obfuscation Isn’t Enough to Protect Your App… | Sumit Kumar | [Read More](https://medium.com/p/413179f4e026) |
-| Wed, 06 Aug 2025 09:42:37 GMT | Part 23: Reverse Engineering libapp.so — Extracting Hidden Secrets From Compiled Flutter Code | Sumit Kumar | [Read More](https://medium.com/p/6b98c6701abf) |
-| Wed, 06 Aug 2025 09:42:14 GMT | Part 22: Flutter App Integrity Bypass via Repack & Side-Loading — The Hidden Danger of Modified… | Sumit Kumar | [Read More](https://medium.com/p/cef6bf2eeae0) |
-| Wed, 06 Aug 2025 09:41:56 GMT | The Consultant Crack-Up: How AI and Policy Shifts Are Sinking Big Consulting | Namir Sagheenanajar | [Read More](https://medium.com/p/152a76893265) |
