@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 09:14:38 GMT | Is your database secure? Probably not. Find out why before it’s too late! | Rafael Santos | [Read More](https://medium.com/p/d6a478888154) |
+| Wed, 06 Aug 2025 09:12:57 GMT | I built my own web Pentesting labs in a few minutes. this is how… | Oussama BEDLOU | [Read More](https://medium.com/p/57a4f034e91a) |
+| Wed, 06 Aug 2025 09:12:54 GMT | As we get deep into this engagement, I’ll demonstrate my penetration testing methodology and my… | Cyb0rgBytes | [Read More](https://medium.com/p/b616fbd0d00f) |
+| Wed, 06 Aug 2025 09:11:42 GMT | Cuckoo Sandbox Kullanımı & Virtual Machine Tabanlı Malware Analizi — TalentCoders Siber Güvenlik… | Hakan ÇEVİK | [Read More](https://medium.com/p/02dcbaac7fbe) |
+| Wed, 06 Aug 2025 09:08:20 GMT | Why Nmap Fails on Vercel, Netlify & Cloud Targets — And What You Should Use Instead | YoungerSibling | [Read More](https://medium.com/p/ad0c741c11d0) |
+| Wed, 06 Aug 2025 09:07:39 GMT | 1 Woman, 100 Worms: The Scary Dark Web Story | Aj | [Read More](https://medium.com/p/fc3ea5224d3c) |
+| Wed, 06 Aug 2025 09:05:32 GMT | Mastering SEO for Single-Page Applications | Bhavesh Rajpurohit | [Read More](https://medium.com/p/5a83a2f74bdc) |
+| Wed, 06 Aug 2025 09:00:00 GMT | WPA3: Uncrackable or Just Kinda Tough? | SilentInject | [Read More](https://medium.com/p/01b7be33ffea) |
+| Wed, 06 Aug 2025 08:59:34 GMT | Low Testosterone? 7 Signs You Need a Testosterone Booster Now | Pumpd Store | [Read More](https://medium.com/p/7e04d4a595bc) |
+| Wed, 06 Aug 2025 08:58:19 GMT | Urgent: SSL VPNs Under Fire — Time to Panic? | Truspex | [Read More](https://medium.com/p/1414b38fc8c7) |
+| Wed, 06 Aug 2025 08:55:17 GMT | The Daily Tech Digest: 06 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/354f5c9fbbde) |
+| Wed, 06 Aug 2025 08:51:56 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/5fe683767d32) |
+| Wed, 06 Aug 2025 08:50:57 GMT | Ethical Hacking 101: Reconnaissance is Key | CtrlC3 | [Read More](https://medium.com/p/d63e62c6cbff) |
+| Wed, 06 Aug 2025 08:50:07 GMT | Home Lab Chronicles: Part 07 — Integration of TheHive with MISP and Cortex | Suprim Devkota | [Read More](https://medium.com/p/913c44e46af0) |
+| Wed, 06 Aug 2025 08:45:01 GMT | CVE-2025–54794: Hijacking Claude AI with a Prompt Injection — The Jailbreak That Talked Back | Aditya Bhatt | [Read More](https://medium.com/p/d6754078b311) |
+| Wed, 06 Aug 2025 08:41:55 GMT | Unified Visibility across PaaS & Hybrid servers with Sentinel | Chandan Bilvaraj | [Read More](https://medium.com/p/f79c563d47b8) |
+| Wed, 06 Aug 2025 08:31:32 GMT | Cybersecurity: Is It Really Worth The Hype? | Authlyn | [Read More](https://medium.com/p/ea044315e0c9) |
+| Wed, 06 Aug 2025 08:31:23 GMT | CCTV at Dubai Mosque and Prayer Area Entrances: Balancing Safety with Respect | cctv-installation-dubai | [Read More](https://medium.com/p/42e6ddd7c1a4) |
 | Wed, 06 Aug 2025 08:23:14 GMT | Drosera 101: The Trap-Based Security Layer DeFi Didn’t Know It Needed | GHALI 0NE | [Read More](https://medium.com/p/f3ccd46b3619) |
 | Wed, 06 Aug 2025 08:13:49 GMT | How SafeLine WAF Defends Against Bots with Smart Rate Limiting | AerieWhole123 | [Read More](https://medium.com/p/adac397fdab2) |
 | Wed, 06 Aug 2025 08:13:17 GMT | SQL injection Lab 1 & 2from Port Swigger Academy lab | Chandra Kamal Singh | [Read More](https://medium.com/p/e6b82ed5772f) |
@@ -95,21 +113,3 @@ A Wake-Up Call for the Crypto… | Dalvir | [Read More](https://medium.com/p/f1e
 | Wed, 06 Aug 2025 04:00:59 GMT | Menyambut Cinta dengan Tangan Terbuka | Dari Sudut Jakarta | [Read More](https://medium.com/p/6c56064413f4) |
 | Wed, 06 Aug 2025 03:54:06 GMT | Are they really looking down on me? | Journals | [Read More](https://medium.com/p/4f47ffe4d5c8) |
 | Wed, 06 Aug 2025 03:51:42 GMT | The Power of Crypto: Using Cryptography Safely in Android | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/cdaba1053f5f) |
-| Wed, 06 Aug 2025 03:47:01 GMT | API Key Safety: Keeping Your App’s Keys Secure | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/83dca61a30f4) |
-| Wed, 06 Aug 2025 03:44:51 GMT | SafeLine vs Sucuri WAF: Which One Is Better for Your Website Security? | Quella | [Read More](https://medium.com/p/b4bf37054b25) |
-| Wed, 06 Aug 2025 03:37:32 GMT | SMT Program 2025 Journal — Expert Lecture 1 | Sarah | [Read More](https://medium.com/p/ca0c03b21aab) |
-| Wed, 06 Aug 2025 03:37:18 GMT | Exploiting Cross-Site Scripting (XSS) to Steal Cookies — Takeover Using Cookie-Editor | Bash Overflow | [Read More](https://medium.com/p/abd98e0849d2) |
-| Wed, 06 Aug 2025 03:31:42 GMT | Darcula PhaaS: The AI-Powered Phishing Engine That Hijacked 884,000 Credit Cards | Deven Chhajed | [Read More](https://medium.com/p/6317b5f066ea) |
-| Wed, 06 Aug 2025 03:27:02 GMT | “Denied at the Gate”: A Traveler’s Nightmare | Garfield Wang’s Story | [Read More](https://medium.com/p/86e18d227b19) |
-| Wed, 06 Aug 2025 03:13:59 GMT | When Hope Reigns | NightFox | [Read More](https://medium.com/p/1eb0582993ae) |
-| Wed, 06 Aug 2025 03:10:35 GMT | Anomaly Detection 13 — Machine Learning for Anomaly Detection in Cybersecurity | Ayşe Kübra Kuyucu | [Read More](https://medium.com/p/65bc241466eb) |
-| Wed, 06 Aug 2025 03:10:31 GMT | Build a Facial Attendance System with FACEIO and Vanilla JavaScript | Pius Oruko | [Read More](https://medium.com/p/fcdb12647c36) |
-| Wed, 06 Aug 2025 03:06:05 GMT | iDocView RCE Vulnerability: How a Simple URL Leads to Remote Code Execution | Quella | [Read More](https://medium.com/p/0ab0cc3a25cb) |
-| Wed, 06 Aug 2025 02:54:14 GMT | Xbox Next-Gen Console Specs Confirmed - Bigger Than PS6? (2025 Leak Explained) | Digimad.online | [Read More](https://medium.com/p/2a0b49b6f0a9) |
-| Wed, 06 Aug 2025 02:50:33 GMT | Bảo vệ nội bộ là gì? Hiểu đúng để bảo vệ doanh nghiệp hiệu quả | DaiAnGroup | [Read More](https://medium.com/p/84bcc14d17b5) |
-| Wed, 06 Aug 2025 02:31:26 GMT | Rules I Never Agreed To | Zulfa Laili | [Read More](https://medium.com/p/dedc207111fe) |
-| Wed, 06 Aug 2025 02:27:16 GMT | Update Urgently: New Android Patches Prevent Remote Access via Malicious Media | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/4a6a3d37ea96) |
-| Wed, 06 Aug 2025 02:19:50 GMT | Bảng báo giá thuê dịch vụ bảo vệ theo giờ chuyên nghiệp tại Hà Nội | DaiAnGroup | [Read More](https://medium.com/p/fd92fc16cb1f) |
-| Wed, 06 Aug 2025 02:17:00 GMT | News Update: Flight Disruption at Perth Airport Highlights Growing Concerns Over Aviation Security | Simon Kalipciyan | [Read More](https://medium.com/p/f1c1f7bbfce9) |
-| Wed, 06 Aug 2025 02:16:19 GMT | ChatGPT leaking your chats !!! | Darshan Naresh Naik | [Read More](https://medium.com/p/f77469f7e8a1) |
-| Wed, 06 Aug 2025 02:15:45 GMT | They Hacked Microsoft 365 Using FAKE Apps | Cyber-AppSec | [Read More](https://medium.com/p/b25c9bd74592) |
