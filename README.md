@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 12:47:57 GMT | Here’s How to Unblock Any Website in 2025 (Using a Cheap VPN That Actually Works) | Ech the Tech Fox | [Read More](https://medium.com/p/b74e8ef7121c) |
+| Wed, 06 Aug 2025 12:42:05 GMT | Saldırı ve Savunma Teknikleri: Siber Güvenlikte Red Team & Blue Team Yaklaşımı | FatihUYSAL | [Read More](https://medium.com/p/5dbce92417b4) |
+| Wed, 06 Aug 2025 12:36:31 GMT | How Content and Context Help Uncover Hidden Threats | Conceal, Inc. | [Read More](https://medium.com/p/d731ae840021) |
+| Wed, 06 Aug 2025 12:32:49 GMT | Cybersecurity at Scale: Safeguarding the Digital Core of Water and Power | David Johnson | [Read More](https://medium.com/p/0833abb7d476) |
+| Wed, 06 Aug 2025 12:32:16 GMT | Online Safety Act: Can it save kids or bury democracy? | Mary Carter | [Read More](https://medium.com/p/74ec59c73c1a) |
+| Wed, 06 Aug 2025 12:25:33 GMT | I Shared My Wi-Fi Password… And Regretted It | Aj | [Read More](https://medium.com/p/0be67814fcab) |
+| Wed, 06 Aug 2025 12:17:28 GMT | High-Frequency Sound Cannons: A New Non-Lethal Deterrent for Security | Julien Garnier | [Read More](https://medium.com/p/00e9851dfbfc) |
+| Wed, 06 Aug 2025 12:01:57 GMT | What I Learned from HTB’s Junior Cybersecurity Analyst Path | Jersey | [Read More](https://medium.com/p/a1804592bb7d) |
+| Wed, 06 Aug 2025 12:01:55 GMT | Building an AI Stack for Threat Intelligence in Blue Team Operations (Part 2) | Wasitpon Sinthuphon | [Read More](https://medium.com/p/cb4722ce6a0c) |
+| Wed, 06 Aug 2025 12:01:53 GMT | TryHackMe — Splunk: Exploring SPL Walkthrough | Furkanctiner | [Read More](https://medium.com/p/47bfc559cd2e) |
+| Wed, 06 Aug 2025 12:01:00 GMT | Why invest in Hybrid SOC Services now? | Ziya Zoe | [Read More](https://medium.com/p/4c6f2646bad7) |
+| Wed, 06 Aug 2025 12:00:57 GMT | i liked you more than i was afraid of getting hurt | hea | [Read More](https://medium.com/p/f08e52564492) |
+| Wed, 06 Aug 2025 11:52:49 GMT | Unlock Growth with NetSuite License Pricing | Daman inoday | [Read More](https://medium.com/p/b50ed3bef004) |
+| Wed, 06 Aug 2025 11:50:34 GMT | Lock It Down — Password Hygiene and the Power of Multi-Factor Authentication (MFA) | Archana Reddy Mucha | [Read More](https://medium.com/p/8fea0e1c74c1) |
+| Wed, 06 Aug 2025 11:48:56 GMT | If You’re Looking for Reliable Penetration Testing, I Highly Recommend CyberNX | Pamarpooja | [Read More](https://medium.com/p/e451b204d7b3) |
 | Wed, 06 Aug 2025 11:33:48 GMT | Outsmarting the Hook — How to Defend Against Phishing and Social Engineering | Archana Reddy Mucha | [Read More](https://medium.com/p/07c500f19a23) |
 | Wed, 06 Aug 2025 11:33:45 GMT | Haven1 Web3’ün Geleceğini Şekillendiren Güvenli ve Kullanıcı Odaklı DeFi Ekosistemi | OomerBtc | [Read More](https://medium.com/p/4d1457bee855) |
 | Wed, 06 Aug 2025 11:25:56 GMT | Secure Coding Part 8 — Command Injection Attack: Python eval() | Siddiquimohammad | [Read More](https://medium.com/p/99c82eda5256) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 08:41:55 GMT | Unified Visibility across PaaS & Hybrid servers with Sentinel | Chandan Bilvaraj | [Read More](https://medium.com/p/f79c563d47b8) |
 | Wed, 06 Aug 2025 08:31:32 GMT | Cybersecurity: Is It Really Worth The Hype? | Authlyn | [Read More](https://medium.com/p/ea044315e0c9) |
 | Wed, 06 Aug 2025 08:31:23 GMT | CCTV at Dubai Mosque and Prayer Area Entrances: Balancing Safety with Respect | cctv-installation-dubai | [Read More](https://medium.com/p/42e6ddd7c1a4) |
-| Wed, 06 Aug 2025 08:23:14 GMT | Drosera 101: The Trap-Based Security Layer DeFi Didn’t Know It Needed | GHALI 0NE | [Read More](https://medium.com/p/f3ccd46b3619) |
-| Wed, 06 Aug 2025 08:13:49 GMT | How SafeLine WAF Defends Against Bots with Smart Rate Limiting | AerieWhole123 | [Read More](https://medium.com/p/adac397fdab2) |
-| Wed, 06 Aug 2025 08:13:17 GMT | SQL injection Lab 1 & 2from Port Swigger Academy lab | Chandra Kamal Singh | [Read More](https://medium.com/p/e6b82ed5772f) |
-| Wed, 06 Aug 2025 08:13:04 GMT | our love feels like poetry, like a neo-soul playlist. | Lynda | [Read More](https://medium.com/p/ac65347fa7a7) |
-| Wed, 06 Aug 2025 08:12:36 GMT | Carbon Black (P6:Settings): A Practical Guide/An Practical Training | Dean | [Read More](https://medium.com/p/cf7bc635a734) |
-| Wed, 06 Aug 2025 08:02:10 GMT | A+A 2025 Düsseldorf: Where the Future of Workplace Safety Takes Center Stage | Connect Displays | [Read More](https://medium.com/p/8cb061e2c993) |
-| Wed, 06 Aug 2025 08:01:46 GMT | Unraveling SSL/TLS in Java: A Developer’s Guide to Keystores, Truststores, and Sanity | Nitesh Thakur | [Read More](https://medium.com/p/d404f3023abd) |
-| Wed, 06 Aug 2025 08:00:33 GMT | Hacking Kya Hai? Pura Guide Ethical Hacking Ke Liye (2025) | HACKERS NO ONE ☠️☠️ | [Read More](https://medium.com/p/300a5d1568cf) |
-| Wed, 06 Aug 2025 07:51:26 GMT | The Day Software Development Died — And What’s Rising From Its Ashes | Jonas Kjellin | [Read More](https://medium.com/p/3a909e5d76c3) |
-| Wed, 06 Aug 2025 07:50:15 GMT | How to recover a 7z file when the password is forgotten or lost? | Carlielevins | [Read More](https://medium.com/p/7a5fe9c750fc) |
-| Wed, 06 Aug 2025 07:45:11 GMT | Cleared for Success: High-Income Careers With and Without Security Clearance | Bernard Benjamin | [Read More](https://medium.com/p/29d4b94aaacd) |
-| Wed, 06 Aug 2025 07:44:20 GMT | Sunflowers and Stars | Isha | [Read More](https://medium.com/p/d360ffb1a3ad) |
-| Wed, 06 Aug 2025 07:42:03 GMT | Home Lab Chronicles: Part 06 — Setup of TheHive, MISP and Cortex | Suprim Devkota | [Read More](https://medium.com/p/97bc6bb3606e) |
-| Wed, 06 Aug 2025 07:39:02 GMT | Protokollere Fısıldamak-I: Active Directory Güvenliği: Bölüm-3 | Salih Doğan BÜLBÜL | [Read More](https://medium.com/p/44bdac25103a) |
-| Wed, 06 Aug 2025 07:34:33 GMT | Research Summary — Part One | YOUTH FOR CLIMATE | [Read More](https://medium.com/p/e3b645b1b4fe) |
