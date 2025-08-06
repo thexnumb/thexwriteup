@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 20:43:09 GMT | ByBit, ODOS, and BBX Hacked: $1.5B | Olympix | [Read More](https://medium.com/p/f65cdf790bd2) |
+| Wed, 06 Aug 2025 20:42:42 GMT | TCM OSINT: A Journey into Open-Source Intelligence | rnnull | [Read More](https://medium.com/p/52a7985c462a) |
 | Wed, 06 Aug 2025 20:41:15 GMT | Zoth, FortuneWheel, and Sorra Finance Exploited for $347K via LTV Mismatch, Unprotected Swaps, and… | Olympix | [Read More](https://medium.com/p/5fd8ea76a914) |
 | Wed, 06 Aug 2025 20:37:55 GMT | Quest | Norman Meg | [Read More](https://medium.com/p/5029e63be157) |
 | Wed, 06 Aug 2025 20:36:59 GMT | How to Discover Plain-Text Credentials Before Attackers Turn Them Against You | Alexandre Vandamme | [Read More](https://medium.com/p/e09b11085516) |
@@ -111,5 +113,3 @@ Cybersecurity isn’t just about firewalls… | Murat Tarsuslu | [Read More](htt
 | Wed, 06 Aug 2025 15:51:31 GMT | OpenVAS kompakt jetzt als Open Access erhält­lich | Holger Reibold | [Read More](https://medium.com/p/a3e1f65e8727) |
 | Wed, 06 Aug 2025 15:43:28 GMT | Quantum 102: Understanding Quantum Logic Gates Through a Beginner Project | Titiksha Agrawal | [Read More](https://medium.com/p/796ddbea0585) |
 | Wed, 06 Aug 2025 15:42:08 GMT | Understanding Browser Fingerprinting | Anirudh PV | [Read More](https://medium.com/p/c55b24c0e4fb) |
-| Wed, 06 Aug 2025 15:41:45 GMT | HostedAnyWhere Software Part-2 | Marwan NAEL | [Read More](https://medium.com/p/46444bc6a236) |
-| Wed, 06 Aug 2025 15:39:11 GMT | grief | Fallonbuchholz | [Read More](https://medium.com/p/570d3fa0f1b5) |
