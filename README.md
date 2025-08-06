@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 04:36:01 GMT | Security Vulnerabilities in PHP, Apache, and NPM — Detection and Prevention Guide | Mubbasher Ahmed | [Read More](https://medium.com/p/d3497205a5cf) |
+| Wed, 06 Aug 2025 04:30:00 GMT | Master Cyber Security with a Course in Kochi | bushaira bk | [Read More](https://medium.com/p/2e8b8f9bb865) |
+| Wed, 06 Aug 2025 04:25:36 GMT | Crypto Under Siege: Security Breaches and Fraud Shake the Market
+A Wake-Up Call for the Crypto… | Dalvir | [Read More](https://medium.com/p/f1ea88eca6d8) |
+| Wed, 06 Aug 2025 04:02:29 GMT | My Work at the Intersection of Cybersecurity, Culture, and Conscious Tech | Vonte Sewell | [Read More](https://medium.com/p/7608b47ec9ce) |
+| Wed, 06 Aug 2025 04:00:59 GMT | Menyambut Cinta dengan Tangan Terbuka | Dari Sudut Jakarta | [Read More](https://medium.com/p/6c56064413f4) |
+| Wed, 06 Aug 2025 03:54:06 GMT | Are they really looking down on me? | Journals | [Read More](https://medium.com/p/4f47ffe4d5c8) |
+| Wed, 06 Aug 2025 03:51:42 GMT | The Power of Crypto: Using Cryptography Safely in Android | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/cdaba1053f5f) |
+| Wed, 06 Aug 2025 03:47:01 GMT | API Key Safety: Keeping Your App’s Keys Secure | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/83dca61a30f4) |
+| Wed, 06 Aug 2025 03:44:51 GMT | SafeLine vs Sucuri WAF: Which One Is Better for Your Website Security? | Quella | [Read More](https://medium.com/p/b4bf37054b25) |
+| Wed, 06 Aug 2025 03:37:32 GMT | SMT Program 2025 Journal — Expert Lecture 1 | Sarah | [Read More](https://medium.com/p/ca0c03b21aab) |
 | Wed, 06 Aug 2025 03:37:18 GMT | Exploiting Cross-Site Scripting (XSS) to Steal Cookies — Takeover Using Cookie-Editor | Bash Overflow | [Read More](https://medium.com/p/abd98e0849d2) |
 | Wed, 06 Aug 2025 03:31:42 GMT | Darcula PhaaS: The AI-Powered Phishing Engine That Hijacked 884,000 Credit Cards | Deven Chhajed | [Read More](https://medium.com/p/6317b5f066ea) |
 | Wed, 06 Aug 2025 03:27:02 GMT | “Denied at the Gate”: A Traveler’s Nightmare | Garfield Wang’s Story | [Read More](https://medium.com/p/86e18d227b19) |
@@ -20,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 03:10:31 GMT | Build a Facial Attendance System with FACEIO and Vanilla JavaScript | Pius Oruko | [Read More](https://medium.com/p/fcdb12647c36) |
 | Wed, 06 Aug 2025 03:06:05 GMT | iDocView RCE Vulnerability: How a Simple URL Leads to Remote Code Execution | Quella | [Read More](https://medium.com/p/0ab0cc3a25cb) |
 | Wed, 06 Aug 2025 02:54:14 GMT | Xbox Next-Gen Console Specs Confirmed - Bigger Than PS6? (2025 Leak Explained) | Digimad.online | [Read More](https://medium.com/p/2a0b49b6f0a9) |
+| Wed, 06 Aug 2025 02:50:33 GMT | Bảo vệ nội bộ là gì? Hiểu đúng để bảo vệ doanh nghiệp hiệu quả | DaiAnGroup | [Read More](https://medium.com/p/84bcc14d17b5) |
 | Wed, 06 Aug 2025 02:31:26 GMT | Rules I Never Agreed To | Zulfa Laili | [Read More](https://medium.com/p/dedc207111fe) |
 | Wed, 06 Aug 2025 02:27:16 GMT | Update Urgently: New Android Patches Prevent Remote Access via Malicious Media | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/4a6a3d37ea96) |
 | Wed, 06 Aug 2025 02:19:50 GMT | Bảng báo giá thuê dịch vụ bảo vệ theo giờ chuyên nghiệp tại Hà Nội | DaiAnGroup | [Read More](https://medium.com/p/fd92fc16cb1f) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 Aug 2025 19:14:06 GMT | When Bad Data Becomes the Real Threat: The Dark Trick Behind Poisoned Intel | Akshay Chauhan | [Read More](https://medium.com/p/581d8940bfbe) |
 | Tue, 05 Aug 2025 19:13:11 GMT | Famous Breaches from the 90s You’ve Never Heard Of | Berk Yanadur | [Read More](https://medium.com/p/54608297068a) |
 | Tue, 05 Aug 2025 19:11:04 GMT | How Cybersecurity Services Safeguard Small Businesses in 2025 | Startupvisors | [Read More](https://medium.com/p/b87d7015a8ed) |
-| Tue, 05 Aug 2025 19:07:43 GMT | Prompt Security: Navigating and Protecting the New Frontier of AI Interactions | Halil Ural | [Read More](https://medium.com/p/1addc3e43859) |
-| Tue, 05 Aug 2025 19:06:50 GMT | Cybersecurity or Cyber Security: Why One Word Could Make a Big Difference | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/2662414eb0ce) |
-| Tue, 05 Aug 2025 19:00:13 GMT | SEC Clarifies Liquid Staking and Protocol Staking: What This Means for Blockchain Innovation and… | Jetvoy.com | [Read More](https://medium.com/p/d414838bf31b) |
-| Tue, 05 Aug 2025 18:56:13 GMT | The Persistent Threat of ADOT Smishing Scams | Jacob Vasquez | [Read More](https://medium.com/p/4908783c5a88) |
-| Tue, 05 Aug 2025 18:54:39 GMT | Mass Data Exposure: Why PII Leaks Are Rampant, and Largely Ignored | Utkarsh Shrivastava | [Read More](https://medium.com/p/d2d41c3c6986) |
-| Tue, 05 Aug 2025 18:50:10 GMT | Great Support Starts with the Right Questions: Using W5H in Tech Support | Biswajitsatapathy | [Read More](https://medium.com/p/b471ad00e78a) |
-| Tue, 05 Aug 2025 18:47:48 GMT | Do you Practice, but Still Feel Stuck at Bug Bounty? | Appsec.pt | [Read More](https://medium.com/p/6b80dba02403) |
-| Tue, 05 Aug 2025 18:39:12 GMT | The Ultimate Guide to the Best Penetration Testing Tools in 2025 | cybrNK | [Read More](https://medium.com/p/cdbd77bcd99e) |
-| Tue, 05 Aug 2025 18:35:58 GMT | Securing AI Agent orchestration using the AI Agent Resource Registry | Valdez Ladd | [Read More](https://medium.com/p/5917de49ab20) |
-| Tue, 05 Aug 2025 18:31:41 GMT | How I Went from IT Support to Senior Pentester in Just 2 Years | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/7df8739f5f17) |
-| Tue, 05 Aug 2025 18:31:15 GMT | Remote Code Execution / Uzaktan Kod Yürütme Nedir? | Mustafa Şen | [Read More](https://medium.com/p/97fa03d7bf72) |
