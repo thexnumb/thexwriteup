@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 Aug 2025 13:36:43 GMT | Why Drosera Is a Needed Concept | CaspianXenon | [Read More](https://medium.com/p/93aae421d7b6) |
+| Wed, 06 Aug 2025 13:24:21 GMT | Understanding Token-Based Authentication: Single vs. Dual Tokens | zzye | [Read More](https://medium.com/p/433718a8c43a) |
+| Wed, 06 Aug 2025 13:20:14 GMT | ️ From Enumeration to RCE: A Real-World Capture the Flag Experience | Samruth Sriram D | [Read More](https://medium.com/p/c573110bf091) |
+| Wed, 06 Aug 2025 13:18:27 GMT | Install Tools Cyberfox | Ginda Sundara | [Read More](https://medium.com/p/479f19eab224) |
+| Wed, 06 Aug 2025 13:17:15 GMT | WhatsApp’s Latest Anti-Scam Move: What You Need to Know | Dhruvdeep Singh | [Read More](https://medium.com/p/3289a17eef0e) |
+| Wed, 06 Aug 2025 13:10:35 GMT | Key Features of Law №2024/017 (On Personal Data Protection in Cameroon) | Pollicy | [Read More](https://medium.com/p/5ee06f79dd1a) |
+| Wed, 06 Aug 2025 13:05:35 GMT | In Our Bubble | Isha | [Read More](https://medium.com/p/c04de994626e) |
+| Wed, 06 Aug 2025 13:02:09 GMT | Cybersecurity Questions I Asked Daycares When Deciding on Childcare Options | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/deb2b64d60f7) |
+| Wed, 06 Aug 2025 13:02:08 GMT | Mammoth Cyber Unveils Enterprise AI Browser at Black Hat USA 2025 | Mammoth Cyber | [Read More](https://medium.com/p/472b8d8dd5c3) |
+| Wed, 06 Aug 2025 13:01:27 GMT | I Found a $2,500 Security Flaw in 15 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/64550f55aaab) |
+| Wed, 06 Aug 2025 12:59:51 GMT | Safeguarding Industrial Control Systems: CISA Flags New Threats in Recent Advisories | Chetan Seripally | [Read More](https://medium.com/p/14ab10ac2a59) |
+| Wed, 06 Aug 2025 12:58:25 GMT | The all new Tokenize.it Wallet | Christoph Jentzsch | [Read More](https://medium.com/p/a2f9e81d3e30) |
+| Wed, 06 Aug 2025 12:51:17 GMT | TOP Gmail SCAM: Email Users, Be Aware of This Unsubscribe Trap! | Meow Lookout | [Read More](https://medium.com/p/7219f6178274) |
+| Wed, 06 Aug 2025 12:49:15 GMT | Weaponized LNK Files: The Full CryptoWall Ransomware Chain in a Shortcut | Yashvi Shah | [Read More](https://medium.com/p/00a0e13695e4) |
+| Wed, 06 Aug 2025 12:49:06 GMT | XLMRat Lab | Andry Maulana | [Read More](https://medium.com/p/73d892371943) |
+| Wed, 06 Aug 2025 12:48:37 GMT | Jenny Kyle Crypto Recove | Norman Meg | [Read More](https://medium.com/p/917ecc0cb965) |
 | Wed, 06 Aug 2025 12:47:57 GMT | Here’s How to Unblock Any Website in 2025 (Using a Cheap VPN That Actually Works) | Ech the Tech Fox | [Read More](https://medium.com/p/b74e8ef7121c) |
 | Wed, 06 Aug 2025 12:42:05 GMT | Saldırı ve Savunma Teknikleri: Siber Güvenlikte Red Team & Blue Team Yaklaşımı | FatihUYSAL | [Read More](https://medium.com/p/5dbce92417b4) |
 | Wed, 06 Aug 2025 12:36:31 GMT | How Content and Context Help Uncover Hidden Threats | Conceal, Inc. | [Read More](https://medium.com/p/d731ae840021) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 09:15:40 GMT | Ethical hacker testing security systems | Sanajahfer | [Read More](https://medium.com/p/ca9e97a6cb2f) |
 | Wed, 06 Aug 2025 09:14:38 GMT | Is your database secure? Probably not. Find out why before it’s too late! | Rafael Santos | [Read More](https://medium.com/p/d6a478888154) |
 | Wed, 06 Aug 2025 09:12:57 GMT | I built my own web Pentesting labs in a few minutes. this is how… | Oussama BEDLOU | [Read More](https://medium.com/p/57a4f034e91a) |
-| Wed, 06 Aug 2025 09:12:54 GMT | As we get deep into this engagement, I’ll demonstrate my penetration testing methodology and my… | Cyb0rgBytes | [Read More](https://medium.com/p/b616fbd0d00f) |
-| Wed, 06 Aug 2025 09:11:42 GMT | Cuckoo Sandbox Kullanımı & Virtual Machine Tabanlı Malware Analizi — TalentCoders Siber Güvenlik… | Hakan ÇEVİK | [Read More](https://medium.com/p/02dcbaac7fbe) |
-| Wed, 06 Aug 2025 09:08:20 GMT | Why Nmap Fails on Vercel, Netlify & Cloud Targets — And What You Should Use Instead | YoungerSibling | [Read More](https://medium.com/p/ad0c741c11d0) |
-| Wed, 06 Aug 2025 09:07:39 GMT | 1 Woman, 100 Worms: The Scary Dark Web Story | Aj | [Read More](https://medium.com/p/fc3ea5224d3c) |
-| Wed, 06 Aug 2025 09:05:32 GMT | Mastering SEO for Single-Page Applications | Bhavesh Rajpurohit | [Read More](https://medium.com/p/5a83a2f74bdc) |
-| Wed, 06 Aug 2025 09:00:00 GMT | WPA3: Uncrackable or Just Kinda Tough? | SilentInject | [Read More](https://medium.com/p/01b7be33ffea) |
-| Wed, 06 Aug 2025 08:59:34 GMT | Low Testosterone? 7 Signs You Need a Testosterone Booster Now | Pumpd Store | [Read More](https://medium.com/p/7e04d4a595bc) |
-| Wed, 06 Aug 2025 08:58:19 GMT | Urgent: SSL VPNs Under Fire — Time to Panic? | Truspex | [Read More](https://medium.com/p/1414b38fc8c7) |
-| Wed, 06 Aug 2025 08:55:17 GMT | The Daily Tech Digest: 06 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/354f5c9fbbde) |
-| Wed, 06 Aug 2025 08:51:56 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/5fe683767d32) |
-| Wed, 06 Aug 2025 08:50:57 GMT | Ethical Hacking 101: Reconnaissance is Key | CtrlC3 | [Read More](https://medium.com/p/d63e62c6cbff) |
-| Wed, 06 Aug 2025 08:50:07 GMT | Home Lab Chronicles: Part 07 — Integration of TheHive with MISP and Cortex | Suprim Devkota | [Read More](https://medium.com/p/913c44e46af0) |
-| Wed, 06 Aug 2025 08:45:01 GMT | CVE-2025–54794: Hijacking Claude AI with a Prompt Injection — The Jailbreak That Talked Back | Aditya Bhatt | [Read More](https://medium.com/p/d6754078b311) |
-| Wed, 06 Aug 2025 08:41:55 GMT | Unified Visibility across PaaS & Hybrid servers with Sentinel | Chandan Bilvaraj | [Read More](https://medium.com/p/f79c563d47b8) |
-| Wed, 06 Aug 2025 08:31:32 GMT | Cybersecurity: Is It Really Worth The Hype? | Authlyn | [Read More](https://medium.com/p/ea044315e0c9) |
-| Wed, 06 Aug 2025 08:31:23 GMT | CCTV at Dubai Mosque and Prayer Area Entrances: Balancing Safety with Respect | cctv-installation-dubai | [Read More](https://medium.com/p/42e6ddd7c1a4) |
