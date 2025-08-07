@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 22:50:18 GMT | The Practitioner’s Guide to Google Workspace Security: 5 Settings You cannot afford to Misconfigure | CyberLucifer | [Read More](https://medium.com/p/6a995931caf3) |
 | Thu, 07 Aug 2025 22:11:21 GMT | Understanding Blockchain: A Complete Guide | Happy Shekh | [Read More](https://medium.com/p/d1dc1dd86373) |
 | Thu, 07 Aug 2025 22:06:37 GMT | Week of 08.07 - Front End, Backend, Putting it all Together (with a side of Linux) | Laurdickerson | [Read More](https://medium.com/p/8b573a8f6e71) |
 | Thu, 07 Aug 2025 22:05:47 GMT | Digital Forensics Lab: Partition Recovery and File Carving A Complete Hands-On Guide | Mohamed Elawady | [Read More](https://medium.com/p/2a539329e91c) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 15:58:16 GMT | Top BCA Colleges in Kozhikode : Courses, Campus Life & Career Scope | Divya | [Read More](https://medium.com/p/60733d177a8d) |
 | Thu, 07 Aug 2025 15:57:10 GMT | Cheyanne Mallas and the Art of Cybersecurity Project Management: Building Digital Fortresses with… | Cheyannemallaspa | [Read More](https://medium.com/p/a177091accd2) |
 | Thu, 07 Aug 2025 15:56:44 GMT | Home Lab Chronicles: Part 09 — Integration between Wazuh SIEM and TheHive | Suprim Devkota | [Read More](https://medium.com/p/1424b3d71d44) |
-| Thu, 07 Aug 2025 15:53:54 GMT | From Bureaucracy to Brilliance? The Federal Government’s ChatGPT Experiment for $1 | Shin Jara | [Read More](https://medium.com/p/a6fc9c213db8) |
