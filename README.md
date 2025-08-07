@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 19:14:55 GMT | Getting Policies, Procedures, Standards & Guidelines right. | Steve Faust | [Read More](https://medium.com/p/e744f77e47ed) |
+| Thu, 07 Aug 2025 19:12:42 GMT | CVE‑2025‑53770 — SharePoint ToolShell Exploit | Radeonares | [Read More](https://medium.com/p/38a27abdf03f) |
+| Thu, 07 Aug 2025 19:11:50 GMT | Zoom Notes Phishing Abuse: How Attackers Exploit a Trusted Brand to Deliver Legitimate-Looking… | Chase Kester | [Read More](https://medium.com/p/67bd6f87b8c9) |
+| Thu, 07 Aug 2025 19:06:19 GMT | SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing | Kylaar Weathers | [Read More](https://medium.com/p/ebb21d227587) |
+| Thu, 07 Aug 2025 19:05:54 GMT | Protecting Your Digital Identity: Proven Strategies for Secure Logins | Deepak Gupta | [Read More](https://medium.com/p/5ddf3b20d80b) |
+| Thu, 07 Aug 2025 18:59:08 GMT | How to Connect Alfa adapter to Kali Virtual Machine | Vrishabh Bhavsar | [Read More](https://medium.com/p/c77033a953ec) |
+| Thu, 07 Aug 2025 18:57:58 GMT | Single vs Multiple API Calls: A Friendly Dev Chat Over Virtual Coffee | Vignaraj Ravi | [Read More](https://medium.com/p/88ec75944ab9) |
+| Thu, 07 Aug 2025 18:55:28 GMT | DAY 38 — Detecting Credential Exfil Scripts Using Regex + YARA | Jinay | [Read More](https://medium.com/p/7cc203c0dd73) |
+| Thu, 07 Aug 2025 18:55:01 GMT | Portswigger Web Security Academy - Race Conditions Lab #1 | BooRuleDie | [Read More](https://medium.com/p/ab379b081a40) |
+| Thu, 07 Aug 2025 18:51:54 GMT | My silence isn’t a cry for help. | Aoyon | [Read More](https://medium.com/p/2800dc3cd8af) |
+| Thu, 07 Aug 2025 18:51:01 GMT | Monitor HTTP Response Headers Like a Pro: Introducing Header Change Notifier for Burp Suite | Mohamed.cybersec | [Read More](https://medium.com/p/b1494028b4db) |
+| Thu, 07 Aug 2025 18:50:33 GMT | SAST vs. DAST: Decoding the Two Pillars of Application Security | Janith Sandamal | [Read More](https://medium.com/p/70f7d5934554) |
+| Thu, 07 Aug 2025 18:46:15 GMT | Email Security as a Service, Stop Phishing, Spoofing, and Malware Before They Hit Your Inbox | SafeAeon Inc. | [Read More](https://medium.com/p/6ac580992e94) |
+| Thu, 07 Aug 2025 18:44:19 GMT | Security Breach and Denial at The Property Ombudsman: A Public Regulator in Crisis | Lucretia Delvaux | [Read More](https://medium.com/p/bf6ce330085c) |
+| Thu, 07 Aug 2025 18:43:48 GMT | The Mini File Picker You Actually Need for Compact UIs | Idera Dev Tools | [Read More](https://medium.com/p/03b3af9e0c12) |
+| Thu, 07 Aug 2025 18:43:45 GMT | Threat Hunting vs. Incident Response: What’s the Difference? | Nima Bargestan | [Read More](https://medium.com/p/18ae2a5cfbac) |
+| Thu, 07 Aug 2025 18:42:09 GMT | CentOS 7 Üzerinde Wazuh 4.7 Kurulumu ve Windows Sunucudan Log Yönlendirme | Mustafa Mansur Mamus | [Read More](https://medium.com/p/6b0933f78668) |
 | Thu, 07 Aug 2025 18:33:02 GMT | Ghost Calls: How Web Conferencing Platforms Are Being Turned into Covert C&C Channels | Chetan Seripally | [Read More](https://medium.com/p/93d8da520c51) |
 | Thu, 07 Aug 2025 18:29:19 GMT | The BRICS Cyber Nexus: Cooperation, Confrontation, and Bloc Formation — Brics Part 5 | Ali Gündoğar | [Read More](https://medium.com/p/3303b1a48ea9) |
+| Thu, 07 Aug 2025 18:28:40 GMT | Why You Can’t Remember Your Own Passwords Anymore? | Aastha Thakker | [Read More](https://medium.com/p/42d280a0dd9e) |
 | Thu, 07 Aug 2025 18:21:19 GMT | Vulnerability Assessment as a Service: Find the Flaws Before Hackers Do | SafeAeon Inc. | [Read More](https://medium.com/p/e94537edb334) |
 | Thu, 07 Aug 2025 18:20:56 GMT | Defend or Vanish: The Security Mandate in the GPT-5 Era | Shiven Grover | [Read More](https://medium.com/p/804fb100b8b1) |
 | Thu, 07 Aug 2025 18:16:57 GMT | ZERO-DAY CVE-2025–24893 “XWiki Platform — Remote Code Execution” POC | HariHaranK | [Read More](https://medium.com/p/00bd2ca3a93d) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 14:18:13 GMT | How to Monitor Web Performance Without Overhead | Rizqi Mulki | [Read More](https://medium.com/p/388cae019387) |
 | Thu, 07 Aug 2025 14:11:57 GMT | Siber Güvenlik Bakışıyla: Tünelleme | Barış A. | [Read More](https://medium.com/p/e4ea501ad9e9) |
 | Thu, 07 Aug 2025 14:11:16 GMT | Compunding Luck | EXLITY | [Read More](https://medium.com/p/b2cccf631fb2) |
-| Thu, 07 Aug 2025 14:09:58 GMT | Vertical vs Horizontal Scaling: Which One Should You Choose? | Rizqi Mulki | [Read More](https://medium.com/p/cf628aa39248) |
-| Thu, 07 Aug 2025 14:08:54 GMT | 8. Healed Doesn’t Mean Hardened — You’re Allowed to Stay Soft | Roj Ink | [Read More](https://medium.com/p/f9d0779b9a72) |
-| Thu, 07 Aug 2025 14:06:13 GMT | Building a Self-Learning Entity Resolution System for Post-Breach Intelligence | Ranjeet Aloriya | [Read More](https://medium.com/p/b3765e174f4e) |
-| Thu, 07 Aug 2025 14:01:51 GMT | Unlock Fleet-Wide Observability with osquery and Snowflake | Matt Barreiro | [Read More](https://medium.com/p/91c40ddc0f56) |
-| Thu, 07 Aug 2025 14:01:51 GMT | Cyber Briefing: 2025.08.07 | CyberMaterial | [Read More](https://medium.com/p/f34edb144ffa) |
-| Thu, 07 Aug 2025 14:01:04 GMT | ️ Hijacking Prevention in auth | Osvaldo González Venegas | [Read More](https://medium.com/p/1e885d771d49) |
-| Thu, 07 Aug 2025 13:59:45 GMT | Jumping Aboard the Cybersecurity Cruise Ship: The Big 4 Skillsets to Be a Cyber Professional | Abeera Mehtab | [Read More](https://medium.com/p/56e89d4905ae) |
-| Thu, 07 Aug 2025 13:52:14 GMT | EDSPL’s Approach to Secure Software Development | saurabh cyberinfomines | [Read More](https://medium.com/p/b37022f2b81e) |
-| Thu, 07 Aug 2025 13:51:53 GMT | Weekly Cyber Threat Bulletin: 7 August 2025 | Marcelle Lee | [Read More](https://medium.com/p/eca9599055e1) |
-| Thu, 07 Aug 2025 13:51:17 GMT | From Military Service to Cybersecurity: A Guide for U.S. Veterans | Cybersecurity Courses | [Read More](https://medium.com/p/04c60ac1d186) |
-| Thu, 07 Aug 2025 13:48:51 GMT | Air France and KLM Disclose Data Breach Linked to Customer Service Platform | Dhruvdeep Singh | [Read More](https://medium.com/p/341563c86554) |
-| Thu, 07 Aug 2025 13:42:55 GMT | The Cybersecurity Resume Mistake That’s Keeping You From Getting Interviews | Dhruvdeep Singh | [Read More](https://medium.com/p/b25eb9c6e989) |
-| Thu, 07 Aug 2025 13:36:37 GMT | ROOT-ME: XSS - Reflected | Gba | [Read More](https://medium.com/p/a6e3bacd25f8) |
-| Thu, 07 Aug 2025 13:34:27 GMT | Is com. Samsung Android App Galaxy finder? | Cnvrtools | [Read More](https://medium.com/p/46d8570a3c92) |
-| Thu, 07 Aug 2025 13:25:13 GMT | VPN vs Proxy: The 2025 Privacy Protection Reality Check | TechEd Publishers | [Read More](https://medium.com/p/a4def572f946) |
-| Thu, 07 Aug 2025 13:24:29 GMT | Intro to Offensive Security - TryHackMe | Ans Inayat | [Read More](https://medium.com/p/6465f70c7e54) |
-| Thu, 07 Aug 2025 13:21:31 GMT | Between Two Selves | ℕ. | [Read More](https://medium.com/p/c9c9afcd18ac) |
-| Thu, 07 Aug 2025 13:20:58 GMT | Strong Privacy with Free DRM: Why MaiPDF is My Go-To PDF Tool | Nor Writes | [Read More](https://medium.com/p/70958e4fe6ba) |
