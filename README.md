@@ -12,12 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 17:12:58 GMT | Abusing LDAP in Red Teaming , How It Fuels Active Directory Recon and Discovery | 0xTurki | [Read More](https://medium.com/p/90e81d29914f) |
+| Thu, 07 Aug 2025 17:09:35 GMT | Amazon Bedrock’s On-Device Logic Checks Stop AI Hallucinations | TheCertExpert | [Read More](https://medium.com/p/2f893808ce75) |
+| Thu, 07 Aug 2025 17:07:50 GMT | THM - Sequel Dump | Francesco Pastore | [Read More](https://medium.com/p/a584ca19fc22) |
+| Thu, 07 Aug 2025 17:07:30 GMT | Unauthorized Disclosure of Private Emails via WakaTime Private Leaderboards | Regan Temudo | [Read More](https://medium.com/p/197361b80476) |
+| Thu, 07 Aug 2025 17:05:10 GMT | How to enumerate SUID binaries easily using SUID3NUM | Avyukt Security | [Read More](https://medium.com/p/a39db5733610) |
+| Thu, 07 Aug 2025 17:03:29 GMT | Ubuntu SERVER Üzerinde Anlık Dosya Takibi Servisi Oluşturma | Oguzhan Polat | [Read More](https://medium.com/p/424f67f9a454) |
+| Thu, 07 Aug 2025 16:59:24 GMT | CrowdStrike’s Automated Leads: Signal AI Fatigue is Real — Here’s How to Tackle It | Shreyash Tambe | [Read More](https://medium.com/p/f4d7a7306dc8) |
+| Thu, 07 Aug 2025 16:57:06 GMT | Cyber Security Key Management: Protecting Cryptographic Keys | Cyber Security Research | [Read More](https://medium.com/p/3f2e5d408901) |
+| Thu, 07 Aug 2025 16:55:09 GMT | Cyber Security Public Key Infrastructure: Managing Digital Certificates | Cyber Security Research | [Read More](https://medium.com/p/202102163b7e) |
+| Thu, 07 Aug 2025 16:53:17 GMT | Cyber Security Certificates: Establishing Trust Online | Cyber Security Research | [Read More](https://medium.com/p/a44ac0095ba3) |
+| Thu, 07 Aug 2025 16:51:23 GMT | Cyber Security Digital Signatures: Verifying Authenticity | Cyber Security Research | [Read More](https://medium.com/p/e3e4c744b881) |
+| Thu, 07 Aug 2025 16:49:41 GMT | Vibe Coding: How to Harness AI as Your Engineering Partner | Amit Patriwala (Enterprise Solution Architect) | [Read More](https://medium.com/p/aaedb8191e99) |
+| Thu, 07 Aug 2025 16:49:28 GMT | Cyber Security Hashing: Creating Digital Fingerprints | Cyber Security Research | [Read More](https://medium.com/p/d4888a7d9d2c) |
+| Thu, 07 Aug 2025 16:48:39 GMT | Bug Hunting Like No One’s Thought Of: Quantum Tactics, AI Evolution, and Security Concepts From… | Peter Tompson | [Read More](https://medium.com/p/14b07e8a2633) |
+| Thu, 07 Aug 2025 16:47:33 GMT | Cyber Security Cryptography: The Science of Secure Communication | Cyber Security Research | [Read More](https://medium.com/p/dc5c56bc8827) |
+| Thu, 07 Aug 2025 16:34:59 GMT | Eight Emerging Vault Vulnerabilities Put Secrets at Risk | gm0 | [Read More](https://medium.com/p/18b48c322f66) |
+| Thu, 07 Aug 2025 16:33:26 GMT | Kali GPT Explained: The AI Hacking Assistant You NEED | Shahzaib | [Read More](https://medium.com/p/039175eaf8bd) |
 | Thu, 07 Aug 2025 16:30:06 GMT | Should You Use A VPN? | Carroll Blayze | [Read More](https://medium.com/p/ac2a01cb498b) |
 | Thu, 07 Aug 2025 16:28:47 GMT | Initial Simulation for ECorp DFIR Environment in a LAN Setup | Allen Ace | [Read More](https://medium.com/p/0cdeaabae235) |
 | Thu, 07 Aug 2025 16:28:06 GMT | SMB Guide and Implementation | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/e46ea7d2d153) |
 | Thu, 07 Aug 2025 16:25:03 GMT | Cyber Threat Intelligence: More Than Just Buzzwords | TheReviewHive | [Read More](https://medium.com/p/1acd0f23f0e1) |
 | Thu, 07 Aug 2025 16:23:56 GMT | “Day 5: SSRF — How I Hacked AWS Keys & Stole $15,000 in Cloud Credits” | Aman Sharma | [Read More](https://medium.com/p/ed521d7525f9) |
 | Thu, 07 Aug 2025 16:22:42 GMT | Cybersecurity Is a War. Most of Us Are Still Unarmed. | Dania. | [Read More](https://medium.com/p/a1a6cf1b1a64) |
+| Thu, 07 Aug 2025 16:21:34 GMT | From Chaos to Clarity: How I Used Jira Product Discovery to Build a Centralized Epic Board That… | Shauna Zamarripa | [Read More](https://medium.com/p/f269f676c9ff) |
+| Thu, 07 Aug 2025 16:19:57 GMT | Discover IoT: Changing the Way You Live and Work | Techy Hello | [Read More](https://medium.com/p/387e35c747b6) |
 | Thu, 07 Aug 2025 16:15:45 GMT | How I Got a P3 in NASA | ghostvirus | [Read More](https://medium.com/p/5d98f07d888f) |
 | Thu, 07 Aug 2025 16:08:41 GMT | ‘Day 5 Of 5000 Hour Hacker’ | Red-X | [Read More](https://medium.com/p/78d9de3ebbfe) |
 | Thu, 07 Aug 2025 16:05:11 GMT | Beyond the Checklist: Navigating ISO 27001 with Confidence and Clarity | Deep Nakrani | [Read More](https://medium.com/p/1321e0fc34e0) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 12:52:40 GMT | Best Home Security Cameras of 2025: My Picks for Your Protection | Shujaaseo | [Read More](https://medium.com/p/df67b4c5bebc) |
 | Thu, 07 Aug 2025 12:50:36 GMT | Ethical Hacking: What Is It and How Can I Get Into It? | Adara S. | [Read More](https://medium.com/p/a95d6aa80d6e) |
 | Thu, 07 Aug 2025 12:44:23 GMT | Dynamic Malware Analysis #2— LetsDefend | Atlas Security | [Read More](https://medium.com/p/2515cc33cbc3) |
-| Thu, 07 Aug 2025 12:41:16 GMT | Top 5 Cybersecurity Threats for SME in 2025: A Comprehensive Guide to Protecting Your Business | RSVR Tech | [Read More](https://medium.com/p/95beab850214) |
-| Thu, 07 Aug 2025 12:39:02 GMT | ISMAP Management Standards Chapter 10: The Power of “Cryptography” and How to Use It Wisely | nolly | [Read More](https://medium.com/p/cd2844450d68) |
-| Thu, 07 Aug 2025 12:35:20 GMT | iOS & iPad OS 29 Vulnerabilities Patched | Cybersectoworld | [Read More](https://medium.com/p/c22086eabdf5) |
-| Thu, 07 Aug 2025 12:31:56 GMT | Common Myths About Ethical Hacking — Busted! | Joanhermann | [Read More](https://medium.com/p/b8c802b6cc37) |
-| Thu, 07 Aug 2025 12:31:04 GMT | ISMAP Management Standards Chapter 9: Who Can Access What? The Golden Rules of “Access Control” | nolly | [Read More](https://medium.com/p/b234019e732f) |
-| Thu, 07 Aug 2025 12:26:27 GMT | How to Embed File Uploads with the Google Drive API | Idera Dev Tools | [Read More](https://medium.com/p/a2a27c1885b6) |
-| Thu, 07 Aug 2025 12:25:39 GMT | Level Up Your Bug Bounty Game: The Power of Client-Side Source Code Review | CypherNova1337 | [Read More](https://medium.com/p/75d2752824b4) |
-| Thu, 07 Aug 2025 12:24:48 GMT | Is Your Clinic Compliant With Information Security Standards? | Eggleston Services | [Read More](https://medium.com/p/40e329acdc9c) |
-| Thu, 07 Aug 2025 12:23:21 GMT | Benign — TryHackMe | Forrest Caffray | [Read More](https://medium.com/p/5f01dfd0f386) |
-| Thu, 07 Aug 2025 12:18:46 GMT | How to Transfer Microsoft 365 Backup Data into MBOX for Thunderbird | Kai Miller | [Read More](https://medium.com/p/c03e0918f064) |
-| Thu, 07 Aug 2025 12:18:04 GMT | Service Meshes: The Complete Guide to Modern Microservices Communication | Dennis Peter Munyao | [Read More](https://medium.com/p/630b48492d29) |
-| Thu, 07 Aug 2025 12:16:54 GMT | Unveiling the Hidden Risks: Why a New AI Fact-Checker’s “Truth” Model is a Dangerous… | Berend Watchus | [Read More](https://medium.com/p/6174aaf955f2) |
-| Thu, 07 Aug 2025 12:15:59 GMT | Ensuring Cloud Application Security: Best Practices and Solutions | Core Devs Ltd | [Read More](https://medium.com/p/8e037232d435) |
-| Thu, 07 Aug 2025 12:14:26 GMT | Run Smarter, Scale Faster with NetSuite Cloud ERP | Daman inoday | [Read More](https://medium.com/p/f61cd6fb85b2) |
-| Thu, 07 Aug 2025 12:09:40 GMT | Cybersecurity in the Modern Web World: A Developer’s Perspective in the Age of AI | Sreenivas Soman Nair | [Read More](https://medium.com/p/9ce0d5192225) |
-| Thu, 07 Aug 2025 12:08:34 GMT | Unlock Unbreakable Security: The Top 5 MFA Solutions You Must Deploy in 2025! | cybrNK | [Read More](https://medium.com/p/c7dc10e1f584) |
-| Thu, 07 Aug 2025 12:05:16 GMT | CEH vs OSCP: Which Ethical Hacking Certification is Better? | Crawsec | [Read More](https://medium.com/p/6cf430178799) |
-| Thu, 07 Aug 2025 12:02:00 GMT | What If We Trained Humans Like We Train Machines? | CyberGain | [Read More](https://medium.com/p/782b7631e551) |
-| Thu, 07 Aug 2025 12:00:24 GMT | How I Found Sensitive Crypto Transaction Data in a Public JavaScript File | OziXploit | [Read More](https://medium.com/p/2f33866feaf6) |
