@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 18:33:02 GMT | Ghost Calls: How Web Conferencing Platforms Are Being Turned into Covert C&C Channels | Chetan Seripally | [Read More](https://medium.com/p/93d8da520c51) |
+| Thu, 07 Aug 2025 18:29:19 GMT | The BRICS Cyber Nexus: Cooperation, Confrontation, and Bloc Formation — Brics Part 5 | Ali Gündoğar | [Read More](https://medium.com/p/3303b1a48ea9) |
+| Thu, 07 Aug 2025 18:21:19 GMT | Vulnerability Assessment as a Service: Find the Flaws Before Hackers Do | SafeAeon Inc. | [Read More](https://medium.com/p/e94537edb334) |
+| Thu, 07 Aug 2025 18:20:56 GMT | Defend or Vanish: The Security Mandate in the GPT-5 Era | Shiven Grover | [Read More](https://medium.com/p/804fb100b8b1) |
+| Thu, 07 Aug 2025 18:16:57 GMT | ZERO-DAY CVE-2025–24893 “XWiki Platform — Remote Code Execution” POC | HariHaranK | [Read More](https://medium.com/p/00bd2ca3a93d) |
+| Thu, 07 Aug 2025 18:12:37 GMT | MFA as a Service: The Smartest Way to Lock Down Access Without Complicating Logins | SafeAeon Inc. | [Read More](https://medium.com/p/135c3b7441fc) |
+| Thu, 07 Aug 2025 18:05:48 GMT | The Complete Guide to the Best Family Safety Spy App | Narjis Batool | [Read More](https://medium.com/p/2552bc45cd51) |
+| Thu, 07 Aug 2025 18:05:22 GMT | After falling victim to a fake online investment platform, I lost a significant amount of Bitcoin… | Genesislucas | [Read More](https://medium.com/p/69731ffed4fe) |
+| Thu, 07 Aug 2025 18:02:31 GMT | 5 LinkedIn Hacks to Promote Your Cybersecurity Articles | Aj | [Read More](https://medium.com/p/9108b8fd6ec6) |
+| Thu, 07 Aug 2025 18:01:51 GMT | Malicious Interfaces: How Artificial Intelligence Is Rewriting the User Experience of Cyber… | Jeffrey Nickle | [Read More](https://medium.com/p/50ae7fe0e98c) |
+| Thu, 07 Aug 2025 17:58:59 GMT | CyberDefenders Endpoint Forensics - BankingTroubles Lab | Girithar Ram Ravindran | [Read More](https://medium.com/p/9c8d46ca1fec) |
+| Thu, 07 Aug 2025 17:58:50 GMT | Brazil and South Africa: Evolving Frameworks for Cyber Resilience — Brics Part 4 | Ali Gündoğar | [Read More](https://medium.com/p/93bbbd8c7fcf) |
+| Thu, 07 Aug 2025 17:50:29 GMT | How I Found an RCE Vulnerability on Example.com and Earned a $3000 Bounty in 15 Minutes | AmirhosseinBz | [Read More](https://medium.com/p/5d6c61d703bb) |
 | Thu, 07 Aug 2025 17:41:16 GMT | SonicWall Walks Back Zero-Day Concerns, Points to Old VPN Flaw in Akira Attacks | Dhruvdeep Singh | [Read More](https://medium.com/p/a4249f2e6b30) |
 | Thu, 07 Aug 2025 17:40:28 GMT | TryHackMe — Relevant | omni | [Read More](https://medium.com/p/d37f1249d962) |
 | Thu, 07 Aug 2025 17:39:12 GMT | Certificate Transparency in Android 16+: Why It Matters and How to Implement It | Gal Kohen | [Read More](https://medium.com/p/45c2c7cad658) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 13:24:29 GMT | Intro to Offensive Security - TryHackMe | Ans Inayat | [Read More](https://medium.com/p/6465f70c7e54) |
 | Thu, 07 Aug 2025 13:21:31 GMT | Between Two Selves | ℕ. | [Read More](https://medium.com/p/c9c9afcd18ac) |
 | Thu, 07 Aug 2025 13:20:58 GMT | Strong Privacy with Free DRM: Why MaiPDF is My Go-To PDF Tool | Nor Writes | [Read More](https://medium.com/p/70958e4fe6ba) |
-| Thu, 07 Aug 2025 13:20:32 GMT | Hack The Box — PDFy Write-Up | Sahand Babali | [Read More](https://medium.com/p/070fa2b6e7cb) |
-| Thu, 07 Aug 2025 13:17:23 GMT | Google Just Patched a Critical Pixel Security Flaw — Here’s Why You Shouldn’t Wait | Theo Knox | [Read More](https://medium.com/p/9e5cc6aa39e0) |
-| Thu, 07 Aug 2025 13:17:05 GMT | Urgent Security Advisory: Exploitation of SharePoint On-Premises | Sousouni Bajis | [Read More](https://medium.com/p/10c216ef4e46) |
-| Thu, 07 Aug 2025 13:15:15 GMT | Co dělat, když jste pod kybernetickým útokem? | Cyber Solution | [Read More](https://medium.com/p/920dacd1b28a) |
-| Thu, 07 Aug 2025 13:15:09 GMT | How AI and ML Are Shaping the Future of Cybersecurity Services | West Advanced Technologies Inc | [Read More](https://medium.com/p/603c579e30d3) |
-| Thu, 07 Aug 2025 13:13:52 GMT | Audio Upload Functionality: End-to-End Guide for Security Testers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/701ab79bbeeb) |
-| Thu, 07 Aug 2025 13:12:53 GMT | From Vulnerable to Patched — Ubuntu | Mohamed Karrab | [Read More](https://medium.com/p/1506d4c5ef0d) |
-| Thu, 07 Aug 2025 13:12:44 GMT | people are just people. | Human. | [Read More](https://medium.com/p/5d31bcfbfd46) |
-| Thu, 07 Aug 2025 13:10:43 GMT | How I Earned $1,752 Using Just Nmap: A Bug Bounty Recon Success Story | Ezekiel peter | [Read More](https://medium.com/p/1101c726959a) |
-| Thu, 07 Aug 2025 13:10:31 GMT | ️ From Small Leak to Big Breach: The Hidden Risk of Misconfigured AWS S3 Buckets | Rehan Ali Khan | [Read More](https://medium.com/p/57d2309ee6c7) |
-| Thu, 07 Aug 2025 13:10:11 GMT | DevSecOps & Software Composition Analysis & Application Security Testing Trio: SAST, DAST, IAST &… | Mehmet Cambaz | [Read More](https://medium.com/p/40caef656be4) |
-| Thu, 07 Aug 2025 13:08:59 GMT | How a Simple XSS Flaw Gave Me Admin Access | Ibtissam hammadi | [Read More](https://medium.com/p/2795a6940c89) |
-| Thu, 07 Aug 2025 13:04:59 GMT | Advanced Account Takeover Techniques: A Hacker’s Playbook for Awareness | EL_Cazad0r | [Read More](https://medium.com/p/149754bad5af) |
