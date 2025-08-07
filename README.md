@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 05:51:47 GMT | How Attackers Steal Data from Websites (And How to Stop Them) | Michal Stefanow | [Read More](https://medium.com/p/7f39a92b8b45) |
+| Thu, 07 Aug 2025 05:41:53 GMT | Part 2: Cybersecurity Simplified: Understanding Threats, Attacks, and Defense | Harini Ganesan | [Read More](https://medium.com/p/4b2c61dd7bb9) |
+| Thu, 07 Aug 2025 05:39:21 GMT | From Cop to Cybercop: My Journey into Digital Forensics & Cybercrime Investigation | IBE KINGSLEY | [Read More](https://medium.com/p/d30b12dc96de) |
+| Thu, 07 Aug 2025 05:38:27 GMT | How to use recon-ng for Information Gathering - OSINT | Bennet Sharwin | [Read More](https://medium.com/p/a4b3c2896a9b) |
+| Thu, 07 Aug 2025 05:29:50 GMT | AI’s Blind Spots: Understanding the True Impact of Biased Systems | BlueTeam Bytes | [Read More](https://medium.com/p/6b9c187fbb40) |
 | Thu, 07 Aug 2025 05:29:08 GMT | How ISO/IEC 27001 Builds Trust, Cuts Costs, and Fortifies Cybersecurity in Financial Services | Mojiz Zaidi | [Read More](https://medium.com/p/c40a7943f85f) |
 | Thu, 07 Aug 2025 05:26:26 GMT | Cybersecurity as Mahishasuramardini: The Slayer of Digital Demons | Dipayan Ghosh | [Read More](https://medium.com/p/8fc97a4ea7ad) |
+| Thu, 07 Aug 2025 05:24:58 GMT | “Why Can’t Hackers Just Read What I Send?” — The Story of Encryption and SSL | Harshvardhan Bhosale | [Read More](https://medium.com/p/555e20a6e3a0) |
+| Thu, 07 Aug 2025 05:23:29 GMT | Day 24- Understanding Different Versions and Differences in Cybersecurity | unica 02 | [Read More](https://medium.com/p/42fab5346470) |
 | Thu, 07 Aug 2025 05:14:09 GMT | How Nmap $4,000 Helped Me Earn in a Single Bug Bounty — Full Recon Walkthrough | Mohammed Gabic | [Read More](https://medium.com/p/49c3f9709cee) |
 | Thu, 07 Aug 2025 05:11:10 GMT | Cortex XDR: The Next Step Beyond EDR for Smarter SecOps | Juara IT Solutions | [Read More](https://medium.com/p/45e85d90e1b3) |
 | Thu, 07 Aug 2025 05:08:43 GMT | How I Got Hacked by a Telegram Bot and Reclaimed My Accounts | Shahzaib | [Read More](https://medium.com/p/a27dc431e531) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 21:30:10 GMT | Job search — Cybersecurity | Zen | [Read More](https://medium.com/p/4dcea7484d5b) |
 | Wed, 06 Aug 2025 21:26:21 GMT | Keyloggers: The Silent Threat Tracking Your Every Keystroke | Akshay Chauhan | [Read More](https://medium.com/p/3192baa24efc) |
 | Wed, 06 Aug 2025 21:25:25 GMT | Title: TryHackMe Bounty Hacker write-up | Kumari Amita Kishore | [Read More](https://medium.com/p/3438e3af6c36) |
-| Wed, 06 Aug 2025 21:21:31 GMT | Gerçek Bir Pentest Senaryosu: Flutter’da Trafik Dinleme ve Güvenlik Önlemlerini Atlatma | Süleyman Emre Erdem | [Read More](https://medium.com/p/132d29721010) |
-| Wed, 06 Aug 2025 21:11:30 GMT | Building Drivana.pro: A Multi-Tenant Document Intelligence Platform for the Automotive Industry | Daniel C Arruda | [Read More](https://medium.com/p/a744d6b32eef) |
-| Wed, 06 Aug 2025 20:43:09 GMT | ByBit, ODOS, and BBX Hacked: $1.5B | Olympix | [Read More](https://medium.com/p/f65cdf790bd2) |
-| Wed, 06 Aug 2025 20:42:42 GMT | TCM OSINT: A Journey into Open-Source Intelligence | rnnull | [Read More](https://medium.com/p/52a7985c462a) |
-| Wed, 06 Aug 2025 20:41:15 GMT | Zoth, FortuneWheel, and Sorra Finance Exploited for $347K via LTV Mismatch, Unprotected Swaps, and… | Olympix | [Read More](https://medium.com/p/5fd8ea76a914) |
-| Wed, 06 Aug 2025 20:37:55 GMT | Quest | Norman Meg | [Read More](https://medium.com/p/5029e63be157) |
-| Wed, 06 Aug 2025 20:36:59 GMT | How to Discover Plain-Text Credentials Before Attackers Turn Them Against You | Alexandre Vandamme | [Read More](https://medium.com/p/e09b11085516) |
