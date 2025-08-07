@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 19:29:44 GMT | Crypto, Love, and Lies: The Shocking Rise of Pig Butchering Scams | Akshay Chauhan | [Read More](https://medium.com/p/ed2176c81037) |
+| Thu, 07 Aug 2025 19:20:40 GMT | For the One Who Loves Quietly | Letters to the Fog | [Read More](https://medium.com/p/81563b2ba984) |
 | Thu, 07 Aug 2025 19:14:55 GMT | Getting Policies, Procedures, Standards & Guidelines right. | Steve Faust | [Read More](https://medium.com/p/e744f77e47ed) |
 | Thu, 07 Aug 2025 19:12:42 GMT | CVE‑2025‑53770 — SharePoint ToolShell Exploit | Radeonares | [Read More](https://medium.com/p/38a27abdf03f) |
 | Thu, 07 Aug 2025 19:11:50 GMT | Zoom Notes Phishing Abuse: How Attackers Exploit a Trusted Brand to Deliver Legitimate-Looking… | Chase Kester | [Read More](https://medium.com/p/67bd6f87b8c9) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 14:31:50 GMT | Deconstructing the Digital Heartbeat: A Beginner’s Guide to Windows Processes | AlanKaliX | [Read More](https://medium.com/p/614bd3254520) |
 | Thu, 07 Aug 2025 14:25:29 GMT | The Future of DAO Security: How Drosera Network Can Safeguard Treasuries in 2025 | Cybertank | [Read More](https://medium.com/p/20eda9a9ce24) |
 | Thu, 07 Aug 2025 14:18:13 GMT | How to Monitor Web Performance Without Overhead | Rizqi Mulki | [Read More](https://medium.com/p/388cae019387) |
-| Thu, 07 Aug 2025 14:11:57 GMT | Siber Güvenlik Bakışıyla: Tünelleme | Barış A. | [Read More](https://medium.com/p/e4ea501ad9e9) |
-| Thu, 07 Aug 2025 14:11:16 GMT | Compunding Luck | EXLITY | [Read More](https://medium.com/p/b2cccf631fb2) |
