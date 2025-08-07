@@ -12,7 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 13:36:37 GMT | ROOT-ME: XSS - Reflected | Gba | [Read More](https://medium.com/p/a6e3bacd25f8) |
+| Thu, 07 Aug 2025 13:34:27 GMT | Is com. Samsung Android App Galaxy finder? | Cnvrtools | [Read More](https://medium.com/p/46d8570a3c92) |
+| Thu, 07 Aug 2025 13:25:13 GMT | VPN vs Proxy: The 2025 Privacy Protection Reality Check | TechEd Publishers | [Read More](https://medium.com/p/a4def572f946) |
+| Thu, 07 Aug 2025 13:24:29 GMT | Intro to Offensive Security - TryHackMe | Ans Inayat | [Read More](https://medium.com/p/6465f70c7e54) |
+| Thu, 07 Aug 2025 13:21:31 GMT | Between Two Selves | ℕ. | [Read More](https://medium.com/p/c9c9afcd18ac) |
+| Thu, 07 Aug 2025 13:20:58 GMT | Strong Privacy with Free DRM: Why MaiPDF is My Go-To PDF Tool | Nor Writes | [Read More](https://medium.com/p/70958e4fe6ba) |
+| Thu, 07 Aug 2025 13:20:32 GMT | Hack The Box — PDFy Write-Up | Sahand Babali | [Read More](https://medium.com/p/070fa2b6e7cb) |
+| Thu, 07 Aug 2025 13:17:23 GMT | Google Just Patched a Critical Pixel Security Flaw — Here’s Why You Shouldn’t Wait | Theo Knox | [Read More](https://medium.com/p/9e5cc6aa39e0) |
+| Thu, 07 Aug 2025 13:17:05 GMT | Urgent Security Advisory: Exploitation of SharePoint On-Premises | Sousouni Bajis | [Read More](https://medium.com/p/10c216ef4e46) |
+| Thu, 07 Aug 2025 13:15:15 GMT | Co dělat, když jste pod kybernetickým útokem? | Cyber Solution | [Read More](https://medium.com/p/920dacd1b28a) |
+| Thu, 07 Aug 2025 13:15:09 GMT | How AI and ML Are Shaping the Future of Cybersecurity Services | West Advanced Technologies Inc | [Read More](https://medium.com/p/603c579e30d3) |
+| Thu, 07 Aug 2025 13:13:52 GMT | Audio Upload Functionality: End-to-End Guide for Security Testers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/701ab79bbeeb) |
+| Thu, 07 Aug 2025 13:12:53 GMT | From Vulnerable to Patched — Ubuntu | Mohamed Karrab | [Read More](https://medium.com/p/1506d4c5ef0d) |
+| Thu, 07 Aug 2025 13:12:44 GMT | people are just people. | Human. | [Read More](https://medium.com/p/5d31bcfbfd46) |
+| Thu, 07 Aug 2025 13:10:43 GMT | How I Earned $1,752 Using Just Nmap: A Bug Bounty Recon Success Story | Ezekiel peter | [Read More](https://medium.com/p/1101c726959a) |
+| Thu, 07 Aug 2025 13:10:31 GMT | ️ From Small Leak to Big Breach: The Hidden Risk of Misconfigured AWS S3 Buckets | Rehan Ali Khan | [Read More](https://medium.com/p/57d2309ee6c7) |
+| Thu, 07 Aug 2025 13:10:11 GMT | DevSecOps & Software Composition Analysis & Application Security Testing Trio: SAST, DAST, IAST &… | Mehmet Cambaz | [Read More](https://medium.com/p/40caef656be4) |
+| Thu, 07 Aug 2025 13:08:59 GMT | How a Simple XSS Flaw Gave Me Admin Access | Ibtissam hammadi | [Read More](https://medium.com/p/2795a6940c89) |
+| Thu, 07 Aug 2025 13:04:59 GMT | Advanced Account Takeover Techniques: A Hacker’s Playbook for Awareness | EL_Cazad0r | [Read More](https://medium.com/p/149754bad5af) |
+| Thu, 07 Aug 2025 12:59:55 GMT | Basic Pentesting 2 — A Hands-On Walkthrough | Kizito Arinze Chukwu | [Read More](https://medium.com/p/0051c7b3027f) |
+| Thu, 07 Aug 2025 12:52:49 GMT | Desecure Yazılım Çözümleriyle Risk Azaltma Stratejileri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/9477e2311416) |
+| Thu, 07 Aug 2025 12:52:40 GMT | Best Home Security Cameras of 2025: My Picks for Your Protection | Shujaaseo | [Read More](https://medium.com/p/df67b4c5bebc) |
 | Thu, 07 Aug 2025 12:50:36 GMT | Ethical Hacking: What Is It and How Can I Get Into It? | Adara S. | [Read More](https://medium.com/p/a95d6aa80d6e) |
+| Thu, 07 Aug 2025 12:44:23 GMT | Dynamic Malware Analysis #2— LetsDefend | Atlas Security | [Read More](https://medium.com/p/2515cc33cbc3) |
 | Thu, 07 Aug 2025 12:41:16 GMT | Top 5 Cybersecurity Threats for SME in 2025: A Comprehensive Guide to Protecting Your Business | RSVR Tech | [Read More](https://medium.com/p/95beab850214) |
 | Thu, 07 Aug 2025 12:39:02 GMT | ISMAP Management Standards Chapter 10: The Power of “Cryptography” and How to Use It Wisely | nolly | [Read More](https://medium.com/p/cd2844450d68) |
 | Thu, 07 Aug 2025 12:35:20 GMT | iOS & iPad OS 29 Vulnerabilities Patched | Cybersectoworld | [Read More](https://medium.com/p/c22086eabdf5) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 09:36:00 GMT | Prevent Cyber Crimes & Safeguard Digital Data — 2025 Guide | Amit solanki | [Read More](https://medium.com/p/29af35cfa5b5) |
 | Thu, 07 Aug 2025 09:32:43 GMT | Empowering the Frontline: How the Smart Connected Worker Solution Market is Reshaping Industry | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/aaff30f67bc2) |
 | Thu, 07 Aug 2025 09:31:17 GMT | “Am I Too Late?” Starting Cyber at 27 | Authlyn | [Read More](https://medium.com/p/240a4a58b7a9) |
-| Thu, 07 Aug 2025 09:31:16 GMT | Splunk Data Manipulation: A Technical and Hands-On Look at the TryHackMe Room | Furkanctiner | [Read More](https://medium.com/p/372dc6328950) |
-| Thu, 07 Aug 2025 09:31:11 GMT | Simplify file encryption with HashiCorp Vault transit engine | Jessica Ang | [Read More](https://medium.com/p/ceca1dd267c7) |
-| Thu, 07 Aug 2025 09:30:26 GMT | The Human Side of Cybersecurity | Samuel George | [Read More](https://medium.com/p/469f2e60253f) |
-| Thu, 07 Aug 2025 09:27:57 GMT | Your AI Assistant Just Got Hacked — And You Didn’t Even Click Anything | Aaron | [Read More](https://medium.com/p/f3387df37c13) |
-| Thu, 07 Aug 2025 09:27:51 GMT | IMSI Catchers, SS7 Attacks & The Real Reason You Need a Secure Mobile Plan | Haris Nadeem | [Read More](https://medium.com/p/ec27f051b72f) |
-| Thu, 07 Aug 2025 09:22:31 GMT | Silent Cyber Knights: Days Without Human Contact? | Truspex | [Read More](https://medium.com/p/5b4dae2306de) |
-| Thu, 07 Aug 2025 09:20:02 GMT | How I Started My Tech Blog in Nigeria With Zero Naira | Olupemoyosola | [Read More](https://medium.com/p/8c0d3f9f6569) |
-| Thu, 07 Aug 2025 09:19:10 GMT | 7-Step Vulnerability Assessment Guide to Fix Weak Spots | MSP Dark Intel | [Read More](https://medium.com/p/4b4137804a3e) |
-| Thu, 07 Aug 2025 09:13:35 GMT | Brute Force Lab Setup for SSH and FTP using Metasploit | Zeeshan Masood Keyani | [Read More](https://medium.com/p/3047e1b99c01) |
-| Thu, 07 Aug 2025 09:11:24 GMT | Authentication: A Developer’s Complete Guide | Raphael Abayomi | [Read More](https://medium.com/p/efa42b429569) |
-| Thu, 07 Aug 2025 09:02:37 GMT | Protect Your Website in 3 Minutes with SafeLine: An Open-Source WAF with 17.3K GitHub Stars | Quella | [Read More](https://medium.com/p/888dc56a9eb2) |
-| Thu, 07 Aug 2025 09:01:41 GMT | The Secret Your Security Team Isn’t Using: How AI Is Transforming Compliance Audits | Essential Nexus | [Read More](https://medium.com/p/d769935ad333) |
-| Thu, 07 Aug 2025 09:00:12 GMT | “Rental Car Hacked?!” — My Paranoia Trip | CtrlC3 | [Read More](https://medium.com/p/c1015e3d4f2e) |
-| Thu, 07 Aug 2025 08:58:37 GMT | GraphQL v1 | bariss30 | [Read More](https://medium.com/p/650cc375d501) |
-| Thu, 07 Aug 2025 08:57:05 GMT | Supercharged SecOps Series — AI In The SOC — Deploying Azure OpenAI | @mikecybersec | [Read More](https://medium.com/p/abbec0af377b) |
-| Thu, 07 Aug 2025 08:56:35 GMT | My Cybersecurity Journey | Tsau Tsau | [Read More](https://medium.com/p/ea5c71264ce5) |
-| Thu, 07 Aug 2025 08:54:52 GMT | MLOps Cybersecurity Project Deployment | Faaiz SHAH | [Read More](https://medium.com/p/b3539d1da68b) |
-| Thu, 07 Aug 2025 08:50:04 GMT | What is JWT (JSON Web Token)? | Maverick Steel | [Read More](https://medium.com/p/bc3120758458) |
-| Thu, 07 Aug 2025 08:49:42 GMT | The Daily Tech Digest: 07 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/48888047ea5c) |
-| Thu, 07 Aug 2025 08:48:10 GMT | The World’s Oldest and Smallest Army Protects the Most Influential Man | Dmitrii | [Read More](https://medium.com/p/210b941d3dda) |
-| Thu, 07 Aug 2025 08:46:02 GMT | Web Application Penetration Testing for Stronger Security | Bhavesh Rajpurohit | [Read More](https://medium.com/p/1b50bf138dd7) |
-| Thu, 07 Aug 2025 08:43:06 GMT | Why Your Android Debug Bridge Fails in Docker (And How to Fix It) | Zahid | [Read More](https://medium.com/p/9567966af60d) |
-| Thu, 07 Aug 2025 08:33:14 GMT | Understanding the STRIDE Threat Model for Generative AI | goswamiijaya | [Read More](https://medium.com/p/3bc8b9d9ee3d) |
