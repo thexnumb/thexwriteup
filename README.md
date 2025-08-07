@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 14:11:57 GMT | Siber Güvenlik Bakışıyla: Tünelleme | Barış A. | [Read More](https://medium.com/p/e4ea501ad9e9) |
+| Thu, 07 Aug 2025 14:11:16 GMT | Compunding Luck | EXLITY | [Read More](https://medium.com/p/b2cccf631fb2) |
+| Thu, 07 Aug 2025 14:09:58 GMT | Vertical vs Horizontal Scaling: Which One Should You Choose? | Rizqi Mulki | [Read More](https://medium.com/p/cf628aa39248) |
+| Thu, 07 Aug 2025 14:08:54 GMT | 8. Healed Doesn’t Mean Hardened — You’re Allowed to Stay Soft | Roj Ink | [Read More](https://medium.com/p/f9d0779b9a72) |
+| Thu, 07 Aug 2025 14:06:13 GMT | Building a Self-Learning Entity Resolution System for Post-Breach Intelligence | Ranjeet Aloriya | [Read More](https://medium.com/p/b3765e174f4e) |
+| Thu, 07 Aug 2025 14:01:51 GMT | Unlock Fleet-Wide Observability with osquery and Snowflake | Matt Barreiro | [Read More](https://medium.com/p/91c40ddc0f56) |
+| Thu, 07 Aug 2025 14:01:51 GMT | Cyber Briefing: 2025.08.07 | CyberMaterial | [Read More](https://medium.com/p/f34edb144ffa) |
+| Thu, 07 Aug 2025 14:01:04 GMT | ️ Hijacking Prevention in auth | Osvaldo González Venegas | [Read More](https://medium.com/p/1e885d771d49) |
+| Thu, 07 Aug 2025 13:59:45 GMT | Jumping Aboard the Cybersecurity Cruise Ship: The Big 4 Skillsets to Be a Cyber Professional | Abeera Mehtab | [Read More](https://medium.com/p/56e89d4905ae) |
+| Thu, 07 Aug 2025 13:52:14 GMT | EDSPL’s Approach to Secure Software Development | saurabh cyberinfomines | [Read More](https://medium.com/p/b37022f2b81e) |
+| Thu, 07 Aug 2025 13:51:53 GMT | Weekly Cyber Threat Bulletin: 7 August 2025 | Marcelle Lee | [Read More](https://medium.com/p/eca9599055e1) |
+| Thu, 07 Aug 2025 13:51:17 GMT | From Military Service to Cybersecurity: A Guide for U.S. Veterans | Cybersecurity Courses | [Read More](https://medium.com/p/04c60ac1d186) |
+| Thu, 07 Aug 2025 13:48:51 GMT | Air France and KLM Disclose Data Breach Linked to Customer Service Platform | Dhruvdeep Singh | [Read More](https://medium.com/p/341563c86554) |
+| Thu, 07 Aug 2025 13:42:55 GMT | The Cybersecurity Resume Mistake That’s Keeping You From Getting Interviews | Dhruvdeep Singh | [Read More](https://medium.com/p/b25eb9c6e989) |
 | Thu, 07 Aug 2025 13:36:37 GMT | ROOT-ME: XSS - Reflected | Gba | [Read More](https://medium.com/p/a6e3bacd25f8) |
 | Thu, 07 Aug 2025 13:34:27 GMT | Is com. Samsung Android App Galaxy finder? | Cnvrtools | [Read More](https://medium.com/p/46d8570a3c92) |
 | Thu, 07 Aug 2025 13:25:13 GMT | VPN vs Proxy: The 2025 Privacy Protection Reality Check | TechEd Publishers | [Read More](https://medium.com/p/a4def572f946) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 10:13:52 GMT | BoardLight HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/9d89b8f7632d) |
 | Thu, 07 Aug 2025 10:11:01 GMT | Securely Connect On-Prem Workloads to AWS Using IAM Roles Anywhere | Ismail Kovvuru | [Read More](https://medium.com/p/e2826c901a2c) |
 | Thu, 07 Aug 2025 10:02:10 GMT | Transforming Public Spaces with Smart and Interactive Kiosks | Rakesh | [Read More](https://medium.com/p/e589bf8d3c1f) |
-| Thu, 07 Aug 2025 10:00:21 GMT | Evading Digital Bloodhound: The DNS Anomaly Detection | Dheeraj Madhukar | [Read More](https://medium.com/p/c52afb7dd667) |
-| Thu, 07 Aug 2025 09:59:51 GMT | Top SIEM Services to Enhance Your Cybersecurity Posture | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/cdd3d099c145) |
-| Thu, 07 Aug 2025 09:55:55 GMT | 10 Services You Should Absolutely Ditch in 2025 — Before They Ditch Your Privacy | Deleteo-Erase your digital footprint in minutes | [Read More](https://medium.com/p/226d398fdc8e) |
-| Thu, 07 Aug 2025 09:54:45 GMT | Breach-Centric Cybersecurity: Insights and Lessons from the ASEAN Landscape | Farhan Anfasa Maulana | [Read More](https://medium.com/p/46d6e5268a61) |
-| Thu, 07 Aug 2025 09:54:03 GMT | What Is VLAN Hopping And How To Prevent It? | Redfox Security | [Read More](https://medium.com/p/95fe94ec0bfd) |
-| Thu, 07 Aug 2025 09:54:02 GMT | How Companies Are Hiring for Digital Security Roles in 2025 | Kartik Debnath | [Read More](https://medium.com/p/43c53683ab4d) |
-| Thu, 07 Aug 2025 09:49:21 GMT | [Case Study]AI and Compliance: Incompatible or Mutual Benefit? | VaaSBlock | [Read More](https://medium.com/p/de0877996e72) |
-| Thu, 07 Aug 2025 09:48:14 GMT | Securing File Transfers with SHA-256: A Simple Yet Effective Approach | Aditya Ramaswamy | [Read More](https://medium.com/p/64980a9df5e6) |
-| Thu, 07 Aug 2025 09:40:55 GMT | Forensics - picoGym - Operation Orchid | Flower Bed | [Read More](https://medium.com/p/436e4692c421) |
-| Thu, 07 Aug 2025 09:40:13 GMT | Gigabyte Motherboards at Risk: UEFI Malware Can Bypass Secure Boot | CyberShiv | [Read More](https://medium.com/p/0171f3e3cecd) |
-| Thu, 07 Aug 2025 09:36:04 GMT | RE_verseDIS CTFlearn Reverse Engineering Challenge — Write-up | Elmin Farzaliyev | [Read More](https://medium.com/p/c6fa983db42a) |
-| Thu, 07 Aug 2025 09:36:00 GMT | Prevent Cyber Crimes & Safeguard Digital Data — 2025 Guide | Amit solanki | [Read More](https://medium.com/p/29af35cfa5b5) |
-| Thu, 07 Aug 2025 09:32:43 GMT | Empowering the Frontline: How the Smart Connected Worker Solution Market is Reshaping Industry | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/aaff30f67bc2) |
-| Thu, 07 Aug 2025 09:31:17 GMT | “Am I Too Late?” Starting Cyber at 27 | Authlyn | [Read More](https://medium.com/p/240a4a58b7a9) |
