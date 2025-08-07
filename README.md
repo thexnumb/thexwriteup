@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 09:27:57 GMT | Your AI Assistant Just Got Hacked — And You Didn’t Even Click Anything | Aaron | [Read More](https://medium.com/p/f3387df37c13) |
+| Thu, 07 Aug 2025 09:22:31 GMT | Silent Cyber Knights: Days Without Human Contact? | Truspex | [Read More](https://medium.com/p/5b4dae2306de) |
+| Thu, 07 Aug 2025 09:20:02 GMT | How I Started My Tech Blog in Nigeria With Zero Naira | Olupemoyosola | [Read More](https://medium.com/p/8c0d3f9f6569) |
+| Thu, 07 Aug 2025 09:19:10 GMT | 7-Step Vulnerability Assessment Guide to Fix Weak Spots | MSP Dark Intel | [Read More](https://medium.com/p/4b4137804a3e) |
+| Thu, 07 Aug 2025 09:13:35 GMT | Brute Force Lab Setup for SSH and FTP using Metasploit | Zeeshan Masood Keyani | [Read More](https://medium.com/p/3047e1b99c01) |
+| Thu, 07 Aug 2025 09:11:24 GMT | Authentication: A Developer’s Complete Guide | Raphael Abayomi | [Read More](https://medium.com/p/efa42b429569) |
+| Thu, 07 Aug 2025 09:02:37 GMT | Protect Your Website in 3 Minutes with SafeLine: An Open-Source WAF with 17.3K GitHub Stars | Quella | [Read More](https://medium.com/p/888dc56a9eb2) |
+| Thu, 07 Aug 2025 09:01:41 GMT | The Secret Your Security Team Isn’t Using: How AI Is Transforming Compliance Audits | Essential Nexus | [Read More](https://medium.com/p/d769935ad333) |
+| Thu, 07 Aug 2025 09:00:12 GMT | “Rental Car Hacked?!” — My Paranoia Trip | CtrlC3 | [Read More](https://medium.com/p/c1015e3d4f2e) |
+| Thu, 07 Aug 2025 08:58:37 GMT | GraphQL v1 | bariss30 | [Read More](https://medium.com/p/650cc375d501) |
+| Thu, 07 Aug 2025 08:57:05 GMT | Supercharged SecOps Series — AI In The SOC — Deploying Azure OpenAI | @mikecybersec | [Read More](https://medium.com/p/abbec0af377b) |
+| Thu, 07 Aug 2025 08:56:35 GMT | My Cybersecurity Journey | Tsau Tsau | [Read More](https://medium.com/p/ea5c71264ce5) |
+| Thu, 07 Aug 2025 08:54:52 GMT | MLOps Cybersecurity Project Deployment | Faaiz SHAH | [Read More](https://medium.com/p/b3539d1da68b) |
+| Thu, 07 Aug 2025 08:50:04 GMT | What is JWT (JSON Web Token)? | Maverick Steel | [Read More](https://medium.com/p/bc3120758458) |
+| Thu, 07 Aug 2025 08:49:42 GMT | The Daily Tech Digest: 07 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/48888047ea5c) |
+| Thu, 07 Aug 2025 08:48:10 GMT | The World’s Oldest and Smallest Army Protects the Most Influential Man | Dmitrii | [Read More](https://medium.com/p/210b941d3dda) |
+| Thu, 07 Aug 2025 08:46:02 GMT | Web Application Penetration Testing for Stronger Security | Bhavesh Rajpurohit | [Read More](https://medium.com/p/1b50bf138dd7) |
+| Thu, 07 Aug 2025 08:43:06 GMT | Why Your Android Debug Bridge Fails in Docker (And How to Fix It) | Zahid | [Read More](https://medium.com/p/9567966af60d) |
+| Thu, 07 Aug 2025 08:33:14 GMT | Understanding the STRIDE Threat Model for Generative AI | goswamiijaya | [Read More](https://medium.com/p/3bc8b9d9ee3d) |
+| Thu, 07 Aug 2025 08:31:15 GMT | How CoinCollectExperts Helped Me Recover My Stolen BTC | Genesislucas | [Read More](https://medium.com/p/48e96a6fc104) |
+| Thu, 07 Aug 2025 08:25:40 GMT | Portswigger Practice Exam #1 | Marco Nappi | [Read More](https://medium.com/p/4b400ac41b23) |
 | Thu, 07 Aug 2025 08:21:08 GMT | Have You Ever Traveled Abroad and Felt Digitally Naked? | Salvatory Samwel Nyandoro | [Read More](https://medium.com/p/9f70d2000674) |
 | Thu, 07 Aug 2025 08:17:00 GMT | SSH Hardening and Key Management on Linux Systems | Esra Kayhan | [Read More](https://medium.com/p/3dc48dd19845) |
 | Thu, 07 Aug 2025 08:13:07 GMT | Prevent Session Replay Attacks in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/3ea35ee56cf5) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 04:35:09 GMT | A Comparative Analysis of Quantum Cryptography Protocols: From BB84 to Device-Independent QKD | Tedislava Vasileva | [Read More](https://medium.com/p/98c9be855e95) |
 | Thu, 07 Aug 2025 04:34:58 GMT | ️‍♂️ 20 Recon Tools Every Bug Bounty Hunter Should Know (With Real Use Cases) | Joseph jr | [Read More](https://medium.com/p/27f68beb035c) |
 | Thu, 07 Aug 2025 04:21:33 GMT | Online Safety ActOnline Safety ActHow the Online Safety Act Impacts Big Tech Now? | Isla Smith | [Read More](https://medium.com/p/e3732bc0e1ee) |
-| Thu, 07 Aug 2025 04:20:05 GMT | How Nmap Helped Me Land My First $2,000 Bug Bounty (Beginner-Friendly Pentest Story) | Joseph jr | [Read More](https://medium.com/p/0f6289d1659b) |
-| Thu, 07 Aug 2025 04:13:32 GMT | Cybersecurity Boot Camps are a Scam | Oscar Garcia | [Read More](https://medium.com/p/861670984aab) |
-| Thu, 07 Aug 2025 04:05:49 GMT | MROCTF Write Up | Marty Nattakit | [Read More](https://medium.com/p/a14d29ea6084) |
-| Thu, 07 Aug 2025 04:03:31 GMT | A Deep Dive into ICS: My Journey from IT systems to Control Systems Guardian | Jeythasahanav | [Read More](https://medium.com/p/6952712138ee) |
-| Thu, 07 Aug 2025 04:03:15 GMT | Public Cloud Safety: Risks, Best Practices & Future Outlook | Geeky Vartika | [Read More](https://medium.com/p/3afd83d1f6ab) |
-| Thu, 07 Aug 2025 04:03:08 GMT | How I Gained Shell Access on a Company Server and Earned $3,500 Legally (Bug Bounty Case Study) | Carylrobert | [Read More](https://medium.com/p/63ea522b4bed) |
-| Thu, 07 Aug 2025 04:00:56 GMT | Unleash Your Inner Street Artist: Transform Words into Explosive Graffiti Art with AI | Prompt Engineer | [Read More](https://medium.com/p/45d2017cbdca) |
-| Thu, 07 Aug 2025 04:00:12 GMT | Fingerprinting Malware C2s Using Free Tools | Paritosh | [Read More](https://medium.com/p/3e4f4ccacbf2) |
-| Thu, 07 Aug 2025 03:57:03 GMT | Safe Conversations: Android Securing Interprocess Communication (IPC) | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/28c1b634500e) |
-| Thu, 07 Aug 2025 03:55:03 GMT | ️ 13 Must-Have Bash Scripts for Every DevOps Engineer | Carylrobert | [Read More](https://medium.com/p/ba6c8dabf799) |
-| Thu, 07 Aug 2025 03:51:04 GMT | How Reconnaissance Alone Earned Me a $2,000 Bug Bounty | Carylrobert | [Read More](https://medium.com/p/d5c352b72d6d) |
-| Thu, 07 Aug 2025 03:44:49 GMT | Can Spartan Aegis Protect Air-Gapped Systems? Absolutely — Here’s How | Ted Rogers | [Read More](https://medium.com/p/675c0cf3e7c2) |
-| Thu, 07 Aug 2025 03:40:53 GMT | Chromium XXE Flaw Exposes Local Files (CVE-2023–4357) | AerieWhole123 | [Read More](https://medium.com/p/081db8b0e800) |
-| Thu, 07 Aug 2025 03:38:30 GMT | Picture Perfect Exploit: How Image Uploads Turned Into Shell Access | Iski | [Read More](https://medium.com/p/473659d49020) |
-| Thu, 07 Aug 2025 03:35:48 GMT | (Access Control) Lab: Method-based access control can be circumvented - 2025 | Ananda | [Read More](https://medium.com/p/a04d76831cac) |
-| Thu, 07 Aug 2025 03:35:12 GMT | 15,000 Fake TikTok Shop Domains Are Stealing Crypto | Cyber-AppSec | [Read More](https://medium.com/p/3835c17563b0) |
-| Thu, 07 Aug 2025 03:31:41 GMT | Injection Vulnerabilities Demystified: SQLi, Command Injection, and XSS | YoungerSibling | [Read More](https://medium.com/p/f4a16ef82fdb) |
-| Thu, 07 Aug 2025 03:31:41 GMT | When Classrooms Are Compromised: The Baltimore Schools Data Breach | Deven Chhajed | [Read More](https://medium.com/p/bc62d8503a7a) |
-| Thu, 07 Aug 2025 03:29:12 GMT | ประจำวันพฤหัสบดีที่ 7สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/57188dfe6e90) |
-| Thu, 07 Aug 2025 03:23:17 GMT | Exploiting Cross-Site Scripting (XSS) to Capture Passwords | Bash Overflow | [Read More](https://medium.com/p/371670c3dc03) |
-| Thu, 07 Aug 2025 03:22:04 GMT | (Access Control) Lab: URL-based access control can be circumvented - 2025 | Ananda | [Read More](https://medium.com/p/9232e5ccf81b) |
