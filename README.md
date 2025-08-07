@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 11:13:19 GMT | ️ Understanding and Defending Against 3 Common Malwares | Sebinmathew | [Read More](https://medium.com/p/b98216c8d003) |
+| Thu, 07 Aug 2025 11:12:13 GMT | BBA in Aviation Management Course Details | amecee.ashish | [Read More](https://medium.com/p/709ee2a7b3fb) |
+| Thu, 07 Aug 2025 11:10:56 GMT | DevOps Learning Journey: Introduction to Devops | Oluwatobiloba Olamide | [Read More](https://medium.com/p/7eea3495ac66) |
+| Thu, 07 Aug 2025 11:10:12 GMT | DockerLabs Writeup — Injection (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0ab58ed34a5c) |
+| Thu, 07 Aug 2025 11:10:04 GMT | Who should use Hybrid SOC Services today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/4d8cafdb59fd) |
+| Thu, 07 Aug 2025 11:06:35 GMT | Can Microsoft’s ‘Project Ire’ Be the Future of AI-Powered Cybersecurity? | Mahesh Bhalala | [Read More](https://medium.com/p/cef6e184a701) |
+| Thu, 07 Aug 2025 10:57:48 GMT | What is PutraGPT? : Your AI-Powered Assistant for Bug Bounty Recon and Exploitation | Ezekiel peter | [Read More](https://medium.com/p/297a03e04ac6) |
+| Thu, 07 Aug 2025 10:57:39 GMT | “I Don’t Know How to Love Without Fear” | Aj | [Read More](https://medium.com/p/da3bbd4fe061) |
+| Thu, 07 Aug 2025 10:53:23 GMT | Cybersecurity’s Crossroads: What We Choose to Defend Says Everything | Peter Hillier/Halton | [Read More](https://medium.com/p/529b56170fad) |
+| Thu, 07 Aug 2025 10:50:20 GMT | Food Security In India | Theunitedindian | [Read More](https://medium.com/p/918601263707) |
+| Thu, 07 Aug 2025 10:45:26 GMT | When AI Turns Hacker | Anna M. | [Read More](https://medium.com/p/921d2343b78a) |
 | Thu, 07 Aug 2025 10:36:44 GMT | Unlock Your Career Potential with Cybersecurity Courses | jaeeni | [Read More](https://medium.com/p/66c17947c46f) |
 | Thu, 07 Aug 2025 10:35:33 GMT | Day 161/1000 – Why LiveGood Stands Out | LiveGood Js | [Read More](https://medium.com/p/95a89ab8dd49) |
 | Thu, 07 Aug 2025 10:35:29 GMT | Advanced Web Application Security: From OWASP Top 10 to Real-World Attacks | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/06ff7bfd1973) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 06:32:24 GMT | Breaking: Microsoft Exchange Server Vulnerability Could Lead to Full System Compromise | Tarush Sharma | [Read More](https://medium.com/p/2d722d59a027) |
 | Thu, 07 Aug 2025 06:30:48 GMT | I Used the Same Password Everywhere… Until My Entire Digital Life Unraveled | Aj | [Read More](https://medium.com/p/ed8db189dd49) |
 | Thu, 07 Aug 2025 06:28:40 GMT | S3 Subdomain Takeover!!! | Sushil Choudhary | [Read More](https://medium.com/p/0e2b1bba25f4) |
-| Thu, 07 Aug 2025 06:26:21 GMT | The Evolution of Phishing: The Rise of Multi-Faceted Internal Spoof Attacks | Travis Ray Caverhill | [Read More](https://medium.com/p/18517ab4c9f9) |
-| Thu, 07 Aug 2025 06:25:06 GMT | The Rise of Security Tokens in Digital Asset Markets | Yasa Baig | [Read More](https://medium.com/p/867a85dddcd0) |
-| Thu, 07 Aug 2025 06:23:50 GMT | Home Lab Chronicles: Part 08 — Setting up Cortex Analyzers | Suprim Devkota | [Read More](https://medium.com/p/9510783a0da7) |
-| Thu, 07 Aug 2025 06:23:20 GMT | Static Analysis of Windows Applications | Adreeta Maity | [Read More](https://medium.com/p/e07adfc1c753) |
-| Thu, 07 Aug 2025 06:18:47 GMT | CipherBC and CertiK Announce Comprehensive Strategic Partnership to Advance Security, Compliance… | CipherBC | [Read More](https://medium.com/p/fafc8e509442) |
-| Thu, 07 Aug 2025 06:15:13 GMT | Prevent Cyber Crimes and Safeguard Digital Data: The Ultimate 2025 Guide | Amit solanki | [Read More](https://medium.com/p/f58b825548b8) |
-| Thu, 07 Aug 2025 06:13:20 GMT | Protect Your WordPress Site Like a Pro [Full Free] — Admin Safety Guard Makes It Easy | Habibur | [Read More](https://medium.com/p/47becefbacd4) |
-| Thu, 07 Aug 2025 06:11:41 GMT | React Native in Real Life — The Beauty and the Bugs | Ena Modern Coder | [Read More](https://medium.com/p/6b157309d62b) |
-| Thu, 07 Aug 2025 06:11:11 GMT | Why Is Threat Hunting Becoming The New Cybersecurity Obsession? | Watch My Work | [Read More](https://medium.com/p/8c2fd9663a71) |
-| Thu, 07 Aug 2025 06:04:10 GMT | Generative AI — A Beginner’s Guide to Algorithms and Machine Learning: Concepts and Types | Jeeva Selvaraju | [Read More](https://medium.com/p/b987badf6fd9) |
-| Thu, 07 Aug 2025 06:03:25 GMT | Güvenlik Çağrı Sistemi: Acil Durumlarda Hayat Kurtaran Teknoloji | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/ce29f7004e84) |
