@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 12:50:36 GMT | Ethical Hacking: What Is It and How Can I Get Into It? | Adara S. | [Read More](https://medium.com/p/a95d6aa80d6e) |
+| Thu, 07 Aug 2025 12:41:16 GMT | Top 5 Cybersecurity Threats for SME in 2025: A Comprehensive Guide to Protecting Your Business | RSVR Tech | [Read More](https://medium.com/p/95beab850214) |
+| Thu, 07 Aug 2025 12:39:02 GMT | ISMAP Management Standards Chapter 10: The Power of “Cryptography” and How to Use It Wisely | nolly | [Read More](https://medium.com/p/cd2844450d68) |
+| Thu, 07 Aug 2025 12:35:20 GMT | iOS & iPad OS 29 Vulnerabilities Patched | Cybersectoworld | [Read More](https://medium.com/p/c22086eabdf5) |
+| Thu, 07 Aug 2025 12:31:56 GMT | Common Myths About Ethical Hacking — Busted! | Joanhermann | [Read More](https://medium.com/p/b8c802b6cc37) |
+| Thu, 07 Aug 2025 12:31:04 GMT | ISMAP Management Standards Chapter 9: Who Can Access What? The Golden Rules of “Access Control” | nolly | [Read More](https://medium.com/p/b234019e732f) |
+| Thu, 07 Aug 2025 12:26:27 GMT | How to Embed File Uploads with the Google Drive API | Idera Dev Tools | [Read More](https://medium.com/p/a2a27c1885b6) |
+| Thu, 07 Aug 2025 12:25:39 GMT | Level Up Your Bug Bounty Game: The Power of Client-Side Source Code Review | CypherNova1337 | [Read More](https://medium.com/p/75d2752824b4) |
+| Thu, 07 Aug 2025 12:24:48 GMT | Is Your Clinic Compliant With Information Security Standards? | Eggleston Services | [Read More](https://medium.com/p/40e329acdc9c) |
+| Thu, 07 Aug 2025 12:23:21 GMT | Benign — TryHackMe | Forrest Caffray | [Read More](https://medium.com/p/5f01dfd0f386) |
+| Thu, 07 Aug 2025 12:18:46 GMT | How to Transfer Microsoft 365 Backup Data into MBOX for Thunderbird | Kai Miller | [Read More](https://medium.com/p/c03e0918f064) |
+| Thu, 07 Aug 2025 12:18:04 GMT | Service Meshes: The Complete Guide to Modern Microservices Communication | Dennis Peter Munyao | [Read More](https://medium.com/p/630b48492d29) |
+| Thu, 07 Aug 2025 12:16:54 GMT | Unveiling the Hidden Risks: Why a New AI Fact-Checker’s “Truth” Model is a Dangerous… | Berend Watchus | [Read More](https://medium.com/p/6174aaf955f2) |
+| Thu, 07 Aug 2025 12:15:59 GMT | Ensuring Cloud Application Security: Best Practices and Solutions | Core Devs Ltd | [Read More](https://medium.com/p/8e037232d435) |
+| Thu, 07 Aug 2025 12:14:26 GMT | Run Smarter, Scale Faster with NetSuite Cloud ERP | Daman inoday | [Read More](https://medium.com/p/f61cd6fb85b2) |
+| Thu, 07 Aug 2025 12:09:40 GMT | Cybersecurity in the Modern Web World: A Developer’s Perspective in the Age of AI | Sreenivas Soman Nair | [Read More](https://medium.com/p/9ce0d5192225) |
+| Thu, 07 Aug 2025 12:08:34 GMT | Unlock Unbreakable Security: The Top 5 MFA Solutions You Must Deploy in 2025! | cybrNK | [Read More](https://medium.com/p/c7dc10e1f584) |
+| Thu, 07 Aug 2025 12:05:16 GMT | CEH vs OSCP: Which Ethical Hacking Certification is Better? | Crawsec | [Read More](https://medium.com/p/6cf430178799) |
+| Thu, 07 Aug 2025 12:02:00 GMT | What If We Trained Humans Like We Train Machines? | CyberGain | [Read More](https://medium.com/p/782b7631e551) |
+| Thu, 07 Aug 2025 12:00:24 GMT | How I Found Sensitive Crypto Transaction Data in a Public JavaScript File | OziXploit | [Read More](https://medium.com/p/2f33866feaf6) |
+| Thu, 07 Aug 2025 11:54:20 GMT | Make Way for Innovation: Panashi’s Wayfinding and Visitor Management Kiosks | Rakesh | [Read More](https://medium.com/p/c718d20fcf71) |
+| Thu, 07 Aug 2025 11:53:11 GMT | Hijacked via Bluetooth: The Silent Takeover of My Smart Car | Aj | [Read More](https://medium.com/p/917217bd1335) |
+| Thu, 07 Aug 2025 11:52:21 GMT | ️ From Public Sheet to API Takeover: Google Sheets Misconfig + Hardcoded Private Key (Bug Bounty) | Salaheddine KALADA | [Read More](https://medium.com/p/2dc13e235236) |
+| Thu, 07 Aug 2025 11:50:51 GMT | A comprehensive guide to Systems Thinking | Zeeshan Khalid | [Read More](https://medium.com/p/f5ddf618afc3) |
+| Thu, 07 Aug 2025 11:50:46 GMT | WHY ETHICAL HACKING SKILLS ARE A MUST-HAVE IN 2025’S AI-DRIVEN WORLD | bilalinternship | [Read More](https://medium.com/p/68b6a482c897) |
+| Thu, 07 Aug 2025 11:47:51 GMT | Inside the Mind of a Hacker: What Breaking into My Own Network Taught Me | Shahzaib | [Read More](https://medium.com/p/4def1ecb94fe) |
+| Thu, 07 Aug 2025 11:44:42 GMT | Security Blue Team Introduction to OSINT Challenge. | Chedenbenammar | [Read More](https://medium.com/p/11c5b77229c9) |
 | Thu, 07 Aug 2025 11:39:38 GMT | Unlock Your Cybersecurity Career with CISSP Online Training at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/f1ab26dbf09c) |
 | Thu, 07 Aug 2025 11:34:48 GMT | Logstash: A Friendly Guide Through TryHackMe’s Data Processing Unit | Furkanctiner | [Read More](https://medium.com/p/7826b6be8014) |
 | Thu, 07 Aug 2025 11:33:08 GMT | When SSL Certificate Renewal Isn’t Enough: A Real-World Lesson from isea.gov.in | Nivas Kanniah | [Read More](https://medium.com/p/1849e45b2a34) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 08:46:02 GMT | Web Application Penetration Testing for Stronger Security | Bhavesh Rajpurohit | [Read More](https://medium.com/p/1b50bf138dd7) |
 | Thu, 07 Aug 2025 08:43:06 GMT | Why Your Android Debug Bridge Fails in Docker (And How to Fix It) | Zahid | [Read More](https://medium.com/p/9567966af60d) |
 | Thu, 07 Aug 2025 08:33:14 GMT | Understanding the STRIDE Threat Model for Generative AI | goswamiijaya | [Read More](https://medium.com/p/3bc8b9d9ee3d) |
-| Thu, 07 Aug 2025 08:31:15 GMT | How CoinCollectExperts Helped Me Recover My Stolen BTC | Genesislucas | [Read More](https://medium.com/p/48e96a6fc104) |
-| Thu, 07 Aug 2025 08:25:40 GMT | Portswigger Practice Exam #1 | Marco Nappi | [Read More](https://medium.com/p/4b400ac41b23) |
-| Thu, 07 Aug 2025 08:21:08 GMT | Have You Ever Traveled Abroad and Felt Digitally Naked? | Salvatory Samwel Nyandoro | [Read More](https://medium.com/p/9f70d2000674) |
-| Thu, 07 Aug 2025 08:17:00 GMT | SSH Hardening and Key Management on Linux Systems | Esra Kayhan | [Read More](https://medium.com/p/3dc48dd19845) |
-| Thu, 07 Aug 2025 08:13:07 GMT | Prevent Session Replay Attacks in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/3ea35ee56cf5) |
-| Thu, 07 Aug 2025 08:10:00 GMT | EAL6+ vs EAL5+: How Digital Shield Is Redefining Cold Wallet Security Standards | Digital Shield | [Read More](https://medium.com/p/f59aa4645348) |
-| Thu, 07 Aug 2025 08:01:44 GMT | Stealer Logs: How Your Credentials End Up in Plain Text on the Dark Web (and How to Stop It) | Alexandre Vandamme | [Read More](https://medium.com/p/f0c4b68896cd) |
-| Thu, 07 Aug 2025 07:57:35 GMT | Bypassing Payment in an OTA Booking System Through Booking Reference ID Manipulation | Ria Sarkar | [Read More](https://medium.com/p/a81bee7a8910) |
-| Thu, 07 Aug 2025 07:56:44 GMT | Website & API Security Boost with SafeLine Web Application Firewall | Maverick Steel | [Read More](https://medium.com/p/06e3e06cf8e7) |
-| Thu, 07 Aug 2025 07:55:46 GMT | Is Ethical Hacking a Good Career Choice in 2025? | cyber security Updates | [Read More](https://medium.com/p/8f1e770489ea) |
-| Thu, 07 Aug 2025 07:53:28 GMT | What an online friendship revealed in me? | Deepika Prasad | [Read More](https://medium.com/p/6eb65e9225b5) |
-| Thu, 07 Aug 2025 07:50:24 GMT | From Input Field to Admin Panel: Real-World Web App Pentest on target.in | Samruth Sriram D | [Read More](https://medium.com/p/5b8fc84a50ff) |
-| Thu, 07 Aug 2025 07:45:42 GMT | Broken Trust by Voice: Dissecting Cisco’s Vishing‑Enabled CRM Data Breach. | eL Njas!™ | [Read More](https://medium.com/p/48745eac74eb) |
-| Thu, 07 Aug 2025 07:40:08 GMT | Imagine someone monitoring everything you type on your keyboard. Now stop imagining. | ZenturaTech | [Read More](https://medium.com/p/458d103031b8) |
-| Thu, 07 Aug 2025 07:37:21 GMT | HCIS Certification in Saudi Arabia: Ensuring Security and Compliance for Industrial Sites | Hitechfence | [Read More](https://medium.com/p/3f393b7bba0c) |
-| Thu, 07 Aug 2025 07:35:05 GMT | SafeLine vs Cloudbric: Smarter WAF Engines, Smarter Protection? | Quella | [Read More](https://medium.com/p/8c48ca091e37) |
-| Thu, 07 Aug 2025 07:33:09 GMT | Big Data in Supply Chain Market to Surge by 2030 - Turning Complexity into Competitive Advantage | Akhilasri | [Read More](https://medium.com/p/4e5f2d15b94a) |
-| Thu, 07 Aug 2025 07:27:42 GMT | How I Landed My First Cybersecurity Job With No Experience — It Wasn’t Luck | Analyst Atlas | [Read More](https://medium.com/p/5b715faa9976) |
-| Thu, 07 Aug 2025 07:27:36 GMT | Hijacked by Design: How Google’s Trusted Systems Became Global Threat Vectors | Pentestjunkie07 | [Read More](https://medium.com/p/fb6823425ad9) |
-| Thu, 07 Aug 2025 07:19:58 GMT | How GRC Must Evolve in the Age of Agentic AI and Generative AI | Taimur Ijlal | [Read More](https://medium.com/p/b21dbca5f4d0) |
-| Thu, 07 Aug 2025 07:17:28 GMT | How a Confused Man Trained His First YOLO Model. | virg | [Read More](https://medium.com/p/4131625f44de) |
-| Thu, 07 Aug 2025 07:15:47 GMT | Lockdown Android Tablets for Business - Secure & Manage Devices | Vantage MDM | [Read More](https://medium.com/p/ef536cf126a1) |
-| Thu, 07 Aug 2025 07:12:28 GMT | Renting or selling your LinkedIn account is a decision that is unlikely to end well. Here’s why: | Obaoluwaseun | [Read More](https://medium.com/p/22f9777835a3) |
-| Thu, 07 Aug 2025 07:12:07 GMT | “Mustang Panda Targets Windows Users with Tone Shell Malware Masquerading as Google Chrome” | Tarush Sharma | [Read More](https://medium.com/p/667a1d480bdc) |
-| Thu, 07 Aug 2025 07:11:13 GMT | Catatan Belajar: Regional Internet Registries (RIRs) | ki.a | [Read More](https://medium.com/p/73362fc26385) |
-| Thu, 07 Aug 2025 06:59:38 GMT | SafeLine vs Fastly Next-Gen WAF: Dev-Friendly Security for Modern Apps? | Quella | [Read More](https://medium.com/p/5f9d8fb15d33) |
-| Thu, 07 Aug 2025 06:49:18 GMT | EDITOR HTB | 0xLeonidas | [Read More](https://medium.com/p/b27707a18f56) |
