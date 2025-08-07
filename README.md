@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 15:39:55 GMT | Broken OAuth Linking | brbr0s | [Read More](https://medium.com/p/94308b7d423e) |
+| Thu, 07 Aug 2025 15:35:30 GMT | Access Bank Account Information via Response Manipulation | brbr0s | [Read More](https://medium.com/p/b373c9e4b536) |
+| Thu, 07 Aug 2025 15:30:48 GMT | information | Sohan Kanna D | [Read More](https://medium.com/p/ffa27d2c39b4) |
+| Thu, 07 Aug 2025 15:28:37 GMT | Rwanda: Trump’s Convenient Weakest Link in the Great Migrant Shuffle | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/8ae9a2927534) |
+| Thu, 07 Aug 2025 15:26:10 GMT | Step-by-Step Breakdown: Mitigating a Real-World Network Attack | Roselyne | [Read More](https://medium.com/p/6de354bb65cd) |
 | Thu, 07 Aug 2025 15:23:32 GMT | ️ Secure Your Code Like a Pro: JavaScript Security Checks You Can’t Ignore! | Lakhveer Singh Rajput | [Read More](https://medium.com/p/b3621f439a1a) |
 | Thu, 07 Aug 2025 15:19:42 GMT | not a sun girl, star girl or moon girl but something else entirely | sp4ced0ut | [Read More](https://medium.com/p/cab90f74c5ac) |
+| Thu, 07 Aug 2025 15:17:41 GMT | Money on the Couch: When Value Silences Desire | तांत्रिकA TANTRIKA तांत्रिक | [Read More](https://medium.com/p/e718b3bfe484) |
 | Thu, 07 Aug 2025 15:13:32 GMT | Glory of the Garden | Sohan Kanna D | [Read More](https://medium.com/p/73a5e39870ab) |
 | Thu, 07 Aug 2025 15:11:48 GMT | Blog 6: Stealth Port Scans with Nmap—Null, FIN, Xmas, Maimon, ACK, Window, and Custom TCP Scans | Ar-jay A. Ballaco | [Read More](https://medium.com/p/7eabd786ef46) |
 | Thu, 07 Aug 2025 15:11:38 GMT | Cyber Incidents Are Business Incidents | Evgeny Ermakov | [Read More](https://medium.com/p/3f55b756a6a3) |
@@ -29,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 14:51:42 GMT | Why Rust is the Future of Cloud-Native Development | Vivek chandak | [Read More](https://medium.com/p/5ff441117829) |
 | Thu, 07 Aug 2025 14:50:51 GMT | When Government Solutions Create Bigger Problems: A Tariff Case Study | George Campbell | [Read More](https://medium.com/p/69f574ddfb39) |
 | Thu, 07 Aug 2025 14:50:36 GMT | Can You Imagine Reservations in the Private Sector? (Especially in IT & Software) | Mahendra. K | [Read More](https://medium.com/p/0126136687be) |
+| Thu, 07 Aug 2025 14:47:26 GMT | PhishDestroy: A Direct War on Phishing Operations | PhishDestroy | [Read More](https://medium.com/p/90f1bbd81386) |
 | Thu, 07 Aug 2025 14:31:50 GMT | Deconstructing the Digital Heartbeat: A Beginner’s Guide to Windows Processes | AlanKaliX | [Read More](https://medium.com/p/614bd3254520) |
 | Thu, 07 Aug 2025 14:25:29 GMT | The Future of DAO Security: How Drosera Network Can Safeguard Treasuries in 2025 | Cybertank | [Read More](https://medium.com/p/20eda9a9ce24) |
 | Thu, 07 Aug 2025 14:18:13 GMT | How to Monitor Web Performance Without Overhead | Rizqi Mulki | [Read More](https://medium.com/p/388cae019387) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 11:17:39 GMT | Bilgisayar Mühendisliğinde Alt Dal Seçimi: Kendi Yolculuğum | Burak | [Read More](https://medium.com/p/ca5da82b3d6e) |
 | Thu, 07 Aug 2025 11:13:19 GMT | ️ Understanding and Defending Against 3 Common Malwares | Sebinmathew | [Read More](https://medium.com/p/b98216c8d003) |
 | Thu, 07 Aug 2025 11:12:47 GMT | Don’t Get Hacked! Follow These Top 10 Network Security Policies Immediately! | Mahil Jasani | [Read More](https://medium.com/p/240076e2ad15) |
-| Thu, 07 Aug 2025 11:12:13 GMT | BBA in Aviation Management Course Details | amecee.ashish | [Read More](https://medium.com/p/709ee2a7b3fb) |
-| Thu, 07 Aug 2025 11:11:58 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/14103483336e) |
-| Thu, 07 Aug 2025 11:10:56 GMT | DevOps Learning Journey: Introduction to Devops | Oluwatobiloba Olamide | [Read More](https://medium.com/p/7eea3495ac66) |
-| Thu, 07 Aug 2025 11:10:12 GMT | DockerLabs Writeup — Injection (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0ab58ed34a5c) |
-| Thu, 07 Aug 2025 11:10:04 GMT | Who should use Hybrid SOC Services today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/4d8cafdb59fd) |
-| Thu, 07 Aug 2025 11:06:35 GMT | Can Microsoft’s ‘Project Ire’ Be the Future of AI-Powered Cybersecurity? | Mahesh Bhalala | [Read More](https://medium.com/p/cef6e184a701) |
-| Thu, 07 Aug 2025 10:57:48 GMT | What is PutraGPT? : Your AI-Powered Assistant for Bug Bounty Recon and Exploitation | Ezekiel peter | [Read More](https://medium.com/p/297a03e04ac6) |
