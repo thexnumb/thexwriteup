@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 06:32:24 GMT | Breaking: Microsoft Exchange Server Vulnerability Could Lead to Full System Compromise | Tarush Sharma | [Read More](https://medium.com/p/2d722d59a027) |
+| Thu, 07 Aug 2025 06:30:48 GMT | I Used the Same Password Everywhere… Until My Entire Digital Life Unraveled | Aj | [Read More](https://medium.com/p/ed8db189dd49) |
+| Thu, 07 Aug 2025 06:28:40 GMT | S3 Subdomain Takeover!!! | Sushil Choudhary | [Read More](https://medium.com/p/0e2b1bba25f4) |
+| Thu, 07 Aug 2025 06:26:21 GMT | The Evolution of Phishing: The Rise of Multi-Faceted Internal Spoof Attacks | Travis Ray Caverhill | [Read More](https://medium.com/p/18517ab4c9f9) |
+| Thu, 07 Aug 2025 06:23:50 GMT | Home Lab Chronicles: Part 08 — Setting up Cortex Analyzers | Suprim Devkota | [Read More](https://medium.com/p/9510783a0da7) |
+| Thu, 07 Aug 2025 06:23:20 GMT | Static Analysis of Windows Applications | Adreeta Maity | [Read More](https://medium.com/p/e07adfc1c753) |
+| Thu, 07 Aug 2025 06:18:47 GMT | CipherBC and CertiK Announce Comprehensive Strategic Partnership to Advance Security, Compliance… | CipherBC | [Read More](https://medium.com/p/fafc8e509442) |
+| Thu, 07 Aug 2025 06:15:13 GMT | Prevent Cyber Crimes and Safeguard Digital Data: The Ultimate 2025 Guide | Amit solanki | [Read More](https://medium.com/p/f58b825548b8) |
+| Thu, 07 Aug 2025 06:13:20 GMT | Protect Your WordPress Site Like a Pro [Full Free] — Admin Safety Guard Makes It Easy | Habibur | [Read More](https://medium.com/p/47becefbacd4) |
+| Thu, 07 Aug 2025 06:11:41 GMT | React Native in Real Life — The Beauty and the Bugs | Ena Modern Coder | [Read More](https://medium.com/p/6b157309d62b) |
+| Thu, 07 Aug 2025 06:11:11 GMT | Why Is Threat Hunting Becoming The New Cybersecurity Obsession? | Watch My Work | [Read More](https://medium.com/p/8c2fd9663a71) |
+| Thu, 07 Aug 2025 06:04:10 GMT | Generative AI — A Beginner’s Guide to Algorithms and Machine Learning: Concepts and Types | Jeeva Selvaraju | [Read More](https://medium.com/p/b987badf6fd9) |
+| Thu, 07 Aug 2025 06:03:25 GMT | Güvenlik Çağrı Sistemi: Acil Durumlarda Hayat Kurtaran Teknoloji | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/ce29f7004e84) |
+| Thu, 07 Aug 2025 06:01:41 GMT | Understanding the Five Core Android Components | Ahmadhossam | [Read More](https://medium.com/p/0f76d777e8c5) |
+| Thu, 07 Aug 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Aug 07, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/4919ff6b4cf7) |
+| Thu, 07 Aug 2025 05:57:57 GMT | What is two-factor authentication? | Kavithayeravothula | [Read More](https://medium.com/p/ac29fdc63a0a) |
+| Thu, 07 Aug 2025 05:57:35 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/7468c1bd94ad) |
+| Thu, 07 Aug 2025 05:55:40 GMT | Quantum-Safe Keys & Recovery: How It Works? | ZENITH STUDIO | [Read More](https://medium.com/p/2452881aa230) |
+| Thu, 07 Aug 2025 05:55:33 GMT | The New Era of Supercar Theft: Tech, Tactics, and How to Defend Your Vehicle | Dr Francesco Dergano | [Read More](https://medium.com/p/094dad3831b3) |
+| Thu, 07 Aug 2025 05:51:57 GMT | Quva India: Smart Surveillance Solutions Built for India | Quva India | [Read More](https://medium.com/p/c4809db284e9) |
 | Thu, 07 Aug 2025 05:51:47 GMT | How Attackers Steal Data from Websites (And How to Stop Them) | Michal Stefanow | [Read More](https://medium.com/p/7f39a92b8b45) |
+| Thu, 07 Aug 2025 05:50:37 GMT | Trusted Security Services in Hobart: Why Stateguard is Tasmania’s First Choice | Stateguard Protective Services | [Read More](https://medium.com/p/9a3f8d529cd9) |
 | Thu, 07 Aug 2025 05:41:53 GMT | Part 2: Cybersecurity Simplified: Understanding Threats, Attacks, and Defense | Harini Ganesan | [Read More](https://medium.com/p/4b2c61dd7bb9) |
 | Thu, 07 Aug 2025 05:39:21 GMT | From Cop to Cybercop: My Journey into Digital Forensics & Cybercrime Investigation | IBE KINGSLEY | [Read More](https://medium.com/p/d30b12dc96de) |
 | Thu, 07 Aug 2025 05:38:27 GMT | How to use recon-ng for Information Gathering - OSINT | Bennet Sharwin | [Read More](https://medium.com/p/a4b3c2896a9b) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 23:29:07 GMT | Qualys Introduces Agentic AI | Raviteja Mureboina | [Read More](https://medium.com/p/3baea3d9e494) |
 | Wed, 06 Aug 2025 23:26:15 GMT | Pen Testing Your Mobile Application (and Its API) | Cyberoptic Security | [Read More](https://medium.com/p/8c0175ab7539) |
 | Wed, 06 Aug 2025 23:23:55 GMT | WordPress Exploit — Alemha Watermarker 1.3.1 (Stored XSS Vulnerability) Write Up | hazmatmonstarrr | [Read More](https://medium.com/p/505de4b71fb7) |
-| Wed, 06 Aug 2025 23:23:17 GMT | Mr. Robot CTF writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/195f67540a53) |
-| Wed, 06 Aug 2025 23:15:44 GMT | Testing out some PowerShell commands for exporting a readable Windows Update log, the current… | Tyrik Emptage | [Read More](https://medium.com/p/7f4813cd7235) |
-| Wed, 06 Aug 2025 23:11:42 GMT | Free Cybersecurity Roadmap for Beginners (2025) | Ghulam Mohiuddin | [Read More](https://medium.com/p/d9242d45f97c) |
-| Wed, 06 Aug 2025 23:10:15 GMT | I’m Not a Marketer — But This AI-Powered Growth System Helped Me Stop Winging It | AIAlchemist_Ab1r | [Read More](https://medium.com/p/bdc30866f916) |
-| Wed, 06 Aug 2025 23:07:10 GMT | CTF Day(47) | Ahmed Narmer | [Read More](https://medium.com/p/efe493fc5e12) |
-| Wed, 06 Aug 2025 23:03:05 GMT | What is SPIFEE and What should you know | Malhar | [Read More](https://medium.com/p/5ad98db8a38b) |
-| Wed, 06 Aug 2025 23:01:03 GMT | The Power of Saying “I Don’t Know” | Zee Wen | [Read More](https://medium.com/p/3446fcb1c260) |
-| Wed, 06 Aug 2025 22:27:19 GMT | Fetch | SIGKILLers | [Read More](https://medium.com/p/e93e234ddb32) |
-| Wed, 06 Aug 2025 22:19:11 GMT | Everybody Needs Me — But I Need Me More | Alfred Adom | [Read More](https://medium.com/p/139002e1fb9c) |
-| Wed, 06 Aug 2025 22:17:00 GMT | Security Monitoring in Serverless Applications | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7a40363cbbf9) |
-| Wed, 06 Aug 2025 22:08:21 GMT | Host & Network Penetration Testing: Exploitation — CTF 1 | Mohamed amine Gabsi | [Read More](https://medium.com/p/f523fc759395) |
-| Wed, 06 Aug 2025 22:06:47 GMT | How To Setup GCP Workload Identity Federation | farhane karim | [Read More](https://medium.com/p/d995f339dc79) |
-| Wed, 06 Aug 2025 22:06:25 GMT | What You See Isn’t What You Paste: Unmasking Clipboard Poisoning | Shashikantpal | [Read More](https://medium.com/p/cce254b617ee) |
-| Wed, 06 Aug 2025 22:01:43 GMT | Root Me — ELF x86 — Stack buffer overflow — basic 4 | Devilman24 | [Read More](https://medium.com/p/4b2a27c2ad84) |
-| Wed, 06 Aug 2025 21:51:00 GMT | The Silent Killers in Your SaaS Stack | Cyber-AppSec | [Read More](https://medium.com/p/636cc40aa660) |
-| Wed, 06 Aug 2025 21:47:53 GMT | How to Tell If an Email Is Fake or Dangerous | Rahul Bhichher | [Read More](https://medium.com/p/4221c0d3539d) |
-| Wed, 06 Aug 2025 21:45:08 GMT | CYBER SECURITY AND HYBRID WARFARE: A THREAT TO NATIONAL SECURITY As time passes, new inventions… | Bakhtawar Majeed | [Read More](https://medium.com/p/1e8e0062997a) |
-| Wed, 06 Aug 2025 21:40:00 GMT | How to Write an Amazing Tech Blog Post (That Actually Gets Read)** | Paul Ebuka | [Read More](https://medium.com/p/c9ec1eb0579e) |
-| Wed, 06 Aug 2025 21:30:10 GMT | Job search — Cybersecurity | Zen | [Read More](https://medium.com/p/4dcea7484d5b) |
-| Wed, 06 Aug 2025 21:26:21 GMT | Keyloggers: The Silent Threat Tracking Your Every Keystroke | Akshay Chauhan | [Read More](https://medium.com/p/3192baa24efc) |
-| Wed, 06 Aug 2025 21:25:25 GMT | Title: TryHackMe Bounty Hacker write-up | Kumari Amita Kishore | [Read More](https://medium.com/p/3438e3af6c36) |
