@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 15:23:32 GMT | ️ Secure Your Code Like a Pro: JavaScript Security Checks You Can’t Ignore! | Lakhveer Singh Rajput | [Read More](https://medium.com/p/b3621f439a1a) |
+| Thu, 07 Aug 2025 15:19:42 GMT | not a sun girl, star girl or moon girl but something else entirely | sp4ced0ut | [Read More](https://medium.com/p/cab90f74c5ac) |
+| Thu, 07 Aug 2025 15:13:32 GMT | Glory of the Garden | Sohan Kanna D | [Read More](https://medium.com/p/73a5e39870ab) |
+| Thu, 07 Aug 2025 15:11:48 GMT | Blog 6: Stealth Port Scans with Nmap—Null, FIN, Xmas, Maimon, ACK, Window, and Custom TCP Scans | Ar-jay A. Ballaco | [Read More](https://medium.com/p/7eabd786ef46) |
+| Thu, 07 Aug 2025 15:11:38 GMT | Cyber Incidents Are Business Incidents | Evgeny Ermakov | [Read More](https://medium.com/p/3f55b756a6a3) |
+| Thu, 07 Aug 2025 15:08:04 GMT | 40 Life Lessons Everyone Should Know Before They Turn 40 | Vijay Kumar Gupta | [Read More](https://medium.com/p/32d39cb95471) |
+| Thu, 07 Aug 2025 15:07:51 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/c7e94add70e2) |
+| Thu, 07 Aug 2025 15:07:03 GMT | Top Cyber Security Practices for Small Businesses in 2025: A Must-Have Guide to Protect Your… | Paul Meyer | [Read More](https://medium.com/p/2a15f6d631ec) |
+| Thu, 07 Aug 2025 15:05:50 GMT | Attacking Google Cloud Platform: Red Team Methodology | Lord Murak | [Read More](https://medium.com/p/de2ab8916fd1) |
+| Thu, 07 Aug 2025 15:01:49 GMT | I Used Smartness as a Shield — Until It Made Me Disappear | Laila Regalado | [Read More](https://medium.com/p/36931f6a72c3) |
+| Thu, 07 Aug 2025 15:01:48 GMT | How to Explain Digital Exposure to Your Co-Founder or Partner | Ingvar Pavlovich | [Read More](https://medium.com/p/8de159383727) |
+| Thu, 07 Aug 2025 14:59:00 GMT | Hackviser — Void Çözümü | Berent Oral | [Read More](https://medium.com/p/e2ee99abed3e) |
+| Thu, 07 Aug 2025 14:54:17 GMT | $285M Stolen — The July 2025 Crypto Crime Report | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/32252ffeb143) |
+| Thu, 07 Aug 2025 14:53:56 GMT | The Espionage You Do Not See While Traveling | Ricardo Newman | [Read More](https://medium.com/p/332b9c3cf4fb) |
+| Thu, 07 Aug 2025 14:51:42 GMT | Why Rust is the Future of Cloud-Native Development | Vivek chandak | [Read More](https://medium.com/p/5ff441117829) |
+| Thu, 07 Aug 2025 14:50:51 GMT | When Government Solutions Create Bigger Problems: A Tariff Case Study | George Campbell | [Read More](https://medium.com/p/69f574ddfb39) |
+| Thu, 07 Aug 2025 14:50:36 GMT | Can You Imagine Reservations in the Private Sector? (Especially in IT & Software) | Mahendra. K | [Read More](https://medium.com/p/0126136687be) |
 | Thu, 07 Aug 2025 14:31:50 GMT | Deconstructing the Digital Heartbeat: A Beginner’s Guide to Windows Processes | AlanKaliX | [Read More](https://medium.com/p/614bd3254520) |
 | Thu, 07 Aug 2025 14:25:29 GMT | The Future of DAO Security: How Drosera Network Can Safeguard Treasuries in 2025 | Cybertank | [Read More](https://medium.com/p/20eda9a9ce24) |
 | Thu, 07 Aug 2025 14:18:13 GMT | How to Monitor Web Performance Without Overhead | Rizqi Mulki | [Read More](https://medium.com/p/388cae019387) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 11:10:04 GMT | Who should use Hybrid SOC Services today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/4d8cafdb59fd) |
 | Thu, 07 Aug 2025 11:06:35 GMT | Can Microsoft’s ‘Project Ire’ Be the Future of AI-Powered Cybersecurity? | Mahesh Bhalala | [Read More](https://medium.com/p/cef6e184a701) |
 | Thu, 07 Aug 2025 10:57:48 GMT | What is PutraGPT? : Your AI-Powered Assistant for Bug Bounty Recon and Exploitation | Ezekiel peter | [Read More](https://medium.com/p/297a03e04ac6) |
-| Thu, 07 Aug 2025 10:57:39 GMT | “I Don’t Know How to Love Without Fear” | Aj | [Read More](https://medium.com/p/da3bbd4fe061) |
-| Thu, 07 Aug 2025 10:53:23 GMT | Cybersecurity’s Crossroads: What We Choose to Defend Says Everything | Peter Hillier/Halton | [Read More](https://medium.com/p/529b56170fad) |
-| Thu, 07 Aug 2025 10:50:20 GMT | Food Security In India | Theunitedindian | [Read More](https://medium.com/p/918601263707) |
-| Thu, 07 Aug 2025 10:45:26 GMT | When AI Turns Hacker | Anna M. | [Read More](https://medium.com/p/921d2343b78a) |
-| Thu, 07 Aug 2025 10:36:44 GMT | Unlock Your Career Potential with Cybersecurity Courses | jaeeni | [Read More](https://medium.com/p/66c17947c46f) |
-| Thu, 07 Aug 2025 10:35:33 GMT | Day 161/1000 – Why LiveGood Stands Out | LiveGood Js | [Read More](https://medium.com/p/95a89ab8dd49) |
-| Thu, 07 Aug 2025 10:35:29 GMT | Advanced Web Application Security: From OWASP Top 10 to Real-World Attacks | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/06ff7bfd1973) |
-| Thu, 07 Aug 2025 10:34:36 GMT | Understanding Network Ports: What They Are and Why They Matter | Genrunic | [Read More](https://medium.com/p/aebd64f849ec) |
-| Thu, 07 Aug 2025 10:31:55 GMT | Operating Systems in Cybersecurity: Hardening Methods and Defense | Samuel Jack | [Read More](https://medium.com/p/231155448ce6) |
-| Thu, 07 Aug 2025 10:31:43 GMT | How I Bagged $2,500 with a Simple XSS Using Burp Suite | Ezekiel peter | [Read More](https://medium.com/p/0b57e485c98f) |
-| Thu, 07 Aug 2025 10:30:30 GMT | The Dark Web — Lighter Than You Thought | Vincent B | [Read More](https://medium.com/p/c1de39e9694f) |
-| Thu, 07 Aug 2025 10:30:14 GMT | How Advanced Crime AnalyticsIs Transforming Border Security in Southeast Asia | Wynyard Group | [Read More](https://medium.com/p/b437f47aa594) |
-| Thu, 07 Aug 2025 10:28:12 GMT | I Asked Shodan, It Gave Me a Bounty Says ‘Sure, Why Not?’” $$ | A0X_Trojan | [Read More](https://medium.com/p/5bae4ecc79a8) |
-| Thu, 07 Aug 2025 10:27:55 GMT | How I Got a Critical Bug Accepted by a ₹14 Trillion Tech Giant | Space-code© PenTesting | [Read More](https://medium.com/p/f84ba3c5f501) |
-| Thu, 07 Aug 2025 10:20:35 GMT | Onetime Secret, app.secserv.me or Privnote: Who deserves your trust? | Secserv.me | [Read More](https://medium.com/p/a7eefe52761d) |
-| Thu, 07 Aug 2025 10:19:00 GMT | How to configure containerized PgAdmin + Nginx Reverse Proxy | Levente Csikor | [Read More](https://medium.com/p/d63f44ea4d3c) |
-| Thu, 07 Aug 2025 10:18:36 GMT | ZoomEye BugBounty Radar Best Practice | ZoomEye | [Read More](https://medium.com/p/9fed04bd4ff2) |
