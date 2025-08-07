@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 09:49:21 GMT | [Case Study]AI and Compliance: Incompatible or Mutual Benefit? | VaaSBlock | [Read More](https://medium.com/p/de0877996e72) |
+| Thu, 07 Aug 2025 09:40:13 GMT | Gigabyte Motherboards at Risk: UEFI Malware Can Bypass Secure Boot | CyberShiv | [Read More](https://medium.com/p/0171f3e3cecd) |
+| Thu, 07 Aug 2025 09:36:04 GMT | RE_verseDIS CTFlearn Reverse Engineering Challenge — Write-up | Elmin Farzaliyev | [Read More](https://medium.com/p/c6fa983db42a) |
+| Thu, 07 Aug 2025 09:36:00 GMT | Prevent Cyber Crimes & Safeguard Digital Data — 2025 Guide | Amit solanki | [Read More](https://medium.com/p/29af35cfa5b5) |
+| Thu, 07 Aug 2025 09:32:43 GMT | Empowering the Frontline: How the Smart Connected Worker Solution Market is Reshaping Industry | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/aaff30f67bc2) |
+| Thu, 07 Aug 2025 09:31:17 GMT | “Am I Too Late?” Starting Cyber at 27 | Authlyn | [Read More](https://medium.com/p/240a4a58b7a9) |
+| Thu, 07 Aug 2025 09:31:16 GMT | Splunk Data Manipulation: A Technical and Hands-On Look at the TryHackMe Room | Furkanctiner | [Read More](https://medium.com/p/372dc6328950) |
+| Thu, 07 Aug 2025 09:31:11 GMT | Simplify file encryption with HashiCorp Vault transit engine | Jessica Ang | [Read More](https://medium.com/p/ceca1dd267c7) |
+| Thu, 07 Aug 2025 09:30:26 GMT | The Human Side of Cybersecurity | Samuel George | [Read More](https://medium.com/p/469f2e60253f) |
 | Thu, 07 Aug 2025 09:27:57 GMT | Your AI Assistant Just Got Hacked — And You Didn’t Even Click Anything | Aaron | [Read More](https://medium.com/p/f3387df37c13) |
+| Thu, 07 Aug 2025 09:27:51 GMT | IMSI Catchers, SS7 Attacks & The Real Reason You Need a Secure Mobile Plan | Haris Nadeem | [Read More](https://medium.com/p/ec27f051b72f) |
 | Thu, 07 Aug 2025 09:22:31 GMT | Silent Cyber Knights: Days Without Human Contact? | Truspex | [Read More](https://medium.com/p/5b4dae2306de) |
 | Thu, 07 Aug 2025 09:20:02 GMT | How I Started My Tech Blog in Nigeria With Zero Naira | Olupemoyosola | [Read More](https://medium.com/p/8c0d3f9f6569) |
 | Thu, 07 Aug 2025 09:19:10 GMT | 7-Step Vulnerability Assessment Guide to Fix Weak Spots | MSP Dark Intel | [Read More](https://medium.com/p/4b4137804a3e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 05:05:19 GMT | How I Found a SQL Injection on an E-Commerce Platform — Step-by-Step Bug Bounty Guide | Mohammed Gabic | [Read More](https://medium.com/p/d9fa3a705b9b) |
 | Thu, 07 Aug 2025 05:05:00 GMT | HacktheBox — Zetta Walkthrough | 4zer7y | [Read More](https://medium.com/p/b9c9a0d48469) |
 | Thu, 07 Aug 2025 05:04:34 GMT | Home SIEM Lab | JonSnowHere | [Read More](https://medium.com/p/3b4f1c1431ba) |
-| Thu, 07 Aug 2025 05:02:01 GMT | OpenAI chatbot: from helper to threat — what lies behind the new feature | Dmitriy Petrakov | [Read More](https://medium.com/p/6246e4cb4082) |
-| Thu, 07 Aug 2025 05:01:48 GMT | ️ The Plague in the Shadows: How a PAM Backdoor Silently Undermines Linux Server Security | Divyesh Vaishnav | [Read More](https://medium.com/p/8526f36655ea) |
-| Thu, 07 Aug 2025 04:49:51 GMT | AI-first GCC: Reimagining Global Capability Centers for Scalable Digital Innovation | Rakesh Bandaari | [Read More](https://medium.com/p/b60006001158) |
-| Thu, 07 Aug 2025 04:48:21 GMT | How I Earned $1,375 from a Remote Code Execution (RCE) Bug — A Bug Bounty Story | Joseph jr | [Read More](https://medium.com/p/b5c912395278) |
-| Thu, 07 Aug 2025 04:44:05 GMT | Done and done. Here’s how it looks with your show title locked in: | Tialetiz | [Read More](https://medium.com/p/b7c23fa08ddf) |
-| Thu, 07 Aug 2025 04:42:29 GMT | Brisbane SME Case Studies: Managed IT Services & Cybersecurity | Elevate | [Read More](https://medium.com/p/ce37b61753b2) |
-| Thu, 07 Aug 2025 04:37:55 GMT | A Holistic Cybersecurity Strategy Based on Proactive Vulnerability Governance and Integrated Server… | Angga Alfiansah | [Read More](https://medium.com/p/5e4b42099774) |
-| Thu, 07 Aug 2025 04:35:09 GMT | A Comparative Analysis of Quantum Cryptography Protocols: From BB84 to Device-Independent QKD | Tedislava Vasileva | [Read More](https://medium.com/p/98c9be855e95) |
-| Thu, 07 Aug 2025 04:34:58 GMT | ️‍♂️ 20 Recon Tools Every Bug Bounty Hunter Should Know (With Real Use Cases) | Joseph jr | [Read More](https://medium.com/p/27f68beb035c) |
-| Thu, 07 Aug 2025 04:21:33 GMT | Online Safety ActOnline Safety ActHow the Online Safety Act Impacts Big Tech Now? | Isla Smith | [Read More](https://medium.com/p/e3732bc0e1ee) |
