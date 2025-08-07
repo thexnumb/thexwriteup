@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 21:36:25 GMT | Why Cyber Coaching is the Game-Changer in Cyber Awareness? | Essha Blog - Sumeesha M Chandran | [Read More](https://medium.com/p/5712d26394b5) |
+| Thu, 07 Aug 2025 21:24:23 GMT | OSI Layer 2 Attacks — MAC Flooding Attack | barancem | [Read More](https://medium.com/p/b034f8d617f2) |
+| Thu, 07 Aug 2025 21:20:09 GMT | Behind Floating Strength: When Stillness Speaks Louder Than Performance | Fer Quirarte | [Read More](https://medium.com/p/ec482d3e906b) |
+| Thu, 07 Aug 2025 21:16:55 GMT | ️Enhancing Slack Event Processing in n8n with Custom Webhook and HMAC Validation | Gustavo Ortega | [Read More](https://medium.com/p/2a33f835701e) |
 | Thu, 07 Aug 2025 21:13:50 GMT | RC5 Shellcode Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f49c2862ed8b) |
 | Thu, 07 Aug 2025 21:04:25 GMT | Host & Network Penetration Testing: Exploitation CTF 2 | Mohamed amine Gabsi | [Read More](https://medium.com/p/6757b0b6a765) |
 | Thu, 07 Aug 2025 21:02:03 GMT | The Internet of Things Is Watching You: 7 Signs Smart Devices Are Coordinating Surveillance | Huzaifa Awan | [Read More](https://medium.com/p/fe1d33dfc93d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 15:35:30 GMT | Access Bank Account Information via Response Manipulation | brbr0s | [Read More](https://medium.com/p/b373c9e4b536) |
 | Thu, 07 Aug 2025 15:30:48 GMT | information | Sohan Kanna D | [Read More](https://medium.com/p/ffa27d2c39b4) |
 | Thu, 07 Aug 2025 15:28:37 GMT | Rwanda: Trump’s Convenient Weakest Link in the Great Migrant Shuffle | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/8ae9a2927534) |
-| Thu, 07 Aug 2025 15:26:10 GMT | Step-by-Step Breakdown: Mitigating a Real-World Network Attack | Roselyne | [Read More](https://medium.com/p/6de354bb65cd) |
-| Thu, 07 Aug 2025 15:23:32 GMT | ️ Secure Your Code Like a Pro: JavaScript Security Checks You Can’t Ignore! | Lakhveer Singh Rajput | [Read More](https://medium.com/p/b3621f439a1a) |
-| Thu, 07 Aug 2025 15:19:42 GMT | not a sun girl, star girl or moon girl but something else entirely | sp4ced0ut | [Read More](https://medium.com/p/cab90f74c5ac) |
-| Thu, 07 Aug 2025 15:17:41 GMT | Money on the Couch: When Value Silences Desire | तांत्रिकA TANTRIKA तांत्रिक | [Read More](https://medium.com/p/e718b3bfe484) |
