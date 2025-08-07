@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 14:31:50 GMT | Deconstructing the Digital Heartbeat: A Beginner’s Guide to Windows Processes | AlanKaliX | [Read More](https://medium.com/p/614bd3254520) |
+| Thu, 07 Aug 2025 14:25:29 GMT | The Future of DAO Security: How Drosera Network Can Safeguard Treasuries in 2025 | Cybertank | [Read More](https://medium.com/p/20eda9a9ce24) |
+| Thu, 07 Aug 2025 14:18:13 GMT | How to Monitor Web Performance Without Overhead | Rizqi Mulki | [Read More](https://medium.com/p/388cae019387) |
 | Thu, 07 Aug 2025 14:11:57 GMT | Siber Güvenlik Bakışıyla: Tünelleme | Barış A. | [Read More](https://medium.com/p/e4ea501ad9e9) |
 | Thu, 07 Aug 2025 14:11:16 GMT | Compunding Luck | EXLITY | [Read More](https://medium.com/p/b2cccf631fb2) |
 | Thu, 07 Aug 2025 14:09:58 GMT | Vertical vs Horizontal Scaling: Which One Should You Choose? | Rizqi Mulki | [Read More](https://medium.com/p/cf628aa39248) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 10:20:35 GMT | Onetime Secret, app.secserv.me or Privnote: Who deserves your trust? | Secserv.me | [Read More](https://medium.com/p/a7eefe52761d) |
 | Thu, 07 Aug 2025 10:19:00 GMT | How to configure containerized PgAdmin + Nginx Reverse Proxy | Levente Csikor | [Read More](https://medium.com/p/d63f44ea4d3c) |
 | Thu, 07 Aug 2025 10:18:36 GMT | ZoomEye BugBounty Radar Best Practice | ZoomEye | [Read More](https://medium.com/p/9fed04bd4ff2) |
-| Thu, 07 Aug 2025 10:13:52 GMT | BoardLight HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/9d89b8f7632d) |
-| Thu, 07 Aug 2025 10:11:01 GMT | Securely Connect On-Prem Workloads to AWS Using IAM Roles Anywhere | Ismail Kovvuru | [Read More](https://medium.com/p/e2826c901a2c) |
-| Thu, 07 Aug 2025 10:02:10 GMT | Transforming Public Spaces with Smart and Interactive Kiosks | Rakesh | [Read More](https://medium.com/p/e589bf8d3c1f) |
