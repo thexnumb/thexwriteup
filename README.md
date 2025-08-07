@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 10:36:44 GMT | Unlock Your Career Potential with Cybersecurity Courses | jaeeni | [Read More](https://medium.com/p/66c17947c46f) |
+| Thu, 07 Aug 2025 10:35:33 GMT | Day 161/1000 – Why LiveGood Stands Out | LiveGood Js | [Read More](https://medium.com/p/95a89ab8dd49) |
+| Thu, 07 Aug 2025 10:35:29 GMT | Advanced Web Application Security: From OWASP Top 10 to Real-World Attacks | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/06ff7bfd1973) |
+| Thu, 07 Aug 2025 10:34:36 GMT | Understanding Network Ports: What They Are and Why They Matter | Genrunic | [Read More](https://medium.com/p/aebd64f849ec) |
+| Thu, 07 Aug 2025 10:31:55 GMT | Operating Systems in Cybersecurity: Hardening Methods and Defense | Samuel Jack | [Read More](https://medium.com/p/231155448ce6) |
+| Thu, 07 Aug 2025 10:31:43 GMT | How I Bagged $2,500 with a Simple XSS Using Burp Suite | Ezekiel peter | [Read More](https://medium.com/p/0b57e485c98f) |
+| Thu, 07 Aug 2025 10:30:30 GMT | The Dark Web — Lighter Than You Thought | Vincent B | [Read More](https://medium.com/p/c1de39e9694f) |
+| Thu, 07 Aug 2025 10:30:14 GMT | How Advanced Crime AnalyticsIs Transforming Border Security in Southeast Asia | Wynyard Group | [Read More](https://medium.com/p/b437f47aa594) |
+| Thu, 07 Aug 2025 10:28:12 GMT | I Asked Shodan, It Gave Me a Bounty Says ‘Sure, Why Not?’” $$ | A0X_Trojan | [Read More](https://medium.com/p/5bae4ecc79a8) |
+| Thu, 07 Aug 2025 10:27:55 GMT | How I Got a Critical Bug Accepted by a ₹14 Trillion Tech Giant | Space-code© PenTesting | [Read More](https://medium.com/p/f84ba3c5f501) |
 | Thu, 07 Aug 2025 10:20:35 GMT | Onetime Secret, app.secserv.me or Privnote: Who deserves your trust? | Secserv.me | [Read More](https://medium.com/p/a7eefe52761d) |
 | Thu, 07 Aug 2025 10:19:00 GMT | How to configure containerized PgAdmin + Nginx Reverse Proxy | Levente Csikor | [Read More](https://medium.com/p/d63f44ea4d3c) |
 | Thu, 07 Aug 2025 10:18:36 GMT | ZoomEye BugBounty Radar Best Practice | ZoomEye | [Read More](https://medium.com/p/9fed04bd4ff2) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 06:11:11 GMT | Why Is Threat Hunting Becoming The New Cybersecurity Obsession? | Watch My Work | [Read More](https://medium.com/p/8c2fd9663a71) |
 | Thu, 07 Aug 2025 06:04:10 GMT | Generative AI — A Beginner’s Guide to Algorithms and Machine Learning: Concepts and Types | Jeeva Selvaraju | [Read More](https://medium.com/p/b987badf6fd9) |
 | Thu, 07 Aug 2025 06:03:25 GMT | Güvenlik Çağrı Sistemi: Acil Durumlarda Hayat Kurtaran Teknoloji | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/ce29f7004e84) |
-| Thu, 07 Aug 2025 06:01:41 GMT | Understanding the Five Core Android Components | Ahmadhossam | [Read More](https://medium.com/p/0f76d777e8c5) |
-| Thu, 07 Aug 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Aug 07, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/4919ff6b4cf7) |
-| Thu, 07 Aug 2025 05:57:57 GMT | What is two-factor authentication? | Kavithayeravothula | [Read More](https://medium.com/p/ac29fdc63a0a) |
-| Thu, 07 Aug 2025 05:57:35 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/7468c1bd94ad) |
-| Thu, 07 Aug 2025 05:55:40 GMT | Quantum-Safe Keys & Recovery: How It Works? | ZENITH STUDIO | [Read More](https://medium.com/p/2452881aa230) |
-| Thu, 07 Aug 2025 05:55:33 GMT | The New Era of Supercar Theft: Tech, Tactics, and How to Defend Your Vehicle | Dr Francesco Dergano | [Read More](https://medium.com/p/094dad3831b3) |
-| Thu, 07 Aug 2025 05:51:57 GMT | Quva India: Smart Surveillance Solutions Built for India | Quva India | [Read More](https://medium.com/p/c4809db284e9) |
-| Thu, 07 Aug 2025 05:51:47 GMT | How Attackers Steal Data from Websites (And How to Stop Them) | Michal Stefanow | [Read More](https://medium.com/p/7f39a92b8b45) |
-| Thu, 07 Aug 2025 05:50:37 GMT | Trusted Security Services in Hobart: Why Stateguard is Tasmania’s First Choice | Stateguard Protective Services | [Read More](https://medium.com/p/9a3f8d529cd9) |
-| Thu, 07 Aug 2025 05:41:53 GMT | Part 2: Cybersecurity Simplified: Understanding Threats, Attacks, and Defense | Harini Ganesan | [Read More](https://medium.com/p/4b2c61dd7bb9) |
