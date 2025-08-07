@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 08:21:08 GMT | Have You Ever Traveled Abroad and Felt Digitally Naked? | Salvatory Samwel Nyandoro | [Read More](https://medium.com/p/9f70d2000674) |
+| Thu, 07 Aug 2025 08:17:00 GMT | SSH Hardening and Key Management on Linux Systems | Esra Kayhan | [Read More](https://medium.com/p/3dc48dd19845) |
+| Thu, 07 Aug 2025 08:13:07 GMT | Prevent Session Replay Attacks in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/3ea35ee56cf5) |
+| Thu, 07 Aug 2025 08:10:00 GMT | EAL6+ vs EAL5+: How Digital Shield Is Redefining Cold Wallet Security Standards | Digital Shield | [Read More](https://medium.com/p/f59aa4645348) |
+| Thu, 07 Aug 2025 08:01:44 GMT | Stealer Logs: How Your Credentials End Up in Plain Text on the Dark Web (and How to Stop It) | Alexandre Vandamme | [Read More](https://medium.com/p/f0c4b68896cd) |
+| Thu, 07 Aug 2025 07:57:35 GMT | Bypassing Payment in an OTA Booking System Through Booking Reference ID Manipulation | Ria Sarkar | [Read More](https://medium.com/p/a81bee7a8910) |
+| Thu, 07 Aug 2025 07:56:44 GMT | Website & API Security Boost with SafeLine Web Application Firewall | Maverick Steel | [Read More](https://medium.com/p/06e3e06cf8e7) |
+| Thu, 07 Aug 2025 07:55:46 GMT | Is Ethical Hacking a Good Career Choice in 2025? | cyber security Updates | [Read More](https://medium.com/p/8f1e770489ea) |
+| Thu, 07 Aug 2025 07:53:28 GMT | What an online friendship revealed in me? | Deepika Prasad | [Read More](https://medium.com/p/6eb65e9225b5) |
+| Thu, 07 Aug 2025 07:50:24 GMT | From Input Field to Admin Panel: Real-World Web App Pentest on target.in | Samruth Sriram D | [Read More](https://medium.com/p/5b8fc84a50ff) |
 | Thu, 07 Aug 2025 07:45:42 GMT | Broken Trust by Voice: Dissecting Cisco’s Vishing‑Enabled CRM Data Breach. | eL Njas!™ | [Read More](https://medium.com/p/48745eac74eb) |
 | Thu, 07 Aug 2025 07:40:08 GMT | Imagine someone monitoring everything you type on your keyboard. Now stop imagining. | ZenturaTech | [Read More](https://medium.com/p/458d103031b8) |
 | Thu, 07 Aug 2025 07:37:21 GMT | HCIS Certification in Saudi Arabia: Ensuring Security and Compliance for Industrial Sites | Hitechfence | [Read More](https://medium.com/p/3f393b7bba0c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 03:29:12 GMT | ประจำวันพฤหัสบดีที่ 7สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/57188dfe6e90) |
 | Thu, 07 Aug 2025 03:23:17 GMT | Exploiting Cross-Site Scripting (XSS) to Capture Passwords | Bash Overflow | [Read More](https://medium.com/p/371670c3dc03) |
 | Thu, 07 Aug 2025 03:22:04 GMT | (Access Control) Lab: URL-based access control can be circumvented - 2025 | Ananda | [Read More](https://medium.com/p/9232e5ccf81b) |
-| Thu, 07 Aug 2025 03:14:37 GMT | How to BUG $BUG Liquidity Lock for Passive Income | BUG | [Read More](https://medium.com/p/5d8bc2215fd2) |
-| Thu, 07 Aug 2025 03:02:21 GMT | Reflection Of The Day: Home & Human | Nithya Miriam Abraham | [Read More](https://medium.com/p/4f6c632e68d3) |
-| Thu, 07 Aug 2025 02:57:46 GMT | برنامج مكالمات فيديو حول العالم: تواصل بحرية بلا حدود | katibatech | [Read More](https://medium.com/p/daccb7525bf5) |
-| Thu, 07 Aug 2025 02:47:44 GMT | Honeypot Projesi — T-pot Honeypot Kurulumu — İlk İzlenimler | Berk Ali Erçelik | [Read More](https://medium.com/p/711b4786e26e) |
-| Thu, 07 Aug 2025 02:22:50 GMT | Drosera Network: A New Standard for On-Chain Security And How You Can Contribute as a Writer | Lore Expert | [Read More](https://medium.com/p/66988dc5eca9) |
-| Thu, 07 Aug 2025 01:56:39 GMT | Helping Communities Stay Safe Online — Bruce Johnson, Cybersecurity Speaker | Brucejohnsonspeaks | [Read More](https://medium.com/p/81c89fcb9f6e) |
-| Thu, 07 Aug 2025 01:53:38 GMT | Wazuh Home Lab: SIEM and File Integrity Monitoring with Ubuntu and Windows. | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/0f7e7ff5cfe2) |
-| Thu, 07 Aug 2025 01:33:38 GMT | Surviving the 2025 Remote Job Scam Epidemic: Hard Truths for Real Job Seekers | Justin | [Read More](https://medium.com/p/75b68152961c) |
-| Thu, 07 Aug 2025 01:15:38 GMT | HackTheBox Networked (OSCP Preparation) | 5p1d4r | [Read More](https://medium.com/p/36099daa5331) |
-| Thu, 07 Aug 2025 01:14:07 GMT | MCPoison: How a Trusted AI Feature in Cursor Became a Hacker’s Backdoor (CVE-2025–54136) | Atharva Shirude | [Read More](https://medium.com/p/0a7a1bb0b83d) |
