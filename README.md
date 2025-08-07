@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 21:13:50 GMT | RC5 Shellcode Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f49c2862ed8b) |
+| Thu, 07 Aug 2025 21:04:25 GMT | Host & Network Penetration Testing: Exploitation CTF 2 | Mohamed amine Gabsi | [Read More](https://medium.com/p/6757b0b6a765) |
+| Thu, 07 Aug 2025 21:02:03 GMT | The Internet of Things Is Watching You: 7 Signs Smart Devices Are Coordinating Surveillance | Huzaifa Awan | [Read More](https://medium.com/p/fe1d33dfc93d) |
+| Thu, 07 Aug 2025 20:57:24 GMT | Wireshark: Packet Operations - THM | Isiah | [Read More](https://medium.com/p/eb6941895c4b) |
+| Thu, 07 Aug 2025 20:49:46 GMT | The importance of making mistakes and being vulnerable. | Justin Yerby | [Read More](https://medium.com/p/5bdcdaba0347) |
+| Thu, 07 Aug 2025 20:46:55 GMT | The Ghost in the Logs: DFIR Through a Palimpsest Lens | Nasreddine Bencherchali | [Read More](https://medium.com/p/b592ef733f4f) |
+| Thu, 07 Aug 2025 20:42:04 GMT | How can blockchain technology address the challenges of GRC? | Myriam B. | [Read More](https://medium.com/p/a799298275b7) |
+| Thu, 07 Aug 2025 20:40:54 GMT | North Korean Hackers: The Games Are Over — This Is the Real Deal Now | 0trust0day | [Read More](https://medium.com/p/6d1f229459fd) |
 | Thu, 07 Aug 2025 20:24:23 GMT | Don’t Be Afraid To Say No To An Opportunity Others Would Die To Grab. | Levi Misenga | [Read More](https://medium.com/p/fd88bc3185ae) |
 | Thu, 07 Aug 2025 20:15:47 GMT | Trust and Proving Cybersecurity Value | Matthew.Rosenquist | [Read More](https://medium.com/p/5972b8f7478f) |
 | Thu, 07 Aug 2025 20:13:07 GMT | Paper Skin: vulnerability and truth | Tyra Elisebeth | [Read More](https://medium.com/p/5d445d82cdbe) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 15:23:32 GMT | ️ Secure Your Code Like a Pro: JavaScript Security Checks You Can’t Ignore! | Lakhveer Singh Rajput | [Read More](https://medium.com/p/b3621f439a1a) |
 | Thu, 07 Aug 2025 15:19:42 GMT | not a sun girl, star girl or moon girl but something else entirely | sp4ced0ut | [Read More](https://medium.com/p/cab90f74c5ac) |
 | Thu, 07 Aug 2025 15:17:41 GMT | Money on the Couch: When Value Silences Desire | तांत्रिकA TANTRIKA तांत्रिक | [Read More](https://medium.com/p/e718b3bfe484) |
-| Thu, 07 Aug 2025 15:13:32 GMT | Glory of the Garden | Sohan Kanna D | [Read More](https://medium.com/p/73a5e39870ab) |
-| Thu, 07 Aug 2025 15:11:48 GMT | Blog 6: Stealth Port Scans with Nmap—Null, FIN, Xmas, Maimon, ACK, Window, and Custom TCP Scans | Ar-jay A. Ballaco | [Read More](https://medium.com/p/7eabd786ef46) |
-| Thu, 07 Aug 2025 15:11:38 GMT | Cyber Incidents Are Business Incidents | Evgeny Ermakov | [Read More](https://medium.com/p/3f55b756a6a3) |
-| Thu, 07 Aug 2025 15:08:04 GMT | 40 Life Lessons Everyone Should Know Before They Turn 40 | Vijay Kumar Gupta | [Read More](https://medium.com/p/32d39cb95471) |
-| Thu, 07 Aug 2025 15:07:51 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/c7e94add70e2) |
-| Thu, 07 Aug 2025 15:07:03 GMT | Top Cyber Security Practices for Small Businesses in 2025: A Must-Have Guide to Protect Your… | Paul Meyer | [Read More](https://medium.com/p/2a15f6d631ec) |
-| Thu, 07 Aug 2025 15:05:50 GMT | Attacking Google Cloud Platform: Red Team Methodology | Lord Murak | [Read More](https://medium.com/p/de2ab8916fd1) |
-| Thu, 07 Aug 2025 15:01:49 GMT | I Used Smartness as a Shield — Until It Made Me Disappear | Laila Regalado | [Read More](https://medium.com/p/36931f6a72c3) |
