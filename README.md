@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 10:20:35 GMT | Onetime Secret, app.secserv.me or Privnote: Who deserves your trust? | Secserv.me | [Read More](https://medium.com/p/a7eefe52761d) |
+| Thu, 07 Aug 2025 10:19:00 GMT | How to configure containerized PgAdmin + Nginx Reverse Proxy | Levente Csikor | [Read More](https://medium.com/p/d63f44ea4d3c) |
+| Thu, 07 Aug 2025 10:18:36 GMT | ZoomEye BugBounty Radar Best Practice | ZoomEye | [Read More](https://medium.com/p/9fed04bd4ff2) |
+| Thu, 07 Aug 2025 10:13:52 GMT | BoardLight HTB Walkthrough | Isiaq Bolaji Ibrahim | [Read More](https://medium.com/p/9d89b8f7632d) |
+| Thu, 07 Aug 2025 10:11:01 GMT | Securely Connect On-Prem Workloads to AWS Using IAM Roles Anywhere | Ismail Kovvuru | [Read More](https://medium.com/p/e2826c901a2c) |
+| Thu, 07 Aug 2025 10:02:10 GMT | Transforming Public Spaces with Smart and Interactive Kiosks | Rakesh | [Read More](https://medium.com/p/e589bf8d3c1f) |
+| Thu, 07 Aug 2025 10:00:21 GMT | Evading Digital Bloodhound: The DNS Anomaly Detection | Dheeraj Madhukar | [Read More](https://medium.com/p/c52afb7dd667) |
+| Thu, 07 Aug 2025 09:59:51 GMT | Top SIEM Services to Enhance Your Cybersecurity Posture | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/cdd3d099c145) |
+| Thu, 07 Aug 2025 09:55:55 GMT | 10 Services You Should Absolutely Ditch in 2025 — Before They Ditch Your Privacy | Deleteo-Erase your digital footprint in minutes | [Read More](https://medium.com/p/226d398fdc8e) |
+| Thu, 07 Aug 2025 09:54:45 GMT | Breach-Centric Cybersecurity: Insights and Lessons from the ASEAN Landscape | Farhan Anfasa Maulana | [Read More](https://medium.com/p/46d6e5268a61) |
+| Thu, 07 Aug 2025 09:54:03 GMT | What Is VLAN Hopping And How To Prevent It? | Redfox Security | [Read More](https://medium.com/p/95fe94ec0bfd) |
+| Thu, 07 Aug 2025 09:54:02 GMT | How Companies Are Hiring for Digital Security Roles in 2025 | Kartik Debnath | [Read More](https://medium.com/p/43c53683ab4d) |
 | Thu, 07 Aug 2025 09:49:21 GMT | [Case Study]AI and Compliance: Incompatible or Mutual Benefit? | VaaSBlock | [Read More](https://medium.com/p/de0877996e72) |
+| Thu, 07 Aug 2025 09:48:14 GMT | Securing File Transfers with SHA-256: A Simple Yet Effective Approach | Aditya Ramaswamy | [Read More](https://medium.com/p/64980a9df5e6) |
+| Thu, 07 Aug 2025 09:40:55 GMT | Forensics - picoGym - Operation Orchid | Flower Bed | [Read More](https://medium.com/p/436e4692c421) |
 | Thu, 07 Aug 2025 09:40:13 GMT | Gigabyte Motherboards at Risk: UEFI Malware Can Bypass Secure Boot | CyberShiv | [Read More](https://medium.com/p/0171f3e3cecd) |
 | Thu, 07 Aug 2025 09:36:04 GMT | RE_verseDIS CTFlearn Reverse Engineering Challenge — Write-up | Elmin Farzaliyev | [Read More](https://medium.com/p/c6fa983db42a) |
 | Thu, 07 Aug 2025 09:36:00 GMT | Prevent Cyber Crimes & Safeguard Digital Data — 2025 Guide | Amit solanki | [Read More](https://medium.com/p/29af35cfa5b5) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 05:51:47 GMT | How Attackers Steal Data from Websites (And How to Stop Them) | Michal Stefanow | [Read More](https://medium.com/p/7f39a92b8b45) |
 | Thu, 07 Aug 2025 05:50:37 GMT | Trusted Security Services in Hobart: Why Stateguard is Tasmania’s First Choice | Stateguard Protective Services | [Read More](https://medium.com/p/9a3f8d529cd9) |
 | Thu, 07 Aug 2025 05:41:53 GMT | Part 2: Cybersecurity Simplified: Understanding Threats, Attacks, and Defense | Harini Ganesan | [Read More](https://medium.com/p/4b2c61dd7bb9) |
-| Thu, 07 Aug 2025 05:39:21 GMT | From Cop to Cybercop: My Journey into Digital Forensics & Cybercrime Investigation | IBE KINGSLEY | [Read More](https://medium.com/p/d30b12dc96de) |
-| Thu, 07 Aug 2025 05:38:27 GMT | How to use recon-ng for Information Gathering - OSINT | Bennet Sharwin | [Read More](https://medium.com/p/a4b3c2896a9b) |
-| Thu, 07 Aug 2025 05:29:50 GMT | AI’s Blind Spots: Understanding the True Impact of Biased Systems | BlueTeam Bytes | [Read More](https://medium.com/p/6b9c187fbb40) |
-| Thu, 07 Aug 2025 05:29:08 GMT | How ISO/IEC 27001 Builds Trust, Cuts Costs, and Fortifies Cybersecurity in Financial Services | Mojiz Zaidi | [Read More](https://medium.com/p/c40a7943f85f) |
-| Thu, 07 Aug 2025 05:26:26 GMT | Cybersecurity as Mahishasuramardini: The Slayer of Digital Demons | Dipayan Ghosh | [Read More](https://medium.com/p/8fc97a4ea7ad) |
-| Thu, 07 Aug 2025 05:24:58 GMT | “Why Can’t Hackers Just Read What I Send?” — The Story of Encryption and SSL | Harshvardhan Bhosale | [Read More](https://medium.com/p/555e20a6e3a0) |
-| Thu, 07 Aug 2025 05:23:29 GMT | Day 24- Understanding Different Versions and Differences in Cybersecurity | unica 02 | [Read More](https://medium.com/p/42fab5346470) |
-| Thu, 07 Aug 2025 05:14:09 GMT | How Nmap $4,000 Helped Me Earn in a Single Bug Bounty — Full Recon Walkthrough | Mohammed Gabic | [Read More](https://medium.com/p/49c3f9709cee) |
-| Thu, 07 Aug 2025 05:11:10 GMT | Cortex XDR: The Next Step Beyond EDR for Smarter SecOps | Juara IT Solutions | [Read More](https://medium.com/p/45e85d90e1b3) |
-| Thu, 07 Aug 2025 05:08:43 GMT | How I Got Hacked by a Telegram Bot and Reclaimed My Accounts | Shahzaib | [Read More](https://medium.com/p/a27dc431e531) |
-| Thu, 07 Aug 2025 05:06:31 GMT | AI Cybersecurity: 5 Real Strategies Companies Are Paying For in 2025 | Sneha Rani | [Read More](https://medium.com/p/a37bca8e08ec) |
-| Thu, 07 Aug 2025 05:05:19 GMT | How I Found a SQL Injection on an E-Commerce Platform — Step-by-Step Bug Bounty Guide | Mohammed Gabic | [Read More](https://medium.com/p/d9fa3a705b9b) |
-| Thu, 07 Aug 2025 05:05:00 GMT | HacktheBox — Zetta Walkthrough | 4zer7y | [Read More](https://medium.com/p/b9c9a0d48469) |
-| Thu, 07 Aug 2025 05:04:34 GMT | Home SIEM Lab | JonSnowHere | [Read More](https://medium.com/p/3b4f1c1431ba) |
