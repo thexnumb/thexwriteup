@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 16:30:06 GMT | Should You Use A VPN? | Carroll Blayze | [Read More](https://medium.com/p/ac2a01cb498b) |
+| Thu, 07 Aug 2025 16:28:47 GMT | Initial Simulation for ECorp DFIR Environment in a LAN Setup | Allen Ace | [Read More](https://medium.com/p/0cdeaabae235) |
+| Thu, 07 Aug 2025 16:28:06 GMT | SMB Guide and Implementation | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/e46ea7d2d153) |
+| Thu, 07 Aug 2025 16:25:03 GMT | Cyber Threat Intelligence: More Than Just Buzzwords | TheReviewHive | [Read More](https://medium.com/p/1acd0f23f0e1) |
+| Thu, 07 Aug 2025 16:23:56 GMT | “Day 5: SSRF — How I Hacked AWS Keys & Stole $15,000 in Cloud Credits” | Aman Sharma | [Read More](https://medium.com/p/ed521d7525f9) |
+| Thu, 07 Aug 2025 16:22:42 GMT | Cybersecurity Is a War. Most of Us Are Still Unarmed. | Dania. | [Read More](https://medium.com/p/a1a6cf1b1a64) |
+| Thu, 07 Aug 2025 16:15:45 GMT | How I Got a P3 in NASA | ghostvirus | [Read More](https://medium.com/p/5d98f07d888f) |
+| Thu, 07 Aug 2025 16:08:41 GMT | ‘Day 5 Of 5000 Hour Hacker’ | Red-X | [Read More](https://medium.com/p/78d9de3ebbfe) |
+| Thu, 07 Aug 2025 16:05:11 GMT | Beyond the Checklist: Navigating ISO 27001 with Confidence and Clarity | Deep Nakrani | [Read More](https://medium.com/p/1321e0fc34e0) |
+| Thu, 07 Aug 2025 16:04:18 GMT | Auth.js (Next-auth)에서 PrismaClient 에러를 해결하면서 | Ori | [Read More](https://medium.com/p/56509d89ba03) |
+| Thu, 07 Aug 2025 16:00:44 GMT | 6. Open Source Intelligence | unknownman | [Read More](https://medium.com/p/5fa13b6b4dbe) |
+| Thu, 07 Aug 2025 15:58:16 GMT | Top BCA Colleges in Kozhikode : Courses, Campus Life & Career Scope | Divya | [Read More](https://medium.com/p/60733d177a8d) |
+| Thu, 07 Aug 2025 15:57:10 GMT | Cheyanne Mallas and the Art of Cybersecurity Project Management: Building Digital Fortresses with… | Cheyannemallaspa | [Read More](https://medium.com/p/a177091accd2) |
+| Thu, 07 Aug 2025 15:56:44 GMT | Home Lab Chronicles: Part 09 — Integration between Wazuh SIEM and TheHive | Suprim Devkota | [Read More](https://medium.com/p/1424b3d71d44) |
+| Thu, 07 Aug 2025 15:53:54 GMT | From Bureaucracy to Brilliance? The Federal Government’s ChatGPT Experiment for $1 | Shin Jara | [Read More](https://medium.com/p/a6fc9c213db8) |
+| Thu, 07 Aug 2025 15:43:26 GMT | Stellar Frontier: The Crucial Role of Front-End in Space Exploration | Fernando Tavera | [Read More](https://medium.com/p/b8d26f4f8cc0) |
 | Thu, 07 Aug 2025 15:39:55 GMT | Broken OAuth Linking | brbr0s | [Read More](https://medium.com/p/94308b7d423e) |
 | Thu, 07 Aug 2025 15:35:30 GMT | Access Bank Account Information via Response Manipulation | brbr0s | [Read More](https://medium.com/p/b373c9e4b536) |
 | Thu, 07 Aug 2025 15:30:48 GMT | information | Sohan Kanna D | [Read More](https://medium.com/p/ffa27d2c39b4) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 12:05:16 GMT | CEH vs OSCP: Which Ethical Hacking Certification is Better? | Crawsec | [Read More](https://medium.com/p/6cf430178799) |
 | Thu, 07 Aug 2025 12:02:00 GMT | What If We Trained Humans Like We Train Machines? | CyberGain | [Read More](https://medium.com/p/782b7631e551) |
 | Thu, 07 Aug 2025 12:00:24 GMT | How I Found Sensitive Crypto Transaction Data in a Public JavaScript File | OziXploit | [Read More](https://medium.com/p/2f33866feaf6) |
-| Thu, 07 Aug 2025 11:54:20 GMT | Make Way for Innovation: Panashi’s Wayfinding and Visitor Management Kiosks | Rakesh | [Read More](https://medium.com/p/c718d20fcf71) |
-| Thu, 07 Aug 2025 11:53:11 GMT | Hijacked via Bluetooth: The Silent Takeover of My Smart Car | Aj | [Read More](https://medium.com/p/917217bd1335) |
-| Thu, 07 Aug 2025 11:52:21 GMT | ️ From Public Sheet to API Takeover: Google Sheets Misconfig + Hardcoded Private Key (Bug Bounty) | Salaheddine KALADA | [Read More](https://medium.com/p/2dc13e235236) |
-| Thu, 07 Aug 2025 11:50:51 GMT | A comprehensive guide to Systems Thinking | Zeeshan Khalid | [Read More](https://medium.com/p/f5ddf618afc3) |
-| Thu, 07 Aug 2025 11:50:46 GMT | WHY ETHICAL HACKING SKILLS ARE A MUST-HAVE IN 2025’S AI-DRIVEN WORLD | bilalinternship | [Read More](https://medium.com/p/68b6a482c897) |
-| Thu, 07 Aug 2025 11:47:51 GMT | Inside the Mind of a Hacker: What Breaking into My Own Network Taught Me | Shahzaib | [Read More](https://medium.com/p/4def1ecb94fe) |
-| Thu, 07 Aug 2025 11:44:42 GMT | Security Blue Team Introduction to OSINT Challenge. | Chedenbenammar | [Read More](https://medium.com/p/11c5b77229c9) |
-| Thu, 07 Aug 2025 11:39:38 GMT | Unlock Your Cybersecurity Career with CISSP Online Training at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/f1ab26dbf09c) |
-| Thu, 07 Aug 2025 11:34:48 GMT | Logstash: A Friendly Guide Through TryHackMe’s Data Processing Unit | Furkanctiner | [Read More](https://medium.com/p/7826b6be8014) |
-| Thu, 07 Aug 2025 11:33:08 GMT | When SSL Certificate Renewal Isn’t Enough: A Real-World Lesson from isea.gov.in | Nivas Kanniah | [Read More](https://medium.com/p/1849e45b2a34) |
-| Thu, 07 Aug 2025 11:32:51 GMT | Hackers Are Using AI Too, Here’s How to Stay Ahead | Brittney Ginther | [Read More](https://medium.com/p/0f07cbe85868) |
-| Thu, 07 Aug 2025 11:25:57 GMT | Discover What Makes Nexasoft Infinity a Trusted Cyber Security Company in Pune | Nexasoft Infinity | [Read More](https://medium.com/p/60c377d7c4f7) |
-| Thu, 07 Aug 2025 11:22:07 GMT | Behind Every Secure Building Is a Smarter ELV — Installed by Axontec | Berkshire Hathaway | [Read More](https://medium.com/p/8cd9e449660b) |
-| Thu, 07 Aug 2025 11:17:39 GMT | Bilgisayar Mühendisliğinde Alt Dal Seçimi: Kendi Yolculuğum | Burak | [Read More](https://medium.com/p/ca5da82b3d6e) |
-| Thu, 07 Aug 2025 11:13:19 GMT | ️ Understanding and Defending Against 3 Common Malwares | Sebinmathew | [Read More](https://medium.com/p/b98216c8d003) |
-| Thu, 07 Aug 2025 11:12:47 GMT | Don’t Get Hacked! Follow These Top 10 Network Security Policies Immediately! | Mahil Jasani | [Read More](https://medium.com/p/240076e2ad15) |
