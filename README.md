@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 05:29:08 GMT | How ISO/IEC 27001 Builds Trust, Cuts Costs, and Fortifies Cybersecurity in Financial Services | Mojiz Zaidi | [Read More](https://medium.com/p/c40a7943f85f) |
+| Thu, 07 Aug 2025 05:26:26 GMT | Cybersecurity as Mahishasuramardini: The Slayer of Digital Demons | Dipayan Ghosh | [Read More](https://medium.com/p/8fc97a4ea7ad) |
+| Thu, 07 Aug 2025 05:14:09 GMT | How Nmap $4,000 Helped Me Earn in a Single Bug Bounty — Full Recon Walkthrough | Mohammed Gabic | [Read More](https://medium.com/p/49c3f9709cee) |
+| Thu, 07 Aug 2025 05:11:10 GMT | Cortex XDR: The Next Step Beyond EDR for Smarter SecOps | Juara IT Solutions | [Read More](https://medium.com/p/45e85d90e1b3) |
+| Thu, 07 Aug 2025 05:08:43 GMT | How I Got Hacked by a Telegram Bot and Reclaimed My Accounts | Shahzaib | [Read More](https://medium.com/p/a27dc431e531) |
+| Thu, 07 Aug 2025 05:06:31 GMT | AI Cybersecurity: 5 Real Strategies Companies Are Paying For in 2025 | Sneha Rani | [Read More](https://medium.com/p/a37bca8e08ec) |
+| Thu, 07 Aug 2025 05:05:19 GMT | How I Found a SQL Injection on an E-Commerce Platform — Step-by-Step Bug Bounty Guide | Mohammed Gabic | [Read More](https://medium.com/p/d9fa3a705b9b) |
+| Thu, 07 Aug 2025 05:05:00 GMT | HacktheBox — Zetta Walkthrough | 4zer7y | [Read More](https://medium.com/p/b9c9a0d48469) |
+| Thu, 07 Aug 2025 05:04:34 GMT | Home SIEM Lab | JonSnowHere | [Read More](https://medium.com/p/3b4f1c1431ba) |
+| Thu, 07 Aug 2025 05:02:01 GMT | OpenAI chatbot: from helper to threat — what lies behind the new feature | Dmitriy Petrakov | [Read More](https://medium.com/p/6246e4cb4082) |
+| Thu, 07 Aug 2025 05:01:48 GMT | ️ The Plague in the Shadows: How a PAM Backdoor Silently Undermines Linux Server Security | Divyesh Vaishnav | [Read More](https://medium.com/p/8526f36655ea) |
+| Thu, 07 Aug 2025 04:49:51 GMT | AI-first GCC: Reimagining Global Capability Centers for Scalable Digital Innovation | Rakesh Bandaari | [Read More](https://medium.com/p/b60006001158) |
+| Thu, 07 Aug 2025 04:48:21 GMT | How I Earned $1,375 from a Remote Code Execution (RCE) Bug — A Bug Bounty Story | Joseph jr | [Read More](https://medium.com/p/b5c912395278) |
+| Thu, 07 Aug 2025 04:44:05 GMT | Done and done. Here’s how it looks with your show title locked in: | Tialetiz | [Read More](https://medium.com/p/b7c23fa08ddf) |
+| Thu, 07 Aug 2025 04:42:29 GMT | Brisbane SME Case Studies: Managed IT Services & Cybersecurity | Elevate | [Read More](https://medium.com/p/ce37b61753b2) |
+| Thu, 07 Aug 2025 04:37:55 GMT | A Holistic Cybersecurity Strategy Based on Proactive Vulnerability Governance and Integrated Server… | Angga Alfiansah | [Read More](https://medium.com/p/5e4b42099774) |
 | Thu, 07 Aug 2025 04:35:09 GMT | A Comparative Analysis of Quantum Cryptography Protocols: From BB84 to Device-Independent QKD | Tedislava Vasileva | [Read More](https://medium.com/p/98c9be855e95) |
 | Thu, 07 Aug 2025 04:34:58 GMT | ️‍♂️ 20 Recon Tools Every Bug Bounty Hunter Should Know (With Real Use Cases) | Joseph jr | [Read More](https://medium.com/p/27f68beb035c) |
 | Thu, 07 Aug 2025 04:21:33 GMT | Online Safety ActOnline Safety ActHow the Online Safety Act Impacts Big Tech Now? | Isla Smith | [Read More](https://medium.com/p/e3732bc0e1ee) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 20:41:15 GMT | Zoth, FortuneWheel, and Sorra Finance Exploited for $347K via LTV Mismatch, Unprotected Swaps, and… | Olympix | [Read More](https://medium.com/p/5fd8ea76a914) |
 | Wed, 06 Aug 2025 20:37:55 GMT | Quest | Norman Meg | [Read More](https://medium.com/p/5029e63be157) |
 | Wed, 06 Aug 2025 20:36:59 GMT | How to Discover Plain-Text Credentials Before Attackers Turn Them Against You | Alexandre Vandamme | [Read More](https://medium.com/p/e09b11085516) |
-| Wed, 06 Aug 2025 20:32:41 GMT | Wedding Website Privacy in 2025: How to Keep Your Info Secure | Lucian Olosutean | [Read More](https://medium.com/p/28620d009c66) |
-| Wed, 06 Aug 2025 20:21:55 GMT | Why the United Nations Needs Real Reform | samayxpatel | [Read More](https://medium.com/p/0e91b357650d) |
-| Wed, 06 Aug 2025 20:19:12 GMT | How AI Is Getting Adopted in Organizations (Spoiler: Not Like the Movies) | Sandeep Singh | [Read More](https://medium.com/p/67b387f56cc6) |
-| Wed, 06 Aug 2025 20:15:45 GMT | Snort Room Deep-Dive: From Raw Packets to the Top of the Leaderboard | Reda  kiker | [Read More](https://medium.com/p/06a25ff9a746) |
-| Wed, 06 Aug 2025 20:13:36 GMT | Web Cache Deception: How I Tricked the Cache and Exposed Sensitive User Data. | MBANKO KEVIN GUBUI | [Read More](https://medium.com/p/2f1bbecaac9d) |
-| Wed, 06 Aug 2025 20:13:00 GMT | Elvis is alive! How ‘AI’ stunts modern mythmaking | Peter Hansteen | [Read More](https://medium.com/p/986806cdc713) |
-| Wed, 06 Aug 2025 20:10:48 GMT | Teach Me to Think Like an Operator | Five Insights | [Read More](https://medium.com/p/3b5b50fb794e) |
-| Wed, 06 Aug 2025 20:07:40 GMT | Not All Guards Stand the Same: How to Choose a Security Company You Can Actually Trust | Teona | [Read More](https://medium.com/p/40411c961387) |
-| Wed, 06 Aug 2025 20:06:27 GMT | SOC Analisti Nasıl Olunur? Kapsamlı ve Güncel Kariyer Rehberi | Furkan Dinçer | [Read More](https://medium.com/p/ca515cf5876c) |
-| Wed, 06 Aug 2025 20:00:22 GMT | Lab: DOM XSS in document.write sink using source location.search - PortSwigger | SIGKILLers | [Read More](https://medium.com/p/798e455b2896) |
-| Wed, 06 Aug 2025 19:57:32 GMT | DAY 37 — Starting with YARA | Jinay | [Read More](https://medium.com/p/891841f709da) |
-| Wed, 06 Aug 2025 19:55:02 GMT | This “deal” stole $847 from my friend | Scott Brenner | [Read More](https://medium.com/p/8f78008f5452) |
-| Wed, 06 Aug 2025 19:35:00 GMT | When Sharing Your Story Feels Exposing | Susie Winfield | [Read More](https://medium.com/p/ccb06f4d99cc) |
-| Wed, 06 Aug 2025 19:34:34 GMT | When detection fails: 5 lessons learned that caused security alerts go dark because of data… | LogFiend | [Read More](https://medium.com/p/708df74a89bd) |
-| Wed, 06 Aug 2025 19:31:03 GMT | Poisoning the web: Ultimate guide to the web cache poisoning | Manas Harsh | [Read More](https://medium.com/p/ade6eb884d39) |
-| Wed, 06 Aug 2025 19:30:25 GMT | Recovery/Crypto | Norman Meg | [Read More](https://medium.com/p/8243fe089920) |
