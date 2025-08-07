@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 22:11:21 GMT | Understanding Blockchain: A Complete Guide | Happy Shekh | [Read More](https://medium.com/p/d1dc1dd86373) |
+| Thu, 07 Aug 2025 22:06:37 GMT | Week of 08.07 - Front End, Backend, Putting it all Together (with a side of Linux) | Laurdickerson | [Read More](https://medium.com/p/8b573a8f6e71) |
+| Thu, 07 Aug 2025 22:05:47 GMT | Digital Forensics Lab: Partition Recovery and File Carving A Complete Hands-On Guide | Mohamed Elawady | [Read More](https://medium.com/p/2a539329e91c) |
+| Thu, 07 Aug 2025 22:04:18 GMT | How to protect your Rust programs on Windows with process mitigation policies | AndreiH | [Read More](https://medium.com/p/d2e1ebb1fdd7) |
+| Thu, 07 Aug 2025 21:44:06 GMT | LINUX COMMANDS — PART 1 | JOSE_ROLEX | [Read More](https://medium.com/p/6a42d1dcdf0d) |
 | Thu, 07 Aug 2025 21:36:25 GMT | Why Cyber Coaching is the Game-Changer in Cyber Awareness? | Essha Blog - Sumeesha M Chandran | [Read More](https://medium.com/p/5712d26394b5) |
 | Thu, 07 Aug 2025 21:24:23 GMT | OSI Layer 2 Attacks — MAC Flooding Attack | barancem | [Read More](https://medium.com/p/b034f8d617f2) |
 | Thu, 07 Aug 2025 21:20:09 GMT | Behind Floating Strength: When Stillness Speaks Louder Than Performance | Fer Quirarte | [Read More](https://medium.com/p/ec482d3e906b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 15:57:10 GMT | Cheyanne Mallas and the Art of Cybersecurity Project Management: Building Digital Fortresses with… | Cheyannemallaspa | [Read More](https://medium.com/p/a177091accd2) |
 | Thu, 07 Aug 2025 15:56:44 GMT | Home Lab Chronicles: Part 09 — Integration between Wazuh SIEM and TheHive | Suprim Devkota | [Read More](https://medium.com/p/1424b3d71d44) |
 | Thu, 07 Aug 2025 15:53:54 GMT | From Bureaucracy to Brilliance? The Federal Government’s ChatGPT Experiment for $1 | Shin Jara | [Read More](https://medium.com/p/a6fc9c213db8) |
-| Thu, 07 Aug 2025 15:43:26 GMT | Stellar Frontier: The Crucial Role of Front-End in Space Exploration | Fernando Tavera | [Read More](https://medium.com/p/b8d26f4f8cc0) |
-| Thu, 07 Aug 2025 15:39:55 GMT | Broken OAuth Linking | brbr0s | [Read More](https://medium.com/p/94308b7d423e) |
-| Thu, 07 Aug 2025 15:35:30 GMT | Access Bank Account Information via Response Manipulation | brbr0s | [Read More](https://medium.com/p/b373c9e4b536) |
-| Thu, 07 Aug 2025 15:30:48 GMT | information | Sohan Kanna D | [Read More](https://medium.com/p/ffa27d2c39b4) |
-| Thu, 07 Aug 2025 15:28:37 GMT | Rwanda: Trump’s Convenient Weakest Link in the Great Migrant Shuffle | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/8ae9a2927534) |
