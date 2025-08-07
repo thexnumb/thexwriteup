@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 11:39:38 GMT | Unlock Your Cybersecurity Career with CISSP Online Training at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/f1ab26dbf09c) |
+| Thu, 07 Aug 2025 11:34:48 GMT | Logstash: A Friendly Guide Through TryHackMe’s Data Processing Unit | Furkanctiner | [Read More](https://medium.com/p/7826b6be8014) |
+| Thu, 07 Aug 2025 11:33:08 GMT | When SSL Certificate Renewal Isn’t Enough: A Real-World Lesson from isea.gov.in | Nivas Kanniah | [Read More](https://medium.com/p/1849e45b2a34) |
+| Thu, 07 Aug 2025 11:32:51 GMT | Hackers Are Using AI Too, Here’s How to Stay Ahead | Brittney Ginther | [Read More](https://medium.com/p/0f07cbe85868) |
+| Thu, 07 Aug 2025 11:25:57 GMT | Discover What Makes Nexasoft Infinity a Trusted Cyber Security Company in Pune | Nexasoft Infinity | [Read More](https://medium.com/p/60c377d7c4f7) |
+| Thu, 07 Aug 2025 11:22:07 GMT | Behind Every Secure Building Is a Smarter ELV — Installed by Axontec | Berkshire Hathaway | [Read More](https://medium.com/p/8cd9e449660b) |
+| Thu, 07 Aug 2025 11:17:39 GMT | Bilgisayar Mühendisliğinde Alt Dal Seçimi: Kendi Yolculuğum | Burak | [Read More](https://medium.com/p/ca5da82b3d6e) |
 | Thu, 07 Aug 2025 11:13:19 GMT | ️ Understanding and Defending Against 3 Common Malwares | Sebinmathew | [Read More](https://medium.com/p/b98216c8d003) |
+| Thu, 07 Aug 2025 11:12:47 GMT | Don’t Get Hacked! Follow These Top 10 Network Security Policies Immediately! | Mahil Jasani | [Read More](https://medium.com/p/240076e2ad15) |
 | Thu, 07 Aug 2025 11:12:13 GMT | BBA in Aviation Management Course Details | amecee.ashish | [Read More](https://medium.com/p/709ee2a7b3fb) |
+| Thu, 07 Aug 2025 11:11:58 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/14103483336e) |
 | Thu, 07 Aug 2025 11:10:56 GMT | DevOps Learning Journey: Introduction to Devops | Oluwatobiloba Olamide | [Read More](https://medium.com/p/7eea3495ac66) |
 | Thu, 07 Aug 2025 11:10:12 GMT | DockerLabs Writeup — Injection (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0ab58ed34a5c) |
 | Thu, 07 Aug 2025 11:10:04 GMT | Who should use Hybrid SOC Services today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/4d8cafdb59fd) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 07:11:13 GMT | Catatan Belajar: Regional Internet Registries (RIRs) | ki.a | [Read More](https://medium.com/p/73362fc26385) |
 | Thu, 07 Aug 2025 06:59:38 GMT | SafeLine vs Fastly Next-Gen WAF: Dev-Friendly Security for Modern Apps? | Quella | [Read More](https://medium.com/p/5f9d8fb15d33) |
 | Thu, 07 Aug 2025 06:49:18 GMT | EDITOR HTB | 0xLeonidas | [Read More](https://medium.com/p/b27707a18f56) |
-| Thu, 07 Aug 2025 06:44:16 GMT | Generative AI — Supervised, Unsupervised, and Reinforcement Learning Models | Jeeva Selvaraju | [Read More](https://medium.com/p/040678849c91) |
-| Thu, 07 Aug 2025 06:43:28 GMT | Juicy 401: The Unauthorized Goldmine | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2021900bf910) |
-| Thu, 07 Aug 2025 06:38:28 GMT | 2025 Shockers: The Top 5 Open Source SIEM Tools That Big Security Vendors Don’t Want You to Know… | cybrNK | [Read More](https://medium.com/p/1d0b2455a27f) |
-| Thu, 07 Aug 2025 06:37:48 GMT | Home CCTV Installation Brisbane: Smart Setup Tips for 2025 | Rickprofessionalservices | [Read More](https://medium.com/p/f1727f97bd5d) |
-| Thu, 07 Aug 2025 06:35:24 GMT | Exploiting EternalBlue in a Lab Environment | Rafli Permana | [Read More](https://medium.com/p/da1ce2ef6651) |
-| Thu, 07 Aug 2025 06:33:55 GMT | Start Your Journey in Cybersecurity | Nirmalrajeev | [Read More](https://medium.com/p/513709eb0760) |
-| Thu, 07 Aug 2025 06:32:24 GMT | Breaking: Microsoft Exchange Server Vulnerability Could Lead to Full System Compromise | Tarush Sharma | [Read More](https://medium.com/p/2d722d59a027) |
-| Thu, 07 Aug 2025 06:30:48 GMT | I Used the Same Password Everywhere… Until My Entire Digital Life Unraveled | Aj | [Read More](https://medium.com/p/ed8db189dd49) |
-| Thu, 07 Aug 2025 06:28:40 GMT | S3 Subdomain Takeover!!! | Sushil Choudhary | [Read More](https://medium.com/p/0e2b1bba25f4) |
