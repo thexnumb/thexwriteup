@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 07:45:42 GMT | Broken Trust by Voice: Dissecting Cisco’s Vishing‑Enabled CRM Data Breach. | eL Njas!™ | [Read More](https://medium.com/p/48745eac74eb) |
+| Thu, 07 Aug 2025 07:40:08 GMT | Imagine someone monitoring everything you type on your keyboard. Now stop imagining. | ZenturaTech | [Read More](https://medium.com/p/458d103031b8) |
+| Thu, 07 Aug 2025 07:37:21 GMT | HCIS Certification in Saudi Arabia: Ensuring Security and Compliance for Industrial Sites | Hitechfence | [Read More](https://medium.com/p/3f393b7bba0c) |
+| Thu, 07 Aug 2025 07:35:05 GMT | SafeLine vs Cloudbric: Smarter WAF Engines, Smarter Protection? | Quella | [Read More](https://medium.com/p/8c48ca091e37) |
+| Thu, 07 Aug 2025 07:33:09 GMT | Big Data in Supply Chain Market to Surge by 2030 - Turning Complexity into Competitive Advantage | Akhilasri | [Read More](https://medium.com/p/4e5f2d15b94a) |
+| Thu, 07 Aug 2025 07:27:42 GMT | How I Landed My First Cybersecurity Job With No Experience — It Wasn’t Luck | Analyst Atlas | [Read More](https://medium.com/p/5b715faa9976) |
+| Thu, 07 Aug 2025 07:27:36 GMT | Hijacked by Design: How Google’s Trusted Systems Became Global Threat Vectors | Pentestjunkie07 | [Read More](https://medium.com/p/fb6823425ad9) |
 | Thu, 07 Aug 2025 07:19:58 GMT | How GRC Must Evolve in the Age of Agentic AI and Generative AI | Taimur Ijlal | [Read More](https://medium.com/p/b21dbca5f4d0) |
 | Thu, 07 Aug 2025 07:17:28 GMT | How a Confused Man Trained His First YOLO Model. | virg | [Read More](https://medium.com/p/4131625f44de) |
 | Thu, 07 Aug 2025 07:15:47 GMT | Lockdown Android Tablets for Business - Secure & Manage Devices | Vantage MDM | [Read More](https://medium.com/p/ef536cf126a1) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 01:33:38 GMT | Surviving the 2025 Remote Job Scam Epidemic: Hard Truths for Real Job Seekers | Justin | [Read More](https://medium.com/p/75b68152961c) |
 | Thu, 07 Aug 2025 01:15:38 GMT | HackTheBox Networked (OSCP Preparation) | 5p1d4r | [Read More](https://medium.com/p/36099daa5331) |
 | Thu, 07 Aug 2025 01:14:07 GMT | MCPoison: How a Trusted AI Feature in Cursor Became a Hacker’s Backdoor (CVE-2025–54136) | Atharva Shirude | [Read More](https://medium.com/p/0a7a1bb0b83d) |
-| Thu, 07 Aug 2025 01:03:55 GMT | OAuth2 vs JWT vs SSO: What’s the Difference and When Should You Use Each? | Sachin Kumar | [Read More](https://medium.com/p/ecceb25a4995) |
-| Thu, 07 Aug 2025 01:03:51 GMT | Dev(Sec)Ops: What game theory tells us about modern security best practices | RJ Richardson | [Read More](https://medium.com/p/3edb980d3e1c) |
-| Thu, 07 Aug 2025 01:03:15 GMT | Trend Micro Issues Critical Security Update for Apex One (On-Premise) Management Console | Raviteja Mureboina | [Read More](https://medium.com/p/036608061174) |
-| Thu, 07 Aug 2025 00:46:33 GMT | Fundamentals of Threat Intelligence for Every Cybersecurity Professional. | José Reyes (@Architekt) | [Read More](https://medium.com/p/7a3acb2ef349) |
-| Thu, 07 Aug 2025 00:41:58 GMT | pfSense Blocking Countries (with pfBlockerNG GeoIP) | James Rawlings | [Read More](https://medium.com/p/fb6147d73ecc) |
-| Thu, 07 Aug 2025 00:40:32 GMT | Using rate limits and JA4 fingerprinting in AWS WAF | Alex | [Read More](https://medium.com/p/b5c1822a74fa) |
-| Thu, 07 Aug 2025 00:38:25 GMT | How to Enable Full-Screen Display for Kali Linux on Hyper-V | Austin Gomez | [Read More](https://medium.com/p/2ee3a825174c) |
