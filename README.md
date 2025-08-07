@@ -12,10 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 07:19:58 GMT | How GRC Must Evolve in the Age of Agentic AI and Generative AI | Taimur Ijlal | [Read More](https://medium.com/p/b21dbca5f4d0) |
+| Thu, 07 Aug 2025 07:17:28 GMT | How a Confused Man Trained His First YOLO Model. | virg | [Read More](https://medium.com/p/4131625f44de) |
+| Thu, 07 Aug 2025 07:15:47 GMT | Lockdown Android Tablets for Business - Secure & Manage Devices | Vantage MDM | [Read More](https://medium.com/p/ef536cf126a1) |
+| Thu, 07 Aug 2025 07:12:28 GMT | Renting or selling your LinkedIn account is a decision that is unlikely to end well. Here’s why: | Obaoluwaseun | [Read More](https://medium.com/p/22f9777835a3) |
+| Thu, 07 Aug 2025 07:12:07 GMT | “Mustang Panda Targets Windows Users with Tone Shell Malware Masquerading as Google Chrome” | Tarush Sharma | [Read More](https://medium.com/p/667a1d480bdc) |
+| Thu, 07 Aug 2025 07:11:13 GMT | Catatan Belajar: Regional Internet Registries (RIRs) | ki.a | [Read More](https://medium.com/p/73362fc26385) |
+| Thu, 07 Aug 2025 06:59:38 GMT | SafeLine vs Fastly Next-Gen WAF: Dev-Friendly Security for Modern Apps? | Quella | [Read More](https://medium.com/p/5f9d8fb15d33) |
+| Thu, 07 Aug 2025 06:49:18 GMT | EDITOR HTB | 0xLeonidas | [Read More](https://medium.com/p/b27707a18f56) |
+| Thu, 07 Aug 2025 06:44:16 GMT | Generative AI — Supervised, Unsupervised, and Reinforcement Learning Models | Jeeva Selvaraju | [Read More](https://medium.com/p/040678849c91) |
+| Thu, 07 Aug 2025 06:43:28 GMT | Juicy 401: The Unauthorized Goldmine | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2021900bf910) |
+| Thu, 07 Aug 2025 06:38:28 GMT | 2025 Shockers: The Top 5 Open Source SIEM Tools That Big Security Vendors Don’t Want You to Know… | cybrNK | [Read More](https://medium.com/p/1d0b2455a27f) |
+| Thu, 07 Aug 2025 06:37:48 GMT | Home CCTV Installation Brisbane: Smart Setup Tips for 2025 | Rickprofessionalservices | [Read More](https://medium.com/p/f1727f97bd5d) |
+| Thu, 07 Aug 2025 06:35:24 GMT | Exploiting EternalBlue in a Lab Environment | Rafli Permana | [Read More](https://medium.com/p/da1ce2ef6651) |
+| Thu, 07 Aug 2025 06:33:55 GMT | Start Your Journey in Cybersecurity | Nirmalrajeev | [Read More](https://medium.com/p/513709eb0760) |
 | Thu, 07 Aug 2025 06:32:24 GMT | Breaking: Microsoft Exchange Server Vulnerability Could Lead to Full System Compromise | Tarush Sharma | [Read More](https://medium.com/p/2d722d59a027) |
 | Thu, 07 Aug 2025 06:30:48 GMT | I Used the Same Password Everywhere… Until My Entire Digital Life Unraveled | Aj | [Read More](https://medium.com/p/ed8db189dd49) |
 | Thu, 07 Aug 2025 06:28:40 GMT | S3 Subdomain Takeover!!! | Sushil Choudhary | [Read More](https://medium.com/p/0e2b1bba25f4) |
 | Thu, 07 Aug 2025 06:26:21 GMT | The Evolution of Phishing: The Rise of Multi-Faceted Internal Spoof Attacks | Travis Ray Caverhill | [Read More](https://medium.com/p/18517ab4c9f9) |
+| Thu, 07 Aug 2025 06:25:06 GMT | The Rise of Security Tokens in Digital Asset Markets | Yasa Baig | [Read More](https://medium.com/p/867a85dddcd0) |
 | Thu, 07 Aug 2025 06:23:50 GMT | Home Lab Chronicles: Part 08 — Setting up Cortex Analyzers | Suprim Devkota | [Read More](https://medium.com/p/9510783a0da7) |
 | Thu, 07 Aug 2025 06:23:20 GMT | Static Analysis of Windows Applications | Adreeta Maity | [Read More](https://medium.com/p/e07adfc1c753) |
 | Thu, 07 Aug 2025 06:18:47 GMT | CipherBC and CertiK Announce Comprehensive Strategic Partnership to Advance Security, Compliance… | CipherBC | [Read More](https://medium.com/p/fafc8e509442) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 00:41:58 GMT | pfSense Blocking Countries (with pfBlockerNG GeoIP) | James Rawlings | [Read More](https://medium.com/p/fb6147d73ecc) |
 | Thu, 07 Aug 2025 00:40:32 GMT | Using rate limits and JA4 fingerprinting in AWS WAF | Alex | [Read More](https://medium.com/p/b5c1822a74fa) |
 | Thu, 07 Aug 2025 00:38:25 GMT | How to Enable Full-Screen Display for Kali Linux on Hyper-V | Austin Gomez | [Read More](https://medium.com/p/2ee3a825174c) |
-| Thu, 07 Aug 2025 00:25:32 GMT | Find Anyone with Just a Username — Introducing SherlockOSINT.com | Erdchem | [Read More](https://medium.com/p/32996067438d) |
-| Thu, 07 Aug 2025 00:00:07 GMT | Cyber Security IoT Security: Securing Connected Devices | Cyber Security Research | [Read More](https://medium.com/p/e7ecc9e7df87) |
-| Wed, 06 Aug 2025 23:59:58 GMT | Create a Password Cracking Tool (Safely) in Python | Zain Ahmad | [Read More](https://medium.com/p/68b4620dd715) |
-| Wed, 06 Aug 2025 23:58:18 GMT | Cyber Security Mobile Security: Securing Mobile Devices | Cyber Security Research | [Read More](https://medium.com/p/4e7a6c8ce2fe) |
-| Wed, 06 Aug 2025 23:56:21 GMT | Cyber Security Cloud Security: Protecting Data in the Cloud | Cyber Security Research | [Read More](https://medium.com/p/1fe35e173a81) |
-| Wed, 06 Aug 2025 23:52:39 GMT | Cyber Security Configuration Management: Maintaining Secure Settings | Cyber Security Research | [Read More](https://medium.com/p/3188c550eff5) |
-| Wed, 06 Aug 2025 23:51:38 GMT | 5. Navigation & Routing in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/40155eea7896) |
-| Wed, 06 Aug 2025 23:48:51 GMT | Cyber Security Vulnerability Scanning: Identifying Weak Points | Cyber Security Research | [Read More](https://medium.com/p/0d940cc70603) |
-| Wed, 06 Aug 2025 23:46:54 GMT | Cyber Security Pen Testing: Simulating Real-World Attacks | Cyber Security Research | [Read More](https://medium.com/p/af254f96b21b) |
-| Wed, 06 Aug 2025 23:41:13 GMT | Demystifying Entropy, and how it Defeats Randomness within AI | Avneesh Khanna | [Read More](https://medium.com/p/7695c4e737f5) |
-| Wed, 06 Aug 2025 23:35:11 GMT | Detecting Web Shells - Tryhackme | Aaron | [Read More](https://medium.com/p/fe948436aa87) |
-| Wed, 06 Aug 2025 23:33:20 GMT | Start Earning with BUG $BUG on StakingRewards | BUG | [Read More](https://medium.com/p/162801ddb582) |
-| Wed, 06 Aug 2025 23:29:07 GMT | Qualys Introduces Agentic AI | Raviteja Mureboina | [Read More](https://medium.com/p/3baea3d9e494) |
-| Wed, 06 Aug 2025 23:26:15 GMT | Pen Testing Your Mobile Application (and Its API) | Cyberoptic Security | [Read More](https://medium.com/p/8c0175ab7539) |
-| Wed, 06 Aug 2025 23:23:55 GMT | WordPress Exploit — Alemha Watermarker 1.3.1 (Stored XSS Vulnerability) Write Up | hazmatmonstarrr | [Read More](https://medium.com/p/505de4b71fb7) |
