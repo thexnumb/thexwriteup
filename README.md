@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 17:41:16 GMT | SonicWall Walks Back Zero-Day Concerns, Points to Old VPN Flaw in Akira Attacks | Dhruvdeep Singh | [Read More](https://medium.com/p/a4249f2e6b30) |
+| Thu, 07 Aug 2025 17:40:28 GMT | TryHackMe — Relevant | omni | [Read More](https://medium.com/p/d37f1249d962) |
+| Thu, 07 Aug 2025 17:39:12 GMT | Certificate Transparency in Android 16+: Why It Matters and How to Implement It | Gal Kohen | [Read More](https://medium.com/p/45c2c7cad658) |
+| Thu, 07 Aug 2025 17:38:48 GMT | NetGuard - Hackviser — Write-Up | Özcan Ersan | [Read More](https://medium.com/p/2cbbe1a5ff33) |
+| Thu, 07 Aug 2025 17:30:05 GMT | The Truth About Mac Security: Why "I’m Safe" Is a Dangerous Myth | Unknown Source | [Read More](https://medium.com/p/469c02962d6c) |
 | Thu, 07 Aug 2025 17:12:58 GMT | Abusing LDAP in Red Teaming , How It Fuels Active Directory Recon and Discovery | 0xTurki | [Read More](https://medium.com/p/90e81d29914f) |
 | Thu, 07 Aug 2025 17:09:35 GMT | Amazon Bedrock’s On-Device Logic Checks Stop AI Hallucinations | TheCertExpert | [Read More](https://medium.com/p/2f893808ce75) |
 | Thu, 07 Aug 2025 17:07:50 GMT | THM - Sequel Dump | Francesco Pastore | [Read More](https://medium.com/p/a584ca19fc22) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 13:10:11 GMT | DevSecOps & Software Composition Analysis & Application Security Testing Trio: SAST, DAST, IAST &… | Mehmet Cambaz | [Read More](https://medium.com/p/40caef656be4) |
 | Thu, 07 Aug 2025 13:08:59 GMT | How a Simple XSS Flaw Gave Me Admin Access | Ibtissam hammadi | [Read More](https://medium.com/p/2795a6940c89) |
 | Thu, 07 Aug 2025 13:04:59 GMT | Advanced Account Takeover Techniques: A Hacker’s Playbook for Awareness | EL_Cazad0r | [Read More](https://medium.com/p/149754bad5af) |
-| Thu, 07 Aug 2025 12:59:55 GMT | Basic Pentesting 2 — A Hands-On Walkthrough | Kizito Arinze Chukwu | [Read More](https://medium.com/p/0051c7b3027f) |
-| Thu, 07 Aug 2025 12:52:49 GMT | Desecure Yazılım Çözümleriyle Risk Azaltma Stratejileri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/9477e2311416) |
-| Thu, 07 Aug 2025 12:52:40 GMT | Best Home Security Cameras of 2025: My Picks for Your Protection | Shujaaseo | [Read More](https://medium.com/p/df67b4c5bebc) |
-| Thu, 07 Aug 2025 12:50:36 GMT | Ethical Hacking: What Is It and How Can I Get Into It? | Adara S. | [Read More](https://medium.com/p/a95d6aa80d6e) |
-| Thu, 07 Aug 2025 12:44:23 GMT | Dynamic Malware Analysis #2— LetsDefend | Atlas Security | [Read More](https://medium.com/p/2515cc33cbc3) |
