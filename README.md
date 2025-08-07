@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 04:35:09 GMT | A Comparative Analysis of Quantum Cryptography Protocols: From BB84 to Device-Independent QKD | Tedislava Vasileva | [Read More](https://medium.com/p/98c9be855e95) |
+| Thu, 07 Aug 2025 04:34:58 GMT | ️‍♂️ 20 Recon Tools Every Bug Bounty Hunter Should Know (With Real Use Cases) | Joseph jr | [Read More](https://medium.com/p/27f68beb035c) |
+| Thu, 07 Aug 2025 04:21:33 GMT | Online Safety ActOnline Safety ActHow the Online Safety Act Impacts Big Tech Now? | Isla Smith | [Read More](https://medium.com/p/e3732bc0e1ee) |
+| Thu, 07 Aug 2025 04:20:05 GMT | How Nmap Helped Me Land My First $2,000 Bug Bounty (Beginner-Friendly Pentest Story) | Joseph jr | [Read More](https://medium.com/p/0f6289d1659b) |
+| Thu, 07 Aug 2025 04:13:32 GMT | Cybersecurity Boot Camps are a Scam | Oscar Garcia | [Read More](https://medium.com/p/861670984aab) |
+| Thu, 07 Aug 2025 04:05:49 GMT | MROCTF Write Up | Marty Nattakit | [Read More](https://medium.com/p/a14d29ea6084) |
+| Thu, 07 Aug 2025 04:03:31 GMT | A Deep Dive into ICS: My Journey from IT systems to Control Systems Guardian | Jeythasahanav | [Read More](https://medium.com/p/6952712138ee) |
+| Thu, 07 Aug 2025 04:03:15 GMT | Public Cloud Safety: Risks, Best Practices & Future Outlook | Geeky Vartika | [Read More](https://medium.com/p/3afd83d1f6ab) |
+| Thu, 07 Aug 2025 04:03:08 GMT | How I Gained Shell Access on a Company Server and Earned $3,500 Legally (Bug Bounty Case Study) | Carylrobert | [Read More](https://medium.com/p/63ea522b4bed) |
+| Thu, 07 Aug 2025 04:00:56 GMT | Unleash Your Inner Street Artist: Transform Words into Explosive Graffiti Art with AI | Prompt Engineer | [Read More](https://medium.com/p/45d2017cbdca) |
+| Thu, 07 Aug 2025 04:00:12 GMT | Fingerprinting Malware C2s Using Free Tools | Paritosh | [Read More](https://medium.com/p/3e4f4ccacbf2) |
+| Thu, 07 Aug 2025 03:57:03 GMT | Safe Conversations: Android Securing Interprocess Communication (IPC) | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/28c1b634500e) |
+| Thu, 07 Aug 2025 03:55:03 GMT | ️ 13 Must-Have Bash Scripts for Every DevOps Engineer | Carylrobert | [Read More](https://medium.com/p/ba6c8dabf799) |
+| Thu, 07 Aug 2025 03:51:04 GMT | How Reconnaissance Alone Earned Me a $2,000 Bug Bounty | Carylrobert | [Read More](https://medium.com/p/d5c352b72d6d) |
 | Thu, 07 Aug 2025 03:44:49 GMT | Can Spartan Aegis Protect Air-Gapped Systems? Absolutely — Here’s How | Ted Rogers | [Read More](https://medium.com/p/675c0cf3e7c2) |
 | Thu, 07 Aug 2025 03:40:53 GMT | Chromium XXE Flaw Exposes Local Files (CVE-2023–4357) | AerieWhole123 | [Read More](https://medium.com/p/081db8b0e800) |
 | Thu, 07 Aug 2025 03:38:30 GMT | Picture Perfect Exploit: How Image Uploads Turned Into Shell Access | Iski | [Read More](https://medium.com/p/473659d49020) |
@@ -98,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 Aug 2025 19:34:34 GMT | When detection fails: 5 lessons learned that caused security alerts go dark because of data… | LogFiend | [Read More](https://medium.com/p/708df74a89bd) |
 | Wed, 06 Aug 2025 19:31:03 GMT | Poisoning the web: Ultimate guide to the web cache poisoning | Manas Harsh | [Read More](https://medium.com/p/ade6eb884d39) |
 | Wed, 06 Aug 2025 19:30:25 GMT | Recovery/Crypto | Norman Meg | [Read More](https://medium.com/p/8243fe089920) |
-| Wed, 06 Aug 2025 19:30:15 GMT | How good of an actor are you? | Kondapalli Koyal | [Read More](https://medium.com/p/d2ec3d649c71) |
-| Wed, 06 Aug 2025 19:26:34 GMT | The Paradox of Love: A Fragile Dance | Clumsy_fellaaaaa | [Read More](https://medium.com/p/9027386e2777) |
-| Wed, 06 Aug 2025 19:22:56 GMT | Princípios de Segurança — Explorando CIA, DAD e mais… | Ane Duarte | [Read More](https://medium.com/p/febd50138be5) |
-| Wed, 06 Aug 2025 19:14:51 GMT | Cybersecurity & Social Engineering  Factor Still Matters
-Cybersecurity isn’t just about firewalls… | Murat Tarsuslu | [Read More](https://medium.com/p/6a51a62e6d02) |
-| Wed, 06 Aug 2025 19:10:28 GMT | Learn Real WiFi Hacking Concepts with Termux — Not Fake Tricks | Kambetastephano | [Read More](https://medium.com/p/35693a356bf3) |
-| Wed, 06 Aug 2025 19:08:29 GMT | HOW CAN I RECOVER MY LOST BITCOIN, USDT?/MALICE CYBER RECOVERY WILL SOLVE YOUR PROBLEMS | Thomas nils | [Read More](https://medium.com/p/caf06d87b946) |
-| Wed, 06 Aug 2025 19:06:23 GMT | Is Your Email on the Dark Web? Here’s How to Find Out | SafeAeon Inc. | [Read More](https://medium.com/p/2c84deb43e93) |
-| Wed, 06 Aug 2025 19:04:35 GMT | Runtime BOM (RBOM): The Optimized Upgrade to SBOM, Powered by RapidFort | Jacob Mitani | [Read More](https://medium.com/p/939a05fe1d00) |
-| Wed, 06 Aug 2025 19:01:07 GMT | The Machine Uprising Has Been Cancelled. Anton Vibe Art | En Doa | [Read More](https://medium.com/p/0a1d90829920) |
-| Wed, 06 Aug 2025 18:53:26 GMT | VulnOS “Legacy” Lab Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/406813eb338a) |
-| Wed, 06 Aug 2025 18:46:43 GMT | Mastering Pivoting in Threat Hunting — Following the Trail | Zrhmz | [Read More](https://medium.com/p/05e1e85f325a) |
-| Wed, 06 Aug 2025 18:42:17 GMT | TryHackMe Incident Handling with Splunk — Write-Up | Paul D. | [Read More](https://medium.com/p/4821b89d1eed) |
-| Wed, 06 Aug 2025 18:41:42 GMT | Why Most Cybersecurity Certifications Fail (And How to Make Them Actually Useful) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/2ba9147b3a87) |
-| Wed, 06 Aug 2025 18:41:27 GMT | Massive Dell Firmware Flaw Could Enable Persistent Takeovers | Travis Ray Caverhill | [Read More](https://medium.com/p/6d9c9d576d6e) |
