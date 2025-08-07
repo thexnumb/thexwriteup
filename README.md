@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 03:44:49 GMT | Can Spartan Aegis Protect Air-Gapped Systems? Absolutely — Here’s How | Ted Rogers | [Read More](https://medium.com/p/675c0cf3e7c2) |
+| Thu, 07 Aug 2025 03:40:53 GMT | Chromium XXE Flaw Exposes Local Files (CVE-2023–4357) | AerieWhole123 | [Read More](https://medium.com/p/081db8b0e800) |
+| Thu, 07 Aug 2025 03:38:30 GMT | Picture Perfect Exploit: How Image Uploads Turned Into Shell Access | Iski | [Read More](https://medium.com/p/473659d49020) |
+| Thu, 07 Aug 2025 03:35:48 GMT | (Access Control) Lab: Method-based access control can be circumvented - 2025 | Ananda | [Read More](https://medium.com/p/a04d76831cac) |
+| Thu, 07 Aug 2025 03:35:12 GMT | 15,000 Fake TikTok Shop Domains Are Stealing Crypto | Cyber-AppSec | [Read More](https://medium.com/p/3835c17563b0) |
+| Thu, 07 Aug 2025 03:31:41 GMT | Injection Vulnerabilities Demystified: SQLi, Command Injection, and XSS | YoungerSibling | [Read More](https://medium.com/p/f4a16ef82fdb) |
+| Thu, 07 Aug 2025 03:31:41 GMT | When Classrooms Are Compromised: The Baltimore Schools Data Breach | Deven Chhajed | [Read More](https://medium.com/p/bc62d8503a7a) |
+| Thu, 07 Aug 2025 03:29:12 GMT | ประจำวันพฤหัสบดีที่ 7สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/57188dfe6e90) |
+| Thu, 07 Aug 2025 03:23:17 GMT | Exploiting Cross-Site Scripting (XSS) to Capture Passwords | Bash Overflow | [Read More](https://medium.com/p/371670c3dc03) |
+| Thu, 07 Aug 2025 03:22:04 GMT | (Access Control) Lab: URL-based access control can be circumvented - 2025 | Ananda | [Read More](https://medium.com/p/9232e5ccf81b) |
+| Thu, 07 Aug 2025 03:14:37 GMT | How to BUG $BUG Liquidity Lock for Passive Income | BUG | [Read More](https://medium.com/p/5d8bc2215fd2) |
+| Thu, 07 Aug 2025 03:02:21 GMT | Reflection Of The Day: Home & Human | Nithya Miriam Abraham | [Read More](https://medium.com/p/4f6c632e68d3) |
+| Thu, 07 Aug 2025 02:57:46 GMT | برنامج مكالمات فيديو حول العالم: تواصل بحرية بلا حدود | katibatech | [Read More](https://medium.com/p/daccb7525bf5) |
+| Thu, 07 Aug 2025 02:47:44 GMT | Honeypot Projesi — T-pot Honeypot Kurulumu — İlk İzlenimler | Berk Ali Erçelik | [Read More](https://medium.com/p/711b4786e26e) |
+| Thu, 07 Aug 2025 02:22:50 GMT | Drosera Network: A New Standard for On-Chain Security And How You Can Contribute as a Writer | Lore Expert | [Read More](https://medium.com/p/66988dc5eca9) |
 | Thu, 07 Aug 2025 01:56:39 GMT | Helping Communities Stay Safe Online — Bruce Johnson, Cybersecurity Speaker | Brucejohnsonspeaks | [Read More](https://medium.com/p/81c89fcb9f6e) |
+| Thu, 07 Aug 2025 01:53:38 GMT | Wazuh Home Lab: SIEM and File Integrity Monitoring with Ubuntu and Windows. | Roland Nii Ayi Aryee | [Read More](https://medium.com/p/0f7e7ff5cfe2) |
 | Thu, 07 Aug 2025 01:33:38 GMT | Surviving the 2025 Remote Job Scam Epidemic: Hard Truths for Real Job Seekers | Justin | [Read More](https://medium.com/p/75b68152961c) |
 | Thu, 07 Aug 2025 01:15:38 GMT | HackTheBox Networked (OSCP Preparation) | 5p1d4r | [Read More](https://medium.com/p/36099daa5331) |
 | Thu, 07 Aug 2025 01:14:07 GMT | MCPoison: How a Trusted AI Feature in Cursor Became a Hacker’s Backdoor (CVE-2025–54136) | Atharva Shirude | [Read More](https://medium.com/p/0a7a1bb0b83d) |
@@ -97,19 +113,3 @@ Cybersecurity isn’t just about firewalls… | Murat Tarsuslu | [Read More](htt
 | Wed, 06 Aug 2025 18:42:17 GMT | TryHackMe Incident Handling with Splunk — Write-Up | Paul D. | [Read More](https://medium.com/p/4821b89d1eed) |
 | Wed, 06 Aug 2025 18:41:42 GMT | Why Most Cybersecurity Certifications Fail (And How to Make Them Actually Useful) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/2ba9147b3a87) |
 | Wed, 06 Aug 2025 18:41:27 GMT | Massive Dell Firmware Flaw Could Enable Persistent Takeovers | Travis Ray Caverhill | [Read More](https://medium.com/p/6d9c9d576d6e) |
-| Wed, 06 Aug 2025 18:40:32 GMT | Claude Cannot Secure your API’s | API Expert | [Read More](https://medium.com/p/76a8ba4ce3ab) |
-| Wed, 06 Aug 2025 18:40:16 GMT | SQL Injection Explained: The Silent Hacker Trap Hiding in Your Website | SafeAeon Inc. | [Read More](https://medium.com/p/b5904f289e5e) |
-| Wed, 06 Aug 2025 18:34:22 GMT | Remote Code Execution via Polyglot Web Shell Upload — PortSwigger Lab | Adhamkhairy | [Read More](https://medium.com/p/39e885fb48ff) |
-| Wed, 06 Aug 2025 18:34:19 GMT | Letting Go of My Fear of Being Perceived (hello Scorpio rising, Leo north node ) | Carol | [Read More](https://medium.com/p/73176434c5fe) |
-| Wed, 06 Aug 2025 18:33:51 GMT | Beyond Tic-Tac-Toe: Merging Strategic AI Benchmarks for the Next Generation of Agent Intelligence | Berend Watchus | [Read More](https://medium.com/p/7fa508c83da3) |
-| Wed, 06 Aug 2025 18:32:54 GMT | Why Cybersecurity Consulting Firms Are Vital for Modern Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/066e1c1e7b55) |
-| Wed, 06 Aug 2025 18:28:52 GMT | Fortinet Firewall & VmWare Test Ortamı Kurulumu - Ağ Güvenliğine Giriş - TalentCoders Siber… | Hakan ÇEVİK | [Read More](https://medium.com/p/2ff7207ec630) |
-| Wed, 06 Aug 2025 18:26:46 GMT | CTF — Writeup: De Reconnaissance a Root | Jonathan M. | [Read More](https://medium.com/p/1f11df87f94a) |
-| Wed, 06 Aug 2025 18:21:03 GMT | The Power of Log Correlation in Threat Hunting | Zrhmz | [Read More](https://medium.com/p/88b926b522c7) |
-| Wed, 06 Aug 2025 18:16:38 GMT | BLUE- TRYHACKME | Pawan Badoni | [Read More](https://medium.com/p/77dccfc89023) |
-| Wed, 06 Aug 2025 18:15:14 GMT | AI will not cause economic growth of 20% to 30% per year | Gaetan Lion | [Read More](https://medium.com/p/8decea769888) |
-| Wed, 06 Aug 2025 18:13:54 GMT | Hak5 WiFi Pineapple Pager: A Modern Classic | LazyDom | [Read More](https://medium.com/p/00d5252819f5) |
-| Wed, 06 Aug 2025 18:13:19 GMT | Increase Workplace Productivity : Employee Monitoring Spy Apps | Narjis Batool | [Read More](https://medium.com/p/4de8851aa2d5) |
-| Wed, 06 Aug 2025 18:09:04 GMT | Making dorks from HTML Comment | AbhirupKonwar | [Read More](https://medium.com/p/b4794b54d596) |
-| Wed, 06 Aug 2025 18:08:47 GMT | How Public Logs Can Leak Authentication Tokens — A Real Netlify Token Exposure Case | Monika sharma | [Read More](https://medium.com/p/a08561b2aedb) |
-| Wed, 06 Aug 2025 18:07:02 GMT | Wireless Penetration Testing Made Easy: Our Team’s Go-To Wifite Workflow | Mark Puckett | [Read More](https://medium.com/p/f7d2f8be0839) |
