@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 23:36:19 GMT | Common Cyber Threats Small Businesses Face in 2025 (and How to Stay Safe) | Audiopinesolutions | [Read More](https://medium.com/p/5e5b146873c7) |
+| Thu, 07 Aug 2025 23:35:30 GMT | In a word that celebrates strength and perfection, revealing our weaknesses often feels risky. | Toria walker | [Read More](https://medium.com/p/6b9d6c8239ff) |
+| Thu, 07 Aug 2025 23:35:27 GMT | Firmware Dumping Techniques for STM32 Microcontrollers — Part 3 | Abdelwahed Baha | [Read More](https://medium.com/p/127e49df6226) |
+| Thu, 07 Aug 2025 23:35:15 GMT | ️ Memahami Cyber Security & Information Security: Dasar, Ancaman, dan Perlindungan Data Digital | Nelli Evania Destianti X(TKJ-2) | [Read More](https://medium.com/p/87e156fdb595) |
+| Thu, 07 Aug 2025 23:30:19 GMT | A Guide to Web3 Security with Zack from Sherlock | BMX DeFi | [Read More](https://medium.com/p/e75c87453316) |
+| Thu, 07 Aug 2025 23:28:51 GMT | Bug Bounty Journey — Valid Report Part 9 | 0xF3r4t | [Read More](https://medium.com/p/879e35be5ff6) |
+| Thu, 07 Aug 2025 23:18:54 GMT | Forget New Tools — Here’s the Real Reason Your AI Can’t Catch Modern Threats | Cyber-AppSec | [Read More](https://medium.com/p/00473dc668ba) |
 | Thu, 07 Aug 2025 22:50:18 GMT | The Practitioner’s Guide to Google Workspace Security: 5 Settings You cannot afford to Misconfigure | CyberLucifer | [Read More](https://medium.com/p/6a995931caf3) |
 | Thu, 07 Aug 2025 22:11:21 GMT | Understanding Blockchain: A Complete Guide | Happy Shekh | [Read More](https://medium.com/p/d1dc1dd86373) |
 | Thu, 07 Aug 2025 22:06:37 GMT | Week of 08.07 - Front End, Backend, Putting it all Together (with a side of Linux) | Laurdickerson | [Read More](https://medium.com/p/8b573a8f6e71) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 16:21:34 GMT | From Chaos to Clarity: How I Used Jira Product Discovery to Build a Centralized Epic Board That… | Shauna Zamarripa | [Read More](https://medium.com/p/f269f676c9ff) |
 | Thu, 07 Aug 2025 16:19:57 GMT | Discover IoT: Changing the Way You Live and Work | Techy Hello | [Read More](https://medium.com/p/387e35c747b6) |
 | Thu, 07 Aug 2025 16:15:45 GMT | How I Got a P3 in NASA | ghostvirus | [Read More](https://medium.com/p/5d98f07d888f) |
-| Thu, 07 Aug 2025 16:08:41 GMT | ‘Day 5 Of 5000 Hour Hacker’ | Red-X | [Read More](https://medium.com/p/78d9de3ebbfe) |
-| Thu, 07 Aug 2025 16:05:11 GMT | Beyond the Checklist: Navigating ISO 27001 with Confidence and Clarity | Deep Nakrani | [Read More](https://medium.com/p/1321e0fc34e0) |
-| Thu, 07 Aug 2025 16:04:18 GMT | Auth.js (Next-auth)에서 PrismaClient 에러를 해결하면서 | Ori | [Read More](https://medium.com/p/56509d89ba03) |
-| Thu, 07 Aug 2025 16:00:44 GMT | 6. Open Source Intelligence | unknownman | [Read More](https://medium.com/p/5fa13b6b4dbe) |
-| Thu, 07 Aug 2025 15:58:16 GMT | Top BCA Colleges in Kozhikode : Courses, Campus Life & Career Scope | Divya | [Read More](https://medium.com/p/60733d177a8d) |
-| Thu, 07 Aug 2025 15:57:10 GMT | Cheyanne Mallas and the Art of Cybersecurity Project Management: Building Digital Fortresses with… | Cheyannemallaspa | [Read More](https://medium.com/p/a177091accd2) |
-| Thu, 07 Aug 2025 15:56:44 GMT | Home Lab Chronicles: Part 09 — Integration between Wazuh SIEM and TheHive | Suprim Devkota | [Read More](https://medium.com/p/1424b3d71d44) |
