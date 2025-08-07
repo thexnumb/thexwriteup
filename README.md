@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 Aug 2025 20:24:23 GMT | Don’t Be Afraid To Say No To An Opportunity Others Would Die To Grab. | Levi Misenga | [Read More](https://medium.com/p/fd88bc3185ae) |
+| Thu, 07 Aug 2025 20:15:47 GMT | Trust and Proving Cybersecurity Value | Matthew.Rosenquist | [Read More](https://medium.com/p/5972b8f7478f) |
+| Thu, 07 Aug 2025 20:13:07 GMT | Paper Skin: vulnerability and truth | Tyra Elisebeth | [Read More](https://medium.com/p/5d445d82cdbe) |
+| Thu, 07 Aug 2025 20:12:15 GMT | Brute Forcing Wifi Password | Vrishabh Bhavsar | [Read More](https://medium.com/p/651ef1f10835) |
+| Thu, 07 Aug 2025 20:05:35 GMT | Fake TradingView AI Plugin Deploys NetSupport RAT | David Diefenderfer | [Read More](https://medium.com/p/c06028526f79) |
+| Thu, 07 Aug 2025 20:03:13 GMT | The Scariest Business In The World | Theneighborhoodplugman | [Read More](https://medium.com/p/d617333ed66c) |
+| Thu, 07 Aug 2025 20:01:55 GMT | Why Taiwan Matters More Than You Think | samayxpatel | [Read More](https://medium.com/p/371e8c0fac6e) |
+| Thu, 07 Aug 2025 19:43:07 GMT | Why SWIFT Matters in Today’s World — The Invisible backbone of Global Banking | Persis Tafflin | [Read More](https://medium.com/p/255dafdf21ea) |
+| Thu, 07 Aug 2025 19:40:13 GMT | Why AI Is Reshaping Cybersecurity in 2025? | PromptSecAI | [Read More](https://medium.com/p/3b47b274c96f) |
+| Thu, 07 Aug 2025 19:40:07 GMT | How to Gather Information From PHPInfo file ? | 0liverFlow | [Read More](https://medium.com/p/a38d4193c6f7) |
+| Thu, 07 Aug 2025 19:38:48 GMT | Why Enterprise Platform Security Fails: 3 Critical Flaws and How Modern Infrastructure Solves Them | Nicholas Thoni | [Read More](https://medium.com/p/7f41f0b1682d) |
 | Thu, 07 Aug 2025 19:29:44 GMT | Crypto, Love, and Lies: The Shocking Rise of Pig Butchering Scams | Akshay Chauhan | [Read More](https://medium.com/p/ed2176c81037) |
 | Thu, 07 Aug 2025 19:20:40 GMT | For the One Who Loves Quietly | Letters to the Fog | [Read More](https://medium.com/p/81563b2ba984) |
 | Thu, 07 Aug 2025 19:14:55 GMT | Getting Policies, Procedures, Standards & Guidelines right. | Steve Faust | [Read More](https://medium.com/p/e744f77e47ed) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 15:07:03 GMT | Top Cyber Security Practices for Small Businesses in 2025: A Must-Have Guide to Protect Your… | Paul Meyer | [Read More](https://medium.com/p/2a15f6d631ec) |
 | Thu, 07 Aug 2025 15:05:50 GMT | Attacking Google Cloud Platform: Red Team Methodology | Lord Murak | [Read More](https://medium.com/p/de2ab8916fd1) |
 | Thu, 07 Aug 2025 15:01:49 GMT | I Used Smartness as a Shield — Until It Made Me Disappear | Laila Regalado | [Read More](https://medium.com/p/36931f6a72c3) |
-| Thu, 07 Aug 2025 15:01:48 GMT | How to Explain Digital Exposure to Your Co-Founder or Partner | Ingvar Pavlovich | [Read More](https://medium.com/p/8de159383727) |
-| Thu, 07 Aug 2025 14:59:00 GMT | Hackviser — Void Çözümü | Berent Oral | [Read More](https://medium.com/p/e2ee99abed3e) |
-| Thu, 07 Aug 2025 14:54:17 GMT | $285M Stolen — The July 2025 Crypto Crime Report | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/32252ffeb143) |
-| Thu, 07 Aug 2025 14:53:56 GMT | The Espionage You Do Not See While Traveling | Ricardo Newman | [Read More](https://medium.com/p/332b9c3cf4fb) |
-| Thu, 07 Aug 2025 14:51:42 GMT | Why Rust is the Future of Cloud-Native Development | Vivek chandak | [Read More](https://medium.com/p/5ff441117829) |
-| Thu, 07 Aug 2025 14:50:51 GMT | When Government Solutions Create Bigger Problems: A Tariff Case Study | George Campbell | [Read More](https://medium.com/p/69f574ddfb39) |
-| Thu, 07 Aug 2025 14:50:36 GMT | Can You Imagine Reservations in the Private Sector? (Especially in IT & Software) | Mahendra. K | [Read More](https://medium.com/p/0126136687be) |
-| Thu, 07 Aug 2025 14:47:26 GMT | PhishDestroy: A Direct War on Phishing Operations | PhishDestroy | [Read More](https://medium.com/p/90f1bbd81386) |
-| Thu, 07 Aug 2025 14:31:50 GMT | Deconstructing the Digital Heartbeat: A Beginner’s Guide to Windows Processes | AlanKaliX | [Read More](https://medium.com/p/614bd3254520) |
-| Thu, 07 Aug 2025 14:25:29 GMT | The Future of DAO Security: How Drosera Network Can Safeguard Treasuries in 2025 | Cybertank | [Read More](https://medium.com/p/20eda9a9ce24) |
-| Thu, 07 Aug 2025 14:18:13 GMT | How to Monitor Web Performance Without Overhead | Rizqi Mulki | [Read More](https://medium.com/p/388cae019387) |
