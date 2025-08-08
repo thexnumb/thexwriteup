@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 20:39:34 GMT | The Anatomy of a Cyberattack: Understanding the Threat | Cyber Security Research | [Read More](https://medium.com/p/7a0578e9d5f1) |
 | Fri, 08 Aug 2025 20:17:56 GMT | Apache Tomcat 8.5.19 - CVE-2017–12617 | Özcan Ersan | [Read More](https://medium.com/p/362fa7d17504) |
 | Fri, 08 Aug 2025 20:16:33 GMT | Double Trouble VulnHub Walkthrough: Step-by-Step Guide to Solving ‘Machine Inside a Machine’ for… | Prajwal | [Read More](https://medium.com/p/b89b3561407e) |
 | Fri, 08 Aug 2025 20:15:48 GMT | 10 Simple Cybersecurity Tips for Remote Workers | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/41961a4455ae) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 14:22:28 GMT | How to Build a Cybersecurity Contingency Plan in 2025: Why You’re Already Behind | Sebbas | [Read More](https://medium.com/p/0f0c8d3029bb) |
 | Fri, 08 Aug 2025 14:13:45 GMT | API4:2023 — Unrestricted Resource Consumption | Apifort | [Read More](https://medium.com/p/2eebae70b505) |
 | Fri, 08 Aug 2025 14:05:53 GMT | A Critical Review of Seed Entropy in Computational Environments | Wendell Mouzali Ruiz | [Read More](https://medium.com/p/129da05defb2) |
-| Fri, 08 Aug 2025 14:01:49 GMT | Cyber Briefing: 2025.08.08 | CyberMaterial | [Read More](https://medium.com/p/a49a56818d28) |
