@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 08:27:02 GMT | Advanced Correlation Scenarios and Threat Modeling in SOC | Esra Kayhan | [Read More](https://medium.com/p/035b4c76d629) |
+| Fri, 08 Aug 2025 08:26:27 GMT | Resolving NotEntitledException in self-hosted Elasticsearch | Veera Atukuri | [Read More](https://medium.com/p/64da406ff76a) |
+| Fri, 08 Aug 2025 08:18:13 GMT | How to Find the Best Proxy Websites: A Checklist for Quality | Ipflyproxy | [Read More](https://medium.com/p/ac25cbd5f0df) |
+| Fri, 08 Aug 2025 08:16:51 GMT | Black Pallet Wrap — The Unsung Hero of Cargo Security | Cvsales | [Read More](https://medium.com/p/448498b7cc8b) |
+| Fri, 08 Aug 2025 08:10:45 GMT | Why These Cybersecurity Books Are Bestselling Weapons | Aj | [Read More](https://medium.com/p/c180b592bf44) |
+| Fri, 08 Aug 2025 08:08:40 GMT | Bifrost Launches $500,000 Bug Bounty with Immunefi — One Critical Find Could Change Everything | Crypto Ser | [Read More](https://medium.com/p/39d3cbd30fbb) |
+| Fri, 08 Aug 2025 08:07:16 GMT | Best Practices for Securing Docker Containers | @rnab | [Read More](https://medium.com/p/eba17ba8223a) |
+| Fri, 08 Aug 2025 08:06:09 GMT | Cybersecurity Challenges IT Experts Face: Research Paper | Classes Place | [Read More](https://medium.com/p/2492ae5b9f28) |
+| Fri, 08 Aug 2025 08:01:47 GMT | Credential Stuffing: How One Stolen Password Can Unlock Thousands of Accounts | Alexandre Vandamme | [Read More](https://medium.com/p/3a38658c2df8) |
+| Fri, 08 Aug 2025 08:01:31 GMT | Universities Under Cyber Threat: Lessons from CitrixBleed 2 and the Importance of AI Firewalls in… | Sydeco Indonesia | [Read More](https://medium.com/p/b1b4783b877a) |
+| Fri, 08 Aug 2025 07:49:33 GMT | Which Red Hat Certification Is Best for Salary Hikes in 2025? | cyber security Updates | [Read More](https://medium.com/p/c1ea8b122ac4) |
+| Fri, 08 Aug 2025 07:43:13 GMT | Behind the Scenes: Our Journey to Achieving ISO Certification | Giant Swarm | [Read More](https://medium.com/p/af605404cab2) |
+| Fri, 08 Aug 2025 07:43:10 GMT | Building From Scratch : My Path to Something Big.. | Sricharan Reddy M | [Read More](https://medium.com/p/985b02b452dc) |
 | Fri, 08 Aug 2025 07:41:32 GMT | ISMAP Management Standards Chapter 11: Physical and Environmental Security — Securing Physical… | nolly | [Read More](https://medium.com/p/dc0a776627ce) |
 | Fri, 08 Aug 2025 07:39:10 GMT | Simple Examples of XSS (Cross-Site Scripting )Attack & How It’s Prevented ! | Vansh_Makkar | [Read More](https://medium.com/p/64adbb36a3e1) |
 | Fri, 08 Aug 2025 07:33:26 GMT | ChatGPT vs Stack Overflow: My Xcode Debugging Experience | Aman | [Read More](https://medium.com/p/8e0757d91cc3) |
@@ -101,16 +114,3 @@ Writing articles is a great way through which you can earn… | Meschain shelly 
 | Fri, 08 Aug 2025 01:22:27 GMT | Day 73: Bash for Pentesters | Nile Okomo | [Read More](https://medium.com/p/28d25e08b29e) |
 | Fri, 08 Aug 2025 01:09:51 GMT | How to $BUG Yield Farming on StakingRewards for Maximum APY | BUG | [Read More](https://medium.com/p/f0036db32b0f) |
 | Fri, 08 Aug 2025 01:02:01 GMT | Ghosting Isn’t Just Rude It Reveals Our Fear of Confronting Vulnerability | Kopi Date | [Read More](https://medium.com/p/596d2406747a) |
-| Fri, 08 Aug 2025 00:56:47 GMT | Build Your Own Port Scanner in Python | Zain Ahmad | [Read More](https://medium.com/p/136a92b13b1e) |
-| Fri, 08 Aug 2025 00:38:37 GMT | The Forgotten SSRF Vector (CVE-2020–10770) | Monika sharma | [Read More](https://medium.com/p/8bf04bfd4be9) |
-| Fri, 08 Aug 2025 00:36:33 GMT | PowerShell as a Victim | Bl@ckC!pH3r | [Read More](https://medium.com/p/b6fda15f77de) |
-| Fri, 08 Aug 2025 00:01:45 GMT | Server-Side Request Forgery (SSRF — OWASP A10): Guía para Hacking y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/3705bbc5f283) |
-| Fri, 08 Aug 2025 00:00:41 GMT | WSL — Using Linux On Windows | Red | [Read More](https://medium.com/p/ca2a4084efeb) |
-| Thu, 07 Aug 2025 23:58:24 GMT | The Hidden Pitfalls: Common Issues Upstream Before Sending Logs to Elastic Cloud | LogFiend | [Read More](https://medium.com/p/9cdf8a1adff5) |
-| Thu, 07 Aug 2025 23:52:07 GMT | Supercharge Your $BUG Earnings with StakingRewards | BUG | [Read More](https://medium.com/p/e971b9c6fbdf) |
-| Thu, 07 Aug 2025 23:36:19 GMT | Common Cyber Threats Small Businesses Face in 2025 (and How to Stay Safe) | Audiopinesolutions | [Read More](https://medium.com/p/5e5b146873c7) |
-| Thu, 07 Aug 2025 23:35:30 GMT | In a word that celebrates strength and perfection, revealing our weaknesses often feels risky. | Toria walker | [Read More](https://medium.com/p/6b9d6c8239ff) |
-| Thu, 07 Aug 2025 23:35:27 GMT | Firmware Dumping Techniques for STM32 Microcontrollers — Part 3 | Abdelwahed Baha | [Read More](https://medium.com/p/127e49df6226) |
-| Thu, 07 Aug 2025 23:35:15 GMT | ️ Memahami Cyber Security & Information Security: Dasar, Ancaman, dan Perlindungan Data Digital | Nelli Evania Destianti X(TKJ-2) | [Read More](https://medium.com/p/87e156fdb595) |
-| Thu, 07 Aug 2025 23:30:19 GMT | A Guide to Web3 Security with Zack from Sherlock | BMX DeFi | [Read More](https://medium.com/p/e75c87453316) |
-| Thu, 07 Aug 2025 23:28:51 GMT | Bug Bounty Journey — Valid Report Part 9 | 0xF3r4t | [Read More](https://medium.com/p/879e35be5ff6) |
