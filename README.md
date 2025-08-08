@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 05:09:44 GMT | Real-World Benefits of Learning Cybersecurity in 2025 | Ann Maria | [Read More](https://medium.com/p/eff9472af3a4) |
+| Fri, 08 Aug 2025 05:07:23 GMT | AI vs. AI: How Artificial Intelligence is Shaping the Future of Cybersecurity | Ajay Verma | [Read More](https://medium.com/p/ed178fa83236) |
+| Fri, 08 Aug 2025 05:05:49 GMT | The Windows Process Journey — vmcompute.exe (Hyper-V Host Compute Service) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/01259486ab19) |
+| Fri, 08 Aug 2025 05:05:23 GMT | Outdoor CCTV in Dubai: Weather-Proofing Your Watchful Eyes | cctv-installation-dubai | [Read More](https://medium.com/p/e0a60726aed0) |
+| Fri, 08 Aug 2025 04:55:43 GMT | Right When You Least Expect It: How Recent Breaches Reveal Just How Fragile Trust Is Online | Sofia | [Read More](https://medium.com/p/f076920ac3c9) |
+| Fri, 08 Aug 2025 04:51:59 GMT | The Hidden Threat: How Steganography Is Becoming Cinema’s Invisible Enemy | Joseph Desmond Cruel | [Read More](https://medium.com/p/2cd9de159b0e) |
+| Fri, 08 Aug 2025 04:47:39 GMT | Robots Secret - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/afc40a16d6bb) |
 | Fri, 08 Aug 2025 04:33:03 GMT | Cybersecurity Job Roles of the Future | Dr. Deep Pandey | [Read More](https://medium.com/p/7327c800dcda) |
 | Fri, 08 Aug 2025 04:32:39 GMT | Exploiting XSS to Bypass CSRF Defenses: Change Victim’s Email | Bash Overflow | [Read More](https://medium.com/p/dcdcbfe1d5df) |
 | Fri, 08 Aug 2025 04:11:24 GMT | BUG $BUG Growth Strategy: The Best Way to Earn Passive Crypto | BUG | [Read More](https://medium.com/p/fb09fbaa0fb7) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 18:51:54 GMT | My silence isn’t a cry for help. | Aoyon | [Read More](https://medium.com/p/2800dc3cd8af) |
 | Thu, 07 Aug 2025 18:51:01 GMT | Monitor HTTP Response Headers Like a Pro: Introducing Header Change Notifier for Burp Suite | Mohamed.cybersec | [Read More](https://medium.com/p/b1494028b4db) |
 | Thu, 07 Aug 2025 18:50:33 GMT | SAST vs. DAST: Decoding the Two Pillars of Application Security | Janith Sandamal | [Read More](https://medium.com/p/70f7d5934554) |
-| Thu, 07 Aug 2025 18:46:15 GMT | Email Security as a Service, Stop Phishing, Spoofing, and Malware Before They Hit Your Inbox | SafeAeon Inc. | [Read More](https://medium.com/p/6ac580992e94) |
-| Thu, 07 Aug 2025 18:44:19 GMT | Security Breach and Denial at The Property Ombudsman: A Public Regulator in Crisis | Lucretia Delvaux | [Read More](https://medium.com/p/bf6ce330085c) |
-| Thu, 07 Aug 2025 18:43:48 GMT | The Mini File Picker You Actually Need for Compact UIs | Idera Dev Tools | [Read More](https://medium.com/p/03b3af9e0c12) |
-| Thu, 07 Aug 2025 18:43:45 GMT | Threat Hunting vs. Incident Response: What’s the Difference? | Nima Bargestan | [Read More](https://medium.com/p/18ae2a5cfbac) |
-| Thu, 07 Aug 2025 18:42:09 GMT | CentOS 7 Üzerinde Wazuh 4.7 Kurulumu ve Windows Sunucudan Log Yönlendirme | Mustafa Mansur Mamus | [Read More](https://medium.com/p/6b0933f78668) |
-| Thu, 07 Aug 2025 18:33:02 GMT | Ghost Calls: How Web Conferencing Platforms Are Being Turned into Covert C&C Channels | Chetan Seripally | [Read More](https://medium.com/p/93d8da520c51) |
-| Thu, 07 Aug 2025 18:29:19 GMT | The BRICS Cyber Nexus: Cooperation, Confrontation, and Bloc Formation — Brics Part 5 | Ali Gündoğar | [Read More](https://medium.com/p/3303b1a48ea9) |
