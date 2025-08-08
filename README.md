@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 14:32:55 GMT | Columbia University’s Data Breach Isn’t Just a Tech Glitch — It’s a Wake-Up Call | Dhruvdeep Singh | [Read More](https://medium.com/p/d40ba8a1ef5e) |
+| Fri, 08 Aug 2025 14:26:43 GMT | The Consequences of Clicking a DocuSign Phishing Link | Ai Writter Tools | [Read More](https://medium.com/p/356209269c89) |
+| Fri, 08 Aug 2025 14:22:28 GMT | How to Build a Cybersecurity Contingency Plan in 2025: Why You’re Already Behind | Sebbas | [Read More](https://medium.com/p/0f0c8d3029bb) |
+| Fri, 08 Aug 2025 14:13:45 GMT | API4:2023 — Unrestricted Resource Consumption | Apifort | [Read More](https://medium.com/p/2eebae70b505) |
 | Fri, 08 Aug 2025 14:05:53 GMT | A Critical Review of Seed Entropy in Computational Environments | Wendell Mouzali Ruiz | [Read More](https://medium.com/p/129da05defb2) |
 | Fri, 08 Aug 2025 14:01:49 GMT | Cyber Briefing: 2025.08.08 | CyberMaterial | [Read More](https://medium.com/p/a49a56818d28) |
 | Fri, 08 Aug 2025 14:01:41 GMT | Como Importar Seus Códigos do Google Authenticator para a Extensão Autenticador no Chrome | Lucas Briesemeister | [Read More](https://medium.com/p/238e91f4b2b9) |
@@ -109,7 +113,3 @@ Cisco + Splunk + AppDynamics | Somerford Associates Limited | [Read More](https:
 | Fri, 08 Aug 2025 10:13:29 GMT | 10 Common IMAP to IMAP Migration Problems and How to Fix Them | Axelmeyer | [Read More](https://medium.com/p/8455c96096d2) |
 | Fri, 08 Aug 2025 10:13:12 GMT | How Undersea Cables Became a Battlefield ? | KS. MISHRA | [Read More](https://medium.com/p/50734b63de5e) |
 | Fri, 08 Aug 2025 10:11:59 GMT | Building Scalable and Secure Drupal Architecture: Best Practices for Growing Websites | Drupart Digital | [Read More](https://medium.com/p/aca305502e16) |
-| Fri, 08 Aug 2025 10:09:46 GMT | Generative AI Cybersecurity Market Size, Share, Growth and Forecast Report - 2032 | Mlee | [Read More](https://medium.com/p/ea87d912817a) |
-| Fri, 08 Aug 2025 10:09:36 GMT | How fast can Hybrid SOC Services respond? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/f846ca191b72) |
-| Fri, 08 Aug 2025 10:09:29 GMT | Become a hacker — 101, A list of resources | Thexssrat | [Read More](https://medium.com/p/2e4c3f9b3d59) |
-| Fri, 08 Aug 2025 10:09:16 GMT | The Online Safety Act: Britain’s Law to Hammer the Internet in the Name of Safety | Joseph-David Wyeth | [Read More](https://medium.com/p/98ae733c9ebf) |
