@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 10:45:17 GMT | HTTP/1.1 Its No Longer Safe | Astraliva | [Read More](https://medium.com/p/2cb5a4ebe150) |
+| Fri, 08 Aug 2025 10:38:17 GMT | DockerLabs Writeup — Amor (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/30d1db0f6b49) |
+| Fri, 08 Aug 2025 10:36:29 GMT | HTTP Request Smuggling: From Basics to Bounty | Jayesh kunwal | [Read More](https://medium.com/p/4a799f2e18c2) |
+| Fri, 08 Aug 2025 10:36:12 GMT | Honoured to Speak and Receive Recognition at CSJMU, Kanpur | Yuvraj Gupta | [Read More](https://medium.com/p/f61e63412e99) |
+| Fri, 08 Aug 2025 10:33:21 GMT | ประจำวันศุกร์ที่ 8 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/38b3c74bdec3) |
+| Fri, 08 Aug 2025 10:33:03 GMT | CVE-2025–48394: Eaton Product Vulnerable to File Modification via Path Traversal | CVEHUB | [Read More](https://medium.com/p/db1a0c913a44) |
+| Fri, 08 Aug 2025 10:32:43 GMT | Penetration Testing as a Service Market Size, Share, Trends and Analysis by 2032 | Mlee | [Read More](https://medium.com/p/75a3f83fed42) |
+| Fri, 08 Aug 2025 10:31:55 GMT | Project Risk Management in 2025: From Landmines to Launchpads | Himanshu Agarwal | [Read More](https://medium.com/p/8a31f361172f) |
+| Fri, 08 Aug 2025 10:31:31 GMT | CVE-2025–48393: Man-in-the-Middle Risk During Eaton Firmware Updates | CVEHUB | [Read More](https://medium.com/p/c19be4de1d3f) |
+| Fri, 08 Aug 2025 10:29:59 GMT | CVE-2024–8244: TOCTOU Vulnerability in Go’s filepath.Walk and WalkDir | CVEHUB | [Read More](https://medium.com/p/27c882205c31) |
+| Fri, 08 Aug 2025 10:29:38 GMT | What If You Could See Your Body Energy Like a Phone Battery? | Justin Joseph | [Read More](https://medium.com/p/9aa9deaf2a8d) |
+| Fri, 08 Aug 2025 10:27:03 GMT | I Don’t Know How to Let You Love Me | Ajay Deewan | [Read More](https://medium.com/p/fc21e19b7ab8) |
+| Fri, 08 Aug 2025 10:25:36 GMT | The Daily Tech Digest: 08 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/9c96a7726b12) |
+| Fri, 08 Aug 2025 10:24:31 GMT | I Think I’m Falling for Him… and It’s Terrifying | Aj | [Read More](https://medium.com/p/e383e673ad3d) |
+| Fri, 08 Aug 2025 10:24:18 GMT | Am I Safe? | Aj | [Read More](https://medium.com/p/2f5d8dc98f71) |
+| Fri, 08 Aug 2025 10:22:26 GMT | The Complete Guide to Modern Kiosk Solutions in the UAE & MENA Region | Rakesh | [Read More](https://medium.com/p/86df9f463161) |
 | Fri, 08 Aug 2025 10:21:13 GMT | DAY 39 — Strengthening Detection Logic Through Regex Practice | Jinay | [Read More](https://medium.com/p/cd9ddb7fa757) |
+| Fri, 08 Aug 2025 10:20:40 GMT | I’ve Always Felt Invisible. Here’s Why I’m Trying Anyway | Seagull Writing | [Read More](https://medium.com/p/b4196b6333fb) |
+| Fri, 08 Aug 2025 10:16:36 GMT | Did I Just Found a Bug on Nokia 6233 in 2025? | Ufal Salman | [Read More](https://medium.com/p/f6f6d089c490) |
 | Fri, 08 Aug 2025 10:16:25 GMT | What makes Hybrid SOC Services effective today? | Ziya Zoe | [Read More](https://medium.com/p/e555e7a23763) |
 | Fri, 08 Aug 2025 10:16:05 GMT | Enterprise Security Without the Overhead: How LSware Handles Vulnerability and Access at Scale | Raihan Rahman Syah Putra | [Read More](https://medium.com/p/ded21b3fd85a) |
 | Fri, 08 Aug 2025 10:13:29 GMT | 10 Common IMAP to IMAP Migration Problems and How to Fix Them | Axelmeyer | [Read More](https://medium.com/p/8455c96096d2) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 06:24:44 GMT | Over Bank - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/41330f0707aa) |
 | Fri, 08 Aug 2025 06:18:42 GMT | How to Earn Money by Writing Articles
 Writing articles is a great way through which you can earn… | Meschain shelly | [Read More](https://medium.com/p/ed053fabcf75) |
-| Fri, 08 Aug 2025 06:05:07 GMT | Power Your Future with Techmindz’s Software & Cybersecurity Courses | Imayakochi | [Read More](https://medium.com/p/5c3893d68d70) |
-| Fri, 08 Aug 2025 06:04:48 GMT | Think Fast: How Auto-Complete Suggested Me Passwords That Weren’t Mine ᾒf | Iski | [Read More](https://medium.com/p/d5c26ad34a3a) |
-| Fri, 08 Aug 2025 06:03:17 GMT | Real-World Insights on Cybersecurity Certifications — from Sweden’s Security Community | Cathleene Sandgren | [Read More](https://medium.com/p/9c8628b000a2) |
-| Fri, 08 Aug 2025 06:02:54 GMT | The Problem With Always Having to Be Strong | Chinnu | [Read More](https://medium.com/p/95c0420b2599) |
-| Fri, 08 Aug 2025 06:00:37 GMT | Today’s Top Cyber Intelligence Highlights — Aug 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3e8d18de1ad9) |
-| Fri, 08 Aug 2025 05:59:51 GMT | Precision CCTV & Security Solutions | Quva India | [Read More](https://medium.com/p/c8cd1e8726fa) |
-| Fri, 08 Aug 2025 05:57:04 GMT | ️ Unlocking the Power of Interceptors in Spring Boot: Everything You Need to Know..‍✨ | Shubham Vartak | [Read More](https://medium.com/p/213e944ea0f5) |
-| Fri, 08 Aug 2025 05:53:02 GMT | Enroll in Kerala’s Leading Cyber Security Training Institute — Techmindz | Krishcochin | [Read More](https://medium.com/p/ca281659df2b) |
-| Fri, 08 Aug 2025 05:46:17 GMT | Red Team on a Budget: Testing Zero Trust Defences in Resource‑Constrained Environments | Engr Syed Saad Gilani | [Read More](https://medium.com/p/13c36569a185) |
-| Fri, 08 Aug 2025 05:44:38 GMT | Pen Testing Cryptographic Implementations: Where Secrets Slip | Bl@ckC!pH3r | [Read More](https://medium.com/p/89526543514c) |
-| Fri, 08 Aug 2025 05:43:39 GMT | How Softreey Powers Digital Transformation for IT, Insurance & Asset Management | Softreey | [Read More](https://medium.com/p/05eeb68e50f1) |
-| Fri, 08 Aug 2025 05:43:34 GMT | Bug Bounty Methodology for Finding Bugs Easily | Vipul Sonule | [Read More](https://medium.com/p/26e6bb3fc5a7) |
-| Fri, 08 Aug 2025 05:42:51 GMT | ECScape: The Amazon ECS Vulnerability That Lets Attackers Steal AWS Credentials from Neighboring… | IamPreth | [Read More](https://medium.com/p/530a9f58a724) |
-| Fri, 08 Aug 2025 05:42:39 GMT | Wireless Hacking: From Aircrack-ng to WPA3 | Aj | [Read More](https://medium.com/p/ec9ec6db34a5) |
-| Fri, 08 Aug 2025 05:40:39 GMT | How I Bypassed a Strict WAF Using SQL Injection Tricks | Ibtissam hammadi | [Read More](https://medium.com/p/b0a500b712d8) |
-| Fri, 08 Aug 2025 05:39:29 GMT | Open Sesame - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/190f295ea1b8) |
-| Fri, 08 Aug 2025 05:39:26 GMT | Hunting C2 Infrastructure with Shodan, Censys & VirusTotal — A Hands-On Guide | Paritosh | [Read More](https://medium.com/p/a1f67e9938de) |
-| Fri, 08 Aug 2025 05:28:54 GMT | Building High‑Performance Teams with Million Talents Tech: India’s Trusted Recruitment & IT… | Million Talents India Pvt. Ltd. | [Read More](https://medium.com/p/8c27ac4c2329) |
