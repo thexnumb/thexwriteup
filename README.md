@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 16:43:38 GMT | BRUTUS - HACKTHEBOX | Nicksondiazm | [Read More](https://medium.com/p/b70bc95a57b7) |
+| Fri, 08 Aug 2025 16:36:00 GMT | When the Scales Tip: US Judiciary Breach Signals a National Cybersecurity Reckoning | John Doe 007 | [Read More](https://medium.com/p/7b05fe256d22) |
+| Fri, 08 Aug 2025 16:30:17 GMT | Finding My First Bug —Documenting My Bug Bounty Journey | Calvaryhasarrived | [Read More](https://medium.com/p/b47f9ae28f7b) |
 | Fri, 08 Aug 2025 16:24:47 GMT | Test in Prod - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/e44ab60d96d1) |
+| Fri, 08 Aug 2025 16:21:41 GMT | Journey through the AV Multiverse: Communities at InfoComm | Matt Pana | [Read More](https://medium.com/p/5e1676881d48) |
 | Fri, 08 Aug 2025 16:12:17 GMT | The Quantum Watchman: A Proactive, LLM-based Multi-Agent Security Framework for Unclonable Access… | Berend Watchus | [Read More](https://medium.com/p/696328e4cdde) |
 | Fri, 08 Aug 2025 16:10:31 GMT | OSI Layer 2 Attacks - ARP Poisoning | barancem | [Read More](https://medium.com/p/c6dbaa912a39) |
 | Fri, 08 Aug 2025 16:03:48 GMT | How to Stay Hidden: The Privacy System That Actually Works | BiyteLüm | [Read More](https://medium.com/p/e4a1b5bb767c) |
@@ -109,7 +113,3 @@ Cisco + Splunk + AppDynamics | Somerford Associates Limited | [Read More](https:
 | Fri, 08 Aug 2025 11:08:27 GMT | Monitoring Cloudflare events with Wazuh for better incident response | Ehui ADOU | [Read More](https://medium.com/p/6645b8d2bbe8) |
 | Fri, 08 Aug 2025 11:07:22 GMT | Brooklyn nine nine - CTF - Tryhackme Writeup | Anasmohammed | [Read More](https://medium.com/p/3156493e3c73) |
 | Fri, 08 Aug 2025 11:05:55 GMT | How I Found a Logout Flaw That Kept Sessions Alive — A Real-World Bug Bounty Lesson | Amitishacked | [Read More](https://medium.com/p/d0151fa1a097) |
-| Fri, 08 Aug 2025 11:05:04 GMT | Boost Your Career: Enroll in Our Cyber Security Course | Aditya thorat | [Read More](https://medium.com/p/ea9d621c84a5) |
-| Fri, 08 Aug 2025 11:00:38 GMT | How I Chained Rate Limiting to Earn a Spot in Apple’s Hall of Fame | Anonymousshetty | [Read More](https://medium.com/p/f78305760462) |
-| Fri, 08 Aug 2025 10:56:17 GMT | Understanding Server-Side Request Forgery (SSRF) And How to Protect Your Systems | Redfox Security | [Read More](https://medium.com/p/ae2fa50ceae2) |
-| Fri, 08 Aug 2025 10:51:53 GMT | Business Logic Flaw in Invitation Feature Allows Full Account Takeover | Robi Mohamad subagja | [Read More](https://medium.com/p/9e55ba0cc273) |
