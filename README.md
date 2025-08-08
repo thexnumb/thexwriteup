@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 17:13:12 GMT | OpenDLP Installation & Deployment Workflow | Abdelrahman Metwaly | [Read More](https://medium.com/p/4510775369c5) |
+| Fri, 08 Aug 2025 17:02:42 GMT | Content Creation & Cybersecurity | Zayne Harbison | [Read More](https://medium.com/p/323ba7887b14) |
+| Fri, 08 Aug 2025 17:02:10 GMT | Advanced Logging Techniques for Incident Response | Karthikeyan Nagaraj | [Read More](https://medium.com/p/dd66e1b0b0a5) |
+| Fri, 08 Aug 2025 17:00:39 GMT | Learn WiFi Hacking Basics Using Termux (Educational Use Only) | Kambetastephano | [Read More](https://medium.com/p/150b969e61e0) |
+| Fri, 08 Aug 2025 16:56:35 GMT | Adventures in AI Security : Access Control (Part 1) | API Expert | [Read More](https://medium.com/p/30742e1feb1b) |
+| Fri, 08 Aug 2025 16:53:31 GMT | Blind RCE File Exfiltration via curl | Cybersecplayground | [Read More](https://medium.com/p/3a8c971a80aa) |
+| Fri, 08 Aug 2025 16:53:06 GMT | U.S. Organizations Under Siege: Royal and BlackSuit Ransomware Strike Over 450 Targets | John Doe 007 | [Read More](https://medium.com/p/b521c3004ea4) |
+| Fri, 08 Aug 2025 16:51:06 GMT | Aluminum Fence Installation: The Ultimate Home Upgrade You Need | Cruz martha | [Read More](https://medium.com/p/fd514edc301a) |
 | Fri, 08 Aug 2025 16:43:38 GMT | BRUTUS - HACKTHEBOX | Nicksondiazm | [Read More](https://medium.com/p/b70bc95a57b7) |
 | Fri, 08 Aug 2025 16:36:00 GMT | When the Scales Tip: US Judiciary Breach Signals a National Cybersecurity Reckoning | John Doe 007 | [Read More](https://medium.com/p/7b05fe256d22) |
 | Fri, 08 Aug 2025 16:30:17 GMT | Finding My First Bug —Documenting My Bug Bounty Journey | Calvaryhasarrived | [Read More](https://medium.com/p/b47f9ae28f7b) |
@@ -105,11 +113,3 @@ Cisco + Splunk + AppDynamics | Somerford Associates Limited | [Read More](https:
 | Fri, 08 Aug 2025 11:31:40 GMT | Critical RCE Vulnerabilities in HashiCorp Vault and CyberArk Conjur: What GRC Professionals Need to… | Brittney Ginther | [Read More](https://medium.com/p/5916c704b806) |
 | Fri, 08 Aug 2025 11:27:04 GMT | CyberArk Secrets Manager Under Siege: Five New CVEs Expose Critical IAM and Code Execution Risks | gm0 | [Read More](https://medium.com/p/634ec74e70d7) |
 | Fri, 08 Aug 2025 11:24:38 GMT | The Major Steps In Auditing Cloud Security App | Qualysec | [Read More](https://medium.com/p/8672f908bc74) |
-| Fri, 08 Aug 2025 11:22:59 GMT | Beyond the Spam Folder: Why Your Organization Needs a Strict DMARC Policy | Webelight Solutions Pvt. Ltd. | [Read More](https://medium.com/p/99557130b5d2) |
-| Fri, 08 Aug 2025 11:20:02 GMT | Why Top Cyber Security Companies in Noida Are the Backbone of Business Safety | Nexasoft Infinity | [Read More](https://medium.com/p/ffefc5cf13bc) |
-| Fri, 08 Aug 2025 11:14:25 GMT | The Universe That Writes Itself | Emergent Harmony | [Read More](https://medium.com/p/7d13261e1440) |
-| Fri, 08 Aug 2025 11:12:50 GMT | What Cloud and DevOps Actually Look Like in the Real World | Chris | [Read More](https://medium.com/p/aa092344c71f) |
-| Fri, 08 Aug 2025 11:11:36 GMT | Identity Visibility and Intelligence Platforms (IVIP) | Editorboyamit | [Read More](https://medium.com/p/4abd88534a86) |
-| Fri, 08 Aug 2025 11:08:27 GMT | Monitoring Cloudflare events with Wazuh for better incident response | Ehui ADOU | [Read More](https://medium.com/p/6645b8d2bbe8) |
-| Fri, 08 Aug 2025 11:07:22 GMT | Brooklyn nine nine - CTF - Tryhackme Writeup | Anasmohammed | [Read More](https://medium.com/p/3156493e3c73) |
-| Fri, 08 Aug 2025 11:05:55 GMT | How I Found a Logout Flaw That Kept Sessions Alive — A Real-World Bug Bounty Lesson | Amitishacked | [Read More](https://medium.com/p/d0151fa1a097) |
