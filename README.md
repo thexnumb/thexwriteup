@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 23:33:29 GMT | Wrapping Up the Mobile Industry Trends Series with Cybersecurity Expert Eduardo Hennemann de… | Berkcan Alankoy | [Read More](https://medium.com/p/dba9168be47a) |
+| Fri, 08 Aug 2025 23:24:53 GMT | Hidden in Plain Code: Malicious Go & npm Packages That Can Wipe Your Machine | Cyber-AppSec | [Read More](https://medium.com/p/2f957eec4b6b) |
 | Fri, 08 Aug 2025 23:14:49 GMT | From Skilled to Exceptional: Why Pentesters Need Hacker Charisma | echosso | [Read More](https://medium.com/p/57f65f5ff194) |
 | Fri, 08 Aug 2025 22:58:48 GMT | FNN Just-N: Intel vs. Trump and the Surveillance Economy, a Short article | FNN News | [Read More](https://medium.com/p/714e74d91d68) |
 | Fri, 08 Aug 2025 22:55:47 GMT | Hack The Box “Code” Walkthrough (Beginner-Friendly Guide) | Canyon Cook | [Read More](https://medium.com/p/8b81106b59b6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 16:12:17 GMT | The Quantum Watchman: A Proactive, LLM-based Multi-Agent Security Framework for Unclonable Access… | Berend Watchus | [Read More](https://medium.com/p/696328e4cdde) |
 | Fri, 08 Aug 2025 16:10:31 GMT | OSI Layer 2 Attacks - ARP Poisoning | barancem | [Read More](https://medium.com/p/c6dbaa912a39) |
 | Fri, 08 Aug 2025 16:03:48 GMT | How to Stay Hidden: The Privacy System That Actually Works | BiyteLüm | [Read More](https://medium.com/p/e4a1b5bb767c) |
-| Fri, 08 Aug 2025 16:03:14 GMT | [Blue Team Labs Online Write-up] Drilldown | Chaima Rhimoute | [Read More](https://medium.com/p/94fc710d173c) |
-| Fri, 08 Aug 2025 16:02:23 GMT | Cracking Pensive: A Deep Dive into Bugcrowd’s BlackHat USA CTF 25 RE Challenge | Noman Prodhan | [Read More](https://medium.com/p/b23457359562) |
