@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 21:31:41 GMT | The Surprising Security Risks Hidden in Your Dev Dependencies | Bhagya Rana | [Read More](https://medium.com/p/5b8687aa8a2e) |
+| Fri, 08 Aug 2025 21:29:27 GMT | The Windows Concept Journey — Microsoft Intune | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/fb982a25bbbd) |
+| Fri, 08 Aug 2025 21:29:10 GMT | Zombie Data: The Forgotten Files That Can Come Back to Haunt You | Akshay Chauhan | [Read More](https://medium.com/p/2edd2a1d74bc) |
+| Fri, 08 Aug 2025 21:23:19 GMT | Bypassing Jailbreak Detection in the No_Escape iOS App Using Frida | Youssefhussein | [Read More](https://medium.com/p/691c8c8c2c28) |
+| Fri, 08 Aug 2025 21:22:13 GMT | Deja vu (Poem) | Sebastian Manjarrez | [Read More](https://medium.com/p/7f128889808d) |
+| Fri, 08 Aug 2025 21:21:12 GMT | Dragons-are-Us Penetration Test Report — GOAD-Light Active Directory Lab Simulation (CTF-Style) | hazmatmonstarrr | [Read More](https://medium.com/p/5967f12e5fe1) |
 | Fri, 08 Aug 2025 21:14:49 GMT | A Social Engineering Attempt That Started Out as a Cat Sitting Request | Bethany Buffon | [Read More](https://medium.com/p/70dea9d35328) |
+| Fri, 08 Aug 2025 21:10:33 GMT | How to Qualify for BUG BUG Airdrops | BUG | [Read More](https://medium.com/p/177638c4f23b) |
 | Fri, 08 Aug 2025 20:56:18 GMT | Winning the AI Supremacy Game: A Strategic Blueprint for Cyber-Defense in the Autonomous Age | Valdez Ladd | [Read More](https://medium.com/p/aa93e99da2a8) |
 | Fri, 08 Aug 2025 20:47:06 GMT | The Cyber Threat Landscape: An Evolving Challenge | Cyber Security Research | [Read More](https://medium.com/p/f81d4c1f1d55) |
 | Fri, 08 Aug 2025 20:45:19 GMT | The Ashen Heart Who Still Echoes | @aryxnn | [Read More](https://medium.com/p/6c5fc780a47a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 15:39:08 GMT | Top 10 Tech Websites of 2025 You Have to Bookmark Today | sana irshad | [Read More](https://medium.com/p/5857df043966) |
 | Fri, 08 Aug 2025 15:29:25 GMT | MUST-DO Docker Tricks to Secure your Docker Images Today | BecomeDevOps | [Read More](https://medium.com/p/7ff23b463000) |
 | Fri, 08 Aug 2025 15:29:05 GMT | The Zero-Trust Prompt: Re-thinking Identity in the Age of LLM Agents | YUSUFF ADENIYI GIWA | [Read More](https://medium.com/p/88583f144c1b) |
-| Fri, 08 Aug 2025 15:24:38 GMT | Legacy Exploits and Unpatched Systems Dominate the Week | Loginsoft | [Read More](https://medium.com/p/41d98b4b1648) |
-| Fri, 08 Aug 2025 15:24:36 GMT | The Difference of Access Control: Decoding Modern Security Architecture | JIN | [Read More](https://medium.com/p/92e0ad3a9c02) |
-| Fri, 08 Aug 2025 15:23:37 GMT | TryHackMe - Analysing Volatile Memory - WriteUp | Axoloth | [Read More](https://medium.com/p/44b2edc52b10) |
-| Fri, 08 Aug 2025 15:22:14 GMT | My Bulletproof Docker Sandbox for Running Untrusted Code | Dominik Köhler | [Read More](https://medium.com/p/7b2180502d27) |
-| Fri, 08 Aug 2025 15:15:16 GMT | A New Dawn in Data: Powering Communities with EcoSynQ Micro Data Centers | Dena T | [Read More](https://medium.com/p/5176da91bc11) |
-| Fri, 08 Aug 2025 15:14:11 GMT | CVE-2025–53786: New Privilege Escalation in Microsoft Exchange Hybrid Deployments | RealSec.io | [Read More](https://medium.com/p/c09d7847abda) |
-| Fri, 08 Aug 2025 15:14:00 GMT | How to Use Frida for Android App Instrumentation: A Practical Guide | Ribik Khoteja | [Read More](https://medium.com/p/f1776dc5db50) |
