@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 10:21:13 GMT | DAY 39 — Strengthening Detection Logic Through Regex Practice | Jinay | [Read More](https://medium.com/p/cd9ddb7fa757) |
+| Fri, 08 Aug 2025 10:16:25 GMT | What makes Hybrid SOC Services effective today? | Ziya Zoe | [Read More](https://medium.com/p/e555e7a23763) |
+| Fri, 08 Aug 2025 10:16:05 GMT | Enterprise Security Without the Overhead: How LSware Handles Vulnerability and Access at Scale | Raihan Rahman Syah Putra | [Read More](https://medium.com/p/ded21b3fd85a) |
+| Fri, 08 Aug 2025 10:13:29 GMT | 10 Common IMAP to IMAP Migration Problems and How to Fix Them | Axelmeyer | [Read More](https://medium.com/p/8455c96096d2) |
+| Fri, 08 Aug 2025 10:13:12 GMT | How Undersea Cables Became a Battlefield ? | KS. MISHRA | [Read More](https://medium.com/p/50734b63de5e) |
+| Fri, 08 Aug 2025 10:11:59 GMT | Building Scalable and Secure Drupal Architecture: Best Practices for Growing Websites | Drupart Digital | [Read More](https://medium.com/p/aca305502e16) |
+| Fri, 08 Aug 2025 10:09:46 GMT | Generative AI Cybersecurity Market Size, Share, Growth and Forecast Report - 2032 | Mlee | [Read More](https://medium.com/p/ea87d912817a) |
+| Fri, 08 Aug 2025 10:09:36 GMT | How fast can Hybrid SOC Services respond? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/f846ca191b72) |
+| Fri, 08 Aug 2025 10:09:29 GMT | Become a hacker — 101, A list of resources | Thexssrat | [Read More](https://medium.com/p/2e4c3f9b3d59) |
+| Fri, 08 Aug 2025 10:09:16 GMT | The Online Safety Act: Britain’s Law to Hammer the Internet in the Name of Safety | Joseph-David Wyeth | [Read More](https://medium.com/p/98ae733c9ebf) |
+| Fri, 08 Aug 2025 10:04:14 GMT | Rage Against the Machine Code: Why I Still Hack on a Floppy | Franziska "Ziska" Fink | [Read More](https://medium.com/p/dd30f960b2c5) |
+| Fri, 08 Aug 2025 10:04:14 GMT | The Outlaw — Chapter 02 | Darwin Dela Cruz | [Read More](https://medium.com/p/51263760756c) |
+| Fri, 08 Aug 2025 09:59:35 GMT | Transforming Fulfillment: How Technology is Reshaping the Future of Order Delivery | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/8ed5deb1294f) |
+| Fri, 08 Aug 2025 09:58:15 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Domain Skills via Courses & Certifications | Abeera Mehtab | [Read More](https://medium.com/p/4e9dce04b0a5) |
+| Fri, 08 Aug 2025 09:57:38 GMT | Uploading files in Backstage software templates | Elon Than | [Read More](https://medium.com/p/74c3963296fc) |
+| Fri, 08 Aug 2025 09:55:49 GMT | The Hidden Backdoor: Understanding and Mitigating Prompt Injection Attacks in AI | Bibhu Ashish Panda | [Read More](https://medium.com/p/da89f68067f0) |
+| Fri, 08 Aug 2025 09:52:42 GMT | Siber Güvenlik Yolculuğumun İlk Adımları: Nereden Başladım? | Burak | [Read More](https://medium.com/p/3c93ab2f0666) |
 | Fri, 08 Aug 2025 09:50:23 GMT | Top Cybersecurity Company in Bangalore : Why Init value Is Leading The Pack in 2025 | Pat Aditya | [Read More](https://medium.com/p/1eb7a85193f2) |
 | Fri, 08 Aug 2025 09:45:09 GMT | From Zero to Hero | Suhana Shaik | [Read More](https://medium.com/p/6ee8b6333aca) |
 | Fri, 08 Aug 2025 09:39:16 GMT | Digital marketing courses in Kochi | Sneha K | [Read More](https://medium.com/p/24f9db0ad3be) |
@@ -96,20 +113,3 @@ Writing articles is a great way through which you can earn… | Meschain shelly 
 | Fri, 08 Aug 2025 05:39:29 GMT | Open Sesame - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/190f295ea1b8) |
 | Fri, 08 Aug 2025 05:39:26 GMT | Hunting C2 Infrastructure with Shodan, Censys & VirusTotal — A Hands-On Guide | Paritosh | [Read More](https://medium.com/p/a1f67e9938de) |
 | Fri, 08 Aug 2025 05:28:54 GMT | Building High‑Performance Teams with Million Talents Tech: India’s Trusted Recruitment & IT… | Million Talents India Pvt. Ltd. | [Read More](https://medium.com/p/8c27ac4c2329) |
-| Fri, 08 Aug 2025 05:28:11 GMT | Day 25- Basics of Subsetting for beginners | unica 02 | [Read More](https://medium.com/p/d2768fd84122) |
-| Fri, 08 Aug 2025 05:22:46 GMT | Why Many Saudi Businesses Still Avoid Digital Marketing & Paid Ads | Yasir Ali | [Read More](https://medium.com/p/ff45ad430c7e) |
-| Fri, 08 Aug 2025 05:09:44 GMT | Real-World Benefits of Learning Cybersecurity in 2025 | Ann Maria | [Read More](https://medium.com/p/eff9472af3a4) |
-| Fri, 08 Aug 2025 05:07:23 GMT | AI vs. AI: How Artificial Intelligence is Shaping the Future of Cybersecurity | Ajay Verma | [Read More](https://medium.com/p/ed178fa83236) |
-| Fri, 08 Aug 2025 05:05:49 GMT | The Windows Process Journey — vmcompute.exe (Hyper-V Host Compute Service) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/01259486ab19) |
-| Fri, 08 Aug 2025 05:05:23 GMT | Outdoor CCTV in Dubai: Weather-Proofing Your Watchful Eyes | cctv-installation-dubai | [Read More](https://medium.com/p/e0a60726aed0) |
-| Fri, 08 Aug 2025 04:55:43 GMT | Right When You Least Expect It: How Recent Breaches Reveal Just How Fragile Trust Is Online | Sofia | [Read More](https://medium.com/p/f076920ac3c9) |
-| Fri, 08 Aug 2025 04:51:59 GMT | The Hidden Threat: How Steganography Is Becoming Cinema’s Invisible Enemy | Joseph Desmond Cruel | [Read More](https://medium.com/p/2cd9de159b0e) |
-| Fri, 08 Aug 2025 04:47:39 GMT | Robots Secret - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/afc40a16d6bb) |
-| Fri, 08 Aug 2025 04:33:03 GMT | Cybersecurity Job Roles of the Future | Dr. Deep Pandey | [Read More](https://medium.com/p/7327c800dcda) |
-| Fri, 08 Aug 2025 04:32:39 GMT | Exploiting XSS to Bypass CSRF Defenses: Change Victim’s Email | Bash Overflow | [Read More](https://medium.com/p/dcdcbfe1d5df) |
-| Fri, 08 Aug 2025 04:11:24 GMT | BUG $BUG Growth Strategy: The Best Way to Earn Passive Crypto | BUG | [Read More](https://medium.com/p/fb09fbaa0fb7) |
-| Fri, 08 Aug 2025 04:05:04 GMT | Operator Rewards for Drosera Network | ㅤ | [Read More](https://medium.com/p/c54d870f02bb) |
-| Fri, 08 Aug 2025 03:58:24 GMT | TryHackMe Whats Your Name? (Medium) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/f35011cc9428) |
-| Fri, 08 Aug 2025 03:57:23 GMT | CAPTCHA Is Dying – And AI Is the One Killing It | IamPreth | [Read More](https://medium.com/p/32070f775194) |
-| Fri, 08 Aug 2025 03:54:12 GMT | Microsoft Reveals Exchange Server Vulnerability Allowing Silent Cloud Access in Hybrid Environments | Aly Elvi | [Read More](https://medium.com/p/f3b2048a9680) |
-| Fri, 08 Aug 2025 03:54:02 GMT | Cyber Security Strategic Planning: Defining Security Goals | Cyber Security Research | [Read More](https://medium.com/p/9ad178789170) |
