@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 11:12:50 GMT | What Cloud and DevOps Actually Look Like in the Real World | Chris | [Read More](https://medium.com/p/aa092344c71f) |
+| Fri, 08 Aug 2025 11:05:55 GMT | How I Found a Logout Flaw That Kept Sessions Alive — A Real-World Bug Bounty Lesson | Amitishacked | [Read More](https://medium.com/p/d0151fa1a097) |
+| Fri, 08 Aug 2025 11:05:04 GMT | Boost Your Career: Enroll in Our Cyber Security Course | Aditya thorat | [Read More](https://medium.com/p/ea9d621c84a5) |
+| Fri, 08 Aug 2025 11:00:38 GMT | How I Chained Rate Limiting to Earn a Spot in Apple’s Hall of Fame | Anonymousshetty | [Read More](https://medium.com/p/f78305760462) |
+| Fri, 08 Aug 2025 10:56:17 GMT | Understanding Server-Side Request Forgery (SSRF) And How to Protect Your Systems | Redfox Security | [Read More](https://medium.com/p/ae2fa50ceae2) |
+| Fri, 08 Aug 2025 10:51:53 GMT | Business Logic Flaw in Invitation Feature Allows Full Account Takeover | Robi Mohamad subagja | [Read More](https://medium.com/p/9e55ba0cc273) |
+| Fri, 08 Aug 2025 10:50:50 GMT | Setting up pfSense on VMWare WorkStation | Silas Aosige | [Read More](https://medium.com/p/d912b194c382) |
 | Fri, 08 Aug 2025 10:45:17 GMT | HTTP/1.1 Its No Longer Safe | Astraliva | [Read More](https://medium.com/p/2cb5a4ebe150) |
+| Fri, 08 Aug 2025 10:43:18 GMT | Impacket Developer Guide. Part 1. RPC | CICADA8 | [Read More](https://medium.com/p/4df4fe6d79d7) |
+| Fri, 08 Aug 2025 10:40:08 GMT | Celebrating Independence Day with Singsys: Empowering Businesses with 15% Off on All IT Services | Vivek Srivastava | [Read More](https://medium.com/p/729099b696da) |
 | Fri, 08 Aug 2025 10:38:17 GMT | DockerLabs Writeup — Amor (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/30d1db0f6b49) |
 | Fri, 08 Aug 2025 10:36:29 GMT | HTTP Request Smuggling: From Basics to Bounty | Jayesh kunwal | [Read More](https://medium.com/p/4a799f2e18c2) |
 | Fri, 08 Aug 2025 10:36:12 GMT | Honoured to Speak and Receive Recognition at CSJMU, Kanpur | Yuvraj Gupta | [Read More](https://medium.com/p/f61e63412e99) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 06:50:21 GMT | Introducing the Man-in-the-Prompt (MitP) attack | goswamiijaya | [Read More](https://medium.com/p/17ca2ac11282) |
 | Fri, 08 Aug 2025 06:49:48 GMT | How Two Kids Hacked the CIA | Jehanzebkhan | [Read More](https://medium.com/p/b078ce74a3e6) |
 | Fri, 08 Aug 2025 06:46:46 GMT | The Essential Guide to Hiring a Professional Security Guard | Matthew P Flock | [Read More](https://medium.com/p/69e3e948620c) |
-| Fri, 08 Aug 2025 06:43:49 GMT | CORTEX AGENTIX By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/bf9479fc1789) |
-| Fri, 08 Aug 2025 06:36:47 GMT | 4 Simple Ways to Protect Your Digital Footprint From Identity Theft | Iqra Tabassum | [Read More](https://medium.com/p/c141522b0ebb) |
-| Fri, 08 Aug 2025 06:35:31 GMT | Learning Incident Response | Shantaciak | [Read More](https://medium.com/p/aca07fa1cf8d) |
-| Fri, 08 Aug 2025 06:32:25 GMT | Unmasking Deception: The Universal AI Detector Revolutionizes Deepfake Detection | Daniel García | [Read More](https://medium.com/p/ac69f0a2f0a7) |
-| Fri, 08 Aug 2025 06:28:42 GMT | One Action, Endless Risks | Gautam Mengle | [Read More](https://medium.com/p/70619ff70780) |
-| Fri, 08 Aug 2025 06:26:29 GMT | The Corix Partners Friday Reading List — August 8, 2025 | JC Gaillard | [Read More](https://medium.com/p/d8131a67068d) |
-| Fri, 08 Aug 2025 06:25:01 GMT | He Keeps Talking, I Keep Dissolving | Isha | [Read More](https://medium.com/p/46c571075afb) |
-| Fri, 08 Aug 2025 06:24:44 GMT | Over Bank - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/41330f0707aa) |
-| Fri, 08 Aug 2025 06:18:42 GMT | How to Earn Money by Writing Articles
-Writing articles is a great way through which you can earn… | Meschain shelly | [Read More](https://medium.com/p/ed053fabcf75) |
