@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 04:33:03 GMT | Cybersecurity Job Roles of the Future | Dr. Deep Pandey | [Read More](https://medium.com/p/7327c800dcda) |
+| Fri, 08 Aug 2025 04:32:39 GMT | Exploiting XSS to Bypass CSRF Defenses: Change Victim’s Email | Bash Overflow | [Read More](https://medium.com/p/dcdcbfe1d5df) |
+| Fri, 08 Aug 2025 04:11:24 GMT | BUG $BUG Growth Strategy: The Best Way to Earn Passive Crypto | BUG | [Read More](https://medium.com/p/fb09fbaa0fb7) |
+| Fri, 08 Aug 2025 04:05:04 GMT | Operator Rewards for Drosera Network | ㅤ | [Read More](https://medium.com/p/c54d870f02bb) |
+| Fri, 08 Aug 2025 03:58:24 GMT | TryHackMe Whats Your Name? (Medium) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/f35011cc9428) |
+| Fri, 08 Aug 2025 03:57:23 GMT | CAPTCHA Is Dying – And AI Is the One Killing It | IamPreth | [Read More](https://medium.com/p/32070f775194) |
+| Fri, 08 Aug 2025 03:54:12 GMT | Microsoft Reveals Exchange Server Vulnerability Allowing Silent Cloud Access in Hybrid Environments | Aly Elvi | [Read More](https://medium.com/p/f3b2048a9680) |
+| Fri, 08 Aug 2025 03:54:02 GMT | Cyber Security Strategic Planning: Defining Security Goals | Cyber Security Research | [Read More](https://medium.com/p/9ad178789170) |
+| Fri, 08 Aug 2025 03:52:12 GMT | Cyber Security Governance: Overseeing Security Activities | Cyber Security Research | [Read More](https://medium.com/p/df2802e21df5) |
+| Fri, 08 Aug 2025 03:50:19 GMT | Cyber Security Frameworks: Providing a Structured Approach | Cyber Security Research | [Read More](https://medium.com/p/586c16e8f593) |
+| Fri, 08 Aug 2025 03:49:37 GMT | SafeLine vs AWS WAF: Flexibility or Out-of-the-Box Security? | AerieWhole123 | [Read More](https://medium.com/p/ed4f36210c3d) |
+| Fri, 08 Aug 2025 03:48:28 GMT | Cyber Security Standards: Defining Security Benchmarks | Cyber Security Research | [Read More](https://medium.com/p/eb4c988daa8e) |
+| Fri, 08 Aug 2025 03:46:41 GMT | Cyber Security Research: Advancing the Field of Security | Cyber Security Research | [Read More](https://medium.com/p/80afd0ce3d45) |
 | Fri, 08 Aug 2025 03:42:56 GMT | Cyber Security Certifications: Validating Security Expertise | Cyber Security Research | [Read More](https://medium.com/p/2c210919e1d1) |
 | Fri, 08 Aug 2025 03:42:50 GMT | Tea App Breach Leaks Thousands of Women’s IDs and Private Photos | SafetyDetectives Research Team | [Read More](https://medium.com/p/719963ee6d4e) |
+| Fri, 08 Aug 2025 03:40:58 GMT | Cyber Security Career Paths: Navigating the Security Landscape | Cyber Security Research | [Read More](https://medium.com/p/607e52c4f739) |
 | Fri, 08 Aug 2025 03:39:07 GMT | Cyber Security Leadership: Setting the Security Tone | Cyber Security Research | [Read More](https://medium.com/p/9fe6faa40c5f) |
 | Fri, 08 Aug 2025 03:35:24 GMT | WHATS YOUR NAME? TRYHACKME WRITE UP | Tuannh | [Read More](https://medium.com/p/bf794ff800b8) |
 | Fri, 08 Aug 2025 03:34:39 GMT | So Meta | Sohan Kanna D | [Read More](https://medium.com/p/711a16a4ccef) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 18:42:09 GMT | CentOS 7 Üzerinde Wazuh 4.7 Kurulumu ve Windows Sunucudan Log Yönlendirme | Mustafa Mansur Mamus | [Read More](https://medium.com/p/6b0933f78668) |
 | Thu, 07 Aug 2025 18:33:02 GMT | Ghost Calls: How Web Conferencing Platforms Are Being Turned into Covert C&C Channels | Chetan Seripally | [Read More](https://medium.com/p/93d8da520c51) |
 | Thu, 07 Aug 2025 18:29:19 GMT | The BRICS Cyber Nexus: Cooperation, Confrontation, and Bloc Formation — Brics Part 5 | Ali Gündoğar | [Read More](https://medium.com/p/3303b1a48ea9) |
-| Thu, 07 Aug 2025 18:28:40 GMT | Why You Can’t Remember Your Own Passwords Anymore? | Aastha Thakker | [Read More](https://medium.com/p/42d280a0dd9e) |
-| Thu, 07 Aug 2025 18:21:19 GMT | Vulnerability Assessment as a Service: Find the Flaws Before Hackers Do | SafeAeon Inc. | [Read More](https://medium.com/p/e94537edb334) |
-| Thu, 07 Aug 2025 18:20:56 GMT | Defend or Vanish: The Security Mandate in the GPT-5 Era | Shiven Grover | [Read More](https://medium.com/p/804fb100b8b1) |
-| Thu, 07 Aug 2025 18:16:57 GMT | ZERO-DAY CVE-2025–24893 “XWiki Platform — Remote Code Execution” POC | HariHaranK | [Read More](https://medium.com/p/00bd2ca3a93d) |
-| Thu, 07 Aug 2025 18:12:37 GMT | MFA as a Service: The Smartest Way to Lock Down Access Without Complicating Logins | SafeAeon Inc. | [Read More](https://medium.com/p/135c3b7441fc) |
-| Thu, 07 Aug 2025 18:05:48 GMT | The Complete Guide to the Best Family Safety Spy App | Narjis Batool | [Read More](https://medium.com/p/2552bc45cd51) |
-| Thu, 07 Aug 2025 18:05:22 GMT | After falling victim to a fake online investment platform, I lost a significant amount of Bitcoin… | Genesislucas | [Read More](https://medium.com/p/69731ffed4fe) |
-| Thu, 07 Aug 2025 18:02:31 GMT | 5 LinkedIn Hacks to Promote Your Cybersecurity Articles | Aj | [Read More](https://medium.com/p/9108b8fd6ec6) |
-| Thu, 07 Aug 2025 18:01:51 GMT | Malicious Interfaces: How Artificial Intelligence Is Rewriting the User Experience of Cyber… | Jeffrey Nickle | [Read More](https://medium.com/p/50ae7fe0e98c) |
-| Thu, 07 Aug 2025 17:58:59 GMT | CyberDefenders Endpoint Forensics - BankingTroubles Lab | Girithar Ram Ravindran | [Read More](https://medium.com/p/9c8d46ca1fec) |
-| Thu, 07 Aug 2025 17:58:50 GMT | Brazil and South Africa: Evolving Frameworks for Cyber Resilience — Brics Part 4 | Ali Gündoğar | [Read More](https://medium.com/p/93bbbd8c7fcf) |
-| Thu, 07 Aug 2025 17:50:29 GMT | How I Found an RCE Vulnerability on Example.com and Earned a $3000 Bounty in 15 Minutes | AmirhosseinBz | [Read More](https://medium.com/p/5d6c61d703bb) |
-| Thu, 07 Aug 2025 17:41:16 GMT | SonicWall Walks Back Zero-Day Concerns, Points to Old VPN Flaw in Akira Attacks | Dhruvdeep Singh | [Read More](https://medium.com/p/a4249f2e6b30) |
-| Thu, 07 Aug 2025 17:40:28 GMT | TryHackMe — Relevant | omni | [Read More](https://medium.com/p/d37f1249d962) |
