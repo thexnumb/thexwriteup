@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 14:05:53 GMT | A Critical Review of Seed Entropy in Computational Environments | Wendell Mouzali Ruiz | [Read More](https://medium.com/p/129da05defb2) |
+| Fri, 08 Aug 2025 14:01:49 GMT | Cyber Briefing: 2025.08.08 | CyberMaterial | [Read More](https://medium.com/p/a49a56818d28) |
+| Fri, 08 Aug 2025 14:01:41 GMT | Como Importar Seus Códigos do Google Authenticator para a Extensão Autenticador no Chrome | Lucas Briesemeister | [Read More](https://medium.com/p/238e91f4b2b9) |
+| Fri, 08 Aug 2025 13:54:22 GMT | Master Protection for Industrial Sites: Why It Matters | Sarmin Islam | [Read More](https://medium.com/p/62beacc77a57) |
+| Fri, 08 Aug 2025 13:50:13 GMT | IT’S NOT ABOUT HOW MUCH YOU EARN BUT HOW YOUR WRITING TRANSFORM | Danjuma Plangkat ️ | [Read More](https://medium.com/p/9cf844883e46) |
+| Fri, 08 Aug 2025 13:50:09 GMT | Google Dorking secara manual Menggunakan Cyberfox Untuk SQL Injection | Ginda Sundara | [Read More](https://medium.com/p/d335c1ab401c) |
+| Fri, 08 Aug 2025 13:50:09 GMT | How to Spot a Vulnerable Program | Bl@ckC!pH3r | [Read More](https://medium.com/p/add82d5c1bd9) |
+| Fri, 08 Aug 2025 13:46:13 GMT | What Is MFA Fatigue — and How Hackers Are Using It Against You | Dhruvdeep Singh | [Read More](https://medium.com/p/69c21627fe71) |
+| Fri, 08 Aug 2025 13:41:41 GMT | Jack of all trades, master of none… | Danny | [Read More](https://medium.com/p/113d1232b97e) |
 | Fri, 08 Aug 2025 13:28:20 GMT | My Dual Adblocking Setup: AdGuard + ControlD = Champion Browsing | Brian Olson | [Read More](https://medium.com/p/2faf4e466e58) |
 | Fri, 08 Aug 2025 13:25:40 GMT | A Curated Collection of Animated Cybersecurity Diagrams — 2025 | Paul D. | [Read More](https://medium.com/p/0e4a151b9bfe) |
 | Fri, 08 Aug 2025 13:11:59 GMT | SQL Injection Web Security Academy Union attack & Blind SQL | Zodiac | [Read More](https://medium.com/p/6842b100dc56) |
@@ -104,12 +113,3 @@ Cisco + Splunk + AppDynamics | Somerford Associates Limited | [Read More](https:
 | Fri, 08 Aug 2025 10:09:36 GMT | How fast can Hybrid SOC Services respond? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/f846ca191b72) |
 | Fri, 08 Aug 2025 10:09:29 GMT | Become a hacker — 101, A list of resources | Thexssrat | [Read More](https://medium.com/p/2e4c3f9b3d59) |
 | Fri, 08 Aug 2025 10:09:16 GMT | The Online Safety Act: Britain’s Law to Hammer the Internet in the Name of Safety | Joseph-David Wyeth | [Read More](https://medium.com/p/98ae733c9ebf) |
-| Fri, 08 Aug 2025 10:04:14 GMT | Rage Against the Machine Code: Why I Still Hack on a Floppy | Franziska "Ziska" Fink | [Read More](https://medium.com/p/dd30f960b2c5) |
-| Fri, 08 Aug 2025 10:04:14 GMT | The Outlaw — Chapter 02 | Darwin Dela Cruz | [Read More](https://medium.com/p/51263760756c) |
-| Fri, 08 Aug 2025 09:59:35 GMT | Transforming Fulfillment: How Technology is Reshaping the Future of Order Delivery | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/8ed5deb1294f) |
-| Fri, 08 Aug 2025 09:58:15 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Domain Skills via Courses & Certifications | Abeera Mehtab | [Read More](https://medium.com/p/4e9dce04b0a5) |
-| Fri, 08 Aug 2025 09:57:38 GMT | Uploading files in Backstage software templates | Elon Than | [Read More](https://medium.com/p/74c3963296fc) |
-| Fri, 08 Aug 2025 09:55:49 GMT | The Hidden Backdoor: Understanding and Mitigating Prompt Injection Attacks in AI | Bibhu Ashish Panda | [Read More](https://medium.com/p/da89f68067f0) |
-| Fri, 08 Aug 2025 09:52:42 GMT | Siber Güvenlik Yolculuğumun İlk Adımları: Nereden Başladım? | Burak | [Read More](https://medium.com/p/3c93ab2f0666) |
-| Fri, 08 Aug 2025 09:50:23 GMT | Top Cybersecurity Company in Bangalore : Why Init value Is Leading The Pack in 2025 | Pat Aditya | [Read More](https://medium.com/p/1eb7a85193f2) |
-| Fri, 08 Aug 2025 09:45:09 GMT | From Zero to Hero | Suhana Shaik | [Read More](https://medium.com/p/6ee8b6333aca) |
