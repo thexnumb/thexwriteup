@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 20:17:56 GMT | Apache Tomcat 8.5.19 - CVE-2017–12617 | Özcan Ersan | [Read More](https://medium.com/p/362fa7d17504) |
+| Fri, 08 Aug 2025 20:16:33 GMT | Double Trouble VulnHub Walkthrough: Step-by-Step Guide to Solving ‘Machine Inside a Machine’ for… | Prajwal | [Read More](https://medium.com/p/b89b3561407e) |
+| Fri, 08 Aug 2025 20:15:48 GMT | 10 Simple Cybersecurity Tips for Remote Workers | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/41961a4455ae) |
+| Fri, 08 Aug 2025 20:10:57 GMT | Dependency Confusion: Danger Danger Danger | Isaac Privett | [Read More](https://medium.com/p/c730b5b40ced) |
+| Fri, 08 Aug 2025 19:59:38 GMT | AI-Powered Content Isn’t Enough -What Security Buyers Actually Want | Digi-tx - Cybersecurity & SaaS Marketing | [Read More](https://medium.com/p/3666ba1cd1e7) |
+| Fri, 08 Aug 2025 19:53:23 GMT | Lab: Basic SSRF against the local server - PortSwigger | SIGKILLers | [Read More](https://medium.com/p/c12bd627ed45) |
+| Fri, 08 Aug 2025 19:49:04 GMT | Paste Consequences | Samer Moujaes | [Read More](https://medium.com/p/831fc9ea3bdb) |
+| Fri, 08 Aug 2025 19:35:28 GMT | VIBE CODING ? Then learn from TEA app incident | Kishorreddy | [Read More](https://medium.com/p/e69bfaa49072) |
 | Fri, 08 Aug 2025 19:33:23 GMT | What Is Cybersecurity? A Beginner’s Guide | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/60f182637d10) |
+| Fri, 08 Aug 2025 19:33:07 GMT | How href.li Works and Why Some Sites Use It to Hide Where Their Visitors Come From | Joodi | [Read More](https://medium.com/p/7cd848168155) |
 | Fri, 08 Aug 2025 19:30:24 GMT | precious : hackthebox | Abdellah Lamine | [Read More](https://medium.com/p/52e12a840b0d) |
 | Fri, 08 Aug 2025 19:26:15 GMT | Bookstore | Taauxick | [Read More](https://medium.com/p/7029c173d3f4) |
 | Fri, 08 Aug 2025 19:23:13 GMT | 0-Click Account Takeover via OAuth Misconfiguration | Saeid Khater | [Read More](https://medium.com/p/24058cbee2a2) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 14:13:45 GMT | API4:2023 — Unrestricted Resource Consumption | Apifort | [Read More](https://medium.com/p/2eebae70b505) |
 | Fri, 08 Aug 2025 14:05:53 GMT | A Critical Review of Seed Entropy in Computational Environments | Wendell Mouzali Ruiz | [Read More](https://medium.com/p/129da05defb2) |
 | Fri, 08 Aug 2025 14:01:49 GMT | Cyber Briefing: 2025.08.08 | CyberMaterial | [Read More](https://medium.com/p/a49a56818d28) |
-| Fri, 08 Aug 2025 14:01:41 GMT | Como Importar Seus Códigos do Google Authenticator para a Extensão Autenticador no Chrome | Lucas Briesemeister | [Read More](https://medium.com/p/238e91f4b2b9) |
-| Fri, 08 Aug 2025 13:54:22 GMT | Master Protection for Industrial Sites: Why It Matters | Sarmin Islam | [Read More](https://medium.com/p/62beacc77a57) |
-| Fri, 08 Aug 2025 13:50:13 GMT | IT’S NOT ABOUT HOW MUCH YOU EARN BUT HOW YOUR WRITING TRANSFORM | Danjuma Plangkat ️ | [Read More](https://medium.com/p/9cf844883e46) |
-| Fri, 08 Aug 2025 13:50:09 GMT | Google Dorking secara manual Menggunakan Cyberfox Untuk SQL Injection | Ginda Sundara | [Read More](https://medium.com/p/d335c1ab401c) |
-| Fri, 08 Aug 2025 13:50:09 GMT | How to Spot a Vulnerable Program | Bl@ckC!pH3r | [Read More](https://medium.com/p/add82d5c1bd9) |
-| Fri, 08 Aug 2025 13:46:13 GMT | What Is MFA Fatigue — and How Hackers Are Using It Against You | Dhruvdeep Singh | [Read More](https://medium.com/p/69c21627fe71) |
-| Fri, 08 Aug 2025 13:41:41 GMT | Jack of all trades, master of none… | Danny | [Read More](https://medium.com/p/113d1232b97e) |
-| Fri, 08 Aug 2025 13:32:00 GMT | BARIN BAYA NAGARI: SHEDAR DA ZAKA BARWA KAN KA A DUNIYAR INTANET | Safiyya Daba | [Read More](https://medium.com/p/89627f14e636) |
-| Fri, 08 Aug 2025 13:28:20 GMT | My Dual Adblocking Setup: AdGuard + ControlD = Champion Browsing | Brian Olson | [Read More](https://medium.com/p/2faf4e466e58) |
