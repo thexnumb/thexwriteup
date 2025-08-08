@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 22:30:21 GMT | What a Day to Launch: My Soul’s Work Begins | Brandi | [Read More](https://medium.com/p/f3f0c20402a0) |
+| Fri, 08 Aug 2025 22:27:59 GMT | Cyber is Dead | Shilo Hadad | [Read More](https://medium.com/p/5ce3f23e07af) |
+| Fri, 08 Aug 2025 22:19:36 GMT | How Strong is Your Password? | Haruna Rasheedah | [Read More](https://medium.com/p/39e2c239e309) |
 | Fri, 08 Aug 2025 22:12:17 GMT | Vidar’s Game: Infostealer in a Music App Costume with Lumma’s Touch | AlanKaliX | [Read More](https://medium.com/p/92956b8a8609) |
 | Fri, 08 Aug 2025 22:01:53 GMT | How AI Detects Insider Threats — No Code at Home | Shradhdha Bhalodia | [Read More](https://medium.com/p/f479beda6e6b) |
 | Fri, 08 Aug 2025 21:52:25 GMT | How I Hacked Essex MUD, Ran a ZX Spectrum BBS, and Got Wrecked by the Phone Bill | Peter Tompson | [Read More](https://medium.com/p/aa6fd45ff072) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 16:02:05 GMT | Top 5 Security Clearance Job Sites for Job Seekers ️‍♀️ | Joseph Holbrook | [Read More](https://medium.com/p/15d140c57e5f) |
 | Fri, 08 Aug 2025 15:54:26 GMT | Zoth, Impermax, and H2O Hit for $8.7M: Deployer Keys, Fee Loops, and Predictable RNG | Olympix | [Read More](https://medium.com/p/c95dda560942) |
 | Fri, 08 Aug 2025 15:52:59 GMT | Filament, WebKey, Venus Drained for $2M: Price Oracles, Fixed Params, and Flash Loans Abused | Olympix | [Read More](https://medium.com/p/56a4e67f8208) |
-| Fri, 08 Aug 2025 15:52:27 GMT | Grumpy McGrumpFace Goes to DEF CON | Ian Barwise | [Read More](https://medium.com/p/760b9a437f35) |
-| Fri, 08 Aug 2025 15:52:18 GMT | Beginner’s Guide to Cybersecurity in 2025: What I Wish I Knew When I Started | Astra | [Read More](https://medium.com/p/592407e66654) |
-| Fri, 08 Aug 2025 15:51:25 GMT | SIR, Cardex, and Hegic Exploited: Transient Storage Flaw, Leaked Signer, and Tranche Abuse Cost… | Olympix | [Read More](https://medium.com/p/e8d4867046e5) |
