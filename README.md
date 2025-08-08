@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 07:41:32 GMT | ISMAP Management Standards Chapter 11: Physical and Environmental Security — Securing Physical… | nolly | [Read More](https://medium.com/p/dc0a776627ce) |
+| Fri, 08 Aug 2025 07:39:10 GMT | Simple Examples of XSS (Cross-Site Scripting )Attack & How It’s Prevented ! | Vansh_Makkar | [Read More](https://medium.com/p/64adbb36a3e1) |
+| Fri, 08 Aug 2025 07:33:26 GMT | ChatGPT vs Stack Overflow: My Xcode Debugging Experience | Aman | [Read More](https://medium.com/p/8e0757d91cc3) |
+| Fri, 08 Aug 2025 07:25:47 GMT | End-to-End Alert Enrichment Automation | Manusiahiu | [Read More](https://medium.com/p/6a9edeb3092e) |
+| Fri, 08 Aug 2025 07:23:34 GMT | Domain Blocker Tool v1.3 | BnHany | [Read More](https://medium.com/p/e056bf3a1d88) |
+| Fri, 08 Aug 2025 07:23:29 GMT | ️ Real-Time AI Threat Detection on AWS using GuardDuty, SNS, and Lambda. | Julien Muke | [Read More](https://medium.com/p/d9bd25627efc) |
+| Fri, 08 Aug 2025 07:18:42 GMT | SafeLine vs Bunny Shield: Which WAF Fits Your Modern Web Stack? | AerieWhole123 | [Read More](https://medium.com/p/5a1613cfdb87) |
 | Fri, 08 Aug 2025 07:17:23 GMT | A Guide to Digital Asset Security: Is Digital Shield Worth Trusting? | Digital Shield | [Read More](https://medium.com/p/208314c73685) |
 | Fri, 08 Aug 2025 07:17:17 GMT | How to BUG $BUG Liquidity Lock for Long-Term Gains | BUG | [Read More](https://medium.com/p/35fd54a75d9b) |
 | Fri, 08 Aug 2025 07:16:23 GMT | Cybercriminals Deploy Weaponized npm Packages Against WhatsApp Developers | Tarush Sharma | [Read More](https://medium.com/p/5aa1a772a914) |
@@ -107,10 +114,3 @@ Writing articles is a great way through which you can earn… | Meschain shelly 
 | Thu, 07 Aug 2025 23:35:15 GMT | ️ Memahami Cyber Security & Information Security: Dasar, Ancaman, dan Perlindungan Data Digital | Nelli Evania Destianti X(TKJ-2) | [Read More](https://medium.com/p/87e156fdb595) |
 | Thu, 07 Aug 2025 23:30:19 GMT | A Guide to Web3 Security with Zack from Sherlock | BMX DeFi | [Read More](https://medium.com/p/e75c87453316) |
 | Thu, 07 Aug 2025 23:28:51 GMT | Bug Bounty Journey — Valid Report Part 9 | 0xF3r4t | [Read More](https://medium.com/p/879e35be5ff6) |
-| Thu, 07 Aug 2025 23:18:54 GMT | Forget New Tools — Here’s the Real Reason Your AI Can’t Catch Modern Threats | Cyber-AppSec | [Read More](https://medium.com/p/00473dc668ba) |
-| Thu, 07 Aug 2025 22:50:18 GMT | The Practitioner’s Guide to Google Workspace Security: 5 Settings You cannot afford to Misconfigure | CyberLucifer | [Read More](https://medium.com/p/6a995931caf3) |
-| Thu, 07 Aug 2025 22:11:21 GMT | Understanding Blockchain: A Complete Guide | Happy Shekh | [Read More](https://medium.com/p/d1dc1dd86373) |
-| Thu, 07 Aug 2025 22:06:37 GMT | Week of 08.07 - Front End, Backend, Putting it all Together (with a side of Linux) | Laurdickerson | [Read More](https://medium.com/p/8b573a8f6e71) |
-| Thu, 07 Aug 2025 22:05:47 GMT | Digital Forensics Lab: Partition Recovery and File Carving A Complete Hands-On Guide | Mohamed Elawady | [Read More](https://medium.com/p/2a539329e91c) |
-| Thu, 07 Aug 2025 22:04:18 GMT | How to protect your Rust programs on Windows with process mitigation policies | AndreiH | [Read More](https://medium.com/p/d2e1ebb1fdd7) |
-| Thu, 07 Aug 2025 21:44:06 GMT | LINUX COMMANDS — PART 1 | JOSE_ROLEX | [Read More](https://medium.com/p/6a42d1dcdf0d) |
