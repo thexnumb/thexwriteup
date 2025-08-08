@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 07:17:23 GMT | A Guide to Digital Asset Security: Is Digital Shield Worth Trusting? | Digital Shield | [Read More](https://medium.com/p/208314c73685) |
+| Fri, 08 Aug 2025 07:17:17 GMT | How to BUG $BUG Liquidity Lock for Long-Term Gains | BUG | [Read More](https://medium.com/p/35fd54a75d9b) |
+| Fri, 08 Aug 2025 07:16:23 GMT | Cybercriminals Deploy Weaponized npm Packages Against WhatsApp Developers | Tarush Sharma | [Read More](https://medium.com/p/5aa1a772a914) |
+| Fri, 08 Aug 2025 06:59:50 GMT | Need a Reset - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/7e1261e00e0a) |
+| Fri, 08 Aug 2025 06:53:10 GMT | Sublime Security — Dashboard Walkthrough (Overview + User Reports) | Dean | [Read More](https://medium.com/p/8a1c480b33be) |
+| Fri, 08 Aug 2025 06:50:21 GMT | Introducing the Man-in-the-Prompt (MitP) attack | goswamiijaya | [Read More](https://medium.com/p/17ca2ac11282) |
+| Fri, 08 Aug 2025 06:49:48 GMT | How Two Kids Hacked the CIA | Jehanzebkhan | [Read More](https://medium.com/p/b078ce74a3e6) |
+| Fri, 08 Aug 2025 06:46:46 GMT | The Essential Guide to Hiring a Professional Security Guard | Matthew P Flock | [Read More](https://medium.com/p/69e3e948620c) |
+| Fri, 08 Aug 2025 06:43:49 GMT | CORTEX AGENTIX By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/bf9479fc1789) |
+| Fri, 08 Aug 2025 06:36:47 GMT | 4 Simple Ways to Protect Your Digital Footprint From Identity Theft | Iqra Tabassum | [Read More](https://medium.com/p/c141522b0ebb) |
+| Fri, 08 Aug 2025 06:35:31 GMT | Learning Incident Response | Shantaciak | [Read More](https://medium.com/p/aca07fa1cf8d) |
+| Fri, 08 Aug 2025 06:32:25 GMT | Unmasking Deception: The Universal AI Detector Revolutionizes Deepfake Detection | Daniel García | [Read More](https://medium.com/p/ac69f0a2f0a7) |
 | Fri, 08 Aug 2025 06:28:42 GMT | One Action, Endless Risks | Gautam Mengle | [Read More](https://medium.com/p/70619ff70780) |
 | Fri, 08 Aug 2025 06:26:29 GMT | The Corix Partners Friday Reading List — August 8, 2025 | JC Gaillard | [Read More](https://medium.com/p/d8131a67068d) |
+| Fri, 08 Aug 2025 06:25:01 GMT | He Keeps Talking, I Keep Dissolving | Isha | [Read More](https://medium.com/p/46c571075afb) |
 | Fri, 08 Aug 2025 06:24:44 GMT | Over Bank - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/41330f0707aa) |
 | Fri, 08 Aug 2025 06:18:42 GMT | How to Earn Money by Writing Articles
 Writing articles is a great way through which you can earn… | Meschain shelly | [Read More](https://medium.com/p/ed053fabcf75) |
@@ -101,16 +114,3 @@ Writing articles is a great way through which you can earn… | Meschain shelly 
 | Thu, 07 Aug 2025 22:05:47 GMT | Digital Forensics Lab: Partition Recovery and File Carving A Complete Hands-On Guide | Mohamed Elawady | [Read More](https://medium.com/p/2a539329e91c) |
 | Thu, 07 Aug 2025 22:04:18 GMT | How to protect your Rust programs on Windows with process mitigation policies | AndreiH | [Read More](https://medium.com/p/d2e1ebb1fdd7) |
 | Thu, 07 Aug 2025 21:44:06 GMT | LINUX COMMANDS — PART 1 | JOSE_ROLEX | [Read More](https://medium.com/p/6a42d1dcdf0d) |
-| Thu, 07 Aug 2025 21:36:25 GMT | Why Cyber Coaching is the Game-Changer in Cyber Awareness? | Essha Blog - Sumeesha M Chandran | [Read More](https://medium.com/p/5712d26394b5) |
-| Thu, 07 Aug 2025 21:24:23 GMT | OSI Layer 2 Attacks — MAC Flooding Attack | barancem | [Read More](https://medium.com/p/b034f8d617f2) |
-| Thu, 07 Aug 2025 21:20:09 GMT | Behind Floating Strength: When Stillness Speaks Louder Than Performance | Fer Quirarte | [Read More](https://medium.com/p/ec482d3e906b) |
-| Thu, 07 Aug 2025 21:16:55 GMT | ️Enhancing Slack Event Processing in n8n with Custom Webhook and HMAC Validation | Gustavo Ortega | [Read More](https://medium.com/p/2a33f835701e) |
-| Thu, 07 Aug 2025 21:13:50 GMT | RC5 Shellcode Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f49c2862ed8b) |
-| Thu, 07 Aug 2025 21:04:25 GMT | Host & Network Penetration Testing: Exploitation CTF 2 | Mohamed amine Gabsi | [Read More](https://medium.com/p/6757b0b6a765) |
-| Thu, 07 Aug 2025 21:02:03 GMT | The Internet of Things Is Watching You: 7 Signs Smart Devices Are Coordinating Surveillance | Huzaifa Awan | [Read More](https://medium.com/p/fe1d33dfc93d) |
-| Thu, 07 Aug 2025 20:57:24 GMT | Wireshark: Packet Operations - THM | Isiah | [Read More](https://medium.com/p/eb6941895c4b) |
-| Thu, 07 Aug 2025 20:49:46 GMT | The importance of making mistakes and being vulnerable. | Justin Yerby | [Read More](https://medium.com/p/5bdcdaba0347) |
-| Thu, 07 Aug 2025 20:46:55 GMT | The Ghost in the Logs: DFIR Through a Palimpsest Lens | Nasreddine Bencherchali | [Read More](https://medium.com/p/b592ef733f4f) |
-| Thu, 07 Aug 2025 20:42:04 GMT | How can blockchain technology address the challenges of GRC? | Myriam B. | [Read More](https://medium.com/p/a799298275b7) |
-| Thu, 07 Aug 2025 20:40:54 GMT | North Korean Hackers: The Games Are Over — This Is the Real Deal Now | 0trust0day | [Read More](https://medium.com/p/6d1f229459fd) |
-| Thu, 07 Aug 2025 20:24:23 GMT | Don’t Be Afraid To Say No To An Opportunity Others Would Die To Grab. | Levi Misenga | [Read More](https://medium.com/p/fd88bc3185ae) |
