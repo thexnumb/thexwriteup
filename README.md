@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 15:39:08 GMT | Top 10 Tech Websites of 2025 You Have to Bookmark Today | sana irshad | [Read More](https://medium.com/p/5857df043966) |
+| Fri, 08 Aug 2025 15:29:25 GMT | MUST-DO Docker Tricks to Secure your Docker Images Today | BecomeDevOps | [Read More](https://medium.com/p/7ff23b463000) |
+| Fri, 08 Aug 2025 15:29:05 GMT | The Zero-Trust Prompt: Re-thinking Identity in the Age of LLM Agents | YUSUFF ADENIYI GIWA | [Read More](https://medium.com/p/88583f144c1b) |
+| Fri, 08 Aug 2025 15:24:38 GMT | Legacy Exploits and Unpatched Systems Dominate the Week | Loginsoft | [Read More](https://medium.com/p/41d98b4b1648) |
+| Fri, 08 Aug 2025 15:24:36 GMT | The Difference of Access Control: Decoding Modern Security Architecture | JIN | [Read More](https://medium.com/p/92e0ad3a9c02) |
+| Fri, 08 Aug 2025 15:23:37 GMT | TryHackMe - Analysing Volatile Memory - WriteUp | Axoloth | [Read More](https://medium.com/p/44b2edc52b10) |
+| Fri, 08 Aug 2025 15:22:14 GMT | My Bulletproof Docker Sandbox for Running Untrusted Code | Dominik Köhler | [Read More](https://medium.com/p/7b2180502d27) |
 | Fri, 08 Aug 2025 15:15:16 GMT | A New Dawn in Data: Powering Communities with EcoSynQ Micro Data Centers | Dena T | [Read More](https://medium.com/p/5176da91bc11) |
 | Fri, 08 Aug 2025 15:14:11 GMT | CVE-2025–53786: New Privilege Escalation in Microsoft Exchange Hybrid Deployments | RealSec.io | [Read More](https://medium.com/p/c09d7847abda) |
 | Fri, 08 Aug 2025 15:14:00 GMT | How to Use Frida for Android App Instrumentation: A Practical Guide | Ribik Khoteja | [Read More](https://medium.com/p/f1776dc5db50) |
@@ -106,10 +113,3 @@ Cisco + Splunk + AppDynamics | Somerford Associates Limited | [Read More](https:
 | Fri, 08 Aug 2025 10:31:31 GMT | CVE-2025–48393: Man-in-the-Middle Risk During Eaton Firmware Updates | CVEHUB | [Read More](https://medium.com/p/c19be4de1d3f) |
 | Fri, 08 Aug 2025 10:29:59 GMT | CVE-2024–8244: TOCTOU Vulnerability in Go’s filepath.Walk and WalkDir | CVEHUB | [Read More](https://medium.com/p/27c882205c31) |
 | Fri, 08 Aug 2025 10:29:38 GMT | What If You Could See Your Body Energy Like a Phone Battery? | Justin Joseph | [Read More](https://medium.com/p/9aa9deaf2a8d) |
-| Fri, 08 Aug 2025 10:27:03 GMT | I Don’t Know How to Let You Love Me | Ajay Deewan | [Read More](https://medium.com/p/fc21e19b7ab8) |
-| Fri, 08 Aug 2025 10:25:36 GMT | The Daily Tech Digest: 08 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/9c96a7726b12) |
-| Fri, 08 Aug 2025 10:24:31 GMT | I Think I’m Falling for Him… and It’s Terrifying | Aj | [Read More](https://medium.com/p/e383e673ad3d) |
-| Fri, 08 Aug 2025 10:24:18 GMT | Am I Safe? | Aj | [Read More](https://medium.com/p/2f5d8dc98f71) |
-| Fri, 08 Aug 2025 10:22:26 GMT | The Complete Guide to Modern Kiosk Solutions in the UAE & MENA Region | Rakesh | [Read More](https://medium.com/p/86df9f463161) |
-| Fri, 08 Aug 2025 10:21:13 GMT | DAY 39 — Strengthening Detection Logic Through Regex Practice | Jinay | [Read More](https://medium.com/p/cd9ddb7fa757) |
-| Fri, 08 Aug 2025 10:20:40 GMT | I’ve Always Felt Invisible. Here’s Why I’m Trying Anyway | Seagull Writing | [Read More](https://medium.com/p/b4196b6333fb) |
