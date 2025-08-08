@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 23:14:49 GMT | From Skilled to Exceptional: Why Pentesters Need Hacker Charisma | echosso | [Read More](https://medium.com/p/57f65f5ff194) |
+| Fri, 08 Aug 2025 22:58:48 GMT | FNN Just-N: Intel vs. Trump and the Surveillance Economy, a Short article | FNN News | [Read More](https://medium.com/p/714e74d91d68) |
+| Fri, 08 Aug 2025 22:55:47 GMT | Hack The Box “Code” Walkthrough (Beginner-Friendly Guide) | Canyon Cook | [Read More](https://medium.com/p/8b81106b59b6) |
 | Fri, 08 Aug 2025 22:30:21 GMT | What a Day to Launch: My Soul’s Work Begins | Brandi | [Read More](https://medium.com/p/f3f0c20402a0) |
 | Fri, 08 Aug 2025 22:27:59 GMT | Cyber is Dead | Shilo Hadad | [Read More](https://medium.com/p/5ce3f23e07af) |
 | Fri, 08 Aug 2025 22:19:36 GMT | How Strong is Your Password? | Haruna Rasheedah | [Read More](https://medium.com/p/39e2c239e309) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 16:03:48 GMT | How to Stay Hidden: The Privacy System That Actually Works | BiyteLüm | [Read More](https://medium.com/p/e4a1b5bb767c) |
 | Fri, 08 Aug 2025 16:03:14 GMT | [Blue Team Labs Online Write-up] Drilldown | Chaima Rhimoute | [Read More](https://medium.com/p/94fc710d173c) |
 | Fri, 08 Aug 2025 16:02:23 GMT | Cracking Pensive: A Deep Dive into Bugcrowd’s BlackHat USA CTF 25 RE Challenge | Noman Prodhan | [Read More](https://medium.com/p/b23457359562) |
-| Fri, 08 Aug 2025 16:02:05 GMT | Top 5 Security Clearance Job Sites for Job Seekers ️‍♀️ | Joseph Holbrook | [Read More](https://medium.com/p/15d140c57e5f) |
-| Fri, 08 Aug 2025 15:54:26 GMT | Zoth, Impermax, and H2O Hit for $8.7M: Deployer Keys, Fee Loops, and Predictable RNG | Olympix | [Read More](https://medium.com/p/c95dda560942) |
-| Fri, 08 Aug 2025 15:52:59 GMT | Filament, WebKey, Venus Drained for $2M: Price Oracles, Fixed Params, and Flash Loans Abused | Olympix | [Read More](https://medium.com/p/56a4e67f8208) |
