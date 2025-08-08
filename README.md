@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 15:15:16 GMT | A New Dawn in Data: Powering Communities with EcoSynQ Micro Data Centers | Dena T | [Read More](https://medium.com/p/5176da91bc11) |
+| Fri, 08 Aug 2025 15:14:11 GMT | CVE-2025–53786: New Privilege Escalation in Microsoft Exchange Hybrid Deployments | RealSec.io | [Read More](https://medium.com/p/c09d7847abda) |
+| Fri, 08 Aug 2025 15:14:00 GMT | How to Use Frida for Android App Instrumentation: A Practical Guide | Ribik Khoteja | [Read More](https://medium.com/p/f1776dc5db50) |
+| Fri, 08 Aug 2025 15:00:36 GMT | Investigating with Splunk — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/68f0a5b1849b) |
+| Fri, 08 Aug 2025 14:51:55 GMT | Why I Ditched Google Authenticator After One Close Call | Shahzaib | [Read More](https://medium.com/p/0561d7e5a72b) |
+| Fri, 08 Aug 2025 14:45:32 GMT | Fewer bugs — more FPS: how static analysis benefits Unreal Engine projects | Unicorn Developer | [Read More](https://medium.com/p/9fd10c11bfba) |
 | Fri, 08 Aug 2025 14:32:55 GMT | Columbia University’s Data Breach Isn’t Just a Tech Glitch — It’s a Wake-Up Call | Dhruvdeep Singh | [Read More](https://medium.com/p/d40ba8a1ef5e) |
 | Fri, 08 Aug 2025 14:26:43 GMT | The Consequences of Clicking a DocuSign Phishing Link | Ai Writter Tools | [Read More](https://medium.com/p/356209269c89) |
 | Fri, 08 Aug 2025 14:22:28 GMT | How to Build a Cybersecurity Contingency Plan in 2025: Why You’re Already Behind | Sebbas | [Read More](https://medium.com/p/0f0c8d3029bb) |
@@ -107,9 +113,3 @@ Cisco + Splunk + AppDynamics | Somerford Associates Limited | [Read More](https:
 | Fri, 08 Aug 2025 10:22:26 GMT | The Complete Guide to Modern Kiosk Solutions in the UAE & MENA Region | Rakesh | [Read More](https://medium.com/p/86df9f463161) |
 | Fri, 08 Aug 2025 10:21:13 GMT | DAY 39 — Strengthening Detection Logic Through Regex Practice | Jinay | [Read More](https://medium.com/p/cd9ddb7fa757) |
 | Fri, 08 Aug 2025 10:20:40 GMT | I’ve Always Felt Invisible. Here’s Why I’m Trying Anyway | Seagull Writing | [Read More](https://medium.com/p/b4196b6333fb) |
-| Fri, 08 Aug 2025 10:16:36 GMT | Did I Just Found a Bug on Nokia 6233 in 2025? | Ufal Salman | [Read More](https://medium.com/p/f6f6d089c490) |
-| Fri, 08 Aug 2025 10:16:25 GMT | What makes Hybrid SOC Services effective today? | Ziya Zoe | [Read More](https://medium.com/p/e555e7a23763) |
-| Fri, 08 Aug 2025 10:16:05 GMT | Enterprise Security Without the Overhead: How LSware Handles Vulnerability and Access at Scale | Raihan Rahman Syah Putra | [Read More](https://medium.com/p/ded21b3fd85a) |
-| Fri, 08 Aug 2025 10:13:29 GMT | 10 Common IMAP to IMAP Migration Problems and How to Fix Them | Axelmeyer | [Read More](https://medium.com/p/8455c96096d2) |
-| Fri, 08 Aug 2025 10:13:12 GMT | How Undersea Cables Became a Battlefield ? | KS. MISHRA | [Read More](https://medium.com/p/50734b63de5e) |
-| Fri, 08 Aug 2025 10:11:59 GMT | Building Scalable and Secure Drupal Architecture: Best Practices for Growing Websites | Drupart Digital | [Read More](https://medium.com/p/aca305502e16) |
