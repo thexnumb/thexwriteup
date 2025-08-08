@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 11:33:16 GMT | Detecting Web Shells - TryHackMe Walkthrough | Mithilp | [Read More](https://medium.com/p/0fdb52a5b26f) |
+| Fri, 08 Aug 2025 11:31:40 GMT | Critical RCE Vulnerabilities in HashiCorp Vault and CyberArk Conjur: What GRC Professionals Need to… | Brittney Ginther | [Read More](https://medium.com/p/5916c704b806) |
+| Fri, 08 Aug 2025 11:27:04 GMT | CyberArk Secrets Manager Under Siege: Five New CVEs Expose Critical IAM and Code Execution Risks | gm0 | [Read More](https://medium.com/p/634ec74e70d7) |
+| Fri, 08 Aug 2025 11:24:38 GMT | The Major Steps In Auditing Cloud Security App | Qualysec | [Read More](https://medium.com/p/8672f908bc74) |
+| Fri, 08 Aug 2025 11:22:59 GMT | Beyond the Spam Folder: Why Your Organization Needs a Strict DMARC Policy | Webelight Solutions Pvt. Ltd. | [Read More](https://medium.com/p/99557130b5d2) |
+| Fri, 08 Aug 2025 11:20:02 GMT | Why Top Cyber Security Companies in Noida Are the Backbone of Business Safety | Nexasoft Infinity | [Read More](https://medium.com/p/ffefc5cf13bc) |
+| Fri, 08 Aug 2025 11:14:25 GMT | The Universe That Writes Itself | Emergent Harmony | [Read More](https://medium.com/p/7d13261e1440) |
 | Fri, 08 Aug 2025 11:12:50 GMT | What Cloud and DevOps Actually Look Like in the Real World | Chris | [Read More](https://medium.com/p/aa092344c71f) |
+| Fri, 08 Aug 2025 11:11:36 GMT | Identity Visibility and Intelligence Platforms (IVIP) | Editorboyamit | [Read More](https://medium.com/p/4abd88534a86) |
+| Fri, 08 Aug 2025 11:08:27 GMT | Monitoring Cloudflare events with Wazuh for better incident response | Ehui ADOU | [Read More](https://medium.com/p/6645b8d2bbe8) |
+| Fri, 08 Aug 2025 11:07:22 GMT | Brooklyn nine nine - CTF - Tryhackme Writeup | Anasmohammed | [Read More](https://medium.com/p/3156493e3c73) |
 | Fri, 08 Aug 2025 11:05:55 GMT | How I Found a Logout Flaw That Kept Sessions Alive — A Real-World Bug Bounty Lesson | Amitishacked | [Read More](https://medium.com/p/d0151fa1a097) |
 | Fri, 08 Aug 2025 11:05:04 GMT | Boost Your Career: Enroll in Our Cyber Security Course | Aditya thorat | [Read More](https://medium.com/p/ea9d621c84a5) |
 | Fri, 08 Aug 2025 11:00:38 GMT | How I Chained Rate Limiting to Earn a Spot in Apple’s Hall of Fame | Anonymousshetty | [Read More](https://medium.com/p/f78305760462) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 07:33:26 GMT | ChatGPT vs Stack Overflow: My Xcode Debugging Experience | Aman | [Read More](https://medium.com/p/8e0757d91cc3) |
 | Fri, 08 Aug 2025 07:25:47 GMT | End-to-End Alert Enrichment Automation | Manusiahiu | [Read More](https://medium.com/p/6a9edeb3092e) |
 | Fri, 08 Aug 2025 07:23:34 GMT | Domain Blocker Tool v1.3 | BnHany | [Read More](https://medium.com/p/e056bf3a1d88) |
-| Fri, 08 Aug 2025 07:23:29 GMT | ️ Real-Time AI Threat Detection on AWS using GuardDuty, SNS, and Lambda. | Julien Muke | [Read More](https://medium.com/p/d9bd25627efc) |
-| Fri, 08 Aug 2025 07:18:42 GMT | SafeLine vs Bunny Shield: Which WAF Fits Your Modern Web Stack? | AerieWhole123 | [Read More](https://medium.com/p/5a1613cfdb87) |
-| Fri, 08 Aug 2025 07:17:23 GMT | A Guide to Digital Asset Security: Is Digital Shield Worth Trusting? | Digital Shield | [Read More](https://medium.com/p/208314c73685) |
-| Fri, 08 Aug 2025 07:17:17 GMT | How to BUG $BUG Liquidity Lock for Long-Term Gains | BUG | [Read More](https://medium.com/p/35fd54a75d9b) |
-| Fri, 08 Aug 2025 07:16:23 GMT | Cybercriminals Deploy Weaponized npm Packages Against WhatsApp Developers | Tarush Sharma | [Read More](https://medium.com/p/5aa1a772a914) |
-| Fri, 08 Aug 2025 06:59:50 GMT | Need a Reset - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/7e1261e00e0a) |
-| Fri, 08 Aug 2025 06:53:10 GMT | Sublime Security — Dashboard Walkthrough (Overview + User Reports) | Dean | [Read More](https://medium.com/p/8a1c480b33be) |
-| Fri, 08 Aug 2025 06:50:21 GMT | Introducing the Man-in-the-Prompt (MitP) attack | goswamiijaya | [Read More](https://medium.com/p/17ca2ac11282) |
-| Fri, 08 Aug 2025 06:49:48 GMT | How Two Kids Hacked the CIA | Jehanzebkhan | [Read More](https://medium.com/p/b078ce74a3e6) |
-| Fri, 08 Aug 2025 06:46:46 GMT | The Essential Guide to Hiring a Professional Security Guard | Matthew P Flock | [Read More](https://medium.com/p/69e3e948620c) |
