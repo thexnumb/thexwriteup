@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 18:30:23 GMT | Week 1 of My 90-Day Challenge: The Journey Begins! | Mike (sl0th0x87) | [Read More](https://medium.com/p/0675c0f9ddc2) |
+| Fri, 08 Aug 2025 18:29:24 GMT | A Business Guide to Seamlessly Adopting MDR Services | IT_Engineer | [Read More](https://medium.com/p/d1eb2bd3a9c2) |
+| Fri, 08 Aug 2025 18:28:21 GMT | Bugs With Fibre Optic Tails | curium | [Read More](https://medium.com/p/be488bf01c9b) |
+| Fri, 08 Aug 2025 18:18:07 GMT | Lite N Easy - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/7699c3d553d6) |
+| Fri, 08 Aug 2025 18:14:17 GMT | Becoming a Boring Person and Living a Boring Life | Vijay Kumar Gupta | [Read More](https://medium.com/p/0e1f01f1fb46) |
+| Fri, 08 Aug 2025 18:13:40 GMT | Fortifying Your Fortress: A Developer’s Guide to Ruby on Rails Security | Rishabh Sharma | [Read More](https://medium.com/p/164fdefacff6) |
+| Fri, 08 Aug 2025 18:01:43 GMT | Portswigger File Upload Vulnerabilities Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/19a802f3af06) |
+| Fri, 08 Aug 2025 18:01:43 GMT | Portswigger File upload vulnerabilities Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/72afc7cd1a9a) |
+| Fri, 08 Aug 2025 18:01:43 GMT | Portswigger File Upload Vulnerabilities Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/10d23530ebbd) |
+| Fri, 08 Aug 2025 17:59:47 GMT | TryHackMe File Inclusion Challenge walkthrough. | N4rn!4n_142 | [Read More](https://medium.com/p/9eb39ca9d4eb) |
+| Fri, 08 Aug 2025 17:55:52 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Active Practice Hubs and Learning from the Legends | Abeera Mehtab | [Read More](https://medium.com/p/188d20d96459) |
+| Fri, 08 Aug 2025 17:51:40 GMT | Master These 100 Cybersecurity Commands to Become a Pro Hacker | Pratham Shah | [Read More](https://medium.com/p/af8c4b679faf) |
+| Fri, 08 Aug 2025 17:42:46 GMT | AWS S3 Bucket Hacking Techniques | Software Sinner | [Read More](https://medium.com/p/df2890a0afd6) |
 | Fri, 08 Aug 2025 17:38:23 GMT | The Junior Dev Who Fixed a Bug Our Team Ignored for 6 Months | BugsyBits | [Read More](https://medium.com/p/dd357072ade9) |
+| Fri, 08 Aug 2025 17:35:24 GMT | Cap — HTB Writeup (Easy Linux) | CyberFaez | [Read More](https://medium.com/p/d665920874bf) |
+| Fri, 08 Aug 2025 17:34:10 GMT | 5 Cybersecurity Practices Every Business Should Follow in 2025 | Radia 2025 | [Read More](https://medium.com/p/39a68d62b102) |
 | Fri, 08 Aug 2025 17:32:41 GMT | CVE-2025-4388 HackerOne Duplicate Report | AbhirupKonwar | [Read More](https://medium.com/p/0a1b34444293) |
 | Fri, 08 Aug 2025 17:29:10 GMT | OWASP Top 10: Not Just for Interviews, Not Just a Checklist | Vaishnavi Sharma | [Read More](https://medium.com/p/211aa48c1678) |
 | Fri, 08 Aug 2025 17:22:23 GMT | Securing AI Agents: A Deep Dive into Autonomous Threat Vectors and Defenses | Paul D. | [Read More](https://medium.com/p/87775e5ed705) |
@@ -98,18 +113,3 @@ Cisco + Splunk + AppDynamics | Somerford Associates Limited | [Read More](https:
 | Fri, 08 Aug 2025 12:41:04 GMT | Making Security Architecture Reviews Visible: An AI-Powered Approach | Fabien Soulis | [Read More](https://medium.com/p/95bce2d5fb14) |
 | Fri, 08 Aug 2025 12:35:07 GMT | How My Ego Got Hacked Before I Ever Cracked a System | Shahzaib | [Read More](https://medium.com/p/75a631062193) |
 | Fri, 08 Aug 2025 12:29:30 GMT | Hey, I’m AYUSH — a tech enthusiast from India exploring the intersection of programming… | Tech Circuit | [Read More](https://medium.com/p/bc8df75a03e4) |
-| Fri, 08 Aug 2025 12:29:08 GMT | Steel Security Doors Sydney — The Ultimate Protection for Your Home | Cannon Security Fabrication | [Read More](https://medium.com/p/7b51d2cd01dd) |
-| Fri, 08 Aug 2025 12:26:43 GMT | Next.js Hack Saldırılarından Korunma | Soner ER | [Read More](https://medium.com/p/bab6b911754f) |
-| Fri, 08 Aug 2025 12:22:44 GMT | High-Frequency Sound Cannons: A New Non-Lethal Deterrent for Security | Julien Garnier | [Read More](https://medium.com/p/02999b348b93) |
-| Fri, 08 Aug 2025 12:21:42 GMT | I Didn’t Know Who I Was Until I Learned to Love Myself First | Joseph Paulo | [Read More](https://medium.com/p/e3b7262f0ba9) |
-| Fri, 08 Aug 2025 12:20:18 GMT | 2025 Guide to $BUG Yield Generation on StakingRewards | BUG | [Read More](https://medium.com/p/3d4bfad7163f) |
-| Fri, 08 Aug 2025 12:11:16 GMT | Installing Proxmox VE Hypervisor on Old Hardware :Complete Guide | Bridget | [Read More](https://medium.com/p/a834a2936888) |
-| Fri, 08 Aug 2025 12:10:52 GMT | From Curiosity to Code: How I Landed in Android Security | sinisterchill | [Read More](https://medium.com/p/65032e1b6f6d) |
-| Fri, 08 Aug 2025 12:05:53 GMT | Why Cyber Quess is a Trusted Cybersecurity Solution Provider in India | Aarav Mehta | [Read More](https://medium.com/p/af1ba8896dbc) |
-| Fri, 08 Aug 2025 12:05:40 GMT | Easiest and simple walkthrough of  Micro-CMS v2 Hacker101 CTF | Grey | [Read More](https://medium.com/p/efa74c5ecc1c) |
-| Fri, 08 Aug 2025 12:02:32 GMT | Wisconsin Cuts Red Tape To Speed Up Nuclear Siting | Hasibul Islam | [Read More](https://medium.com/p/ad0704fb849c) |
-| Fri, 08 Aug 2025 12:00:01 GMT | AI Data Encryption: Techniques and Standards | Artificial Intelligence Details | [Read More](https://medium.com/p/22c027feb9c8) |
-| Fri, 08 Aug 2025 11:58:45 GMT | AI Security Protocols: Best Practices | Artificial Intelligence Details | [Read More](https://medium.com/p/deb2925c2feb) |
-| Fri, 08 Aug 2025 11:56:18 GMT | Cybersecurity Gaps: Most Brisbane Firms Still Ignore | Elevate | [Read More](https://medium.com/p/b7b66ccfcc5a) |
-| Fri, 08 Aug 2025 11:50:18 GMT | Cleaning Up Digital Privacy Never Ends | Jim Katzaman - Get Out of Debt | [Read More](https://medium.com/p/1a8e742f8ea2) |
-| Fri, 08 Aug 2025 11:49:43 GMT | The Next Generation Tool for Kubernetes Security | Guillermo Quiros | [Read More](https://medium.com/p/93b2bbe7f7ac) |
