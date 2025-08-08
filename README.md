@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 09:20:52 GMT | Installing OWASP Juice Shop on an Offline OEL Server | Salimuy | [Read More](https://medium.com/p/79cefa46a041) |
+| Fri, 08 Aug 2025 09:20:37 GMT | NetXech: Safe or a Scam? What You Need to Know | SilentInject | [Read More](https://medium.com/p/03fb2d85a1ef) |
+| Fri, 08 Aug 2025 09:19:01 GMT | Why Proactive Threat Hunting Matters in Modern Cybersecurity | rakshith suvarna | [Read More](https://medium.com/p/3bd2a98344c5) |
+| Fri, 08 Aug 2025 09:14:18 GMT | Relating Course Topics to Real-World Cyber Incidents: A Practical Guide for Cybersecurity Students | rakshith suvarna | [Read More](https://medium.com/p/585a8a3628dd) |
+| Fri, 08 Aug 2025 09:04:40 GMT | Still Trusting PHP $_SERVER? Build a Safer Input Abstraction | Asian Digital Hub | [Read More](https://medium.com/p/5e27af0f201c) |
+| Fri, 08 Aug 2025 09:01:14 GMT | Python Scripts to Detect AI-Generated Cyber Threats (2025 Edition) | Berk Yanadur | [Read More](https://medium.com/p/eee7eb52e2b3) |
+| Fri, 08 Aug 2025 08:58:56 GMT | Google Knows About the Dark Web. Should You? | Authlyn | [Read More](https://medium.com/p/c379235ca1a5) |
+| Fri, 08 Aug 2025 08:57:48 GMT | The AI Security Reality Check: Why 2025 Is Different | Mubasher Chaudhary | [Read More](https://medium.com/p/7543ffd75dbd) |
+| Fri, 08 Aug 2025 08:57:19 GMT | Cybersecurity for Nonprofits: Securing your Organization’s Data on a Budget | Aliza Khokhar | [Read More](https://medium.com/p/9d38a5f1419e) |
+| Fri, 08 Aug 2025 08:51:33 GMT | Defenseless by Design: Hackers Hijack Trusted Drivers to Kill Your Security | Pentestjunkie07 | [Read More](https://medium.com/p/0279b1b92b7e) |
+| Fri, 08 Aug 2025 08:48:17 GMT | My Life in Hot Reload: Kicking Off My Flutter Dev Blog | Ravi Savaliya | [Read More](https://medium.com/p/e421e0e62614) |
+| Fri, 08 Aug 2025 08:45:39 GMT | Data Breach Costs Soaring? Ouch, India… | CtrlC3 | [Read More](https://medium.com/p/202391cc92eb) |
+| Fri, 08 Aug 2025 08:41:58 GMT | Why Tokyo Feels So Safe (Even Late at Night) | Daiki Tanji | [Read More](https://medium.com/p/4fb0c7e634ae) |
+| Fri, 08 Aug 2025 08:40:55 GMT | How Managed SIEM Providers Outperform In-House Security | SecureSlate | [Read More](https://medium.com/p/263acf6f33b1) |
+| Fri, 08 Aug 2025 08:38:31 GMT | Full-Stack AI Development: What it is and how it is revolutionizing technology in 2025 | sana irshad | [Read More](https://medium.com/p/10472bc0a0d9) |
+| Fri, 08 Aug 2025 08:31:43 GMT | How I Became a University’s Worst Cybersecurity Nightmare And Forced an Upgrade | KonaN | [Read More](https://medium.com/p/d0cdf2494eaa) |
 | Fri, 08 Aug 2025 08:27:02 GMT | Advanced Correlation Scenarios and Threat Modeling in SOC | Esra Kayhan | [Read More](https://medium.com/p/035b4c76d629) |
 | Fri, 08 Aug 2025 08:26:27 GMT | Resolving NotEntitledException in self-hosted Elasticsearch | Veera Atukuri | [Read More](https://medium.com/p/64da406ff76a) |
 | Fri, 08 Aug 2025 08:18:13 GMT | How to Find the Best Proxy Websites: A Checklist for Quality | Ipflyproxy | [Read More](https://medium.com/p/ac25cbd5f0df) |
@@ -97,20 +113,3 @@ Writing articles is a great way through which you can earn… | Meschain shelly 
 | Fri, 08 Aug 2025 03:35:24 GMT | WHATS YOUR NAME? TRYHACKME WRITE UP | Tuannh | [Read More](https://medium.com/p/bf794ff800b8) |
 | Fri, 08 Aug 2025 03:34:39 GMT | So Meta | Sohan Kanna D | [Read More](https://medium.com/p/711a16a4ccef) |
 | Fri, 08 Aug 2025 03:31:43 GMT | Microsoft Kills the Password: Welcome to the Passkey Era | Deven Chhajed | [Read More](https://medium.com/p/cc15f1c578ca) |
-| Fri, 08 Aug 2025 03:30:43 GMT | Guía Práctica # 3: Implementación del curso ; Google Classroom | Melanie Gabriela Duchel España | [Read More](https://medium.com/p/2575d2d7c911) |
-| Fri, 08 Aug 2025 03:25:31 GMT | Is learning Active Directory (AD) still worth in 2025? | Haider Ali | [Read More](https://medium.com/p/5849da61cb79) |
-| Fri, 08 Aug 2025 03:05:09 GMT | Kingdee ERP Zero-Day? ScpSupRegHandler File Upload Exploit Explained | AerieWhole123 | [Read More](https://medium.com/p/f19577066df0) |
-| Fri, 08 Aug 2025 03:01:40 GMT | Romania’s Nicușor Dan Accuses Russia of Orchestrating Online Election Interference in Romania and… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/8be31c841e4f) |
-| Fri, 08 Aug 2025 02:47:49 GMT | ‍ Day 2: SOC Models, Roles & Responsibilities | 0ccupi3R | [Read More](https://medium.com/p/c2da8b8c25d8) |
-| Fri, 08 Aug 2025 02:36:52 GMT | Tryhackme - Exploit vulnerabilities - WhiteUp-By Kinho0woned - | Kinho0Woned | [Read More](https://medium.com/p/280944e00a88) |
-| Fri, 08 Aug 2025 02:33:03 GMT | Day 74: The set command | Nile Okomo | [Read More](https://medium.com/p/d73b4360652a) |
-| Fri, 08 Aug 2025 02:27:59 GMT | An informative essay on Titanic | Mr Hacker | [Read More](https://medium.com/p/62c7e868cc4a) |
-| Fri, 08 Aug 2025 02:17:01 GMT | Debugging Agent Interactions in Amazon Bedrock: File Handling & Backend Visibility | Sudha Subramaniam | [Read More](https://medium.com/p/7a4a16faa838) |
-| Fri, 08 Aug 2025 02:05:55 GMT | How to Earn More with BUG $BUG on StakingRewards | Wade
- Jackson | [Read More](https://medium.com/p/88c5fa213ba7) |
-| Fri, 08 Aug 2025 02:03:11 GMT | What is Cybersecurity and Why Does it Matter? | Joan Ozumba | [Read More](https://medium.com/p/d3598c06d93b) |
-| Fri, 08 Aug 2025 01:50:47 GMT | ️️30 Days in the SOC ️ | 0ccupi3R | [Read More](https://medium.com/p/f70f349b8b1e) |
-| Fri, 08 Aug 2025 01:47:55 GMT | How GenosDB Solved the Distributed Trust Paradox: A Guide to P2P Security | estebanrfp | [Read More](https://medium.com/p/a552aa3e3318) |
-| Fri, 08 Aug 2025 01:22:27 GMT | Day 73: Bash for Pentesters | Nile Okomo | [Read More](https://medium.com/p/28d25e08b29e) |
-| Fri, 08 Aug 2025 01:09:51 GMT | How to $BUG Yield Farming on StakingRewards for Maximum APY | BUG | [Read More](https://medium.com/p/f0036db32b0f) |
-| Fri, 08 Aug 2025 01:02:01 GMT | Ghosting Isn’t Just Rude It Reveals Our Fear of Confronting Vulnerability | Kopi Date | [Read More](https://medium.com/p/596d2406747a) |
