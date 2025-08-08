@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 01:50:47 GMT | ️️30 Days in the SOC ️ | 0ccupi3R | [Read More](https://medium.com/p/f70f349b8b1e) |
+| Fri, 08 Aug 2025 01:22:27 GMT | Day 73: Bash for Pentesters | Nile Okomo | [Read More](https://medium.com/p/28d25e08b29e) |
+| Fri, 08 Aug 2025 01:09:51 GMT | How to $BUG Yield Farming on StakingRewards for Maximum APY | BUG | [Read More](https://medium.com/p/f0036db32b0f) |
+| Fri, 08 Aug 2025 01:02:01 GMT | Ghosting Isn’t Just Rude It Reveals Our Fear of Confronting Vulnerability | Kopi Date | [Read More](https://medium.com/p/596d2406747a) |
+| Fri, 08 Aug 2025 00:56:47 GMT | Build Your Own Port Scanner in Python | Zain Ahmad | [Read More](https://medium.com/p/136a92b13b1e) |
+| Fri, 08 Aug 2025 00:38:37 GMT | The Forgotten SSRF Vector (CVE-2020–10770) | Monika sharma | [Read More](https://medium.com/p/8bf04bfd4be9) |
+| Fri, 08 Aug 2025 00:36:33 GMT | PowerShell as a Victim | Bl@ckC!pH3r | [Read More](https://medium.com/p/b6fda15f77de) |
+| Fri, 08 Aug 2025 00:01:45 GMT | Server-Side Request Forgery (SSRF — OWASP A10): Guía para Hacking y Bug Bounty | JPablo13 | [Read More](https://medium.com/p/3705bbc5f283) |
+| Fri, 08 Aug 2025 00:00:41 GMT | WSL — Using Linux On Windows | Red | [Read More](https://medium.com/p/ca2a4084efeb) |
+| Thu, 07 Aug 2025 23:58:24 GMT | The Hidden Pitfalls: Common Issues Upstream Before Sending Logs to Elastic Cloud | LogFiend | [Read More](https://medium.com/p/9cdf8a1adff5) |
+| Thu, 07 Aug 2025 23:52:07 GMT | Supercharge Your $BUG Earnings with StakingRewards | BUG | [Read More](https://medium.com/p/e971b9c6fbdf) |
 | Thu, 07 Aug 2025 23:36:19 GMT | Common Cyber Threats Small Businesses Face in 2025 (and How to Stay Safe) | Audiopinesolutions | [Read More](https://medium.com/p/5e5b146873c7) |
 | Thu, 07 Aug 2025 23:35:30 GMT | In a word that celebrates strength and perfection, revealing our weaknesses often feels risky. | Toria walker | [Read More](https://medium.com/p/6b9d6c8239ff) |
 | Thu, 07 Aug 2025 23:35:27 GMT | Firmware Dumping Techniques for STM32 Microcontrollers — Part 3 | Abdelwahed Baha | [Read More](https://medium.com/p/127e49df6226) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 16:49:28 GMT | Cyber Security Hashing: Creating Digital Fingerprints | Cyber Security Research | [Read More](https://medium.com/p/d4888a7d9d2c) |
 | Thu, 07 Aug 2025 16:48:39 GMT | Bug Hunting Like No One’s Thought Of: Quantum Tactics, AI Evolution, and Security Concepts From… | Peter Tompson | [Read More](https://medium.com/p/14b07e8a2633) |
 | Thu, 07 Aug 2025 16:47:33 GMT | Cyber Security Cryptography: The Science of Secure Communication | Cyber Security Research | [Read More](https://medium.com/p/dc5c56bc8827) |
-| Thu, 07 Aug 2025 16:34:59 GMT | Eight Emerging Vault Vulnerabilities Put Secrets at Risk | gm0 | [Read More](https://medium.com/p/18b48c322f66) |
-| Thu, 07 Aug 2025 16:33:26 GMT | Kali GPT Explained: The AI Hacking Assistant You NEED | Shahzaib | [Read More](https://medium.com/p/039175eaf8bd) |
-| Thu, 07 Aug 2025 16:30:06 GMT | Should You Use A VPN? | Carroll Blayze | [Read More](https://medium.com/p/ac2a01cb498b) |
-| Thu, 07 Aug 2025 16:28:47 GMT | Initial Simulation for ECorp DFIR Environment in a LAN Setup | Allen Ace | [Read More](https://medium.com/p/0cdeaabae235) |
-| Thu, 07 Aug 2025 16:28:06 GMT | SMB Guide and Implementation | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/e46ea7d2d153) |
-| Thu, 07 Aug 2025 16:25:03 GMT | Cyber Threat Intelligence: More Than Just Buzzwords | TheReviewHive | [Read More](https://medium.com/p/1acd0f23f0e1) |
-| Thu, 07 Aug 2025 16:23:56 GMT | “Day 5: SSRF — How I Hacked AWS Keys & Stole $15,000 in Cloud Credits” | Aman Sharma | [Read More](https://medium.com/p/ed521d7525f9) |
-| Thu, 07 Aug 2025 16:22:42 GMT | Cybersecurity Is a War. Most of Us Are Still Unarmed. | Dania. | [Read More](https://medium.com/p/a1a6cf1b1a64) |
-| Thu, 07 Aug 2025 16:21:34 GMT | From Chaos to Clarity: How I Used Jira Product Discovery to Build a Centralized Epic Board That… | Shauna Zamarripa | [Read More](https://medium.com/p/f269f676c9ff) |
-| Thu, 07 Aug 2025 16:19:57 GMT | Discover IoT: Changing the Way You Live and Work | Techy Hello | [Read More](https://medium.com/p/387e35c747b6) |
-| Thu, 07 Aug 2025 16:15:45 GMT | How I Got a P3 in NASA | ghostvirus | [Read More](https://medium.com/p/5d98f07d888f) |
