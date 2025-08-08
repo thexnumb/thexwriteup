@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 19:11:51 GMT | precious : hackthebox | Abdellah Lamine | [Read More](https://medium.com/p/8c2dc3719da5) |
+| Fri, 08 Aug 2025 19:11:17 GMT | Patch Management: The Unsung Hero of Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/70fbb38f877f) |
+| Fri, 08 Aug 2025 19:04:34 GMT | SASE: The Future of Network Security for Modern Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/ca3cbb8f8d3a) |
+| Fri, 08 Aug 2025 19:01:44 GMT | Is Bitwarden Actually Worth It? 6 Months Later, It’s Essential | ItReviewHub | [Read More](https://medium.com/p/881822eaf0ff) |
+| Fri, 08 Aug 2025 19:01:14 GMT | 1st Time at DefCon? Don’t make same mistakes I made. | DuckWrites | [Read More](https://medium.com/p/645f48f11c1a) |
+| Fri, 08 Aug 2025 18:53:51 GMT | Cuttlefish3 — A multi-agent RAG system for intelligent JIRA ticket retrieval | Heemeng Foo | [Read More](https://medium.com/p/8b873bc7d12d) |
+| Fri, 08 Aug 2025 18:52:04 GMT | What If… Nuclear Deterrence Fails? | Julien | [Read More](https://medium.com/p/671220e8fe46) |
+| Fri, 08 Aug 2025 18:50:52 GMT | You Gave Them Everything Just to Scroll for Free | Your's Nightmare | [Read More](https://medium.com/p/7af4b71c9277) |
+| Fri, 08 Aug 2025 18:50:41 GMT | Can You Trust QR Codes on Posters? | Your's Nightmare | [Read More](https://medium.com/p/9aab27f4637b) |
+| Fri, 08 Aug 2025 18:47:57 GMT | We got hit by a Negative SEO attack ! | Aurelia bret | [Read More](https://medium.com/p/dd9c0400981c) |
+| Fri, 08 Aug 2025 18:46:03 GMT | The Bug That Made McDonald’s Ice Cream Machines Self-Destruct | Sohail Saifi | [Read More](https://medium.com/p/7afc768023ac) |
+| Fri, 08 Aug 2025 18:44:52 GMT | Breaking the Limits: Exploiting a Race Condition to Bypass Free Plan Restrictions | Kerolos Ayman | [Read More](https://medium.com/p/122a4221c23e) |
+| Fri, 08 Aug 2025 18:44:22 GMT | Bypassing UI Restrictions to Rename an Organization by Request Manipulation | Kerolos Ayman | [Read More](https://medium.com/p/393a972636a2) |
+| Fri, 08 Aug 2025 18:41:46 GMT | SIEM Solutions: Your Frontline Defense in Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/9c0f622d2380) |
+| Fri, 08 Aug 2025 18:39:50 GMT | Why XNSPY is Rated the Best Spy App for Phone Monitoring | Narjis Batool | [Read More](https://medium.com/p/3a22c955f102) |
+| Fri, 08 Aug 2025 18:35:56 GMT | Introduction: Mastering AWS Security Monitoring with Real-Time Data Sources | Shamith S | [Read More](https://medium.com/p/e3509bbfaa39) |
+| Fri, 08 Aug 2025 18:35:00 GMT | Part 2: The Core Protocols That Power the Internet | ABDULLAH N KAMARUDHEEN | [Read More](https://medium.com/p/bd345d5eefa1) |
+| Fri, 08 Aug 2025 18:34:13 GMT | 5 Things to Look For in a CVE Remediation Platform | Sophia Perez | [Read More](https://medium.com/p/fd994a875c13) |
+| Fri, 08 Aug 2025 18:31:30 GMT | When Surveillance Turns Against Us: Axis Camera Flaws Create Global Security Crisis. | eL Njas!™ | [Read More](https://medium.com/p/a3ad9b1b16ac) |
 | Fri, 08 Aug 2025 18:30:23 GMT | Week 1 of My 90-Day Challenge: The Journey Begins! | Mike (sl0th0x87) | [Read More](https://medium.com/p/0675c0f9ddc2) |
 | Fri, 08 Aug 2025 18:29:24 GMT | A Business Guide to Seamlessly Adopting MDR Services | IT_Engineer | [Read More](https://medium.com/p/d1eb2bd3a9c2) |
 | Fri, 08 Aug 2025 18:28:21 GMT | Bugs With Fibre Optic Tails | curium | [Read More](https://medium.com/p/be488bf01c9b) |
@@ -94,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 13:08:12 GMT | A Business & Competitive Edge:
 Cisco + Splunk + AppDynamics | Somerford Associates Limited | [Read More](https://medium.com/p/845e91551c2b) |
 | Fri, 08 Aug 2025 13:07:24 GMT | Top 10 Phishing Simulators 2025: Train Your Team, Outsmart Attackers | Keepnet Labs | [Read More](https://medium.com/p/04eb94faf0d5) |
-| Fri, 08 Aug 2025 13:05:32 GMT | Prototype Pollution | Zodiac | [Read More](https://medium.com/p/b7eb6998149b) |
-| Fri, 08 Aug 2025 13:04:53 GMT | Become a Certified Ethical Hacker in 2025: Your Pathway to Cybersecurity Mastery | Daywalkernyc | [Read More](https://medium.com/p/c88598d3e93d) |
-| Fri, 08 Aug 2025 13:03:24 GMT | Advanced ELK Queries — A Friendly & Practical Guide ️‍♂️ | Furkanctiner | [Read More](https://medium.com/p/c60de5a379bb) |
-| Fri, 08 Aug 2025 13:02:17 GMT | Starting My Master of Cyber Security Journey: From AI & Data Science to Building a Career in… | Gurjaspartap Singh | [Read More](https://medium.com/p/82206a1e52f1) |
-| Fri, 08 Aug 2025 13:01:26 GMT | 10 Digital Security Tips Every Business Should Follow | Evgeny Ermakov | [Read More](https://medium.com/p/b8a1ac59a466) |
-| Fri, 08 Aug 2025 12:59:14 GMT | Using AI to automate vulnerability assessments in cloud environments | Cloud4C Services | [Read More](https://medium.com/p/13be6bd3029b) |
-| Fri, 08 Aug 2025 12:56:44 GMT | The XSS[.]is files: Discussion on the July 2025 events with ex-moderators | g0njxa | [Read More](https://medium.com/p/d90de0ef237c) |
-| Fri, 08 Aug 2025 12:54:36 GMT | Intermediate Nmap Tryhackme Write-up | i4m_x | [Read More](https://medium.com/p/1348f1e1f0be) |
-| Fri, 08 Aug 2025 12:51:57 GMT | Two Ways to Think About Growth in Housekeeping & Security | EXLITY | [Read More](https://medium.com/p/b32c3e4a6f48) |
-| Fri, 08 Aug 2025 12:48:38 GMT | OpenAI Unveils GPT-5: Its Most Advanced Artificial Intelligence Model | Marta Reyes | [Read More](https://medium.com/p/318d8bb4e473) |
-| Fri, 08 Aug 2025 12:46:18 GMT | I Found a $3,330 Bug Using Extract Grep Curl | Ibtissam hammadi | [Read More](https://medium.com/p/9d52a463888b) |
-| Fri, 08 Aug 2025 12:45:13 GMT | The Silent Security Crisis: How AI Coding Assistants Are Creating Perfect Attack Blueprints | Gabi Beyo | [Read More](https://medium.com/p/71fd375d51a3) |
-| Fri, 08 Aug 2025 12:44:26 GMT | Blast From The Past: A Roger Wilco Tribute | Namir Sagheenanajar | [Read More](https://medium.com/p/4032e4a4b21e) |
-| Fri, 08 Aug 2025 12:42:01 GMT | Sentences Hinting at Disappointment in Your Husband, Sentences Expressing Disappointment in Him | Ueiiowd | [Read More](https://medium.com/p/0db66d433644) |
-| Fri, 08 Aug 2025 12:41:42 GMT | Fast-track to Hyatt & AA status | Daily Drop | [Read More](https://medium.com/p/00072f947843) |
-| Fri, 08 Aug 2025 12:41:26 GMT | How to Use Termux in CTF Challenges and Hacking Labs | Kambetastephano | [Read More](https://medium.com/p/4960150e3c1b) |
-| Fri, 08 Aug 2025 12:41:04 GMT | Making Security Architecture Reviews Visible: An AI-Powered Approach | Fabien Soulis | [Read More](https://medium.com/p/95bce2d5fb14) |
-| Fri, 08 Aug 2025 12:35:07 GMT | How My Ego Got Hacked Before I Ever Cracked a System | Shahzaib | [Read More](https://medium.com/p/75a631062193) |
-| Fri, 08 Aug 2025 12:29:30 GMT | Hey, I’m AYUSH — a tech enthusiast from India exploring the intersection of programming… | Tech Circuit | [Read More](https://medium.com/p/bc8df75a03e4) |
