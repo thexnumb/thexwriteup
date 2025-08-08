@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 16:24:47 GMT | Test in Prod - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/e44ab60d96d1) |
+| Fri, 08 Aug 2025 16:12:17 GMT | The Quantum Watchman: A Proactive, LLM-based Multi-Agent Security Framework for Unclonable Access… | Berend Watchus | [Read More](https://medium.com/p/696328e4cdde) |
+| Fri, 08 Aug 2025 16:10:31 GMT | OSI Layer 2 Attacks - ARP Poisoning | barancem | [Read More](https://medium.com/p/c6dbaa912a39) |
+| Fri, 08 Aug 2025 16:03:48 GMT | How to Stay Hidden: The Privacy System That Actually Works | BiyteLüm | [Read More](https://medium.com/p/e4a1b5bb767c) |
+| Fri, 08 Aug 2025 16:03:14 GMT | [Blue Team Labs Online Write-up] Drilldown | Chaima Rhimoute | [Read More](https://medium.com/p/94fc710d173c) |
+| Fri, 08 Aug 2025 16:02:23 GMT | Cracking Pensive: A Deep Dive into Bugcrowd’s BlackHat USA CTF 25 RE Challenge | Noman Prodhan | [Read More](https://medium.com/p/b23457359562) |
+| Fri, 08 Aug 2025 16:02:05 GMT | Top 5 Security Clearance Job Sites for Job Seekers ️‍♀️ | Joseph Holbrook | [Read More](https://medium.com/p/15d140c57e5f) |
+| Fri, 08 Aug 2025 15:54:26 GMT | Zoth, Impermax, and H2O Hit for $8.7M: Deployer Keys, Fee Loops, and Predictable RNG | Olympix | [Read More](https://medium.com/p/c95dda560942) |
+| Fri, 08 Aug 2025 15:52:59 GMT | Filament, WebKey, Venus Drained for $2M: Price Oracles, Fixed Params, and Flash Loans Abused | Olympix | [Read More](https://medium.com/p/56a4e67f8208) |
+| Fri, 08 Aug 2025 15:52:27 GMT | Grumpy McGrumpFace Goes to DEF CON | Ian Barwise | [Read More](https://medium.com/p/760b9a437f35) |
+| Fri, 08 Aug 2025 15:52:18 GMT | Beginner’s Guide to Cybersecurity in 2025: What I Wish I Knew When I Started | Astra | [Read More](https://medium.com/p/592407e66654) |
+| Fri, 08 Aug 2025 15:51:25 GMT | SIR, Cardex, and Hegic Exploited: Transient Storage Flaw, Leaked Signer, and Tranche Abuse Cost… | Olympix | [Read More](https://medium.com/p/e8d4867046e5) |
+| Fri, 08 Aug 2025 15:43:50 GMT | ️ How I Hacked My Own MERN App (And Found 7 Security Flaws You Should Fix Today) | Dev Diwan | [Read More](https://medium.com/p/95e851c8d65a) |
 | Fri, 08 Aug 2025 15:39:08 GMT | Top 10 Tech Websites of 2025 You Have to Bookmark Today | sana irshad | [Read More](https://medium.com/p/5857df043966) |
 | Fri, 08 Aug 2025 15:29:25 GMT | MUST-DO Docker Tricks to Secure your Docker Images Today | BecomeDevOps | [Read More](https://medium.com/p/7ff23b463000) |
 | Fri, 08 Aug 2025 15:29:05 GMT | The Zero-Trust Prompt: Re-thinking Identity in the Age of LLM Agents | YUSUFF ADENIYI GIWA | [Read More](https://medium.com/p/88583f144c1b) |
@@ -38,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 13:50:09 GMT | How to Spot a Vulnerable Program | Bl@ckC!pH3r | [Read More](https://medium.com/p/add82d5c1bd9) |
 | Fri, 08 Aug 2025 13:46:13 GMT | What Is MFA Fatigue — and How Hackers Are Using It Against You | Dhruvdeep Singh | [Read More](https://medium.com/p/69c21627fe71) |
 | Fri, 08 Aug 2025 13:41:41 GMT | Jack of all trades, master of none… | Danny | [Read More](https://medium.com/p/113d1232b97e) |
+| Fri, 08 Aug 2025 13:32:00 GMT | BARIN BAYA NAGARI: SHEDAR DA ZAKA BARWA KAN KA A DUNIYAR INTANET | Safiyya Daba | [Read More](https://medium.com/p/89627f14e636) |
 | Fri, 08 Aug 2025 13:28:20 GMT | My Dual Adblocking Setup: AdGuard + ControlD = Champion Browsing | Brian Olson | [Read More](https://medium.com/p/2faf4e466e58) |
 | Fri, 08 Aug 2025 13:25:40 GMT | A Curated Collection of Animated Cybersecurity Diagrams — 2025 | Paul D. | [Read More](https://medium.com/p/0e4a151b9bfe) |
 | Fri, 08 Aug 2025 13:11:59 GMT | SQL Injection Web Security Academy Union attack & Blind SQL | Zodiac | [Read More](https://medium.com/p/6842b100dc56) |
@@ -99,17 +113,3 @@ Cisco + Splunk + AppDynamics | Somerford Associates Limited | [Read More](https:
 | Fri, 08 Aug 2025 11:00:38 GMT | How I Chained Rate Limiting to Earn a Spot in Apple’s Hall of Fame | Anonymousshetty | [Read More](https://medium.com/p/f78305760462) |
 | Fri, 08 Aug 2025 10:56:17 GMT | Understanding Server-Side Request Forgery (SSRF) And How to Protect Your Systems | Redfox Security | [Read More](https://medium.com/p/ae2fa50ceae2) |
 | Fri, 08 Aug 2025 10:51:53 GMT | Business Logic Flaw in Invitation Feature Allows Full Account Takeover | Robi Mohamad subagja | [Read More](https://medium.com/p/9e55ba0cc273) |
-| Fri, 08 Aug 2025 10:50:50 GMT | Setting up pfSense on VMWare WorkStation | Silas Aosige | [Read More](https://medium.com/p/d912b194c382) |
-| Fri, 08 Aug 2025 10:45:17 GMT | HTTP/1.1 Its No Longer Safe | Astraliva | [Read More](https://medium.com/p/2cb5a4ebe150) |
-| Fri, 08 Aug 2025 10:43:18 GMT | Impacket Developer Guide. Part 1. RPC | CICADA8 | [Read More](https://medium.com/p/4df4fe6d79d7) |
-| Fri, 08 Aug 2025 10:40:08 GMT | Celebrating Independence Day with Singsys: Empowering Businesses with 15% Off on All IT Services | Vivek Srivastava | [Read More](https://medium.com/p/729099b696da) |
-| Fri, 08 Aug 2025 10:38:17 GMT | DockerLabs Writeup — Amor (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/30d1db0f6b49) |
-| Fri, 08 Aug 2025 10:36:29 GMT | HTTP Request Smuggling: From Basics to Bounty | Jayesh kunwal | [Read More](https://medium.com/p/4a799f2e18c2) |
-| Fri, 08 Aug 2025 10:36:12 GMT | Honoured to Speak and Receive Recognition at CSJMU, Kanpur | Yuvraj Gupta | [Read More](https://medium.com/p/f61e63412e99) |
-| Fri, 08 Aug 2025 10:33:21 GMT | ประจำวันศุกร์ที่ 8 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/38b3c74bdec3) |
-| Fri, 08 Aug 2025 10:33:03 GMT | CVE-2025–48394: Eaton Product Vulnerable to File Modification via Path Traversal | CVEHUB | [Read More](https://medium.com/p/db1a0c913a44) |
-| Fri, 08 Aug 2025 10:32:43 GMT | Penetration Testing as a Service Market Size, Share, Trends and Analysis by 2032 | Mlee | [Read More](https://medium.com/p/75a3f83fed42) |
-| Fri, 08 Aug 2025 10:31:55 GMT | Project Risk Management in 2025: From Landmines to Launchpads | Himanshu Agarwal | [Read More](https://medium.com/p/8a31f361172f) |
-| Fri, 08 Aug 2025 10:31:31 GMT | CVE-2025–48393: Man-in-the-Middle Risk During Eaton Firmware Updates | CVEHUB | [Read More](https://medium.com/p/c19be4de1d3f) |
-| Fri, 08 Aug 2025 10:29:59 GMT | CVE-2024–8244: TOCTOU Vulnerability in Go’s filepath.Walk and WalkDir | CVEHUB | [Read More](https://medium.com/p/27c882205c31) |
-| Fri, 08 Aug 2025 10:29:38 GMT | What If You Could See Your Body Energy Like a Phone Battery? | Justin Joseph | [Read More](https://medium.com/p/9aa9deaf2a8d) |
