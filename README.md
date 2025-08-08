@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 03:42:56 GMT | Cyber Security Certifications: Validating Security Expertise | Cyber Security Research | [Read More](https://medium.com/p/2c210919e1d1) |
+| Fri, 08 Aug 2025 03:42:50 GMT | Tea App Breach Leaks Thousands of Women’s IDs and Private Photos | SafetyDetectives Research Team | [Read More](https://medium.com/p/719963ee6d4e) |
+| Fri, 08 Aug 2025 03:39:07 GMT | Cyber Security Leadership: Setting the Security Tone | Cyber Security Research | [Read More](https://medium.com/p/9fe6faa40c5f) |
+| Fri, 08 Aug 2025 03:35:24 GMT | WHATS YOUR NAME? TRYHACKME WRITE UP | Tuannh | [Read More](https://medium.com/p/bf794ff800b8) |
+| Fri, 08 Aug 2025 03:34:39 GMT | So Meta | Sohan Kanna D | [Read More](https://medium.com/p/711a16a4ccef) |
+| Fri, 08 Aug 2025 03:31:43 GMT | Microsoft Kills the Password: Welcome to the Passkey Era | Deven Chhajed | [Read More](https://medium.com/p/cc15f1c578ca) |
+| Fri, 08 Aug 2025 03:30:43 GMT | Guía Práctica # 3: Implementación del curso ; Google Classroom | Melanie Gabriela Duchel España | [Read More](https://medium.com/p/2575d2d7c911) |
+| Fri, 08 Aug 2025 03:25:31 GMT | Is learning Active Directory (AD) still worth in 2025? | Haider Ali | [Read More](https://medium.com/p/5849da61cb79) |
+| Fri, 08 Aug 2025 03:05:09 GMT | Kingdee ERP Zero-Day? ScpSupRegHandler File Upload Exploit Explained | AerieWhole123 | [Read More](https://medium.com/p/f19577066df0) |
+| Fri, 08 Aug 2025 03:01:40 GMT | Romania’s Nicușor Dan Accuses Russia of Orchestrating Online Election Interference in Romania and… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/8be31c841e4f) |
+| Fri, 08 Aug 2025 02:47:49 GMT | ‍ Day 2: SOC Models, Roles & Responsibilities | 0ccupi3R | [Read More](https://medium.com/p/c2da8b8c25d8) |
+| Fri, 08 Aug 2025 02:36:52 GMT | Tryhackme - Exploit vulnerabilities - WhiteUp-By Kinho0woned - | Kinho0Woned | [Read More](https://medium.com/p/280944e00a88) |
+| Fri, 08 Aug 2025 02:33:03 GMT | Day 74: The set command | Nile Okomo | [Read More](https://medium.com/p/d73b4360652a) |
+| Fri, 08 Aug 2025 02:27:59 GMT | An informative essay on Titanic | Mr Hacker | [Read More](https://medium.com/p/62c7e868cc4a) |
+| Fri, 08 Aug 2025 02:17:01 GMT | Debugging Agent Interactions in Amazon Bedrock: File Handling & Backend Visibility | Sudha Subramaniam | [Read More](https://medium.com/p/7a4a16faa838) |
+| Fri, 08 Aug 2025 02:05:55 GMT | How to Earn More with BUG $BUG on StakingRewards | Wade
+ Jackson | [Read More](https://medium.com/p/88c5fa213ba7) |
+| Fri, 08 Aug 2025 02:03:11 GMT | What is Cybersecurity and Why Does it Matter? | Joan Ozumba | [Read More](https://medium.com/p/d3598c06d93b) |
 | Fri, 08 Aug 2025 01:50:47 GMT | ️️30 Days in the SOC ️ | 0ccupi3R | [Read More](https://medium.com/p/f70f349b8b1e) |
+| Fri, 08 Aug 2025 01:47:55 GMT | How GenosDB Solved the Distributed Trust Paradox: A Guide to P2P Security | estebanrfp | [Read More](https://medium.com/p/a552aa3e3318) |
 | Fri, 08 Aug 2025 01:22:27 GMT | Day 73: Bash for Pentesters | Nile Okomo | [Read More](https://medium.com/p/28d25e08b29e) |
 | Fri, 08 Aug 2025 01:09:51 GMT | How to $BUG Yield Farming on StakingRewards for Maximum APY | BUG | [Read More](https://medium.com/p/f0036db32b0f) |
 | Fri, 08 Aug 2025 01:02:01 GMT | Ghosting Isn’t Just Rude It Reveals Our Fear of Confronting Vulnerability | Kopi Date | [Read More](https://medium.com/p/596d2406747a) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 17:50:29 GMT | How I Found an RCE Vulnerability on Example.com and Earned a $3000 Bounty in 15 Minutes | AmirhosseinBz | [Read More](https://medium.com/p/5d6c61d703bb) |
 | Thu, 07 Aug 2025 17:41:16 GMT | SonicWall Walks Back Zero-Day Concerns, Points to Old VPN Flaw in Akira Attacks | Dhruvdeep Singh | [Read More](https://medium.com/p/a4249f2e6b30) |
 | Thu, 07 Aug 2025 17:40:28 GMT | TryHackMe — Relevant | omni | [Read More](https://medium.com/p/d37f1249d962) |
-| Thu, 07 Aug 2025 17:39:12 GMT | Certificate Transparency in Android 16+: Why It Matters and How to Implement It | Gal Kohen | [Read More](https://medium.com/p/45c2c7cad658) |
-| Thu, 07 Aug 2025 17:38:48 GMT | NetGuard - Hackviser — Write-Up | Özcan Ersan | [Read More](https://medium.com/p/2cbbe1a5ff33) |
-| Thu, 07 Aug 2025 17:30:05 GMT | The Truth About Mac Security: Why "I’m Safe" Is a Dangerous Myth | Unknown Source | [Read More](https://medium.com/p/469c02962d6c) |
-| Thu, 07 Aug 2025 17:12:58 GMT | Abusing LDAP in Red Teaming , How It Fuels Active Directory Recon and Discovery | 0xTurki | [Read More](https://medium.com/p/90e81d29914f) |
-| Thu, 07 Aug 2025 17:09:35 GMT | Amazon Bedrock’s On-Device Logic Checks Stop AI Hallucinations | TheCertExpert | [Read More](https://medium.com/p/2f893808ce75) |
-| Thu, 07 Aug 2025 17:07:50 GMT | THM - Sequel Dump | Francesco Pastore | [Read More](https://medium.com/p/a584ca19fc22) |
-| Thu, 07 Aug 2025 17:07:30 GMT | Unauthorized Disclosure of Private Emails via WakaTime Private Leaderboards | Regan Temudo | [Read More](https://medium.com/p/197361b80476) |
-| Thu, 07 Aug 2025 17:05:10 GMT | How to enumerate SUID binaries easily using SUID3NUM | Avyukt Security | [Read More](https://medium.com/p/a39db5733610) |
-| Thu, 07 Aug 2025 17:03:29 GMT | Ubuntu SERVER Üzerinde Anlık Dosya Takibi Servisi Oluşturma | Oguzhan Polat | [Read More](https://medium.com/p/424f67f9a454) |
-| Thu, 07 Aug 2025 16:59:24 GMT | CrowdStrike’s Automated Leads: Signal AI Fatigue is Real — Here’s How to Tackle It | Shreyash Tambe | [Read More](https://medium.com/p/f4d7a7306dc8) |
-| Thu, 07 Aug 2025 16:57:06 GMT | Cyber Security Key Management: Protecting Cryptographic Keys | Cyber Security Research | [Read More](https://medium.com/p/3f2e5d408901) |
-| Thu, 07 Aug 2025 16:55:09 GMT | Cyber Security Public Key Infrastructure: Managing Digital Certificates | Cyber Security Research | [Read More](https://medium.com/p/202102163b7e) |
-| Thu, 07 Aug 2025 16:53:17 GMT | Cyber Security Certificates: Establishing Trust Online | Cyber Security Research | [Read More](https://medium.com/p/a44ac0095ba3) |
-| Thu, 07 Aug 2025 16:51:23 GMT | Cyber Security Digital Signatures: Verifying Authenticity | Cyber Security Research | [Read More](https://medium.com/p/e3e4c744b881) |
-| Thu, 07 Aug 2025 16:49:41 GMT | Vibe Coding: How to Harness AI as Your Engineering Partner | Amit Patriwala (Enterprise Solution Architect) | [Read More](https://medium.com/p/aaedb8191e99) |
-| Thu, 07 Aug 2025 16:49:28 GMT | Cyber Security Hashing: Creating Digital Fingerprints | Cyber Security Research | [Read More](https://medium.com/p/d4888a7d9d2c) |
-| Thu, 07 Aug 2025 16:48:39 GMT | Bug Hunting Like No One’s Thought Of: Quantum Tactics, AI Evolution, and Security Concepts From… | Peter Tompson | [Read More](https://medium.com/p/14b07e8a2633) |
-| Thu, 07 Aug 2025 16:47:33 GMT | Cyber Security Cryptography: The Science of Secure Communication | Cyber Security Research | [Read More](https://medium.com/p/dc5c56bc8827) |
