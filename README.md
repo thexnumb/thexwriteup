@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 17:38:23 GMT | The Junior Dev Who Fixed a Bug Our Team Ignored for 6 Months | BugsyBits | [Read More](https://medium.com/p/dd357072ade9) |
+| Fri, 08 Aug 2025 17:32:41 GMT | CVE-2025-4388 HackerOne Duplicate Report | AbhirupKonwar | [Read More](https://medium.com/p/0a1b34444293) |
+| Fri, 08 Aug 2025 17:29:10 GMT | OWASP Top 10: Not Just for Interviews, Not Just a Checklist | Vaishnavi Sharma | [Read More](https://medium.com/p/211aa48c1678) |
+| Fri, 08 Aug 2025 17:22:23 GMT | Securing AI Agents: A Deep Dive into Autonomous Threat Vectors and Defenses | Paul D. | [Read More](https://medium.com/p/87775e5ed705) |
+| Fri, 08 Aug 2025 17:21:02 GMT | View Exterior Photos of the 2025 Mercedes-AMG G63 | Osama Khan | [Read More](https://medium.com/p/116eef115102) |
+| Fri, 08 Aug 2025 17:20:33 GMT | Dependency Dillema - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/a22469be3922) |
 | Fri, 08 Aug 2025 17:13:12 GMT | OpenDLP Installation & Deployment Workflow | Abdelrahman Metwaly | [Read More](https://medium.com/p/4510775369c5) |
+| Fri, 08 Aug 2025 17:05:12 GMT | I Tested NordVPN vs ExpressVPN — Which One Is Better for You? | Kelly Shephard | [Read More](https://medium.com/p/e4810788109f) |
 | Fri, 08 Aug 2025 17:02:42 GMT | Content Creation & Cybersecurity | Zayne Harbison | [Read More](https://medium.com/p/323ba7887b14) |
 | Fri, 08 Aug 2025 17:02:10 GMT | Advanced Logging Techniques for Incident Response | Karthikeyan Nagaraj | [Read More](https://medium.com/p/dd66e1b0b0a5) |
 | Fri, 08 Aug 2025 17:00:39 GMT | Learn WiFi Hacking Basics Using Termux (Educational Use Only) | Kambetastephano | [Read More](https://medium.com/p/150b969e61e0) |
@@ -106,10 +113,3 @@ Cisco + Splunk + AppDynamics | Somerford Associates Limited | [Read More](https:
 | Fri, 08 Aug 2025 11:56:18 GMT | Cybersecurity Gaps: Most Brisbane Firms Still Ignore | Elevate | [Read More](https://medium.com/p/b7b66ccfcc5a) |
 | Fri, 08 Aug 2025 11:50:18 GMT | Cleaning Up Digital Privacy Never Ends | Jim Katzaman - Get Out of Debt | [Read More](https://medium.com/p/1a8e742f8ea2) |
 | Fri, 08 Aug 2025 11:49:43 GMT | The Next Generation Tool for Kubernetes Security | Guillermo Quiros | [Read More](https://medium.com/p/93b2bbe7f7ac) |
-| Fri, 08 Aug 2025 11:47:18 GMT | What is com.sec.unifiedwfc and How Does It Enhance Wi-Fi Calling | Cnvrtools | [Read More](https://medium.com/p/c69469267361) |
-| Fri, 08 Aug 2025 11:44:06 GMT | Post Office Protocol Version 3 (POP3): An In-Depth Technical Overview | Amir Hossein | [Read More](https://medium.com/p/c4a9523b888d) |
-| Fri, 08 Aug 2025 11:40:44 GMT | OTP Bypass Case-1 — How Weak Verification Can Be Exploited | Sheeba Koppolu | [Read More](https://medium.com/p/f363195564f9) |
-| Fri, 08 Aug 2025 11:33:16 GMT | Detecting Web Shells - TryHackMe Walkthrough | Mithilp | [Read More](https://medium.com/p/0fdb52a5b26f) |
-| Fri, 08 Aug 2025 11:31:40 GMT | Critical RCE Vulnerabilities in HashiCorp Vault and CyberArk Conjur: What GRC Professionals Need to… | Brittney Ginther | [Read More](https://medium.com/p/5916c704b806) |
-| Fri, 08 Aug 2025 11:27:04 GMT | CyberArk Secrets Manager Under Siege: Five New CVEs Expose Critical IAM and Code Execution Risks | gm0 | [Read More](https://medium.com/p/634ec74e70d7) |
-| Fri, 08 Aug 2025 11:24:38 GMT | The Major Steps In Auditing Cloud Security App | Qualysec | [Read More](https://medium.com/p/8672f908bc74) |
