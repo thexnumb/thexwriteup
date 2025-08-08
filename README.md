@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 22:12:17 GMT | Vidar’s Game: Infostealer in a Music App Costume with Lumma’s Touch | AlanKaliX | [Read More](https://medium.com/p/92956b8a8609) |
+| Fri, 08 Aug 2025 22:01:53 GMT | How AI Detects Insider Threats — No Code at Home | Shradhdha Bhalodia | [Read More](https://medium.com/p/f479beda6e6b) |
+| Fri, 08 Aug 2025 21:52:25 GMT | How I Hacked Essex MUD, Ran a ZX Spectrum BBS, and Got Wrecked by the Phone Bill | Peter Tompson | [Read More](https://medium.com/p/aa6fd45ff072) |
 | Fri, 08 Aug 2025 21:31:41 GMT | The Surprising Security Risks Hidden in Your Dev Dependencies | Bhagya Rana | [Read More](https://medium.com/p/5b8687aa8a2e) |
+| Fri, 08 Aug 2025 21:30:49 GMT | Changes to the Script — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/0898e8ed586d) |
 | Fri, 08 Aug 2025 21:29:27 GMT | The Windows Concept Journey — Microsoft Intune | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/fb982a25bbbd) |
 | Fri, 08 Aug 2025 21:29:10 GMT | Zombie Data: The Forgotten Files That Can Come Back to Haunt You | Akshay Chauhan | [Read More](https://medium.com/p/2edd2a1d74bc) |
 | Fri, 08 Aug 2025 21:23:19 GMT | Bypassing Jailbreak Detection in the No_Escape iOS App Using Frida | Youssefhussein | [Read More](https://medium.com/p/691c8c8c2c28) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 15:52:27 GMT | Grumpy McGrumpFace Goes to DEF CON | Ian Barwise | [Read More](https://medium.com/p/760b9a437f35) |
 | Fri, 08 Aug 2025 15:52:18 GMT | Beginner’s Guide to Cybersecurity in 2025: What I Wish I Knew When I Started | Astra | [Read More](https://medium.com/p/592407e66654) |
 | Fri, 08 Aug 2025 15:51:25 GMT | SIR, Cardex, and Hegic Exploited: Transient Storage Flaw, Leaked Signer, and Tranche Abuse Cost… | Olympix | [Read More](https://medium.com/p/e8d4867046e5) |
-| Fri, 08 Aug 2025 15:43:50 GMT | ️ How I Hacked My Own MERN App (And Found 7 Security Flaws You Should Fix Today) | Dev Diwan | [Read More](https://medium.com/p/95e851c8d65a) |
-| Fri, 08 Aug 2025 15:39:08 GMT | Top 10 Tech Websites of 2025 You Have to Bookmark Today | sana irshad | [Read More](https://medium.com/p/5857df043966) |
-| Fri, 08 Aug 2025 15:29:25 GMT | MUST-DO Docker Tricks to Secure your Docker Images Today | BecomeDevOps | [Read More](https://medium.com/p/7ff23b463000) |
-| Fri, 08 Aug 2025 15:29:05 GMT | The Zero-Trust Prompt: Re-thinking Identity in the Age of LLM Agents | YUSUFF ADENIYI GIWA | [Read More](https://medium.com/p/88583f144c1b) |
