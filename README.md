@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 19:33:23 GMT | What Is Cybersecurity? A Beginner’s Guide | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/60f182637d10) |
+| Fri, 08 Aug 2025 19:30:24 GMT | precious : hackthebox | Abdellah Lamine | [Read More](https://medium.com/p/52e12a840b0d) |
+| Fri, 08 Aug 2025 19:26:15 GMT | Bookstore | Taauxick | [Read More](https://medium.com/p/7029c173d3f4) |
+| Fri, 08 Aug 2025 19:23:13 GMT | 0-Click Account Takeover via OAuth Misconfiguration | Saeid Khater | [Read More](https://medium.com/p/24058cbee2a2) |
+| Fri, 08 Aug 2025 19:15:51 GMT | Why Security Matters So Much in Business Outsourcing — And How to Choose the Right Partner | CsMena | [Read More](https://medium.com/p/e6a560b98f92) |
 | Fri, 08 Aug 2025 19:11:51 GMT | precious : hackthebox | Abdellah Lamine | [Read More](https://medium.com/p/8c2dc3719da5) |
 | Fri, 08 Aug 2025 19:11:17 GMT | Patch Management: The Unsung Hero of Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/70fbb38f877f) |
+| Fri, 08 Aug 2025 19:10:11 GMT | Remote Code Execution via Polyglot Web Shell Upload | Ahmed Ibrahim | [Read More](https://medium.com/p/b7fb3192e9bd) |
 | Fri, 08 Aug 2025 19:04:34 GMT | SASE: The Future of Network Security for Modern Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/ca3cbb8f8d3a) |
 | Fri, 08 Aug 2025 19:01:44 GMT | Is Bitwarden Actually Worth It? 6 Months Later, It’s Essential | ItReviewHub | [Read More](https://medium.com/p/881822eaf0ff) |
 | Fri, 08 Aug 2025 19:01:14 GMT | 1st Time at DefCon? Don’t make same mistakes I made. | DuckWrites | [Read More](https://medium.com/p/645f48f11c1a) |
@@ -106,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 13:41:41 GMT | Jack of all trades, master of none… | Danny | [Read More](https://medium.com/p/113d1232b97e) |
 | Fri, 08 Aug 2025 13:32:00 GMT | BARIN BAYA NAGARI: SHEDAR DA ZAKA BARWA KAN KA A DUNIYAR INTANET | Safiyya Daba | [Read More](https://medium.com/p/89627f14e636) |
 | Fri, 08 Aug 2025 13:28:20 GMT | My Dual Adblocking Setup: AdGuard + ControlD = Champion Browsing | Brian Olson | [Read More](https://medium.com/p/2faf4e466e58) |
-| Fri, 08 Aug 2025 13:25:40 GMT | A Curated Collection of Animated Cybersecurity Diagrams — 2025 | Paul D. | [Read More](https://medium.com/p/0e4a151b9bfe) |
-| Fri, 08 Aug 2025 13:11:59 GMT | SQL Injection Web Security Academy Union attack & Blind SQL | Zodiac | [Read More](https://medium.com/p/6842b100dc56) |
-| Fri, 08 Aug 2025 13:10:02 GMT | The Complete Guide to Becoming a Full Stack Developer in 2025 | Kodeiq | [Read More](https://medium.com/p/77c1ed016e7e) |
-| Fri, 08 Aug 2025 13:09:07 GMT | SSI (Server Side Include)and SSI Injection | Zodiac | [Read More](https://medium.com/p/3b5053cdd52e) |
-| Fri, 08 Aug 2025 13:08:12 GMT | A Business & Competitive Edge:
-Cisco + Splunk + AppDynamics | Somerford Associates Limited | [Read More](https://medium.com/p/845e91551c2b) |
-| Fri, 08 Aug 2025 13:07:24 GMT | Top 10 Phishing Simulators 2025: Train Your Team, Outsmart Attackers | Keepnet Labs | [Read More](https://medium.com/p/04eb94faf0d5) |
