@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 12:48:38 GMT | OpenAI Unveils GPT-5: Its Most Advanced Artificial Intelligence Model | Marta Reyes | [Read More](https://medium.com/p/318d8bb4e473) |
+| Fri, 08 Aug 2025 12:44:26 GMT | Blast From The Past: A Roger Wilco Tribute | Namir Sagheenanajar | [Read More](https://medium.com/p/4032e4a4b21e) |
+| Fri, 08 Aug 2025 12:42:01 GMT | Sentences Hinting at Disappointment in Your Husband, Sentences Expressing Disappointment in Him | Ueiiowd | [Read More](https://medium.com/p/0db66d433644) |
+| Fri, 08 Aug 2025 12:41:42 GMT | Fast-track to Hyatt & AA status | Daily Drop | [Read More](https://medium.com/p/00072f947843) |
+| Fri, 08 Aug 2025 12:41:26 GMT | How to Use Termux in CTF Challenges and Hacking Labs | Kambetastephano | [Read More](https://medium.com/p/4960150e3c1b) |
+| Fri, 08 Aug 2025 12:35:07 GMT | How My Ego Got Hacked Before I Ever Cracked a System | Shahzaib | [Read More](https://medium.com/p/75a631062193) |
+| Fri, 08 Aug 2025 12:29:30 GMT | Hey, I’m AYUSH — a tech enthusiast from India exploring the intersection of programming… | Tech Circuit | [Read More](https://medium.com/p/bc8df75a03e4) |
+| Fri, 08 Aug 2025 12:29:08 GMT | Steel Security Doors Sydney — The Ultimate Protection for Your Home | Cannon Security Fabrication | [Read More](https://medium.com/p/7b51d2cd01dd) |
+| Fri, 08 Aug 2025 12:26:43 GMT | Next.js Hack Saldırılarından Korunma | Soner ER | [Read More](https://medium.com/p/bab6b911754f) |
+| Fri, 08 Aug 2025 12:22:44 GMT | High-Frequency Sound Cannons: A New Non-Lethal Deterrent for Security | Julien Garnier | [Read More](https://medium.com/p/02999b348b93) |
+| Fri, 08 Aug 2025 12:21:42 GMT | I Didn’t Know Who I Was Until I Learned to Love Myself First | Joseph Paulo | [Read More](https://medium.com/p/e3b7262f0ba9) |
+| Fri, 08 Aug 2025 12:20:18 GMT | 2025 Guide to $BUG Yield Generation on StakingRewards | BUG | [Read More](https://medium.com/p/3d4bfad7163f) |
+| Fri, 08 Aug 2025 12:11:16 GMT | Installing Proxmox VE Hypervisor on Old Hardware :Complete Guide | Bridget | [Read More](https://medium.com/p/a834a2936888) |
+| Fri, 08 Aug 2025 12:10:52 GMT | From Curiosity to Code: How I Landed in Android Security | sinisterchill | [Read More](https://medium.com/p/65032e1b6f6d) |
+| Fri, 08 Aug 2025 12:05:53 GMT | Why Cyber Quess is a Trusted Cybersecurity Solution Provider in India | Aarav Mehta | [Read More](https://medium.com/p/af1ba8896dbc) |
+| Fri, 08 Aug 2025 12:05:40 GMT | Easiest and simple walkthrough of  Micro-CMS v2 Hacker101 CTF | Grey | [Read More](https://medium.com/p/efa74c5ecc1c) |
+| Fri, 08 Aug 2025 12:02:32 GMT | Wisconsin Cuts Red Tape To Speed Up Nuclear Siting | Hasibul Islam | [Read More](https://medium.com/p/ad0704fb849c) |
+| Fri, 08 Aug 2025 12:00:01 GMT | AI Data Encryption: Techniques and Standards | Artificial Intelligence Details | [Read More](https://medium.com/p/22c027feb9c8) |
+| Fri, 08 Aug 2025 11:58:45 GMT | AI Security Protocols: Best Practices | Artificial Intelligence Details | [Read More](https://medium.com/p/deb2925c2feb) |
+| Fri, 08 Aug 2025 11:56:18 GMT | Cybersecurity Gaps: Most Brisbane Firms Still Ignore | Elevate | [Read More](https://medium.com/p/b7b66ccfcc5a) |
+| Fri, 08 Aug 2025 11:50:18 GMT | Cleaning Up Digital Privacy Never Ends | Jim Katzaman - Get Out of Debt | [Read More](https://medium.com/p/1a8e742f8ea2) |
+| Fri, 08 Aug 2025 11:49:43 GMT | The Next Generation Tool for Kubernetes Security | Guillermo Quiros | [Read More](https://medium.com/p/93b2bbe7f7ac) |
+| Fri, 08 Aug 2025 11:47:18 GMT | What is com.sec.unifiedwfc and How Does It Enhance Wi-Fi Calling | Cnvrtools | [Read More](https://medium.com/p/c69469267361) |
+| Fri, 08 Aug 2025 11:44:06 GMT | Post Office Protocol Version 3 (POP3): An In-Depth Technical Overview | Amir Hossein | [Read More](https://medium.com/p/c4a9523b888d) |
+| Fri, 08 Aug 2025 11:40:44 GMT | OTP Bypass Case-1 — How Weak Verification Can Be Exploited | Sheeba Koppolu | [Read More](https://medium.com/p/f363195564f9) |
 | Fri, 08 Aug 2025 11:33:16 GMT | Detecting Web Shells - TryHackMe Walkthrough | Mithilp | [Read More](https://medium.com/p/0fdb52a5b26f) |
 | Fri, 08 Aug 2025 11:31:40 GMT | Critical RCE Vulnerabilities in HashiCorp Vault and CyberArk Conjur: What GRC Professionals Need to… | Brittney Ginther | [Read More](https://medium.com/p/5916c704b806) |
 | Fri, 08 Aug 2025 11:27:04 GMT | CyberArk Secrets Manager Under Siege: Five New CVEs Expose Critical IAM and Code Execution Risks | gm0 | [Read More](https://medium.com/p/634ec74e70d7) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 08:58:56 GMT | Google Knows About the Dark Web. Should You? | Authlyn | [Read More](https://medium.com/p/c379235ca1a5) |
 | Fri, 08 Aug 2025 08:57:48 GMT | The AI Security Reality Check: Why 2025 Is Different | Mubasher Chaudhary | [Read More](https://medium.com/p/7543ffd75dbd) |
 | Fri, 08 Aug 2025 08:57:19 GMT | Cybersecurity for Nonprofits: Securing your Organization’s Data on a Budget | Aliza Khokhar | [Read More](https://medium.com/p/9d38a5f1419e) |
-| Fri, 08 Aug 2025 08:51:33 GMT | Defenseless by Design: Hackers Hijack Trusted Drivers to Kill Your Security | Pentestjunkie07 | [Read More](https://medium.com/p/0279b1b92b7e) |
-| Fri, 08 Aug 2025 08:48:17 GMT | My Life in Hot Reload: Kicking Off My Flutter Dev Blog | Ravi Savaliya | [Read More](https://medium.com/p/e421e0e62614) |
-| Fri, 08 Aug 2025 08:45:39 GMT | Data Breach Costs Soaring? Ouch, India… | CtrlC3 | [Read More](https://medium.com/p/202391cc92eb) |
-| Fri, 08 Aug 2025 08:41:58 GMT | Why Tokyo Feels So Safe (Even Late at Night) | Daiki Tanji | [Read More](https://medium.com/p/4fb0c7e634ae) |
-| Fri, 08 Aug 2025 08:40:55 GMT | How Managed SIEM Providers Outperform In-House Security | SecureSlate | [Read More](https://medium.com/p/263acf6f33b1) |
-| Fri, 08 Aug 2025 08:38:31 GMT | Full-Stack AI Development: What it is and how it is revolutionizing technology in 2025 | sana irshad | [Read More](https://medium.com/p/10472bc0a0d9) |
-| Fri, 08 Aug 2025 08:31:43 GMT | How I Became a University’s Worst Cybersecurity Nightmare And Forced an Upgrade | KonaN | [Read More](https://medium.com/p/d0cdf2494eaa) |
-| Fri, 08 Aug 2025 08:27:02 GMT | Advanced Correlation Scenarios and Threat Modeling in SOC | Esra Kayhan | [Read More](https://medium.com/p/035b4c76d629) |
-| Fri, 08 Aug 2025 08:26:27 GMT | Resolving NotEntitledException in self-hosted Elasticsearch | Veera Atukuri | [Read More](https://medium.com/p/64da406ff76a) |
-| Fri, 08 Aug 2025 08:18:13 GMT | How to Find the Best Proxy Websites: A Checklist for Quality | Ipflyproxy | [Read More](https://medium.com/p/ac25cbd5f0df) |
-| Fri, 08 Aug 2025 08:16:51 GMT | Black Pallet Wrap — The Unsung Hero of Cargo Security | Cvsales | [Read More](https://medium.com/p/448498b7cc8b) |
-| Fri, 08 Aug 2025 08:10:45 GMT | Why These Cybersecurity Books Are Bestselling Weapons | Aj | [Read More](https://medium.com/p/c180b592bf44) |
-| Fri, 08 Aug 2025 08:08:40 GMT | Bifrost Launches $500,000 Bug Bounty with Immunefi — One Critical Find Could Change Everything | Crypto Ser | [Read More](https://medium.com/p/39d3cbd30fbb) |
-| Fri, 08 Aug 2025 08:07:16 GMT | Best Practices for Securing Docker Containers | @rnab | [Read More](https://medium.com/p/eba17ba8223a) |
-| Fri, 08 Aug 2025 08:06:09 GMT | Cybersecurity Challenges IT Experts Face: Research Paper | Classes Place | [Read More](https://medium.com/p/2492ae5b9f28) |
-| Fri, 08 Aug 2025 08:01:47 GMT | Credential Stuffing: How One Stolen Password Can Unlock Thousands of Accounts | Alexandre Vandamme | [Read More](https://medium.com/p/3a38658c2df8) |
-| Fri, 08 Aug 2025 08:01:31 GMT | Universities Under Cyber Threat: Lessons from CitrixBleed 2 and the Importance of AI Firewalls in… | Sydeco Indonesia | [Read More](https://medium.com/p/b1b4783b877a) |
-| Fri, 08 Aug 2025 07:49:33 GMT | Which Red Hat Certification Is Best for Salary Hikes in 2025? | cyber security Updates | [Read More](https://medium.com/p/c1ea8b122ac4) |
-| Fri, 08 Aug 2025 07:43:13 GMT | Behind the Scenes: Our Journey to Achieving ISO Certification | Giant Swarm | [Read More](https://medium.com/p/af605404cab2) |
-| Fri, 08 Aug 2025 07:43:10 GMT | Building From Scratch : My Path to Something Big.. | Sricharan Reddy M | [Read More](https://medium.com/p/985b02b452dc) |
-| Fri, 08 Aug 2025 07:41:32 GMT | ISMAP Management Standards Chapter 11: Physical and Environmental Security — Securing Physical… | nolly | [Read More](https://medium.com/p/dc0a776627ce) |
-| Fri, 08 Aug 2025 07:39:10 GMT | Simple Examples of XSS (Cross-Site Scripting )Attack & How It’s Prevented ! | Vansh_Makkar | [Read More](https://medium.com/p/64adbb36a3e1) |
-| Fri, 08 Aug 2025 07:33:26 GMT | ChatGPT vs Stack Overflow: My Xcode Debugging Experience | Aman | [Read More](https://medium.com/p/8e0757d91cc3) |
-| Fri, 08 Aug 2025 07:25:47 GMT | End-to-End Alert Enrichment Automation | Manusiahiu | [Read More](https://medium.com/p/6a9edeb3092e) |
-| Fri, 08 Aug 2025 07:23:34 GMT | Domain Blocker Tool v1.3 | BnHany | [Read More](https://medium.com/p/e056bf3a1d88) |
