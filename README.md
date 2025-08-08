@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 21:14:49 GMT | A Social Engineering Attempt That Started Out as a Cat Sitting Request | Bethany Buffon | [Read More](https://medium.com/p/70dea9d35328) |
+| Fri, 08 Aug 2025 20:56:18 GMT | Winning the AI Supremacy Game: A Strategic Blueprint for Cyber-Defense in the Autonomous Age | Valdez Ladd | [Read More](https://medium.com/p/aa93e99da2a8) |
+| Fri, 08 Aug 2025 20:47:06 GMT | The Cyber Threat Landscape: An Evolving Challenge | Cyber Security Research | [Read More](https://medium.com/p/f81d4c1f1d55) |
+| Fri, 08 Aug 2025 20:45:19 GMT | The Ashen Heart Who Still Echoes | @aryxnn | [Read More](https://medium.com/p/6c5fc780a47a) |
+| Fri, 08 Aug 2025 20:45:14 GMT | Navigating the Cybersecurity Landscape: A Practical Guide | Cyber Security Research | [Read More](https://medium.com/p/7d0cd1ab2989) |
+| Fri, 08 Aug 2025 20:43:17 GMT | Cybersecurity Essentials: Securing Your Online Life | Cyber Security Research | [Read More](https://medium.com/p/56d137e811d2) |
+| Fri, 08 Aug 2025 20:41:27 GMT | Protecting Your Digital Assets: A Cybersecurity Handbook | Cyber Security Research | [Read More](https://medium.com/p/df51ba4b80c9) |
 | Fri, 08 Aug 2025 20:39:34 GMT | The Anatomy of a Cyberattack: Understanding the Threat | Cyber Security Research | [Read More](https://medium.com/p/7a0578e9d5f1) |
+| Fri, 08 Aug 2025 20:39:03 GMT | Find Leaked Secret Keys (OPENAI, DeepSeek, Ollama , HuggingFace) on Github | Zulqurnain Haider | [Read More](https://medium.com/p/d259d7051a9b) |
 | Fri, 08 Aug 2025 20:17:56 GMT | Apache Tomcat 8.5.19 - CVE-2017–12617 | Özcan Ersan | [Read More](https://medium.com/p/362fa7d17504) |
 | Fri, 08 Aug 2025 20:16:33 GMT | Double Trouble VulnHub Walkthrough: Step-by-Step Guide to Solving ‘Machine Inside a Machine’ for… | Prajwal | [Read More](https://medium.com/p/b89b3561407e) |
 | Fri, 08 Aug 2025 20:15:48 GMT | 10 Simple Cybersecurity Tips for Remote Workers | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/41961a4455ae) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 15:15:16 GMT | A New Dawn in Data: Powering Communities with EcoSynQ Micro Data Centers | Dena T | [Read More](https://medium.com/p/5176da91bc11) |
 | Fri, 08 Aug 2025 15:14:11 GMT | CVE-2025–53786: New Privilege Escalation in Microsoft Exchange Hybrid Deployments | RealSec.io | [Read More](https://medium.com/p/c09d7847abda) |
 | Fri, 08 Aug 2025 15:14:00 GMT | How to Use Frida for Android App Instrumentation: A Practical Guide | Ribik Khoteja | [Read More](https://medium.com/p/f1776dc5db50) |
-| Fri, 08 Aug 2025 15:00:36 GMT | Investigating with Splunk — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/68f0a5b1849b) |
-| Fri, 08 Aug 2025 14:51:55 GMT | Why I Ditched Google Authenticator After One Close Call | Shahzaib | [Read More](https://medium.com/p/0561d7e5a72b) |
-| Fri, 08 Aug 2025 14:45:32 GMT | Fewer bugs — more FPS: how static analysis benefits Unreal Engine projects | Unicorn Developer | [Read More](https://medium.com/p/9fd10c11bfba) |
-| Fri, 08 Aug 2025 14:32:55 GMT | Columbia University’s Data Breach Isn’t Just a Tech Glitch — It’s a Wake-Up Call | Dhruvdeep Singh | [Read More](https://medium.com/p/d40ba8a1ef5e) |
-| Fri, 08 Aug 2025 14:26:43 GMT | The Consequences of Clicking a DocuSign Phishing Link | Ai Writter Tools | [Read More](https://medium.com/p/356209269c89) |
-| Fri, 08 Aug 2025 14:22:28 GMT | How to Build a Cybersecurity Contingency Plan in 2025: Why You’re Already Behind | Sebbas | [Read More](https://medium.com/p/0f0c8d3029bb) |
-| Fri, 08 Aug 2025 14:13:45 GMT | API4:2023 — Unrestricted Resource Consumption | Apifort | [Read More](https://medium.com/p/2eebae70b505) |
-| Fri, 08 Aug 2025 14:05:53 GMT | A Critical Review of Seed Entropy in Computational Environments | Wendell Mouzali Ruiz | [Read More](https://medium.com/p/129da05defb2) |
