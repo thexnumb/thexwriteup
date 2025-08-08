@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 09:50:23 GMT | Top Cybersecurity Company in Bangalore : Why Init value Is Leading The Pack in 2025 | Pat Aditya | [Read More](https://medium.com/p/1eb7a85193f2) |
+| Fri, 08 Aug 2025 09:45:09 GMT | From Zero to Hero | Suhana Shaik | [Read More](https://medium.com/p/6ee8b6333aca) |
+| Fri, 08 Aug 2025 09:39:16 GMT | Digital marketing courses in Kochi | Sneha K | [Read More](https://medium.com/p/24f9db0ad3be) |
+| Fri, 08 Aug 2025 09:37:05 GMT | CTI Diaries — 1: Understanding Cyber Threat Intelligence | Deniz Topaloglu | [Read More](https://medium.com/p/da662fdc7ccd) |
+| Fri, 08 Aug 2025 09:35:16 GMT | Top Cyber Security Threats EveryStudent Should Be Aware Of in 2025 | Anagh off | [Read More](https://medium.com/p/ed0af684afc8) |
+| Fri, 08 Aug 2025 09:33:21 GMT | cyber security consulting services | CMS IT Services | [Read More](https://medium.com/p/896ed77e26b4) |
+| Fri, 08 Aug 2025 09:32:17 GMT | BH USA CTF ‘25 BlackHat USA 2025 CTF — MISC 1 Write-Up | Chordiyajiya | [Read More](https://medium.com/p/fb5ca06cac60) |
+| Fri, 08 Aug 2025 09:29:20 GMT | Account Takeover via Email Injection Tricks | 7error | [Read More](https://medium.com/p/db7701f3cddd) |
+| Fri, 08 Aug 2025 09:26:39 GMT | Data Security Awareness Initiatives in Bhopal | Aiswarya N | [Read More](https://medium.com/p/1d1fa07bb67b) |
+| Fri, 08 Aug 2025 09:25:04 GMT | Dork to find Laravel Debug Mode Enabled | AbhirupKonwar | [Read More](https://medium.com/p/253d1d1e97c8) |
+| Fri, 08 Aug 2025 09:24:46 GMT | My Journey with SafeLine: How I Secured My Websites Without Breaking the Bank | Quella | [Read More](https://medium.com/p/32ea88969b07) |
+| Fri, 08 Aug 2025 09:22:50 GMT | Who is next? | Barbascumpa Galina | [Read More](https://medium.com/p/973ae42adec7) |
 | Fri, 08 Aug 2025 09:20:52 GMT | Installing OWASP Juice Shop on an Offline OEL Server | Salimuy | [Read More](https://medium.com/p/79cefa46a041) |
 | Fri, 08 Aug 2025 09:20:37 GMT | NetXech: Safe or a Scam? What You Need to Know | SilentInject | [Read More](https://medium.com/p/03fb2d85a1ef) |
 | Fri, 08 Aug 2025 09:19:01 GMT | Why Proactive Threat Hunting Matters in Modern Cybersecurity | rakshith suvarna | [Read More](https://medium.com/p/3bd2a98344c5) |
@@ -101,15 +113,3 @@ Writing articles is a great way through which you can earn… | Meschain shelly 
 | Fri, 08 Aug 2025 03:57:23 GMT | CAPTCHA Is Dying – And AI Is the One Killing It | IamPreth | [Read More](https://medium.com/p/32070f775194) |
 | Fri, 08 Aug 2025 03:54:12 GMT | Microsoft Reveals Exchange Server Vulnerability Allowing Silent Cloud Access in Hybrid Environments | Aly Elvi | [Read More](https://medium.com/p/f3b2048a9680) |
 | Fri, 08 Aug 2025 03:54:02 GMT | Cyber Security Strategic Planning: Defining Security Goals | Cyber Security Research | [Read More](https://medium.com/p/9ad178789170) |
-| Fri, 08 Aug 2025 03:52:12 GMT | Cyber Security Governance: Overseeing Security Activities | Cyber Security Research | [Read More](https://medium.com/p/df2802e21df5) |
-| Fri, 08 Aug 2025 03:50:19 GMT | Cyber Security Frameworks: Providing a Structured Approach | Cyber Security Research | [Read More](https://medium.com/p/586c16e8f593) |
-| Fri, 08 Aug 2025 03:49:37 GMT | SafeLine vs AWS WAF: Flexibility or Out-of-the-Box Security? | AerieWhole123 | [Read More](https://medium.com/p/ed4f36210c3d) |
-| Fri, 08 Aug 2025 03:48:28 GMT | Cyber Security Standards: Defining Security Benchmarks | Cyber Security Research | [Read More](https://medium.com/p/eb4c988daa8e) |
-| Fri, 08 Aug 2025 03:46:41 GMT | Cyber Security Research: Advancing the Field of Security | Cyber Security Research | [Read More](https://medium.com/p/80afd0ce3d45) |
-| Fri, 08 Aug 2025 03:42:56 GMT | Cyber Security Certifications: Validating Security Expertise | Cyber Security Research | [Read More](https://medium.com/p/2c210919e1d1) |
-| Fri, 08 Aug 2025 03:42:50 GMT | Tea App Breach Leaks Thousands of Women’s IDs and Private Photos | SafetyDetectives Research Team | [Read More](https://medium.com/p/719963ee6d4e) |
-| Fri, 08 Aug 2025 03:40:58 GMT | Cyber Security Career Paths: Navigating the Security Landscape | Cyber Security Research | [Read More](https://medium.com/p/607e52c4f739) |
-| Fri, 08 Aug 2025 03:39:07 GMT | Cyber Security Leadership: Setting the Security Tone | Cyber Security Research | [Read More](https://medium.com/p/9fe6faa40c5f) |
-| Fri, 08 Aug 2025 03:35:24 GMT | WHATS YOUR NAME? TRYHACKME WRITE UP | Tuannh | [Read More](https://medium.com/p/bf794ff800b8) |
-| Fri, 08 Aug 2025 03:34:39 GMT | So Meta | Sohan Kanna D | [Read More](https://medium.com/p/711a16a4ccef) |
-| Fri, 08 Aug 2025 03:31:43 GMT | Microsoft Kills the Password: Welcome to the Passkey Era | Deven Chhajed | [Read More](https://medium.com/p/cc15f1c578ca) |
