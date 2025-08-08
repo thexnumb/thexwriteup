@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 Aug 2025 06:28:42 GMT | One Action, Endless Risks | Gautam Mengle | [Read More](https://medium.com/p/70619ff70780) |
+| Fri, 08 Aug 2025 06:26:29 GMT | The Corix Partners Friday Reading List — August 8, 2025 | JC Gaillard | [Read More](https://medium.com/p/d8131a67068d) |
+| Fri, 08 Aug 2025 06:24:44 GMT | Over Bank - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/41330f0707aa) |
+| Fri, 08 Aug 2025 06:18:42 GMT | How to Earn Money by Writing Articles
+Writing articles is a great way through which you can earn… | Meschain shelly | [Read More](https://medium.com/p/ed053fabcf75) |
+| Fri, 08 Aug 2025 06:05:07 GMT | Power Your Future with Techmindz’s Software & Cybersecurity Courses | Imayakochi | [Read More](https://medium.com/p/5c3893d68d70) |
+| Fri, 08 Aug 2025 06:04:48 GMT | Think Fast: How Auto-Complete Suggested Me Passwords That Weren’t Mine ᾒf | Iski | [Read More](https://medium.com/p/d5c26ad34a3a) |
+| Fri, 08 Aug 2025 06:03:17 GMT | Real-World Insights on Cybersecurity Certifications — from Sweden’s Security Community | Cathleene Sandgren | [Read More](https://medium.com/p/9c8628b000a2) |
+| Fri, 08 Aug 2025 06:02:54 GMT | The Problem With Always Having to Be Strong | Chinnu | [Read More](https://medium.com/p/95c0420b2599) |
+| Fri, 08 Aug 2025 06:00:37 GMT | Today’s Top Cyber Intelligence Highlights — Aug 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3e8d18de1ad9) |
+| Fri, 08 Aug 2025 05:59:51 GMT | Precision CCTV & Security Solutions | Quva India | [Read More](https://medium.com/p/c8cd1e8726fa) |
+| Fri, 08 Aug 2025 05:57:04 GMT | ️ Unlocking the Power of Interceptors in Spring Boot: Everything You Need to Know..‍✨ | Shubham Vartak | [Read More](https://medium.com/p/213e944ea0f5) |
+| Fri, 08 Aug 2025 05:53:02 GMT | Enroll in Kerala’s Leading Cyber Security Training Institute — Techmindz | Krishcochin | [Read More](https://medium.com/p/ca281659df2b) |
+| Fri, 08 Aug 2025 05:46:17 GMT | Red Team on a Budget: Testing Zero Trust Defences in Resource‑Constrained Environments | Engr Syed Saad Gilani | [Read More](https://medium.com/p/13c36569a185) |
+| Fri, 08 Aug 2025 05:44:38 GMT | Pen Testing Cryptographic Implementations: Where Secrets Slip | Bl@ckC!pH3r | [Read More](https://medium.com/p/89526543514c) |
+| Fri, 08 Aug 2025 05:43:39 GMT | How Softreey Powers Digital Transformation for IT, Insurance & Asset Management | Softreey | [Read More](https://medium.com/p/05eeb68e50f1) |
+| Fri, 08 Aug 2025 05:43:34 GMT | Bug Bounty Methodology for Finding Bugs Easily | Vipul Sonule | [Read More](https://medium.com/p/26e6bb3fc5a7) |
+| Fri, 08 Aug 2025 05:42:51 GMT | ECScape: The Amazon ECS Vulnerability That Lets Attackers Steal AWS Credentials from Neighboring… | IamPreth | [Read More](https://medium.com/p/530a9f58a724) |
+| Fri, 08 Aug 2025 05:42:39 GMT | Wireless Hacking: From Aircrack-ng to WPA3 | Aj | [Read More](https://medium.com/p/ec9ec6db34a5) |
+| Fri, 08 Aug 2025 05:40:39 GMT | How I Bypassed a Strict WAF Using SQL Injection Tricks | Ibtissam hammadi | [Read More](https://medium.com/p/b0a500b712d8) |
+| Fri, 08 Aug 2025 05:39:29 GMT | Open Sesame - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/190f295ea1b8) |
+| Fri, 08 Aug 2025 05:39:26 GMT | Hunting C2 Infrastructure with Shodan, Censys & VirusTotal — A Hands-On Guide | Paritosh | [Read More](https://medium.com/p/a1f67e9938de) |
+| Fri, 08 Aug 2025 05:28:54 GMT | Building High‑Performance Teams with Million Talents Tech: India’s Trusted Recruitment & IT… | Million Talents India Pvt. Ltd. | [Read More](https://medium.com/p/8c27ac4c2329) |
+| Fri, 08 Aug 2025 05:28:11 GMT | Day 25- Basics of Subsetting for beginners | unica 02 | [Read More](https://medium.com/p/d2768fd84122) |
+| Fri, 08 Aug 2025 05:22:46 GMT | Why Many Saudi Businesses Still Avoid Digital Marketing & Paid Ads | Yasir Ali | [Read More](https://medium.com/p/ff45ad430c7e) |
 | Fri, 08 Aug 2025 05:09:44 GMT | Real-World Benefits of Learning Cybersecurity in 2025 | Ann Maria | [Read More](https://medium.com/p/eff9472af3a4) |
 | Fri, 08 Aug 2025 05:07:23 GMT | AI vs. AI: How Artificial Intelligence is Shaping the Future of Cybersecurity | Ajay Verma | [Read More](https://medium.com/p/ed178fa83236) |
 | Fri, 08 Aug 2025 05:05:49 GMT | The Windows Process Journey — vmcompute.exe (Hyper-V Host Compute Service) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/01259486ab19) |
@@ -89,27 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 Aug 2025 20:42:04 GMT | How can blockchain technology address the challenges of GRC? | Myriam B. | [Read More](https://medium.com/p/a799298275b7) |
 | Thu, 07 Aug 2025 20:40:54 GMT | North Korean Hackers: The Games Are Over — This Is the Real Deal Now | 0trust0day | [Read More](https://medium.com/p/6d1f229459fd) |
 | Thu, 07 Aug 2025 20:24:23 GMT | Don’t Be Afraid To Say No To An Opportunity Others Would Die To Grab. | Levi Misenga | [Read More](https://medium.com/p/fd88bc3185ae) |
-| Thu, 07 Aug 2025 20:15:47 GMT | Trust and Proving Cybersecurity Value | Matthew.Rosenquist | [Read More](https://medium.com/p/5972b8f7478f) |
-| Thu, 07 Aug 2025 20:13:07 GMT | Paper Skin: vulnerability and truth | Tyra Elisebeth | [Read More](https://medium.com/p/5d445d82cdbe) |
-| Thu, 07 Aug 2025 20:12:15 GMT | Brute Forcing Wifi Password | Vrishabh Bhavsar | [Read More](https://medium.com/p/651ef1f10835) |
-| Thu, 07 Aug 2025 20:05:35 GMT | Fake TradingView AI Plugin Deploys NetSupport RAT | David Diefenderfer | [Read More](https://medium.com/p/c06028526f79) |
-| Thu, 07 Aug 2025 20:03:13 GMT | The Scariest Business In The World | Theneighborhoodplugman | [Read More](https://medium.com/p/d617333ed66c) |
-| Thu, 07 Aug 2025 20:01:55 GMT | Why Taiwan Matters More Than You Think | samayxpatel | [Read More](https://medium.com/p/371e8c0fac6e) |
-| Thu, 07 Aug 2025 19:43:07 GMT | Why SWIFT Matters in Today’s World — The Invisible backbone of Global Banking | Persis Tafflin | [Read More](https://medium.com/p/255dafdf21ea) |
-| Thu, 07 Aug 2025 19:40:13 GMT | Why AI Is Reshaping Cybersecurity in 2025? | PromptSecAI | [Read More](https://medium.com/p/3b47b274c96f) |
-| Thu, 07 Aug 2025 19:40:07 GMT | How to Gather Information From PHPInfo file ? | 0liverFlow | [Read More](https://medium.com/p/a38d4193c6f7) |
-| Thu, 07 Aug 2025 19:38:48 GMT | Why Enterprise Platform Security Fails: 3 Critical Flaws and How Modern Infrastructure Solves Them | Nicholas Thoni | [Read More](https://medium.com/p/7f41f0b1682d) |
-| Thu, 07 Aug 2025 19:29:44 GMT | Crypto, Love, and Lies: The Shocking Rise of Pig Butchering Scams | Akshay Chauhan | [Read More](https://medium.com/p/ed2176c81037) |
-| Thu, 07 Aug 2025 19:20:40 GMT | For the One Who Loves Quietly | Letters to the Fog | [Read More](https://medium.com/p/81563b2ba984) |
-| Thu, 07 Aug 2025 19:14:55 GMT | Getting Policies, Procedures, Standards & Guidelines right. | Steve Faust | [Read More](https://medium.com/p/e744f77e47ed) |
-| Thu, 07 Aug 2025 19:12:42 GMT | CVE‑2025‑53770 — SharePoint ToolShell Exploit | Radeonares | [Read More](https://medium.com/p/38a27abdf03f) |
-| Thu, 07 Aug 2025 19:11:50 GMT | Zoom Notes Phishing Abuse: How Attackers Exploit a Trusted Brand to Deliver Legitimate-Looking… | Chase Kester | [Read More](https://medium.com/p/67bd6f87b8c9) |
-| Thu, 07 Aug 2025 19:06:19 GMT | SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing | Kylaar Weathers | [Read More](https://medium.com/p/ebb21d227587) |
-| Thu, 07 Aug 2025 19:05:54 GMT | Protecting Your Digital Identity: Proven Strategies for Secure Logins | Deepak Gupta | [Read More](https://medium.com/p/5ddf3b20d80b) |
-| Thu, 07 Aug 2025 18:59:08 GMT | How to Connect Alfa adapter to Kali Virtual Machine | Vrishabh Bhavsar | [Read More](https://medium.com/p/c77033a953ec) |
-| Thu, 07 Aug 2025 18:57:58 GMT | Single vs Multiple API Calls: A Friendly Dev Chat Over Virtual Coffee | Vignaraj Ravi | [Read More](https://medium.com/p/88ec75944ab9) |
-| Thu, 07 Aug 2025 18:55:28 GMT | DAY 38 — Detecting Credential Exfil Scripts Using Regex + YARA | Jinay | [Read More](https://medium.com/p/7cc203c0dd73) |
-| Thu, 07 Aug 2025 18:55:01 GMT | Portswigger Web Security Academy - Race Conditions Lab #1 | BooRuleDie | [Read More](https://medium.com/p/ab379b081a40) |
-| Thu, 07 Aug 2025 18:51:54 GMT | My silence isn’t a cry for help. | Aoyon | [Read More](https://medium.com/p/2800dc3cd8af) |
-| Thu, 07 Aug 2025 18:51:01 GMT | Monitor HTTP Response Headers Like a Pro: Introducing Header Change Notifier for Burp Suite | Mohamed.cybersec | [Read More](https://medium.com/p/b1494028b4db) |
-| Thu, 07 Aug 2025 18:50:33 GMT | SAST vs. DAST: Decoding the Two Pillars of Application Security | Janith Sandamal | [Read More](https://medium.com/p/70f7d5934554) |
