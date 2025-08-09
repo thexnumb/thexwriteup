@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 11:28:33 GMT | ️ Intro to Detection Engineering — TryHackMe Walkthrough & Learning Guide | Furkanctiner | [Read More](https://medium.com/p/72140b8587b7) |
+| Sat, 09 Aug 2025 11:25:00 GMT | The Secret Behind Saudi Arabia’s Safest Businesses? Two Words: Axontec International | Zenecaastra | [Read More](https://medium.com/p/1233da1c1895) |
 | Sat, 09 Aug 2025 11:10:23 GMT | So You Think You Know “Auth”? | Kisalay | [Read More](https://medium.com/p/fafad8aa3f21) |
 | Sat, 09 Aug 2025 11:08:27 GMT | Finding Cross-site Scripting (XSS) Vulnerabilities and Mitigation Process | Abdus Satter | [Read More](https://medium.com/p/536b01700b5b) |
 | Sat, 09 Aug 2025 11:07:08 GMT | Prompt Injection → Token Overload → Denial of Service in LLM HTML Generator | MostReal | [Read More](https://medium.com/p/0f2ef42ff3e3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 05:18:46 GMT | Cybersecurity Compliance: Meeting Regulatory Requirements | Cyber Security Research | [Read More](https://medium.com/p/a20e3d8933bf) |
 | Sat, 09 Aug 2025 05:16:13 GMT | DNS over TLS (DoT) | DarKVoicE | [Read More](https://medium.com/p/66466f7d7373) |
 | Sat, 09 Aug 2025 05:11:18 GMT | AI Security: Addressing Detailed Vulnerabilities | Artificial Intelligence Details | [Read More](https://medium.com/p/d3cfc376e4be) |
-| Sat, 09 Aug 2025 05:11:17 GMT | ये हैं भारत की टॉप 10 आईटी कंपनियां — जिनकी सेवाएं दुनिया भर में चलती हैं, Top 10 IT Companies in… | A Company Details | [Read More](https://medium.com/p/a7cef9744ec6) |
-| Sat, 09 Aug 2025 05:10:06 GMT | Where Innovation Meets Affordability | techland maisha | [Read More](https://medium.com/p/bced951eb084) |
