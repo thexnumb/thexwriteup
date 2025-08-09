@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 09:19:35 GMT | Physics to Pen Testing? How to Reinvent Your Career | Authlyn | [Read More](https://medium.com/p/ef77e090d663) |
+| Sat, 09 Aug 2025 09:18:50 GMT | Masked Menace: How a Fake OAuth App and a Loose GraphQL Endpoint Stole the Real Keys | Iski | [Read More](https://medium.com/p/cec06ed964cd) |
+| Sat, 09 Aug 2025 09:18:22 GMT | ADB and Android Multi-user: Intended Feature or Security Gap? | Viral Vaghela | [Read More](https://medium.com/p/d357980978ce) |
+| Sat, 09 Aug 2025 09:11:46 GMT | Exposing SATCOM in the Sky: How Aircraft Systems Are Vulnerable to Remote Attacks — Analysis of… | hacker_might | [Read More](https://medium.com/p/a619d1d8c49a) |
+| Sat, 09 Aug 2025 09:00:24 GMT | Free Security Tools? Here Are the Gems I Swear By | Truspex | [Read More](https://medium.com/p/e39bb3ef13ea) |
+| Sat, 09 Aug 2025 09:00:08 GMT | Mobile Patrol Security Services in Hobart | Stateguard Protective Services | [Read More](https://medium.com/p/c4586a8db0c4) |
+| Sat, 09 Aug 2025 08:56:04 GMT | Born of Fear: How Society Shaped Our Deepest Anxieties | Randhir Jha | [Read More](https://medium.com/p/dc06dfef61fb) |
+| Sat, 09 Aug 2025 08:53:36 GMT | ❌Your frustrations or emotions could end up in front of millions of other users! | Marcello Iori | [Read More](https://medium.com/p/718ead054973) |
+| Sat, 09 Aug 2025 08:45:58 GMT | The Offline AI Assistant I Built for People Who Want Control Back. | Rohan Girdhani - The TechDoc | [Read More](https://medium.com/p/edac370d6455) |
 | Sat, 09 Aug 2025 08:45:34 GMT | The Dark Side of Cheap Hosting: Why Website Security Matters | HASAN MAHMUD | [Read More](https://medium.com/p/6d141c4d6a01) |
 | Sat, 09 Aug 2025 08:45:22 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/1a943cf3b74d) |
 | Sat, 09 Aug 2025 08:43:53 GMT | 10 Real Cybersecurity Hacking Scenarios Not Caused By Hackers | Motasem Hamdan | [Read More](https://medium.com/p/b60f0496d005) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 00:30:20 GMT | Understanding the MITRE ATT&CK Framework in Simple Terms | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/5c2310fc836d) |
 | Sat, 09 Aug 2025 00:18:06 GMT | When bad C code puts you behind bars (and bankrupts your company) | <devtips/> | [Read More](https://medium.com/p/adf4393ebab6) |
 | Sat, 09 Aug 2025 00:06:55 GMT | Introducing: The Intuition Network | 0xbilly | [Read More](https://medium.com/p/43b5be292ef0) |
-| Sat, 09 Aug 2025 00:01:45 GMT | Server-Side Request Forgery (SSRF — OWASP A10): A Complete Guide to Hacking and Bug Bounties | JPablo13 | [Read More](https://medium.com/p/0b8f0825f83c) |
-| Fri, 08 Aug 2025 23:57:44 GMT | How I LEGALLY HACKED a Company’s Telegram Bot during a Pentest | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/2935569bfbaf) |
-| Fri, 08 Aug 2025 23:33:29 GMT | Wrapping Up the Mobile Industry Trends Series with Cybersecurity Expert Eduardo Hennemann de… | Berkcan Alankoy | [Read More](https://medium.com/p/dba9168be47a) |
-| Fri, 08 Aug 2025 23:24:53 GMT | Hidden in Plain Code: Malicious Go & npm Packages That Can Wipe Your Machine | Cyber-AppSec | [Read More](https://medium.com/p/2f957eec4b6b) |
-| Fri, 08 Aug 2025 23:14:49 GMT | From Skilled to Exceptional: Why Pentesters Need Hacker Charisma | echosso | [Read More](https://medium.com/p/57f65f5ff194) |
-| Fri, 08 Aug 2025 22:58:48 GMT | FNN Just-N: Intel vs. Trump and the Surveillance Economy, a Short article | FNN News | [Read More](https://medium.com/p/714e74d91d68) |
-| Fri, 08 Aug 2025 22:55:47 GMT | Hack The Box “Code” Walkthrough (Beginner-Friendly Guide) | Canyon Cook | [Read More](https://medium.com/p/8b81106b59b6) |
-| Fri, 08 Aug 2025 22:30:21 GMT | What a Day to Launch: My Soul’s Work Begins | Brandi | [Read More](https://medium.com/p/f3f0c20402a0) |
-| Fri, 08 Aug 2025 22:27:59 GMT | Cyber is Dead | Shilo Hadad | [Read More](https://medium.com/p/5ce3f23e07af) |
