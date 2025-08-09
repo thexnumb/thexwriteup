@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 07:36:01 GMT | The Truth About Passwords: Why Complexity May be Your Key to Security | Security Inclined | [Read More](https://medium.com/p/dddef75ff151) |
+| Sat, 09 Aug 2025 07:27:50 GMT | The Red Users: Transforming the Digital Future with Innovation, Security, and Strategic Growth | The Red Users | [Read More](https://medium.com/p/dccb21211850) |
+| Sat, 09 Aug 2025 07:22:16 GMT | How Executive Protection Services in Florida Keep You Safe and Secure | Onyx Protective Services | [Read More](https://medium.com/p/e170501c32bc) |
 | Sat, 09 Aug 2025 07:09:50 GMT | [NULLED] Ransomware LockBit 3.0 Builder | coinjoin pro | [Read More](https://medium.com/p/74dd5c2c69bc) |
 | Sat, 09 Aug 2025 07:09:28 GMT | İnstagram hesabınızı xakerlərdən qorumağın yolları | Orkhan Jalalov | [Read More](https://medium.com/p/e17e74e8bc27) |
 | Sat, 09 Aug 2025 07:05:49 GMT | DNS — The Internet’s Address Book, Attack Surface & Bughunter’s Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/021ec78a68c6) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 21:23:19 GMT | Bypassing Jailbreak Detection in the No_Escape iOS App Using Frida | Youssefhussein | [Read More](https://medium.com/p/691c8c8c2c28) |
 | Fri, 08 Aug 2025 21:22:13 GMT | Deja vu (Poem) | Sebastian Manjarrez | [Read More](https://medium.com/p/7f128889808d) |
 | Fri, 08 Aug 2025 21:21:12 GMT | Dragons-are-Us Penetration Test Report — GOAD-Light Active Directory Lab Simulation (CTF-Style) | hazmatmonstarrr | [Read More](https://medium.com/p/5967f12e5fe1) |
-| Fri, 08 Aug 2025 21:14:49 GMT | A Social Engineering Attempt That Started Out as a Cat Sitting Request | Bethany Buffon | [Read More](https://medium.com/p/70dea9d35328) |
-| Fri, 08 Aug 2025 21:10:33 GMT | How to Qualify for BUG BUG Airdrops | BUG | [Read More](https://medium.com/p/177638c4f23b) |
-| Fri, 08 Aug 2025 20:56:18 GMT | Winning the AI Supremacy Game: A Strategic Blueprint for Cyber-Defense in the Autonomous Age | Valdez Ladd | [Read More](https://medium.com/p/aa93e99da2a8) |
