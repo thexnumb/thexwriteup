@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 08:18:01 GMT | Python AST — The Grammar Police That Stops Hackers | Siddiquimohammad | [Read More](https://medium.com/p/7f650f954daf) |
+| Sat, 09 Aug 2025 08:08:43 GMT | Mastering Cybersecurity Basics: Protect Yourself in the Digital World | Basit Zaman | [Read More](https://medium.com/p/6608f348f093) |
+| Sat, 09 Aug 2025 08:01:47 GMT | BYOD & Remote Work: More Devices, More Leaks | Alexandre Vandamme | [Read More](https://medium.com/p/7c1a11939105) |
+| Sat, 09 Aug 2025 07:49:28 GMT | not yet, but close | Unknown | [Read More](https://medium.com/p/d66db319006b) |
+| Sat, 09 Aug 2025 07:47:00 GMT | Why I’m learning SOC Level 1 | Mainekdeveloper | [Read More](https://medium.com/p/33ab244b3e62) |
+| Sat, 09 Aug 2025 07:46:18 GMT | OWASP Top 10 for Machine Learning (ML): A Complete Guide to Securing AI Systems | Serdar Gumus | [Read More](https://medium.com/p/0357ce35ae69) |
+| Sat, 09 Aug 2025 07:40:03 GMT | 7739552706.⚖️SCORE SCAN LOAN APP C U S T O M E R CARE helpline NUMBER.(❼O⓿) 7488858915 Call me | Mom Muriya | [Read More](https://medium.com/p/ce68d0b89cf4) |
 | Sat, 09 Aug 2025 07:36:01 GMT | The Truth About Passwords: Why Complexity May be Your Key to Security | Security Inclined | [Read More](https://medium.com/p/dddef75ff151) |
 | Sat, 09 Aug 2025 07:27:50 GMT | The Red Users: Transforming the Digital Future with Innovation, Security, and Strategic Growth | The Red Users | [Read More](https://medium.com/p/dccb21211850) |
 | Sat, 09 Aug 2025 07:22:16 GMT | How Executive Protection Services in Florida Keep You Safe and Secure | Onyx Protective Services | [Read More](https://medium.com/p/e170501c32bc) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 22:12:17 GMT | Vidar’s Game: Infostealer in a Music App Costume with Lumma’s Touch | AlanKaliX | [Read More](https://medium.com/p/92956b8a8609) |
 | Fri, 08 Aug 2025 22:01:53 GMT | How AI Detects Insider Threats — No Code at Home | Shradhdha Bhalodia | [Read More](https://medium.com/p/f479beda6e6b) |
 | Fri, 08 Aug 2025 21:52:25 GMT | How I Hacked Essex MUD, Ran a ZX Spectrum BBS, and Got Wrecked by the Phone Bill | Peter Tompson | [Read More](https://medium.com/p/aa6fd45ff072) |
-| Fri, 08 Aug 2025 21:31:41 GMT | The Surprising Security Risks Hidden in Your Dev Dependencies | Bhagya Rana | [Read More](https://medium.com/p/5b8687aa8a2e) |
-| Fri, 08 Aug 2025 21:30:49 GMT | Changes to the Script — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/0898e8ed586d) |
-| Fri, 08 Aug 2025 21:29:27 GMT | The Windows Concept Journey — Microsoft Intune | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/fb982a25bbbd) |
-| Fri, 08 Aug 2025 21:29:10 GMT | Zombie Data: The Forgotten Files That Can Come Back to Haunt You | Akshay Chauhan | [Read More](https://medium.com/p/2edd2a1d74bc) |
-| Fri, 08 Aug 2025 21:23:19 GMT | Bypassing Jailbreak Detection in the No_Escape iOS App Using Frida | Youssefhussein | [Read More](https://medium.com/p/691c8c8c2c28) |
-| Fri, 08 Aug 2025 21:22:13 GMT | Deja vu (Poem) | Sebastian Manjarrez | [Read More](https://medium.com/p/7f128889808d) |
-| Fri, 08 Aug 2025 21:21:12 GMT | Dragons-are-Us Penetration Test Report — GOAD-Light Active Directory Lab Simulation (CTF-Style) | hazmatmonstarrr | [Read More](https://medium.com/p/5967f12e5fe1) |
