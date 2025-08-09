@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 10:09:08 GMT | Six Attractive Behaviours That Seem Strange — Until You Realise How Powerful They Are | Vijay Kumar Gupta | [Read More](https://medium.com/p/89dca7575c5c) |
+| Sat, 09 Aug 2025 10:09:02 GMT | Cyber Security Protesting: Raising a Digital Voice | Cyberfortress solutions | [Read More](https://medium.com/p/dfc8578c6927) |
+| Sat, 09 Aug 2025 10:06:15 GMT | Part 3: Security Practices and Technologies | Harini Ganesan | [Read More](https://medium.com/p/41dd6b4efa9d) |
+| Sat, 09 Aug 2025 10:01:46 GMT | Is This Marketing? | Elizabeth Jude | [Read More](https://medium.com/p/5e33b1c1c229) |
+| Sat, 09 Aug 2025 09:59:49 GMT | No Browser, No Noise — How I Found 3 Bugs Using Censys (Zero → Master Playbook) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/64d50bfab0d0) |
+| Sat, 09 Aug 2025 09:55:08 GMT | The QR Code Scam at My Favorite Coffee Shop | Shahzaib | [Read More](https://medium.com/p/abf03a9d8918) |
+| Sat, 09 Aug 2025 09:54:35 GMT | Censys Chronicles: How I Found 3 Bugs Without Touching a Browser” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5745affb9f64) |
+| Sat, 09 Aug 2025 09:49:50 GMT | How the Butterfly Effect Shapes Cybersecurity And Why Tiny Flaws Can Wreck Your Systems | TheCyberSalad | [Read More](https://medium.com/p/51f411c0690d) |
+| Sat, 09 Aug 2025 09:48:50 GMT | Who do we write for? | Bboneus Skids | [Read More](https://medium.com/p/55750ff6f15d) |
+| Sat, 09 Aug 2025 09:47:01 GMT | ️ Kernel Module Security and Intrusion Detection on Linux | Esra Kayhan | [Read More](https://medium.com/p/c831288ec814) |
+| Sat, 09 Aug 2025 09:45:20 GMT | Écran Dell Pro 22 — E2225HM | myinfoshop | [Read More](https://medium.com/p/1c39e170e8d8) |
+| Sat, 09 Aug 2025 09:43:20 GMT | The Future of Cybersecurity | Aj | [Read More](https://medium.com/p/477d6a29e8b4) |
+| Sat, 09 Aug 2025 09:42:55 GMT | How come I falter to be eloquent in the language of poetry when I’ve been fluent in the language of… | mireya. | [Read More](https://medium.com/p/402decb5b5ea) |
+| Sat, 09 Aug 2025 09:38:53 GMT | VPN=prison. Top countries where using a VPN could land you in prison. | 0trust0day | [Read More](https://medium.com/p/052e57f1003a) |
 | Sat, 09 Aug 2025 09:35:52 GMT | The Best Integrated Lease Management Software In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/6160c4d83290) |
+| Sat, 09 Aug 2025 09:34:18 GMT | What Skinwalker Ranch Might Be Teaching Us About the Next Stages of Cyberwarfare | Leo | [Read More](https://medium.com/p/00b0c546b3c8) |
 | Sat, 09 Aug 2025 09:32:49 GMT | Meterpreter MIA? Troubleshooting Your Hacker Handshake | SilentInject | [Read More](https://medium.com/p/c0b41e39fcc3) |
 | Sat, 09 Aug 2025 09:32:46 GMT | Defending Against Modern Cyber Attacks with Strategy and Technology | Zeenya | [Read More](https://medium.com/p/16415e296c71) |
 | Sat, 09 Aug 2025 09:30:01 GMT | Chatbots: Spiralpost | Anthony Repetto | [Read More](https://medium.com/p/61f33fa1f421) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 03:10:05 GMT | The Art of Anonymity: Why Data Masking is a Modern Business Imperative | Nitesh Upadhyay | [Read More](https://medium.com/p/1d773296d37c) |
 | Sat, 09 Aug 2025 03:02:31 GMT | Caso Celsia: Campaña de phishing detectada y reportada | ANDES Shield | [Read More](https://medium.com/p/f2987f7c39df) |
 | Sat, 09 Aug 2025 03:00:18 GMT | How I pass OSCP | Wug | [Read More](https://medium.com/p/bfde85ca919e) |
-| Sat, 09 Aug 2025 02:47:25 GMT | Try Hack Me — Ignite | The Outsider | [Read More](https://medium.com/p/a5c253458fcb) |
-| Sat, 09 Aug 2025 02:42:43 GMT | When Your Courtroom Has a Backdoor: The U.S. Judiciary’s Quiet Cyber Crisis | Dhruvdeep Singh | [Read More](https://medium.com/p/1f364e5ec91e) |
-| Sat, 09 Aug 2025 02:41:02 GMT | How I Took Control of My Passwords with a Free Self-Hosted Solution | Likhith | [Read More](https://medium.com/p/f5fe9dba9bca) |
-| Sat, 09 Aug 2025 02:40:44 GMT | Crying, Rambling, and Trying to Figure Out How to Respect Myself | D.M. | [Read More](https://medium.com/p/95d8ac94389a) |
-| Sat, 09 Aug 2025 02:25:10 GMT | Exploitation — When the Party Turns Wild (And Not in a Fun Way) | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/a3033be458db) |
-| Sat, 09 Aug 2025 02:06:12 GMT | "How a Missing Email Verification Can Lock You Out Forever" | Madhan | [Read More](https://medium.com/p/7b4b6a3631e7) |
-| Sat, 09 Aug 2025 02:00:18 GMT | ️ Stage 5 — Installation: When the Bad Guys Unpack Their Bags | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/fa4dcaa3a21d) |
-| Sat, 09 Aug 2025 01:47:40 GMT | The Fastest Way to Set Up PostgreSQL for Devs | Rizqi Mulki | [Read More](https://medium.com/p/0ace3274fe60) |
-| Sat, 09 Aug 2025 01:44:30 GMT | 10 Free Tools Every Aspiring Cybersecurity Pro Should Use to Build Real Skills | Virginia Nelai | [Read More](https://medium.com/p/f058dd964afd) |
-| Sat, 09 Aug 2025 01:43:34 GMT | The Future of AI Governance: An Analytical Article | CCD-IS | [Read More](https://medium.com/p/c92646ff2fa0) |
-| Sat, 09 Aug 2025 01:36:44 GMT | A Security Guide to the Crypto Galaxy | Dexaran | [Read More](https://medium.com/p/1fe94320cb0c) |
-| Sat, 09 Aug 2025 01:33:20 GMT | AWS EKS Networking Issues: NAT Gateway Complexity | Muhammed Akintola | [Read More](https://medium.com/p/ed7e64b978c1) |
-| Sat, 09 Aug 2025 01:23:44 GMT | Ten Free Tools Every Aspiring Cybersecurity Pro Should Use to Build Real Skills | Virginia Nelai | [Read More](https://medium.com/p/248064d94e3f) |
-| Sat, 09 Aug 2025 01:22:53 GMT | From Zero to Hero: The Information Gathering Playbook Hackers Don’t Want You to Read | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/6c3dac1d8a6d) |
-| Sat, 09 Aug 2025 01:20:18 GMT | DNSSEC Explained | DarKVoicE | [Read More](https://medium.com/p/2e76ef993984) |
