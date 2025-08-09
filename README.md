@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 18:54:57 GMT | Beyond the Hype: Critical Security Vulnerabilities in Large Language Models | CT Chidambaram | [Read More](https://medium.com/p/854fe871923e) |
 | Sat, 09 Aug 2025 18:50:23 GMT | MAL: Malware Introductory TryHackMe Writeup | theOrthodox | [Read More](https://medium.com/p/360f21f8ffc8) |
+| Sat, 09 Aug 2025 18:45:28 GMT | Why the Next Big Shift in Tech Could Be All About Digital Ownership | Aliciasierra | [Read More](https://medium.com/p/9e5d89b61740) |
 | Sat, 09 Aug 2025 18:44:02 GMT | From Telemetry to Signals: Designing Detections with an Audience in Mind | Nasreddine Bencherchali | [Read More](https://medium.com/p/5faa3ec77b44) |
 | Sat, 09 Aug 2025 18:40:14 GMT | How to Set Up a Secure Home Network from Scratch | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/693519d90b36) |
 | Sat, 09 Aug 2025 18:39:02 GMT | Infographic Designer | Saraswathi K | [Read More](https://medium.com/p/f089d361441b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 12:09:40 GMT | Sensitive information of hundreds of individuals is publicly accessible on a web application… | Nasrin | [Read More](https://medium.com/p/2c320d871c36) |
 | Sat, 09 Aug 2025 12:01:08 GMT | Der ultimative Data Visualization Roadmap 2025: Wie Unternehmen durch strategische… | Philip Hansen | [Read More](https://medium.com/p/d1042f69cec1) |
 | Sat, 09 Aug 2025 11:59:32 GMT | Linux Privilege Escalation for Beginners Part 1, SYSTEM ENUMERATION: | Muhammadhuzaifa | [Read More](https://medium.com/p/80800ff49923) |
-| Sat, 09 Aug 2025 11:57:15 GMT | Flying Blind: The Data Skills Gap That Puts Your Security at Risk | Christina Irick | [Read More](https://medium.com/p/087de1f2e268) |
-| Sat, 09 Aug 2025 11:57:00 GMT | The Bedroom Is Where Most People Finally Show Who They Really Are | X-Plain | [Read More](https://medium.com/p/ce069fa5d29a) |
