@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 04:37:28 GMT | Amazon’s $52 Outdoor Security Camera: Fantastic Clarity at 43% Off | ARK Writes | [Read More](https://medium.com/p/d1eea097e7ec) |
+| Sat, 09 Aug 2025 04:36:01 GMT | Unexpected Input Caused Functionality Confusion — How I Discovered a P4 Bug with Real Impact | Mohamed Said Ibrahim | [Read More](https://medium.com/p/4a7af7fec7e3) |
+| Sat, 09 Aug 2025 04:32:22 GMT | Strengthening EKS Cluster Security with Wiz Integration | Ranjan K | [Read More](https://medium.com/p/ce693d52ef00) |
+| Sat, 09 Aug 2025 04:23:46 GMT | Inside the Work of India’s Top Cyber Forensic Expert — G Vimal Kumar | G Vimal Kumar CTO Cyber Privilege | [Read More](https://medium.com/p/55a4b7024daa) |
+| Sat, 09 Aug 2025 04:22:24 GMT | HTTPS & Certificates: Why Secure Websites Still Get Hacked | amit kumar | [Read More](https://medium.com/p/4d3ff1a8e8f8) |
 | Sat, 09 Aug 2025 03:41:26 GMT | How I Passed the eJPT in 2 Months Without Losing My Mind (Or My Weekend) | Rue | [Read More](https://medium.com/p/804d69edaeb6) |
 | Sat, 09 Aug 2025 03:33:20 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/1a98a3897a68) |
 | Sat, 09 Aug 2025 03:31:57 GMT | Subscribed and Scammed: The New Wave of Online Fraud | Deven Chhajed | [Read More](https://medium.com/p/a5841e5f6ec3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 18:44:22 GMT | Bypassing UI Restrictions to Rename an Organization by Request Manipulation | Kerolos Ayman | [Read More](https://medium.com/p/393a972636a2) |
 | Fri, 08 Aug 2025 18:41:46 GMT | SIEM Solutions: Your Frontline Defense in Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/9c0f622d2380) |
 | Fri, 08 Aug 2025 18:39:50 GMT | Why XNSPY is Rated the Best Spy App for Phone Monitoring | Narjis Batool | [Read More](https://medium.com/p/3a22c955f102) |
-| Fri, 08 Aug 2025 18:35:56 GMT | Introduction: Mastering AWS Security Monitoring with Real-Time Data Sources | Shamith S | [Read More](https://medium.com/p/e3509bbfaa39) |
-| Fri, 08 Aug 2025 18:35:00 GMT | Part 2: The Core Protocols That Power the Internet | ABDULLAH N KAMARUDHEEN | [Read More](https://medium.com/p/bd345d5eefa1) |
-| Fri, 08 Aug 2025 18:34:13 GMT | 5 Things to Look For in a CVE Remediation Platform | Sophia Perez | [Read More](https://medium.com/p/fd994a875c13) |
-| Fri, 08 Aug 2025 18:31:30 GMT | When Surveillance Turns Against Us: Axis Camera Flaws Create Global Security Crisis. | eL Njas!™ | [Read More](https://medium.com/p/a3ad9b1b16ac) |
-| Fri, 08 Aug 2025 18:30:23 GMT | Week 1 of My 90-Day Challenge: The Journey Begins! | Mike (sl0th0x87) | [Read More](https://medium.com/p/0675c0f9ddc2) |
