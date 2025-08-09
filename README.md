@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 18:50:23 GMT | MAL: Malware Introductory TryHackMe Writeup | theOrthodox | [Read More](https://medium.com/p/360f21f8ffc8) |
+| Sat, 09 Aug 2025 18:44:02 GMT | From Telemetry to Signals: Designing Detections with an Audience in Mind | Nasreddine Bencherchali | [Read More](https://medium.com/p/5faa3ec77b44) |
+| Sat, 09 Aug 2025 18:40:14 GMT | How to Set Up a Secure Home Network from Scratch | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/693519d90b36) |
+| Sat, 09 Aug 2025 18:39:02 GMT | Infographic Designer | Saraswathi K | [Read More](https://medium.com/p/f089d361441b) |
+| Sat, 09 Aug 2025 18:31:20 GMT | How AI is Shaping Tomorrow’s Cyber Defence | Ayesha Saleem | [Read More](https://medium.com/p/f73994cb6aa5) |
+| Sat, 09 Aug 2025 18:29:44 GMT | Living Off the Land: Turning Trusted Tools into Silent Weapons | Shadow Packet | [Read More](https://medium.com/p/7a3da45ea004) |
 | Sat, 09 Aug 2025 18:28:13 GMT | Pentesting Fundamentals - Tryhackme | Atakan Bitim | [Read More](https://medium.com/p/fd951312ffa4) |
+| Sat, 09 Aug 2025 18:25:50 GMT | WinDirStat: The Visual Tool That Tells You Exactly What’s Eating Your Windows Hard Drive | Danielle Favreau | [Read More](https://medium.com/p/79d74d92c3ba) |
+| Sat, 09 Aug 2025 18:23:54 GMT | GLITCH - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/30978b63df29) |
 | Sat, 09 Aug 2025 18:14:06 GMT | 0click Account Take over via Auth0 | Ahmed Mahmoued | [Read More](https://medium.com/p/3a39cbe080cc) |
 | Sat, 09 Aug 2025 18:09:33 GMT | Into Linux and Networking | P R ROHITH | [Read More](https://medium.com/p/9679482fdaab) |
 | Sat, 09 Aug 2025 18:07:35 GMT | Breaking into cybersecurity isn’t always a straight line. | Gayatri Nakar | [Read More](https://medium.com/p/0bcce49ad9aa) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 11:59:32 GMT | Linux Privilege Escalation for Beginners Part 1, SYSTEM ENUMERATION: | Muhammadhuzaifa | [Read More](https://medium.com/p/80800ff49923) |
 | Sat, 09 Aug 2025 11:57:15 GMT | Flying Blind: The Data Skills Gap That Puts Your Security at Risk | Christina Irick | [Read More](https://medium.com/p/087de1f2e268) |
 | Sat, 09 Aug 2025 11:57:00 GMT | The Bedroom Is Where Most People Finally Show Who They Really Are | X-Plain | [Read More](https://medium.com/p/ce069fa5d29a) |
-| Sat, 09 Aug 2025 11:53:44 GMT | From Hacker to Hacked? Reverse Engineering a Malicious Python Script Like Pro | Aditya Bhatt | [Read More](https://medium.com/p/bc22fe17840f) |
-| Sat, 09 Aug 2025 11:53:16 GMT | How I Passed the eJPT Exam — My Journey Into Practical Pentesting | Kizito Arinze Chukwu | [Read More](https://medium.com/p/f456d67f6b95) |
-| Sat, 09 Aug 2025 11:52:09 GMT | OT Güvenliğine Giriş: NIST Rehberi Üzerinden Kendi Notlarım | Yaren Karakus | [Read More](https://medium.com/p/6dc12eabb141) |
-| Sat, 09 Aug 2025 11:51:25 GMT | Drosera Network: Building a Decentralized Security System for Web3 | Toji01 | [Read More](https://medium.com/p/88230dd46d17) |
-| Sat, 09 Aug 2025 11:39:27 GMT | On Situationships: Forgiving the Heart That Stayed Too Long | hea | [Read More](https://medium.com/p/aefb279cd1b6) |
-| Sat, 09 Aug 2025 11:39:06 GMT | DockerLabs Writeup — PingPong (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3671a1d000b2) |
-| Sat, 09 Aug 2025 11:36:50 GMT | Project #2: Building a Network Topology Using Enhanced Interior Gateway Routing Protocol (EIGRP)… | NSESean | [Read More](https://medium.com/p/718f51211e8c) |
-| Sat, 09 Aug 2025 11:28:33 GMT | ️ Intro to Detection Engineering — TryHackMe Walkthrough & Learning Guide | Furkanctiner | [Read More](https://medium.com/p/72140b8587b7) |
