@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 16:42:51 GMT | Dynamic Malware Analysis : Watch Malware Reveal Its Secrets — LIVE! | Paritosh | [Read More](https://medium.com/p/98ad5426e678) |
+| Sat, 09 Aug 2025 16:26:39 GMT | Linux Privilege Escalation for Beginners Part 3, NETOWRK ENUMERATION: | Muhammadhuzaifa | [Read More](https://medium.com/p/dcbbbc8aabfc) |
+| Sat, 09 Aug 2025 16:23:42 GMT | From Browser to Shell: Hacking the Edex-UI Terminal | Abdelrhman Zayed | [Read More](https://medium.com/p/7dfe757893fe) |
+| Sat, 09 Aug 2025 16:21:55 GMT | Zaafların Peşinden Koşmak | Nuri Sencer | [Read More](https://medium.com/p/dc93b8361d25) |
 | Sat, 09 Aug 2025 16:17:16 GMT | Why Every Dev Needs a Security Stethoscope (And I have Built One) | Vedanta Banerjee | [Read More](https://medium.com/p/3758178d6844) |
 | Sat, 09 Aug 2025 16:10:47 GMT | Books that Helped Shape my Digital Forensic Education | Travis Murphy | [Read More](https://medium.com/p/5167ca3a5c42) |
 | Sat, 09 Aug 2025 16:06:43 GMT | CTF Write-Up: Injector — Machines | Marwan Alsaifi | [Read More](https://medium.com/p/1454f0886184) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 10:32:11 GMT | Dont know where to start, info overload ? | Mr. Bones | [Read More](https://medium.com/p/82ae1ea72cf3) |
 | Sat, 09 Aug 2025 10:30:07 GMT | Vault Fault Exposes Critical Logic Flaws in CyberArk and HashiCorp Secrets Managers | Jasmitharouthu | [Read More](https://medium.com/p/f2c79c5e65a4) |
 | Sat, 09 Aug 2025 10:28:37 GMT | The Wonder of Hash: SHA-256, Pedersen and Poseidon | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e64cfdece7ce) |
-| Sat, 09 Aug 2025 10:27:54 GMT | The Chandigarh Cybersecurity Secret is Out!! | Cbitss | [Read More](https://medium.com/p/22a9defe9cfe) |
-| Sat, 09 Aug 2025 10:27:27 GMT | Top 20 Direct Jailbreaking Use Cases for LLM Pentesting | Cipher Phreak | [Read More](https://medium.com/p/7220bbf74569) |
-| Sat, 09 Aug 2025 10:09:08 GMT | Six Attractive Behaviours That Seem Strange — Until You Realise How Powerful They Are | Vijay Kumar Gupta | [Read More](https://medium.com/p/89dca7575c5c) |
-| Sat, 09 Aug 2025 10:09:02 GMT | Cyber Security Protesting: Raising a Digital Voice | Cyberfortress solutions | [Read More](https://medium.com/p/dfc8578c6927) |
