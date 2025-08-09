@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 21:18:39 GMT | Interested In Cybersecurity? Wanna Be A Hacker? | grepStrength | [Read More](https://medium.com/p/fd8931248180) |
+| Sat, 09 Aug 2025 21:15:34 GMT | Silent Breach lab — Cyberdefenders | Zen | [Read More](https://medium.com/p/de8f2ea2a3b7) |
+| Sat, 09 Aug 2025 21:07:14 GMT | My Accidental Bug Bounty from a Random Query | Ibtissam hammadi | [Read More](https://medium.com/p/b8ae134158ed) |
+| Sat, 09 Aug 2025 21:04:20 GMT | The Rising Threat to CEOs: A Crisis of Blame and Distraction | Kevin Kelly | [Read More](https://medium.com/p/a31c7e166da2) |
+| Sat, 09 Aug 2025 20:55:28 GMT | Analyzing UAC‑0099 Tactics, Techniques, and Procedures (2023–2025) | SIMKRA | [Read More](https://medium.com/p/296f6ad672fc) |
+| Sat, 09 Aug 2025 20:44:11 GMT | Zero-Trust Runtime Security: Container Runtime Attestation | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/428c5f05c3d8) |
+| Sat, 09 Aug 2025 20:43:06 GMT | Day4 Recon: Hunting Hidden Attack Surfaces , using Nmap, Masscan & Dirsearch for Service &… | Ayush Kumar | [Read More](https://medium.com/p/c623de2fcdf6) |
 | Sat, 09 Aug 2025 20:30:48 GMT | Project #3: Building an OSPF IPv6 Network Topology with CML | NSESean | [Read More](https://medium.com/p/da2b2d574abe) |
 | Sat, 09 Aug 2025 20:17:58 GMT | Tools for Malware Analysis and Reverse Engineering | Cosmos | [Read More](https://medium.com/p/d0bd376a0186) |
 | Sat, 09 Aug 2025 20:15:01 GMT | Revisiting the MCP Protocol: Deep Security Dive Across Real-World Vulnerabilities | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/51fa1d1d102f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 13:37:10 GMT | Securing Agentic AI Applications — A Complete OWASP-Based Guide | Jadala Ajay | [Read More](https://medium.com/p/5454659973dd) |
 | Sat, 09 Aug 2025 13:35:08 GMT | File Created with Incorrect Permissions Vulnerability : Java & Python Security Guide | Ajay Monga | [Read More](https://medium.com/p/b1f7d88c8187) |
 | Sat, 09 Aug 2025 13:34:58 GMT | Impact of AI on the Pentesting Industry | Nikhilesh Singh | [Read More](https://medium.com/p/4e953915d0fd) |
-| Sat, 09 Aug 2025 13:23:56 GMT | 6 Authentication Systems your Developers are not thinking about | Martin Thoma | [Read More](https://medium.com/p/5fcbc6510b0c) |
-| Sat, 09 Aug 2025 13:23:52 GMT | Cloud Computing Explained in Simple Terms | Repa Kustipia | [Read More](https://medium.com/p/8694efb586eb) |
-| Sat, 09 Aug 2025 13:15:57 GMT | BlueSky Ransomware Lab-WriteUp(Cyber Defenders) | Rac00nman | [Read More](https://medium.com/p/1e306149d522) |
-| Sat, 09 Aug 2025 13:08:24 GMT | Cron Path Escalation (Privilege Escalation for Linux) | Ammar Ahmed | [Read More](https://medium.com/p/4f058ecaf630) |
-| Sat, 09 Aug 2025 13:00:32 GMT | TheHackersLabs — Dragon [Write-Up] | APS88 | [Read More](https://medium.com/p/1026a784d475) |
-| Sat, 09 Aug 2025 12:53:13 GMT | Business Intelligence Dashboards 2025: Der ultimative Strategische Roadmap für datengetriebenen… | Philip Hansen | [Read More](https://medium.com/p/bd408f62c694) |
-| Sat, 09 Aug 2025 12:48:41 GMT | From Legacy Transformation to Agile AI: How the FinTech Industry Can Accelerate Value Realization | Suchitra Deo | [Read More](https://medium.com/p/9f685402d569) |
