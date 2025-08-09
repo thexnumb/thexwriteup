@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 05:42:29 GMT | Tokenization & how it secures your payment — A stripe case study | Debashis Debnath | [Read More](https://medium.com/p/654f94bb751b) |
+| Sat, 09 Aug 2025 05:38:25 GMT | Project Ire: Microsoft’s AI Sentinel Against Malware | Jacky Kapadia | [Read More](https://medium.com/p/664772d099d1) |
+| Sat, 09 Aug 2025 05:35:27 GMT | Single API Key from a Chrome Extension Led to 5.2 Million Exposed Customer Records | Erkan Kavas | [Read More](https://medium.com/p/0cc81545a7a8) |
+| Sat, 09 Aug 2025 05:31:43 GMT | Cybersecurity Forensics: Investigating Cybercrimes | Cyber Security Research | [Read More](https://medium.com/p/97f644e4b49f) |
+| Sat, 09 Aug 2025 05:31:38 GMT | Bypassing 403 & 401 Errors: All Hacker Techniques Revealed | Vipul Sonule | [Read More](https://medium.com/p/0709ddfa99af) |
+| Sat, 09 Aug 2025 05:31:28 GMT | Bots Move Like Us Now — CAPTCHAs Are Losing the War | Techscribe Central | [Read More](https://medium.com/p/6de3010187b2) |
+| Sat, 09 Aug 2025 05:31:09 GMT | Hacked in Your Hand: The Fight Against Mobile Malware | Sandeep Saxena | [Read More](https://medium.com/p/fed1bb92083d) |
+| Sat, 09 Aug 2025 05:30:20 GMT | Phishing Isn’t Just Emails Anymore | Shahzaib | [Read More](https://medium.com/p/2ca59d379bcf) |
+| Sat, 09 Aug 2025 05:29:53 GMT | The Future of Cybersecurity: Emerging Trends and Technologies | Cyber Security Research | [Read More](https://medium.com/p/015245a175dc) |
+| Sat, 09 Aug 2025 05:26:13 GMT | Honeypot Setup: Complete VPS Step-by-Step Documentation for Cybersecurity Students | Satyam Pathania | [Read More](https://medium.com/p/1830d17c0a47) |
+| Sat, 09 Aug 2025 05:26:13 GMT | IoT Cybersecurity: Securing the Internet of Things | Cyber Security Research | [Read More](https://medium.com/p/0d94f83475e4) |
+| Sat, 09 Aug 2025 05:18:46 GMT | Cybersecurity Compliance: Meeting Regulatory Requirements | Cyber Security Research | [Read More](https://medium.com/p/a20e3d8933bf) |
+| Sat, 09 Aug 2025 05:16:13 GMT | DNS over TLS (DoT) | DarKVoicE | [Read More](https://medium.com/p/66466f7d7373) |
 | Sat, 09 Aug 2025 05:11:18 GMT | AI Security: Addressing Detailed Vulnerabilities | Artificial Intelligence Details | [Read More](https://medium.com/p/d3cfc376e4be) |
 | Sat, 09 Aug 2025 05:11:17 GMT | ये हैं भारत की टॉप 10 आईटी कंपनियां — जिनकी सेवाएं दुनिया भर में चलती हैं, Top 10 IT Companies in… | A Company Details | [Read More](https://medium.com/p/a7cef9744ec6) |
 | Sat, 09 Aug 2025 05:10:06 GMT | Where Innovation Meets Affordability | techland maisha | [Read More](https://medium.com/p/bced951eb084) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 19:33:23 GMT | What Is Cybersecurity? A Beginner’s Guide | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/60f182637d10) |
 | Fri, 08 Aug 2025 19:33:07 GMT | How href.li Works and Why Some Sites Use It to Hide Where Their Visitors Come From | Joodi | [Read More](https://medium.com/p/7cd848168155) |
 | Fri, 08 Aug 2025 19:30:24 GMT | precious : hackthebox | Abdellah Lamine | [Read More](https://medium.com/p/52e12a840b0d) |
-| Fri, 08 Aug 2025 19:26:15 GMT | Bookstore | Taauxick | [Read More](https://medium.com/p/7029c173d3f4) |
-| Fri, 08 Aug 2025 19:23:13 GMT | 0-Click Account Takeover via OAuth Misconfiguration | Saeid Khater | [Read More](https://medium.com/p/24058cbee2a2) |
-| Fri, 08 Aug 2025 19:15:51 GMT | Why Security Matters So Much in Business Outsourcing — And How to Choose the Right Partner | CsMena | [Read More](https://medium.com/p/e6a560b98f92) |
-| Fri, 08 Aug 2025 19:11:51 GMT | precious : hackthebox | Abdellah Lamine | [Read More](https://medium.com/p/8c2dc3719da5) |
-| Fri, 08 Aug 2025 19:11:17 GMT | Patch Management: The Unsung Hero of Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/70fbb38f877f) |
-| Fri, 08 Aug 2025 19:10:11 GMT | Remote Code Execution via Polyglot Web Shell Upload | Ahmed Ibrahim | [Read More](https://medium.com/p/b7fb3192e9bd) |
-| Fri, 08 Aug 2025 19:04:34 GMT | SASE: The Future of Network Security for Modern Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/ca3cbb8f8d3a) |
-| Fri, 08 Aug 2025 19:01:44 GMT | Is Bitwarden Actually Worth It? 6 Months Later, It’s Essential | ItReviewHub | [Read More](https://medium.com/p/881822eaf0ff) |
-| Fri, 08 Aug 2025 19:01:14 GMT | 1st Time at DefCon? Don’t make same mistakes I made. | DuckWrites | [Read More](https://medium.com/p/645f48f11c1a) |
-| Fri, 08 Aug 2025 18:53:51 GMT | Cuttlefish3 — A multi-agent RAG system for intelligent JIRA ticket retrieval | Heemeng Foo | [Read More](https://medium.com/p/8b873bc7d12d) |
-| Fri, 08 Aug 2025 18:52:04 GMT | What If… Nuclear Deterrence Fails? | Julien | [Read More](https://medium.com/p/671220e8fe46) |
-| Fri, 08 Aug 2025 18:50:52 GMT | You Gave Them Everything Just to Scroll for Free | Your's Nightmare | [Read More](https://medium.com/p/7af4b71c9277) |
-| Fri, 08 Aug 2025 18:50:41 GMT | Can You Trust QR Codes on Posters? | Your's Nightmare | [Read More](https://medium.com/p/9aab27f4637b) |
