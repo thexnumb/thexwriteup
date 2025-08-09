@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 14:14:25 GMT | Tea App Data Breach: A Wake-Up Call for the AI-Powered App Era | Recover Right | [Read More](https://medium.com/p/5165ff38ed0b) |
+| Sat, 09 Aug 2025 14:12:34 GMT | 2025: The Year Cyber Attacks Got Personal | PRASHANT KUMAR GIRI | [Read More](https://medium.com/p/4e4e4897b6a9) |
+| Sat, 09 Aug 2025 14:06:52 GMT | ISMAP Management Standards Chapter 12: Operations Security — What are the Rules for Running a… | nolly | [Read More](https://medium.com/p/3beca5e5cd0f) |
+| Sat, 09 Aug 2025 14:05:52 GMT | TryHackMe - NahamStore - WriteUp | Axoloth | [Read More](https://medium.com/p/b85e61c1e462) |
+| Sat, 09 Aug 2025 14:02:51 GMT | OAuth and MFA: The Final Bosses of Web Authentication | Stefano Alvares | [Read More](https://medium.com/p/8db1083620a0) |
+| Sat, 09 Aug 2025 14:01:52 GMT | Spilled Tea: How Two “Safe Space” Apps Failed Their Users | Brittney Ginther | [Read More](https://medium.com/p/d1acc1460493) |
+| Sat, 09 Aug 2025 14:01:26 GMT | Introducing JWTauditor: Your Ultimate Burp Suite Extension for Passive JWT Security Analysis | Mohamed.cybersec | [Read More](https://medium.com/p/2c9cf4c56703) |
+| Sat, 09 Aug 2025 13:59:56 GMT | Your Computer Has a ‘God Mode’ That Hackers Already Own, And You Can’t Delete It | Avnessh Kumar | [Read More](https://medium.com/p/2011e0891855) |
+| Sat, 09 Aug 2025 13:55:15 GMT | Model Inversion Attacks | Ayush Parwal | [Read More](https://medium.com/p/03c5c7f0f351) |
+| Sat, 09 Aug 2025 13:50:17 GMT | The Increasing Role of AI in Cybersecurity: From Small to Big Models and Multi-Agent Pipelines | noailabs | [Read More](https://medium.com/p/466325372e3a) |
+| Sat, 09 Aug 2025 13:45:02 GMT | x86 Assembly: A Gentle Dive into the World Beneath the Code | Bl@ckC!pH3r | [Read More](https://medium.com/p/94c4c1e18880) |
+| Sat, 09 Aug 2025 13:43:12 GMT | Model Stealing in Large Language Models. | Ayush Parwal | [Read More](https://medium.com/p/4f8e6373c280) |
+| Sat, 09 Aug 2025 13:41:54 GMT | AI forces Cybersecurity Experts to Re-think attack surfaces. | Neil Singh | [Read More](https://medium.com/p/dd2c7bfa57b4) |
+| Sat, 09 Aug 2025 13:41:48 GMT | OAuth 2.0 for Beginners: The Real Engine Behind Secure Logins & Third-Party Access | Theshika navod | [Read More](https://medium.com/p/2dd7dbec7c23) |
+| Sat, 09 Aug 2025 13:40:59 GMT | AI Security: An Urgent Warning About the MCP Ecosystem | Mauro Stepanoski | [Read More](https://medium.com/p/e93256c72c66) |
+| Sat, 09 Aug 2025 13:37:10 GMT | Securing Agentic AI Applications — A Complete OWASP-Based Guide | Jadala Ajay | [Read More](https://medium.com/p/5454659973dd) |
+| Sat, 09 Aug 2025 13:35:08 GMT | File Created with Incorrect Permissions Vulnerability : Java & Python Security Guide | Ajay Monga | [Read More](https://medium.com/p/b1f7d88c8187) |
+| Sat, 09 Aug 2025 13:34:58 GMT | Impact of AI on the Pentesting Industry | Nikhilesh Singh | [Read More](https://medium.com/p/4e953915d0fd) |
 | Sat, 09 Aug 2025 13:23:56 GMT | 6 Authentication Systems your Developers are not thinking about | Martin Thoma | [Read More](https://medium.com/p/5fcbc6510b0c) |
+| Sat, 09 Aug 2025 13:23:52 GMT | Cloud Computing Explained in Simple Terms | Repa Kustipia | [Read More](https://medium.com/p/8694efb586eb) |
 | Sat, 09 Aug 2025 13:15:57 GMT | BlueSky Ransomware Lab-WriteUp(Cyber Defenders) | Rac00nman | [Read More](https://medium.com/p/1e306149d522) |
 | Sat, 09 Aug 2025 13:08:24 GMT | Cron Path Escalation (Privilege Escalation for Linux) | Ammar Ahmed | [Read More](https://medium.com/p/4f058ecaf630) |
 | Sat, 09 Aug 2025 13:00:32 GMT | TheHackersLabs — Dragon [Write-Up] | APS88 | [Read More](https://medium.com/p/1026a784d475) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 08:45:34 GMT | The Dark Side of Cheap Hosting: Why Website Security Matters | HASAN MAHMUD | [Read More](https://medium.com/p/6d141c4d6a01) |
 | Sat, 09 Aug 2025 08:45:22 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/1a943cf3b74d) |
 | Sat, 09 Aug 2025 08:43:53 GMT | 10 Real Cybersecurity Hacking Scenarios Not Caused By Hackers | Motasem Hamdan | [Read More](https://medium.com/p/b60f0496d005) |
-| Sat, 09 Aug 2025 08:40:42 GMT | Certified Azure Red Team Professional (CARTP) — Review and Exam Experience | Aslam Anwar Mahimkar | [Read More](https://medium.com/p/e967870aaecc) |
-| Sat, 09 Aug 2025 08:18:01 GMT | Python AST — The Grammar Police That Stops Hackers | Siddiquimohammad | [Read More](https://medium.com/p/7f650f954daf) |
-| Sat, 09 Aug 2025 08:08:43 GMT | Mastering Cybersecurity Basics: Protect Yourself in the Digital World | Basit Zaman | [Read More](https://medium.com/p/6608f348f093) |
-| Sat, 09 Aug 2025 08:01:47 GMT | BYOD & Remote Work: More Devices, More Leaks | Alexandre Vandamme | [Read More](https://medium.com/p/7c1a11939105) |
-| Sat, 09 Aug 2025 07:49:28 GMT | not yet, but close | Unknown | [Read More](https://medium.com/p/d66db319006b) |
-| Sat, 09 Aug 2025 07:47:00 GMT | Why I’m learning SOC Level 1 | Mainekdeveloper | [Read More](https://medium.com/p/33ab244b3e62) |
-| Sat, 09 Aug 2025 07:46:18 GMT | OWASP Top 10 for Machine Learning (ML): A Complete Guide to Securing AI Systems | Serdar Gumus | [Read More](https://medium.com/p/0357ce35ae69) |
-| Sat, 09 Aug 2025 07:40:03 GMT | 7739552706.⚖️SCORE SCAN LOAN APP C U S T O M E R CARE helpline NUMBER.(❼O⓿) 7488858915 Call me | Mom Muriya | [Read More](https://medium.com/p/ce68d0b89cf4) |
-| Sat, 09 Aug 2025 07:36:01 GMT | The Truth About Passwords: Why Complexity May be Your Key to Security | Security Inclined | [Read More](https://medium.com/p/dddef75ff151) |
-| Sat, 09 Aug 2025 07:27:50 GMT | The Red Users: Transforming the Digital Future with Innovation, Security, and Strategic Growth | The Red Users | [Read More](https://medium.com/p/dccb21211850) |
-| Sat, 09 Aug 2025 07:22:16 GMT | How Executive Protection Services in Florida Keep You Safe and Secure | Onyx Protective Services | [Read More](https://medium.com/p/e170501c32bc) |
-| Sat, 09 Aug 2025 07:09:50 GMT | [NULLED] Ransomware LockBit 3.0 Builder | coinjoin pro | [Read More](https://medium.com/p/74dd5c2c69bc) |
-| Sat, 09 Aug 2025 07:09:28 GMT | İnstagram hesabınızı xakerlərdən qorumağın yolları | Orkhan Jalalov | [Read More](https://medium.com/p/e17e74e8bc27) |
-| Sat, 09 Aug 2025 07:05:49 GMT | DNS — The Internet’s Address Book, Attack Surface & Bughunter’s Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/021ec78a68c6) |
-| Sat, 09 Aug 2025 06:57:02 GMT | Bug Bounty Hunting: JWT Vulnerabilities Deeply Explained (Live Step-by-Step Practical) | Shaikh Minhaz | [Read More](https://medium.com/p/c344ce723906) |
-| Sat, 09 Aug 2025 06:44:36 GMT | HTB Jerry Machine — Walkthrough for beginners | SeverSerenity | [Read More](https://medium.com/p/c137972061aa) |
-| Sat, 09 Aug 2025 06:44:21 GMT | Secure Key Derivation with Argon2: A Modern Approach to Password-Based Cryptography | Mohamed Gebril | [Read More](https://medium.com/p/ba18e762fc25) |
-| Sat, 09 Aug 2025 06:44:09 GMT | Error Handling in JavaScript: Try-Catch Blocks and Custom Errors | Devsync | [Read More](https://medium.com/p/9464aa88844d) |
-| Sat, 09 Aug 2025 06:43:56 GMT | Smart Bot Defense in 2025: How to Challenge Only Risky Users and Let the Rest Glide Through | Melvin Prince | [Read More](https://medium.com/p/8ac5db7d4b01) |
