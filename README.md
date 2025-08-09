@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 20:30:48 GMT | Project #3: Building an OSPF IPv6 Network Topology with CML | NSESean | [Read More](https://medium.com/p/da2b2d574abe) |
+| Sat, 09 Aug 2025 20:17:58 GMT | Tools for Malware Analysis and Reverse Engineering | Cosmos | [Read More](https://medium.com/p/d0bd376a0186) |
+| Sat, 09 Aug 2025 20:15:01 GMT | Revisiting the MCP Protocol: Deep Security Dive Across Real-World Vulnerabilities | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/51fa1d1d102f) |
 | Sat, 09 Aug 2025 19:50:43 GMT | The Bug Hunter’s Guide to Host Header Attacks for Password Reset Poisoning | Zoningxtr | [Read More](https://medium.com/p/a08f607a1a6b) |
 | Sat, 09 Aug 2025 19:41:33 GMT | DVAPI API Penetration Testing: OWASP TOP 10 API vulnerabilities | Nitesh Yadav | [Read More](https://medium.com/p/b3bf82192630) |
 | Sat, 09 Aug 2025 19:31:12 GMT | How Websites Work | Cheryl Maise Lobo | [Read More](https://medium.com/p/b614b8496fec) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 13:00:32 GMT | TheHackersLabs — Dragon [Write-Up] | APS88 | [Read More](https://medium.com/p/1026a784d475) |
 | Sat, 09 Aug 2025 12:53:13 GMT | Business Intelligence Dashboards 2025: Der ultimative Strategische Roadmap für datengetriebenen… | Philip Hansen | [Read More](https://medium.com/p/bd408f62c694) |
 | Sat, 09 Aug 2025 12:48:41 GMT | From Legacy Transformation to Agile AI: How the FinTech Industry Can Accelerate Value Realization | Suchitra Deo | [Read More](https://medium.com/p/9f685402d569) |
-| Sat, 09 Aug 2025 12:45:14 GMT | Linux Essentials 101: Complete Beginner’s Guide (EASY) | Nehad | [Read More](https://medium.com/p/50578ea877be) |
-| Sat, 09 Aug 2025 12:27:01 GMT | Why AI-assisted development should terrify you (but not why you think). | The Grumpy CTO | [Read More](https://medium.com/p/1949021aaf05) |
-| Sat, 09 Aug 2025 12:27:01 GMT | Protection From Phishing Attacks: How to Stay Safe Online | Timónofearth | [Read More](https://medium.com/p/07cc86e013d2) |
