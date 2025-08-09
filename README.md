@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 11:10:23 GMT | So You Think You Know “Auth”? | Kisalay | [Read More](https://medium.com/p/fafad8aa3f21) |
+| Sat, 09 Aug 2025 11:08:27 GMT | Finding Cross-site Scripting (XSS) Vulnerabilities and Mitigation Process | Abdus Satter | [Read More](https://medium.com/p/536b01700b5b) |
+| Sat, 09 Aug 2025 11:07:08 GMT | Prompt Injection → Token Overload → Denial of Service in LLM HTML Generator | MostReal | [Read More](https://medium.com/p/0f2ef42ff3e3) |
+| Sat, 09 Aug 2025 11:02:08 GMT | Reliable Car Park Security: Ensure the Safety of Your Vehicles | Professional UK Services | [Read More](https://medium.com/p/a12b80b6eaba) |
+| Sat, 09 Aug 2025 10:58:38 GMT | DAY 40 — Building My Regex Muscles: The Invisible Skill That Powers DFIR | Jinay | [Read More](https://medium.com/p/3c896ea78a31) |
+| Sat, 09 Aug 2025 10:58:05 GMT | Meet Abhijith: Kerala’s Youngest Ethical Hacker at Just 13 | Cyberinn | [Read More](https://medium.com/p/11b397fa8ba1) |
+| Sat, 09 Aug 2025 10:54:54 GMT | Simple HTTP Server in C: An In-Depth Guide | Nabin Lopchan | [Read More](https://medium.com/p/2f159a11cda9) |
+| Sat, 09 Aug 2025 10:54:08 GMT | Geminis Trojan Horse | AIficionado | [Read More](https://medium.com/p/8005c1fb366f) |
+| Sat, 09 Aug 2025 10:50:13 GMT | Examining the database in SQL injection attacks | Chandra Kamal Singh | [Read More](https://medium.com/p/4209bce46cc6) |
+| Sat, 09 Aug 2025 10:48:42 GMT | Wireless PenTesting | Adeeb Farhan | [Read More](https://medium.com/p/1596831d8de0) |
+| Sat, 09 Aug 2025 10:43:54 GMT | Best Cyber Security Course in Ameerpet Start Learning | Pravin Choudhary | [Read More](https://medium.com/p/b8a8b72eefd4) |
 | Sat, 09 Aug 2025 10:43:22 GMT | Affordable and Effective Security Solutions for Homes and Businesses | Travel time | [Read More](https://medium.com/p/595c72546be6) |
+| Sat, 09 Aug 2025 10:39:49 GMT | Agentic AI in Cybersecurity: Enhancing Defence with LLMs | Frank Morales Aguilera | [Read More](https://medium.com/p/d2e5a5fad203) |
 | Sat, 09 Aug 2025 10:32:33 GMT | The Easiest Bug Bounty of 2025 | Jeosantos | [Read More](https://medium.com/p/165c57df3e14) |
 | Sat, 09 Aug 2025 10:32:11 GMT | Dont know where to start, info overload ? | Mr. Bones | [Read More](https://medium.com/p/82ae1ea72cf3) |
 | Sat, 09 Aug 2025 10:30:07 GMT | Vault Fault Exposes Critical Logic Flaws in CyberArk and HashiCorp Secrets Managers | Jasmitharouthu | [Read More](https://medium.com/p/f2c79c5e65a4) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 05:11:18 GMT | AI Security: Addressing Detailed Vulnerabilities | Artificial Intelligence Details | [Read More](https://medium.com/p/d3cfc376e4be) |
 | Sat, 09 Aug 2025 05:11:17 GMT | ये हैं भारत की टॉप 10 आईटी कंपनियां — जिनकी सेवाएं दुनिया भर में चलती हैं, Top 10 IT Companies in… | A Company Details | [Read More](https://medium.com/p/a7cef9744ec6) |
 | Sat, 09 Aug 2025 05:10:06 GMT | Where Innovation Meets Affordability | techland maisha | [Read More](https://medium.com/p/bced951eb084) |
-| Sat, 09 Aug 2025 04:55:31 GMT | From Malware-Centric to Breach-Centric: The Cybersecurity Mindset Shift You Need to Make | Ahmad Naufal Ramadan | [Read More](https://medium.com/p/d3f8fc7de927) |
-| Sat, 09 Aug 2025 04:52:10 GMT | Improper Media Deletion How I Found Publicly Accessible Deleted Files | Chidubem Chukwu | [Read More](https://medium.com/p/391c4cdac844) |
-| Sat, 09 Aug 2025 04:52:03 GMT | Inayat Hussain Chohan: The Polymath Who Codes, Writes, and Thinks Beyond Boundaries | Inayat Hussain | [Read More](https://medium.com/p/27ff1f461468) |
-| Sat, 09 Aug 2025 04:37:28 GMT | Amazon’s $52 Outdoor Security Camera: Fantastic Clarity at 43% Off | ARK Writes | [Read More](https://medium.com/p/d1eea097e7ec) |
-| Sat, 09 Aug 2025 04:36:01 GMT | Unexpected Input Caused Functionality Confusion — How I Discovered a P4 Bug with Real Impact | Mohamed Said Ibrahim | [Read More](https://medium.com/p/4a7af7fec7e3) |
-| Sat, 09 Aug 2025 04:32:22 GMT | Strengthening EKS Cluster Security with Wiz Integration | Ranjan K | [Read More](https://medium.com/p/ce693d52ef00) |
-| Sat, 09 Aug 2025 04:23:46 GMT | Inside the Work of India’s Top Cyber Forensic Expert — G Vimal Kumar | G Vimal Kumar CTO Cyber Privilege | [Read More](https://medium.com/p/55a4b7024daa) |
-| Sat, 09 Aug 2025 04:22:24 GMT | HTTPS & Certificates: Why Secure Websites Still Get Hacked | amit kumar | [Read More](https://medium.com/p/4d3ff1a8e8f8) |
-| Sat, 09 Aug 2025 03:41:26 GMT | How I Passed the eJPT in 2 Months Without Losing My Mind (Or My Weekend) | Rue | [Read More](https://medium.com/p/804d69edaeb6) |
-| Sat, 09 Aug 2025 03:33:20 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/1a98a3897a68) |
-| Sat, 09 Aug 2025 03:31:57 GMT | Subscribed and Scammed: The New Wave of Online Fraud | Deven Chhajed | [Read More](https://medium.com/p/a5841e5f6ec3) |
-| Sat, 09 Aug 2025 03:30:27 GMT | Keep Your Qdrant Vector Database Secure | Haydar Külekci | [Read More](https://medium.com/p/eac8c8f233fb) |
