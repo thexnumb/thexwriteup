@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 10:43:22 GMT | Affordable and Effective Security Solutions for Homes and Businesses | Travel time | [Read More](https://medium.com/p/595c72546be6) |
+| Sat, 09 Aug 2025 10:32:33 GMT | The Easiest Bug Bounty of 2025 | Jeosantos | [Read More](https://medium.com/p/165c57df3e14) |
+| Sat, 09 Aug 2025 10:32:11 GMT | Dont know where to start, info overload ? | Mr. Bones | [Read More](https://medium.com/p/82ae1ea72cf3) |
+| Sat, 09 Aug 2025 10:30:07 GMT | Vault Fault Exposes Critical Logic Flaws in CyberArk and HashiCorp Secrets Managers | Jasmitharouthu | [Read More](https://medium.com/p/f2c79c5e65a4) |
+| Sat, 09 Aug 2025 10:28:37 GMT | The Wonder of Hash: SHA-256, Pedersen and Poseidon | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e64cfdece7ce) |
+| Sat, 09 Aug 2025 10:27:54 GMT | The Chandigarh Cybersecurity Secret is Out!! | Cbitss | [Read More](https://medium.com/p/22a9defe9cfe) |
+| Sat, 09 Aug 2025 10:27:27 GMT | Top 20 Direct Jailbreaking Use Cases for LLM Pentesting | Cipher Phreak | [Read More](https://medium.com/p/7220bbf74569) |
 | Sat, 09 Aug 2025 10:09:08 GMT | Six Attractive Behaviours That Seem Strange — Until You Realise How Powerful They Are | Vijay Kumar Gupta | [Read More](https://medium.com/p/89dca7575c5c) |
 | Sat, 09 Aug 2025 10:09:02 GMT | Cyber Security Protesting: Raising a Digital Voice | Cyberfortress solutions | [Read More](https://medium.com/p/dfc8578c6927) |
 | Sat, 09 Aug 2025 10:06:15 GMT | Part 3: Security Practices and Technologies | Harini Ganesan | [Read More](https://medium.com/p/41dd6b4efa9d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 03:33:20 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/1a98a3897a68) |
 | Sat, 09 Aug 2025 03:31:57 GMT | Subscribed and Scammed: The New Wave of Online Fraud | Deven Chhajed | [Read More](https://medium.com/p/a5841e5f6ec3) |
 | Sat, 09 Aug 2025 03:30:27 GMT | Keep Your Qdrant Vector Database Secure | Haydar Külekci | [Read More](https://medium.com/p/eac8c8f233fb) |
-| Sat, 09 Aug 2025 03:29:15 GMT | 28,000+ Microsoft Exchange Servers Exposed Due to CVE-2025–53786 Bug | Tarush Sharma | [Read More](https://medium.com/p/73daee73e49f) |
-| Sat, 09 Aug 2025 03:24:00 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/ae62b08922eb) |
-| Sat, 09 Aug 2025 03:19:46 GMT | Breaking Email Validation | Madhan | [Read More](https://medium.com/p/cbc29bf2ff9f) |
-| Sat, 09 Aug 2025 03:15:24 GMT | Gemini AI Exploited — How Hackers Can Jump From Emails to Your Smart Home | AlioSecurity | [Read More](https://medium.com/p/c38f02142a5b) |
-| Sat, 09 Aug 2025 03:10:05 GMT | The Art of Anonymity: Why Data Masking is a Modern Business Imperative | Nitesh Upadhyay | [Read More](https://medium.com/p/1d773296d37c) |
-| Sat, 09 Aug 2025 03:02:31 GMT | Caso Celsia: Campaña de phishing detectada y reportada | ANDES Shield | [Read More](https://medium.com/p/f2987f7c39df) |
-| Sat, 09 Aug 2025 03:00:18 GMT | How I pass OSCP | Wug | [Read More](https://medium.com/p/bfde85ca919e) |
