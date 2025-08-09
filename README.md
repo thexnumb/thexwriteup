@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 17:26:07 GMT | HTTP/1.1 Must Die: The Hidden Attack Surface Your Pentests Are Missing (And Hackers Aren’t) | cybrNK | [Read More](https://medium.com/p/9426cc7d6c30) |
+| Sat, 09 Aug 2025 17:24:51 GMT | Behind the Screens: reCAPTCHA v3 vs Cloudflare Turnstile | Melvin Prince | [Read More](https://medium.com/p/c8188e8356cb) |
+| Sat, 09 Aug 2025 17:21:15 GMT | Vulnerability and Boundaries: Learning Where to Pour and Where to Pause | Gincy Beard | [Read More](https://medium.com/p/23658b1d31b9) |
+| Sat, 09 Aug 2025 17:20:34 GMT | ️‍♂️ The Art of OS Discovery: Banner Grabbing and Fingerprinting Techniques | Rajkumar Kumawat | [Read More](https://medium.com/p/9478d18f8f07) |
+| Sat, 09 Aug 2025 17:17:00 GMT | Splunk Tutorial data : Break Out | mattyerz | [Read More](https://medium.com/p/baa5781a26de) |
+| Sat, 09 Aug 2025 17:12:05 GMT | US Now the Ransomware Capital of the World: The Alarming Shift to Data Theft Over Encryption | Travis Ray Caverhill | [Read More](https://medium.com/p/503a99a77231) |
 | Sat, 09 Aug 2025 17:10:14 GMT | Rails .html_safe — The Hidden XSS Trap (With a Full Example) | Dghim Sami | [Read More](https://medium.com/p/3472a848dce1) |
 | Sat, 09 Aug 2025 17:01:02 GMT | The Secret to Stress-Free Tech Help in the USA | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/8e2742a03c46) |
 | Sat, 09 Aug 2025 16:43:04 GMT | CIA vs DAD in Cybersecurity — Understanding the Defender and the Adversary | Samuel Dhamodharan | [Read More](https://medium.com/p/a287c6b521ea) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 10:58:05 GMT | Meet Abhijith: Kerala’s Youngest Ethical Hacker at Just 13 | Cyberinn | [Read More](https://medium.com/p/11b397fa8ba1) |
 | Sat, 09 Aug 2025 10:54:54 GMT | Simple HTTP Server in C: An In-Depth Guide | Nabin Lopchan | [Read More](https://medium.com/p/2f159a11cda9) |
 | Sat, 09 Aug 2025 10:54:08 GMT | Geminis Trojan Horse | AIficionado | [Read More](https://medium.com/p/8005c1fb366f) |
-| Sat, 09 Aug 2025 10:50:13 GMT | Examining the database in SQL injection attacks | Chandra Kamal Singh | [Read More](https://medium.com/p/4209bce46cc6) |
-| Sat, 09 Aug 2025 10:48:42 GMT | Wireless PenTesting | Adeeb Farhan | [Read More](https://medium.com/p/1596831d8de0) |
-| Sat, 09 Aug 2025 10:43:54 GMT | Best Cyber Security Course in Ameerpet Start Learning | Pravin Choudhary | [Read More](https://medium.com/p/b8a8b72eefd4) |
-| Sat, 09 Aug 2025 10:43:22 GMT | Affordable and Effective Security Solutions for Homes and Businesses | Travel time | [Read More](https://medium.com/p/595c72546be6) |
-| Sat, 09 Aug 2025 10:39:49 GMT | Agentic AI in Cybersecurity: Enhancing Defence with LLMs | Frank Morales Aguilera | [Read More](https://medium.com/p/d2e5a5fad203) |
-| Sat, 09 Aug 2025 10:32:33 GMT | The Easiest Bug Bounty of 2025 | Jeosantos | [Read More](https://medium.com/p/165c57df3e14) |
