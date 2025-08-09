@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 06:26:41 GMT | Apartment Security Door Selection: Securing Both Burglar-Proof And Soundproofing | Monica6656 | [Read More](https://medium.com/p/9474e3958501) |
+| Sat, 09 Aug 2025 06:19:50 GMT | Why Claude AI is a Game-Changer for Rapid Solution Development | Sandeep Sivanandan | [Read More](https://medium.com/p/3a6a50f6886e) |
+| Sat, 09 Aug 2025 06:17:23 GMT | Autoswagger: The Free API Security Tool Every Developer Needs in 2025 | Egyda-Ai | [Read More](https://medium.com/p/e429086bacfe) |
+| Sat, 09 Aug 2025 06:17:14 GMT | What is Ethical Hacking and How to Become One? | Charleskerren | [Read More](https://medium.com/p/ed97e3231c56) |
+| Sat, 09 Aug 2025 06:03:03 GMT | 如何用 Google OSS-Rebuild 打造一份符合 SaMD要求的 SBOM | JH5 | [Read More](https://medium.com/p/e5b09e324250) |
+| Sat, 09 Aug 2025 06:00:43 GMT | Wi-Fi Under Siege: Ethical Cracking of WPA2 Networks | dashidecoded | [Read More](https://medium.com/p/8b8b68b9bced) |
+| Sat, 09 Aug 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Aug 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/23a02a5c829d) |
 | Sat, 09 Aug 2025 05:42:29 GMT | Tokenization & how it secures your payment — A stripe case study | Debashis Debnath | [Read More](https://medium.com/p/654f94bb751b) |
 | Sat, 09 Aug 2025 05:38:25 GMT | Project Ire: Microsoft’s AI Sentinel Against Malware | Jacky Kapadia | [Read More](https://medium.com/p/664772d099d1) |
 | Sat, 09 Aug 2025 05:35:27 GMT | Single API Key from a Chrome Extension Led to 5.2 Million Exposed Customer Records | Erkan Kavas | [Read More](https://medium.com/p/0cc81545a7a8) |
+| Sat, 09 Aug 2025 05:32:30 GMT | لعبة ONE PIECE Bounty Rush - نصائح واستراتيجيات للعب الفعال | Malik Alkysy | [Read More](https://medium.com/p/07ab573b1389) |
 | Sat, 09 Aug 2025 05:31:43 GMT | Cybersecurity Forensics: Investigating Cybercrimes | Cyber Security Research | [Read More](https://medium.com/p/97f644e4b49f) |
 | Sat, 09 Aug 2025 05:31:38 GMT | Bypassing 403 & 401 Errors: All Hacker Techniques Revealed | Vipul Sonule | [Read More](https://medium.com/p/0709ddfa99af) |
 | Sat, 09 Aug 2025 05:31:28 GMT | Bots Move Like Us Now — CAPTCHAs Are Losing the War | Techscribe Central | [Read More](https://medium.com/p/6de3010187b2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 20:16:33 GMT | Double Trouble VulnHub Walkthrough: Step-by-Step Guide to Solving ‘Machine Inside a Machine’ for… | Prajwal | [Read More](https://medium.com/p/b89b3561407e) |
 | Fri, 08 Aug 2025 20:15:48 GMT | 10 Simple Cybersecurity Tips for Remote Workers | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/41961a4455ae) |
 | Fri, 08 Aug 2025 20:10:57 GMT | Dependency Confusion: Danger Danger Danger | Isaac Privett | [Read More](https://medium.com/p/c730b5b40ced) |
-| Fri, 08 Aug 2025 20:09:24 GMT | A Segurança do Software Começa no frontend | Fernando Soares | [Read More](https://medium.com/p/faf69d88a6b0) |
-| Fri, 08 Aug 2025 19:59:38 GMT | AI-Powered Content Isn’t Enough -What Security Buyers Actually Want | Digi-tx - Cybersecurity & SaaS Marketing | [Read More](https://medium.com/p/3666ba1cd1e7) |
-| Fri, 08 Aug 2025 19:53:23 GMT | Lab: Basic SSRF against the local server - PortSwigger | SIGKILLers | [Read More](https://medium.com/p/c12bd627ed45) |
-| Fri, 08 Aug 2025 19:49:04 GMT | Paste Consequences | Samer Moujaes | [Read More](https://medium.com/p/831fc9ea3bdb) |
-| Fri, 08 Aug 2025 19:35:28 GMT | VIBE CODING ? Then learn from TEA app incident | Kishorreddy | [Read More](https://medium.com/p/e69bfaa49072) |
-| Fri, 08 Aug 2025 19:33:23 GMT | What Is Cybersecurity? A Beginner’s Guide | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/60f182637d10) |
-| Fri, 08 Aug 2025 19:33:07 GMT | How href.li Works and Why Some Sites Use It to Hide Where Their Visitors Come From | Joodi | [Read More](https://medium.com/p/7cd848168155) |
-| Fri, 08 Aug 2025 19:30:24 GMT | precious : hackthebox | Abdellah Lamine | [Read More](https://medium.com/p/52e12a840b0d) |
