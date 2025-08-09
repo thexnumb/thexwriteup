@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 09:35:52 GMT | The Best Integrated Lease Management Software In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/6160c4d83290) |
+| Sat, 09 Aug 2025 09:32:49 GMT | Meterpreter MIA? Troubleshooting Your Hacker Handshake | SilentInject | [Read More](https://medium.com/p/c0b41e39fcc3) |
+| Sat, 09 Aug 2025 09:32:46 GMT | Defending Against Modern Cyber Attacks with Strategy and Technology | Zeenya | [Read More](https://medium.com/p/16415e296c71) |
+| Sat, 09 Aug 2025 09:30:01 GMT | Chatbots: Spiralpost | Anthony Repetto | [Read More](https://medium.com/p/61f33fa1f421) |
+| Sat, 09 Aug 2025 09:26:49 GMT | Want to Hack? Skip the Movies, Start Here. | CtrlC3 | [Read More](https://medium.com/p/48a9f2f01cd9) |
+| Sat, 09 Aug 2025 09:25:54 GMT | Wazuh Alerts to Micrsoft Teams integration [PowerAutomate Workflows] | Jakub Zieliński | [Read More](https://medium.com/p/f718dbb1e4a3) |
+| Sat, 09 Aug 2025 09:25:23 GMT | 10 Simple Ways to Protect Your Data Online | Haider Ali | [Read More](https://medium.com/p/838778cbe192) |
+| Sat, 09 Aug 2025 09:23:27 GMT | Day 26- Understanding the Terminology as a beginner | unica 02 | [Read More](https://medium.com/p/b09ed6253cf0) |
 | Sat, 09 Aug 2025 09:19:35 GMT | Physics to Pen Testing? How to Reinvent Your Career | Authlyn | [Read More](https://medium.com/p/ef77e090d663) |
 | Sat, 09 Aug 2025 09:18:50 GMT | Masked Menace: How a Fake OAuth App and a Loose GraphQL Endpoint Stole the Real Keys | Iski | [Read More](https://medium.com/p/cec06ed964cd) |
 | Sat, 09 Aug 2025 09:18:22 GMT | ADB and Android Multi-user: Intended Feature or Security Gap? | Viral Vaghela | [Read More](https://medium.com/p/d357980978ce) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 01:23:44 GMT | Ten Free Tools Every Aspiring Cybersecurity Pro Should Use to Build Real Skills | Virginia Nelai | [Read More](https://medium.com/p/248064d94e3f) |
 | Sat, 09 Aug 2025 01:22:53 GMT | From Zero to Hero: The Information Gathering Playbook Hackers Don’t Want You to Read | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/6c3dac1d8a6d) |
 | Sat, 09 Aug 2025 01:20:18 GMT | DNSSEC Explained | DarKVoicE | [Read More](https://medium.com/p/2e76ef993984) |
-| Sat, 09 Aug 2025 01:17:03 GMT | What Is a QR Code and How Does It Work? | Timónofearth | [Read More](https://medium.com/p/6c96aff24596) |
-| Sat, 09 Aug 2025 01:09:59 GMT | How to Profile a Slow Web App (Step-by-Step) | Rizqi Mulki | [Read More](https://medium.com/p/c07cac67120f) |
-| Sat, 09 Aug 2025 01:06:50 GMT | The Favorite Tools for Debugging Slow Queries | Rizqi Mulki | [Read More](https://medium.com/p/b4208f8fd0fb) |
-| Sat, 09 Aug 2025 01:00:32 GMT | From Ancestry Tests to Personality Profiling: The Hidden Dangers of Genomic Data | Keegan Justis | [Read More](https://medium.com/p/43dd6d315c4c) |
-| Sat, 09 Aug 2025 01:00:13 GMT | The CIA Triad Explained: Your Guide to Confidentiality, Integrity & Availability | Virginia Nelai | [Read More](https://medium.com/p/70708f40f0e0) |
-| Sat, 09 Aug 2025 00:30:20 GMT | Understanding the MITRE ATT&CK Framework in Simple Terms | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/5c2310fc836d) |
-| Sat, 09 Aug 2025 00:18:06 GMT | When bad C code puts you behind bars (and bankrupts your company) | <devtips/> | [Read More](https://medium.com/p/adf4393ebab6) |
-| Sat, 09 Aug 2025 00:06:55 GMT | Introducing: The Intuition Network | 0xbilly | [Read More](https://medium.com/p/43b5be292ef0) |
