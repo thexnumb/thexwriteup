@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 13:23:56 GMT | 6 Authentication Systems your Developers are not thinking about | Martin Thoma | [Read More](https://medium.com/p/5fcbc6510b0c) |
+| Sat, 09 Aug 2025 13:15:57 GMT | BlueSky Ransomware Lab-WriteUp(Cyber Defenders) | Rac00nman | [Read More](https://medium.com/p/1e306149d522) |
+| Sat, 09 Aug 2025 13:08:24 GMT | Cron Path Escalation (Privilege Escalation for Linux) | Ammar Ahmed | [Read More](https://medium.com/p/4f058ecaf630) |
+| Sat, 09 Aug 2025 13:00:32 GMT | TheHackersLabs — Dragon [Write-Up] | APS88 | [Read More](https://medium.com/p/1026a784d475) |
+| Sat, 09 Aug 2025 12:53:13 GMT | Business Intelligence Dashboards 2025: Der ultimative Strategische Roadmap für datengetriebenen… | Philip Hansen | [Read More](https://medium.com/p/bd408f62c694) |
+| Sat, 09 Aug 2025 12:48:41 GMT | From Legacy Transformation to Agile AI: How the FinTech Industry Can Accelerate Value Realization | Suchitra Deo | [Read More](https://medium.com/p/9f685402d569) |
+| Sat, 09 Aug 2025 12:45:14 GMT | Linux Essentials 101: Complete Beginner’s Guide (EASY) | Nehad | [Read More](https://medium.com/p/50578ea877be) |
 | Sat, 09 Aug 2025 12:27:01 GMT | Why AI-assisted development should terrify you (but not why you think). | The Grumpy CTO | [Read More](https://medium.com/p/1949021aaf05) |
 | Sat, 09 Aug 2025 12:27:01 GMT | Protection From Phishing Attacks: How to Stay Safe Online | Timónofearth | [Read More](https://medium.com/p/07cc86e013d2) |
 | Sat, 09 Aug 2025 12:21:52 GMT | The Power of Strategic Vulnerability | King Fasi | [Read More](https://medium.com/p/47d1511b6963) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 06:44:21 GMT | Secure Key Derivation with Argon2: A Modern Approach to Password-Based Cryptography | Mohamed Gebril | [Read More](https://medium.com/p/ba18e762fc25) |
 | Sat, 09 Aug 2025 06:44:09 GMT | Error Handling in JavaScript: Try-Catch Blocks and Custom Errors | Devsync | [Read More](https://medium.com/p/9464aa88844d) |
 | Sat, 09 Aug 2025 06:43:56 GMT | Smart Bot Defense in 2025: How to Challenge Only Risky Users and Let the Rest Glide Through | Melvin Prince | [Read More](https://medium.com/p/8ac5db7d4b01) |
-| Sat, 09 Aug 2025 06:43:34 GMT | CAPTCHAs Are Broken in 2025, Here’s How to Stop Bots Without Torturing Users | Melvin Prince | [Read More](https://medium.com/p/b127d395e582) |
-| Sat, 09 Aug 2025 06:41:00 GMT | “Day 6: RCE — How I Hacked a Bank Using a Forgotten Excel File” | Aman Sharma | [Read More](https://medium.com/p/e0eb14758136) |
-| Sat, 09 Aug 2025 06:39:59 GMT | Antivirus və EDR nədir, fərqləri nələrdir? | Orkhan Jalalov | [Read More](https://medium.com/p/4d2eaa562c52) |
-| Sat, 09 Aug 2025 06:26:41 GMT | Apartment Security Door Selection: Securing Both Burglar-Proof And Soundproofing | Monica6656 | [Read More](https://medium.com/p/9474e3958501) |
-| Sat, 09 Aug 2025 06:19:50 GMT | Why Claude AI is a Game-Changer for Rapid Solution Development | Sandeep Sivanandan | [Read More](https://medium.com/p/3a6a50f6886e) |
-| Sat, 09 Aug 2025 06:17:23 GMT | Autoswagger: The Free API Security Tool Every Developer Needs in 2025 | Egyda-Ai | [Read More](https://medium.com/p/e429086bacfe) |
-| Sat, 09 Aug 2025 06:17:14 GMT | What is Ethical Hacking and How to Become One? | Charleskerren | [Read More](https://medium.com/p/ed97e3231c56) |
