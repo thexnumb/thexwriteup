@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 22:17:04 GMT | Wireless Security: Securing Wireless Networks | Cyber Security Research | [Read More](https://medium.com/p/3a428aacced1) |
+| Sat, 09 Aug 2025 22:17:02 GMT | Securing GNSS and Time Sync Protocols in Critical Infrastructure | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ce8210012a50) |
+| Sat, 09 Aug 2025 22:15:38 GMT | Day 76: Reverse shells | Nile Okomo | [Read More](https://medium.com/p/774122f6ea73) |
+| Sat, 09 Aug 2025 21:52:51 GMT | This Week’s Top Security News: AI Hacking & Critical Flaws | Max Farnga | [Read More](https://medium.com/p/b83c1edeb5d2) |
+| Sat, 09 Aug 2025 21:43:58 GMT | Work from the Office Is Back—But Is Your Security Stuck in the Past? | Vivian O | [Read More](https://medium.com/p/eeef5bee233a) |
+| Sat, 09 Aug 2025 21:42:33 GMT | Weekly Cybersecurity Digest: AI-Powered Defenses & New Threats️ | Max Farnga | [Read More](https://medium.com/p/3b55b751d9e7) |
 | Sat, 09 Aug 2025 21:28:19 GMT | Browser Security in 2025: Which Browser Truly Protects You? | WhoerIP - Online Privacy Tools | [Read More](https://medium.com/p/e2994003b2d1) |
 | Sat, 09 Aug 2025 21:18:39 GMT | Interested In Cybersecurity? Wanna Be A Hacker? | grepStrength | [Read More](https://medium.com/p/fd8931248180) |
 | Sat, 09 Aug 2025 21:18:09 GMT | Can I Threat Hunt Without Being a Hacker? | Yash Patel | [Read More](https://medium.com/p/6f39f4f7ddc9) |
@@ -20,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 21:15:34 GMT | Silent Breach lab — Cyberdefenders | Zen | [Read More](https://medium.com/p/de8f2ea2a3b7) |
 | Sat, 09 Aug 2025 21:07:14 GMT | My Accidental Bug Bounty from a Random Query | Ibtissam hammadi | [Read More](https://medium.com/p/b8ae134158ed) |
 | Sat, 09 Aug 2025 21:04:20 GMT | The Rising Threat to CEOs: A Crisis of Blame and Distraction | Kevin Kelly | [Read More](https://medium.com/p/a31c7e166da2) |
+| Sat, 09 Aug 2025 21:00:43 GMT | Essential Cybersecurity Practices for Nigerian Businesses in 2025 — Bintus Art and Everything | Bintu's Art and Everything | [Read More](https://medium.com/p/f88a99c96ee3) |
 | Sat, 09 Aug 2025 20:55:28 GMT | Analyzing UAC‑0099 Tactics, Techniques, and Procedures (2023–2025) | SIMKRA | [Read More](https://medium.com/p/296f6ad672fc) |
 | Sat, 09 Aug 2025 20:44:11 GMT | Zero-Trust Runtime Security: Container Runtime Attestation | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/428c5f05c3d8) |
 | Sat, 09 Aug 2025 20:43:06 GMT | Day4 Recon: Hunting Hidden Attack Surfaces , using Nmap, Masscan & Dirsearch for Service &… | Ayush Kumar | [Read More](https://medium.com/p/c623de2fcdf6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 14:02:51 GMT | OAuth and MFA: The Final Bosses of Web Authentication | Stefano Alvares | [Read More](https://medium.com/p/8db1083620a0) |
 | Sat, 09 Aug 2025 14:01:52 GMT | Spilled Tea: How Two “Safe Space” Apps Failed Their Users | Brittney Ginther | [Read More](https://medium.com/p/d1acc1460493) |
 | Sat, 09 Aug 2025 14:01:26 GMT | Introducing JWTauditor: Your Ultimate Burp Suite Extension for Passive JWT Security Analysis | Mohamed.cybersec | [Read More](https://medium.com/p/2c9cf4c56703) |
-| Sat, 09 Aug 2025 13:59:56 GMT | Your Computer Has a ‘God Mode’ That Hackers Already Own, And You Can’t Delete It | Avnessh Kumar | [Read More](https://medium.com/p/2011e0891855) |
-| Sat, 09 Aug 2025 13:55:15 GMT | Model Inversion Attacks | Ayush Parwal | [Read More](https://medium.com/p/03c5c7f0f351) |
-| Sat, 09 Aug 2025 13:50:17 GMT | The Increasing Role of AI in Cybersecurity: From Small to Big Models and Multi-Agent Pipelines | noailabs | [Read More](https://medium.com/p/466325372e3a) |
-| Sat, 09 Aug 2025 13:45:02 GMT | x86 Assembly: A Gentle Dive into the World Beneath the Code | Bl@ckC!pH3r | [Read More](https://medium.com/p/94c4c1e18880) |
-| Sat, 09 Aug 2025 13:43:12 GMT | Model Stealing in Large Language Models. | Ayush Parwal | [Read More](https://medium.com/p/4f8e6373c280) |
-| Sat, 09 Aug 2025 13:41:54 GMT | AI forces Cybersecurity Experts to Re-think attack surfaces. | Neil Singh | [Read More](https://medium.com/p/dd2c7bfa57b4) |
-| Sat, 09 Aug 2025 13:41:48 GMT | OAuth 2.0 for Beginners: The Real Engine Behind Secure Logins & Third-Party Access | Theshika navod | [Read More](https://medium.com/p/2dd7dbec7c23) |
