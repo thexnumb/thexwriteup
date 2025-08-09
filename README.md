@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 19:50:43 GMT | The Bug Hunter’s Guide to Host Header Attacks for Password Reset Poisoning | Zoningxtr | [Read More](https://medium.com/p/a08f607a1a6b) |
+| Sat, 09 Aug 2025 19:41:33 GMT | DVAPI API Penetration Testing: OWASP TOP 10 API vulnerabilities | Nitesh Yadav | [Read More](https://medium.com/p/b3bf82192630) |
+| Sat, 09 Aug 2025 19:31:12 GMT | How Websites Work | Cheryl Maise Lobo | [Read More](https://medium.com/p/b614b8496fec) |
 | Sat, 09 Aug 2025 19:24:06 GMT | What Are False Positives and False Negatives? | Firdovsi | [Read More](https://medium.com/p/5bad7c9dc3ec) |
 | Sat, 09 Aug 2025 19:19:01 GMT | Advanced WAF Bypass Using a Single cURL Command | KILLUA_UCHIHA | [Read More](https://medium.com/p/6042a643948e) |
 | Sat, 09 Aug 2025 19:17:38 GMT | Yo fam, you thought bug bounty was wild before? | Viratavi | [Read More](https://medium.com/p/21895e235605) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 12:45:14 GMT | Linux Essentials 101: Complete Beginner’s Guide (EASY) | Nehad | [Read More](https://medium.com/p/50578ea877be) |
 | Sat, 09 Aug 2025 12:27:01 GMT | Why AI-assisted development should terrify you (but not why you think). | The Grumpy CTO | [Read More](https://medium.com/p/1949021aaf05) |
 | Sat, 09 Aug 2025 12:27:01 GMT | Protection From Phishing Attacks: How to Stay Safe Online | Timónofearth | [Read More](https://medium.com/p/07cc86e013d2) |
-| Sat, 09 Aug 2025 12:21:52 GMT | The Power of Strategic Vulnerability | King Fasi | [Read More](https://medium.com/p/47d1511b6963) |
-| Sat, 09 Aug 2025 12:12:22 GMT | Reproducible Java Builds: Why Your JARs Lie And How to Fix It | Ayush Gupta | [Read More](https://medium.com/p/e32e4942acf6) |
-| Sat, 09 Aug 2025 12:10:59 GMT | SSH Şifrəsinin Qırılması və FTP-yə Uzaqdan Qoşulma | Azer Abdullazde | [Read More](https://medium.com/p/666f5d0c4c67) |
