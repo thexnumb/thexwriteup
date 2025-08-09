@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 21:28:19 GMT | Browser Security in 2025: Which Browser Truly Protects You? | WhoerIP - Online Privacy Tools | [Read More](https://medium.com/p/e2994003b2d1) |
 | Sat, 09 Aug 2025 21:18:39 GMT | Interested In Cybersecurity? Wanna Be A Hacker? | grepStrength | [Read More](https://medium.com/p/fd8931248180) |
+| Sat, 09 Aug 2025 21:18:09 GMT | Can I Threat Hunt Without Being a Hacker? | Yash Patel | [Read More](https://medium.com/p/6f39f4f7ddc9) |
+| Sat, 09 Aug 2025 21:16:58 GMT | AI in Cybersecurity: Sentinel or Saboteur? | Richard Dosumu | [Read More](https://medium.com/p/f2a1bf4d3af8) |
+| Sat, 09 Aug 2025 21:16:00 GMT | AI-Driven Social Engineering: Detecting Deepfake Voice Attacks | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/4f6f61aa2cae) |
 | Sat, 09 Aug 2025 21:15:34 GMT | Silent Breach lab — Cyberdefenders | Zen | [Read More](https://medium.com/p/de8f2ea2a3b7) |
 | Sat, 09 Aug 2025 21:07:14 GMT | My Accidental Bug Bounty from a Random Query | Ibtissam hammadi | [Read More](https://medium.com/p/b8ae134158ed) |
 | Sat, 09 Aug 2025 21:04:20 GMT | The Rising Threat to CEOs: A Crisis of Blame and Distraction | Kevin Kelly | [Read More](https://medium.com/p/a31c7e166da2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 13:43:12 GMT | Model Stealing in Large Language Models. | Ayush Parwal | [Read More](https://medium.com/p/4f8e6373c280) |
 | Sat, 09 Aug 2025 13:41:54 GMT | AI forces Cybersecurity Experts to Re-think attack surfaces. | Neil Singh | [Read More](https://medium.com/p/dd2c7bfa57b4) |
 | Sat, 09 Aug 2025 13:41:48 GMT | OAuth 2.0 for Beginners: The Real Engine Behind Secure Logins & Third-Party Access | Theshika navod | [Read More](https://medium.com/p/2dd7dbec7c23) |
-| Sat, 09 Aug 2025 13:40:59 GMT | AI Security: An Urgent Warning About the MCP Ecosystem | Mauro Stepanoski | [Read More](https://medium.com/p/e93256c72c66) |
-| Sat, 09 Aug 2025 13:37:10 GMT | Securing Agentic AI Applications — A Complete OWASP-Based Guide | Jadala Ajay | [Read More](https://medium.com/p/5454659973dd) |
-| Sat, 09 Aug 2025 13:35:08 GMT | File Created with Incorrect Permissions Vulnerability : Java & Python Security Guide | Ajay Monga | [Read More](https://medium.com/p/b1f7d88c8187) |
-| Sat, 09 Aug 2025 13:34:58 GMT | Impact of AI on the Pentesting Industry | Nikhilesh Singh | [Read More](https://medium.com/p/4e953915d0fd) |
