@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 22:33:43 GMT | My First Malware Analysis I Opened It, Then Panicked | Shahzaib | [Read More](https://medium.com/p/d31db6ee2632) |
+| Sat, 09 Aug 2025 22:33:00 GMT | Fake Letters From the CEO — And Why They Work | Evgeny Ermakov | [Read More](https://medium.com/p/da0dd3eefdad) |
+| Sat, 09 Aug 2025 22:24:37 GMT | Identity and Access Management: Controlling Access to Resources | Cyber Security Research | [Read More](https://medium.com/p/d88a0652088a) |
+| Sat, 09 Aug 2025 22:22:46 GMT | Social Media Security: Protecting Your Online Presence | Cyber Security Research | [Read More](https://medium.com/p/25217ecb0d79) |
+| Sat, 09 Aug 2025 22:20:50 GMT | Email Security: Protecting Against Phishing and Spam | Cyber Security Research | [Read More](https://medium.com/p/15bb967b6121) |
+| Sat, 09 Aug 2025 22:19:02 GMT | Web Security: Protecting Websites from Cyber Attacks | Cyber Security Research | [Read More](https://medium.com/p/ad3039c1f930) |
+| Sat, 09 Aug 2025 22:17:41 GMT | Do All Transfer PayPal TEXT : : +1(616) 202–1156 cashapp Bank western union Zelle and close cards… | Gonzale | [Read More](https://medium.com/p/b3e0eeaefb3f) |
 | Sat, 09 Aug 2025 22:17:04 GMT | Wireless Security: Securing Wireless Networks | Cyber Security Research | [Read More](https://medium.com/p/3a428aacced1) |
 | Sat, 09 Aug 2025 22:17:02 GMT | Securing GNSS and Time Sync Protocols in Critical Infrastructure | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ce8210012a50) |
 | Sat, 09 Aug 2025 22:15:38 GMT | Day 76: Reverse shells | Nile Okomo | [Read More](https://medium.com/p/774122f6ea73) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 14:35:10 GMT | Why a Small, Purpose-Built AI Can Beat GPT-5 in Your Terminal | GitsWhy | [Read More](https://medium.com/p/fa24d2aabdc4) |
 | Sat, 09 Aug 2025 14:27:55 GMT | Why Cybersecurity is Important | Aj | [Read More](https://medium.com/p/8fe63db3577d) |
 | Sat, 09 Aug 2025 14:18:04 GMT | SolarWinds Hack: 5 Critical Lessons for Businesses | Aj | [Read More](https://medium.com/p/9e6aaa1fae32) |
-| Sat, 09 Aug 2025 14:14:25 GMT | Tea App Data Breach: A Wake-Up Call for the AI-Powered App Era | Recover Right | [Read More](https://medium.com/p/5165ff38ed0b) |
-| Sat, 09 Aug 2025 14:12:34 GMT | 2025: The Year Cyber Attacks Got Personal | PRASHANT KUMAR GIRI | [Read More](https://medium.com/p/4e4e4897b6a9) |
-| Sat, 09 Aug 2025 14:06:52 GMT | ISMAP Management Standards Chapter 12: Operations Security — What are the Rules for Running a… | nolly | [Read More](https://medium.com/p/3beca5e5cd0f) |
-| Sat, 09 Aug 2025 14:05:52 GMT | TryHackMe - NahamStore - WriteUp | Axoloth | [Read More](https://medium.com/p/b85e61c1e462) |
-| Sat, 09 Aug 2025 14:02:51 GMT | OAuth and MFA: The Final Bosses of Web Authentication | Stefano Alvares | [Read More](https://medium.com/p/8db1083620a0) |
-| Sat, 09 Aug 2025 14:01:52 GMT | Spilled Tea: How Two “Safe Space” Apps Failed Their Users | Brittney Ginther | [Read More](https://medium.com/p/d1acc1460493) |
-| Sat, 09 Aug 2025 14:01:26 GMT | Introducing JWTauditor: Your Ultimate Burp Suite Extension for Passive JWT Security Analysis | Mohamed.cybersec | [Read More](https://medium.com/p/2c9cf4c56703) |
