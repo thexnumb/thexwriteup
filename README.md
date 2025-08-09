@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 15:16:14 GMT | Cyber Snack-1 Cyber Attacks | Mohamed Anwar Hussain A | [Read More](https://medium.com/p/d8522808c8a9) |
+| Sat, 09 Aug 2025 15:06:28 GMT | “Thinking Like an Attacker: My Journey to Making JavaScript Code Secure from XSS and Injection” | Maximilian Oliver | [Read More](https://medium.com/p/f334206f060a) |
+| Sat, 09 Aug 2025 15:06:01 GMT | Ultimate Cyber Security Checklist for Remote Work Environments (2025 Edition) | Paul Meyer | [Read More](https://medium.com/p/6fbb33ce0a0d) |
+| Sat, 09 Aug 2025 15:05:34 GMT | Is BiyaPay Safe? | Ann | [Read More](https://medium.com/p/23c5bf08d240) |
+| Sat, 09 Aug 2025 15:03:29 GMT | Scam Fatigue | Rev.  Sheri Heller, LCSW, RSW | [Read More](https://medium.com/p/6c8998f15469) |
+| Sat, 09 Aug 2025 15:01:50 GMT | Paper Summary — RelaxLoss: Defending Membership Inference Attacks Without Losing Utility | Aditya Mohan | [Read More](https://medium.com/p/9b845603cf78) |
+| Sat, 09 Aug 2025 14:59:30 GMT | Server-side request forgery (SSRF) | Zodiac Hacker | [Read More](https://medium.com/p/e8438a1b0f58) |
+| Sat, 09 Aug 2025 14:58:29 GMT | JWT attacks | Zodiac Hacker | [Read More](https://medium.com/p/78e873db604b) |
+| Sat, 09 Aug 2025 14:58:00 GMT | Broken Access Controls & IDOR: Access control vulnerabilities and privilege escalation | Zodiac Hacker | [Read More](https://medium.com/p/a2c77559b98d) |
+| Sat, 09 Aug 2025 14:53:58 GMT | Why Hackers Love People Who Reuse Passwords | Dhruvdeep Singh | [Read More](https://medium.com/p/c3d8bf8c74ee) |
+| Sat, 09 Aug 2025 14:53:44 GMT | A little something to get you started—Hacker101 CTF Write-Up | Mirage43 | [Read More](https://medium.com/p/64da79a810ac) |
+| Sat, 09 Aug 2025 14:52:42 GMT | Your ChatGPT History Just Went Public on Google. Here’s What I Did in 10 Mins to Fix It. | Mohamed Bakry | [Read More](https://medium.com/p/103c6b88c8ba) |
+| Sat, 09 Aug 2025 14:48:21 GMT | Trooper [SOC] - Challange #3 | D4m.sh | [Read More](https://medium.com/p/2cdc6fb30ee8) |
 | Sat, 09 Aug 2025 14:36:25 GMT | Why Use Services Like Proton Mail If Everyone Doesn’t Encrypt? | Martino J | [Read More](https://medium.com/p/15b3efbc7ad4) |
 | Sat, 09 Aug 2025 14:35:22 GMT | Sécurisez vos formulaires avec un pot de miel | Stefan Heyd | [Read More](https://medium.com/p/670b74cc25c8) |
+| Sat, 09 Aug 2025 14:35:10 GMT | Why a Small, Purpose-Built AI Can Beat GPT-5 in Your Terminal | GitsWhy | [Read More](https://medium.com/p/fa24d2aabdc4) |
 | Sat, 09 Aug 2025 14:27:55 GMT | Why Cybersecurity is Important | Aj | [Read More](https://medium.com/p/8fe63db3577d) |
 | Sat, 09 Aug 2025 14:18:04 GMT | SolarWinds Hack: 5 Critical Lessons for Businesses | Aj | [Read More](https://medium.com/p/9e6aaa1fae32) |
 | Sat, 09 Aug 2025 14:14:25 GMT | Tea App Data Breach: A Wake-Up Call for the AI-Powered App Era | Recover Right | [Read More](https://medium.com/p/5165ff38ed0b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 09:35:52 GMT | The Best Integrated Lease Management Software In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/6160c4d83290) |
 | Sat, 09 Aug 2025 09:34:18 GMT | What Skinwalker Ranch Might Be Teaching Us About the Next Stages of Cyberwarfare | Leo | [Read More](https://medium.com/p/00b0c546b3c8) |
 | Sat, 09 Aug 2025 09:32:49 GMT | Meterpreter MIA? Troubleshooting Your Hacker Handshake | SilentInject | [Read More](https://medium.com/p/c0b41e39fcc3) |
-| Sat, 09 Aug 2025 09:32:46 GMT | Defending Against Modern Cyber Attacks with Strategy and Technology | Zeenya | [Read More](https://medium.com/p/16415e296c71) |
-| Sat, 09 Aug 2025 09:30:01 GMT | Chatbots: Spiralpost | Anthony Repetto | [Read More](https://medium.com/p/61f33fa1f421) |
-| Sat, 09 Aug 2025 09:26:49 GMT | Want to Hack? Skip the Movies, Start Here. | CtrlC3 | [Read More](https://medium.com/p/48a9f2f01cd9) |
-| Sat, 09 Aug 2025 09:25:54 GMT | Wazuh Alerts to Micrsoft Teams integration [PowerAutomate Workflows] | Jakub Zieliński | [Read More](https://medium.com/p/f718dbb1e4a3) |
-| Sat, 09 Aug 2025 09:25:23 GMT | 10 Simple Ways to Protect Your Data Online | Haider Ali | [Read More](https://medium.com/p/838778cbe192) |
-| Sat, 09 Aug 2025 09:23:27 GMT | Day 26- Understanding the Terminology as a beginner | unica 02 | [Read More](https://medium.com/p/b09ed6253cf0) |
-| Sat, 09 Aug 2025 09:19:35 GMT | Physics to Pen Testing? How to Reinvent Your Career | Authlyn | [Read More](https://medium.com/p/ef77e090d663) |
-| Sat, 09 Aug 2025 09:18:50 GMT | Masked Menace: How a Fake OAuth App and a Loose GraphQL Endpoint Stole the Real Keys | Iski | [Read More](https://medium.com/p/cec06ed964cd) |
-| Sat, 09 Aug 2025 09:18:22 GMT | ADB and Android Multi-user: Intended Feature or Security Gap? | Viral Vaghela | [Read More](https://medium.com/p/d357980978ce) |
-| Sat, 09 Aug 2025 09:11:46 GMT | Exposing SATCOM in the Sky: How Aircraft Systems Are Vulnerable to Remote Attacks — Analysis of… | hacker_might | [Read More](https://medium.com/p/a619d1d8c49a) |
-| Sat, 09 Aug 2025 09:00:24 GMT | Free Security Tools? Here Are the Gems I Swear By | Truspex | [Read More](https://medium.com/p/e39bb3ef13ea) |
-| Sat, 09 Aug 2025 09:00:08 GMT | Mobile Patrol Security Services in Hobart | Stateguard Protective Services | [Read More](https://medium.com/p/c4586a8db0c4) |
-| Sat, 09 Aug 2025 08:56:04 GMT | Born of Fear: How Society Shaped Our Deepest Anxieties | Randhir Jha | [Read More](https://medium.com/p/dc06dfef61fb) |
-| Sat, 09 Aug 2025 08:53:36 GMT | ❌Your frustrations or emotions could end up in front of millions of other users! | Marcello Iori | [Read More](https://medium.com/p/718ead054973) |
