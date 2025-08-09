@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 05:11:18 GMT | AI Security: Addressing Detailed Vulnerabilities | Artificial Intelligence Details | [Read More](https://medium.com/p/d3cfc376e4be) |
+| Sat, 09 Aug 2025 05:11:17 GMT | ये हैं भारत की टॉप 10 आईटी कंपनियां — जिनकी सेवाएं दुनिया भर में चलती हैं, Top 10 IT Companies in… | A Company Details | [Read More](https://medium.com/p/a7cef9744ec6) |
+| Sat, 09 Aug 2025 05:10:06 GMT | Where Innovation Meets Affordability | techland maisha | [Read More](https://medium.com/p/bced951eb084) |
+| Sat, 09 Aug 2025 04:55:31 GMT | From Malware-Centric to Breach-Centric: The Cybersecurity Mindset Shift You Need to Make | Ahmad Naufal Ramadan | [Read More](https://medium.com/p/d3f8fc7de927) |
+| Sat, 09 Aug 2025 04:52:10 GMT | Improper Media Deletion How I Found Publicly Accessible Deleted Files | Chidubem Chukwu | [Read More](https://medium.com/p/391c4cdac844) |
+| Sat, 09 Aug 2025 04:52:03 GMT | Inayat Hussain Chohan: The Polymath Who Codes, Writes, and Thinks Beyond Boundaries | Inayat Hussain | [Read More](https://medium.com/p/27ff1f461468) |
 | Sat, 09 Aug 2025 04:37:28 GMT | Amazon’s $52 Outdoor Security Camera: Fantastic Clarity at 43% Off | ARK Writes | [Read More](https://medium.com/p/d1eea097e7ec) |
 | Sat, 09 Aug 2025 04:36:01 GMT | Unexpected Input Caused Functionality Confusion — How I Discovered a P4 Bug with Real Impact | Mohamed Said Ibrahim | [Read More](https://medium.com/p/4a7af7fec7e3) |
 | Sat, 09 Aug 2025 04:32:22 GMT | Strengthening EKS Cluster Security with Wiz Integration | Ranjan K | [Read More](https://medium.com/p/ce693d52ef00) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 18:52:04 GMT | What If… Nuclear Deterrence Fails? | Julien | [Read More](https://medium.com/p/671220e8fe46) |
 | Fri, 08 Aug 2025 18:50:52 GMT | You Gave Them Everything Just to Scroll for Free | Your's Nightmare | [Read More](https://medium.com/p/7af4b71c9277) |
 | Fri, 08 Aug 2025 18:50:41 GMT | Can You Trust QR Codes on Posters? | Your's Nightmare | [Read More](https://medium.com/p/9aab27f4637b) |
-| Fri, 08 Aug 2025 18:47:57 GMT | We got hit by a Negative SEO attack ! | Aurelia bret | [Read More](https://medium.com/p/dd9c0400981c) |
-| Fri, 08 Aug 2025 18:46:03 GMT | The Bug That Made McDonald’s Ice Cream Machines Self-Destruct | Sohail Saifi | [Read More](https://medium.com/p/7afc768023ac) |
-| Fri, 08 Aug 2025 18:44:52 GMT | Breaking the Limits: Exploiting a Race Condition to Bypass Free Plan Restrictions | Kerolos Ayman | [Read More](https://medium.com/p/122a4221c23e) |
-| Fri, 08 Aug 2025 18:44:22 GMT | Bypassing UI Restrictions to Rename an Organization by Request Manipulation | Kerolos Ayman | [Read More](https://medium.com/p/393a972636a2) |
-| Fri, 08 Aug 2025 18:41:46 GMT | SIEM Solutions: Your Frontline Defense in Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/9c0f622d2380) |
-| Fri, 08 Aug 2025 18:39:50 GMT | Why XNSPY is Rated the Best Spy App for Phone Monitoring | Narjis Batool | [Read More](https://medium.com/p/3a22c955f102) |
