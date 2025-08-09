@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 12:27:01 GMT | Why AI-assisted development should terrify you (but not why you think). | The Grumpy CTO | [Read More](https://medium.com/p/1949021aaf05) |
+| Sat, 09 Aug 2025 12:27:01 GMT | Protection From Phishing Attacks: How to Stay Safe Online | Timónofearth | [Read More](https://medium.com/p/07cc86e013d2) |
+| Sat, 09 Aug 2025 12:21:52 GMT | The Power of Strategic Vulnerability | King Fasi | [Read More](https://medium.com/p/47d1511b6963) |
+| Sat, 09 Aug 2025 12:12:22 GMT | Reproducible Java Builds: Why Your JARs Lie And How to Fix It | Ayush Gupta | [Read More](https://medium.com/p/e32e4942acf6) |
+| Sat, 09 Aug 2025 12:10:59 GMT | SSH Şifrəsinin Qırılması və FTP-yə Uzaqdan Qoşulma | Azer Abdullazde | [Read More](https://medium.com/p/666f5d0c4c67) |
+| Sat, 09 Aug 2025 12:09:46 GMT | From Raw Data to Real Insight: The Threat Intelligence Lifecycle Explained | TheReviewHive | [Read More](https://medium.com/p/5094419aac01) |
+| Sat, 09 Aug 2025 12:09:40 GMT | Sensitive information of hundreds of individuals is publicly accessible on a web application… | Nasrin | [Read More](https://medium.com/p/2c320d871c36) |
+| Sat, 09 Aug 2025 12:01:08 GMT | Der ultimative Data Visualization Roadmap 2025: Wie Unternehmen durch strategische… | Philip Hansen | [Read More](https://medium.com/p/d1042f69cec1) |
+| Sat, 09 Aug 2025 11:59:32 GMT | Linux Privilege Escalation for Beginners Part 1, SYSTEM ENUMERATION: | Muhammadhuzaifa | [Read More](https://medium.com/p/80800ff49923) |
+| Sat, 09 Aug 2025 11:57:15 GMT | Flying Blind: The Data Skills Gap That Puts Your Security at Risk | Christina Irick | [Read More](https://medium.com/p/087de1f2e268) |
+| Sat, 09 Aug 2025 11:57:00 GMT | The Bedroom Is Where Most People Finally Show Who They Really Are | X-Plain | [Read More](https://medium.com/p/ce069fa5d29a) |
+| Sat, 09 Aug 2025 11:53:44 GMT | From Hacker to Hacked? Reverse Engineering a Malicious Python Script Like Pro | Aditya Bhatt | [Read More](https://medium.com/p/bc22fe17840f) |
+| Sat, 09 Aug 2025 11:53:16 GMT | How I Passed the eJPT Exam — My Journey Into Practical Pentesting | Kizito Arinze Chukwu | [Read More](https://medium.com/p/f456d67f6b95) |
+| Sat, 09 Aug 2025 11:52:09 GMT | OT Güvenliğine Giriş: NIST Rehberi Üzerinden Kendi Notlarım | Yaren Karakus | [Read More](https://medium.com/p/6dc12eabb141) |
+| Sat, 09 Aug 2025 11:51:25 GMT | Drosera Network: Building a Decentralized Security System for Web3 | Toji01 | [Read More](https://medium.com/p/88230dd46d17) |
+| Sat, 09 Aug 2025 11:39:27 GMT | On Situationships: Forgiving the Heart That Stayed Too Long | hea | [Read More](https://medium.com/p/aefb279cd1b6) |
+| Sat, 09 Aug 2025 11:39:06 GMT | DockerLabs Writeup — PingPong (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3671a1d000b2) |
+| Sat, 09 Aug 2025 11:36:50 GMT | Project #2: Building a Network Topology Using Enhanced Interior Gateway Routing Protocol (EIGRP)… | NSESean | [Read More](https://medium.com/p/718f51211e8c) |
 | Sat, 09 Aug 2025 11:28:33 GMT | ️ Intro to Detection Engineering — TryHackMe Walkthrough & Learning Guide | Furkanctiner | [Read More](https://medium.com/p/72140b8587b7) |
 | Sat, 09 Aug 2025 11:25:00 GMT | The Secret Behind Saudi Arabia’s Safest Businesses? Two Words: Axontec International | Zenecaastra | [Read More](https://medium.com/p/1233da1c1895) |
 | Sat, 09 Aug 2025 11:10:23 GMT | So You Think You Know “Auth”? | Kisalay | [Read More](https://medium.com/p/fafad8aa3f21) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 06:19:50 GMT | Why Claude AI is a Game-Changer for Rapid Solution Development | Sandeep Sivanandan | [Read More](https://medium.com/p/3a6a50f6886e) |
 | Sat, 09 Aug 2025 06:17:23 GMT | Autoswagger: The Free API Security Tool Every Developer Needs in 2025 | Egyda-Ai | [Read More](https://medium.com/p/e429086bacfe) |
 | Sat, 09 Aug 2025 06:17:14 GMT | What is Ethical Hacking and How to Become One? | Charleskerren | [Read More](https://medium.com/p/ed97e3231c56) |
-| Sat, 09 Aug 2025 06:03:03 GMT | 如何用 Google OSS-Rebuild 打造一份符合 SaMD要求的 SBOM | JH5 | [Read More](https://medium.com/p/e5b09e324250) |
-| Sat, 09 Aug 2025 06:00:43 GMT | Wi-Fi Under Siege: Ethical Cracking of WPA2 Networks | dashidecoded | [Read More](https://medium.com/p/8b8b68b9bced) |
-| Sat, 09 Aug 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Aug 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/23a02a5c829d) |
-| Sat, 09 Aug 2025 05:42:29 GMT | Tokenization & how it secures your payment — A stripe case study | Debashis Debnath | [Read More](https://medium.com/p/654f94bb751b) |
-| Sat, 09 Aug 2025 05:38:25 GMT | Project Ire: Microsoft’s AI Sentinel Against Malware | Jacky Kapadia | [Read More](https://medium.com/p/664772d099d1) |
-| Sat, 09 Aug 2025 05:35:27 GMT | Single API Key from a Chrome Extension Led to 5.2 Million Exposed Customer Records | Erkan Kavas | [Read More](https://medium.com/p/0cc81545a7a8) |
-| Sat, 09 Aug 2025 05:32:30 GMT | لعبة ONE PIECE Bounty Rush - نصائح واستراتيجيات للعب الفعال | Malik Alkysy | [Read More](https://medium.com/p/07ab573b1389) |
-| Sat, 09 Aug 2025 05:31:43 GMT | Cybersecurity Forensics: Investigating Cybercrimes | Cyber Security Research | [Read More](https://medium.com/p/97f644e4b49f) |
-| Sat, 09 Aug 2025 05:31:38 GMT | Bypassing 403 & 401 Errors: All Hacker Techniques Revealed | Vipul Sonule | [Read More](https://medium.com/p/0709ddfa99af) |
-| Sat, 09 Aug 2025 05:31:28 GMT | Bots Move Like Us Now — CAPTCHAs Are Losing the War | Techscribe Central | [Read More](https://medium.com/p/6de3010187b2) |
-| Sat, 09 Aug 2025 05:31:09 GMT | Hacked in Your Hand: The Fight Against Mobile Malware | Sandeep Saxena | [Read More](https://medium.com/p/fed1bb92083d) |
-| Sat, 09 Aug 2025 05:30:20 GMT | Phishing Isn’t Just Emails Anymore | Shahzaib | [Read More](https://medium.com/p/2ca59d379bcf) |
-| Sat, 09 Aug 2025 05:29:53 GMT | The Future of Cybersecurity: Emerging Trends and Technologies | Cyber Security Research | [Read More](https://medium.com/p/015245a175dc) |
-| Sat, 09 Aug 2025 05:26:13 GMT | Honeypot Setup: Complete VPS Step-by-Step Documentation for Cybersecurity Students | Satyam Pathania | [Read More](https://medium.com/p/1830d17c0a47) |
-| Sat, 09 Aug 2025 05:26:13 GMT | IoT Cybersecurity: Securing the Internet of Things | Cyber Security Research | [Read More](https://medium.com/p/0d94f83475e4) |
-| Sat, 09 Aug 2025 05:18:46 GMT | Cybersecurity Compliance: Meeting Regulatory Requirements | Cyber Security Research | [Read More](https://medium.com/p/a20e3d8933bf) |
-| Sat, 09 Aug 2025 05:16:13 GMT | DNS over TLS (DoT) | DarKVoicE | [Read More](https://medium.com/p/66466f7d7373) |
-| Sat, 09 Aug 2025 05:11:18 GMT | AI Security: Addressing Detailed Vulnerabilities | Artificial Intelligence Details | [Read More](https://medium.com/p/d3cfc376e4be) |
