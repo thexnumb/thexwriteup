@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 23:17:28 GMT | AI in Security: How Artificial Intelligence is Transforming Threat Detection and Response | Shradhdha Bhalodia | [Read More](https://medium.com/p/aae147eee902) |
+| Sat, 09 Aug 2025 23:17:06 GMT | Empire Breakout CTF | Iceyami | [Read More](https://medium.com/p/b471971b3331) |
+| Sat, 09 Aug 2025 23:11:24 GMT | Snowflake SQL in a Nutshell: Monitor non-human user logins during switch from password to other… | NadirDoctor | [Read More](https://medium.com/p/961076365c56) |
+| Sat, 09 Aug 2025 23:10:20 GMT | Telegram as a Stealth C2: Investigation & Analysis | f0xy_pr0xy | [Read More](https://medium.com/p/f91b42965e36) |
+| Sat, 09 Aug 2025 23:09:00 GMT | Don’t Get Scammed!  Unsolicited Packages with QR Codes are the New Phishing Scam! | Max Farnga | [Read More](https://medium.com/p/79b06ffb2341) |
+| Sat, 09 Aug 2025 23:03:10 GMT | When They Throw Mud, I Just Wipe It Off | Anwar Ballem | [Read More](https://medium.com/p/35567a8bdc55) |
+| Sat, 09 Aug 2025 23:01:45 GMT | Exposing Secrets in Public Repositories Using GitLeaks: A Bug Bounty Learning Experience | Amitishacked | [Read More](https://medium.com/p/bfbbd9e1310a) |
+| Sat, 09 Aug 2025 23:01:26 GMT | Will .NET Be Dead in 2026? A Full Breakdown For Developers | Shubham Kumar | [Read More](https://medium.com/p/8d26c7774b87) |
+| Sat, 09 Aug 2025 22:53:19 GMT | ISO/IEC 27001، فكرة أم ضرورة؟..نظرة مختصرة وتعريفية عنها | Abdulrahman Kamal | [Read More](https://medium.com/p/2a3d448ed0cf) |
+| Sat, 09 Aug 2025 22:42:04 GMT | Ransomware: Exposed Credentials Are Often the Front Door | Alexandre Vandamme | [Read More](https://medium.com/p/507f2398022d) |
+| Sat, 09 Aug 2025 22:37:19 GMT | Day 77: Other shells | Nile Okomo | [Read More](https://medium.com/p/2bb8649b62fe) |
 | Sat, 09 Aug 2025 22:33:43 GMT | My First Malware Analysis I Opened It, Then Panicked | Shahzaib | [Read More](https://medium.com/p/d31db6ee2632) |
 | Sat, 09 Aug 2025 22:33:00 GMT | Fake Letters From the CEO — And Why They Work | Evgeny Ermakov | [Read More](https://medium.com/p/da0dd3eefdad) |
 | Sat, 09 Aug 2025 22:24:37 GMT | Identity and Access Management: Controlling Access to Resources | Cyber Security Research | [Read More](https://medium.com/p/d88a0652088a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 15:03:29 GMT | Scam Fatigue | Rev.  Sheri Heller, LCSW, RSW | [Read More](https://medium.com/p/6c8998f15469) |
 | Sat, 09 Aug 2025 15:01:50 GMT | Paper Summary — RelaxLoss: Defending Membership Inference Attacks Without Losing Utility | Aditya Mohan | [Read More](https://medium.com/p/9b845603cf78) |
 | Sat, 09 Aug 2025 14:59:30 GMT | Server-side request forgery (SSRF) | Zodiac Hacker | [Read More](https://medium.com/p/e8438a1b0f58) |
-| Sat, 09 Aug 2025 14:58:29 GMT | JWT attacks | Zodiac Hacker | [Read More](https://medium.com/p/78e873db604b) |
-| Sat, 09 Aug 2025 14:58:00 GMT | Broken Access Controls & IDOR: Access control vulnerabilities and privilege escalation | Zodiac Hacker | [Read More](https://medium.com/p/a2c77559b98d) |
-| Sat, 09 Aug 2025 14:53:58 GMT | Why Hackers Love People Who Reuse Passwords | Dhruvdeep Singh | [Read More](https://medium.com/p/c3d8bf8c74ee) |
-| Sat, 09 Aug 2025 14:53:44 GMT | A little something to get you started—Hacker101 CTF Write-Up | Mirage43 | [Read More](https://medium.com/p/64da79a810ac) |
-| Sat, 09 Aug 2025 14:52:42 GMT | Your ChatGPT History Just Went Public on Google. Here’s What I Did in 10 Mins to Fix It. | Mohamed Bakry | [Read More](https://medium.com/p/103c6b88c8ba) |
-| Sat, 09 Aug 2025 14:48:21 GMT | Trooper [SOC] - Challange #3 | D4m.sh | [Read More](https://medium.com/p/2cdc6fb30ee8) |
-| Sat, 09 Aug 2025 14:36:25 GMT | Why Use Services Like Proton Mail If Everyone Doesn’t Encrypt? | Martino J | [Read More](https://medium.com/p/15b3efbc7ad4) |
-| Sat, 09 Aug 2025 14:35:22 GMT | Sécurisez vos formulaires avec un pot de miel | Stefan Heyd | [Read More](https://medium.com/p/670b74cc25c8) |
-| Sat, 09 Aug 2025 14:35:10 GMT | Why a Small, Purpose-Built AI Can Beat GPT-5 in Your Terminal | GitsWhy | [Read More](https://medium.com/p/fa24d2aabdc4) |
-| Sat, 09 Aug 2025 14:27:55 GMT | Why Cybersecurity is Important | Aj | [Read More](https://medium.com/p/8fe63db3577d) |
-| Sat, 09 Aug 2025 14:18:04 GMT | SolarWinds Hack: 5 Critical Lessons for Businesses | Aj | [Read More](https://medium.com/p/9e6aaa1fae32) |
