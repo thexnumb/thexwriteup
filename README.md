@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 19:24:06 GMT | What Are False Positives and False Negatives? | Firdovsi | [Read More](https://medium.com/p/5bad7c9dc3ec) |
+| Sat, 09 Aug 2025 19:19:01 GMT | Advanced WAF Bypass Using a Single cURL Command | KILLUA_UCHIHA | [Read More](https://medium.com/p/6042a643948e) |
+| Sat, 09 Aug 2025 19:17:38 GMT | Yo fam, you thought bug bounty was wild before? | Viratavi | [Read More](https://medium.com/p/21895e235605) |
+| Sat, 09 Aug 2025 19:15:30 GMT | 11. The Hidden Power of Owning Your Insecurity Out Loud | Roj Ink | [Read More](https://medium.com/p/9ea657870d4f) |
 | Sat, 09 Aug 2025 18:54:57 GMT | Beyond the Hype: Critical Security Vulnerabilities in Large Language Models | CT Chidambaram | [Read More](https://medium.com/p/854fe871923e) |
 | Sat, 09 Aug 2025 18:50:23 GMT | MAL: Malware Introductory TryHackMe Writeup | theOrthodox | [Read More](https://medium.com/p/360f21f8ffc8) |
 | Sat, 09 Aug 2025 18:45:28 GMT | Why the Next Big Shift in Tech Could Be All About Digital Ownership | Aliciasierra | [Read More](https://medium.com/p/9e5d89b61740) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 12:21:52 GMT | The Power of Strategic Vulnerability | King Fasi | [Read More](https://medium.com/p/47d1511b6963) |
 | Sat, 09 Aug 2025 12:12:22 GMT | Reproducible Java Builds: Why Your JARs Lie And How to Fix It | Ayush Gupta | [Read More](https://medium.com/p/e32e4942acf6) |
 | Sat, 09 Aug 2025 12:10:59 GMT | SSH Şifrəsinin Qırılması və FTP-yə Uzaqdan Qoşulma | Azer Abdullazde | [Read More](https://medium.com/p/666f5d0c4c67) |
-| Sat, 09 Aug 2025 12:09:46 GMT | From Raw Data to Real Insight: The Threat Intelligence Lifecycle Explained | TheReviewHive | [Read More](https://medium.com/p/5094419aac01) |
-| Sat, 09 Aug 2025 12:09:40 GMT | Sensitive information of hundreds of individuals is publicly accessible on a web application… | Nasrin | [Read More](https://medium.com/p/2c320d871c36) |
-| Sat, 09 Aug 2025 12:01:08 GMT | Der ultimative Data Visualization Roadmap 2025: Wie Unternehmen durch strategische… | Philip Hansen | [Read More](https://medium.com/p/d1042f69cec1) |
-| Sat, 09 Aug 2025 11:59:32 GMT | Linux Privilege Escalation for Beginners Part 1, SYSTEM ENUMERATION: | Muhammadhuzaifa | [Read More](https://medium.com/p/80800ff49923) |
