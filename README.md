@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 07:09:50 GMT | [NULLED] Ransomware LockBit 3.0 Builder | coinjoin pro | [Read More](https://medium.com/p/74dd5c2c69bc) |
+| Sat, 09 Aug 2025 07:09:28 GMT | İnstagram hesabınızı xakerlərdən qorumağın yolları | Orkhan Jalalov | [Read More](https://medium.com/p/e17e74e8bc27) |
+| Sat, 09 Aug 2025 07:05:49 GMT | DNS — The Internet’s Address Book, Attack Surface & Bughunter’s Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/021ec78a68c6) |
+| Sat, 09 Aug 2025 06:57:02 GMT | Bug Bounty Hunting: JWT Vulnerabilities Deeply Explained (Live Step-by-Step Practical) | Shaikh Minhaz | [Read More](https://medium.com/p/c344ce723906) |
+| Sat, 09 Aug 2025 06:44:36 GMT | HTB Jerry Machine — Walkthrough for beginners | SeverSerenity | [Read More](https://medium.com/p/c137972061aa) |
+| Sat, 09 Aug 2025 06:44:21 GMT | Secure Key Derivation with Argon2: A Modern Approach to Password-Based Cryptography | Mohamed Gebril | [Read More](https://medium.com/p/ba18e762fc25) |
+| Sat, 09 Aug 2025 06:44:09 GMT | Error Handling in JavaScript: Try-Catch Blocks and Custom Errors | Devsync | [Read More](https://medium.com/p/9464aa88844d) |
+| Sat, 09 Aug 2025 06:43:56 GMT | Smart Bot Defense in 2025: How to Challenge Only Risky Users and Let the Rest Glide Through | Melvin Prince | [Read More](https://medium.com/p/8ac5db7d4b01) |
+| Sat, 09 Aug 2025 06:43:34 GMT | CAPTCHAs Are Broken in 2025, Here’s How to Stop Bots Without Torturing Users | Melvin Prince | [Read More](https://medium.com/p/b127d395e582) |
+| Sat, 09 Aug 2025 06:41:00 GMT | “Day 6: RCE — How I Hacked a Bank Using a Forgotten Excel File” | Aman Sharma | [Read More](https://medium.com/p/e0eb14758136) |
+| Sat, 09 Aug 2025 06:39:59 GMT | Antivirus və EDR nədir, fərqləri nələrdir? | Orkhan Jalalov | [Read More](https://medium.com/p/4d2eaa562c52) |
 | Sat, 09 Aug 2025 06:26:41 GMT | Apartment Security Door Selection: Securing Both Burglar-Proof And Soundproofing | Monica6656 | [Read More](https://medium.com/p/9474e3958501) |
 | Sat, 09 Aug 2025 06:19:50 GMT | Why Claude AI is a Game-Changer for Rapid Solution Development | Sandeep Sivanandan | [Read More](https://medium.com/p/3a6a50f6886e) |
 | Sat, 09 Aug 2025 06:17:23 GMT | Autoswagger: The Free API Security Tool Every Developer Needs in 2025 | Egyda-Ai | [Read More](https://medium.com/p/e429086bacfe) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 21:14:49 GMT | A Social Engineering Attempt That Started Out as a Cat Sitting Request | Bethany Buffon | [Read More](https://medium.com/p/70dea9d35328) |
 | Fri, 08 Aug 2025 21:10:33 GMT | How to Qualify for BUG BUG Airdrops | BUG | [Read More](https://medium.com/p/177638c4f23b) |
 | Fri, 08 Aug 2025 20:56:18 GMT | Winning the AI Supremacy Game: A Strategic Blueprint for Cyber-Defense in the Autonomous Age | Valdez Ladd | [Read More](https://medium.com/p/aa93e99da2a8) |
-| Fri, 08 Aug 2025 20:47:06 GMT | The Cyber Threat Landscape: An Evolving Challenge | Cyber Security Research | [Read More](https://medium.com/p/f81d4c1f1d55) |
-| Fri, 08 Aug 2025 20:45:19 GMT | The Ashen Heart Who Still Echoes | @aryxnn | [Read More](https://medium.com/p/6c5fc780a47a) |
-| Fri, 08 Aug 2025 20:45:14 GMT | Navigating the Cybersecurity Landscape: A Practical Guide | Cyber Security Research | [Read More](https://medium.com/p/7d0cd1ab2989) |
-| Fri, 08 Aug 2025 20:43:17 GMT | Cybersecurity Essentials: Securing Your Online Life | Cyber Security Research | [Read More](https://medium.com/p/56d137e811d2) |
-| Fri, 08 Aug 2025 20:41:27 GMT | Protecting Your Digital Assets: A Cybersecurity Handbook | Cyber Security Research | [Read More](https://medium.com/p/df51ba4b80c9) |
-| Fri, 08 Aug 2025 20:39:34 GMT | The Anatomy of a Cyberattack: Understanding the Threat | Cyber Security Research | [Read More](https://medium.com/p/7a0578e9d5f1) |
-| Fri, 08 Aug 2025 20:39:03 GMT | Find Leaked Secret Keys (OPENAI, DeepSeek, Ollama , HuggingFace) on Github | Zulqurnain Haider | [Read More](https://medium.com/p/d259d7051a9b) |
-| Fri, 08 Aug 2025 20:17:56 GMT | Apache Tomcat 8.5.19 - CVE-2017–12617 | Özcan Ersan | [Read More](https://medium.com/p/362fa7d17504) |
-| Fri, 08 Aug 2025 20:16:33 GMT | Double Trouble VulnHub Walkthrough: Step-by-Step Guide to Solving ‘Machine Inside a Machine’ for… | Prajwal | [Read More](https://medium.com/p/b89b3561407e) |
-| Fri, 08 Aug 2025 20:15:48 GMT | 10 Simple Cybersecurity Tips for Remote Workers | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/41961a4455ae) |
-| Fri, 08 Aug 2025 20:10:57 GMT | Dependency Confusion: Danger Danger Danger | Isaac Privett | [Read More](https://medium.com/p/c730b5b40ced) |
