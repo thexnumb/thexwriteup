@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 23:29:22 GMT | How a Friend’s Hacked Account Tricked Me into Sending Money | Shahzaib | [Read More](https://medium.com/p/a55043921316) |
+| Sat, 09 Aug 2025 23:22:52 GMT | CTF Day(48) | Ahmed Narmer | [Read More](https://medium.com/p/a054295afb49) |
+| Sat, 09 Aug 2025 23:19:38 GMT | شماره خاله تهران شماره خاله تهران شماره خاله شماره خاله شیراز شماره خاله شیراز شماره خاله کرمانشاه… | شماره خاله الهام بامکان تهران شماره خاله اصفهان رش | [Read More](https://medium.com/p/031a04afedd6) |
 | Sat, 09 Aug 2025 23:17:28 GMT | AI in Security: How Artificial Intelligence is Transforming Threat Detection and Response | Shradhdha Bhalodia | [Read More](https://medium.com/p/aae147eee902) |
 | Sat, 09 Aug 2025 23:17:06 GMT | Empire Breakout CTF | Iceyami | [Read More](https://medium.com/p/b471971b3331) |
 | Sat, 09 Aug 2025 23:11:24 GMT | Snowflake SQL in a Nutshell: Monitor non-human user logins during switch from password to other… | NadirDoctor | [Read More](https://medium.com/p/961076365c56) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 15:06:28 GMT | “Thinking Like an Attacker: My Journey to Making JavaScript Code Secure from XSS and Injection” | Maximilian Oliver | [Read More](https://medium.com/p/f334206f060a) |
 | Sat, 09 Aug 2025 15:06:01 GMT | Ultimate Cyber Security Checklist for Remote Work Environments (2025 Edition) | Paul Meyer | [Read More](https://medium.com/p/6fbb33ce0a0d) |
 | Sat, 09 Aug 2025 15:05:34 GMT | Is BiyaPay Safe? | Ann | [Read More](https://medium.com/p/23c5bf08d240) |
-| Sat, 09 Aug 2025 15:03:29 GMT | Scam Fatigue | Rev.  Sheri Heller, LCSW, RSW | [Read More](https://medium.com/p/6c8998f15469) |
-| Sat, 09 Aug 2025 15:01:50 GMT | Paper Summary — RelaxLoss: Defending Membership Inference Attacks Without Losing Utility | Aditya Mohan | [Read More](https://medium.com/p/9b845603cf78) |
-| Sat, 09 Aug 2025 14:59:30 GMT | Server-side request forgery (SSRF) | Zodiac Hacker | [Read More](https://medium.com/p/e8438a1b0f58) |
