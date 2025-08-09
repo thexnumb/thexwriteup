@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 18:28:13 GMT | Pentesting Fundamentals - Tryhackme | Atakan Bitim | [Read More](https://medium.com/p/fd951312ffa4) |
+| Sat, 09 Aug 2025 18:14:06 GMT | 0click Account Take over via Auth0 | Ahmed Mahmoued | [Read More](https://medium.com/p/3a39cbe080cc) |
+| Sat, 09 Aug 2025 18:09:33 GMT | Into Linux and Networking | P R ROHITH | [Read More](https://medium.com/p/9679482fdaab) |
+| Sat, 09 Aug 2025 18:07:35 GMT | Breaking into cybersecurity isn’t always a straight line. | Gayatri Nakar | [Read More](https://medium.com/p/0bcce49ad9aa) |
+| Sat, 09 Aug 2025 18:03:23 GMT | [HackTheBox Sherlocks Write-up] Psittaciformes (Malicious bash script from GitHub leads to… | Chicken0248 | [Read More](https://medium.com/p/b5fcadd7d60e) |
+| Sat, 09 Aug 2025 17:51:34 GMT | Tools of the Trade: For a Cybersecurity Analyst | Uplatz | [Read More](https://medium.com/p/904a14344732) |
+| Sat, 09 Aug 2025 17:50:45 GMT | Acronis Cyber Protect Cloud: Is It the All-in-One Security Solution Your Business Needs? | HASAN MAHMUD | [Read More](https://medium.com/p/b83278d96dd9) |
+| Sat, 09 Aug 2025 17:47:41 GMT | The Significance of Spy Apps: Top Options for Monitoring and Security | Narjis Batool | [Read More](https://medium.com/p/42a9b126a7da) |
+| Sat, 09 Aug 2025 17:41:20 GMT | What Are the Latest Threats in Cyber Security? | Online course provider- Data science, AI, etc | [Read More](https://medium.com/p/e5b1dd82270f) |
 | Sat, 09 Aug 2025 17:26:07 GMT | HTTP/1.1 Must Die: The Hidden Attack Surface Your Pentests Are Missing (And Hackers Aren’t) | cybrNK | [Read More](https://medium.com/p/9426cc7d6c30) |
 | Sat, 09 Aug 2025 17:24:51 GMT | Behind the Screens: reCAPTCHA v3 vs Cloudflare Turnstile | Melvin Prince | [Read More](https://medium.com/p/c8188e8356cb) |
 | Sat, 09 Aug 2025 17:21:15 GMT | Vulnerability and Boundaries: Learning Where to Pour and Where to Pause | Gincy Beard | [Read More](https://medium.com/p/23658b1d31b9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 11:39:06 GMT | DockerLabs Writeup — PingPong (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3671a1d000b2) |
 | Sat, 09 Aug 2025 11:36:50 GMT | Project #2: Building a Network Topology Using Enhanced Interior Gateway Routing Protocol (EIGRP)… | NSESean | [Read More](https://medium.com/p/718f51211e8c) |
 | Sat, 09 Aug 2025 11:28:33 GMT | ️ Intro to Detection Engineering — TryHackMe Walkthrough & Learning Guide | Furkanctiner | [Read More](https://medium.com/p/72140b8587b7) |
-| Sat, 09 Aug 2025 11:25:00 GMT | The Secret Behind Saudi Arabia’s Safest Businesses? Two Words: Axontec International | Zenecaastra | [Read More](https://medium.com/p/1233da1c1895) |
-| Sat, 09 Aug 2025 11:10:23 GMT | So You Think You Know “Auth”? | Kisalay | [Read More](https://medium.com/p/fafad8aa3f21) |
-| Sat, 09 Aug 2025 11:08:27 GMT | Finding Cross-site Scripting (XSS) Vulnerabilities and Mitigation Process | Abdus Satter | [Read More](https://medium.com/p/536b01700b5b) |
-| Sat, 09 Aug 2025 11:07:08 GMT | Prompt Injection → Token Overload → Denial of Service in LLM HTML Generator | MostReal | [Read More](https://medium.com/p/0f2ef42ff3e3) |
-| Sat, 09 Aug 2025 11:02:08 GMT | Reliable Car Park Security: Ensure the Safety of Your Vehicles | Professional UK Services | [Read More](https://medium.com/p/a12b80b6eaba) |
-| Sat, 09 Aug 2025 10:58:38 GMT | DAY 40 — Building My Regex Muscles: The Invisible Skill That Powers DFIR | Jinay | [Read More](https://medium.com/p/3c896ea78a31) |
-| Sat, 09 Aug 2025 10:58:05 GMT | Meet Abhijith: Kerala’s Youngest Ethical Hacker at Just 13 | Cyberinn | [Read More](https://medium.com/p/11b397fa8ba1) |
-| Sat, 09 Aug 2025 10:54:54 GMT | Simple HTTP Server in C: An In-Depth Guide | Nabin Lopchan | [Read More](https://medium.com/p/2f159a11cda9) |
-| Sat, 09 Aug 2025 10:54:08 GMT | Geminis Trojan Horse | AIficionado | [Read More](https://medium.com/p/8005c1fb366f) |
