@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 15:37:08 GMT | Can you get ChatGPT Agent to compromise your passwords? | Brandon Rich | [Read More](https://medium.com/p/76607cda54c4) |
+| Sat, 09 Aug 2025 15:35:32 GMT | Mobile App Security — Beyond the OWASP Checklist | Adithya H | [Read More](https://medium.com/p/b5712e42241b) |
+| Sat, 09 Aug 2025 15:30:05 GMT | Linux Privilege Escalation for Beginners Part 2, USER ENUMERATION: | Muhammadhuzaifa | [Read More](https://medium.com/p/0eaabfa3b54a) |
+| Sat, 09 Aug 2025 15:28:11 GMT | Guess What? AI Still Needs Security | BillfordX | [Read More](https://medium.com/p/2b275b088a45) |
+| Sat, 09 Aug 2025 15:27:09 GMT | From Basic Prompts to Strategic Power: Applying “The 19 Laws of AI Prompting Intelligence | Nikolay Gul | [Read More](https://medium.com/p/218526523193) |
 | Sat, 09 Aug 2025 15:16:14 GMT | Cyber Snack-1 Cyber Attacks | Mohamed Anwar Hussain A | [Read More](https://medium.com/p/d8522808c8a9) |
+| Sat, 09 Aug 2025 15:16:05 GMT | Tips to Protect Yourself on LinkedIn from Fraud, Social Engineering, and Espionage | Matthew.Rosenquist | [Read More](https://medium.com/p/930ca202785e) |
 | Sat, 09 Aug 2025 15:06:28 GMT | “Thinking Like an Attacker: My Journey to Making JavaScript Code Secure from XSS and Injection” | Maximilian Oliver | [Read More](https://medium.com/p/f334206f060a) |
 | Sat, 09 Aug 2025 15:06:01 GMT | Ultimate Cyber Security Checklist for Remote Work Environments (2025 Edition) | Paul Meyer | [Read More](https://medium.com/p/6fbb33ce0a0d) |
 | Sat, 09 Aug 2025 15:05:34 GMT | Is BiyaPay Safe? | Ann | [Read More](https://medium.com/p/23c5bf08d240) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 09:48:50 GMT | Who do we write for? | Bboneus Skids | [Read More](https://medium.com/p/55750ff6f15d) |
 | Sat, 09 Aug 2025 09:47:01 GMT | ️ Kernel Module Security and Intrusion Detection on Linux | Esra Kayhan | [Read More](https://medium.com/p/c831288ec814) |
 | Sat, 09 Aug 2025 09:45:20 GMT | Écran Dell Pro 22 — E2225HM | myinfoshop | [Read More](https://medium.com/p/1c39e170e8d8) |
-| Sat, 09 Aug 2025 09:43:20 GMT | The Future of Cybersecurity | Aj | [Read More](https://medium.com/p/477d6a29e8b4) |
-| Sat, 09 Aug 2025 09:42:55 GMT | How come I falter to be eloquent in the language of poetry when I’ve been fluent in the language of… | mireya. | [Read More](https://medium.com/p/402decb5b5ea) |
-| Sat, 09 Aug 2025 09:38:53 GMT | VPN=prison. Top countries where using a VPN could land you in prison. | 0trust0day | [Read More](https://medium.com/p/052e57f1003a) |
-| Sat, 09 Aug 2025 09:35:52 GMT | The Best Integrated Lease Management Software In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/6160c4d83290) |
-| Sat, 09 Aug 2025 09:34:18 GMT | What Skinwalker Ranch Might Be Teaching Us About the Next Stages of Cyberwarfare | Leo | [Read More](https://medium.com/p/00b0c546b3c8) |
-| Sat, 09 Aug 2025 09:32:49 GMT | Meterpreter MIA? Troubleshooting Your Hacker Handshake | SilentInject | [Read More](https://medium.com/p/c0b41e39fcc3) |
