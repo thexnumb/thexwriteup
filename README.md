@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 16:17:16 GMT | Why Every Dev Needs a Security Stethoscope (And I have Built One) | Vedanta Banerjee | [Read More](https://medium.com/p/3758178d6844) |
+| Sat, 09 Aug 2025 16:10:47 GMT | Books that Helped Shape my Digital Forensic Education | Travis Murphy | [Read More](https://medium.com/p/5167ca3a5c42) |
+| Sat, 09 Aug 2025 16:06:43 GMT | CTF Write-Up: Injector — Machines | Marwan Alsaifi | [Read More](https://medium.com/p/1454f0886184) |
+| Sat, 09 Aug 2025 16:03:35 GMT | Why Online Fraud Is Rising — And Why It’s Not Just One Reason | Karina | [Read More](https://medium.com/p/896a2c50c79c) |
+| Sat, 09 Aug 2025 15:56:10 GMT | Private Browsing vs. Incognito: Misconceptions & Risks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/11e3bff8fd8b) |
+| Sat, 09 Aug 2025 15:54:53 GMT | [HackTheBox Sherlocks Write-up] Trent (Investigate network router command injection CVE from pcap… | Chicken0248 | [Read More](https://medium.com/p/146f04ec966d) |
+| Sat, 09 Aug 2025 15:52:05 GMT | CIA TRIAD | Roshinni Gandhi | [Read More](https://medium.com/p/492d5b4e79a2) |
+| Sat, 09 Aug 2025 15:51:00 GMT | Title: Which Cyberspace Protection Condition Applies to You in 2025? | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/1aa2f2f52f0c) |
+| Sat, 09 Aug 2025 15:39:58 GMT | [HackTheBox Sherlocks Write-up] ReliableThreat (VSCode extension leads to reverse shell and… | Chicken0248 | [Read More](https://medium.com/p/24cad7896717) |
 | Sat, 09 Aug 2025 15:37:08 GMT | Can you get ChatGPT Agent to compromise your passwords? | Brandon Rich | [Read More](https://medium.com/p/76607cda54c4) |
 | Sat, 09 Aug 2025 15:35:32 GMT | Mobile App Security — Beyond the OWASP Checklist | Adithya H | [Read More](https://medium.com/p/b5712e42241b) |
 | Sat, 09 Aug 2025 15:30:05 GMT | Linux Privilege Escalation for Beginners Part 2, USER ENUMERATION: | Muhammadhuzaifa | [Read More](https://medium.com/p/0eaabfa3b54a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 10:27:27 GMT | Top 20 Direct Jailbreaking Use Cases for LLM Pentesting | Cipher Phreak | [Read More](https://medium.com/p/7220bbf74569) |
 | Sat, 09 Aug 2025 10:09:08 GMT | Six Attractive Behaviours That Seem Strange — Until You Realise How Powerful They Are | Vijay Kumar Gupta | [Read More](https://medium.com/p/89dca7575c5c) |
 | Sat, 09 Aug 2025 10:09:02 GMT | Cyber Security Protesting: Raising a Digital Voice | Cyberfortress solutions | [Read More](https://medium.com/p/dfc8578c6927) |
-| Sat, 09 Aug 2025 10:06:15 GMT | Part 3: Security Practices and Technologies | Harini Ganesan | [Read More](https://medium.com/p/41dd6b4efa9d) |
-| Sat, 09 Aug 2025 10:01:46 GMT | Is This Marketing? | Elizabeth Jude | [Read More](https://medium.com/p/5e33b1c1c229) |
-| Sat, 09 Aug 2025 09:59:49 GMT | No Browser, No Noise — How I Found 3 Bugs Using Censys (Zero → Master Playbook) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/64d50bfab0d0) |
-| Sat, 09 Aug 2025 09:55:08 GMT | The QR Code Scam at My Favorite Coffee Shop | Shahzaib | [Read More](https://medium.com/p/abf03a9d8918) |
-| Sat, 09 Aug 2025 09:54:35 GMT | Censys Chronicles: How I Found 3 Bugs Without Touching a Browser” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5745affb9f64) |
-| Sat, 09 Aug 2025 09:49:50 GMT | How the Butterfly Effect Shapes Cybersecurity And Why Tiny Flaws Can Wreck Your Systems | TheCyberSalad | [Read More](https://medium.com/p/51f411c0690d) |
-| Sat, 09 Aug 2025 09:48:50 GMT | Who do we write for? | Bboneus Skids | [Read More](https://medium.com/p/55750ff6f15d) |
-| Sat, 09 Aug 2025 09:47:01 GMT | ️ Kernel Module Security and Intrusion Detection on Linux | Esra Kayhan | [Read More](https://medium.com/p/c831288ec814) |
-| Sat, 09 Aug 2025 09:45:20 GMT | Écran Dell Pro 22 — E2225HM | myinfoshop | [Read More](https://medium.com/p/1c39e170e8d8) |
