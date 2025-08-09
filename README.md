@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 08:45:34 GMT | The Dark Side of Cheap Hosting: Why Website Security Matters | HASAN MAHMUD | [Read More](https://medium.com/p/6d141c4d6a01) |
+| Sat, 09 Aug 2025 08:45:22 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/1a943cf3b74d) |
+| Sat, 09 Aug 2025 08:43:53 GMT | 10 Real Cybersecurity Hacking Scenarios Not Caused By Hackers | Motasem Hamdan | [Read More](https://medium.com/p/b60f0496d005) |
+| Sat, 09 Aug 2025 08:40:42 GMT | Certified Azure Red Team Professional (CARTP) — Review and Exam Experience | Aslam Anwar Mahimkar | [Read More](https://medium.com/p/e967870aaecc) |
 | Sat, 09 Aug 2025 08:18:01 GMT | Python AST — The Grammar Police That Stops Hackers | Siddiquimohammad | [Read More](https://medium.com/p/7f650f954daf) |
 | Sat, 09 Aug 2025 08:08:43 GMT | Mastering Cybersecurity Basics: Protect Yourself in the Digital World | Basit Zaman | [Read More](https://medium.com/p/6608f348f093) |
 | Sat, 09 Aug 2025 08:01:47 GMT | BYOD & Remote Work: More Devices, More Leaks | Alexandre Vandamme | [Read More](https://medium.com/p/7c1a11939105) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 22:55:47 GMT | Hack The Box “Code” Walkthrough (Beginner-Friendly Guide) | Canyon Cook | [Read More](https://medium.com/p/8b81106b59b6) |
 | Fri, 08 Aug 2025 22:30:21 GMT | What a Day to Launch: My Soul’s Work Begins | Brandi | [Read More](https://medium.com/p/f3f0c20402a0) |
 | Fri, 08 Aug 2025 22:27:59 GMT | Cyber is Dead | Shilo Hadad | [Read More](https://medium.com/p/5ce3f23e07af) |
-| Fri, 08 Aug 2025 22:19:36 GMT | How Strong is Your Password? | Haruna Rasheedah | [Read More](https://medium.com/p/39e2c239e309) |
-| Fri, 08 Aug 2025 22:12:17 GMT | Vidar’s Game: Infostealer in a Music App Costume with Lumma’s Touch | AlanKaliX | [Read More](https://medium.com/p/92956b8a8609) |
-| Fri, 08 Aug 2025 22:01:53 GMT | How AI Detects Insider Threats — No Code at Home | Shradhdha Bhalodia | [Read More](https://medium.com/p/f479beda6e6b) |
-| Fri, 08 Aug 2025 21:52:25 GMT | How I Hacked Essex MUD, Ran a ZX Spectrum BBS, and Got Wrecked by the Phone Bill | Peter Tompson | [Read More](https://medium.com/p/aa6fd45ff072) |
