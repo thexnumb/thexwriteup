@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 03:10:05 GMT | The Art of Anonymity: Why Data Masking is a Modern Business Imperative | Nitesh Upadhyay | [Read More](https://medium.com/p/1d773296d37c) |
+| Sat, 09 Aug 2025 03:02:31 GMT | Caso Celsia: Campaña de phishing detectada y reportada | ANDES Shield | [Read More](https://medium.com/p/f2987f7c39df) |
+| Sat, 09 Aug 2025 03:00:18 GMT | How I pass OSCP | Wug | [Read More](https://medium.com/p/bfde85ca919e) |
+| Sat, 09 Aug 2025 02:47:25 GMT | Try Hack Me — Ignite | The Outsider | [Read More](https://medium.com/p/a5c253458fcb) |
+| Sat, 09 Aug 2025 02:42:43 GMT | When Your Courtroom Has a Backdoor: The U.S. Judiciary’s Quiet Cyber Crisis | Dhruvdeep Singh | [Read More](https://medium.com/p/1f364e5ec91e) |
+| Sat, 09 Aug 2025 02:41:02 GMT | How I Took Control of My Passwords with a Free Self-Hosted Solution | Likhith | [Read More](https://medium.com/p/f5fe9dba9bca) |
+| Sat, 09 Aug 2025 02:40:44 GMT | Crying, Rambling, and Trying to Figure Out How to Respect Myself | D.M. | [Read More](https://medium.com/p/95d8ac94389a) |
+| Sat, 09 Aug 2025 02:25:10 GMT | Exploitation — When the Party Turns Wild (And Not in a Fun Way) | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/a3033be458db) |
+| Sat, 09 Aug 2025 02:06:12 GMT | "How a Missing Email Verification Can Lock You Out Forever" | Madhan | [Read More](https://medium.com/p/7b4b6a3631e7) |
+| Sat, 09 Aug 2025 02:00:18 GMT | ️ Stage 5 — Installation: When the Bad Guys Unpack Their Bags | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/fa4dcaa3a21d) |
 | Sat, 09 Aug 2025 01:47:40 GMT | The Fastest Way to Set Up PostgreSQL for Devs | Rizqi Mulki | [Read More](https://medium.com/p/0ace3274fe60) |
+| Sat, 09 Aug 2025 01:44:30 GMT | 10 Free Tools Every Aspiring Cybersecurity Pro Should Use to Build Real Skills | Virginia Nelai | [Read More](https://medium.com/p/f058dd964afd) |
+| Sat, 09 Aug 2025 01:43:34 GMT | The Future of AI Governance: An Analytical Article | CCD-IS | [Read More](https://medium.com/p/c92646ff2fa0) |
 | Sat, 09 Aug 2025 01:36:44 GMT | A Security Guide to the Crypto Galaxy | Dexaran | [Read More](https://medium.com/p/1fe94320cb0c) |
 | Sat, 09 Aug 2025 01:33:20 GMT | AWS EKS Networking Issues: NAT Gateway Complexity | Muhammed Akintola | [Read More](https://medium.com/p/ed7e64b978c1) |
 | Sat, 09 Aug 2025 01:23:44 GMT | Ten Free Tools Every Aspiring Cybersecurity Pro Should Use to Build Real Skills | Virginia Nelai | [Read More](https://medium.com/p/248064d94e3f) |
@@ -60,6 +72,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 20:16:33 GMT | Double Trouble VulnHub Walkthrough: Step-by-Step Guide to Solving ‘Machine Inside a Machine’ for… | Prajwal | [Read More](https://medium.com/p/b89b3561407e) |
 | Fri, 08 Aug 2025 20:15:48 GMT | 10 Simple Cybersecurity Tips for Remote Workers | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/41961a4455ae) |
 | Fri, 08 Aug 2025 20:10:57 GMT | Dependency Confusion: Danger Danger Danger | Isaac Privett | [Read More](https://medium.com/p/c730b5b40ced) |
+| Fri, 08 Aug 2025 20:09:24 GMT | A Segurança do Software Começa no frontend | Fernando Soares | [Read More](https://medium.com/p/faf69d88a6b0) |
 | Fri, 08 Aug 2025 19:59:38 GMT | AI-Powered Content Isn’t Enough -What Security Buyers Actually Want | Digi-tx - Cybersecurity & SaaS Marketing | [Read More](https://medium.com/p/3666ba1cd1e7) |
 | Fri, 08 Aug 2025 19:53:23 GMT | Lab: Basic SSRF against the local server - PortSwigger | SIGKILLers | [Read More](https://medium.com/p/c12bd627ed45) |
 | Fri, 08 Aug 2025 19:49:04 GMT | Paste Consequences | Samer Moujaes | [Read More](https://medium.com/p/831fc9ea3bdb) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 18:01:43 GMT | Portswigger File Upload Vulnerabilities Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/19a802f3af06) |
 | Fri, 08 Aug 2025 18:01:43 GMT | Portswigger File upload vulnerabilities Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/72afc7cd1a9a) |
 | Fri, 08 Aug 2025 18:01:43 GMT | Portswigger File Upload Vulnerabilities Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/10d23530ebbd) |
-| Fri, 08 Aug 2025 17:59:47 GMT | TryHackMe File Inclusion Challenge walkthrough. | N4rn!4n_142 | [Read More](https://medium.com/p/9eb39ca9d4eb) |
-| Fri, 08 Aug 2025 17:55:52 GMT | Jumping Aboard the Cybersecurity Cruise Ship: Active Practice Hubs and Learning from the Legends | Abeera Mehtab | [Read More](https://medium.com/p/188d20d96459) |
-| Fri, 08 Aug 2025 17:51:40 GMT | Master These 100 Cybersecurity Commands to Become a Pro Hacker | Pratham Shah | [Read More](https://medium.com/p/af8c4b679faf) |
-| Fri, 08 Aug 2025 17:42:46 GMT | AWS S3 Bucket Hacking Techniques | Software Sinner | [Read More](https://medium.com/p/df2890a0afd6) |
-| Fri, 08 Aug 2025 17:38:23 GMT | The Junior Dev Who Fixed a Bug Our Team Ignored for 6 Months | BugsyBits | [Read More](https://medium.com/p/dd357072ade9) |
-| Fri, 08 Aug 2025 17:35:24 GMT | Cap — HTB Writeup (Easy Linux) | CyberFaez | [Read More](https://medium.com/p/d665920874bf) |
-| Fri, 08 Aug 2025 17:34:10 GMT | 5 Cybersecurity Practices Every Business Should Follow in 2025 | Radia 2025 | [Read More](https://medium.com/p/39a68d62b102) |
-| Fri, 08 Aug 2025 17:32:41 GMT | CVE-2025-4388 HackerOne Duplicate Report | AbhirupKonwar | [Read More](https://medium.com/p/0a1b34444293) |
-| Fri, 08 Aug 2025 17:29:10 GMT | OWASP Top 10: Not Just for Interviews, Not Just a Checklist | Vaishnavi Sharma | [Read More](https://medium.com/p/211aa48c1678) |
-| Fri, 08 Aug 2025 17:22:23 GMT | Securing AI Agents: A Deep Dive into Autonomous Threat Vectors and Defenses | Paul D. | [Read More](https://medium.com/p/87775e5ed705) |
-| Fri, 08 Aug 2025 17:21:02 GMT | View Exterior Photos of the 2025 Mercedes-AMG G63 | Osama Khan | [Read More](https://medium.com/p/116eef115102) |
-| Fri, 08 Aug 2025 17:20:33 GMT | Dependency Dillema - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/a22469be3922) |
-| Fri, 08 Aug 2025 17:13:12 GMT | OpenDLP Installation & Deployment Workflow | Abdelrahman Metwaly | [Read More](https://medium.com/p/4510775369c5) |
