@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 17:10:14 GMT | Rails .html_safe — The Hidden XSS Trap (With a Full Example) | Dghim Sami | [Read More](https://medium.com/p/3472a848dce1) |
+| Sat, 09 Aug 2025 17:01:02 GMT | The Secret to Stress-Free Tech Help in the USA | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/8e2742a03c46) |
+| Sat, 09 Aug 2025 16:43:04 GMT | CIA vs DAD in Cybersecurity — Understanding the Defender and the Adversary | Samuel Dhamodharan | [Read More](https://medium.com/p/a287c6b521ea) |
 | Sat, 09 Aug 2025 16:42:51 GMT | Dynamic Malware Analysis : Watch Malware Reveal Its Secrets — LIVE! | Paritosh | [Read More](https://medium.com/p/98ad5426e678) |
 | Sat, 09 Aug 2025 16:26:39 GMT | Linux Privilege Escalation for Beginners Part 3, NETOWRK ENUMERATION: | Muhammadhuzaifa | [Read More](https://medium.com/p/dcbbbc8aabfc) |
 | Sat, 09 Aug 2025 16:23:42 GMT | From Browser to Shell: Hacking the Edex-UI Terminal | Abdelrhman Zayed | [Read More](https://medium.com/p/7dfe757893fe) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 10:43:22 GMT | Affordable and Effective Security Solutions for Homes and Businesses | Travel time | [Read More](https://medium.com/p/595c72546be6) |
 | Sat, 09 Aug 2025 10:39:49 GMT | Agentic AI in Cybersecurity: Enhancing Defence with LLMs | Frank Morales Aguilera | [Read More](https://medium.com/p/d2e5a5fad203) |
 | Sat, 09 Aug 2025 10:32:33 GMT | The Easiest Bug Bounty of 2025 | Jeosantos | [Read More](https://medium.com/p/165c57df3e14) |
-| Sat, 09 Aug 2025 10:32:11 GMT | Dont know where to start, info overload ? | Mr. Bones | [Read More](https://medium.com/p/82ae1ea72cf3) |
-| Sat, 09 Aug 2025 10:30:07 GMT | Vault Fault Exposes Critical Logic Flaws in CyberArk and HashiCorp Secrets Managers | Jasmitharouthu | [Read More](https://medium.com/p/f2c79c5e65a4) |
-| Sat, 09 Aug 2025 10:28:37 GMT | The Wonder of Hash: SHA-256, Pedersen and Poseidon | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e64cfdece7ce) |
