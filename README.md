@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 01:47:40 GMT | The Fastest Way to Set Up PostgreSQL for Devs | Rizqi Mulki | [Read More](https://medium.com/p/0ace3274fe60) |
+| Sat, 09 Aug 2025 01:36:44 GMT | A Security Guide to the Crypto Galaxy | Dexaran | [Read More](https://medium.com/p/1fe94320cb0c) |
+| Sat, 09 Aug 2025 01:33:20 GMT | AWS EKS Networking Issues: NAT Gateway Complexity | Muhammed Akintola | [Read More](https://medium.com/p/ed7e64b978c1) |
+| Sat, 09 Aug 2025 01:23:44 GMT | Ten Free Tools Every Aspiring Cybersecurity Pro Should Use to Build Real Skills | Virginia Nelai | [Read More](https://medium.com/p/248064d94e3f) |
+| Sat, 09 Aug 2025 01:22:53 GMT | From Zero to Hero: The Information Gathering Playbook Hackers Don’t Want You to Read | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/6c3dac1d8a6d) |
+| Sat, 09 Aug 2025 01:20:18 GMT | DNSSEC Explained | DarKVoicE | [Read More](https://medium.com/p/2e76ef993984) |
+| Sat, 09 Aug 2025 01:17:03 GMT | What Is a QR Code and How Does It Work? | Timónofearth | [Read More](https://medium.com/p/6c96aff24596) |
+| Sat, 09 Aug 2025 01:09:59 GMT | How to Profile a Slow Web App (Step-by-Step) | Rizqi Mulki | [Read More](https://medium.com/p/c07cac67120f) |
+| Sat, 09 Aug 2025 01:06:50 GMT | The Favorite Tools for Debugging Slow Queries | Rizqi Mulki | [Read More](https://medium.com/p/b4208f8fd0fb) |
+| Sat, 09 Aug 2025 01:00:32 GMT | From Ancestry Tests to Personality Profiling: The Hidden Dangers of Genomic Data | Keegan Justis | [Read More](https://medium.com/p/43dd6d315c4c) |
+| Sat, 09 Aug 2025 01:00:13 GMT | The CIA Triad Explained: Your Guide to Confidentiality, Integrity & Availability | Virginia Nelai | [Read More](https://medium.com/p/70708f40f0e0) |
+| Sat, 09 Aug 2025 00:30:20 GMT | Understanding the MITRE ATT&CK Framework in Simple Terms | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/5c2310fc836d) |
+| Sat, 09 Aug 2025 00:18:06 GMT | When bad C code puts you behind bars (and bankrupts your company) | <devtips/> | [Read More](https://medium.com/p/adf4393ebab6) |
+| Sat, 09 Aug 2025 00:06:55 GMT | Introducing: The Intuition Network | 0xbilly | [Read More](https://medium.com/p/43b5be292ef0) |
+| Sat, 09 Aug 2025 00:01:45 GMT | Server-Side Request Forgery (SSRF — OWASP A10): A Complete Guide to Hacking and Bug Bounties | JPablo13 | [Read More](https://medium.com/p/0b8f0825f83c) |
+| Fri, 08 Aug 2025 23:57:44 GMT | How I LEGALLY HACKED a Company’s Telegram Bot during a Pentest | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/2935569bfbaf) |
 | Fri, 08 Aug 2025 23:33:29 GMT | Wrapping Up the Mobile Industry Trends Series with Cybersecurity Expert Eduardo Hennemann de… | Berkcan Alankoy | [Read More](https://medium.com/p/dba9168be47a) |
 | Fri, 08 Aug 2025 23:24:53 GMT | Hidden in Plain Code: Malicious Go & npm Packages That Can Wipe Your Machine | Cyber-AppSec | [Read More](https://medium.com/p/2f957eec4b6b) |
 | Fri, 08 Aug 2025 23:14:49 GMT | From Skilled to Exceptional: Why Pentesters Need Hacker Charisma | echosso | [Read More](https://medium.com/p/57f65f5ff194) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 17:21:02 GMT | View Exterior Photos of the 2025 Mercedes-AMG G63 | Osama Khan | [Read More](https://medium.com/p/116eef115102) |
 | Fri, 08 Aug 2025 17:20:33 GMT | Dependency Dillema - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/a22469be3922) |
 | Fri, 08 Aug 2025 17:13:12 GMT | OpenDLP Installation & Deployment Workflow | Abdelrahman Metwaly | [Read More](https://medium.com/p/4510775369c5) |
-| Fri, 08 Aug 2025 17:05:12 GMT | I Tested NordVPN vs ExpressVPN — Which One Is Better for You? | Kelly Shephard | [Read More](https://medium.com/p/e4810788109f) |
-| Fri, 08 Aug 2025 17:02:42 GMT | Content Creation & Cybersecurity | Zayne Harbison | [Read More](https://medium.com/p/323ba7887b14) |
-| Fri, 08 Aug 2025 17:02:10 GMT | Advanced Logging Techniques for Incident Response | Karthikeyan Nagaraj | [Read More](https://medium.com/p/dd66e1b0b0a5) |
-| Fri, 08 Aug 2025 17:00:39 GMT | Learn WiFi Hacking Basics Using Termux (Educational Use Only) | Kambetastephano | [Read More](https://medium.com/p/150b969e61e0) |
-| Fri, 08 Aug 2025 16:56:35 GMT | Adventures in AI Security : Access Control (Part 1) | API Expert | [Read More](https://medium.com/p/30742e1feb1b) |
-| Fri, 08 Aug 2025 16:53:31 GMT | Blind RCE File Exfiltration via curl | Cybersecplayground | [Read More](https://medium.com/p/3a8c971a80aa) |
-| Fri, 08 Aug 2025 16:53:06 GMT | U.S. Organizations Under Siege: Royal and BlackSuit Ransomware Strike Over 450 Targets | John Doe 007 | [Read More](https://medium.com/p/b521c3004ea4) |
-| Fri, 08 Aug 2025 16:51:06 GMT | Aluminum Fence Installation: The Ultimate Home Upgrade You Need | Cruz martha | [Read More](https://medium.com/p/fd514edc301a) |
-| Fri, 08 Aug 2025 16:43:38 GMT | BRUTUS - HACKTHEBOX | Nicksondiazm | [Read More](https://medium.com/p/b70bc95a57b7) |
-| Fri, 08 Aug 2025 16:36:00 GMT | When the Scales Tip: US Judiciary Breach Signals a National Cybersecurity Reckoning | John Doe 007 | [Read More](https://medium.com/p/7b05fe256d22) |
-| Fri, 08 Aug 2025 16:30:17 GMT | Finding My First Bug —Documenting My Bug Bounty Journey | Calvaryhasarrived | [Read More](https://medium.com/p/b47f9ae28f7b) |
-| Fri, 08 Aug 2025 16:24:47 GMT | Test in Prod - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/e44ab60d96d1) |
-| Fri, 08 Aug 2025 16:21:41 GMT | Journey through the AV Multiverse: Communities at InfoComm | Matt Pana | [Read More](https://medium.com/p/5e1676881d48) |
-| Fri, 08 Aug 2025 16:12:17 GMT | The Quantum Watchman: A Proactive, LLM-based Multi-Agent Security Framework for Unclonable Access… | Berend Watchus | [Read More](https://medium.com/p/696328e4cdde) |
-| Fri, 08 Aug 2025 16:10:31 GMT | OSI Layer 2 Attacks - ARP Poisoning | barancem | [Read More](https://medium.com/p/c6dbaa912a39) |
-| Fri, 08 Aug 2025 16:03:48 GMT | How to Stay Hidden: The Privacy System That Actually Works | BiyteLüm | [Read More](https://medium.com/p/e4a1b5bb767c) |
