@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 14:36:25 GMT | Why Use Services Like Proton Mail If Everyone Doesn’t Encrypt? | Martino J | [Read More](https://medium.com/p/15b3efbc7ad4) |
+| Sat, 09 Aug 2025 14:35:22 GMT | Sécurisez vos formulaires avec un pot de miel | Stefan Heyd | [Read More](https://medium.com/p/670b74cc25c8) |
+| Sat, 09 Aug 2025 14:27:55 GMT | Why Cybersecurity is Important | Aj | [Read More](https://medium.com/p/8fe63db3577d) |
+| Sat, 09 Aug 2025 14:18:04 GMT | SolarWinds Hack: 5 Critical Lessons for Businesses | Aj | [Read More](https://medium.com/p/9e6aaa1fae32) |
 | Sat, 09 Aug 2025 14:14:25 GMT | Tea App Data Breach: A Wake-Up Call for the AI-Powered App Era | Recover Right | [Read More](https://medium.com/p/5165ff38ed0b) |
 | Sat, 09 Aug 2025 14:12:34 GMT | 2025: The Year Cyber Attacks Got Personal | PRASHANT KUMAR GIRI | [Read More](https://medium.com/p/4e4e4897b6a9) |
 | Sat, 09 Aug 2025 14:06:52 GMT | ISMAP Management Standards Chapter 12: Operations Security — What are the Rules for Running a… | nolly | [Read More](https://medium.com/p/3beca5e5cd0f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 09:00:08 GMT | Mobile Patrol Security Services in Hobart | Stateguard Protective Services | [Read More](https://medium.com/p/c4586a8db0c4) |
 | Sat, 09 Aug 2025 08:56:04 GMT | Born of Fear: How Society Shaped Our Deepest Anxieties | Randhir Jha | [Read More](https://medium.com/p/dc06dfef61fb) |
 | Sat, 09 Aug 2025 08:53:36 GMT | ❌Your frustrations or emotions could end up in front of millions of other users! | Marcello Iori | [Read More](https://medium.com/p/718ead054973) |
-| Sat, 09 Aug 2025 08:45:58 GMT | The Offline AI Assistant I Built for People Who Want Control Back. | Rohan Girdhani - The TechDoc | [Read More](https://medium.com/p/edac370d6455) |
-| Sat, 09 Aug 2025 08:45:34 GMT | The Dark Side of Cheap Hosting: Why Website Security Matters | HASAN MAHMUD | [Read More](https://medium.com/p/6d141c4d6a01) |
-| Sat, 09 Aug 2025 08:45:22 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/1a943cf3b74d) |
-| Sat, 09 Aug 2025 08:43:53 GMT | 10 Real Cybersecurity Hacking Scenarios Not Caused By Hackers | Motasem Hamdan | [Read More](https://medium.com/p/b60f0496d005) |
