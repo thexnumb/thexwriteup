@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 Aug 2025 03:41:26 GMT | How I Passed the eJPT in 2 Months Without Losing My Mind (Or My Weekend) | Rue | [Read More](https://medium.com/p/804d69edaeb6) |
+| Sat, 09 Aug 2025 03:33:20 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/1a98a3897a68) |
+| Sat, 09 Aug 2025 03:31:57 GMT | Subscribed and Scammed: The New Wave of Online Fraud | Deven Chhajed | [Read More](https://medium.com/p/a5841e5f6ec3) |
+| Sat, 09 Aug 2025 03:30:27 GMT | Keep Your Qdrant Vector Database Secure | Haydar Külekci | [Read More](https://medium.com/p/eac8c8f233fb) |
+| Sat, 09 Aug 2025 03:29:15 GMT | 28,000+ Microsoft Exchange Servers Exposed Due to CVE-2025–53786 Bug | Tarush Sharma | [Read More](https://medium.com/p/73daee73e49f) |
+| Sat, 09 Aug 2025 03:24:00 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/ae62b08922eb) |
+| Sat, 09 Aug 2025 03:19:46 GMT | Breaking Email Validation | Madhan | [Read More](https://medium.com/p/cbc29bf2ff9f) |
+| Sat, 09 Aug 2025 03:15:24 GMT | Gemini AI Exploited — How Hackers Can Jump From Emails to Your Smart Home | AlioSecurity | [Read More](https://medium.com/p/c38f02142a5b) |
 | Sat, 09 Aug 2025 03:10:05 GMT | The Art of Anonymity: Why Data Masking is a Modern Business Imperative | Nitesh Upadhyay | [Read More](https://medium.com/p/1d773296d37c) |
 | Sat, 09 Aug 2025 03:02:31 GMT | Caso Celsia: Campaña de phishing detectada y reportada | ANDES Shield | [Read More](https://medium.com/p/f2987f7c39df) |
 | Sat, 09 Aug 2025 03:00:18 GMT | How I pass OSCP | Wug | [Read More](https://medium.com/p/bfde85ca919e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 Aug 2025 18:34:13 GMT | 5 Things to Look For in a CVE Remediation Platform | Sophia Perez | [Read More](https://medium.com/p/fd994a875c13) |
 | Fri, 08 Aug 2025 18:31:30 GMT | When Surveillance Turns Against Us: Axis Camera Flaws Create Global Security Crisis. | eL Njas!™ | [Read More](https://medium.com/p/a3ad9b1b16ac) |
 | Fri, 08 Aug 2025 18:30:23 GMT | Week 1 of My 90-Day Challenge: The Journey Begins! | Mike (sl0th0x87) | [Read More](https://medium.com/p/0675c0f9ddc2) |
-| Fri, 08 Aug 2025 18:29:24 GMT | A Business Guide to Seamlessly Adopting MDR Services | IT_Engineer | [Read More](https://medium.com/p/d1eb2bd3a9c2) |
-| Fri, 08 Aug 2025 18:28:21 GMT | Bugs With Fibre Optic Tails | curium | [Read More](https://medium.com/p/be488bf01c9b) |
-| Fri, 08 Aug 2025 18:18:07 GMT | Lite N Easy - Bugcrowd CTF 2025 | SIDDHANT SHUKLA | [Read More](https://medium.com/p/7699c3d553d6) |
-| Fri, 08 Aug 2025 18:14:17 GMT | Becoming a Boring Person and Living a Boring Life | Vijay Kumar Gupta | [Read More](https://medium.com/p/0e1f01f1fb46) |
-| Fri, 08 Aug 2025 18:13:40 GMT | Fortifying Your Fortress: A Developer’s Guide to Ruby on Rails Security | Rishabh Sharma | [Read More](https://medium.com/p/164fdefacff6) |
-| Fri, 08 Aug 2025 18:01:43 GMT | Portswigger File Upload Vulnerabilities Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/19a802f3af06) |
-| Fri, 08 Aug 2025 18:01:43 GMT | Portswigger File upload vulnerabilities Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/72afc7cd1a9a) |
-| Fri, 08 Aug 2025 18:01:43 GMT | Portswigger File Upload Vulnerabilities Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/10d23530ebbd) |
