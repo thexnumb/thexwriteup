@@ -12,10 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 13:28:57 GMT | Getting the USB serial number: A Critical Component of Your Information Security Management System… | Mykhailo Antonishyn | [Read More](https://medium.com/p/bfcae9b297c2) |
+| Sun, 10 Aug 2025 13:25:38 GMT | hello | Cuongdang | [Read More](https://medium.com/p/52b30d76c431) |
+| Sun, 10 Aug 2025 13:21:52 GMT | Study At Portswigger Web Security Academy: Path Traversal | Velskynotfound | [Read More](https://medium.com/p/7cf9d6e49f6c) |
+| Sun, 10 Aug 2025 13:16:37 GMT | Host Your Own Chat Server with Zulip and Docker — No More Slack Fees & Full Control | Tamir Suliman | [Read More](https://medium.com/p/ca140a49a665) |
+| Sun, 10 Aug 2025 13:11:51 GMT | Beyond the Basics: The Advanced SQL Injection Attacks You Need to Know | medjahdi | [Read More](https://medium.com/p/4bff4b6c6b06) |
+| Sun, 10 Aug 2025 13:06:02 GMT | BadByte The Best Room Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/9c627ae5d9e8) |
+| Sun, 10 Aug 2025 13:01:56 GMT | Network Protocols & OSI Model Layers | prince singh | [Read More](https://medium.com/p/a5c86aee0f07) |
+| Sun, 10 Aug 2025 13:01:32 GMT | How to Secure Your Frontend in 2025 and Pass Certification | Aleksei Aleinikov | [Read More](https://medium.com/p/d6c5a9298f80) |
+| Sun, 10 Aug 2025 12:58:45 GMT | Stealing All Saved Passwords From Any PC: The LaZagne Method (Ethical Guide) | Very Lazy Tech | [Read More](https://medium.com/p/c3f37de9ad99) |
+| Sun, 10 Aug 2025 12:58:25 GMT | Genius XSS ! | Sevada797 | [Read More](https://medium.com/p/1dfa7d2d8e89) |
+| Sun, 10 Aug 2025 12:55:37 GMT | 10 Code Snippets used in Every Project | Babar saad | [Read More](https://medium.com/p/d732b474814a) |
+| Sun, 10 Aug 2025 12:51:43 GMT | How to Know if Your Husband is Lying | Ueiiowd | [Read More](https://medium.com/p/b4de723b9e27) |
+| Sun, 10 Aug 2025 12:51:18 GMT | My EJPT Story — From “Arre Yaar” to “Arey Wah!” | Cypher.One | [Read More](https://medium.com/p/4eabecaa73a2) |
+| Sun, 10 Aug 2025 12:50:37 GMT | Stardust Chollima APT Adversary Simulation | Abdulrehman Ali | [Read More](https://medium.com/p/d5c115a89ab9) |
+| Sun, 10 Aug 2025 12:50:07 GMT | Streaming File Uploads and Downloads with FastAPI: A Practical Guide | Mahdi Jafari | [Read More](https://medium.com/p/ee5be38fdd66) |
+| Sun, 10 Aug 2025 12:37:55 GMT | SQL Injection Deep Dive: Listing Database Contents (Non-Oracle & Oracle) — PortSwigger Labs… | Chandra Kamal Singh | [Read More](https://medium.com/p/142089b65a7b) |
+| Sun, 10 Aug 2025 12:37:08 GMT | GPT-5 Falls to Hackers in Under a Day | Beshr Kattan | [Read More](https://medium.com/p/30a61c6ccb38) |
 | Sun, 10 Aug 2025 12:32:05 GMT | From Badge to Real-World Impact: My Microsoft Security Copilot Journey | raveena kholia | [Read More](https://medium.com/p/f3d9f07a8ea1) |
 | Sun, 10 Aug 2025 12:23:28 GMT | Solving Sudoko — Without Revealing Your Answer | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/49c3f7d515af) |
 | Sun, 10 Aug 2025 12:22:52 GMT | From Torrent Movie to Live Malware C2: My Investigation Journey | 3vilbird | [Read More](https://medium.com/p/8ca22046610d) |
 | Sun, 10 Aug 2025 12:21:58 GMT | The Crypto Wars Never Ended: How Phil Zimmermann’s PGP Still Defends Privacy in 2025 | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/10d71b7de187) |
+| Sun, 10 Aug 2025 12:13:07 GMT | Die ultimative Roadmap für digitale Unternehmenstransformation 2025: Ihr strategischer Leitfaden… | Philip Hansen | [Read More](https://medium.com/p/17585a24baf1) |
 | Sun, 10 Aug 2025 12:02:17 GMT | Incident Handling Mastery Series — Introduction | β Ꝉ Ⱥ ղ Ҡ | [Read More](https://medium.com/p/fdeb085ac5e3) |
 | Sun, 10 Aug 2025 12:01:45 GMT | I’m So Sorry For Their Loss: They Called You For Help — Yass Partners | Yael Nagler | [Read More](https://medium.com/p/5f3343bf6a02) |
 | Sun, 10 Aug 2025 12:01:45 GMT | Active Reconnaissance: TryHackMe Walkthrough | ShadowPacketRHR | [Read More](https://medium.com/p/df159540d423) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 06:27:49 GMT | Are you learning IT courses Wrong? Here we are to Guide You . | Shailesh Baral | [Read More](https://medium.com/p/e46b3a99ce23) |
 | Sun, 10 Aug 2025 06:18:46 GMT | Enterprise AI Security: A Field Guide for CISOs and Tech Leaders | Practical DevSecOps | [Read More](https://medium.com/p/c7499ce44278) |
 | Sun, 10 Aug 2025 06:13:28 GMT | The OverRide Chronicles: When Your Calculator Becomes a Spy (And Why That’s Hilariously Terrifying) | Lazyown Redteam | [Read More](https://medium.com/p/5a0a84e027ef) |
-| Sun, 10 Aug 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Aug 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/eb876fc9bb22) |
-| Sun, 10 Aug 2025 05:45:07 GMT | From Facebook to the Metaverse: A New Digital Frontier | Shatrughan | [Read More](https://medium.com/p/c01b246cd4c8) |
-| Sun, 10 Aug 2025 05:43:44 GMT | Cyber Snack DAY -2 | Anwar_Nainar | [Read More](https://medium.com/p/2b94dec52493) |
-| Sun, 10 Aug 2025 05:38:20 GMT | $BUG Token-Aktion: Wie man sich für BUG BUG Token-Aktionen qualifiziert | BUG | [Read More](https://medium.com/p/1fd1a062af54) |
-| Sun, 10 Aug 2025 05:37:41 GMT | $10,000 Google Bug Bounty: How a Deserialization RCE in AppSheet Could Have Led to Remote Code… | Yeswehack | [Read More](https://medium.com/p/955b0a2e840b) |
-| Sun, 10 Aug 2025 05:37:10 GMT | A Deep Dive into a Potential Privilege Escalation Issue | Monika sharma | [Read More](https://medium.com/p/313a6040d458) |
-| Sun, 10 Aug 2025 05:36:09 GMT | Why Your Next Android Phone Might Outlive Your Laptop | Sienna Lewis | [Read More](https://medium.com/p/cda34313df9d) |
-| Sun, 10 Aug 2025 05:36:05 GMT | Cyber Threat Intelligence: Building Your Feed | Aj | [Read More](https://medium.com/p/5faed84512b4) |
-| Sun, 10 Aug 2025 05:32:19 GMT | Navigating Cybersecurity with the AAA Compass | The Cyber Odyssey | [Read More](https://medium.com/p/679e4a5bfa6a) |
-| Sun, 10 Aug 2025 05:31:20 GMT | Attackers are shifting from brute force to brain force | Cyber-AppSec | [Read More](https://medium.com/p/22492093f21b) |
-| Sun, 10 Aug 2025 05:21:49 GMT | GPT-5 Jailbroken: Security Experts Warn of Risks for Business Use | Tarush Sharma | [Read More](https://medium.com/p/a3cdb2642916) |
-| Sun, 10 Aug 2025 05:19:31 GMT | How I Found 100+ API Keys in JavaScript Files (JS Secrets Exposed) | Ibtissam hammadi | [Read More](https://medium.com/p/939cc1f22289) |
-| Sun, 10 Aug 2025 05:08:50 GMT | [01]. I got my first bounty white playing bug bounty | yoyomiski | [Read More](https://medium.com/p/52acfd9fbc0e) |
-| Sun, 10 Aug 2025 04:55:05 GMT | Securing New Zealand’s Digital Transformation: The Road Ahead | B M Zahid ul Haque | [Read More](https://medium.com/p/a927aaddd33f) |
-| Sun, 10 Aug 2025 04:47:02 GMT | 6. State Management in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/95b65bb78a8a) |
-| Sun, 10 Aug 2025 04:39:11 GMT | How Bangladesh Became a Used Phone Powerhouse? | Alice Doyle | [Read More](https://medium.com/p/aefbfe2ce6a9) |
-| Sun, 10 Aug 2025 04:33:44 GMT | How to Stay Safe When Passwords Are No Longer Enough | David SEHYEON Baek | [Read More](https://medium.com/p/7ff43f12608b) |
-| Sun, 10 Aug 2025 04:31:15 GMT | Secure Your Data Before Time Runs Out | David SEHYEON Baek | [Read More](https://medium.com/p/dd7fabb8fe7c) |
