@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 19:24:06 GMT | Quantum Networking: The Future of Unbreakable Online Communication | Dark Tech Insights | [Read More](https://medium.com/p/929dafbae047) |
+| Sun, 10 Aug 2025 19:15:26 GMT | Future-Proof Your Skills: What’s Next in Cybersecurity? | Authlyn | [Read More](https://medium.com/p/fd02eb420655) |
+| Sun, 10 Aug 2025 19:13:33 GMT | When Vibe Coding Meets Cybercrime: How to Keep Your AI-Powered Dev Flow from Becoming a Hacker’s… | Brian Mora | [Read More](https://medium.com/p/5e836fd09d37) |
 | Sun, 10 Aug 2025 19:07:47 GMT | Why Your Electric Vehicle Might Be More Vulnerable Than You Think | Victor Yan | [Read More](https://medium.com/p/9f1220669203) |
 | Sun, 10 Aug 2025 18:55:46 GMT | TryHackMe — Capture! | omni | [Read More](https://medium.com/p/fdba2f256965) |
 | Sun, 10 Aug 2025 18:55:29 GMT | “P@$$wOrd123” Isn’t Strong. Here’s What Is. | Truspex | [Read More](https://medium.com/p/cfeb79340a76) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 12:51:18 GMT | My EJPT Story — From “Arre Yaar” to “Arey Wah!” | Cypher.One | [Read More](https://medium.com/p/4eabecaa73a2) |
 | Sun, 10 Aug 2025 12:50:37 GMT | Stardust Chollima APT Adversary Simulation | Abdulrehman Ali | [Read More](https://medium.com/p/d5c115a89ab9) |
 | Sun, 10 Aug 2025 12:50:07 GMT | Streaming File Uploads and Downloads with FastAPI: A Practical Guide | Mahdi Jafari | [Read More](https://medium.com/p/ee5be38fdd66) |
-| Sun, 10 Aug 2025 12:37:55 GMT | SQL Injection Deep Dive: Listing Database Contents (Non-Oracle & Oracle) — PortSwigger Labs… | Chandra Kamal Singh | [Read More](https://medium.com/p/142089b65a7b) |
-| Sun, 10 Aug 2025 12:37:08 GMT | GPT-5 Falls to Hackers in Under a Day | Beshr Kattan | [Read More](https://medium.com/p/30a61c6ccb38) |
-| Sun, 10 Aug 2025 12:32:05 GMT | From Badge to Real-World Impact: My Microsoft Security Copilot Journey | raveena kholia | [Read More](https://medium.com/p/f3d9f07a8ea1) |
