@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 05:08:50 GMT | [01]. I got my first bounty white playing bug bounty | yoyomiski | [Read More](https://medium.com/p/52acfd9fbc0e) |
+| Sun, 10 Aug 2025 04:55:05 GMT | Securing New Zealand’s Digital Transformation: The Road Ahead | B M Zahid ul Haque | [Read More](https://medium.com/p/a927aaddd33f) |
+| Sun, 10 Aug 2025 04:47:02 GMT | 6. State Management in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/95b65bb78a8a) |
+| Sun, 10 Aug 2025 04:39:11 GMT | How Bangladesh Became a Used Phone Powerhouse? | Alice Doyle | [Read More](https://medium.com/p/aefbfe2ce6a9) |
 | Sun, 10 Aug 2025 04:33:44 GMT | How to Stay Safe When Passwords Are No Longer Enough | David SEHYEON Baek | [Read More](https://medium.com/p/7ff43f12608b) |
 | Sun, 10 Aug 2025 04:31:15 GMT | Secure Your Data Before Time Runs Out | David SEHYEON Baek | [Read More](https://medium.com/p/dd7fabb8fe7c) |
 | Sun, 10 Aug 2025 04:30:47 GMT | Offensive vs Defensive Security — Which One Does Your Business Need? | DefenceRabbit | [Read More](https://medium.com/p/2d25fac7eade) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 18:23:54 GMT | GLITCH - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/30978b63df29) |
 | Sat, 09 Aug 2025 18:14:06 GMT | 0click Account Take over via Auth0 | Ahmed Mahmoued | [Read More](https://medium.com/p/3a39cbe080cc) |
 | Sat, 09 Aug 2025 18:09:33 GMT | Into Linux and Networking | P R ROHITH | [Read More](https://medium.com/p/9679482fdaab) |
-| Sat, 09 Aug 2025 18:07:35 GMT | Breaking into cybersecurity isn’t always a straight line. | Gayatri Nakar | [Read More](https://medium.com/p/0bcce49ad9aa) |
-| Sat, 09 Aug 2025 18:03:23 GMT | [HackTheBox Sherlocks Write-up] Psittaciformes (Malicious bash script from GitHub leads to… | Chicken0248 | [Read More](https://medium.com/p/b5fcadd7d60e) |
-| Sat, 09 Aug 2025 17:51:34 GMT | Tools of the Trade: For a Cybersecurity Analyst | Uplatz | [Read More](https://medium.com/p/904a14344732) |
-| Sat, 09 Aug 2025 17:50:45 GMT | Acronis Cyber Protect Cloud: Is It the All-in-One Security Solution Your Business Needs? | HASAN MAHMUD | [Read More](https://medium.com/p/b83278d96dd9) |
