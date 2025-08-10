@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 14:32:23 GMT | Vibe coding: Cool Name, Risky Reality. | Brittney Ginther | [Read More](https://medium.com/p/04352cc0f2ff) |
+| Sun, 10 Aug 2025 14:30:05 GMT | Don’t Sanitize Everything - Validate First, Then Clean Up in PHP | Asian Digital Hub | [Read More](https://medium.com/p/654917b4de47) |
+| Sun, 10 Aug 2025 14:25:02 GMT | Email vs. Username Logins: Embracing Passwordless Alternatives and Future Trends | H2bm | [Read More](https://medium.com/p/39a7e435d646) |
+| Sun, 10 Aug 2025 14:21:50 GMT | How to Install and Configure OpenVAS on Kali Linux VM (with Admin Password Reset) — Part 1 | Hammad Zahid | [Read More](https://medium.com/p/38b0174f82ee) |
 | Sun, 10 Aug 2025 14:11:41 GMT | Case Studies: When Tiny Flaws Led to Huge Cyber Disasters | TheCyberSalad | [Read More](https://medium.com/p/20279b25bec2) |
 | Sun, 10 Aug 2025 14:07:02 GMT | When “Local” Isn’t Local: The Critical AI Security Flaw You Probably Missed | VSec | [Read More](https://medium.com/p/8d99e554000e) |
 | Sun, 10 Aug 2025 14:06:03 GMT | LeetCode Solution | Aqsa Rashid | [Read More](https://medium.com/p/8141d83a49f9) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 07:03:46 GMT | Cyber Warfare: The Geopolitics of Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/6faafa7656ce) |
 | Sun, 10 Aug 2025 07:02:30 GMT | Cyber Espionage: Protecting Against Nation-State Actors | Cyber Security Research | [Read More](https://medium.com/p/21edbf25ae84) |
 | Sun, 10 Aug 2025 07:02:17 GMT | “New Linux Kernel Vulnerability Exploited via Chrome Sandbox Using Rare Socket Feature” | Tarush Sharma | [Read More](https://medium.com/p/62f73334379f) |
-| Sun, 10 Aug 2025 07:02:00 GMT | I Never Noticed These Passkey Options Until OS 26 | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/6b6df1137580) |
-| Sun, 10 Aug 2025 07:01:12 GMT | The Dark Web and Cybersecurity: Understanding the Underground Economy | Cyber Security Research | [Read More](https://medium.com/p/4c5998e02640) |
-| Sun, 10 Aug 2025 06:59:57 GMT | Quantum Cybersecurity: Preparing for the Quantum Computing Era | Cyber Security Research | [Read More](https://medium.com/p/2a0990128d42) |
-| Sun, 10 Aug 2025 06:58:06 GMT | Blockchain in Cybersecurity: Securing Data and Transactions | Cyber Security Research | [Read More](https://medium.com/p/c4f28e94adcb) |
