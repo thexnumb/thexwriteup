@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 09:55:21 GMT | Hacking Through the Looking Glass: Pivoting with SSH and Proxychains | Abdul Ahad | [Read More](https://medium.com/p/ea027db75bdd) |
+| Sun, 10 Aug 2025 09:51:41 GMT | ⚙️ Using Python and Bash Scripts in SOC Automation | Esra Kayhan | [Read More](https://medium.com/p/e9c293305d0d) |
+| Sun, 10 Aug 2025 09:50:42 GMT | Chrome Sandbox Under Fire: Linux Kernel Vulnerability Allows Privilege Escalation | Chetan Seripally | [Read More](https://medium.com/p/bdbcfc51892d) |
+| Sun, 10 Aug 2025 09:46:02 GMT | WinRAR Bug: Did You Unzip a Virus? | Truspex | [Read More](https://medium.com/p/0d207ec03d23) |
+| Sun, 10 Aug 2025 09:44:06 GMT | Locked Files Got You Down? Your DIY Decryption Guide. | SilentInject | [Read More](https://medium.com/p/424e6f6fadc5) |
+| Sun, 10 Aug 2025 09:38:06 GMT | Kali Linux Toolkits Deep Dive — Entry: Kali-Tools-VoIP | RafalW3bCraft | [Read More](https://medium.com/p/30b05fb3812d) |
+| Sun, 10 Aug 2025 09:37:17 GMT | Why I Stopped Using Free VPNs | Shahzaib | [Read More](https://medium.com/p/58d848a1c605) |
+| Sun, 10 Aug 2025 09:37:11 GMT | Red Team vs. Blue Team: Simulating Cyber Warfare | Aj | [Read More](https://medium.com/p/e3630e4dd8b6) |
+| Sun, 10 Aug 2025 09:36:19 GMT | Threat Intelligence for SOC: An In-Depth Guide ️ | Furkanctiner | [Read More](https://medium.com/p/089514c207e8) |
 | Sun, 10 Aug 2025 09:34:00 GMT | Tech 2025: How AI, Quantum Computing, and Sustainability Will Redefine Our World | Mr SA | [Read More](https://medium.com/p/c67b18e4b4fe) |
 | Sun, 10 Aug 2025 09:27:42 GMT | Google Confirmed Salesforce Data Breach-Google Ads Prospect Information Exposed | Chetan Seripally | [Read More](https://medium.com/p/417321ac50fb) |
 | Sun, 10 Aug 2025 09:25:15 GMT | PortSwigger Lab Walkthrough: Blind OS Command Injection with Output Redirection | Siddiquimohammad | [Read More](https://medium.com/p/31b9d5afa1a1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 00:35:13 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/f68924e7fbed) |
 | Sun, 10 Aug 2025 00:18:17 GMT | Why Vulnerability Scanning is Important | Adept Networks | [Read More](https://medium.com/p/66d1afc48cd9) |
 | Sun, 10 Aug 2025 00:13:33 GMT | Active Directory’yi Anlamak: Temel Bilgiler ve Güvenlik -1 | Nupelda Kandemir | [Read More](https://medium.com/p/3599fb23b58b) |
-| Sat, 09 Aug 2025 23:48:29 GMT | How GPT-5 Chat Was Jailbroken Using Echo Chamber Tactics? | Raviteja Mureboina | [Read More](https://medium.com/p/f8a6ffb0032e) |
-| Sat, 09 Aug 2025 23:47:32 GMT | Practical introduction to security, compliance, and identity fundamentals | Joe Alongi | [Read More](https://medium.com/p/4f09e3d0bdb8) |
-| Sat, 09 Aug 2025 23:40:42 GMT | Web Uygulamalarında Firebase Güvenliği ve Yaygın Zafiyetler | Hikmet Bulut | [Read More](https://medium.com/p/8f41e873a204) |
-| Sat, 09 Aug 2025 23:38:09 GMT | HackTheBox: Mobile-Cryptohorrific | Gba | [Read More](https://medium.com/p/d22aa45c2301) |
-| Sat, 09 Aug 2025 23:29:22 GMT | How a Friend’s Hacked Account Tricked Me into Sending Money | Shahzaib | [Read More](https://medium.com/p/a55043921316) |
-| Sat, 09 Aug 2025 23:22:52 GMT | CTF Day(48) | Ahmed Narmer | [Read More](https://medium.com/p/a054295afb49) |
-| Sat, 09 Aug 2025 23:21:42 GMT | Kali Linux Temel Komutlar: Yeni Başlayanlar İçin Rehber | Burak | [Read More](https://medium.com/p/ed7f3479bf7e) |
-| Sat, 09 Aug 2025 23:19:38 GMT | شماره خاله تهران شماره خاله تهران شماره خاله شماره خاله شیراز شماره خاله شیراز شماره خاله کرمانشاه… | شماره خاله الهام بامکان تهران شماره خاله اصفهان رش | [Read More](https://medium.com/p/031a04afedd6) |
-| Sat, 09 Aug 2025 23:17:28 GMT | AI in Security: How Artificial Intelligence is Transforming Threat Detection and Response | Shradhdha Bhalodia | [Read More](https://medium.com/p/aae147eee902) |
