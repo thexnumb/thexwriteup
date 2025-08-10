@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 18:22:25 GMT | Kortex: The Note-Taking Weapon Every Hacker & SOC Analyst Should Have | Corey Jones | [Read More](https://medium.com/p/a4e733018fcb) |
+| Sun, 10 Aug 2025 18:16:12 GMT | Why is Online Safety And Digital Literacy is Important for Senior Citizens? 2025 Report | Mustakim Billah Junaeid | [Read More](https://medium.com/p/baf999fe6924) |
+| Sun, 10 Aug 2025 18:04:38 GMT | My First Dive into the OWASP Top 10 — Understanding the Web’s Most Common Security Risks | Prathiush Jayaprakash | [Read More](https://medium.com/p/d9e6a113d31c) |
+| Sun, 10 Aug 2025 18:01:15 GMT | One Room a Day: How TryHackMe Made Learning Cybersecurity Fun | Mr Madani | [Read More](https://medium.com/p/054c6110db58) |
+| Sun, 10 Aug 2025 17:57:26 GMT | *Day 71 of 100 Innovations!* | Atikin Verse | [Read More](https://medium.com/p/eada23e1ada1) |
+| Sun, 10 Aug 2025 17:47:31 GMT | Why Continuous Security Improvement Should Be Every QA Engineer’s Superpower in 2025 | Samyukthap | [Read More](https://medium.com/p/bd03131d6b83) |
+| Sun, 10 Aug 2025 17:41:16 GMT | Scams Are Proof That Simplicity Scales. (In Crime & In Design) | Atul Sathyan | [Read More](https://medium.com/p/d584ee3aff06) |
 | Sun, 10 Aug 2025 17:38:52 GMT | Cyber Security Data Analyst: The Digital Detective Career Path That Could Change Your Life | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/4c4e194c031f) |
+| Sun, 10 Aug 2025 17:28:21 GMT | Active Directory User Enumeration | MR Gh0st [ 0xff ] | [Read More](https://medium.com/p/69c146381fec) |
 | Sun, 10 Aug 2025 17:24:43 GMT | MAL: Strings TryHackMe Writeup | theOrthodox | [Read More](https://medium.com/p/c052a0e10042) |
 | Sun, 10 Aug 2025 17:19:34 GMT | THM - Microservices Architectures- Write-Up | Dhruv | [Read More](https://medium.com/p/519e5c0783d1) |
 | Sun, 10 Aug 2025 17:19:11 GMT | Day 2 of My Cybersecurity Journey: From Bash Scripting to My First Port Scanner | shihan shaj | [Read More](https://medium.com/p/4eba7eb900e1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 11:39:20 GMT | Open Redirect: The Hidden Doorway for Phishing and Session Hijacking | EroHack | [Read More](https://medium.com/p/1a7afd64ca3b) |
 | Sun, 10 Aug 2025 11:33:17 GMT | A07:2021 — Identification and Authentication Failures | GhostNex | [Read More](https://medium.com/p/0e901e61fad7) |
 | Sun, 10 Aug 2025 11:31:36 GMT | Bug Bounty Goldmine — Host Header Attack for Password Reset Poisoning | Zoningxtr | [Read More](https://medium.com/p/8d3a4520049b) |
-| Sun, 10 Aug 2025 11:30:30 GMT | Docker Advance Part 13: Dockerception — How Docker Runs Inside Docker | Mammad Yahyayev | [Read More](https://medium.com/p/1a28d6853a78) |
-| Sun, 10 Aug 2025 11:28:05 GMT | How to Create a Password-Protected QR Code to Keep Your Content Private | Ahmad Tayyem | [Read More](https://medium.com/p/f4a7738b3cd0) |
-| Sun, 10 Aug 2025 11:27:56 GMT | Instagram’s New Friends and Family Treasure Map Feature | Kelly Carmichael | [Read More](https://medium.com/p/ff45f9fb47ae) |
-| Sun, 10 Aug 2025 11:25:37 GMT | HTB Devvortex Machine — walkthrough for beginners | SeverSerenity | [Read More](https://medium.com/p/a2a55dc7b9c5) |
-| Sun, 10 Aug 2025 11:19:52 GMT | DockerLabs Writeup — Ejotapete (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/44f49dabcf66) |
-| Sun, 10 Aug 2025 11:12:44 GMT | Timeroasting over MS-SNTP — Cracking Computer Accounts from Port 123 | Vishal Chaudhary | [Read More](https://medium.com/p/86a03fe1f109) |
-| Sun, 10 Aug 2025 11:06:27 GMT | HTB Challenge — Sudoking | Fardeen Ahmed | [Read More](https://medium.com/p/925a67bd8a63) |
-| Sun, 10 Aug 2025 11:03:58 GMT | Thailand’s Navy Website Defaced: NullSec Philippines and CyberTeam Claim Responsibility | Filipino CyberSec News | [Read More](https://medium.com/p/67100e233e05) |
