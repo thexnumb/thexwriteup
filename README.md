@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 09:34:00 GMT | Tech 2025: How AI, Quantum Computing, and Sustainability Will Redefine Our World | Mr SA | [Read More](https://medium.com/p/c67b18e4b4fe) |
+| Sun, 10 Aug 2025 09:27:42 GMT | Google Confirmed Salesforce Data Breach-Google Ads Prospect Information Exposed | Chetan Seripally | [Read More](https://medium.com/p/417321ac50fb) |
+| Sun, 10 Aug 2025 09:25:15 GMT | PortSwigger Lab Walkthrough: Blind OS Command Injection with Output Redirection | Siddiquimohammad | [Read More](https://medium.com/p/31b9d5afa1a1) |
 | Sun, 10 Aug 2025 09:19:58 GMT | Hugging Face Models Hacked? What to Know | CtrlC3 | [Read More](https://medium.com/p/d9e3e4d4b138) |
+| Sun, 10 Aug 2025 09:17:33 GMT | LLM01:2025 Prompt Injection Detaylı Türkçe Anlatım | Utku Ayan | [Read More](https://medium.com/p/d3d400f6e815) |
 | Sun, 10 Aug 2025 09:13:42 GMT | CTF EMPIRE BREAKOUT | Maria Jesus Martinez Leo | [Read More](https://medium.com/p/975c609db329) |
 | Sun, 10 Aug 2025 09:08:39 GMT | Entry-Level Cyber Security: It’s Not as Scary as You Think | Authlyn | [Read More](https://medium.com/p/f001f6b0d68e) |
 | Sun, 10 Aug 2025 08:59:21 GMT | Reverse Engineering: Inside a Malicious VPN App | AL QUDRI | [Read More](https://medium.com/p/82d009e3a45a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 23:21:42 GMT | Kali Linux Temel Komutlar: Yeni Başlayanlar İçin Rehber | Burak | [Read More](https://medium.com/p/ed7f3479bf7e) |
 | Sat, 09 Aug 2025 23:19:38 GMT | شماره خاله تهران شماره خاله تهران شماره خاله شماره خاله شیراز شماره خاله شیراز شماره خاله کرمانشاه… | شماره خاله الهام بامکان تهران شماره خاله اصفهان رش | [Read More](https://medium.com/p/031a04afedd6) |
 | Sat, 09 Aug 2025 23:17:28 GMT | AI in Security: How Artificial Intelligence is Transforming Threat Detection and Response | Shradhdha Bhalodia | [Read More](https://medium.com/p/aae147eee902) |
-| Sat, 09 Aug 2025 23:17:06 GMT | Empire Breakout CTF | Iceyami | [Read More](https://medium.com/p/b471971b3331) |
-| Sat, 09 Aug 2025 23:11:24 GMT | Snowflake SQL in a Nutshell: Monitor non-human user logins during switch from password to other… | NadirDoctor | [Read More](https://medium.com/p/961076365c56) |
-| Sat, 09 Aug 2025 23:10:20 GMT | Telegram as a Stealth C2: Investigation & Analysis | f0xy_pr0xy | [Read More](https://medium.com/p/f91b42965e36) |
-| Sat, 09 Aug 2025 23:09:00 GMT | Don’t Get Scammed!  Unsolicited Packages with QR Codes are the New Phishing Scam! | Max Farnga | [Read More](https://medium.com/p/79b06ffb2341) |
