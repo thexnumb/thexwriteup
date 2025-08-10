@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 04:33:44 GMT | How to Stay Safe When Passwords Are No Longer Enough | David SEHYEON Baek | [Read More](https://medium.com/p/7ff43f12608b) |
+| Sun, 10 Aug 2025 04:31:15 GMT | Secure Your Data Before Time Runs Out | David SEHYEON Baek | [Read More](https://medium.com/p/dd7fabb8fe7c) |
+| Sun, 10 Aug 2025 04:30:47 GMT | Offensive vs Defensive Security — Which One Does Your Business Need? | DefenceRabbit | [Read More](https://medium.com/p/2d25fac7eade) |
+| Sun, 10 Aug 2025 04:29:25 GMT | How Organizational Culture Shapes Cybersecurity Defense | David SEHYEON Baek | [Read More](https://medium.com/p/8d2d5a57be3d) |
+| Sun, 10 Aug 2025 04:27:57 GMT | The Human Cost of Progress: A Critical Examination of the Technological Society | Nicholas Cole Akers | [Read More](https://medium.com/p/5eea223b2dcc) |
+| Sun, 10 Aug 2025 04:23:42 GMT | Why You Might Still Pay the Ransom Even with Backups After a Ransomware Attack | David SEHYEON Baek | [Read More](https://medium.com/p/821a30902192) |
+| Sun, 10 Aug 2025 04:17:47 GMT | North Korean Hackers Exploit AI in Next-Generation Cyberattacks | David SEHYEON Baek | [Read More](https://medium.com/p/725654070fda) |
+| Sun, 10 Aug 2025 04:16:25 GMT | Where Malware Hides on Your Computer (and How to Find It) | Paritosh | [Read More](https://medium.com/p/c5169134bd19) |
+| Sun, 10 Aug 2025 04:13:46 GMT | Human Error or Human Factor? The Human Risks Undermining Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/35904ce5014a) |
+| Sun, 10 Aug 2025 04:13:30 GMT | How to jailbreak iOS 15.8.4 | 0xjar | [Read More](https://medium.com/p/c510fd6d8fdc) |
+| Sun, 10 Aug 2025 04:07:51 GMT | Qilin Ransomware Uses TPwSav.sys Driver to Bypass EDR Security Measures | David SEHYEON Baek | [Read More](https://medium.com/p/de975c7f5716) |
+| Sun, 10 Aug 2025 04:02:28 GMT | Building a Website with Jamstack | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/044b45e793a5) |
+| Sun, 10 Aug 2025 03:57:04 GMT | not that girl anymore | Sama writes here | [Read More](https://medium.com/p/0a920240de0d) |
+| Sun, 10 Aug 2025 03:51:13 GMT | How I Learned to Bypass HTML Encoding in HTML Injection | Mon Tak | [Read More](https://medium.com/p/ad5934f8fc0f) |
 | Sun, 10 Aug 2025 03:45:25 GMT | Shadow Money Gang — Ireland Division? More Like Sunday School Copy-Paste Gang | Tyler Johnston-Kent | [Read More](https://medium.com/p/e186440c0b4f) |
 | Sun, 10 Aug 2025 03:42:29 GMT | TOPIC:Trump’s Meeting With Putin Poses High Stakes For The Ukraine War — And His Legacy. | Danjuma Plangkat ️ | [Read More](https://medium.com/p/4cdcb8e57124) |
 | Sun, 10 Aug 2025 03:31:57 GMT | Mastering Access Control in Solidity:  The Ultimate Guide for Developers & Security… | vishhxyz | [Read More](https://medium.com/p/413b874eccf2) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 18:03:23 GMT | [HackTheBox Sherlocks Write-up] Psittaciformes (Malicious bash script from GitHub leads to… | Chicken0248 | [Read More](https://medium.com/p/b5fcadd7d60e) |
 | Sat, 09 Aug 2025 17:51:34 GMT | Tools of the Trade: For a Cybersecurity Analyst | Uplatz | [Read More](https://medium.com/p/904a14344732) |
 | Sat, 09 Aug 2025 17:50:45 GMT | Acronis Cyber Protect Cloud: Is It the All-in-One Security Solution Your Business Needs? | HASAN MAHMUD | [Read More](https://medium.com/p/b83278d96dd9) |
-| Sat, 09 Aug 2025 17:47:41 GMT | The Significance of Spy Apps: Top Options for Monitoring and Security | Narjis Batool | [Read More](https://medium.com/p/42a9b126a7da) |
-| Sat, 09 Aug 2025 17:41:20 GMT | What Are the Latest Threats in Cyber Security? | Online course provider- Data science, AI, etc | [Read More](https://medium.com/p/e5b1dd82270f) |
-| Sat, 09 Aug 2025 17:26:07 GMT | HTTP/1.1 Must Die: The Hidden Attack Surface Your Pentests Are Missing (And Hackers Aren’t) | cybrNK | [Read More](https://medium.com/p/9426cc7d6c30) |
-| Sat, 09 Aug 2025 17:24:51 GMT | Behind the Screens: reCAPTCHA v3 vs Cloudflare Turnstile | Melvin Prince | [Read More](https://medium.com/p/c8188e8356cb) |
-| Sat, 09 Aug 2025 17:21:15 GMT | Vulnerability and Boundaries: Learning Where to Pour and Where to Pause | Gincy Beard | [Read More](https://medium.com/p/23658b1d31b9) |
-| Sat, 09 Aug 2025 17:20:34 GMT | ️‍♂️ The Art of OS Discovery: Banner Grabbing and Fingerprinting Techniques | Rajkumar Kumawat | [Read More](https://medium.com/p/9478d18f8f07) |
-| Sat, 09 Aug 2025 17:17:00 GMT | Splunk Tutorial data : Break Out | mattyerz | [Read More](https://medium.com/p/baa5781a26de) |
-| Sat, 09 Aug 2025 17:12:05 GMT | US Now the Ransomware Capital of the World: The Alarming Shift to Data Theft Over Encryption | Travis Ray Caverhill | [Read More](https://medium.com/p/503a99a77231) |
-| Sat, 09 Aug 2025 17:10:14 GMT | Rails .html_safe — The Hidden XSS Trap (With a Full Example) | Dghim Sami | [Read More](https://medium.com/p/3472a848dce1) |
-| Sat, 09 Aug 2025 17:01:02 GMT | The Secret to Stress-Free Tech Help in the USA | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/8e2742a03c46) |
-| Sat, 09 Aug 2025 16:43:04 GMT | CIA vs DAD in Cybersecurity — Understanding the Defender and the Adversary | Samuel Dhamodharan | [Read More](https://medium.com/p/a287c6b521ea) |
-| Sat, 09 Aug 2025 16:42:51 GMT | Dynamic Malware Analysis : Watch Malware Reveal Its Secrets — LIVE! | Paritosh | [Read More](https://medium.com/p/98ad5426e678) |
-| Sat, 09 Aug 2025 16:26:39 GMT | Linux Privilege Escalation for Beginners Part 3, NETOWRK ENUMERATION: | Muhammadhuzaifa | [Read More](https://medium.com/p/dcbbbc8aabfc) |
-| Sat, 09 Aug 2025 16:23:42 GMT | From Browser to Shell: Hacking the Edex-UI Terminal | Abdelrhman Zayed | [Read More](https://medium.com/p/7dfe757893fe) |
