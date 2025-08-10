@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 20:34:40 GMT | Base 44 Vulnerability | Riley Shu | [Read More](https://medium.com/p/b60168168386) |
+| Sun, 10 Aug 2025 20:27:48 GMT | From SaaS to NaaS: When Capitalism Sells You Literally Nothing | Abderrahim fazazi | [Read More](https://medium.com/p/69d59d8ac5b7) |
+| Sun, 10 Aug 2025 20:15:50 GMT | ROOT ACCESS + Programmation : le pack ultime pour hacker le système… légalement ! | Koudebithesor | [Read More](https://medium.com/p/cec45c1ca716) |
 | Sun, 10 Aug 2025 19:51:02 GMT | Securing AI for Enterprises: A Leadership Blueprint | Harry D | [Read More](https://medium.com/p/58c4ad7c4418) |
 | Sun, 10 Aug 2025 19:46:00 GMT | # Analytical Report on Operationalj3 Pipeline Dossier: Extraction, Classification, and… | Brandonzid | [Read More](https://medium.com/p/339be1323c67) |
 | Sun, 10 Aug 2025 19:45:44 GMT | Streaming CrowdStrike Falcon Events into GCS for Google Chronicle | Andrew Stevens | [Read More](https://medium.com/p/0602b40be0aa) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 13:06:02 GMT | BadByte The Best Room Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/9c627ae5d9e8) |
 | Sun, 10 Aug 2025 13:01:56 GMT | Network Protocols & OSI Model Layers | prince singh | [Read More](https://medium.com/p/a5c86aee0f07) |
 | Sun, 10 Aug 2025 13:01:32 GMT | How to Secure Your Frontend in 2025 and Pass Certification | Aleksei Aleinikov | [Read More](https://medium.com/p/d6c5a9298f80) |
-| Sun, 10 Aug 2025 12:58:45 GMT | Stealing All Saved Passwords From Any PC: The LaZagne Method (Ethical Guide) | Very Lazy Tech | [Read More](https://medium.com/p/c3f37de9ad99) |
-| Sun, 10 Aug 2025 12:58:25 GMT | Genius XSS ! | Sevada797 | [Read More](https://medium.com/p/1dfa7d2d8e89) |
-| Sun, 10 Aug 2025 12:55:37 GMT | 10 Code Snippets used in Every Project | Babar saad | [Read More](https://medium.com/p/d732b474814a) |
