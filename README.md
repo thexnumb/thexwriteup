@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 07:34:38 GMT | Web Security Stack in 2025: What to Use and Why | Rizqi Mulki | [Read More](https://medium.com/p/782fa90a1086) |
+| Sun, 10 Aug 2025 07:31:47 GMT | Understanding SSL/TLS Communication | Sowmya | [Read More](https://medium.com/p/4f89eb7f1e57) |
+| Sun, 10 Aug 2025 07:31:41 GMT | Fast vs Fancy: Why Simpler Queries Win | Rizqi Mulki | [Read More](https://medium.com/p/1b36ba0196ef) |
+| Sun, 10 Aug 2025 07:28:27 GMT | SQL Query Optimization: Tips That Actually Work | Rizqi Mulki | [Read More](https://medium.com/p/a4eafe4a46d9) |
+| Sun, 10 Aug 2025 07:21:52 GMT | JWT: Decoded — How It Works, Security Details, and jsonwebtoken Under the Hood | Kajol Kumari | [Read More](https://medium.com/p/38671d6142f7) |
+| Sun, 10 Aug 2025 07:19:38 GMT | OAuth2 + NestJS: The Secret Sauce to Keep Your API Safe (and Hackers Sad) | Priyanshu Rajput | [Read More](https://medium.com/p/cc72d2404426) |
+| Sun, 10 Aug 2025 07:17:14 GMT | How Hackers Track Your Location in 2025 — And How You Can Protect Yourself Legally | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/61c8681d3dca) |
 | Sun, 10 Aug 2025 07:06:20 GMT | Phishing: Recognizing and Avoiding Phishing Scams | Cyber Security Research | [Read More](https://medium.com/p/474a84ccef0a) |
 | Sun, 10 Aug 2025 07:05:05 GMT | Ransomware: Understanding and Preventing Attacks | Cyber Security Research | [Read More](https://medium.com/p/8e5dfd4cf571) |
 | Sun, 10 Aug 2025 07:03:46 GMT | Cyber Warfare: The Geopolitics of Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/6faafa7656ce) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 22:17:02 GMT | Securing GNSS and Time Sync Protocols in Critical Infrastructure | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ce8210012a50) |
 | Sat, 09 Aug 2025 22:15:38 GMT | Day 76: Reverse shells | Nile Okomo | [Read More](https://medium.com/p/774122f6ea73) |
 | Sat, 09 Aug 2025 21:52:51 GMT | This Week’s Top Security News: AI Hacking & Critical Flaws | Max Farnga | [Read More](https://medium.com/p/b83c1edeb5d2) |
-| Sat, 09 Aug 2025 21:43:58 GMT | Work from the Office Is Back—But Is Your Security Stuck in the Past? | Vivian O | [Read More](https://medium.com/p/eeef5bee233a) |
-| Sat, 09 Aug 2025 21:42:33 GMT | Weekly Cybersecurity Digest: AI-Powered Defenses & New Threats️ | Max Farnga | [Read More](https://medium.com/p/3b55b751d9e7) |
-| Sat, 09 Aug 2025 21:28:19 GMT | Browser Security in 2025: Which Browser Truly Protects You? | WhoerIP - Online Privacy Tools | [Read More](https://medium.com/p/e2994003b2d1) |
-| Sat, 09 Aug 2025 21:18:39 GMT | Interested In Cybersecurity? Wanna Be A Hacker? | grepStrength | [Read More](https://medium.com/p/fd8931248180) |
-| Sat, 09 Aug 2025 21:18:09 GMT | Can I Threat Hunt Without Being a Hacker? | Yash Patel | [Read More](https://medium.com/p/6f39f4f7ddc9) |
-| Sat, 09 Aug 2025 21:16:58 GMT | AI in Cybersecurity: Sentinel or Saboteur? | Richard Dosumu | [Read More](https://medium.com/p/f2a1bf4d3af8) |
-| Sat, 09 Aug 2025 21:16:00 GMT | AI-Driven Social Engineering: Detecting Deepfake Voice Attacks | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/4f6f61aa2cae) |
