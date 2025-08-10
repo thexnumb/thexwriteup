@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 17:02:23 GMT | Ingeniería inversa de software | Iceyami | [Read More](https://medium.com/p/7c427ff6ea83) |
+| Sun, 10 Aug 2025 17:00:55 GMT | Ciberseguridad en la Guerra Irrestricta | Iceyami | [Read More](https://medium.com/p/ab736ed1b568) |
+| Sun, 10 Aug 2025 16:52:20 GMT | My Heart Pounds Every Time I See Him. | The Heart 's Diary | [Read More](https://medium.com/p/1a9596aabee1) |
+| Sun, 10 Aug 2025 16:52:06 GMT | The Love Letter I Never Sent (And Why It Became My Best Story) | Girish Dhamane | [Read More](https://medium.com/p/4230177d0283) |
+| Sun, 10 Aug 2025 16:43:54 GMT | Collateral Damage | Robert Vamosi | [Read More](https://medium.com/p/629db10a8147) |
+| Sun, 10 Aug 2025 16:43:47 GMT | The 2025 U.S. Federal Court Filing System Breach: A Political, Economic, and Technical Breakdown | Motasem Hamdan | [Read More](https://medium.com/p/1ba3ff01fa71) |
 | Sun, 10 Aug 2025 16:37:04 GMT | The Rust Bug That Nearly Ended Our Release (And the One Line That Saved It) | SyntaxSavage | [Read More](https://medium.com/p/3e2bc73ef70c) |
 | Sun, 10 Aug 2025 16:36:15 GMT | Hacking Cruise Ships and Data Centers | Robert Vamosi | [Read More](https://medium.com/p/eb8b2ffe6de3) |
 | Sun, 10 Aug 2025 16:29:20 GMT | Yes, Two-Factor Authentication Can Be Hacked — But Use It Anyway (Here’s Why) | Faizan Saghir | [Read More](https://medium.com/p/884d311b1320) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 10:54:11 GMT | ️ CVE-2025–47872: Sensitive Info Leak in EG4 Electronics Product Registration — Are Your Serial… | CVEHUB | [Read More](https://medium.com/p/a9389e870a2b) |
 | Sun, 10 Aug 2025 10:35:27 GMT | Snyk (SCA) - Open Source Security — Code Vulnerability Scan | Piyali Das | [Read More](https://medium.com/p/890c180f889a) |
 | Sun, 10 Aug 2025 10:26:09 GMT | Folder of Fortune: My Accidental Journey into Misconfigured Cloud Bucket Goldmines | Iski | [Read More](https://medium.com/p/8ab7b42c287b) |
-| Sun, 10 Aug 2025 10:25:45 GMT | Security by Obscurity? Nah, Try Testing Instead. | Coding Creed Technologies | [Read More](https://medium.com/p/9c248dc6b113) |
-| Sun, 10 Aug 2025 09:55:21 GMT | Hacking Through the Looking Glass: Pivoting with SSH and Proxychains | Abdul Ahad | [Read More](https://medium.com/p/ea027db75bdd) |
-| Sun, 10 Aug 2025 09:51:41 GMT | ⚙️ Using Python and Bash Scripts in SOC Automation | Esra Kayhan | [Read More](https://medium.com/p/e9c293305d0d) |
-| Sun, 10 Aug 2025 09:50:42 GMT | Chrome Sandbox Under Fire: Linux Kernel Vulnerability Allows Privilege Escalation | Chetan Seripally | [Read More](https://medium.com/p/bdbcfc51892d) |
-| Sun, 10 Aug 2025 09:46:02 GMT | WinRAR Bug: Did You Unzip a Virus? | Truspex | [Read More](https://medium.com/p/0d207ec03d23) |
-| Sun, 10 Aug 2025 09:44:06 GMT | Locked Files Got You Down? Your DIY Decryption Guide. | SilentInject | [Read More](https://medium.com/p/424e6f6fadc5) |
