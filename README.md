@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 05:38:20 GMT | $BUG Token-Aktion: Wie man sich für BUG BUG Token-Aktionen qualifiziert | BUG | [Read More](https://medium.com/p/1fd1a062af54) |
+| Sun, 10 Aug 2025 05:37:41 GMT | $10,000 Google Bug Bounty: How a Deserialization RCE in AppSheet Could Have Led to Remote Code… | Yeswehack | [Read More](https://medium.com/p/955b0a2e840b) |
+| Sun, 10 Aug 2025 05:37:10 GMT | A Deep Dive into a Potential Privilege Escalation Issue | Monika sharma | [Read More](https://medium.com/p/313a6040d458) |
+| Sun, 10 Aug 2025 05:36:09 GMT | Why Your Next Android Phone Might Outlive Your Laptop | Sienna Lewis | [Read More](https://medium.com/p/cda34313df9d) |
+| Sun, 10 Aug 2025 05:36:05 GMT | Cyber Threat Intelligence: Building Your Feed | Aj | [Read More](https://medium.com/p/5faed84512b4) |
+| Sun, 10 Aug 2025 05:32:19 GMT | Navigating Cybersecurity with the AAA Compass | The Cyber Odyssey | [Read More](https://medium.com/p/679e4a5bfa6a) |
+| Sun, 10 Aug 2025 05:31:20 GMT | Attackers are shifting from brute force to brain force | Cyber-AppSec | [Read More](https://medium.com/p/22492093f21b) |
+| Sun, 10 Aug 2025 05:21:49 GMT | GPT-5 Jailbroken: Security Experts Warn of Risks for Business Use | Tarush Sharma | [Read More](https://medium.com/p/a3cdb2642916) |
+| Sun, 10 Aug 2025 05:19:31 GMT | How I Found 100+ API Keys in JavaScript Files (JS Secrets Exposed) | Ibtissam hammadi | [Read More](https://medium.com/p/939cc1f22289) |
 | Sun, 10 Aug 2025 05:08:50 GMT | [01]. I got my first bounty white playing bug bounty | yoyomiski | [Read More](https://medium.com/p/52acfd9fbc0e) |
 | Sun, 10 Aug 2025 04:55:05 GMT | Securing New Zealand’s Digital Transformation: The Road Ahead | B M Zahid ul Haque | [Read More](https://medium.com/p/a927aaddd33f) |
 | Sun, 10 Aug 2025 04:47:02 GMT | 6. State Management in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/95b65bb78a8a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 18:50:23 GMT | MAL: Malware Introductory TryHackMe Writeup | theOrthodox | [Read More](https://medium.com/p/360f21f8ffc8) |
 | Sat, 09 Aug 2025 18:45:28 GMT | Why the Next Big Shift in Tech Could Be All About Digital Ownership | Aliciasierra | [Read More](https://medium.com/p/9e5d89b61740) |
 | Sat, 09 Aug 2025 18:44:02 GMT | From Telemetry to Signals: Designing Detections with an Audience in Mind | Nasreddine Bencherchali | [Read More](https://medium.com/p/5faa3ec77b44) |
-| Sat, 09 Aug 2025 18:40:14 GMT | How to Set Up a Secure Home Network from Scratch | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/693519d90b36) |
-| Sat, 09 Aug 2025 18:39:02 GMT | Infographic Designer | Saraswathi K | [Read More](https://medium.com/p/f089d361441b) |
-| Sat, 09 Aug 2025 18:31:20 GMT | How AI is Shaping Tomorrow’s Cyber Defence | Ayesha Saleem | [Read More](https://medium.com/p/f73994cb6aa5) |
-| Sat, 09 Aug 2025 18:29:44 GMT | Living Off the Land: Turning Trusted Tools into Silent Weapons | Shadow Packet | [Read More](https://medium.com/p/7a3da45ea004) |
-| Sat, 09 Aug 2025 18:28:13 GMT | Pentesting Fundamentals - Tryhackme | Atakan Bitim | [Read More](https://medium.com/p/fd951312ffa4) |
-| Sat, 09 Aug 2025 18:25:50 GMT | WinDirStat: The Visual Tool That Tells You Exactly What’s Eating Your Windows Hard Drive | Danielle Favreau | [Read More](https://medium.com/p/79d74d92c3ba) |
-| Sat, 09 Aug 2025 18:23:54 GMT | GLITCH - THM Walkthrough | VxRabbit | [Read More](https://medium.com/p/30978b63df29) |
-| Sat, 09 Aug 2025 18:14:06 GMT | 0click Account Take over via Auth0 | Ahmed Mahmoued | [Read More](https://medium.com/p/3a39cbe080cc) |
-| Sat, 09 Aug 2025 18:09:33 GMT | Into Linux and Networking | P R ROHITH | [Read More](https://medium.com/p/9679482fdaab) |
