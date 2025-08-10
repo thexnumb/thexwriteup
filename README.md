@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 19:51:02 GMT | Securing AI for Enterprises: A Leadership Blueprint | Harry D | [Read More](https://medium.com/p/58c4ad7c4418) |
+| Sun, 10 Aug 2025 19:46:00 GMT | # Analytical Report on Operationalj3 Pipeline Dossier: Extraction, Classification, and… | Brandonzid | [Read More](https://medium.com/p/339be1323c67) |
+| Sun, 10 Aug 2025 19:45:44 GMT | Streaming CrowdStrike Falcon Events into GCS for Google Chronicle | Andrew Stevens | [Read More](https://medium.com/p/0602b40be0aa) |
+| Sun, 10 Aug 2025 19:29:31 GMT | When a Video Doesn’t Play but the Malware Sure Does | Hatim Khadraoui | [Read More](https://medium.com/p/7cb9076dc186) |
 | Sun, 10 Aug 2025 19:24:06 GMT | Quantum Networking: The Future of Unbreakable Online Communication | Dark Tech Insights | [Read More](https://medium.com/p/929dafbae047) |
 | Sun, 10 Aug 2025 19:15:26 GMT | Future-Proof Your Skills: What’s Next in Cybersecurity? | Authlyn | [Read More](https://medium.com/p/fd02eb420655) |
 | Sun, 10 Aug 2025 19:13:33 GMT | When Vibe Coding Meets Cybercrime: How to Keep Your AI-Powered Dev Flow from Becoming a Hacker’s… | Brian Mora | [Read More](https://medium.com/p/5e836fd09d37) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 12:58:45 GMT | Stealing All Saved Passwords From Any PC: The LaZagne Method (Ethical Guide) | Very Lazy Tech | [Read More](https://medium.com/p/c3f37de9ad99) |
 | Sun, 10 Aug 2025 12:58:25 GMT | Genius XSS ! | Sevada797 | [Read More](https://medium.com/p/1dfa7d2d8e89) |
 | Sun, 10 Aug 2025 12:55:37 GMT | 10 Code Snippets used in Every Project | Babar saad | [Read More](https://medium.com/p/d732b474814a) |
-| Sun, 10 Aug 2025 12:51:43 GMT | How to Know if Your Husband is Lying | Ueiiowd | [Read More](https://medium.com/p/b4de723b9e27) |
-| Sun, 10 Aug 2025 12:51:18 GMT | My EJPT Story — From “Arre Yaar” to “Arey Wah!” | Cypher.One | [Read More](https://medium.com/p/4eabecaa73a2) |
-| Sun, 10 Aug 2025 12:50:37 GMT | Stardust Chollima APT Adversary Simulation | Abdulrehman Ali | [Read More](https://medium.com/p/d5c115a89ab9) |
-| Sun, 10 Aug 2025 12:50:07 GMT | Streaming File Uploads and Downloads with FastAPI: A Practical Guide | Mahdi Jafari | [Read More](https://medium.com/p/ee5be38fdd66) |
