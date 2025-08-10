@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 12:32:05 GMT | From Badge to Real-World Impact: My Microsoft Security Copilot Journey | raveena kholia | [Read More](https://medium.com/p/f3d9f07a8ea1) |
+| Sun, 10 Aug 2025 12:23:28 GMT | Solving Sudoko — Without Revealing Your Answer | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/49c3f7d515af) |
+| Sun, 10 Aug 2025 12:22:52 GMT | From Torrent Movie to Live Malware C2: My Investigation Journey | 3vilbird | [Read More](https://medium.com/p/8ca22046610d) |
+| Sun, 10 Aug 2025 12:21:58 GMT | The Crypto Wars Never Ended: How Phil Zimmermann’s PGP Still Defends Privacy in 2025 | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/10d71b7de187) |
+| Sun, 10 Aug 2025 12:02:17 GMT | Incident Handling Mastery Series — Introduction | β Ꝉ Ⱥ ղ Ҡ | [Read More](https://medium.com/p/fdeb085ac5e3) |
+| Sun, 10 Aug 2025 12:01:45 GMT | I’m So Sorry For Their Loss: They Called You For Help — Yass Partners | Yael Nagler | [Read More](https://medium.com/p/5f3343bf6a02) |
+| Sun, 10 Aug 2025 12:01:45 GMT | Active Reconnaissance: TryHackMe Walkthrough | ShadowPacketRHR | [Read More](https://medium.com/p/df159540d423) |
+| Sun, 10 Aug 2025 11:53:50 GMT | RSA Security | Fabio Pereira | [Read More](https://medium.com/p/546a01a15a97) |
+| Sun, 10 Aug 2025 11:53:03 GMT | An Insight of LSware’s IT Security Products: SecuMS and Omniguard | Michael Christian Handoko | [Read More](https://medium.com/p/9568be15d8bc) |
+| Sun, 10 Aug 2025 11:52:06 GMT | Cyber OSINT for Mobile Threat Hunting: Tracing Malicious APKs | Elif Abanoz | [Read More](https://medium.com/p/3ff6bf02e863) |
+| Sun, 10 Aug 2025 11:39:20 GMT | Open Redirect: The Hidden Doorway for Phishing and Session Hijacking | EroHack | [Read More](https://medium.com/p/1a7afd64ca3b) |
 | Sun, 10 Aug 2025 11:33:17 GMT | A07:2021 — Identification and Authentication Failures | GhostNex | [Read More](https://medium.com/p/0e901e61fad7) |
 | Sun, 10 Aug 2025 11:31:36 GMT | Bug Bounty Goldmine — Host Header Attack for Password Reset Poisoning | Zoningxtr | [Read More](https://medium.com/p/8d3a4520049b) |
 | Sun, 10 Aug 2025 11:30:30 GMT | Docker Advance Part 13: Dockerception — How Docker Runs Inside Docker | Mammad Yahyayev | [Read More](https://medium.com/p/1a28d6853a78) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 04:39:11 GMT | How Bangladesh Became a Used Phone Powerhouse? | Alice Doyle | [Read More](https://medium.com/p/aefbfe2ce6a9) |
 | Sun, 10 Aug 2025 04:33:44 GMT | How to Stay Safe When Passwords Are No Longer Enough | David SEHYEON Baek | [Read More](https://medium.com/p/7ff43f12608b) |
 | Sun, 10 Aug 2025 04:31:15 GMT | Secure Your Data Before Time Runs Out | David SEHYEON Baek | [Read More](https://medium.com/p/dd7fabb8fe7c) |
-| Sun, 10 Aug 2025 04:30:47 GMT | Offensive vs Defensive Security — Which One Does Your Business Need? | DefenceRabbit | [Read More](https://medium.com/p/2d25fac7eade) |
-| Sun, 10 Aug 2025 04:29:25 GMT | How Organizational Culture Shapes Cybersecurity Defense | David SEHYEON Baek | [Read More](https://medium.com/p/8d2d5a57be3d) |
-| Sun, 10 Aug 2025 04:27:57 GMT | The Human Cost of Progress: A Critical Examination of the Technological Society | Nicholas Cole Akers | [Read More](https://medium.com/p/5eea223b2dcc) |
-| Sun, 10 Aug 2025 04:23:42 GMT | Why You Might Still Pay the Ransom Even with Backups After a Ransomware Attack | David SEHYEON Baek | [Read More](https://medium.com/p/821a30902192) |
-| Sun, 10 Aug 2025 04:17:47 GMT | North Korean Hackers Exploit AI in Next-Generation Cyberattacks | David SEHYEON Baek | [Read More](https://medium.com/p/725654070fda) |
-| Sun, 10 Aug 2025 04:16:25 GMT | Where Malware Hides on Your Computer (and How to Find It) | Paritosh | [Read More](https://medium.com/p/c5169134bd19) |
-| Sun, 10 Aug 2025 04:13:46 GMT | Human Error or Human Factor? The Human Risks Undermining Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/35904ce5014a) |
-| Sun, 10 Aug 2025 04:13:30 GMT | How to jailbreak iOS 15.8.4 | 0xjar | [Read More](https://medium.com/p/c510fd6d8fdc) |
-| Sun, 10 Aug 2025 04:07:51 GMT | Qilin Ransomware Uses TPwSav.sys Driver to Bypass EDR Security Measures | David SEHYEON Baek | [Read More](https://medium.com/p/de975c7f5716) |
-| Sun, 10 Aug 2025 04:02:28 GMT | Building a Website with Jamstack | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/044b45e793a5) |
-| Sun, 10 Aug 2025 03:57:04 GMT | not that girl anymore | Sama writes here | [Read More](https://medium.com/p/0a920240de0d) |
