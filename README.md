@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 09:19:58 GMT | Hugging Face Models Hacked? What to Know | CtrlC3 | [Read More](https://medium.com/p/d9e3e4d4b138) |
+| Sun, 10 Aug 2025 09:13:42 GMT | CTF EMPIRE BREAKOUT | Maria Jesus Martinez Leo | [Read More](https://medium.com/p/975c609db329) |
+| Sun, 10 Aug 2025 09:08:39 GMT | Entry-Level Cyber Security: It’s Not as Scary as You Think | Authlyn | [Read More](https://medium.com/p/f001f6b0d68e) |
+| Sun, 10 Aug 2025 08:59:21 GMT | Reverse Engineering: Inside a Malicious VPN App | AL QUDRI | [Read More](https://medium.com/p/82d009e3a45a) |
+| Sun, 10 Aug 2025 08:55:29 GMT | Write-up: Basic Pentesting en TryHackMe | Enciall | [Read More](https://medium.com/p/4703448edf88) |
 | Sun, 10 Aug 2025 08:34:09 GMT | Semgrep :Developers, First Application Security Platform | Ashutosh | [Read More](https://medium.com/p/2859f0d843f6) |
 | Sun, 10 Aug 2025 08:33:10 GMT | Secure Symfony APIs: Fix Weak Authentication Fast | Pentest_Testing_Corp | [Read More](https://medium.com/p/27d568f1e6fc) |
 | Sun, 10 Aug 2025 08:31:02 GMT | Starting My Cybersecurity Project Journey on Medium | Muritala Sanusi | [Read More](https://medium.com/p/54c297c0d47c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 23:11:24 GMT | Snowflake SQL in a Nutshell: Monitor non-human user logins during switch from password to other… | NadirDoctor | [Read More](https://medium.com/p/961076365c56) |
 | Sat, 09 Aug 2025 23:10:20 GMT | Telegram as a Stealth C2: Investigation & Analysis | f0xy_pr0xy | [Read More](https://medium.com/p/f91b42965e36) |
 | Sat, 09 Aug 2025 23:09:00 GMT | Don’t Get Scammed!  Unsolicited Packages with QR Codes are the New Phishing Scam! | Max Farnga | [Read More](https://medium.com/p/79b06ffb2341) |
-| Sat, 09 Aug 2025 23:03:10 GMT | When They Throw Mud, I Just Wipe It Off | Anwar Ballem | [Read More](https://medium.com/p/35567a8bdc55) |
-| Sat, 09 Aug 2025 23:01:45 GMT | Exposing Secrets in Public Repositories Using GitLeaks: A Bug Bounty Learning Experience | Amitishacked | [Read More](https://medium.com/p/bfbbd9e1310a) |
-| Sat, 09 Aug 2025 23:01:26 GMT | Will .NET Be Dead in 2026? A Full Breakdown For Developers | Shubham Kumar | [Read More](https://medium.com/p/8d26c7774b87) |
-| Sat, 09 Aug 2025 22:53:19 GMT | ISO/IEC 27001، فكرة أم ضرورة؟..نظرة مختصرة وتعريفية عنها | Abdulrahman Kamal | [Read More](https://medium.com/p/2a3d448ed0cf) |
-| Sat, 09 Aug 2025 22:42:04 GMT | Ransomware: Exposed Credentials Are Often the Front Door | Alexandre Vandamme | [Read More](https://medium.com/p/507f2398022d) |
