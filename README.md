@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 01:34:57 GMT | 5 Most Dangerous Roads in the World – Would You Dare to Drive Them? | Anos | [Read More](https://medium.com/p/1315e6a3fcaa) |
+| Sun, 10 Aug 2025 01:01:58 GMT | The Lupin Protocol: Beyond the Obvious in Offensive Security | Syed Ammar | [Read More](https://medium.com/p/22d8481d1d43) |
+| Sun, 10 Aug 2025 00:56:16 GMT | Active Directory’yi Anlamak: Temel Bilgiler ve Güvenlik -2 | Nupelda Kandemir | [Read More](https://medium.com/p/c063a3688749) |
+| Sun, 10 Aug 2025 00:35:13 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/f68924e7fbed) |
+| Sun, 10 Aug 2025 00:18:17 GMT | Why Vulnerability Scanning is Important | Adept Networks | [Read More](https://medium.com/p/66d1afc48cd9) |
+| Sun, 10 Aug 2025 00:13:33 GMT | Active Directory’yi Anlamak: Temel Bilgiler ve Güvenlik -1 | Nupelda Kandemir | [Read More](https://medium.com/p/3599fb23b58b) |
+| Sat, 09 Aug 2025 23:48:29 GMT | How GPT-5 Chat Was Jailbroken Using Echo Chamber Tactics? | Raviteja Mureboina | [Read More](https://medium.com/p/f8a6ffb0032e) |
+| Sat, 09 Aug 2025 23:47:32 GMT | Practical introduction to security, compliance, and identity fundamentals | Joe Alongi | [Read More](https://medium.com/p/4f09e3d0bdb8) |
+| Sat, 09 Aug 2025 23:40:42 GMT | Web Uygulamalarında Firebase Güvenliği ve Yaygın Zafiyetler | Hikmet Bulut | [Read More](https://medium.com/p/8f41e873a204) |
+| Sat, 09 Aug 2025 23:38:09 GMT | HackTheBox: Mobile-Cryptohorrific | Gba | [Read More](https://medium.com/p/d22aa45c2301) |
 | Sat, 09 Aug 2025 23:29:22 GMT | How a Friend’s Hacked Account Tricked Me into Sending Money | Shahzaib | [Read More](https://medium.com/p/a55043921316) |
 | Sat, 09 Aug 2025 23:22:52 GMT | CTF Day(48) | Ahmed Narmer | [Read More](https://medium.com/p/a054295afb49) |
 | Sat, 09 Aug 2025 23:19:38 GMT | شماره خاله تهران شماره خاله تهران شماره خاله شماره خاله شیراز شماره خاله شیراز شماره خاله کرمانشاه… | شماره خاله الهام بامکان تهران شماره خاله اصفهان رش | [Read More](https://medium.com/p/031a04afedd6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 15:52:05 GMT | CIA TRIAD | Roshinni Gandhi | [Read More](https://medium.com/p/492d5b4e79a2) |
 | Sat, 09 Aug 2025 15:51:00 GMT | Title: Which Cyberspace Protection Condition Applies to You in 2025? | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/1aa2f2f52f0c) |
 | Sat, 09 Aug 2025 15:39:58 GMT | [HackTheBox Sherlocks Write-up] ReliableThreat (VSCode extension leads to reverse shell and… | Chicken0248 | [Read More](https://medium.com/p/24cad7896717) |
-| Sat, 09 Aug 2025 15:37:08 GMT | Can you get ChatGPT Agent to compromise your passwords? | Brandon Rich | [Read More](https://medium.com/p/76607cda54c4) |
-| Sat, 09 Aug 2025 15:35:32 GMT | Mobile App Security — Beyond the OWASP Checklist | Adithya H | [Read More](https://medium.com/p/b5712e42241b) |
-| Sat, 09 Aug 2025 15:30:05 GMT | Linux Privilege Escalation for Beginners Part 2, USER ENUMERATION: | Muhammadhuzaifa | [Read More](https://medium.com/p/0eaabfa3b54a) |
-| Sat, 09 Aug 2025 15:28:11 GMT | Guess What? AI Still Needs Security | BillfordX | [Read More](https://medium.com/p/2b275b088a45) |
-| Sat, 09 Aug 2025 15:27:09 GMT | From Basic Prompts to Strategic Power: Applying “The 19 Laws of AI Prompting Intelligence | Nikolay Gul | [Read More](https://medium.com/p/218526523193) |
-| Sat, 09 Aug 2025 15:16:14 GMT | Cyber Snack-1 Cyber Attacks | Mohamed Anwar Hussain A | [Read More](https://medium.com/p/d8522808c8a9) |
-| Sat, 09 Aug 2025 15:16:05 GMT | Tips to Protect Yourself on LinkedIn from Fraud, Social Engineering, and Espionage | Matthew.Rosenquist | [Read More](https://medium.com/p/930ca202785e) |
-| Sat, 09 Aug 2025 15:06:28 GMT | “Thinking Like an Attacker: My Journey to Making JavaScript Code Secure from XSS and Injection” | Maximilian Oliver | [Read More](https://medium.com/p/f334206f060a) |
-| Sat, 09 Aug 2025 15:06:01 GMT | Ultimate Cyber Security Checklist for Remote Work Environments (2025 Edition) | Paul Meyer | [Read More](https://medium.com/p/6fbb33ce0a0d) |
-| Sat, 09 Aug 2025 15:05:34 GMT | Is BiyaPay Safe? | Ann | [Read More](https://medium.com/p/23c5bf08d240) |
