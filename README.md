@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 16:37:04 GMT | The Rust Bug That Nearly Ended Our Release (And the One Line That Saved It) | SyntaxSavage | [Read More](https://medium.com/p/3e2bc73ef70c) |
+| Sun, 10 Aug 2025 16:36:15 GMT | Hacking Cruise Ships and Data Centers | Robert Vamosi | [Read More](https://medium.com/p/eb8b2ffe6de3) |
+| Sun, 10 Aug 2025 16:29:20 GMT | Yes, Two-Factor Authentication Can Be Hacked — But Use It Anyway (Here’s Why) | Faizan Saghir | [Read More](https://medium.com/p/884d311b1320) |
+| Sun, 10 Aug 2025 16:28:01 GMT | Editor—Easy HTB Challenge | Haitham Aljabbari | [Read More](https://medium.com/p/511741914dec) |
+| Sun, 10 Aug 2025 16:27:33 GMT | HTB Outbound | 77r4sed | [Read More](https://medium.com/p/29827dfc9dd1) |
+| Sun, 10 Aug 2025 16:26:21 GMT | [HackTheBox Sherlocks Write-up] Compromised (Analyzing Network Traffic from a Pikabot Compromise) | Chicken0248 | [Read More](https://medium.com/p/d1ec5888e2e7) |
+| Sun, 10 Aug 2025 16:25:38 GMT | [HackTheBox Sherlocks Write-up] Takedown (VBS script leads to DarkGate malware) | Chicken0248 | [Read More](https://medium.com/p/cc1fdf275698) |
 | Sun, 10 Aug 2025 16:20:30 GMT | Navigating the Future: Docker and Portainer in the Data Landscape | TJUpcomingTechMoney | [Read More](https://medium.com/p/fa422b804993) |
 | Sun, 10 Aug 2025 16:16:06 GMT | Maritime Cyber Resilience Brief — Comparative Insights (3-Part Series) | Tony Shin | [Read More](https://medium.com/p/9219a32028ac) |
 | Sun, 10 Aug 2025 16:15:56 GMT | Submission Guidelines — CyberScribers | Stefan Bargan | [Read More](https://medium.com/p/8b11a51afc19) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 09:50:42 GMT | Chrome Sandbox Under Fire: Linux Kernel Vulnerability Allows Privilege Escalation | Chetan Seripally | [Read More](https://medium.com/p/bdbcfc51892d) |
 | Sun, 10 Aug 2025 09:46:02 GMT | WinRAR Bug: Did You Unzip a Virus? | Truspex | [Read More](https://medium.com/p/0d207ec03d23) |
 | Sun, 10 Aug 2025 09:44:06 GMT | Locked Files Got You Down? Your DIY Decryption Guide. | SilentInject | [Read More](https://medium.com/p/424e6f6fadc5) |
-| Sun, 10 Aug 2025 09:38:06 GMT | Kali Linux Toolkits Deep Dive — Entry: Kali-Tools-VoIP | RafalW3bCraft | [Read More](https://medium.com/p/30b05fb3812d) |
-| Sun, 10 Aug 2025 09:37:17 GMT | Why I Stopped Using Free VPNs | Shahzaib | [Read More](https://medium.com/p/58d848a1c605) |
-| Sun, 10 Aug 2025 09:37:11 GMT | Red Team vs. Blue Team: Simulating Cyber Warfare | Aj | [Read More](https://medium.com/p/e3630e4dd8b6) |
-| Sun, 10 Aug 2025 09:36:19 GMT | Threat Intelligence for SOC: An In-Depth Guide ️ | Furkanctiner | [Read More](https://medium.com/p/089514c207e8) |
-| Sun, 10 Aug 2025 09:34:00 GMT | Tech 2025: How AI, Quantum Computing, and Sustainability Will Redefine Our World | Mr SA | [Read More](https://medium.com/p/c67b18e4b4fe) |
-| Sun, 10 Aug 2025 09:27:42 GMT | Google Confirmed Salesforce Data Breach-Google Ads Prospect Information Exposed | Chetan Seripally | [Read More](https://medium.com/p/417321ac50fb) |
-| Sun, 10 Aug 2025 09:25:15 GMT | PortSwigger Lab Walkthrough: Blind OS Command Injection with Output Redirection | Siddiquimohammad | [Read More](https://medium.com/p/31b9d5afa1a1) |
