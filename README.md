@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 23:28:13 GMT | Integrated Security Solutions for Today’s Systems | Zeenya | [Read More](https://medium.com/p/a6b2ba0af9c5) |
 | Sun, 10 Aug 2025 23:01:44 GMT | HackTheBox — Pikaptcha Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/c4084381327e) |
 | Sun, 10 Aug 2025 22:53:01 GMT | Building an Azure SIEM Lab | Will Giles - Cybersecurity | [Read More](https://medium.com/p/03c59dab1199) |
 | Sun, 10 Aug 2025 22:19:30 GMT | Drosera Network: The Decentralized Shield for Web3 Security Introduction: | Happiness Oluwaferanmi | [Read More](https://medium.com/p/b2f88a71eeaf) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 14:54:20 GMT | My basic understanding of the OWASP Top 10 Vulnerabilities | Biswajit RK | [Read More](https://medium.com/p/3f793d0b6a02) |
 | Sun, 10 Aug 2025 14:53:53 GMT | Sigma: The Universal Language for Threat Detection ️ | Furkanctiner | [Read More](https://medium.com/p/0fdca3e4fd9d) |
 | Sun, 10 Aug 2025 14:51:02 GMT | The Day Your Algorithm Started Making Board-Level Decisions | Mohammed Brückner | [Read More](https://medium.com/p/a54628c1b37a) |
-| Sun, 10 Aug 2025 14:49:04 GMT | From Caesar to Quantum: A Developer’s Crash Course in Cryptography — Part 1: Ancient Secrets | Steinwendner Matthias | [Read More](https://medium.com/p/a4a156f1c17f) |
