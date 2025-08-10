@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 16:20:30 GMT | Navigating the Future: Docker and Portainer in the Data Landscape | TJUpcomingTechMoney | [Read More](https://medium.com/p/fa422b804993) |
+| Sun, 10 Aug 2025 16:16:06 GMT | Maritime Cyber Resilience Brief — Comparative Insights (3-Part Series) | Tony Shin | [Read More](https://medium.com/p/9219a32028ac) |
+| Sun, 10 Aug 2025 16:15:56 GMT | Submission Guidelines — CyberScribers | Stefan Bargan | [Read More](https://medium.com/p/8b11a51afc19) |
+| Sun, 10 Aug 2025 16:13:15 GMT | How to Integrate AI APIs (e.g. ChatGPT) to Build Productive Apps | Ekanayake YM | [Read More](https://medium.com/p/84e165ac3031) |
+| Sun, 10 Aug 2025 16:09:13 GMT | Universal Plug and Play (UPnP) Protocol — The Good, The Bad, and The Vulnerable! | Mohamed Ibrahim | [Read More](https://medium.com/p/0e312661c7c9) |
+| Sun, 10 Aug 2025 16:08:43 GMT | Maritime Cyber Resilience Brief — Comparative Insights (3-Part Series) | Tony Shin | [Read More](https://medium.com/p/718cb96c90d5) |
+| Sun, 10 Aug 2025 16:05:33 GMT | Fintech Isn’t Just About Big Money, It’s About Smart Code | ASAD UR REHMAN | [Read More](https://medium.com/p/17ba7d31a5ec) |
+| Sun, 10 Aug 2025 16:02:49 GMT | Future-Proofing Node.js APIs — Mastering Multiple Data Formats Like a Pro (2025 Guide) | Lakshika | [Read More](https://medium.com/p/228cbfce37f7) |
+| Sun, 10 Aug 2025 16:02:00 GMT | I found love where it was never meant to be. | CatchUpWith NAS | [Read More](https://medium.com/p/e4f1f21b4b75) |
+| Sun, 10 Aug 2025 16:02:00 GMT | Offline, Encrypted, Untraceable: The Rise of Mesh and Censorship-Resistant Messaging Apps | BiyteLüm | [Read More](https://medium.com/p/21e5b70975f3) |
+| Sun, 10 Aug 2025 15:58:29 GMT | Maritime Cyber Resilience Brief — Comparative Insights (3-Part Series) | Tony Shin | [Read More](https://medium.com/p/f865f493eb22) |
+| Sun, 10 Aug 2025 15:51:34 GMT | How a Single SQL Injection Unlocked a sensitive Government Database. | Parag Bagade | [Read More](https://medium.com/p/0345f8c8e577) |
+| Sun, 10 Aug 2025 15:38:49 GMT | Investigating a VoIP Vishing Attack: A LetsDefend Blue Team Walkthrough | Pranav | [Read More](https://medium.com/p/7329c80e153e) |
+| Sun, 10 Aug 2025 15:38:35 GMT | When You Love the Version of Me That Never Existed | Janet Lady | [Read More](https://medium.com/p/ef0ea74250f7) |
 | Sun, 10 Aug 2025 15:34:55 GMT | The Email Regex That Could Have Taken Down an Entire App | Nas Abdulrasaq | [Read More](https://medium.com/p/aceda9bcc953) |
 | Sun, 10 Aug 2025 15:29:23 GMT | The Silent Battle Against Cyber Threats | Token: Next-Generation, Phishing-Proof MFA | [Read More](https://medium.com/p/5096f4f4ab9f) |
 | Sun, 10 Aug 2025 15:28:49 GMT | Cybersecurity threats are growing. Here are 3 ways to protect your small business. | Gene Marks | [Read More](https://medium.com/p/dba06f8eea90) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 09:34:00 GMT | Tech 2025: How AI, Quantum Computing, and Sustainability Will Redefine Our World | Mr SA | [Read More](https://medium.com/p/c67b18e4b4fe) |
 | Sun, 10 Aug 2025 09:27:42 GMT | Google Confirmed Salesforce Data Breach-Google Ads Prospect Information Exposed | Chetan Seripally | [Read More](https://medium.com/p/417321ac50fb) |
 | Sun, 10 Aug 2025 09:25:15 GMT | PortSwigger Lab Walkthrough: Blind OS Command Injection with Output Redirection | Siddiquimohammad | [Read More](https://medium.com/p/31b9d5afa1a1) |
-| Sun, 10 Aug 2025 09:19:58 GMT | Hugging Face Models Hacked? What to Know | CtrlC3 | [Read More](https://medium.com/p/d9e3e4d4b138) |
-| Sun, 10 Aug 2025 09:17:33 GMT | LLM01:2025 Prompt Injection Detaylı Türkçe Anlatım | Utku Ayan | [Read More](https://medium.com/p/d3d400f6e815) |
-| Sun, 10 Aug 2025 09:13:42 GMT | CTF EMPIRE BREAKOUT | Maria Jesus Martinez Leo | [Read More](https://medium.com/p/975c609db329) |
-| Sun, 10 Aug 2025 09:08:39 GMT | Entry-Level Cyber Security: It’s Not as Scary as You Think | Authlyn | [Read More](https://medium.com/p/f001f6b0d68e) |
-| Sun, 10 Aug 2025 08:59:21 GMT | Reverse Engineering: Inside a Malicious VPN App | AL QUDRI | [Read More](https://medium.com/p/82d009e3a45a) |
-| Sun, 10 Aug 2025 08:55:29 GMT | Write-up: Basic Pentesting en TryHackMe | Enciall | [Read More](https://medium.com/p/4703448edf88) |
-| Sun, 10 Aug 2025 08:34:09 GMT | Semgrep :Developers, First Application Security Platform | Ashutosh | [Read More](https://medium.com/p/2859f0d843f6) |
-| Sun, 10 Aug 2025 08:33:10 GMT | Secure Symfony APIs: Fix Weak Authentication Fast | Pentest_Testing_Corp | [Read More](https://medium.com/p/27d568f1e6fc) |
-| Sun, 10 Aug 2025 08:31:02 GMT | Starting My Cybersecurity Project Journey on Medium | Muritala Sanusi | [Read More](https://medium.com/p/54c297c0d47c) |
-| Sun, 10 Aug 2025 08:25:16 GMT | How Silicon Valley’s Cultural Blind Spot Kept 4 Billion People from Using Tech in Their Native… | Muhammad Ikram | [Read More](https://medium.com/p/cb14abfe245d) |
-| Sun, 10 Aug 2025 08:18:07 GMT | Exploiting an API Endpoint using Documentation | Aditya Bhatt | [Read More](https://medium.com/p/f5265dc24c84) |
-| Sun, 10 Aug 2025 08:08:06 GMT | Why Your Passwords Are at Risk and How to Secure Them | Pankaj Tembhurne | [Read More](https://medium.com/p/6a789e0b8842) |
-| Sun, 10 Aug 2025 08:01:43 GMT | Data Privacy: Protecting Personal Information in the Digital Age | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/6f94cd9989e4) |
-| Sun, 10 Aug 2025 07:52:46 GMT | Sudo 1.9.16p2 — CVE-2025–32463 Local Privilege Escalation Exploit | Özcan Ersan | [Read More](https://medium.com/p/3e7a52cdb86f) |
