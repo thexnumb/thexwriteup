@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 10:35:27 GMT | Snyk (SCA) - Open Source Security — Code Vulnerability Scan | Piyali Das | [Read More](https://medium.com/p/890c180f889a) |
+| Sun, 10 Aug 2025 10:26:09 GMT | Folder of Fortune: My Accidental Journey into Misconfigured Cloud Bucket Goldmines | Iski | [Read More](https://medium.com/p/8ab7b42c287b) |
+| Sun, 10 Aug 2025 10:25:45 GMT | Security by Obscurity? Nah, Try Testing Instead. | Coding Creed Technologies | [Read More](https://medium.com/p/9c248dc6b113) |
 | Sun, 10 Aug 2025 09:55:21 GMT | Hacking Through the Looking Glass: Pivoting with SSH and Proxychains | Abdul Ahad | [Read More](https://medium.com/p/ea027db75bdd) |
 | Sun, 10 Aug 2025 09:51:41 GMT | ⚙️ Using Python and Bash Scripts in SOC Automation | Esra Kayhan | [Read More](https://medium.com/p/e9c293305d0d) |
 | Sun, 10 Aug 2025 09:50:42 GMT | Chrome Sandbox Under Fire: Linux Kernel Vulnerability Allows Privilege Escalation | Chetan Seripally | [Read More](https://medium.com/p/bdbcfc51892d) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 01:34:57 GMT | 5 Most Dangerous Roads in the World – Would You Dare to Drive Them? | Anos | [Read More](https://medium.com/p/1315e6a3fcaa) |
 | Sun, 10 Aug 2025 01:01:58 GMT | The Lupin Protocol: Beyond the Obvious in Offensive Security | Syed Ammar | [Read More](https://medium.com/p/22d8481d1d43) |
 | Sun, 10 Aug 2025 00:56:16 GMT | Active Directory’yi Anlamak: Temel Bilgiler ve Güvenlik -2 | Nupelda Kandemir | [Read More](https://medium.com/p/c063a3688749) |
-| Sun, 10 Aug 2025 00:35:13 GMT | FOR CRYPTOCURRENCY RECOVERY, CONTACT TSUTOMU SHIMOMURA | Wisdomalfred | [Read More](https://medium.com/p/f68924e7fbed) |
-| Sun, 10 Aug 2025 00:18:17 GMT | Why Vulnerability Scanning is Important | Adept Networks | [Read More](https://medium.com/p/66d1afc48cd9) |
-| Sun, 10 Aug 2025 00:13:33 GMT | Active Directory’yi Anlamak: Temel Bilgiler ve Güvenlik -1 | Nupelda Kandemir | [Read More](https://medium.com/p/3599fb23b58b) |
