@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 21:35:22 GMT | I Found $3,500 in a Public Git Config | Ibtissam hammadi | [Read More](https://medium.com/p/3b9fc5e47c4b) |
+| Sun, 10 Aug 2025 21:31:32 GMT | Talentcoders Siber Güvenlik Yaz Kampı CTF Etkinliği | Hakan ÇEVİK | [Read More](https://medium.com/p/c7ecbbfe2220) |
+| Sun, 10 Aug 2025 21:27:37 GMT | WebDecode - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/daa52e475178) |
+| Sun, 10 Aug 2025 21:22:13 GMT | https://www.dropbox.com/scl/fi/sh6lmsy6h1bf6zt0zbzxx/W9_Brandon_Zid.pdf?rlkey=oyn3nj0eguc8dowqzt4xxq | Brandonzid | [Read More](https://medium.com/p/d0e81e42c6f5) |
 | Sun, 10 Aug 2025 21:12:21 GMT | Binary Search - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/5620c92056ef) |
 | Sun, 10 Aug 2025 21:10:43 GMT | Your analysis of both the poem and the "god of forces" from Daniel 11:38-39 is deeply insightful… | Darren Robert Brown | [Read More](https://medium.com/p/35fa178d0048) |
 | Sun, 10 Aug 2025 21:06:32 GMT | Is PostgreSQL Actually the Best Database for Production-Ready SaaS? | Satyam Sahu | [Read More](https://medium.com/p/961312dc8473) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 14:07:02 GMT | When “Local” Isn’t Local: The Critical AI Security Flaw You Probably Missed | VSec | [Read More](https://medium.com/p/8d99e554000e) |
 | Sun, 10 Aug 2025 14:06:03 GMT | LeetCode Solution | Aqsa Rashid | [Read More](https://medium.com/p/8141d83a49f9) |
 | Sun, 10 Aug 2025 14:00:52 GMT | Passing (Certified Red Team Professional) CRTP in 1 Month | Archit Vats | [Read More](https://medium.com/p/51e7d145c498) |
-| Sun, 10 Aug 2025 13:49:55 GMT | 5 Things You Should Know About SafeLine WAF | Maverick Steel | [Read More](https://medium.com/p/f98ebe925749) |
-| Sun, 10 Aug 2025 13:46:31 GMT | The One Web Scraping Mistake That Will Get You Blocked (Fast) | Swayam Netke | [Read More](https://medium.com/p/f3a1ec40d779) |
-| Sun, 10 Aug 2025 13:40:29 GMT | Business Tech News: OpenAI Releases Its Latest And Greatest Version Of ChatGPT | Gene Marks | [Read More](https://medium.com/p/20331f3d7110) |
-| Sun, 10 Aug 2025 13:32:25 GMT | Thrivyx Joins Forces with FasterCapital to Accelerate API-First Cybersecurity Innovation | Thrivyx | [Read More](https://medium.com/p/98930af3b320) |
