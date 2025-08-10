@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 15:10:05 GMT | Zero-Click ATO via Reusable Password Reset Token | httpzuz | [Read More](https://medium.com/p/3299d0bfc005) |
+| Sun, 10 Aug 2025 15:06:13 GMT | “Day 7: API Hacking — How I Stole 5000 OAuth Tokens & Won $300” | Aman Sharma | [Read More](https://medium.com/p/49b988ed8e21) |
+| Sun, 10 Aug 2025 15:00:50 GMT | Simsiz texnologiyalar | Farid Mehdiyev | [Read More](https://medium.com/p/148651d9bd78) |
+| Sun, 10 Aug 2025 14:58:10 GMT | Business Logic Vulnerabilities or Application Logic Vulnerabilities or simply “logic flaws” | Zodiac Hacker | [Read More](https://medium.com/p/d88d7c3fd5a1) |
+| Sun, 10 Aug 2025 14:57:45 GMT | Understanding the OSI Model (Layers 1–3) — A Practical Guide | Allen Ace | [Read More](https://medium.com/p/d4133ab7ca77) |
+| Sun, 10 Aug 2025 14:54:20 GMT | My basic understanding of the OWASP Top 10 Vulnerabilities | Biswajit RK | [Read More](https://medium.com/p/3f793d0b6a02) |
+| Sun, 10 Aug 2025 14:53:53 GMT | Sigma: The Universal Language for Threat Detection ️ | Furkanctiner | [Read More](https://medium.com/p/0fdca3e4fd9d) |
+| Sun, 10 Aug 2025 14:51:02 GMT | The Day Your Algorithm Started Making Board-Level Decisions | Mohammed Brückner | [Read More](https://medium.com/p/a54628c1b37a) |
+| Sun, 10 Aug 2025 14:49:04 GMT | From Caesar to Quantum: A Developer’s Crash Course in Cryptography — Part 1: Ancient Secrets | Steinwendner Matthias | [Read More](https://medium.com/p/a4a156f1c17f) |
+| Sun, 10 Aug 2025 14:39:47 GMT | OWASP Top 10 Made Easy: Protect Your Website from the Most Common Attacks. | Xshannu | [Read More](https://medium.com/p/2855c5a9b7c6) |
 | Sun, 10 Aug 2025 14:32:23 GMT | Vibe coding: Cool Name, Risky Reality. | Brittney Ginther | [Read More](https://medium.com/p/04352cc0f2ff) |
 | Sun, 10 Aug 2025 14:30:05 GMT | Don’t Sanitize Everything - Validate First, Then Clean Up in PHP | Asian Digital Hub | [Read More](https://medium.com/p/654917b4de47) |
 | Sun, 10 Aug 2025 14:25:02 GMT | Email vs. Username Logins: Embracing Passwordless Alternatives and Future Trends | H2bm | [Read More](https://medium.com/p/39a7e435d646) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 07:34:38 GMT | Web Security Stack in 2025: What to Use and Why | Rizqi Mulki | [Read More](https://medium.com/p/782fa90a1086) |
 | Sun, 10 Aug 2025 07:33:44 GMT | The new platinum ? data :- protect it | Rinka | [Read More](https://medium.com/p/1709fd216b73) |
 | Sun, 10 Aug 2025 07:31:47 GMT | Understanding SSL/TLS Communication | Sowmya | [Read More](https://medium.com/p/4f89eb7f1e57) |
-| Sun, 10 Aug 2025 07:31:41 GMT | Fast vs Fancy: Why Simpler Queries Win | Rizqi Mulki | [Read More](https://medium.com/p/1b36ba0196ef) |
-| Sun, 10 Aug 2025 07:28:27 GMT | SQL Query Optimization: Tips That Actually Work | Rizqi Mulki | [Read More](https://medium.com/p/a4eafe4a46d9) |
-| Sun, 10 Aug 2025 07:21:52 GMT | JWT: Decoded — How It Works, Security Details, and jsonwebtoken Under the Hood | Kajol Kumari | [Read More](https://medium.com/p/38671d6142f7) |
-| Sun, 10 Aug 2025 07:19:38 GMT | OAuth2 + NestJS: The Secret Sauce to Keep Your API Safe (and Hackers Sad) | Priyanshu Rajput | [Read More](https://medium.com/p/cc72d2404426) |
-| Sun, 10 Aug 2025 07:17:14 GMT | How Hackers Track Your Location in 2025 — And How You Can Protect Yourself Legally | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/61c8681d3dca) |
-| Sun, 10 Aug 2025 07:06:20 GMT | Phishing: Recognizing and Avoiding Phishing Scams | Cyber Security Research | [Read More](https://medium.com/p/474a84ccef0a) |
-| Sun, 10 Aug 2025 07:05:05 GMT | Ransomware: Understanding and Preventing Attacks | Cyber Security Research | [Read More](https://medium.com/p/8e5dfd4cf571) |
-| Sun, 10 Aug 2025 07:03:46 GMT | Cyber Warfare: The Geopolitics of Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/6faafa7656ce) |
-| Sun, 10 Aug 2025 07:02:30 GMT | Cyber Espionage: Protecting Against Nation-State Actors | Cyber Security Research | [Read More](https://medium.com/p/21edbf25ae84) |
-| Sun, 10 Aug 2025 07:02:17 GMT | “New Linux Kernel Vulnerability Exploited via Chrome Sandbox Using Rare Socket Feature” | Tarush Sharma | [Read More](https://medium.com/p/62f73334379f) |
