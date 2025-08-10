@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 14:11:41 GMT | Case Studies: When Tiny Flaws Led to Huge Cyber Disasters | TheCyberSalad | [Read More](https://medium.com/p/20279b25bec2) |
+| Sun, 10 Aug 2025 14:07:02 GMT | When “Local” Isn’t Local: The Critical AI Security Flaw You Probably Missed | VSec | [Read More](https://medium.com/p/8d99e554000e) |
+| Sun, 10 Aug 2025 14:06:03 GMT | LeetCode Solution | Aqsa Rashid | [Read More](https://medium.com/p/8141d83a49f9) |
+| Sun, 10 Aug 2025 14:00:52 GMT | Passing (Certified Red Team Professional) CRTP in 1 Month | Archit Vats | [Read More](https://medium.com/p/51e7d145c498) |
+| Sun, 10 Aug 2025 13:49:55 GMT | 5 Things You Should Know About SafeLine WAF | Maverick Steel | [Read More](https://medium.com/p/f98ebe925749) |
+| Sun, 10 Aug 2025 13:46:31 GMT | The One Web Scraping Mistake That Will Get You Blocked (Fast) | Swayam Netke | [Read More](https://medium.com/p/f3a1ec40d779) |
+| Sun, 10 Aug 2025 13:40:29 GMT | Business Tech News: OpenAI Releases Its Latest And Greatest Version Of ChatGPT | Gene Marks | [Read More](https://medium.com/p/20331f3d7110) |
+| Sun, 10 Aug 2025 13:32:25 GMT | Thrivyx Joins Forces with FasterCapital to Accelerate API-First Cybersecurity Innovation | Thrivyx | [Read More](https://medium.com/p/98930af3b320) |
 | Sun, 10 Aug 2025 13:28:57 GMT | Getting the USB serial number: A Critical Component of Your Information Security Management System… | Mykhailo Antonishyn | [Read More](https://medium.com/p/bfcae9b297c2) |
 | Sun, 10 Aug 2025 13:25:38 GMT | hello | Cuongdang | [Read More](https://medium.com/p/52b30d76c431) |
 | Sun, 10 Aug 2025 13:21:52 GMT | Study At Portswigger Web Security Academy: Path Traversal | Velskynotfound | [Read More](https://medium.com/p/7cf9d6e49f6c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 07:01:12 GMT | The Dark Web and Cybersecurity: Understanding the Underground Economy | Cyber Security Research | [Read More](https://medium.com/p/4c5998e02640) |
 | Sun, 10 Aug 2025 06:59:57 GMT | Quantum Cybersecurity: Preparing for the Quantum Computing Era | Cyber Security Research | [Read More](https://medium.com/p/2a0990128d42) |
 | Sun, 10 Aug 2025 06:58:06 GMT | Blockchain in Cybersecurity: Securing Data and Transactions | Cyber Security Research | [Read More](https://medium.com/p/c4f28e94adcb) |
-| Sun, 10 Aug 2025 06:56:13 GMT | Artificial Intelligence in Cybersecurity: Enhancing Security Capabilities | Cyber Security Research | [Read More](https://medium.com/p/fd65c60c1bff) |
-| Sun, 10 Aug 2025 06:54:18 GMT | Machine Learning in Cybersecurity: Detecting and Preventing Attacks | Cyber Security Research | [Read More](https://medium.com/p/d015f7c10467) |
-| Sun, 10 Aug 2025 06:46:22 GMT | Beyond Human Speed: AI Agents vs. Cybercrime | Rahul Balaskandan | [Read More](https://medium.com/p/0c36e69eec80) |
-| Sun, 10 Aug 2025 06:31:09 GMT | ISO 27001: An Essential Guide to Information Security | Luqmaan Marthinus | [Read More](https://medium.com/p/1a18d918b495) |
-| Sun, 10 Aug 2025 06:28:32 GMT | Ethical Hacking Course: Everything You Need to Know Before You Start | Jainrishika | [Read More](https://medium.com/p/85550389d2c7) |
-| Sun, 10 Aug 2025 06:27:49 GMT | Are you learning IT courses Wrong? Here we are to Guide You . | Shailesh Baral | [Read More](https://medium.com/p/e46b3a99ce23) |
-| Sun, 10 Aug 2025 06:18:46 GMT | Enterprise AI Security: A Field Guide for CISOs and Tech Leaders | Practical DevSecOps | [Read More](https://medium.com/p/c7499ce44278) |
-| Sun, 10 Aug 2025 06:13:28 GMT | The OverRide Chronicles: When Your Calculator Becomes a Spy (And Why That’s Hilariously Terrifying) | Lazyown Redteam | [Read More](https://medium.com/p/5a0a84e027ef) |
