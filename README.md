@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 21:12:21 GMT | Binary Search - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/5620c92056ef) |
+| Sun, 10 Aug 2025 21:10:43 GMT | Your analysis of both the poem and the "god of forces" from Daniel 11:38-39 is deeply insightful… | Darren Robert Brown | [Read More](https://medium.com/p/35fa178d0048) |
+| Sun, 10 Aug 2025 21:06:32 GMT | Is PostgreSQL Actually the Best Database for Production-Ready SaaS? | Satyam Sahu | [Read More](https://medium.com/p/961312dc8473) |
+| Sun, 10 Aug 2025 21:06:20 GMT | From Zero to Secure: How we Built a VLAN-Segmented SOHO Network with Palo Alto HA | Alae El Amrani | [Read More](https://medium.com/p/9bf70308af63) |
+| Sun, 10 Aug 2025 21:04:01 GMT | One Week in Cybersecurity and Here’s What I Learnt and Unlearnt. | Emmanuel Jeffrey Kassa | [Read More](https://medium.com/p/35247ce04376) |
+| Sun, 10 Aug 2025 20:52:19 GMT | Equifax Breach: How a $700M Mistake Happened | Aj | [Read More](https://medium.com/p/b77a9a7d9dad) |
+| Sun, 10 Aug 2025 20:50:26 GMT | Understanding PID and TID Number Patterns in Windows: Why They’re Always Divisible by 4 | DarKVoicE | [Read More](https://medium.com/p/909b5c317329) |
+| Sun, 10 Aug 2025 20:50:17 GMT | Cybersecurity From The Start | Kabir Anand | [Read More](https://medium.com/p/a0a3872797c0) |
 | Sun, 10 Aug 2025 20:34:40 GMT | Base 44 Vulnerability | Riley Shu | [Read More](https://medium.com/p/b60168168386) |
 | Sun, 10 Aug 2025 20:27:48 GMT | From SaaS to NaaS: When Capitalism Sells You Literally Nothing | Abderrahim fazazi | [Read More](https://medium.com/p/69d59d8ac5b7) |
 | Sun, 10 Aug 2025 20:15:50 GMT | ROOT ACCESS + Programmation : le pack ultime pour hacker le système… légalement ! | Koudebithesor | [Read More](https://medium.com/p/cec45c1ca716) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 13:46:31 GMT | The One Web Scraping Mistake That Will Get You Blocked (Fast) | Swayam Netke | [Read More](https://medium.com/p/f3a1ec40d779) |
 | Sun, 10 Aug 2025 13:40:29 GMT | Business Tech News: OpenAI Releases Its Latest And Greatest Version Of ChatGPT | Gene Marks | [Read More](https://medium.com/p/20331f3d7110) |
 | Sun, 10 Aug 2025 13:32:25 GMT | Thrivyx Joins Forces with FasterCapital to Accelerate API-First Cybersecurity Innovation | Thrivyx | [Read More](https://medium.com/p/98930af3b320) |
-| Sun, 10 Aug 2025 13:28:57 GMT | Getting the USB serial number: A Critical Component of Your Information Security Management System… | Mykhailo Antonishyn | [Read More](https://medium.com/p/bfcae9b297c2) |
-| Sun, 10 Aug 2025 13:25:38 GMT | hello | Cuongdang | [Read More](https://medium.com/p/52b30d76c431) |
-| Sun, 10 Aug 2025 13:21:52 GMT | Study At Portswigger Web Security Academy: Path Traversal | Velskynotfound | [Read More](https://medium.com/p/7cf9d6e49f6c) |
-| Sun, 10 Aug 2025 13:16:37 GMT | Host Your Own Chat Server with Zulip and Docker — No More Slack Fees & Full Control | Tamir Suliman | [Read More](https://medium.com/p/ca140a49a665) |
-| Sun, 10 Aug 2025 13:11:51 GMT | Beyond the Basics: The Advanced SQL Injection Attacks You Need to Know | medjahdi | [Read More](https://medium.com/p/4bff4b6c6b06) |
-| Sun, 10 Aug 2025 13:06:02 GMT | BadByte The Best Room Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/9c627ae5d9e8) |
-| Sun, 10 Aug 2025 13:01:56 GMT | Network Protocols & OSI Model Layers | prince singh | [Read More](https://medium.com/p/a5c86aee0f07) |
-| Sun, 10 Aug 2025 13:01:32 GMT | How to Secure Your Frontend in 2025 and Pass Certification | Aleksei Aleinikov | [Read More](https://medium.com/p/d6c5a9298f80) |
