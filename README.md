@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 06:27:49 GMT | Are you learning IT courses Wrong? Here we are to Guide You . | Shailesh Baral | [Read More](https://medium.com/p/e46b3a99ce23) |
+| Sun, 10 Aug 2025 06:18:46 GMT | Enterprise AI Security: A Field Guide for CISOs and Tech Leaders | Practical DevSecOps | [Read More](https://medium.com/p/c7499ce44278) |
+| Sun, 10 Aug 2025 06:13:28 GMT | The OverRide Chronicles: When Your Calculator Becomes a Spy (And Why That’s Hilariously Terrifying) | Lazyown Redteam | [Read More](https://medium.com/p/5a0a84e027ef) |
+| Sun, 10 Aug 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Aug 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/eb876fc9bb22) |
+| Sun, 10 Aug 2025 05:45:07 GMT | From Facebook to the Metaverse: A New Digital Frontier | Shatrughan | [Read More](https://medium.com/p/c01b246cd4c8) |
+| Sun, 10 Aug 2025 05:43:44 GMT | Cyber Snack DAY -2 | Anwar_Nainar | [Read More](https://medium.com/p/2b94dec52493) |
 | Sun, 10 Aug 2025 05:38:20 GMT | $BUG Token-Aktion: Wie man sich für BUG BUG Token-Aktionen qualifiziert | BUG | [Read More](https://medium.com/p/1fd1a062af54) |
 | Sun, 10 Aug 2025 05:37:41 GMT | $10,000 Google Bug Bounty: How a Deserialization RCE in AppSheet Could Have Led to Remote Code… | Yeswehack | [Read More](https://medium.com/p/955b0a2e840b) |
 | Sun, 10 Aug 2025 05:37:10 GMT | A Deep Dive into a Potential Privilege Escalation Issue | Monika sharma | [Read More](https://medium.com/p/313a6040d458) |
@@ -61,6 +67,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 23:38:09 GMT | HackTheBox: Mobile-Cryptohorrific | Gba | [Read More](https://medium.com/p/d22aa45c2301) |
 | Sat, 09 Aug 2025 23:29:22 GMT | How a Friend’s Hacked Account Tricked Me into Sending Money | Shahzaib | [Read More](https://medium.com/p/a55043921316) |
 | Sat, 09 Aug 2025 23:22:52 GMT | CTF Day(48) | Ahmed Narmer | [Read More](https://medium.com/p/a054295afb49) |
+| Sat, 09 Aug 2025 23:21:42 GMT | Kali Linux Temel Komutlar: Yeni Başlayanlar İçin Rehber | Burak | [Read More](https://medium.com/p/ed7f3479bf7e) |
 | Sat, 09 Aug 2025 23:19:38 GMT | شماره خاله تهران شماره خاله تهران شماره خاله شماره خاله شیراز شماره خاله شیراز شماره خاله کرمانشاه… | شماره خاله الهام بامکان تهران شماره خاله اصفهان رش | [Read More](https://medium.com/p/031a04afedd6) |
 | Sat, 09 Aug 2025 23:17:28 GMT | AI in Security: How Artificial Intelligence is Transforming Threat Detection and Response | Shradhdha Bhalodia | [Read More](https://medium.com/p/aae147eee902) |
 | Sat, 09 Aug 2025 23:17:06 GMT | Empire Breakout CTF | Iceyami | [Read More](https://medium.com/p/b471971b3331) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 19:41:33 GMT | DVAPI API Penetration Testing: OWASP TOP 10 API vulnerabilities | Nitesh Yadav | [Read More](https://medium.com/p/b3bf82192630) |
 | Sat, 09 Aug 2025 19:31:12 GMT | How Websites Work | Cheryl Maise Lobo | [Read More](https://medium.com/p/b614b8496fec) |
 | Sat, 09 Aug 2025 19:24:06 GMT | What Are False Positives and False Negatives? | Firdovsi | [Read More](https://medium.com/p/5bad7c9dc3ec) |
-| Sat, 09 Aug 2025 19:19:01 GMT | Advanced WAF Bypass Using a Single cURL Command | KILLUA_UCHIHA | [Read More](https://medium.com/p/6042a643948e) |
-| Sat, 09 Aug 2025 19:17:38 GMT | Yo fam, you thought bug bounty was wild before? | Viratavi | [Read More](https://medium.com/p/21895e235605) |
-| Sat, 09 Aug 2025 19:15:30 GMT | 11. The Hidden Power of Owning Your Insecurity Out Loud | Roj Ink | [Read More](https://medium.com/p/9ea657870d4f) |
-| Sat, 09 Aug 2025 18:54:57 GMT | Beyond the Hype: Critical Security Vulnerabilities in Large Language Models | CT Chidambaram | [Read More](https://medium.com/p/854fe871923e) |
-| Sat, 09 Aug 2025 18:50:23 GMT | MAL: Malware Introductory TryHackMe Writeup | theOrthodox | [Read More](https://medium.com/p/360f21f8ffc8) |
-| Sat, 09 Aug 2025 18:45:28 GMT | Why the Next Big Shift in Tech Could Be All About Digital Ownership | Aliciasierra | [Read More](https://medium.com/p/9e5d89b61740) |
-| Sat, 09 Aug 2025 18:44:02 GMT | From Telemetry to Signals: Designing Detections with an Audience in Mind | Nasreddine Bencherchali | [Read More](https://medium.com/p/5faa3ec77b44) |
