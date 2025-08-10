@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 11:33:17 GMT | A07:2021 — Identification and Authentication Failures | GhostNex | [Read More](https://medium.com/p/0e901e61fad7) |
+| Sun, 10 Aug 2025 11:31:36 GMT | Bug Bounty Goldmine — Host Header Attack for Password Reset Poisoning | Zoningxtr | [Read More](https://medium.com/p/8d3a4520049b) |
+| Sun, 10 Aug 2025 11:30:30 GMT | Docker Advance Part 13: Dockerception — How Docker Runs Inside Docker | Mammad Yahyayev | [Read More](https://medium.com/p/1a28d6853a78) |
+| Sun, 10 Aug 2025 11:28:05 GMT | How to Create a Password-Protected QR Code to Keep Your Content Private | Ahmad Tayyem | [Read More](https://medium.com/p/f4a7738b3cd0) |
+| Sun, 10 Aug 2025 11:27:56 GMT | Instagram’s New Friends and Family Treasure Map Feature | Kelly Carmichael | [Read More](https://medium.com/p/ff45f9fb47ae) |
+| Sun, 10 Aug 2025 11:25:37 GMT | HTB Devvortex Machine — walkthrough for beginners | SeverSerenity | [Read More](https://medium.com/p/a2a55dc7b9c5) |
+| Sun, 10 Aug 2025 11:19:52 GMT | DockerLabs Writeup — Ejotapete (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/44f49dabcf66) |
+| Sun, 10 Aug 2025 11:12:44 GMT | Timeroasting over MS-SNTP — Cracking Computer Accounts from Port 123 | Vishal Chaudhary | [Read More](https://medium.com/p/86a03fe1f109) |
+| Sun, 10 Aug 2025 11:06:27 GMT | HTB Challenge — Sudoking | Fardeen Ahmed | [Read More](https://medium.com/p/925a67bd8a63) |
+| Sun, 10 Aug 2025 11:03:58 GMT | Thailand’s Navy Website Defaced: NullSec Philippines and CyberTeam Claim Responsibility | Filipino CyberSec News | [Read More](https://medium.com/p/67100e233e05) |
 | Sun, 10 Aug 2025 11:03:01 GMT | The Slow Burn of Becoming Yourself | Vijay Kumar Gupta | [Read More](https://medium.com/p/d6fda19297ed) |
 | Sun, 10 Aug 2025 10:57:43 GMT | Instagram’s new Map Feature is Sparking Privacy Concerns Among Users | Prince Bharti | [Read More](https://medium.com/p/7628e41d1aed) |
 | Sun, 10 Aug 2025 10:55:48 GMT | CVE-2025–50465: SQL Injection Vulnerability Plagues OpenMetadata <= 1.4.4 | CVEHUB | [Read More](https://medium.com/p/0e48d12ba39c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 04:07:51 GMT | Qilin Ransomware Uses TPwSav.sys Driver to Bypass EDR Security Measures | David SEHYEON Baek | [Read More](https://medium.com/p/de975c7f5716) |
 | Sun, 10 Aug 2025 04:02:28 GMT | Building a Website with Jamstack | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/044b45e793a5) |
 | Sun, 10 Aug 2025 03:57:04 GMT | not that girl anymore | Sama writes here | [Read More](https://medium.com/p/0a920240de0d) |
-| Sun, 10 Aug 2025 03:51:13 GMT | How I Learned to Bypass HTML Encoding in HTML Injection | Mon Tak | [Read More](https://medium.com/p/ad5934f8fc0f) |
-| Sun, 10 Aug 2025 03:45:25 GMT | Shadow Money Gang — Ireland Division? More Like Sunday School Copy-Paste Gang | Tyler Johnston-Kent | [Read More](https://medium.com/p/e186440c0b4f) |
-| Sun, 10 Aug 2025 03:42:29 GMT | TOPIC:Trump’s Meeting With Putin Poses High Stakes For The Ukraine War — And His Legacy. | Danjuma Plangkat ️ | [Read More](https://medium.com/p/4cdcb8e57124) |
-| Sun, 10 Aug 2025 03:31:57 GMT | Mastering Access Control in Solidity:  The Ultimate Guide for Developers & Security… | vishhxyz | [Read More](https://medium.com/p/413b874eccf2) |
-| Sun, 10 Aug 2025 03:31:57 GMT | The Rise of Qilin: A New Era of Ransomware Dominance | Deven Chhajed | [Read More](https://medium.com/p/c07e79c81498) |
-| Sun, 10 Aug 2025 03:09:31 GMT | Learning from SecuMS & OmniGuard: Proactive Strategies to Counter Cyber Threats | Hildan Kusto Utomo | [Read More](https://medium.com/p/e2f27458cc1c) |
-| Sun, 10 Aug 2025 03:03:00 GMT | Customer Transaction PII Data Exposed via Google Dorking | SIDDHANT SHUKLA | [Read More](https://medium.com/p/e90c2126a3dc) |
-| Sun, 10 Aug 2025 03:02:48 GMT | Future-Proof Cybersecurity Careers in the Age of AI: What You Should Learn in 2026 | Dr. Deep Pandey | [Read More](https://medium.com/p/e73b14998dd3) |
-| Sun, 10 Aug 2025 02:17:55 GMT | 7 ways to develop fundamental knowledge on Cybersecurity (with example) | Kaushik Majumder | [Read More](https://medium.com/p/223974c559f7) |
-| Sun, 10 Aug 2025 01:57:51 GMT | pfSense OpenVPN Setup | James Rawlings | [Read More](https://medium.com/p/8b83265e61ac) |
