@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 17:38:52 GMT | Cyber Security Data Analyst: The Digital Detective Career Path That Could Change Your Life | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/4c4e194c031f) |
+| Sun, 10 Aug 2025 17:24:43 GMT | MAL: Strings TryHackMe Writeup | theOrthodox | [Read More](https://medium.com/p/c052a0e10042) |
+| Sun, 10 Aug 2025 17:19:34 GMT | THM - Microservices Architectures- Write-Up | Dhruv | [Read More](https://medium.com/p/519e5c0783d1) |
+| Sun, 10 Aug 2025 17:19:11 GMT | Day 2 of My Cybersecurity Journey: From Bash Scripting to My First Port Scanner | shihan shaj | [Read More](https://medium.com/p/4eba7eb900e1) |
+| Sun, 10 Aug 2025 17:18:43 GMT | THM — Inclusion Writeup | Kostas Ereksonas | [Read More](https://medium.com/p/86cb7d6a7ed0) |
+| Sun, 10 Aug 2025 17:13:49 GMT | AI-Powered Code Security Reviews for DevSecOps with Claude | Mostafa Hussein | [Read More](https://medium.com/p/12baeacf196f) |
 | Sun, 10 Aug 2025 17:02:23 GMT | Ingeniería inversa de software | Iceyami | [Read More](https://medium.com/p/7c427ff6ea83) |
 | Sun, 10 Aug 2025 17:00:55 GMT | Ciberseguridad en la Guerra Irrestricta | Iceyami | [Read More](https://medium.com/p/ab736ed1b568) |
 | Sun, 10 Aug 2025 16:52:20 GMT | My Heart Pounds Every Time I See Him. | The Heart 's Diary | [Read More](https://medium.com/p/1a9596aabee1) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 11:12:44 GMT | Timeroasting over MS-SNTP — Cracking Computer Accounts from Port 123 | Vishal Chaudhary | [Read More](https://medium.com/p/86a03fe1f109) |
 | Sun, 10 Aug 2025 11:06:27 GMT | HTB Challenge — Sudoking | Fardeen Ahmed | [Read More](https://medium.com/p/925a67bd8a63) |
 | Sun, 10 Aug 2025 11:03:58 GMT | Thailand’s Navy Website Defaced: NullSec Philippines and CyberTeam Claim Responsibility | Filipino CyberSec News | [Read More](https://medium.com/p/67100e233e05) |
-| Sun, 10 Aug 2025 11:03:01 GMT | The Slow Burn of Becoming Yourself | Vijay Kumar Gupta | [Read More](https://medium.com/p/d6fda19297ed) |
-| Sun, 10 Aug 2025 10:57:43 GMT | Instagram’s new Map Feature is Sparking Privacy Concerns Among Users | Prince Bharti | [Read More](https://medium.com/p/7628e41d1aed) |
-| Sun, 10 Aug 2025 10:55:48 GMT | CVE-2025–50465: SQL Injection Vulnerability Plagues OpenMetadata <= 1.4.4 | CVEHUB | [Read More](https://medium.com/p/0e48d12ba39c) |
-| Sun, 10 Aug 2025 10:54:11 GMT | ️ CVE-2025–47872: Sensitive Info Leak in EG4 Electronics Product Registration — Are Your Serial… | CVEHUB | [Read More](https://medium.com/p/a9389e870a2b) |
-| Sun, 10 Aug 2025 10:35:27 GMT | Snyk (SCA) - Open Source Security — Code Vulnerability Scan | Piyali Das | [Read More](https://medium.com/p/890c180f889a) |
-| Sun, 10 Aug 2025 10:26:09 GMT | Folder of Fortune: My Accidental Journey into Misconfigured Cloud Bucket Goldmines | Iski | [Read More](https://medium.com/p/8ab7b42c287b) |
