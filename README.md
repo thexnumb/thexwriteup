@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 08:25:16 GMT | How Silicon Valley’s Cultural Blind Spot Kept 4 Billion People from Using Tech in Their Native… | Muhammad Ikram | [Read More](https://medium.com/p/cb14abfe245d) |
+| Sun, 10 Aug 2025 08:08:06 GMT | Why Your Passwords Are at Risk and How to Secure Them | Pankaj Tembhurne | [Read More](https://medium.com/p/6a789e0b8842) |
+| Sun, 10 Aug 2025 08:01:43 GMT | Data Privacy: Protecting Personal Information in the Digital Age | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/6f94cd9989e4) |
+| Sun, 10 Aug 2025 07:52:46 GMT | Sudo 1.9.16p2 — CVE-2025–32463 Local Privilege Escalation Exploit | Özcan Ersan | [Read More](https://medium.com/p/3e7a52cdb86f) |
+| Sun, 10 Aug 2025 07:51:08 GMT | फोनपे के खिलाफ शिकायत दर्ज करने के लिए, आप PhonePe ग्राहक सहायता से ☄️✓924~482~0361✓ ☄️या पर कॉल… | nagorab581@pevne.com | [Read More](https://medium.com/p/25b2fe1a5f3d) |
+| Sun, 10 Aug 2025 07:44:30 GMT | How an Internet of Things (IoT) Course Transform Your Career in 2025? | cyber security Updates | [Read More](https://medium.com/p/9dbee233307d) |
+| Sun, 10 Aug 2025 07:42:42 GMT | फोनपे के खिलाफ शिकायत दर्ज करने के लिए, आप PhonePe ग्राहक सहायता से ☄️✓924~482~0361✓ ☄️या पर कॉल… | yiloroy764@pevne.com | [Read More](https://medium.com/p/17df8207b6c7) |
 | Sun, 10 Aug 2025 07:34:38 GMT | Web Security Stack in 2025: What to Use and Why | Rizqi Mulki | [Read More](https://medium.com/p/782fa90a1086) |
+| Sun, 10 Aug 2025 07:33:44 GMT | The new platinum ? data :- protect it | Rinka | [Read More](https://medium.com/p/1709fd216b73) |
 | Sun, 10 Aug 2025 07:31:47 GMT | Understanding SSL/TLS Communication | Sowmya | [Read More](https://medium.com/p/4f89eb7f1e57) |
 | Sun, 10 Aug 2025 07:31:41 GMT | Fast vs Fancy: Why Simpler Queries Win | Rizqi Mulki | [Read More](https://medium.com/p/1b36ba0196ef) |
 | Sun, 10 Aug 2025 07:28:27 GMT | SQL Query Optimization: Tips That Actually Work | Rizqi Mulki | [Read More](https://medium.com/p/a4eafe4a46d9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 22:33:43 GMT | My First Malware Analysis I Opened It, Then Panicked | Shahzaib | [Read More](https://medium.com/p/d31db6ee2632) |
 | Sat, 09 Aug 2025 22:33:00 GMT | Fake Letters From the CEO — And Why They Work | Evgeny Ermakov | [Read More](https://medium.com/p/da0dd3eefdad) |
 | Sat, 09 Aug 2025 22:24:37 GMT | Identity and Access Management: Controlling Access to Resources | Cyber Security Research | [Read More](https://medium.com/p/d88a0652088a) |
-| Sat, 09 Aug 2025 22:22:46 GMT | Social Media Security: Protecting Your Online Presence | Cyber Security Research | [Read More](https://medium.com/p/25217ecb0d79) |
-| Sat, 09 Aug 2025 22:20:50 GMT | Email Security: Protecting Against Phishing and Spam | Cyber Security Research | [Read More](https://medium.com/p/15bb967b6121) |
-| Sat, 09 Aug 2025 22:19:02 GMT | Web Security: Protecting Websites from Cyber Attacks | Cyber Security Research | [Read More](https://medium.com/p/ad3039c1f930) |
-| Sat, 09 Aug 2025 22:17:41 GMT | Do All Transfer PayPal TEXT : : +1(616) 202–1156 cashapp Bank western union Zelle and close cards… | Gonzale | [Read More](https://medium.com/p/b3e0eeaefb3f) |
-| Sat, 09 Aug 2025 22:17:04 GMT | Wireless Security: Securing Wireless Networks | Cyber Security Research | [Read More](https://medium.com/p/3a428aacced1) |
-| Sat, 09 Aug 2025 22:17:02 GMT | Securing GNSS and Time Sync Protocols in Critical Infrastructure | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ce8210012a50) |
-| Sat, 09 Aug 2025 22:15:38 GMT | Day 76: Reverse shells | Nile Okomo | [Read More](https://medium.com/p/774122f6ea73) |
-| Sat, 09 Aug 2025 21:52:51 GMT | This Week’s Top Security News: AI Hacking & Critical Flaws | Max Farnga | [Read More](https://medium.com/p/b83c1edeb5d2) |
