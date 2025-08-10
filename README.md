@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 23:01:44 GMT | HackTheBox — Pikaptcha Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/c4084381327e) |
+| Sun, 10 Aug 2025 22:53:01 GMT | Building an Azure SIEM Lab | Will Giles - Cybersecurity | [Read More](https://medium.com/p/03c59dab1199) |
 | Sun, 10 Aug 2025 22:19:30 GMT | Drosera Network: The Decentralized Shield for Web3 Security Introduction: | Happiness Oluwaferanmi | [Read More](https://medium.com/p/b2f88a71eeaf) |
 | Sun, 10 Aug 2025 22:17:13 GMT | Breaking Down Cross-Site WebAssembly Threats | Karthikeyan Nagaraj | [Read More](https://medium.com/p/987cbd52e513) |
 | Sun, 10 Aug 2025 22:01:14 GMT | The Schrödinger’s ESC1 Vulnerability | Matheus Vilachã | [Read More](https://medium.com/p/ec1cee0cd9b8) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 14:53:53 GMT | Sigma: The Universal Language for Threat Detection ️ | Furkanctiner | [Read More](https://medium.com/p/0fdca3e4fd9d) |
 | Sun, 10 Aug 2025 14:51:02 GMT | The Day Your Algorithm Started Making Board-Level Decisions | Mohammed Brückner | [Read More](https://medium.com/p/a54628c1b37a) |
 | Sun, 10 Aug 2025 14:49:04 GMT | From Caesar to Quantum: A Developer’s Crash Course in Cryptography — Part 1: Ancient Secrets | Steinwendner Matthias | [Read More](https://medium.com/p/a4a156f1c17f) |
-| Sun, 10 Aug 2025 14:39:47 GMT | OWASP Top 10 Made Easy: Protect Your Website from the Most Common Attacks. | Xshannu | [Read More](https://medium.com/p/2855c5a9b7c6) |
-| Sun, 10 Aug 2025 14:32:23 GMT | Vibe coding: Cool Name, Risky Reality. | Brittney Ginther | [Read More](https://medium.com/p/04352cc0f2ff) |
