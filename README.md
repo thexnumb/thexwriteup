@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 11:03:01 GMT | The Slow Burn of Becoming Yourself | Vijay Kumar Gupta | [Read More](https://medium.com/p/d6fda19297ed) |
+| Sun, 10 Aug 2025 10:57:43 GMT | Instagram’s new Map Feature is Sparking Privacy Concerns Among Users | Prince Bharti | [Read More](https://medium.com/p/7628e41d1aed) |
+| Sun, 10 Aug 2025 10:55:48 GMT | CVE-2025–50465: SQL Injection Vulnerability Plagues OpenMetadata <= 1.4.4 | CVEHUB | [Read More](https://medium.com/p/0e48d12ba39c) |
+| Sun, 10 Aug 2025 10:54:11 GMT | ️ CVE-2025–47872: Sensitive Info Leak in EG4 Electronics Product Registration — Are Your Serial… | CVEHUB | [Read More](https://medium.com/p/a9389e870a2b) |
 | Sun, 10 Aug 2025 10:35:27 GMT | Snyk (SCA) - Open Source Security — Code Vulnerability Scan | Piyali Das | [Read More](https://medium.com/p/890c180f889a) |
 | Sun, 10 Aug 2025 10:26:09 GMT | Folder of Fortune: My Accidental Journey into Misconfigured Cloud Bucket Goldmines | Iski | [Read More](https://medium.com/p/8ab7b42c287b) |
 | Sun, 10 Aug 2025 10:25:45 GMT | Security by Obscurity? Nah, Try Testing Instead. | Coding Creed Technologies | [Read More](https://medium.com/p/9c248dc6b113) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 03:02:48 GMT | Future-Proof Cybersecurity Careers in the Age of AI: What You Should Learn in 2026 | Dr. Deep Pandey | [Read More](https://medium.com/p/e73b14998dd3) |
 | Sun, 10 Aug 2025 02:17:55 GMT | 7 ways to develop fundamental knowledge on Cybersecurity (with example) | Kaushik Majumder | [Read More](https://medium.com/p/223974c559f7) |
 | Sun, 10 Aug 2025 01:57:51 GMT | pfSense OpenVPN Setup | James Rawlings | [Read More](https://medium.com/p/8b83265e61ac) |
-| Sun, 10 Aug 2025 01:54:47 GMT | Super Serial (PICOCTF) | Distracted | [Read More](https://medium.com/p/390c394c7d2d) |
-| Sun, 10 Aug 2025 01:34:57 GMT | 5 Most Dangerous Roads in the World – Would You Dare to Drive Them? | Anos | [Read More](https://medium.com/p/1315e6a3fcaa) |
-| Sun, 10 Aug 2025 01:01:58 GMT | The Lupin Protocol: Beyond the Obvious in Offensive Security | Syed Ammar | [Read More](https://medium.com/p/22d8481d1d43) |
-| Sun, 10 Aug 2025 00:56:16 GMT | Active Directory’yi Anlamak: Temel Bilgiler ve Güvenlik -2 | Nupelda Kandemir | [Read More](https://medium.com/p/c063a3688749) |
