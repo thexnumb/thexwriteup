@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 07:06:20 GMT | Phishing: Recognizing and Avoiding Phishing Scams | Cyber Security Research | [Read More](https://medium.com/p/474a84ccef0a) |
+| Sun, 10 Aug 2025 07:05:05 GMT | Ransomware: Understanding and Preventing Attacks | Cyber Security Research | [Read More](https://medium.com/p/8e5dfd4cf571) |
+| Sun, 10 Aug 2025 07:03:46 GMT | Cyber Warfare: The Geopolitics of Cybersecurity | Cyber Security Research | [Read More](https://medium.com/p/6faafa7656ce) |
+| Sun, 10 Aug 2025 07:02:30 GMT | Cyber Espionage: Protecting Against Nation-State Actors | Cyber Security Research | [Read More](https://medium.com/p/21edbf25ae84) |
+| Sun, 10 Aug 2025 07:02:17 GMT | “New Linux Kernel Vulnerability Exploited via Chrome Sandbox Using Rare Socket Feature” | Tarush Sharma | [Read More](https://medium.com/p/62f73334379f) |
+| Sun, 10 Aug 2025 07:02:00 GMT | I Never Noticed These Passkey Options Until OS 26 | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/6b6df1137580) |
+| Sun, 10 Aug 2025 07:01:12 GMT | The Dark Web and Cybersecurity: Understanding the Underground Economy | Cyber Security Research | [Read More](https://medium.com/p/4c5998e02640) |
+| Sun, 10 Aug 2025 06:59:57 GMT | Quantum Cybersecurity: Preparing for the Quantum Computing Era | Cyber Security Research | [Read More](https://medium.com/p/2a0990128d42) |
+| Sun, 10 Aug 2025 06:58:06 GMT | Blockchain in Cybersecurity: Securing Data and Transactions | Cyber Security Research | [Read More](https://medium.com/p/c4f28e94adcb) |
+| Sun, 10 Aug 2025 06:56:13 GMT | Artificial Intelligence in Cybersecurity: Enhancing Security Capabilities | Cyber Security Research | [Read More](https://medium.com/p/fd65c60c1bff) |
+| Sun, 10 Aug 2025 06:54:18 GMT | Machine Learning in Cybersecurity: Detecting and Preventing Attacks | Cyber Security Research | [Read More](https://medium.com/p/d015f7c10467) |
+| Sun, 10 Aug 2025 06:46:22 GMT | Beyond Human Speed: AI Agents vs. Cybercrime | Rahul Balaskandan | [Read More](https://medium.com/p/0c36e69eec80) |
+| Sun, 10 Aug 2025 06:31:09 GMT | ISO 27001: An Essential Guide to Information Security | Luqmaan Marthinus | [Read More](https://medium.com/p/1a18d918b495) |
+| Sun, 10 Aug 2025 06:28:32 GMT | Ethical Hacking Course: Everything You Need to Know Before You Start | Jainrishika | [Read More](https://medium.com/p/85550389d2c7) |
 | Sun, 10 Aug 2025 06:27:49 GMT | Are you learning IT courses Wrong? Here we are to Guide You . | Shailesh Baral | [Read More](https://medium.com/p/e46b3a99ce23) |
 | Sun, 10 Aug 2025 06:18:46 GMT | Enterprise AI Security: A Field Guide for CISOs and Tech Leaders | Practical DevSecOps | [Read More](https://medium.com/p/c7499ce44278) |
 | Sun, 10 Aug 2025 06:13:28 GMT | The OverRide Chronicles: When Your Calculator Becomes a Spy (And Why That’s Hilariously Terrifying) | Lazyown Redteam | [Read More](https://medium.com/p/5a0a84e027ef) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 21:18:09 GMT | Can I Threat Hunt Without Being a Hacker? | Yash Patel | [Read More](https://medium.com/p/6f39f4f7ddc9) |
 | Sat, 09 Aug 2025 21:16:58 GMT | AI in Cybersecurity: Sentinel or Saboteur? | Richard Dosumu | [Read More](https://medium.com/p/f2a1bf4d3af8) |
 | Sat, 09 Aug 2025 21:16:00 GMT | AI-Driven Social Engineering: Detecting Deepfake Voice Attacks | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/4f6f61aa2cae) |
-| Sat, 09 Aug 2025 21:15:34 GMT | Silent Breach lab — Cyberdefenders | Zen | [Read More](https://medium.com/p/de8f2ea2a3b7) |
-| Sat, 09 Aug 2025 21:07:14 GMT | My Accidental Bug Bounty from a Random Query | Ibtissam hammadi | [Read More](https://medium.com/p/b8ae134158ed) |
-| Sat, 09 Aug 2025 21:04:20 GMT | The Rising Threat to CEOs: A Crisis of Blame and Distraction | Kevin Kelly | [Read More](https://medium.com/p/a31c7e166da2) |
-| Sat, 09 Aug 2025 21:00:43 GMT | Essential Cybersecurity Practices for Nigerian Businesses in 2025 — Bintus Art and Everything | Bintu's Art and Everything | [Read More](https://medium.com/p/f88a99c96ee3) |
-| Sat, 09 Aug 2025 20:55:28 GMT | Analyzing UAC‑0099 Tactics, Techniques, and Procedures (2023–2025) | SIMKRA | [Read More](https://medium.com/p/296f6ad672fc) |
-| Sat, 09 Aug 2025 20:44:11 GMT | Zero-Trust Runtime Security: Container Runtime Attestation | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/428c5f05c3d8) |
-| Sat, 09 Aug 2025 20:43:06 GMT | Day4 Recon: Hunting Hidden Attack Surfaces , using Nmap, Masscan & Dirsearch for Service &… | Ayush Kumar | [Read More](https://medium.com/p/c623de2fcdf6) |
-| Sat, 09 Aug 2025 20:30:48 GMT | Project #3: Building an OSPF IPv6 Network Topology with CML | NSESean | [Read More](https://medium.com/p/da2b2d574abe) |
-| Sat, 09 Aug 2025 20:17:58 GMT | Tools for Malware Analysis and Reverse Engineering | Cosmos | [Read More](https://medium.com/p/d0bd376a0186) |
-| Sat, 09 Aug 2025 20:15:01 GMT | Revisiting the MCP Protocol: Deep Security Dive Across Real-World Vulnerabilities | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/51fa1d1d102f) |
-| Sat, 09 Aug 2025 19:50:43 GMT | The Bug Hunter’s Guide to Host Header Attacks for Password Reset Poisoning | Zoningxtr | [Read More](https://medium.com/p/a08f607a1a6b) |
-| Sat, 09 Aug 2025 19:41:33 GMT | DVAPI API Penetration Testing: OWASP TOP 10 API vulnerabilities | Nitesh Yadav | [Read More](https://medium.com/p/b3bf82192630) |
-| Sat, 09 Aug 2025 19:31:12 GMT | How Websites Work | Cheryl Maise Lobo | [Read More](https://medium.com/p/b614b8496fec) |
-| Sat, 09 Aug 2025 19:24:06 GMT | What Are False Positives and False Negatives? | Firdovsi | [Read More](https://medium.com/p/5bad7c9dc3ec) |
