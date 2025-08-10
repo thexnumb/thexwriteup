@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 19:07:47 GMT | Why Your Electric Vehicle Might Be More Vulnerable Than You Think | Victor Yan | [Read More](https://medium.com/p/9f1220669203) |
+| Sun, 10 Aug 2025 18:55:46 GMT | TryHackMe — Capture! | omni | [Read More](https://medium.com/p/fdba2f256965) |
+| Sun, 10 Aug 2025 18:55:29 GMT | “P@$$wOrd123” Isn’t Strong. Here’s What Is. | Truspex | [Read More](https://medium.com/p/cfeb79340a76) |
+| Sun, 10 Aug 2025 18:53:42 GMT | My 90-Day Mission — And Share Every Step With You | Sugam Arora | [Read More](https://medium.com/p/a496138bf8bb) |
+| Sun, 10 Aug 2025 18:48:32 GMT | TPM: Security Savior or Silent Spy? | CtrlC3 | [Read More](https://medium.com/p/77416d83b26c) |
+| Sun, 10 Aug 2025 18:48:17 GMT | Maximize Your BUG BUG Growth Returns | BUG | [Read More](https://medium.com/p/8c3ee7133b9a) |
+| Sun, 10 Aug 2025 18:47:25 GMT | KC7: Encrytpodera — Report | Aeronique | [Read More](https://medium.com/p/e4317902b7e7) |
+| Sun, 10 Aug 2025 18:44:02 GMT | You Don’t Need More AI Tools. You Need a Real-World Plan. | Fahad's Foresight | [Read More](https://medium.com/p/121499737bdc) |
 | Sun, 10 Aug 2025 18:37:15 GMT | Researchers Uncover Windows EPM Poisoning Attack Chain (CVE-2025–49760) | Rue | [Read More](https://medium.com/p/bf6e62685d7a) |
 | Sun, 10 Aug 2025 18:36:55 GMT | No certs.. no money wasting.. no complicated overwhelming contracts BUG BOUNTY INTRO MAP | Abdulrahman Kamal | [Read More](https://medium.com/p/7bb5eab6cb86) |
 | Sun, 10 Aug 2025 18:31:22 GMT | CTF Day(49) | Ahmed Narmer | [Read More](https://medium.com/p/c950baf3510d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 12:37:55 GMT | SQL Injection Deep Dive: Listing Database Contents (Non-Oracle & Oracle) — PortSwigger Labs… | Chandra Kamal Singh | [Read More](https://medium.com/p/142089b65a7b) |
 | Sun, 10 Aug 2025 12:37:08 GMT | GPT-5 Falls to Hackers in Under a Day | Beshr Kattan | [Read More](https://medium.com/p/30a61c6ccb38) |
 | Sun, 10 Aug 2025 12:32:05 GMT | From Badge to Real-World Impact: My Microsoft Security Copilot Journey | raveena kholia | [Read More](https://medium.com/p/f3d9f07a8ea1) |
-| Sun, 10 Aug 2025 12:23:28 GMT | Solving Sudoko — Without Revealing Your Answer | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/49c3f7d515af) |
-| Sun, 10 Aug 2025 12:22:52 GMT | From Torrent Movie to Live Malware C2: My Investigation Journey | 3vilbird | [Read More](https://medium.com/p/8ca22046610d) |
-| Sun, 10 Aug 2025 12:21:58 GMT | The Crypto Wars Never Ended: How Phil Zimmermann’s PGP Still Defends Privacy in 2025 | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/10d71b7de187) |
-| Sun, 10 Aug 2025 12:13:07 GMT | Die ultimative Roadmap für digitale Unternehmenstransformation 2025: Ihr strategischer Leitfaden… | Philip Hansen | [Read More](https://medium.com/p/17585a24baf1) |
-| Sun, 10 Aug 2025 12:02:17 GMT | Incident Handling Mastery Series — Introduction | β Ꝉ Ⱥ ղ Ҡ | [Read More](https://medium.com/p/fdeb085ac5e3) |
-| Sun, 10 Aug 2025 12:01:45 GMT | I’m So Sorry For Their Loss: They Called You For Help — Yass Partners | Yael Nagler | [Read More](https://medium.com/p/5f3343bf6a02) |
-| Sun, 10 Aug 2025 12:01:45 GMT | Active Reconnaissance: TryHackMe Walkthrough | ShadowPacketRHR | [Read More](https://medium.com/p/df159540d423) |
-| Sun, 10 Aug 2025 11:53:50 GMT | RSA Security | Fabio Pereira | [Read More](https://medium.com/p/546a01a15a97) |
