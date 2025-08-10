@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 22:01:14 GMT | The Schrödinger’s ESC1 Vulnerability | Matheus Vilachã | [Read More](https://medium.com/p/ec1cee0cd9b8) |
+| Sun, 10 Aug 2025 21:58:20 GMT | AI vs AI: The New Frontier in Cybersecurity Battles | Shradhdha Bhalodia | [Read More](https://medium.com/p/b654eaa52344) |
+| Sun, 10 Aug 2025 21:54:07 GMT | Echo Chambers — Feedback Loops in Detection Engineering | Nasreddine Bencherchali | [Read More](https://medium.com/p/4ee44508403c) |
+| Sun, 10 Aug 2025 21:38:57 GMT | Time Machine - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/21ccabbd929b) |
+| Sun, 10 Aug 2025 21:38:38 GMT | Unpacking the Unseen Damage of ‘Good Christian’ Respectability | Dan Foster | [Read More](https://medium.com/p/62fe7bd537c7) |
 | Sun, 10 Aug 2025 21:35:22 GMT | I Found $3,500 in a Public Git Config | Ibtissam hammadi | [Read More](https://medium.com/p/3b9fc5e47c4b) |
 | Sun, 10 Aug 2025 21:31:32 GMT | Talentcoders Siber Güvenlik Yaz Kampı CTF Etkinliği | Hakan ÇEVİK | [Read More](https://medium.com/p/c7ecbbfe2220) |
 | Sun, 10 Aug 2025 21:27:37 GMT | WebDecode - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/daa52e475178) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 14:32:23 GMT | Vibe coding: Cool Name, Risky Reality. | Brittney Ginther | [Read More](https://medium.com/p/04352cc0f2ff) |
 | Sun, 10 Aug 2025 14:30:05 GMT | Don’t Sanitize Everything - Validate First, Then Clean Up in PHP | Asian Digital Hub | [Read More](https://medium.com/p/654917b4de47) |
 | Sun, 10 Aug 2025 14:25:02 GMT | Email vs. Username Logins: Embracing Passwordless Alternatives and Future Trends | H2bm | [Read More](https://medium.com/p/39a7e435d646) |
-| Sun, 10 Aug 2025 14:21:50 GMT | How to Install and Configure OpenVAS on Kali Linux VM (with Admin Password Reset) — Part 1 | Hammad Zahid | [Read More](https://medium.com/p/38b0174f82ee) |
-| Sun, 10 Aug 2025 14:11:41 GMT | Case Studies: When Tiny Flaws Led to Huge Cyber Disasters | TheCyberSalad | [Read More](https://medium.com/p/20279b25bec2) |
-| Sun, 10 Aug 2025 14:07:02 GMT | When “Local” Isn’t Local: The Critical AI Security Flaw You Probably Missed | VSec | [Read More](https://medium.com/p/8d99e554000e) |
-| Sun, 10 Aug 2025 14:06:03 GMT | LeetCode Solution | Aqsa Rashid | [Read More](https://medium.com/p/8141d83a49f9) |
-| Sun, 10 Aug 2025 14:00:52 GMT | Passing (Certified Red Team Professional) CRTP in 1 Month | Archit Vats | [Read More](https://medium.com/p/51e7d145c498) |
