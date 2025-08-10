@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 15:34:55 GMT | The Email Regex That Could Have Taken Down an Entire App | Nas Abdulrasaq | [Read More](https://medium.com/p/aceda9bcc953) |
+| Sun, 10 Aug 2025 15:29:23 GMT | The Silent Battle Against Cyber Threats | Token: Next-Generation, Phishing-Proof MFA | [Read More](https://medium.com/p/5096f4f4ab9f) |
+| Sun, 10 Aug 2025 15:28:49 GMT | Cybersecurity threats are growing. Here are 3 ways to protect your small business. | Gene Marks | [Read More](https://medium.com/p/dba06f8eea90) |
+| Sun, 10 Aug 2025 15:26:49 GMT | ISMAP Management Standards Chapter 13: What is “Communications Security” to Protect Network Safety? | nolly | [Read More](https://medium.com/p/b3ce428a0a67) |
+| Sun, 10 Aug 2025 15:21:58 GMT | The Ultimate Guide to Network Enumeration: Techniques & Real-World Applications | Rajkumar Kumawat | [Read More](https://medium.com/p/9f7eabde9549) |
+| Sun, 10 Aug 2025 15:12:25 GMT | Few ways I could hijack your Node.js applications | Nas Abdulrasaq | [Read More](https://medium.com/p/b5ad5b77411e) |
 | Sun, 10 Aug 2025 15:10:05 GMT | Zero-Click ATO via Reusable Password Reset Token | httpzuz | [Read More](https://medium.com/p/3299d0bfc005) |
 | Sun, 10 Aug 2025 15:06:13 GMT | “Day 7: API Hacking — How I Stole 5000 OAuth Tokens & Won $300” | Aman Sharma | [Read More](https://medium.com/p/49b988ed8e21) |
 | Sun, 10 Aug 2025 15:00:50 GMT | Simsiz texnologiyalar | Farid Mehdiyev | [Read More](https://medium.com/p/148651d9bd78) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 08:08:06 GMT | Why Your Passwords Are at Risk and How to Secure Them | Pankaj Tembhurne | [Read More](https://medium.com/p/6a789e0b8842) |
 | Sun, 10 Aug 2025 08:01:43 GMT | Data Privacy: Protecting Personal Information in the Digital Age | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/6f94cd9989e4) |
 | Sun, 10 Aug 2025 07:52:46 GMT | Sudo 1.9.16p2 — CVE-2025–32463 Local Privilege Escalation Exploit | Özcan Ersan | [Read More](https://medium.com/p/3e7a52cdb86f) |
-| Sun, 10 Aug 2025 07:51:08 GMT | फोनपे के खिलाफ शिकायत दर्ज करने के लिए, आप PhonePe ग्राहक सहायता से ☄️✓924~482~0361✓ ☄️या पर कॉल… | nagorab581@pevne.com | [Read More](https://medium.com/p/25b2fe1a5f3d) |
-| Sun, 10 Aug 2025 07:44:30 GMT | How an Internet of Things (IoT) Course Transform Your Career in 2025? | cyber security Updates | [Read More](https://medium.com/p/9dbee233307d) |
-| Sun, 10 Aug 2025 07:42:42 GMT | फोनपे के खिलाफ शिकायत दर्ज करने के लिए, आप PhonePe ग्राहक सहायता से ☄️✓924~482~0361✓ ☄️या पर कॉल… | yiloroy764@pevne.com | [Read More](https://medium.com/p/17df8207b6c7) |
-| Sun, 10 Aug 2025 07:34:38 GMT | Web Security Stack in 2025: What to Use and Why | Rizqi Mulki | [Read More](https://medium.com/p/782fa90a1086) |
-| Sun, 10 Aug 2025 07:33:44 GMT | The new platinum ? data :- protect it | Rinka | [Read More](https://medium.com/p/1709fd216b73) |
-| Sun, 10 Aug 2025 07:31:47 GMT | Understanding SSL/TLS Communication | Sowmya | [Read More](https://medium.com/p/4f89eb7f1e57) |
