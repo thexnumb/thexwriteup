@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 03:45:25 GMT | Shadow Money Gang — Ireland Division? More Like Sunday School Copy-Paste Gang | Tyler Johnston-Kent | [Read More](https://medium.com/p/e186440c0b4f) |
+| Sun, 10 Aug 2025 03:42:29 GMT | TOPIC:Trump’s Meeting With Putin Poses High Stakes For The Ukraine War — And His Legacy. | Danjuma Plangkat ️ | [Read More](https://medium.com/p/4cdcb8e57124) |
+| Sun, 10 Aug 2025 03:31:57 GMT | Mastering Access Control in Solidity:  The Ultimate Guide for Developers & Security… | vishhxyz | [Read More](https://medium.com/p/413b874eccf2) |
+| Sun, 10 Aug 2025 03:31:57 GMT | The Rise of Qilin: A New Era of Ransomware Dominance | Deven Chhajed | [Read More](https://medium.com/p/c07e79c81498) |
+| Sun, 10 Aug 2025 03:09:31 GMT | Learning from SecuMS & OmniGuard: Proactive Strategies to Counter Cyber Threats | Hildan Kusto Utomo | [Read More](https://medium.com/p/e2f27458cc1c) |
+| Sun, 10 Aug 2025 03:03:00 GMT | Customer Transaction PII Data Exposed via Google Dorking | SIDDHANT SHUKLA | [Read More](https://medium.com/p/e90c2126a3dc) |
+| Sun, 10 Aug 2025 03:02:48 GMT | Future-Proof Cybersecurity Careers in the Age of AI: What You Should Learn in 2026 | Dr. Deep Pandey | [Read More](https://medium.com/p/e73b14998dd3) |
+| Sun, 10 Aug 2025 02:17:55 GMT | 7 ways to develop fundamental knowledge on Cybersecurity (with example) | Kaushik Majumder | [Read More](https://medium.com/p/223974c559f7) |
+| Sun, 10 Aug 2025 01:57:51 GMT | pfSense OpenVPN Setup | James Rawlings | [Read More](https://medium.com/p/8b83265e61ac) |
+| Sun, 10 Aug 2025 01:54:47 GMT | Super Serial (PICOCTF) | Distracted | [Read More](https://medium.com/p/390c394c7d2d) |
 | Sun, 10 Aug 2025 01:34:57 GMT | 5 Most Dangerous Roads in the World – Would You Dare to Drive Them? | Anos | [Read More](https://medium.com/p/1315e6a3fcaa) |
 | Sun, 10 Aug 2025 01:01:58 GMT | The Lupin Protocol: Beyond the Obvious in Offensive Security | Syed Ammar | [Read More](https://medium.com/p/22d8481d1d43) |
 | Sun, 10 Aug 2025 00:56:16 GMT | Active Directory’yi Anlamak: Temel Bilgiler ve Güvenlik -2 | Nupelda Kandemir | [Read More](https://medium.com/p/c063a3688749) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 Aug 2025 16:42:51 GMT | Dynamic Malware Analysis : Watch Malware Reveal Its Secrets — LIVE! | Paritosh | [Read More](https://medium.com/p/98ad5426e678) |
 | Sat, 09 Aug 2025 16:26:39 GMT | Linux Privilege Escalation for Beginners Part 3, NETOWRK ENUMERATION: | Muhammadhuzaifa | [Read More](https://medium.com/p/dcbbbc8aabfc) |
 | Sat, 09 Aug 2025 16:23:42 GMT | From Browser to Shell: Hacking the Edex-UI Terminal | Abdelrhman Zayed | [Read More](https://medium.com/p/7dfe757893fe) |
-| Sat, 09 Aug 2025 16:21:55 GMT | Zaafların Peşinden Koşmak | Nuri Sencer | [Read More](https://medium.com/p/dc93b8361d25) |
-| Sat, 09 Aug 2025 16:17:16 GMT | Why Every Dev Needs a Security Stethoscope (And I have Built One) | Vedanta Banerjee | [Read More](https://medium.com/p/3758178d6844) |
-| Sat, 09 Aug 2025 16:10:47 GMT | Books that Helped Shape my Digital Forensic Education | Travis Murphy | [Read More](https://medium.com/p/5167ca3a5c42) |
-| Sat, 09 Aug 2025 16:06:43 GMT | CTF Write-Up: Injector — Machines | Marwan Alsaifi | [Read More](https://medium.com/p/1454f0886184) |
-| Sat, 09 Aug 2025 16:03:35 GMT | Why Online Fraud Is Rising — And Why It’s Not Just One Reason | Karina | [Read More](https://medium.com/p/896a2c50c79c) |
-| Sat, 09 Aug 2025 15:56:10 GMT | Private Browsing vs. Incognito: Misconceptions & Risks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/11e3bff8fd8b) |
-| Sat, 09 Aug 2025 15:54:53 GMT | [HackTheBox Sherlocks Write-up] Trent (Investigate network router command injection CVE from pcap… | Chicken0248 | [Read More](https://medium.com/p/146f04ec966d) |
-| Sat, 09 Aug 2025 15:52:05 GMT | CIA TRIAD | Roshinni Gandhi | [Read More](https://medium.com/p/492d5b4e79a2) |
-| Sat, 09 Aug 2025 15:51:00 GMT | Title: Which Cyberspace Protection Condition Applies to You in 2025? | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/1aa2f2f52f0c) |
-| Sat, 09 Aug 2025 15:39:58 GMT | [HackTheBox Sherlocks Write-up] ReliableThreat (VSCode extension leads to reverse shell and… | Chicken0248 | [Read More](https://medium.com/p/24cad7896717) |
