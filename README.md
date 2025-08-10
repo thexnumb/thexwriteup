@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 22:19:30 GMT | Drosera Network: The Decentralized Shield for Web3 Security Introduction: | Happiness Oluwaferanmi | [Read More](https://medium.com/p/b2f88a71eeaf) |
+| Sun, 10 Aug 2025 22:17:13 GMT | Breaking Down Cross-Site WebAssembly Threats | Karthikeyan Nagaraj | [Read More](https://medium.com/p/987cbd52e513) |
 | Sun, 10 Aug 2025 22:01:14 GMT | The Schrödinger’s ESC1 Vulnerability | Matheus Vilachã | [Read More](https://medium.com/p/ec1cee0cd9b8) |
 | Sun, 10 Aug 2025 21:58:20 GMT | AI vs AI: The New Frontier in Cybersecurity Battles | Shradhdha Bhalodia | [Read More](https://medium.com/p/b654eaa52344) |
 | Sun, 10 Aug 2025 21:54:07 GMT | Echo Chambers — Feedback Loops in Detection Engineering | Nasreddine Bencherchali | [Read More](https://medium.com/p/4ee44508403c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 14:49:04 GMT | From Caesar to Quantum: A Developer’s Crash Course in Cryptography — Part 1: Ancient Secrets | Steinwendner Matthias | [Read More](https://medium.com/p/a4a156f1c17f) |
 | Sun, 10 Aug 2025 14:39:47 GMT | OWASP Top 10 Made Easy: Protect Your Website from the Most Common Attacks. | Xshannu | [Read More](https://medium.com/p/2855c5a9b7c6) |
 | Sun, 10 Aug 2025 14:32:23 GMT | Vibe coding: Cool Name, Risky Reality. | Brittney Ginther | [Read More](https://medium.com/p/04352cc0f2ff) |
-| Sun, 10 Aug 2025 14:30:05 GMT | Don’t Sanitize Everything - Validate First, Then Clean Up in PHP | Asian Digital Hub | [Read More](https://medium.com/p/654917b4de47) |
-| Sun, 10 Aug 2025 14:25:02 GMT | Email vs. Username Logins: Embracing Passwordless Alternatives and Future Trends | H2bm | [Read More](https://medium.com/p/39a7e435d646) |
