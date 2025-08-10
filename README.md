@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 Aug 2025 18:37:15 GMT | Researchers Uncover Windows EPM Poisoning Attack Chain (CVE-2025–49760) | Rue | [Read More](https://medium.com/p/bf6e62685d7a) |
+| Sun, 10 Aug 2025 18:36:55 GMT | No certs.. no money wasting.. no complicated overwhelming contracts BUG BOUNTY INTRO MAP | Abdulrahman Kamal | [Read More](https://medium.com/p/7bb5eab6cb86) |
+| Sun, 10 Aug 2025 18:31:22 GMT | CTF Day(49) | Ahmed Narmer | [Read More](https://medium.com/p/c950baf3510d) |
+| Sun, 10 Aug 2025 18:29:28 GMT | Why Cybersecurity Should Matter to You — And How to Get Real-World Experience | Santoshi_Cloud | [Read More](https://medium.com/p/287b82c87734) |
+| Sun, 10 Aug 2025 18:27:07 GMT | The Overlooked Backbone: Cybersecurity in AI and ML Design | s asghar | [Read More](https://medium.com/p/b416e9b12e59) |
 | Sun, 10 Aug 2025 18:22:25 GMT | Kortex: The Note-Taking Weapon Every Hacker & SOC Analyst Should Have | Corey Jones | [Read More](https://medium.com/p/a4e733018fcb) |
 | Sun, 10 Aug 2025 18:16:12 GMT | Why is Online Safety And Digital Literacy is Important for Senior Citizens? 2025 Report | Mustakim Billah Junaeid | [Read More](https://medium.com/p/baf999fe6924) |
 | Sun, 10 Aug 2025 18:04:38 GMT | My First Dive into the OWASP Top 10 — Understanding the Web’s Most Common Security Risks | Prathiush Jayaprakash | [Read More](https://medium.com/p/d9e6a113d31c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 12:01:45 GMT | I’m So Sorry For Their Loss: They Called You For Help — Yass Partners | Yael Nagler | [Read More](https://medium.com/p/5f3343bf6a02) |
 | Sun, 10 Aug 2025 12:01:45 GMT | Active Reconnaissance: TryHackMe Walkthrough | ShadowPacketRHR | [Read More](https://medium.com/p/df159540d423) |
 | Sun, 10 Aug 2025 11:53:50 GMT | RSA Security | Fabio Pereira | [Read More](https://medium.com/p/546a01a15a97) |
-| Sun, 10 Aug 2025 11:53:03 GMT | An Insight of LSware’s IT Security Products: SecuMS and Omniguard | Michael Christian Handoko | [Read More](https://medium.com/p/9568be15d8bc) |
-| Sun, 10 Aug 2025 11:52:06 GMT | Cyber OSINT for Mobile Threat Hunting: Tracing Malicious APKs | Elif Abanoz | [Read More](https://medium.com/p/3ff6bf02e863) |
-| Sun, 10 Aug 2025 11:39:20 GMT | Open Redirect: The Hidden Doorway for Phishing and Session Hijacking | EroHack | [Read More](https://medium.com/p/1a7afd64ca3b) |
-| Sun, 10 Aug 2025 11:33:17 GMT | A07:2021 — Identification and Authentication Failures | GhostNex | [Read More](https://medium.com/p/0e901e61fad7) |
-| Sun, 10 Aug 2025 11:31:36 GMT | Bug Bounty Goldmine — Host Header Attack for Password Reset Poisoning | Zoningxtr | [Read More](https://medium.com/p/8d3a4520049b) |
