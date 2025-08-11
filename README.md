@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 05:17:13 GMT | Unknown Key-Share (UKS) Attacks in Cryptography: When Identities Get Twisted | Denys Popov | [Read More](https://medium.com/p/35606be50a9f) |
+| Mon, 11 Aug 2025 05:15:08 GMT | ExeQuantum and Notable Frontier Partner to Advance Post-Quantum Cryptography in Southeast Asia | ExeQuantum | [Read More](https://medium.com/p/18eba6a348b2) |
+| Mon, 11 Aug 2025 05:11:48 GMT | How to Stop a Layer 7 DDoS Without Losing Real Users ️ | Introvertdeveloper | [Read More](https://medium.com/p/ab50c125bb69) |
+| Mon, 11 Aug 2025 05:11:32 GMT | Thick Client Pen Testing: A Comprehensive Guide- Europe 2025 | QualysecEurope | [Read More](https://medium.com/p/ed89aba06b1c) |
+| Mon, 11 Aug 2025 05:08:50 GMT | Future-Proof your Security in Kuwait: Access Control | Tekshoyabeelyas | [Read More](https://medium.com/p/aa5297c02426) |
+| Mon, 11 Aug 2025 05:06:08 GMT | Axipro’s ISO 27001 Gap Analysis Process — Your Fast Track to Certification Confidence | Axipro | [Read More](https://medium.com/p/aeb453e7e819) |
+| Mon, 11 Aug 2025 05:04:42 GMT | Privacy vs. National Security: Can We Really Have Both? | Md Faiyaz Khan | [Read More](https://medium.com/p/ff80cfc1b5ba) |
+| Mon, 11 Aug 2025 05:00:32 GMT | From Code to Compliance: Security Enforcement Every Dev Need to Learn | Jothi Krishna | [Read More](https://medium.com/p/cd32f5ad85bc) |
+| Mon, 11 Aug 2025 04:56:50 GMT | Enumeration CTF 1 | Hejackson | [Read More](https://medium.com/p/442203bfc1b5) |
+| Mon, 11 Aug 2025 04:51:08 GMT | SMT Program 2025 Journal — Expert Lecture 2 | Sarah | [Read More](https://medium.com/p/b41366c1df16) |
+| Mon, 11 Aug 2025 04:41:38 GMT | The Linux Process Journey — rmmod (Remove Kernel Module) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d772f10d0adb) |
 | Mon, 11 Aug 2025 04:40:32 GMT | Mirror, Mirror in the Cache: The Day I Became a Digital Pickpocket | Iski | [Read More](https://medium.com/p/ce695a86dc87) |
 | Mon, 11 Aug 2025 04:34:31 GMT | GPT-5 Jailbroken in Under 24 Hours: Critical Security Vulnerabilities and Essential Insights | NeuralNikitha | [Read More](https://medium.com/p/a22d433f97ac) |
 | Mon, 11 Aug 2025 04:21:56 GMT | TheFatRat: Crafting Cross-Platform Backdoors for Ethical Red Team Operations | Javier Calderon Jr | [Read More](https://medium.com/p/f6e49166255e) |
@@ -102,14 +113,3 @@ How Drive’s… | Kayvan Shah | [Read More](https://medium.com/p/79eea744d90d) 
 | Sun, 10 Aug 2025 18:36:55 GMT | No certs.. no money wasting.. no complicated overwhelming contracts BUG BOUNTY INTRO MAP | Abdulrahman Kamal | [Read More](https://medium.com/p/7bb5eab6cb86) |
 | Sun, 10 Aug 2025 18:31:22 GMT | CTF Day(49) | Ahmed Narmer | [Read More](https://medium.com/p/c950baf3510d) |
 | Sun, 10 Aug 2025 18:29:28 GMT | Why Cybersecurity Should Matter to You — And How to Get Real-World Experience | Santoshi_Cloud | [Read More](https://medium.com/p/287b82c87734) |
-| Sun, 10 Aug 2025 18:27:07 GMT | The Overlooked Backbone: Cybersecurity in AI and ML Design | s asghar | [Read More](https://medium.com/p/b416e9b12e59) |
-| Sun, 10 Aug 2025 18:22:25 GMT | Kortex: The Note-Taking Weapon Every Hacker & SOC Analyst Should Have | Corey Jones | [Read More](https://medium.com/p/a4e733018fcb) |
-| Sun, 10 Aug 2025 18:16:12 GMT | Why is Online Safety And Digital Literacy is Important for Senior Citizens? 2025 Report | Mustakim Billah Junaeid | [Read More](https://medium.com/p/baf999fe6924) |
-| Sun, 10 Aug 2025 18:04:38 GMT | My First Dive into the OWASP Top 10 — Understanding the Web’s Most Common Security Risks | Prathiush Jayaprakash | [Read More](https://medium.com/p/d9e6a113d31c) |
-| Sun, 10 Aug 2025 18:01:15 GMT | One Room a Day: How TryHackMe Made Learning Cybersecurity Fun | Mr Madani | [Read More](https://medium.com/p/054c6110db58) |
-| Sun, 10 Aug 2025 17:57:26 GMT | *Day 71 of 100 Innovations!* | Atikin Verse | [Read More](https://medium.com/p/eada23e1ada1) |
-| Sun, 10 Aug 2025 17:47:31 GMT | Why Continuous Security Improvement Should Be Every QA Engineer’s Superpower in 2025 | Samyukthap | [Read More](https://medium.com/p/bd03131d6b83) |
-| Sun, 10 Aug 2025 17:41:16 GMT | Scams Are Proof That Simplicity Scales. (In Crime & In Design) | Atul Sathyan | [Read More](https://medium.com/p/d584ee3aff06) |
-| Sun, 10 Aug 2025 17:38:52 GMT | Cyber Security Data Analyst: The Digital Detective Career Path That Could Change Your Life | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/4c4e194c031f) |
-| Sun, 10 Aug 2025 17:28:21 GMT | Active Directory User Enumeration | MR Gh0st [ 0xff ] | [Read More](https://medium.com/p/69c146381fec) |
-| Sun, 10 Aug 2025 17:24:43 GMT | MAL: Strings TryHackMe Writeup | theOrthodox | [Read More](https://medium.com/p/c052a0e10042) |
