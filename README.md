@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 21:11:20 GMT | How to Clear Your Tech Interview in 2026 (and Beyond) | Rahul Bhichher | [Read More](https://medium.com/p/55a4271723cc) |
+| Mon, 11 Aug 2025 20:58:45 GMT | The Art of Stealing Your Own Car Back From the Repo Lot | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/1e17505754fb) |
+| Mon, 11 Aug 2025 20:57:20 GMT | Why Phishing Emails Still Work in 2025 | B1n4ry Trev | [Read More](https://medium.com/p/e0c4551471d9) |
+| Mon, 11 Aug 2025 20:55:12 GMT | Building a Hacking Laptop From Parts People Throw Away | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b4b99fb5f75f) |
+| Mon, 11 Aug 2025 20:54:53 GMT | ClickFix Malware: The Sneaky macOS Threat You Didn’t See Coming | Akshay Chauhan | [Read More](https://medium.com/p/2d2c83607087) |
+| Mon, 11 Aug 2025 20:40:45 GMT | Why You Should Still Care About “Boring” Security Basics | B1n4ry Trev | [Read More](https://medium.com/p/db6c0239c862) |
 | Mon, 11 Aug 2025 20:38:02 GMT | When Desperation Meets Deception: My Brush With a LinkedIn Job Scam | Gitika Babbar | [Read More](https://medium.com/p/f2ca40579371) |
 | Mon, 11 Aug 2025 20:36:22 GMT | Hide Your C2: Tor Hidden C2 Server — Part 1 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/abd7b3ae6e85) |
 | Mon, 11 Aug 2025 20:18:06 GMT | How AI-Generated Phishing is Evolving and Bypassing Traditional Filters | Yashasvi Sharma | [Read More](https://medium.com/p/3c1e3b86eda9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 15:09:16 GMT | Antivirus vs Antimalware: What’s the Difference? | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/6dd5636a44ae) |
 | Mon, 11 Aug 2025 15:08:52 GMT | Week 2: The Birth of Modern Security | Joshua O. Berkoh | [Read More](https://medium.com/p/60d258b8579b) |
 | Mon, 11 Aug 2025 15:07:58 GMT | A New Deceptive AI Threat: Analyzing the ScamAgent Paper with the CDCL Framework | Berend Watchus | [Read More](https://medium.com/p/00664dca7792) |
-| Mon, 11 Aug 2025 15:06:14 GMT | How to Secure Your Terraform Configs from Supply Chain Attacks | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/8f1cc725a40c) |
-| Mon, 11 Aug 2025 15:02:30 GMT | Fast & Easy MFA and SSO Setup with Rainbow Secure: Secure Your Business in Hours, Not Weeks | Dr. Shashi Karhail | [Read More](https://medium.com/p/ffcc65363b07) |
-| Mon, 11 Aug 2025 15:02:16 GMT | Algorithms: The Secret Handshake of Modern Technology | CapitalCoin | [Read More](https://medium.com/p/eb16a58981b8) |
-| Mon, 11 Aug 2025 14:55:38 GMT | HTB Precious Machine — walkthrough for beginners | SeverSerenity | [Read More](https://medium.com/p/528a8a27b443) |
-| Mon, 11 Aug 2025 14:55:35 GMT | WTF is binary exploitation | Zeyadsalah | [Read More](https://medium.com/p/ba1d3e6ec0e3) |
-| Mon, 11 Aug 2025 14:53:17 GMT | Network API Forecast for Explosive Growth | David H. Deans | [Read More](https://medium.com/p/d456494560e7) |
