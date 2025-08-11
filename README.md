@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 17:07:57 GMT | Revisiting the Cybersecurity Paradigm: From Quantity of Breaches to a “Breach-Centric” Approach. | Wilman Saragih Sitio | [Read More](https://medium.com/p/77d2aa99a170) |
+| Mon, 11 Aug 2025 16:59:04 GMT | SWG Wars: How dope.security turned a retro space shooter into B2B mindshare | Amar Jeer | [Read More](https://medium.com/p/12b7fce8487e) |
+| Mon, 11 Aug 2025 16:57:56 GMT | ISO 27001 ve Örnek Bilgi Güvenliği Politikası: Kurumsal Güvenliğin Temel Taşı | Enis Buğra Akada | [Read More](https://medium.com/p/45efcf0565a3) |
+| Mon, 11 Aug 2025 16:52:08 GMT | Setup AI Powered SOC With EASE | One Equals One | [Read More](https://medium.com/p/79325f49d530) |
 | Mon, 11 Aug 2025 16:46:51 GMT | Why Businesses in India Need GDPR Compliance Services | Aarav Mehta | [Read More](https://medium.com/p/2821ebfe2034) |
 | Mon, 11 Aug 2025 16:45:09 GMT | Tools of the Trade: For a Cybersecurity Analyst | Uplatz | [Read More](https://medium.com/p/0936802efc9f) |
 | Mon, 11 Aug 2025 16:43:54 GMT | Buy or Renew Your Antivirus, Total Security, or Internet Security — Protect Your Digital Life Today | cybertech | [Read More](https://medium.com/p/8ab6582a092e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 12:39:49 GMT | CORS Misconfigurations & Path Traversal Explained — Real-World Exploitation on Vuln-Bank App | Rachael Kivuti | [Read More](https://medium.com/p/397c3b4a8d52) |
 | Mon, 11 Aug 2025 12:36:53 GMT | The End is Only the Beginning: From Cloud Academy Graduate to Security Leader | Jimmy Peralta | [Read More](https://medium.com/p/afa9c2ef9a3b) |
 | Mon, 11 Aug 2025 12:34:52 GMT | Subnetting — The Art of Breaking a Big City into Smaller Neighbourhoods | prince singh | [Read More](https://medium.com/p/12e7face76b5) |
-| Mon, 11 Aug 2025 12:31:50 GMT | Before You Press Play on Pandora, Read This | A D | [Read More](https://medium.com/p/48281f0d6e3e) |
-| Mon, 11 Aug 2025 12:29:02 GMT | The Introduction Nobody Asked For | Daniel Olurin - Cyberwriter | [Read More](https://medium.com/p/2d8f86fd9f9a) |
-| Mon, 11 Aug 2025 12:25:53 GMT | Kiosks Redefining the Future: How Panashi FZCO is Powering Smarter, Faster, and More Connected… | Rakesh | [Read More](https://medium.com/p/59330e653b92) |
-| Mon, 11 Aug 2025 12:23:02 GMT | Locked Out: Inside the Ransomware Attack That Crippled Indonesia’s National Data Centre | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/a2ceed12a699) |
