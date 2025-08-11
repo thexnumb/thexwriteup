@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 23:16:08 GMT | Windows Memory & Network - TryHackMe | CR4SHC0D3R | [Read More](https://medium.com/p/e9746a17fb99) |
+| Mon, 11 Aug 2025 23:04:46 GMT | Leaked Credentials Are Exploding — And Hackers Are Cashing In Faster Than Ever | Cyber-AppSec | [Read More](https://medium.com/p/832b931acb22) |
+| Mon, 11 Aug 2025 22:50:03 GMT | DefenseArk Security features at ETHGlobal 2025 | Kalpitha S | [Read More](https://medium.com/p/01c2aa6cdbb3) |
 | Mon, 11 Aug 2025 22:37:43 GMT | Dockerlabs — Grooti [Write-Up] | APS88 | [Read More](https://medium.com/p/e27a1d3ce95b) |
 | Mon, 11 Aug 2025 22:34:19 GMT | Policy as Code: From Concept to Control | Lionel Owono | [Read More](https://medium.com/p/56c17136b67f) |
 | Mon, 11 Aug 2025 22:28:24 GMT | Secure your RAG with LangChain — a step-by-step, minimal working guide (with code) | Lionel Owono | [Read More](https://medium.com/p/7c626dbb1bf0) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 16:12:33 GMT | Top 7 Areas of Cyber Security You Can’t Ignore in 2025 | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/84cd3f1be192) |
 | Mon, 11 Aug 2025 16:11:23 GMT | The Power of Recon: Accessing Target’s Secure Emails Without Login | Aya Ayman(GERR4Y) | [Read More](https://medium.com/p/eac2e4f473a2) |
 | Mon, 11 Aug 2025 16:09:51 GMT | “Day 8: Mobile Hacking — How I Cracked a Banking App’s PIN in 10 Seconds ($5000 Bug)” | Aman Sharma | [Read More](https://medium.com/p/575bd10823cd) |
-| Mon, 11 Aug 2025 16:06:57 GMT | Computer Networking -2 | Amara Raja | [Read More](https://medium.com/p/0bde715ca357) |
-| Mon, 11 Aug 2025 16:00:34 GMT | ISMAP Management Standards Chapter 14: Key Points for Safely Developing Systems — “System… | nolly | [Read More](https://medium.com/p/04c18b2c25b7) |
-| Mon, 11 Aug 2025 15:59:02 GMT | HashiCorp Vault: Docker ile Kurulum, API Kullanımı ve .NET Entegrasyonu | Mustafa Dikyar | [Read More](https://medium.com/p/2e6e7d55c21c) |
