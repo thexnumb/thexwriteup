@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 06:31:11 GMT | Agentic AI — A Beginner’s Guide to Agentic AI: What It Is and Why It Matters | Jeeva Selvaraju | [Read More](https://medium.com/p/f29f67a26c86) |
+| Mon, 11 Aug 2025 06:24:30 GMT | $3,500 Bounty —  Total Failure of Password Protection While Extracting Seed Phrase — A Critical… | Hacker Write-Ups | [Read More](https://medium.com/p/79723184d46e) |
+| Mon, 11 Aug 2025 06:22:16 GMT | Critical RCE Vulnerability Found in IP-guard WebServer — Patch Now! | Quella | [Read More](https://medium.com/p/78216c2fe7a6) |
+| Mon, 11 Aug 2025 06:21:09 GMT | Top Cyber Security Questions and Answers for 2025: Ace Your Interview & Quiz with Expert Tips | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/a2806202a2bb) |
+| Mon, 11 Aug 2025 06:15:12 GMT | Why Every Business Needs a Mobile App Pentest to Stay Secure | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/72a49e00a7d8) |
+| Mon, 11 Aug 2025 06:14:32 GMT | Diverse E-commerce Development Services You Should Know | Ketan Patel | [Read More](https://medium.com/p/d8a0acdcf1d5) |
+| Mon, 11 Aug 2025 06:10:49 GMT | CTF Day(50) | Ahmed Narmer | [Read More](https://medium.com/p/ef758c06b0e7) |
+| Mon, 11 Aug 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Aug 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/cd64fe440402) |
+| Mon, 11 Aug 2025 05:51:51 GMT | Gmail Analysis with Cursor | Vivekraja | [Read More](https://medium.com/p/9ee04deda735) |
+| Mon, 11 Aug 2025 05:51:17 GMT | Exploring Top E-commerce Platforms: nopCommerce & PrestaShop | Bhavesh Rajpurohit | [Read More](https://medium.com/p/807e52975b64) |
+| Mon, 11 Aug 2025 05:51:03 GMT | Crafting Tomorrow’s Security, Today | Quva India | [Read More](https://medium.com/p/818919f59a56) |
+| Mon, 11 Aug 2025 05:48:03 GMT | Decoding Malware: A First Principles Approach to Visual Classification | Menelik | [Read More](https://medium.com/p/fe4668c69ecb) |
 | Mon, 11 Aug 2025 05:44:10 GMT | Portswigger Labs — CSRF | Ans Inayat | [Read More](https://medium.com/p/aae190abec37) |
 | Mon, 11 Aug 2025 05:43:52 GMT | Mirage HTB Machine Writeup | Ans Inayat | [Read More](https://medium.com/p/7015d35a198e) |
 | Mon, 11 Aug 2025 05:38:16 GMT | Structured Analytic Techniques: How to Analyze Threat Intelligence | Adam Goss | [Read More](https://medium.com/p/94f1a9286c82) |
@@ -28,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 05:06:08 GMT | Axipro’s ISO 27001 Gap Analysis Process — Your Fast Track to Certification Confidence | Axipro | [Read More](https://medium.com/p/aeb453e7e819) |
 | Mon, 11 Aug 2025 05:04:42 GMT | Privacy vs. National Security: Can We Really Have Both? | Md Faiyaz Khan | [Read More](https://medium.com/p/ff80cfc1b5ba) |
 | Mon, 11 Aug 2025 05:00:32 GMT | From Code to Compliance: Security Enforcement Every Dev Need to Learn | Jothi Krishna | [Read More](https://medium.com/p/cd32f5ad85bc) |
+| Mon, 11 Aug 2025 04:58:13 GMT | WOOFi 해킹 사건 정밀 분석: $8.8M 피해 및 스마트 컨트랙트 취약점 분석 | 클로인트 가상자산 정보분석 센터(CIC) | [Read More](https://medium.com/p/f551d59b33f6) |
 | Mon, 11 Aug 2025 04:56:50 GMT | Enumeration CTF 1 | Hejackson | [Read More](https://medium.com/p/442203bfc1b5) |
 | Mon, 11 Aug 2025 04:51:08 GMT | SMT Program 2025 Journal — Expert Lecture 2 | Sarah | [Read More](https://medium.com/p/b41366c1df16) |
 | Mon, 11 Aug 2025 04:41:38 GMT | The Linux Process Journey — rmmod (Remove Kernel Module) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d772f10d0adb) |
@@ -100,16 +113,3 @@ How Drive’s… | Kayvan Shah | [Read More](https://medium.com/p/79eea744d90d) 
 | Sun, 10 Aug 2025 20:50:26 GMT | Understanding PID and TID Number Patterns in Windows: Why They’re Always Divisible by 4 | DarKVoicE | [Read More](https://medium.com/p/909b5c317329) |
 | Sun, 10 Aug 2025 20:50:17 GMT | Cybersecurity From The Start | Kabir Anand | [Read More](https://medium.com/p/a0a3872797c0) |
 | Sun, 10 Aug 2025 20:34:40 GMT | Base 44 Vulnerability | Riley Shu | [Read More](https://medium.com/p/b60168168386) |
-| Sun, 10 Aug 2025 20:27:48 GMT | From SaaS to NaaS: When Capitalism Sells You Literally Nothing | Abderrahim fazazi | [Read More](https://medium.com/p/69d59d8ac5b7) |
-| Sun, 10 Aug 2025 20:15:50 GMT | ROOT ACCESS + Programmation : le pack ultime pour hacker le système… légalement ! | Koudebithesor | [Read More](https://medium.com/p/cec45c1ca716) |
-| Sun, 10 Aug 2025 19:51:02 GMT | Securing AI for Enterprises: A Leadership Blueprint | Harry D | [Read More](https://medium.com/p/58c4ad7c4418) |
-| Sun, 10 Aug 2025 19:46:00 GMT | # Analytical Report on Operationalj3 Pipeline Dossier: Extraction, Classification, and… | Brandonzid | [Read More](https://medium.com/p/339be1323c67) |
-| Sun, 10 Aug 2025 19:45:44 GMT | Streaming CrowdStrike Falcon Events into GCS for Google Chronicle | Andrew Stevens | [Read More](https://medium.com/p/0602b40be0aa) |
-| Sun, 10 Aug 2025 19:29:31 GMT | When a Video Doesn’t Play but the Malware Sure Does | Hatim Khadraoui | [Read More](https://medium.com/p/7cb9076dc186) |
-| Sun, 10 Aug 2025 19:24:06 GMT | Quantum Networking: The Future of Unbreakable Online Communication | Dark Tech Insights | [Read More](https://medium.com/p/929dafbae047) |
-| Sun, 10 Aug 2025 19:15:26 GMT | Future-Proof Your Skills: What’s Next in Cybersecurity? | Authlyn | [Read More](https://medium.com/p/fd02eb420655) |
-| Sun, 10 Aug 2025 19:13:33 GMT | When Vibe Coding Meets Cybercrime: How to Keep Your AI-Powered Dev Flow from Becoming a Hacker’s… | Brian Mora | [Read More](https://medium.com/p/5e836fd09d37) |
-| Sun, 10 Aug 2025 19:07:47 GMT | Why Your Electric Vehicle Might Be More Vulnerable Than You Think | Victor Yan | [Read More](https://medium.com/p/9f1220669203) |
-| Sun, 10 Aug 2025 18:55:46 GMT | TryHackMe — Capture! | omni | [Read More](https://medium.com/p/fdba2f256965) |
-| Sun, 10 Aug 2025 18:55:29 GMT | “P@$$wOrd123” Isn’t Strong. Here’s What Is. | Truspex | [Read More](https://medium.com/p/cfeb79340a76) |
-| Sun, 10 Aug 2025 18:53:42 GMT | My 90-Day Mission — And Share Every Step With You | Sugam Arora | [Read More](https://medium.com/p/a496138bf8bb) |
