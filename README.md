@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 16:20:09 GMT | Cybersecurity: Facing the Challenges in a Digitally Transformed Economy | Ayush Pradhan | [Read More](https://medium.com/p/7e80e3e2a26f) |
+| Mon, 11 Aug 2025 16:17:18 GMT | The High Risk of Running Code Locally — Here’s How to Secure Projects with Docker in One Command | AI Rabbit | [Read More](https://medium.com/p/145a7776e0bb) |
+| Mon, 11 Aug 2025 16:14:57 GMT | What is Networking ? - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/93a52cfb5d53) |
+| Mon, 11 Aug 2025 16:12:33 GMT | Top 7 Areas of Cyber Security You Can’t Ignore in 2025 | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/84cd3f1be192) |
+| Mon, 11 Aug 2025 16:11:23 GMT | The Power of Recon: Accessing Target’s Secure Emails Without Login | Aya Ayman(GERR4Y) | [Read More](https://medium.com/p/eac2e4f473a2) |
+| Mon, 11 Aug 2025 16:09:51 GMT | “Day 8: Mobile Hacking — How I Cracked a Banking App’s PIN in 10 Seconds ($5000 Bug)” | Aman Sharma | [Read More](https://medium.com/p/575bd10823cd) |
+| Mon, 11 Aug 2025 16:06:57 GMT | Computer Networking -2 | Amara Raja | [Read More](https://medium.com/p/0bde715ca357) |
+| Mon, 11 Aug 2025 16:00:34 GMT | ISMAP Management Standards Chapter 14: Key Points for Safely Developing Systems — “System… | nolly | [Read More](https://medium.com/p/04c18b2c25b7) |
+| Mon, 11 Aug 2025 15:59:02 GMT | HashiCorp Vault: Docker ile Kurulum, API Kullanımı ve .NET Entegrasyonu | Mustafa Dikyar | [Read More](https://medium.com/p/2e6e7d55c21c) |
+| Mon, 11 Aug 2025 15:58:03 GMT | A Question of Sovereignty - Securing the Locus of Authority in Managed Kubernetes | Above The Firewall | [Read More](https://medium.com/p/8187bc189a89) |
+| Mon, 11 Aug 2025 15:56:15 GMT | Trend Micro Apex One On-Premise Critical Vulnerabilities | _Anirudh_ | [Read More](https://medium.com/p/fca9d6f9bc01) |
+| Mon, 11 Aug 2025 15:53:16 GMT | Secure Coding Part 9— Command Injection Attack: Python exec() & Seccomp to the rescue | Siddiquimohammad | [Read More](https://medium.com/p/7e9a9828ab4d) |
+| Mon, 11 Aug 2025 15:40:48 GMT | How Did Ukraine Turn the Russian Tax System into a Battlefield? | Stefan Markov | [Read More](https://medium.com/p/8b5c8041c730) |
 | Mon, 11 Aug 2025 15:34:37 GMT | When the Breach Comes Calling | Simply Leah | [Read More](https://medium.com/p/891db1722bc3) |
 | Mon, 11 Aug 2025 15:31:58 GMT | Phishing Works Because It’s Not Smart Tech | Atul Sathyan | [Read More](https://medium.com/p/c49a9d6b9906) |
 | Mon, 11 Aug 2025 15:24:11 GMT | Increasing the Impact of Blind XSS When Triggered in Electron.js Apps | Lachhamza | [Read More](https://medium.com/p/12df2f49a896) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 11:52:43 GMT | Inside a Ransomware Attack: Dissecting the Tactics and Preventing the Damage | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/b4ce0090659b) |
 | Mon, 11 Aug 2025 11:50:41 GMT | ️‍♂️Natas 1 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/75bbf5fc274c) |
 | Mon, 11 Aug 2025 11:46:30 GMT | My Fear Has a Parking Spot ⚠️ | Kiran Bilal | [Read More](https://medium.com/p/bbabc4bb157e) |
-| Mon, 11 Aug 2025 11:41:27 GMT | Mastering the Mind Behind the Click: Unveiling Social Engineering’s Silent Threats. | eL Njas!™ | [Read More](https://medium.com/p/f4d9cfa1f15c) |
-| Mon, 11 Aug 2025 11:38:29 GMT | Server Provisioning: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/099e83be6d7c) |
-| Mon, 11 Aug 2025 11:37:59 GMT | Ethical hacking Careers in 2025 and Skills You Need to Succeed | Nirmalrajeev | [Read More](https://medium.com/p/5574f11bf35b) |
-| Mon, 11 Aug 2025 11:34:14 GMT | Digital Detox: How Stepping Away from Screens Can Reconnect You with Family and Yourself | Hafizbilaltariq | [Read More](https://medium.com/p/9e28d7ed5b90) |
-| Mon, 11 Aug 2025 11:33:21 GMT | Mastering Web & JavaScript Security — A Complete Guide | muhaymin khan | [Read More](https://medium.com/p/f746b73475af) |
-| Mon, 11 Aug 2025 11:32:01 GMT | Secret Management: Neden Artık Vazgeçilmez? | Mustafa Dikyar | [Read More](https://medium.com/p/8609edcefcea) |
-| Mon, 11 Aug 2025 11:30:52 GMT | Your warehouse or self-storage space holds more than just goods — it holds value, trust, and peace… | Visual Monitoring Solutions | [Read More](https://medium.com/p/7ba9fee1f0f9) |
-| Mon, 11 Aug 2025 11:27:02 GMT | Flying Secure: How the FAA and TSA Are Locking Down Drone Cybersecurity with NIST Standards | Brittney Ginther | [Read More](https://medium.com/p/ad92c93c41db) |
-| Mon, 11 Aug 2025 11:26:39 GMT | ️ The Case of the Hidden Endpoint: How Enumeration Unlocked a Tricky Vulnerability | Aftab Raja | [Read More](https://medium.com/p/7a43df46c4a1) |
-| Mon, 11 Aug 2025 11:26:29 GMT | Mastering Web Cache Deception Vulnerabilities: An Advanced Bug Hunter’s Guide | coffinxp | [Read More](https://medium.com/p/b7b500b482e3) |
-| Mon, 11 Aug 2025 11:26:15 GMT | 6 Things I Learned While Building an Incident Response Simulation (IR Sim 101) | Yug Shah | [Read More](https://medium.com/p/84dea0e900c3) |
-| Mon, 11 Aug 2025 11:26:11 GMT | WinRAR Zero-Day Under Active Exploitation — Update to Version 7.13 Now! | IamPreth | [Read More](https://medium.com/p/1ca23cd43ed5) |
-| Mon, 11 Aug 2025 11:25:49 GMT | OSCP vs. CISSP: Which Certification Should You Pursue? | Aj | [Read More](https://medium.com/p/0e60fea2e763) |
