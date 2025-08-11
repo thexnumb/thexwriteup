@@ -12,6 +12,40 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 09:28:16 GMT | The Technology Powering High-Performance Trading Terminals | LogiClump Technologies | [Read More](https://medium.com/p/c5c10e254fcc) |
+| Mon, 11 Aug 2025 09:25:32 GMT | Cybersecurity Resources: Accessing Valuable Information | Cyber Security Research | [Read More](https://medium.com/p/bf05e88f0eec) |
+| Mon, 11 Aug 2025 09:23:49 GMT | Cybersecurity Templates and Checklists: Improving Efficiency | Cyber Security Research | [Read More](https://medium.com/p/f1f6949bb0f4) |
+| Mon, 11 Aug 2025 09:21:15 GMT | Cybersecurity White Papers: Exploring In-Depth Topics | Cyber Security Research | [Read More](https://medium.com/p/22cbbae859e5) |
+| Mon, 11 Aug 2025 09:19:25 GMT | Cybersecurity Books: Learning from Leading Experts | Cyber Security Research | [Read More](https://medium.com/p/bccd242851e2) |
+| Mon, 11 Aug 2025 09:16:43 GMT | Cybersecurity Blogs and Newsletters: Following Industry Trends | Cyber Security Research | [Read More](https://medium.com/p/1c6a831581b8) |
+| Mon, 11 Aug 2025 09:15:25 GMT | Cybersecurity Conferences and Events: Staying Up-to-Date | Cyber Security Research | [Read More](https://medium.com/p/13980341b96d) |
+| Mon, 11 Aug 2025 09:13:39 GMT | Cybersecurity Community: Connecting with Other Professionals | Cyber Security Research | [Read More](https://medium.com/p/b9e70034da02) |
+| Mon, 11 Aug 2025 09:13:17 GMT | ANAKUS: BTLO Write-up | Erdem Ulu | [Read More](https://medium.com/p/695f0a1bd9b4) |
+| Mon, 11 Aug 2025 09:11:53 GMT | Farewell to Trusted Custody, Command Your Crypto Sovereignty: An In-Depth Look at the Digital… | Digital Shield Offcial | [Read More](https://medium.com/p/3f4332a60d3a) |
+| Mon, 11 Aug 2025 09:09:11 GMT | PortSwigger Lab: Blind OS Command Injection with Out-of-Band Interaction | Siddiquimohammad | [Read More](https://medium.com/p/9fd89350666a) |
+| Mon, 11 Aug 2025 09:08:58 GMT | So, You Wanna Be an Ethical Hacker? | SilentInject | [Read More](https://medium.com/p/f8e9fe617dd7) |
+| Mon, 11 Aug 2025 09:07:29 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/63b92d180455) |
+| Mon, 11 Aug 2025 09:05:48 GMT | Special Lecture I | unknownman | [Read More](https://medium.com/p/cd3ba111644b) |
+| Mon, 11 Aug 2025 09:05:32 GMT | Siri’s Betrayal: Is Your iPhone a Privacy Nightmare? | Truspex | [Read More](https://medium.com/p/e1dccbe1846a) |
+| Mon, 11 Aug 2025 09:03:47 GMT | The Butterfly That Outsmarted a Quantum Computer | TheCyberSalad | [Read More](https://medium.com/p/15dad1109ff6) |
+| Mon, 11 Aug 2025 09:03:31 GMT | Goodbye SOC Life: Is It Time To Move On? | Authlyn | [Read More](https://medium.com/p/3672fcff3879) |
+| Mon, 11 Aug 2025 09:00:44 GMT | Redirects to formLogin Occur in Spring Security and How to Handle Them Effectively | Anh Trần Tuấn | [Read More](https://medium.com/p/f8bd80d05396) |
+| Mon, 11 Aug 2025 09:00:42 GMT | Redirects to formLogin Occur in Spring Security and How to Handle Them Effectively | Anh Trần Tuấn | [Read More](https://medium.com/p/8d99160823a4) |
+| Mon, 11 Aug 2025 08:58:27 GMT | Best Apple MDM Software for Easy iOS Device Control | Vantage MDM | [Read More](https://medium.com/p/59ed403f24ec) |
+| Mon, 11 Aug 2025 08:57:28 GMT | Dockerizing MySQL and PostgreSQL for Performance: The Complete Guide That Will Transform Your… | Rizqi Mulki | [Read More](https://medium.com/p/93d2b78777f4) |
+| Mon, 11 Aug 2025 08:57:10 GMT | Using PgBouncer for Better Connection Management: The Secret Weapon That Will 10x Your PostgreSQL… | Rizqi Mulki | [Read More](https://medium.com/p/86e76e73f019) |
+| Mon, 11 Aug 2025 08:56:38 GMT | ChatGPT MacOS App stopped “Working with” | Robert-Rami Youssef | [Read More](https://medium.com/p/d39f82dc46ba) |
+| Mon, 11 Aug 2025 08:56:38 GMT | Fail-Proof Ways to Back Up Secure Databases: The $10 Million Lesson That Will Save Your Career | Rizqi Mulki | [Read More](https://medium.com/p/a7b851c91cee) |
+| Mon, 11 Aug 2025 08:53:38 GMT | Principles of Security - Tryhackme | Atakan Bitim | [Read More](https://medium.com/p/c48c58b6c01e) |
+| Mon, 11 Aug 2025 08:49:29 GMT | SafeLine WAF’s Dynamic Protection — A Hands-On Review | AerieWhole123 | [Read More](https://medium.com/p/6dc172460970) |
+| Mon, 11 Aug 2025 08:49:25 GMT | Free Cybersecurity Course? Is It Worth Your Time? | CtrlC3 | [Read More](https://medium.com/p/d349336f7bf3) |
+| Mon, 11 Aug 2025 08:48:31 GMT | 2025’s Top 10 Phishing Awareness Best Practices Every Business Should Know | Keepnet Labs | [Read More](https://medium.com/p/d1af8ec21a5b) |
+| Mon, 11 Aug 2025 08:44:35 GMT | Cracking the Future: How Hackers Toppled GPT-5’s Defenses | Pentestjunkie07 | [Read More](https://medium.com/p/8890f23ea16d) |
+| Mon, 11 Aug 2025 08:42:33 GMT | Phishing: The Complete Guide to Cyber Deception and Protection | Pragya Sapkota | [Read More](https://medium.com/p/76978730605c) |
+| Mon, 11 Aug 2025 08:42:00 GMT | Dịch vụ bảo vệ shop thời trang — Giải pháp an ninh chuyên nghiệp cho cửa hàng của bạn | DaiAnGroup | [Read More](https://medium.com/p/f905e8ca87d7) |
+| Mon, 11 Aug 2025 08:41:59 GMT | The Landscape of Security Data Modeling | Kristin Dahl | [Read More](https://medium.com/p/0e04efb7696d) |
+| Mon, 11 Aug 2025 08:36:40 GMT | Up and Running with GitHound for fast GitHub dorking in 5 mins https://github.com/tillson/git-hound | Tillson Galloway | [Read More](https://medium.com/p/5df7a4b55f37) |
+| Mon, 11 Aug 2025 08:34:00 GMT | Dịch vụ bảo vệ quán bar, pub, vũ trường — Giải pháp an ninh chuyên nghiệp | DaiAnGroup | [Read More](https://medium.com/p/fc6f99eb4d74) |
 | Mon, 11 Aug 2025 08:25:23 GMT | Home Security Systems Are Essential: Protecting Your Home the Smart Way | Acfalarm | [Read More](https://medium.com/p/d75a0195d773) |
 | Mon, 11 Aug 2025 08:17:02 GMT | Ask Adam: Navigating Corporate Politics and Offshore Outsourcing | Namir Sagheenanajar | [Read More](https://medium.com/p/d84eccac8da2) |
 | Mon, 11 Aug 2025 08:15:42 GMT | Uni Challenge — Web Security | Zeenya | [Read More](https://medium.com/p/f7e90741fd5c) |
@@ -78,37 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 05:48:03 GMT | Decoding Malware: A First Principles Approach to Visual Classification | Menelik | [Read More](https://medium.com/p/fe4668c69ecb) |
 | Mon, 11 Aug 2025 05:44:10 GMT | Portswigger Labs — CSRF | Ans Inayat | [Read More](https://medium.com/p/aae190abec37) |
 | Mon, 11 Aug 2025 05:43:52 GMT | Mirage HTB Machine Writeup | Ans Inayat | [Read More](https://medium.com/p/7015d35a198e) |
-| Mon, 11 Aug 2025 05:38:16 GMT | Structured Analytic Techniques: How to Analyze Threat Intelligence | Adam Goss | [Read More](https://medium.com/p/94f1a9286c82) |
-| Mon, 11 Aug 2025 05:32:34 GMT | What Is a Pretexting Attack? [Types, Examples, and Prevention Tips] | Hamza Hanif | [Read More](https://medium.com/p/b3b80c021fcb) |
-| Mon, 11 Aug 2025 05:32:25 GMT | Building and Deploying an AI-Powered Threat Detection System on AWS | Akuphe Dieudonne | [Read More](https://medium.com/p/b3bfe35e75c4) |
-| Mon, 11 Aug 2025 05:29:54 GMT | Preventing and Fixing Secret Leaks in Git Repos — A CloudOps Guide | CloudweldOps | [Read More](https://medium.com/p/e2110c0f99c1) |
-| Mon, 11 Aug 2025 05:25:55 GMT | Using Blockchain to Strengthen Data Security in 2025 | Vidushhi Panda | [Read More](https://medium.com/p/d397e8759e6c) |
-| Mon, 11 Aug 2025 05:23:50 GMT | Google Data Breach 2025 — Company Notifies Millions of Affected Users | Tarush Sharma | [Read More](https://medium.com/p/16a423d12478) |
-| Mon, 11 Aug 2025 05:17:13 GMT | Unknown Key-Share (UKS) Attacks in Cryptography: When Identities Get Twisted | Denys Popov | [Read More](https://medium.com/p/35606be50a9f) |
-| Mon, 11 Aug 2025 05:15:08 GMT | ExeQuantum and Notable Frontier Partner to Advance Post-Quantum Cryptography in Southeast Asia | ExeQuantum | [Read More](https://medium.com/p/18eba6a348b2) |
-| Mon, 11 Aug 2025 05:11:48 GMT | How to Stop a Layer 7 DDoS Without Losing Real Users ️ | Introvertdeveloper | [Read More](https://medium.com/p/ab50c125bb69) |
-| Mon, 11 Aug 2025 05:11:32 GMT | Thick Client Pen Testing: A Comprehensive Guide- Europe 2025 | QualysecEurope | [Read More](https://medium.com/p/ed89aba06b1c) |
-| Mon, 11 Aug 2025 05:08:50 GMT | Future-Proof your Security in Kuwait: Access Control | Tekshoyabeelyas | [Read More](https://medium.com/p/aa5297c02426) |
-| Mon, 11 Aug 2025 05:06:08 GMT | Axipro’s ISO 27001 Gap Analysis Process — Your Fast Track to Certification Confidence | Axipro | [Read More](https://medium.com/p/aeb453e7e819) |
-| Mon, 11 Aug 2025 05:04:42 GMT | Privacy vs. National Security: Can We Really Have Both? | Md Faiyaz Khan | [Read More](https://medium.com/p/ff80cfc1b5ba) |
-| Mon, 11 Aug 2025 05:00:32 GMT | From Code to Compliance: Security Enforcement Every Dev Need to Learn | Jothi Krishna | [Read More](https://medium.com/p/cd32f5ad85bc) |
-| Mon, 11 Aug 2025 04:58:13 GMT | WOOFi 해킹 사건 정밀 분석: $8.8M 피해 및 스마트 컨트랙트 취약점 분석 | 클로인트 가상자산 정보분석 센터(CIC) | [Read More](https://medium.com/p/f551d59b33f6) |
-| Mon, 11 Aug 2025 04:56:50 GMT | Enumeration CTF 1 | Hejackson | [Read More](https://medium.com/p/442203bfc1b5) |
-| Mon, 11 Aug 2025 04:51:08 GMT | SMT Program 2025 Journal — Expert Lecture 2 | Sarah | [Read More](https://medium.com/p/b41366c1df16) |
-| Mon, 11 Aug 2025 04:41:38 GMT | The Linux Process Journey — rmmod (Remove Kernel Module) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d772f10d0adb) |
-| Mon, 11 Aug 2025 04:40:32 GMT | Mirror, Mirror in the Cache: The Day I Became a Digital Pickpocket | Iski | [Read More](https://medium.com/p/ce695a86dc87) |
-| Mon, 11 Aug 2025 04:34:31 GMT | GPT-5 Jailbroken in Under 24 Hours: Critical Security Vulnerabilities and Essential Insights | NeuralNikitha | [Read More](https://medium.com/p/a22d433f97ac) |
-| Mon, 11 Aug 2025 04:21:56 GMT | TheFatRat: Crafting Cross-Platform Backdoors for Ethical Red Team Operations | Javier Calderon Jr | [Read More](https://medium.com/p/f6e49166255e) |
-| Mon, 11 Aug 2025 04:17:33 GMT | How to build Failure Resistant System | Rue | [Read More](https://medium.com/p/a3f047c43fb4) |
-| Mon, 11 Aug 2025 04:13:48 GMT | A Deep Dive into Pipeline Injection Attacks: Designing a Red Team Framework for GitHub Actions | Batuhan Sancak | [Read More](https://medium.com/p/22f9ddb25d19) |
-| Mon, 11 Aug 2025 04:05:11 GMT | The Coming Drone Era: Why Drones Will Soon Be Everywhere | Robert Schryvers ChT | [Read More](https://medium.com/p/35bf0add75c8) |
-| Mon, 11 Aug 2025 04:01:48 GMT | No Surprises: The Dangers of Dynamically Loaded Code | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/82fe7257e46a) |
-| Mon, 11 Aug 2025 03:49:41 GMT | HTTP/1 vs HTTP/2 vs HTTP/3 | Dhanush N | [Read More](https://medium.com/p/8361f7a1e79a) |
-| Mon, 11 Aug 2025 03:44:47 GMT | How to Run Multiple Linux Machines on macOS the Easy Way with LimaCTL | M Sadewa Wicaksana | [Read More](https://medium.com/p/42bf953cd89d) |
-| Mon, 11 Aug 2025 03:43:33 GMT | Quantum Attacks: The Next Cybersecurity Threat | Dukerearing | [Read More](https://medium.com/p/47e9fedb1313) |
-| Mon, 11 Aug 2025 03:43:08 GMT | These Cybersecurity Platforms Are FREE (and Worth Your Time) | Paritosh | [Read More](https://medium.com/p/0f3e787a83e6) |
-| Mon, 11 Aug 2025 03:40:20 GMT | AI Voice Cloning Scams: The Next Big Cybersecurity Threat. | Tek News Feed | [Read More](https://medium.com/p/a86ec1eabcf8) |
-| Mon, 11 Aug 2025 03:33:00 GMT | Summary of the “CISSP” exam : — ( | Bad Request | [Read More](https://medium.com/p/fc949ad40527) |
-| Mon, 11 Aug 2025 03:31:37 GMT | Survival Guide for the Average Software Engineer | Cinto | [Read More](https://medium.com/p/472cd1e476cc) |
-| Mon, 11 Aug 2025 03:26:16 GMT | Forensics - picoGym - Torrent Analyze | Flower Bed | [Read More](https://medium.com/p/82dc73e0ed35) |
-| Mon, 11 Aug 2025 03:17:13 GMT | Email Analysis: What Security Analysts Look For! | Joseph A. M. | [Read More](https://medium.com/p/18cb746446a4) |
