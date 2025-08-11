@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 22:37:43 GMT | Dockerlabs — Grooti [Write-Up] | APS88 | [Read More](https://medium.com/p/e27a1d3ce95b) |
+| Mon, 11 Aug 2025 22:34:19 GMT | Policy as Code: From Concept to Control | Lionel Owono | [Read More](https://medium.com/p/56c17136b67f) |
+| Mon, 11 Aug 2025 22:28:24 GMT | Secure your RAG with LangChain — a step-by-step, minimal working guide (with code) | Lionel Owono | [Read More](https://medium.com/p/7c626dbb1bf0) |
+| Mon, 11 Aug 2025 22:15:04 GMT | Guardrails — Designing AI Invisible Safety Nets | Lionel Owono | [Read More](https://medium.com/p/9ebc595f8e7f) |
 | Mon, 11 Aug 2025 22:13:03 GMT | The Hidden Fight: How Crypto Scams Hurt India’s Digital Future | Mohd Yaseen Khan | [Read More](https://medium.com/p/fdaa340ce07a) |
 | Mon, 11 Aug 2025 22:12:09 GMT | A Crypto Regulation Surge: Trump’s 401(k) Crypto Boost and SEC’s Liquid Staking Nod | Awobodu Daniel | [Read More](https://medium.com/p/84664d8c6f1e) |
 | Mon, 11 Aug 2025 22:05:30 GMT | Up and Running with GitHound for secret scanning in 5 minutes | Tillson Galloway | [Read More](https://medium.com/p/e644890e9e16) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 16:06:57 GMT | Computer Networking -2 | Amara Raja | [Read More](https://medium.com/p/0bde715ca357) |
 | Mon, 11 Aug 2025 16:00:34 GMT | ISMAP Management Standards Chapter 14: Key Points for Safely Developing Systems — “System… | nolly | [Read More](https://medium.com/p/04c18b2c25b7) |
 | Mon, 11 Aug 2025 15:59:02 GMT | HashiCorp Vault: Docker ile Kurulum, API Kullanımı ve .NET Entegrasyonu | Mustafa Dikyar | [Read More](https://medium.com/p/2e6e7d55c21c) |
-| Mon, 11 Aug 2025 15:58:03 GMT | A Question of Sovereignty - Securing the Locus of Authority in Managed Kubernetes | Above The Firewall | [Read More](https://medium.com/p/8187bc189a89) |
-| Mon, 11 Aug 2025 15:56:15 GMT | Trend Micro Apex One On-Premise Critical Vulnerabilities | _Anirudh_ | [Read More](https://medium.com/p/fca9d6f9bc01) |
-| Mon, 11 Aug 2025 15:53:16 GMT | Secure Coding Part 9— Command Injection Attack: Python exec() & Seccomp to the rescue | Siddiquimohammad | [Read More](https://medium.com/p/7e9a9828ab4d) |
-| Mon, 11 Aug 2025 15:40:48 GMT | How Did Ukraine Turn the Russian Tax System into a Battlefield? | Stefan Markov | [Read More](https://medium.com/p/8b5c8041c730) |
