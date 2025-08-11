@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 03:43:08 GMT | These Cybersecurity Platforms Are FREE (and Worth Your Time) | Paritosh | [Read More](https://medium.com/p/0f3e787a83e6) |
+| Mon, 11 Aug 2025 03:33:00 GMT | Summary of the “CISSP” exam : — ( | Bad Request | [Read More](https://medium.com/p/fc949ad40527) |
+| Mon, 11 Aug 2025 03:31:37 GMT | Survival Guide for the Average Software Engineer | Cinto | [Read More](https://medium.com/p/472cd1e476cc) |
+| Mon, 11 Aug 2025 03:26:16 GMT | Forensics - picoGym - Torrent Analyze | Flower Bed | [Read More](https://medium.com/p/82dc73e0ed35) |
+| Mon, 11 Aug 2025 03:17:13 GMT | Email Analysis: What Security Analysts Look For! | Joseph A. M. | [Read More](https://medium.com/p/18cb746446a4) |
+| Mon, 11 Aug 2025 03:14:42 GMT | Day 28- Understanding Permissions of Windows & Linux File Permissions | unica 02 | [Read More](https://medium.com/p/1b73003cee0e) |
+| Mon, 11 Aug 2025 03:08:51 GMT | Open Redirect unvalidated redirect & Forward | veliadevs | [Read More](https://medium.com/p/92f13ff8de6f) |
+| Mon, 11 Aug 2025 03:07:04 GMT | Building a basic Cyber Risk Quantification Agent using Google ADK | Rishubh | [Read More](https://medium.com/p/6b1de0343bf5) |
+| Mon, 11 Aug 2025 03:04:13 GMT | 09039689679 | شماره خاله شماره خاله | [Read More](https://medium.com/p/113631682fa4) |
+| Mon, 11 Aug 2025 02:46:00 GMT | How I Created a Defender XDR Custom Rule to Catch 5 Antivirus Alerts in Just 1 Minute | Hanan S. | [Read More](https://medium.com/p/b819cccb9ba4) |
+| Mon, 11 Aug 2025 02:17:38 GMT | Forensics - picoGym - advanced-potion-making | Flower Bed | [Read More](https://medium.com/p/d3b87aa7d99a) |
+| Mon, 11 Aug 2025 02:01:25 GMT | Types Oh Hackers: Who’s Good & Bad | Alex Carter | [Read More](https://medium.com/p/e41cd290338c) |
 | Mon, 11 Aug 2025 01:31:27 GMT | What Music Festivals Taught Me About Zero Trust | Blas | [Read More](https://medium.com/p/a814bf98756b) |
 | Mon, 11 Aug 2025 01:28:58 GMT | خاله تهران شماره خاله شیراز شماره خاله کرج شماره داف شماره داف تهران شماره کوص شماره جنده شماره… | شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس | [Read More](https://medium.com/p/f1d516c2273d) |
 | Mon, 11 Aug 2025 01:28:43 GMT | Cryptobric: Implementation of Malicious Bot Reporting Feature Completed | Cloudbric | [Read More](https://medium.com/p/df9109e8dcaa) |
@@ -101,15 +113,3 @@ How Drive’s… | Kayvan Shah | [Read More](https://medium.com/p/79eea744d90d) 
 | Sun, 10 Aug 2025 16:43:54 GMT | Collateral Damage | Robert Vamosi | [Read More](https://medium.com/p/629db10a8147) |
 | Sun, 10 Aug 2025 16:43:47 GMT | The 2025 U.S. Federal Court Filing System Breach: A Political, Economic, and Technical Breakdown | Motasem Hamdan | [Read More](https://medium.com/p/1ba3ff01fa71) |
 | Sun, 10 Aug 2025 16:37:04 GMT | The Rust Bug That Nearly Ended Our Release (And the One Line That Saved It) | SyntaxSavage | [Read More](https://medium.com/p/3e2bc73ef70c) |
-| Sun, 10 Aug 2025 16:36:15 GMT | Hacking Cruise Ships and Data Centers | Robert Vamosi | [Read More](https://medium.com/p/eb8b2ffe6de3) |
-| Sun, 10 Aug 2025 16:29:20 GMT | Yes, Two-Factor Authentication Can Be Hacked — But Use It Anyway (Here’s Why) | Faizan Saghir | [Read More](https://medium.com/p/884d311b1320) |
-| Sun, 10 Aug 2025 16:28:01 GMT | Editor—Easy HTB Challenge | Haitham Aljabbari | [Read More](https://medium.com/p/511741914dec) |
-| Sun, 10 Aug 2025 16:27:33 GMT | HTB Outbound | 77r4sed | [Read More](https://medium.com/p/29827dfc9dd1) |
-| Sun, 10 Aug 2025 16:26:21 GMT | [HackTheBox Sherlocks Write-up] Compromised (Analyzing Network Traffic from a Pikabot Compromise) | Chicken0248 | [Read More](https://medium.com/p/d1ec5888e2e7) |
-| Sun, 10 Aug 2025 16:25:38 GMT | [HackTheBox Sherlocks Write-up] Takedown (VBS script leads to DarkGate malware) | Chicken0248 | [Read More](https://medium.com/p/cc1fdf275698) |
-| Sun, 10 Aug 2025 16:20:30 GMT | Navigating the Future: Docker and Portainer in the Data Landscape | TJUpcomingTechMoney | [Read More](https://medium.com/p/fa422b804993) |
-| Sun, 10 Aug 2025 16:16:06 GMT | Maritime Cyber Resilience Brief — Comparative Insights (3-Part Series) | Tony Shin | [Read More](https://medium.com/p/9219a32028ac) |
-| Sun, 10 Aug 2025 16:15:56 GMT | Submission Guidelines — CyberScribers | Stefan Bargan | [Read More](https://medium.com/p/8b11a51afc19) |
-| Sun, 10 Aug 2025 16:13:15 GMT | How to Integrate AI APIs (e.g. ChatGPT) to Build Productive Apps | Ekanayake YM | [Read More](https://medium.com/p/84e165ac3031) |
-| Sun, 10 Aug 2025 16:09:13 GMT | Universal Plug and Play (UPnP) Protocol — The Good, The Bad, and The Vulnerable! | Mohamed Ibrahim | [Read More](https://medium.com/p/0e312661c7c9) |
-| Sun, 10 Aug 2025 16:08:43 GMT | Maritime Cyber Resilience Brief — Comparative Insights (3-Part Series) | Tony Shin | [Read More](https://medium.com/p/718cb96c90d5) |
