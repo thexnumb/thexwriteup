@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 20:18:06 GMT | How AI-Generated Phishing is Evolving and Bypassing Traditional Filters | Yashasvi Sharma | [Read More](https://medium.com/p/3c1e3b86eda9) |
+| Mon, 11 Aug 2025 20:17:36 GMT | Real-World Breaches Mapped to OWASP Top 10 | Nima Bargestan | [Read More](https://medium.com/p/fcda69bcbe94) |
+| Mon, 11 Aug 2025 20:15:48 GMT | From Misconfiguration to Mandate: Exchange, SonicWall, and the Strategic Cost of Incomplete… | James Wright | [Read More](https://medium.com/p/ea5f72bc3f2d) |
+| Mon, 11 Aug 2025 20:15:03 GMT | Co-Piloting an AI Pentester to hack a Domain Controller | Daniel Knight | [Read More](https://medium.com/p/0e96773f60d9) |
+| Mon, 11 Aug 2025 20:02:46 GMT | Malware Analysis: Keylogger | Joseph A. M. | [Read More](https://medium.com/p/88477ca26009) |
+| Mon, 11 Aug 2025 19:53:16 GMT | Day 42 — IPv4 & Obfuscated Domain Detection with YARA | Jinay | [Read More](https://medium.com/p/224226553c52) |
+| Mon, 11 Aug 2025 19:51:58 GMT | Portswigger Essential-skills Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/5387e5896eab) |
+| Mon, 11 Aug 2025 19:49:50 GMT | Geoeconomic fragmentation makes managing global risks like climate, cyber, and pandemic risks | Oleg Parashchak | [Read More](https://medium.com/p/7fa5053bb27d) |
+| Mon, 11 Aug 2025 19:49:31 GMT | NETWORK ENUMERATION — NMAP | PARADOX | [Read More](https://medium.com/p/6018ef8a7556) |
+| Mon, 11 Aug 2025 19:38:34 GMT | 9. Why People Respect You More When You’re Honest, Not Perfect | Roj Ink | [Read More](https://medium.com/p/e9e3baab8116) |
+| Mon, 11 Aug 2025 19:37:55 GMT | Building a Honeypot in Microsoft Azure and Tracking Attacks via Geolocation | Cell | [Read More](https://medium.com/p/f99c533b62b0) |
+| Mon, 11 Aug 2025 19:33:11 GMT | AlexLab, LNDFi, MBU: $12M Lost to Access Flaws, Insider Keys, and Decimal Drift | Olympix | [Read More](https://medium.com/p/9a1c7cb34bf1) |
+| Mon, 11 Aug 2025 19:31:44 GMT | Dexodus, Zora, Numa: $946K Lost to Replays, Access Bugs, and Locked-in Prices | Olympix | [Read More](https://medium.com/p/40c37b78391c) |
 | Mon, 11 Aug 2025 19:31:01 GMT | Portswigger Server-Side Request Forgery (SSRF) Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/1a9782bf775a) |
 | Mon, 11 Aug 2025 19:31:01 GMT | Portswigger Server-Side Request Forgery (SSRF) Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/dc4c6a0802d7) |
 | Mon, 11 Aug 2025 19:31:01 GMT | Portswigger Server-Side Request Forgery (SSRF) Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/68066b696b0c) |
+| Mon, 11 Aug 2025 19:30:05 GMT | KiloEx, Nitron, and Alkimiya Lose $8.4M: No Checks, No Controls, No Excuses | Olympix | [Read More](https://medium.com/p/c42eef8bdc15) |
 | Mon, 11 Aug 2025 19:27:52 GMT | Beyond PCI and HIPAA: How Feroot Powers Australian Privacy Act (APA) Compliance | Feroot Security | [Read More](https://medium.com/p/ecbc9e82a872) |
 | Mon, 11 Aug 2025 19:04:40 GMT | Mr Robot CTF | Meena A | [Read More](https://medium.com/p/03ddea5c50c3) |
 | Mon, 11 Aug 2025 19:00:59 GMT | Car Hacking Is Real — And Automotive Penetration Testing Is How We Fight Back | DefenceRabbit | [Read More](https://medium.com/p/3cf7719f4c43) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 14:53:17 GMT | Network API Forecast for Explosive Growth | David H. Deans | [Read More](https://medium.com/p/d456494560e7) |
 | Mon, 11 Aug 2025 14:49:33 GMT | Cyber Snack Day-3 | Anwar_Nainar | [Read More](https://medium.com/p/80f108734765) |
 | Mon, 11 Aug 2025 14:47:54 GMT | Active Exploitation of WinRAR Zero-Day (CVE-2025–8088) — Immediate Update Recommended | RealSec.io | [Read More](https://medium.com/p/f5030deae3c9) |
-| Mon, 11 Aug 2025 14:36:42 GMT | MrRobot CTF | TheSocialHacker | [Read More](https://medium.com/p/1d09a0830e69) |
-| Mon, 11 Aug 2025 14:36:39 GMT | Activity 1: Linux Challenge | Matthew Benedict A. Olanda | [Read More](https://medium.com/p/5a5498f863f6) |
-| Mon, 11 Aug 2025 14:35:08 GMT | How data is stored in SIEM solution? | Devaaravindlutukurty | [Read More](https://medium.com/p/d6344c14ba32) |
-| Mon, 11 Aug 2025 14:31:43 GMT | (Comptia A+) Understanding and Configuring Local Security Policies in Windows | Vignesh R | [Read More](https://medium.com/p/c5ca26d08331) |
-| Mon, 11 Aug 2025 14:31:05 GMT | Scamrecovery | Darren J. Warren | [Read More](https://medium.com/p/346006413e44) |
-| Mon, 11 Aug 2025 14:27:19 GMT | How Trump’s Pakistan Tilt Could Reshape South Asia’s Cybersecurity | Sitinoldae | [Read More](https://medium.com/p/00934ab091e9) |
-| Mon, 11 Aug 2025 14:26:18 GMT | New WinRAR Zero-Day Vulnerability Exploited in Active Attacks (CVE-2025–8088) | Hafiz Shamnad | [Read More](https://medium.com/p/0d7d9cabcf8e) |
-| Mon, 11 Aug 2025 14:26:16 GMT | IDOR in GOV.UK — Delete 10 million Appeal Case In JastOne Click | whiterose | [Read More](https://medium.com/p/6e45117cf727) |
-| Mon, 11 Aug 2025 14:20:43 GMT | I Checked My Email on a Breach-Tracking Site — The Results Shocked Me | mizz | [Read More](https://medium.com/p/8306e4d46a64) |
-| Mon, 11 Aug 2025 14:16:21 GMT | Control Flow Integrity (CFI) | Zeyadsalah | [Read More](https://medium.com/p/02adba3181ce) |
-| Mon, 11 Aug 2025 14:12:34 GMT | HTTP request smuggling, confirming a TE.CL vulnerability via differential responses | mattyerz | [Read More](https://medium.com/p/835c1a764d51) |
-| Mon, 11 Aug 2025 14:09:48 GMT | Stop Reaching for IAM Keys: Better Ways to Access AWS Services | Mochamad Gufron | [Read More](https://medium.com/p/afbf6fa1aa71) |
-| Mon, 11 Aug 2025 14:06:01 GMT | Cyber Security Training Courses for the Finance Industry: Why They’re Critical in 2025 and Where to… | Paul Meyer | [Read More](https://medium.com/p/6125124b9ffe) |
-| Mon, 11 Aug 2025 14:01:50 GMT | Cyber Briefing: 2025.08.11 | CyberMaterial | [Read More](https://medium.com/p/30af23664011) |
