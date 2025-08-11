@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 15:24:11 GMT | Increasing the Impact of Blind XSS When Triggered in Electron.js Apps | Lachhamza | [Read More](https://medium.com/p/12df2f49a896) |
+| Mon, 11 Aug 2025 15:18:37 GMT | How an unauthenticated attacker can create a WordPress admin account in seconds | Dardan Hasani | [Read More](https://medium.com/p/22efdacd1df0) |
+| Mon, 11 Aug 2025 15:16:47 GMT | How LeakScan Helped Me Discover Hidden Risks on My Website | finn | [Read More](https://medium.com/p/2807c3023cfb) |
+| Mon, 11 Aug 2025 15:16:19 GMT | Leveraging Printer SMB Functionality in Network Penetration Testing: A Case Study | 0xZox | [Read More](https://medium.com/p/7cd5a7e0df17) |
+| Mon, 11 Aug 2025 15:14:35 GMT | How a Misspelled Email Almost Cost Me $50,000 (And the One Detail That Exposed Everything) | Shahzaib | [Read More](https://medium.com/p/135e13ffaaf3) |
+| Mon, 11 Aug 2025 15:12:01 GMT | What SMBs Get Wrong About Managed IT: Debunking the Most Costly Assumptions | CoopSys | [Read More](https://medium.com/p/0f4b559069b2) |
+| Mon, 11 Aug 2025 15:10:59 GMT | The Broken Marchioness: What a Woman Needs Most | Bill Myers | [Read More](https://medium.com/p/ac2ffa414cd6) |
+| Mon, 11 Aug 2025 15:10:11 GMT | My Journey Uncovering The Hidden SSRF Flaw CVE 2020 10770 | Ibtissam hammadi | [Read More](https://medium.com/p/8394c57ed459) |
+| Mon, 11 Aug 2025 15:09:16 GMT | Antivirus vs Antimalware: What’s the Difference? | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/6dd5636a44ae) |
+| Mon, 11 Aug 2025 15:08:52 GMT | Week 2: The Birth of Modern Security | Joshua O. Berkoh | [Read More](https://medium.com/p/60d258b8579b) |
+| Mon, 11 Aug 2025 15:07:58 GMT | A New Deceptive AI Threat: Analyzing the ScamAgent Paper with the CDCL Framework | Berend Watchus | [Read More](https://medium.com/p/00664dca7792) |
+| Mon, 11 Aug 2025 15:06:14 GMT | How to Secure Your Terraform Configs from Supply Chain Attacks | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/8f1cc725a40c) |
+| Mon, 11 Aug 2025 15:02:30 GMT | Fast & Easy MFA and SSO Setup with Rainbow Secure: Secure Your Business in Hours, Not Weeks | Dr. Shashi Karhail | [Read More](https://medium.com/p/ffcc65363b07) |
+| Mon, 11 Aug 2025 15:02:16 GMT | Algorithms: The Secret Handshake of Modern Technology | CapitalCoin | [Read More](https://medium.com/p/eb16a58981b8) |
+| Mon, 11 Aug 2025 14:55:38 GMT | HTB Precious Machine — walkthrough for beginners | SeverSerenity | [Read More](https://medium.com/p/528a8a27b443) |
+| Mon, 11 Aug 2025 14:55:35 GMT | WTF is binary exploitation | Zeyadsalah | [Read More](https://medium.com/p/ba1d3e6ec0e3) |
+| Mon, 11 Aug 2025 14:53:17 GMT | Network API Forecast for Explosive Growth | David H. Deans | [Read More](https://medium.com/p/d456494560e7) |
+| Mon, 11 Aug 2025 14:49:33 GMT | Cyber Snack Day-3 | Anwar_Nainar | [Read More](https://medium.com/p/80f108734765) |
+| Mon, 11 Aug 2025 14:47:54 GMT | Active Exploitation of WinRAR Zero-Day (CVE-2025–8088) — Immediate Update Recommended | RealSec.io | [Read More](https://medium.com/p/f5030deae3c9) |
 | Mon, 11 Aug 2025 14:36:42 GMT | MrRobot CTF | TheSocialHacker | [Read More](https://medium.com/p/1d09a0830e69) |
 | Mon, 11 Aug 2025 14:36:39 GMT | Activity 1: Linux Challenge | Matthew Benedict A. Olanda | [Read More](https://medium.com/p/5a5498f863f6) |
 | Mon, 11 Aug 2025 14:35:08 GMT | How data is stored in SIEM solution? | Devaaravindlutukurty | [Read More](https://medium.com/p/d6344c14ba32) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 11:17:41 GMT | ElitePips FX Exposed: Why You Should Avoid This Broker. | Green W. | [Read More](https://medium.com/p/3f0b6e6363b4) |
 | Mon, 11 Aug 2025 11:17:22 GMT | SQL Injection: A Detailed Guide to Programming and Prevention | GMM | [Read More](https://medium.com/p/ddbe6430d790) |
 | Mon, 11 Aug 2025 11:16:20 GMT | CORS Explained for Java and Spring Developers | Code Wiz | [Read More](https://medium.com/p/e4522eec83b1) |
-| Mon, 11 Aug 2025 11:14:52 GMT | Natas 0 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/3b3153476d7e) |
-| Mon, 11 Aug 2025 11:10:42 GMT | SMT Program 2025 — Special Lecture 1 Journal: OSINT- Knowing Without Breaching | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/3c24b04755c9) |
-| Mon, 11 Aug 2025 11:08:46 GMT | DockerLabs Writeup — ChatMe (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3dfa8a6f7724) |
-| Mon, 11 Aug 2025 10:58:10 GMT | How to Prevent Data Theft: Best Practices for Protecting Your Digital Assets | Amit solanki | [Read More](https://medium.com/p/b45257a6b76d) |
-| Mon, 11 Aug 2025 10:46:56 GMT | Discovering PII Data in Databricks with discoverx | Alwyn DSouza | [Read More](https://medium.com/p/8a1f525b1fb1) |
-| Mon, 11 Aug 2025 10:46:23 GMT | Automating Security Operations with SOAR: TryHackMe “SOAR” Room Walkthrough | Furkanctiner | [Read More](https://medium.com/p/71ddec98a1f9) |
-| Mon, 11 Aug 2025 10:38:14 GMT | How I created a Home Lab on Endpoint Detection Tool, TCP view. | Samuel Jack | [Read More](https://medium.com/p/965763b46e82) |
-| Mon, 11 Aug 2025 10:37:40 GMT | Do You Think You Know OSINT? Stalking Your Ex Isn’t Part of It. Think Again. | Afwan Mulia Pratama | [Read More](https://medium.com/p/437ee5763b47) |
-| Mon, 11 Aug 2025 10:37:10 GMT | Aurora EDR — A Lightweight & Powerful Sigma-Based EDR Tool | Furkanctiner | [Read More](https://medium.com/p/91c8e876162e) |
-| Mon, 11 Aug 2025 10:36:21 GMT | Securing Kuwait’s Financial Future: Data Center Trust in Every Transaction | expbhavya | [Read More](https://medium.com/p/0cfe47f10e08) |
-| Mon, 11 Aug 2025 10:36:08 GMT | It is now essential to protect your commercial building in the fast-paced, security-conscious… | Berkshire Hathaway | [Read More](https://medium.com/p/3f841ca2e0f0) |
-| Mon, 11 Aug 2025 10:32:44 GMT | Are Cloud Computing, Cybersecurity, or Data Science Relevant for Mechanical Engineering Students? | BIT Blogs | [Read More](https://medium.com/p/f0b4cc349f7e) |
-| Mon, 11 Aug 2025 10:26:15 GMT | New types of Turing tests: Beyond text | Berend Watchus | [Read More](https://medium.com/p/e739bcfd1a77) |
-| Mon, 11 Aug 2025 10:26:10 GMT | CTI Diaries — 2: Thinking in Models, Not Alerts | Deniz Topaloglu | [Read More](https://medium.com/p/a53014cb7bb5) |
-| Mon, 11 Aug 2025 10:22:25 GMT | Why Tests Aren’t Enough (And What Actually Keeps Code Safe) | Geetesh Laddha | [Read More](https://medium.com/p/4c57336d2ee2) |
-| Mon, 11 Aug 2025 10:21:44 GMT | The Story of You & I | KAYLA DIOR | [Read More](https://medium.com/p/4f142d24128a) |
-| Mon, 11 Aug 2025 10:20:09 GMT | Getting Started With Hardware Hacking: Your Beginner’s Toolkit | Redfox Security | [Read More](https://medium.com/p/ba019dd199fd) |
-| Mon, 11 Aug 2025 10:18:05 GMT | My Journey to Finding an IDOR Vulnerability — And the Lessons It Taught Me | Priyansh | [Read More](https://medium.com/p/06df46b386a8) |
-| Mon, 11 Aug 2025 10:16:57 GMT | Cybersecurity in the Quantum Era: Protecting Data Against Next-Gen Threats | Olatunde Aboaba | [Read More](https://medium.com/p/db774ce89215) |
