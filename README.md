@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 08:25:23 GMT | Home Security Systems Are Essential: Protecting Your Home the Smart Way | Acfalarm | [Read More](https://medium.com/p/d75a0195d773) |
+| Mon, 11 Aug 2025 08:17:02 GMT | Ask Adam: Navigating Corporate Politics and Offshore Outsourcing | Namir Sagheenanajar | [Read More](https://medium.com/p/d84eccac8da2) |
+| Mon, 11 Aug 2025 08:15:42 GMT | Uni Challenge — Web Security | Zeenya | [Read More](https://medium.com/p/f7e90741fd5c) |
+| Mon, 11 Aug 2025 08:13:20 GMT | Understanding the “Remediate Threats” Tab in Sublime Security | Dean | [Read More](https://medium.com/p/10e1f7d4362e) |
+| Mon, 11 Aug 2025 08:02:16 GMT | What an Expert Lecture Taught Me About Cybersecurity: It’s Not Just About the Tech - SMT Program… | Abrar Ikramaputra | [Read More](https://medium.com/p/49235372d2b8) |
+| Mon, 11 Aug 2025 08:01:47 GMT | How to Prevent Data Theft: Best Practices for Protecting Your Digital Assets | Amit solanki | [Read More](https://medium.com/p/756f5dbf718f) |
+| Mon, 11 Aug 2025 08:01:46 GMT | Global Web Performance Optimization Market Report 2025–2030: Driving Seamless Digital Interactions | Arjun Nair | [Read More](https://medium.com/p/3e918673b272) |
+| Mon, 11 Aug 2025 08:01:07 GMT | Security ROI: How Early Credential Detection Pays for Itself | Alexandre Vandamme | [Read More](https://medium.com/p/7d5dedbadf17) |
+| Mon, 11 Aug 2025 08:00:35 GMT | Alexa, Stop That Hacker! | Yash Gorasiya | [Read More](https://medium.com/p/6fb99cad82e2) |
+| Mon, 11 Aug 2025 08:00:23 GMT | The Invisible Threat: Container Drift and Real-Time Compliance — A Senior DevOps Playbook | Mohamed ElEmam | [Read More](https://medium.com/p/b6a26eb29580) |
+| Mon, 11 Aug 2025 07:58:28 GMT | Why your company need IT AMC Services in Dubai? | Cost To Cost | [Read More](https://medium.com/p/1a3d0a27ec37) |
+| Mon, 11 Aug 2025 07:56:18 GMT | What’s the Smartest Way to Select Managed SOC & XDR Cybersecurity Solutions? | Vijilan | [Read More](https://medium.com/p/71d5a3f0a0e6) |
+| Mon, 11 Aug 2025 07:54:11 GMT | Pinpointing the Exact Payload That Triggers a Burp Collaborator Hit | Siddiquimohammad | [Read More](https://medium.com/p/6735028c6395) |
+| Mon, 11 Aug 2025 07:52:56 GMT | Appsec Traffic Analysis. | Richard Ndung'u | [Read More](https://medium.com/p/4685ac3c240c) |
+| Mon, 11 Aug 2025 07:50:38 GMT | How I Found an XSS Vulnerability in the BMKG Website and Earned a Certificate at 13 Years Old | OziXploit | [Read More](https://medium.com/p/c2cd1988efd1) |
+| Mon, 11 Aug 2025 07:47:14 GMT | The Weakest Link: Why Vulnerability Governance Is the Cornerstone of Modern Cybersecurity | Ivander “Andreas” Wijaya | [Read More](https://medium.com/p/c296ccaeb057) |
+| Mon, 11 Aug 2025 07:46:53 GMT | ️ Web3 Security Weekly — Aug 4–10, 2025 | Null Return | [Read More](https://medium.com/p/f6c84b9cad14) |
+| Mon, 11 Aug 2025 07:46:35 GMT | Urgent News: Zero-Day Exploit | Percy Edward | [Read More](https://medium.com/p/923f08eea5e2) |
 | Mon, 11 Aug 2025 07:44:18 GMT | tar.gz | Haldian | [Read More](https://medium.com/p/a79fd5df43e1) |
 | Mon, 11 Aug 2025 07:44:10 GMT | Cyber Security: Essential Tips to Protect Yourself Online | Cyberfortress solutions | [Read More](https://medium.com/p/6642c67bc54d) |
 | Mon, 11 Aug 2025 07:41:16 GMT | How I Found an XSS Vulnerability in the KPK Website and Earned a Certificate at 13 Years Old | OziXploit | [Read More](https://medium.com/p/fc59fde71f82) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 03:31:37 GMT | Survival Guide for the Average Software Engineer | Cinto | [Read More](https://medium.com/p/472cd1e476cc) |
 | Mon, 11 Aug 2025 03:26:16 GMT | Forensics - picoGym - Torrent Analyze | Flower Bed | [Read More](https://medium.com/p/82dc73e0ed35) |
 | Mon, 11 Aug 2025 03:17:13 GMT | Email Analysis: What Security Analysts Look For! | Joseph A. M. | [Read More](https://medium.com/p/18cb746446a4) |
-| Mon, 11 Aug 2025 03:14:42 GMT | Day 28- Understanding Permissions of Windows & Linux File Permissions | unica 02 | [Read More](https://medium.com/p/1b73003cee0e) |
-| Mon, 11 Aug 2025 03:08:51 GMT | Open Redirect unvalidated redirect & Forward | veliadevs | [Read More](https://medium.com/p/92f13ff8de6f) |
-| Mon, 11 Aug 2025 03:07:04 GMT | Building a basic Cyber Risk Quantification Agent using Google ADK | Rishubh | [Read More](https://medium.com/p/6b1de0343bf5) |
-| Mon, 11 Aug 2025 03:04:13 GMT | 09039689679 | شماره خاله شماره خاله | [Read More](https://medium.com/p/113631682fa4) |
-| Mon, 11 Aug 2025 02:46:00 GMT | How I Created a Defender XDR Custom Rule to Catch 5 Antivirus Alerts in Just 1 Minute | Hanan S. | [Read More](https://medium.com/p/b819cccb9ba4) |
-| Mon, 11 Aug 2025 02:17:38 GMT | Forensics - picoGym - advanced-potion-making | Flower Bed | [Read More](https://medium.com/p/d3b87aa7d99a) |
-| Mon, 11 Aug 2025 02:01:25 GMT | Types Oh Hackers: Who’s Good & Bad | Alex Carter | [Read More](https://medium.com/p/e41cd290338c) |
-| Mon, 11 Aug 2025 01:31:27 GMT | What Music Festivals Taught Me About Zero Trust | Blas | [Read More](https://medium.com/p/a814bf98756b) |
-| Mon, 11 Aug 2025 01:28:58 GMT | خاله تهران شماره خاله شیراز شماره خاله کرج شماره داف شماره داف تهران شماره کوص شماره جنده شماره… | شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس | [Read More](https://medium.com/p/f1d516c2273d) |
-| Mon, 11 Aug 2025 01:28:43 GMT | Cryptobric: Implementation of Malicious Bot Reporting Feature Completed | Cloudbric | [Read More](https://medium.com/p/df9109e8dcaa) |
-| Mon, 11 Aug 2025 01:17:47 GMT | HackTheBox - Precious | jniket | [Read More](https://medium.com/p/bc2048cb40c6) |
-| Mon, 11 Aug 2025 01:13:03 GMT | Cryptobric 악성 Bot 제보 기능 추가 완료 | Cloudbric | [Read More](https://medium.com/p/e3150fac5490) |
-| Mon, 11 Aug 2025 01:11:24 GMT | Civil Unrest Sparked by Divurion Group’s Cyber Warfare | SinVictus | [Read More](https://medium.com/p/9d19cf771314) |
-| Mon, 11 Aug 2025 01:10:22 GMT | SIEM Implementation Using Wazuh: A Hands-On Security Monitoring Project | EPereda | [Read More](https://medium.com/p/ab7e06d930da) |
-| Mon, 11 Aug 2025 01:08:18 GMT | Ketogenic Security Posture | Serhan Eraslan | [Read More](https://medium.com/p/5d5c3b582646) |
-| Mon, 11 Aug 2025 01:02:20 GMT | WhiteRabbit — Hack The Box | Toshith | [Read More](https://medium.com/p/c30f465dcc6e) |
-| Mon, 11 Aug 2025 00:47:00 GMT | Cybersecurity Governance: Establishing Oversight and Accountability | Cyber Security Research | [Read More](https://medium.com/p/cf343c954750) |
-| Mon, 11 Aug 2025 00:45:08 GMT | Cybersecurity Ethics: Ethical Considerations in the Field | Cyber Security Research | [Read More](https://medium.com/p/7aea195a04dc) |
