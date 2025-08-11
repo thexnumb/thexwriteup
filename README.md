@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 05:44:10 GMT | Portswigger Labs — CSRF | Ans Inayat | [Read More](https://medium.com/p/aae190abec37) |
+| Mon, 11 Aug 2025 05:43:52 GMT | Mirage HTB Machine Writeup | Ans Inayat | [Read More](https://medium.com/p/7015d35a198e) |
+| Mon, 11 Aug 2025 05:38:16 GMT | Structured Analytic Techniques: How to Analyze Threat Intelligence | Adam Goss | [Read More](https://medium.com/p/94f1a9286c82) |
+| Mon, 11 Aug 2025 05:32:34 GMT | What Is a Pretexting Attack? [Types, Examples, and Prevention Tips] | Hamza Hanif | [Read More](https://medium.com/p/b3b80c021fcb) |
+| Mon, 11 Aug 2025 05:32:25 GMT | Building and Deploying an AI-Powered Threat Detection System on AWS | Akuphe Dieudonne | [Read More](https://medium.com/p/b3bfe35e75c4) |
+| Mon, 11 Aug 2025 05:29:54 GMT | Preventing and Fixing Secret Leaks in Git Repos — A CloudOps Guide | CloudweldOps | [Read More](https://medium.com/p/e2110c0f99c1) |
+| Mon, 11 Aug 2025 05:25:55 GMT | Using Blockchain to Strengthen Data Security in 2025 | Vidushhi Panda | [Read More](https://medium.com/p/d397e8759e6c) |
+| Mon, 11 Aug 2025 05:23:50 GMT | Google Data Breach 2025 — Company Notifies Millions of Affected Users | Tarush Sharma | [Read More](https://medium.com/p/16a423d12478) |
 | Mon, 11 Aug 2025 05:17:13 GMT | Unknown Key-Share (UKS) Attacks in Cryptography: When Identities Get Twisted | Denys Popov | [Read More](https://medium.com/p/35606be50a9f) |
 | Mon, 11 Aug 2025 05:15:08 GMT | ExeQuantum and Notable Frontier Partner to Advance Post-Quantum Cryptography in Southeast Asia | ExeQuantum | [Read More](https://medium.com/p/18eba6a348b2) |
 | Mon, 11 Aug 2025 05:11:48 GMT | How to Stop a Layer 7 DDoS Without Losing Real Users ️ | Introvertdeveloper | [Read More](https://medium.com/p/ab50c125bb69) |
@@ -105,11 +113,3 @@ How Drive’s… | Kayvan Shah | [Read More](https://medium.com/p/79eea744d90d) 
 | Sun, 10 Aug 2025 18:55:46 GMT | TryHackMe — Capture! | omni | [Read More](https://medium.com/p/fdba2f256965) |
 | Sun, 10 Aug 2025 18:55:29 GMT | “P@$$wOrd123” Isn’t Strong. Here’s What Is. | Truspex | [Read More](https://medium.com/p/cfeb79340a76) |
 | Sun, 10 Aug 2025 18:53:42 GMT | My 90-Day Mission — And Share Every Step With You | Sugam Arora | [Read More](https://medium.com/p/a496138bf8bb) |
-| Sun, 10 Aug 2025 18:48:32 GMT | TPM: Security Savior or Silent Spy? | CtrlC3 | [Read More](https://medium.com/p/77416d83b26c) |
-| Sun, 10 Aug 2025 18:48:17 GMT | Maximize Your BUG BUG Growth Returns | BUG | [Read More](https://medium.com/p/8c3ee7133b9a) |
-| Sun, 10 Aug 2025 18:47:25 GMT | KC7: Encrytpodera — Report | Aeronique | [Read More](https://medium.com/p/e4317902b7e7) |
-| Sun, 10 Aug 2025 18:44:02 GMT | You Don’t Need More AI Tools. You Need a Real-World Plan. | Fahad's Foresight | [Read More](https://medium.com/p/121499737bdc) |
-| Sun, 10 Aug 2025 18:37:15 GMT | Researchers Uncover Windows EPM Poisoning Attack Chain (CVE-2025–49760) | Rue | [Read More](https://medium.com/p/bf6e62685d7a) |
-| Sun, 10 Aug 2025 18:36:55 GMT | No certs.. no money wasting.. no complicated overwhelming contracts BUG BOUNTY INTRO MAP | Abdulrahman Kamal | [Read More](https://medium.com/p/7bb5eab6cb86) |
-| Sun, 10 Aug 2025 18:31:22 GMT | CTF Day(49) | Ahmed Narmer | [Read More](https://medium.com/p/c950baf3510d) |
-| Sun, 10 Aug 2025 18:29:28 GMT | Why Cybersecurity Should Matter to You — And How to Get Real-World Experience | Santoshi_Cloud | [Read More](https://medium.com/p/287b82c87734) |
