@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 18:31:32 GMT | Dark Web Monitoring: Why It’s Essential for Protecting Your Business and Identity | SafeAeon Inc. | [Read More](https://medium.com/p/b1cf00972ce4) |
+| Mon, 11 Aug 2025 18:30:02 GMT | Rate Limiting and API Security | TechByRahmat | [Read More](https://medium.com/p/9940ca5dd990) |
+| Mon, 11 Aug 2025 18:28:02 GMT | Tech Giants Face New Global Regulations to Curb Data Privacy Concerns | THE NEWS NATION | [Read More](https://medium.com/p/b36bfd5ea7d6) |
+| Mon, 11 Aug 2025 18:19:05 GMT | The AI Paradox: Why We’re Letting Our Engineers Run Wild (And Why That’s Strategic) | Luis Morales | [Read More](https://medium.com/p/f80dd14ea579) |
+| Mon, 11 Aug 2025 18:17:07 GMT | Cross-Browser Without Crying: A Practical Field Guide | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/9c075fa4c02a) |
+| Mon, 11 Aug 2025 18:13:33 GMT | Don’t Take the Bait: Outsmart Sneaky Phishing Scams | Scott Brenner | [Read More](https://medium.com/p/61b95d15a351) |
+| Mon, 11 Aug 2025 18:12:21 GMT | Proactive Security: How AI Predicts Cyber Threats Before They Strike | Shradhdha Bhalodia | [Read More](https://medium.com/p/2ea93cd41940) |
+| Mon, 11 Aug 2025 18:11:41 GMT | Why Choose SafeAeon? The Benefits That Set Us Apart | SafeAeon Inc. | [Read More](https://medium.com/p/3ea4bff05e40) |
+| Mon, 11 Aug 2025 18:08:21 GMT | From Screens to Scenes: My One-Month Internship with the Cyber Police | Ayush Pandit | [Read More](https://medium.com/p/1d4afa3ac4cf) |
+| Mon, 11 Aug 2025 18:05:50 GMT | CyberRecon Arsenal — My All-in-One Cybersecurity Reconnaissance Toolkit (Now Free for Everyone!) | LETCHU PKT | [Read More](https://medium.com/p/ade7f12e738b) |
+| Mon, 11 Aug 2025 18:04:31 GMT | Building an Impenetrable Wall: How to Secure Your Organization’s Data from Every Angle | Kenji | [Read More](https://medium.com/p/49a3eef900f9) |
+| Mon, 11 Aug 2025 18:03:57 GMT | What would be the future of HUMANS ? | Butterfly Colors Solutions | [Read More](https://medium.com/p/2463e7080929) |
+| Mon, 11 Aug 2025 17:53:56 GMT | Linux Kernel netfilter: ipset: Missing Range Check LPE | Oded van Kloeten | [Read More](https://medium.com/p/42ce63d181be) |
+| Mon, 11 Aug 2025 17:51:50 GMT | Stalwart Joins GitHub’s Open Source Secure Fund | Stalwart Labs | [Read More](https://medium.com/p/75f521a3c393) |
 | Mon, 11 Aug 2025 17:44:41 GMT | When Junior Writes Code… and Senior Reviews It | Ajay Parmar | [Read More](https://medium.com/p/e90608162bb7) |
 | Mon, 11 Aug 2025 17:31:44 GMT | L’Underground Numérique de la France | Vincent B | [Read More](https://medium.com/p/423b25cd59fe) |
 | Mon, 11 Aug 2025 17:30:16 GMT | Mastering Windows Registry Forensics | Dean | [Read More](https://medium.com/p/49172d38090e) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 13:39:59 GMT | Compliance vs Risk — Cyber assurance program | Kaushik Majumder | [Read More](https://medium.com/p/9bbd0db45125) |
 | Mon, 11 Aug 2025 13:36:32 GMT | Why Every Business Needs VAPT: EDSPL End-to-End Vulnerability Management Approach | saurabh cyberinfomines | [Read More](https://medium.com/p/2294dfbbc3fb) |
 | Mon, 11 Aug 2025 13:35:34 GMT | What is Cisco Umbrella & Why Should You Learn It? | Himanshu Sahu | [Read More](https://medium.com/p/f4bce753bffc) |
-| Mon, 11 Aug 2025 13:31:46 GMT | Over 29,000 Exchange Servers Still Vulnerable to High-Severity Flaw | Dhruvdeep Singh | [Read More](https://medium.com/p/1820c12f1a66) |
-| Mon, 11 Aug 2025 13:30:10 GMT | Recommended Readings | Kavya Ganesan | [Read More](https://medium.com/p/59c3fc2a74cb) |
-| Mon, 11 Aug 2025 13:27:04 GMT | Email Security Analysis | Danny | [Read More](https://medium.com/p/ac5d5a1543a3) |
-| Mon, 11 Aug 2025 13:24:35 GMT | The Changing Face of Defence: Trends Shaping Security in Africa | Abdulsalampelumi | [Read More](https://medium.com/p/7e1312686a61) |
-| Mon, 11 Aug 2025 13:21:57 GMT | Comprehensive Guide to the Latest Upload Bundle Policy Update: Key Changes, Compliance, and Best… | Dayakumar | [Read More](https://medium.com/p/11ae6d4196d1) |
-| Mon, 11 Aug 2025 13:21:53 GMT | No More Photo-to-Art Transformations? OpenAI’s Image Rules Just Changed | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/8aa373c6d89a) |
-| Mon, 11 Aug 2025 13:21:48 GMT | Top Attack Vectors in 2025: How Hackers Are Targeting Websites Right Now | Adaeze J. Festus | [Read More](https://medium.com/p/737a73d54548) |
-| Mon, 11 Aug 2025 13:20:52 GMT | Why AI Security Deserves as Much Attention as AI Itself | Harold Moss | [Read More](https://medium.com/p/8aa381a05820) |
-| Mon, 11 Aug 2025 13:09:29 GMT | “Chairmen” of a $100M fraud ring: what the filing actually says — and why it matters | Dhruvdeep Singh | [Read More](https://medium.com/p/d20fb1a97b79) |
-| Mon, 11 Aug 2025 13:04:56 GMT | Agentic AI Secure Lifecycle: Essential Steps to Safeguard Autonomous AI Systems | Amritha George | [Read More](https://medium.com/p/b3ac94e91206) |
-| Mon, 11 Aug 2025 13:04:09 GMT | Card Reader Installation in Baltimore — ICS Security Solutions | Adam Xevas | [Read More](https://medium.com/p/b4807151c082) |
-| Mon, 11 Aug 2025 13:02:45 GMT | How I made websites created from the CMS cyber secured ? | Ayush Raj | [Read More](https://medium.com/p/3f9de99cb2c8) |
-| Mon, 11 Aug 2025 12:58:17 GMT | From Vulnerability to Weapon: How CVEs Become Real-World Threats | Sammcmullen | [Read More](https://medium.com/p/a7d6f9a1b715) |
-| Mon, 11 Aug 2025 12:53:09 GMT | GÖREV 1 - Savunma Güvenliğe Giriş (EN) | Atakan Bitim | [Read More](https://medium.com/p/b5ad6e066fe2) |
