@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 04:40:32 GMT | Mirror, Mirror in the Cache: The Day I Became a Digital Pickpocket | Iski | [Read More](https://medium.com/p/ce695a86dc87) |
+| Mon, 11 Aug 2025 04:34:31 GMT | GPT-5 Jailbroken in Under 24 Hours: Critical Security Vulnerabilities and Essential Insights | NeuralNikitha | [Read More](https://medium.com/p/a22d433f97ac) |
+| Mon, 11 Aug 2025 04:21:56 GMT | TheFatRat: Crafting Cross-Platform Backdoors for Ethical Red Team Operations | Javier Calderon Jr | [Read More](https://medium.com/p/f6e49166255e) |
+| Mon, 11 Aug 2025 04:17:33 GMT | How to build Failure Resistant System | Rue | [Read More](https://medium.com/p/a3f047c43fb4) |
+| Mon, 11 Aug 2025 04:13:48 GMT | A Deep Dive into Pipeline Injection Attacks: Designing a Red Team Framework for GitHub Actions | Batuhan Sancak | [Read More](https://medium.com/p/22f9ddb25d19) |
+| Mon, 11 Aug 2025 04:05:11 GMT | The Coming Drone Era: Why Drones Will Soon Be Everywhere | Robert Schryvers ChT | [Read More](https://medium.com/p/35bf0add75c8) |
+| Mon, 11 Aug 2025 04:01:48 GMT | No Surprises: The Dangers of Dynamically Loaded Code | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/82fe7257e46a) |
+| Mon, 11 Aug 2025 03:49:41 GMT | HTTP/1 vs HTTP/2 vs HTTP/3 | Dhanush N | [Read More](https://medium.com/p/8361f7a1e79a) |
+| Mon, 11 Aug 2025 03:44:47 GMT | How to Run Multiple Linux Machines on macOS the Easy Way with LimaCTL | M Sadewa Wicaksana | [Read More](https://medium.com/p/42bf953cd89d) |
+| Mon, 11 Aug 2025 03:43:33 GMT | Quantum Attacks: The Next Cybersecurity Threat | Dukerearing | [Read More](https://medium.com/p/47e9fedb1313) |
 | Mon, 11 Aug 2025 03:43:08 GMT | These Cybersecurity Platforms Are FREE (and Worth Your Time) | Paritosh | [Read More](https://medium.com/p/0f3e787a83e6) |
+| Mon, 11 Aug 2025 03:40:20 GMT | AI Voice Cloning Scams: The Next Big Cybersecurity Threat. | Tek News Feed | [Read More](https://medium.com/p/a86ec1eabcf8) |
 | Mon, 11 Aug 2025 03:33:00 GMT | Summary of the “CISSP” exam : — ( | Bad Request | [Read More](https://medium.com/p/fc949ad40527) |
 | Mon, 11 Aug 2025 03:31:37 GMT | Survival Guide for the Average Software Engineer | Cinto | [Read More](https://medium.com/p/472cd1e476cc) |
 | Mon, 11 Aug 2025 03:26:16 GMT | Forensics - picoGym - Torrent Analyze | Flower Bed | [Read More](https://medium.com/p/82dc73e0ed35) |
@@ -102,14 +113,3 @@ How Drive’s… | Kayvan Shah | [Read More](https://medium.com/p/79eea744d90d) 
 | Sun, 10 Aug 2025 17:38:52 GMT | Cyber Security Data Analyst: The Digital Detective Career Path That Could Change Your Life | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/4c4e194c031f) |
 | Sun, 10 Aug 2025 17:28:21 GMT | Active Directory User Enumeration | MR Gh0st [ 0xff ] | [Read More](https://medium.com/p/69c146381fec) |
 | Sun, 10 Aug 2025 17:24:43 GMT | MAL: Strings TryHackMe Writeup | theOrthodox | [Read More](https://medium.com/p/c052a0e10042) |
-| Sun, 10 Aug 2025 17:19:34 GMT | THM - Microservices Architectures- Write-Up | Dhruv | [Read More](https://medium.com/p/519e5c0783d1) |
-| Sun, 10 Aug 2025 17:19:11 GMT | Day 2 of My Cybersecurity Journey: From Bash Scripting to My First Port Scanner | shihan shaj | [Read More](https://medium.com/p/4eba7eb900e1) |
-| Sun, 10 Aug 2025 17:18:43 GMT | THM — Inclusion Writeup | Kostas Ereksonas | [Read More](https://medium.com/p/86cb7d6a7ed0) |
-| Sun, 10 Aug 2025 17:13:49 GMT | AI-Powered Code Security Reviews for DevSecOps with Claude | Mostafa Hussein | [Read More](https://medium.com/p/12baeacf196f) |
-| Sun, 10 Aug 2025 17:02:23 GMT | Ingeniería inversa de software | Iceyami | [Read More](https://medium.com/p/7c427ff6ea83) |
-| Sun, 10 Aug 2025 17:00:55 GMT | Ciberseguridad en la Guerra Irrestricta | Iceyami | [Read More](https://medium.com/p/ab736ed1b568) |
-| Sun, 10 Aug 2025 16:52:20 GMT | My Heart Pounds Every Time I See Him. | The Heart 's Diary | [Read More](https://medium.com/p/1a9596aabee1) |
-| Sun, 10 Aug 2025 16:52:06 GMT | The Love Letter I Never Sent (And Why It Became My Best Story) | Girish Dhamane | [Read More](https://medium.com/p/4230177d0283) |
-| Sun, 10 Aug 2025 16:43:54 GMT | Collateral Damage | Robert Vamosi | [Read More](https://medium.com/p/629db10a8147) |
-| Sun, 10 Aug 2025 16:43:47 GMT | The 2025 U.S. Federal Court Filing System Breach: A Political, Economic, and Technical Breakdown | Motasem Hamdan | [Read More](https://medium.com/p/1ba3ff01fa71) |
-| Sun, 10 Aug 2025 16:37:04 GMT | The Rust Bug That Nearly Ended Our Release (And the One Line That Saved It) | SyntaxSavage | [Read More](https://medium.com/p/3e2bc73ef70c) |
