@@ -12,10 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 07:44:18 GMT | tar.gz | Haldian | [Read More](https://medium.com/p/a79fd5df43e1) |
+| Mon, 11 Aug 2025 07:44:10 GMT | Cyber Security: Essential Tips to Protect Yourself Online | Cyberfortress solutions | [Read More](https://medium.com/p/6642c67bc54d) |
+| Mon, 11 Aug 2025 07:41:16 GMT | How I Found an XSS Vulnerability in the KPK Website and Earned a Certificate at 13 Years Old | OziXploit | [Read More](https://medium.com/p/fc59fde71f82) |
+| Mon, 11 Aug 2025 07:37:23 GMT | A mouse move that crashed the system | Karol Mazurek | [Read More](https://medium.com/p/3fa518252c7b) |
+| Mon, 11 Aug 2025 07:37:09 GMT | How Can You Master Modern SIEM & XDR Cybersecurity Solutions? | Vijilan | [Read More](https://medium.com/p/3f7d19f935e8) |
+| Mon, 11 Aug 2025 07:32:57 GMT | Manual Source Code Review in SAST – My Experience Uncovering Critical Vulnerabilities | Saritamukkani | [Read More](https://medium.com/p/a9006049a6d4) |
+| Mon, 11 Aug 2025 07:31:58 GMT | The Ultimate Threat Intelligence Toolkit: 40+ Tools for Malware Analysis, Sandboxing, and IP… | Devansh Patel | [Read More](https://medium.com/p/d0b63b38d487) |
+| Mon, 11 Aug 2025 07:30:35 GMT | SafeLine: The High-Performance Open-Source WAF for Developers | Quella | [Read More](https://medium.com/p/947bf33ec5a4) |
+| Mon, 11 Aug 2025 07:30:01 GMT | A09:2021 — Security Logging and Monitoring Failures | GhostNex | [Read More](https://medium.com/p/cffb6555c7e9) |
+| Mon, 11 Aug 2025 07:28:59 GMT | Medical Device Security: A Healthcare Crisis Waiting to Happen | Aj | [Read More](https://medium.com/p/df7b37d153ef) |
+| Mon, 11 Aug 2025 07:28:25 GMT | EduPrajna is a dedicated learning hub that offers high-quality IT coaching along with academic… | Ranjithrao | [Read More](https://medium.com/p/f83ff3022c7c) |
+| Mon, 11 Aug 2025 07:27:06 GMT | Secure your LLM apps with Google Cloud Model Armor | Mete Atamel | [Read More](https://medium.com/p/0ad9d366bc0f) |
 | Mon, 11 Aug 2025 07:25:38 GMT | indian bank se paise cut jaaye to kya karen☎️ 9669538050 ☎️इंडियन बैंक से पैसे कटने पर शिकायत कैसे… | इंडियन बैंक से पैसे कट जाने पर क्या करें? | [Read More](https://medium.com/p/f35306899ce1) |
 | Mon, 11 Aug 2025 07:25:13 GMT | Integrating Artificial Intelligence technologies into real-world Applications - 33ResearchLabs | 33Researchlabs | [Read More](https://medium.com/p/94203635f57a) |
 | Mon, 11 Aug 2025 07:25:10 GMT | indian bank se paise cut jaaye to kya karen☎️ 9669538050 ☎️इंडियन बैंक से पैसे कटने पर शिकायत कैसे… | इंडियन बैंक से पैसे कट जाने पर क्या करें? | [Read More](https://medium.com/p/7c6f83de3ab7) |
 | Mon, 11 Aug 2025 07:21:33 GMT | What Is the Goal of Destroying CUI? | Jetico | [Read More](https://medium.com/p/152868546d99) |
+| Mon, 11 Aug 2025 07:19:08 GMT | The Complete Guide to Backconnect Proxy Services: Revolutionizing Global Business Access | Ipflyproxy | [Read More](https://medium.com/p/0a3b1b3dc12a) |
 | Mon, 11 Aug 2025 07:17:44 GMT | How to Become an Ethical Hacker Without Degree in India | Manisha Chaudhary | [Read More](https://medium.com/p/af236a237095) |
 | Mon, 11 Aug 2025 07:10:42 GMT | Chores vs. Change: Which One Wins Your Day? | EXLITY | [Read More](https://medium.com/p/345feb48a603) |
 | Mon, 11 Aug 2025 07:10:15 GMT | Top 10 Benefits of Enrolling in Online Cyber Security Training | Skills For Everyone | [Read More](https://medium.com/p/3430dee6c824) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 01:02:20 GMT | WhiteRabbit — Hack The Box | Toshith | [Read More](https://medium.com/p/c30f465dcc6e) |
 | Mon, 11 Aug 2025 00:47:00 GMT | Cybersecurity Governance: Establishing Oversight and Accountability | Cyber Security Research | [Read More](https://medium.com/p/cf343c954750) |
 | Mon, 11 Aug 2025 00:45:08 GMT | Cybersecurity Ethics: Ethical Considerations in the Field | Cyber Security Research | [Read More](https://medium.com/p/7aea195a04dc) |
-| Mon, 11 Aug 2025 00:43:01 GMT | The Authentication Evolution: How Bearer Tokens Solve API Keys’ Security Blind Spots? | Kunal Sinha | [Read More](https://medium.com/p/7017d56fec24) |
-| Mon, 11 Aug 2025 00:39:43 GMT | How I bypass CSP sandbox and find Stored XSS | L4zyhacker | [Read More](https://medium.com/p/7bb2b5795554) |
-| Mon, 11 Aug 2025 00:33:07 GMT | “Beyond the Shared Link: Securing Google Drive and Its Third-Party Ecosystem with ML”
-How Drive’s… | Kayvan Shah | [Read More](https://medium.com/p/79eea744d90d) |
-| Mon, 11 Aug 2025 00:30:29 GMT | Retro writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/afac3e010fe6) |
-| Mon, 11 Aug 2025 00:03:23 GMT | eCPPT INE Web Application Penetration Testing CTF 1 | ealmonte | [Read More](https://medium.com/p/2ab71df9db4a) |
-| Sun, 10 Aug 2025 23:50:35 GMT | Skynet: TryHackMe WalkThrough | InselSec | [Read More](https://medium.com/p/5199604541fc) |
-| Sun, 10 Aug 2025 23:40:18 GMT | The Embodiment of Vulnerability | Paisley Bird | [Read More](https://medium.com/p/7b63778cf60f) |
-| Sun, 10 Aug 2025 23:38:24 GMT | LAMEHUG — Malware Analysis | Rizqi Setyo Kusprihantanto | [Read More](https://medium.com/p/b42fa78d0764) |
-| Sun, 10 Aug 2025 23:38:06 GMT | What Is Cryptography and How Does It Work? A Beginner’s Explanation | amol pawar | [Read More](https://medium.com/p/9f8810db2568) |
-| Sun, 10 Aug 2025 23:36:40 GMT | Why You Need a Digital Forbidden City for AWS Bastion Hosts | Janet Xiu Shi | [Read More](https://medium.com/p/0bbf96391ca2) |
-| Sun, 10 Aug 2025 23:28:13 GMT | Integrated Security Solutions for Today’s Systems | Zeenya | [Read More](https://medium.com/p/a6b2ba0af9c5) |
-| Sun, 10 Aug 2025 23:01:44 GMT | HackTheBox — Pikaptcha Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/c4084381327e) |
-| Sun, 10 Aug 2025 22:53:01 GMT | Building an Azure SIEM Lab | Will Giles - Cybersecurity | [Read More](https://medium.com/p/03c59dab1199) |
