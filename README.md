@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 14:36:42 GMT | MrRobot CTF | TheSocialHacker | [Read More](https://medium.com/p/1d09a0830e69) |
+| Mon, 11 Aug 2025 14:36:39 GMT | Activity 1: Linux Challenge | Matthew Benedict A. Olanda | [Read More](https://medium.com/p/5a5498f863f6) |
+| Mon, 11 Aug 2025 14:35:08 GMT | How data is stored in SIEM solution? | Devaaravindlutukurty | [Read More](https://medium.com/p/d6344c14ba32) |
+| Mon, 11 Aug 2025 14:31:43 GMT | (Comptia A+) Understanding and Configuring Local Security Policies in Windows | Vignesh R | [Read More](https://medium.com/p/c5ca26d08331) |
+| Mon, 11 Aug 2025 14:31:05 GMT | Scamrecovery | Darren J. Warren | [Read More](https://medium.com/p/346006413e44) |
+| Mon, 11 Aug 2025 14:27:19 GMT | How Trump’s Pakistan Tilt Could Reshape South Asia’s Cybersecurity | Sitinoldae | [Read More](https://medium.com/p/00934ab091e9) |
+| Mon, 11 Aug 2025 14:26:18 GMT | New WinRAR Zero-Day Vulnerability Exploited in Active Attacks (CVE-2025–8088) | Hafiz Shamnad | [Read More](https://medium.com/p/0d7d9cabcf8e) |
+| Mon, 11 Aug 2025 14:26:16 GMT | IDOR in GOV.UK — Delete 10 million Appeal Case In JastOne Click | whiterose | [Read More](https://medium.com/p/6e45117cf727) |
+| Mon, 11 Aug 2025 14:20:43 GMT | I Checked My Email on a Breach-Tracking Site — The Results Shocked Me | mizz | [Read More](https://medium.com/p/8306e4d46a64) |
 | Mon, 11 Aug 2025 14:16:21 GMT | Control Flow Integrity (CFI) | Zeyadsalah | [Read More](https://medium.com/p/02adba3181ce) |
 | Mon, 11 Aug 2025 14:12:34 GMT | HTTP request smuggling, confirming a TE.CL vulnerability via differential responses | mattyerz | [Read More](https://medium.com/p/835c1a764d51) |
 | Mon, 11 Aug 2025 14:09:48 GMT | Stop Reaching for IAM Keys: Better Ways to Access AWS Services | Mochamad Gufron | [Read More](https://medium.com/p/afbf6fa1aa71) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 10:20:09 GMT | Getting Started With Hardware Hacking: Your Beginner’s Toolkit | Redfox Security | [Read More](https://medium.com/p/ba019dd199fd) |
 | Mon, 11 Aug 2025 10:18:05 GMT | My Journey to Finding an IDOR Vulnerability — And the Lessons It Taught Me | Priyansh | [Read More](https://medium.com/p/06df46b386a8) |
 | Mon, 11 Aug 2025 10:16:57 GMT | Cybersecurity in the Quantum Era: Protecting Data Against Next-Gen Threats | Olatunde Aboaba | [Read More](https://medium.com/p/db774ce89215) |
-| Mon, 11 Aug 2025 10:14:39 GMT | LLM01:2025 Prompt Injection Detaylı ve Türkçe Anlatımı | Utku Ayan | [Read More](https://medium.com/p/f69000599dd1) |
-| Mon, 11 Aug 2025 10:03:59 GMT | How to Implement a Data Loss Prevention Strategy in 2025 with Microsoft Purview | Rue | [Read More](https://medium.com/p/de01bc3a5770) |
-| Mon, 11 Aug 2025 10:03:55 GMT | How Microsoft Defender for Office 365 Stops Email Bombing Attacks | CloudLink | [Read More](https://medium.com/p/5cd539095f26) |
-| Mon, 11 Aug 2025 09:57:02 GMT | Encrypting Network Traffic and VPN Security with Linux | Esra Kayhan | [Read More](https://medium.com/p/d8aa623b290f) |
-| Mon, 11 Aug 2025 09:56:29 GMT | Upcoming Information Security Recruitment Events in Vadodara | Aiswarya N | [Read More](https://medium.com/p/19398fee761b) |
-| Mon, 11 Aug 2025 09:51:56 GMT | RST TI Report Digest: 11 Aug 2025 | RST Cloud | [Read More](https://medium.com/p/3c69893390fd) |
-| Mon, 11 Aug 2025 09:44:29 GMT | HTTP Request Smuggling In Bug Bounty Hunting | Zodiac Hacker | [Read More](https://medium.com/p/abf0e4e75b73) |
-| Mon, 11 Aug 2025 09:43:56 GMT | Data Privacy is About Trust, Not Just Locks | Preye Ronald Pimeh | [Read More](https://medium.com/p/bb6ed1c5269a) |
-| Mon, 11 Aug 2025 09:43:10 GMT | Kali Linux Temel Komutlar: Dizin ve Dosya Yönetimi | Burak | [Read More](https://medium.com/p/bda5137db215) |
