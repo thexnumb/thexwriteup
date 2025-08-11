@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 10:46:56 GMT | Discovering PII Data in Databricks with discoverx | Alwyn DSouza | [Read More](https://medium.com/p/8a1f525b1fb1) |
+| Mon, 11 Aug 2025 10:38:14 GMT | How I created a Home Lab on Endpoint Detection Tool, TCP view. | Samuel Jack | [Read More](https://medium.com/p/965763b46e82) |
+| Mon, 11 Aug 2025 10:37:40 GMT | Do You Think You Know OSINT? Stalking Your Ex Isn’t Part of It. Think Again. | Afwan Mulia Pratama | [Read More](https://medium.com/p/437ee5763b47) |
+| Mon, 11 Aug 2025 10:37:10 GMT | Aurora EDR — A Lightweight & Powerful Sigma-Based EDR Tool | Furkanctiner | [Read More](https://medium.com/p/91c8e876162e) |
+| Mon, 11 Aug 2025 10:36:21 GMT | Securing Kuwait’s Financial Future: Data Center Trust in Every Transaction | expbhavya | [Read More](https://medium.com/p/0cfe47f10e08) |
+| Mon, 11 Aug 2025 10:36:08 GMT | It is now essential to protect your commercial building in the fast-paced, security-conscious… | Berkshire Hathaway | [Read More](https://medium.com/p/3f841ca2e0f0) |
+| Mon, 11 Aug 2025 10:32:44 GMT | Are Cloud Computing, Cybersecurity, or Data Science Relevant for Mechanical Engineering Students? | BIT Blogs | [Read More](https://medium.com/p/f0b4cc349f7e) |
+| Mon, 11 Aug 2025 10:26:15 GMT | New types of Turing tests: Beyond text | Berend Watchus | [Read More](https://medium.com/p/e739bcfd1a77) |
+| Mon, 11 Aug 2025 10:26:10 GMT | CTI Diaries — 2: Thinking in Models, Not Alerts | Deniz Topaloglu | [Read More](https://medium.com/p/a53014cb7bb5) |
 | Mon, 11 Aug 2025 10:22:25 GMT | Why Tests Aren’t Enough (And What Actually Keeps Code Safe) | Geetesh Laddha | [Read More](https://medium.com/p/4c57336d2ee2) |
 | Mon, 11 Aug 2025 10:21:44 GMT | The Story of You & I | KAYLA DIOR | [Read More](https://medium.com/p/4f142d24128a) |
+| Mon, 11 Aug 2025 10:20:09 GMT | Getting Started With Hardware Hacking: Your Beginner’s Toolkit | Redfox Security | [Read More](https://medium.com/p/ba019dd199fd) |
 | Mon, 11 Aug 2025 10:18:05 GMT | My Journey to Finding an IDOR Vulnerability — And the Lessons It Taught Me | Priyansh | [Read More](https://medium.com/p/06df46b386a8) |
 | Mon, 11 Aug 2025 10:16:57 GMT | Cybersecurity in the Quantum Era: Protecting Data Against Next-Gen Threats | Olatunde Aboaba | [Read More](https://medium.com/p/db774ce89215) |
 | Mon, 11 Aug 2025 10:14:39 GMT | LLM01:2025 Prompt Injection Detaylı ve Türkçe Anlatımı | Utku Ayan | [Read More](https://medium.com/p/f69000599dd1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 07:25:13 GMT | Integrating Artificial Intelligence technologies into real-world Applications - 33ResearchLabs | 33Researchlabs | [Read More](https://medium.com/p/94203635f57a) |
 | Mon, 11 Aug 2025 07:25:10 GMT | indian bank se paise cut jaaye to kya karen☎️ 9669538050 ☎️इंडियन बैंक से पैसे कटने पर शिकायत कैसे… | इंडियन बैंक से पैसे कट जाने पर क्या करें? | [Read More](https://medium.com/p/7c6f83de3ab7) |
 | Mon, 11 Aug 2025 07:21:33 GMT | What Is the Goal of Destroying CUI? | Jetico | [Read More](https://medium.com/p/152868546d99) |
-| Mon, 11 Aug 2025 07:19:08 GMT | The Complete Guide to Backconnect Proxy Services: Revolutionizing Global Business Access | Ipflyproxy | [Read More](https://medium.com/p/0a3b1b3dc12a) |
-| Mon, 11 Aug 2025 07:17:44 GMT | How to Become an Ethical Hacker Without Degree in India | Manisha Chaudhary | [Read More](https://medium.com/p/af236a237095) |
-| Mon, 11 Aug 2025 07:10:42 GMT | Chores vs. Change: Which One Wins Your Day? | EXLITY | [Read More](https://medium.com/p/345feb48a603) |
-| Mon, 11 Aug 2025 07:10:15 GMT | Top 10 Benefits of Enrolling in Online Cyber Security Training | Skills For Everyone | [Read More](https://medium.com/p/3430dee6c824) |
-| Mon, 11 Aug 2025 07:08:07 GMT | How Hackers Keep Our Secrets on the Shelf — Until Quantum Computers Arrive | ComsignTrust LTD | [Read More](https://medium.com/p/2270333bc2c7) |
-| Mon, 11 Aug 2025 07:06:02 GMT | Hackers Exploit Critical Fortinet Bug to Take Over Devices Remotely | SafetyDetectives Research Team | [Read More](https://medium.com/p/64eb611e3cf8) |
-| Mon, 11 Aug 2025 07:05:21 GMT | Buy SIEM Tools and Services Today — Secure Your Business with BM Infotrade Pvt. Ltd. | Anshul Goyal | [Read More](https://medium.com/p/2289f3b48a3d) |
-| Mon, 11 Aug 2025 07:04:58 GMT | Why Developers Are Turning to SafeLine as Their Go-To WAF | Quella | [Read More](https://medium.com/p/d4799fddad78) |
-| Mon, 11 Aug 2025 07:02:06 GMT | CISA Flags Actively Exploited D-Link Camera Flaws: Urges Urgent Patching | SafetyDetectives Research Team | [Read More](https://medium.com/p/61f501a5b330) |
-| Mon, 11 Aug 2025 07:01:54 GMT | Social Engineering Attacks: The Human Element | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/72ad73bcfb55) |
