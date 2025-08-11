@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 20:38:02 GMT | When Desperation Meets Deception: My Brush With a LinkedIn Job Scam | Gitika Babbar | [Read More](https://medium.com/p/f2ca40579371) |
+| Mon, 11 Aug 2025 20:36:22 GMT | Hide Your C2: Tor Hidden C2 Server — Part 1 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/abd7b3ae6e85) |
 | Mon, 11 Aug 2025 20:18:06 GMT | How AI-Generated Phishing is Evolving and Bypassing Traditional Filters | Yashasvi Sharma | [Read More](https://medium.com/p/3c1e3b86eda9) |
 | Mon, 11 Aug 2025 20:17:36 GMT | Real-World Breaches Mapped to OWASP Top 10 | Nima Bargestan | [Read More](https://medium.com/p/fcda69bcbe94) |
 | Mon, 11 Aug 2025 20:15:48 GMT | From Misconfiguration to Mandate: Exchange, SonicWall, and the Strategic Cost of Incomplete… | James Wright | [Read More](https://medium.com/p/ea5f72bc3f2d) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 14:55:38 GMT | HTB Precious Machine — walkthrough for beginners | SeverSerenity | [Read More](https://medium.com/p/528a8a27b443) |
 | Mon, 11 Aug 2025 14:55:35 GMT | WTF is binary exploitation | Zeyadsalah | [Read More](https://medium.com/p/ba1d3e6ec0e3) |
 | Mon, 11 Aug 2025 14:53:17 GMT | Network API Forecast for Explosive Growth | David H. Deans | [Read More](https://medium.com/p/d456494560e7) |
-| Mon, 11 Aug 2025 14:49:33 GMT | Cyber Snack Day-3 | Anwar_Nainar | [Read More](https://medium.com/p/80f108734765) |
-| Mon, 11 Aug 2025 14:47:54 GMT | Active Exploitation of WinRAR Zero-Day (CVE-2025–8088) — Immediate Update Recommended | RealSec.io | [Read More](https://medium.com/p/f5030deae3c9) |
