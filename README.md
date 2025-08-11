@@ -12,12 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 07:25:38 GMT | indian bank se paise cut jaaye to kya karen☎️ 9669538050 ☎️इंडियन बैंक से पैसे कटने पर शिकायत कैसे… | इंडियन बैंक से पैसे कट जाने पर क्या करें? | [Read More](https://medium.com/p/f35306899ce1) |
+| Mon, 11 Aug 2025 07:25:13 GMT | Integrating Artificial Intelligence technologies into real-world Applications - 33ResearchLabs | 33Researchlabs | [Read More](https://medium.com/p/94203635f57a) |
+| Mon, 11 Aug 2025 07:25:10 GMT | indian bank se paise cut jaaye to kya karen☎️ 9669538050 ☎️इंडियन बैंक से पैसे कटने पर शिकायत कैसे… | इंडियन बैंक से पैसे कट जाने पर क्या करें? | [Read More](https://medium.com/p/7c6f83de3ab7) |
+| Mon, 11 Aug 2025 07:21:33 GMT | What Is the Goal of Destroying CUI? | Jetico | [Read More](https://medium.com/p/152868546d99) |
+| Mon, 11 Aug 2025 07:17:44 GMT | How to Become an Ethical Hacker Without Degree in India | Manisha Chaudhary | [Read More](https://medium.com/p/af236a237095) |
+| Mon, 11 Aug 2025 07:10:42 GMT | Chores vs. Change: Which One Wins Your Day? | EXLITY | [Read More](https://medium.com/p/345feb48a603) |
+| Mon, 11 Aug 2025 07:10:15 GMT | Top 10 Benefits of Enrolling in Online Cyber Security Training | Skills For Everyone | [Read More](https://medium.com/p/3430dee6c824) |
+| Mon, 11 Aug 2025 07:08:07 GMT | How Hackers Keep Our Secrets on the Shelf — Until Quantum Computers Arrive | ComsignTrust LTD | [Read More](https://medium.com/p/2270333bc2c7) |
+| Mon, 11 Aug 2025 07:06:02 GMT | Hackers Exploit Critical Fortinet Bug to Take Over Devices Remotely | SafetyDetectives Research Team | [Read More](https://medium.com/p/64eb611e3cf8) |
+| Mon, 11 Aug 2025 07:05:21 GMT | Buy SIEM Tools and Services Today — Secure Your Business with BM Infotrade Pvt. Ltd. | Anshul Goyal | [Read More](https://medium.com/p/2289f3b48a3d) |
+| Mon, 11 Aug 2025 07:04:58 GMT | Why Developers Are Turning to SafeLine as Their Go-To WAF | Quella | [Read More](https://medium.com/p/d4799fddad78) |
+| Mon, 11 Aug 2025 07:02:06 GMT | CISA Flags Actively Exploited D-Link Camera Flaws: Urges Urgent Patching | SafetyDetectives Research Team | [Read More](https://medium.com/p/61f501a5b330) |
+| Mon, 11 Aug 2025 07:01:54 GMT | Social Engineering Attacks: The Human Element | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/72ad73bcfb55) |
+| Mon, 11 Aug 2025 07:01:50 GMT | How I Built a Complete Cybersecurity Skill Set with the StationX Series | Kizito Arinze Chukwu | [Read More](https://medium.com/p/f2c97bc0ad65) |
+| Mon, 11 Aug 2025 07:01:48 GMT | Meta Offered $1B for AI Talent While Cybersecurity Hits $32B Buyouts — Which Side Are You… | Qasim Mahmood Khalid | [Read More](https://medium.com/p/c25e00c1743c) |
+| Mon, 11 Aug 2025 07:01:28 GMT | Bugcrowd’s Blackhat USA CTF — Writeup | ABHISHEK M D | [Read More](https://medium.com/p/fc28adef7ea9) |
+| Mon, 11 Aug 2025 07:01:13 GMT | The Silent Digital War: Why Your Future in AI, Cybersecurity & Cloud Might Already Be Decided | JetkingChandigarh | [Read More](https://medium.com/p/15043e564231) |
+| Mon, 11 Aug 2025 06:55:41 GMT | A Love Story with Bugs | Dhiman Chandra | [Read More](https://medium.com/p/dd13bc201c22) |
+| Mon, 11 Aug 2025 06:52:51 GMT | Vanguard Tech Services: Your Trusted Partner for IT Strategy, Cybersecurity, Cloud, and Digital… | Vanguard Tech Services | [Read More](https://medium.com/p/67579d763225) |
+| Mon, 11 Aug 2025 06:35:29 GMT | How an Open Redirect Earned Me Points — Even as a Duplicate | Chaudhary Jugal | [Read More](https://medium.com/p/541d442f5516) |
 | Mon, 11 Aug 2025 06:31:11 GMT | Agentic AI — A Beginner’s Guide to Agentic AI: What It Is and Why It Matters | Jeeva Selvaraju | [Read More](https://medium.com/p/f29f67a26c86) |
 | Mon, 11 Aug 2025 06:24:30 GMT | $3,500 Bounty —  Total Failure of Password Protection While Extracting Seed Phrase — A Critical… | Hacker Write-Ups | [Read More](https://medium.com/p/79723184d46e) |
 | Mon, 11 Aug 2025 06:22:16 GMT | Critical RCE Vulnerability Found in IP-guard WebServer — Patch Now! | Quella | [Read More](https://medium.com/p/78216c2fe7a6) |
 | Mon, 11 Aug 2025 06:21:09 GMT | Top Cyber Security Questions and Answers for 2025: Ace Your Interview & Quiz with Expert Tips | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/a2806202a2bb) |
 | Mon, 11 Aug 2025 06:15:12 GMT | Why Every Business Needs a Mobile App Pentest to Stay Secure | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/72a49e00a7d8) |
 | Mon, 11 Aug 2025 06:14:32 GMT | Diverse E-commerce Development Services You Should Know | Ketan Patel | [Read More](https://medium.com/p/d8a0acdcf1d5) |
+| Mon, 11 Aug 2025 06:13:34 GMT | Risk Yönetiminde Desecure’un Sektördeki Etkin Stratejileri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/100db86cddc6) |
 | Mon, 11 Aug 2025 06:10:49 GMT | CTF Day(50) | Ahmed Narmer | [Read More](https://medium.com/p/ef758c06b0e7) |
 | Mon, 11 Aug 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Aug 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/cd64fe440402) |
 | Mon, 11 Aug 2025 05:51:51 GMT | Gmail Analysis with Cursor | Vivekraja | [Read More](https://medium.com/p/9ee04deda735) |
@@ -92,24 +113,3 @@ How Drive’s… | Kayvan Shah | [Read More](https://medium.com/p/79eea744d90d) 
 | Sun, 10 Aug 2025 23:28:13 GMT | Integrated Security Solutions for Today’s Systems | Zeenya | [Read More](https://medium.com/p/a6b2ba0af9c5) |
 | Sun, 10 Aug 2025 23:01:44 GMT | HackTheBox — Pikaptcha Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/c4084381327e) |
 | Sun, 10 Aug 2025 22:53:01 GMT | Building an Azure SIEM Lab | Will Giles - Cybersecurity | [Read More](https://medium.com/p/03c59dab1199) |
-| Sun, 10 Aug 2025 22:19:30 GMT | Drosera Network: The Decentralized Shield for Web3 Security Introduction: | Happiness Oluwaferanmi | [Read More](https://medium.com/p/b2f88a71eeaf) |
-| Sun, 10 Aug 2025 22:17:13 GMT | Breaking Down Cross-Site WebAssembly Threats | Karthikeyan Nagaraj | [Read More](https://medium.com/p/987cbd52e513) |
-| Sun, 10 Aug 2025 22:01:14 GMT | The Schrödinger’s ESC1 Vulnerability | Matheus Vilachã | [Read More](https://medium.com/p/ec1cee0cd9b8) |
-| Sun, 10 Aug 2025 21:58:20 GMT | AI vs AI: The New Frontier in Cybersecurity Battles | Shradhdha Bhalodia | [Read More](https://medium.com/p/b654eaa52344) |
-| Sun, 10 Aug 2025 21:55:19 GMT | Singelo / Simple | Lia Be | [Read More](https://medium.com/p/146e3b2ab56b) |
-| Sun, 10 Aug 2025 21:54:07 GMT | Echo Chambers — Feedback Loops in Detection Engineering | Nasreddine Bencherchali | [Read More](https://medium.com/p/4ee44508403c) |
-| Sun, 10 Aug 2025 21:38:57 GMT | Time Machine - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/21ccabbd929b) |
-| Sun, 10 Aug 2025 21:38:38 GMT | Unpacking the Unseen Damage of ‘Good Christian’ Respectability | Dan Foster | [Read More](https://medium.com/p/62fe7bd537c7) |
-| Sun, 10 Aug 2025 21:35:22 GMT | I Found $3,500 in a Public Git Config | Ibtissam hammadi | [Read More](https://medium.com/p/3b9fc5e47c4b) |
-| Sun, 10 Aug 2025 21:31:32 GMT | Talentcoders Siber Güvenlik Yaz Kampı CTF Etkinliği | Hakan ÇEVİK | [Read More](https://medium.com/p/c7ecbbfe2220) |
-| Sun, 10 Aug 2025 21:27:37 GMT | WebDecode - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/daa52e475178) |
-| Sun, 10 Aug 2025 21:22:13 GMT | https://www.dropbox.com/scl/fi/sh6lmsy6h1bf6zt0zbzxx/W9_Brandon_Zid.pdf?rlkey=oyn3nj0eguc8dowqzt4xxq | Brandonzid | [Read More](https://medium.com/p/d0e81e42c6f5) |
-| Sun, 10 Aug 2025 21:12:21 GMT | Binary Search - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/5620c92056ef) |
-| Sun, 10 Aug 2025 21:10:43 GMT | Your analysis of both the poem and the "god of forces" from Daniel 11:38-39 is deeply insightful… | Darren Robert Brown | [Read More](https://medium.com/p/35fa178d0048) |
-| Sun, 10 Aug 2025 21:06:32 GMT | Is PostgreSQL Actually the Best Database for Production-Ready SaaS? | Satyam Sahu | [Read More](https://medium.com/p/961312dc8473) |
-| Sun, 10 Aug 2025 21:06:20 GMT | From Zero to Secure: How we Built a VLAN-Segmented SOHO Network with Palo Alto HA | Alae El Amrani | [Read More](https://medium.com/p/9bf70308af63) |
-| Sun, 10 Aug 2025 21:04:01 GMT | One Week in Cybersecurity and Here’s What I Learnt and Unlearnt. | Emmanuel Jeffrey Kassa | [Read More](https://medium.com/p/35247ce04376) |
-| Sun, 10 Aug 2025 20:52:19 GMT | Equifax Breach: How a $700M Mistake Happened | Aj | [Read More](https://medium.com/p/b77a9a7d9dad) |
-| Sun, 10 Aug 2025 20:50:26 GMT | Understanding PID and TID Number Patterns in Windows: Why They’re Always Divisible by 4 | DarKVoicE | [Read More](https://medium.com/p/909b5c317329) |
-| Sun, 10 Aug 2025 20:50:17 GMT | Cybersecurity From The Start | Kabir Anand | [Read More](https://medium.com/p/a0a3872797c0) |
-| Sun, 10 Aug 2025 20:34:40 GMT | Base 44 Vulnerability | Riley Shu | [Read More](https://medium.com/p/b60168168386) |
