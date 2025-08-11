@@ -12,11 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 09:44:29 GMT | HTTP Request Smuggling In Bug Bounty Hunting | Zodiac Hacker | [Read More](https://medium.com/p/abf0e4e75b73) |
+| Mon, 11 Aug 2025 09:43:56 GMT | Data Privacy is About Trust, Not Just Locks | Preye Ronald Pimeh | [Read More](https://medium.com/p/bb6ed1c5269a) |
+| Mon, 11 Aug 2025 09:43:10 GMT | Kali Linux Temel Komutlar: Dizin ve Dosya Yönetimi | Burak | [Read More](https://medium.com/p/bda5137db215) |
+| Mon, 11 Aug 2025 09:40:52 GMT | 5 Free OSINT Tools Used by Professionals: Open Source | Muamer Huseinovic | [Read More](https://medium.com/p/9e3c0fc7b85f) |
+| Mon, 11 Aug 2025 09:40:18 GMT | 5 Most Important System Level Commands You Should Know about It -Day 01 | Aqsa Rasheed | [Read More](https://medium.com/p/6aafcfd01059) |
+| Mon, 11 Aug 2025 09:28:52 GMT | Breach-Centric Security: Why Antivirus Alone Is No Longer Enough | Fadli Adriansyah | [Read More](https://medium.com/p/0dbc6cb9d27f) |
 | Mon, 11 Aug 2025 09:28:16 GMT | The Technology Powering High-Performance Trading Terminals | LogiClump Technologies | [Read More](https://medium.com/p/c5c10e254fcc) |
+| Mon, 11 Aug 2025 09:27:40 GMT | REvil Lab ( CyberDefenders) | khalifa_farhat | [Read More](https://medium.com/p/70f0e4a19c35) |
+| Mon, 11 Aug 2025 09:25:47 GMT | Vulnerability Management Lab with Tenable. | Abednego Achim | [Read More](https://medium.com/p/ff93134ed2f0) |
 | Mon, 11 Aug 2025 09:25:32 GMT | Cybersecurity Resources: Accessing Valuable Information | Cyber Security Research | [Read More](https://medium.com/p/bf05e88f0eec) |
 | Mon, 11 Aug 2025 09:23:49 GMT | Cybersecurity Templates and Checklists: Improving Efficiency | Cyber Security Research | [Read More](https://medium.com/p/f1f6949bb0f4) |
+| Mon, 11 Aug 2025 09:22:33 GMT | Cybersecurity Case Studies: Learning from Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/4be0375a31b6) |
+| Mon, 11 Aug 2025 09:21:27 GMT | How to Protect Your Android App Against Cracking | wyuhuan | [Read More](https://medium.com/p/12d9c3adff10) |
 | Mon, 11 Aug 2025 09:21:15 GMT | Cybersecurity White Papers: Exploring In-Depth Topics | Cyber Security Research | [Read More](https://medium.com/p/22cbbae859e5) |
+| Mon, 11 Aug 2025 09:19:39 GMT | Digital Shield for Web3: A Trusted Fortress for DeFi and NFT Security? | Digital Shield | [Read More](https://medium.com/p/81e9da72f12f) |
 | Mon, 11 Aug 2025 09:19:25 GMT | Cybersecurity Books: Learning from Leading Experts | Cyber Security Research | [Read More](https://medium.com/p/bccd242851e2) |
+| Mon, 11 Aug 2025 09:18:03 GMT | Cybersecurity Podcasts: Listening to Cybersecurity Experts | Cyber Security Research | [Read More](https://medium.com/p/178ffc07a648) |
 | Mon, 11 Aug 2025 09:16:43 GMT | Cybersecurity Blogs and Newsletters: Following Industry Trends | Cyber Security Research | [Read More](https://medium.com/p/1c6a831581b8) |
 | Mon, 11 Aug 2025 09:15:25 GMT | Cybersecurity Conferences and Events: Staying Up-to-Date | Cyber Security Research | [Read More](https://medium.com/p/13980341b96d) |
 | Mon, 11 Aug 2025 09:13:39 GMT | Cybersecurity Community: Connecting with Other Professionals | Cyber Security Research | [Read More](https://medium.com/p/b9e70034da02) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 06:31:11 GMT | Agentic AI — A Beginner’s Guide to Agentic AI: What It Is and Why It Matters | Jeeva Selvaraju | [Read More](https://medium.com/p/f29f67a26c86) |
 | Mon, 11 Aug 2025 06:24:30 GMT | $3,500 Bounty —  Total Failure of Password Protection While Extracting Seed Phrase — A Critical… | Hacker Write-Ups | [Read More](https://medium.com/p/79723184d46e) |
 | Mon, 11 Aug 2025 06:22:16 GMT | Critical RCE Vulnerability Found in IP-guard WebServer — Patch Now! | Quella | [Read More](https://medium.com/p/78216c2fe7a6) |
-| Mon, 11 Aug 2025 06:21:09 GMT | Top Cyber Security Questions and Answers for 2025: Ace Your Interview & Quiz with Expert Tips | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/a2806202a2bb) |
-| Mon, 11 Aug 2025 06:15:12 GMT | Why Every Business Needs a Mobile App Pentest to Stay Secure | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/72a49e00a7d8) |
-| Mon, 11 Aug 2025 06:14:32 GMT | Diverse E-commerce Development Services You Should Know | Ketan Patel | [Read More](https://medium.com/p/d8a0acdcf1d5) |
-| Mon, 11 Aug 2025 06:13:34 GMT | Risk Yönetiminde Desecure’un Sektördeki Etkin Stratejileri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/100db86cddc6) |
-| Mon, 11 Aug 2025 06:10:49 GMT | CTF Day(50) | Ahmed Narmer | [Read More](https://medium.com/p/ef758c06b0e7) |
-| Mon, 11 Aug 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Aug 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/cd64fe440402) |
-| Mon, 11 Aug 2025 05:51:51 GMT | Gmail Analysis with Cursor | Vivekraja | [Read More](https://medium.com/p/9ee04deda735) |
-| Mon, 11 Aug 2025 05:51:17 GMT | Exploring Top E-commerce Platforms: nopCommerce & PrestaShop | Bhavesh Rajpurohit | [Read More](https://medium.com/p/807e52975b64) |
-| Mon, 11 Aug 2025 05:51:03 GMT | Crafting Tomorrow’s Security, Today | Quva India | [Read More](https://medium.com/p/818919f59a56) |
-| Mon, 11 Aug 2025 05:48:03 GMT | Decoding Malware: A First Principles Approach to Visual Classification | Menelik | [Read More](https://medium.com/p/fe4668c69ecb) |
-| Mon, 11 Aug 2025 05:44:10 GMT | Portswigger Labs — CSRF | Ans Inayat | [Read More](https://medium.com/p/aae190abec37) |
-| Mon, 11 Aug 2025 05:43:52 GMT | Mirage HTB Machine Writeup | Ans Inayat | [Read More](https://medium.com/p/7015d35a198e) |
