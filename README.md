@@ -12,8 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 13:36:32 GMT | Why Every Business Needs VAPT: EDSPL End-to-End Vulnerability Management Approach | saurabh cyberinfomines | [Read More](https://medium.com/p/2294dfbbc3fb) |
+| Mon, 11 Aug 2025 13:31:46 GMT | Over 29,000 Exchange Servers Still Vulnerable to High-Severity Flaw | Dhruvdeep Singh | [Read More](https://medium.com/p/1820c12f1a66) |
+| Mon, 11 Aug 2025 13:30:10 GMT | Recommended Readings | Kavya Ganesan | [Read More](https://medium.com/p/59c3fc2a74cb) |
+| Mon, 11 Aug 2025 13:27:04 GMT | Email Security Analysis | Danny | [Read More](https://medium.com/p/ac5d5a1543a3) |
+| Mon, 11 Aug 2025 13:24:35 GMT | The Changing Face of Defence: Trends Shaping Security in Africa | Abdulsalampelumi | [Read More](https://medium.com/p/7e1312686a61) |
+| Mon, 11 Aug 2025 13:21:57 GMT | Comprehensive Guide to the Latest Upload Bundle Policy Update: Key Changes, Compliance, and Best… | Dayakumar | [Read More](https://medium.com/p/11ae6d4196d1) |
+| Mon, 11 Aug 2025 13:21:53 GMT | No More Photo-to-Art Transformations? OpenAI’s Image Rules Just Changed | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/8aa373c6d89a) |
+| Mon, 11 Aug 2025 13:21:48 GMT | Top Attack Vectors in 2025: How Hackers Are Targeting Websites Right Now | Adaeze J. Festus | [Read More](https://medium.com/p/737a73d54548) |
+| Mon, 11 Aug 2025 13:20:52 GMT | Why AI Security Deserves as Much Attention as AI Itself | Harold Moss | [Read More](https://medium.com/p/8aa381a05820) |
+| Mon, 11 Aug 2025 13:09:29 GMT | “Chairmen” of a $100M fraud ring: what the filing actually says — and why it matters | Dhruvdeep Singh | [Read More](https://medium.com/p/d20fb1a97b79) |
+| Mon, 11 Aug 2025 13:04:56 GMT | Agentic AI Secure Lifecycle: Essential Steps to Safeguard Autonomous AI Systems | Amritha George | [Read More](https://medium.com/p/b3ac94e91206) |
+| Mon, 11 Aug 2025 13:04:09 GMT | Card Reader Installation in Baltimore — ICS Security Solutions | Adam Xevas | [Read More](https://medium.com/p/b4807151c082) |
+| Mon, 11 Aug 2025 13:02:45 GMT | How I made websites created from the CMS cyber secured ? | Ayush Raj | [Read More](https://medium.com/p/3f9de99cb2c8) |
+| Mon, 11 Aug 2025 12:58:17 GMT | From Vulnerability to Weapon: How CVEs Become Real-World Threats | Sammcmullen | [Read More](https://medium.com/p/a7d6f9a1b715) |
+| Mon, 11 Aug 2025 12:53:09 GMT | GÖREV 1 - Savunma Güvenliğe Giriş (EN) | Atakan Bitim | [Read More](https://medium.com/p/b5ad6e066fe2) |
+| Mon, 11 Aug 2025 12:50:39 GMT | DVWA Kurulumu (Windows, XAMPP) | Fatih Kaya | [Read More](https://medium.com/p/71bb28a76b36) |
+| Mon, 11 Aug 2025 12:49:42 GMT | A Letter To My Younger Self: Dear Me... | O. J. Okpabi | [Read More](https://medium.com/p/7a341defae3d) |
 | Mon, 11 Aug 2025 12:46:13 GMT | The Man Who Sold Me God | O. J. Okpabi | [Read More](https://medium.com/p/3b30b3521852) |
+| Mon, 11 Aug 2025 12:41:23 GMT | HTTP OPTIONS Method — The Hidden Key to Understanding CORS and Web Security | Somar Kesen | [Read More](https://medium.com/p/53f54fa2d495) |
+| Mon, 11 Aug 2025 12:39:49 GMT | CORS Misconfigurations & Path Traversal Explained — Real-World Exploitation on Vuln-Bank App | Rachael Kivuti | [Read More](https://medium.com/p/397c3b4a8d52) |
 | Mon, 11 Aug 2025 12:36:53 GMT | The End is Only the Beginning: From Cloud Academy Graduate to Security Leader | Jimmy Peralta | [Read More](https://medium.com/p/afa9c2ef9a3b) |
+| Mon, 11 Aug 2025 12:34:52 GMT | Subnetting — The Art of Breaking a Big City into Smaller Neighbourhoods | prince singh | [Read More](https://medium.com/p/12e7face76b5) |
 | Mon, 11 Aug 2025 12:31:50 GMT | Before You Press Play on Pandora, Read This | A D | [Read More](https://medium.com/p/48281f0d6e3e) |
 | Mon, 11 Aug 2025 12:29:02 GMT | The Introduction Nobody Asked For | Daniel Olurin - Cyberwriter | [Read More](https://medium.com/p/2d8f86fd9f9a) |
 | Mon, 11 Aug 2025 12:25:53 GMT | Kiosks Redefining the Future: How Panashi FZCO is Powering Smarter, Faster, and More Connected… | Rakesh | [Read More](https://medium.com/p/59330e653b92) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 09:19:25 GMT | Cybersecurity Books: Learning from Leading Experts | Cyber Security Research | [Read More](https://medium.com/p/bccd242851e2) |
 | Mon, 11 Aug 2025 09:18:03 GMT | Cybersecurity Podcasts: Listening to Cybersecurity Experts | Cyber Security Research | [Read More](https://medium.com/p/178ffc07a648) |
 | Mon, 11 Aug 2025 09:16:43 GMT | Cybersecurity Blogs and Newsletters: Following Industry Trends | Cyber Security Research | [Read More](https://medium.com/p/1c6a831581b8) |
-| Mon, 11 Aug 2025 09:15:25 GMT | Cybersecurity Conferences and Events: Staying Up-to-Date | Cyber Security Research | [Read More](https://medium.com/p/13980341b96d) |
-| Mon, 11 Aug 2025 09:13:39 GMT | Cybersecurity Community: Connecting with Other Professionals | Cyber Security Research | [Read More](https://medium.com/p/b9e70034da02) |
-| Mon, 11 Aug 2025 09:13:17 GMT | ANAKUS: BTLO Write-up | Erdem Ulu | [Read More](https://medium.com/p/695f0a1bd9b4) |
-| Mon, 11 Aug 2025 09:11:53 GMT | Farewell to Trusted Custody, Command Your Crypto Sovereignty: An In-Depth Look at the Digital… | Digital Shield Offcial | [Read More](https://medium.com/p/3f4332a60d3a) |
-| Mon, 11 Aug 2025 09:09:11 GMT | PortSwigger Lab: Blind OS Command Injection with Out-of-Band Interaction | Siddiquimohammad | [Read More](https://medium.com/p/9fd89350666a) |
-| Mon, 11 Aug 2025 09:08:58 GMT | So, You Wanna Be an Ethical Hacker? | SilentInject | [Read More](https://medium.com/p/f8e9fe617dd7) |
-| Mon, 11 Aug 2025 09:07:29 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/63b92d180455) |
-| Mon, 11 Aug 2025 09:05:48 GMT | Special Lecture I | unknownman | [Read More](https://medium.com/p/cd3ba111644b) |
-| Mon, 11 Aug 2025 09:05:32 GMT | Siri’s Betrayal: Is Your iPhone a Privacy Nightmare? | Truspex | [Read More](https://medium.com/p/e1dccbe1846a) |
-| Mon, 11 Aug 2025 09:03:47 GMT | The Butterfly That Outsmarted a Quantum Computer | TheCyberSalad | [Read More](https://medium.com/p/15dad1109ff6) |
-| Mon, 11 Aug 2025 09:03:31 GMT | Goodbye SOC Life: Is It Time To Move On? | Authlyn | [Read More](https://medium.com/p/3672fcff3879) |
-| Mon, 11 Aug 2025 09:00:44 GMT | Redirects to formLogin Occur in Spring Security and How to Handle Them Effectively | Anh Trần Tuấn | [Read More](https://medium.com/p/f8bd80d05396) |
-| Mon, 11 Aug 2025 09:00:42 GMT | Redirects to formLogin Occur in Spring Security and How to Handle Them Effectively | Anh Trần Tuấn | [Read More](https://medium.com/p/8d99160823a4) |
-| Mon, 11 Aug 2025 08:58:27 GMT | Best Apple MDM Software for Easy iOS Device Control | Vantage MDM | [Read More](https://medium.com/p/59ed403f24ec) |
-| Mon, 11 Aug 2025 08:57:28 GMT | Dockerizing MySQL and PostgreSQL for Performance: The Complete Guide That Will Transform Your… | Rizqi Mulki | [Read More](https://medium.com/p/93d2b78777f4) |
-| Mon, 11 Aug 2025 08:57:10 GMT | Using PgBouncer for Better Connection Management: The Secret Weapon That Will 10x Your PostgreSQL… | Rizqi Mulki | [Read More](https://medium.com/p/86e76e73f019) |
-| Mon, 11 Aug 2025 08:56:38 GMT | ChatGPT MacOS App stopped “Working with” | Robert-Rami Youssef | [Read More](https://medium.com/p/d39f82dc46ba) |
-| Mon, 11 Aug 2025 08:56:38 GMT | Fail-Proof Ways to Back Up Secure Databases: The $10 Million Lesson That Will Save Your Career | Rizqi Mulki | [Read More](https://medium.com/p/a7b851c91cee) |
-| Mon, 11 Aug 2025 08:53:38 GMT | Principles of Security - Tryhackme | Atakan Bitim | [Read More](https://medium.com/p/c48c58b6c01e) |
-| Mon, 11 Aug 2025 08:49:29 GMT | SafeLine WAF’s Dynamic Protection — A Hands-On Review | AerieWhole123 | [Read More](https://medium.com/p/6dc172460970) |
