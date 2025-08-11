@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 19:31:01 GMT | Portswigger Server-Side Request Forgery (SSRF) Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/1a9782bf775a) |
+| Mon, 11 Aug 2025 19:31:01 GMT | Portswigger Server-Side Request Forgery (SSRF) Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/dc4c6a0802d7) |
+| Mon, 11 Aug 2025 19:31:01 GMT | Portswigger Server-Side Request Forgery (SSRF) Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/68066b696b0c) |
+| Mon, 11 Aug 2025 19:27:52 GMT | Beyond PCI and HIPAA: How Feroot Powers Australian Privacy Act (APA) Compliance | Feroot Security | [Read More](https://medium.com/p/ecbc9e82a872) |
 | Mon, 11 Aug 2025 19:04:40 GMT | Mr Robot CTF | Meena A | [Read More](https://medium.com/p/03ddea5c50c3) |
 | Mon, 11 Aug 2025 19:00:59 GMT | Car Hacking Is Real — And Automotive Penetration Testing Is How We Fight Back | DefenceRabbit | [Read More](https://medium.com/p/3cf7719f4c43) |
 | Mon, 11 Aug 2025 18:48:13 GMT | Debate: Human vs Chat-GPT 5.0 – Topic: Data vs Computation | Besim Verdi Abdullai | [Read More](https://medium.com/p/d8e57a95cbfe) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 14:09:48 GMT | Stop Reaching for IAM Keys: Better Ways to Access AWS Services | Mochamad Gufron | [Read More](https://medium.com/p/afbf6fa1aa71) |
 | Mon, 11 Aug 2025 14:06:01 GMT | Cyber Security Training Courses for the Finance Industry: Why They’re Critical in 2025 and Where to… | Paul Meyer | [Read More](https://medium.com/p/6125124b9ffe) |
 | Mon, 11 Aug 2025 14:01:50 GMT | Cyber Briefing: 2025.08.11 | CyberMaterial | [Read More](https://medium.com/p/30af23664011) |
-| Mon, 11 Aug 2025 13:56:15 GMT | State of Cybersecurity — 2025 | Kaushik Majumder | [Read More](https://medium.com/p/e6d876b16b16) |
-| Mon, 11 Aug 2025 13:51:31 GMT | Bypassing the Windows 11 Login Screen: A Non-Destructive Method for Forensic and Administrative… | XOBlackburn | [Read More](https://medium.com/p/60b3bd7877cc) |
-| Mon, 11 Aug 2025 13:49:58 GMT | How Does the Nuclear Non- Proliferation Treaty (NPT) Play a Role in Preventing the Spread of… | Rifalina Razanah Segaf S | [Read More](https://medium.com/p/a61b64de12b0) |
-| Mon, 11 Aug 2025 13:48:33 GMT | Login Brute Force With Selenium | Francesco Pastore | [Read More](https://medium.com/p/20999841196d) |
