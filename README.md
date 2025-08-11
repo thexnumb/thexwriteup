@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 14:16:21 GMT | Control Flow Integrity (CFI) | Zeyadsalah | [Read More](https://medium.com/p/02adba3181ce) |
+| Mon, 11 Aug 2025 14:12:34 GMT | HTTP request smuggling, confirming a TE.CL vulnerability via differential responses | mattyerz | [Read More](https://medium.com/p/835c1a764d51) |
+| Mon, 11 Aug 2025 14:09:48 GMT | Stop Reaching for IAM Keys: Better Ways to Access AWS Services | Mochamad Gufron | [Read More](https://medium.com/p/afbf6fa1aa71) |
+| Mon, 11 Aug 2025 14:06:01 GMT | Cyber Security Training Courses for the Finance Industry: Why They’re Critical in 2025 and Where to… | Paul Meyer | [Read More](https://medium.com/p/6125124b9ffe) |
+| Mon, 11 Aug 2025 14:01:50 GMT | Cyber Briefing: 2025.08.11 | CyberMaterial | [Read More](https://medium.com/p/30af23664011) |
+| Mon, 11 Aug 2025 13:56:15 GMT | State of Cybersecurity — 2025 | Kaushik Majumder | [Read More](https://medium.com/p/e6d876b16b16) |
+| Mon, 11 Aug 2025 13:51:31 GMT | Bypassing the Windows 11 Login Screen: A Non-Destructive Method for Forensic and Administrative… | XOBlackburn | [Read More](https://medium.com/p/60b3bd7877cc) |
+| Mon, 11 Aug 2025 13:49:58 GMT | How Does the Nuclear Non- Proliferation Treaty (NPT) Play a Role in Preventing the Spread of… | Rifalina Razanah Segaf S | [Read More](https://medium.com/p/a61b64de12b0) |
+| Mon, 11 Aug 2025 13:48:33 GMT | Login Brute Force With Selenium | Francesco Pastore | [Read More](https://medium.com/p/20999841196d) |
+| Mon, 11 Aug 2025 13:46:32 GMT | Order — Tryhackme Writeup | GauthamV | [Read More](https://medium.com/p/079580b326ed) |
+| Mon, 11 Aug 2025 13:44:43 GMT | Careers in Cyber - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/8c67fc0eea4f) |
+| Mon, 11 Aug 2025 13:43:38 GMT | Reverse Engineering Ransomware: Forensic Revelations | Sandeep Sengupta | [Read More](https://medium.com/p/fbd35c001c5f) |
+| Mon, 11 Aug 2025 13:42:51 GMT | [02]. How do I create my luck in bug bounty? | yoyomiski | [Read More](https://medium.com/p/2186c426c452) |
+| Mon, 11 Aug 2025 13:39:59 GMT | Compliance vs Risk — Cyber assurance program | Kaushik Majumder | [Read More](https://medium.com/p/9bbd0db45125) |
 | Mon, 11 Aug 2025 13:36:32 GMT | Why Every Business Needs VAPT: EDSPL End-to-End Vulnerability Management Approach | saurabh cyberinfomines | [Read More](https://medium.com/p/2294dfbbc3fb) |
+| Mon, 11 Aug 2025 13:35:34 GMT | What is Cisco Umbrella & Why Should You Learn It? | Himanshu Sahu | [Read More](https://medium.com/p/f4bce753bffc) |
 | Mon, 11 Aug 2025 13:31:46 GMT | Over 29,000 Exchange Servers Still Vulnerable to High-Severity Flaw | Dhruvdeep Singh | [Read More](https://medium.com/p/1820c12f1a66) |
 | Mon, 11 Aug 2025 13:30:10 GMT | Recommended Readings | Kavya Ganesan | [Read More](https://medium.com/p/59c3fc2a74cb) |
 | Mon, 11 Aug 2025 13:27:04 GMT | Email Security Analysis | Danny | [Read More](https://medium.com/p/ac5d5a1543a3) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 09:44:29 GMT | HTTP Request Smuggling In Bug Bounty Hunting | Zodiac Hacker | [Read More](https://medium.com/p/abf0e4e75b73) |
 | Mon, 11 Aug 2025 09:43:56 GMT | Data Privacy is About Trust, Not Just Locks | Preye Ronald Pimeh | [Read More](https://medium.com/p/bb6ed1c5269a) |
 | Mon, 11 Aug 2025 09:43:10 GMT | Kali Linux Temel Komutlar: Dizin ve Dosya Yönetimi | Burak | [Read More](https://medium.com/p/bda5137db215) |
-| Mon, 11 Aug 2025 09:40:52 GMT | 5 Free OSINT Tools Used by Professionals: Open Source | Muamer Huseinovic | [Read More](https://medium.com/p/9e3c0fc7b85f) |
-| Mon, 11 Aug 2025 09:40:18 GMT | 5 Most Important System Level Commands You Should Know about It -Day 01 | Aqsa Rasheed | [Read More](https://medium.com/p/6aafcfd01059) |
-| Mon, 11 Aug 2025 09:28:52 GMT | Breach-Centric Security: Why Antivirus Alone Is No Longer Enough | Fadli Adriansyah | [Read More](https://medium.com/p/0dbc6cb9d27f) |
-| Mon, 11 Aug 2025 09:28:16 GMT | The Technology Powering High-Performance Trading Terminals | LogiClump Technologies | [Read More](https://medium.com/p/c5c10e254fcc) |
-| Mon, 11 Aug 2025 09:27:40 GMT | REvil Lab ( CyberDefenders) | khalifa_farhat | [Read More](https://medium.com/p/70f0e4a19c35) |
-| Mon, 11 Aug 2025 09:25:47 GMT | Vulnerability Management Lab with Tenable. | Abednego Achim | [Read More](https://medium.com/p/ff93134ed2f0) |
-| Mon, 11 Aug 2025 09:25:32 GMT | Cybersecurity Resources: Accessing Valuable Information | Cyber Security Research | [Read More](https://medium.com/p/bf05e88f0eec) |
-| Mon, 11 Aug 2025 09:23:49 GMT | Cybersecurity Templates and Checklists: Improving Efficiency | Cyber Security Research | [Read More](https://medium.com/p/f1f6949bb0f4) |
-| Mon, 11 Aug 2025 09:22:33 GMT | Cybersecurity Case Studies: Learning from Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/4be0375a31b6) |
-| Mon, 11 Aug 2025 09:21:27 GMT | How to Protect Your Android App Against Cracking | wyuhuan | [Read More](https://medium.com/p/12d9c3adff10) |
-| Mon, 11 Aug 2025 09:21:15 GMT | Cybersecurity White Papers: Exploring In-Depth Topics | Cyber Security Research | [Read More](https://medium.com/p/22cbbae859e5) |
-| Mon, 11 Aug 2025 09:19:39 GMT | Digital Shield for Web3: A Trusted Fortress for DeFi and NFT Security? | Digital Shield | [Read More](https://medium.com/p/81e9da72f12f) |
-| Mon, 11 Aug 2025 09:19:25 GMT | Cybersecurity Books: Learning from Leading Experts | Cyber Security Research | [Read More](https://medium.com/p/bccd242851e2) |
-| Mon, 11 Aug 2025 09:18:03 GMT | Cybersecurity Podcasts: Listening to Cybersecurity Experts | Cyber Security Research | [Read More](https://medium.com/p/178ffc07a648) |
-| Mon, 11 Aug 2025 09:16:43 GMT | Cybersecurity Blogs and Newsletters: Following Industry Trends | Cyber Security Research | [Read More](https://medium.com/p/1c6a831581b8) |
