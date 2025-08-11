@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 11:14:52 GMT | Natas 0 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/3b3153476d7e) |
+| Mon, 11 Aug 2025 11:10:42 GMT | SMT Program 2025 — Special Lecture 1 Journal: OSINT- Knowing Without Breaching | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/3c24b04755c9) |
+| Mon, 11 Aug 2025 11:08:46 GMT | DockerLabs Writeup — ChatMe (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3dfa8a6f7724) |
+| Mon, 11 Aug 2025 10:58:10 GMT | How to Prevent Data Theft: Best Practices for Protecting Your Digital Assets | Amit solanki | [Read More](https://medium.com/p/b45257a6b76d) |
 | Mon, 11 Aug 2025 10:46:56 GMT | Discovering PII Data in Databricks with discoverx | Alwyn DSouza | [Read More](https://medium.com/p/8a1f525b1fb1) |
+| Mon, 11 Aug 2025 10:46:23 GMT | Automating Security Operations with SOAR: TryHackMe “SOAR” Room Walkthrough | Furkanctiner | [Read More](https://medium.com/p/71ddec98a1f9) |
 | Mon, 11 Aug 2025 10:38:14 GMT | How I created a Home Lab on Endpoint Detection Tool, TCP view. | Samuel Jack | [Read More](https://medium.com/p/965763b46e82) |
 | Mon, 11 Aug 2025 10:37:40 GMT | Do You Think You Know OSINT? Stalking Your Ex Isn’t Part of It. Think Again. | Afwan Mulia Pratama | [Read More](https://medium.com/p/437ee5763b47) |
 | Mon, 11 Aug 2025 10:37:10 GMT | Aurora EDR — A Lightweight & Powerful Sigma-Based EDR Tool | Furkanctiner | [Read More](https://medium.com/p/91c8e876162e) |
@@ -72,6 +77,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 08:49:29 GMT | SafeLine WAF’s Dynamic Protection — A Hands-On Review | AerieWhole123 | [Read More](https://medium.com/p/6dc172460970) |
 | Mon, 11 Aug 2025 08:49:25 GMT | Free Cybersecurity Course? Is It Worth Your Time? | CtrlC3 | [Read More](https://medium.com/p/d349336f7bf3) |
 | Mon, 11 Aug 2025 08:48:31 GMT | 2025’s Top 10 Phishing Awareness Best Practices Every Business Should Know | Keepnet Labs | [Read More](https://medium.com/p/d1af8ec21a5b) |
+| Mon, 11 Aug 2025 08:47:16 GMT | Dịch vụ bảo vệ spa, thẩm mỹ viện — Giải pháp an ninh chuyên nghiệp, nâng tầm thương hiệu | DaiAnGroup | [Read More](https://medium.com/p/9c8ce2679613) |
 | Mon, 11 Aug 2025 08:44:35 GMT | Cracking the Future: How Hackers Toppled GPT-5’s Defenses | Pentestjunkie07 | [Read More](https://medium.com/p/8890f23ea16d) |
 | Mon, 11 Aug 2025 08:42:33 GMT | Phishing: The Complete Guide to Cyber Deception and Protection | Pragya Sapkota | [Read More](https://medium.com/p/76978730605c) |
 | Mon, 11 Aug 2025 08:42:00 GMT | Dịch vụ bảo vệ shop thời trang — Giải pháp an ninh chuyên nghiệp cho cửa hàng của bạn | DaiAnGroup | [Read More](https://medium.com/p/f905e8ca87d7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 07:30:35 GMT | SafeLine: The High-Performance Open-Source WAF for Developers | Quella | [Read More](https://medium.com/p/947bf33ec5a4) |
 | Mon, 11 Aug 2025 07:30:01 GMT | A09:2021 — Security Logging and Monitoring Failures | GhostNex | [Read More](https://medium.com/p/cffb6555c7e9) |
 | Mon, 11 Aug 2025 07:28:59 GMT | Medical Device Security: A Healthcare Crisis Waiting to Happen | Aj | [Read More](https://medium.com/p/df7b37d153ef) |
-| Mon, 11 Aug 2025 07:28:25 GMT | EduPrajna is a dedicated learning hub that offers high-quality IT coaching along with academic… | Ranjithrao | [Read More](https://medium.com/p/f83ff3022c7c) |
-| Mon, 11 Aug 2025 07:27:06 GMT | Secure your LLM apps with Google Cloud Model Armor | Mete Atamel | [Read More](https://medium.com/p/0ad9d366bc0f) |
-| Mon, 11 Aug 2025 07:25:38 GMT | indian bank se paise cut jaaye to kya karen☎️ 9669538050 ☎️इंडियन बैंक से पैसे कटने पर शिकायत कैसे… | इंडियन बैंक से पैसे कट जाने पर क्या करें? | [Read More](https://medium.com/p/f35306899ce1) |
-| Mon, 11 Aug 2025 07:25:13 GMT | Integrating Artificial Intelligence technologies into real-world Applications - 33ResearchLabs | 33Researchlabs | [Read More](https://medium.com/p/94203635f57a) |
-| Mon, 11 Aug 2025 07:25:10 GMT | indian bank se paise cut jaaye to kya karen☎️ 9669538050 ☎️इंडियन बैंक से पैसे कटने पर शिकायत कैसे… | इंडियन बैंक से पैसे कट जाने पर क्या करें? | [Read More](https://medium.com/p/7c6f83de3ab7) |
-| Mon, 11 Aug 2025 07:21:33 GMT | What Is the Goal of Destroying CUI? | Jetico | [Read More](https://medium.com/p/152868546d99) |
