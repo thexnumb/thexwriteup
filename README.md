@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 22:13:03 GMT | The Hidden Fight: How Crypto Scams Hurt India’s Digital Future | Mohd Yaseen Khan | [Read More](https://medium.com/p/fdaa340ce07a) |
+| Mon, 11 Aug 2025 22:12:09 GMT | A Crypto Regulation Surge: Trump’s 401(k) Crypto Boost and SEC’s Liquid Staking Nod | Awobodu Daniel | [Read More](https://medium.com/p/84664d8c6f1e) |
+| Mon, 11 Aug 2025 22:05:30 GMT | Up and Running with GitHound for secret scanning in 5 minutes | Tillson Galloway | [Read More](https://medium.com/p/e644890e9e16) |
+| Mon, 11 Aug 2025 21:59:53 GMT | The Dark Web’s Worst Nightmares | Aj | [Read More](https://medium.com/p/4d9af138ea1c) |
+| Mon, 11 Aug 2025 21:58:53 GMT | I LOST CRYPTO. HOW CAN I RECOVER IT? GO THROUGH OPTIMISTIC HACKER GAIUS | Danielwilliam | [Read More](https://medium.com/p/387a07c8a8a9) |
+| Mon, 11 Aug 2025 21:51:18 GMT | Training AI for Cyberthreats | John Dawson | [Read More](https://medium.com/p/f45e28e5fa04) |
+| Mon, 11 Aug 2025 21:51:07 GMT | What to Look for in a Secure AI Notetaker: An IT Leader’s Guide | Manuela Bárcenas | [Read More](https://medium.com/p/2b0f445db728) |
+| Mon, 11 Aug 2025 21:46:37 GMT | The Shell Was Restricted, but the Kernel Memory Was Wide Open | Matias Ramirez | [Read More](https://medium.com/p/78a6b47ce5b0) |
+| Mon, 11 Aug 2025 21:42:20 GMT | Cybersecurity Is More Than Just Finding the Problem | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/1cafcfb7d46b) |
+| Mon, 11 Aug 2025 21:37:12 GMT | From Manual to Mastery: The Property Management Breakthroughs Defining 2025 | SnapInspect | [Read More](https://medium.com/p/887c28326e03) |
+| Mon, 11 Aug 2025 21:36:27 GMT | How to Crawl the Internet Anonymously: A Beginner’s Guide | Gowtham | [Read More](https://medium.com/p/af102f3c25b7) |
 | Mon, 11 Aug 2025 21:36:24 GMT | The 3 Tools you need for Bug Bounty / Pentesting | Jeosantos | [Read More](https://medium.com/p/f6f2b94229a4) |
 | Mon, 11 Aug 2025 21:30:12 GMT | The Ultimate Guide to Cybersecurity Services in 2025: Protect Your Business Today | Defend My Business | [Read More](https://medium.com/p/8384cbca8f46) |
 | Mon, 11 Aug 2025 21:24:19 GMT | Security and SOQL: Ensuring Data Security in Your Queries | James | [Read More](https://medium.com/p/c6a7c897f8d9) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 15:56:15 GMT | Trend Micro Apex One On-Premise Critical Vulnerabilities | _Anirudh_ | [Read More](https://medium.com/p/fca9d6f9bc01) |
 | Mon, 11 Aug 2025 15:53:16 GMT | Secure Coding Part 9— Command Injection Attack: Python exec() & Seccomp to the rescue | Siddiquimohammad | [Read More](https://medium.com/p/7e9a9828ab4d) |
 | Mon, 11 Aug 2025 15:40:48 GMT | How Did Ukraine Turn the Russian Tax System into a Battlefield? | Stefan Markov | [Read More](https://medium.com/p/8b5c8041c730) |
-| Mon, 11 Aug 2025 15:34:37 GMT | When the Breach Comes Calling | Simply Leah | [Read More](https://medium.com/p/891db1722bc3) |
-| Mon, 11 Aug 2025 15:31:58 GMT | Phishing Works Because It’s Not Smart Tech | Atul Sathyan | [Read More](https://medium.com/p/c49a9d6b9906) |
-| Mon, 11 Aug 2025 15:24:11 GMT | Increasing the Impact of Blind XSS When Triggered in Electron.js Apps | Lachhamza | [Read More](https://medium.com/p/12df2f49a896) |
-| Mon, 11 Aug 2025 15:22:35 GMT | Protecting Your Kids Online: A Parent’s Guide to Cyber Safety | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/b16f767e357b) |
-| Mon, 11 Aug 2025 15:18:37 GMT | How an unauthenticated attacker can create a WordPress admin account in seconds | Dardan Hasani | [Read More](https://medium.com/p/22efdacd1df0) |
-| Mon, 11 Aug 2025 15:16:47 GMT | How LeakScan Helped Me Discover Hidden Risks on My Website | finn | [Read More](https://medium.com/p/2807c3023cfb) |
-| Mon, 11 Aug 2025 15:16:19 GMT | Leveraging Printer SMB Functionality in Network Penetration Testing: A Case Study | 0xZox | [Read More](https://medium.com/p/7cd5a7e0df17) |
-| Mon, 11 Aug 2025 15:14:35 GMT | How a Misspelled Email Almost Cost Me $50,000 (And the One Detail That Exposed Everything) | Shahzaib | [Read More](https://medium.com/p/135e13ffaaf3) |
-| Mon, 11 Aug 2025 15:12:59 GMT | Germany’s IT Workforce Shortage: A Missed Opportunity Hiding in Plain Sight | Iliya Faraji | [Read More](https://medium.com/p/4b4d630f470f) |
-| Mon, 11 Aug 2025 15:12:01 GMT | What SMBs Get Wrong About Managed IT: Debunking the Most Costly Assumptions | CoopSys | [Read More](https://medium.com/p/0f4b559069b2) |
-| Mon, 11 Aug 2025 15:10:59 GMT | The Broken Marchioness: What a Woman Needs Most | Bill Myers | [Read More](https://medium.com/p/ac2ffa414cd6) |
