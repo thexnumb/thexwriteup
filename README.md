@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 19:04:40 GMT | Mr Robot CTF | Meena A | [Read More](https://medium.com/p/03ddea5c50c3) |
+| Mon, 11 Aug 2025 19:00:59 GMT | Car Hacking Is Real — And Automotive Penetration Testing Is How We Fight Back | DefenceRabbit | [Read More](https://medium.com/p/3cf7719f4c43) |
+| Mon, 11 Aug 2025 18:48:13 GMT | Debate: Human vs Chat-GPT 5.0 – Topic: Data vs Computation | Besim Verdi Abdullai | [Read More](https://medium.com/p/d8e57a95cbfe) |
+| Mon, 11 Aug 2025 18:46:27 GMT | Tor Exit Nodes OSINT | AbhirupKonwar | [Read More](https://medium.com/p/329ee4ef8ee2) |
+| Mon, 11 Aug 2025 18:37:02 GMT | ired of Polished, Corporate Tech Takes? Me Too. | Brainnoises | [Read More](https://medium.com/p/9e026422366b) |
+| Mon, 11 Aug 2025 18:36:00 GMT | How a Bank Ditched “Trust” and Beat Hackers with Zero Trust Architecture. | Priyalsharma | [Read More](https://medium.com/p/08481f83732b) |
+| Mon, 11 Aug 2025 18:34:52 GMT | Ukrainian Hackers Breach Major Russian Security Service Provider | Theo Zarren | [Read More](https://medium.com/p/3794118017bd) |
 | Mon, 11 Aug 2025 18:31:32 GMT | Dark Web Monitoring: Why It’s Essential for Protecting Your Business and Identity | SafeAeon Inc. | [Read More](https://medium.com/p/b1cf00972ce4) |
 | Mon, 11 Aug 2025 18:30:02 GMT | Rate Limiting and API Security | TechByRahmat | [Read More](https://medium.com/p/9940ca5dd990) |
 | Mon, 11 Aug 2025 18:28:02 GMT | Tech Giants Face New Global Regulations to Curb Data Privacy Concerns | THE NEWS NATION | [Read More](https://medium.com/p/b36bfd5ea7d6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 13:51:31 GMT | Bypassing the Windows 11 Login Screen: A Non-Destructive Method for Forensic and Administrative… | XOBlackburn | [Read More](https://medium.com/p/60b3bd7877cc) |
 | Mon, 11 Aug 2025 13:49:58 GMT | How Does the Nuclear Non- Proliferation Treaty (NPT) Play a Role in Preventing the Spread of… | Rifalina Razanah Segaf S | [Read More](https://medium.com/p/a61b64de12b0) |
 | Mon, 11 Aug 2025 13:48:33 GMT | Login Brute Force With Selenium | Francesco Pastore | [Read More](https://medium.com/p/20999841196d) |
-| Mon, 11 Aug 2025 13:46:32 GMT | Order — Tryhackme Writeup | GauthamV | [Read More](https://medium.com/p/079580b326ed) |
-| Mon, 11 Aug 2025 13:44:43 GMT | Careers in Cyber - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/8c67fc0eea4f) |
-| Mon, 11 Aug 2025 13:43:38 GMT | Reverse Engineering Ransomware: Forensic Revelations | Sandeep Sengupta | [Read More](https://medium.com/p/fbd35c001c5f) |
-| Mon, 11 Aug 2025 13:42:51 GMT | [02]. How do I create my luck in bug bounty? | yoyomiski | [Read More](https://medium.com/p/2186c426c452) |
-| Mon, 11 Aug 2025 13:39:59 GMT | Compliance vs Risk — Cyber assurance program | Kaushik Majumder | [Read More](https://medium.com/p/9bbd0db45125) |
-| Mon, 11 Aug 2025 13:36:32 GMT | Why Every Business Needs VAPT: EDSPL End-to-End Vulnerability Management Approach | saurabh cyberinfomines | [Read More](https://medium.com/p/2294dfbbc3fb) |
-| Mon, 11 Aug 2025 13:35:34 GMT | What is Cisco Umbrella & Why Should You Learn It? | Himanshu Sahu | [Read More](https://medium.com/p/f4bce753bffc) |
