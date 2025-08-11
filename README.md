@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 10:22:25 GMT | Why Tests Aren’t Enough (And What Actually Keeps Code Safe) | Geetesh Laddha | [Read More](https://medium.com/p/4c57336d2ee2) |
+| Mon, 11 Aug 2025 10:21:44 GMT | The Story of You & I | KAYLA DIOR | [Read More](https://medium.com/p/4f142d24128a) |
+| Mon, 11 Aug 2025 10:18:05 GMT | My Journey to Finding an IDOR Vulnerability — And the Lessons It Taught Me | Priyansh | [Read More](https://medium.com/p/06df46b386a8) |
+| Mon, 11 Aug 2025 10:16:57 GMT | Cybersecurity in the Quantum Era: Protecting Data Against Next-Gen Threats | Olatunde Aboaba | [Read More](https://medium.com/p/db774ce89215) |
+| Mon, 11 Aug 2025 10:14:39 GMT | LLM01:2025 Prompt Injection Detaylı ve Türkçe Anlatımı | Utku Ayan | [Read More](https://medium.com/p/f69000599dd1) |
+| Mon, 11 Aug 2025 10:03:59 GMT | How to Implement a Data Loss Prevention Strategy in 2025 with Microsoft Purview | Rue | [Read More](https://medium.com/p/de01bc3a5770) |
+| Mon, 11 Aug 2025 10:03:55 GMT | How Microsoft Defender for Office 365 Stops Email Bombing Attacks | CloudLink | [Read More](https://medium.com/p/5cd539095f26) |
+| Mon, 11 Aug 2025 09:57:02 GMT | Encrypting Network Traffic and VPN Security with Linux | Esra Kayhan | [Read More](https://medium.com/p/d8aa623b290f) |
+| Mon, 11 Aug 2025 09:56:29 GMT | Upcoming Information Security Recruitment Events in Vadodara | Aiswarya N | [Read More](https://medium.com/p/19398fee761b) |
+| Mon, 11 Aug 2025 09:51:56 GMT | RST TI Report Digest: 11 Aug 2025 | RST Cloud | [Read More](https://medium.com/p/3c69893390fd) |
 | Mon, 11 Aug 2025 09:44:29 GMT | HTTP Request Smuggling In Bug Bounty Hunting | Zodiac Hacker | [Read More](https://medium.com/p/abf0e4e75b73) |
 | Mon, 11 Aug 2025 09:43:56 GMT | Data Privacy is About Trust, Not Just Locks | Preye Ronald Pimeh | [Read More](https://medium.com/p/bb6ed1c5269a) |
 | Mon, 11 Aug 2025 09:43:10 GMT | Kali Linux Temel Komutlar: Dizin ve Dosya Yönetimi | Burak | [Read More](https://medium.com/p/bda5137db215) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 07:04:58 GMT | Why Developers Are Turning to SafeLine as Their Go-To WAF | Quella | [Read More](https://medium.com/p/d4799fddad78) |
 | Mon, 11 Aug 2025 07:02:06 GMT | CISA Flags Actively Exploited D-Link Camera Flaws: Urges Urgent Patching | SafetyDetectives Research Team | [Read More](https://medium.com/p/61f501a5b330) |
 | Mon, 11 Aug 2025 07:01:54 GMT | Social Engineering Attacks: The Human Element | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/72ad73bcfb55) |
-| Mon, 11 Aug 2025 07:01:50 GMT | How I Built a Complete Cybersecurity Skill Set with the StationX Series | Kizito Arinze Chukwu | [Read More](https://medium.com/p/f2c97bc0ad65) |
-| Mon, 11 Aug 2025 07:01:48 GMT | Meta Offered $1B for AI Talent While Cybersecurity Hits $32B Buyouts — Which Side Are You… | Qasim Mahmood Khalid | [Read More](https://medium.com/p/c25e00c1743c) |
-| Mon, 11 Aug 2025 07:01:28 GMT | Bugcrowd’s Blackhat USA CTF — Writeup | ABHISHEK M D | [Read More](https://medium.com/p/fc28adef7ea9) |
-| Mon, 11 Aug 2025 07:01:13 GMT | The Silent Digital War: Why Your Future in AI, Cybersecurity & Cloud Might Already Be Decided | JetkingChandigarh | [Read More](https://medium.com/p/15043e564231) |
-| Mon, 11 Aug 2025 06:55:41 GMT | A Love Story with Bugs | Dhiman Chandra | [Read More](https://medium.com/p/dd13bc201c22) |
-| Mon, 11 Aug 2025 06:52:51 GMT | Vanguard Tech Services: Your Trusted Partner for IT Strategy, Cybersecurity, Cloud, and Digital… | Vanguard Tech Services | [Read More](https://medium.com/p/67579d763225) |
-| Mon, 11 Aug 2025 06:35:29 GMT | How an Open Redirect Earned Me Points — Even as a Duplicate | Chaudhary Jugal | [Read More](https://medium.com/p/541d442f5516) |
-| Mon, 11 Aug 2025 06:31:11 GMT | Agentic AI — A Beginner’s Guide to Agentic AI: What It Is and Why It Matters | Jeeva Selvaraju | [Read More](https://medium.com/p/f29f67a26c86) |
-| Mon, 11 Aug 2025 06:24:30 GMT | $3,500 Bounty —  Total Failure of Password Protection While Extracting Seed Phrase — A Critical… | Hacker Write-Ups | [Read More](https://medium.com/p/79723184d46e) |
-| Mon, 11 Aug 2025 06:22:16 GMT | Critical RCE Vulnerability Found in IP-guard WebServer — Patch Now! | Quella | [Read More](https://medium.com/p/78216c2fe7a6) |
