@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 11:34:14 GMT | Digital Detox: How Stepping Away from Screens Can Reconnect You with Family and Yourself | Hafizbilaltariq | [Read More](https://medium.com/p/9e28d7ed5b90) |
+| Mon, 11 Aug 2025 11:33:21 GMT | Mastering Web & JavaScript Security — A Complete Guide | muhaymin khan | [Read More](https://medium.com/p/f746b73475af) |
+| Mon, 11 Aug 2025 11:32:01 GMT | Secret Management: Neden Artık Vazgeçilmez? | Mustafa Dikyar | [Read More](https://medium.com/p/8609edcefcea) |
+| Mon, 11 Aug 2025 11:30:52 GMT | Your warehouse or self-storage space holds more than just goods — it holds value, trust, and peace… | Visual Monitoring Solutions | [Read More](https://medium.com/p/7ba9fee1f0f9) |
+| Mon, 11 Aug 2025 11:27:02 GMT | Flying Secure: How the FAA and TSA Are Locking Down Drone Cybersecurity with NIST Standards | Brittney Ginther | [Read More](https://medium.com/p/ad92c93c41db) |
+| Mon, 11 Aug 2025 11:26:39 GMT | ️ The Case of the Hidden Endpoint: How Enumeration Unlocked a Tricky Vulnerability | Aftab Raja | [Read More](https://medium.com/p/7a43df46c4a1) |
+| Mon, 11 Aug 2025 11:26:29 GMT | Mastering Web Cache Deception Vulnerabilities: An Advanced Bug Hunter’s Guide | coffinxp | [Read More](https://medium.com/p/b7b500b482e3) |
+| Mon, 11 Aug 2025 11:26:15 GMT | 6 Things I Learned While Building an Incident Response Simulation (IR Sim 101) | Yug Shah | [Read More](https://medium.com/p/84dea0e900c3) |
+| Mon, 11 Aug 2025 11:26:11 GMT | WinRAR Zero-Day Under Active Exploitation — Update to Version 7.13 Now! | IamPreth | [Read More](https://medium.com/p/1ca23cd43ed5) |
+| Mon, 11 Aug 2025 11:25:49 GMT | OSCP vs. CISSP: Which Certification Should You Pursue? | Aj | [Read More](https://medium.com/p/0e60fea2e763) |
+| Mon, 11 Aug 2025 11:21:31 GMT | Cybersecurity: The Journey That Has No Finish Line | Bandari Rushika | [Read More](https://medium.com/p/8380f6f30d7f) |
+| Mon, 11 Aug 2025 11:17:41 GMT | ElitePips FX Exposed: Why You Should Avoid This Broker. | Green W. | [Read More](https://medium.com/p/3f0b6e6363b4) |
+| Mon, 11 Aug 2025 11:17:22 GMT | SQL Injection: A Detailed Guide to Programming and Prevention | GMM | [Read More](https://medium.com/p/ddbe6430d790) |
+| Mon, 11 Aug 2025 11:16:20 GMT | CORS Explained for Java and Spring Developers | Code Wiz | [Read More](https://medium.com/p/e4522eec83b1) |
 | Mon, 11 Aug 2025 11:14:52 GMT | Natas 0 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/3b3153476d7e) |
 | Mon, 11 Aug 2025 11:10:42 GMT | SMT Program 2025 — Special Lecture 1 Journal: OSINT- Knowing Without Breaching | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/3c24b04755c9) |
 | Mon, 11 Aug 2025 11:08:46 GMT | DockerLabs Writeup — ChatMe (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/3dfa8a6f7724) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 07:56:18 GMT | What’s the Smartest Way to Select Managed SOC & XDR Cybersecurity Solutions? | Vijilan | [Read More](https://medium.com/p/71d5a3f0a0e6) |
 | Mon, 11 Aug 2025 07:54:11 GMT | Pinpointing the Exact Payload That Triggers a Burp Collaborator Hit | Siddiquimohammad | [Read More](https://medium.com/p/6735028c6395) |
 | Mon, 11 Aug 2025 07:52:56 GMT | Appsec Traffic Analysis. | Richard Ndung'u | [Read More](https://medium.com/p/4685ac3c240c) |
-| Mon, 11 Aug 2025 07:50:38 GMT | How I Found an XSS Vulnerability in the BMKG Website and Earned a Certificate at 13 Years Old | OziXploit | [Read More](https://medium.com/p/c2cd1988efd1) |
-| Mon, 11 Aug 2025 07:47:14 GMT | The Weakest Link: Why Vulnerability Governance Is the Cornerstone of Modern Cybersecurity | Ivander “Andreas” Wijaya | [Read More](https://medium.com/p/c296ccaeb057) |
-| Mon, 11 Aug 2025 07:46:53 GMT | ️ Web3 Security Weekly — Aug 4–10, 2025 | Null Return | [Read More](https://medium.com/p/f6c84b9cad14) |
-| Mon, 11 Aug 2025 07:46:35 GMT | Urgent News: Zero-Day Exploit | Percy Edward | [Read More](https://medium.com/p/923f08eea5e2) |
-| Mon, 11 Aug 2025 07:44:18 GMT | tar.gz | Haldian | [Read More](https://medium.com/p/a79fd5df43e1) |
-| Mon, 11 Aug 2025 07:44:10 GMT | Cyber Security: Essential Tips to Protect Yourself Online | Cyberfortress solutions | [Read More](https://medium.com/p/6642c67bc54d) |
-| Mon, 11 Aug 2025 07:41:16 GMT | How I Found an XSS Vulnerability in the KPK Website and Earned a Certificate at 13 Years Old | OziXploit | [Read More](https://medium.com/p/fc59fde71f82) |
-| Mon, 11 Aug 2025 07:37:23 GMT | A mouse move that crashed the system | Karol Mazurek | [Read More](https://medium.com/p/3fa518252c7b) |
-| Mon, 11 Aug 2025 07:37:09 GMT | How Can You Master Modern SIEM & XDR Cybersecurity Solutions? | Vijilan | [Read More](https://medium.com/p/3f7d19f935e8) |
-| Mon, 11 Aug 2025 07:32:57 GMT | Manual Source Code Review in SAST – My Experience Uncovering Critical Vulnerabilities | Saritamukkani | [Read More](https://medium.com/p/a9006049a6d4) |
-| Mon, 11 Aug 2025 07:31:58 GMT | The Ultimate Threat Intelligence Toolkit: 40+ Tools for Malware Analysis, Sandboxing, and IP… | Devansh Patel | [Read More](https://medium.com/p/d0b63b38d487) |
-| Mon, 11 Aug 2025 07:30:35 GMT | SafeLine: The High-Performance Open-Source WAF for Developers | Quella | [Read More](https://medium.com/p/947bf33ec5a4) |
-| Mon, 11 Aug 2025 07:30:01 GMT | A09:2021 — Security Logging and Monitoring Failures | GhostNex | [Read More](https://medium.com/p/cffb6555c7e9) |
-| Mon, 11 Aug 2025 07:28:59 GMT | Medical Device Security: A Healthcare Crisis Waiting to Happen | Aj | [Read More](https://medium.com/p/df7b37d153ef) |
