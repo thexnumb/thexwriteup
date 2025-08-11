@@ -12,11 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 15:34:37 GMT | When the Breach Comes Calling | Simply Leah | [Read More](https://medium.com/p/891db1722bc3) |
+| Mon, 11 Aug 2025 15:31:58 GMT | Phishing Works Because It’s Not Smart Tech | Atul Sathyan | [Read More](https://medium.com/p/c49a9d6b9906) |
 | Mon, 11 Aug 2025 15:24:11 GMT | Increasing the Impact of Blind XSS When Triggered in Electron.js Apps | Lachhamza | [Read More](https://medium.com/p/12df2f49a896) |
+| Mon, 11 Aug 2025 15:22:35 GMT | Protecting Your Kids Online: A Parent’s Guide to Cyber Safety | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/b16f767e357b) |
 | Mon, 11 Aug 2025 15:18:37 GMT | How an unauthenticated attacker can create a WordPress admin account in seconds | Dardan Hasani | [Read More](https://medium.com/p/22efdacd1df0) |
 | Mon, 11 Aug 2025 15:16:47 GMT | How LeakScan Helped Me Discover Hidden Risks on My Website | finn | [Read More](https://medium.com/p/2807c3023cfb) |
 | Mon, 11 Aug 2025 15:16:19 GMT | Leveraging Printer SMB Functionality in Network Penetration Testing: A Case Study | 0xZox | [Read More](https://medium.com/p/7cd5a7e0df17) |
 | Mon, 11 Aug 2025 15:14:35 GMT | How a Misspelled Email Almost Cost Me $50,000 (And the One Detail That Exposed Everything) | Shahzaib | [Read More](https://medium.com/p/135e13ffaaf3) |
+| Mon, 11 Aug 2025 15:12:59 GMT | Germany’s IT Workforce Shortage: A Missed Opportunity Hiding in Plain Sight | Iliya Faraji | [Read More](https://medium.com/p/4b4d630f470f) |
 | Mon, 11 Aug 2025 15:12:01 GMT | What SMBs Get Wrong About Managed IT: Debunking the Most Costly Assumptions | CoopSys | [Read More](https://medium.com/p/0f4b559069b2) |
 | Mon, 11 Aug 2025 15:10:59 GMT | The Broken Marchioness: What a Woman Needs Most | Bill Myers | [Read More](https://medium.com/p/ac2ffa414cd6) |
 | Mon, 11 Aug 2025 15:10:11 GMT | My Journey Uncovering The Hidden SSRF Flaw CVE 2020 10770 | Ibtissam hammadi | [Read More](https://medium.com/p/8394c57ed459) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 11:26:15 GMT | 6 Things I Learned While Building an Incident Response Simulation (IR Sim 101) | Yug Shah | [Read More](https://medium.com/p/84dea0e900c3) |
 | Mon, 11 Aug 2025 11:26:11 GMT | WinRAR Zero-Day Under Active Exploitation — Update to Version 7.13 Now! | IamPreth | [Read More](https://medium.com/p/1ca23cd43ed5) |
 | Mon, 11 Aug 2025 11:25:49 GMT | OSCP vs. CISSP: Which Certification Should You Pursue? | Aj | [Read More](https://medium.com/p/0e60fea2e763) |
-| Mon, 11 Aug 2025 11:21:31 GMT | Cybersecurity: The Journey That Has No Finish Line | Bandari Rushika | [Read More](https://medium.com/p/8380f6f30d7f) |
-| Mon, 11 Aug 2025 11:17:41 GMT | ElitePips FX Exposed: Why You Should Avoid This Broker. | Green W. | [Read More](https://medium.com/p/3f0b6e6363b4) |
-| Mon, 11 Aug 2025 11:17:22 GMT | SQL Injection: A Detailed Guide to Programming and Prevention | GMM | [Read More](https://medium.com/p/ddbe6430d790) |
-| Mon, 11 Aug 2025 11:16:20 GMT | CORS Explained for Java and Spring Developers | Code Wiz | [Read More](https://medium.com/p/e4522eec83b1) |
