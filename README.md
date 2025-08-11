@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 16:46:51 GMT | Why Businesses in India Need GDPR Compliance Services | Aarav Mehta | [Read More](https://medium.com/p/2821ebfe2034) |
+| Mon, 11 Aug 2025 16:45:09 GMT | Tools of the Trade: For a Cybersecurity Analyst | Uplatz | [Read More](https://medium.com/p/0936802efc9f) |
+| Mon, 11 Aug 2025 16:43:54 GMT | Buy or Renew Your Antivirus, Total Security, or Internet Security — Protect Your Digital Life Today | cybertech | [Read More](https://medium.com/p/8ab6582a092e) |
+| Mon, 11 Aug 2025 16:43:28 GMT | When Did You Learn to Control Your Controllables? | Vijay Kumar Gupta | [Read More](https://medium.com/p/1bf41ddef213) |
+| Mon, 11 Aug 2025 16:42:45 GMT | OAuth Hacking Guide — Part 1 | Madhesh | [Read More](https://medium.com/p/56c685545f9f) |
+| Mon, 11 Aug 2025 16:41:40 GMT | Level 0 Overthewire → Bandit | Root->Bin | [Read More](https://medium.com/p/b9f69444e41c) |
+| Mon, 11 Aug 2025 16:40:57 GMT | BugBounty Hunting for XSS in 2025 | Gordon Charles | [Read More](https://medium.com/p/0d8f2fd32291) |
+| Mon, 11 Aug 2025 16:40:15 GMT | Bridging the Gap Between Security and Innovation | Eyal Estrin ☁️ | [Read More](https://medium.com/p/a335cebbb3e9) |
+| Mon, 11 Aug 2025 16:39:09 GMT | The sound of springs is the sweet whisper of nature | New story | [Read More](https://medium.com/p/515519393391) |
+| Mon, 11 Aug 2025 16:35:39 GMT | Cybersécurité aérienne | Hacker Art | [Read More](https://medium.com/p/ff056fa912b9) |
+| Mon, 11 Aug 2025 16:33:37 GMT | Malware 101: Know Your Enemy Before You Get Infected | N1shym | [Read More](https://medium.com/p/e777623c9fa8) |
+| Mon, 11 Aug 2025 16:32:49 GMT | Bug Bounty: Master the Art of Finding Hidden Entry Points -Web Recon | Rajkumar Kumawat | [Read More](https://medium.com/p/ed19a33ad4f9) |
+| Mon, 11 Aug 2025 16:32:21 GMT | How Instagram’s Hidden Risks are Fueling Scams & Crime | Ashly Ann Mathew | [Read More](https://medium.com/p/da9c7903e0fc) |
+| Mon, 11 Aug 2025 16:30:51 GMT | From Chaos to Clarity: How I Built My Cybersecurity Brain with Kortex & Zettelkasten | Corey Jones | [Read More](https://medium.com/p/7e14658f536a) |
 | Mon, 11 Aug 2025 16:20:09 GMT | Cybersecurity: Facing the Challenges in a Digitally Transformed Economy | Ayush Pradhan | [Read More](https://medium.com/p/7e80e3e2a26f) |
 | Mon, 11 Aug 2025 16:17:18 GMT | The High Risk of Running Code Locally — Here’s How to Secure Projects with Docker in One Command | AI Rabbit | [Read More](https://medium.com/p/145a7776e0bb) |
 | Mon, 11 Aug 2025 16:14:57 GMT | What is Networking ? - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/93a52cfb5d53) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 12:29:02 GMT | The Introduction Nobody Asked For | Daniel Olurin - Cyberwriter | [Read More](https://medium.com/p/2d8f86fd9f9a) |
 | Mon, 11 Aug 2025 12:25:53 GMT | Kiosks Redefining the Future: How Panashi FZCO is Powering Smarter, Faster, and More Connected… | Rakesh | [Read More](https://medium.com/p/59330e653b92) |
 | Mon, 11 Aug 2025 12:23:02 GMT | Locked Out: Inside the Ransomware Attack That Crippled Indonesia’s National Data Centre | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/a2ceed12a699) |
-| Mon, 11 Aug 2025 12:20:52 GMT | Vulnerable & Relatable. | Merzalina Roberts | [Read More](https://medium.com/p/e6a06027006f) |
-| Mon, 11 Aug 2025 12:15:37 GMT | How do AI-based systems handle false positives in threat detection? | sanya | [Read More](https://medium.com/p/470efdf79cea) |
-| Mon, 11 Aug 2025 12:10:48 GMT | Why Cybersecurity Needs to Be Taught in K-12 Schools | Savvy Cyber Kids | [Read More](https://medium.com/p/7de8c347a61c) |
-| Mon, 11 Aug 2025 12:10:29 GMT | Online Sports Gambling and how it can affect Children | Savvy Cyber Kids | [Read More](https://medium.com/p/8143010f9f05) |
-| Mon, 11 Aug 2025 12:10:12 GMT | It’s The Information Age & We Are So Confused | Savvy Cyber Kids | [Read More](https://medium.com/p/94d42d04c90c) |
-| Mon, 11 Aug 2025 12:07:49 GMT | ️‍♂️Natas 2 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/344802b8141f) |
-| Mon, 11 Aug 2025 12:05:16 GMT | Offensive Security Intro - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/9e50e4f203c4) |
-| Mon, 11 Aug 2025 12:03:05 GMT | GDPR Compliance — Managing Data Breaches: Requirements & Best Practices | Azpirantz Technologies | [Read More](https://medium.com/p/acd42ca4af15) |
-| Mon, 11 Aug 2025 12:00:06 GMT | Why adopt AI Security Protocols & Monitoring now? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/acbaf3b57deb) |
-| Mon, 11 Aug 2025 11:59:26 GMT | You’re Missing Out on Bounties if you Don’t Hunt this Bug | Dr1nCtrl | [Read More](https://medium.com/p/8df1714771b6) |
-| Mon, 11 Aug 2025 11:55:08 GMT | The Importance of Ethical Hacking in Today’s Internet Security | DiscountedCourseNinja | [Read More](https://medium.com/p/d3bce5d6580f) |
-| Mon, 11 Aug 2025 11:52:43 GMT | Inside a Ransomware Attack: Dissecting the Tactics and Preventing the Damage | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/b4ce0090659b) |
-| Mon, 11 Aug 2025 11:50:41 GMT | ️‍♂️Natas 1 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/75bbf5fc274c) |
-| Mon, 11 Aug 2025 11:46:30 GMT | My Fear Has a Parking Spot ⚠️ | Kiran Bilal | [Read More](https://medium.com/p/bbabc4bb157e) |
