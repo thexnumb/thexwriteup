@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 17:44:41 GMT | When Junior Writes Code… and Senior Reviews It | Ajay Parmar | [Read More](https://medium.com/p/e90608162bb7) |
+| Mon, 11 Aug 2025 17:31:44 GMT | L’Underground Numérique de la France | Vincent B | [Read More](https://medium.com/p/423b25cd59fe) |
+| Mon, 11 Aug 2025 17:30:16 GMT | Mastering Windows Registry Forensics | Dean | [Read More](https://medium.com/p/49172d38090e) |
+| Mon, 11 Aug 2025 17:30:07 GMT | CVE-2025–8088 (WinRar Zero-Day) | HacksonAloysis | [Read More](https://medium.com/p/2e5407fcca0b) |
+| Mon, 11 Aug 2025 17:21:14 GMT | Mastering SQL Injection UNION Attacks: A Step-by-Step Lab Walkthrough and Success Story | Chandra Kamal Singh | [Read More](https://medium.com/p/9231fcede170) |
+| Mon, 11 Aug 2025 17:19:27 GMT | Mastering Python: Built-in Functions, I/O, File Operations, and Exceptions | Richard Bigega | [Read More](https://medium.com/p/ecc19b0d3a8a) |
+| Mon, 11 Aug 2025 17:17:45 GMT | Between Steel & Sea – A Day in the Life of a Muslim GPHA Security Guard | Muhammad Fareedudeen | [Read More](https://medium.com/p/6c76ce6dbd83) |
 | Mon, 11 Aug 2025 17:07:57 GMT | Revisiting the Cybersecurity Paradigm: From Quantity of Breaches to a “Breach-Centric” Approach. | Wilman Saragih Sitio | [Read More](https://medium.com/p/77d2aa99a170) |
 | Mon, 11 Aug 2025 16:59:04 GMT | SWG Wars: How dope.security turned a retro space shooter into B2B mindshare | Amar Jeer | [Read More](https://medium.com/p/12b7fce8487e) |
 | Mon, 11 Aug 2025 16:57:56 GMT | ISO 27001 ve Örnek Bilgi Güvenliği Politikası: Kurumsal Güvenliğin Temel Taşı | Enis Buğra Akada | [Read More](https://medium.com/p/45efcf0565a3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 13:02:45 GMT | How I made websites created from the CMS cyber secured ? | Ayush Raj | [Read More](https://medium.com/p/3f9de99cb2c8) |
 | Mon, 11 Aug 2025 12:58:17 GMT | From Vulnerability to Weapon: How CVEs Become Real-World Threats | Sammcmullen | [Read More](https://medium.com/p/a7d6f9a1b715) |
 | Mon, 11 Aug 2025 12:53:09 GMT | GÖREV 1 - Savunma Güvenliğe Giriş (EN) | Atakan Bitim | [Read More](https://medium.com/p/b5ad6e066fe2) |
-| Mon, 11 Aug 2025 12:50:39 GMT | DVWA Kurulumu (Windows, XAMPP) | Fatih Kaya | [Read More](https://medium.com/p/71bb28a76b36) |
-| Mon, 11 Aug 2025 12:49:42 GMT | A Letter To My Younger Self: Dear Me... | O. J. Okpabi | [Read More](https://medium.com/p/7a341defae3d) |
-| Mon, 11 Aug 2025 12:46:13 GMT | The Man Who Sold Me God | O. J. Okpabi | [Read More](https://medium.com/p/3b30b3521852) |
-| Mon, 11 Aug 2025 12:41:23 GMT | HTTP OPTIONS Method — The Hidden Key to Understanding CORS and Web Security | Somar Kesen | [Read More](https://medium.com/p/53f54fa2d495) |
-| Mon, 11 Aug 2025 12:39:49 GMT | CORS Misconfigurations & Path Traversal Explained — Real-World Exploitation on Vuln-Bank App | Rachael Kivuti | [Read More](https://medium.com/p/397c3b4a8d52) |
-| Mon, 11 Aug 2025 12:36:53 GMT | The End is Only the Beginning: From Cloud Academy Graduate to Security Leader | Jimmy Peralta | [Read More](https://medium.com/p/afa9c2ef9a3b) |
-| Mon, 11 Aug 2025 12:34:52 GMT | Subnetting — The Art of Breaking a Big City into Smaller Neighbourhoods | prince singh | [Read More](https://medium.com/p/12e7face76b5) |
