@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 23:35:42 GMT | Learning Container Forensics — Beginner Guide | Syed Ali Turab | [Read More](https://medium.com/p/296ad22d67a1) |
+| Mon, 11 Aug 2025 23:33:02 GMT | Topologias de Rede: O Mapa Invisível Que Mantém a Internet Conectada | Nathan Steyka | [Read More](https://medium.com/p/36d82b990af6) |
+| Mon, 11 Aug 2025 23:23:02 GMT | What Tech Strategists and Project Managers Must Learn from CrowdStrike’s 2025 AI-Driven Threat… | CCL Montante | [Read More](https://medium.com/p/af6a9917a676) |
 | Mon, 11 Aug 2025 23:16:08 GMT | Windows Memory & Network - TryHackMe | CR4SHC0D3R | [Read More](https://medium.com/p/e9746a17fb99) |
 | Mon, 11 Aug 2025 23:04:46 GMT | Leaked Credentials Are Exploding — And Hackers Are Cashing In Faster Than Ever | Cyber-AppSec | [Read More](https://medium.com/p/832b931acb22) |
 | Mon, 11 Aug 2025 22:50:03 GMT | DefenseArk Security features at ETHGlobal 2025 | Kalpitha S | [Read More](https://medium.com/p/01c2aa6cdbb3) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 16:20:09 GMT | Cybersecurity: Facing the Challenges in a Digitally Transformed Economy | Ayush Pradhan | [Read More](https://medium.com/p/7e80e3e2a26f) |
 | Mon, 11 Aug 2025 16:17:18 GMT | The High Risk of Running Code Locally — Here’s How to Secure Projects with Docker in One Command | AI Rabbit | [Read More](https://medium.com/p/145a7776e0bb) |
 | Mon, 11 Aug 2025 16:14:57 GMT | What is Networking ? - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/93a52cfb5d53) |
-| Mon, 11 Aug 2025 16:12:33 GMT | Top 7 Areas of Cyber Security You Can’t Ignore in 2025 | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/84cd3f1be192) |
-| Mon, 11 Aug 2025 16:11:23 GMT | The Power of Recon: Accessing Target’s Secure Emails Without Login | Aya Ayman(GERR4Y) | [Read More](https://medium.com/p/eac2e4f473a2) |
-| Mon, 11 Aug 2025 16:09:51 GMT | “Day 8: Mobile Hacking — How I Cracked a Banking App’s PIN in 10 Seconds ($5000 Bug)” | Aman Sharma | [Read More](https://medium.com/p/575bd10823cd) |
