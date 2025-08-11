@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 21:36:24 GMT | The 3 Tools you need for Bug Bounty / Pentesting | Jeosantos | [Read More](https://medium.com/p/f6f2b94229a4) |
+| Mon, 11 Aug 2025 21:30:12 GMT | The Ultimate Guide to Cybersecurity Services in 2025: Protect Your Business Today | Defend My Business | [Read More](https://medium.com/p/8384cbca8f46) |
+| Mon, 11 Aug 2025 21:24:19 GMT | Security and SOQL: Ensuring Data Security in Your Queries | James | [Read More](https://medium.com/p/c6a7c897f8d9) |
+| Mon, 11 Aug 2025 21:15:33 GMT | Restarting a Cybersecurity Career from Scratch in 2024 — My Step-by-Step Game Plan | vydhi | [Read More](https://medium.com/p/ec5cff11767a) |
 | Mon, 11 Aug 2025 21:11:20 GMT | How to Clear Your Tech Interview in 2026 (and Beyond) | Rahul Bhichher | [Read More](https://medium.com/p/55a4271723cc) |
 | Mon, 11 Aug 2025 20:58:45 GMT | The Art of Stealing Your Own Car Back From the Repo Lot | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/1e17505754fb) |
 | Mon, 11 Aug 2025 20:57:20 GMT | Why Phishing Emails Still Work in 2025 | B1n4ry Trev | [Read More](https://medium.com/p/e0c4551471d9) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 15:12:59 GMT | Germany’s IT Workforce Shortage: A Missed Opportunity Hiding in Plain Sight | Iliya Faraji | [Read More](https://medium.com/p/4b4d630f470f) |
 | Mon, 11 Aug 2025 15:12:01 GMT | What SMBs Get Wrong About Managed IT: Debunking the Most Costly Assumptions | CoopSys | [Read More](https://medium.com/p/0f4b559069b2) |
 | Mon, 11 Aug 2025 15:10:59 GMT | The Broken Marchioness: What a Woman Needs Most | Bill Myers | [Read More](https://medium.com/p/ac2ffa414cd6) |
-| Mon, 11 Aug 2025 15:10:11 GMT | My Journey Uncovering The Hidden SSRF Flaw CVE 2020 10770 | Ibtissam hammadi | [Read More](https://medium.com/p/8394c57ed459) |
-| Mon, 11 Aug 2025 15:09:16 GMT | Antivirus vs Antimalware: What’s the Difference? | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/6dd5636a44ae) |
-| Mon, 11 Aug 2025 15:08:52 GMT | Week 2: The Birth of Modern Security | Joshua O. Berkoh | [Read More](https://medium.com/p/60d258b8579b) |
-| Mon, 11 Aug 2025 15:07:58 GMT | A New Deceptive AI Threat: Analyzing the ScamAgent Paper with the CDCL Framework | Berend Watchus | [Read More](https://medium.com/p/00664dca7792) |
