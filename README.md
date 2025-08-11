@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 12:46:13 GMT | The Man Who Sold Me God | O. J. Okpabi | [Read More](https://medium.com/p/3b30b3521852) |
+| Mon, 11 Aug 2025 12:36:53 GMT | The End is Only the Beginning: From Cloud Academy Graduate to Security Leader | Jimmy Peralta | [Read More](https://medium.com/p/afa9c2ef9a3b) |
+| Mon, 11 Aug 2025 12:31:50 GMT | Before You Press Play on Pandora, Read This | A D | [Read More](https://medium.com/p/48281f0d6e3e) |
+| Mon, 11 Aug 2025 12:29:02 GMT | The Introduction Nobody Asked For | Daniel Olurin - Cyberwriter | [Read More](https://medium.com/p/2d8f86fd9f9a) |
+| Mon, 11 Aug 2025 12:25:53 GMT | Kiosks Redefining the Future: How Panashi FZCO is Powering Smarter, Faster, and More Connected… | Rakesh | [Read More](https://medium.com/p/59330e653b92) |
+| Mon, 11 Aug 2025 12:23:02 GMT | Locked Out: Inside the Ransomware Attack That Crippled Indonesia’s National Data Centre | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/a2ceed12a699) |
+| Mon, 11 Aug 2025 12:20:52 GMT | Vulnerable & Relatable. | Merzalina Roberts | [Read More](https://medium.com/p/e6a06027006f) |
+| Mon, 11 Aug 2025 12:15:37 GMT | How do AI-based systems handle false positives in threat detection? | sanya | [Read More](https://medium.com/p/470efdf79cea) |
+| Mon, 11 Aug 2025 12:10:48 GMT | Why Cybersecurity Needs to Be Taught in K-12 Schools | Savvy Cyber Kids | [Read More](https://medium.com/p/7de8c347a61c) |
+| Mon, 11 Aug 2025 12:10:29 GMT | Online Sports Gambling and how it can affect Children | Savvy Cyber Kids | [Read More](https://medium.com/p/8143010f9f05) |
+| Mon, 11 Aug 2025 12:10:12 GMT | It’s The Information Age & We Are So Confused | Savvy Cyber Kids | [Read More](https://medium.com/p/94d42d04c90c) |
+| Mon, 11 Aug 2025 12:07:49 GMT | ️‍♂️Natas 2 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/344802b8141f) |
+| Mon, 11 Aug 2025 12:05:16 GMT | Offensive Security Intro - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/9e50e4f203c4) |
+| Mon, 11 Aug 2025 12:03:05 GMT | GDPR Compliance — Managing Data Breaches: Requirements & Best Practices | Azpirantz Technologies | [Read More](https://medium.com/p/acd42ca4af15) |
+| Mon, 11 Aug 2025 12:00:06 GMT | Why adopt AI Security Protocols & Monitoring now? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/acbaf3b57deb) |
+| Mon, 11 Aug 2025 11:59:26 GMT | You’re Missing Out on Bounties if you Don’t Hunt this Bug | Dr1nCtrl | [Read More](https://medium.com/p/8df1714771b6) |
+| Mon, 11 Aug 2025 11:55:08 GMT | The Importance of Ethical Hacking in Today’s Internet Security | DiscountedCourseNinja | [Read More](https://medium.com/p/d3bce5d6580f) |
+| Mon, 11 Aug 2025 11:52:43 GMT | Inside a Ransomware Attack: Dissecting the Tactics and Preventing the Damage | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/b4ce0090659b) |
+| Mon, 11 Aug 2025 11:50:41 GMT | ️‍♂️Natas 1 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/75bbf5fc274c) |
+| Mon, 11 Aug 2025 11:46:30 GMT | My Fear Has a Parking Spot ⚠️ | Kiran Bilal | [Read More](https://medium.com/p/bbabc4bb157e) |
+| Mon, 11 Aug 2025 11:41:27 GMT | Mastering the Mind Behind the Click: Unveiling Social Engineering’s Silent Threats. | eL Njas!™ | [Read More](https://medium.com/p/f4d9cfa1f15c) |
+| Mon, 11 Aug 2025 11:38:29 GMT | Server Provisioning: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/099e83be6d7c) |
+| Mon, 11 Aug 2025 11:37:59 GMT | Ethical hacking Careers in 2025 and Skills You Need to Succeed | Nirmalrajeev | [Read More](https://medium.com/p/5574f11bf35b) |
 | Mon, 11 Aug 2025 11:34:14 GMT | Digital Detox: How Stepping Away from Screens Can Reconnect You with Family and Yourself | Hafizbilaltariq | [Read More](https://medium.com/p/9e28d7ed5b90) |
 | Mon, 11 Aug 2025 11:33:21 GMT | Mastering Web & JavaScript Security — A Complete Guide | muhaymin khan | [Read More](https://medium.com/p/f746b73475af) |
 | Mon, 11 Aug 2025 11:32:01 GMT | Secret Management: Neden Artık Vazgeçilmez? | Mustafa Dikyar | [Read More](https://medium.com/p/8609edcefcea) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 08:56:38 GMT | Fail-Proof Ways to Back Up Secure Databases: The $10 Million Lesson That Will Save Your Career | Rizqi Mulki | [Read More](https://medium.com/p/a7b851c91cee) |
 | Mon, 11 Aug 2025 08:53:38 GMT | Principles of Security - Tryhackme | Atakan Bitim | [Read More](https://medium.com/p/c48c58b6c01e) |
 | Mon, 11 Aug 2025 08:49:29 GMT | SafeLine WAF’s Dynamic Protection — A Hands-On Review | AerieWhole123 | [Read More](https://medium.com/p/6dc172460970) |
-| Mon, 11 Aug 2025 08:49:25 GMT | Free Cybersecurity Course? Is It Worth Your Time? | CtrlC3 | [Read More](https://medium.com/p/d349336f7bf3) |
-| Mon, 11 Aug 2025 08:48:31 GMT | 2025’s Top 10 Phishing Awareness Best Practices Every Business Should Know | Keepnet Labs | [Read More](https://medium.com/p/d1af8ec21a5b) |
-| Mon, 11 Aug 2025 08:47:16 GMT | Dịch vụ bảo vệ spa, thẩm mỹ viện — Giải pháp an ninh chuyên nghiệp, nâng tầm thương hiệu | DaiAnGroup | [Read More](https://medium.com/p/9c8ce2679613) |
-| Mon, 11 Aug 2025 08:44:35 GMT | Cracking the Future: How Hackers Toppled GPT-5’s Defenses | Pentestjunkie07 | [Read More](https://medium.com/p/8890f23ea16d) |
-| Mon, 11 Aug 2025 08:42:33 GMT | Phishing: The Complete Guide to Cyber Deception and Protection | Pragya Sapkota | [Read More](https://medium.com/p/76978730605c) |
-| Mon, 11 Aug 2025 08:42:00 GMT | Dịch vụ bảo vệ shop thời trang — Giải pháp an ninh chuyên nghiệp cho cửa hàng của bạn | DaiAnGroup | [Read More](https://medium.com/p/f905e8ca87d7) |
-| Mon, 11 Aug 2025 08:41:59 GMT | The Landscape of Security Data Modeling | Kristin Dahl | [Read More](https://medium.com/p/0e04efb7696d) |
-| Mon, 11 Aug 2025 08:36:40 GMT | Up and Running with GitHound for fast GitHub dorking in 5 mins https://github.com/tillson/git-hound | Tillson Galloway | [Read More](https://medium.com/p/5df7a4b55f37) |
-| Mon, 11 Aug 2025 08:34:00 GMT | Dịch vụ bảo vệ quán bar, pub, vũ trường — Giải pháp an ninh chuyên nghiệp | DaiAnGroup | [Read More](https://medium.com/p/fc6f99eb4d74) |
-| Mon, 11 Aug 2025 08:25:23 GMT | Home Security Systems Are Essential: Protecting Your Home the Smart Way | Acfalarm | [Read More](https://medium.com/p/d75a0195d773) |
-| Mon, 11 Aug 2025 08:17:02 GMT | Ask Adam: Navigating Corporate Politics and Offshore Outsourcing | Namir Sagheenanajar | [Read More](https://medium.com/p/d84eccac8da2) |
-| Mon, 11 Aug 2025 08:15:42 GMT | Uni Challenge — Web Security | Zeenya | [Read More](https://medium.com/p/f7e90741fd5c) |
-| Mon, 11 Aug 2025 08:13:20 GMT | Understanding the “Remediate Threats” Tab in Sublime Security | Dean | [Read More](https://medium.com/p/10e1f7d4362e) |
-| Mon, 11 Aug 2025 08:02:16 GMT | What an Expert Lecture Taught Me About Cybersecurity: It’s Not Just About the Tech - SMT Program… | Abrar Ikramaputra | [Read More](https://medium.com/p/49235372d2b8) |
-| Mon, 11 Aug 2025 08:01:47 GMT | How to Prevent Data Theft: Best Practices for Protecting Your Digital Assets | Amit solanki | [Read More](https://medium.com/p/756f5dbf718f) |
-| Mon, 11 Aug 2025 08:01:46 GMT | Global Web Performance Optimization Market Report 2025–2030: Driving Seamless Digital Interactions | Arjun Nair | [Read More](https://medium.com/p/3e918673b272) |
-| Mon, 11 Aug 2025 08:01:07 GMT | Security ROI: How Early Credential Detection Pays for Itself | Alexandre Vandamme | [Read More](https://medium.com/p/7d5dedbadf17) |
-| Mon, 11 Aug 2025 08:00:35 GMT | Alexa, Stop That Hacker! | Yash Gorasiya | [Read More](https://medium.com/p/6fb99cad82e2) |
-| Mon, 11 Aug 2025 08:00:23 GMT | The Invisible Threat: Container Drift and Real-Time Compliance — A Senior DevOps Playbook | Mohamed ElEmam | [Read More](https://medium.com/p/b6a26eb29580) |
-| Mon, 11 Aug 2025 07:58:28 GMT | Why your company need IT AMC Services in Dubai? | Cost To Cost | [Read More](https://medium.com/p/1a3d0a27ec37) |
-| Mon, 11 Aug 2025 07:56:18 GMT | What’s the Smartest Way to Select Managed SOC & XDR Cybersecurity Solutions? | Vijilan | [Read More](https://medium.com/p/71d5a3f0a0e6) |
-| Mon, 11 Aug 2025 07:54:11 GMT | Pinpointing the Exact Payload That Triggers a Burp Collaborator Hit | Siddiquimohammad | [Read More](https://medium.com/p/6735028c6395) |
-| Mon, 11 Aug 2025 07:52:56 GMT | Appsec Traffic Analysis. | Richard Ndung'u | [Read More](https://medium.com/p/4685ac3c240c) |
