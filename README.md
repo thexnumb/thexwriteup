@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 Aug 2025 01:31:27 GMT | What Music Festivals Taught Me About Zero Trust | Blas | [Read More](https://medium.com/p/a814bf98756b) |
+| Mon, 11 Aug 2025 01:28:58 GMT | خاله تهران شماره خاله شیراز شماره خاله کرج شماره داف شماره داف تهران شماره کوص شماره جنده شماره… | شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس | [Read More](https://medium.com/p/f1d516c2273d) |
+| Mon, 11 Aug 2025 01:28:43 GMT | Cryptobric: Implementation of Malicious Bot Reporting Feature Completed | Cloudbric | [Read More](https://medium.com/p/df9109e8dcaa) |
+| Mon, 11 Aug 2025 01:17:47 GMT | HackTheBox - Precious | jniket | [Read More](https://medium.com/p/bc2048cb40c6) |
+| Mon, 11 Aug 2025 01:13:03 GMT | Cryptobric 악성 Bot 제보 기능 추가 완료 | Cloudbric | [Read More](https://medium.com/p/e3150fac5490) |
+| Mon, 11 Aug 2025 01:11:24 GMT | Civil Unrest Sparked by Divurion Group’s Cyber Warfare | SinVictus | [Read More](https://medium.com/p/9d19cf771314) |
+| Mon, 11 Aug 2025 01:10:22 GMT | SIEM Implementation Using Wazuh: A Hands-On Security Monitoring Project | EPereda | [Read More](https://medium.com/p/ab7e06d930da) |
+| Mon, 11 Aug 2025 01:08:18 GMT | Ketogenic Security Posture | Serhan Eraslan | [Read More](https://medium.com/p/5d5c3b582646) |
+| Mon, 11 Aug 2025 01:02:20 GMT | WhiteRabbit — Hack The Box | Toshith | [Read More](https://medium.com/p/c30f465dcc6e) |
+| Mon, 11 Aug 2025 00:47:00 GMT | Cybersecurity Governance: Establishing Oversight and Accountability | Cyber Security Research | [Read More](https://medium.com/p/cf343c954750) |
+| Mon, 11 Aug 2025 00:45:08 GMT | Cybersecurity Ethics: Ethical Considerations in the Field | Cyber Security Research | [Read More](https://medium.com/p/7aea195a04dc) |
+| Mon, 11 Aug 2025 00:43:01 GMT | The Authentication Evolution: How Bearer Tokens Solve API Keys’ Security Blind Spots? | Kunal Sinha | [Read More](https://medium.com/p/7017d56fec24) |
+| Mon, 11 Aug 2025 00:39:43 GMT | How I bypass CSP sandbox and find Stored XSS | L4zyhacker | [Read More](https://medium.com/p/7bb2b5795554) |
+| Mon, 11 Aug 2025 00:33:07 GMT | “Beyond the Shared Link: Securing Google Drive and Its Third-Party Ecosystem with ML”
+How Drive’s… | Kayvan Shah | [Read More](https://medium.com/p/79eea744d90d) |
+| Mon, 11 Aug 2025 00:30:29 GMT | Retro writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/afac3e010fe6) |
+| Mon, 11 Aug 2025 00:03:23 GMT | eCPPT INE Web Application Penetration Testing CTF 1 | ealmonte | [Read More](https://medium.com/p/2ab71df9db4a) |
+| Sun, 10 Aug 2025 23:50:35 GMT | Skynet: TryHackMe WalkThrough | InselSec | [Read More](https://medium.com/p/5199604541fc) |
+| Sun, 10 Aug 2025 23:40:18 GMT | The Embodiment of Vulnerability | Paisley Bird | [Read More](https://medium.com/p/7b63778cf60f) |
+| Sun, 10 Aug 2025 23:38:24 GMT | LAMEHUG — Malware Analysis | Rizqi Setyo Kusprihantanto | [Read More](https://medium.com/p/b42fa78d0764) |
+| Sun, 10 Aug 2025 23:38:06 GMT | What Is Cryptography and How Does It Work? A Beginner’s Explanation | amol pawar | [Read More](https://medium.com/p/9f8810db2568) |
+| Sun, 10 Aug 2025 23:36:40 GMT | Why You Need a Digital Forbidden City for AWS Bastion Hosts | Janet Xiu Shi | [Read More](https://medium.com/p/0bbf96391ca2) |
 | Sun, 10 Aug 2025 23:28:13 GMT | Integrated Security Solutions for Today’s Systems | Zeenya | [Read More](https://medium.com/p/a6b2ba0af9c5) |
 | Sun, 10 Aug 2025 23:01:44 GMT | HackTheBox — Pikaptcha Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/c4084381327e) |
 | Sun, 10 Aug 2025 22:53:01 GMT | Building an Azure SIEM Lab | Will Giles - Cybersecurity | [Read More](https://medium.com/p/03c59dab1199) |
@@ -19,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 22:17:13 GMT | Breaking Down Cross-Site WebAssembly Threats | Karthikeyan Nagaraj | [Read More](https://medium.com/p/987cbd52e513) |
 | Sun, 10 Aug 2025 22:01:14 GMT | The Schrödinger’s ESC1 Vulnerability | Matheus Vilachã | [Read More](https://medium.com/p/ec1cee0cd9b8) |
 | Sun, 10 Aug 2025 21:58:20 GMT | AI vs AI: The New Frontier in Cybersecurity Battles | Shradhdha Bhalodia | [Read More](https://medium.com/p/b654eaa52344) |
+| Sun, 10 Aug 2025 21:55:19 GMT | Singelo / Simple | Lia Be | [Read More](https://medium.com/p/146e3b2ab56b) |
 | Sun, 10 Aug 2025 21:54:07 GMT | Echo Chambers — Feedback Loops in Detection Engineering | Nasreddine Bencherchali | [Read More](https://medium.com/p/4ee44508403c) |
 | Sun, 10 Aug 2025 21:38:57 GMT | Time Machine - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/21ccabbd929b) |
 | Sun, 10 Aug 2025 21:38:38 GMT | Unpacking the Unseen Damage of ‘Good Christian’ Respectability | Dan Foster | [Read More](https://medium.com/p/62fe7bd537c7) |
@@ -90,25 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 Aug 2025 16:13:15 GMT | How to Integrate AI APIs (e.g. ChatGPT) to Build Productive Apps | Ekanayake YM | [Read More](https://medium.com/p/84e165ac3031) |
 | Sun, 10 Aug 2025 16:09:13 GMT | Universal Plug and Play (UPnP) Protocol — The Good, The Bad, and The Vulnerable! | Mohamed Ibrahim | [Read More](https://medium.com/p/0e312661c7c9) |
 | Sun, 10 Aug 2025 16:08:43 GMT | Maritime Cyber Resilience Brief — Comparative Insights (3-Part Series) | Tony Shin | [Read More](https://medium.com/p/718cb96c90d5) |
-| Sun, 10 Aug 2025 16:05:33 GMT | Fintech Isn’t Just About Big Money, It’s About Smart Code | ASAD UR REHMAN | [Read More](https://medium.com/p/17ba7d31a5ec) |
-| Sun, 10 Aug 2025 16:02:49 GMT | Future-Proofing Node.js APIs — Mastering Multiple Data Formats Like a Pro (2025 Guide) | Lakshika | [Read More](https://medium.com/p/228cbfce37f7) |
-| Sun, 10 Aug 2025 16:02:00 GMT | I found love where it was never meant to be. | CatchUpWith NAS | [Read More](https://medium.com/p/e4f1f21b4b75) |
-| Sun, 10 Aug 2025 16:02:00 GMT | Offline, Encrypted, Untraceable: The Rise of Mesh and Censorship-Resistant Messaging Apps | BiyteLüm | [Read More](https://medium.com/p/21e5b70975f3) |
-| Sun, 10 Aug 2025 15:58:29 GMT | Maritime Cyber Resilience Brief — Comparative Insights (3-Part Series) | Tony Shin | [Read More](https://medium.com/p/f865f493eb22) |
-| Sun, 10 Aug 2025 15:51:34 GMT | How a Single SQL Injection Unlocked a sensitive Government Database. | Parag Bagade | [Read More](https://medium.com/p/0345f8c8e577) |
-| Sun, 10 Aug 2025 15:38:49 GMT | Investigating a VoIP Vishing Attack: A LetsDefend Blue Team Walkthrough | Pranav | [Read More](https://medium.com/p/7329c80e153e) |
-| Sun, 10 Aug 2025 15:38:35 GMT | When You Love the Version of Me That Never Existed | Janet Lady | [Read More](https://medium.com/p/ef0ea74250f7) |
-| Sun, 10 Aug 2025 15:34:55 GMT | The Email Regex That Could Have Taken Down an Entire App | Nas Abdulrasaq | [Read More](https://medium.com/p/aceda9bcc953) |
-| Sun, 10 Aug 2025 15:29:23 GMT | The Silent Battle Against Cyber Threats | Token: Next-Generation, Phishing-Proof MFA | [Read More](https://medium.com/p/5096f4f4ab9f) |
-| Sun, 10 Aug 2025 15:28:49 GMT | Cybersecurity threats are growing. Here are 3 ways to protect your small business. | Gene Marks | [Read More](https://medium.com/p/dba06f8eea90) |
-| Sun, 10 Aug 2025 15:26:49 GMT | ISMAP Management Standards Chapter 13: What is “Communications Security” to Protect Network Safety? | nolly | [Read More](https://medium.com/p/b3ce428a0a67) |
-| Sun, 10 Aug 2025 15:21:58 GMT | The Ultimate Guide to Network Enumeration: Techniques & Real-World Applications | Rajkumar Kumawat | [Read More](https://medium.com/p/9f7eabde9549) |
-| Sun, 10 Aug 2025 15:12:25 GMT | Few ways I could hijack your Node.js applications | Nas Abdulrasaq | [Read More](https://medium.com/p/b5ad5b77411e) |
-| Sun, 10 Aug 2025 15:10:05 GMT | Zero-Click ATO via Reusable Password Reset Token | httpzuz | [Read More](https://medium.com/p/3299d0bfc005) |
-| Sun, 10 Aug 2025 15:06:13 GMT | “Day 7: API Hacking — How I Stole 5000 OAuth Tokens & Won $300” | Aman Sharma | [Read More](https://medium.com/p/49b988ed8e21) |
-| Sun, 10 Aug 2025 15:00:50 GMT | Simsiz texnologiyalar | Farid Mehdiyev | [Read More](https://medium.com/p/148651d9bd78) |
-| Sun, 10 Aug 2025 14:58:10 GMT | Business Logic Vulnerabilities or Application Logic Vulnerabilities or simply “logic flaws” | Zodiac Hacker | [Read More](https://medium.com/p/d88d7c3fd5a1) |
-| Sun, 10 Aug 2025 14:57:45 GMT | Understanding the OSI Model (Layers 1–3) — A Practical Guide | Allen Ace | [Read More](https://medium.com/p/d4133ab7ca77) |
-| Sun, 10 Aug 2025 14:54:20 GMT | My basic understanding of the OWASP Top 10 Vulnerabilities | Biswajit RK | [Read More](https://medium.com/p/3f793d0b6a02) |
-| Sun, 10 Aug 2025 14:53:53 GMT | Sigma: The Universal Language for Threat Detection ️ | Furkanctiner | [Read More](https://medium.com/p/0fdca3e4fd9d) |
-| Sun, 10 Aug 2025 14:51:02 GMT | The Day Your Algorithm Started Making Board-Level Decisions | Mohammed Brückner | [Read More](https://medium.com/p/a54628c1b37a) |
