@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 06:33:06 GMT | Dorks For Sensitive Information Disclosure Part-3 | Devansh Patel | [Read More](https://medium.com/p/a687a9c5a3bf) |
+| Tue, 12 Aug 2025 06:29:34 GMT | Identity Security, Reinvented: How Stellar Cyber ITDR Stops Credential-Based Attacks Before They… | Stellar Cyber | [Read More](https://medium.com/p/5272eb82a151) |
+| Tue, 12 Aug 2025 06:16:21 GMT | The Best Books to Master Ethical Hacking in 2025 | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/e5e070e5d230) |
+| Tue, 12 Aug 2025 06:16:00 GMT | Secure Internal LLM Gateway for Developers in High Security Environments | Gilberto Flores | [Read More](https://medium.com/p/347ccb5c8dec) |
+| Tue, 12 Aug 2025 06:06:06 GMT | AI-Powered Cyber Attacks: Deepfakes, Bots, and Beyond | Aj | [Read More](https://medium.com/p/7330bbb0cfff) |
+| Tue, 12 Aug 2025 06:05:31 GMT | RECOVERY OF LOST FUNDS FROM SCAMMER.(P W R ) | Ms Edith Benson | [Read More](https://medium.com/p/c66f7ec0cf42) |
+| Tue, 12 Aug 2025 06:05:24 GMT | A Deep Dive into Improper Authentication | Monika sharma | [Read More](https://medium.com/p/a68a92929f33) |
+| Tue, 12 Aug 2025 06:04:31 GMT | Top Skills for Future-Proof Careers in the AI Era: What to Learn by 2026 | Evelyn | [Read More](https://medium.com/p/4f0462da99c3) |
+| Tue, 12 Aug 2025 06:01:37 GMT | TermuxGenius: Learn Ethical Hacking & Linux on Mobile Like a Pro | Termux Genius | [Read More](https://medium.com/p/4d8cc39ecb3f) |
+| Tue, 12 Aug 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Aug 12, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/008705e93c01) |
+| Tue, 12 Aug 2025 05:58:37 GMT | These Are the Best Web Browsers of All Time — Safest, Fastest, and Simple with No1 Ad Blocker! | Curious Advisor | [Read More](https://medium.com/p/c7262d1c1b5d) |
+| Tue, 12 Aug 2025 05:53:54 GMT | Center for Internet Security (CIS) Controls: Scope, Compliance, and Importance in GRC — Part 1 | Hammad Zahid | [Read More](https://medium.com/p/5235bb1b1e8a) |
+| Tue, 12 Aug 2025 05:51:59 GMT | Logs Don’t Lie: How a GraphQL Debug Endpoint Spilled the Entire Database ️ | Iski | [Read More](https://medium.com/p/a4b859ec6a1c) |
+| Tue, 12 Aug 2025 05:47:40 GMT | Sovereign AI Architect Declares Ownership Over USAiii | USAI Insight | [Read More](https://medium.com/p/bba0ef55268e) |
+| Tue, 12 Aug 2025 05:44:28 GMT | 7 Easy Bugs That Still Work in 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/00619d93a5a3) |
+| Tue, 12 Aug 2025 05:43:22 GMT | Before You Click That Link: A Crash Course in Cybersecurity Fundamentals | Surbhi Agrawal | [Read More](https://medium.com/p/b608e6554a39) |
+| Tue, 12 Aug 2025 05:41:39 GMT | Using Machine Learning to Detect Malicious URLs — Logistic regression to detect malicious URLs | Bhuvana Medicherla | [Read More](https://medium.com/p/6963908682e1) |
 | Tue, 12 Aug 2025 05:41:09 GMT | Prompt Engineering Toolkit (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8c3372944618) |
 | Tue, 12 Aug 2025 05:37:29 GMT | Weaponizing Information: Disinformation as a Geopolitical Tool | Mustafa Malik | [Read More](https://medium.com/p/26d141c32ee8) |
 | Tue, 12 Aug 2025 05:36:21 GMT | Bug Bounty + AI =  This Prompt List Will Change Your Game | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4005a77d09bf) |
@@ -96,20 +113,3 @@ Sensitive Information Leakage via Referrer Header in Password… | Yousef Ezzeld
 | Mon, 11 Aug 2025 22:13:03 GMT | The Hidden Fight: How Crypto Scams Hurt India’s Digital Future | Mohd Yaseen Khan | [Read More](https://medium.com/p/fdaa340ce07a) |
 | Mon, 11 Aug 2025 22:12:09 GMT | A Crypto Regulation Surge: Trump’s 401(k) Crypto Boost and SEC’s Liquid Staking Nod | Awobodu Daniel | [Read More](https://medium.com/p/84664d8c6f1e) |
 | Mon, 11 Aug 2025 22:05:30 GMT | Up and Running with GitHound for secret scanning in 5 minutes | Tillson Galloway | [Read More](https://medium.com/p/e644890e9e16) |
-| Mon, 11 Aug 2025 21:59:53 GMT | The Dark Web’s Worst Nightmares | Aj | [Read More](https://medium.com/p/4d9af138ea1c) |
-| Mon, 11 Aug 2025 21:58:53 GMT | I LOST CRYPTO. HOW CAN I RECOVER IT? GO THROUGH OPTIMISTIC HACKER GAIUS | Danielwilliam | [Read More](https://medium.com/p/387a07c8a8a9) |
-| Mon, 11 Aug 2025 21:51:18 GMT | Training AI for Cyberthreats | John Dawson | [Read More](https://medium.com/p/f45e28e5fa04) |
-| Mon, 11 Aug 2025 21:51:07 GMT | What to Look for in a Secure AI Notetaker: An IT Leader’s Guide | Manuela Bárcenas | [Read More](https://medium.com/p/2b0f445db728) |
-| Mon, 11 Aug 2025 21:46:37 GMT | The Shell Was Restricted, but the Kernel Memory Was Wide Open | Matias Ramirez | [Read More](https://medium.com/p/78a6b47ce5b0) |
-| Mon, 11 Aug 2025 21:42:20 GMT | Cybersecurity Is More Than Just Finding the Problem | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/1cafcfb7d46b) |
-| Mon, 11 Aug 2025 21:37:12 GMT | From Manual to Mastery: The Property Management Breakthroughs Defining 2025 | SnapInspect | [Read More](https://medium.com/p/887c28326e03) |
-| Mon, 11 Aug 2025 21:36:27 GMT | How to Crawl the Internet Anonymously: A Beginner’s Guide | Gowtham | [Read More](https://medium.com/p/af102f3c25b7) |
-| Mon, 11 Aug 2025 21:36:24 GMT | The 3 Tools you need for Bug Bounty / Pentesting | Jeosantos | [Read More](https://medium.com/p/f6f2b94229a4) |
-| Mon, 11 Aug 2025 21:30:12 GMT | The Ultimate Guide to Cybersecurity Services in 2025: Protect Your Business Today | Defend My Business | [Read More](https://medium.com/p/8384cbca8f46) |
-| Mon, 11 Aug 2025 21:24:19 GMT | Security and SOQL: Ensuring Data Security in Your Queries | James | [Read More](https://medium.com/p/c6a7c897f8d9) |
-| Mon, 11 Aug 2025 21:15:33 GMT | Restarting a Cybersecurity Career from Scratch in 2024 — My Step-by-Step Game Plan | vydhi | [Read More](https://medium.com/p/ec5cff11767a) |
-| Mon, 11 Aug 2025 21:11:20 GMT | How to Clear Your Tech Interview in 2026 (and Beyond) | Rahul Bhichher | [Read More](https://medium.com/p/55a4271723cc) |
-| Mon, 11 Aug 2025 20:58:45 GMT | The Art of Stealing Your Own Car Back From the Repo Lot | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/1e17505754fb) |
-| Mon, 11 Aug 2025 20:57:20 GMT | Why Phishing Emails Still Work in 2025 | B1n4ry Trev | [Read More](https://medium.com/p/e0c4551471d9) |
-| Mon, 11 Aug 2025 20:55:12 GMT | Building a Hacking Laptop From Parts People Throw Away | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b4b99fb5f75f) |
-| Mon, 11 Aug 2025 20:54:53 GMT | ClickFix Malware: The Sneaky macOS Threat You Didn’t See Coming | Akshay Chauhan | [Read More](https://medium.com/p/2d2c83607087) |
