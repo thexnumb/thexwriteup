@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 10:23:25 GMT | How IT Consulting Services Boost ROI for Businesses | Shiv Technolabs | [Read More](https://medium.com/p/8b6399efc1c5) |
+| Tue, 12 Aug 2025 10:19:04 GMT | Flash Coins: The Truth About Instant Crypto Transactions | Sagol | [Read More](https://medium.com/p/d9c9ff330474) |
+| Tue, 12 Aug 2025 10:18:21 GMT | How Clean Crypto Wallets Get Caught in Sanctions Nets | AML You | [Read More](https://medium.com/p/044099b86ca8) |
+| Tue, 12 Aug 2025 10:14:12 GMT | The Dawn of Corporate Cyber Accountability: Why Boardrooms Are Now Ground Zero in the Digital War | Legally Psyched- briefs, breakdown & ors electives | [Read More](https://medium.com/p/0d3c28fb2d38) |
+| Tue, 12 Aug 2025 10:14:10 GMT | Beware of Flash Coin Scams! | Sagol | [Read More](https://medium.com/p/5dc862e5c8d5) |
+| Tue, 12 Aug 2025 10:14:04 GMT | How a job application turns into threat intelligence Part-1 | Anirudh Bishnoi | [Read More](https://medium.com/p/430e6050971f) |
+| Tue, 12 Aug 2025 10:13:51 GMT | From a Skilled Social Media Diver to Digital Intelligence: Mastering OSINT in the Information Age | Angga Alfiansah | [Read More](https://medium.com/p/25ab060f96af) |
+| Tue, 12 Aug 2025 10:12:36 GMT | IT Technology Staffing Solutions — VBeyond Corporation | Vbeyond Corporation | [Read More](https://medium.com/p/70a083a2ca46) |
+| Tue, 12 Aug 2025 10:10:08 GMT | “Is Your Website at Risk? How to Test for Vulnerabilities Before It’s Too Late” | Qualysec | [Read More](https://medium.com/p/ab6ece835143) |
+| Tue, 12 Aug 2025 10:07:46 GMT | Security Operations Center (SOC): Your Ultimate Cyber Defense Hub | SecureSlate | [Read More](https://medium.com/p/0328fb9e401a) |
+| Tue, 12 Aug 2025 10:06:21 GMT | 360 View Security Camera - 03098295833 | Ali | [Read More](https://medium.com/p/8309f31cc16a) |
+| Tue, 12 Aug 2025 10:03:22 GMT | A Complete Beginner’s Guide to Ethical Hacking and Cybersecurity | Madake Payal | [Read More](https://medium.com/p/8d38135127cc) |
+| Tue, 12 Aug 2025 10:01:40 GMT | Azure OIDC Authentication in GitHub Actions: A Secure, Step-by-Step Setup (azure/login) | MOMOSUKE - Ryosuke Hyakuta | [Read More](https://medium.com/p/687e9a1ff933) |
+| Tue, 12 Aug 2025 09:59:17 GMT | How to Take Elite Notes for Cybersecurity Certification Exams | Motasem Hamdan | [Read More](https://medium.com/p/1f8c09c48741) |
+| Tue, 12 Aug 2025 09:57:32 GMT | Why Kiosk Technology is a Game-Changer for the UAE’s Service Industry | Rakesh | [Read More](https://medium.com/p/2c40831c7988) |
+| Tue, 12 Aug 2025 09:53:17 GMT | Master the Future: Skillwint’s Certified Cyber Security Expert Course | Skillwint | [Read More](https://medium.com/p/af556ce68a7b) |
+| Tue, 12 Aug 2025 09:51:10 GMT | Building Startecon: Company, Customers, and Culture | SampradaKhadka | [Read More](https://medium.com/p/2981b5845f06) |
+| Tue, 12 Aug 2025 09:44:58 GMT | Forensics - picoGym - Wireshark doo dooo do doo… | Flower Bed | [Read More](https://medium.com/p/c4ed4cdfd355) |
+| Tue, 12 Aug 2025 09:39:59 GMT | I Spent Two Years With HackTheBox — Was It Worth It? | Pavel Slesinger | [Read More](https://medium.com/p/b69797417a4d) |
 | Tue, 12 Aug 2025 09:37:46 GMT | 5 Simple Cybersecurity Tips Everyone Must Religiously Follow in 2025 | Muhammad Munim Bhatti | [Read More](https://medium.com/p/5ca89c3706bd) |
 | Tue, 12 Aug 2025 09:35:37 GMT | WinRAR bug: Unzip Carefully — Malware’s Lurking! | CtrlC3 | [Read More](https://medium.com/p/936b0c3aeb68) |
 | Tue, 12 Aug 2025 09:32:24 GMT | Network Time Protocol (NTP) Abuse for Enterprise Recon | Aenosh Rajora | [Read More](https://medium.com/p/26bda1d7758c) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 06:29:34 GMT | Identity Security, Reinvented: How Stellar Cyber ITDR Stops Credential-Based Attacks Before They… | Stellar Cyber | [Read More](https://medium.com/p/5272eb82a151) |
 | Tue, 12 Aug 2025 06:16:21 GMT | The Best Books to Master Ethical Hacking in 2025 | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/e5e070e5d230) |
 | Tue, 12 Aug 2025 06:16:00 GMT | Secure Internal LLM Gateway for Developers in High Security Environments | Gilberto Flores | [Read More](https://medium.com/p/347ccb5c8dec) |
-| Tue, 12 Aug 2025 06:06:06 GMT | AI-Powered Cyber Attacks: Deepfakes, Bots, and Beyond | Aj | [Read More](https://medium.com/p/7330bbb0cfff) |
-| Tue, 12 Aug 2025 06:05:31 GMT | RECOVERY OF LOST FUNDS FROM SCAMMER.(P W R ) | Ms Edith Benson | [Read More](https://medium.com/p/c66f7ec0cf42) |
-| Tue, 12 Aug 2025 06:05:24 GMT | A Deep Dive into Improper Authentication | Monika sharma | [Read More](https://medium.com/p/a68a92929f33) |
-| Tue, 12 Aug 2025 06:04:31 GMT | Top Skills for Future-Proof Careers in the AI Era: What to Learn by 2026 | Evelyn | [Read More](https://medium.com/p/4f0462da99c3) |
-| Tue, 12 Aug 2025 06:01:37 GMT | TermuxGenius: Learn Ethical Hacking & Linux on Mobile Like a Pro | Termux Genius | [Read More](https://medium.com/p/4d8cc39ecb3f) |
-| Tue, 12 Aug 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Aug 12, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/008705e93c01) |
-| Tue, 12 Aug 2025 05:58:37 GMT | These Are the Best Web Browsers of All Time — Safest, Fastest, and Simple with No1 Ad Blocker! | Curious Advisor | [Read More](https://medium.com/p/c7262d1c1b5d) |
-| Tue, 12 Aug 2025 05:53:54 GMT | Center for Internet Security (CIS) Controls: Scope, Compliance, and Importance in GRC — Part 1 | Hammad Zahid | [Read More](https://medium.com/p/5235bb1b1e8a) |
-| Tue, 12 Aug 2025 05:51:59 GMT | Logs Don’t Lie: How a GraphQL Debug Endpoint Spilled the Entire Database ️ | Iski | [Read More](https://medium.com/p/a4b859ec6a1c) |
-| Tue, 12 Aug 2025 05:47:40 GMT | Sovereign AI Architect Declares Ownership Over USAiii | USAI Insight | [Read More](https://medium.com/p/bba0ef55268e) |
-| Tue, 12 Aug 2025 05:44:28 GMT | 7 Easy Bugs That Still Work in 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/00619d93a5a3) |
-| Tue, 12 Aug 2025 05:43:22 GMT | Before You Click That Link: A Crash Course in Cybersecurity Fundamentals | Surbhi Agrawal | [Read More](https://medium.com/p/b608e6554a39) |
-| Tue, 12 Aug 2025 05:41:39 GMT | Using Machine Learning to Detect Malicious URLs — Logistic regression to detect malicious URLs | Bhuvana Medicherla | [Read More](https://medium.com/p/6963908682e1) |
-| Tue, 12 Aug 2025 05:41:09 GMT | Prompt Engineering Toolkit (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8c3372944618) |
-| Tue, 12 Aug 2025 05:37:29 GMT | Weaponizing Information: Disinformation as a Geopolitical Tool | Mustafa Malik | [Read More](https://medium.com/p/26d141c32ee8) |
-| Tue, 12 Aug 2025 05:36:21 GMT | Bug Bounty + AI =  This Prompt List Will Change Your Game | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4005a77d09bf) |
-| Tue, 12 Aug 2025 05:24:55 GMT | How to convert OST to PST in Outlook? | Enstellablog | [Read More](https://medium.com/p/23cbf1ed2a25) |
-| Tue, 12 Aug 2025 05:23:57 GMT | Essential Insights into Incident Response and Proactive Cybersecurity Monitoring | Vijilan | [Read More](https://medium.com/p/61cdac7b5c46) |
-| Tue, 12 Aug 2025 05:23:39 GMT | Launch of ChatGPT-5: Breaking Boundaries in AI Power | Pimrada Thavorn | [Read More](https://medium.com/p/cd67a88e2421) |
