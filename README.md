@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 04:41:08 GMT | Electrical Engineering for Hackers 101 - Part -1 | Agape HearTs | [Read More](https://medium.com/p/bc77116a1a41) |
+| Tue, 12 Aug 2025 04:37:22 GMT | The Windows Process Journey — wecutil.exe (Event Collector Command Line Utility) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e2ff26b8dd74) |
+| Tue, 12 Aug 2025 04:36:44 GMT | Your Vulnerability Is Your Silent Strength | Shrushti Mehta | [Read More](https://medium.com/p/88b1b7208f70) |
+| Tue, 12 Aug 2025 04:31:28 GMT | Day5 Recon: Hacking Hidden Endpoints: How to Use Burp Suite & OWASP ZAP for Web Spidering and… | Ayush Kumar | [Read More](https://medium.com/p/2a69aa4ffd3d) |
+| Tue, 12 Aug 2025 04:28:33 GMT | A New Write-Up for a Vulnerability
+Sensitive Information Leakage via Referrer Header in Password… | Yousef Ezzeldin | [Read More](https://medium.com/p/96ff2ef64b24) |
+| Tue, 12 Aug 2025 04:25:16 GMT | Cultura analítica | Iceyami | [Read More](https://medium.com/p/bb59b34cc516) |
+| Tue, 12 Aug 2025 04:23:28 GMT | Mindset del Pentester | Iceyami | [Read More](https://medium.com/p/11780bb7a6f8) |
+| Tue, 12 Aug 2025 04:22:17 GMT | Apple iPhone Unavailable or Disabled & Data Recovery Services: Why your data CANNOT be recovered | Payam Toloo | [Read More](https://medium.com/p/aac939c77f67) |
+| Tue, 12 Aug 2025 04:20:22 GMT | CTF The Planets Earth (Completo) | Iceyami | [Read More](https://medium.com/p/df40a7de469a) |
+| Tue, 12 Aug 2025 04:18:55 GMT | LetsDefend — Event 231 Walkthrough | Lempwick | [Read More](https://medium.com/p/67ce498e63ae) |
+| Tue, 12 Aug 2025 04:07:27 GMT | Day 29- Understanding Installing Software and Applications for beginners | unica 02 | [Read More](https://medium.com/p/8c53fd5337e1) |
+| Tue, 12 Aug 2025 04:02:55 GMT | Kerberoasting Attack Lab—Extracting and Cracking Kerberos Service Tickets | Sukhpreet Kaur Deol | [Read More](https://medium.com/p/cf15c022d2a6) |
+| Tue, 12 Aug 2025 04:01:51 GMT | Getting Native: Secure Coding with Android NDK | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/c685480ddb14) |
+| Tue, 12 Aug 2025 03:59:47 GMT | Understanding the World of Email Spam | SuSocialPro | [Read More](https://medium.com/p/ac8d4550b23d) |
 | Tue, 12 Aug 2025 03:52:21 GMT | [0day] Critical RCE Vulnerability in Atlassian Confluence (CVE-2023–22518) — What You Need to Know | AerieWhole123 | [Read More](https://medium.com/p/11022babf31e) |
 | Tue, 12 Aug 2025 03:50:33 GMT | Ransomware: A Critical Cyber Security Threat to New Zealand Businesses | Cyberoptic Security | [Read More](https://medium.com/p/a9f6a8be4928) |
 | Tue, 12 Aug 2025 03:40:02 GMT | From First Exploit to Pivot: Building My Red Team Lab | Berrydb | [Read More](https://medium.com/p/728cdcf0646f) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 19:38:34 GMT | 9. Why People Respect You More When You’re Honest, Not Perfect | Roj Ink | [Read More](https://medium.com/p/e9e3baab8116) |
 | Mon, 11 Aug 2025 19:37:55 GMT | Building a Honeypot in Microsoft Azure and Tracking Attacks via Geolocation | Cell | [Read More](https://medium.com/p/f99c533b62b0) |
 | Mon, 11 Aug 2025 19:33:11 GMT | AlexLab, LNDFi, MBU: $12M Lost to Access Flaws, Insider Keys, and Decimal Drift | Olympix | [Read More](https://medium.com/p/9a1c7cb34bf1) |
-| Mon, 11 Aug 2025 19:31:44 GMT | Dexodus, Zora, Numa: $946K Lost to Replays, Access Bugs, and Locked-in Prices | Olympix | [Read More](https://medium.com/p/40c37b78391c) |
-| Mon, 11 Aug 2025 19:31:01 GMT | Portswigger Server-Side Request Forgery (SSRF) Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/1a9782bf775a) |
-| Mon, 11 Aug 2025 19:31:01 GMT | Portswigger Server-Side Request Forgery (SSRF) Labs — Apprentice | Mike (sl0th0x87) | [Read More](https://medium.com/p/dc4c6a0802d7) |
-| Mon, 11 Aug 2025 19:31:01 GMT | Portswigger Server-Side Request Forgery (SSRF) Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/68066b696b0c) |
-| Mon, 11 Aug 2025 19:30:05 GMT | KiloEx, Nitron, and Alkimiya Lose $8.4M: No Checks, No Controls, No Excuses | Olympix | [Read More](https://medium.com/p/c42eef8bdc15) |
-| Mon, 11 Aug 2025 19:27:52 GMT | Beyond PCI and HIPAA: How Feroot Powers Australian Privacy Act (APA) Compliance | Feroot Security | [Read More](https://medium.com/p/ecbc9e82a872) |
-| Mon, 11 Aug 2025 19:04:40 GMT | Mr Robot CTF | Meena A | [Read More](https://medium.com/p/03ddea5c50c3) |
-| Mon, 11 Aug 2025 19:00:59 GMT | Car Hacking Is Real — And Automotive Penetration Testing Is How We Fight Back | DefenceRabbit | [Read More](https://medium.com/p/3cf7719f4c43) |
-| Mon, 11 Aug 2025 18:48:13 GMT | Debate: Human vs Chat-GPT 5.0 – Topic: Data vs Computation | Besim Verdi Abdullai | [Read More](https://medium.com/p/d8e57a95cbfe) |
-| Mon, 11 Aug 2025 18:46:27 GMT | Tor Exit Nodes OSINT | AbhirupKonwar | [Read More](https://medium.com/p/329ee4ef8ee2) |
-| Mon, 11 Aug 2025 18:37:02 GMT | ired of Polished, Corporate Tech Takes? Me Too. | Brainnoises | [Read More](https://medium.com/p/9e026422366b) |
-| Mon, 11 Aug 2025 18:36:00 GMT | How a Bank Ditched “Trust” and Beat Hackers with Zero Trust Architecture. | Priyalsharma | [Read More](https://medium.com/p/08481f83732b) |
-| Mon, 11 Aug 2025 18:34:52 GMT | Ukrainian Hackers Breach Major Russian Security Service Provider | Theo Zarren | [Read More](https://medium.com/p/3794118017bd) |
-| Mon, 11 Aug 2025 18:31:32 GMT | Dark Web Monitoring: Why It’s Essential for Protecting Your Business and Identity | SafeAeon Inc. | [Read More](https://medium.com/p/b1cf00972ce4) |
