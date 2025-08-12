@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 16:26:57 GMT | Top 5 Highest-Paying IT Certifications in 2025 | Hachtechnology | [Read More](https://medium.com/p/4b955de404d6) |
+| Tue, 12 Aug 2025 16:24:52 GMT | Cybersecurity Training That Builds a Strong Human Firewall | James Own | [Read More](https://medium.com/p/92b6ecfa918f) |
+| Tue, 12 Aug 2025 16:22:10 GMT | 10 Cool Things You Can Do with the Windows Registry | James N | [Read More](https://medium.com/p/cba21317948d) |
+| Tue, 12 Aug 2025 16:20:00 GMT | Nmap ile Ağ Keşfi ve Tarama Yöntemleri | Enis Buğra Akada | [Read More](https://medium.com/p/dddf81c5f271) |
+| Tue, 12 Aug 2025 16:12:09 GMT | Bug Bounty: Information Disclosure — Leaks, Logs & Loose Ends | Rajkumar Kumawat | [Read More](https://medium.com/p/54cf53dbbf09) |
+| Tue, 12 Aug 2025 16:07:12 GMT | To Be Held | Nia Crosdale | [Read More](https://medium.com/p/7b64ca3312ab) |
+| Tue, 12 Aug 2025 16:01:58 GMT | Which AI Platform Actually Safeguards Your Personal Information? | BiyteLüm | [Read More](https://medium.com/p/b1710eb63ea1) |
+| Tue, 12 Aug 2025 16:01:56 GMT | How Hackers Break Into Accounts — 5 Real-World Password Stealing Strategies | Technology Gyan | [Read More](https://medium.com/p/171a837fa309) |
+| Tue, 12 Aug 2025 15:56:27 GMT | My Song Has a Boyfriend | Lucy Claire | [Read More](https://medium.com/p/5cb61f9212eb) |
+| Tue, 12 Aug 2025 15:54:43 GMT | Why should we maintain our digital security? | Ahmed Alhoseny | [Read More](https://medium.com/p/cd9d14ece1a4) |
+| Tue, 12 Aug 2025 15:52:14 GMT | SMTP Expert Lecture 2 | Sean William | [Read More](https://medium.com/p/5595e2bd80b2) |
+| Tue, 12 Aug 2025 15:51:34 GMT | “Day 9: Cloud Heist Unlocked — How I Discovered a $100 AWS Vulnerability (Ethically)” | Aman Sharma | [Read More](https://medium.com/p/15349c3ce4fb) |
+| Tue, 12 Aug 2025 15:48:55 GMT | Selling the Data Dream. The Capitalist Trap. | Henry | [Read More](https://medium.com/p/8e944110d38f) |
+| Tue, 12 Aug 2025 15:48:50 GMT | Hackviser — Rivalry Çözümü | Berent Oral | [Read More](https://medium.com/p/cbd6bc53c180) |
+| Tue, 12 Aug 2025 15:48:16 GMT | Breaking the Loop: ️ The Ultimate Guide to Reentrancy in Ethereum | vishhxyz | [Read More](https://medium.com/p/f6142fff128e) |
+| Tue, 12 Aug 2025 15:46:48 GMT | 15,000 Jenkins Servers at Risk: Git Parameter Plugin Command Injection Under Fire | Chetan Seripally | [Read More](https://medium.com/p/29cc7cbc802a) |
+| Tue, 12 Aug 2025 15:46:34 GMT | Cryptojacking in the Cloud: How a Docker Misconfiguration Led to Mining Mayhem-And How to Prevent… | The Stackmentalist | [Read More](https://medium.com/p/cd29467b2a29) |
+| Tue, 12 Aug 2025 15:44:17 GMT | How to Improve the Security of Your Terraform Resources Using Checkov | Yahya Mohamed | [Read More](https://medium.com/p/dd6a1333ba13) |
 | Tue, 12 Aug 2025 15:38:09 GMT | Understanding the Role of a Help Desk and the Importance of Queue Management | Cyber Timi | [Read More](https://medium.com/p/213667832cc9) |
 | Tue, 12 Aug 2025 15:36:49 GMT | How to spot if your website has been attacked | Jasonmariakieran | [Read More](https://medium.com/p/03c3733107f2) |
 | Tue, 12 Aug 2025 15:35:39 GMT | ️‍♂️Natas 5 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/71c3bf156450) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 12:15:06 GMT | Why Security by Obscurity Is a Risk Your Business Can’t Afford | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/b135044cc7fb) |
 | Tue, 12 Aug 2025 12:14:50 GMT | Dutch NCSC Confirms Active Exploitation of Critical PHP Vulnerability | Cyber Fortress | [Read More](https://medium.com/p/88d0464216aa) |
 | Tue, 12 Aug 2025 12:14:31 GMT | Phishing Simulation Using Gophish — Credential Harvesting using google form. | Joanorifha | [Read More](https://medium.com/p/cc8a25c4144d) |
-| Tue, 12 Aug 2025 12:12:50 GMT | “How is CorpSecurity International shaping the future of security and business continuity… | Corp security | [Read More](https://medium.com/p/46a01611bf1f) |
-| Tue, 12 Aug 2025 12:09:31 GMT | Guild - HTB CTF Try Out Write-ups - Server-side Template Injection (SSTI) | Hilmy Ammar Darmawan | [Read More](https://medium.com/p/b45062ac34af) |
-| Tue, 12 Aug 2025 12:08:34 GMT | Icertis Appoints Anand Subbaraman as Chief Executive Officer; Co-Founder Samir Bodas Transitions… | Cyber Fortress | [Read More](https://medium.com/p/e7167ea50f2a) |
-| Tue, 12 Aug 2025 12:07:08 GMT | The Architecture of Failure | Mohammed Brückner | [Read More](https://medium.com/p/4e6ebfdd4aef) |
-| Tue, 12 Aug 2025 12:01:59 GMT | Preparing for the Post-Quantum Era: Best Practices for Federal Agencies | Left4Zed | [Read More](https://medium.com/p/d3d5005ab735) |
-| Tue, 12 Aug 2025 12:00:25 GMT | GitHappens | Vignesh T | [Read More](https://medium.com/p/563f13d6544e) |
-| Tue, 12 Aug 2025 12:00:18 GMT | How Often Should Your Business Conduct VAPT? | Jay Chris Roberts | [Read More](https://medium.com/p/c0c5772a0b93) |
-| Tue, 12 Aug 2025 11:58:34 GMT | OpenAI Announces Global Launch of ChatGPT-5: Redefining the Future of AI Assistance | Cyber Fortress | [Read More](https://medium.com/p/5b13000fd863) |
-| Tue, 12 Aug 2025 11:58:33 GMT | The 3 Best Tools for Bug Bounty / Pentesting | Dr1nCtrl | [Read More](https://medium.com/p/915e95686e6f) |
-| Tue, 12 Aug 2025 11:56:43 GMT | AWS S3 Bucket Enumeration PwnedLabs | Iam Hacker | [Read More](https://medium.com/p/92bd2205ad8d) |
-| Tue, 12 Aug 2025 11:54:36 GMT | AWS Enumeration using Pacu | Iam Hacker | [Read More](https://medium.com/p/462a7254ba6a) |
-| Tue, 12 Aug 2025 11:49:57 GMT | Networking Fundamentals for Cybersecurity Professionals | Naem Azam Chowdhury | [Read More](https://medium.com/p/883b2944fcc5) |
-| Tue, 12 Aug 2025 11:48:53 GMT | How I could Takeover any Account by Bypassing OTP Rate Limits | Anonymousshetty | [Read More](https://medium.com/p/1155d616d947) |
-| Tue, 12 Aug 2025 11:40:15 GMT | Who should use AI Security Protocols & Monitoring? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/c704ee5c866a) |
-| Tue, 12 Aug 2025 11:35:29 GMT | Securing Microsoft 365: | Jard | [Read More](https://medium.com/p/e926dce119ee) |
-| Tue, 12 Aug 2025 11:33:54 GMT | DockerLabs Writeup — SummerVibes (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f7f07f0f6798) |
-| Tue, 12 Aug 2025 11:33:51 GMT | PicoCTF 2025: n0s4n1ty 1 — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/f1f6399c9927) |
-| Tue, 12 Aug 2025 11:33:44 GMT | Top 5 AI Tools Every Cybersecurity Analyst Should Know in 2025 | Amol Rangari | [Read More](https://medium.com/p/6549aa19bc05) |
