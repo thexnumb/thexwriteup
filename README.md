@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 18:29:04 GMT | Cyber Snack Day -4 | Anwar_Nainar | [Read More](https://medium.com/p/0c597f76d371) |
+| Tue, 12 Aug 2025 18:24:29 GMT | Pinterest: What It Is, How It Works, and How You Can Make Money from It | Dumitru Radulescu | [Read More](https://medium.com/p/e0f6f54c20a2) |
+| Tue, 12 Aug 2025 18:23:40 GMT | AI in Software Development and the New Cybersecurity Reality | Suhail R. Ahmad | [Read More](https://medium.com/p/0c7b6e2523ea) |
+| Tue, 12 Aug 2025 18:17:34 GMT | Bypassing WAF Protections: Chaining Stored XSS & Open Redirect Vulnerabilities (Now Patched) | N0aziXss | [Read More](https://medium.com/p/ab8ed6b69601) |
+| Tue, 12 Aug 2025 18:13:31 GMT | HTB Driver Machine — walkthrough for beginners | SeverSerenity | [Read More](https://medium.com/p/72923a382eed) |
+| Tue, 12 Aug 2025 18:09:04 GMT | Informational Finding #1: Clickjacking on Non-Sensitive Action | Shakthi | [Read More](https://medium.com/p/fac4e1885202) |
+| Tue, 12 Aug 2025 18:08:43 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/fd168d4c0533) |
+| Tue, 12 Aug 2025 18:08:12 GMT | The AI Imperative: Why Small to Mid-Size Law Firms Must Embrace Artificial Intelligence | Josh Welch | [Read More](https://medium.com/p/d3cf63905d23) |
+| Tue, 12 Aug 2025 18:06:15 GMT | Cybersecurity in Law Firms: The Critical Shield for Client Trust and Business Survival | Josh Welch | [Read More](https://medium.com/p/75d7211d3d02) |
+| Tue, 12 Aug 2025 18:06:12 GMT | Cisco Firepower and Remote Access VPN (RAVPN) WebVPN hardening | Gerardo Huerta Robles | [Read More](https://medium.com/p/4715bcb29a78) |
+| Tue, 12 Aug 2025 18:03:12 GMT | The Power of XSOAR: Automating and Orchestrating Cybersecurity in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/166b6c4bd073) |
+| Tue, 12 Aug 2025 18:02:17 GMT | DoS and DDoS Attacks – A Complete Beginner’s Guide | N1shym | [Read More](https://medium.com/p/8f0e38235964) |
+| Tue, 12 Aug 2025 17:51:26 GMT | ️ Automating STRIDE Threat Reviews in CI with AI | Viplav Fauzdar | [Read More](https://medium.com/p/105772d09c29) |
+| Tue, 12 Aug 2025 17:50:33 GMT | Key Challenges and Solutions in OT Security: Protecting Critical Infrastructure in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/4dc0bad2b6b9) |
+| Tue, 12 Aug 2025 17:46:02 GMT | VMware ESXi Vulnerability — A New Target for Cybercriminals | Chetan Seripally | [Read More](https://medium.com/p/b3d68aee6e02) |
+| Tue, 12 Aug 2025 17:46:00 GMT | What are the reasons behind GitHub CEO Thomas Dohmke’s decision to step down, and how might his new… | Skolutionz India | [Read More](https://medium.com/p/5c7aaa2663e5) |
 | Tue, 12 Aug 2025 17:43:05 GMT | TuesdayTool 32: Google Custom Search Engine (CSE) | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/8210b78957a7) |
 | Tue, 12 Aug 2025 17:42:50 GMT | How to Upload and Deploy ML Models on Wazuh Indexer with Full Inference Support | Yash Patel | [Read More](https://medium.com/p/c683985f245a) |
 | Tue, 12 Aug 2025 17:40:00 GMT | JWT Simplified for Everyone | TheCodeAlchemist | [Read More](https://medium.com/p/c6ad0dfca771) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 14:36:10 GMT | ️‍♂️Natas 3 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/9f655174a6d7) |
 | Tue, 12 Aug 2025 14:33:29 GMT | The CIA Triad — No, Not That CIA | Deezacker | [Read More](https://medium.com/p/cb2bd3f77dba) |
 | Tue, 12 Aug 2025 14:29:16 GMT | How Does QR Code Work? | Syed Anees Khan | [Read More](https://medium.com/p/f13e892f0476) |
-| Tue, 12 Aug 2025 14:26:40 GMT | Critical Security Vulnerabilities Discovered in HashiCorp Vault: Technical Analysis and Remediation | All Things In Cloud | [Read More](https://medium.com/p/e001c007b703) |
-| Tue, 12 Aug 2025 14:26:25 GMT | Olympic Pools for the Algorithm, Pennies for the People | Paul D. | [Read More](https://medium.com/p/d3784c8c6cfc) |
-| Tue, 12 Aug 2025 14:24:49 GMT | When No One Truly Gets You — Not Even You | Ink Within | [Read More](https://medium.com/p/bca7bda9eaee) |
-| Tue, 12 Aug 2025 14:24:02 GMT | Generative AI Models | Shoaib Rashid | [Read More](https://medium.com/p/f530f7bad660) |
-| Tue, 12 Aug 2025 14:20:37 GMT | AI, Machine Learning, and Generative AI: The Differences | Shoaib Rashid | [Read More](https://medium.com/p/1d301d870750) |
-| Tue, 12 Aug 2025 14:19:08 GMT | What is Generative AI? | Shoaib Rashid | [Read More](https://medium.com/p/91b985cd7eeb) |
-| Tue, 12 Aug 2025 14:17:45 GMT | Hunting Hidden Files & Directories: A Practical Pentester’s Workflow | Siddiquimohammad | [Read More](https://medium.com/p/5fb5a9154e00) |
-| Tue, 12 Aug 2025 14:13:55 GMT | Ethical Hacking - Activity 1 — Linux Challenge (Level 0 -1) | Forzr0nin | [Read More](https://medium.com/p/bad2d318eb85) |
-| Tue, 12 Aug 2025 14:12:23 GMT | InfoSec Writeups x BSides Vizag 2025 — CFP Now Open! | InfoSec Write-ups | [Read More](https://medium.com/p/6d526ed45613) |
-| Tue, 12 Aug 2025 14:03:34 GMT | The Role of Managed IT Services in Springfield, MO in Strengthening SaaS Security Amid Breach… | PCnet | [Read More](https://medium.com/p/00cf0eaa3e7d) |
-| Tue, 12 Aug 2025 14:03:04 GMT | IBM API Connect: Configuring Third-Party OAuth providers. | Mounika Nayikoti | [Read More](https://medium.com/p/a1f48cd69581) |
-| Tue, 12 Aug 2025 14:02:35 GMT | Cyber Briefing: 2025.08.12 | CyberMaterial | [Read More](https://medium.com/p/292b18578f0b) |
-| Tue, 12 Aug 2025 13:58:43 GMT | [03]. I received $200 from Mozilla for a simple bypass | yoyomiski | [Read More](https://medium.com/p/fc5f1e020e9a) |
-| Tue, 12 Aug 2025 13:52:46 GMT | How My Hospital’s EHR Helped Me Understand a Coding Superpower | Adeshola_ | [Read More](https://medium.com/p/2258c3f9f3fd) |
-| Tue, 12 Aug 2025 13:51:34 GMT | Análisis de Portable Executables (PE) en Desarrollo de Malware | s1egfr1ed | [Read More](https://medium.com/p/10718390602c) |
-| Tue, 12 Aug 2025 13:48:19 GMT | How a Malicious Keyboard App Recorded My Passwords Keylogging Through Mobile Apps | Shahzaib | [Read More](https://medium.com/p/e6a112fb412d) |
