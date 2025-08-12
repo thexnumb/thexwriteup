@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 21:10:22 GMT | The Human Factor: Why Company Culture Trumps Technology in Cybersecurity | Josh Welch | [Read More](https://medium.com/p/0f64b8ea033c) |
+| Tue, 12 Aug 2025 21:08:26 GMT | Combating APTs And Infostealers: Modern Strategies with EDR, RansomZero, and Zero Trust | Tsabita Bayu Kandi | [Read More](https://medium.com/p/97ccc07d8a97) |
+| Tue, 12 Aug 2025 21:03:39 GMT | Build Your Solutions with the Mindset of a Hacker | Azuren | [Read More](https://medium.com/p/e1b65ee187d0) |
+| Tue, 12 Aug 2025 21:02:44 GMT | Google Cloud Partner API Credentials Found in Public Repo | Enterlectury | [Read More](https://medium.com/p/45517dc54213) |
+| Tue, 12 Aug 2025 21:01:58 GMT | Secure Messaging Platforms and HIPAA: What to Know Before You Text | Medcurity | [Read More](https://medium.com/p/e4d08fdba767) |
+| Tue, 12 Aug 2025 21:00:57 GMT | I LOST CRYPTO. HOW CAN I RECOVER IT? GO THROUGH OPTIMISTIC HACKER GAIUS | Danielwilliam | [Read More](https://medium.com/p/8619e17342a4) |
+| Tue, 12 Aug 2025 20:58:47 GMT | Server Security, Vulnerability Assessment & Governance Solution | Gracialy | [Read More](https://medium.com/p/2b5af5971bbe) |
+| Tue, 12 Aug 2025 20:55:11 GMT | The Art of Finding Anything: My Deep Dive into OSINT - SMT Program 2025 Special Lecture 1 | Abrar Ikramaputra | [Read More](https://medium.com/p/64d7282f3f57) |
+| Tue, 12 Aug 2025 20:49:24 GMT | What the 2025 Data Breaches Mean for Your Passwords | Rubin Mathews | [Read More](https://medium.com/p/30fe657948b1) |
+| Tue, 12 Aug 2025 20:45:22 GMT | GrabThePhisher Lab SOC Tier-1 Level-2 Cyber Defenders Writeup | Sandeepduseja | [Read More](https://medium.com/p/2df0a000332a) |
+| Tue, 12 Aug 2025 20:44:33 GMT | Bug Bounty Tip — Bypass Rate Limits with Race Conditions & Header Tricks | Cybersecplayground | [Read More](https://medium.com/p/a379d10dada6) |
+| Tue, 12 Aug 2025 20:44:08 GMT | From BA in English to Cybersecurity: What College Never Taught Me | Rahul Bhichher | [Read More](https://medium.com/p/6e434f4e5f79) |
 | Tue, 12 Aug 2025 20:30:36 GMT | The Cybersecurity Gospel: What I Learned Living Like a Firewall for 30 Days | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/032bbe1ae9c6) |
 | Tue, 12 Aug 2025 20:29:33 GMT | Ticketing Lab | Jafari Law | [Read More](https://medium.com/p/8c5c4b75ca6a) |
 | Tue, 12 Aug 2025 20:27:40 GMT | How a Fake Booking.com CAPTCHA Led to a Dangerous Malware Infection | MV Intelligence | [Read More](https://medium.com/p/ede236f6b535) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 16:33:51 GMT | Ethical Hacking Exposed: Techniques and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/2afdbac06d63) |
 | Tue, 12 Aug 2025 16:33:39 GMT | SAP Under Siege: Ten Critical Vulnerabilities Expose Enterprise Systems to Code Injection… | gm0 | [Read More](https://medium.com/p/3e25aac032e9) |
 | Tue, 12 Aug 2025 16:31:49 GMT | From Phishing to Ransomware: Understanding the Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/3a139d9521e2) |
-| Tue, 12 Aug 2025 16:26:57 GMT | Top 5 Highest-Paying IT Certifications in 2025 | Hachtechnology | [Read More](https://medium.com/p/4b955de404d6) |
-| Tue, 12 Aug 2025 16:24:52 GMT | Cybersecurity Training That Builds a Strong Human Firewall | James Own | [Read More](https://medium.com/p/92b6ecfa918f) |
-| Tue, 12 Aug 2025 16:22:10 GMT | 10 Cool Things You Can Do with the Windows Registry | James N | [Read More](https://medium.com/p/cba21317948d) |
-| Tue, 12 Aug 2025 16:20:00 GMT | Nmap ile Ağ Keşfi ve Tarama Yöntemleri | Enis Buğra Akada | [Read More](https://medium.com/p/dddf81c5f271) |
-| Tue, 12 Aug 2025 16:12:09 GMT | Bug Bounty: Information Disclosure — Leaks, Logs & Loose Ends | Rajkumar Kumawat | [Read More](https://medium.com/p/54cf53dbbf09) |
-| Tue, 12 Aug 2025 16:07:12 GMT | To Be Held | Nia Crosdale | [Read More](https://medium.com/p/7b64ca3312ab) |
-| Tue, 12 Aug 2025 16:01:58 GMT | Which AI Platform Actually Safeguards Your Personal Information? | BiyteLüm | [Read More](https://medium.com/p/b1710eb63ea1) |
-| Tue, 12 Aug 2025 16:01:56 GMT | How Hackers Break Into Accounts — 5 Real-World Password Stealing Strategies | Technology Gyan | [Read More](https://medium.com/p/171a837fa309) |
-| Tue, 12 Aug 2025 15:56:27 GMT | My Song Has a Boyfriend | Lucy Claire | [Read More](https://medium.com/p/5cb61f9212eb) |
-| Tue, 12 Aug 2025 15:54:43 GMT | Why should we maintain our digital security? | Ahmed Alhoseny | [Read More](https://medium.com/p/cd9d14ece1a4) |
-| Tue, 12 Aug 2025 15:52:14 GMT | SMTP Expert Lecture 2 | Sean William | [Read More](https://medium.com/p/5595e2bd80b2) |
-| Tue, 12 Aug 2025 15:51:34 GMT | “Day 9: Cloud Heist Unlocked — How I Discovered a $100 AWS Vulnerability (Ethically)” | Aman Sharma | [Read More](https://medium.com/p/15349c3ce4fb) |
