@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 19:15:41 GMT | Stored XSS ve BEEF | Mustafa Şen | [Read More](https://medium.com/p/f63b6cd37191) |
+| Tue, 12 Aug 2025 19:13:31 GMT | How Understanding OSINT Can Secure Your Business | Joe The OSINT Guy | [Read More](https://medium.com/p/4a0b283ab069) |
+| Tue, 12 Aug 2025 19:13:01 GMT | The Art of Finding the Truth | Dania. | [Read More](https://medium.com/p/d626403ae146) |
+| Tue, 12 Aug 2025 19:04:57 GMT | Day 79: mkfifo | Nile Okomo | [Read More](https://medium.com/p/5fc728aaf467) |
+| Tue, 12 Aug 2025 19:04:05 GMT | Cracking Open a Reflected XSS in SpatialReference.org | Just Insecure | [Read More](https://medium.com/p/fcc42175ae6b) |
+| Tue, 12 Aug 2025 19:00:04 GMT | Human + AI: The Hybrid Future of Security Operations | Shradhdha Bhalodia | [Read More](https://medium.com/p/87b96532d421) |
+| Tue, 12 Aug 2025 18:59:03 GMT | IT Strategy in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/0adbd640009e) |
+| Tue, 12 Aug 2025 18:55:16 GMT | Working in IT After Paranoid Psychosis | 4O4 | [Read More](https://medium.com/p/8db129e4f81d) |
+| Tue, 12 Aug 2025 18:53:49 GMT | Hacking Flutter apps: Static, dynamic and beyond | Manas Harsh | [Read More](https://medium.com/p/893c7a733353) |
+| Tue, 12 Aug 2025 18:53:25 GMT | Here’s What You Should Know Before OSINT-ing Someone: Insights From NSHC’s Cyber Security… | Michael Christian Handoko | [Read More](https://medium.com/p/53a48ef60c91) |
+| Tue, 12 Aug 2025 18:42:50 GMT | Uploading Files Securely in Backend | TechByRahmat | [Read More](https://medium.com/p/37e9b474f69b) |
+| Tue, 12 Aug 2025 18:41:42 GMT | Donald Trump: prelude to an American totalitarianism? | Hayat Outahar | [Read More](https://medium.com/p/376be1094141) |
+| Tue, 12 Aug 2025 18:39:47 GMT | How OpenxAI is important — The growing need of decentralised AI | Tanushka Sahu | [Read More](https://medium.com/p/03dd4b013727) |
 | Tue, 12 Aug 2025 18:29:04 GMT | Cyber Snack Day -4 | Anwar_Nainar | [Read More](https://medium.com/p/0c597f76d371) |
+| Tue, 12 Aug 2025 18:28:09 GMT | Why You’ll Never Have a Deep Connection With Someone Who Isn’t Connected to Themselves | Karolina L | [Read More](https://medium.com/p/0092f95974c2) |
 | Tue, 12 Aug 2025 18:24:29 GMT | Pinterest: What It Is, How It Works, and How You Can Make Money from It | Dumitru Radulescu | [Read More](https://medium.com/p/e0f6f54c20a2) |
 | Tue, 12 Aug 2025 18:23:40 GMT | AI in Software Development and the New Cybersecurity Reality | Suhail R. Ahmad | [Read More](https://medium.com/p/0c7b6e2523ea) |
 | Tue, 12 Aug 2025 18:17:34 GMT | Bypassing WAF Protections: Chaining Stored XSS & Open Redirect Vulnerabilities (Now Patched) | N0aziXss | [Read More](https://medium.com/p/ab8ed6b69601) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 15:05:34 GMT | ️‍♂️Natas 4 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/16ab2473015c) |
 | Tue, 12 Aug 2025 15:05:18 GMT | AWS security in plain english: simple steps to protect your cloud in 2025 | Charlotte Rhodes | [Read More](https://medium.com/p/48e112255d3a) |
 | Tue, 12 Aug 2025 15:05:04 GMT | Microsoft Unveils AI Agent That Hunts Malware on Its Own | Rue | [Read More](https://medium.com/p/b7d609f7a971) |
-| Tue, 12 Aug 2025 15:01:47 GMT | From Curiosity to Critical: Uncovering Chained Vulnerabilities in a Private Web App Pentest | Samruth Sriram D | [Read More](https://medium.com/p/febdc60a19ce) |
-| Tue, 12 Aug 2025 14:57:35 GMT | Detecting WinRAR zero-day exploitation: CVE-2025–8088 | Bastradamus | [Read More](https://medium.com/p/eac533120a91) |
-| Tue, 12 Aug 2025 14:55:26 GMT | The Bug that made me a Bounty in only a Few Minutes | Cheirishpro | [Read More](https://medium.com/p/7cf92bb03c19) |
-| Tue, 12 Aug 2025 14:51:11 GMT | What the PXA Stealer Campaign Teaches Us About Choosing Secure Messaging Platforms | RealTyme | [Read More](https://medium.com/p/0fda3e55d6e0) |
-| Tue, 12 Aug 2025 14:48:47 GMT | If You Can’t Explain It, You Don’t Understand It | Vijay Kumar Gupta | [Read More](https://medium.com/p/7a0983b5e596) |
-| Tue, 12 Aug 2025 14:47:12 GMT | RomCom’s idea of a meet-cute? Sneaking a malware-stuffed RAR into your Startup folder. | Wes Young | [Read More](https://medium.com/p/d01679f9cc0d) |
-| Tue, 12 Aug 2025 14:45:00 GMT | CYBERSECURITY: BASICS 2 NETWORKING | Rayyanshowkath | [Read More](https://medium.com/p/52463fe90137) |
-| Tue, 12 Aug 2025 14:41:36 GMT | A Clear View of Safety: How CCTV in Dubai’s Pet Parks and Playgrounds Keeps Our Furry Friends Safe | cctv-installation-dubai | [Read More](https://medium.com/p/1dc8d5e0a1b6) |
-| Tue, 12 Aug 2025 14:39:58 GMT | Changing Email Despite UI Restriction | Pot4to | [Read More](https://medium.com/p/18368ddf6bea) |
-| Tue, 12 Aug 2025 14:38:08 GMT | How a Simple Rate Limit Issue Earned Me €500 | Enterlectury | [Read More](https://medium.com/p/763aa5ae8ae1) |
-| Tue, 12 Aug 2025 14:37:57 GMT | How an Executable Hidden in an SSL Certificate Could Cripple Your Defenses | TheCyberSalad | [Read More](https://medium.com/p/b0a77570da69) |
-| Tue, 12 Aug 2025 14:36:10 GMT | ️‍♂️Natas 3 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/9f655174a6d7) |
-| Tue, 12 Aug 2025 14:33:29 GMT | The CIA Triad — No, Not That CIA | Deezacker | [Read More](https://medium.com/p/cb2bd3f77dba) |
-| Tue, 12 Aug 2025 14:29:16 GMT | How Does QR Code Work? | Syed Anees Khan | [Read More](https://medium.com/p/f13e892f0476) |
