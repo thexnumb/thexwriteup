@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 10:26:27 GMT | The Role of Data Security in Protecting IoT Devices | Kartik Debnath | [Read More](https://medium.com/p/a929bb80cd87) |
+| Tue, 12 Aug 2025 10:25:31 GMT | Building with AI vs. Living with AI: AIVille’s Distinction Is the Conversation Web3 Needs | Web3Dof | [Read More](https://medium.com/p/0e0f0523941b) |
 | Tue, 12 Aug 2025 10:23:25 GMT | How IT Consulting Services Boost ROI for Businesses | Shiv Technolabs | [Read More](https://medium.com/p/8b6399efc1c5) |
 | Tue, 12 Aug 2025 10:19:04 GMT | Flash Coins: The Truth About Instant Crypto Transactions | Sagol | [Read More](https://medium.com/p/d9c9ff330474) |
 | Tue, 12 Aug 2025 10:18:21 GMT | How Clean Crypto Wallets Get Caught in Sanctions Nets | AML You | [Read More](https://medium.com/p/044099b86ca8) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 06:32:54 GMT | Top 5 Digital Transformation Trends Businesses Cannot Ignore in 2025 | Bpractseo | [Read More](https://medium.com/p/f27d37162a6d) |
 | Tue, 12 Aug 2025 06:32:02 GMT | “Social Engineering Attacks in 2025: Psychological Hacking Tactics and How to Detect Them Early” | Tarush Sharma | [Read More](https://medium.com/p/29f96d7e7c2b) |
 | Tue, 12 Aug 2025 06:29:34 GMT | Identity Security, Reinvented: How Stellar Cyber ITDR Stops Credential-Based Attacks Before They… | Stellar Cyber | [Read More](https://medium.com/p/5272eb82a151) |
-| Tue, 12 Aug 2025 06:16:21 GMT | The Best Books to Master Ethical Hacking in 2025 | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/e5e070e5d230) |
-| Tue, 12 Aug 2025 06:16:00 GMT | Secure Internal LLM Gateway for Developers in High Security Environments | Gilberto Flores | [Read More](https://medium.com/p/347ccb5c8dec) |
