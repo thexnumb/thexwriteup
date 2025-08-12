@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 20:13:38 GMT | Democracy’s Trojan Horses: How Our Freedoms Become Our Weakness | Ri | [Read More](https://medium.com/p/261684fa0415) |
+| Tue, 12 Aug 2025 19:46:59 GMT | CyberDefenders — MrRobot Lab | jon | [Read More](https://medium.com/p/72415daf1b90) |
+| Tue, 12 Aug 2025 19:45:32 GMT | 10 Must-Use DevOps Tools in 2025: The Game-Changers That Proved Their Worth | Devansh Upadhyay | [Read More](https://medium.com/p/f1219175b8a4) |
+| Tue, 12 Aug 2025 19:45:06 GMT | My 100 Hour Rule for Bug Bounty ! | DevProgramming | [Read More](https://medium.com/p/046f96fc7791) |
+| Tue, 12 Aug 2025 19:42:57 GMT | Credential Theft: The Digital Pickpocket You Never See Coming | Akshay Chauhan | [Read More](https://medium.com/p/5d10984e5ea9) |
+| Tue, 12 Aug 2025 19:40:16 GMT | Perplexity’s $34.5 | Mammoth Cyber | [Read More](https://medium.com/p/28b12fe056be) |
 | Tue, 12 Aug 2025 19:38:48 GMT | Virtual Machine | Jafari Law | [Read More](https://medium.com/p/c1a1f185c95c) |
 | Tue, 12 Aug 2025 19:37:58 GMT | Mastering Modern Tools as a Business Analyst or Solution Designer in a Global Organization | Aleksandr Alekseev | [Read More](https://medium.com/p/1e5815539ec0) |
+| Tue, 12 Aug 2025 19:32:41 GMT | System Security Management Through CCE-Based Vulnerability Assessment and Modular Server Hardening… | Abrar Ikramaputra | [Read More](https://medium.com/p/66241e6c84c0) |
 | Tue, 12 Aug 2025 19:31:08 GMT | How to Verify an Electrum GPG Signature on macOS | Andrew MacRobert | [Read More](https://medium.com/p/cf141fb96a83) |
 | Tue, 12 Aug 2025 19:26:44 GMT | What is Zero Trust Model in Cloud Infrastructure: Benefits, Principles, and Implementation | Techridge Solutions | [Read More](https://medium.com/p/766b3d4d7836) |
 | Tue, 12 Aug 2025 19:26:41 GMT | The Role of Session-Binding XSRF Tokens in Web Security | Wan-Yi Lee | [Read More](https://medium.com/p/b65e5456d70c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 15:46:48 GMT | 15,000 Jenkins Servers at Risk: Git Parameter Plugin Command Injection Under Fire | Chetan Seripally | [Read More](https://medium.com/p/29cc7cbc802a) |
 | Tue, 12 Aug 2025 15:46:34 GMT | Cryptojacking in the Cloud: How a Docker Misconfiguration Led to Mining Mayhem-And How to Prevent… | The Stackmentalist | [Read More](https://medium.com/p/cd29467b2a29) |
 | Tue, 12 Aug 2025 15:44:17 GMT | How to Improve the Security of Your Terraform Resources Using Checkov | Yahya Mohamed | [Read More](https://medium.com/p/dd6a1333ba13) |
-| Tue, 12 Aug 2025 15:38:09 GMT | Understanding the Role of a Help Desk and the Importance of Queue Management | Cyber Timi | [Read More](https://medium.com/p/213667832cc9) |
-| Tue, 12 Aug 2025 15:36:49 GMT | How to spot if your website has been attacked | Jasonmariakieran | [Read More](https://medium.com/p/03c3733107f2) |
-| Tue, 12 Aug 2025 15:35:39 GMT | ️‍♂️Natas 5 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/71c3bf156450) |
-| Tue, 12 Aug 2025 15:29:56 GMT | DAL PRIMO CLICK AL FUTURO DA PROGRAMMATORE | Sofia Campari | [Read More](https://medium.com/p/9dd3bc3eadfd) |
-| Tue, 12 Aug 2025 15:29:00 GMT | Operation Cyber Shield: The 3 Pillar Cyber Defense Plan Every Business Leader Needs | Joshua Dallas Brooks | [Read More](https://medium.com/p/6120b24c6dcb) |
-| Tue, 12 Aug 2025 15:27:16 GMT | Is It Worth Starting a Web Hosting Business in Q4 2025? The Honest Outlook | Hugo Valters | [Read More](https://medium.com/p/03b1d15eac4a) |
-| Tue, 12 Aug 2025 15:24:38 GMT | EXIF Metadata: The Invisible Photo Data That Could Reveal Your Location | Ngoc Nguyen Nhu | [Read More](https://medium.com/p/d06dbcf8af01) |
