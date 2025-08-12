@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 03:52:21 GMT | [0day] Critical RCE Vulnerability in Atlassian Confluence (CVE-2023–22518) — What You Need to Know | AerieWhole123 | [Read More](https://medium.com/p/11022babf31e) |
+| Tue, 12 Aug 2025 03:50:33 GMT | Ransomware: A Critical Cyber Security Threat to New Zealand Businesses | Cyberoptic Security | [Read More](https://medium.com/p/a9f6a8be4928) |
+| Tue, 12 Aug 2025 03:40:02 GMT | From First Exploit to Pivot: Building My Red Team Lab | Berrydb | [Read More](https://medium.com/p/728cdcf0646f) |
+| Tue, 12 Aug 2025 03:31:43 GMT | Exposed and Unaware: What the Kelly Benefits Breach Reveals About Third-Party Risk | Deven Chhajed | [Read More](https://medium.com/p/b921b0705551) |
+| Tue, 12 Aug 2025 03:31:42 GMT | Lightning-Fast File Uploads in NestJS with Busboy and Streams | Bhagya Rana | [Read More](https://medium.com/p/02d933152212) |
+| Tue, 12 Aug 2025 03:26:34 GMT | Scattered Challenge — Network Security | Zeenya | [Read More](https://medium.com/p/51396ee2d5b4) |
+| Tue, 12 Aug 2025 03:19:02 GMT | BUG İçin $BUG Token'ı Nasıl Talep Edilir? | BUG | [Read More](https://medium.com/p/7ae137af6089) |
+| Tue, 12 Aug 2025 03:17:42 GMT | SecuMS & Omniguard: A Deep Dive into LSWare’s Proactive Cybersecurity Suite | Ahmad Naufal Ramadan | [Read More](https://medium.com/p/c2801c9957e3) |
+| Tue, 12 Aug 2025 03:16:01 GMT | קבלו את האסימונים שלכם: תבעו $BUG עבור BUG עכשיו | BUG | [Read More](https://medium.com/p/07f8c32fe90c) |
+| Tue, 12 Aug 2025 03:13:19 GMT | DefCon 33 Recap: Where Defenders Found Their Edge | Eric Zietlow | [Read More](https://medium.com/p/7acd67eb8236) |
 | Tue, 12 Aug 2025 03:12:57 GMT | The Cloud Isn’t Always as Safe as You Think — Here’s Why | Mustafa DevSec | [Read More](https://medium.com/p/b84b38c847c0) |
 | Tue, 12 Aug 2025 03:10:46 GMT | “The Invisible War: 5 Cybersecurity Threats That Will Break Your Business If You Ignore Them in… | Dr. Deep Pandey | [Read More](https://medium.com/p/00f3486940d6) |
 | Tue, 12 Aug 2025 02:58:06 GMT | OAuth 2.0 made simple: how APIs decide who gets in | Freddy Dordoni | [Read More](https://medium.com/p/4088306c84ee) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 18:36:00 GMT | How a Bank Ditched “Trust” and Beat Hackers with Zero Trust Architecture. | Priyalsharma | [Read More](https://medium.com/p/08481f83732b) |
 | Mon, 11 Aug 2025 18:34:52 GMT | Ukrainian Hackers Breach Major Russian Security Service Provider | Theo Zarren | [Read More](https://medium.com/p/3794118017bd) |
 | Mon, 11 Aug 2025 18:31:32 GMT | Dark Web Monitoring: Why It’s Essential for Protecting Your Business and Identity | SafeAeon Inc. | [Read More](https://medium.com/p/b1cf00972ce4) |
-| Mon, 11 Aug 2025 18:30:02 GMT | Rate Limiting and API Security | TechByRahmat | [Read More](https://medium.com/p/9940ca5dd990) |
-| Mon, 11 Aug 2025 18:28:02 GMT | Tech Giants Face New Global Regulations to Curb Data Privacy Concerns | THE NEWS NATION | [Read More](https://medium.com/p/b36bfd5ea7d6) |
-| Mon, 11 Aug 2025 18:19:05 GMT | The AI Paradox: Why We’re Letting Our Engineers Run Wild (And Why That’s Strategic) | Luis Morales | [Read More](https://medium.com/p/f80dd14ea579) |
-| Mon, 11 Aug 2025 18:17:07 GMT | Cross-Browser Without Crying: A Practical Field Guide | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/9c075fa4c02a) |
-| Mon, 11 Aug 2025 18:13:33 GMT | Don’t Take the Bait: Outsmart Sneaky Phishing Scams | Scott Brenner | [Read More](https://medium.com/p/61b95d15a351) |
-| Mon, 11 Aug 2025 18:12:21 GMT | Proactive Security: How AI Predicts Cyber Threats Before They Strike | Shradhdha Bhalodia | [Read More](https://medium.com/p/2ea93cd41940) |
-| Mon, 11 Aug 2025 18:11:41 GMT | Why Choose SafeAeon? The Benefits That Set Us Apart | SafeAeon Inc. | [Read More](https://medium.com/p/3ea4bff05e40) |
-| Mon, 11 Aug 2025 18:08:21 GMT | From Screens to Scenes: My One-Month Internship with the Cyber Police | Ayush Pandit | [Read More](https://medium.com/p/1d4afa3ac4cf) |
-| Mon, 11 Aug 2025 18:05:50 GMT | CyberRecon Arsenal — My All-in-One Cybersecurity Reconnaissance Toolkit (Now Free for Everyone!) | LETCHU PKT | [Read More](https://medium.com/p/ade7f12e738b) |
-| Mon, 11 Aug 2025 18:04:31 GMT | Building an Impenetrable Wall: How to Secure Your Organization’s Data from Every Angle | Kenji | [Read More](https://medium.com/p/49a3eef900f9) |
