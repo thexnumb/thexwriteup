@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 07:35:01 GMT | Hard Links, Soft Links, and /dev/null — The Secret Stuff | MayhemCode | [Read More](https://medium.com/p/5cbfad45fbde) |
+| Tue, 12 Aug 2025 07:32:27 GMT | ISO 27001 vs SOC 2: Why One Doesn’t Automatically Get You the Other | Harivansh Sharma | [Read More](https://medium.com/p/285681938a09) |
+| Tue, 12 Aug 2025 07:31:59 GMT | “Apple’s Siri 2026 Upgrade: AI Power, App Intents, and Game-Changing Features” | Tarush Sharma | [Read More](https://medium.com/p/03c4ba532ff7) |
+| Tue, 12 Aug 2025 07:30:16 GMT | hdfc bank se paise cut jaaye to kya karen 9669538050 अगर आपके एचडीएफ़सी बैंक खाते से पैसे कट… | एचडीएफसी बैंक से पैसे कट जाए तो क्या करें | [Read More](https://medium.com/p/ee1f0b103220) |
+| Tue, 12 Aug 2025 07:28:30 GMT | Why the Cyber Operations Specialist 17C Role Is Your Path to a Thrilling Tech Career | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/f3a07edd4ed5) |
+| Tue, 12 Aug 2025 07:25:14 GMT | Ever Wonder What Your Keyboard Knows About You? | GhostNex | [Read More](https://medium.com/p/244d672d9422) |
+| Tue, 12 Aug 2025 07:24:55 GMT | Top Apple MDM Software to Simplify iOS Device Control | Vantage MDM | [Read More](https://medium.com/p/ffbaf9e44997) |
+| Tue, 12 Aug 2025 07:23:11 GMT | SafeLine WAF Container Environment Variables — Quick Reference for DevOps | AerieWhole123 | [Read More](https://medium.com/p/aff6d0b0bc6c) |
+| Tue, 12 Aug 2025 07:17:32 GMT | ️ From Red Team to Blue Team: How a Malicious Loader Wiped Out a Website (and My Notes) | Shrivarshan | [Read More](https://medium.com/p/aae0ce7429b8) |
+| Tue, 12 Aug 2025 07:17:25 GMT | From Firewalls to Pipelines: My Journey into Cloud and DevOps | Khushi Mehta | [Read More](https://medium.com/p/c5331ef45110) |
 | Tue, 12 Aug 2025 07:16:57 GMT | The Rise of Zero Trust: A New Era of Cybersecurity | Aryan D | [Read More](https://medium.com/p/ab114ed501cb) |
 | Tue, 12 Aug 2025 07:15:24 GMT | NG Injector Free Fire APK For 2025–2026 | Qahirakbar | [Read More](https://medium.com/p/0d3e530910db) |
 | Tue, 12 Aug 2025 07:11:03 GMT | AI and Cloud Security. Friend or Foe? | Wayne Bridgman | [Read More](https://medium.com/p/a9af5e7df549) |
@@ -103,13 +113,3 @@ Sensitive Information Leakage via Referrer Header in Password… | Yousef Ezzeld
 | Tue, 12 Aug 2025 01:57:46 GMT | How AI and Generative AI Are Reshaping Cybersecurity | Kamalmeet Singh | [Read More](https://medium.com/p/ac318a14fda9) |
 | Tue, 12 Aug 2025 01:57:19 GMT | Your AI Co-Pilot Can’t Write Your Story. But It Can Perfect It. | Fahad's Foresight | [Read More](https://medium.com/p/9d2a900b2e94) |
 | Tue, 12 Aug 2025 01:54:05 GMT | I Stole ChatGPT’s Secret to a $5K Product (It Only Took 2 Hours). | Fahad's Foresight | [Read More](https://medium.com/p/d9cc9a110985) |
-| Tue, 12 Aug 2025 01:53:36 GMT | Drosera Network: Shaping the Future of Secure, Scalable, and Transparent Blockchain Systems | Ojong John Ndoma | [Read More](https://medium.com/p/3200b98554e4) |
-| Tue, 12 Aug 2025 01:52:48 GMT | $50 a Day is the New Goal: 3 Side Hustles You Can Start This Week. | Fahad's Foresight | [Read More](https://medium.com/p/6b2946c4c702) |
-| Tue, 12 Aug 2025 01:27:07 GMT | Betanet: The “Censorship-Free” Internet That Could Change the Web Forever | Aaron | [Read More](https://medium.com/p/530c7294d9af) |
-| Tue, 12 Aug 2025 01:23:17 GMT | How to Hire a Hacker in 2025: A Comprehensive Guide to Cybersecurity and Privacy Protection | SinVictus | [Read More](https://medium.com/p/cbff4d3435f8) |
-| Tue, 12 Aug 2025 01:19:19 GMT | Tuesday Morning Threat Report: Aug 12, 2025 | Mark Maguire | [Read More](https://medium.com/p/e4ab38d86089) |
-| Tue, 12 Aug 2025 01:16:39 GMT | How to Find Hidden Paths to Domain Admin in Minutes (With BloodHound) | Paritosh | [Read More](https://medium.com/p/34a69de1be12) |
-| Tue, 12 Aug 2025 01:13:44 GMT | How to Securely Store Your Crypto Assets? Digital Shield Has the Answer | Digital Shield | [Read More](https://medium.com/p/f9667d0c72ad) |
-| Tue, 12 Aug 2025 01:03:05 GMT | Ransomware Landscape in H1 2025: Statistics and Key Issues | S2W | [Read More](https://medium.com/p/9e8c1a6b4e2c) |
-| Tue, 12 Aug 2025 00:52:40 GMT | Understanding Closed and Open Systems: Security vs Interoperability | Raviteja Mureboina | [Read More](https://medium.com/p/131f0697d8dd) |
-| Tue, 12 Aug 2025 00:44:47 GMT | Intel101 — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/fbdb7ea06c93) |
