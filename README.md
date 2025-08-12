@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 19:38:48 GMT | Virtual Machine | Jafari Law | [Read More](https://medium.com/p/c1a1f185c95c) |
+| Tue, 12 Aug 2025 19:37:58 GMT | Mastering Modern Tools as a Business Analyst or Solution Designer in a Global Organization | Aleksandr Alekseev | [Read More](https://medium.com/p/1e5815539ec0) |
+| Tue, 12 Aug 2025 19:31:08 GMT | How to Verify an Electrum GPG Signature on macOS | Andrew MacRobert | [Read More](https://medium.com/p/cf141fb96a83) |
+| Tue, 12 Aug 2025 19:26:44 GMT | What is Zero Trust Model in Cloud Infrastructure: Benefits, Principles, and Implementation | Techridge Solutions | [Read More](https://medium.com/p/766b3d4d7836) |
+| Tue, 12 Aug 2025 19:26:41 GMT | The Role of Session-Binding XSRF Tokens in Web Security | Wan-Yi Lee | [Read More](https://medium.com/p/b65e5456d70c) |
+| Tue, 12 Aug 2025 19:25:48 GMT | CVE-2025–41688: Bypassing Restrictions in an OT Remote Access Device | Marcel Rick-Cen | [Read More](https://medium.com/p/de5302c98a23) |
+| Tue, 12 Aug 2025 19:25:04 GMT | Install & Configure Suricata on pfSense Guide | James Rawlings | [Read More](https://medium.com/p/2e53eb4de892) |
+| Tue, 12 Aug 2025 19:21:05 GMT | Authentication in .NET — Part 5: Hybrid Auth Strategy with Cookie + OIDC + JWT | Dilanka Muthukumarana | [Read More](https://medium.com/p/959d114a8238) |
+| Tue, 12 Aug 2025 19:20:38 GMT | Cyber Insurance: Worth It or Waste of Money? | Hemant Patkar, CISSP | [Read More](https://medium.com/p/be4b49a3b2ca) |
 | Tue, 12 Aug 2025 19:15:41 GMT | Stored XSS ve BEEF | Mustafa Şen | [Read More](https://medium.com/p/f63b6cd37191) |
 | Tue, 12 Aug 2025 19:13:31 GMT | How Understanding OSINT Can Secure Your Business | Joe The OSINT Guy | [Read More](https://medium.com/p/4a0b283ab069) |
+| Tue, 12 Aug 2025 19:13:29 GMT | How to Speak to Someone at Webroot Support USA Contact Numbers: A Step-by-Step Guide | Risetechsolutionsinc | [Read More](https://medium.com/p/1723f77f07f1) |
 | Tue, 12 Aug 2025 19:13:01 GMT | The Art of Finding the Truth | Dania. | [Read More](https://medium.com/p/d626403ae146) |
 | Tue, 12 Aug 2025 19:04:57 GMT | Day 79: mkfifo | Nile Okomo | [Read More](https://medium.com/p/5fc728aaf467) |
 | Tue, 12 Aug 2025 19:04:05 GMT | Cracking Open a Reflected XSS in SpatialReference.org | Just Insecure | [Read More](https://medium.com/p/fcc42175ae6b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 15:29:00 GMT | Operation Cyber Shield: The 3 Pillar Cyber Defense Plan Every Business Leader Needs | Joshua Dallas Brooks | [Read More](https://medium.com/p/6120b24c6dcb) |
 | Tue, 12 Aug 2025 15:27:16 GMT | Is It Worth Starting a Web Hosting Business in Q4 2025? The Honest Outlook | Hugo Valters | [Read More](https://medium.com/p/03b1d15eac4a) |
 | Tue, 12 Aug 2025 15:24:38 GMT | EXIF Metadata: The Invisible Photo Data That Could Reveal Your Location | Ngoc Nguyen Nhu | [Read More](https://medium.com/p/d06dbcf8af01) |
-| Tue, 12 Aug 2025 15:20:12 GMT | How to Secure Your Domain’s Email with SPF, DKIM, and DMARC: A Step-by-Step Guide | Venkatesh Naga Damarouthu | [Read More](https://medium.com/p/f9fc4110492d) |
-| Tue, 12 Aug 2025 15:19:45 GMT | The New Cybersecurity Paradigm: Embracing Transparency in a Perpetually Vulnerable World | Internet Exposed | [Read More](https://medium.com/p/b8c5bbb317df) |
-| Tue, 12 Aug 2025 15:19:31 GMT | This AI Prompt is a Viral Video Factory. Here’s the Blueprint. | Fahad's Foresight | [Read More](https://medium.com/p/064d3b0e5137) |
-| Tue, 12 Aug 2025 15:16:56 GMT | RHEL 10 Üzerinde Ansible Kullanarak Güvenli Apache Web Server ve SSL Yapılandırması | Oguzhan Polat | [Read More](https://medium.com/p/398d7361ed05) |
-| Tue, 12 Aug 2025 15:12:33 GMT | Cybr Academy — [LAB]ECS RCE Exploit to Get AWS Credentials + Python Exploit | Maxi | [Read More](https://medium.com/p/4fbc12bc62bc) |
-| Tue, 12 Aug 2025 15:11:06 GMT | WordPress Security Lab Guide | j1sec | [Read More](https://medium.com/p/8d761f3cded4) |
-| Tue, 12 Aug 2025 15:10:41 GMT | The Communication Gap: Why Technical Skills Aren’t Enough in Cybersecurity | Manish Rawat | [Read More](https://medium.com/p/6323757a5d2e) |
-| Tue, 12 Aug 2025 15:05:34 GMT | ️‍♂️Natas 4 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/16ab2473015c) |
-| Tue, 12 Aug 2025 15:05:18 GMT | AWS security in plain english: simple steps to protect your cloud in 2025 | Charlotte Rhodes | [Read More](https://medium.com/p/48e112255d3a) |
-| Tue, 12 Aug 2025 15:05:04 GMT | Microsoft Unveils AI Agent That Hunts Malware on Its Own | Rue | [Read More](https://medium.com/p/b7d609f7a971) |
