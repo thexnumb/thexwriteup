@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 23:19:02 GMT | The Psychology of Deepfake Belief: Why We Fall for Fakes | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d3b65a9c03a4) |
 | Tue, 12 Aug 2025 23:16:49 GMT | Secure Defaults: Why They’re Not Always as Safe as You Think | Raviteja Mureboina | [Read More](https://medium.com/p/fec5b4cb925a) |
 | Tue, 12 Aug 2025 23:15:22 GMT | From Shodan to Securing Government Systems: BFLA + Stored XSS Write-Up | Veyron92i | [Read More](https://medium.com/p/ab3bfd4e703d) |
 | Tue, 12 Aug 2025 23:13:23 GMT | The Inheritance Trap — How Cloud Folder Structures Can Silently Expose Metadata at Scale | Haitham A. E. ISMAIEEL | [Read More](https://medium.com/p/c6716bc56ac7) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 17:16:27 GMT | Verify - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/2aebea3b9ebc) |
 | Tue, 12 Aug 2025 17:16:22 GMT | Super SSH - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/43647a3c85b0) |
 | Tue, 12 Aug 2025 17:04:05 GMT | Your Website’s Silent Guardians: A Deep Dive into Security Headers | Mike (sl0th0x87) | [Read More](https://medium.com/p/9f3dd8e6feeb) |
-| Tue, 12 Aug 2025 17:03:14 GMT | DevSecOps Implementation Guide | Tech Bridge Consultancy | [Read More](https://medium.com/p/0f99b43f7df6) |
