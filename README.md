@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 15:19:31 GMT | This AI Prompt is a Viral Video Factory. Here’s the Blueprint. | Fahad's Foresight | [Read More](https://medium.com/p/064d3b0e5137) |
+| Tue, 12 Aug 2025 15:12:33 GMT | Cybr Academy — [LAB]ECS RCE Exploit to Get AWS Credentials + Python Exploit | Maxi | [Read More](https://medium.com/p/4fbc12bc62bc) |
+| Tue, 12 Aug 2025 15:11:06 GMT | WordPress Security Lab Guide | j1sec | [Read More](https://medium.com/p/8d761f3cded4) |
+| Tue, 12 Aug 2025 15:10:41 GMT | The Communication Gap: Why Technical Skills Aren’t Enough in Cybersecurity | Manish Rawat | [Read More](https://medium.com/p/6323757a5d2e) |
+| Tue, 12 Aug 2025 15:05:34 GMT | ️‍♂️Natas 4 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/16ab2473015c) |
+| Tue, 12 Aug 2025 15:05:18 GMT | AWS security in plain english: simple steps to protect your cloud in 2025 | Charlotte Rhodes | [Read More](https://medium.com/p/48e112255d3a) |
+| Tue, 12 Aug 2025 15:05:04 GMT | Microsoft Unveils AI Agent That Hunts Malware on Its Own | Rue | [Read More](https://medium.com/p/b7d609f7a971) |
+| Tue, 12 Aug 2025 15:01:47 GMT | From Curiosity to Critical: Uncovering Chained Vulnerabilities in a Private Web App Pentest | Samruth Sriram D | [Read More](https://medium.com/p/febdc60a19ce) |
+| Tue, 12 Aug 2025 14:57:35 GMT | Detecting WinRAR zero-day exploitation: CVE-2025–8088 | Bastradamus | [Read More](https://medium.com/p/eac533120a91) |
+| Tue, 12 Aug 2025 14:55:26 GMT | The Bug that made me a Bounty in only a Few Minutes | Cheirishpro | [Read More](https://medium.com/p/7cf92bb03c19) |
+| Tue, 12 Aug 2025 14:51:11 GMT | What the PXA Stealer Campaign Teaches Us About Choosing Secure Messaging Platforms | RealTyme | [Read More](https://medium.com/p/0fda3e55d6e0) |
+| Tue, 12 Aug 2025 14:48:47 GMT | If You Can’t Explain It, You Don’t Understand It | Vijay Kumar Gupta | [Read More](https://medium.com/p/7a0983b5e596) |
+| Tue, 12 Aug 2025 14:47:12 GMT | RomCom’s idea of a meet-cute? Sneaking a malware-stuffed RAR into your Startup folder. | Wes Young | [Read More](https://medium.com/p/d01679f9cc0d) |
+| Tue, 12 Aug 2025 14:45:00 GMT | CYBERSECURITY: BASICS 2 NETWORKING | Rayyanshowkath | [Read More](https://medium.com/p/52463fe90137) |
+| Tue, 12 Aug 2025 14:41:36 GMT | A Clear View of Safety: How CCTV in Dubai’s Pet Parks and Playgrounds Keeps Our Furry Friends Safe | cctv-installation-dubai | [Read More](https://medium.com/p/1dc8d5e0a1b6) |
+| Tue, 12 Aug 2025 14:39:58 GMT | Changing Email Despite UI Restriction | Pot4to | [Read More](https://medium.com/p/18368ddf6bea) |
 | Tue, 12 Aug 2025 14:38:08 GMT | How a Simple Rate Limit Issue Earned Me €500 | Enterlectury | [Read More](https://medium.com/p/763aa5ae8ae1) |
 | Tue, 12 Aug 2025 14:37:57 GMT | How an Executable Hidden in an SSL Certificate Could Cripple Your Defenses | TheCyberSalad | [Read More](https://medium.com/p/b0a77570da69) |
 | Tue, 12 Aug 2025 14:36:10 GMT | ️‍♂️Natas 3 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/9f655174a6d7) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 11:09:20 GMT | CVE-2025–8819: Stack Overflow Vulnerability in Linksys Range Extenders | CVEHUB | [Read More](https://medium.com/p/13eb65f5f212) |
 | Tue, 12 Aug 2025 11:07:42 GMT | CVE-2025–8818: Command Injection Vulnerability in Linksys Range Extenders | CVEHUB | [Read More](https://medium.com/p/92bd63634188) |
 | Tue, 12 Aug 2025 11:06:09 GMT | CVE-2025–8817: Critical Stack Overflow in Linksys Wi-Fi Extenders! | CVEHUB | [Read More](https://medium.com/p/e9900f92c100) |
-| Tue, 12 Aug 2025 11:04:09 GMT | Nejvíce ohrožené sektory z hlediska kybernetické bezpečnosti! | Cyber Solution | [Read More](https://medium.com/p/11e98f0183a6) |
-| Tue, 12 Aug 2025 11:01:57 GMT | How Leaked Traces Are Used to Smear Founders | Ingvar Pavlovich | [Read More](https://medium.com/p/d0ca45b729c7) |
-| Tue, 12 Aug 2025 11:01:57 GMT | The Internet Security Dragon | Brian N. Siegelwax | [Read More](https://medium.com/p/91398438e644) |
-| Tue, 12 Aug 2025 11:00:25 GMT | A Beginner’s Guide to Hacking, Virtual Machines, Linux, and Networking | Adityanarayanan A S | [Read More](https://medium.com/p/957fcc6e1a1a) |
-| Tue, 12 Aug 2025 10:59:46 GMT | Top Tech Updates and Future Trends You Shouldn’t Miss | Ketan Patel | [Read More](https://medium.com/p/056273feecf6) |
-| Tue, 12 Aug 2025 10:58:26 GMT | UK Generative AI Cybersecurity Market Size, Share, Trends - Forecast Report by 2032 | Atharvaconsegicbusinessintelli | [Read More](https://medium.com/p/e09ababdb90c) |
-| Tue, 12 Aug 2025 10:56:40 GMT | Bug Bounty Entry: Getting Started with Platforms like HackerOne and Bugcrowd | RafalW3bCraft | [Read More](https://medium.com/p/849ffb8ba046) |
-| Tue, 12 Aug 2025 10:56:10 GMT | Century — Under The Wire (writeup) | Shaheer Khalid | [Read More](https://medium.com/p/7060777ae963) |
-| Tue, 12 Aug 2025 10:45:38 GMT | Moving Fast Without Breaking Security: JWTs, Refresh Tokens & Safer Authentication | Keleigh Berenger | [Read More](https://medium.com/p/8bf80cae2b76) |
-| Tue, 12 Aug 2025 10:43:13 GMT | Why SEO Is Crucial for Your Website’s Online Success | Bhavesh Rajpurohit | [Read More](https://medium.com/p/b4ae8e5062ff) |
-| Tue, 12 Aug 2025 10:39:37 GMT | How I Passed the Practical SOC Analyst Associate (PSAA) Certification by TCM Security | Krishna | [Read More](https://medium.com/p/1573369bcc2e) |
-| Tue, 12 Aug 2025 10:36:11 GMT | Flash Coins: Crypto’s Biggest Illusion? | Sagol | [Read More](https://medium.com/p/2f6ed55daf78) |
-| Tue, 12 Aug 2025 10:26:27 GMT | The Role of Data Security in Protecting IoT Devices | Kartik Debnath | [Read More](https://medium.com/p/a929bb80cd87) |
-| Tue, 12 Aug 2025 10:25:31 GMT | Building with AI vs. Living with AI: AIVille’s Distinction Is the Conversation Web3 Needs | Web3Dof | [Read More](https://medium.com/p/0e0f0523941b) |
-| Tue, 12 Aug 2025 10:23:25 GMT | How IT Consulting Services Boost ROI for Businesses | Shiv Technolabs | [Read More](https://medium.com/p/8b6399efc1c5) |
-| Tue, 12 Aug 2025 10:19:04 GMT | Flash Coins: The Truth About Instant Crypto Transactions | Sagol | [Read More](https://medium.com/p/d9c9ff330474) |
