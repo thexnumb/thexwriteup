@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 07:16:57 GMT | The Rise of Zero Trust: A New Era of Cybersecurity | Aryan D | [Read More](https://medium.com/p/ab114ed501cb) |
+| Tue, 12 Aug 2025 07:15:24 GMT | NG Injector Free Fire APK For 2025–2026 | Qahirakbar | [Read More](https://medium.com/p/0d3e530910db) |
+| Tue, 12 Aug 2025 07:11:03 GMT | AI and Cloud Security. Friend or Foe? | Wayne Bridgman | [Read More](https://medium.com/p/a9af5e7df549) |
+| Tue, 12 Aug 2025 07:02:01 GMT | August 9 Easy2Patch Catalog Update: Zero-Day WinRAR Fix, High-Impact Chrome Patches, and More | Easy2Patch | [Read More](https://medium.com/p/5e2c701c3c11) |
+| Tue, 12 Aug 2025 07:01:24 GMT | GDPR Compliance Solutions Market: Driving the Future of Data Privacy and Trust | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/865d227f2196) |
+| Tue, 12 Aug 2025 07:00:38 GMT | Surveillance System | Optex India | [Read More](https://medium.com/p/407574eb60c2) |
+| Tue, 12 Aug 2025 06:54:11 GMT | Chenghis Khan, cruelty, empires, deterrence and cyber warfare. | Martin Abramov | [Read More](https://medium.com/p/83dfa2fc15e2) |
+| Tue, 12 Aug 2025 06:51:43 GMT | Dynatrace ve Büyük Günlük Kayıtları (LOG) | Perform Yazılım | [Read More](https://medium.com/p/058ffb95d37a) |
+| Tue, 12 Aug 2025 06:48:44 GMT | Bug Bounty village CTF - Gaining access to an internal researcher portal | VISCID | [Read More](https://medium.com/p/b575fa08b205) |
+| Tue, 12 Aug 2025 06:48:18 GMT | Tailgating Attacks: Prevention with Optex Tailgating Solutions | Optex India | [Read More](https://medium.com/p/9de9a16a8070) |
+| Tue, 12 Aug 2025 06:46:47 GMT | Reflections on Network and Email APTs, EDR, RansomZero (RGB & Entropy), Zero Trust, and the Rise… | [099YTZ] YENNI THERESIA ZALUKHU | [Read More](https://medium.com/p/d74e7f3e40fd) |
+| Tue, 12 Aug 2025 06:45:33 GMT | Securing Spring Boot APIs from XSS Injection | Ragul Rasalingam | [Read More](https://medium.com/p/a329eb465b95) |
+| Tue, 12 Aug 2025 06:40:27 GMT | Best Accessories Gadget Brands in Asia You Should Know in 2025 | Arini Rizki Fauziah | [Read More](https://medium.com/p/312f4db3b2ef) |
+| Tue, 12 Aug 2025 06:40:16 GMT | Secure your cryptocurrencies and accounts with hardware keys | Michael Harms | [Read More](https://medium.com/p/d61906d429db) |
 | Tue, 12 Aug 2025 06:33:06 GMT | Dorks For Sensitive Information Disclosure Part-3 | Devansh Patel | [Read More](https://medium.com/p/a687a9c5a3bf) |
+| Tue, 12 Aug 2025 06:32:54 GMT | Top 5 Digital Transformation Trends Businesses Cannot Ignore in 2025 | Bpractseo | [Read More](https://medium.com/p/f27d37162a6d) |
+| Tue, 12 Aug 2025 06:32:02 GMT | “Social Engineering Attacks in 2025: Psychological Hacking Tactics and How to Detect Them Early” | Tarush Sharma | [Read More](https://medium.com/p/29f96d7e7c2b) |
 | Tue, 12 Aug 2025 06:29:34 GMT | Identity Security, Reinvented: How Stellar Cyber ITDR Stops Credential-Based Attacks Before They… | Stellar Cyber | [Read More](https://medium.com/p/5272eb82a151) |
 | Tue, 12 Aug 2025 06:16:21 GMT | The Best Books to Master Ethical Hacking in 2025 | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/e5e070e5d230) |
 | Tue, 12 Aug 2025 06:16:00 GMT | Secure Internal LLM Gateway for Developers in High Security Environments | Gilberto Flores | [Read More](https://medium.com/p/347ccb5c8dec) |
@@ -97,19 +113,3 @@ Sensitive Information Leakage via Referrer Header in Password… | Yousef Ezzeld
 | Tue, 12 Aug 2025 01:03:05 GMT | Ransomware Landscape in H1 2025: Statistics and Key Issues | S2W | [Read More](https://medium.com/p/9e8c1a6b4e2c) |
 | Tue, 12 Aug 2025 00:52:40 GMT | Understanding Closed and Open Systems: Security vs Interoperability | Raviteja Mureboina | [Read More](https://medium.com/p/131f0697d8dd) |
 | Tue, 12 Aug 2025 00:44:47 GMT | Intel101 — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/fbdb7ea06c93) |
-| Tue, 12 Aug 2025 00:07:43 GMT | TryHackMe: Sticker Shop (Easy) — Medium-Level Write-Up | Savneet Singh | [Read More](https://medium.com/p/ccae6053fced) |
-| Tue, 12 Aug 2025 00:07:20 GMT | Parrot Security OS — Pentesterların Zamana Karşı Kalkanı | Tuba ÜNSAL | [Read More](https://medium.com/p/5a81f7c9700a) |
-| Mon, 11 Aug 2025 23:35:42 GMT | Learning Container Forensics — Beginner Guide | Syed Ali Turab | [Read More](https://medium.com/p/296ad22d67a1) |
-| Mon, 11 Aug 2025 23:33:02 GMT | Topologias de Rede: O Mapa Invisível Que Mantém a Internet Conectada | Nathan Steyka | [Read More](https://medium.com/p/36d82b990af6) |
-| Mon, 11 Aug 2025 23:29:32 GMT | A Balanced Comparison Between GPT-4o vs GPT-5 | Mozammel Bin Motalab | [Read More](https://medium.com/p/4c529da22288) |
-| Mon, 11 Aug 2025 23:23:02 GMT | What Tech Strategists and Project Managers Must Learn from CrowdStrike’s 2025 AI-Driven Threat… | CCL Montante | [Read More](https://medium.com/p/af6a9917a676) |
-| Mon, 11 Aug 2025 23:16:08 GMT | Windows Memory & Network - TryHackMe | CR4SHC0D3R | [Read More](https://medium.com/p/e9746a17fb99) |
-| Mon, 11 Aug 2025 23:04:46 GMT | Leaked Credentials Are Exploding — And Hackers Are Cashing In Faster Than Ever | Cyber-AppSec | [Read More](https://medium.com/p/832b931acb22) |
-| Mon, 11 Aug 2025 22:50:03 GMT | DefenseArk Security features at ETHGlobal 2025 | Kalpitha S | [Read More](https://medium.com/p/01c2aa6cdbb3) |
-| Mon, 11 Aug 2025 22:37:43 GMT | Dockerlabs — Grooti [Write-Up] | APS88 | [Read More](https://medium.com/p/e27a1d3ce95b) |
-| Mon, 11 Aug 2025 22:34:19 GMT | Policy as Code: From Concept to Control | Lionel Owono | [Read More](https://medium.com/p/56c17136b67f) |
-| Mon, 11 Aug 2025 22:28:24 GMT | Secure your RAG with LangChain — a step-by-step, minimal working guide (with code) | Lionel Owono | [Read More](https://medium.com/p/7c626dbb1bf0) |
-| Mon, 11 Aug 2025 22:15:04 GMT | Guardrails — Designing AI Invisible Safety Nets | Lionel Owono | [Read More](https://medium.com/p/9ebc595f8e7f) |
-| Mon, 11 Aug 2025 22:13:03 GMT | The Hidden Fight: How Crypto Scams Hurt India’s Digital Future | Mohd Yaseen Khan | [Read More](https://medium.com/p/fdaa340ce07a) |
-| Mon, 11 Aug 2025 22:12:09 GMT | A Crypto Regulation Surge: Trump’s 401(k) Crypto Boost and SEC’s Liquid Staking Nod | Awobodu Daniel | [Read More](https://medium.com/p/84664d8c6f1e) |
-| Mon, 11 Aug 2025 22:05:30 GMT | Up and Running with GitHound for secret scanning in 5 minutes | Tillson Galloway | [Read More](https://medium.com/p/e644890e9e16) |
