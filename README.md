@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 23:16:49 GMT | Secure Defaults: Why They’re Not Always as Safe as You Think | Raviteja Mureboina | [Read More](https://medium.com/p/fec5b4cb925a) |
+| Tue, 12 Aug 2025 23:15:22 GMT | From Shodan to Securing Government Systems: BFLA + Stored XSS Write-Up | Veyron92i | [Read More](https://medium.com/p/ab3bfd4e703d) |
+| Tue, 12 Aug 2025 23:13:23 GMT | The Inheritance Trap — How Cloud Folder Structures Can Silently Expose Metadata at Scale | Haitham A. E. ISMAIEEL | [Read More](https://medium.com/p/c6716bc56ac7) |
+| Tue, 12 Aug 2025 23:02:10 GMT | Cloud AI for Cybersecurity: Defending Against Evolving Threats | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/221e184b788f) |
+| Tue, 12 Aug 2025 23:01:28 GMT | GPT-5 Jailbroken in Just 24 Hours How Echo Chamber and Storytelling Attacks Are Rewriting AI… | Aaron | [Read More](https://medium.com/p/9e9d70204946) |
+| Tue, 12 Aug 2025 22:38:51 GMT | About Me — Tochukwu Okonkwor | Tochukwu Okonkwor | [Read More](https://medium.com/p/c91d6ae095c1) |
 | Tue, 12 Aug 2025 22:30:05 GMT | CFPB Complaint Addendum — BMO’s Fabricated ADA - EFTA VIOLATIONS Narrative Demand Federal Oversight | Mr. Thurman Robinson, M.S., CFO | [Read More](https://medium.com/p/a4f2fcf455c6) |
 | Tue, 12 Aug 2025 22:12:46 GMT | Understanding Query Execution Plans in PostgreSQL: The Developer’s Guide to Database Performance | Rizqi Mulki | [Read More](https://medium.com/p/a4220617b256) |
 | Tue, 12 Aug 2025 22:12:23 GMT | Advanced PostgreSQL Partitioning Strategies That Scale to Billions of Rows | Rizqi Mulki | [Read More](https://medium.com/p/177d6cb9189d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 17:16:22 GMT | Super SSH - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/43647a3c85b0) |
 | Tue, 12 Aug 2025 17:04:05 GMT | Your Website’s Silent Guardians: A Deep Dive into Security Headers | Mike (sl0th0x87) | [Read More](https://medium.com/p/9f3dd8e6feeb) |
 | Tue, 12 Aug 2025 17:03:14 GMT | DevSecOps Implementation Guide | Tech Bridge Consultancy | [Read More](https://medium.com/p/0f99b43f7df6) |
-| Tue, 12 Aug 2025 17:03:10 GMT | TheHackersLabs — Pa Que Aiga Lujo [Write-Up] | APS88 | [Read More](https://medium.com/p/358b14a0616b) |
-| Tue, 12 Aug 2025 17:02:32 GMT | How to Protect your Laptop or ️ Desktop Webcam Spying? | PARVIN NAHAR | [Read More](https://medium.com/p/6d376fa0f0f8) |
-| Tue, 12 Aug 2025 17:01:41 GMT | Anonymous | Zayne Harbison | [Read More](https://medium.com/p/9967fcdee9d8) |
-| Tue, 12 Aug 2025 17:00:56 GMT | TryHackMe — Brute It (Walkthrough & Beginner’s Guide) | Alan T Paul | [Read More](https://medium.com/p/b045b2eb0399) |
-| Tue, 12 Aug 2025 17:00:36 GMT | I Tried Empire Tool To Exploit | Mainekdeveloper | [Read More](https://medium.com/p/cac0d5119eac) |
-| Tue, 12 Aug 2025 16:59:20 GMT | The Rise of AI-Powered vCISO Services for SMB Cybersecurity | _Anirudh_ | [Read More](https://medium.com/p/b53924f6f968) |
