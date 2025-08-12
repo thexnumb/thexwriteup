@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 15:38:09 GMT | Understanding the Role of a Help Desk and the Importance of Queue Management | Cyber Timi | [Read More](https://medium.com/p/213667832cc9) |
+| Tue, 12 Aug 2025 15:36:49 GMT | How to spot if your website has been attacked | Jasonmariakieran | [Read More](https://medium.com/p/03c3733107f2) |
+| Tue, 12 Aug 2025 15:35:39 GMT | ️‍♂️Natas 5 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/71c3bf156450) |
+| Tue, 12 Aug 2025 15:29:56 GMT | DAL PRIMO CLICK AL FUTURO DA PROGRAMMATORE | Sofia Campari | [Read More](https://medium.com/p/9dd3bc3eadfd) |
+| Tue, 12 Aug 2025 15:29:00 GMT | Operation Cyber Shield: The 3 Pillar Cyber Defense Plan Every Business Leader Needs | Joshua Dallas Brooks | [Read More](https://medium.com/p/6120b24c6dcb) |
+| Tue, 12 Aug 2025 15:27:16 GMT | Is It Worth Starting a Web Hosting Business in Q4 2025? The Honest Outlook | Hugo Valters | [Read More](https://medium.com/p/03b1d15eac4a) |
+| Tue, 12 Aug 2025 15:24:38 GMT | EXIF Metadata: The Invisible Photo Data That Could Reveal Your Location | Ngoc Nguyen Nhu | [Read More](https://medium.com/p/d06dbcf8af01) |
+| Tue, 12 Aug 2025 15:20:12 GMT | How to Secure Your Domain’s Email with SPF, DKIM, and DMARC: A Step-by-Step Guide | Venkatesh Naga Damarouthu | [Read More](https://medium.com/p/f9fc4110492d) |
+| Tue, 12 Aug 2025 15:19:45 GMT | The New Cybersecurity Paradigm: Embracing Transparency in a Perpetually Vulnerable World | Internet Exposed | [Read More](https://medium.com/p/b8c5bbb317df) |
 | Tue, 12 Aug 2025 15:19:31 GMT | This AI Prompt is a Viral Video Factory. Here’s the Blueprint. | Fahad's Foresight | [Read More](https://medium.com/p/064d3b0e5137) |
+| Tue, 12 Aug 2025 15:16:56 GMT | RHEL 10 Üzerinde Ansible Kullanarak Güvenli Apache Web Server ve SSL Yapılandırması | Oguzhan Polat | [Read More](https://medium.com/p/398d7361ed05) |
 | Tue, 12 Aug 2025 15:12:33 GMT | Cybr Academy — [LAB]ECS RCE Exploit to Get AWS Credentials + Python Exploit | Maxi | [Read More](https://medium.com/p/4fbc12bc62bc) |
 | Tue, 12 Aug 2025 15:11:06 GMT | WordPress Security Lab Guide | j1sec | [Read More](https://medium.com/p/8d761f3cded4) |
 | Tue, 12 Aug 2025 15:10:41 GMT | The Communication Gap: Why Technical Skills Aren’t Enough in Cybersecurity | Manish Rawat | [Read More](https://medium.com/p/6323757a5d2e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 11:33:54 GMT | DockerLabs Writeup — SummerVibes (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f7f07f0f6798) |
 | Tue, 12 Aug 2025 11:33:51 GMT | PicoCTF 2025: n0s4n1ty 1 — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/f1f6399c9927) |
 | Tue, 12 Aug 2025 11:33:44 GMT | Top 5 AI Tools Every Cybersecurity Analyst Should Know in 2025 | Amol Rangari | [Read More](https://medium.com/p/6549aa19bc05) |
-| Tue, 12 Aug 2025 11:32:59 GMT | ISMAP Management Standards Chapter 15: Key Points for Building a Secure “Supplier Relationship” | nolly | [Read More](https://medium.com/p/b54fc45a4c4a) |
-| Tue, 12 Aug 2025 11:32:05 GMT | How much does a data breach cost in India in 2025 | Saravanan.R | [Read More](https://medium.com/p/b47ca8bb02a7) |
-| Tue, 12 Aug 2025 11:31:59 GMT | AI Agents at Risk: What the Latest Exploits Mean for Your Business | Brittney Ginther | [Read More](https://medium.com/p/4c06420f2fd7) |
-| Tue, 12 Aug 2025 11:31:59 GMT | Tryhackme — Dig Dug (Easy) | SpaceIO | [Read More](https://medium.com/p/7d2ef11e23ea) |
-| Tue, 12 Aug 2025 11:20:59 GMT | Managed Security Services: Enhancing Cybersecurity for Modern Businesses | secureroot | [Read More](https://medium.com/p/5b4eeeed6625) |
-| Tue, 12 Aug 2025 11:20:34 GMT | ️ Leveraging Wazuh + AI for Threat Hunting — My End-to-End Lab Walkthrough | Praz Timsina | [Read More](https://medium.com/p/6de44a39b67a) |
-| Tue, 12 Aug 2025 11:11:49 GMT | Istio Zero-Trust Security: Enforcing Identity, Authentication, and Authorization | Shriom Tripathi | [Read More](https://medium.com/p/4bcd45ec5abb) |
-| Tue, 12 Aug 2025 11:09:20 GMT | CVE-2025–8819: Stack Overflow Vulnerability in Linksys Range Extenders | CVEHUB | [Read More](https://medium.com/p/13eb65f5f212) |
-| Tue, 12 Aug 2025 11:07:42 GMT | CVE-2025–8818: Command Injection Vulnerability in Linksys Range Extenders | CVEHUB | [Read More](https://medium.com/p/92bd63634188) |
-| Tue, 12 Aug 2025 11:06:09 GMT | CVE-2025–8817: Critical Stack Overflow in Linksys Wi-Fi Extenders! | CVEHUB | [Read More](https://medium.com/p/e9900f92c100) |
