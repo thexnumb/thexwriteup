@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 20:30:36 GMT | The Cybersecurity Gospel: What I Learned Living Like a Firewall for 30 Days | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/032bbe1ae9c6) |
+| Tue, 12 Aug 2025 20:29:33 GMT | Ticketing Lab | Jafari Law | [Read More](https://medium.com/p/8c5c4b75ca6a) |
+| Tue, 12 Aug 2025 20:27:40 GMT | How a Fake Booking.com CAPTCHA Led to a Dangerous Malware Infection | MV Intelligence | [Read More](https://medium.com/p/ede236f6b535) |
+| Tue, 12 Aug 2025 20:26:27 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/2f7c0d4ebf8b) |
+| Tue, 12 Aug 2025 20:22:44 GMT | Wireshark: Traffic Analysis- TryHackMe — Walkthrough — Part 2 | Momal Naz | [Read More](https://medium.com/p/31910e371273) |
 | Tue, 12 Aug 2025 20:13:38 GMT | Democracy’s Trojan Horses: How Our Freedoms Become Our Weakness | Ri | [Read More](https://medium.com/p/261684fa0415) |
+| Tue, 12 Aug 2025 20:12:45 GMT | [Hack The Box CTF] Code Write-Up | fnwn | [Read More](https://medium.com/p/d0931a53d947) |
 | Tue, 12 Aug 2025 19:46:59 GMT | CyberDefenders — MrRobot Lab | jon | [Read More](https://medium.com/p/72415daf1b90) |
 | Tue, 12 Aug 2025 19:45:32 GMT | 10 Must-Use DevOps Tools in 2025: The Game-Changers That Proved Their Worth | Devansh Upadhyay | [Read More](https://medium.com/p/f1219175b8a4) |
 | Tue, 12 Aug 2025 19:45:06 GMT | My 100 Hour Rule for Bug Bounty ! | DevProgramming | [Read More](https://medium.com/p/046f96fc7791) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 15:54:43 GMT | Why should we maintain our digital security? | Ahmed Alhoseny | [Read More](https://medium.com/p/cd9d14ece1a4) |
 | Tue, 12 Aug 2025 15:52:14 GMT | SMTP Expert Lecture 2 | Sean William | [Read More](https://medium.com/p/5595e2bd80b2) |
 | Tue, 12 Aug 2025 15:51:34 GMT | “Day 9: Cloud Heist Unlocked — How I Discovered a $100 AWS Vulnerability (Ethically)” | Aman Sharma | [Read More](https://medium.com/p/15349c3ce4fb) |
-| Tue, 12 Aug 2025 15:48:55 GMT | Selling the Data Dream. The Capitalist Trap. | Henry | [Read More](https://medium.com/p/8e944110d38f) |
-| Tue, 12 Aug 2025 15:48:50 GMT | Hackviser — Rivalry Çözümü | Berent Oral | [Read More](https://medium.com/p/cbd6bc53c180) |
-| Tue, 12 Aug 2025 15:48:16 GMT | Breaking the Loop: ️ The Ultimate Guide to Reentrancy in Ethereum | vishhxyz | [Read More](https://medium.com/p/f6142fff128e) |
-| Tue, 12 Aug 2025 15:46:48 GMT | 15,000 Jenkins Servers at Risk: Git Parameter Plugin Command Injection Under Fire | Chetan Seripally | [Read More](https://medium.com/p/29cc7cbc802a) |
-| Tue, 12 Aug 2025 15:46:34 GMT | Cryptojacking in the Cloud: How a Docker Misconfiguration Led to Mining Mayhem-And How to Prevent… | The Stackmentalist | [Read More](https://medium.com/p/cd29467b2a29) |
-| Tue, 12 Aug 2025 15:44:17 GMT | How to Improve the Security of Your Terraform Resources Using Checkov | Yahya Mohamed | [Read More](https://medium.com/p/dd6a1333ba13) |
