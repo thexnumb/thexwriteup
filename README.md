@@ -12,9 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 22:30:05 GMT | CFPB Complaint Addendum — BMO’s Fabricated ADA - EFTA VIOLATIONS Narrative Demand Federal Oversight | Mr. Thurman Robinson, M.S., CFO | [Read More](https://medium.com/p/a4f2fcf455c6) |
 | Tue, 12 Aug 2025 22:12:46 GMT | Understanding Query Execution Plans in PostgreSQL: The Developer’s Guide to Database Performance | Rizqi Mulki | [Read More](https://medium.com/p/a4220617b256) |
 | Tue, 12 Aug 2025 22:12:23 GMT | Advanced PostgreSQL Partitioning Strategies That Scale to Billions of Rows | Rizqi Mulki | [Read More](https://medium.com/p/177d6cb9189d) |
 | Tue, 12 Aug 2025 22:11:14 GMT | MySQL 9.x vs PostgreSQL 17: Which is Faster? | Rizqi Mulki | [Read More](https://medium.com/p/9915918e1884) |
+| Tue, 12 Aug 2025 22:11:09 GMT | [TryHackMe] PS Eclipse Walkthrough | Kuba Herka | [Read More](https://medium.com/p/8f667ab6c491) |
 | Tue, 12 Aug 2025 22:07:10 GMT | A DevOps Engineer’s Guide to OWASP Tools for Application Security | Ronak Fabian | [Read More](https://medium.com/p/35182cb6e2c6) |
 | Tue, 12 Aug 2025 21:56:45 GMT | The Silent Threat: An Analysis of SVG-Based Phishing Attacks | AlanKaliX | [Read More](https://medium.com/p/09f1c4e07d82) |
 | Tue, 12 Aug 2025 21:55:48 GMT | Popular Hash Functions in Python (Cybersecurity) | Nube Colectiva | [Read More](https://medium.com/p/0af14f9a784b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 17:00:56 GMT | TryHackMe — Brute It (Walkthrough & Beginner’s Guide) | Alan T Paul | [Read More](https://medium.com/p/b045b2eb0399) |
 | Tue, 12 Aug 2025 17:00:36 GMT | I Tried Empire Tool To Exploit | Mainekdeveloper | [Read More](https://medium.com/p/cac0d5119eac) |
 | Tue, 12 Aug 2025 16:59:20 GMT | The Rise of AI-Powered vCISO Services for SMB Cybersecurity | _Anirudh_ | [Read More](https://medium.com/p/b53924f6f968) |
-| Tue, 12 Aug 2025 16:47:49 GMT | Rooting Samsung S9+ | Anas Zeeshan | [Read More](https://medium.com/p/7de95665e532) |
-| Tue, 12 Aug 2025 16:47:08 GMT | Digital Forensics: Unraveling Cybercrime Mysteries | Cyber Security Research | [Read More](https://medium.com/p/00da776c4cba) |
