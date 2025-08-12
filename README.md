@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 13:33:02 GMT | How Hackers Used Chaos as a Smokescreen for Silent Data Exfiltration | Shahzaib | [Read More](https://medium.com/p/98855e4de6b4) |
+| Tue, 12 Aug 2025 13:28:56 GMT | IDOR in UK Government — Able To Delete Millions Appeal Case In Jast One Click | whiterose | [Read More](https://medium.com/p/b1fb51f11a1f) |
+| Tue, 12 Aug 2025 13:28:53 GMT | What Are the Different Types of Guards? 9 Main Types of Guards in the Security Industry | Liam Truth | [Read More](https://medium.com/p/5344720c467d) |
+| Tue, 12 Aug 2025 13:20:40 GMT | Best Wireless Home Security Price Drops | Roderick Scott | [Read More](https://medium.com/p/df38036d4282) |
+| Tue, 12 Aug 2025 13:20:09 GMT | Malware Analysis: Ransomeware | Joseph A. M. | [Read More](https://medium.com/p/83a49b4ceabe) |
+| Tue, 12 Aug 2025 13:15:13 GMT | Social Engineering in the Age of AI: The New Frontier of Phishing Attacks | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/ddb38dbb4192) |
+| Tue, 12 Aug 2025 13:09:31 GMT | THM - Soupedecode 01 | Francesco Pastore | [Read More](https://medium.com/p/57b2a0167368) |
+| Tue, 12 Aug 2025 13:04:45 GMT | How I Found a Critical Bug in My First 24 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/762092ae6664) |
+| Tue, 12 Aug 2025 13:04:08 GMT | Enterprises Race to the Cloud to Slash IT Costs | Basil Tellavi | [Read More](https://medium.com/p/9f19a71f69c4) |
+| Tue, 12 Aug 2025 13:01:30 GMT | When Cyber Threats Knock at the Door: Dutch NCSC Warns of Espionage Risks from Four Nation-States | Dhruvdeep Singh | [Read More](https://medium.com/p/41f207fdc4d6) |
+| Tue, 12 Aug 2025 13:01:11 GMT | Understanding CORS: A Complete Beginner’s Guide to Cross-Origin Resource Sharing | Sumit Shaw | [Read More](https://medium.com/p/007ddfab8344) |
+| Tue, 12 Aug 2025 12:56:34 GMT | SMT Program 2025 Journal — Expert Lecture 2 | Fathurrahman Nasution | [Read More](https://medium.com/p/e9a2234aa480) |
+| Tue, 12 Aug 2025 12:54:30 GMT | Quantummageddon: An Algorithm Away from Digital Anarchy | Shreyanth Suresh Krishnaa | [Read More](https://medium.com/p/013f3e2230f9) |
+| Tue, 12 Aug 2025 12:54:28 GMT | The Leak That Pulled Back North Korea’s Digital Curtain | Dhruvdeep Singh | [Read More](https://medium.com/p/6411e03c8b91) |
+| Tue, 12 Aug 2025 12:53:25 GMT | When Does AI Security Monitoring Become a Privacy Concern? | sanya | [Read More](https://medium.com/p/bd9a26efd1b3) |
+| Tue, 12 Aug 2025 12:53:14 GMT | When Malware Says “Hello”: How Attackers Do Their First Reconnaissance | MITRE Doggy | [Read More](https://medium.com/p/bdaf12430c6d) |
+| Tue, 12 Aug 2025 12:52:12 GMT | Information Technology | Muhammad Raheel Hashmi | [Read More](https://medium.com/p/d1eca46163ee) |
+| Tue, 12 Aug 2025 12:51:24 GMT | Vanishing in the Age of Surveillance | Shreyanth Suresh Krishnaa | [Read More](https://medium.com/p/0ece4f231e62) |
+| Tue, 12 Aug 2025 12:38:54 GMT | Burp Suite ile Web Güvenlik Testi: Adım Adım Rehber | Ceyda Çakır | [Read More](https://medium.com/p/c8a27edc43a1) |
+| Tue, 12 Aug 2025 12:36:34 GMT | Key Features Every Modern Trading Terminal Must Have | LogiClump Technologies | [Read More](https://medium.com/p/16a2e233073c) |
 | Tue, 12 Aug 2025 12:35:20 GMT | What is Ethical Hacking Certification (312–50) and why is it Crucial for a Successful Cybersecurity… | IPSpecialist | [Read More](https://medium.com/p/3fa645c8f0fc) |
 | Tue, 12 Aug 2025 12:33:57 GMT | Cost Effective IVR Solution Provider | Ashutosh Mallik | [Read More](https://medium.com/p/82c80feb9237) |
 | Tue, 12 Aug 2025 12:30:21 GMT | Detective Understanding OSINT: Turning Public Information into Actionable Intelligence | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/22467b627621) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 09:30:58 GMT | Darkhole2 VulnHub CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/ad608c2517fa) |
 | Tue, 12 Aug 2025 09:25:28 GMT | Forensics - picoGym - Matryoshka doll | Flower Bed | [Read More](https://medium.com/p/ef5e3ab7f237) |
 | Tue, 12 Aug 2025 09:22:18 GMT | Anonforce CTF Walkthrough - From Anonymous FTP to Root Shell | Abdul Ahad | [Read More](https://medium.com/p/8a13f46e23d4) |
-| Tue, 12 Aug 2025 09:20:04 GMT | SOFT-ELK for DFIR: From Raw Webserver Logs to Searchable Evidence | Abrar Hussain | [Read More](https://medium.com/p/0b0b025c0652) |
-| Tue, 12 Aug 2025 09:18:49 GMT | NIGERIA’S PONZI EPIDEMIC: WHY CITIZENS CHOSE HIGH-RISK SCHEMES OVER TRADITIONAL BANKING | Olaoluwa Otesile | [Read More](https://medium.com/p/7ae9385baf52) |
-| Tue, 12 Aug 2025 09:18:44 GMT | Incognito? Think Again: Your Browser History Isn’t Really Hidden | Truspex | [Read More](https://medium.com/p/aa7cd569b677) |
-| Tue, 12 Aug 2025 09:15:15 GMT | D-PCR-DY-01 Certification Your Simple Guide to HR Level IT Success | Mehmood Ali | [Read More](https://medium.com/p/ea7e6be8e794) |
-| Tue, 12 Aug 2025 09:12:11 GMT | Mastering Web Server Security on Linux with SafeLine WAF | Quella | [Read More](https://medium.com/p/a58d248a08b7) |
-| Tue, 12 Aug 2025 09:11:52 GMT | Beyond Zero Trust: Adaptive, Decentralized Security for the Modern Enterprise | Karlmarx Karunanithi | [Read More](https://medium.com/p/79419ec0a324) |
-| Tue, 12 Aug 2025 09:11:35 GMT | From OverTheWire to… World Domination? (Kinda) | SilentInject | [Read More](https://medium.com/p/2dca0f94254f) |
-| Tue, 12 Aug 2025 09:10:59 GMT | PortSwigger Lab: Blind OS Command Injection with Out-of-Band Exfiltration | Siddiquimohammad | [Read More](https://medium.com/p/36dbdb0b3997) |
-| Tue, 12 Aug 2025 09:08:30 GMT | फोनपे के खिलाफ शिकायत दर्ज करने के लिए, आप PhonePe ग्राहक सहायता से {∆924÷4820÷361∆}या पर कॉल… | phonepe Mein Shikayat kaise karen | [Read More](https://medium.com/p/9f1df47da760) |
-| Tue, 12 Aug 2025 09:01:47 GMT | Mobile Security: Protecting Your Devices and Data | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/4c9e70f6523d) |
-| Tue, 12 Aug 2025 09:01:04 GMT | Darkhole1 VulnHub CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/283ad8c633ad) |
-| Tue, 12 Aug 2025 09:00:30 GMT | Secrets to Masking Sensitive Data Before Sending to the Frontend in Java | Anh Trần Tuấn | [Read More](https://medium.com/p/1cb7a4026cd4) |
-| Tue, 12 Aug 2025 09:00:27 GMT | Secrets to Masking Sensitive Data Before Sending to the Frontend in Java | Anh Trần Tuấn | [Read More](https://medium.com/p/ac0e5a3da2f7) |
-| Tue, 12 Aug 2025 08:59:54 GMT | Cybersecurity Challenges in E-commerce | Ann Maria | [Read More](https://medium.com/p/56deec672611) |
-| Tue, 12 Aug 2025 08:57:50 GMT | Cheyanne Mallas: A Case Study in Cybersecurity Project Management Excellence | Cheyannemallaspa | [Read More](https://medium.com/p/7f6c4c51d60e) |
-| Tue, 12 Aug 2025 08:57:19 GMT | Introduction to Packets and Frames | Allen Ace | [Read More](https://medium.com/p/93721b8592ed) |
-| Tue, 12 Aug 2025 08:52:01 GMT | Digital Forensics 101: What It Is and Why It Matters | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/38bc7e07c3aa) |
-| Tue, 12 Aug 2025 08:51:53 GMT | Title:  ThroneBreaker — A Game of Thrones Inspired Custom CTF Lab (Full Walkthrough) | Mohd Ahmed | [Read More](https://medium.com/p/99b467d3cb73) |
-| Tue, 12 Aug 2025 08:51:27 GMT | Cross-Site Scripting (XSS) | CY033 | [Read More](https://medium.com/p/6efe4650448d) |
-| Tue, 12 Aug 2025 08:46:58 GMT | Rate Limiting in Web Applications: Bug That Pays Your Rent | Aashif | [Read More](https://medium.com/p/028d634abe53) |
