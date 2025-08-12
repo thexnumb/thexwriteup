@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 09:37:46 GMT | 5 Simple Cybersecurity Tips Everyone Must Religiously Follow in 2025 | Muhammad Munim Bhatti | [Read More](https://medium.com/p/5ca89c3706bd) |
+| Tue, 12 Aug 2025 09:35:37 GMT | WinRAR bug: Unzip Carefully — Malware’s Lurking! | CtrlC3 | [Read More](https://medium.com/p/936b0c3aeb68) |
+| Tue, 12 Aug 2025 09:32:24 GMT | Network Time Protocol (NTP) Abuse for Enterprise Recon | Aenosh Rajora | [Read More](https://medium.com/p/26bda1d7758c) |
+| Tue, 12 Aug 2025 09:32:06 GMT | Remote Work: Big Brother or Necessary Evil? | Authlyn | [Read More](https://medium.com/p/09f7f42d669c) |
+| Tue, 12 Aug 2025 09:31:57 GMT | Incident Recovery Cases: How Businesses Bounced Back from Cyber Incidents | Evgeny Ermakov | [Read More](https://medium.com/p/89d6bc8cba07) |
+| Tue, 12 Aug 2025 09:30:58 GMT | Darkhole2 VulnHub CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/ad608c2517fa) |
+| Tue, 12 Aug 2025 09:25:28 GMT | Forensics - picoGym - Matryoshka doll | Flower Bed | [Read More](https://medium.com/p/ef5e3ab7f237) |
+| Tue, 12 Aug 2025 09:22:18 GMT | Anonforce CTF Walkthrough - From Anonymous FTP to Root Shell | Abdul Ahad | [Read More](https://medium.com/p/8a13f46e23d4) |
+| Tue, 12 Aug 2025 09:20:04 GMT | SOFT-ELK for DFIR: From Raw Webserver Logs to Searchable Evidence | Abrar Hussain | [Read More](https://medium.com/p/0b0b025c0652) |
+| Tue, 12 Aug 2025 09:18:49 GMT | NIGERIA’S PONZI EPIDEMIC: WHY CITIZENS CHOSE HIGH-RISK SCHEMES OVER TRADITIONAL BANKING | Olaoluwa Otesile | [Read More](https://medium.com/p/7ae9385baf52) |
+| Tue, 12 Aug 2025 09:18:44 GMT | Incognito? Think Again: Your Browser History Isn’t Really Hidden | Truspex | [Read More](https://medium.com/p/aa7cd569b677) |
 | Tue, 12 Aug 2025 09:15:15 GMT | D-PCR-DY-01 Certification Your Simple Guide to HR Level IT Success | Mehmood Ali | [Read More](https://medium.com/p/ea7e6be8e794) |
 | Tue, 12 Aug 2025 09:12:11 GMT | Mastering Web Server Security on Linux with SafeLine WAF | Quella | [Read More](https://medium.com/p/a58d248a08b7) |
 | Tue, 12 Aug 2025 09:11:52 GMT | Beyond Zero Trust: Adaptive, Decentralized Security for the Modern Enterprise | Karlmarx Karunanithi | [Read More](https://medium.com/p/79419ec0a324) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 05:24:55 GMT | How to convert OST to PST in Outlook? | Enstellablog | [Read More](https://medium.com/p/23cbf1ed2a25) |
 | Tue, 12 Aug 2025 05:23:57 GMT | Essential Insights into Incident Response and Proactive Cybersecurity Monitoring | Vijilan | [Read More](https://medium.com/p/61cdac7b5c46) |
 | Tue, 12 Aug 2025 05:23:39 GMT | Launch of ChatGPT-5: Breaking Boundaries in AI Power | Pimrada Thavorn | [Read More](https://medium.com/p/cd67a88e2421) |
-| Tue, 12 Aug 2025 05:22:04 GMT | LLMNR Poisoning Attack with Responder — Lab Demonstration | zahidul Islam Ratul | [Read More](https://medium.com/p/30f3bd33b1f6) |
-| Tue, 12 Aug 2025 05:21:56 GMT | Forbidden No More — How Hackers Slip Past 403 & 401 Errors (Ethically!)” | S3CloudHub | [Read More](https://medium.com/p/a0fb097c0c7f) |
-| Tue, 12 Aug 2025 05:20:26 GMT | The Ultimate Skill for Today’s Data-Driven World | Sqlchandhu | [Read More](https://medium.com/p/88450f2351e3) |
-| Tue, 12 Aug 2025 05:03:19 GMT | Using Heuristics to Detect Malicious Pages | Bhuvana Medicherla | [Read More](https://medium.com/p/9bd496852458) |
-| Tue, 12 Aug 2025 04:59:38 GMT | 5 Ways Hackers Don’t Hack Passwords anymore, They Just Log In To Your Accounts | Reggie Menacherry | [Read More](https://medium.com/p/a1d379f05399) |
-| Tue, 12 Aug 2025 04:57:59 GMT | CVE-2025–7847 — Arbitrary File Upload in AI Engine WordPress Plugin Puts 100,000+ Sites at Risk | Sector Cyber Security | [Read More](https://medium.com/p/415e94a62663) |
-| Tue, 12 Aug 2025 04:52:47 GMT | How ExpressVPN Vulnerability Enables Silent Card Abuse — And Calls It “Expected Behavior” | Krivadna | [Read More](https://medium.com/p/7650a0b7a304) |
-| Tue, 12 Aug 2025 04:47:02 GMT | One Root Cause, Many Faces: The 6 Silent CSRF Vulnerabilities That Got Ignored | Mohamed Said Ibrahim | [Read More](https://medium.com/p/1c8818d860ce) |
-| Tue, 12 Aug 2025 04:41:08 GMT | Electrical Engineering for Hackers 101 - Part -1 | Agape HearTs | [Read More](https://medium.com/p/bc77116a1a41) |
-| Tue, 12 Aug 2025 04:39:22 GMT | WAIT…DID I MISS IT? | Jordan T Slaymaker | [Read More](https://medium.com/p/93b1c2a2d168) |
-| Tue, 12 Aug 2025 04:37:22 GMT | The Windows Process Journey — wecutil.exe (Event Collector Command Line Utility) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e2ff26b8dd74) |
