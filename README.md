@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 05:41:09 GMT | Prompt Engineering Toolkit (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8c3372944618) |
+| Tue, 12 Aug 2025 05:37:29 GMT | Weaponizing Information: Disinformation as a Geopolitical Tool | Mustafa Malik | [Read More](https://medium.com/p/26d141c32ee8) |
+| Tue, 12 Aug 2025 05:36:21 GMT | Bug Bounty + AI =  This Prompt List Will Change Your Game | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4005a77d09bf) |
+| Tue, 12 Aug 2025 05:24:55 GMT | How to convert OST to PST in Outlook? | Enstellablog | [Read More](https://medium.com/p/23cbf1ed2a25) |
+| Tue, 12 Aug 2025 05:23:57 GMT | Essential Insights into Incident Response and Proactive Cybersecurity Monitoring | Vijilan | [Read More](https://medium.com/p/61cdac7b5c46) |
+| Tue, 12 Aug 2025 05:23:39 GMT | Launch of ChatGPT-5: Breaking Boundaries in AI Power | Pimrada Thavorn | [Read More](https://medium.com/p/cd67a88e2421) |
+| Tue, 12 Aug 2025 05:22:04 GMT | LLMNR Poisoning Attack with Responder — Lab Demonstration | zahidul Islam Ratul | [Read More](https://medium.com/p/30f3bd33b1f6) |
+| Tue, 12 Aug 2025 05:21:56 GMT | Forbidden No More — How Hackers Slip Past 403 & 401 Errors (Ethically!)” | S3CloudHub | [Read More](https://medium.com/p/a0fb097c0c7f) |
+| Tue, 12 Aug 2025 05:20:26 GMT | The Ultimate Skill for Today’s Data-Driven World | Sqlchandhu | [Read More](https://medium.com/p/88450f2351e3) |
 | Tue, 12 Aug 2025 05:03:19 GMT | Using Heuristics to Detect Malicious Pages | Bhuvana Medicherla | [Read More](https://medium.com/p/9bd496852458) |
 | Tue, 12 Aug 2025 04:59:38 GMT | 5 Ways Hackers Don’t Hack Passwords anymore, They Just Log In To Your Accounts | Reggie Menacherry | [Read More](https://medium.com/p/a1d379f05399) |
 | Tue, 12 Aug 2025 04:57:59 GMT | CVE-2025–7847 — Arbitrary File Upload in AI Engine WordPress Plugin Puts 100,000+ Sites at Risk | Sector Cyber Security | [Read More](https://medium.com/p/415e94a62663) |
@@ -104,12 +113,3 @@ Sensitive Information Leakage via Referrer Header in Password… | Yousef Ezzeld
 | Mon, 11 Aug 2025 20:57:20 GMT | Why Phishing Emails Still Work in 2025 | B1n4ry Trev | [Read More](https://medium.com/p/e0c4551471d9) |
 | Mon, 11 Aug 2025 20:55:12 GMT | Building a Hacking Laptop From Parts People Throw Away | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b4b99fb5f75f) |
 | Mon, 11 Aug 2025 20:54:53 GMT | ClickFix Malware: The Sneaky macOS Threat You Didn’t See Coming | Akshay Chauhan | [Read More](https://medium.com/p/2d2c83607087) |
-| Mon, 11 Aug 2025 20:40:45 GMT | Why You Should Still Care About “Boring” Security Basics | B1n4ry Trev | [Read More](https://medium.com/p/db6c0239c862) |
-| Mon, 11 Aug 2025 20:38:02 GMT | When Desperation Meets Deception: My Brush With a LinkedIn Job Scam | Gitika Babbar | [Read More](https://medium.com/p/f2ca40579371) |
-| Mon, 11 Aug 2025 20:36:22 GMT | Hide Your C2: Tor Hidden C2 Server — Part 1 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/abd7b3ae6e85) |
-| Mon, 11 Aug 2025 20:18:06 GMT | How AI-Generated Phishing is Evolving and Bypassing Traditional Filters | Yashasvi Sharma | [Read More](https://medium.com/p/3c1e3b86eda9) |
-| Mon, 11 Aug 2025 20:17:36 GMT | Real-World Breaches Mapped to OWASP Top 10 | Nima Bargestan | [Read More](https://medium.com/p/fcda69bcbe94) |
-| Mon, 11 Aug 2025 20:15:48 GMT | From Misconfiguration to Mandate: Exchange, SonicWall, and the Strategic Cost of Incomplete… | James Wright | [Read More](https://medium.com/p/ea5f72bc3f2d) |
-| Mon, 11 Aug 2025 20:15:03 GMT | Co-Piloting an AI Pentester to hack a Domain Controller | Daniel Knight | [Read More](https://medium.com/p/0e96773f60d9) |
-| Mon, 11 Aug 2025 20:02:46 GMT | Malware Analysis: Keylogger | Joseph A. M. | [Read More](https://medium.com/p/88477ca26009) |
-| Mon, 11 Aug 2025 19:53:16 GMT | Day 42 — IPv4 & Obfuscated Domain Detection with YARA | Jinay | [Read More](https://medium.com/p/224226553c52) |
