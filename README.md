@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 01:27:07 GMT | Betanet: The “Censorship-Free” Internet That Could Change the Web Forever | Aaron | [Read More](https://medium.com/p/530c7294d9af) |
+| Tue, 12 Aug 2025 01:23:17 GMT | How to Hire a Hacker in 2025: A Comprehensive Guide to Cybersecurity and Privacy Protection | SinVictus | [Read More](https://medium.com/p/cbff4d3435f8) |
+| Tue, 12 Aug 2025 01:19:19 GMT | Tuesday Morning Threat Report: Aug 12, 2025 | Mark Maguire | [Read More](https://medium.com/p/e4ab38d86089) |
+| Tue, 12 Aug 2025 01:16:39 GMT | How to Find Hidden Paths to Domain Admin in Minutes (With BloodHound) | Paritosh | [Read More](https://medium.com/p/34a69de1be12) |
+| Tue, 12 Aug 2025 01:13:44 GMT | How to Securely Store Your Crypto Assets? Digital Shield Has the Answer | Digital Shield | [Read More](https://medium.com/p/f9667d0c72ad) |
+| Tue, 12 Aug 2025 01:03:05 GMT | Ransomware Landscape in H1 2025: Statistics and Key Issues | S2W | [Read More](https://medium.com/p/9e8c1a6b4e2c) |
+| Tue, 12 Aug 2025 00:52:40 GMT | Understanding Closed and Open Systems: Security vs Interoperability | Raviteja Mureboina | [Read More](https://medium.com/p/131f0697d8dd) |
+| Tue, 12 Aug 2025 00:44:47 GMT | Intel101 — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/fbdb7ea06c93) |
+| Tue, 12 Aug 2025 00:07:43 GMT | TryHackMe: Sticker Shop (Easy) — Medium-Level Write-Up | Savneet Singh | [Read More](https://medium.com/p/ccae6053fced) |
+| Tue, 12 Aug 2025 00:07:20 GMT | Parrot Security OS — Pentesterların Zamana Karşı Kalkanı | Tuba ÜNSAL | [Read More](https://medium.com/p/5a81f7c9700a) |
 | Mon, 11 Aug 2025 23:35:42 GMT | Learning Container Forensics — Beginner Guide | Syed Ali Turab | [Read More](https://medium.com/p/296ad22d67a1) |
 | Mon, 11 Aug 2025 23:33:02 GMT | Topologias de Rede: O Mapa Invisível Que Mantém a Internet Conectada | Nathan Steyka | [Read More](https://medium.com/p/36d82b990af6) |
+| Mon, 11 Aug 2025 23:29:32 GMT | A Balanced Comparison Between GPT-4o vs GPT-5 | Mozammel Bin Motalab | [Read More](https://medium.com/p/4c529da22288) |
 | Mon, 11 Aug 2025 23:23:02 GMT | What Tech Strategists and Project Managers Must Learn from CrowdStrike’s 2025 AI-Driven Threat… | CCL Montante | [Read More](https://medium.com/p/af6a9917a676) |
 | Mon, 11 Aug 2025 23:16:08 GMT | Windows Memory & Network - TryHackMe | CR4SHC0D3R | [Read More](https://medium.com/p/e9746a17fb99) |
 | Mon, 11 Aug 2025 23:04:46 GMT | Leaked Credentials Are Exploding — And Hackers Are Cashing In Faster Than Ever | Cyber-AppSec | [Read More](https://medium.com/p/832b931acb22) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 Aug 2025 16:43:28 GMT | When Did You Learn to Control Your Controllables? | Vijay Kumar Gupta | [Read More](https://medium.com/p/1bf41ddef213) |
 | Mon, 11 Aug 2025 16:42:45 GMT | OAuth Hacking Guide — Part 1 | Madhesh | [Read More](https://medium.com/p/56c685545f9f) |
 | Mon, 11 Aug 2025 16:41:40 GMT | Level 0 Overthewire → Bandit | Root->Bin | [Read More](https://medium.com/p/b9f69444e41c) |
-| Mon, 11 Aug 2025 16:40:57 GMT | BugBounty Hunting for XSS in 2025 | Gordon Charles | [Read More](https://medium.com/p/0d8f2fd32291) |
-| Mon, 11 Aug 2025 16:40:15 GMT | Bridging the Gap Between Security and Innovation | Eyal Estrin ☁️ | [Read More](https://medium.com/p/a335cebbb3e9) |
-| Mon, 11 Aug 2025 16:39:09 GMT | The sound of springs is the sweet whisper of nature | New story | [Read More](https://medium.com/p/515519393391) |
-| Mon, 11 Aug 2025 16:35:39 GMT | Cybersécurité aérienne | Hacker Art | [Read More](https://medium.com/p/ff056fa912b9) |
-| Mon, 11 Aug 2025 16:33:37 GMT | Malware 101: Know Your Enemy Before You Get Infected | N1shym | [Read More](https://medium.com/p/e777623c9fa8) |
-| Mon, 11 Aug 2025 16:32:49 GMT | Bug Bounty: Master the Art of Finding Hidden Entry Points -Web Recon | Rajkumar Kumawat | [Read More](https://medium.com/p/ed19a33ad4f9) |
-| Mon, 11 Aug 2025 16:32:21 GMT | How Instagram’s Hidden Risks are Fueling Scams & Crime | Ashly Ann Mathew | [Read More](https://medium.com/p/da9c7903e0fc) |
-| Mon, 11 Aug 2025 16:30:51 GMT | From Chaos to Clarity: How I Built My Cybersecurity Brain with Kortex & Zettelkasten | Corey Jones | [Read More](https://medium.com/p/7e14658f536a) |
-| Mon, 11 Aug 2025 16:20:09 GMT | Cybersecurity: Facing the Challenges in a Digitally Transformed Economy | Ayush Pradhan | [Read More](https://medium.com/p/7e80e3e2a26f) |
-| Mon, 11 Aug 2025 16:17:18 GMT | The High Risk of Running Code Locally — Here’s How to Secure Projects with Docker in One Command | AI Rabbit | [Read More](https://medium.com/p/145a7776e0bb) |
-| Mon, 11 Aug 2025 16:14:57 GMT | What is Networking ? - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/93a52cfb5d53) |
