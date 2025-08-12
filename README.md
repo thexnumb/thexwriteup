@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 17:16:34 GMT | interencdec - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/cd364496e386) |
+| Tue, 12 Aug 2025 17:16:27 GMT | Verify - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/2aebea3b9ebc) |
+| Tue, 12 Aug 2025 17:16:22 GMT | Super SSH - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/43647a3c85b0) |
+| Tue, 12 Aug 2025 17:04:05 GMT | Your Website’s Silent Guardians: A Deep Dive into Security Headers | Mike (sl0th0x87) | [Read More](https://medium.com/p/9f3dd8e6feeb) |
+| Tue, 12 Aug 2025 17:03:14 GMT | DevSecOps Implementation Guide | Tech Bridge Consultancy | [Read More](https://medium.com/p/0f99b43f7df6) |
+| Tue, 12 Aug 2025 17:03:10 GMT | TheHackersLabs — Pa Que Aiga Lujo [Write-Up] | APS88 | [Read More](https://medium.com/p/358b14a0616b) |
+| Tue, 12 Aug 2025 17:02:32 GMT | How to Protect your Laptop or ️ Desktop Webcam Spying? | PARVIN NAHAR | [Read More](https://medium.com/p/6d376fa0f0f8) |
+| Tue, 12 Aug 2025 17:01:41 GMT | Anonymous | Zayne Harbison | [Read More](https://medium.com/p/9967fcdee9d8) |
+| Tue, 12 Aug 2025 17:00:56 GMT | TryHackMe — Brute It (Walkthrough & Beginner’s Guide) | Alan T Paul | [Read More](https://medium.com/p/b045b2eb0399) |
+| Tue, 12 Aug 2025 17:00:36 GMT | I Tried Empire Tool To Exploit | Mainekdeveloper | [Read More](https://medium.com/p/cac0d5119eac) |
+| Tue, 12 Aug 2025 16:59:20 GMT | The Rise of AI-Powered vCISO Services for SMB Cybersecurity | _Anirudh_ | [Read More](https://medium.com/p/b53924f6f968) |
+| Tue, 12 Aug 2025 16:47:49 GMT | Rooting Samsung S9+ | Anas Zeeshan | [Read More](https://medium.com/p/7de95665e532) |
+| Tue, 12 Aug 2025 16:47:08 GMT | Digital Forensics: Unraveling Cybercrime Mysteries | Cyber Security Research | [Read More](https://medium.com/p/00da776c4cba) |
 | Tue, 12 Aug 2025 16:45:13 GMT | Cybersecurity Compliance: Navigating Regulatory Landscapes | Cyber Security Research | [Read More](https://medium.com/p/e740cd2a1150) |
 | Tue, 12 Aug 2025 16:43:10 GMT | The Insider Threat: Mitigating Risks from Within | Cyber Security Research | [Read More](https://medium.com/p/d8eb66d63146) |
 | Tue, 12 Aug 2025 16:42:17 GMT | The Honeypot Chronicles | paulpierce34 | [Read More](https://medium.com/p/d9fbdcd6f038) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 13:20:40 GMT | Best Wireless Home Security Price Drops | Roderick Scott | [Read More](https://medium.com/p/df38036d4282) |
 | Tue, 12 Aug 2025 13:20:09 GMT | Malware Analysis: Ransomeware | Joseph A. M. | [Read More](https://medium.com/p/83a49b4ceabe) |
 | Tue, 12 Aug 2025 13:15:13 GMT | Social Engineering in the Age of AI: The New Frontier of Phishing Attacks | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/ddb38dbb4192) |
-| Tue, 12 Aug 2025 13:09:31 GMT | THM - Soupedecode 01 | Francesco Pastore | [Read More](https://medium.com/p/57b2a0167368) |
-| Tue, 12 Aug 2025 13:04:45 GMT | How I Found a Critical Bug in My First 24 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/762092ae6664) |
-| Tue, 12 Aug 2025 13:04:08 GMT | Enterprises Race to the Cloud to Slash IT Costs | Basil Tellavi | [Read More](https://medium.com/p/9f19a71f69c4) |
-| Tue, 12 Aug 2025 13:01:30 GMT | When Cyber Threats Knock at the Door: Dutch NCSC Warns of Espionage Risks from Four Nation-States | Dhruvdeep Singh | [Read More](https://medium.com/p/41f207fdc4d6) |
-| Tue, 12 Aug 2025 13:01:11 GMT | Understanding CORS: A Complete Beginner’s Guide to Cross-Origin Resource Sharing | Sumit Shaw | [Read More](https://medium.com/p/007ddfab8344) |
-| Tue, 12 Aug 2025 12:56:34 GMT | SMT Program 2025 Journal — Expert Lecture 2 | Fathurrahman Nasution | [Read More](https://medium.com/p/e9a2234aa480) |
-| Tue, 12 Aug 2025 12:54:30 GMT | Quantummageddon: An Algorithm Away from Digital Anarchy | Shreyanth Suresh Krishnaa | [Read More](https://medium.com/p/013f3e2230f9) |
-| Tue, 12 Aug 2025 12:54:28 GMT | The Leak That Pulled Back North Korea’s Digital Curtain | Dhruvdeep Singh | [Read More](https://medium.com/p/6411e03c8b91) |
-| Tue, 12 Aug 2025 12:53:25 GMT | When Does AI Security Monitoring Become a Privacy Concern? | sanya | [Read More](https://medium.com/p/bd9a26efd1b3) |
-| Tue, 12 Aug 2025 12:53:14 GMT | When Malware Says “Hello”: How Attackers Do Their First Reconnaissance | MITRE Doggy | [Read More](https://medium.com/p/bdaf12430c6d) |
-| Tue, 12 Aug 2025 12:52:12 GMT | Information Technology | Muhammad Raheel Hashmi | [Read More](https://medium.com/p/d1eca46163ee) |
-| Tue, 12 Aug 2025 12:51:24 GMT | Vanishing in the Age of Surveillance | Shreyanth Suresh Krishnaa | [Read More](https://medium.com/p/0ece4f231e62) |
-| Tue, 12 Aug 2025 12:38:54 GMT | Burp Suite ile Web Güvenlik Testi: Adım Adım Rehber | Ceyda Çakır | [Read More](https://medium.com/p/c8a27edc43a1) |
