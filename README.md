@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 11:35:29 GMT | Securing Microsoft 365: | Jard | [Read More](https://medium.com/p/e926dce119ee) |
+| Tue, 12 Aug 2025 11:33:54 GMT | DockerLabs Writeup — SummerVibes (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f7f07f0f6798) |
+| Tue, 12 Aug 2025 11:33:51 GMT | PicoCTF 2025: n0s4n1ty 1 — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/f1f6399c9927) |
+| Tue, 12 Aug 2025 11:33:44 GMT | Top 5 AI Tools Every Cybersecurity Analyst Should Know in 2025 | Amol Rangari | [Read More](https://medium.com/p/6549aa19bc05) |
+| Tue, 12 Aug 2025 11:32:59 GMT | ISMAP Management Standards Chapter 15: Key Points for Building a Secure “Supplier Relationship” | nolly | [Read More](https://medium.com/p/b54fc45a4c4a) |
+| Tue, 12 Aug 2025 11:32:05 GMT | How much does a data breach cost in India in 2025 | Saravanan.R | [Read More](https://medium.com/p/b47ca8bb02a7) |
+| Tue, 12 Aug 2025 11:31:59 GMT | AI Agents at Risk: What the Latest Exploits Mean for Your Business | Brittney Ginther | [Read More](https://medium.com/p/4c06420f2fd7) |
+| Tue, 12 Aug 2025 11:31:59 GMT | Tryhackme — Dig Dug (Easy) | SpaceIO | [Read More](https://medium.com/p/7d2ef11e23ea) |
+| Tue, 12 Aug 2025 11:20:59 GMT | Managed Security Services: Enhancing Cybersecurity for Modern Businesses | secureroot | [Read More](https://medium.com/p/5b4eeeed6625) |
+| Tue, 12 Aug 2025 11:20:34 GMT | ️ Leveraging Wazuh + AI for Threat Hunting — My End-to-End Lab Walkthrough | Praz Timsina | [Read More](https://medium.com/p/6de44a39b67a) |
+| Tue, 12 Aug 2025 11:11:49 GMT | Istio Zero-Trust Security: Enforcing Identity, Authentication, and Authorization | Shriom Tripathi | [Read More](https://medium.com/p/4bcd45ec5abb) |
 | Tue, 12 Aug 2025 11:09:20 GMT | CVE-2025–8819: Stack Overflow Vulnerability in Linksys Range Extenders | CVEHUB | [Read More](https://medium.com/p/13eb65f5f212) |
 | Tue, 12 Aug 2025 11:07:42 GMT | CVE-2025–8818: Command Injection Vulnerability in Linksys Range Extenders | CVEHUB | [Read More](https://medium.com/p/92bd63634188) |
 | Tue, 12 Aug 2025 11:06:09 GMT | CVE-2025–8817: Critical Stack Overflow in Linksys Wi-Fi Extenders! | CVEHUB | [Read More](https://medium.com/p/e9900f92c100) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 07:42:40 GMT | What’s More Awkward — The Silence or The Truth? | The Heart 's Diary | [Read More](https://medium.com/p/75d84e1e8dab) |
 | Tue, 12 Aug 2025 07:35:01 GMT | Hard Links, Soft Links, and /dev/null — The Secret Stuff | MayhemCode | [Read More](https://medium.com/p/5cbfad45fbde) |
 | Tue, 12 Aug 2025 07:32:27 GMT | ISO 27001 vs SOC 2: Why One Doesn’t Automatically Get You the Other | Harivansh Sharma | [Read More](https://medium.com/p/285681938a09) |
-| Tue, 12 Aug 2025 07:31:59 GMT | “Apple’s Siri 2026 Upgrade: AI Power, App Intents, and Game-Changing Features” | Tarush Sharma | [Read More](https://medium.com/p/03c4ba532ff7) |
-| Tue, 12 Aug 2025 07:30:16 GMT | hdfc bank se paise cut jaaye to kya karen 9669538050 अगर आपके एचडीएफ़सी बैंक खाते से पैसे कट… | एचडीएफसी बैंक से पैसे कट जाए तो क्या करें | [Read More](https://medium.com/p/ee1f0b103220) |
-| Tue, 12 Aug 2025 07:28:30 GMT | Why the Cyber Operations Specialist 17C Role Is Your Path to a Thrilling Tech Career | Techzivo – Cybersecurity & Tech Insights | [Read More](https://medium.com/p/f3a07edd4ed5) |
-| Tue, 12 Aug 2025 07:25:14 GMT | Ever Wonder What Your Keyboard Knows About You? | GhostNex | [Read More](https://medium.com/p/244d672d9422) |
-| Tue, 12 Aug 2025 07:24:55 GMT | Top Apple MDM Software to Simplify iOS Device Control | Vantage MDM | [Read More](https://medium.com/p/ffbaf9e44997) |
-| Tue, 12 Aug 2025 07:23:11 GMT | SafeLine WAF Container Environment Variables — Quick Reference for DevOps | AerieWhole123 | [Read More](https://medium.com/p/aff6d0b0bc6c) |
-| Tue, 12 Aug 2025 07:17:32 GMT | ️ From Red Team to Blue Team: How a Malicious Loader Wiped Out a Website (and My Notes) | Shrivarshan | [Read More](https://medium.com/p/aae0ce7429b8) |
-| Tue, 12 Aug 2025 07:17:25 GMT | From Firewalls to Pipelines: My Journey into Cloud and DevOps | Khushi Mehta | [Read More](https://medium.com/p/c5331ef45110) |
-| Tue, 12 Aug 2025 07:16:57 GMT | The Rise of Zero Trust: A New Era of Cybersecurity | Aryan D | [Read More](https://medium.com/p/ab114ed501cb) |
-| Tue, 12 Aug 2025 07:15:24 GMT | NG Injector Free Fire APK For 2025–2026 | Qahirakbar | [Read More](https://medium.com/p/0d3e530910db) |
-| Tue, 12 Aug 2025 07:11:03 GMT | AI and Cloud Security. Friend or Foe? | Wayne Bridgman | [Read More](https://medium.com/p/a9af5e7df549) |
