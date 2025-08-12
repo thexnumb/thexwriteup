@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 08:46:58 GMT | Rate Limiting in Web Applications: Bug That Pays Your Rent | Aashif | [Read More](https://medium.com/p/028d634abe53) |
+| Tue, 12 Aug 2025 08:40:25 GMT | WinRAR Zero-Day CVE-2025–8088: How Russian Hackers Are Hitting Targets Worldwide — And How to… | Aaron | [Read More](https://medium.com/p/891e1f7923b7) |
+| Tue, 12 Aug 2025 08:38:56 GMT | The Daily Tech Digest: 12 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f33e0e05d425) |
+| Tue, 12 Aug 2025 08:38:19 GMT | Forensics - picoGym - MacroHard WeakEdge | Flower Bed | [Read More](https://medium.com/p/2954ff4edb83) |
+| Tue, 12 Aug 2025 08:27:08 GMT | Drosera; A breath of fresh air to the Archaic Web3 security system | Bickerstethemmanuel | [Read More](https://medium.com/p/3dee31b82d11) |
 | Tue, 12 Aug 2025 08:20:44 GMT | Let’s Talk About Detection Rules in Sublime Security (EDR for Email!) | Dean | [Read More](https://medium.com/p/57b97175bd2b) |
 | Tue, 12 Aug 2025 08:18:26 GMT | ?? | FA Shuvo | [Read More](https://medium.com/p/45426131c421) |
 | Tue, 12 Aug 2025 08:14:44 GMT | What is an Agentic SOC? | Stellar Cyber | [Read More](https://medium.com/p/535d7b98df19) |
@@ -108,8 +113,3 @@ Sensitive Information Leakage via Referrer Header in Password… | Yousef Ezzeld
 | Tue, 12 Aug 2025 03:50:33 GMT | Ransomware: A Critical Cyber Security Threat to New Zealand Businesses | Cyberoptic Security | [Read More](https://medium.com/p/a9f6a8be4928) |
 | Tue, 12 Aug 2025 03:40:02 GMT | From First Exploit to Pivot: Building My Red Team Lab | Berrydb | [Read More](https://medium.com/p/728cdcf0646f) |
 | Tue, 12 Aug 2025 03:31:43 GMT | Exposed and Unaware: What the Kelly Benefits Breach Reveals About Third-Party Risk | Deven Chhajed | [Read More](https://medium.com/p/b921b0705551) |
-| Tue, 12 Aug 2025 03:31:42 GMT | Lightning-Fast File Uploads in NestJS with Busboy and Streams | Bhagya Rana | [Read More](https://medium.com/p/02d933152212) |
-| Tue, 12 Aug 2025 03:26:34 GMT | Scattered Challenge — Network Security | Zeenya | [Read More](https://medium.com/p/51396ee2d5b4) |
-| Tue, 12 Aug 2025 03:19:02 GMT | BUG İçin $BUG Token'ı Nasıl Talep Edilir? | BUG | [Read More](https://medium.com/p/7ae137af6089) |
-| Tue, 12 Aug 2025 03:17:42 GMT | SecuMS & Omniguard: A Deep Dive into LSWare’s Proactive Cybersecurity Suite | Ahmad Naufal Ramadan | [Read More](https://medium.com/p/c2801c9957e3) |
-| Tue, 12 Aug 2025 03:16:01 GMT | קבלו את האסימונים שלכם: תבעו $BUG עבור BUG עכשיו | BUG | [Read More](https://medium.com/p/07f8c32fe90c) |
