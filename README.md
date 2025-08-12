@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 11:09:20 GMT | CVE-2025–8819: Stack Overflow Vulnerability in Linksys Range Extenders | CVEHUB | [Read More](https://medium.com/p/13eb65f5f212) |
+| Tue, 12 Aug 2025 11:07:42 GMT | CVE-2025–8818: Command Injection Vulnerability in Linksys Range Extenders | CVEHUB | [Read More](https://medium.com/p/92bd63634188) |
+| Tue, 12 Aug 2025 11:06:09 GMT | CVE-2025–8817: Critical Stack Overflow in Linksys Wi-Fi Extenders! | CVEHUB | [Read More](https://medium.com/p/e9900f92c100) |
+| Tue, 12 Aug 2025 11:04:09 GMT | Nejvíce ohrožené sektory z hlediska kybernetické bezpečnosti! | Cyber Solution | [Read More](https://medium.com/p/11e98f0183a6) |
+| Tue, 12 Aug 2025 11:01:57 GMT | How Leaked Traces Are Used to Smear Founders | Ingvar Pavlovich | [Read More](https://medium.com/p/d0ca45b729c7) |
+| Tue, 12 Aug 2025 11:01:57 GMT | The Internet Security Dragon | Brian N. Siegelwax | [Read More](https://medium.com/p/91398438e644) |
+| Tue, 12 Aug 2025 11:00:25 GMT | A Beginner’s Guide to Hacking, Virtual Machines, Linux, and Networking | Adityanarayanan A S | [Read More](https://medium.com/p/957fcc6e1a1a) |
+| Tue, 12 Aug 2025 10:59:46 GMT | Top Tech Updates and Future Trends You Shouldn’t Miss | Ketan Patel | [Read More](https://medium.com/p/056273feecf6) |
+| Tue, 12 Aug 2025 10:58:26 GMT | UK Generative AI Cybersecurity Market Size, Share, Trends - Forecast Report by 2032 | Atharvaconsegicbusinessintelli | [Read More](https://medium.com/p/e09ababdb90c) |
+| Tue, 12 Aug 2025 10:56:40 GMT | Bug Bounty Entry: Getting Started with Platforms like HackerOne and Bugcrowd | RafalW3bCraft | [Read More](https://medium.com/p/849ffb8ba046) |
+| Tue, 12 Aug 2025 10:56:10 GMT | Century — Under The Wire (writeup) | Shaheer Khalid | [Read More](https://medium.com/p/7060777ae963) |
+| Tue, 12 Aug 2025 10:45:38 GMT | Moving Fast Without Breaking Security: JWTs, Refresh Tokens & Safer Authentication | Keleigh Berenger | [Read More](https://medium.com/p/8bf80cae2b76) |
+| Tue, 12 Aug 2025 10:43:13 GMT | Why SEO Is Crucial for Your Website’s Online Success | Bhavesh Rajpurohit | [Read More](https://medium.com/p/b4ae8e5062ff) |
+| Tue, 12 Aug 2025 10:39:37 GMT | How I Passed the Practical SOC Analyst Associate (PSAA) Certification by TCM Security | Krishna | [Read More](https://medium.com/p/1573369bcc2e) |
+| Tue, 12 Aug 2025 10:36:11 GMT | Flash Coins: Crypto’s Biggest Illusion? | Sagol | [Read More](https://medium.com/p/2f6ed55daf78) |
 | Tue, 12 Aug 2025 10:26:27 GMT | The Role of Data Security in Protecting IoT Devices | Kartik Debnath | [Read More](https://medium.com/p/a929bb80cd87) |
 | Tue, 12 Aug 2025 10:25:31 GMT | Building with AI vs. Living with AI: AIVille’s Distinction Is the Conversation Web3 Needs | Web3Dof | [Read More](https://medium.com/p/0e0f0523941b) |
 | Tue, 12 Aug 2025 10:23:25 GMT | How IT Consulting Services Boost ROI for Businesses | Shiv Technolabs | [Read More](https://medium.com/p/8b6399efc1c5) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 07:16:57 GMT | The Rise of Zero Trust: A New Era of Cybersecurity | Aryan D | [Read More](https://medium.com/p/ab114ed501cb) |
 | Tue, 12 Aug 2025 07:15:24 GMT | NG Injector Free Fire APK For 2025–2026 | Qahirakbar | [Read More](https://medium.com/p/0d3e530910db) |
 | Tue, 12 Aug 2025 07:11:03 GMT | AI and Cloud Security. Friend or Foe? | Wayne Bridgman | [Read More](https://medium.com/p/a9af5e7df549) |
-| Tue, 12 Aug 2025 07:02:01 GMT | August 9 Easy2Patch Catalog Update: Zero-Day WinRAR Fix, High-Impact Chrome Patches, and More | Easy2Patch | [Read More](https://medium.com/p/5e2c701c3c11) |
-| Tue, 12 Aug 2025 07:01:24 GMT | GDPR Compliance Solutions Market: Driving the Future of Data Privacy and Trust | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/865d227f2196) |
-| Tue, 12 Aug 2025 07:00:38 GMT | Surveillance System | Optex India | [Read More](https://medium.com/p/407574eb60c2) |
-| Tue, 12 Aug 2025 06:54:11 GMT | Chenghis Khan, cruelty, empires, deterrence and cyber warfare. | Martin Abramov | [Read More](https://medium.com/p/83dfa2fc15e2) |
-| Tue, 12 Aug 2025 06:51:43 GMT | Dynatrace ve Büyük Günlük Kayıtları (LOG) | Perform Yazılım | [Read More](https://medium.com/p/058ffb95d37a) |
-| Tue, 12 Aug 2025 06:48:44 GMT | Bug Bounty village CTF - Gaining access to an internal researcher portal | VISCID | [Read More](https://medium.com/p/b575fa08b205) |
-| Tue, 12 Aug 2025 06:48:18 GMT | Tailgating Attacks: Prevention with Optex Tailgating Solutions | Optex India | [Read More](https://medium.com/p/9de9a16a8070) |
-| Tue, 12 Aug 2025 06:46:47 GMT | Reflections on Network and Email APTs, EDR, RansomZero (RGB & Entropy), Zero Trust, and the Rise… | [099YTZ] YENNI THERESIA ZALUKHU | [Read More](https://medium.com/p/d74e7f3e40fd) |
-| Tue, 12 Aug 2025 06:45:33 GMT | Securing Spring Boot APIs from XSS Injection | Ragul Rasalingam | [Read More](https://medium.com/p/a329eb465b95) |
-| Tue, 12 Aug 2025 06:40:27 GMT | Best Accessories Gadget Brands in Asia You Should Know in 2025 | Arini Rizki Fauziah | [Read More](https://medium.com/p/312f4db3b2ef) |
-| Tue, 12 Aug 2025 06:40:16 GMT | Secure your cryptocurrencies and accounts with hardware keys | Michael Harms | [Read More](https://medium.com/p/d61906d429db) |
-| Tue, 12 Aug 2025 06:33:06 GMT | Dorks For Sensitive Information Disclosure Part-3 | Devansh Patel | [Read More](https://medium.com/p/a687a9c5a3bf) |
-| Tue, 12 Aug 2025 06:32:54 GMT | Top 5 Digital Transformation Trends Businesses Cannot Ignore in 2025 | Bpractseo | [Read More](https://medium.com/p/f27d37162a6d) |
-| Tue, 12 Aug 2025 06:32:02 GMT | “Social Engineering Attacks in 2025: Psychological Hacking Tactics and How to Detect Them Early” | Tarush Sharma | [Read More](https://medium.com/p/29f96d7e7c2b) |
-| Tue, 12 Aug 2025 06:29:34 GMT | Identity Security, Reinvented: How Stellar Cyber ITDR Stops Credential-Based Attacks Before They… | Stellar Cyber | [Read More](https://medium.com/p/5272eb82a151) |
