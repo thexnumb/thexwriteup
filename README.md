@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 14:12:23 GMT | InfoSec Writeups x BSides Vizag 2025 — CFP Now Open! | InfoSec Write-ups | [Read More](https://medium.com/p/6d526ed45613) |
+| Tue, 12 Aug 2025 14:03:34 GMT | The Role of Managed IT Services in Springfield, MO in Strengthening SaaS Security Amid Breach… | PCnet | [Read More](https://medium.com/p/00cf0eaa3e7d) |
+| Tue, 12 Aug 2025 14:03:04 GMT | IBM API Connect: Configuring Third-Party OAuth providers. | Mounika Nayikoti | [Read More](https://medium.com/p/a1f48cd69581) |
+| Tue, 12 Aug 2025 14:02:35 GMT | Cyber Briefing: 2025.08.12 | CyberMaterial | [Read More](https://medium.com/p/292b18578f0b) |
+| Tue, 12 Aug 2025 13:58:43 GMT | [03]. I received $200 from Mozilla for a simple bypass | yoyomiski | [Read More](https://medium.com/p/fc5f1e020e9a) |
+| Tue, 12 Aug 2025 13:52:46 GMT | How My Hospital’s EHR Helped Me Understand a Coding Superpower | Adeshola_ | [Read More](https://medium.com/p/2258c3f9f3fd) |
+| Tue, 12 Aug 2025 13:51:34 GMT | Análisis de Portable Executables (PE) en Desarrollo de Malware | s1egfr1ed | [Read More](https://medium.com/p/10718390602c) |
+| Tue, 12 Aug 2025 13:48:19 GMT | How a Malicious Keyboard App Recorded My Passwords Keylogging Through Mobile Apps | Shahzaib | [Read More](https://medium.com/p/e6a112fb412d) |
+| Tue, 12 Aug 2025 13:44:40 GMT | why lover on the leash is the aesthetic that will never leave you | gia | [Read More](https://medium.com/p/aa8e8c25184e) |
+| Tue, 12 Aug 2025 13:43:20 GMT | The Only Team I Trust for Digital Access. Hackshift360 Exceeded My Expectations | Pigeon Arts | [Read More](https://medium.com/p/2145d500e48f) |
+| Tue, 12 Aug 2025 13:41:51 GMT | Spear Phishing: How Hackers Target CEOs | Aj | [Read More](https://medium.com/p/fbc3c140aed8) |
+| Tue, 12 Aug 2025 13:37:43 GMT | AI Wrote This Title. (Just Kidding. Here’s How to Make It Sound Like You.) | Fahad's Foresight | [Read More](https://medium.com/p/a32596ad1eac) |
 | Tue, 12 Aug 2025 13:33:02 GMT | How Hackers Used Chaos as a Smokescreen for Silent Data Exfiltration | Shahzaib | [Read More](https://medium.com/p/98855e4de6b4) |
 | Tue, 12 Aug 2025 13:28:56 GMT | IDOR in UK Government — Able To Delete Millions Appeal Case In Jast One Click | whiterose | [Read More](https://medium.com/p/b1fb51f11a1f) |
 | Tue, 12 Aug 2025 13:28:53 GMT | What Are the Different Types of Guards? 9 Main Types of Guards in the Security Industry | Liam Truth | [Read More](https://medium.com/p/5344720c467d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 10:01:40 GMT | Azure OIDC Authentication in GitHub Actions: A Secure, Step-by-Step Setup (azure/login) | MOMOSUKE - Ryosuke Hyakuta | [Read More](https://medium.com/p/687e9a1ff933) |
 | Tue, 12 Aug 2025 09:59:17 GMT | How to Take Elite Notes for Cybersecurity Certification Exams | Motasem Hamdan | [Read More](https://medium.com/p/1f8c09c48741) |
 | Tue, 12 Aug 2025 09:57:32 GMT | Why Kiosk Technology is a Game-Changer for the UAE’s Service Industry | Rakesh | [Read More](https://medium.com/p/2c40831c7988) |
-| Tue, 12 Aug 2025 09:53:17 GMT | Master the Future: Skillwint’s Certified Cyber Security Expert Course | Skillwint | [Read More](https://medium.com/p/af556ce68a7b) |
-| Tue, 12 Aug 2025 09:51:10 GMT | Building Startecon: Company, Customers, and Culture | SampradaKhadka | [Read More](https://medium.com/p/2981b5845f06) |
-| Tue, 12 Aug 2025 09:44:58 GMT | Forensics - picoGym - Wireshark doo dooo do doo… | Flower Bed | [Read More](https://medium.com/p/c4ed4cdfd355) |
-| Tue, 12 Aug 2025 09:39:59 GMT | I Spent Two Years With HackTheBox — Was It Worth It? | Pavel Slesinger | [Read More](https://medium.com/p/b69797417a4d) |
-| Tue, 12 Aug 2025 09:37:46 GMT | 5 Simple Cybersecurity Tips Everyone Must Religiously Follow in 2025 | Muhammad Munim Bhatti | [Read More](https://medium.com/p/5ca89c3706bd) |
-| Tue, 12 Aug 2025 09:35:37 GMT | WinRAR bug: Unzip Carefully — Malware’s Lurking! | CtrlC3 | [Read More](https://medium.com/p/936b0c3aeb68) |
-| Tue, 12 Aug 2025 09:32:24 GMT | Network Time Protocol (NTP) Abuse for Enterprise Recon | Aenosh Rajora | [Read More](https://medium.com/p/26bda1d7758c) |
-| Tue, 12 Aug 2025 09:32:06 GMT | Remote Work: Big Brother or Necessary Evil? | Authlyn | [Read More](https://medium.com/p/09f7f42d669c) |
-| Tue, 12 Aug 2025 09:31:57 GMT | Incident Recovery Cases: How Businesses Bounced Back from Cyber Incidents | Evgeny Ermakov | [Read More](https://medium.com/p/89d6bc8cba07) |
-| Tue, 12 Aug 2025 09:30:58 GMT | Darkhole2 VulnHub CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/ad608c2517fa) |
-| Tue, 12 Aug 2025 09:25:28 GMT | Forensics - picoGym - Matryoshka doll | Flower Bed | [Read More](https://medium.com/p/ef5e3ab7f237) |
-| Tue, 12 Aug 2025 09:22:18 GMT | Anonforce CTF Walkthrough - From Anonymous FTP to Root Shell | Abdul Ahad | [Read More](https://medium.com/p/8a13f46e23d4) |
