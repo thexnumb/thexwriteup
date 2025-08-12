@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 22:12:46 GMT | Understanding Query Execution Plans in PostgreSQL: The Developer’s Guide to Database Performance | Rizqi Mulki | [Read More](https://medium.com/p/a4220617b256) |
+| Tue, 12 Aug 2025 22:12:23 GMT | Advanced PostgreSQL Partitioning Strategies That Scale to Billions of Rows | Rizqi Mulki | [Read More](https://medium.com/p/177d6cb9189d) |
+| Tue, 12 Aug 2025 22:11:14 GMT | MySQL 9.x vs PostgreSQL 17: Which is Faster? | Rizqi Mulki | [Read More](https://medium.com/p/9915918e1884) |
+| Tue, 12 Aug 2025 22:07:10 GMT | A DevOps Engineer’s Guide to OWASP Tools for Application Security | Ronak Fabian | [Read More](https://medium.com/p/35182cb6e2c6) |
+| Tue, 12 Aug 2025 21:56:45 GMT | The Silent Threat: An Analysis of SVG-Based Phishing Attacks | AlanKaliX | [Read More](https://medium.com/p/09f1c4e07d82) |
+| Tue, 12 Aug 2025 21:55:48 GMT | Popular Hash Functions in Python (Cybersecurity) | Nube Colectiva | [Read More](https://medium.com/p/0af14f9a784b) |
+| Tue, 12 Aug 2025 21:50:32 GMT | WordPress Firewall Protection: Why Your Website Needs It and How to Get It Right | sarbdit | [Read More](https://medium.com/p/be31860c32dc) |
+| Tue, 12 Aug 2025 21:47:37 GMT | Hackers Just Found a Way to Outsmart GPT-5 | Cyber-AppSec | [Read More](https://medium.com/p/09a3ae185a64) |
 | Tue, 12 Aug 2025 21:37:46 GMT | PNPT: A CERTIFICATION THAT FELT LIKE A REAL PENTEST | Erick | [Read More](https://medium.com/p/456bae4d8988) |
 | Tue, 12 Aug 2025 21:29:43 GMT | Walking An Application - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/0da8e1f73c8b) |
 | Tue, 12 Aug 2025 21:29:41 GMT | Walking An Application - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/97f0ddc56016) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 16:59:20 GMT | The Rise of AI-Powered vCISO Services for SMB Cybersecurity | _Anirudh_ | [Read More](https://medium.com/p/b53924f6f968) |
 | Tue, 12 Aug 2025 16:47:49 GMT | Rooting Samsung S9+ | Anas Zeeshan | [Read More](https://medium.com/p/7de95665e532) |
 | Tue, 12 Aug 2025 16:47:08 GMT | Digital Forensics: Unraveling Cybercrime Mysteries | Cyber Security Research | [Read More](https://medium.com/p/00da776c4cba) |
-| Tue, 12 Aug 2025 16:45:13 GMT | Cybersecurity Compliance: Navigating Regulatory Landscapes | Cyber Security Research | [Read More](https://medium.com/p/e740cd2a1150) |
-| Tue, 12 Aug 2025 16:43:10 GMT | The Insider Threat: Mitigating Risks from Within | Cyber Security Research | [Read More](https://medium.com/p/d8eb66d63146) |
-| Tue, 12 Aug 2025 16:42:17 GMT | The Honeypot Chronicles | paulpierce34 | [Read More](https://medium.com/p/d9fbdcd6f038) |
-| Tue, 12 Aug 2025 16:40:28 GMT | Is Product Security the Evolution of Application Security? | Vernieri | [Read More](https://medium.com/p/4f89f4a5aaa8) |
-| Tue, 12 Aug 2025 16:39:28 GMT | Securing the Cloud: A Comprehensive Guide | Cyber Security Research | [Read More](https://medium.com/p/c6fed5e7c6ab) |
-| Tue, 12 Aug 2025 16:37:35 GMT | The Cybersecurity Survival Guide: Navigating the Digital Wilderness | Cyber Security Research | [Read More](https://medium.com/p/5551455cb409) |
-| Tue, 12 Aug 2025 16:35:56 GMT | Detecting Real-World Attacks with Snort: Writing Custom Rules from Real PCAPs | Kallabharath | [Read More](https://medium.com/p/c94ccc945314) |
-| Tue, 12 Aug 2025 16:35:40 GMT | Data Breach Chronicles: Learning from Past Mistakes | Cyber Security Research | [Read More](https://medium.com/p/10a92360ba35) |
