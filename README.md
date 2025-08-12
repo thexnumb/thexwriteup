@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 17:43:05 GMT | TuesdayTool 32: Google Custom Search Engine (CSE) | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/8210b78957a7) |
+| Tue, 12 Aug 2025 17:42:50 GMT | How to Upload and Deploy ML Models on Wazuh Indexer with Full Inference Support | Yash Patel | [Read More](https://medium.com/p/c683985f245a) |
+| Tue, 12 Aug 2025 17:40:00 GMT | JWT Simplified for Everyone | TheCodeAlchemist | [Read More](https://medium.com/p/c6ad0dfca771) |
+| Tue, 12 Aug 2025 17:32:00 GMT | Threats Reports 2025: Understanding Emerging Cyber Risks and Staying Ahead | SafeAeon Inc. | [Read More](https://medium.com/p/bb2c356bf9c8) |
+| Tue, 12 Aug 2025 17:24:22 GMT | How I Removed Other User`s Uploaded Images in a Few Clicks | StrangeRwhite | [Read More](https://medium.com/p/fdeb6355458b) |
+| Tue, 12 Aug 2025 17:24:04 GMT | The OSINT Mindset: A Guide to Turning Public Information into Actionable Intelligence | Ahmad Naufal Ramadan | [Read More](https://medium.com/p/ce63b15538fd) |
+| Tue, 12 Aug 2025 17:22:08 GMT | C.R.A.F.T. Framework Part 4: DevSecOps and SRE Implementation — Security and Operations with AI | Scott W Houghton | [Read More](https://medium.com/p/ca5557cdd750) |
+| Tue, 12 Aug 2025 17:22:03 GMT | Stop Wasting Time! The Secret Method to Find Exploits in Minutes | Very Lazy Tech | [Read More](https://medium.com/p/5920dc6619cc) |
+| Tue, 12 Aug 2025 17:21:15 GMT | From Pre-Account Takeover to Full Account Takeover using Google OAuth | sudo_a7med | [Read More](https://medium.com/p/38b42268ce31) |
+| Tue, 12 Aug 2025 17:18:23 GMT | Ad Fraud and Subscription Scams Takeover | _Anirudh_ | [Read More](https://medium.com/p/72482c4fc5c1) |
 | Tue, 12 Aug 2025 17:16:34 GMT | interencdec - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/cd364496e386) |
 | Tue, 12 Aug 2025 17:16:27 GMT | Verify - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/2aebea3b9ebc) |
 | Tue, 12 Aug 2025 17:16:22 GMT | Super SSH - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/43647a3c85b0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 13:52:46 GMT | How My Hospital’s EHR Helped Me Understand a Coding Superpower | Adeshola_ | [Read More](https://medium.com/p/2258c3f9f3fd) |
 | Tue, 12 Aug 2025 13:51:34 GMT | Análisis de Portable Executables (PE) en Desarrollo de Malware | s1egfr1ed | [Read More](https://medium.com/p/10718390602c) |
 | Tue, 12 Aug 2025 13:48:19 GMT | How a Malicious Keyboard App Recorded My Passwords Keylogging Through Mobile Apps | Shahzaib | [Read More](https://medium.com/p/e6a112fb412d) |
-| Tue, 12 Aug 2025 13:44:40 GMT | why lover on the leash is the aesthetic that will never leave you | gia | [Read More](https://medium.com/p/aa8e8c25184e) |
-| Tue, 12 Aug 2025 13:43:20 GMT | The Only Team I Trust for Digital Access. Hackshift360 Exceeded My Expectations | Pigeon Arts | [Read More](https://medium.com/p/2145d500e48f) |
-| Tue, 12 Aug 2025 13:41:51 GMT | Spear Phishing: How Hackers Target CEOs | Aj | [Read More](https://medium.com/p/fbc3c140aed8) |
-| Tue, 12 Aug 2025 13:37:43 GMT | AI Wrote This Title. (Just Kidding. Here’s How to Make It Sound Like You.) | Fahad's Foresight | [Read More](https://medium.com/p/a32596ad1eac) |
-| Tue, 12 Aug 2025 13:33:02 GMT | How Hackers Used Chaos as a Smokescreen for Silent Data Exfiltration | Shahzaib | [Read More](https://medium.com/p/98855e4de6b4) |
-| Tue, 12 Aug 2025 13:28:56 GMT | IDOR in UK Government — Able To Delete Millions Appeal Case In Jast One Click | whiterose | [Read More](https://medium.com/p/b1fb51f11a1f) |
-| Tue, 12 Aug 2025 13:28:53 GMT | What Are the Different Types of Guards? 9 Main Types of Guards in the Security Industry | Liam Truth | [Read More](https://medium.com/p/5344720c467d) |
-| Tue, 12 Aug 2025 13:20:40 GMT | Best Wireless Home Security Price Drops | Roderick Scott | [Read More](https://medium.com/p/df38036d4282) |
-| Tue, 12 Aug 2025 13:20:09 GMT | Malware Analysis: Ransomeware | Joseph A. M. | [Read More](https://medium.com/p/83a49b4ceabe) |
-| Tue, 12 Aug 2025 13:15:13 GMT | Social Engineering in the Age of AI: The New Frontier of Phishing Attacks | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/ddb38dbb4192) |
