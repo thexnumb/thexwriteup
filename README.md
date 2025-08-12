@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 21:37:46 GMT | PNPT: A CERTIFICATION THAT FELT LIKE A REAL PENTEST | Erick | [Read More](https://medium.com/p/456bae4d8988) |
+| Tue, 12 Aug 2025 21:29:43 GMT | Walking An Application - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/0da8e1f73c8b) |
+| Tue, 12 Aug 2025 21:29:41 GMT | Walking An Application - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/97f0ddc56016) |
+| Tue, 12 Aug 2025 21:23:19 GMT | Securing Servers in the Digital Age: Innovations of LSware Omniguard & SecuMS | Tsabita Bayu Kandi | [Read More](https://medium.com/p/8296224f973f) |
 | Tue, 12 Aug 2025 21:10:22 GMT | The Human Factor: Why Company Culture Trumps Technology in Cybersecurity | Josh Welch | [Read More](https://medium.com/p/0f64b8ea033c) |
 | Tue, 12 Aug 2025 21:08:26 GMT | Combating APTs And Infostealers: Modern Strategies with EDR, RansomZero, and Zero Trust | Tsabita Bayu Kandi | [Read More](https://medium.com/p/97ccc07d8a97) |
 | Tue, 12 Aug 2025 21:03:39 GMT | Build Your Solutions with the Mindset of a Hacker | Azuren | [Read More](https://medium.com/p/e1b65ee187d0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 16:37:35 GMT | The Cybersecurity Survival Guide: Navigating the Digital Wilderness | Cyber Security Research | [Read More](https://medium.com/p/5551455cb409) |
 | Tue, 12 Aug 2025 16:35:56 GMT | Detecting Real-World Attacks with Snort: Writing Custom Rules from Real PCAPs | Kallabharath | [Read More](https://medium.com/p/c94ccc945314) |
 | Tue, 12 Aug 2025 16:35:40 GMT | Data Breach Chronicles: Learning from Past Mistakes | Cyber Security Research | [Read More](https://medium.com/p/10a92360ba35) |
-| Tue, 12 Aug 2025 16:34:18 GMT | 6.4 Million Affected in Massive Bouygues Telecom Cyberattack | The UNFILTERED Draft | [Read More](https://medium.com/p/9434ce8c1a82) |
-| Tue, 12 Aug 2025 16:33:51 GMT | Ethical Hacking Exposed: Techniques and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/2afdbac06d63) |
-| Tue, 12 Aug 2025 16:33:39 GMT | SAP Under Siege: Ten Critical Vulnerabilities Expose Enterprise Systems to Code Injection… | gm0 | [Read More](https://medium.com/p/3e25aac032e9) |
-| Tue, 12 Aug 2025 16:31:49 GMT | From Phishing to Ransomware: Understanding the Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/3a139d9521e2) |
