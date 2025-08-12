@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 09:15:15 GMT | D-PCR-DY-01 Certification Your Simple Guide to HR Level IT Success | Mehmood Ali | [Read More](https://medium.com/p/ea7e6be8e794) |
+| Tue, 12 Aug 2025 09:12:11 GMT | Mastering Web Server Security on Linux with SafeLine WAF | Quella | [Read More](https://medium.com/p/a58d248a08b7) |
+| Tue, 12 Aug 2025 09:11:52 GMT | Beyond Zero Trust: Adaptive, Decentralized Security for the Modern Enterprise | Karlmarx Karunanithi | [Read More](https://medium.com/p/79419ec0a324) |
+| Tue, 12 Aug 2025 09:11:35 GMT | From OverTheWire to… World Domination? (Kinda) | SilentInject | [Read More](https://medium.com/p/2dca0f94254f) |
+| Tue, 12 Aug 2025 09:10:59 GMT | PortSwigger Lab: Blind OS Command Injection with Out-of-Band Exfiltration | Siddiquimohammad | [Read More](https://medium.com/p/36dbdb0b3997) |
+| Tue, 12 Aug 2025 09:08:30 GMT | फोनपे के खिलाफ शिकायत दर्ज करने के लिए, आप PhonePe ग्राहक सहायता से {∆924÷4820÷361∆}या पर कॉल… | phonepe Mein Shikayat kaise karen | [Read More](https://medium.com/p/9f1df47da760) |
+| Tue, 12 Aug 2025 09:01:47 GMT | Mobile Security: Protecting Your Devices and Data | Excellence Emmanuel Jnr | [Read More](https://medium.com/p/4c9e70f6523d) |
+| Tue, 12 Aug 2025 09:01:04 GMT | Darkhole1 VulnHub CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/283ad8c633ad) |
+| Tue, 12 Aug 2025 09:00:30 GMT | Secrets to Masking Sensitive Data Before Sending to the Frontend in Java | Anh Trần Tuấn | [Read More](https://medium.com/p/1cb7a4026cd4) |
+| Tue, 12 Aug 2025 09:00:27 GMT | Secrets to Masking Sensitive Data Before Sending to the Frontend in Java | Anh Trần Tuấn | [Read More](https://medium.com/p/ac0e5a3da2f7) |
+| Tue, 12 Aug 2025 08:59:54 GMT | Cybersecurity Challenges in E-commerce | Ann Maria | [Read More](https://medium.com/p/56deec672611) |
+| Tue, 12 Aug 2025 08:57:50 GMT | Cheyanne Mallas: A Case Study in Cybersecurity Project Management Excellence | Cheyannemallaspa | [Read More](https://medium.com/p/7f6c4c51d60e) |
+| Tue, 12 Aug 2025 08:57:19 GMT | Introduction to Packets and Frames | Allen Ace | [Read More](https://medium.com/p/93721b8592ed) |
+| Tue, 12 Aug 2025 08:52:01 GMT | Digital Forensics 101: What It Is and Why It Matters | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/38bc7e07c3aa) |
+| Tue, 12 Aug 2025 08:51:53 GMT | Title:  ThroneBreaker — A Game of Thrones Inspired Custom CTF Lab (Full Walkthrough) | Mohd Ahmed | [Read More](https://medium.com/p/99b467d3cb73) |
+| Tue, 12 Aug 2025 08:51:27 GMT | Cross-Site Scripting (XSS) | CY033 | [Read More](https://medium.com/p/6efe4650448d) |
 | Tue, 12 Aug 2025 08:46:58 GMT | Rate Limiting in Web Applications: Bug That Pays Your Rent | Aashif | [Read More](https://medium.com/p/028d634abe53) |
 | Tue, 12 Aug 2025 08:40:25 GMT | WinRAR Zero-Day CVE-2025–8088: How Russian Hackers Are Hitting Targets Worldwide — And How to… | Aaron | [Read More](https://medium.com/p/891e1f7923b7) |
 | Tue, 12 Aug 2025 08:38:56 GMT | The Daily Tech Digest: 12 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f33e0e05d425) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 04:41:08 GMT | Electrical Engineering for Hackers 101 - Part -1 | Agape HearTs | [Read More](https://medium.com/p/bc77116a1a41) |
 | Tue, 12 Aug 2025 04:39:22 GMT | WAIT…DID I MISS IT? | Jordan T Slaymaker | [Read More](https://medium.com/p/93b1c2a2d168) |
 | Tue, 12 Aug 2025 04:37:22 GMT | The Windows Process Journey — wecutil.exe (Event Collector Command Line Utility) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e2ff26b8dd74) |
-| Tue, 12 Aug 2025 04:36:44 GMT | Your Vulnerability Is Your Silent Strength | Shrushti Mehta | [Read More](https://medium.com/p/88b1b7208f70) |
-| Tue, 12 Aug 2025 04:31:28 GMT | Day5 Recon: Hacking Hidden Endpoints: How to Use Burp Suite & OWASP ZAP for Web Spidering and… | Ayush Kumar | [Read More](https://medium.com/p/2a69aa4ffd3d) |
-| Tue, 12 Aug 2025 04:28:33 GMT | A New Write-Up for a Vulnerability
-Sensitive Information Leakage via Referrer Header in Password… | Yousef Ezzeldin | [Read More](https://medium.com/p/96ff2ef64b24) |
-| Tue, 12 Aug 2025 04:25:16 GMT | Cultura analítica | Iceyami | [Read More](https://medium.com/p/bb59b34cc516) |
-| Tue, 12 Aug 2025 04:23:28 GMT | Mindset del Pentester | Iceyami | [Read More](https://medium.com/p/11780bb7a6f8) |
-| Tue, 12 Aug 2025 04:22:17 GMT | Apple iPhone Unavailable or Disabled & Data Recovery Services: Why your data CANNOT be recovered | Payam Toloo | [Read More](https://medium.com/p/aac939c77f67) |
-| Tue, 12 Aug 2025 04:20:22 GMT | CTF The Planets Earth (Completo) | Iceyami | [Read More](https://medium.com/p/df40a7de469a) |
-| Tue, 12 Aug 2025 04:18:55 GMT | LetsDefend — Event 231 Walkthrough | Lempwick | [Read More](https://medium.com/p/67ce498e63ae) |
-| Tue, 12 Aug 2025 04:07:27 GMT | Day 29- Understanding Installing Software and Applications for beginners | unica 02 | [Read More](https://medium.com/p/8c53fd5337e1) |
-| Tue, 12 Aug 2025 04:02:55 GMT | Kerberoasting Attack Lab—Extracting and Cracking Kerberos Service Tickets | Sukhpreet Kaur Deol | [Read More](https://medium.com/p/cf15c022d2a6) |
-| Tue, 12 Aug 2025 04:01:51 GMT | Getting Native: Secure Coding with Android NDK | DD Tech Simplified 2 code & Ship | [Read More](https://medium.com/p/c685480ddb14) |
-| Tue, 12 Aug 2025 03:59:47 GMT | Understanding the World of Email Spam | SuSocialPro | [Read More](https://medium.com/p/ac8d4550b23d) |
-| Tue, 12 Aug 2025 03:52:21 GMT | [0day] Critical RCE Vulnerability in Atlassian Confluence (CVE-2023–22518) — What You Need to Know | AerieWhole123 | [Read More](https://medium.com/p/11022babf31e) |
-| Tue, 12 Aug 2025 03:50:33 GMT | Ransomware: A Critical Cyber Security Threat to New Zealand Businesses | Cyberoptic Security | [Read More](https://medium.com/p/a9f6a8be4928) |
-| Tue, 12 Aug 2025 03:40:02 GMT | From First Exploit to Pivot: Building My Red Team Lab | Berrydb | [Read More](https://medium.com/p/728cdcf0646f) |
-| Tue, 12 Aug 2025 03:31:43 GMT | Exposed and Unaware: What the Kelly Benefits Breach Reveals About Third-Party Risk | Deven Chhajed | [Read More](https://medium.com/p/b921b0705551) |
