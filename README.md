@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 14:38:08 GMT | How a Simple Rate Limit Issue Earned Me €500 | Enterlectury | [Read More](https://medium.com/p/763aa5ae8ae1) |
+| Tue, 12 Aug 2025 14:37:57 GMT | How an Executable Hidden in an SSL Certificate Could Cripple Your Defenses | TheCyberSalad | [Read More](https://medium.com/p/b0a77570da69) |
+| Tue, 12 Aug 2025 14:36:10 GMT | ️‍♂️Natas 3 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/9f655174a6d7) |
+| Tue, 12 Aug 2025 14:33:29 GMT | The CIA Triad — No, Not That CIA | Deezacker | [Read More](https://medium.com/p/cb2bd3f77dba) |
+| Tue, 12 Aug 2025 14:29:16 GMT | How Does QR Code Work? | Syed Anees Khan | [Read More](https://medium.com/p/f13e892f0476) |
+| Tue, 12 Aug 2025 14:26:40 GMT | Critical Security Vulnerabilities Discovered in HashiCorp Vault: Technical Analysis and Remediation | All Things In Cloud | [Read More](https://medium.com/p/e001c007b703) |
+| Tue, 12 Aug 2025 14:26:25 GMT | Olympic Pools for the Algorithm, Pennies for the People | Paul D. | [Read More](https://medium.com/p/d3784c8c6cfc) |
+| Tue, 12 Aug 2025 14:24:49 GMT | When No One Truly Gets You — Not Even You | Ink Within | [Read More](https://medium.com/p/bca7bda9eaee) |
+| Tue, 12 Aug 2025 14:24:02 GMT | Generative AI Models | Shoaib Rashid | [Read More](https://medium.com/p/f530f7bad660) |
+| Tue, 12 Aug 2025 14:20:37 GMT | AI, Machine Learning, and Generative AI: The Differences | Shoaib Rashid | [Read More](https://medium.com/p/1d301d870750) |
+| Tue, 12 Aug 2025 14:19:08 GMT | What is Generative AI? | Shoaib Rashid | [Read More](https://medium.com/p/91b985cd7eeb) |
+| Tue, 12 Aug 2025 14:17:45 GMT | Hunting Hidden Files & Directories: A Practical Pentester’s Workflow | Siddiquimohammad | [Read More](https://medium.com/p/5fb5a9154e00) |
+| Tue, 12 Aug 2025 14:13:55 GMT | Ethical Hacking - Activity 1 — Linux Challenge (Level 0 -1) | Forzr0nin | [Read More](https://medium.com/p/bad2d318eb85) |
 | Tue, 12 Aug 2025 14:12:23 GMT | InfoSec Writeups x BSides Vizag 2025 — CFP Now Open! | InfoSec Write-ups | [Read More](https://medium.com/p/6d526ed45613) |
 | Tue, 12 Aug 2025 14:03:34 GMT | The Role of Managed IT Services in Springfield, MO in Strengthening SaaS Security Amid Breach… | PCnet | [Read More](https://medium.com/p/00cf0eaa3e7d) |
 | Tue, 12 Aug 2025 14:03:04 GMT | IBM API Connect: Configuring Third-Party OAuth providers. | Mounika Nayikoti | [Read More](https://medium.com/p/a1f48cd69581) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 10:25:31 GMT | Building with AI vs. Living with AI: AIVille’s Distinction Is the Conversation Web3 Needs | Web3Dof | [Read More](https://medium.com/p/0e0f0523941b) |
 | Tue, 12 Aug 2025 10:23:25 GMT | How IT Consulting Services Boost ROI for Businesses | Shiv Technolabs | [Read More](https://medium.com/p/8b6399efc1c5) |
 | Tue, 12 Aug 2025 10:19:04 GMT | Flash Coins: The Truth About Instant Crypto Transactions | Sagol | [Read More](https://medium.com/p/d9c9ff330474) |
-| Tue, 12 Aug 2025 10:18:21 GMT | How Clean Crypto Wallets Get Caught in Sanctions Nets | AML You | [Read More](https://medium.com/p/044099b86ca8) |
-| Tue, 12 Aug 2025 10:14:12 GMT | The Dawn of Corporate Cyber Accountability: Why Boardrooms Are Now Ground Zero in the Digital War | Legally Psyched- briefs, breakdown & ors electives | [Read More](https://medium.com/p/0d3c28fb2d38) |
-| Tue, 12 Aug 2025 10:14:10 GMT | Beware of Flash Coin Scams! | Sagol | [Read More](https://medium.com/p/5dc862e5c8d5) |
-| Tue, 12 Aug 2025 10:14:04 GMT | How a job application turns into threat intelligence Part-1 | Anirudh Bishnoi | [Read More](https://medium.com/p/430e6050971f) |
-| Tue, 12 Aug 2025 10:13:51 GMT | From a Skilled Social Media Diver to Digital Intelligence: Mastering OSINT in the Information Age | Angga Alfiansah | [Read More](https://medium.com/p/25ab060f96af) |
-| Tue, 12 Aug 2025 10:12:36 GMT | IT Technology Staffing Solutions — VBeyond Corporation | Vbeyond Corporation | [Read More](https://medium.com/p/70a083a2ca46) |
-| Tue, 12 Aug 2025 10:10:08 GMT | “Is Your Website at Risk? How to Test for Vulnerabilities Before It’s Too Late” | Qualysec | [Read More](https://medium.com/p/ab6ece835143) |
-| Tue, 12 Aug 2025 10:07:46 GMT | Security Operations Center (SOC): Your Ultimate Cyber Defense Hub | SecureSlate | [Read More](https://medium.com/p/0328fb9e401a) |
-| Tue, 12 Aug 2025 10:06:21 GMT | 360 View Security Camera - 03098295833 | Ali | [Read More](https://medium.com/p/8309f31cc16a) |
-| Tue, 12 Aug 2025 10:03:22 GMT | A Complete Beginner’s Guide to Ethical Hacking and Cybersecurity | Madake Payal | [Read More](https://medium.com/p/8d38135127cc) |
-| Tue, 12 Aug 2025 10:01:40 GMT | Azure OIDC Authentication in GitHub Actions: A Secure, Step-by-Step Setup (azure/login) | MOMOSUKE - Ryosuke Hyakuta | [Read More](https://medium.com/p/687e9a1ff933) |
-| Tue, 12 Aug 2025 09:59:17 GMT | How to Take Elite Notes for Cybersecurity Certification Exams | Motasem Hamdan | [Read More](https://medium.com/p/1f8c09c48741) |
-| Tue, 12 Aug 2025 09:57:32 GMT | Why Kiosk Technology is a Game-Changer for the UAE’s Service Industry | Rakesh | [Read More](https://medium.com/p/2c40831c7988) |
