@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 08:20:44 GMT | Let’s Talk About Detection Rules in Sublime Security (EDR for Email!) | Dean | [Read More](https://medium.com/p/57b97175bd2b) |
+| Tue, 12 Aug 2025 08:18:26 GMT | ?? | FA Shuvo | [Read More](https://medium.com/p/45426131c421) |
+| Tue, 12 Aug 2025 08:14:44 GMT | What is an Agentic SOC? | Stellar Cyber | [Read More](https://medium.com/p/535d7b98df19) |
+| Tue, 12 Aug 2025 08:13:23 GMT | Infrastructure Security: WAF, SSL Certificates, Acronis Cyber Protect Cloud, and DDoS Protection | HostingB2B | [Read More](https://medium.com/p/e7295394b1db) |
+| Tue, 12 Aug 2025 08:12:20 GMT | I Deploy SafeLine in My Free Time — And It Wrecks Bots | Quella | [Read More](https://medium.com/p/1b50a0322fb9) |
+| Tue, 12 Aug 2025 08:07:18 GMT | SMT 2025 — Special Lecture 1 | Firdhan H | [Read More](https://medium.com/p/961ad5e40eb2) |
+| Tue, 12 Aug 2025 08:06:14 GMT | AI Hallucinations: A CISO’s Warning from Sam Altman | Piyush | [Read More](https://medium.com/p/adfe815ddd8b) |
+| Tue, 12 Aug 2025 08:05:44 GMT | Digital Colonialism — Ethics in AI | Ram Krishna | [Read More](https://medium.com/p/7e360de961a8) |
+| Tue, 12 Aug 2025 08:03:19 GMT | CTF The Planets: Earth (Completo) | Zyanetralys | [Read More](https://medium.com/p/981683870412) |
+| Tue, 12 Aug 2025 07:59:16 GMT | JSON Web Token (JWT) Nedir? PORTSWİGGER Temel Seviye Lab Çözümleri | ENES KURTULAN | [Read More](https://medium.com/p/84c85b7aa29e) |
+| Tue, 12 Aug 2025 07:59:14 GMT | Exploiting a Mass Assignment API Vulnerability | Aditya Bhatt | [Read More](https://medium.com/p/bca42a818aa2) |
+| Tue, 12 Aug 2025 07:54:19 GMT | SecuMS and Omniguard: Continuous Vulnerability Assessment & Server Security Strategies | [099YTZ] YENNI THERESIA ZALUKHU | [Read More](https://medium.com/p/217a5a9dba31) |
+| Tue, 12 Aug 2025 07:48:51 GMT | Enhancing Security with EIOTCLUB SIM Cards. | cartercheryl1424 | [Read More](https://medium.com/p/357061f42388) |
+| Tue, 12 Aug 2025 07:48:32 GMT | Poison in the Search Results: The Tesla Scam Lurking Behind Google Ads | Pentestjunkie07 | [Read More](https://medium.com/p/eb027e4645cb) |
+| Tue, 12 Aug 2025 07:47:14 GMT | How I Passed the CEH Exam in Just 72 Hours of Preparation | Depayan Dalui | [Read More](https://medium.com/p/48d012f284b7) |
+| Tue, 12 Aug 2025 07:47:05 GMT | Are Cloud Computing, Cybersecurity, or Data Science Relevant for Electrical Engineering Students in… | BIT Blogs | [Read More](https://medium.com/p/c030e2ddba91) |
+| Tue, 12 Aug 2025 07:45:05 GMT | Best Tollfree Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/6e22fe154a8d) |
+| Tue, 12 Aug 2025 07:44:31 GMT | Best Cyber Security Training Center in India | Manisha Chaudhary | [Read More](https://medium.com/p/8b3f513bbbd5) |
+| Tue, 12 Aug 2025 07:42:40 GMT | What’s More Awkward — The Silence or The Truth? | The Heart 's Diary | [Read More](https://medium.com/p/75d84e1e8dab) |
 | Tue, 12 Aug 2025 07:35:01 GMT | Hard Links, Soft Links, and /dev/null — The Secret Stuff | MayhemCode | [Read More](https://medium.com/p/5cbfad45fbde) |
 | Tue, 12 Aug 2025 07:32:27 GMT | ISO 27001 vs SOC 2: Why One Doesn’t Automatically Get You the Other | Harivansh Sharma | [Read More](https://medium.com/p/285681938a09) |
 | Tue, 12 Aug 2025 07:31:59 GMT | “Apple’s Siri 2026 Upgrade: AI Power, App Intents, and Game-Changing Features” | Tarush Sharma | [Read More](https://medium.com/p/03c4ba532ff7) |
@@ -94,22 +113,3 @@ Sensitive Information Leakage via Referrer Header in Password… | Yousef Ezzeld
 | Tue, 12 Aug 2025 03:19:02 GMT | BUG İçin $BUG Token'ı Nasıl Talep Edilir? | BUG | [Read More](https://medium.com/p/7ae137af6089) |
 | Tue, 12 Aug 2025 03:17:42 GMT | SecuMS & Omniguard: A Deep Dive into LSWare’s Proactive Cybersecurity Suite | Ahmad Naufal Ramadan | [Read More](https://medium.com/p/c2801c9957e3) |
 | Tue, 12 Aug 2025 03:16:01 GMT | קבלו את האסימונים שלכם: תבעו $BUG עבור BUG עכשיו | BUG | [Read More](https://medium.com/p/07f8c32fe90c) |
-| Tue, 12 Aug 2025 03:13:19 GMT | DefCon 33 Recap: Where Defenders Found Their Edge | Eric Zietlow | [Read More](https://medium.com/p/7acd67eb8236) |
-| Tue, 12 Aug 2025 03:12:57 GMT | The Cloud Isn’t Always as Safe as You Think — Here’s Why | Mustafa DevSec | [Read More](https://medium.com/p/b84b38c847c0) |
-| Tue, 12 Aug 2025 03:10:46 GMT | “The Invisible War: 5 Cybersecurity Threats That Will Break Your Business If You Ignore Them in… | Dr. Deep Pandey | [Read More](https://medium.com/p/00f3486940d6) |
-| Tue, 12 Aug 2025 02:58:06 GMT | OAuth 2.0 made simple: how APIs decide who gets in | Freddy Dordoni | [Read More](https://medium.com/p/4088306c84ee) |
-| Tue, 12 Aug 2025 02:51:11 GMT | A Deep Dive into Hashing in Cryptography: Functions, Uses, and Risks | amol pawar | [Read More](https://medium.com/p/86e70f9fda3b) |
-| Tue, 12 Aug 2025 02:50:19 GMT | Encryption Basics: What It Is and How It Secures Your Digital Life | amol pawar | [Read More](https://medium.com/p/d6f71f20c200) |
-| Tue, 12 Aug 2025 02:34:29 GMT | Kuku Fm customer care number, 9669538050 कुकू एफएम (Kuku FM) में पैसे कटने पर, 9669538050 सबसे पहले… | Kuku Fm customer care number, 9669538050 कुकू एफएम | [Read More](https://medium.com/p/0f82396aae69) |
-| Tue, 12 Aug 2025 02:31:15 GMT | Cybersecurity: The Digital Shield | Cyber Security Research | [Read More](https://medium.com/p/e108daa98e81) |
-| Tue, 12 Aug 2025 02:29:37 GMT | Securing the Digital Frontier: A Cybersecurity Imperative | Cyber Security Research | [Read More](https://medium.com/p/318245b600c9) |
-| Tue, 12 Aug 2025 02:27:51 GMT | The Power of Cybersecurity: Protecting Our Digital World | Cyber Security Research | [Read More](https://medium.com/p/aa00c137fe1e) |
-| Tue, 12 Aug 2025 02:27:16 GMT | Plain Challenge — Network Security | Zeenya | [Read More](https://medium.com/p/db562d66729d) |
-| Tue, 12 Aug 2025 02:26:02 GMT | Cybersecurity Enablement: Empowering Users to Be Secure | Cyber Security Research | [Read More](https://medium.com/p/fa53a11f280b) |
-| Tue, 12 Aug 2025 02:22:21 GMT | Cybersecurity Resilience: Building Robust Security Defenses | Cyber Security Research | [Read More](https://medium.com/p/4cebfa25a201) |
-| Tue, 12 Aug 2025 02:15:24 GMT | Crypto Security 101: Protect Yourself from Hacks (2025 Guide for Busy Humans) | Verron L | [Read More](https://medium.com/p/284f80dfa7ec) |
-| Tue, 12 Aug 2025 02:10:28 GMT | The Sweet Trap: Understanding Honeypots in Cybersecurity | Saijayanth | [Read More](https://medium.com/p/7c6fda249c5a) |
-| Tue, 12 Aug 2025 02:00:43 GMT | Сybersecurity Weaknesses of Programming Languages | Taulan Zauzanov | [Read More](https://medium.com/p/b02974d785dc) |
-| Tue, 12 Aug 2025 01:57:46 GMT | How AI and Generative AI Are Reshaping Cybersecurity | Kamalmeet Singh | [Read More](https://medium.com/p/ac318a14fda9) |
-| Tue, 12 Aug 2025 01:57:19 GMT | Your AI Co-Pilot Can’t Write Your Story. But It Can Perfect It. | Fahad's Foresight | [Read More](https://medium.com/p/9d2a900b2e94) |
-| Tue, 12 Aug 2025 01:54:05 GMT | I Stole ChatGPT’s Secret to a $5K Product (It Only Took 2 Hours). | Fahad's Foresight | [Read More](https://medium.com/p/d9cc9a110985) |
