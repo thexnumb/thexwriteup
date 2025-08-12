@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 16:45:13 GMT | Cybersecurity Compliance: Navigating Regulatory Landscapes | Cyber Security Research | [Read More](https://medium.com/p/e740cd2a1150) |
+| Tue, 12 Aug 2025 16:43:10 GMT | The Insider Threat: Mitigating Risks from Within | Cyber Security Research | [Read More](https://medium.com/p/d8eb66d63146) |
+| Tue, 12 Aug 2025 16:42:17 GMT | The Honeypot Chronicles | paulpierce34 | [Read More](https://medium.com/p/d9fbdcd6f038) |
+| Tue, 12 Aug 2025 16:40:28 GMT | Is Product Security the Evolution of Application Security? | Vernieri | [Read More](https://medium.com/p/4f89f4a5aaa8) |
+| Tue, 12 Aug 2025 16:39:28 GMT | Securing the Cloud: A Comprehensive Guide | Cyber Security Research | [Read More](https://medium.com/p/c6fed5e7c6ab) |
+| Tue, 12 Aug 2025 16:37:35 GMT | The Cybersecurity Survival Guide: Navigating the Digital Wilderness | Cyber Security Research | [Read More](https://medium.com/p/5551455cb409) |
+| Tue, 12 Aug 2025 16:35:56 GMT | Detecting Real-World Attacks with Snort: Writing Custom Rules from Real PCAPs | Kallabharath | [Read More](https://medium.com/p/c94ccc945314) |
+| Tue, 12 Aug 2025 16:35:40 GMT | Data Breach Chronicles: Learning from Past Mistakes | Cyber Security Research | [Read More](https://medium.com/p/10a92360ba35) |
+| Tue, 12 Aug 2025 16:34:18 GMT | 6.4 Million Affected in Massive Bouygues Telecom Cyberattack | The UNFILTERED Draft | [Read More](https://medium.com/p/9434ce8c1a82) |
+| Tue, 12 Aug 2025 16:33:51 GMT | Ethical Hacking Exposed: Techniques and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/2afdbac06d63) |
+| Tue, 12 Aug 2025 16:33:39 GMT | SAP Under Siege: Ten Critical Vulnerabilities Expose Enterprise Systems to Code Injection… | gm0 | [Read More](https://medium.com/p/3e25aac032e9) |
+| Tue, 12 Aug 2025 16:31:49 GMT | From Phishing to Ransomware: Understanding the Threat Landscape | Cyber Security Research | [Read More](https://medium.com/p/3a139d9521e2) |
 | Tue, 12 Aug 2025 16:26:57 GMT | Top 5 Highest-Paying IT Certifications in 2025 | Hachtechnology | [Read More](https://medium.com/p/4b955de404d6) |
 | Tue, 12 Aug 2025 16:24:52 GMT | Cybersecurity Training That Builds a Strong Human Firewall | James Own | [Read More](https://medium.com/p/92b6ecfa918f) |
 | Tue, 12 Aug 2025 16:22:10 GMT | 10 Cool Things You Can Do with the Windows Registry | James N | [Read More](https://medium.com/p/cba21317948d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 12:52:12 GMT | Information Technology | Muhammad Raheel Hashmi | [Read More](https://medium.com/p/d1eca46163ee) |
 | Tue, 12 Aug 2025 12:51:24 GMT | Vanishing in the Age of Surveillance | Shreyanth Suresh Krishnaa | [Read More](https://medium.com/p/0ece4f231e62) |
 | Tue, 12 Aug 2025 12:38:54 GMT | Burp Suite ile Web Güvenlik Testi: Adım Adım Rehber | Ceyda Çakır | [Read More](https://medium.com/p/c8a27edc43a1) |
-| Tue, 12 Aug 2025 12:36:34 GMT | Key Features Every Modern Trading Terminal Must Have | LogiClump Technologies | [Read More](https://medium.com/p/16a2e233073c) |
-| Tue, 12 Aug 2025 12:35:20 GMT | What is Ethical Hacking Certification (312–50) and why is it Crucial for a Successful Cybersecurity… | IPSpecialist | [Read More](https://medium.com/p/3fa645c8f0fc) |
-| Tue, 12 Aug 2025 12:33:57 GMT | Cost Effective IVR Solution Provider | Ashutosh Mallik | [Read More](https://medium.com/p/82c80feb9237) |
-| Tue, 12 Aug 2025 12:30:21 GMT | Detective Understanding OSINT: Turning Public Information into Actionable Intelligence | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/22467b627621) |
-| Tue, 12 Aug 2025 12:27:52 GMT | The Silence on Silicon: Why Big Tech Won’t Talk About Trump’s Tariffs | Peter Hillier/Halton | [Read More](https://medium.com/p/2fc6457d18ce) |
-| Tue, 12 Aug 2025 12:24:07 GMT | Boost Efficiency and Sales with NetSuite Magento Integration | inoday consultancy services | [Read More](https://medium.com/p/7c4e1d69f735) |
-| Tue, 12 Aug 2025 12:18:09 GMT | What Is Cybersecurity? A Simple Guide for Beginners | Sureshnextwebi | [Read More](https://medium.com/p/052b4e74a027) |
-| Tue, 12 Aug 2025 12:17:27 GMT | OWASP Juice Shop ⭐ Görev Çözümleri — Bölüm 1: İpucu ve Adım Adım Yöntem | Emine Göçer | [Read More](https://medium.com/p/74e3ff011424) |
-| Tue, 12 Aug 2025 12:16:30 GMT | Cloud Network Security Guide: Protecting Your Data and Infrastructure | Elysiancommunicationmadurai | [Read More](https://medium.com/p/d2f296f0fa71) |
-| Tue, 12 Aug 2025 12:15:06 GMT | Why Security by Obscurity Is a Risk Your Business Can’t Afford | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/b135044cc7fb) |
-| Tue, 12 Aug 2025 12:14:50 GMT | Dutch NCSC Confirms Active Exploitation of Critical PHP Vulnerability | Cyber Fortress | [Read More](https://medium.com/p/88d0464216aa) |
-| Tue, 12 Aug 2025 12:14:31 GMT | Phishing Simulation Using Gophish — Credential Harvesting using google form. | Joanorifha | [Read More](https://medium.com/p/cc8a25c4144d) |
