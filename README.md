@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 12:35:20 GMT | What is Ethical Hacking Certification (312–50) and why is it Crucial for a Successful Cybersecurity… | IPSpecialist | [Read More](https://medium.com/p/3fa645c8f0fc) |
+| Tue, 12 Aug 2025 12:33:57 GMT | Cost Effective IVR Solution Provider | Ashutosh Mallik | [Read More](https://medium.com/p/82c80feb9237) |
+| Tue, 12 Aug 2025 12:30:21 GMT | Detective Understanding OSINT: Turning Public Information into Actionable Intelligence | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/22467b627621) |
+| Tue, 12 Aug 2025 12:27:52 GMT | The Silence on Silicon: Why Big Tech Won’t Talk About Trump’s Tariffs | Peter Hillier/Halton | [Read More](https://medium.com/p/2fc6457d18ce) |
+| Tue, 12 Aug 2025 12:24:07 GMT | Boost Efficiency and Sales with NetSuite Magento Integration | inoday consultancy services | [Read More](https://medium.com/p/7c4e1d69f735) |
+| Tue, 12 Aug 2025 12:18:09 GMT | What Is Cybersecurity? A Simple Guide for Beginners | Sureshnextwebi | [Read More](https://medium.com/p/052b4e74a027) |
+| Tue, 12 Aug 2025 12:17:27 GMT | OWASP Juice Shop ⭐ Görev Çözümleri — Bölüm 1: İpucu ve Adım Adım Yöntem | Emine Göçer | [Read More](https://medium.com/p/74e3ff011424) |
+| Tue, 12 Aug 2025 12:16:30 GMT | Cloud Network Security Guide: Protecting Your Data and Infrastructure | Elysiancommunicationmadurai | [Read More](https://medium.com/p/d2f296f0fa71) |
+| Tue, 12 Aug 2025 12:15:06 GMT | Why Security by Obscurity Is a Risk Your Business Can’t Afford | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/b135044cc7fb) |
+| Tue, 12 Aug 2025 12:14:50 GMT | Dutch NCSC Confirms Active Exploitation of Critical PHP Vulnerability | Cyber Fortress | [Read More](https://medium.com/p/88d0464216aa) |
+| Tue, 12 Aug 2025 12:14:31 GMT | Phishing Simulation Using Gophish — Credential Harvesting using google form. | Joanorifha | [Read More](https://medium.com/p/cc8a25c4144d) |
+| Tue, 12 Aug 2025 12:12:50 GMT | “How is CorpSecurity International shaping the future of security and business continuity… | Corp security | [Read More](https://medium.com/p/46a01611bf1f) |
+| Tue, 12 Aug 2025 12:09:31 GMT | Guild - HTB CTF Try Out Write-ups - Server-side Template Injection (SSTI) | Hilmy Ammar Darmawan | [Read More](https://medium.com/p/b45062ac34af) |
+| Tue, 12 Aug 2025 12:08:34 GMT | Icertis Appoints Anand Subbaraman as Chief Executive Officer; Co-Founder Samir Bodas Transitions… | Cyber Fortress | [Read More](https://medium.com/p/e7167ea50f2a) |
+| Tue, 12 Aug 2025 12:07:08 GMT | The Architecture of Failure | Mohammed Brückner | [Read More](https://medium.com/p/4e6ebfdd4aef) |
+| Tue, 12 Aug 2025 12:01:59 GMT | Preparing for the Post-Quantum Era: Best Practices for Federal Agencies | Left4Zed | [Read More](https://medium.com/p/d3d5005ab735) |
+| Tue, 12 Aug 2025 12:00:25 GMT | GitHappens | Vignesh T | [Read More](https://medium.com/p/563f13d6544e) |
+| Tue, 12 Aug 2025 12:00:18 GMT | How Often Should Your Business Conduct VAPT? | Jay Chris Roberts | [Read More](https://medium.com/p/c0c5772a0b93) |
+| Tue, 12 Aug 2025 11:58:34 GMT | OpenAI Announces Global Launch of ChatGPT-5: Redefining the Future of AI Assistance | Cyber Fortress | [Read More](https://medium.com/p/5b13000fd863) |
+| Tue, 12 Aug 2025 11:58:33 GMT | The 3 Best Tools for Bug Bounty / Pentesting | Dr1nCtrl | [Read More](https://medium.com/p/915e95686e6f) |
+| Tue, 12 Aug 2025 11:56:43 GMT | AWS S3 Bucket Enumeration PwnedLabs | Iam Hacker | [Read More](https://medium.com/p/92bd2205ad8d) |
+| Tue, 12 Aug 2025 11:54:36 GMT | AWS Enumeration using Pacu | Iam Hacker | [Read More](https://medium.com/p/462a7254ba6a) |
+| Tue, 12 Aug 2025 11:49:57 GMT | Networking Fundamentals for Cybersecurity Professionals | Naem Azam Chowdhury | [Read More](https://medium.com/p/883b2944fcc5) |
+| Tue, 12 Aug 2025 11:48:53 GMT | How I could Takeover any Account by Bypassing OTP Rate Limits | Anonymousshetty | [Read More](https://medium.com/p/1155d616d947) |
+| Tue, 12 Aug 2025 11:40:15 GMT | Who should use AI Security Protocols & Monitoring? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/c704ee5c866a) |
 | Tue, 12 Aug 2025 11:35:29 GMT | Securing Microsoft 365: | Jard | [Read More](https://medium.com/p/e926dce119ee) |
 | Tue, 12 Aug 2025 11:33:54 GMT | DockerLabs Writeup — SummerVibes (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/f7f07f0f6798) |
 | Tue, 12 Aug 2025 11:33:51 GMT | PicoCTF 2025: n0s4n1ty 1 — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/f1f6399c9927) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 08:51:53 GMT | Title:  ThroneBreaker — A Game of Thrones Inspired Custom CTF Lab (Full Walkthrough) | Mohd Ahmed | [Read More](https://medium.com/p/99b467d3cb73) |
 | Tue, 12 Aug 2025 08:51:27 GMT | Cross-Site Scripting (XSS) | CY033 | [Read More](https://medium.com/p/6efe4650448d) |
 | Tue, 12 Aug 2025 08:46:58 GMT | Rate Limiting in Web Applications: Bug That Pays Your Rent | Aashif | [Read More](https://medium.com/p/028d634abe53) |
-| Tue, 12 Aug 2025 08:40:25 GMT | WinRAR Zero-Day CVE-2025–8088: How Russian Hackers Are Hitting Targets Worldwide — And How to… | Aaron | [Read More](https://medium.com/p/891e1f7923b7) |
-| Tue, 12 Aug 2025 08:38:56 GMT | The Daily Tech Digest: 12 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f33e0e05d425) |
-| Tue, 12 Aug 2025 08:38:19 GMT | Forensics - picoGym - MacroHard WeakEdge | Flower Bed | [Read More](https://medium.com/p/2954ff4edb83) |
-| Tue, 12 Aug 2025 08:27:08 GMT | Drosera; A breath of fresh air to the Archaic Web3 security system | Bickerstethemmanuel | [Read More](https://medium.com/p/3dee31b82d11) |
-| Tue, 12 Aug 2025 08:20:44 GMT | Let’s Talk About Detection Rules in Sublime Security (EDR for Email!) | Dean | [Read More](https://medium.com/p/57b97175bd2b) |
-| Tue, 12 Aug 2025 08:18:26 GMT | ?? | FA Shuvo | [Read More](https://medium.com/p/45426131c421) |
-| Tue, 12 Aug 2025 08:14:44 GMT | What is an Agentic SOC? | Stellar Cyber | [Read More](https://medium.com/p/535d7b98df19) |
-| Tue, 12 Aug 2025 08:13:23 GMT | Infrastructure Security: WAF, SSL Certificates, Acronis Cyber Protect Cloud, and DDoS Protection | HostingB2B | [Read More](https://medium.com/p/e7295394b1db) |
-| Tue, 12 Aug 2025 08:12:20 GMT | I Deploy SafeLine in My Free Time — And It Wrecks Bots | Quella | [Read More](https://medium.com/p/1b50a0322fb9) |
-| Tue, 12 Aug 2025 08:07:18 GMT | SMT 2025 — Special Lecture 1 | Firdhan H | [Read More](https://medium.com/p/961ad5e40eb2) |
-| Tue, 12 Aug 2025 08:06:14 GMT | AI Hallucinations: A CISO’s Warning from Sam Altman | Piyush | [Read More](https://medium.com/p/adfe815ddd8b) |
-| Tue, 12 Aug 2025 08:05:44 GMT | Digital Colonialism — Ethics in AI | Ram Krishna | [Read More](https://medium.com/p/7e360de961a8) |
-| Tue, 12 Aug 2025 08:03:19 GMT | CTF The Planets: Earth (Completo) | Zyanetralys | [Read More](https://medium.com/p/981683870412) |
-| Tue, 12 Aug 2025 07:59:16 GMT | JSON Web Token (JWT) Nedir? PORTSWİGGER Temel Seviye Lab Çözümleri | ENES KURTULAN | [Read More](https://medium.com/p/84c85b7aa29e) |
-| Tue, 12 Aug 2025 07:59:14 GMT | Exploiting a Mass Assignment API Vulnerability | Aditya Bhatt | [Read More](https://medium.com/p/bca42a818aa2) |
-| Tue, 12 Aug 2025 07:54:19 GMT | SecuMS and Omniguard: Continuous Vulnerability Assessment & Server Security Strategies | [099YTZ] YENNI THERESIA ZALUKHU | [Read More](https://medium.com/p/217a5a9dba31) |
-| Tue, 12 Aug 2025 07:48:51 GMT | Enhancing Security with EIOTCLUB SIM Cards. | cartercheryl1424 | [Read More](https://medium.com/p/357061f42388) |
-| Tue, 12 Aug 2025 07:48:32 GMT | Poison in the Search Results: The Tesla Scam Lurking Behind Google Ads | Pentestjunkie07 | [Read More](https://medium.com/p/eb027e4645cb) |
-| Tue, 12 Aug 2025 07:47:14 GMT | How I Passed the CEH Exam in Just 72 Hours of Preparation | Depayan Dalui | [Read More](https://medium.com/p/48d012f284b7) |
-| Tue, 12 Aug 2025 07:47:05 GMT | Are Cloud Computing, Cybersecurity, or Data Science Relevant for Electrical Engineering Students in… | BIT Blogs | [Read More](https://medium.com/p/c030e2ddba91) |
-| Tue, 12 Aug 2025 07:45:05 GMT | Best Tollfree Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/6e22fe154a8d) |
-| Tue, 12 Aug 2025 07:44:31 GMT | Best Cyber Security Training Center in India | Manisha Chaudhary | [Read More](https://medium.com/p/8b3f513bbbd5) |
-| Tue, 12 Aug 2025 07:42:40 GMT | What’s More Awkward — The Silence or The Truth? | The Heart 's Diary | [Read More](https://medium.com/p/75d84e1e8dab) |
-| Tue, 12 Aug 2025 07:35:01 GMT | Hard Links, Soft Links, and /dev/null — The Secret Stuff | MayhemCode | [Read More](https://medium.com/p/5cbfad45fbde) |
-| Tue, 12 Aug 2025 07:32:27 GMT | ISO 27001 vs SOC 2: Why One Doesn’t Automatically Get You the Other | Harivansh Sharma | [Read More](https://medium.com/p/285681938a09) |
