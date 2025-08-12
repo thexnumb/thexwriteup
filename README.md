@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 Aug 2025 05:03:19 GMT | Using Heuristics to Detect Malicious Pages | Bhuvana Medicherla | [Read More](https://medium.com/p/9bd496852458) |
+| Tue, 12 Aug 2025 04:59:38 GMT | 5 Ways Hackers Don’t Hack Passwords anymore, They Just Log In To Your Accounts | Reggie Menacherry | [Read More](https://medium.com/p/a1d379f05399) |
+| Tue, 12 Aug 2025 04:57:59 GMT | CVE-2025–7847 — Arbitrary File Upload in AI Engine WordPress Plugin Puts 100,000+ Sites at Risk | Sector Cyber Security | [Read More](https://medium.com/p/415e94a62663) |
+| Tue, 12 Aug 2025 04:52:47 GMT | How ExpressVPN Vulnerability Enables Silent Card Abuse — And Calls It “Expected Behavior” | Krivadna | [Read More](https://medium.com/p/7650a0b7a304) |
+| Tue, 12 Aug 2025 04:47:02 GMT | One Root Cause, Many Faces: The 6 Silent CSRF Vulnerabilities That Got Ignored | Mohamed Said Ibrahim | [Read More](https://medium.com/p/1c8818d860ce) |
 | Tue, 12 Aug 2025 04:41:08 GMT | Electrical Engineering for Hackers 101 - Part -1 | Agape HearTs | [Read More](https://medium.com/p/bc77116a1a41) |
+| Tue, 12 Aug 2025 04:39:22 GMT | WAIT…DID I MISS IT? | Jordan T Slaymaker | [Read More](https://medium.com/p/93b1c2a2d168) |
 | Tue, 12 Aug 2025 04:37:22 GMT | The Windows Process Journey — wecutil.exe (Event Collector Command Line Utility) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e2ff26b8dd74) |
 | Tue, 12 Aug 2025 04:36:44 GMT | Your Vulnerability Is Your Silent Strength | Shrushti Mehta | [Read More](https://medium.com/p/88b1b7208f70) |
 | Tue, 12 Aug 2025 04:31:28 GMT | Day5 Recon: Hacking Hidden Endpoints: How to Use Burp Suite & OWASP ZAP for Web Spidering and… | Ayush Kumar | [Read More](https://medium.com/p/2a69aa4ffd3d) |
@@ -107,9 +113,3 @@ Sensitive Information Leakage via Referrer Header in Password… | Yousef Ezzeld
 | Mon, 11 Aug 2025 20:15:03 GMT | Co-Piloting an AI Pentester to hack a Domain Controller | Daniel Knight | [Read More](https://medium.com/p/0e96773f60d9) |
 | Mon, 11 Aug 2025 20:02:46 GMT | Malware Analysis: Keylogger | Joseph A. M. | [Read More](https://medium.com/p/88477ca26009) |
 | Mon, 11 Aug 2025 19:53:16 GMT | Day 42 — IPv4 & Obfuscated Domain Detection with YARA | Jinay | [Read More](https://medium.com/p/224226553c52) |
-| Mon, 11 Aug 2025 19:51:58 GMT | Portswigger Essential-skills Labs — Practitioner | Mike (sl0th0x87) | [Read More](https://medium.com/p/5387e5896eab) |
-| Mon, 11 Aug 2025 19:49:50 GMT | Geoeconomic fragmentation makes managing global risks like climate, cyber, and pandemic risks | Oleg Parashchak | [Read More](https://medium.com/p/7fa5053bb27d) |
-| Mon, 11 Aug 2025 19:49:31 GMT | NETWORK ENUMERATION — NMAP | PARADOX | [Read More](https://medium.com/p/6018ef8a7556) |
-| Mon, 11 Aug 2025 19:38:34 GMT | 9. Why People Respect You More When You’re Honest, Not Perfect | Roj Ink | [Read More](https://medium.com/p/e9e3baab8116) |
-| Mon, 11 Aug 2025 19:37:55 GMT | Building a Honeypot in Microsoft Azure and Tracking Attacks via Geolocation | Cell | [Read More](https://medium.com/p/f99c533b62b0) |
-| Mon, 11 Aug 2025 19:33:11 GMT | AlexLab, LNDFi, MBU: $12M Lost to Access Flaws, Insider Keys, and Decimal Drift | Olympix | [Read More](https://medium.com/p/9a1c7cb34bf1) |
