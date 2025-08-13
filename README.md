@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 16:44:39 GMT | The Best Alternatives to Intelx.io | Appsec.pt | [Read More](https://medium.com/p/f1c469e23fb1) |
+| Wed, 13 Aug 2025 16:40:16 GMT | Understanding and Creating Firewall Rules in pfSense | Allen Ace | [Read More](https://medium.com/p/c6c943ed195c) |
+| Wed, 13 Aug 2025 16:37:58 GMT | How I Use Perplexity for Bug Bounty Recon (and Squeeze Every Last Drop Out of It) | SAEED | [Read More](https://medium.com/p/a7061842a77f) |
+| Wed, 13 Aug 2025 16:37:48 GMT | How to Build Your Own AI-Powered Threat Detection Tool (Python + TensorFlow) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/bed3363666cb) |
+| Wed, 13 Aug 2025 16:35:31 GMT | TeaOnHer Is the Latest in the Tea Wars | Franky Arriola | [Read More](https://medium.com/p/acaf546cf27f) |
+| Wed, 13 Aug 2025 16:29:25 GMT | iPhone Trick Became the Ultimate Cheating Detector | Stanley K. Wilson | [Read More](https://medium.com/p/76082cd3e696) |
+| Wed, 13 Aug 2025 16:26:37 GMT | How Tech Companies Hack Your Brain | Isla Hendricks | [Read More](https://medium.com/p/da42aa56598b) |
+| Wed, 13 Aug 2025 16:17:37 GMT | Who We Are — Hello Future Technologies (Private) Limited | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/ea9fe1a8ea4a) |
+| Wed, 13 Aug 2025 16:16:26 GMT | From GeoGuessr to Real-World Investigations: Mastering the Tools of Digital Sleuthing | Ahmad Naufal Ramadan | [Read More](https://medium.com/p/491d9e5e6abc) |
+| Wed, 13 Aug 2025 16:15:20 GMT | I LOST CRYPTO. HOW CAN I RECOVER IT? GO THROUGH OPTIMISTIC HACKER GAIUS | Danielwilliam | [Read More](https://medium.com/p/4e579f36ad8c) |
+| Wed, 13 Aug 2025 16:13:37 GMT | The Silent Battle Against Cyber Threats | Token: Next-Generation, Phishing-Proof MFA | [Read More](https://medium.com/p/108d74305665) |
 | Wed, 13 Aug 2025 16:11:04 GMT | Disinformation: A Persistent Threat in the Digital Environment | Khalig Hesenov | [Read More](https://medium.com/p/532e1c6cf0a2) |
 | Wed, 13 Aug 2025 16:10:48 GMT | How a 2015 Dahua Port Scan Became a Zero-Day Time Capsule | hacker_might | [Read More](https://medium.com/p/1f9142420e5a) |
 | Wed, 13 Aug 2025 16:09:01 GMT | Mastering NTFS Forensics: A Comprehensive Guide for Practitioners | Thakur Ashutosh | [Read More](https://medium.com/p/1236618f0d49) |
@@ -102,14 +113,3 @@ A few years ago, a term… | Jose Saucedo | [Read More](https://medium.com/p/810
 | Wed, 13 Aug 2025 13:01:38 GMT | OSINT: Geolocation Intelligence | Mufid Fata Rifki | [Read More](https://medium.com/p/612602222bf0) |
 | Wed, 13 Aug 2025 12:59:18 GMT | Penetration Testing: Conducting & Reporting | Fahad Malik | [Read More](https://medium.com/p/9dfbf19a467f) |
 | Wed, 13 Aug 2025 12:56:31 GMT | 3 Big AI Risks — and How Platform Engineering Can Help | Gareth Brown | [Read More](https://medium.com/p/2b7b77456eb5) |
-| Wed, 13 Aug 2025 12:47:30 GMT | Implementation of Check Point Deep Discovery Analyzer (DDAN) | Rahul Singh | [Read More](https://medium.com/p/7dd4973b6b5e) |
-| Wed, 13 Aug 2025 12:40:19 GMT | Best Cloud Telephony Service Provider In India | Ashutosh Mallik | [Read More](https://medium.com/p/70705508ef88) |
-| Wed, 13 Aug 2025 12:37:58 GMT | Secure Your Data: A Practical Guide to Encryption with Java | Umesh Kumar Yadav | [Read More](https://medium.com/p/2edec5687022) |
-| Wed, 13 Aug 2025 12:34:30 GMT | Why “Quiet” Cyberattacks Are the Ones Keeping Experts Up at Night | Dhruvdeep Singh | [Read More](https://medium.com/p/32144c7cba56) |
-| Wed, 13 Aug 2025 12:31:58 GMT | How Cloudflare Serves 45 Million Requests per Second Without Breaking a Sweat | Observability Guy | [Read More](https://medium.com/p/ee8cbfa66e12) |
-| Wed, 13 Aug 2025 12:27:28 GMT | The Quiet Walls Men Build Around Their Own Pain | Dhruvdeep Singh | [Read More](https://medium.com/p/4cb584debb35) |
-| Wed, 13 Aug 2025 12:24:06 GMT | Boost Efficiency with Offshore Software Development Services | inoday consultancy services | [Read More](https://medium.com/p/ff3eb2d7165a) |
-| Wed, 13 Aug 2025 12:22:10 GMT | When Trust Has Been Broken, Openness Feels Like Risk | Daniel Olagunju | [Read More](https://medium.com/p/0e717a14cffd) |
-| Wed, 13 Aug 2025 12:20:31 GMT | SMT Program 2025 — Special Lecture 1 Journal | Mjibrahim | [Read More](https://medium.com/p/3c3b68045670) |
-| Wed, 13 Aug 2025 12:19:45 GMT | Mastering Blind & Error-Based SQL Injection: My Hands-On Journey with PortSwigger Labs | Chandra Kamal Singh | [Read More](https://medium.com/p/8183970180fb) |
-| Wed, 13 Aug 2025 12:18:19 GMT | Master the Digital Defense: Ethical Hacking Training & Cybersecurity Course in Trivandrum | Athiresh | [Read More](https://medium.com/p/ad349bd97e75) |
