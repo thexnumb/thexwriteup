@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 15:14:11 GMT | Screenshot & Screen Recording Protection in UIKit: A Production‑Ready Pattern | Eren Ali Koca | [Read More](https://medium.com/p/39616f444826) |
+| Wed, 13 Aug 2025 15:13:38 GMT | Nepse AI Scam: How a Single App Emptied Bank Accounts Across Nepal | Subigya Ghimire | [Read More](https://medium.com/p/8e62de8e063c) |
+| Wed, 13 Aug 2025 15:13:09 GMT | How I get $ 1,000 and You Can Get it using Rate Limit on OTP | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/b770c2c1a9f2) |
+| Wed, 13 Aug 2025 15:12:19 GMT | 8 ChatGPT Prompts That Could Change Your Life | Vijay Kumar Gupta | [Read More](https://medium.com/p/30dcd6a64a52) |
+| Wed, 13 Aug 2025 15:03:42 GMT | “Network Nedir?” Diye Sormuştum… Sonra Bir Baktım, OSI Katmanlarındayım! | Mehmet Ali | [Read More](https://medium.com/p/d771a4f7f074) |
+| Wed, 13 Aug 2025 15:01:48 GMT | How to Create a Safe Environment for Digital Investigations | Ingvar Pavlovich | [Read More](https://medium.com/p/54594bc828c4) |
+| Wed, 13 Aug 2025 14:59:49 GMT | “Day 10: Defending the Digital Gateway — A White Hat’s Exploration of Chrome’s Security… | Aman Sharma | [Read More](https://medium.com/p/e5f217177104) |
+| Wed, 13 Aug 2025 14:59:37 GMT | Azure Linux: CVEs & Dashboard: Making Vulnerability Management Smarter | Farha Kareem | [Read More](https://medium.com/p/87f5336ef816) |
+| Wed, 13 Aug 2025 14:55:01 GMT | The Hidden Constitution of Cyberspace: How AI Will Rewrite the Rules of Freedom, Security, and… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/74b3c43da481) |
+| Wed, 13 Aug 2025 14:54:49 GMT | Securing Amazon EKS: An OSI Layer-by-Layer Breakdown (In Plain English) | Oladele | [Read More](https://medium.com/p/698abed0d44b) |
+| Wed, 13 Aug 2025 14:54:17 GMT | Detecting Multi-Layer Phishing in Real Time: Queries and Tools You Can Use | Rue | [Read More](https://medium.com/p/c109e1179ef3) |
+| Wed, 13 Aug 2025 14:50:19 GMT | 5 Clever Password Tricks Hackers Hate (and Normal People Can Actually Use) | Patrick Loh | [Read More](https://medium.com/p/4207a10ac1c2) |
+| Wed, 13 Aug 2025 14:47:35 GMT | SecuMS and Omniguard — Integrated Solutions for Enterprise IT Security | Muhammad Rifki Bariq | [Read More](https://medium.com/p/aad874b270c1) |
+| Wed, 13 Aug 2025 14:47:30 GMT | AI-powered Email Security: Combating Phishing with Natural Language Processing | Cloud4C Services | [Read More](https://medium.com/p/495e85f6913a) |
+| Wed, 13 Aug 2025 14:44:33 GMT | Can Security Actually Help Your Manufacturing Business Grow? | Luke Appleby | [Read More](https://medium.com/p/6195f2e97bfc) |
+| Wed, 13 Aug 2025 14:44:14 GMT | Modern-Day Cyber Threats, Infostealers, Ransomware-as-a-Service, and Zero Trust Strategy | Muhammad Rifki Bariq | [Read More](https://medium.com/p/54ac27daa041) |
 | Wed, 13 Aug 2025 14:43:32 GMT | The First to Go: Why IT Always Gets Cut First — and Why That’s a Mistake
 A few years ago, a term… | Jose Saucedo | [Read More](https://medium.com/p/810aa1c8b724) |
 | Wed, 13 Aug 2025 14:43:28 GMT | Scattered Spider’s New Telegram Channel Exposes Victims and Signals a Dangerous Alliance | David SEHYEON Baek | [Read More](https://medium.com/p/d2a66f99970e) |
@@ -97,19 +113,3 @@ A few years ago, a term… | Jose Saucedo | [Read More](https://medium.com/p/810
 | Wed, 13 Aug 2025 11:03:20 GMT | The Vulnerabilities You Walk Past | Anupamsharma | [Read More](https://medium.com/p/3106064fcd0c) |
 | Wed, 13 Aug 2025 11:01:28 GMT | Build Your Future in Tech with a Diploma of Information Technology | royalinternational | [Read More](https://medium.com/p/af40c3ab69f2) |
 | Wed, 13 Aug 2025 11:01:15 GMT | Chrome 139: a deep-dive on new platform features, privacy hardening, security fixes, and enterprise… | Easy2Patch | [Read More](https://medium.com/p/c3b4155048b4) |
-| Wed, 13 Aug 2025 10:58:54 GMT | Complete Guide to Download Gmail Emails with Attachments in EMLX for Apple Mail | Alexis Matthew | [Read More](https://medium.com/p/906ebb9285dd) |
-| Wed, 13 Aug 2025 10:54:31 GMT | 2FA broken logic (Business logic Vuln.) | Gumn4m1 | [Read More](https://medium.com/p/8bf6cbc68019) |
-| Wed, 13 Aug 2025 10:52:48 GMT | Top 7 Cybersecurity Expert Companies Fighting Against Digital Crime | SecureSlate | [Read More](https://medium.com/p/f3f8615a2b72) |
-| Wed, 13 Aug 2025 10:51:45 GMT | Reliable Managed Data Center Services In India - Net Access | Anbarasans | [Read More](https://medium.com/p/8b8954bc17df) |
-| Wed, 13 Aug 2025 10:49:52 GMT | Modern IT Solutions: Transforming Business Operations | Noahlucas | [Read More](https://medium.com/p/32e81688588f) |
-| Wed, 13 Aug 2025 10:47:02 GMT | Vibe Coding: The Fast Lane to Fragile Futures | Namir Sagheenanajar | [Read More](https://medium.com/p/ad7d46788648) |
-| Wed, 13 Aug 2025 10:45:08 GMT | How I Built an Active Directory Home Lab for Security Hardening & Penetration Testing | Martin Yordanov | [Read More](https://medium.com/p/335f526882ca) |
-| Wed, 13 Aug 2025 10:44:22 GMT | When the Locks Click Shut: Ransomware’s Relentless Push in Malaysia | Pentestjunkie07 | [Read More](https://medium.com/p/e5a9020e92d3) |
-| Wed, 13 Aug 2025 10:41:53 GMT | Cycnea-1 Campaign | Cybercure | [Read More](https://medium.com/p/8b9d893f5054) |
-| Wed, 13 Aug 2025 10:33:43 GMT | Surveillance You Can Trust — Quva India | Quva India | [Read More](https://medium.com/p/cb479819a523) |
-| Wed, 13 Aug 2025 10:32:13 GMT | Access Control Systems vs Physical Guards: Which Offers Smarter Business Security in 2025? | sweetydahiyaa146 | [Read More](https://medium.com/p/ceb1329f48eb) |
-| Wed, 13 Aug 2025 10:28:08 GMT | Swhizz Technologies — Your Gateway to IT Career Excellence | Satya | [Read More](https://medium.com/p/f7494288542d) |
-| Wed, 13 Aug 2025 10:27:37 GMT | North America Digital Scent Technology Market Growth Analysis 2034 | David Jean | [Read More](https://medium.com/p/13389fe51279) |
-| Wed, 13 Aug 2025 10:20:38 GMT | CyberTalents: Escalate writeup - by Dargham Ali | Dargham | [Read More](https://medium.com/p/f6e71fb87c6b) |
-| Wed, 13 Aug 2025 10:15:50 GMT | How Multiple Devices Share the Same Public IP Without Getting Confused | Sutharsan | [Read More](https://medium.com/p/c34c45141529) |
-| Wed, 13 Aug 2025 10:11:00 GMT | AWS VPC & IP Address Secrets: What Every Engineer Must Know in 2025 | Ismail Kovvuru | [Read More](https://medium.com/p/8166818d3589) |
