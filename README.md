@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 10:45:08 GMT | How I Built an Active Directory Home Lab for Security Hardening & Penetration Testing | Martin Yordanov | [Read More](https://medium.com/p/335f526882ca) |
+| Wed, 13 Aug 2025 10:32:13 GMT | Access Control Systems vs Physical Guards: Which Offers Smarter Business Security in 2025? | sweetydahiyaa146 | [Read More](https://medium.com/p/ceb1329f48eb) |
+| Wed, 13 Aug 2025 10:28:08 GMT | Swhizz Technologies — Your Gateway to IT Career Excellence | Satya | [Read More](https://medium.com/p/f7494288542d) |
+| Wed, 13 Aug 2025 10:27:37 GMT | North America Digital Scent Technology Market Growth Analysis 2034 | David Jean | [Read More](https://medium.com/p/13389fe51279) |
+| Wed, 13 Aug 2025 10:20:38 GMT | CyberTalents: Escalate writeup - by Dargham Ali | Dargham | [Read More](https://medium.com/p/f6e71fb87c6b) |
 | Wed, 13 Aug 2025 10:15:50 GMT | How Multiple Devices Share the Same Public IP Without Getting Confused | Sutharsan | [Read More](https://medium.com/p/c34c45141529) |
 | Wed, 13 Aug 2025 10:11:00 GMT | AWS VPC & IP Address Secrets: What Every Engineer Must Know in 2025 | Ismail Kovvuru | [Read More](https://medium.com/p/8166818d3589) |
 | Wed, 13 Aug 2025 10:08:59 GMT | 16 Billion credentials leaked — Could poor Risk Management strategies be at fault | Cisogenemarketing | [Read More](https://medium.com/p/7fffefbf4a9d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 05:11:42 GMT | PicoCTF 2025: SSTI1 — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/56b85a7a347f) |
 | Wed, 13 Aug 2025 05:09:13 GMT | Cyber Security Meets DevOps: Why These Skills Go Hand-in-Hand for Modern Professionals | Umairbaig | [Read More](https://medium.com/p/e5e472bcce3e) |
 | Wed, 13 Aug 2025 05:05:12 GMT | Passwords Are Dying: How Tech Giants Are Pushing for Stronger, Safer Login Methods | Tarush Sharma | [Read More](https://medium.com/p/1b2a89715061) |
-| Wed, 13 Aug 2025 05:04:11 GMT | Why Your Login Needs a Detective, Not Just a Password | Hanan S. | [Read More](https://medium.com/p/f3f05baccf9f) |
-| Wed, 13 Aug 2025 05:02:01 GMT | Beyond the Search Bar: How OSINT Transforms Public Data into Powerful Intelligence | Gerti Armanda Sembiring | [Read More](https://medium.com/p/014c7eb18e0d) |
-| Wed, 13 Aug 2025 05:01:39 GMT | 10 Networking Basics Every Cybersecurity Professional Should Known and Understand | Raymond Ebonine | [Read More](https://medium.com/p/7ea31eecdd06) |
-| Wed, 13 Aug 2025 04:55:58 GMT | How Does an IP Address Scanner Work | AssetLoom | [Read More](https://medium.com/p/81c89ff45b0d) |
-| Wed, 13 Aug 2025 04:55:34 GMT | yenepoya dental diary | Moosa adnan | [Read More](https://medium.com/p/1fd0a94f3cbe) |
