@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 20:31:43 GMT | The Bug That Survived Three Code Reviews and a QA Cycle | BugsyBits | [Read More](https://medium.com/p/d1ceb71ce19f) |
+| Wed, 13 Aug 2025 20:31:14 GMT | IDOR in Invitation Flow Leads to Denial of Signup and Account Manipulation | Mahmoud Gamal | [Read More](https://medium.com/p/98c51e0dd942) |
+| Wed, 13 Aug 2025 20:27:39 GMT | DeepSeek, The Shifting AI Landscape, and Global Tensions | Raga Gourineni | [Read More](https://medium.com/p/c3e15580df54) |
 | Wed, 13 Aug 2025 20:19:44 GMT | The Ultimate Ethical Hacking Workstation: Engineering the Perfect Cyber Security Daily Driver | Christopher Neuwirth | [Read More](https://medium.com/p/963ec3e1d79c) |
 | Wed, 13 Aug 2025 20:15:04 GMT | The Pain That Made Me Start Over | Mike | [Read More](https://medium.com/p/b99fee8195de) |
 | Wed, 13 Aug 2025 20:14:12 GMT | OWASP Agentic AI CTF — FinBot DEMO: Goal Manipulation | Aditya Bhatt | [Read More](https://medium.com/p/ad377406e1a7) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 15:56:05 GMT | The 10-second step hackers don’t want you to know | Online Safety Zone | [Read More](https://medium.com/p/bc96a242c65b) |
 | Wed, 13 Aug 2025 15:55:00 GMT | OSINT: The Art of Intelligence Without Intrusion — A Deep Dive into Modern Open Source Intelligence | [099YTZ] YENNI THERESIA ZALUKHU | [Read More](https://medium.com/p/dccf20e4004f) |
 | Wed, 13 Aug 2025 15:53:23 GMT | Phishing Selectivo: Un Ataque que Solo Roba Credenciales Válidas | Luis Angel Ramirez Mendoza | [Read More](https://medium.com/p/72d5df31dde4) |
-| Wed, 13 Aug 2025 15:51:26 GMT | What are Ports Anyway? | Shreyanth Suresh Krishnaa | [Read More](https://medium.com/p/f8c293786a62) |
-| Wed, 13 Aug 2025 15:47:13 GMT | Improving IT Infrastructure Security with SecuMS & Omniguard | Wilman Saragih Sitio | [Read More](https://medium.com/p/722b8020a24b) |
-| Wed, 13 Aug 2025 15:43:45 GMT | We’re All Tired of Performing | Lina wilde | [Read More](https://medium.com/p/145bfa6c231f) |
