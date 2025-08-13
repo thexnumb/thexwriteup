@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 13:31:57 GMT | Top Features to Look for in a File Uploading Site | Idera Dev Tools | [Read More](https://medium.com/p/a6b60c2bc368) |
+| Wed, 13 Aug 2025 13:17:12 GMT | Is Private Mode Truly Private? | Shreem Kanungo | [Read More](https://medium.com/p/712ec6a815b9) |
+| Wed, 13 Aug 2025 13:15:17 GMT | SMT Program 2025 Journal — Special Lecture 1 | Fathurrahman Nasution | [Read More](https://medium.com/p/264c3cab63e7) |
+| Wed, 13 Aug 2025 13:14:53 GMT | Little Red Riding Hood is a Cybersecurity Story | Ash Noor | [Read More](https://medium.com/p/f8078023d1b4) |
+| Wed, 13 Aug 2025 13:14:30 GMT | How to Find Any Information Using Google Dorking in 2025 | Shahzaib | [Read More](https://medium.com/p/3e98faaa49f2) |
+| Wed, 13 Aug 2025 13:13:22 GMT | Perfectly Compliant and Totally Screwed | jb | [Read More](https://medium.com/p/4b0b215f81f5) |
+| Wed, 13 Aug 2025 13:11:49 GMT | CCE-based System Security Vulnerability Assessment and Management Solution (SecuMS) | Fidelya | [Read More](https://medium.com/p/b288014fbd4a) |
+| Wed, 13 Aug 2025 13:08:57 GMT | Mixed auth set up with Kinde for B2B and B2C | Alex | [Read More](https://medium.com/p/c5cddef3269d) |
+| Wed, 13 Aug 2025 13:06:44 GMT | Why Smart Businesses Are Switching to Managed IT Services | BuzzClan | [Read More](https://medium.com/p/3cb0c9ae9965) |
+| Wed, 13 Aug 2025 13:06:37 GMT | The Cybersecurity Game Has Changed, AI Is Holding the Cards. | EphraimGsec | [Read More](https://medium.com/p/83dd634eabd5) |
+| Wed, 13 Aug 2025 13:06:34 GMT | I Turned One Recon Trick Into $3,350 | Ibtissam hammadi | [Read More](https://medium.com/p/07ce80e7e8df) |
+| Wed, 13 Aug 2025 13:04:56 GMT | Your “Everyone” Problem: Exposing Share Access at Scale | Moritz Rauch | [Read More](https://medium.com/p/740a20c2284f) |
+| Wed, 13 Aug 2025 13:03:20 GMT | ️ Installation and Management of Linux-Based IDS/IPS Systems | Esra Kayhan | [Read More](https://medium.com/p/01473e2a1179) |
+| Wed, 13 Aug 2025 13:01:38 GMT | OSINT: Geolocation Intelligence | Mufid Fata Rifki | [Read More](https://medium.com/p/612602222bf0) |
+| Wed, 13 Aug 2025 12:59:18 GMT | Penetration Testing: Conducting & Reporting | Fahad Malik | [Read More](https://medium.com/p/9dfbf19a467f) |
+| Wed, 13 Aug 2025 12:56:31 GMT | 3 Big AI Risks — and How Platform Engineering Can Help | Gareth Brown | [Read More](https://medium.com/p/2b7b77456eb5) |
 | Wed, 13 Aug 2025 12:47:30 GMT | Implementation of Check Point Deep Discovery Analyzer (DDAN) | Rahul Singh | [Read More](https://medium.com/p/7dd4973b6b5e) |
 | Wed, 13 Aug 2025 12:40:19 GMT | Best Cloud Telephony Service Provider In India | Ashutosh Mallik | [Read More](https://medium.com/p/70705508ef88) |
 | Wed, 13 Aug 2025 12:37:58 GMT | Secure Your Data: A Practical Guide to Encryption with Java | Umesh Kumar Yadav | [Read More](https://medium.com/p/2edec5687022) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 09:00:57 GMT | Scott Brammer: Cybersecurity Leadership in the AI Era | The Executive Outlook | [Read More](https://medium.com/p/dfa363cfdab9) |
 | Wed, 13 Aug 2025 08:55:08 GMT | Authentication Bypass | Yogesh Mishra | [Read More](https://medium.com/p/e67507e38148) |
 | Wed, 13 Aug 2025 08:53:56 GMT | How to Survive Production Fires Like a Senior: Systems Explained | techWithNeer | [Read More](https://medium.com/p/dea60bc81c00) |
-| Wed, 13 Aug 2025 08:53:16 GMT | Cybersecurity in the MACH era: Navigating the AI & Agent shift | Vikas Prabhu | [Read More](https://medium.com/p/7c7884be04bf) |
-| Wed, 13 Aug 2025 08:51:14 GMT | What Is IT/OT Convergence? | Stellar Cyber | [Read More](https://medium.com/p/1b94b57bda76) |
-| Wed, 13 Aug 2025 08:30:51 GMT | “The CISO Mindset Shift: From Risk Defender to Business Accelerator in the Age of AI” | Dr. Deep Pandey | [Read More](https://medium.com/p/2957690f9308) |
-| Wed, 13 Aug 2025 08:30:15 GMT | EDR Killer in the Kill Chain | Nomit Vyas | [Read More](https://medium.com/p/5db7b54e1cc6) |
-| Wed, 13 Aug 2025 08:29:08 GMT | Database Breach - Hire Hacker | BlackHat | [Read More](https://medium.com/p/00522c984a21) |
-| Wed, 13 Aug 2025 08:26:03 GMT | How to Write PHP Middleware That Thinks Like a Firewall | Asian Digital Hub | [Read More](https://medium.com/p/40ef1bf385a3) |
-| Wed, 13 Aug 2025 08:21:43 GMT | Hijacking the Pipeline: Mastering HTTP Desync Exploits | Dedrknex | [Read More](https://medium.com/p/532faf98dbbe) |
-| Wed, 13 Aug 2025 08:16:20 GMT | How to Learn Cybersecurity from Scratch in 2025? | cyber security Updates | [Read More](https://medium.com/p/904f64852917) |
-| Wed, 13 Aug 2025 08:15:30 GMT | Cybersecurity: Emerging Threats and Practical Safety Measures | Dipayan Ghosh | [Read More](https://medium.com/p/56f70915d712) |
-| Wed, 13 Aug 2025 08:14:16 GMT | Disclose the Agent — LetsDefend Challenge | Atlas Security | [Read More](https://medium.com/p/71b9d168b88d) |
-| Wed, 13 Aug 2025 08:13:49 GMT | Event Security Services: What They Are and When You Need Them | Jane Tang | [Read More](https://medium.com/p/0509bb6eaa28) |
-| Wed, 13 Aug 2025 08:13:15 GMT | Cyber Security in 2025: How to Stay Safe from Hackers and Online Threats” | Cyberfortress solutions | [Read More](https://medium.com/p/175caf6ba7c7) |
-| Wed, 13 Aug 2025 08:13:07 GMT | Dav Writeup: From WebDAV to Root | Abdul Ahad | [Read More](https://medium.com/p/526d067230b6) |
-| Wed, 13 Aug 2025 08:12:01 GMT | UNMASKING THE QA ANALYST: THE EVOLVING ARCHITECTS OF DIGITAL QUALITY | Anthony Hallasan Sibarani | [Read More](https://medium.com/p/f4792fde1a01) |
-| Wed, 13 Aug 2025 08:09:15 GMT | Real-Time CCTV Monitoring: What It Means and Why It Matters | Jane Tang | [Read More](https://medium.com/p/2fbad5f8eaba) |
-| Wed, 13 Aug 2025 08:07:41 GMT | Hijacking the Pipeline: Mastering HTTP Desync Exploits | Dedrknex | [Read More](https://medium.com/p/5c0eadc7189d) |
