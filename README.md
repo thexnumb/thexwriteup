@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 23:11:25 GMT | Zero Trust Security: A New Era of Cyber Protection | Raviteja Mureboina | [Read More](https://medium.com/p/494dcfdac836) |
+| Wed, 13 Aug 2025 23:00:39 GMT | Stop Guessing — Here’s How to Quietly See Your Partner’s Messages From Your Own Phone | Stanley K. Wilson | [Read More](https://medium.com/p/69cb90e85d42) |
+| Wed, 13 Aug 2025 22:54:59 GMT | Security in Swift: A Practical Guide for iOS Developers (2025) | Mustafa Bekirov | [Read More](https://medium.com/p/a763e3efde48) |
+| Wed, 13 Aug 2025 22:46:13 GMT | The 6 Stages of Threat Intelligence (TI) — With Real-World Examples | Nima Bargestan | [Read More](https://medium.com/p/842ac379563e) |
+| Wed, 13 Aug 2025 22:41:36 GMT | Practical Cybersecurity Checklist for 2025: Is Your Business Prepared? | Reyes Vera | [Read More](https://medium.com/p/8511cb1b4a11) |
+| Wed, 13 Aug 2025 22:40:16 GMT | Why Aren’t Banks Held Accountable for Mishandling Client Information? | Bilqees Khan | [Read More](https://medium.com/p/8d02a58f532b) |
 | Wed, 13 Aug 2025 22:29:34 GMT | My success with upgrading Kali Linux to Kali Purple & my failure trying to install the Wazuh… | Bob Malin | [Read More](https://medium.com/p/493436100850) |
 | Wed, 13 Aug 2025 22:17:04 GMT | Protecting Against Insider Data Exfiltration via API | Karthikeyan Nagaraj | [Read More](https://medium.com/p/05115b3a7d37) |
 | Wed, 13 Aug 2025 22:01:45 GMT | The Dopamine Hangover | the girl is a gun | [Read More](https://medium.com/p/992d663fbcba) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 17:01:40 GMT | 501 — Information Security Management Standard (ISO/IEC 27001)(EN) | Atakan Bitim | [Read More](https://medium.com/p/904533563b0f) |
 | Wed, 13 Aug 2025 17:01:38 GMT | 501 — Information Security Management Standard (ISO/IEC 27001)(TR) | Atakan Bitim | [Read More](https://medium.com/p/8543f3c0558f) |
 | Wed, 13 Aug 2025 16:59:05 GMT | Navigating SEC Disclosures: Director and Executive Officer Information | SEC Lawyer 101 | [Read More](https://medium.com/p/3bb1b4335e43) |
-| Wed, 13 Aug 2025 16:53:29 GMT | Timeline of XZ Utils Backdoor Compromised Docker Images (2024–2025) | gm0 | [Read More](https://medium.com/p/2821a454df30) |
-| Wed, 13 Aug 2025 16:52:45 GMT | Your Deleted Data Can Come Back to Haunt You! | Your's Nightmare | [Read More](https://medium.com/p/7a6d88b3d448) |
-| Wed, 13 Aug 2025 16:52:31 GMT | Can You Get Hacked by Watching a Video? | Your's Nightmare | [Read More](https://medium.com/p/f3ec0af075bc) |
-| Wed, 13 Aug 2025 16:49:17 GMT | How do I see my cheating partner’s hidden chats? | Stanley K. Wilson | [Read More](https://medium.com/p/319a5eac3f00) |
-| Wed, 13 Aug 2025 16:47:23 GMT | XZ Utils Backdoor Resurfaces in Docker Hub Images | gm0 | [Read More](https://medium.com/p/c2ff0781f636) |
-| Wed, 13 Aug 2025 16:45:59 GMT | ️ Building Your Own Cybersecurity Lab at Home: The Complete Guide | Parth Patel | [Read More](https://medium.com/p/f3ec1cab6917) |
