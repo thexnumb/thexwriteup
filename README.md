@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 14:08:44 GMT | Strengthening Operational Resilience: Managing Third-Party Data Risks for Faster Recovery and… | marcus evans online events | [Read More](https://medium.com/p/051ef21fa1b4) |
+| Wed, 13 Aug 2025 14:02:09 GMT | The Future of Cybersecurity Consulting | abdeldayemnour | [Read More](https://medium.com/p/9559e0c5cea6) |
+| Wed, 13 Aug 2025 14:02:05 GMT | Cyber Briefing: 2025.08.13 | CyberMaterial | [Read More](https://medium.com/p/393a3e9e92fe) |
+| Wed, 13 Aug 2025 14:00:17 GMT | Windows’ta Syscall ve Native API Kullanımının Derinlemesine Analizi | Mehmet Sancaktaroğlu | [Read More](https://medium.com/p/6df57991b66c) |
+| Wed, 13 Aug 2025 13:51:01 GMT | Out of Sight, Out of Control: The Risk of Shadow IT in Growing Businesses | CoopSys | [Read More](https://medium.com/p/823cce55997b) |
+| Wed, 13 Aug 2025 13:34:16 GMT | [TryHackMe] Diskrupt Walktrough | Kuba Herka | [Read More](https://medium.com/p/859a3ea749ae) |
+| Wed, 13 Aug 2025 13:33:16 GMT | OSINT: Knowing Without Breaching | Fidelya | [Read More](https://medium.com/p/962c8feaf04a) |
 | Wed, 13 Aug 2025 13:31:57 GMT | Top Features to Look for in a File Uploading Site | Idera Dev Tools | [Read More](https://medium.com/p/a6b60c2bc368) |
+| Wed, 13 Aug 2025 13:28:23 GMT | Breach-Centric Security: Why Behavior Beats Signatures — and How to Build Cyber Resilience | Agung Vivekananda | [Read More](https://medium.com/p/43dc66f6a9a2) |
+| Wed, 13 Aug 2025 13:25:41 GMT | Level Up Your Business: Why Cyber Threat Intelligence (CTI) Will Be Your Secret Weapon in 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/a02db1335b8f) |
 | Wed, 13 Aug 2025 13:17:12 GMT | Is Private Mode Truly Private? | Shreem Kanungo | [Read More](https://medium.com/p/712ec6a815b9) |
 | Wed, 13 Aug 2025 13:15:17 GMT | SMT Program 2025 Journal — Special Lecture 1 | Fathurrahman Nasution | [Read More](https://medium.com/p/264c3cab63e7) |
 | Wed, 13 Aug 2025 13:14:53 GMT | Little Red Riding Hood is a Cybersecurity Story | Ash Noor | [Read More](https://medium.com/p/f8078023d1b4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 09:24:22 GMT | Top 5 Future-Demanding Courses to Boost Your Career with GRAStech | GRAStech | [Read More](https://medium.com/p/7a35b5623530) |
 | Wed, 13 Aug 2025 09:20:50 GMT | How to Chain Bugs Like a Pro (From P5 to P1) | Viratavi | [Read More](https://medium.com/p/0cddd902c8e3) |
 | Wed, 13 Aug 2025 09:15:55 GMT | The Art of Being a Work in Progress | Kishita Jain | [Read More](https://medium.com/p/91fe2f8f5756) |
-| Wed, 13 Aug 2025 09:15:25 GMT | How to Set Up SafeLine WAF on a Standalone Server for Maximum Security | Quella | [Read More](https://medium.com/p/3c6ac6346fe2) |
-| Wed, 13 Aug 2025 09:13:56 GMT | CVE-2025–50817: Python-Future Module Arbitrary Code Execution via Unintended Import of test.py | linearity | [Read More](https://medium.com/p/f0818ea93cf4) |
-| Wed, 13 Aug 2025 09:08:57 GMT | Vulnerability Management in the Cloud: From Noise to Insight | Meronmm | [Read More](https://medium.com/p/c92e36781ee0) |
-| Wed, 13 Aug 2025 09:08:30 GMT | Understanding The NGINX Zero-Day Vulnerability: A Critical Cybersecurity Threat | Redfox Security | [Read More](https://medium.com/p/8cbb54a348e1) |
-| Wed, 13 Aug 2025 09:07:52 GMT | Time is running out for your Windows 11 upgrade! | Century Solutions Group | [Read More](https://medium.com/p/2e8262738dfc) |
-| Wed, 13 Aug 2025 09:06:41 GMT | Information Security Opportunities for Professionals in Law and Governance | Kartik Debnath | [Read More](https://medium.com/p/fc4a6f1f915f) |
-| Wed, 13 Aug 2025 09:00:57 GMT | Scott Brammer: Cybersecurity Leadership in the AI Era | The Executive Outlook | [Read More](https://medium.com/p/dfa363cfdab9) |
-| Wed, 13 Aug 2025 08:55:08 GMT | Authentication Bypass | Yogesh Mishra | [Read More](https://medium.com/p/e67507e38148) |
-| Wed, 13 Aug 2025 08:53:56 GMT | How to Survive Production Fires Like a Senior: Systems Explained | techWithNeer | [Read More](https://medium.com/p/dea60bc81c00) |
