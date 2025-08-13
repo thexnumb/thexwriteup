@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 07:14:55 GMT | ISMAP Management Standards Chapter 16: Preparing for and Responding to Information Security… | nolly | [Read More](https://medium.com/p/37d6ca423792) |
+| Wed, 13 Aug 2025 07:13:19 GMT | FortiRecon: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c6e23d311eda) |
+| Wed, 13 Aug 2025 07:12:20 GMT | Easy Hacking with Python: Learn Ethical Hacking Step by Step | Kenny Kane | [Read More](https://medium.com/p/80386f1ca6cb) |
+| Wed, 13 Aug 2025 07:11:12 GMT | Hack The Box-Editor Walkthrough | NV | [Read More](https://medium.com/p/4692e7cdfcf6) |
+| Wed, 13 Aug 2025 07:10:50 GMT | Diving Into Nessus: Scanning Test Targets Like vulnweb.php | Saijayanth | [Read More](https://medium.com/p/d0ea8fcc5992) |
+| Wed, 13 Aug 2025 07:01:05 GMT | SMT Program Expert Lecture 2: CCE-Based Assessment and Integrated Server Security Solutions | Irsyad Fauzan Hanaf | [Read More](https://medium.com/p/eeab24a80052) |
+| Wed, 13 Aug 2025 06:53:40 GMT | eJPT Zero to Hero: Post Exploitation CTF 2 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/9ca5e3ad9b7a) |
+| Wed, 13 Aug 2025 06:53:03 GMT | OSINT: The Scientific Way to Track People (and Solve Problems) | Muhammad Rifqy | [Read More](https://medium.com/p/7ef797f98696) |
+| Wed, 13 Aug 2025 06:50:37 GMT | OSINT — Knowing Without Breaching | Khairielputra | [Read More](https://medium.com/p/37d846b7623c) |
+| Wed, 13 Aug 2025 06:48:44 GMT | API 5:2023 — Broken Function Level Authorization : Unseen Authorizations, Critical Threats | Apifort | [Read More](https://medium.com/p/f6aabfd23bf2) |
+| Wed, 13 Aug 2025 06:46:46 GMT | Scheduled Asset Scan: Functionality, Tools, and Setup Challenges | AssetLoom | [Read More](https://medium.com/p/eea54585e22c) |
+| Wed, 13 Aug 2025 06:42:33 GMT | AI (Artificial Intelligence)- FACT | Vikash Kumar Rao | [Read More](https://medium.com/p/6954105f26bc) |
+| Wed, 13 Aug 2025 06:37:38 GMT | How to Choose the Best Security Agency in Mumbai for Your Needs | Tanisha Singh | [Read More](https://medium.com/p/f172e531547b) |
+| Wed, 13 Aug 2025 06:28:38 GMT | Drosera: The Security Guard Your Ethereum Project Needs | Dayveed_ Chukz | [Read More](https://medium.com/p/fa85254d406c) |
 | Wed, 13 Aug 2025 06:27:19 GMT | The ebird3 Chronicles: When Your Calculator Gets a PhD in Cybercrime (And Why That’s Perfectly… | Lazyown Redteam | [Read More](https://medium.com/p/cc1738a3affc) |
 | Wed, 13 Aug 2025 06:19:30 GMT | How to Save Money When Buying Your Next Mobile Phone | sssma | [Read More](https://medium.com/p/6b27913a4100) |
 | Wed, 13 Aug 2025 06:17:30 GMT | Perplexity AI Shocks Tech World With $34.5B Bid for Google Chrome | The UNFILTERED Draft | [Read More](https://medium.com/p/a12821bc08db) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 23:16:49 GMT | Secure Defaults: Why They’re Not Always as Safe as You Think | Raviteja Mureboina | [Read More](https://medium.com/p/fec5b4cb925a) |
 | Tue, 12 Aug 2025 23:15:22 GMT | From Shodan to Securing Government Systems: BFLA + Stored XSS Write-Up | Veyron92i | [Read More](https://medium.com/p/ab3bfd4e703d) |
 | Tue, 12 Aug 2025 23:13:23 GMT | The Inheritance Trap — How Cloud Folder Structures Can Silently Expose Metadata at Scale | Haitham A. E. ISMAIEEL | [Read More](https://medium.com/p/c6716bc56ac7) |
-| Tue, 12 Aug 2025 23:02:10 GMT | Cloud AI for Cybersecurity: Defending Against Evolving Threats | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/221e184b788f) |
-| Tue, 12 Aug 2025 23:01:28 GMT | GPT-5 Jailbroken in Just 24 Hours How Echo Chamber and Storytelling Attacks Are Rewriting AI… | Aaron | [Read More](https://medium.com/p/9e9d70204946) |
-| Tue, 12 Aug 2025 22:38:51 GMT | About Me — Tochukwu Okonkwor | Tochukwu Okonkwor | [Read More](https://medium.com/p/c91d6ae095c1) |
-| Tue, 12 Aug 2025 22:30:05 GMT | CFPB Complaint Addendum — BMO’s Fabricated ADA - EFTA VIOLATIONS Narrative Demand Federal Oversight | Mr. Thurman Robinson, M.S., CFO | [Read More](https://medium.com/p/a4f2fcf455c6) |
-| Tue, 12 Aug 2025 22:12:46 GMT | Understanding Query Execution Plans in PostgreSQL: The Developer’s Guide to Database Performance | Rizqi Mulki | [Read More](https://medium.com/p/a4220617b256) |
-| Tue, 12 Aug 2025 22:12:23 GMT | Advanced PostgreSQL Partitioning Strategies That Scale to Billions of Rows | Rizqi Mulki | [Read More](https://medium.com/p/177d6cb9189d) |
-| Tue, 12 Aug 2025 22:11:14 GMT | MySQL 9.x vs PostgreSQL 17: Which is Faster? | Rizqi Mulki | [Read More](https://medium.com/p/9915918e1884) |
-| Tue, 12 Aug 2025 22:11:09 GMT | [TryHackMe] PS Eclipse Walkthrough | Kuba Herka | [Read More](https://medium.com/p/8f667ab6c491) |
-| Tue, 12 Aug 2025 22:07:10 GMT | A DevOps Engineer’s Guide to OWASP Tools for Application Security | Ronak Fabian | [Read More](https://medium.com/p/35182cb6e2c6) |
-| Tue, 12 Aug 2025 21:56:45 GMT | The Silent Threat: An Analysis of SVG-Based Phishing Attacks | AlanKaliX | [Read More](https://medium.com/p/09f1c4e07d82) |
-| Tue, 12 Aug 2025 21:55:48 GMT | Popular Hash Functions in Python (Cybersecurity) | Nube Colectiva | [Read More](https://medium.com/p/0af14f9a784b) |
-| Tue, 12 Aug 2025 21:50:32 GMT | WordPress Firewall Protection: Why Your Website Needs It and How to Get It Right | sarbdit | [Read More](https://medium.com/p/be31860c32dc) |
-| Tue, 12 Aug 2025 21:47:37 GMT | Hackers Just Found a Way to Outsmart GPT-5 | Cyber-AppSec | [Read More](https://medium.com/p/09a3ae185a64) |
-| Tue, 12 Aug 2025 21:37:46 GMT | PNPT: A CERTIFICATION THAT FELT LIKE A REAL PENTEST | Erick | [Read More](https://medium.com/p/456bae4d8988) |
