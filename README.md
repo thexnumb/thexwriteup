@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 11:34:46 GMT | The New Frontline in Digital Defense | Abdul Saboor | [Read More](https://medium.com/p/020aa2735388) |
+| Wed, 13 Aug 2025 11:34:42 GMT | In an era where cyber threats are constantly evolving, maintaining strong password security has… | Password Manager | [Read More](https://medium.com/p/f843b65c4008) |
+| Wed, 13 Aug 2025 11:31:46 GMT | When AI Gets Played: Understanding and Preventing Prompt Injection | Brittney Ginther | [Read More](https://medium.com/p/742890f7f7c5) |
+| Wed, 13 Aug 2025 11:31:45 GMT | AI Is Writing Your Code -But Is It Writing Security Flaws Too? | Dushmantha Ranathunga | [Read More](https://medium.com/p/479908cd89fe) |
+| Wed, 13 Aug 2025 11:31:30 GMT | Cyber Security London: Leading Cyber Security Company Delivering Advanced Information Security… | Paladin Cyber Security London | [Read More](https://medium.com/p/e3568e5460a5) |
+| Wed, 13 Aug 2025 11:28:05 GMT | Strengthening Cybersecurity with Minimum Viable Security (MVS) | Reghu Mohandas | [Read More](https://medium.com/p/3a49dc9362e1) |
+| Wed, 13 Aug 2025 11:25:15 GMT | High-level logic vulnerability (business logic vuln.) | Gumn4m1 | [Read More](https://medium.com/p/04e65fdc18a3) |
+| Wed, 13 Aug 2025 11:20:37 GMT | Lo-Fi - TryHackMe — Write-Up | AnIkEt GuPtA | [Read More](https://medium.com/p/66934d0cf342) |
+| Wed, 13 Aug 2025 11:20:35 GMT | Let’s Learn How to Prompt Step-by-Step | restdone | [Read More](https://medium.com/p/2d77328c9b5f) |
+| Wed, 13 Aug 2025 11:19:43 GMT | The 3-Step DefenderRabbit Protocol for Detecting Ransomware in Under 5 Minutes | DefenceRabbit | [Read More](https://medium.com/p/958fdb2daff9) |
+| Wed, 13 Aug 2025 11:19:12 GMT | Event Horizon — TryHackMe Walkthrough (Step-by-Step Guide) | Visir | [Read More](https://medium.com/p/369d95f1706e) |
+| Wed, 13 Aug 2025 11:17:12 GMT | I Learn on Finding People From a Photo. Do you know how ? | Afwan Mulia Pratama | [Read More](https://medium.com/p/e2e9cf67f8f4) |
+| Wed, 13 Aug 2025 11:17:02 GMT | How are AI and cloud transforming cybersecurity in fintech? | Cloud4C Services | [Read More](https://medium.com/p/ee5b8f6433d8) |
+| Wed, 13 Aug 2025 11:17:02 GMT | IT Project Risk & Performance Review PPT Templates: Enhance Management Visibility and… | Mark Bridges | [Read More](https://medium.com/p/58c1d294a45a) |
 | Wed, 13 Aug 2025 11:03:20 GMT | The Vulnerabilities You Walk Past | Anupamsharma | [Read More](https://medium.com/p/3106064fcd0c) |
 | Wed, 13 Aug 2025 11:01:28 GMT | Build Your Future in Tech with a Diploma of Information Technology | royalinternational | [Read More](https://medium.com/p/af40c3ab69f2) |
 | Wed, 13 Aug 2025 11:01:15 GMT | Chrome 139: a deep-dive on new platform features, privacy hardening, security fixes, and enterprise… | Easy2Patch | [Read More](https://medium.com/p/c3b4155048b4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 06:50:37 GMT | OSINT — Knowing Without Breaching | Khairielputra | [Read More](https://medium.com/p/37d846b7623c) |
 | Wed, 13 Aug 2025 06:48:44 GMT | API 5:2023 — Broken Function Level Authorization : Unseen Authorizations, Critical Threats | Apifort | [Read More](https://medium.com/p/f6aabfd23bf2) |
 | Wed, 13 Aug 2025 06:46:46 GMT | Scheduled Asset Scan: Functionality, Tools, and Setup Challenges | AssetLoom | [Read More](https://medium.com/p/eea54585e22c) |
-| Wed, 13 Aug 2025 06:42:33 GMT | AI (Artificial Intelligence)- FACT | Vikash Kumar Rao | [Read More](https://medium.com/p/6954105f26bc) |
-| Wed, 13 Aug 2025 06:37:38 GMT | How to Choose the Best Security Agency in Mumbai for Your Needs | Tanisha Singh | [Read More](https://medium.com/p/f172e531547b) |
-| Wed, 13 Aug 2025 06:28:38 GMT | Drosera: The Security Guard Your Ethereum Project Needs | Dayveed_ Chukz | [Read More](https://medium.com/p/fa85254d406c) |
-| Wed, 13 Aug 2025 06:27:19 GMT | The ebird3 Chronicles: When Your Calculator Gets a PhD in Cybercrime (And Why That’s Perfectly… | Lazyown Redteam | [Read More](https://medium.com/p/cc1738a3affc) |
-| Wed, 13 Aug 2025 06:19:30 GMT | How to Save Money When Buying Your Next Mobile Phone | sssma | [Read More](https://medium.com/p/6b27913a4100) |
-| Wed, 13 Aug 2025 06:17:30 GMT | Perplexity AI Shocks Tech World With $34.5B Bid for Google Chrome | The UNFILTERED Draft | [Read More](https://medium.com/p/a12821bc08db) |
-| Wed, 13 Aug 2025 06:15:33 GMT | Deploy Microsoft Security Copilot using Azure Bicep | Brian Veldman | [Read More](https://medium.com/p/1c59c059e17b) |
-| Wed, 13 Aug 2025 06:11:11 GMT | GPT-5 Has Arrived — And One Groundbreaking Feature Steals the Spotlight | Evelyn | [Read More](https://medium.com/p/e48b6a6c1ddd) |
-| Wed, 13 Aug 2025 06:06:20 GMT | Cybersecurity in Flux: Adapting to New and Evolving Threats | Quickway Infosystems | [Read More](https://medium.com/p/2ef5ffa9c44c) |
-| Wed, 13 Aug 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Aug 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c9aaa7ee8f23) |
-| Wed, 13 Aug 2025 05:59:17 GMT | The Wild Story of How a Website Bug Could Let Strangers Unlock Cars Anywhere | Azeeza | [Read More](https://medium.com/p/1ec09756291e) |
-| Wed, 13 Aug 2025 05:59:15 GMT | I Sniffed a Casino Feed in Vegas Using Only a Toaster, a Hair Clip, and My Phone — and Made $5,000… | Peter Tompson | [Read More](https://medium.com/p/f8ee13f4eb14) |
-| Wed, 13 Aug 2025 05:56:39 GMT | Data Parsing in SIEM | Devaaravindlutukurty | [Read More](https://medium.com/p/8b1a89c08c85) |
-| Wed, 13 Aug 2025 05:49:22 GMT | Keeping Skills and Knowledge in Your Workforce | ArcaneSorcerer | [Read More](https://medium.com/p/990d5bb1c0ab) |
