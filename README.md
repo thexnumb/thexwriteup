@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 05:45:09 GMT | TryHackMe Hammer (Medium) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/332338470183) |
+| Wed, 13 Aug 2025 05:41:17 GMT | Cybersecurity Isn’t Rocket Science: 5 Simple Mistakes That Leave You Wide Open | Rahadyan Antawirja | [Read More](https://medium.com/p/20a2ab52a7b1) |
+| Wed, 13 Aug 2025 05:38:06 GMT | Classic Stack Overflow — Sync Breeze 10.0.28 | Rizkyaditiyan | [Read More](https://medium.com/p/2bac06313702) |
+| Wed, 13 Aug 2025 05:35:30 GMT | Bug Bounty Nightmare: How A Vulnerability Disclosure Turned into Nightmare ! | DevProgramming | [Read More](https://medium.com/p/dca809fa00d6) |
+| Wed, 13 Aug 2025 05:27:55 GMT | to be vulnerable is to embrace the monster that is you | beashrooom | [Read More](https://medium.com/p/9b3adef09970) |
+| Wed, 13 Aug 2025 05:23:54 GMT | Cybersecurity for Enterprises: Protecting Digital Assets in a Connected World | Neellam Suri | [Read More](https://medium.com/p/d0fc3804059b) |
+| Wed, 13 Aug 2025 05:23:21 GMT | The Weakest Link in Cybercrime? It’s Not Your Password — It’s You. | BitScribes | [Read More](https://medium.com/p/c199b20dbe70) |
+| Wed, 13 Aug 2025 05:17:59 GMT | System Design — Access control | Amit Singh Rathore | [Read More](https://medium.com/p/6ead65a62219) |
 | Wed, 13 Aug 2025 05:11:42 GMT | PicoCTF 2025: SSTI1 — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/56b85a7a347f) |
 | Wed, 13 Aug 2025 05:09:13 GMT | Cyber Security Meets DevOps: Why These Skills Go Hand-in-Hand for Modern Professionals | Umairbaig | [Read More](https://medium.com/p/e5e472bcce3e) |
 | Wed, 13 Aug 2025 05:05:12 GMT | Passwords Are Dying: How Tech Giants Are Pushing for Stronger, Safer Login Methods | Tarush Sharma | [Read More](https://medium.com/p/1b2a89715061) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 20:58:47 GMT | Server Security, Vulnerability Assessment & Governance Solution | Gracialy | [Read More](https://medium.com/p/2b5af5971bbe) |
 | Tue, 12 Aug 2025 20:55:11 GMT | The Art of Finding Anything: My Deep Dive into OSINT - SMT Program 2025 Special Lecture 1 | Abrar Ikramaputra | [Read More](https://medium.com/p/64d7282f3f57) |
 | Tue, 12 Aug 2025 20:50:07 GMT | Metasploitable — POS Exploitation Walkthrough | AMX2 | [Read More](https://medium.com/p/1ca51aabdc56) |
-| Tue, 12 Aug 2025 20:49:24 GMT | What the 2025 Data Breaches Mean for Your Passwords | Rubin Mathews | [Read More](https://medium.com/p/30fe657948b1) |
-| Tue, 12 Aug 2025 20:45:22 GMT | GrabThePhisher Lab SOC Tier-1 Level-2 Cyber Defenders Writeup | Sandeepduseja | [Read More](https://medium.com/p/2df0a000332a) |
-| Tue, 12 Aug 2025 20:44:33 GMT | Bug Bounty Tip — Bypass Rate Limits with Race Conditions & Header Tricks | Cybersecplayground | [Read More](https://medium.com/p/a379d10dada6) |
-| Tue, 12 Aug 2025 20:44:08 GMT | From BA in English to Cybersecurity: What College Never Taught Me | Rahul Bhichher | [Read More](https://medium.com/p/6e434f4e5f79) |
-| Tue, 12 Aug 2025 20:30:36 GMT | The Cybersecurity Gospel: What I Learned Living Like a Firewall for 30 Days | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/032bbe1ae9c6) |
-| Tue, 12 Aug 2025 20:29:33 GMT | Ticketing Lab | Jafari Law | [Read More](https://medium.com/p/8c5c4b75ca6a) |
-| Tue, 12 Aug 2025 20:27:40 GMT | How a Fake Booking.com CAPTCHA Led to a Dangerous Malware Infection | MV Intelligence | [Read More](https://medium.com/p/ede236f6b535) |
-| Tue, 12 Aug 2025 20:26:27 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/2f7c0d4ebf8b) |
