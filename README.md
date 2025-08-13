@@ -12,11 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 17:08:59 GMT | We Gave Google Everything. They Couldn’t Keep It Safe.❌ | Prince Bharti | [Read More](https://medium.com/p/d6cd126d68f0) |
+| Wed, 13 Aug 2025 17:08:51 GMT | OSINT101: Why Not All ‘Stalking’ Is Worthy of OSINT | Hildan Kusto Utomo | [Read More](https://medium.com/p/59145bd36474) |
+| Wed, 13 Aug 2025 17:07:23 GMT | How to Actually Leverage the MITRE ATT&CK Framework in Security Operations | Ryan G. Cox | [Read More](https://medium.com/p/67ec59c5d788) |
+| Wed, 13 Aug 2025 17:03:29 GMT | T1595 — Active Scanning: When Hackers Go “Fishing” for Your Network | MITRE Doggy | [Read More](https://medium.com/p/da101f4f7e4a) |
+| Wed, 13 Aug 2025 17:01:40 GMT | 501 — Information Security Management Standard (ISO/IEC 27001)(EN) | Atakan Bitim | [Read More](https://medium.com/p/904533563b0f) |
+| Wed, 13 Aug 2025 17:01:38 GMT | 501 — Information Security Management Standard (ISO/IEC 27001)(TR) | Atakan Bitim | [Read More](https://medium.com/p/8543f3c0558f) |
+| Wed, 13 Aug 2025 16:59:05 GMT | Navigating SEC Disclosures: Director and Executive Officer Information | SEC Lawyer 101 | [Read More](https://medium.com/p/3bb1b4335e43) |
+| Wed, 13 Aug 2025 16:53:29 GMT | Timeline of XZ Utils Backdoor Compromised Docker Images (2024–2025) | gm0 | [Read More](https://medium.com/p/2821a454df30) |
+| Wed, 13 Aug 2025 16:52:45 GMT | Your Deleted Data Can Come Back to Haunt You! | Your's Nightmare | [Read More](https://medium.com/p/7a6d88b3d448) |
+| Wed, 13 Aug 2025 16:52:31 GMT | Can You Get Hacked by Watching a Video? | Your's Nightmare | [Read More](https://medium.com/p/f3ec0af075bc) |
+| Wed, 13 Aug 2025 16:49:17 GMT | How do I see my cheating partner’s hidden chats? | Stanley K. Wilson | [Read More](https://medium.com/p/319a5eac3f00) |
+| Wed, 13 Aug 2025 16:47:23 GMT | XZ Utils Backdoor Resurfaces in Docker Hub Images | gm0 | [Read More](https://medium.com/p/c2ff0781f636) |
+| Wed, 13 Aug 2025 16:45:59 GMT | ️ Building Your Own Cybersecurity Lab at Home: The Complete Guide | Parth Patel | [Read More](https://medium.com/p/f3ec1cab6917) |
 | Wed, 13 Aug 2025 16:44:39 GMT | The Best Alternatives to Intelx.io | Appsec.pt | [Read More](https://medium.com/p/f1c469e23fb1) |
+| Wed, 13 Aug 2025 16:44:10 GMT | CVE-2025–24983: Windows Kernel Use-After-Free Vulnerability Explained & Demonstrated | Binary Exploiter | [Read More](https://medium.com/p/900d4e252c24) |
 | Wed, 13 Aug 2025 16:40:16 GMT | Understanding and Creating Firewall Rules in pfSense | Allen Ace | [Read More](https://medium.com/p/c6c943ed195c) |
 | Wed, 13 Aug 2025 16:37:58 GMT | How I Use Perplexity for Bug Bounty Recon (and Squeeze Every Last Drop Out of It) | SAEED | [Read More](https://medium.com/p/a7061842a77f) |
 | Wed, 13 Aug 2025 16:37:48 GMT | How to Build Your Own AI-Powered Threat Detection Tool (Python + TensorFlow) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/bed3363666cb) |
 | Wed, 13 Aug 2025 16:35:31 GMT | TeaOnHer Is the Latest in the Tea Wars | Franky Arriola | [Read More](https://medium.com/p/acaf546cf27f) |
+| Wed, 13 Aug 2025 16:33:23 GMT | Bug Bounty: Authentication Testing — Brute Force to Bypass | Rajkumar Kumawat | [Read More](https://medium.com/p/acc770fbd019) |
 | Wed, 13 Aug 2025 16:29:25 GMT | iPhone Trick Became the Ultimate Cheating Detector | Stanley K. Wilson | [Read More](https://medium.com/p/76082cd3e696) |
 | Wed, 13 Aug 2025 16:26:37 GMT | How Tech Companies Hack Your Brain | Isla Hendricks | [Read More](https://medium.com/p/da42aa56598b) |
 | Wed, 13 Aug 2025 16:17:37 GMT | Who We Are — Hello Future Technologies (Private) Limited | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/ea9fe1a8ea4a) |
@@ -98,18 +113,3 @@ A few years ago, a term… | Jose Saucedo | [Read More](https://medium.com/p/810
 | Wed, 13 Aug 2025 13:31:57 GMT | Top Features to Look for in a File Uploading Site | Idera Dev Tools | [Read More](https://medium.com/p/a6b60c2bc368) |
 | Wed, 13 Aug 2025 13:28:23 GMT | Breach-Centric Security: Why Behavior Beats Signatures — and How to Build Cyber Resilience | Agung Vivekananda | [Read More](https://medium.com/p/43dc66f6a9a2) |
 | Wed, 13 Aug 2025 13:25:41 GMT | Level Up Your Business: Why Cyber Threat Intelligence (CTI) Will Be Your Secret Weapon in 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/a02db1335b8f) |
-| Wed, 13 Aug 2025 13:17:12 GMT | Is Private Mode Truly Private? | Shreem Kanungo | [Read More](https://medium.com/p/712ec6a815b9) |
-| Wed, 13 Aug 2025 13:15:17 GMT | SMT Program 2025 Journal — Special Lecture 1 | Fathurrahman Nasution | [Read More](https://medium.com/p/264c3cab63e7) |
-| Wed, 13 Aug 2025 13:14:53 GMT | Little Red Riding Hood is a Cybersecurity Story | Ash Noor | [Read More](https://medium.com/p/f8078023d1b4) |
-| Wed, 13 Aug 2025 13:14:30 GMT | How to Find Any Information Using Google Dorking in 2025 | Shahzaib | [Read More](https://medium.com/p/3e98faaa49f2) |
-| Wed, 13 Aug 2025 13:13:22 GMT | Perfectly Compliant and Totally Screwed | jb | [Read More](https://medium.com/p/4b0b215f81f5) |
-| Wed, 13 Aug 2025 13:11:49 GMT | CCE-based System Security Vulnerability Assessment and Management Solution (SecuMS) | Fidelya | [Read More](https://medium.com/p/b288014fbd4a) |
-| Wed, 13 Aug 2025 13:08:57 GMT | Mixed auth set up with Kinde for B2B and B2C | Alex | [Read More](https://medium.com/p/c5cddef3269d) |
-| Wed, 13 Aug 2025 13:06:44 GMT | Why Smart Businesses Are Switching to Managed IT Services | BuzzClan | [Read More](https://medium.com/p/3cb0c9ae9965) |
-| Wed, 13 Aug 2025 13:06:37 GMT | The Cybersecurity Game Has Changed, AI Is Holding the Cards. | EphraimGsec | [Read More](https://medium.com/p/83dd634eabd5) |
-| Wed, 13 Aug 2025 13:06:34 GMT | I Turned One Recon Trick Into $3,350 | Ibtissam hammadi | [Read More](https://medium.com/p/07ce80e7e8df) |
-| Wed, 13 Aug 2025 13:04:56 GMT | Your “Everyone” Problem: Exposing Share Access at Scale | Moritz Rauch | [Read More](https://medium.com/p/740a20c2284f) |
-| Wed, 13 Aug 2025 13:03:20 GMT | ️ Installation and Management of Linux-Based IDS/IPS Systems | Esra Kayhan | [Read More](https://medium.com/p/01473e2a1179) |
-| Wed, 13 Aug 2025 13:01:38 GMT | OSINT: Geolocation Intelligence | Mufid Fata Rifki | [Read More](https://medium.com/p/612602222bf0) |
-| Wed, 13 Aug 2025 12:59:18 GMT | Penetration Testing: Conducting & Reporting | Fahad Malik | [Read More](https://medium.com/p/9dfbf19a467f) |
-| Wed, 13 Aug 2025 12:56:31 GMT | 3 Big AI Risks — and How Platform Engineering Can Help | Gareth Brown | [Read More](https://medium.com/p/2b7b77456eb5) |
