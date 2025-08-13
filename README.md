@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 04:43:33 GMT | How Do You Implement a Caesar Cipher in Kotlin? | amol pawar | [Read More](https://medium.com/p/71af0c2b6887) |
+| Wed, 13 Aug 2025 04:40:30 GMT | Day 30- Performing CRUD on files and databases for beginners | unica 02 | [Read More](https://medium.com/p/15c8d5c50f8a) |
+| Wed, 13 Aug 2025 04:37:58 GMT | How to totally secure your computer, phone or other device! | Paul AJ | [Read More](https://medium.com/p/5c8a8417a02a) |
+| Wed, 13 Aug 2025 04:33:15 GMT | Metasploitable 1 — Three Paths to Pwnage | Ahmadhossam | [Read More](https://medium.com/p/7fe988d66031) |
+| Wed, 13 Aug 2025 04:26:54 GMT | CYBER SECURITY HOMELAB PROJECT | Maxwell Day | [Read More](https://medium.com/p/675d6c1557e3) |
+| Wed, 13 Aug 2025 04:23:12 GMT | The online encounter with phishing attacks. | Bradley Woon | [Read More](https://medium.com/p/cf9e7dfd2e5e) |
+| Wed, 13 Aug 2025 04:17:18 GMT | Password Reset Poisoning via Middleware: The Hidden Flaw That Can Lead to Account Takeover | Bash Overflow | [Read More](https://medium.com/p/899416465d45) |
+| Wed, 13 Aug 2025 04:15:25 GMT | Leveraging Wazuh for Compliance with Bank Indonesia and OJK Cybersecurity Regulation (Part 2) —… | Ismail Hakim | [Read More](https://medium.com/p/51ded924ebe2) |
+| Wed, 13 Aug 2025 04:03:22 GMT | CVE-2025–6543: The Citrix NetScaler Zero-Day Exploit Rocking Critical Infrastructure | IamPreth | [Read More](https://medium.com/p/0c5d1e5d2432) |
+| Wed, 13 Aug 2025 04:02:16 GMT | Rising from the Valley: How Faith and Resilience Turned My Lowest Point into a Launchpad | Inayat Hussain | [Read More](https://medium.com/p/d3765f067bcb) |
+| Wed, 13 Aug 2025 03:58:10 GMT | SafeLine WAF Review: The Open-Source Firewall Every Dev Should Try in 2025 | AerieWhole123 | [Read More](https://medium.com/p/6643e077df4c) |
 | Wed, 13 Aug 2025 03:54:45 GMT | AI Agents for Cybersecurity: Enhancing Automation & Threat Detection | Paritosh | [Read More](https://medium.com/p/bf9371bb8179) |
 | Wed, 13 Aug 2025 03:47:06 GMT | 7. Networking in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/e62d8c136c94) |
 | Wed, 13 Aug 2025 03:33:41 GMT | Who Makes You Wait Too Long Is in No Hurry to Love You | Rendanup | [Read More](https://medium.com/p/a69ee41d38b1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 19:37:58 GMT | Mastering Modern Tools as a Business Analyst or Solution Designer in a Global Organization | Aleksandr Alekseev | [Read More](https://medium.com/p/1e5815539ec0) |
 | Tue, 12 Aug 2025 19:32:41 GMT | System Security Management Through CCE-Based Vulnerability Assessment and Modular Server Hardening… | Abrar Ikramaputra | [Read More](https://medium.com/p/66241e6c84c0) |
 | Tue, 12 Aug 2025 19:31:08 GMT | How to Verify an Electrum GPG Signature on macOS | Andrew MacRobert | [Read More](https://medium.com/p/cf141fb96a83) |
-| Tue, 12 Aug 2025 19:26:44 GMT | What is Zero Trust Model in Cloud Infrastructure: Benefits, Principles, and Implementation | Techridge Solutions | [Read More](https://medium.com/p/766b3d4d7836) |
-| Tue, 12 Aug 2025 19:26:41 GMT | The Role of Session-Binding XSRF Tokens in Web Security | Wan-Yi Lee | [Read More](https://medium.com/p/b65e5456d70c) |
-| Tue, 12 Aug 2025 19:25:48 GMT | CVE-2025–41688: Bypassing Restrictions in an OT Remote Access Device | Marcel Rick-Cen | [Read More](https://medium.com/p/de5302c98a23) |
-| Tue, 12 Aug 2025 19:25:04 GMT | Install & Configure Suricata on pfSense Guide | James Rawlings | [Read More](https://medium.com/p/2e53eb4de892) |
-| Tue, 12 Aug 2025 19:21:05 GMT | Authentication in .NET — Part 5: Hybrid Auth Strategy with Cookie + OIDC + JWT | Dilanka Muthukumarana | [Read More](https://medium.com/p/959d114a8238) |
-| Tue, 12 Aug 2025 19:20:38 GMT | Cyber Insurance: Worth It or Waste of Money? | Hemant Patkar, CISSP | [Read More](https://medium.com/p/be4b49a3b2ca) |
-| Tue, 12 Aug 2025 19:15:41 GMT | Stored XSS ve BEEF | Mustafa Şen | [Read More](https://medium.com/p/f63b6cd37191) |
-| Tue, 12 Aug 2025 19:13:31 GMT | How Understanding OSINT Can Secure Your Business | Joe The OSINT Guy | [Read More](https://medium.com/p/4a0b283ab069) |
-| Tue, 12 Aug 2025 19:13:29 GMT | How to Speak to Someone at Webroot Support USA Contact Numbers: A Step-by-Step Guide | Risetechsolutionsinc | [Read More](https://medium.com/p/1723f77f07f1) |
-| Tue, 12 Aug 2025 19:13:01 GMT | The Art of Finding the Truth | Dania. | [Read More](https://medium.com/p/d626403ae146) |
-| Tue, 12 Aug 2025 19:04:57 GMT | Day 79: mkfifo | Nile Okomo | [Read More](https://medium.com/p/5fc728aaf467) |
