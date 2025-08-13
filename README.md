@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 21:30:54 GMT | Modern day Vulnerability and Exposure Management(Part 1) | Saifur Rahman | [Read More](https://medium.com/p/50c555c093b4) |
+| Wed, 13 Aug 2025 21:25:13 GMT | A manifesto for the emotionally literate who’ve been labeled “too much.” | theunseensiren | [Read More](https://medium.com/p/62e04504932c) |
+| Wed, 13 Aug 2025 21:25:10 GMT | Logical 2FA Bypass via Missing clientId Parameter in Profile Update Endpoint | Mahmoud Gamal | [Read More](https://medium.com/p/3f054bc651d6) |
+| Wed, 13 Aug 2025 21:23:25 GMT | Thick Clients, Thicker Risks: A Penetration Tester’s Deep Dive | Anamta Zehra | [Read More](https://medium.com/p/495f2f2fb4b8) |
 | Wed, 13 Aug 2025 21:11:47 GMT | Straw Students: AI-Powered Fraud is Infiltrating Higher Education | Chris Perkins | [Read More](https://medium.com/p/99deb1bfc66f) |
 | Wed, 13 Aug 2025 21:05:02 GMT | The Zero Trust Mirage: When Your Security Tools Are the Backdoor | Conceal, Inc. | [Read More](https://medium.com/p/fbefe5998af7) |
 | Wed, 13 Aug 2025 21:02:49 GMT | ️‍♂️ Hunt Me I: Payment Collectors — A Step-by-Step Threat Hunting Walkthrough | Furkanctiner | [Read More](https://medium.com/p/b58327c06b95) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 16:37:48 GMT | How to Build Your Own AI-Powered Threat Detection Tool (Python + TensorFlow) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/bed3363666cb) |
 | Wed, 13 Aug 2025 16:35:31 GMT | TeaOnHer Is the Latest in the Tea Wars | Franky Arriola | [Read More](https://medium.com/p/acaf546cf27f) |
 | Wed, 13 Aug 2025 16:33:23 GMT | Bug Bounty: Authentication Testing — Brute Force to Bypass | Rajkumar Kumawat | [Read More](https://medium.com/p/acc770fbd019) |
-| Wed, 13 Aug 2025 16:29:25 GMT | iPhone Trick Became the Ultimate Cheating Detector | Stanley K. Wilson | [Read More](https://medium.com/p/76082cd3e696) |
-| Wed, 13 Aug 2025 16:26:37 GMT | How Tech Companies Hack Your Brain | Isla Hendricks | [Read More](https://medium.com/p/da42aa56598b) |
-| Wed, 13 Aug 2025 16:17:37 GMT | Who We Are — Hello Future Technologies (Private) Limited | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/ea9fe1a8ea4a) |
-| Wed, 13 Aug 2025 16:16:26 GMT | From GeoGuessr to Real-World Investigations: Mastering the Tools of Digital Sleuthing | Ahmad Naufal Ramadan | [Read More](https://medium.com/p/491d9e5e6abc) |
