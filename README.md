@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 14:43:32 GMT | The First to Go: Why IT Always Gets Cut First — and Why That’s a Mistake
+A few years ago, a term… | Jose Saucedo | [Read More](https://medium.com/p/810aa1c8b724) |
+| Wed, 13 Aug 2025 14:43:28 GMT | Scattered Spider’s New Telegram Channel Exposes Victims and Signals a Dangerous Alliance | David SEHYEON Baek | [Read More](https://medium.com/p/d2a66f99970e) |
+| Wed, 13 Aug 2025 14:39:45 GMT | Catching the users session | Majix | [Read More](https://medium.com/p/84278a4c1efe) |
+| Wed, 13 Aug 2025 14:37:15 GMT | Bitcoin, Quantum Computing & The Next Cyber War — What Devs Should Know | Denoroy | [Read More](https://medium.com/p/451a5c5c47d0) |
+| Wed, 13 Aug 2025 14:37:09 GMT | Defending the Digital Frontier: Key Takeaways on Cybersecurity Threats and Strategies in Southeast… | Farhananfaasam | [Read More](https://medium.com/p/01b3fe6a4a9d) |
+| Wed, 13 Aug 2025 14:37:03 GMT | Affordable Cyber Security Services for Startups: How to Protect Your Business Without Breaking the… | Paul Meyer | [Read More](https://medium.com/p/e57d3d5fe0f6) |
+| Wed, 13 Aug 2025 14:37:02 GMT | Privacy is Dead: Stop Pretending Otherwise | Karana Gulati | [Read More](https://medium.com/p/107c80c683fd) |
+| Wed, 13 Aug 2025 14:33:16 GMT | AI’s Invisible Thirst: How Your Chat Could Be Draining Water You Didn’t Know It Needed | Tech News | [Read More](https://medium.com/p/5ce7719f4063) |
+| Wed, 13 Aug 2025 14:30:05 GMT | Inside Indonesia’s Cybersecurity Battlefield - SMT Program 2025 Expert Lecture 1 | Mohamad Fachry Ali | [Read More](https://medium.com/p/b75e5d4ab27d) |
+| Wed, 13 Aug 2025 14:29:21 GMT | 10 DIY Small Business Security Tips to Protect Your Workplace Before Hiring a Security Company | Meyer Defense, Inc. | [Read More](https://medium.com/p/c5cc9a9f1afb) |
+| Wed, 13 Aug 2025 14:22:52 GMT | Understanding Access Control in Web Applications — A Complete Guide for Security Professionals | Siddiquimohammad | [Read More](https://medium.com/p/b2769f8166d5) |
+| Wed, 13 Aug 2025 14:21:45 GMT | DanaBot: CyberDefenders Write-Up | Erdem Ulu | [Read More](https://medium.com/p/9e91abb7a8b6) |
+| Wed, 13 Aug 2025 14:20:55 GMT | AI’s Hidden Bill: What’s Costing Us — and Why Nobody’s Talking About It | Tech News | [Read More](https://medium.com/p/3e678dc68e09) |
+| Wed, 13 Aug 2025 14:19:39 GMT | Awesome Hacking & Cybersecurity Learning Path — Your Ultimate Guide to Ethical Hacking in 2025… | cyberwinx | [Read More](https://medium.com/p/2b5485515a5a) |
+| Wed, 13 Aug 2025 14:15:50 GMT | U.S. Federal Court Filing System Breach — Aug 12, 2025: Key Facts & Defentive’s Resilience… | Defentive | [Read More](https://medium.com/p/bf17d1815e12) |
+| Wed, 13 Aug 2025 14:15:31 GMT | Phishing Email Investigation: A Complete Cybersecurity Analyst Approach | Savyasachi | [Read More](https://medium.com/p/2e95d152bdcb) |
+| Wed, 13 Aug 2025 14:14:46 GMT | How I Found a Horizontal Privilege Escalation Vulnerability — From Recon to Exploit | Sidhartha | [Read More](https://medium.com/p/456fac79b8eb) |
+| Wed, 13 Aug 2025 14:13:30 GMT | SMT Program 2025 Journal — Special Lecture 1 | Sarah | [Read More](https://medium.com/p/a87c7724dba0) |
 | Wed, 13 Aug 2025 14:08:44 GMT | Strengthening Operational Resilience: Managing Third-Party Data Risks for Faster Recovery and… | marcus evans online events | [Read More](https://medium.com/p/051ef21fa1b4) |
 | Wed, 13 Aug 2025 14:02:09 GMT | The Future of Cybersecurity Consulting | abdeldayemnour | [Read More](https://medium.com/p/9559e0c5cea6) |
 | Wed, 13 Aug 2025 14:02:05 GMT | Cyber Briefing: 2025.08.13 | CyberMaterial | [Read More](https://medium.com/p/393a3e9e92fe) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 10:20:38 GMT | CyberTalents: Escalate writeup - by Dargham Ali | Dargham | [Read More](https://medium.com/p/f6e71fb87c6b) |
 | Wed, 13 Aug 2025 10:15:50 GMT | How Multiple Devices Share the Same Public IP Without Getting Confused | Sutharsan | [Read More](https://medium.com/p/c34c45141529) |
 | Wed, 13 Aug 2025 10:11:00 GMT | AWS VPC & IP Address Secrets: What Every Engineer Must Know in 2025 | Ismail Kovvuru | [Read More](https://medium.com/p/8166818d3589) |
-| Wed, 13 Aug 2025 10:08:59 GMT | 16 Billion credentials leaked — Could poor Risk Management strategies be at fault | Cisogenemarketing | [Read More](https://medium.com/p/7fffefbf4a9d) |
-| Wed, 13 Aug 2025 10:05:40 GMT | Common Types of Digital Evidence — How Investigators Build Bulletproof Cases | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/3f8b41be5d31) |
-| Wed, 13 Aug 2025 09:59:31 GMT | TryHackMe CTF: Pickle Rick — Write-up!!! | Yashpreeth Nijalinge | [Read More](https://medium.com/p/11ddc76b6e0b) |
-| Wed, 13 Aug 2025 09:59:29 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/659e83c06846) |
-| Wed, 13 Aug 2025 09:58:59 GMT | Account Manipulation (T1098) — When Hackers Hijack Your Keys | MITRE Doggy | [Read More](https://medium.com/p/45353179ee86) |
-| Wed, 13 Aug 2025 09:55:31 GMT | AI in Cybersecurity: Who’s Winning — Hackers or Defenders? | Kashyap Joshi | [Read More](https://medium.com/p/8be416c8f9d4) |
-| Wed, 13 Aug 2025 09:51:10 GMT | Cybersecurity and Privacy: Balancing Protection and Freedom | Cyber Security Research | [Read More](https://medium.com/p/2d508cdc73a8) |
-| Wed, 13 Aug 2025 09:50:31 GMT | HPE Warns of Critical Backdoor Flaw in Aruba Instant On Access Points | SafetyDetectives Research Team | [Read More](https://medium.com/p/237972f52edf) |
-| Wed, 13 Aug 2025 09:50:21 GMT | Excessive trust in client-side controls (Business Logic vuln.) | Gumn4m1 | [Read More](https://medium.com/p/99a813bcb79d) |
-| Wed, 13 Aug 2025 09:49:42 GMT | The Human Element in Cybersecurity: Addressing User Error | Cyber Security Research | [Read More](https://medium.com/p/5baa2466f1b2) |
-| Wed, 13 Aug 2025 09:48:08 GMT | “ITGC vs Risk Assessment: Understanding IT Controls, Risk Assessment, and Modern Compliance… | Mohammed Yaseen | [Read More](https://medium.com/p/d9748bc5edd1) |
-| Wed, 13 Aug 2025 09:33:13 GMT | CEO Blind Spots That Put Your Company at Risk | Evgeny Ermakov | [Read More](https://medium.com/p/32806531ea72) |
-| Wed, 13 Aug 2025 09:27:49 GMT | Are you just changing sites… or actually growing in your journey? | EXLITY | [Read More](https://medium.com/p/3eb990a25452) |
-| Wed, 13 Aug 2025 09:26:38 GMT | Special Lecture II | unknownman | [Read More](https://medium.com/p/f5b01fd55aef) |
-| Wed, 13 Aug 2025 09:25:05 GMT | How to Convert CRT to CER? A Complete Step-by-Step Guide 2025 | Hardy Mervana | [Read More](https://medium.com/p/27ad8b2186d6) |
-| Wed, 13 Aug 2025 09:24:22 GMT | Top 5 Future-Demanding Courses to Boost Your Career with GRAStech | GRAStech | [Read More](https://medium.com/p/7a35b5623530) |
-| Wed, 13 Aug 2025 09:20:50 GMT | How to Chain Bugs Like a Pro (From P5 to P1) | Viratavi | [Read More](https://medium.com/p/0cddd902c8e3) |
-| Wed, 13 Aug 2025 09:15:55 GMT | The Art of Being a Work in Progress | Kishita Jain | [Read More](https://medium.com/p/91fe2f8f5756) |
