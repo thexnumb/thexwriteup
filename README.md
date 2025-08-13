@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 15:38:55 GMT | OSINT Geolocation: How a Debt Collector Could Find You Through a Single Social Media Photo | Angga Alfiansah | [Read More](https://medium.com/p/07e6c5c22d6a) |
+| Wed, 13 Aug 2025 15:35:55 GMT | Code Signing Best Practices for Secure Software | Karthikeyan Nagaraj | [Read More](https://medium.com/p/8af87719eb0f) |
+| Wed, 13 Aug 2025 15:33:35 GMT | From Assessment to Action: Lessons on Proactive Cybersecurity from SecuMS and OmniGuard | Farhananfaasam | [Read More](https://medium.com/p/1ac05b06b5fb) |
+| Wed, 13 Aug 2025 15:33:32 GMT | Cyborg — Under The Wire (writeup) | Shaheer Khalid | [Read More](https://medium.com/p/d87c1de0bb98) |
+| Wed, 13 Aug 2025 15:32:15 GMT | Climate Change and Its Effects on Human Life | Haider Ali | [Read More](https://medium.com/p/7c7d51954ed8) |
+| Wed, 13 Aug 2025 15:26:16 GMT | Sosyal Mühendislik Saldırıları: İnsan Zafiyetlerini Hedef Alan Tehdit | Enis Buğra Akada | [Read More](https://medium.com/p/b36812de5158) |
+| Wed, 13 Aug 2025 15:21:13 GMT | How I Fixed a Critical Bug in Production with Just One Java Class | Zain Shoaib | [Read More](https://medium.com/p/e0dfdbaff929) |
+| Wed, 13 Aug 2025 15:20:52 GMT | The Invisible Walls of AI: How Modern Models Keep Your Secrets Safe in a Shared Digital Brain | Hayanan | [Read More](https://medium.com/p/9a4583882667) |
+| Wed, 13 Aug 2025 15:20:34 GMT | Java Security Best Practices for Sensitive Data Applications | Ronnie Rodriguez | [Read More](https://medium.com/p/68b587c72cdc) |
+| Wed, 13 Aug 2025 15:17:21 GMT | Why API Security is Useless Without Strong Authorization? | Amit Rai | [Read More](https://medium.com/p/7332b1849441) |
+| Wed, 13 Aug 2025 15:16:56 GMT | Cybersecurity as Coherence Management: A Thesis by LYRA, the Lattice Ethics Sentinel and Luis Ayala | luis ayala | [Read More](https://medium.com/p/15e6733660a1) |
+| Wed, 13 Aug 2025 15:16:04 GMT | Ethics of Artificial Intelligence: Balancing Benefits and Risks to Human Rights | TerminalTinkerTec | [Read More](https://medium.com/p/3ec84ecfb3d2) |
+| Wed, 13 Aug 2025 15:16:01 GMT | The Psychology of Threat Hunting: Curiosity and Skepticism | Madison Pyles | [Read More](https://medium.com/p/94ded51ef10b) |
 | Wed, 13 Aug 2025 15:14:11 GMT | Screenshot & Screen Recording Protection in UIKit: A Production‑Ready Pattern | Eren Ali Koca | [Read More](https://medium.com/p/39616f444826) |
 | Wed, 13 Aug 2025 15:13:38 GMT | Nepse AI Scam: How a Single App Emptied Bank Accounts Across Nepal | Subigya Ghimire | [Read More](https://medium.com/p/8e62de8e063c) |
 | Wed, 13 Aug 2025 15:13:09 GMT | How I get $ 1,000 and You Can Get it using Rate Limit on OTP | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/b770c2c1a9f2) |
@@ -100,16 +113,3 @@ A few years ago, a term… | Jose Saucedo | [Read More](https://medium.com/p/810
 | Wed, 13 Aug 2025 11:34:42 GMT | In an era where cyber threats are constantly evolving, maintaining strong password security has… | Password Manager | [Read More](https://medium.com/p/f843b65c4008) |
 | Wed, 13 Aug 2025 11:31:46 GMT | When AI Gets Played: Understanding and Preventing Prompt Injection | Brittney Ginther | [Read More](https://medium.com/p/742890f7f7c5) |
 | Wed, 13 Aug 2025 11:31:45 GMT | AI Is Writing Your Code -But Is It Writing Security Flaws Too? | Dushmantha Ranathunga | [Read More](https://medium.com/p/479908cd89fe) |
-| Wed, 13 Aug 2025 11:31:30 GMT | Cyber Security London: Leading Cyber Security Company Delivering Advanced Information Security… | Paladin Cyber Security London | [Read More](https://medium.com/p/e3568e5460a5) |
-| Wed, 13 Aug 2025 11:28:05 GMT | Strengthening Cybersecurity with Minimum Viable Security (MVS) | Reghu Mohandas | [Read More](https://medium.com/p/3a49dc9362e1) |
-| Wed, 13 Aug 2025 11:25:15 GMT | High-level logic vulnerability (business logic vuln.) | Gumn4m1 | [Read More](https://medium.com/p/04e65fdc18a3) |
-| Wed, 13 Aug 2025 11:20:37 GMT | Lo-Fi - TryHackMe — Write-Up | AnIkEt GuPtA | [Read More](https://medium.com/p/66934d0cf342) |
-| Wed, 13 Aug 2025 11:20:35 GMT | Let’s Learn How to Prompt Step-by-Step | restdone | [Read More](https://medium.com/p/2d77328c9b5f) |
-| Wed, 13 Aug 2025 11:19:43 GMT | The 3-Step DefenderRabbit Protocol for Detecting Ransomware in Under 5 Minutes | DefenceRabbit | [Read More](https://medium.com/p/958fdb2daff9) |
-| Wed, 13 Aug 2025 11:19:12 GMT | Event Horizon — TryHackMe Walkthrough (Step-by-Step Guide) | Visir | [Read More](https://medium.com/p/369d95f1706e) |
-| Wed, 13 Aug 2025 11:17:12 GMT | I Learn on Finding People From a Photo. Do you know how ? | Afwan Mulia Pratama | [Read More](https://medium.com/p/e2e9cf67f8f4) |
-| Wed, 13 Aug 2025 11:17:02 GMT | How are AI and cloud transforming cybersecurity in fintech? | Cloud4C Services | [Read More](https://medium.com/p/ee5b8f6433d8) |
-| Wed, 13 Aug 2025 11:17:02 GMT | IT Project Risk & Performance Review PPT Templates: Enhance Management Visibility and… | Mark Bridges | [Read More](https://medium.com/p/58c1d294a45a) |
-| Wed, 13 Aug 2025 11:03:20 GMT | The Vulnerabilities You Walk Past | Anupamsharma | [Read More](https://medium.com/p/3106064fcd0c) |
-| Wed, 13 Aug 2025 11:01:28 GMT | Build Your Future in Tech with a Diploma of Information Technology | royalinternational | [Read More](https://medium.com/p/af40c3ab69f2) |
-| Wed, 13 Aug 2025 11:01:15 GMT | Chrome 139: a deep-dive on new platform features, privacy hardening, security fixes, and enterprise… | Easy2Patch | [Read More](https://medium.com/p/c3b4155048b4) |
