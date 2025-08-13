@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 05:11:42 GMT | PicoCTF 2025: SSTI1 — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/56b85a7a347f) |
+| Wed, 13 Aug 2025 05:09:13 GMT | Cyber Security Meets DevOps: Why These Skills Go Hand-in-Hand for Modern Professionals | Umairbaig | [Read More](https://medium.com/p/e5e472bcce3e) |
+| Wed, 13 Aug 2025 05:05:12 GMT | Passwords Are Dying: How Tech Giants Are Pushing for Stronger, Safer Login Methods | Tarush Sharma | [Read More](https://medium.com/p/1b2a89715061) |
+| Wed, 13 Aug 2025 05:04:11 GMT | Why Your Login Needs a Detective, Not Just a Password | Hanan S. | [Read More](https://medium.com/p/f3f05baccf9f) |
+| Wed, 13 Aug 2025 05:02:01 GMT | Beyond the Search Bar: How OSINT Transforms Public Data into Powerful Intelligence | Gerti Armanda Sembiring | [Read More](https://medium.com/p/014c7eb18e0d) |
+| Wed, 13 Aug 2025 05:01:39 GMT | 10 Networking Basics Every Cybersecurity Professional Should Known and Understand | Raymond Ebonine | [Read More](https://medium.com/p/7ea31eecdd06) |
+| Wed, 13 Aug 2025 04:55:58 GMT | How Does an IP Address Scanner Work | AssetLoom | [Read More](https://medium.com/p/81c89ff45b0d) |
+| Wed, 13 Aug 2025 04:55:34 GMT | yenepoya dental diary | Moosa adnan | [Read More](https://medium.com/p/1fd0a94f3cbe) |
+| Wed, 13 Aug 2025 04:51:42 GMT | Application Writing Services | Rayolivia | [Read More](https://medium.com/p/011012b9aefd) |
+| Wed, 13 Aug 2025 04:51:05 GMT | SMT Program 2025 Expert Lecture 1 Journal | Mjibrahim | [Read More](https://medium.com/p/c2ac7ab8fa44) |
+| Wed, 13 Aug 2025 04:47:45 GMT | The Windows Concept Journey — SMB (Server Message Block) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/ec0767631252) |
 | Wed, 13 Aug 2025 04:43:33 GMT | How Do You Implement a Caesar Cipher in Kotlin? | amol pawar | [Read More](https://medium.com/p/71af0c2b6887) |
 | Wed, 13 Aug 2025 04:40:30 GMT | Day 30- Performing CRUD on files and databases for beginners | unica 02 | [Read More](https://medium.com/p/15c8d5c50f8a) |
 | Wed, 13 Aug 2025 04:37:58 GMT | How to totally secure your computer, phone or other device! | Paul AJ | [Read More](https://medium.com/p/5c8a8417a02a) |
@@ -92,6 +103,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 21:00:57 GMT | I LOST CRYPTO. HOW CAN I RECOVER IT? GO THROUGH OPTIMISTIC HACKER GAIUS | Danielwilliam | [Read More](https://medium.com/p/8619e17342a4) |
 | Tue, 12 Aug 2025 20:58:47 GMT | Server Security, Vulnerability Assessment & Governance Solution | Gracialy | [Read More](https://medium.com/p/2b5af5971bbe) |
 | Tue, 12 Aug 2025 20:55:11 GMT | The Art of Finding Anything: My Deep Dive into OSINT - SMT Program 2025 Special Lecture 1 | Abrar Ikramaputra | [Read More](https://medium.com/p/64d7282f3f57) |
+| Tue, 12 Aug 2025 20:50:07 GMT | Metasploitable — POS Exploitation Walkthrough | AMX2 | [Read More](https://medium.com/p/1ca51aabdc56) |
 | Tue, 12 Aug 2025 20:49:24 GMT | What the 2025 Data Breaches Mean for Your Passwords | Rubin Mathews | [Read More](https://medium.com/p/30fe657948b1) |
 | Tue, 12 Aug 2025 20:45:22 GMT | GrabThePhisher Lab SOC Tier-1 Level-2 Cyber Defenders Writeup | Sandeepduseja | [Read More](https://medium.com/p/2df0a000332a) |
 | Tue, 12 Aug 2025 20:44:33 GMT | Bug Bounty Tip — Bypass Rate Limits with Race Conditions & Header Tricks | Cybersecplayground | [Read More](https://medium.com/p/a379d10dada6) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 20:29:33 GMT | Ticketing Lab | Jafari Law | [Read More](https://medium.com/p/8c5c4b75ca6a) |
 | Tue, 12 Aug 2025 20:27:40 GMT | How a Fake Booking.com CAPTCHA Led to a Dangerous Malware Infection | MV Intelligence | [Read More](https://medium.com/p/ede236f6b535) |
 | Tue, 12 Aug 2025 20:26:27 GMT | The Gnarly IT News Wave, Mate! | Mohammed Brückner | [Read More](https://medium.com/p/2f7c0d4ebf8b) |
-| Tue, 12 Aug 2025 20:22:44 GMT | Wireshark: Traffic Analysis- TryHackMe — Walkthrough — Part 2 | Momal Naz | [Read More](https://medium.com/p/31910e371273) |
-| Tue, 12 Aug 2025 20:13:38 GMT | Democracy’s Trojan Horses: How Our Freedoms Become Our Weakness | Ri | [Read More](https://medium.com/p/261684fa0415) |
-| Tue, 12 Aug 2025 20:12:45 GMT | [Hack The Box CTF] Code Write-Up | fnwn | [Read More](https://medium.com/p/d0931a53d947) |
-| Tue, 12 Aug 2025 19:46:59 GMT | CyberDefenders — MrRobot Lab | jon | [Read More](https://medium.com/p/72415daf1b90) |
-| Tue, 12 Aug 2025 19:45:32 GMT | 10 Must-Use DevOps Tools in 2025: The Game-Changers That Proved Their Worth | Devansh Upadhyay | [Read More](https://medium.com/p/f1219175b8a4) |
-| Tue, 12 Aug 2025 19:45:06 GMT | My 100 Hour Rule for Bug Bounty ! | DevProgramming | [Read More](https://medium.com/p/046f96fc7791) |
-| Tue, 12 Aug 2025 19:42:57 GMT | Credential Theft: The Digital Pickpocket You Never See Coming | Akshay Chauhan | [Read More](https://medium.com/p/5d10984e5ea9) |
-| Tue, 12 Aug 2025 19:40:16 GMT | Perplexity’s $34.5 | Mammoth Cyber | [Read More](https://medium.com/p/28b12fe056be) |
-| Tue, 12 Aug 2025 19:38:48 GMT | Virtual Machine | Jafari Law | [Read More](https://medium.com/p/c1a1f185c95c) |
-| Tue, 12 Aug 2025 19:37:58 GMT | Mastering Modern Tools as a Business Analyst or Solution Designer in a Global Organization | Aleksandr Alekseev | [Read More](https://medium.com/p/1e5815539ec0) |
-| Tue, 12 Aug 2025 19:32:41 GMT | System Security Management Through CCE-Based Vulnerability Assessment and Modular Server Hardening… | Abrar Ikramaputra | [Read More](https://medium.com/p/66241e6c84c0) |
-| Tue, 12 Aug 2025 19:31:08 GMT | How to Verify an Electrum GPG Signature on macOS | Andrew MacRobert | [Read More](https://medium.com/p/cf141fb96a83) |
