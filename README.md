@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 07:35:07 GMT | “Package Hijack Meets GraphQL Goldmine: How One Recon Session Paid for My Caffeine Addiction” | Iski | [Read More](https://medium.com/p/8db6274d0811) |
+| Wed, 13 Aug 2025 07:28:27 GMT | Digital Forensics: The Science Behind Solving Cybercrime | Shraddhakaveri H | [Read More](https://medium.com/p/7425d2cd6f5f) |
+| Wed, 13 Aug 2025 07:25:46 GMT | Why Your Startup Isn’t Scaling And How to Fix It Without Burning Out | Talha Fakhar | [Read More](https://medium.com/p/fd5989110228) |
+| Wed, 13 Aug 2025 07:24:01 GMT | Audiobooks Market Share, Size, Growth & Trends 2025–2034 | Saurabhbadoni | [Read More](https://medium.com/p/b8ca4618176c) |
 | Wed, 13 Aug 2025 07:14:55 GMT | ISMAP Management Standards Chapter 16: Preparing for and Responding to Information Security… | nolly | [Read More](https://medium.com/p/37d6ca423792) |
 | Wed, 13 Aug 2025 07:13:19 GMT | FortiRecon: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c6e23d311eda) |
 | Wed, 13 Aug 2025 07:12:20 GMT | Easy Hacking with Python: Learn Ethical Hacking Step by Step | Kenny Kane | [Read More](https://medium.com/p/80386f1ca6cb) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 00:04:14 GMT | The Cybersecurity Disaster No One Saw Coming: How a Small Business Got Hacked Across 3 Operating… | Noel | [Read More](https://medium.com/p/42aad88f9d86) |
 | Tue, 12 Aug 2025 23:42:31 GMT | Anthropic and Amazon Nova Join Forces: The Blockchain Revolution Accelerated by AWS Futuristic… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/e919f56c8cd4) |
 | Tue, 12 Aug 2025 23:41:58 GMT | Introduction to Ethical Hacking: The Role of Virtual Machines, Linux, and Networking | Alna Mariya C T | [Read More](https://medium.com/p/aad3689fac83) |
-| Tue, 12 Aug 2025 23:19:02 GMT | The Psychology of Deepfake Belief: Why We Fall for Fakes | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d3b65a9c03a4) |
-| Tue, 12 Aug 2025 23:16:49 GMT | Secure Defaults: Why They’re Not Always as Safe as You Think | Raviteja Mureboina | [Read More](https://medium.com/p/fec5b4cb925a) |
-| Tue, 12 Aug 2025 23:15:22 GMT | From Shodan to Securing Government Systems: BFLA + Stored XSS Write-Up | Veyron92i | [Read More](https://medium.com/p/ab3bfd4e703d) |
-| Tue, 12 Aug 2025 23:13:23 GMT | The Inheritance Trap — How Cloud Folder Structures Can Silently Expose Metadata at Scale | Haitham A. E. ISMAIEEL | [Read More](https://medium.com/p/c6716bc56ac7) |
