@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 19:15:25 GMT | An Intimate Song Analysis — Vaaroon | Riley | [Read More](https://medium.com/p/0ae2c71f1fd6) |
+| Wed, 13 Aug 2025 19:14:35 GMT | From Simple Restriction Bypass to Internal Privilege Escalation to High Impact IDOR | Mohammad-Nouri Almohammad | [Read More](https://medium.com/p/e7b8366ac70d) |
+| Wed, 13 Aug 2025 18:59:43 GMT | ANXIETY — How Running a Business Can Make Your Heart Race (But It Doesn’t Have To) | Vincent Brown | [Read More](https://medium.com/p/97f1159a25ac) |
+| Wed, 13 Aug 2025 18:56:04 GMT | Unmasking Zero-Click Zero-Day Vulnerabilities in iPhone 16 and WhatsApp: A Comprehensive Analysis… | zeubemito silva | [Read More](https://medium.com/p/5ac657abb97a) |
+| Wed, 13 Aug 2025 18:53:31 GMT | LLM based Threat Modeling: Let AI Think Like a Hacker, So You Don’t Have To | noailabs | [Read More](https://medium.com/p/43d1960e1b31) |
+| Wed, 13 Aug 2025 18:51:54 GMT | SecuMS Vulnerability Management System and Omnigard. | Nail Yusra | [Read More](https://medium.com/p/56548ce1ff4c) |
+| Wed, 13 Aug 2025 18:49:54 GMT | ❤️Why Men Find Long Hair Attractive The Psychological Reason | New story | [Read More](https://medium.com/p/227d516f64d3) |
+| Wed, 13 Aug 2025 18:40:47 GMT | The Hack On North Korea’s Most Elusive Cyber-Spies | O. J. Okpabi | [Read More](https://medium.com/p/8da5d3cabd7f) |
+| Wed, 13 Aug 2025 18:39:09 GMT | Web Application Security Best Practices: Protecting Your Business in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/5450245f1c8c) |
+| Wed, 13 Aug 2025 18:37:26 GMT | Designing A Data Pipeline Architecture That Embeds Governance & Security | Pranav Hivarekar | [Read More](https://medium.com/p/dbcf55b86d06) |
+| Wed, 13 Aug 2025 18:34:09 GMT | Security Information and Event Management (SIEM): Monitoring and Responding to Threats | Cyber Security Research | [Read More](https://medium.com/p/ae716b4aa77c) |
+| Wed, 13 Aug 2025 18:32:52 GMT | Data Governance For Engineers — The 5 Pillars Every Secure Data Pipeline Needs | Pranav Hivarekar | [Read More](https://medium.com/p/d5ff1879c887) |
+| Wed, 13 Aug 2025 18:32:19 GMT | The Zero Trust Security Model: A Paradigm Shift | Cyber Security Research | [Read More](https://medium.com/p/111ba5e98684) |
+| Wed, 13 Aug 2025 18:30:22 GMT | DevSecOps: Integrating Security into the Development Lifecycle | Cyber Security Research | [Read More](https://medium.com/p/713fb768151c) |
+| Wed, 13 Aug 2025 18:29:05 GMT | The Critical Role of Security Patches: Why Timely Updates Are Your First Line of Defense | SafeAeon Inc. | [Read More](https://medium.com/p/6a70c13fed04) |
+| Wed, 13 Aug 2025 18:28:23 GMT | Blockchain Security: Exploring the Security Implications | Cyber Security Research | [Read More](https://medium.com/p/3ddb6b828b54) |
 | Wed, 13 Aug 2025 18:26:33 GMT | Quantum Computing and Cybersecurity: Preparing for the Future | Cyber Security Research | [Read More](https://medium.com/p/46122ec35451) |
 | Wed, 13 Aug 2025 18:24:39 GMT | Cybersecurity and National Security: Protecting Our Nation’s Interests | Cyber Security Research | [Read More](https://medium.com/p/111548c8a40a) |
 | Wed, 13 Aug 2025 18:20:59 GMT | Cybersecurity Research and Development: Pushing the Boundaries of Innovation | Cyber Security Research | [Read More](https://medium.com/p/16ca803f904d) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 15:14:11 GMT | Screenshot & Screen Recording Protection in UIKit: A Production‑Ready Pattern | Eren Ali Koca | [Read More](https://medium.com/p/39616f444826) |
 | Wed, 13 Aug 2025 15:13:38 GMT | Nepse AI Scam: How a Single App Emptied Bank Accounts Across Nepal | Subigya Ghimire | [Read More](https://medium.com/p/8e62de8e063c) |
 | Wed, 13 Aug 2025 15:13:09 GMT | How I get $ 1,000 and You Can Get it using Rate Limit on OTP | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/b770c2c1a9f2) |
-| Wed, 13 Aug 2025 15:12:19 GMT | 8 ChatGPT Prompts That Could Change Your Life | Vijay Kumar Gupta | [Read More](https://medium.com/p/30dcd6a64a52) |
-| Wed, 13 Aug 2025 15:03:42 GMT | “Network Nedir?” Diye Sormuştum… Sonra Bir Baktım, OSI Katmanlarındayım! | Mehmet Ali | [Read More](https://medium.com/p/d771a4f7f074) |
-| Wed, 13 Aug 2025 15:01:48 GMT | How to Create a Safe Environment for Digital Investigations | Ingvar Pavlovich | [Read More](https://medium.com/p/54594bc828c4) |
-| Wed, 13 Aug 2025 14:59:49 GMT | “Day 10: Defending the Digital Gateway — A White Hat’s Exploration of Chrome’s Security… | Aman Sharma | [Read More](https://medium.com/p/e5f217177104) |
-| Wed, 13 Aug 2025 14:59:37 GMT | Azure Linux: CVEs & Dashboard: Making Vulnerability Management Smarter | Farha Kareem | [Read More](https://medium.com/p/87f5336ef816) |
-| Wed, 13 Aug 2025 14:55:01 GMT | The Hidden Constitution of Cyberspace: How AI Will Rewrite the Rules of Freedom, Security, and… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/74b3c43da481) |
-| Wed, 13 Aug 2025 14:54:49 GMT | Securing Amazon EKS: An OSI Layer-by-Layer Breakdown (In Plain English) | Oladele | [Read More](https://medium.com/p/698abed0d44b) |
-| Wed, 13 Aug 2025 14:54:17 GMT | Detecting Multi-Layer Phishing in Real Time: Queries and Tools You Can Use | Rue | [Read More](https://medium.com/p/c109e1179ef3) |
-| Wed, 13 Aug 2025 14:50:19 GMT | 5 Clever Password Tricks Hackers Hate (and Normal People Can Actually Use) | Patrick Loh | [Read More](https://medium.com/p/4207a10ac1c2) |
-| Wed, 13 Aug 2025 14:47:35 GMT | SecuMS and Omniguard — Integrated Solutions for Enterprise IT Security | Muhammad Rifki Bariq | [Read More](https://medium.com/p/aad874b270c1) |
-| Wed, 13 Aug 2025 14:47:30 GMT | AI-powered Email Security: Combating Phishing with Natural Language Processing | Cloud4C Services | [Read More](https://medium.com/p/495e85f6913a) |
-| Wed, 13 Aug 2025 14:44:33 GMT | Can Security Actually Help Your Manufacturing Business Grow? | Luke Appleby | [Read More](https://medium.com/p/6195f2e97bfc) |
-| Wed, 13 Aug 2025 14:44:14 GMT | Modern-Day Cyber Threats, Infostealers, Ransomware-as-a-Service, and Zero Trust Strategy | Muhammad Rifki Bariq | [Read More](https://medium.com/p/54ac27daa041) |
-| Wed, 13 Aug 2025 14:43:32 GMT | The First to Go: Why IT Always Gets Cut First — and Why That’s a Mistake
-A few years ago, a term… | Jose Saucedo | [Read More](https://medium.com/p/810aa1c8b724) |
-| Wed, 13 Aug 2025 14:43:28 GMT | Scattered Spider’s New Telegram Channel Exposes Victims and Signals a Dangerous Alliance | David SEHYEON Baek | [Read More](https://medium.com/p/d2a66f99970e) |
-| Wed, 13 Aug 2025 14:39:45 GMT | Catching the users session | Majix | [Read More](https://medium.com/p/84278a4c1efe) |
