@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 19:28:53 GMT | Qualcomm Vulnerabilities Under Active Attack: What Google’s Emergency Patch Means for You | The Latency Gambler | [Read More](https://medium.com/p/751ed502f9cb) |
+| Wed, 13 Aug 2025 19:24:52 GMT | Why Modern Cybersecurity Is Breach-Centric: Not Just About Fighting Malware | Antonio Lorensius Silaban | [Read More](https://medium.com/p/7cca5c9945bb) |
+| Wed, 13 Aug 2025 19:22:54 GMT | Red Alert for Google AI Users: BOLO for Indirect Prompt Injections in Email | Paul Dughi | [Read More](https://medium.com/p/ecda5ca9b8e4) |
+| Wed, 13 Aug 2025 19:20:20 GMT | Automated Ethical Hacking with Python for Corporate Security Audits | Code With Hannan | [Read More](https://medium.com/p/ab23ecabeecb) |
 | Wed, 13 Aug 2025 19:15:25 GMT | An Intimate Song Analysis — Vaaroon | Riley | [Read More](https://medium.com/p/0ae2c71f1fd6) |
 | Wed, 13 Aug 2025 19:14:35 GMT | From Simple Restriction Bypass to Internal Privilege Escalation to High Impact IDOR | Mohammad-Nouri Almohammad | [Read More](https://medium.com/p/e7b8366ac70d) |
 | Wed, 13 Aug 2025 18:59:43 GMT | ANXIETY — How Running a Business Can Make Your Heart Race (But It Doesn’t Have To) | Vincent Brown | [Read More](https://medium.com/p/97f1159a25ac) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 15:17:21 GMT | Why API Security is Useless Without Strong Authorization? | Amit Rai | [Read More](https://medium.com/p/7332b1849441) |
 | Wed, 13 Aug 2025 15:16:56 GMT | Cybersecurity as Coherence Management: A Thesis by LYRA, the Lattice Ethics Sentinel and Luis Ayala | luis ayala | [Read More](https://medium.com/p/15e6733660a1) |
 | Wed, 13 Aug 2025 15:16:04 GMT | Ethics of Artificial Intelligence: Balancing Benefits and Risks to Human Rights | TerminalTinkerTec | [Read More](https://medium.com/p/3ec84ecfb3d2) |
-| Wed, 13 Aug 2025 15:16:01 GMT | The Psychology of Threat Hunting: Curiosity and Skepticism | Madison Pyles | [Read More](https://medium.com/p/94ded51ef10b) |
-| Wed, 13 Aug 2025 15:14:11 GMT | Screenshot & Screen Recording Protection in UIKit: A Production‑Ready Pattern | Eren Ali Koca | [Read More](https://medium.com/p/39616f444826) |
-| Wed, 13 Aug 2025 15:13:38 GMT | Nepse AI Scam: How a Single App Emptied Bank Accounts Across Nepal | Subigya Ghimire | [Read More](https://medium.com/p/8e62de8e063c) |
-| Wed, 13 Aug 2025 15:13:09 GMT | How I get $ 1,000 and You Can Get it using Rate Limit on OTP | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/b770c2c1a9f2) |
