@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 22:29:34 GMT | My success with upgrading Kali Linux to Kali Purple & my failure trying to install the Wazuh… | Bob Malin | [Read More](https://medium.com/p/493436100850) |
 | Wed, 13 Aug 2025 22:17:04 GMT | Protecting Against Insider Data Exfiltration via API | Karthikeyan Nagaraj | [Read More](https://medium.com/p/05115b3a7d37) |
 | Wed, 13 Aug 2025 22:01:45 GMT | The Dopamine Hangover | the girl is a gun | [Read More](https://medium.com/p/992d663fbcba) |
 | Wed, 13 Aug 2025 21:52:18 GMT | Deep Dive Series: iOS App Pen Testing using Non-Rooted Device | Param Dave | [Read More](https://medium.com/p/c0f25e20ebc4) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 16:49:17 GMT | How do I see my cheating partner’s hidden chats? | Stanley K. Wilson | [Read More](https://medium.com/p/319a5eac3f00) |
 | Wed, 13 Aug 2025 16:47:23 GMT | XZ Utils Backdoor Resurfaces in Docker Hub Images | gm0 | [Read More](https://medium.com/p/c2ff0781f636) |
 | Wed, 13 Aug 2025 16:45:59 GMT | ️ Building Your Own Cybersecurity Lab at Home: The Complete Guide | Parth Patel | [Read More](https://medium.com/p/f3ec1cab6917) |
-| Wed, 13 Aug 2025 16:44:39 GMT | The Best Alternatives to Intelx.io | Appsec.pt | [Read More](https://medium.com/p/f1c469e23fb1) |
