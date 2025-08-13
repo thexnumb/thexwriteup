@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 01:33:32 GMT | The Power of Simplicity in Security and Software Design | Raviteja Mureboina | [Read More](https://medium.com/p/78d731bf4f3d) |
+| Wed, 13 Aug 2025 01:32:43 GMT | EXIF Metadata: The Invisible Photo Data That Could Reveal Your Location | Ngoc Nguyen Nhu | [Read More](https://medium.com/p/56a7976d9f41) |
+| Wed, 13 Aug 2025 01:22:40 GMT | TryHackMe — Void Execution Write-up: Binary Analysis/Exploitation | チェインズ・ナバーロ | [Read More](https://medium.com/p/a1140acc6603) |
+| Wed, 13 Aug 2025 01:10:09 GMT | The Poisson Distribution: A Cybersecurity Defender’s Ally in Detecting Brute-Force Attacks | Patrick Lefler | [Read More](https://medium.com/p/d448522efcb7) |
+| Wed, 13 Aug 2025 01:09:32 GMT | To My Soulmate, To Me, To the Universe | Mark Donelson | [Read More](https://medium.com/p/bde1f0949c34) |
+| Wed, 13 Aug 2025 01:04:12 GMT | Hacking Instagram & LinkedIn: Costs, Tactics, and How to Defend Against Them | 0trust0day | [Read More](https://medium.com/p/456a352e54bb) |
+| Wed, 13 Aug 2025 00:41:23 GMT | Fail Securely: A Guide to Handling System Failures Safely | Raviteja Mureboina | [Read More](https://medium.com/p/94b19cf411fc) |
+| Wed, 13 Aug 2025 00:27:03 GMT | Overcoming Independence: Why Letting Others Help Strengthens Relationships | Lucas Brown | [Read More](https://medium.com/p/f421b823f18d) |
+| Wed, 13 Aug 2025 00:12:03 GMT | Part 1: Inside Windows: Windows Core Concepts: Processes, Threads, and the Foundations You Can’t… | DarKVoicE | [Read More](https://medium.com/p/b95912184a8c) |
+| Wed, 13 Aug 2025 00:11:52 GMT | Part 2: Inside Windows: Windows Core Concepts: API, Win32 Subsystem and the Layers You Didn’t Know… | DarKVoicE | [Read More](https://medium.com/p/3dc58833f94c) |
+| Wed, 13 Aug 2025 00:09:27 GMT | The Breach Sales Pitch Is Dead. Here’s Why We’ll Never Buy It Again. | Matt Snyder | [Read More](https://medium.com/p/69d2f7b01686) |
+| Wed, 13 Aug 2025 00:08:25 GMT | Windows smss.exe (Session Manager Subsystem) Explained | DarKVoicE | [Read More](https://medium.com/p/4c42e1324c3f) |
+| Wed, 13 Aug 2025 00:08:05 GMT | How I Built My Risk Register Using NIST SP 800–53 | Rachel Mileon-Chung | [Read More](https://medium.com/p/9b1c38c268ed) |
+| Wed, 13 Aug 2025 00:07:33 GMT | What is csrss.exe? Understanding the Client Server Runtime Subsystem in Windows | DarKVoicE | [Read More](https://medium.com/p/c0ac6c99f2c1) |
+| Wed, 13 Aug 2025 00:07:20 GMT | Understanding DOM-Based XSS in Acronis Promo Page: A Deep Dive | Monika sharma | [Read More](https://medium.com/p/568d2ee1284e) |
+| Wed, 13 Aug 2025 00:04:35 GMT | Secure DevOps: Baking Security into CI/CD Pipelines | Aj | [Read More](https://medium.com/p/0cdc0f9489d7) |
+| Wed, 13 Aug 2025 00:04:14 GMT | The Cybersecurity Disaster No One Saw Coming: How a Small Business Got Hacked Across 3 Operating… | Noel | [Read More](https://medium.com/p/42aad88f9d86) |
+| Tue, 12 Aug 2025 23:42:31 GMT | Anthropic and Amazon Nova Join Forces: The Blockchain Revolution Accelerated by AWS Futuristic… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/e919f56c8cd4) |
+| Tue, 12 Aug 2025 23:41:58 GMT | Introduction to Ethical Hacking: The Role of Virtual Machines, Linux, and Networking | Alna Mariya C T | [Read More](https://medium.com/p/aad3689fac83) |
 | Tue, 12 Aug 2025 23:19:02 GMT | The Psychology of Deepfake Belief: Why We Fall for Fakes | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d3b65a9c03a4) |
 | Tue, 12 Aug 2025 23:16:49 GMT | Secure Defaults: Why They’re Not Always as Safe as You Think | Raviteja Mureboina | [Read More](https://medium.com/p/fec5b4cb925a) |
 | Tue, 12 Aug 2025 23:15:22 GMT | From Shodan to Securing Government Systems: BFLA + Stored XSS Write-Up | Veyron92i | [Read More](https://medium.com/p/ab3bfd4e703d) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 18:06:15 GMT | Cybersecurity in Law Firms: The Critical Shield for Client Trust and Business Survival | Josh Welch | [Read More](https://medium.com/p/75d7211d3d02) |
 | Tue, 12 Aug 2025 18:06:12 GMT | Cisco Firepower and Remote Access VPN (RAVPN) WebVPN hardening | Gerardo Huerta Robles | [Read More](https://medium.com/p/4715bcb29a78) |
 | Tue, 12 Aug 2025 18:03:12 GMT | The Power of XSOAR: Automating and Orchestrating Cybersecurity in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/166b6c4bd073) |
-| Tue, 12 Aug 2025 18:02:17 GMT | DoS and DDoS Attacks – A Complete Beginner’s Guide | N1shym | [Read More](https://medium.com/p/8f0e38235964) |
-| Tue, 12 Aug 2025 17:51:26 GMT | ️ Automating STRIDE Threat Reviews in CI with AI | Viplav Fauzdar | [Read More](https://medium.com/p/105772d09c29) |
-| Tue, 12 Aug 2025 17:50:33 GMT | Key Challenges and Solutions in OT Security: Protecting Critical Infrastructure in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/4dc0bad2b6b9) |
-| Tue, 12 Aug 2025 17:46:02 GMT | VMware ESXi Vulnerability — A New Target for Cybercriminals | Chetan Seripally | [Read More](https://medium.com/p/b3d68aee6e02) |
-| Tue, 12 Aug 2025 17:46:00 GMT | What are the reasons behind GitHub CEO Thomas Dohmke’s decision to step down, and how might his new… | Skolutionz India | [Read More](https://medium.com/p/5c7aaa2663e5) |
-| Tue, 12 Aug 2025 17:43:05 GMT | TuesdayTool 32: Google Custom Search Engine (CSE) | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/8210b78957a7) |
-| Tue, 12 Aug 2025 17:42:50 GMT | How to Upload and Deploy ML Models on Wazuh Indexer with Full Inference Support | Yash Patel | [Read More](https://medium.com/p/c683985f245a) |
-| Tue, 12 Aug 2025 17:40:00 GMT | JWT Simplified for Everyone | TheCodeAlchemist | [Read More](https://medium.com/p/c6ad0dfca771) |
-| Tue, 12 Aug 2025 17:32:00 GMT | Threats Reports 2025: Understanding Emerging Cyber Risks and Staying Ahead | SafeAeon Inc. | [Read More](https://medium.com/p/bb2c356bf9c8) |
-| Tue, 12 Aug 2025 17:24:22 GMT | How I Removed Other User`s Uploaded Images in a Few Clicks | StrangeRwhite | [Read More](https://medium.com/p/fdeb6355458b) |
-| Tue, 12 Aug 2025 17:24:04 GMT | The OSINT Mindset: A Guide to Turning Public Information into Actionable Intelligence | Ahmad Naufal Ramadan | [Read More](https://medium.com/p/ce63b15538fd) |
-| Tue, 12 Aug 2025 17:22:08 GMT | C.R.A.F.T. Framework Part 4: DevSecOps and SRE Implementation — Security and Operations with AI | Scott W Houghton | [Read More](https://medium.com/p/ca5557cdd750) |
-| Tue, 12 Aug 2025 17:22:03 GMT | Stop Wasting Time! The Secret Method to Find Exploits in Minutes | Very Lazy Tech | [Read More](https://medium.com/p/5920dc6619cc) |
-| Tue, 12 Aug 2025 17:21:15 GMT | From Pre-Account Takeover to Full Account Takeover using Google OAuth | sudo_a7med | [Read More](https://medium.com/p/38b42268ce31) |
-| Tue, 12 Aug 2025 17:18:23 GMT | Ad Fraud and Subscription Scams Takeover | _Anirudh_ | [Read More](https://medium.com/p/72482c4fc5c1) |
-| Tue, 12 Aug 2025 17:16:34 GMT | interencdec - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/cd364496e386) |
-| Tue, 12 Aug 2025 17:16:27 GMT | Verify - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/2aebea3b9ebc) |
-| Tue, 12 Aug 2025 17:16:22 GMT | Super SSH - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/43647a3c85b0) |
-| Tue, 12 Aug 2025 17:04:05 GMT | Your Website’s Silent Guardians: A Deep Dive into Security Headers | Mike (sl0th0x87) | [Read More](https://medium.com/p/9f3dd8e6feeb) |
