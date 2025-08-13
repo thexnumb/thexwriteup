@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 09:20:50 GMT | How to Chain Bugs Like a Pro (From P5 to P1) | Viratavi | [Read More](https://medium.com/p/0cddd902c8e3) |
+| Wed, 13 Aug 2025 09:15:25 GMT | How to Set Up SafeLine WAF on a Standalone Server for Maximum Security | Quella | [Read More](https://medium.com/p/3c6ac6346fe2) |
+| Wed, 13 Aug 2025 09:13:56 GMT | CVE-2025–50817: Python-Future Module Arbitrary Code Execution via Unintended Import of test.py | linearity | [Read More](https://medium.com/p/f0818ea93cf4) |
+| Wed, 13 Aug 2025 09:08:57 GMT | Vulnerability Management in the Cloud: From Noise to Insight | Meronmm | [Read More](https://medium.com/p/c92e36781ee0) |
+| Wed, 13 Aug 2025 09:08:30 GMT | Understanding The NGINX Zero-Day Vulnerability: A Critical Cybersecurity Threat | Redfox Security | [Read More](https://medium.com/p/8cbb54a348e1) |
+| Wed, 13 Aug 2025 09:07:52 GMT | Time is running out for your Windows 11 upgrade! | Century Solutions Group | [Read More](https://medium.com/p/2e8262738dfc) |
+| Wed, 13 Aug 2025 09:06:41 GMT | Information Security Opportunities for Professionals in Law and Governance | Kartik Debnath | [Read More](https://medium.com/p/fc4a6f1f915f) |
+| Wed, 13 Aug 2025 09:00:57 GMT | Scott Brammer: Cybersecurity Leadership in the AI Era | The Executive Outlook | [Read More](https://medium.com/p/dfa363cfdab9) |
+| Wed, 13 Aug 2025 08:55:08 GMT | Authentication Bypass | Yogesh Mishra | [Read More](https://medium.com/p/e67507e38148) |
+| Wed, 13 Aug 2025 08:53:56 GMT | How to Survive Production Fires Like a Senior: Systems Explained | techWithNeer | [Read More](https://medium.com/p/dea60bc81c00) |
+| Wed, 13 Aug 2025 08:53:16 GMT | Cybersecurity in the MACH era: Navigating the AI & Agent shift | Vikas Prabhu | [Read More](https://medium.com/p/7c7884be04bf) |
+| Wed, 13 Aug 2025 08:51:14 GMT | What Is IT/OT Convergence? | Stellar Cyber | [Read More](https://medium.com/p/1b94b57bda76) |
+| Wed, 13 Aug 2025 08:30:51 GMT | “The CISO Mindset Shift: From Risk Defender to Business Accelerator in the Age of AI” | Dr. Deep Pandey | [Read More](https://medium.com/p/2957690f9308) |
 | Wed, 13 Aug 2025 08:30:15 GMT | EDR Killer in the Kill Chain | Nomit Vyas | [Read More](https://medium.com/p/5db7b54e1cc6) |
+| Wed, 13 Aug 2025 08:29:08 GMT | Database Breach - Hire Hacker | BlackHat | [Read More](https://medium.com/p/00522c984a21) |
 | Wed, 13 Aug 2025 08:26:03 GMT | How to Write PHP Middleware That Thinks Like a Firewall | Asian Digital Hub | [Read More](https://medium.com/p/40ef1bf385a3) |
 | Wed, 13 Aug 2025 08:21:43 GMT | Hijacking the Pipeline: Mastering HTTP Desync Exploits | Dedrknex | [Read More](https://medium.com/p/532faf98dbbe) |
 | Wed, 13 Aug 2025 08:16:20 GMT | How to Learn Cybersecurity from Scratch in 2025? | cyber security Updates | [Read More](https://medium.com/p/904f64852917) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 03:33:41 GMT | Who Makes You Wait Too Long Is in No Hurry to Love You | Rendanup | [Read More](https://medium.com/p/a69ee41d38b1) |
 | Wed, 13 Aug 2025 03:31:42 GMT | Hitachi Vantara Breach: When the Guardian of Data Gets Hit | Deven Chhajed | [Read More](https://medium.com/p/fd4470965794) |
 | Wed, 13 Aug 2025 03:28:18 GMT | Security Debt in Smart Contracts: The Hidden Balance Sheet That Can Bankrupt You Overnight | Olympix | [Read More](https://medium.com/p/b3f1c719dc44) |
-| Wed, 13 Aug 2025 03:21:35 GMT | Where to report OT/ICS Infrastructure Vulnerabilities | AbhirupKonwar | [Read More](https://medium.com/p/183808010377) |
-| Wed, 13 Aug 2025 03:15:00 GMT | ShinyHunters 與 Scattered Spider 攜手出擊：跨組織合作讓資安防禦更難偵測 | 竣盟科技Billows | [Read More](https://medium.com/p/d2ae6f7dd8cf) |
-| Wed, 13 Aug 2025 03:11:59 GMT | RSS Feeds: The Timeless tool to simplify Information Overload | Gaurav Goel | [Read More](https://medium.com/p/854f45983944) |
-| Wed, 13 Aug 2025 03:03:47 GMT | Cherry Studio Command Injection Vulnerability (CVE-2025–54074) — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/ae85272d4d03) |
-| Wed, 13 Aug 2025 02:53:59 GMT | SSL vs TLS: What’s the Difference and Why It Matters | Hammad Zahid | [Read More](https://medium.com/p/abfcfac786bc) |
-| Wed, 13 Aug 2025 02:41:27 GMT | Turning On the Lights: A New Perspective on System Visibility | Gerti Armanda Sembiring | [Read More](https://medium.com/p/d399754b2758) |
-| Wed, 13 Aug 2025 02:39:21 GMT | OSINT Isn’t Just Searching. Here’s Why. | Zeenya | [Read More](https://medium.com/p/6f2c5a6462b8) |
-| Wed, 13 Aug 2025 02:29:05 GMT | MCP Vulnerabilities Every Developer Should Know | Anmol Baranwal | [Read More](https://medium.com/p/cb3f880ab833) |
-| Wed, 13 Aug 2025 02:27:49 GMT | The 5 Cybersecurity Tools Every Mobile App Developer Needs in Their Stack | Aj | [Read More](https://medium.com/p/5904d0fc16c7) |
-| Wed, 13 Aug 2025 02:26:12 GMT | Digital Bloodhounds: The OSINT Playbook | Shreyanth Suresh Krishnaa | [Read More](https://medium.com/p/a14162690ec1) |
-| Wed, 13 Aug 2025 02:12:23 GMT | Why I Started Oversharing Online | Carol | [Read More](https://medium.com/p/3802ade2b8d5) |
-| Wed, 13 Aug 2025 02:07:29 GMT | OSCP Privilege Escalation — Shared Object Abuse | enigma_ | [Read More](https://medium.com/p/f73d583c9b3b) |
-| Wed, 13 Aug 2025 02:05:51 GMT | DEFCON Dive: Three Days of Tech, Tin Foil, and Total Chaos | Greg Heffner | [Read More](https://medium.com/p/6ed48e5a59bd) |
-| Wed, 13 Aug 2025 02:05:35 GMT | Snapping Safely: The Fun and Risks of Snapchat | Savvy Cyber Kids | [Read More](https://medium.com/p/76050367a3df) |
