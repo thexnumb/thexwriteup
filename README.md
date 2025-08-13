@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 08:30:15 GMT | EDR Killer in the Kill Chain | Nomit Vyas | [Read More](https://medium.com/p/5db7b54e1cc6) |
+| Wed, 13 Aug 2025 08:26:03 GMT | How to Write PHP Middleware That Thinks Like a Firewall | Asian Digital Hub | [Read More](https://medium.com/p/40ef1bf385a3) |
+| Wed, 13 Aug 2025 08:21:43 GMT | Hijacking the Pipeline: Mastering HTTP Desync Exploits | Dedrknex | [Read More](https://medium.com/p/532faf98dbbe) |
+| Wed, 13 Aug 2025 08:16:20 GMT | How to Learn Cybersecurity from Scratch in 2025? | cyber security Updates | [Read More](https://medium.com/p/904f64852917) |
+| Wed, 13 Aug 2025 08:15:30 GMT | Cybersecurity: Emerging Threats and Practical Safety Measures | Dipayan Ghosh | [Read More](https://medium.com/p/56f70915d712) |
+| Wed, 13 Aug 2025 08:14:16 GMT | Disclose the Agent — LetsDefend Challenge | Atlas Security | [Read More](https://medium.com/p/71b9d168b88d) |
+| Wed, 13 Aug 2025 08:13:49 GMT | Event Security Services: What They Are and When You Need Them | Jane Tang | [Read More](https://medium.com/p/0509bb6eaa28) |
+| Wed, 13 Aug 2025 08:13:15 GMT | Cyber Security in 2025: How to Stay Safe from Hackers and Online Threats” | Cyberfortress solutions | [Read More](https://medium.com/p/175caf6ba7c7) |
+| Wed, 13 Aug 2025 08:13:07 GMT | Dav Writeup: From WebDAV to Root | Abdul Ahad | [Read More](https://medium.com/p/526d067230b6) |
+| Wed, 13 Aug 2025 08:12:01 GMT | UNMASKING THE QA ANALYST: THE EVOLVING ARCHITECTS OF DIGITAL QUALITY | Anthony Hallasan Sibarani | [Read More](https://medium.com/p/f4792fde1a01) |
+| Wed, 13 Aug 2025 08:09:15 GMT | Real-Time CCTV Monitoring: What It Means and Why It Matters | Jane Tang | [Read More](https://medium.com/p/2fbad5f8eaba) |
+| Wed, 13 Aug 2025 08:07:41 GMT | Hijacking the Pipeline: Mastering HTTP Desync Exploits | Dedrknex | [Read More](https://medium.com/p/5c0eadc7189d) |
+| Wed, 13 Aug 2025 08:03:02 GMT | From Curiosity to Clarity: Harnessing OSINT for Ethical Intelligence Gathering | Ramadhana Khalaf Sandhyakala | [Read More](https://medium.com/p/b3ef0dfecd79) |
+| Wed, 13 Aug 2025 07:58:35 GMT | Hack SMB in Minutes: The Step-by-Step Guide Pentesters Don’t Want You to Miss! | Very Lazy Tech | [Read More](https://medium.com/p/f2c504d2e439) |
+| Wed, 13 Aug 2025 07:53:54 GMT | The “Tool Collector” Trap That’s Costing You Cybersecurity Interviews | Taimur Ijlal | [Read More](https://medium.com/p/9a7ca3ec73df) |
+| Wed, 13 Aug 2025 07:50:15 GMT | ODCrawler Open Directory OSINT | AbhirupKonwar | [Read More](https://medium.com/p/7a7b509ad083) |
+| Wed, 13 Aug 2025 07:40:09 GMT | Beyond Digital Dreams: Why Regional Banks Hold the Key to Indonesia’s AI-Ready Future | Joyeusefi | [Read More](https://medium.com/p/889685bd7d57) |
+| Wed, 13 Aug 2025 07:37:48 GMT | USB Forensics | Dean | [Read More](https://medium.com/p/ebcbcee996ec) |
+| Wed, 13 Aug 2025 07:36:57 GMT | Renovate: Automated Dependency Management | Manjit Singh | [Read More](https://medium.com/p/3d948bebae05) |
+| Wed, 13 Aug 2025 07:36:08 GMT | Security Awareness for Aliens | Serhan Eraslan | [Read More](https://medium.com/p/3c3207470f2e) |
 | Wed, 13 Aug 2025 07:35:07 GMT | “Package Hijack Meets GraphQL Goldmine: How One Recon Session Paid for My Caffeine Addiction” | Iski | [Read More](https://medium.com/p/8db6274d0811) |
+| Wed, 13 Aug 2025 07:34:45 GMT | Manage iOS Devices Like a Pro with Apple MDM Software | Vantage MDM | [Read More](https://medium.com/p/8cafe78ea161) |
 | Wed, 13 Aug 2025 07:28:27 GMT | Digital Forensics: The Science Behind Solving Cybercrime | Shraddhakaveri H | [Read More](https://medium.com/p/7425d2cd6f5f) |
 | Wed, 13 Aug 2025 07:25:46 GMT | Why Your Startup Isn’t Scaling And How to Fix It Without Burning Out | Talha Fakhar | [Read More](https://medium.com/p/fd5989110228) |
 | Wed, 13 Aug 2025 07:24:01 GMT | Audiobooks Market Share, Size, Growth & Trends 2025–2034 | Saurabhbadoni | [Read More](https://medium.com/p/b8ca4618176c) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 02:07:29 GMT | OSCP Privilege Escalation — Shared Object Abuse | enigma_ | [Read More](https://medium.com/p/f73d583c9b3b) |
 | Wed, 13 Aug 2025 02:05:51 GMT | DEFCON Dive: Three Days of Tech, Tin Foil, and Total Chaos | Greg Heffner | [Read More](https://medium.com/p/6ed48e5a59bd) |
 | Wed, 13 Aug 2025 02:05:35 GMT | Snapping Safely: The Fun and Risks of Snapchat | Savvy Cyber Kids | [Read More](https://medium.com/p/76050367a3df) |
-| Wed, 13 Aug 2025 02:05:19 GMT | I Have This Image of You and I’m Going to Spread It Everywhere | Savvy Cyber Kids | [Read More](https://medium.com/p/54afe49bac10) |
-| Wed, 13 Aug 2025 01:51:43 GMT | Breaking GenAI: Offensive Security for Modern AI Systems — My Blackhat Experience | Utku Yildirim | [Read More](https://medium.com/p/540016b85fbf) |
-| Wed, 13 Aug 2025 01:33:32 GMT | The Power of Simplicity in Security and Software Design | Raviteja Mureboina | [Read More](https://medium.com/p/78d731bf4f3d) |
-| Wed, 13 Aug 2025 01:32:43 GMT | EXIF Metadata: The Invisible Photo Data That Could Reveal Your Location | Ngoc Nguyen Nhu | [Read More](https://medium.com/p/56a7976d9f41) |
-| Wed, 13 Aug 2025 01:22:40 GMT | TryHackMe — Void Execution Write-up: Binary Analysis/Exploitation | チェインズ・ナバーロ | [Read More](https://medium.com/p/a1140acc6603) |
-| Wed, 13 Aug 2025 01:10:09 GMT | The Poisson Distribution: A Cybersecurity Defender’s Ally in Detecting Brute-Force Attacks | Patrick Lefler | [Read More](https://medium.com/p/d448522efcb7) |
-| Wed, 13 Aug 2025 01:09:32 GMT | To My Soulmate, To Me, To the Universe | Mark Donelson | [Read More](https://medium.com/p/bde1f0949c34) |
-| Wed, 13 Aug 2025 01:04:12 GMT | Hacking Instagram & LinkedIn: Costs, Tactics, and How to Defend Against Them | 0trust0day | [Read More](https://medium.com/p/456a352e54bb) |
-| Wed, 13 Aug 2025 00:41:23 GMT | Fail Securely: A Guide to Handling System Failures Safely | Raviteja Mureboina | [Read More](https://medium.com/p/94b19cf411fc) |
-| Wed, 13 Aug 2025 00:27:03 GMT | Overcoming Independence: Why Letting Others Help Strengthens Relationships | Lucas Brown | [Read More](https://medium.com/p/f421b823f18d) |
-| Wed, 13 Aug 2025 00:12:03 GMT | Part 1: Inside Windows: Windows Core Concepts: Processes, Threads, and the Foundations You Can’t… | DarKVoicE | [Read More](https://medium.com/p/b95912184a8c) |
-| Wed, 13 Aug 2025 00:11:52 GMT | Part 2: Inside Windows: Windows Core Concepts: API, Win32 Subsystem and the Layers You Didn’t Know… | DarKVoicE | [Read More](https://medium.com/p/3dc58833f94c) |
-| Wed, 13 Aug 2025 00:09:27 GMT | The Breach Sales Pitch Is Dead. Here’s Why We’ll Never Buy It Again. | Matt Snyder | [Read More](https://medium.com/p/69d2f7b01686) |
-| Wed, 13 Aug 2025 00:08:25 GMT | Windows smss.exe (Session Manager Subsystem) Explained | DarKVoicE | [Read More](https://medium.com/p/4c42e1324c3f) |
-| Wed, 13 Aug 2025 00:08:05 GMT | How I Built My Risk Register Using NIST SP 800–53 | Rachel Mileon-Chung | [Read More](https://medium.com/p/9b1c38c268ed) |
-| Wed, 13 Aug 2025 00:07:33 GMT | What is csrss.exe? Understanding the Client Server Runtime Subsystem in Windows | DarKVoicE | [Read More](https://medium.com/p/c0ac6c99f2c1) |
-| Wed, 13 Aug 2025 00:07:20 GMT | Understanding DOM-Based XSS in Acronis Promo Page: A Deep Dive | Monika sharma | [Read More](https://medium.com/p/568d2ee1284e) |
-| Wed, 13 Aug 2025 00:04:35 GMT | Secure DevOps: Baking Security into CI/CD Pipelines | Aj | [Read More](https://medium.com/p/0cdc0f9489d7) |
-| Wed, 13 Aug 2025 00:04:14 GMT | The Cybersecurity Disaster No One Saw Coming: How a Small Business Got Hacked Across 3 Operating… | Noel | [Read More](https://medium.com/p/42aad88f9d86) |
-| Tue, 12 Aug 2025 23:42:31 GMT | Anthropic and Amazon Nova Join Forces: The Blockchain Revolution Accelerated by AWS Futuristic… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/e919f56c8cd4) |
-| Tue, 12 Aug 2025 23:41:58 GMT | Introduction to Ethical Hacking: The Role of Virtual Machines, Linux, and Networking | Alna Mariya C T | [Read More](https://medium.com/p/aad3689fac83) |
