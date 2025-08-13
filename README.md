@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 21:11:47 GMT | Straw Students: AI-Powered Fraud is Infiltrating Higher Education | Chris Perkins | [Read More](https://medium.com/p/99deb1bfc66f) |
+| Wed, 13 Aug 2025 21:05:02 GMT | The Zero Trust Mirage: When Your Security Tools Are the Backdoor | Conceal, Inc. | [Read More](https://medium.com/p/fbefe5998af7) |
+| Wed, 13 Aug 2025 21:02:49 GMT | ️‍♂️ Hunt Me I: Payment Collectors — A Step-by-Step Threat Hunting Walkthrough | Furkanctiner | [Read More](https://medium.com/p/b58327c06b95) |
+| Wed, 13 Aug 2025 20:59:20 GMT | Path Confusion: The Subtle Trick That Fooled the Cache | Pushkar Bhagat | [Read More](https://medium.com/p/ebcfd1826923) |
+| Wed, 13 Aug 2025 20:57:05 GMT | How I Found the Truth About My Husband’s | Stanley K. Wilson | [Read More](https://medium.com/p/bda8aafe0ac5) |
+| Wed, 13 Aug 2025 20:56:32 GMT | Your Privacy Isn’t Just Slipping Away — It’s Evaporating | Unknown Source | [Read More](https://medium.com/p/2626c5214d31) |
+| Wed, 13 Aug 2025 20:55:12 GMT | The Hacker Knew My Password Before I Did | Shahzaib | [Read More](https://medium.com/p/e8e4a0c652d4) |
+| Wed, 13 Aug 2025 20:48:08 GMT | Synthetic Identity Fraud: The Fake People You Really Should Worry About | Akshay Chauhan | [Read More](https://medium.com/p/98d1eb920102) |
+| Wed, 13 Aug 2025 20:46:07 GMT | Why I No Longer Recommend NordVPN: A Support Nightmare | Join Me Abroad | [Read More](https://medium.com/p/061d2f74a78c) |
+| Wed, 13 Aug 2025 20:44:26 GMT | How Banks Can Strengthen Their Cybersecurity Risk Assessment Process in 2025 | Christine Thomas | [Read More](https://medium.com/p/079f3a8db1f3) |
+| Wed, 13 Aug 2025 20:38:47 GMT | Cypher - HacktheBox Writeup | CN-0x - eCPPT - OSCP - Threat Hunter | [Read More](https://medium.com/p/1823bb84a15b) |
 | Wed, 13 Aug 2025 20:31:43 GMT | The Bug That Survived Three Code Reviews and a QA Cycle | BugsyBits | [Read More](https://medium.com/p/d1ceb71ce19f) |
 | Wed, 13 Aug 2025 20:31:14 GMT | IDOR in Invitation Flow Leads to Denial of Signup and Account Manipulation | Mahmoud Gamal | [Read More](https://medium.com/p/98c51e0dd942) |
 | Wed, 13 Aug 2025 20:27:39 GMT | DeepSeek, The Shifting AI Landscape, and Global Tensions | Raga Gourineni | [Read More](https://medium.com/p/c3e15580df54) |
@@ -38,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 19:20:20 GMT | Automated Ethical Hacking with Python for Corporate Security Audits | Code With Hannan | [Read More](https://medium.com/p/ab23ecabeecb) |
 | Wed, 13 Aug 2025 19:15:25 GMT | An Intimate Song Analysis — Vaaroon | Riley | [Read More](https://medium.com/p/0ae2c71f1fd6) |
 | Wed, 13 Aug 2025 19:14:35 GMT | From Simple Restriction Bypass to Internal Privilege Escalation to High Impact IDOR | Mohammad-Nouri Almohammad | [Read More](https://medium.com/p/e7b8366ac70d) |
+| Wed, 13 Aug 2025 19:06:44 GMT | Educação e Conscientização em Segurança da Informação | Café Com Firewall | [Read More](https://medium.com/p/3b363d0e6309) |
 | Wed, 13 Aug 2025 18:59:43 GMT | ANXIETY — How Running a Business Can Make Your Heart Race (But It Doesn’t Have To) | Vincent Brown | [Read More](https://medium.com/p/97f1159a25ac) |
 | Wed, 13 Aug 2025 18:56:04 GMT | Unmasking Zero-Click Zero-Day Vulnerabilities in iPhone 16 and WhatsApp: A Comprehensive Analysis… | zeubemito silva | [Read More](https://medium.com/p/5ac657abb97a) |
 | Wed, 13 Aug 2025 18:53:31 GMT | LLM based Threat Modeling: Let AI Think Like a Hacker, So You Don’t Have To | noailabs | [Read More](https://medium.com/p/43d1960e1b31) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 16:26:37 GMT | How Tech Companies Hack Your Brain | Isla Hendricks | [Read More](https://medium.com/p/da42aa56598b) |
 | Wed, 13 Aug 2025 16:17:37 GMT | Who We Are — Hello Future Technologies (Private) Limited | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/ea9fe1a8ea4a) |
 | Wed, 13 Aug 2025 16:16:26 GMT | From GeoGuessr to Real-World Investigations: Mastering the Tools of Digital Sleuthing | Ahmad Naufal Ramadan | [Read More](https://medium.com/p/491d9e5e6abc) |
-| Wed, 13 Aug 2025 16:15:20 GMT | I LOST CRYPTO. HOW CAN I RECOVER IT? GO THROUGH OPTIMISTIC HACKER GAIUS | Danielwilliam | [Read More](https://medium.com/p/4e579f36ad8c) |
-| Wed, 13 Aug 2025 16:13:37 GMT | The Silent Battle Against Cyber Threats | Token: Next-Generation, Phishing-Proof MFA | [Read More](https://medium.com/p/108d74305665) |
-| Wed, 13 Aug 2025 16:11:04 GMT | Disinformation: A Persistent Threat in the Digital Environment | Khalig Hesenov | [Read More](https://medium.com/p/532e1c6cf0a2) |
-| Wed, 13 Aug 2025 16:10:48 GMT | How a 2015 Dahua Port Scan Became a Zero-Day Time Capsule | hacker_might | [Read More](https://medium.com/p/1f9142420e5a) |
-| Wed, 13 Aug 2025 16:09:01 GMT | Mastering NTFS Forensics: A Comprehensive Guide for Practitioners | Thakur Ashutosh | [Read More](https://medium.com/p/1236618f0d49) |
-| Wed, 13 Aug 2025 16:08:45 GMT | Migrating Trust | Jess Trochet | [Read More](https://medium.com/p/8ffd2c73fd1a) |
-| Wed, 13 Aug 2025 16:08:22 GMT | Phala Cloud Strengthens Security with New Two-Factor Authentication and Session Management Features | Soulman | [Read More](https://medium.com/p/e76f0133adcc) |
-| Wed, 13 Aug 2025 16:06:20 GMT | I LOST CRYPTO. HOW CAN I RECOVER IT? GO THROUGH OPTIMISTIC HACKER GAIUS | Danielwilliam | [Read More](https://medium.com/p/69e3f087a131) |
-| Wed, 13 Aug 2025 16:06:15 GMT | A Virus with Love: How the ILOVEYOU Worm Spread Chaos Online | Naman Rajput | [Read More](https://medium.com/p/4632ff72edba) |
-| Wed, 13 Aug 2025 15:56:05 GMT | The 10-second step hackers don’t want you to know | Online Safety Zone | [Read More](https://medium.com/p/bc96a242c65b) |
-| Wed, 13 Aug 2025 15:55:00 GMT | OSINT: The Art of Intelligence Without Intrusion — A Deep Dive into Modern Open Source Intelligence | [099YTZ] YENNI THERESIA ZALUKHU | [Read More](https://medium.com/p/dccf20e4004f) |
-| Wed, 13 Aug 2025 15:53:23 GMT | Phishing Selectivo: Un Ataque que Solo Roba Credenciales Válidas | Luis Angel Ramirez Mendoza | [Read More](https://medium.com/p/72d5df31dde4) |
