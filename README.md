@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 12:47:30 GMT | Implementation of Check Point Deep Discovery Analyzer (DDAN) | Rahul Singh | [Read More](https://medium.com/p/7dd4973b6b5e) |
+| Wed, 13 Aug 2025 12:40:19 GMT | Best Cloud Telephony Service Provider In India | Ashutosh Mallik | [Read More](https://medium.com/p/70705508ef88) |
+| Wed, 13 Aug 2025 12:37:58 GMT | Secure Your Data: A Practical Guide to Encryption with Java | Umesh Kumar Yadav | [Read More](https://medium.com/p/2edec5687022) |
+| Wed, 13 Aug 2025 12:34:30 GMT | Why “Quiet” Cyberattacks Are the Ones Keeping Experts Up at Night | Dhruvdeep Singh | [Read More](https://medium.com/p/32144c7cba56) |
+| Wed, 13 Aug 2025 12:31:58 GMT | How Cloudflare Serves 45 Million Requests per Second Without Breaking a Sweat | Observability Guy | [Read More](https://medium.com/p/ee8cbfa66e12) |
+| Wed, 13 Aug 2025 12:27:28 GMT | The Quiet Walls Men Build Around Their Own Pain | Dhruvdeep Singh | [Read More](https://medium.com/p/4cb584debb35) |
+| Wed, 13 Aug 2025 12:24:06 GMT | Boost Efficiency with Offshore Software Development Services | inoday consultancy services | [Read More](https://medium.com/p/ff3eb2d7165a) |
+| Wed, 13 Aug 2025 12:22:10 GMT | When Trust Has Been Broken, Openness Feels Like Risk | Daniel Olagunju | [Read More](https://medium.com/p/0e717a14cffd) |
+| Wed, 13 Aug 2025 12:20:31 GMT | SMT Program 2025 — Special Lecture 1 Journal | Mjibrahim | [Read More](https://medium.com/p/3c3b68045670) |
+| Wed, 13 Aug 2025 12:19:45 GMT | Mastering Blind & Error-Based SQL Injection: My Hands-On Journey with PortSwigger Labs | Chandra Kamal Singh | [Read More](https://medium.com/p/8183970180fb) |
+| Wed, 13 Aug 2025 12:18:19 GMT | Master the Digital Defense: Ethical Hacking Training & Cybersecurity Course in Trivandrum | Athiresh | [Read More](https://medium.com/p/ad349bd97e75) |
+| Wed, 13 Aug 2025 12:12:58 GMT | How a job application turns into threat intelligence Part-2 | Anirudh Bishnoi | [Read More](https://medium.com/p/773ee4b65340) |
+| Wed, 13 Aug 2025 12:08:00 GMT | Cybersecurity Lagging Behind AI Progress: But, By 2028 Most Cybersecurity Operations Will Be… | noailabs | [Read More](https://medium.com/p/c5830cdc2c57) |
+| Wed, 13 Aug 2025 12:04:34 GMT | Fast-Track PMIS Deployment — How Envision Delivers in Record Time | P Harshavardhan | [Read More](https://medium.com/p/e1c637c55a78) |
+| Wed, 13 Aug 2025 12:04:19 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/9e4dcade16fe) |
+| Wed, 13 Aug 2025 12:01:46 GMT | Security Logging and Monitoring Best Practices for Threat Detection | The Adminn Team | [Read More](https://medium.com/p/7dd1d76513a8) |
+| Wed, 13 Aug 2025 11:57:18 GMT | “Most JWTs Are Insecure. Here’s How to Make Yours Bulletproof” | Abdelrahman Soliman | [Read More](https://medium.com/p/a92c66a5f270) |
+| Wed, 13 Aug 2025 11:52:54 GMT | Brooklyn Nine Nine CTF Write-Up - TryHackMe | LatifX05 | [Read More](https://medium.com/p/1073afe86c75) |
+| Wed, 13 Aug 2025 11:50:01 GMT | Playing with SecuMS & Omniguard | Tiara Atarian | [Read More](https://medium.com/p/6822cddb5862) |
+| Wed, 13 Aug 2025 11:49:27 GMT | Host Header Magic: Unlocking Hidden Portals by Just Changing ONE Field! | Zoningxtr | [Read More](https://medium.com/p/4b762e167a74) |
+| Wed, 13 Aug 2025 11:45:23 GMT | Child and Family Safety Online: Ech Browser’s Parental Controls and Education Tools | Psylinks Announce | [Read More](https://medium.com/p/ef10e788a0f6) |
+| Wed, 13 Aug 2025 11:44:14 GMT | SMT Program Special Lecture 1: OSINT - Knowing Without Breaching | Irsyad Fauzan Hanaf | [Read More](https://medium.com/p/0b03a56fd8a1) |
+| Wed, 13 Aug 2025 11:41:24 GMT | DockerLabs Writeup — Asucar (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/df6560f35e13) |
+| Wed, 13 Aug 2025 11:39:41 GMT | Cyber Security London: Comprehensive IT Security Audits to Protect Your Business | Paladin Cyber Security London | [Read More](https://medium.com/p/e9efdabeb9eb) |
 | Wed, 13 Aug 2025 11:34:46 GMT | The New Frontline in Digital Defense | Abdul Saboor | [Read More](https://medium.com/p/020aa2735388) |
 | Wed, 13 Aug 2025 11:34:42 GMT | In an era where cyber threats are constantly evolving, maintaining strong password security has… | Password Manager | [Read More](https://medium.com/p/f843b65c4008) |
 | Wed, 13 Aug 2025 11:31:46 GMT | When AI Gets Played: Understanding and Preventing Prompt Injection | Brittney Ginther | [Read More](https://medium.com/p/742890f7f7c5) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 08:12:01 GMT | UNMASKING THE QA ANALYST: THE EVOLVING ARCHITECTS OF DIGITAL QUALITY | Anthony Hallasan Sibarani | [Read More](https://medium.com/p/f4792fde1a01) |
 | Wed, 13 Aug 2025 08:09:15 GMT | Real-Time CCTV Monitoring: What It Means and Why It Matters | Jane Tang | [Read More](https://medium.com/p/2fbad5f8eaba) |
 | Wed, 13 Aug 2025 08:07:41 GMT | Hijacking the Pipeline: Mastering HTTP Desync Exploits | Dedrknex | [Read More](https://medium.com/p/5c0eadc7189d) |
-| Wed, 13 Aug 2025 08:03:02 GMT | From Curiosity to Clarity: Harnessing OSINT for Ethical Intelligence Gathering | Ramadhana Khalaf Sandhyakala | [Read More](https://medium.com/p/b3ef0dfecd79) |
-| Wed, 13 Aug 2025 07:58:35 GMT | Hack SMB in Minutes: The Step-by-Step Guide Pentesters Don’t Want You to Miss! | Very Lazy Tech | [Read More](https://medium.com/p/f2c504d2e439) |
-| Wed, 13 Aug 2025 07:53:54 GMT | The “Tool Collector” Trap That’s Costing You Cybersecurity Interviews | Taimur Ijlal | [Read More](https://medium.com/p/9a7ca3ec73df) |
-| Wed, 13 Aug 2025 07:50:15 GMT | ODCrawler Open Directory OSINT | AbhirupKonwar | [Read More](https://medium.com/p/7a7b509ad083) |
-| Wed, 13 Aug 2025 07:40:09 GMT | Beyond Digital Dreams: Why Regional Banks Hold the Key to Indonesia’s AI-Ready Future | Joyeusefi | [Read More](https://medium.com/p/889685bd7d57) |
-| Wed, 13 Aug 2025 07:37:48 GMT | USB Forensics | Dean | [Read More](https://medium.com/p/ebcbcee996ec) |
-| Wed, 13 Aug 2025 07:36:57 GMT | Renovate: Automated Dependency Management | Manjit Singh | [Read More](https://medium.com/p/3d948bebae05) |
-| Wed, 13 Aug 2025 07:36:08 GMT | Security Awareness for Aliens | Serhan Eraslan | [Read More](https://medium.com/p/3c3207470f2e) |
-| Wed, 13 Aug 2025 07:35:07 GMT | “Package Hijack Meets GraphQL Goldmine: How One Recon Session Paid for My Caffeine Addiction” | Iski | [Read More](https://medium.com/p/8db6274d0811) |
-| Wed, 13 Aug 2025 07:34:45 GMT | Manage iOS Devices Like a Pro with Apple MDM Software | Vantage MDM | [Read More](https://medium.com/p/8cafe78ea161) |
-| Wed, 13 Aug 2025 07:28:27 GMT | Digital Forensics: The Science Behind Solving Cybercrime | Shraddhakaveri H | [Read More](https://medium.com/p/7425d2cd6f5f) |
-| Wed, 13 Aug 2025 07:25:46 GMT | Why Your Startup Isn’t Scaling And How to Fix It Without Burning Out | Talha Fakhar | [Read More](https://medium.com/p/fd5989110228) |
-| Wed, 13 Aug 2025 07:24:01 GMT | Audiobooks Market Share, Size, Growth & Trends 2025–2034 | Saurabhbadoni | [Read More](https://medium.com/p/b8ca4618176c) |
-| Wed, 13 Aug 2025 07:14:55 GMT | ISMAP Management Standards Chapter 16: Preparing for and Responding to Information Security… | nolly | [Read More](https://medium.com/p/37d6ca423792) |
-| Wed, 13 Aug 2025 07:13:19 GMT | FortiRecon: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c6e23d311eda) |
-| Wed, 13 Aug 2025 07:12:20 GMT | Easy Hacking with Python: Learn Ethical Hacking Step by Step | Kenny Kane | [Read More](https://medium.com/p/80386f1ca6cb) |
-| Wed, 13 Aug 2025 07:11:12 GMT | Hack The Box-Editor Walkthrough | NV | [Read More](https://medium.com/p/4692e7cdfcf6) |
-| Wed, 13 Aug 2025 07:10:50 GMT | Diving Into Nessus: Scanning Test Targets Like vulnweb.php | Saijayanth | [Read More](https://medium.com/p/d0ea8fcc5992) |
-| Wed, 13 Aug 2025 07:01:05 GMT | SMT Program Expert Lecture 2: CCE-Based Assessment and Integrated Server Security Solutions | Irsyad Fauzan Hanaf | [Read More](https://medium.com/p/eeab24a80052) |
-| Wed, 13 Aug 2025 06:53:40 GMT | eJPT Zero to Hero: Post Exploitation CTF 2 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/9ca5e3ad9b7a) |
-| Wed, 13 Aug 2025 06:53:03 GMT | OSINT: The Scientific Way to Track People (and Solve Problems) | Muhammad Rifqy | [Read More](https://medium.com/p/7ef797f98696) |
-| Wed, 13 Aug 2025 06:50:37 GMT | OSINT — Knowing Without Breaching | Khairielputra | [Read More](https://medium.com/p/37d846b7623c) |
-| Wed, 13 Aug 2025 06:48:44 GMT | API 5:2023 — Broken Function Level Authorization : Unseen Authorizations, Critical Threats | Apifort | [Read More](https://medium.com/p/f6aabfd23bf2) |
-| Wed, 13 Aug 2025 06:46:46 GMT | Scheduled Asset Scan: Functionality, Tools, and Setup Challenges | AssetLoom | [Read More](https://medium.com/p/eea54585e22c) |
