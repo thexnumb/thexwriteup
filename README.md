@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 10:15:50 GMT | How Multiple Devices Share the Same Public IP Without Getting Confused | Sutharsan | [Read More](https://medium.com/p/c34c45141529) |
+| Wed, 13 Aug 2025 10:11:00 GMT | AWS VPC & IP Address Secrets: What Every Engineer Must Know in 2025 | Ismail Kovvuru | [Read More](https://medium.com/p/8166818d3589) |
+| Wed, 13 Aug 2025 10:08:59 GMT | 16 Billion credentials leaked — Could poor Risk Management strategies be at fault | Cisogenemarketing | [Read More](https://medium.com/p/7fffefbf4a9d) |
+| Wed, 13 Aug 2025 10:05:40 GMT | Common Types of Digital Evidence — How Investigators Build Bulletproof Cases | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/3f8b41be5d31) |
+| Wed, 13 Aug 2025 09:59:31 GMT | TryHackMe CTF: Pickle Rick — Write-up!!! | Yashpreeth Nijalinge | [Read More](https://medium.com/p/11ddc76b6e0b) |
+| Wed, 13 Aug 2025 09:59:29 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/659e83c06846) |
+| Wed, 13 Aug 2025 09:58:59 GMT | Account Manipulation (T1098) — When Hackers Hijack Your Keys | MITRE Doggy | [Read More](https://medium.com/p/45353179ee86) |
+| Wed, 13 Aug 2025 09:55:31 GMT | AI in Cybersecurity: Who’s Winning — Hackers or Defenders? | Kashyap Joshi | [Read More](https://medium.com/p/8be416c8f9d4) |
+| Wed, 13 Aug 2025 09:51:10 GMT | Cybersecurity and Privacy: Balancing Protection and Freedom | Cyber Security Research | [Read More](https://medium.com/p/2d508cdc73a8) |
+| Wed, 13 Aug 2025 09:50:31 GMT | HPE Warns of Critical Backdoor Flaw in Aruba Instant On Access Points | SafetyDetectives Research Team | [Read More](https://medium.com/p/237972f52edf) |
+| Wed, 13 Aug 2025 09:50:21 GMT | Excessive trust in client-side controls (Business Logic vuln.) | Gumn4m1 | [Read More](https://medium.com/p/99a813bcb79d) |
+| Wed, 13 Aug 2025 09:49:42 GMT | The Human Element in Cybersecurity: Addressing User Error | Cyber Security Research | [Read More](https://medium.com/p/5baa2466f1b2) |
+| Wed, 13 Aug 2025 09:48:08 GMT | “ITGC vs Risk Assessment: Understanding IT Controls, Risk Assessment, and Modern Compliance… | Mohammed Yaseen | [Read More](https://medium.com/p/d9748bc5edd1) |
 | Wed, 13 Aug 2025 09:33:13 GMT | CEO Blind Spots That Put Your Company at Risk | Evgeny Ermakov | [Read More](https://medium.com/p/32806531ea72) |
 | Wed, 13 Aug 2025 09:27:49 GMT | Are you just changing sites… or actually growing in your journey? | EXLITY | [Read More](https://medium.com/p/3eb990a25452) |
 | Wed, 13 Aug 2025 09:26:38 GMT | Special Lecture II | unknownman | [Read More](https://medium.com/p/f5b01fd55aef) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 05:01:39 GMT | 10 Networking Basics Every Cybersecurity Professional Should Known and Understand | Raymond Ebonine | [Read More](https://medium.com/p/7ea31eecdd06) |
 | Wed, 13 Aug 2025 04:55:58 GMT | How Does an IP Address Scanner Work | AssetLoom | [Read More](https://medium.com/p/81c89ff45b0d) |
 | Wed, 13 Aug 2025 04:55:34 GMT | yenepoya dental diary | Moosa adnan | [Read More](https://medium.com/p/1fd0a94f3cbe) |
-| Wed, 13 Aug 2025 04:51:42 GMT | Application Writing Services | Rayolivia | [Read More](https://medium.com/p/011012b9aefd) |
-| Wed, 13 Aug 2025 04:51:05 GMT | SMT Program 2025 Expert Lecture 1 Journal | Mjibrahim | [Read More](https://medium.com/p/c2ac7ab8fa44) |
-| Wed, 13 Aug 2025 04:47:45 GMT | The Windows Concept Journey — SMB (Server Message Block) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/ec0767631252) |
-| Wed, 13 Aug 2025 04:43:33 GMT | How Do You Implement a Caesar Cipher in Kotlin? | amol pawar | [Read More](https://medium.com/p/71af0c2b6887) |
-| Wed, 13 Aug 2025 04:40:30 GMT | Day 30- Performing CRUD on files and databases for beginners | unica 02 | [Read More](https://medium.com/p/15c8d5c50f8a) |
-| Wed, 13 Aug 2025 04:37:58 GMT | How to totally secure your computer, phone or other device! | Paul AJ | [Read More](https://medium.com/p/5c8a8417a02a) |
-| Wed, 13 Aug 2025 04:33:15 GMT | Metasploitable 1 — Three Paths to Pwnage | Ahmadhossam | [Read More](https://medium.com/p/7fe988d66031) |
-| Wed, 13 Aug 2025 04:26:54 GMT | CYBER SECURITY HOMELAB PROJECT | Maxwell Day | [Read More](https://medium.com/p/675d6c1557e3) |
-| Wed, 13 Aug 2025 04:23:12 GMT | The online encounter with phishing attacks. | Bradley Woon | [Read More](https://medium.com/p/cf9e7dfd2e5e) |
-| Wed, 13 Aug 2025 04:17:18 GMT | Password Reset Poisoning via Middleware: The Hidden Flaw That Can Lead to Account Takeover | Bash Overflow | [Read More](https://medium.com/p/899416465d45) |
-| Wed, 13 Aug 2025 04:15:25 GMT | Leveraging Wazuh for Compliance with Bank Indonesia and OJK Cybersecurity Regulation (Part 2) —… | Ismail Hakim | [Read More](https://medium.com/p/51ded924ebe2) |
-| Wed, 13 Aug 2025 04:03:22 GMT | CVE-2025–6543: The Citrix NetScaler Zero-Day Exploit Rocking Critical Infrastructure | IamPreth | [Read More](https://medium.com/p/0c5d1e5d2432) |
-| Wed, 13 Aug 2025 04:02:16 GMT | Rising from the Valley: How Faith and Resilience Turned My Lowest Point into a Launchpad | Inayat Hussain | [Read More](https://medium.com/p/d3765f067bcb) |
