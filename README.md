@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 17:30:48 GMT | TryHackMe - Humans as Attack Vectors | Mithilp | [Read More](https://medium.com/p/c9e999ec8835) |
+| Wed, 13 Aug 2025 17:24:37 GMT | iPhone Crypto Scare? What Apple Isn’t Telling You | Truspex | [Read More](https://medium.com/p/fc32b2924348) |
+| Wed, 13 Aug 2025 17:22:24 GMT | Welcome to My Corner of the Internet — Talking VPNs, Privacy, and the Digital World | Jason Miller | [Read More](https://medium.com/p/255604953315) |
+| Wed, 13 Aug 2025 17:16:05 GMT | Haven1: The EVM L1 Built for DeFi 2.0, Real-World Assets, and a Safer Web3 | Mr Alex Yung® | [Read More](https://medium.com/p/bb1f889f569a) |
+| Wed, 13 Aug 2025 17:15:12 GMT | Cybersecurity in ’25: Ready to Hack Your Future? | Authlyn | [Read More](https://medium.com/p/3e2276c08575) |
+| Wed, 13 Aug 2025 17:15:03 GMT | Incident Investigation Report (The Hunters Games CTF) | Jawher Mastour | [Read More](https://medium.com/p/dfd4bd600c46) |
+| Wed, 13 Aug 2025 17:14:39 GMT | Nails for Breakfast: A Lifelong Lesson from My Father | Marcus Cole | [Read More](https://medium.com/p/5ac41969fcab) |
+| Wed, 13 Aug 2025 17:09:14 GMT | Building an AI-Powered Honeypot Log Analyzer: From Raw Logs to Compelling Security Narratives | SR | [Read More](https://medium.com/p/fae534fff9e1) |
 | Wed, 13 Aug 2025 17:08:59 GMT | We Gave Google Everything. They Couldn’t Keep It Safe.❌ | Prince Bharti | [Read More](https://medium.com/p/d6cd126d68f0) |
 | Wed, 13 Aug 2025 17:08:51 GMT | OSINT101: Why Not All ‘Stalking’ Is Worthy of OSINT | Hildan Kusto Utomo | [Read More](https://medium.com/p/59145bd36474) |
 | Wed, 13 Aug 2025 17:07:23 GMT | How to Actually Leverage the MITRE ATT&CK Framework in Security Operations | Ryan G. Cox | [Read More](https://medium.com/p/67ec59c5d788) |
@@ -105,11 +113,3 @@ A few years ago, a term… | Jose Saucedo | [Read More](https://medium.com/p/810
 | Wed, 13 Aug 2025 14:13:30 GMT | SMT Program 2025 Journal — Special Lecture 1 | Sarah | [Read More](https://medium.com/p/a87c7724dba0) |
 | Wed, 13 Aug 2025 14:08:44 GMT | Strengthening Operational Resilience: Managing Third-Party Data Risks for Faster Recovery and… | marcus evans online events | [Read More](https://medium.com/p/051ef21fa1b4) |
 | Wed, 13 Aug 2025 14:02:09 GMT | The Future of Cybersecurity Consulting | abdeldayemnour | [Read More](https://medium.com/p/9559e0c5cea6) |
-| Wed, 13 Aug 2025 14:02:05 GMT | Cyber Briefing: 2025.08.13 | CyberMaterial | [Read More](https://medium.com/p/393a3e9e92fe) |
-| Wed, 13 Aug 2025 14:00:17 GMT | Windows’ta Syscall ve Native API Kullanımının Derinlemesine Analizi | Mehmet Sancaktaroğlu | [Read More](https://medium.com/p/6df57991b66c) |
-| Wed, 13 Aug 2025 13:51:01 GMT | Out of Sight, Out of Control: The Risk of Shadow IT in Growing Businesses | CoopSys | [Read More](https://medium.com/p/823cce55997b) |
-| Wed, 13 Aug 2025 13:34:16 GMT | [TryHackMe] Diskrupt Walktrough | Kuba Herka | [Read More](https://medium.com/p/859a3ea749ae) |
-| Wed, 13 Aug 2025 13:33:16 GMT | OSINT: Knowing Without Breaching | Fidelya | [Read More](https://medium.com/p/962c8feaf04a) |
-| Wed, 13 Aug 2025 13:31:57 GMT | Top Features to Look for in a File Uploading Site | Idera Dev Tools | [Read More](https://medium.com/p/a6b60c2bc368) |
-| Wed, 13 Aug 2025 13:28:23 GMT | Breach-Centric Security: Why Behavior Beats Signatures — and How to Build Cyber Resilience | Agung Vivekananda | [Read More](https://medium.com/p/43dc66f6a9a2) |
-| Wed, 13 Aug 2025 13:25:41 GMT | Level Up Your Business: Why Cyber Threat Intelligence (CTI) Will Be Your Secret Weapon in 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/a02db1335b8f) |
