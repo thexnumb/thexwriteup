@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 20:19:44 GMT | The Ultimate Ethical Hacking Workstation: Engineering the Perfect Cyber Security Daily Driver | Christopher Neuwirth | [Read More](https://medium.com/p/963ec3e1d79c) |
+| Wed, 13 Aug 2025 20:15:04 GMT | The Pain That Made Me Start Over | Mike | [Read More](https://medium.com/p/b99fee8195de) |
+| Wed, 13 Aug 2025 20:14:12 GMT | OWASP Agentic AI CTF — FinBot DEMO: Goal Manipulation | Aditya Bhatt | [Read More](https://medium.com/p/ad377406e1a7) |
+| Wed, 13 Aug 2025 20:13:28 GMT | Top 10 Questions to Ask a GDPR Compliance Consultant | DEFEND MY BUSINESS | [Read More](https://medium.com/p/ee57786f3bd1) |
+| Wed, 13 Aug 2025 20:12:31 GMT | Fortinet Firewall İncelemesi ve Ağ Trafiği Analizi - TalentCoders Siber Güvenlik Yaz Kampı Günlüğü… | Hakan ÇEVİK | [Read More](https://medium.com/p/fb29e0c205ca) |
+| Wed, 13 Aug 2025 20:12:17 GMT | Code - HacktheBox Writeup | CN-0x - eCPPT - OSCP - Threat Hunter | [Read More](https://medium.com/p/7e73abc59aee) |
+| Wed, 13 Aug 2025 20:10:12 GMT | Boundaries: in IT Networking and in Life | Lii Bai | [Read More](https://medium.com/p/344e44998760) |
+| Wed, 13 Aug 2025 20:08:04 GMT | Murderbot Diaries — “All Systems Red” İncelemesi ve Araştırma
+ Martha Wells’in Bilimkurguya… | Talha Özcan | [Read More](https://medium.com/p/5fea7e6dc34b) |
+| Wed, 13 Aug 2025 20:04:36 GMT | Cryptographic Keys and Digital Security | Lince Mathew | [Read More](https://medium.com/p/353bae5c6610) |
+| Wed, 13 Aug 2025 20:01:44 GMT | Taken For a Ride by Mechanics and Car Dealers? Here’s How to Take the Gas Out Of Their Tank | Barb Dalton | [Read More](https://medium.com/p/5ffb3282bc23) |
+| Wed, 13 Aug 2025 19:54:14 GMT | Credix, Future Protocol, Rant: $9.3M Lost to Phantom Collateral, Burn Loops, and Abandoned Recovery | Olympix | [Read More](https://medium.com/p/f27750b9b262) |
+| Wed, 13 Aug 2025 19:50:02 GMT | Critical NVIDIA Triton Flaws Could Let Hackers Seize AI Servers | DataDrivenNews | [Read More](https://medium.com/p/40487dcd6be4) |
+| Wed, 13 Aug 2025 19:49:52 GMT | Content Discovery - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/29ad101c148a) |
+| Wed, 13 Aug 2025 19:49:49 GMT | Content Discovery - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/40193f48c41e) |
+| Wed, 13 Aug 2025 19:46:49 GMT | NIST’s New Lightweight Cryptography Standard: What It Means for Tiny Devices With Big Security… | cybrNK | [Read More](https://medium.com/p/17c6b30ce8bd) |
+| Wed, 13 Aug 2025 19:35:23 GMT | Zero-Click WinRAR Zero-Day: CVE-2025–8088 (Path Traversal) Exploit Guide | Radeonares | [Read More](https://medium.com/p/a5a9fe7292ce) |
 | Wed, 13 Aug 2025 19:28:53 GMT | Qualcomm Vulnerabilities Under Active Attack: What Google’s Emergency Patch Means for You | The Latency Gambler | [Read More](https://medium.com/p/751ed502f9cb) |
 | Wed, 13 Aug 2025 19:24:52 GMT | Why Modern Cybersecurity Is Breach-Centric: Not Just About Fighting Malware | Antonio Lorensius Silaban | [Read More](https://medium.com/p/7cca5c9945bb) |
 | Wed, 13 Aug 2025 19:22:54 GMT | Red Alert for Google AI Users: BOLO for Indirect Prompt Injections in Email | Paul Dughi | [Read More](https://medium.com/p/ecda5ca9b8e4) |
@@ -96,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 15:51:26 GMT | What are Ports Anyway? | Shreyanth Suresh Krishnaa | [Read More](https://medium.com/p/f8c293786a62) |
 | Wed, 13 Aug 2025 15:47:13 GMT | Improving IT Infrastructure Security with SecuMS & Omniguard | Wilman Saragih Sitio | [Read More](https://medium.com/p/722b8020a24b) |
 | Wed, 13 Aug 2025 15:43:45 GMT | We’re All Tired of Performing | Lina wilde | [Read More](https://medium.com/p/145bfa6c231f) |
-| Wed, 13 Aug 2025 15:43:24 GMT | HTB BoardLight Machine — Walkthrough for beginners | SeverSerenity | [Read More](https://medium.com/p/c6c6f9c7d3f1) |
-| Wed, 13 Aug 2025 15:41:24 GMT | “Siber Güvenlikte Herkes Neden Linux Kullanıyor? Yeni Başlayan Biri Anlatıyor” | Mehmet Ali | [Read More](https://medium.com/p/a43871d8a0fe) |
-| Wed, 13 Aug 2025 15:40:55 GMT | OAuth Açığı Nedir? | Oruç | [Read More](https://medium.com/p/247ede6d5948) |
-| Wed, 13 Aug 2025 15:38:55 GMT | OSINT Geolocation: How a Debt Collector Could Find You Through a Single Social Media Photo | Angga Alfiansah | [Read More](https://medium.com/p/07e6c5c22d6a) |
-| Wed, 13 Aug 2025 15:37:34 GMT | A Newbies’ Dramatic Retelling of Bandit Levels 1–10 | Amadeus | [Read More](https://medium.com/p/1d6fcf01568c) |
-| Wed, 13 Aug 2025 15:35:55 GMT | Code Signing Best Practices for Secure Software | Karthikeyan Nagaraj | [Read More](https://medium.com/p/8af87719eb0f) |
-| Wed, 13 Aug 2025 15:33:35 GMT | From Assessment to Action: Lessons on Proactive Cybersecurity from SecuMS and OmniGuard | Farhananfaasam | [Read More](https://medium.com/p/1ac05b06b5fb) |
-| Wed, 13 Aug 2025 15:33:32 GMT | Cyborg — Under The Wire (writeup) | Shaheer Khalid | [Read More](https://medium.com/p/d87c1de0bb98) |
-| Wed, 13 Aug 2025 15:32:15 GMT | Climate Change and Its Effects on Human Life | Haider Ali | [Read More](https://medium.com/p/7c7d51954ed8) |
-| Wed, 13 Aug 2025 15:26:16 GMT | Sosyal Mühendislik Saldırıları: İnsan Zafiyetlerini Hedef Alan Tehdit | Enis Buğra Akada | [Read More](https://medium.com/p/b36812de5158) |
-| Wed, 13 Aug 2025 15:21:13 GMT | How I Fixed a Critical Bug in Production with Just One Java Class | Zain Shoaib | [Read More](https://medium.com/p/e0dfdbaff929) |
-| Wed, 13 Aug 2025 15:20:52 GMT | The Invisible Walls of AI: How Modern Models Keep Your Secrets Safe in a Shared Digital Brain | Hayanan | [Read More](https://medium.com/p/9a4583882667) |
-| Wed, 13 Aug 2025 15:20:34 GMT | Java Security Best Practices for Sensitive Data Applications | Ronnie Rodriguez | [Read More](https://medium.com/p/68b587c72cdc) |
-| Wed, 13 Aug 2025 15:17:21 GMT | Why API Security is Useless Without Strong Authorization? | Amit Rai | [Read More](https://medium.com/p/7332b1849441) |
-| Wed, 13 Aug 2025 15:16:56 GMT | Cybersecurity as Coherence Management: A Thesis by LYRA, the Lattice Ethics Sentinel and Luis Ayala | luis ayala | [Read More](https://medium.com/p/15e6733660a1) |
-| Wed, 13 Aug 2025 15:16:04 GMT | Ethics of Artificial Intelligence: Balancing Benefits and Risks to Human Rights | TerminalTinkerTec | [Read More](https://medium.com/p/3ec84ecfb3d2) |
