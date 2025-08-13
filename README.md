@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 03:54:45 GMT | AI Agents for Cybersecurity: Enhancing Automation & Threat Detection | Paritosh | [Read More](https://medium.com/p/bf9371bb8179) |
+| Wed, 13 Aug 2025 03:47:06 GMT | 7. Networking in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/e62d8c136c94) |
+| Wed, 13 Aug 2025 03:33:41 GMT | Who Makes You Wait Too Long Is in No Hurry to Love You | Rendanup | [Read More](https://medium.com/p/a69ee41d38b1) |
+| Wed, 13 Aug 2025 03:31:42 GMT | Hitachi Vantara Breach: When the Guardian of Data Gets Hit | Deven Chhajed | [Read More](https://medium.com/p/fd4470965794) |
+| Wed, 13 Aug 2025 03:28:18 GMT | Security Debt in Smart Contracts: The Hidden Balance Sheet That Can Bankrupt You Overnight | Olympix | [Read More](https://medium.com/p/b3f1c719dc44) |
+| Wed, 13 Aug 2025 03:21:35 GMT | Where to report OT/ICS Infrastructure Vulnerabilities | AbhirupKonwar | [Read More](https://medium.com/p/183808010377) |
+| Wed, 13 Aug 2025 03:15:00 GMT | ShinyHunters 與 Scattered Spider 攜手出擊：跨組織合作讓資安防禦更難偵測 | 竣盟科技Billows | [Read More](https://medium.com/p/d2ae6f7dd8cf) |
+| Wed, 13 Aug 2025 03:11:59 GMT | RSS Feeds: The Timeless tool to simplify Information Overload | Gaurav Goel | [Read More](https://medium.com/p/854f45983944) |
 | Wed, 13 Aug 2025 03:03:47 GMT | Cherry Studio Command Injection Vulnerability (CVE-2025–54074) — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/ae85272d4d03) |
 | Wed, 13 Aug 2025 02:53:59 GMT | SSL vs TLS: What’s the Difference and Why It Matters | Hammad Zahid | [Read More](https://medium.com/p/abfcfac786bc) |
 | Wed, 13 Aug 2025 02:41:27 GMT | Turning On the Lights: A New Perspective on System Visibility | Gerti Armanda Sembiring | [Read More](https://medium.com/p/d399754b2758) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 19:13:29 GMT | How to Speak to Someone at Webroot Support USA Contact Numbers: A Step-by-Step Guide | Risetechsolutionsinc | [Read More](https://medium.com/p/1723f77f07f1) |
 | Tue, 12 Aug 2025 19:13:01 GMT | The Art of Finding the Truth | Dania. | [Read More](https://medium.com/p/d626403ae146) |
 | Tue, 12 Aug 2025 19:04:57 GMT | Day 79: mkfifo | Nile Okomo | [Read More](https://medium.com/p/5fc728aaf467) |
-| Tue, 12 Aug 2025 19:04:05 GMT | Cracking Open a Reflected XSS in SpatialReference.org | Just Insecure | [Read More](https://medium.com/p/fcc42175ae6b) |
-| Tue, 12 Aug 2025 19:00:04 GMT | Human + AI: The Hybrid Future of Security Operations | Shradhdha Bhalodia | [Read More](https://medium.com/p/87b96532d421) |
-| Tue, 12 Aug 2025 18:59:03 GMT | IT Strategy in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/0adbd640009e) |
-| Tue, 12 Aug 2025 18:55:16 GMT | Working in IT After Paranoid Psychosis | 4O4 | [Read More](https://medium.com/p/8db129e4f81d) |
-| Tue, 12 Aug 2025 18:53:49 GMT | Hacking Flutter apps: Static, dynamic and beyond | Manas Harsh | [Read More](https://medium.com/p/893c7a733353) |
-| Tue, 12 Aug 2025 18:53:25 GMT | Here’s What You Should Know Before OSINT-ing Someone: Insights From NSHC’s Cyber Security… | Michael Christian Handoko | [Read More](https://medium.com/p/53a48ef60c91) |
-| Tue, 12 Aug 2025 18:42:50 GMT | Uploading Files Securely in Backend | TechByRahmat | [Read More](https://medium.com/p/37e9b474f69b) |
-| Tue, 12 Aug 2025 18:41:42 GMT | Donald Trump: prelude to an American totalitarianism? | Hayat Outahar | [Read More](https://medium.com/p/376be1094141) |
