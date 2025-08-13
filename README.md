@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 18:26:33 GMT | Quantum Computing and Cybersecurity: Preparing for the Future | Cyber Security Research | [Read More](https://medium.com/p/46122ec35451) |
+| Wed, 13 Aug 2025 18:24:39 GMT | Cybersecurity and National Security: Protecting Our Nation’s Interests | Cyber Security Research | [Read More](https://medium.com/p/111548c8a40a) |
+| Wed, 13 Aug 2025 18:20:59 GMT | Cybersecurity Research and Development: Pushing the Boundaries of Innovation | Cyber Security Research | [Read More](https://medium.com/p/16ca803f904d) |
+| Wed, 13 Aug 2025 18:19:17 GMT | API Security: Top Vulnerabilities and Fixes | Aj | [Read More](https://medium.com/p/634b82964a7e) |
+| Wed, 13 Aug 2025 18:16:27 GMT | Understand-Dynamic Host Configuration Protocol(DHCP) | Polash Mridha | [Read More](https://medium.com/p/4ee6ea720871) |
+| Wed, 13 Aug 2025 18:15:05 GMT | How to Launch a Micro-Business Using AI and Zero Coding Skills. | MindMeshTech | [Read More](https://medium.com/p/21aef262ecf6) |
+| Wed, 13 Aug 2025 18:14:33 GMT | SIEM Explained: The Beginner’s Guide to Security Information and Event Management | Houssam LASFAR | [Read More](https://medium.com/p/932779b254a9) |
+| Wed, 13 Aug 2025 18:10:22 GMT | Types of Social Engineering Attacks: How Hackers Manipulate People to Breach Security | SafeAeon Inc. | [Read More](https://medium.com/p/92c1b7e2a039) |
+| Wed, 13 Aug 2025 18:07:55 GMT | Dell Hardware Under Siege: Critical Flaws in Dell’s ControlVault3 Chip | VaRiOus_CanAriEs | [Read More](https://medium.com/p/59c63bc14714) |
+| Wed, 13 Aug 2025 18:05:11 GMT | OAuth Login Bypasses & Account Linking Chaos — A Bug Bounty Adventure | Sohanxp | [Read More](https://medium.com/p/ff243fd62277) |
+| Wed, 13 Aug 2025 18:03:49 GMT | OAuth Hacking Guide — Part 2: Practical Exploitation Techniques | Madhesh | [Read More](https://medium.com/p/a50d7672a1be) |
+| Wed, 13 Aug 2025 18:03:17 GMT | Unveiling Time-Based Blind SQL Injection in U.S. DoD Systems | Monika sharma | [Read More](https://medium.com/p/7f80d73d3758) |
+| Wed, 13 Aug 2025 17:58:23 GMT | 5 Eye-Opening Lessons From a Single OSINT Lecture That Changed How I See the Internet | Antonio Lorensius Silaban | [Read More](https://medium.com/p/71a7506b0b3f) |
+| Wed, 13 Aug 2025 17:52:06 GMT | PoC CVE-2025–54887: Ruby-JWE Authentication Tag can be brute forced | shinigami-777 | [Read More](https://medium.com/p/cd28176492bc) |
+| Wed, 13 Aug 2025 17:34:44 GMT | How I Found a Critical XSS On a Public Bug Bounty Program | 1day | [Read More](https://medium.com/p/27d492117f61) |
+| Wed, 13 Aug 2025 17:34:02 GMT | $125 For Unauthorized Campaign Modification via Insecure ID Parameter (IDOR) | Tanvir Ahmed | [Read More](https://medium.com/p/cfda4db522e2) |
+| Wed, 13 Aug 2025 17:32:17 GMT | Cyber Snack DAY -5 | Anwar_Nainar | [Read More](https://medium.com/p/e08256e7c208) |
 | Wed, 13 Aug 2025 17:30:48 GMT | TryHackMe - Humans as Attack Vectors | Mithilp | [Read More](https://medium.com/p/c9e999ec8835) |
 | Wed, 13 Aug 2025 17:24:37 GMT | iPhone Crypto Scare? What Apple Isn’t Telling You | Truspex | [Read More](https://medium.com/p/fc32b2924348) |
 | Wed, 13 Aug 2025 17:22:24 GMT | Welcome to My Corner of the Internet — Talking VPNs, Privacy, and the Digital World | Jason Miller | [Read More](https://medium.com/p/255604953315) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 A few years ago, a term… | Jose Saucedo | [Read More](https://medium.com/p/810aa1c8b724) |
 | Wed, 13 Aug 2025 14:43:28 GMT | Scattered Spider’s New Telegram Channel Exposes Victims and Signals a Dangerous Alliance | David SEHYEON Baek | [Read More](https://medium.com/p/d2a66f99970e) |
 | Wed, 13 Aug 2025 14:39:45 GMT | Catching the users session | Majix | [Read More](https://medium.com/p/84278a4c1efe) |
-| Wed, 13 Aug 2025 14:37:15 GMT | Bitcoin, Quantum Computing & The Next Cyber War — What Devs Should Know | Denoroy | [Read More](https://medium.com/p/451a5c5c47d0) |
-| Wed, 13 Aug 2025 14:37:09 GMT | Defending the Digital Frontier: Key Takeaways on Cybersecurity Threats and Strategies in Southeast… | Farhananfaasam | [Read More](https://medium.com/p/01b3fe6a4a9d) |
-| Wed, 13 Aug 2025 14:37:03 GMT | Affordable Cyber Security Services for Startups: How to Protect Your Business Without Breaking the… | Paul Meyer | [Read More](https://medium.com/p/e57d3d5fe0f6) |
-| Wed, 13 Aug 2025 14:37:02 GMT | Privacy is Dead: Stop Pretending Otherwise | Karana Gulati | [Read More](https://medium.com/p/107c80c683fd) |
-| Wed, 13 Aug 2025 14:33:16 GMT | AI’s Invisible Thirst: How Your Chat Could Be Draining Water You Didn’t Know It Needed | Tech News | [Read More](https://medium.com/p/5ce7719f4063) |
-| Wed, 13 Aug 2025 14:30:05 GMT | Inside Indonesia’s Cybersecurity Battlefield - SMT Program 2025 Expert Lecture 1 | Mohamad Fachry Ali | [Read More](https://medium.com/p/b75e5d4ab27d) |
-| Wed, 13 Aug 2025 14:29:21 GMT | 10 DIY Small Business Security Tips to Protect Your Workplace Before Hiring a Security Company | Meyer Defense, Inc. | [Read More](https://medium.com/p/c5cc9a9f1afb) |
-| Wed, 13 Aug 2025 14:22:52 GMT | Understanding Access Control in Web Applications — A Complete Guide for Security Professionals | Siddiquimohammad | [Read More](https://medium.com/p/b2769f8166d5) |
-| Wed, 13 Aug 2025 14:21:45 GMT | DanaBot: CyberDefenders Write-Up | Erdem Ulu | [Read More](https://medium.com/p/9e91abb7a8b6) |
-| Wed, 13 Aug 2025 14:20:55 GMT | AI’s Hidden Bill: What’s Costing Us — and Why Nobody’s Talking About It | Tech News | [Read More](https://medium.com/p/3e678dc68e09) |
-| Wed, 13 Aug 2025 14:19:39 GMT | Awesome Hacking & Cybersecurity Learning Path — Your Ultimate Guide to Ethical Hacking in 2025… | cyberwinx | [Read More](https://medium.com/p/2b5485515a5a) |
-| Wed, 13 Aug 2025 14:15:50 GMT | U.S. Federal Court Filing System Breach — Aug 12, 2025: Key Facts & Defentive’s Resilience… | Defentive | [Read More](https://medium.com/p/bf17d1815e12) |
-| Wed, 13 Aug 2025 14:15:31 GMT | Phishing Email Investigation: A Complete Cybersecurity Analyst Approach | Savyasachi | [Read More](https://medium.com/p/2e95d152bdcb) |
-| Wed, 13 Aug 2025 14:14:46 GMT | How I Found a Horizontal Privilege Escalation Vulnerability — From Recon to Exploit | Sidhartha | [Read More](https://medium.com/p/456fac79b8eb) |
-| Wed, 13 Aug 2025 14:13:30 GMT | SMT Program 2025 Journal — Special Lecture 1 | Sarah | [Read More](https://medium.com/p/a87c7724dba0) |
-| Wed, 13 Aug 2025 14:08:44 GMT | Strengthening Operational Resilience: Managing Third-Party Data Risks for Faster Recovery and… | marcus evans online events | [Read More](https://medium.com/p/051ef21fa1b4) |
-| Wed, 13 Aug 2025 14:02:09 GMT | The Future of Cybersecurity Consulting | abdeldayemnour | [Read More](https://medium.com/p/9559e0c5cea6) |
