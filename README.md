@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 09:33:13 GMT | CEO Blind Spots That Put Your Company at Risk | Evgeny Ermakov | [Read More](https://medium.com/p/32806531ea72) |
+| Wed, 13 Aug 2025 09:27:49 GMT | Are you just changing sites… or actually growing in your journey? | EXLITY | [Read More](https://medium.com/p/3eb990a25452) |
+| Wed, 13 Aug 2025 09:26:38 GMT | Special Lecture II | unknownman | [Read More](https://medium.com/p/f5b01fd55aef) |
+| Wed, 13 Aug 2025 09:25:05 GMT | How to Convert CRT to CER? A Complete Step-by-Step Guide 2025 | Hardy Mervana | [Read More](https://medium.com/p/27ad8b2186d6) |
+| Wed, 13 Aug 2025 09:24:22 GMT | Top 5 Future-Demanding Courses to Boost Your Career with GRAStech | GRAStech | [Read More](https://medium.com/p/7a35b5623530) |
 | Wed, 13 Aug 2025 09:20:50 GMT | How to Chain Bugs Like a Pro (From P5 to P1) | Viratavi | [Read More](https://medium.com/p/0cddd902c8e3) |
+| Wed, 13 Aug 2025 09:15:55 GMT | The Art of Being a Work in Progress | Kishita Jain | [Read More](https://medium.com/p/91fe2f8f5756) |
 | Wed, 13 Aug 2025 09:15:25 GMT | How to Set Up SafeLine WAF on a Standalone Server for Maximum Security | Quella | [Read More](https://medium.com/p/3c6ac6346fe2) |
 | Wed, 13 Aug 2025 09:13:56 GMT | CVE-2025–50817: Python-Future Module Arbitrary Code Execution via Unintended Import of test.py | linearity | [Read More](https://medium.com/p/f0818ea93cf4) |
 | Wed, 13 Aug 2025 09:08:57 GMT | Vulnerability Management in the Cloud: From Noise to Insight | Meronmm | [Read More](https://medium.com/p/c92e36781ee0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 04:15:25 GMT | Leveraging Wazuh for Compliance with Bank Indonesia and OJK Cybersecurity Regulation (Part 2) —… | Ismail Hakim | [Read More](https://medium.com/p/51ded924ebe2) |
 | Wed, 13 Aug 2025 04:03:22 GMT | CVE-2025–6543: The Citrix NetScaler Zero-Day Exploit Rocking Critical Infrastructure | IamPreth | [Read More](https://medium.com/p/0c5d1e5d2432) |
 | Wed, 13 Aug 2025 04:02:16 GMT | Rising from the Valley: How Faith and Resilience Turned My Lowest Point into a Launchpad | Inayat Hussain | [Read More](https://medium.com/p/d3765f067bcb) |
-| Wed, 13 Aug 2025 03:58:10 GMT | SafeLine WAF Review: The Open-Source Firewall Every Dev Should Try in 2025 | AerieWhole123 | [Read More](https://medium.com/p/6643e077df4c) |
-| Wed, 13 Aug 2025 03:54:45 GMT | AI Agents for Cybersecurity: Enhancing Automation & Threat Detection | Paritosh | [Read More](https://medium.com/p/bf9371bb8179) |
-| Wed, 13 Aug 2025 03:47:06 GMT | 7. Networking in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/e62d8c136c94) |
-| Wed, 13 Aug 2025 03:33:41 GMT | Who Makes You Wait Too Long Is in No Hurry to Love You | Rendanup | [Read More](https://medium.com/p/a69ee41d38b1) |
-| Wed, 13 Aug 2025 03:31:42 GMT | Hitachi Vantara Breach: When the Guardian of Data Gets Hit | Deven Chhajed | [Read More](https://medium.com/p/fd4470965794) |
-| Wed, 13 Aug 2025 03:28:18 GMT | Security Debt in Smart Contracts: The Hidden Balance Sheet That Can Bankrupt You Overnight | Olympix | [Read More](https://medium.com/p/b3f1c719dc44) |
