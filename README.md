@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 03:03:47 GMT | Cherry Studio Command Injection Vulnerability (CVE-2025–54074) — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/ae85272d4d03) |
+| Wed, 13 Aug 2025 02:53:59 GMT | SSL vs TLS: What’s the Difference and Why It Matters | Hammad Zahid | [Read More](https://medium.com/p/abfcfac786bc) |
+| Wed, 13 Aug 2025 02:41:27 GMT | Turning On the Lights: A New Perspective on System Visibility | Gerti Armanda Sembiring | [Read More](https://medium.com/p/d399754b2758) |
+| Wed, 13 Aug 2025 02:39:21 GMT | OSINT Isn’t Just Searching. Here’s Why. | Zeenya | [Read More](https://medium.com/p/6f2c5a6462b8) |
+| Wed, 13 Aug 2025 02:29:05 GMT | MCP Vulnerabilities Every Developer Should Know | Anmol Baranwal | [Read More](https://medium.com/p/cb3f880ab833) |
+| Wed, 13 Aug 2025 02:27:49 GMT | The 5 Cybersecurity Tools Every Mobile App Developer Needs in Their Stack | Aj | [Read More](https://medium.com/p/5904d0fc16c7) |
+| Wed, 13 Aug 2025 02:26:12 GMT | Digital Bloodhounds: The OSINT Playbook | Shreyanth Suresh Krishnaa | [Read More](https://medium.com/p/a14162690ec1) |
+| Wed, 13 Aug 2025 02:12:23 GMT | Why I Started Oversharing Online | Carol | [Read More](https://medium.com/p/3802ade2b8d5) |
+| Wed, 13 Aug 2025 02:07:29 GMT | OSCP Privilege Escalation — Shared Object Abuse | enigma_ | [Read More](https://medium.com/p/f73d583c9b3b) |
+| Wed, 13 Aug 2025 02:05:51 GMT | DEFCON Dive: Three Days of Tech, Tin Foil, and Total Chaos | Greg Heffner | [Read More](https://medium.com/p/6ed48e5a59bd) |
+| Wed, 13 Aug 2025 02:05:35 GMT | Snapping Safely: The Fun and Risks of Snapchat | Savvy Cyber Kids | [Read More](https://medium.com/p/76050367a3df) |
+| Wed, 13 Aug 2025 02:05:19 GMT | I Have This Image of You and I’m Going to Spread It Everywhere | Savvy Cyber Kids | [Read More](https://medium.com/p/54afe49bac10) |
+| Wed, 13 Aug 2025 01:51:43 GMT | Breaking GenAI: Offensive Security for Modern AI Systems — My Blackhat Experience | Utku Yildirim | [Read More](https://medium.com/p/540016b85fbf) |
 | Wed, 13 Aug 2025 01:33:32 GMT | The Power of Simplicity in Security and Software Design | Raviteja Mureboina | [Read More](https://medium.com/p/78d731bf4f3d) |
 | Wed, 13 Aug 2025 01:32:43 GMT | EXIF Metadata: The Invisible Photo Data That Could Reveal Your Location | Ngoc Nguyen Nhu | [Read More](https://medium.com/p/56a7976d9f41) |
 | Wed, 13 Aug 2025 01:22:40 GMT | TryHackMe — Void Execution Write-up: Binary Analysis/Exploitation | チェインズ・ナバーロ | [Read More](https://medium.com/p/a1140acc6603) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 18:53:25 GMT | Here’s What You Should Know Before OSINT-ing Someone: Insights From NSHC’s Cyber Security… | Michael Christian Handoko | [Read More](https://medium.com/p/53a48ef60c91) |
 | Tue, 12 Aug 2025 18:42:50 GMT | Uploading Files Securely in Backend | TechByRahmat | [Read More](https://medium.com/p/37e9b474f69b) |
 | Tue, 12 Aug 2025 18:41:42 GMT | Donald Trump: prelude to an American totalitarianism? | Hayat Outahar | [Read More](https://medium.com/p/376be1094141) |
-| Tue, 12 Aug 2025 18:39:47 GMT | How OpenxAI is important — The growing need of decentralised AI | Tanushka Sahu | [Read More](https://medium.com/p/03dd4b013727) |
-| Tue, 12 Aug 2025 18:29:04 GMT | Cyber Snack Day -4 | Anwar_Nainar | [Read More](https://medium.com/p/0c597f76d371) |
-| Tue, 12 Aug 2025 18:28:09 GMT | Why You’ll Never Have a Deep Connection With Someone Who Isn’t Connected to Themselves | Karolina L | [Read More](https://medium.com/p/0092f95974c2) |
-| Tue, 12 Aug 2025 18:24:29 GMT | Pinterest: What It Is, How It Works, and How You Can Make Money from It | Dumitru Radulescu | [Read More](https://medium.com/p/e0f6f54c20a2) |
-| Tue, 12 Aug 2025 18:23:40 GMT | AI in Software Development and the New Cybersecurity Reality | Suhail R. Ahmad | [Read More](https://medium.com/p/0c7b6e2523ea) |
-| Tue, 12 Aug 2025 18:17:34 GMT | Bypassing WAF Protections: Chaining Stored XSS & Open Redirect Vulnerabilities (Now Patched) | N0aziXss | [Read More](https://medium.com/p/ab8ed6b69601) |
-| Tue, 12 Aug 2025 18:13:31 GMT | HTB Driver Machine — walkthrough for beginners | SeverSerenity | [Read More](https://medium.com/p/72923a382eed) |
-| Tue, 12 Aug 2025 18:09:04 GMT | Informational Finding #1: Clickjacking on Non-Sensitive Action | Shakthi | [Read More](https://medium.com/p/fac4e1885202) |
-| Tue, 12 Aug 2025 18:08:43 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/fd168d4c0533) |
-| Tue, 12 Aug 2025 18:08:12 GMT | The AI Imperative: Why Small to Mid-Size Law Firms Must Embrace Artificial Intelligence | Josh Welch | [Read More](https://medium.com/p/d3cf63905d23) |
-| Tue, 12 Aug 2025 18:06:15 GMT | Cybersecurity in Law Firms: The Critical Shield for Client Trust and Business Survival | Josh Welch | [Read More](https://medium.com/p/75d7211d3d02) |
-| Tue, 12 Aug 2025 18:06:12 GMT | Cisco Firepower and Remote Access VPN (RAVPN) WebVPN hardening | Gerardo Huerta Robles | [Read More](https://medium.com/p/4715bcb29a78) |
-| Tue, 12 Aug 2025 18:03:12 GMT | The Power of XSOAR: Automating and Orchestrating Cybersecurity in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/166b6c4bd073) |
