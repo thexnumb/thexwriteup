@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 06:27:19 GMT | The ebird3 Chronicles: When Your Calculator Gets a PhD in Cybercrime (And Why That’s Perfectly… | Lazyown Redteam | [Read More](https://medium.com/p/cc1738a3affc) |
+| Wed, 13 Aug 2025 06:19:30 GMT | How to Save Money When Buying Your Next Mobile Phone | sssma | [Read More](https://medium.com/p/6b27913a4100) |
+| Wed, 13 Aug 2025 06:17:30 GMT | Perplexity AI Shocks Tech World With $34.5B Bid for Google Chrome | The UNFILTERED Draft | [Read More](https://medium.com/p/a12821bc08db) |
+| Wed, 13 Aug 2025 06:15:33 GMT | Deploy Microsoft Security Copilot using Azure Bicep | Brian Veldman | [Read More](https://medium.com/p/1c59c059e17b) |
+| Wed, 13 Aug 2025 06:11:11 GMT | GPT-5 Has Arrived — And One Groundbreaking Feature Steals the Spotlight | Evelyn | [Read More](https://medium.com/p/e48b6a6c1ddd) |
+| Wed, 13 Aug 2025 06:06:20 GMT | Cybersecurity in Flux: Adapting to New and Evolving Threats | Quickway Infosystems | [Read More](https://medium.com/p/2ef5ffa9c44c) |
+| Wed, 13 Aug 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Aug 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c9aaa7ee8f23) |
+| Wed, 13 Aug 2025 05:59:17 GMT | The Wild Story of How a Website Bug Could Let Strangers Unlock Cars Anywhere | Azeeza | [Read More](https://medium.com/p/1ec09756291e) |
+| Wed, 13 Aug 2025 05:59:15 GMT | I Sniffed a Casino Feed in Vegas Using Only a Toaster, a Hair Clip, and My Phone — and Made $5,000… | Peter Tompson | [Read More](https://medium.com/p/f8ee13f4eb14) |
+| Wed, 13 Aug 2025 05:56:39 GMT | Data Parsing in SIEM | Devaaravindlutukurty | [Read More](https://medium.com/p/8b1a89c08c85) |
+| Wed, 13 Aug 2025 05:49:22 GMT | Keeping Skills and Knowledge in Your Workforce | ArcaneSorcerer | [Read More](https://medium.com/p/990d5bb1c0ab) |
+| Wed, 13 Aug 2025 05:47:14 GMT | Checking All the Boxes: How to Evaluate Endpoint Security Vendors | Linda A. Ivri | [Read More](https://medium.com/p/cf0960d355c6) |
 | Wed, 13 Aug 2025 05:45:09 GMT | TryHackMe Hammer (Medium) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/332338470183) |
 | Wed, 13 Aug 2025 05:41:17 GMT | Cybersecurity Isn’t Rocket Science: 5 Simple Mistakes That Leave You Wide Open | Rahadyan Antawirja | [Read More](https://medium.com/p/20a2ab52a7b1) |
 | Wed, 13 Aug 2025 05:38:06 GMT | Classic Stack Overflow — Sync Breeze 10.0.28 | Rizkyaditiyan | [Read More](https://medium.com/p/2bac06313702) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 Aug 2025 21:50:32 GMT | WordPress Firewall Protection: Why Your Website Needs It and How to Get It Right | sarbdit | [Read More](https://medium.com/p/be31860c32dc) |
 | Tue, 12 Aug 2025 21:47:37 GMT | Hackers Just Found a Way to Outsmart GPT-5 | Cyber-AppSec | [Read More](https://medium.com/p/09a3ae185a64) |
 | Tue, 12 Aug 2025 21:37:46 GMT | PNPT: A CERTIFICATION THAT FELT LIKE A REAL PENTEST | Erick | [Read More](https://medium.com/p/456bae4d8988) |
-| Tue, 12 Aug 2025 21:29:43 GMT | Walking An Application - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/0da8e1f73c8b) |
-| Tue, 12 Aug 2025 21:29:41 GMT | Walking An Application - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/97f0ddc56016) |
-| Tue, 12 Aug 2025 21:23:19 GMT | Securing Servers in the Digital Age: Innovations of LSware Omniguard & SecuMS | Tsabita Bayu Kandi | [Read More](https://medium.com/p/8296224f973f) |
-| Tue, 12 Aug 2025 21:10:22 GMT | The Human Factor: Why Company Culture Trumps Technology in Cybersecurity | Josh Welch | [Read More](https://medium.com/p/0f64b8ea033c) |
-| Tue, 12 Aug 2025 21:08:26 GMT | Combating APTs And Infostealers: Modern Strategies with EDR, RansomZero, and Zero Trust | Tsabita Bayu Kandi | [Read More](https://medium.com/p/97ccc07d8a97) |
-| Tue, 12 Aug 2025 21:03:39 GMT | Build Your Solutions with the Mindset of a Hacker | Azuren | [Read More](https://medium.com/p/e1b65ee187d0) |
-| Tue, 12 Aug 2025 21:02:44 GMT | Google Cloud Partner API Credentials Found in Public Repo | Enterlectury | [Read More](https://medium.com/p/45517dc54213) |
-| Tue, 12 Aug 2025 21:01:58 GMT | Secure Messaging Platforms and HIPAA: What to Know Before You Text | Medcurity | [Read More](https://medium.com/p/e4d08fdba767) |
-| Tue, 12 Aug 2025 21:00:57 GMT | I LOST CRYPTO. HOW CAN I RECOVER IT? GO THROUGH OPTIMISTIC HACKER GAIUS | Danielwilliam | [Read More](https://medium.com/p/8619e17342a4) |
-| Tue, 12 Aug 2025 20:58:47 GMT | Server Security, Vulnerability Assessment & Governance Solution | Gracialy | [Read More](https://medium.com/p/2b5af5971bbe) |
-| Tue, 12 Aug 2025 20:55:11 GMT | The Art of Finding Anything: My Deep Dive into OSINT - SMT Program 2025 Special Lecture 1 | Abrar Ikramaputra | [Read More](https://medium.com/p/64d7282f3f57) |
-| Tue, 12 Aug 2025 20:50:07 GMT | Metasploitable — POS Exploitation Walkthrough | AMX2 | [Read More](https://medium.com/p/1ca51aabdc56) |
