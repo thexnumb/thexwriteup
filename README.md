@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 22:17:04 GMT | Protecting Against Insider Data Exfiltration via API | Karthikeyan Nagaraj | [Read More](https://medium.com/p/05115b3a7d37) |
+| Wed, 13 Aug 2025 22:01:45 GMT | The Dopamine Hangover | the girl is a gun | [Read More](https://medium.com/p/992d663fbcba) |
+| Wed, 13 Aug 2025 21:52:18 GMT | Deep Dive Series: iOS App Pen Testing using Non-Rooted Device | Param Dave | [Read More](https://medium.com/p/c0f25e20ebc4) |
+| Wed, 13 Aug 2025 21:40:27 GMT | Why SIEM maintenance will never go away — even if you buy a SIEM Product | LogFiend | [Read More](https://medium.com/p/eddf1decefb1) |
+| Wed, 13 Aug 2025 21:39:48 GMT | The Backdoor That Refuses to Die: XZ Utils Haunts Docker Hub a Year Later | Cyber-AppSec | [Read More](https://medium.com/p/0bf33f4dff46) |
 | Wed, 13 Aug 2025 21:30:54 GMT | Modern day Vulnerability and Exposure Management(Part 1) | Saifur Rahman | [Read More](https://medium.com/p/50c555c093b4) |
+| Wed, 13 Aug 2025 21:29:27 GMT | Bir CISO’nun Ajandası : Uygulama Güvenliği | Mesut Ozsoy | [Read More](https://medium.com/p/b4ef47604b26) |
 | Wed, 13 Aug 2025 21:25:13 GMT | A manifesto for the emotionally literate who’ve been labeled “too much.” | theunseensiren | [Read More](https://medium.com/p/62e04504932c) |
 | Wed, 13 Aug 2025 21:25:10 GMT | Logical 2FA Bypass via Missing clientId Parameter in Profile Update Endpoint | Mahmoud Gamal | [Read More](https://medium.com/p/3f054bc651d6) |
 | Wed, 13 Aug 2025 21:23:25 GMT | Thick Clients, Thicker Risks: A Penetration Tester’s Deep Dive | Anamta Zehra | [Read More](https://medium.com/p/495f2f2fb4b8) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 16:47:23 GMT | XZ Utils Backdoor Resurfaces in Docker Hub Images | gm0 | [Read More](https://medium.com/p/c2ff0781f636) |
 | Wed, 13 Aug 2025 16:45:59 GMT | ️ Building Your Own Cybersecurity Lab at Home: The Complete Guide | Parth Patel | [Read More](https://medium.com/p/f3ec1cab6917) |
 | Wed, 13 Aug 2025 16:44:39 GMT | The Best Alternatives to Intelx.io | Appsec.pt | [Read More](https://medium.com/p/f1c469e23fb1) |
-| Wed, 13 Aug 2025 16:44:10 GMT | CVE-2025–24983: Windows Kernel Use-After-Free Vulnerability Explained & Demonstrated | Binary Exploiter | [Read More](https://medium.com/p/900d4e252c24) |
-| Wed, 13 Aug 2025 16:40:16 GMT | Understanding and Creating Firewall Rules in pfSense | Allen Ace | [Read More](https://medium.com/p/c6c943ed195c) |
-| Wed, 13 Aug 2025 16:37:58 GMT | How I Use Perplexity for Bug Bounty Recon (and Squeeze Every Last Drop Out of It) | SAEED | [Read More](https://medium.com/p/a7061842a77f) |
-| Wed, 13 Aug 2025 16:37:48 GMT | How to Build Your Own AI-Powered Threat Detection Tool (Python + TensorFlow) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/bed3363666cb) |
-| Wed, 13 Aug 2025 16:35:31 GMT | TeaOnHer Is the Latest in the Tea Wars | Franky Arriola | [Read More](https://medium.com/p/acaf546cf27f) |
-| Wed, 13 Aug 2025 16:33:23 GMT | Bug Bounty: Authentication Testing — Brute Force to Bypass | Rajkumar Kumawat | [Read More](https://medium.com/p/acc770fbd019) |
