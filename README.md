@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 Aug 2025 11:03:20 GMT | The Vulnerabilities You Walk Past | Anupamsharma | [Read More](https://medium.com/p/3106064fcd0c) |
+| Wed, 13 Aug 2025 11:01:28 GMT | Build Your Future in Tech with a Diploma of Information Technology | royalinternational | [Read More](https://medium.com/p/af40c3ab69f2) |
+| Wed, 13 Aug 2025 11:01:15 GMT | Chrome 139: a deep-dive on new platform features, privacy hardening, security fixes, and enterprise… | Easy2Patch | [Read More](https://medium.com/p/c3b4155048b4) |
+| Wed, 13 Aug 2025 10:58:54 GMT | Complete Guide to Download Gmail Emails with Attachments in EMLX for Apple Mail | Alexis Matthew | [Read More](https://medium.com/p/906ebb9285dd) |
+| Wed, 13 Aug 2025 10:54:31 GMT | 2FA broken logic (Business logic Vuln.) | Gumn4m1 | [Read More](https://medium.com/p/8bf6cbc68019) |
+| Wed, 13 Aug 2025 10:52:48 GMT | Top 7 Cybersecurity Expert Companies Fighting Against Digital Crime | SecureSlate | [Read More](https://medium.com/p/f3f8615a2b72) |
+| Wed, 13 Aug 2025 10:51:45 GMT | Reliable Managed Data Center Services In India - Net Access | Anbarasans | [Read More](https://medium.com/p/8b8954bc17df) |
+| Wed, 13 Aug 2025 10:49:52 GMT | Modern IT Solutions: Transforming Business Operations | Noahlucas | [Read More](https://medium.com/p/32e81688588f) |
+| Wed, 13 Aug 2025 10:47:02 GMT | Vibe Coding: The Fast Lane to Fragile Futures | Namir Sagheenanajar | [Read More](https://medium.com/p/ad7d46788648) |
 | Wed, 13 Aug 2025 10:45:08 GMT | How I Built an Active Directory Home Lab for Security Hardening & Penetration Testing | Martin Yordanov | [Read More](https://medium.com/p/335f526882ca) |
+| Wed, 13 Aug 2025 10:44:22 GMT | When the Locks Click Shut: Ransomware’s Relentless Push in Malaysia | Pentestjunkie07 | [Read More](https://medium.com/p/e5a9020e92d3) |
+| Wed, 13 Aug 2025 10:41:53 GMT | Cycnea-1 Campaign | Cybercure | [Read More](https://medium.com/p/8b9d893f5054) |
+| Wed, 13 Aug 2025 10:33:43 GMT | Surveillance You Can Trust — Quva India | Quva India | [Read More](https://medium.com/p/cb479819a523) |
 | Wed, 13 Aug 2025 10:32:13 GMT | Access Control Systems vs Physical Guards: Which Offers Smarter Business Security in 2025? | sweetydahiyaa146 | [Read More](https://medium.com/p/ceb1329f48eb) |
 | Wed, 13 Aug 2025 10:28:08 GMT | Swhizz Technologies — Your Gateway to IT Career Excellence | Satya | [Read More](https://medium.com/p/f7494288542d) |
 | Wed, 13 Aug 2025 10:27:37 GMT | North America Digital Scent Technology Market Growth Analysis 2034 | David Jean | [Read More](https://medium.com/p/13389fe51279) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 05:59:15 GMT | I Sniffed a Casino Feed in Vegas Using Only a Toaster, a Hair Clip, and My Phone — and Made $5,000… | Peter Tompson | [Read More](https://medium.com/p/f8ee13f4eb14) |
 | Wed, 13 Aug 2025 05:56:39 GMT | Data Parsing in SIEM | Devaaravindlutukurty | [Read More](https://medium.com/p/8b1a89c08c85) |
 | Wed, 13 Aug 2025 05:49:22 GMT | Keeping Skills and Knowledge in Your Workforce | ArcaneSorcerer | [Read More](https://medium.com/p/990d5bb1c0ab) |
-| Wed, 13 Aug 2025 05:47:14 GMT | Checking All the Boxes: How to Evaluate Endpoint Security Vendors | Linda A. Ivri | [Read More](https://medium.com/p/cf0960d355c6) |
-| Wed, 13 Aug 2025 05:45:09 GMT | TryHackMe Hammer (Medium) — Write-Up | 0xR4IF | [Read More](https://medium.com/p/332338470183) |
-| Wed, 13 Aug 2025 05:41:17 GMT | Cybersecurity Isn’t Rocket Science: 5 Simple Mistakes That Leave You Wide Open | Rahadyan Antawirja | [Read More](https://medium.com/p/20a2ab52a7b1) |
-| Wed, 13 Aug 2025 05:38:06 GMT | Classic Stack Overflow — Sync Breeze 10.0.28 | Rizkyaditiyan | [Read More](https://medium.com/p/2bac06313702) |
-| Wed, 13 Aug 2025 05:35:30 GMT | Bug Bounty Nightmare: How A Vulnerability Disclosure Turned into Nightmare ! | DevProgramming | [Read More](https://medium.com/p/dca809fa00d6) |
-| Wed, 13 Aug 2025 05:27:55 GMT | to be vulnerable is to embrace the monster that is you | beashrooom | [Read More](https://medium.com/p/9b3adef09970) |
-| Wed, 13 Aug 2025 05:23:54 GMT | Cybersecurity for Enterprises: Protecting Digital Assets in a Connected World | Neellam Suri | [Read More](https://medium.com/p/d0fc3804059b) |
-| Wed, 13 Aug 2025 05:23:21 GMT | The Weakest Link in Cybercrime? It’s Not Your Password — It’s You. | BitScribes | [Read More](https://medium.com/p/c199b20dbe70) |
-| Wed, 13 Aug 2025 05:17:59 GMT | System Design — Access control | Amit Singh Rathore | [Read More](https://medium.com/p/6ead65a62219) |
-| Wed, 13 Aug 2025 05:11:42 GMT | PicoCTF 2025: SSTI1 — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/56b85a7a347f) |
-| Wed, 13 Aug 2025 05:09:13 GMT | Cyber Security Meets DevOps: Why These Skills Go Hand-in-Hand for Modern Professionals | Umairbaig | [Read More](https://medium.com/p/e5e472bcce3e) |
-| Wed, 13 Aug 2025 05:05:12 GMT | Passwords Are Dying: How Tech Giants Are Pushing for Stronger, Safer Login Methods | Tarush Sharma | [Read More](https://medium.com/p/1b2a89715061) |
