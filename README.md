@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 07:40:21 GMT | From Recon to Payloads: How CQTools Turns Windows Into a Full-Scale Penetration Testing Playground | Sajjad Hussain | [Read More](https://medium.com/p/29c0d7dec0cd) |
+| Thu, 14 Aug 2025 07:39:40 GMT | UNDERSTANDING SDLC: THE BACKBONE OF SOFTWARE DEVELOPMENT | Anthony Hallasan Sibarani | [Read More](https://medium.com/p/545425038feb) |
+| Thu, 14 Aug 2025 07:39:16 GMT | Library CTF Writeup: BSides Guatemala CTF - TryHackMe | Abdul Ahad | [Read More](https://medium.com/p/1fbda20111cb) |
+| Thu, 14 Aug 2025 07:34:31 GMT | Browser-in-the-Browser (BitB) Phishing — When Your Browser Lies to You | Rue | [Read More](https://medium.com/p/4e049edcdd0a) |
+| Thu, 14 Aug 2025 07:34:26 GMT | Agentic Mesh: The Future of AI-Driven Cybersecurity | Muhammad Hasan Saeed | [Read More](https://medium.com/p/5313b09a9dc3) |
+| Thu, 14 Aug 2025 07:32:48 GMT | Cybersecurity in the Quantum-AI Era: | Sampath Manage | [Read More](https://medium.com/p/72ad97200c80) |
+| Thu, 14 Aug 2025 07:31:59 GMT | Packets & Frames - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/2bb5bf6d43f1) |
+| Thu, 14 Aug 2025 07:25:16 GMT | Health Insurance Plans for Family — Secure Your Loved Ones’ Future | Khannmohsin | [Read More](https://medium.com/p/05b6f3b3e914) |
+| Thu, 14 Aug 2025 07:24:35 GMT | Understanding the Cloud Application Security Market | Nileshprajapati | [Read More](https://medium.com/p/02417e808398) |
+| Thu, 14 Aug 2025 07:24:26 GMT | Kasa EC71 vs Tapo C100 vs Blink Mini — Which Indoor Security Camera Should You Buy? | TrendHive | [Read More](https://medium.com/p/ec0b17086611) |
+| Thu, 14 Aug 2025 07:24:22 GMT | Securing Servers with AppArmor and HTTPS: A Practical Guide | Maham Shariff | [Read More](https://medium.com/p/3f550a698a63) |
+| Thu, 14 Aug 2025 07:22:18 GMT | Heap 1 pico ctf write up | Zeyadsalah | [Read More](https://medium.com/p/e27469b21e2d) |
+| Thu, 14 Aug 2025 07:17:12 GMT | ประจำวันพฤหัสบดีที่ 14 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/a0fb66a16222) |
 | Thu, 14 Aug 2025 07:14:46 GMT | Why AI Chatbot Security Testing Feels Like Social Engineering ?? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/8812b7520660) |
 | Thu, 14 Aug 2025 07:08:51 GMT | Intro to LAN - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/2a6cd67dc3ae) |
 | Thu, 14 Aug 2025 07:07:27 GMT | Cybersecurity Challenges in Businesses in India | Manisha Chaudhary | [Read More](https://medium.com/p/b1347016f737) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 01:07:44 GMT | Networking Basics - The Backbone of Cybersecurity | Muhammed Afnaan | [Read More](https://medium.com/p/9dd36c424629) |
 | Thu, 14 Aug 2025 00:58:37 GMT | Criminal IP Case Study: Criminal IP TI Adoption by a HealthCare Organization in U.S. | Criminal IP | [Read More](https://medium.com/p/1f585b97dd9b) |
 | Thu, 14 Aug 2025 00:31:42 GMT | Mobile App Security Trends: Real Developer Concerns from StackOverflow | Hiren | [Read More](https://medium.com/p/4a1c1bc77497) |
-| Thu, 14 Aug 2025 00:20:01 GMT | How I Got Into Ethical Hacking Using Python | Zain Shoaib | [Read More](https://medium.com/p/6572a019daf1) |
-| Thu, 14 Aug 2025 00:11:54 GMT | Topic 7: Building an LLM Security Strategy: Key Pillars for Business Leaders to Focus On | Scott Huang | [Read More](https://medium.com/p/3bdde1aeb5ea) |
-| Thu, 14 Aug 2025 00:06:11 GMT | How AI Passes Hidden Traits Through Training and How to Stop It | Aaron | [Read More](https://medium.com/p/400ebd65bd7a) |
-| Wed, 13 Aug 2025 23:57:09 GMT | The Fragile Balance: Assumptions, Tuning, and Telemetry Limits In Detection Engineering | Nasreddine Bencherchali | [Read More](https://medium.com/p/a32ae6802995) |
-| Wed, 13 Aug 2025 23:11:25 GMT | Zero Trust Security: A New Era of Cyber Protection | Raviteja Mureboina | [Read More](https://medium.com/p/494dcfdac836) |
-| Wed, 13 Aug 2025 23:00:39 GMT | Stop Guessing — Here’s How to Quietly See Your Partner’s Messages From Your Own Phone | Stanley K. Wilson | [Read More](https://medium.com/p/69cb90e85d42) |
-| Wed, 13 Aug 2025 22:54:59 GMT | Security in Swift: A Practical Guide for iOS Developers (2025) | Mustafa Bekirov | [Read More](https://medium.com/p/a763e3efde48) |
-| Wed, 13 Aug 2025 22:46:13 GMT | The 6 Stages of Threat Intelligence (TI) — With Real-World Examples | Nima Bargestan | [Read More](https://medium.com/p/842ac379563e) |
-| Wed, 13 Aug 2025 22:41:36 GMT | Practical Cybersecurity Checklist for 2025: Is Your Business Prepared? | Reyes Vera | [Read More](https://medium.com/p/8511cb1b4a11) |
-| Wed, 13 Aug 2025 22:40:16 GMT | Why Aren’t Banks Held Accountable for Mishandling Client Information? | Bilqees Khan | [Read More](https://medium.com/p/8d02a58f532b) |
-| Wed, 13 Aug 2025 22:29:34 GMT | My success with upgrading Kali Linux to Kali Purple & my failure trying to install the Wazuh… | Bob Malin | [Read More](https://medium.com/p/493436100850) |
-| Wed, 13 Aug 2025 22:17:04 GMT | Protecting Against Insider Data Exfiltration via API | Karthikeyan Nagaraj | [Read More](https://medium.com/p/05115b3a7d37) |
-| Wed, 13 Aug 2025 22:01:45 GMT | The Dopamine Hangover | the girl is a gun | [Read More](https://medium.com/p/992d663fbcba) |
