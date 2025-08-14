@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 09:41:46 GMT | The Role of Non-IT Employees in Security | Evgeny Ermakov | [Read More](https://medium.com/p/a25b12dd7712) |
+| Thu, 14 Aug 2025 09:35:01 GMT | Process Injection: Harnessing The Power of Shellcode | Redfox Security | [Read More](https://medium.com/p/d3226afa5bc1) |
+| Thu, 14 Aug 2025 09:34:46 GMT | Offenso Hackers Academy offers a top cyber security course in India with practical training, global… | Reshmadotin | [Read More](https://medium.com/p/a3e5093590ea) |
+| Thu, 14 Aug 2025 09:34:30 GMT | Microsoft Teams RCE (CVE-2025–53783): What It Means for Your Org — and How to Respond | Technijian | [Read More](https://medium.com/p/c7e1f2be3ae8) |
+| Thu, 14 Aug 2025 09:33:27 GMT | THE THIRD ROUND IS LIVE: UNLOCK EXCLUSIVE EQUIPMENT IN MUMU TYCOON | Camsy Cruise | [Read More](https://medium.com/p/2368ab7eb83f) |
+| Thu, 14 Aug 2025 09:30:56 GMT | AD Recon: See Your Network Like Hackers Do | CtrlC3 | [Read More](https://medium.com/p/e4b4b1a92ab3) |
+| Thu, 14 Aug 2025 09:30:26 GMT | From Infostealers to ZeroTrust : Navigating the New Era of Breach-Centric Not Malware-Centric… | Muhammad Rizki Anshari | [Read More](https://medium.com/p/1a84fee9fb1e) |
+| Thu, 14 Aug 2025 09:29:39 GMT | From Pixels to Pinpoints: How OSINT Geolocation Is Utilized In Real Life | Fatih | [Read More](https://medium.com/p/4bd5ad27a1e6) |
+| Thu, 14 Aug 2025 09:29:39 GMT | The Start of Something New: Bandit Level 0–10 | calxium | [Read More](https://medium.com/p/d08bd97c876d) |
+| Thu, 14 Aug 2025 09:27:18 GMT | Vishing : Le piège invisible qui menace votre téléphone | Zoom Ebook | [Read More](https://medium.com/p/975f0a4bf01a) |
+| Thu, 14 Aug 2025 09:21:27 GMT | The European cloud dilemma: Why EU companies are scrambling for alternatives to US providers | Ivan Medrano Velazquez | [Read More](https://medium.com/p/928496283b64) |
+| Thu, 14 Aug 2025 09:17:15 GMT | How to Investigate Suspicious URLs As a SOC Analyst ? | rkn | [Read More](https://medium.com/p/a345c6508730) |
 | Thu, 14 Aug 2025 09:15:07 GMT | Stop Being a Passive Candidate: How to Dominate Your Next IT Interview as an Experienced… | Girish Dhamane | [Read More](https://medium.com/p/f02282fbc5d4) |
 | Thu, 14 Aug 2025 09:08:19 GMT | 20K to Crack This Log? Challenge Accepted. | Authlyn | [Read More](https://medium.com/p/af03952959ad) |
 | Thu, 14 Aug 2025 09:05:47 GMT | Even Rust Can’t Save You: Microsoft Patches Kernel Crash Vulnerability | DataDrivenNews | [Read More](https://medium.com/p/f73221b58287) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 05:23:43 GMT | ️ How to Bypass Web Application Firewalls (WAFs) | Vipul Sonule | [Read More](https://medium.com/p/8346e6e79dd3) |
 | Thu, 14 Aug 2025 05:10:36 GMT | Serverless Web Performance: Good or Bad? — The Truth Behind the Hype | Rizqi Mulki | [Read More](https://medium.com/p/595629793e32) |
 | Thu, 14 Aug 2025 05:08:25 GMT | Day 6: Service models in Cloud computing | Prathamlondhe | [Read More](https://medium.com/p/2262503ef25c) |
-| Thu, 14 Aug 2025 05:04:57 GMT | The Coward’s Shortcut to Communication | Lora Bacelic | [Read More](https://medium.com/p/3b1030714129) |
-| Thu, 14 Aug 2025 05:03:39 GMT | When Your AI Goes Astray: The Sneaky World of Drift and the Strategic Minds of Game Theory | Seema Nair | [Read More](https://medium.com/p/aa10a963b2ba) |
-| Thu, 14 Aug 2025 05:02:03 GMT | Security Modernization: Aligning Technology with Business Risk | Claritus Consulting | [Read More](https://medium.com/p/8b2f01b2fd36) |
-| Thu, 14 Aug 2025 04:52:00 GMT | CyberCriminals Are Watching Your Brand. | Chibueze Uzoigwe | [Read More](https://medium.com/p/f304762976a5) |
-| Thu, 14 Aug 2025 04:50:51 GMT | Why CEH v13 Certification is the Gold Standard in Ethical Hacking | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/fd95722ba617) |
-| Thu, 14 Aug 2025 04:42:07 GMT | Web Security Breaches of 2025: Lessons Learned — The Wake-Up Call That Changed Everything | Rizqi Mulki | [Read More](https://medium.com/p/0f1e3a30e4ff) |
-| Thu, 14 Aug 2025 04:38:21 GMT | PostgreSQL Trends to Watch in 2025: The Database Revolution That’s Reshaping Tech | Rizqi Mulki | [Read More](https://medium.com/p/4a75ab41df6f) |
-| Thu, 14 Aug 2025 04:38:00 GMT | Email Phishing Simulation Service for Business Security | Noahlucas | [Read More](https://medium.com/p/66a03622c613) |
-| Thu, 14 Aug 2025 04:35:02 GMT | Critical Flaws in Zoom and Xerox Could Hand Hackers the Keys to Your Network | DataDrivenNews | [Read More](https://medium.com/p/a7dfe4af342a) |
-| Thu, 14 Aug 2025 04:29:55 GMT | 12 Billion Cyberattacks: Canada’s Alarming Digital Crisis in 2025 | The UNFILTERED Draft | [Read More](https://medium.com/p/a9a691fc9cc3) |
-| Thu, 14 Aug 2025 04:29:54 GMT | Ransomware Simulation (using Python and Fernet for Symmetric Encryption) | The Poyz | [Read More](https://medium.com/p/37578112bb87) |
-| Thu, 14 Aug 2025 04:29:49 GMT | Continuous Access Control: How OpenID CAEP is Redefining Security | Deepak Gupta | [Read More](https://medium.com/p/d8bb76f72e28) |
