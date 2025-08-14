@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 18:24:56 GMT | Account Deletion Security Pitfalls — A Bug Bounty Case Study | Sohan | [Read More](https://medium.com/p/8ab8fe7ac8f5) |
+| Thu, 14 Aug 2025 18:24:50 GMT | Essential Guide to Vulnerability Management Tools: Strengthening Your Cybersecurity in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/49acb8f11adc) |
+| Thu, 14 Aug 2025 18:21:04 GMT | Breaking Barriers: Becoming the First Nigerian to Pass the OSWP Exam in One Sitting | Paclab | [Read More](https://medium.com/p/7dcbd3c291a0) |
+| Thu, 14 Aug 2025 18:20:21 GMT | Transitioning From OffSec to Red Teaming | Ty Anderson | [Read More](https://medium.com/p/165fc2e968f8) |
+| Thu, 14 Aug 2025 18:11:29 GMT | My Experience Finding the Best Security Guard Company in Calgary | Support | [Read More](https://medium.com/p/7edc876f29b0) |
+| Thu, 14 Aug 2025 18:09:05 GMT | Wazuh and ELK Integration: Step-by-Step Setup of Security Monitoring | Aliyefhemin | [Read More](https://medium.com/p/61115bc095df) |
+| Thu, 14 Aug 2025 18:05:39 GMT | SOC 2 Type I vs Type II: A Complete Guide for Businesses in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/581fab24a05a) |
+| Thu, 14 Aug 2025 18:05:10 GMT | Deploying Data Loss Prevention using Microsoft Purview Pt 1 | Oludolamu Onimole | [Read More](https://medium.com/p/2a2eab30625f) |
+| Thu, 14 Aug 2025 18:00:21 GMT | Calgary Security Guard Company — Professional Security Services You Can Trust | Support | [Read More](https://medium.com/p/e990091d82e1) |
+| Thu, 14 Aug 2025 17:56:46 GMT | The Cybersecurity Data Deluge: Drowning in Information, Starved of Action | Patrick Lefler | [Read More](https://medium.com/p/e998bb173fcc) |
+| Thu, 14 Aug 2025 17:51:58 GMT | Cloud Encryption | Above The Firewall | [Read More](https://medium.com/p/518027d16e1b) |
+| Thu, 14 Aug 2025 17:49:42 GMT | MLH: GLOBAL HACKWEEK 8/08/25–8/14/25 CONCLUSION | Angelina Ceppaluni | [Read More](https://medium.com/p/3a699e1c5362) |
+| Thu, 14 Aug 2025 17:44:26 GMT | Bug Bounty Recon tool 2 | Prabhjeetsingh | [Read More](https://medium.com/p/ab71da332ac9) |
+| Thu, 14 Aug 2025 17:41:01 GMT | Cybersecurity in 2025: AI vs Human Experts | StackSnacker | [Read More](https://medium.com/p/0b99ee69a56f) |
+| Thu, 14 Aug 2025 17:40:47 GMT | Capitalism as a check on the Hegemony of Ruling Elites in the Information Society: A post modernist… | Swaraj De | [Read More](https://medium.com/p/022ce0587a90) |
 | Thu, 14 Aug 2025 17:36:32 GMT | Security Solution — Letsdefend | md_ashmar | [Read More](https://medium.com/p/ed32bd13020f) |
 | Thu, 14 Aug 2025 17:25:50 GMT | 10 Career Changing Coursera Certification Courses Every Indian Engineering Student Should Take in… | shyamalan | [Read More](https://medium.com/p/6bc535dde38a) |
 | Thu, 14 Aug 2025 17:25:42 GMT | Will Cybercrime Ever Be Unstoppable? | Your's Nightmare | [Read More](https://medium.com/p/3c752b9ab431) |
@@ -98,18 +113,3 @@ Category: Forensics | murugi | [Read More](https://medium.com/p/9c6aa8d1e08e) |
 | Thu, 14 Aug 2025 14:35:14 GMT | Special Lecture 2 — SMT Program Indonesia | Dixtroiza | [Read More](https://medium.com/p/46a935c9842e) |
 | Thu, 14 Aug 2025 14:31:23 GMT | OSINT Isn’t Magic, It’s Method, Lessons in Geolocation from SMT Program 2025 | Daniel Ramawijaya | [Read More](https://medium.com/p/20a98c940ecd) |
 | Thu, 14 Aug 2025 14:30:36 GMT | Membongkar CORS Misconfiguration: Studi Kasus WordPress REST API (wp-json) dan Payload Eksploitasi | Azzabughunter | [Read More](https://medium.com/p/77238c99d123) |
-| Thu, 14 Aug 2025 14:27:55 GMT | SickOS 1.2 — Hacking With a Side of $PATH Manipulation | DataDefender | [Read More](https://medium.com/p/4290fcd90ae1) |
-| Thu, 14 Aug 2025 14:23:21 GMT | Dark Web: History and Why it Matters to Cyber Security | Muhammad Rifqy | [Read More](https://medium.com/p/c6087c219003) |
-| Thu, 14 Aug 2025 14:21:38 GMT | CYBERDEFENDER’S OSKI LAB | Adewale Ayomide | [Read More](https://medium.com/p/337b0a23647d) |
-| Thu, 14 Aug 2025 14:21:03 GMT | The Privacy Paradox: Navigating the Dark Web with Onion Routing and Cyber Risk Management | Muhammad Rizki Anshari | [Read More](https://medium.com/p/e27dbc4ab951) |
-| Thu, 14 Aug 2025 14:20:57 GMT | Exploring Tor and Dark Web Threats | Zeenya | [Read More](https://medium.com/p/f0f7f5c52930) |
-| Thu, 14 Aug 2025 14:18:59 GMT | SecuMS & Omniguard: Strengthening Vulnerability Management and Server Security | Muhammad Rizki Anshari | [Read More](https://medium.com/p/4d538da78945) |
-| Thu, 14 Aug 2025 14:16:48 GMT | The Timestamp That Time-Traveled to 1970: How One Date Broke an Entire Fleet of Devices | Let's code | [Read More](https://medium.com/p/e9075c067842) |
-| Thu, 14 Aug 2025 14:16:23 GMT | Linux Storage Management: It’s Not Magic, It’s Commands | MayhemCode | [Read More](https://medium.com/p/059b7b3626e0) |
-| Thu, 14 Aug 2025 14:16:16 GMT | Open Source Contribution in End-to-End Machine Learning Projects | Prerana Kailash Pattnaik | [Read More](https://medium.com/p/d99b3a2104ff) |
-| Thu, 14 Aug 2025 14:13:00 GMT | AI Agents Are Moving From Experiment to Essential — Here’s How to Build One | Shoaib Rashid | [Read More](https://medium.com/p/62e4290af4c3) |
-| Thu, 14 Aug 2025 14:12:26 GMT | Special Lecture 1 — SMT Program Indonesia | Dixtroiza | [Read More](https://medium.com/p/563eabce5f12) |
-| Thu, 14 Aug 2025 14:11:44 GMT | Siber Güvenlik Bakışıyla: SSH | Barış A. | [Read More](https://medium.com/p/2edc8b75ba58) |
-| Thu, 14 Aug 2025 14:10:43 GMT | Security & Trust: How Mumubit Ensures Safe Diamond Transactions | Wealth Blisss | [Read More](https://medium.com/p/f44ef83916ea) |
-| Thu, 14 Aug 2025 14:10:24 GMT | SMT Program 2025 Journal — Expert Lecture 3 | Sarah | [Read More](https://medium.com/p/aefab375279a) |
-| Thu, 14 Aug 2025 14:10:12 GMT | How a Fake VS Code Extension Stole My Crypto | Civil Learning | [Read More](https://medium.com/p/fecdee073536) |
