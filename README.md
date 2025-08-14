@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 13:34:25 GMT | . “It Sounded Exactly Like Him” — Inside the AI-Powered Vishing Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/95a699615c23) |
+| Thu, 14 Aug 2025 13:30:30 GMT | Implementing Zettelkasten in Kortex for Cybersecurity (Part 3 of The Hacker’s Knowledge Vault) | Corey Jones | [Read More](https://medium.com/p/5cf1ff565c5a) |
+| Thu, 14 Aug 2025 13:27:50 GMT | Mapping the Invisible: The Structured Process of OSINT Geolocation | Dania. | [Read More](https://medium.com/p/55560ad475e5) |
+| Thu, 14 Aug 2025 13:26:17 GMT | Welcome to onion routing, a fascinating method that keeps your online identity hidden by wrapping… | Tiara Atarian | [Read More](https://medium.com/p/1bca727834cd) |
+| Thu, 14 Aug 2025 13:23:23 GMT | Why Every New Zealand Business Needs Robust Penetration Testing | Black Lock | [Read More](https://medium.com/p/652bd8d64a01) |
+| Thu, 14 Aug 2025 13:23:13 GMT | ️ Voice Phishing Meets AI: Deepfake Calls and the Death of “Trusting Your Ears” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/99476d309b41) |
+| Thu, 14 Aug 2025 13:22:41 GMT | Content in Context Inside Out | Conceal, Inc. | [Read More](https://medium.com/p/b82b45b23407) |
+| Thu, 14 Aug 2025 13:20:57 GMT | Phishing 2.0: AI-Bots, Deepfakes, and Personalized Email Scams | Yash Patel | [Read More](https://medium.com/p/df6bd6ddb5b5) |
+| Thu, 14 Aug 2025 13:17:23 GMT | Beyond the Firewall: Guarding the Gates from Within | fatih nararya | [Read More](https://medium.com/p/08d810d07aad) |
+| Thu, 14 Aug 2025 13:16:18 GMT | Why Storytelling Beats Technical Jargon on Medium | Aj | [Read More](https://medium.com/p/08e82b104eb1) |
+| Thu, 14 Aug 2025 13:15:30 GMT | https://offensoacademy.com/ | marfin rashid | [Read More](https://medium.com/p/cade52fcaa68) |
+| Thu, 14 Aug 2025 13:14:54 GMT | Boost Efficiency with NetSuite Professional Services | inoday consultancy services | [Read More](https://medium.com/p/3ad74f1d9c2f) |
+| Thu, 14 Aug 2025 13:09:46 GMT | WHY CTF 2025 Challenge Write-Up — “Solar System Overview” | Akshatshirsat | [Read More](https://medium.com/p/8b92ee94feb6) |
+| Thu, 14 Aug 2025 13:07:14 GMT | “How I Rerouted Calls in a Live Telephony System With a ‘View-Only’ Role” — The Hidden API… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/676b71d5faa9) |
+| Thu, 14 Aug 2025 13:06:09 GMT | How I Got Into Cybersecurity After My Instagram Got Hacked | Shahzaib | [Read More](https://medium.com/p/29abdc492e17) |
+| Thu, 14 Aug 2025 13:04:45 GMT | Inside the Security War Room: How Modern Tools Keep Enterprises Ahead of Threats | Antonio Lorensius Silaban | [Read More](https://medium.com/p/477d396a04ab) |
+| Thu, 14 Aug 2025 13:03:47 GMT | How Did a Single HTTP Header Bypass 403 Forbidden | Ibtissam hammadi | [Read More](https://medium.com/p/fca0e3891347) |
+| Thu, 14 Aug 2025 13:01:59 GMT | You are a safe place | Deb Schell | [Read More](https://medium.com/p/80f1f1e04eaf) |
+| Thu, 14 Aug 2025 13:01:51 GMT | The $40 Billion Problem: Understanding Google Play Integrity’s Cat-and-Mouse Game Part 1 | Nate | [Read More](https://medium.com/p/4dc3707b61c6) |
+| Thu, 14 Aug 2025 13:01:44 GMT | ️ Using CVE and Exploit Databases for Vulnerability Detection in SOC | Esra Kayhan | [Read More](https://medium.com/p/7e09135a540f) |
+| Thu, 14 Aug 2025 12:59:18 GMT | AI-Driven CTI: The New Frontier of Proactive Cybersecurity | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/c0bf7a4e84ff) |
+| Thu, 14 Aug 2025 12:49:32 GMT | How Managed SD-WAN Solutions Enhance Network Performance and Reliability | Ishantechnologies | [Read More](https://medium.com/p/5e1bf6c37b3d) |
+| Thu, 14 Aug 2025 12:46:38 GMT | How Hackers Use Tunneling to Bypass Any Firewall (Red Team Playbook) | Very Lazy Tech | [Read More](https://medium.com/p/3604a21ebdb8) |
 | Thu, 14 Aug 2025 12:46:15 GMT | ☕ Web Cache Poisoning — How to Trick the Internet’s Memory and Serve Everyone Your “Special Recipe” | Shah kaif | [Read More](https://medium.com/p/eea160e6bb89) |
 | Thu, 14 Aug 2025 12:43:57 GMT | Why Diamond Purchasing Marks a New Phase in Mumu Tycoon’s GameFi Strategy | Camsy Wealth | [Read More](https://medium.com/p/4e62cb298d54) |
 | Thu, 14 Aug 2025 12:34:19 GMT | Beyond Scans: How SecuMS and Omniguard Turn Security Into a Business Capability in 2025 | Agung Vivekananda | [Read More](https://medium.com/p/c0e7d4737e93) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 09:35:01 GMT | Process Injection: Harnessing The Power of Shellcode | Redfox Security | [Read More](https://medium.com/p/d3226afa5bc1) |
 | Thu, 14 Aug 2025 09:34:46 GMT | Offenso Hackers Academy offers a top cyber security course in India with practical training, global… | Reshmadotin | [Read More](https://medium.com/p/a3e5093590ea) |
 | Thu, 14 Aug 2025 09:34:30 GMT | Microsoft Teams RCE (CVE-2025–53783): What It Means for Your Org — and How to Respond | Technijian | [Read More](https://medium.com/p/c7e1f2be3ae8) |
-| Thu, 14 Aug 2025 09:33:27 GMT | THE THIRD ROUND IS LIVE: UNLOCK EXCLUSIVE EQUIPMENT IN MUMU TYCOON | Camsy Cruise | [Read More](https://medium.com/p/2368ab7eb83f) |
-| Thu, 14 Aug 2025 09:30:56 GMT | AD Recon: See Your Network Like Hackers Do | CtrlC3 | [Read More](https://medium.com/p/e4b4b1a92ab3) |
-| Thu, 14 Aug 2025 09:30:26 GMT | From Infostealers to ZeroTrust : Navigating the New Era of Breach-Centric Not Malware-Centric… | Muhammad Rizki Anshari | [Read More](https://medium.com/p/1a84fee9fb1e) |
-| Thu, 14 Aug 2025 09:29:39 GMT | From Pixels to Pinpoints: How OSINT Geolocation Is Utilized In Real Life | Fatih | [Read More](https://medium.com/p/4bd5ad27a1e6) |
-| Thu, 14 Aug 2025 09:29:39 GMT | The Start of Something New: Bandit Level 0–10 | calxium | [Read More](https://medium.com/p/d08bd97c876d) |
-| Thu, 14 Aug 2025 09:27:18 GMT | Vishing : Le piège invisible qui menace votre téléphone | Zoom Ebook | [Read More](https://medium.com/p/975f0a4bf01a) |
-| Thu, 14 Aug 2025 09:21:27 GMT | The European cloud dilemma: Why EU companies are scrambling for alternatives to US providers | Ivan Medrano Velazquez | [Read More](https://medium.com/p/928496283b64) |
-| Thu, 14 Aug 2025 09:17:15 GMT | How to Investigate Suspicious URLs As a SOC Analyst ? | rkn | [Read More](https://medium.com/p/a345c6508730) |
-| Thu, 14 Aug 2025 09:15:07 GMT | Stop Being a Passive Candidate: How to Dominate Your Next IT Interview as an Experienced… | Girish Dhamane | [Read More](https://medium.com/p/f02282fbc5d4) |
-| Thu, 14 Aug 2025 09:08:19 GMT | 20K to Crack This Log? Challenge Accepted. | Authlyn | [Read More](https://medium.com/p/af03952959ad) |
-| Thu, 14 Aug 2025 09:05:47 GMT | Even Rust Can’t Save You: Microsoft Patches Kernel Crash Vulnerability | DataDrivenNews | [Read More](https://medium.com/p/f73221b58287) |
-| Thu, 14 Aug 2025 08:58:12 GMT | The Difference Between Cloud Security and Information Security Careers | Kartik Debnath | [Read More](https://medium.com/p/1e82423ec319) |
-| Thu, 14 Aug 2025 08:52:57 GMT | Cyber Incident Response Playbook nədir? | Orkhan Jalalov | [Read More](https://medium.com/p/80784226ae57) |
-| Thu, 14 Aug 2025 08:47:20 GMT | They Don’t Kick Down the Door Anymore — They Buy the Key | Fatih | [Read More](https://medium.com/p/b27f0c73497f) |
-| Thu, 14 Aug 2025 08:46:52 GMT | Can AI Keep a Secret? | Berend Watchus | [Read More](https://medium.com/p/121562019969) |
-| Thu, 14 Aug 2025 08:45:01 GMT | The Daily Tech Digest: 14 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/5aef90d50e5d) |
-| Thu, 14 Aug 2025 08:44:17 GMT | The Phishing Series: Introduction | Norman Kolarikkal | [Read More](https://medium.com/p/0fbfe0127cd9) |
-| Thu, 14 Aug 2025 08:42:10 GMT | Choosing the Best Health Insurance: A Complete Guide | Khannmohsin | [Read More](https://medium.com/p/1a3159f4cc28) |
-| Thu, 14 Aug 2025 08:41:08 GMT | Stop Guessing Wi-Fi Passwords: How Hijacker v1.5 | Sajjad Hussain | [Read More](https://medium.com/p/f26210266a09) |
-| Thu, 14 Aug 2025 08:37:21 GMT | GCC Cybersecurity Policies: The Strategic Shield of Modern Global Capability Centers | Keerthi Rajan | [Read More](https://medium.com/p/773f12893a58) |
-| Thu, 14 Aug 2025 08:37:13 GMT | Mastering SOLID Principles in Java: The Key to Clean and Scalable Code | Arbaaz Faruqui | [Read More](https://medium.com/p/50c01a6918cc) |
-| Thu, 14 Aug 2025 08:36:21 GMT | The Silent Battlefield | Tom Yonashiro | [Read More](https://medium.com/p/b5a4278740ff) |
-| Thu, 14 Aug 2025 08:31:30 GMT | DForms: Quantum-Safe, Decentralized Form Builder! | BlockByte | [Read More](https://medium.com/p/3149949de2a6) |
