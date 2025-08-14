@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 20:11:53 GMT | Sending Handles from Kernel Driver to Userland | S12 - 0x12Dark Development | [Read More](https://medium.com/p/24e581228ff7) |
+| Thu, 14 Aug 2025 20:01:43 GMT | “Tell me I’m not alone.” | paday∞n | [Read More](https://medium.com/p/2aa21e80b721) |
+| Thu, 14 Aug 2025 19:56:21 GMT | How Anyone Can Instantly Check Their Code for Security Using AI — No Programming Needed | AIAlchemist_Ab1r | [Read More](https://medium.com/p/f12aefeeeb2c) |
+| Thu, 14 Aug 2025 19:55:59 GMT | Breaking Barriers: First Nigerian to Pass the OSWP Exam in One Sitting | Jehovahseun Ezekiel ADEKANMI | [Read More](https://medium.com/p/6e9edbeec371) |
+| Thu, 14 Aug 2025 19:55:11 GMT | The Hidden Risks of Pacemakers: Understanding Their Vulnerabilities | Skhaynes | [Read More](https://medium.com/p/430358a0f5f0) |
+| Thu, 14 Aug 2025 19:43:56 GMT | Bulut Güvenliğinin 5 Temel Bileşeni | Hiranur Gemalmaz | [Read More](https://medium.com/p/702791dbd3a4) |
+| Thu, 14 Aug 2025 19:43:29 GMT | ☕How to Pass  the CCNA Exam on your  First Try (And How You Can prep for your next interview ) | Lucky ApeX | [Read More](https://medium.com/p/068f8bc1b3fc) |
+| Thu, 14 Aug 2025 19:28:45 GMT | Preventing XSS & CSRF Vulnerabilities in Web Applications | Rohit Dev | [Read More](https://medium.com/p/56a3245d3853) |
 | Thu, 14 Aug 2025 19:27:30 GMT | The New Frontier of AI: Opportunity, Risk, and the Race for Security | Azutech | [Read More](https://medium.com/p/3f9bc236da54) |
+| Thu, 14 Aug 2025 19:26:37 GMT | Cybersecurity for Remote Work: Securing the Distributed Workforce | Cyber Security Research | [Read More](https://medium.com/p/dd465a4fc3dc) |
 | Thu, 14 Aug 2025 19:23:46 GMT | Development teams that skip OWASP Top 10 training are essentially coding without a safety net. | Josh Welch | [Read More](https://medium.com/p/9ff2d1bebf2d) |
 | Thu, 14 Aug 2025 19:22:52 GMT | Cybersecurity in Space: Protecting Satellites and Spacecraft | Cyber Security Research | [Read More](https://medium.com/p/735043f3ed88) |
 | Thu, 14 Aug 2025 19:20:51 GMT | Cybersecurity and Social Media: Protecting User Data and Preventing Abuse | Cyber Security Research | [Read More](https://medium.com/p/6a74665787bd) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 15:29:55 GMT | Why Your Digital Privacy Matters More Than Ever | Joe The OSINT Guy | [Read More](https://medium.com/p/57bb30647964) |
 | Thu, 14 Aug 2025 15:29:28 GMT | How Cybersecurity Training is Transforming in the AI Era | Dr. Deep Pandey | [Read More](https://medium.com/p/13903676d57f) |
 | Thu, 14 Aug 2025 15:28:25 GMT | SMT Program 2025 — Expert Lecture 3 Journal | Mjibrahim | [Read More](https://medium.com/p/aa829b28418e) |
-| Thu, 14 Aug 2025 15:27:50 GMT | V4.0.0 Is Here: What’s New in Mumu Tycoon | Wealth Blisss | [Read More](https://medium.com/p/eef73c475676) |
-| Thu, 14 Aug 2025 15:27:48 GMT | Vault Name: TUNN3L
-Category: Forensics | murugi | [Read More](https://medium.com/p/9c6aa8d1e08e) |
-| Thu, 14 Aug 2025 15:27:30 GMT | SMT 2025 — Expert Lecture 3 | Firdhan H | [Read More](https://medium.com/p/e1b3d0e921f8) |
-| Thu, 14 Aug 2025 15:27:16 GMT | Special Lecture 2 : Deconstructing Reality with Geolocation OSINT | Muhammad Allif Qalbiy | [Read More](https://medium.com/p/2c6b0de35338) |
-| Thu, 14 Aug 2025 15:26:27 GMT | Expert Lecture 3 — SMT Program Indonesia | Dixtroiza | [Read More](https://medium.com/p/1f4845c20b3e) |
-| Thu, 14 Aug 2025 15:25:53 GMT | The Windows Process Journey — TRACERT.exe (TCP/IP Traceroute Command) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6d8f7cddac6f) |
-| Thu, 14 Aug 2025 15:24:10 GMT | Uncovering the Dark World of the Internet: The Dark Web, Big Data Leaks, and Privacy-Protecting… | Tsabita Bayu Kandi | [Read More](https://medium.com/p/b6eb561077af) |
-| Thu, 14 Aug 2025 15:21:19 GMT | ChaCha20 Encryption in Android | Lord Murak | [Read More](https://medium.com/p/bbd5a7f6a25e) |
-| Thu, 14 Aug 2025 15:18:05 GMT | Inside the Mind of Modern Threats: Rethinking Cyber Defense from a Breach-Centric Lens | Daniel Ramawijaya | [Read More](https://medium.com/p/7145ed52c0b0) |
