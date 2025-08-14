@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 06:20:35 GMT | Joseph Lamar Simmons Shares His Insights on Life as an Intelligence Officer | Joseph Lamar Simmons | [Read More](https://medium.com/p/494ac91487a2) |
+| Thu, 14 Aug 2025 06:19:01 GMT | What should AI Security Practitioners know about LLM safety alignment degradation | Anamitra Dutta Majumdar | [Read More](https://medium.com/p/cfffd6d5ec84) |
+| Thu, 14 Aug 2025 06:14:36 GMT | Advanced Wazuh Architecture for Enterprise Environments: What to Consider and How to Scale It | Ismael Barrantes | [Read More](https://medium.com/p/1982b5ae7879) |
+| Thu, 14 Aug 2025 06:12:51 GMT | Still Relevant for Computer Science Students in 2025? | BIT Blogs | [Read More](https://medium.com/p/404b89c3cdcd) |
+| Thu, 14 Aug 2025 06:00:54 GMT | Day6 Recon: How to Find Exposed Cloud Storage & Hidden Third-Party Assets (With Real Demos)
+ From… | Ayush Kumar | [Read More](https://medium.com/p/798219ba4d7f) |
+| Thu, 14 Aug 2025 06:00:39 GMT | Today’s Top Cyber Intelligence Highlights — Aug 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3b4f1bb6c208) |
+| Thu, 14 Aug 2025 05:58:09 GMT | Top Trends of Security Architecture in 2025 | InfosecTrain | [Read More](https://medium.com/p/70a6d43dffae) |
+| Thu, 14 Aug 2025 05:54:02 GMT | Special Lecture 2: Turning Open-Source Clues into Precise Geolocations | Achmad Al Fauzi Dhiaulhaq | [Read More](https://medium.com/p/ad4cc8622ff8) |
+| Thu, 14 Aug 2025 05:51:34 GMT | Fighting Fire with Fire: How to Deploy AI Against AI’s Dark Side | Rajneesh Singh | [Read More](https://medium.com/p/47838b87805b) |
+| Thu, 14 Aug 2025 05:49:58 GMT | SMT Program 2025 — Special Lecture 2 Journal | Mjibrahim | [Read More](https://medium.com/p/8014de72683e) |
+| Thu, 14 Aug 2025 05:44:30 GMT | Making Bank with AI (Without Totally Selling Your Soul) | Diana - Digital Growth Strategist | [Read More](https://medium.com/p/bea99b4c0fd7) |
+| Thu, 14 Aug 2025 05:43:59 GMT | The Emotional Impact of Bed Bugs and How to Cope | Dingle Boy | [Read More](https://medium.com/p/b9af6643c9b2) |
+| Thu, 14 Aug 2025 05:43:00 GMT | What Is Encoding? Types, Uses, and How It Works in Technology | amol pawar | [Read More](https://medium.com/p/d96ff8255e79) |
+| Thu, 14 Aug 2025 05:41:27 GMT | A Spotlight on Cyber Security Development Companies Based in Ashburn, USA. | Webtrills | [Read More](https://medium.com/p/7f8b9c329bab) |
 | Thu, 14 Aug 2025 05:40:36 GMT | SMT Program 2025 Journal — Special Lecture 1 | Sarah | [Read More](https://medium.com/p/43da24f7db22) |
+| Thu, 14 Aug 2025 05:40:28 GMT | Why Cyber Security Awareness Matters More Than Ever | Renaissance Computer Services Limited | [Read More](https://medium.com/p/597012c9a63f) |
 | Thu, 14 Aug 2025 05:32:45 GMT | My Eyes Say the Things My Mouth Never Will | Ayushi Jindal | [Read More](https://medium.com/p/a3660a620692) |
 | Thu, 14 Aug 2025 05:26:42 GMT | Mastering Nmap: The Ultimate Guide to Network Scanning and Vulnerability Detection | Monika sharma | [Read More](https://medium.com/p/769d1d2eecff) |
 | Thu, 14 Aug 2025 05:23:43 GMT | ️ How to Bypass Web Application Firewalls (WAFs) | Vipul Sonule | [Read More](https://medium.com/p/8346e6e79dd3) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 20:56:32 GMT | Your Privacy Isn’t Just Slipping Away — It’s Evaporating | Unknown Source | [Read More](https://medium.com/p/2626c5214d31) |
 | Wed, 13 Aug 2025 20:55:12 GMT | The Hacker Knew My Password Before I Did | Shahzaib | [Read More](https://medium.com/p/e8e4a0c652d4) |
 | Wed, 13 Aug 2025 20:48:08 GMT | Synthetic Identity Fraud: The Fake People You Really Should Worry About | Akshay Chauhan | [Read More](https://medium.com/p/98d1eb920102) |
-| Wed, 13 Aug 2025 20:46:07 GMT | Why I No Longer Recommend NordVPN: A Support Nightmare | Join Me Abroad | [Read More](https://medium.com/p/061d2f74a78c) |
-| Wed, 13 Aug 2025 20:44:26 GMT | How Banks Can Strengthen Their Cybersecurity Risk Assessment Process in 2025 | Christine Thomas | [Read More](https://medium.com/p/079f3a8db1f3) |
-| Wed, 13 Aug 2025 20:38:47 GMT | Cypher - HacktheBox Writeup | CN-0x - eCPPT - OSCP - Threat Hunter | [Read More](https://medium.com/p/1823bb84a15b) |
-| Wed, 13 Aug 2025 20:31:43 GMT | The Bug That Survived Three Code Reviews and a QA Cycle | BugsyBits | [Read More](https://medium.com/p/d1ceb71ce19f) |
-| Wed, 13 Aug 2025 20:31:14 GMT | IDOR in Invitation Flow Leads to Denial of Signup and Account Manipulation | Mahmoud Gamal | [Read More](https://medium.com/p/98c51e0dd942) |
-| Wed, 13 Aug 2025 20:27:39 GMT | DeepSeek, The Shifting AI Landscape, and Global Tensions | Raga Gourineni | [Read More](https://medium.com/p/c3e15580df54) |
-| Wed, 13 Aug 2025 20:19:44 GMT | The Ultimate Ethical Hacking Workstation: Engineering the Perfect Cyber Security Daily Driver | Christopher Neuwirth | [Read More](https://medium.com/p/963ec3e1d79c) |
-| Wed, 13 Aug 2025 20:15:04 GMT | The Pain That Made Me Start Over | Mike | [Read More](https://medium.com/p/b99fee8195de) |
-| Wed, 13 Aug 2025 20:14:12 GMT | OWASP Agentic AI CTF — FinBot DEMO: Goal Manipulation | Aditya Bhatt | [Read More](https://medium.com/p/ad377406e1a7) |
-| Wed, 13 Aug 2025 20:13:28 GMT | Top 10 Questions to Ask a GDPR Compliance Consultant | DEFEND MY BUSINESS | [Read More](https://medium.com/p/ee57786f3bd1) |
-| Wed, 13 Aug 2025 20:12:31 GMT | Fortinet Firewall İncelemesi ve Ağ Trafiği Analizi - TalentCoders Siber Güvenlik Yaz Kampı Günlüğü… | Hakan ÇEVİK | [Read More](https://medium.com/p/fb29e0c205ca) |
-| Wed, 13 Aug 2025 20:12:17 GMT | Code - HacktheBox Writeup | CN-0x - eCPPT - OSCP - Threat Hunter | [Read More](https://medium.com/p/7e73abc59aee) |
-| Wed, 13 Aug 2025 20:10:12 GMT | Boundaries: in IT Networking and in Life | Lii Bai | [Read More](https://medium.com/p/344e44998760) |
-| Wed, 13 Aug 2025 20:08:04 GMT | Murderbot Diaries — “All Systems Red” İncelemesi ve Araştırma
- Martha Wells’in Bilimkurguya… | Talha Özcan | [Read More](https://medium.com/p/5fea7e6dc34b) |
-| Wed, 13 Aug 2025 20:04:36 GMT | Cryptographic Keys and Digital Security | Lince Mathew | [Read More](https://medium.com/p/353bae5c6610) |
