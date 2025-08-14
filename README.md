@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 23:03:22 GMT | AI-Powered Android Security: Leverage Prompts Like a Pro | AIAlchemist_Ab1r | [Read More](https://medium.com/p/0d58b7373375) |
+| Thu, 14 Aug 2025 22:55:50 GMT | Blackout Code The Nightmare That Blinked Inside Iran’s Nucleus - Retr0 | Retr0 | [Read More](https://medium.com/p/672b358aaa56) |
+| Thu, 14 Aug 2025 22:53:40 GMT | Tools of the Trade: Your first Keystroke Injection Attack | Crashwire | [Read More](https://medium.com/p/81466b72420f) |
+| Thu, 14 Aug 2025 22:49:53 GMT | The Bugged Future: AI-Coded Projects Will Share the Same Vulnerabilities | Taulan Zauzanov | [Read More](https://medium.com/p/3df5a8bb4872) |
 | Thu, 14 Aug 2025 22:34:52 GMT | C and Assembly: Becoming Top-Tier Cybersecurity Specialists | Taulan Zauzanov | [Read More](https://medium.com/p/1f1f6c04fa8d) |
 | Thu, 14 Aug 2025 22:31:47 GMT | GANDALF WALKTHROUGH | rizzziom | [Read More](https://medium.com/p/5a6cca50a003) |
 | Thu, 14 Aug 2025 22:24:20 GMT | Enhancing Security with EIOTCLUB’s SIM Card Solutions | Asqwfxvxqw | [Read More](https://medium.com/p/996204d2389f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 16:16:34 GMT | The Privacy Paradox: Lessons on The Onion & Batman in the Age of Surveillance | Daniel Ramawijaya 2 | [Read More](https://medium.com/p/a791edd86f27) |
 | Thu, 14 Aug 2025 16:12:48 GMT | Onion Routing: A solution for freedom speech in an era of “Pembungkaman” | Hildan Kusto Utomo | [Read More](https://medium.com/p/7ac329bcc073) |
 | Thu, 14 Aug 2025 16:10:44 GMT | SMT Program 2025 — Expert Lecture 2 Journal: The Privacy Paradox: The Batman And Onion | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/b0bdf6fceb93) |
-| Thu, 14 Aug 2025 16:10:33 GMT | The Secret Front-End Feature Big Tech Uses To Make Their Sites Lightning Fast | Sanjeevani Bhandari | [Read More](https://medium.com/p/f7e1976f0497) |
-| Thu, 14 Aug 2025 16:08:48 GMT | Attacking Active Directory for Noobs: Password Spraying | Zach K | [Read More](https://medium.com/p/507fb1ede65b) |
-| Thu, 14 Aug 2025 16:08:27 GMT | Old hacking techniques AI brought back | 80h3m14n | [Read More](https://medium.com/p/b212127a5267) |
-| Thu, 14 Aug 2025 16:06:21 GMT | ISMAP Management Standards Chapter 17: “Information Security Aspects” for Business Continuity | nolly | [Read More](https://medium.com/p/85b81cfa1d63) |
