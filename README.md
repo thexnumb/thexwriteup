@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 09:15:07 GMT | Stop Being a Passive Candidate: How to Dominate Your Next IT Interview as an Experienced… | Girish Dhamane | [Read More](https://medium.com/p/f02282fbc5d4) |
+| Thu, 14 Aug 2025 09:08:19 GMT | 20K to Crack This Log? Challenge Accepted. | Authlyn | [Read More](https://medium.com/p/af03952959ad) |
+| Thu, 14 Aug 2025 09:05:47 GMT | Even Rust Can’t Save You: Microsoft Patches Kernel Crash Vulnerability | DataDrivenNews | [Read More](https://medium.com/p/f73221b58287) |
+| Thu, 14 Aug 2025 08:58:12 GMT | The Difference Between Cloud Security and Information Security Careers | Kartik Debnath | [Read More](https://medium.com/p/1e82423ec319) |
+| Thu, 14 Aug 2025 08:52:57 GMT | Cyber Incident Response Playbook nədir? | Orkhan Jalalov | [Read More](https://medium.com/p/80784226ae57) |
+| Thu, 14 Aug 2025 08:47:20 GMT | They Don’t Kick Down the Door Anymore — They Buy the Key | Fatih | [Read More](https://medium.com/p/b27f0c73497f) |
+| Thu, 14 Aug 2025 08:46:52 GMT | Can AI Keep a Secret? | Berend Watchus | [Read More](https://medium.com/p/121562019969) |
+| Thu, 14 Aug 2025 08:45:01 GMT | The Daily Tech Digest: 14 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/5aef90d50e5d) |
+| Thu, 14 Aug 2025 08:44:17 GMT | The Phishing Series: Introduction | Norman Kolarikkal | [Read More](https://medium.com/p/0fbfe0127cd9) |
+| Thu, 14 Aug 2025 08:42:10 GMT | Choosing the Best Health Insurance: A Complete Guide | Khannmohsin | [Read More](https://medium.com/p/1a3159f4cc28) |
+| Thu, 14 Aug 2025 08:41:08 GMT | Stop Guessing Wi-Fi Passwords: How Hijacker v1.5 | Sajjad Hussain | [Read More](https://medium.com/p/f26210266a09) |
+| Thu, 14 Aug 2025 08:37:21 GMT | GCC Cybersecurity Policies: The Strategic Shield of Modern Global Capability Centers | Keerthi Rajan | [Read More](https://medium.com/p/773f12893a58) |
+| Thu, 14 Aug 2025 08:37:13 GMT | Mastering SOLID Principles in Java: The Key to Clean and Scalable Code | Arbaaz Faruqui | [Read More](https://medium.com/p/50c01a6918cc) |
+| Thu, 14 Aug 2025 08:36:21 GMT | The Silent Battlefield | Tom Yonashiro | [Read More](https://medium.com/p/b5a4278740ff) |
+| Thu, 14 Aug 2025 08:31:30 GMT | DForms: Quantum-Safe, Decentralized Form Builder! | BlockByte | [Read More](https://medium.com/p/3149949de2a6) |
 | Thu, 14 Aug 2025 08:30:23 GMT | 502 — INFORMATION SECURITY POLICY (ISO/IEC 27001)(EN) | Atakan Bitim | [Read More](https://medium.com/p/335be878f436) |
 | Thu, 14 Aug 2025 08:30:22 GMT | 502 — INFORMATION SECURITY POLICY (ISO/IEC 27001)(TR) | Atakan Bitim | [Read More](https://medium.com/p/d8c83cbf794f) |
+| Thu, 14 Aug 2025 08:28:55 GMT | Psexec Hunt: CyberDefenders Write Up | Erdem Ulu | [Read More](https://medium.com/p/50f0cdece2d0) |
 | Thu, 14 Aug 2025 08:28:20 GMT | Complete Cybersecurity Penetration Testing Course with Practical Projects | cyber security Updates | [Read More](https://medium.com/p/3dc755f4b580) |
 | Thu, 14 Aug 2025 08:26:40 GMT | CTI Diaries #3: Understanding Risk and Threat in Cyber Threat Intelligence | Deniz Topaloglu | [Read More](https://medium.com/p/6cad51cd73f9) |
 | Thu, 14 Aug 2025 08:24:27 GMT | Tired of Guessing Social Media Handles? | Sajjad Hussain | [Read More](https://medium.com/p/bbae241e8ae3) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 04:29:55 GMT | 12 Billion Cyberattacks: Canada’s Alarming Digital Crisis in 2025 | The UNFILTERED Draft | [Read More](https://medium.com/p/a9a691fc9cc3) |
 | Thu, 14 Aug 2025 04:29:54 GMT | Ransomware Simulation (using Python and Fernet for Symmetric Encryption) | The Poyz | [Read More](https://medium.com/p/37578112bb87) |
 | Thu, 14 Aug 2025 04:29:49 GMT | Continuous Access Control: How OpenID CAEP is Redefining Security | Deepak Gupta | [Read More](https://medium.com/p/d8bb76f72e28) |
-| Thu, 14 Aug 2025 04:29:43 GMT | Boost Your Day with AI: Elevate Your Digital Experience | Isabella Martinez | [Read More](https://medium.com/p/437abe0dd8e0) |
-| Thu, 14 Aug 2025 04:28:20 GMT | Breaking the Pattern: How Simple Rewording Defeated an LLM’s Guardrails | Charitha Jeewanka | [Read More](https://medium.com/p/5c699c04369a) |
-| Thu, 14 Aug 2025 04:28:00 GMT | Top 5 Bug Bounty Tips | Rishav anand | [Read More](https://medium.com/p/b01e7d765090) |
-| Thu, 14 Aug 2025 04:21:20 GMT | ️ BYTESHIELD -Capturing All Flags in DC-2 VulnHub CTF | Awakiyang | [Read More](https://medium.com/p/f15acdc17454) |
-| Thu, 14 Aug 2025 04:14:43 GMT | Day 31- Networking & Cybersecurity terms for beginners | unica 02 | [Read More](https://medium.com/p/2855fcd82737) |
-| Thu, 14 Aug 2025 04:08:43 GMT | Opening the Door to Cybersecurity: Arachne Digital Sponsors Subsidised Tickets for Kiwicon /… | Arachne Digital | [Read More](https://medium.com/p/48575b4ca2af) |
-| Thu, 14 Aug 2025 03:50:10 GMT | Voyage Into the Google Certificate Program! First Up: The Foundations…again! | Myshawne Stallings | [Read More](https://medium.com/p/a5655cf6f234) |
-| Thu, 14 Aug 2025 03:41:24 GMT | What Are the Latest Trends in Technology and Gadgets? | Abida Sultana | [Read More](https://medium.com/p/e22a75f0c43b) |
-| Thu, 14 Aug 2025 03:40:22 GMT | Lookup THM Walkthrough… | Yashpreeth Nijalinge | [Read More](https://medium.com/p/d6fa35bd4f86) |
-| Thu, 14 Aug 2025 03:31:44 GMT | How Hackers Are Outsmarting AI Filters with Emoji Smuggling | Deven Chhajed | [Read More](https://medium.com/p/2795ea6f4ef9) |
-| Thu, 14 Aug 2025 03:29:00 GMT | Why Not Everyone Is Rich in this World: Why It Happens | Ahmad2105 | [Read More](https://medium.com/p/47323b7bece2) |
-| Thu, 14 Aug 2025 03:27:32 GMT | F5 BIG-IP RCE (CVE-2023–46747): What You Need to Know Right Now | AerieWhole123 | [Read More](https://medium.com/p/a4283d0c2044) |
-| Thu, 14 Aug 2025 03:24:54 GMT | Geolocation Is Transforming: From Metadata to Machine Learning | Ivander “Andreas” Wijaya | [Read More](https://medium.com/p/710bd8458f53) |
-| Thu, 14 Aug 2025 03:22:14 GMT | How OKKProxy Transformed My Internet Experience — And Why You Might Need It Too | Add | [Read More](https://medium.com/p/d0d5af683d4b) |
-| Thu, 14 Aug 2025 03:16:33 GMT | Building Bulletproof SSL/TLS Connections in Python: A Developer’s Guide to Secure Socket… | Cumulus13 | [Read More](https://medium.com/p/4cb1c2d9544e) |
-| Thu, 14 Aug 2025 03:10:17 GMT | I imagined some brain-new ideas. | ProgressiveDreamer | [Read More](https://medium.com/p/02c58653a1e5) |
