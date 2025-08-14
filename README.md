@@ -12,11 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 21:19:11 GMT | Understanding Vulnerabilities in Cybersecurity: The Weak Links That Threaten Digital Fortresses | Emma Lateyron | [Read More](https://medium.com/p/bd920485c134) |
 | Thu, 14 Aug 2025 20:55:20 GMT | Day 81: More reverse shells | Nile Okomo | [Read More](https://medium.com/p/3b51139d3d83) |
 | Thu, 14 Aug 2025 20:48:39 GMT | Threat Hunting As a Culture: Turning Proactive into Routine | Yash Patel | [Read More](https://medium.com/p/bd527dac8df1) |
 | Thu, 14 Aug 2025 20:40:24 GMT | Updated UAC-0099 Toolkit: MATCHBOIL, MATCHWOK, DRAGSTARE | SIMKRA | [Read More](https://medium.com/p/cc9e28acbde3) |
 | Thu, 14 Aug 2025 20:38:49 GMT | Day 80: Python | Nile Okomo | [Read More](https://medium.com/p/61e2bbad58b4) |
 | Thu, 14 Aug 2025 20:29:01 GMT | Recon Methodology: JavaScript File Hunting | Marduk I Am | [Read More](https://medium.com/p/254127ecd211) |
+| Thu, 14 Aug 2025 20:26:17 GMT | MCP + VS Code: Assisted pentest on an HTB box — from install to first flag | Mr TriVe | [Read More](https://medium.com/p/cea7d688803c) |
 | Thu, 14 Aug 2025 20:22:41 GMT | Reverse engineering Authy: the open source method for exporting your 2FA tokens | Franck Reant | [Read More](https://medium.com/p/65a550c95b32) |
 | Thu, 14 Aug 2025 20:11:53 GMT | Sending Handles from Kernel Driver to Userland | S12 - 0x12Dark Development | [Read More](https://medium.com/p/24e581228ff7) |
 | Thu, 14 Aug 2025 20:01:43 GMT | “Tell me I’m not alone.” | paday∞n | [Read More](https://medium.com/p/2aa21e80b721) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 15:44:12 GMT | 0-Click Account Takeover Through a Simple Password Reset Parameter | Gouri Sankar A | [Read More](https://medium.com/p/482ad44019a2) |
 | Thu, 14 Aug 2025 15:43:01 GMT | Exploring Microsoft Sentinel: Building a Strong Foundation in Cloud-Native Security | Vedant Tapdiya | [Read More](https://medium.com/p/78d47be8f587) |
 | Thu, 14 Aug 2025 15:41:21 GMT | Enhancing Infrastructure Security and Efficiency at Level Up Bank | Brandon Forlina | [Read More](https://medium.com/p/e5be84f67ba6) |
-| Thu, 14 Aug 2025 15:38:47 GMT | The Knight, The Child, and The River Inside | Prix☆ | [Read More](https://medium.com/p/80088abc09d6) |
-| Thu, 14 Aug 2025 15:36:51 GMT | Mental Health in the Age of AI. | MindMeshTech | [Read More](https://medium.com/p/bcfa6e3a2809) |
