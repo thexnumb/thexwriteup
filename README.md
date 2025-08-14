@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 22:11:04 GMT | Why You’ll Love Diode Collab for Collaboration | Maliah | [Read More](https://medium.com/p/9e4bcf385867) |
+| Thu, 14 Aug 2025 22:09:15 GMT | Switching From Python to Go for Pentesting | Taulan Zauzanov | [Read More](https://medium.com/p/9207e687347e) |
+| Thu, 14 Aug 2025 22:01:54 GMT | “When I Finally Stopped Saying ‘I’m Fine’” | Zee Wen | [Read More](https://medium.com/p/3cb0c487cf5d) |
+| Thu, 14 Aug 2025 21:44:28 GMT | I Almost Wasted 50k on Bot Detection That Doesn’t Work | Francesco Lisandro | [Read More](https://medium.com/p/46c284ef9be3) |
+| Thu, 14 Aug 2025 21:37:02 GMT | Open Source Projects #1: Kaktus: Linux System Audit and Hardening | Mesut Ozsoy | [Read More](https://medium.com/p/b0143d619fb3) |
 | Thu, 14 Aug 2025 21:19:11 GMT | Understanding Vulnerabilities in Cybersecurity: The Weak Links That Threaten Digital Fortresses | Emma Lateyron | [Read More](https://medium.com/p/bd920485c134) |
 | Thu, 14 Aug 2025 20:55:20 GMT | Day 81: More reverse shells | Nile Okomo | [Read More](https://medium.com/p/3b51139d3d83) |
 | Thu, 14 Aug 2025 20:48:39 GMT | Threat Hunting As a Culture: Turning Proactive into Routine | Yash Patel | [Read More](https://medium.com/p/bd527dac8df1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 16:02:34 GMT | Your Data Is Leaking: The Dark Web Secrets You Need to Know | Antonio Lorensius Silaban | [Read More](https://medium.com/p/8ab4a7bc7093) |
 | Thu, 14 Aug 2025 16:01:29 GMT | SMT2025 Expert Lecture 2: SecuMS & Omniguard | Rivaldo Juanda Tampubolon | [Read More](https://medium.com/p/40ad5316310a) |
 | Thu, 14 Aug 2025 15:57:31 GMT | 10 Visuals That Will Honestly Transform Your Mindset | Vijay Kumar Gupta | [Read More](https://medium.com/p/3e108dddf7fb) |
-| Thu, 14 Aug 2025 15:50:33 GMT | Why Phishing Simulation and Security Awareness Training Are Key to Human Risk Management | Keepnet Labs | [Read More](https://medium.com/p/1e3c64f83e5e) |
-| Thu, 14 Aug 2025 15:49:17 GMT | SMT2025 Expert Lecture 1: Network and Email APTs, EDR, RansomZero (Powered by RGB Conversion and… | Rivaldo Juanda Tampubolon | [Read More](https://medium.com/p/981a0246ea25) |
-| Thu, 14 Aug 2025 15:44:12 GMT | 0-Click Account Takeover Through a Simple Password Reset Parameter | Gouri Sankar A | [Read More](https://medium.com/p/482ad44019a2) |
-| Thu, 14 Aug 2025 15:43:01 GMT | Exploring Microsoft Sentinel: Building a Strong Foundation in Cloud-Native Security | Vedant Tapdiya | [Read More](https://medium.com/p/78d47be8f587) |
-| Thu, 14 Aug 2025 15:41:21 GMT | Enhancing Infrastructure Security and Efficiency at Level Up Bank | Brandon Forlina | [Read More](https://medium.com/p/e5be84f67ba6) |
