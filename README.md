@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 10:17:04 GMT | The Onion Router: More Than a Gateway to the Web | Fatih | [Read More](https://medium.com/p/db75b9491185) |
+| Thu, 14 Aug 2025 10:13:32 GMT | Psychological victory before first contact | Martin Abramov | [Read More](https://medium.com/p/132344086054) |
+| Thu, 14 Aug 2025 10:08:46 GMT | Log 05: Creating User Accounts in Windows | Apurva Cybersecurity | [Read More](https://medium.com/p/4abcabb288e5) |
+| Thu, 14 Aug 2025 10:08:18 GMT | Predictive Analytics and Voice Technology: A Winning Combination for Warehouses | Gargiben | [Read More](https://medium.com/p/114aee74dd28) |
+| Thu, 14 Aug 2025 10:07:20 GMT | THREAT INTELL REPORT — NFS EXPOSED: THE SILENT ATTACK VECTOR | ZoomEye | [Read More](https://medium.com/p/8aa4ea0cbce1) |
+| Thu, 14 Aug 2025 10:06:59 GMT | Expert Lecture III | unknownman | [Read More](https://medium.com/p/af3386208e16) |
+| Thu, 14 Aug 2025 10:05:18 GMT | Groot — Under The Wire (writeup) | Shaheer Khalid | [Read More](https://medium.com/p/29663842aab4) |
+| Thu, 14 Aug 2025 10:03:10 GMT | Types Of Attacks | Mohameduzair K | [Read More](https://medium.com/p/39793b3f4ce8) |
+| Thu, 14 Aug 2025 10:02:05 GMT | How Critical Is Your Job? | Renan Schmitt | [Read More](https://medium.com/p/dd6bd3b4a60e) |
+| Thu, 14 Aug 2025 09:59:54 GMT | Why Your DevOps Pipeline Is a Security Hazard — Yes, Yours Too | Mannu | [Read More](https://medium.com/p/8ee385225eb4) |
+| Thu, 14 Aug 2025 09:58:09 GMT | Best Digital Marketing Services in Texas — Grow Your Business Online | Curved Sphere Digital LLC | [Read More](https://medium.com/p/f766507f4d98) |
+| Thu, 14 Aug 2025 09:51:58 GMT | Why StrongBox IT is the Best VAPT Company for Your Business | StrongBox IT | [Read More](https://medium.com/p/cee437111aeb) |
+| Thu, 14 Aug 2025 09:51:20 GMT | The Best Software Development & IT Services Provider for Your Business Growth | Softreey | [Read More](https://medium.com/p/c4d70f631a2a) |
+| Thu, 14 Aug 2025 09:47:07 GMT | Stop Wasting Hours on Slow Recon: How Findomain v0.9.3 Finds 84,000+ Subdomains in Seconds | Sajjad Hussain | [Read More](https://medium.com/p/80785aef2cd0) |
+| Thu, 14 Aug 2025 09:45:57 GMT | Vulnerability Assessment vs Penetration Testing | Progressive Infotech | [Read More](https://medium.com/p/3d7340f372f9) |
 | Thu, 14 Aug 2025 09:41:46 GMT | The Role of Non-IT Employees in Security | Evgeny Ermakov | [Read More](https://medium.com/p/a25b12dd7712) |
 | Thu, 14 Aug 2025 09:35:01 GMT | Process Injection: Harnessing The Power of Shellcode | Redfox Security | [Read More](https://medium.com/p/d3226afa5bc1) |
 | Thu, 14 Aug 2025 09:34:46 GMT | Offenso Hackers Academy offers a top cyber security course in India with practical training, global… | Reshmadotin | [Read More](https://medium.com/p/a3e5093590ea) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 06:00:54 GMT | Day6 Recon: How to Find Exposed Cloud Storage & Hidden Third-Party Assets (With Real Demos)
  From… | Ayush Kumar | [Read More](https://medium.com/p/798219ba4d7f) |
 | Thu, 14 Aug 2025 06:00:39 GMT | Today’s Top Cyber Intelligence Highlights — Aug 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3b4f1bb6c208) |
-| Thu, 14 Aug 2025 05:58:09 GMT | Top Trends of Security Architecture in 2025 | InfosecTrain | [Read More](https://medium.com/p/70a6d43dffae) |
-| Thu, 14 Aug 2025 05:54:02 GMT | Special Lecture 2: Turning Open-Source Clues into Precise Geolocations | Achmad Al Fauzi Dhiaulhaq | [Read More](https://medium.com/p/ad4cc8622ff8) |
-| Thu, 14 Aug 2025 05:51:34 GMT | Fighting Fire with Fire: How to Deploy AI Against AI’s Dark Side | Rajneesh Singh | [Read More](https://medium.com/p/47838b87805b) |
-| Thu, 14 Aug 2025 05:49:58 GMT | SMT Program 2025 — Special Lecture 2 Journal | Mjibrahim | [Read More](https://medium.com/p/8014de72683e) |
-| Thu, 14 Aug 2025 05:44:30 GMT | Making Bank with AI (Without Totally Selling Your Soul) | Diana - Digital Growth Strategist | [Read More](https://medium.com/p/bea99b4c0fd7) |
-| Thu, 14 Aug 2025 05:43:59 GMT | The Emotional Impact of Bed Bugs and How to Cope | Dingle Boy | [Read More](https://medium.com/p/b9af6643c9b2) |
-| Thu, 14 Aug 2025 05:43:00 GMT | What Is Encoding? Types, Uses, and How It Works in Technology | amol pawar | [Read More](https://medium.com/p/d96ff8255e79) |
-| Thu, 14 Aug 2025 05:41:27 GMT | A Spotlight on Cyber Security Development Companies Based in Ashburn, USA. | Webtrills | [Read More](https://medium.com/p/7f8b9c329bab) |
-| Thu, 14 Aug 2025 05:40:36 GMT | SMT Program 2025 Journal — Special Lecture 1 | Sarah | [Read More](https://medium.com/p/43da24f7db22) |
-| Thu, 14 Aug 2025 05:40:28 GMT | Why Cyber Security Awareness Matters More Than Ever | Renaissance Computer Services Limited | [Read More](https://medium.com/p/597012c9a63f) |
-| Thu, 14 Aug 2025 05:32:45 GMT | My Eyes Say the Things My Mouth Never Will | Ayushi Jindal | [Read More](https://medium.com/p/a3660a620692) |
-| Thu, 14 Aug 2025 05:26:42 GMT | Mastering Nmap: The Ultimate Guide to Network Scanning and Vulnerability Detection | Monika sharma | [Read More](https://medium.com/p/769d1d2eecff) |
-| Thu, 14 Aug 2025 05:23:43 GMT | ️ How to Bypass Web Application Firewalls (WAFs) | Vipul Sonule | [Read More](https://medium.com/p/8346e6e79dd3) |
-| Thu, 14 Aug 2025 05:10:36 GMT | Serverless Web Performance: Good or Bad? — The Truth Behind the Hype | Rizqi Mulki | [Read More](https://medium.com/p/595629793e32) |
-| Thu, 14 Aug 2025 05:08:25 GMT | Day 6: Service models in Cloud computing | Prathamlondhe | [Read More](https://medium.com/p/2262503ef25c) |
