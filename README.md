@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 11:11:12 GMT | What I Learned After Getting My First Ransomware Alert at 2AM | Shahzaib | [Read More](https://medium.com/p/851e436742c7) |
+| Thu, 14 Aug 2025 11:07:52 GMT | Diving into the Dark Side of the Internet: Understanding the Dark Web and the Privacy Paradox | Fadli Adriansyah | [Read More](https://medium.com/p/23ce8f5cdbd7) |
+| Thu, 14 Aug 2025 11:04:02 GMT | iZen Software — A Trusted Software Development Company in Chennai | admin 1 | [Read More](https://medium.com/p/5787ad921057) |
+| Thu, 14 Aug 2025 11:00:42 GMT | Leveling Up: From Android Developer to Architecture Developer | Smit Modi | [Read More](https://medium.com/p/a0e5f6a2ad58) |
+| Thu, 14 Aug 2025 10:56:04 GMT | Zero Trust, Zero Breaches? Why Identity-First Security Is Dominating 2025 | Keith Henry | [Read More](https://medium.com/p/46b2afd2c4e0) |
+| Thu, 14 Aug 2025 10:54:38 GMT | Unlocking the Hidden Power of Search Engines | Genrunic | [Read More](https://medium.com/p/dc1fd123674b) |
+| Thu, 14 Aug 2025 10:51:40 GMT | Critical WordPress Plugin Flaw: Is Your Site at Risk? (CVE-2025–7384) | Liran Nachman | [Read More](https://medium.com/p/375401c32ad1) |
+| Thu, 14 Aug 2025 10:49:54 GMT | Social Engineering: The Cheapest and Deadliest Attack in Cybersecurity | Eka Danis Saputri | [Read More](https://medium.com/p/e8ba2d964435) |
+| Thu, 14 Aug 2025 10:48:52 GMT | Day 10Of Ethical Hacking(How Hackers identify the running firewall) | Rishav | [Read More](https://medium.com/p/e93a082cc0c7) |
+| Thu, 14 Aug 2025 10:47:39 GMT | A Whisper Through the Wires: How Hackers Slip Past WordPress Defenses | Pentestjunkie07 | [Read More](https://medium.com/p/acaf3f9add95) |
+| Thu, 14 Aug 2025 10:47:00 GMT | Cybersecurity Backup and Recovery: Protecting Against Data Loss | Cyber Security Research | [Read More](https://medium.com/p/e8782038cffd) |
 | Thu, 14 Aug 2025 10:44:25 GMT | Cybersecurity Patch Management: Keeping Systems Up-to-Date | Cyber Security Research | [Read More](https://medium.com/p/c41b0fe0409a) |
 | Thu, 14 Aug 2025 10:43:08 GMT | Cybersecurity Attack Surface Analysis: Identifying Potential Vulnerabilities | Cyber Security Research | [Read More](https://medium.com/p/692216ee8767) |
 | Thu, 14 Aug 2025 10:42:04 GMT | How I Found a Sensitive Data Exposure And PII in NASA’s EarthData System | whiterose | [Read More](https://medium.com/p/6980492dcd75) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 07:32:48 GMT | Cybersecurity in the Quantum-AI Era: | Sampath Manage | [Read More](https://medium.com/p/72ad97200c80) |
 | Thu, 14 Aug 2025 07:31:59 GMT | Packets & Frames - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/2bb5bf6d43f1) |
 | Thu, 14 Aug 2025 07:25:16 GMT | Health Insurance Plans for Family — Secure Your Loved Ones’ Future | Khannmohsin | [Read More](https://medium.com/p/05b6f3b3e914) |
-| Thu, 14 Aug 2025 07:24:35 GMT | Understanding the Cloud Application Security Market | Nileshprajapati | [Read More](https://medium.com/p/02417e808398) |
-| Thu, 14 Aug 2025 07:24:26 GMT | Kasa EC71 vs Tapo C100 vs Blink Mini — Which Indoor Security Camera Should You Buy? | TrendHive | [Read More](https://medium.com/p/ec0b17086611) |
-| Thu, 14 Aug 2025 07:24:22 GMT | Securing Servers with AppArmor and HTTPS: A Practical Guide | Maham Shariff | [Read More](https://medium.com/p/3f550a698a63) |
-| Thu, 14 Aug 2025 07:22:18 GMT | Heap 1 pico ctf write up | Zeyadsalah | [Read More](https://medium.com/p/e27469b21e2d) |
-| Thu, 14 Aug 2025 07:17:12 GMT | ประจำวันพฤหัสบดีที่ 14 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/a0fb66a16222) |
-| Thu, 14 Aug 2025 07:14:46 GMT | Why AI Chatbot Security Testing Feels Like Social Engineering ?? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/8812b7520660) |
-| Thu, 14 Aug 2025 07:08:51 GMT | Intro to LAN - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/2a6cd67dc3ae) |
-| Thu, 14 Aug 2025 07:07:27 GMT | Cybersecurity Challenges in Businesses in India | Manisha Chaudhary | [Read More](https://medium.com/p/b1347016f737) |
-| Thu, 14 Aug 2025 07:07:14 GMT | Nocturnal — Hack The Box Write Up | Toshith | [Read More](https://medium.com/p/f7f659e3ac26) |
-| Thu, 14 Aug 2025 07:00:43 GMT | Cyber Insurance: What It Covers (And What It Doesn’t) | Aj | [Read More](https://medium.com/p/58c9aa6f8f80) |
-| Thu, 14 Aug 2025 06:59:31 GMT | How to Pinpoint an Exact Location from Limited Context: Tips from NHSC’s CyberSecurity Consultant | Michael Christian Handoko | [Read More](https://medium.com/p/c7e2248ce004) |
