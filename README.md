@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 16:50:49 GMT | SMT2025 Special Lecture 1: Knowing without Breaching | Rivaldo Tampubolon | [Read More](https://medium.com/p/61c7083be9e7) |
+| Thu, 14 Aug 2025 16:45:03 GMT | Change Your Passwords Now!!! 16 Billion Credentials Leaked In Biggest Data Breach of All Time? | Merwansky | [Read More](https://medium.com/p/cb37948ecac4) |
+| Thu, 14 Aug 2025 16:41:58 GMT | Harry Potter Aragog — Walkthrough | 0xSOS | [Read More](https://medium.com/p/749c7c9ec4de) |
+| Thu, 14 Aug 2025 16:41:14 GMT | The Privacy Paradox: Lessons from the Onion and the Batman | Yenni Theresia Zalukhu | [Read More](https://medium.com/p/c22a932874f9) |
+| Thu, 14 Aug 2025 16:40:38 GMT | Expert Lecture 3 | Sean William | [Read More](https://medium.com/p/166ad9fa6489) |
+| Thu, 14 Aug 2025 16:36:14 GMT | 6 Cartoons about Apps, Bugs, and Technology | Larrylambert | [Read More](https://medium.com/p/94cff7dd5e71) |
+| Thu, 14 Aug 2025 16:34:06 GMT | Expert Lecture 3: Why the Digital World Needs Both The Onion and Batman, The Privacy Paradox | Muhammad Allif Qalbiy | [Read More](https://medium.com/p/7ef70ca26af3) |
+| Thu, 14 Aug 2025 16:32:02 GMT | Not the onion you know — TOR in a nutshell | Ulrich Stern | [Read More](https://medium.com/p/3b5ef169a3bf) |
+| Thu, 14 Aug 2025 16:31:47 GMT | FreeIPA Lab — Identity, Policy, Authentication in Action | Abdelrahman Metwaly | [Read More](https://medium.com/p/83a61091a0e4) |
+| Thu, 14 Aug 2025 16:23:33 GMT | SMT Program Expert Lecture 3: Peeling Back the Layers of the Deep & Dark Web and The BOIM | Robert | [Read More](https://medium.com/p/de52ca4a5370) |
+| Thu, 14 Aug 2025 16:22:15 GMT | TwoMillion — Hack The Box Walkthrough | Canyon Cook | [Read More](https://medium.com/p/3449311bcb3b) |
 | Thu, 14 Aug 2025 16:17:20 GMT | SMT2025 Expert Lecture 3: The Privacy Paradox The Onion & Batman | Rivaldo Juanda Tampubolon | [Read More](https://medium.com/p/55f8074b537b) |
 | Thu, 14 Aug 2025 16:16:40 GMT | The Privacy Paradox: The Onion & Batman | Evelyn A | [Read More](https://medium.com/p/8a8f6951d927) |
 | Thu, 14 Aug 2025 16:16:38 GMT | Virtual MasterCard 2025 | Daniller Castra | [Read More](https://medium.com/p/1ddaefcd582b) |
@@ -102,14 +113,3 @@ Category: Forensics | murugi | [Read More](https://medium.com/p/9c6aa8d1e08e) |
 | Thu, 14 Aug 2025 13:26:17 GMT | Welcome to onion routing, a fascinating method that keeps your online identity hidden by wrapping… | Tiara Atarian | [Read More](https://medium.com/p/1bca727834cd) |
 | Thu, 14 Aug 2025 13:23:23 GMT | Why Every New Zealand Business Needs Robust Penetration Testing | Black Lock | [Read More](https://medium.com/p/652bd8d64a01) |
 | Thu, 14 Aug 2025 13:23:13 GMT | ️ Voice Phishing Meets AI: Deepfake Calls and the Death of “Trusting Your Ears” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/99476d309b41) |
-| Thu, 14 Aug 2025 13:22:41 GMT | Content in Context Inside Out | Conceal, Inc. | [Read More](https://medium.com/p/b82b45b23407) |
-| Thu, 14 Aug 2025 13:20:57 GMT | Phishing 2.0: AI-Bots, Deepfakes, and Personalized Email Scams | Yash Patel | [Read More](https://medium.com/p/df6bd6ddb5b5) |
-| Thu, 14 Aug 2025 13:17:23 GMT | Beyond the Firewall: Guarding the Gates from Within | fatih nararya | [Read More](https://medium.com/p/08d810d07aad) |
-| Thu, 14 Aug 2025 13:16:18 GMT | Why Storytelling Beats Technical Jargon on Medium | Aj | [Read More](https://medium.com/p/08e82b104eb1) |
-| Thu, 14 Aug 2025 13:15:30 GMT | https://offensoacademy.com/ | marfin rashid | [Read More](https://medium.com/p/cade52fcaa68) |
-| Thu, 14 Aug 2025 13:14:54 GMT | Boost Efficiency with NetSuite Professional Services | inoday consultancy services | [Read More](https://medium.com/p/3ad74f1d9c2f) |
-| Thu, 14 Aug 2025 13:09:46 GMT | WHY CTF 2025 Challenge Write-Up — “Solar System Overview” | Akshatshirsat | [Read More](https://medium.com/p/8b92ee94feb6) |
-| Thu, 14 Aug 2025 13:07:14 GMT | “How I Rerouted Calls in a Live Telephony System With a ‘View-Only’ Role” — The Hidden API… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/676b71d5faa9) |
-| Thu, 14 Aug 2025 13:06:09 GMT | How I Got Into Cybersecurity After My Instagram Got Hacked | Shahzaib | [Read More](https://medium.com/p/29abdc492e17) |
-| Thu, 14 Aug 2025 13:04:45 GMT | Inside the Security War Room: How Modern Tools Keep Enterprises Ahead of Threats | Antonio Lorensius Silaban | [Read More](https://medium.com/p/477d396a04ab) |
-| Thu, 14 Aug 2025 13:03:47 GMT | How Did a Single HTTP Header Bypass 403 Forbidden | Ibtissam hammadi | [Read More](https://medium.com/p/fca0e3891347) |
