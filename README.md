@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 19:16:55 GMT | Ultimate Source Code Recon Tools | AbhirupKonwar | [Read More](https://medium.com/p/206d5059fcfc) |
+| Thu, 14 Aug 2025 19:01:41 GMT | Three Hunts, No Bounties — and Why I’m Still Excited | Horizon | [Read More](https://medium.com/p/9714dc631a41) |
+| Thu, 14 Aug 2025 18:56:34 GMT | Digital Dust: The Cybersecurity Threat Nobody’s Talking About | Akshay Chauhan | [Read More](https://medium.com/p/7ac9ed92a426) |
+| Thu, 14 Aug 2025 18:54:24 GMT | The Need for Digital Twins in Cybersecurity: From Awareness to Anticipation | Juan Pablo Castro | [Read More](https://medium.com/p/2a29b53190dd) |
+| Thu, 14 Aug 2025 18:50:00 GMT | Hackable: 3 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/5d4d35b44562) |
+| Thu, 14 Aug 2025 18:38:23 GMT | OAuth Login Bypasses & Account Linking Chaos — A Bug Bounty Adventure | Sohan | [Read More](https://medium.com/p/bf0cf0b28d72) |
+| Thu, 14 Aug 2025 18:33:50 GMT | Authentication Demystified: Choosing Between Basic, Bearer, OAuth2, JWT & SSO (2025 Guide) | CodeTalks | [Read More](https://medium.com/p/56fa6a774fbe) |
+| Thu, 14 Aug 2025 18:32:29 GMT | ️ Satellite of Secrets: Finding Open Admin Consoles in IoT Dashboards | Iski | [Read More](https://medium.com/p/bc6b880edabd) |
 | Thu, 14 Aug 2025 18:24:56 GMT | Account Deletion Security Pitfalls — A Bug Bounty Case Study | Sohan | [Read More](https://medium.com/p/8ab8fe7ac8f5) |
 | Thu, 14 Aug 2025 18:24:50 GMT | Essential Guide to Vulnerability Management Tools: Strengthening Your Cybersecurity in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/49acb8f11adc) |
+| Thu, 14 Aug 2025 18:23:14 GMT | Reconnaissance and OSINT: The First Step in Cyber Attacks | Genrunic | [Read More](https://medium.com/p/1e070f440b84) |
 | Thu, 14 Aug 2025 18:21:04 GMT | Breaking Barriers: Becoming the First Nigerian to Pass the OSWP Exam in One Sitting | Paclab | [Read More](https://medium.com/p/7dcbd3c291a0) |
 | Thu, 14 Aug 2025 18:20:21 GMT | Transitioning From OffSec to Red Teaming | Ty Anderson | [Read More](https://medium.com/p/165fc2e968f8) |
 | Thu, 14 Aug 2025 18:11:29 GMT | My Experience Finding the Best Security Guard Company in Calgary | Support | [Read More](https://medium.com/p/7edc876f29b0) |
@@ -104,12 +113,3 @@ Category: Forensics | murugi | [Read More](https://medium.com/p/9c6aa8d1e08e) |
 | Thu, 14 Aug 2025 15:01:10 GMT | Why Cybersecurity Should Be Every Hotelier’s Top Priority | Paradise technologies Inc | [Read More](https://medium.com/p/32cf6d15a174) |
 | Thu, 14 Aug 2025 15:00:55 GMT | OSINT: Knowing Without Breaching Fundamentals, Tools, and Intelligence Lifecycle | Muhammad Rizki Anshari | [Read More](https://medium.com/p/2eed369c2d98) |
 | Thu, 14 Aug 2025 14:58:12 GMT | Understanding SharePoint Web Parts and IDOR Vulnerabilities | horamah | [Read More](https://medium.com/p/e9ca172d7f2b) |
-| Thu, 14 Aug 2025 14:57:49 GMT | Meeting Compliance Standards with Penetration Testing in Cybersecurity | CyRAACS | [Read More](https://medium.com/p/9ccb1a4454a4) |
-| Thu, 14 Aug 2025 14:56:58 GMT | Using Burp Suite to Crack Accounts | Gr@ve_Rose | [Read More](https://medium.com/p/8641c245465c) |
-| Thu, 14 Aug 2025 14:53:59 GMT | A Race Condition Leads to Bypass Subscription Plan | youssef awad | [Read More](https://medium.com/p/929abae2f355) |
-| Thu, 14 Aug 2025 14:53:17 GMT | Special Lecture 3 — SMT Program Indonesia | Dixtroiza | [Read More](https://medium.com/p/84182c929b9f) |
-| Thu, 14 Aug 2025 14:43:38 GMT | “Day 11: The Invisible Threat — Hunting for Logic Flaws in Modern Web Applications” | Aman Sharma | [Read More](https://medium.com/p/08c5d279465c) |
-| Thu, 14 Aug 2025 14:38:32 GMT | professional Hacking - Server Hack - HackersClique | BlackHat | [Read More](https://medium.com/p/d8cfa56ab1fb) |
-| Thu, 14 Aug 2025 14:35:14 GMT | Special Lecture 2 — SMT Program Indonesia | Dixtroiza | [Read More](https://medium.com/p/46a935c9842e) |
-| Thu, 14 Aug 2025 14:31:23 GMT | OSINT Isn’t Magic, It’s Method, Lessons in Geolocation from SMT Program 2025 | Daniel Ramawijaya | [Read More](https://medium.com/p/20a98c940ecd) |
-| Thu, 14 Aug 2025 14:30:36 GMT | Membongkar CORS Misconfiguration: Studi Kasus WordPress REST API (wp-json) dan Payload Eksploitasi | Azzabughunter | [Read More](https://medium.com/p/77238c99d123) |
