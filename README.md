@@ -12,11 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 14:43:38 GMT | “Day 11: The Invisible Threat — Hunting for Logic Flaws in Modern Web Applications” | Aman Sharma | [Read More](https://medium.com/p/08c5d279465c) |
+| Thu, 14 Aug 2025 14:35:14 GMT | Special Lecture 2 — SMT Program Indonesia | Dixtroiza | [Read More](https://medium.com/p/46a935c9842e) |
+| Thu, 14 Aug 2025 14:31:23 GMT | OSINT Isn’t Magic, It’s Method, Lessons in Geolocation from SMT Program 2025 | Daniel Ramawijaya | [Read More](https://medium.com/p/20a98c940ecd) |
+| Thu, 14 Aug 2025 14:30:36 GMT | Membongkar CORS Misconfiguration: Studi Kasus WordPress REST API (wp-json) dan Payload Eksploitasi | Azzabughunter | [Read More](https://medium.com/p/77238c99d123) |
+| Thu, 14 Aug 2025 14:27:55 GMT | SickOS 1.2 — Hacking With a Side of $PATH Manipulation | DataDefender | [Read More](https://medium.com/p/4290fcd90ae1) |
+| Thu, 14 Aug 2025 14:23:21 GMT | Dark Web: History and Why it Matters to Cyber Security | Muhammad Rifqy | [Read More](https://medium.com/p/c6087c219003) |
+| Thu, 14 Aug 2025 14:21:38 GMT | CYBERDEFENDER’S OSKI LAB | Adewale Ayomide | [Read More](https://medium.com/p/337b0a23647d) |
+| Thu, 14 Aug 2025 14:21:03 GMT | The Privacy Paradox: Navigating the Dark Web with Onion Routing and Cyber Risk Management | Muhammad Rizki Anshari | [Read More](https://medium.com/p/e27dbc4ab951) |
+| Thu, 14 Aug 2025 14:20:57 GMT | Exploring Tor and Dark Web Threats | Zeenya | [Read More](https://medium.com/p/f0f7f5c52930) |
+| Thu, 14 Aug 2025 14:18:59 GMT | SecuMS & Omniguard: Strengthening Vulnerability Management and Server Security | Muhammad Rizki Anshari | [Read More](https://medium.com/p/4d538da78945) |
+| Thu, 14 Aug 2025 14:16:48 GMT | The Timestamp That Time-Traveled to 1970: How One Date Broke an Entire Fleet of Devices | Let's code | [Read More](https://medium.com/p/e9075c067842) |
+| Thu, 14 Aug 2025 14:16:23 GMT | Linux Storage Management: It’s Not Magic, It’s Commands | MayhemCode | [Read More](https://medium.com/p/059b7b3626e0) |
+| Thu, 14 Aug 2025 14:16:16 GMT | Open Source Contribution in End-to-End Machine Learning Projects | Prerana Kailash Pattnaik | [Read More](https://medium.com/p/d99b3a2104ff) |
 | Thu, 14 Aug 2025 14:13:00 GMT | AI Agents Are Moving From Experiment to Essential — Here’s How to Build One | Shoaib Rashid | [Read More](https://medium.com/p/62e4290af4c3) |
 | Thu, 14 Aug 2025 14:12:26 GMT | Special Lecture 1 — SMT Program Indonesia | Dixtroiza | [Read More](https://medium.com/p/563eabce5f12) |
 | Thu, 14 Aug 2025 14:11:44 GMT | Siber Güvenlik Bakışıyla: SSH | Barış A. | [Read More](https://medium.com/p/2edc8b75ba58) |
 | Thu, 14 Aug 2025 14:10:43 GMT | Security & Trust: How Mumubit Ensures Safe Diamond Transactions | Wealth Blisss | [Read More](https://medium.com/p/f44ef83916ea) |
 | Thu, 14 Aug 2025 14:10:24 GMT | SMT Program 2025 Journal — Expert Lecture 3 | Sarah | [Read More](https://medium.com/p/aefab375279a) |
+| Thu, 14 Aug 2025 14:10:12 GMT | How a Fake VS Code Extension Stole My Crypto | Civil Learning | [Read More](https://medium.com/p/fecdee073536) |
 | Thu, 14 Aug 2025 14:09:38 GMT | Email Phishing in Organizations — From Zero to Hero: How Companies Get Targeted, Tricked, and… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/dedeb1d491c6) |
 | Thu, 14 Aug 2025 14:08:05 GMT | THE HIDDEN SIDE OF CYBERSECURITY NOBODY TALKS ABOUT | Ishengoma | [Read More](https://medium.com/p/d72504a6ea07) |
 | Thu, 14 Aug 2025 14:02:13 GMT | Oracle — Under The Wire (Walk-through) | Shaheer Khalid | [Read More](https://medium.com/p/0686a085b15d) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 10:42:04 GMT | How I Found a Sensitive Data Exposure And PII in NASA’s EarthData System | whiterose | [Read More](https://medium.com/p/6980492dcd75) |
 | Thu, 14 Aug 2025 10:41:51 GMT | The Cybersecurity Kill Chain: Understanding the Attacker’s Methodology | Cyber Security Research | [Read More](https://medium.com/p/c836b33d6fa8) |
 | Thu, 14 Aug 2025 10:40:52 GMT | Letting Everything Get Under My Skin | Garima Chhikara | [Read More](https://medium.com/p/853ba5f9605e) |
-| Thu, 14 Aug 2025 10:40:30 GMT | Cybersecurity Standards: Implementing Industry Best Practices | Cyber Security Research | [Read More](https://medium.com/p/111c46d051cc) |
-| Thu, 14 Aug 2025 10:38:13 GMT | How $75K in ZORA Was Claimed Without Hacking the Code | Evgenii | [Read More](https://medium.com/p/43df4857d0cc) |
-| Thu, 14 Aug 2025 10:37:15 GMT | Threat Emulation 101 — How Hackers Attack & How We Defend | Furkanctiner | [Read More](https://medium.com/p/189e740b341a) |
-| Thu, 14 Aug 2025 10:35:17 GMT | Cybersecurity Trends for 2025 and Beyond: What You Need to Know | Paritosh | [Read More](https://medium.com/p/53605ae788ce) |
-| Thu, 14 Aug 2025 10:34:33 GMT | Hack The Box - The Needle Writeup | onezero | [Read More](https://medium.com/p/1e763f91fc44) |
-| Thu, 14 Aug 2025 10:33:06 GMT | Trusted VAPT Testing Services In India - Net Access India Limited | Gowthammathiew | [Read More](https://medium.com/p/9fb179209029) |
-| Thu, 14 Aug 2025 10:30:18 GMT | Best Institute for Cyber Security Training in Bangalore in 2025 | Pravin Choudhary | [Read More](https://medium.com/p/fa73e0a6d0cb) |
-| Thu, 14 Aug 2025 10:29:43 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/20861c110ae1) |
-| Thu, 14 Aug 2025 10:29:23 GMT | One Vulnerability at a Time: How to Run High-Impact AppSec Campaigns | James Chiappetta | [Read More](https://medium.com/p/5fa91f966a2f) |
-| Thu, 14 Aug 2025 10:26:44 GMT | Why Are Firewalls Necessary for Your Website | Maverick Steel | [Read More](https://medium.com/p/680f780733dc) |
-| Thu, 14 Aug 2025 10:20:07 GMT | Certified Ethical hacking Course in Delhi | GICSEH | [Read More](https://medium.com/p/2e5981a4ea79) |
-| Thu, 14 Aug 2025 10:17:04 GMT | The Onion Router: More Than a Gateway to the Web | Fatih | [Read More](https://medium.com/p/db75b9491185) |
-| Thu, 14 Aug 2025 10:13:32 GMT | Psychological victory before first contact | Martin Abramov | [Read More](https://medium.com/p/132344086054) |
-| Thu, 14 Aug 2025 10:08:46 GMT | Log 05: Creating User Accounts in Windows | Apurva Cybersecurity | [Read More](https://medium.com/p/4abcabb288e5) |
