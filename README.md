@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 11:31:44 GMT | Application Level DoS - No More Dates | Jerry Shah (Jerry) | [Read More](https://medium.com/p/6782fcf3392c) |
+| Thu, 14 Aug 2025 11:31:18 GMT | Parameter-Based Access Control Testing | Siddiquimohammad | [Read More](https://medium.com/p/6eefea55d48f) |
+| Thu, 14 Aug 2025 11:30:18 GMT | Who benefits from AI Security Protocols & Monitoring? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/9b253424881f) |
+| Thu, 14 Aug 2025 11:29:42 GMT | How a Trust Center Turns Compliance into a Competitive Advantage | SecureSlate | [Read More](https://medium.com/p/79ec78c513f3) |
+| Thu, 14 Aug 2025 11:28:10 GMT | SMT Program Expert Lecture 1 | William Khoyudia | [Read More](https://medium.com/p/e58aa148dc2b) |
+| Thu, 14 Aug 2025 11:27:53 GMT | The 48-Hour Digital Death: How KiranaPro Lost Everything in India’s Most Catastrophic Startup… | NeuralNikitha | [Read More](https://medium.com/p/232451764769) |
+| Thu, 14 Aug 2025 11:23:08 GMT | The Ghost in the Machine | fatih nararya | [Read More](https://medium.com/p/d4d507d377d6) |
+| Thu, 14 Aug 2025 11:18:41 GMT | Subdomain Enumeration - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/c7749d59db62) |
+| Thu, 14 Aug 2025 11:18:14 GMT | Subdomain Enumeration - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/9171735cddb9) |
+| Thu, 14 Aug 2025 11:18:04 GMT | Microsoft’s August 2025 Patch Tuesday: 111 Flaws Squashed, Kerberos Zero-Day Fixed | IamPreth | [Read More](https://medium.com/p/5ee67dd19bc4) |
+| Thu, 14 Aug 2025 11:16:53 GMT | What makes AI Security Protocols & Monitoring vital? | Ziya Zoe | [Read More](https://medium.com/p/ff61521e0174) |
 | Thu, 14 Aug 2025 11:11:12 GMT | What I Learned After Getting My First Ransomware Alert at 2AM | Shahzaib | [Read More](https://medium.com/p/851e436742c7) |
 | Thu, 14 Aug 2025 11:07:52 GMT | Diving into the Dark Side of the Internet: Understanding the Dark Web and the Privacy Paradox | Fadli Adriansyah | [Read More](https://medium.com/p/23ce8f5cdbd7) |
 | Thu, 14 Aug 2025 11:04:02 GMT | iZen Software — A Trusted Software Development Company in Chennai | admin 1 | [Read More](https://medium.com/p/5787ad921057) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 08:09:21 GMT | Le chasseur de failles : Mission Wi-Fi par Handshake | Julien M. | [Read More](https://medium.com/p/307de80c6b83) |
 | Thu, 14 Aug 2025 08:05:37 GMT | Stop Dreaming, Start Hacking: How ANDRAX v4 Turns Your Android into a 900+ Tool Penetration testing… | Sajjad Hussain | [Read More](https://medium.com/p/6736d50f86d3) |
 | Thu, 14 Aug 2025 08:01:47 GMT | DevOps Quantum Leap: Emerging Use Cases of Quantum-Safe Cryptography | Mohamed ElEmam | [Read More](https://medium.com/p/f6dbdb7a720c) |
-| Thu, 14 Aug 2025 07:57:47 GMT | Private Cloud AI by HPE: A Complete Guide | Juara IT Solutions | [Read More](https://medium.com/p/0e2856d175a3) |
-| Thu, 14 Aug 2025 07:51:02 GMT | WALKINGCMS | Enoch Root | [Read More](https://medium.com/p/b2bf520af79f) |
-| Thu, 14 Aug 2025 07:40:21 GMT | From Recon to Payloads: How CQTools Turns Windows Into a Full-Scale Penetration Testing Playground | Sajjad Hussain | [Read More](https://medium.com/p/29c0d7dec0cd) |
-| Thu, 14 Aug 2025 07:39:40 GMT | UNDERSTANDING SDLC: THE BACKBONE OF SOFTWARE DEVELOPMENT | Anthony Hallasan Sibarani | [Read More](https://medium.com/p/545425038feb) |
-| Thu, 14 Aug 2025 07:39:16 GMT | Library CTF Writeup: BSides Guatemala CTF - TryHackMe | Abdul Ahad | [Read More](https://medium.com/p/1fbda20111cb) |
-| Thu, 14 Aug 2025 07:38:36 GMT | DockerLabs Writeup — Extraviado (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/30f774ed213e) |
-| Thu, 14 Aug 2025 07:34:31 GMT | Browser-in-the-Browser (BitB) Phishing — When Your Browser Lies to You | Rue | [Read More](https://medium.com/p/4e049edcdd0a) |
-| Thu, 14 Aug 2025 07:34:26 GMT | Agentic Mesh: The Future of AI-Driven Cybersecurity | Muhammad Hasan Saeed | [Read More](https://medium.com/p/5313b09a9dc3) |
-| Thu, 14 Aug 2025 07:32:48 GMT | Cybersecurity in the Quantum-AI Era: | Sampath Manage | [Read More](https://medium.com/p/72ad97200c80) |
-| Thu, 14 Aug 2025 07:31:59 GMT | Packets & Frames - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/2bb5bf6d43f1) |
-| Thu, 14 Aug 2025 07:25:16 GMT | Health Insurance Plans for Family — Secure Your Loved Ones’ Future | Khannmohsin | [Read More](https://medium.com/p/05b6f3b3e914) |
