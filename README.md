@@ -12,10 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 07:14:46 GMT | Why AI Chatbot Security Testing Feels Like Social Engineering ?? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/8812b7520660) |
+| Thu, 14 Aug 2025 07:08:51 GMT | Intro to LAN - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/2a6cd67dc3ae) |
+| Thu, 14 Aug 2025 07:07:27 GMT | Cybersecurity Challenges in Businesses in India | Manisha Chaudhary | [Read More](https://medium.com/p/b1347016f737) |
+| Thu, 14 Aug 2025 07:07:14 GMT | Nocturnal — Hack The Box Write Up | Toshith | [Read More](https://medium.com/p/f7f659e3ac26) |
+| Thu, 14 Aug 2025 07:00:43 GMT | Cyber Insurance: What It Covers (And What It Doesn’t) | Aj | [Read More](https://medium.com/p/58c9aa6f8f80) |
+| Thu, 14 Aug 2025 06:59:31 GMT | How to Pinpoint an Exact Location from Limited Context: Tips from NHSC’s CyberSecurity Consultant | Michael Christian Handoko | [Read More](https://medium.com/p/c7e2248ce004) |
+| Thu, 14 Aug 2025 06:55:03 GMT | A Practical Guide to Geolocation | Ikamawarnie | [Read More](https://medium.com/p/6fa1f327c8e0) |
+| Thu, 14 Aug 2025 06:52:09 GMT | Unauthorized App Installation | Thrivikram | [Read More](https://medium.com/p/da9ced7b1e58) |
+| Thu, 14 Aug 2025 06:51:10 GMT | What I Learned from EWPTX v3: A Journey into Advanced Web App Penetration Testing | Kartik Garg | [Read More](https://medium.com/p/c5407820992f) |
+| Thu, 14 Aug 2025 06:49:58 GMT | Diving into the World of OSINT: The Art of Knowing Without Breaking Boundaries | Tsabita Bayu Kandi | [Read More](https://medium.com/p/3810e510f390) |
+| Thu, 14 Aug 2025 06:48:53 GMT | The Danger of Weak Website Passwords and How to Fix It | YogSec | [Read More](https://medium.com/p/fd677138006a) |
+| Thu, 14 Aug 2025 06:39:56 GMT | THM - El Bandito | Francesco Pastore | [Read More](https://medium.com/p/3772abe533d5) |
+| Thu, 14 Aug 2025 06:39:38 GMT | SafeLine WAF Setup — Prerequisites You Can’t Skip | Quella | [Read More](https://medium.com/p/c15d3fc31d88) |
+| Thu, 14 Aug 2025 06:32:50 GMT | THM - Friday Overtime | Francesco Pastore | [Read More](https://medium.com/p/2423a1686075) |
+| Thu, 14 Aug 2025 06:25:58 GMT | This Is How Ransomware Kill Your Busines | Afwan Mulia Pratama | [Read More](https://medium.com/p/5029130278f8) |
 | Thu, 14 Aug 2025 06:20:35 GMT | Joseph Lamar Simmons Shares His Insights on Life as an Intelligence Officer | Joseph Lamar Simmons | [Read More](https://medium.com/p/494ac91487a2) |
 | Thu, 14 Aug 2025 06:19:01 GMT | What should AI Security Practitioners know about LLM safety alignment degradation | Anamitra Dutta Majumdar | [Read More](https://medium.com/p/cfffd6d5ec84) |
 | Thu, 14 Aug 2025 06:14:36 GMT | Advanced Wazuh Architecture for Enterprise Environments: What to Consider and How to Scale It | Ismael Barrantes | [Read More](https://medium.com/p/1982b5ae7879) |
 | Thu, 14 Aug 2025 06:12:51 GMT | Still Relevant for Computer Science Students in 2025? | BIT Blogs | [Read More](https://medium.com/p/404b89c3cdcd) |
+| Thu, 14 Aug 2025 06:05:05 GMT | Her Sektöre Özel Uzaktan İzleme ve Risk Analiz Çözümleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/d0acdc502d32) |
 | Thu, 14 Aug 2025 06:00:54 GMT | Day6 Recon: How to Find Exposed Cloud Storage & Hidden Third-Party Assets (With Real Demos)
  From… | Ayush Kumar | [Read More](https://medium.com/p/798219ba4d7f) |
 | Thu, 14 Aug 2025 06:00:39 GMT | Today’s Top Cyber Intelligence Highlights — Aug 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3b4f1bb6c208) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 22:29:34 GMT | My success with upgrading Kali Linux to Kali Purple & my failure trying to install the Wazuh… | Bob Malin | [Read More](https://medium.com/p/493436100850) |
 | Wed, 13 Aug 2025 22:17:04 GMT | Protecting Against Insider Data Exfiltration via API | Karthikeyan Nagaraj | [Read More](https://medium.com/p/05115b3a7d37) |
 | Wed, 13 Aug 2025 22:01:45 GMT | The Dopamine Hangover | the girl is a gun | [Read More](https://medium.com/p/992d663fbcba) |
-| Wed, 13 Aug 2025 21:52:18 GMT | Deep Dive Series: iOS App Pen Testing using Non-Rooted Device | Param Dave | [Read More](https://medium.com/p/c0f25e20ebc4) |
-| Wed, 13 Aug 2025 21:40:27 GMT | Why SIEM maintenance will never go away — even if you buy a SIEM Product | LogFiend | [Read More](https://medium.com/p/eddf1decefb1) |
-| Wed, 13 Aug 2025 21:39:48 GMT | The Backdoor That Refuses to Die: XZ Utils Haunts Docker Hub a Year Later | Cyber-AppSec | [Read More](https://medium.com/p/0bf33f4dff46) |
-| Wed, 13 Aug 2025 21:30:54 GMT | Modern day Vulnerability and Exposure Management(Part 1) | Saifur Rahman | [Read More](https://medium.com/p/50c555c093b4) |
-| Wed, 13 Aug 2025 21:29:27 GMT | Bir CISO’nun Ajandası : Uygulama Güvenliği | Mesut Ozsoy | [Read More](https://medium.com/p/b4ef47604b26) |
-| Wed, 13 Aug 2025 21:25:13 GMT | A manifesto for the emotionally literate who’ve been labeled “too much.” | theunseensiren | [Read More](https://medium.com/p/62e04504932c) |
-| Wed, 13 Aug 2025 21:25:10 GMT | Logical 2FA Bypass via Missing clientId Parameter in Profile Update Endpoint | Mahmoud Gamal | [Read More](https://medium.com/p/3f054bc651d6) |
-| Wed, 13 Aug 2025 21:23:25 GMT | Thick Clients, Thicker Risks: A Penetration Tester’s Deep Dive | Anamta Zehra | [Read More](https://medium.com/p/495f2f2fb4b8) |
-| Wed, 13 Aug 2025 21:11:47 GMT | Straw Students: AI-Powered Fraud is Infiltrating Higher Education | Chris Perkins | [Read More](https://medium.com/p/99deb1bfc66f) |
-| Wed, 13 Aug 2025 21:05:02 GMT | The Zero Trust Mirage: When Your Security Tools Are the Backdoor | Conceal, Inc. | [Read More](https://medium.com/p/fbefe5998af7) |
-| Wed, 13 Aug 2025 21:02:49 GMT | ️‍♂️ Hunt Me I: Payment Collectors — A Step-by-Step Threat Hunting Walkthrough | Furkanctiner | [Read More](https://medium.com/p/b58327c06b95) |
-| Wed, 13 Aug 2025 20:59:20 GMT | Path Confusion: The Subtle Trick That Fooled the Cache | Pushkar Bhagat | [Read More](https://medium.com/p/ebcfd1826923) |
-| Wed, 13 Aug 2025 20:57:05 GMT | How I Found the Truth About My Husband’s | Stanley K. Wilson | [Read More](https://medium.com/p/bda8aafe0ac5) |
-| Wed, 13 Aug 2025 20:56:32 GMT | Your Privacy Isn’t Just Slipping Away — It’s Evaporating | Unknown Source | [Read More](https://medium.com/p/2626c5214d31) |
-| Wed, 13 Aug 2025 20:55:12 GMT | The Hacker Knew My Password Before I Did | Shahzaib | [Read More](https://medium.com/p/e8e4a0c652d4) |
-| Wed, 13 Aug 2025 20:48:08 GMT | Synthetic Identity Fraud: The Fake People You Really Should Worry About | Akshay Chauhan | [Read More](https://medium.com/p/98d1eb920102) |
