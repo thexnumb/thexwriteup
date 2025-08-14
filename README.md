@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 17:09:12 GMT | Mi P3 En la NASA con 16 Años | Gorka | [Read More](https://medium.com/p/b6ba79e1e4af) |
+| Thu, 14 Aug 2025 17:09:04 GMT | The Missing Piece of SSO: A Practical Guide to Single Logout (SLO) | Kunal Sinha | [Read More](https://medium.com/p/dcf034107ed4) |
+| Thu, 14 Aug 2025 17:05:30 GMT | How a Fake Call Emptied His Account | Online Safety Zone | [Read More](https://medium.com/p/ade7e03a9375) |
+| Thu, 14 Aug 2025 17:04:24 GMT | Mi P1 En la NASA con 16 Años | Gorka | [Read More](https://medium.com/p/3eba63256d5b) |
+| Thu, 14 Aug 2025 16:59:18 GMT | The Last of My Letters | Sofia Peralta | [Read More](https://medium.com/p/e1f90dc7bf84) |
+| Thu, 14 Aug 2025 16:57:01 GMT | Ransomware Boom: 49% Surge in H1 2025 | Taiyab Lokhandwala | [Read More](https://medium.com/p/db05ab0525aa) |
+| Thu, 14 Aug 2025 16:56:19 GMT | SMT2025 Special Lecture 2: A Practical Guide to Geolocation | Rivaldo Tampubolon | [Read More](https://medium.com/p/eae230776066) |
+| Thu, 14 Aug 2025 16:55:53 GMT | Why Hackers Don’t Hack Servers Anymore They Hack People | Khansa Rahim | [Read More](https://medium.com/p/4bfeb26632d1) |
 | Thu, 14 Aug 2025 16:50:49 GMT | SMT2025 Special Lecture 1: Knowing without Breaching | Rivaldo Tampubolon | [Read More](https://medium.com/p/61c7083be9e7) |
+| Thu, 14 Aug 2025 16:49:37 GMT | Return of the NAT: Preparing for the Retirement of Default Outbound Access with Private Subnets and… | Miguel Arcilla | [Read More](https://medium.com/p/0d9a4617739c) |
 | Thu, 14 Aug 2025 16:45:03 GMT | Change Your Passwords Now!!! 16 Billion Credentials Leaked In Biggest Data Breach of All Time? | Merwansky | [Read More](https://medium.com/p/cb37948ecac4) |
 | Thu, 14 Aug 2025 16:41:58 GMT | Harry Potter Aragog — Walkthrough | 0xSOS | [Read More](https://medium.com/p/749c7c9ec4de) |
 | Thu, 14 Aug 2025 16:41:14 GMT | The Privacy Paradox: Lessons from the Onion and the Batman | Yenni Theresia Zalukhu | [Read More](https://medium.com/p/c22a932874f9) |
@@ -104,12 +113,3 @@ Category: Forensics | murugi | [Read More](https://medium.com/p/9c6aa8d1e08e) |
 | Thu, 14 Aug 2025 13:53:40 GMT | JWE 與 JWT：差異與使用情境完整解析 | Fung | [Read More](https://medium.com/p/9b8ee58b5511) |
 | Thu, 14 Aug 2025 13:53:34 GMT | Email Phishing: From Zero to Hero — The Ultimate Guide to Spotting, Stopping, and Surviving the… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/284d751de7f8) |
 | Thu, 14 Aug 2025 13:43:59 GMT | Email Phishing: From Zero to Hero — The Ultimate Guide + Cyber Kill Chain Breakdown | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b330a504d34f) |
-| Thu, 14 Aug 2025 13:41:58 GMT | AWS IAM Roles Are More Dangerous Than You Think — Real Wildcard Risks & Fixes | Ismail Kovvuru | [Read More](https://medium.com/p/dcea3ec8af3a) |
-| Thu, 14 Aug 2025 13:41:07 GMT | Navigating Corporate Governance: Requirements for Nasdaq and NYSE Companies | SEC Lawyer 101 | [Read More](https://medium.com/p/f7c55a5b6b9c) |
-| Thu, 14 Aug 2025 13:39:40 GMT | OT Pentesting: Hands-on Experience with HTB Alchemy Pro Lab | Levi_CYS | [Read More](https://medium.com/p/6a22e6e33dcf) |
-| Thu, 14 Aug 2025 13:34:25 GMT | . “It Sounded Exactly Like Him” — Inside the AI-Powered Vishing Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/95a699615c23) |
-| Thu, 14 Aug 2025 13:30:30 GMT | Implementing Zettelkasten in Kortex for Cybersecurity (Part 3 of The Hacker’s Knowledge Vault) | Corey Jones | [Read More](https://medium.com/p/5cf1ff565c5a) |
-| Thu, 14 Aug 2025 13:27:50 GMT | Mapping the Invisible: The Structured Process of OSINT Geolocation | Dania. | [Read More](https://medium.com/p/55560ad475e5) |
-| Thu, 14 Aug 2025 13:26:17 GMT | Welcome to onion routing, a fascinating method that keeps your online identity hidden by wrapping… | Tiara Atarian | [Read More](https://medium.com/p/1bca727834cd) |
-| Thu, 14 Aug 2025 13:23:23 GMT | Why Every New Zealand Business Needs Robust Penetration Testing | Black Lock | [Read More](https://medium.com/p/652bd8d64a01) |
-| Thu, 14 Aug 2025 13:23:13 GMT | ️ Voice Phishing Meets AI: Deepfake Calls and the Death of “Trusting Your Ears” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/99476d309b41) |
