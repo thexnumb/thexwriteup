@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 15:18:05 GMT | Inside the Mind of Modern Threats: Rethinking Cyber Defense from a Breach-Centric Lens | Daniel Ramawijaya | [Read More](https://medium.com/p/7145ed52c0b0) |
+| Thu, 14 Aug 2025 15:17:45 GMT | The Privacy Paradox: The Onion Networks | Ivander “Andreas” Wijaya | [Read More](https://medium.com/p/678355563dcf) |
+| Thu, 14 Aug 2025 15:15:56 GMT | SMT Program 2025 — Special Lecture 2 Journal: A Practical Guide to Geolocation | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/c391053876a3) |
+| Thu, 14 Aug 2025 15:15:55 GMT | Behind the Scenes: Unveiling the Dark Web and the Urgency of Data Protection | Raja Capybara | [Read More](https://medium.com/p/ad513e0f65d8) |
+| Thu, 14 Aug 2025 15:14:07 GMT | Inside the Castle Walls: My Journey Through a Zero Trust Assessment | Dr. Deep Pandey | [Read More](https://medium.com/p/026c1299219e) |
+| Thu, 14 Aug 2025 15:02:01 GMT | Dark Web Diaries: Where Your Password Goes After You Forget It | Raihan Rahman Syah Putra | [Read More](https://medium.com/p/f314f2bcc7c8) |
+| Thu, 14 Aug 2025 15:01:53 GMT | The Privacy Paradox: A Descent into the World of The Onion & Batman | Gerti Armanda Sembiring | [Read More](https://medium.com/p/615d148df63a) |
+| Thu, 14 Aug 2025 15:01:52 GMT | How Speed and Performance Impact Your Website Success | Redprohost | [Read More](https://medium.com/p/9fc55c9aa542) |
+| Thu, 14 Aug 2025 15:01:52 GMT | “You Have a New Voicemail” - Anatomy of a CEO Phishing Attack | Ingvar Pavlovich | [Read More](https://medium.com/p/33690ef66cda) |
+| Thu, 14 Aug 2025 15:01:10 GMT | Why Cybersecurity Should Be Every Hotelier’s Top Priority | Paradise technologies Inc | [Read More](https://medium.com/p/32cf6d15a174) |
+| Thu, 14 Aug 2025 15:00:55 GMT | OSINT: Knowing Without Breaching Fundamentals, Tools, and Intelligence Lifecycle | Muhammad Rizki Anshari | [Read More](https://medium.com/p/2eed369c2d98) |
+| Thu, 14 Aug 2025 14:58:12 GMT | Understanding SharePoint Web Parts and IDOR Vulnerabilities | horamah | [Read More](https://medium.com/p/e9ca172d7f2b) |
+| Thu, 14 Aug 2025 14:57:49 GMT | Meeting Compliance Standards with Penetration Testing in Cybersecurity | CyRAACS | [Read More](https://medium.com/p/9ccb1a4454a4) |
+| Thu, 14 Aug 2025 14:56:58 GMT | Using Burp Suite to Crack Accounts | Gr@ve_Rose | [Read More](https://medium.com/p/8641c245465c) |
+| Thu, 14 Aug 2025 14:53:59 GMT | A Race Condition Leads to Bypass Subscription Plan | youssef awad | [Read More](https://medium.com/p/929abae2f355) |
+| Thu, 14 Aug 2025 14:53:17 GMT | Special Lecture 3 — SMT Program Indonesia | Dixtroiza | [Read More](https://medium.com/p/84182c929b9f) |
 | Thu, 14 Aug 2025 14:43:38 GMT | “Day 11: The Invisible Threat — Hunting for Logic Flaws in Modern Web Applications” | Aman Sharma | [Read More](https://medium.com/p/08c5d279465c) |
+| Thu, 14 Aug 2025 14:38:32 GMT | professional Hacking - Server Hack - HackersClique | BlackHat | [Read More](https://medium.com/p/d8cfa56ab1fb) |
 | Thu, 14 Aug 2025 14:35:14 GMT | Special Lecture 2 — SMT Program Indonesia | Dixtroiza | [Read More](https://medium.com/p/46a935c9842e) |
 | Thu, 14 Aug 2025 14:31:23 GMT | OSINT Isn’t Magic, It’s Method, Lessons in Geolocation from SMT Program 2025 | Daniel Ramawijaya | [Read More](https://medium.com/p/20a98c940ecd) |
 | Thu, 14 Aug 2025 14:30:36 GMT | Membongkar CORS Misconfiguration: Studi Kasus WordPress REST API (wp-json) dan Payload Eksploitasi | Azzabughunter | [Read More](https://medium.com/p/77238c99d123) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 11:18:41 GMT | Subdomain Enumeration - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/c7749d59db62) |
 | Thu, 14 Aug 2025 11:18:14 GMT | Subdomain Enumeration - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/9171735cddb9) |
 | Thu, 14 Aug 2025 11:18:04 GMT | Microsoft’s August 2025 Patch Tuesday: 111 Flaws Squashed, Kerberos Zero-Day Fixed | IamPreth | [Read More](https://medium.com/p/5ee67dd19bc4) |
-| Thu, 14 Aug 2025 11:16:53 GMT | What makes AI Security Protocols & Monitoring vital? | Ziya Zoe | [Read More](https://medium.com/p/ff61521e0174) |
-| Thu, 14 Aug 2025 11:11:12 GMT | What I Learned After Getting My First Ransomware Alert at 2AM | Shahzaib | [Read More](https://medium.com/p/851e436742c7) |
-| Thu, 14 Aug 2025 11:07:52 GMT | Diving into the Dark Side of the Internet: Understanding the Dark Web and the Privacy Paradox | Fadli Adriansyah | [Read More](https://medium.com/p/23ce8f5cdbd7) |
-| Thu, 14 Aug 2025 11:04:02 GMT | iZen Software — A Trusted Software Development Company in Chennai | admin 1 | [Read More](https://medium.com/p/5787ad921057) |
-| Thu, 14 Aug 2025 11:00:42 GMT | Leveling Up: From Android Developer to Architecture Developer | Smit Modi | [Read More](https://medium.com/p/a0e5f6a2ad58) |
-| Thu, 14 Aug 2025 10:56:04 GMT | Zero Trust, Zero Breaches? Why Identity-First Security Is Dominating 2025 | Keith Henry | [Read More](https://medium.com/p/46b2afd2c4e0) |
-| Thu, 14 Aug 2025 10:54:38 GMT | Unlocking the Hidden Power of Search Engines | Genrunic | [Read More](https://medium.com/p/dc1fd123674b) |
-| Thu, 14 Aug 2025 10:51:40 GMT | Critical WordPress Plugin Flaw: Is Your Site at Risk? (CVE-2025–7384) | Liran Nachman | [Read More](https://medium.com/p/375401c32ad1) |
-| Thu, 14 Aug 2025 10:49:54 GMT | Social Engineering: The Cheapest and Deadliest Attack in Cybersecurity | Eka Danis Saputri | [Read More](https://medium.com/p/e8ba2d964435) |
-| Thu, 14 Aug 2025 10:48:52 GMT | Day 10Of Ethical Hacking(How Hackers identify the running firewall) | Rishav | [Read More](https://medium.com/p/e93a082cc0c7) |
-| Thu, 14 Aug 2025 10:47:39 GMT | A Whisper Through the Wires: How Hackers Slip Past WordPress Defenses | Pentestjunkie07 | [Read More](https://medium.com/p/acaf3f9add95) |
-| Thu, 14 Aug 2025 10:47:00 GMT | Cybersecurity Backup and Recovery: Protecting Against Data Loss | Cyber Security Research | [Read More](https://medium.com/p/e8782038cffd) |
-| Thu, 14 Aug 2025 10:44:25 GMT | Cybersecurity Patch Management: Keeping Systems Up-to-Date | Cyber Security Research | [Read More](https://medium.com/p/c41b0fe0409a) |
-| Thu, 14 Aug 2025 10:43:08 GMT | Cybersecurity Attack Surface Analysis: Identifying Potential Vulnerabilities | Cyber Security Research | [Read More](https://medium.com/p/692216ee8767) |
-| Thu, 14 Aug 2025 10:42:04 GMT | How I Found a Sensitive Data Exposure And PII in NASA’s EarthData System | whiterose | [Read More](https://medium.com/p/6980492dcd75) |
-| Thu, 14 Aug 2025 10:41:51 GMT | The Cybersecurity Kill Chain: Understanding the Attacker’s Methodology | Cyber Security Research | [Read More](https://medium.com/p/c836b33d6fa8) |
-| Thu, 14 Aug 2025 10:40:52 GMT | Letting Everything Get Under My Skin | Garima Chhikara | [Read More](https://medium.com/p/853ba5f9605e) |
