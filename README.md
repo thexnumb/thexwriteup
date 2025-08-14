@@ -12,9 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 16:17:20 GMT | SMT2025 Expert Lecture 3: The Privacy Paradox The Onion & Batman | Rivaldo Juanda Tampubolon | [Read More](https://medium.com/p/55f8074b537b) |
+| Thu, 14 Aug 2025 16:16:40 GMT | The Privacy Paradox: The Onion & Batman | Evelyn A | [Read More](https://medium.com/p/8a8f6951d927) |
+| Thu, 14 Aug 2025 16:16:38 GMT | Virtual MasterCard 2025 | Daniller Castra | [Read More](https://medium.com/p/1ddaefcd582b) |
+| Thu, 14 Aug 2025 16:16:34 GMT | The Privacy Paradox: Lessons on The Onion & Batman in the Age of Surveillance | Daniel Ramawijaya 2 | [Read More](https://medium.com/p/a791edd86f27) |
+| Thu, 14 Aug 2025 16:12:48 GMT | Onion Routing: A solution for freedom speech in an era of “Pembungkaman” | Hildan Kusto Utomo | [Read More](https://medium.com/p/7ac329bcc073) |
+| Thu, 14 Aug 2025 16:10:44 GMT | SMT Program 2025 — Expert Lecture 2 Journal: The Privacy Paradox: The Batman And Onion | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/b0bdf6fceb93) |
+| Thu, 14 Aug 2025 16:10:33 GMT | The Secret Front-End Feature Big Tech Uses To Make Their Sites Lightning Fast | Sanjeevani Bhandari | [Read More](https://medium.com/p/f7e1976f0497) |
+| Thu, 14 Aug 2025 16:08:48 GMT | Attacking Active Directory for Noobs: Password Spraying | Zach K | [Read More](https://medium.com/p/507fb1ede65b) |
+| Thu, 14 Aug 2025 16:08:27 GMT | Old hacking techniques AI brought back | 80h3m14n | [Read More](https://medium.com/p/b212127a5267) |
+| Thu, 14 Aug 2025 16:06:21 GMT | ISMAP Management Standards Chapter 17: “Information Security Aspects” for Business Continuity | nolly | [Read More](https://medium.com/p/85b81cfa1d63) |
+| Thu, 14 Aug 2025 16:04:40 GMT | SecuMS & Omniguard: Rethinking Vulnerability Management and Access Control in the Enterprise | Daniel Ramawijaya 2 | [Read More](https://medium.com/p/5de077dd73a9) |
+| Thu, 14 Aug 2025 16:02:47 GMT | Cybersecurity Challenges in the Digital Era : Vulnerabilities and Regulations | Eka Danis Saputri | [Read More](https://medium.com/p/be4c19ecbce7) |
+| Thu, 14 Aug 2025 16:02:34 GMT | Your Data Is Leaking: The Dark Web Secrets You Need to Know | Antonio Lorensius Silaban | [Read More](https://medium.com/p/8ab4a7bc7093) |
+| Thu, 14 Aug 2025 16:01:29 GMT | SMT2025 Expert Lecture 2: SecuMS & Omniguard | Rivaldo Juanda Tampubolon | [Read More](https://medium.com/p/40ad5316310a) |
+| Thu, 14 Aug 2025 15:57:31 GMT | 10 Visuals That Will Honestly Transform Your Mindset | Vijay Kumar Gupta | [Read More](https://medium.com/p/3e108dddf7fb) |
+| Thu, 14 Aug 2025 15:50:33 GMT | Why Phishing Simulation and Security Awareness Training Are Key to Human Risk Management | Keepnet Labs | [Read More](https://medium.com/p/1e3c64f83e5e) |
+| Thu, 14 Aug 2025 15:49:17 GMT | SMT2025 Expert Lecture 1: Network and Email APTs, EDR, RansomZero (Powered by RGB Conversion and… | Rivaldo Juanda Tampubolon | [Read More](https://medium.com/p/981a0246ea25) |
+| Thu, 14 Aug 2025 15:44:12 GMT | 0-Click Account Takeover Through a Simple Password Reset Parameter | Gouri Sankar A | [Read More](https://medium.com/p/482ad44019a2) |
+| Thu, 14 Aug 2025 15:43:01 GMT | Exploring Microsoft Sentinel: Building a Strong Foundation in Cloud-Native Security | Vedant Tapdiya | [Read More](https://medium.com/p/78d47be8f587) |
+| Thu, 14 Aug 2025 15:41:21 GMT | Enhancing Infrastructure Security and Efficiency at Level Up Bank | Brandon Forlina | [Read More](https://medium.com/p/e5be84f67ba6) |
 | Thu, 14 Aug 2025 15:38:47 GMT | The Knight, The Child, and The River Inside | Prix☆ | [Read More](https://medium.com/p/80088abc09d6) |
 | Thu, 14 Aug 2025 15:36:51 GMT | Mental Health in the Age of AI. | MindMeshTech | [Read More](https://medium.com/p/bcfa6e3a2809) |
 | Thu, 14 Aug 2025 15:35:17 GMT | HTB Cicada Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/76e7bd9b5a1d) |
+| Thu, 14 Aug 2025 15:31:17 GMT | HTTP Request Smuggling: Basic CL.TE Vulnerability | Bash Overflow | [Read More](https://medium.com/p/2cadaa2d9640) |
 | Thu, 14 Aug 2025 15:30:24 GMT | Ransomware’s New Business Model: Why Double and Triple Extortion Are Now the Standard | Travis Ray Caverhill | [Read More](https://medium.com/p/b4eefb9a4788) |
 | Thu, 14 Aug 2025 15:29:55 GMT | Why Your Digital Privacy Matters More Than Ever | Joe The OSINT Guy | [Read More](https://medium.com/p/57bb30647964) |
 | Thu, 14 Aug 2025 15:29:28 GMT | How Cybersecurity Training is Transforming in the AI Era | Dr. Deep Pandey | [Read More](https://medium.com/p/13903676d57f) |
@@ -92,24 +113,3 @@ Category: Forensics | murugi | [Read More](https://medium.com/p/9c6aa8d1e08e) |
 | Thu, 14 Aug 2025 13:06:09 GMT | How I Got Into Cybersecurity After My Instagram Got Hacked | Shahzaib | [Read More](https://medium.com/p/29abdc492e17) |
 | Thu, 14 Aug 2025 13:04:45 GMT | Inside the Security War Room: How Modern Tools Keep Enterprises Ahead of Threats | Antonio Lorensius Silaban | [Read More](https://medium.com/p/477d396a04ab) |
 | Thu, 14 Aug 2025 13:03:47 GMT | How Did a Single HTTP Header Bypass 403 Forbidden | Ibtissam hammadi | [Read More](https://medium.com/p/fca0e3891347) |
-| Thu, 14 Aug 2025 13:01:59 GMT | You are a safe place | Deb Schell | [Read More](https://medium.com/p/80f1f1e04eaf) |
-| Thu, 14 Aug 2025 13:01:51 GMT | The $40 Billion Problem: Understanding Google Play Integrity’s Cat-and-Mouse Game Part 1 | Nate | [Read More](https://medium.com/p/4dc3707b61c6) |
-| Thu, 14 Aug 2025 13:01:44 GMT | ️ Using CVE and Exploit Databases for Vulnerability Detection in SOC | Esra Kayhan | [Read More](https://medium.com/p/7e09135a540f) |
-| Thu, 14 Aug 2025 12:59:18 GMT | AI-Driven CTI: The New Frontier of Proactive Cybersecurity | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/c0bf7a4e84ff) |
-| Thu, 14 Aug 2025 12:49:32 GMT | How Managed SD-WAN Solutions Enhance Network Performance and Reliability | Ishantechnologies | [Read More](https://medium.com/p/5e1bf6c37b3d) |
-| Thu, 14 Aug 2025 12:46:38 GMT | How Hackers Use Tunneling to Bypass Any Firewall (Red Team Playbook) | Very Lazy Tech | [Read More](https://medium.com/p/3604a21ebdb8) |
-| Thu, 14 Aug 2025 12:46:15 GMT | ☕ Web Cache Poisoning — How to Trick the Internet’s Memory and Serve Everyone Your “Special Recipe” | Shah kaif | [Read More](https://medium.com/p/eea160e6bb89) |
-| Thu, 14 Aug 2025 12:43:57 GMT | Why Diamond Purchasing Marks a New Phase in Mumu Tycoon’s GameFi Strategy | Camsy Wealth | [Read More](https://medium.com/p/4e62cb298d54) |
-| Thu, 14 Aug 2025 12:34:19 GMT | Beyond Scans: How SecuMS and Omniguard Turn Security Into a Business Capability in 2025 | Agung Vivekananda | [Read More](https://medium.com/p/c0e7d4737e93) |
-| Thu, 14 Aug 2025 12:34:00 GMT | Why We Must Raise AI Like Our Parents Raised Us: A New Vision for Safety in European Businesses | Gerhard Kürner | [Read More](https://medium.com/p/e8b93bf1965d) |
-| Thu, 14 Aug 2025 12:32:23 GMT | SMT Program 2025 Journal — Expert Lecture 3 | Fathurrahman Nasution | [Read More](https://medium.com/p/98a40e6114bc) |
-| Thu, 14 Aug 2025 12:31:17 GMT | Behind the Mask: Privacy, Anonymity, and the Dark Web’s Double Edge | Ramadhana Khalaf Sandhyakala | [Read More](https://medium.com/p/eefcea9c9cef) |
-| Thu, 14 Aug 2025 12:31:04 GMT | How to “Hack” Chat GPT 5: 2 Methods to Reveal Its Secrets (and Why It’s Crucial for You) | ParlonsIA | [Read More](https://medium.com/p/88f9ee5f5ebc) |
-| Thu, 14 Aug 2025 12:29:22 GMT | Best Robo Call Service Provider In India | Ashutosh Mallik | [Read More](https://medium.com/p/44d5cf80e7f6) |
-| Thu, 14 Aug 2025 12:28:52 GMT | 1000$ Bug Bounty - Journey to Exploiting a Hidden XSS | Rashadul Islam | [Read More](https://medium.com/p/b8cc90b49714) |
-| Thu, 14 Aug 2025 12:25:21 GMT | Inside a Security Audit: How We Secured a Client’s Network from Cyber Threats | Cybersecurity Umbrella | [Read More](https://medium.com/p/ee0c0d52e713) |
-| Thu, 14 Aug 2025 12:22:26 GMT | Penetrasyon Testi - Servis Tarama ve Açıkların Tespiti | Sadıkcan Tuluk | [Read More](https://medium.com/p/5c06bbb01fa2) |
-| Thu, 14 Aug 2025 12:21:39 GMT | Privacy Paradox on the Onion Network - SMT Program 2025 Expert Lecture 3 | Abrar Ikramaputra | [Read More](https://medium.com/p/3b3c8fc7b089) |
-| Thu, 14 Aug 2025 12:21:34 GMT | SecureRoot Secure Code Review — Advanced VAPT for Code Security | secureroot | [Read More](https://medium.com/p/3fafcf414d8a) |
-| Thu, 14 Aug 2025 11:46:22 GMT | Securing Your Insecurities | Bants By Emoshio | [Read More](https://medium.com/p/089dfea14fb5) |
-| Thu, 14 Aug 2025 11:40:55 GMT | We’re Entering the Combustion Engine Era of AI | Christian Lindekilde | [Read More](https://medium.com/p/c2b2f92c7354) |
