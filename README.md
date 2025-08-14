@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 14:13:00 GMT | AI Agents Are Moving From Experiment to Essential — Here’s How to Build One | Shoaib Rashid | [Read More](https://medium.com/p/62e4290af4c3) |
+| Thu, 14 Aug 2025 14:12:26 GMT | Special Lecture 1 — SMT Program Indonesia | Dixtroiza | [Read More](https://medium.com/p/563eabce5f12) |
+| Thu, 14 Aug 2025 14:11:44 GMT | Siber Güvenlik Bakışıyla: SSH | Barış A. | [Read More](https://medium.com/p/2edc8b75ba58) |
+| Thu, 14 Aug 2025 14:10:43 GMT | Security & Trust: How Mumubit Ensures Safe Diamond Transactions | Wealth Blisss | [Read More](https://medium.com/p/f44ef83916ea) |
+| Thu, 14 Aug 2025 14:10:24 GMT | SMT Program 2025 Journal — Expert Lecture 3 | Sarah | [Read More](https://medium.com/p/aefab375279a) |
+| Thu, 14 Aug 2025 14:09:38 GMT | Email Phishing in Organizations — From Zero to Hero: How Companies Get Targeted, Tricked, and… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/dedeb1d491c6) |
+| Thu, 14 Aug 2025 14:08:05 GMT | THE HIDDEN SIDE OF CYBERSECURITY NOBODY TALKS ABOUT | Ishengoma | [Read More](https://medium.com/p/d72504a6ea07) |
+| Thu, 14 Aug 2025 14:02:13 GMT | Oracle — Under The Wire (Walk-through) | Shaheer Khalid | [Read More](https://medium.com/p/0686a085b15d) |
+| Thu, 14 Aug 2025 14:01:51 GMT | Cyber Briefing: 2025.08.14 | CyberMaterial | [Read More](https://medium.com/p/eb50626b0f9e) |
+| Thu, 14 Aug 2025 14:01:48 GMT | How AI and the Cloud Are Powering OT Security Through Managed IT in Springfield | PCnet | [Read More](https://medium.com/p/5ab246849644) |
+| Thu, 14 Aug 2025 13:53:40 GMT | JWE 與 JWT：差異與使用情境完整解析 | Fung | [Read More](https://medium.com/p/9b8ee58b5511) |
+| Thu, 14 Aug 2025 13:53:34 GMT | Email Phishing: From Zero to Hero — The Ultimate Guide to Spotting, Stopping, and Surviving the… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/284d751de7f8) |
+| Thu, 14 Aug 2025 13:43:59 GMT | Email Phishing: From Zero to Hero — The Ultimate Guide + Cyber Kill Chain Breakdown | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b330a504d34f) |
+| Thu, 14 Aug 2025 13:41:58 GMT | AWS IAM Roles Are More Dangerous Than You Think — Real Wildcard Risks & Fixes | Ismail Kovvuru | [Read More](https://medium.com/p/dcea3ec8af3a) |
+| Thu, 14 Aug 2025 13:41:07 GMT | Navigating Corporate Governance: Requirements for Nasdaq and NYSE Companies | SEC Lawyer 101 | [Read More](https://medium.com/p/f7c55a5b6b9c) |
+| Thu, 14 Aug 2025 13:39:40 GMT | OT Pentesting: Hands-on Experience with HTB Alchemy Pro Lab | Levi_CYS | [Read More](https://medium.com/p/6a22e6e33dcf) |
 | Thu, 14 Aug 2025 13:34:25 GMT | . “It Sounded Exactly Like Him” — Inside the AI-Powered Vishing Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/95a699615c23) |
 | Thu, 14 Aug 2025 13:30:30 GMT | Implementing Zettelkasten in Kortex for Cybersecurity (Part 3 of The Hacker’s Knowledge Vault) | Corey Jones | [Read More](https://medium.com/p/5cf1ff565c5a) |
 | Thu, 14 Aug 2025 13:27:50 GMT | Mapping the Invisible: The Structured Process of OSINT Geolocation | Dania. | [Read More](https://medium.com/p/55560ad475e5) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 10:17:04 GMT | The Onion Router: More Than a Gateway to the Web | Fatih | [Read More](https://medium.com/p/db75b9491185) |
 | Thu, 14 Aug 2025 10:13:32 GMT | Psychological victory before first contact | Martin Abramov | [Read More](https://medium.com/p/132344086054) |
 | Thu, 14 Aug 2025 10:08:46 GMT | Log 05: Creating User Accounts in Windows | Apurva Cybersecurity | [Read More](https://medium.com/p/4abcabb288e5) |
-| Thu, 14 Aug 2025 10:08:18 GMT | Predictive Analytics and Voice Technology: A Winning Combination for Warehouses | Gargiben | [Read More](https://medium.com/p/114aee74dd28) |
-| Thu, 14 Aug 2025 10:07:20 GMT | THREAT INTELL REPORT — NFS EXPOSED: THE SILENT ATTACK VECTOR | ZoomEye | [Read More](https://medium.com/p/8aa4ea0cbce1) |
-| Thu, 14 Aug 2025 10:06:59 GMT | Expert Lecture III | unknownman | [Read More](https://medium.com/p/af3386208e16) |
-| Thu, 14 Aug 2025 10:05:18 GMT | Groot — Under The Wire (writeup) | Shaheer Khalid | [Read More](https://medium.com/p/29663842aab4) |
-| Thu, 14 Aug 2025 10:03:10 GMT | Types Of Attacks | Mohameduzair K | [Read More](https://medium.com/p/39793b3f4ce8) |
-| Thu, 14 Aug 2025 10:02:05 GMT | How Critical Is Your Job? | Renan Schmitt | [Read More](https://medium.com/p/dd6bd3b4a60e) |
-| Thu, 14 Aug 2025 09:59:54 GMT | Why Your DevOps Pipeline Is a Security Hazard — Yes, Yours Too | Mannu | [Read More](https://medium.com/p/8ee385225eb4) |
-| Thu, 14 Aug 2025 09:58:09 GMT | Best Digital Marketing Services in Texas — Grow Your Business Online | Curved Sphere Digital LLC | [Read More](https://medium.com/p/f766507f4d98) |
-| Thu, 14 Aug 2025 09:51:58 GMT | Why StrongBox IT is the Best VAPT Company for Your Business | StrongBox IT | [Read More](https://medium.com/p/cee437111aeb) |
-| Thu, 14 Aug 2025 09:51:20 GMT | The Best Software Development & IT Services Provider for Your Business Growth | Softreey | [Read More](https://medium.com/p/c4d70f631a2a) |
-| Thu, 14 Aug 2025 09:47:07 GMT | Stop Wasting Hours on Slow Recon: How Findomain v0.9.3 Finds 84,000+ Subdomains in Seconds | Sajjad Hussain | [Read More](https://medium.com/p/80785aef2cd0) |
-| Thu, 14 Aug 2025 09:45:57 GMT | Vulnerability Assessment vs Penetration Testing | Progressive Infotech | [Read More](https://medium.com/p/3d7340f372f9) |
-| Thu, 14 Aug 2025 09:41:46 GMT | The Role of Non-IT Employees in Security | Evgeny Ermakov | [Read More](https://medium.com/p/a25b12dd7712) |
-| Thu, 14 Aug 2025 09:35:01 GMT | Process Injection: Harnessing The Power of Shellcode | Redfox Security | [Read More](https://medium.com/p/d3226afa5bc1) |
-| Thu, 14 Aug 2025 09:34:46 GMT | Offenso Hackers Academy offers a top cyber security course in India with practical training, global… | Reshmadotin | [Read More](https://medium.com/p/a3e5093590ea) |
-| Thu, 14 Aug 2025 09:34:30 GMT | Microsoft Teams RCE (CVE-2025–53783): What It Means for Your Org — and How to Respond | Technijian | [Read More](https://medium.com/p/c7e1f2be3ae8) |
