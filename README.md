@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 19:27:30 GMT | The New Frontier of AI: Opportunity, Risk, and the Race for Security | Azutech | [Read More](https://medium.com/p/3f9bc236da54) |
+| Thu, 14 Aug 2025 19:23:46 GMT | Development teams that skip OWASP Top 10 training are essentially coding without a safety net. | Josh Welch | [Read More](https://medium.com/p/9ff2d1bebf2d) |
+| Thu, 14 Aug 2025 19:22:52 GMT | Cybersecurity in Space: Protecting Satellites and Spacecraft | Cyber Security Research | [Read More](https://medium.com/p/735043f3ed88) |
+| Thu, 14 Aug 2025 19:20:51 GMT | Cybersecurity and Social Media: Protecting User Data and Preventing Abuse | Cyber Security Research | [Read More](https://medium.com/p/6a74665787bd) |
+| Thu, 14 Aug 2025 19:18:51 GMT | Cybersecurity in Gaming: Protecting Players and Game Developers | Cyber Security Research | [Read More](https://medium.com/p/a60178c2078a) |
+| Thu, 14 Aug 2025 19:17:01 GMT | Cybersecurity and Supply Chain Security: Mitigating Third-Party Risks | Cyber Security Research | [Read More](https://medium.com/p/d6ec191ee042) |
 | Thu, 14 Aug 2025 19:16:55 GMT | Ultimate Source Code Recon Tools | AbhirupKonwar | [Read More](https://medium.com/p/206d5059fcfc) |
+| Thu, 14 Aug 2025 19:16:42 GMT | Beyond PCI and HIPAA: How Feroot Powers California Invasion of Privacy Act (CIPA) Compliance | Feroot Security | [Read More](https://medium.com/p/4984fffc6c6f) |
+| Thu, 14 Aug 2025 19:15:05 GMT | Cybersecurity and Manufacturing: Securing Industrial Control Systems | Cyber Security Research | [Read More](https://medium.com/p/edd7a9fe5934) |
+| Thu, 14 Aug 2025 19:13:21 GMT | Warum Software-Updates wichtiger sind, als du denkst | Bjoern Groenewold | [Read More](https://medium.com/p/3cc73b31ef85) |
+| Thu, 14 Aug 2025 19:13:20 GMT | Cybersecurity and the Energy Sector: Protecting the Grid | Cyber Security Research | [Read More](https://medium.com/p/dfd1a3c65037) |
+| Thu, 14 Aug 2025 19:11:24 GMT | Cybersecurity in the Smart Home: Protecting Connected Devices | Cyber Security Research | [Read More](https://medium.com/p/36c06322bede) |
 | Thu, 14 Aug 2025 19:01:41 GMT | Three Hunts, No Bounties — and Why I’m Still Excited | Horizon | [Read More](https://medium.com/p/9714dc631a41) |
 | Thu, 14 Aug 2025 18:56:34 GMT | Digital Dust: The Cybersecurity Threat Nobody’s Talking About | Akshay Chauhan | [Read More](https://medium.com/p/7ac9ed92a426) |
 | Thu, 14 Aug 2025 18:54:24 GMT | The Need for Digital Twins in Cybersecurity: From Awareness to Anticipation | Juan Pablo Castro | [Read More](https://medium.com/p/2a29b53190dd) |
@@ -102,14 +113,3 @@ Category: Forensics | murugi | [Read More](https://medium.com/p/9c6aa8d1e08e) |
 | Thu, 14 Aug 2025 15:24:10 GMT | Uncovering the Dark World of the Internet: The Dark Web, Big Data Leaks, and Privacy-Protecting… | Tsabita Bayu Kandi | [Read More](https://medium.com/p/b6eb561077af) |
 | Thu, 14 Aug 2025 15:21:19 GMT | ChaCha20 Encryption in Android | Lord Murak | [Read More](https://medium.com/p/bbd5a7f6a25e) |
 | Thu, 14 Aug 2025 15:18:05 GMT | Inside the Mind of Modern Threats: Rethinking Cyber Defense from a Breach-Centric Lens | Daniel Ramawijaya | [Read More](https://medium.com/p/7145ed52c0b0) |
-| Thu, 14 Aug 2025 15:17:45 GMT | The Privacy Paradox: The Onion Networks | Ivander “Andreas” Wijaya | [Read More](https://medium.com/p/678355563dcf) |
-| Thu, 14 Aug 2025 15:15:56 GMT | SMT Program 2025 — Special Lecture 2 Journal: A Practical Guide to Geolocation | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/c391053876a3) |
-| Thu, 14 Aug 2025 15:15:55 GMT | Behind the Scenes: Unveiling the Dark Web and the Urgency of Data Protection | Raja Capybara | [Read More](https://medium.com/p/ad513e0f65d8) |
-| Thu, 14 Aug 2025 15:14:07 GMT | Inside the Castle Walls: My Journey Through a Zero Trust Assessment | Dr. Deep Pandey | [Read More](https://medium.com/p/026c1299219e) |
-| Thu, 14 Aug 2025 15:02:01 GMT | Dark Web Diaries: Where Your Password Goes After You Forget It | Raihan Rahman Syah Putra | [Read More](https://medium.com/p/f314f2bcc7c8) |
-| Thu, 14 Aug 2025 15:01:53 GMT | The Privacy Paradox: A Descent into the World of The Onion & Batman | Gerti Armanda Sembiring | [Read More](https://medium.com/p/615d148df63a) |
-| Thu, 14 Aug 2025 15:01:52 GMT | How Speed and Performance Impact Your Website Success | Redprohost | [Read More](https://medium.com/p/9fc55c9aa542) |
-| Thu, 14 Aug 2025 15:01:52 GMT | “You Have a New Voicemail” - Anatomy of a CEO Phishing Attack | Ingvar Pavlovich | [Read More](https://medium.com/p/33690ef66cda) |
-| Thu, 14 Aug 2025 15:01:10 GMT | Why Cybersecurity Should Be Every Hotelier’s Top Priority | Paradise technologies Inc | [Read More](https://medium.com/p/32cf6d15a174) |
-| Thu, 14 Aug 2025 15:00:55 GMT | OSINT: Knowing Without Breaching Fundamentals, Tools, and Intelligence Lifecycle | Muhammad Rizki Anshari | [Read More](https://medium.com/p/2eed369c2d98) |
-| Thu, 14 Aug 2025 14:58:12 GMT | Understanding SharePoint Web Parts and IDOR Vulnerabilities | horamah | [Read More](https://medium.com/p/e9ca172d7f2b) |
