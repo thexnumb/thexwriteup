@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 22:34:52 GMT | C and Assembly: Becoming Top-Tier Cybersecurity Specialists | Taulan Zauzanov | [Read More](https://medium.com/p/1f1f6c04fa8d) |
+| Thu, 14 Aug 2025 22:31:47 GMT | GANDALF WALKTHROUGH | rizzziom | [Read More](https://medium.com/p/5a6cca50a003) |
+| Thu, 14 Aug 2025 22:24:20 GMT | Enhancing Security with EIOTCLUB’s SIM Card Solutions | Asqwfxvxqw | [Read More](https://medium.com/p/996204d2389f) |
+| Thu, 14 Aug 2025 22:19:16 GMT | Vibe Coding Is a Nightmare: When Startup Dreams Meet Real-World Security | Malshi Prabodha | [Read More](https://medium.com/p/3eeb90908e99) |
+| Thu, 14 Aug 2025 22:17:37 GMT | Building Threat Playbooks for Emerging APT Groups | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7d9cc483cdea) |
 | Thu, 14 Aug 2025 22:11:04 GMT | Why You’ll Love Diode Collab for Collaboration | Maliah | [Read More](https://medium.com/p/9e4bcf385867) |
 | Thu, 14 Aug 2025 22:09:15 GMT | Switching From Python to Go for Pentesting | Taulan Zauzanov | [Read More](https://medium.com/p/9207e687347e) |
 | Thu, 14 Aug 2025 22:01:54 GMT | “When I Finally Stopped Saying ‘I’m Fine’” | Zee Wen | [Read More](https://medium.com/p/3cb0c487cf5d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 16:08:48 GMT | Attacking Active Directory for Noobs: Password Spraying | Zach K | [Read More](https://medium.com/p/507fb1ede65b) |
 | Thu, 14 Aug 2025 16:08:27 GMT | Old hacking techniques AI brought back | 80h3m14n | [Read More](https://medium.com/p/b212127a5267) |
 | Thu, 14 Aug 2025 16:06:21 GMT | ISMAP Management Standards Chapter 17: “Information Security Aspects” for Business Continuity | nolly | [Read More](https://medium.com/p/85b81cfa1d63) |
-| Thu, 14 Aug 2025 16:04:40 GMT | SecuMS & Omniguard: Rethinking Vulnerability Management and Access Control in the Enterprise | Daniel Ramawijaya 2 | [Read More](https://medium.com/p/5de077dd73a9) |
-| Thu, 14 Aug 2025 16:02:47 GMT | Cybersecurity Challenges in the Digital Era : Vulnerabilities and Regulations | Eka Danis Saputri | [Read More](https://medium.com/p/be4c19ecbce7) |
-| Thu, 14 Aug 2025 16:02:34 GMT | Your Data Is Leaking: The Dark Web Secrets You Need to Know | Antonio Lorensius Silaban | [Read More](https://medium.com/p/8ab4a7bc7093) |
-| Thu, 14 Aug 2025 16:01:29 GMT | SMT2025 Expert Lecture 2: SecuMS & Omniguard | Rivaldo Juanda Tampubolon | [Read More](https://medium.com/p/40ad5316310a) |
-| Thu, 14 Aug 2025 15:57:31 GMT | 10 Visuals That Will Honestly Transform Your Mindset | Vijay Kumar Gupta | [Read More](https://medium.com/p/3e108dddf7fb) |
