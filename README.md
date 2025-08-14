@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 17:36:32 GMT | Security Solution — Letsdefend | md_ashmar | [Read More](https://medium.com/p/ed32bd13020f) |
+| Thu, 14 Aug 2025 17:25:50 GMT | 10 Career Changing Coursera Certification Courses Every Indian Engineering Student Should Take in… | shyamalan | [Read More](https://medium.com/p/6bc535dde38a) |
+| Thu, 14 Aug 2025 17:25:42 GMT | Will Cybercrime Ever Be Unstoppable? | Your's Nightmare | [Read More](https://medium.com/p/3c752b9ab431) |
+| Thu, 14 Aug 2025 17:25:32 GMT | Should I Accept the Term? | Your's Nightmare | [Read More](https://medium.com/p/d69339144e10) |
+| Thu, 14 Aug 2025 17:25:23 GMT | Are Dating Apps Just Digital Honeytraps? | Your's Nightmare | [Read More](https://medium.com/p/fb4bcfa62fd9) |
+| Thu, 14 Aug 2025 17:22:53 GMT | OAuth Login Bypasses & Account Linking Chaos — A Bug Bounty Adventure | Sohan | [Read More](https://medium.com/p/f7aa01377225) |
+| Thu, 14 Aug 2025 17:12:55 GMT | Hackable 2 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/e54effd80f50) |
+| Thu, 14 Aug 2025 17:09:40 GMT | Digital Danger: What’s Really Out There — and How to Guard Our Kids. | Larry Maynard | [Read More](https://medium.com/p/5e47080ed78d) |
 | Thu, 14 Aug 2025 17:09:12 GMT | Mi P3 En la NASA con 16 Años | Gorka | [Read More](https://medium.com/p/b6ba79e1e4af) |
 | Thu, 14 Aug 2025 17:09:04 GMT | The Missing Piece of SSO: A Practical Guide to Single Logout (SLO) | Kunal Sinha | [Read More](https://medium.com/p/dcf034107ed4) |
 | Thu, 14 Aug 2025 17:05:30 GMT | How a Fake Call Emptied His Account | Online Safety Zone | [Read More](https://medium.com/p/ade7e03a9375) |
@@ -105,11 +113,3 @@ Category: Forensics | murugi | [Read More](https://medium.com/p/9c6aa8d1e08e) |
 | Thu, 14 Aug 2025 14:10:43 GMT | Security & Trust: How Mumubit Ensures Safe Diamond Transactions | Wealth Blisss | [Read More](https://medium.com/p/f44ef83916ea) |
 | Thu, 14 Aug 2025 14:10:24 GMT | SMT Program 2025 Journal — Expert Lecture 3 | Sarah | [Read More](https://medium.com/p/aefab375279a) |
 | Thu, 14 Aug 2025 14:10:12 GMT | How a Fake VS Code Extension Stole My Crypto | Civil Learning | [Read More](https://medium.com/p/fecdee073536) |
-| Thu, 14 Aug 2025 14:09:38 GMT | Email Phishing in Organizations — From Zero to Hero: How Companies Get Targeted, Tricked, and… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/dedeb1d491c6) |
-| Thu, 14 Aug 2025 14:08:05 GMT | THE HIDDEN SIDE OF CYBERSECURITY NOBODY TALKS ABOUT | Ishengoma | [Read More](https://medium.com/p/d72504a6ea07) |
-| Thu, 14 Aug 2025 14:02:13 GMT | Oracle — Under The Wire (Walk-through) | Shaheer Khalid | [Read More](https://medium.com/p/0686a085b15d) |
-| Thu, 14 Aug 2025 14:01:51 GMT | Cyber Briefing: 2025.08.14 | CyberMaterial | [Read More](https://medium.com/p/eb50626b0f9e) |
-| Thu, 14 Aug 2025 14:01:48 GMT | How AI and the Cloud Are Powering OT Security Through Managed IT in Springfield | PCnet | [Read More](https://medium.com/p/5ab246849644) |
-| Thu, 14 Aug 2025 13:53:40 GMT | JWE 與 JWT：差異與使用情境完整解析 | Fung | [Read More](https://medium.com/p/9b8ee58b5511) |
-| Thu, 14 Aug 2025 13:53:34 GMT | Email Phishing: From Zero to Hero — The Ultimate Guide to Spotting, Stopping, and Surviving the… | Narendar Battula (nArEn) | [Read More](https://medium.com/p/284d751de7f8) |
-| Thu, 14 Aug 2025 13:43:59 GMT | Email Phishing: From Zero to Hero — The Ultimate Guide + Cyber Kill Chain Breakdown | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b330a504d34f) |
