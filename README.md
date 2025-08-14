@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 05:10:36 GMT | Serverless Web Performance: Good or Bad? — The Truth Behind the Hype | Rizqi Mulki | [Read More](https://medium.com/p/595629793e32) |
+| Thu, 14 Aug 2025 05:08:25 GMT | Day 6: Service models in Cloud computing | Prathamlondhe | [Read More](https://medium.com/p/2262503ef25c) |
+| Thu, 14 Aug 2025 05:04:57 GMT | The Coward’s Shortcut to Communication | Lora Bacelic | [Read More](https://medium.com/p/3b1030714129) |
+| Thu, 14 Aug 2025 05:03:39 GMT | When Your AI Goes Astray: The Sneaky World of Drift and the Strategic Minds of Game Theory | Seema Nair | [Read More](https://medium.com/p/aa10a963b2ba) |
+| Thu, 14 Aug 2025 05:02:03 GMT | Security Modernization: Aligning Technology with Business Risk | Claritus Consulting | [Read More](https://medium.com/p/8b2f01b2fd36) |
 | Thu, 14 Aug 2025 04:52:00 GMT | CyberCriminals Are Watching Your Brand. | Chibueze Uzoigwe | [Read More](https://medium.com/p/f304762976a5) |
 | Thu, 14 Aug 2025 04:50:51 GMT | Why CEH v13 Certification is the Gold Standard in Ethical Hacking | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/fd95722ba617) |
 | Thu, 14 Aug 2025 04:42:07 GMT | Web Security Breaches of 2025: Lessons Learned — The Wake-Up Call That Changed Everything | Rizqi Mulki | [Read More](https://medium.com/p/0f1e3a30e4ff) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 19:54:14 GMT | Credix, Future Protocol, Rant: $9.3M Lost to Phantom Collateral, Burn Loops, and Abandoned Recovery | Olympix | [Read More](https://medium.com/p/f27750b9b262) |
 | Wed, 13 Aug 2025 19:50:02 GMT | Critical NVIDIA Triton Flaws Could Let Hackers Seize AI Servers | DataDrivenNews | [Read More](https://medium.com/p/40487dcd6be4) |
 | Wed, 13 Aug 2025 19:49:52 GMT | Content Discovery - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/29ad101c148a) |
-| Wed, 13 Aug 2025 19:49:49 GMT | Content Discovery - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/40193f48c41e) |
-| Wed, 13 Aug 2025 19:46:49 GMT | NIST’s New Lightweight Cryptography Standard: What It Means for Tiny Devices With Big Security… | cybrNK | [Read More](https://medium.com/p/17c6b30ce8bd) |
-| Wed, 13 Aug 2025 19:35:23 GMT | Zero-Click WinRAR Zero-Day: CVE-2025–8088 (Path Traversal) Exploit Guide | Radeonares | [Read More](https://medium.com/p/a5a9fe7292ce) |
-| Wed, 13 Aug 2025 19:28:53 GMT | Qualcomm Vulnerabilities Under Active Attack: What Google’s Emergency Patch Means for You | The Latency Gambler | [Read More](https://medium.com/p/751ed502f9cb) |
-| Wed, 13 Aug 2025 19:24:52 GMT | Why Modern Cybersecurity Is Breach-Centric: Not Just About Fighting Malware | Antonio Lorensius Silaban | [Read More](https://medium.com/p/7cca5c9945bb) |
