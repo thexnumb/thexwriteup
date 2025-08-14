@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 05:40:36 GMT | SMT Program 2025 Journal — Special Lecture 1 | Sarah | [Read More](https://medium.com/p/43da24f7db22) |
+| Thu, 14 Aug 2025 05:32:45 GMT | My Eyes Say the Things My Mouth Never Will | Ayushi Jindal | [Read More](https://medium.com/p/a3660a620692) |
+| Thu, 14 Aug 2025 05:26:42 GMT | Mastering Nmap: The Ultimate Guide to Network Scanning and Vulnerability Detection | Monika sharma | [Read More](https://medium.com/p/769d1d2eecff) |
+| Thu, 14 Aug 2025 05:23:43 GMT | ️ How to Bypass Web Application Firewalls (WAFs) | Vipul Sonule | [Read More](https://medium.com/p/8346e6e79dd3) |
 | Thu, 14 Aug 2025 05:10:36 GMT | Serverless Web Performance: Good or Bad? — The Truth Behind the Hype | Rizqi Mulki | [Read More](https://medium.com/p/595629793e32) |
 | Thu, 14 Aug 2025 05:08:25 GMT | Day 6: Service models in Cloud computing | Prathamlondhe | [Read More](https://medium.com/p/2262503ef25c) |
 | Thu, 14 Aug 2025 05:04:57 GMT | The Coward’s Shortcut to Communication | Lora Bacelic | [Read More](https://medium.com/p/3b1030714129) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 20:08:04 GMT | Murderbot Diaries — “All Systems Red” İncelemesi ve Araştırma
  Martha Wells’in Bilimkurguya… | Talha Özcan | [Read More](https://medium.com/p/5fea7e6dc34b) |
 | Wed, 13 Aug 2025 20:04:36 GMT | Cryptographic Keys and Digital Security | Lince Mathew | [Read More](https://medium.com/p/353bae5c6610) |
-| Wed, 13 Aug 2025 20:01:44 GMT | Taken For a Ride by Mechanics and Car Dealers? Here’s How to Take the Gas Out Of Their Tank | Barb Dalton | [Read More](https://medium.com/p/5ffb3282bc23) |
-| Wed, 13 Aug 2025 19:54:14 GMT | Credix, Future Protocol, Rant: $9.3M Lost to Phantom Collateral, Burn Loops, and Abandoned Recovery | Olympix | [Read More](https://medium.com/p/f27750b9b262) |
-| Wed, 13 Aug 2025 19:50:02 GMT | Critical NVIDIA Triton Flaws Could Let Hackers Seize AI Servers | DataDrivenNews | [Read More](https://medium.com/p/40487dcd6be4) |
-| Wed, 13 Aug 2025 19:49:52 GMT | Content Discovery - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/29ad101c148a) |
