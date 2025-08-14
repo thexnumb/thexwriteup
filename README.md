@@ -12,9 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 08:30:23 GMT | 502 — INFORMATION SECURITY POLICY (ISO/IEC 27001)(EN) | Atakan Bitim | [Read More](https://medium.com/p/335be878f436) |
+| Thu, 14 Aug 2025 08:30:22 GMT | 502 — INFORMATION SECURITY POLICY (ISO/IEC 27001)(TR) | Atakan Bitim | [Read More](https://medium.com/p/d8c83cbf794f) |
+| Thu, 14 Aug 2025 08:28:20 GMT | Complete Cybersecurity Penetration Testing Course with Practical Projects | cyber security Updates | [Read More](https://medium.com/p/3dc755f4b580) |
+| Thu, 14 Aug 2025 08:26:40 GMT | CTI Diaries #3: Understanding Risk and Threat in Cyber Threat Intelligence | Deniz Topaloglu | [Read More](https://medium.com/p/6cad51cd73f9) |
+| Thu, 14 Aug 2025 08:24:27 GMT | Tired of Guessing Social Media Handles? | Sajjad Hussain | [Read More](https://medium.com/p/bbae241e8ae3) |
+| Thu, 14 Aug 2025 08:24:03 GMT | Neuromorphic Defenses Redefine GPU AI Security for High-Stakes Systems | Bradley Susser | [Read More](https://medium.com/p/bc8c64a37a3f) |
+| Thu, 14 Aug 2025 08:22:54 GMT | Surveillance You Can Trust — Quva India | Quva India | [Read More](https://medium.com/p/dda2f2d87db2) |
+| Thu, 14 Aug 2025 08:21:43 GMT | Creating Custom Detection Rules in Wazuh for Detecting Web Attacks, Command Injection, and… | Muhammad Nayyul Habibie | [Read More](https://medium.com/p/d520f2f25e55) |
+| Thu, 14 Aug 2025 08:18:57 GMT | Hello everyone, my name is Tamera Okafor and i am a Cybersecurity enthusiast. | Tamera Okafor | [Read More](https://medium.com/p/0da663206f08) |
+| Thu, 14 Aug 2025 08:18:50 GMT | Your Reflection Called. She Wants a Different Story. | curohub | [Read More](https://medium.com/p/8aebc75af66a) |
+| Thu, 14 Aug 2025 08:17:48 GMT | Why the World’s Busiest Websites Trust SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/8c7c6460c3b2) |
+| Thu, 14 Aug 2025 08:17:30 GMT | Ransomware Hits Royal Enfield: A Stark Reminder to Safeguard Your Backups Before it’s Too Late | Varun Verma | [Read More](https://medium.com/p/ef041a26bba0) |
+| Thu, 14 Aug 2025 08:16:36 GMT | Alright — I’ll expand your English writeup into a full, detailed, technical case study that works… | Dmitry Sorokin | [Read More](https://medium.com/p/d7bca86c79db) |
+| Thu, 14 Aug 2025 08:15:35 GMT | Why Do Driverless Subway Have Protection Panels, While Driver-Driven Subway Don’t? | Eda Hazal Tümer | [Read More](https://medium.com/p/15eb7e56a76b) |
+| Thu, 14 Aug 2025 08:13:28 GMT | Prevent XSSI in Symfony (Cross-Site Script Inclusion) | Pentest_Testing_Corp | [Read More](https://medium.com/p/0e4f19f13ae7) |
+| Thu, 14 Aug 2025 08:11:05 GMT | AI Without Anarchy: Corralling Chaos in Hybrid Agent Ecosystems | Utsavi Udani | [Read More](https://medium.com/p/756e3bab2230) |
+| Thu, 14 Aug 2025 08:09:21 GMT | Le chasseur de failles : Mission Wi-Fi par Handshake | Julien M. | [Read More](https://medium.com/p/307de80c6b83) |
+| Thu, 14 Aug 2025 08:05:37 GMT | Stop Dreaming, Start Hacking: How ANDRAX v4 Turns Your Android into a 900+ Tool Penetration testing… | Sajjad Hussain | [Read More](https://medium.com/p/6736d50f86d3) |
+| Thu, 14 Aug 2025 08:01:47 GMT | DevOps Quantum Leap: Emerging Use Cases of Quantum-Safe Cryptography | Mohamed ElEmam | [Read More](https://medium.com/p/f6dbdb7a720c) |
+| Thu, 14 Aug 2025 07:57:47 GMT | Private Cloud AI by HPE: A Complete Guide | Juara IT Solutions | [Read More](https://medium.com/p/0e2856d175a3) |
+| Thu, 14 Aug 2025 07:51:02 GMT | WALKINGCMS | Enoch Root | [Read More](https://medium.com/p/b2bf520af79f) |
 | Thu, 14 Aug 2025 07:40:21 GMT | From Recon to Payloads: How CQTools Turns Windows Into a Full-Scale Penetration Testing Playground | Sajjad Hussain | [Read More](https://medium.com/p/29c0d7dec0cd) |
 | Thu, 14 Aug 2025 07:39:40 GMT | UNDERSTANDING SDLC: THE BACKBONE OF SOFTWARE DEVELOPMENT | Anthony Hallasan Sibarani | [Read More](https://medium.com/p/545425038feb) |
 | Thu, 14 Aug 2025 07:39:16 GMT | Library CTF Writeup: BSides Guatemala CTF - TryHackMe | Abdul Ahad | [Read More](https://medium.com/p/1fbda20111cb) |
+| Thu, 14 Aug 2025 07:38:36 GMT | DockerLabs Writeup — Extraviado (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/30f774ed213e) |
 | Thu, 14 Aug 2025 07:34:31 GMT | Browser-in-the-Browser (BitB) Phishing — When Your Browser Lies to You | Rue | [Read More](https://medium.com/p/4e049edcdd0a) |
 | Thu, 14 Aug 2025 07:34:26 GMT | Agentic Mesh: The Future of AI-Driven Cybersecurity | Muhammad Hasan Saeed | [Read More](https://medium.com/p/5313b09a9dc3) |
 | Thu, 14 Aug 2025 07:32:48 GMT | Cybersecurity in the Quantum-AI Era: | Sampath Manage | [Read More](https://medium.com/p/72ad97200c80) |
@@ -91,25 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 03:22:14 GMT | How OKKProxy Transformed My Internet Experience — And Why You Might Need It Too | Add | [Read More](https://medium.com/p/d0d5af683d4b) |
 | Thu, 14 Aug 2025 03:16:33 GMT | Building Bulletproof SSL/TLS Connections in Python: A Developer’s Guide to Secure Socket… | Cumulus13 | [Read More](https://medium.com/p/4cb1c2d9544e) |
 | Thu, 14 Aug 2025 03:10:17 GMT | I imagined some brain-new ideas. | ProgressiveDreamer | [Read More](https://medium.com/p/02c58653a1e5) |
-| Thu, 14 Aug 2025 03:06:52 GMT | How to Build a Security Research Home Lab Using VMware (Free Tools Only) | Migdad latif Shaw | [Read More](https://medium.com/p/7e40a84abd19) |
-| Thu, 14 Aug 2025 03:04:39 GMT | IDOR via Websockets allow me to takeover any users account | TEAM DH49 | [Read More](https://medium.com/p/b0dc23c8bcf5) |
-| Thu, 14 Aug 2025 03:01:49 GMT | German Far-Right AfD Linked to China Spy Scandal | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/cee3f880f43b) |
-| Thu, 14 Aug 2025 02:48:48 GMT | 4. You’re Not a Burden — You’re Just Carrying Too Much Alone | Roj Ink | [Read More](https://medium.com/p/a6548c54157b) |
-| Thu, 14 Aug 2025 02:40:24 GMT | Portswigger CSRF Lab Walkthrough — N0 defenses | Cybernerddd | [Read More](https://medium.com/p/c657c297de28) |
-| Thu, 14 Aug 2025 02:37:57 GMT | AI in Cybersecurity: Threat Detection and Prevention | Artificial Intelligence Details | [Read More](https://medium.com/p/624a018dbd53) |
-| Thu, 14 Aug 2025 02:34:33 GMT | Enhancing Host Monitoring with Guardius Ping Task | Guardius | [Read More](https://medium.com/p/cd158da27e04) |
-| Thu, 14 Aug 2025 02:31:57 GMT | Side Hustles Are the New Job Security | DCI Consulting | [Read More](https://medium.com/p/bc0e1b62dfc8) |
-| Thu, 14 Aug 2025 02:31:43 GMT | ️‍♂️ The Art of Living Off the Land: How Attackers Hide in Plain Sight | Parth Patel | [Read More](https://medium.com/p/291cf3deb0e5) |
-| Thu, 14 Aug 2025 02:30:09 GMT | Google knows where you are. | Affiliated | [Read More](https://medium.com/p/acdee5aabf78) |
-| Thu, 14 Aug 2025 02:26:10 GMT | The Art of Digital Geolocation: Finding Places Without Being There | Ahlanda P | [Read More](https://medium.com/p/9c6034db1736) |
-| Thu, 14 Aug 2025 02:10:01 GMT | From Clues to Coordinates: Applying OSINT Geolocation in Real-World Investigations | Ramadhana Khalaf Sandhyakala | [Read More](https://medium.com/p/9ea06372be7d) |
-| Thu, 14 Aug 2025 02:05:10 GMT | Breaking Boxes & Breaking Limits: My OSCP+ Offensive Security Journey | Kaplanibrahimm | [Read More](https://medium.com/p/ebb3add3ba78) |
-| Thu, 14 Aug 2025 02:04:12 GMT | CVE-2023–38646 – Pre-Auth RCE in Metabase: One Token to Rule Them All | 24BkDoor | [Read More](https://medium.com/p/9bc6b5caa9c1) |
-| Thu, 14 Aug 2025 01:59:54 GMT | How To Hack An iPhone | Hartman wesley | [Read More](https://medium.com/p/e9f04b66bec7) |
-| Thu, 14 Aug 2025 01:55:39 GMT | The Day I Finally Let Go | Mihriban Özden | [Read More](https://medium.com/p/c68a65647bd2) |
-| Thu, 14 Aug 2025 01:55:11 GMT | How To Hire A Hacker | Hartman wesley | [Read More](https://medium.com/p/f486f2edd5a7) |
-| Thu, 14 Aug 2025 01:34:39 GMT | ️ Quantum-Resistant Secure Communication in Python (TLS 1.2+ with Strong Ciphers) | Cumulus13 | [Read More](https://medium.com/p/1ac594479eb1) |
-| Thu, 14 Aug 2025 01:12:29 GMT | Special Lecture 1 OSINT: From Clues to Insights | Achmad Al Fauzi Dhiaulhaq | [Read More](https://medium.com/p/eb089246acbd) |
-| Thu, 14 Aug 2025 01:07:44 GMT | Networking Basics - The Backbone of Cybersecurity | Muhammed Afnaan | [Read More](https://medium.com/p/9dd36c424629) |
-| Thu, 14 Aug 2025 00:58:37 GMT | Criminal IP Case Study: Criminal IP TI Adoption by a HealthCare Organization in U.S. | Criminal IP | [Read More](https://medium.com/p/1f585b97dd9b) |
-| Thu, 14 Aug 2025 00:31:42 GMT | Mobile App Security Trends: Real Developer Concerns from StackOverflow | Hiren | [Read More](https://medium.com/p/4a1c1bc77497) |
