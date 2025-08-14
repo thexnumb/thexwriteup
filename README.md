@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 20:40:24 GMT | Updated UAC-0099 Toolkit: MATCHBOIL, MATCHWOK, DRAGSTARE | SIMKRA | [Read More](https://medium.com/p/cc9e28acbde3) |
+| Thu, 14 Aug 2025 20:38:49 GMT | Day 80: Python | Nile Okomo | [Read More](https://medium.com/p/61e2bbad58b4) |
+| Thu, 14 Aug 2025 20:29:01 GMT | Recon Methodology: JavaScript File Hunting | Marduk I Am | [Read More](https://medium.com/p/254127ecd211) |
+| Thu, 14 Aug 2025 20:22:41 GMT | Reverse engineering Authy: the open source method for exporting your 2FA tokens | Franck Reant | [Read More](https://medium.com/p/65a550c95b32) |
 | Thu, 14 Aug 2025 20:11:53 GMT | Sending Handles from Kernel Driver to Userland | S12 - 0x12Dark Development | [Read More](https://medium.com/p/24e581228ff7) |
 | Thu, 14 Aug 2025 20:01:43 GMT | “Tell me I’m not alone.” | paday∞n | [Read More](https://medium.com/p/2aa21e80b721) |
 | Thu, 14 Aug 2025 19:56:21 GMT | How Anyone Can Instantly Check Their Code for Security Using AI — No Programming Needed | AIAlchemist_Ab1r | [Read More](https://medium.com/p/f12aefeeeb2c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 15:36:51 GMT | Mental Health in the Age of AI. | MindMeshTech | [Read More](https://medium.com/p/bcfa6e3a2809) |
 | Thu, 14 Aug 2025 15:35:17 GMT | HTB Cicada Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/76e7bd9b5a1d) |
 | Thu, 14 Aug 2025 15:31:17 GMT | HTTP Request Smuggling: Basic CL.TE Vulnerability | Bash Overflow | [Read More](https://medium.com/p/2cadaa2d9640) |
-| Thu, 14 Aug 2025 15:30:24 GMT | Ransomware’s New Business Model: Why Double and Triple Extortion Are Now the Standard | Travis Ray Caverhill | [Read More](https://medium.com/p/b4eefb9a4788) |
-| Thu, 14 Aug 2025 15:29:55 GMT | Why Your Digital Privacy Matters More Than Ever | Joe The OSINT Guy | [Read More](https://medium.com/p/57bb30647964) |
-| Thu, 14 Aug 2025 15:29:28 GMT | How Cybersecurity Training is Transforming in the AI Era | Dr. Deep Pandey | [Read More](https://medium.com/p/13903676d57f) |
-| Thu, 14 Aug 2025 15:28:25 GMT | SMT Program 2025 — Expert Lecture 3 Journal | Mjibrahim | [Read More](https://medium.com/p/aa829b28418e) |
