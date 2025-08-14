@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 15:38:47 GMT | The Knight, The Child, and The River Inside | Prix☆ | [Read More](https://medium.com/p/80088abc09d6) |
+| Thu, 14 Aug 2025 15:36:51 GMT | Mental Health in the Age of AI. | MindMeshTech | [Read More](https://medium.com/p/bcfa6e3a2809) |
+| Thu, 14 Aug 2025 15:35:17 GMT | HTB Cicada Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/76e7bd9b5a1d) |
+| Thu, 14 Aug 2025 15:30:24 GMT | Ransomware’s New Business Model: Why Double and Triple Extortion Are Now the Standard | Travis Ray Caverhill | [Read More](https://medium.com/p/b4eefb9a4788) |
+| Thu, 14 Aug 2025 15:29:55 GMT | Why Your Digital Privacy Matters More Than Ever | Joe The OSINT Guy | [Read More](https://medium.com/p/57bb30647964) |
+| Thu, 14 Aug 2025 15:29:28 GMT | How Cybersecurity Training is Transforming in the AI Era | Dr. Deep Pandey | [Read More](https://medium.com/p/13903676d57f) |
+| Thu, 14 Aug 2025 15:28:25 GMT | SMT Program 2025 — Expert Lecture 3 Journal | Mjibrahim | [Read More](https://medium.com/p/aa829b28418e) |
+| Thu, 14 Aug 2025 15:27:50 GMT | V4.0.0 Is Here: What’s New in Mumu Tycoon | Wealth Blisss | [Read More](https://medium.com/p/eef73c475676) |
+| Thu, 14 Aug 2025 15:27:48 GMT | Vault Name: TUNN3L
+Category: Forensics | murugi | [Read More](https://medium.com/p/9c6aa8d1e08e) |
+| Thu, 14 Aug 2025 15:27:30 GMT | SMT 2025 — Expert Lecture 3 | Firdhan H | [Read More](https://medium.com/p/e1b3d0e921f8) |
+| Thu, 14 Aug 2025 15:27:16 GMT | Special Lecture 2 : Deconstructing Reality with Geolocation OSINT | Muhammad Allif Qalbiy | [Read More](https://medium.com/p/2c6b0de35338) |
+| Thu, 14 Aug 2025 15:26:27 GMT | Expert Lecture 3 — SMT Program Indonesia | Dixtroiza | [Read More](https://medium.com/p/1f4845c20b3e) |
+| Thu, 14 Aug 2025 15:25:53 GMT | The Windows Process Journey — TRACERT.exe (TCP/IP Traceroute Command) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6d8f7cddac6f) |
+| Thu, 14 Aug 2025 15:24:10 GMT | Uncovering the Dark World of the Internet: The Dark Web, Big Data Leaks, and Privacy-Protecting… | Tsabita Bayu Kandi | [Read More](https://medium.com/p/b6eb561077af) |
+| Thu, 14 Aug 2025 15:21:19 GMT | ChaCha20 Encryption in Android | Lord Murak | [Read More](https://medium.com/p/bbd5a7f6a25e) |
 | Thu, 14 Aug 2025 15:18:05 GMT | Inside the Mind of Modern Threats: Rethinking Cyber Defense from a Breach-Centric Lens | Daniel Ramawijaya | [Read More](https://medium.com/p/7145ed52c0b0) |
 | Thu, 14 Aug 2025 15:17:45 GMT | The Privacy Paradox: The Onion Networks | Ivander “Andreas” Wijaya | [Read More](https://medium.com/p/678355563dcf) |
 | Thu, 14 Aug 2025 15:15:56 GMT | SMT Program 2025 — Special Lecture 2 Journal: A Practical Guide to Geolocation | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/c391053876a3) |
@@ -97,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 12:21:34 GMT | SecureRoot Secure Code Review — Advanced VAPT for Code Security | secureroot | [Read More](https://medium.com/p/3fafcf414d8a) |
 | Thu, 14 Aug 2025 11:46:22 GMT | Securing Your Insecurities | Bants By Emoshio | [Read More](https://medium.com/p/089dfea14fb5) |
 | Thu, 14 Aug 2025 11:40:55 GMT | We’re Entering the Combustion Engine Era of AI | Christian Lindekilde | [Read More](https://medium.com/p/c2b2f92c7354) |
-| Thu, 14 Aug 2025 11:39:59 GMT | Changing the Economics of DeFi Hacks: How Drosera Is Flipping the Script on Blockchain Security | Offiongjoseph | [Read More](https://medium.com/p/a1b31baa7aea) |
-| Thu, 14 Aug 2025 11:39:44 GMT | SMT Program Expert Lecture 3: The Privacy Paradox — The Onion & Batman | Irsyadfauzanhanaf | [Read More](https://medium.com/p/ec63a7369315) |
-| Thu, 14 Aug 2025 11:39:41 GMT | The harmony of security and governance | Rizki Dwi Rahmawan | [Read More](https://medium.com/p/d54b63675cf9) |
-| Thu, 14 Aug 2025 11:37:19 GMT | SMT 2025 — Special Lecture 2 | Firdhan H | [Read More](https://medium.com/p/38e508c6e254) |
-| Thu, 14 Aug 2025 11:31:44 GMT | Application Level DoS - No More Dates | Jerry Shah (Jerry) | [Read More](https://medium.com/p/6782fcf3392c) |
-| Thu, 14 Aug 2025 11:31:44 GMT | Understanding Data Poisoning Attacks in AI/ML Systems | Brittney Ginther | [Read More](https://medium.com/p/3902fa940d80) |
-| Thu, 14 Aug 2025 11:31:18 GMT | Parameter-Based Access Control Testing | Siddiquimohammad | [Read More](https://medium.com/p/6eefea55d48f) |
-| Thu, 14 Aug 2025 11:30:18 GMT | Who benefits from AI Security Protocols & Monitoring? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/9b253424881f) |
-| Thu, 14 Aug 2025 11:29:42 GMT | How a Trust Center Turns Compliance into a Competitive Advantage | SecureSlate | [Read More](https://medium.com/p/79ec78c513f3) |
-| Thu, 14 Aug 2025 11:28:10 GMT | SMT Program Expert Lecture 1 | William Khoyudia | [Read More](https://medium.com/p/e58aa148dc2b) |
-| Thu, 14 Aug 2025 11:27:53 GMT | The 48-Hour Digital Death: How KiranaPro Lost Everything in India’s Most Catastrophic Startup… | NeuralNikitha | [Read More](https://medium.com/p/232451764769) |
-| Thu, 14 Aug 2025 11:23:08 GMT | The Ghost in the Machine | fatih nararya | [Read More](https://medium.com/p/d4d507d377d6) |
-| Thu, 14 Aug 2025 11:18:41 GMT | Subdomain Enumeration - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/c7749d59db62) |
-| Thu, 14 Aug 2025 11:18:14 GMT | Subdomain Enumeration - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/9171735cddb9) |
-| Thu, 14 Aug 2025 11:18:04 GMT | Microsoft’s August 2025 Patch Tuesday: 111 Flaws Squashed, Kerberos Zero-Day Fixed | IamPreth | [Read More](https://medium.com/p/5ee67dd19bc4) |
