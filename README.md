@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 04:52:00 GMT | CyberCriminals Are Watching Your Brand. | Chibueze Uzoigwe | [Read More](https://medium.com/p/f304762976a5) |
+| Thu, 14 Aug 2025 04:50:51 GMT | Why CEH v13 Certification is the Gold Standard in Ethical Hacking | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/fd95722ba617) |
+| Thu, 14 Aug 2025 04:42:07 GMT | Web Security Breaches of 2025: Lessons Learned — The Wake-Up Call That Changed Everything | Rizqi Mulki | [Read More](https://medium.com/p/0f1e3a30e4ff) |
+| Thu, 14 Aug 2025 04:38:21 GMT | PostgreSQL Trends to Watch in 2025: The Database Revolution That’s Reshaping Tech | Rizqi Mulki | [Read More](https://medium.com/p/4a75ab41df6f) |
+| Thu, 14 Aug 2025 04:38:00 GMT | Email Phishing Simulation Service for Business Security | Noahlucas | [Read More](https://medium.com/p/66a03622c613) |
+| Thu, 14 Aug 2025 04:35:02 GMT | Critical Flaws in Zoom and Xerox Could Hand Hackers the Keys to Your Network | DataDrivenNews | [Read More](https://medium.com/p/a7dfe4af342a) |
+| Thu, 14 Aug 2025 04:29:55 GMT | 12 Billion Cyberattacks: Canada’s Alarming Digital Crisis in 2025 | The UNFILTERED Draft | [Read More](https://medium.com/p/a9a691fc9cc3) |
+| Thu, 14 Aug 2025 04:29:54 GMT | Ransomware Simulation (using Python and Fernet for Symmetric Encryption) | The Poyz | [Read More](https://medium.com/p/37578112bb87) |
+| Thu, 14 Aug 2025 04:29:49 GMT | Continuous Access Control: How OpenID CAEP is Redefining Security | Deepak Gupta | [Read More](https://medium.com/p/d8bb76f72e28) |
+| Thu, 14 Aug 2025 04:29:43 GMT | Boost Your Day with AI: Elevate Your Digital Experience | Isabella Martinez | [Read More](https://medium.com/p/437abe0dd8e0) |
+| Thu, 14 Aug 2025 04:28:20 GMT | Breaking the Pattern: How Simple Rewording Defeated an LLM’s Guardrails | Charitha Jeewanka | [Read More](https://medium.com/p/5c699c04369a) |
+| Thu, 14 Aug 2025 04:28:00 GMT | Top 5 Bug Bounty Tips | Rishav anand | [Read More](https://medium.com/p/b01e7d765090) |
+| Thu, 14 Aug 2025 04:21:20 GMT | ️ BYTESHIELD -Capturing All Flags in DC-2 VulnHub CTF | Awakiyang | [Read More](https://medium.com/p/f15acdc17454) |
+| Thu, 14 Aug 2025 04:14:43 GMT | Day 31- Networking & Cybersecurity terms for beginners | unica 02 | [Read More](https://medium.com/p/2855fcd82737) |
+| Thu, 14 Aug 2025 04:08:43 GMT | Opening the Door to Cybersecurity: Arachne Digital Sponsors Subsidised Tickets for Kiwicon /… | Arachne Digital | [Read More](https://medium.com/p/48575b4ca2af) |
 | Thu, 14 Aug 2025 03:50:10 GMT | Voyage Into the Google Certificate Program! First Up: The Foundations…again! | Myshawne Stallings | [Read More](https://medium.com/p/a5655cf6f234) |
 | Thu, 14 Aug 2025 03:41:24 GMT | What Are the Latest Trends in Technology and Gadgets? | Abida Sultana | [Read More](https://medium.com/p/e22a75f0c43b) |
 | Thu, 14 Aug 2025 03:40:22 GMT | Lookup THM Walkthrough… | Yashpreeth Nijalinge | [Read More](https://medium.com/p/d6fa35bd4f86) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 19:35:23 GMT | Zero-Click WinRAR Zero-Day: CVE-2025–8088 (Path Traversal) Exploit Guide | Radeonares | [Read More](https://medium.com/p/a5a9fe7292ce) |
 | Wed, 13 Aug 2025 19:28:53 GMT | Qualcomm Vulnerabilities Under Active Attack: What Google’s Emergency Patch Means for You | The Latency Gambler | [Read More](https://medium.com/p/751ed502f9cb) |
 | Wed, 13 Aug 2025 19:24:52 GMT | Why Modern Cybersecurity Is Breach-Centric: Not Just About Fighting Malware | Antonio Lorensius Silaban | [Read More](https://medium.com/p/7cca5c9945bb) |
-| Wed, 13 Aug 2025 19:22:54 GMT | Red Alert for Google AI Users: BOLO for Indirect Prompt Injections in Email | Paul Dughi | [Read More](https://medium.com/p/ecda5ca9b8e4) |
-| Wed, 13 Aug 2025 19:20:20 GMT | Automated Ethical Hacking with Python for Corporate Security Audits | Code With Hannan | [Read More](https://medium.com/p/ab23ecabeecb) |
-| Wed, 13 Aug 2025 19:15:25 GMT | An Intimate Song Analysis — Vaaroon | Riley | [Read More](https://medium.com/p/0ae2c71f1fd6) |
-| Wed, 13 Aug 2025 19:14:35 GMT | From Simple Restriction Bypass to Internal Privilege Escalation to High Impact IDOR | Mohammad-Nouri Almohammad | [Read More](https://medium.com/p/e7b8366ac70d) |
-| Wed, 13 Aug 2025 19:06:44 GMT | Educação e Conscientização em Segurança da Informação | Café Com Firewall | [Read More](https://medium.com/p/3b363d0e6309) |
-| Wed, 13 Aug 2025 18:59:43 GMT | ANXIETY — How Running a Business Can Make Your Heart Race (But It Doesn’t Have To) | Vincent Brown | [Read More](https://medium.com/p/97f1159a25ac) |
-| Wed, 13 Aug 2025 18:56:04 GMT | Unmasking Zero-Click Zero-Day Vulnerabilities in iPhone 16 and WhatsApp: A Comprehensive Analysis… | zeubemito silva | [Read More](https://medium.com/p/5ac657abb97a) |
-| Wed, 13 Aug 2025 18:53:31 GMT | LLM based Threat Modeling: Let AI Think Like a Hacker, So You Don’t Have To | noailabs | [Read More](https://medium.com/p/43d1960e1b31) |
-| Wed, 13 Aug 2025 18:51:54 GMT | SecuMS Vulnerability Management System and Omnigard. | Nail Yusra | [Read More](https://medium.com/p/56548ce1ff4c) |
-| Wed, 13 Aug 2025 18:49:54 GMT | ❤️Why Men Find Long Hair Attractive The Psychological Reason | New story | [Read More](https://medium.com/p/227d516f64d3) |
-| Wed, 13 Aug 2025 18:40:47 GMT | The Hack On North Korea’s Most Elusive Cyber-Spies | O. J. Okpabi | [Read More](https://medium.com/p/8da5d3cabd7f) |
-| Wed, 13 Aug 2025 18:39:09 GMT | Web Application Security Best Practices: Protecting Your Business in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/5450245f1c8c) |
-| Wed, 13 Aug 2025 18:37:26 GMT | Designing A Data Pipeline Architecture That Embeds Governance & Security | Pranav Hivarekar | [Read More](https://medium.com/p/dbcf55b86d06) |
-| Wed, 13 Aug 2025 18:34:09 GMT | Security Information and Event Management (SIEM): Monitoring and Responding to Threats | Cyber Security Research | [Read More](https://medium.com/p/ae716b4aa77c) |
-| Wed, 13 Aug 2025 18:32:52 GMT | Data Governance For Engineers — The 5 Pillars Every Secure Data Pipeline Needs | Pranav Hivarekar | [Read More](https://medium.com/p/d5ff1879c887) |
