@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 03:50:10 GMT | Voyage Into the Google Certificate Program! First Up: The Foundations…again! | Myshawne Stallings | [Read More](https://medium.com/p/a5655cf6f234) |
+| Thu, 14 Aug 2025 03:41:24 GMT | What Are the Latest Trends in Technology and Gadgets? | Abida Sultana | [Read More](https://medium.com/p/e22a75f0c43b) |
+| Thu, 14 Aug 2025 03:40:22 GMT | Lookup THM Walkthrough… | Yashpreeth Nijalinge | [Read More](https://medium.com/p/d6fa35bd4f86) |
+| Thu, 14 Aug 2025 03:31:44 GMT | How Hackers Are Outsmarting AI Filters with Emoji Smuggling | Deven Chhajed | [Read More](https://medium.com/p/2795ea6f4ef9) |
+| Thu, 14 Aug 2025 03:29:00 GMT | Why Not Everyone Is Rich in this World: Why It Happens | Ahmad2105 | [Read More](https://medium.com/p/47323b7bece2) |
+| Thu, 14 Aug 2025 03:27:32 GMT | F5 BIG-IP RCE (CVE-2023–46747): What You Need to Know Right Now | AerieWhole123 | [Read More](https://medium.com/p/a4283d0c2044) |
+| Thu, 14 Aug 2025 03:24:54 GMT | Geolocation Is Transforming: From Metadata to Machine Learning | Ivander “Andreas” Wijaya | [Read More](https://medium.com/p/710bd8458f53) |
+| Thu, 14 Aug 2025 03:22:14 GMT | How OKKProxy Transformed My Internet Experience — And Why You Might Need It Too | Add | [Read More](https://medium.com/p/d0d5af683d4b) |
 | Thu, 14 Aug 2025 03:16:33 GMT | Building Bulletproof SSL/TLS Connections in Python: A Developer’s Guide to Secure Socket… | Cumulus13 | [Read More](https://medium.com/p/4cb1c2d9544e) |
 | Thu, 14 Aug 2025 03:10:17 GMT | I imagined some brain-new ideas. | ProgressiveDreamer | [Read More](https://medium.com/p/02c58653a1e5) |
 | Thu, 14 Aug 2025 03:06:52 GMT | How to Build a Security Research Home Lab Using VMware (Free Tools Only) | Migdad latif Shaw | [Read More](https://medium.com/p/7e40a84abd19) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 18:37:26 GMT | Designing A Data Pipeline Architecture That Embeds Governance & Security | Pranav Hivarekar | [Read More](https://medium.com/p/dbcf55b86d06) |
 | Wed, 13 Aug 2025 18:34:09 GMT | Security Information and Event Management (SIEM): Monitoring and Responding to Threats | Cyber Security Research | [Read More](https://medium.com/p/ae716b4aa77c) |
 | Wed, 13 Aug 2025 18:32:52 GMT | Data Governance For Engineers — The 5 Pillars Every Secure Data Pipeline Needs | Pranav Hivarekar | [Read More](https://medium.com/p/d5ff1879c887) |
-| Wed, 13 Aug 2025 18:32:19 GMT | The Zero Trust Security Model: A Paradigm Shift | Cyber Security Research | [Read More](https://medium.com/p/111ba5e98684) |
-| Wed, 13 Aug 2025 18:30:22 GMT | DevSecOps: Integrating Security into the Development Lifecycle | Cyber Security Research | [Read More](https://medium.com/p/713fb768151c) |
-| Wed, 13 Aug 2025 18:29:05 GMT | The Critical Role of Security Patches: Why Timely Updates Are Your First Line of Defense | SafeAeon Inc. | [Read More](https://medium.com/p/6a70c13fed04) |
-| Wed, 13 Aug 2025 18:28:23 GMT | Blockchain Security: Exploring the Security Implications | Cyber Security Research | [Read More](https://medium.com/p/3ddb6b828b54) |
-| Wed, 13 Aug 2025 18:26:33 GMT | Quantum Computing and Cybersecurity: Preparing for the Future | Cyber Security Research | [Read More](https://medium.com/p/46122ec35451) |
-| Wed, 13 Aug 2025 18:24:39 GMT | Cybersecurity and National Security: Protecting Our Nation’s Interests | Cyber Security Research | [Read More](https://medium.com/p/111548c8a40a) |
-| Wed, 13 Aug 2025 18:20:59 GMT | Cybersecurity Research and Development: Pushing the Boundaries of Innovation | Cyber Security Research | [Read More](https://medium.com/p/16ca803f904d) |
-| Wed, 13 Aug 2025 18:19:17 GMT | API Security: Top Vulnerabilities and Fixes | Aj | [Read More](https://medium.com/p/634b82964a7e) |
