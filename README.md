@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 12:46:15 GMT | ☕ Web Cache Poisoning — How to Trick the Internet’s Memory and Serve Everyone Your “Special Recipe” | Shah kaif | [Read More](https://medium.com/p/eea160e6bb89) |
+| Thu, 14 Aug 2025 12:43:57 GMT | Why Diamond Purchasing Marks a New Phase in Mumu Tycoon’s GameFi Strategy | Camsy Wealth | [Read More](https://medium.com/p/4e62cb298d54) |
+| Thu, 14 Aug 2025 12:34:19 GMT | Beyond Scans: How SecuMS and Omniguard Turn Security Into a Business Capability in 2025 | Agung Vivekananda | [Read More](https://medium.com/p/c0e7d4737e93) |
+| Thu, 14 Aug 2025 12:34:00 GMT | Why We Must Raise AI Like Our Parents Raised Us: A New Vision for Safety in European Businesses | Gerhard Kürner | [Read More](https://medium.com/p/e8b93bf1965d) |
+| Thu, 14 Aug 2025 12:32:23 GMT | SMT Program 2025 Journal — Expert Lecture 3 | Fathurrahman Nasution | [Read More](https://medium.com/p/98a40e6114bc) |
+| Thu, 14 Aug 2025 12:31:17 GMT | Behind the Mask: Privacy, Anonymity, and the Dark Web’s Double Edge | Ramadhana Khalaf Sandhyakala | [Read More](https://medium.com/p/eefcea9c9cef) |
+| Thu, 14 Aug 2025 12:31:04 GMT | How to “Hack” Chat GPT 5: 2 Methods to Reveal Its Secrets (and Why It’s Crucial for You) | ParlonsIA | [Read More](https://medium.com/p/88f9ee5f5ebc) |
+| Thu, 14 Aug 2025 12:29:22 GMT | Best Robo Call Service Provider In India | Ashutosh Mallik | [Read More](https://medium.com/p/44d5cf80e7f6) |
+| Thu, 14 Aug 2025 12:28:52 GMT | 1000$ Bug Bounty - Journey to Exploiting a Hidden XSS | Rashadul Islam | [Read More](https://medium.com/p/b8cc90b49714) |
+| Thu, 14 Aug 2025 12:25:21 GMT | Inside a Security Audit: How We Secured a Client’s Network from Cyber Threats | Cybersecurity Umbrella | [Read More](https://medium.com/p/ee0c0d52e713) |
+| Thu, 14 Aug 2025 12:22:26 GMT | Penetrasyon Testi - Servis Tarama ve Açıkların Tespiti | Sadıkcan Tuluk | [Read More](https://medium.com/p/5c06bbb01fa2) |
+| Thu, 14 Aug 2025 12:21:39 GMT | Privacy Paradox on the Onion Network - SMT Program 2025 Expert Lecture 3 | Abrar Ikramaputra | [Read More](https://medium.com/p/3b3c8fc7b089) |
+| Thu, 14 Aug 2025 12:21:34 GMT | SecureRoot Secure Code Review — Advanced VAPT for Code Security | secureroot | [Read More](https://medium.com/p/3fafcf414d8a) |
+| Thu, 14 Aug 2025 11:46:22 GMT | Securing Your Insecurities | Bants By Emoshio | [Read More](https://medium.com/p/089dfea14fb5) |
+| Thu, 14 Aug 2025 11:40:55 GMT | We’re Entering the Combustion Engine Era of AI | Christian Lindekilde | [Read More](https://medium.com/p/c2b2f92c7354) |
+| Thu, 14 Aug 2025 11:39:59 GMT | Changing the Economics of DeFi Hacks: How Drosera Is Flipping the Script on Blockchain Security | Offiongjoseph | [Read More](https://medium.com/p/a1b31baa7aea) |
+| Thu, 14 Aug 2025 11:39:44 GMT | SMT Program Expert Lecture 3: The Privacy Paradox — The Onion & Batman | Irsyadfauzanhanaf | [Read More](https://medium.com/p/ec63a7369315) |
+| Thu, 14 Aug 2025 11:39:41 GMT | The harmony of security and governance | Rizki Dwi Rahmawan | [Read More](https://medium.com/p/d54b63675cf9) |
+| Thu, 14 Aug 2025 11:37:19 GMT | SMT 2025 — Special Lecture 2 | Firdhan H | [Read More](https://medium.com/p/38e508c6e254) |
 | Thu, 14 Aug 2025 11:31:44 GMT | Application Level DoS - No More Dates | Jerry Shah (Jerry) | [Read More](https://medium.com/p/6782fcf3392c) |
+| Thu, 14 Aug 2025 11:31:44 GMT | Understanding Data Poisoning Attacks in AI/ML Systems | Brittney Ginther | [Read More](https://medium.com/p/3902fa940d80) |
 | Thu, 14 Aug 2025 11:31:18 GMT | Parameter-Based Access Control Testing | Siddiquimohammad | [Read More](https://medium.com/p/6eefea55d48f) |
 | Thu, 14 Aug 2025 11:30:18 GMT | Who benefits from AI Security Protocols & Monitoring? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/9b253424881f) |
 | Thu, 14 Aug 2025 11:29:42 GMT | How a Trust Center Turns Compliance into a Competitive Advantage | SecureSlate | [Read More](https://medium.com/p/79ec78c513f3) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 08:37:13 GMT | Mastering SOLID Principles in Java: The Key to Clean and Scalable Code | Arbaaz Faruqui | [Read More](https://medium.com/p/50c01a6918cc) |
 | Thu, 14 Aug 2025 08:36:21 GMT | The Silent Battlefield | Tom Yonashiro | [Read More](https://medium.com/p/b5a4278740ff) |
 | Thu, 14 Aug 2025 08:31:30 GMT | DForms: Quantum-Safe, Decentralized Form Builder! | BlockByte | [Read More](https://medium.com/p/3149949de2a6) |
-| Thu, 14 Aug 2025 08:30:23 GMT | 502 — INFORMATION SECURITY POLICY (ISO/IEC 27001)(EN) | Atakan Bitim | [Read More](https://medium.com/p/335be878f436) |
-| Thu, 14 Aug 2025 08:30:22 GMT | 502 — INFORMATION SECURITY POLICY (ISO/IEC 27001)(TR) | Atakan Bitim | [Read More](https://medium.com/p/d8c83cbf794f) |
-| Thu, 14 Aug 2025 08:28:55 GMT | Psexec Hunt: CyberDefenders Write Up | Erdem Ulu | [Read More](https://medium.com/p/50f0cdece2d0) |
-| Thu, 14 Aug 2025 08:28:20 GMT | Complete Cybersecurity Penetration Testing Course with Practical Projects | cyber security Updates | [Read More](https://medium.com/p/3dc755f4b580) |
-| Thu, 14 Aug 2025 08:26:40 GMT | CTI Diaries #3: Understanding Risk and Threat in Cyber Threat Intelligence | Deniz Topaloglu | [Read More](https://medium.com/p/6cad51cd73f9) |
-| Thu, 14 Aug 2025 08:24:27 GMT | Tired of Guessing Social Media Handles? | Sajjad Hussain | [Read More](https://medium.com/p/bbae241e8ae3) |
-| Thu, 14 Aug 2025 08:24:03 GMT | Neuromorphic Defenses Redefine GPU AI Security for High-Stakes Systems | Bradley Susser | [Read More](https://medium.com/p/bc8c64a37a3f) |
-| Thu, 14 Aug 2025 08:22:54 GMT | Surveillance You Can Trust — Quva India | Quva India | [Read More](https://medium.com/p/dda2f2d87db2) |
-| Thu, 14 Aug 2025 08:21:43 GMT | Creating Custom Detection Rules in Wazuh for Detecting Web Attacks, Command Injection, and… | Muhammad Nayyul Habibie | [Read More](https://medium.com/p/d520f2f25e55) |
-| Thu, 14 Aug 2025 08:18:57 GMT | Hello everyone, my name is Tamera Okafor and i am a Cybersecurity enthusiast. | Tamera Okafor | [Read More](https://medium.com/p/0da663206f08) |
-| Thu, 14 Aug 2025 08:18:50 GMT | Your Reflection Called. She Wants a Different Story. | curohub | [Read More](https://medium.com/p/8aebc75af66a) |
-| Thu, 14 Aug 2025 08:17:48 GMT | Why the World’s Busiest Websites Trust SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/8c7c6460c3b2) |
-| Thu, 14 Aug 2025 08:17:30 GMT | Ransomware Hits Royal Enfield: A Stark Reminder to Safeguard Your Backups Before it’s Too Late | Varun Verma | [Read More](https://medium.com/p/ef041a26bba0) |
-| Thu, 14 Aug 2025 08:16:36 GMT | Alright — I’ll expand your English writeup into a full, detailed, technical case study that works… | Dmitry Sorokin | [Read More](https://medium.com/p/d7bca86c79db) |
-| Thu, 14 Aug 2025 08:15:35 GMT | Why Do Driverless Subway Have Protection Panels, While Driver-Driven Subway Don’t? | Eda Hazal Tümer | [Read More](https://medium.com/p/15eb7e56a76b) |
-| Thu, 14 Aug 2025 08:13:28 GMT | Prevent XSSI in Symfony (Cross-Site Script Inclusion) | Pentest_Testing_Corp | [Read More](https://medium.com/p/0e4f19f13ae7) |
-| Thu, 14 Aug 2025 08:11:05 GMT | AI Without Anarchy: Corralling Chaos in Hybrid Agent Ecosystems | Utsavi Udani | [Read More](https://medium.com/p/756e3bab2230) |
-| Thu, 14 Aug 2025 08:09:21 GMT | Le chasseur de failles : Mission Wi-Fi par Handshake | Julien M. | [Read More](https://medium.com/p/307de80c6b83) |
-| Thu, 14 Aug 2025 08:05:37 GMT | Stop Dreaming, Start Hacking: How ANDRAX v4 Turns Your Android into a 900+ Tool Penetration testing… | Sajjad Hussain | [Read More](https://medium.com/p/6736d50f86d3) |
-| Thu, 14 Aug 2025 08:01:47 GMT | DevOps Quantum Leap: Emerging Use Cases of Quantum-Safe Cryptography | Mohamed ElEmam | [Read More](https://medium.com/p/f6dbdb7a720c) |
