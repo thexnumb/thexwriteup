@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 10:44:25 GMT | Cybersecurity Patch Management: Keeping Systems Up-to-Date | Cyber Security Research | [Read More](https://medium.com/p/c41b0fe0409a) |
+| Thu, 14 Aug 2025 10:43:08 GMT | Cybersecurity Attack Surface Analysis: Identifying Potential Vulnerabilities | Cyber Security Research | [Read More](https://medium.com/p/692216ee8767) |
+| Thu, 14 Aug 2025 10:42:04 GMT | How I Found a Sensitive Data Exposure And PII in NASA’s EarthData System | whiterose | [Read More](https://medium.com/p/6980492dcd75) |
+| Thu, 14 Aug 2025 10:41:51 GMT | The Cybersecurity Kill Chain: Understanding the Attacker’s Methodology | Cyber Security Research | [Read More](https://medium.com/p/c836b33d6fa8) |
+| Thu, 14 Aug 2025 10:40:52 GMT | Letting Everything Get Under My Skin | Garima Chhikara | [Read More](https://medium.com/p/853ba5f9605e) |
+| Thu, 14 Aug 2025 10:40:30 GMT | Cybersecurity Standards: Implementing Industry Best Practices | Cyber Security Research | [Read More](https://medium.com/p/111c46d051cc) |
+| Thu, 14 Aug 2025 10:38:13 GMT | How $75K in ZORA Was Claimed Without Hacking the Code | Evgenii | [Read More](https://medium.com/p/43df4857d0cc) |
+| Thu, 14 Aug 2025 10:37:15 GMT | Threat Emulation 101 — How Hackers Attack & How We Defend | Furkanctiner | [Read More](https://medium.com/p/189e740b341a) |
+| Thu, 14 Aug 2025 10:35:17 GMT | Cybersecurity Trends for 2025 and Beyond: What You Need to Know | Paritosh | [Read More](https://medium.com/p/53605ae788ce) |
+| Thu, 14 Aug 2025 10:34:33 GMT | Hack The Box - The Needle Writeup | onezero | [Read More](https://medium.com/p/1e763f91fc44) |
+| Thu, 14 Aug 2025 10:33:06 GMT | Trusted VAPT Testing Services In India - Net Access India Limited | Gowthammathiew | [Read More](https://medium.com/p/9fb179209029) |
+| Thu, 14 Aug 2025 10:30:18 GMT | Best Institute for Cyber Security Training in Bangalore in 2025 | Pravin Choudhary | [Read More](https://medium.com/p/fa73e0a6d0cb) |
+| Thu, 14 Aug 2025 10:29:43 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/20861c110ae1) |
+| Thu, 14 Aug 2025 10:29:23 GMT | One Vulnerability at a Time: How to Run High-Impact AppSec Campaigns | James Chiappetta | [Read More](https://medium.com/p/5fa91f966a2f) |
+| Thu, 14 Aug 2025 10:26:44 GMT | Why Are Firewalls Necessary for Your Website | Maverick Steel | [Read More](https://medium.com/p/680f780733dc) |
+| Thu, 14 Aug 2025 10:20:07 GMT | Certified Ethical hacking Course in Delhi | GICSEH | [Read More](https://medium.com/p/2e5981a4ea79) |
 | Thu, 14 Aug 2025 10:17:04 GMT | The Onion Router: More Than a Gateway to the Web | Fatih | [Read More](https://medium.com/p/db75b9491185) |
 | Thu, 14 Aug 2025 10:13:32 GMT | Psychological victory before first contact | Martin Abramov | [Read More](https://medium.com/p/132344086054) |
 | Thu, 14 Aug 2025 10:08:46 GMT | Log 05: Creating User Accounts in Windows | Apurva Cybersecurity | [Read More](https://medium.com/p/4abcabb288e5) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 07:07:14 GMT | Nocturnal — Hack The Box Write Up | Toshith | [Read More](https://medium.com/p/f7f659e3ac26) |
 | Thu, 14 Aug 2025 07:00:43 GMT | Cyber Insurance: What It Covers (And What It Doesn’t) | Aj | [Read More](https://medium.com/p/58c9aa6f8f80) |
 | Thu, 14 Aug 2025 06:59:31 GMT | How to Pinpoint an Exact Location from Limited Context: Tips from NHSC’s CyberSecurity Consultant | Michael Christian Handoko | [Read More](https://medium.com/p/c7e2248ce004) |
-| Thu, 14 Aug 2025 06:55:03 GMT | A Practical Guide to Geolocation | Ikamawarnie | [Read More](https://medium.com/p/6fa1f327c8e0) |
-| Thu, 14 Aug 2025 06:52:09 GMT | Unauthorized App Installation | Thrivikram | [Read More](https://medium.com/p/da9ced7b1e58) |
-| Thu, 14 Aug 2025 06:51:10 GMT | What I Learned from EWPTX v3: A Journey into Advanced Web App Penetration Testing | Kartik Garg | [Read More](https://medium.com/p/c5407820992f) |
-| Thu, 14 Aug 2025 06:49:58 GMT | Diving into the World of OSINT: The Art of Knowing Without Breaking Boundaries | Tsabita Bayu Kandi | [Read More](https://medium.com/p/3810e510f390) |
-| Thu, 14 Aug 2025 06:48:53 GMT | The Danger of Weak Website Passwords and How to Fix It | YogSec | [Read More](https://medium.com/p/fd677138006a) |
-| Thu, 14 Aug 2025 06:39:56 GMT | THM - El Bandito | Francesco Pastore | [Read More](https://medium.com/p/3772abe533d5) |
-| Thu, 14 Aug 2025 06:39:38 GMT | SafeLine WAF Setup — Prerequisites You Can’t Skip | Quella | [Read More](https://medium.com/p/c15d3fc31d88) |
-| Thu, 14 Aug 2025 06:32:50 GMT | THM - Friday Overtime | Francesco Pastore | [Read More](https://medium.com/p/2423a1686075) |
-| Thu, 14 Aug 2025 06:25:58 GMT | This Is How Ransomware Kill Your Busines | Afwan Mulia Pratama | [Read More](https://medium.com/p/5029130278f8) |
-| Thu, 14 Aug 2025 06:20:35 GMT | Joseph Lamar Simmons Shares His Insights on Life as an Intelligence Officer | Joseph Lamar Simmons | [Read More](https://medium.com/p/494ac91487a2) |
-| Thu, 14 Aug 2025 06:19:01 GMT | What should AI Security Practitioners know about LLM safety alignment degradation | Anamitra Dutta Majumdar | [Read More](https://medium.com/p/cfffd6d5ec84) |
-| Thu, 14 Aug 2025 06:14:36 GMT | Advanced Wazuh Architecture for Enterprise Environments: What to Consider and How to Scale It | Ismael Barrantes | [Read More](https://medium.com/p/1982b5ae7879) |
-| Thu, 14 Aug 2025 06:12:51 GMT | Still Relevant for Computer Science Students in 2025? | BIT Blogs | [Read More](https://medium.com/p/404b89c3cdcd) |
-| Thu, 14 Aug 2025 06:05:05 GMT | Her Sektöre Özel Uzaktan İzleme ve Risk Analiz Çözümleri | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/d0acdc502d32) |
-| Thu, 14 Aug 2025 06:00:54 GMT | Day6 Recon: How to Find Exposed Cloud Storage & Hidden Third-Party Assets (With Real Demos)
- From… | Ayush Kumar | [Read More](https://medium.com/p/798219ba4d7f) |
-| Thu, 14 Aug 2025 06:00:39 GMT | Today’s Top Cyber Intelligence Highlights — Aug 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3b4f1bb6c208) |
