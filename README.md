@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 01:34:39 GMT | ️ Quantum-Resistant Secure Communication in Python (TLS 1.2+ with Strong Ciphers) | Cumulus13 | [Read More](https://medium.com/p/1ac594479eb1) |
+| Thu, 14 Aug 2025 01:12:29 GMT | Special Lecture 1 OSINT: From Clues to Insights | Achmad Al Fauzi Dhiaulhaq | [Read More](https://medium.com/p/eb089246acbd) |
+| Thu, 14 Aug 2025 01:07:44 GMT | Networking Basics - The Backbone of Cybersecurity | Muhammed Afnaan | [Read More](https://medium.com/p/9dd36c424629) |
+| Thu, 14 Aug 2025 00:58:37 GMT | Criminal IP Case Study: Criminal IP TI Adoption by a HealthCare Organization in U.S. | Criminal IP | [Read More](https://medium.com/p/1f585b97dd9b) |
+| Thu, 14 Aug 2025 00:31:42 GMT | Mobile App Security Trends: Real Developer Concerns from StackOverflow | Hiren | [Read More](https://medium.com/p/4a1c1bc77497) |
+| Thu, 14 Aug 2025 00:20:01 GMT | How I Got Into Ethical Hacking Using Python | Zain Shoaib | [Read More](https://medium.com/p/6572a019daf1) |
+| Thu, 14 Aug 2025 00:11:54 GMT | Topic 7: Building an LLM Security Strategy: Key Pillars for Business Leaders to Focus On | Scott Huang | [Read More](https://medium.com/p/3bdde1aeb5ea) |
+| Thu, 14 Aug 2025 00:06:11 GMT | How AI Passes Hidden Traits Through Training and How to Stop It | Aaron | [Read More](https://medium.com/p/400ebd65bd7a) |
+| Wed, 13 Aug 2025 23:57:09 GMT | The Fragile Balance: Assumptions, Tuning, and Telemetry Limits In Detection Engineering | Nasreddine Bencherchali | [Read More](https://medium.com/p/a32ae6802995) |
 | Wed, 13 Aug 2025 23:11:25 GMT | Zero Trust Security: A New Era of Cyber Protection | Raviteja Mureboina | [Read More](https://medium.com/p/494dcfdac836) |
 | Wed, 13 Aug 2025 23:00:39 GMT | Stop Guessing — Here’s How to Quietly See Your Partner’s Messages From Your Own Phone | Stanley K. Wilson | [Read More](https://medium.com/p/69cb90e85d42) |
 | Wed, 13 Aug 2025 22:54:59 GMT | Security in Swift: A Practical Guide for iOS Developers (2025) | Mustafa Bekirov | [Read More](https://medium.com/p/a763e3efde48) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 Aug 2025 17:16:05 GMT | Haven1: The EVM L1 Built for DeFi 2.0, Real-World Assets, and a Safer Web3 | Mr Alex Yung® | [Read More](https://medium.com/p/bb1f889f569a) |
 | Wed, 13 Aug 2025 17:15:12 GMT | Cybersecurity in ’25: Ready to Hack Your Future? | Authlyn | [Read More](https://medium.com/p/3e2276c08575) |
 | Wed, 13 Aug 2025 17:15:03 GMT | Incident Investigation Report (The Hunters Games CTF) | Jawher Mastour | [Read More](https://medium.com/p/dfd4bd600c46) |
-| Wed, 13 Aug 2025 17:14:39 GMT | Nails for Breakfast: A Lifelong Lesson from My Father | Marcus Cole | [Read More](https://medium.com/p/5ac41969fcab) |
-| Wed, 13 Aug 2025 17:09:14 GMT | Building an AI-Powered Honeypot Log Analyzer: From Raw Logs to Compelling Security Narratives | SR | [Read More](https://medium.com/p/fae534fff9e1) |
-| Wed, 13 Aug 2025 17:08:59 GMT | We Gave Google Everything. They Couldn’t Keep It Safe.❌ | Prince Bharti | [Read More](https://medium.com/p/d6cd126d68f0) |
-| Wed, 13 Aug 2025 17:08:51 GMT | OSINT101: Why Not All ‘Stalking’ Is Worthy of OSINT | Hildan Kusto Utomo | [Read More](https://medium.com/p/59145bd36474) |
-| Wed, 13 Aug 2025 17:07:23 GMT | How to Actually Leverage the MITRE ATT&CK Framework in Security Operations | Ryan G. Cox | [Read More](https://medium.com/p/67ec59c5d788) |
-| Wed, 13 Aug 2025 17:03:29 GMT | T1595 — Active Scanning: When Hackers Go “Fishing” for Your Network | MITRE Doggy | [Read More](https://medium.com/p/da101f4f7e4a) |
-| Wed, 13 Aug 2025 17:01:40 GMT | 501 — Information Security Management Standard (ISO/IEC 27001)(EN) | Atakan Bitim | [Read More](https://medium.com/p/904533563b0f) |
-| Wed, 13 Aug 2025 17:01:38 GMT | 501 — Information Security Management Standard (ISO/IEC 27001)(TR) | Atakan Bitim | [Read More](https://medium.com/p/8543f3c0558f) |
-| Wed, 13 Aug 2025 16:59:05 GMT | Navigating SEC Disclosures: Director and Executive Officer Information | SEC Lawyer 101 | [Read More](https://medium.com/p/3bb1b4335e43) |
