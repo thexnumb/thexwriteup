@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 Aug 2025 20:55:20 GMT | Day 81: More reverse shells | Nile Okomo | [Read More](https://medium.com/p/3b51139d3d83) |
+| Thu, 14 Aug 2025 20:48:39 GMT | Threat Hunting As a Culture: Turning Proactive into Routine | Yash Patel | [Read More](https://medium.com/p/bd527dac8df1) |
 | Thu, 14 Aug 2025 20:40:24 GMT | Updated UAC-0099 Toolkit: MATCHBOIL, MATCHWOK, DRAGSTARE | SIMKRA | [Read More](https://medium.com/p/cc9e28acbde3) |
 | Thu, 14 Aug 2025 20:38:49 GMT | Day 80: Python | Nile Okomo | [Read More](https://medium.com/p/61e2bbad58b4) |
 | Thu, 14 Aug 2025 20:29:01 GMT | Recon Methodology: JavaScript File Hunting | Marduk I Am | [Read More](https://medium.com/p/254127ecd211) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 15:41:21 GMT | Enhancing Infrastructure Security and Efficiency at Level Up Bank | Brandon Forlina | [Read More](https://medium.com/p/e5be84f67ba6) |
 | Thu, 14 Aug 2025 15:38:47 GMT | The Knight, The Child, and The River Inside | Prix☆ | [Read More](https://medium.com/p/80088abc09d6) |
 | Thu, 14 Aug 2025 15:36:51 GMT | Mental Health in the Age of AI. | MindMeshTech | [Read More](https://medium.com/p/bcfa6e3a2809) |
-| Thu, 14 Aug 2025 15:35:17 GMT | HTB Cicada Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/76e7bd9b5a1d) |
-| Thu, 14 Aug 2025 15:31:17 GMT | HTTP Request Smuggling: Basic CL.TE Vulnerability | Bash Overflow | [Read More](https://medium.com/p/2cadaa2d9640) |
