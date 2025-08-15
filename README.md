@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 07:35:45 GMT | PhantomCard: How NFC Malware Could Empty Your Bank Account | Liran Nachman | [Read More](https://medium.com/p/e45caa1f2c18) |
+| Fri, 15 Aug 2025 07:35:16 GMT | Easy 130$ Bounty: User to Admin | Musab Sarı | [Read More](https://medium.com/p/fe9340ff9bd3) |
+| Fri, 15 Aug 2025 07:34:40 GMT | ประจำวันศุกร์ที่ 15 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/e8e31ee47459) |
+| Fri, 15 Aug 2025 07:27:48 GMT | The Digital Forensics Process: From Acquisition to Courtroom | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/f7694f15833e) |
+| Fri, 15 Aug 2025 07:27:22 GMT | Hacking AI is TOO EASY (This Should Be Illegal) | Shahzaib | [Read More](https://medium.com/p/90dd2b7b05bd) |
+| Fri, 15 Aug 2025 07:23:08 GMT | How to $BUG Yield Farming on StakingRewards for Maximum APY | BUG | [Read More](https://medium.com/p/986888ca9033) |
+| Fri, 15 Aug 2025 07:22:51 GMT | Host & Network Penetration Testing: Exploitation CTF 1 | Psalm Endozo | [Read More](https://medium.com/p/7124e454e5cf) |
+| Fri, 15 Aug 2025 07:22:40 GMT | I Found 10x More SQLi Flaws Using This Bash Trick | Ibtissam hammadi | [Read More](https://medium.com/p/6300ca3a0f14) |
+| Fri, 15 Aug 2025 07:12:33 GMT | Start Earning with BUG $BUG on StakingRewards | BUG | [Read More](https://medium.com/p/2f2ef020aefd) |
 | Fri, 15 Aug 2025 07:07:57 GMT | The neglected side of web3 security | Extropy.IO | [Read More](https://medium.com/p/d92c4e5e71bd) |
 | Fri, 15 Aug 2025 07:01:59 GMT | Dijital Gölge: Biz Öldükten Sonra Dijital Varlıklarımız Ne Olacak? | AYŞE KIZILAY | [Read More](https://medium.com/p/0ba06b3788e2) |
 | Fri, 15 Aug 2025 07:01:52 GMT | From Manual Chaos to Automated Excellence: How High-Performing Teams Thrive with Fomerly HR | Fomerly HR | [Read More](https://medium.com/p/0234e4f79875) |
@@ -26,9 +35,11 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 06:51:17 GMT | Deploy SafeLine WAF with Docker — A Step-by-Step Guide | Quella | [Read More](https://medium.com/p/28c02df8c062) |
 | Fri, 15 Aug 2025 06:49:08 GMT | The Fake Airdrop Tactic Explained | WalletKeeper | [Read More](https://medium.com/p/b886e8b5f315) |
 | Fri, 15 Aug 2025 06:46:51 GMT | Teknoloji İyiyse, Neden Kaygımız Artıyor? | AYŞE KIZILAY | [Read More](https://medium.com/p/fd9557ab1c1c) |
+| Fri, 15 Aug 2025 06:44:40 GMT | Ara Varlıklar: İnsan ile Makine Arasında Yeni Bir Zihin Sınıfı | AYŞE KIZILAY | [Read More](https://medium.com/p/f45601ef5333) |
 | Fri, 15 Aug 2025 06:42:18 GMT | Veri Takası: Konfor Karşılığı Mahremiyet | AYŞE KIZILAY | [Read More](https://medium.com/p/079ab4f8ad90) |
 | Fri, 15 Aug 2025 06:40:59 GMT | Dumping the content of a table, without Sql injection | Rajesh Sagar | [Read More](https://medium.com/p/2601480bcc1e) |
 | Fri, 15 Aug 2025 06:39:50 GMT | Why LOIC Still Sparks Controversy in 2025 — And How It Became the Internet’s Most Infamous… | Sajjad Hussain | [Read More](https://medium.com/p/900f7d52dcc5) |
+| Fri, 15 Aug 2025 06:38:37 GMT | Kendini Güncelle Dönemi: İnsanlar da Yazılım Gibi mi Olmalı? | AYŞE KIZILAY | [Read More](https://medium.com/p/6d081efdf5bf) |
 | Fri, 15 Aug 2025 06:34:11 GMT | 7 Signs You’re Ready to Be a Leader | Vijay Kumar Gupta | [Read More](https://medium.com/p/b3d91a181a17) |
 | Fri, 15 Aug 2025 06:32:45 GMT | Prisma Cloud by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/155f2e42b391) |
 | Fri, 15 Aug 2025 06:31:47 GMT | How I Tested SMB Relay Attacks in My Lab | Zahidul Islam Ratul | [Read More](https://medium.com/p/f348617b71a6) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 22:17:37 GMT | Building Threat Playbooks for Emerging APT Groups | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7d9cc483cdea) |
 | Thu, 14 Aug 2025 22:11:04 GMT | Why You’ll Love Diode Collab for Collaboration | Maliah | [Read More](https://medium.com/p/9e4bcf385867) |
 | Thu, 14 Aug 2025 22:09:15 GMT | Switching From Python to Go for Pentesting | Taulan Zauzanov | [Read More](https://medium.com/p/9207e687347e) |
-| Thu, 14 Aug 2025 22:01:54 GMT | “When I Finally Stopped Saying ‘I’m Fine’” | Zee Wen | [Read More](https://medium.com/p/3cb0c487cf5d) |
-| Thu, 14 Aug 2025 21:44:28 GMT | I Almost Wasted 50k on Bot Detection That Doesn’t Work | Francesco Lisandro | [Read More](https://medium.com/p/46c284ef9be3) |
-| Thu, 14 Aug 2025 21:37:02 GMT | Open Source Projects #1: Kaktus: Linux System Audit and Hardening | Mesut Ozsoy | [Read More](https://medium.com/p/b0143d619fb3) |
-| Thu, 14 Aug 2025 21:19:11 GMT | Understanding Vulnerabilities in Cybersecurity: The Weak Links That Threaten Digital Fortresses | Emma Lateyron | [Read More](https://medium.com/p/bd920485c134) |
-| Thu, 14 Aug 2025 20:55:20 GMT | Day 81: More reverse shells | Nile Okomo | [Read More](https://medium.com/p/3b51139d3d83) |
-| Thu, 14 Aug 2025 20:48:39 GMT | Threat Hunting As a Culture: Turning Proactive into Routine | Yash Patel | [Read More](https://medium.com/p/bd527dac8df1) |
-| Thu, 14 Aug 2025 20:40:24 GMT | Updated UAC-0099 Toolkit: MATCHBOIL, MATCHWOK, DRAGSTARE | SIMKRA | [Read More](https://medium.com/p/cc9e28acbde3) |
-| Thu, 14 Aug 2025 20:38:49 GMT | Day 80: Python | Nile Okomo | [Read More](https://medium.com/p/61e2bbad58b4) |
-| Thu, 14 Aug 2025 20:29:01 GMT | Recon Methodology: JavaScript File Hunting | Marduk I Am | [Read More](https://medium.com/p/254127ecd211) |
-| Thu, 14 Aug 2025 20:26:17 GMT | MCP + VS Code: Assisted pentest on an HTB box — from install to first flag | Mr TriVe | [Read More](https://medium.com/p/cea7d688803c) |
-| Thu, 14 Aug 2025 20:22:41 GMT | Reverse engineering Authy: the open source method for exporting your 2FA tokens | Franck Reant | [Read More](https://medium.com/p/65a550c95b32) |
