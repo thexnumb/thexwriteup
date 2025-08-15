@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 16:42:52 GMT | Hacking Metasploitable 2 using Kali Linux on VirtualBox | Muamer Huseinovic | [Read More](https://medium.com/p/b0cdf61d198e) |
+| Fri, 15 Aug 2025 16:33:53 GMT | Bypassing CAPTCHA in bWAPP Using Burp Suite | Srimanta Mondal | [Read More](https://medium.com/p/7a46e0d35c1b) |
+| Fri, 15 Aug 2025 16:30:39 GMT | Top 5 Reasons to Choose Shef Solutions LLC for Cybersecurity Training | Shef Solutions LLC | [Read More](https://medium.com/p/ea1bfda5d4ee) |
+| Fri, 15 Aug 2025 16:28:17 GMT | Basic Server-Side Template Injection (SSTI) in ERB (Ruby) | Bash Overflow | [Read More](https://medium.com/p/78a3b80432b8) |
 | Fri, 15 Aug 2025 16:08:49 GMT | How I Turned an “Invisible” Header into a $$$ Bug Bounty! | Zoningxtr | [Read More](https://medium.com/p/9ce57f39c64b) |
 | Fri, 15 Aug 2025 16:07:32 GMT | Yes, my AI gadgets are useless, thanks for asking | Marco van Hurne | [Read More](https://medium.com/p/be8e00237716) |
 | Fri, 15 Aug 2025 15:59:50 GMT | Sneaky Slash: How a Japanese Character Powers a Clever Phishing Attack | Liran Nachman | [Read More](https://medium.com/p/55a2964c8b45) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 10:56:09 GMT | Web Fundamentals Series #1 : URL Explained in Detail | Sulabh Prajapati | [Read More](https://medium.com/p/da6d63c496a4) |
 | Fri, 15 Aug 2025 10:50:22 GMT | Certifications vs. Experience: What Matters Most in Defense Cybersecurity? | Brandon Dewater | [Read More](https://medium.com/p/6a5476685e5c) |
 | Fri, 15 Aug 2025 10:47:20 GMT | Day 3: Types of Cyberattacks | 0ccupi3R | [Read More](https://medium.com/p/f12419eb2d3d) |
-| Fri, 15 Aug 2025 10:40:55 GMT | Securing Code Before It Ships: The Power of SAST and SCA in Modern DevOps | YOUSSEF CHAMRAH | [Read More](https://medium.com/p/650ab42eab1d) |
-| Fri, 15 Aug 2025 10:40:15 GMT | A Day in the Life of Cheyanne Mallas: Managing a High-Stakes Cybersecurity Project | Cheyannemallaspa | [Read More](https://medium.com/p/99ab5eab436d) |
-| Fri, 15 Aug 2025 10:34:11 GMT | Specifications of the new US satellite video surveillance system | M Man | [Read More](https://medium.com/p/906a3c9f953a) |
-| Fri, 15 Aug 2025 10:32:17 GMT | How I Passed CRTP on the First Attempt | thesecguy | [Read More](https://medium.com/p/8a4683053a24) |
