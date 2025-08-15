@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 14:38:36 GMT | “Day 12: The Rate Limit Paradox — How I Weaponized API Protections for a $500 DoS Bug” | Aman Sharma | [Read More](https://medium.com/p/497fa5f8fe45) |
+| Fri, 15 Aug 2025 14:29:51 GMT | Why You Can Trust HTTPS: Demystifying SSL | Prakash Verma | [Read More](https://medium.com/p/513db955c98f) |
+| Fri, 15 Aug 2025 14:25:38 GMT | Analyzing Windows Sysmon Log with Python | Kiran Adhikari | [Read More](https://medium.com/p/35d84be2bf4e) |
+| Fri, 15 Aug 2025 14:23:05 GMT | How To Safeguard Your IP: A Practical Guide for Entrepreneurs & Innovators | Diana - Digital Growth Strategist | [Read More](https://medium.com/p/f43fa4ade783) |
+| Fri, 15 Aug 2025 14:19:21 GMT | Unlocking Cybersecurity: Your Guide to Hacking, VMs, Linux, and Networking | Muhammad Afzal n | [Read More](https://medium.com/p/c27d2448c46f) |
+| Fri, 15 Aug 2025 14:18:53 GMT | From Healing To Chaos | Christina - Healing In Pixels & Pages | [Read More](https://medium.com/p/882b16adacc3) |
 | Fri, 15 Aug 2025 14:17:09 GMT | T1059 — Command and Scripting Interpreter: The Hacker’s Swiss Army Knife | MITRE Doggy | [Read More](https://medium.com/p/9c34062444b1) |
 | Fri, 15 Aug 2025 14:13:45 GMT | Microsoft’s August 2025 Patch Tuesday updates | IT_Engineer | [Read More](https://medium.com/p/306c736203da) |
 | Fri, 15 Aug 2025 14:10:01 GMT | [CyberDefenders ]- 3CX Supply Chain Lab Walkthrough | Yash Davare | [Read More](https://medium.com/p/2c3bdce14c51) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 09:10:00 GMT | When The Phones Went Silent: Luxembourg’s Cyber Siege | O. J. Okpabi | [Read More](https://medium.com/p/bfd83786041c) |
 | Fri, 15 Aug 2025 09:08:11 GMT | Critical SSH Vulnerabilities Are Exposing Enterprise Networks: And Patching Still Isn’t Keeping Up | cybrNK | [Read More](https://medium.com/p/4bc37b49c35f) |
 | Fri, 15 Aug 2025 09:08:06 GMT | The Rise of Ransomware-as-a-Service Cybercrime Goes Corporate | Land2Cyber | [Read More](https://medium.com/p/3769bd0a2675) |
-| Fri, 15 Aug 2025 09:04:13 GMT | API Security Reality Check: What Years of Securing Financial APIs Taught Me | Christian Dussol | [Read More](https://medium.com/p/1868bd95a893) |
-| Fri, 15 Aug 2025 09:02:14 GMT | The Day Justice Froze | O. J. Okpabi | [Read More](https://medium.com/p/5638563d01ab) |
-| Fri, 15 Aug 2025 09:01:52 GMT | How to Build a Home Even the Devil Himself Can’t Shake | CatchUpWith NAS | [Read More](https://medium.com/p/27501de3e219) |
-| Fri, 15 Aug 2025 09:00:50 GMT | My OSCP Journey: One Month to Go and Still Learning Every Day | Sonic | [Read More](https://medium.com/p/13608eaae9e4) |
-| Fri, 15 Aug 2025 08:58:51 GMT | From Lagos With Trust: Inside The SilverTerrier Scam | O. J. Okpabi | [Read More](https://medium.com/p/6f9efad030ab) |
-| Fri, 15 Aug 2025 08:58:06 GMT | LetsDefend SOC Alerts - SOC 142- Event ID: 89 Walkthrough | Alex Idicula Mathews | [Read More](https://medium.com/p/dd07c2e0132c) |
