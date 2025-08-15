@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 21:34:06 GMT | KYBS CTF v1 2025 (WEB Security) | KyubiSec | [Read More](https://medium.com/p/7a2328f97c55) |
+| Fri, 15 Aug 2025 21:20:05 GMT | Day 46 — Regex + YARA: Obfuscation Hunting Across File Formats | Jinay | [Read More](https://medium.com/p/54c587286377) |
 | Fri, 15 Aug 2025 20:57:29 GMT | The ‘Prove You’re Human’ Scam That Emptied My Friend’s Wallet | TheOptimizationKing | [Read More](https://medium.com/p/640c2b46b6db) |
 | Fri, 15 Aug 2025 20:55:17 GMT | How We Evaluate AI Vendors for Financial Systems (The Framework That Saved Us $2M) | Shachar Solomon | [Read More](https://medium.com/p/186cd5c64952) |
 | Fri, 15 Aug 2025 20:50:22 GMT | The AI Security Audit That Scared Our CISO (And Changed Everything About Our AI Strategy) | Shachar Solomon | [Read More](https://medium.com/p/f09cc715f144) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 14:38:36 GMT | “Day 12: The Rate Limit Paradox — How I Weaponized API Protections for a $500 DoS Bug” | Aman Sharma | [Read More](https://medium.com/p/497fa5f8fe45) |
 | Fri, 15 Aug 2025 14:29:51 GMT | Why You Can Trust HTTPS: Demystifying SSL | Prakash Verma | [Read More](https://medium.com/p/513db955c98f) |
 | Fri, 15 Aug 2025 14:25:38 GMT | Analyzing Windows Sysmon Log with Python | Kiran Adhikari | [Read More](https://medium.com/p/35d84be2bf4e) |
-| Fri, 15 Aug 2025 14:23:05 GMT | How To Safeguard Your IP: A Practical Guide for Entrepreneurs & Innovators | Diana - Digital Growth Strategist | [Read More](https://medium.com/p/f43fa4ade783) |
-| Fri, 15 Aug 2025 14:19:21 GMT | Unlocking Cybersecurity: Your Guide to Hacking, VMs, Linux, and Networking | Muhammad Afzal n | [Read More](https://medium.com/p/c27d2448c46f) |
