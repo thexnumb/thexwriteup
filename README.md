@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 22:29:50 GMT | When Hackers Go Full Drama Mode | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/8afec91e448e) |
+| Fri, 15 Aug 2025 22:22:12 GMT | Compiled vs. Interpreted Reverse Shells | Taulan Zauzanov | [Read More](https://medium.com/p/42d32ab25f08) |
+| Fri, 15 Aug 2025 22:21:21 GMT | Mengamankan Masa Depan dengan Cahaya | D. Husni Fahri Rizal | [Read More](https://medium.com/p/156d27640851) |
 | Fri, 15 Aug 2025 22:02:10 GMT | The Hidden World of Bug Bounty Scams | Symbionyman | [Read More](https://medium.com/p/797ad0f47676) |
 | Fri, 15 Aug 2025 21:58:29 GMT | Auth.Cool — Your All‑in‑One Identity Broker & Aggregator | Auth Cool | [Read More](https://medium.com/p/9c19c0b96ca1) |
 | Fri, 15 Aug 2025 21:57:58 GMT | Your SOC Is Broken — Here’s How AI Can Fix It | Cyber-AppSec | [Read More](https://medium.com/p/cb863d4d900a) |
@@ -74,6 +77,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 17:40:20 GMT | Critical SAP Code Injection Vulnerabilities in S/4HANA and SLT — CVSS 9.9 | José López | [Read More](https://medium.com/p/9b3b192e72fc) |
 | Fri, 15 Aug 2025 17:39:28 GMT | Bug Bounty: XSS Exploitation — From Alert Boxes to Full Control! | Rajkumar Kumawat | [Read More](https://medium.com/p/6530d83cafa6) |
 | Fri, 15 Aug 2025 17:33:50 GMT | DEF CON 33: Access Everywhere | tackvv | [Read More](https://medium.com/p/58bf08e502cb) |
+| Fri, 15 Aug 2025 17:33:39 GMT | Ionic Money Exploit | TrashPirate | [Read More](https://medium.com/p/e2b73b5482c6) |
 | Fri, 15 Aug 2025 17:32:12 GMT | PhantomCard: Advanced NFC Relay Malware Targeting Brazilian Mobile Banking Users | RealSec.io | [Read More](https://medium.com/p/04c023fedc27) |
 | Fri, 15 Aug 2025 17:25:14 GMT | Chaining Misconfigurations: From File Uploads to Account Takeover | Hamed Alvandy | [Read More](https://medium.com/p/6ed4ae03d8d1) |
 | Fri, 15 Aug 2025 17:23:59 GMT | CVE-2025–20265 and CVE-2025–20217: Cisco’s Firewall Flaws Open Doors to RCE and DoS | gm0 | [Read More](https://medium.com/p/48328fd17a36) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 15:21:56 GMT | Linux Challenge: OverTheWire Bandit (Level 0 — Level 10) | Aireides | [Read More](https://medium.com/p/0c0a650ed923) |
 | Fri, 15 Aug 2025 15:17:31 GMT | ‘The Uber Eats’ of Cybercrime. Dissecting the Attacks from OSINT to Selling Access in the Dark Web | Afwan Mulia Pratama | [Read More](https://medium.com/p/a4ea3b524229) |
 | Fri, 15 Aug 2025 15:11:08 GMT | A Delicate Balance of Fragility: Keeping Heart Whole | Clumsy_fellaaaaa | [Read More](https://medium.com/p/0f2ee1392438) |
-| Fri, 15 Aug 2025 15:06:32 GMT | FortiGate Kurulumu ve Uygulamalar | Ömer POLAT | [Read More](https://medium.com/p/36d27896b384) |
-| Fri, 15 Aug 2025 15:06:32 GMT | Top Noise-Canceling Headphones of 2025: Work, Travel, and Music Perfection | sana irshad | [Read More](https://medium.com/p/fe2d0651eb13) |
-| Fri, 15 Aug 2025 15:03:16 GMT | Trying Kali Linux and the Bandit wargame (Levels 0–10) | Kriztian Gerard Kim | [Read More](https://medium.com/p/9a4643fe46a2) |
-| Fri, 15 Aug 2025 15:01:52 GMT | The Digital Fortress: Understanding Cybersecurity in a Connected World | CapitalCoin | [Read More](https://medium.com/p/7376d26b1c12) |
