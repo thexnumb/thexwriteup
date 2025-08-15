@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 09:16:28 GMT | Which home security system should I buy? | Medium Articles | [Read More](https://medium.com/p/29bd29b9076a) |
+| Fri, 15 Aug 2025 09:12:10 GMT | How Mobile Patrol and Alarm Response Services Can Drastically Reduce Theft for Edmonton Businesses | Nimmi Xheikh | [Read More](https://medium.com/p/f78748814439) |
+| Fri, 15 Aug 2025 09:10:00 GMT | When The Phones Went Silent: Luxembourg’s Cyber Siege | O. J. Okpabi | [Read More](https://medium.com/p/bfd83786041c) |
+| Fri, 15 Aug 2025 09:08:11 GMT | Critical SSH Vulnerabilities Are Exposing Enterprise Networks: And Patching Still Isn’t Keeping Up | cybrNK | [Read More](https://medium.com/p/4bc37b49c35f) |
+| Fri, 15 Aug 2025 09:08:06 GMT | The Rise of Ransomware-as-a-Service Cybercrime Goes Corporate | Land2Cyber | [Read More](https://medium.com/p/3769bd0a2675) |
+| Fri, 15 Aug 2025 09:04:13 GMT | API Security Reality Check: What Years of Securing Financial APIs Taught Me | Christian Dussol | [Read More](https://medium.com/p/1868bd95a893) |
+| Fri, 15 Aug 2025 09:02:14 GMT | The Day Justice Froze | O. J. Okpabi | [Read More](https://medium.com/p/5638563d01ab) |
+| Fri, 15 Aug 2025 09:01:52 GMT | How to Build a Home Even the Devil Himself Can’t Shake | CatchUpWith NAS | [Read More](https://medium.com/p/27501de3e219) |
+| Fri, 15 Aug 2025 09:00:50 GMT | My OSCP Journey: One Month to Go and Still Learning Every Day | Sonic | [Read More](https://medium.com/p/13608eaae9e4) |
+| Fri, 15 Aug 2025 08:58:51 GMT | From Lagos With Trust: Inside The SilverTerrier Scam | O. J. Okpabi | [Read More](https://medium.com/p/6f9efad030ab) |
+| Fri, 15 Aug 2025 08:58:06 GMT | LetsDefend SOC Alerts - SOC 142- Event ID: 89 Walkthrough | Alex Idicula Mathews | [Read More](https://medium.com/p/dd07c2e0132c) |
+| Fri, 15 Aug 2025 08:55:02 GMT | Unmasking the Unseen — Zero-Click iOS Exploits in Predator Spyware.. | _Anirudh_ | [Read More](https://medium.com/p/0996684f579c) |
+| Fri, 15 Aug 2025 08:51:07 GMT | Can you find an issue in this PySpark code? | Shresth Shukla | [Read More](https://medium.com/p/728417ef2548) |
+| Fri, 15 Aug 2025 08:50:18 GMT | The Hidden Gaps in Microsoft’s New Linkable Token Identifier | Mehmet Ergene | [Read More](https://medium.com/p/87d7bb1919dc) |
+| Fri, 15 Aug 2025 08:48:25 GMT | Apple MDM Software — والحل for Device Management | Vantage MDM | [Read More](https://medium.com/p/d9c521ac6bce) |
 | Fri, 15 Aug 2025 08:38:24 GMT | TryHackMe Writeup : MilliSec.1.0 | Zahidli Pervin | [Read More](https://medium.com/p/de02a8c798fd) |
 | Fri, 15 Aug 2025 08:38:13 GMT | 10 Bug Bounty Tricks That $100K+ Hunters Guard Like Their Lives | Qasim Mahmood Khalid | [Read More](https://medium.com/p/f83f523f3828) |
 | Fri, 15 Aug 2025 08:32:25 GMT | OverTheWire Bandit Levels 0 to 10, a practical walkthrough | Zaiddan Sy | [Read More](https://medium.com/p/33e1d2b64b5e) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 04:51:25 GMT | The Windows Concept Journey — RDP File (*.rdp) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/638302a1e243) |
 | Fri, 15 Aug 2025 04:27:16 GMT | “Altoro Mutual Web” and “DVWA” for SQL injection CTF Writeup | Mario Barajas | [Read More](https://medium.com/p/93676b0545e1) |
 | Fri, 15 Aug 2025 04:21:35 GMT | CVE-2025–31560: Salon Booking System <= 10.11 – Authenticated Privilege Escalation | Revan A | [Read More](https://medium.com/p/625aeb91c71b) |
-| Fri, 15 Aug 2025 04:13:11 GMT | Is Latina Dating Safe for Online Dating? | Soledad Hernandez | [Read More](https://medium.com/p/752fc4873388) |
-| Fri, 15 Aug 2025 04:02:57 GMT | Day 32- MAN, LAN, WAN, WLAN for Absolute Beginners | unica 02 | [Read More](https://medium.com/p/e00e6b96d9c5) |
-| Fri, 15 Aug 2025 03:56:44 GMT | CTF Online Book Store 1.0 Writeup | Mario Barajas | [Read More](https://medium.com/p/ac797d18a484) |
-| Fri, 15 Aug 2025 03:55:29 GMT | Cybersecurity Talent Crunch: Why Demand for Experts Is Skyrocketing | Paran | [Read More](https://medium.com/p/eed5e7e4414c) |
-| Fri, 15 Aug 2025 03:51:03 GMT | Meawfy: Advanced File Search Engine | AbhirupKonwar | [Read More](https://medium.com/p/cf59aac8bad0) |
-| Fri, 15 Aug 2025 03:50:24 GMT | I Accidentally Downloaded a Malicious Extension in Cursor and Lost My Crypto | Code Coup | [Read More](https://medium.com/p/1ad62c0fe6b0) |
-| Fri, 15 Aug 2025 03:49:04 GMT | Workflow n8n Pertama: “Cyberpulse” | Zulfianarahmi | [Read More](https://medium.com/p/82d8c44c0d10) |
-| Fri, 15 Aug 2025 03:41:34 GMT | TCM Security PWPE: My Experience as the First Certified Holder in Thailand | Athiwat Tiprasaharn | [Read More](https://medium.com/p/1c4d97cde274) |
-| Fri, 15 Aug 2025 03:41:32 GMT | Installing SafeLine WAF on Ubuntu — From Setup to Dashboard | AerieWhole123 | [Read More](https://medium.com/p/6ec8d5dc9017) |
-| Fri, 15 Aug 2025 03:41:08 GMT | The Hidden Data Leaks Threatening Universities | umbraXsecure | [Read More](https://medium.com/p/871e3f847831) |
-| Fri, 15 Aug 2025 03:39:53 GMT | About me — Tochukwu Okonkwor | Tochukwu Okonkwor | [Read More](https://medium.com/p/aa0960fa2d02) |
-| Fri, 15 Aug 2025 03:05:47 GMT | Citrix NetScaler ADC/Gateway Session Token Leak — Patch Now or Risk a Breach | AerieWhole123 | [Read More](https://medium.com/p/ea4d25944217) |
-| Fri, 15 Aug 2025 02:20:39 GMT | TryHackMe — Password Attacks | Gorohvski | [Read More](https://medium.com/p/9892d4bb9422) |
-| Fri, 15 Aug 2025 02:18:35 GMT | ️ Kraford.com | Ivona Simic | [Read More](https://medium.com/p/fc819adddb8d) |
-| Fri, 15 Aug 2025 02:16:49 GMT | The New Age of Car Theft: How Computers Are Helping Criminals Steal Cars in Minutes | Internet Exposed | [Read More](https://medium.com/p/d616f2f7d892) |
