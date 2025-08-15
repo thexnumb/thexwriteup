@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 18:23:27 GMT | Crypto24 Ransomware: A Sophisticated EDR-Evasion Assault on Enterprise Giants. | eL Njas!™ | [Read More](https://medium.com/p/984a46f03621) |
+| Fri, 15 Aug 2025 18:21:00 GMT | Benefits of Installing a Wood Fence for Your Property | hector cruz | [Read More](https://medium.com/p/0af1d4e7378d) |
+| Fri, 15 Aug 2025 18:19:05 GMT | How I Stopped a Cloud Breach Before It Happened — Lessons for Securing AWS in 2025 | Khansa Rahim | [Read More](https://medium.com/p/8b74d0ca83b5) |
+| Fri, 15 Aug 2025 18:16:55 GMT | “MadeYouReset”: The HTTP/2 Denial-of-Service Flaw Shaking Web Servers | gm0 | [Read More](https://medium.com/p/a0c798f75bcf) |
+| Fri, 15 Aug 2025 18:16:01 GMT | ️ Introducing Threat Intelligence Enrichment — A Powerful Web-Based Threat Intelligence Tool | shresth paul | [Read More](https://medium.com/p/096184018a06) |
+| Fri, 15 Aug 2025 18:10:18 GMT | How to Earn from Apple’s ₹17.5 Crore Security Bounty Program | Likhoindustry | [Read More](https://medium.com/p/4271b7aed532) |
+| Fri, 15 Aug 2025 18:07:47 GMT | The Brand Trust Factor: Why Cybersecurity Is the New Brand Asset | Rafael Payumo | [Read More](https://medium.com/p/2c70645e50e1) |
+| Fri, 15 Aug 2025 18:07:05 GMT | NIST Cybersecurity Framework Made Simple: Beginner’s Guide to the 5 Key Steps | Aarushi Mishra | [Read More](https://medium.com/p/d6634bf54696) |
+| Fri, 15 Aug 2025 18:04:10 GMT | ️‍♂️Natas 6 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/f7f8f6077347) |
+| Fri, 15 Aug 2025 17:57:52 GMT | The AI Reality Check: Why Everyone’s Using AI for “Therapy” and “Companionship” | John Petty | [Read More](https://medium.com/p/7de25337cb21) |
+| Fri, 15 Aug 2025 17:47:28 GMT | CVE: API Keys in the URL Path | Nat Liu | [Read More](https://medium.com/p/6399c9e09287) |
+| Fri, 15 Aug 2025 17:40:20 GMT | Critical SAP Code Injection Vulnerabilities in S/4HANA and SLT — CVSS 9.9 | José López | [Read More](https://medium.com/p/9b3b192e72fc) |
 | Fri, 15 Aug 2025 17:39:28 GMT | Bug Bounty: XSS Exploitation — From Alert Boxes to Full Control! | Rajkumar Kumawat | [Read More](https://medium.com/p/6530d83cafa6) |
 | Fri, 15 Aug 2025 17:33:50 GMT | DEF CON 33: Access Everywhere | tackvv | [Read More](https://medium.com/p/58bf08e502cb) |
 | Fri, 15 Aug 2025 17:32:12 GMT | PhantomCard: Advanced NFC Relay Malware Targeting Brazilian Mobile Banking Users | RealSec.io | [Read More](https://medium.com/p/04c023fedc27) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 12:37:30 GMT | RBI’s .bank.in Mandate Could End One of India’s Biggest Online Scams | The UNFILTERED Draft | [Read More](https://medium.com/p/ac06de52bc06) |
 | Fri, 15 Aug 2025 12:36:29 GMT | SHIFTING LINES | Yash Sharma | [Read More](https://medium.com/p/82fbe92d86aa) |
 | Fri, 15 Aug 2025 12:32:07 GMT | DockerLabs Writeup — Bola (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/27d78d2c8d8b) |
-| Fri, 15 Aug 2025 12:29:00 GMT | Co je DDoS útok a jak se mu bránit? | Cyber Solution | [Read More](https://medium.com/p/30813587d72c) |
-| Fri, 15 Aug 2025 12:27:30 GMT | Types of Data Breach: A Simple Guide to Cybersecurity Threats | Timónofearth | [Read More](https://medium.com/p/0ccd9aa3887a) |
-| Fri, 15 Aug 2025 12:26:15 GMT | Federal Courts and Crypto Exchange Reeling from Massive Cyberattacks | Corey Jones | [Read More](https://medium.com/p/e58f972a2f27) |
-| Fri, 15 Aug 2025 12:25:17 GMT | - Newbie’s Process of Solving Bandit Labs Lvl. 0–10 | b0realii | [Read More](https://medium.com/p/a0402cc8c993) |
-| Fri, 15 Aug 2025 12:23:05 GMT | Admin Series: Fortifying Your Snowflake Account: A Strategic Guide to Prevent Data Exfiltration | Rajiv Gupta | [Read More](https://medium.com/p/953509665c13) |
-| Fri, 15 Aug 2025 12:21:45 GMT | How to Prevent Phishing Attacks in Organizations: A Complete Guide to Cyber Security Defense | Paul Meyer | [Read More](https://medium.com/p/8d99f58acb81) |
-| Fri, 15 Aug 2025 12:18:46 GMT | Fortify Your Info: Why Data Governance Matters More Than Ever | Fabio Pierre | [Read More](https://medium.com/p/43dfe1d28f0c) |
-| Fri, 15 Aug 2025 12:18:06 GMT | Building a Detection Lab That Fits in Your Laptop | Joseph Gitonga | [Read More](https://medium.com/p/552ed69a95c6) |
-| Fri, 15 Aug 2025 12:11:39 GMT | Best VPN for the Linux Operating System Parrot (Formerly Parrot Security OS) | Toufique | [Read More](https://medium.com/p/997130869863) |
-| Fri, 15 Aug 2025 12:05:41 GMT | Say Goodbye to Password Fatigue: OpenID Authentication Explained | Dennis Peter Munyao | [Read More](https://medium.com/p/d6e178d6854b) |
-| Fri, 15 Aug 2025 12:04:34 GMT | Siber Güvenlikte Yapay Zeka: Tehditler ve Fırsatlar | HÜSEYİN AYDIN | [Read More](https://medium.com/p/ea2374175d42) |
-| Fri, 15 Aug 2025 12:03:23 GMT | I Turned One XSS Into $4,000 in 48 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/4a80e8f79b30) |
