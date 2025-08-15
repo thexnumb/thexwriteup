@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 16:08:49 GMT | How I Turned an “Invisible” Header into a $$$ Bug Bounty! | Zoningxtr | [Read More](https://medium.com/p/9ce57f39c64b) |
+| Fri, 15 Aug 2025 16:07:32 GMT | Yes, my AI gadgets are useless, thanks for asking | Marco van Hurne | [Read More](https://medium.com/p/be8e00237716) |
+| Fri, 15 Aug 2025 15:59:50 GMT | Sneaky Slash: How a Japanese Character Powers a Clever Phishing Attack | Liran Nachman | [Read More](https://medium.com/p/55a2964c8b45) |
+| Fri, 15 Aug 2025 15:50:31 GMT | 24/7 Cyber Protection for the People You Love | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/aa6bdee50878) |
+| Fri, 15 Aug 2025 15:46:03 GMT | The Role of AI in Optimizing Database Queries | Rizqi Mulki | [Read More](https://medium.com/p/6f18141e090a) |
+| Fri, 15 Aug 2025 15:45:39 GMT | How Netflix Handles Database Scaling at Massive Scale | Rizqi Mulki | [Read More](https://medium.com/p/733ad9323e63) |
+| Fri, 15 Aug 2025 15:45:00 GMT | Battle-Tested Security Techniques from Big Tech | Rizqi Mulki | [Read More](https://medium.com/p/097d2f2f3a19) |
+| Fri, 15 Aug 2025 15:43:10 GMT | AI-Powered Social Engineering: The New Cybercrime Playbook | Aenosh Rajora | [Read More](https://medium.com/p/183f2dc0688e) |
 | Fri, 15 Aug 2025 15:41:44 GMT | A Beginner’s Journey: Basic Pentesting 2 Walkthrough (VulnHub) | SACHIN PV | [Read More](https://medium.com/p/2318377479ed) |
 | Fri, 15 Aug 2025 15:40:08 GMT | IoT Connect App Insecure Broadcast Receiver Exploit - MobileHackingLab | tinopreter | [Read More](https://medium.com/p/d90642d56499) |
+| Fri, 15 Aug 2025 15:35:38 GMT | Gemini AI | Dominick Zollinger | [Read More](https://medium.com/p/a51e36b2172c) |
 | Fri, 15 Aug 2025 15:32:45 GMT | Surfshark vs NordVPN vs ExpressVPN: Full 2025 Review & Ranking | Kelly Shephard | [Read More](https://medium.com/p/6b22a26d1969) |
 | Fri, 15 Aug 2025 15:21:56 GMT | Linux Challenge: OverTheWire Bandit (Level 0 — Level 10) | Aireides | [Read More](https://medium.com/p/0c0a650ed923) |
 | Fri, 15 Aug 2025 15:17:31 GMT | ‘The Uber Eats’ of Cybercrime. Dissecting the Attacks from OSINT to Selling Access in the Dark Web | Afwan Mulia Pratama | [Read More](https://medium.com/p/a4ea3b524229) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 10:40:15 GMT | A Day in the Life of Cheyanne Mallas: Managing a High-Stakes Cybersecurity Project | Cheyannemallaspa | [Read More](https://medium.com/p/99ab5eab436d) |
 | Fri, 15 Aug 2025 10:34:11 GMT | Specifications of the new US satellite video surveillance system | M Man | [Read More](https://medium.com/p/906a3c9f953a) |
 | Fri, 15 Aug 2025 10:32:17 GMT | How I Passed CRTP on the First Attempt | thesecguy | [Read More](https://medium.com/p/8a4683053a24) |
-| Fri, 15 Aug 2025 10:14:24 GMT | What is Bandit?: Beginner’s Walkthrough for Levels 0–10 | cahelonu | [Read More](https://medium.com/p/f5db0e235448) |
-| Fri, 15 Aug 2025 10:11:04 GMT | Finding Critical Security Flaws on Web Servers with Nessus | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/5e78ae61dbe7) |
-| Fri, 15 Aug 2025 10:11:00 GMT | How to Create a Portable Hacking Lab on Android with Termux | Kambetastephano | [Read More](https://medium.com/p/4de10fd9375a) |
-| Fri, 15 Aug 2025 10:09:16 GMT | Biohacked⚠️ | Sampath Manage | [Read More](https://medium.com/p/5f795d24fac8) |
-| Fri, 15 Aug 2025 10:08:22 GMT | Authentication Bypass - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/15fb12565a21) |
-| Fri, 15 Aug 2025 10:08:22 GMT | Authentication Bypass - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/b9cdd4c17077) |
-| Fri, 15 Aug 2025 10:03:42 GMT | A Quiet Place for All I Feel | Ashes and Echoes | [Read More](https://medium.com/p/da892eda5385) |
-| Fri, 15 Aug 2025 10:03:14 GMT | “MadeYouReset” and the Rise of HTTP/2 DoS: Four CVEs That Signal a Protocol Reckoning | gm0 | [Read More](https://medium.com/p/81f02d57e1c7) |
-| Fri, 15 Aug 2025 10:00:05 GMT | Heron | Heron-John.McConnell. | [Read More](https://medium.com/p/c58b7aefe69c) |
