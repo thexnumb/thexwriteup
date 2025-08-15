@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 10:11:04 GMT | Finding Critical Security Flaws on Web Servers with Nessus | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/5e78ae61dbe7) |
+| Fri, 15 Aug 2025 10:11:00 GMT | How to Create a Portable Hacking Lab on Android with Termux | Kambetastephano | [Read More](https://medium.com/p/4de10fd9375a) |
+| Fri, 15 Aug 2025 10:09:16 GMT | Biohacked⚠️ | Sampath Manage | [Read More](https://medium.com/p/5f795d24fac8) |
+| Fri, 15 Aug 2025 10:08:22 GMT | Authentication Bypass - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/15fb12565a21) |
+| Fri, 15 Aug 2025 10:08:22 GMT | Authentication Bypass - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/b9cdd4c17077) |
+| Fri, 15 Aug 2025 10:03:42 GMT | A Quiet Place for All I Feel | Ashes and Echoes | [Read More](https://medium.com/p/da892eda5385) |
+| Fri, 15 Aug 2025 10:03:14 GMT | “MadeYouReset” and the Rise of HTTP/2 DoS: Four CVEs That Signal a Protocol Reckoning | gm0 | [Read More](https://medium.com/p/81f02d57e1c7) |
+| Fri, 15 Aug 2025 10:00:05 GMT | Heron | Heron-John.McConnell. | [Read More](https://medium.com/p/c58b7aefe69c) |
+| Fri, 15 Aug 2025 09:57:35 GMT | Reality Reprogrammed: The Quantum Computing Dystopia We Can’t Avoid | Namir Sagheenanajar | [Read More](https://medium.com/p/84e797836aef) |
+| Fri, 15 Aug 2025 09:53:44 GMT | Meet ASA: Your New AI-Powered Security Teammate from Sublime Security | Dean | [Read More](https://medium.com/p/dfb2bc6b89a1) |
+| Fri, 15 Aug 2025 09:51:22 GMT | The QA Breath Test | Scott Sheppard | [Read More](https://medium.com/p/4e0acbd29436) |
+| Fri, 15 Aug 2025 09:51:05 GMT | Building a Secure Flask Authentication System: A Production-Ready Approach | Mohamed Gebril | [Read More](https://medium.com/p/b1c9b698f41b) |
+| Fri, 15 Aug 2025 09:47:45 GMT | SaaS Environment Control: Who Really Owns Your Cloud Security? | Evgeny Ermakov | [Read More](https://medium.com/p/d4bde5e93ca6) |
+| Fri, 15 Aug 2025 09:43:40 GMT | Bug Bounty Hunting: JWT Vulnerabilities Deeply Explained (Live Step-by-Step Practical) | Shaikh Minhaz | [Read More](https://medium.com/p/69934e520dee) |
 | Fri, 15 Aug 2025 09:41:23 GMT | CYBERDEFENDERS XWorm Lab | Habibecanan | [Read More](https://medium.com/p/2b7b72810980) |
 | Fri, 15 Aug 2025 09:33:58 GMT | ⚔️ “How to Predict and Prevent Cyber Attacks with Threat Modelling” | Furkanctiner | [Read More](https://medium.com/p/3ff56f2e0e40) |
 | Fri, 15 Aug 2025 09:29:17 GMT | Your Digital Compass: Navigating the World of Hacking, VMs, Linux, and Networking | Adityanarayanan A S | [Read More](https://medium.com/p/29459b37944e) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 06:15:54 GMT | The Rise of AI-Powered Cyber Attacks — and How Adaptive Defense Will Win the Race | Prewin Thomas | [Read More](https://medium.com/p/f200bbda4854) |
 | Fri, 15 Aug 2025 06:04:05 GMT | How SQLMap Turns Hours of Database Hacking Into a 5-Minute Job in 2025 | Sajjad Hussain | [Read More](https://medium.com/p/91c000746bc4) |
 | Fri, 15 Aug 2025 06:01:33 GMT | The Top Tech Trends of 2025: What’s Shaping Our Digital Future? | Gaurav Garkoti | [Read More](https://medium.com/p/d3a097bbfda2) |
-| Fri, 15 Aug 2025 06:00:47 GMT | Today’s Top Cyber Intelligence Highlights — Aug 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/22cf258b6069) |
-| Fri, 15 Aug 2025 05:55:41 GMT | What is a Phishing Attack [Definitive Guide 2025] | Hamza Hanif | [Read More](https://medium.com/p/93738a0543c7) |
-| Fri, 15 Aug 2025 05:52:35 GMT | How to Fix 502 Bad Gateway Error in WordPress (Step-by-Step Guide) | Ranjan kumar | [Read More](https://medium.com/p/cfbff6864ed1) |
-| Fri, 15 Aug 2025 05:52:32 GMT | Shadow AI: The Rogue Intern Running Your Business | Rachid Abadli | [Read More](https://medium.com/p/4d22821b46c2) |
-| Fri, 15 Aug 2025 05:48:20 GMT | Farewell to Hot Wallet Anxiety: Why a Military-Grade EAL6+ Hardware Wallet is the Only Path to… | Digital Shield Offcial | [Read More](https://medium.com/p/a5513759baea) |
-| Fri, 15 Aug 2025 05:47:06 GMT | Network Log Analysis Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/429940e6776d) |
-| Fri, 15 Aug 2025 05:44:53 GMT | Stop Guessing — How ScanQLi Finds SQL Injection Holes Before Hackers Do in 2025 | Sajjad Hussain | [Read More](https://medium.com/p/4d011852934b) |
-| Fri, 15 Aug 2025 05:41:06 GMT | Building Trust in the Digital Age — Our Commitment to Integrity | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/27089d2a5f84) |
-| Fri, 15 Aug 2025 05:38:41 GMT | I Let a Hacker ‘Phish’ My Family for a Week | Aj | [Read More](https://medium.com/p/49f03cc43371) |
-| Fri, 15 Aug 2025 05:37:04 GMT | I’ve Heard “Be Strong” My Whole Life | Ink Within | [Read More](https://medium.com/p/302a3941aae4) |
-| Fri, 15 Aug 2025 05:36:49 GMT | Building Trust in the Digital Era: Why Hello Future Technologies Stands Apart | Muhammad Saad Jalil | [Read More](https://medium.com/p/3ad7dada60df) |
-| Fri, 15 Aug 2025 05:22:58 GMT | Brisbane Security Screens | Brisbane Security Screens | [Read More](https://medium.com/p/b01a98a3ec43) |
-| Fri, 15 Aug 2025 05:21:38 GMT | MadeYouReset: When HTTP/2 Turns on Itself | Paritosh | [Read More](https://medium.com/p/18d7da401137) |
-| Fri, 15 Aug 2025 05:20:57 GMT | What is a Quantum Computer? Unlocking the Future of Computing | Bobby Andrews | [Read More](https://medium.com/p/3b96e91c2b11) |
