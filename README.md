@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 19:07:39 GMT | Are You Confused Yet? | Armor | [Read More](https://medium.com/p/4fdb0a627d3c) |
+| Fri, 15 Aug 2025 19:03:59 GMT | 2025: CompTIA Still Relevant? | Miguel Norberto | [Read More](https://medium.com/p/a50086231da0) |
+| Fri, 15 Aug 2025 19:02:24 GMT | The Day a Null Byte Outsmarted an XSS Filter | Rehan Ansari | [Read More](https://medium.com/p/af07dbc0902b) |
+| Fri, 15 Aug 2025 18:46:36 GMT | MITRE ATT&CK Framework for Beginners: How It Works and How It Differs from NIST CSF | Aarushi Mishra | [Read More](https://medium.com/p/463b1bc62b8d) |
+| Fri, 15 Aug 2025 18:44:30 GMT | How to Build an OT Security Awareness Program That Actually Works | Cyberkech | [Read More](https://medium.com/p/1c970047efff) |
+| Fri, 15 Aug 2025 18:42:10 GMT | Plesk in 2025 — The All-in-One Hosting Control Panel That Might Just Replace Everything Else | Hugo Valters | [Read More](https://medium.com/p/085a64b66015) |
+| Fri, 15 Aug 2025 18:40:46 GMT | Advancing Blockchain Security and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/653a866e5b86) |
+| Fri, 15 Aug 2025 18:38:54 GMT | Advancing Blockchain Security and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/2da4aa2998f4) |
+| Fri, 15 Aug 2025 18:37:04 GMT | Advancing Blockchain Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/cf79345f3f8c) |
+| Fri, 15 Aug 2025 18:35:15 GMT | Advancing Blockchain Security and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/348e2283ce28) |
+| Fri, 15 Aug 2025 18:33:51 GMT | From Evidence to Enterprise security: My journey through three cybersecurity mini projects | shrimali senevirathna | [Read More](https://medium.com/p/a9d9232cf375) |
+| Fri, 15 Aug 2025 18:33:29 GMT | Advancing Blockchain Security and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/80a83acf1ec4) |
 | Fri, 15 Aug 2025 18:23:27 GMT | Crypto24 Ransomware: A Sophisticated EDR-Evasion Assault on Enterprise Giants. | eL Njas!™ | [Read More](https://medium.com/p/984a46f03621) |
 | Fri, 15 Aug 2025 18:21:00 GMT | Benefits of Installing a Wood Fence for Your Property | hector cruz | [Read More](https://medium.com/p/0af1d4e7378d) |
 | Fri, 15 Aug 2025 18:19:05 GMT | How I Stopped a Cloud Breach Before It Happened — Lessons for Securing AWS in 2025 | Khansa Rahim | [Read More](https://medium.com/p/8b74d0ca83b5) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 13:24:25 GMT | Reflections: What You Learn by Doing | Anezaneo | [Read More](https://medium.com/p/2999246792f3) |
 | Fri, 15 Aug 2025 13:18:14 GMT | The Rise of AI-Driven IT Operations (AIOps) | InByte | [Read More](https://medium.com/p/bf86be6ad6fb) |
 | Fri, 15 Aug 2025 13:10:35 GMT | MCP Vulnerabilities Every Developer Should Know | Insight Hub | [Read More](https://medium.com/p/0f5354c07efa) |
-| Fri, 15 Aug 2025 13:04:32 GMT | Corridor - TryHackMe | AnIkEt GuPtA | [Read More](https://medium.com/p/d5e45eb6eccf) |
-| Fri, 15 Aug 2025 13:00:36 GMT | Welcome Autonomous SOC | Simbian.ai | [Read More](https://medium.com/p/b435190ae7b6) |
-| Fri, 15 Aug 2025 12:58:11 GMT | Securing the Configuration of Kubernetes Cluster Components | Giant Swarm | [Read More](https://medium.com/p/d2fddfaa4d6c) |
-| Fri, 15 Aug 2025 12:56:01 GMT | Cron Wild Cards Privilege Escalation (Linux Privilege Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/40f5fe084c8e) |
-| Fri, 15 Aug 2025 12:50:15 GMT | Why AI Copilots Are the New Security Theater: The Case for True Autonomous Defense | Simbian.ai | [Read More](https://medium.com/p/efd35be12c48) |
-| Fri, 15 Aug 2025 12:48:34 GMT | Managing SSL Certificates the Easy Way in Kubernetes | Sowmya | [Read More](https://medium.com/p/f19de2f60ed6) |
-| Fri, 15 Aug 2025 12:40:04 GMT | Cisco ISE Guest Portal: Fixing Redirection Issues with a Public FQDN and Let’s Encrypt | Teymur Aghayev | [Read More](https://medium.com/p/028a8321a331) |
-| Fri, 15 Aug 2025 12:37:46 GMT | El bug no rompe el sistema, revela su verdadera forma | Gorka | [Read More](https://medium.com/p/b763831a5398) |
-| Fri, 15 Aug 2025 12:37:44 GMT | A Better Browser: Brave — Speed, Privacy, and the Future of Web Browsing | ToufiQ | [Read More](https://medium.com/p/04f00918bfb9) |
-| Fri, 15 Aug 2025 12:37:30 GMT | RBI’s .bank.in Mandate Could End One of India’s Biggest Online Scams | The UNFILTERED Draft | [Read More](https://medium.com/p/ac06de52bc06) |
-| Fri, 15 Aug 2025 12:36:29 GMT | SHIFTING LINES | Yash Sharma | [Read More](https://medium.com/p/82fbe92d86aa) |
-| Fri, 15 Aug 2025 12:32:07 GMT | DockerLabs Writeup — Bola (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/27d78d2c8d8b) |
