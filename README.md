@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 23:37:26 GMT | No More Passwords? The Truth About Passkeys Explained | Paritosh | [Read More](https://medium.com/p/cc4afaa3ab78) |
+| Fri, 15 Aug 2025 23:30:06 GMT | What I Learned About Cybersecurity After Getting Hacked | Lisa Musser | [Read More](https://medium.com/p/00ad17a50042) |
 | Fri, 15 Aug 2025 23:01:59 GMT | 16 Billion Credentials Breach: A Silent Threat for Individuals and Enterprises | Stealseek | [Read More](https://medium.com/p/b6e8db40d137) |
 | Fri, 15 Aug 2025 22:53:48 GMT | The Last Straw: Why Cybersecurity Will Define Our Survival | Taulan Zauzanov | [Read More](https://medium.com/p/3185e6f58500) |
+| Fri, 15 Aug 2025 22:45:50 GMT | Network Intrusion Detection Home lab using Snort & SPARTA | Irele Uduokhai | [Read More](https://medium.com/p/282c2d171f7d) |
 | Fri, 15 Aug 2025 22:29:50 GMT | When Hackers Go Full Drama Mode | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/8afec91e448e) |
 | Fri, 15 Aug 2025 22:22:12 GMT | Compiled vs. Interpreted Reverse Shells | Taulan Zauzanov | [Read More](https://medium.com/p/42d32ab25f08) |
 | Fri, 15 Aug 2025 22:21:21 GMT | Mengamankan Masa Depan dengan Cahaya | D. Husni Fahri Rizal | [Read More](https://medium.com/p/156d27640851) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 15:43:10 GMT | AI-Powered Social Engineering: The New Cybercrime Playbook | Aenosh Rajora | [Read More](https://medium.com/p/183f2dc0688e) |
 | Fri, 15 Aug 2025 15:41:44 GMT | A Beginner’s Journey: Basic Pentesting 2 Walkthrough (VulnHub) | SACHIN PV | [Read More](https://medium.com/p/2318377479ed) |
 | Fri, 15 Aug 2025 15:40:08 GMT | IoT Connect App Insecure Broadcast Receiver Exploit - MobileHackingLab | tinopreter | [Read More](https://medium.com/p/d90642d56499) |
-| Fri, 15 Aug 2025 15:35:38 GMT | Gemini AI | Dominick Zollinger | [Read More](https://medium.com/p/a51e36b2172c) |
-| Fri, 15 Aug 2025 15:32:45 GMT | Surfshark vs NordVPN vs ExpressVPN: Full 2025 Review & Ranking | Kelly Shephard | [Read More](https://medium.com/p/6b22a26d1969) |
-| Fri, 15 Aug 2025 15:21:56 GMT | Linux Challenge: OverTheWire Bandit (Level 0 — Level 10) | Aireides | [Read More](https://medium.com/p/0c0a650ed923) |
