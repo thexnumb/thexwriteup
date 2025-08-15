@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 15:41:44 GMT | A Beginner’s Journey: Basic Pentesting 2 Walkthrough (VulnHub) | SACHIN PV | [Read More](https://medium.com/p/2318377479ed) |
+| Fri, 15 Aug 2025 15:40:08 GMT | IoT Connect App Insecure Broadcast Receiver Exploit - MobileHackingLab | tinopreter | [Read More](https://medium.com/p/d90642d56499) |
+| Fri, 15 Aug 2025 15:32:45 GMT | Surfshark vs NordVPN vs ExpressVPN: Full 2025 Review & Ranking | Kelly Shephard | [Read More](https://medium.com/p/6b22a26d1969) |
+| Fri, 15 Aug 2025 15:21:56 GMT | Linux Challenge: OverTheWire Bandit (Level 0 — Level 10) | Aireides | [Read More](https://medium.com/p/0c0a650ed923) |
 | Fri, 15 Aug 2025 15:17:31 GMT | ‘The Uber Eats’ of Cybercrime. Dissecting the Attacks from OSINT to Selling Access in the Dark Web | Afwan Mulia Pratama | [Read More](https://medium.com/p/a4ea3b524229) |
 | Fri, 15 Aug 2025 15:11:08 GMT | A Delicate Balance of Fragility: Keeping Heart Whole | Clumsy_fellaaaaa | [Read More](https://medium.com/p/0f2ee1392438) |
 | Fri, 15 Aug 2025 15:06:32 GMT | FortiGate Kurulumu ve Uygulamalar | Ömer POLAT | [Read More](https://medium.com/p/36d27896b384) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 10:03:42 GMT | A Quiet Place for All I Feel | Ashes and Echoes | [Read More](https://medium.com/p/da892eda5385) |
 | Fri, 15 Aug 2025 10:03:14 GMT | “MadeYouReset” and the Rise of HTTP/2 DoS: Four CVEs That Signal a Protocol Reckoning | gm0 | [Read More](https://medium.com/p/81f02d57e1c7) |
 | Fri, 15 Aug 2025 10:00:05 GMT | Heron | Heron-John.McConnell. | [Read More](https://medium.com/p/c58b7aefe69c) |
-| Fri, 15 Aug 2025 09:57:35 GMT | Reality Reprogrammed: The Quantum Computing Dystopia We Can’t Avoid | Namir Sagheenanajar | [Read More](https://medium.com/p/84e797836aef) |
-| Fri, 15 Aug 2025 09:53:44 GMT | Meet ASA: Your New AI-Powered Security Teammate from Sublime Security | Dean | [Read More](https://medium.com/p/dfb2bc6b89a1) |
-| Fri, 15 Aug 2025 09:51:22 GMT | The QA Breath Test | Scott Sheppard | [Read More](https://medium.com/p/4e0acbd29436) |
-| Fri, 15 Aug 2025 09:51:05 GMT | Building a Secure Flask Authentication System: A Production-Ready Approach | Mohamed Gebril | [Read More](https://medium.com/p/b1c9b698f41b) |
