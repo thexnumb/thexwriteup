@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 14:17:09 GMT | T1059 — Command and Scripting Interpreter: The Hacker’s Swiss Army Knife | MITRE Doggy | [Read More](https://medium.com/p/9c34062444b1) |
+| Fri, 15 Aug 2025 14:13:45 GMT | Microsoft’s August 2025 Patch Tuesday updates | IT_Engineer | [Read More](https://medium.com/p/306c736203da) |
+| Fri, 15 Aug 2025 14:10:01 GMT | [CyberDefenders ]- 3CX Supply Chain Lab Walkthrough | Yash Davare | [Read More](https://medium.com/p/2c3bdce14c51) |
+| Fri, 15 Aug 2025 14:10:01 GMT | SIEM Use Case Series Day 6: Detecting Communication to OSINT-Flagged Malicious URLs | NineTales | [Read More](https://medium.com/p/8d827097d82e) |
+| Fri, 15 Aug 2025 14:02:15 GMT | Breach in Plain Sight: How Steganography Is Being Used to Hide Cyberattacks in Everyday Files | Travis Ray Caverhill | [Read More](https://medium.com/p/739ac5657f56) |
+| Fri, 15 Aug 2025 14:01:51 GMT | Cyber Briefing: 2025–08–15 | CyberMaterial | [Read More](https://medium.com/p/a36bf029374c) |
+| Fri, 15 Aug 2025 13:59:48 GMT | Security by Design: A Cybersecurity Student’s Perspective | Syed Hyder Hassan | [Read More](https://medium.com/p/ea317289dd00) |
+| Fri, 15 Aug 2025 13:59:47 GMT | Scaling On-Prem Security at Palantir | Palantir | [Read More](https://medium.com/p/a333327d69a5) |
+| Fri, 15 Aug 2025 13:51:08 GMT | IDOR - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/76fd1b4df029) |
+| Fri, 15 Aug 2025 13:51:05 GMT | IDOR - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/5ea62f863a33) |
+| Fri, 15 Aug 2025 13:49:51 GMT | The Container Revolution: Why It’s Booming and How Cybersecurity is Keeping Up | Umair Baig | [Read More](https://medium.com/p/d95e3302ccdc) |
+| Fri, 15 Aug 2025 13:49:36 GMT | The $10 Cyber Weapon | Stephanie Agunu | [Read More](https://medium.com/p/a8fa1b8405b7) |
+| Fri, 15 Aug 2025 13:48:39 GMT | SIEM Use Case Series Day 5: Detecting Potential DDoS via Multi-IP Successful Logins on a Single… | NineTales | [Read More](https://medium.com/p/9cdda1ae875d) |
+| Fri, 15 Aug 2025 13:45:52 GMT | Hackviser — PostgreSQL COPY TO/FROM PROGRAM Authenticated Remote Code Execution (CVE-2019–9193)… | Dogukan İSPİRLİ | [Read More](https://medium.com/p/789a682a1bca) |
+| Fri, 15 Aug 2025 13:38:56 GMT | PyShield-Secure: The Python Library That Keeps Your Secrets Truly Secret | Mohamed.cybersec | [Read More](https://medium.com/p/38f116fcddcb) |
 | Fri, 15 Aug 2025 13:30:24 GMT | How I Ended Up Doing a ₹45,901.53 Pen-Test After Thinking the Client Was Just Talking | Nitin yadav | [Read More](https://medium.com/p/d2c9f139943d) |
 | Fri, 15 Aug 2025 13:29:41 GMT | Unified Kill Chain — TryHackMe Wallkthrough | Genrunic | [Read More](https://medium.com/p/427531ea45e1) |
 | Fri, 15 Aug 2025 13:27:13 GMT | The Deepfake Wars: How AI Just Hit 98% Accuracy in Spotting Fake Videos (And Why That Both Excites… | Mareh Agoreyo | [Read More](https://medium.com/p/1811a8238637) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 09:00:50 GMT | My OSCP Journey: One Month to Go and Still Learning Every Day | Sonic | [Read More](https://medium.com/p/13608eaae9e4) |
 | Fri, 15 Aug 2025 08:58:51 GMT | From Lagos With Trust: Inside The SilverTerrier Scam | O. J. Okpabi | [Read More](https://medium.com/p/6f9efad030ab) |
 | Fri, 15 Aug 2025 08:58:06 GMT | LetsDefend SOC Alerts - SOC 142- Event ID: 89 Walkthrough | Alex Idicula Mathews | [Read More](https://medium.com/p/dd07c2e0132c) |
-| Fri, 15 Aug 2025 08:55:02 GMT | Unmasking the Unseen — Zero-Click iOS Exploits in Predator Spyware.. | _Anirudh_ | [Read More](https://medium.com/p/0996684f579c) |
-| Fri, 15 Aug 2025 08:51:07 GMT | Can you find an issue in this PySpark code? | Shresth Shukla | [Read More](https://medium.com/p/728417ef2548) |
-| Fri, 15 Aug 2025 08:50:18 GMT | The Hidden Gaps in Microsoft’s New Linkable Token Identifier | Mehmet Ergene | [Read More](https://medium.com/p/87d7bb1919dc) |
-| Fri, 15 Aug 2025 08:48:25 GMT | Apple MDM Software — والحل for Device Management | Vantage MDM | [Read More](https://medium.com/p/d9c521ac6bce) |
-| Fri, 15 Aug 2025 08:38:24 GMT | TryHackMe Writeup : MilliSec.1.0 | Zahidli Pervin | [Read More](https://medium.com/p/de02a8c798fd) |
-| Fri, 15 Aug 2025 08:38:13 GMT | 10 Bug Bounty Tricks That $100K+ Hunters Guard Like Their Lives | Qasim Mahmood Khalid | [Read More](https://medium.com/p/f83f523f3828) |
-| Fri, 15 Aug 2025 08:32:25 GMT | OverTheWire Bandit Levels 0 to 10, a practical walkthrough | Zaiddan Sy | [Read More](https://medium.com/p/33e1d2b64b5e) |
-| Fri, 15 Aug 2025 08:29:40 GMT | Panduan Pemula Nmap | Ginda Sundara | [Read More](https://medium.com/p/76034b9056c8) |
-| Fri, 15 Aug 2025 08:25:51 GMT | SOC Team Structure Best Practices for Scaling Cyber Defense | SecureSlate | [Read More](https://medium.com/p/bdafd7519dc8) |
-| Fri, 15 Aug 2025 08:24:37 GMT | How I Used Cache Poisoning to Bag a Bug Bounty | Zoningxtr | [Read More](https://medium.com/p/1365d19bf60f) |
-| Fri, 15 Aug 2025 08:22:31 GMT | Google just paid $250000 for one bug — And It Wasn’t Even Memory Corruption | ven coding | [Read More](https://medium.com/p/ce68ec594115) |
-| Fri, 15 Aug 2025 08:22:28 GMT | Install and Configure HashiCorp Vault — Step by Step | TTnguyen | [Read More](https://medium.com/p/abe6651a40f1) |
-| Fri, 15 Aug 2025 08:21:13 GMT | Building Trust in AI: How the NIST AI Risk Management Framework Helps Keep Us Safe | Seb AGUELE | [Read More](https://medium.com/p/3247f284e1b0) |
-| Fri, 15 Aug 2025 08:17:09 GMT | The World Doesn’t Want AI-Generated Content | Babar saad | [Read More](https://medium.com/p/71111a4c739a) |
-| Fri, 15 Aug 2025 08:13:37 GMT | TryHackMe - Systems as Attack Vectors - WriteUp | Axoloth | [Read More](https://medium.com/p/a7706069630b) |
