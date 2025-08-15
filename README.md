@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 06:31:47 GMT | How I Tested SMB Relay Attacks in My Lab | Zahidul Islam Ratul | [Read More](https://medium.com/p/f348617b71a6) |
+| Fri, 15 Aug 2025 06:29:17 GMT | Algoritmalar Zevklerimizi Şekillendiriyor mu? | AYŞE KIZILAY | [Read More](https://medium.com/p/fea23c567f0e) |
+| Fri, 15 Aug 2025 06:26:45 GMT | Yapay Zekânın Terfi Ettirdiği İnsanlar | AYŞE KIZILAY | [Read More](https://medium.com/p/37aad7fd4cd6) |
+| Fri, 15 Aug 2025 06:24:39 GMT | From Hours to Minutes: How EasySploit Turns Metasploit Attacks into Push-Button Operations in 2025 | Sajjad Hussain | [Read More](https://medium.com/p/ed89d87d6861) |
+| Fri, 15 Aug 2025 06:22:08 GMT | Üretici Olmak Sadece İçerik Üretmek Değil | AYŞE KIZILAY | [Read More](https://medium.com/p/22b619cdf261) |
+| Fri, 15 Aug 2025 06:17:29 GMT | How to Configure and Test SafeLine WAF on DVWA | Quella | [Read More](https://medium.com/p/268c944ae50c) |
+| Fri, 15 Aug 2025 06:15:54 GMT | The Rise of AI-Powered Cyber Attacks — and How Adaptive Defense Will Win the Race | Prewin Thomas | [Read More](https://medium.com/p/f200bbda4854) |
+| Fri, 15 Aug 2025 06:04:05 GMT | How SQLMap Turns Hours of Database Hacking Into a 5-Minute Job in 2025 | Sajjad Hussain | [Read More](https://medium.com/p/91c000746bc4) |
+| Fri, 15 Aug 2025 06:01:33 GMT | The Top Tech Trends of 2025: What’s Shaping Our Digital Future? | Gaurav Garkoti | [Read More](https://medium.com/p/d3a097bbfda2) |
+| Fri, 15 Aug 2025 06:00:47 GMT | Today’s Top Cyber Intelligence Highlights — Aug 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/22cf258b6069) |
+| Fri, 15 Aug 2025 05:55:41 GMT | What is a Phishing Attack [Definitive Guide 2025] | Hamza Hanif | [Read More](https://medium.com/p/93738a0543c7) |
+| Fri, 15 Aug 2025 05:52:35 GMT | How to Fix 502 Bad Gateway Error in WordPress (Step-by-Step Guide) | Ranjan kumar | [Read More](https://medium.com/p/cfbff6864ed1) |
+| Fri, 15 Aug 2025 05:52:32 GMT | Shadow AI: The Rogue Intern Running Your Business | Rachid Abadli | [Read More](https://medium.com/p/4d22821b46c2) |
+| Fri, 15 Aug 2025 05:48:20 GMT | Farewell to Hot Wallet Anxiety: Why a Military-Grade EAL6+ Hardware Wallet is the Only Path to… | Digital Shield Offcial | [Read More](https://medium.com/p/a5513759baea) |
+| Fri, 15 Aug 2025 05:47:06 GMT | Network Log Analysis Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/429940e6776d) |
 | Fri, 15 Aug 2025 05:44:53 GMT | Stop Guessing — How ScanQLi Finds SQL Injection Holes Before Hackers Do in 2025 | Sajjad Hussain | [Read More](https://medium.com/p/4d011852934b) |
 | Fri, 15 Aug 2025 05:41:06 GMT | Building Trust in the Digital Age — Our Commitment to Integrity | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/27089d2a5f84) |
 | Fri, 15 Aug 2025 05:38:41 GMT | I Let a Hacker ‘Phish’ My Family for a Week | Aj | [Read More](https://medium.com/p/49f03cc43371) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 19:15:05 GMT | Cybersecurity and Manufacturing: Securing Industrial Control Systems | Cyber Security Research | [Read More](https://medium.com/p/edd7a9fe5934) |
 | Thu, 14 Aug 2025 19:13:21 GMT | Warum Software-Updates wichtiger sind, als du denkst | Bjoern Groenewold | [Read More](https://medium.com/p/3cc73b31ef85) |
 | Thu, 14 Aug 2025 19:13:20 GMT | Cybersecurity and the Energy Sector: Protecting the Grid | Cyber Security Research | [Read More](https://medium.com/p/dfd1a3c65037) |
-| Thu, 14 Aug 2025 19:11:24 GMT | Cybersecurity in the Smart Home: Protecting Connected Devices | Cyber Security Research | [Read More](https://medium.com/p/36c06322bede) |
-| Thu, 14 Aug 2025 19:01:41 GMT | Three Hunts, No Bounties — and Why I’m Still Excited | Horizon | [Read More](https://medium.com/p/9714dc631a41) |
-| Thu, 14 Aug 2025 18:56:34 GMT | Digital Dust: The Cybersecurity Threat Nobody’s Talking About | Akshay Chauhan | [Read More](https://medium.com/p/7ac9ed92a426) |
-| Thu, 14 Aug 2025 18:54:24 GMT | The Need for Digital Twins in Cybersecurity: From Awareness to Anticipation | Juan Pablo Castro | [Read More](https://medium.com/p/2a29b53190dd) |
-| Thu, 14 Aug 2025 18:50:00 GMT | Hackable: 3 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/5d4d35b44562) |
-| Thu, 14 Aug 2025 18:38:23 GMT | OAuth Login Bypasses & Account Linking Chaos — A Bug Bounty Adventure | Sohan | [Read More](https://medium.com/p/bf0cf0b28d72) |
-| Thu, 14 Aug 2025 18:33:50 GMT | Authentication Demystified: Choosing Between Basic, Bearer, OAuth2, JWT & SSO (2025 Guide) | CodeTalks | [Read More](https://medium.com/p/56fa6a774fbe) |
-| Thu, 14 Aug 2025 18:32:29 GMT | ️ Satellite of Secrets: Finding Open Admin Consoles in IoT Dashboards | Iski | [Read More](https://medium.com/p/bc6b880edabd) |
-| Thu, 14 Aug 2025 18:24:56 GMT | Account Deletion Security Pitfalls — A Bug Bounty Case Study | Sohan | [Read More](https://medium.com/p/8ab8fe7ac8f5) |
-| Thu, 14 Aug 2025 18:24:50 GMT | Essential Guide to Vulnerability Management Tools: Strengthening Your Cybersecurity in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/49acb8f11adc) |
-| Thu, 14 Aug 2025 18:23:14 GMT | Reconnaissance and OSINT: The First Step in Cyber Attacks | Genrunic | [Read More](https://medium.com/p/1e070f440b84) |
-| Thu, 14 Aug 2025 18:21:04 GMT | Breaking Barriers: Becoming the First Nigerian to Pass the OSWP Exam in One Sitting | Paclab | [Read More](https://medium.com/p/7dcbd3c291a0) |
-| Thu, 14 Aug 2025 18:20:21 GMT | Transitioning From OffSec to Red Teaming | Ty Anderson | [Read More](https://medium.com/p/165fc2e968f8) |
-| Thu, 14 Aug 2025 18:11:29 GMT | My Experience Finding the Best Security Guard Company in Calgary | Support | [Read More](https://medium.com/p/7edc876f29b0) |
-| Thu, 14 Aug 2025 18:09:05 GMT | Wazuh and ELK Integration: Step-by-Step Setup of Security Monitoring | Aliyefhemin | [Read More](https://medium.com/p/61115bc095df) |
