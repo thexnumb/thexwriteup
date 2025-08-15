@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 10:40:15 GMT | A Day in the Life of Cheyanne Mallas: Managing a High-Stakes Cybersecurity Project | Cheyannemallaspa | [Read More](https://medium.com/p/99ab5eab436d) |
+| Fri, 15 Aug 2025 10:34:11 GMT | Specifications of the new US satellite video surveillance system | M Man | [Read More](https://medium.com/p/906a3c9f953a) |
+| Fri, 15 Aug 2025 10:32:17 GMT | How I Passed CRTP on the First Attempt | thesecguy | [Read More](https://medium.com/p/8a4683053a24) |
+| Fri, 15 Aug 2025 10:14:24 GMT | What is Bandit?: Beginner’s Walkthrough for Levels 0–10 | cahelonu | [Read More](https://medium.com/p/f5db0e235448) |
 | Fri, 15 Aug 2025 10:11:04 GMT | Finding Critical Security Flaws on Web Servers with Nessus | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/5e78ae61dbe7) |
 | Fri, 15 Aug 2025 10:11:00 GMT | How to Create a Portable Hacking Lab on Android with Termux | Kambetastephano | [Read More](https://medium.com/p/4de10fd9375a) |
 | Fri, 15 Aug 2025 10:09:16 GMT | Biohacked⚠️ | Sampath Manage | [Read More](https://medium.com/p/5f795d24fac8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 06:24:18 GMT | Veri Merkezcilik: Her Şeyi Ölçmek Zorunda mıyız? | AYŞE KIZILAY | [Read More](https://medium.com/p/161a4ddca59e) |
 | Fri, 15 Aug 2025 06:22:08 GMT | Üretici Olmak Sadece İçerik Üretmek Değil | AYŞE KIZILAY | [Read More](https://medium.com/p/22b619cdf261) |
 | Fri, 15 Aug 2025 06:17:29 GMT | How to Configure and Test SafeLine WAF on DVWA | Quella | [Read More](https://medium.com/p/268c944ae50c) |
-| Fri, 15 Aug 2025 06:16:25 GMT | Bankalar, Limanlar ve Depolarda Güvenlik: Desecure ile Bütünsel Koruma | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/ab4db03b9fba) |
-| Fri, 15 Aug 2025 06:15:54 GMT | The Rise of AI-Powered Cyber Attacks — and How Adaptive Defense Will Win the Race | Prewin Thomas | [Read More](https://medium.com/p/f200bbda4854) |
-| Fri, 15 Aug 2025 06:04:05 GMT | How SQLMap Turns Hours of Database Hacking Into a 5-Minute Job in 2025 | Sajjad Hussain | [Read More](https://medium.com/p/91c000746bc4) |
-| Fri, 15 Aug 2025 06:01:33 GMT | The Top Tech Trends of 2025: What’s Shaping Our Digital Future? | Gaurav Garkoti | [Read More](https://medium.com/p/d3a097bbfda2) |
