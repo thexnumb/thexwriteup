@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 05:44:53 GMT | Stop Guessing — How ScanQLi Finds SQL Injection Holes Before Hackers Do in 2025 | Sajjad Hussain | [Read More](https://medium.com/p/4d011852934b) |
+| Fri, 15 Aug 2025 05:41:06 GMT | Building Trust in the Digital Age — Our Commitment to Integrity | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/27089d2a5f84) |
+| Fri, 15 Aug 2025 05:38:41 GMT | I Let a Hacker ‘Phish’ My Family for a Week | Aj | [Read More](https://medium.com/p/49f03cc43371) |
+| Fri, 15 Aug 2025 05:37:04 GMT | I’ve Heard “Be Strong” My Whole Life | Ink Within | [Read More](https://medium.com/p/302a3941aae4) |
+| Fri, 15 Aug 2025 05:36:49 GMT | Building Trust in the Digital Era: Why Hello Future Technologies Stands Apart | Muhammad Saad Jalil | [Read More](https://medium.com/p/3ad7dada60df) |
+| Fri, 15 Aug 2025 05:22:58 GMT | Brisbane Security Screens | Brisbane Security Screens | [Read More](https://medium.com/p/b01a98a3ec43) |
+| Fri, 15 Aug 2025 05:21:38 GMT | MadeYouReset: When HTTP/2 Turns on Itself | Paritosh | [Read More](https://medium.com/p/18d7da401137) |
+| Fri, 15 Aug 2025 05:20:57 GMT | What is a Quantum Computer? Unlocking the Future of Computing | Bobby Andrews | [Read More](https://medium.com/p/3b96e91c2b11) |
+| Fri, 15 Aug 2025 05:16:24 GMT | Discover the Best Health Insurance in India for Your Family | Naazasmaa | [Read More](https://medium.com/p/c5db05692ac5) |
 | Fri, 15 Aug 2025 05:13:49 GMT | eJPT Zero to Hero: Web Application Penetration Testing CTF1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/fb0a44272e37) |
 | Fri, 15 Aug 2025 05:06:15 GMT | Deepfake Voice Scams in 2025: Mechanisms, Impact, and Defenses | Tedislava Vasileva | [Read More](https://medium.com/p/c01e9b0f76b8) |
 | Fri, 15 Aug 2025 04:51:25 GMT | The Windows Concept Journey — RDP File (*.rdp) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/638302a1e243) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 18:20:21 GMT | Transitioning From OffSec to Red Teaming | Ty Anderson | [Read More](https://medium.com/p/165fc2e968f8) |
 | Thu, 14 Aug 2025 18:11:29 GMT | My Experience Finding the Best Security Guard Company in Calgary | Support | [Read More](https://medium.com/p/7edc876f29b0) |
 | Thu, 14 Aug 2025 18:09:05 GMT | Wazuh and ELK Integration: Step-by-Step Setup of Security Monitoring | Aliyefhemin | [Read More](https://medium.com/p/61115bc095df) |
-| Thu, 14 Aug 2025 18:05:39 GMT | SOC 2 Type I vs Type II: A Complete Guide for Businesses in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/581fab24a05a) |
-| Thu, 14 Aug 2025 18:05:10 GMT | Deploying Data Loss Prevention using Microsoft Purview Pt 1 | Oludolamu Onimole | [Read More](https://medium.com/p/2a2eab30625f) |
-| Thu, 14 Aug 2025 18:00:21 GMT | Calgary Security Guard Company — Professional Security Services You Can Trust | Support | [Read More](https://medium.com/p/e990091d82e1) |
-| Thu, 14 Aug 2025 17:56:46 GMT | The Cybersecurity Data Deluge: Drowning in Information, Starved of Action | Patrick Lefler | [Read More](https://medium.com/p/e998bb173fcc) |
-| Thu, 14 Aug 2025 17:51:58 GMT | Cloud Encryption | Above The Firewall | [Read More](https://medium.com/p/518027d16e1b) |
-| Thu, 14 Aug 2025 17:49:42 GMT | MLH: GLOBAL HACKWEEK 8/08/25–8/14/25 CONCLUSION | Angelina Ceppaluni | [Read More](https://medium.com/p/3a699e1c5362) |
-| Thu, 14 Aug 2025 17:44:26 GMT | Bug Bounty Recon tool 2 | Prabhjeetsingh | [Read More](https://medium.com/p/ab71da332ac9) |
-| Thu, 14 Aug 2025 17:41:01 GMT | Cybersecurity in 2025: AI vs Human Experts | StackSnacker | [Read More](https://medium.com/p/0b99ee69a56f) |
-| Thu, 14 Aug 2025 17:40:47 GMT | Capitalism as a check on the Hegemony of Ruling Elites in the Information Society: A post modernist… | Swaraj De | [Read More](https://medium.com/p/022ce0587a90) |
