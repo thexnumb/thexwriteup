@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 11:28:59 GMT | 10 Golang Security Gotchas — And the Fixes That Actually Work | Gopher | [Read More](https://medium.com/p/e1cf4a1838de) |
+| Fri, 15 Aug 2025 11:24:50 GMT | Data Leakage | Ayush Parwal | [Read More](https://medium.com/p/5d7cfc955c8c) |
+| Fri, 15 Aug 2025 11:20:08 GMT | Prompt Injection: The Social Engineering of AI — and How to Defend Against It | Aramlmanukyan | [Read More](https://medium.com/p/7bcf256eac59) |
 | Fri, 15 Aug 2025 11:12:37 GMT | Cybersecurity Maturity: From Assessment to Action | Burak DÜNDAR | [Read More](https://medium.com/p/86fe9f1ca897) |
 | Fri, 15 Aug 2025 11:11:33 GMT | 5 Things You Didn’t Know Were Considered Sensitive Personal Info | Sarah Brown | [Read More](https://medium.com/p/688b5a6e5355) |
 | Fri, 15 Aug 2025 11:09:01 GMT | Crypto Crime Moves Offline: Lessons from the Soho “Torture Townhouse” Case for Founders and… | Ventus Partners | [Read More](https://medium.com/p/baed7f1809bf) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 06:49:08 GMT | The Fake Airdrop Tactic Explained | WalletKeeper | [Read More](https://medium.com/p/b886e8b5f315) |
 | Fri, 15 Aug 2025 06:46:51 GMT | Teknoloji İyiyse, Neden Kaygımız Artıyor? | AYŞE KIZILAY | [Read More](https://medium.com/p/fd9557ab1c1c) |
 | Fri, 15 Aug 2025 06:44:40 GMT | Ara Varlıklar: İnsan ile Makine Arasında Yeni Bir Zihin Sınıfı | AYŞE KIZILAY | [Read More](https://medium.com/p/f45601ef5333) |
-| Fri, 15 Aug 2025 06:42:18 GMT | Veri Takası: Konfor Karşılığı Mahremiyet | AYŞE KIZILAY | [Read More](https://medium.com/p/079ab4f8ad90) |
-| Fri, 15 Aug 2025 06:40:59 GMT | Dumping the content of a table, without Sql injection | Rajesh Sagar | [Read More](https://medium.com/p/2601480bcc1e) |
-| Fri, 15 Aug 2025 06:39:50 GMT | Why LOIC Still Sparks Controversy in 2025 — And How It Became the Internet’s Most Infamous… | Sajjad Hussain | [Read More](https://medium.com/p/900f7d52dcc5) |
