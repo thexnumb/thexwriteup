@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 23:01:59 GMT | 16 Billion Credentials Breach: A Silent Threat for Individuals and Enterprises | Stealseek | [Read More](https://medium.com/p/b6e8db40d137) |
+| Fri, 15 Aug 2025 22:53:48 GMT | The Last Straw: Why Cybersecurity Will Define Our Survival | Taulan Zauzanov | [Read More](https://medium.com/p/3185e6f58500) |
 | Fri, 15 Aug 2025 22:29:50 GMT | When Hackers Go Full Drama Mode | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/8afec91e448e) |
 | Fri, 15 Aug 2025 22:22:12 GMT | Compiled vs. Interpreted Reverse Shells | Taulan Zauzanov | [Read More](https://medium.com/p/42d32ab25f08) |
 | Fri, 15 Aug 2025 22:21:21 GMT | Mengamankan Masa Depan dengan Cahaya | D. Husni Fahri Rizal | [Read More](https://medium.com/p/156d27640851) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 15:35:38 GMT | Gemini AI | Dominick Zollinger | [Read More](https://medium.com/p/a51e36b2172c) |
 | Fri, 15 Aug 2025 15:32:45 GMT | Surfshark vs NordVPN vs ExpressVPN: Full 2025 Review & Ranking | Kelly Shephard | [Read More](https://medium.com/p/6b22a26d1969) |
 | Fri, 15 Aug 2025 15:21:56 GMT | Linux Challenge: OverTheWire Bandit (Level 0 — Level 10) | Aireides | [Read More](https://medium.com/p/0c0a650ed923) |
-| Fri, 15 Aug 2025 15:17:31 GMT | ‘The Uber Eats’ of Cybercrime. Dissecting the Attacks from OSINT to Selling Access in the Dark Web | Afwan Mulia Pratama | [Read More](https://medium.com/p/a4ea3b524229) |
-| Fri, 15 Aug 2025 15:11:08 GMT | A Delicate Balance of Fragility: Keeping Heart Whole | Clumsy_fellaaaaa | [Read More](https://medium.com/p/0f2ee1392438) |
