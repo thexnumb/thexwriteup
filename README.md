@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 20:12:40 GMT | ️‍♂️Natas 7 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/b1ff274ad230) |
+| Fri, 15 Aug 2025 19:59:57 GMT | 7 Ways to Prove Your Authorship Offline | Frederic Hutter | [Read More](https://medium.com/p/94361cb52e1b) |
+| Fri, 15 Aug 2025 19:53:48 GMT | HackTheBox: Mobile-APKey | Gba | [Read More](https://medium.com/p/e1dd0d434aeb) |
+| Fri, 15 Aug 2025 19:46:04 GMT | Day 45: Kotlin Multiplatform Security-Secure Data Storage & Encryption | Shalu Gupta | [Read More](https://medium.com/p/5ed3ef47d222) |
+| Fri, 15 Aug 2025 19:37:05 GMT | XSS: Um bypass interessante em limite de caracteres | Gabriel Jesus | [Read More](https://medium.com/p/180dbce1b1c3) |
+| Fri, 15 Aug 2025 19:29:50 GMT | Cybersecurity 101: Fundamentals, Career Roles, and the Threat Landscape | Aryan Siddhabathula | [Read More](https://medium.com/p/80962861fa79) |
 | Fri, 15 Aug 2025 19:21:04 GMT | Docker Run — How to Maximise Container Security according to the Best DevSecOps Practices | BecomeDevOps | [Read More](https://medium.com/p/184994ea6609) |
 | Fri, 15 Aug 2025 19:15:33 GMT | Which Tools Are Used to Check Password Strength? — A Complete Guide | Tahaazeemguestblogger | [Read More](https://medium.com/p/b623aa816363) |
 | Fri, 15 Aug 2025 19:12:33 GMT | Step-by-step Complete Setup Guide for Automotive Application Testing (AAOS Emulator) | Sandeep Vishwakarma | [Read More](https://medium.com/p/29ffcab3fda9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 13:51:05 GMT | IDOR - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/5ea62f863a33) |
 | Fri, 15 Aug 2025 13:49:51 GMT | The Container Revolution: Why It’s Booming and How Cybersecurity is Keeping Up | Umair Baig | [Read More](https://medium.com/p/d95e3302ccdc) |
 | Fri, 15 Aug 2025 13:49:36 GMT | The $10 Cyber Weapon | Stephanie Agunu | [Read More](https://medium.com/p/a8fa1b8405b7) |
-| Fri, 15 Aug 2025 13:48:39 GMT | SIEM Use Case Series Day 5: Detecting Potential DDoS via Multi-IP Successful Logins on a Single… | NineTales | [Read More](https://medium.com/p/9cdda1ae875d) |
-| Fri, 15 Aug 2025 13:45:52 GMT | Hackviser — PostgreSQL COPY TO/FROM PROGRAM Authenticated Remote Code Execution (CVE-2019–9193)… | Dogukan İSPİRLİ | [Read More](https://medium.com/p/789a682a1bca) |
-| Fri, 15 Aug 2025 13:38:56 GMT | PyShield-Secure: The Python Library That Keeps Your Secrets Truly Secret | Mohamed.cybersec | [Read More](https://medium.com/p/38f116fcddcb) |
-| Fri, 15 Aug 2025 13:30:24 GMT | How I Ended Up Doing a ₹45,901.53 Pen-Test After Thinking the Client Was Just Talking | Nitin yadav | [Read More](https://medium.com/p/d2c9f139943d) |
-| Fri, 15 Aug 2025 13:29:41 GMT | Unified Kill Chain — TryHackMe Wallkthrough | Genrunic | [Read More](https://medium.com/p/427531ea45e1) |
-| Fri, 15 Aug 2025 13:27:13 GMT | The Deepfake Wars: How AI Just Hit 98% Accuracy in Spotting Fake Videos (And Why That Both Excites… | Mareh Agoreyo | [Read More](https://medium.com/p/1811a8238637) |
