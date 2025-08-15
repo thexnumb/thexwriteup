@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 17:18:12 GMT | XSS Demo Lab | Xsigkillr | [Read More](https://medium.com/p/6c72c63fd83d) |
+| Fri, 15 Aug 2025 17:12:49 GMT | Understanding Hacking: Ethical vs. Malicious | Meenakshisuresh | [Read More](https://medium.com/p/8f717105dc13) |
+| Fri, 15 Aug 2025 17:04:16 GMT | The Problem of “Phantom Jobs” and Exploitative Interview Processes | Internet Exposed | [Read More](https://medium.com/p/bb11afa4934b) |
+| Fri, 15 Aug 2025 17:01:58 GMT | Reflected XSS Filter Bypass in Search Functionality | KAsh Security | [Read More](https://medium.com/p/be2d511e7621) |
+| Fri, 15 Aug 2025 17:00:33 GMT | XSS Night: A Journey Through 26 Unfiltered Vulnerabilities | N0aziXss | [Read More](https://medium.com/p/3a41afaf4404) |
+| Fri, 15 Aug 2025 16:59:25 GMT | Cyber Snack Day -8 | Anwar_Nainar | [Read More](https://medium.com/p/f38b1de75611) |
+| Fri, 15 Aug 2025 16:56:23 GMT | Cyber Snack Day -7 | Anwar_Nainar | [Read More](https://medium.com/p/4984d9b8ead8) |
+| Fri, 15 Aug 2025 16:55:17 GMT | Threats at a Glance: SOC Threat Intelligence Dashboard Case Study | Sarath B | [Read More](https://medium.com/p/cfca25f5c5eb) |
+| Fri, 15 Aug 2025 16:54:16 GMT | Cyber Snack Day -6 | Anwar_Nainar | [Read More](https://medium.com/p/143688b0e78e) |
+| Fri, 15 Aug 2025 16:46:28 GMT | Got MiAIlk? | Mike Saxton | [Read More](https://medium.com/p/c798149d50ad) |
+| Fri, 15 Aug 2025 16:43:03 GMT | Cyber Hygiène des grandes entreprises | Robin Boucher | [Read More](https://medium.com/p/f2c3da682794) |
 | Fri, 15 Aug 2025 16:42:52 GMT | Hacking Metasploitable 2 using Kali Linux on VirtualBox | Muamer Huseinovic | [Read More](https://medium.com/p/b0cdf61d198e) |
+| Fri, 15 Aug 2025 16:42:36 GMT | SecurityForce Webflow — Secure & Professional Websites | Jaden Morales | [Read More](https://medium.com/p/b9d2f1762c49) |
 | Fri, 15 Aug 2025 16:33:53 GMT | Bypassing CAPTCHA in bWAPP Using Burp Suite | Srimanta Mondal | [Read More](https://medium.com/p/7a46e0d35c1b) |
 | Fri, 15 Aug 2025 16:30:39 GMT | Top 5 Reasons to Choose Shef Solutions LLC for Cybersecurity Training | Shef Solutions LLC | [Read More](https://medium.com/p/ea1bfda5d4ee) |
 | Fri, 15 Aug 2025 16:28:17 GMT | Basic Server-Side Template Injection (SSTI) in ERB (Ruby) | Bash Overflow | [Read More](https://medium.com/p/78a3b80432b8) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 11:57:12 GMT | The Corix Partners Friday Reading List — August 15, 2025 | JC Gaillard | [Read More](https://medium.com/p/dac6449ab562) |
 | Fri, 15 Aug 2025 11:53:40 GMT | Cybersecurity Maturity & Audit Toolkit | Ajansistan Etsy | [Read More](https://medium.com/p/846ded50279f) |
 | Fri, 15 Aug 2025 11:42:34 GMT | ️‍♂️ Discover Hidden API Bugs Faster with PayloadMutator! | Shiv | [Read More](https://medium.com/p/fa0da80d2450) |
-| Fri, 15 Aug 2025 11:28:59 GMT | 10 Golang Security Gotchas — And the Fixes That Actually Work | Gopher | [Read More](https://medium.com/p/e1cf4a1838de) |
-| Fri, 15 Aug 2025 11:24:50 GMT | Data Leakage | Ayush Parwal | [Read More](https://medium.com/p/5d7cfc955c8c) |
-| Fri, 15 Aug 2025 11:20:08 GMT | Prompt Injection: The Social Engineering of AI — and How to Defend Against It | Aramlmanukyan | [Read More](https://medium.com/p/7bcf256eac59) |
-| Fri, 15 Aug 2025 11:12:37 GMT | Cybersecurity Maturity: From Assessment to Action | Burak DÜNDAR | [Read More](https://medium.com/p/86fe9f1ca897) |
-| Fri, 15 Aug 2025 11:11:33 GMT | 5 Things You Didn’t Know Were Considered Sensitive Personal Info | Sarah Brown | [Read More](https://medium.com/p/688b5a6e5355) |
-| Fri, 15 Aug 2025 11:09:01 GMT | Crypto Crime Moves Offline: Lessons from the Soho “Torture Townhouse” Case for Founders and… | Ventus Partners | [Read More](https://medium.com/p/baed7f1809bf) |
-| Fri, 15 Aug 2025 11:06:23 GMT | Web Fundamentals Series #2 : Robots.txt — The Gatekeeper of Your Website | Sulabh Prajapati | [Read More](https://medium.com/p/0f74ca47671f) |
-| Fri, 15 Aug 2025 11:05:17 GMT | An Introduction to Linux Navigation — OverTheWire’s Bandit Challenge | Tupperware | [Read More](https://medium.com/p/a2d0d79ba4a8) |
-| Fri, 15 Aug 2025 10:58:07 GMT | Analysis of the Current State of Penetration Testing Technology Development | PenligentAI | [Read More](https://medium.com/p/ffc396bd68bf) |
-| Fri, 15 Aug 2025 10:56:09 GMT | Web Fundamentals Series #1 : URL Explained in Detail | Sulabh Prajapati | [Read More](https://medium.com/p/da6d63c496a4) |
-| Fri, 15 Aug 2025 10:50:22 GMT | Certifications vs. Experience: What Matters Most in Defense Cybersecurity? | Brandon Dewater | [Read More](https://medium.com/p/6a5476685e5c) |
-| Fri, 15 Aug 2025 10:47:20 GMT | Day 3: Types of Cyberattacks | 0ccupi3R | [Read More](https://medium.com/p/f12419eb2d3d) |
