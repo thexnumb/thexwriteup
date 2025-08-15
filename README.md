@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 03:05:47 GMT | Citrix NetScaler ADC/Gateway Session Token Leak — Patch Now or Risk a Breach | AerieWhole123 | [Read More](https://medium.com/p/ea4d25944217) |
+| Fri, 15 Aug 2025 02:20:39 GMT | TryHackMe — Password Attacks | Gorohvski | [Read More](https://medium.com/p/9892d4bb9422) |
+| Fri, 15 Aug 2025 02:18:35 GMT | ️ Kraford.com | Ivona Simic | [Read More](https://medium.com/p/fc819adddb8d) |
+| Fri, 15 Aug 2025 02:16:49 GMT | The New Age of Car Theft: How Computers Are Helping Criminals Steal Cars in Minutes | Internet Exposed | [Read More](https://medium.com/p/d616f2f7d892) |
+| Fri, 15 Aug 2025 02:10:20 GMT | Understanding Onion, Dark Web Dynamics, Data Breach Risks, and Defense Strategies | Sabrina Zulfawa | [Read More](https://medium.com/p/b00b1ae08c5a) |
 | Fri, 15 Aug 2025 01:45:52 GMT | Serverless Malware Scanning on S3 with Amazon GuardDuty (and a Quarantine Flow) | Georgi_V | [Read More](https://medium.com/p/3412b528ec1c) |
 | Fri, 15 Aug 2025 01:38:50 GMT | Someone who loves you in your deepest shadows | Adha✨ | [Read More](https://medium.com/p/45b65be4b6e8) |
 | Fri, 15 Aug 2025 01:37:26 GMT | The War That Wasn’t Worth The Fight: How a Childhood of Silence Shaped a Lifetime of Struggle | Jen Marie | [Read More](https://medium.com/p/da7c01aa40a4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 16:57:01 GMT | Ransomware Boom: 49% Surge in H1 2025 | Taiyab Lokhandwala | [Read More](https://medium.com/p/db05ab0525aa) |
 | Thu, 14 Aug 2025 16:56:19 GMT | SMT2025 Special Lecture 2: A Practical Guide to Geolocation | Rivaldo Tampubolon | [Read More](https://medium.com/p/eae230776066) |
 | Thu, 14 Aug 2025 16:55:53 GMT | Why Hackers Don’t Hack Servers Anymore They Hack People | Khansa Rahim | [Read More](https://medium.com/p/4bfeb26632d1) |
-| Thu, 14 Aug 2025 16:50:49 GMT | SMT2025 Special Lecture 1: Knowing without Breaching | Rivaldo Tampubolon | [Read More](https://medium.com/p/61c7083be9e7) |
-| Thu, 14 Aug 2025 16:49:37 GMT | Return of the NAT: Preparing for the Retirement of Default Outbound Access with Private Subnets and… | Miguel Arcilla | [Read More](https://medium.com/p/0d9a4617739c) |
-| Thu, 14 Aug 2025 16:45:03 GMT | Change Your Passwords Now!!! 16 Billion Credentials Leaked In Biggest Data Breach of All Time? | Merwansky | [Read More](https://medium.com/p/cb37948ecac4) |
-| Thu, 14 Aug 2025 16:41:58 GMT | Harry Potter Aragog — Walkthrough | 0xSOS | [Read More](https://medium.com/p/749c7c9ec4de) |
-| Thu, 14 Aug 2025 16:41:14 GMT | The Privacy Paradox: Lessons from the Onion and the Batman | Yenni Theresia Zalukhu | [Read More](https://medium.com/p/c22a932874f9) |
