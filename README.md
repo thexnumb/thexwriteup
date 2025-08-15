@@ -12,10 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 07:07:57 GMT | The neglected side of web3 security | Extropy.IO | [Read More](https://medium.com/p/d92c4e5e71bd) |
+| Fri, 15 Aug 2025 07:01:59 GMT | Dijital Gölge: Biz Öldükten Sonra Dijital Varlıklarımız Ne Olacak? | AYŞE KIZILAY | [Read More](https://medium.com/p/0ba06b3788e2) |
+| Fri, 15 Aug 2025 07:01:52 GMT | From Manual Chaos to Automated Excellence: How High-Performing Teams Thrive with Fomerly HR | Fomerly HR | [Read More](https://medium.com/p/0234e4f79875) |
+| Fri, 15 Aug 2025 07:01:22 GMT | From ML to LLMs: AI Foundations Everyone Studying AI Should Know | Louis Cremen | [Read More](https://medium.com/p/df99bad3f0bb) |
+| Fri, 15 Aug 2025 07:01:00 GMT | Stop Guessing in Penetration Testing — The 2025 Tool That Actually Work ( the Surprising Power of… | Sajjad Hussain | [Read More](https://medium.com/p/4c5d542637d7) |
+| Fri, 15 Aug 2025 07:00:44 GMT | ***(<☆><☆>)*** | Dominick Zollinger | [Read More](https://medium.com/p/4ca85c521394) |
+| Fri, 15 Aug 2025 06:59:12 GMT | Benim Dijital İkizim, Benden Daha mı Akıllı Olacak? | AYŞE KIZILAY | [Read More](https://medium.com/p/a46ef100222a) |
+| Fri, 15 Aug 2025 06:57:09 GMT | One Click, Infinite Risk: How a Tiny Config Change in Cursor Could Hijack Your Machine | DataDrivenNews | [Read More](https://medium.com/p/fda67705482a) |
+| Fri, 15 Aug 2025 06:57:03 GMT | Kodun Vicdanı: Dijital Etik Neden Şimdi Her Zamankinden Daha Önemli? | AYŞE KIZILAY | [Read More](https://medium.com/p/963b1e821d36) |
+| Fri, 15 Aug 2025 06:54:13 GMT | Securing iOS Apps: Best Practices, Tools, and Techniques | Sergey Zhuravel | [Read More](https://medium.com/p/d17aa285b6ed) |
+| Fri, 15 Aug 2025 06:51:52 GMT | Yetkin Olmadan Yönetmek: Cahil Cesareti mi, Gizli Tehdit mi? | AYŞE KIZILAY | [Read More](https://medium.com/p/d513aa960bb6) |
+| Fri, 15 Aug 2025 06:51:17 GMT | Deploy SafeLine WAF with Docker — A Step-by-Step Guide | Quella | [Read More](https://medium.com/p/28c02df8c062) |
+| Fri, 15 Aug 2025 06:49:08 GMT | The Fake Airdrop Tactic Explained | WalletKeeper | [Read More](https://medium.com/p/b886e8b5f315) |
+| Fri, 15 Aug 2025 06:46:51 GMT | Teknoloji İyiyse, Neden Kaygımız Artıyor? | AYŞE KIZILAY | [Read More](https://medium.com/p/fd9557ab1c1c) |
+| Fri, 15 Aug 2025 06:42:18 GMT | Veri Takası: Konfor Karşılığı Mahremiyet | AYŞE KIZILAY | [Read More](https://medium.com/p/079ab4f8ad90) |
+| Fri, 15 Aug 2025 06:40:59 GMT | Dumping the content of a table, without Sql injection | Rajesh Sagar | [Read More](https://medium.com/p/2601480bcc1e) |
+| Fri, 15 Aug 2025 06:39:50 GMT | Why LOIC Still Sparks Controversy in 2025 — And How It Became the Internet’s Most Infamous… | Sajjad Hussain | [Read More](https://medium.com/p/900f7d52dcc5) |
+| Fri, 15 Aug 2025 06:34:11 GMT | 7 Signs You’re Ready to Be a Leader | Vijay Kumar Gupta | [Read More](https://medium.com/p/b3d91a181a17) |
+| Fri, 15 Aug 2025 06:32:45 GMT | Prisma Cloud by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/155f2e42b391) |
 | Fri, 15 Aug 2025 06:31:47 GMT | How I Tested SMB Relay Attacks in My Lab | Zahidul Islam Ratul | [Read More](https://medium.com/p/f348617b71a6) |
 | Fri, 15 Aug 2025 06:29:17 GMT | Algoritmalar Zevklerimizi Şekillendiriyor mu? | AYŞE KIZILAY | [Read More](https://medium.com/p/fea23c567f0e) |
 | Fri, 15 Aug 2025 06:26:45 GMT | Yapay Zekânın Terfi Ettirdiği İnsanlar | AYŞE KIZILAY | [Read More](https://medium.com/p/37aad7fd4cd6) |
 | Fri, 15 Aug 2025 06:24:39 GMT | From Hours to Minutes: How EasySploit Turns Metasploit Attacks into Push-Button Operations in 2025 | Sajjad Hussain | [Read More](https://medium.com/p/ed89d87d6861) |
+| Fri, 15 Aug 2025 06:24:18 GMT | Veri Merkezcilik: Her Şeyi Ölçmek Zorunda mıyız? | AYŞE KIZILAY | [Read More](https://medium.com/p/161a4ddca59e) |
 | Fri, 15 Aug 2025 06:22:08 GMT | Üretici Olmak Sadece İçerik Üretmek Değil | AYŞE KIZILAY | [Read More](https://medium.com/p/22b619cdf261) |
 | Fri, 15 Aug 2025 06:17:29 GMT | How to Configure and Test SafeLine WAF on DVWA | Quella | [Read More](https://medium.com/p/268c944ae50c) |
 | Fri, 15 Aug 2025 06:15:54 GMT | The Rise of AI-Powered Cyber Attacks — and How Adaptive Defense Will Win the Race | Prewin Thomas | [Read More](https://medium.com/p/f200bbda4854) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 20:29:01 GMT | Recon Methodology: JavaScript File Hunting | Marduk I Am | [Read More](https://medium.com/p/254127ecd211) |
 | Thu, 14 Aug 2025 20:26:17 GMT | MCP + VS Code: Assisted pentest on an HTB box — from install to first flag | Mr TriVe | [Read More](https://medium.com/p/cea7d688803c) |
 | Thu, 14 Aug 2025 20:22:41 GMT | Reverse engineering Authy: the open source method for exporting your 2FA tokens | Franck Reant | [Read More](https://medium.com/p/65a550c95b32) |
-| Thu, 14 Aug 2025 20:11:53 GMT | Sending Handles from Kernel Driver to Userland | S12 - 0x12Dark Development | [Read More](https://medium.com/p/24e581228ff7) |
-| Thu, 14 Aug 2025 20:01:43 GMT | “Tell me I’m not alone.” | paday∞n | [Read More](https://medium.com/p/2aa21e80b721) |
-| Thu, 14 Aug 2025 19:56:21 GMT | How Anyone Can Instantly Check Their Code for Security Using AI — No Programming Needed | AIAlchemist_Ab1r | [Read More](https://medium.com/p/f12aefeeeb2c) |
-| Thu, 14 Aug 2025 19:55:59 GMT | Breaking Barriers: First Nigerian to Pass the OSWP Exam in One Sitting | Jehovahseun Ezekiel ADEKANMI | [Read More](https://medium.com/p/6e9edbeec371) |
-| Thu, 14 Aug 2025 19:55:11 GMT | The Hidden Risks of Pacemakers: Understanding Their Vulnerabilities | Skhaynes | [Read More](https://medium.com/p/430358a0f5f0) |
-| Thu, 14 Aug 2025 19:43:56 GMT | Bulut Güvenliğinin 5 Temel Bileşeni | Hiranur Gemalmaz | [Read More](https://medium.com/p/702791dbd3a4) |
-| Thu, 14 Aug 2025 19:43:29 GMT | ☕How to Pass  the CCNA Exam on your  First Try (And How You Can prep for your next interview ) | Lucky ApeX | [Read More](https://medium.com/p/068f8bc1b3fc) |
-| Thu, 14 Aug 2025 19:28:45 GMT | Preventing XSS & CSRF Vulnerabilities in Web Applications | Rohit Dev | [Read More](https://medium.com/p/56a3245d3853) |
-| Thu, 14 Aug 2025 19:27:30 GMT | The New Frontier of AI: Opportunity, Risk, and the Race for Security | Azutech | [Read More](https://medium.com/p/3f9bc236da54) |
-| Thu, 14 Aug 2025 19:26:37 GMT | Cybersecurity for Remote Work: Securing the Distributed Workforce | Cyber Security Research | [Read More](https://medium.com/p/dd465a4fc3dc) |
-| Thu, 14 Aug 2025 19:23:46 GMT | Development teams that skip OWASP Top 10 training are essentially coding without a safety net. | Josh Welch | [Read More](https://medium.com/p/9ff2d1bebf2d) |
-| Thu, 14 Aug 2025 19:22:52 GMT | Cybersecurity in Space: Protecting Satellites and Spacecraft | Cyber Security Research | [Read More](https://medium.com/p/735043f3ed88) |
-| Thu, 14 Aug 2025 19:20:51 GMT | Cybersecurity and Social Media: Protecting User Data and Preventing Abuse | Cyber Security Research | [Read More](https://medium.com/p/6a74665787bd) |
-| Thu, 14 Aug 2025 19:18:51 GMT | Cybersecurity in Gaming: Protecting Players and Game Developers | Cyber Security Research | [Read More](https://medium.com/p/a60178c2078a) |
-| Thu, 14 Aug 2025 19:17:01 GMT | Cybersecurity and Supply Chain Security: Mitigating Third-Party Risks | Cyber Security Research | [Read More](https://medium.com/p/d6ec191ee042) |
-| Thu, 14 Aug 2025 19:16:55 GMT | Ultimate Source Code Recon Tools | AbhirupKonwar | [Read More](https://medium.com/p/206d5059fcfc) |
-| Thu, 14 Aug 2025 19:16:42 GMT | Beyond PCI and HIPAA: How Feroot Powers California Invasion of Privacy Act (CIPA) Compliance | Feroot Security | [Read More](https://medium.com/p/4984fffc6c6f) |
-| Thu, 14 Aug 2025 19:15:05 GMT | Cybersecurity and Manufacturing: Securing Industrial Control Systems | Cyber Security Research | [Read More](https://medium.com/p/edd7a9fe5934) |
-| Thu, 14 Aug 2025 19:13:21 GMT | Warum Software-Updates wichtiger sind, als du denkst | Bjoern Groenewold | [Read More](https://medium.com/p/3cc73b31ef85) |
-| Thu, 14 Aug 2025 19:13:20 GMT | Cybersecurity and the Energy Sector: Protecting the Grid | Cyber Security Research | [Read More](https://medium.com/p/dfd1a3c65037) |
