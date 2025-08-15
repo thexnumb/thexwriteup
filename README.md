@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 11:12:37 GMT | Cybersecurity Maturity: From Assessment to Action | Burak DÜNDAR | [Read More](https://medium.com/p/86fe9f1ca897) |
+| Fri, 15 Aug 2025 11:11:33 GMT | 5 Things You Didn’t Know Were Considered Sensitive Personal Info | Sarah Brown | [Read More](https://medium.com/p/688b5a6e5355) |
+| Fri, 15 Aug 2025 11:09:01 GMT | Crypto Crime Moves Offline: Lessons from the Soho “Torture Townhouse” Case for Founders and… | Ventus Partners | [Read More](https://medium.com/p/baed7f1809bf) |
+| Fri, 15 Aug 2025 11:06:23 GMT | Web Fundamentals Series #2 : Robots.txt — The Gatekeeper of Your Website | Sulabh Prajapati | [Read More](https://medium.com/p/0f74ca47671f) |
+| Fri, 15 Aug 2025 11:05:17 GMT | An Introduction to Linux Navigation — OverTheWire’s Bandit Challenge | Tupperware | [Read More](https://medium.com/p/a2d0d79ba4a8) |
+| Fri, 15 Aug 2025 10:58:07 GMT | Analysis of the Current State of Penetration Testing Technology Development | PenligentAI | [Read More](https://medium.com/p/ffc396bd68bf) |
+| Fri, 15 Aug 2025 10:56:09 GMT | Web Fundamentals Series #1 : URL Explained in Detail | Sulabh Prajapati | [Read More](https://medium.com/p/da6d63c496a4) |
+| Fri, 15 Aug 2025 10:50:22 GMT | Certifications vs. Experience: What Matters Most in Defense Cybersecurity? | Brandon Dewater | [Read More](https://medium.com/p/6a5476685e5c) |
+| Fri, 15 Aug 2025 10:47:20 GMT | Day 3: Types of Cyberattacks | 0ccupi3R | [Read More](https://medium.com/p/f12419eb2d3d) |
+| Fri, 15 Aug 2025 10:40:55 GMT | Securing Code Before It Ships: The Power of SAST and SCA in Modern DevOps | YOUSSEF CHAMRAH | [Read More](https://medium.com/p/650ab42eab1d) |
 | Fri, 15 Aug 2025 10:40:15 GMT | A Day in the Life of Cheyanne Mallas: Managing a High-Stakes Cybersecurity Project | Cheyannemallaspa | [Read More](https://medium.com/p/99ab5eab436d) |
 | Fri, 15 Aug 2025 10:34:11 GMT | Specifications of the new US satellite video surveillance system | M Man | [Read More](https://medium.com/p/906a3c9f953a) |
 | Fri, 15 Aug 2025 10:32:17 GMT | How I Passed CRTP on the First Attempt | thesecguy | [Read More](https://medium.com/p/8a4683053a24) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 06:42:18 GMT | Veri Takası: Konfor Karşılığı Mahremiyet | AYŞE KIZILAY | [Read More](https://medium.com/p/079ab4f8ad90) |
 | Fri, 15 Aug 2025 06:40:59 GMT | Dumping the content of a table, without Sql injection | Rajesh Sagar | [Read More](https://medium.com/p/2601480bcc1e) |
 | Fri, 15 Aug 2025 06:39:50 GMT | Why LOIC Still Sparks Controversy in 2025 — And How It Became the Internet’s Most Infamous… | Sajjad Hussain | [Read More](https://medium.com/p/900f7d52dcc5) |
-| Fri, 15 Aug 2025 06:38:37 GMT | Kendini Güncelle Dönemi: İnsanlar da Yazılım Gibi mi Olmalı? | AYŞE KIZILAY | [Read More](https://medium.com/p/6d081efdf5bf) |
-| Fri, 15 Aug 2025 06:34:11 GMT | 7 Signs You’re Ready to Be a Leader | Vijay Kumar Gupta | [Read More](https://medium.com/p/b3d91a181a17) |
-| Fri, 15 Aug 2025 06:32:45 GMT | Prisma Cloud by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/155f2e42b391) |
-| Fri, 15 Aug 2025 06:31:47 GMT | How I Tested SMB Relay Attacks in My Lab | Zahidul Islam Ratul | [Read More](https://medium.com/p/f348617b71a6) |
-| Fri, 15 Aug 2025 06:29:17 GMT | Algoritmalar Zevklerimizi Şekillendiriyor mu? | AYŞE KIZILAY | [Read More](https://medium.com/p/fea23c567f0e) |
-| Fri, 15 Aug 2025 06:26:45 GMT | Yapay Zekânın Terfi Ettirdiği İnsanlar | AYŞE KIZILAY | [Read More](https://medium.com/p/37aad7fd4cd6) |
-| Fri, 15 Aug 2025 06:24:39 GMT | From Hours to Minutes: How EasySploit Turns Metasploit Attacks into Push-Button Operations in 2025 | Sajjad Hussain | [Read More](https://medium.com/p/ed89d87d6861) |
-| Fri, 15 Aug 2025 06:24:18 GMT | Veri Merkezcilik: Her Şeyi Ölçmek Zorunda mıyız? | AYŞE KIZILAY | [Read More](https://medium.com/p/161a4ddca59e) |
-| Fri, 15 Aug 2025 06:22:08 GMT | Üretici Olmak Sadece İçerik Üretmek Değil | AYŞE KIZILAY | [Read More](https://medium.com/p/22b619cdf261) |
-| Fri, 15 Aug 2025 06:17:29 GMT | How to Configure and Test SafeLine WAF on DVWA | Quella | [Read More](https://medium.com/p/268c944ae50c) |
