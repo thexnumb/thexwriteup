@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 05:13:49 GMT | eJPT Zero to Hero: Web Application Penetration Testing CTF1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/fb0a44272e37) |
+| Fri, 15 Aug 2025 05:06:15 GMT | Deepfake Voice Scams in 2025: Mechanisms, Impact, and Defenses | Tedislava Vasileva | [Read More](https://medium.com/p/c01e9b0f76b8) |
+| Fri, 15 Aug 2025 04:51:25 GMT | The Windows Concept Journey — RDP File (*.rdp) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/638302a1e243) |
 | Fri, 15 Aug 2025 04:27:16 GMT | “Altoro Mutual Web” and “DVWA” for SQL injection CTF Writeup | Mario Barajas | [Read More](https://medium.com/p/93676b0545e1) |
 | Fri, 15 Aug 2025 04:21:35 GMT | CVE-2025–31560: Salon Booking System <= 10.11 – Authenticated Privilege Escalation | Revan A | [Read More](https://medium.com/p/625aeb91c71b) |
 | Fri, 15 Aug 2025 04:13:11 GMT | Is Latina Dating Safe for Online Dating? | Soledad Hernandez | [Read More](https://medium.com/p/752fc4873388) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 17:44:26 GMT | Bug Bounty Recon tool 2 | Prabhjeetsingh | [Read More](https://medium.com/p/ab71da332ac9) |
 | Thu, 14 Aug 2025 17:41:01 GMT | Cybersecurity in 2025: AI vs Human Experts | StackSnacker | [Read More](https://medium.com/p/0b99ee69a56f) |
 | Thu, 14 Aug 2025 17:40:47 GMT | Capitalism as a check on the Hegemony of Ruling Elites in the Information Society: A post modernist… | Swaraj De | [Read More](https://medium.com/p/022ce0587a90) |
-| Thu, 14 Aug 2025 17:36:32 GMT | Security Solution — Letsdefend | md_ashmar | [Read More](https://medium.com/p/ed32bd13020f) |
-| Thu, 14 Aug 2025 17:25:50 GMT | 10 Career Changing Coursera Certification Courses Every Indian Engineering Student Should Take in… | shyamalan | [Read More](https://medium.com/p/6bc535dde38a) |
-| Thu, 14 Aug 2025 17:25:42 GMT | Will Cybercrime Ever Be Unstoppable? | Your's Nightmare | [Read More](https://medium.com/p/3c752b9ab431) |
