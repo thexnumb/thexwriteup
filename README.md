@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 04:27:16 GMT | “Altoro Mutual Web” and “DVWA” for SQL injection CTF Writeup | Mario Barajas | [Read More](https://medium.com/p/93676b0545e1) |
+| Fri, 15 Aug 2025 04:21:35 GMT | CVE-2025–31560: Salon Booking System <= 10.11 – Authenticated Privilege Escalation | Revan A | [Read More](https://medium.com/p/625aeb91c71b) |
+| Fri, 15 Aug 2025 04:13:11 GMT | Is Latina Dating Safe for Online Dating? | Soledad Hernandez | [Read More](https://medium.com/p/752fc4873388) |
 | Fri, 15 Aug 2025 04:02:57 GMT | Day 32- MAN, LAN, WAN, WLAN for Absolute Beginners | unica 02 | [Read More](https://medium.com/p/e00e6b96d9c5) |
 | Fri, 15 Aug 2025 03:56:44 GMT | CTF Online Book Store 1.0 Writeup | Mario Barajas | [Read More](https://medium.com/p/ac797d18a484) |
 | Fri, 15 Aug 2025 03:55:29 GMT | Cybersecurity Talent Crunch: Why Demand for Experts Is Skyrocketing | Paran | [Read More](https://medium.com/p/eed5e7e4414c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 17:36:32 GMT | Security Solution — Letsdefend | md_ashmar | [Read More](https://medium.com/p/ed32bd13020f) |
 | Thu, 14 Aug 2025 17:25:50 GMT | 10 Career Changing Coursera Certification Courses Every Indian Engineering Student Should Take in… | shyamalan | [Read More](https://medium.com/p/6bc535dde38a) |
 | Thu, 14 Aug 2025 17:25:42 GMT | Will Cybercrime Ever Be Unstoppable? | Your's Nightmare | [Read More](https://medium.com/p/3c752b9ab431) |
-| Thu, 14 Aug 2025 17:25:32 GMT | Should I Accept the Term? | Your's Nightmare | [Read More](https://medium.com/p/d69339144e10) |
-| Thu, 14 Aug 2025 17:25:23 GMT | Are Dating Apps Just Digital Honeytraps? | Your's Nightmare | [Read More](https://medium.com/p/fb4bcfa62fd9) |
-| Thu, 14 Aug 2025 17:22:53 GMT | OAuth Login Bypasses & Account Linking Chaos — A Bug Bounty Adventure | Sohan | [Read More](https://medium.com/p/f7aa01377225) |
