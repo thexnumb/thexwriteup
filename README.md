@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 20:57:29 GMT | The ‘Prove You’re Human’ Scam That Emptied My Friend’s Wallet | TheOptimizationKing | [Read More](https://medium.com/p/640c2b46b6db) |
+| Fri, 15 Aug 2025 20:55:17 GMT | How We Evaluate AI Vendors for Financial Systems (The Framework That Saved Us $2M) | Shachar Solomon | [Read More](https://medium.com/p/186cd5c64952) |
+| Fri, 15 Aug 2025 20:50:22 GMT | The AI Security Audit That Scared Our CISO (And Changed Everything About Our AI Strategy) | Shachar Solomon | [Read More](https://medium.com/p/f09cc715f144) |
+| Fri, 15 Aug 2025 20:49:31 GMT | Recently, Nullsec Philippines reportedly leaked 148 lines of account data related to the National… | Filipino CyberSec News | [Read More](https://medium.com/p/12f6916cfc17) |
+| Fri, 15 Aug 2025 20:45:52 GMT | The Phishing Series: Types of Attacks and Defenses | Norman Kolarikkal | [Read More](https://medium.com/p/e874b1f76a51) |
 | Fri, 15 Aug 2025 20:29:28 GMT | Day 82: Security Principles 1 | Nile Okomo | [Read More](https://medium.com/p/227d13f86710) |
 | Fri, 15 Aug 2025 20:26:05 GMT | Chase Excellence, not fancy certs | Saroopanand | [Read More](https://medium.com/p/6eabfa22c8d2) |
 | Fri, 15 Aug 2025 20:24:41 GMT | Multiple Times Smarter Than ChatGPT? - New FREE Tool Makes GPT-5 Look Like a Toy | Balthasar | [Read More](https://medium.com/p/2b3920e48673) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 14:25:38 GMT | Analyzing Windows Sysmon Log with Python | Kiran Adhikari | [Read More](https://medium.com/p/35d84be2bf4e) |
 | Fri, 15 Aug 2025 14:23:05 GMT | How To Safeguard Your IP: A Practical Guide for Entrepreneurs & Innovators | Diana - Digital Growth Strategist | [Read More](https://medium.com/p/f43fa4ade783) |
 | Fri, 15 Aug 2025 14:19:21 GMT | Unlocking Cybersecurity: Your Guide to Hacking, VMs, Linux, and Networking | Muhammad Afzal n | [Read More](https://medium.com/p/c27d2448c46f) |
-| Fri, 15 Aug 2025 14:18:53 GMT | From Healing To Chaos | Christina - Healing In Pixels & Pages | [Read More](https://medium.com/p/882b16adacc3) |
-| Fri, 15 Aug 2025 14:17:09 GMT | T1059 — Command and Scripting Interpreter: The Hacker’s Swiss Army Knife | MITRE Doggy | [Read More](https://medium.com/p/9c34062444b1) |
-| Fri, 15 Aug 2025 14:13:45 GMT | Microsoft’s August 2025 Patch Tuesday updates | IT_Engineer | [Read More](https://medium.com/p/306c736203da) |
-| Fri, 15 Aug 2025 14:10:01 GMT | [CyberDefenders ]- 3CX Supply Chain Lab Walkthrough | Yash Davare | [Read More](https://medium.com/p/2c3bdce14c51) |
-| Fri, 15 Aug 2025 14:10:01 GMT | SIEM Use Case Series Day 6: Detecting Communication to OSINT-Flagged Malicious URLs | NineTales | [Read More](https://medium.com/p/8d827097d82e) |
