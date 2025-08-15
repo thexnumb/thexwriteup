@@ -12,9 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 13:30:24 GMT | How I Ended Up Doing a ₹45,901.53 Pen-Test After Thinking the Client Was Just Talking | Nitin yadav | [Read More](https://medium.com/p/d2c9f139943d) |
+| Fri, 15 Aug 2025 13:29:41 GMT | Unified Kill Chain — TryHackMe Wallkthrough | Genrunic | [Read More](https://medium.com/p/427531ea45e1) |
+| Fri, 15 Aug 2025 13:27:13 GMT | The Deepfake Wars: How AI Just Hit 98% Accuracy in Spotting Fake Videos (And Why That Both Excites… | Mareh Agoreyo | [Read More](https://medium.com/p/1811a8238637) |
+| Fri, 15 Aug 2025 13:25:48 GMT | 2018 Predictions for the Future of Cloud Computing — How Did They Hold Up in 2025? | james Ford | [Read More](https://medium.com/p/c631f743b9c5) |
+| Fri, 15 Aug 2025 13:25:38 GMT | Threat Modeling: Understanding and Reducing Cybersecurity Risks | Genrunic | [Read More](https://medium.com/p/54146e1f9c82) |
+| Fri, 15 Aug 2025 13:24:25 GMT | Reflections: What You Learn by Doing | Anezaneo | [Read More](https://medium.com/p/2999246792f3) |
+| Fri, 15 Aug 2025 13:18:14 GMT | The Rise of AI-Driven IT Operations (AIOps) | InByte | [Read More](https://medium.com/p/bf86be6ad6fb) |
+| Fri, 15 Aug 2025 13:10:35 GMT | MCP Vulnerabilities Every Developer Should Know | Insight Hub | [Read More](https://medium.com/p/0f5354c07efa) |
+| Fri, 15 Aug 2025 13:04:32 GMT | Corridor - TryHackMe | AnIkEt GuPtA | [Read More](https://medium.com/p/d5e45eb6eccf) |
+| Fri, 15 Aug 2025 13:00:36 GMT | Welcome Autonomous SOC | Simbian.ai | [Read More](https://medium.com/p/b435190ae7b6) |
+| Fri, 15 Aug 2025 12:58:11 GMT | Securing the Configuration of Kubernetes Cluster Components | Giant Swarm | [Read More](https://medium.com/p/d2fddfaa4d6c) |
+| Fri, 15 Aug 2025 12:56:01 GMT | Cron Wild Cards Privilege Escalation (Linux Privilege Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/40f5fe084c8e) |
+| Fri, 15 Aug 2025 12:50:15 GMT | Why AI Copilots Are the New Security Theater: The Case for True Autonomous Defense | Simbian.ai | [Read More](https://medium.com/p/efd35be12c48) |
+| Fri, 15 Aug 2025 12:48:34 GMT | Managing SSL Certificates the Easy Way in Kubernetes | Sowmya | [Read More](https://medium.com/p/f19de2f60ed6) |
 | Fri, 15 Aug 2025 12:40:04 GMT | Cisco ISE Guest Portal: Fixing Redirection Issues with a Public FQDN and Let’s Encrypt | Teymur Aghayev | [Read More](https://medium.com/p/028a8321a331) |
 | Fri, 15 Aug 2025 12:37:46 GMT | El bug no rompe el sistema, revela su verdadera forma | Gorka | [Read More](https://medium.com/p/b763831a5398) |
 | Fri, 15 Aug 2025 12:37:44 GMT | A Better Browser: Brave — Speed, Privacy, and the Future of Web Browsing | ToufiQ | [Read More](https://medium.com/p/04f00918bfb9) |
+| Fri, 15 Aug 2025 12:37:30 GMT | RBI’s .bank.in Mandate Could End One of India’s Biggest Online Scams | The UNFILTERED Draft | [Read More](https://medium.com/p/ac06de52bc06) |
 | Fri, 15 Aug 2025 12:36:29 GMT | SHIFTING LINES | Yash Sharma | [Read More](https://medium.com/p/82fbe92d86aa) |
 | Fri, 15 Aug 2025 12:32:07 GMT | DockerLabs Writeup — Bola (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/27d78d2c8d8b) |
 | Fri, 15 Aug 2025 12:29:00 GMT | Co je DDoS útok a jak se mu bránit? | Cyber Solution | [Read More](https://medium.com/p/30813587d72c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 08:21:13 GMT | Building Trust in AI: How the NIST AI Risk Management Framework Helps Keep Us Safe | Seb AGUELE | [Read More](https://medium.com/p/3247f284e1b0) |
 | Fri, 15 Aug 2025 08:17:09 GMT | The World Doesn’t Want AI-Generated Content | Babar saad | [Read More](https://medium.com/p/71111a4c739a) |
 | Fri, 15 Aug 2025 08:13:37 GMT | TryHackMe - Systems as Attack Vectors - WriteUp | Axoloth | [Read More](https://medium.com/p/a7706069630b) |
-| Fri, 15 Aug 2025 08:13:37 GMT | ISMAP Management Standards Chapter 18: “Compliance” and the Importance of Independent Reviews | nolly | [Read More](https://medium.com/p/3e16c82b3490) |
-| Fri, 15 Aug 2025 08:05:01 GMT | The Real Threat to Cybersecurity? | Xperts Unimited | [Read More](https://medium.com/p/44f6cb0ad1a4) |
-| Fri, 15 Aug 2025 08:02:10 GMT | Windows System Process (PID 4) vs System Idle Process (PID 0) Explained | DarKVoicE | [Read More](https://medium.com/p/9df2e91c1481) |
-| Fri, 15 Aug 2025 07:59:12 GMT | How I Got Attacked Without Clicking Anything | Shahzaib | [Read More](https://medium.com/p/ae94747d593f) |
-| Fri, 15 Aug 2025 07:58:14 GMT | GoPlus Transaction Simulation API: Your Reliable Transaction Security Firewall | GoPlus Security | [Read More](https://medium.com/p/a155d8b98aa7) |
-| Fri, 15 Aug 2025 07:57:41 GMT | The “Romance Scammer” Who Played Me for 3 Months | Aj | [Read More](https://medium.com/p/2082169dda1f) |
-| Fri, 15 Aug 2025 07:57:29 GMT | MadeYouReset: The HTTP/2 Protocol Flaw Shaping the Web’s Future Escalating RansomOps — LockBit’s… | _Anirudh_ | [Read More](https://medium.com/p/29e0df65a693) |
-| Fri, 15 Aug 2025 07:55:22 GMT | Bölüm 3: Bankalar | Mahmut Emin Karel | [Read More](https://medium.com/p/aaf9642d1ef5) |
-| Fri, 15 Aug 2025 07:43:07 GMT | Bug Hunting Journey: Discovering UID and Email Token Exposure in Encoded URLs | Faxcel | [Read More](https://medium.com/p/b28948193ee2) |
-| Fri, 15 Aug 2025 07:41:14 GMT | Why Cybersecurity Debt Is the Next Big Business Risk (And How to Pay It Down Before It’s Too Late) | Defentive | [Read More](https://medium.com/p/89fd4f2da8f4) |
-| Fri, 15 Aug 2025 07:38:16 GMT | Information Warfare in the 21st Century: Beyond Propaganda | Mustafa Malik | [Read More](https://medium.com/p/215fad1bf299) |
-| Fri, 15 Aug 2025 07:37:59 GMT | 2025 QR Code Phishing Trends: Phishing Simulation Insights for Stronger Security Culture | Keepnet Labs | [Read More](https://medium.com/p/a01606bc2ccc) |
-| Fri, 15 Aug 2025 07:35:45 GMT | PhantomCard: How NFC Malware Could Empty Your Bank Account | Liran Nachman | [Read More](https://medium.com/p/e45caa1f2c18) |
-| Fri, 15 Aug 2025 07:35:16 GMT | Easy 130$ Bounty: User to Admin | Musab Sarı | [Read More](https://medium.com/p/fe9340ff9bd3) |
-| Fri, 15 Aug 2025 07:34:40 GMT | ประจำวันศุกร์ที่ 15 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/e8e31ee47459) |
