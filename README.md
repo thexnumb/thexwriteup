@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 09:41:23 GMT | CYBERDEFENDERS XWorm Lab | Habibecanan | [Read More](https://medium.com/p/2b7b72810980) |
+| Fri, 15 Aug 2025 09:33:58 GMT | ⚔️ “How to Predict and Prevent Cyber Attacks with Threat Modelling” | Furkanctiner | [Read More](https://medium.com/p/3ff56f2e0e40) |
+| Fri, 15 Aug 2025 09:29:17 GMT | Your Digital Compass: Navigating the World of Hacking, VMs, Linux, and Networking | Adityanarayanan A S | [Read More](https://medium.com/p/29459b37944e) |
+| Fri, 15 Aug 2025 09:21:35 GMT | How I Landed a Critical Bug After a Couple of Months break from Bounties | cybrNK | [Read More](https://medium.com/p/94a78cf2c2ce) |
+| Fri, 15 Aug 2025 09:18:09 GMT | Why Gmail Ignores Dots in Your Email Address and What It Means for You | Malvox | [Read More](https://medium.com/p/97ba92527458) |
+| Fri, 15 Aug 2025 09:17:38 GMT | Systems as Attack Vectors - Tryhackme | Aaron | [Read More](https://medium.com/p/db7e636f0770) |
 | Fri, 15 Aug 2025 09:16:28 GMT | Which home security system should I buy? | Medium Articles | [Read More](https://medium.com/p/29bd29b9076a) |
 | Fri, 15 Aug 2025 09:12:10 GMT | How Mobile Patrol and Alarm Response Services Can Drastically Reduce Theft for Edmonton Businesses | Nimmi Xheikh | [Read More](https://medium.com/p/f78748814439) |
 | Fri, 15 Aug 2025 09:10:00 GMT | When The Phones Went Silent: Luxembourg’s Cyber Siege | O. J. Okpabi | [Read More](https://medium.com/p/bfd83786041c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 05:22:58 GMT | Brisbane Security Screens | Brisbane Security Screens | [Read More](https://medium.com/p/b01a98a3ec43) |
 | Fri, 15 Aug 2025 05:21:38 GMT | MadeYouReset: When HTTP/2 Turns on Itself | Paritosh | [Read More](https://medium.com/p/18d7da401137) |
 | Fri, 15 Aug 2025 05:20:57 GMT | What is a Quantum Computer? Unlocking the Future of Computing | Bobby Andrews | [Read More](https://medium.com/p/3b96e91c2b11) |
-| Fri, 15 Aug 2025 05:16:24 GMT | Discover the Best Health Insurance in India for Your Family | Naazasmaa | [Read More](https://medium.com/p/c5db05692ac5) |
-| Fri, 15 Aug 2025 05:13:49 GMT | eJPT Zero to Hero: Web Application Penetration Testing CTF1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/fb0a44272e37) |
-| Fri, 15 Aug 2025 05:06:15 GMT | Deepfake Voice Scams in 2025: Mechanisms, Impact, and Defenses | Tedislava Vasileva | [Read More](https://medium.com/p/c01e9b0f76b8) |
-| Fri, 15 Aug 2025 04:51:25 GMT | The Windows Concept Journey — RDP File (*.rdp) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/638302a1e243) |
-| Fri, 15 Aug 2025 04:27:16 GMT | “Altoro Mutual Web” and “DVWA” for SQL injection CTF Writeup | Mario Barajas | [Read More](https://medium.com/p/93676b0545e1) |
-| Fri, 15 Aug 2025 04:21:35 GMT | CVE-2025–31560: Salon Booking System <= 10.11 – Authenticated Privilege Escalation | Revan A | [Read More](https://medium.com/p/625aeb91c71b) |
