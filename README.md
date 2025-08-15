@@ -12,9 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 08:24:37 GMT | How I Used Cache Poisoning to Bag a Bug Bounty | Zoningxtr | [Read More](https://medium.com/p/1365d19bf60f) |
+| Fri, 15 Aug 2025 08:22:31 GMT | Google just paid $250000 for one bug — And It Wasn’t Even Memory Corruption | ven coding | [Read More](https://medium.com/p/ce68ec594115) |
+| Fri, 15 Aug 2025 08:22:28 GMT | Install and Configure HashiCorp Vault — Step by Step | TTnguyen | [Read More](https://medium.com/p/abe6651a40f1) |
+| Fri, 15 Aug 2025 08:21:13 GMT | Building Trust in AI: How the NIST AI Risk Management Framework Helps Keep Us Safe | Seb AGUELE | [Read More](https://medium.com/p/3247f284e1b0) |
+| Fri, 15 Aug 2025 08:17:09 GMT | The World Doesn’t Want AI-Generated Content | Babar saad | [Read More](https://medium.com/p/71111a4c739a) |
+| Fri, 15 Aug 2025 08:13:37 GMT | TryHackMe - Systems as Attack Vectors - WriteUp | Axoloth | [Read More](https://medium.com/p/a7706069630b) |
+| Fri, 15 Aug 2025 08:13:37 GMT | ISMAP Management Standards Chapter 18: “Compliance” and the Importance of Independent Reviews | nolly | [Read More](https://medium.com/p/3e16c82b3490) |
+| Fri, 15 Aug 2025 08:05:01 GMT | The Real Threat to Cybersecurity? | Xperts Unimited | [Read More](https://medium.com/p/44f6cb0ad1a4) |
+| Fri, 15 Aug 2025 08:02:10 GMT | Windows System Process (PID 4) vs System Idle Process (PID 0) Explained | DarKVoicE | [Read More](https://medium.com/p/9df2e91c1481) |
+| Fri, 15 Aug 2025 07:59:12 GMT | How I Got Attacked Without Clicking Anything | Shahzaib | [Read More](https://medium.com/p/ae94747d593f) |
+| Fri, 15 Aug 2025 07:58:14 GMT | GoPlus Transaction Simulation API: Your Reliable Transaction Security Firewall | GoPlus Security | [Read More](https://medium.com/p/a155d8b98aa7) |
+| Fri, 15 Aug 2025 07:57:41 GMT | The “Romance Scammer” Who Played Me for 3 Months | Aj | [Read More](https://medium.com/p/2082169dda1f) |
+| Fri, 15 Aug 2025 07:57:29 GMT | MadeYouReset: The HTTP/2 Protocol Flaw Shaping the Web’s Future Escalating RansomOps — LockBit’s… | _Anirudh_ | [Read More](https://medium.com/p/29e0df65a693) |
+| Fri, 15 Aug 2025 07:55:22 GMT | Bölüm 3: Bankalar | Mahmut Emin Karel | [Read More](https://medium.com/p/aaf9642d1ef5) |
+| Fri, 15 Aug 2025 07:43:07 GMT | Bug Hunting Journey: Discovering UID and Email Token Exposure in Encoded URLs | Faxcel | [Read More](https://medium.com/p/b28948193ee2) |
+| Fri, 15 Aug 2025 07:41:14 GMT | Why Cybersecurity Debt Is the Next Big Business Risk (And How to Pay It Down Before It’s Too Late) | Defentive | [Read More](https://medium.com/p/89fd4f2da8f4) |
+| Fri, 15 Aug 2025 07:38:16 GMT | Information Warfare in the 21st Century: Beyond Propaganda | Mustafa Malik | [Read More](https://medium.com/p/215fad1bf299) |
+| Fri, 15 Aug 2025 07:37:59 GMT | 2025 QR Code Phishing Trends: Phishing Simulation Insights for Stronger Security Culture | Keepnet Labs | [Read More](https://medium.com/p/a01606bc2ccc) |
 | Fri, 15 Aug 2025 07:35:45 GMT | PhantomCard: How NFC Malware Could Empty Your Bank Account | Liran Nachman | [Read More](https://medium.com/p/e45caa1f2c18) |
 | Fri, 15 Aug 2025 07:35:16 GMT | Easy 130$ Bounty: User to Admin | Musab Sarı | [Read More](https://medium.com/p/fe9340ff9bd3) |
 | Fri, 15 Aug 2025 07:34:40 GMT | ประจำวันศุกร์ที่ 15 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/e8e31ee47459) |
+| Fri, 15 Aug 2025 07:33:46 GMT | Technology plays a ubiquitous role in modern education. | Sukaina Saeed | [Read More](https://medium.com/p/591584a93b31) |
 | Fri, 15 Aug 2025 07:27:48 GMT | The Digital Forensics Process: From Acquisition to Courtroom | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/f7694f15833e) |
 | Fri, 15 Aug 2025 07:27:22 GMT | Hacking AI is TOO EASY (This Should Be Illegal) | Shahzaib | [Read More](https://medium.com/p/90dd2b7b05bd) |
 | Fri, 15 Aug 2025 07:23:08 GMT | How to $BUG Yield Farming on StakingRewards for Maximum APY | BUG | [Read More](https://medium.com/p/986888ca9033) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 01:37:26 GMT | The War That Wasn’t Worth The Fight: How a Childhood of Silence Shaped a Lifetime of Struggle | Jen Marie | [Read More](https://medium.com/p/da7c01aa40a4) |
 | Fri, 15 Aug 2025 01:30:09 GMT | How WAFs Block the OWASP Top 10 — With Real Attack Examples | Rue | [Read More](https://medium.com/p/0c0a7dc037a6) |
 | Fri, 15 Aug 2025 01:29:29 GMT | Mind-Reading AI: How Your Thoughts Could Become the Most Valuable Commodity by 2035 | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/a03157bab6d5) |
-| Fri, 15 Aug 2025 01:28:55 GMT | ️ AWS IAM Explained Like a Security Guard at the Door | Indrajit Dan | [Read More](https://medium.com/p/9dd47f4e0294) |
-| Fri, 15 Aug 2025 01:13:46 GMT | The Invisible Wars of the Internet: How Digital Battles Are Shaping the Future of Our Lives | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/37aad64892f6) |
-| Fri, 15 Aug 2025 00:58:08 GMT | The Digital Afterlife: Who Owns Your Data When You Die? | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/58df261d20c9) |
-| Fri, 15 Aug 2025 00:20:41 GMT | Hype, Harm, and Hope: The Misapplication of Agentic AI | Nicholas Armstrong | [Read More](https://medium.com/p/12caa5b5c1a2) |
-| Fri, 15 Aug 2025 00:18:20 GMT | Stu’s CTI Book Chapter 2.1 - Getting down to business. (Or a bit of Planning). | CyberSecStu | [Read More](https://medium.com/p/4f69806d50de) |
-| Fri, 15 Aug 2025 00:17:32 GMT | How to Use Nmap: TryHackMe Multiple Room Walkthrough | ShadowPacketRHR | [Read More](https://medium.com/p/c2a5cdb3def5) |
-| Fri, 15 Aug 2025 00:07:41 GMT | Privacy by Design: Building Privacy from the Ground Up | Raviteja Mureboina | [Read More](https://medium.com/p/90ab6857d1a7) |
-| Thu, 14 Aug 2025 23:58:30 GMT | CVE-2015–0311, use-after-free vulnerability in Adobe Flash Player, exploited (Qadars banking… | VampireXRay | [Read More](https://medium.com/p/5d73d28bcd13) |
-| Thu, 14 Aug 2025 23:03:22 GMT | AI-Powered Android Security: Leverage Prompts Like a Pro | AIAlchemist_Ab1r | [Read More](https://medium.com/p/0d58b7373375) |
-| Thu, 14 Aug 2025 22:55:50 GMT | Blackout Code The Nightmare That Blinked Inside Iran’s Nucleus - Retr0 | Retr0 | [Read More](https://medium.com/p/672b358aaa56) |
-| Thu, 14 Aug 2025 22:53:40 GMT | Tools of the Trade: Your first Keystroke Injection Attack | Crashwire | [Read More](https://medium.com/p/81466b72420f) |
-| Thu, 14 Aug 2025 22:49:53 GMT | The Bugged Future: AI-Coded Projects Will Share the Same Vulnerabilities | Taulan Zauzanov | [Read More](https://medium.com/p/3df5a8bb4872) |
-| Thu, 14 Aug 2025 22:34:52 GMT | C and Assembly: Becoming Top-Tier Cybersecurity Specialists | Taulan Zauzanov | [Read More](https://medium.com/p/1f1f6c04fa8d) |
-| Thu, 14 Aug 2025 22:31:47 GMT | GANDALF WALKTHROUGH | rizzziom | [Read More](https://medium.com/p/5a6cca50a003) |
-| Thu, 14 Aug 2025 22:24:20 GMT | Enhancing Security with EIOTCLUB’s SIM Card Solutions | Asqwfxvxqw | [Read More](https://medium.com/p/996204d2389f) |
-| Thu, 14 Aug 2025 22:19:16 GMT | Vibe Coding Is a Nightmare: When Startup Dreams Meet Real-World Security | Malshi Prabodha | [Read More](https://medium.com/p/3eeb90908e99) |
-| Thu, 14 Aug 2025 22:17:37 GMT | Building Threat Playbooks for Emerging APT Groups | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7d9cc483cdea) |
-| Thu, 14 Aug 2025 22:11:04 GMT | Why You’ll Love Diode Collab for Collaboration | Maliah | [Read More](https://medium.com/p/9e4bcf385867) |
-| Thu, 14 Aug 2025 22:09:15 GMT | Switching From Python to Go for Pentesting | Taulan Zauzanov | [Read More](https://medium.com/p/9207e687347e) |
