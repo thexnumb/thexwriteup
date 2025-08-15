@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 22:02:10 GMT | The Hidden World of Bug Bounty Scams | Symbionyman | [Read More](https://medium.com/p/797ad0f47676) |
+| Fri, 15 Aug 2025 21:58:29 GMT | Auth.Cool — Your All‑in‑One Identity Broker & Aggregator | Auth Cool | [Read More](https://medium.com/p/9c19c0b96ca1) |
+| Fri, 15 Aug 2025 21:57:58 GMT | Your SOC Is Broken — Here’s How AI Can Fix It | Cyber-AppSec | [Read More](https://medium.com/p/cb863d4d900a) |
+| Fri, 15 Aug 2025 21:56:03 GMT | A Browser Extension Stole My Life | Shahzaib | [Read More](https://medium.com/p/5824c68ca547) |
+| Fri, 15 Aug 2025 21:50:43 GMT | Advancing Cloud Security and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/02e4fc02ea0f) |
+| Fri, 15 Aug 2025 21:48:58 GMT | Advancing Cloud Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/d17466c91957) |
+| Fri, 15 Aug 2025 21:47:10 GMT | Advancing Cloud Security and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/ef0fc0ffe6e9) |
+| Fri, 15 Aug 2025 21:45:28 GMT | Advancing Cloud Security Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/2edcf22f1ec0) |
+| Fri, 15 Aug 2025 21:43:44 GMT | Advancing Blockchain Security in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/8a5e5c9db527) |
+| Fri, 15 Aug 2025 21:41:55 GMT | Advancing Blockchain Security in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/7ac7d4d74395) |
 | Fri, 15 Aug 2025 21:34:06 GMT | KYBS CTF v1 2025 (WEB Security) | KyubiSec | [Read More](https://medium.com/p/7a2328f97c55) |
 | Fri, 15 Aug 2025 21:20:05 GMT | Day 46 — Regex + YARA: Obfuscation Hunting Across File Formats | Jinay | [Read More](https://medium.com/p/54c587286377) |
 | Fri, 15 Aug 2025 20:57:29 GMT | The ‘Prove You’re Human’ Scam That Emptied My Friend’s Wallet | TheOptimizationKing | [Read More](https://medium.com/p/640c2b46b6db) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 15:06:32 GMT | Top Noise-Canceling Headphones of 2025: Work, Travel, and Music Perfection | sana irshad | [Read More](https://medium.com/p/fe2d0651eb13) |
 | Fri, 15 Aug 2025 15:03:16 GMT | Trying Kali Linux and the Bandit wargame (Levels 0–10) | Kriztian Gerard Kim | [Read More](https://medium.com/p/9a4643fe46a2) |
 | Fri, 15 Aug 2025 15:01:52 GMT | The Digital Fortress: Understanding Cybersecurity in a Connected World | CapitalCoin | [Read More](https://medium.com/p/7376d26b1c12) |
-| Fri, 15 Aug 2025 14:58:58 GMT | The Unspoken Conflict | Larissa Oliveira | [Read More](https://medium.com/p/e0fbb020528a) |
-| Fri, 15 Aug 2025 14:50:08 GMT | Operation PedoHunt: A Civilian-Led Initiative to Protect Children Online | OperationPedoHunt | [Read More](https://medium.com/p/44055b202760) |
-| Fri, 15 Aug 2025 14:47:01 GMT | Solving PHP’s Cross-Site Request Forgery (CSRF) Vulnerabilities: Advanced Protection Strategies | Ann R. | [Read More](https://medium.com/p/0511675b0498) |
-| Fri, 15 Aug 2025 14:43:10 GMT | OAuth Phishing: How Hackers Are Bypassing MFA — and What UK Businesses Need to Do About It | Alex Hughes | [Read More](https://medium.com/p/2e5251898b77) |
-| Fri, 15 Aug 2025 14:42:55 GMT | AI’s Relentless Pace: The Reality of GPT-5 and Our Evolving World | CFE Consultancy Services | [Read More](https://medium.com/p/9778d03057a9) |
-| Fri, 15 Aug 2025 14:42:37 GMT | 98% of Organizations Hit by Breaches Due to Vulnerable Code: Why Mammoth Enterprise AI Browser is… | Mammoth Cyber | [Read More](https://medium.com/p/b701d7953a5b) |
-| Fri, 15 Aug 2025 14:39:55 GMT | INFORMATIONAL #2 | Shakthi | [Read More](https://medium.com/p/6429709d466f) |
-| Fri, 15 Aug 2025 14:38:36 GMT | “Day 12: The Rate Limit Paradox — How I Weaponized API Protections for a $500 DoS Bug” | Aman Sharma | [Read More](https://medium.com/p/497fa5f8fe45) |
-| Fri, 15 Aug 2025 14:29:51 GMT | Why You Can Trust HTTPS: Demystifying SSL | Prakash Verma | [Read More](https://medium.com/p/513db955c98f) |
-| Fri, 15 Aug 2025 14:25:38 GMT | Analyzing Windows Sysmon Log with Python | Kiran Adhikari | [Read More](https://medium.com/p/35d84be2bf4e) |
