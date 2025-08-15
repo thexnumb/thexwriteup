@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 04:02:57 GMT | Day 32- MAN, LAN, WAN, WLAN for Absolute Beginners | unica 02 | [Read More](https://medium.com/p/e00e6b96d9c5) |
+| Fri, 15 Aug 2025 03:56:44 GMT | CTF Online Book Store 1.0 Writeup | Mario Barajas | [Read More](https://medium.com/p/ac797d18a484) |
+| Fri, 15 Aug 2025 03:55:29 GMT | Cybersecurity Talent Crunch: Why Demand for Experts Is Skyrocketing | Paran | [Read More](https://medium.com/p/eed5e7e4414c) |
+| Fri, 15 Aug 2025 03:51:03 GMT | Meawfy: Advanced File Search Engine | AbhirupKonwar | [Read More](https://medium.com/p/cf59aac8bad0) |
+| Fri, 15 Aug 2025 03:50:24 GMT | I Accidentally Downloaded a Malicious Extension in Cursor and Lost My Crypto | Code Coup | [Read More](https://medium.com/p/1ad62c0fe6b0) |
+| Fri, 15 Aug 2025 03:49:04 GMT | Workflow n8n Pertama: “Cyberpulse” | Zulfianarahmi | [Read More](https://medium.com/p/82d8c44c0d10) |
+| Fri, 15 Aug 2025 03:41:34 GMT | TCM Security PWPE: My Experience as the First Certified Holder in Thailand | Athiwat Tiprasaharn | [Read More](https://medium.com/p/1c4d97cde274) |
+| Fri, 15 Aug 2025 03:41:32 GMT | Installing SafeLine WAF on Ubuntu — From Setup to Dashboard | AerieWhole123 | [Read More](https://medium.com/p/6ec8d5dc9017) |
+| Fri, 15 Aug 2025 03:41:08 GMT | The Hidden Data Leaks Threatening Universities | umbraXsecure | [Read More](https://medium.com/p/871e3f847831) |
+| Fri, 15 Aug 2025 03:39:53 GMT | About me — Tochukwu Okonkwor | Tochukwu Okonkwor | [Read More](https://medium.com/p/aa0960fa2d02) |
 | Fri, 15 Aug 2025 03:05:47 GMT | Citrix NetScaler ADC/Gateway Session Token Leak — Patch Now or Risk a Breach | AerieWhole123 | [Read More](https://medium.com/p/ea4d25944217) |
 | Fri, 15 Aug 2025 02:20:39 GMT | TryHackMe — Password Attacks | Gorohvski | [Read More](https://medium.com/p/9892d4bb9422) |
 | Fri, 15 Aug 2025 02:18:35 GMT | ️ Kraford.com | Ivona Simic | [Read More](https://medium.com/p/fc819adddb8d) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 17:25:32 GMT | Should I Accept the Term? | Your's Nightmare | [Read More](https://medium.com/p/d69339144e10) |
 | Thu, 14 Aug 2025 17:25:23 GMT | Are Dating Apps Just Digital Honeytraps? | Your's Nightmare | [Read More](https://medium.com/p/fb4bcfa62fd9) |
 | Thu, 14 Aug 2025 17:22:53 GMT | OAuth Login Bypasses & Account Linking Chaos — A Bug Bounty Adventure | Sohan | [Read More](https://medium.com/p/f7aa01377225) |
-| Thu, 14 Aug 2025 17:12:55 GMT | Hackable 2 CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/e54effd80f50) |
-| Thu, 14 Aug 2025 17:09:40 GMT | Digital Danger: What’s Really Out There — and How to Guard Our Kids. | Larry Maynard | [Read More](https://medium.com/p/5e47080ed78d) |
-| Thu, 14 Aug 2025 17:09:12 GMT | Mi P3 En la NASA con 16 Años | Gorka | [Read More](https://medium.com/p/b6ba79e1e4af) |
-| Thu, 14 Aug 2025 17:09:04 GMT | The Missing Piece of SSO: A Practical Guide to Single Logout (SLO) | Kunal Sinha | [Read More](https://medium.com/p/dcf034107ed4) |
-| Thu, 14 Aug 2025 17:05:30 GMT | How a Fake Call Emptied His Account | Online Safety Zone | [Read More](https://medium.com/p/ade7e03a9375) |
-| Thu, 14 Aug 2025 17:04:24 GMT | Mi P1 En la NASA con 16 Años | Gorka | [Read More](https://medium.com/p/3eba63256d5b) |
-| Thu, 14 Aug 2025 16:59:18 GMT | The Last of My Letters | Sofia Peralta | [Read More](https://medium.com/p/e1f90dc7bf84) |
-| Thu, 14 Aug 2025 16:57:01 GMT | Ransomware Boom: 49% Surge in H1 2025 | Taiyab Lokhandwala | [Read More](https://medium.com/p/db05ab0525aa) |
-| Thu, 14 Aug 2025 16:56:19 GMT | SMT2025 Special Lecture 2: A Practical Guide to Geolocation | Rivaldo Tampubolon | [Read More](https://medium.com/p/eae230776066) |
-| Thu, 14 Aug 2025 16:55:53 GMT | Why Hackers Don’t Hack Servers Anymore They Hack People | Khansa Rahim | [Read More](https://medium.com/p/4bfeb26632d1) |
