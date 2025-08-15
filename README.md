@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 01:45:52 GMT | Serverless Malware Scanning on S3 with Amazon GuardDuty (and a Quarantine Flow) | Georgi_V | [Read More](https://medium.com/p/3412b528ec1c) |
+| Fri, 15 Aug 2025 01:38:50 GMT | Someone who loves you in your deepest shadows | Adha✨ | [Read More](https://medium.com/p/45b65be4b6e8) |
+| Fri, 15 Aug 2025 01:37:26 GMT | The War That Wasn’t Worth The Fight: How a Childhood of Silence Shaped a Lifetime of Struggle | Jen Marie | [Read More](https://medium.com/p/da7c01aa40a4) |
+| Fri, 15 Aug 2025 01:30:09 GMT | How WAFs Block the OWASP Top 10 — With Real Attack Examples | Rue | [Read More](https://medium.com/p/0c0a7dc037a6) |
+| Fri, 15 Aug 2025 01:29:29 GMT | Mind-Reading AI: How Your Thoughts Could Become the Most Valuable Commodity by 2035 | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/a03157bab6d5) |
+| Fri, 15 Aug 2025 01:28:55 GMT | ️ AWS IAM Explained Like a Security Guard at the Door | Indrajit Dan | [Read More](https://medium.com/p/9dd47f4e0294) |
+| Fri, 15 Aug 2025 01:13:46 GMT | The Invisible Wars of the Internet: How Digital Battles Are Shaping the Future of Our Lives | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/37aad64892f6) |
+| Fri, 15 Aug 2025 00:58:08 GMT | The Digital Afterlife: Who Owns Your Data When You Die? | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/58df261d20c9) |
+| Fri, 15 Aug 2025 00:20:41 GMT | Hype, Harm, and Hope: The Misapplication of Agentic AI | Nicholas Armstrong | [Read More](https://medium.com/p/12caa5b5c1a2) |
+| Fri, 15 Aug 2025 00:18:20 GMT | Stu’s CTI Book Chapter 2.1 - Getting down to business. (Or a bit of Planning). | CyberSecStu | [Read More](https://medium.com/p/4f69806d50de) |
+| Fri, 15 Aug 2025 00:17:32 GMT | How to Use Nmap: TryHackMe Multiple Room Walkthrough | ShadowPacketRHR | [Read More](https://medium.com/p/c2a5cdb3def5) |
+| Fri, 15 Aug 2025 00:07:41 GMT | Privacy by Design: Building Privacy from the Ground Up | Raviteja Mureboina | [Read More](https://medium.com/p/90ab6857d1a7) |
+| Thu, 14 Aug 2025 23:58:30 GMT | CVE-2015–0311, use-after-free vulnerability in Adobe Flash Player, exploited (Qadars banking… | VampireXRay | [Read More](https://medium.com/p/5d73d28bcd13) |
 | Thu, 14 Aug 2025 23:03:22 GMT | AI-Powered Android Security: Leverage Prompts Like a Pro | AIAlchemist_Ab1r | [Read More](https://medium.com/p/0d58b7373375) |
 | Thu, 14 Aug 2025 22:55:50 GMT | Blackout Code The Nightmare That Blinked Inside Iran’s Nucleus - Retr0 | Retr0 | [Read More](https://medium.com/p/672b358aaa56) |
 | Thu, 14 Aug 2025 22:53:40 GMT | Tools of the Trade: Your first Keystroke Injection Attack | Crashwire | [Read More](https://medium.com/p/81466b72420f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 Aug 2025 16:45:03 GMT | Change Your Passwords Now!!! 16 Billion Credentials Leaked In Biggest Data Breach of All Time? | Merwansky | [Read More](https://medium.com/p/cb37948ecac4) |
 | Thu, 14 Aug 2025 16:41:58 GMT | Harry Potter Aragog — Walkthrough | 0xSOS | [Read More](https://medium.com/p/749c7c9ec4de) |
 | Thu, 14 Aug 2025 16:41:14 GMT | The Privacy Paradox: Lessons from the Onion and the Batman | Yenni Theresia Zalukhu | [Read More](https://medium.com/p/c22a932874f9) |
-| Thu, 14 Aug 2025 16:40:38 GMT | Expert Lecture 3 | Sean William | [Read More](https://medium.com/p/166ad9fa6489) |
-| Thu, 14 Aug 2025 16:36:14 GMT | 6 Cartoons about Apps, Bugs, and Technology | Larrylambert | [Read More](https://medium.com/p/94cff7dd5e71) |
-| Thu, 14 Aug 2025 16:34:06 GMT | Expert Lecture 3: Why the Digital World Needs Both The Onion and Batman, The Privacy Paradox | Muhammad Allif Qalbiy | [Read More](https://medium.com/p/7ef70ca26af3) |
-| Thu, 14 Aug 2025 16:32:02 GMT | Not the onion you know — TOR in a nutshell | Ulrich Stern | [Read More](https://medium.com/p/3b5ef169a3bf) |
-| Thu, 14 Aug 2025 16:31:47 GMT | FreeIPA Lab — Identity, Policy, Authentication in Action | Abdelrahman Metwaly | [Read More](https://medium.com/p/83a61091a0e4) |
-| Thu, 14 Aug 2025 16:23:33 GMT | SMT Program Expert Lecture 3: Peeling Back the Layers of the Deep & Dark Web and The BOIM | Robert | [Read More](https://medium.com/p/de52ca4a5370) |
-| Thu, 14 Aug 2025 16:22:15 GMT | TwoMillion — Hack The Box Walkthrough | Canyon Cook | [Read More](https://medium.com/p/3449311bcb3b) |
-| Thu, 14 Aug 2025 16:17:20 GMT | SMT2025 Expert Lecture 3: The Privacy Paradox The Onion & Batman | Rivaldo Juanda Tampubolon | [Read More](https://medium.com/p/55f8074b537b) |
-| Thu, 14 Aug 2025 16:16:40 GMT | The Privacy Paradox: The Onion & Batman | Evelyn A | [Read More](https://medium.com/p/8a8f6951d927) |
-| Thu, 14 Aug 2025 16:16:38 GMT | Virtual MasterCard 2025 | Daniller Castra | [Read More](https://medium.com/p/1ddaefcd582b) |
-| Thu, 14 Aug 2025 16:16:34 GMT | The Privacy Paradox: Lessons on The Onion & Batman in the Age of Surveillance | Daniel Ramawijaya 2 | [Read More](https://medium.com/p/a791edd86f27) |
-| Thu, 14 Aug 2025 16:12:48 GMT | Onion Routing: A solution for freedom speech in an era of “Pembungkaman” | Hildan Kusto Utomo | [Read More](https://medium.com/p/7ac329bcc073) |
-| Thu, 14 Aug 2025 16:10:44 GMT | SMT Program 2025 — Expert Lecture 2 Journal: The Privacy Paradox: The Batman And Onion | Davis Arvaputra Dwiansyah | [Read More](https://medium.com/p/b0bdf6fceb93) |
