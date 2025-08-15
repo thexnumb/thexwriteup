@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 12:40:04 GMT | Cisco ISE Guest Portal: Fixing Redirection Issues with a Public FQDN and Let’s Encrypt | Teymur Aghayev | [Read More](https://medium.com/p/028a8321a331) |
+| Fri, 15 Aug 2025 12:37:46 GMT | El bug no rompe el sistema, revela su verdadera forma | Gorka | [Read More](https://medium.com/p/b763831a5398) |
+| Fri, 15 Aug 2025 12:37:44 GMT | A Better Browser: Brave — Speed, Privacy, and the Future of Web Browsing | ToufiQ | [Read More](https://medium.com/p/04f00918bfb9) |
+| Fri, 15 Aug 2025 12:36:29 GMT | SHIFTING LINES | Yash Sharma | [Read More](https://medium.com/p/82fbe92d86aa) |
+| Fri, 15 Aug 2025 12:32:07 GMT | DockerLabs Writeup — Bola (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/27d78d2c8d8b) |
+| Fri, 15 Aug 2025 12:29:00 GMT | Co je DDoS útok a jak se mu bránit? | Cyber Solution | [Read More](https://medium.com/p/30813587d72c) |
+| Fri, 15 Aug 2025 12:27:30 GMT | Types of Data Breach: A Simple Guide to Cybersecurity Threats | Timónofearth | [Read More](https://medium.com/p/0ccd9aa3887a) |
+| Fri, 15 Aug 2025 12:26:15 GMT | Federal Courts and Crypto Exchange Reeling from Massive Cyberattacks | Corey Jones | [Read More](https://medium.com/p/e58f972a2f27) |
+| Fri, 15 Aug 2025 12:25:17 GMT | - Newbie’s Process of Solving Bandit Labs Lvl. 0–10 | b0realii | [Read More](https://medium.com/p/a0402cc8c993) |
+| Fri, 15 Aug 2025 12:23:05 GMT | Admin Series: Fortifying Your Snowflake Account: A Strategic Guide to Prevent Data Exfiltration | Rajiv Gupta | [Read More](https://medium.com/p/953509665c13) |
+| Fri, 15 Aug 2025 12:21:45 GMT | How to Prevent Phishing Attacks in Organizations: A Complete Guide to Cyber Security Defense | Paul Meyer | [Read More](https://medium.com/p/8d99f58acb81) |
+| Fri, 15 Aug 2025 12:18:46 GMT | Fortify Your Info: Why Data Governance Matters More Than Ever | Fabio Pierre | [Read More](https://medium.com/p/43dfe1d28f0c) |
+| Fri, 15 Aug 2025 12:18:06 GMT | Building a Detection Lab That Fits in Your Laptop | Joseph Gitonga | [Read More](https://medium.com/p/552ed69a95c6) |
+| Fri, 15 Aug 2025 12:11:39 GMT | Best VPN for the Linux Operating System Parrot (Formerly Parrot Security OS) | Toufique | [Read More](https://medium.com/p/997130869863) |
+| Fri, 15 Aug 2025 12:05:41 GMT | Say Goodbye to Password Fatigue: OpenID Authentication Explained | Dennis Peter Munyao | [Read More](https://medium.com/p/d6e178d6854b) |
+| Fri, 15 Aug 2025 12:04:34 GMT | Siber Güvenlikte Yapay Zeka: Tehditler ve Fırsatlar | HÜSEYİN AYDIN | [Read More](https://medium.com/p/ea2374175d42) |
+| Fri, 15 Aug 2025 12:03:23 GMT | I Turned One XSS Into $4,000 in 48 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/4a80e8f79b30) |
+| Fri, 15 Aug 2025 12:02:26 GMT | Using Tutorials To Show Exploits (Series) — Part 1 | Nwosu Rosemary | [Read More](https://medium.com/p/0f5c87e3894c) |
+| Fri, 15 Aug 2025 12:01:52 GMT | Best #CyberSecurity Training in India for Beginners in 2025 | Pravin Choudhary | [Read More](https://medium.com/p/d8cfbb68280c) |
+| Fri, 15 Aug 2025 11:57:12 GMT | The Corix Partners Friday Reading List — August 15, 2025 | JC Gaillard | [Read More](https://medium.com/p/dac6449ab562) |
+| Fri, 15 Aug 2025 11:53:40 GMT | Cybersecurity Maturity & Audit Toolkit | Ajansistan Etsy | [Read More](https://medium.com/p/846ded50279f) |
+| Fri, 15 Aug 2025 11:42:34 GMT | ️‍♂️ Discover Hidden API Bugs Faster with PayloadMutator! | Shiv | [Read More](https://medium.com/p/fa0da80d2450) |
 | Fri, 15 Aug 2025 11:28:59 GMT | 10 Golang Security Gotchas — And the Fixes That Actually Work | Gopher | [Read More](https://medium.com/p/e1cf4a1838de) |
 | Fri, 15 Aug 2025 11:24:50 GMT | Data Leakage | Ayush Parwal | [Read More](https://medium.com/p/5d7cfc955c8c) |
 | Fri, 15 Aug 2025 11:20:08 GMT | Prompt Injection: The Social Engineering of AI — and How to Defend Against It | Aramlmanukyan | [Read More](https://medium.com/p/7bcf256eac59) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 07:35:45 GMT | PhantomCard: How NFC Malware Could Empty Your Bank Account | Liran Nachman | [Read More](https://medium.com/p/e45caa1f2c18) |
 | Fri, 15 Aug 2025 07:35:16 GMT | Easy 130$ Bounty: User to Admin | Musab Sarı | [Read More](https://medium.com/p/fe9340ff9bd3) |
 | Fri, 15 Aug 2025 07:34:40 GMT | ประจำวันศุกร์ที่ 15 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/e8e31ee47459) |
-| Fri, 15 Aug 2025 07:33:46 GMT | Technology plays a ubiquitous role in modern education. | Sukaina Saeed | [Read More](https://medium.com/p/591584a93b31) |
-| Fri, 15 Aug 2025 07:27:48 GMT | The Digital Forensics Process: From Acquisition to Courtroom | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/f7694f15833e) |
-| Fri, 15 Aug 2025 07:27:22 GMT | Hacking AI is TOO EASY (This Should Be Illegal) | Shahzaib | [Read More](https://medium.com/p/90dd2b7b05bd) |
-| Fri, 15 Aug 2025 07:23:08 GMT | How to $BUG Yield Farming on StakingRewards for Maximum APY | BUG | [Read More](https://medium.com/p/986888ca9033) |
-| Fri, 15 Aug 2025 07:22:51 GMT | Host & Network Penetration Testing: Exploitation CTF 1 | Psalm Endozo | [Read More](https://medium.com/p/7124e454e5cf) |
-| Fri, 15 Aug 2025 07:22:40 GMT | I Found 10x More SQLi Flaws Using This Bash Trick | Ibtissam hammadi | [Read More](https://medium.com/p/6300ca3a0f14) |
-| Fri, 15 Aug 2025 07:12:33 GMT | Start Earning with BUG $BUG on StakingRewards | BUG | [Read More](https://medium.com/p/2f2ef020aefd) |
-| Fri, 15 Aug 2025 07:07:57 GMT | The neglected side of web3 security | Extropy.IO | [Read More](https://medium.com/p/d92c4e5e71bd) |
-| Fri, 15 Aug 2025 07:01:59 GMT | Dijital Gölge: Biz Öldükten Sonra Dijital Varlıklarımız Ne Olacak? | AYŞE KIZILAY | [Read More](https://medium.com/p/0ba06b3788e2) |
-| Fri, 15 Aug 2025 07:01:52 GMT | From Manual Chaos to Automated Excellence: How High-Performing Teams Thrive with Fomerly HR | Fomerly HR | [Read More](https://medium.com/p/0234e4f79875) |
-| Fri, 15 Aug 2025 07:01:22 GMT | From ML to LLMs: AI Foundations Everyone Studying AI Should Know | Louis Cremen | [Read More](https://medium.com/p/df99bad3f0bb) |
-| Fri, 15 Aug 2025 07:01:00 GMT | Stop Guessing in Penetration Testing — The 2025 Tool That Actually Work ( the Surprising Power of… | Sajjad Hussain | [Read More](https://medium.com/p/4c5d542637d7) |
-| Fri, 15 Aug 2025 07:00:44 GMT | ***(<☆><☆>)*** | Dominick Zollinger | [Read More](https://medium.com/p/4ca85c521394) |
-| Fri, 15 Aug 2025 06:59:12 GMT | Benim Dijital İkizim, Benden Daha mı Akıllı Olacak? | AYŞE KIZILAY | [Read More](https://medium.com/p/a46ef100222a) |
-| Fri, 15 Aug 2025 06:57:09 GMT | One Click, Infinite Risk: How a Tiny Config Change in Cursor Could Hijack Your Machine | DataDrivenNews | [Read More](https://medium.com/p/fda67705482a) |
-| Fri, 15 Aug 2025 06:57:03 GMT | Kodun Vicdanı: Dijital Etik Neden Şimdi Her Zamankinden Daha Önemli? | AYŞE KIZILAY | [Read More](https://medium.com/p/963b1e821d36) |
-| Fri, 15 Aug 2025 06:54:13 GMT | Securing iOS Apps: Best Practices, Tools, and Techniques | Sergey Zhuravel | [Read More](https://medium.com/p/d17aa285b6ed) |
-| Fri, 15 Aug 2025 06:51:52 GMT | Yetkin Olmadan Yönetmek: Cahil Cesareti mi, Gizli Tehdit mi? | AYŞE KIZILAY | [Read More](https://medium.com/p/d513aa960bb6) |
-| Fri, 15 Aug 2025 06:51:17 GMT | Deploy SafeLine WAF with Docker — A Step-by-Step Guide | Quella | [Read More](https://medium.com/p/28c02df8c062) |
-| Fri, 15 Aug 2025 06:49:08 GMT | The Fake Airdrop Tactic Explained | WalletKeeper | [Read More](https://medium.com/p/b886e8b5f315) |
-| Fri, 15 Aug 2025 06:46:51 GMT | Teknoloji İyiyse, Neden Kaygımız Artıyor? | AYŞE KIZILAY | [Read More](https://medium.com/p/fd9557ab1c1c) |
-| Fri, 15 Aug 2025 06:44:40 GMT | Ara Varlıklar: İnsan ile Makine Arasında Yeni Bir Zihin Sınıfı | AYŞE KIZILAY | [Read More](https://medium.com/p/f45601ef5333) |
