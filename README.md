@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 15:17:31 GMT | ‘The Uber Eats’ of Cybercrime. Dissecting the Attacks from OSINT to Selling Access in the Dark Web | Afwan Mulia Pratama | [Read More](https://medium.com/p/a4ea3b524229) |
+| Fri, 15 Aug 2025 15:11:08 GMT | A Delicate Balance of Fragility: Keeping Heart Whole | Clumsy_fellaaaaa | [Read More](https://medium.com/p/0f2ee1392438) |
+| Fri, 15 Aug 2025 15:06:32 GMT | FortiGate Kurulumu ve Uygulamalar | Ömer POLAT | [Read More](https://medium.com/p/36d27896b384) |
+| Fri, 15 Aug 2025 15:06:32 GMT | Top Noise-Canceling Headphones of 2025: Work, Travel, and Music Perfection | sana irshad | [Read More](https://medium.com/p/fe2d0651eb13) |
+| Fri, 15 Aug 2025 15:03:16 GMT | Trying Kali Linux and the Bandit wargame (Levels 0–10) | Kriztian Gerard Kim | [Read More](https://medium.com/p/9a4643fe46a2) |
+| Fri, 15 Aug 2025 15:01:52 GMT | The Digital Fortress: Understanding Cybersecurity in a Connected World | CapitalCoin | [Read More](https://medium.com/p/7376d26b1c12) |
+| Fri, 15 Aug 2025 14:58:58 GMT | The Unspoken Conflict | Larissa Oliveira | [Read More](https://medium.com/p/e0fbb020528a) |
+| Fri, 15 Aug 2025 14:50:08 GMT | Operation PedoHunt: A Civilian-Led Initiative to Protect Children Online | OperationPedoHunt | [Read More](https://medium.com/p/44055b202760) |
+| Fri, 15 Aug 2025 14:47:01 GMT | Solving PHP’s Cross-Site Request Forgery (CSRF) Vulnerabilities: Advanced Protection Strategies | Ann R. | [Read More](https://medium.com/p/0511675b0498) |
+| Fri, 15 Aug 2025 14:43:10 GMT | OAuth Phishing: How Hackers Are Bypassing MFA — and What UK Businesses Need to Do About It | Alex Hughes | [Read More](https://medium.com/p/2e5251898b77) |
+| Fri, 15 Aug 2025 14:42:55 GMT | AI’s Relentless Pace: The Reality of GPT-5 and Our Evolving World | CFE Consultancy Services | [Read More](https://medium.com/p/9778d03057a9) |
+| Fri, 15 Aug 2025 14:42:37 GMT | 98% of Organizations Hit by Breaches Due to Vulnerable Code: Why Mammoth Enterprise AI Browser is… | Mammoth Cyber | [Read More](https://medium.com/p/b701d7953a5b) |
+| Fri, 15 Aug 2025 14:39:55 GMT | INFORMATIONAL #2 | Shakthi | [Read More](https://medium.com/p/6429709d466f) |
 | Fri, 15 Aug 2025 14:38:36 GMT | “Day 12: The Rate Limit Paradox — How I Weaponized API Protections for a $500 DoS Bug” | Aman Sharma | [Read More](https://medium.com/p/497fa5f8fe45) |
 | Fri, 15 Aug 2025 14:29:51 GMT | Why You Can Trust HTTPS: Demystifying SSL | Prakash Verma | [Read More](https://medium.com/p/513db955c98f) |
 | Fri, 15 Aug 2025 14:25:38 GMT | Analyzing Windows Sysmon Log with Python | Kiran Adhikari | [Read More](https://medium.com/p/35d84be2bf4e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 09:53:44 GMT | Meet ASA: Your New AI-Powered Security Teammate from Sublime Security | Dean | [Read More](https://medium.com/p/dfb2bc6b89a1) |
 | Fri, 15 Aug 2025 09:51:22 GMT | The QA Breath Test | Scott Sheppard | [Read More](https://medium.com/p/4e0acbd29436) |
 | Fri, 15 Aug 2025 09:51:05 GMT | Building a Secure Flask Authentication System: A Production-Ready Approach | Mohamed Gebril | [Read More](https://medium.com/p/b1c9b698f41b) |
-| Fri, 15 Aug 2025 09:47:45 GMT | SaaS Environment Control: Who Really Owns Your Cloud Security? | Evgeny Ermakov | [Read More](https://medium.com/p/d4bde5e93ca6) |
-| Fri, 15 Aug 2025 09:43:40 GMT | Bug Bounty Hunting: JWT Vulnerabilities Deeply Explained (Live Step-by-Step Practical) | Shaikh Minhaz | [Read More](https://medium.com/p/69934e520dee) |
-| Fri, 15 Aug 2025 09:41:23 GMT | CYBERDEFENDERS XWorm Lab | Habibecanan | [Read More](https://medium.com/p/2b7b72810980) |
-| Fri, 15 Aug 2025 09:33:58 GMT | ⚔️ “How to Predict and Prevent Cyber Attacks with Threat Modelling” | Furkanctiner | [Read More](https://medium.com/p/3ff56f2e0e40) |
-| Fri, 15 Aug 2025 09:29:17 GMT | Your Digital Compass: Navigating the World of Hacking, VMs, Linux, and Networking | Adityanarayanan A S | [Read More](https://medium.com/p/29459b37944e) |
-| Fri, 15 Aug 2025 09:21:35 GMT | How I Landed a Critical Bug After a Couple of Months break from Bounties | cybrNK | [Read More](https://medium.com/p/94a78cf2c2ce) |
-| Fri, 15 Aug 2025 09:18:09 GMT | Why Gmail Ignores Dots in Your Email Address and What It Means for You | Malvox | [Read More](https://medium.com/p/97ba92527458) |
-| Fri, 15 Aug 2025 09:17:38 GMT | Systems as Attack Vectors - Tryhackme | Aaron | [Read More](https://medium.com/p/db7e636f0770) |
-| Fri, 15 Aug 2025 09:16:28 GMT | Which home security system should I buy? | Medium Articles | [Read More](https://medium.com/p/29bd29b9076a) |
-| Fri, 15 Aug 2025 09:12:10 GMT | How Mobile Patrol and Alarm Response Services Can Drastically Reduce Theft for Edmonton Businesses | Nimmi Xheikh | [Read More](https://medium.com/p/f78748814439) |
-| Fri, 15 Aug 2025 09:10:00 GMT | When The Phones Went Silent: Luxembourg’s Cyber Siege | O. J. Okpabi | [Read More](https://medium.com/p/bfd83786041c) |
-| Fri, 15 Aug 2025 09:08:11 GMT | Critical SSH Vulnerabilities Are Exposing Enterprise Networks: And Patching Still Isn’t Keeping Up | cybrNK | [Read More](https://medium.com/p/4bc37b49c35f) |
-| Fri, 15 Aug 2025 09:08:06 GMT | The Rise of Ransomware-as-a-Service Cybercrime Goes Corporate | Land2Cyber | [Read More](https://medium.com/p/3769bd0a2675) |
