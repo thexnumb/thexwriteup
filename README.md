@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 17:39:28 GMT | Bug Bounty: XSS Exploitation — From Alert Boxes to Full Control! | Rajkumar Kumawat | [Read More](https://medium.com/p/6530d83cafa6) |
+| Fri, 15 Aug 2025 17:33:50 GMT | DEF CON 33: Access Everywhere | tackvv | [Read More](https://medium.com/p/58bf08e502cb) |
+| Fri, 15 Aug 2025 17:32:12 GMT | PhantomCard: Advanced NFC Relay Malware Targeting Brazilian Mobile Banking Users | RealSec.io | [Read More](https://medium.com/p/04c023fedc27) |
+| Fri, 15 Aug 2025 17:25:14 GMT | Chaining Misconfigurations: From File Uploads to Account Takeover | Hamed Alvandy | [Read More](https://medium.com/p/6ed4ae03d8d1) |
+| Fri, 15 Aug 2025 17:23:59 GMT | CVE-2025–20265 and CVE-2025–20217: Cisco’s Firewall Flaws Open Doors to RCE and DoS | gm0 | [Read More](https://medium.com/p/48328fd17a36) |
 | Fri, 15 Aug 2025 17:18:12 GMT | XSS Demo Lab | Xsigkillr | [Read More](https://medium.com/p/6c72c63fd83d) |
 | Fri, 15 Aug 2025 17:12:49 GMT | Understanding Hacking: Ethical vs. Malicious | Meenakshisuresh | [Read More](https://medium.com/p/8f717105dc13) |
 | Fri, 15 Aug 2025 17:04:16 GMT | The Problem of “Phantom Jobs” and Exploitative Interview Processes | Internet Exposed | [Read More](https://medium.com/p/bb11afa4934b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 12:05:41 GMT | Say Goodbye to Password Fatigue: OpenID Authentication Explained | Dennis Peter Munyao | [Read More](https://medium.com/p/d6e178d6854b) |
 | Fri, 15 Aug 2025 12:04:34 GMT | Siber Güvenlikte Yapay Zeka: Tehditler ve Fırsatlar | HÜSEYİN AYDIN | [Read More](https://medium.com/p/ea2374175d42) |
 | Fri, 15 Aug 2025 12:03:23 GMT | I Turned One XSS Into $4,000 in 48 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/4a80e8f79b30) |
-| Fri, 15 Aug 2025 12:02:26 GMT | Using Tutorials To Show Exploits (Series) — Part 1 | Nwosu Rosemary | [Read More](https://medium.com/p/0f5c87e3894c) |
-| Fri, 15 Aug 2025 12:01:52 GMT | Best #CyberSecurity Training in India for Beginners in 2025 | Pravin Choudhary | [Read More](https://medium.com/p/d8cfbb68280c) |
-| Fri, 15 Aug 2025 11:57:12 GMT | The Corix Partners Friday Reading List — August 15, 2025 | JC Gaillard | [Read More](https://medium.com/p/dac6449ab562) |
-| Fri, 15 Aug 2025 11:53:40 GMT | Cybersecurity Maturity & Audit Toolkit | Ajansistan Etsy | [Read More](https://medium.com/p/846ded50279f) |
-| Fri, 15 Aug 2025 11:42:34 GMT | ️‍♂️ Discover Hidden API Bugs Faster with PayloadMutator! | Shiv | [Read More](https://medium.com/p/fa0da80d2450) |
