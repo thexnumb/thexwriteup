@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 20:29:28 GMT | Day 82: Security Principles 1 | Nile Okomo | [Read More](https://medium.com/p/227d13f86710) |
+| Fri, 15 Aug 2025 20:26:05 GMT | Chase Excellence, not fancy certs | Saroopanand | [Read More](https://medium.com/p/6eabfa22c8d2) |
+| Fri, 15 Aug 2025 20:24:41 GMT | Multiple Times Smarter Than ChatGPT? - New FREE Tool Makes GPT-5 Look Like a Toy | Balthasar | [Read More](https://medium.com/p/2b3920e48673) |
+| Fri, 15 Aug 2025 20:24:27 GMT | Linux Kernel Drivers: The Bridge Between Hardware and Software | Ahmed Ally | [Read More](https://medium.com/p/f3b2c1e37d90) |
+| Fri, 15 Aug 2025 20:23:08 GMT | How to Run Autonomous Vehicle Simulations in CARLA on Windows | Mirza Akhi | [Read More](https://medium.com/p/c0387ff95986) |
+| Fri, 15 Aug 2025 20:22:45 GMT | THE DATA -ACCESS -TRAP YOU KEEP FALLING FOR. | Anushka Sharma | [Read More](https://medium.com/p/42cf088f4872) |
+| Fri, 15 Aug 2025 20:22:23 GMT | The AI Security Audit That Scared Our CISO (And Changed Everything About Our AI Strategy) | Shachar Solomon | [Read More](https://medium.com/p/bedc71133691) |
+| Fri, 15 Aug 2025 20:21:45 GMT | File Inclusion | Azer Abdullazde | [Read More](https://medium.com/p/fcb0e9a5b70d) |
 | Fri, 15 Aug 2025 20:12:40 GMT | ️‍♂️Natas 7 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/b1ff274ad230) |
 | Fri, 15 Aug 2025 19:59:57 GMT | 7 Ways to Prove Your Authorship Offline | Frederic Hutter | [Read More](https://medium.com/p/94361cb52e1b) |
 | Fri, 15 Aug 2025 19:53:48 GMT | HackTheBox: Mobile-APKey | Gba | [Read More](https://medium.com/p/e1dd0d434aeb) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 14:13:45 GMT | Microsoft’s August 2025 Patch Tuesday updates | IT_Engineer | [Read More](https://medium.com/p/306c736203da) |
 | Fri, 15 Aug 2025 14:10:01 GMT | [CyberDefenders ]- 3CX Supply Chain Lab Walkthrough | Yash Davare | [Read More](https://medium.com/p/2c3bdce14c51) |
 | Fri, 15 Aug 2025 14:10:01 GMT | SIEM Use Case Series Day 6: Detecting Communication to OSINT-Flagged Malicious URLs | NineTales | [Read More](https://medium.com/p/8d827097d82e) |
-| Fri, 15 Aug 2025 14:02:15 GMT | Breach in Plain Sight: How Steganography Is Being Used to Hide Cyberattacks in Everyday Files | Travis Ray Caverhill | [Read More](https://medium.com/p/739ac5657f56) |
-| Fri, 15 Aug 2025 14:01:51 GMT | Cyber Briefing: 2025–08–15 | CyberMaterial | [Read More](https://medium.com/p/a36bf029374c) |
-| Fri, 15 Aug 2025 13:59:48 GMT | Security by Design: A Cybersecurity Student’s Perspective | Syed Hyder Hassan | [Read More](https://medium.com/p/ea317289dd00) |
-| Fri, 15 Aug 2025 13:59:47 GMT | Scaling On-Prem Security at Palantir | Palantir | [Read More](https://medium.com/p/a333327d69a5) |
-| Fri, 15 Aug 2025 13:51:08 GMT | IDOR - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/76fd1b4df029) |
-| Fri, 15 Aug 2025 13:51:05 GMT | IDOR - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/5ea62f863a33) |
-| Fri, 15 Aug 2025 13:49:51 GMT | The Container Revolution: Why It’s Booming and How Cybersecurity is Keeping Up | Umair Baig | [Read More](https://medium.com/p/d95e3302ccdc) |
-| Fri, 15 Aug 2025 13:49:36 GMT | The $10 Cyber Weapon | Stephanie Agunu | [Read More](https://medium.com/p/a8fa1b8405b7) |
