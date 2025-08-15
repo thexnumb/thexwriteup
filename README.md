@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 08:38:24 GMT | TryHackMe Writeup : MilliSec.1.0 | Zahidli Pervin | [Read More](https://medium.com/p/de02a8c798fd) |
+| Fri, 15 Aug 2025 08:38:13 GMT | 10 Bug Bounty Tricks That $100K+ Hunters Guard Like Their Lives | Qasim Mahmood Khalid | [Read More](https://medium.com/p/f83f523f3828) |
+| Fri, 15 Aug 2025 08:32:25 GMT | OverTheWire Bandit Levels 0 to 10, a practical walkthrough | Zaiddan Sy | [Read More](https://medium.com/p/33e1d2b64b5e) |
+| Fri, 15 Aug 2025 08:29:40 GMT | Panduan Pemula Nmap | Ginda Sundara | [Read More](https://medium.com/p/76034b9056c8) |
+| Fri, 15 Aug 2025 08:25:51 GMT | SOC Team Structure Best Practices for Scaling Cyber Defense | SecureSlate | [Read More](https://medium.com/p/bdafd7519dc8) |
 | Fri, 15 Aug 2025 08:24:37 GMT | How I Used Cache Poisoning to Bag a Bug Bounty | Zoningxtr | [Read More](https://medium.com/p/1365d19bf60f) |
 | Fri, 15 Aug 2025 08:22:31 GMT | Google just paid $250000 for one bug — And It Wasn’t Even Memory Corruption | ven coding | [Read More](https://medium.com/p/ce68ec594115) |
 | Fri, 15 Aug 2025 08:22:28 GMT | Install and Configure HashiCorp Vault — Step by Step | TTnguyen | [Read More](https://medium.com/p/abe6651a40f1) |
@@ -68,6 +73,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 06:24:18 GMT | Veri Merkezcilik: Her Şeyi Ölçmek Zorunda mıyız? | AYŞE KIZILAY | [Read More](https://medium.com/p/161a4ddca59e) |
 | Fri, 15 Aug 2025 06:22:08 GMT | Üretici Olmak Sadece İçerik Üretmek Değil | AYŞE KIZILAY | [Read More](https://medium.com/p/22b619cdf261) |
 | Fri, 15 Aug 2025 06:17:29 GMT | How to Configure and Test SafeLine WAF on DVWA | Quella | [Read More](https://medium.com/p/268c944ae50c) |
+| Fri, 15 Aug 2025 06:16:25 GMT | Bankalar, Limanlar ve Depolarda Güvenlik: Desecure ile Bütünsel Koruma | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/ab4db03b9fba) |
 | Fri, 15 Aug 2025 06:15:54 GMT | The Rise of AI-Powered Cyber Attacks — and How Adaptive Defense Will Win the Race | Prewin Thomas | [Read More](https://medium.com/p/f200bbda4854) |
 | Fri, 15 Aug 2025 06:04:05 GMT | How SQLMap Turns Hours of Database Hacking Into a 5-Minute Job in 2025 | Sajjad Hussain | [Read More](https://medium.com/p/91c000746bc4) |
 | Fri, 15 Aug 2025 06:01:33 GMT | The Top Tech Trends of 2025: What’s Shaping Our Digital Future? | Gaurav Garkoti | [Read More](https://medium.com/p/d3a097bbfda2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 02:20:39 GMT | TryHackMe — Password Attacks | Gorohvski | [Read More](https://medium.com/p/9892d4bb9422) |
 | Fri, 15 Aug 2025 02:18:35 GMT | ️ Kraford.com | Ivona Simic | [Read More](https://medium.com/p/fc819adddb8d) |
 | Fri, 15 Aug 2025 02:16:49 GMT | The New Age of Car Theft: How Computers Are Helping Criminals Steal Cars in Minutes | Internet Exposed | [Read More](https://medium.com/p/d616f2f7d892) |
-| Fri, 15 Aug 2025 02:10:20 GMT | Understanding Onion, Dark Web Dynamics, Data Breach Risks, and Defense Strategies | Sabrina Zulfawa | [Read More](https://medium.com/p/b00b1ae08c5a) |
-| Fri, 15 Aug 2025 01:45:52 GMT | Serverless Malware Scanning on S3 with Amazon GuardDuty (and a Quarantine Flow) | Georgi_V | [Read More](https://medium.com/p/3412b528ec1c) |
-| Fri, 15 Aug 2025 01:38:50 GMT | Someone who loves you in your deepest shadows | Adha✨ | [Read More](https://medium.com/p/45b65be4b6e8) |
-| Fri, 15 Aug 2025 01:37:26 GMT | The War That Wasn’t Worth The Fight: How a Childhood of Silence Shaped a Lifetime of Struggle | Jen Marie | [Read More](https://medium.com/p/da7c01aa40a4) |
-| Fri, 15 Aug 2025 01:30:09 GMT | How WAFs Block the OWASP Top 10 — With Real Attack Examples | Rue | [Read More](https://medium.com/p/0c0a7dc037a6) |
-| Fri, 15 Aug 2025 01:29:29 GMT | Mind-Reading AI: How Your Thoughts Could Become the Most Valuable Commodity by 2035 | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/a03157bab6d5) |
