@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 Aug 2025 19:21:04 GMT | Docker Run — How to Maximise Container Security according to the Best DevSecOps Practices | BecomeDevOps | [Read More](https://medium.com/p/184994ea6609) |
+| Fri, 15 Aug 2025 19:15:33 GMT | Which Tools Are Used to Check Password Strength? — A Complete Guide | Tahaazeemguestblogger | [Read More](https://medium.com/p/b623aa816363) |
+| Fri, 15 Aug 2025 19:12:33 GMT | Step-by-step Complete Setup Guide for Automotive Application Testing (AAOS Emulator) | Sandeep Vishwakarma | [Read More](https://medium.com/p/29ffcab3fda9) |
+| Fri, 15 Aug 2025 19:12:02 GMT | Securing Web Apps with JavaScript: Lessons from the Frontlines of IT Defense | Maximilian Oliver | [Read More](https://medium.com/p/efbb22fa364a) |
+| Fri, 15 Aug 2025 19:10:32 GMT | WordPress Plugin LFI Code Review | AbhirupKonwar | [Read More](https://medium.com/p/57f6a2decb37) |
 | Fri, 15 Aug 2025 19:07:39 GMT | Are You Confused Yet? | Armor | [Read More](https://medium.com/p/4fdb0a627d3c) |
 | Fri, 15 Aug 2025 19:03:59 GMT | 2025: CompTIA Still Relevant? | Miguel Norberto | [Read More](https://medium.com/p/a50086231da0) |
 | Fri, 15 Aug 2025 19:02:24 GMT | The Day a Null Byte Outsmarted an XSS Filter | Rehan Ansari | [Read More](https://medium.com/p/af07dbc0902b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 13:30:24 GMT | How I Ended Up Doing a ₹45,901.53 Pen-Test After Thinking the Client Was Just Talking | Nitin yadav | [Read More](https://medium.com/p/d2c9f139943d) |
 | Fri, 15 Aug 2025 13:29:41 GMT | Unified Kill Chain — TryHackMe Wallkthrough | Genrunic | [Read More](https://medium.com/p/427531ea45e1) |
 | Fri, 15 Aug 2025 13:27:13 GMT | The Deepfake Wars: How AI Just Hit 98% Accuracy in Spotting Fake Videos (And Why That Both Excites… | Mareh Agoreyo | [Read More](https://medium.com/p/1811a8238637) |
-| Fri, 15 Aug 2025 13:25:48 GMT | 2018 Predictions for the Future of Cloud Computing — How Did They Hold Up in 2025? | james Ford | [Read More](https://medium.com/p/c631f743b9c5) |
-| Fri, 15 Aug 2025 13:25:38 GMT | Threat Modeling: Understanding and Reducing Cybersecurity Risks | Genrunic | [Read More](https://medium.com/p/54146e1f9c82) |
-| Fri, 15 Aug 2025 13:24:25 GMT | Reflections: What You Learn by Doing | Anezaneo | [Read More](https://medium.com/p/2999246792f3) |
-| Fri, 15 Aug 2025 13:18:14 GMT | The Rise of AI-Driven IT Operations (AIOps) | InByte | [Read More](https://medium.com/p/bf86be6ad6fb) |
-| Fri, 15 Aug 2025 13:10:35 GMT | MCP Vulnerabilities Every Developer Should Know | Insight Hub | [Read More](https://medium.com/p/0f5354c07efa) |
