@@ -12,10 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 19:05:45 GMT | Why SocialBox.Biz is London’s Unique Solution for Secure IT Reuse Before Recycling | laptops donations before recycling in london-uk | [Read More](https://medium.com/p/f71dce4caf32) |
+| Sat, 16 Aug 2025 18:56:47 GMT | Wavlink-WN530G3A-Cmd-Injection | ice-wzl | [Read More](https://medium.com/p/dfb06c1433c5) |
+| Sat, 16 Aug 2025 18:50:32 GMT | Update Now or Pay Later: The Wild Journey of a Leaked Cyberweapon | Ayush Kumar Saxena | [Read More](https://medium.com/p/a9a8807cfac6) |
+| Sat, 16 Aug 2025 18:50:06 GMT | Building Secure Software: Why Information Security Can’t Be an Afterthought | Okan Yurt | [Read More](https://medium.com/p/53ae45dc1007) |
 | Sat, 16 Aug 2025 18:45:59 GMT | การ setup Mythic เป็น c2 server บน ec2 | Nattawat Songsom | [Read More](https://medium.com/p/078d6e79fe08) |
 | Sat, 16 Aug 2025 18:41:03 GMT | Protect your Online Business with these 3 Cybersecurity Tools | Jeosantos | [Read More](https://medium.com/p/9cdd9444302c) |
 | Sat, 16 Aug 2025 18:40:34 GMT | When Scammers Steal Homes: The Rising Threat of Home Title Fraud | Internet Exposed | [Read More](https://medium.com/p/9e733e25b946) |
+| Sat, 16 Aug 2025 18:39:17 GMT | This Travel Hack Could Save Your Lungs in Polluted Cities | Marc Ford | [Read More](https://medium.com/p/a669a533a66a) |
+| Sat, 16 Aug 2025 18:37:54 GMT | My First Steps into Hacking: A Beginner’s Journey | Gouri Nandana J | [Read More](https://medium.com/p/4d370e59447a) |
 | Sat, 16 Aug 2025 18:37:36 GMT | Join The Hacking Life! Become a Writer For a GHB! | NnFace | [Read More](https://medium.com/p/35c8e59bb05e) |
+| Sat, 16 Aug 2025 18:37:32 GMT | The Castle Is Crumbling: Why Security Must Think Like an Airport | maelidrissiattach | [Read More](https://medium.com/p/05e8f4506585) |
 | Sat, 16 Aug 2025 18:31:31 GMT | Fluffy Write-up - HackTheBox - Season 8 | debang5hu | [Read More](https://medium.com/p/1fd0b3ff4adf) |
 | Sat, 16 Aug 2025 18:27:27 GMT | Secure Access Service Edge (SASE): A Modern Approach to Network Security | Raviteja Mureboina | [Read More](https://medium.com/p/ed5cee0a33b1) |
 | Sat, 16 Aug 2025 18:27:14 GMT | Chrome’s $250,000 Bug: Why Sandbox Escapes Are a Big Deal | Liran Nachman | [Read More](https://medium.com/p/4f87dd99ebf7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 13:07:14 GMT | Acı Piramidi(Pyramid of Pain) | Ali E. Ceylan | [Read More](https://medium.com/p/7623654b8f3e) |
 | Sat, 16 Aug 2025 13:06:25 GMT | MR.Robot CTF | Ayush Tiwari | [Read More](https://medium.com/p/0cfac3ebd7cc) |
 | Sat, 16 Aug 2025 13:02:19 GMT | How to Simulate a DMZ (Demilitarized Zone) Network with VirtualBox and PfSense Firewall | Bennet Sharwin | [Read More](https://medium.com/p/b36aea158d3c) |
-| Sat, 16 Aug 2025 13:01:37 GMT | Stop Overthinking CORS — Quick Spring Setup | Krzysztof Mrugała | [Read More](https://medium.com/p/6e56b91386d4) |
-| Sat, 16 Aug 2025 12:58:23 GMT | Active Directory’de Golden Ticket ve Silver Ticket Saldırı Analizi | Berat K. | [Read More](https://medium.com/p/5713d55349d9) |
-| Sat, 16 Aug 2025 12:51:35 GMT | The Product Mindset for Cybersecurity | Sateesh Nutulapati | [Read More](https://medium.com/p/85ea2f57981c) |
-| Sat, 16 Aug 2025 12:50:43 GMT | Pickle Rick v2 | Meena A | [Read More](https://medium.com/p/3068d187dd6d) |
-| Sat, 16 Aug 2025 12:47:44 GMT | Red Team vs. Blue Team: Why I Switched Sides After One Mission | Shahzaib | [Read More](https://medium.com/p/452c5c863318) |
-| Sat, 16 Aug 2025 12:43:23 GMT | Quantum Robust Firewalls: Meet The Cipher Translation Proxy | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/f4fb791662fc) |
-| Sat, 16 Aug 2025 12:33:03 GMT | OS Command Injection — Part 02 | Madura Rajapakshe | [Read More](https://medium.com/p/e2aa27f6d937) |
