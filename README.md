@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 11:32:13 GMT | Earned $$$$ by Tricking an AI Chatbot Into Giving Me Secrets | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/6ac3352926e2) |
+| Sat, 16 Aug 2025 11:26:03 GMT | Ring Gen 5 → Gen 6: Sunlight Battle | DragonFlameAce | [Read More](https://medium.com/p/2b7736862c7d) |
+| Sat, 16 Aug 2025 11:22:07 GMT | Authlib: The Python Developer’s Answer to Authentication | Nikhilsaraogi | [Read More](https://medium.com/p/9e718a4d21fc) |
+| Sat, 16 Aug 2025 11:16:57 GMT | Kendini Hack’leyen Yapay Zekâlar: AI Red Teaming Çağı | Celal Şamil Kartoğlu | [Read More](https://medium.com/p/98e5c942e895) |
+| Sat, 16 Aug 2025 11:15:31 GMT | Fino payment Bank se paise cut Jaaye To Kya Karen✅ 9669538050 ✅फिनो पेमेंट बैंक से पैसे कट जाए तो… | फिनो पेमेंट बैंक से पैसे कट जाए तो क्या करें | [Read More](https://medium.com/p/cb1fad9b4862) |
 | Sat, 16 Aug 2025 11:09:33 GMT | Blockchain Security: The Efimer Trojan | Qitmeer Network | [Read More](https://medium.com/p/55d176b6af5c) |
 | Sat, 16 Aug 2025 10:57:29 GMT | Developing Trust in Digital Finance: Why NexFi is Redefining Confidence in Payments | NexFi | [Read More](https://medium.com/p/f2a84696b038) |
 | Sat, 16 Aug 2025 10:55:50 GMT | The Cloud Behind Your Daily Life: You Use It More Than You Know | Richa Ghosh | [Read More](https://medium.com/p/300626d56549) |
@@ -108,8 +113,3 @@ I applied to this position via portal… | Ajit Kumar | [Read More](https://medi
 | Sat, 16 Aug 2025 05:48:01 GMT | “AI-Powered Cyberattacks: How Deepfakes and ChatGPT Scams Are Changing Cybersecurity” | Tarush Sharma | [Read More](https://medium.com/p/81acdbc8549e) |
 | Sat, 16 Aug 2025 05:47:24 GMT | Vulnlab: Insecure Direct Object Reference (IDOR) Writeup | Ikhlasdansantai | [Read More](https://medium.com/p/f4acfdaf6534) |
 | Sat, 16 Aug 2025 05:37:02 GMT | Learning Fortinet Firewall — Introduction and Important Notes | Rouell Mamaril | [Read More](https://medium.com/p/a22d7ce14c71) |
-| Sat, 16 Aug 2025 05:36:43 GMT | Security Apps and the Future of Monitoring | SecurityBlogs | [Read More](https://medium.com/p/33b2035eb8cd) |
-| Sat, 16 Aug 2025 05:22:03 GMT | Everyone’s Talking About AI & IoT. But No One’s Talking About the Real Problem. | Recover Right | [Read More](https://medium.com/p/0ea57b1cf770) |
-| Sat, 16 Aug 2025 05:16:45 GMT | Ghost Tapping: The Invisible Cyber Heist Threatening Your Digital Wallet | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/1afa956b308f) |
-| Sat, 16 Aug 2025 05:07:04 GMT | How a technical test ended up revealing malware in a repository | Fabricio Orrala | [Read More](https://medium.com/p/13868a849c21) |
-| Sat, 16 Aug 2025 04:59:44 GMT | Steps to Recover Your Social Media Account After It Gets Hacked | Qoli AI | [Read More](https://medium.com/p/1328b39043ed) |
