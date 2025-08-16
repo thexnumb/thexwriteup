@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 19:32:11 GMT | How to Deploy a Wazuh Manager Cloud Server | Raynard Waits | [Read More](https://medium.com/p/de73936425c2) |
+| Sat, 16 Aug 2025 19:26:42 GMT | The Looming Threat of AI-Powered Malware: Could Machines Out-Hack Us? | Dark Tech Insights | [Read More](https://medium.com/p/5ea3e0a9cfd5) |
+| Sat, 16 Aug 2025 19:23:40 GMT | How I Turned a Simple OAuth Bug Into a One-Click Account Takeover | srx | [Read More](https://medium.com/p/d8ac8f4c149f) |
+| Sat, 16 Aug 2025 19:10:48 GMT | Android Malware abusing ZIP and XML parameters | HexNinja | [Read More](https://medium.com/p/f666ed8b1a72) |
+| Sat, 16 Aug 2025 19:08:43 GMT | Rate limit bypass leads to email triggering($$$) | srx | [Read More](https://medium.com/p/665a9cd1c3f3) |
+| Sat, 16 Aug 2025 19:07:04 GMT | Reverse Engineering for (CTF)-001 | N1sh | [Read More](https://medium.com/p/94419c0ba8e4) |
 | Sat, 16 Aug 2025 19:05:45 GMT | Why SocialBox.Biz is London’s Unique Solution for Secure IT Reuse Before Recycling | laptops donations before recycling in london-uk | [Read More](https://medium.com/p/f71dce4caf32) |
+| Sat, 16 Aug 2025 19:05:15 GMT | Hacking, Virtual Machines,Linux and Networking | Vinayak D | [Read More](https://medium.com/p/980b25cd5ccc) |
 | Sat, 16 Aug 2025 18:56:47 GMT | Wavlink-WN530G3A-Cmd-Injection | ice-wzl | [Read More](https://medium.com/p/dfb06c1433c5) |
 | Sat, 16 Aug 2025 18:50:32 GMT | Update Now or Pay Later: The Wild Journey of a Leaked Cyberweapon | Ayush Kumar Saxena | [Read More](https://medium.com/p/a9a8807cfac6) |
 | Sat, 16 Aug 2025 18:50:06 GMT | Building Secure Software: Why Information Security Can’t Be an Afterthought | Okan Yurt | [Read More](https://medium.com/p/53ae45dc1007) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 13:29:55 GMT | Ultimate Guide: Bug Bounty Hunters Using Custom TCP Flags for Port Scanning | Zoningxtr | [Read More](https://medium.com/p/e78219d2cc13) |
 | Sat, 16 Aug 2025 13:23:29 GMT | Introduction to Phishing Analysis | Allen Ace | [Read More](https://medium.com/p/cedfd5b2a578) |
 | Sat, 16 Aug 2025 13:20:59 GMT | Cortex Cloud Posture: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/16baaa9ed21a) |
-| Sat, 16 Aug 2025 13:20:46 GMT | Security Awareness Training Service Provider - CyberSapiens | CyberSapiens | [Read More](https://medium.com/p/7590214e6f26) |
-| Sat, 16 Aug 2025 13:16:36 GMT | The Recon Trick Nobody Talks About: DNS History + Archive.org | Nitin yadav | [Read More](https://medium.com/p/7e1d6e6a96d1) |
-| Sat, 16 Aug 2025 13:12:57 GMT | Why Startup Founders Can’t Afford to Ignore Cybersecurity in 2025 | Editorial Staff | [Read More](https://medium.com/p/c70e09057ff1) |
-| Sat, 16 Aug 2025 13:11:31 GMT | Multi-Source Data Correlation and Prioritization in SOC | Esra Kayhan | [Read More](https://medium.com/p/6758c54809ad) |
-| Sat, 16 Aug 2025 13:07:14 GMT | Acı Piramidi(Pyramid of Pain) | Ali E. Ceylan | [Read More](https://medium.com/p/7623654b8f3e) |
-| Sat, 16 Aug 2025 13:06:25 GMT | MR.Robot CTF | Ayush Tiwari | [Read More](https://medium.com/p/0cfac3ebd7cc) |
-| Sat, 16 Aug 2025 13:02:19 GMT | How to Simulate a DMZ (Demilitarized Zone) Network with VirtualBox and PfSense Firewall | Bennet Sharwin | [Read More](https://medium.com/p/b36aea158d3c) |
