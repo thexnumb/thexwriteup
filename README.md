@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 05:07:04 GMT | How a technical test ended up revealing malware in a repository | Fabricio Orrala | [Read More](https://medium.com/p/13868a849c21) |
+| Sat, 16 Aug 2025 04:59:44 GMT | Steps to Recover Your Social Media Account After It Gets Hacked | Qoli AI | [Read More](https://medium.com/p/1328b39043ed) |
+| Sat, 16 Aug 2025 04:57:32 GMT | When Password Reset Turns Into a Privacy Leak: CSRF, IPs & a Little Bit of WTF | Mohamed Said Ibrahim | [Read More](https://medium.com/p/d1961da060b9) |
+| Sat, 16 Aug 2025 04:44:24 GMT | This Side of Paradise | Ac | [Read More](https://medium.com/p/4e316de882af) |
+| Sat, 16 Aug 2025 04:39:17 GMT | Cybersecurity Trends 2025: AI Threats, New Risks & Protection | Hachtechnology | [Read More](https://medium.com/p/e3d7a09d28d3) |
+| Sat, 16 Aug 2025 04:33:11 GMT | From Alerts to Action: My Cybersecurity Internship at Toyota Canada | Tavleen Singh Aneja | [Read More](https://medium.com/p/1235c9c86c68) |
+| Sat, 16 Aug 2025 04:30:20 GMT | Threat Hunting — Understanding the Role and Work | Suhanichoudhary | [Read More](https://medium.com/p/7425ed2a1b69) |
 | Sat, 16 Aug 2025 04:27:27 GMT | Server-side Template Injection Using Documentation: Uncover The Hidden Dangers of SSTI | Bash Overflow | [Read More](https://medium.com/p/566e7159edb7) |
 | Sat, 16 Aug 2025 04:21:23 GMT | TryHackMe Valley — Web Exploitation to Linux Privilege Escalation Walkthrough | R4d14n7 | [Read More](https://medium.com/p/5eb783d6beec) |
 | Sat, 16 Aug 2025 04:19:37 GMT | Day 2: Managing Temporary User Accounts with Expiry Dates | Suraif Muhammad | [Read More](https://medium.com/p/33914e34b99b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 18:23:27 GMT | Crypto24 Ransomware: A Sophisticated EDR-Evasion Assault on Enterprise Giants. | eL Njas!™ | [Read More](https://medium.com/p/984a46f03621) |
 | Fri, 15 Aug 2025 18:21:00 GMT | Benefits of Installing a Wood Fence for Your Property | hector cruz | [Read More](https://medium.com/p/0af1d4e7378d) |
 | Fri, 15 Aug 2025 18:19:05 GMT | How I Stopped a Cloud Breach Before It Happened — Lessons for Securing AWS in 2025 | Khansa Rahim | [Read More](https://medium.com/p/8b74d0ca83b5) |
-| Fri, 15 Aug 2025 18:16:55 GMT | “MadeYouReset”: The HTTP/2 Denial-of-Service Flaw Shaking Web Servers | gm0 | [Read More](https://medium.com/p/a0c798f75bcf) |
-| Fri, 15 Aug 2025 18:16:01 GMT | ️ Introducing Threat Intelligence Enrichment — A Powerful Web-Based Threat Intelligence Tool | shresth paul | [Read More](https://medium.com/p/096184018a06) |
-| Fri, 15 Aug 2025 18:10:18 GMT | How to Earn from Apple’s ₹17.5 Crore Security Bounty Program | Likhoindustry | [Read More](https://medium.com/p/4271b7aed532) |
-| Fri, 15 Aug 2025 18:07:47 GMT | The Brand Trust Factor: Why Cybersecurity Is the New Brand Asset | Rafael Payumo | [Read More](https://medium.com/p/2c70645e50e1) |
-| Fri, 15 Aug 2025 18:07:05 GMT | NIST Cybersecurity Framework Made Simple: Beginner’s Guide to the 5 Key Steps | Aarushi Mishra | [Read More](https://medium.com/p/d6634bf54696) |
-| Fri, 15 Aug 2025 18:04:10 GMT | ️‍♂️Natas 6 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/f7f8f6077347) |
-| Fri, 15 Aug 2025 17:57:52 GMT | The AI Reality Check: Why Everyone’s Using AI for “Therapy” and “Companionship” | John Petty | [Read More](https://medium.com/p/7de25337cb21) |
