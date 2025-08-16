@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 14:31:46 GMT | The Silent Bug Factory: How Weak Acceptance Criteria Sink Your Product | Monica Ashok | [Read More](https://medium.com/p/09a068906684) |
+| Sat, 16 Aug 2025 14:27:37 GMT | Zero Trust in Multi-Cloud Environments | Karthikeyan Nagaraj | [Read More](https://medium.com/p/011b97b6b6cb) |
+| Sat, 16 Aug 2025 14:15:45 GMT | Windows Authentication Process Part -1 | Madhab Tripathy | [Read More](https://medium.com/p/85ec4d625de5) |
 | Sat, 16 Aug 2025 14:12:07 GMT | ASI — Humanity’s Last Invention | Balthasar | [Read More](https://medium.com/p/1a60e8babdfe) |
 | Sat, 16 Aug 2025 14:08:59 GMT | Kerberoasting Tespiti (Splunk) | Serkan | [Read More](https://medium.com/p/a514d7ba3329) |
 | Sat, 16 Aug 2025 14:04:09 GMT | Parent Process PID Spoofing Nedir? Nasıl Çalışır? Güvenlik Açısından Önemi | Serkan | [Read More](https://medium.com/p/99e4a23b72f5) |
@@ -110,6 +113,3 @@ I applied to this position via portal… | Ajit Kumar | [Read More](https://medi
 | Sat, 16 Aug 2025 08:38:09 GMT | Unlock the Power of Smart Digital Marketing Services with Softreey | Softreey | [Read More](https://medium.com/p/fe55f09990c2) |
 | Sat, 16 Aug 2025 08:31:07 GMT | How Playing a Silly Game Changed the Way I See AI Security | Rishabh Gupta | [Read More](https://medium.com/p/6e4bf3c61817) |
 | Sat, 16 Aug 2025 08:29:32 GMT | Nmap Kill Chain: OSINT → Scan → Enumeration → Find → Exploit | Narendar Battula (nArEn) | [Read More](https://medium.com/p/70dbdff57b5e) |
-| Sat, 16 Aug 2025 08:24:59 GMT | BurpSuite, tools untuk menguji keamanan website | Cyberworldlnx | [Read More](https://medium.com/p/08a7f1e07b22) |
-| Sat, 16 Aug 2025 08:21:29 GMT | The FOMO of AI Right Now | Jaypal Singh | [Read More](https://medium.com/p/ca7de27d51e6) |
-| Sat, 16 Aug 2025 08:19:49 GMT | “No Browser, No Problem” — How I Hacked My Way to 5 Vulnerabilities Using Only Nmap | Narendar Battula (nArEn) | [Read More](https://medium.com/p/de5046d94956) |
