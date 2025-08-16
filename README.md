@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 22:17:46 GMT | BYOD Security: Balancing Flexibility and Control | Karthikeyan Nagaraj | [Read More](https://medium.com/p/1a10b0be0b13) |
+| Sat, 16 Aug 2025 22:13:58 GMT | Inter-Component Communication (ICC) Vulnerabilities in Android | Amar Kumar | [Read More](https://medium.com/p/19ecf6e7f6f1) |
+| Sat, 16 Aug 2025 21:59:05 GMT | CAN I GET MY LOST OR SCAMMED BITCOIN BACK? YES, MALICE CYBER RECOVERY WILL HELP YOU OUT. | Sebastien Lefevre | [Read More](https://medium.com/p/ec5071a55190) |
 | Sat, 16 Aug 2025 21:33:22 GMT | Networking & the Internet | Aanya Ali | [Read More](https://medium.com/p/cde10e1f7b67) |
 | Sat, 16 Aug 2025 21:31:30 GMT | Intro to ICT — Data & Information | Aanya Ali | [Read More](https://medium.com/p/aa1704be872d) |
 | Sat, 16 Aug 2025 21:27:32 GMT | Kindled Desire | NRWillick | [Read More](https://medium.com/p/91a7c2635f54) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 15:55:39 GMT | NIST 2.0 Implementation Strategies | Polaroid_347 | [Read More](https://medium.com/p/a176fba2a369) |
 | Sat, 16 Aug 2025 15:48:37 GMT | The Illusion of Safety: Exploiting XSS Beyond "HttpOnly" Cookies | Neh Patel | [Read More](https://medium.com/p/b81c6493bb76) |
 | Sat, 16 Aug 2025 15:41:10 GMT | Degree or Nah? My Cybersecurity Origin Story | Authlyn | [Read More](https://medium.com/p/654399e1a722) |
-| Sat, 16 Aug 2025 15:39:00 GMT | Linux: Bir SOC Analisti İçin Neden Vazgeçilmezdir? | Çağlar Suvari | [Read More](https://medium.com/p/2481aa6275a2) |
-| Sat, 16 Aug 2025 15:38:32 GMT | Dutch Speed Cameras Down: Did Russia Just Hack a Speeding Ticket? | Truspex | [Read More](https://medium.com/p/c69df07a8cf3) |
-| Sat, 16 Aug 2025 15:38:15 GMT | Hack The Box File Inclusion — Skills Assessment Writeup | Badis Kh | [Read More](https://medium.com/p/cc5d4f43f09c) |
