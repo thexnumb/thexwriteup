@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 10:11:31 GMT | Tired of Juggling 10 Different Hacking Tools? | Sajjad Hussain | [Read More](https://medium.com/p/bd0162d8589f) |
+| Sat, 16 Aug 2025 10:05:00 GMT | The Hidden History of Tor Browser Nobody Talks About | Emad Dehnavi | [Read More](https://medium.com/p/840669f23250) |
+| Sat, 16 Aug 2025 09:58:26 GMT | Maintain Session Timeout in Flutter for Enhanced Security & UX (Idiomatic, App-Wide) | Abdul Ahad | [Read More](https://medium.com/p/3b45a91d02ad) |
+| Sat, 16 Aug 2025 09:51:40 GMT | The Hidden World of Online Scams: What We Learned from the Trustoryx CTF | NIkhil Kumar | [Read More](https://medium.com/p/a54ae0356e76) |
+| Sat, 16 Aug 2025 09:51:08 GMT | ️ “Step Into the Attacker’s Mind: Threat Emulation with Caldera on TryHackMe” | Furkanctiner | [Read More](https://medium.com/p/1b7b9a055453) |
+| Sat, 16 Aug 2025 09:50:25 GMT | Quantum Supremacy: 600 Million Years of Computation in 200 Seconds | Freddy Harahap | [Read More](https://medium.com/p/6aa508a9e656) |
+| Sat, 16 Aug 2025 09:50:12 GMT | Stop Email Overload: How AI Can Organize Your Inbox in Seconds | Likhoindustry | [Read More](https://medium.com/p/c3ba42ed64d1) |
+| Sat, 16 Aug 2025 09:47:17 GMT | Overwhelmed by Installing Hacking Tools One by One? | Sajjad Hussain | [Read More](https://medium.com/p/204271cdce83) |
+| Sat, 16 Aug 2025 09:43:32 GMT | Atomic Red Team: Simulating Real Attacks the Safe Way | Furkanctiner | [Read More](https://medium.com/p/0ebba50e76e8) |
+| Sat, 16 Aug 2025 09:41:44 GMT | Hacker’s jargon: build (not to be confused with build in co) | 0trust0day | [Read More](https://medium.com/p/e70a4aa10a0c) |
+| Sat, 16 Aug 2025 09:41:32 GMT | Wazuh ile VirusTotal Entegrasyonu ve E-posta Alarm Sistemi Kurulumu | Onur GÖKYAKA | [Read More](https://medium.com/p/9a3013c2f219) |
+| Sat, 16 Aug 2025 09:36:47 GMT | Bandit — Over The Wire (Writeup) | Shaheer Khalid | [Read More](https://medium.com/p/2b18711c1b42) |
+| Sat, 16 Aug 2025 09:35:40 GMT | Dịch vụ bảo vệ giám sát an ninh từ xa — Giải pháp an toàn toàn diện cho mọi không gian | DaiAnGroup | [Read More](https://medium.com/p/d96f78373385) |
 | Sat, 16 Aug 2025 09:32:06 GMT | Locked Out of Instagram? | Sajjad Hussain | [Read More](https://medium.com/p/e2bfc32482fe) |
 | Sat, 16 Aug 2025 09:22:27 GMT | ProFTPD 1.3.5 and the Mod_Copy RCE: Remote Code Execution Without Login - CVE-2015-3306 | barancem | [Read More](https://medium.com/p/a39d60f17d05) |
 | Sat, 16 Aug 2025 09:18:50 GMT | Thuê dịch vụ bảo vệ ngày Tết — An tâm đón Tết trọn niềm vui | DaiAnGroup | [Read More](https://medium.com/p/b7fd809aa92c) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 02:33:16 GMT | From Syntax to Strategy | Drew Thompson | [Read More](https://medium.com/p/73533a275513) |
 | Sat, 16 Aug 2025 02:31:53 GMT | Honeytokens: The Secret Weapon for Catching Hackers | Parth Patel | [Read More](https://medium.com/p/9ef3a885ed25) |
 | Sat, 16 Aug 2025 02:30:33 GMT | Can Open-Source AI Protect Kids | The UNFILTERED Draft | [Read More](https://medium.com/p/fb77a55ab651) |
-| Sat, 16 Aug 2025 02:17:18 GMT | The Contested Digital Frontier: A Research Article on the Cyber-Political Landscape of Developing… | CCD-IS | [Read More](https://medium.com/p/36a3c930df97) |
-| Sat, 16 Aug 2025 02:12:30 GMT | The OverCloud Chronicles: When Your Phishing Email Writes Itself (And Why That’s Not as Scary as It… | Lazyown Redteam | [Read More](https://medium.com/p/6f06201c4af5) |
-| Sat, 16 Aug 2025 02:05:51 GMT | How I Became a Freelance Writer (This is my first ever article) | Phinnean Alan Handley | [Read More](https://medium.com/p/9fd504dfe006) |
-| Sat, 16 Aug 2025 02:02:54 GMT | Maximize Earnings by Staking $BTU on StakingRewards | BTU Protocol | [Read More](https://medium.com/p/a710815967d9) |
-| Sat, 16 Aug 2025 01:44:47 GMT | Penyedia CDN Include WAF | ANGGA | [Read More](https://medium.com/p/0fb1eac6603a) |
-| Sat, 16 Aug 2025 01:30:57 GMT | Konftel Audio Conferencing Solutions: Elevate Your Meetings with Superior Sound and Seamless… | Fahad Sheikh | [Read More](https://medium.com/p/a82253a3329f) |
-| Sat, 16 Aug 2025 01:22:30 GMT | Active Directory Kurulumu ve Temel Yapılandırma Adımları - Group Policy ile PowerShell ve Script… | Azra Oyku Ulukan | [Read More](https://medium.com/p/2eb5fb517fd8) |
-| Sat, 16 Aug 2025 01:10:59 GMT | Blinking Black Line | ACE's Steak | [Read More](https://medium.com/p/cec820923d96) |
-| Sat, 16 Aug 2025 01:02:39 GMT | A New Class of Vulnerability: Philosophical Logic exploits in AI Systems | Julian Soloninka | [Read More](https://medium.com/p/651830822bc7) |
-| Sat, 16 Aug 2025 01:01:46 GMT | A Blue Teamer’s Guide to Hunting ‘Living Off the Land’ Threats | Afwan Mulia Pratama | [Read More](https://medium.com/p/f5fc63df51b8) |
-| Sat, 16 Aug 2025 00:42:40 GMT | Announcing the NewBitcoin “Drive & Earn” Bounty Campaign — Earn Crypto for Trying Our App! | New Bitcoin | [Read More](https://medium.com/p/e7fe55ceb58c) |
-| Sat, 16 Aug 2025 00:31:31 GMT | Fear About Law, Order & Security: Safety for All: What Works and What Doesn’t | Libby Winkler | [Read More](https://medium.com/p/13b934726d06) |
-| Sat, 16 Aug 2025 00:03:36 GMT | The Double-Edged Sword — How AI is Transforming Cybersecurity | Ahmad Hassan | [Read More](https://medium.com/p/2de5f91ae66a) |
