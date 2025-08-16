@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 12:27:21 GMT | What I Found Out When I Finally Stopped Pretending to Be Okay | Joshua Kelechi | [Read More](https://medium.com/p/ef081cb55a01) |
+| Sat, 16 Aug 2025 12:25:34 GMT | Get Your CAPT Cybersecurity Certification for FREE — Limited Time Only! | Taha Ex | [Read More](https://medium.com/p/49c783a8112c) |
+| Sat, 16 Aug 2025 12:24:41 GMT | OS Command Injection | Madura Rajapakshe | [Read More](https://medium.com/p/0bb9be0417ab) |
+| Sat, 16 Aug 2025 12:22:18 GMT | Bug Bounty Methodology: A Practical Guide for PRO & Hunters 2025 to 2027 | Princeroy | [Read More](https://medium.com/p/d75618dd9b70) |
+| Sat, 16 Aug 2025 12:19:25 GMT | Certificate Abuse by Malware: A Technical Deep Dive into Exploitation Techniques | Tech Security | [Read More](https://medium.com/p/b5ad003e87f8) |
+| Sat, 16 Aug 2025 12:15:14 GMT | Love and Childlike Vulnerability: When We Hold the Power to Hurt Our Own Hearts | Von Gayo Godilano | [Read More](https://medium.com/p/cd4b3a52b2e8) |
+| Sat, 16 Aug 2025 12:14:48 GMT | Mobile Security Tips: How to Protect Your Data in an Always-Connected World | Webbitech | [Read More](https://medium.com/p/63385155a679) |
+| Sat, 16 Aug 2025 12:13:54 GMT | HexStrike AI: The Future of Autonomous Penetration Testing | Taha Ex | [Read More](https://medium.com/p/e78953d7be4a) |
+| Sat, 16 Aug 2025 12:13:31 GMT | Hack Your Career: The Elite Cybersecurity Roadmap for Future Leaders | The Quiet Hacker | [Read More](https://medium.com/p/8473c83c8fc2) |
+| Sat, 16 Aug 2025 12:11:29 GMT | Comprehensive Overview of Email Threats Facing Organizations | Aman Chawla | [Read More](https://medium.com/p/2356ea6514ea) |
+| Sat, 16 Aug 2025 12:09:26 GMT | DockerLabs Writeup — Verdejo (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a238be8dc342) |
+| Sat, 16 Aug 2025 11:53:45 GMT | Active Directory in a Simple Terms | Rona Ega Kharisma | [Read More](https://medium.com/p/3a4193642f6d) |
+| Sat, 16 Aug 2025 11:52:09 GMT | T1589 — Gather Victim Identity Information: When Hackers Collect “Digital Souvenirs” | MITRE Doggy | [Read More](https://medium.com/p/84e1566348f4) |
+| Sat, 16 Aug 2025 11:44:21 GMT | Cybersecurity in 2025: Why Your Password is Already Obsolete | Naila Ahsan | [Read More](https://medium.com/p/166b14fe991d) |
+| Sat, 16 Aug 2025 11:38:51 GMT | نقشه راه یادگیری هک از صفر تا صد | Anna Jones | [Read More](https://medium.com/p/c9d388cbe462) |
 | Sat, 16 Aug 2025 11:32:13 GMT | Earned $$$$ by Tricking an AI Chatbot Into Giving Me Secrets | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/6ac3352926e2) |
+| Sat, 16 Aug 2025 11:31:29 GMT | Technical Analysis of SAP Exploit Script (Visual Composer “Metadata Uploader” Exploit)… | SIMKRA | [Read More](https://medium.com/p/7b4a01b38548) |
+| Sat, 16 Aug 2025 11:29:54 GMT | Ultimate Guide to Cybersecurity: Web, Mobile, API & Architecture Security | Dmvikash | [Read More](https://medium.com/p/206fb540fd2f) |
 | Sat, 16 Aug 2025 11:26:03 GMT | Ring Gen 5 → Gen 6: Sunlight Battle | DragonFlameAce | [Read More](https://medium.com/p/2b7736862c7d) |
 | Sat, 16 Aug 2025 11:22:07 GMT | Authlib: The Python Developer’s Answer to Authentication | Nikhilsaraogi | [Read More](https://medium.com/p/9e718a4d21fc) |
 | Sat, 16 Aug 2025 11:16:57 GMT | Kendini Hack’leyen Yapay Zekâlar: AI Red Teaming Çağı | Celal Şamil Kartoğlu | [Read More](https://medium.com/p/98e5c942e895) |
@@ -96,20 +113,3 @@ I applied to this position via portal… | Ajit Kumar | [Read More](https://medi
 | Sat, 16 Aug 2025 06:47:25 GMT | Bilgi mi Daha Değerli, Yorum mu? Dijital Çağın Gerçek Anahtarı | AYŞE KIZILAY | [Read More](https://medium.com/p/f5401107a9ba) |
 | Sat, 16 Aug 2025 06:31:37 GMT | TryHackMe - Corridor - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/a101fd29d020) |
 | Sat, 16 Aug 2025 06:31:33 GMT | ShinyHunters’ Operational Tactics: Git Scraping, Social Engineering, and Cloud Abuse. | Devansh Patel | [Read More](https://medium.com/p/982d2ac502df) |
-| Sat, 16 Aug 2025 06:29:26 GMT | Why Is There an Increasing Emphasis on Cybersecurity Measures in Businesses Today? | Mohi Uddin | [Read More](https://medium.com/p/34869a550093) |
-| Sat, 16 Aug 2025 06:22:39 GMT | Cybersecurity for Process Control Systems | TheEvolvEdge | [Read More](https://medium.com/p/8eb8b7c28ee8) |
-| Sat, 16 Aug 2025 06:21:50 GMT | AI in Cybersecurity: How Artificial Intelligence is Changing the Game | Manisha Chaudhary | [Read More](https://medium.com/p/c9d717538e11) |
-| Sat, 16 Aug 2025 06:14:46 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/f01e59bd3b9b) |
-| Sat, 16 Aug 2025 06:12:12 GMT | APK Reverse Engineering and Security Vulnerabilities in Android Applications | Esra Kayhan | [Read More](https://medium.com/p/d1f368e40616) |
-| Sat, 16 Aug 2025 06:11:32 GMT | Access Control: The Foundation of Modern Security in Qatar | Tekshoyabeelyas | [Read More](https://medium.com/p/c3779b469795) |
-| Sat, 16 Aug 2025 06:10:22 GMT | Open Source, Secured: What I Learned at OpenSSF Community Days | Akshat Sharma | [Read More](https://medium.com/p/bf2a94f00a6c) |
-| Sat, 16 Aug 2025 06:07:36 GMT | The Ultimate Guide to the DPDP Act 2023: Everything Your Business Needs to Know | ARC - Automate Rights & Consents | [Read More](https://medium.com/p/7d9eca24cc4d) |
-| Sat, 16 Aug 2025 06:03:53 GMT | Hacking Humans: Social Engineering Scams Exposed | Aj | [Read More](https://medium.com/p/d75bbd3d827b) |
-| Sat, 16 Aug 2025 06:02:16 GMT | Introduction to Buffer Overflow and Exploit Writing | Esra Kayhan | [Read More](https://medium.com/p/5ae15fdacf0f) |
-| Sat, 16 Aug 2025 06:00:26 GMT | Today’s Top Cyber Intelligence Highlights — Aug 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/e85fd4e4d5c7) |
-| Sat, 16 Aug 2025 05:59:23 GMT | Advancing AI in Cybersecurity That Drive Innovation | Artificial Intelligence Details | [Read More](https://medium.com/p/4fa2c45c8e51) |
-| Sat, 16 Aug 2025 05:57:42 GMT | Advancing AI in Cybersecurity Step by Step | Artificial Intelligence Details | [Read More](https://medium.com/p/44a14b806f01) |
-| Sat, 16 Aug 2025 05:48:54 GMT | Observability in the Cloud: Going Beyond Monitoring | Michael Chidiogo Okoli | [Read More](https://medium.com/p/f1bb07c52cc6) |
-| Sat, 16 Aug 2025 05:48:01 GMT | “AI-Powered Cyberattacks: How Deepfakes and ChatGPT Scams Are Changing Cybersecurity” | Tarush Sharma | [Read More](https://medium.com/p/81acdbc8549e) |
-| Sat, 16 Aug 2025 05:47:24 GMT | Vulnlab: Insecure Direct Object Reference (IDOR) Writeup | Ikhlasdansantai | [Read More](https://medium.com/p/f4acfdaf6534) |
-| Sat, 16 Aug 2025 05:37:02 GMT | Learning Fortinet Firewall — Introduction and Important Notes | Rouell Mamaril | [Read More](https://medium.com/p/a22d7ce14c71) |
