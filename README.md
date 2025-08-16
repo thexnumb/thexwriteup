@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 10:39:14 GMT | Dstack zakończył audyt bezpieczeństwa — kamień milowy dla Confidential Cloud | Phala Network PL | [Read More](https://medium.com/p/c32dae6645a2) |
+| Sat, 16 Aug 2025 10:38:58 GMT | How I Found My First Open Redirect Vulnerability | Hinan Mohamed | [Read More](https://medium.com/p/592aacbf6574) |
+| Sat, 16 Aug 2025 10:37:24 GMT | From Open Source Roots to Enterprise-Grade Power | Amit Ambekar | [Read More](https://medium.com/p/1fab5b20ac58) |
+| Sat, 16 Aug 2025 10:36:54 GMT | Network Penetration Testing - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/ac17ba5b6a6a) |
+| Sat, 16 Aug 2025 10:36:00 GMT | Cyber Kill Chain — TryHackMe Walkthrough | Genrunic | [Read More](https://medium.com/p/db41c2969fa9) |
+| Sat, 16 Aug 2025 10:35:06 GMT | Tired of Guessing What’s Public on Facebook? | Sajjad Hussain | [Read More](https://medium.com/p/7b0b81f5feb9) |
+| Sat, 16 Aug 2025 10:32:51 GMT | Part 2 — ClamAV: Nedir, Ne İşe Yarar ve ELK Stack Entegrasyonu | Hasan BAYRAKTAR | [Read More](https://medium.com/p/588f19494638) |
+| Sat, 16 Aug 2025 10:22:32 GMT | AlertNinja: A Network and Vulnerability Scanning Tool. | AfshanFathima | [Read More](https://medium.com/p/50b22aaa30f2) |
+| Sat, 16 Aug 2025 10:21:16 GMT | Object-Level vs Function-Level Access Control: What Every Security Professional Should Know | Siddiquimohammad | [Read More](https://medium.com/p/4d1d00303e04) |
+| Sat, 16 Aug 2025 10:20:45 GMT | DOJ’s $2.8M Crypto Seizure & Bitcoin’s $125K Battle: What It Means for Crypto | Casi Borg | [Read More](https://medium.com/p/c7aea28755a5) |
+| Sat, 16 Aug 2025 10:16:24 GMT | Cybersecurity for Nonprofits: Securing your Organization’s Data on a Budget | Aliza Khokhar | [Read More](https://medium.com/p/523f6c7a7185) |
+| Sat, 16 Aug 2025 10:14:36 GMT | ️ Zero Trust in Microservices: Why Your Spring Boot Security Model Is Already Outdated | Ahmed Aboulkanatir | [Read More](https://medium.com/p/51a9b3bfb626) |
 | Sat, 16 Aug 2025 10:11:31 GMT | Tired of Juggling 10 Different Hacking Tools? | Sajjad Hussain | [Read More](https://medium.com/p/bd0162d8589f) |
 | Sat, 16 Aug 2025 10:05:00 GMT | The Hidden History of Tor Browser Nobody Talks About | Emad Dehnavi | [Read More](https://medium.com/p/840669f23250) |
 | Sat, 16 Aug 2025 09:58:26 GMT | Maintain Session Timeout in Flutter for Enhanced Security & UX (Idiomatic, App-Wide) | Abdul Ahad | [Read More](https://medium.com/p/3b45a91d02ad) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 04:10:45 GMT | Discovering and Patching Code Vulnerabilities On Autopilot (A Free AI-driven Code Scaner) | Jannis | [Read More](https://medium.com/p/eaf851ce84b8) |
 | Sat, 16 Aug 2025 04:06:59 GMT | The Cybercriminal’s Art of War — A Hacker’s Manifesto | David SEHYEON Baek | [Read More](https://medium.com/p/ddeb5a546a59) |
 | Sat, 16 Aug 2025 03:57:54 GMT | Engineering data lakehouse infrastructure for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/b289b95e408e) |
-| Sat, 16 Aug 2025 03:47:31 GMT | 8. Persistence in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/4e91e7d8d434) |
-| Sat, 16 Aug 2025 03:42:26 GMT | Corrosion 2 VulnHub Walkthrough 2025: From Foothold to Root Exploitation | Prajwal | [Read More](https://medium.com/p/6a27182a6a72) |
-| Sat, 16 Aug 2025 03:31:10 GMT | The Hidden EXIF Data in Your Photos That Could Put Your Family at Risk | Ngoc Nguyen Nhu | [Read More](https://medium.com/p/baecf3422691) |
-| Sat, 16 Aug 2025 03:27:55 GMT | Ghost Sec: Rise & Fall | V1rtu3 _h05t | [Read More](https://medium.com/p/5a8ccd57a321) |
-| Sat, 16 Aug 2025 03:01:32 GMT | Cyber Defense Now | Douglas Scott | [Read More](https://medium.com/p/431adf85b4fb) |
-| Sat, 16 Aug 2025 03:01:26 GMT | Dorks For Sensitive Information Disclosure Part-1 | TEAM DH49 | [Read More](https://medium.com/p/185e19512f33) |
-| Sat, 16 Aug 2025 02:51:38 GMT | Shodan’t Have Shown That: How an Exposed Device Led to Source Code | TEAM DH49 | [Read More](https://medium.com/p/3371c1160439) |
-| Sat, 16 Aug 2025 02:44:54 GMT | IT Isn’t Just Tech Support Anymore — It’s the Backbone of Every Modern Business | Devsync | [Read More](https://medium.com/p/ffd7a8dd2c54) |
-| Sat, 16 Aug 2025 02:39:36 GMT | Building a Practical Incident Response Flow for Cybersecurity | Michael Berry | [Read More](https://medium.com/p/3fd18187cda9) |
-| Sat, 16 Aug 2025 02:33:16 GMT | From Syntax to Strategy | Drew Thompson | [Read More](https://medium.com/p/73533a275513) |
-| Sat, 16 Aug 2025 02:31:53 GMT | Honeytokens: The Secret Weapon for Catching Hackers | Parth Patel | [Read More](https://medium.com/p/9ef3a885ed25) |
-| Sat, 16 Aug 2025 02:30:33 GMT | Can Open-Source AI Protect Kids | The UNFILTERED Draft | [Read More](https://medium.com/p/fb77a55ab651) |
