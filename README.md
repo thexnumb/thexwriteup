@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 17:33:22 GMT | PDF.JS Viewer Endpoint Dorking | AbhirupKonwar | [Read More](https://medium.com/p/03e3a68e0acf) |
+| Sat, 16 Aug 2025 17:32:04 GMT | JWT Authentication in Node.js Explained Step-by-Step | Thomas Joseph | [Read More](https://medium.com/p/37e2018a4cd3) |
+| Sat, 16 Aug 2025 17:17:54 GMT | Pickle Rick TryHackMe | Ayush Tiwari | [Read More](https://medium.com/p/177b38a427c1) |
+| Sat, 16 Aug 2025 17:14:03 GMT | The Secret Language of the Internet: Common Protocols Explained | KISHOR SUTRADHAR | [Read More](https://medium.com/p/e587cadfbf98) |
 | Sat, 16 Aug 2025 17:03:35 GMT | Most AI-Written Code Online Already Has Bugs | Sanjeevani Bhandari | [Read More](https://medium.com/p/28859782b178) |
 | Sat, 16 Aug 2025 17:03:27 GMT | IOC (Indicator of Compromise) | Jameel Khan | [Read More](https://medium.com/p/afbb5ad21926) |
 | Sat, 16 Aug 2025 16:57:25 GMT | How I Built My Cloud Security Learning Path in 2025 (Beginner-Friendly) | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/6d0b81cc867b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 11:29:54 GMT | Ultimate Guide to Cybersecurity: Web, Mobile, API & Architecture Security | Dmvikash | [Read More](https://medium.com/p/206fb540fd2f) |
 | Sat, 16 Aug 2025 11:26:03 GMT | Ring Gen 5 → Gen 6: Sunlight Battle | DragonFlameAce | [Read More](https://medium.com/p/2b7736862c7d) |
 | Sat, 16 Aug 2025 11:22:07 GMT | Authlib: The Python Developer’s Answer to Authentication | Nikhilsaraogi | [Read More](https://medium.com/p/9e718a4d21fc) |
-| Sat, 16 Aug 2025 11:16:57 GMT | Kendini Hack’leyen Yapay Zekâlar: AI Red Teaming Çağı | Celal Şamil Kartoğlu | [Read More](https://medium.com/p/98e5c942e895) |
-| Sat, 16 Aug 2025 11:15:31 GMT | Fino payment Bank se paise cut Jaaye To Kya Karen✅ 9669538050 ✅फिनो पेमेंट बैंक से पैसे कट जाए तो… | फिनो पेमेंट बैंक से पैसे कट जाए तो क्या करें | [Read More](https://medium.com/p/cb1fad9b4862) |
-| Sat, 16 Aug 2025 11:09:33 GMT | Blockchain Security: The Efimer Trojan | Qitmeer Network | [Read More](https://medium.com/p/55d176b6af5c) |
-| Sat, 16 Aug 2025 10:57:29 GMT | Developing Trust in Digital Finance: Why NexFi is Redefining Confidence in Payments | NexFi | [Read More](https://medium.com/p/f2a84696b038) |
