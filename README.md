@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 08:24:59 GMT | BurpSuite, tools untuk menguji keamanan website | Cyberworldlnx | [Read More](https://medium.com/p/08a7f1e07b22) |
+| Sat, 16 Aug 2025 08:19:49 GMT | “No Browser, No Problem” — How I Hacked My Way to 5 Vulnerabilities Using Only Nmap | Narendar Battula (nArEn) | [Read More](https://medium.com/p/de5046d94956) |
+| Sat, 16 Aug 2025 08:16:18 GMT | The Invisible Threat: Securing Your IoT Ecosystem Without Breaking the Bank | Kambetastephano | [Read More](https://medium.com/p/76a8cc26599a) |
+| Sat, 16 Aug 2025 08:16:10 GMT | KYBS CTF v1 2025 (WEB Security) | zerOiQ | [Read More](https://medium.com/p/7102ce558b8e) |
+| Sat, 16 Aug 2025 08:10:07 GMT | ⚔️ Red vs Blue: The Ultimate Nmap Battle Cheat Sheet | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c348912c854a) |
+| Sat, 16 Aug 2025 08:04:05 GMT | Mastering Nmap — The Hacker’s Microscope Into Networks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/27cae3531f17) |
+| Sat, 16 Aug 2025 08:00:03 GMT | A Beginner’s Guide to Google Dorking: Unlocking Hidden Web Data | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/57ef6e0325ca) |
+| Sat, 16 Aug 2025 07:58:48 GMT | From the Dugout to the Data Centre: Why Cybersecurity Feels Like Managing a Football Club | Leo | [Read More](https://medium.com/p/9aeb797d9d18) |
+| Sat, 16 Aug 2025 07:54:53 GMT | INFORMATION SECURITY REVIEW POLICY (EN) | Atakan Bitim | [Read More](https://medium.com/p/06e12d56ed61) |
+| Sat, 16 Aug 2025 07:54:50 GMT | INFORMATION SECURITY REVIEW POLICY (TR) | Atakan Bitim | [Read More](https://medium.com/p/7b6ac2bad816) |
+| Sat, 16 Aug 2025 07:50:30 GMT | ZERO — Finding First BUG | Vansh Sharma | [Read More](https://medium.com/p/a0efc3381150) |
+| Sat, 16 Aug 2025 07:42:42 GMT | Why Most People Are Blind to Their Own Potential | Vijay Kumar Gupta | [Read More](https://medium.com/p/fdcb1fc9108d) |
 | Sat, 16 Aug 2025 07:31:45 GMT | Vintage stuff: The Hacker’s Handbook and the script kiddie | Mansfield-Devine | [Read More](https://medium.com/p/123f6c9e23c7) |
 | Sat, 16 Aug 2025 07:29:46 GMT | First exam attempt OSCP Exam Day: Lessons from a Missed Attempt | Sonic | [Read More](https://medium.com/p/fbd2fa98d203) |
 | Sat, 16 Aug 2025 07:18:58 GMT | India’s Best Click 2 call Service Provider | Ashutosh Mallik | [Read More](https://medium.com/p/42117967e2df) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 22:02:10 GMT | The Hidden World of Bug Bounty Scams | Symbionyman | [Read More](https://medium.com/p/797ad0f47676) |
 | Fri, 15 Aug 2025 21:58:29 GMT | Auth.Cool — Your All‑in‑One Identity Broker & Aggregator | Auth Cool | [Read More](https://medium.com/p/9c19c0b96ca1) |
 | Fri, 15 Aug 2025 21:57:58 GMT | Your SOC Is Broken — Here’s How AI Can Fix It | Cyber-AppSec | [Read More](https://medium.com/p/cb863d4d900a) |
-| Fri, 15 Aug 2025 21:56:03 GMT | A Browser Extension Stole My Life | Shahzaib | [Read More](https://medium.com/p/5824c68ca547) |
-| Fri, 15 Aug 2025 21:50:43 GMT | Advancing Cloud Security and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/02e4fc02ea0f) |
-| Fri, 15 Aug 2025 21:48:58 GMT | Advancing Cloud Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/d17466c91957) |
-| Fri, 15 Aug 2025 21:47:10 GMT | Advancing Cloud Security and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/ef0fc0ffe6e9) |
-| Fri, 15 Aug 2025 21:45:28 GMT | Advancing Cloud Security Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/2edcf22f1ec0) |
-| Fri, 15 Aug 2025 21:43:44 GMT | Advancing Blockchain Security in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/8a5e5c9db527) |
-| Fri, 15 Aug 2025 21:41:55 GMT | Advancing Blockchain Security in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/7ac7d4d74395) |
-| Fri, 15 Aug 2025 21:34:06 GMT | KYBS CTF v1 2025 (WEB Security) | KyubiSec | [Read More](https://medium.com/p/7a2328f97c55) |
-| Fri, 15 Aug 2025 21:20:05 GMT | Day 46 — Regex + YARA: Obfuscation Hunting Across File Formats | Jinay | [Read More](https://medium.com/p/54c587286377) |
-| Fri, 15 Aug 2025 20:57:29 GMT | The ‘Prove You’re Human’ Scam That Emptied My Friend’s Wallet | TheOptimizationKing | [Read More](https://medium.com/p/640c2b46b6db) |
-| Fri, 15 Aug 2025 20:55:17 GMT | How We Evaluate AI Vendors for Financial Systems (The Framework That Saved Us $2M) | Shachar Solomon | [Read More](https://medium.com/p/186cd5c64952) |
-| Fri, 15 Aug 2025 20:50:22 GMT | The AI Security Audit That Scared Our CISO (And Changed Everything About Our AI Strategy) | Shachar Solomon | [Read More](https://medium.com/p/f09cc715f144) |
