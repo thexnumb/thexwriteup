@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 03:47:31 GMT | 8. Persistence in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/4e91e7d8d434) |
+| Sat, 16 Aug 2025 03:42:26 GMT | Corrosion 2 VulnHub Walkthrough 2025: From Foothold to Root Exploitation | Prajwal | [Read More](https://medium.com/p/6a27182a6a72) |
+| Sat, 16 Aug 2025 03:31:10 GMT | The Hidden EXIF Data in Your Photos That Could Put Your Family at Risk | Ngoc Nguyen Nhu | [Read More](https://medium.com/p/baecf3422691) |
+| Sat, 16 Aug 2025 03:27:55 GMT | Ghost Sec: Rise & Fall | V1rtu3 _h05t | [Read More](https://medium.com/p/5a8ccd57a321) |
+| Sat, 16 Aug 2025 03:01:32 GMT | Cyber Defense Now | Douglas Scott | [Read More](https://medium.com/p/431adf85b4fb) |
 | Sat, 16 Aug 2025 03:01:26 GMT | Dorks For Sensitive Information Disclosure Part-1 | TEAM DH49 | [Read More](https://medium.com/p/185e19512f33) |
 | Sat, 16 Aug 2025 02:51:38 GMT | Shodan’t Have Shown That: How an Exposed Device Led to Source Code | TEAM DH49 | [Read More](https://medium.com/p/3371c1160439) |
 | Sat, 16 Aug 2025 02:44:54 GMT | IT Isn’t Just Tech Support Anymore — It’s the Backbone of Every Modern Business | Devsync | [Read More](https://medium.com/p/ffd7a8dd2c54) |
@@ -23,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 02:12:30 GMT | The OverCloud Chronicles: When Your Phishing Email Writes Itself (And Why That’s Not as Scary as It… | Lazyown Redteam | [Read More](https://medium.com/p/6f06201c4af5) |
 | Sat, 16 Aug 2025 02:05:51 GMT | How I Became a Freelance Writer (This is my first ever article) | Phinnean Alan Handley | [Read More](https://medium.com/p/9fd504dfe006) |
 | Sat, 16 Aug 2025 02:02:54 GMT | Maximize Earnings by Staking $BTU on StakingRewards | BTU Protocol | [Read More](https://medium.com/p/a710815967d9) |
+| Sat, 16 Aug 2025 01:44:47 GMT | Penyedia CDN Include WAF | ANGGA | [Read More](https://medium.com/p/0fb1eac6603a) |
 | Sat, 16 Aug 2025 01:30:57 GMT | Konftel Audio Conferencing Solutions: Elevate Your Meetings with Superior Sound and Seamless… | Fahad Sheikh | [Read More](https://medium.com/p/a82253a3329f) |
 | Sat, 16 Aug 2025 01:22:30 GMT | Active Directory Kurulumu ve Temel Yapılandırma Adımları - Group Policy ile PowerShell ve Script… | Azra Oyku Ulukan | [Read More](https://medium.com/p/2eb5fb517fd8) |
 | Sat, 16 Aug 2025 01:10:59 GMT | Blinking Black Line | ACE's Steak | [Read More](https://medium.com/p/cec820923d96) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 17:33:39 GMT | Ionic Money Exploit | TrashPirate | [Read More](https://medium.com/p/e2b73b5482c6) |
 | Fri, 15 Aug 2025 17:32:12 GMT | PhantomCard: Advanced NFC Relay Malware Targeting Brazilian Mobile Banking Users | RealSec.io | [Read More](https://medium.com/p/04c023fedc27) |
 | Fri, 15 Aug 2025 17:25:14 GMT | Chaining Misconfigurations: From File Uploads to Account Takeover | Hamed Alvandy | [Read More](https://medium.com/p/6ed4ae03d8d1) |
-| Fri, 15 Aug 2025 17:23:59 GMT | CVE-2025–20265 and CVE-2025–20217: Cisco’s Firewall Flaws Open Doors to RCE and DoS | gm0 | [Read More](https://medium.com/p/48328fd17a36) |
-| Fri, 15 Aug 2025 17:18:12 GMT | XSS Demo Lab | Xsigkillr | [Read More](https://medium.com/p/6c72c63fd83d) |
-| Fri, 15 Aug 2025 17:12:49 GMT | Understanding Hacking: Ethical vs. Malicious | Meenakshisuresh | [Read More](https://medium.com/p/8f717105dc13) |
-| Fri, 15 Aug 2025 17:04:16 GMT | The Problem of “Phantom Jobs” and Exploitative Interview Processes | Internet Exposed | [Read More](https://medium.com/p/bb11afa4934b) |
-| Fri, 15 Aug 2025 17:01:58 GMT | Reflected XSS Filter Bypass in Search Functionality | KAsh Security | [Read More](https://medium.com/p/be2d511e7621) |
-| Fri, 15 Aug 2025 17:00:33 GMT | XSS Night: A Journey Through 26 Unfiltered Vulnerabilities | N0aziXss | [Read More](https://medium.com/p/3a41afaf4404) |
