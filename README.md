@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 18:45:59 GMT | การ setup Mythic เป็น c2 server บน ec2 | Nattawat Songsom | [Read More](https://medium.com/p/078d6e79fe08) |
+| Sat, 16 Aug 2025 18:41:03 GMT | Protect your Online Business with these 3 Cybersecurity Tools | Jeosantos | [Read More](https://medium.com/p/9cdd9444302c) |
+| Sat, 16 Aug 2025 18:40:34 GMT | When Scammers Steal Homes: The Rising Threat of Home Title Fraud | Internet Exposed | [Read More](https://medium.com/p/9e733e25b946) |
+| Sat, 16 Aug 2025 18:37:36 GMT | Join The Hacking Life! Become a Writer For a GHB! | NnFace | [Read More](https://medium.com/p/35c8e59bb05e) |
+| Sat, 16 Aug 2025 18:31:31 GMT | Fluffy Write-up - HackTheBox - Season 8 | debang5hu | [Read More](https://medium.com/p/1fd0b3ff4adf) |
+| Sat, 16 Aug 2025 18:27:27 GMT | Secure Access Service Edge (SASE): A Modern Approach to Network Security | Raviteja Mureboina | [Read More](https://medium.com/p/ed5cee0a33b1) |
+| Sat, 16 Aug 2025 18:27:14 GMT | Chrome’s $250,000 Bug: Why Sandbox Escapes Are a Big Deal | Liran Nachman | [Read More](https://medium.com/p/4f87dd99ebf7) |
+| Sat, 16 Aug 2025 18:25:12 GMT | Prompt Chaining Looks Seamless, but It Isn’t Necessarily Safe | Sewar Khalifeh | [Read More](https://medium.com/p/ba4c37709901) |
 | Sat, 16 Aug 2025 18:19:28 GMT | 2. Why Weak Passwords Are Dangerous | Tahaazeemguestblogger | [Read More](https://medium.com/p/99fb99ee085c) |
 | Sat, 16 Aug 2025 18:09:58 GMT | Gmail Phishing Attacks: A Growing Threat to Digital Trust | Chetan Seripally | [Read More](https://medium.com/p/7b7b2966b14f) |
 | Sat, 16 Aug 2025 18:00:46 GMT | Google Pays $250,000 Bounty for Chrome Sandbox Escape Vulnerability | Chetan Seripally | [Read More](https://medium.com/p/58f79644112f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 12:47:44 GMT | Red Team vs. Blue Team: Why I Switched Sides After One Mission | Shahzaib | [Read More](https://medium.com/p/452c5c863318) |
 | Sat, 16 Aug 2025 12:43:23 GMT | Quantum Robust Firewalls: Meet The Cipher Translation Proxy | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/f4fb791662fc) |
 | Sat, 16 Aug 2025 12:33:03 GMT | OS Command Injection — Part 02 | Madura Rajapakshe | [Read More](https://medium.com/p/e2aa27f6d937) |
-| Sat, 16 Aug 2025 12:27:21 GMT | What I Found Out When I Finally Stopped Pretending to Be Okay | Joshua Kelechi | [Read More](https://medium.com/p/ef081cb55a01) |
-| Sat, 16 Aug 2025 12:25:34 GMT | Get Your CAPT Cybersecurity Certification for FREE — Limited Time Only! | Taha Ex | [Read More](https://medium.com/p/49c783a8112c) |
-| Sat, 16 Aug 2025 12:24:41 GMT | OS Command Injection | Madura Rajapakshe | [Read More](https://medium.com/p/0bb9be0417ab) |
-| Sat, 16 Aug 2025 12:22:18 GMT | Bug Bounty Methodology: A Practical Guide for PRO & Hunters 2025 to 2027 | Princeroy | [Read More](https://medium.com/p/d75618dd9b70) |
-| Sat, 16 Aug 2025 12:19:25 GMT | Certificate Abuse by Malware: A Technical Deep Dive into Exploitation Techniques | Tech Security | [Read More](https://medium.com/p/b5ad003e87f8) |
-| Sat, 16 Aug 2025 12:15:14 GMT | Love and Childlike Vulnerability: When We Hold the Power to Hurt Our Own Hearts | Von Gayo Godilano | [Read More](https://medium.com/p/cd4b3a52b2e8) |
-| Sat, 16 Aug 2025 12:14:48 GMT | Mobile Security Tips: How to Protect Your Data in an Always-Connected World | Webbitech | [Read More](https://medium.com/p/63385155a679) |
-| Sat, 16 Aug 2025 12:13:54 GMT | HexStrike AI: The Future of Autonomous Penetration Testing | Taha Ex | [Read More](https://medium.com/p/e78953d7be4a) |
