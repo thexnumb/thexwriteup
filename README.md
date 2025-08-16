@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 17:03:35 GMT | Most AI-Written Code Online Already Has Bugs | Sanjeevani Bhandari | [Read More](https://medium.com/p/28859782b178) |
+| Sat, 16 Aug 2025 17:03:27 GMT | IOC (Indicator of Compromise) | Jameel Khan | [Read More](https://medium.com/p/afbb5ad21926) |
+| Sat, 16 Aug 2025 16:57:25 GMT | How I Built My Cloud Security Learning Path in 2025 (Beginner-Friendly) | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/6d0b81cc867b) |
+| Sat, 16 Aug 2025 16:57:08 GMT | Disclose Page Admins via Facebook Appointments | Ramzy Bouyahya | [Read More](https://medium.com/p/4925b899e79a) |
+| Sat, 16 Aug 2025 16:57:04 GMT | Linux Privilege Escalation Via Sudo Shell Escaping,Part 6. | Muhammadhuzaifa | [Read More](https://medium.com/p/3915b369ee2f) |
+| Sat, 16 Aug 2025 16:53:06 GMT | $750 Bug Bounty: The Story of a Hidden Discount Code in JS Files. | Tanvir Ahmed | [Read More](https://medium.com/p/1a39bbecff27) |
+| Sat, 16 Aug 2025 16:52:25 GMT | “Day 13: The Phantom Dependency Threat — How an Abandoned npm Package Almost Broke the Web” | Aman Sharma | [Read More](https://medium.com/p/b60155a56d9a) |
+| Sat, 16 Aug 2025 16:51:27 GMT | Understanding Access Management Mechanisms: A Simple Guide | Abdul Ahad | [Read More](https://medium.com/p/b2e8d3d5d007) |
+| Sat, 16 Aug 2025 16:46:50 GMT | Olay Analizi ve Sistem Kurtarma Raporu: BTRFS Dosya Sistemi Bozulması | Alp Ulkegul | [Read More](https://medium.com/p/7251f02b16e3) |
+| Sat, 16 Aug 2025 16:46:47 GMT | How I Found a $3000 IDOR Vulnerability in a Delivery App | Medusa | [Read More](https://medium.com/p/d15167b6f963) |
+| Sat, 16 Aug 2025 16:46:34 GMT | Disclosing Private Group Members via Facebook Rooms | Ramzy Bouyahya | [Read More](https://medium.com/p/d2e805ac8441) |
 | Sat, 16 Aug 2025 16:39:30 GMT | Cryptography Lesson: Notebook 1 — AES ECB (Electronic Codebook) | Baris Dincer | [Read More](https://medium.com/p/5baabcedfa59) |
+| Sat, 16 Aug 2025 16:37:21 GMT | How Hackers Use Deepfakes to Trick You!! And Why You Should Be Worried | Rue | [Read More](https://medium.com/p/68623d0b204e) |
 | Sat, 16 Aug 2025 16:33:44 GMT | Security Vulnerabilities in IIT KGP Web Applications | svt_root | [Read More](https://medium.com/p/bef99bd42755) |
 | Sat, 16 Aug 2025 16:32:00 GMT | How I Found a $3000 IDOR Vulnerability in a Delivery App | Medusa | [Read More](https://medium.com/p/185cf83445ab) |
 | Sat, 16 Aug 2025 16:26:04 GMT | XSS Escape backticks (`) — Strings/Template literals | popalltheshells | [Read More](https://medium.com/p/92b3f31b37a8) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 11:15:31 GMT | Fino payment Bank se paise cut Jaaye To Kya Karen✅ 9669538050 ✅फिनो पेमेंट बैंक से पैसे कट जाए तो… | फिनो पेमेंट बैंक से पैसे कट जाए तो क्या करें | [Read More](https://medium.com/p/cb1fad9b4862) |
 | Sat, 16 Aug 2025 11:09:33 GMT | Blockchain Security: The Efimer Trojan | Qitmeer Network | [Read More](https://medium.com/p/55d176b6af5c) |
 | Sat, 16 Aug 2025 10:57:29 GMT | Developing Trust in Digital Finance: Why NexFi is Redefining Confidence in Payments | NexFi | [Read More](https://medium.com/p/f2a84696b038) |
-| Sat, 16 Aug 2025 10:55:50 GMT | The Cloud Behind Your Daily Life: You Use It More Than You Know | Richa Ghosh | [Read More](https://medium.com/p/300626d56549) |
-| Sat, 16 Aug 2025 10:55:20 GMT | Hackers Leak 9GB of Data from Alleged North Korean Hacker’s Computer | David SEHYEON Baek | [Read More](https://medium.com/p/e5e01ad20f74) |
-| Sat, 16 Aug 2025 10:54:25 GMT | PIN CTFlearn Reverse Engineering Walkthrough — Write-up | Elmin Farzaliyev | [Read More](https://medium.com/p/cd88da96fbf4) |
-| Sat, 16 Aug 2025 10:53:00 GMT | 5 AI Tools That Can Make You a Cybersecurity Pro in 2025 | Akshaya Mary Lingala | [Read More](https://medium.com/p/3558fdc9fc36) |
-| Sat, 16 Aug 2025 10:52:58 GMT | #Deloitte Automation Testing Consultant Interview Experience:
-I applied to this position via portal… | Ajit Kumar | [Read More](https://medium.com/p/aa9c9c0c7ad5) |
-| Sat, 16 Aug 2025 10:51:13 GMT | Sun Tzu’s Art of War Applied to Modern Cyber Attacks | David SEHYEON Baek | [Read More](https://medium.com/p/a149397f4c62) |
-| Sat, 16 Aug 2025 10:50:51 GMT | Dstack завершил аудит безопасности — веха для Confidential Cloud | Phala Network RU | [Read More](https://medium.com/p/9316f304a3c3) |
-| Sat, 16 Aug 2025 10:50:51 GMT | Fino payment Bank se paise cut Jaaye To Kya Karen✅ 9669538050 ✅फिनो पेमेंट बैंक से पैसे कट जाए तो… | Fino payment Bank se paise cut Jaaye To Kya Karen | [Read More](https://medium.com/p/19c806a5a595) |
-| Sat, 16 Aug 2025 10:43:34 GMT | A Trivial Truth (on verbal Machiavellianism): The Case of a Bad Study with the Wrong Conclusions | Berend Watchus | [Read More](https://medium.com/p/ed8431799b7f) |
-| Sat, 16 Aug 2025 10:41:24 GMT | The CAPTCHA Scam You Never Saw Coming: When “I’m Not a Robot” Becomes the Hack | Divyesh Parate | [Read More](https://medium.com/p/db9fbc0b8b9c) |
-| Sat, 16 Aug 2025 10:39:14 GMT | Dstack zakończył audyt bezpieczeństwa — kamień milowy dla Confidential Cloud | Phala Network PL | [Read More](https://medium.com/p/c32dae6645a2) |
-| Sat, 16 Aug 2025 10:38:58 GMT | How I Found My First Open Redirect Vulnerability | Hinan Mohamed | [Read More](https://medium.com/p/592aacbf6574) |
