@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 16:21:19 GMT | Chasing Our Weaknesses | Nuri Sencer | [Read More](https://medium.com/p/b07b536f7ff4) |
+| Sat, 16 Aug 2025 16:17:48 GMT | Exploiting IDOR and Base64 Weakness in bWAPP with Burp Suite | Srimanta Mondal | [Read More](https://medium.com/p/5d847da13dcf) |
+| Sat, 16 Aug 2025 16:12:52 GMT | AI / LLM Hacking- Part 1 -Fundamentals | Darshan Naresh Naik | [Read More](https://medium.com/p/2cca1ad18929) |
+| Sat, 16 Aug 2025 16:12:17 GMT | Platform-Layer Access-Control Checks | Siddiquimohammad | [Read More](https://medium.com/p/924395c8c3d9) |
+| Sat, 16 Aug 2025 16:08:51 GMT | Root Me — HTTP — IP restriction bypass | Kamal S | [Read More](https://medium.com/p/93de8d678707) |
+| Sat, 16 Aug 2025 16:07:49 GMT | Hacking: It’s Not Just Typing Really Fast | CtrlC3 | [Read More](https://medium.com/p/cb3ea2efb356) |
+| Sat, 16 Aug 2025 16:04:16 GMT | API Penetration Testing Report: Vulnerable Bank Application | Emmanuel Sodolamu | [Read More](https://medium.com/p/7eeea1a3aff8) |
+| Sat, 16 Aug 2025 16:01:20 GMT | Cracking Codes: Where to Start With Crypto Puzzles? | SilentInject | [Read More](https://medium.com/p/aedfc051b91f) |
+| Sat, 16 Aug 2025 15:55:39 GMT | NIST 2.0 Implementation Strategies | Polaroid_347 | [Read More](https://medium.com/p/a176fba2a369) |
+| Sat, 16 Aug 2025 15:48:37 GMT | The Illusion of Safety: Exploiting XSS Beyond "HttpOnly" Cookies | Neh Patel | [Read More](https://medium.com/p/b81c6493bb76) |
+| Sat, 16 Aug 2025 15:41:10 GMT | Degree or Nah? My Cybersecurity Origin Story | Authlyn | [Read More](https://medium.com/p/654399e1a722) |
+| Sat, 16 Aug 2025 15:39:00 GMT | Linux: Bir SOC Analisti İçin Neden Vazgeçilmezdir? | Çağlar Suvari | [Read More](https://medium.com/p/2481aa6275a2) |
+| Sat, 16 Aug 2025 15:38:32 GMT | Dutch Speed Cameras Down: Did Russia Just Hack a Speeding Ticket? | Truspex | [Read More](https://medium.com/p/c69df07a8cf3) |
 | Sat, 16 Aug 2025 15:38:15 GMT | Hack The Box File Inclusion — Skills Assessment Writeup | Badis Kh | [Read More](https://medium.com/p/cc5d4f43f09c) |
 | Sat, 16 Aug 2025 15:36:31 GMT | Cyber Trends Today: New Research on AI Agent Privacy, Disinformation, and Securing Energy Systems | Berend Watchus | [Read More](https://medium.com/p/cc8c06ea4877) |
 | Sat, 16 Aug 2025 15:35:37 GMT | The Algorithmic Filtering Paradigm: Navigating the Curated Web and The Search Engine. | Berend Watchus | [Read More](https://medium.com/p/2870870be93b) |
@@ -100,16 +113,3 @@ I applied to this position via portal… | Ajit Kumar | [Read More](https://medi
 | Sat, 16 Aug 2025 10:22:32 GMT | AlertNinja: A Network and Vulnerability Scanning Tool. | AfshanFathima | [Read More](https://medium.com/p/50b22aaa30f2) |
 | Sat, 16 Aug 2025 10:21:16 GMT | Object-Level vs Function-Level Access Control: What Every Security Professional Should Know | Siddiquimohammad | [Read More](https://medium.com/p/4d1d00303e04) |
 | Sat, 16 Aug 2025 10:20:45 GMT | DOJ’s $2.8M Crypto Seizure & Bitcoin’s $125K Battle: What It Means for Crypto | Casi Borg | [Read More](https://medium.com/p/c7aea28755a5) |
-| Sat, 16 Aug 2025 10:16:24 GMT | Cybersecurity for Nonprofits: Securing your Organization’s Data on a Budget | Aliza Khokhar | [Read More](https://medium.com/p/523f6c7a7185) |
-| Sat, 16 Aug 2025 10:14:36 GMT | ️ Zero Trust in Microservices: Why Your Spring Boot Security Model Is Already Outdated | Ahmed Aboulkanatir | [Read More](https://medium.com/p/51a9b3bfb626) |
-| Sat, 16 Aug 2025 10:11:31 GMT | Tired of Juggling 10 Different Hacking Tools? | Sajjad Hussain | [Read More](https://medium.com/p/bd0162d8589f) |
-| Sat, 16 Aug 2025 10:05:00 GMT | The Hidden History of Tor Browser Nobody Talks About | Emad Dehnavi | [Read More](https://medium.com/p/840669f23250) |
-| Sat, 16 Aug 2025 09:58:26 GMT | Maintain Session Timeout in Flutter for Enhanced Security & UX (Idiomatic, App-Wide) | Abdul Ahad | [Read More](https://medium.com/p/3b45a91d02ad) |
-| Sat, 16 Aug 2025 09:51:40 GMT | The Hidden World of Online Scams: What We Learned from the Trustoryx CTF | NIkhil Kumar | [Read More](https://medium.com/p/a54ae0356e76) |
-| Sat, 16 Aug 2025 09:51:08 GMT | ️ “Step Into the Attacker’s Mind: Threat Emulation with Caldera on TryHackMe” | Furkanctiner | [Read More](https://medium.com/p/1b7b9a055453) |
-| Sat, 16 Aug 2025 09:50:25 GMT | Quantum Supremacy: 600 Million Years of Computation in 200 Seconds | Freddy Harahap | [Read More](https://medium.com/p/6aa508a9e656) |
-| Sat, 16 Aug 2025 09:50:12 GMT | Stop Email Overload: How AI Can Organize Your Inbox in Seconds | Likhoindustry | [Read More](https://medium.com/p/c3ba42ed64d1) |
-| Sat, 16 Aug 2025 09:47:17 GMT | Overwhelmed by Installing Hacking Tools One by One? | Sajjad Hussain | [Read More](https://medium.com/p/204271cdce83) |
-| Sat, 16 Aug 2025 09:43:32 GMT | Atomic Red Team: Simulating Real Attacks the Safe Way | Furkanctiner | [Read More](https://medium.com/p/0ebba50e76e8) |
-| Sat, 16 Aug 2025 09:41:44 GMT | Hacker’s jargon: build (not to be confused with build in co) | 0trust0day | [Read More](https://medium.com/p/e70a4aa10a0c) |
-| Sat, 16 Aug 2025 09:41:32 GMT | Wazuh ile VirusTotal Entegrasyonu ve E-posta Alarm Sistemi Kurulumu | Onur GÖKYAKA | [Read More](https://medium.com/p/9a3013c2f219) |
