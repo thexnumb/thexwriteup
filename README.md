@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 20:33:54 GMT | home network | akili | [Read More](https://medium.com/p/009839ca21e3) |
+| Sat, 16 Aug 2025 20:29:10 GMT | Backup Log Wazuh Otomatis ke Server Remote | Haldian | [Read More](https://medium.com/p/5477afd0fe39) |
+| Sat, 16 Aug 2025 20:21:41 GMT | My first serious security vulnerability report | Paul Lam | [Read More](https://medium.com/p/2eae7ace537d) |
 | Sat, 16 Aug 2025 20:19:56 GMT | How to install the Bloodhound GUI | Steve Aiello | [Read More](https://medium.com/p/cd8106daac4e) |
 | Sat, 16 Aug 2025 20:12:46 GMT | CyberTalents: Strength Calculator writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/2f69c52dc38f) |
 | Sat, 16 Aug 2025 19:59:46 GMT | Linux Privilege Escalation Via Intended Functionality, Part 7: | Muhammadhuzaifa | [Read More](https://medium.com/p/8fade1fa1ad7) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 14:15:45 GMT | Windows Authentication Process Part -1 | Madhab Tripathy | [Read More](https://medium.com/p/85ec4d625de5) |
 | Sat, 16 Aug 2025 14:12:07 GMT | ASI — Humanity’s Last Invention | Balthasar | [Read More](https://medium.com/p/1a60e8babdfe) |
 | Sat, 16 Aug 2025 14:08:59 GMT | Kerberoasting Tespiti (Splunk) | Serkan | [Read More](https://medium.com/p/a514d7ba3329) |
-| Sat, 16 Aug 2025 14:04:09 GMT | Parent Process PID Spoofing Nedir? Nasıl Çalışır? Güvenlik Açısından Önemi | Serkan | [Read More](https://medium.com/p/99e4a23b72f5) |
-| Sat, 16 Aug 2025 14:02:21 GMT | 5 Hidden Browser Threats You’re Ignoring — and How to Stop Them | cybertrixs | [Read More](https://medium.com/p/214f1944855d) |
-| Sat, 16 Aug 2025 14:01:50 GMT | When AI Makes Stuff Up: Understanding Hallucinations | Brittney Ginther | [Read More](https://medium.com/p/626fb9d09a7a) |
