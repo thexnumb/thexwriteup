@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 14:12:07 GMT | ASI — Humanity’s Last Invention | Balthasar | [Read More](https://medium.com/p/1a60e8babdfe) |
+| Sat, 16 Aug 2025 14:08:59 GMT | Kerberoasting Tespiti (Splunk) | Serkan | [Read More](https://medium.com/p/a514d7ba3329) |
+| Sat, 16 Aug 2025 14:04:09 GMT | Parent Process PID Spoofing Nedir? Nasıl Çalışır? Güvenlik Açısından Önemi | Serkan | [Read More](https://medium.com/p/99e4a23b72f5) |
+| Sat, 16 Aug 2025 14:02:21 GMT | 5 Hidden Browser Threats You’re Ignoring — and How to Stop Them | cybertrixs | [Read More](https://medium.com/p/214f1944855d) |
+| Sat, 16 Aug 2025 14:01:50 GMT | When AI Makes Stuff Up: Understanding Hallucinations | Brittney Ginther | [Read More](https://medium.com/p/626fb9d09a7a) |
+| Sat, 16 Aug 2025 13:56:24 GMT | Is AI Hacking Systems | Mainekdeveloper | [Read More](https://medium.com/p/f41f29cad62f) |
+| Sat, 16 Aug 2025 13:55:01 GMT | SIEM Üzerinden Possible DCSync Attack Analizi | Berat K. | [Read More](https://medium.com/p/cf4e55862edf) |
+| Sat, 16 Aug 2025 13:52:09 GMT | Brazil’s Digital Double Threat | Aj | [Read More](https://medium.com/p/245022440e14) |
+| Sat, 16 Aug 2025 13:48:42 GMT | The Trojan Mind: How Social Engineering Turns Humans into the Weakest Link | vydhi | [Read More](https://medium.com/p/2d0074832b1a) |
 | Sat, 16 Aug 2025 13:29:55 GMT | Ultimate Guide: Bug Bounty Hunters Using Custom TCP Flags for Port Scanning | Zoningxtr | [Read More](https://medium.com/p/e78219d2cc13) |
 | Sat, 16 Aug 2025 13:23:29 GMT | Introduction to Phishing Analysis | Allen Ace | [Read More](https://medium.com/p/cedfd5b2a578) |
 | Sat, 16 Aug 2025 13:20:59 GMT | Cortex Cloud Posture: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/16baaa9ed21a) |
@@ -104,12 +113,3 @@ I applied to this position via portal… | Ajit Kumar | [Read More](https://medi
 | Sat, 16 Aug 2025 08:24:59 GMT | BurpSuite, tools untuk menguji keamanan website | Cyberworldlnx | [Read More](https://medium.com/p/08a7f1e07b22) |
 | Sat, 16 Aug 2025 08:21:29 GMT | The FOMO of AI Right Now | Jaypal Singh | [Read More](https://medium.com/p/ca7de27d51e6) |
 | Sat, 16 Aug 2025 08:19:49 GMT | “No Browser, No Problem” — How I Hacked My Way to 5 Vulnerabilities Using Only Nmap | Narendar Battula (nArEn) | [Read More](https://medium.com/p/de5046d94956) |
-| Sat, 16 Aug 2025 08:16:18 GMT | The Invisible Threat: Securing Your IoT Ecosystem Without Breaking the Bank | Kambetastephano | [Read More](https://medium.com/p/76a8cc26599a) |
-| Sat, 16 Aug 2025 08:16:10 GMT | KYBS CTF v1 2025 (WEB Security) | zerOiQ | [Read More](https://medium.com/p/7102ce558b8e) |
-| Sat, 16 Aug 2025 08:10:07 GMT | ⚔️ Red vs Blue: The Ultimate Nmap Battle Cheat Sheet | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c348912c854a) |
-| Sat, 16 Aug 2025 08:04:05 GMT | Mastering Nmap — The Hacker’s Microscope Into Networks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/27cae3531f17) |
-| Sat, 16 Aug 2025 08:00:03 GMT | A Beginner’s Guide to Google Dorking: Unlocking Hidden Web Data | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/57ef6e0325ca) |
-| Sat, 16 Aug 2025 07:58:48 GMT | From the Dugout to the Data Centre: Why Cybersecurity Feels Like Managing a Football Club | Leo | [Read More](https://medium.com/p/9aeb797d9d18) |
-| Sat, 16 Aug 2025 07:54:53 GMT | INFORMATION SECURITY REVIEW POLICY (EN) | Atakan Bitim | [Read More](https://medium.com/p/06e12d56ed61) |
-| Sat, 16 Aug 2025 07:54:50 GMT | INFORMATION SECURITY REVIEW POLICY (TR) | Atakan Bitim | [Read More](https://medium.com/p/7b6ac2bad816) |
-| Sat, 16 Aug 2025 07:50:30 GMT | ZERO — Finding First BUG | Vansh Sharma | [Read More](https://medium.com/p/a0efc3381150) |
