@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 22:18:55 GMT | Penetration Test Report: Athena (TryHackMe) | Faysal Dhimbil | [Read More](https://medium.com/p/b4494f559f0a) |
 | Sat, 16 Aug 2025 22:17:46 GMT | BYOD Security: Balancing Flexibility and Control | Karthikeyan Nagaraj | [Read More](https://medium.com/p/1a10b0be0b13) |
 | Sat, 16 Aug 2025 22:13:58 GMT | Inter-Component Communication (ICC) Vulnerabilities in Android | Amar Kumar | [Read More](https://medium.com/p/19ecf6e7f6f1) |
 | Sat, 16 Aug 2025 21:59:05 GMT | CAN I GET MY LOST OR SCAMMED BITCOIN BACK? YES, MALICE CYBER RECOVERY WILL HELP YOU OUT. | Sebastien Lefevre | [Read More](https://medium.com/p/ec5071a55190) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 16:01:20 GMT | Cracking Codes: Where to Start With Crypto Puzzles? | SilentInject | [Read More](https://medium.com/p/aedfc051b91f) |
 | Sat, 16 Aug 2025 15:55:39 GMT | NIST 2.0 Implementation Strategies | Polaroid_347 | [Read More](https://medium.com/p/a176fba2a369) |
 | Sat, 16 Aug 2025 15:48:37 GMT | The Illusion of Safety: Exploiting XSS Beyond "HttpOnly" Cookies | Neh Patel | [Read More](https://medium.com/p/b81c6493bb76) |
-| Sat, 16 Aug 2025 15:41:10 GMT | Degree or Nah? My Cybersecurity Origin Story | Authlyn | [Read More](https://medium.com/p/654399e1a722) |
