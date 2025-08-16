@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 18:19:28 GMT | 2. Why Weak Passwords Are Dangerous | Tahaazeemguestblogger | [Read More](https://medium.com/p/99fb99ee085c) |
+| Sat, 16 Aug 2025 18:09:58 GMT | Gmail Phishing Attacks: A Growing Threat to Digital Trust | Chetan Seripally | [Read More](https://medium.com/p/7b7b2966b14f) |
+| Sat, 16 Aug 2025 18:00:46 GMT | Google Pays $250,000 Bounty for Chrome Sandbox Escape Vulnerability | Chetan Seripally | [Read More](https://medium.com/p/58f79644112f) |
+| Sat, 16 Aug 2025 18:00:23 GMT | I have always worn my trauma on the outside of me as my weight, visible to the world. | Coco Densmore | [Read More](https://medium.com/p/4dd0e816b100) |
+| Sat, 16 Aug 2025 17:51:07 GMT | Indore is rapidly emerging as a significant real estate hub in Central India, moving beyond its… | Anshul Agrawal | [Read More](https://medium.com/p/cd64040487fb) |
+| Sat, 16 Aug 2025 17:49:12 GMT | Catch Me If You Can: | Tanish Anand | [Read More](https://medium.com/p/c12627c4d21c) |
+| Sat, 16 Aug 2025 17:47:29 GMT | Advancing AI in Cybersecurity in the 21st Century | Artificial Intelligence Details | [Read More](https://medium.com/p/53fdc2d865a1) |
+| Sat, 16 Aug 2025 17:45:51 GMT | How I Integrated GitHub with My App (The Secure Way) | Ajay n Jain | [Read More](https://medium.com/p/c289393c4d0d) |
+| Sat, 16 Aug 2025 17:39:52 GMT | Understanding CSRF and How to Prevent It in Your Application — Part 2 | Gokul Karthik | [Read More](https://medium.com/p/4cfd2940e236) |
+| Sat, 16 Aug 2025 17:38:04 GMT | Zero-day exploit in WinRaR (CVE-2025–8088) used by Threat Actors in the wild | Wrench | [Read More](https://medium.com/p/8575c4865150) |
+| Sat, 16 Aug 2025 17:36:55 GMT | Bug Bounty: Injection Attacks — From SQLi to Template Injection | Rajkumar Kumawat | [Read More](https://medium.com/p/85acd9f6caff) |
 | Sat, 16 Aug 2025 17:33:22 GMT | PDF.JS Viewer Endpoint Dorking | AbhirupKonwar | [Read More](https://medium.com/p/03e3a68e0acf) |
 | Sat, 16 Aug 2025 17:32:04 GMT | JWT Authentication in Node.js Explained Step-by-Step | Thomas Joseph | [Read More](https://medium.com/p/37e2018a4cd3) |
+| Sat, 16 Aug 2025 17:31:43 GMT | How I Got Server Side XSS From PDF Previewing | Mohamed Ahmd | [Read More](https://medium.com/p/769a1b585e84) |
 | Sat, 16 Aug 2025 17:17:54 GMT | Pickle Rick TryHackMe | Ayush Tiwari | [Read More](https://medium.com/p/177b38a427c1) |
 | Sat, 16 Aug 2025 17:14:03 GMT | The Secret Language of the Internet: Common Protocols Explained | KISHOR SUTRADHAR | [Read More](https://medium.com/p/e587cadfbf98) |
 | Sat, 16 Aug 2025 17:03:35 GMT | Most AI-Written Code Online Already Has Bugs | Sanjeevani Bhandari | [Read More](https://medium.com/p/28859782b178) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 12:15:14 GMT | Love and Childlike Vulnerability: When We Hold the Power to Hurt Our Own Hearts | Von Gayo Godilano | [Read More](https://medium.com/p/cd4b3a52b2e8) |
 | Sat, 16 Aug 2025 12:14:48 GMT | Mobile Security Tips: How to Protect Your Data in an Always-Connected World | Webbitech | [Read More](https://medium.com/p/63385155a679) |
 | Sat, 16 Aug 2025 12:13:54 GMT | HexStrike AI: The Future of Autonomous Penetration Testing | Taha Ex | [Read More](https://medium.com/p/e78953d7be4a) |
-| Sat, 16 Aug 2025 12:13:31 GMT | Hack Your Career: The Elite Cybersecurity Roadmap for Future Leaders | The Quiet Hacker | [Read More](https://medium.com/p/8473c83c8fc2) |
-| Sat, 16 Aug 2025 12:11:29 GMT | Comprehensive Overview of Email Threats Facing Organizations | Aman Chawla | [Read More](https://medium.com/p/2356ea6514ea) |
-| Sat, 16 Aug 2025 12:09:26 GMT | DockerLabs Writeup — Verdejo (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a238be8dc342) |
-| Sat, 16 Aug 2025 11:53:45 GMT | Active Directory in a Simple Terms | Rona Ega Kharisma | [Read More](https://medium.com/p/3a4193642f6d) |
-| Sat, 16 Aug 2025 11:52:09 GMT | T1589 — Gather Victim Identity Information: When Hackers Collect “Digital Souvenirs” | MITRE Doggy | [Read More](https://medium.com/p/84e1566348f4) |
-| Sat, 16 Aug 2025 11:44:21 GMT | Cybersecurity in 2025: Why Your Password is Already Obsolete | Naila Ahsan | [Read More](https://medium.com/p/166b14fe991d) |
-| Sat, 16 Aug 2025 11:38:51 GMT | نقشه راه یادگیری هک از صفر تا صد | Anna Jones | [Read More](https://medium.com/p/c9d388cbe462) |
-| Sat, 16 Aug 2025 11:32:13 GMT | Earned $$$$ by Tricking an AI Chatbot Into Giving Me Secrets | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/6ac3352926e2) |
-| Sat, 16 Aug 2025 11:31:29 GMT | Technical Analysis of SAP Exploit Script (Visual Composer “Metadata Uploader” Exploit)… | SIMKRA | [Read More](https://medium.com/p/7b4a01b38548) |
-| Sat, 16 Aug 2025 11:29:54 GMT | Ultimate Guide to Cybersecurity: Web, Mobile, API & Architecture Security | Dmvikash | [Read More](https://medium.com/p/206fb540fd2f) |
-| Sat, 16 Aug 2025 11:26:03 GMT | Ring Gen 5 → Gen 6: Sunlight Battle | DragonFlameAce | [Read More](https://medium.com/p/2b7736862c7d) |
-| Sat, 16 Aug 2025 11:22:07 GMT | Authlib: The Python Developer’s Answer to Authentication | Nikhilsaraogi | [Read More](https://medium.com/p/9e718a4d21fc) |
