@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 13:16:36 GMT | The Recon Trick Nobody Talks About: DNS History + Archive.org | Nitin yadav | [Read More](https://medium.com/p/7e1d6e6a96d1) |
+| Sat, 16 Aug 2025 13:12:57 GMT | Why Startup Founders Can’t Afford to Ignore Cybersecurity in 2025 | Editorial Staff | [Read More](https://medium.com/p/c70e09057ff1) |
+| Sat, 16 Aug 2025 13:11:31 GMT | Multi-Source Data Correlation and Prioritization in SOC | Esra Kayhan | [Read More](https://medium.com/p/6758c54809ad) |
+| Sat, 16 Aug 2025 13:07:14 GMT | Acı Piramidi(Pyramid of Pain) | Ali E. Ceylan | [Read More](https://medium.com/p/7623654b8f3e) |
+| Sat, 16 Aug 2025 13:06:25 GMT | MR.Robot CTF | Ayush Tiwari | [Read More](https://medium.com/p/0cfac3ebd7cc) |
+| Sat, 16 Aug 2025 13:02:19 GMT | How to Simulate a DMZ (Demilitarized Zone) Network with VirtualBox and PfSense Firewall | Bennet Sharwin | [Read More](https://medium.com/p/b36aea158d3c) |
+| Sat, 16 Aug 2025 13:01:37 GMT | Stop Overthinking CORS — Quick Spring Setup | Krzysztof Mrugała | [Read More](https://medium.com/p/6e56b91386d4) |
+| Sat, 16 Aug 2025 12:58:23 GMT | Active Directory’de Golden Ticket ve Silver Ticket Saldırı Analizi | Berat K. | [Read More](https://medium.com/p/5713d55349d9) |
+| Sat, 16 Aug 2025 12:51:35 GMT | The Product Mindset for Cybersecurity | Sateesh Nutulapati | [Read More](https://medium.com/p/85ea2f57981c) |
+| Sat, 16 Aug 2025 12:50:43 GMT | Pickle Rick v2 | Meena A | [Read More](https://medium.com/p/3068d187dd6d) |
+| Sat, 16 Aug 2025 12:47:44 GMT | Red Team vs. Blue Team: Why I Switched Sides After One Mission | Shahzaib | [Read More](https://medium.com/p/452c5c863318) |
+| Sat, 16 Aug 2025 12:43:23 GMT | Quantum Robust Firewalls: Meet The Cipher Translation Proxy | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/f4fb791662fc) |
+| Sat, 16 Aug 2025 12:33:03 GMT | OS Command Injection — Part 02 | Madura Rajapakshe | [Read More](https://medium.com/p/e2aa27f6d937) |
 | Sat, 16 Aug 2025 12:27:21 GMT | What I Found Out When I Finally Stopped Pretending to Be Okay | Joshua Kelechi | [Read More](https://medium.com/p/ef081cb55a01) |
 | Sat, 16 Aug 2025 12:25:34 GMT | Get Your CAPT Cybersecurity Certification for FREE — Limited Time Only! | Taha Ex | [Read More](https://medium.com/p/49c783a8112c) |
 | Sat, 16 Aug 2025 12:24:41 GMT | OS Command Injection | Madura Rajapakshe | [Read More](https://medium.com/p/0bb9be0417ab) |
@@ -100,16 +113,3 @@ I applied to this position via portal… | Ajit Kumar | [Read More](https://medi
 | Sat, 16 Aug 2025 07:31:45 GMT | Vintage stuff: The Hacker’s Handbook and the script kiddie | Mansfield-Devine | [Read More](https://medium.com/p/123f6c9e23c7) |
 | Sat, 16 Aug 2025 07:29:46 GMT | First exam attempt OSCP Exam Day: Lessons from a Missed Attempt | Sonic | [Read More](https://medium.com/p/fbd2fa98d203) |
 | Sat, 16 Aug 2025 07:18:58 GMT | India’s Best Click 2 call Service Provider | Ashutosh Mallik | [Read More](https://medium.com/p/42117967e2df) |
-| Sat, 16 Aug 2025 07:16:46 GMT | Cybersecurity: Why Hackers Don’t Always Wear Hoodies | Akshay Chauhan | [Read More](https://medium.com/p/bbb35010bc38) |
-| Sat, 16 Aug 2025 07:14:01 GMT | Prevent Data Poisoning in PHP With These Validation Tricks | Asian Digital Hub | [Read More](https://medium.com/p/be74443c5017) |
-| Sat, 16 Aug 2025 07:06:49 GMT | MAC Adresi ve ARP | Burak Menteşe | [Read More](https://medium.com/p/603836be9f57) |
-| Sat, 16 Aug 2025 07:04:40 GMT | Gmail (Workspace) Gemini AI Summarization Leaks Sensitive Data from Permanently Deleted Emails | Deepseek Community ® | [Read More](https://medium.com/p/85aa51be6ce4) |
-| Sat, 16 Aug 2025 07:01:35 GMT | U.S. Federal Courts Hacked: Decades-Old Flaws Expose Sealed Cases and National Security… | Dhruvdeep Singh | [Read More](https://medium.com/p/2fae888962dc) |
-| Sat, 16 Aug 2025 06:49:08 GMT | Yapay Zekânın Öğrenmesi İçin, Biz Düşünmeyi Bıraktık | AYŞE KIZILAY | [Read More](https://medium.com/p/f6b03abc8018) |
-| Sat, 16 Aug 2025 06:48:44 GMT | Yapay Zeka Bizi Tek Tip İnsana mı Dönüştürüyor? | AYŞE KIZILAY | [Read More](https://medium.com/p/c3666205e484) |
-| Sat, 16 Aug 2025 06:48:26 GMT | Teknoloji mi İnsanı Şekillendiriyor, İnsan mı Teknolojiyi? | AYŞE KIZILAY | [Read More](https://medium.com/p/996fa5a12da2) |
-| Sat, 16 Aug 2025 06:47:39 GMT | Geleceğe İz Bırakmak Mümkün mü? | AYŞE KIZILAY | [Read More](https://medium.com/p/513e9a9b7d1b) |
-| Sat, 16 Aug 2025 06:47:31 GMT | Bug Bounty: Lo que parece innecesario para el usuario, a veces es esencial para el atacante | Gorka | [Read More](https://medium.com/p/32961185d286) |
-| Sat, 16 Aug 2025 06:47:25 GMT | Bilgi mi Daha Değerli, Yorum mu? Dijital Çağın Gerçek Anahtarı | AYŞE KIZILAY | [Read More](https://medium.com/p/f5401107a9ba) |
-| Sat, 16 Aug 2025 06:31:37 GMT | TryHackMe - Corridor - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/a101fd29d020) |
-| Sat, 16 Aug 2025 06:31:33 GMT | ShinyHunters’ Operational Tactics: Git Scraping, Social Engineering, and Cloud Abuse. | Devansh Patel | [Read More](https://medium.com/p/982d2ac502df) |
