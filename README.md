@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 21:33:22 GMT | Networking & the Internet | Aanya Ali | [Read More](https://medium.com/p/cde10e1f7b67) |
+| Sat, 16 Aug 2025 21:31:30 GMT | Intro to ICT — Data & Information | Aanya Ali | [Read More](https://medium.com/p/aa1704be872d) |
+| Sat, 16 Aug 2025 21:27:32 GMT | Kindled Desire | NRWillick | [Read More](https://medium.com/p/91a7c2635f54) |
+| Sat, 16 Aug 2025 21:22:28 GMT | Cyber Reputation Subscription | Alan W. Silberberg | [Read More](https://medium.com/p/3cb15ba6c8d8) |
+| Sat, 16 Aug 2025 21:16:08 GMT | I Built a SQL Injection That Bypassed Every WAF | Ibtissam hammadi | [Read More](https://medium.com/p/01bee29f2d84) |
 | Sat, 16 Aug 2025 21:12:51 GMT | Unmasking Stored XSS: A Deep Dive into the SMTP Error Message Vulnerability | Monika sharma | [Read More](https://medium.com/p/1aba61c93a09) |
 | Sat, 16 Aug 2025 21:07:03 GMT | Burp Suite for Beginners: Your Web Hacking Swiss Army Knife | Aj | [Read More](https://medium.com/p/0a52841e31b8) |
 | Sat, 16 Aug 2025 21:06:57 GMT | Episode 2: Brute Force Attacks — When Hackers Keep Knocking Until the Door Opens | Yamini Yadav | [Read More](https://medium.com/p/f08d6f386cfc) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 15:39:00 GMT | Linux: Bir SOC Analisti İçin Neden Vazgeçilmezdir? | Çağlar Suvari | [Read More](https://medium.com/p/2481aa6275a2) |
 | Sat, 16 Aug 2025 15:38:32 GMT | Dutch Speed Cameras Down: Did Russia Just Hack a Speeding Ticket? | Truspex | [Read More](https://medium.com/p/c69df07a8cf3) |
 | Sat, 16 Aug 2025 15:38:15 GMT | Hack The Box File Inclusion — Skills Assessment Writeup | Badis Kh | [Read More](https://medium.com/p/cc5d4f43f09c) |
-| Sat, 16 Aug 2025 15:36:31 GMT | Cyber Trends Today: New Research on AI Agent Privacy, Disinformation, and Securing Energy Systems | Berend Watchus | [Read More](https://medium.com/p/cc8c06ea4877) |
-| Sat, 16 Aug 2025 15:35:37 GMT | The Algorithmic Filtering Paradigm: Navigating the Curated Web and The Search Engine. | Berend Watchus | [Read More](https://medium.com/p/2870870be93b) |
-| Sat, 16 Aug 2025 15:35:19 GMT | اكتشفت اول ثغره ليا و كانت Stored XSS | Abdallanofal | [Read More](https://medium.com/p/c24861237c9a) |
-| Sat, 16 Aug 2025 15:31:52 GMT | The Final Piece: Hunting, Searching, and Analyzing Like a Pro in Sublime EDR for Email | Dean | [Read More](https://medium.com/p/24559ad310b3) |
-| Sat, 16 Aug 2025 15:28:33 GMT | Day 83: Bash | Nile Okomo | [Read More](https://medium.com/p/bc7af4be191b) |
