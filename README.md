@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 16:39:30 GMT | Cryptography Lesson: Notebook 1 — AES ECB (Electronic Codebook) | Baris Dincer | [Read More](https://medium.com/p/5baabcedfa59) |
+| Sat, 16 Aug 2025 16:33:44 GMT | Security Vulnerabilities in IIT KGP Web Applications | svt_root | [Read More](https://medium.com/p/bef99bd42755) |
+| Sat, 16 Aug 2025 16:32:00 GMT | How I Found a $3000 IDOR Vulnerability in a Delivery App | Medusa | [Read More](https://medium.com/p/185cf83445ab) |
+| Sat, 16 Aug 2025 16:26:04 GMT | XSS Escape backticks (`) — Strings/Template literals | popalltheshells | [Read More](https://medium.com/p/92b3f31b37a8) |
+| Sat, 16 Aug 2025 16:23:28 GMT | Ali’s ComptiA+ class reviews | Ali Musayev | [Read More](https://medium.com/p/5b55b2518b07) |
 | Sat, 16 Aug 2025 16:21:19 GMT | Chasing Our Weaknesses | Nuri Sencer | [Read More](https://medium.com/p/b07b536f7ff4) |
+| Sat, 16 Aug 2025 16:19:41 GMT | From Static to Dynamic: How AI Can Rewrite the Role of Enterprise Architecture | Sunil Singh | [Read More](https://medium.com/p/f8315a3eb7ff) |
+| Sat, 16 Aug 2025 16:18:11 GMT | AI Without Gatekeepers: The Rise of PAI3 Nodes | The Executive | [Read More](https://medium.com/p/ed7b2a9c0eb2) |
 | Sat, 16 Aug 2025 16:17:48 GMT | Exploiting IDOR and Base64 Weakness in bWAPP with Burp Suite | Srimanta Mondal | [Read More](https://medium.com/p/5d847da13dcf) |
+| Sat, 16 Aug 2025 16:17:37 GMT | Russian Hackers EncryptHub Use MSC EvilTwin Vulnerability (CVE-2025–26633) to Spread Fickle Stealer… | Femintee | [Read More](https://medium.com/p/711cdfbae360) |
 | Sat, 16 Aug 2025 16:12:52 GMT | AI / LLM Hacking- Part 1 -Fundamentals | Darshan Naresh Naik | [Read More](https://medium.com/p/2cca1ad18929) |
 | Sat, 16 Aug 2025 16:12:17 GMT | Platform-Layer Access-Control Checks | Siddiquimohammad | [Read More](https://medium.com/p/924395c8c3d9) |
 | Sat, 16 Aug 2025 16:08:51 GMT | Root Me — HTTP — IP restriction bypass | Kamal S | [Read More](https://medium.com/p/93de8d678707) |
@@ -105,11 +113,3 @@ I applied to this position via portal… | Ajit Kumar | [Read More](https://medi
 | Sat, 16 Aug 2025 10:41:24 GMT | The CAPTCHA Scam You Never Saw Coming: When “I’m Not a Robot” Becomes the Hack | Divyesh Parate | [Read More](https://medium.com/p/db9fbc0b8b9c) |
 | Sat, 16 Aug 2025 10:39:14 GMT | Dstack zakończył audyt bezpieczeństwa — kamień milowy dla Confidential Cloud | Phala Network PL | [Read More](https://medium.com/p/c32dae6645a2) |
 | Sat, 16 Aug 2025 10:38:58 GMT | How I Found My First Open Redirect Vulnerability | Hinan Mohamed | [Read More](https://medium.com/p/592aacbf6574) |
-| Sat, 16 Aug 2025 10:37:24 GMT | From Open Source Roots to Enterprise-Grade Power | Amit Ambekar | [Read More](https://medium.com/p/1fab5b20ac58) |
-| Sat, 16 Aug 2025 10:36:54 GMT | Network Penetration Testing - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/ac17ba5b6a6a) |
-| Sat, 16 Aug 2025 10:36:00 GMT | Cyber Kill Chain — TryHackMe Walkthrough | Genrunic | [Read More](https://medium.com/p/db41c2969fa9) |
-| Sat, 16 Aug 2025 10:35:06 GMT | Tired of Guessing What’s Public on Facebook? | Sajjad Hussain | [Read More](https://medium.com/p/7b0b81f5feb9) |
-| Sat, 16 Aug 2025 10:32:51 GMT | Part 2 — ClamAV: Nedir, Ne İşe Yarar ve ELK Stack Entegrasyonu | Hasan BAYRAKTAR | [Read More](https://medium.com/p/588f19494638) |
-| Sat, 16 Aug 2025 10:22:32 GMT | AlertNinja: A Network and Vulnerability Scanning Tool. | AfshanFathima | [Read More](https://medium.com/p/50b22aaa30f2) |
-| Sat, 16 Aug 2025 10:21:16 GMT | Object-Level vs Function-Level Access Control: What Every Security Professional Should Know | Siddiquimohammad | [Read More](https://medium.com/p/4d1d00303e04) |
-| Sat, 16 Aug 2025 10:20:45 GMT | DOJ’s $2.8M Crypto Seizure & Bitcoin’s $125K Battle: What It Means for Crypto | Casi Borg | [Read More](https://medium.com/p/c7aea28755a5) |
