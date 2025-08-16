@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 08:38:12 GMT | How Secure Is Cloud Accounting For Storing Financial Data? | Nivedita Baidya | [Read More](https://medium.com/p/824695b7a9d6) |
+| Sat, 16 Aug 2025 08:38:09 GMT | Unlock the Power of Smart Digital Marketing Services with Softreey | Softreey | [Read More](https://medium.com/p/fe55f09990c2) |
+| Sat, 16 Aug 2025 08:31:07 GMT | How Playing a Silly Game Changed the Way I See AI Security | Rishabh Gupta | [Read More](https://medium.com/p/6e4bf3c61817) |
+| Sat, 16 Aug 2025 08:29:32 GMT | Nmap Kill Chain: OSINT → Scan → Enumeration → Find → Exploit | Narendar Battula (nArEn) | [Read More](https://medium.com/p/70dbdff57b5e) |
 | Sat, 16 Aug 2025 08:24:59 GMT | BurpSuite, tools untuk menguji keamanan website | Cyberworldlnx | [Read More](https://medium.com/p/08a7f1e07b22) |
+| Sat, 16 Aug 2025 08:21:29 GMT | The FOMO of AI Right Now | Jaypal Singh | [Read More](https://medium.com/p/ca7de27d51e6) |
 | Sat, 16 Aug 2025 08:19:49 GMT | “No Browser, No Problem” — How I Hacked My Way to 5 Vulnerabilities Using Only Nmap | Narendar Battula (nArEn) | [Read More](https://medium.com/p/de5046d94956) |
 | Sat, 16 Aug 2025 08:16:18 GMT | The Invisible Threat: Securing Your IoT Ecosystem Without Breaking the Bank | Kambetastephano | [Read More](https://medium.com/p/76a8cc26599a) |
 | Sat, 16 Aug 2025 08:16:10 GMT | KYBS CTF v1 2025 (WEB Security) | zerOiQ | [Read More](https://medium.com/p/7102ce558b8e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 22:53:48 GMT | The Last Straw: Why Cybersecurity Will Define Our Survival | Taulan Zauzanov | [Read More](https://medium.com/p/3185e6f58500) |
 | Fri, 15 Aug 2025 22:45:50 GMT | Network Intrusion Detection Home lab using Snort & SPARTA | Irele Uduokhai | [Read More](https://medium.com/p/282c2d171f7d) |
 | Fri, 15 Aug 2025 22:29:50 GMT | When Hackers Go Full Drama Mode | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/8afec91e448e) |
-| Fri, 15 Aug 2025 22:22:12 GMT | Compiled vs. Interpreted Reverse Shells | Taulan Zauzanov | [Read More](https://medium.com/p/42d32ab25f08) |
-| Fri, 15 Aug 2025 22:21:21 GMT | Mengamankan Masa Depan dengan Cahaya | D. Husni Fahri Rizal | [Read More](https://medium.com/p/156d27640851) |
-| Fri, 15 Aug 2025 22:02:10 GMT | The Hidden World of Bug Bounty Scams | Symbionyman | [Read More](https://medium.com/p/797ad0f47676) |
-| Fri, 15 Aug 2025 21:58:29 GMT | Auth.Cool — Your All‑in‑One Identity Broker & Aggregator | Auth Cool | [Read More](https://medium.com/p/9c19c0b96ca1) |
-| Fri, 15 Aug 2025 21:57:58 GMT | Your SOC Is Broken — Here’s How AI Can Fix It | Cyber-AppSec | [Read More](https://medium.com/p/cb863d4d900a) |
