@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 03:01:26 GMT | Dorks For Sensitive Information Disclosure Part-1 | TEAM DH49 | [Read More](https://medium.com/p/185e19512f33) |
+| Sat, 16 Aug 2025 02:51:38 GMT | Shodan’t Have Shown That: How an Exposed Device Led to Source Code | TEAM DH49 | [Read More](https://medium.com/p/3371c1160439) |
+| Sat, 16 Aug 2025 02:44:54 GMT | IT Isn’t Just Tech Support Anymore — It’s the Backbone of Every Modern Business | Devsync | [Read More](https://medium.com/p/ffd7a8dd2c54) |
+| Sat, 16 Aug 2025 02:39:36 GMT | Building a Practical Incident Response Flow for Cybersecurity | Michael Berry | [Read More](https://medium.com/p/3fd18187cda9) |
+| Sat, 16 Aug 2025 02:33:16 GMT | From Syntax to Strategy | Drew Thompson | [Read More](https://medium.com/p/73533a275513) |
+| Sat, 16 Aug 2025 02:31:53 GMT | Honeytokens: The Secret Weapon for Catching Hackers | Parth Patel | [Read More](https://medium.com/p/9ef3a885ed25) |
+| Sat, 16 Aug 2025 02:30:33 GMT | Can Open-Source AI Protect Kids | The UNFILTERED Draft | [Read More](https://medium.com/p/fb77a55ab651) |
+| Sat, 16 Aug 2025 02:17:18 GMT | The Contested Digital Frontier: A Research Article on the Cyber-Political Landscape of Developing… | CCD-IS | [Read More](https://medium.com/p/36a3c930df97) |
+| Sat, 16 Aug 2025 02:12:30 GMT | The OverCloud Chronicles: When Your Phishing Email Writes Itself (And Why That’s Not as Scary as It… | Lazyown Redteam | [Read More](https://medium.com/p/6f06201c4af5) |
+| Sat, 16 Aug 2025 02:05:51 GMT | How I Became a Freelance Writer (This is my first ever article) | Phinnean Alan Handley | [Read More](https://medium.com/p/9fd504dfe006) |
+| Sat, 16 Aug 2025 02:02:54 GMT | Maximize Earnings by Staking $BTU on StakingRewards | BTU Protocol | [Read More](https://medium.com/p/a710815967d9) |
 | Sat, 16 Aug 2025 01:30:57 GMT | Konftel Audio Conferencing Solutions: Elevate Your Meetings with Superior Sound and Seamless… | Fahad Sheikh | [Read More](https://medium.com/p/a82253a3329f) |
 | Sat, 16 Aug 2025 01:22:30 GMT | Active Directory Kurulumu ve Temel Yapılandırma Adımları - Group Policy ile PowerShell ve Script… | Azra Oyku Ulukan | [Read More](https://medium.com/p/2eb5fb517fd8) |
 | Sat, 16 Aug 2025 01:10:59 GMT | Blinking Black Line | ACE's Steak | [Read More](https://medium.com/p/cec820923d96) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 17:04:16 GMT | The Problem of “Phantom Jobs” and Exploitative Interview Processes | Internet Exposed | [Read More](https://medium.com/p/bb11afa4934b) |
 | Fri, 15 Aug 2025 17:01:58 GMT | Reflected XSS Filter Bypass in Search Functionality | KAsh Security | [Read More](https://medium.com/p/be2d511e7621) |
 | Fri, 15 Aug 2025 17:00:33 GMT | XSS Night: A Journey Through 26 Unfiltered Vulnerabilities | N0aziXss | [Read More](https://medium.com/p/3a41afaf4404) |
-| Fri, 15 Aug 2025 16:59:25 GMT | Cyber Snack Day -8 | Anwar_Nainar | [Read More](https://medium.com/p/f38b1de75611) |
-| Fri, 15 Aug 2025 16:56:23 GMT | Cyber Snack Day -7 | Anwar_Nainar | [Read More](https://medium.com/p/4984d9b8ead8) |
-| Fri, 15 Aug 2025 16:55:17 GMT | Threats at a Glance: SOC Threat Intelligence Dashboard Case Study | Sarath B | [Read More](https://medium.com/p/cfca25f5c5eb) |
-| Fri, 15 Aug 2025 16:54:16 GMT | Cyber Snack Day -6 | Anwar_Nainar | [Read More](https://medium.com/p/143688b0e78e) |
-| Fri, 15 Aug 2025 16:46:28 GMT | Got MiAIlk? | Mike Saxton | [Read More](https://medium.com/p/c798149d50ad) |
-| Fri, 15 Aug 2025 16:43:03 GMT | Cyber Hygiène des grandes entreprises | Robin Boucher | [Read More](https://medium.com/p/f2c3da682794) |
-| Fri, 15 Aug 2025 16:42:52 GMT | Hacking Metasploitable 2 using Kali Linux on VirtualBox | Muamer Huseinovic | [Read More](https://medium.com/p/b0cdf61d198e) |
-| Fri, 15 Aug 2025 16:42:36 GMT | SecurityForce Webflow — Secure & Professional Websites | Jaden Morales | [Read More](https://medium.com/p/b9d2f1762c49) |
-| Fri, 15 Aug 2025 16:33:53 GMT | Bypassing CAPTCHA in bWAPP Using Burp Suite | Srimanta Mondal | [Read More](https://medium.com/p/7a46e0d35c1b) |
-| Fri, 15 Aug 2025 16:30:39 GMT | Top 5 Reasons to Choose Shef Solutions LLC for Cybersecurity Training | Shef Solutions LLC | [Read More](https://medium.com/p/ea1bfda5d4ee) |
-| Fri, 15 Aug 2025 16:28:17 GMT | Basic Server-Side Template Injection (SSTI) in ERB (Ruby) | Bash Overflow | [Read More](https://medium.com/p/78a3b80432b8) |
