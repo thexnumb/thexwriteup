@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 13:29:55 GMT | Ultimate Guide: Bug Bounty Hunters Using Custom TCP Flags for Port Scanning | Zoningxtr | [Read More](https://medium.com/p/e78219d2cc13) |
+| Sat, 16 Aug 2025 13:23:29 GMT | Introduction to Phishing Analysis | Allen Ace | [Read More](https://medium.com/p/cedfd5b2a578) |
+| Sat, 16 Aug 2025 13:20:59 GMT | Cortex Cloud Posture: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/16baaa9ed21a) |
+| Sat, 16 Aug 2025 13:20:46 GMT | Security Awareness Training Service Provider - CyberSapiens | CyberSapiens | [Read More](https://medium.com/p/7590214e6f26) |
 | Sat, 16 Aug 2025 13:16:36 GMT | The Recon Trick Nobody Talks About: DNS History + Archive.org | Nitin yadav | [Read More](https://medium.com/p/7e1d6e6a96d1) |
 | Sat, 16 Aug 2025 13:12:57 GMT | Why Startup Founders Can’t Afford to Ignore Cybersecurity in 2025 | Editorial Staff | [Read More](https://medium.com/p/c70e09057ff1) |
 | Sat, 16 Aug 2025 13:11:31 GMT | Multi-Source Data Correlation and Prioritization in SOC | Esra Kayhan | [Read More](https://medium.com/p/6758c54809ad) |
@@ -109,7 +113,3 @@ I applied to this position via portal… | Ajit Kumar | [Read More](https://medi
 | Sat, 16 Aug 2025 07:54:53 GMT | INFORMATION SECURITY REVIEW POLICY (EN) | Atakan Bitim | [Read More](https://medium.com/p/06e12d56ed61) |
 | Sat, 16 Aug 2025 07:54:50 GMT | INFORMATION SECURITY REVIEW POLICY (TR) | Atakan Bitim | [Read More](https://medium.com/p/7b6ac2bad816) |
 | Sat, 16 Aug 2025 07:50:30 GMT | ZERO — Finding First BUG | Vansh Sharma | [Read More](https://medium.com/p/a0efc3381150) |
-| Sat, 16 Aug 2025 07:42:42 GMT | Why Most People Are Blind to Their Own Potential | Vijay Kumar Gupta | [Read More](https://medium.com/p/fdcb1fc9108d) |
-| Sat, 16 Aug 2025 07:31:45 GMT | Vintage stuff: The Hacker’s Handbook and the script kiddie | Mansfield-Devine | [Read More](https://medium.com/p/123f6c9e23c7) |
-| Sat, 16 Aug 2025 07:29:46 GMT | First exam attempt OSCP Exam Day: Lessons from a Missed Attempt | Sonic | [Read More](https://medium.com/p/fbd2fa98d203) |
-| Sat, 16 Aug 2025 07:18:58 GMT | India’s Best Click 2 call Service Provider | Ashutosh Mallik | [Read More](https://medium.com/p/42117967e2df) |
