@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 09:08:12 GMT | TryHackMe WriteUp — Cryptography Basics | R1punjay_Singh | [Read More](https://medium.com/p/52afe731548b) |
+| Sat, 16 Aug 2025 08:59:03 GMT | Docker Security: Best Practices with Examples and Demos | Kinjal Thakkar | [Read More](https://medium.com/p/b596b31ff103) |
+| Sat, 16 Aug 2025 08:58:44 GMT | When Scams Steal More Than Money: A Story of Trust, Loss, and Awareness | Jeffrey H | [Read More](https://medium.com/p/6a53fd8dfeb0) |
+| Sat, 16 Aug 2025 08:57:33 GMT | 7 Quick Questions That Could Save Your Business From a Cyber Disaster | Evgeny Ermakov | [Read More](https://medium.com/p/ce66f3ec7b49) |
+| Sat, 16 Aug 2025 08:56:43 GMT | Still Think Your Facebook or Gmail Password Is Safe? | Sajjad Hussain | [Read More](https://medium.com/p/ff061357a4e3) |
 | Sat, 16 Aug 2025 08:38:12 GMT | How Secure Is Cloud Accounting For Storing Financial Data? | Nivedita Baidya | [Read More](https://medium.com/p/824695b7a9d6) |
 | Sat, 16 Aug 2025 08:38:09 GMT | Unlock the Power of Smart Digital Marketing Services with Softreey | Softreey | [Read More](https://medium.com/p/fe55f09990c2) |
 | Sat, 16 Aug 2025 08:31:07 GMT | How Playing a Silly Game Changed the Way I See AI Security | Rishabh Gupta | [Read More](https://medium.com/p/6e4bf3c61817) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 00:02:42 GMT | PortSwigger Lab: 0.CL request smuggling | I See Thieves | [Read More](https://medium.com/p/f0c67403709b) |
 | Fri, 15 Aug 2025 23:42:05 GMT | The Internet: A Local Experiment That Became a Global Reality | Taulan Zauzanov | [Read More](https://medium.com/p/00cd858a5e95) |
 | Fri, 15 Aug 2025 23:37:26 GMT | No More Passwords? The Truth About Passkeys Explained | Paritosh | [Read More](https://medium.com/p/cc4afaa3ab78) |
-| Fri, 15 Aug 2025 23:30:06 GMT | What I Learned About Cybersecurity After Getting Hacked | Lisa Musser | [Read More](https://medium.com/p/00ad17a50042) |
-| Fri, 15 Aug 2025 23:01:59 GMT | 16 Billion Credentials Breach: A Silent Threat for Individuals and Enterprises | Stealseek | [Read More](https://medium.com/p/b6e8db40d137) |
-| Fri, 15 Aug 2025 22:53:48 GMT | The Last Straw: Why Cybersecurity Will Define Our Survival | Taulan Zauzanov | [Read More](https://medium.com/p/3185e6f58500) |
-| Fri, 15 Aug 2025 22:45:50 GMT | Network Intrusion Detection Home lab using Snort & SPARTA | Irele Uduokhai | [Read More](https://medium.com/p/282c2d171f7d) |
-| Fri, 15 Aug 2025 22:29:50 GMT | When Hackers Go Full Drama Mode | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/8afec91e448e) |
