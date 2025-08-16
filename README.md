@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 20:19:56 GMT | How to install the Bloodhound GUI | Steve Aiello | [Read More](https://medium.com/p/cd8106daac4e) |
+| Sat, 16 Aug 2025 20:12:46 GMT | CyberTalents: Strength Calculator writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/2f69c52dc38f) |
+| Sat, 16 Aug 2025 19:59:46 GMT | Linux Privilege Escalation Via Intended Functionality, Part 7: | Muhammadhuzaifa | [Read More](https://medium.com/p/8fade1fa1ad7) |
+| Sat, 16 Aug 2025 19:54:13 GMT | The Only Drawback of Python — The GIL which kills concept of Threading | err0rgod | [Read More](https://medium.com/p/872effe7eec9) |
+| Sat, 16 Aug 2025 19:47:03 GMT | Hunting Vulnerabilities: My Deep-Dive into Nessus Vulnerability Management | Michael Berry | [Read More](https://medium.com/p/7f2a6579381e) |
+| Sat, 16 Aug 2025 19:34:39 GMT | Android Malware abusing ZIP and XML parameters | HexNinja | [Read More](https://medium.com/p/e86c11d46e2c) |
+| Sat, 16 Aug 2025 19:33:32 GMT | The Things Left Unsaid Between Us | Ink Within | [Read More](https://medium.com/p/7ab5f8a1290f) |
 | Sat, 16 Aug 2025 19:32:11 GMT | How to Deploy a Wazuh Manager Cloud Server | Raynard Waits | [Read More](https://medium.com/p/de73936425c2) |
 | Sat, 16 Aug 2025 19:26:42 GMT | The Looming Threat of AI-Powered Malware: Could Machines Out-Hack Us? | Dark Tech Insights | [Read More](https://medium.com/p/5ea3e0a9cfd5) |
 | Sat, 16 Aug 2025 19:23:40 GMT | How I Turned a Simple OAuth Bug Into a One-Click Account Takeover | srx | [Read More](https://medium.com/p/d8ac8f4c149f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 14:04:09 GMT | Parent Process PID Spoofing Nedir? Nasıl Çalışır? Güvenlik Açısından Önemi | Serkan | [Read More](https://medium.com/p/99e4a23b72f5) |
 | Sat, 16 Aug 2025 14:02:21 GMT | 5 Hidden Browser Threats You’re Ignoring — and How to Stop Them | cybertrixs | [Read More](https://medium.com/p/214f1944855d) |
 | Sat, 16 Aug 2025 14:01:50 GMT | When AI Makes Stuff Up: Understanding Hallucinations | Brittney Ginther | [Read More](https://medium.com/p/626fb9d09a7a) |
-| Sat, 16 Aug 2025 13:56:24 GMT | Is AI Hacking Systems | Mainekdeveloper | [Read More](https://medium.com/p/f41f29cad62f) |
-| Sat, 16 Aug 2025 13:55:01 GMT | SIEM Üzerinden Possible DCSync Attack Analizi | Berat K. | [Read More](https://medium.com/p/cf4e55862edf) |
-| Sat, 16 Aug 2025 13:52:09 GMT | Brazil’s Digital Double Threat | Aj | [Read More](https://medium.com/p/245022440e14) |
-| Sat, 16 Aug 2025 13:48:42 GMT | The Trojan Mind: How Social Engineering Turns Humans into the Weakest Link | vydhi | [Read More](https://medium.com/p/2d0074832b1a) |
-| Sat, 16 Aug 2025 13:29:55 GMT | Ultimate Guide: Bug Bounty Hunters Using Custom TCP Flags for Port Scanning | Zoningxtr | [Read More](https://medium.com/p/e78219d2cc13) |
-| Sat, 16 Aug 2025 13:23:29 GMT | Introduction to Phishing Analysis | Allen Ace | [Read More](https://medium.com/p/cedfd5b2a578) |
-| Sat, 16 Aug 2025 13:20:59 GMT | Cortex Cloud Posture: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/16baaa9ed21a) |
