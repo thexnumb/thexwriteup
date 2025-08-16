@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 06:22:39 GMT | Cybersecurity for Process Control Systems | TheEvolvEdge | [Read More](https://medium.com/p/8eb8b7c28ee8) |
+| Sat, 16 Aug 2025 06:21:50 GMT | AI in Cybersecurity: How Artificial Intelligence is Changing the Game | Manisha Chaudhary | [Read More](https://medium.com/p/c9d717538e11) |
+| Sat, 16 Aug 2025 06:14:46 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/f01e59bd3b9b) |
+| Sat, 16 Aug 2025 06:12:12 GMT | APK Reverse Engineering and Security Vulnerabilities in Android Applications | Esra Kayhan | [Read More](https://medium.com/p/d1f368e40616) |
+| Sat, 16 Aug 2025 06:11:32 GMT | Access Control: The Foundation of Modern Security in Qatar | Tekshoyabeelyas | [Read More](https://medium.com/p/c3779b469795) |
+| Sat, 16 Aug 2025 06:10:22 GMT | Open Source, Secured: What I Learned at OpenSSF Community Days | Akshat Sharma | [Read More](https://medium.com/p/bf2a94f00a6c) |
+| Sat, 16 Aug 2025 06:07:36 GMT | The Ultimate Guide to the DPDP Act 2023: Everything Your Business Needs to Know | ARC - Automate Rights & Consents | [Read More](https://medium.com/p/7d9eca24cc4d) |
+| Sat, 16 Aug 2025 06:03:53 GMT | Hacking Humans: Social Engineering Scams Exposed | Aj | [Read More](https://medium.com/p/d75bbd3d827b) |
+| Sat, 16 Aug 2025 06:02:16 GMT | Introduction to Buffer Overflow and Exploit Writing | Esra Kayhan | [Read More](https://medium.com/p/5ae15fdacf0f) |
+| Sat, 16 Aug 2025 06:00:26 GMT | Today’s Top Cyber Intelligence Highlights — Aug 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/e85fd4e4d5c7) |
+| Sat, 16 Aug 2025 05:59:23 GMT | Advancing AI in Cybersecurity That Drive Innovation | Artificial Intelligence Details | [Read More](https://medium.com/p/4fa2c45c8e51) |
+| Sat, 16 Aug 2025 05:57:42 GMT | Advancing AI in Cybersecurity Step by Step | Artificial Intelligence Details | [Read More](https://medium.com/p/44a14b806f01) |
+| Sat, 16 Aug 2025 05:48:54 GMT | Observability in the Cloud: Going Beyond Monitoring | Michael Chidiogo Okoli | [Read More](https://medium.com/p/f1bb07c52cc6) |
+| Sat, 16 Aug 2025 05:48:01 GMT | “AI-Powered Cyberattacks: How Deepfakes and ChatGPT Scams Are Changing Cybersecurity” | Tarush Sharma | [Read More](https://medium.com/p/81acdbc8549e) |
+| Sat, 16 Aug 2025 05:47:24 GMT | Vulnlab: Insecure Direct Object Reference (IDOR) Writeup | Ikhlasdansantai | [Read More](https://medium.com/p/f4acfdaf6534) |
 | Sat, 16 Aug 2025 05:37:02 GMT | Learning Fortinet Firewall — Introduction and Important Notes | Rouell Mamaril | [Read More](https://medium.com/p/a22d7ce14c71) |
+| Sat, 16 Aug 2025 05:36:43 GMT | Security Apps and the Future of Monitoring | SecurityBlogs | [Read More](https://medium.com/p/33b2035eb8cd) |
 | Sat, 16 Aug 2025 05:22:03 GMT | Everyone’s Talking About AI & IoT. But No One’s Talking About the Real Problem. | Recover Right | [Read More](https://medium.com/p/0ea57b1cf770) |
 | Sat, 16 Aug 2025 05:16:45 GMT | Ghost Tapping: The Invisible Cyber Heist Threatening Your Digital Wallet | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/1afa956b308f) |
 | Sat, 16 Aug 2025 05:07:04 GMT | How a technical test ended up revealing malware in a repository | Fabricio Orrala | [Read More](https://medium.com/p/13868a849c21) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 19:37:05 GMT | XSS: Um bypass interessante em limite de caracteres | Gabriel Jesus | [Read More](https://medium.com/p/180dbce1b1c3) |
 | Fri, 15 Aug 2025 19:29:50 GMT | Cybersecurity 101: Fundamentals, Career Roles, and the Threat Landscape | Aryan Siddhabathula | [Read More](https://medium.com/p/80962861fa79) |
 | Fri, 15 Aug 2025 19:21:04 GMT | Docker Run — How to Maximise Container Security according to the Best DevSecOps Practices | BecomeDevOps | [Read More](https://medium.com/p/184994ea6609) |
-| Fri, 15 Aug 2025 19:15:33 GMT | Which Tools Are Used to Check Password Strength? — A Complete Guide | Tahaazeemguestblogger | [Read More](https://medium.com/p/b623aa816363) |
-| Fri, 15 Aug 2025 19:12:33 GMT | Step-by-step Complete Setup Guide for Automotive Application Testing (AAOS Emulator) | Sandeep Vishwakarma | [Read More](https://medium.com/p/29ffcab3fda9) |
-| Fri, 15 Aug 2025 19:12:02 GMT | Securing Web Apps with JavaScript: Lessons from the Frontlines of IT Defense | Maximilian Oliver | [Read More](https://medium.com/p/efbb22fa364a) |
-| Fri, 15 Aug 2025 19:10:32 GMT | WordPress Plugin LFI Code Review | AbhirupKonwar | [Read More](https://medium.com/p/57f6a2decb37) |
-| Fri, 15 Aug 2025 19:07:39 GMT | Are You Confused Yet? | Armor | [Read More](https://medium.com/p/4fdb0a627d3c) |
-| Fri, 15 Aug 2025 19:03:59 GMT | 2025: CompTIA Still Relevant? | Miguel Norberto | [Read More](https://medium.com/p/a50086231da0) |
-| Fri, 15 Aug 2025 19:02:24 GMT | The Day a Null Byte Outsmarted an XSS Filter | Rehan Ansari | [Read More](https://medium.com/p/af07dbc0902b) |
-| Fri, 15 Aug 2025 18:46:36 GMT | MITRE ATT&CK Framework for Beginners: How It Works and How It Differs from NIST CSF | Aarushi Mishra | [Read More](https://medium.com/p/463b1bc62b8d) |
-| Fri, 15 Aug 2025 18:44:30 GMT | How to Build an OT Security Awareness Program That Actually Works | Cyberkech | [Read More](https://medium.com/p/1c970047efff) |
-| Fri, 15 Aug 2025 18:42:10 GMT | Plesk in 2025 — The All-in-One Hosting Control Panel That Might Just Replace Everything Else | Hugo Valters | [Read More](https://medium.com/p/085a64b66015) |
-| Fri, 15 Aug 2025 18:40:46 GMT | Advancing Blockchain Security and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/653a866e5b86) |
-| Fri, 15 Aug 2025 18:38:54 GMT | Advancing Blockchain Security and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/2da4aa2998f4) |
-| Fri, 15 Aug 2025 18:37:04 GMT | Advancing Blockchain Security and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/cf79345f3f8c) |
-| Fri, 15 Aug 2025 18:35:15 GMT | Advancing Blockchain Security and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/348e2283ce28) |
-| Fri, 15 Aug 2025 18:33:51 GMT | From Evidence to Enterprise security: My journey through three cybersecurity mini projects | shrimali senevirathna | [Read More](https://medium.com/p/a9d9232cf375) |
-| Fri, 15 Aug 2025 18:33:29 GMT | Advancing Blockchain Security and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/80a83acf1ec4) |
