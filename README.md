@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 01:30:57 GMT | Konftel Audio Conferencing Solutions: Elevate Your Meetings with Superior Sound and Seamless… | Fahad Sheikh | [Read More](https://medium.com/p/a82253a3329f) |
+| Sat, 16 Aug 2025 01:22:30 GMT | Active Directory Kurulumu ve Temel Yapılandırma Adımları - Group Policy ile PowerShell ve Script… | Azra Oyku Ulukan | [Read More](https://medium.com/p/2eb5fb517fd8) |
+| Sat, 16 Aug 2025 01:10:59 GMT | Blinking Black Line | ACE's Steak | [Read More](https://medium.com/p/cec820923d96) |
+| Sat, 16 Aug 2025 01:02:39 GMT | A New Class of Vulnerability: Philosophical Logic exploits in AI Systems | Julian Soloninka | [Read More](https://medium.com/p/651830822bc7) |
+| Sat, 16 Aug 2025 01:01:46 GMT | A Blue Teamer’s Guide to Hunting ‘Living Off the Land’ Threats | Afwan Mulia Pratama | [Read More](https://medium.com/p/f5fc63df51b8) |
+| Sat, 16 Aug 2025 00:42:40 GMT | Announcing the NewBitcoin “Drive & Earn” Bounty Campaign — Earn Crypto for Trying Our App! | New Bitcoin | [Read More](https://medium.com/p/e7fe55ceb58c) |
+| Sat, 16 Aug 2025 00:31:31 GMT | Fear About Law, Order & Security: Safety for All: What Works and What Doesn’t | Libby Winkler | [Read More](https://medium.com/p/13b934726d06) |
+| Sat, 16 Aug 2025 00:03:36 GMT | The Double-Edged Sword — How AI is Transforming Cybersecurity | Ahmad Hassan | [Read More](https://medium.com/p/2de5f91ae66a) |
+| Sat, 16 Aug 2025 00:02:42 GMT | PortSwigger Lab: 0.CL request smuggling | I See Thieves | [Read More](https://medium.com/p/f0c67403709b) |
+| Fri, 15 Aug 2025 23:42:05 GMT | The Internet: A Local Experiment That Became a Global Reality | Taulan Zauzanov | [Read More](https://medium.com/p/00cd858a5e95) |
 | Fri, 15 Aug 2025 23:37:26 GMT | No More Passwords? The Truth About Passkeys Explained | Paritosh | [Read More](https://medium.com/p/cc4afaa3ab78) |
 | Fri, 15 Aug 2025 23:30:06 GMT | What I Learned About Cybersecurity After Getting Hacked | Lisa Musser | [Read More](https://medium.com/p/00ad17a50042) |
 | Fri, 15 Aug 2025 23:01:59 GMT | 16 Billion Credentials Breach: A Silent Threat for Individuals and Enterprises | Stealseek | [Read More](https://medium.com/p/b6e8db40d137) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 16:33:53 GMT | Bypassing CAPTCHA in bWAPP Using Burp Suite | Srimanta Mondal | [Read More](https://medium.com/p/7a46e0d35c1b) |
 | Fri, 15 Aug 2025 16:30:39 GMT | Top 5 Reasons to Choose Shef Solutions LLC for Cybersecurity Training | Shef Solutions LLC | [Read More](https://medium.com/p/ea1bfda5d4ee) |
 | Fri, 15 Aug 2025 16:28:17 GMT | Basic Server-Side Template Injection (SSTI) in ERB (Ruby) | Bash Overflow | [Read More](https://medium.com/p/78a3b80432b8) |
-| Fri, 15 Aug 2025 16:08:49 GMT | How I Turned an “Invisible” Header into a $$$ Bug Bounty! | Zoningxtr | [Read More](https://medium.com/p/9ce57f39c64b) |
-| Fri, 15 Aug 2025 16:07:32 GMT | Yes, my AI gadgets are useless, thanks for asking | Marco van Hurne | [Read More](https://medium.com/p/be8e00237716) |
-| Fri, 15 Aug 2025 15:59:50 GMT | Sneaky Slash: How a Japanese Character Powers a Clever Phishing Attack | Liran Nachman | [Read More](https://medium.com/p/55a2964c8b45) |
-| Fri, 15 Aug 2025 15:50:31 GMT | 24/7 Cyber Protection for the People You Love | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/aa6bdee50878) |
-| Fri, 15 Aug 2025 15:46:03 GMT | The Role of AI in Optimizing Database Queries | Rizqi Mulki | [Read More](https://medium.com/p/6f18141e090a) |
-| Fri, 15 Aug 2025 15:45:39 GMT | How Netflix Handles Database Scaling at Massive Scale | Rizqi Mulki | [Read More](https://medium.com/p/733ad9323e63) |
-| Fri, 15 Aug 2025 15:45:00 GMT | Battle-Tested Security Techniques from Big Tech | Rizqi Mulki | [Read More](https://medium.com/p/097d2f2f3a19) |
-| Fri, 15 Aug 2025 15:43:10 GMT | AI-Powered Social Engineering: The New Cybercrime Playbook | Aenosh Rajora | [Read More](https://medium.com/p/183f2dc0688e) |
-| Fri, 15 Aug 2025 15:41:44 GMT | A Beginner’s Journey: Basic Pentesting 2 Walkthrough (VulnHub) | SACHIN PV | [Read More](https://medium.com/p/2318377479ed) |
-| Fri, 15 Aug 2025 15:40:08 GMT | IoT Connect App Insecure Broadcast Receiver Exploit - MobileHackingLab | tinopreter | [Read More](https://medium.com/p/d90642d56499) |
