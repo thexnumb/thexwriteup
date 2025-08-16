@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 15:12:48 GMT | Race to Root: How a GraphQL Race Condition Let Me Execute Admin Actions Twice | Iski | [Read More](https://medium.com/p/7e7aa010a52a) |
+| Sat, 16 Aug 2025 15:08:30 GMT | cPanel in 2025 — Still the King of Hosting, or Time to Move On? | Hugo Valters | [Read More](https://medium.com/p/1c929009430d) |
+| Sat, 16 Aug 2025 14:52:58 GMT | Prototype Pollution — a JavaScript Vulnerability | appsecwarrior | [Read More](https://medium.com/p/c136f801f9e1) |
+| Sat, 16 Aug 2025 14:50:57 GMT | When Falcon Fell: How a CrowdStrike Glitch Brought the Digital World to Its Knees | Iqra Anwar | [Read More](https://medium.com/p/d6a1fd81e9d4) |
+| Sat, 16 Aug 2025 14:33:09 GMT | Bypassing Access Controls: The Hidden Danger of URL Path Manipulation | Siddiquimohammad | [Read More](https://medium.com/p/5e68d9cfcd02) |
+| Sat, 16 Aug 2025 14:32:04 GMT | SIEM 101 Walkthrough — Letsdefend | md_ashmar | [Read More](https://medium.com/p/ecb98aad8e73) |
 | Sat, 16 Aug 2025 14:31:46 GMT | The Silent Bug Factory: How Weak Acceptance Criteria Sink Your Product | Monica Ashok | [Read More](https://medium.com/p/09a068906684) |
 | Sat, 16 Aug 2025 14:27:37 GMT | Zero Trust in Multi-Cloud Environments | Karthikeyan Nagaraj | [Read More](https://medium.com/p/011b97b6b6cb) |
 | Sat, 16 Aug 2025 14:15:45 GMT | Windows Authentication Process Part -1 | Madhab Tripathy | [Read More](https://medium.com/p/85ec4d625de5) |
@@ -107,9 +113,3 @@ I applied to this position via portal… | Ajit Kumar | [Read More](https://medi
 | Sat, 16 Aug 2025 09:08:12 GMT | TryHackMe WriteUp — Cryptography Basics | R1punjay_Singh | [Read More](https://medium.com/p/52afe731548b) |
 | Sat, 16 Aug 2025 08:59:03 GMT | Docker Security: Best Practices with Examples and Demos | Kinjal Thakkar | [Read More](https://medium.com/p/b596b31ff103) |
 | Sat, 16 Aug 2025 08:58:44 GMT | When Scams Steal More Than Money: A Story of Trust, Loss, and Awareness | Jeffrey H | [Read More](https://medium.com/p/6a53fd8dfeb0) |
-| Sat, 16 Aug 2025 08:57:33 GMT | 7 Quick Questions That Could Save Your Business From a Cyber Disaster | Evgeny Ermakov | [Read More](https://medium.com/p/ce66f3ec7b49) |
-| Sat, 16 Aug 2025 08:56:43 GMT | Still Think Your Facebook or Gmail Password Is Safe? | Sajjad Hussain | [Read More](https://medium.com/p/ff061357a4e3) |
-| Sat, 16 Aug 2025 08:38:12 GMT | How Secure Is Cloud Accounting For Storing Financial Data? | Nivedita Baidya | [Read More](https://medium.com/p/824695b7a9d6) |
-| Sat, 16 Aug 2025 08:38:09 GMT | Unlock the Power of Smart Digital Marketing Services with Softreey | Softreey | [Read More](https://medium.com/p/fe55f09990c2) |
-| Sat, 16 Aug 2025 08:31:07 GMT | How Playing a Silly Game Changed the Way I See AI Security | Rishabh Gupta | [Read More](https://medium.com/p/6e4bf3c61817) |
-| Sat, 16 Aug 2025 08:29:32 GMT | Nmap Kill Chain: OSINT → Scan → Enumeration → Find → Exploit | Narendar Battula (nArEn) | [Read More](https://medium.com/p/70dbdff57b5e) |
