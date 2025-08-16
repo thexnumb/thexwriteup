@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 07:18:58 GMT | India’s Best Click 2 call Service Provider | Ashutosh Mallik | [Read More](https://medium.com/p/42117967e2df) |
+| Sat, 16 Aug 2025 07:16:46 GMT | Cybersecurity: Why Hackers Don’t Always Wear Hoodies | Akshay Chauhan | [Read More](https://medium.com/p/bbb35010bc38) |
+| Sat, 16 Aug 2025 07:06:49 GMT | MAC Adresi ve ARP | Burak Menteşe | [Read More](https://medium.com/p/603836be9f57) |
+| Sat, 16 Aug 2025 07:04:40 GMT | Gmail (Workspace) Gemini AI Summarization Leaks Sensitive Data from Permanently Deleted Emails | Deepseek Community ® | [Read More](https://medium.com/p/85aa51be6ce4) |
+| Sat, 16 Aug 2025 07:01:35 GMT | U.S. Federal Courts Hacked: Decades-Old Flaws Expose Sealed Cases and National Security… | Dhruvdeep Singh | [Read More](https://medium.com/p/2fae888962dc) |
+| Sat, 16 Aug 2025 06:49:08 GMT | Yapay Zekânın Öğrenmesi İçin, Biz Düşünmeyi Bıraktık | AYŞE KIZILAY | [Read More](https://medium.com/p/f6b03abc8018) |
+| Sat, 16 Aug 2025 06:48:44 GMT | Yapay Zeka Bizi Tek Tip İnsana mı Dönüştürüyor? | AYŞE KIZILAY | [Read More](https://medium.com/p/c3666205e484) |
+| Sat, 16 Aug 2025 06:48:26 GMT | Teknoloji mi İnsanı Şekillendiriyor, İnsan mı Teknolojiyi? | AYŞE KIZILAY | [Read More](https://medium.com/p/996fa5a12da2) |
+| Sat, 16 Aug 2025 06:47:39 GMT | Geleceğe İz Bırakmak Mümkün mü? | AYŞE KIZILAY | [Read More](https://medium.com/p/513e9a9b7d1b) |
+| Sat, 16 Aug 2025 06:47:31 GMT | Bug Bounty: Lo que parece innecesario para el usuario, a veces es esencial para el atacante | Gorka | [Read More](https://medium.com/p/32961185d286) |
+| Sat, 16 Aug 2025 06:31:37 GMT | TryHackMe - Corridor - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/a101fd29d020) |
+| Sat, 16 Aug 2025 06:31:33 GMT | ShinyHunters’ Operational Tactics: Git Scraping, Social Engineering, and Cloud Abuse. | Devansh Patel | [Read More](https://medium.com/p/982d2ac502df) |
+| Sat, 16 Aug 2025 06:29:26 GMT | Why Is There an Increasing Emphasis on Cybersecurity Measures in Businesses Today? | Mohi Uddin | [Read More](https://medium.com/p/34869a550093) |
 | Sat, 16 Aug 2025 06:22:39 GMT | Cybersecurity for Process Control Systems | TheEvolvEdge | [Read More](https://medium.com/p/8eb8b7c28ee8) |
 | Sat, 16 Aug 2025 06:21:50 GMT | AI in Cybersecurity: How Artificial Intelligence is Changing the Game | Manisha Chaudhary | [Read More](https://medium.com/p/c9d717538e11) |
 | Sat, 16 Aug 2025 06:14:46 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/f01e59bd3b9b) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 20:45:52 GMT | The Phishing Series: Types of Attacks and Defenses | Norman Kolarikkal | [Read More](https://medium.com/p/e874b1f76a51) |
 | Fri, 15 Aug 2025 20:29:28 GMT | Day 82: Security Principles 1 | Nile Okomo | [Read More](https://medium.com/p/227d13f86710) |
 | Fri, 15 Aug 2025 20:26:05 GMT | Chase Excellence, not fancy certs | Saroopanand | [Read More](https://medium.com/p/6eabfa22c8d2) |
-| Fri, 15 Aug 2025 20:24:41 GMT | Multiple Times Smarter Than ChatGPT? - New FREE Tool Makes GPT-5 Look Like a Toy | Balthasar | [Read More](https://medium.com/p/2b3920e48673) |
-| Fri, 15 Aug 2025 20:24:27 GMT | Linux Kernel Drivers: The Bridge Between Hardware and Software | Ahmed Ally | [Read More](https://medium.com/p/f3b2c1e37d90) |
-| Fri, 15 Aug 2025 20:23:08 GMT | How to Run Autonomous Vehicle Simulations in CARLA on Windows | Mirza Akhi | [Read More](https://medium.com/p/c0387ff95986) |
-| Fri, 15 Aug 2025 20:22:45 GMT | THE DATA -ACCESS -TRAP YOU KEEP FALLING FOR. | Anushka Sharma | [Read More](https://medium.com/p/42cf088f4872) |
-| Fri, 15 Aug 2025 20:22:23 GMT | The AI Security Audit That Scared Our CISO (And Changed Everything About Our AI Strategy) | Shachar Solomon | [Read More](https://medium.com/p/bedc71133691) |
-| Fri, 15 Aug 2025 20:21:45 GMT | File Inclusion | Azer Abdullazde | [Read More](https://medium.com/p/fcb0e9a5b70d) |
-| Fri, 15 Aug 2025 20:12:40 GMT | ️‍♂️Natas 7 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/b1ff274ad230) |
-| Fri, 15 Aug 2025 19:59:57 GMT | 7 Ways to Prove Your Authorship Offline | Frederic Hutter | [Read More](https://medium.com/p/94361cb52e1b) |
-| Fri, 15 Aug 2025 19:53:48 GMT | HackTheBox: Mobile-APKey | Gba | [Read More](https://medium.com/p/e1dd0d434aeb) |
-| Fri, 15 Aug 2025 19:46:04 GMT | Day 45: Kotlin Multiplatform Security-Secure Data Storage & Encryption | Shalu Gupta | [Read More](https://medium.com/p/5ed3ef47d222) |
-| Fri, 15 Aug 2025 19:37:05 GMT | XSS: Um bypass interessante em limite de caracteres | Gabriel Jesus | [Read More](https://medium.com/p/180dbce1b1c3) |
-| Fri, 15 Aug 2025 19:29:50 GMT | Cybersecurity 101: Fundamentals, Career Roles, and the Threat Landscape | Aryan Siddhabathula | [Read More](https://medium.com/p/80962861fa79) |
-| Fri, 15 Aug 2025 19:21:04 GMT | Docker Run — How to Maximise Container Security according to the Best DevSecOps Practices | BecomeDevOps | [Read More](https://medium.com/p/184994ea6609) |
