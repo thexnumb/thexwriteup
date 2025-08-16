@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 15:38:15 GMT | Hack The Box File Inclusion — Skills Assessment Writeup | Badis Kh | [Read More](https://medium.com/p/cc5d4f43f09c) |
+| Sat, 16 Aug 2025 15:36:31 GMT | Cyber Trends Today: New Research on AI Agent Privacy, Disinformation, and Securing Energy Systems | Berend Watchus | [Read More](https://medium.com/p/cc8c06ea4877) |
+| Sat, 16 Aug 2025 15:35:37 GMT | The Algorithmic Filtering Paradigm: Navigating the Curated Web and The Search Engine. | Berend Watchus | [Read More](https://medium.com/p/2870870be93b) |
+| Sat, 16 Aug 2025 15:35:19 GMT | اكتشفت اول ثغره ليا و كانت Stored XSS | Abdallanofal | [Read More](https://medium.com/p/c24861237c9a) |
+| Sat, 16 Aug 2025 15:31:52 GMT | The Final Piece: Hunting, Searching, and Analyzing Like a Pro in Sublime EDR for Email | Dean | [Read More](https://medium.com/p/24559ad310b3) |
+| Sat, 16 Aug 2025 15:28:33 GMT | Day 83: Bash | Nile Okomo | [Read More](https://medium.com/p/bc7af4be191b) |
+| Sat, 16 Aug 2025 15:24:50 GMT | August 2025 CVE Alert: Patch Tuesday’s Most Dangerous Vulnerabilities | CyferNest Sec | [Read More](https://medium.com/p/6e1fe37d8825) |
+| Sat, 16 Aug 2025 15:18:58 GMT | 10 Annoying React State Bugs & Their Solutions | Pratik Tamhane | [Read More](https://medium.com/p/2e5c968460b2) |
 | Sat, 16 Aug 2025 15:12:48 GMT | Race to Root: How a GraphQL Race Condition Let Me Execute Admin Actions Twice | Iski | [Read More](https://medium.com/p/7e7aa010a52a) |
 | Sat, 16 Aug 2025 15:08:30 GMT | cPanel in 2025 — Still the King of Hosting, or Time to Move On? | Hugo Valters | [Read More](https://medium.com/p/1c929009430d) |
 | Sat, 16 Aug 2025 14:52:58 GMT | Prototype Pollution — a JavaScript Vulnerability | appsecwarrior | [Read More](https://medium.com/p/c136f801f9e1) |
@@ -105,11 +113,3 @@ I applied to this position via portal… | Ajit Kumar | [Read More](https://medi
 | Sat, 16 Aug 2025 09:43:32 GMT | Atomic Red Team: Simulating Real Attacks the Safe Way | Furkanctiner | [Read More](https://medium.com/p/0ebba50e76e8) |
 | Sat, 16 Aug 2025 09:41:44 GMT | Hacker’s jargon: build (not to be confused with build in co) | 0trust0day | [Read More](https://medium.com/p/e70a4aa10a0c) |
 | Sat, 16 Aug 2025 09:41:32 GMT | Wazuh ile VirusTotal Entegrasyonu ve E-posta Alarm Sistemi Kurulumu | Onur GÖKYAKA | [Read More](https://medium.com/p/9a3013c2f219) |
-| Sat, 16 Aug 2025 09:36:47 GMT | Bandit — Over The Wire (Writeup) | Shaheer Khalid | [Read More](https://medium.com/p/2b18711c1b42) |
-| Sat, 16 Aug 2025 09:35:40 GMT | Dịch vụ bảo vệ giám sát an ninh từ xa — Giải pháp an toàn toàn diện cho mọi không gian | DaiAnGroup | [Read More](https://medium.com/p/d96f78373385) |
-| Sat, 16 Aug 2025 09:32:06 GMT | Locked Out of Instagram? | Sajjad Hussain | [Read More](https://medium.com/p/e2bfc32482fe) |
-| Sat, 16 Aug 2025 09:22:27 GMT | ProFTPD 1.3.5 and the Mod_Copy RCE: Remote Code Execution Without Login - CVE-2015-3306 | barancem | [Read More](https://medium.com/p/a39d60f17d05) |
-| Sat, 16 Aug 2025 09:18:50 GMT | Thuê dịch vụ bảo vệ ngày Tết — An tâm đón Tết trọn niềm vui | DaiAnGroup | [Read More](https://medium.com/p/b7fd809aa92c) |
-| Sat, 16 Aug 2025 09:08:12 GMT | TryHackMe WriteUp — Cryptography Basics | R1punjay_Singh | [Read More](https://medium.com/p/52afe731548b) |
-| Sat, 16 Aug 2025 08:59:03 GMT | Docker Security: Best Practices with Examples and Demos | Kinjal Thakkar | [Read More](https://medium.com/p/b596b31ff103) |
-| Sat, 16 Aug 2025 08:58:44 GMT | When Scams Steal More Than Money: A Story of Trust, Loss, and Awareness | Jeffrey H | [Read More](https://medium.com/p/6a53fd8dfeb0) |
