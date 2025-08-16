@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 09:32:06 GMT | Locked Out of Instagram? | Sajjad Hussain | [Read More](https://medium.com/p/e2bfc32482fe) |
+| Sat, 16 Aug 2025 09:22:27 GMT | ProFTPD 1.3.5 and the Mod_Copy RCE: Remote Code Execution Without Login - CVE-2015-3306 | barancem | [Read More](https://medium.com/p/a39d60f17d05) |
+| Sat, 16 Aug 2025 09:18:50 GMT | Thuê dịch vụ bảo vệ ngày Tết — An tâm đón Tết trọn niềm vui | DaiAnGroup | [Read More](https://medium.com/p/b7fd809aa92c) |
 | Sat, 16 Aug 2025 09:08:12 GMT | TryHackMe WriteUp — Cryptography Basics | R1punjay_Singh | [Read More](https://medium.com/p/52afe731548b) |
 | Sat, 16 Aug 2025 08:59:03 GMT | Docker Security: Best Practices with Examples and Demos | Kinjal Thakkar | [Read More](https://medium.com/p/b596b31ff103) |
 | Sat, 16 Aug 2025 08:58:44 GMT | When Scams Steal More Than Money: A Story of Trust, Loss, and Awareness | Jeffrey H | [Read More](https://medium.com/p/6a53fd8dfeb0) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 00:42:40 GMT | Announcing the NewBitcoin “Drive & Earn” Bounty Campaign — Earn Crypto for Trying Our App! | New Bitcoin | [Read More](https://medium.com/p/e7fe55ceb58c) |
 | Sat, 16 Aug 2025 00:31:31 GMT | Fear About Law, Order & Security: Safety for All: What Works and What Doesn’t | Libby Winkler | [Read More](https://medium.com/p/13b934726d06) |
 | Sat, 16 Aug 2025 00:03:36 GMT | The Double-Edged Sword — How AI is Transforming Cybersecurity | Ahmad Hassan | [Read More](https://medium.com/p/2de5f91ae66a) |
-| Sat, 16 Aug 2025 00:02:42 GMT | PortSwigger Lab: 0.CL request smuggling | I See Thieves | [Read More](https://medium.com/p/f0c67403709b) |
-| Fri, 15 Aug 2025 23:42:05 GMT | The Internet: A Local Experiment That Became a Global Reality | Taulan Zauzanov | [Read More](https://medium.com/p/00cd858a5e95) |
-| Fri, 15 Aug 2025 23:37:26 GMT | No More Passwords? The Truth About Passkeys Explained | Paritosh | [Read More](https://medium.com/p/cc4afaa3ab78) |
