@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 21:12:51 GMT | Unmasking Stored XSS: A Deep Dive into the SMTP Error Message Vulnerability | Monika sharma | [Read More](https://medium.com/p/1aba61c93a09) |
+| Sat, 16 Aug 2025 21:07:03 GMT | Burp Suite for Beginners: Your Web Hacking Swiss Army Knife | Aj | [Read More](https://medium.com/p/0a52841e31b8) |
+| Sat, 16 Aug 2025 21:06:57 GMT | Episode 2: Brute Force Attacks — When Hackers Keep Knocking Until the Door Opens | Yamini Yadav | [Read More](https://medium.com/p/f08d6f386cfc) |
+| Sat, 16 Aug 2025 21:06:37 GMT | Episode 3 — Riding the Session Wave: Understanding Session Hijacking | Yamini Yadav | [Read More](https://medium.com/p/1d94bcba05bf) |
+| Sat, 16 Aug 2025 21:06:26 GMT | Challenges of Designing Hardware | m5kro | [Read More](https://medium.com/p/910d764eaf81) |
+| Sat, 16 Aug 2025 20:54:21 GMT | Zero-Click Exploit Nedir? - What is Zero-Click Exploit? | Samet Koca | [Read More](https://medium.com/p/f945394b1324) |
+| Sat, 16 Aug 2025 20:54:13 GMT | Linux Privilege Escalation Via LD_PRELOAD, Part 8: | Muhammadhuzaifa | [Read More](https://medium.com/p/bcde316db31f) |
+| Sat, 16 Aug 2025 20:48:46 GMT | Secret of the Polyglot - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/d313cdc50325) |
+| Sat, 16 Aug 2025 20:45:56 GMT | Click Here for Instant Regret | Zail Dugal | [Read More](https://medium.com/p/4f751c0adda2) |
+| Sat, 16 Aug 2025 20:34:47 GMT | AI 2025: The 5 Tech Trends Reshaping Our World | Staytechscs | [Read More](https://medium.com/p/d26f747e12a2) |
 | Sat, 16 Aug 2025 20:33:54 GMT | home network | akili | [Read More](https://medium.com/p/009839ca21e3) |
+| Sat, 16 Aug 2025 20:32:37 GMT | What Is AI? A Simple Guide to Narrow AI, General AI & Superintelligence | Staytechscs | [Read More](https://medium.com/p/52e9ec56e67f) |
+| Sat, 16 Aug 2025 20:30:24 GMT | AI Unleashed: Understanding the 3 Main Types of Artificial Intelligence | Staytechscs | [Read More](https://medium.com/p/df60f5979d16) |
 | Sat, 16 Aug 2025 20:29:10 GMT | Backup Log Wazuh Otomatis ke Server Remote | Haldian | [Read More](https://medium.com/p/5477afd0fe39) |
+| Sat, 16 Aug 2025 20:28:48 GMT | From Colonial Gatherings to Digital Democracy: The Evolution of Town Hall Meetings | Emily Benham | [Read More](https://medium.com/p/46a7eef6f253) |
 | Sat, 16 Aug 2025 20:21:41 GMT | My first serious security vulnerability report | Paul Lam | [Read More](https://medium.com/p/2eae7ace537d) |
 | Sat, 16 Aug 2025 20:19:56 GMT | How to install the Bloodhound GUI | Steve Aiello | [Read More](https://medium.com/p/cd8106daac4e) |
 | Sat, 16 Aug 2025 20:12:46 GMT | CyberTalents: Strength Calculator writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/2f69c52dc38f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 15:35:19 GMT | اكتشفت اول ثغره ليا و كانت Stored XSS | Abdallanofal | [Read More](https://medium.com/p/c24861237c9a) |
 | Sat, 16 Aug 2025 15:31:52 GMT | The Final Piece: Hunting, Searching, and Analyzing Like a Pro in Sublime EDR for Email | Dean | [Read More](https://medium.com/p/24559ad310b3) |
 | Sat, 16 Aug 2025 15:28:33 GMT | Day 83: Bash | Nile Okomo | [Read More](https://medium.com/p/bc7af4be191b) |
-| Sat, 16 Aug 2025 15:24:50 GMT | August 2025 CVE Alert: Patch Tuesday’s Most Dangerous Vulnerabilities | CyferNest Sec | [Read More](https://medium.com/p/6e1fe37d8825) |
-| Sat, 16 Aug 2025 15:18:58 GMT | 10 Annoying React State Bugs & Their Solutions | Pratik Tamhane | [Read More](https://medium.com/p/2e5c968460b2) |
-| Sat, 16 Aug 2025 15:12:48 GMT | Race to Root: How a GraphQL Race Condition Let Me Execute Admin Actions Twice | Iski | [Read More](https://medium.com/p/7e7aa010a52a) |
-| Sat, 16 Aug 2025 15:08:30 GMT | cPanel in 2025 — Still the King of Hosting, or Time to Move On? | Hugo Valters | [Read More](https://medium.com/p/1c929009430d) |
-| Sat, 16 Aug 2025 14:52:58 GMT | Prototype Pollution — a JavaScript Vulnerability | appsecwarrior | [Read More](https://medium.com/p/c136f801f9e1) |
-| Sat, 16 Aug 2025 14:50:57 GMT | When Falcon Fell: How a CrowdStrike Glitch Brought the Digital World to Its Knees | Iqra Anwar | [Read More](https://medium.com/p/d6a1fd81e9d4) |
-| Sat, 16 Aug 2025 14:33:09 GMT | Bypassing Access Controls: The Hidden Danger of URL Path Manipulation | Siddiquimohammad | [Read More](https://medium.com/p/5e68d9cfcd02) |
-| Sat, 16 Aug 2025 14:32:04 GMT | SIEM 101 Walkthrough — Letsdefend | md_ashmar | [Read More](https://medium.com/p/ecb98aad8e73) |
-| Sat, 16 Aug 2025 14:31:46 GMT | The Silent Bug Factory: How Weak Acceptance Criteria Sink Your Product | Monica Ashok | [Read More](https://medium.com/p/09a068906684) |
-| Sat, 16 Aug 2025 14:27:37 GMT | Zero Trust in Multi-Cloud Environments | Karthikeyan Nagaraj | [Read More](https://medium.com/p/011b97b6b6cb) |
-| Sat, 16 Aug 2025 14:15:45 GMT | Windows Authentication Process Part -1 | Madhab Tripathy | [Read More](https://medium.com/p/85ec4d625de5) |
-| Sat, 16 Aug 2025 14:12:07 GMT | ASI — Humanity’s Last Invention | Balthasar | [Read More](https://medium.com/p/1a60e8babdfe) |
-| Sat, 16 Aug 2025 14:08:59 GMT | Kerberoasting Tespiti (Splunk) | Serkan | [Read More](https://medium.com/p/a514d7ba3329) |
