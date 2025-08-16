@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 23:01:33 GMT | Let’s Break JWTs for Fun and Profit. | Afwan Mulia Pratama | [Read More](https://medium.com/p/84eca5be579c) |
+| Sat, 16 Aug 2025 22:59:53 GMT | Life-Changing Magic of Lowering Your Expectations | Maria Arshad | [Read More](https://medium.com/p/b7e7801a02b7) |
+| Sat, 16 Aug 2025 22:59:20 GMT | The Psychology of a Phishing Victim | Aj | [Read More](https://medium.com/p/2cc7dbe89bd5) |
+| Sat, 16 Aug 2025 22:57:01 GMT | How Lava Lamps Help Protect the Internet | Noorzaib Munawar Chohan | [Read More](https://medium.com/p/abfc1f703e14) |
+| Sat, 16 Aug 2025 22:53:25 GMT | Beyond the Playbook: Evolving Blue, Red, and Purple Teaming in Modern Cybersecurity Operations | Richard Dosumu | [Read More](https://medium.com/p/9dbd91317eeb) |
+| Sat, 16 Aug 2025 22:53:12 GMT | The Stranger in My Wi-Fi | Shahzaib | [Read More](https://medium.com/p/77d6253b5880) |
+| Sat, 16 Aug 2025 22:51:01 GMT | The Phishing Series: Responding to Successful Attacks | Norman Kolarikkal | [Read More](https://medium.com/p/9a741b72f092) |
+| Sat, 16 Aug 2025 22:42:39 GMT | Diamond Model — TryHackMe Walkthrough | Genrunic | [Read More](https://medium.com/p/ae7ecd1564fc) |
+| Sat, 16 Aug 2025 22:39:14 GMT | Anti-Forensic Techniques to Cover Your Tracks, Part 2 | Ian Barwise | [Read More](https://medium.com/p/b2d1db816c81) |
 | Sat, 16 Aug 2025 22:18:55 GMT | Penetration Test Report: Athena (TryHackMe) | Faysal Dhimbil | [Read More](https://medium.com/p/b4494f559f0a) |
 | Sat, 16 Aug 2025 22:17:46 GMT | BYOD Security: Balancing Flexibility and Control | Karthikeyan Nagaraj | [Read More](https://medium.com/p/1a10b0be0b13) |
 | Sat, 16 Aug 2025 22:13:58 GMT | Inter-Component Communication (ICC) Vulnerabilities in Android | Amar Kumar | [Read More](https://medium.com/p/19ecf6e7f6f1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 16:19:41 GMT | From Static to Dynamic: How AI Can Rewrite the Role of Enterprise Architecture | Sunil Singh | [Read More](https://medium.com/p/f8315a3eb7ff) |
 | Sat, 16 Aug 2025 16:18:11 GMT | AI Without Gatekeepers: The Rise of PAI3 Nodes | The Executive | [Read More](https://medium.com/p/ed7b2a9c0eb2) |
 | Sat, 16 Aug 2025 16:17:48 GMT | Exploiting IDOR and Base64 Weakness in bWAPP with Burp Suite | Srimanta Mondal | [Read More](https://medium.com/p/5d847da13dcf) |
-| Sat, 16 Aug 2025 16:17:37 GMT | Russian Hackers EncryptHub Use MSC EvilTwin Vulnerability (CVE-2025–26633) to Spread Fickle Stealer… | Femintee | [Read More](https://medium.com/p/711cdfbae360) |
-| Sat, 16 Aug 2025 16:12:52 GMT | AI / LLM Hacking- Part 1 -Fundamentals | Darshan Naresh Naik | [Read More](https://medium.com/p/2cca1ad18929) |
-| Sat, 16 Aug 2025 16:12:17 GMT | Platform-Layer Access-Control Checks | Siddiquimohammad | [Read More](https://medium.com/p/924395c8c3d9) |
-| Sat, 16 Aug 2025 16:08:51 GMT | Root Me — HTTP — IP restriction bypass | Kamal S | [Read More](https://medium.com/p/93de8d678707) |
-| Sat, 16 Aug 2025 16:07:49 GMT | Hacking: It’s Not Just Typing Really Fast | CtrlC3 | [Read More](https://medium.com/p/cb3ea2efb356) |
-| Sat, 16 Aug 2025 16:04:16 GMT | API Penetration Testing Report: Vulnerable Bank Application | Emmanuel Sodolamu | [Read More](https://medium.com/p/7eeea1a3aff8) |
-| Sat, 16 Aug 2025 16:01:20 GMT | Cracking Codes: Where to Start With Crypto Puzzles? | SilentInject | [Read More](https://medium.com/p/aedfc051b91f) |
-| Sat, 16 Aug 2025 15:55:39 GMT | NIST 2.0 Implementation Strategies | Polaroid_347 | [Read More](https://medium.com/p/a176fba2a369) |
-| Sat, 16 Aug 2025 15:48:37 GMT | The Illusion of Safety: Exploiting XSS Beyond "HttpOnly" Cookies | Neh Patel | [Read More](https://medium.com/p/b81c6493bb76) |
