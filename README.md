@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 11:09:33 GMT | Blockchain Security: The Efimer Trojan | Qitmeer Network | [Read More](https://medium.com/p/55d176b6af5c) |
+| Sat, 16 Aug 2025 10:57:29 GMT | Developing Trust in Digital Finance: Why NexFi is Redefining Confidence in Payments | NexFi | [Read More](https://medium.com/p/f2a84696b038) |
+| Sat, 16 Aug 2025 10:55:50 GMT | The Cloud Behind Your Daily Life: You Use It More Than You Know | Richa Ghosh | [Read More](https://medium.com/p/300626d56549) |
+| Sat, 16 Aug 2025 10:55:20 GMT | Hackers Leak 9GB of Data from Alleged North Korean Hacker’s Computer | David SEHYEON Baek | [Read More](https://medium.com/p/e5e01ad20f74) |
+| Sat, 16 Aug 2025 10:54:25 GMT | PIN CTFlearn Reverse Engineering Walkthrough — Write-up | Elmin Farzaliyev | [Read More](https://medium.com/p/cd88da96fbf4) |
+| Sat, 16 Aug 2025 10:53:00 GMT | 5 AI Tools That Can Make You a Cybersecurity Pro in 2025 | Akshaya Mary Lingala | [Read More](https://medium.com/p/3558fdc9fc36) |
+| Sat, 16 Aug 2025 10:52:58 GMT | #Deloitte Automation Testing Consultant Interview Experience:
+I applied to this position via portal… | Ajit Kumar | [Read More](https://medium.com/p/aa9c9c0c7ad5) |
+| Sat, 16 Aug 2025 10:51:13 GMT | Sun Tzu’s Art of War Applied to Modern Cyber Attacks | David SEHYEON Baek | [Read More](https://medium.com/p/a149397f4c62) |
+| Sat, 16 Aug 2025 10:50:51 GMT | Dstack завершил аудит безопасности — веха для Confidential Cloud | Phala Network RU | [Read More](https://medium.com/p/9316f304a3c3) |
+| Sat, 16 Aug 2025 10:50:51 GMT | Fino payment Bank se paise cut Jaaye To Kya Karen✅ 9669538050 ✅फिनो पेमेंट बैंक से पैसे कट जाए तो… | Fino payment Bank se paise cut Jaaye To Kya Karen | [Read More](https://medium.com/p/19c806a5a595) |
+| Sat, 16 Aug 2025 10:43:34 GMT | A Trivial Truth (on verbal Machiavellianism): The Case of a Bad Study with the Wrong Conclusions | Berend Watchus | [Read More](https://medium.com/p/ed8431799b7f) |
+| Sat, 16 Aug 2025 10:41:24 GMT | The CAPTCHA Scam You Never Saw Coming: When “I’m Not a Robot” Becomes the Hack | Divyesh Parate | [Read More](https://medium.com/p/db9fbc0b8b9c) |
 | Sat, 16 Aug 2025 10:39:14 GMT | Dstack zakończył audyt bezpieczeństwa — kamień milowy dla Confidential Cloud | Phala Network PL | [Read More](https://medium.com/p/c32dae6645a2) |
 | Sat, 16 Aug 2025 10:38:58 GMT | How I Found My First Open Redirect Vulnerability | Hinan Mohamed | [Read More](https://medium.com/p/592aacbf6574) |
 | Sat, 16 Aug 2025 10:37:24 GMT | From Open Source Roots to Enterprise-Grade Power | Amit Ambekar | [Read More](https://medium.com/p/1fab5b20ac58) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 05:16:45 GMT | Ghost Tapping: The Invisible Cyber Heist Threatening Your Digital Wallet | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/1afa956b308f) |
 | Sat, 16 Aug 2025 05:07:04 GMT | How a technical test ended up revealing malware in a repository | Fabricio Orrala | [Read More](https://medium.com/p/13868a849c21) |
 | Sat, 16 Aug 2025 04:59:44 GMT | Steps to Recover Your Social Media Account After It Gets Hacked | Qoli AI | [Read More](https://medium.com/p/1328b39043ed) |
-| Sat, 16 Aug 2025 04:57:32 GMT | When Password Reset Turns Into a Privacy Leak: CSRF, IPs & a Little Bit of WTF | Mohamed Said Ibrahim | [Read More](https://medium.com/p/d1961da060b9) |
-| Sat, 16 Aug 2025 04:44:24 GMT | This Side of Paradise | Ac | [Read More](https://medium.com/p/4e316de882af) |
-| Sat, 16 Aug 2025 04:39:17 GMT | Cybersecurity Trends 2025: AI Threats, New Risks & Protection | Hachtechnology | [Read More](https://medium.com/p/e3d7a09d28d3) |
-| Sat, 16 Aug 2025 04:33:11 GMT | From Alerts to Action: My Cybersecurity Internship at Toyota Canada | Tavleen Singh Aneja | [Read More](https://medium.com/p/1235c9c86c68) |
-| Sat, 16 Aug 2025 04:30:20 GMT | Threat Hunting — Understanding the Role and Work | Suhanichoudhary | [Read More](https://medium.com/p/7425ed2a1b69) |
-| Sat, 16 Aug 2025 04:27:27 GMT | Server-side Template Injection Using Documentation: Uncover The Hidden Dangers of SSTI | Bash Overflow | [Read More](https://medium.com/p/566e7159edb7) |
-| Sat, 16 Aug 2025 04:21:23 GMT | TryHackMe Valley — Web Exploitation to Linux Privilege Escalation Walkthrough | R4d14n7 | [Read More](https://medium.com/p/5eb783d6beec) |
-| Sat, 16 Aug 2025 04:19:37 GMT | Day 2: Managing Temporary User Accounts with Expiry Dates | Suraif Muhammad | [Read More](https://medium.com/p/33914e34b99b) |
-| Sat, 16 Aug 2025 04:14:20 GMT | HexStrike AI v6.0: Turning GPT, Claude, and Copilot into Autonomous Cybersecurity Experts | IamPreth | [Read More](https://medium.com/p/5cdbb917066a) |
-| Sat, 16 Aug 2025 04:10:45 GMT | Discovering and Patching Code Vulnerabilities On Autopilot (A Free AI-driven Code Scaner) | Jannis | [Read More](https://medium.com/p/eaf851ce84b8) |
-| Sat, 16 Aug 2025 04:06:59 GMT | The Cybercriminal’s Art of War — A Hacker’s Manifesto | David SEHYEON Baek | [Read More](https://medium.com/p/ddeb5a546a59) |
-| Sat, 16 Aug 2025 03:57:54 GMT | Engineering data lakehouse infrastructure for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/b289b95e408e) |
