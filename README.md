@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 04:27:27 GMT | Server-side Template Injection Using Documentation: Uncover The Hidden Dangers of SSTI | Bash Overflow | [Read More](https://medium.com/p/566e7159edb7) |
+| Sat, 16 Aug 2025 04:21:23 GMT | TryHackMe Valley — Web Exploitation to Linux Privilege Escalation Walkthrough | R4d14n7 | [Read More](https://medium.com/p/5eb783d6beec) |
+| Sat, 16 Aug 2025 04:19:37 GMT | Day 2: Managing Temporary User Accounts with Expiry Dates | Suraif Muhammad | [Read More](https://medium.com/p/33914e34b99b) |
+| Sat, 16 Aug 2025 04:14:20 GMT | HexStrike AI v6.0: Turning GPT, Claude, and Copilot into Autonomous Cybersecurity Experts | IamPreth | [Read More](https://medium.com/p/5cdbb917066a) |
+| Sat, 16 Aug 2025 04:10:45 GMT | Discovering and Patching Code Vulnerabilities On Autopilot (A Free AI-driven Code Scaner) | Jannis | [Read More](https://medium.com/p/eaf851ce84b8) |
+| Sat, 16 Aug 2025 04:06:59 GMT | The Cybercriminal’s Art of War — A Hacker’s Manifesto | David SEHYEON Baek | [Read More](https://medium.com/p/ddeb5a546a59) |
+| Sat, 16 Aug 2025 03:57:54 GMT | Engineering data lakehouse infrastructure for Financial Technology (FinTech) | Joe Alongi | [Read More](https://medium.com/p/b289b95e408e) |
 | Sat, 16 Aug 2025 03:47:31 GMT | 8. Persistence in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/4e91e7d8d434) |
 | Sat, 16 Aug 2025 03:42:26 GMT | Corrosion 2 VulnHub Walkthrough 2025: From Foothold to Root Exploitation | Prajwal | [Read More](https://medium.com/p/6a27182a6a72) |
 | Sat, 16 Aug 2025 03:31:10 GMT | The Hidden EXIF Data in Your Photos That Could Put Your Family at Risk | Ngoc Nguyen Nhu | [Read More](https://medium.com/p/baecf3422691) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 18:07:05 GMT | NIST Cybersecurity Framework Made Simple: Beginner’s Guide to the 5 Key Steps | Aarushi Mishra | [Read More](https://medium.com/p/d6634bf54696) |
 | Fri, 15 Aug 2025 18:04:10 GMT | ️‍♂️Natas 6 Walkthrough: Getting Started | Souhailjml | [Read More](https://medium.com/p/f7f8f6077347) |
 | Fri, 15 Aug 2025 17:57:52 GMT | The AI Reality Check: Why Everyone’s Using AI for “Therapy” and “Companionship” | John Petty | [Read More](https://medium.com/p/7de25337cb21) |
-| Fri, 15 Aug 2025 17:47:28 GMT | CVE: API Keys in the URL Path | Nat Liu | [Read More](https://medium.com/p/6399c9e09287) |
-| Fri, 15 Aug 2025 17:40:20 GMT | Critical SAP Code Injection Vulnerabilities in S/4HANA and SLT — CVSS 9.9 | José López | [Read More](https://medium.com/p/9b3b192e72fc) |
-| Fri, 15 Aug 2025 17:39:28 GMT | Bug Bounty: XSS Exploitation — From Alert Boxes to Full Control! | Rajkumar Kumawat | [Read More](https://medium.com/p/6530d83cafa6) |
-| Fri, 15 Aug 2025 17:33:50 GMT | DEF CON 33: Access Everywhere | tackvv | [Read More](https://medium.com/p/58bf08e502cb) |
-| Fri, 15 Aug 2025 17:33:39 GMT | Ionic Money Exploit | TrashPirate | [Read More](https://medium.com/p/e2b73b5482c6) |
-| Fri, 15 Aug 2025 17:32:12 GMT | PhantomCard: Advanced NFC Relay Malware Targeting Brazilian Mobile Banking Users | RealSec.io | [Read More](https://medium.com/p/04c023fedc27) |
-| Fri, 15 Aug 2025 17:25:14 GMT | Chaining Misconfigurations: From File Uploads to Account Takeover | Hamed Alvandy | [Read More](https://medium.com/p/6ed4ae03d8d1) |
