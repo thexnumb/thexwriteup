@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 Aug 2025 05:37:02 GMT | Learning Fortinet Firewall — Introduction and Important Notes | Rouell Mamaril | [Read More](https://medium.com/p/a22d7ce14c71) |
+| Sat, 16 Aug 2025 05:22:03 GMT | Everyone’s Talking About AI & IoT. But No One’s Talking About the Real Problem. | Recover Right | [Read More](https://medium.com/p/0ea57b1cf770) |
+| Sat, 16 Aug 2025 05:16:45 GMT | Ghost Tapping: The Invisible Cyber Heist Threatening Your Digital Wallet | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/1afa956b308f) |
 | Sat, 16 Aug 2025 05:07:04 GMT | How a technical test ended up revealing malware in a repository | Fabricio Orrala | [Read More](https://medium.com/p/13868a849c21) |
 | Sat, 16 Aug 2025 04:59:44 GMT | Steps to Recover Your Social Media Account After It Gets Hacked | Qoli AI | [Read More](https://medium.com/p/1328b39043ed) |
 | Sat, 16 Aug 2025 04:57:32 GMT | When Password Reset Turns Into a Privacy Leak: CSRF, IPs & a Little Bit of WTF | Mohamed Said Ibrahim | [Read More](https://medium.com/p/d1961da060b9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 Aug 2025 18:35:15 GMT | Advancing Blockchain Security and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/348e2283ce28) |
 | Fri, 15 Aug 2025 18:33:51 GMT | From Evidence to Enterprise security: My journey through three cybersecurity mini projects | shrimali senevirathna | [Read More](https://medium.com/p/a9d9232cf375) |
 | Fri, 15 Aug 2025 18:33:29 GMT | Advancing Blockchain Security and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/80a83acf1ec4) |
-| Fri, 15 Aug 2025 18:23:27 GMT | Crypto24 Ransomware: A Sophisticated EDR-Evasion Assault on Enterprise Giants. | eL Njas!™ | [Read More](https://medium.com/p/984a46f03621) |
-| Fri, 15 Aug 2025 18:21:00 GMT | Benefits of Installing a Wood Fence for Your Property | hector cruz | [Read More](https://medium.com/p/0af1d4e7378d) |
-| Fri, 15 Aug 2025 18:19:05 GMT | How I Stopped a Cloud Breach Before It Happened — Lessons for Securing AWS in 2025 | Khansa Rahim | [Read More](https://medium.com/p/8b74d0ca83b5) |
