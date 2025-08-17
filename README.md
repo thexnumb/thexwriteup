@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 09:27:57 GMT | PickleRick-THM | Mohit Sharma | [Read More](https://medium.com/p/376f064ba365) |
+| Sun, 17 Aug 2025 09:27:43 GMT | The Only CompTIA Security+ (880/900) Guide You’ll Need to Pass | Mayank Sharma | [Read More](https://medium.com/p/1f903c71f77a) |
+| Sun, 17 Aug 2025 09:25:41 GMT | How I Streamlined Incident Management with a Custom IT Alert System | Devsync | [Read More](https://medium.com/p/2cca3430d9f6) |
+| Sun, 17 Aug 2025 09:24:38 GMT | Wireshark Filtreleri | Mehmet Sancaktaroğlu | [Read More](https://medium.com/p/6ea9e2c549bc) |
+| Sun, 17 Aug 2025 09:24:35 GMT | Null Core Write-Up’s | Abilash B | [Read More](https://medium.com/p/863d45e9fdb2) |
+| Sun, 17 Aug 2025 09:24:10 GMT | Day 34- Network Topologies: Star, Ring, Mesh and Bus for beginners | unica 02 | [Read More](https://medium.com/p/9c7b12c10889) |
+| Sun, 17 Aug 2025 09:24:00 GMT | How Much Does It Cost To Keep A Secret? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/c39ab93cfbf7) |
 | Sun, 17 Aug 2025 09:18:06 GMT | LockBit’s Disguise: How Ransomware Hides in Trusted Applications | Meni Tasa | [Read More](https://medium.com/p/5f36af3127db) |
+| Sun, 17 Aug 2025 09:14:06 GMT | The Day I Realized I Wasn’t the Main Character in My Own Life | @SaadKhanWriter | [Read More](https://medium.com/p/0ef7318ae998) |
 | Sun, 17 Aug 2025 09:07:44 GMT | Today I’m Being Vulnerable, Honest But I’m Afraid I’m not The Victim | Frank Gallagher, Ph.C. | [Read More](https://medium.com/p/7d67601c37e5) |
 | Sun, 17 Aug 2025 09:05:55 GMT | I Passed Security+ SY0–701 in 3 Hours of Review. | Lucky ApeX | [Read More](https://medium.com/p/6c5b18ec424b) |
 | Sun, 17 Aug 2025 09:04:40 GMT | The AWS Secret That Watches From the Shadows | Alex Joyel Raj - Cyber Howler | [Read More](https://medium.com/p/1fbb7c3fd7f6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 01:36:46 GMT | The Hybrid Future of GRC Engineering — Part 1: The Maturity Shift | Varun Gurnaney | [Read More](https://medium.com/p/d41e5b526b52) |
 | Sun, 17 Aug 2025 01:17:39 GMT | Understanding Isolation: A Key Technique for Ensuring CIA in Cybersecurity | Raviteja Mureboina | [Read More](https://medium.com/p/99483376bf39) |
 | Sun, 17 Aug 2025 01:09:37 GMT | Securing Smart Contract Supply Chains: Best Practices for Attack Minimization | Dilum Bandara | [Read More](https://medium.com/p/cbce5d2b136e) |
-| Sun, 17 Aug 2025 00:57:34 GMT | Quadrinhos: Segurança Digital em Prosa | Café Com Firewall | [Read More](https://medium.com/p/52b89cc28fc3) |
-| Sun, 17 Aug 2025 00:44:28 GMT | UUID 7 Is Awesome — Now You Can Sort! | Probir Sarkar | [Read More](https://medium.com/p/3f200af9b3f6) |
-| Sun, 17 Aug 2025 00:42:38 GMT | Bridging the Civic Engagement Gap: What Indigenous Societies Can Teach Us About Democracy | Andrew James Walls | [Read More](https://medium.com/p/665671e9ac92) |
-| Sun, 17 Aug 2025 00:34:01 GMT | Source Code Audit Checklist: Best Practices for Secure Code | Shanmuga priya | [Read More](https://medium.com/p/a3b1521041e4) |
-| Sun, 17 Aug 2025 00:32:43 GMT | Understanding Bounds: A Technique to Ensure Confidentiality, Integrity, and Availability (CIA) in… | Raviteja Mureboina | [Read More](https://medium.com/p/f8c6469b7438) |
-| Sun, 17 Aug 2025 00:30:38 GMT | Huge Shame for India: 80+ Indian Websites Hacked By ULFA United Liberation Front of Asom on… | Patrick Jason | [Read More](https://medium.com/p/b352fdbfdd6c) |
-| Sun, 17 Aug 2025 00:11:44 GMT | Why Your NoSQL Database Might Be Holding You Back | Rizqi Mulki | [Read More](https://medium.com/p/8a1a60115360) |
-| Sun, 17 Aug 2025 00:08:49 GMT | CORS Bypass in popular opensource library | Raghav Agrawal | [Read More](https://medium.com/p/ad27fb41e16a) |
