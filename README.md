@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 22:16:40 GMT | Understanding and Preventing Injection Attacks | Emma Lateyron | [Read More](https://medium.com/p/9eb4c720d657) |
+| Sun, 17 Aug 2025 22:13:32 GMT | How to Learn With AI — and Think Like AI | huoshi | [Read More](https://medium.com/p/ced69827508b) |
+| Sun, 17 Aug 2025 22:10:46 GMT | Logical Override: Confabulation of an Emergent Capability to Bypass LLM Safety Alignment | Caleb Grebill | [Read More](https://medium.com/p/3e1b2bb87d7f) |
+| Sun, 17 Aug 2025 22:09:20 GMT | Static vs Dynamic Analysis: The Twin Pillars of Software Security | Emma Lateyron | [Read More](https://medium.com/p/7661ee9f7051) |
+| Sun, 17 Aug 2025 22:02:18 GMT | ⭐30-Day Personal Pentesting Challenge Complete!⭐ | Chai | [Read More](https://medium.com/p/cea67cbe9a3e) |
+| Sun, 17 Aug 2025 22:00:51 GMT | Splish, Splash | theccmi | [Read More](https://medium.com/p/26cda57a9a76) |
+| Sun, 17 Aug 2025 21:48:59 GMT | Cracking CTFs and Finding Zero-Days with AI-Agents | Harish SG | [Read More](https://medium.com/p/41a1083ba088) |
+| Sun, 17 Aug 2025 21:46:53 GMT | HTB Sherlocks — BFT Writeup | FOIAX | [Read More](https://medium.com/p/aef9420f39e9) |
+| Sun, 17 Aug 2025 21:33:58 GMT | Building AWS Agents using LangChain + Boto3 | Samet Senturk | [Read More](https://medium.com/p/50931d48238a) |
 | Sun, 17 Aug 2025 21:20:50 GMT | A Developer‘s Crash Course in Cryptography, Part 2: Frequency Analysis and the Vigenère Cipher | Steinwendner Matthias | [Read More](https://medium.com/p/54da3997c28b) |
 | Sun, 17 Aug 2025 21:18:00 GMT | SOC140 — Phishing Mail Detected — Suspicious Task Scheduler | TH3LILJ4NN47 | [Read More](https://medium.com/p/325b0ac187b6) |
 | Sun, 17 Aug 2025 21:11:37 GMT | Introductory Networking | Anthony Mazyck | [Read More](https://medium.com/p/de7fe94d3330) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 14:45:21 GMT | Github CI/CD pipeline with Nodejs, SonarCloud & Snyk integration | Piyali Das | [Read More](https://medium.com/p/bf4bd086d86d) |
 | Sun, 17 Aug 2025 14:43:55 GMT | cloudsecuritychampionship — Contain Me If You Can | Idlefirepentest | [Read More](https://medium.com/p/09d9e6ae2a16) |
 | Sun, 17 Aug 2025 14:43:30 GMT | Understand- Nmap: The Basics Commands and Examples for Network Security | Polash Mridha | [Read More](https://medium.com/p/2e79b72b8382) |
-| Sun, 17 Aug 2025 14:40:56 GMT | Can you love me naked? | Johann | [Read More](https://medium.com/p/b515193900d9) |
-| Sun, 17 Aug 2025 14:37:05 GMT | Pakistan-Russia Relationsin the New World (dis)order:Policy Options | Javairyah Kulthum Aatif | [Read More](https://medium.com/p/0e91b75da62b) |
-| Sun, 17 Aug 2025 14:36:05 GMT | Boot → Shell → Root: Escalating Privileges on TryHackMe Lookup | Adwaith S | [Read More](https://medium.com/p/ba928921ed22) |
-| Sun, 17 Aug 2025 14:30:10 GMT | Email Header Analysis | Allen Ace | [Read More](https://medium.com/p/fef73b0b1af2) |
-| Sun, 17 Aug 2025 14:25:27 GMT | From Scripts to Prompts: The Next Wave of AI in Cyber Ops | LetMeDayDream | [Read More](https://medium.com/p/5d745faec032) |
-| Sun, 17 Aug 2025 14:21:33 GMT | Bug Bounty: Insecure File Upload — The Silent Backdoor You Didn’t Notice! | Rajkumar Kumawat | [Read More](https://medium.com/p/f8627eeb3e1d) |
-| Sun, 17 Aug 2025 14:14:01 GMT | How I Found a Broken Access Control in a Job Application API | Amrgomaa | [Read More](https://medium.com/p/72f083b8c113) |
-| Sun, 17 Aug 2025 14:08:16 GMT | How to Find SQL Injection Flaws with Burp Suite | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/69ea96b618b0) |
-| Sun, 17 Aug 2025 14:06:40 GMT | The ‘Ministry of Deception’: AI Made Up a Government Statement During a Live IT Blackout today. | Berend Watchus | [Read More](https://medium.com/p/6653a8959b6c) |
