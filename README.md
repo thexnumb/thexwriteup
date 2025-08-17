@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 11:33:46 GMT | DockerLabs Writeup — Rutas (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e0fd0e089207) |
+| Sun, 17 Aug 2025 11:31:32 GMT | Firebase Security Rules: The Complete Guide to Protect Your Data | The Blog Stacker - Tech Writer✨ | [Read More](https://medium.com/p/b25bde76bd2d) |
+| Sun, 17 Aug 2025 11:22:34 GMT | Cracking the UAT-7237 Cyberplaybook: Taiwan’s Web Servers Under Siege | Ismail Tasdelen | [Read More](https://medium.com/p/a52d764b8f54) |
+| Sun, 17 Aug 2025 11:19:31 GMT | Decrypting EncryptHub: How a Russian Cyber Gang Exploits MSC EvilTwin Vulnerability | Ismail Tasdelen | [Read More](https://medium.com/p/5a825897fe2d) |
+| Sun, 17 Aug 2025 11:16:57 GMT | Starknet Cairo Vulnerability : Unused Function | JEETPAL | [Read More](https://medium.com/p/72eb82fb4a10) |
 | Sun, 17 Aug 2025 11:13:34 GMT | 7 AI Trends in 2025 That Will Change the Way You Live and Work | Mahendra Singh Boura | [Read More](https://medium.com/p/3fbb633a2859) |
 | Sun, 17 Aug 2025 11:12:14 GMT | What is a Router and How Does It Work? (EN) | Atakan Bitim | [Read More](https://medium.com/p/a6d88f1592d8) |
 | Sun, 17 Aug 2025 11:12:10 GMT | What is a Router and How Does It Work? (TR) | Atakan Bitim | [Read More](https://medium.com/p/4c5bde7fb0a7) |
+| Sun, 17 Aug 2025 11:11:35 GMT | The Hidden Risks of SSH Agent Forwarding (And How I Avoid Them) | Faruk Ahmed | [Read More](https://medium.com/p/d7abff54f567) |
+| Sun, 17 Aug 2025 11:10:25 GMT | Bridging Human Behavior and Cybersecurity with Psychometric Scales | Khurram Iqbal | [Read More](https://medium.com/p/6f2c8bcf8ce5) |
 | Sun, 17 Aug 2025 11:04:37 GMT | Görülmek Mi? İzlenmek Mi? | AYŞE KIZILAY | [Read More](https://medium.com/p/d475a1b65bf6) |
 | Sun, 17 Aug 2025 11:04:30 GMT | How to create a cybersecurity Lab Environment with VirtualBox | Yeswanth Boddeda | [Read More](https://medium.com/p/d23b433d78cd) |
 | Sun, 17 Aug 2025 10:56:30 GMT | Open Redirect in Password Reset Flow Leading to Token Exposure | Ehtesham Ul Haq | [Read More](https://medium.com/p/63b2890ce5fd) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 04:33:31 GMT | “Like Lights, We Break Quietly.” | eeoeuoua | [Read More](https://medium.com/p/663efc4bbe18) |
 | Sun, 17 Aug 2025 04:25:03 GMT | The $5 Million Bounty Hunt for Crypto’s Shadow Bankers | Aj | [Read More](https://medium.com/p/fc3331b25f72) |
 | Sun, 17 Aug 2025 04:17:13 GMT | Inside an Infostealer Breach — How One Compromised Endpoint Exposed a Credit Card Giant | David SEHYEON Baek | [Read More](https://medium.com/p/ee29678e8503) |
-| Sun, 17 Aug 2025 04:15:03 GMT | iPhone Users: Truecaller Call Recording Ban Update Explained | Ivy Kelly | [Read More](https://medium.com/p/2065b24a17e2) |
-| Sun, 17 Aug 2025 04:00:58 GMT | What Exactly is Cyber Protection? (And Why AI Companies Keep Talking About It) | Wong Ke Ming | [Read More](https://medium.com/p/2fc49b5c7948) |
-| Sun, 17 Aug 2025 03:53:29 GMT | MadeYouReset Attack: The New Threat to HTTP/2 Servers | The UNFILTERED Draft | [Read More](https://medium.com/p/22e0a41218cb) |
-| Sun, 17 Aug 2025 03:44:14 GMT | Just bought Shodan Lifetime Membership for $5 | AbhirupKonwar | [Read More](https://medium.com/p/fef8a9b8de2d) |
-| Sun, 17 Aug 2025 03:39:05 GMT | SLERF Migration Details | Slerf coin | [Read More](https://medium.com/p/68be273d9423) |
-| Sun, 17 Aug 2025 03:37:32 GMT | Protecting Your Data: A Simple Guide to Digital Privacy in the AI Age | Yatin | [Read More](https://medium.com/p/3d9b6dafeff1) |
-| Sun, 17 Aug 2025 03:36:43 GMT | Hashing vs Encryption vs Encoding: Real-World Differences You Must Know | err0rgod | [Read More](https://medium.com/p/e1e340a020ca) |
