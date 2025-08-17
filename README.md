@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 23:38:21 GMT | 4 Counterfeited Valid Certificates Leaked Using Bug Bounty Skills | NnFace | [Read More](https://medium.com/p/3ed856006b74) |
+| Sun, 17 Aug 2025 23:32:07 GMT | Security Interview Prep Series — 15. Secure Code Review | Shraddha M. | [Read More](https://medium.com/p/38f9444e8f13) |
+| Sun, 17 Aug 2025 23:23:41 GMT | Weaponizing the Applicant Name Field: An Overlooked Phishing Vector in Applicant Tracking Systems | Brenton McPherson | [Read More](https://medium.com/p/5f2dc49553a2) |
+| Sun, 17 Aug 2025 23:23:35 GMT | 100 Days of Brittney’s Bytes ✨ | Brittney Ginther | [Read More](https://medium.com/p/68b778cc9a67) |
 | Sun, 17 Aug 2025 23:16:26 GMT | Why You Must Update Your Software Regularly: Lessons from the NotPetya Hack | Marcus | [Read More](https://medium.com/p/6cbe20d67b81) |
 | Sun, 17 Aug 2025 23:08:52 GMT | Mastering Reflected Cross-Site Scripting & Bypassing Filters | Beri Contraster | [Read More](https://medium.com/p/c59f3095f621) |
 | Sun, 17 Aug 2025 23:02:00 GMT | Blue Team Labs Online — Reverse Engineering — A Classic Injection Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/5ff909e2630f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 15:46:03 GMT | “Day 14: Cookie Hijacking Exposed — How I Bypassed Chrome’s “Secure” Storage” | Aman Sharma | [Read More](https://medium.com/p/9648b32ba6f5) |
 | Sun, 17 Aug 2025 15:43:53 GMT | 100+ Windows CMD Commands Every Hacker & Pentester MUST Know (with Cheat Sheet) | Very Lazy Tech | [Read More](https://medium.com/p/5e194ab7c842) |
 | Sun, 17 Aug 2025 15:36:28 GMT | How To Remove Garbage Named Malware Files from Linux Servers | Ayush Raj | [Read More](https://medium.com/p/0e12f634f78e) |
-| Sun, 17 Aug 2025 15:18:42 GMT | Eternal American Prosperity Protocol (EAPP) Enforces Neural Network Legibility | Grapheneaffiliates | [Read More](https://medium.com/p/0cba9b126dd8) |
-| Sun, 17 Aug 2025 15:13:44 GMT | Security Without Support: Leading Change When Leadership Moves Too Fast | Richard M. Mcmullin | [Read More](https://medium.com/p/4ab2dc97b319) |
-| Sun, 17 Aug 2025 15:13:29 GMT | Planning -HackTheBox(Writeup) | JonSnowHere | [Read More](https://medium.com/p/9e5fda846b73) |
-| Sun, 17 Aug 2025 15:03:07 GMT | This Changed My Entire Life | Waqar | [Read More](https://medium.com/p/9f161ac82e47) |
