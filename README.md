@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 07:11:47 GMT | ROP (Return Oriented Programming) and Modern Exploit Techniques | Esra Kayhan | [Read More](https://medium.com/p/46cf3ab8130b) |
+| Sun, 17 Aug 2025 07:08:49 GMT | Phishing Analysis: A Blue Team Labs Challenge Writeup | Udaynambissan | [Read More](https://medium.com/p/29dd9904ab2c) |
+| Sun, 17 Aug 2025 07:04:41 GMT | Affiliate Program for Paid AI Jobs | Zoolyoly | [Read More](https://medium.com/p/849817b4a07c) |
+| Sun, 17 Aug 2025 07:01:59 GMT | Cada funcionalidad es una promesa: ¿la cumple para todos? | Gorka | [Read More](https://medium.com/p/9125ef7b7e92) |
+| Sun, 17 Aug 2025 07:01:28 GMT | Addressing Common Docker Security Vulnerabilities | @rnab | [Read More](https://medium.com/p/9de2332a32de) |
+| Sun, 17 Aug 2025 07:00:05 GMT | Should You Choose Cybersecurity as a Career? | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/dfae522603bd) |
+| Sun, 17 Aug 2025 07:00:05 GMT | “Pls Donate” schemes leads to stolen Robux through simple Lua scripts | Haitham Aljabbari | [Read More](https://medium.com/p/ad57d8496566) |
+| Sun, 17 Aug 2025 06:55:38 GMT | Advancing Data Privacy and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/9d182fee961f) |
+| Sun, 17 Aug 2025 06:49:59 GMT | Nocturnal Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/171acadd1d6b) |
+| Sun, 17 Aug 2025 06:41:44 GMT | Logs: The Missing Clue in Every Major Hack | Soumalya De | [Read More](https://medium.com/p/5f1fe2913be8) |
+| Sun, 17 Aug 2025 06:37:46 GMT | Cybersecurity for Non-Techies | Aj | [Read More](https://medium.com/p/45107fdd0202) |
+| Sun, 17 Aug 2025 06:34:23 GMT | Language Models and Computer Security: An In-Depth Analysis with Practical Examples | Hacker Art | [Read More](https://medium.com/p/c66d5452656c) |
+| Sun, 17 Aug 2025 06:28:18 GMT | TryHackMe Light Walkthrough — SQL Injection Challenge | buGGy | [Read More](https://medium.com/p/d8cc0c587140) |
 | Sun, 17 Aug 2025 06:27:04 GMT | Email Marketing Success for Cybersecurity Brands | Muhammad Adenowo | [Read More](https://medium.com/p/639ac79a98f1) |
 | Sun, 17 Aug 2025 06:25:53 GMT | From CFO to Hacker: The High Cost of Identity Theft in Business | ComsignTrust LTD | [Read More](https://medium.com/p/63f9245bf2ce) |
 | Sun, 17 Aug 2025 06:21:28 GMT | Securing Modern Applications with Trivy: A Complete Guide | Varun Thantry | [Read More](https://medium.com/p/b25382002a4c) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 21:27:32 GMT | Kindled Desire | NRWillick | [Read More](https://medium.com/p/91a7c2635f54) |
 | Sat, 16 Aug 2025 21:22:28 GMT | Cyber Reputation Subscription | Alan W. Silberberg | [Read More](https://medium.com/p/3cb15ba6c8d8) |
 | Sat, 16 Aug 2025 21:16:08 GMT | I Built a SQL Injection That Bypassed Every WAF | Ibtissam hammadi | [Read More](https://medium.com/p/01bee29f2d84) |
-| Sat, 16 Aug 2025 21:12:51 GMT | Unmasking Stored XSS: A Deep Dive into the SMTP Error Message Vulnerability | Monika sharma | [Read More](https://medium.com/p/1aba61c93a09) |
-| Sat, 16 Aug 2025 21:07:03 GMT | Burp Suite for Beginners: Your Web Hacking Swiss Army Knife | Aj | [Read More](https://medium.com/p/0a52841e31b8) |
-| Sat, 16 Aug 2025 21:06:57 GMT | Episode 2: Brute Force Attacks — When Hackers Keep Knocking Until the Door Opens | Yamini Yadav | [Read More](https://medium.com/p/f08d6f386cfc) |
-| Sat, 16 Aug 2025 21:06:37 GMT | Episode 3 — Riding the Session Wave: Understanding Session Hijacking | Yamini Yadav | [Read More](https://medium.com/p/1d94bcba05bf) |
-| Sat, 16 Aug 2025 21:06:26 GMT | Challenges of Designing Hardware | m5kro | [Read More](https://medium.com/p/910d764eaf81) |
-| Sat, 16 Aug 2025 20:54:21 GMT | Zero-Click Exploit Nedir? - What is Zero-Click Exploit? | Samet Koca | [Read More](https://medium.com/p/f945394b1324) |
-| Sat, 16 Aug 2025 20:54:13 GMT | Linux Privilege Escalation Via LD_PRELOAD, Part 8: | Muhammadhuzaifa | [Read More](https://medium.com/p/bcde316db31f) |
-| Sat, 16 Aug 2025 20:48:46 GMT | Secret of the Polyglot - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/d313cdc50325) |
-| Sat, 16 Aug 2025 20:45:56 GMT | Click Here for Instant Regret | Zail Dugal | [Read More](https://medium.com/p/4f751c0adda2) |
-| Sat, 16 Aug 2025 20:34:47 GMT | AI 2025: The 5 Tech Trends Reshaping Our World | Staytechscs | [Read More](https://medium.com/p/d26f747e12a2) |
-| Sat, 16 Aug 2025 20:33:54 GMT | home network | akili | [Read More](https://medium.com/p/009839ca21e3) |
-| Sat, 16 Aug 2025 20:32:37 GMT | What Is AI? A Simple Guide to Narrow AI, General AI & Superintelligence | Staytechscs | [Read More](https://medium.com/p/52e9ec56e67f) |
-| Sat, 16 Aug 2025 20:30:24 GMT | AI Unleashed: Understanding the 3 Main Types of Artificial Intelligence | Staytechscs | [Read More](https://medium.com/p/df60f5979d16) |
