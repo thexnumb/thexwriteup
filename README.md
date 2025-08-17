@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 18:18:36 GMT | Vulnerability Assessment CTF 1 | Hejackson | [Read More](https://medium.com/p/b18ed7a8a664) |
+| Sun, 17 Aug 2025 18:07:22 GMT | How does Fingerprint recognition work? | jaeson Bernardsha | [Read More](https://medium.com/p/1ff70a267ed5) |
+| Sun, 17 Aug 2025 17:58:45 GMT | How I Exploited a Business Logic Flaw to Slash Product Prices in a Global Store | Zyad Ibrahim | [Read More](https://medium.com/p/64cd1d445d17) |
+| Sun, 17 Aug 2025 17:56:53 GMT | WHAT IS THE BEST COMPANY TO INVEST IN CRYPTOCURRENCY? | Insurance Investment Management | [Read More](https://medium.com/p/245725664520) |
+| Sun, 17 Aug 2025 17:55:52 GMT | What is a Network Switch (EN) | Atakan Bitim | [Read More](https://medium.com/p/db1183c01556) |
+| Sun, 17 Aug 2025 17:55:46 GMT | What is a Network Switch (TR) | Atakan Bitim | [Read More](https://medium.com/p/edd4c5e38346) |
+| Sun, 17 Aug 2025 17:55:11 GMT | [Web Security Academy] — Server-Side Vulnerabilities / Authentication Lab 2 of 2 | Voltsec | [Read More](https://medium.com/p/dd023ff17bb4) |
+| Sun, 17 Aug 2025 17:52:52 GMT | [Web Security Academy] — Server-Side Vulnerabilities / Authentication Lab 1 of 2 | Voltsec | [Read More](https://medium.com/p/50f32c7df27a) |
+| Sun, 17 Aug 2025 17:52:24 GMT | Zabbix Agentless Monitoring for Linux (Enhanced): The Complete Step-by-Step Guide | Karthick Dkk | [Read More](https://medium.com/p/18f6adfb32be) |
+| Sun, 17 Aug 2025 17:51:50 GMT | HTB Walkthrough : Dancing(SMB) | Ahmad Sopyan | [Read More](https://medium.com/p/0c26180f2bed) |
+| Sun, 17 Aug 2025 17:50:51 GMT | How to Download YouTube Videos in 4K for Free (Updated Guide 2025) | Nikhil Pandey | [Read More](https://medium.com/p/a20136f27b52) |
+| Sun, 17 Aug 2025 17:50:39 GMT | [Web Security Academy] — Server-Side Vulnerabilities / Authentication | Voltsec | [Read More](https://medium.com/p/a6eefdcc58ff) |
+| Sun, 17 Aug 2025 17:44:12 GMT | Things to Consider When Looking for an AI Pentest Tool? | Avantika Dsena | [Read More](https://medium.com/p/05dcbeedc203) |
+| Sun, 17 Aug 2025 17:41:19 GMT | The Simple Walking Trick That Instantly Makes You Look Local | Marc Ford | [Read More](https://medium.com/p/8d9578e49af7) |
+| Sun, 17 Aug 2025 17:40:39 GMT | ️ Map to Mayhem: How an Internal API Directory Leaked Sensitive Endpoints | Iski | [Read More](https://medium.com/p/234055f3fff1) |
+| Sun, 17 Aug 2025 17:37:34 GMT | ISC2 Certified in Cybersecurity | M A | [Read More](https://medium.com/p/b407480d1973) |
+| Sun, 17 Aug 2025 17:29:45 GMT | How Does SSO Work? | Agustin Ignacio Rossi | [Read More](https://medium.com/p/14ec4a5aa41c) |
+| Sun, 17 Aug 2025 17:29:09 GMT | Day 9 : Commands on linux | Prathamlondhe | [Read More](https://medium.com/p/85271fadf78c) |
 | Sun, 17 Aug 2025 17:28:32 GMT | ️ KeySentry v2 — Stop API Key Leaks Before They Stop You | Aditya Bhatt | [Read More](https://medium.com/p/9be0dc734932) |
 | Sun, 17 Aug 2025 17:21:46 GMT | WHAT ARE CRYPTOCURRENCIES? | Insurance Investment Management | [Read More](https://medium.com/p/54ffc63e3f1d) |
 | Sun, 17 Aug 2025 17:20:16 GMT | Proxying Burp Suite Through Tor on Kali Linux | Randall Repass | [Read More](https://medium.com/p/4e5e610663ce) |
@@ -96,21 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 12:51:17 GMT | How to Choose a Secure Password: Easy Guide to Create Strong Password | Tahaazeemguestblogger | [Read More](https://medium.com/p/2e309839d877) |
 | Sun, 17 Aug 2025 12:47:35 GMT | Wiz x Cloud Security Championship: Perimeter Leak - Walkthrough | Mostafa Hussein | [Read More](https://medium.com/p/e79b1944f4fa) |
 | Sun, 17 Aug 2025 12:45:21 GMT | It’s August… Are You Still Letting Digital Clutter Slow You Down? | SupportXDR | [Read More](https://medium.com/p/c14dce008ebd) |
-| Sun, 17 Aug 2025 12:43:38 GMT | The Hidden Scam Economy: How Cheap Business Services Fuel Fraud | Internet Exposed | [Read More](https://medium.com/p/6d9a634a9f0d) |
-| Sun, 17 Aug 2025 12:31:41 GMT | Elastic EDR Zero-Day: When Your Security Tool Becomes the Weapon | Liran Nachman | [Read More](https://medium.com/p/c57b4f2b0ab4) |
-| Sun, 17 Aug 2025 12:31:22 GMT | A Simple Guide to Security Service Edge (SSE) in Cybersecurity | Abdul Ahad | [Read More](https://medium.com/p/6b9087811867) |
-| Sun, 17 Aug 2025 12:30:48 GMT | CyberTalents: Search in Trash writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/b2964b755292) |
-| Sun, 17 Aug 2025 12:27:58 GMT | Top 3 Smartphone Cyber Threats in Africa — How Scams, SIM Swaps, and Malware Are Targeting You | Keith Henry | [Read More](https://medium.com/p/00a1cc58ea12) |
-| Sun, 17 Aug 2025 12:23:49 GMT | HTB Certified Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/bdcd078225e9) |
-| Sun, 17 Aug 2025 12:22:12 GMT | Cybersecurity In Everyday Life: My Journey Begins | Sparshika | [Read More](https://medium.com/p/7c236d7a933a) |
-| Sun, 17 Aug 2025 12:21:45 GMT | HTB: Network Foundations | Kickcodeandlift | [Read More](https://medium.com/p/6477255c97e4) |
-| Sun, 17 Aug 2025 12:18:44 GMT | Beware the AI Hackers! | Rona Ega Kharisma | [Read More](https://medium.com/p/6cf9d0f221c7) |
-| Sun, 17 Aug 2025 12:09:50 GMT | Stop Payment Fraud: A Hands-On Guide with Python, | Old Noisy Speaker | [Read More](https://medium.com/p/2d0778e9913d) |
-| Sun, 17 Aug 2025 12:00:19 GMT | Why and How to Use WinPEAS | 0xasmaa | [Read More](https://medium.com/p/6971a82d2372) |
-| Sun, 17 Aug 2025 11:54:10 GMT | How to Spot a Phishing Email in Under 30 Seconds | Paritosh | [Read More](https://medium.com/p/accac109f33a) |
-| Sun, 17 Aug 2025 11:41:54 GMT | Mastering Firebase Security Rules: Protecting Your App the Right Way | The NewGenCoder | [Read More](https://medium.com/p/a640d4a280f5) |
-| Sun, 17 Aug 2025 11:38:04 GMT | When XSS Meets CSRF: Breaking Web Defenses | Aliahmed | [Read More](https://medium.com/p/31f0ba6c6843) |
-| Sun, 17 Aug 2025 11:33:46 GMT | DockerLabs Writeup — Rutas (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e0fd0e089207) |
-| Sun, 17 Aug 2025 11:31:32 GMT | Firebase Security Rules: The Complete Guide to Protect Your Data | The Blog Stacker - Tech Writer✨ | [Read More](https://medium.com/p/b25bde76bd2d) |
-| Sun, 17 Aug 2025 11:22:34 GMT | Cracking the UAT-7237 Cyberplaybook: Taiwan’s Web Servers Under Siege | Ismail Tasdelen | [Read More](https://medium.com/p/a52d764b8f54) |
-| Sun, 17 Aug 2025 11:19:31 GMT | Decrypting EncryptHub: How a Russian Cyber Gang Exploits MSC EvilTwin Vulnerability | Ismail Tasdelen | [Read More](https://medium.com/p/5a825897fe2d) |
