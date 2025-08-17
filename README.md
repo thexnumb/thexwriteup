@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 05:41:55 GMT | Vamp Byte #1 — What is a Favicon Hash in OSINT? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/daf0279ad129) |
+| Sun, 17 Aug 2025 05:36:39 GMT | Protect Your Spring Boot Application from Vulnerabilities with OWASP Dependency-Check | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/fcda57c00d3b) |
+| Sun, 17 Aug 2025 05:33:43 GMT | Security 101 for Web3 Startups | Thi Nguyen | [Read More](https://medium.com/p/751f237171c8) |
+| Sun, 17 Aug 2025 05:24:28 GMT | Google Got Fooled by a Phone Call — Here’s What You Can Learn | Abhay Parashar | [Read More](https://medium.com/p/5072cc519cd1) |
+| Sun, 17 Aug 2025 05:22:04 GMT | Spotify Premium APK for Android is free and unlocked in 2025: | Music vibes | [Read More](https://medium.com/p/f2d4302aa8e6) |
 | Sun, 17 Aug 2025 05:09:41 GMT | Rising Cyber Crimes in India: Why Awareness is the First Line of Defense | Ashish Agrawal | [Read More](https://medium.com/p/13bbdebffc1b) |
 | Sun, 17 Aug 2025 05:05:23 GMT | Server-side Template Injection in an Unknown Language with a Documented Exploit | Bash Overflow | [Read More](https://medium.com/p/1890eb486513) |
 | Sun, 17 Aug 2025 05:02:53 GMT | The Castle Is Crumbling: Why Security Must Think Like an Airport | Ahmed EL IDRISSI | [Read More](https://medium.com/p/89058579bca7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 19:32:11 GMT | How to Deploy a Wazuh Manager Cloud Server | Raynard Waits | [Read More](https://medium.com/p/de73936425c2) |
 | Sat, 16 Aug 2025 19:26:42 GMT | The Looming Threat of AI-Powered Malware: Could Machines Out-Hack Us? | Dark Tech Insights | [Read More](https://medium.com/p/5ea3e0a9cfd5) |
 | Sat, 16 Aug 2025 19:23:40 GMT | How I Turned a Simple OAuth Bug Into a One-Click Account Takeover | srx | [Read More](https://medium.com/p/d8ac8f4c149f) |
-| Sat, 16 Aug 2025 19:10:48 GMT | Android Malware abusing ZIP and XML parameters | HexNinja | [Read More](https://medium.com/p/f666ed8b1a72) |
-| Sat, 16 Aug 2025 19:08:43 GMT | Rate limit bypass leads to email triggering($$$) | srx | [Read More](https://medium.com/p/665a9cd1c3f3) |
-| Sat, 16 Aug 2025 19:07:04 GMT | Reverse Engineering for (CTF)-001 | N1sh | [Read More](https://medium.com/p/94419c0ba8e4) |
-| Sat, 16 Aug 2025 19:05:45 GMT | Why SocialBox.Biz is London’s Unique Solution for Secure IT Reuse Before Recycling | laptops donations before recycling in london-uk | [Read More](https://medium.com/p/f71dce4caf32) |
-| Sat, 16 Aug 2025 19:05:15 GMT | Hacking, Virtual Machines,Linux and Networking | Vinayak D | [Read More](https://medium.com/p/980b25cd5ccc) |
