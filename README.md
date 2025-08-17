@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 10:13:19 GMT | Small Scope Recon in Pentesting: How to Do More with Less | Aribaafroz | [Read More](https://medium.com/p/90dc36336b43) |
+| Sun, 17 Aug 2025 10:07:52 GMT | Predicate Pushdown Demystified: From Power Query Folding to Starburst EXPLAIN Plans | Tharashasank D | [Read More](https://medium.com/p/09bb5c6a5d63) |
+| Sun, 17 Aug 2025 09:57:54 GMT | How to Protect Against Cyber Fraud A Practical Guide for the Digital Age | Land2Cyber | [Read More](https://medium.com/p/80552b53a554) |
+| Sun, 17 Aug 2025 09:56:50 GMT | Web Shells Explained - TryHackMe Detecting Web Shells | Motasem Hamdan | [Read More](https://medium.com/p/1df5df28224f) |
+| Sun, 17 Aug 2025 09:46:14 GMT | Understanding Flash USDT: A Quick Insight | Sebika | [Read More](https://medium.com/p/0dbf93264a55) |
+| Sun, 17 Aug 2025 09:34:30 GMT | Cyber Insurance Premiums Drop in the U.S. | Oleg Parashchak | [Read More](https://medium.com/p/166954d85113) |
 | Sun, 17 Aug 2025 09:27:57 GMT | PickleRick-THM | Mohit Sharma | [Read More](https://medium.com/p/376f064ba365) |
 | Sun, 17 Aug 2025 09:27:43 GMT | The Only CompTIA Security+ (880/900) Guide You’ll Need to Pass | Mayank Sharma | [Read More](https://medium.com/p/1f903c71f77a) |
 | Sun, 17 Aug 2025 09:25:41 GMT | How I Streamlined Incident Management with a Custom IT Alert System | Devsync | [Read More](https://medium.com/p/2cca3430d9f6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 02:40:02 GMT | Advancing Cybersecurity for Decision Makers | Cyber Security Research | [Read More](https://medium.com/p/0ccf320b81f4) |
 | Sun, 17 Aug 2025 02:38:15 GMT | Advancing Cybersecurity for Beginners | Cyber Security Research | [Read More](https://medium.com/p/ea8b122f4dd6) |
 | Sun, 17 Aug 2025 02:36:30 GMT | Advancing Cybersecurity and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/3cff9c96ed94) |
-| Sun, 17 Aug 2025 02:33:21 GMT | Heavy Information | Mihal Woronko | [Read More](https://medium.com/p/64fcd4cc0e20) |
-| Sun, 17 Aug 2025 02:31:54 GMT | OSINT Beyond Google: Tracking Threat Actors in the Wild | Parth Patel | [Read More](https://medium.com/p/396c1200dd63) |
-| Sun, 17 Aug 2025 02:31:09 GMT | Advancing Cybersecurity and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/09412d8d76fb) |
-| Sun, 17 Aug 2025 01:36:46 GMT | The Hybrid Future of GRC Engineering — Part 1: The Maturity Shift | Varun Gurnaney | [Read More](https://medium.com/p/d41e5b526b52) |
-| Sun, 17 Aug 2025 01:17:39 GMT | Understanding Isolation: A Key Technique for Ensuring CIA in Cybersecurity | Raviteja Mureboina | [Read More](https://medium.com/p/99483376bf39) |
-| Sun, 17 Aug 2025 01:09:37 GMT | Securing Smart Contract Supply Chains: Best Practices for Attack Minimization | Dilum Bandara | [Read More](https://medium.com/p/cbce5d2b136e) |
