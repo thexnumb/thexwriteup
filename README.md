@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 11:13:34 GMT | 7 AI Trends in 2025 That Will Change the Way You Live and Work | Mahendra Singh Boura | [Read More](https://medium.com/p/3fbb633a2859) |
+| Sun, 17 Aug 2025 11:12:14 GMT | What is a Router and How Does It Work? (EN) | Atakan Bitim | [Read More](https://medium.com/p/a6d88f1592d8) |
+| Sun, 17 Aug 2025 11:12:10 GMT | What is a Router and How Does It Work? (TR) | Atakan Bitim | [Read More](https://medium.com/p/4c5bde7fb0a7) |
+| Sun, 17 Aug 2025 11:04:37 GMT | Görülmek Mi? İzlenmek Mi? | AYŞE KIZILAY | [Read More](https://medium.com/p/d475a1b65bf6) |
+| Sun, 17 Aug 2025 11:04:30 GMT | How to create a cybersecurity Lab Environment with VirtualBox | Yeswanth Boddeda | [Read More](https://medium.com/p/d23b433d78cd) |
+| Sun, 17 Aug 2025 10:56:30 GMT | Open Redirect in Password Reset Flow Leading to Token Exposure | Ehtesham Ul Haq | [Read More](https://medium.com/p/63b2890ce5fd) |
+| Sun, 17 Aug 2025 10:56:08 GMT | WebSockets | Usama Hanif | [Read More](https://medium.com/p/0b4d9fc11da5) |
+| Sun, 17 Aug 2025 10:50:13 GMT | Flash Coins: The Truth About Instant Crypto Transactions | Sebika | [Read More](https://medium.com/p/577d9a4dd9bc) |
+| Sun, 17 Aug 2025 10:38:45 GMT | Hunting Bugs at IIT Madras: From PDF.js XSS to WordPress DoS | svt_root | [Read More](https://medium.com/p/3455ac8e610d) |
 | Sun, 17 Aug 2025 10:36:52 GMT | Zaman Damgası Nedir? Dijital Dünyada Güvenilir Kanıtın Anahtarı | AYŞE KIZILAY | [Read More](https://medium.com/p/bb1416fcd454) |
 | Sun, 17 Aug 2025 10:33:10 GMT | DEFINER vs INVOKER Security Mode in Starburst Views : What You Need to Know | Tharashasank D | [Read More](https://medium.com/p/131ee70bf62e) |
 | Sun, 17 Aug 2025 10:25:42 GMT | Week 2 of My 90-Day Challenge: Tools, Frameworks, and a Ton of Labs! | Mike (sl0th0x87) | [Read More](https://medium.com/p/5c9cdfffc180) |
@@ -19,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 10:07:52 GMT | Predicate Pushdown Demystified: From Power Query Folding to Starburst EXPLAIN Plans | Tharashasank D | [Read More](https://medium.com/p/09bb5c6a5d63) |
 | Sun, 17 Aug 2025 09:57:54 GMT | How to Protect Against Cyber Fraud A Practical Guide for the Digital Age | Land2Cyber | [Read More](https://medium.com/p/80552b53a554) |
 | Sun, 17 Aug 2025 09:56:50 GMT | Web Shells Explained - TryHackMe Detecting Web Shells | Motasem Hamdan | [Read More](https://medium.com/p/1df5df28224f) |
+| Sun, 17 Aug 2025 09:56:06 GMT | Why Phishing Still Works in 2025: A Story of One Click | Shubhambilgi | [Read More](https://medium.com/p/33601f5b6b34) |
 | Sun, 17 Aug 2025 09:46:14 GMT | Understanding Flash USDT: A Quick Insight | Sebika | [Read More](https://medium.com/p/0dbf93264a55) |
 | Sun, 17 Aug 2025 09:34:30 GMT | Cyber Insurance Premiums Drop in the U.S. | Oleg Parashchak | [Read More](https://medium.com/p/166954d85113) |
 | Sun, 17 Aug 2025 09:27:57 GMT | PickleRick-THM | Mohit Sharma | [Read More](https://medium.com/p/376f064ba365) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 03:39:05 GMT | SLERF Migration Details | Slerf coin | [Read More](https://medium.com/p/68be273d9423) |
 | Sun, 17 Aug 2025 03:37:32 GMT | Protecting Your Data: A Simple Guide to Digital Privacy in the AI Age | Yatin | [Read More](https://medium.com/p/3d9b6dafeff1) |
 | Sun, 17 Aug 2025 03:36:43 GMT | Hashing vs Encryption vs Encoding: Real-World Differences You Must Know | err0rgod | [Read More](https://medium.com/p/e1e340a020ca) |
-| Sun, 17 Aug 2025 03:31:49 GMT | How a Simple PATH Misconfiguration Gave Researchers Root Access in Microsoft Copilot’s Python… | Deven Chhajed | [Read More](https://medium.com/p/08d1402e9540) |
-| Sun, 17 Aug 2025 03:19:17 GMT | Threat Hunting: Building Threat-Informed Defence in Your SOC | Arachne Digital | [Read More](https://medium.com/p/c323d4ca5408) |
-| Sun, 17 Aug 2025 03:12:11 GMT | Hello World | Winson | [Read More](https://medium.com/p/3eb3b4258880) |
-| Sun, 17 Aug 2025 03:11:03 GMT | When Your Car Unlocks for Strangers | Aj | [Read More](https://medium.com/p/b22efcb24c4f) |
-| Sun, 17 Aug 2025 03:05:04 GMT | I, Too, Rots. | halzie rams | [Read More](https://medium.com/p/2b6a33f9d35e) |
-| Sun, 17 Aug 2025 03:03:58 GMT | Why Your Credit Card Data Still Gets Breached Despite Being Careful | David SEHYEON Baek | [Read More](https://medium.com/p/d9038c258201) |
-| Sun, 17 Aug 2025 02:47:13 GMT | Advancing Cybersecurity in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/3fd54518c64e) |
-| Sun, 17 Aug 2025 02:45:29 GMT | Advancing Cybersecurity for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/a793bca3ae3d) |
-| Sun, 17 Aug 2025 02:43:43 GMT | Advancing Cybersecurity for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/2ee7e142fde0) |
-| Sun, 17 Aug 2025 02:41:47 GMT | Advancing Cybersecurity for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/dc20d815180a) |
