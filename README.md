@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 14:14:01 GMT | How I Found a Broken Access Control in a Job Application API | Amrgomaa | [Read More](https://medium.com/p/72f083b8c113) |
+| Sun, 17 Aug 2025 14:08:16 GMT | How to Find SQL Injection Flaws with Burp Suite | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/69ea96b618b0) |
+| Sun, 17 Aug 2025 14:06:40 GMT | The ‘Ministry of Deception’: AI Made Up a Government Statement During a Live IT Blackout today. | Berend Watchus | [Read More](https://medium.com/p/6653a8959b6c) |
+| Sun, 17 Aug 2025 14:01:56 GMT | Did I Handle It Well, or Just Hide It Well? | skyeca | [Read More](https://medium.com/p/d1c276d56c82) |
+| Sun, 17 Aug 2025 13:59:52 GMT | The Mind Hacking (Alter Ego): Switching Personalities as a Predator | 7h3h4ckv157 | [Read More](https://medium.com/p/114b736c83ed) |
+| Sun, 17 Aug 2025 13:59:27 GMT | Perbedaan Cyber Security dan Data Privacy: Panduan Lengkap untuk Pemula | handev.code | [Read More](https://medium.com/p/2ddc71928fd1) |
+| Sun, 17 Aug 2025 13:57:44 GMT | ⛲The Parable of the Three Fountains — and the Future of Our Digital Cities | ‍ JustaskPenny | [Read More](https://medium.com/p/cb589da35105) |
+| Sun, 17 Aug 2025 13:53:55 GMT | Hunting the Hunters: Setting Up a Honeypot with AWS Free Tier and TPot | RootRouteway | [Read More](https://medium.com/p/d0c4e458f291) |
+| Sun, 17 Aug 2025 13:46:01 GMT | Pickle Rick -Tryhackme CTF walk through | Muhammad Ahsan Ijaz | [Read More](https://medium.com/p/0e7b4ab7ebf3) |
+| Sun, 17 Aug 2025 13:45:32 GMT | EDR não é escudo mágico: o risco invisível dos ransomware killers | Tiago Peliçari | [Read More](https://medium.com/p/688f4ab8189e) |
 | Sun, 17 Aug 2025 13:41:29 GMT | How to Create a Life You Love | Vijay Kumar Gupta | [Read More](https://medium.com/p/1a0375e443e4) |
 | Sun, 17 Aug 2025 13:39:32 GMT | Cerita(d)in | arsftri | [Read More](https://medium.com/p/85f167e1af01) |
 | Sun, 17 Aug 2025 13:35:45 GMT | Picking the Best Indoor Security Camera: A Simple Guide | Jirkos Finds | [Read More](https://medium.com/p/abc43f2506f0) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 07:41:31 GMT | SoupeDecode01 — THM AD Box Writeup | Avyukt Security | [Read More](https://medium.com/p/6d18c8db6237) |
 | Sun, 17 Aug 2025 07:31:02 GMT | Bitmine’s ETH strategy. | ELL io | [Read More](https://medium.com/p/36302690f893) |
 | Sun, 17 Aug 2025 07:27:32 GMT | Monitoring Attacks with Honeypots: Real Log Analysis | Esra Kayhan | [Read More](https://medium.com/p/ce222e692128) |
-| Sun, 17 Aug 2025 07:23:38 GMT | Linux Processes Explained Like You’re Explaining Netflix to a Caveman | MayhemCode | [Read More](https://medium.com/p/b803fa2dee31) |
-| Sun, 17 Aug 2025 07:20:47 GMT | Drosera Network: Rethinking DeFi Security and Governance | Akande | [Read More](https://medium.com/p/9f87a4042ade) |
-| Sun, 17 Aug 2025 07:11:47 GMT | ROP (Return Oriented Programming) and Modern Exploit Techniques | Esra Kayhan | [Read More](https://medium.com/p/46cf3ab8130b) |
-| Sun, 17 Aug 2025 07:08:49 GMT | Phishing Analysis: A Blue Team Labs Challenge Writeup | Udaynambissan | [Read More](https://medium.com/p/29dd9904ab2c) |
-| Sun, 17 Aug 2025 07:04:41 GMT | Affiliate Program for Paid AI Jobs | Zoolyoly | [Read More](https://medium.com/p/849817b4a07c) |
-| Sun, 17 Aug 2025 07:01:59 GMT | Cada funcionalidad es una promesa: ¿la cumple para todos? | Gorka | [Read More](https://medium.com/p/9125ef7b7e92) |
-| Sun, 17 Aug 2025 07:01:28 GMT | Addressing Common Docker Security Vulnerabilities | @rnab | [Read More](https://medium.com/p/9de2332a32de) |
-| Sun, 17 Aug 2025 07:00:05 GMT | Should You Choose Cybersecurity as a Career? | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/dfae522603bd) |
-| Sun, 17 Aug 2025 07:00:05 GMT | “Pls Donate” schemes leads to stolen Robux through simple Lua scripts | Haitham Aljabbari | [Read More](https://medium.com/p/ad57d8496566) |
-| Sun, 17 Aug 2025 06:55:38 GMT | Advancing Data Privacy and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/9d182fee961f) |
