@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 04:17:13 GMT | Inside an Infostealer Breach — How One Compromised Endpoint Exposed a Credit Card Giant | David SEHYEON Baek | [Read More](https://medium.com/p/ee29678e8503) |
+| Sun, 17 Aug 2025 04:15:03 GMT | iPhone Users: Truecaller Call Recording Ban Update Explained | Ivy Kelly | [Read More](https://medium.com/p/2065b24a17e2) |
+| Sun, 17 Aug 2025 04:00:58 GMT | What Exactly is Cyber Protection? (And Why AI Companies Keep Talking About It) | Wong Ke Ming | [Read More](https://medium.com/p/2fc49b5c7948) |
+| Sun, 17 Aug 2025 03:53:29 GMT | MadeYouReset Attack: The New Threat to HTTP/2 Servers | The UNFILTERED Draft | [Read More](https://medium.com/p/22e0a41218cb) |
+| Sun, 17 Aug 2025 03:44:14 GMT | Just bought Shodan Lifetime Membership for $5 | AbhirupKonwar | [Read More](https://medium.com/p/fef8a9b8de2d) |
+| Sun, 17 Aug 2025 03:39:05 GMT | SLERF Migration Details | Slerf coin | [Read More](https://medium.com/p/68be273d9423) |
+| Sun, 17 Aug 2025 03:37:32 GMT | Protecting Your Data: A Simple Guide to Digital Privacy in the AI Age | Yatin | [Read More](https://medium.com/p/3d9b6dafeff1) |
+| Sun, 17 Aug 2025 03:36:43 GMT | Hashing vs Encryption vs Encoding: Real-World Differences You Must Know | err0rgod | [Read More](https://medium.com/p/e1e340a020ca) |
+| Sun, 17 Aug 2025 03:31:49 GMT | How a Simple PATH Misconfiguration Gave Researchers Root Access in Microsoft Copilot’s Python… | Deven Chhajed | [Read More](https://medium.com/p/08d1402e9540) |
 | Sun, 17 Aug 2025 03:19:17 GMT | Threat Hunting: Building Threat-Informed Defence in Your SOC | Arachne Digital | [Read More](https://medium.com/p/c323d4ca5408) |
 | Sun, 17 Aug 2025 03:12:11 GMT | Hello World | Winson | [Read More](https://medium.com/p/3eb3b4258880) |
 | Sun, 17 Aug 2025 03:11:03 GMT | When Your Car Unlocks for Strangers | Aj | [Read More](https://medium.com/p/b22efcb24c4f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 18:39:17 GMT | This Travel Hack Could Save Your Lungs in Polluted Cities | Marc Ford | [Read More](https://medium.com/p/a669a533a66a) |
 | Sat, 16 Aug 2025 18:37:54 GMT | My First Steps into Hacking: A Beginner’s Journey | Gouri Nandana J | [Read More](https://medium.com/p/4d370e59447a) |
 | Sat, 16 Aug 2025 18:37:36 GMT | Join The Hacking Life! Become a Writer For a GHB! | NnFace | [Read More](https://medium.com/p/35c8e59bb05e) |
-| Sat, 16 Aug 2025 18:37:32 GMT | The Castle Is Crumbling: Why Security Must Think Like an Airport | maelidrissiattach | [Read More](https://medium.com/p/05e8f4506585) |
-| Sat, 16 Aug 2025 18:31:31 GMT | Fluffy Write-up - HackTheBox - Season 8 | debang5hu | [Read More](https://medium.com/p/1fd0b3ff4adf) |
-| Sat, 16 Aug 2025 18:27:27 GMT | Secure Access Service Edge (SASE): A Modern Approach to Network Security | Raviteja Mureboina | [Read More](https://medium.com/p/ed5cee0a33b1) |
-| Sat, 16 Aug 2025 18:27:14 GMT | Chrome’s $250,000 Bug: Why Sandbox Escapes Are a Big Deal | Liran Nachman | [Read More](https://medium.com/p/4f87dd99ebf7) |
-| Sat, 16 Aug 2025 18:25:12 GMT | Prompt Chaining Looks Seamless, but It Isn’t Necessarily Safe | Sewar Khalifeh | [Read More](https://medium.com/p/ba4c37709901) |
-| Sat, 16 Aug 2025 18:19:28 GMT | 2. Why Weak Passwords Are Dangerous | Tahaazeemguestblogger | [Read More](https://medium.com/p/99fb99ee085c) |
-| Sat, 16 Aug 2025 18:09:58 GMT | Gmail Phishing Attacks: A Growing Threat to Digital Trust | Chetan Seripally | [Read More](https://medium.com/p/7b7b2966b14f) |
-| Sat, 16 Aug 2025 18:00:46 GMT | Google Pays $250,000 Bounty for Chrome Sandbox Escape Vulnerability | Chetan Seripally | [Read More](https://medium.com/p/58f79644112f) |
-| Sat, 16 Aug 2025 18:00:23 GMT | I have always worn my trauma on the outside of me as my weight, visible to the world. | Coco Densmore | [Read More](https://medium.com/p/4dd0e816b100) |
