@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 13:41:29 GMT | How to Create a Life You Love | Vijay Kumar Gupta | [Read More](https://medium.com/p/1a0375e443e4) |
+| Sun, 17 Aug 2025 13:39:32 GMT | Cerita(d)in | arsftri | [Read More](https://medium.com/p/85f167e1af01) |
+| Sun, 17 Aug 2025 13:35:45 GMT | Picking the Best Indoor Security Camera: A Simple Guide | Jirkos Finds | [Read More](https://medium.com/p/abc43f2506f0) |
+| Sun, 17 Aug 2025 13:34:53 GMT | Business Technology News: The Best Printers Of 2025 | Gene Marks | [Read More](https://medium.com/p/88783f48577e) |
+| Sun, 17 Aug 2025 13:29:53 GMT | Stored XSS in episode notes allows for account takeover | Ahmed Mahmoud | [Read More](https://medium.com/p/c6c333a07575) |
+| Sun, 17 Aug 2025 13:27:49 GMT | Cybersecurity Basics for Students: Stay Safe Online | Rosemary Lark | [Read More](https://medium.com/p/6921b5dc1547) |
 | Sun, 17 Aug 2025 13:22:08 GMT | IDS ve IPS Sistemleri: Tespitten Önlemeye | Hacercaliskan | [Read More](https://medium.com/p/ff116a1fadaf) |
 | Sun, 17 Aug 2025 13:17:33 GMT | Data Protection in SOC: Log Anonymization and Masking | Esra Kayhan | [Read More](https://medium.com/p/a2377d7e740f) |
 | Sun, 17 Aug 2025 13:08:46 GMT | How Exposed TeslaMate Instances Leak Sensitive Tesla Data | Seyfullah KILIÇ | [Read More](https://medium.com/p/80bedd123166) |
@@ -108,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 07:00:05 GMT | Should You Choose Cybersecurity as a Career? | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/dfae522603bd) |
 | Sun, 17 Aug 2025 07:00:05 GMT | “Pls Donate” schemes leads to stolen Robux through simple Lua scripts | Haitham Aljabbari | [Read More](https://medium.com/p/ad57d8496566) |
 | Sun, 17 Aug 2025 06:55:38 GMT | Advancing Data Privacy and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/9d182fee961f) |
-| Sun, 17 Aug 2025 06:49:59 GMT | Nocturnal Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/171acadd1d6b) |
-| Sun, 17 Aug 2025 06:41:44 GMT | Logs: The Missing Clue in Every Major Hack | Soumalya De | [Read More](https://medium.com/p/5f1fe2913be8) |
-| Sun, 17 Aug 2025 06:37:46 GMT | Cybersecurity for Non-Techies | Aj | [Read More](https://medium.com/p/45107fdd0202) |
-| Sun, 17 Aug 2025 06:34:23 GMT | Language Models and Computer Security: An In-Depth Analysis with Practical Examples | Hacker Art | [Read More](https://medium.com/p/c66d5452656c) |
-| Sun, 17 Aug 2025 06:28:18 GMT | TryHackMe Light Walkthrough — SQL Injection Challenge | buGGy | [Read More](https://medium.com/p/d8cc0c587140) |
-| Sun, 17 Aug 2025 06:27:04 GMT | Email Marketing Success for Cybersecurity Brands | Muhammad Adenowo | [Read More](https://medium.com/p/639ac79a98f1) |
