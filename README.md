@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 01:36:46 GMT | The Hybrid Future of GRC Engineering — Part 1: The Maturity Shift | Varun Gurnaney | [Read More](https://medium.com/p/d41e5b526b52) |
+| Sun, 17 Aug 2025 01:17:39 GMT | Understanding Isolation: A Key Technique for Ensuring CIA in Cybersecurity | Raviteja Mureboina | [Read More](https://medium.com/p/99483376bf39) |
+| Sun, 17 Aug 2025 01:09:37 GMT | Securing Smart Contract Supply Chains: Best Practices for Attack Minimization | Dilum Bandara | [Read More](https://medium.com/p/cbce5d2b136e) |
+| Sun, 17 Aug 2025 00:57:34 GMT | Quadrinhos: Segurança Digital em Prosa | Café Com Firewall | [Read More](https://medium.com/p/52b89cc28fc3) |
+| Sun, 17 Aug 2025 00:44:28 GMT | UUID 7 Is Awesome — Now You Can Sort! | Probir Sarkar | [Read More](https://medium.com/p/3f200af9b3f6) |
+| Sun, 17 Aug 2025 00:42:38 GMT | Bridging the Civic Engagement Gap: What Indigenous Societies Can Teach Us About Democracy | Andrew James Walls | [Read More](https://medium.com/p/665671e9ac92) |
+| Sun, 17 Aug 2025 00:34:01 GMT | Source Code Audit Checklist: Best Practices for Secure Code | Shanmuga priya | [Read More](https://medium.com/p/a3b1521041e4) |
+| Sun, 17 Aug 2025 00:32:43 GMT | Understanding Bounds: A Technique to Ensure Confidentiality, Integrity, and Availability (CIA) in… | Raviteja Mureboina | [Read More](https://medium.com/p/f8c6469b7438) |
+| Sun, 17 Aug 2025 00:30:38 GMT | Huge Shame for India: 80+ Indian Websites Hacked By ULFA United Liberation Front of Asom on… | Patrick Jason | [Read More](https://medium.com/p/b352fdbfdd6c) |
+| Sun, 17 Aug 2025 00:11:44 GMT | Why Your NoSQL Database Might Be Holding You Back | Rizqi Mulki | [Read More](https://medium.com/p/8a1a60115360) |
+| Sun, 17 Aug 2025 00:08:49 GMT | CORS Bypass in popular opensource library | Raghav Agrawal | [Read More](https://medium.com/p/ad27fb41e16a) |
+| Sun, 17 Aug 2025 00:08:02 GMT | From Zero to Hero: How We Secured Our Stack in a Week | Rizqi Mulki | [Read More](https://medium.com/p/247adb931f0f) |
+| Sun, 17 Aug 2025 00:02:34 GMT | Case Study: Scaling a SaaS App to 100K Users | Rizqi Mulki | [Read More](https://medium.com/p/fd3ee2af909e) |
+| Sat, 16 Aug 2025 23:48:11 GMT | Ensuring CIA in Cybersecurity: The Role of Confinement | Raviteja Mureboina | [Read More](https://medium.com/p/f78ba86fa8b6) |
+| Sat, 16 Aug 2025 23:47:50 GMT | Flagged and Loaded: Spotting PowerShell Abuse | Shantaciak | [Read More](https://medium.com/p/274b864ab444) |
+| Sat, 16 Aug 2025 23:44:33 GMT | Git Selective Ignore: Because Sometimes You Need to Keep Secrets from Git (But Not From Yourself) | Satyajit Roy | [Read More](https://medium.com/p/e986725dc489) |
+| Sat, 16 Aug 2025 23:36:06 GMT | Toughness Is Not What You Think It Is | Carlos Simpson | [Read More](https://medium.com/p/46ba552d9e3d) |
+| Sat, 16 Aug 2025 23:31:56 GMT | Henüz İşlenmemiş Suçun Peşinde Bir Teknoloji: Palantir | Mirkan Dinçbay | [Read More](https://medium.com/p/14412cba27c4) |
 | Sat, 16 Aug 2025 23:01:33 GMT | Let’s Break JWTs for Fun and Profit. | Afwan Mulia Pratama | [Read More](https://medium.com/p/84eca5be579c) |
 | Sat, 16 Aug 2025 22:59:53 GMT | Life-Changing Magic of Lowering Your Expectations | Maria Arshad | [Read More](https://medium.com/p/b7e7801a02b7) |
 | Sat, 16 Aug 2025 22:59:20 GMT | The Psychology of a Phishing Victim | Aj | [Read More](https://medium.com/p/2cc7dbe89bd5) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 17:03:35 GMT | Most AI-Written Code Online Already Has Bugs | Sanjeevani Bhandari | [Read More](https://medium.com/p/28859782b178) |
 | Sat, 16 Aug 2025 17:03:27 GMT | IOC (Indicator of Compromise) | Jameel Khan | [Read More](https://medium.com/p/afbb5ad21926) |
 | Sat, 16 Aug 2025 16:57:25 GMT | How I Built My Cloud Security Learning Path in 2025 (Beginner-Friendly) | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/6d0b81cc867b) |
-| Sat, 16 Aug 2025 16:57:08 GMT | Disclose Page Admins via Facebook Appointments | Ramzy Bouyahya | [Read More](https://medium.com/p/4925b899e79a) |
-| Sat, 16 Aug 2025 16:57:04 GMT | Linux Privilege Escalation Via Sudo Shell Escaping,Part 6. | Muhammadhuzaifa | [Read More](https://medium.com/p/3915b369ee2f) |
-| Sat, 16 Aug 2025 16:53:06 GMT | $750 Bug Bounty: The Story of a Hidden Discount Code in JS Files. | Tanvir Ahmed | [Read More](https://medium.com/p/1a39bbecff27) |
-| Sat, 16 Aug 2025 16:52:25 GMT | “Day 13: The Phantom Dependency Threat — How an Abandoned npm Package Almost Broke the Web” | Aman Sharma | [Read More](https://medium.com/p/b60155a56d9a) |
-| Sat, 16 Aug 2025 16:51:27 GMT | Understanding Access Management Mechanisms: A Simple Guide | Abdul Ahad | [Read More](https://medium.com/p/b2e8d3d5d007) |
-| Sat, 16 Aug 2025 16:46:50 GMT | Olay Analizi ve Sistem Kurtarma Raporu: BTRFS Dosya Sistemi Bozulması | Alp Ulkegul | [Read More](https://medium.com/p/7251f02b16e3) |
-| Sat, 16 Aug 2025 16:46:47 GMT | How I Found a $3000 IDOR Vulnerability in a Delivery App | Medusa | [Read More](https://medium.com/p/d15167b6f963) |
-| Sat, 16 Aug 2025 16:46:34 GMT | Disclosing Private Group Members via Facebook Rooms | Ramzy Bouyahya | [Read More](https://medium.com/p/d2e805ac8441) |
-| Sat, 16 Aug 2025 16:39:30 GMT | Cryptography Lesson: Notebook 1 — AES ECB (Electronic Codebook) | Baris Dincer | [Read More](https://medium.com/p/5baabcedfa59) |
-| Sat, 16 Aug 2025 16:37:21 GMT | How Hackers Use Deepfakes to Trick You!! And Why You Should Be Worried | Rue | [Read More](https://medium.com/p/68623d0b204e) |
-| Sat, 16 Aug 2025 16:33:44 GMT | Security Vulnerabilities in IIT KGP Web Applications | svt_root | [Read More](https://medium.com/p/bef99bd42755) |
-| Sat, 16 Aug 2025 16:32:00 GMT | How I Found a $3000 IDOR Vulnerability in a Delivery App | Medusa | [Read More](https://medium.com/p/185cf83445ab) |
-| Sat, 16 Aug 2025 16:26:04 GMT | XSS Escape backticks (`) — Strings/Template literals | popalltheshells | [Read More](https://medium.com/p/92b3f31b37a8) |
-| Sat, 16 Aug 2025 16:23:28 GMT | Ali’s ComptiA+ class reviews | Ali Musayev | [Read More](https://medium.com/p/5b55b2518b07) |
-| Sat, 16 Aug 2025 16:21:19 GMT | Chasing Our Weaknesses | Nuri Sencer | [Read More](https://medium.com/p/b07b536f7ff4) |
-| Sat, 16 Aug 2025 16:19:41 GMT | From Static to Dynamic: How AI Can Rewrite the Role of Enterprise Architecture | Sunil Singh | [Read More](https://medium.com/p/f8315a3eb7ff) |
-| Sat, 16 Aug 2025 16:18:11 GMT | AI Without Gatekeepers: The Rise of PAI3 Nodes | The Executive | [Read More](https://medium.com/p/ed7b2a9c0eb2) |
-| Sat, 16 Aug 2025 16:17:48 GMT | Exploiting IDOR and Base64 Weakness in bWAPP with Burp Suite | Srimanta Mondal | [Read More](https://medium.com/p/5d847da13dcf) |
