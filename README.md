@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 15:18:42 GMT | Eternal American Prosperity Protocol (EAPP) Enforces Neural Network Legibility | Grapheneaffiliates | [Read More](https://medium.com/p/0cba9b126dd8) |
 | Sun, 17 Aug 2025 15:13:44 GMT | Security Without Support: Leading Change When Leadership Moves Too Fast | Richard M. Mcmullin | [Read More](https://medium.com/p/4ab2dc97b319) |
 | Sun, 17 Aug 2025 15:13:29 GMT | Planning -HackTheBox(Writeup) | JonSnowHere | [Read More](https://medium.com/p/9e5fda846b73) |
 | Sun, 17 Aug 2025 15:03:07 GMT | This Changed My Entire Life | Waqar | [Read More](https://medium.com/p/9f161ac82e47) |
@@ -113,4 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 09:05:55 GMT | I Passed Security+ SY0–701 in 3 Hours of Review. | Lucky ApeX | [Read More](https://medium.com/p/6c5b18ec424b) |
 | Sun, 17 Aug 2025 09:04:40 GMT | The AWS Secret That Watches From the Shadows | Alex Joyel Raj - Cyber Howler | [Read More](https://medium.com/p/1fbb7c3fd7f6) |
 | Sun, 17 Aug 2025 08:50:18 GMT | How to Automate Cloud Security Workflows Using AWS Step Functions | Sena Yakut | [Read More](https://medium.com/p/9033aa4ae63a) |
-| Sun, 17 Aug 2025 08:47:09 GMT | Preparation — The Backbone of Incident Response  (TryHackMe Room Walkthrough) | Furkanctiner | [Read More](https://medium.com/p/9c6e74095655) |
