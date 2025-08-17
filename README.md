@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 16:46:49 GMT | Simple 2FA Bypass PortSwigger Writeup: How I Used This Method for a Real-Time Bug and Earned $2,500 | Mukilan Baskaran | [Read More](https://medium.com/p/d18b5e317c3a) |
+| Sun, 17 Aug 2025 16:46:15 GMT | Top 100 SQL Injection Payloads (Complete List for 2025) | Pratham Shah | [Read More](https://medium.com/p/9f9ba2d2790a) |
+| Sun, 17 Aug 2025 16:37:28 GMT | Wireshark Nedir? Nasıl Kullanılır? Ne İşe Yarar? — Kapsamlı Rehber | Enis Buğra Akada | [Read More](https://medium.com/p/9341649ce5ae) |
+| Sun, 17 Aug 2025 16:31:58 GMT | TLS/SSL Handshake – Detailed Explanation | Devaduthsaji | [Read More](https://medium.com/p/88224c1e4f66) |
+| Sun, 17 Aug 2025 16:31:32 GMT | Best Practices for Secure Smart Contract Development | Kaushalsinh | [Read More](https://medium.com/p/7a11f70468b3) |
+| Sun, 17 Aug 2025 16:23:23 GMT | Beyond alert(“XSS”): What I Learned About XSS After Finding It | CSCF-SUIET MUKKA | [Read More](https://medium.com/p/9638fb698241) |
+| Sun, 17 Aug 2025 16:19:00 GMT | BurpSuite Lab: Indirect Prompt Injection | Aditya Bhatt | [Read More](https://medium.com/p/ede31eb75bee) |
 | Sun, 17 Aug 2025 16:16:56 GMT | A Symbiotic Relationship with AI | Alva Roberts | [Read More](https://medium.com/p/31707d29a225) |
 | Sun, 17 Aug 2025 16:10:53 GMT | [THM] Tryhackme — Mother’s Secret Writeup | ViraSecurity | [Read More](https://medium.com/p/26b9e1ced218) |
 | Sun, 17 Aug 2025 16:01:57 GMT | PicoCTF 2025: head-dump — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/c2abd568a078) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 10:25:42 GMT | Week 2 of My 90-Day Challenge: Tools, Frameworks, and a Ton of Labs! | Mike (sl0th0x87) | [Read More](https://medium.com/p/5c9cdfffc180) |
 | Sun, 17 Aug 2025 10:13:19 GMT | Small Scope Recon in Pentesting: How to Do More with Less | Aribaafroz | [Read More](https://medium.com/p/90dc36336b43) |
 | Sun, 17 Aug 2025 10:07:52 GMT | Predicate Pushdown Demystified: From Power Query Folding to Starburst EXPLAIN Plans | Tharashasank D | [Read More](https://medium.com/p/09bb5c6a5d63) |
-| Sun, 17 Aug 2025 09:57:54 GMT | How to Protect Against Cyber Fraud A Practical Guide for the Digital Age | Land2Cyber | [Read More](https://medium.com/p/80552b53a554) |
-| Sun, 17 Aug 2025 09:56:50 GMT | Web Shells Explained - TryHackMe Detecting Web Shells | Motasem Hamdan | [Read More](https://medium.com/p/1df5df28224f) |
-| Sun, 17 Aug 2025 09:56:06 GMT | Why Phishing Still Works in 2025: A Story of One Click | Shubhambilgi | [Read More](https://medium.com/p/33601f5b6b34) |
-| Sun, 17 Aug 2025 09:46:14 GMT | Understanding Flash USDT: A Quick Insight | Sebika | [Read More](https://medium.com/p/0dbf93264a55) |
-| Sun, 17 Aug 2025 09:34:30 GMT | Cyber Insurance Premiums Drop in the U.S. | Oleg Parashchak | [Read More](https://medium.com/p/166954d85113) |
-| Sun, 17 Aug 2025 09:27:57 GMT | PickleRick-THM | Mohit Sharma | [Read More](https://medium.com/p/376f064ba365) |
-| Sun, 17 Aug 2025 09:27:43 GMT | The Only CompTIA Security+ (880/900) Guide You’ll Need to Pass | Mayank Sharma | [Read More](https://medium.com/p/1f903c71f77a) |
