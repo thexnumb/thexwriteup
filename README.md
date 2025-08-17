@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 21:11:37 GMT | Introductory Networking | Anthony Mazyck | [Read More](https://medium.com/p/de7fe94d3330) |
+| Sun, 17 Aug 2025 21:07:03 GMT | Internet and the World Wide Web (intro to ICT) | Aanya Ali | [Read More](https://medium.com/p/59a79cd33c62) |
+| Sun, 17 Aug 2025 21:01:29 GMT | I Found a Critical XSS Everyone Missed | Ibtissam hammadi | [Read More](https://medium.com/p/16dd284919c9) |
+| Sun, 17 Aug 2025 20:51:58 GMT | AI vs. AI: The Cyber Arms Race | Yashasvi Sharma | [Read More](https://medium.com/p/b17c54ac7633) |
+| Sun, 17 Aug 2025 20:48:57 GMT | CyberTalents: CTBank writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/3ead4bdf24b1) |
+| Sun, 17 Aug 2025 20:38:10 GMT | How Hackers Really Crack Passwords — And How to Stop Them | Thomas Joseph | [Read More](https://medium.com/p/eedeee14b886) |
 | Sun, 17 Aug 2025 20:11:46 GMT | Securing PHP APIs with OAuth2, JWT, and Rate Limiting: A Complete Guide | Ann R. | [Read More](https://medium.com/p/c0db021f081f) |
 | Sun, 17 Aug 2025 20:11:40 GMT | Techniques for Ensuring Confidentiality, Integrity, and Availability (CIA) in Secure Systems | Raviteja Mureboina | [Read More](https://medium.com/p/d8ab95d2a23e) |
 | Sun, 17 Aug 2025 20:04:41 GMT | ️ ProtonVPN vs Mullvad vs IVPN vs NordVPN vs Surfshark: The Real No-Log VPNs Worth Your Money in… | BiyteLüm | [Read More](https://medium.com/p/0bff142220e8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 14:06:40 GMT | The ‘Ministry of Deception’: AI Made Up a Government Statement During a Live IT Blackout today. | Berend Watchus | [Read More](https://medium.com/p/6653a8959b6c) |
 | Sun, 17 Aug 2025 14:01:56 GMT | Did I Handle It Well, or Just Hide It Well? | skyeca | [Read More](https://medium.com/p/d1c276d56c82) |
 | Sun, 17 Aug 2025 13:59:52 GMT | The Mind Hacking (Alter Ego): Switching Personalities as a Predator | 7h3h4ckv157 | [Read More](https://medium.com/p/114b736c83ed) |
-| Sun, 17 Aug 2025 13:59:27 GMT | Perbedaan Cyber Security dan Data Privacy: Panduan Lengkap untuk Pemula | handev.code | [Read More](https://medium.com/p/2ddc71928fd1) |
-| Sun, 17 Aug 2025 13:57:44 GMT | ⛲The Parable of the Three Fountains — and the Future of Our Digital Cities | ‍ JustaskPenny | [Read More](https://medium.com/p/cb589da35105) |
-| Sun, 17 Aug 2025 13:53:55 GMT | Hunting the Hunters: Setting Up a Honeypot with AWS Free Tier and TPot | RootRouteway | [Read More](https://medium.com/p/d0c4e458f291) |
-| Sun, 17 Aug 2025 13:46:01 GMT | Pickle Rick -Tryhackme CTF walk through | Muhammad Ahsan Ijaz | [Read More](https://medium.com/p/0e7b4ab7ebf3) |
-| Sun, 17 Aug 2025 13:45:32 GMT | EDR não é escudo mágico: o risco invisível dos ransomware killers | Tiago Peliçari | [Read More](https://medium.com/p/688f4ab8189e) |
-| Sun, 17 Aug 2025 13:41:29 GMT | How to Create a Life You Love | Vijay Kumar Gupta | [Read More](https://medium.com/p/1a0375e443e4) |
