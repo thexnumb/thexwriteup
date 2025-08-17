@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 20:11:46 GMT | Securing PHP APIs with OAuth2, JWT, and Rate Limiting: A Complete Guide | Ann R. | [Read More](https://medium.com/p/c0db021f081f) |
+| Sun, 17 Aug 2025 20:11:40 GMT | Techniques for Ensuring Confidentiality, Integrity, and Availability (CIA) in Secure Systems | Raviteja Mureboina | [Read More](https://medium.com/p/d8ab95d2a23e) |
+| Sun, 17 Aug 2025 20:04:41 GMT | ️ ProtonVPN vs Mullvad vs IVPN vs NordVPN vs Surfshark: The Real No-Log VPNs Worth Your Money in… | BiyteLüm | [Read More](https://medium.com/p/0bff142220e8) |
+| Sun, 17 Aug 2025 20:01:42 GMT | A Critical Look at ARGUS: The Promise and Pitfalls of a Single-Unit Security Solution | Berend Watchus | [Read More](https://medium.com/p/c80eb9607161) |
+| Sun, 17 Aug 2025 20:00:32 GMT | Breaking the Correlated LFSR Stream Cipher: Correlation Attacks | Vishwas Adhikari | [Read More](https://medium.com/p/b402d1d13417) |
+| Sun, 17 Aug 2025 19:47:32 GMT | I reached out to Hack Zack Tech, and from the very first conversation | Sarah Kimberly Williams | [Read More](https://medium.com/p/5f049ffc60f6) |
+| Sun, 17 Aug 2025 19:31:57 GMT | # Strategic Synthesis of Autonomous Agentic AI, Legal Frameworks, Educational Innovation, and… | Brandonzid | [Read More](https://medium.com/p/96df9cf21ee6) |
 | Sun, 17 Aug 2025 19:29:59 GMT | Hacking APIs: Exploiting WebSockets Insecure Implementations | Israel Aráoz Severiche | [Read More](https://medium.com/p/a69cba59b0ad) |
 | Sun, 17 Aug 2025 19:26:24 GMT | SOC Threat Detection Lab | Salmaan Ahmed Mustapha | [Read More](https://medium.com/p/3371a72dc722) |
 | Sun, 17 Aug 2025 19:26:05 GMT | ﷽ | Ammar yasser shoeib | [Read More](https://medium.com/p/b3205aa78fbb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 13:46:01 GMT | Pickle Rick -Tryhackme CTF walk through | Muhammad Ahsan Ijaz | [Read More](https://medium.com/p/0e7b4ab7ebf3) |
 | Sun, 17 Aug 2025 13:45:32 GMT | EDR não é escudo mágico: o risco invisível dos ransomware killers | Tiago Peliçari | [Read More](https://medium.com/p/688f4ab8189e) |
 | Sun, 17 Aug 2025 13:41:29 GMT | How to Create a Life You Love | Vijay Kumar Gupta | [Read More](https://medium.com/p/1a0375e443e4) |
-| Sun, 17 Aug 2025 13:39:32 GMT | Cerita(d)in | arsftri | [Read More](https://medium.com/p/85f167e1af01) |
-| Sun, 17 Aug 2025 13:35:45 GMT | Picking the Best Indoor Security Camera: A Simple Guide | Jirkos Finds | [Read More](https://medium.com/p/abc43f2506f0) |
-| Sun, 17 Aug 2025 13:34:53 GMT | Business Technology News: The Best Printers Of 2025 | Gene Marks | [Read More](https://medium.com/p/88783f48577e) |
-| Sun, 17 Aug 2025 13:29:53 GMT | Stored XSS in episode notes allows for account takeover | Ahmed Mahmoud | [Read More](https://medium.com/p/c6c333a07575) |
-| Sun, 17 Aug 2025 13:27:49 GMT | Cybersecurity Basics for Students: Stay Safe Online | Rosemary Lark | [Read More](https://medium.com/p/6921b5dc1547) |
-| Sun, 17 Aug 2025 13:22:08 GMT | IDS ve IPS Sistemleri: Tespitten Önlemeye | Hacercaliskan | [Read More](https://medium.com/p/ff116a1fadaf) |
-| Sun, 17 Aug 2025 13:17:33 GMT | Data Protection in SOC: Log Anonymization and Masking | Esra Kayhan | [Read More](https://medium.com/p/a2377d7e740f) |
