@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 13:22:08 GMT | IDS ve IPS Sistemleri: Tespitten Önlemeye | Hacercaliskan | [Read More](https://medium.com/p/ff116a1fadaf) |
+| Sun, 17 Aug 2025 13:17:33 GMT | Data Protection in SOC: Log Anonymization and Masking | Esra Kayhan | [Read More](https://medium.com/p/a2377d7e740f) |
+| Sun, 17 Aug 2025 13:08:46 GMT | How Exposed TeslaMate Instances Leak Sensitive Tesla Data | Seyfullah KILIÇ | [Read More](https://medium.com/p/80bedd123166) |
+| Sun, 17 Aug 2025 13:06:15 GMT | Stopping a Phishing Scam with AI | Toshi & Mina(AI) LAB | [Read More](https://medium.com/p/208175186a44) |
+| Sun, 17 Aug 2025 13:02:43 GMT | Social Engineering Reconnaissance: A Beginner’s Guide for Ethical Hackers | Waqas Akram | [Read More](https://medium.com/p/7fd6b7f497ea) |
+| Sun, 17 Aug 2025 13:01:48 GMT | Drosera: Rethinking Security in Crypto | Moh | [Read More](https://medium.com/p/b122fd52a4fa) |
+| Sun, 17 Aug 2025 12:59:08 GMT | I break into things.
+ I write it all down.
+ And somehow, that’s called a career. | Tucson Safari | [Read More](https://medium.com/p/534ddf7cb8e8) |
+| Sun, 17 Aug 2025 12:55:42 GMT | Assume Privileged Role with External ID- Walkthrough | @@ru$hi | [Read More](https://medium.com/p/b6375d9fb1b4) |
+| Sun, 17 Aug 2025 12:54:39 GMT | Networking Basics for Cybersecurity: A Beginner’s Guide | Waqas Akram | [Read More](https://medium.com/p/07cc1e4638ff) |
+| Sun, 17 Aug 2025 12:54:27 GMT | How long does it take to crack a password website? | Tahaazeemguestblogger | [Read More](https://medium.com/p/b26fde38945d) |
+| Sun, 17 Aug 2025 12:51:17 GMT | How to Choose a Secure Password: Easy Guide to Create Strong Password | Tahaazeemguestblogger | [Read More](https://medium.com/p/2e309839d877) |
+| Sun, 17 Aug 2025 12:47:35 GMT | Wiz x Cloud Security Championship: Perimeter Leak - Walkthrough | Mostafa Hussein | [Read More](https://medium.com/p/e79b1944f4fa) |
+| Sun, 17 Aug 2025 12:45:21 GMT | It’s August… Are You Still Letting Digital Clutter Slow You Down? | SupportXDR | [Read More](https://medium.com/p/c14dce008ebd) |
+| Sun, 17 Aug 2025 12:43:38 GMT | The Hidden Scam Economy: How Cheap Business Services Fuel Fraud | Internet Exposed | [Read More](https://medium.com/p/6d9a634a9f0d) |
 | Sun, 17 Aug 2025 12:31:41 GMT | Elastic EDR Zero-Day: When Your Security Tool Becomes the Weapon | Liran Nachman | [Read More](https://medium.com/p/c57b4f2b0ab4) |
 | Sun, 17 Aug 2025 12:31:22 GMT | A Simple Guide to Security Service Edge (SSE) in Cybersecurity | Abdul Ahad | [Read More](https://medium.com/p/6b9087811867) |
 | Sun, 17 Aug 2025 12:30:48 GMT | CyberTalents: Search in Trash writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/b2964b755292) |
@@ -98,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 06:34:23 GMT | Language Models and Computer Security: An In-Depth Analysis with Practical Examples | Hacker Art | [Read More](https://medium.com/p/c66d5452656c) |
 | Sun, 17 Aug 2025 06:28:18 GMT | TryHackMe Light Walkthrough — SQL Injection Challenge | buGGy | [Read More](https://medium.com/p/d8cc0c587140) |
 | Sun, 17 Aug 2025 06:27:04 GMT | Email Marketing Success for Cybersecurity Brands | Muhammad Adenowo | [Read More](https://medium.com/p/639ac79a98f1) |
-| Sun, 17 Aug 2025 06:25:53 GMT | From CFO to Hacker: The High Cost of Identity Theft in Business | ComsignTrust LTD | [Read More](https://medium.com/p/63f9245bf2ce) |
-| Sun, 17 Aug 2025 06:21:28 GMT | Securing Modern Applications with Trivy: A Complete Guide | Varun Thantry | [Read More](https://medium.com/p/b25382002a4c) |
-| Sun, 17 Aug 2025 06:17:48 GMT | Top 10 Reasons to Learn Cybersecurity in India 2025 | Manisha Chaudhary | [Read More](https://medium.com/p/d57a49d47685) |
-| Sun, 17 Aug 2025 06:17:00 GMT | How to Use Amass | Dhruv | [Read More](https://medium.com/p/2d5409f46ed8) |
-| Sun, 17 Aug 2025 06:16:12 GMT | How to Train Your Own LLM for Malware Analysis (Using GPT-4o) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/9c489c0b802f) |
-| Sun, 17 Aug 2025 06:09:25 GMT | AWS Certificate Manager Gains PrivateLink for Secure Access | Mark Carriedo | [Read More](https://medium.com/p/6f590f1b4035) |
-| Sun, 17 Aug 2025 06:03:12 GMT | 5 Essential Cybersecurity Tips for Staying Safe Online | Ikpendu Samuel | [Read More](https://medium.com/p/5b8b329baec1) |
-| Sun, 17 Aug 2025 06:02:34 GMT | JavaScript leads to Admin | SIDDHANT SHUKLA | [Read More](https://medium.com/p/f7afecc21d02) |
-| Sun, 17 Aug 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Aug 17, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c282c5e326ba) |
-| Sun, 17 Aug 2025 05:58:15 GMT | The Hidden Risk of Non-HttpOnly Cookies — and How I Found One | Amitishacked | [Read More](https://medium.com/p/382eebec998f) |
-| Sun, 17 Aug 2025 05:51:29 GMT | My First 150 Days Bug Bounty Hunting | 3NVZ | [Read More](https://medium.com/p/034623c89836) |
-| Sun, 17 Aug 2025 05:45:17 GMT | ndroid Hackers Are Spying on Your Phone — Here’s How to Protect Yourself | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/04a1302642af) |
-| Sun, 17 Aug 2025 05:41:55 GMT | Vamp Byte #1 — What is a Favicon Hash in OSINT? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/daf0279ad129) |
-| Sun, 17 Aug 2025 05:36:39 GMT | Protect Your Spring Boot Application from Vulnerabilities with OWASP Dependency-Check | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/fcda57c00d3b) |
