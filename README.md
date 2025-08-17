@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 15:13:44 GMT | Security Without Support: Leading Change When Leadership Moves Too Fast | Richard M. Mcmullin | [Read More](https://medium.com/p/4ab2dc97b319) |
+| Sun, 17 Aug 2025 15:13:29 GMT | Planning -HackTheBox(Writeup) | JonSnowHere | [Read More](https://medium.com/p/9e5fda846b73) |
+| Sun, 17 Aug 2025 15:03:07 GMT | This Changed My Entire Life | Waqar | [Read More](https://medium.com/p/9f161ac82e47) |
+| Sun, 17 Aug 2025 15:00:54 GMT | HTB Walkthrough : Meow Machine(Telnet) | Ahmad Sopyan | [Read More](https://medium.com/p/5abb5202043f) |
+| Sun, 17 Aug 2025 14:57:42 GMT | Mobile Patrols vs. Static Guards: Why Movement Matters in Edmonton Security | Nimmi Xheikh | [Read More](https://medium.com/p/5aecdaaf57bf) |
+| Sun, 17 Aug 2025 14:53:54 GMT | TryHackMe Walkthrough - Soupedecode 01 | Fagu Ram | [Read More](https://medium.com/p/6af34247bcd4) |
+| Sun, 17 Aug 2025 14:51:47 GMT | Ultimate Guide to Cyber Security Solutions for Cloud Infrastructure (With SentryPC) | Paul Meyer | [Read More](https://medium.com/p/be5e18e0aa3c) |
+| Sun, 17 Aug 2025 14:51:46 GMT | Brute Forcing HTTP/HTTPS Login Forms with Hydra — A Detailed Guide | GauthamV | [Read More](https://medium.com/p/4b8f00fc5e88) |
+| Sun, 17 Aug 2025 14:45:21 GMT | Github CI/CD pipeline with Nodejs, SonarCloud & Snyk integration | Piyali Das | [Read More](https://medium.com/p/bf4bd086d86d) |
+| Sun, 17 Aug 2025 14:43:55 GMT | cloudsecuritychampionship — Contain Me If You Can | Idlefirepentest | [Read More](https://medium.com/p/09d9e6ae2a16) |
+| Sun, 17 Aug 2025 14:43:30 GMT | Understand- Nmap: The Basics Commands and Examples for Network Security | Polash Mridha | [Read More](https://medium.com/p/2e79b72b8382) |
+| Sun, 17 Aug 2025 14:40:56 GMT | Can you love me naked? | Johann | [Read More](https://medium.com/p/b515193900d9) |
 | Sun, 17 Aug 2025 14:37:05 GMT | Pakistan-Russia Relationsin the New World (dis)order:Policy Options | Javairyah Kulthum Aatif | [Read More](https://medium.com/p/0e91b75da62b) |
 | Sun, 17 Aug 2025 14:36:05 GMT | Boot → Shell → Root: Escalating Privileges on TryHackMe Lookup | Adwaith S | [Read More](https://medium.com/p/ba928921ed22) |
 | Sun, 17 Aug 2025 14:30:10 GMT | Email Header Analysis | Allen Ace | [Read More](https://medium.com/p/fef73b0b1af2) |
@@ -102,15 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 09:04:40 GMT | The AWS Secret That Watches From the Shadows | Alex Joyel Raj - Cyber Howler | [Read More](https://medium.com/p/1fbb7c3fd7f6) |
 | Sun, 17 Aug 2025 08:50:18 GMT | How to Automate Cloud Security Workflows Using AWS Step Functions | Sena Yakut | [Read More](https://medium.com/p/9033aa4ae63a) |
 | Sun, 17 Aug 2025 08:47:09 GMT | Preparation — The Backbone of Incident Response  (TryHackMe Room Walkthrough) | Furkanctiner | [Read More](https://medium.com/p/9c6e74095655) |
-| Sun, 17 Aug 2025 08:44:09 GMT | การ setup rediretor ให้กับ c2 ด้วย aws cloudfront | Nattawat Songsom | [Read More](https://medium.com/p/b29f939f6635) |
-| Sun, 17 Aug 2025 08:38:44 GMT | Trade The New IP Cold War: Notes From a Founder on the Front Lines | Wissamdouglas | [Read More](https://medium.com/p/14776b63333c) |
-| Sun, 17 Aug 2025 08:34:33 GMT | Building a Secure Password Generator — One Toggle at a Time | Pauline Liu | [Read More](https://medium.com/p/fa82f555a77b) |
-| Sun, 17 Aug 2025 08:33:05 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 1 Walkthrough | Mabdullahbinkhalid | [Read More](https://medium.com/p/e293c5a948eb) |
-| Sun, 17 Aug 2025 08:27:31 GMT | Cybersecurity is Critical for Safety | Kathy Husser | [Read More](https://medium.com/p/6fa14ca34d7e) |
-| Sun, 17 Aug 2025 08:26:25 GMT | CIS Controls: Checking and Securing Open Ports - Part 2 | Hammad Zahid | [Read More](https://medium.com/p/fa69a092e575) |
-| Sun, 17 Aug 2025 08:25:18 GMT | Top 15 Linux Commands Every User Must Master | cyber security Updates | [Read More](https://medium.com/p/745334322d04) |
-| Sun, 17 Aug 2025 08:24:54 GMT | HackTheBox — Artificial Machine Writeup | Yagan120gb | [Read More](https://medium.com/p/6609572b5541) |
-| Sun, 17 Aug 2025 08:21:55 GMT | CyberTalents: Bean writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/55198610cc48) |
-| Sun, 17 Aug 2025 08:09:29 GMT | Global vs Nonlocal in Python Explained Simply with Examples | Ajaymaurya | [Read More](https://medium.com/p/c58d0dfb001d) |
-| Sun, 17 Aug 2025 08:06:56 GMT | Leading Software Development Service Providers in Dallas: Building the Future of Tech | Eyaminakash | [Read More](https://medium.com/p/df81903845fd) |
-| Sun, 17 Aug 2025 07:52:18 GMT | API08:2023 — Security Misconfiguration | Suhel Kathi | [Read More](https://medium.com/p/298132fc08d6) |
