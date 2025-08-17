@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 07:27:32 GMT | Monitoring Attacks with Honeypots: Real Log Analysis | Esra Kayhan | [Read More](https://medium.com/p/ce222e692128) |
+| Sun, 17 Aug 2025 07:23:38 GMT | Linux Processes Explained Like You’re Explaining Netflix to a Caveman | MayhemCode | [Read More](https://medium.com/p/b803fa2dee31) |
+| Sun, 17 Aug 2025 07:20:47 GMT | Drosera Network: Rethinking DeFi Security and Governance | Akande | [Read More](https://medium.com/p/9f87a4042ade) |
 | Sun, 17 Aug 2025 07:11:47 GMT | ROP (Return Oriented Programming) and Modern Exploit Techniques | Esra Kayhan | [Read More](https://medium.com/p/46cf3ab8130b) |
 | Sun, 17 Aug 2025 07:08:49 GMT | Phishing Analysis: A Blue Team Labs Challenge Writeup | Udaynambissan | [Read More](https://medium.com/p/29dd9904ab2c) |
 | Sun, 17 Aug 2025 07:04:41 GMT | Affiliate Program for Paid AI Jobs | Zoolyoly | [Read More](https://medium.com/p/849817b4a07c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 21:59:05 GMT | CAN I GET MY LOST OR SCAMMED BITCOIN BACK? YES, MALICE CYBER RECOVERY WILL HELP YOU OUT. | Sebastien Lefevre | [Read More](https://medium.com/p/ec5071a55190) |
 | Sat, 16 Aug 2025 21:33:22 GMT | Networking & the Internet | Aanya Ali | [Read More](https://medium.com/p/cde10e1f7b67) |
 | Sat, 16 Aug 2025 21:31:30 GMT | Intro to ICT — Data & Information | Aanya Ali | [Read More](https://medium.com/p/aa1704be872d) |
-| Sat, 16 Aug 2025 21:27:32 GMT | Kindled Desire | NRWillick | [Read More](https://medium.com/p/91a7c2635f54) |
-| Sat, 16 Aug 2025 21:22:28 GMT | Cyber Reputation Subscription | Alan W. Silberberg | [Read More](https://medium.com/p/3cb15ba6c8d8) |
-| Sat, 16 Aug 2025 21:16:08 GMT | I Built a SQL Injection That Bypassed Every WAF | Ibtissam hammadi | [Read More](https://medium.com/p/01bee29f2d84) |
