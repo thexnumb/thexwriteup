@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 08:47:09 GMT | Preparation — The Backbone of Incident Response  (TryHackMe Room Walkthrough) | Furkanctiner | [Read More](https://medium.com/p/9c6e74095655) |
+| Sun, 17 Aug 2025 08:44:09 GMT | การ setup rediretor ให้กับ c2 ด้วย aws cloudfront | Nattawat Songsom | [Read More](https://medium.com/p/b29f939f6635) |
+| Sun, 17 Aug 2025 08:33:05 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 1 Walkthrough | Mabdullahbinkhalid | [Read More](https://medium.com/p/e293c5a948eb) |
+| Sun, 17 Aug 2025 08:27:31 GMT | Cybersecurity is Critical for Safety | Kathy Husser | [Read More](https://medium.com/p/6fa14ca34d7e) |
+| Sun, 17 Aug 2025 08:26:25 GMT | CIS Controls: Checking and Securing Open Ports - Part 2 | Hammad Zahid | [Read More](https://medium.com/p/fa69a092e575) |
+| Sun, 17 Aug 2025 08:25:18 GMT | Top 15 Linux Commands Every User Must Master | cyber security Updates | [Read More](https://medium.com/p/745334322d04) |
+| Sun, 17 Aug 2025 08:24:54 GMT | HackTheBox — Artificial Machine Writeup | Yagan120gb | [Read More](https://medium.com/p/6609572b5541) |
 | Sun, 17 Aug 2025 08:21:55 GMT | CyberTalents: Bean writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/55198610cc48) |
 | Sun, 17 Aug 2025 08:09:29 GMT | Global vs Nonlocal in Python Explained Simply with Examples | Ajaymaurya | [Read More](https://medium.com/p/c58d0dfb001d) |
 | Sun, 17 Aug 2025 08:06:56 GMT | Leading Software Development Service Providers in Dallas: Building the Future of Tech | Eyaminakash | [Read More](https://medium.com/p/df81903845fd) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 23:44:33 GMT | Git Selective Ignore: Because Sometimes You Need to Keep Secrets from Git (But Not From Yourself) | Satyajit Roy | [Read More](https://medium.com/p/e986725dc489) |
 | Sat, 16 Aug 2025 23:36:06 GMT | Toughness Is Not What You Think It Is | Carlos Simpson | [Read More](https://medium.com/p/46ba552d9e3d) |
 | Sat, 16 Aug 2025 23:31:56 GMT | Henüz İşlenmemiş Suçun Peşinde Bir Teknoloji: Palantir | Mirkan Dinçbay | [Read More](https://medium.com/p/14412cba27c4) |
-| Sat, 16 Aug 2025 23:01:33 GMT | Let’s Break JWTs for Fun and Profit. | Afwan Mulia Pratama | [Read More](https://medium.com/p/84eca5be579c) |
-| Sat, 16 Aug 2025 22:59:53 GMT | Life-Changing Magic of Lowering Your Expectations | Maria Arshad | [Read More](https://medium.com/p/b7e7801a02b7) |
-| Sat, 16 Aug 2025 22:59:20 GMT | The Psychology of a Phishing Victim | Aj | [Read More](https://medium.com/p/2cc7dbe89bd5) |
-| Sat, 16 Aug 2025 22:57:01 GMT | How Lava Lamps Help Protect the Internet | Noorzaib Munawar Chohan | [Read More](https://medium.com/p/abfc1f703e14) |
-| Sat, 16 Aug 2025 22:53:25 GMT | Beyond the Playbook: Evolving Blue, Red, and Purple Teaming in Modern Cybersecurity Operations | Richard Dosumu | [Read More](https://medium.com/p/9dbd91317eeb) |
-| Sat, 16 Aug 2025 22:53:12 GMT | The Stranger in My Wi-Fi | Shahzaib | [Read More](https://medium.com/p/77d6253b5880) |
-| Sat, 16 Aug 2025 22:51:01 GMT | The Phishing Series: Responding to Successful Attacks | Norman Kolarikkal | [Read More](https://medium.com/p/9a741b72f092) |
