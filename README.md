@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 14:37:05 GMT | Pakistan-Russia Relationsin the New World (dis)order:Policy Options | Javairyah Kulthum Aatif | [Read More](https://medium.com/p/0e91b75da62b) |
+| Sun, 17 Aug 2025 14:36:05 GMT | Boot → Shell → Root: Escalating Privileges on TryHackMe Lookup | Adwaith S | [Read More](https://medium.com/p/ba928921ed22) |
+| Sun, 17 Aug 2025 14:30:10 GMT | Email Header Analysis | Allen Ace | [Read More](https://medium.com/p/fef73b0b1af2) |
+| Sun, 17 Aug 2025 14:25:27 GMT | From Scripts to Prompts: The Next Wave of AI in Cyber Ops | LetMeDayDream | [Read More](https://medium.com/p/5d745faec032) |
+| Sun, 17 Aug 2025 14:21:33 GMT | Bug Bounty: Insecure File Upload — The Silent Backdoor You Didn’t Notice! | Rajkumar Kumawat | [Read More](https://medium.com/p/f8627eeb3e1d) |
 | Sun, 17 Aug 2025 14:14:01 GMT | How I Found a Broken Access Control in a Job Application API | Amrgomaa | [Read More](https://medium.com/p/72f083b8c113) |
 | Sun, 17 Aug 2025 14:08:16 GMT | How to Find SQL Injection Flaws with Burp Suite | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/69ea96b618b0) |
 | Sun, 17 Aug 2025 14:06:40 GMT | The ‘Ministry of Deception’: AI Made Up a Government Statement During a Live IT Blackout today. | Berend Watchus | [Read More](https://medium.com/p/6653a8959b6c) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 08:09:29 GMT | Global vs Nonlocal in Python Explained Simply with Examples | Ajaymaurya | [Read More](https://medium.com/p/c58d0dfb001d) |
 | Sun, 17 Aug 2025 08:06:56 GMT | Leading Software Development Service Providers in Dallas: Building the Future of Tech | Eyaminakash | [Read More](https://medium.com/p/df81903845fd) |
 | Sun, 17 Aug 2025 07:52:18 GMT | API08:2023 — Security Misconfiguration | Suhel Kathi | [Read More](https://medium.com/p/298132fc08d6) |
-| Sun, 17 Aug 2025 07:50:56 GMT | Neighbour - Try Hack Me CTF | Adhith Pb | [Read More](https://medium.com/p/a984f1c550ad) |
-| Sun, 17 Aug 2025 07:46:00 GMT | CRLF Injection in Symfony: Detect, Exploit & Fix | Pentest_Testing_Corp | [Read More](https://medium.com/p/5d3bdf9bb9b5) |
-| Sun, 17 Aug 2025 07:41:31 GMT | SoupeDecode01 — THM AD Box Writeup | Avyukt Security | [Read More](https://medium.com/p/6d18c8db6237) |
-| Sun, 17 Aug 2025 07:31:02 GMT | Bitmine’s ETH strategy. | ELL io | [Read More](https://medium.com/p/36302690f893) |
-| Sun, 17 Aug 2025 07:27:32 GMT | Monitoring Attacks with Honeypots: Real Log Analysis | Esra Kayhan | [Read More](https://medium.com/p/ce222e692128) |
