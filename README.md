@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 05:09:41 GMT | Rising Cyber Crimes in India: Why Awareness is the First Line of Defense | Ashish Agrawal | [Read More](https://medium.com/p/13bbdebffc1b) |
+| Sun, 17 Aug 2025 05:05:23 GMT | Server-side Template Injection in an Unknown Language with a Documented Exploit | Bash Overflow | [Read More](https://medium.com/p/1890eb486513) |
+| Sun, 17 Aug 2025 05:02:53 GMT | The Castle Is Crumbling: Why Security Must Think Like an Airport | Ahmed EL IDRISSI | [Read More](https://medium.com/p/89058579bca7) |
+| Sun, 17 Aug 2025 04:45:58 GMT | How AI is Changing the Cybersecurity Game | Abida Adra | [Read More](https://medium.com/p/e27ebca90e93) |
+| Sun, 17 Aug 2025 04:43:24 GMT | Subdomain Takeover: ช่องโหว่เล็กที่อาจทำให้เว็บคุณกลายเป็นเว็บพนันในชั่วข้ามคืน | Neng Apichet | [Read More](https://medium.com/p/bd4849d732f2) |
+| Sun, 17 Aug 2025 04:39:27 GMT | The Library of the Future: How Polymath Thinking Will Redefine Knowledge in the Age of AI | Inayat Hussain | [Read More](https://medium.com/p/a31e19b01660) |
+| Sun, 17 Aug 2025 04:38:25 GMT | How the ChatGPT-5 Launch Redefines SEO, Marketing, and Work? | Ella Hall | [Read More](https://medium.com/p/cdef1afbacbb) |
+| Sun, 17 Aug 2025 04:33:31 GMT | “Like Lights, We Break Quietly.” | eeoeuoua | [Read More](https://medium.com/p/663efc4bbe18) |
+| Sun, 17 Aug 2025 04:25:03 GMT | The $5 Million Bounty Hunt for Crypto’s Shadow Bankers | Aj | [Read More](https://medium.com/p/fc3331b25f72) |
 | Sun, 17 Aug 2025 04:17:13 GMT | Inside an Infostealer Breach — How One Compromised Endpoint Exposed a Credit Card Giant | David SEHYEON Baek | [Read More](https://medium.com/p/ee29678e8503) |
 | Sun, 17 Aug 2025 04:15:03 GMT | iPhone Users: Truecaller Call Recording Ban Update Explained | Ivy Kelly | [Read More](https://medium.com/p/2065b24a17e2) |
 | Sun, 17 Aug 2025 04:00:58 GMT | What Exactly is Cyber Protection? (And Why AI Companies Keep Talking About It) | Wong Ke Ming | [Read More](https://medium.com/p/2fc49b5c7948) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 19:07:04 GMT | Reverse Engineering for (CTF)-001 | N1sh | [Read More](https://medium.com/p/94419c0ba8e4) |
 | Sat, 16 Aug 2025 19:05:45 GMT | Why SocialBox.Biz is London’s Unique Solution for Secure IT Reuse Before Recycling | laptops donations before recycling in london-uk | [Read More](https://medium.com/p/f71dce4caf32) |
 | Sat, 16 Aug 2025 19:05:15 GMT | Hacking, Virtual Machines,Linux and Networking | Vinayak D | [Read More](https://medium.com/p/980b25cd5ccc) |
-| Sat, 16 Aug 2025 18:56:47 GMT | Wavlink-WN530G3A-Cmd-Injection | ice-wzl | [Read More](https://medium.com/p/dfb06c1433c5) |
-| Sat, 16 Aug 2025 18:50:32 GMT | Update Now or Pay Later: The Wild Journey of a Leaked Cyberweapon | Ayush Kumar Saxena | [Read More](https://medium.com/p/a9a8807cfac6) |
-| Sat, 16 Aug 2025 18:50:06 GMT | Building Secure Software: Why Information Security Can’t Be an Afterthought | Okan Yurt | [Read More](https://medium.com/p/53ae45dc1007) |
-| Sat, 16 Aug 2025 18:45:59 GMT | การ setup Mythic เป็น c2 server บน ec2 | Nattawat Songsom | [Read More](https://medium.com/p/078d6e79fe08) |
-| Sat, 16 Aug 2025 18:41:03 GMT | Protect your Online Business with these 3 Cybersecurity Tools | Jeosantos | [Read More](https://medium.com/p/9cdd9444302c) |
-| Sat, 16 Aug 2025 18:40:34 GMT | When Scammers Steal Homes: The Rising Threat of Home Title Fraud | Internet Exposed | [Read More](https://medium.com/p/9e733e25b946) |
-| Sat, 16 Aug 2025 18:39:17 GMT | This Travel Hack Could Save Your Lungs in Polluted Cities | Marc Ford | [Read More](https://medium.com/p/a669a533a66a) |
-| Sat, 16 Aug 2025 18:37:54 GMT | My First Steps into Hacking: A Beginner’s Journey | Gouri Nandana J | [Read More](https://medium.com/p/4d370e59447a) |
-| Sat, 16 Aug 2025 18:37:36 GMT | Join The Hacking Life! Become a Writer For a GHB! | NnFace | [Read More](https://medium.com/p/35c8e59bb05e) |
