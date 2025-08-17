@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 09:18:06 GMT | LockBit’s Disguise: How Ransomware Hides in Trusted Applications | Meni Tasa | [Read More](https://medium.com/p/5f36af3127db) |
+| Sun, 17 Aug 2025 09:07:44 GMT | Today I’m Being Vulnerable, Honest But I’m Afraid I’m not The Victim | Frank Gallagher, Ph.C. | [Read More](https://medium.com/p/7d67601c37e5) |
+| Sun, 17 Aug 2025 09:05:55 GMT | I Passed Security+ SY0–701 in 3 Hours of Review. | Lucky ApeX | [Read More](https://medium.com/p/6c5b18ec424b) |
+| Sun, 17 Aug 2025 09:04:40 GMT | The AWS Secret That Watches From the Shadows | Alex Joyel Raj - Cyber Howler | [Read More](https://medium.com/p/1fbb7c3fd7f6) |
+| Sun, 17 Aug 2025 08:50:18 GMT | How to Automate Cloud Security Workflows Using AWS Step Functions | Sena Yakut | [Read More](https://medium.com/p/9033aa4ae63a) |
 | Sun, 17 Aug 2025 08:47:09 GMT | Preparation — The Backbone of Incident Response  (TryHackMe Room Walkthrough) | Furkanctiner | [Read More](https://medium.com/p/9c6e74095655) |
 | Sun, 17 Aug 2025 08:44:09 GMT | การ setup rediretor ให้กับ c2 ด้วย aws cloudfront | Nattawat Songsom | [Read More](https://medium.com/p/b29f939f6635) |
+| Sun, 17 Aug 2025 08:38:44 GMT | Trade The New IP Cold War: Notes From a Founder on the Front Lines | Wissamdouglas | [Read More](https://medium.com/p/14776b63333c) |
+| Sun, 17 Aug 2025 08:34:33 GMT | Building a Secure Password Generator — One Toggle at a Time | Pauline Liu | [Read More](https://medium.com/p/fa82f555a77b) |
 | Sun, 17 Aug 2025 08:33:05 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 1 Walkthrough | Mabdullahbinkhalid | [Read More](https://medium.com/p/e293c5a948eb) |
 | Sun, 17 Aug 2025 08:27:31 GMT | Cybersecurity is Critical for Safety | Kathy Husser | [Read More](https://medium.com/p/6fa14ca34d7e) |
 | Sun, 17 Aug 2025 08:26:25 GMT | CIS Controls: Checking and Securing Open Ports - Part 2 | Hammad Zahid | [Read More](https://medium.com/p/fa69a092e575) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 00:30:38 GMT | Huge Shame for India: 80+ Indian Websites Hacked By ULFA United Liberation Front of Asom on… | Patrick Jason | [Read More](https://medium.com/p/b352fdbfdd6c) |
 | Sun, 17 Aug 2025 00:11:44 GMT | Why Your NoSQL Database Might Be Holding You Back | Rizqi Mulki | [Read More](https://medium.com/p/8a1a60115360) |
 | Sun, 17 Aug 2025 00:08:49 GMT | CORS Bypass in popular opensource library | Raghav Agrawal | [Read More](https://medium.com/p/ad27fb41e16a) |
-| Sun, 17 Aug 2025 00:08:02 GMT | From Zero to Hero: How We Secured Our Stack in a Week | Rizqi Mulki | [Read More](https://medium.com/p/247adb931f0f) |
-| Sun, 17 Aug 2025 00:02:34 GMT | Case Study: Scaling a SaaS App to 100K Users | Rizqi Mulki | [Read More](https://medium.com/p/fd3ee2af909e) |
-| Sat, 16 Aug 2025 23:48:11 GMT | Ensuring CIA in Cybersecurity: The Role of Confinement | Raviteja Mureboina | [Read More](https://medium.com/p/f78ba86fa8b6) |
-| Sat, 16 Aug 2025 23:47:50 GMT | Flagged and Loaded: Spotting PowerShell Abuse | Shantaciak | [Read More](https://medium.com/p/274b864ab444) |
-| Sat, 16 Aug 2025 23:44:33 GMT | Git Selective Ignore: Because Sometimes You Need to Keep Secrets from Git (But Not From Yourself) | Satyajit Roy | [Read More](https://medium.com/p/e986725dc489) |
-| Sat, 16 Aug 2025 23:36:06 GMT | Toughness Is Not What You Think It Is | Carlos Simpson | [Read More](https://medium.com/p/46ba552d9e3d) |
-| Sat, 16 Aug 2025 23:31:56 GMT | Henüz İşlenmemiş Suçun Peşinde Bir Teknoloji: Palantir | Mirkan Dinçbay | [Read More](https://medium.com/p/14412cba27c4) |
