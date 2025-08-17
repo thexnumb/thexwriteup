@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 21:20:50 GMT | A Developer‘s Crash Course in Cryptography, Part 2: Frequency Analysis and the Vigenère Cipher | Steinwendner Matthias | [Read More](https://medium.com/p/54da3997c28b) |
+| Sun, 17 Aug 2025 21:18:00 GMT | SOC140 — Phishing Mail Detected — Suspicious Task Scheduler | TH3LILJ4NN47 | [Read More](https://medium.com/p/325b0ac187b6) |
 | Sun, 17 Aug 2025 21:11:37 GMT | Introductory Networking | Anthony Mazyck | [Read More](https://medium.com/p/de7fe94d3330) |
 | Sun, 17 Aug 2025 21:07:03 GMT | Internet and the World Wide Web (intro to ICT) | Aanya Ali | [Read More](https://medium.com/p/59a79cd33c62) |
 | Sun, 17 Aug 2025 21:01:29 GMT | I Found a Critical XSS Everyone Missed | Ibtissam hammadi | [Read More](https://medium.com/p/16dd284919c9) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 14:14:01 GMT | How I Found a Broken Access Control in a Job Application API | Amrgomaa | [Read More](https://medium.com/p/72f083b8c113) |
 | Sun, 17 Aug 2025 14:08:16 GMT | How to Find SQL Injection Flaws with Burp Suite | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/69ea96b618b0) |
 | Sun, 17 Aug 2025 14:06:40 GMT | The ‘Ministry of Deception’: AI Made Up a Government Statement During a Live IT Blackout today. | Berend Watchus | [Read More](https://medium.com/p/6653a8959b6c) |
-| Sun, 17 Aug 2025 14:01:56 GMT | Did I Handle It Well, or Just Hide It Well? | skyeca | [Read More](https://medium.com/p/d1c276d56c82) |
-| Sun, 17 Aug 2025 13:59:52 GMT | The Mind Hacking (Alter Ego): Switching Personalities as a Predator | 7h3h4ckv157 | [Read More](https://medium.com/p/114b736c83ed) |
