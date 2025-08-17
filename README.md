@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 08:21:55 GMT | CyberTalents: Bean writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/55198610cc48) |
+| Sun, 17 Aug 2025 08:09:29 GMT | Global vs Nonlocal in Python Explained Simply with Examples | Ajaymaurya | [Read More](https://medium.com/p/c58d0dfb001d) |
+| Sun, 17 Aug 2025 08:06:56 GMT | Leading Software Development Service Providers in Dallas: Building the Future of Tech | Eyaminakash | [Read More](https://medium.com/p/df81903845fd) |
+| Sun, 17 Aug 2025 07:52:18 GMT | API08:2023 — Security Misconfiguration | Suhel Kathi | [Read More](https://medium.com/p/298132fc08d6) |
+| Sun, 17 Aug 2025 07:50:56 GMT | Neighbour - Try Hack Me CTF | Adhith Pb | [Read More](https://medium.com/p/a984f1c550ad) |
+| Sun, 17 Aug 2025 07:46:00 GMT | CRLF Injection in Symfony: Detect, Exploit & Fix | Pentest_Testing_Corp | [Read More](https://medium.com/p/5d3bdf9bb9b5) |
+| Sun, 17 Aug 2025 07:41:31 GMT | SoupeDecode01 — THM AD Box Writeup | Avyukt Security | [Read More](https://medium.com/p/6d18c8db6237) |
+| Sun, 17 Aug 2025 07:31:02 GMT | Bitmine’s ETH strategy. | ELL io | [Read More](https://medium.com/p/36302690f893) |
 | Sun, 17 Aug 2025 07:27:32 GMT | Monitoring Attacks with Honeypots: Real Log Analysis | Esra Kayhan | [Read More](https://medium.com/p/ce222e692128) |
 | Sun, 17 Aug 2025 07:23:38 GMT | Linux Processes Explained Like You’re Explaining Netflix to a Caveman | MayhemCode | [Read More](https://medium.com/p/b803fa2dee31) |
 | Sun, 17 Aug 2025 07:20:47 GMT | Drosera Network: Rethinking DeFi Security and Governance | Akande | [Read More](https://medium.com/p/9f87a4042ade) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 22:53:25 GMT | Beyond the Playbook: Evolving Blue, Red, and Purple Teaming in Modern Cybersecurity Operations | Richard Dosumu | [Read More](https://medium.com/p/9dbd91317eeb) |
 | Sat, 16 Aug 2025 22:53:12 GMT | The Stranger in My Wi-Fi | Shahzaib | [Read More](https://medium.com/p/77d6253b5880) |
 | Sat, 16 Aug 2025 22:51:01 GMT | The Phishing Series: Responding to Successful Attacks | Norman Kolarikkal | [Read More](https://medium.com/p/9a741b72f092) |
-| Sat, 16 Aug 2025 22:42:39 GMT | Diamond Model — TryHackMe Walkthrough | Genrunic | [Read More](https://medium.com/p/ae7ecd1564fc) |
-| Sat, 16 Aug 2025 22:39:14 GMT | Anti-Forensic Techniques to Cover Your Tracks, Part 2 | Ian Barwise | [Read More](https://medium.com/p/b2d1db816c81) |
-| Sat, 16 Aug 2025 22:18:55 GMT | Penetration Test Report: Athena (TryHackMe) | Faysal Dhimbil | [Read More](https://medium.com/p/b4494f559f0a) |
-| Sat, 16 Aug 2025 22:17:46 GMT | BYOD Security: Balancing Flexibility and Control | Karthikeyan Nagaraj | [Read More](https://medium.com/p/1a10b0be0b13) |
-| Sat, 16 Aug 2025 22:13:58 GMT | Inter-Component Communication (ICC) Vulnerabilities in Android | Amar Kumar | [Read More](https://medium.com/p/19ecf6e7f6f1) |
-| Sat, 16 Aug 2025 21:59:05 GMT | CAN I GET MY LOST OR SCAMMED BITCOIN BACK? YES, MALICE CYBER RECOVERY WILL HELP YOU OUT. | Sebastien Lefevre | [Read More](https://medium.com/p/ec5071a55190) |
-| Sat, 16 Aug 2025 21:33:22 GMT | Networking & the Internet | Aanya Ali | [Read More](https://medium.com/p/cde10e1f7b67) |
-| Sat, 16 Aug 2025 21:31:30 GMT | Intro to ICT — Data & Information | Aanya Ali | [Read More](https://medium.com/p/aa1704be872d) |
