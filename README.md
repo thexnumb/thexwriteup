@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 06:27:04 GMT | Email Marketing Success for Cybersecurity Brands | Muhammad Adenowo | [Read More](https://medium.com/p/639ac79a98f1) |
+| Sun, 17 Aug 2025 06:25:53 GMT | From CFO to Hacker: The High Cost of Identity Theft in Business | ComsignTrust LTD | [Read More](https://medium.com/p/63f9245bf2ce) |
+| Sun, 17 Aug 2025 06:21:28 GMT | Securing Modern Applications with Trivy: A Complete Guide | Varun Thantry | [Read More](https://medium.com/p/b25382002a4c) |
+| Sun, 17 Aug 2025 06:17:48 GMT | Top 10 Reasons to Learn Cybersecurity in India 2025 | Manisha Chaudhary | [Read More](https://medium.com/p/d57a49d47685) |
+| Sun, 17 Aug 2025 06:17:00 GMT | How to Use Amass | Dhruv | [Read More](https://medium.com/p/2d5409f46ed8) |
+| Sun, 17 Aug 2025 06:16:12 GMT | How to Train Your Own LLM for Malware Analysis (Using GPT-4o) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/9c489c0b802f) |
+| Sun, 17 Aug 2025 06:09:25 GMT | AWS Certificate Manager Gains PrivateLink for Secure Access | Mark Carriedo | [Read More](https://medium.com/p/6f590f1b4035) |
+| Sun, 17 Aug 2025 06:03:12 GMT | 5 Essential Cybersecurity Tips for Staying Safe Online | Ikpendu Samuel | [Read More](https://medium.com/p/5b8b329baec1) |
+| Sun, 17 Aug 2025 06:02:34 GMT | JavaScript leads to Admin | SIDDHANT SHUKLA | [Read More](https://medium.com/p/f7afecc21d02) |
+| Sun, 17 Aug 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Aug 17, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c282c5e326ba) |
+| Sun, 17 Aug 2025 05:58:15 GMT | The Hidden Risk of Non-HttpOnly Cookies — and How I Found One | Amitishacked | [Read More](https://medium.com/p/382eebec998f) |
+| Sun, 17 Aug 2025 05:51:29 GMT | My First 150 Days Bug Bounty Hunting | 3NVZ | [Read More](https://medium.com/p/034623c89836) |
+| Sun, 17 Aug 2025 05:45:17 GMT | ndroid Hackers Are Spying on Your Phone — Here’s How to Protect Yourself | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/04a1302642af) |
 | Sun, 17 Aug 2025 05:41:55 GMT | Vamp Byte #1 — What is a Favicon Hash in OSINT? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/daf0279ad129) |
 | Sun, 17 Aug 2025 05:36:39 GMT | Protect Your Spring Boot Application from Vulnerabilities with OWASP Dependency-Check | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/fcda57c00d3b) |
 | Sun, 17 Aug 2025 05:33:43 GMT | Security 101 for Web3 Startups | Thi Nguyen | [Read More](https://medium.com/p/751f237171c8) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 20:33:54 GMT | home network | akili | [Read More](https://medium.com/p/009839ca21e3) |
 | Sat, 16 Aug 2025 20:32:37 GMT | What Is AI? A Simple Guide to Narrow AI, General AI & Superintelligence | Staytechscs | [Read More](https://medium.com/p/52e9ec56e67f) |
 | Sat, 16 Aug 2025 20:30:24 GMT | AI Unleashed: Understanding the 3 Main Types of Artificial Intelligence | Staytechscs | [Read More](https://medium.com/p/df60f5979d16) |
-| Sat, 16 Aug 2025 20:29:10 GMT | Backup Log Wazuh Otomatis ke Server Remote | Haldian | [Read More](https://medium.com/p/5477afd0fe39) |
-| Sat, 16 Aug 2025 20:28:48 GMT | From Colonial Gatherings to Digital Democracy: The Evolution of Town Hall Meetings | Emily Benham | [Read More](https://medium.com/p/46a7eef6f253) |
-| Sat, 16 Aug 2025 20:21:41 GMT | My first serious security vulnerability report | Paul Lam | [Read More](https://medium.com/p/2eae7ace537d) |
-| Sat, 16 Aug 2025 20:19:56 GMT | How to install the Bloodhound GUI | Steve Aiello | [Read More](https://medium.com/p/cd8106daac4e) |
-| Sat, 16 Aug 2025 20:12:46 GMT | CyberTalents: Strength Calculator writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/2f69c52dc38f) |
-| Sat, 16 Aug 2025 19:59:46 GMT | Linux Privilege Escalation Via Intended Functionality, Part 7: | Muhammadhuzaifa | [Read More](https://medium.com/p/8fade1fa1ad7) |
-| Sat, 16 Aug 2025 19:54:13 GMT | The Only Drawback of Python — The GIL which kills concept of Threading | err0rgod | [Read More](https://medium.com/p/872effe7eec9) |
-| Sat, 16 Aug 2025 19:47:03 GMT | Hunting Vulnerabilities: My Deep-Dive into Nessus Vulnerability Management | Michael Berry | [Read More](https://medium.com/p/7f2a6579381e) |
-| Sat, 16 Aug 2025 19:34:39 GMT | Android Malware abusing ZIP and XML parameters | HexNinja | [Read More](https://medium.com/p/e86c11d46e2c) |
-| Sat, 16 Aug 2025 19:33:32 GMT | The Things Left Unsaid Between Us | Ink Within | [Read More](https://medium.com/p/7ab5f8a1290f) |
-| Sat, 16 Aug 2025 19:32:11 GMT | How to Deploy a Wazuh Manager Cloud Server | Raynard Waits | [Read More](https://medium.com/p/de73936425c2) |
-| Sat, 16 Aug 2025 19:26:42 GMT | The Looming Threat of AI-Powered Malware: Could Machines Out-Hack Us? | Dark Tech Insights | [Read More](https://medium.com/p/5ea3e0a9cfd5) |
-| Sat, 16 Aug 2025 19:23:40 GMT | How I Turned a Simple OAuth Bug Into a One-Click Account Takeover | srx | [Read More](https://medium.com/p/d8ac8f4c149f) |
