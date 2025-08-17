@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 03:19:17 GMT | Threat Hunting: Building Threat-Informed Defence in Your SOC | Arachne Digital | [Read More](https://medium.com/p/c323d4ca5408) |
+| Sun, 17 Aug 2025 03:12:11 GMT | Hello World | Winson | [Read More](https://medium.com/p/3eb3b4258880) |
+| Sun, 17 Aug 2025 03:11:03 GMT | When Your Car Unlocks for Strangers | Aj | [Read More](https://medium.com/p/b22efcb24c4f) |
+| Sun, 17 Aug 2025 03:05:04 GMT | I, Too, Rots. | halzie rams | [Read More](https://medium.com/p/2b6a33f9d35e) |
+| Sun, 17 Aug 2025 03:03:58 GMT | Why Your Credit Card Data Still Gets Breached Despite Being Careful | David SEHYEON Baek | [Read More](https://medium.com/p/d9038c258201) |
+| Sun, 17 Aug 2025 02:47:13 GMT | Advancing Cybersecurity in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/3fd54518c64e) |
+| Sun, 17 Aug 2025 02:45:29 GMT | Advancing Cybersecurity for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/a793bca3ae3d) |
+| Sun, 17 Aug 2025 02:43:43 GMT | Advancing Cybersecurity for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/2ee7e142fde0) |
+| Sun, 17 Aug 2025 02:41:47 GMT | Advancing Cybersecurity for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/dc20d815180a) |
+| Sun, 17 Aug 2025 02:40:02 GMT | Advancing Cybersecurity for Decision Makers | Cyber Security Research | [Read More](https://medium.com/p/0ccf320b81f4) |
+| Sun, 17 Aug 2025 02:38:15 GMT | Advancing Cybersecurity for Beginners | Cyber Security Research | [Read More](https://medium.com/p/ea8b122f4dd6) |
+| Sun, 17 Aug 2025 02:36:30 GMT | Advancing Cybersecurity and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/3cff9c96ed94) |
+| Sun, 17 Aug 2025 02:33:21 GMT | Heavy Information | Mihal Woronko | [Read More](https://medium.com/p/64fcd4cc0e20) |
+| Sun, 17 Aug 2025 02:31:54 GMT | OSINT Beyond Google: Tracking Threat Actors in the Wild | Parth Patel | [Read More](https://medium.com/p/396c1200dd63) |
+| Sun, 17 Aug 2025 02:31:09 GMT | Advancing Cybersecurity and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/09412d8d76fb) |
 | Sun, 17 Aug 2025 01:36:46 GMT | The Hybrid Future of GRC Engineering — Part 1: The Maturity Shift | Varun Gurnaney | [Read More](https://medium.com/p/d41e5b526b52) |
 | Sun, 17 Aug 2025 01:17:39 GMT | Understanding Isolation: A Key Technique for Ensuring CIA in Cybersecurity | Raviteja Mureboina | [Read More](https://medium.com/p/99483376bf39) |
 | Sun, 17 Aug 2025 01:09:37 GMT | Securing Smart Contract Supply Chains: Best Practices for Attack Minimization | Dilum Bandara | [Read More](https://medium.com/p/cbce5d2b136e) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 Aug 2025 18:09:58 GMT | Gmail Phishing Attacks: A Growing Threat to Digital Trust | Chetan Seripally | [Read More](https://medium.com/p/7b7b2966b14f) |
 | Sat, 16 Aug 2025 18:00:46 GMT | Google Pays $250,000 Bounty for Chrome Sandbox Escape Vulnerability | Chetan Seripally | [Read More](https://medium.com/p/58f79644112f) |
 | Sat, 16 Aug 2025 18:00:23 GMT | I have always worn my trauma on the outside of me as my weight, visible to the world. | Coco Densmore | [Read More](https://medium.com/p/4dd0e816b100) |
-| Sat, 16 Aug 2025 17:51:07 GMT | Indore is rapidly emerging as a significant real estate hub in Central India, moving beyond its… | Anshul Agrawal | [Read More](https://medium.com/p/cd64040487fb) |
-| Sat, 16 Aug 2025 17:49:12 GMT | Catch Me If You Can: | Tanish Anand | [Read More](https://medium.com/p/c12627c4d21c) |
-| Sat, 16 Aug 2025 17:47:29 GMT | Advancing AI in Cybersecurity in the 21st Century | Artificial Intelligence Details | [Read More](https://medium.com/p/53fdc2d865a1) |
-| Sat, 16 Aug 2025 17:45:51 GMT | How I Integrated GitHub with My App (The Secure Way) | Ajay n Jain | [Read More](https://medium.com/p/c289393c4d0d) |
-| Sat, 16 Aug 2025 17:39:52 GMT | Understanding CSRF and How to Prevent It in Your Application — Part 2 | Gokul Karthik | [Read More](https://medium.com/p/4cfd2940e236) |
-| Sat, 16 Aug 2025 17:38:04 GMT | Zero-day exploit in WinRaR (CVE-2025–8088) used by Threat Actors in the wild | Wrench | [Read More](https://medium.com/p/8575c4865150) |
-| Sat, 16 Aug 2025 17:36:55 GMT | Bug Bounty: Injection Attacks — From SQLi to Template Injection | Rajkumar Kumawat | [Read More](https://medium.com/p/85acd9f6caff) |
-| Sat, 16 Aug 2025 17:33:22 GMT | PDF.JS Viewer Endpoint Dorking | AbhirupKonwar | [Read More](https://medium.com/p/03e3a68e0acf) |
-| Sat, 16 Aug 2025 17:32:04 GMT | JWT Authentication in Node.js Explained Step-by-Step | Thomas Joseph | [Read More](https://medium.com/p/37e2018a4cd3) |
-| Sat, 16 Aug 2025 17:31:43 GMT | How I Got Server Side XSS From PDF Previewing | Mohamed Ahmd | [Read More](https://medium.com/p/769a1b585e84) |
-| Sat, 16 Aug 2025 17:17:54 GMT | Pickle Rick TryHackMe | Ayush Tiwari | [Read More](https://medium.com/p/177b38a427c1) |
-| Sat, 16 Aug 2025 17:14:03 GMT | The Secret Language of the Internet: Common Protocols Explained | KISHOR SUTRADHAR | [Read More](https://medium.com/p/e587cadfbf98) |
-| Sat, 16 Aug 2025 17:03:35 GMT | Most AI-Written Code Online Already Has Bugs | Sanjeevani Bhandari | [Read More](https://medium.com/p/28859782b178) |
-| Sat, 16 Aug 2025 17:03:27 GMT | IOC (Indicator of Compromise) | Jameel Khan | [Read More](https://medium.com/p/afbb5ad21926) |
-| Sat, 16 Aug 2025 16:57:25 GMT | How I Built My Cloud Security Learning Path in 2025 (Beginner-Friendly) | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/6d0b81cc867b) |
