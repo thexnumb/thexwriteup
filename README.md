@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 18:48:00 GMT | Baltimore City Water: Leaking Customer Information | ice-wzl | [Read More](https://medium.com/p/9076397c3d50) |
+| Sun, 17 Aug 2025 18:46:38 GMT | Adversary Defense Evasion Workflow on Windows Systems (2025) | Shaheer Yasir | [Read More](https://medium.com/p/8d7c92bdae96) |
+| Sun, 17 Aug 2025 18:43:25 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and Understanding Cyber Threats Through Human… | Nitin Garg | [Read More](https://medium.com/p/7bfd16d99617) |
+| Sun, 17 Aug 2025 18:39:46 GMT | Grep Tryhackme Writeup | Mehdi Ben Fredj | [Read More](https://medium.com/p/80b253a148ad) |
+| Sun, 17 Aug 2025 18:35:38 GMT | picoCTF Web Exploitation: Inspect HTML | vulnhunter | [Read More](https://medium.com/p/655c4e92f002) |
+| Sun, 17 Aug 2025 18:33:25 GMT | Mobile Security | Murad Sadigov | [Read More](https://medium.com/p/bacce5441b13) |
+| Sun, 17 Aug 2025 18:30:38 GMT | Why Mobile Application Security Is Essential to Your Digital Life | Hoplon Infosec | [Read More](https://medium.com/p/f56e0defabf1) |
+| Sun, 17 Aug 2025 18:30:26 GMT | Day 48 — IoC Detection Through Systematic Rule Development | Jinay | [Read More](https://medium.com/p/373eaf0f954d) |
 | Sun, 17 Aug 2025 18:18:36 GMT | Vulnerability Assessment CTF 1 | Hejackson | [Read More](https://medium.com/p/b18ed7a8a664) |
 | Sun, 17 Aug 2025 18:07:22 GMT | How does Fingerprint recognition work? | jaeson Bernardsha | [Read More](https://medium.com/p/1ff70a267ed5) |
 | Sun, 17 Aug 2025 17:58:45 GMT | How I Exploited a Business Logic Flaw to Slash Product Prices in a Global Store | Zyad Ibrahim | [Read More](https://medium.com/p/64cd1d445d17) |
@@ -104,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 13:08:46 GMT | How Exposed TeslaMate Instances Leak Sensitive Tesla Data | Seyfullah KILIÇ | [Read More](https://medium.com/p/80bedd123166) |
 | Sun, 17 Aug 2025 13:06:15 GMT | Stopping a Phishing Scam with AI | Toshi & Mina(AI) LAB | [Read More](https://medium.com/p/208175186a44) |
 | Sun, 17 Aug 2025 13:02:43 GMT | Social Engineering Reconnaissance: A Beginner’s Guide for Ethical Hackers | Waqas Akram | [Read More](https://medium.com/p/7fd6b7f497ea) |
-| Sun, 17 Aug 2025 13:01:48 GMT | Drosera: Rethinking Security in Crypto | Moh | [Read More](https://medium.com/p/b122fd52a4fa) |
-| Sun, 17 Aug 2025 12:59:08 GMT | I break into things.
- I write it all down.
- And somehow, that’s called a career. | Tucson Safari | [Read More](https://medium.com/p/534ddf7cb8e8) |
-| Sun, 17 Aug 2025 12:55:42 GMT | Assume Privileged Role with External ID- Walkthrough | @@ru$hi | [Read More](https://medium.com/p/b6375d9fb1b4) |
-| Sun, 17 Aug 2025 12:54:39 GMT | Networking Basics for Cybersecurity: A Beginner’s Guide | Waqas Akram | [Read More](https://medium.com/p/07cc1e4638ff) |
-| Sun, 17 Aug 2025 12:54:27 GMT | How long does it take to crack a password website? | Tahaazeemguestblogger | [Read More](https://medium.com/p/b26fde38945d) |
-| Sun, 17 Aug 2025 12:51:17 GMT | How to Choose a Secure Password: Easy Guide to Create Strong Password | Tahaazeemguestblogger | [Read More](https://medium.com/p/2e309839d877) |
-| Sun, 17 Aug 2025 12:47:35 GMT | Wiz x Cloud Security Championship: Perimeter Leak - Walkthrough | Mostafa Hussein | [Read More](https://medium.com/p/e79b1944f4fa) |
-| Sun, 17 Aug 2025 12:45:21 GMT | It’s August… Are You Still Letting Digital Clutter Slow You Down? | SupportXDR | [Read More](https://medium.com/p/c14dce008ebd) |
