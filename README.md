@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 16:16:56 GMT | A Symbiotic Relationship with AI | Alva Roberts | [Read More](https://medium.com/p/31707d29a225) |
+| Sun, 17 Aug 2025 16:10:53 GMT | [THM] Tryhackme — Mother’s Secret Writeup | ViraSecurity | [Read More](https://medium.com/p/26b9e1ced218) |
+| Sun, 17 Aug 2025 16:01:57 GMT | PicoCTF 2025: head-dump — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/c2abd568a078) |
+| Sun, 17 Aug 2025 15:59:48 GMT | Pickle Rick CTF Walkthrough | Ruposhree B. | [Read More](https://medium.com/p/ca1f211dba5b) |
+| Sun, 17 Aug 2025 15:54:53 GMT | Adventures in AI Security : Claude (Part 2) | API Expert | [Read More](https://medium.com/p/efb37b97895a) |
+| Sun, 17 Aug 2025 15:53:29 GMT | NeoVault — HTB — PT-BR | pad1ryoshi | [Read More](https://medium.com/p/41078a140616) |
+| Sun, 17 Aug 2025 15:47:32 GMT | Zero Trust in the Cloud: Are We Truly Secure? | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/a3f5c6184448) |
+| Sun, 17 Aug 2025 15:47:09 GMT | HTB Walkthrough : Fawn(FTP) | Ahmad Sopyan | [Read More](https://medium.com/p/66207fe619a0) |
+| Sun, 17 Aug 2025 15:46:03 GMT | “Day 14: Cookie Hijacking Exposed — How I Bypassed Chrome’s “Secure” Storage” | Aman Sharma | [Read More](https://medium.com/p/9648b32ba6f5) |
+| Sun, 17 Aug 2025 15:43:53 GMT | 100+ Windows CMD Commands Every Hacker & Pentester MUST Know (with Cheat Sheet) | Very Lazy Tech | [Read More](https://medium.com/p/5e194ab7c842) |
+| Sun, 17 Aug 2025 15:36:28 GMT | How To Remove Garbage Named Malware Files from Linux Servers | Ayush Raj | [Read More](https://medium.com/p/0e12f634f78e) |
 | Sun, 17 Aug 2025 15:18:42 GMT | Eternal American Prosperity Protocol (EAPP) Enforces Neural Network Legibility | Grapheneaffiliates | [Read More](https://medium.com/p/0cba9b126dd8) |
 | Sun, 17 Aug 2025 15:13:44 GMT | Security Without Support: Leading Change When Leadership Moves Too Fast | Richard M. Mcmullin | [Read More](https://medium.com/p/4ab2dc97b319) |
 | Sun, 17 Aug 2025 15:13:29 GMT | Planning -HackTheBox(Writeup) | JonSnowHere | [Read More](https://medium.com/p/9e5fda846b73) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 09:34:30 GMT | Cyber Insurance Premiums Drop in the U.S. | Oleg Parashchak | [Read More](https://medium.com/p/166954d85113) |
 | Sun, 17 Aug 2025 09:27:57 GMT | PickleRick-THM | Mohit Sharma | [Read More](https://medium.com/p/376f064ba365) |
 | Sun, 17 Aug 2025 09:27:43 GMT | The Only CompTIA Security+ (880/900) Guide You’ll Need to Pass | Mayank Sharma | [Read More](https://medium.com/p/1f903c71f77a) |
-| Sun, 17 Aug 2025 09:25:41 GMT | How I Streamlined Incident Management with a Custom IT Alert System | Devsync | [Read More](https://medium.com/p/2cca3430d9f6) |
-| Sun, 17 Aug 2025 09:24:38 GMT | Wireshark Filtreleri | Mehmet Sancaktaroğlu | [Read More](https://medium.com/p/6ea9e2c549bc) |
-| Sun, 17 Aug 2025 09:24:35 GMT | Null Core Write-Up’s | Abilash B | [Read More](https://medium.com/p/863d45e9fdb2) |
-| Sun, 17 Aug 2025 09:24:10 GMT | Day 34- Network Topologies: Star, Ring, Mesh and Bus for beginners | unica 02 | [Read More](https://medium.com/p/9c7b12c10889) |
-| Sun, 17 Aug 2025 09:24:00 GMT | How Much Does It Cost To Keep A Secret? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/c39ab93cfbf7) |
-| Sun, 17 Aug 2025 09:18:06 GMT | LockBit’s Disguise: How Ransomware Hides in Trusted Applications | Meni Tasa | [Read More](https://medium.com/p/5f36af3127db) |
-| Sun, 17 Aug 2025 09:14:06 GMT | The Day I Realized I Wasn’t the Main Character in My Own Life | @SaadKhanWriter | [Read More](https://medium.com/p/0ef7318ae998) |
-| Sun, 17 Aug 2025 09:07:44 GMT | Today I’m Being Vulnerable, Honest But I’m Afraid I’m not The Victim | Frank Gallagher, Ph.C. | [Read More](https://medium.com/p/7d67601c37e5) |
-| Sun, 17 Aug 2025 09:05:55 GMT | I Passed Security+ SY0–701 in 3 Hours of Review. | Lucky ApeX | [Read More](https://medium.com/p/6c5b18ec424b) |
-| Sun, 17 Aug 2025 09:04:40 GMT | The AWS Secret That Watches From the Shadows | Alex Joyel Raj - Cyber Howler | [Read More](https://medium.com/p/1fbb7c3fd7f6) |
-| Sun, 17 Aug 2025 08:50:18 GMT | How to Automate Cloud Security Workflows Using AWS Step Functions | Sena Yakut | [Read More](https://medium.com/p/9033aa4ae63a) |
