@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 23:16:26 GMT | Why You Must Update Your Software Regularly: Lessons from the NotPetya Hack | Marcus | [Read More](https://medium.com/p/6cbe20d67b81) |
+| Sun, 17 Aug 2025 23:08:52 GMT | Mastering Reflected Cross-Site Scripting & Bypassing Filters | Beri Contraster | [Read More](https://medium.com/p/c59f3095f621) |
+| Sun, 17 Aug 2025 23:02:00 GMT | Blue Team Labs Online — Reverse Engineering — A Classic Injection Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/5ff909e2630f) |
+| Sun, 17 Aug 2025 22:49:07 GMT | HexStrike AI v6.0 – The Future of Autonomous Cybersecurity | Chintala Taraka Ram | [Read More](https://medium.com/p/1f5ee70fc34e) |
 | Sun, 17 Aug 2025 22:33:58 GMT | RECOVER ALL YOUR LOST CRYPTOCURRENCY WITH THE HELP OF OPTIMISTIC HACKER GAIUS | Jamesethan | [Read More](https://medium.com/p/c7d9deabd181) |
 | Sun, 17 Aug 2025 22:31:56 GMT | INTERNAL WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/8a28f0fe125b) |
 | Sun, 17 Aug 2025 22:26:51 GMT | Cross-Site Request Forgery (CSRF): Understanding and Defending Against a Silent Web Threat | Emma Lateyron | [Read More](https://medium.com/p/9494054dfa4b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 15:13:44 GMT | Security Without Support: Leading Change When Leadership Moves Too Fast | Richard M. Mcmullin | [Read More](https://medium.com/p/4ab2dc97b319) |
 | Sun, 17 Aug 2025 15:13:29 GMT | Planning -HackTheBox(Writeup) | JonSnowHere | [Read More](https://medium.com/p/9e5fda846b73) |
 | Sun, 17 Aug 2025 15:03:07 GMT | This Changed My Entire Life | Waqar | [Read More](https://medium.com/p/9f161ac82e47) |
-| Sun, 17 Aug 2025 15:00:54 GMT | HTB Walkthrough : Meow Machine(Telnet) | Ahmad Sopyan | [Read More](https://medium.com/p/5abb5202043f) |
-| Sun, 17 Aug 2025 14:57:42 GMT | Mobile Patrols vs. Static Guards: Why Movement Matters in Edmonton Security | Nimmi Xheikh | [Read More](https://medium.com/p/5aecdaaf57bf) |
-| Sun, 17 Aug 2025 14:53:54 GMT | TryHackMe Walkthrough - Soupedecode 01 | Fagu Ram | [Read More](https://medium.com/p/6af34247bcd4) |
-| Sun, 17 Aug 2025 14:51:47 GMT | Ultimate Guide to Cyber Security Solutions for Cloud Infrastructure (With SentryPC) | Paul Meyer | [Read More](https://medium.com/p/be5e18e0aa3c) |
