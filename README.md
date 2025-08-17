@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 19:29:59 GMT | Hacking APIs: Exploiting WebSockets Insecure Implementations | Israel Aráoz Severiche | [Read More](https://medium.com/p/a69cba59b0ad) |
+| Sun, 17 Aug 2025 19:26:24 GMT | SOC Threat Detection Lab | Salmaan Ahmed Mustapha | [Read More](https://medium.com/p/3371a72dc722) |
+| Sun, 17 Aug 2025 19:26:05 GMT | ﷽ | Ammar yasser shoeib | [Read More](https://medium.com/p/b3205aa78fbb) |
 | Sun, 17 Aug 2025 18:48:00 GMT | Baltimore City Water: Leaking Customer Information | ice-wzl | [Read More](https://medium.com/p/9076397c3d50) |
 | Sun, 17 Aug 2025 18:46:38 GMT | Adversary Defense Evasion Workflow on Windows Systems (2025) | Shaheer Yasir | [Read More](https://medium.com/p/8d7c92bdae96) |
 | Sun, 17 Aug 2025 18:43:25 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and Understanding Cyber Threats Through Human… | Nitin Garg | [Read More](https://medium.com/p/7bfd16d99617) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 13:27:49 GMT | Cybersecurity Basics for Students: Stay Safe Online | Rosemary Lark | [Read More](https://medium.com/p/6921b5dc1547) |
 | Sun, 17 Aug 2025 13:22:08 GMT | IDS ve IPS Sistemleri: Tespitten Önlemeye | Hacercaliskan | [Read More](https://medium.com/p/ff116a1fadaf) |
 | Sun, 17 Aug 2025 13:17:33 GMT | Data Protection in SOC: Log Anonymization and Masking | Esra Kayhan | [Read More](https://medium.com/p/a2377d7e740f) |
-| Sun, 17 Aug 2025 13:08:46 GMT | How Exposed TeslaMate Instances Leak Sensitive Tesla Data | Seyfullah KILIÇ | [Read More](https://medium.com/p/80bedd123166) |
-| Sun, 17 Aug 2025 13:06:15 GMT | Stopping a Phishing Scam with AI | Toshi & Mina(AI) LAB | [Read More](https://medium.com/p/208175186a44) |
-| Sun, 17 Aug 2025 13:02:43 GMT | Social Engineering Reconnaissance: A Beginner’s Guide for Ethical Hackers | Waqas Akram | [Read More](https://medium.com/p/7fd6b7f497ea) |
