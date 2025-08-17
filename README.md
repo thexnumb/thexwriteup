@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 22:33:58 GMT | RECOVER ALL YOUR LOST CRYPTOCURRENCY WITH THE HELP OF OPTIMISTIC HACKER GAIUS | Jamesethan | [Read More](https://medium.com/p/c7d9deabd181) |
+| Sun, 17 Aug 2025 22:31:56 GMT | INTERNAL WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/8a28f0fe125b) |
+| Sun, 17 Aug 2025 22:26:51 GMT | Cross-Site Request Forgery (CSRF): Understanding and Defending Against a Silent Web Threat | Emma Lateyron | [Read More](https://medium.com/p/9494054dfa4b) |
 | Sun, 17 Aug 2025 22:16:40 GMT | Understanding and Preventing Injection Attacks | Emma Lateyron | [Read More](https://medium.com/p/9eb4c720d657) |
+| Sun, 17 Aug 2025 22:14:42 GMT | My Taste of the Security Alphabet Soup: CWEE vs CAPenX in the Real World | Rami Altai | [Read More](https://medium.com/p/fecd8d354988) |
 | Sun, 17 Aug 2025 22:13:32 GMT | How to Learn With AI — and Think Like AI | huoshi | [Read More](https://medium.com/p/ced69827508b) |
 | Sun, 17 Aug 2025 22:10:46 GMT | Logical Override: Confabulation of an Emergent Capability to Bypass LLM Safety Alignment | Caleb Grebill | [Read More](https://medium.com/p/3e1b2bb87d7f) |
 | Sun, 17 Aug 2025 22:09:20 GMT | Static vs Dynamic Analysis: The Twin Pillars of Software Security | Emma Lateyron | [Read More](https://medium.com/p/7661ee9f7051) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 14:57:42 GMT | Mobile Patrols vs. Static Guards: Why Movement Matters in Edmonton Security | Nimmi Xheikh | [Read More](https://medium.com/p/5aecdaaf57bf) |
 | Sun, 17 Aug 2025 14:53:54 GMT | TryHackMe Walkthrough - Soupedecode 01 | Fagu Ram | [Read More](https://medium.com/p/6af34247bcd4) |
 | Sun, 17 Aug 2025 14:51:47 GMT | Ultimate Guide to Cyber Security Solutions for Cloud Infrastructure (With SentryPC) | Paul Meyer | [Read More](https://medium.com/p/be5e18e0aa3c) |
-| Sun, 17 Aug 2025 14:51:46 GMT | Brute Forcing HTTP/HTTPS Login Forms with Hydra — A Detailed Guide | GauthamV | [Read More](https://medium.com/p/4b8f00fc5e88) |
-| Sun, 17 Aug 2025 14:45:21 GMT | Github CI/CD pipeline with Nodejs, SonarCloud & Snyk integration | Piyali Das | [Read More](https://medium.com/p/bf4bd086d86d) |
-| Sun, 17 Aug 2025 14:43:55 GMT | cloudsecuritychampionship — Contain Me If You Can | Idlefirepentest | [Read More](https://medium.com/p/09d9e6ae2a16) |
-| Sun, 17 Aug 2025 14:43:30 GMT | Understand- Nmap: The Basics Commands and Examples for Network Security | Polash Mridha | [Read More](https://medium.com/p/2e79b72b8382) |
