@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 17:13:03 GMT | Linux Privilege Escalation Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/4fd6f74755fb) |
+| Sun, 17 Aug 2025 17:12:12 GMT | Fog Computing and Swarm Intelligence:Implement the Firewall Isolation | Kuiliga Dieudonné Armel NONGUIERMA | [Read More](https://medium.com/p/277de8a1d155) |
+| Sun, 17 Aug 2025 17:11:03 GMT | The Impact of Quantum Computing on Information Security. | bypec | [Read More](https://medium.com/p/702cf850de98) |
+| Sun, 17 Aug 2025 17:09:39 GMT | Tech Trends 2025: The Most In-Demand Programming Skills and Roles | Yogeesh Sm | [Read More](https://medium.com/p/1b19ad668038) |
+| Sun, 17 Aug 2025 17:04:58 GMT | Producing security | Dylan Evans | [Read More](https://medium.com/p/ead82a3f0d78) |
+| Sun, 17 Aug 2025 17:01:50 GMT | Why I Almost Quit Cybersecurity (And Why I Didn’t) | Cyberkech | [Read More](https://medium.com/p/8b9a32a943ff) |
+| Sun, 17 Aug 2025 16:55:53 GMT | Emerging Scam Coins: Threat Intelligence Insights on Disney Coin, Trump Coin, Grok Coin, and Coin… | Rishika Desai | [Read More](https://medium.com/p/37657ce512b4) |
+| Sun, 17 Aug 2025 16:49:46 GMT | Mastering Google Dorking: Search Operators for Deep Recon & Bug Bounty Hunting_allupavankumar | allu pavankumar | [Read More](https://medium.com/p/d399963db955) |
 | Sun, 17 Aug 2025 16:46:49 GMT | Simple 2FA Bypass PortSwigger Writeup: How I Used This Method for a Real-Time Bug and Earned $2,500 | Mukilan Baskaran | [Read More](https://medium.com/p/d18b5e317c3a) |
 | Sun, 17 Aug 2025 16:46:15 GMT | Top 100 SQL Injection Payloads (Complete List for 2025) | Pratham Shah | [Read More](https://medium.com/p/9f9ba2d2790a) |
+| Sun, 17 Aug 2025 16:46:13 GMT | She Owned Two Laptops — Then a Windows 10 Update Made Her Sue Microsoft | Harsh duhan | [Read More](https://medium.com/p/123fdadd8bf9) |
+| Sun, 17 Aug 2025 16:43:53 GMT | 10 Cybersecurity Practices Everyone Should Know in 2025 | VS Writes | [Read More](https://medium.com/p/1d8a04284e60) |
+| Sun, 17 Aug 2025 16:41:33 GMT | Yapay Zeka ile Siber Güvenlik: Tehditlere Karşı Yeni Nesil Savunma | Filiztanitmis | [Read More](https://medium.com/p/e7fb347daff9) |
 | Sun, 17 Aug 2025 16:37:28 GMT | Wireshark Nedir? Nasıl Kullanılır? Ne İşe Yarar? — Kapsamlı Rehber | Enis Buğra Akada | [Read More](https://medium.com/p/9341649ce5ae) |
 | Sun, 17 Aug 2025 16:31:58 GMT | TLS/SSL Handshake – Detailed Explanation | Devaduthsaji | [Read More](https://medium.com/p/88224c1e4f66) |
 | Sun, 17 Aug 2025 16:31:32 GMT | Best Practices for Secure Smart Contract Development | Kaushalsinh | [Read More](https://medium.com/p/7a11f70468b3) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 11:12:10 GMT | What is a Router and How Does It Work? (TR) | Atakan Bitim | [Read More](https://medium.com/p/4c5bde7fb0a7) |
 | Sun, 17 Aug 2025 11:11:35 GMT | The Hidden Risks of SSH Agent Forwarding (And How I Avoid Them) | Faruk Ahmed | [Read More](https://medium.com/p/d7abff54f567) |
 | Sun, 17 Aug 2025 11:10:25 GMT | Bridging Human Behavior and Cybersecurity with Psychometric Scales | Khurram Iqbal | [Read More](https://medium.com/p/6f2c8bcf8ce5) |
-| Sun, 17 Aug 2025 11:04:37 GMT | Görülmek Mi? İzlenmek Mi? | AYŞE KIZILAY | [Read More](https://medium.com/p/d475a1b65bf6) |
-| Sun, 17 Aug 2025 11:04:30 GMT | How to create a cybersecurity Lab Environment with VirtualBox | Yeswanth Boddeda | [Read More](https://medium.com/p/d23b433d78cd) |
-| Sun, 17 Aug 2025 10:56:30 GMT | Open Redirect in Password Reset Flow Leading to Token Exposure | Ehtesham Ul Haq | [Read More](https://medium.com/p/63b2890ce5fd) |
-| Sun, 17 Aug 2025 10:56:08 GMT | WebSockets | Usama Hanif | [Read More](https://medium.com/p/0b4d9fc11da5) |
-| Sun, 17 Aug 2025 10:50:13 GMT | Flash Coins: The Truth About Instant Crypto Transactions | Sebika | [Read More](https://medium.com/p/577d9a4dd9bc) |
-| Sun, 17 Aug 2025 10:38:45 GMT | Hunting Bugs at IIT Madras: From PDF.js XSS to WordPress DoS | svt_root | [Read More](https://medium.com/p/3455ac8e610d) |
-| Sun, 17 Aug 2025 10:36:52 GMT | Zaman Damgası Nedir? Dijital Dünyada Güvenilir Kanıtın Anahtarı | AYŞE KIZILAY | [Read More](https://medium.com/p/bb1416fcd454) |
-| Sun, 17 Aug 2025 10:33:10 GMT | DEFINER vs INVOKER Security Mode in Starburst Views : What You Need to Know | Tharashasank D | [Read More](https://medium.com/p/131ee70bf62e) |
-| Sun, 17 Aug 2025 10:25:42 GMT | Week 2 of My 90-Day Challenge: Tools, Frameworks, and a Ton of Labs! | Mike (sl0th0x87) | [Read More](https://medium.com/p/5c9cdfffc180) |
-| Sun, 17 Aug 2025 10:13:19 GMT | Small Scope Recon in Pentesting: How to Do More with Less | Aribaafroz | [Read More](https://medium.com/p/90dc36336b43) |
-| Sun, 17 Aug 2025 10:07:52 GMT | Predicate Pushdown Demystified: From Power Query Folding to Starburst EXPLAIN Plans | Tharashasank D | [Read More](https://medium.com/p/09bb5c6a5d63) |
