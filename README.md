@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 17:28:32 GMT | ️ KeySentry v2 — Stop API Key Leaks Before They Stop You | Aditya Bhatt | [Read More](https://medium.com/p/9be0dc734932) |
+| Sun, 17 Aug 2025 17:21:46 GMT | WHAT ARE CRYPTOCURRENCIES? | Insurance Investment Management | [Read More](https://medium.com/p/54ffc63e3f1d) |
+| Sun, 17 Aug 2025 17:20:16 GMT | Proxying Burp Suite Through Tor on Kali Linux | Randall Repass | [Read More](https://medium.com/p/4e5e610663ce) |
+| Sun, 17 Aug 2025 17:17:55 GMT | From Findings to Fixes: My Experience Creating a Penetration Testing Report | Utkarsh Srivastava | [Read More](https://medium.com/p/d3cf308e10cd) |
+| Sun, 17 Aug 2025 17:16:46 GMT | The Anatomy of a Perfect Pitch | Dusan Ostojic | [Read More](https://medium.com/p/d04106952389) |
+| Sun, 17 Aug 2025 17:14:04 GMT | HOW CAN ONE INVEST IN CRYPTOCURRENCY? | Insurance Investment Management | [Read More](https://medium.com/p/89011e77fbfe) |
 | Sun, 17 Aug 2025 17:13:03 GMT | Linux Privilege Escalation Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/4fd6f74755fb) |
 | Sun, 17 Aug 2025 17:12:12 GMT | Fog Computing and Swarm Intelligence:Implement the Firewall Isolation | Kuiliga Dieudonné Armel NONGUIERMA | [Read More](https://medium.com/p/277de8a1d155) |
 | Sun, 17 Aug 2025 17:11:03 GMT | The Impact of Quantum Computing on Information Security. | bypec | [Read More](https://medium.com/p/702cf850de98) |
@@ -108,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 11:31:32 GMT | Firebase Security Rules: The Complete Guide to Protect Your Data | The Blog Stacker - Tech Writer✨ | [Read More](https://medium.com/p/b25bde76bd2d) |
 | Sun, 17 Aug 2025 11:22:34 GMT | Cracking the UAT-7237 Cyberplaybook: Taiwan’s Web Servers Under Siege | Ismail Tasdelen | [Read More](https://medium.com/p/a52d764b8f54) |
 | Sun, 17 Aug 2025 11:19:31 GMT | Decrypting EncryptHub: How a Russian Cyber Gang Exploits MSC EvilTwin Vulnerability | Ismail Tasdelen | [Read More](https://medium.com/p/5a825897fe2d) |
-| Sun, 17 Aug 2025 11:16:57 GMT | Starknet Cairo Vulnerability : Unused Function | JEETPAL | [Read More](https://medium.com/p/72eb82fb4a10) |
-| Sun, 17 Aug 2025 11:13:34 GMT | 7 AI Trends in 2025 That Will Change the Way You Live and Work | Mahendra Singh Boura | [Read More](https://medium.com/p/3fbb633a2859) |
-| Sun, 17 Aug 2025 11:12:14 GMT | What is a Router and How Does It Work? (EN) | Atakan Bitim | [Read More](https://medium.com/p/a6d88f1592d8) |
-| Sun, 17 Aug 2025 11:12:10 GMT | What is a Router and How Does It Work? (TR) | Atakan Bitim | [Read More](https://medium.com/p/4c5bde7fb0a7) |
-| Sun, 17 Aug 2025 11:11:35 GMT | The Hidden Risks of SSH Agent Forwarding (And How I Avoid Them) | Faruk Ahmed | [Read More](https://medium.com/p/d7abff54f567) |
-| Sun, 17 Aug 2025 11:10:25 GMT | Bridging Human Behavior and Cybersecurity with Psychometric Scales | Khurram Iqbal | [Read More](https://medium.com/p/6f2c8bcf8ce5) |
