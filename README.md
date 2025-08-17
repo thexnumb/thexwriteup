@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 10:36:52 GMT | Zaman Damgası Nedir? Dijital Dünyada Güvenilir Kanıtın Anahtarı | AYŞE KIZILAY | [Read More](https://medium.com/p/bb1416fcd454) |
+| Sun, 17 Aug 2025 10:33:10 GMT | DEFINER vs INVOKER Security Mode in Starburst Views : What You Need to Know | Tharashasank D | [Read More](https://medium.com/p/131ee70bf62e) |
+| Sun, 17 Aug 2025 10:25:42 GMT | Week 2 of My 90-Day Challenge: Tools, Frameworks, and a Ton of Labs! | Mike (sl0th0x87) | [Read More](https://medium.com/p/5c9cdfffc180) |
 | Sun, 17 Aug 2025 10:13:19 GMT | Small Scope Recon in Pentesting: How to Do More with Less | Aribaafroz | [Read More](https://medium.com/p/90dc36336b43) |
 | Sun, 17 Aug 2025 10:07:52 GMT | Predicate Pushdown Demystified: From Power Query Folding to Starburst EXPLAIN Plans | Tharashasank D | [Read More](https://medium.com/p/09bb5c6a5d63) |
 | Sun, 17 Aug 2025 09:57:54 GMT | How to Protect Against Cyber Fraud A Practical Guide for the Digital Age | Land2Cyber | [Read More](https://medium.com/p/80552b53a554) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 02:45:29 GMT | Advancing Cybersecurity for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/a793bca3ae3d) |
 | Sun, 17 Aug 2025 02:43:43 GMT | Advancing Cybersecurity for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/2ee7e142fde0) |
 | Sun, 17 Aug 2025 02:41:47 GMT | Advancing Cybersecurity for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/dc20d815180a) |
-| Sun, 17 Aug 2025 02:40:02 GMT | Advancing Cybersecurity for Decision Makers | Cyber Security Research | [Read More](https://medium.com/p/0ccf320b81f4) |
-| Sun, 17 Aug 2025 02:38:15 GMT | Advancing Cybersecurity for Beginners | Cyber Security Research | [Read More](https://medium.com/p/ea8b122f4dd6) |
-| Sun, 17 Aug 2025 02:36:30 GMT | Advancing Cybersecurity and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/3cff9c96ed94) |
