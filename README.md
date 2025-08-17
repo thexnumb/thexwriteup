@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 Aug 2025 12:31:41 GMT | Elastic EDR Zero-Day: When Your Security Tool Becomes the Weapon | Liran Nachman | [Read More](https://medium.com/p/c57b4f2b0ab4) |
+| Sun, 17 Aug 2025 12:31:22 GMT | A Simple Guide to Security Service Edge (SSE) in Cybersecurity | Abdul Ahad | [Read More](https://medium.com/p/6b9087811867) |
+| Sun, 17 Aug 2025 12:30:48 GMT | CyberTalents: Search in Trash writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/b2964b755292) |
+| Sun, 17 Aug 2025 12:27:58 GMT | Top 3 Smartphone Cyber Threats in Africa — How Scams, SIM Swaps, and Malware Are Targeting You | Keith Henry | [Read More](https://medium.com/p/00a1cc58ea12) |
+| Sun, 17 Aug 2025 12:23:49 GMT | HTB Certified Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/bdcd078225e9) |
+| Sun, 17 Aug 2025 12:22:12 GMT | Cybersecurity In Everyday Life: My Journey Begins | Sparshika | [Read More](https://medium.com/p/7c236d7a933a) |
+| Sun, 17 Aug 2025 12:21:45 GMT | HTB: Network Foundations | Kickcodeandlift | [Read More](https://medium.com/p/6477255c97e4) |
+| Sun, 17 Aug 2025 12:18:44 GMT | Beware the AI Hackers! | Rona Ega Kharisma | [Read More](https://medium.com/p/6cf9d0f221c7) |
+| Sun, 17 Aug 2025 12:09:50 GMT | Stop Payment Fraud: A Hands-On Guide with Python, | Old Noisy Speaker | [Read More](https://medium.com/p/2d0778e9913d) |
+| Sun, 17 Aug 2025 12:00:19 GMT | Why and How to Use WinPEAS | 0xasmaa | [Read More](https://medium.com/p/6971a82d2372) |
+| Sun, 17 Aug 2025 11:54:10 GMT | How to Spot a Phishing Email in Under 30 Seconds | Paritosh | [Read More](https://medium.com/p/accac109f33a) |
+| Sun, 17 Aug 2025 11:41:54 GMT | Mastering Firebase Security Rules: Protecting Your App the Right Way | The NewGenCoder | [Read More](https://medium.com/p/a640d4a280f5) |
+| Sun, 17 Aug 2025 11:38:04 GMT | When XSS Meets CSRF: Breaking Web Defenses | Aliahmed | [Read More](https://medium.com/p/31f0ba6c6843) |
 | Sun, 17 Aug 2025 11:33:46 GMT | DockerLabs Writeup — Rutas (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/e0fd0e089207) |
 | Sun, 17 Aug 2025 11:31:32 GMT | Firebase Security Rules: The Complete Guide to Protect Your Data | The Blog Stacker - Tech Writer✨ | [Read More](https://medium.com/p/b25bde76bd2d) |
 | Sun, 17 Aug 2025 11:22:34 GMT | Cracking the UAT-7237 Cyberplaybook: Taiwan’s Web Servers Under Siege | Ismail Tasdelen | [Read More](https://medium.com/p/a52d764b8f54) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 05:45:17 GMT | ndroid Hackers Are Spying on Your Phone — Here’s How to Protect Yourself | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/04a1302642af) |
 | Sun, 17 Aug 2025 05:41:55 GMT | Vamp Byte #1 — What is a Favicon Hash in OSINT? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/daf0279ad129) |
 | Sun, 17 Aug 2025 05:36:39 GMT | Protect Your Spring Boot Application from Vulnerabilities with OWASP Dependency-Check | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/fcda57c00d3b) |
-| Sun, 17 Aug 2025 05:33:43 GMT | Security 101 for Web3 Startups | Thi Nguyen | [Read More](https://medium.com/p/751f237171c8) |
-| Sun, 17 Aug 2025 05:24:28 GMT | Google Got Fooled by a Phone Call — Here’s What You Can Learn | Abhay Parashar | [Read More](https://medium.com/p/5072cc519cd1) |
-| Sun, 17 Aug 2025 05:22:04 GMT | Spotify Premium APK for Android is free and unlocked in 2025: | Music vibes | [Read More](https://medium.com/p/f2d4302aa8e6) |
-| Sun, 17 Aug 2025 05:09:41 GMT | Rising Cyber Crimes in India: Why Awareness is the First Line of Defense | Ashish Agrawal | [Read More](https://medium.com/p/13bbdebffc1b) |
-| Sun, 17 Aug 2025 05:05:23 GMT | Server-side Template Injection in an Unknown Language with a Documented Exploit | Bash Overflow | [Read More](https://medium.com/p/1890eb486513) |
-| Sun, 17 Aug 2025 05:02:53 GMT | The Castle Is Crumbling: Why Security Must Think Like an Airport | Ahmed EL IDRISSI | [Read More](https://medium.com/p/89058579bca7) |
-| Sun, 17 Aug 2025 04:45:58 GMT | How AI is Changing the Cybersecurity Game | Abida Adra | [Read More](https://medium.com/p/e27ebca90e93) |
-| Sun, 17 Aug 2025 04:43:24 GMT | Subdomain Takeover: ช่องโหว่เล็กที่อาจทำให้เว็บคุณกลายเป็นเว็บพนันในชั่วข้ามคืน | Neng Apichet | [Read More](https://medium.com/p/bd4849d732f2) |
-| Sun, 17 Aug 2025 04:39:27 GMT | The Library of the Future: How Polymath Thinking Will Redefine Knowledge in the Age of AI | Inayat Hussain | [Read More](https://medium.com/p/a31e19b01660) |
-| Sun, 17 Aug 2025 04:38:25 GMT | How the ChatGPT-5 Launch Redefines SEO, Marketing, and Work? | Ella Hall | [Read More](https://medium.com/p/cdef1afbacbb) |
-| Sun, 17 Aug 2025 04:33:31 GMT | “Like Lights, We Break Quietly.” | eeoeuoua | [Read More](https://medium.com/p/663efc4bbe18) |
-| Sun, 17 Aug 2025 04:25:03 GMT | The $5 Million Bounty Hunt for Crypto’s Shadow Bankers | Aj | [Read More](https://medium.com/p/fc3331b25f72) |
-| Sun, 17 Aug 2025 04:17:13 GMT | Inside an Infostealer Breach — How One Compromised Endpoint Exposed a Credit Card Giant | David SEHYEON Baek | [Read More](https://medium.com/p/ee29678e8503) |
