@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 20:27:09 GMT | On CyberPunk Metaphysics | Julian Soloninka | [Read More](https://medium.com/p/e2c0b48a8d12) |
+| Mon, 18 Aug 2025 20:15:33 GMT | Bulut Güvenliğin 5 Temel Prensibi | Bedirhan Yigit | [Read More](https://medium.com/p/eecb97c8be05) |
 | Mon, 18 Aug 2025 20:09:20 GMT | From Technical Support Engineer to IT Technician to DevOps Engineer: My Upskilling Journey. | Georgi Tinchev | [Read More](https://medium.com/p/fa1899b0dd73) |
 | Mon, 18 Aug 2025 20:08:35 GMT | The Hacker Mindset: Humanity’s Best Defense | Dane Sherrets | [Read More](https://medium.com/p/a25d3e8b580e) |
 | Mon, 18 Aug 2025 20:06:59 GMT | Different Ways Of Footprinting : | Intelithics | [Read More](https://medium.com/p/26fb80bb92f9) |
@@ -112,5 +114,3 @@ Since 2018, we’ve delivered… | Joshua onoja Akwu | [Read More](https://mediu
 | Mon, 18 Aug 2025 14:59:58 GMT | The AI Physiology of Civilization | Tom Yonashiro | [Read More](https://medium.com/p/ed75f045c8ad) |
 | Mon, 18 Aug 2025 14:53:55 GMT | How Scary Google Tracks Everyone | Vivid | [Read More](https://medium.com/p/4b9d4193693e) |
 | Mon, 18 Aug 2025 14:50:03 GMT | ShellShock: How Hackers Exploit Bash Vulnerabilities and How to Protect Yourself | Very Lazy Tech | [Read More](https://medium.com/p/a006c63c1883) |
-| Mon, 18 Aug 2025 14:38:17 GMT | Designing the Inpatient Room of the Future | NYU Langone Health Tech Hub | [Read More](https://medium.com/p/cc8c209187a4) |
-| Mon, 18 Aug 2025 14:35:31 GMT | I Thought Leaning on Someone Was Weak | Ink Within | [Read More](https://medium.com/p/94cc2d1f892c) |
