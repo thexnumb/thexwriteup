@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 23:15:32 GMT | SQL injection vulnerability in the AWS Aurora DSQL MCP Server | Michael Kandelaars | [Read More](https://medium.com/p/b00eea7c85d9) |
+| Mon, 18 Aug 2025 23:08:46 GMT | Recover Your Crypto: A Step-by-Step Guide | Lost Crypto Recovery Service. | [Read More](https://medium.com/p/ebdf457f6c0d) |
+| Mon, 18 Aug 2025 23:07:58 GMT | One Engine to Rule the Mess: How Measurement Is Quietly Rewriting Creativity, Judgment, and… | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/091a9a081ec8) |
+| Mon, 18 Aug 2025 23:01:07 GMT | ️ The Dark Side of Password Managers: What No One Tells You | BiyteLüm | [Read More](https://medium.com/p/19b06e83aa3c) |
+| Mon, 18 Aug 2025 22:53:22 GMT | Automating Employee Onboarding in Microsoft Entra with Forms and Power Automate | James Rawlings | [Read More](https://medium.com/p/34cf761e2cd4) |
+| Mon, 18 Aug 2025 22:50:11 GMT | hujgdd | Qnpzj444 | [Read More](https://medium.com/p/c3d05c7daa7a) |
+| Mon, 18 Aug 2025 22:48:48 GMT | No Logs. No SIEM. No Problem. | Randall Repass | [Read More](https://medium.com/p/c10d92cadbef) |
+| Mon, 18 Aug 2025 22:48:48 GMT | CyberTalents: Mailer writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/5fd332fe6503) |
+| Mon, 18 Aug 2025 22:41:00 GMT | Forensics: scriptCTF 2025-PDF Writeup | Rana chouchane - QU33NR | [Read More](https://medium.com/p/5d1960492635) |
+| Mon, 18 Aug 2025 22:38:54 GMT | Why Agentic AI Startups Will Struggle Against Cybersecurity Incumbents | Nick Heudecker | [Read More](https://medium.com/p/7750f6569deb) |
 | Mon, 18 Aug 2025 22:32:49 GMT | Set It and Forget It: How to Kill 80% of Cyber Threats in 1 Hour | Cyber-AppSec | [Read More](https://medium.com/p/4bf40bbe5ec8) |
 | Mon, 18 Aug 2025 22:16:15 GMT | Hunting for Ransomware in Active Directory Environments | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d1c09b95c684) |
 | Mon, 18 Aug 2025 22:10:48 GMT | Forensics: scriptCTF 2025-diskchal Writeup | Rana chouchane | [Read More](https://medium.com/p/4db1025a0e82) |
@@ -103,13 +113,3 @@ By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
 | Mon, 18 Aug 2025 16:29:28 GMT | Why Multi-Factor Authentication (MFA) Matters — Even If You’re Not a Tech Expert — Carousel guide | Tharindu Damith | [Read More](https://medium.com/p/212b7970ece0) |
 | Mon, 18 Aug 2025 16:29:27 GMT | Prompting Cheat Sheet for Security Engineers | Saurabh Jain | [Read More](https://medium.com/p/794985160b8c) |
 | Mon, 18 Aug 2025 16:27:24 GMT | OpenAI releases warmer GPT-5 personality, but only for non thinking model | Welsh | [Read More](https://medium.com/p/0ec266489015) |
-| Mon, 18 Aug 2025 16:23:20 GMT | How Hackers Use Tunneling to Bypass Firewalls (Red Team Playbook) | S3CloudHub | [Read More](https://medium.com/p/fbecde22976d) |
-| Mon, 18 Aug 2025 16:21:12 GMT | From Visibility to Viability: OT Asset Inventory as a Leadership Imperative | James Wright | [Read More](https://medium.com/p/f75a51fae437) |
-| Mon, 18 Aug 2025 16:13:47 GMT | Bulut Güvenliğinin 5 Temel Bileşeni: Dijital Çağın Güvenlik Kalkanı | Arda Cinar | [Read More](https://medium.com/p/6e95f0d0f025) |
-| Mon, 18 Aug 2025 16:11:56 GMT | How to Build an AI Agent Your CISO Will Actually Approve | Kuldeep Singh | [Read More](https://medium.com/p/743083770824) |
-| Mon, 18 Aug 2025 16:09:59 GMT | TRYHACKME_ICE ROOM_WALKTHROUGH | Aswinbbu | [Read More](https://medium.com/p/ef32ab6e5a98) |
-| Mon, 18 Aug 2025 16:06:24 GMT | Splunk BOTS Website Defacement | FOIAX | [Read More](https://medium.com/p/8998e1d7648c) |
-| Mon, 18 Aug 2025 16:03:55 GMT | Splunk BOTS Ransomware Challenge | FOIAX | [Read More](https://medium.com/p/992ea6a62fc9) |
-| Mon, 18 Aug 2025 16:01:53 GMT | Vulnerabilities are in the air… | _Anirudh_ | [Read More](https://medium.com/p/6a2b220c1099) |
-| Mon, 18 Aug 2025 16:01:22 GMT | Gitlab XSS Using json:table Markdown — Worth $13,950 — Commits Page | Justas_b | [Read More](https://medium.com/p/93104473620e) |
-| Mon, 18 Aug 2025 15:58:40 GMT | Monday Cyber Brief — August 18 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/94ba71fb7d8d) |
