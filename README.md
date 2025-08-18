@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 19:22:36 GMT | Intro to Malware Analysis | Corey Farley | [Read More](https://medium.com/p/ff4a2a677bd1) |
+| Mon, 18 Aug 2025 19:19:19 GMT | Preprocessor for Cybersecurity | Introvertdeveloper | [Read More](https://medium.com/p/68536c372444) |
+| Mon, 18 Aug 2025 19:18:19 GMT | Navigating SOC Compliance: A Practical Guide for Businesses in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/2d0d440069f8) |
 | Mon, 18 Aug 2025 19:07:29 GMT | Cybersecurity Ecosystem & Careers | Danladi Galadima | [Read More](https://medium.com/p/279966df3fa6) |
 | Mon, 18 Aug 2025 19:05:45 GMT | AI-Powered Drones: How They’re Redefining Industry and Public Safety | Hafizbilaltariq | [Read More](https://medium.com/p/681efc8a6ec1) |
 | Mon, 18 Aug 2025 18:52:10 GMT | Subdomain Takeover Explained  (And How Hackers Earn $$$ From It) | Vipul Sonule | [Read More](https://medium.com/p/85bc47553d35) |
@@ -112,6 +115,3 @@ America’s greatest… | Lales | [Read More](https://medium.com/p/905ad630c3fc)
 | Mon, 18 Aug 2025 14:20:43 GMT | Server-side Template Injection with Information Disclosure via User-Supplied Objects in Django… | Bash Overflow | [Read More](https://medium.com/p/b6d67af36b43) |
 | Mon, 18 Aug 2025 14:17:58 GMT | OWASP Top-10 Vulnerabilities | Arushi Gupta | [Read More](https://medium.com/p/9185416f52a1) |
 | Mon, 18 Aug 2025 14:17:54 GMT | The Lighthouse | Adéla Valčíková | [Read More](https://medium.com/p/e5959249bc8f) |
-| Mon, 18 Aug 2025 14:16:57 GMT | AWS S3 Buckets: Secure vs. Insecure — What Every Cloud User Should Know | Rue | [Read More](https://medium.com/p/fe9de1c6f942) |
-| Mon, 18 Aug 2025 14:16:46 GMT | AWS VPC Explained Like a Housing Society | Indrajit Dan | [Read More](https://medium.com/p/bc2327e041fa) |
-| Mon, 18 Aug 2025 14:15:15 GMT | Jai Shree Ram | harsha vardhan reddy kunduru | [Read More](https://medium.com/p/88c4a2ea2052) |
