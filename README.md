@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 05:36:15 GMT | Shodan Diaries: What I Found on the Internet Without Knocking | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f22612cae508) |
+| Mon, 18 Aug 2025 05:26:58 GMT | Web Pentest Playbook — From Recon to Root (ATT&CK-Aligned) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/23a1359445d3) |
+| Mon, 18 Aug 2025 05:26:34 GMT | Cloud security service: what is it? Benefits, Challenges, and Solutions- Europe | QualysecEurope | [Read More](https://medium.com/p/270eb32340c3) |
+| Mon, 18 Aug 2025 05:25:38 GMT | How to Generate Strategic Intelligence by Answering 20 Questions | Adam Goss | [Read More](https://medium.com/p/64e98f10f207) |
 | Mon, 18 Aug 2025 05:18:30 GMT | The Tools Hackers Use Every Day That You’ve Never Heard Of | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3b1232da6b6a) |
 | Mon, 18 Aug 2025 05:15:43 GMT | Securing Applications with Software Composition Analysis (SCA) | Rachel K | [Read More](https://medium.com/p/244ba96f604b) |
+| Mon, 18 Aug 2025 05:13:58 GMT | Why I Write About Cybersecurity and Poetry | Vince Picton | [Read More](https://medium.com/p/d5da78f2ccd9) |
 | Mon, 18 Aug 2025 05:12:58 GMT | Beware of This New Cab Driver Scam: Fake Money Transfers & Empty Rides | Deepak | [Read More](https://medium.com/p/8310b6530766) |
 | Mon, 18 Aug 2025 05:10:30 GMT | How I Accidentally Built a Career Out of Doing Crimes Legally | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/23db3921627c) |
 | Mon, 18 Aug 2025 05:10:23 GMT | The Ultimate Guide to VPN Services in 2025: Stay Secure and Connected Anywhere | Brian Davis | [Read More](https://medium.com/p/31a6c8775d29) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 20:04:41 GMT | ️ ProtonVPN vs Mullvad vs IVPN vs NordVPN vs Surfshark: The Real No-Log VPNs Worth Your Money in… | BiyteLüm | [Read More](https://medium.com/p/0bff142220e8) |
 | Sun, 17 Aug 2025 20:01:42 GMT | A Critical Look at ARGUS: The Promise and Pitfalls of a Single-Unit Security Solution | Berend Watchus | [Read More](https://medium.com/p/c80eb9607161) |
 | Sun, 17 Aug 2025 20:00:32 GMT | Breaking the Correlated LFSR Stream Cipher: Correlation Attacks | Vishwas Adhikari | [Read More](https://medium.com/p/b402d1d13417) |
-| Sun, 17 Aug 2025 19:47:32 GMT | I reached out to Hack Zack Tech, and from the very first conversation | Sarah Kimberly Williams | [Read More](https://medium.com/p/5f049ffc60f6) |
-| Sun, 17 Aug 2025 19:31:57 GMT | # Strategic Synthesis of Autonomous Agentic AI, Legal Frameworks, Educational Innovation, and… | Brandonzid | [Read More](https://medium.com/p/96df9cf21ee6) |
-| Sun, 17 Aug 2025 19:29:59 GMT | Hacking APIs: Exploiting WebSockets Insecure Implementations | Israel Aráoz Severiche | [Read More](https://medium.com/p/a69cba59b0ad) |
-| Sun, 17 Aug 2025 19:26:24 GMT | SOC Threat Detection Lab | Salmaan Ahmed Mustapha | [Read More](https://medium.com/p/3371a72dc722) |
-| Sun, 17 Aug 2025 19:26:05 GMT | ﷽ | Ammar yasser shoeib | [Read More](https://medium.com/p/b3205aa78fbb) |
