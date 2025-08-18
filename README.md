@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 19:07:29 GMT | Cybersecurity Ecosystem & Careers | Danladi Galadima | [Read More](https://medium.com/p/279966df3fa6) |
+| Mon, 18 Aug 2025 19:05:45 GMT | AI-Powered Drones: How They’re Redefining Industry and Public Safety | Hafizbilaltariq | [Read More](https://medium.com/p/681efc8a6ec1) |
+| Mon, 18 Aug 2025 18:52:10 GMT | Subdomain Takeover Explained  (And How Hackers Earn $$$ From It) | Vipul Sonule | [Read More](https://medium.com/p/85bc47553d35) |
+| Mon, 18 Aug 2025 18:52:04 GMT | Cache Control the P4 Bug | TSxNINJA | [Read More](https://medium.com/p/dfe254bb72d3) |
+| Mon, 18 Aug 2025 18:51:51 GMT | The Three Who Guard the Digital World | Shreyas Kundar | [Read More](https://medium.com/p/35f3002eb05c) |
+| Mon, 18 Aug 2025 18:51:33 GMT | Why Your “Strong” Password is Useless in 2025 (And What to Use Instead) | Aj | [Read More](https://medium.com/p/4f2a1fffa45b) |
+| Mon, 18 Aug 2025 18:51:27 GMT | The Android App That Stole My Location Data: Spyware Disguised as a Utility | Shahzaib | [Read More](https://medium.com/p/b2fd762c8f72) |
+| Mon, 18 Aug 2025 18:49:24 GMT | Elastic EDR Zero-Day: Bypass Detection, Execute Malware, and Trigger BSOD-What Happened and How to… | cybrNK | [Read More](https://medium.com/p/363ca11062b9) |
+| Mon, 18 Aug 2025 18:49:12 GMT | Foundations of Cybersecurity | Danladi Galadima | [Read More](https://medium.com/p/71b27db4508e) |
+| Mon, 18 Aug 2025 18:44:48 GMT | Why the Future of AI Is Local: Building a Privacy-First AI Studio | Aakash Kasamsetty | [Read More](https://medium.com/p/5d4f549a9377) |
+| Mon, 18 Aug 2025 18:38:51 GMT | Cyber Security Monitoring: The One Strategy Hackers Don’t Want You to Know | SafeAeon Inc. | [Read More](https://medium.com/p/836e1e9307b0) |
+| Mon, 18 Aug 2025 18:38:45 GMT | Part 1: Understanding Security in Applications | Ganga Siva Krishna Palla | [Read More](https://medium.com/p/4d9b7b054f51) |
+| Mon, 18 Aug 2025 18:35:21 GMT | Day 49 — Multi-Stage Email-Phishing Campaign | Jinay | [Read More](https://medium.com/p/5ad8a8d7224e) |
+| Mon, 18 Aug 2025 18:30:37 GMT | Why Russia Wants Svalbard | Jonathan Stephen Harry Riley | [Read More](https://medium.com/p/4857652332d3) |
+| Mon, 18 Aug 2025 18:28:37 GMT | Lock, Mint, Hack: The Dark Side of Blockchain Bridges | Evgenii | [Read More](https://medium.com/p/068185408ba2) |
 | Mon, 18 Aug 2025 18:24:44 GMT | Execute and Identify Credential Abuse in AWS -Walkthrough | @@ru$hi | [Read More](https://medium.com/p/bc17e894e134) |
 | Mon, 18 Aug 2025 18:18:45 GMT | Exploit the game Blindly : With Blind XSS | #$ubh@nk@r | [Read More](https://medium.com/p/1f82479dfbc4) |
 | Mon, 18 Aug 2025 18:10:46 GMT | MD2PDF - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/c3628292a4af) |
@@ -100,18 +115,3 @@ America’s greatest… | Lales | [Read More](https://medium.com/p/905ad630c3fc)
 | Mon, 18 Aug 2025 14:16:57 GMT | AWS S3 Buckets: Secure vs. Insecure — What Every Cloud User Should Know | Rue | [Read More](https://medium.com/p/fe9de1c6f942) |
 | Mon, 18 Aug 2025 14:16:46 GMT | AWS VPC Explained Like a Housing Society | Indrajit Dan | [Read More](https://medium.com/p/bc2327e041fa) |
 | Mon, 18 Aug 2025 14:15:15 GMT | Jai Shree Ram | harsha vardhan reddy kunduru | [Read More](https://medium.com/p/88c4a2ea2052) |
-| Mon, 18 Aug 2025 14:11:22 GMT | Guardians of Safety, Powered by Technology | Quva India | [Read More](https://medium.com/p/9653971109a6) |
-| Mon, 18 Aug 2025 14:11:18 GMT | Cybersecurity dan Zero Trust Architecture: Fondasi Keamanan Digital Modern | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/a673c3dfd5fd) |
-| Mon, 18 Aug 2025 14:08:23 GMT | WHY YOU STILL GET SCAMMED IN 2025 | Ushafa Wuakera | [Read More](https://medium.com/p/7152baa0fbd8) |
-| Mon, 18 Aug 2025 14:03:01 GMT | Why Smart Businesses Trust IT Managed Services Providers in Springfield | PCnet | [Read More](https://medium.com/p/8e8dd0ff6735) |
-| Mon, 18 Aug 2025 14:03:00 GMT | The Hidden Power of TikTok in Global Politics | Alex Mediano | [Read More](https://medium.com/p/953c1965c13a) |
-| Mon, 18 Aug 2025 14:02:01 GMT | What to Look for in a Pentest Report and Why Continuous Pentesting Changes the Game | Sprocket Security | [Read More](https://medium.com/p/c4da32f7796a) |
-| Mon, 18 Aug 2025 13:56:46 GMT | The Digital Pickpockets: How Android Malware is Rewriting the Rules of Banking Fraud | Ismail Tasdelen | [Read More](https://medium.com/p/50165614f903) |
-| Mon, 18 Aug 2025 13:55:46 GMT | Reverse Engineering Lumma Stealer: Dissecting a Modern Infostealer Campaign | Jon C | [Read More](https://medium.com/p/f2fefb5b8412) |
-| Mon, 18 Aug 2025 13:51:57 GMT | ️ Signed, Sealed, Exploited: How a JWT Forgery in GraphQL Got Me Root Access | Iski | [Read More](https://medium.com/p/e10a40883a3b) |
-| Mon, 18 Aug 2025 13:46:15 GMT | CyberTalents: X-File writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/fc4b8f10060f) |
-| Mon, 18 Aug 2025 13:41:56 GMT | How to Fix AWS EKS High Availability Issues: Spot Loss, IP Exhaustion & Scaling Delays | Ismail Kovvuru | [Read More](https://medium.com/p/0898227d379e) |
-| Mon, 18 Aug 2025 13:39:23 GMT | Can Technology Make Life Possible After Death? Exploring Digital Immortality | sana irshad | [Read More](https://medium.com/p/39241cbd6512) |
-| Mon, 18 Aug 2025 13:34:09 GMT | HACKING SCAMMERS | afc_pola | [Read More](https://medium.com/p/1a86591f5004) |
-| Mon, 18 Aug 2025 13:30:14 GMT | Authorization: A Developer’s Complete Guide | Raphael Abayomi | [Read More](https://medium.com/p/45766354af04) |
-| Mon, 18 Aug 2025 13:27:10 GMT | ️ Linux Security Modules: Protecting Your System with SELinux and AppArmor | Esra Kayhan | [Read More](https://medium.com/p/3b9624f695ee) |
