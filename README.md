@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 08:26:09 GMT | Advancing Identity Management for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/dbfb3ca043ec) |
+| Mon, 18 Aug 2025 08:24:54 GMT | Advancing Identity Management for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/88e4c46edb0c) |
+| Mon, 18 Aug 2025 08:23:37 GMT | Advancing Identity Management for Professionals | Cyber Security Research | [Read More](https://medium.com/p/2d0547a3c6b8) |
+| Mon, 18 Aug 2025 08:22:21 GMT | Advancing Identity Management for Organizations | Cyber Security Research | [Read More](https://medium.com/p/949e334043fe) |
+| Mon, 18 Aug 2025 08:21:05 GMT | Advancing Identity Management for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/7377b05d50ee) |
+| Mon, 18 Aug 2025 08:20:42 GMT | The Multiplier Effect: How MSPs Transform One ISMS Implementation Into Continuous Business Value | Robert Güntherberg | [Read More](https://medium.com/p/0b7a65e310e1) |
+| Mon, 18 Aug 2025 08:19:58 GMT | Driving Cybersecurity Forward with SIEM, XDR, and LogScale | Vijilan | [Read More](https://medium.com/p/06389a0a2510) |
+| Mon, 18 Aug 2025 08:19:50 GMT | Advancing Identity Management for Decision Makers | Cyber Security Research | [Read More](https://medium.com/p/26c4cbb60da7) |
+| Mon, 18 Aug 2025 08:18:29 GMT | Advancing Identity Management and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/009740218f81) |
+| Mon, 18 Aug 2025 08:16:33 GMT | Securing Microsoft 365 Break Glass Accounts | Jard | [Read More](https://medium.com/p/e16e46a7cbe7) |
+| Mon, 18 Aug 2025 08:15:40 GMT | Professional Website Development Company — Build Your Online Success | Altiora Infotech | [Read More](https://medium.com/p/e6482cf93665) |
+| Mon, 18 Aug 2025 08:10:44 GMT | Zero Trust Explained Like You’re at a College Party | Vaishnavi Sharma | [Read More](https://medium.com/p/e535311e6a57) |
+| Mon, 18 Aug 2025 08:07:13 GMT | Samsung S24 Exploit Chain Pwn2Own 2024 Walkthrough | Happy Jester | [Read More](https://medium.com/p/c7a3da9a7a26) |
+| Mon, 18 Aug 2025 08:01:59 GMT | GitHub Actions as a Secure DevOps Orchestrator: Beyond CI/CD | Mohamed ElEmam | [Read More](https://medium.com/p/d00f9ee53794) |
+| Mon, 18 Aug 2025 07:59:34 GMT | 10 Tools to Make Your Internet Experience Safer. | Saheransari | [Read More](https://medium.com/p/3f41b3079c34) |
+| Mon, 18 Aug 2025 07:57:24 GMT | The Tape Doesn’t Lie… Until It Does | ComsignTrust LTD | [Read More](https://medium.com/p/2c44c59ef9e3) |
+| Mon, 18 Aug 2025 07:51:52 GMT | Not Your Keys, Not Your Coins: An Essential Guide to Crypto Wallets | Moolah Capital | [Read More](https://medium.com/p/f1a1ddc78946) |
+| Mon, 18 Aug 2025 07:51:07 GMT | MITRE ATT&CK ve Cyber Kill Chain: Tehditleri Anlamanın İki Yolu | Mehmet Sancaktaroğlu | [Read More](https://medium.com/p/d3382d8e6516) |
 | Mon, 18 Aug 2025 07:40:08 GMT | How I Passed the PJPT - My Journey, Lessons, and Tips for Aspiring Pentesters. | Kizito Arinze Chukwu | [Read More](https://medium.com/p/e757e91f18d0) |
 | Mon, 18 Aug 2025 07:36:51 GMT | Home Security Camera System in Mumbai, Thane and Pune — Techno Eye. | Techno Eye | [Read More](https://medium.com/p/43788e3a9f71) |
 | Mon, 18 Aug 2025 07:29:54 GMT | Challenges in Digital Forensics and How to Overcome Them | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/a032ea387a4c) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 03:56:16 GMT | AI Agents and Automation: Trust, Risk and Security Management | Jingdong Sun | [Read More](https://medium.com/p/48771fb7fe65) |
 | Mon, 18 Aug 2025 03:50:43 GMT | The Complete DevSecOps Transformation Guide | Rizqi Mulki | [Read More](https://medium.com/p/0578e4ff41a6) |
 | Mon, 18 Aug 2025 03:48:36 GMT | Why Your CDN Might Be Making Your Site Slower | Rizqi Mulki | [Read More](https://medium.com/p/e9f9887b805f) |
-| Mon, 18 Aug 2025 03:43:30 GMT | From Asimov’s Dreams to Digital Nightmares | Joachim Bertot | [Read More](https://medium.com/p/e710d8b40bc0) |
-| Mon, 18 Aug 2025 03:31:55 GMT | Incognito Mode Isn’t Private: What You are Really Exposing When You Think You’re Hidden | Deven Chhajed | [Read More](https://medium.com/p/d180da13d3f0) |
-| Mon, 18 Aug 2025 03:27:26 GMT | Why Your ‘Secure’ Email is a Joke (and How to Fix It) | Aj | [Read More](https://medium.com/p/1b37261853eb) |
-| Mon, 18 Aug 2025 03:24:54 GMT | Topic 8: Integrating LLM Security into Your Existing Cybersecurity Framework: A Strategic Roadmap | Scott Huang | [Read More](https://medium.com/p/433afe906e69) |
-| Mon, 18 Aug 2025 03:23:55 GMT | Building Secure Software: A Guide for Engineers | Hamza Naveed Mohammed | [Read More](https://medium.com/p/becc598e2fbb) |
-| Mon, 18 Aug 2025 03:21:59 GMT | How Continuous Monitoring Saves Your Organization from Major Data Breaches | Secure My ORG | [Read More](https://medium.com/p/f4b192b65f09) |
-| Mon, 18 Aug 2025 03:17:30 GMT | Active Exploits Detected: Apache ActiveMQ Remote Code Execution (RCE) | AerieWhole123 | [Read More](https://medium.com/p/cac20e1d405e) |
-| Mon, 18 Aug 2025 03:08:18 GMT | My Last Time Using the Internet | Enki~Mardil~xox~King of Flowers~ | [Read More](https://medium.com/p/198dcc66d1cd) |
-| Mon, 18 Aug 2025 03:05:54 GMT | My First Custom Virus (A Harmless Prank) | Devanik Debnath | [Read More](https://medium.com/p/e8ac6749c892) |
-| Mon, 18 Aug 2025 02:47:20 GMT | RECOVER ALL YOUR LOST CRYPTOCURRENCY WITH THE HELP OF OPTIMISTIC HACKER GAIUS | Jamesethan | [Read More](https://medium.com/p/1a6d0d0b04ba) |
-| Mon, 18 Aug 2025 02:42:48 GMT | Redirecting Restored Files by Editing Windows $I Metadata | Jevaunsmith | [Read More](https://medium.com/p/2987aaad20f0) |
-| Mon, 18 Aug 2025 02:41:40 GMT | How Does an AI Security Certification Prepare You for Real-World Threats? | Modern Security | [Read More](https://medium.com/p/981f8d8b4a06) |
-| Mon, 18 Aug 2025 02:37:58 GMT | Implementing Google Cloud DLP API in Your GCP Application | Neel Shah | [Read More](https://medium.com/p/f84fe6cb8ad7) |
-| Mon, 18 Aug 2025 02:31:57 GMT | How I Exploited 3 Unique Race Condition Bugs | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/934ea54ebf58) |
-| Mon, 18 Aug 2025 01:54:14 GMT | Mobile Security Towers vs Cameras: What’s Best for Construction Site Monitoring? | Ivis Constructionsurveillance | [Read More](https://medium.com/p/6cfbdbfe02f2) |
-| Mon, 18 Aug 2025 01:47:17 GMT | The Michels Corpus | Julian Michels | [Read More](https://medium.com/p/a6b16f26a3c6) |
-| Mon, 18 Aug 2025 01:45:11 GMT | Web Uygulamalarının Arkasındaki Sessiz Tehditler | Tuba ÜNSAL | [Read More](https://medium.com/p/a31223bfd9f6) |
-| Mon, 18 Aug 2025 01:30:34 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 2 Walkthrough | Mabdullahbinkhalid | [Read More](https://medium.com/p/c12ea53a511b) |
