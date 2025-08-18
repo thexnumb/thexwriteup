@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 22:16:15 GMT | Hunting for Ransomware in Active Directory Environments | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d1c09b95c684) |
+| Mon, 18 Aug 2025 22:10:48 GMT | Forensics: scriptCTF 2025-diskchal Writeup | Rana chouchane | [Read More](https://medium.com/p/4db1025a0e82) |
+| Mon, 18 Aug 2025 22:01:59 GMT | When Code Turns Carnivore: The Night Technical Debt Ate Your AI | James Kuhman | [Read More](https://medium.com/p/659d7df959dc) |
+| Mon, 18 Aug 2025 21:57:32 GMT | Hire a hacker | Hiltonbradley | [Read More](https://medium.com/p/02384ed7ce5e) |
+| Mon, 18 Aug 2025 21:56:17 GMT | The Cognitive Load of AI in Cybersecurity: A Blue Team View | Titus | [Read More](https://medium.com/p/b323535b695f) |
+| Mon, 18 Aug 2025 21:41:42 GMT | Step-by-Step Guide: Create Your Own Cybersecurity Lab Using VirtualBox | Emmanuel Guerra Martínez | [Read More](https://medium.com/p/511f7a23ff8d) |
 | Mon, 18 Aug 2025 21:30:04 GMT | here’s how I recover my money from smartstp | Mathew | [Read More](https://medium.com/p/fa439253164f) |
 | Mon, 18 Aug 2025 21:29:03 GMT | Can AI Really Catch a Phish? | Yash Gorasiya | [Read More](https://medium.com/p/ae70f6c55f66) |
 | Mon, 18 Aug 2025 21:28:46 GMT | The Future of Cybersecurity: AI, Cloud Security, and Mass Surveillance | Om Kinkhabwala | [Read More](https://medium.com/p/9c42361ba255) |
@@ -107,11 +113,3 @@ By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
 | Mon, 18 Aug 2025 16:01:22 GMT | Gitlab XSS Using json:table Markdown — Worth $13,950 — Commits Page | Justas_b | [Read More](https://medium.com/p/93104473620e) |
 | Mon, 18 Aug 2025 15:58:40 GMT | Monday Cyber Brief — August 18 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/94ba71fb7d8d) |
 | Mon, 18 Aug 2025 15:50:32 GMT | 分享一个网站：LOTP — Living Off the Pipeline | R CE | [Read More](https://medium.com/p/fc9374e4184a) |
-| Mon, 18 Aug 2025 15:50:01 GMT | The Hidden Nightmare in Your Web Infrastructure: How MadeYouReset is Rewriting the Rules of Cyber… | Ismail Tasdelen | [Read More](https://medium.com/p/b681a06dc354) |
-| Mon, 18 Aug 2025 15:47:12 GMT | Recon | Mohammed Hassan | [Read More](https://medium.com/p/f142ff07001d) |
-| Mon, 18 Aug 2025 15:46:03 GMT | The Hidden Threat in Your Code: How Malicious PyPI and npm Packages Are Weaponizing Developer Trust… | Ismail Tasdelen | [Read More](https://medium.com/p/2a472ec03a02) |
-| Mon, 18 Aug 2025 15:34:43 GMT | Grow your wealth with confidence
-Grow your wealth with confidence
-Since 2018, we’ve delivered… | Joshua onoja Akwu | [Read More](https://medium.com/p/4698ae5d7145) |
-| Mon, 18 Aug 2025 15:32:52 GMT | The 80/20 Rule of Hacking (20% Skills = 80% Results) | Nitin yadav | [Read More](https://medium.com/p/8cee2685ccaf) |
-| Mon, 18 Aug 2025 15:29:55 GMT | Network & Infrastructure Penetration Testing Services - SecureRoot | secureroot | [Read More](https://medium.com/p/9a0c0c1d9123) |
