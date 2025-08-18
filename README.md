@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 22:32:49 GMT | Set It and Forget It: How to Kill 80% of Cyber Threats in 1 Hour | Cyber-AppSec | [Read More](https://medium.com/p/4bf40bbe5ec8) |
 | Mon, 18 Aug 2025 22:16:15 GMT | Hunting for Ransomware in Active Directory Environments | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d1c09b95c684) |
 | Mon, 18 Aug 2025 22:10:48 GMT | Forensics: scriptCTF 2025-diskchal Writeup | Rana chouchane | [Read More](https://medium.com/p/4db1025a0e82) |
 | Mon, 18 Aug 2025 22:01:59 GMT | When Code Turns Carnivore: The Night Technical Debt Ate Your AI | James Kuhman | [Read More](https://medium.com/p/659d7df959dc) |
@@ -112,4 +113,3 @@ By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
 | Mon, 18 Aug 2025 16:01:53 GMT | Vulnerabilities are in the air… | _Anirudh_ | [Read More](https://medium.com/p/6a2b220c1099) |
 | Mon, 18 Aug 2025 16:01:22 GMT | Gitlab XSS Using json:table Markdown — Worth $13,950 — Commits Page | Justas_b | [Read More](https://medium.com/p/93104473620e) |
 | Mon, 18 Aug 2025 15:58:40 GMT | Monday Cyber Brief — August 18 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/94ba71fb7d8d) |
-| Mon, 18 Aug 2025 15:50:32 GMT | 分享一个网站：LOTP — Living Off the Pipeline | R CE | [Read More](https://medium.com/p/fc9374e4184a) |
