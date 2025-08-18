@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 13:34:09 GMT | HACKING SCAMMERS | afc_pola | [Read More](https://medium.com/p/1a86591f5004) |
+| Mon, 18 Aug 2025 13:30:14 GMT | Authorization: A Developer’s Complete Guide | Raphael Abayomi | [Read More](https://medium.com/p/45766354af04) |
+| Mon, 18 Aug 2025 13:27:10 GMT | ️ Linux Security Modules: Protecting Your System with SELinux and AppArmor | Esra Kayhan | [Read More](https://medium.com/p/3b9624f695ee) |
+| Mon, 18 Aug 2025 13:27:09 GMT | A Fix for “ERROR kuhl_m_sekurlsa_acquireLSA ; Logon list” | Prath | [Read More](https://medium.com/p/6c599fb6ad39) |
+| Mon, 18 Aug 2025 13:25:00 GMT | Credential Theft in 2025: The Password Problem We Can’t Ignore | CyberSamm | [Read More](https://medium.com/p/0d8119c059a3) |
+| Mon, 18 Aug 2025 13:23:12 GMT | API Keys vs. JWTs. The Hotel Key vs. The Festival Wristband. | Kisalay | [Read More](https://medium.com/p/d998c6bab6d3) |
+| Mon, 18 Aug 2025 13:21:47 GMT | ChatGPT-5 Jailbroken in Just 24 Hours | Surya Teja | [Read More](https://medium.com/p/5b19757bf3be) |
+| Mon, 18 Aug 2025 13:14:36 GMT | Women in Tech: Equality or Just a Formality of Companies? | Prince Bharti | [Read More](https://medium.com/p/093ab1f29eae) |
+| Mon, 18 Aug 2025 13:11:58 GMT | ️ How to Perform a Security Audit on a Web Application | Giampaolocappellotto | [Read More](https://medium.com/p/cccb2bbe12a8) |
+| Mon, 18 Aug 2025 13:09:47 GMT | Fortigate IPsec VPN Configuration | Furkan Karayalcin | [Read More](https://medium.com/p/ea00a8ab39bb) |
+| Mon, 18 Aug 2025 13:06:28 GMT | I Bypassed a WAF Using Only SQLMap | Ibtissam hammadi | [Read More](https://medium.com/p/6857901bc931) |
+| Mon, 18 Aug 2025 13:06:01 GMT | What Is a Password Manager? A Simple Guide to Securing Your Digital Life | Timónofearth | [Read More](https://medium.com/p/0f38e50bd001) |
+| Mon, 18 Aug 2025 13:04:35 GMT | Outsourcing Your SOC: A Smarter Approach to Cybersecurity | Ampcus Cyber | [Read More](https://medium.com/p/00a1109bff82) |
+| Mon, 18 Aug 2025 13:03:13 GMT | Google Gemini’s New Projects Feature Could Change How We Research | Welsh | [Read More](https://medium.com/p/d0a81438356e) |
+| Mon, 18 Aug 2025 13:02:31 GMT | The New Age of Cybersecurity: How AI is Reshaping Defense | Umair Baig | [Read More](https://medium.com/p/9f12e497144a) |
+| Mon, 18 Aug 2025 13:02:28 GMT | How I Found an IDOR(BOLA) in Seamless (After a Day of Nothing) | Rishabh kumar | [Read More](https://medium.com/p/d1f4a2357671) |
+| Mon, 18 Aug 2025 13:02:09 GMT | ✨ How JavaScript Runs: Browser vs PC vs Beyond  - Understanding Its Environment & Benefits | Zoningxtr | [Read More](https://medium.com/p/efe7c4621e4f) |
+| Mon, 18 Aug 2025 12:54:47 GMT | Food Security in India | The United Indian | [Read More](https://medium.com/p/4c09d2126712) |
+| Mon, 18 Aug 2025 12:50:48 GMT | Anthropic Just Gave Claude a Feature ChatGPT Doesn’t Have | Welsh | [Read More](https://medium.com/p/61bd7531f43d) |
+| Mon, 18 Aug 2025 12:48:44 GMT | What Makes Relationships Thrive Beyond the Surface | Bright Flow | [Read More](https://medium.com/p/029765fdef57) |
 | Mon, 18 Aug 2025 12:34:08 GMT | A Monday Morning in IT (a.k.a. “Why I Don’t Need Coffee”) | Damien Ponders | [Read More](https://medium.com/p/f5e8dc485192) |
 | Mon, 18 Aug 2025 12:33:24 GMT | Sulu | strawb3ng | [Read More](https://medium.com/p/ca361e258886) |
 | Mon, 18 Aug 2025 12:28:14 GMT | Free Temporary Email — Protect Your Privacy and Avoid Spam | Free Temporary Email | [Read More](https://medium.com/p/49482777560b) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 09:07:48 GMT | Broken Access Control: The Gateway to Unauthorized Privilege Escalation | YoungerSibling | [Read More](https://medium.com/p/b1cdee656cd2) |
 | Mon, 18 Aug 2025 09:04:51 GMT | Building HeaderGuard: a Website Security Header Scanner | Sreya Menon | [Read More](https://medium.com/p/3ec34e156948) |
 | Mon, 18 Aug 2025 09:02:21 GMT | When Millions Watch and Minutes Cost Millions: The Smart TV Blackout Incident | Ismail Kovvuru | [Read More](https://medium.com/p/30aa5c15dcf3) |
-| Mon, 18 Aug 2025 09:02:01 GMT | ScriptCTF Pwn: Index | Zeyad Salah | [Read More](https://medium.com/p/249ffc4eaa87) |
-| Mon, 18 Aug 2025 09:01:06 GMT | Top Secret Documents Found? What It Means for Your Data | Truspex | [Read More](https://medium.com/p/fea5320553a0) |
-| Mon, 18 Aug 2025 09:01:00 GMT | Low-Code Platforms and Startup Tech Ideas to Explore | Bhavesh Rajpurohit | [Read More](https://medium.com/p/e52543ca563a) |
-| Mon, 18 Aug 2025 09:00:25 GMT | Advancing Incident Response and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/6afd38bf5d42) |
-| Mon, 18 Aug 2025 09:00:00 GMT | Market Movers Alert: TechSolucionesFin Tracks Today’s Power Plays | TechSolucionesFin | [Read More](https://medium.com/p/fa573f3f7745) |
-| Mon, 18 Aug 2025 08:58:38 GMT | Advancing Incident Response and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/81d74ac7c6d3) |
-| Mon, 18 Aug 2025 08:57:10 GMT | Securing React Native Apps in 2025: Updated Best Practices | Pankaj Bhardwaj | [Read More](https://medium.com/p/9554906544ef) |
-| Mon, 18 Aug 2025 08:51:36 GMT | Advancing Identity Management with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/ec7d36e3db4c) |
-| Mon, 18 Aug 2025 08:48:51 GMT | Red Team vs. Blue Team | Sparshika | [Read More](https://medium.com/p/d144b74594ca) |
-| Mon, 18 Aug 2025 08:47:27 GMT | TCC Bypass in Visual Studio Code via misconfigured Node fuses on macOS | Karol Mazurek | [Read More](https://medium.com/p/f8676ad8f08a) |
-| Mon, 18 Aug 2025 08:39:51 GMT | Why Every Showroom Needs CCTV Cameras for Security & Sales Monitoring | Smart Secures | [Read More](https://medium.com/p/30c84098aacc) |
-| Mon, 18 Aug 2025 08:36:39 GMT | Security Fencing in Saudi Arabia (KSA): The Complete Buyer’s Guide for 2025 | Hitechfence | [Read More](https://medium.com/p/91b53690ff13) |
-| Mon, 18 Aug 2025 08:36:26 GMT | Top 5 Cybersecurity Certifications That Recruiters Can’t Ignore — Salary Insights + Skill Breakdown | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/179168fe8978) |
-| Mon, 18 Aug 2025 08:26:09 GMT | Advancing Identity Management for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/dbfb3ca043ec) |
-| Mon, 18 Aug 2025 08:24:54 GMT | Advancing Identity Management for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/88e4c46edb0c) |
-| Mon, 18 Aug 2025 08:23:37 GMT | Advancing Identity Management for Professionals | Cyber Security Research | [Read More](https://medium.com/p/2d0547a3c6b8) |
-| Mon, 18 Aug 2025 08:22:21 GMT | Advancing Identity Management for Organizations | Cyber Security Research | [Read More](https://medium.com/p/949e334043fe) |
-| Mon, 18 Aug 2025 08:21:05 GMT | Advancing Identity Management for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/7377b05d50ee) |
-| Mon, 18 Aug 2025 08:20:42 GMT | The Multiplier Effect: How MSPs Transform One ISMS Implementation Into Continuous Business Value | Robert Güntherberg | [Read More](https://medium.com/p/0b7a65e310e1) |
-| Mon, 18 Aug 2025 08:19:58 GMT | Driving Cybersecurity Forward with SIEM, XDR, and LogScale | Vijilan | [Read More](https://medium.com/p/06389a0a2510) |
