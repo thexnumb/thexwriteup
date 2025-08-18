@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 07:11:01 GMT | Top Mobile Application Security Certifications You Need in 2025 | cyber security Updates | [Read More](https://medium.com/p/5a964707a7f3) |
+| Mon, 18 Aug 2025 07:08:43 GMT | Guide to Depositing BUG on StakingRewards with MetaMask or Ledger | BUG | [Read More](https://medium.com/p/2fc0c6577631) |
+| Mon, 18 Aug 2025 07:07:43 GMT | AI-Driven Incident Response: Transforming Cybersecurity for Modern Enterprises | Vihaan Sethi | [Read More](https://medium.com/p/aa099650c350) |
+| Mon, 18 Aug 2025 07:06:01 GMT | Cracking the Fingerprint Vault | Meni Tasa (@CyberBriefProject) | [Read More](https://medium.com/p/ac6238013100) |
+| Mon, 18 Aug 2025 07:04:53 GMT | Security Headers from your NGINX Ingress configuration. | Madhav Prajapati | [Read More](https://medium.com/p/54c795915abd) |
+| Mon, 18 Aug 2025 07:04:13 GMT | Blockchain-Themed CTF on Windows: Steganography, Hashing & Encryption | Jahson Jno-Baptiste | [Read More](https://medium.com/p/3ed36f436157) |
+| Mon, 18 Aug 2025 07:01:56 GMT | CTF for beginners | vulnhunter | [Read More](https://medium.com/p/3b9b3f2a8a15) |
+| Mon, 18 Aug 2025 07:01:11 GMT | Desecure ile Yangına Karşı Teknolojik Alarm Sistemlerinde Uzman Çözüm | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/dd7c9de702aa) |
+| Mon, 18 Aug 2025 06:55:24 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5afbcfaefc46) |
+| Mon, 18 Aug 2025 06:53:37 GMT | The $100 Million Crypto Scandal: How Russian Exchanges Played Hide and Seek with US Sanctions | Ismail Tasdelen | [Read More](https://medium.com/p/47638a077408) |
+| Mon, 18 Aug 2025 06:50:09 GMT | The Hoodie Trap: A Critique of Hacker Visual Culture | Taulan Zauzanov | [Read More](https://medium.com/p/0f3a3e6fa0f3) |
+| Mon, 18 Aug 2025 06:48:39 GMT | ประจำวันจันทร์ที่ 18 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/e0528e921201) |
+| Mon, 18 Aug 2025 06:48:28 GMT | VirtualHost And Subdomains | PriOFF | [Read More](https://medium.com/p/36e2e156fa4e) |
+| Mon, 18 Aug 2025 06:47:06 GMT | Best Voice Bot Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/5aa318223777) |
+| Mon, 18 Aug 2025 06:39:45 GMT | Manual, Automated, and AI-Assisted Analysis in Cybersecurity: Striking the Balance | Tedislava Vasileva | [Read More](https://medium.com/p/af7791bee909) |
 | Mon, 18 Aug 2025 06:36:05 GMT | What is HexStrike AI v6.0?? | cybrNK | [Read More](https://medium.com/p/243db0904440) |
 | Mon, 18 Aug 2025 06:32:36 GMT | Golden Levers of Business | Alex Noboa | [Read More](https://medium.com/p/2c9954880ad6) |
 | Mon, 18 Aug 2025 06:28:21 GMT | tDedicated Server for Education: Everything You Need to Know | HostNOC | [Read More](https://medium.com/p/927f7177fff3) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 01:12:59 GMT | Deep Work: Why Focus Is the New Cybersecurity Firewall | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/f87d62a1e16c) |
 | Mon, 18 Aug 2025 00:33:37 GMT | $500 Bounty: How a Logic Flaw Allowed Silent Logins in a Financial Application | luq0x | [Read More](https://medium.com/p/5eed48939018) |
 | Mon, 18 Aug 2025 00:21:57 GMT | Why I Never Trust Default Linux User Accounts (And Neither Should You) | Faruk Ahmed | [Read More](https://medium.com/p/adf5fad9fe95) |
-| Mon, 18 Aug 2025 00:14:33 GMT | Zero Trust Architecture: Rethinking Cybersecurity for a Modern World | Maham Shariff | [Read More](https://medium.com/p/a40d7339e7d3) |
-| Mon, 18 Aug 2025 00:11:07 GMT | Multi-Cloud Weather Tracker App with Disaster Recovery using Terraform | Akuphe Dieudonne | [Read More](https://medium.com/p/496ce5f3dec0) |
-| Mon, 18 Aug 2025 00:03:54 GMT | Nocturnal - HacktheBox Writeup | CN-0x - eCPPT - OSCP - Threat Hunter | [Read More](https://medium.com/p/ea2219924432) |
-| Sun, 17 Aug 2025 23:47:32 GMT | 9. Theming & Customization in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/df78f2e5ab56) |
-| Sun, 17 Aug 2025 23:38:21 GMT | 4 Counterfeited Valid Certificates Leaked Using Bug Bounty Skills | NnFace | [Read More](https://medium.com/p/3ed856006b74) |
-| Sun, 17 Aug 2025 23:32:07 GMT | Security Interview Prep Series — 15. Secure Code Review | Shraddha M. | [Read More](https://medium.com/p/38f9444e8f13) |
-| Sun, 17 Aug 2025 23:23:41 GMT | Weaponizing the Applicant Name Field: An Overlooked Phishing Vector in Applicant Tracking Systems | Brenton McPherson | [Read More](https://medium.com/p/5f2dc49553a2) |
-| Sun, 17 Aug 2025 23:23:35 GMT | 100 Days of Brittney’s Bytes ✨ | Brittney Ginther | [Read More](https://medium.com/p/68b778cc9a67) |
-| Sun, 17 Aug 2025 23:16:26 GMT | Why You Must Update Your Software Regularly: Lessons from the NotPetya Hack | Marcus | [Read More](https://medium.com/p/6cbe20d67b81) |
-| Sun, 17 Aug 2025 23:08:52 GMT | Mastering Reflected Cross-Site Scripting & Bypassing Filters | Beri Contraster | [Read More](https://medium.com/p/c59f3095f621) |
-| Sun, 17 Aug 2025 23:02:00 GMT | Blue Team Labs Online — Reverse Engineering — A Classic Injection Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/5ff909e2630f) |
-| Sun, 17 Aug 2025 22:49:07 GMT | HexStrike AI v6.0 – The Future of Autonomous Cybersecurity | Chintala Taraka Ram | [Read More](https://medium.com/p/1f5ee70fc34e) |
-| Sun, 17 Aug 2025 22:33:58 GMT | RECOVER ALL YOUR LOST CRYPTOCURRENCY WITH THE HELP OF OPTIMISTIC HACKER GAIUS | Jamesethan | [Read More](https://medium.com/p/c7d9deabd181) |
-| Sun, 17 Aug 2025 22:31:56 GMT | INTERNAL WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/8a28f0fe125b) |
-| Sun, 17 Aug 2025 22:26:51 GMT | Cross-Site Request Forgery (CSRF): Understanding and Defending Against a Silent Web Threat | Emma Lateyron | [Read More](https://medium.com/p/9494054dfa4b) |
