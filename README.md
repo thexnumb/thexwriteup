@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 01:47:17 GMT | The Michels Corpus | Julian Michels | [Read More](https://medium.com/p/a6b16f26a3c6) |
+| Mon, 18 Aug 2025 01:45:11 GMT | Web Uygulamalarının Arkasındaki Sessiz Tehditler | Tuba ÜNSAL | [Read More](https://medium.com/p/a31223bfd9f6) |
+| Mon, 18 Aug 2025 01:30:34 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 2 Walkthrough | Mabdullahbinkhalid | [Read More](https://medium.com/p/c12ea53a511b) |
+| Mon, 18 Aug 2025 01:21:35 GMT | ScriptCTF 2025 — Pwn — Index: PIE-Resilient OOB Read via Hidden 1337 Flag Loader | Noman Prodhan | [Read More](https://medium.com/p/0a264dc4b9c9) |
+| Mon, 18 Aug 2025 01:13:04 GMT | HackTheBox - Tabby | jniket | [Read More](https://medium.com/p/2bdf63767c03) |
+| Mon, 18 Aug 2025 01:12:59 GMT | Deep Work: Why Focus Is the New Cybersecurity Firewall | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/f87d62a1e16c) |
+| Mon, 18 Aug 2025 00:33:37 GMT | $500 Bounty: How a Logic Flaw Allowed Silent Logins in a Financial Application | luq0x | [Read More](https://medium.com/p/5eed48939018) |
+| Mon, 18 Aug 2025 00:21:57 GMT | Why I Never Trust Default Linux User Accounts (And Neither Should You) | Faruk Ahmed | [Read More](https://medium.com/p/adf5fad9fe95) |
+| Mon, 18 Aug 2025 00:14:33 GMT | Zero Trust Architecture: Rethinking Cybersecurity for a Modern World | Maham Shariff | [Read More](https://medium.com/p/a40d7339e7d3) |
+| Mon, 18 Aug 2025 00:11:07 GMT | Multi-Cloud Weather Tracker App with Disaster Recovery using Terraform | Akuphe Dieudonne | [Read More](https://medium.com/p/496ce5f3dec0) |
+| Mon, 18 Aug 2025 00:03:54 GMT | Nocturnal - HacktheBox Writeup | CN-0x - eCPPT - OSCP - Threat Hunter | [Read More](https://medium.com/p/ea2219924432) |
+| Sun, 17 Aug 2025 23:47:32 GMT | 9. Theming & Customization in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/df78f2e5ab56) |
 | Sun, 17 Aug 2025 23:38:21 GMT | 4 Counterfeited Valid Certificates Leaked Using Bug Bounty Skills | NnFace | [Read More](https://medium.com/p/3ed856006b74) |
 | Sun, 17 Aug 2025 23:32:07 GMT | Security Interview Prep Series — 15. Secure Code Review | Shraddha M. | [Read More](https://medium.com/p/38f9444e8f13) |
 | Sun, 17 Aug 2025 23:23:41 GMT | Weaponizing the Applicant Name Field: An Overlooked Phishing Vector in Applicant Tracking Systems | Brenton McPherson | [Read More](https://medium.com/p/5f2dc49553a2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 16:31:58 GMT | TLS/SSL Handshake – Detailed Explanation | Devaduthsaji | [Read More](https://medium.com/p/88224c1e4f66) |
 | Sun, 17 Aug 2025 16:31:32 GMT | Best Practices for Secure Smart Contract Development | Kaushalsinh | [Read More](https://medium.com/p/7a11f70468b3) |
 | Sun, 17 Aug 2025 16:23:23 GMT | Beyond alert(“XSS”): What I Learned About XSS After Finding It | CSCF-SUIET MUKKA | [Read More](https://medium.com/p/9638fb698241) |
-| Sun, 17 Aug 2025 16:19:00 GMT | BurpSuite Lab: Indirect Prompt Injection | Aditya Bhatt | [Read More](https://medium.com/p/ede31eb75bee) |
-| Sun, 17 Aug 2025 16:16:56 GMT | A Symbiotic Relationship with AI | Alva Roberts | [Read More](https://medium.com/p/31707d29a225) |
-| Sun, 17 Aug 2025 16:10:53 GMT | [THM] Tryhackme — Mother’s Secret Writeup | ViraSecurity | [Read More](https://medium.com/p/26b9e1ced218) |
-| Sun, 17 Aug 2025 16:01:57 GMT | PicoCTF 2025: head-dump — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/c2abd568a078) |
-| Sun, 17 Aug 2025 15:59:48 GMT | Pickle Rick CTF Walkthrough | Ruposhree B. | [Read More](https://medium.com/p/ca1f211dba5b) |
-| Sun, 17 Aug 2025 15:54:53 GMT | Adventures in AI Security : Claude (Part 2) | API Expert | [Read More](https://medium.com/p/efb37b97895a) |
-| Sun, 17 Aug 2025 15:53:29 GMT | NeoVault — HTB — PT-BR | pad1ryoshi | [Read More](https://medium.com/p/41078a140616) |
-| Sun, 17 Aug 2025 15:47:32 GMT | Zero Trust in the Cloud: Are We Truly Secure? | Sukhpinder Singh - C# .Net | [Read More](https://medium.com/p/a3f5c6184448) |
-| Sun, 17 Aug 2025 15:47:09 GMT | HTB Walkthrough : Fawn(FTP) | Ahmad Sopyan | [Read More](https://medium.com/p/66207fe619a0) |
-| Sun, 17 Aug 2025 15:46:03 GMT | “Day 14: Cookie Hijacking Exposed — How I Bypassed Chrome’s “Secure” Storage” | Aman Sharma | [Read More](https://medium.com/p/9648b32ba6f5) |
-| Sun, 17 Aug 2025 15:43:53 GMT | 100+ Windows CMD Commands Every Hacker & Pentester MUST Know (with Cheat Sheet) | Very Lazy Tech | [Read More](https://medium.com/p/5e194ab7c842) |
-| Sun, 17 Aug 2025 15:36:28 GMT | How To Remove Garbage Named Malware Files from Linux Servers | Ayush Raj | [Read More](https://medium.com/p/0e12f634f78e) |
