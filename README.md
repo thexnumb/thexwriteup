@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 21:30:04 GMT | here’s how I recover my money from smartstp | Mathew | [Read More](https://medium.com/p/fa439253164f) |
+| Mon, 18 Aug 2025 21:29:03 GMT | Can AI Really Catch a Phish? | Yash Gorasiya | [Read More](https://medium.com/p/ae70f6c55f66) |
+| Mon, 18 Aug 2025 21:28:46 GMT | The Future of Cybersecurity: AI, Cloud Security, and Mass Surveillance | Om Kinkhabwala | [Read More](https://medium.com/p/9c42361ba255) |
+| Mon, 18 Aug 2025 21:22:48 GMT | AI, Safely: A 15-Minute Guide for Everyday People | Larry Perkins Jr | [Read More](https://medium.com/p/5d57fc44a255) |
+| Mon, 18 Aug 2025 21:22:45 GMT | Ransomware Is Getting Smarter. Are We? | Patrick Dougherty | [Read More](https://medium.com/p/c7108710cb88) |
+| Mon, 18 Aug 2025 21:19:11 GMT | Cyber colleagues, in the “Google Cybersecurity Professional Certificate” program you will… | Franklin Rhodes | [Read More](https://medium.com/p/4eb495f9ec8a) |
 | Mon, 18 Aug 2025 20:59:25 GMT | Introduction to x86 Reverse Engineering! | Azefox innovations | [Read More](https://medium.com/p/a87e104333f9) |
 | Mon, 18 Aug 2025 20:57:09 GMT | Cyber Resilience Act Executive Guide (10-Part Series) | Cyberkech | [Read More](https://medium.com/p/2792182197b1) |
 | Mon, 18 Aug 2025 20:54:11 GMT | Hiding Payload in PNGs | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8c3effeed964) |
@@ -109,9 +115,3 @@ Grow your wealth with confidence
 Since 2018, we’ve delivered… | Joshua onoja Akwu | [Read More](https://medium.com/p/4698ae5d7145) |
 | Mon, 18 Aug 2025 15:32:52 GMT | The 80/20 Rule of Hacking (20% Skills = 80% Results) | Nitin yadav | [Read More](https://medium.com/p/8cee2685ccaf) |
 | Mon, 18 Aug 2025 15:29:55 GMT | Network & Infrastructure Penetration Testing Services - SecureRoot | secureroot | [Read More](https://medium.com/p/9a0c0c1d9123) |
-| Mon, 18 Aug 2025 15:29:15 GMT | ISO 27001 & ISO 27002 Frameworks Explained for Beginners and How They Compare with NIST | Aarushi Mishra | [Read More](https://medium.com/p/fdccf21794f4) |
-| Mon, 18 Aug 2025 15:28:58 GMT | “Day 15: The Phantom JS Threat — How Forgotten Code Became a Silent RCE Bomb” | Aman Sharma | [Read More](https://medium.com/p/e4f9551b14d8) |
-| Mon, 18 Aug 2025 15:22:07 GMT | TryHackMe - Recovering Active Directory - WriteUp | Axoloth | [Read More](https://medium.com/p/adf194f9409e) |
-| Mon, 18 Aug 2025 15:21:55 GMT | Bug Bounty: Broken Access Control — When Hackers Walk Right In | Rajkumar Kumawat | [Read More](https://medium.com/p/ffb6e04ee756) |
-| Mon, 18 Aug 2025 15:18:04 GMT | Smart Door Locks 2025: The Ultimate Fusion of Security & Convenience | woodworking AYMAN | [Read More](https://medium.com/p/d944cd66c6c5) |
-| Mon, 18 Aug 2025 15:12:16 GMT | Workday Reports Data Exposure Following Third-Party CRM Compromise | RealSec.io | [Read More](https://medium.com/p/693a5be2ffe0) |
