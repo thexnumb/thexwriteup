@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 20:59:25 GMT | Introduction to x86 Reverse Engineering! | Azefox innovations | [Read More](https://medium.com/p/a87e104333f9) |
+| Mon, 18 Aug 2025 20:57:09 GMT | Cyber Resilience Act Executive Guide (10-Part Series) | Cyberkech | [Read More](https://medium.com/p/2792182197b1) |
+| Mon, 18 Aug 2025 20:54:11 GMT | Hiding Payload in PNGs | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8c3effeed964) |
+| Mon, 18 Aug 2025 20:53:30 GMT | Must-Have OSINT Tools for CTF and Investigative Missions | zerOiQ | [Read More](https://medium.com/p/4ad79b815f5b) |
+| Mon, 18 Aug 2025 20:51:28 GMT | Solar Rooftops an Overlooked Issue in National Security? | ShadowPacketRHR | [Read More](https://medium.com/p/66442ff9c08f) |
+| Mon, 18 Aug 2025 20:46:46 GMT | MITRE ATT&CK SIEM Detections: Real Time Detections, Delayed Detections and Splunk | Ertugrul Akbas | [Read More](https://medium.com/p/67d60407cb44) |
+| Mon, 18 Aug 2025 20:44:13 GMT | Hash Fonksiyonları: Bilgi Güvenliğinin Görünmez Kahramanları | Enis Buğra Akada | [Read More](https://medium.com/p/3c6d9eea1434) |
+| Mon, 18 Aug 2025 20:40:40 GMT | Beyond PCI and HIPAA: How Feroot Powers UK Data Protection Act (UK DPA) Compliance | Feroot Security | [Read More](https://medium.com/p/2bd4ad6057d0) |
+| Mon, 18 Aug 2025 20:36:52 GMT | STRENGTHENING SECURITY AND COMMUNITY CONFIDENCE: THE IBAS STRATEGY FOR A SAFER RIVERS STATE
+By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
 | Mon, 18 Aug 2025 20:27:09 GMT | On CyberPunk Metaphysics | Julian Soloninka | [Read More](https://medium.com/p/e2c0b48a8d12) |
 | Mon, 18 Aug 2025 20:15:33 GMT | Bulut Güvenliğin 5 Temel Prensibi | Bedirhan Yigit | [Read More](https://medium.com/p/eecb97c8be05) |
 | Mon, 18 Aug 2025 20:09:20 GMT | From Technical Support Engineer to IT Technician to DevOps Engineer: My Upskilling Journey. | Georgi Tinchev | [Read More](https://medium.com/p/fa1899b0dd73) |
@@ -105,12 +115,3 @@ Since 2018, we’ve delivered… | Joshua onoja Akwu | [Read More](https://mediu
 | Mon, 18 Aug 2025 15:21:55 GMT | Bug Bounty: Broken Access Control — When Hackers Walk Right In | Rajkumar Kumawat | [Read More](https://medium.com/p/ffb6e04ee756) |
 | Mon, 18 Aug 2025 15:18:04 GMT | Smart Door Locks 2025: The Ultimate Fusion of Security & Convenience | woodworking AYMAN | [Read More](https://medium.com/p/d944cd66c6c5) |
 | Mon, 18 Aug 2025 15:12:16 GMT | Workday Reports Data Exposure Following Third-Party CRM Compromise | RealSec.io | [Read More](https://medium.com/p/693a5be2ffe0) |
-| Mon, 18 Aug 2025 15:11:51 GMT | FortiGate Application Control: A Practical View from the Field | Salman Akram | [Read More](https://medium.com/p/2983f5511f6d) |
-| Mon, 18 Aug 2025 15:11:38 GMT | Breaking Through the Cybersecurity Job Market: A Practical Guide | Fabien Soulis | [Read More](https://medium.com/p/cc5a42c429f8) |
-| Mon, 18 Aug 2025 15:08:30 GMT | Automate Terraform Reviews and Security Analysis with Claude AI | Andrew Blooman | [Read More](https://medium.com/p/9fb594b1eb78) |
-| Mon, 18 Aug 2025 15:03:06 GMT | Testing GitLab self-hosted deployments | Kulkan Security | [Read More](https://medium.com/p/5a162b2a23ba) |
-| Mon, 18 Aug 2025 15:02:00 GMT | When Hackers Open Floodgates: Norway’s Dam Shutdown Signals a New Era of Infrastructure… | Dhruvdeep Singh | [Read More](https://medium.com/p/c183e6d752e1) |
-| Mon, 18 Aug 2025 15:01:15 GMT | AI in Cybersecurity: From Fear to Strategic Partnership | Fabien Soulis | [Read More](https://medium.com/p/2428a267754d) |
-| Mon, 18 Aug 2025 14:59:58 GMT | The AI Physiology of Civilization | Tom Yonashiro | [Read More](https://medium.com/p/ed75f045c8ad) |
-| Mon, 18 Aug 2025 14:53:55 GMT | How Scary Google Tracks Everyone | Vivid | [Read More](https://medium.com/p/4b9d4193693e) |
-| Mon, 18 Aug 2025 14:50:03 GMT | ShellShock: How Hackers Exploit Bash Vulnerabilities and How to Protect Yourself | Very Lazy Tech | [Read More](https://medium.com/p/a006c63c1883) |
