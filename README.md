@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 11:35:06 GMT | Introduction to Computer Hardware | Aanya Ali | [Read More](https://medium.com/p/559e31756176) |
+| Mon, 18 Aug 2025 11:31:57 GMT | Quantum Computing as a Service (QCaaS): The Next Major Wave in Software | Jordan Schilling | [Read More](https://medium.com/p/9b6d7c0b3c65) |
+| Mon, 18 Aug 2025 11:31:52 GMT | College Alone Isn’t Enough — What You Need to Really Get Hired in IT. | SCOPE INDIA | [Read More](https://medium.com/p/fa6cbff580ad) |
+| Mon, 18 Aug 2025 11:30:45 GMT | HackTrace CTF Write-Up — Hackviser.com | Ziya Shalbuzov | [Read More](https://medium.com/p/c02881605aeb) |
+| Mon, 18 Aug 2025 11:29:36 GMT | The Digital Pickpockets: How Android Malware is Rewriting the Rules of Banking Fraud | Ismail Tasdelen | [Read More](https://medium.com/p/c06aa40b196c) |
+| Mon, 18 Aug 2025 11:28:38 GMT | Communication Technologies | Aanya Ali | [Read More](https://medium.com/p/947147821a0f) |
+| Mon, 18 Aug 2025 11:27:08 GMT | Can AI Models Leak Your Personal Data? Understanding Membership Inference Attacks | Brittney Ginther | [Read More](https://medium.com/p/a7f69a74b30f) |
+| Mon, 18 Aug 2025 11:27:08 GMT | Bludgeoned Buzzwords: Circle Back | Namir Sagheenanajar | [Read More](https://medium.com/p/0d7a01dc3e80) |
+| Mon, 18 Aug 2025 11:21:55 GMT | Container Security — Copa and Trivy | Pronomita Dey | [Read More](https://medium.com/p/aec8d963df40) |
+| Mon, 18 Aug 2025 11:19:33 GMT | A Brief History: Data Breach Fines | Cybawareness | [Read More](https://medium.com/p/e47ce16174bb) |
 | Mon, 18 Aug 2025 11:17:08 GMT | 5 Questions Every CEO Should Ask About Cybersecurity This Quarter | Evgeny Ermakov | [Read More](https://medium.com/p/e7924c9d3697) |
+| Mon, 18 Aug 2025 11:16:07 GMT | Monitoring MCP Traffic Using eBPF: Part 1 | Alex Ilgayev | [Read More](https://medium.com/p/c445b76377cf) |
 | Mon, 18 Aug 2025 11:12:26 GMT | Bulut Güvenliğinin 5 Temel Taşı: Dijital Kalenizi Savunma Rehberi | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/83f1453c2fd7) |
 | Mon, 18 Aug 2025 11:12:11 GMT | Windows Process Injection Fundamentals | Tom O'Neill | [Read More](https://medium.com/p/00d43ee9ecad) |
 | Mon, 18 Aug 2025 11:10:41 GMT | Mapping the Digital Battlefield: Reconnaissance Process in a Pentest Lab ( Parrot OS +… | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/3e1ddd53d8fe) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 07:21:00 GMT | Network Professional Career Paths: From Admin to Architect | Abiodun Lawrence Akinpedia | [Read More](https://medium.com/p/0e1d6d46ae18) |
 | Mon, 18 Aug 2025 07:11:01 GMT | Top Mobile Application Security Certifications You Need in 2025 | cyber security Updates | [Read More](https://medium.com/p/5a964707a7f3) |
 | Mon, 18 Aug 2025 07:08:43 GMT | Guide to Depositing BUG on StakingRewards with MetaMask or Ledger | BUG | [Read More](https://medium.com/p/2fc0c6577631) |
-| Mon, 18 Aug 2025 07:07:43 GMT | AI-Driven Incident Response: Transforming Cybersecurity for Modern Enterprises | Vihaan Sethi | [Read More](https://medium.com/p/aa099650c350) |
-| Mon, 18 Aug 2025 07:06:01 GMT | Cracking the Fingerprint Vault | Meni Tasa (@CyberBriefProject) | [Read More](https://medium.com/p/ac6238013100) |
-| Mon, 18 Aug 2025 07:04:53 GMT | Security Headers from your NGINX Ingress configuration. | Madhav Prajapati | [Read More](https://medium.com/p/54c795915abd) |
-| Mon, 18 Aug 2025 07:04:13 GMT | Blockchain-Themed CTF on Windows: Steganography, Hashing & Encryption | Jahson Jno-Baptiste | [Read More](https://medium.com/p/3ed36f436157) |
-| Mon, 18 Aug 2025 07:01:56 GMT | CTF for beginners | vulnhunter | [Read More](https://medium.com/p/3b9b3f2a8a15) |
-| Mon, 18 Aug 2025 07:01:11 GMT | Desecure ile Yangına Karşı Teknolojik Alarm Sistemlerinde Uzman Çözüm | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/dd7c9de702aa) |
-| Mon, 18 Aug 2025 06:55:24 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5afbcfaefc46) |
-| Mon, 18 Aug 2025 06:53:37 GMT | The $100 Million Crypto Scandal: How Russian Exchanges Played Hide and Seek with US Sanctions | Ismail Tasdelen | [Read More](https://medium.com/p/47638a077408) |
-| Mon, 18 Aug 2025 06:50:09 GMT | The Hoodie Trap: A Critique of Hacker Visual Culture | Taulan Zauzanov | [Read More](https://medium.com/p/0f3a3e6fa0f3) |
-| Mon, 18 Aug 2025 06:48:39 GMT | ประจำวันจันทร์ที่ 18 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/e0528e921201) |
-| Mon, 18 Aug 2025 06:48:28 GMT | VirtualHost And Subdomains | PriOFF | [Read More](https://medium.com/p/36e2e156fa4e) |
