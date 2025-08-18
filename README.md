@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 16:23:20 GMT | How Hackers Use Tunneling to Bypass Firewalls (Red Team Playbook) | S3CloudHub | [Read More](https://medium.com/p/fbecde22976d) |
+| Mon, 18 Aug 2025 16:21:12 GMT | From Visibility to Viability: OT Asset Inventory as a Leadership Imperative | James Wright | [Read More](https://medium.com/p/f75a51fae437) |
+| Mon, 18 Aug 2025 16:13:47 GMT | Bulut Güvenliğinin 5 Temel Bileşeni: Dijital Çağın Güvenlik Kalkanı | Arda Cinar | [Read More](https://medium.com/p/6e95f0d0f025) |
+| Mon, 18 Aug 2025 16:11:56 GMT | How to Build an AI Agent Your CISO Will Actually Approve | Kuldeep Singh | [Read More](https://medium.com/p/743083770824) |
+| Mon, 18 Aug 2025 16:09:59 GMT | TRYHACKME_ICE ROOM_WALKTHROUGH | Aswinbbu | [Read More](https://medium.com/p/ef32ab6e5a98) |
+| Mon, 18 Aug 2025 16:06:24 GMT | Splunk BOTS Website Defacement | FOIAX | [Read More](https://medium.com/p/8998e1d7648c) |
+| Mon, 18 Aug 2025 16:03:55 GMT | Splunk BOTS Ransomware Challenge | FOIAX | [Read More](https://medium.com/p/992ea6a62fc9) |
+| Mon, 18 Aug 2025 16:01:53 GMT | Vulnerabilities are in the air… | _Anirudh_ | [Read More](https://medium.com/p/6a2b220c1099) |
+| Mon, 18 Aug 2025 16:01:22 GMT | Gitlab XSS Using json:table Markdown — Worth $13,950 — Commits Page | Justas_b | [Read More](https://medium.com/p/93104473620e) |
+| Mon, 18 Aug 2025 15:58:40 GMT | Monday Cyber Brief — August 18 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/94ba71fb7d8d) |
+| Mon, 18 Aug 2025 15:50:32 GMT | 分享一个网站：LOTP — Living Off the Pipeline | R CE | [Read More](https://medium.com/p/fc9374e4184a) |
+| Mon, 18 Aug 2025 15:50:01 GMT | The Hidden Nightmare in Your Web Infrastructure: How MadeYouReset is Rewriting the Rules of Cyber… | Ismail Tasdelen | [Read More](https://medium.com/p/b681a06dc354) |
+| Mon, 18 Aug 2025 15:47:12 GMT | Recon | Mohammed Hassan | [Read More](https://medium.com/p/f142ff07001d) |
+| Mon, 18 Aug 2025 15:46:03 GMT | The Hidden Threat in Your Code: How Malicious PyPI and npm Packages Are Weaponizing Developer Trust… | Ismail Tasdelen | [Read More](https://medium.com/p/2a472ec03a02) |
 | Mon, 18 Aug 2025 15:34:43 GMT | Grow your wealth with confidence
 Grow your wealth with confidence
 Since 2018, we’ve delivered… | Joshua onoja Akwu | [Read More](https://medium.com/p/4698ae5d7145) |
@@ -101,17 +115,3 @@ America’s greatest… | Lales | [Read More](https://medium.com/p/905ad630c3fc)
 | Mon, 18 Aug 2025 11:47:01 GMT | CISCO devises configuration commands & info CCNA 200–301 | Zodiac Hacker | [Read More](https://medium.com/p/b26c5496847a) |
 | Mon, 18 Aug 2025 11:35:06 GMT | Introduction to Computer Hardware | Aanya Ali | [Read More](https://medium.com/p/559e31756176) |
 | Mon, 18 Aug 2025 11:31:57 GMT | Quantum Computing as a Service (QCaaS): The Next Major Wave in Software | Jordan Schilling | [Read More](https://medium.com/p/9b6d7c0b3c65) |
-| Mon, 18 Aug 2025 11:31:52 GMT | College Alone Isn’t Enough — What You Need to Really Get Hired in IT. | SCOPE INDIA | [Read More](https://medium.com/p/fa6cbff580ad) |
-| Mon, 18 Aug 2025 11:30:45 GMT | HackTrace CTF Write-Up — Hackviser.com | Ziya Shalbuzov | [Read More](https://medium.com/p/c02881605aeb) |
-| Mon, 18 Aug 2025 11:29:36 GMT | The Digital Pickpockets: How Android Malware is Rewriting the Rules of Banking Fraud | Ismail Tasdelen | [Read More](https://medium.com/p/c06aa40b196c) |
-| Mon, 18 Aug 2025 11:28:38 GMT | Communication Technologies | Aanya Ali | [Read More](https://medium.com/p/947147821a0f) |
-| Mon, 18 Aug 2025 11:27:08 GMT | Can AI Models Leak Your Personal Data? Understanding Membership Inference Attacks | Brittney Ginther | [Read More](https://medium.com/p/a7f69a74b30f) |
-| Mon, 18 Aug 2025 11:27:08 GMT | Bludgeoned Buzzwords: Circle Back | Namir Sagheenanajar | [Read More](https://medium.com/p/0d7a01dc3e80) |
-| Mon, 18 Aug 2025 11:21:55 GMT | Container Security — Copa and Trivy | Pronomita Dey | [Read More](https://medium.com/p/aec8d963df40) |
-| Mon, 18 Aug 2025 11:19:33 GMT | A Brief History: Data Breach Fines | Cybawareness | [Read More](https://medium.com/p/e47ce16174bb) |
-| Mon, 18 Aug 2025 11:17:08 GMT | 5 Questions Every CEO Should Ask About Cybersecurity This Quarter | Evgeny Ermakov | [Read More](https://medium.com/p/e7924c9d3697) |
-| Mon, 18 Aug 2025 11:16:07 GMT | Monitoring MCP Traffic Using eBPF: Part 1 | Alex Ilgayev | [Read More](https://medium.com/p/c445b76377cf) |
-| Mon, 18 Aug 2025 11:12:26 GMT | Bulut Güvenliğinin 5 Temel Taşı: Dijital Kalenizi Savunma Rehberi | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/83f1453c2fd7) |
-| Mon, 18 Aug 2025 11:12:11 GMT | Windows Process Injection Fundamentals | Tom O'Neill | [Read More](https://medium.com/p/00d43ee9ecad) |
-| Mon, 18 Aug 2025 11:10:41 GMT | Mapping the Digital Battlefield: Reconnaissance Process in a Pentest Lab ( Parrot OS +… | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/3e1ddd53d8fe) |
-| Mon, 18 Aug 2025 11:07:41 GMT | Wake Up to the LSSC Scam: How the Lightning Shared Scooter Company Fooled Thousands — And What You… | ObserIQ Insights | [Read More](https://medium.com/p/13e65d0e97a1) |
