@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 10:46:40 GMT | Understanding Botnets: The Hidden Threat in the Digital World | Lucas Verdan | [Read More](https://medium.com/p/66ad4e90874f) |
+| Mon, 18 Aug 2025 10:42:15 GMT | How KV-Cache Editing Stops Indirect Prompt Injection in LLMs | Aryan D | [Read More](https://medium.com/p/d3913e22b92b) |
+| Mon, 18 Aug 2025 10:41:41 GMT | Email Exposure within LinkedIn Comments: An Emerging Cybersecurity Threat | Srikar Gadde | [Read More](https://medium.com/p/360b886d1866) |
+| Mon, 18 Aug 2025 10:32:51 GMT | Securing JBoss EAP 8: Essential Undertow Configurations | Kavindu Gayan | [Read More](https://medium.com/p/648e441e381e) |
+| Mon, 18 Aug 2025 10:32:15 GMT | Unlock Your Android’s Potential: Top Magisk Modules for Power Users | Mirabbas | [Read More](https://medium.com/p/5d99831b0a95) |
+| Mon, 18 Aug 2025 10:29:11 GMT | Cyber Hygiene Myths That Still Put Businesses at Risk | Kambetastephano | [Read More](https://medium.com/p/93c920614a40) |
+| Mon, 18 Aug 2025 10:29:03 GMT | Everyting About Postgres Security | Oz | [Read More](https://medium.com/p/026a8b617bf8) |
+| Mon, 18 Aug 2025 10:28:56 GMT | Is Your Cloud Alert Dashboard Actually Creating Risk? | Kambetastephano | [Read More](https://medium.com/p/a9a872f275e7) |
+| Mon, 18 Aug 2025 10:28:07 GMT | Cybersecurity 101: The Basic Hygiene for Digital Safety | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/76d421f40825) |
+| Mon, 18 Aug 2025 10:24:53 GMT | ️ Web3 Security Weekly — Aug 11–17, 2025 | Null Return | [Read More](https://medium.com/p/dcab29bb1c06) |
 | Mon, 18 Aug 2025 10:08:21 GMT | Cybersecurity Firms Tied to Qatar in 2025: Verified Service Providers and Questionable entities | Digitalvoyager | [Read More](https://medium.com/p/292bb3bab94e) |
 | Mon, 18 Aug 2025 10:05:35 GMT | Are we just selling a service, or building a movement? | EXLITY | [Read More](https://medium.com/p/edf27075b282) |
 | Mon, 18 Aug 2025 10:05:20 GMT | Lights, Camera, Identity Theft | Consumer Attorneys PLLC | [Read More](https://medium.com/p/7ca5f5c6a279) |
@@ -33,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 09:20:08 GMT | Understanding the bufferSeekOverHole Error in HLS Streaming | Samin Yeasar | [Read More](https://medium.com/p/b293a90c0bd9) |
 | Mon, 18 Aug 2025 09:19:15 GMT | CTF basic -beginners | vulnhunter | [Read More](https://medium.com/p/a899775339c9) |
 | Mon, 18 Aug 2025 09:17:08 GMT | Our CISO Quit After This AI Security Audit (The Results Were That Bad) | Shachar Solomon | [Read More](https://medium.com/p/61f541c74f24) |
+| Mon, 18 Aug 2025 09:11:33 GMT | Lắp đặt camera giám sát văn phòng giá rẻ — Giải pháp an ninh thông minh cho doanh nghiệp | DaiAnGroup | [Read More](https://medium.com/p/b7abf44ca3b6) |
 | Mon, 18 Aug 2025 09:11:19 GMT | Greedy Corps & Hacks: Why Aren’t They Hit Harder? | CtrlC3 | [Read More](https://medium.com/p/2279e4a281d7) |
 | Mon, 18 Aug 2025 09:09:26 GMT | Cybersecurity for Remote Workforces: Best Practices | West Advanced Technologies Inc | [Read More](https://medium.com/p/cf2d3dee51fb) |
 | Mon, 18 Aug 2025 09:07:48 GMT | Broken Access Control: The Gateway to Unauthorized Privilege Escalation | YoungerSibling | [Read More](https://medium.com/p/b1cdee656cd2) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 06:13:55 GMT | The $4/Month Tool That Fixed My Online Privacy Problem | CodeToDeploy | [Read More](https://medium.com/p/e297871a1463) |
 | Mon, 18 Aug 2025 06:12:21 GMT | Ghosts in the Heap: Memory Leaks in JavaScript (and How to Hunt Them Like a Pro) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0519d95d1630) |
 | Mon, 18 Aug 2025 06:05:05 GMT | Lessons from Cybersecurity Books That Changed How I See Online Threats | Aj | [Read More](https://medium.com/p/dfa4dadf94b6) |
-| Mon, 18 Aug 2025 06:03:58 GMT | SafeLine WAF: How to Configure Flood Protection and Authentication Rules | AerieWhole123 | [Read More](https://medium.com/p/390f6e70a91e) |
-| Mon, 18 Aug 2025 06:01:59 GMT | You Actually Need to Patch — and how to roll them out with Easy2Patch (E2P) | Easy2Patch | [Read More](https://medium.com/p/8a3ff9290364) |
-| Mon, 18 Aug 2025 06:01:22 GMT | Industrial OT Security By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/28a17923ed4a) |
-| Mon, 18 Aug 2025 06:01:01 GMT | DoCSIT: Pioneering Excellence in Computer Science at USP | Rao Mubashir | [Read More](https://medium.com/p/4b49d7506024) |
-| Mon, 18 Aug 2025 06:00:55 GMT | Race Conditions: Where Machines Fail and Human Perception Prevails | Taulan Zauzanov | [Read More](https://medium.com/p/0f4636f90e67) |
-| Mon, 18 Aug 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Aug 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/fd5402e159cc) |
-| Mon, 18 Aug 2025 05:56:05 GMT | Shaping the Future of Technology: DoCSIT at the University of Southern Punjab | Rao Mubashir | [Read More](https://medium.com/p/4da5b7c751ca) |
-| Mon, 18 Aug 2025 05:53:59 GMT | Google Dorks Reloaded (2025): The Red-Team OSINT Playbook for Secrets in Plain Sight | Narendar Battula (nArEn) | [Read More](https://medium.com/p/faf5d510cd25) |
-| Mon, 18 Aug 2025 05:50:48 GMT | The Real Reason Your Website Isn’t Converting | Phantasm  solutions | [Read More](https://medium.com/p/5b8de84bdb36) |
-| Mon, 18 Aug 2025 05:47:08 GMT | HMQV and SIGMA: Modern Key Exchange Protocols Explained | Denys Popov | [Read More](https://medium.com/p/ee7844f0d674) |
-| Mon, 18 Aug 2025 05:41:31 GMT | The Scientist’s Mindset: How to Approach Security Research Like a Great Scientist | crispler | [Read More](https://medium.com/p/58d53e177f9f) |
