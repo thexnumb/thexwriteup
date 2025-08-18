@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 17:44:10 GMT | [MobileHackingLab] Guess-me | z3r0xk.h | [Read More](https://medium.com/p/9f178760f43d) |
+| Mon, 18 Aug 2025 17:36:49 GMT | Spy for Instagram Made Simple: Monitor Accounts in Real Time | Narjis Batool | [Read More](https://medium.com/p/70891bfaec75) |
+| Mon, 18 Aug 2025 17:27:56 GMT | CVE-2025–49113 — Roundcube 1.6.10 Remote Code Execution | CyberQuestor | [Read More](https://medium.com/p/0598e7944361) |
+| Mon, 18 Aug 2025 17:22:50 GMT | VoxCrypt Major Update: Smarter, Stronger, and More Visual | Codepontiff | [Read More](https://medium.com/p/27cc266dbc38) |
+| Mon, 18 Aug 2025 17:21:20 GMT | Day 10: AWS Global infrastructure | Prathamlondhe | [Read More](https://medium.com/p/6fbbe007ec1f) |
 | Mon, 18 Aug 2025 17:19:10 GMT | The #1 Mistake That Gets You Hacked (And How to Fix It) | Sneha Rani | [Read More](https://medium.com/p/d881cf0eb692) |
+| Mon, 18 Aug 2025 17:18:13 GMT | The Future of Identity Protection in a Crowded Cybersecurity Market | Dr. Shashi Karhail | [Read More](https://medium.com/p/d082e1a6854e) |
+| Mon, 18 Aug 2025 17:16:14 GMT | Ascon: NIST’s Lightweight Cryptography Standard for the IoT Era | Ankit Kalbande | [Read More](https://medium.com/p/3e95b9f0a244) |
 | Mon, 18 Aug 2025 17:07:26 GMT | Introduction to SOC Fundamentals: A Guide for Aspiring Analysts | Williammeed | [Read More](https://medium.com/p/0c79fafa38dd) |
 | Mon, 18 Aug 2025 17:07:01 GMT | After the Lock: A Step-by-Step Guide to Surviving a Ransomware Attack | Paradise technologies Inc | [Read More](https://medium.com/p/ba2d1883eece) |
 | Mon, 18 Aug 2025 16:59:27 GMT | The $50,000 Email That Sounded Perfect: How AI Made Phishing Scary Smart (And What You Need to… | Myra Jarenga | [Read More](https://medium.com/p/a06c7654e9d3) |
@@ -108,10 +115,3 @@ America’s greatest… | Lales | [Read More](https://medium.com/p/905ad630c3fc)
 | Mon, 18 Aug 2025 13:04:35 GMT | Outsourcing Your SOC: A Smarter Approach to Cybersecurity | Ampcus Cyber | [Read More](https://medium.com/p/00a1109bff82) |
 | Mon, 18 Aug 2025 13:03:13 GMT | Google Gemini’s New Projects Feature Could Change How We Research | Welsh | [Read More](https://medium.com/p/d0a81438356e) |
 | Mon, 18 Aug 2025 13:02:31 GMT | The New Age of Cybersecurity: How AI is Reshaping Defense | Umair Baig | [Read More](https://medium.com/p/9f12e497144a) |
-| Mon, 18 Aug 2025 13:02:28 GMT | How I Found an IDOR(BOLA) in Seamless (After a Day of Nothing) | Rishabh kumar | [Read More](https://medium.com/p/d1f4a2357671) |
-| Mon, 18 Aug 2025 13:02:09 GMT | ✨ How JavaScript Runs: Browser vs PC vs Beyond  - Understanding Its Environment & Benefits | Zoningxtr | [Read More](https://medium.com/p/efe7c4621e4f) |
-| Mon, 18 Aug 2025 12:54:47 GMT | Food Security in India | The United Indian | [Read More](https://medium.com/p/4c09d2126712) |
-| Mon, 18 Aug 2025 12:50:48 GMT | Anthropic Just Gave Claude a Feature ChatGPT Doesn’t Have | Welsh | [Read More](https://medium.com/p/61bd7531f43d) |
-| Mon, 18 Aug 2025 12:48:44 GMT | What Makes Relationships Thrive Beyond the Surface | Bright Flow | [Read More](https://medium.com/p/029765fdef57) |
-| Mon, 18 Aug 2025 12:34:08 GMT | A Monday Morning in IT (a.k.a. “Why I Don’t Need Coffee”) | Damien Ponders | [Read More](https://medium.com/p/f5e8dc485192) |
-| Mon, 18 Aug 2025 12:33:24 GMT | Sulu | strawb3ng | [Read More](https://medium.com/p/ca361e258886) |
