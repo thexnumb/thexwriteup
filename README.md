@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 06:36:05 GMT | What is HexStrike AI v6.0?? | cybrNK | [Read More](https://medium.com/p/243db0904440) |
+| Mon, 18 Aug 2025 06:32:36 GMT | Golden Levers of Business | Alex Noboa | [Read More](https://medium.com/p/2c9954880ad6) |
+| Mon, 18 Aug 2025 06:28:21 GMT | tDedicated Server for Education: Everything You Need to Know | HostNOC | [Read More](https://medium.com/p/927f7177fff3) |
+| Mon, 18 Aug 2025 06:27:53 GMT | How One Weak Password Brought Down | RSVR Tech | [Read More](https://medium.com/p/3e75d07999bd) |
+| Mon, 18 Aug 2025 06:25:21 GMT | Learn Android Hacking the Right Way: Start with Android Architecture(Chapter-01)- by xProtagonist- | xCY83RN4UT_ | [Read More](https://medium.com/p/7a353527a10e) |
+| Mon, 18 Aug 2025 06:21:57 GMT | Professional CCTV Security Camera Service Company in Bangladesh - You Can Trust | optimationbd | [Read More](https://medium.com/p/2a2fc7df7709) |
+| Mon, 18 Aug 2025 06:21:09 GMT | ⚡ 10 JavaScript Mistakes Even Senior Developers Still Make (And How to Avoid Them) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e5977848f327) |
+| Mon, 18 Aug 2025 06:20:09 GMT | OSINT image challenge : Finding the Co-ordinates with its Geo-location | Saijayanth | [Read More](https://medium.com/p/8336372d764e) |
+| Mon, 18 Aug 2025 06:13:55 GMT | The $4/Month Tool That Fixed My Online Privacy Problem | CodeToDeploy | [Read More](https://medium.com/p/e297871a1463) |
+| Mon, 18 Aug 2025 06:12:21 GMT | Ghosts in the Heap: Memory Leaks in JavaScript (and How to Hunt Them Like a Pro) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0519d95d1630) |
+| Mon, 18 Aug 2025 06:05:05 GMT | Lessons from Cybersecurity Books That Changed How I See Online Threats | Aj | [Read More](https://medium.com/p/dfa4dadf94b6) |
+| Mon, 18 Aug 2025 06:03:58 GMT | SafeLine WAF: How to Configure Flood Protection and Authentication Rules | AerieWhole123 | [Read More](https://medium.com/p/390f6e70a91e) |
+| Mon, 18 Aug 2025 06:01:59 GMT | You Actually Need to Patch — and how to roll them out with Easy2Patch (E2P) | Easy2Patch | [Read More](https://medium.com/p/8a3ff9290364) |
+| Mon, 18 Aug 2025 06:01:22 GMT | Industrial OT Security By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/28a17923ed4a) |
+| Mon, 18 Aug 2025 06:01:01 GMT | DoCSIT: Pioneering Excellence in Computer Science at USP | Rao Mubashir | [Read More](https://medium.com/p/4b49d7506024) |
+| Mon, 18 Aug 2025 06:00:55 GMT | Race Conditions: Where Machines Fail and Human Perception Prevails | Taulan Zauzanov | [Read More](https://medium.com/p/0f4636f90e67) |
+| Mon, 18 Aug 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Aug 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/fd5402e159cc) |
+| Mon, 18 Aug 2025 05:56:05 GMT | Shaping the Future of Technology: DoCSIT at the University of Southern Punjab | Rao Mubashir | [Read More](https://medium.com/p/4da5b7c751ca) |
+| Mon, 18 Aug 2025 05:53:59 GMT | Google Dorks Reloaded (2025): The Red-Team OSINT Playbook for Secrets in Plain Sight | Narendar Battula (nArEn) | [Read More](https://medium.com/p/faf5d510cd25) |
+| Mon, 18 Aug 2025 05:50:48 GMT | The Real Reason Your Website Isn’t Converting | Phantasm  solutions | [Read More](https://medium.com/p/5b8de84bdb36) |
+| Mon, 18 Aug 2025 05:47:08 GMT | HMQV and SIGMA: Modern Key Exchange Protocols Explained | Denys Popov | [Read More](https://medium.com/p/ee7844f0d674) |
+| Mon, 18 Aug 2025 05:41:31 GMT | The Scientist’s Mindset: How to Approach Security Research Like a Great Scientist | crispler | [Read More](https://medium.com/p/58d53e177f9f) |
+| Mon, 18 Aug 2025 05:40:54 GMT | LazyOwn: Because “Professional Red Teaming” Shouldn’t Require a PhD in Coffee Consumption | Lazyown Redteam | [Read More](https://medium.com/p/bbece81fc3dd) |
 | Mon, 18 Aug 2025 05:36:15 GMT | Shodan Diaries: What I Found on the Internet Without Knocking | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f22612cae508) |
 | Mon, 18 Aug 2025 05:26:58 GMT | Web Pentest Playbook — From Recon to Root (ATT&CK-Aligned) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/23a1359445d3) |
 | Mon, 18 Aug 2025 05:26:34 GMT | Cloud security service: what is it? Benefits, Challenges, and Solutions- Europe | QualysecEurope | [Read More](https://medium.com/p/270eb32340c3) |
@@ -90,26 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 22:33:58 GMT | RECOVER ALL YOUR LOST CRYPTOCURRENCY WITH THE HELP OF OPTIMISTIC HACKER GAIUS | Jamesethan | [Read More](https://medium.com/p/c7d9deabd181) |
 | Sun, 17 Aug 2025 22:31:56 GMT | INTERNAL WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/8a28f0fe125b) |
 | Sun, 17 Aug 2025 22:26:51 GMT | Cross-Site Request Forgery (CSRF): Understanding and Defending Against a Silent Web Threat | Emma Lateyron | [Read More](https://medium.com/p/9494054dfa4b) |
-| Sun, 17 Aug 2025 22:16:40 GMT | Understanding and Preventing Injection Attacks | Emma Lateyron | [Read More](https://medium.com/p/9eb4c720d657) |
-| Sun, 17 Aug 2025 22:14:42 GMT | My Taste of the Security Alphabet Soup: CWEE vs CAPenX in the Real World | Rami Altai | [Read More](https://medium.com/p/fecd8d354988) |
-| Sun, 17 Aug 2025 22:13:32 GMT | How to Learn With AI — and Think Like AI | huoshi | [Read More](https://medium.com/p/ced69827508b) |
-| Sun, 17 Aug 2025 22:10:46 GMT | Logical Override: Confabulation of an Emergent Capability to Bypass LLM Safety Alignment | Caleb Grebill | [Read More](https://medium.com/p/3e1b2bb87d7f) |
-| Sun, 17 Aug 2025 22:09:20 GMT | Static vs Dynamic Analysis: The Twin Pillars of Software Security | Emma Lateyron | [Read More](https://medium.com/p/7661ee9f7051) |
-| Sun, 17 Aug 2025 22:02:18 GMT | ⭐30-Day Personal Pentesting Challenge Complete!⭐ | Chai | [Read More](https://medium.com/p/cea67cbe9a3e) |
-| Sun, 17 Aug 2025 22:00:51 GMT | Splish, Splash | theccmi | [Read More](https://medium.com/p/26cda57a9a76) |
-| Sun, 17 Aug 2025 21:48:59 GMT | Cracking CTFs and Finding Zero-Days with AI-Agents | Harish SG | [Read More](https://medium.com/p/41a1083ba088) |
-| Sun, 17 Aug 2025 21:46:53 GMT | HTB Sherlocks — BFT Writeup | FOIAX | [Read More](https://medium.com/p/aef9420f39e9) |
-| Sun, 17 Aug 2025 21:33:58 GMT | Building AWS Agents using LangChain + Boto3 | Samet Senturk | [Read More](https://medium.com/p/50931d48238a) |
-| Sun, 17 Aug 2025 21:20:50 GMT | A Developer‘s Crash Course in Cryptography, Part 2: Frequency Analysis and the Vigenère Cipher | Steinwendner Matthias | [Read More](https://medium.com/p/54da3997c28b) |
-| Sun, 17 Aug 2025 21:18:00 GMT | SOC140 — Phishing Mail Detected — Suspicious Task Scheduler | TH3LILJ4NN47 | [Read More](https://medium.com/p/325b0ac187b6) |
-| Sun, 17 Aug 2025 21:11:37 GMT | Introductory Networking | Anthony Mazyck | [Read More](https://medium.com/p/de7fe94d3330) |
-| Sun, 17 Aug 2025 21:07:03 GMT | Internet and the World Wide Web (intro to ICT) | Aanya Ali | [Read More](https://medium.com/p/59a79cd33c62) |
-| Sun, 17 Aug 2025 21:01:29 GMT | I Found a Critical XSS Everyone Missed | Ibtissam hammadi | [Read More](https://medium.com/p/16dd284919c9) |
-| Sun, 17 Aug 2025 20:51:58 GMT | AI vs. AI: The Cyber Arms Race | Yashasvi Sharma | [Read More](https://medium.com/p/b17c54ac7633) |
-| Sun, 17 Aug 2025 20:48:57 GMT | CyberTalents: CTBank writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/3ead4bdf24b1) |
-| Sun, 17 Aug 2025 20:38:10 GMT | How Hackers Really Crack Passwords — And How to Stop Them | Thomas Joseph | [Read More](https://medium.com/p/eedeee14b886) |
-| Sun, 17 Aug 2025 20:11:46 GMT | Securing PHP APIs with OAuth2, JWT, and Rate Limiting: A Complete Guide | Ann R. | [Read More](https://medium.com/p/c0db021f081f) |
-| Sun, 17 Aug 2025 20:11:40 GMT | Techniques for Ensuring Confidentiality, Integrity, and Availability (CIA) in Secure Systems | Raviteja Mureboina | [Read More](https://medium.com/p/d8ab95d2a23e) |
-| Sun, 17 Aug 2025 20:04:41 GMT | ️ ProtonVPN vs Mullvad vs IVPN vs NordVPN vs Surfshark: The Real No-Log VPNs Worth Your Money in… | BiyteLüm | [Read More](https://medium.com/p/0bff142220e8) |
-| Sun, 17 Aug 2025 20:01:42 GMT | A Critical Look at ARGUS: The Promise and Pitfalls of a Single-Unit Security Solution | Berend Watchus | [Read More](https://medium.com/p/c80eb9607161) |
-| Sun, 17 Aug 2025 20:00:32 GMT | Breaking the Correlated LFSR Stream Cipher: Correlation Attacks | Vishwas Adhikari | [Read More](https://medium.com/p/b402d1d13417) |
