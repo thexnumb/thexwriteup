@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 20:09:20 GMT | From Technical Support Engineer to IT Technician to DevOps Engineer: My Upskilling Journey. | Georgi Tinchev | [Read More](https://medium.com/p/fa1899b0dd73) |
+| Mon, 18 Aug 2025 20:08:35 GMT | The Hacker Mindset: Humanity’s Best Defense | Dane Sherrets | [Read More](https://medium.com/p/a25d3e8b580e) |
+| Mon, 18 Aug 2025 20:06:59 GMT | Different Ways Of Footprinting : | Intelithics | [Read More](https://medium.com/p/26fb80bb92f9) |
+| Mon, 18 Aug 2025 20:06:06 GMT | HackTheBox — Windows Event Logs and Finding Evil, Skills Assessment | Javier | [Read More](https://medium.com/p/f289d9620f4b) |
+| Mon, 18 Aug 2025 20:04:24 GMT | Double-Edged Sword: Securing AI in Enterprises with the Mammoth Enterprise AI Browser | Mammoth Cyber | [Read More](https://medium.com/p/87202cd90c67) |
+| Mon, 18 Aug 2025 20:02:52 GMT | How to Secure Your Prometheus with Basic Authentication (Without Using a Reverse Proxy) | Ankit Saxena | [Read More](https://medium.com/p/3c2dc7b0bbfe) |
+| Mon, 18 Aug 2025 19:54:39 GMT | Mastering Nmap (Part 1) in 2025: Host Discovery & Recon for Bug Bounty Hunters | appsecvenue | [Read More](https://medium.com/p/1af4a3e451a1) |
+| Mon, 18 Aug 2025 19:53:55 GMT | I’m a passionate cybersecurity enthusiast and a student with a deep interest in ethical hacking… | Saijayanth | [Read More](https://medium.com/p/5a16b01f9df7) |
+| Mon, 18 Aug 2025 19:52:37 GMT | OWASP Top 10: The Hidden Traps in Every Website (And How to Avoid Them) | Shree Navya M R | [Read More](https://medium.com/p/15543a24e348) |
+| Mon, 18 Aug 2025 19:37:47 GMT | A Renter’s Guide To Getting Your Security Deposit Back | Nukey Realty & Property Management | [Read More](https://medium.com/p/af3d8cbb167e) |
 | Mon, 18 Aug 2025 19:22:36 GMT | Intro to Malware Analysis | Corey Farley | [Read More](https://medium.com/p/ff4a2a677bd1) |
 | Mon, 18 Aug 2025 19:19:19 GMT | Preprocessor for Cybersecurity | Introvertdeveloper | [Read More](https://medium.com/p/68536c372444) |
 | Mon, 18 Aug 2025 19:18:19 GMT | Navigating SOC Compliance: A Practical Guide for Businesses in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/2d0d440069f8) |
@@ -104,14 +114,3 @@ Since 2018, we’ve delivered… | Joshua onoja Akwu | [Read More](https://mediu
 | Mon, 18 Aug 2025 14:50:03 GMT | ShellShock: How Hackers Exploit Bash Vulnerabilities and How to Protect Yourself | Very Lazy Tech | [Read More](https://medium.com/p/a006c63c1883) |
 | Mon, 18 Aug 2025 14:38:17 GMT | Designing the Inpatient Room of the Future | NYU Langone Health Tech Hub | [Read More](https://medium.com/p/cc8c209187a4) |
 | Mon, 18 Aug 2025 14:35:31 GMT | I Thought Leaning on Someone Was Weak | Ink Within | [Read More](https://medium.com/p/94cc2d1f892c) |
-| Mon, 18 Aug 2025 14:32:48 GMT | The Real National Security Threat Isn’t Foreign — It’s Our Data Blind Spots
-America’s greatest… | Lales | [Read More](https://medium.com/p/905ad630c3fc) |
-| Mon, 18 Aug 2025 14:32:00 GMT | The Hidden Risks of Public Wi-Fi for AI Developers | PromptSecAI | [Read More](https://medium.com/p/6fa31b5e652c) |
-| Mon, 18 Aug 2025 14:31:15 GMT | Google allows Putin’s messenger Max to spy on citizens — maybe they’ll even end up paying another… | 0trust0day | [Read More](https://medium.com/p/bee217e2d147) |
-| Mon, 18 Aug 2025 14:29:58 GMT | Sui Passkey: No Passwords, No Seeds, Just You | [NODERS]TEAM | [Read More](https://medium.com/p/a558e91b5b5e) |
-| Mon, 18 Aug 2025 14:28:18 GMT | Tempest — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/25a0793818ee) |
-| Mon, 18 Aug 2025 14:27:39 GMT | Cybersecurity Awareness Guide: Phishing, Vishing, and Social Engineering | CyberSamm | [Read More](https://medium.com/p/c19ad0d757fb) |
-| Mon, 18 Aug 2025 14:25:51 GMT | The Hidden Characters in AI Writing | John Iovine | [Read More](https://medium.com/p/8bd3e3f7df20) |
-| Mon, 18 Aug 2025 14:20:43 GMT | Server-side Template Injection with Information Disclosure via User-Supplied Objects in Django… | Bash Overflow | [Read More](https://medium.com/p/b6d67af36b43) |
-| Mon, 18 Aug 2025 14:17:58 GMT | OWASP Top-10 Vulnerabilities | Arushi Gupta | [Read More](https://medium.com/p/9185416f52a1) |
-| Mon, 18 Aug 2025 14:17:54 GMT | The Lighthouse | Adéla Valčíková | [Read More](https://medium.com/p/e5959249bc8f) |
