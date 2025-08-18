@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 14:17:58 GMT | OWASP Top-10 Vulnerabilities | Arushi Gupta | [Read More](https://medium.com/p/9185416f52a1) |
+| Mon, 18 Aug 2025 14:16:57 GMT | AWS S3 Buckets: Secure vs. Insecure — What Every Cloud User Should Know | Rue | [Read More](https://medium.com/p/fe9de1c6f942) |
+| Mon, 18 Aug 2025 14:15:15 GMT | Jai Shree Ram | harsha vardhan reddy kunduru | [Read More](https://medium.com/p/88c4a2ea2052) |
+| Mon, 18 Aug 2025 14:11:18 GMT | Cybersecurity dan Zero Trust Architecture: Fondasi Keamanan Digital Modern | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/a673c3dfd5fd) |
+| Mon, 18 Aug 2025 14:08:23 GMT | WHY YOU STILL GET SCAMMED IN 2025 | Ushafa Wuakera | [Read More](https://medium.com/p/7152baa0fbd8) |
+| Mon, 18 Aug 2025 14:03:01 GMT | Why Smart Businesses Trust IT Managed Services Providers in Springfield | PCnet | [Read More](https://medium.com/p/8e8dd0ff6735) |
+| Mon, 18 Aug 2025 14:03:00 GMT | The Hidden Power of TikTok in Global Politics | Alex Mediano | [Read More](https://medium.com/p/953c1965c13a) |
+| Mon, 18 Aug 2025 14:02:01 GMT | What to Look for in a Pentest Report and Why Continuous Pentesting Changes the Game | Sprocket Security | [Read More](https://medium.com/p/c4da32f7796a) |
+| Mon, 18 Aug 2025 13:56:46 GMT | The Digital Pickpockets: How Android Malware is Rewriting the Rules of Banking Fraud | Ismail Tasdelen | [Read More](https://medium.com/p/50165614f903) |
+| Mon, 18 Aug 2025 13:55:46 GMT | Reverse Engineering Lumma Stealer: Dissecting a Modern Infostealer Campaign | Jon C | [Read More](https://medium.com/p/f2fefb5b8412) |
+| Mon, 18 Aug 2025 13:51:57 GMT | ️ Signed, Sealed, Exploited: How a JWT Forgery in GraphQL Got Me Root Access | Iski | [Read More](https://medium.com/p/e10a40883a3b) |
+| Mon, 18 Aug 2025 13:46:15 GMT | CyberTalents: X-File writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/fc4b8f10060f) |
+| Mon, 18 Aug 2025 13:41:56 GMT | How to Fix AWS EKS High Availability Issues: Spot Loss, IP Exhaustion & Scaling Delays | Ismail Kovvuru | [Read More](https://medium.com/p/0898227d379e) |
+| Mon, 18 Aug 2025 13:39:23 GMT | Can Technology Make Life Possible After Death? Exploring Digital Immortality | sana irshad | [Read More](https://medium.com/p/39241cbd6512) |
 | Mon, 18 Aug 2025 13:34:09 GMT | HACKING SCAMMERS | afc_pola | [Read More](https://medium.com/p/1a86591f5004) |
 | Mon, 18 Aug 2025 13:30:14 GMT | Authorization: A Developer’s Complete Guide | Raphael Abayomi | [Read More](https://medium.com/p/45766354af04) |
 | Mon, 18 Aug 2025 13:27:10 GMT | ️ Linux Security Modules: Protecting Your System with SELinux and AppArmor | Esra Kayhan | [Read More](https://medium.com/p/3b9624f695ee) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 09:38:55 GMT | Static Website Deployment on AWS — SaaS Website | Nafs Ahmad | [Read More](https://medium.com/p/4cb96e533a61) |
 | Mon, 18 Aug 2025 09:35:52 GMT | Enhancing Cybersecurity: How Australian Businesses Benefit from Advanced Penetration Testing… | Black Lock | [Read More](https://medium.com/p/d45960b10af0) |
 | Mon, 18 Aug 2025 09:31:58 GMT | Cracked Cisco? Level Up Your Cyber Game Now! | Authlyn | [Read More](https://medium.com/p/1ae4540ac20d) |
-| Mon, 18 Aug 2025 09:31:54 GMT | Event Horizon TryHackMe Walkthrough | Mehdi Ben Fredj | [Read More](https://medium.com/p/aa4e8e6b59fe) |
-| Mon, 18 Aug 2025 09:26:11 GMT | Top Trends in Fintech and Messaging Apps: Design & Features That Matter | Ketan Patel | [Read More](https://medium.com/p/1b59cf7738fe) |
-| Mon, 18 Aug 2025 09:23:47 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/39ae1650b456) |
-| Mon, 18 Aug 2025 09:22:57 GMT | Cómo saber si mi contraseña fue filtrada: Guía práctica para proteger tus cuentas online | elgestoprudente | [Read More](https://medium.com/p/0f96d937c5f4) |
-| Mon, 18 Aug 2025 09:22:05 GMT | API Security Testing on a Healthcare App with AI Assistant (Zero Health Application) | Rachael Kivuti | [Read More](https://medium.com/p/2850117ced56) |
-| Mon, 18 Aug 2025 09:20:08 GMT | Understanding the bufferSeekOverHole Error in HLS Streaming | Samin Yeasar | [Read More](https://medium.com/p/b293a90c0bd9) |
-| Mon, 18 Aug 2025 09:19:15 GMT | CTF basic -beginners | vulnhunter | [Read More](https://medium.com/p/a899775339c9) |
-| Mon, 18 Aug 2025 09:17:08 GMT | Our CISO Quit After This AI Security Audit (The Results Were That Bad) | Shachar Solomon | [Read More](https://medium.com/p/61f541c74f24) |
-| Mon, 18 Aug 2025 09:11:33 GMT | Lắp đặt camera giám sát văn phòng giá rẻ — Giải pháp an ninh thông minh cho doanh nghiệp | DaiAnGroup | [Read More](https://medium.com/p/b7abf44ca3b6) |
-| Mon, 18 Aug 2025 09:11:19 GMT | Greedy Corps & Hacks: Why Aren’t They Hit Harder? | CtrlC3 | [Read More](https://medium.com/p/2279e4a281d7) |
-| Mon, 18 Aug 2025 09:09:26 GMT | Cybersecurity for Remote Workforces: Best Practices | West Advanced Technologies Inc | [Read More](https://medium.com/p/cf2d3dee51fb) |
-| Mon, 18 Aug 2025 09:07:48 GMT | Broken Access Control: The Gateway to Unauthorized Privilege Escalation | YoungerSibling | [Read More](https://medium.com/p/b1cdee656cd2) |
-| Mon, 18 Aug 2025 09:04:51 GMT | Building HeaderGuard: a Website Security Header Scanner | Sreya Menon | [Read More](https://medium.com/p/3ec34e156948) |
-| Mon, 18 Aug 2025 09:02:21 GMT | When Millions Watch and Minutes Cost Millions: The Smart TV Blackout Incident | Ismail Kovvuru | [Read More](https://medium.com/p/30aa5c15dcf3) |
