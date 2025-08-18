@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 11:17:08 GMT | 5 Questions Every CEO Should Ask About Cybersecurity This Quarter | Evgeny Ermakov | [Read More](https://medium.com/p/e7924c9d3697) |
+| Mon, 18 Aug 2025 11:12:26 GMT | Bulut Güvenliğinin 5 Temel Taşı: Dijital Kalenizi Savunma Rehberi | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/83f1453c2fd7) |
+| Mon, 18 Aug 2025 11:12:11 GMT | Windows Process Injection Fundamentals | Tom O'Neill | [Read More](https://medium.com/p/00d43ee9ecad) |
+| Mon, 18 Aug 2025 11:10:41 GMT | Mapping the Digital Battlefield: Reconnaissance Process in a Pentest Lab ( Parrot OS +… | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/3e1ddd53d8fe) |
+| Mon, 18 Aug 2025 11:07:41 GMT | Wake Up to the LSSC Scam: How the Lightning Shared Scooter Company Fooled Thousands — And What You… | ObserIQ Insights | [Read More](https://medium.com/p/13e65d0e97a1) |
+| Mon, 18 Aug 2025 11:03:13 GMT | Basic Malware RE — TryHackMe Write up | Haitham Aljabbari | [Read More](https://medium.com/p/d0e0c16d67c2) |
+| Mon, 18 Aug 2025 11:02:31 GMT | UK Safety and Security Declaration: A Complete Guide for Importers and Exporters | Customs and Trade in the UK | [Read More](https://medium.com/p/6d9d9e0c03ee) |
+| Mon, 18 Aug 2025 11:01:57 GMT | What I Learned After Failing Every Time I Only Studied, Not Built | Anuja | [Read More](https://medium.com/p/bc0243e3d1ee) |
+| Mon, 18 Aug 2025 11:01:10 GMT | Digital Identity Protection | Syed Raza | [Read More](https://medium.com/p/e827af08ddf1) |
+| Mon, 18 Aug 2025 10:56:33 GMT | ️ Identification & Scoping — Incident Response Walkthrough | Furkanctiner | [Read More](https://medium.com/p/d0945bbc6ce5) |
+| Mon, 18 Aug 2025 10:56:17 GMT | Hackers Target Workday: The Social Engineering Attack That Exposed HR Data | Liran Nachman | [Read More](https://medium.com/p/6a4747cbb7f7) |
+| Mon, 18 Aug 2025 10:50:09 GMT | Environment Variables in AEM Cloud: Secure, Flexible — But Clean Up Matters | Kartheek Desineedi | [Read More](https://medium.com/p/334b5335bfa1) |
+| Mon, 18 Aug 2025 10:49:36 GMT | Penetration Testing Services: Strengthening Cybersecurity for Businesses | Rohit Singh | [Read More](https://medium.com/p/d5ff4aebfbaf) |
 | Mon, 18 Aug 2025 10:46:40 GMT | Understanding Botnets: The Hidden Threat in the Digital World | Lucas Verdan | [Read More](https://medium.com/p/66ad4e90874f) |
 | Mon, 18 Aug 2025 10:42:15 GMT | How KV-Cache Editing Stops Indirect Prompt Injection in LLMs | Aryan D | [Read More](https://medium.com/p/d3913e22b92b) |
 | Mon, 18 Aug 2025 10:41:41 GMT | Email Exposure within LinkedIn Comments: An Emerging Cybersecurity Threat | Srikar Gadde | [Read More](https://medium.com/p/360b886d1866) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 06:50:09 GMT | The Hoodie Trap: A Critique of Hacker Visual Culture | Taulan Zauzanov | [Read More](https://medium.com/p/0f3a3e6fa0f3) |
 | Mon, 18 Aug 2025 06:48:39 GMT | ประจำวันจันทร์ที่ 18 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/e0528e921201) |
 | Mon, 18 Aug 2025 06:48:28 GMT | VirtualHost And Subdomains | PriOFF | [Read More](https://medium.com/p/36e2e156fa4e) |
-| Mon, 18 Aug 2025 06:47:06 GMT | Best Voice Bot Service Provider in India | Ashutosh Mallik | [Read More](https://medium.com/p/5aa318223777) |
-| Mon, 18 Aug 2025 06:39:45 GMT | Manual, Automated, and AI-Assisted Analysis in Cybersecurity: Striking the Balance | Tedislava Vasileva | [Read More](https://medium.com/p/af7791bee909) |
-| Mon, 18 Aug 2025 06:36:05 GMT | What is HexStrike AI v6.0?? | cybrNK | [Read More](https://medium.com/p/243db0904440) |
-| Mon, 18 Aug 2025 06:32:36 GMT | Golden Levers of Business | Alex Noboa | [Read More](https://medium.com/p/2c9954880ad6) |
-| Mon, 18 Aug 2025 06:28:21 GMT | tDedicated Server for Education: Everything You Need to Know | HostNOC | [Read More](https://medium.com/p/927f7177fff3) |
-| Mon, 18 Aug 2025 06:27:53 GMT | How One Weak Password Brought Down | RSVR Tech | [Read More](https://medium.com/p/3e75d07999bd) |
-| Mon, 18 Aug 2025 06:25:21 GMT | Learn Android Hacking the Right Way: Start with Android Architecture(Chapter-01)- by xProtagonist- | xCY83RN4UT_ | [Read More](https://medium.com/p/7a353527a10e) |
-| Mon, 18 Aug 2025 06:21:57 GMT | Professional CCTV Security Camera Service Company in Bangladesh - You Can Trust | optimationbd | [Read More](https://medium.com/p/2a2fc7df7709) |
-| Mon, 18 Aug 2025 06:21:09 GMT | ⚡ 10 JavaScript Mistakes Even Senior Developers Still Make (And How to Avoid Them) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e5977848f327) |
-| Mon, 18 Aug 2025 06:20:09 GMT | OSINT image challenge : Finding the Co-ordinates with its Geo-location | Saijayanth | [Read More](https://medium.com/p/8336372d764e) |
-| Mon, 18 Aug 2025 06:13:55 GMT | The $4/Month Tool That Fixed My Online Privacy Problem | CodeToDeploy | [Read More](https://medium.com/p/e297871a1463) |
-| Mon, 18 Aug 2025 06:12:21 GMT | Ghosts in the Heap: Memory Leaks in JavaScript (and How to Hunt Them Like a Pro) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0519d95d1630) |
-| Mon, 18 Aug 2025 06:05:05 GMT | Lessons from Cybersecurity Books That Changed How I See Online Threats | Aj | [Read More](https://medium.com/p/dfa4dadf94b6) |
