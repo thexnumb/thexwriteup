@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 10:08:21 GMT | Cybersecurity Firms Tied to Qatar in 2025: Verified Service Providers and Questionable entities | Digitalvoyager | [Read More](https://medium.com/p/292bb3bab94e) |
+| Mon, 18 Aug 2025 10:05:35 GMT | Are we just selling a service, or building a movement? | EXLITY | [Read More](https://medium.com/p/edf27075b282) |
+| Mon, 18 Aug 2025 10:05:20 GMT | Lights, Camera, Identity Theft | Consumer Attorneys PLLC | [Read More](https://medium.com/p/7ca5f5c6a279) |
+| Mon, 18 Aug 2025 10:04:17 GMT | Web Application Security Challenges Modern Threats & Solutions | Application Security Master | [Read More](https://medium.com/p/4c6667a8b77d) |
+| Mon, 18 Aug 2025 09:56:35 GMT | Financial Budgeting | Hmaryada | [Read More](https://medium.com/p/6650b098dc74) |
+| Mon, 18 Aug 2025 09:54:06 GMT | Locked Out of My Fortune: Crypto Nightmare Fuel | SilentInject | [Read More](https://medium.com/p/104161a6f985) |
+| Mon, 18 Aug 2025 09:53:07 GMT | Why Every New Zealand Business Needs Robust Penetration Testing | Black Lock | [Read More](https://medium.com/p/495b4ec5434e) |
+| Mon, 18 Aug 2025 09:51:34 GMT | The Hidden Cost of Rushed Code: Why Small and Mid-Sized Tech Companies Must Rethink Their Culture | Asif | [Read More](https://medium.com/p/15777eade644) |
+| Mon, 18 Aug 2025 09:50:00 GMT | Tech companies named after a city. | Space and Lemon Innovations | [Read More](https://medium.com/p/b2e8117683bc) |
 | Mon, 18 Aug 2025 09:44:02 GMT | The $200,000 Ransom That Shook a Global Telecom | The UNFILTERED Draft | [Read More](https://medium.com/p/581c62b01f8c) |
 | Mon, 18 Aug 2025 09:38:55 GMT | Static Website Deployment on AWS — SaaS Website | Nafs Ahmad | [Read More](https://medium.com/p/4cb96e533a61) |
 | Mon, 18 Aug 2025 09:35:52 GMT | Enhancing Cybersecurity: How Australian Businesses Benefit from Advanced Penetration Testing… | Black Lock | [Read More](https://medium.com/p/d45960b10af0) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 05:50:48 GMT | The Real Reason Your Website Isn’t Converting | Phantasm  solutions | [Read More](https://medium.com/p/5b8de84bdb36) |
 | Mon, 18 Aug 2025 05:47:08 GMT | HMQV and SIGMA: Modern Key Exchange Protocols Explained | Denys Popov | [Read More](https://medium.com/p/ee7844f0d674) |
 | Mon, 18 Aug 2025 05:41:31 GMT | The Scientist’s Mindset: How to Approach Security Research Like a Great Scientist | crispler | [Read More](https://medium.com/p/58d53e177f9f) |
-| Mon, 18 Aug 2025 05:40:54 GMT | LazyOwn: Because “Professional Red Teaming” Shouldn’t Require a PhD in Coffee Consumption | Lazyown Redteam | [Read More](https://medium.com/p/bbece81fc3dd) |
-| Mon, 18 Aug 2025 05:36:15 GMT | Shodan Diaries: What I Found on the Internet Without Knocking | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f22612cae508) |
-| Mon, 18 Aug 2025 05:26:58 GMT | Web Pentest Playbook — From Recon to Root (ATT&CK-Aligned) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/23a1359445d3) |
-| Mon, 18 Aug 2025 05:26:34 GMT | Cloud security service: what is it? Benefits, Challenges, and Solutions- Europe | QualysecEurope | [Read More](https://medium.com/p/270eb32340c3) |
-| Mon, 18 Aug 2025 05:25:38 GMT | How to Generate Strategic Intelligence by Answering 20 Questions | Adam Goss | [Read More](https://medium.com/p/64e98f10f207) |
-| Mon, 18 Aug 2025 05:18:30 GMT | The Tools Hackers Use Every Day That You’ve Never Heard Of | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3b1232da6b6a) |
-| Mon, 18 Aug 2025 05:15:43 GMT | Securing Applications with Software Composition Analysis (SCA) | Rachel K | [Read More](https://medium.com/p/244ba96f604b) |
-| Mon, 18 Aug 2025 05:13:58 GMT | Why I Write About Cybersecurity and Poetry | Vince Picton | [Read More](https://medium.com/p/d5da78f2ccd9) |
-| Mon, 18 Aug 2025 05:12:58 GMT | Beware of This New Cab Driver Scam: Fake Money Transfers & Empty Rides | Deepak | [Read More](https://medium.com/p/8310b6530766) |
