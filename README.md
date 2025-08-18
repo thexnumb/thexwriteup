@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 18:24:44 GMT | Execute and Identify Credential Abuse in AWS -Walkthrough | @@ru$hi | [Read More](https://medium.com/p/bc17e894e134) |
+| Mon, 18 Aug 2025 18:18:45 GMT | Exploit the game Blindly : With Blind XSS | #$ubh@nk@r | [Read More](https://medium.com/p/1f82479dfbc4) |
+| Mon, 18 Aug 2025 18:10:46 GMT | MD2PDF - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/c3628292a4af) |
+| Mon, 18 Aug 2025 18:06:38 GMT | The Importance of Legal Directory Listings for Your Practice | Marilyn Jenkins | [Read More](https://medium.com/p/fe2711198f74) |
+| Mon, 18 Aug 2025 18:03:26 GMT | Vulnerabilities related to Port 21 | Akashyadav | [Read More](https://medium.com/p/730e8ad9daf0) |
+| Mon, 18 Aug 2025 17:57:45 GMT | A Shared Reality: New Microsoft Paper on Self-Correcting Code Diffusion Model Aligns with Berend… | Berend Watchus | [Read More](https://medium.com/p/22fd10e86a0d) |
+| Mon, 18 Aug 2025 17:54:39 GMT | The Rise of Cricket Flour: Protein for the Future | Patrick E McCormack | [Read More](https://medium.com/p/2c075ca6765d) |
+| Mon, 18 Aug 2025 17:53:32 GMT | The Hidden Art of Steganography: Concealing Secrets in Plain Sight | Vanessa Komugisha | [Read More](https://medium.com/p/87b352c314a5) |
+| Mon, 18 Aug 2025 17:52:11 GMT | HTB Walkthrough : Reedemer(Redis) | Ahmad Sopyan | [Read More](https://medium.com/p/74cbde928a6b) |
+| Mon, 18 Aug 2025 17:44:55 GMT | Qilin Ransomware-as-a-Service: Threat Analysis and Strategic Outlook | BeGoodToAll | [Read More](https://medium.com/p/daf8bd6808b5) |
+| Mon, 18 Aug 2025 17:44:50 GMT | [MobileHackingLab] Secure Notes | z3r0xk.h | [Read More](https://medium.com/p/262975354696) |
+| Mon, 18 Aug 2025 17:44:28 GMT | [MobileHackingLab] IoT Connect | z3r0xk.h | [Read More](https://medium.com/p/d60e40ea1d17) |
 | Mon, 18 Aug 2025 17:44:10 GMT | [MobileHackingLab] Guess-me | z3r0xk.h | [Read More](https://medium.com/p/9f178760f43d) |
 | Mon, 18 Aug 2025 17:36:49 GMT | Spy for Instagram Made Simple: Monitor Accounts in Real Time | Narjis Batool | [Read More](https://medium.com/p/70891bfaec75) |
 | Mon, 18 Aug 2025 17:27:56 GMT | CVE-2025–49113 — Roundcube 1.6.10 Remote Code Execution | CyberQuestor | [Read More](https://medium.com/p/0598e7944361) |
@@ -103,15 +115,3 @@ America’s greatest… | Lales | [Read More](https://medium.com/p/905ad630c3fc)
 | Mon, 18 Aug 2025 13:34:09 GMT | HACKING SCAMMERS | afc_pola | [Read More](https://medium.com/p/1a86591f5004) |
 | Mon, 18 Aug 2025 13:30:14 GMT | Authorization: A Developer’s Complete Guide | Raphael Abayomi | [Read More](https://medium.com/p/45766354af04) |
 | Mon, 18 Aug 2025 13:27:10 GMT | ️ Linux Security Modules: Protecting Your System with SELinux and AppArmor | Esra Kayhan | [Read More](https://medium.com/p/3b9624f695ee) |
-| Mon, 18 Aug 2025 13:27:09 GMT | A Fix for “ERROR kuhl_m_sekurlsa_acquireLSA ; Logon list” | Prath | [Read More](https://medium.com/p/6c599fb6ad39) |
-| Mon, 18 Aug 2025 13:25:00 GMT | Credential Theft in 2025: The Password Problem We Can’t Ignore | CyberSamm | [Read More](https://medium.com/p/0d8119c059a3) |
-| Mon, 18 Aug 2025 13:23:12 GMT | API Keys vs. JWTs. The Hotel Key vs. The Festival Wristband. | Kisalay | [Read More](https://medium.com/p/d998c6bab6d3) |
-| Mon, 18 Aug 2025 13:21:47 GMT | ChatGPT-5 Jailbroken in Just 24 Hours | Surya Teja | [Read More](https://medium.com/p/5b19757bf3be) |
-| Mon, 18 Aug 2025 13:14:36 GMT | Women in Tech: Equality or Just a Formality of Companies? | Prince Bharti | [Read More](https://medium.com/p/093ab1f29eae) |
-| Mon, 18 Aug 2025 13:11:58 GMT | ️ How to Perform a Security Audit on a Web Application | Giampaolocappellotto | [Read More](https://medium.com/p/cccb2bbe12a8) |
-| Mon, 18 Aug 2025 13:09:47 GMT | Fortigate IPsec VPN Configuration | Furkan Karayalcin | [Read More](https://medium.com/p/ea00a8ab39bb) |
-| Mon, 18 Aug 2025 13:06:28 GMT | I Bypassed a WAF Using Only SQLMap | Ibtissam hammadi | [Read More](https://medium.com/p/6857901bc931) |
-| Mon, 18 Aug 2025 13:06:01 GMT | What Is a Password Manager? A Simple Guide to Securing Your Digital Life | Timónofearth | [Read More](https://medium.com/p/0f38e50bd001) |
-| Mon, 18 Aug 2025 13:04:35 GMT | Outsourcing Your SOC: A Smarter Approach to Cybersecurity | Ampcus Cyber | [Read More](https://medium.com/p/00a1109bff82) |
-| Mon, 18 Aug 2025 13:03:13 GMT | Google Gemini’s New Projects Feature Could Change How We Research | Welsh | [Read More](https://medium.com/p/d0a81438356e) |
-| Mon, 18 Aug 2025 13:02:31 GMT | The New Age of Cybersecurity: How AI is Reshaping Defense | Umair Baig | [Read More](https://medium.com/p/9f12e497144a) |
