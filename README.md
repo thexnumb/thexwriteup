@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 14:38:17 GMT | Designing the Inpatient Room of the Future | NYU Langone Health Tech Hub | [Read More](https://medium.com/p/cc8c209187a4) |
+| Mon, 18 Aug 2025 14:35:31 GMT | I Thought Leaning on Someone Was Weak | Ink Within | [Read More](https://medium.com/p/94cc2d1f892c) |
+| Mon, 18 Aug 2025 14:32:48 GMT | The Real National Security Threat Isn’t Foreign — It’s Our Data Blind Spots
+America’s greatest… | Lales | [Read More](https://medium.com/p/905ad630c3fc) |
+| Mon, 18 Aug 2025 14:32:00 GMT | The Hidden Risks of Public Wi-Fi for AI Developers | PromptSecAI | [Read More](https://medium.com/p/6fa31b5e652c) |
+| Mon, 18 Aug 2025 14:31:15 GMT | Google allows Putin’s messenger Max to spy on citizens — maybe they’ll even end up paying another… | 0trust0day | [Read More](https://medium.com/p/bee217e2d147) |
+| Mon, 18 Aug 2025 14:29:58 GMT | Sui Passkey: No Passwords, No Seeds, Just You | [NODERS]TEAM | [Read More](https://medium.com/p/a558e91b5b5e) |
+| Mon, 18 Aug 2025 14:28:18 GMT | Tempest — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/25a0793818ee) |
+| Mon, 18 Aug 2025 14:27:39 GMT | Cybersecurity Awareness Guide: Phishing, Vishing, and Social Engineering | CyberSamm | [Read More](https://medium.com/p/c19ad0d757fb) |
+| Mon, 18 Aug 2025 14:25:51 GMT | The Hidden Characters in AI Writing | John Iovine | [Read More](https://medium.com/p/8bd3e3f7df20) |
+| Mon, 18 Aug 2025 14:20:43 GMT | Server-side Template Injection with Information Disclosure via User-Supplied Objects in Django… | Bash Overflow | [Read More](https://medium.com/p/b6d67af36b43) |
 | Mon, 18 Aug 2025 14:17:58 GMT | OWASP Top-10 Vulnerabilities | Arushi Gupta | [Read More](https://medium.com/p/9185416f52a1) |
+| Mon, 18 Aug 2025 14:17:54 GMT | The Lighthouse | Adéla Valčíková | [Read More](https://medium.com/p/e5959249bc8f) |
 | Mon, 18 Aug 2025 14:16:57 GMT | AWS S3 Buckets: Secure vs. Insecure — What Every Cloud User Should Know | Rue | [Read More](https://medium.com/p/fe9de1c6f942) |
+| Mon, 18 Aug 2025 14:16:46 GMT | AWS VPC Explained Like a Housing Society | Indrajit Dan | [Read More](https://medium.com/p/bc2327e041fa) |
 | Mon, 18 Aug 2025 14:15:15 GMT | Jai Shree Ram | harsha vardhan reddy kunduru | [Read More](https://medium.com/p/88c4a2ea2052) |
+| Mon, 18 Aug 2025 14:11:22 GMT | Guardians of Safety, Powered by Technology | Quva India | [Read More](https://medium.com/p/9653971109a6) |
 | Mon, 18 Aug 2025 14:11:18 GMT | Cybersecurity dan Zero Trust Architecture: Fondasi Keamanan Digital Modern | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/a673c3dfd5fd) |
 | Mon, 18 Aug 2025 14:08:23 GMT | WHY YOU STILL GET SCAMMED IN 2025 | Ushafa Wuakera | [Read More](https://medium.com/p/7152baa0fbd8) |
 | Mon, 18 Aug 2025 14:03:01 GMT | Why Smart Businesses Trust IT Managed Services Providers in Springfield | PCnet | [Read More](https://medium.com/p/8e8dd0ff6735) |
@@ -99,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 10:28:56 GMT | Is Your Cloud Alert Dashboard Actually Creating Risk? | Kambetastephano | [Read More](https://medium.com/p/a9a872f275e7) |
 | Mon, 18 Aug 2025 10:28:07 GMT | Cybersecurity 101: The Basic Hygiene for Digital Safety | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/76d421f40825) |
 | Mon, 18 Aug 2025 10:24:53 GMT | ️ Web3 Security Weekly — Aug 11–17, 2025 | Null Return | [Read More](https://medium.com/p/dcab29bb1c06) |
-| Mon, 18 Aug 2025 10:08:21 GMT | Cybersecurity Firms Tied to Qatar in 2025: Verified Service Providers and Questionable entities | Digitalvoyager | [Read More](https://medium.com/p/292bb3bab94e) |
-| Mon, 18 Aug 2025 10:05:35 GMT | Are we just selling a service, or building a movement? | EXLITY | [Read More](https://medium.com/p/edf27075b282) |
-| Mon, 18 Aug 2025 10:05:20 GMT | Lights, Camera, Identity Theft | Consumer Attorneys PLLC | [Read More](https://medium.com/p/7ca5f5c6a279) |
-| Mon, 18 Aug 2025 10:04:17 GMT | Web Application Security Challenges Modern Threats & Solutions | Application Security Master | [Read More](https://medium.com/p/4c6667a8b77d) |
-| Mon, 18 Aug 2025 09:56:35 GMT | Financial Budgeting | Hmaryada | [Read More](https://medium.com/p/6650b098dc74) |
-| Mon, 18 Aug 2025 09:54:06 GMT | Locked Out of My Fortune: Crypto Nightmare Fuel | SilentInject | [Read More](https://medium.com/p/104161a6f985) |
-| Mon, 18 Aug 2025 09:53:07 GMT | Why Every New Zealand Business Needs Robust Penetration Testing | Black Lock | [Read More](https://medium.com/p/495b4ec5434e) |
-| Mon, 18 Aug 2025 09:51:34 GMT | The Hidden Cost of Rushed Code: Why Small and Mid-Sized Tech Companies Must Rethink Their Culture | Asif | [Read More](https://medium.com/p/15777eade644) |
-| Mon, 18 Aug 2025 09:50:00 GMT | Tech companies named after a city. | Space and Lemon Innovations | [Read More](https://medium.com/p/b2e8117683bc) |
-| Mon, 18 Aug 2025 09:44:02 GMT | The $200,000 Ransom That Shook a Global Telecom | The UNFILTERED Draft | [Read More](https://medium.com/p/581c62b01f8c) |
-| Mon, 18 Aug 2025 09:38:55 GMT | Static Website Deployment on AWS — SaaS Website | Nafs Ahmad | [Read More](https://medium.com/p/4cb96e533a61) |
-| Mon, 18 Aug 2025 09:35:52 GMT | Enhancing Cybersecurity: How Australian Businesses Benefit from Advanced Penetration Testing… | Black Lock | [Read More](https://medium.com/p/d45960b10af0) |
-| Mon, 18 Aug 2025 09:31:58 GMT | Cracked Cisco? Level Up Your Cyber Game Now! | Authlyn | [Read More](https://medium.com/p/1ae4540ac20d) |
