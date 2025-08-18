@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 23:33:49 GMT | How Social Engineering Threatens Financial Services and Healthcare | mePrism Privacy | [Read More](https://medium.com/p/6f07adaba713) |
+| Mon, 18 Aug 2025 23:31:09 GMT | Forensics: scriptCTF 2025- Just Some Avocado Writeup | Rana chouchane - QU33NR | [Read More](https://medium.com/p/39f531b5421c) |
+| Mon, 18 Aug 2025 23:19:50 GMT | Smaller Malware Analysis Network Layout | Ruben | [Read More](https://medium.com/p/2888c845914f) |
 | Mon, 18 Aug 2025 23:15:32 GMT | SQL injection vulnerability in the AWS Aurora DSQL MCP Server | Michael Kandelaars | [Read More](https://medium.com/p/b00eea7c85d9) |
 | Mon, 18 Aug 2025 23:08:46 GMT | Recover Your Crypto: A Step-by-Step Guide | Lost Crypto Recovery Service. | [Read More](https://medium.com/p/ebdf457f6c0d) |
 | Mon, 18 Aug 2025 23:07:58 GMT | One Engine to Rule the Mess: How Measurement Is Quietly Rewriting Creativity, Judgment, and… | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/091a9a081ec8) |
@@ -110,6 +113,3 @@ By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
 | Mon, 18 Aug 2025 16:33:59 GMT | Hardware Security Modules (HSM): Best Practices Overview | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b122f3e2ff2c) |
 | Mon, 18 Aug 2025 16:33:26 GMT | The Silent Rejection: Why Ghosting Hurts More Than “No” | Manish Rawat | [Read More](https://medium.com/p/d03719a2731a) |
 | Mon, 18 Aug 2025 16:33:11 GMT | Homeoffice sicher gestalten: Die IT-Checkliste für Unternehmen | Bjoern Groenewold | [Read More](https://medium.com/p/07a88d07f830) |
-| Mon, 18 Aug 2025 16:29:28 GMT | Why Multi-Factor Authentication (MFA) Matters — Even If You’re Not a Tech Expert — Carousel guide | Tharindu Damith | [Read More](https://medium.com/p/212b7970ece0) |
-| Mon, 18 Aug 2025 16:29:27 GMT | Prompting Cheat Sheet for Security Engineers | Saurabh Jain | [Read More](https://medium.com/p/794985160b8c) |
-| Mon, 18 Aug 2025 16:27:24 GMT | OpenAI releases warmer GPT-5 personality, but only for non thinking model | Welsh | [Read More](https://medium.com/p/0ec266489015) |
