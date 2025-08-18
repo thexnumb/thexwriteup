@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 07:40:08 GMT | How I Passed the PJPT - My Journey, Lessons, and Tips for Aspiring Pentesters. | Kizito Arinze Chukwu | [Read More](https://medium.com/p/e757e91f18d0) |
+| Mon, 18 Aug 2025 07:36:51 GMT | Home Security Camera System in Mumbai, Thane and Pune — Techno Eye. | Techno Eye | [Read More](https://medium.com/p/43788e3a9f71) |
+| Mon, 18 Aug 2025 07:29:54 GMT | Challenges in Digital Forensics and How to Overcome Them | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/a032ea387a4c) |
+| Mon, 18 Aug 2025 07:28:19 GMT | A Strategic Guide to Mastering Digital Transformation | Mamoona Ranna | [Read More](https://medium.com/p/78c847644005) |
+| Mon, 18 Aug 2025 07:22:51 GMT | Computer Science for Cybersecurity by Naiyan Noor | Naiyan Noor | [Read More](https://medium.com/p/6c34a0d814ad) |
 | Mon, 18 Aug 2025 07:11:01 GMT | Top Mobile Application Security Certifications You Need in 2025 | cyber security Updates | [Read More](https://medium.com/p/5a964707a7f3) |
 | Mon, 18 Aug 2025 07:08:43 GMT | Guide to Depositing BUG on StakingRewards with MetaMask or Ledger | BUG | [Read More](https://medium.com/p/2fc0c6577631) |
 | Mon, 18 Aug 2025 07:07:43 GMT | AI-Driven Incident Response: Transforming Cybersecurity for Modern Enterprises | Vihaan Sethi | [Read More](https://medium.com/p/aa099650c350) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 01:47:17 GMT | The Michels Corpus | Julian Michels | [Read More](https://medium.com/p/a6b16f26a3c6) |
 | Mon, 18 Aug 2025 01:45:11 GMT | Web Uygulamalarının Arkasındaki Sessiz Tehditler | Tuba ÜNSAL | [Read More](https://medium.com/p/a31223bfd9f6) |
 | Mon, 18 Aug 2025 01:30:34 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 2 Walkthrough | Mabdullahbinkhalid | [Read More](https://medium.com/p/c12ea53a511b) |
-| Mon, 18 Aug 2025 01:21:35 GMT | ScriptCTF 2025 — Pwn — Index: PIE-Resilient OOB Read via Hidden 1337 Flag Loader | Noman Prodhan | [Read More](https://medium.com/p/0a264dc4b9c9) |
-| Mon, 18 Aug 2025 01:13:04 GMT | HackTheBox - Tabby | jniket | [Read More](https://medium.com/p/2bdf63767c03) |
-| Mon, 18 Aug 2025 01:12:59 GMT | Deep Work: Why Focus Is the New Cybersecurity Firewall | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/f87d62a1e16c) |
-| Mon, 18 Aug 2025 00:33:37 GMT | $500 Bounty: How a Logic Flaw Allowed Silent Logins in a Financial Application | luq0x | [Read More](https://medium.com/p/5eed48939018) |
-| Mon, 18 Aug 2025 00:21:57 GMT | Why I Never Trust Default Linux User Accounts (And Neither Should You) | Faruk Ahmed | [Read More](https://medium.com/p/adf5fad9fe95) |
