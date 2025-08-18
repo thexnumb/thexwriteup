@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 09:26:11 GMT | Top Trends in Fintech and Messaging Apps: Design & Features That Matter | Ketan Patel | [Read More](https://medium.com/p/1b59cf7738fe) |
+| Mon, 18 Aug 2025 09:20:08 GMT | Understanding the bufferSeekOverHole Error in HLS Streaming | Samin Yeasar | [Read More](https://medium.com/p/b293a90c0bd9) |
+| Mon, 18 Aug 2025 09:19:15 GMT | CTF basic -beginners | vulnhunter | [Read More](https://medium.com/p/a899775339c9) |
+| Mon, 18 Aug 2025 09:17:08 GMT | Our CISO Quit After This AI Security Audit (The Results Were That Bad) | Shachar Solomon | [Read More](https://medium.com/p/61f541c74f24) |
+| Mon, 18 Aug 2025 09:11:19 GMT | Greedy Corps & Hacks: Why Aren’t They Hit Harder? | CtrlC3 | [Read More](https://medium.com/p/2279e4a281d7) |
+| Mon, 18 Aug 2025 09:09:26 GMT | Cybersecurity for Remote Workforces: Best Practices | West Advanced Technologies Inc | [Read More](https://medium.com/p/cf2d3dee51fb) |
+| Mon, 18 Aug 2025 09:07:48 GMT | Broken Access Control: The Gateway to Unauthorized Privilege Escalation | YoungerSibling | [Read More](https://medium.com/p/b1cdee656cd2) |
+| Mon, 18 Aug 2025 09:04:51 GMT | Building HeaderGuard: a Website Security Header Scanner | Sreya Menon | [Read More](https://medium.com/p/3ec34e156948) |
+| Mon, 18 Aug 2025 09:02:21 GMT | When Millions Watch and Minutes Cost Millions: The Smart TV Blackout Incident | Ismail Kovvuru | [Read More](https://medium.com/p/30aa5c15dcf3) |
+| Mon, 18 Aug 2025 09:02:01 GMT | ScriptCTF Pwn: Index | Zeyad Salah | [Read More](https://medium.com/p/249ffc4eaa87) |
+| Mon, 18 Aug 2025 09:01:06 GMT | Top Secret Documents Found? What It Means for Your Data | Truspex | [Read More](https://medium.com/p/fea5320553a0) |
+| Mon, 18 Aug 2025 09:01:00 GMT | Low-Code Platforms and Startup Tech Ideas to Explore | Bhavesh Rajpurohit | [Read More](https://medium.com/p/e52543ca563a) |
+| Mon, 18 Aug 2025 09:00:25 GMT | Advancing Incident Response and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/6afd38bf5d42) |
+| Mon, 18 Aug 2025 09:00:00 GMT | Market Movers Alert: TechSolucionesFin Tracks Today’s Power Plays | TechSolucionesFin | [Read More](https://medium.com/p/fa573f3f7745) |
+| Mon, 18 Aug 2025 08:58:38 GMT | Advancing Incident Response and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/81d74ac7c6d3) |
+| Mon, 18 Aug 2025 08:57:10 GMT | Securing React Native Apps in 2025: Updated Best Practices | Pankaj Bhardwaj | [Read More](https://medium.com/p/9554906544ef) |
+| Mon, 18 Aug 2025 08:51:36 GMT | Advancing Identity Management with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/ec7d36e3db4c) |
+| Mon, 18 Aug 2025 08:48:51 GMT | Red Team vs. Blue Team | Sparshika | [Read More](https://medium.com/p/d144b74594ca) |
+| Mon, 18 Aug 2025 08:47:27 GMT | TCC Bypass in Visual Studio Code via misconfigured Node fuses on macOS | Karol Mazurek | [Read More](https://medium.com/p/f8676ad8f08a) |
+| Mon, 18 Aug 2025 08:39:51 GMT | Why Every Showroom Needs CCTV Cameras for Security & Sales Monitoring | Smart Secures | [Read More](https://medium.com/p/30c84098aacc) |
+| Mon, 18 Aug 2025 08:36:39 GMT | Security Fencing in Saudi Arabia (KSA): The Complete Buyer’s Guide for 2025 | Hitechfence | [Read More](https://medium.com/p/91b53690ff13) |
+| Mon, 18 Aug 2025 08:36:26 GMT | Top 5 Cybersecurity Certifications That Recruiters Can’t Ignore — Salary Insights + Skill Breakdown | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/179168fe8978) |
 | Mon, 18 Aug 2025 08:26:09 GMT | Advancing Identity Management for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/dbfb3ca043ec) |
 | Mon, 18 Aug 2025 08:24:54 GMT | Advancing Identity Management for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/88e4c46edb0c) |
 | Mon, 18 Aug 2025 08:23:37 GMT | Advancing Identity Management for Professionals | Cyber Security Research | [Read More](https://medium.com/p/2d0547a3c6b8) |
@@ -35,6 +57,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 07:29:54 GMT | Challenges in Digital Forensics and How to Overcome Them | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/a032ea387a4c) |
 | Mon, 18 Aug 2025 07:28:19 GMT | A Strategic Guide to Mastering Digital Transformation | Mamoona Ranna | [Read More](https://medium.com/p/78c847644005) |
 | Mon, 18 Aug 2025 07:22:51 GMT | Computer Science for Cybersecurity by Naiyan Noor | Naiyan Noor | [Read More](https://medium.com/p/6c34a0d814ad) |
+| Mon, 18 Aug 2025 07:21:00 GMT | Network Professional Career Paths: From Admin to Architect | Abiodun Lawrence Akinpedia | [Read More](https://medium.com/p/0e1d6d46ae18) |
 | Mon, 18 Aug 2025 07:11:01 GMT | Top Mobile Application Security Certifications You Need in 2025 | cyber security Updates | [Read More](https://medium.com/p/5a964707a7f3) |
 | Mon, 18 Aug 2025 07:08:43 GMT | Guide to Depositing BUG on StakingRewards with MetaMask or Ledger | BUG | [Read More](https://medium.com/p/2fc0c6577631) |
 | Mon, 18 Aug 2025 07:07:43 GMT | AI-Driven Incident Response: Transforming Cybersecurity for Modern Enterprises | Vihaan Sethi | [Read More](https://medium.com/p/aa099650c350) |
@@ -90,26 +113,3 @@ A list of the latest fetched articles from RSS feeds.
  but it’s his skin she’s really holding. | The Anonymous Lover | [Read More](https://medium.com/p/8e171112246b) |
 | Mon, 18 Aug 2025 05:01:57 GMT | Cyber Security Incident Documentation Using SE3R | The Security Bee | [Read More](https://medium.com/p/4c016a4038f8) |
 | Mon, 18 Aug 2025 05:00:31 GMT | RST TI Report Digest: 18 Aug 2025 | RST Cloud | [Read More](https://medium.com/p/dac0fd623c16) |
-| Mon, 18 Aug 2025 05:00:04 GMT | The Psychology of Phishing: Why Even Security Pros Still Click | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b313fcb189f1) |
-| Mon, 18 Aug 2025 04:54:22 GMT | How I Discovered a Critical SQL Injection in a Private Bug Bounty Program | Salaheddine KALADA | [Read More](https://medium.com/p/d1f4735c0b59) |
-| Mon, 18 Aug 2025 04:49:22 GMT | The Strongest Human Emotion That Makes Us Truly Human | Drseemabansalsinghal | [Read More](https://medium.com/p/fbbe746f17dd) |
-| Mon, 18 Aug 2025 04:44:04 GMT | Buffer Overflow: The Classic Coding Mistake That Won’t Die | Hassan Khan | [Read More](https://medium.com/p/2ca3817fee9e) |
-| Mon, 18 Aug 2025 04:42:48 GMT | Inside the Mind of an Attacker: Cyber Kill Chain, Unified Kill Chain, and the Diamond Model | Genrunic | [Read More](https://medium.com/p/142a15b043d3) |
-| Mon, 18 Aug 2025 04:34:53 GMT | Software Composition Analysis: Strengthening Security with Smarter Risk Management | Gauri Kale | [Read More](https://medium.com/p/f4b3f2910d1e) |
-| Mon, 18 Aug 2025 04:32:41 GMT | Who Killed Cybernetics? | Taulan Zauzanov | [Read More](https://medium.com/p/d9aa7b8001d5) |
-| Mon, 18 Aug 2025 04:30:31 GMT | The Rise of AI-Powered Cyberattacks | Abida Adra | [Read More](https://medium.com/p/066fd11105de) |
-| Mon, 18 Aug 2025 04:25:47 GMT | Automated Incident Response | Simbian.ai | [Read More](https://medium.com/p/9a5392cbf717) |
-| Mon, 18 Aug 2025 04:25:29 GMT | How Autonomous AI Replaces Your Entire Security Stack | Simbian.ai | [Read More](https://medium.com/p/b73bc6578185) |
-| Mon, 18 Aug 2025 04:25:11 GMT | AI for Cybersecurity Alert Fatigue: Eliminate Burnout & Boost Efficiency Fast | Simbian.ai | [Read More](https://medium.com/p/b918d399a7ab) |
-| Mon, 18 Aug 2025 04:21:53 GMT | How to Secure Your Cloud Accounts (Google Drive, Dropbox, OneDrive) Against Hackers | Paritosh | [Read More](https://medium.com/p/0648c7d11458) |
-| Mon, 18 Aug 2025 04:20:22 GMT | Ace the CEH v13 Exam in 2025: The Ultimate Practice Test You Need | Shehriyyar John | [Read More](https://medium.com/p/b1e8c31cab59) |
-| Mon, 18 Aug 2025 04:18:37 GMT | What are AI Agents? | InfosecTrain | [Read More](https://medium.com/p/591d725ead65) |
-| Mon, 18 Aug 2025 04:09:40 GMT | The Future of B2B Demand Generation: A $15B Market Shaping Enterprise Growth | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/2c93222099ee) |
-| Mon, 18 Aug 2025 04:06:10 GMT | Day 35- Network Protocols for beginners: SSH, RDP, FTP, SFTP, HTTP/HTTPS, SSL/TLS | unica 02 | [Read More](https://medium.com/p/79bc3189ec0e) |
-| Mon, 18 Aug 2025 04:05:15 GMT | Top Compliance Tools Used in DevSecOps | InfosecTrain | [Read More](https://medium.com/p/522c66d3e625) |
-| Mon, 18 Aug 2025 04:03:51 GMT | The Complete PostgreSQL Performance Optimization Guide | Rizqi Mulki | [Read More](https://medium.com/p/21d3b0bd99d3) |
-| Mon, 18 Aug 2025 04:01:58 GMT | DNA: Nature’s Ultimate Data Storage System | Science Enthusiast | [Read More](https://medium.com/p/cb8727b3acd5) |
-| Mon, 18 Aug 2025 03:56:17 GMT | The Responsibilities of a Google Cloud Security Analyst | Dolly Aswin Harahap | [Read More](https://medium.com/p/a551af21c955) |
-| Mon, 18 Aug 2025 03:56:16 GMT | AI Agents and Automation: Trust, Risk and Security Management | Jingdong Sun | [Read More](https://medium.com/p/48771fb7fe65) |
-| Mon, 18 Aug 2025 03:50:43 GMT | The Complete DevSecOps Transformation Guide | Rizqi Mulki | [Read More](https://medium.com/p/0578e4ff41a6) |
-| Mon, 18 Aug 2025 03:48:36 GMT | Why Your CDN Might Be Making Your Site Slower | Rizqi Mulki | [Read More](https://medium.com/p/e9f9887b805f) |
