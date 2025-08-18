@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 15:22:07 GMT | TryHackMe - Recovering Active Directory - WriteUp | Axoloth | [Read More](https://medium.com/p/adf194f9409e) |
+| Mon, 18 Aug 2025 15:12:16 GMT | Workday Reports Data Exposure Following Third-Party CRM Compromise | RealSec.io | [Read More](https://medium.com/p/693a5be2ffe0) |
+| Mon, 18 Aug 2025 15:11:51 GMT | FortiGate Application Control: A Practical View from the Field | Salman Akram | [Read More](https://medium.com/p/2983f5511f6d) |
+| Mon, 18 Aug 2025 15:11:38 GMT | Breaking Through the Cybersecurity Job Market: A Practical Guide | Fabien Soulis | [Read More](https://medium.com/p/cc5a42c429f8) |
+| Mon, 18 Aug 2025 15:08:30 GMT | Automate Terraform Reviews and Security Analysis with Claude AI | Andrew Blooman | [Read More](https://medium.com/p/9fb594b1eb78) |
+| Mon, 18 Aug 2025 15:03:06 GMT | Testing GitLab self-hosted deployments | Kulkan Security | [Read More](https://medium.com/p/5a162b2a23ba) |
+| Mon, 18 Aug 2025 15:02:00 GMT | When Hackers Open Floodgates: Norway’s Dam Shutdown Signals a New Era of Infrastructure… | Dhruvdeep Singh | [Read More](https://medium.com/p/c183e6d752e1) |
+| Mon, 18 Aug 2025 15:01:15 GMT | AI in Cybersecurity: From Fear to Strategic Partnership | Fabien Soulis | [Read More](https://medium.com/p/2428a267754d) |
+| Mon, 18 Aug 2025 14:59:58 GMT | The AI Physiology of Civilization | Tom Yonashiro | [Read More](https://medium.com/p/ed75f045c8ad) |
+| Mon, 18 Aug 2025 14:53:55 GMT | How Scary Google Tracks Everyone | Vivid | [Read More](https://medium.com/p/4b9d4193693e) |
+| Mon, 18 Aug 2025 14:50:03 GMT | ShellShock: How Hackers Exploit Bash Vulnerabilities and How to Protect Yourself | Very Lazy Tech | [Read More](https://medium.com/p/a006c63c1883) |
 | Mon, 18 Aug 2025 14:38:17 GMT | Designing the Inpatient Room of the Future | NYU Langone Health Tech Hub | [Read More](https://medium.com/p/cc8c209187a4) |
 | Mon, 18 Aug 2025 14:35:31 GMT | I Thought Leaning on Someone Was Weak | Ink Within | [Read More](https://medium.com/p/94cc2d1f892c) |
 | Mon, 18 Aug 2025 14:32:48 GMT | The Real National Security Threat Isn’t Foreign — It’s Our Data Blind Spots
@@ -102,14 +113,3 @@ America’s greatest… | Lales | [Read More](https://medium.com/p/905ad630c3fc)
 | Mon, 18 Aug 2025 10:56:33 GMT | ️ Identification & Scoping — Incident Response Walkthrough | Furkanctiner | [Read More](https://medium.com/p/d0945bbc6ce5) |
 | Mon, 18 Aug 2025 10:56:17 GMT | Hackers Target Workday: The Social Engineering Attack That Exposed HR Data | Liran Nachman | [Read More](https://medium.com/p/6a4747cbb7f7) |
 | Mon, 18 Aug 2025 10:50:09 GMT | Environment Variables in AEM Cloud: Secure, Flexible — But Clean Up Matters | Kartheek Desineedi | [Read More](https://medium.com/p/334b5335bfa1) |
-| Mon, 18 Aug 2025 10:49:36 GMT | Penetration Testing Services: Strengthening Cybersecurity for Businesses | Rohit Singh | [Read More](https://medium.com/p/d5ff4aebfbaf) |
-| Mon, 18 Aug 2025 10:46:40 GMT | Understanding Botnets: The Hidden Threat in the Digital World | Lucas Verdan | [Read More](https://medium.com/p/66ad4e90874f) |
-| Mon, 18 Aug 2025 10:42:15 GMT | How KV-Cache Editing Stops Indirect Prompt Injection in LLMs | Aryan D | [Read More](https://medium.com/p/d3913e22b92b) |
-| Mon, 18 Aug 2025 10:41:41 GMT | Email Exposure within LinkedIn Comments: An Emerging Cybersecurity Threat | Srikar Gadde | [Read More](https://medium.com/p/360b886d1866) |
-| Mon, 18 Aug 2025 10:32:51 GMT | Securing JBoss EAP 8: Essential Undertow Configurations | Kavindu Gayan | [Read More](https://medium.com/p/648e441e381e) |
-| Mon, 18 Aug 2025 10:32:15 GMT | Unlock Your Android’s Potential: Top Magisk Modules for Power Users | Mirabbas | [Read More](https://medium.com/p/5d99831b0a95) |
-| Mon, 18 Aug 2025 10:29:11 GMT | Cyber Hygiene Myths That Still Put Businesses at Risk | Kambetastephano | [Read More](https://medium.com/p/93c920614a40) |
-| Mon, 18 Aug 2025 10:29:03 GMT | Everyting About Postgres Security | Oz | [Read More](https://medium.com/p/026a8b617bf8) |
-| Mon, 18 Aug 2025 10:28:56 GMT | Is Your Cloud Alert Dashboard Actually Creating Risk? | Kambetastephano | [Read More](https://medium.com/p/a9a872f275e7) |
-| Mon, 18 Aug 2025 10:28:07 GMT | Cybersecurity 101: The Basic Hygiene for Digital Safety | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/76d421f40825) |
-| Mon, 18 Aug 2025 10:24:53 GMT | ️ Web3 Security Weekly — Aug 11–17, 2025 | Null Return | [Read More](https://medium.com/p/dcab29bb1c06) |
