@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 03:31:55 GMT | Incognito Mode Isn’t Private: What You are Really Exposing When You Think You’re Hidden | Deven Chhajed | [Read More](https://medium.com/p/d180da13d3f0) |
+| Mon, 18 Aug 2025 03:27:26 GMT | Why Your ‘Secure’ Email is a Joke (and How to Fix It) | Aj | [Read More](https://medium.com/p/1b37261853eb) |
+| Mon, 18 Aug 2025 03:24:54 GMT | Topic 8: Integrating LLM Security into Your Existing Cybersecurity Framework: A Strategic Roadmap | Scott Huang | [Read More](https://medium.com/p/433afe906e69) |
+| Mon, 18 Aug 2025 03:23:55 GMT | Building Secure Software: A Guide for Engineers | Hamza Naveed Mohammed | [Read More](https://medium.com/p/becc598e2fbb) |
+| Mon, 18 Aug 2025 03:21:59 GMT | How Continuous Monitoring Saves Your Organization from Major Data Breaches | Secure My ORG | [Read More](https://medium.com/p/f4b192b65f09) |
+| Mon, 18 Aug 2025 03:17:30 GMT | Active Exploits Detected: Apache ActiveMQ Remote Code Execution (RCE) | AerieWhole123 | [Read More](https://medium.com/p/cac20e1d405e) |
+| Mon, 18 Aug 2025 03:08:18 GMT | My Last Time Using the Internet | Enki~Mardil~xox~King of Flowers~ | [Read More](https://medium.com/p/198dcc66d1cd) |
+| Mon, 18 Aug 2025 03:05:54 GMT | My First Custom Virus (A Harmless Prank) | Devanik Debnath | [Read More](https://medium.com/p/e8ac6749c892) |
+| Mon, 18 Aug 2025 02:47:20 GMT | RECOVER ALL YOUR LOST CRYPTOCURRENCY WITH THE HELP OF OPTIMISTIC HACKER GAIUS | Jamesethan | [Read More](https://medium.com/p/1a6d0d0b04ba) |
+| Mon, 18 Aug 2025 02:42:48 GMT | Redirecting Restored Files by Editing Windows $I Metadata | Jevaunsmith | [Read More](https://medium.com/p/2987aaad20f0) |
+| Mon, 18 Aug 2025 02:41:40 GMT | How Does an AI Security Certification Prepare You for Real-World Threats? | Modern Security | [Read More](https://medium.com/p/981f8d8b4a06) |
+| Mon, 18 Aug 2025 02:37:58 GMT | Implementing Google Cloud DLP API in Your GCP Application | Neel Shah | [Read More](https://medium.com/p/f84fe6cb8ad7) |
+| Mon, 18 Aug 2025 02:31:57 GMT | How I Exploited 3 Unique Race Condition Bugs | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/934ea54ebf58) |
+| Mon, 18 Aug 2025 01:54:14 GMT | Mobile Security Towers vs Cameras: What’s Best for Construction Site Monitoring? | Ivis Constructionsurveillance | [Read More](https://medium.com/p/6cfbdbfe02f2) |
 | Mon, 18 Aug 2025 01:47:17 GMT | The Michels Corpus | Julian Michels | [Read More](https://medium.com/p/a6b16f26a3c6) |
 | Mon, 18 Aug 2025 01:45:11 GMT | Web Uygulamalarının Arkasındaki Sessiz Tehditler | Tuba ÜNSAL | [Read More](https://medium.com/p/a31223bfd9f6) |
 | Mon, 18 Aug 2025 01:30:34 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 2 Walkthrough | Mabdullahbinkhalid | [Read More](https://medium.com/p/c12ea53a511b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 17:13:03 GMT | Linux Privilege Escalation Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/4fd6f74755fb) |
 | Sun, 17 Aug 2025 17:12:12 GMT | Fog Computing and Swarm Intelligence:Implement the Firewall Isolation | Kuiliga Dieudonné Armel NONGUIERMA | [Read More](https://medium.com/p/277de8a1d155) |
 | Sun, 17 Aug 2025 17:11:03 GMT | The Impact of Quantum Computing on Information Security. | bypec | [Read More](https://medium.com/p/702cf850de98) |
-| Sun, 17 Aug 2025 17:09:39 GMT | Tech Trends 2025: The Most In-Demand Programming Skills and Roles | Yogeesh Sm | [Read More](https://medium.com/p/1b19ad668038) |
-| Sun, 17 Aug 2025 17:04:58 GMT | Producing security | Dylan Evans | [Read More](https://medium.com/p/ead82a3f0d78) |
-| Sun, 17 Aug 2025 17:01:50 GMT | Why I Almost Quit Cybersecurity (And Why I Didn’t) | Cyberkech | [Read More](https://medium.com/p/8b9a32a943ff) |
-| Sun, 17 Aug 2025 16:55:53 GMT | Emerging Scam Coins: Threat Intelligence Insights on Disney Coin, Trump Coin, Grok Coin, and Coin… | Rishika Desai | [Read More](https://medium.com/p/37657ce512b4) |
-| Sun, 17 Aug 2025 16:49:46 GMT | Mastering Google Dorking: Search Operators for Deep Recon & Bug Bounty Hunting_allupavankumar | allu pavankumar | [Read More](https://medium.com/p/d399963db955) |
-| Sun, 17 Aug 2025 16:46:49 GMT | Simple 2FA Bypass PortSwigger Writeup: How I Used This Method for a Real-Time Bug and Earned $2,500 | Mukilan Baskaran | [Read More](https://medium.com/p/d18b5e317c3a) |
-| Sun, 17 Aug 2025 16:46:15 GMT | Top 100 SQL Injection Payloads (Complete List for 2025) | Pratham Shah | [Read More](https://medium.com/p/9f9ba2d2790a) |
-| Sun, 17 Aug 2025 16:46:13 GMT | She Owned Two Laptops — Then a Windows 10 Update Made Her Sue Microsoft | Harsh duhan | [Read More](https://medium.com/p/123fdadd8bf9) |
-| Sun, 17 Aug 2025 16:43:53 GMT | 10 Cybersecurity Practices Everyone Should Know in 2025 | VS Writes | [Read More](https://medium.com/p/1d8a04284e60) |
-| Sun, 17 Aug 2025 16:41:33 GMT | Yapay Zeka ile Siber Güvenlik: Tehditlere Karşı Yeni Nesil Savunma | Filiztanitmis | [Read More](https://medium.com/p/e7fb347daff9) |
-| Sun, 17 Aug 2025 16:37:28 GMT | Wireshark Nedir? Nasıl Kullanılır? Ne İşe Yarar? — Kapsamlı Rehber | Enis Buğra Akada | [Read More](https://medium.com/p/9341649ce5ae) |
-| Sun, 17 Aug 2025 16:31:58 GMT | TLS/SSL Handshake – Detailed Explanation | Devaduthsaji | [Read More](https://medium.com/p/88224c1e4f66) |
-| Sun, 17 Aug 2025 16:31:32 GMT | Best Practices for Secure Smart Contract Development | Kaushalsinh | [Read More](https://medium.com/p/7a11f70468b3) |
-| Sun, 17 Aug 2025 16:23:23 GMT | Beyond alert(“XSS”): What I Learned About XSS After Finding It | CSCF-SUIET MUKKA | [Read More](https://medium.com/p/9638fb698241) |
