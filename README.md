@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 09:44:02 GMT | The $200,000 Ransom That Shook a Global Telecom | The UNFILTERED Draft | [Read More](https://medium.com/p/581c62b01f8c) |
+| Mon, 18 Aug 2025 09:38:55 GMT | Static Website Deployment on AWS — SaaS Website | Nafs Ahmad | [Read More](https://medium.com/p/4cb96e533a61) |
+| Mon, 18 Aug 2025 09:35:52 GMT | Enhancing Cybersecurity: How Australian Businesses Benefit from Advanced Penetration Testing… | Black Lock | [Read More](https://medium.com/p/d45960b10af0) |
+| Mon, 18 Aug 2025 09:31:58 GMT | Cracked Cisco? Level Up Your Cyber Game Now! | Authlyn | [Read More](https://medium.com/p/1ae4540ac20d) |
+| Mon, 18 Aug 2025 09:31:54 GMT | Event Horizon TryHackMe Walkthrough | Mehdi Ben Fredj | [Read More](https://medium.com/p/aa4e8e6b59fe) |
 | Mon, 18 Aug 2025 09:26:11 GMT | Top Trends in Fintech and Messaging Apps: Design & Features That Matter | Ketan Patel | [Read More](https://medium.com/p/1b59cf7738fe) |
+| Mon, 18 Aug 2025 09:23:47 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/39ae1650b456) |
+| Mon, 18 Aug 2025 09:22:57 GMT | Cómo saber si mi contraseña fue filtrada: Guía práctica para proteger tus cuentas online | elgestoprudente | [Read More](https://medium.com/p/0f96d937c5f4) |
+| Mon, 18 Aug 2025 09:22:05 GMT | API Security Testing on a Healthcare App with AI Assistant (Zero Health Application) | Rachael Kivuti | [Read More](https://medium.com/p/2850117ced56) |
 | Mon, 18 Aug 2025 09:20:08 GMT | Understanding the bufferSeekOverHole Error in HLS Streaming | Samin Yeasar | [Read More](https://medium.com/p/b293a90c0bd9) |
 | Mon, 18 Aug 2025 09:19:15 GMT | CTF basic -beginners | vulnhunter | [Read More](https://medium.com/p/a899775339c9) |
 | Mon, 18 Aug 2025 09:17:08 GMT | Our CISO Quit After This AI Security Audit (The Results Were That Bad) | Shachar Solomon | [Read More](https://medium.com/p/61f541c74f24) |
@@ -104,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 05:15:43 GMT | Securing Applications with Software Composition Analysis (SCA) | Rachel K | [Read More](https://medium.com/p/244ba96f604b) |
 | Mon, 18 Aug 2025 05:13:58 GMT | Why I Write About Cybersecurity and Poetry | Vince Picton | [Read More](https://medium.com/p/d5da78f2ccd9) |
 | Mon, 18 Aug 2025 05:12:58 GMT | Beware of This New Cab Driver Scam: Fake Money Transfers & Empty Rides | Deepak | [Read More](https://medium.com/p/8310b6530766) |
-| Mon, 18 Aug 2025 05:10:30 GMT | How I Accidentally Built a Career Out of Doing Crimes Legally | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/23db3921627c) |
-| Mon, 18 Aug 2025 05:10:23 GMT | The Ultimate Guide to VPN Services in 2025: Stay Secure and Connected Anywhere | Brian Davis | [Read More](https://medium.com/p/31a6c8775d29) |
-| Mon, 18 Aug 2025 05:08:57 GMT | The Web Pentest Kill Chain: From Recon to Root with MITRE ATT&CK | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e9324597c8d7) |
-| Mon, 18 Aug 2025 05:05:59 GMT | How Hackers Are Secretly Training AI With Stolen Data | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6bcc89b2cebc) |
-| Mon, 18 Aug 2025 05:05:29 GMT | Your AI Isn’t Just Listening, It’s Editing Your Reality | Aj | [Read More](https://medium.com/p/7233a49975ee) |
-| Mon, 18 Aug 2025 05:01:57 GMT | Her fingers curl around porcelain,
- but it’s his skin she’s really holding. | The Anonymous Lover | [Read More](https://medium.com/p/8e171112246b) |
-| Mon, 18 Aug 2025 05:01:57 GMT | Cyber Security Incident Documentation Using SE3R | The Security Bee | [Read More](https://medium.com/p/4c016a4038f8) |
-| Mon, 18 Aug 2025 05:00:31 GMT | RST TI Report Digest: 18 Aug 2025 | RST Cloud | [Read More](https://medium.com/p/dac0fd623c16) |
