@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 17:19:10 GMT | The #1 Mistake That Gets You Hacked (And How to Fix It) | Sneha Rani | [Read More](https://medium.com/p/d881cf0eb692) |
+| Mon, 18 Aug 2025 17:07:26 GMT | Introduction to SOC Fundamentals: A Guide for Aspiring Analysts | Williammeed | [Read More](https://medium.com/p/0c79fafa38dd) |
+| Mon, 18 Aug 2025 17:07:01 GMT | After the Lock: A Step-by-Step Guide to Surviving a Ransomware Attack | Paradise technologies Inc | [Read More](https://medium.com/p/ba2d1883eece) |
+| Mon, 18 Aug 2025 16:59:27 GMT | The $50,000 Email That Sounded Perfect: How AI Made Phishing Scary Smart (And What You Need to… | Myra Jarenga | [Read More](https://medium.com/p/a06c7654e9d3) |
+| Mon, 18 Aug 2025 16:58:59 GMT | Hacker Claims to Sell 15.8 Million Unencrypted PayPal Accounts on Dark Web | Fazal | [Read More](https://medium.com/p/05cf3bfbd082) |
+| Mon, 18 Aug 2025 16:57:41 GMT | Write-up Wizard Gallery - scriptCTF | D4LTON | [Read More](https://medium.com/p/8429ae8384de) |
+| Mon, 18 Aug 2025 16:54:29 GMT | Secure Your Node.js App from the Inside Out | ABK | [Read More](https://medium.com/p/01a8c75a9d89) |
 | Mon, 18 Aug 2025 16:52:06 GMT | Cybersecurity 101: A Beginner’s Guide to Staying Safe in the Digital World | Ajekigbe Michael. A | [Read More](https://medium.com/p/f6abd995173e) |
+| Mon, 18 Aug 2025 16:48:52 GMT | CVE-2025–55169: Path Traversal Vulnerability in WeGIA Web Manager | Samet Yılmaz Temel | [Read More](https://medium.com/p/ab43c1e1c259) |
 | Mon, 18 Aug 2025 16:45:39 GMT | Identity-Centric Cloud Defense | Above The Firewall | [Read More](https://medium.com/p/2fa490033737) |
 | Mon, 18 Aug 2025 16:40:52 GMT | Is This the End of High-Paying Tech Jobs? | Vijay Kumar Gupta | [Read More](https://medium.com/p/eac14e9feca8) |
 | Mon, 18 Aug 2025 16:36:41 GMT | Life and how I perceive it | Kondapalli Koyal | [Read More](https://medium.com/p/a49f11a71353) |
@@ -107,11 +115,3 @@ America’s greatest… | Lales | [Read More](https://medium.com/p/905ad630c3fc)
 | Mon, 18 Aug 2025 12:48:44 GMT | What Makes Relationships Thrive Beyond the Surface | Bright Flow | [Read More](https://medium.com/p/029765fdef57) |
 | Mon, 18 Aug 2025 12:34:08 GMT | A Monday Morning in IT (a.k.a. “Why I Don’t Need Coffee”) | Damien Ponders | [Read More](https://medium.com/p/f5e8dc485192) |
 | Mon, 18 Aug 2025 12:33:24 GMT | Sulu | strawb3ng | [Read More](https://medium.com/p/ca361e258886) |
-| Mon, 18 Aug 2025 12:28:14 GMT | Free Temporary Email — Protect Your Privacy and Avoid Spam | Free Temporary Email | [Read More](https://medium.com/p/49482777560b) |
-| Mon, 18 Aug 2025 12:28:08 GMT | Salesforce Under Siege: What Recent Breaches Reveal About Cloud Vulnerabilities | Adrian McGarry | [Read More](https://medium.com/p/a7b69b3e57dd) |
-| Mon, 18 Aug 2025 12:22:17 GMT | Why Should Businesses Invest in Vulnerability Assessment and Penetration Testing? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/a838139152ba) |
-| Mon, 18 Aug 2025 12:22:09 GMT | . | Afrazsajid | [Read More](https://medium.com/p/14a46c38d4c1) |
-| Mon, 18 Aug 2025 12:21:44 GMT | The Cybersecurity Truths No One Told Me (Until It Was Almost Too Late) | Taimur Ijlal | [Read More](https://medium.com/p/9e549da96394) |
-| Mon, 18 Aug 2025 12:21:42 GMT | Sysmon and Log Analysis: Theory and understanding | Ajao Error | [Read More](https://medium.com/p/21721e1d00cf) |
-| Mon, 18 Aug 2025 12:20:09 GMT | Threat Actor Profile: EncryptHub (a.k.a. LARVA-208 / Water Gamayun) | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/7416bcd98532) |
-| Mon, 18 Aug 2025 12:19:32 GMT | SQL Injection Menggunakan SQL Map | Agil Jibrin | [Read More](https://medium.com/p/b302d2fce2a3) |
