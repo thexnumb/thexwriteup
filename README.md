@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 15:34:43 GMT | Grow your wealth with confidence
+Grow your wealth with confidence
+Since 2018, we’ve delivered… | Joshua onoja Akwu | [Read More](https://medium.com/p/4698ae5d7145) |
+| Mon, 18 Aug 2025 15:32:52 GMT | The 80/20 Rule of Hacking (20% Skills = 80% Results) | Nitin yadav | [Read More](https://medium.com/p/8cee2685ccaf) |
+| Mon, 18 Aug 2025 15:29:55 GMT | Network & Infrastructure Penetration Testing Services - SecureRoot | secureroot | [Read More](https://medium.com/p/9a0c0c1d9123) |
+| Mon, 18 Aug 2025 15:29:15 GMT | ISO 27001 & ISO 27002 Frameworks Explained for Beginners and How They Compare with NIST | Aarushi Mishra | [Read More](https://medium.com/p/fdccf21794f4) |
+| Mon, 18 Aug 2025 15:28:58 GMT | “Day 15: The Phantom JS Threat — How Forgotten Code Became a Silent RCE Bomb” | Aman Sharma | [Read More](https://medium.com/p/e4f9551b14d8) |
 | Mon, 18 Aug 2025 15:22:07 GMT | TryHackMe - Recovering Active Directory - WriteUp | Axoloth | [Read More](https://medium.com/p/adf194f9409e) |
+| Mon, 18 Aug 2025 15:21:55 GMT | Bug Bounty: Broken Access Control — When Hackers Walk Right In | Rajkumar Kumawat | [Read More](https://medium.com/p/ffb6e04ee756) |
+| Mon, 18 Aug 2025 15:18:04 GMT | Smart Door Locks 2025: The Ultimate Fusion of Security & Convenience | woodworking AYMAN | [Read More](https://medium.com/p/d944cd66c6c5) |
 | Mon, 18 Aug 2025 15:12:16 GMT | Workday Reports Data Exposure Following Third-Party CRM Compromise | RealSec.io | [Read More](https://medium.com/p/693a5be2ffe0) |
 | Mon, 18 Aug 2025 15:11:51 GMT | FortiGate Application Control: A Practical View from the Field | Salman Akram | [Read More](https://medium.com/p/2983f5511f6d) |
 | Mon, 18 Aug 2025 15:11:38 GMT | Breaking Through the Cybersecurity Job Market: A Practical Guide | Fabien Soulis | [Read More](https://medium.com/p/cc5a42c429f8) |
@@ -106,10 +115,3 @@ America’s greatest… | Lales | [Read More](https://medium.com/p/905ad630c3fc)
 | Mon, 18 Aug 2025 11:12:11 GMT | Windows Process Injection Fundamentals | Tom O'Neill | [Read More](https://medium.com/p/00d43ee9ecad) |
 | Mon, 18 Aug 2025 11:10:41 GMT | Mapping the Digital Battlefield: Reconnaissance Process in a Pentest Lab ( Parrot OS +… | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/3e1ddd53d8fe) |
 | Mon, 18 Aug 2025 11:07:41 GMT | Wake Up to the LSSC Scam: How the Lightning Shared Scooter Company Fooled Thousands — And What You… | ObserIQ Insights | [Read More](https://medium.com/p/13e65d0e97a1) |
-| Mon, 18 Aug 2025 11:03:13 GMT | Basic Malware RE — TryHackMe Write up | Haitham Aljabbari | [Read More](https://medium.com/p/d0e0c16d67c2) |
-| Mon, 18 Aug 2025 11:02:31 GMT | UK Safety and Security Declaration: A Complete Guide for Importers and Exporters | Customs and Trade in the UK | [Read More](https://medium.com/p/6d9d9e0c03ee) |
-| Mon, 18 Aug 2025 11:01:57 GMT | What I Learned After Failing Every Time I Only Studied, Not Built | Anuja | [Read More](https://medium.com/p/bc0243e3d1ee) |
-| Mon, 18 Aug 2025 11:01:10 GMT | Digital Identity Protection | Syed Raza | [Read More](https://medium.com/p/e827af08ddf1) |
-| Mon, 18 Aug 2025 10:56:33 GMT | ️ Identification & Scoping — Incident Response Walkthrough | Furkanctiner | [Read More](https://medium.com/p/d0945bbc6ce5) |
-| Mon, 18 Aug 2025 10:56:17 GMT | Hackers Target Workday: The Social Engineering Attack That Exposed HR Data | Liran Nachman | [Read More](https://medium.com/p/6a4747cbb7f7) |
-| Mon, 18 Aug 2025 10:50:09 GMT | Environment Variables in AEM Cloud: Secure, Flexible — But Clean Up Matters | Kartheek Desineedi | [Read More](https://medium.com/p/334b5335bfa1) |
