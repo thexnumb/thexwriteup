@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 04:32:41 GMT | Who Killed Cybernetics? | Taulan Zauzanov | [Read More](https://medium.com/p/d9aa7b8001d5) |
+| Mon, 18 Aug 2025 04:25:47 GMT | Automated Incident Response | Simbian.ai | [Read More](https://medium.com/p/9a5392cbf717) |
+| Mon, 18 Aug 2025 04:25:29 GMT | How Autonomous AI Replaces Your Entire Security Stack | Simbian.ai | [Read More](https://medium.com/p/b73bc6578185) |
+| Mon, 18 Aug 2025 04:25:11 GMT | AI for Cybersecurity Alert Fatigue: Eliminate Burnout & Boost Efficiency Fast | Simbian.ai | [Read More](https://medium.com/p/b918d399a7ab) |
+| Mon, 18 Aug 2025 04:21:53 GMT | How to Secure Your Cloud Accounts (Google Drive, Dropbox, OneDrive) Against Hackers | Paritosh | [Read More](https://medium.com/p/0648c7d11458) |
+| Mon, 18 Aug 2025 04:20:22 GMT | Ace the CEH v13 Exam in 2025: The Ultimate Practice Test You Need | Shehriyyar John | [Read More](https://medium.com/p/b1e8c31cab59) |
+| Mon, 18 Aug 2025 04:18:37 GMT | What are AI Agents? | InfosecTrain | [Read More](https://medium.com/p/591d725ead65) |
+| Mon, 18 Aug 2025 04:09:40 GMT | The Future of B2B Demand Generation: A $15B Market Shaping Enterprise Growth | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/2c93222099ee) |
+| Mon, 18 Aug 2025 04:06:10 GMT | Day 35- Network Protocols for beginners: SSH, RDP, FTP, SFTP, HTTP/HTTPS, SSL/TLS | unica 02 | [Read More](https://medium.com/p/79bc3189ec0e) |
+| Mon, 18 Aug 2025 04:05:15 GMT | Top Compliance Tools Used in DevSecOps | InfosecTrain | [Read More](https://medium.com/p/522c66d3e625) |
+| Mon, 18 Aug 2025 04:03:51 GMT | The Complete PostgreSQL Performance Optimization Guide | Rizqi Mulki | [Read More](https://medium.com/p/21d3b0bd99d3) |
+| Mon, 18 Aug 2025 04:01:58 GMT | DNA: Nature’s Ultimate Data Storage System | Science Enthusiast | [Read More](https://medium.com/p/cb8727b3acd5) |
+| Mon, 18 Aug 2025 03:56:17 GMT | The Responsibilities of a Google Cloud Security Analyst | Dolly Aswin Harahap | [Read More](https://medium.com/p/a551af21c955) |
+| Mon, 18 Aug 2025 03:56:16 GMT | AI Agents and Automation: Trust, Risk and Security Management | Jingdong Sun | [Read More](https://medium.com/p/48771fb7fe65) |
+| Mon, 18 Aug 2025 03:50:43 GMT | The Complete DevSecOps Transformation Guide | Rizqi Mulki | [Read More](https://medium.com/p/0578e4ff41a6) |
+| Mon, 18 Aug 2025 03:48:36 GMT | Why Your CDN Might Be Making Your Site Slower | Rizqi Mulki | [Read More](https://medium.com/p/e9f9887b805f) |
+| Mon, 18 Aug 2025 03:43:30 GMT | From Asimov’s Dreams to Digital Nightmares | Joachim Bertot | [Read More](https://medium.com/p/e710d8b40bc0) |
 | Mon, 18 Aug 2025 03:31:55 GMT | Incognito Mode Isn’t Private: What You are Really Exposing When You Think You’re Hidden | Deven Chhajed | [Read More](https://medium.com/p/d180da13d3f0) |
 | Mon, 18 Aug 2025 03:27:26 GMT | Why Your ‘Secure’ Email is a Joke (and How to Fix It) | Aj | [Read More](https://medium.com/p/1b37261853eb) |
 | Mon, 18 Aug 2025 03:24:54 GMT | Topic 8: Integrating LLM Security into Your Existing Cybersecurity Framework: A Strategic Roadmap | Scott Huang | [Read More](https://medium.com/p/433afe906e69) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 17:52:52 GMT | [Web Security Academy] — Server-Side Vulnerabilities / Authentication Lab 1 of 2 | Voltsec | [Read More](https://medium.com/p/50f32c7df27a) |
 | Sun, 17 Aug 2025 17:52:24 GMT | Zabbix Agentless Monitoring for Linux (Enhanced): The Complete Step-by-Step Guide | Karthick Dkk | [Read More](https://medium.com/p/18f6adfb32be) |
 | Sun, 17 Aug 2025 17:51:50 GMT | HTB Walkthrough : Dancing(SMB) | Ahmad Sopyan | [Read More](https://medium.com/p/0c26180f2bed) |
-| Sun, 17 Aug 2025 17:50:51 GMT | How to Download YouTube Videos in 4K for Free (Updated Guide 2025) | Nikhil Pandey | [Read More](https://medium.com/p/a20136f27b52) |
-| Sun, 17 Aug 2025 17:50:39 GMT | [Web Security Academy] — Server-Side Vulnerabilities / Authentication | Voltsec | [Read More](https://medium.com/p/a6eefdcc58ff) |
-| Sun, 17 Aug 2025 17:44:12 GMT | Things to Consider When Looking for an AI Pentest Tool? | Avantika Dsena | [Read More](https://medium.com/p/05dcbeedc203) |
-| Sun, 17 Aug 2025 17:41:19 GMT | The Simple Walking Trick That Instantly Makes You Look Local | Marc Ford | [Read More](https://medium.com/p/8d9578e49af7) |
-| Sun, 17 Aug 2025 17:40:39 GMT | ️ Map to Mayhem: How an Internal API Directory Leaked Sensitive Endpoints | Iski | [Read More](https://medium.com/p/234055f3fff1) |
-| Sun, 17 Aug 2025 17:37:34 GMT | ISC2 Certified in Cybersecurity | M A | [Read More](https://medium.com/p/b407480d1973) |
-| Sun, 17 Aug 2025 17:29:45 GMT | How Does SSO Work? | Agustin Ignacio Rossi | [Read More](https://medium.com/p/14ec4a5aa41c) |
-| Sun, 17 Aug 2025 17:29:09 GMT | Day 9 : Commands on linux | Prathamlondhe | [Read More](https://medium.com/p/85271fadf78c) |
-| Sun, 17 Aug 2025 17:28:32 GMT | ️ KeySentry v2 — Stop API Key Leaks Before They Stop You | Aditya Bhatt | [Read More](https://medium.com/p/9be0dc734932) |
-| Sun, 17 Aug 2025 17:21:46 GMT | WHAT ARE CRYPTOCURRENCIES? | Insurance Investment Management | [Read More](https://medium.com/p/54ffc63e3f1d) |
-| Sun, 17 Aug 2025 17:20:16 GMT | Proxying Burp Suite Through Tor on Kali Linux | Randall Repass | [Read More](https://medium.com/p/4e5e610663ce) |
-| Sun, 17 Aug 2025 17:17:55 GMT | From Findings to Fixes: My Experience Creating a Penetration Testing Report | Utkarsh Srivastava | [Read More](https://medium.com/p/d3cf308e10cd) |
-| Sun, 17 Aug 2025 17:16:46 GMT | The Anatomy of a Perfect Pitch | Dusan Ostojic | [Read More](https://medium.com/p/d04106952389) |
-| Sun, 17 Aug 2025 17:14:04 GMT | HOW CAN ONE INVEST IN CRYPTOCURRENCY? | Insurance Investment Management | [Read More](https://medium.com/p/89011e77fbfe) |
-| Sun, 17 Aug 2025 17:13:03 GMT | Linux Privilege Escalation Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/4fd6f74755fb) |
-| Sun, 17 Aug 2025 17:12:12 GMT | Fog Computing and Swarm Intelligence:Implement the Firewall Isolation | Kuiliga Dieudonné Armel NONGUIERMA | [Read More](https://medium.com/p/277de8a1d155) |
-| Sun, 17 Aug 2025 17:11:03 GMT | The Impact of Quantum Computing on Information Security. | bypec | [Read More](https://medium.com/p/702cf850de98) |
