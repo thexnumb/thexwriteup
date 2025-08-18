@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 05:18:30 GMT | The Tools Hackers Use Every Day That You’ve Never Heard Of | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3b1232da6b6a) |
+| Mon, 18 Aug 2025 05:15:43 GMT | Securing Applications with Software Composition Analysis (SCA) | Rachel K | [Read More](https://medium.com/p/244ba96f604b) |
+| Mon, 18 Aug 2025 05:12:58 GMT | Beware of This New Cab Driver Scam: Fake Money Transfers & Empty Rides | Deepak | [Read More](https://medium.com/p/8310b6530766) |
+| Mon, 18 Aug 2025 05:10:30 GMT | How I Accidentally Built a Career Out of Doing Crimes Legally | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/23db3921627c) |
+| Mon, 18 Aug 2025 05:10:23 GMT | The Ultimate Guide to VPN Services in 2025: Stay Secure and Connected Anywhere | Brian Davis | [Read More](https://medium.com/p/31a6c8775d29) |
+| Mon, 18 Aug 2025 05:08:57 GMT | The Web Pentest Kill Chain: From Recon to Root with MITRE ATT&CK | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e9324597c8d7) |
+| Mon, 18 Aug 2025 05:05:59 GMT | How Hackers Are Secretly Training AI With Stolen Data | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6bcc89b2cebc) |
+| Mon, 18 Aug 2025 05:05:29 GMT | Your AI Isn’t Just Listening, It’s Editing Your Reality | Aj | [Read More](https://medium.com/p/7233a49975ee) |
+| Mon, 18 Aug 2025 05:01:57 GMT | Her fingers curl around porcelain,
+ but it’s his skin she’s really holding. | The Anonymous Lover | [Read More](https://medium.com/p/8e171112246b) |
+| Mon, 18 Aug 2025 05:01:57 GMT | Cyber Security Incident Documentation Using SE3R | The Security Bee | [Read More](https://medium.com/p/4c016a4038f8) |
+| Mon, 18 Aug 2025 05:00:31 GMT | RST TI Report Digest: 18 Aug 2025 | RST Cloud | [Read More](https://medium.com/p/dac0fd623c16) |
+| Mon, 18 Aug 2025 05:00:04 GMT | The Psychology of Phishing: Why Even Security Pros Still Click | Narendar Battula (nArEn) | [Read More](https://medium.com/p/b313fcb189f1) |
+| Mon, 18 Aug 2025 04:54:22 GMT | How I Discovered a Critical SQL Injection in a Private Bug Bounty Program | Salaheddine KALADA | [Read More](https://medium.com/p/d1f4735c0b59) |
+| Mon, 18 Aug 2025 04:49:22 GMT | The Strongest Human Emotion That Makes Us Truly Human | Drseemabansalsinghal | [Read More](https://medium.com/p/fbbe746f17dd) |
+| Mon, 18 Aug 2025 04:44:04 GMT | Buffer Overflow: The Classic Coding Mistake That Won’t Die | Hassan Khan | [Read More](https://medium.com/p/2ca3817fee9e) |
+| Mon, 18 Aug 2025 04:42:48 GMT | Inside the Mind of an Attacker: Cyber Kill Chain, Unified Kill Chain, and the Diamond Model | Genrunic | [Read More](https://medium.com/p/142a15b043d3) |
+| Mon, 18 Aug 2025 04:34:53 GMT | Software Composition Analysis: Strengthening Security with Smarter Risk Management | Gauri Kale | [Read More](https://medium.com/p/f4b3f2910d1e) |
 | Mon, 18 Aug 2025 04:32:41 GMT | Who Killed Cybernetics? | Taulan Zauzanov | [Read More](https://medium.com/p/d9aa7b8001d5) |
+| Mon, 18 Aug 2025 04:30:31 GMT | The Rise of AI-Powered Cyberattacks | Abida Adra | [Read More](https://medium.com/p/066fd11105de) |
 | Mon, 18 Aug 2025 04:25:47 GMT | Automated Incident Response | Simbian.ai | [Read More](https://medium.com/p/9a5392cbf717) |
 | Mon, 18 Aug 2025 04:25:29 GMT | How Autonomous AI Replaces Your Entire Security Stack | Simbian.ai | [Read More](https://medium.com/p/b73bc6578185) |
 | Mon, 18 Aug 2025 04:25:11 GMT | AI for Cybersecurity Alert Fatigue: Eliminate Burnout & Boost Efficiency Fast | Simbian.ai | [Read More](https://medium.com/p/b918d399a7ab) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 Aug 2025 19:29:59 GMT | Hacking APIs: Exploiting WebSockets Insecure Implementations | Israel Aráoz Severiche | [Read More](https://medium.com/p/a69cba59b0ad) |
 | Sun, 17 Aug 2025 19:26:24 GMT | SOC Threat Detection Lab | Salmaan Ahmed Mustapha | [Read More](https://medium.com/p/3371a72dc722) |
 | Sun, 17 Aug 2025 19:26:05 GMT | ﷽ | Ammar yasser shoeib | [Read More](https://medium.com/p/b3205aa78fbb) |
-| Sun, 17 Aug 2025 18:48:00 GMT | Baltimore City Water: Leaking Customer Information | ice-wzl | [Read More](https://medium.com/p/9076397c3d50) |
-| Sun, 17 Aug 2025 18:46:38 GMT | Adversary Defense Evasion Workflow on Windows Systems (2025) | Shaheer Yasir | [Read More](https://medium.com/p/8d7c92bdae96) |
-| Sun, 17 Aug 2025 18:43:25 GMT | NEWSLETTER : Latest in AI, TikTok, Cybersecurity and Understanding Cyber Threats Through Human… | Nitin Garg | [Read More](https://medium.com/p/7bfd16d99617) |
-| Sun, 17 Aug 2025 18:39:46 GMT | Grep Tryhackme Writeup | Mehdi Ben Fredj | [Read More](https://medium.com/p/80b253a148ad) |
-| Sun, 17 Aug 2025 18:35:38 GMT | picoCTF Web Exploitation: Inspect HTML | vulnhunter | [Read More](https://medium.com/p/655c4e92f002) |
-| Sun, 17 Aug 2025 18:33:25 GMT | Mobile Security | Murad Sadigov | [Read More](https://medium.com/p/bacce5441b13) |
-| Sun, 17 Aug 2025 18:30:38 GMT | Why Mobile Application Security Is Essential to Your Digital Life | Hoplon Infosec | [Read More](https://medium.com/p/f56e0defabf1) |
-| Sun, 17 Aug 2025 18:30:26 GMT | Day 48 — IoC Detection Through Systematic Rule Development | Jinay | [Read More](https://medium.com/p/373eaf0f954d) |
-| Sun, 17 Aug 2025 18:18:36 GMT | Vulnerability Assessment CTF 1 | Hejackson | [Read More](https://medium.com/p/b18ed7a8a664) |
-| Sun, 17 Aug 2025 18:07:22 GMT | How does Fingerprint recognition work? | jaeson Bernardsha | [Read More](https://medium.com/p/1ff70a267ed5) |
-| Sun, 17 Aug 2025 17:58:45 GMT | How I Exploited a Business Logic Flaw to Slash Product Prices in a Global Store | Zyad Ibrahim | [Read More](https://medium.com/p/64cd1d445d17) |
-| Sun, 17 Aug 2025 17:56:53 GMT | WHAT IS THE BEST COMPANY TO INVEST IN CRYPTOCURRENCY? | Insurance Investment Management | [Read More](https://medium.com/p/245725664520) |
-| Sun, 17 Aug 2025 17:55:52 GMT | What is a Network Switch (EN) | Atakan Bitim | [Read More](https://medium.com/p/db1183c01556) |
-| Sun, 17 Aug 2025 17:55:46 GMT | What is a Network Switch (TR) | Atakan Bitim | [Read More](https://medium.com/p/edd4c5e38346) |
-| Sun, 17 Aug 2025 17:55:11 GMT | [Web Security Academy] — Server-Side Vulnerabilities / Authentication Lab 2 of 2 | Voltsec | [Read More](https://medium.com/p/dd023ff17bb4) |
-| Sun, 17 Aug 2025 17:52:52 GMT | [Web Security Academy] — Server-Side Vulnerabilities / Authentication Lab 1 of 2 | Voltsec | [Read More](https://medium.com/p/50f32c7df27a) |
-| Sun, 17 Aug 2025 17:52:24 GMT | Zabbix Agentless Monitoring for Linux (Enhanced): The Complete Step-by-Step Guide | Karthick Dkk | [Read More](https://medium.com/p/18f6adfb32be) |
-| Sun, 17 Aug 2025 17:51:50 GMT | HTB Walkthrough : Dancing(SMB) | Ahmad Sopyan | [Read More](https://medium.com/p/0c26180f2bed) |
