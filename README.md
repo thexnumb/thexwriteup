@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 16:52:06 GMT | Cybersecurity 101: A Beginner’s Guide to Staying Safe in the Digital World | Ajekigbe Michael. A | [Read More](https://medium.com/p/f6abd995173e) |
+| Mon, 18 Aug 2025 16:45:39 GMT | Identity-Centric Cloud Defense | Above The Firewall | [Read More](https://medium.com/p/2fa490033737) |
+| Mon, 18 Aug 2025 16:40:52 GMT | Is This the End of High-Paying Tech Jobs? | Vijay Kumar Gupta | [Read More](https://medium.com/p/eac14e9feca8) |
+| Mon, 18 Aug 2025 16:36:41 GMT | Life and how I perceive it | Kondapalli Koyal | [Read More](https://medium.com/p/a49f11a71353) |
+| Mon, 18 Aug 2025 16:34:46 GMT | TryHackMe - Linux: Local Enumeration - WriteUp | Axoloth | [Read More](https://medium.com/p/5c016506b1a0) |
+| Mon, 18 Aug 2025 16:33:59 GMT | Hardware Security Modules (HSM): Best Practices Overview | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b122f3e2ff2c) |
+| Mon, 18 Aug 2025 16:33:26 GMT | The Silent Rejection: Why Ghosting Hurts More Than “No” | Manish Rawat | [Read More](https://medium.com/p/d03719a2731a) |
+| Mon, 18 Aug 2025 16:33:11 GMT | Homeoffice sicher gestalten: Die IT-Checkliste für Unternehmen | Bjoern Groenewold | [Read More](https://medium.com/p/07a88d07f830) |
+| Mon, 18 Aug 2025 16:29:28 GMT | Why Multi-Factor Authentication (MFA) Matters — Even If You’re Not a Tech Expert — Carousel guide | Tharindu Damith | [Read More](https://medium.com/p/212b7970ece0) |
+| Mon, 18 Aug 2025 16:29:27 GMT | Prompting Cheat Sheet for Security Engineers | Saurabh Jain | [Read More](https://medium.com/p/794985160b8c) |
+| Mon, 18 Aug 2025 16:27:24 GMT | OpenAI releases warmer GPT-5 personality, but only for non thinking model | Welsh | [Read More](https://medium.com/p/0ec266489015) |
 | Mon, 18 Aug 2025 16:23:20 GMT | How Hackers Use Tunneling to Bypass Firewalls (Red Team Playbook) | S3CloudHub | [Read More](https://medium.com/p/fbecde22976d) |
 | Mon, 18 Aug 2025 16:21:12 GMT | From Visibility to Viability: OT Asset Inventory as a Leadership Imperative | James Wright | [Read More](https://medium.com/p/f75a51fae437) |
 | Mon, 18 Aug 2025 16:13:47 GMT | Bulut Güvenliğinin 5 Temel Bileşeni: Dijital Çağın Güvenlik Kalkanı | Arda Cinar | [Read More](https://medium.com/p/6e95f0d0f025) |
@@ -104,14 +115,3 @@ America’s greatest… | Lales | [Read More](https://medium.com/p/905ad630c3fc)
 | Mon, 18 Aug 2025 12:21:42 GMT | Sysmon and Log Analysis: Theory and understanding | Ajao Error | [Read More](https://medium.com/p/21721e1d00cf) |
 | Mon, 18 Aug 2025 12:20:09 GMT | Threat Actor Profile: EncryptHub (a.k.a. LARVA-208 / Water Gamayun) | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/7416bcd98532) |
 | Mon, 18 Aug 2025 12:19:32 GMT | SQL Injection Menggunakan SQL Map | Agil Jibrin | [Read More](https://medium.com/p/b302d2fce2a3) |
-| Mon, 18 Aug 2025 12:13:18 GMT | Best Cloud Security Pathway | CyberPreacher | [Read More](https://medium.com/p/11f2fb5a6c0d) |
-| Mon, 18 Aug 2025 12:12:15 GMT | Cybersecurity in 2025: Protecting Your Digital World from Evolving Threats | Amit solanki | [Read More](https://medium.com/p/14c107f95a30) |
-| Mon, 18 Aug 2025 12:11:15 GMT | Top 10 Incident Response Companies That Could Save Your Company Millions | Mahil Jasani | [Read More](https://medium.com/p/5043576bfc78) |
-| Mon, 18 Aug 2025 12:07:14 GMT | Your Vulnerability Management Program is Broken, Here’s How AI Can Fix It | Keith Foster | [Read More](https://medium.com/p/6bfd96c5247f) |
-| Mon, 18 Aug 2025 12:02:03 GMT | The Real Insects of Ferndale | Adam Fritz | [Read More](https://medium.com/p/192d03bedcc2) |
-| Mon, 18 Aug 2025 11:51:29 GMT | You Won’t Mess with Cryptography | Rona Ega Kharisma | [Read More](https://medium.com/p/a1f551237c9f) |
-| Mon, 18 Aug 2025 11:51:07 GMT | DockerLabs Writeup — Minecraft (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ca2a58a80df4) |
-| Mon, 18 Aug 2025 11:50:31 GMT | Why Your Linux Computer Runs Like a Snail (And Commands to Monitor & Fix It) | MayhemCode | [Read More](https://medium.com/p/14a34e5cfa15) |
-| Mon, 18 Aug 2025 11:47:01 GMT | CISCO devises configuration commands & info CCNA 200–301 | Zodiac Hacker | [Read More](https://medium.com/p/b26c5496847a) |
-| Mon, 18 Aug 2025 11:35:06 GMT | Introduction to Computer Hardware | Aanya Ali | [Read More](https://medium.com/p/559e31756176) |
-| Mon, 18 Aug 2025 11:31:57 GMT | Quantum Computing as a Service (QCaaS): The Next Major Wave in Software | Jordan Schilling | [Read More](https://medium.com/p/9b6d7c0b3c65) |
