@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 Aug 2025 12:34:08 GMT | A Monday Morning in IT (a.k.a. “Why I Don’t Need Coffee”) | Damien Ponders | [Read More](https://medium.com/p/f5e8dc485192) |
+| Mon, 18 Aug 2025 12:33:24 GMT | Sulu | strawb3ng | [Read More](https://medium.com/p/ca361e258886) |
+| Mon, 18 Aug 2025 12:28:14 GMT | Free Temporary Email — Protect Your Privacy and Avoid Spam | Free Temporary Email | [Read More](https://medium.com/p/49482777560b) |
+| Mon, 18 Aug 2025 12:28:08 GMT | Salesforce Under Siege: What Recent Breaches Reveal About Cloud Vulnerabilities | Adrian McGarry | [Read More](https://medium.com/p/a7b69b3e57dd) |
+| Mon, 18 Aug 2025 12:22:17 GMT | Why Should Businesses Invest in Vulnerability Assessment and Penetration Testing? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/a838139152ba) |
+| Mon, 18 Aug 2025 12:22:09 GMT | . | Afrazsajid | [Read More](https://medium.com/p/14a46c38d4c1) |
+| Mon, 18 Aug 2025 12:21:44 GMT | The Cybersecurity Truths No One Told Me (Until It Was Almost Too Late) | Taimur Ijlal | [Read More](https://medium.com/p/9e549da96394) |
+| Mon, 18 Aug 2025 12:21:42 GMT | Sysmon and Log Analysis: Theory and understanding | Ajao Error | [Read More](https://medium.com/p/21721e1d00cf) |
+| Mon, 18 Aug 2025 12:20:09 GMT | Threat Actor Profile: EncryptHub (a.k.a. LARVA-208 / Water Gamayun) | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/7416bcd98532) |
+| Mon, 18 Aug 2025 12:19:32 GMT | SQL Injection Menggunakan SQL Map | Agil Jibrin | [Read More](https://medium.com/p/b302d2fce2a3) |
+| Mon, 18 Aug 2025 12:13:18 GMT | Best Cloud Security Pathway | CyberPreacher | [Read More](https://medium.com/p/11f2fb5a6c0d) |
+| Mon, 18 Aug 2025 12:12:15 GMT | Cybersecurity in 2025: Protecting Your Digital World from Evolving Threats | Amit solanki | [Read More](https://medium.com/p/14c107f95a30) |
+| Mon, 18 Aug 2025 12:11:15 GMT | Top 10 Incident Response Companies That Could Save Your Company Millions | Mahil Jasani | [Read More](https://medium.com/p/5043576bfc78) |
+| Mon, 18 Aug 2025 12:07:14 GMT | Your Vulnerability Management Program is Broken, Here’s How AI Can Fix It | Keith Foster | [Read More](https://medium.com/p/6bfd96c5247f) |
+| Mon, 18 Aug 2025 12:02:03 GMT | The Real Insects of Ferndale | Adam Fritz | [Read More](https://medium.com/p/192d03bedcc2) |
+| Mon, 18 Aug 2025 11:51:29 GMT | You Won’t Mess with Cryptography | Rona Ega Kharisma | [Read More](https://medium.com/p/a1f551237c9f) |
+| Mon, 18 Aug 2025 11:51:07 GMT | DockerLabs Writeup — Minecraft (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ca2a58a80df4) |
+| Mon, 18 Aug 2025 11:50:31 GMT | Why Your Linux Computer Runs Like a Snail (And Commands to Monitor & Fix It) | MayhemCode | [Read More](https://medium.com/p/14a34e5cfa15) |
+| Mon, 18 Aug 2025 11:47:01 GMT | CISCO devises configuration commands & info CCNA 200–301 | Zodiac Hacker | [Read More](https://medium.com/p/b26c5496847a) |
 | Mon, 18 Aug 2025 11:35:06 GMT | Introduction to Computer Hardware | Aanya Ali | [Read More](https://medium.com/p/559e31756176) |
 | Mon, 18 Aug 2025 11:31:57 GMT | Quantum Computing as a Service (QCaaS): The Next Major Wave in Software | Jordan Schilling | [Read More](https://medium.com/p/9b6d7c0b3c65) |
 | Mon, 18 Aug 2025 11:31:52 GMT | College Alone Isn’t Enough — What You Need to Really Get Hired in IT. | SCOPE INDIA | [Read More](https://medium.com/p/fa6cbff580ad) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 08:21:05 GMT | Advancing Identity Management for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/7377b05d50ee) |
 | Mon, 18 Aug 2025 08:20:42 GMT | The Multiplier Effect: How MSPs Transform One ISMS Implementation Into Continuous Business Value | Robert Güntherberg | [Read More](https://medium.com/p/0b7a65e310e1) |
 | Mon, 18 Aug 2025 08:19:58 GMT | Driving Cybersecurity Forward with SIEM, XDR, and LogScale | Vijilan | [Read More](https://medium.com/p/06389a0a2510) |
-| Mon, 18 Aug 2025 08:19:50 GMT | Advancing Identity Management for Decision Makers | Cyber Security Research | [Read More](https://medium.com/p/26c4cbb60da7) |
-| Mon, 18 Aug 2025 08:18:29 GMT | Advancing Identity Management and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/009740218f81) |
-| Mon, 18 Aug 2025 08:16:33 GMT | Securing Microsoft 365 Break Glass Accounts | Jard | [Read More](https://medium.com/p/e16e46a7cbe7) |
-| Mon, 18 Aug 2025 08:15:40 GMT | Professional Website Development Company — Build Your Online Success | Altiora Infotech | [Read More](https://medium.com/p/e6482cf93665) |
-| Mon, 18 Aug 2025 08:10:44 GMT | Zero Trust Explained Like You’re at a College Party | Vaishnavi Sharma | [Read More](https://medium.com/p/e535311e6a57) |
-| Mon, 18 Aug 2025 08:07:13 GMT | Samsung S24 Exploit Chain Pwn2Own 2024 Walkthrough | Happy Jester | [Read More](https://medium.com/p/c7a3da9a7a26) |
-| Mon, 18 Aug 2025 08:01:59 GMT | GitHub Actions as a Secure DevOps Orchestrator: Beyond CI/CD | Mohamed ElEmam | [Read More](https://medium.com/p/d00f9ee53794) |
-| Mon, 18 Aug 2025 07:59:34 GMT | 10 Tools to Make Your Internet Experience Safer. | Saheransari | [Read More](https://medium.com/p/3f41b3079c34) |
-| Mon, 18 Aug 2025 07:57:24 GMT | The Tape Doesn’t Lie… Until It Does | ComsignTrust LTD | [Read More](https://medium.com/p/2c44c59ef9e3) |
-| Mon, 18 Aug 2025 07:51:52 GMT | Not Your Keys, Not Your Coins: An Essential Guide to Crypto Wallets | Moolah Capital | [Read More](https://medium.com/p/f1a1ddc78946) |
-| Mon, 18 Aug 2025 07:51:07 GMT | MITRE ATT&CK ve Cyber Kill Chain: Tehditleri Anlamanın İki Yolu | Mehmet Sancaktaroğlu | [Read More](https://medium.com/p/d3382d8e6516) |
-| Mon, 18 Aug 2025 07:40:08 GMT | How I Passed the PJPT - My Journey, Lessons, and Tips for Aspiring Pentesters. | Kizito Arinze Chukwu | [Read More](https://medium.com/p/e757e91f18d0) |
-| Mon, 18 Aug 2025 07:36:51 GMT | Home Security Camera System in Mumbai, Thane and Pune — Techno Eye. | Techno Eye | [Read More](https://medium.com/p/43788e3a9f71) |
-| Mon, 18 Aug 2025 07:29:54 GMT | Challenges in Digital Forensics and How to Overcome Them | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/a032ea387a4c) |
-| Mon, 18 Aug 2025 07:28:19 GMT | A Strategic Guide to Mastering Digital Transformation | Mamoona Ranna | [Read More](https://medium.com/p/78c847644005) |
-| Mon, 18 Aug 2025 07:22:51 GMT | Computer Science for Cybersecurity by Naiyan Noor | Naiyan Noor | [Read More](https://medium.com/p/6c34a0d814ad) |
-| Mon, 18 Aug 2025 07:21:00 GMT | Network Professional Career Paths: From Admin to Architect | Abiodun Lawrence Akinpedia | [Read More](https://medium.com/p/0e1d6d46ae18) |
-| Mon, 18 Aug 2025 07:11:01 GMT | Top Mobile Application Security Certifications You Need in 2025 | cyber security Updates | [Read More](https://medium.com/p/5a964707a7f3) |
-| Mon, 18 Aug 2025 07:08:43 GMT | Guide to Depositing BUG on StakingRewards with MetaMask or Ledger | BUG | [Read More](https://medium.com/p/2fc0c6577631) |
