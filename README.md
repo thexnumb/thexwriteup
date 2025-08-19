@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 22:32:16 GMT | Red Hat and Blue Hat in Cybersecurity | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/21b6dd59ebab) |
+| Tue, 19 Aug 2025 22:25:20 GMT | Cyberpunk IRL — Video Series | James Reeves | [Read More](https://medium.com/p/dc18f36928b9) |
+| Tue, 19 Aug 2025 22:20:36 GMT | Online Hate is a Crime: Why My Harasser is Panicking and Why They’re Making My Case For Me | Alexander Paul Burton | [Read More](https://medium.com/p/782cee068b3e) |
 | Tue, 19 Aug 2025 22:15:02 GMT | Beyond Human Eyes: Why Tomorrow’s Information Wars Will Be Won on Verification, Not Speed | Prince Esien | [Read More](https://medium.com/p/34800e1a624b) |
 | Tue, 19 Aug 2025 22:12:25 GMT | AI-Powered Security: Revolusi Keamanan Siber di Era Digital | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/c639b3d3c76a) |
 | Tue, 19 Aug 2025 22:09:26 GMT | Try Hack Me — Light | Stilyana Petrova | [Read More](https://medium.com/p/3f47e80739bf) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 16:18:34 GMT | From WannaCry to AI: How CISOs Became Strategic Leaders | Doug Jaworski | [Read More](https://medium.com/p/397b5d1a4081) |
 | Tue, 19 Aug 2025 16:17:12 GMT | Backup Strategy in Hybrid Environments: Lessons from Real-World Experience | Salman Akram | [Read More](https://medium.com/p/79da6b76ad11) |
 | Tue, 19 Aug 2025 16:10:30 GMT | Stop Zero-Click Prompt Injection Today: 9 AI Security Tips | Tochukwu Okonkwor | [Read More](https://medium.com/p/34cc454fb6ce) |
-| Tue, 19 Aug 2025 16:07:46 GMT | How You Stop Prompt Injection Fast: 9 AI Security Tips 2025 | Tochukwu Okonkwor | [Read More](https://medium.com/p/8d777355de41) |
-| Tue, 19 Aug 2025 16:07:17 GMT | Day 5:- Servers and Networks: The Foundation of Connectivity☁️ | Prutha_Dongre | [Read More](https://medium.com/p/b2c7977d67dd) |
-| Tue, 19 Aug 2025 16:06:35 GMT | The Anatomy of a Supply Chain Attack | Samina Perveen | [Read More](https://medium.com/p/91598364b994) |
