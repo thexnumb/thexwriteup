@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 23:05:35 GMT | Integrating Active Directory with Okta | James Rawlings | [Read More](https://medium.com/p/c4b9c3835b3f) |
+| Tue, 19 Aug 2025 22:51:44 GMT | Security First: Protecting Your Plugin and Users | Volodymyr Dovhan | [Read More](https://medium.com/p/117cda76a859) |
+| Tue, 19 Aug 2025 22:51:43 GMT | Basic Pentesting — Try hack me room (Easy to pass THM) | Mushfiq.XD | [Read More](https://medium.com/p/14381a40e73b) |
 | Tue, 19 Aug 2025 22:32:16 GMT | Red Hat and Blue Hat in Cybersecurity | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/21b6dd59ebab) |
 | Tue, 19 Aug 2025 22:25:20 GMT | Cyberpunk IRL — Video Series | James Reeves | [Read More](https://medium.com/p/dc18f36928b9) |
 | Tue, 19 Aug 2025 22:20:36 GMT | Online Hate is a Crime: Why My Harasser is Panicking and Why They’re Making My Case For Me | Alexander Paul Burton | [Read More](https://medium.com/p/782cee068b3e) |
+| Tue, 19 Aug 2025 22:19:43 GMT | Race Condition: a falha que pode comprometer seus sistemas | Rafael dos Santos | [Read More](https://medium.com/p/747627b4c824) |
 | Tue, 19 Aug 2025 22:15:02 GMT | Beyond Human Eyes: Why Tomorrow’s Information Wars Will Be Won on Verification, Not Speed | Prince Esien | [Read More](https://medium.com/p/34800e1a624b) |
 | Tue, 19 Aug 2025 22:12:25 GMT | AI-Powered Security: Revolusi Keamanan Siber di Era Digital | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/c639b3d3c76a) |
 | Tue, 19 Aug 2025 22:09:26 GMT | Try Hack Me — Light | Stilyana Petrova | [Read More](https://medium.com/p/3f47e80739bf) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 16:38:34 GMT | Do You Know What Happens Before Your Browser Shows HTTPS? | Nishanth R | [Read More](https://medium.com/p/01ac06568cd1) |
 | Tue, 19 Aug 2025 16:31:17 GMT | JSsear | Adham Heinrich | [Read More](https://medium.com/p/271c235284be) |
 | Tue, 19 Aug 2025 16:29:33 GMT | Cybersecurity in 2025: From Defense to Business Value | Om Kinkhabwala | [Read More](https://medium.com/p/5ae71f927471) |
-| Tue, 19 Aug 2025 16:21:54 GMT | Bug Bounty: Security Misconfigurations — The Mistakes That Make You Vulnerable ⚠️ | Rajkumar Kumawat | [Read More](https://medium.com/p/460b1be555e1) |
-| Tue, 19 Aug 2025 16:18:34 GMT | From WannaCry to AI: How CISOs Became Strategic Leaders | Doug Jaworski | [Read More](https://medium.com/p/397b5d1a4081) |
-| Tue, 19 Aug 2025 16:17:12 GMT | Backup Strategy in Hybrid Environments: Lessons from Real-World Experience | Salman Akram | [Read More](https://medium.com/p/79da6b76ad11) |
-| Tue, 19 Aug 2025 16:10:30 GMT | Stop Zero-Click Prompt Injection Today: 9 AI Security Tips | Tochukwu Okonkwor | [Read More](https://medium.com/p/34cc454fb6ce) |
