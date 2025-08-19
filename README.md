@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 16:21:54 GMT | Bug Bounty: Security Misconfigurations — The Mistakes That Make You Vulnerable ⚠️ | Rajkumar Kumawat | [Read More](https://medium.com/p/460b1be555e1) |
+| Tue, 19 Aug 2025 16:18:34 GMT | From WannaCry to AI: How CISOs Became Strategic Leaders | Doug Jaworski | [Read More](https://medium.com/p/397b5d1a4081) |
+| Tue, 19 Aug 2025 16:17:12 GMT | Backup Strategy in Hybrid Environments: Lessons from Real-World Experience | Salman Akram | [Read More](https://medium.com/p/79da6b76ad11) |
+| Tue, 19 Aug 2025 16:10:30 GMT | Stop Zero-Click Prompt Injection Today: 9 AI Security Tips | Tochukwu Okonkwor | [Read More](https://medium.com/p/34cc454fb6ce) |
+| Tue, 19 Aug 2025 16:07:46 GMT | How You Stop Prompt Injection Fast: 9 AI Security Tips 2025 | Tochukwu Okonkwor | [Read More](https://medium.com/p/8d777355de41) |
+| Tue, 19 Aug 2025 16:07:17 GMT | Day 5:- Servers and Networks: The Foundation of Connectivity☁️ | Prutha_Dongre | [Read More](https://medium.com/p/b2c7977d67dd) |
+| Tue, 19 Aug 2025 16:06:35 GMT | The Anatomy of a Supply Chain Attack | Samina Perveen | [Read More](https://medium.com/p/91598364b994) |
+| Tue, 19 Aug 2025 16:06:31 GMT | How Botnets Are Used in Large-Scale DDoS Attacks | Samina Perveen | [Read More](https://medium.com/p/e5279ea5a4a0) |
+| Tue, 19 Aug 2025 16:06:27 GMT | A Guide to Recognizing and Defending Against Social Engineering | Samina Perveen | [Read More](https://medium.com/p/8597ca31181f) |
+| Tue, 19 Aug 2025 16:06:23 GMT | A Guide to Trusted Execution Environment Full System Attestations | José Cabrero-Holgueras | [Read More](https://medium.com/p/8275a225c5e7) |
+| Tue, 19 Aug 2025 16:01:53 GMT | PTN CTF 2025 OSINT WRITEUPS | Nidan Poudel | [Read More](https://medium.com/p/0b619f0d1314) |
+| Tue, 19 Aug 2025 16:01:37 GMT | Inside the Alarming Rise of AI-Powered Cybercrime and How to Engineer the Next Generation of… | Techleadgurdeepgill | [Read More](https://medium.com/p/145fc218badc) |
+| Tue, 19 Aug 2025 16:00:57 GMT | The Quantum Threat: Preparing Cybersecurity for a Post-Quantum World | vydhi | [Read More](https://medium.com/p/67f229629456) |
+| Tue, 19 Aug 2025 15:59:50 GMT | Frames of Trust, Walls of Security | Quva India | [Read More](https://medium.com/p/1ded298f99b2) |
+| Tue, 19 Aug 2025 15:59:23 GMT | The Dangers of Deepfake Technology in Phishing Scams | Samina Perveen | [Read More](https://medium.com/p/e14a91505ebf) |
+| Tue, 19 Aug 2025 15:59:19 GMT | Understanding Zero-Day Vulnerabilities and Their Impact | Samina Perveen | [Read More](https://medium.com/p/79febd53e24d) |
+| Tue, 19 Aug 2025 15:59:15 GMT | The Evolution of Ransomware: From Lockers to Double Extortion | Samina Perveen | [Read More](https://medium.com/p/7a45a2a6b4f4) |
+| Tue, 19 Aug 2025 15:59:10 GMT | Spot Hidden Cameras Before They Spot You | Dalibor Zivkovic | [Read More](https://medium.com/p/6b8312eb9f89) |
+| Tue, 19 Aug 2025 15:58:28 GMT | How to Answer a Cybersecurity-Analyst Scenario Question: A Beginner’s Guide | Victor Kipkemboi | [Read More](https://medium.com/p/0e64fcfe8fd2) |
+| Tue, 19 Aug 2025 15:55:49 GMT | Advancing Network Security for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/f2976c3795f8) |
+| Tue, 19 Aug 2025 15:54:53 GMT | The Weight of Wanting to Be Found | Amna Javaid | [Read More](https://medium.com/p/d23c8f9cdb45) |
+| Tue, 19 Aug 2025 15:51:03 GMT | My First Hack Was on Myself and It Was Ugly | Shahzaib | [Read More](https://medium.com/p/241f87c8ff2b) |
+| Tue, 19 Aug 2025 15:49:53 GMT | Day 84: Phishing | Nile Okomo | [Read More](https://medium.com/p/8c6cb52ba6ab) |
+| Tue, 19 Aug 2025 15:47:50 GMT | BrutDroid – Android Hacking Made Simple | Nitin yadav | [Read More](https://medium.com/p/ae68bf38f630) |
+| Tue, 19 Aug 2025 15:40:52 GMT | 5G vs WiFi 7: Which Is Faster and Better for You? | Anonymous Writer | [Read More](https://medium.com/p/2ba3981780fa) |
 | Tue, 19 Aug 2025 15:32:30 GMT | Why We Must Move from Reactive Cybersecurity to Proactive, AI-Driven Defense | Gauri V | [Read More](https://medium.com/p/884d12f56039) |
 | Tue, 19 Aug 2025 15:32:12 GMT | How I Became a CEH Master at 21; The Beginning of My Offensive Security Path | OmarTamer | [Read More](https://medium.com/p/1fd7c7199b62) |
 | Tue, 19 Aug 2025 15:28:04 GMT | Mission AppPossible : The Unholy Trinity :- Dev, Sec & Ops -A Love Story | sumit sharma | [Read More](https://medium.com/p/79ea4c62e4ac) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 12:24:45 GMT | File Inclusion - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/1c1d03ca0b69) |
 | Tue, 19 Aug 2025 12:23:02 GMT | Dvě třetiny institucí EU selhávají v základních standardech kybernetické bezpečnosti! | Cyber Solution | [Read More](https://medium.com/p/6c39da6a6b10) |
 | Tue, 19 Aug 2025 12:21:42 GMT | How Does Vulnerability Assessment and Penetration Testing Improve Cybersecurity? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/77fcc6f78548) |
-| Tue, 19 Aug 2025 12:15:16 GMT | Telegram Accounts: The New Global Goldmine for Cybercriminals | Egyda-Ai | [Read More](https://medium.com/p/3e358686feee) |
-| Tue, 19 Aug 2025 12:11:02 GMT | How to avoid hidden state bugs in OOP | Bandi Revanth | [Read More](https://medium.com/p/3685418bcaf6) |
-| Tue, 19 Aug 2025 12:10:34 GMT | TLS-SSL Handshake | Bhasanthms | [Read More](https://medium.com/p/e8381a5168ba) |
-| Tue, 19 Aug 2025 12:08:14 GMT | The $7,640 DoS Bug That Could’ve Shaken Enterprise Trust in GitLab — Here’s How They Averted… | Justas_b | [Read More](https://medium.com/p/b472d481f838) |
-| Tue, 19 Aug 2025 12:07:08 GMT | A Deep Dive into AI-Powered Vulnerability Management | Keith Foster | [Read More](https://medium.com/p/3f0cad31247b) |
-| Tue, 19 Aug 2025 12:02:18 GMT | Proof of Concept: PostgreSQL CVE-2025–8714 | Toshith | [Read More](https://medium.com/p/ad5d88cf5a1d) |
-| Tue, 19 Aug 2025 11:58:54 GMT | This Should Be Part of Every Android OS: Blocking Ads and Trackers in Apps | G van Staden | [Read More](https://medium.com/p/9b26dae18f94) |
-| Tue, 19 Aug 2025 11:57:05 GMT | How To Get I.T. Certified in 2025 For Just $15 | IT Study Games | [Read More](https://medium.com/p/1ab1f4635b1d) |
-| Tue, 19 Aug 2025 11:48:15 GMT | Mobile App Updates: How to Fix Bugs and Improve Performance | Digixvalley LLc | [Read More](https://medium.com/p/7521e80f8c91) |
-| Tue, 19 Aug 2025 11:47:48 GMT | Pentester’s Quiz: 10 Realistic API & Web Scenarios You Must Solve | Narendar Battula (nArEn) | [Read More](https://medium.com/p/69e528b4e8c2) |
-| Tue, 19 Aug 2025 11:47:08 GMT | Pentester’s Quiz: 10 Realistic API & Web Scenarios You Must Solve | Narendar Battula (nArEn) | [Read More](https://medium.com/p/72d18285a6e9) |
-| Tue, 19 Aug 2025 11:41:23 GMT | Secrets in Plain Sight: How Steganography & Covert Channels Outsmart Defenders | NizzCorp Academy | [Read More](https://medium.com/p/1c761d6b969e) |
-| Tue, 19 Aug 2025 11:40:45 GMT | Greatest Spy in the world ? | Dhruv | [Read More](https://medium.com/p/050c31de9cd9) |
-| Tue, 19 Aug 2025 11:36:43 GMT | Security Solutions in Riyadh, Jeddah, and Dammam — KSA’s Trusted Security Experts | Tekshoyabeelyas | [Read More](https://medium.com/p/37cd6eacf5d6) |
-| Tue, 19 Aug 2025 11:33:01 GMT | Malware can be ran without uploading its scripts to disk — here’s how | Haitham Aljabbari | [Read More](https://medium.com/p/76f813da0008) |
-| Tue, 19 Aug 2025 11:31:55 GMT | Security Debt: The Hidden Cost That Keeps Growing | Evgeny Ermakov | [Read More](https://medium.com/p/144969246eee) |
-| Tue, 19 Aug 2025 11:23:35 GMT | Cognitive Biases in an Age of Rapid Technological Change — Especially AI | noailabs | [Read More](https://medium.com/p/7ab60682bfdf) |
-| Tue, 19 Aug 2025 11:23:05 GMT | Quranium Weekly REQAP - W/C 11/08/2025 | Bright Mmaduabuchi | [Read More](https://medium.com/p/32f9e426a9bc) |
-| Tue, 19 Aug 2025 11:22:08 GMT | How to Get Started with Bug Bounties | Muhammad Haider Tallal | [Read More](https://medium.com/p/018220d48335) |
-| Tue, 19 Aug 2025 11:21:57 GMT | Adversarial Examples: When Tiny Tweaks Trick AI | Brittney Ginther | [Read More](https://medium.com/p/e7196a877323) |
-| Tue, 19 Aug 2025 11:20:39 GMT | Become a Certified SOC Analyst with Cybernous: Your Gateway to a Cybersecurity Career | Cybernous Infosec consulting | [Read More](https://medium.com/p/65a07e640dc1) |
-| Tue, 19 Aug 2025 11:17:31 GMT | ️ Eradication & Remediation: The True Cleanup Phase of Incident Response | Furkanctiner | [Read More](https://medium.com/p/5c4d12fe1f50) |
-| Tue, 19 Aug 2025 11:10:41 GMT | ️ Threat Intel & Containment — TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/1f7cde6bb445) |
-| Tue, 19 Aug 2025 11:09:39 GMT | Cloudflare WAF Best Practices: Features, Challenges, and Alternatives | Maverick Steel | [Read More](https://medium.com/p/46d7da078f6e) |
-| Tue, 19 Aug 2025 11:07:08 GMT | Ponzi Schemes in Web3: An Old Scam in New Clothes. | Bright Mmaduabuchi | [Read More](https://medium.com/p/0522778346b2) |
