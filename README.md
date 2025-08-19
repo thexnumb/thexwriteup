@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 21:06:42 GMT | The Importance of Professional Security Guard Services for Businesses | Nimmi Xheikh | [Read More](https://medium.com/p/9be68ac0450f) |
+| Tue, 19 Aug 2025 20:52:32 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / MALICE CYBER RECOVERY WILL HELP YOU IN RECOVERY YOUR STOLEN… | Emil Petrov | [Read More](https://medium.com/p/a69eca8e723a) |
+| Tue, 19 Aug 2025 20:51:56 GMT | Cybersecurity — 10 Career Success Strategies & Top Certifications | Franklin Rhodes | [Read More](https://medium.com/p/d9ba512e88d2) |
+| Tue, 19 Aug 2025 20:44:15 GMT | Explicacion de Script de Wifi Hacking - PwnWifi | FN8 | [Read More](https://medium.com/p/6f539b9894d3) |
+| Tue, 19 Aug 2025 20:42:50 GMT | Building….Forensic | Vyasswati13 | [Read More](https://medium.com/p/a91d225d72ef) |
+| Tue, 19 Aug 2025 20:39:11 GMT | Top 25 Bug Bounty Platform | Emon shaikh | [Read More](https://medium.com/p/9f7fff04166b) |
 | Tue, 19 Aug 2025 20:31:57 GMT | Securing Web-Based LLMs: Understanding Prompt Injection and Beyond | Hevin Ateş | [Read More](https://medium.com/p/9b50d61b9610) |
 | Tue, 19 Aug 2025 20:27:08 GMT | ⚡ Playbook Design and Optimization Techniques in SOC Automation | Esra Kayhan | [Read More](https://medium.com/p/a2b3b1311862) |
 | Tue, 19 Aug 2025 20:24:52 GMT | Intro to SOC by MICROSOFT | Vyasswati13 | [Read More](https://medium.com/p/1731351344cd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 15:59:15 GMT | The Evolution of Ransomware: From Lockers to Double Extortion | Samina Perveen | [Read More](https://medium.com/p/7a45a2a6b4f4) |
 | Tue, 19 Aug 2025 15:59:10 GMT | Spot Hidden Cameras Before They Spot You | Dalibor Zivkovic | [Read More](https://medium.com/p/6b8312eb9f89) |
 | Tue, 19 Aug 2025 15:58:28 GMT | How to Answer a Cybersecurity-Analyst Scenario Question: A Beginner’s Guide | Victor Kipkemboi | [Read More](https://medium.com/p/0e64fcfe8fd2) |
-| Tue, 19 Aug 2025 15:55:49 GMT | Advancing Network Security for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/f2976c3795f8) |
-| Tue, 19 Aug 2025 15:54:53 GMT | The Weight of Wanting to Be Found | Amna Javaid | [Read More](https://medium.com/p/d23c8f9cdb45) |
-| Tue, 19 Aug 2025 15:51:03 GMT | My First Hack Was on Myself and It Was Ugly | Shahzaib | [Read More](https://medium.com/p/241f87c8ff2b) |
-| Tue, 19 Aug 2025 15:49:53 GMT | Day 84: Phishing | Nile Okomo | [Read More](https://medium.com/p/8c6cb52ba6ab) |
-| Tue, 19 Aug 2025 15:47:50 GMT | BrutDroid – Android Hacking Made Simple | Nitin yadav | [Read More](https://medium.com/p/ae68bf38f630) |
-| Tue, 19 Aug 2025 15:40:52 GMT | 5G vs WiFi 7: Which Is Faster and Better for You? | Anonymous Writer | [Read More](https://medium.com/p/2ba3981780fa) |
