@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 19:29:45 GMT | OWASP GenAI Security Project: Segurança por Design na Era da Inteligência Artificial | Wagner Iatalessi do Valle | [Read More](https://medium.com/p/8f605d0971bd) |
+| Tue, 19 Aug 2025 19:29:08 GMT | Top 7 Benefits of Professional Data Backup and Disaster Recovery Services | Techridge Solutions | [Read More](https://medium.com/p/376ac1a3d7eb) |
+| Tue, 19 Aug 2025 19:27:35 GMT | How to Secure Your HubSpot CRM Against the Latest Social Engineering Attacks | Sean - HubSpot Architect | [Read More](https://medium.com/p/c56c75aea775) |
+| Tue, 19 Aug 2025 19:26:33 GMT | TryHackMe Threat Intelligence Tools — Complete Writeup | Romeeza Naveed | [Read More](https://medium.com/p/cba375b75635) |
+| Tue, 19 Aug 2025 19:26:32 GMT | Visualizing Network Policies | Guido Larrad | [Read More](https://medium.com/p/770cab1f17f4) |
+| Tue, 19 Aug 2025 19:20:40 GMT | Cybersecurity and AI: Why They’re in High Demand in 2025 | Crypto Lover | [Read More](https://medium.com/p/62729590eb86) |
+| Tue, 19 Aug 2025 19:17:34 GMT | Quantum-Safe Cryptography for Financial Transactions | Florence Welch | [Read More](https://medium.com/p/c41c6aeaacb9) |
+| Tue, 19 Aug 2025 19:15:38 GMT | AI Harm OS: Stress-Testing the Safety of Computer use (Desktop, & applications) AI Agents | Valdez Ladd | [Read More](https://medium.com/p/6c2b9ab53d96) |
 | Tue, 19 Aug 2025 19:12:13 GMT | [Part 1] Cyber Resilience Act 101: What Every Executive Needs to Know | Cyberkech | [Read More](https://medium.com/p/05fa279f7c4e) |
 | Tue, 19 Aug 2025 19:07:03 GMT | PG Practice — Hepet (Windows) | Lepton | [Read More](https://medium.com/p/870a215892e6) |
 | Tue, 19 Aug 2025 19:03:41 GMT | Magnolia: My First CTF Puzzle — A Journey of Flowers, Poetry, and a Little Bit of RSA (A Personal… | Nattawadee Inala | [Read More](https://medium.com/p/bd8d40d4a48d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 14:58:56 GMT | ERMAC Android malware source code leak exposes banking trojan infrastructure | Welsh | [Read More](https://medium.com/p/6b9570171737) |
 | Tue, 19 Aug 2025 14:58:31 GMT | CyberTalents: Images3c writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/e35372dac271) |
 | Tue, 19 Aug 2025 14:55:23 GMT | The Silent Weight of Grace | Anya | [Read More](https://medium.com/p/96c4e12077a7) |
-| Tue, 19 Aug 2025 14:50:34 GMT | OpenSSL to Create a Self-Signed Certificate and Configure It in Apache | Yasaswini Gaddam | [Read More](https://medium.com/p/34d0ae89b55c) |
-| Tue, 19 Aug 2025 14:43:58 GMT | Why Building a Strong Security Culture is Key to Reducing Cyber Risks | Tarush Sharma | [Read More](https://medium.com/p/f27871f0e7f2) |
-| Tue, 19 Aug 2025 14:41:55 GMT | Cyber Security Solutions for Cloud Infrastructure in 2025: Defend Against Evolving Threats with… | Paul Meyer | [Read More](https://medium.com/p/e5d97fd71811) |
-| Tue, 19 Aug 2025 14:39:25 GMT | Fake Zoom Links Put Users at Jeopardy — | Cyber Valkyries | [Read More](https://medium.com/p/ce771e3e89e1) |
-| Tue, 19 Aug 2025 14:38:45 GMT | Fastest Way to Buy Bitcoin with a Mobile App in India- CryptoXpress | Devbradon | [Read More](https://medium.com/p/8c7ed2ed1688) |
-| Tue, 19 Aug 2025 14:38:40 GMT | Informational Sustainability: A Fundamental Principle for the Age of Electronic Intelligence | Pab Man Alvarez | [Read More](https://medium.com/p/06b808a7331d) |
-| Tue, 19 Aug 2025 14:37:45 GMT | Web cache poisoning | Usama Hanif | [Read More](https://medium.com/p/e8827f9509dc) |
-| Tue, 19 Aug 2025 14:35:55 GMT | The Day LinkedIn Told Me I Was From Hong Kong | Raima | [Read More](https://medium.com/p/cdca926388d9) |
