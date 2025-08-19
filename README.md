@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 22:15:02 GMT | Beyond Human Eyes: Why Tomorrow’s Information Wars Will Be Won on Verification, Not Speed | Prince Esien | [Read More](https://medium.com/p/34800e1a624b) |
+| Tue, 19 Aug 2025 22:12:25 GMT | AI-Powered Security: Revolusi Keamanan Siber di Era Digital | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/c639b3d3c76a) |
+| Tue, 19 Aug 2025 22:09:26 GMT | Try Hack Me — Light | Stilyana Petrova | [Read More](https://medium.com/p/3f47e80739bf) |
+| Tue, 19 Aug 2025 21:51:30 GMT | Try Hack Me — Vulnversity | Stilyana Petrova | [Read More](https://medium.com/p/7ac2f0529a02) |
+| Tue, 19 Aug 2025 21:49:26 GMT | Kubernetes for Everyone - TryHackMe Walkthrough | Hydsec | [Read More](https://medium.com/p/d18862f3ff2a) |
+| Tue, 19 Aug 2025 21:45:36 GMT | Digital Signatures: How to Prove You Really Sent That Email | Abhishek Bhujang | [Read More](https://medium.com/p/0de6041a396b) |
+| Tue, 19 Aug 2025 21:39:27 GMT | The Scariest Thing About AI? It’s What It Doesn’t Tell You. | Cyber-AppSec | [Read More](https://medium.com/p/6872ea60fa84) |
 | Tue, 19 Aug 2025 21:31:42 GMT | The IoT Device That Became a Spy: Home Assistant Data Exfiltration | Shahzaib | [Read More](https://medium.com/p/eda374ef2d5c) |
 | Tue, 19 Aug 2025 21:31:29 GMT | Easiest Admin Panel Takeover !! | TSxNINJA | [Read More](https://medium.com/p/d9e2c5ef321e) |
 | Tue, 19 Aug 2025 21:29:18 GMT | HTB — Dog | Stilyana Petrova | [Read More](https://medium.com/p/6bb0b2da300e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 16:07:46 GMT | How You Stop Prompt Injection Fast: 9 AI Security Tips 2025 | Tochukwu Okonkwor | [Read More](https://medium.com/p/8d777355de41) |
 | Tue, 19 Aug 2025 16:07:17 GMT | Day 5:- Servers and Networks: The Foundation of Connectivity☁️ | Prutha_Dongre | [Read More](https://medium.com/p/b2c7977d67dd) |
 | Tue, 19 Aug 2025 16:06:35 GMT | The Anatomy of a Supply Chain Attack | Samina Perveen | [Read More](https://medium.com/p/91598364b994) |
-| Tue, 19 Aug 2025 16:06:31 GMT | How Botnets Are Used in Large-Scale DDoS Attacks | Samina Perveen | [Read More](https://medium.com/p/e5279ea5a4a0) |
-| Tue, 19 Aug 2025 16:06:27 GMT | A Guide to Recognizing and Defending Against Social Engineering | Samina Perveen | [Read More](https://medium.com/p/8597ca31181f) |
-| Tue, 19 Aug 2025 16:06:23 GMT | A Guide to Trusted Execution Environment Full System Attestations | José Cabrero-Holgueras | [Read More](https://medium.com/p/8275a225c5e7) |
-| Tue, 19 Aug 2025 16:01:53 GMT | PTN CTF 2025 OSINT WRITEUPS | Nidan Poudel | [Read More](https://medium.com/p/0b619f0d1314) |
-| Tue, 19 Aug 2025 16:01:37 GMT | Inside the Alarming Rise of AI-Powered Cybercrime and How to Engineer the Next Generation of… | Techleadgurdeepgill | [Read More](https://medium.com/p/145fc218badc) |
-| Tue, 19 Aug 2025 16:00:57 GMT | The Quantum Threat: Preparing Cybersecurity for a Post-Quantum World | vydhi | [Read More](https://medium.com/p/67f229629456) |
-| Tue, 19 Aug 2025 15:59:50 GMT | Frames of Trust, Walls of Security | Quva India | [Read More](https://medium.com/p/1ded298f99b2) |
