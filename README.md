@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 09:20:15 GMT | How M365 & Microsoft Certified Partner Can Transform Employee Productivity | IFI Techsolutions | [Read More](https://medium.com/p/50ae3e603519) |
+| Tue, 19 Aug 2025 09:16:31 GMT | CCTV for Corporate Offices in Hyderabad — Secure Your Workplace | Smart Secures | [Read More](https://medium.com/p/1191773a14a8) |
+| Tue, 19 Aug 2025 09:12:00 GMT | Reconocimiento web sin herramientas comunes: un método manual para bug bounty hunters | Gorka | [Read More](https://medium.com/p/1dbfbc2f3b5a) |
+| Tue, 19 Aug 2025 09:11:08 GMT | Membongkar Gambar Tersembunyi dari CTF Noise | Bonar | [Read More](https://medium.com/p/e18819459a8c) |
+| Tue, 19 Aug 2025 09:02:12 GMT | Prevent SQL Injection in React.js: A 2025 Guide | Pentest_Testing_Corp | [Read More](https://medium.com/p/3a66a18e0f9b) |
+| Tue, 19 Aug 2025 09:01:58 GMT | Passing OSEP in 4 Hrs!? (PEN-300 OSEP Review) | n000b3r | [Read More](https://medium.com/p/deeec11c0515) |
+| Tue, 19 Aug 2025 09:01:55 GMT | Learn Cybersecurity and AI & ML | Balan M | [Read More](https://medium.com/p/3eef228816d0) |
+| Tue, 19 Aug 2025 09:01:37 GMT | Worried About Home Security? Crimsafe Screens Offer Peace of Mind | Brisbane Security Screens | [Read More](https://medium.com/p/ced3299d5229) |
+| Tue, 19 Aug 2025 09:00:48 GMT | Securing Sensitive Data in Spring Boot with application.properties and Launch Files | Anh Trần Tuấn | [Read More](https://medium.com/p/e80d011c4c82) |
+| Tue, 19 Aug 2025 09:00:44 GMT | Securing Sensitive Data in Spring Boot with application.properties and Launch Files | Anh Trần Tuấn | [Read More](https://medium.com/p/ad401f23c773) |
+| Tue, 19 Aug 2025 08:58:22 GMT | Forensics - picoGym - Wireshark twoo twooo two twoo… | Flower Bed | [Read More](https://medium.com/p/b69a5552cfa4) |
+| Tue, 19 Aug 2025 08:58:16 GMT | Rearrange | maydayhobby | [Read More](https://medium.com/p/c08f9e6ce906) |
+| Tue, 19 Aug 2025 08:57:59 GMT | Self-Hosted AI in DevSecOps: The Next Evolution of AppSec | Taulan Zauzanov | [Read More](https://medium.com/p/4903965055ff) |
+| Tue, 19 Aug 2025 08:52:44 GMT | Trust No One: The Basics of Zero Trust Security | Magdaline Arianda | [Read More](https://medium.com/p/8bd3d7d4c8d9) |
+| Tue, 19 Aug 2025 08:37:18 GMT | Palo Alto GlobalProtect VPN Monitorinqi: Python + Telegram ilə real-time xəbərdarlıqlar | Ismayil Aghayev | [Read More](https://medium.com/p/d4346706ce4f) |
 | Tue, 19 Aug 2025 08:14:08 GMT | Beyond Best-Effort: Enterprise Resilience for Tbps+ DDoS | Aziz Sasmaz | [Read More](https://medium.com/p/bdb320f06da1) |
 | Tue, 19 Aug 2025 08:11:30 GMT | Security Awareness: The Missing Piece in Education and Workplaces | Taulan Zauzanov | [Read More](https://medium.com/p/9fe00b804e06) |
 | Tue, 19 Aug 2025 08:11:16 GMT | Mobile Threats 2025 - Hire Hacker | BlackHat | [Read More](https://medium.com/p/be4d7259e3c4) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 03:19:52 GMT | Smartbi RCE Vulnerability — Patch Now Before Attackers Do | Quella | [Read More](https://medium.com/p/37f8d6a2a9f5) |
 | Tue, 19 Aug 2025 03:12:47 GMT | Layered Privacy Notices | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/5dfbf9115573) |
 | Tue, 19 Aug 2025 03:10:08 GMT | Server-Side Template Injection in a Sandboxed Environment: Escaping Freemarker Template… | Bash Overflow | [Read More](https://medium.com/p/b704536b5181) |
-| Tue, 19 Aug 2025 02:52:38 GMT | TryHackMe — SQL Injection Lab | Cyber Anom | [Read More](https://medium.com/p/3deb780f46f5) |
-| Tue, 19 Aug 2025 02:46:39 GMT | SMT Program 2025 CTF Journey: From File Inclusion to SQL Injection | Hildan Kusto Utomo | [Read More](https://medium.com/p/96e891d3b1d2) |
-| Tue, 19 Aug 2025 02:43:01 GMT | The Advantages of Quantum Computing | Dukerearing | [Read More](https://medium.com/p/e3128b37f4a3) |
-| Tue, 19 Aug 2025 02:32:13 GMT | AI-Powered Smart Security: How Kompas.ai is Reshaping Urban Safety | Zhangshuang | [Read More](https://medium.com/p/2c755623073f) |
-| Tue, 19 Aug 2025 02:32:01 GMT | Cybersecurity Laws in 2025: What You Need to Know | Parth Patel | [Read More](https://medium.com/p/64dbb408348c) |
-| Tue, 19 Aug 2025 02:30:04 GMT | When Did Every Tech Solution Become ‘AI-Powered’? | Matt Youman | [Read More](https://medium.com/p/0c5c108872ea) |
-| Tue, 19 Aug 2025 02:27:09 GMT | When the Interview Fails but the Security Does Too | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/d871ccc47da8) |
-| Tue, 19 Aug 2025 01:58:55 GMT | AEM as a Cloud Service : Security Vulnerabilities and Defense Strategies | Sid Lnu | [Read More](https://medium.com/p/fc92065cd5bb) |
-| Tue, 19 Aug 2025 01:44:25 GMT | Turkey Enacts Sweeping Cybersecurity Law With Harsh Penalties | SafetyDetectives Research Team | [Read More](https://medium.com/p/0e3be357d2b0) |
-| Tue, 19 Aug 2025 01:07:56 GMT | Unlocking the True Power of JavaScript Closures in 2025 | Babar saad | [Read More](https://medium.com/p/7de897a57b10) |
-| Tue, 19 Aug 2025 01:04:36 GMT | SecurityX (CASP+) Journey | Casey F. Bond | [Read More](https://medium.com/p/b389771d2e48) |
-| Tue, 19 Aug 2025 00:58:00 GMT | How I Found an IDOR in private Bug hunting program(After a Day of Nothing) | Rishabh kumar | [Read More](https://medium.com/p/5987a72357a6) |
-| Tue, 19 Aug 2025 00:54:37 GMT | Corporate Governance and Cybersecurity: Pillars of Ethical and Efficient Business Transformation | Lester Davila Escobedo | [Read More](https://medium.com/p/466567b868a0) |
-| Tue, 19 Aug 2025 00:53:38 GMT | CyberTalents : Can you find me writeup - by DeveloperHacker | DeveloperHacker | [Read More](https://medium.com/p/8b535f6cd19d) |
-| Tue, 19 Aug 2025 00:45:39 GMT | Understanding Blockchain: What It Is, How It Works, and Why It Matters | Mark Cartawick | [Read More](https://medium.com/p/8835427361e3) |
