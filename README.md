@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 19:12:13 GMT | [Part 1] Cyber Resilience Act 101: What Every Executive Needs to Know | Cyberkech | [Read More](https://medium.com/p/05fa279f7c4e) |
+| Tue, 19 Aug 2025 19:07:03 GMT | PG Practice — Hepet (Windows) | Lepton | [Read More](https://medium.com/p/870a215892e6) |
+| Tue, 19 Aug 2025 19:03:41 GMT | Magnolia: My First CTF Puzzle — A Journey of Flowers, Poetry, and a Little Bit of RSA (A Personal… | Nattawadee Inala | [Read More](https://medium.com/p/bd8d40d4a48d) |
+| Tue, 19 Aug 2025 19:03:35 GMT | The Workday Breach, Explained (Simply + Technically) | Akshat Patel | [Read More](https://medium.com/p/ca72581e57dd) |
+| Tue, 19 Aug 2025 19:00:33 GMT | The Falling and the Rising | Isha | [Read More](https://medium.com/p/9a14f7594a44) |
+| Tue, 19 Aug 2025 18:59:15 GMT | The Architecture of Emergence: A Deep Dive into LegoNE and Its Connection to Our Work on Hypergames… | Berend Watchus | [Read More](https://medium.com/p/1343fc2a1efc) |
+| Tue, 19 Aug 2025 18:50:32 GMT | Patch Management: The Digital Hygiene Your Business Can’t Skip | Akshay Chauhan | [Read More](https://medium.com/p/b35165cd1019) |
+| Tue, 19 Aug 2025 18:47:33 GMT | How to Get Cyber Essentials Plus Certification: Real Costs Guide 2025 | Paul Reynolds | [Read More](https://medium.com/p/e71f78d1de4c) |
+| Tue, 19 Aug 2025 18:45:37 GMT | How to Import Users into Okta Using a CSV File | James Rawlings | [Read More](https://medium.com/p/165fa0752f44) |
 | Tue, 19 Aug 2025 18:39:49 GMT | Cybersecurity — Discover the Top 3 Career & Earnings Growth Strategies | Franklin Rhodes | [Read More](https://medium.com/p/57835a469aeb) |
 | Tue, 19 Aug 2025 18:37:52 GMT | Beyond ‘Secure’: New Framework Measures and Defends Against Federated Learning Attacks | Berend Watchus | [Read More](https://medium.com/p/319f37825dc9) |
 | Tue, 19 Aug 2025 18:35:35 GMT | AWS Security Lab: Implementing Account Governance | Michael Nichols | [Read More](https://medium.com/p/f9a48fe328f2) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 14:38:40 GMT | Informational Sustainability: A Fundamental Principle for the Age of Electronic Intelligence | Pab Man Alvarez | [Read More](https://medium.com/p/06b808a7331d) |
 | Tue, 19 Aug 2025 14:37:45 GMT | Web cache poisoning | Usama Hanif | [Read More](https://medium.com/p/e8827f9509dc) |
 | Tue, 19 Aug 2025 14:35:55 GMT | The Day LinkedIn Told Me I Was From Hong Kong | Raima | [Read More](https://medium.com/p/cdca926388d9) |
-| Tue, 19 Aug 2025 14:31:51 GMT | Why Strong Passwords Matter & How to Generate Them Instantly | SantPro Tools | [Read More](https://medium.com/p/043988093bc7) |
-| Tue, 19 Aug 2025 14:27:15 GMT | Why Endpoint Protection is Critical for Small and Mid-Sized Businesses? | IT_Engineer | [Read More](https://medium.com/p/215d19f54a5a) |
-| Tue, 19 Aug 2025 14:23:27 GMT | What It Takes to Build Zero Trust Architecture in MedTech | Manish Kumar | [Read More](https://medium.com/p/4af566f05888) |
-| Tue, 19 Aug 2025 14:18:57 GMT | Pentester Nepal x NCA CTF 2025 #ePaisa | Solomon Hexa | [Read More](https://medium.com/p/9990e16f365f) |
-| Tue, 19 Aug 2025 14:16:07 GMT | Gold Tin Alloy Solder Market: Unlocking Innovations and Driving Future Growth | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/b6142869dddf) |
-| Tue, 19 Aug 2025 14:15:25 GMT | Cyber Threat Intelligence (CTI) — Everything you need to know Imagine being a junior analyst who… | Genrunic | [Read More](https://medium.com/p/4dc4857d5346) |
-| Tue, 19 Aug 2025 14:10:42 GMT | How I Built My Cloud Security Learning Path in Azure (Beginner-Friendly) — Part 2 | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/d01b61dd6654) |
-| Tue, 19 Aug 2025 14:10:18 GMT | Basic Kali Linux Commands for Beginners | Xenial | [Read More](https://medium.com/p/f3304d0e46bf) |
-| Tue, 19 Aug 2025 14:05:09 GMT | Why Cybersecurity Matters in 2025 (Trends & Future Outlook) | orioninsist | [Read More](https://medium.com/p/8f2b98dcf452) |
