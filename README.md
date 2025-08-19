@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 06:27:38 GMT | Secure AI Agent Execution: Sandboxes, Guardrails, and the Future of Trustless Code | Dave Patten | [Read More](https://medium.com/p/e4975500a4b8) |
+| Tue, 19 Aug 2025 06:24:15 GMT | Cybersecurity Questions to Ask Your QA Provider | Anna | [Read More](https://medium.com/p/7e5e7970560c) |
+| Tue, 19 Aug 2025 06:20:54 GMT | Top Cyber Security Tips Everyone Should Know | Sanajahfer | [Read More](https://medium.com/p/529fa21bf671) |
+| Tue, 19 Aug 2025 06:17:27 GMT | ⚠️ I Asked ChatGPT About AI Dangers — The Results Were Shocking and Alarming for Humanity | Dhaval Jasoliya | [Read More](https://medium.com/p/e2e886796252) |
+| Tue, 19 Aug 2025 06:16:54 GMT | The Role of Security in Website Development | Wings Design Studio | [Read More](https://medium.com/p/584c1b3b87f0) |
+| Tue, 19 Aug 2025 06:11:54 GMT | Using LLMs to Detect AWS Serverless Misconfigurations | Mostafa Asaad | [Read More](https://medium.com/p/6c6d9759fe91) |
+| Tue, 19 Aug 2025 06:07:01 GMT | Quick Recon Win: Chaining Subfinder + Httpx-toolkit + Nuclei for Fast Results | Dardan Hasani | [Read More](https://medium.com/p/461bb34f56c9) |
+| Tue, 19 Aug 2025 06:05:02 GMT | When the Price Goes Wrong: $9K Bounty from 2 Price Manipulation Bugs. | Ak | [Read More](https://medium.com/p/f557383afc01) |
+| Tue, 19 Aug 2025 06:03:21 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5f98b4df91a3) |
+| Tue, 19 Aug 2025 06:03:03 GMT | Unmasking DPRK IT Workers: Email Address Patterns as Hiring Red Flags | Rakesh Krishnan | [Read More](https://medium.com/p/de5cbd6033a6) |
+| Tue, 19 Aug 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Aug 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9acbdeb4a0ac) |
+| Tue, 19 Aug 2025 05:58:02 GMT | Poisoned Pixels: When Open-Source Trust Turns Toxic | Aj | [Read More](https://medium.com/p/cbc72ee696d1) |
+| Tue, 19 Aug 2025 05:54:54 GMT | Zero Trust Security: Why It’s No Longer Optional | Abida Adra | [Read More](https://medium.com/p/413cbcbef6ab) |
+| Tue, 19 Aug 2025 05:50:24 GMT | Why Drosera’s Trap-Based Security Model is the Future of Web3 Defense | Big Shakes | [Read More](https://medium.com/p/0bccc06aac46) |
 | Tue, 19 Aug 2025 05:36:37 GMT | Why Every Organization Needs Enterprise Content Management Solutions in 2025 | Quadrant IT Services | [Read More](https://medium.com/p/56fa0480f6cd) |
 | Tue, 19 Aug 2025 05:36:29 GMT | Alexander the Great and the lesson of leadership in cybersecurity | Martin Abramov | [Read More](https://medium.com/p/2c806d583929) |
 | Tue, 19 Aug 2025 05:35:17 GMT | “Behind the Screen: The Dark Side of Digital Working” | Muntha sittara | [Read More](https://medium.com/p/69f96c9d3225) |
@@ -98,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 20:57:09 GMT | Cyber Resilience Act Executive Guide (10-Part Series) | Cyberkech | [Read More](https://medium.com/p/2792182197b1) |
 | Mon, 18 Aug 2025 20:54:11 GMT | Hiding Payload in PNGs | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8c3effeed964) |
 | Mon, 18 Aug 2025 20:53:30 GMT | Must-Have OSINT Tools for CTF and Investigative Missions | zerOiQ | [Read More](https://medium.com/p/4ad79b815f5b) |
-| Mon, 18 Aug 2025 20:51:28 GMT | Solar Rooftops an Overlooked Issue in National Security? | ShadowPacketRHR | [Read More](https://medium.com/p/66442ff9c08f) |
-| Mon, 18 Aug 2025 20:46:46 GMT | MITRE ATT&CK SIEM Detections: Real Time Detections, Delayed Detections and Splunk | Ertugrul Akbas | [Read More](https://medium.com/p/67d60407cb44) |
-| Mon, 18 Aug 2025 20:44:13 GMT | Hash Fonksiyonları: Bilgi Güvenliğinin Görünmez Kahramanları | Enis Buğra Akada | [Read More](https://medium.com/p/3c6d9eea1434) |
-| Mon, 18 Aug 2025 20:40:40 GMT | Beyond PCI and HIPAA: How Feroot Powers UK Data Protection Act (UK DPA) Compliance | Feroot Security | [Read More](https://medium.com/p/2bd4ad6057d0) |
-| Mon, 18 Aug 2025 20:36:52 GMT | STRENGTHENING SECURITY AND COMMUNITY CONFIDENCE: THE IBAS STRATEGY FOR A SAFER RIVERS STATE
-By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
-| Mon, 18 Aug 2025 20:27:09 GMT | On CyberPunk Metaphysics | Julian Soloninka | [Read More](https://medium.com/p/e2c0b48a8d12) |
-| Mon, 18 Aug 2025 20:15:33 GMT | Bulut Güvenliğin 5 Temel Prensibi | Bedirhan Yigit | [Read More](https://medium.com/p/eecb97c8be05) |
-| Mon, 18 Aug 2025 20:09:20 GMT | From Technical Support Engineer to IT Technician to DevOps Engineer: My Upskilling Journey. | Georgi Tinchev | [Read More](https://medium.com/p/fa1899b0dd73) |
-| Mon, 18 Aug 2025 20:08:35 GMT | The Hacker Mindset: Humanity’s Best Defense | Dane Sherrets | [Read More](https://medium.com/p/a25d3e8b580e) |
-| Mon, 18 Aug 2025 20:06:59 GMT | Different Ways Of Footprinting : | Intelithics | [Read More](https://medium.com/p/26fb80bb92f9) |
-| Mon, 18 Aug 2025 20:06:06 GMT | HackTheBox — Windows Event Logs and Finding Evil, Skills Assessment | Javier | [Read More](https://medium.com/p/f289d9620f4b) |
-| Mon, 18 Aug 2025 20:04:24 GMT | Double-Edged Sword: Securing AI in Enterprises with the Mammoth Enterprise AI Browser | Mammoth Cyber | [Read More](https://medium.com/p/87202cd90c67) |
-| Mon, 18 Aug 2025 20:02:52 GMT | How to Secure Your Prometheus with Basic Authentication (Without Using a Reverse Proxy) | Ankit Saxena | [Read More](https://medium.com/p/3c2dc7b0bbfe) |
-| Mon, 18 Aug 2025 19:54:39 GMT | Mastering Nmap (Part 1) in 2025: Host Discovery & Recon for Bug Bounty Hunters | appsecvenue | [Read More](https://medium.com/p/1af4a3e451a1) |
