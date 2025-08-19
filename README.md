@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 16:43:28 GMT | How I Use AI to Learn Cybersecurity 10x Faster (And How You Can Too) | Paritosh | [Read More](https://medium.com/p/bdac0a7a79e7) |
+| Tue, 19 Aug 2025 16:38:34 GMT | Do You Know What Happens Before Your Browser Shows HTTPS? | Nishanth R | [Read More](https://medium.com/p/01ac06568cd1) |
+| Tue, 19 Aug 2025 16:31:17 GMT | JSsear | Adham Heinrich | [Read More](https://medium.com/p/271c235284be) |
+| Tue, 19 Aug 2025 16:29:33 GMT | Cybersecurity in 2025: From Defense to Business Value | Om Kinkhabwala | [Read More](https://medium.com/p/5ae71f927471) |
 | Tue, 19 Aug 2025 16:21:54 GMT | Bug Bounty: Security Misconfigurations — The Mistakes That Make You Vulnerable ⚠️ | Rajkumar Kumawat | [Read More](https://medium.com/p/460b1be555e1) |
 | Tue, 19 Aug 2025 16:18:34 GMT | From WannaCry to AI: How CISOs Became Strategic Leaders | Doug Jaworski | [Read More](https://medium.com/p/397b5d1a4081) |
 | Tue, 19 Aug 2025 16:17:12 GMT | Backup Strategy in Hybrid Environments: Lessons from Real-World Experience | Salman Akram | [Read More](https://medium.com/p/79da6b76ad11) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 12:31:58 GMT | Testing out some shell scripting about creating logs with random messages, filter logs for… | Tyrik Emptage | [Read More](https://medium.com/p/d22c46f877fc) |
 | Tue, 19 Aug 2025 12:28:04 GMT | Transform Business with NetSuite Implementation Services | Daman Verma | [Read More](https://medium.com/p/461a0dc41397) |
 | Tue, 19 Aug 2025 12:27:07 GMT | What Is a Phishing Link? How to Spot and Avoid Online Scams | Timónofearth | [Read More](https://medium.com/p/0fe5ae896d9b) |
-| Tue, 19 Aug 2025 12:24:50 GMT | File Inclusion - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/05ca6085c298) |
-| Tue, 19 Aug 2025 12:24:45 GMT | File Inclusion - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/1c1d03ca0b69) |
-| Tue, 19 Aug 2025 12:23:02 GMT | Dvě třetiny institucí EU selhávají v základních standardech kybernetické bezpečnosti! | Cyber Solution | [Read More](https://medium.com/p/6c39da6a6b10) |
-| Tue, 19 Aug 2025 12:21:42 GMT | How Does Vulnerability Assessment and Penetration Testing Improve Cybersecurity? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/77fcc6f78548) |
