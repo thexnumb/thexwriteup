@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 15:18:08 GMT | Digital Parenting 2025: बच्चों की Online Safety की अब No Tension! | Parental Monitoring | [Read More](https://medium.com/p/16ae01b8e396) |
+| Tue, 19 Aug 2025 15:15:18 GMT | When Every Keystroke Could Be Watched… | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/f45f9b88cf5f) |
+| Tue, 19 Aug 2025 15:11:59 GMT | The Perils of Technological Fix | Eva Varona | [Read More](https://medium.com/p/b745a6260404) |
+| Tue, 19 Aug 2025 15:09:37 GMT | How Hackers Bypass 2FA (And How to Stop Them) | Sneha Rani | [Read More](https://medium.com/p/037336af0de5) |
+| Tue, 19 Aug 2025 15:09:19 GMT | Cybersecurity Awareness: Data Security Investigations-Your Digital Detective Toolkit | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/e67a7afcede5) |
+| Tue, 19 Aug 2025 15:07:04 GMT | UK sentences “serial hacker” of 3,000 sites to 20 months in prison | Welsh | [Read More](https://medium.com/p/3cd078e76ead) |
+| Tue, 19 Aug 2025 15:06:01 GMT | What if the opposite of vulnerability is self-deception? | David John McCann | [Read More](https://medium.com/p/9ed895a455af) |
+| Tue, 19 Aug 2025 14:58:56 GMT | ERMAC Android malware source code leak exposes banking trojan infrastructure | Welsh | [Read More](https://medium.com/p/6b9570171737) |
+| Tue, 19 Aug 2025 14:58:31 GMT | CyberTalents: Images3c writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/e35372dac271) |
+| Tue, 19 Aug 2025 14:55:23 GMT | The Silent Weight of Grace | Anya | [Read More](https://medium.com/p/96c4e12077a7) |
+| Tue, 19 Aug 2025 14:50:34 GMT | OpenSSL to Create a Self-Signed Certificate and Configure It in Apache | Yasaswini Gaddam | [Read More](https://medium.com/p/34d0ae89b55c) |
+| Tue, 19 Aug 2025 14:43:58 GMT | Why Building a Strong Security Culture is Key to Reducing Cyber Risks | Tarush Sharma | [Read More](https://medium.com/p/f27871f0e7f2) |
+| Tue, 19 Aug 2025 14:41:55 GMT | Cyber Security Solutions for Cloud Infrastructure in 2025: Defend Against Evolving Threats with… | Paul Meyer | [Read More](https://medium.com/p/e5d97fd71811) |
 | Tue, 19 Aug 2025 14:39:25 GMT | Fake Zoom Links Put Users at Jeopardy — | Cyber Valkyries | [Read More](https://medium.com/p/ce771e3e89e1) |
 | Tue, 19 Aug 2025 14:38:45 GMT | Fastest Way to Buy Bitcoin with a Mobile App in India- CryptoXpress | Devbradon | [Read More](https://medium.com/p/8c7ed2ed1688) |
 | Tue, 19 Aug 2025 14:38:40 GMT | Informational Sustainability: A Fundamental Principle for the Age of Electronic Intelligence | Pab Man Alvarez | [Read More](https://medium.com/p/06b808a7331d) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 10:42:51 GMT | Understanding MDR In Cyber Security | Ai Writter Tools | [Read More](https://medium.com/p/58d43d01d885) |
 | Tue, 19 Aug 2025 10:38:21 GMT | Top 10 Information Technology Companies in India: Comprehensive Guide 2025–2026 | Intileo Technologies | [Read More](https://medium.com/p/af7e00854971) |
 | Tue, 19 Aug 2025 10:37:07 GMT | Dari Teori ke Praktik: SSRF, File Inclusion, dan Command Injection | veliadevs | [Read More](https://medium.com/p/19bbdab30d9d) |
-| Tue, 19 Aug 2025 10:35:00 GMT | HTB Administrator Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/f8273a004044) |
-| Tue, 19 Aug 2025 10:34:52 GMT | How to Bulletproof your Online Business with Just 3 Cybersecurity Tools | Dr1nCtrl | [Read More](https://medium.com/p/e92dd27b7d93) |
-| Tue, 19 Aug 2025 10:34:25 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/174c4ea98577) |
-| Tue, 19 Aug 2025 10:30:21 GMT | Penetration Testing for SMEs: Affordable Cybersecurity Without Compromise | SmartCLOUD Australia | [Read More](https://medium.com/p/fd3ef1a16d62) |
-| Tue, 19 Aug 2025 10:26:57 GMT | Prevention and Response Strategies for Ransomware Attacks | Prashant kamkar | [Read More](https://medium.com/p/f607725e92f5) |
-| Tue, 19 Aug 2025 10:25:56 GMT | Emniyet Kemeri Uyarı Sistemi Ve Etkileri | Fatih Kaylesiz | [Read More](https://medium.com/p/ae1f146aab0a) |
-| Tue, 19 Aug 2025 10:25:16 GMT | DockerLabs Writeup — Swiss (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b8979998fd64) |
-| Tue, 19 Aug 2025 10:19:04 GMT | API Security Risks: 15 Steps to Protect Your Digital Assets | Core Devs Ltd | [Read More](https://medium.com/p/5ac78a1abfa3) |
-| Tue, 19 Aug 2025 10:12:17 GMT | Verinin Değil, Sessizliğin Gücü: Ne Paylaşmadığımız Bizi Tanımlar mı? | AYŞE KIZILAY | [Read More](https://medium.com/p/76c76d7b5506) |
-| Tue, 19 Aug 2025 10:06:50 GMT | The Digital Immune System: How AI hunts Cyber Threats While You Sleep | Saurabh Sharma | [Read More](https://medium.com/p/663442155217) |
-| Tue, 19 Aug 2025 10:03:31 GMT | Chapter 4 , Episode 2: When I Tried to Open Up and Got Hurt Again | Tredeblez | [Read More](https://medium.com/p/16f8f98a6d07) |
-| Tue, 19 Aug 2025 09:43:13 GMT | What I Learned at DEFCON: AI Malware, Quantum Threats & a Crash Course in Human Psychology | Alex Hughes | [Read More](https://medium.com/p/b5bcac706a95) |
-| Tue, 19 Aug 2025 09:38:31 GMT | Challenges: ColddBox: Easy (TryHackMe) | Jebitok | [Read More](https://medium.com/p/e7dbfc56fab2) |
