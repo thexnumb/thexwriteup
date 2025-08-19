@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 15:32:30 GMT | Why We Must Move from Reactive Cybersecurity to Proactive, AI-Driven Defense | Gauri V | [Read More](https://medium.com/p/884d12f56039) |
+| Tue, 19 Aug 2025 15:32:12 GMT | How I Became a CEH Master at 21; The Beginning of My Offensive Security Path | OmarTamer | [Read More](https://medium.com/p/1fd7c7199b62) |
+| Tue, 19 Aug 2025 15:28:04 GMT | Mission AppPossible : The Unholy Trinity :- Dev, Sec & Ops -A Love Story | sumit sharma | [Read More](https://medium.com/p/79ea4c62e4ac) |
+| Tue, 19 Aug 2025 15:27:48 GMT | Cheyanne Mallas: Lessons Learned from the Frontlines of Cybersecurity Project Management | Cheyannemallaspa | [Read More](https://medium.com/p/afa4fbaceb79) |
+| Tue, 19 Aug 2025 15:27:05 GMT | “Day 16: The CI/CD Betrayal — How a Tiny GitHub Action Misconfiguration Led to a $800 Cloud Breach” | Aman Sharma | [Read More](https://medium.com/p/05a229c0684d) |
+| Tue, 19 Aug 2025 15:22:50 GMT | Invite Link Doesn’t Expire After Organization Deletion | Ahmed Mahmoud | [Read More](https://medium.com/p/d892d50fde4e) |
+| Tue, 19 Aug 2025 15:21:57 GMT | 5 Easy Ways to Upgrade Your Backyard This Weekend (Without Breaking the Bank) | Nma | [Read More](https://medium.com/p/1b080f70ffba) |
 | Tue, 19 Aug 2025 15:18:08 GMT | Digital Parenting 2025: बच्चों की Online Safety की अब No Tension! | Parental Monitoring | [Read More](https://medium.com/p/16ae01b8e396) |
+| Tue, 19 Aug 2025 15:15:44 GMT | How to Buy Gift Cards with Bitcoin Using CryptoXpress | Devbradon | [Read More](https://medium.com/p/572732e85040) |
 | Tue, 19 Aug 2025 15:15:18 GMT | When Every Keystroke Could Be Watched… | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/f45f9b88cf5f) |
 | Tue, 19 Aug 2025 15:11:59 GMT | The Perils of Technological Fix | Eva Varona | [Read More](https://medium.com/p/b745a6260404) |
 | Tue, 19 Aug 2025 15:09:37 GMT | How Hackers Bypass 2FA (And How to Stop Them) | Sneha Rani | [Read More](https://medium.com/p/037336af0de5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 11:10:41 GMT | ️ Threat Intel & Containment — TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/1f7cde6bb445) |
 | Tue, 19 Aug 2025 11:09:39 GMT | Cloudflare WAF Best Practices: Features, Challenges, and Alternatives | Maverick Steel | [Read More](https://medium.com/p/46d7da078f6e) |
 | Tue, 19 Aug 2025 11:07:08 GMT | Ponzi Schemes in Web3: An Old Scam in New Clothes. | Bright Mmaduabuchi | [Read More](https://medium.com/p/0522778346b2) |
-| Tue, 19 Aug 2025 11:01:58 GMT | Engaging Vendors to Prepare Your Supply Chain for the Post-Quantum Era | Left4Zed | [Read More](https://medium.com/p/16d2d6e0e4cb) |
-| Tue, 19 Aug 2025 11:01:57 GMT | Neighbour Tryhackme Walkthrough | Mehdi Ben Fredj | [Read More](https://medium.com/p/7134b4f1ab4a) |
-| Tue, 19 Aug 2025 10:57:03 GMT | The Story Behind OAuth (and Why It Matters to Us Today) | Aditya Ramaswamy | [Read More](https://medium.com/p/70d832ff2ffa) |
-| Tue, 19 Aug 2025 10:52:18 GMT | Pentester Academy XSS labs | ZVirtuoso | [Read More](https://medium.com/p/c6a257e3d5bb) |
-| Tue, 19 Aug 2025 10:51:42 GMT | The Mind’s Blind Spots: How Cognitive Biases Fuel Cybersecurity Threats | noailabs | [Read More](https://medium.com/p/198d86305ebc) |
-| Tue, 19 Aug 2025 10:42:51 GMT | Understanding MDR In Cyber Security | Ai Writter Tools | [Read More](https://medium.com/p/58d43d01d885) |
-| Tue, 19 Aug 2025 10:38:21 GMT | Top 10 Information Technology Companies in India: Comprehensive Guide 2025–2026 | Intileo Technologies | [Read More](https://medium.com/p/af7e00854971) |
-| Tue, 19 Aug 2025 10:37:07 GMT | Dari Teori ke Praktik: SSRF, File Inclusion, dan Command Injection | veliadevs | [Read More](https://medium.com/p/19bbdab30d9d) |
