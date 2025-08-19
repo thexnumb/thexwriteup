@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 14:39:25 GMT | Fake Zoom Links Put Users at Jeopardy — | Cyber Valkyries | [Read More](https://medium.com/p/ce771e3e89e1) |
+| Tue, 19 Aug 2025 14:38:45 GMT | Fastest Way to Buy Bitcoin with a Mobile App in India- CryptoXpress | Devbradon | [Read More](https://medium.com/p/8c7ed2ed1688) |
+| Tue, 19 Aug 2025 14:38:40 GMT | Informational Sustainability: A Fundamental Principle for the Age of Electronic Intelligence | Pab Man Alvarez | [Read More](https://medium.com/p/06b808a7331d) |
+| Tue, 19 Aug 2025 14:37:45 GMT | Web cache poisoning | Usama Hanif | [Read More](https://medium.com/p/e8827f9509dc) |
+| Tue, 19 Aug 2025 14:35:55 GMT | The Day LinkedIn Told Me I Was From Hong Kong | Raima | [Read More](https://medium.com/p/cdca926388d9) |
+| Tue, 19 Aug 2025 14:31:51 GMT | Why Strong Passwords Matter & How to Generate Them Instantly | SantPro Tools | [Read More](https://medium.com/p/043988093bc7) |
+| Tue, 19 Aug 2025 14:27:15 GMT | Why Endpoint Protection is Critical for Small and Mid-Sized Businesses? | IT_Engineer | [Read More](https://medium.com/p/215d19f54a5a) |
+| Tue, 19 Aug 2025 14:23:27 GMT | What It Takes to Build Zero Trust Architecture in MedTech | Manish Kumar | [Read More](https://medium.com/p/4af566f05888) |
 | Tue, 19 Aug 2025 14:18:57 GMT | Pentester Nepal x NCA CTF 2025 #ePaisa | Solomon Hexa | [Read More](https://medium.com/p/9990e16f365f) |
 | Tue, 19 Aug 2025 14:16:07 GMT | Gold Tin Alloy Solder Market: Unlocking Innovations and Driving Future Growth | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/b6142869dddf) |
 | Tue, 19 Aug 2025 14:15:25 GMT | Cyber Threat Intelligence (CTI) — Everything you need to know Imagine being a junior analyst who… | Genrunic | [Read More](https://medium.com/p/4dc4857d5346) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 10:03:31 GMT | Chapter 4 , Episode 2: When I Tried to Open Up and Got Hurt Again | Tredeblez | [Read More](https://medium.com/p/16f8f98a6d07) |
 | Tue, 19 Aug 2025 09:43:13 GMT | What I Learned at DEFCON: AI Malware, Quantum Threats & a Crash Course in Human Psychology | Alex Hughes | [Read More](https://medium.com/p/b5bcac706a95) |
 | Tue, 19 Aug 2025 09:38:31 GMT | Challenges: ColddBox: Easy (TryHackMe) | Jebitok | [Read More](https://medium.com/p/e7dbfc56fab2) |
-| Tue, 19 Aug 2025 09:37:24 GMT | Giải pháp lắp đặt camera quầy thu ngân — Giám sát an ninh & giao dịch hiệu quả | DaiAnGroup | [Read More](https://medium.com/p/15f7e9ec2225) |
-| Tue, 19 Aug 2025 09:34:07 GMT | JWT Unlocked: How Tokens Work and How They’re Exploited. | Samuel Jack | [Read More](https://medium.com/p/4fe92c4dbff9) |
-| Tue, 19 Aug 2025 09:32:50 GMT | Mastering the Art of Communication as a Help Desk Support | Cyber Timi | [Read More](https://medium.com/p/468db62e85c8) |
-| Tue, 19 Aug 2025 09:27:36 GMT | Run This Malware for Your Friends! | Rona Ega Kharisma | [Read More](https://medium.com/p/3e525bddf63d) |
-| Tue, 19 Aug 2025 09:25:19 GMT | Patrolling Security Guard Services in Hyderabad — Ensure 24/7 Safety | Group 24/7 Security Services | [Read More](https://medium.com/p/6a04b8918143) |
-| Tue, 19 Aug 2025 09:24:45 GMT | Lắp đặt hệ thống camera ngân hàng: Giải pháp giám sát an ninh toàn diện | DaiAnGroup | [Read More](https://medium.com/p/9ab03f6728b0) |
-| Tue, 19 Aug 2025 09:23:28 GMT | Encryption Key Control in SaaS Deployments | Sandeep Agarwal | [Read More](https://medium.com/p/fd67e8bc6af5) |
-| Tue, 19 Aug 2025 09:20:15 GMT | How M365 & Microsoft Certified Partner Can Transform Employee Productivity | IFI Techsolutions | [Read More](https://medium.com/p/50ae3e603519) |
