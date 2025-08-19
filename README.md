@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 01:07:56 GMT | Unlocking the True Power of JavaScript Closures in 2025 | Babar saad | [Read More](https://medium.com/p/7de897a57b10) |
+| Tue, 19 Aug 2025 01:04:36 GMT | SecurityX (CASP+) Journey | Casey F. Bond | [Read More](https://medium.com/p/b389771d2e48) |
+| Tue, 19 Aug 2025 00:58:00 GMT | How I Found an IDOR in private Bug hunting program(After a Day of Nothing) | Rishabh kumar | [Read More](https://medium.com/p/5987a72357a6) |
+| Tue, 19 Aug 2025 00:54:37 GMT | Corporate Governance and Cybersecurity: Pillars of Ethical and Efficient Business Transformation | Lester Davila Escobedo | [Read More](https://medium.com/p/466567b868a0) |
+| Tue, 19 Aug 2025 00:53:38 GMT | CyberTalents : Can you find me writeup - by DeveloperHacker | DeveloperHacker | [Read More](https://medium.com/p/8b535f6cd19d) |
+| Tue, 19 Aug 2025 00:45:39 GMT | Understanding Blockchain: What It Is, How It Works, and Why It Matters | Mark Cartawick | [Read More](https://medium.com/p/8835427361e3) |
+| Tue, 19 Aug 2025 00:29:29 GMT | Deepfake Technology and Misinformation: Should AI Companies Be Liable? | Jannatul Adnan Pronoy | [Read More](https://medium.com/p/e5c435c12693) |
+| Tue, 19 Aug 2025 00:27:09 GMT | When Trust Gets Spoofed | Tola Bavery | [Read More](https://medium.com/p/4a1c3afed696) |
+| Tue, 19 Aug 2025 00:20:18 GMT | Sınıfsız Alanlar Arası Yönlendirme (CIDR) | Marvan Alawi | [Read More](https://medium.com/p/00ffe4e1e31f) |
+| Tue, 19 Aug 2025 00:10:21 GMT | As we get deep into this engagement, I’ll demonstrate my penetration testing methodology and my… | Cyb0rgBytes | [Read More](https://medium.com/p/dc86ed5f6971) |
+| Tue, 19 Aug 2025 00:09:13 GMT | The Hidden Scams of 2025: From Deepfakes to School Fraud | Internet Exposed | [Read More](https://medium.com/p/ea6e3dc4e74d) |
+| Tue, 19 Aug 2025 00:08:58 GMT | Preparing Your Offensive Security Lab | N0H4TS | [Read More](https://medium.com/p/0f1598fe2be7) |
+| Tue, 19 Aug 2025 00:08:29 GMT | What can Blockchain bring to your world | BAILLAHI Lemine | [Read More](https://medium.com/p/5d4382b0ba41) |
+| Mon, 18 Aug 2025 23:43:45 GMT | RevengeRAT: The Remote Access Trojan You Don’t Want as a Guest | Akshay Chauhan | [Read More](https://medium.com/p/794f74ce3392) |
 | Mon, 18 Aug 2025 23:33:49 GMT | How Social Engineering Threatens Financial Services and Healthcare | mePrism Privacy | [Read More](https://medium.com/p/6f07adaba713) |
 | Mon, 18 Aug 2025 23:31:09 GMT | Forensics: scriptCTF 2025- Just Some Avocado Writeup | Rana chouchane - QU33NR | [Read More](https://medium.com/p/39f531b5421c) |
 | Mon, 18 Aug 2025 23:19:50 GMT | Smaller Malware Analysis Network Layout | Ruben | [Read More](https://medium.com/p/2888c845914f) |
@@ -99,17 +113,3 @@ By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
 | Mon, 18 Aug 2025 17:18:13 GMT | The Future of Identity Protection in a Crowded Cybersecurity Market | Dr. Shashi Karhail | [Read More](https://medium.com/p/d082e1a6854e) |
 | Mon, 18 Aug 2025 17:16:14 GMT | Ascon: NIST’s Lightweight Cryptography Standard for the IoT Era | Ankit Kalbande | [Read More](https://medium.com/p/3e95b9f0a244) |
 | Mon, 18 Aug 2025 17:07:26 GMT | Introduction to SOC Fundamentals: A Guide for Aspiring Analysts | Williammeed | [Read More](https://medium.com/p/0c79fafa38dd) |
-| Mon, 18 Aug 2025 17:07:01 GMT | After the Lock: A Step-by-Step Guide to Surviving a Ransomware Attack | Paradise technologies Inc | [Read More](https://medium.com/p/ba2d1883eece) |
-| Mon, 18 Aug 2025 16:59:27 GMT | The $50,000 Email That Sounded Perfect: How AI Made Phishing Scary Smart (And What You Need to… | Myra Jarenga | [Read More](https://medium.com/p/a06c7654e9d3) |
-| Mon, 18 Aug 2025 16:58:59 GMT | Hacker Claims to Sell 15.8 Million Unencrypted PayPal Accounts on Dark Web | Fazal | [Read More](https://medium.com/p/05cf3bfbd082) |
-| Mon, 18 Aug 2025 16:57:41 GMT | Write-up Wizard Gallery - scriptCTF | D4LTON | [Read More](https://medium.com/p/8429ae8384de) |
-| Mon, 18 Aug 2025 16:54:29 GMT | Secure Your Node.js App from the Inside Out | ABK | [Read More](https://medium.com/p/01a8c75a9d89) |
-| Mon, 18 Aug 2025 16:52:06 GMT | Cybersecurity 101: A Beginner’s Guide to Staying Safe in the Digital World | Ajekigbe Michael. A | [Read More](https://medium.com/p/f6abd995173e) |
-| Mon, 18 Aug 2025 16:48:52 GMT | CVE-2025–55169: Path Traversal Vulnerability in WeGIA Web Manager | Samet Yılmaz Temel | [Read More](https://medium.com/p/ab43c1e1c259) |
-| Mon, 18 Aug 2025 16:45:39 GMT | Identity-Centric Cloud Defense | Above The Firewall | [Read More](https://medium.com/p/2fa490033737) |
-| Mon, 18 Aug 2025 16:40:52 GMT | Is This the End of High-Paying Tech Jobs? | Vijay Kumar Gupta | [Read More](https://medium.com/p/eac14e9feca8) |
-| Mon, 18 Aug 2025 16:36:41 GMT | Life and how I perceive it | Kondapalli Koyal | [Read More](https://medium.com/p/a49f11a71353) |
-| Mon, 18 Aug 2025 16:34:46 GMT | TryHackMe - Linux: Local Enumeration - WriteUp | Axoloth | [Read More](https://medium.com/p/5c016506b1a0) |
-| Mon, 18 Aug 2025 16:33:59 GMT | Hardware Security Modules (HSM): Best Practices Overview | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b122f3e2ff2c) |
-| Mon, 18 Aug 2025 16:33:26 GMT | The Silent Rejection: Why Ghosting Hurts More Than “No” | Manish Rawat | [Read More](https://medium.com/p/d03719a2731a) |
-| Mon, 18 Aug 2025 16:33:11 GMT | Homeoffice sicher gestalten: Die IT-Checkliste für Unternehmen | Bjoern Groenewold | [Read More](https://medium.com/p/07a88d07f830) |
