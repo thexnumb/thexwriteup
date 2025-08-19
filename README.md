@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 04:15:40 GMT | Day 36- Common Network Protocols with Commands & Interview Questions for beginners | unica 02 | [Read More](https://medium.com/p/c9e387e4140e) |
+| Tue, 19 Aug 2025 04:12:23 GMT | Forensics - picoGym - tunn3l v1s10n | Flower Bed | [Read More](https://medium.com/p/b3f4e712b380) |
+| Tue, 19 Aug 2025 04:06:52 GMT | How to Bypass SSL Pinning in Android Apps: Step-by-Step Guide with Tools and Examples -Part 1 | Y_s0_s3r10us | [Read More](https://medium.com/p/0a84b5738c1f) |
+| Tue, 19 Aug 2025 04:04:59 GMT | What is Cybersecurity? A Beginner’s Guide to Staying Safe Online | Afzan | [Read More](https://medium.com/p/a2d0e2955824) |
+| Tue, 19 Aug 2025 03:55:24 GMT | SafeLine WAF — The Self-Hosted Firewall Every Homelab Needs | Quella | [Read More](https://medium.com/p/26352ca4a236) |
 | Tue, 19 Aug 2025 03:53:03 GMT | The AI Era Needs Cyber Guardians: Why GRC is the New Frontier in Cybersecurity Careers | Dr. Deep Pandey | [Read More](https://medium.com/p/cff773e99b8b) |
 | Tue, 19 Aug 2025 03:48:40 GMT | How AI Is Supercharging Phishing: And How We Can Fight Back | Gaurang Katyal | [Read More](https://medium.com/p/7e1bc58fb4ca) |
 | Tue, 19 Aug 2025 03:39:09 GMT | The Windows Process Journey — rdpsign.exe (Remote Desktop Session Host Server Sign Tool) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4257be3230ff) |
@@ -108,8 +113,3 @@ By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
 | Mon, 18 Aug 2025 18:35:21 GMT | Day 49 — Multi-Stage Email-Phishing Campaign | Jinay | [Read More](https://medium.com/p/5ad8a8d7224e) |
 | Mon, 18 Aug 2025 18:30:37 GMT | Why Russia Wants Svalbard | Jonathan Stephen Harry Riley | [Read More](https://medium.com/p/4857652332d3) |
 | Mon, 18 Aug 2025 18:28:37 GMT | Lock, Mint, Hack: The Dark Side of Blockchain Bridges | Evgenii | [Read More](https://medium.com/p/068185408ba2) |
-| Mon, 18 Aug 2025 18:24:44 GMT | Execute and Identify Credential Abuse in AWS -Walkthrough | @@ru$hi | [Read More](https://medium.com/p/bc17e894e134) |
-| Mon, 18 Aug 2025 18:18:45 GMT | Exploit the game Blindly : With Blind XSS | #$ubh@nk@r | [Read More](https://medium.com/p/1f82479dfbc4) |
-| Mon, 18 Aug 2025 18:10:46 GMT | MD2PDF - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/c3628292a4af) |
-| Mon, 18 Aug 2025 18:06:38 GMT | The Importance of Legal Directory Listings for Your Practice | Marilyn Jenkins | [Read More](https://medium.com/p/fe2711198f74) |
-| Mon, 18 Aug 2025 18:03:26 GMT | Vulnerabilities related to Port 21 | Akashyadav | [Read More](https://medium.com/p/730e8ad9daf0) |
