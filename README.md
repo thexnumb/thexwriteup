@@ -12,10 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 09:37:24 GMT | Giải pháp lắp đặt camera quầy thu ngân — Giám sát an ninh & giao dịch hiệu quả | DaiAnGroup | [Read More](https://medium.com/p/15f7e9ec2225) |
+| Tue, 19 Aug 2025 09:32:50 GMT | Mastering the Art of Communication as a Help Desk Support | Cyber Timi | [Read More](https://medium.com/p/468db62e85c8) |
+| Tue, 19 Aug 2025 09:27:36 GMT | Run This Malware for Your Friends! | Rona Ega Kharisma | [Read More](https://medium.com/p/3e525bddf63d) |
+| Tue, 19 Aug 2025 09:25:19 GMT | Patrolling Security Guard Services in Hyderabad — Ensure 24/7 Safety | Group 24/7 Security Services | [Read More](https://medium.com/p/6a04b8918143) |
+| Tue, 19 Aug 2025 09:24:45 GMT | Lắp đặt hệ thống camera ngân hàng: Giải pháp giám sát an ninh toàn diện | DaiAnGroup | [Read More](https://medium.com/p/9ab03f6728b0) |
+| Tue, 19 Aug 2025 09:23:28 GMT | Encryption Key Control in SaaS Deployments | Sandeep Agarwal | [Read More](https://medium.com/p/fd67e8bc6af5) |
 | Tue, 19 Aug 2025 09:20:15 GMT | How M365 & Microsoft Certified Partner Can Transform Employee Productivity | IFI Techsolutions | [Read More](https://medium.com/p/50ae3e603519) |
 | Tue, 19 Aug 2025 09:16:31 GMT | CCTV for Corporate Offices in Hyderabad — Secure Your Workplace | Smart Secures | [Read More](https://medium.com/p/1191773a14a8) |
 | Tue, 19 Aug 2025 09:12:00 GMT | Reconocimiento web sin herramientas comunes: un método manual para bug bounty hunters | Gorka | [Read More](https://medium.com/p/1dbfbc2f3b5a) |
 | Tue, 19 Aug 2025 09:11:08 GMT | Membongkar Gambar Tersembunyi dari CTF Noise | Bonar | [Read More](https://medium.com/p/e18819459a8c) |
+| Tue, 19 Aug 2025 09:10:27 GMT | Burnout: The Silent Scream of the Mind | Odair Comin | [Read More](https://medium.com/p/8f979e90651a) |
 | Tue, 19 Aug 2025 09:02:12 GMT | Prevent SQL Injection in React.js: A 2025 Guide | Pentest_Testing_Corp | [Read More](https://medium.com/p/3a66a18e0f9b) |
 | Tue, 19 Aug 2025 09:01:58 GMT | Passing OSEP in 4 Hrs!? (PEN-300 OSEP Review) | n000b3r | [Read More](https://medium.com/p/deeec11c0515) |
 | Tue, 19 Aug 2025 09:01:55 GMT | Learn Cybersecurity and AI & ML | Balan M | [Read More](https://medium.com/p/3eef228816d0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 04:06:52 GMT | How to Bypass SSL Pinning in Android Apps: Step-by-Step Guide with Tools and Examples -Part 1 | Y_s0_s3r10us | [Read More](https://medium.com/p/0a84b5738c1f) |
 | Tue, 19 Aug 2025 04:04:59 GMT | What is Cybersecurity? A Beginner’s Guide to Staying Safe Online | Afzan | [Read More](https://medium.com/p/a2d0e2955824) |
 | Tue, 19 Aug 2025 03:55:24 GMT | SafeLine WAF — The Self-Hosted Firewall Every Homelab Needs | Quella | [Read More](https://medium.com/p/26352ca4a236) |
-| Tue, 19 Aug 2025 03:53:03 GMT | The AI Era Needs Cyber Guardians: Why GRC is the New Frontier in Cybersecurity Careers | Dr. Deep Pandey | [Read More](https://medium.com/p/cff773e99b8b) |
-| Tue, 19 Aug 2025 03:48:40 GMT | How AI Is Supercharging Phishing: And How We Can Fight Back | Gaurang Katyal | [Read More](https://medium.com/p/7e1bc58fb4ca) |
-| Tue, 19 Aug 2025 03:39:09 GMT | The Windows Process Journey — rdpsign.exe (Remote Desktop Session Host Server Sign Tool) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4257be3230ff) |
-| Tue, 19 Aug 2025 03:22:09 GMT | Why Everyone is Switching from Windows to Linux in 2025: The Great Migration Has Begun | Likhoindustry | [Read More](https://medium.com/p/2570c0efc119) |
-| Tue, 19 Aug 2025 03:19:52 GMT | Smartbi RCE Vulnerability — Patch Now Before Attackers Do | Quella | [Read More](https://medium.com/p/37f8d6a2a9f5) |
-| Tue, 19 Aug 2025 03:12:47 GMT | Layered Privacy Notices | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/5dfbf9115573) |
-| Tue, 19 Aug 2025 03:10:08 GMT | Server-Side Template Injection in a Sandboxed Environment: Escaping Freemarker Template… | Bash Overflow | [Read More](https://medium.com/p/b704536b5181) |
