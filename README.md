@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 20:31:57 GMT | Securing Web-Based LLMs: Understanding Prompt Injection and Beyond | Hevin Ateş | [Read More](https://medium.com/p/9b50d61b9610) |
+| Tue, 19 Aug 2025 20:27:08 GMT | ⚡ Playbook Design and Optimization Techniques in SOC Automation | Esra Kayhan | [Read More](https://medium.com/p/a2b3b1311862) |
+| Tue, 19 Aug 2025 20:24:52 GMT | Intro to SOC by MICROSOFT | Vyasswati13 | [Read More](https://medium.com/p/1731351344cd) |
 | Tue, 19 Aug 2025 20:15:49 GMT | Find 10 | Movie Lover | [Read More](https://medium.com/p/b289c78c975d) |
+| Tue, 19 Aug 2025 20:14:17 GMT | Breaking the Mold: Why Innovation in Application Security Can’t Wait | Kalyan Nathadwarawala | [Read More](https://medium.com/p/a800b77a845f) |
 | Tue, 19 Aug 2025 20:11:42 GMT | Offensive Security: Why It Matters? | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/b953b2e950d3) |
 | Tue, 19 Aug 2025 20:11:17 GMT | What I Learned from CompTIA, EC-Council, ISC2, and SANS — And Which I’d Choose Again | Christina Irick | [Read More](https://medium.com/p/1bf69aefe563) |
 | Tue, 19 Aug 2025 20:06:33 GMT | Intel Internal Data Breach for 270k Workers | Matthew.Rosenquist | [Read More](https://medium.com/p/348dda7546f1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 15:49:53 GMT | Day 84: Phishing | Nile Okomo | [Read More](https://medium.com/p/8c6cb52ba6ab) |
 | Tue, 19 Aug 2025 15:47:50 GMT | BrutDroid – Android Hacking Made Simple | Nitin yadav | [Read More](https://medium.com/p/ae68bf38f630) |
 | Tue, 19 Aug 2025 15:40:52 GMT | 5G vs WiFi 7: Which Is Faster and Better for You? | Anonymous Writer | [Read More](https://medium.com/p/2ba3981780fa) |
-| Tue, 19 Aug 2025 15:32:30 GMT | Why We Must Move from Reactive Cybersecurity to Proactive, AI-Driven Defense | Gauri V | [Read More](https://medium.com/p/884d12f56039) |
-| Tue, 19 Aug 2025 15:32:12 GMT | How I Became a CEH Master at 21; The Beginning of My Offensive Security Path | OmarTamer | [Read More](https://medium.com/p/1fd7c7199b62) |
-| Tue, 19 Aug 2025 15:28:04 GMT | Mission AppPossible : The Unholy Trinity :- Dev, Sec & Ops -A Love Story | sumit sharma | [Read More](https://medium.com/p/79ea4c62e4ac) |
-| Tue, 19 Aug 2025 15:27:48 GMT | Cheyanne Mallas: Lessons Learned from the Frontlines of Cybersecurity Project Management | Cheyannemallaspa | [Read More](https://medium.com/p/afa4fbaceb79) |
