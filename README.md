@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 23:38:10 GMT | Applying a Structured, Holistic Cybersecurity Practice in Your Organization | David SEHYEON Baek | [Read More](https://medium.com/p/e7ff8b484f98) |
+| Tue, 19 Aug 2025 23:33:01 GMT | Cryptographic Sovereignty vs Standardisation: Walking the Tightrope | ExeQuantum | [Read More](https://medium.com/p/7cb559571607) |
+| Tue, 19 Aug 2025 23:25:34 GMT | Understanding the State Machine Model in Security | Raviteja Mureboina | [Read More](https://medium.com/p/c5caa26dcd7f) |
+| Tue, 19 Aug 2025 23:24:24 GMT | Oh My WebServer TryHackMe Writeup | Mehdi Ben Fredj | [Read More](https://medium.com/p/47a30ce2ec08) |
+| Tue, 19 Aug 2025 23:22:27 GMT | APIs Pentesting (Part 1) -What is API & APIs Architectures | Hamza M. Abdulrhman | [Read More](https://medium.com/p/22fffa3b79a0) |
 | Tue, 19 Aug 2025 23:05:35 GMT | Integrating Active Directory with Okta | James Rawlings | [Read More](https://medium.com/p/c4b9c3835b3f) |
 | Tue, 19 Aug 2025 22:51:44 GMT | Security First: Protecting Your Plugin and Users | Volodymyr Dovhan | [Read More](https://medium.com/p/117cda76a859) |
 | Tue, 19 Aug 2025 22:51:43 GMT | Basic Pentesting — Try hack me room (Easy to pass THM) | Mushfiq.XD | [Read More](https://medium.com/p/14381a40e73b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 16:53:26 GMT | PG Practice — ClamAV (Linux) | Lepton | [Read More](https://medium.com/p/0485f8fff9d8) |
 | Tue, 19 Aug 2025 16:50:22 GMT | CyberDefenders — Network Forensic Labs | Jaws | [Read More](https://medium.com/p/74b7bf402bb2) |
 | Tue, 19 Aug 2025 16:50:00 GMT | HTB Walkthrough : Preignition(HTTP) | Ahmad Sopyan | [Read More](https://medium.com/p/3332805321eb) |
-| Tue, 19 Aug 2025 16:48:07 GMT | BeEF Framework Nedir / Nasıl Kullanılır ? | Berat K. | [Read More](https://medium.com/p/73f5e75420c3) |
-| Tue, 19 Aug 2025 16:43:28 GMT | How I Use AI to Learn Cybersecurity 10x Faster (And How You Can Too) | Paritosh | [Read More](https://medium.com/p/bdac0a7a79e7) |
-| Tue, 19 Aug 2025 16:38:34 GMT | Do You Know What Happens Before Your Browser Shows HTTPS? | Nishanth R | [Read More](https://medium.com/p/01ac06568cd1) |
-| Tue, 19 Aug 2025 16:31:17 GMT | JSsear | Adham Heinrich | [Read More](https://medium.com/p/271c235284be) |
-| Tue, 19 Aug 2025 16:29:33 GMT | Cybersecurity in 2025: From Defense to Business Value | Om Kinkhabwala | [Read More](https://medium.com/p/5ae71f927471) |
