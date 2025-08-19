@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 05:36:37 GMT | Why Every Organization Needs Enterprise Content Management Solutions in 2025 | Quadrant IT Services | [Read More](https://medium.com/p/56fa0480f6cd) |
+| Tue, 19 Aug 2025 05:36:29 GMT | Alexander the Great and the lesson of leadership in cybersecurity | Martin Abramov | [Read More](https://medium.com/p/2c806d583929) |
+| Tue, 19 Aug 2025 05:35:17 GMT | “Behind the Screen: The Dark Side of Digital Working” | Muntha sittara | [Read More](https://medium.com/p/69f96c9d3225) |
+| Tue, 19 Aug 2025 05:35:16 GMT | Ensuring the Security of Your Mobile Application | Functioning Media University | [Read More](https://medium.com/p/6fe04d04a254) |
+| Tue, 19 Aug 2025 05:26:46 GMT | Realtime IP Geolocation Dashboard: From Log Monitoring to Interactive Security Map | Oky Dwi Prasetyo | [Read More](https://medium.com/p/1914127fac1b) |
+| Tue, 19 Aug 2025 05:22:59 GMT | Cortex Cloud Runtime Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/59237cf9cf72) |
+| Tue, 19 Aug 2025 05:20:39 GMT | HIPAA Compliance Made Simple: A Practical Self-Assessment Checklist for HealthTech Teams | Sekurno | [Read More](https://medium.com/p/c483ae8f2797) |
 | Tue, 19 Aug 2025 05:17:36 GMT | CSRF, CORS, and Security Headers in Django Explained | Priyanshu Rajput | [Read More](https://medium.com/p/cf438b3ae69c) |
 | Tue, 19 Aug 2025 05:05:14 GMT | RBI’s FREE-AI Framework: What CISOs Should Pay Attention To | Suresh Shanmugam | [Read More](https://medium.com/p/ded4fbefaa2e) |
 | Tue, 19 Aug 2025 04:59:43 GMT | Introduction to software — explained | Aanya Ali | [Read More](https://medium.com/p/0df31d8432f1) |
@@ -106,10 +113,3 @@ By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
 | Mon, 18 Aug 2025 20:04:24 GMT | Double-Edged Sword: Securing AI in Enterprises with the Mammoth Enterprise AI Browser | Mammoth Cyber | [Read More](https://medium.com/p/87202cd90c67) |
 | Mon, 18 Aug 2025 20:02:52 GMT | How to Secure Your Prometheus with Basic Authentication (Without Using a Reverse Proxy) | Ankit Saxena | [Read More](https://medium.com/p/3c2dc7b0bbfe) |
 | Mon, 18 Aug 2025 19:54:39 GMT | Mastering Nmap (Part 1) in 2025: Host Discovery & Recon for Bug Bounty Hunters | appsecvenue | [Read More](https://medium.com/p/1af4a3e451a1) |
-| Mon, 18 Aug 2025 19:53:55 GMT | I’m a passionate cybersecurity enthusiast and a student with a deep interest in ethical hacking… | Saijayanth | [Read More](https://medium.com/p/5a16b01f9df7) |
-| Mon, 18 Aug 2025 19:52:37 GMT | OWASP Top 10: The Hidden Traps in Every Website (And How to Avoid Them) | Shree Navya M R | [Read More](https://medium.com/p/15543a24e348) |
-| Mon, 18 Aug 2025 19:37:47 GMT | A Renter’s Guide To Getting Your Security Deposit Back | Nukey Realty & Property Management | [Read More](https://medium.com/p/af3d8cbb167e) |
-| Mon, 18 Aug 2025 19:22:36 GMT | Intro to Malware Analysis | Corey Farley | [Read More](https://medium.com/p/ff4a2a677bd1) |
-| Mon, 18 Aug 2025 19:19:19 GMT | Preprocessor for Cybersecurity | Introvertdeveloper | [Read More](https://medium.com/p/68536c372444) |
-| Mon, 18 Aug 2025 19:18:19 GMT | Navigating SOC Compliance: A Practical Guide for Businesses in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/2d0d440069f8) |
-| Mon, 18 Aug 2025 19:07:29 GMT | Cybersecurity Ecosystem & Careers | Danladi Galadima | [Read More](https://medium.com/p/279966df3fa6) |
