@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 05:17:36 GMT | CSRF, CORS, and Security Headers in Django Explained | Priyanshu Rajput | [Read More](https://medium.com/p/cf438b3ae69c) |
+| Tue, 19 Aug 2025 05:05:14 GMT | RBI’s FREE-AI Framework: What CISOs Should Pay Attention To | Suresh Shanmugam | [Read More](https://medium.com/p/ded4fbefaa2e) |
+| Tue, 19 Aug 2025 04:59:43 GMT | Introduction to software — explained | Aanya Ali | [Read More](https://medium.com/p/0df31d8432f1) |
+| Tue, 19 Aug 2025 04:56:08 GMT | “I Love Him” Isn’t a Reason to Stay When He Hurts You | Maria Arshad | [Read More](https://medium.com/p/f34b95357ddf) |
+| Tue, 19 Aug 2025 04:55:17 GMT | ThunderCipher-Lab[Juggl3r] | Bhuwan Patidar | [Read More](https://medium.com/p/9e8c7bde3739) |
+| Tue, 19 Aug 2025 04:53:35 GMT | Robot Vacuums, Smart Bulbs, and Hackers: Protecting Your Home Network | Taulan Zauzanov | [Read More](https://medium.com/p/29d0b3627e1b) |
+| Tue, 19 Aug 2025 04:49:22 GMT | How to Keep AI Agents Safe: Protecting Their Internal Workings | Fakhar Khan | [Read More](https://medium.com/p/254237e60ef1) |
+| Tue, 19 Aug 2025 04:43:30 GMT | Ethereum Needs its white Blood Cells And Drosera is Ready | Yuni | [Read More](https://medium.com/p/c04839530032) |
+| Tue, 19 Aug 2025 04:41:25 GMT | Back Up Your Published Stories! | Bill Myers | [Read More](https://medium.com/p/436b7c65c3bc) |
 | Tue, 19 Aug 2025 04:35:16 GMT | Men Need the Freedom to Cry | Kabii | [Read More](https://medium.com/p/ad179d9b0b4a) |
 | Tue, 19 Aug 2025 04:34:55 GMT | Is SQL Still the King in Modern Web Dev? | Rizqi Mulki | [Read More](https://medium.com/p/4a1bb6c73046) |
 | Tue, 19 Aug 2025 04:30:39 GMT | Is SQL Still the King in Modern Web Dev? | Rizqi Mulki | [Read More](https://medium.com/p/b3c23012edf6) |
@@ -104,12 +113,3 @@ By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
 | Mon, 18 Aug 2025 19:19:19 GMT | Preprocessor for Cybersecurity | Introvertdeveloper | [Read More](https://medium.com/p/68536c372444) |
 | Mon, 18 Aug 2025 19:18:19 GMT | Navigating SOC Compliance: A Practical Guide for Businesses in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/2d0d440069f8) |
 | Mon, 18 Aug 2025 19:07:29 GMT | Cybersecurity Ecosystem & Careers | Danladi Galadima | [Read More](https://medium.com/p/279966df3fa6) |
-| Mon, 18 Aug 2025 19:05:45 GMT | AI-Powered Drones: How They’re Redefining Industry and Public Safety | Hafizbilaltariq | [Read More](https://medium.com/p/681efc8a6ec1) |
-| Mon, 18 Aug 2025 18:52:10 GMT | Subdomain Takeover Explained  (And How Hackers Earn $$$ From It) | Vipul Sonule | [Read More](https://medium.com/p/85bc47553d35) |
-| Mon, 18 Aug 2025 18:52:04 GMT | Cache Control the P4 Bug | TSxNINJA | [Read More](https://medium.com/p/dfe254bb72d3) |
-| Mon, 18 Aug 2025 18:51:51 GMT | The Three Who Guard the Digital World | Shreyas Kundar | [Read More](https://medium.com/p/35f3002eb05c) |
-| Mon, 18 Aug 2025 18:51:33 GMT | Why Your “Strong” Password is Useless in 2025 (And What to Use Instead) | Aj | [Read More](https://medium.com/p/4f2a1fffa45b) |
-| Mon, 18 Aug 2025 18:51:27 GMT | The Android App That Stole My Location Data: Spyware Disguised as a Utility | Shahzaib | [Read More](https://medium.com/p/b2fd762c8f72) |
-| Mon, 18 Aug 2025 18:49:24 GMT | Elastic EDR Zero-Day: Bypass Detection, Execute Malware, and Trigger BSOD-What Happened and How to… | cybrNK | [Read More](https://medium.com/p/363ca11062b9) |
-| Mon, 18 Aug 2025 18:49:12 GMT | Foundations of Cybersecurity | Danladi Galadima | [Read More](https://medium.com/p/71b27db4508e) |
-| Mon, 18 Aug 2025 18:44:48 GMT | Why the Future of AI Is Local: Building a Privacy-First AI Studio | Aakash Kasamsetty | [Read More](https://medium.com/p/5d4f549a9377) |
