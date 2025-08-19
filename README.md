@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 10:38:21 GMT | Top 10 Information Technology Companies in India: Comprehensive Guide 2025–2026 | Intileo Technologies | [Read More](https://medium.com/p/af7e00854971) |
+| Tue, 19 Aug 2025 10:37:07 GMT | Dari Teori ke Praktik: SSRF, File Inclusion, dan Command Injection | veliadevs | [Read More](https://medium.com/p/19bbdab30d9d) |
+| Tue, 19 Aug 2025 10:35:00 GMT | HTB Administrator Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/f8273a004044) |
+| Tue, 19 Aug 2025 10:34:52 GMT | How to Bulletproof your Online Business with Just 3 Cybersecurity Tools | Dr1nCtrl | [Read More](https://medium.com/p/e92dd27b7d93) |
+| Tue, 19 Aug 2025 10:34:25 GMT | The Growing Importance of Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/174c4ea98577) |
+| Tue, 19 Aug 2025 10:30:21 GMT | Penetration Testing for SMEs: Affordable Cybersecurity Without Compromise | SmartCLOUD Australia | [Read More](https://medium.com/p/fd3ef1a16d62) |
+| Tue, 19 Aug 2025 10:26:57 GMT | Prevention and Response Strategies for Ransomware Attacks | Prashant kamkar | [Read More](https://medium.com/p/f607725e92f5) |
+| Tue, 19 Aug 2025 10:25:56 GMT | Emniyet Kemeri Uyarı Sistemi Ve Etkileri | Fatih Kaylesiz | [Read More](https://medium.com/p/ae1f146aab0a) |
+| Tue, 19 Aug 2025 10:25:16 GMT | DockerLabs Writeup — Swiss (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/b8979998fd64) |
+| Tue, 19 Aug 2025 10:19:04 GMT | API Security Risks: 15 Steps to Protect Your Digital Assets | Core Devs Ltd | [Read More](https://medium.com/p/5ac78a1abfa3) |
 | Tue, 19 Aug 2025 10:12:17 GMT | Verinin Değil, Sessizliğin Gücü: Ne Paylaşmadığımız Bizi Tanımlar mı? | AYŞE KIZILAY | [Read More](https://medium.com/p/76c76d7b5506) |
 | Tue, 19 Aug 2025 10:06:50 GMT | The Digital Immune System: How AI hunts Cyber Threats While You Sleep | Saurabh Sharma | [Read More](https://medium.com/p/663442155217) |
 | Tue, 19 Aug 2025 10:03:31 GMT | Chapter 4 , Episode 2: When I Tried to Open Up and Got Hurt Again | Tredeblez | [Read More](https://medium.com/p/16f8f98a6d07) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 05:17:36 GMT | CSRF, CORS, and Security Headers in Django Explained | Priyanshu Rajput | [Read More](https://medium.com/p/cf438b3ae69c) |
 | Tue, 19 Aug 2025 05:05:14 GMT | RBI’s FREE-AI Framework: What CISOs Should Pay Attention To | Suresh Shanmugam | [Read More](https://medium.com/p/ded4fbefaa2e) |
 | Tue, 19 Aug 2025 04:59:43 GMT | Introduction to software — explained | Aanya Ali | [Read More](https://medium.com/p/0df31d8432f1) |
-| Tue, 19 Aug 2025 04:56:08 GMT | “I Love Him” Isn’t a Reason to Stay When He Hurts You | Maria Arshad | [Read More](https://medium.com/p/f34b95357ddf) |
-| Tue, 19 Aug 2025 04:55:17 GMT | ThunderCipher-Lab[Juggl3r] | Bhuwan Patidar | [Read More](https://medium.com/p/9e8c7bde3739) |
-| Tue, 19 Aug 2025 04:53:35 GMT | Robot Vacuums, Smart Bulbs, and Hackers: Protecting Your Home Network | Taulan Zauzanov | [Read More](https://medium.com/p/29d0b3627e1b) |
-| Tue, 19 Aug 2025 04:49:22 GMT | How to Keep AI Agents Safe: Protecting Their Internal Workings | Fakhar Khan | [Read More](https://medium.com/p/254237e60ef1) |
-| Tue, 19 Aug 2025 04:43:30 GMT | Ethereum Needs its white Blood Cells And Drosera is Ready | Yuni | [Read More](https://medium.com/p/c04839530032) |
-| Tue, 19 Aug 2025 04:41:25 GMT | Back Up Your Published Stories! | Bill Myers | [Read More](https://medium.com/p/436b7c65c3bc) |
-| Tue, 19 Aug 2025 04:35:16 GMT | Men Need the Freedom to Cry | Kabii | [Read More](https://medium.com/p/ad179d9b0b4a) |
-| Tue, 19 Aug 2025 04:34:55 GMT | Is SQL Still the King in Modern Web Dev? | Rizqi Mulki | [Read More](https://medium.com/p/4a1bb6c73046) |
-| Tue, 19 Aug 2025 04:30:39 GMT | Is SQL Still the King in Modern Web Dev? | Rizqi Mulki | [Read More](https://medium.com/p/b3c23012edf6) |
-| Tue, 19 Aug 2025 04:26:04 GMT | The $127,000 Hosting Bill That Could Have Been $47 (True Story) | Rizqi Mulki | [Read More](https://medium.com/p/add407553482) |
