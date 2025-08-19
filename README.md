@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 08:14:08 GMT | Beyond Best-Effort: Enterprise Resilience for Tbps+ DDoS | Aziz Sasmaz | [Read More](https://medium.com/p/bdb320f06da1) |
+| Tue, 19 Aug 2025 08:11:30 GMT | Security Awareness: The Missing Piece in Education and Workplaces | Taulan Zauzanov | [Read More](https://medium.com/p/9fe00b804e06) |
+| Tue, 19 Aug 2025 08:11:16 GMT | Mobile Threats 2025 - Hire Hacker | BlackHat | [Read More](https://medium.com/p/be4d7259e3c4) |
+| Tue, 19 Aug 2025 08:07:27 GMT | Authentication & Authorization: How to Build a Secure User Login System That Your Users Can… | Amaka okoye | [Read More](https://medium.com/p/6c4f658eb16d) |
+| Tue, 19 Aug 2025 08:02:00 GMT | Security First: How Golden Pact Protects Your Crypto Assets | Golden Pact | [Read More](https://medium.com/p/0a21757aeed6) |
+| Tue, 19 Aug 2025 07:51:12 GMT | Advance Your Career with Cyber Security Online Training | Pravin Choudhary | [Read More](https://medium.com/p/0ba3eb8205a0) |
+| Tue, 19 Aug 2025 07:49:03 GMT | Pentester’s Exam: Real-World API & Web Security Scenarios (With Answers) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/dad9b79f170e) |
+| Tue, 19 Aug 2025 07:48:16 GMT | From Checkout to Free Stuff: Inside a Payment Bypass Bug | Niral Shekhat | [Read More](https://medium.com/p/bd6e09c8a0eb) |
+| Tue, 19 Aug 2025 07:48:06 GMT | Step-by-Step: Detect If Your Email or Domain Is in Stealer Logs Right Now | Alexandre Vandamme | [Read More](https://medium.com/p/f3411ed9a0b3) |
+| Tue, 19 Aug 2025 07:45:44 GMT | Pentester’s Exam: Real-World API & Web Security Scenarios (With Answers) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/14b344219354) |
+| Tue, 19 Aug 2025 07:42:38 GMT | Top 10 Kiosk Software for Any Kiosk Computer in 2025 | Vantage MDM | [Read More](https://medium.com/p/7bc4a9c11baf) |
 | Tue, 19 Aug 2025 07:36:01 GMT | The Reason Top Rollups as a Service Providers Rely on Zero-Knowledge | Instanodes | [Read More](https://medium.com/p/31f1e8752eeb) |
 | Tue, 19 Aug 2025 07:34:17 GMT | Detect and Throttle Suspicious Traffic in PHP Without WAFs | Asian Digital Hub | [Read More](https://medium.com/p/77f7c775ac7c) |
+| Tue, 19 Aug 2025 07:33:49 GMT | The Silent Flood That Crashes Servers | Aj | [Read More](https://medium.com/p/393a0ad8a75f) |
+| Tue, 19 Aug 2025 07:30:29 GMT | Nigeria’s Growing Paternity Crisis: Unpacking the DNA Dilemma and Its Broader Implications | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/8e5e60878819) |
 | Tue, 19 Aug 2025 07:29:19 GMT | THM - “Snort Challenge - The Basics” | Francesco Pastore | [Read More](https://medium.com/p/1a208e1e478e) |
 | Tue, 19 Aug 2025 07:24:23 GMT | Field-Level Encryption Tricks That Keep PHP Apps Leak-Proof | Asian Digital Hub | [Read More](https://medium.com/p/ca547cb2433f) |
 | Tue, 19 Aug 2025 07:21:54 GMT | Session Hardening Tips That Survive Even Browser Restarts | Asian Digital Hub | [Read More](https://medium.com/p/6731fae0f9d1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 00:54:37 GMT | Corporate Governance and Cybersecurity: Pillars of Ethical and Efficient Business Transformation | Lester Davila Escobedo | [Read More](https://medium.com/p/466567b868a0) |
 | Tue, 19 Aug 2025 00:53:38 GMT | CyberTalents : Can you find me writeup - by DeveloperHacker | DeveloperHacker | [Read More](https://medium.com/p/8b535f6cd19d) |
 | Tue, 19 Aug 2025 00:45:39 GMT | Understanding Blockchain: What It Is, How It Works, and Why It Matters | Mark Cartawick | [Read More](https://medium.com/p/8835427361e3) |
-| Tue, 19 Aug 2025 00:29:29 GMT | Deepfake Technology and Misinformation: Should AI Companies Be Liable? | Jannatul Adnan Pronoy | [Read More](https://medium.com/p/e5c435c12693) |
-| Tue, 19 Aug 2025 00:27:09 GMT | When Trust Gets Spoofed | Tola Bavery | [Read More](https://medium.com/p/4a1c3afed696) |
-| Tue, 19 Aug 2025 00:20:18 GMT | Sınıfsız Alanlar Arası Yönlendirme (CIDR) | Marvan Alawi | [Read More](https://medium.com/p/00ffe4e1e31f) |
-| Tue, 19 Aug 2025 00:10:21 GMT | As we get deep into this engagement, I’ll demonstrate my penetration testing methodology and my… | Cyb0rgBytes | [Read More](https://medium.com/p/dc86ed5f6971) |
-| Tue, 19 Aug 2025 00:09:13 GMT | The Hidden Scams of 2025: From Deepfakes to School Fraud | Internet Exposed | [Read More](https://medium.com/p/ea6e3dc4e74d) |
-| Tue, 19 Aug 2025 00:08:58 GMT | Preparing Your Offensive Security Lab | N0H4TS | [Read More](https://medium.com/p/0f1598fe2be7) |
-| Tue, 19 Aug 2025 00:08:29 GMT | What can Blockchain bring to your world | BAILLAHI Lemine | [Read More](https://medium.com/p/5d4382b0ba41) |
-| Mon, 18 Aug 2025 23:43:45 GMT | RevengeRAT: The Remote Access Trojan You Don’t Want as a Guest | Akshay Chauhan | [Read More](https://medium.com/p/794f74ce3392) |
-| Mon, 18 Aug 2025 23:33:49 GMT | How Social Engineering Threatens Financial Services and Healthcare | mePrism Privacy | [Read More](https://medium.com/p/6f07adaba713) |
-| Mon, 18 Aug 2025 23:31:09 GMT | Forensics: scriptCTF 2025- Just Some Avocado Writeup | Rana chouchane - QU33NR | [Read More](https://medium.com/p/39f531b5421c) |
-| Mon, 18 Aug 2025 23:19:50 GMT | Smaller Malware Analysis Network Layout | Ruben | [Read More](https://medium.com/p/2888c845914f) |
-| Mon, 18 Aug 2025 23:15:32 GMT | SQL injection vulnerability in the AWS Aurora DSQL MCP Server | Michael Kandelaars | [Read More](https://medium.com/p/b00eea7c85d9) |
-| Mon, 18 Aug 2025 23:08:46 GMT | Recover Your Crypto: A Step-by-Step Guide | Lost Crypto Recovery Service. | [Read More](https://medium.com/p/ebdf457f6c0d) |
