@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 18:39:49 GMT | Cybersecurity — Discover the Top 3 Career & Earnings Growth Strategies | Franklin Rhodes | [Read More](https://medium.com/p/57835a469aeb) |
+| Tue, 19 Aug 2025 18:37:52 GMT | Beyond ‘Secure’: New Framework Measures and Defends Against Federated Learning Attacks | Berend Watchus | [Read More](https://medium.com/p/319f37825dc9) |
+| Tue, 19 Aug 2025 18:35:35 GMT | AWS Security Lab: Implementing Account Governance | Michael Nichols | [Read More](https://medium.com/p/f9a48fe328f2) |
+| Tue, 19 Aug 2025 18:32:04 GMT | Juggling Acts: Game Design Theory, YouTube Dreams, and the Cyber Security Rabbit Hole | Tom Torretti | [Read More](https://medium.com/p/0db862373289) |
 | Tue, 19 Aug 2025 18:28:00 GMT | Vulnerability Assessment Checklists: A Step-by-Step Guide for Stronger Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/c79b5e0af6ce) |
 | Tue, 19 Aug 2025 18:18:50 GMT | TryHackMe: Vulnnet: Active | Adhamkhairy | [Read More](https://medium.com/p/a94178765c93) |
 | Tue, 19 Aug 2025 18:14:44 GMT | Mastering Nmap: The Ultimate Guide for Beginners | Reeti Agarwal | [Read More](https://medium.com/p/209d87c124eb) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 14:10:42 GMT | How I Built My Cloud Security Learning Path in Azure (Beginner-Friendly) — Part 2 | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/d01b61dd6654) |
 | Tue, 19 Aug 2025 14:10:18 GMT | Basic Kali Linux Commands for Beginners | Xenial | [Read More](https://medium.com/p/f3304d0e46bf) |
 | Tue, 19 Aug 2025 14:05:09 GMT | Why Cybersecurity Matters in 2025 (Trends & Future Outlook) | orioninsist | [Read More](https://medium.com/p/8f2b98dcf452) |
-| Tue, 19 Aug 2025 14:02:27 GMT | Cyber Briefing: 2025.08.19 | CyberMaterial | [Read More](https://medium.com/p/56cf5c3065a1) |
-| Tue, 19 Aug 2025 14:02:24 GMT | The Six Security Habits Even Pros Should Revisit | Dhruvdeep Singh | [Read More](https://medium.com/p/33400ff31e5d) |
-| Tue, 19 Aug 2025 14:01:06 GMT | Incident Management 101 Walkthrough — Letsdefend | md_ashmar | [Read More](https://medium.com/p/deb6442210ed) |
-| Tue, 19 Aug 2025 13:58:40 GMT | Adversary Emulation and Threat Detection Cybersecurity Homelab | Sparsh Ladani | [Read More](https://medium.com/p/f1a02fbc2567) |
