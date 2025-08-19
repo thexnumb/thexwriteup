@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 07:13:28 GMT | Cybersecurity Checklist 2025: Essential Guide for New York Businesses | Bootesnull | [Read More](https://medium.com/p/ae073133cdf2) |
+| Tue, 19 Aug 2025 07:11:44 GMT | Let Men Be Human | Nissi Gilgal | [Read More](https://medium.com/p/551f54f34315) |
+| Tue, 19 Aug 2025 07:10:32 GMT | Threat Hunting via LinkedIn OSINT | AbhirupKonwar | [Read More](https://medium.com/p/d8172a245e27) |
+| Tue, 19 Aug 2025 07:07:01 GMT | How to Use Wireshark for Threat Detection | Amol Rangari | [Read More](https://medium.com/p/aa0a90fa028e) |
+| Tue, 19 Aug 2025 07:03:23 GMT | SEC Delays Decisions on Truth Social, Solana and XRP ETFs Until October | Weeklyblockchain | [Read More](https://medium.com/p/705b81f5af15) |
+| Tue, 19 Aug 2025 07:02:03 GMT | EDR Killer: Ransomware’s First Strike | Meni Tasa (@CyberBriefProject) | [Read More](https://medium.com/p/8159433588ab) |
+| Tue, 19 Aug 2025 07:01:11 GMT | The Ultimate Guide to API Hacking in 2025: From Basics to Advanced Exploits | Farhan Alam | [Read More](https://medium.com/p/fa31be273c5f) |
+| Tue, 19 Aug 2025 06:57:00 GMT | DNS in Forensics: The Hidden Goldmine for Threat Hunting | Dean | [Read More](https://medium.com/p/2b1284a74901) |
+| Tue, 19 Aug 2025 06:54:32 GMT | Sosyal Mühendislik Nedir, Nasıl Korunur? | Gökçe köknel | [Read More](https://medium.com/p/d5552f87eae1) |
+| Tue, 19 Aug 2025 06:42:44 GMT | Strength Without Strength | Transcendent zebra | [Read More](https://medium.com/p/1c229ea7469f) |
+| Tue, 19 Aug 2025 06:42:01 GMT | Cloud Security and Ethical Hacking Online Course with Live Labs | Career Security: Tech Training & Certifications | [Read More](https://medium.com/p/2de75f928c1c) |
+| Tue, 19 Aug 2025 06:39:59 GMT | AI in Penetration Testing: Benefits and Risks | Manisha Chaudhary | [Read More](https://medium.com/p/4d62c24b94bd) |
+| Tue, 19 Aug 2025 06:39:11 GMT | Trusted Network Management Services In India - Net Access India Limited | Gowthammathiew | [Read More](https://medium.com/p/c00a94e9acb0) |
+| Tue, 19 Aug 2025 06:36:24 GMT | From 0 to $1k/Month: Monetizing Cybersecurity Content | Aj | [Read More](https://medium.com/p/a12254b26266) |
+| Tue, 19 Aug 2025 06:35:56 GMT | SafeLine WAF Setup Guide — Protecting Your Homelab Apps Like a Pro | Quella | [Read More](https://medium.com/p/8e3d3bc6a7ce) |
+| Tue, 19 Aug 2025 06:30:37 GMT | How to Change Your Wi-Fi Password in Three Easy Steps | Spokeo People Search | [Read More](https://medium.com/p/228f2007818d) |
+| Tue, 19 Aug 2025 06:27:41 GMT | Access to Sensitive or Restricted Information is Controlled: Security and Compliance | Brian Davis | [Read More](https://medium.com/p/ee844dc25d8b) |
 | Tue, 19 Aug 2025 06:27:38 GMT | Secure AI Agent Execution: Sandboxes, Guardrails, and the Future of Trustless Code | Dave Patten | [Read More](https://medium.com/p/e4975500a4b8) |
 | Tue, 19 Aug 2025 06:24:15 GMT | Cybersecurity Questions to Ask Your QA Provider | Anna | [Read More](https://medium.com/p/7e5e7970560c) |
 | Tue, 19 Aug 2025 06:20:54 GMT | Top Cyber Security Tips Everyone Should Know | Sanajahfer | [Read More](https://medium.com/p/529fa21bf671) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 22:48:48 GMT | CyberTalents: Mailer writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/5fd332fe6503) |
 | Mon, 18 Aug 2025 22:41:00 GMT | Forensics: scriptCTF 2025-PDF Writeup | Rana chouchane - QU33NR | [Read More](https://medium.com/p/5d1960492635) |
 | Mon, 18 Aug 2025 22:38:54 GMT | Why Agentic AI Startups Will Struggle Against Cybersecurity Incumbents | Nick Heudecker | [Read More](https://medium.com/p/7750f6569deb) |
-| Mon, 18 Aug 2025 22:32:49 GMT | Set It and Forget It: How to Kill 80% of Cyber Threats in 1 Hour | Cyber-AppSec | [Read More](https://medium.com/p/4bf40bbe5ec8) |
-| Mon, 18 Aug 2025 22:16:15 GMT | Hunting for Ransomware in Active Directory Environments | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d1c09b95c684) |
-| Mon, 18 Aug 2025 22:10:48 GMT | Forensics: scriptCTF 2025-diskchal Writeup | Rana chouchane | [Read More](https://medium.com/p/4db1025a0e82) |
-| Mon, 18 Aug 2025 22:01:59 GMT | When Code Turns Carnivore: The Night Technical Debt Ate Your AI | James Kuhman | [Read More](https://medium.com/p/659d7df959dc) |
-| Mon, 18 Aug 2025 21:57:32 GMT | Hire a hacker | Hiltonbradley | [Read More](https://medium.com/p/02384ed7ce5e) |
-| Mon, 18 Aug 2025 21:56:17 GMT | The Cognitive Load of AI in Cybersecurity: A Blue Team View | Titus | [Read More](https://medium.com/p/b323535b695f) |
-| Mon, 18 Aug 2025 21:41:42 GMT | Step-by-Step Guide: Create Your Own Cybersecurity Lab Using VirtualBox | Emmanuel Guerra Martínez | [Read More](https://medium.com/p/511f7a23ff8d) |
-| Mon, 18 Aug 2025 21:30:04 GMT | here’s how I recover my money from smartstp | Mathew | [Read More](https://medium.com/p/fa439253164f) |
-| Mon, 18 Aug 2025 21:29:03 GMT | Can AI Really Catch a Phish? | Yash Gorasiya | [Read More](https://medium.com/p/ae70f6c55f66) |
-| Mon, 18 Aug 2025 21:28:46 GMT | The Future of Cybersecurity: AI, Cloud Security, and Mass Surveillance | Om Kinkhabwala | [Read More](https://medium.com/p/9c42361ba255) |
-| Mon, 18 Aug 2025 21:22:48 GMT | AI, Safely: A 15-Minute Guide for Everyday People | Larry Perkins Jr | [Read More](https://medium.com/p/5d57fc44a255) |
-| Mon, 18 Aug 2025 21:22:45 GMT | Ransomware Is Getting Smarter. Are We? | Patrick Dougherty | [Read More](https://medium.com/p/c7108710cb88) |
-| Mon, 18 Aug 2025 21:19:11 GMT | Cyber colleagues, in the “Google Cybersecurity Professional Certificate” program you will… | Franklin Rhodes | [Read More](https://medium.com/p/4eb495f9ec8a) |
-| Mon, 18 Aug 2025 20:59:25 GMT | Introduction to x86 Reverse Engineering! | Azefox innovations | [Read More](https://medium.com/p/a87e104333f9) |
-| Mon, 18 Aug 2025 20:57:09 GMT | Cyber Resilience Act Executive Guide (10-Part Series) | Cyberkech | [Read More](https://medium.com/p/2792182197b1) |
-| Mon, 18 Aug 2025 20:54:11 GMT | Hiding Payload in PNGs | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8c3effeed964) |
-| Mon, 18 Aug 2025 20:53:30 GMT | Must-Have OSINT Tools for CTF and Investigative Missions | zerOiQ | [Read More](https://medium.com/p/4ad79b815f5b) |
