@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 03:53:03 GMT | The AI Era Needs Cyber Guardians: Why GRC is the New Frontier in Cybersecurity Careers | Dr. Deep Pandey | [Read More](https://medium.com/p/cff773e99b8b) |
+| Tue, 19 Aug 2025 03:48:40 GMT | How AI Is Supercharging Phishing: And How We Can Fight Back | Gaurang Katyal | [Read More](https://medium.com/p/7e1bc58fb4ca) |
+| Tue, 19 Aug 2025 03:39:09 GMT | The Windows Process Journey — rdpsign.exe (Remote Desktop Session Host Server Sign Tool) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4257be3230ff) |
+| Tue, 19 Aug 2025 03:22:09 GMT | Why Everyone is Switching from Windows to Linux in 2025: The Great Migration Has Begun | Likhoindustry | [Read More](https://medium.com/p/2570c0efc119) |
+| Tue, 19 Aug 2025 03:19:52 GMT | Smartbi RCE Vulnerability — Patch Now Before Attackers Do | Quella | [Read More](https://medium.com/p/37f8d6a2a9f5) |
+| Tue, 19 Aug 2025 03:12:47 GMT | Layered Privacy Notices | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/5dfbf9115573) |
+| Tue, 19 Aug 2025 03:10:08 GMT | Server-Side Template Injection in a Sandboxed Environment: Escaping Freemarker Template… | Bash Overflow | [Read More](https://medium.com/p/b704536b5181) |
 | Tue, 19 Aug 2025 02:52:38 GMT | TryHackMe — SQL Injection Lab | Cyber Anom | [Read More](https://medium.com/p/3deb780f46f5) |
 | Tue, 19 Aug 2025 02:46:39 GMT | SMT Program 2025 CTF Journey: From File Inclusion to SQL Injection | Hildan Kusto Utomo | [Read More](https://medium.com/p/96e891d3b1d2) |
 | Tue, 19 Aug 2025 02:43:01 GMT | The Advantages of Quantum Computing | Dukerearing | [Read More](https://medium.com/p/e3128b37f4a3) |
@@ -106,10 +113,3 @@ By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
 | Mon, 18 Aug 2025 18:10:46 GMT | MD2PDF - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/c3628292a4af) |
 | Mon, 18 Aug 2025 18:06:38 GMT | The Importance of Legal Directory Listings for Your Practice | Marilyn Jenkins | [Read More](https://medium.com/p/fe2711198f74) |
 | Mon, 18 Aug 2025 18:03:26 GMT | Vulnerabilities related to Port 21 | Akashyadav | [Read More](https://medium.com/p/730e8ad9daf0) |
-| Mon, 18 Aug 2025 17:57:45 GMT | A Shared Reality: New Microsoft Paper on Self-Correcting Code Diffusion Model Aligns with Berend… | Berend Watchus | [Read More](https://medium.com/p/22fd10e86a0d) |
-| Mon, 18 Aug 2025 17:54:39 GMT | The Rise of Cricket Flour: Protein for the Future | Patrick E McCormack | [Read More](https://medium.com/p/2c075ca6765d) |
-| Mon, 18 Aug 2025 17:53:32 GMT | The Hidden Art of Steganography: Concealing Secrets in Plain Sight | Vanessa Komugisha | [Read More](https://medium.com/p/87b352c314a5) |
-| Mon, 18 Aug 2025 17:52:11 GMT | HTB Walkthrough : Reedemer(Redis) | Ahmad Sopyan | [Read More](https://medium.com/p/74cbde928a6b) |
-| Mon, 18 Aug 2025 17:44:55 GMT | Qilin Ransomware-as-a-Service: Threat Analysis and Strategic Outlook | BeGoodToAll | [Read More](https://medium.com/p/daf8bd6808b5) |
-| Mon, 18 Aug 2025 17:44:50 GMT | [MobileHackingLab] Secure Notes | z3r0xk.h | [Read More](https://medium.com/p/262975354696) |
-| Mon, 18 Aug 2025 17:44:28 GMT | [MobileHackingLab] IoT Connect | z3r0xk.h | [Read More](https://medium.com/p/d60e40ea1d17) |
