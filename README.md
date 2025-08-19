@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 10:12:17 GMT | Verinin Değil, Sessizliğin Gücü: Ne Paylaşmadığımız Bizi Tanımlar mı? | AYŞE KIZILAY | [Read More](https://medium.com/p/76c76d7b5506) |
+| Tue, 19 Aug 2025 10:06:50 GMT | The Digital Immune System: How AI hunts Cyber Threats While You Sleep | Saurabh Sharma | [Read More](https://medium.com/p/663442155217) |
+| Tue, 19 Aug 2025 10:03:31 GMT | Chapter 4 , Episode 2: When I Tried to Open Up and Got Hurt Again | Tredeblez | [Read More](https://medium.com/p/16f8f98a6d07) |
+| Tue, 19 Aug 2025 09:43:13 GMT | What I Learned at DEFCON: AI Malware, Quantum Threats & a Crash Course in Human Psychology | Alex Hughes | [Read More](https://medium.com/p/b5bcac706a95) |
+| Tue, 19 Aug 2025 09:38:31 GMT | Challenges: ColddBox: Easy (TryHackMe) | Jebitok | [Read More](https://medium.com/p/e7dbfc56fab2) |
 | Tue, 19 Aug 2025 09:37:24 GMT | Giải pháp lắp đặt camera quầy thu ngân — Giám sát an ninh & giao dịch hiệu quả | DaiAnGroup | [Read More](https://medium.com/p/15f7e9ec2225) |
+| Tue, 19 Aug 2025 09:34:07 GMT | JWT Unlocked: How Tokens Work and How They’re Exploited. | Samuel Jack | [Read More](https://medium.com/p/4fe92c4dbff9) |
 | Tue, 19 Aug 2025 09:32:50 GMT | Mastering the Art of Communication as a Help Desk Support | Cyber Timi | [Read More](https://medium.com/p/468db62e85c8) |
 | Tue, 19 Aug 2025 09:27:36 GMT | Run This Malware for Your Friends! | Rona Ega Kharisma | [Read More](https://medium.com/p/3e525bddf63d) |
 | Tue, 19 Aug 2025 09:25:19 GMT | Patrolling Security Guard Services in Hyderabad — Ensure 24/7 Safety | Group 24/7 Security Services | [Read More](https://medium.com/p/6a04b8918143) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 04:34:55 GMT | Is SQL Still the King in Modern Web Dev? | Rizqi Mulki | [Read More](https://medium.com/p/4a1bb6c73046) |
 | Tue, 19 Aug 2025 04:30:39 GMT | Is SQL Still the King in Modern Web Dev? | Rizqi Mulki | [Read More](https://medium.com/p/b3c23012edf6) |
 | Tue, 19 Aug 2025 04:26:04 GMT | The $127,000 Hosting Bill That Could Have Been $47 (True Story) | Rizqi Mulki | [Read More](https://medium.com/p/add407553482) |
-| Tue, 19 Aug 2025 04:15:40 GMT | Day 36- Common Network Protocols with Commands & Interview Questions for beginners | unica 02 | [Read More](https://medium.com/p/c9e387e4140e) |
-| Tue, 19 Aug 2025 04:15:36 GMT | The Rose Remains | Asuma Jalloh | [Read More](https://medium.com/p/ae84aa61e6f9) |
-| Tue, 19 Aug 2025 04:12:23 GMT | Forensics - picoGym - tunn3l v1s10n | Flower Bed | [Read More](https://medium.com/p/b3f4e712b380) |
-| Tue, 19 Aug 2025 04:06:52 GMT | How to Bypass SSL Pinning in Android Apps: Step-by-Step Guide with Tools and Examples -Part 1 | Y_s0_s3r10us | [Read More](https://medium.com/p/0a84b5738c1f) |
-| Tue, 19 Aug 2025 04:04:59 GMT | What is Cybersecurity? A Beginner’s Guide to Staying Safe Online | Afzan | [Read More](https://medium.com/p/a2d0e2955824) |
-| Tue, 19 Aug 2025 03:55:24 GMT | SafeLine WAF — The Self-Hosted Firewall Every Homelab Needs | Quella | [Read More](https://medium.com/p/26352ca4a236) |
