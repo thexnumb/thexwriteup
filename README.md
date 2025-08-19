@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 14:18:57 GMT | Pentester Nepal x NCA CTF 2025 #ePaisa | Solomon Hexa | [Read More](https://medium.com/p/9990e16f365f) |
+| Tue, 19 Aug 2025 14:16:07 GMT | Gold Tin Alloy Solder Market: Unlocking Innovations and Driving Future Growth | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/b6142869dddf) |
+| Tue, 19 Aug 2025 14:15:25 GMT | Cyber Threat Intelligence (CTI) — Everything you need to know Imagine being a junior analyst who… | Genrunic | [Read More](https://medium.com/p/4dc4857d5346) |
+| Tue, 19 Aug 2025 14:10:42 GMT | How I Built My Cloud Security Learning Path in Azure (Beginner-Friendly) — Part 2 | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/d01b61dd6654) |
+| Tue, 19 Aug 2025 14:10:18 GMT | Basic Kali Linux Commands for Beginners | Xenial | [Read More](https://medium.com/p/f3304d0e46bf) |
+| Tue, 19 Aug 2025 14:05:09 GMT | Why Cybersecurity Matters in 2025 (Trends & Future Outlook) | orioninsist | [Read More](https://medium.com/p/8f2b98dcf452) |
+| Tue, 19 Aug 2025 14:02:27 GMT | Cyber Briefing: 2025.08.19 | CyberMaterial | [Read More](https://medium.com/p/56cf5c3065a1) |
+| Tue, 19 Aug 2025 14:02:24 GMT | The Six Security Habits Even Pros Should Revisit | Dhruvdeep Singh | [Read More](https://medium.com/p/33400ff31e5d) |
+| Tue, 19 Aug 2025 14:01:06 GMT | Incident Management 101 Walkthrough — Letsdefend | md_ashmar | [Read More](https://medium.com/p/deb6442210ed) |
+| Tue, 19 Aug 2025 13:58:40 GMT | Adversary Emulation and Threat Detection Cybersecurity Homelab | Sparsh Ladani | [Read More](https://medium.com/p/f1a02fbc2567) |
+| Tue, 19 Aug 2025 13:58:37 GMT | The Logical Beginner Method That Found My First Bug | Ibtissam hammadi | [Read More](https://medium.com/p/10dd406577bb) |
+| Tue, 19 Aug 2025 13:48:02 GMT | The Quiet Place Where Love Returns | Ge | [Read More](https://medium.com/p/3452fcc55562) |
+| Tue, 19 Aug 2025 13:47:19 GMT | What is Cybersecurity? (Beginner’s Guide for 2025) | orioninsist | [Read More](https://medium.com/p/27835698ee9e) |
+| Tue, 19 Aug 2025 13:46:29 GMT | Trusted Computing Base (TCB): The Foundation of System Security | Raviteja Mureboina | [Read More](https://medium.com/p/a66726b2b6ce) |
+| Tue, 19 Aug 2025 13:33:43 GMT | base knowledge(hacker association CTF) | Baraa Hesham | [Read More](https://medium.com/p/1d52891c17e2) |
+| Tue, 19 Aug 2025 13:31:29 GMT | Smart Contract Audit Cost in 2025 / 2026 | Ootk | [Read More](https://medium.com/p/edeb3f4abb13) |
 | Tue, 19 Aug 2025 13:18:32 GMT | Broken Authentication in Web Applications: The Silent Killer of Security | sukhveer singh | [Read More](https://medium.com/p/b31de7404862) |
 | Tue, 19 Aug 2025 13:16:32 GMT | My First Bug-Hunting Adventure: A Privilege Escalation Tale | 0xMoussa | [Read More](https://medium.com/p/89aad782981f) |
 | Tue, 19 Aug 2025 13:14:36 GMT | Cybersecurity Certifications That Can Boost Your Career Path | Divyanshi kulkarni | [Read More](https://medium.com/p/fc0c50e46557) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 09:24:45 GMT | Lắp đặt hệ thống camera ngân hàng: Giải pháp giám sát an ninh toàn diện | DaiAnGroup | [Read More](https://medium.com/p/9ab03f6728b0) |
 | Tue, 19 Aug 2025 09:23:28 GMT | Encryption Key Control in SaaS Deployments | Sandeep Agarwal | [Read More](https://medium.com/p/fd67e8bc6af5) |
 | Tue, 19 Aug 2025 09:20:15 GMT | How M365 & Microsoft Certified Partner Can Transform Employee Productivity | IFI Techsolutions | [Read More](https://medium.com/p/50ae3e603519) |
-| Tue, 19 Aug 2025 09:16:31 GMT | CCTV for Corporate Offices in Hyderabad — Secure Your Workplace | Smart Secures | [Read More](https://medium.com/p/1191773a14a8) |
-| Tue, 19 Aug 2025 09:12:00 GMT | Reconocimiento web sin herramientas comunes: un método manual para bug bounty hunters | Gorka | [Read More](https://medium.com/p/1dbfbc2f3b5a) |
-| Tue, 19 Aug 2025 09:11:08 GMT | Membongkar Gambar Tersembunyi dari CTF Noise | Bonar | [Read More](https://medium.com/p/e18819459a8c) |
-| Tue, 19 Aug 2025 09:10:27 GMT | Burnout: The Silent Scream of the Mind | Odair Comin | [Read More](https://medium.com/p/8f979e90651a) |
-| Tue, 19 Aug 2025 09:02:12 GMT | Prevent SQL Injection in React.js: A 2025 Guide | Pentest_Testing_Corp | [Read More](https://medium.com/p/3a66a18e0f9b) |
-| Tue, 19 Aug 2025 09:01:58 GMT | Passing OSEP in 4 Hrs!? (PEN-300 OSEP Review) | n000b3r | [Read More](https://medium.com/p/deeec11c0515) |
-| Tue, 19 Aug 2025 09:01:55 GMT | Learn Cybersecurity and AI & ML | Balan M | [Read More](https://medium.com/p/3eef228816d0) |
-| Tue, 19 Aug 2025 09:01:37 GMT | Worried About Home Security? Crimsafe Screens Offer Peace of Mind | Brisbane Security Screens | [Read More](https://medium.com/p/ced3299d5229) |
-| Tue, 19 Aug 2025 09:00:48 GMT | Securing Sensitive Data in Spring Boot with application.properties and Launch Files | Anh Trần Tuấn | [Read More](https://medium.com/p/e80d011c4c82) |
-| Tue, 19 Aug 2025 09:00:44 GMT | Securing Sensitive Data in Spring Boot with application.properties and Launch Files | Anh Trần Tuấn | [Read More](https://medium.com/p/ad401f23c773) |
-| Tue, 19 Aug 2025 08:58:22 GMT | Forensics - picoGym - Wireshark twoo twooo two twoo… | Flower Bed | [Read More](https://medium.com/p/b69a5552cfa4) |
-| Tue, 19 Aug 2025 08:58:16 GMT | Rearrange | maydayhobby | [Read More](https://medium.com/p/c08f9e6ce906) |
-| Tue, 19 Aug 2025 08:57:59 GMT | Self-Hosted AI in DevSecOps: The Next Evolution of AppSec | Taulan Zauzanov | [Read More](https://medium.com/p/4903965055ff) |
-| Tue, 19 Aug 2025 08:52:44 GMT | Trust No One: The Basics of Zero Trust Security | Magdaline Arianda | [Read More](https://medium.com/p/8bd3d7d4c8d9) |
-| Tue, 19 Aug 2025 08:37:18 GMT | Palo Alto GlobalProtect VPN Monitorinqi: Python + Telegram ilə real-time xəbərdarlıqlar | Ismayil Aghayev | [Read More](https://medium.com/p/d4346706ce4f) |
-| Tue, 19 Aug 2025 08:14:08 GMT | Beyond Best-Effort: Enterprise Resilience for Tbps+ DDoS | Aziz Sasmaz | [Read More](https://medium.com/p/bdb320f06da1) |
