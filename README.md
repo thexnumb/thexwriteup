@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 11:17:31 GMT | ️ Eradication & Remediation: The True Cleanup Phase of Incident Response | Furkanctiner | [Read More](https://medium.com/p/5c4d12fe1f50) |
+| Tue, 19 Aug 2025 11:10:41 GMT | ️ Threat Intel & Containment — TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/1f7cde6bb445) |
+| Tue, 19 Aug 2025 11:07:08 GMT | Ponzi Schemes in Web3: An Old Scam in New Clothes. | Bright Mmaduabuchi | [Read More](https://medium.com/p/0522778346b2) |
+| Tue, 19 Aug 2025 11:01:58 GMT | Engaging Vendors to Prepare Your Supply Chain for the Post-Quantum Era | Left4Zed | [Read More](https://medium.com/p/16d2d6e0e4cb) |
+| Tue, 19 Aug 2025 11:01:57 GMT | Neighbour Tryhackme Walkthrough | Mehdi Ben Fredj | [Read More](https://medium.com/p/7134b4f1ab4a) |
+| Tue, 19 Aug 2025 10:57:03 GMT | The Story Behind OAuth (and Why It Matters to Us Today) | Aditya Ramaswamy | [Read More](https://medium.com/p/70d832ff2ffa) |
+| Tue, 19 Aug 2025 10:52:18 GMT | Pentester Academy XSS labs | ZVirtuoso | [Read More](https://medium.com/p/c6a257e3d5bb) |
+| Tue, 19 Aug 2025 10:51:42 GMT | The Mind’s Blind Spots: How Cognitive Biases Fuel Cybersecurity Threats | noailabs | [Read More](https://medium.com/p/198d86305ebc) |
+| Tue, 19 Aug 2025 10:42:51 GMT | Understanding MDR In Cyber Security | Ai Writter Tools | [Read More](https://medium.com/p/58d43d01d885) |
 | Tue, 19 Aug 2025 10:38:21 GMT | Top 10 Information Technology Companies in India: Comprehensive Guide 2025–2026 | Intileo Technologies | [Read More](https://medium.com/p/af7e00854971) |
 | Tue, 19 Aug 2025 10:37:07 GMT | Dari Teori ke Praktik: SSRF, File Inclusion, dan Command Injection | veliadevs | [Read More](https://medium.com/p/19bbdab30d9d) |
 | Tue, 19 Aug 2025 10:35:00 GMT | HTB Administrator Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/f8273a004044) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 05:54:54 GMT | Zero Trust Security: Why It’s No Longer Optional | Abida Adra | [Read More](https://medium.com/p/413cbcbef6ab) |
 | Tue, 19 Aug 2025 05:50:24 GMT | Why Drosera’s Trap-Based Security Model is the Future of Web3 Defense | Big Shakes | [Read More](https://medium.com/p/0bccc06aac46) |
 | Tue, 19 Aug 2025 05:36:37 GMT | Why Every Organization Needs Enterprise Content Management Solutions in 2025 | Quadrant IT Services | [Read More](https://medium.com/p/56fa0480f6cd) |
-| Tue, 19 Aug 2025 05:36:29 GMT | Alexander the Great and the lesson of leadership in cybersecurity | Martin Abramov | [Read More](https://medium.com/p/2c806d583929) |
-| Tue, 19 Aug 2025 05:35:17 GMT | “Behind the Screen: The Dark Side of Digital Working” | Muntha sittara | [Read More](https://medium.com/p/69f96c9d3225) |
-| Tue, 19 Aug 2025 05:35:16 GMT | Ensuring the Security of Your Mobile Application | Functioning Media University | [Read More](https://medium.com/p/6fe04d04a254) |
-| Tue, 19 Aug 2025 05:26:46 GMT | Realtime IP Geolocation Dashboard: From Log Monitoring to Interactive Security Map | Oky Dwi Prasetyo | [Read More](https://medium.com/p/1914127fac1b) |
-| Tue, 19 Aug 2025 05:22:59 GMT | Cortex Cloud Runtime Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/59237cf9cf72) |
-| Tue, 19 Aug 2025 05:20:39 GMT | HIPAA Compliance Made Simple: A Practical Self-Assessment Checklist for HealthTech Teams | Sekurno | [Read More](https://medium.com/p/c483ae8f2797) |
-| Tue, 19 Aug 2025 05:17:36 GMT | CSRF, CORS, and Security Headers in Django Explained | Priyanshu Rajput | [Read More](https://medium.com/p/cf438b3ae69c) |
-| Tue, 19 Aug 2025 05:05:14 GMT | RBI’s FREE-AI Framework: What CISOs Should Pay Attention To | Suresh Shanmugam | [Read More](https://medium.com/p/ded4fbefaa2e) |
-| Tue, 19 Aug 2025 04:59:43 GMT | Introduction to software — explained | Aanya Ali | [Read More](https://medium.com/p/0df31d8432f1) |
