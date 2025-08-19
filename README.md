@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 02:52:38 GMT | TryHackMe — SQL Injection Lab | Cyber Anom | [Read More](https://medium.com/p/3deb780f46f5) |
+| Tue, 19 Aug 2025 02:46:39 GMT | SMT Program 2025 CTF Journey: From File Inclusion to SQL Injection | Hildan Kusto Utomo | [Read More](https://medium.com/p/96e891d3b1d2) |
+| Tue, 19 Aug 2025 02:43:01 GMT | The Advantages of Quantum Computing | Dukerearing | [Read More](https://medium.com/p/e3128b37f4a3) |
+| Tue, 19 Aug 2025 02:32:13 GMT | AI-Powered Smart Security: How Kompas.ai is Reshaping Urban Safety | Zhangshuang | [Read More](https://medium.com/p/2c755623073f) |
+| Tue, 19 Aug 2025 02:32:01 GMT | Cybersecurity Laws in 2025: What You Need to Know | Parth Patel | [Read More](https://medium.com/p/64dbb408348c) |
+| Tue, 19 Aug 2025 02:30:04 GMT | When Did Every Tech Solution Become ‘AI-Powered’? | Matt Youman | [Read More](https://medium.com/p/0c5c108872ea) |
+| Tue, 19 Aug 2025 02:27:09 GMT | When the Interview Fails but the Security Does Too | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/d871ccc47da8) |
+| Tue, 19 Aug 2025 01:58:55 GMT | AEM as a Cloud Service : Security Vulnerabilities and Defense Strategies | Sid Lnu | [Read More](https://medium.com/p/fc92065cd5bb) |
+| Tue, 19 Aug 2025 01:44:25 GMT | Turkey Enacts Sweeping Cybersecurity Law With Harsh Penalties | SafetyDetectives Research Team | [Read More](https://medium.com/p/0e3be357d2b0) |
 | Tue, 19 Aug 2025 01:07:56 GMT | Unlocking the True Power of JavaScript Closures in 2025 | Babar saad | [Read More](https://medium.com/p/7de897a57b10) |
 | Tue, 19 Aug 2025 01:04:36 GMT | SecurityX (CASP+) Journey | Casey F. Bond | [Read More](https://medium.com/p/b389771d2e48) |
 | Tue, 19 Aug 2025 00:58:00 GMT | How I Found an IDOR in private Bug hunting program(After a Day of Nothing) | Rishabh kumar | [Read More](https://medium.com/p/5987a72357a6) |
@@ -104,12 +113,3 @@ By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
 | Mon, 18 Aug 2025 17:44:55 GMT | Qilin Ransomware-as-a-Service: Threat Analysis and Strategic Outlook | BeGoodToAll | [Read More](https://medium.com/p/daf8bd6808b5) |
 | Mon, 18 Aug 2025 17:44:50 GMT | [MobileHackingLab] Secure Notes | z3r0xk.h | [Read More](https://medium.com/p/262975354696) |
 | Mon, 18 Aug 2025 17:44:28 GMT | [MobileHackingLab] IoT Connect | z3r0xk.h | [Read More](https://medium.com/p/d60e40ea1d17) |
-| Mon, 18 Aug 2025 17:44:10 GMT | [MobileHackingLab] Guess-me | z3r0xk.h | [Read More](https://medium.com/p/9f178760f43d) |
-| Mon, 18 Aug 2025 17:36:49 GMT | Spy for Instagram Made Simple: Monitor Accounts in Real Time | Narjis Batool | [Read More](https://medium.com/p/70891bfaec75) |
-| Mon, 18 Aug 2025 17:27:56 GMT | CVE-2025–49113 — Roundcube 1.6.10 Remote Code Execution | CyberQuestor | [Read More](https://medium.com/p/0598e7944361) |
-| Mon, 18 Aug 2025 17:22:50 GMT | VoxCrypt Major Update: Smarter, Stronger, and More Visual | Codepontiff | [Read More](https://medium.com/p/27cc266dbc38) |
-| Mon, 18 Aug 2025 17:21:20 GMT | Day 10: AWS Global infrastructure | Prathamlondhe | [Read More](https://medium.com/p/6fbbe007ec1f) |
-| Mon, 18 Aug 2025 17:19:10 GMT | The #1 Mistake That Gets You Hacked (And How to Fix It) | Sneha Rani | [Read More](https://medium.com/p/d881cf0eb692) |
-| Mon, 18 Aug 2025 17:18:13 GMT | The Future of Identity Protection in a Crowded Cybersecurity Market | Dr. Shashi Karhail | [Read More](https://medium.com/p/d082e1a6854e) |
-| Mon, 18 Aug 2025 17:16:14 GMT | Ascon: NIST’s Lightweight Cryptography Standard for the IoT Era | Ankit Kalbande | [Read More](https://medium.com/p/3e95b9f0a244) |
-| Mon, 18 Aug 2025 17:07:26 GMT | Introduction to SOC Fundamentals: A Guide for Aspiring Analysts | Williammeed | [Read More](https://medium.com/p/0c79fafa38dd) |
