@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 17:15:25 GMT | How I Built a Machine Learning Model to Detect Phishing Attacks | Aj | [Read More](https://medium.com/p/72a31b179117) |
+| Tue, 19 Aug 2025 17:03:14 GMT | Tools Every Bug Bounty Hunter Should Know for Reconnaissance | Aju Deb | [Read More](https://medium.com/p/822c2a04b6f7) |
+| Tue, 19 Aug 2025 17:01:59 GMT | API Security: Best Practices to Protect Your APIs in 2025 | habtesoft | [Read More](https://medium.com/p/77acf84dc1fb) |
+| Tue, 19 Aug 2025 17:01:10 GMT | 9 Marcus Aurelius Quotes You’ll Never Forget | Vijay Kumar Gupta | [Read More](https://medium.com/p/a8fdaadc75ad) |
+| Tue, 19 Aug 2025 17:01:04 GMT | RUSTSCAN | vulnhunter | [Read More](https://medium.com/p/5c2a3c1ac79b) |
+| Tue, 19 Aug 2025 16:57:58 GMT | Optimizing Static Application Security Testing (SAST) with Semgrep & Gemini CLI | SAEED | [Read More](https://medium.com/p/b4152e0307c6) |
+| Tue, 19 Aug 2025 16:57:09 GMT | The Hidden Cost of Security: Why Vendors Should Stop Charging for Single Sign-On (SSO) | Marko | [Read More](https://medium.com/p/e1e14fb9bc53) |
+| Tue, 19 Aug 2025 16:55:54 GMT | Windows Detection Events | Neetrox | [Read More](https://medium.com/p/da37ec14b1da) |
+| Tue, 19 Aug 2025 16:54:00 GMT | How to Add Users, Groups, and Group Rules in Okta | James Rawlings | [Read More](https://medium.com/p/191886dcac49) |
+| Tue, 19 Aug 2025 16:53:26 GMT | PG Practice — ClamAV (Linux) | Lepton | [Read More](https://medium.com/p/0485f8fff9d8) |
+| Tue, 19 Aug 2025 16:50:22 GMT | CyberDefenders — Network Forensic Labs | Jaws | [Read More](https://medium.com/p/74b7bf402bb2) |
+| Tue, 19 Aug 2025 16:50:00 GMT | HTB Walkthrough : Preignition(HTTP) | Ahmad Sopyan | [Read More](https://medium.com/p/3332805321eb) |
+| Tue, 19 Aug 2025 16:48:07 GMT | BeEF Framework Nedir / Nasıl Kullanılır ? | Berat K. | [Read More](https://medium.com/p/73f5e75420c3) |
 | Tue, 19 Aug 2025 16:43:28 GMT | How I Use AI to Learn Cybersecurity 10x Faster (And How You Can Too) | Paritosh | [Read More](https://medium.com/p/bdac0a7a79e7) |
 | Tue, 19 Aug 2025 16:38:34 GMT | Do You Know What Happens Before Your Browser Shows HTTPS? | Nishanth R | [Read More](https://medium.com/p/01ac06568cd1) |
 | Tue, 19 Aug 2025 16:31:17 GMT | JSsear | Adham Heinrich | [Read More](https://medium.com/p/271c235284be) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 13:01:01 GMT | “I’m Tired of Being a Girl” — The Exhaustion of Womanhood No One Talks About | Maria Arshad | [Read More](https://medium.com/p/a1765e5d95b6) |
 | Tue, 19 Aug 2025 13:00:52 GMT | Are we saying “Yes” to growth, or stuck in “Maybe”? | EXLITY | [Read More](https://medium.com/p/33d5a6a1f6ab) |
 | Tue, 19 Aug 2025 12:58:58 GMT | I will craft a telecommunication, consultant, cyber security, and engineering resume in 24 hour | Ofgodmercy | [Read More](https://medium.com/p/f86024c31f46) |
-| Tue, 19 Aug 2025 12:58:54 GMT | How the Dutch Protect Their IDs Before Sharing (And How You Can Too) | CVOR | [Read More](https://medium.com/p/393ac4963cca) |
-| Tue, 19 Aug 2025 12:56:59 GMT | Transforming IT Service Management with ServiceNow ITSM Automation | ACI Infotech | [Read More](https://medium.com/p/aabac81f6baa) |
-| Tue, 19 Aug 2025 12:55:47 GMT | SQL Injection: A Complete Guide | Beyza Özbay | [Read More](https://medium.com/p/96cd6311eea7) |
-| Tue, 19 Aug 2025 12:54:00 GMT | How Cyber Experts Detect Hidden Malicious Code in Software | Cybersecurity Umbrella | [Read More](https://medium.com/p/8bbd959f05f8) |
-| Tue, 19 Aug 2025 12:52:16 GMT | Why AI Security Certification Is Becoming a Global Cybersecurity Standard | Virat Solanki | [Read More](https://medium.com/p/cdde3fdcf526) |
-| Tue, 19 Aug 2025 12:38:17 GMT | CISA Mandates Phishing-Resistant MFA | Token: Next-Generation, Phishing-Proof MFA | [Read More](https://medium.com/p/44d314c18cbc) |
-| Tue, 19 Aug 2025 12:35:47 GMT | What are the ethical concerns in AI monitoring for security? | sanya | [Read More](https://medium.com/p/4443a36f7963) |
-| Tue, 19 Aug 2025 12:33:16 GMT | Part 3 — Outsmarting the Shapeshifters: Combating Polymorphic Malware and Evasive Threats | Sammcmullen | [Read More](https://medium.com/p/833e5bc40802) |
-| Tue, 19 Aug 2025 12:33:12 GMT | Overcoming Key Challenges in IT Infrastructure Management | Uma Netaccess | [Read More](https://medium.com/p/ba404893c854) |
-| Tue, 19 Aug 2025 12:33:09 GMT | How to Become a SOC Analyst in 2025 (Step by Step Guide) | orioninsist | [Read More](https://medium.com/p/0caf2da86b8a) |
-| Tue, 19 Aug 2025 12:31:58 GMT | Testing out some shell scripting about creating logs with random messages, filter logs for… | Tyrik Emptage | [Read More](https://medium.com/p/d22c46f877fc) |
-| Tue, 19 Aug 2025 12:28:04 GMT | Transform Business with NetSuite Implementation Services | Daman Verma | [Read More](https://medium.com/p/461a0dc41397) |
-| Tue, 19 Aug 2025 12:27:07 GMT | What Is a Phishing Link? How to Spot and Avoid Online Scams | Timónofearth | [Read More](https://medium.com/p/0fe5ae896d9b) |
