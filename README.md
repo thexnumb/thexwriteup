@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 17:34:58 GMT | Who goes there? Authn & Authz | Harish Thuwal | [Read More](https://medium.com/p/61c51107812a) |
+| Tue, 19 Aug 2025 17:25:39 GMT | Seeking New (international)Cyber Talent: International Summer School Kicks Off in The Hague | Berend Watchus | [Read More](https://medium.com/p/2aa20c861eed) |
+| Tue, 19 Aug 2025 17:20:45 GMT | The Identity Wars -Episode 5 | Amey Rugge | [Read More](https://medium.com/p/75480979d2bf) |
+| Tue, 19 Aug 2025 17:15:29 GMT | Perplexity AI Is Not an Indian Company, Here’s What You Should Know | NIkhil Kumar | [Read More](https://medium.com/p/c2e42454345f) |
 | Tue, 19 Aug 2025 17:15:25 GMT | How I Built a Machine Learning Model to Detect Phishing Attacks | Aj | [Read More](https://medium.com/p/72a31b179117) |
+| Tue, 19 Aug 2025 17:13:41 GMT | Brooklyn Nine Nine TryHackMe Walkthrough — Step-by-Step Beginner’s Guide | Prajwal | [Read More](https://medium.com/p/f61ed5223224) |
 | Tue, 19 Aug 2025 17:03:14 GMT | Tools Every Bug Bounty Hunter Should Know for Reconnaissance | Aju Deb | [Read More](https://medium.com/p/822c2a04b6f7) |
 | Tue, 19 Aug 2025 17:01:59 GMT | API Security: Best Practices to Protect Your APIs in 2025 | habtesoft | [Read More](https://medium.com/p/77acf84dc1fb) |
 | Tue, 19 Aug 2025 17:01:10 GMT | 9 Marcus Aurelius Quotes You’ll Never Forget | Vijay Kumar Gupta | [Read More](https://medium.com/p/a8fdaadc75ad) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 13:07:00 GMT | ORCA Security: Seeing What the Cloud Tries to Hide | MrGood | [Read More](https://medium.com/p/7b1af4e8bbb6) |
 | Tue, 19 Aug 2025 13:03:16 GMT | Security | Wyatt Mainer | [Read More](https://medium.com/p/f8685ab30dd2) |
 | Tue, 19 Aug 2025 13:02:07 GMT | “G”- The G-R-A-C-E that you need (The Letter- E) | Miss Epic | [Read More](https://medium.com/p/929344ce8fd9) |
-| Tue, 19 Aug 2025 13:02:00 GMT | IPv4 vs IPv6: Why We’re Still Stuck in the Past | Akhil Boddula | [Read More](https://medium.com/p/2de9d96b2316) |
-| Tue, 19 Aug 2025 13:02:00 GMT | Brother Printer Security Flaw — How to Protect Your Device | PremiumPC | [Read More](https://medium.com/p/5d5b5ad51943) |
-| Tue, 19 Aug 2025 13:01:01 GMT | “I’m Tired of Being a Girl” — The Exhaustion of Womanhood No One Talks About | Maria Arshad | [Read More](https://medium.com/p/a1765e5d95b6) |
-| Tue, 19 Aug 2025 13:00:52 GMT | Are we saying “Yes” to growth, or stuck in “Maybe”? | EXLITY | [Read More](https://medium.com/p/33d5a6a1f6ab) |
-| Tue, 19 Aug 2025 12:58:58 GMT | I will craft a telecommunication, consultant, cyber security, and engineering resume in 24 hour | Ofgodmercy | [Read More](https://medium.com/p/f86024c31f46) |
