@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 20:15:49 GMT | Find 10 | Movie Lover | [Read More](https://medium.com/p/b289c78c975d) |
+| Tue, 19 Aug 2025 20:11:42 GMT | Offensive Security: Why It Matters? | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/b953b2e950d3) |
+| Tue, 19 Aug 2025 20:11:17 GMT | What I Learned from CompTIA, EC-Council, ISC2, and SANS — And Which I’d Choose Again | Christina Irick | [Read More](https://medium.com/p/1bf69aefe563) |
+| Tue, 19 Aug 2025 20:06:33 GMT | Intel Internal Data Breach for 270k Workers | Matthew.Rosenquist | [Read More](https://medium.com/p/348dda7546f1) |
+| Tue, 19 Aug 2025 20:06:12 GMT | SOCFortress CoPilot Update: Expanding Our AI Chatbot with Threat Intel, Cyber News, Knowledge Base… | SOCFortress | [Read More](https://medium.com/p/63065cd1b2b2) |
+| Tue, 19 Aug 2025 20:01:50 GMT | Salting Hashes: Strengthening Password Security | Lince Mathew | [Read More](https://medium.com/p/78624970f9d9) |
+| Tue, 19 Aug 2025 20:01:21 GMT | Yoast Under Malware Attack | Troy Allen Melquist | [Read More](https://medium.com/p/6b32fc7ff539) |
+| Tue, 19 Aug 2025 19:58:32 GMT | Segurança de IA: a próxima fronteira da cibersegurança corporativa | Marcelo Tonon Chiovatto | [Read More](https://medium.com/p/b6604c548653) |
+| Tue, 19 Aug 2025 19:57:47 GMT | An exciting new update is coming soon for all our investors. | SHP Company | [Read More](https://medium.com/p/1141b9bd1fd9) |
+| Tue, 19 Aug 2025 19:57:23 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/beac63ee0049) |
+| Tue, 19 Aug 2025 19:57:10 GMT | My Resume Is a README for a Broken Project | HimanShunya | [Read More](https://medium.com/p/7bbb1d982e0d) |
+| Tue, 19 Aug 2025 19:47:28 GMT | ¿Qué es el Common Vulnerability Scoring System (CVSS) y cómo se aplica? | Tiziano Mass | [Read More](https://medium.com/p/bda186efb3b1) |
+| Tue, 19 Aug 2025 19:42:09 GMT | Fuzzing Binary Applications — Part 1: From Concepts to a Toy Fuzzer | anotherik | [Read More](https://medium.com/p/1adb097acefe) |
+| Tue, 19 Aug 2025 19:39:26 GMT | When Defenses Become Dangers: The Paradox of AI in Cybersecurity — A.M.E. | The Dialect | [Read More](https://medium.com/p/73098ba352b5) |
 | Tue, 19 Aug 2025 19:29:45 GMT | OWASP GenAI Security Project: Segurança por Design na Era da Inteligência Artificial | Wagner Iatalessi do Valle | [Read More](https://medium.com/p/8f605d0971bd) |
 | Tue, 19 Aug 2025 19:29:08 GMT | Top 7 Benefits of Professional Data Backup and Disaster Recovery Services | Techridge Solutions | [Read More](https://medium.com/p/376ac1a3d7eb) |
 | Tue, 19 Aug 2025 19:27:35 GMT | How to Secure Your HubSpot CRM Against the Latest Social Engineering Attacks | Sean - HubSpot Architect | [Read More](https://medium.com/p/c56c75aea775) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 15:32:12 GMT | How I Became a CEH Master at 21; The Beginning of My Offensive Security Path | OmarTamer | [Read More](https://medium.com/p/1fd7c7199b62) |
 | Tue, 19 Aug 2025 15:28:04 GMT | Mission AppPossible : The Unholy Trinity :- Dev, Sec & Ops -A Love Story | sumit sharma | [Read More](https://medium.com/p/79ea4c62e4ac) |
 | Tue, 19 Aug 2025 15:27:48 GMT | Cheyanne Mallas: Lessons Learned from the Frontlines of Cybersecurity Project Management | Cheyannemallaspa | [Read More](https://medium.com/p/afa4fbaceb79) |
-| Tue, 19 Aug 2025 15:27:05 GMT | “Day 16: The CI/CD Betrayal — How a Tiny GitHub Action Misconfiguration Led to a $800 Cloud Breach” | Aman Sharma | [Read More](https://medium.com/p/05a229c0684d) |
-| Tue, 19 Aug 2025 15:22:50 GMT | Invite Link Doesn’t Expire After Organization Deletion | Ahmed Mahmoud | [Read More](https://medium.com/p/d892d50fde4e) |
-| Tue, 19 Aug 2025 15:21:57 GMT | 5 Easy Ways to Upgrade Your Backyard This Weekend (Without Breaking the Bank) | Nma | [Read More](https://medium.com/p/1b080f70ffba) |
-| Tue, 19 Aug 2025 15:18:08 GMT | Digital Parenting 2025: बच्चों की Online Safety की अब No Tension! | Parental Monitoring | [Read More](https://medium.com/p/16ae01b8e396) |
-| Tue, 19 Aug 2025 15:15:44 GMT | How to Buy Gift Cards with Bitcoin Using CryptoXpress | Devbradon | [Read More](https://medium.com/p/572732e85040) |
-| Tue, 19 Aug 2025 15:15:18 GMT | When Every Keystroke Could Be Watched… | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/f45f9b88cf5f) |
-| Tue, 19 Aug 2025 15:11:59 GMT | The Perils of Technological Fix | Eva Varona | [Read More](https://medium.com/p/b745a6260404) |
-| Tue, 19 Aug 2025 15:09:37 GMT | How Hackers Bypass 2FA (And How to Stop Them) | Sneha Rani | [Read More](https://medium.com/p/037336af0de5) |
-| Tue, 19 Aug 2025 15:09:19 GMT | Cybersecurity Awareness: Data Security Investigations-Your Digital Detective Toolkit | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/e67a7afcede5) |
-| Tue, 19 Aug 2025 15:07:04 GMT | UK sentences “serial hacker” of 3,000 sites to 20 months in prison | Welsh | [Read More](https://medium.com/p/3cd078e76ead) |
-| Tue, 19 Aug 2025 15:06:01 GMT | What if the opposite of vulnerability is self-deception? | David John McCann | [Read More](https://medium.com/p/9ed895a455af) |
-| Tue, 19 Aug 2025 14:58:56 GMT | ERMAC Android malware source code leak exposes banking trojan infrastructure | Welsh | [Read More](https://medium.com/p/6b9570171737) |
-| Tue, 19 Aug 2025 14:58:31 GMT | CyberTalents: Images3c writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/e35372dac271) |
-| Tue, 19 Aug 2025 14:55:23 GMT | The Silent Weight of Grace | Anya | [Read More](https://medium.com/p/96c4e12077a7) |
