@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 04:35:16 GMT | Men Need the Freedom to Cry | Kabii | [Read More](https://medium.com/p/ad179d9b0b4a) |
+| Tue, 19 Aug 2025 04:34:55 GMT | Is SQL Still the King in Modern Web Dev? | Rizqi Mulki | [Read More](https://medium.com/p/4a1bb6c73046) |
+| Tue, 19 Aug 2025 04:30:39 GMT | Is SQL Still the King in Modern Web Dev? | Rizqi Mulki | [Read More](https://medium.com/p/b3c23012edf6) |
+| Tue, 19 Aug 2025 04:26:04 GMT | The $127,000 Hosting Bill That Could Have Been $47 (True Story) | Rizqi Mulki | [Read More](https://medium.com/p/add407553482) |
 | Tue, 19 Aug 2025 04:15:40 GMT | Day 36- Common Network Protocols with Commands & Interview Questions for beginners | unica 02 | [Read More](https://medium.com/p/c9e387e4140e) |
+| Tue, 19 Aug 2025 04:15:36 GMT | The Rose Remains | Asuma Jalloh | [Read More](https://medium.com/p/ae84aa61e6f9) |
 | Tue, 19 Aug 2025 04:12:23 GMT | Forensics - picoGym - tunn3l v1s10n | Flower Bed | [Read More](https://medium.com/p/b3f4e712b380) |
 | Tue, 19 Aug 2025 04:06:52 GMT | How to Bypass SSL Pinning in Android Apps: Step-by-Step Guide with Tools and Examples -Part 1 | Y_s0_s3r10us | [Read More](https://medium.com/p/0a84b5738c1f) |
 | Tue, 19 Aug 2025 04:04:59 GMT | What is Cybersecurity? A Beginner’s Guide to Staying Safe Online | Afzan | [Read More](https://medium.com/p/a2d0e2955824) |
@@ -108,8 +113,3 @@ By… | Jadenicconsults | [Read More](https://medium.com/p/2963665e4ed7) |
 | Mon, 18 Aug 2025 18:49:24 GMT | Elastic EDR Zero-Day: Bypass Detection, Execute Malware, and Trigger BSOD-What Happened and How to… | cybrNK | [Read More](https://medium.com/p/363ca11062b9) |
 | Mon, 18 Aug 2025 18:49:12 GMT | Foundations of Cybersecurity | Danladi Galadima | [Read More](https://medium.com/p/71b27db4508e) |
 | Mon, 18 Aug 2025 18:44:48 GMT | Why the Future of AI Is Local: Building a Privacy-First AI Studio | Aakash Kasamsetty | [Read More](https://medium.com/p/5d4f549a9377) |
-| Mon, 18 Aug 2025 18:38:51 GMT | Cyber Security Monitoring: The One Strategy Hackers Don’t Want You to Know | SafeAeon Inc. | [Read More](https://medium.com/p/836e1e9307b0) |
-| Mon, 18 Aug 2025 18:38:45 GMT | Part 1: Understanding Security in Applications | Ganga Siva Krishna Palla | [Read More](https://medium.com/p/4d9b7b054f51) |
-| Mon, 18 Aug 2025 18:35:21 GMT | Day 49 — Multi-Stage Email-Phishing Campaign | Jinay | [Read More](https://medium.com/p/5ad8a8d7224e) |
-| Mon, 18 Aug 2025 18:30:37 GMT | Why Russia Wants Svalbard | Jonathan Stephen Harry Riley | [Read More](https://medium.com/p/4857652332d3) |
-| Mon, 18 Aug 2025 18:28:37 GMT | Lock, Mint, Hack: The Dark Side of Blockchain Bridges | Evgenii | [Read More](https://medium.com/p/068185408ba2) |
