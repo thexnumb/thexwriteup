@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 13:18:32 GMT | Broken Authentication in Web Applications: The Silent Killer of Security | sukhveer singh | [Read More](https://medium.com/p/b31de7404862) |
+| Tue, 19 Aug 2025 13:16:32 GMT | My First Bug-Hunting Adventure: A Privilege Escalation Tale | 0xMoussa | [Read More](https://medium.com/p/89aad782981f) |
+| Tue, 19 Aug 2025 13:14:36 GMT | Cybersecurity Certifications That Can Boost Your Career Path | Divyanshi kulkarni | [Read More](https://medium.com/p/fc0c50e46557) |
+| Tue, 19 Aug 2025 13:12:33 GMT | Is Drosera’s Technology Halal? Securing Web3 with Islamic Ethics | Halalboy | [Read More](https://medium.com/p/d8cd4cd4b620) |
+| Tue, 19 Aug 2025 13:09:49 GMT | GDPR and Cybersecurity: Ensuring Data Privacy | West Advanced Technologies Inc | [Read More](https://medium.com/p/baf066f7a0ab) |
+| Tue, 19 Aug 2025 13:07:00 GMT | ORCA Security: Seeing What the Cloud Tries to Hide | MrGood | [Read More](https://medium.com/p/7b1af4e8bbb6) |
+| Tue, 19 Aug 2025 13:03:16 GMT | Security | Wyatt Mainer | [Read More](https://medium.com/p/f8685ab30dd2) |
+| Tue, 19 Aug 2025 13:02:07 GMT | “G”- The G-R-A-C-E that you need (The Letter- E) | Miss Epic | [Read More](https://medium.com/p/929344ce8fd9) |
+| Tue, 19 Aug 2025 13:02:00 GMT | IPv4 vs IPv6: Why We’re Still Stuck in the Past | Akhil Boddula | [Read More](https://medium.com/p/2de9d96b2316) |
+| Tue, 19 Aug 2025 13:02:00 GMT | Brother Printer Security Flaw — How to Protect Your Device | PremiumPC | [Read More](https://medium.com/p/5d5b5ad51943) |
+| Tue, 19 Aug 2025 13:01:01 GMT | “I’m Tired of Being a Girl” — The Exhaustion of Womanhood No One Talks About | Maria Arshad | [Read More](https://medium.com/p/a1765e5d95b6) |
+| Tue, 19 Aug 2025 13:00:52 GMT | Are we saying “Yes” to growth, or stuck in “Maybe”? | EXLITY | [Read More](https://medium.com/p/33d5a6a1f6ab) |
+| Tue, 19 Aug 2025 12:58:58 GMT | I will craft a telecommunication, consultant, cyber security, and engineering resume in 24 hour | Ofgodmercy | [Read More](https://medium.com/p/f86024c31f46) |
+| Tue, 19 Aug 2025 12:58:54 GMT | How the Dutch Protect Their IDs Before Sharing (And How You Can Too) | CVOR | [Read More](https://medium.com/p/393ac4963cca) |
+| Tue, 19 Aug 2025 12:56:59 GMT | Transforming IT Service Management with ServiceNow ITSM Automation | ACI Infotech | [Read More](https://medium.com/p/aabac81f6baa) |
+| Tue, 19 Aug 2025 12:55:47 GMT | SQL Injection: A Complete Guide | Beyza Özbay | [Read More](https://medium.com/p/96cd6311eea7) |
+| Tue, 19 Aug 2025 12:54:00 GMT | How Cyber Experts Detect Hidden Malicious Code in Software | Cybersecurity Umbrella | [Read More](https://medium.com/p/8bbd959f05f8) |
+| Tue, 19 Aug 2025 12:52:16 GMT | Why AI Security Certification Is Becoming a Global Cybersecurity Standard | Virat Solanki | [Read More](https://medium.com/p/cdde3fdcf526) |
+| Tue, 19 Aug 2025 12:38:17 GMT | CISA Mandates Phishing-Resistant MFA | Token: Next-Generation, Phishing-Proof MFA | [Read More](https://medium.com/p/44d314c18cbc) |
+| Tue, 19 Aug 2025 12:35:47 GMT | What are the ethical concerns in AI monitoring for security? | sanya | [Read More](https://medium.com/p/4443a36f7963) |
 | Tue, 19 Aug 2025 12:33:16 GMT | Part 3 — Outsmarting the Shapeshifters: Combating Polymorphic Malware and Evasive Threats | Sammcmullen | [Read More](https://medium.com/p/833e5bc40802) |
 | Tue, 19 Aug 2025 12:33:12 GMT | Overcoming Key Challenges in IT Infrastructure Management | Uma Netaccess | [Read More](https://medium.com/p/ba404893c854) |
 | Tue, 19 Aug 2025 12:33:09 GMT | How to Become a SOC Analyst in 2025 (Step by Step Guide) | orioninsist | [Read More](https://medium.com/p/0caf2da86b8a) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 08:52:44 GMT | Trust No One: The Basics of Zero Trust Security | Magdaline Arianda | [Read More](https://medium.com/p/8bd3d7d4c8d9) |
 | Tue, 19 Aug 2025 08:37:18 GMT | Palo Alto GlobalProtect VPN Monitorinqi: Python + Telegram ilə real-time xəbərdarlıqlar | Ismayil Aghayev | [Read More](https://medium.com/p/d4346706ce4f) |
 | Tue, 19 Aug 2025 08:14:08 GMT | Beyond Best-Effort: Enterprise Resilience for Tbps+ DDoS | Aziz Sasmaz | [Read More](https://medium.com/p/bdb320f06da1) |
-| Tue, 19 Aug 2025 08:11:30 GMT | Security Awareness: The Missing Piece in Education and Workplaces | Taulan Zauzanov | [Read More](https://medium.com/p/9fe00b804e06) |
-| Tue, 19 Aug 2025 08:11:16 GMT | Mobile Threats 2025 - Hire Hacker | BlackHat | [Read More](https://medium.com/p/be4d7259e3c4) |
-| Tue, 19 Aug 2025 08:07:27 GMT | Authentication & Authorization: How to Build a Secure User Login System That Your Users Can… | Amaka okoye | [Read More](https://medium.com/p/6c4f658eb16d) |
-| Tue, 19 Aug 2025 08:02:00 GMT | Security First: How Golden Pact Protects Your Crypto Assets | Golden Pact | [Read More](https://medium.com/p/0a21757aeed6) |
-| Tue, 19 Aug 2025 07:51:12 GMT | Advance Your Career with Cyber Security Online Training | Pravin Choudhary | [Read More](https://medium.com/p/0ba3eb8205a0) |
-| Tue, 19 Aug 2025 07:49:03 GMT | Pentester’s Exam: Real-World API & Web Security Scenarios (With Answers) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/dad9b79f170e) |
-| Tue, 19 Aug 2025 07:48:16 GMT | From Checkout to Free Stuff: Inside a Payment Bypass Bug | Niral Shekhat | [Read More](https://medium.com/p/bd6e09c8a0eb) |
-| Tue, 19 Aug 2025 07:48:06 GMT | Step-by-Step: Detect If Your Email or Domain Is in Stealer Logs Right Now | Alexandre Vandamme | [Read More](https://medium.com/p/f3411ed9a0b3) |
-| Tue, 19 Aug 2025 07:45:44 GMT | Pentester’s Exam: Real-World API & Web Security Scenarios (With Answers) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/14b344219354) |
-| Tue, 19 Aug 2025 07:42:38 GMT | Top 10 Kiosk Software for Any Kiosk Computer in 2025 | Vantage MDM | [Read More](https://medium.com/p/7bc4a9c11baf) |
-| Tue, 19 Aug 2025 07:36:01 GMT | The Reason Top Rollups as a Service Providers Rely on Zero-Knowledge | Instanodes | [Read More](https://medium.com/p/31f1e8752eeb) |
-| Tue, 19 Aug 2025 07:34:17 GMT | Detect and Throttle Suspicious Traffic in PHP Without WAFs | Asian Digital Hub | [Read More](https://medium.com/p/77f7c775ac7c) |
-| Tue, 19 Aug 2025 07:33:49 GMT | The Silent Flood That Crashes Servers | Aj | [Read More](https://medium.com/p/393a0ad8a75f) |
-| Tue, 19 Aug 2025 07:30:29 GMT | Nigeria’s Growing Paternity Crisis: Unpacking the DNA Dilemma and Its Broader Implications | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/8e5e60878819) |
-| Tue, 19 Aug 2025 07:29:19 GMT | THM - “Snort Challenge - The Basics” | Francesco Pastore | [Read More](https://medium.com/p/1a208e1e478e) |
-| Tue, 19 Aug 2025 07:24:23 GMT | Field-Level Encryption Tricks That Keep PHP Apps Leak-Proof | Asian Digital Hub | [Read More](https://medium.com/p/ca547cb2433f) |
-| Tue, 19 Aug 2025 07:21:54 GMT | Session Hardening Tips That Survive Even Browser Restarts | Asian Digital Hub | [Read More](https://medium.com/p/6731fae0f9d1) |
-| Tue, 19 Aug 2025 07:18:38 GMT | Best ot/ics cybersecurity training in delhi | TheEvolvEdge | [Read More](https://medium.com/p/b8645ef45429) |
-| Tue, 19 Aug 2025 07:16:28 GMT | Zero-Trust Architecture Implementation: Lessons from Fortune 500 Deployments | NexTechie | [Read More](https://medium.com/p/6216336a14c3) |
-| Tue, 19 Aug 2025 07:16:27 GMT | Cyber Security Training & Placement — Swhizz Technologies | Satya | [Read More](https://medium.com/p/e3b33ae6cd8d) |
