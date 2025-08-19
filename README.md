@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 21:31:42 GMT | The IoT Device That Became a Spy: Home Assistant Data Exfiltration | Shahzaib | [Read More](https://medium.com/p/eda374ef2d5c) |
+| Tue, 19 Aug 2025 21:31:29 GMT | Easiest Admin Panel Takeover !! | TSxNINJA | [Read More](https://medium.com/p/d9e2c5ef321e) |
+| Tue, 19 Aug 2025 21:29:18 GMT | HTB — Dog | Stilyana Petrova | [Read More](https://medium.com/p/6bb0b2da300e) |
+| Tue, 19 Aug 2025 21:24:00 GMT | Haven1: Building Trust in the Wild West of Web3 | Stephen Ayo | [Read More](https://medium.com/p/d93d6656435b) |
+| Tue, 19 Aug 2025 21:13:48 GMT | How Security Guards Protect Retail Stores From Common Threats | Nimmi Xheikh | [Read More](https://medium.com/p/255e3c3330a0) |
 | Tue, 19 Aug 2025 21:06:42 GMT | The Importance of Professional Security Guard Services for Businesses | Nimmi Xheikh | [Read More](https://medium.com/p/9be68ac0450f) |
 | Tue, 19 Aug 2025 20:52:32 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / MALICE CYBER RECOVERY WILL HELP YOU IN RECOVERY YOUR STOLEN… | Emil Petrov | [Read More](https://medium.com/p/a69eca8e723a) |
 | Tue, 19 Aug 2025 20:51:56 GMT | Cybersecurity — 10 Career Success Strategies & Top Certifications | Franklin Rhodes | [Read More](https://medium.com/p/d9ba512e88d2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 16:01:37 GMT | Inside the Alarming Rise of AI-Powered Cybercrime and How to Engineer the Next Generation of… | Techleadgurdeepgill | [Read More](https://medium.com/p/145fc218badc) |
 | Tue, 19 Aug 2025 16:00:57 GMT | The Quantum Threat: Preparing Cybersecurity for a Post-Quantum World | vydhi | [Read More](https://medium.com/p/67f229629456) |
 | Tue, 19 Aug 2025 15:59:50 GMT | Frames of Trust, Walls of Security | Quva India | [Read More](https://medium.com/p/1ded298f99b2) |
-| Tue, 19 Aug 2025 15:59:23 GMT | The Dangers of Deepfake Technology in Phishing Scams | Samina Perveen | [Read More](https://medium.com/p/e14a91505ebf) |
-| Tue, 19 Aug 2025 15:59:19 GMT | Understanding Zero-Day Vulnerabilities and Their Impact | Samina Perveen | [Read More](https://medium.com/p/79febd53e24d) |
-| Tue, 19 Aug 2025 15:59:15 GMT | The Evolution of Ransomware: From Lockers to Double Extortion | Samina Perveen | [Read More](https://medium.com/p/7a45a2a6b4f4) |
-| Tue, 19 Aug 2025 15:59:10 GMT | Spot Hidden Cameras Before They Spot You | Dalibor Zivkovic | [Read More](https://medium.com/p/6b8312eb9f89) |
-| Tue, 19 Aug 2025 15:58:28 GMT | How to Answer a Cybersecurity-Analyst Scenario Question: A Beginner’s Guide | Victor Kipkemboi | [Read More](https://medium.com/p/0e64fcfe8fd2) |
