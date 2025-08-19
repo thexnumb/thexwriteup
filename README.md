@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 11:33:01 GMT | Malware can be ran without uploading its scripts to disk — here’s how | Haitham Aljabbari | [Read More](https://medium.com/p/76f813da0008) |
+| Tue, 19 Aug 2025 11:31:55 GMT | Security Debt: The Hidden Cost That Keeps Growing | Evgeny Ermakov | [Read More](https://medium.com/p/144969246eee) |
+| Tue, 19 Aug 2025 11:23:35 GMT | Cognitive Biases in an Age of Rapid Technological Change — Especially AI | noailabs | [Read More](https://medium.com/p/7ab60682bfdf) |
+| Tue, 19 Aug 2025 11:23:05 GMT | Quranium Weekly REQAP - W/C 11/08/2025 | Bright Mmaduabuchi | [Read More](https://medium.com/p/32f9e426a9bc) |
+| Tue, 19 Aug 2025 11:22:08 GMT | How to Get Started with Bug Bounties | Muhammad Haider Tallal | [Read More](https://medium.com/p/018220d48335) |
+| Tue, 19 Aug 2025 11:21:57 GMT | Adversarial Examples: When Tiny Tweaks Trick AI | Brittney Ginther | [Read More](https://medium.com/p/e7196a877323) |
+| Tue, 19 Aug 2025 11:20:39 GMT | Become a Certified SOC Analyst with Cybernous: Your Gateway to a Cybersecurity Career | Cybernous Infosec consulting | [Read More](https://medium.com/p/65a07e640dc1) |
 | Tue, 19 Aug 2025 11:17:31 GMT | ️ Eradication & Remediation: The True Cleanup Phase of Incident Response | Furkanctiner | [Read More](https://medium.com/p/5c4d12fe1f50) |
 | Tue, 19 Aug 2025 11:10:41 GMT | ️ Threat Intel & Containment — TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/1f7cde6bb445) |
+| Tue, 19 Aug 2025 11:09:39 GMT | Cloudflare WAF Best Practices: Features, Challenges, and Alternatives | Maverick Steel | [Read More](https://medium.com/p/46d7da078f6e) |
 | Tue, 19 Aug 2025 11:07:08 GMT | Ponzi Schemes in Web3: An Old Scam in New Clothes. | Bright Mmaduabuchi | [Read More](https://medium.com/p/0522778346b2) |
 | Tue, 19 Aug 2025 11:01:58 GMT | Engaging Vendors to Prepare Your Supply Chain for the Post-Quantum Era | Left4Zed | [Read More](https://medium.com/p/16d2d6e0e4cb) |
 | Tue, 19 Aug 2025 11:01:57 GMT | Neighbour Tryhackme Walkthrough | Mehdi Ben Fredj | [Read More](https://medium.com/p/7134b4f1ab4a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 06:16:54 GMT | The Role of Security in Website Development | Wings Design Studio | [Read More](https://medium.com/p/584c1b3b87f0) |
 | Tue, 19 Aug 2025 06:11:54 GMT | Using LLMs to Detect AWS Serverless Misconfigurations | Mostafa Asaad | [Read More](https://medium.com/p/6c6d9759fe91) |
 | Tue, 19 Aug 2025 06:07:01 GMT | Quick Recon Win: Chaining Subfinder + Httpx-toolkit + Nuclei for Fast Results | Dardan Hasani | [Read More](https://medium.com/p/461bb34f56c9) |
-| Tue, 19 Aug 2025 06:05:02 GMT | When the Price Goes Wrong: $9K Bounty from 2 Price Manipulation Bugs. | Ak | [Read More](https://medium.com/p/f557383afc01) |
-| Tue, 19 Aug 2025 06:03:21 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5f98b4df91a3) |
-| Tue, 19 Aug 2025 06:03:03 GMT | Unmasking DPRK IT Workers: Email Address Patterns as Hiring Red Flags | Rakesh Krishnan | [Read More](https://medium.com/p/de5cbd6033a6) |
-| Tue, 19 Aug 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Aug 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9acbdeb4a0ac) |
-| Tue, 19 Aug 2025 05:58:02 GMT | Poisoned Pixels: When Open-Source Trust Turns Toxic | Aj | [Read More](https://medium.com/p/cbc72ee696d1) |
-| Tue, 19 Aug 2025 05:54:54 GMT | Zero Trust Security: Why It’s No Longer Optional | Abida Adra | [Read More](https://medium.com/p/413cbcbef6ab) |
-| Tue, 19 Aug 2025 05:50:24 GMT | Why Drosera’s Trap-Based Security Model is the Future of Web3 Defense | Big Shakes | [Read More](https://medium.com/p/0bccc06aac46) |
-| Tue, 19 Aug 2025 05:36:37 GMT | Why Every Organization Needs Enterprise Content Management Solutions in 2025 | Quadrant IT Services | [Read More](https://medium.com/p/56fa0480f6cd) |
