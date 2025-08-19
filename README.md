@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 Aug 2025 07:36:01 GMT | The Reason Top Rollups as a Service Providers Rely on Zero-Knowledge | Instanodes | [Read More](https://medium.com/p/31f1e8752eeb) |
+| Tue, 19 Aug 2025 07:34:17 GMT | Detect and Throttle Suspicious Traffic in PHP Without WAFs | Asian Digital Hub | [Read More](https://medium.com/p/77f7c775ac7c) |
+| Tue, 19 Aug 2025 07:29:19 GMT | THM - “Snort Challenge - The Basics” | Francesco Pastore | [Read More](https://medium.com/p/1a208e1e478e) |
+| Tue, 19 Aug 2025 07:24:23 GMT | Field-Level Encryption Tricks That Keep PHP Apps Leak-Proof | Asian Digital Hub | [Read More](https://medium.com/p/ca547cb2433f) |
+| Tue, 19 Aug 2025 07:21:54 GMT | Session Hardening Tips That Survive Even Browser Restarts | Asian Digital Hub | [Read More](https://medium.com/p/6731fae0f9d1) |
+| Tue, 19 Aug 2025 07:18:38 GMT | Best ot/ics cybersecurity training in delhi | TheEvolvEdge | [Read More](https://medium.com/p/b8645ef45429) |
+| Tue, 19 Aug 2025 07:16:28 GMT | Zero-Trust Architecture Implementation: Lessons from Fortune 500 Deployments | NexTechie | [Read More](https://medium.com/p/6216336a14c3) |
+| Tue, 19 Aug 2025 07:16:27 GMT | Cyber Security Training & Placement — Swhizz Technologies | Satya | [Read More](https://medium.com/p/e3b33ae6cd8d) |
 | Tue, 19 Aug 2025 07:13:28 GMT | Cybersecurity Checklist 2025: Essential Guide for New York Businesses | Bootesnull | [Read More](https://medium.com/p/ae073133cdf2) |
 | Tue, 19 Aug 2025 07:11:44 GMT | Let Men Be Human | Nissi Gilgal | [Read More](https://medium.com/p/551f54f34315) |
 | Tue, 19 Aug 2025 07:10:32 GMT | Threat Hunting via LinkedIn OSINT | AbhirupKonwar | [Read More](https://medium.com/p/d8172a245e27) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 Aug 2025 23:19:50 GMT | Smaller Malware Analysis Network Layout | Ruben | [Read More](https://medium.com/p/2888c845914f) |
 | Mon, 18 Aug 2025 23:15:32 GMT | SQL injection vulnerability in the AWS Aurora DSQL MCP Server | Michael Kandelaars | [Read More](https://medium.com/p/b00eea7c85d9) |
 | Mon, 18 Aug 2025 23:08:46 GMT | Recover Your Crypto: A Step-by-Step Guide | Lost Crypto Recovery Service. | [Read More](https://medium.com/p/ebdf457f6c0d) |
-| Mon, 18 Aug 2025 23:07:58 GMT | One Engine to Rule the Mess: How Measurement Is Quietly Rewriting Creativity, Judgment, and… | ABV: Art, Beats & Ventures by Anton Biletskyi | [Read More](https://medium.com/p/091a9a081ec8) |
-| Mon, 18 Aug 2025 23:01:07 GMT | ️ The Dark Side of Password Managers: What No One Tells You | BiyteLüm | [Read More](https://medium.com/p/19b06e83aa3c) |
-| Mon, 18 Aug 2025 22:53:22 GMT | Automating Employee Onboarding in Microsoft Entra with Forms and Power Automate | James Rawlings | [Read More](https://medium.com/p/34cf761e2cd4) |
-| Mon, 18 Aug 2025 22:50:11 GMT | hujgdd | Qnpzj444 | [Read More](https://medium.com/p/c3d05c7daa7a) |
-| Mon, 18 Aug 2025 22:48:48 GMT | No Logs. No SIEM. No Problem. | Randall Repass | [Read More](https://medium.com/p/c10d92cadbef) |
-| Mon, 18 Aug 2025 22:48:48 GMT | CyberTalents: Mailer writeup - by Dargham Ali | Dargham Ali | [Read More](https://medium.com/p/5fd332fe6503) |
-| Mon, 18 Aug 2025 22:41:00 GMT | Forensics: scriptCTF 2025-PDF Writeup | Rana chouchane - QU33NR | [Read More](https://medium.com/p/5d1960492635) |
-| Mon, 18 Aug 2025 22:38:54 GMT | Why Agentic AI Startups Will Struggle Against Cybersecurity Incumbents | Nick Heudecker | [Read More](https://medium.com/p/7750f6569deb) |
