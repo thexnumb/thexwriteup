@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 11:36:55 GMT | ️ “The Audio File That Spoke Too Much: My Deep Dive into an S3 Misconfiguration” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d103f41e7b10) |
+| Wed, 20 Aug 2025 11:21:05 GMT | Mobile App Development Process: Step-by-Step Business Guide | Bhavesh Rajpurohit | [Read More](https://medium.com/p/046aaeff45af) |
+| Wed, 20 Aug 2025 11:17:27 GMT | Understanding Model Theft: Risks and Prevention in AI | Brittney Ginther | [Read More](https://medium.com/p/b3f100aa6b63) |
 | Wed, 20 Aug 2025 11:12:27 GMT | €2000 Bounty — IDOR to Privilege Escalation : From Admin to Internal Employee | Ashar Mahmood | [Read More](https://medium.com/p/a36db23fa10a) |
 | Wed, 20 Aug 2025 11:09:59 GMT | Implementation and Security Pitfalls of LST on Hyperliquid | Talfao | [Read More](https://medium.com/p/b83b8fd42713) |
 | Wed, 20 Aug 2025 11:08:14 GMT | India AI Mission: Powering the Nation’s AI Future | Nishaverma | [Read More](https://medium.com/p/4f1f3ccab495) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 06:24:03 GMT | How Crimsafe Security Screens Keep Your Home Secure Without Sacrificing Airflow | Gold Coast Security Screens | [Read More](https://medium.com/p/dbd87c51c123) |
 | Wed, 20 Aug 2025 06:18:50 GMT | The Future of Bug Bounties: Are They Keeping Up with Hackers? | Tarush Sharma | [Read More](https://medium.com/p/a6669fe7e855) |
 | Wed, 20 Aug 2025 06:18:30 GMT | Yenileme Eğitimleri: Güvenlik Personelinin Sürekli Gelişimi | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/b349b7c1dd21) |
-| Wed, 20 Aug 2025 06:07:12 GMT | Building Peace Through Knowledge: Upcoming Intensive Training on Alternative Dispute Resolution | Wem'Afrika | [Read More](https://medium.com/p/46020ae255d2) |
-| Wed, 20 Aug 2025 06:06:31 GMT | Phishing: A Cyber Threat that Needs Attention | Jevera Kinawa | [Read More](https://medium.com/p/5b15ba9fc4d5) |
-| Wed, 20 Aug 2025 06:03:43 GMT | Phishing Simulation Services: Protecting Indian Organizations | Noahlucas | [Read More](https://medium.com/p/687684939200) |
