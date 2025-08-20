@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 09:21:16 GMT | 10 Reasons Businesses Rely on SAP Managed Services | Trajectus | [Read More](https://medium.com/p/8086b431e923) |
+| Wed, 20 Aug 2025 09:15:34 GMT | Review แบบไม่อวย: สอบดีไหม INE eCPPT และ eWPTX | Athiwat Tiprasaharn | [Read More](https://medium.com/p/94e375714349) |
+| Wed, 20 Aug 2025 09:10:07 GMT | Apple vs. UK: Encryption Showdown — Did Privacy Win? | Truspex | [Read More](https://medium.com/p/c800c9194160) |
+| Wed, 20 Aug 2025 09:07:19 GMT | GT Infotech — Software Testing Reducing Production Bugs with Selenium-Powered Software Testing… | Stephenjoseeph | [Read More](https://medium.com/p/77e76b61d37c) |
+| Wed, 20 Aug 2025 09:04:50 GMT | Tulsi Gabbard strips security clearances from 37 current and former national security leaders | Daily Update's24 | [Read More](https://medium.com/p/70d6bd311331) |
+| Wed, 20 Aug 2025 09:02:12 GMT | VoxCrypt V2 Released | Codepontiff | [Read More](https://medium.com/p/bd630b043028) |
+| Wed, 20 Aug 2025 09:00:19 GMT | Methods to Create and Handle Custom Exceptions in UserDetailsService of Spring Security | Anh Trần Tuấn | [Read More](https://medium.com/p/03fd28339c61) |
+| Wed, 20 Aug 2025 09:00:17 GMT | Methods to Create and Handle Custom Exceptions in UserDetailsService of Spring Security | Anh Trần Tuấn | [Read More](https://medium.com/p/712b4fe19bd9) |
+| Wed, 20 Aug 2025 08:57:05 GMT | Introducing: Browser Forensics — Your Ultimate Guide to Manual Analysis | Dean | [Read More](https://medium.com/p/fe9255020e17) |
+| Wed, 20 Aug 2025 08:52:41 GMT | Fast-Flux DNS: How Malware Uses DNS to Stay Invisible | Dean | [Read More](https://medium.com/p/883b92c67813) |
+| Wed, 20 Aug 2025 08:48:04 GMT | Data Protection — NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/e45200c7fbcb) |
+| Wed, 20 Aug 2025 08:47:44 GMT | AI-Powered Threat Hunting: The Evolution of Security Operations | Pinakiaich | [Read More](https://medium.com/p/f72c268327bf) |
+| Wed, 20 Aug 2025 08:47:16 GMT | SIEM Solutions vs. SOAR vs. XDR: Which One Protects You Best? | SecureSlate | [Read More](https://medium.com/p/6ec61a89b7fa) |
 | Wed, 20 Aug 2025 08:44:20 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Janishaa | [Read More](https://medium.com/p/92728dd5a4a2) |
 | Wed, 20 Aug 2025 08:40:53 GMT | Recovery Made Easy With James.. | Norman Meg | [Read More](https://medium.com/p/9f6259596212) |
 | Wed, 20 Aug 2025 08:28:27 GMT | Server-side Template Injection with a Custom Exploit in PHP Twig | Bash Overflow | [Read More](https://medium.com/p/02974ac20352) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 03:04:26 GMT | The Psychology of a Hack: Why You Click Before You Think | Sofia | [Read More](https://medium.com/p/fff0106d2f2f) |
 | Wed, 20 Aug 2025 03:01:59 GMT | AI Cold War — How Data Centers, Chip Bans, and Digital Borders Are Redrawing Global Power | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/2ef89cbf3db6) |
 | Wed, 20 Aug 2025 03:00:04 GMT | 7 Essential Tips to Stay Safe on Hotel Wi-Fi | Brian Davis | [Read More](https://medium.com/p/5dc4519dd919) |
-| Wed, 20 Aug 2025 02:59:10 GMT | Forensics - picoGym - Trivial Flag Transfer Protocol | Flower Bed | [Read More](https://medium.com/p/01b5d4381a57) |
-| Wed, 20 Aug 2025 02:53:22 GMT | Who Moved My Cheese? Cybersecurity, AI, and BI Edition | Jay Sivaloganathan | [Read More](https://medium.com/p/7d7c1d7fa5c7) |
-| Wed, 20 Aug 2025 02:49:35 GMT | AI Agents Are the New Execution Layer for Enterprise IT | Parth Chhaparwal | [Read More](https://medium.com/p/33e87b785127) |
-| Wed, 20 Aug 2025 02:35:22 GMT | Don’t Panic Yet: Breaking Down the Latest Apache Solr RCE Vulnerability | AerieWhole123 | [Read More](https://medium.com/p/207028a56369) |
-| Wed, 20 Aug 2025 02:32:08 GMT | HTMLI To PII Leak - Bug Bounty Story | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/1f4364bcc270) |
-| Wed, 20 Aug 2025 02:01:17 GMT | Key Components of Google Cloud Armor’s Security Policies: A Detailed Guide | Neel Shah | [Read More](https://medium.com/p/38285612059c) |
-| Wed, 20 Aug 2025 02:00:43 GMT | Cybersecurity Learning Journey log 1 | Lane Domenden | [Read More](https://medium.com/p/ec5387dd64ec) |
-| Wed, 20 Aug 2025 01:43:25 GMT | Securing Azure Kubernetes Services with Entra / Azure AD RBAC | Niraj Kumar | [Read More](https://medium.com/p/d6d1e90c12e0) |
-| Wed, 20 Aug 2025 01:38:13 GMT | CTI Diaries #4: Attribution and Bias in Threat Intelligence | Deniz Topaloglu | [Read More](https://medium.com/p/bc96c0469090) |
-| Wed, 20 Aug 2025 01:32:23 GMT | Tired of Home Security Blind Spots? Here’s the Simple, Wire-Free Solution You’ve Been Waiting For | Topics2025 | [Read More](https://medium.com/p/a9d26492d7c4) |
-| Wed, 20 Aug 2025 01:24:56 GMT | How Scammers Use Raspberry Pi KVM Devices to Evade Security | Internet Exposed | [Read More](https://medium.com/p/fa0c5aad71ac) |
-| Wed, 20 Aug 2025 01:13:49 GMT | My Journey to Becoming a Top Systems Architect: A Roadmap from Basics to the Clouds | m1l0js | [Read More](https://medium.com/p/e4673faefb8c) |
-| Wed, 20 Aug 2025 01:01:58 GMT | ️ Path Traversal in Web Applications: When Hackers Walk Through Your Folders | sukhveer singh | [Read More](https://medium.com/p/60b2c4537d00) |
