@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 16:20:20 GMT | Exploits —Vulnerabilities —  Chains those are being Catastrophic…… | _Anirudh_ | [Read More](https://medium.com/p/116178deeeb3) |
+| Wed, 20 Aug 2025 16:17:50 GMT | Biological Computing and the Coming Disruption of AI | Carlo Tortora-Brayda Di Belvedere | [Read More](https://medium.com/p/bf32f74f0fb5) |
+| Wed, 20 Aug 2025 16:17:19 GMT | When My WhatsApp Was Hijacked Overnight: SIM Swapping | Shahzaib | [Read More](https://medium.com/p/58e35f38463e) |
+| Wed, 20 Aug 2025 16:12:36 GMT | TryHackMe - Offensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/6b6be81a3c85) |
+| Wed, 20 Aug 2025 16:11:59 GMT | How Learning Cybersecurity Made Me Think Differently About Risk | Aj | [Read More](https://medium.com/p/545cf798ec17) |
+| Wed, 20 Aug 2025 16:11:42 GMT | Cybersecurity Is a Culture, Not a Control | Chase Kester | [Read More](https://medium.com/p/bb87f9e41810) |
+| Wed, 20 Aug 2025 16:11:19 GMT | Master Protection for Industrial Sites: Why It Matters | Mindfully SEO | [Read More](https://medium.com/p/ef3b01d1fa0d) |
+| Wed, 20 Aug 2025 16:08:50 GMT | Hackviser — Data Heist Çözümü | Berent Oral | [Read More](https://medium.com/p/9cd21e2769b7) |
+| Wed, 20 Aug 2025 16:05:38 GMT | I Tried to Be Vulnerable for Likes. Here’s What It Cost Me. | Lakshhya Sharma | [Read More](https://medium.com/p/a3bc97ad71c8) |
+| Wed, 20 Aug 2025 16:03:30 GMT | Advancing Security Automation Step by Step | Cyber Security Research | [Read More](https://medium.com/p/24508d9556ae) |
+| Wed, 20 Aug 2025 16:01:47 GMT | Advancing Security Automation Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/d0f6aeb0ad78) |
+| Wed, 20 Aug 2025 16:01:28 GMT | Why Smart Cities Matter | Sung Jin Park | [Read More](https://medium.com/p/8c63ddaf8052) |
+| Wed, 20 Aug 2025 16:00:42 GMT | The Reverse Shell Trick That Beats (Almost) Every EDR | Nitin yadav | [Read More](https://medium.com/p/0c02927f72a4) |
+| Wed, 20 Aug 2025 16:00:35 GMT | The OSI Model and the Future of Warfare | Robert Schryvers ChT | [Read More](https://medium.com/p/b79191a87c5c) |
+| Wed, 20 Aug 2025 15:59:37 GMT | One Plan. Every Tech Problem. Solved. | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/718c45667b6b) |
+| Wed, 20 Aug 2025 15:53:06 GMT | TLS Handshake :A Detailed Explanation | Pavitra dakshinya Pavitra | [Read More](https://medium.com/p/1ce675b8426f) |
+| Wed, 20 Aug 2025 15:52:44 GMT | Protecting Against Fileless Malware Campaigns | Karthikeyan Nagaraj | [Read More](https://medium.com/p/617b0fcc8e78) |
+| Wed, 20 Aug 2025 15:50:38 GMT | Understanding REvil Ransomware and How to Prevent It | Keepnet Labs | [Read More](https://medium.com/p/a60132f9f8a4) |
+| Wed, 20 Aug 2025 15:48:39 GMT | Basic Pentesting — TryHackMe Walkthrough | echoVoid | [Read More](https://medium.com/p/73ea07b37630) |
+| Wed, 20 Aug 2025 15:48:12 GMT | Engineered to Fail: The DNA of Negligent Cyber Defenses | Deep Specter Research | [Read More](https://medium.com/p/22466a034b28) |
+| Wed, 20 Aug 2025 15:46:01 GMT | Bug Bounty: Sensitive Data Exposure — How Info Spills Become Breaches ️‍♂️ | Rajkumar Kumawat | [Read More](https://medium.com/p/9778749855ea) |
 | Wed, 20 Aug 2025 15:38:27 GMT | “The 7 Unspoken Recon Tricks That Fund My Bug Bounty Addiction” | Aman Sharma | [Read More](https://medium.com/p/bae6fb8768a5) |
 | Wed, 20 Aug 2025 15:33:36 GMT | TryHackMe — Publisher CTF Write-up | Trang Vu | [Read More](https://medium.com/p/1fd5989561cb) |
 | Wed, 20 Aug 2025 15:33:17 GMT | CVE-2023–34362 and Nova Scotia’s Data Breach: Lessons in Cyber Risk Management | Daniel Londoño B. | [Read More](https://medium.com/p/c3df29be2d3e) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 12:01:56 GMT | Authenticated Encryption With Additional Data (AEAD): Meet AES GCM, ChaCha20/Poly1305, AES CCM… | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/6ffa1fa37c0f) |
 | Wed, 20 Aug 2025 12:00:00 GMT | How I EARNED $500 ONLINE IN 3 DAYS using AI Tools — WITHOUT CODING | sana irshad | [Read More](https://medium.com/p/92c6dc84424a) |
 | Wed, 20 Aug 2025 11:57:56 GMT | [MobileHackingLab] Cyclic Scanner | z3r0xk.h | [Read More](https://medium.com/p/37a48d71a82f) |
-| Wed, 20 Aug 2025 11:57:49 GMT | [MobileHackingLab] Post Board | z3r0xk.h | [Read More](https://medium.com/p/dc07b1c9064b) |
-| Wed, 20 Aug 2025 11:57:42 GMT | [MobileHackingLab] Food Store | z3r0xk.h | [Read More](https://medium.com/p/86e90a61283b) |
-| Wed, 20 Aug 2025 11:56:05 GMT | What Makes Vulnerability Assessment and Penetration Testing Different from a Regular Security Audit? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/88aaa744c4dd) |
-| Wed, 20 Aug 2025 11:53:32 GMT | 30 Cybersecurity Search Engines Every Researcher Should Know | Rue | [Read More](https://medium.com/p/0093e6589323) |
-| Wed, 20 Aug 2025 11:52:40 GMT | Hyperscalers: The Technology Backbone Powering the Digital Economy | Sreenivas Soman Nair | [Read More](https://medium.com/p/fee51718db51) |
-| Wed, 20 Aug 2025 11:36:55 GMT | ️ “The Audio File That Spoke Too Much: My Deep Dive into an S3 Misconfiguration” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d103f41e7b10) |
-| Wed, 20 Aug 2025 11:21:05 GMT | Mobile App Development Process: Step-by-Step Business Guide | Bhavesh Rajpurohit | [Read More](https://medium.com/p/046aaeff45af) |
-| Wed, 20 Aug 2025 11:17:27 GMT | Understanding Model Theft: Risks and Prevention in AI | Brittney Ginther | [Read More](https://medium.com/p/b3f100aa6b63) |
-| Wed, 20 Aug 2025 11:12:27 GMT | €2000 Bounty — IDOR to Privilege Escalation : From Admin to Internal Employee | Ashar Mahmood | [Read More](https://medium.com/p/a36db23fa10a) |
-| Wed, 20 Aug 2025 11:09:59 GMT | Implementation and Security Pitfalls of LST on Hyperliquid | Talfao | [Read More](https://medium.com/p/b83b8fd42713) |
-| Wed, 20 Aug 2025 11:08:14 GMT | India AI Mission: Powering the Nation’s AI Future | Nishaverma | [Read More](https://medium.com/p/4f1f3ccab495) |
-| Wed, 20 Aug 2025 10:53:53 GMT | The Future of Web & App Development: 5 Trends Shaping 2025 | Amin Softtech | [Read More](https://medium.com/p/7526d8d3b030) |
-| Wed, 20 Aug 2025 10:52:47 GMT | What Is Multi-Factor Authentication and How Does It Work? | Bizionic Technologies Pvt Ltd | [Read More](https://medium.com/p/bb54fc3cabb7) |
-| Wed, 20 Aug 2025 10:47:52 GMT | Fortinet Firewall Temel Kuralları ve Adres Tanımlaması- TalentCoders Siber Güvenlik Yaz Kampı… | Hakan ÇEVİK | [Read More](https://medium.com/p/92d93ce6297b) |
-| Wed, 20 Aug 2025 10:44:59 GMT | My Journey Through the eCPPTV3 Exam | Sheet Abdullah | [Read More](https://medium.com/p/8a50d64c058f) |
-| Wed, 20 Aug 2025 10:43:17 GMT | How Data Security Skills Can Boost Any Tech Career | Aiswarya N | [Read More](https://medium.com/p/50f60cb52b48) |
-| Wed, 20 Aug 2025 10:40:14 GMT | File Upload vulnerability…….. | XYZ200: | [Read More](https://medium.com/p/68ed3f220e0b) |
-| Wed, 20 Aug 2025 10:38:13 GMT | Career Opportunities After MCA in Cyber Security | Techmeenakshi | [Read More](https://medium.com/p/8a6620ce7de6) |
-| Wed, 20 Aug 2025 10:31:59 GMT | Privilege Escalation in Web Apps & APIs: A Pentester’s Guide to Exploitation | YoungerSibling | [Read More](https://medium.com/p/b8e69bd12f71) |
-| Wed, 20 Aug 2025 10:30:35 GMT | The Invisible Engine: How Technology Shapes Your Life Every Second | Aroosh | [Read More](https://medium.com/p/853686b1b354) |
-| Wed, 20 Aug 2025 10:25:31 GMT | DockerLabs Writeup — SecretJenkins (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1e386116abb3) |
