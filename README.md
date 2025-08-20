@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 08:44:20 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Janishaa | [Read More](https://medium.com/p/92728dd5a4a2) |
+| Wed, 20 Aug 2025 08:40:53 GMT | Recovery Made Easy With James.. | Norman Meg | [Read More](https://medium.com/p/9f6259596212) |
+| Wed, 20 Aug 2025 08:28:27 GMT | Server-side Template Injection with a Custom Exploit in PHP Twig | Bash Overflow | [Read More](https://medium.com/p/02974ac20352) |
+| Wed, 20 Aug 2025 08:24:47 GMT | The Role of a Tech Virtual Assistant in Enhancing Cybersecurity | Gary Katz | [Read More](https://medium.com/p/759de57f0db0) |
 | Wed, 20 Aug 2025 08:23:10 GMT | Jailbreak d’OpenAI GPT-OSS | Julien Dabert | [Read More](https://medium.com/p/ac7a589dc536) |
+| Wed, 20 Aug 2025 08:22:49 GMT | How to Stop AI Hallucinations in 30 Minutes with Data Contracts | Tochukwu Okonkwor | [Read More](https://medium.com/p/896f9ecb0e28) |
 | Wed, 20 Aug 2025 08:21:34 GMT | How Reading About Cyber Attacks Helped Me Prevent One | Aj | [Read More](https://medium.com/p/519b9811aae1) |
 | Wed, 20 Aug 2025 08:21:28 GMT | The Hacker Who Stole My First Book | Shahzaib | [Read More](https://medium.com/p/c49e4e27fb19) |
 | Wed, 20 Aug 2025 08:15:45 GMT | My CRTP Journey: 13 Hours of Sweat, Scripts, and Survival | Knowntonone | [Read More](https://medium.com/p/1025a322da03) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 01:24:56 GMT | How Scammers Use Raspberry Pi KVM Devices to Evade Security | Internet Exposed | [Read More](https://medium.com/p/fa0c5aad71ac) |
 | Wed, 20 Aug 2025 01:13:49 GMT | My Journey to Becoming a Top Systems Architect: A Roadmap from Basics to the Clouds | m1l0js | [Read More](https://medium.com/p/e4673faefb8c) |
 | Wed, 20 Aug 2025 01:01:58 GMT | ️ Path Traversal in Web Applications: When Hackers Walk Through Your Folders | sukhveer singh | [Read More](https://medium.com/p/60b2c4537d00) |
-| Wed, 20 Aug 2025 00:51:06 GMT | AWS Security — Mastering AWS WAF | Fabian Saacke | [Read More](https://medium.com/p/53d3696c4cff) |
-| Wed, 20 Aug 2025 00:47:35 GMT | ALERTA CRÍTICA: La actualización KB5063878 de Windows 11 podría convertir tu SSD en un pisapapeles. | TEPUY.site | [Read More](https://medium.com/p/0633ee44b939) |
-| Wed, 20 Aug 2025 00:42:57 GMT | Rogers Arkansas Insurance Agency: Comprehensive Coverage for Every Need | Osamamustafa | [Read More](https://medium.com/p/5b3d893b7dc6) |
-| Wed, 20 Aug 2025 00:24:48 GMT | Advancing Penetration Testing and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/83e5adaa989a) |
-| Wed, 20 Aug 2025 00:23:02 GMT | Advancing Penetration Testing and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/3c7d22738bba) |
