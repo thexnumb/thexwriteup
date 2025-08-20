@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 14:13:21 GMT | SSL/TLS Handshake | Puneeth Kumar G | [Read More](https://medium.com/p/8d64638e036e) |
+| Wed, 20 Aug 2025 14:08:37 GMT | AI-Powered Browsers Are Being Tricked! | Brez | [Read More](https://medium.com/p/a817ef1c5c52) |
+| Wed, 20 Aug 2025 14:07:22 GMT | Part 2 — Building a Secure, Practical Authentication System for Android | Karishma Agrawal | [Read More](https://medium.com/p/37afba103e41) |
+| Wed, 20 Aug 2025 14:06:53 GMT | I was a victim…………. and I wouldn’t want you to be too. Here’s what happened | Zino's Insights and Musings | [Read More](https://medium.com/p/88aeed252781) |
+| Wed, 20 Aug 2025 14:05:06 GMT | Is Privacy Dead in 2025? The New Frontline of Cybersecurity | Jenniwrites | [Read More](https://medium.com/p/1becaf973350) |
+| Wed, 20 Aug 2025 14:03:39 GMT | Software Development Security Standards: A Complete Guide for Businesses (2025) | tkxel | [Read More](https://medium.com/p/01fe4b335a5e) |
+| Wed, 20 Aug 2025 14:02:42 GMT | I’m Afraid the Beauty Will Collapse | Prix☆ | [Read More](https://medium.com/p/fc46ab0388d6) |
+| Wed, 20 Aug 2025 14:02:13 GMT | Cyber Briefing: 2025.08.20 | CyberMaterial | [Read More](https://medium.com/p/4acd92c6b261) |
+| Wed, 20 Aug 2025 14:02:08 GMT | What I Learned From Brene Brown’s TED TALK — The Power of Vulnerability | Life Lessons | [Read More](https://medium.com/p/ece106fba4c5) |
+| Wed, 20 Aug 2025 14:02:07 GMT | Datacenter Security Controls: Abridged Edition | abdeldayemnour | [Read More](https://medium.com/p/19556f01937b) |
+| Wed, 20 Aug 2025 13:57:17 GMT | Emergent AI Identity via Symbolic Linguistic Recursion in Stateless LLMs | Evil Bot | [Read More](https://medium.com/p/162b08530bfd) |
+| Wed, 20 Aug 2025 13:55:19 GMT | How Agentic AI is Changing the Landscape of Insider Threat Detection | Lauren Cotton | [Read More](https://medium.com/p/24ccd0141f7a) |
+| Wed, 20 Aug 2025 13:48:25 GMT | alnsnslaal | Picify products | [Read More](https://medium.com/p/0073ecf964cf) |
+| Wed, 20 Aug 2025 13:44:29 GMT | How to Protect Your Web3 Startup From Crypto Scams and Fake Investors | Syndika | [Read More](https://medium.com/p/7ec012e942c0) |
+| Wed, 20 Aug 2025 13:40:33 GMT | The Power of Vulnerability in the Bedroom | Soren Frost | [Read More](https://medium.com/p/a7a46c00ce79) |
+| Wed, 20 Aug 2025 13:38:46 GMT | Decoding the Digital Battlefield: How AI is Revolutionizing Cyber Threat Intelligence | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/ba57ab9b1a51) |
+| Wed, 20 Aug 2025 13:38:30 GMT | Search Engines for PenTesters | Polash Mridha | [Read More](https://medium.com/p/fb80a9375712) |
+| Wed, 20 Aug 2025 13:37:49 GMT | Should health be treated as a security issue? | Donald Ong | [Read More](https://medium.com/p/af67b60065f3) |
 | Wed, 20 Aug 2025 13:29:16 GMT | 7 Realistic VAPT & Bug Bounty Triage Interview Questions (With Answers) | CyberSenpai | [Read More](https://medium.com/p/feb735f2dcc6) |
 | Wed, 20 Aug 2025 13:17:19 GMT | “Layers” Across information realm | Bruno Peixoto | [Read More](https://medium.com/p/4a7719f4bedc) |
 | Wed, 20 Aug 2025 13:16:05 GMT | Why UPI Is the Most Secure Digital Payment Method | bepay | [Read More](https://medium.com/p/3973369d4b94) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 09:10:07 GMT | Apple vs. UK: Encryption Showdown — Did Privacy Win? | Truspex | [Read More](https://medium.com/p/c800c9194160) |
 | Wed, 20 Aug 2025 09:07:19 GMT | GT Infotech — Software Testing Reducing Production Bugs with Selenium-Powered Software Testing… | Stephenjoseeph | [Read More](https://medium.com/p/77e76b61d37c) |
 | Wed, 20 Aug 2025 09:04:50 GMT | Tulsi Gabbard strips security clearances from 37 current and former national security leaders | Daily Update's24 | [Read More](https://medium.com/p/70d6bd311331) |
-| Wed, 20 Aug 2025 09:02:12 GMT | VoxCrypt V2 Released | Codepontiff | [Read More](https://medium.com/p/bd630b043028) |
-| Wed, 20 Aug 2025 09:00:19 GMT | Methods to Create and Handle Custom Exceptions in UserDetailsService of Spring Security | Anh Trần Tuấn | [Read More](https://medium.com/p/03fd28339c61) |
-| Wed, 20 Aug 2025 09:00:17 GMT | Methods to Create and Handle Custom Exceptions in UserDetailsService of Spring Security | Anh Trần Tuấn | [Read More](https://medium.com/p/712b4fe19bd9) |
-| Wed, 20 Aug 2025 08:57:05 GMT | Introducing: Browser Forensics — Your Ultimate Guide to Manual Analysis | Dean | [Read More](https://medium.com/p/fe9255020e17) |
-| Wed, 20 Aug 2025 08:52:41 GMT | Fast-Flux DNS: How Malware Uses DNS to Stay Invisible | Dean | [Read More](https://medium.com/p/883b92c67813) |
-| Wed, 20 Aug 2025 08:48:04 GMT | Data Protection — NextGen2AI | NextGen2AI | [Read More](https://medium.com/p/e45200c7fbcb) |
-| Wed, 20 Aug 2025 08:47:44 GMT | AI-Powered Threat Hunting: The Evolution of Security Operations | Pinakiaich | [Read More](https://medium.com/p/f72c268327bf) |
-| Wed, 20 Aug 2025 08:47:16 GMT | SIEM Solutions vs. SOAR vs. XDR: Which One Protects You Best? | SecureSlate | [Read More](https://medium.com/p/6ec61a89b7fa) |
-| Wed, 20 Aug 2025 08:44:20 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Janishaa | [Read More](https://medium.com/p/92728dd5a4a2) |
-| Wed, 20 Aug 2025 08:40:53 GMT | Recovery Made Easy With James.. | Norman Meg | [Read More](https://medium.com/p/9f6259596212) |
-| Wed, 20 Aug 2025 08:28:27 GMT | Server-side Template Injection with a Custom Exploit in PHP Twig | Bash Overflow | [Read More](https://medium.com/p/02974ac20352) |
-| Wed, 20 Aug 2025 08:24:47 GMT | The Role of a Tech Virtual Assistant in Enhancing Cybersecurity | Gary Katz | [Read More](https://medium.com/p/759de57f0db0) |
-| Wed, 20 Aug 2025 08:23:10 GMT | Jailbreak d’OpenAI GPT-OSS | Julien Dabert | [Read More](https://medium.com/p/ac7a589dc536) |
-| Wed, 20 Aug 2025 08:22:49 GMT | How to Stop AI Hallucinations in 30 Minutes with Data Contracts | Tochukwu Okonkwor | [Read More](https://medium.com/p/896f9ecb0e28) |
-| Wed, 20 Aug 2025 08:21:34 GMT | How Reading About Cyber Attacks Helped Me Prevent One | Aj | [Read More](https://medium.com/p/519b9811aae1) |
-| Wed, 20 Aug 2025 08:21:28 GMT | The Hacker Who Stole My First Book | Shahzaib | [Read More](https://medium.com/p/c49e4e27fb19) |
-| Wed, 20 Aug 2025 08:15:45 GMT | My CRTP Journey: 13 Hours of Sweat, Scripts, and Survival | Knowntonone | [Read More](https://medium.com/p/1025a322da03) |
-| Wed, 20 Aug 2025 08:14:20 GMT | Virtual Visa card buy with crypto | Daniller Castra | [Read More](https://medium.com/p/44dc73f3f119) |
