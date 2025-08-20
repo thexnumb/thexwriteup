@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 23:21:45 GMT | CRYPTOSCOPE: UTILIZING LARGE LANGUAGE MODELS FOR AUTOMATED CRYPTOGRAPHIC LOGIC VULNERABILITY… | YouShin kim | [Read More](https://medium.com/p/c36648ffb6e4) |
 | Wed, 20 Aug 2025 23:08:29 GMT | When Love Turns into Payroll Fraud: The Hidden Scam of Hiring Friends for Fun | Internet Exposed | [Read More](https://medium.com/p/804739aae384) |
 | Wed, 20 Aug 2025 22:45:10 GMT | Aurora EDR | Anthony Mazyck | [Read More](https://medium.com/p/c8feec8b6909) |
 | Wed, 20 Aug 2025 22:42:07 GMT | Personal Service Accounts — Access Delegation in the age of Agentic AI | Dave Buchanan | [Read More](https://medium.com/p/9edd13ff9189) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 16:00:42 GMT | The Reverse Shell Trick That Beats (Almost) Every EDR | Nitin yadav | [Read More](https://medium.com/p/0c02927f72a4) |
 | Wed, 20 Aug 2025 16:00:35 GMT | The OSI Model and the Future of Warfare | Robert Schryvers ChT | [Read More](https://medium.com/p/b79191a87c5c) |
 | Wed, 20 Aug 2025 15:59:37 GMT | One Plan. Every Tech Problem. Solved. | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/718c45667b6b) |
-| Wed, 20 Aug 2025 15:53:06 GMT | TLS Handshake :A Detailed Explanation | Pavitra dakshinya Pavitra | [Read More](https://medium.com/p/1ce675b8426f) |
