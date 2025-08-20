@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 06:27:36 GMT | Face Detection Basics for Beginners — With Haar Cascade FrontalFace Algorithm | Prainila Ranjan | [Read More](https://medium.com/p/c5333969b49a) |
+| Wed, 20 Aug 2025 06:24:03 GMT | How Crimsafe Security Screens Keep Your Home Secure Without Sacrificing Airflow | Gold Coast Security Screens | [Read More](https://medium.com/p/dbd87c51c123) |
+| Wed, 20 Aug 2025 06:18:50 GMT | The Future of Bug Bounties: Are They Keeping Up with Hackers? | Tarush Sharma | [Read More](https://medium.com/p/a6669fe7e855) |
+| Wed, 20 Aug 2025 06:18:30 GMT | Yenileme Eğitimleri: Güvenlik Personelinin Sürekli Gelişimi | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/b349b7c1dd21) |
+| Wed, 20 Aug 2025 06:07:12 GMT | Building Peace Through Knowledge: Upcoming Intensive Training on Alternative Dispute Resolution | Wem'Afrika | [Read More](https://medium.com/p/46020ae255d2) |
+| Wed, 20 Aug 2025 06:06:31 GMT | Phishing: A Cyber Threat that Needs Attention | Jevera Kinawa | [Read More](https://medium.com/p/5b15ba9fc4d5) |
+| Wed, 20 Aug 2025 06:03:43 GMT | Phishing Simulation Services: Protecting Indian Organizations | Noahlucas | [Read More](https://medium.com/p/687684939200) |
+| Wed, 20 Aug 2025 06:01:46 GMT | TCM PWPP: How I Passed the Practical Web Pentest Professional on My First Attempt | Athiwat Tiprasaharn | [Read More](https://medium.com/p/a839c7e5abb8) |
+| Wed, 20 Aug 2025 06:00:28 GMT | Today’s Top Cyber Intelligence Highlights — Aug 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/07c82a31f3b6) |
+| Wed, 20 Aug 2025 05:55:38 GMT | Understanding Operating Systems: Windows and Linux | ZeroCyber | [Read More](https://medium.com/p/72f6cc1c8d10) |
+| Wed, 20 Aug 2025 05:47:30 GMT | Why Cyber Security is the Most Demanding Skill in 2025 | Yash Mankani | [Read More](https://medium.com/p/a1d7d2d4e2dd) |
+| Wed, 20 Aug 2025 05:47:22 GMT | Understanding 6 Types of Cloud Security Breaches in 2025 | QualysecEurope | [Read More](https://medium.com/p/f1f649085471) |
+| Wed, 20 Aug 2025 05:46:20 GMT | On vibe coding and construction | A. T. | [Read More](https://medium.com/p/4d6cb0bd0831) |
+| Wed, 20 Aug 2025 05:45:00 GMT | What is a Cookie? | Prathiush Jayaprakash | [Read More](https://medium.com/p/949fe1f794fc) |
 | Wed, 20 Aug 2025 05:31:57 GMT | ThunderCipher VulnerableCorp | Hitanshu Ashish Gedam | [Read More](https://medium.com/p/c16e2831f484) |
 | Wed, 20 Aug 2025 05:24:25 GMT | Fire and Ash: A Poem of Guidance | Transcendent zebra | [Read More](https://medium.com/p/647cf06798c7) |
 | Wed, 20 Aug 2025 05:24:07 GMT | Mainframe vs. Cloud: Who Wins the Security Battle? | Thomas Joseph | [Read More](https://medium.com/p/79cd43f503cb) |
@@ -56,6 +70,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 01:13:49 GMT | My Journey to Becoming a Top Systems Architect: A Roadmap from Basics to the Clouds | m1l0js | [Read More](https://medium.com/p/e4673faefb8c) |
 | Wed, 20 Aug 2025 01:01:58 GMT | ️ Path Traversal in Web Applications: When Hackers Walk Through Your Folders | sukhveer singh | [Read More](https://medium.com/p/60b2c4537d00) |
 | Wed, 20 Aug 2025 00:51:06 GMT | AWS Security — Mastering AWS WAF | Fabian Saacke | [Read More](https://medium.com/p/53d3696c4cff) |
+| Wed, 20 Aug 2025 00:47:35 GMT | ALERTA CRÍTICA: La actualización KB5063878 de Windows 11 podría convertir tu SSD en un pisapapeles. | TEPUY.site | [Read More](https://medium.com/p/0633ee44b939) |
 | Wed, 20 Aug 2025 00:42:57 GMT | Rogers Arkansas Insurance Agency: Comprehensive Coverage for Every Need | Osamamustafa | [Read More](https://medium.com/p/5b3d893b7dc6) |
 | Wed, 20 Aug 2025 00:24:48 GMT | Advancing Penetration Testing and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/83e5adaa989a) |
 | Wed, 20 Aug 2025 00:23:02 GMT | Advancing Penetration Testing and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/3c7d22738bba) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 20:42:50 GMT | Building….Forensic | Vyasswati13 | [Read More](https://medium.com/p/a91d225d72ef) |
 | Tue, 19 Aug 2025 20:39:11 GMT | Top 25 Bug Bounty Platform | Emon shaikh | [Read More](https://medium.com/p/9f7fff04166b) |
 | Tue, 19 Aug 2025 20:31:57 GMT | Securing Web-Based LLMs: Understanding Prompt Injection and Beyond | Hevin Ateş | [Read More](https://medium.com/p/9b50d61b9610) |
-| Tue, 19 Aug 2025 20:27:08 GMT | ⚡ Playbook Design and Optimization Techniques in SOC Automation | Esra Kayhan | [Read More](https://medium.com/p/a2b3b1311862) |
-| Tue, 19 Aug 2025 20:24:52 GMT | Intro to SOC by MICROSOFT | Vyasswati13 | [Read More](https://medium.com/p/1731351344cd) |
-| Tue, 19 Aug 2025 20:15:49 GMT | Find 10 | Movie Lover | [Read More](https://medium.com/p/b289c78c975d) |
-| Tue, 19 Aug 2025 20:14:17 GMT | Breaking the Mold: Why Innovation in Application Security Can’t Wait | Kalyan Nathadwarawala | [Read More](https://medium.com/p/a800b77a845f) |
-| Tue, 19 Aug 2025 20:11:42 GMT | Offensive Security: Why It Matters? | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/b953b2e950d3) |
-| Tue, 19 Aug 2025 20:11:17 GMT | What I Learned from CompTIA, EC-Council, ISC2, and SANS — And Which I’d Choose Again | Christina Irick | [Read More](https://medium.com/p/1bf69aefe563) |
-| Tue, 19 Aug 2025 20:06:33 GMT | Intel Internal Data Breach for 270k Workers | Matthew.Rosenquist | [Read More](https://medium.com/p/348dda7546f1) |
-| Tue, 19 Aug 2025 20:06:12 GMT | SOCFortress CoPilot Update: Expanding Our AI Chatbot with Threat Intel, Cyber News, Knowledge Base… | SOCFortress | [Read More](https://medium.com/p/63065cd1b2b2) |
-| Tue, 19 Aug 2025 20:01:50 GMT | Salting Hashes: Strengthening Password Security | Lince Mathew | [Read More](https://medium.com/p/78624970f9d9) |
-| Tue, 19 Aug 2025 20:01:21 GMT | Yoast Under Malware Attack | Troy Allen Melquist | [Read More](https://medium.com/p/6b32fc7ff539) |
-| Tue, 19 Aug 2025 19:58:32 GMT | Segurança de IA: a próxima fronteira da cibersegurança corporativa | Marcelo Tonon Chiovatto | [Read More](https://medium.com/p/b6604c548653) |
-| Tue, 19 Aug 2025 19:57:47 GMT | An exciting new update is coming soon for all our investors. | SHP Company | [Read More](https://medium.com/p/1141b9bd1fd9) |
-| Tue, 19 Aug 2025 19:57:23 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/beac63ee0049) |
-| Tue, 19 Aug 2025 19:57:10 GMT | My Resume Is a README for a Broken Project | HimanShunya | [Read More](https://medium.com/p/7bbb1d982e0d) |
-| Tue, 19 Aug 2025 19:47:28 GMT | ¿Qué es el Common Vulnerability Scoring System (CVSS) y cómo se aplica? | Tiziano Mass | [Read More](https://medium.com/p/bda186efb3b1) |
