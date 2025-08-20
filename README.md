@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 03:04:26 GMT | The Psychology of a Hack: Why You Click Before You Think | Sofia | [Read More](https://medium.com/p/fff0106d2f2f) |
+| Wed, 20 Aug 2025 03:01:59 GMT | AI Cold War — How Data Centers, Chip Bans, and Digital Borders Are Redrawing Global Power | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/2ef89cbf3db6) |
+| Wed, 20 Aug 2025 03:00:04 GMT | 7 Essential Tips to Stay Safe on Hotel Wi-Fi | Brian Davis | [Read More](https://medium.com/p/5dc4519dd919) |
+| Wed, 20 Aug 2025 02:59:10 GMT | Forensics - picoGym - Trivial Flag Transfer Protocol | Flower Bed | [Read More](https://medium.com/p/01b5d4381a57) |
+| Wed, 20 Aug 2025 02:53:22 GMT | Who Moved My Cheese? Cybersecurity, AI, and BI Edition | Jay Sivaloganathan | [Read More](https://medium.com/p/7d7c1d7fa5c7) |
+| Wed, 20 Aug 2025 02:49:35 GMT | AI Agents Are the New Execution Layer for Enterprise IT | Parth Chhaparwal | [Read More](https://medium.com/p/33e87b785127) |
+| Wed, 20 Aug 2025 02:35:22 GMT | Don’t Panic Yet: Breaking Down the Latest Apache Solr RCE Vulnerability | AerieWhole123 | [Read More](https://medium.com/p/207028a56369) |
+| Wed, 20 Aug 2025 02:32:08 GMT | HTMLI To PII Leak - Bug Bounty Story | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/1f4364bcc270) |
+| Wed, 20 Aug 2025 02:01:17 GMT | Key Components of Google Cloud Armor’s Security Policies: A Detailed Guide | Neel Shah | [Read More](https://medium.com/p/38285612059c) |
+| Wed, 20 Aug 2025 02:00:43 GMT | Cybersecurity Learning Journey log 1 | Lane Domenden | [Read More](https://medium.com/p/ec5387dd64ec) |
+| Wed, 20 Aug 2025 01:43:25 GMT | Securing Azure Kubernetes Services with Entra / Azure AD RBAC | Niraj Kumar | [Read More](https://medium.com/p/d6d1e90c12e0) |
+| Wed, 20 Aug 2025 01:38:13 GMT | CTI Diaries #4: Attribution and Bias in Threat Intelligence | Deniz Topaloglu | [Read More](https://medium.com/p/bc96c0469090) |
 | Wed, 20 Aug 2025 01:32:23 GMT | Tired of Home Security Blind Spots? Here’s the Simple, Wire-Free Solution You’ve Been Waiting For | Topics2025 | [Read More](https://medium.com/p/a9d26492d7c4) |
 | Wed, 20 Aug 2025 01:24:56 GMT | How Scammers Use Raspberry Pi KVM Devices to Evade Security | Internet Exposed | [Read More](https://medium.com/p/fa0c5aad71ac) |
 | Wed, 20 Aug 2025 01:13:49 GMT | My Journey to Becoming a Top Systems Architect: A Roadmap from Basics to the Clouds | m1l0js | [Read More](https://medium.com/p/e4673faefb8c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 18:18:50 GMT | TryHackMe: Vulnnet: Active | Adhamkhairy | [Read More](https://medium.com/p/a94178765c93) |
 | Tue, 19 Aug 2025 18:14:44 GMT | Mastering Nmap: The Ultimate Guide for Beginners | Reeti Agarwal | [Read More](https://medium.com/p/209d87c124eb) |
 | Tue, 19 Aug 2025 18:05:09 GMT | Social Engineering Toolkit: A Powerful Weapon in Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/9dc33c16bbd1) |
-| Tue, 19 Aug 2025 18:00:35 GMT | What is a Cookie? | Bhasanthms | [Read More](https://medium.com/p/17e9a8bcbfcf) |
-| Tue, 19 Aug 2025 17:56:05 GMT | Top Spy Apps for Social Media Parents Can Trust | Narjis Batool | [Read More](https://medium.com/p/72565d8a09e7) |
-| Tue, 19 Aug 2025 17:52:54 GMT | The Hardest Love Story I Ever Knew | Ink Within | [Read More](https://medium.com/p/6f9f62f38006) |
-| Tue, 19 Aug 2025 17:50:25 GMT | PG Practice — Twiggy (Linux) | Lepton | [Read More](https://medium.com/p/5e75b8b99f84) |
-| Tue, 19 Aug 2025 17:46:37 GMT | From Recon to Root: Exploiting the vsFTPd Backdoor on Metasploitable 2 | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/c74cfd013bfc) |
-| Tue, 19 Aug 2025 17:45:54 GMT | Inside the ERMAC 3.0 Banking Trojan: Malware-as-a-Service Laid Bare by Source Code Leak. | eL Njas!™ | [Read More](https://medium.com/p/caf1e0cc64f4) |
-| Tue, 19 Aug 2025 17:42:37 GMT | How to setup a rooted Android Emulator, the last guide you’ll ever need! | Yuvraj Darekar | [Read More](https://medium.com/p/ba0775a200e7) |
-| Tue, 19 Aug 2025 17:42:10 GMT | 5 Security Fixes Every Developer Should Know About | DevTrendsDaily | [Read More](https://medium.com/p/639b3891d075) |
-| Tue, 19 Aug 2025 17:35:49 GMT | 5 Cybersecurity Mistakes That Could Kill Your Small Business | Mahathi Medicherla | [Read More](https://medium.com/p/363d680cecf7) |
-| Tue, 19 Aug 2025 17:34:58 GMT | Who goes there? Authn & Authz | Harish Thuwal | [Read More](https://medium.com/p/61c51107812a) |
-| Tue, 19 Aug 2025 17:31:43 GMT | Testing out some shell scripting about creating logs with random messages, filter logs for… | Tyrik Emptage | [Read More](https://medium.com/p/07722ede38dc) |
-| Tue, 19 Aug 2025 17:25:39 GMT | Seeking New (international)Cyber Talent: International Summer School Kicks Off in The Hague | Berend Watchus | [Read More](https://medium.com/p/2aa20c861eed) |
