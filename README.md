@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 16:43:01 GMT | What exactly is the Dark Web? | James N | [Read More](https://medium.com/p/e8b818fc16aa) |
+| Wed, 20 Aug 2025 16:29:59 GMT | XenoRAT malware campaign hits multiple embassies in South Korea | Welsh | [Read More](https://medium.com/p/92e4048adb70) |
+| Wed, 20 Aug 2025 16:27:39 GMT | In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network | Welsh | [Read More](https://medium.com/p/5092891270c6) |
+| Wed, 20 Aug 2025 16:26:32 GMT | A Few Clicks Is All It Takes | Olodudeibukun | [Read More](https://medium.com/p/d40b92b869b8) |
+| Wed, 20 Aug 2025 16:26:07 GMT | Finding Your First High Severity Bug | Rehan Sohail | [Read More](https://medium.com/p/535b4631517b) |
+| Wed, 20 Aug 2025 16:25:06 GMT | The Modern Playbook for Data Protection: Lessons from PCI DSS v4.0 | Wiran Larbi | [Read More](https://medium.com/p/a51ad0cd4f1f) |
+| Wed, 20 Aug 2025 16:21:33 GMT | TryHackMe - AD Tier Model - WriteUp | Axoloth | [Read More](https://medium.com/p/1377e7718453) |
 | Wed, 20 Aug 2025 16:20:20 GMT | Exploits —Vulnerabilities —  Chains those are being Catastrophic…… | _Anirudh_ | [Read More](https://medium.com/p/116178deeeb3) |
 | Wed, 20 Aug 2025 16:17:50 GMT | Biological Computing and the Coming Disruption of AI | Carlo Tortora-Brayda Di Belvedere | [Read More](https://medium.com/p/bf32f74f0fb5) |
 | Wed, 20 Aug 2025 16:17:19 GMT | When My WhatsApp Was Hijacked Overnight: SIM Swapping | Shahzaib | [Read More](https://medium.com/p/58e35f38463e) |
@@ -33,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 15:48:39 GMT | Basic Pentesting — TryHackMe Walkthrough | echoVoid | [Read More](https://medium.com/p/73ea07b37630) |
 | Wed, 20 Aug 2025 15:48:12 GMT | Engineered to Fail: The DNA of Negligent Cyber Defenses | Deep Specter Research | [Read More](https://medium.com/p/22466a034b28) |
 | Wed, 20 Aug 2025 15:46:01 GMT | Bug Bounty: Sensitive Data Exposure — How Info Spills Become Breaches ️‍♂️ | Rajkumar Kumawat | [Read More](https://medium.com/p/9778749855ea) |
+| Wed, 20 Aug 2025 15:44:43 GMT | Forense Digital no AnyDesk: Onde Encontrar Evidências de Conexões Remotas | Lucas Soeiro | [Read More](https://medium.com/p/8a8b04c5ef96) |
 | Wed, 20 Aug 2025 15:38:27 GMT | “The 7 Unspoken Recon Tricks That Fund My Bug Bounty Addiction” | Aman Sharma | [Read More](https://medium.com/p/bae6fb8768a5) |
 | Wed, 20 Aug 2025 15:33:36 GMT | TryHackMe — Publisher CTF Write-up | Trang Vu | [Read More](https://medium.com/p/1fd5989561cb) |
 | Wed, 20 Aug 2025 15:33:17 GMT | CVE-2023–34362 and Nova Scotia’s Data Breach: Lessons in Cyber Risk Management | Daniel Londoño B. | [Read More](https://medium.com/p/c3df29be2d3e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 12:18:59 GMT | Is Your Property Really Safe? Discover Dubai’s Top Security Solution | Abhilashtec | [Read More](https://medium.com/p/03e67708a3fc) |
 | Wed, 20 Aug 2025 12:16:11 GMT | IDOR in Password Reset Workflow — A Path to Account Takeover | Ehtesham Ul Haq | [Read More](https://medium.com/p/b91acddb78b2) |
 | Wed, 20 Aug 2025 12:11:35 GMT | Introducting Resource Control Policies | Tomasz Brzoza | [Read More](https://medium.com/p/b3a7207594d0) |
-| Wed, 20 Aug 2025 12:11:04 GMT | AI LLM Security: A Complete Guide for 2025 | Apilchand | [Read More](https://medium.com/p/a738032f9fdc) |
-| Wed, 20 Aug 2025 12:07:52 GMT | What Problems Does Vulnerability Assessment and Penetration Testing Solve for Organizations? | Ziya Zoe | [Read More](https://medium.com/p/0e393d9ac4c4) |
-| Wed, 20 Aug 2025 12:07:48 GMT | The Importance of AI Security Operations & Threat Management Services in Today’s Digital Age | sanya | [Read More](https://medium.com/p/57ce39366402) |
-| Wed, 20 Aug 2025 12:07:09 GMT | A Guide to Integrating AI into Your SDLC and CI/CD Pipeline | Keith Foster | [Read More](https://medium.com/p/3fe4405ffe9a) |
-| Wed, 20 Aug 2025 12:05:36 GMT | From Coupon to Compromise: Inside the McDonald’s Digital Ecosystem Breach | Pentestjunkie07 | [Read More](https://medium.com/p/2097c4525da5) |
-| Wed, 20 Aug 2025 12:01:56 GMT | Authenticated Encryption With Additional Data (AEAD): Meet AES GCM, ChaCha20/Poly1305, AES CCM… | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/6ffa1fa37c0f) |
-| Wed, 20 Aug 2025 12:00:00 GMT | How I EARNED $500 ONLINE IN 3 DAYS using AI Tools — WITHOUT CODING | sana irshad | [Read More](https://medium.com/p/92c6dc84424a) |
-| Wed, 20 Aug 2025 11:57:56 GMT | [MobileHackingLab] Cyclic Scanner | z3r0xk.h | [Read More](https://medium.com/p/37a48d71a82f) |
