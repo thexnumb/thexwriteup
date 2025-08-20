@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 12:42:28 GMT | Intel’s Leaked Truth -How 270,000 Employee Records Went Unprotected | Inforsecpro | [Read More](https://medium.com/p/d07674c3a1bc) |
+| Wed, 20 Aug 2025 12:38:38 GMT | Breaching the IRC Fortress: A Tactical Analysis of UnrealIRCd Backdoor Assault | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/3992099fee3a) |
+| Wed, 20 Aug 2025 12:30:14 GMT | Safety Measures for Cybersecurity in Connected Medical Devices | DDReg Pharma | [Read More](https://medium.com/p/0da3d5270677) |
+| Wed, 20 Aug 2025 12:29:19 GMT | Get-binbox.com — Scam | Editor | [Read More](https://medium.com/p/fa3ebe45b686) |
+| Wed, 20 Aug 2025 12:27:32 GMT | Semi-Automated Cyber Threat News Processing with LLMs | Andrey Shvetsov | [Read More](https://medium.com/p/7e919c224bbb) |
+| Wed, 20 Aug 2025 12:22:30 GMT | Men Don’t Say “I’m Tired of Being Strong” | Dhruvdeep Singh | [Read More](https://medium.com/p/c6052c676694) |
+| Wed, 20 Aug 2025 12:22:15 GMT | Luckyinvestss.com — Scam | Editor | [Read More](https://medium.com/p/9a2e1f0d3c04) |
+| Wed, 20 Aug 2025 12:18:59 GMT | Is Your Property Really Safe? Discover Dubai’s Top Security Solution | Abhilashtec | [Read More](https://medium.com/p/03e67708a3fc) |
+| Wed, 20 Aug 2025 12:16:11 GMT | IDOR in Password Reset Workflow — A Path to Account Takeover | Ehtesham Ul Haq | [Read More](https://medium.com/p/b91acddb78b2) |
+| Wed, 20 Aug 2025 12:11:35 GMT | Introducting Resource Control Policies | Tomasz Brzoza | [Read More](https://medium.com/p/b3a7207594d0) |
+| Wed, 20 Aug 2025 12:11:04 GMT | AI LLM Security: A Complete Guide for 2025 | Apilchand | [Read More](https://medium.com/p/a738032f9fdc) |
+| Wed, 20 Aug 2025 12:07:52 GMT | What Problems Does Vulnerability Assessment and Penetration Testing Solve for Organizations? | Ziya Zoe | [Read More](https://medium.com/p/0e393d9ac4c4) |
+| Wed, 20 Aug 2025 12:07:48 GMT | The Importance of AI Security Operations & Threat Management Services in Today’s Digital Age | sanya | [Read More](https://medium.com/p/57ce39366402) |
+| Wed, 20 Aug 2025 12:07:09 GMT | A Guide to Integrating AI into Your SDLC and CI/CD Pipeline | Keith Foster | [Read More](https://medium.com/p/3fe4405ffe9a) |
+| Wed, 20 Aug 2025 12:05:36 GMT | From Coupon to Compromise: Inside the McDonald’s Digital Ecosystem Breach | Pentestjunkie07 | [Read More](https://medium.com/p/2097c4525da5) |
+| Wed, 20 Aug 2025 12:01:56 GMT | Authenticated Encryption With Additional Data (AEAD): Meet AES GCM, ChaCha20/Poly1305, AES CCM… | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/6ffa1fa37c0f) |
+| Wed, 20 Aug 2025 12:00:00 GMT | How I EARNED $500 ONLINE IN 3 DAYS using AI Tools — WITHOUT CODING | sana irshad | [Read More](https://medium.com/p/92c6dc84424a) |
+| Wed, 20 Aug 2025 11:57:56 GMT | [MobileHackingLab] Cyclic Scanner | z3r0xk.h | [Read More](https://medium.com/p/37a48d71a82f) |
+| Wed, 20 Aug 2025 11:57:49 GMT | [MobileHackingLab] Post Board | z3r0xk.h | [Read More](https://medium.com/p/dc07b1c9064b) |
+| Wed, 20 Aug 2025 11:57:42 GMT | [MobileHackingLab] Food Store | z3r0xk.h | [Read More](https://medium.com/p/86e90a61283b) |
+| Wed, 20 Aug 2025 11:56:05 GMT | What Makes Vulnerability Assessment and Penetration Testing Different from a Regular Security Audit? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/88aaa744c4dd) |
+| Wed, 20 Aug 2025 11:53:32 GMT | 30 Cybersecurity Search Engines Every Researcher Should Know | Rue | [Read More](https://medium.com/p/0093e6589323) |
+| Wed, 20 Aug 2025 11:52:40 GMT | Hyperscalers: The Technology Backbone Powering the Digital Economy | Sreenivas Soman Nair | [Read More](https://medium.com/p/fee51718db51) |
 | Wed, 20 Aug 2025 11:36:55 GMT | ️ “The Audio File That Spoke Too Much: My Deep Dive into an S3 Misconfiguration” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d103f41e7b10) |
 | Wed, 20 Aug 2025 11:21:05 GMT | Mobile App Development Process: Step-by-Step Business Guide | Bhavesh Rajpurohit | [Read More](https://medium.com/p/046aaeff45af) |
 | Wed, 20 Aug 2025 11:17:27 GMT | Understanding Model Theft: Risks and Prevention in AI | Brittney Ginther | [Read More](https://medium.com/p/b3f100aa6b63) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 07:46:01 GMT | Understanding SQL Injection Attacks and How to Prevent Them | Samina Perveen | [Read More](https://medium.com/p/3bca460286e4) |
 | Wed, 20 Aug 2025 07:31:52 GMT | Detecting Reflected XSS with Bash: A Practical Guide for Bug Bounty Hunters | Saijayanth | [Read More](https://medium.com/p/63206eb395e9) |
 | Wed, 20 Aug 2025 07:29:58 GMT | ประจำวันพุธที่ 20 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f44132462dde) |
-| Wed, 20 Aug 2025 07:29:53 GMT | How to Use NordVPN in the U.S. — A Complete Guide | Sandhya | [Read More](https://medium.com/p/0e17af654f97) |
-| Wed, 20 Aug 2025 07:29:25 GMT | Nem todo relatório precisa ser crítico para ser relevante. | Franciscogonsalves | [Read More](https://medium.com/p/24084fc380fa) |
-| Wed, 20 Aug 2025 07:25:25 GMT | Citadel: A Privacy-First Framework for Secure LLM Deployment | Ebubekir Karamustafa | [Read More](https://medium.com/p/8b8f967a08d8) |
-| Wed, 20 Aug 2025 07:21:12 GMT | Improving Security Incident Response at Agoda with Large Language Models | Agoda Engineering | [Read More](https://medium.com/p/78b1f33151e0) |
-| Wed, 20 Aug 2025 07:15:16 GMT | Top VAPT Companies in the USA | Jay Chris Roberts | [Read More](https://medium.com/p/15dc98c3c317) |
-| Wed, 20 Aug 2025 07:08:16 GMT | Mastering OAuth Security in Spring Boot: CSRF, Session IDs & Device Metadata (2025 Guide) | CodeTalks | [Read More](https://medium.com/p/0ae190be5965) |
-| Wed, 20 Aug 2025 07:07:46 GMT | JSON Web Token (JWT) PORTSWİGGER Lab Çözümleri-2 | ENES KURTULAN | [Read More](https://medium.com/p/c4404215f32f) |
-| Wed, 20 Aug 2025 07:04:29 GMT | OWASP Top 10 | Bhasanthms | [Read More](https://medium.com/p/960c9520fc75) |
-| Wed, 20 Aug 2025 07:03:13 GMT | The QR Code You Never Ordered | Meni Tasa (@CyberBriefProject) | [Read More](https://medium.com/p/2c42d368442a) |
-| Wed, 20 Aug 2025 06:59:06 GMT | Enhancing Enterprise Security with Advanced Monitoring and Incident Response | Vijilan | [Read More](https://medium.com/p/999a6bb920bd) |
-| Wed, 20 Aug 2025 06:52:16 GMT | EX4000 Series Switches By Juniper Networks: Next-Gen Wired and Wireless Innovation | Juara IT Solutions | [Read More](https://medium.com/p/b0e2327c853d) |
-| Wed, 20 Aug 2025 06:50:42 GMT | Saudi Arabia Cyber Security: Evolving Trends Shaping the Future | Mark Spark Solutions | [Read More](https://medium.com/p/360d8b81d549) |
-| Wed, 20 Aug 2025 06:47:19 GMT | Best Practices for Strategic CCTV Placement in UAE Homes | cctv-installation-dubai | [Read More](https://medium.com/p/2a32e73ae717) |
-| Wed, 20 Aug 2025 06:46:51 GMT | Can AI Replace Ethical Hackers: Myths vs Reality? | Manisha Chaudhary | [Read More](https://medium.com/p/714dd0dc96c1) |
-| Wed, 20 Aug 2025 06:46:44 GMT | The Impact of Credential Stuffing and How to Protect Your Accounts | Samina Perveen | [Read More](https://medium.com/p/248809ffb83f) |
-| Wed, 20 Aug 2025 06:41:49 GMT | Top Certifications for Network Engineers and IT Professionals in 2025 | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/c4ccfc7dcf61) |
-| Wed, 20 Aug 2025 06:38:01 GMT | There’s a Lesson Hidden Here | Evelyn | [Read More](https://medium.com/p/5913f6484f0b) |
-| Wed, 20 Aug 2025 06:32:30 GMT | Debunking GDPR Myths: Facts That Every Business Should Know | Ampcus Cyber | [Read More](https://medium.com/p/0e0a8c64a914) |
-| Wed, 20 Aug 2025 06:31:56 GMT | Episode 5: Surveillance Legislation Amendment (Identify and Disrupt) Bill 2020 | Lucifer Jeufo | [Read More](https://medium.com/p/98f43dd1faa3) |
-| Wed, 20 Aug 2025 06:27:36 GMT | Face Detection Basics for Beginners — With Haar Cascade FrontalFace Algorithm | Prainila Ranjan | [Read More](https://medium.com/p/c5333969b49a) |
-| Wed, 20 Aug 2025 06:24:03 GMT | How Crimsafe Security Screens Keep Your Home Secure Without Sacrificing Airflow | Gold Coast Security Screens | [Read More](https://medium.com/p/dbd87c51c123) |
-| Wed, 20 Aug 2025 06:18:50 GMT | The Future of Bug Bounties: Are They Keeping Up with Hackers? | Tarush Sharma | [Read More](https://medium.com/p/a6669fe7e855) |
-| Wed, 20 Aug 2025 06:18:30 GMT | Yenileme Eğitimleri: Güvenlik Personelinin Sürekli Gelişimi | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/b349b7c1dd21) |
