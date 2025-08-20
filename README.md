@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 19:26:13 GMT | The Great Divide between two recently published Theories of Everything: A Debate on the Universe’s… | Berend Watchus | [Read More](https://medium.com/p/0d4bc413de84) |
+| Wed, 20 Aug 2025 19:18:27 GMT | Securing the Application Layer: Why Your Firewall Isn’t Enough | Menelik | [Read More](https://medium.com/p/ceeadb649a2b) |
 | Wed, 20 Aug 2025 19:13:00 GMT | PG Practice — vmdak (Linux) | Lepton | [Read More](https://medium.com/p/bcc10d6d1a29) |
 | Wed, 20 Aug 2025 19:08:27 GMT | Unbreakable Drive Encryption Management for SSDs and HDDs | Opal Lock by Fidelity Height | [Read More](https://medium.com/p/339418a962ba) |
+| Wed, 20 Aug 2025 19:05:17 GMT | Razorpay Webhook Signature Mismatch: Float Precision Issue | Gaurav Shandilya | [Read More](https://medium.com/p/71003831efc2) |
 | Wed, 20 Aug 2025 19:03:56 GMT | 24/7 professional Home Monitoring Away from home? We’ve got it covered. | Visual Monitoring Solutions | [Read More](https://medium.com/p/5d2ae67abd34) |
 | Wed, 20 Aug 2025 19:03:11 GMT | Cybersecurity in 15 Minutes: A Beginner’s Guide to Staying Safe Online | Jacky Liu | [Read More](https://medium.com/p/6904308ebf82) |
 | Wed, 20 Aug 2025 19:01:20 GMT | The Fifty One Second Apocalypse That Shattered Every Cybersecurity Framework | Abdalla Elzedy | [Read More](https://medium.com/p/931c9a7b92f4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 14:32:08 GMT | Web Cache Poisoning & Cache Deception: The Hidden Threats in Modern Web Apps | sukhveer singh | [Read More](https://medium.com/p/18374462357a) |
 | Wed, 20 Aug 2025 14:31:52 GMT | The Great Tech Interview Paradox: Why MANGA’s Hiring Process Misses the Mark | Shabana Khanam | [Read More](https://medium.com/p/b9c977424904) |
 | Wed, 20 Aug 2025 14:29:49 GMT | My CRTA (Certified Red Team Analyst) Exam Experience with Cyberwarfare | Knowntonone | [Read More](https://medium.com/p/329339d73df0) |
-| Wed, 20 Aug 2025 14:24:53 GMT | AI Cyber Attacks: Why Every Business Needs to Pay Attention | Tech Caps | [Read More](https://medium.com/p/5bc2b0430f5e) |
-| Wed, 20 Aug 2025 14:13:21 GMT | SSL/TLS Handshake | Puneeth Kumar G | [Read More](https://medium.com/p/8d64638e036e) |
-| Wed, 20 Aug 2025 14:08:37 GMT | AI-Powered Browsers Are Being Tricked! | Brez | [Read More](https://medium.com/p/a817ef1c5c52) |
