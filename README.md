@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 05:31:57 GMT | ThunderCipher VulnerableCorp | Hitanshu Ashish Gedam | [Read More](https://medium.com/p/c16e2831f484) |
+| Wed, 20 Aug 2025 05:24:25 GMT | Fire and Ash: A Poem of Guidance | Transcendent zebra | [Read More](https://medium.com/p/647cf06798c7) |
+| Wed, 20 Aug 2025 05:24:07 GMT | Mainframe vs. Cloud: Who Wins the Security Battle? | Thomas Joseph | [Read More](https://medium.com/p/79cd43f503cb) |
+| Wed, 20 Aug 2025 05:17:41 GMT | ️‍♂️ Passive Reconnaissance in Penetration Testing: The Art of Staying Unseen (Part 1) | YoungerSibling | [Read More](https://medium.com/p/b5b7ee706f24) |
+| Wed, 20 Aug 2025 05:15:56 GMT | Why Hackers Don’t Attack WAFs | Taulan Zauzanov | [Read More](https://medium.com/p/b0091f0280b8) |
 | Wed, 20 Aug 2025 05:14:12 GMT | Residential Security Guard Services in Manchester - Marvellous Security Services | Marvelloussecurities | [Read More](https://medium.com/p/d35fe8775273) |
 | Wed, 20 Aug 2025 05:05:14 GMT | When a Fake Salesforce App Broke into Google | Devansh Patel | [Read More](https://medium.com/p/0f2cdaac0fde) |
 | Wed, 20 Aug 2025 05:01:55 GMT | React Native Secure Storage: Cross-Platform Authentication Guide | Ms. Byte Dev | [Read More](https://medium.com/p/24d1d89849e4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 19:57:23 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/beac63ee0049) |
 | Tue, 19 Aug 2025 19:57:10 GMT | My Resume Is a README for a Broken Project | HimanShunya | [Read More](https://medium.com/p/7bbb1d982e0d) |
 | Tue, 19 Aug 2025 19:47:28 GMT | ¿Qué es el Common Vulnerability Scoring System (CVSS) y cómo se aplica? | Tiziano Mass | [Read More](https://medium.com/p/bda186efb3b1) |
-| Tue, 19 Aug 2025 19:42:09 GMT | Fuzzing Binary Applications — Part 1: From Concepts to a Toy Fuzzer | anotherik | [Read More](https://medium.com/p/1adb097acefe) |
-| Tue, 19 Aug 2025 19:39:26 GMT | When Defenses Become Dangers: The Paradox of AI in Cybersecurity — A.M.E. | The Dialect | [Read More](https://medium.com/p/73098ba352b5) |
-| Tue, 19 Aug 2025 19:29:45 GMT | OWASP GenAI Security Project: Segurança por Design na Era da Inteligência Artificial | Wagner Iatalessi do Valle | [Read More](https://medium.com/p/8f605d0971bd) |
-| Tue, 19 Aug 2025 19:29:08 GMT | Top 7 Benefits of Professional Data Backup and Disaster Recovery Services | Techridge Solutions | [Read More](https://medium.com/p/376ac1a3d7eb) |
-| Tue, 19 Aug 2025 19:27:35 GMT | How to Secure Your HubSpot CRM Against the Latest Social Engineering Attacks | Sean - HubSpot Architect | [Read More](https://medium.com/p/c56c75aea775) |
