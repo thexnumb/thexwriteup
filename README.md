@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 20:15:09 GMT | Pickle Rick Tryhackme (THM) Walkthrough | Ammar Ahmed | [Read More](https://medium.com/p/2c9126beb498) |
+| Wed, 20 Aug 2025 20:13:24 GMT | Stored XSS via Unsanitized SVG File Upload | youssef awad | [Read More](https://medium.com/p/d7e4619cc937) |
+| Wed, 20 Aug 2025 20:08:49 GMT | A Security Analyst’s Guide to Security Identifiers (SIDs) | AlanKaliX | [Read More](https://medium.com/p/c1589725afeb) |
+| Wed, 20 Aug 2025 20:02:44 GMT | The Behavioral Intelligence Revolution: How Runtime Data Is Reshaping Threat Management | Spektion | [Read More](https://medium.com/p/2a2e2f202c63) |
+| Wed, 20 Aug 2025 19:54:26 GMT | How Hackers Use ChatGPT for Cybersecurity ⚡ | Vipul Sonule | [Read More](https://medium.com/p/bd221cb0bbcf) |
+| Wed, 20 Aug 2025 19:53:56 GMT | Core Terminologies | The Darkarmy | [Read More](https://medium.com/p/cae61955802a) |
+| Wed, 20 Aug 2025 19:52:43 GMT | Yelp XSS Flaw Opens the Door to Account Takeovers | Monika sharma | [Read More](https://medium.com/p/3c058a87dc3e) |
+| Wed, 20 Aug 2025 19:52:31 GMT | I Found an Admin API Key in Public JavaScript | Ibtissam hammadi | [Read More](https://medium.com/p/1c7e96c0d1c0) |
+| Wed, 20 Aug 2025 19:52:02 GMT | Dev Said ‘It’s Encrypted, It’s Safe’ Security Said “Think Again” | Blue_eye | [Read More](https://medium.com/p/502cb8046b0a) |
+| Wed, 20 Aug 2025 19:50:53 GMT | How to Create a Fake Persona: Sock Puppet | Cenky | [Read More](https://medium.com/p/e4a6f8404d57) |
+| Wed, 20 Aug 2025 19:49:27 GMT | AS-REP Roasting Saldırılarının İzlenmesi: Wazuh ve Windows Event Log Analizi | Berat K. | [Read More](https://medium.com/p/4c7af40b9f97) |
+| Wed, 20 Aug 2025 19:49:01 GMT | One Middleware to Secure Swagger Across All Environments | Serhat Kaçmaz | [Read More](https://medium.com/p/b478ef8b6d4c) |
 | Wed, 20 Aug 2025 19:26:13 GMT | The Great Divide between two recently published Theories of Everything: A Debate on the Universe’s… | Berend Watchus | [Read More](https://medium.com/p/0d4bc413de84) |
 | Wed, 20 Aug 2025 19:18:27 GMT | Securing the Application Layer: Why Your Firewall Isn’t Enough | Menelik | [Read More](https://medium.com/p/ceeadb649a2b) |
 | Wed, 20 Aug 2025 19:13:00 GMT | PG Practice — vmdak (Linux) | Lepton | [Read More](https://medium.com/p/bcc10d6d1a29) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 14:53:59 GMT | Default Isn’t Safe: The Unseen Dangers of AWS IAM Role Exploitation (And How to Stop Them) | Openiam | [Read More](https://medium.com/p/6e2722330719) |
 | Wed, 20 Aug 2025 14:53:35 GMT | How Claude Code Plus a Million Tokens Could Win the Workplace | Adewuyi Abayomi Daniel | [Read More](https://medium.com/p/e62dcef4a4bf) |
 | Wed, 20 Aug 2025 14:47:15 GMT | Bfstechinvest.com — Scam | Editor | [Read More](https://medium.com/p/df5001c2dbdb) |
-| Wed, 20 Aug 2025 14:47:01 GMT | Path Traversal | Mohammed Hassan | [Read More](https://medium.com/p/badb260fe16b) |
-| Wed, 20 Aug 2025 14:46:55 GMT | If Someone Sends ‘I Love You’… Don’t Click! A Virus Warning | S Similimran | [Read More](https://medium.com/p/b9b9a32619dd) |
-| Wed, 20 Aug 2025 14:44:45 GMT | Data Privacy and AI: Should We Be Afraid of Where Our Information Ends Up? | Mareh Agoreyo | [Read More](https://medium.com/p/db32eff84cbe) |
-| Wed, 20 Aug 2025 14:43:56 GMT | How Should Information Be Managed? | TheDevStory | [Read More](https://medium.com/p/cd735a17f456) |
-| Wed, 20 Aug 2025 14:43:08 GMT | Security Made Smarter | Quva India | [Read More](https://medium.com/p/68fb0b9abf29) |
-| Wed, 20 Aug 2025 14:36:41 GMT | Dad, Are You Okay? | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/4961ba87e8a3) |
-| Wed, 20 Aug 2025 14:36:31 GMT | Cookies | Puneeth Kumar G | [Read More](https://medium.com/p/bf06bc16cd33) |
-| Wed, 20 Aug 2025 14:35:39 GMT | CyberPath by Vaishal: My Journey to Becoming a CISO in 6 Years. | CyberPath by Vaishal | [Read More](https://medium.com/p/5483ea6e6e6c) |
-| Wed, 20 Aug 2025 14:33:55 GMT | HTB Prometheon (Day 2) | makeki | [Read More](https://medium.com/p/481362179e94) |
-| Wed, 20 Aug 2025 14:32:08 GMT | Web Cache Poisoning & Cache Deception: The Hidden Threats in Modern Web Apps | sukhveer singh | [Read More](https://medium.com/p/18374462357a) |
-| Wed, 20 Aug 2025 14:31:52 GMT | The Great Tech Interview Paradox: Why MANGA’s Hiring Process Misses the Mark | Shabana Khanam | [Read More](https://medium.com/p/b9c977424904) |
-| Wed, 20 Aug 2025 14:29:49 GMT | My CRTA (Certified Red Team Analyst) Exam Experience with Cyberwarfare | Knowntonone | [Read More](https://medium.com/p/329339d73df0) |
