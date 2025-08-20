@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 17:32:51 GMT | First Time DEF CON? Here’s What I Learned at DEF CON 33 | Joker | [Read More](https://medium.com/p/f2dd577876e0) |
+| Wed, 20 Aug 2025 17:32:28 GMT | COOKIE | Pavitra dakshinya Pavitra | [Read More](https://medium.com/p/c0404dca8726) |
+| Wed, 20 Aug 2025 17:31:16 GMT | Inside the Dark Web: How Threat Intelligence Can Save You from the Next Cyber Attack | Paritosh | [Read More](https://medium.com/p/77ce3618a0eb) |
+| Wed, 20 Aug 2025 17:22:29 GMT | How Ordinary People Become High Performers: 10 Key Habits | Vijay Kumar Gupta | [Read More](https://medium.com/p/969c475e412f) |
+| Wed, 20 Aug 2025 17:18:46 GMT | Understanding the Diamond Model: A Cybersecurity Lens for Analyzing Intrusions | Virginia Nelai | [Read More](https://medium.com/p/1127e9b784c9) |
+| Wed, 20 Aug 2025 17:18:36 GMT | OWASP : The Biggest Web Security Risks | Pavitra dakshinya Pavitra | [Read More](https://medium.com/p/c6f6709401b5) |
+| Wed, 20 Aug 2025 17:17:59 GMT | Cyber Kill Chain vs Unified Kill Chain: Know the Difference, Think Like an Analyst | Virginia Nelai | [Read More](https://medium.com/p/fe7190444119) |
+| Wed, 20 Aug 2025 17:17:21 GMT | The Hacker Mindset: Inside the Cyber Attack Lifecycle | Virginia Nelai | [Read More](https://medium.com/p/52ca331b2a1f) |
+| Wed, 20 Aug 2025 17:12:18 GMT | Simple Beginner CTF :Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/7af774c94c46) |
 | Wed, 20 Aug 2025 17:09:05 GMT | PG Practice — Extplorer (Linux) | Lepton | [Read More](https://medium.com/p/b129ba599019) |
+| Wed, 20 Aug 2025 17:08:57 GMT | Integrate Office 365 with Okta for SSO | James Rawlings | [Read More](https://medium.com/p/b3d1ab927a01) |
 | Wed, 20 Aug 2025 17:05:43 GMT | WEBFANG v2.0 | Tyler Cole Beyhan | [Read More](https://medium.com/p/80d47284d4d7) |
 | Wed, 20 Aug 2025 16:59:42 GMT | Acoustic Side-Channel Attacks: When Hackers Can Hear Your Secrets | Akshay Chauhan | [Read More](https://medium.com/p/24b8240d8dca) |
 | Wed, 20 Aug 2025 16:46:56 GMT | Understanding the OWASP Top 10: Real-Life Lessons in Web Security | Meinam Sanjana Devi | [Read More](https://medium.com/p/3a30d692bc73) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 13:14:19 GMT | Analysis of traffic and payload extracted from Tenda Router Honeypot | Frostbyte | [Read More](https://medium.com/p/5bd9867176e6) |
 | Wed, 20 Aug 2025 13:10:33 GMT | NATO in the 21st Century: From Defense in Europe to Global Security | Hüsnü Mehmet Turan | [Read More](https://medium.com/p/36ed0f5ec73b) |
 | Wed, 20 Aug 2025 13:02:17 GMT | The Cybersecurity Survival Kit for SMBs | Evgeny Ermakov | [Read More](https://medium.com/p/c98c4915d63a) |
-| Wed, 20 Aug 2025 13:02:17 GMT | Thumbtack Reveals 2025’s Buggiest Cities, with Austin Crawling to the Top | Aldo Ceja | [Read More](https://medium.com/p/3d658a294bce) |
-| Wed, 20 Aug 2025 12:58:48 GMT | One condition to outpace them all — Understanding Race Conditions — Concurrency errors — CWE 362 | Mert Kurtulmuş | [Read More](https://medium.com/p/944db034fa42) |
-| Wed, 20 Aug 2025 12:46:30 GMT | Become a Certified Cyber Security Professional with A2N Academy | Sureshnextwebi | [Read More](https://medium.com/p/ee3ada97eb36) |
-| Wed, 20 Aug 2025 12:42:28 GMT | Intel’s Leaked Truth -How 270,000 Employee Records Went Unprotected | Inforsecpro | [Read More](https://medium.com/p/d07674c3a1bc) |
-| Wed, 20 Aug 2025 12:42:27 GMT | Mobile Hack Checkpoints: How to Know If Your Phone Has Been Compromised | Lionreachmedia | [Read More](https://medium.com/p/9f1e6f994dfd) |
-| Wed, 20 Aug 2025 12:40:40 GMT | Tüm Koşullara tur bindirecek koşul — Race Condition’ı anlamak -Eşzamanlılık hataları — CWE 362 | Mert Kurtulmuş | [Read More](https://medium.com/p/7325d1fbf1bb) |
-| Wed, 20 Aug 2025 12:39:48 GMT | Steam-stock.com — Scam | Editor | [Read More](https://medium.com/p/0f7d0c15db8f) |
-| Wed, 20 Aug 2025 12:38:38 GMT | Breaching the IRC Fortress: A Tactical Analysis of UnrealIRCd Backdoor Assault | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/3992099fee3a) |
-| Wed, 20 Aug 2025 12:35:19 GMT |  | Supraja Tangella | [Read More](https://medium.com/p/135c90fdaa58) |
-| Wed, 20 Aug 2025 12:30:14 GMT | Safety Measures for Cybersecurity in Connected Medical Devices | DDReg Pharma | [Read More](https://medium.com/p/0da3d5270677) |
