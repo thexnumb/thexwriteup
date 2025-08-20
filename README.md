@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 07:29:58 GMT | ประจำวันพุธที่ 20 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f44132462dde) |
+| Wed, 20 Aug 2025 07:29:53 GMT | How to Use NordVPN in the U.S. — A Complete Guide | Sandhya | [Read More](https://medium.com/p/0e17af654f97) |
+| Wed, 20 Aug 2025 07:29:25 GMT | Nem todo relatório precisa ser crítico para ser relevante. | Franciscogonsalves | [Read More](https://medium.com/p/24084fc380fa) |
+| Wed, 20 Aug 2025 07:25:25 GMT | Citadel: A Privacy-First Framework for Secure LLM Deployment | Ebubekir Karamustafa | [Read More](https://medium.com/p/8b8f967a08d8) |
+| Wed, 20 Aug 2025 07:21:12 GMT | Improving Security Incident Response at Agoda with Large Language Models | Agoda Engineering | [Read More](https://medium.com/p/78b1f33151e0) |
+| Wed, 20 Aug 2025 07:15:16 GMT | Top VAPT Companies in the USA | Jay Chris Roberts | [Read More](https://medium.com/p/15dc98c3c317) |
 | Wed, 20 Aug 2025 07:08:16 GMT | Mastering OAuth Security in Spring Boot: CSRF, Session IDs & Device Metadata (2025 Guide) | CodeTalks | [Read More](https://medium.com/p/0ae190be5965) |
 | Wed, 20 Aug 2025 07:07:46 GMT | JSON Web Token (JWT) PORTSWİGGER Lab Çözümleri-2 | ENES KURTULAN | [Read More](https://medium.com/p/c4404215f32f) |
 | Wed, 20 Aug 2025 07:04:29 GMT | OWASP Top 10 | Bhasanthms | [Read More](https://medium.com/p/960c9520fc75) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 22:32:16 GMT | Red Hat and Blue Hat in Cybersecurity | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/21b6dd59ebab) |
 | Tue, 19 Aug 2025 22:25:20 GMT | Cyberpunk IRL — Video Series | James Reeves | [Read More](https://medium.com/p/dc18f36928b9) |
 | Tue, 19 Aug 2025 22:20:36 GMT | Online Hate is a Crime: Why My Harasser is Panicking and Why They’re Making My Case For Me | Alexander Paul Burton | [Read More](https://medium.com/p/782cee068b3e) |
-| Tue, 19 Aug 2025 22:19:43 GMT | Race Condition: a falha que pode comprometer seus sistemas | Rafael dos Santos | [Read More](https://medium.com/p/747627b4c824) |
-| Tue, 19 Aug 2025 22:15:02 GMT | Beyond Human Eyes: Why Tomorrow’s Information Wars Will Be Won on Verification, Not Speed | Prince Esien | [Read More](https://medium.com/p/34800e1a624b) |
-| Tue, 19 Aug 2025 22:12:25 GMT | AI-Powered Security: Revolusi Keamanan Siber di Era Digital | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/c639b3d3c76a) |
-| Tue, 19 Aug 2025 22:09:26 GMT | Try Hack Me — Light | Stilyana Petrova | [Read More](https://medium.com/p/3f47e80739bf) |
-| Tue, 19 Aug 2025 21:51:30 GMT | Try Hack Me — Vulnversity | Stilyana Petrova | [Read More](https://medium.com/p/7ac2f0529a02) |
-| Tue, 19 Aug 2025 21:49:26 GMT | Kubernetes for Everyone - TryHackMe Walkthrough | Hydsec | [Read More](https://medium.com/p/d18862f3ff2a) |
