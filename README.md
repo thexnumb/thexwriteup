@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 18:17:14 GMT | The Dawn of Transparent AI: A Deep Dive into the Deeplog Neurosymbolic Machine | Berend Watchus | [Read More](https://medium.com/p/6a1835bcdb0c) |
+| Wed, 20 Aug 2025 18:14:00 GMT | XINTRA — AB Projekt Blue Lab Walkthrough | QhtSec | [Read More](https://medium.com/p/9e2cfc6f65a1) |
+| Wed, 20 Aug 2025 18:06:02 GMT | 12 Secrets You Should Keep Out of Your Codebase | Shaun | [Read More](https://medium.com/p/a069e33ef7ee) |
+| Wed, 20 Aug 2025 18:06:02 GMT | PG Practice — Pelican (Linux) | Lepton | [Read More](https://medium.com/p/610aff17fe4a) |
+| Wed, 20 Aug 2025 18:05:34 GMT | The Art of Crafting Malicious URLs: IDOR Meets Email Verification Bypass | Vashu Vats | [Read More](https://medium.com/p/9104fce05a1e) |
+| Wed, 20 Aug 2025 17:50:51 GMT | How to Choose the Best Cybersecurity Solution Providers | James Das | [Read More](https://medium.com/p/7eece8e70c45) |
+| Wed, 20 Aug 2025 17:48:36 GMT | How I found XSS on NIT website | Ayush | [Read More](https://medium.com/p/2841d7dd8f86) |
+| Wed, 20 Aug 2025 17:45:48 GMT | Security Basics Every Developer Should Know | tk.dev | [Read More](https://medium.com/p/db09cb9a03c5) |
+| Wed, 20 Aug 2025 17:43:43 GMT | QRadar SIEM - What Makes It Special | Berkay Köseoğlu | [Read More](https://medium.com/p/bf39fd718518) |
+| Wed, 20 Aug 2025 17:38:42 GMT | Wizer #56 Write Up | Jeff Maley | [Read More](https://medium.com/p/89fbf38b557c) |
 | Wed, 20 Aug 2025 17:32:51 GMT | First Time DEF CON? Here’s What I Learned at DEF CON 33 | Joker | [Read More](https://medium.com/p/f2dd577876e0) |
 | Wed, 20 Aug 2025 17:32:28 GMT | COOKIE | Pavitra dakshinya Pavitra | [Read More](https://medium.com/p/c0404dca8726) |
 | Wed, 20 Aug 2025 17:31:16 GMT | Inside the Dark Web: How Threat Intelligence Can Save You from the Next Cyber Attack | Paritosh | [Read More](https://medium.com/p/77ce3618a0eb) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 13:48:25 GMT | alnsnslaal | Picify products | [Read More](https://medium.com/p/0073ecf964cf) |
 | Wed, 20 Aug 2025 13:44:29 GMT | How to Protect Your Web3 Startup From Crypto Scams and Fake Investors | Syndika | [Read More](https://medium.com/p/7ec012e942c0) |
 | Wed, 20 Aug 2025 13:40:33 GMT | The Power of Vulnerability in the Bedroom | Soren Frost | [Read More](https://medium.com/p/a7a46c00ce79) |
-| Wed, 20 Aug 2025 13:38:46 GMT | Decoding the Digital Battlefield: How AI is Revolutionizing Cyber Threat Intelligence | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/ba57ab9b1a51) |
-| Wed, 20 Aug 2025 13:38:30 GMT | Search Engines for PenTesters | Polash Mridha | [Read More](https://medium.com/p/fb80a9375712) |
-| Wed, 20 Aug 2025 13:37:49 GMT | Should health be treated as a security issue? | Donald Ong | [Read More](https://medium.com/p/af67b60065f3) |
-| Wed, 20 Aug 2025 13:29:16 GMT | 7 Realistic VAPT & Bug Bounty Triage Interview Questions (With Answers) | CyberSenpai | [Read More](https://medium.com/p/feb735f2dcc6) |
-| Wed, 20 Aug 2025 13:17:19 GMT | “Layers” Across information realm | Bruno Peixoto | [Read More](https://medium.com/p/4a7719f4bedc) |
-| Wed, 20 Aug 2025 13:16:05 GMT | Why UPI Is the Most Secure Digital Payment Method | bepay | [Read More](https://medium.com/p/3973369d4b94) |
-| Wed, 20 Aug 2025 13:15:37 GMT | Exploring Encryption: Symmetric, Asymmetric, and the Hybrid Approach I Just Discovered | Pawel Zelawski | [Read More](https://medium.com/p/65944a74f00e) |
-| Wed, 20 Aug 2025 13:14:19 GMT | Analysis of traffic and payload extracted from Tenda Router Honeypot | Frostbyte | [Read More](https://medium.com/p/5bd9867176e6) |
-| Wed, 20 Aug 2025 13:10:33 GMT | NATO in the 21st Century: From Defense in Europe to Global Security | Hüsnü Mehmet Turan | [Read More](https://medium.com/p/36ed0f5ec73b) |
-| Wed, 20 Aug 2025 13:02:17 GMT | The Cybersecurity Survival Kit for SMBs | Evgeny Ermakov | [Read More](https://medium.com/p/c98c4915d63a) |
