@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 10:16:16 GMT | CVE-2025–54117: XSS Threat Looms Over NamelessMC Minecraft Servers! | CVEHUB | [Read More](https://medium.com/p/a5c18998cde6) |
+| Wed, 20 Aug 2025 10:14:41 GMT | Progress in cybersecurity | Dinmukhammed Mendikhan | [Read More](https://medium.com/p/d8e5287d791e) |
+| Wed, 20 Aug 2025 10:11:51 GMT | Detection Engineering in a Homelab — Part 3: Setting Up Sysmon for Enhanced Telemetry | Frederick Adigun | [Read More](https://medium.com/p/80d419c7c8cd) |
+| Wed, 20 Aug 2025 10:10:29 GMT | Detection Engineering in a Homelab — Part 2: Setting Up Keycloak | Frederick Adigun | [Read More](https://medium.com/p/78aa26666937) |
+| Wed, 20 Aug 2025 10:09:09 GMT | Why Your Programming Career Depends on 153K Views from a Lentil Post (And How to Hack This System… | Mihailo Zoin | [Read More](https://medium.com/p/b784c238cea7) |
+| Wed, 20 Aug 2025 10:08:51 GMT | Tapjacking on Android: The Overlooked Security Threat Hiding in Plain Sight | Redfox Security | [Read More](https://medium.com/p/1bf3856cd81e) |
+| Wed, 20 Aug 2025 10:08:19 GMT | Trusted IT Infrastructure Management Services In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/4d8bf1bae15d) |
+| Wed, 20 Aug 2025 10:03:20 GMT | What Does “Nakedness Without Clothes Is Not Nudity” Really Mean? | NG 541 | [Read More](https://medium.com/p/41bdc7cf0849) |
+| Wed, 20 Aug 2025 10:01:59 GMT | “Latest Technology News, Gadgets Reviews & Future Innovations” | Autotechbiz In | [Read More](https://medium.com/p/086b729fa0c3) |
+| Wed, 20 Aug 2025 10:01:54 GMT | Hello World (Cyber Edition) | R34p3r_404 | [Read More](https://medium.com/p/c994d2fe7ab4) |
+| Wed, 20 Aug 2025 09:57:41 GMT | Top 8 Endpoint Security Tools For 2025 | cyber security Updates | [Read More](https://medium.com/p/0806c892474a) |
+| Wed, 20 Aug 2025 09:56:49 GMT | CrowdStrike Falcon: The Cloud-Native EDR Every SOC Trusts | Vaibhav katiyar | [Read More](https://medium.com/p/4a584c31097c) |
+| Wed, 20 Aug 2025 09:50:44 GMT | Securing Artificial Intelligence Architectures: A Comprehensive Analysis of Vulnerabilities and… | Paul Vella | [Read More](https://medium.com/p/9f504013df34) |
+| Wed, 20 Aug 2025 09:50:25 GMT | Cryptocurrency Tracing and Recovery: Can Lost Funds Be Retrieved? | Maraiaisabelunu | [Read More](https://medium.com/p/b081243ff711) |
+| Wed, 20 Aug 2025 09:46:30 GMT | Beginner’s Guide to Mobile Application Security | Romantic Developer | [Read More](https://medium.com/p/bde3c6f1b0ac) |
 | Wed, 20 Aug 2025 09:37:39 GMT | The Power of Community: Web 3.0 and the Promise of a Decentralized Utopia | Namir Sagheenanajar | [Read More](https://medium.com/p/c48976e47362) |
 | Wed, 20 Aug 2025 09:36:57 GMT | Empowering Through Work and Community | Selectiva Systems | [Read More](https://medium.com/p/9de4c9388e27) |
 | Wed, 20 Aug 2025 09:35:31 GMT | From Data to Decisions: Leveraging Predictive Analytics for Business Growth | Selectiva Systems | [Read More](https://medium.com/p/7d7d9abf9b62) |
+| Wed, 20 Aug 2025 09:32:06 GMT | What Not to Post on Social Media If You Want to Stay Secure | Qoli AI | [Read More](https://medium.com/p/7be93a932642) |
 | Wed, 20 Aug 2025 09:31:14 GMT | From Coast Guard Hacker to Corporate Savior: My Story | CtrlC3 | [Read More](https://medium.com/p/573dafa38b36) |
 | Wed, 20 Aug 2025 09:30:52 GMT | Junior, Mid, and Senior Pentesters — What Separates Them? | Taulan Zauzanov | [Read More](https://medium.com/p/e68f1e8204d8) |
 | Wed, 20 Aug 2025 09:23:11 GMT | 【資安警報】PipeMagic 回歸：假 AI 應用背後的勒索風暴 | 竣盟科技Billows | [Read More](https://medium.com/p/13809c18711e) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 05:17:41 GMT | ️‍♂️ Passive Reconnaissance in Penetration Testing: The Art of Staying Unseen (Part 1) | YoungerSibling | [Read More](https://medium.com/p/b5b7ee706f24) |
 | Wed, 20 Aug 2025 05:15:56 GMT | Why Hackers Don’t Attack WAFs | Taulan Zauzanov | [Read More](https://medium.com/p/b0091f0280b8) |
 | Wed, 20 Aug 2025 05:14:12 GMT | Residential Security Guard Services in Manchester - Marvellous Security Services | Marvelloussecurities | [Read More](https://medium.com/p/d35fe8775273) |
-| Wed, 20 Aug 2025 05:05:14 GMT | When a Fake Salesforce App Broke into Google | Devansh Patel | [Read More](https://medium.com/p/0f2cdaac0fde) |
-| Wed, 20 Aug 2025 05:01:55 GMT | React Native Secure Storage: Cross-Platform Authentication Guide | Ms. Byte Dev | [Read More](https://medium.com/p/24d1d89849e4) |
-| Wed, 20 Aug 2025 04:58:09 GMT | TLS and SSL Handshake Explained Simply | Prathiush Jayaprakash | [Read More](https://medium.com/p/8776ea3c05dd) |
-| Wed, 20 Aug 2025 04:56:24 GMT | Your CEO Just Called, Or Did They? India’s Deepfake Scam Epidemic Hits the Boardroom | Moiz Kothari | [Read More](https://medium.com/p/0a1a166fa1e5) |
-| Wed, 20 Aug 2025 04:55:14 GMT | Residential Security Guard Services in Manchester - Marvellous Security Services | Marvelloussecurities | [Read More](https://medium.com/p/9560e85c4787) |
-| Wed, 20 Aug 2025 04:55:13 GMT | ThunderCipher-Lab[BlueInfect] | Bhuwan Patidar | [Read More](https://medium.com/p/1963a2dffcb0) |
-| Wed, 20 Aug 2025 04:52:23 GMT | Blind XSS — How I Found It | Mejbankadir | [Read More](https://medium.com/p/75a990e06a9f) |
-| Wed, 20 Aug 2025 04:52:12 GMT | Query Gone Wild: How I Turned a Forgotten GraphQL Endpoint into Full Account Access | Iski | [Read More](https://medium.com/p/9d79d1f42970) |
-| Wed, 20 Aug 2025 04:40:19 GMT | Smart Locks vs Traditional Locks: What I Chose for My Restaurant | Liam Johnson | [Read More](https://medium.com/p/12996dbc4e66) |
-| Wed, 20 Aug 2025 04:37:02 GMT | TLS/SSL Handshake: The Backbone of Secure Digital Communication | Shree Navya M R | [Read More](https://medium.com/p/2460e516d882) |
-| Wed, 20 Aug 2025 04:35:56 GMT | Passwords Are Dead. Certificates Are the New Sheriff in Town. | DragonWarriorCodes | [Read More](https://medium.com/p/9ef436fcbe40) |
-| Wed, 20 Aug 2025 04:32:06 GMT | Mastering Validation in Laravel — A Beginner’s Guide | Rohit Dhiman | [Read More](https://medium.com/p/336d891edbeb) |
-| Wed, 20 Aug 2025 04:26:42 GMT | Quantum-Resistant Blockchain: Securing the Future | Dukerearing | [Read More](https://medium.com/p/70abcf841609) |
-| Wed, 20 Aug 2025 04:15:45 GMT | PicoCTF 2024: Bookmarklet — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/f539957323f6) |
-| Wed, 20 Aug 2025 04:12:43 GMT | HTB Walkthrough : Mongod(MongoDB) | Ahmad Sopyan | [Read More](https://medium.com/p/792b93007c99) |
-| Wed, 20 Aug 2025 03:57:11 GMT | Bypassing Authentication with a Single Request: A Real Bug Bounty Story | Aj | [Read More](https://medium.com/p/9526dc2484d4) |
