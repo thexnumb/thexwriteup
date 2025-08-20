@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 04:12:43 GMT | HTB Walkthrough : Mongod(MongoDB) | Ahmad Sopyan | [Read More](https://medium.com/p/792b93007c99) |
+| Wed, 20 Aug 2025 03:57:11 GMT | Bypassing Authentication with a Single Request: A Real Bug Bounty Story | Aj | [Read More](https://medium.com/p/9526dc2484d4) |
 | Wed, 20 Aug 2025 03:32:00 GMT | How Fake Video Generators Deploy the Noodlophile Infostealer | Deven Chhajed | [Read More](https://medium.com/p/896883f451bc) |
 | Wed, 20 Aug 2025 03:30:05 GMT | Defending Enterprise Data Against Quantum Encryption Attacks | Matthew.Rosenquist | [Read More](https://medium.com/p/c5a7be41fd20) |
 | Wed, 20 Aug 2025 03:23:50 GMT | Certified Ethical Hacker (CEH v12) Certification Course | priya chawale | [Read More](https://medium.com/p/9ae90b96b74c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 18:47:33 GMT | How to Get Cyber Essentials Plus Certification: Real Costs Guide 2025 | Paul Reynolds | [Read More](https://medium.com/p/e71f78d1de4c) |
 | Tue, 19 Aug 2025 18:45:37 GMT | How to Import Users into Okta Using a CSV File | James Rawlings | [Read More](https://medium.com/p/165fa0752f44) |
 | Tue, 19 Aug 2025 18:39:49 GMT | Cybersecurity — Discover the Top 3 Career & Earnings Growth Strategies | Franklin Rhodes | [Read More](https://medium.com/p/57835a469aeb) |
-| Tue, 19 Aug 2025 18:37:52 GMT | Beyond ‘Secure’: New Framework Measures and Defends Against Federated Learning Attacks | Berend Watchus | [Read More](https://medium.com/p/319f37825dc9) |
-| Tue, 19 Aug 2025 18:35:35 GMT | AWS Security Lab: Implementing Account Governance | Michael Nichols | [Read More](https://medium.com/p/f9a48fe328f2) |
