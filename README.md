@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 15:05:06 GMT | Drift, Defects & Defense: An Architecture Your Board and Your Builders Can Both Love | Chima Omike | [Read More](https://medium.com/p/b76d371660df) |
+| Wed, 20 Aug 2025 15:00:43 GMT | Boogeyman 1 — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/8448a39e9543) |
+| Wed, 20 Aug 2025 14:59:11 GMT | CyberSecurity — How “Who” Edged the Feature | CURIOWLS | [Read More](https://medium.com/p/7f401b3e4ab1) |
+| Wed, 20 Aug 2025 14:55:10 GMT | Wisetorro.com — Scam | Editor | [Read More](https://medium.com/p/687fc44d06f8) |
+| Wed, 20 Aug 2025 14:53:59 GMT | Default Isn’t Safe: The Unseen Dangers of AWS IAM Role Exploitation (And How to Stop Them) | Openiam | [Read More](https://medium.com/p/6e2722330719) |
+| Wed, 20 Aug 2025 14:53:35 GMT | How Claude Code Plus a Million Tokens Could Win the Workplace | Adewuyi Abayomi Daniel | [Read More](https://medium.com/p/e62dcef4a4bf) |
+| Wed, 20 Aug 2025 14:47:15 GMT | Bfstechinvest.com — Scam | Editor | [Read More](https://medium.com/p/df5001c2dbdb) |
+| Wed, 20 Aug 2025 14:47:01 GMT | Path Traversal | Mohammed Hassan | [Read More](https://medium.com/p/badb260fe16b) |
+| Wed, 20 Aug 2025 14:46:55 GMT | If Someone Sends ‘I Love You’… Don’t Click! A Virus Warning | S Similimran | [Read More](https://medium.com/p/b9b9a32619dd) |
+| Wed, 20 Aug 2025 14:44:45 GMT | Data Privacy and AI: Should We Be Afraid of Where Our Information Ends Up? | Mareh Agoreyo | [Read More](https://medium.com/p/db32eff84cbe) |
+| Wed, 20 Aug 2025 14:43:56 GMT | How Should Information Be Managed? | TheDevStory | [Read More](https://medium.com/p/cd735a17f456) |
 | Wed, 20 Aug 2025 14:43:08 GMT | Security Made Smarter | Quva India | [Read More](https://medium.com/p/68fb0b9abf29) |
 | Wed, 20 Aug 2025 14:36:41 GMT | Dad, Are You Okay? | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/4961ba87e8a3) |
 | Wed, 20 Aug 2025 14:36:31 GMT | Cookies | Puneeth Kumar G | [Read More](https://medium.com/p/bf06bc16cd33) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 10:08:19 GMT | Trusted IT Infrastructure Management Services In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/4d8bf1bae15d) |
 | Wed, 20 Aug 2025 10:03:20 GMT | What Does “Nakedness Without Clothes Is Not Nudity” Really Mean? | NG 541 | [Read More](https://medium.com/p/41bdc7cf0849) |
 | Wed, 20 Aug 2025 10:01:59 GMT | “Latest Technology News, Gadgets Reviews & Future Innovations” | Autotechbiz In | [Read More](https://medium.com/p/086b729fa0c3) |
-| Wed, 20 Aug 2025 10:01:54 GMT | Hello World (Cyber Edition) | R34p3r_404 | [Read More](https://medium.com/p/c994d2fe7ab4) |
-| Wed, 20 Aug 2025 09:57:41 GMT | Top 8 Endpoint Security Tools For 2025 | cyber security Updates | [Read More](https://medium.com/p/0806c892474a) |
-| Wed, 20 Aug 2025 09:56:49 GMT | CrowdStrike Falcon: The Cloud-Native EDR Every SOC Trusts | Vaibhav katiyar | [Read More](https://medium.com/p/4a584c31097c) |
-| Wed, 20 Aug 2025 09:50:44 GMT | Securing Artificial Intelligence Architectures: A Comprehensive Analysis of Vulnerabilities and… | Paul Vella | [Read More](https://medium.com/p/9f504013df34) |
-| Wed, 20 Aug 2025 09:50:25 GMT | Cryptocurrency Tracing and Recovery: Can Lost Funds Be Retrieved? | Maraiaisabelunu | [Read More](https://medium.com/p/b081243ff711) |
-| Wed, 20 Aug 2025 09:46:30 GMT | Beginner’s Guide to Mobile Application Security | Romantic Developer | [Read More](https://medium.com/p/bde3c6f1b0ac) |
-| Wed, 20 Aug 2025 09:37:39 GMT | The Power of Community: Web 3.0 and the Promise of a Decentralized Utopia | Namir Sagheenanajar | [Read More](https://medium.com/p/c48976e47362) |
-| Wed, 20 Aug 2025 09:36:57 GMT | Empowering Through Work and Community | Selectiva Systems | [Read More](https://medium.com/p/9de4c9388e27) |
-| Wed, 20 Aug 2025 09:35:31 GMT | From Data to Decisions: Leveraging Predictive Analytics for Business Growth | Selectiva Systems | [Read More](https://medium.com/p/7d7d9abf9b62) |
-| Wed, 20 Aug 2025 09:32:06 GMT | What Not to Post on Social Media If You Want to Stay Secure | Qoli AI | [Read More](https://medium.com/p/7be93a932642) |
-| Wed, 20 Aug 2025 09:31:14 GMT | From Coast Guard Hacker to Corporate Savior: My Story | CtrlC3 | [Read More](https://medium.com/p/573dafa38b36) |
