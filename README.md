@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 10:31:59 GMT | Privilege Escalation in Web Apps & APIs: A Pentester’s Guide to Exploitation | YoungerSibling | [Read More](https://medium.com/p/b8e69bd12f71) |
+| Wed, 20 Aug 2025 10:30:35 GMT | The Invisible Engine: How Technology Shapes Your Life Every Second | Aroosh | [Read More](https://medium.com/p/853686b1b354) |
+| Wed, 20 Aug 2025 10:25:31 GMT | DockerLabs Writeup — SecretJenkins (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1e386116abb3) |
 | Wed, 20 Aug 2025 10:16:16 GMT | CVE-2025–54117: XSS Threat Looms Over NamelessMC Minecraft Servers! | CVEHUB | [Read More](https://medium.com/p/a5c18998cde6) |
 | Wed, 20 Aug 2025 10:14:41 GMT | Progress in cybersecurity | Dinmukhammed Mendikhan | [Read More](https://medium.com/p/d8e5287d791e) |
 | Wed, 20 Aug 2025 10:11:51 GMT | Detection Engineering in a Homelab — Part 3: Setting Up Sysmon for Enhanced Telemetry | Frederick Adigun | [Read More](https://medium.com/p/80d419c7c8cd) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 05:31:57 GMT | ThunderCipher VulnerableCorp | Hitanshu Ashish Gedam | [Read More](https://medium.com/p/c16e2831f484) |
 | Wed, 20 Aug 2025 05:24:25 GMT | Fire and Ash: A Poem of Guidance | Transcendent zebra | [Read More](https://medium.com/p/647cf06798c7) |
 | Wed, 20 Aug 2025 05:24:07 GMT | Mainframe vs. Cloud: Who Wins the Security Battle? | Thomas Joseph | [Read More](https://medium.com/p/79cd43f503cb) |
-| Wed, 20 Aug 2025 05:17:41 GMT | ️‍♂️ Passive Reconnaissance in Penetration Testing: The Art of Staying Unseen (Part 1) | YoungerSibling | [Read More](https://medium.com/p/b5b7ee706f24) |
-| Wed, 20 Aug 2025 05:15:56 GMT | Why Hackers Don’t Attack WAFs | Taulan Zauzanov | [Read More](https://medium.com/p/b0091f0280b8) |
-| Wed, 20 Aug 2025 05:14:12 GMT | Residential Security Guard Services in Manchester - Marvellous Security Services | Marvelloussecurities | [Read More](https://medium.com/p/d35fe8775273) |
