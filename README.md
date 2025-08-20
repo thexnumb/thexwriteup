@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 01:32:23 GMT | Tired of Home Security Blind Spots? Here’s the Simple, Wire-Free Solution You’ve Been Waiting For | Topics2025 | [Read More](https://medium.com/p/a9d26492d7c4) |
+| Wed, 20 Aug 2025 01:24:56 GMT | How Scammers Use Raspberry Pi KVM Devices to Evade Security | Internet Exposed | [Read More](https://medium.com/p/fa0c5aad71ac) |
+| Wed, 20 Aug 2025 01:13:49 GMT | My Journey to Becoming a Top Systems Architect: A Roadmap from Basics to the Clouds | m1l0js | [Read More](https://medium.com/p/e4673faefb8c) |
+| Wed, 20 Aug 2025 01:01:58 GMT | ️ Path Traversal in Web Applications: When Hackers Walk Through Your Folders | sukhveer singh | [Read More](https://medium.com/p/60b2c4537d00) |
+| Wed, 20 Aug 2025 00:51:06 GMT | AWS Security — Mastering AWS WAF | Fabian Saacke | [Read More](https://medium.com/p/53d3696c4cff) |
+| Wed, 20 Aug 2025 00:42:57 GMT | Rogers Arkansas Insurance Agency: Comprehensive Coverage for Every Need | Osamamustafa | [Read More](https://medium.com/p/5b3d893b7dc6) |
+| Wed, 20 Aug 2025 00:24:48 GMT | Advancing Penetration Testing and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/83e5adaa989a) |
+| Wed, 20 Aug 2025 00:23:02 GMT | Advancing Penetration Testing and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/3c7d22738bba) |
+| Wed, 20 Aug 2025 00:21:14 GMT | Advancing Penetration Testing and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/da220dfe2045) |
+| Wed, 20 Aug 2025 00:19:26 GMT | Advancing Network Security with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/15cc694c2fad) |
+| Wed, 20 Aug 2025 00:17:42 GMT | Advancing Network Security in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/fd7ff0bb8c46) |
+| Wed, 20 Aug 2025 00:16:06 GMT | Understanding the Information Flow Model in Security | Raviteja Mureboina | [Read More](https://medium.com/p/443dbc8c8272) |
+| Wed, 20 Aug 2025 00:15:51 GMT | Advancing Network Security for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/38dc2dec8aaf) |
+| Wed, 20 Aug 2025 00:01:58 GMT | Amass: Complete Guide to Subdomain Recognition and Attack Surface Mapping | JPablo13 | [Read More](https://medium.com/p/c1736db05f88) |
+| Tue, 19 Aug 2025 23:46:00 GMT | Day 1 of 30 Days of Vault — Why Every Engineer Should Learn Vault | Mark Carriedo | [Read More](https://medium.com/p/8efa6a7fe87b) |
 | Tue, 19 Aug 2025 23:38:10 GMT | Applying a Structured, Holistic Cybersecurity Practice in Your Organization | David SEHYEON Baek | [Read More](https://medium.com/p/e7ff8b484f98) |
 | Tue, 19 Aug 2025 23:33:01 GMT | Cryptographic Sovereignty vs Standardisation: Walking the Tightrope | ExeQuantum | [Read More](https://medium.com/p/7cb559571607) |
 | Tue, 19 Aug 2025 23:25:34 GMT | Understanding the State Machine Model in Security | Raviteja Mureboina | [Read More](https://medium.com/p/c5caa26dcd7f) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 17:34:58 GMT | Who goes there? Authn & Authz | Harish Thuwal | [Read More](https://medium.com/p/61c51107812a) |
 | Tue, 19 Aug 2025 17:31:43 GMT | Testing out some shell scripting about creating logs with random messages, filter logs for… | Tyrik Emptage | [Read More](https://medium.com/p/07722ede38dc) |
 | Tue, 19 Aug 2025 17:25:39 GMT | Seeking New (international)Cyber Talent: International Summer School Kicks Off in The Hague | Berend Watchus | [Read More](https://medium.com/p/2aa20c861eed) |
-| Tue, 19 Aug 2025 17:20:45 GMT | The Identity Wars -Episode 5 | Amey Rugge | [Read More](https://medium.com/p/75480979d2bf) |
-| Tue, 19 Aug 2025 17:15:29 GMT | Perplexity AI Is Not an Indian Company, Here’s What You Should Know | NIkhil Kumar | [Read More](https://medium.com/p/c2e42454345f) |
-| Tue, 19 Aug 2025 17:15:25 GMT | How I Built a Machine Learning Model to Detect Phishing Attacks | Aj | [Read More](https://medium.com/p/72a31b179117) |
-| Tue, 19 Aug 2025 17:13:41 GMT | Brooklyn Nine Nine TryHackMe Walkthrough — Step-by-Step Beginner’s Guide | Prajwal | [Read More](https://medium.com/p/f61ed5223224) |
-| Tue, 19 Aug 2025 17:03:14 GMT | Tools Every Bug Bounty Hunter Should Know for Reconnaissance | Aju Deb | [Read More](https://medium.com/p/822c2a04b6f7) |
-| Tue, 19 Aug 2025 17:01:59 GMT | API Security: Best Practices to Protect Your APIs in 2025 | habtesoft | [Read More](https://medium.com/p/77acf84dc1fb) |
-| Tue, 19 Aug 2025 17:01:10 GMT | 9 Marcus Aurelius Quotes You’ll Never Forget | Vijay Kumar Gupta | [Read More](https://medium.com/p/a8fdaadc75ad) |
-| Tue, 19 Aug 2025 17:01:04 GMT | RUSTSCAN | vulnhunter | [Read More](https://medium.com/p/5c2a3c1ac79b) |
-| Tue, 19 Aug 2025 16:57:58 GMT | Optimizing Static Application Security Testing (SAST) with Semgrep & Gemini CLI | SAEED | [Read More](https://medium.com/p/b4152e0307c6) |
-| Tue, 19 Aug 2025 16:57:09 GMT | The Hidden Cost of Security: Why Vendors Should Stop Charging for Single Sign-On (SSO) | Marko | [Read More](https://medium.com/p/e1e14fb9bc53) |
-| Tue, 19 Aug 2025 16:55:54 GMT | Windows Detection Events | Neetrox | [Read More](https://medium.com/p/da37ec14b1da) |
-| Tue, 19 Aug 2025 16:54:00 GMT | How to Add Users, Groups, and Group Rules in Okta | James Rawlings | [Read More](https://medium.com/p/191886dcac49) |
-| Tue, 19 Aug 2025 16:53:26 GMT | PG Practice — ClamAV (Linux) | Lepton | [Read More](https://medium.com/p/0485f8fff9d8) |
-| Tue, 19 Aug 2025 16:50:22 GMT | CyberDefenders — Network Forensic Labs | Jaws | [Read More](https://medium.com/p/74b7bf402bb2) |
-| Tue, 19 Aug 2025 16:50:00 GMT | HTB Walkthrough : Preignition(HTTP) | Ahmad Sopyan | [Read More](https://medium.com/p/3332805321eb) |
