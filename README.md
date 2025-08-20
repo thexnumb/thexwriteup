@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 15:38:27 GMT | “The 7 Unspoken Recon Tricks That Fund My Bug Bounty Addiction” | Aman Sharma | [Read More](https://medium.com/p/bae6fb8768a5) |
+| Wed, 20 Aug 2025 15:33:36 GMT | TryHackMe — Publisher CTF Write-up | Trang Vu | [Read More](https://medium.com/p/1fd5989561cb) |
+| Wed, 20 Aug 2025 15:33:17 GMT | CVE-2023–34362 and Nova Scotia’s Data Breach: Lessons in Cyber Risk Management | Daniel Londoño B. | [Read More](https://medium.com/p/c3df29be2d3e) |
+| Wed, 20 Aug 2025 15:28:55 GMT | Why Password Protection Intelligence Matters for Security Culture | Keepnet Labs | [Read More](https://medium.com/p/9df667c0dd9d) |
+| Wed, 20 Aug 2025 15:25:51 GMT | Top 10 C2 Frameworks Every Red Teamer Should Know | Aju Deb | [Read More](https://medium.com/p/0f4e9ee75d61) |
+| Wed, 20 Aug 2025 15:25:37 GMT | Top 10 Data Integration Tools with Strong Compliance and Security Features for US Businesses | Amanda Brooks | [Read More](https://medium.com/p/1f0f781b38f0) |
+| Wed, 20 Aug 2025 15:21:53 GMT | Security in the Digital Age: From Caesar to AES — and the Hybrid Systems in Between | Ceyda Irwin | [Read More](https://medium.com/p/4af32c11ec21) |
+| Wed, 20 Aug 2025 15:19:52 GMT | Twitch OTP Not Arriving? Here's How to Fix It! | Testway | [Read More](https://medium.com/p/1b54e5d1611b) |
+| Wed, 20 Aug 2025 15:17:28 GMT | “Day 17: The Ghost in the DNS — How I Turned a Forgotten Subdomain into a Ransomware Vector” | Aman Sharma | [Read More](https://medium.com/p/f2046a06dcf3) |
 | Wed, 20 Aug 2025 15:05:06 GMT | Drift, Defects & Defense: An Architecture Your Board and Your Builders Can Both Love | Chima Omike | [Read More](https://medium.com/p/b76d371660df) |
 | Wed, 20 Aug 2025 15:00:43 GMT | Boogeyman 1 — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/8448a39e9543) |
 | Wed, 20 Aug 2025 14:59:11 GMT | CyberSecurity — How “Who” Edged the Feature | CURIOWLS | [Read More](https://medium.com/p/7f401b3e4ab1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 10:31:59 GMT | Privilege Escalation in Web Apps & APIs: A Pentester’s Guide to Exploitation | YoungerSibling | [Read More](https://medium.com/p/b8e69bd12f71) |
 | Wed, 20 Aug 2025 10:30:35 GMT | The Invisible Engine: How Technology Shapes Your Life Every Second | Aroosh | [Read More](https://medium.com/p/853686b1b354) |
 | Wed, 20 Aug 2025 10:25:31 GMT | DockerLabs Writeup — SecretJenkins (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1e386116abb3) |
-| Wed, 20 Aug 2025 10:16:16 GMT | CVE-2025–54117: XSS Threat Looms Over NamelessMC Minecraft Servers! | CVEHUB | [Read More](https://medium.com/p/a5c18998cde6) |
-| Wed, 20 Aug 2025 10:14:41 GMT | Progress in cybersecurity | Dinmukhammed Mendikhan | [Read More](https://medium.com/p/d8e5287d791e) |
-| Wed, 20 Aug 2025 10:11:51 GMT | Detection Engineering in a Homelab — Part 3: Setting Up Sysmon for Enhanced Telemetry | Frederick Adigun | [Read More](https://medium.com/p/80d419c7c8cd) |
-| Wed, 20 Aug 2025 10:10:29 GMT | Detection Engineering in a Homelab — Part 2: Setting Up Keycloak | Frederick Adigun | [Read More](https://medium.com/p/78aa26666937) |
-| Wed, 20 Aug 2025 10:09:09 GMT | Why Your Programming Career Depends on 153K Views from a Lentil Post (And How to Hack This System… | Mihailo Zoin | [Read More](https://medium.com/p/b784c238cea7) |
-| Wed, 20 Aug 2025 10:08:51 GMT | Tapjacking on Android: The Overlooked Security Threat Hiding in Plain Sight | Redfox Security | [Read More](https://medium.com/p/1bf3856cd81e) |
-| Wed, 20 Aug 2025 10:08:19 GMT | Trusted IT Infrastructure Management Services In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/4d8bf1bae15d) |
-| Wed, 20 Aug 2025 10:03:20 GMT | What Does “Nakedness Without Clothes Is Not Nudity” Really Mean? | NG 541 | [Read More](https://medium.com/p/41bdc7cf0849) |
-| Wed, 20 Aug 2025 10:01:59 GMT | “Latest Technology News, Gadgets Reviews & Future Innovations” | Autotechbiz In | [Read More](https://medium.com/p/086b729fa0c3) |
