@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 09:37:39 GMT | The Power of Community: Web 3.0 and the Promise of a Decentralized Utopia | Namir Sagheenanajar | [Read More](https://medium.com/p/c48976e47362) |
+| Wed, 20 Aug 2025 09:36:57 GMT | Empowering Through Work and Community | Selectiva Systems | [Read More](https://medium.com/p/9de4c9388e27) |
+| Wed, 20 Aug 2025 09:35:31 GMT | From Data to Decisions: Leveraging Predictive Analytics for Business Growth | Selectiva Systems | [Read More](https://medium.com/p/7d7d9abf9b62) |
+| Wed, 20 Aug 2025 09:31:14 GMT | From Coast Guard Hacker to Corporate Savior: My Story | CtrlC3 | [Read More](https://medium.com/p/573dafa38b36) |
+| Wed, 20 Aug 2025 09:30:52 GMT | Junior, Mid, and Senior Pentesters — What Separates Them? | Taulan Zauzanov | [Read More](https://medium.com/p/e68f1e8204d8) |
+| Wed, 20 Aug 2025 09:23:11 GMT | 【資安警報】PipeMagic 回歸：假 AI 應用背後的勒索風暴 | 竣盟科技Billows | [Read More](https://medium.com/p/13809c18711e) |
 | Wed, 20 Aug 2025 09:21:16 GMT | 10 Reasons Businesses Rely on SAP Managed Services | Trajectus | [Read More](https://medium.com/p/8086b431e923) |
+| Wed, 20 Aug 2025 09:20:46 GMT | My Automated Bug Notes System: From Telegram to Notion️ | StrangeRwhite | [Read More](https://medium.com/p/faa3e138dc8c) |
+| Wed, 20 Aug 2025 09:16:33 GMT | MacBook Unlock/Hack - Hire Hacker - Professional Hackers | BlackHat | [Read More](https://medium.com/p/1adbd0d98634) |
 | Wed, 20 Aug 2025 09:15:34 GMT | Review แบบไม่อวย: สอบดีไหม INE eCPPT และ eWPTX | Athiwat Tiprasaharn | [Read More](https://medium.com/p/94e375714349) |
 | Wed, 20 Aug 2025 09:10:07 GMT | Apple vs. UK: Encryption Showdown — Did Privacy Win? | Truspex | [Read More](https://medium.com/p/c800c9194160) |
 | Wed, 20 Aug 2025 09:07:19 GMT | GT Infotech — Software Testing Reducing Production Bugs with Selenium-Powered Software Testing… | Stephenjoseeph | [Read More](https://medium.com/p/77e76b61d37c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 04:15:45 GMT | PicoCTF 2024: Bookmarklet — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/f539957323f6) |
 | Wed, 20 Aug 2025 04:12:43 GMT | HTB Walkthrough : Mongod(MongoDB) | Ahmad Sopyan | [Read More](https://medium.com/p/792b93007c99) |
 | Wed, 20 Aug 2025 03:57:11 GMT | Bypassing Authentication with a Single Request: A Real Bug Bounty Story | Aj | [Read More](https://medium.com/p/9526dc2484d4) |
-| Wed, 20 Aug 2025 03:32:00 GMT | How Fake Video Generators Deploy the Noodlophile Infostealer | Deven Chhajed | [Read More](https://medium.com/p/896883f451bc) |
-| Wed, 20 Aug 2025 03:30:05 GMT | Defending Enterprise Data Against Quantum Encryption Attacks | Matthew.Rosenquist | [Read More](https://medium.com/p/c5a7be41fd20) |
-| Wed, 20 Aug 2025 03:23:50 GMT | Certified Ethical Hacker (CEH v12) Certification Course | priya chawale | [Read More](https://medium.com/p/9ae90b96b74c) |
-| Wed, 20 Aug 2025 03:18:54 GMT | SafeLine WAF Logging & Monitoring: What Every Homelab Needs | AerieWhole123 | [Read More](https://medium.com/p/057ef6178aeb) |
-| Wed, 20 Aug 2025 03:13:57 GMT | Deepfake Scams and the Future of Identity Theft | Abida Adra | [Read More](https://medium.com/p/a21fffb40d58) |
-| Wed, 20 Aug 2025 03:04:26 GMT | The Psychology of a Hack: Why You Click Before You Think | Sofia | [Read More](https://medium.com/p/fff0106d2f2f) |
-| Wed, 20 Aug 2025 03:01:59 GMT | AI Cold War — How Data Centers, Chip Bans, and Digital Borders Are Redrawing Global Power | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/2ef89cbf3db6) |
-| Wed, 20 Aug 2025 03:00:04 GMT | 7 Essential Tips to Stay Safe on Hotel Wi-Fi | Brian Davis | [Read More](https://medium.com/p/5dc4519dd919) |
