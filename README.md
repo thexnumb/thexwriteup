@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 17:09:05 GMT | PG Practice — Extplorer (Linux) | Lepton | [Read More](https://medium.com/p/b129ba599019) |
+| Wed, 20 Aug 2025 17:05:43 GMT | WEBFANG v2.0 | Tyler Cole Beyhan | [Read More](https://medium.com/p/80d47284d4d7) |
+| Wed, 20 Aug 2025 16:59:42 GMT | Acoustic Side-Channel Attacks: When Hackers Can Hear Your Secrets | Akshay Chauhan | [Read More](https://medium.com/p/24b8240d8dca) |
+| Wed, 20 Aug 2025 16:46:56 GMT | Understanding the OWASP Top 10: Real-Life Lessons in Web Security | Meinam Sanjana Devi | [Read More](https://medium.com/p/3a30d692bc73) |
 | Wed, 20 Aug 2025 16:43:01 GMT | What exactly is the Dark Web? | James N | [Read More](https://medium.com/p/e8b818fc16aa) |
+| Wed, 20 Aug 2025 16:42:27 GMT | From Nmap to Real-Time Internet Maps with IVRE: A Step-by-Step Playbook | Very Lazy Tech | [Read More](https://medium.com/p/21c7c782cca8) |
+| Wed, 20 Aug 2025 16:38:28 GMT | The Dark Web Markets Where Your Data Is Sold — And How to Remove It | Sneha Rani | [Read More](https://medium.com/p/3f4d22297275) |
+| Wed, 20 Aug 2025 16:38:25 GMT | AI till 2027 | Reebapatel | [Read More](https://medium.com/p/d77c66d1675b) |
 | Wed, 20 Aug 2025 16:29:59 GMT | XenoRAT malware campaign hits multiple embassies in South Korea | Welsh | [Read More](https://medium.com/p/92e4048adb70) |
 | Wed, 20 Aug 2025 16:27:39 GMT | In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network | Welsh | [Read More](https://medium.com/p/5092891270c6) |
 | Wed, 20 Aug 2025 16:26:32 GMT | A Few Clicks Is All It Takes | Olodudeibukun | [Read More](https://medium.com/p/d40b92b869b8) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 12:38:38 GMT | Breaching the IRC Fortress: A Tactical Analysis of UnrealIRCd Backdoor Assault | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/3992099fee3a) |
 | Wed, 20 Aug 2025 12:35:19 GMT |  | Supraja Tangella | [Read More](https://medium.com/p/135c90fdaa58) |
 | Wed, 20 Aug 2025 12:30:14 GMT | Safety Measures for Cybersecurity in Connected Medical Devices | DDReg Pharma | [Read More](https://medium.com/p/0da3d5270677) |
-| Wed, 20 Aug 2025 12:29:19 GMT | Get-binbox.com — Scam | Editor | [Read More](https://medium.com/p/fa3ebe45b686) |
-| Wed, 20 Aug 2025 12:27:32 GMT | Semi-Automated Cyber Threat News Processing with LLMs | Andrey Shvetsov | [Read More](https://medium.com/p/7e919c224bbb) |
-| Wed, 20 Aug 2025 12:22:30 GMT | Men Don’t Say “I’m Tired of Being Strong” | Dhruvdeep Singh | [Read More](https://medium.com/p/c6052c676694) |
-| Wed, 20 Aug 2025 12:22:15 GMT | Luckyinvestss.com — Scam | Editor | [Read More](https://medium.com/p/9a2e1f0d3c04) |
-| Wed, 20 Aug 2025 12:18:59 GMT | Is Your Property Really Safe? Discover Dubai’s Top Security Solution | Abhilashtec | [Read More](https://medium.com/p/03e67708a3fc) |
-| Wed, 20 Aug 2025 12:16:11 GMT | IDOR in Password Reset Workflow — A Path to Account Takeover | Ehtesham Ul Haq | [Read More](https://medium.com/p/b91acddb78b2) |
-| Wed, 20 Aug 2025 12:11:35 GMT | Introducting Resource Control Policies | Tomasz Brzoza | [Read More](https://medium.com/p/b3a7207594d0) |
