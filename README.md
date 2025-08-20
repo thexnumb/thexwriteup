@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 13:29:16 GMT | 7 Realistic VAPT & Bug Bounty Triage Interview Questions (With Answers) | CyberSenpai | [Read More](https://medium.com/p/feb735f2dcc6) |
+| Wed, 20 Aug 2025 13:17:19 GMT | “Layers” Across information realm | Bruno Peixoto | [Read More](https://medium.com/p/4a7719f4bedc) |
+| Wed, 20 Aug 2025 13:16:05 GMT | Why UPI Is the Most Secure Digital Payment Method | bepay | [Read More](https://medium.com/p/3973369d4b94) |
+| Wed, 20 Aug 2025 13:15:37 GMT | Exploring Encryption: Symmetric, Asymmetric, and the Hybrid Approach I Just Discovered | Pawel Zelawski | [Read More](https://medium.com/p/65944a74f00e) |
+| Wed, 20 Aug 2025 13:14:19 GMT | Analysis of traffic and payload extracted from Tenda Router Honeypot | Frostbyte | [Read More](https://medium.com/p/5bd9867176e6) |
+| Wed, 20 Aug 2025 13:10:33 GMT | NATO in the 21st Century: From Defense in Europe to Global Security | Hüsnü Mehmet Turan | [Read More](https://medium.com/p/36ed0f5ec73b) |
+| Wed, 20 Aug 2025 13:02:17 GMT | The Cybersecurity Survival Kit for SMBs | Evgeny Ermakov | [Read More](https://medium.com/p/c98c4915d63a) |
+| Wed, 20 Aug 2025 13:02:17 GMT | Thumbtack Reveals 2025’s Buggiest Cities, with Austin Crawling to the Top | Aldo Ceja | [Read More](https://medium.com/p/3d658a294bce) |
+| Wed, 20 Aug 2025 12:58:48 GMT | One condition to outpace them all — Understanding Race Conditions — Concurrency errors — CWE 362 | Mert Kurtulmuş | [Read More](https://medium.com/p/944db034fa42) |
+| Wed, 20 Aug 2025 12:46:30 GMT | Become a Certified Cyber Security Professional with A2N Academy | Sureshnextwebi | [Read More](https://medium.com/p/ee3ada97eb36) |
 | Wed, 20 Aug 2025 12:42:28 GMT | Intel’s Leaked Truth -How 270,000 Employee Records Went Unprotected | Inforsecpro | [Read More](https://medium.com/p/d07674c3a1bc) |
+| Wed, 20 Aug 2025 12:42:27 GMT | Mobile Hack Checkpoints: How to Know If Your Phone Has Been Compromised | Lionreachmedia | [Read More](https://medium.com/p/9f1e6f994dfd) |
+| Wed, 20 Aug 2025 12:40:40 GMT | Tüm Koşullara tur bindirecek koşul — Race Condition’ı anlamak -Eşzamanlılık hataları — CWE 362 | Mert Kurtulmuş | [Read More](https://medium.com/p/7325d1fbf1bb) |
+| Wed, 20 Aug 2025 12:39:48 GMT | Steam-stock.com — Scam | Editor | [Read More](https://medium.com/p/0f7d0c15db8f) |
 | Wed, 20 Aug 2025 12:38:38 GMT | Breaching the IRC Fortress: A Tactical Analysis of UnrealIRCd Backdoor Assault | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/3992099fee3a) |
+| Wed, 20 Aug 2025 12:35:19 GMT |  | Supraja Tangella | [Read More](https://medium.com/p/135c90fdaa58) |
 | Wed, 20 Aug 2025 12:30:14 GMT | Safety Measures for Cybersecurity in Connected Medical Devices | DDReg Pharma | [Read More](https://medium.com/p/0da3d5270677) |
 | Wed, 20 Aug 2025 12:29:19 GMT | Get-binbox.com — Scam | Editor | [Read More](https://medium.com/p/fa3ebe45b686) |
 | Wed, 20 Aug 2025 12:27:32 GMT | Semi-Automated Cyber Threat News Processing with LLMs | Andrey Shvetsov | [Read More](https://medium.com/p/7e919c224bbb) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 08:21:28 GMT | The Hacker Who Stole My First Book | Shahzaib | [Read More](https://medium.com/p/c49e4e27fb19) |
 | Wed, 20 Aug 2025 08:15:45 GMT | My CRTP Journey: 13 Hours of Sweat, Scripts, and Survival | Knowntonone | [Read More](https://medium.com/p/1025a322da03) |
 | Wed, 20 Aug 2025 08:14:20 GMT | Virtual Visa card buy with crypto | Daniller Castra | [Read More](https://medium.com/p/44dc73f3f119) |
-| Wed, 20 Aug 2025 08:10:06 GMT | The IT Support Impersonator in Your Teams Chat | Aj | [Read More](https://medium.com/p/6373568afb65) |
-| Wed, 20 Aug 2025 08:04:26 GMT | cyber security course near me, Techmindz offers specialized training programs that cover everything | Krish kochin | [Read More](https://medium.com/p/5b053037e2bb) |
-| Wed, 20 Aug 2025 08:02:04 GMT | AI Cybersecurity: From Zero to Hero | Cyberkech | [Read More](https://medium.com/p/1ec5ece4d640) |
-| Wed, 20 Aug 2025 08:02:04 GMT | How I Secured My First Industrial Control System Without Breaking Operations | Cyberkech | [Read More](https://medium.com/p/da8ba017af12) |
-| Wed, 20 Aug 2025 08:01:13 GMT | The Blackmail Diaries: How Sextortion Destroys Lives | KG | [Read More](https://medium.com/p/561f95594a99) |
-| Wed, 20 Aug 2025 07:57:42 GMT | Hacking Dhruv Rathee’s Ai startup | utkarsh kashyap | [Read More](https://medium.com/p/5b07c9ed1b6d) |
-| Wed, 20 Aug 2025 07:52:33 GMT | Man-in-the-Middle Attacks: What They Look Like Today | N1shym | [Read More](https://medium.com/p/abb0f993c8a0) |
-| Wed, 20 Aug 2025 07:49:04 GMT | How Hackers Exploit You | Aj | [Read More](https://medium.com/p/af80ff353e5e) |
-| Wed, 20 Aug 2025 07:48:36 GMT | CAB CHRONICLES 80: THE CHASE | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/2ef599c0b067) |
-| Wed, 20 Aug 2025 07:47:34 GMT | Insider Threats: Why Your Own Employees Can Be the Biggest Risk | Samina Perveen | [Read More](https://medium.com/p/d6360e9a92af) |
-| Wed, 20 Aug 2025 07:46:33 GMT | The Latest Phishing Tactics and How to Spot Them | Samina Perveen | [Read More](https://medium.com/p/19b04a6c4e9c) |
-| Wed, 20 Aug 2025 07:46:01 GMT | Understanding SQL Injection Attacks and How to Prevent Them | Samina Perveen | [Read More](https://medium.com/p/3bca460286e4) |
-| Wed, 20 Aug 2025 07:31:52 GMT | Detecting Reflected XSS with Bash: A Practical Guide for Bug Bounty Hunters | Saijayanth | [Read More](https://medium.com/p/63206eb395e9) |
-| Wed, 20 Aug 2025 07:29:58 GMT | ประจำวันพุธที่ 20 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f44132462dde) |
