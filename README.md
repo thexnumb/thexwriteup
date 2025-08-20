@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 21:14:54 GMT | Building Your Own ECU Hacking Setup at Home | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ebb266f046c3) |
+| Wed, 20 Aug 2025 21:00:34 GMT | The Power of Dark Web Monitoring | SafeAeon Inc. | [Read More](https://medium.com/p/3bb6583eb7f7) |
+| Wed, 20 Aug 2025 20:59:50 GMT | My Journey into Digital Forensics and Why an Investigator’s Mindset is Crucial for Modern Defense | IBE KINGSLEY | [Read More](https://medium.com/p/d294d4110ace) |
+| Wed, 20 Aug 2025 20:52:26 GMT | GrapeQL — Turning A Small Tool Into An Open Source Project | Aleksa Zatezalo | [Read More](https://medium.com/p/3b924a2e5e7a) |
+| Wed, 20 Aug 2025 20:50:23 GMT | Cookies: Small Files, Big Impact on the Digital World | Shree Navya M R | [Read More](https://medium.com/p/48de9ecd1210) |
 | Wed, 20 Aug 2025 20:31:01 GMT | Security Updates in Linux: Automation and Risk Management | Esra Kayhan | [Read More](https://medium.com/p/a2e884545b1b) |
 | Wed, 20 Aug 2025 20:22:06 GMT | This is How Criminals are Using AI | YAROCELIS.eth - Tech Trends | [Read More](https://medium.com/p/f6f5a375fff9) |
 | Wed, 20 Aug 2025 20:15:09 GMT | Pickle Rick Tryhackme (THM) Walkthrough | Ammar Ahmed | [Read More](https://medium.com/p/2c9126beb498) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 15:21:53 GMT | Security in the Digital Age: From Caesar to AES — and the Hybrid Systems in Between | Ceyda Irwin | [Read More](https://medium.com/p/4af32c11ec21) |
 | Wed, 20 Aug 2025 15:19:52 GMT | Twitch OTP Not Arriving? Here's How to Fix It! | Testway | [Read More](https://medium.com/p/1b54e5d1611b) |
 | Wed, 20 Aug 2025 15:17:28 GMT | “Day 17: The Ghost in the DNS — How I Turned a Forgotten Subdomain into a Ransomware Vector” | Aman Sharma | [Read More](https://medium.com/p/f2046a06dcf3) |
-| Wed, 20 Aug 2025 15:05:06 GMT | Drift, Defects & Defense: An Architecture Your Board and Your Builders Can Both Love | Chima Omike | [Read More](https://medium.com/p/b76d371660df) |
-| Wed, 20 Aug 2025 15:00:43 GMT | Boogeyman 1 — TryHackMe Write-up | Forrest Caffray | [Read More](https://medium.com/p/8448a39e9543) |
-| Wed, 20 Aug 2025 14:59:11 GMT | CyberSecurity — How “Who” Edged the Feature | CURIOWLS | [Read More](https://medium.com/p/7f401b3e4ab1) |
-| Wed, 20 Aug 2025 14:55:10 GMT | Wisetorro.com — Scam | Editor | [Read More](https://medium.com/p/687fc44d06f8) |
-| Wed, 20 Aug 2025 14:53:59 GMT | Default Isn’t Safe: The Unseen Dangers of AWS IAM Role Exploitation (And How to Stop Them) | Openiam | [Read More](https://medium.com/p/6e2722330719) |
