@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 23:08:29 GMT | When Love Turns into Payroll Fraud: The Hidden Scam of Hiring Friends for Fun | Internet Exposed | [Read More](https://medium.com/p/804739aae384) |
+| Wed, 20 Aug 2025 22:45:10 GMT | Aurora EDR | Anthony Mazyck | [Read More](https://medium.com/p/c8feec8b6909) |
+| Wed, 20 Aug 2025 22:42:07 GMT | Personal Service Accounts — Access Delegation in the age of Agentic AI | Dave Buchanan | [Read More](https://medium.com/p/9edd13ff9189) |
 | Wed, 20 Aug 2025 22:17:29 GMT | OpenAI API Security: Managing AI Risk in Chatbots | Karthikeyan Nagaraj | [Read More](https://medium.com/p/c8c62f8f6797) |
 | Wed, 20 Aug 2025 22:11:17 GMT | A Man on a Mission | Shiv Singh - The Cyber Resilience Project ✍️ | [Read More](https://medium.com/p/eff5da551d2d) |
 | Wed, 20 Aug 2025 22:02:33 GMT | Red Team Recon | Anthony Mazyck | [Read More](https://medium.com/p/3cbbf5419670) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 16:00:35 GMT | The OSI Model and the Future of Warfare | Robert Schryvers ChT | [Read More](https://medium.com/p/b79191a87c5c) |
 | Wed, 20 Aug 2025 15:59:37 GMT | One Plan. Every Tech Problem. Solved. | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/718c45667b6b) |
 | Wed, 20 Aug 2025 15:53:06 GMT | TLS Handshake :A Detailed Explanation | Pavitra dakshinya Pavitra | [Read More](https://medium.com/p/1ce675b8426f) |
-| Wed, 20 Aug 2025 15:52:44 GMT | Protecting Against Fileless Malware Campaigns | Karthikeyan Nagaraj | [Read More](https://medium.com/p/617b0fcc8e78) |
-| Wed, 20 Aug 2025 15:50:38 GMT | Understanding REvil Ransomware and How to Prevent It | Keepnet Labs | [Read More](https://medium.com/p/a60132f9f8a4) |
-| Wed, 20 Aug 2025 15:48:39 GMT | Basic Pentesting — TryHackMe Walkthrough | echoVoid | [Read More](https://medium.com/p/73ea07b37630) |
