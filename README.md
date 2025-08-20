@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 08:23:10 GMT | Jailbreak d’OpenAI GPT-OSS | Julien Dabert | [Read More](https://medium.com/p/ac7a589dc536) |
+| Wed, 20 Aug 2025 08:21:34 GMT | How Reading About Cyber Attacks Helped Me Prevent One | Aj | [Read More](https://medium.com/p/519b9811aae1) |
+| Wed, 20 Aug 2025 08:21:28 GMT | The Hacker Who Stole My First Book | Shahzaib | [Read More](https://medium.com/p/c49e4e27fb19) |
+| Wed, 20 Aug 2025 08:15:45 GMT | My CRTP Journey: 13 Hours of Sweat, Scripts, and Survival | Knowntonone | [Read More](https://medium.com/p/1025a322da03) |
+| Wed, 20 Aug 2025 08:14:20 GMT | Virtual Visa card buy with crypto | Daniller Castra | [Read More](https://medium.com/p/44dc73f3f119) |
+| Wed, 20 Aug 2025 08:10:06 GMT | The IT Support Impersonator in Your Teams Chat | Aj | [Read More](https://medium.com/p/6373568afb65) |
+| Wed, 20 Aug 2025 08:04:26 GMT | cyber security course near me, Techmindz offers specialized training programs that cover everything | Krish kochin | [Read More](https://medium.com/p/5b053037e2bb) |
+| Wed, 20 Aug 2025 08:02:04 GMT | AI Cybersecurity: From Zero to Hero | Cyberkech | [Read More](https://medium.com/p/1ec5ece4d640) |
+| Wed, 20 Aug 2025 08:02:04 GMT | How I Secured My First Industrial Control System Without Breaking Operations | Cyberkech | [Read More](https://medium.com/p/da8ba017af12) |
+| Wed, 20 Aug 2025 08:01:13 GMT | The Blackmail Diaries: How Sextortion Destroys Lives | KG | [Read More](https://medium.com/p/561f95594a99) |
+| Wed, 20 Aug 2025 07:57:42 GMT | Hacking Dhruv Rathee’s Ai startup | utkarsh kashyap | [Read More](https://medium.com/p/5b07c9ed1b6d) |
+| Wed, 20 Aug 2025 07:52:33 GMT | Man-in-the-Middle Attacks: What They Look Like Today | N1shym | [Read More](https://medium.com/p/abb0f993c8a0) |
+| Wed, 20 Aug 2025 07:49:04 GMT | How Hackers Exploit You | Aj | [Read More](https://medium.com/p/af80ff353e5e) |
+| Wed, 20 Aug 2025 07:48:36 GMT | CAB CHRONICLES 80: THE CHASE | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/2ef599c0b067) |
+| Wed, 20 Aug 2025 07:47:34 GMT | Insider Threats: Why Your Own Employees Can Be the Biggest Risk | Samina Perveen | [Read More](https://medium.com/p/d6360e9a92af) |
+| Wed, 20 Aug 2025 07:46:33 GMT | The Latest Phishing Tactics and How to Spot Them | Samina Perveen | [Read More](https://medium.com/p/19b04a6c4e9c) |
+| Wed, 20 Aug 2025 07:46:01 GMT | Understanding SQL Injection Attacks and How to Prevent Them | Samina Perveen | [Read More](https://medium.com/p/3bca460286e4) |
+| Wed, 20 Aug 2025 07:31:52 GMT | Detecting Reflected XSS with Bash: A Practical Guide for Bug Bounty Hunters | Saijayanth | [Read More](https://medium.com/p/63206eb395e9) |
 | Wed, 20 Aug 2025 07:29:58 GMT | ประจำวันพุธที่ 20 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f44132462dde) |
 | Wed, 20 Aug 2025 07:29:53 GMT | How to Use NordVPN in the U.S. — A Complete Guide | Sandhya | [Read More](https://medium.com/p/0e17af654f97) |
 | Wed, 20 Aug 2025 07:29:25 GMT | Nem todo relatório precisa ser crítico para ser relevante. | Franciscogonsalves | [Read More](https://medium.com/p/24084fc380fa) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 00:42:57 GMT | Rogers Arkansas Insurance Agency: Comprehensive Coverage for Every Need | Osamamustafa | [Read More](https://medium.com/p/5b3d893b7dc6) |
 | Wed, 20 Aug 2025 00:24:48 GMT | Advancing Penetration Testing and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/83e5adaa989a) |
 | Wed, 20 Aug 2025 00:23:02 GMT | Advancing Penetration Testing and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/3c7d22738bba) |
-| Wed, 20 Aug 2025 00:21:14 GMT | Advancing Penetration Testing and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/da220dfe2045) |
-| Wed, 20 Aug 2025 00:19:26 GMT | Advancing Network Security with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/15cc694c2fad) |
-| Wed, 20 Aug 2025 00:17:42 GMT | Advancing Network Security in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/fd7ff0bb8c46) |
-| Wed, 20 Aug 2025 00:16:06 GMT | Understanding the Information Flow Model in Security | Raviteja Mureboina | [Read More](https://medium.com/p/443dbc8c8272) |
-| Wed, 20 Aug 2025 00:15:51 GMT | Advancing Network Security for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/38dc2dec8aaf) |
-| Wed, 20 Aug 2025 00:01:58 GMT | Amass: Complete Guide to Subdomain Recognition and Attack Surface Mapping | JPablo13 | [Read More](https://medium.com/p/c1736db05f88) |
-| Tue, 19 Aug 2025 23:46:00 GMT | Day 1 of 30 Days of Vault — Why Every Engineer Should Learn Vault | Mark Carriedo | [Read More](https://medium.com/p/8efa6a7fe87b) |
-| Tue, 19 Aug 2025 23:38:10 GMT | Applying a Structured, Holistic Cybersecurity Practice in Your Organization | David SEHYEON Baek | [Read More](https://medium.com/p/e7ff8b484f98) |
-| Tue, 19 Aug 2025 23:33:01 GMT | Cryptographic Sovereignty vs Standardisation: Walking the Tightrope | ExeQuantum | [Read More](https://medium.com/p/7cb559571607) |
-| Tue, 19 Aug 2025 23:25:34 GMT | Understanding the State Machine Model in Security | Raviteja Mureboina | [Read More](https://medium.com/p/c5caa26dcd7f) |
-| Tue, 19 Aug 2025 23:24:24 GMT | Oh My WebServer TryHackMe Writeup | Mehdi Ben Fredj | [Read More](https://medium.com/p/47a30ce2ec08) |
-| Tue, 19 Aug 2025 23:22:27 GMT | APIs Pentesting (Part 1) -What is API & APIs Architectures | Hamza M. Abdulrhman | [Read More](https://medium.com/p/22fffa3b79a0) |
-| Tue, 19 Aug 2025 23:05:35 GMT | Integrating Active Directory with Okta | James Rawlings | [Read More](https://medium.com/p/c4b9c3835b3f) |
-| Tue, 19 Aug 2025 22:51:44 GMT | Security First: Protecting Your Plugin and Users | Volodymyr Dovhan | [Read More](https://medium.com/p/117cda76a859) |
-| Tue, 19 Aug 2025 22:51:43 GMT | Basic Pentesting — Try hack me room (Easy to pass THM) | Mushfiq.XD | [Read More](https://medium.com/p/14381a40e73b) |
-| Tue, 19 Aug 2025 22:32:16 GMT | Red Hat and Blue Hat in Cybersecurity | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/21b6dd59ebab) |
-| Tue, 19 Aug 2025 22:25:20 GMT | Cyberpunk IRL — Video Series | James Reeves | [Read More](https://medium.com/p/dc18f36928b9) |
-| Tue, 19 Aug 2025 22:20:36 GMT | Online Hate is a Crime: Why My Harasser is Panicking and Why They’re Making My Case For Me | Alexander Paul Burton | [Read More](https://medium.com/p/782cee068b3e) |
