@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 14:43:08 GMT | Security Made Smarter | Quva India | [Read More](https://medium.com/p/68fb0b9abf29) |
+| Wed, 20 Aug 2025 14:36:41 GMT | Dad, Are You Okay? | Kompunt Jindawat - Leadership Stories | [Read More](https://medium.com/p/4961ba87e8a3) |
+| Wed, 20 Aug 2025 14:36:31 GMT | Cookies | Puneeth Kumar G | [Read More](https://medium.com/p/bf06bc16cd33) |
+| Wed, 20 Aug 2025 14:35:39 GMT | CyberPath by Vaishal: My Journey to Becoming a CISO in 6 Years. | CyberPath by Vaishal | [Read More](https://medium.com/p/5483ea6e6e6c) |
+| Wed, 20 Aug 2025 14:33:55 GMT | HTB Prometheon (Day 2) | makeki | [Read More](https://medium.com/p/481362179e94) |
+| Wed, 20 Aug 2025 14:32:08 GMT | Web Cache Poisoning & Cache Deception: The Hidden Threats in Modern Web Apps | sukhveer singh | [Read More](https://medium.com/p/18374462357a) |
+| Wed, 20 Aug 2025 14:31:52 GMT | The Great Tech Interview Paradox: Why MANGA’s Hiring Process Misses the Mark | Shabana Khanam | [Read More](https://medium.com/p/b9c977424904) |
+| Wed, 20 Aug 2025 14:29:49 GMT | My CRTA (Certified Red Team Analyst) Exam Experience with Cyberwarfare | Knowntonone | [Read More](https://medium.com/p/329339d73df0) |
+| Wed, 20 Aug 2025 14:24:53 GMT | AI Cyber Attacks: Why Every Business Needs to Pay Attention | Tech Caps | [Read More](https://medium.com/p/5bc2b0430f5e) |
 | Wed, 20 Aug 2025 14:13:21 GMT | SSL/TLS Handshake | Puneeth Kumar G | [Read More](https://medium.com/p/8d64638e036e) |
 | Wed, 20 Aug 2025 14:08:37 GMT | AI-Powered Browsers Are Being Tricked! | Brez | [Read More](https://medium.com/p/a817ef1c5c52) |
 | Wed, 20 Aug 2025 14:07:22 GMT | Part 2 — Building a Secure, Practical Authentication System for Android | Karishma Agrawal | [Read More](https://medium.com/p/37afba103e41) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 09:35:31 GMT | From Data to Decisions: Leveraging Predictive Analytics for Business Growth | Selectiva Systems | [Read More](https://medium.com/p/7d7d9abf9b62) |
 | Wed, 20 Aug 2025 09:32:06 GMT | What Not to Post on Social Media If You Want to Stay Secure | Qoli AI | [Read More](https://medium.com/p/7be93a932642) |
 | Wed, 20 Aug 2025 09:31:14 GMT | From Coast Guard Hacker to Corporate Savior: My Story | CtrlC3 | [Read More](https://medium.com/p/573dafa38b36) |
-| Wed, 20 Aug 2025 09:30:52 GMT | Junior, Mid, and Senior Pentesters — What Separates Them? | Taulan Zauzanov | [Read More](https://medium.com/p/e68f1e8204d8) |
-| Wed, 20 Aug 2025 09:23:11 GMT | 【資安警報】PipeMagic 回歸：假 AI 應用背後的勒索風暴 | 竣盟科技Billows | [Read More](https://medium.com/p/13809c18711e) |
-| Wed, 20 Aug 2025 09:21:16 GMT | 10 Reasons Businesses Rely on SAP Managed Services | Trajectus | [Read More](https://medium.com/p/8086b431e923) |
-| Wed, 20 Aug 2025 09:20:46 GMT | My Automated Bug Notes System: From Telegram to Notion️ | StrangeRwhite | [Read More](https://medium.com/p/faa3e138dc8c) |
-| Wed, 20 Aug 2025 09:16:33 GMT | MacBook Unlock/Hack - Hire Hacker - Professional Hackers | BlackHat | [Read More](https://medium.com/p/1adbd0d98634) |
-| Wed, 20 Aug 2025 09:15:34 GMT | Review แบบไม่อวย: สอบดีไหม INE eCPPT และ eWPTX | Athiwat Tiprasaharn | [Read More](https://medium.com/p/94e375714349) |
-| Wed, 20 Aug 2025 09:10:07 GMT | Apple vs. UK: Encryption Showdown — Did Privacy Win? | Truspex | [Read More](https://medium.com/p/c800c9194160) |
-| Wed, 20 Aug 2025 09:07:19 GMT | GT Infotech — Software Testing Reducing Production Bugs with Selenium-Powered Software Testing… | Stephenjoseeph | [Read More](https://medium.com/p/77e76b61d37c) |
-| Wed, 20 Aug 2025 09:04:50 GMT | Tulsi Gabbard strips security clearances from 37 current and former national security leaders | Daily Update's24 | [Read More](https://medium.com/p/70d6bd311331) |
