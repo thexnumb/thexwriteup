@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 05:14:12 GMT | Residential Security Guard Services in Manchester - Marvellous Security Services | Marvelloussecurities | [Read More](https://medium.com/p/d35fe8775273) |
+| Wed, 20 Aug 2025 05:05:14 GMT | When a Fake Salesforce App Broke into Google | Devansh Patel | [Read More](https://medium.com/p/0f2cdaac0fde) |
+| Wed, 20 Aug 2025 05:01:55 GMT | React Native Secure Storage: Cross-Platform Authentication Guide | Ms. Byte Dev | [Read More](https://medium.com/p/24d1d89849e4) |
+| Wed, 20 Aug 2025 04:58:09 GMT | TLS and SSL Handshake Explained Simply | Prathiush Jayaprakash | [Read More](https://medium.com/p/8776ea3c05dd) |
+| Wed, 20 Aug 2025 04:56:24 GMT | Your CEO Just Called, Or Did They? India’s Deepfake Scam Epidemic Hits the Boardroom | Moiz Kothari | [Read More](https://medium.com/p/0a1a166fa1e5) |
+| Wed, 20 Aug 2025 04:55:14 GMT | Residential Security Guard Services in Manchester - Marvellous Security Services | Marvelloussecurities | [Read More](https://medium.com/p/9560e85c4787) |
+| Wed, 20 Aug 2025 04:55:13 GMT | ThunderCipher-Lab[BlueInfect] | Bhuwan Patidar | [Read More](https://medium.com/p/1963a2dffcb0) |
+| Wed, 20 Aug 2025 04:52:23 GMT | Blind XSS — How I Found It | Mejbankadir | [Read More](https://medium.com/p/75a990e06a9f) |
+| Wed, 20 Aug 2025 04:52:12 GMT | Query Gone Wild: How I Turned a Forgotten GraphQL Endpoint into Full Account Access | Iski | [Read More](https://medium.com/p/9d79d1f42970) |
+| Wed, 20 Aug 2025 04:40:19 GMT | Smart Locks vs Traditional Locks: What I Chose for My Restaurant | Liam Johnson | [Read More](https://medium.com/p/12996dbc4e66) |
 | Wed, 20 Aug 2025 04:37:02 GMT | TLS/SSL Handshake: The Backbone of Secure Digital Communication | Shree Navya M R | [Read More](https://medium.com/p/2460e516d882) |
 | Wed, 20 Aug 2025 04:35:56 GMT | Passwords Are Dead. Certificates Are the New Sheriff in Town. | DragonWarriorCodes | [Read More](https://medium.com/p/9ef436fcbe40) |
 | Wed, 20 Aug 2025 04:32:06 GMT | Mastering Validation in Laravel — A Beginner’s Guide | Rohit Dhiman | [Read More](https://medium.com/p/336d891edbeb) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 19:29:45 GMT | OWASP GenAI Security Project: Segurança por Design na Era da Inteligência Artificial | Wagner Iatalessi do Valle | [Read More](https://medium.com/p/8f605d0971bd) |
 | Tue, 19 Aug 2025 19:29:08 GMT | Top 7 Benefits of Professional Data Backup and Disaster Recovery Services | Techridge Solutions | [Read More](https://medium.com/p/376ac1a3d7eb) |
 | Tue, 19 Aug 2025 19:27:35 GMT | How to Secure Your HubSpot CRM Against the Latest Social Engineering Attacks | Sean - HubSpot Architect | [Read More](https://medium.com/p/c56c75aea775) |
-| Tue, 19 Aug 2025 19:26:33 GMT | TryHackMe Threat Intelligence Tools — Complete Writeup | Romeeza Naveed | [Read More](https://medium.com/p/cba375b75635) |
-| Tue, 19 Aug 2025 19:26:32 GMT | Visualizing Network Policies | Guido Larrad | [Read More](https://medium.com/p/770cab1f17f4) |
-| Tue, 19 Aug 2025 19:20:40 GMT | Cybersecurity and AI: Why They’re in High Demand in 2025 | Crypto Lover | [Read More](https://medium.com/p/62729590eb86) |
-| Tue, 19 Aug 2025 19:17:34 GMT | Quantum-Safe Cryptography for Financial Transactions | Florence Welch | [Read More](https://medium.com/p/c41c6aeaacb9) |
-| Tue, 19 Aug 2025 19:15:38 GMT | AI Harm OS: Stress-Testing the Safety of Computer use (Desktop, & applications) AI Agents | Valdez Ladd | [Read More](https://medium.com/p/6c2b9ab53d96) |
-| Tue, 19 Aug 2025 19:12:13 GMT | [Part 1] Cyber Resilience Act 101: What Every Executive Needs to Know | Cyberkech | [Read More](https://medium.com/p/05fa279f7c4e) |
-| Tue, 19 Aug 2025 19:07:03 GMT | PG Practice — Hepet (Windows) | Lepton | [Read More](https://medium.com/p/870a215892e6) |
-| Tue, 19 Aug 2025 19:03:41 GMT | Magnolia: My First CTF Puzzle — A Journey of Flowers, Poetry, and a Little Bit of RSA (A Personal… | Nattawadee Inala | [Read More](https://medium.com/p/bd8d40d4a48d) |
-| Tue, 19 Aug 2025 19:03:35 GMT | The Workday Breach, Explained (Simply + Technically) | Akshat Patel | [Read More](https://medium.com/p/ca72581e57dd) |
-| Tue, 19 Aug 2025 19:00:33 GMT | The Falling and the Rising | Isha | [Read More](https://medium.com/p/9a14f7594a44) |
