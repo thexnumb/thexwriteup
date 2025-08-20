@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 03:32:00 GMT | How Fake Video Generators Deploy the Noodlophile Infostealer | Deven Chhajed | [Read More](https://medium.com/p/896883f451bc) |
+| Wed, 20 Aug 2025 03:30:05 GMT | Defending Enterprise Data Against Quantum Encryption Attacks | Matthew.Rosenquist | [Read More](https://medium.com/p/c5a7be41fd20) |
+| Wed, 20 Aug 2025 03:23:50 GMT | Certified Ethical Hacker (CEH v12) Certification Course | priya chawale | [Read More](https://medium.com/p/9ae90b96b74c) |
+| Wed, 20 Aug 2025 03:18:54 GMT | SafeLine WAF Logging & Monitoring: What Every Homelab Needs | AerieWhole123 | [Read More](https://medium.com/p/057ef6178aeb) |
+| Wed, 20 Aug 2025 03:13:57 GMT | Deepfake Scams and the Future of Identity Theft | Abida Adra | [Read More](https://medium.com/p/a21fffb40d58) |
 | Wed, 20 Aug 2025 03:04:26 GMT | The Psychology of a Hack: Why You Click Before You Think | Sofia | [Read More](https://medium.com/p/fff0106d2f2f) |
 | Wed, 20 Aug 2025 03:01:59 GMT | AI Cold War — How Data Centers, Chip Bans, and Digital Borders Are Redrawing Global Power | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/2ef89cbf3db6) |
 | Wed, 20 Aug 2025 03:00:04 GMT | 7 Essential Tips to Stay Safe on Hotel Wi-Fi | Brian Davis | [Read More](https://medium.com/p/5dc4519dd919) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 18:39:49 GMT | Cybersecurity — Discover the Top 3 Career & Earnings Growth Strategies | Franklin Rhodes | [Read More](https://medium.com/p/57835a469aeb) |
 | Tue, 19 Aug 2025 18:37:52 GMT | Beyond ‘Secure’: New Framework Measures and Defends Against Federated Learning Attacks | Berend Watchus | [Read More](https://medium.com/p/319f37825dc9) |
 | Tue, 19 Aug 2025 18:35:35 GMT | AWS Security Lab: Implementing Account Governance | Michael Nichols | [Read More](https://medium.com/p/f9a48fe328f2) |
-| Tue, 19 Aug 2025 18:32:04 GMT | Juggling Acts: Game Design Theory, YouTube Dreams, and the Cyber Security Rabbit Hole | Tom Torretti | [Read More](https://medium.com/p/0db862373289) |
-| Tue, 19 Aug 2025 18:28:00 GMT | Vulnerability Assessment Checklists: A Step-by-Step Guide for Stronger Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/c79b5e0af6ce) |
-| Tue, 19 Aug 2025 18:18:50 GMT | TryHackMe: Vulnnet: Active | Adhamkhairy | [Read More](https://medium.com/p/a94178765c93) |
-| Tue, 19 Aug 2025 18:14:44 GMT | Mastering Nmap: The Ultimate Guide for Beginners | Reeti Agarwal | [Read More](https://medium.com/p/209d87c124eb) |
-| Tue, 19 Aug 2025 18:05:09 GMT | Social Engineering Toolkit: A Powerful Weapon in Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/9dc33c16bbd1) |
