@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 19:13:00 GMT | PG Practice — vmdak (Linux) | Lepton | [Read More](https://medium.com/p/bcc10d6d1a29) |
+| Wed, 20 Aug 2025 19:08:27 GMT | Unbreakable Drive Encryption Management for SSDs and HDDs | Opal Lock by Fidelity Height | [Read More](https://medium.com/p/339418a962ba) |
+| Wed, 20 Aug 2025 19:03:56 GMT | 24/7 professional Home Monitoring Away from home? We’ve got it covered. | Visual Monitoring Solutions | [Read More](https://medium.com/p/5d2ae67abd34) |
+| Wed, 20 Aug 2025 19:03:11 GMT | Cybersecurity in 15 Minutes: A Beginner’s Guide to Staying Safe Online | Jacky Liu | [Read More](https://medium.com/p/6904308ebf82) |
+| Wed, 20 Aug 2025 19:01:20 GMT | The Fifty One Second Apocalypse That Shattered Every Cybersecurity Framework | Abdalla Elzedy | [Read More](https://medium.com/p/931c9a7b92f4) |
+| Wed, 20 Aug 2025 18:52:36 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/b82804b3a3e7) |
+| Wed, 20 Aug 2025 18:48:18 GMT | The Hunger Behind the Tears | Janet Lady | [Read More](https://medium.com/p/010cf695a3c9) |
+| Wed, 20 Aug 2025 18:43:38 GMT | Cybersecurity in 2025: The Silent War You Can’t Ignore ⚔️ | Hack Behind The Mask | [Read More](https://medium.com/p/1e05e68fca8b) |
+| Wed, 20 Aug 2025 18:42:38 GMT | The One-Minute Call | O. J. Okpabi | [Read More](https://medium.com/p/7a6a4e024c93) |
+| Wed, 20 Aug 2025 18:40:23 GMT | SecOps in Action: AI Detection Enrichment & Analysis | TheMachine | [Read More](https://medium.com/p/f5879d566b1d) |
+| Wed, 20 Aug 2025 18:37:04 GMT | Protecting Crypto Exchanges From Costly Hacks — Yevheniia Broshevan | Aroundthecoin | [Read More](https://medium.com/p/082806b3c89d) |
+| Wed, 20 Aug 2025 18:31:12 GMT | Easily Identify Spy Apps with uMobix on Any iPhone or Android | Narjis Batool | [Read More](https://medium.com/p/95ebd2f0b408) |
+| Wed, 20 Aug 2025 18:30:01 GMT | Wallet Compromise Linked to kcmtraincxx.cc: Urgent Steps to Take | Scam Scout | [Read More](https://medium.com/p/0dfcdf43c7f7) |
 | Wed, 20 Aug 2025 18:17:14 GMT | The Dawn of Transparent AI: A Deep Dive into the Deeplog Neurosymbolic Machine | Berend Watchus | [Read More](https://medium.com/p/6a1835bcdb0c) |
 | Wed, 20 Aug 2025 18:14:00 GMT | XINTRA — AB Projekt Blue Lab Walkthrough | QhtSec | [Read More](https://medium.com/p/9e2cfc6f65a1) |
 | Wed, 20 Aug 2025 18:06:02 GMT | 12 Secrets You Should Keep Out of Your Codebase | Shaun | [Read More](https://medium.com/p/a069e33ef7ee) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 14:24:53 GMT | AI Cyber Attacks: Why Every Business Needs to Pay Attention | Tech Caps | [Read More](https://medium.com/p/5bc2b0430f5e) |
 | Wed, 20 Aug 2025 14:13:21 GMT | SSL/TLS Handshake | Puneeth Kumar G | [Read More](https://medium.com/p/8d64638e036e) |
 | Wed, 20 Aug 2025 14:08:37 GMT | AI-Powered Browsers Are Being Tricked! | Brez | [Read More](https://medium.com/p/a817ef1c5c52) |
-| Wed, 20 Aug 2025 14:07:22 GMT | Part 2 — Building a Secure, Practical Authentication System for Android | Karishma Agrawal | [Read More](https://medium.com/p/37afba103e41) |
-| Wed, 20 Aug 2025 14:06:53 GMT | I was a victim…………. and I wouldn’t want you to be too. Here’s what happened | Zino's Insights and Musings | [Read More](https://medium.com/p/88aeed252781) |
-| Wed, 20 Aug 2025 14:05:06 GMT | Is Privacy Dead in 2025? The New Frontline of Cybersecurity | Jenniwrites | [Read More](https://medium.com/p/1becaf973350) |
-| Wed, 20 Aug 2025 14:03:39 GMT | Software Development Security Standards: A Complete Guide for Businesses (2025) | tkxel | [Read More](https://medium.com/p/01fe4b335a5e) |
-| Wed, 20 Aug 2025 14:02:42 GMT | I’m Afraid the Beauty Will Collapse | Prix☆ | [Read More](https://medium.com/p/fc46ab0388d6) |
-| Wed, 20 Aug 2025 14:02:13 GMT | Cyber Briefing: 2025.08.20 | CyberMaterial | [Read More](https://medium.com/p/4acd92c6b261) |
-| Wed, 20 Aug 2025 14:02:08 GMT | What I Learned From Brene Brown’s TED TALK — The Power of Vulnerability | Life Lessons | [Read More](https://medium.com/p/ece106fba4c5) |
-| Wed, 20 Aug 2025 14:02:07 GMT | Datacenter Security Controls: Abridged Edition | abdeldayemnour | [Read More](https://medium.com/p/19556f01937b) |
-| Wed, 20 Aug 2025 13:57:17 GMT | Emergent AI Identity via Symbolic Linguistic Recursion in Stateless LLMs | Evil Bot | [Read More](https://medium.com/p/162b08530bfd) |
-| Wed, 20 Aug 2025 13:55:19 GMT | How Agentic AI is Changing the Landscape of Insider Threat Detection | Lauren Cotton | [Read More](https://medium.com/p/24ccd0141f7a) |
-| Wed, 20 Aug 2025 13:48:25 GMT | alnsnslaal | Picify products | [Read More](https://medium.com/p/0073ecf964cf) |
-| Wed, 20 Aug 2025 13:44:29 GMT | How to Protect Your Web3 Startup From Crypto Scams and Fake Investors | Syndika | [Read More](https://medium.com/p/7ec012e942c0) |
-| Wed, 20 Aug 2025 13:40:33 GMT | The Power of Vulnerability in the Bedroom | Soren Frost | [Read More](https://medium.com/p/a7a46c00ce79) |
