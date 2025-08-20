@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 04:37:02 GMT | TLS/SSL Handshake: The Backbone of Secure Digital Communication | Shree Navya M R | [Read More](https://medium.com/p/2460e516d882) |
+| Wed, 20 Aug 2025 04:35:56 GMT | Passwords Are Dead. Certificates Are the New Sheriff in Town. | DragonWarriorCodes | [Read More](https://medium.com/p/9ef436fcbe40) |
+| Wed, 20 Aug 2025 04:32:06 GMT | Mastering Validation in Laravel — A Beginner’s Guide | Rohit Dhiman | [Read More](https://medium.com/p/336d891edbeb) |
+| Wed, 20 Aug 2025 04:26:42 GMT | Quantum-Resistant Blockchain: Securing the Future | Dukerearing | [Read More](https://medium.com/p/70abcf841609) |
+| Wed, 20 Aug 2025 04:15:45 GMT | PicoCTF 2024: Bookmarklet — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/f539957323f6) |
 | Wed, 20 Aug 2025 04:12:43 GMT | HTB Walkthrough : Mongod(MongoDB) | Ahmad Sopyan | [Read More](https://medium.com/p/792b93007c99) |
 | Wed, 20 Aug 2025 03:57:11 GMT | Bypassing Authentication with a Single Request: A Real Bug Bounty Story | Aj | [Read More](https://medium.com/p/9526dc2484d4) |
 | Wed, 20 Aug 2025 03:32:00 GMT | How Fake Video Generators Deploy the Noodlophile Infostealer | Deven Chhajed | [Read More](https://medium.com/p/896883f451bc) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 19:03:41 GMT | Magnolia: My First CTF Puzzle — A Journey of Flowers, Poetry, and a Little Bit of RSA (A Personal… | Nattawadee Inala | [Read More](https://medium.com/p/bd8d40d4a48d) |
 | Tue, 19 Aug 2025 19:03:35 GMT | The Workday Breach, Explained (Simply + Technically) | Akshat Patel | [Read More](https://medium.com/p/ca72581e57dd) |
 | Tue, 19 Aug 2025 19:00:33 GMT | The Falling and the Rising | Isha | [Read More](https://medium.com/p/9a14f7594a44) |
-| Tue, 19 Aug 2025 18:59:15 GMT | The Architecture of Emergence: A Deep Dive into LegoNE and Its Connection to Our Work on Hypergames… | Berend Watchus | [Read More](https://medium.com/p/1343fc2a1efc) |
-| Tue, 19 Aug 2025 18:50:32 GMT | Patch Management: The Digital Hygiene Your Business Can’t Skip | Akshay Chauhan | [Read More](https://medium.com/p/b35165cd1019) |
-| Tue, 19 Aug 2025 18:47:33 GMT | How to Get Cyber Essentials Plus Certification: Real Costs Guide 2025 | Paul Reynolds | [Read More](https://medium.com/p/e71f78d1de4c) |
-| Tue, 19 Aug 2025 18:45:37 GMT | How to Import Users into Okta Using a CSV File | James Rawlings | [Read More](https://medium.com/p/165fa0752f44) |
-| Tue, 19 Aug 2025 18:39:49 GMT | Cybersecurity — Discover the Top 3 Career & Earnings Growth Strategies | Franklin Rhodes | [Read More](https://medium.com/p/57835a469aeb) |
