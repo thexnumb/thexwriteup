@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 22:11:17 GMT | A Man on a Mission | Shiv Singh - The Cyber Resilience Project ✍️ | [Read More](https://medium.com/p/eff5da551d2d) |
+| Wed, 20 Aug 2025 22:02:33 GMT | Red Team Recon | Anthony Mazyck | [Read More](https://medium.com/p/3cbbf5419670) |
+| Wed, 20 Aug 2025 22:01:23 GMT | How to Buy Gift Cards with Bitcoin Using CryptoXpress | Ufanabasi Ekong | [Read More](https://medium.com/p/c8b02eaa84d9) |
+| Wed, 20 Aug 2025 21:57:05 GMT | CyberDefenders: PsExec Hunt Lab — Walkthrough | Luis Marquez | [Read More](https://medium.com/p/5c5d67d406e4) |
+| Wed, 20 Aug 2025 21:47:47 GMT | JWT Bugs and the Dot That Changed Everything ⚔️ | soltanali0 | [Read More](https://medium.com/p/50a0bc31fd66) |
+| Wed, 20 Aug 2025 21:42:51 GMT | DSI — Cybersécurité : élaborer une PSSI vite fait bien fait ! | Christophe Vriet | [Read More](https://medium.com/p/28022a6fce2b) |
+| Wed, 20 Aug 2025 21:41:29 GMT | Why Security Tools Alone Will Never Save You From the Next Breach | Cyber-AppSec | [Read More](https://medium.com/p/631a99a302e9) |
+| Wed, 20 Aug 2025 21:40:07 GMT | Spoofing Attacks: How Hackers Impersonate and How You Can Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/bbbcd7b6a3f2) |
+| Wed, 20 Aug 2025 21:30:25 GMT | EDR vs XDR: Which One Does Your Business Really Need? | SafeAeon Inc. | [Read More](https://medium.com/p/686e77e8162d) |
+| Wed, 20 Aug 2025 21:30:17 GMT | LolBins অ্যাটাক এর বিস্তারিত | Shahriar Galib | [Read More](https://medium.com/p/f93343c98c45) |
 | Wed, 20 Aug 2025 21:16:58 GMT | [TryHackMe] Blizzard Walkthrough | Kuba Herka | [Read More](https://medium.com/p/e55394cba766) |
 | Wed, 20 Aug 2025 21:14:54 GMT | Building Your Own ECU Hacking Setup at Home | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ebb266f046c3) |
 | Wed, 20 Aug 2025 21:00:34 GMT | The Power of Dark Web Monitoring | SafeAeon Inc. | [Read More](https://medium.com/p/3bb6583eb7f7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 15:50:38 GMT | Understanding REvil Ransomware and How to Prevent It | Keepnet Labs | [Read More](https://medium.com/p/a60132f9f8a4) |
 | Wed, 20 Aug 2025 15:48:39 GMT | Basic Pentesting — TryHackMe Walkthrough | echoVoid | [Read More](https://medium.com/p/73ea07b37630) |
 | Wed, 20 Aug 2025 15:48:12 GMT | Engineered to Fail: The DNA of Negligent Cyber Defenses | Deep Specter Research | [Read More](https://medium.com/p/22466a034b28) |
-| Wed, 20 Aug 2025 15:46:01 GMT | Bug Bounty: Sensitive Data Exposure — How Info Spills Become Breaches ️‍♂️ | Rajkumar Kumawat | [Read More](https://medium.com/p/9778749855ea) |
-| Wed, 20 Aug 2025 15:44:43 GMT | Forense Digital no AnyDesk: Onde Encontrar Evidências de Conexões Remotas | Lucas Soeiro | [Read More](https://medium.com/p/8a8b04c5ef96) |
-| Wed, 20 Aug 2025 15:38:27 GMT | “The 7 Unspoken Recon Tricks That Fund My Bug Bounty Addiction” | Aman Sharma | [Read More](https://medium.com/p/bae6fb8768a5) |
-| Wed, 20 Aug 2025 15:33:36 GMT | TryHackMe — Publisher CTF Write-up | Trang Vu | [Read More](https://medium.com/p/1fd5989561cb) |
-| Wed, 20 Aug 2025 15:33:17 GMT | CVE-2023–34362 and Nova Scotia’s Data Breach: Lessons in Cyber Risk Management | Daniel Londoño B. | [Read More](https://medium.com/p/c3df29be2d3e) |
-| Wed, 20 Aug 2025 15:28:55 GMT | Why Password Protection Intelligence Matters for Security Culture | Keepnet Labs | [Read More](https://medium.com/p/9df667c0dd9d) |
-| Wed, 20 Aug 2025 15:25:51 GMT | Top 10 C2 Frameworks Every Red Teamer Should Know | Aju Deb | [Read More](https://medium.com/p/0f4e9ee75d61) |
-| Wed, 20 Aug 2025 15:25:37 GMT | Top 10 Data Integration Tools with Strong Compliance and Security Features for US Businesses | Amanda Brooks | [Read More](https://medium.com/p/1f0f781b38f0) |
-| Wed, 20 Aug 2025 15:21:53 GMT | Security in the Digital Age: From Caesar to AES — and the Hybrid Systems in Between | Ceyda Irwin | [Read More](https://medium.com/p/4af32c11ec21) |
-| Wed, 20 Aug 2025 15:19:52 GMT | Twitch OTP Not Arriving? Here's How to Fix It! | Testway | [Read More](https://medium.com/p/1b54e5d1611b) |
