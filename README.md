@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 20:31:01 GMT | Security Updates in Linux: Automation and Risk Management | Esra Kayhan | [Read More](https://medium.com/p/a2e884545b1b) |
+| Wed, 20 Aug 2025 20:22:06 GMT | This is How Criminals are Using AI | YAROCELIS.eth - Tech Trends | [Read More](https://medium.com/p/f6f5a375fff9) |
 | Wed, 20 Aug 2025 20:15:09 GMT | Pickle Rick Tryhackme (THM) Walkthrough | Ammar Ahmed | [Read More](https://medium.com/p/2c9126beb498) |
 | Wed, 20 Aug 2025 20:13:24 GMT | Stored XSS via Unsanitized SVG File Upload | youssef awad | [Read More](https://medium.com/p/d7e4619cc937) |
 | Wed, 20 Aug 2025 20:08:49 GMT | A Security Analyst’s Guide to Security Identifiers (SIDs) | AlanKaliX | [Read More](https://medium.com/p/c1589725afeb) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 14:59:11 GMT | CyberSecurity — How “Who” Edged the Feature | CURIOWLS | [Read More](https://medium.com/p/7f401b3e4ab1) |
 | Wed, 20 Aug 2025 14:55:10 GMT | Wisetorro.com — Scam | Editor | [Read More](https://medium.com/p/687fc44d06f8) |
 | Wed, 20 Aug 2025 14:53:59 GMT | Default Isn’t Safe: The Unseen Dangers of AWS IAM Role Exploitation (And How to Stop Them) | Openiam | [Read More](https://medium.com/p/6e2722330719) |
-| Wed, 20 Aug 2025 14:53:35 GMT | How Claude Code Plus a Million Tokens Could Win the Workplace | Adewuyi Abayomi Daniel | [Read More](https://medium.com/p/e62dcef4a4bf) |
-| Wed, 20 Aug 2025 14:47:15 GMT | Bfstechinvest.com — Scam | Editor | [Read More](https://medium.com/p/df5001c2dbdb) |
