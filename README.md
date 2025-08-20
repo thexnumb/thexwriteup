@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 11:12:27 GMT | €2000 Bounty — IDOR to Privilege Escalation : From Admin to Internal Employee | Ashar Mahmood | [Read More](https://medium.com/p/a36db23fa10a) |
+| Wed, 20 Aug 2025 11:09:59 GMT | Implementation and Security Pitfalls of LST on Hyperliquid | Talfao | [Read More](https://medium.com/p/b83b8fd42713) |
+| Wed, 20 Aug 2025 11:08:14 GMT | India AI Mission: Powering the Nation’s AI Future | Nishaverma | [Read More](https://medium.com/p/4f1f3ccab495) |
+| Wed, 20 Aug 2025 10:53:53 GMT | The Future of Web & App Development: 5 Trends Shaping 2025 | Amin Softtech | [Read More](https://medium.com/p/7526d8d3b030) |
+| Wed, 20 Aug 2025 10:52:47 GMT | What Is Multi-Factor Authentication and How Does It Work? | Bizionic Technologies Pvt Ltd | [Read More](https://medium.com/p/bb54fc3cabb7) |
+| Wed, 20 Aug 2025 10:47:52 GMT | Fortinet Firewall Temel Kuralları ve Adres Tanımlaması- TalentCoders Siber Güvenlik Yaz Kampı… | Hakan ÇEVİK | [Read More](https://medium.com/p/92d93ce6297b) |
+| Wed, 20 Aug 2025 10:44:59 GMT | My Journey Through the eCPPTV3 Exam | Sheet Abdullah | [Read More](https://medium.com/p/8a50d64c058f) |
+| Wed, 20 Aug 2025 10:43:17 GMT | How Data Security Skills Can Boost Any Tech Career | Aiswarya N | [Read More](https://medium.com/p/50f60cb52b48) |
+| Wed, 20 Aug 2025 10:40:14 GMT | File Upload vulnerability…….. | XYZ200: | [Read More](https://medium.com/p/68ed3f220e0b) |
+| Wed, 20 Aug 2025 10:38:13 GMT | Career Opportunities After MCA in Cyber Security | Techmeenakshi | [Read More](https://medium.com/p/8a6620ce7de6) |
 | Wed, 20 Aug 2025 10:31:59 GMT | Privilege Escalation in Web Apps & APIs: A Pentester’s Guide to Exploitation | YoungerSibling | [Read More](https://medium.com/p/b8e69bd12f71) |
 | Wed, 20 Aug 2025 10:30:35 GMT | The Invisible Engine: How Technology Shapes Your Life Every Second | Aroosh | [Read More](https://medium.com/p/853686b1b354) |
 | Wed, 20 Aug 2025 10:25:31 GMT | DockerLabs Writeup — SecretJenkins (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1e386116abb3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 06:07:12 GMT | Building Peace Through Knowledge: Upcoming Intensive Training on Alternative Dispute Resolution | Wem'Afrika | [Read More](https://medium.com/p/46020ae255d2) |
 | Wed, 20 Aug 2025 06:06:31 GMT | Phishing: A Cyber Threat that Needs Attention | Jevera Kinawa | [Read More](https://medium.com/p/5b15ba9fc4d5) |
 | Wed, 20 Aug 2025 06:03:43 GMT | Phishing Simulation Services: Protecting Indian Organizations | Noahlucas | [Read More](https://medium.com/p/687684939200) |
-| Wed, 20 Aug 2025 06:01:46 GMT | TCM PWPP: How I Passed the Practical Web Pentest Professional on My First Attempt | Athiwat Tiprasaharn | [Read More](https://medium.com/p/a839c7e5abb8) |
-| Wed, 20 Aug 2025 06:00:28 GMT | Today’s Top Cyber Intelligence Highlights — Aug 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/07c82a31f3b6) |
-| Wed, 20 Aug 2025 05:55:38 GMT | Understanding Operating Systems: Windows and Linux | ZeroCyber | [Read More](https://medium.com/p/72f6cc1c8d10) |
-| Wed, 20 Aug 2025 05:47:30 GMT | Why Cyber Security is the Most Demanding Skill in 2025 | Yash Mankani | [Read More](https://medium.com/p/a1d7d2d4e2dd) |
-| Wed, 20 Aug 2025 05:47:22 GMT | Understanding 6 Types of Cloud Security Breaches in 2025 | QualysecEurope | [Read More](https://medium.com/p/f1f649085471) |
-| Wed, 20 Aug 2025 05:46:20 GMT | On vibe coding and construction | A. T. | [Read More](https://medium.com/p/4d6cb0bd0831) |
-| Wed, 20 Aug 2025 05:45:00 GMT | What is a Cookie? | Prathiush Jayaprakash | [Read More](https://medium.com/p/949fe1f794fc) |
-| Wed, 20 Aug 2025 05:31:57 GMT | ThunderCipher VulnerableCorp | Hitanshu Ashish Gedam | [Read More](https://medium.com/p/c16e2831f484) |
-| Wed, 20 Aug 2025 05:24:25 GMT | Fire and Ash: A Poem of Guidance | Transcendent zebra | [Read More](https://medium.com/p/647cf06798c7) |
-| Wed, 20 Aug 2025 05:24:07 GMT | Mainframe vs. Cloud: Who Wins the Security Battle? | Thomas Joseph | [Read More](https://medium.com/p/79cd43f503cb) |
