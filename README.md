@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 21:16:58 GMT | [TryHackMe] Blizzard Walkthrough | Kuba Herka | [Read More](https://medium.com/p/e55394cba766) |
 | Wed, 20 Aug 2025 21:14:54 GMT | Building Your Own ECU Hacking Setup at Home | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ebb266f046c3) |
 | Wed, 20 Aug 2025 21:00:34 GMT | The Power of Dark Web Monitoring | SafeAeon Inc. | [Read More](https://medium.com/p/3bb6583eb7f7) |
 | Wed, 20 Aug 2025 20:59:50 GMT | My Journey into Digital Forensics and Why an Investigator’s Mindset is Crucial for Modern Defense | IBE KINGSLEY | [Read More](https://medium.com/p/d294d4110ace) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 15:25:37 GMT | Top 10 Data Integration Tools with Strong Compliance and Security Features for US Businesses | Amanda Brooks | [Read More](https://medium.com/p/1f0f781b38f0) |
 | Wed, 20 Aug 2025 15:21:53 GMT | Security in the Digital Age: From Caesar to AES — and the Hybrid Systems in Between | Ceyda Irwin | [Read More](https://medium.com/p/4af32c11ec21) |
 | Wed, 20 Aug 2025 15:19:52 GMT | Twitch OTP Not Arriving? Here's How to Fix It! | Testway | [Read More](https://medium.com/p/1b54e5d1611b) |
-| Wed, 20 Aug 2025 15:17:28 GMT | “Day 17: The Ghost in the DNS — How I Turned a Forgotten Subdomain into a Ransomware Vector” | Aman Sharma | [Read More](https://medium.com/p/f2046a06dcf3) |
