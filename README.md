@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 Aug 2025 07:08:16 GMT | Mastering OAuth Security in Spring Boot: CSRF, Session IDs & Device Metadata (2025 Guide) | CodeTalks | [Read More](https://medium.com/p/0ae190be5965) |
+| Wed, 20 Aug 2025 07:07:46 GMT | JSON Web Token (JWT) PORTSWİGGER Lab Çözümleri-2 | ENES KURTULAN | [Read More](https://medium.com/p/c4404215f32f) |
+| Wed, 20 Aug 2025 07:04:29 GMT | OWASP Top 10 | Bhasanthms | [Read More](https://medium.com/p/960c9520fc75) |
+| Wed, 20 Aug 2025 07:03:13 GMT | The QR Code You Never Ordered | Meni Tasa (@CyberBriefProject) | [Read More](https://medium.com/p/2c42d368442a) |
+| Wed, 20 Aug 2025 06:59:06 GMT | Enhancing Enterprise Security with Advanced Monitoring and Incident Response | Vijilan | [Read More](https://medium.com/p/999a6bb920bd) |
+| Wed, 20 Aug 2025 06:52:16 GMT | EX4000 Series Switches By Juniper Networks: Next-Gen Wired and Wireless Innovation | Juara IT Solutions | [Read More](https://medium.com/p/b0e2327c853d) |
+| Wed, 20 Aug 2025 06:50:42 GMT | Saudi Arabia Cyber Security: Evolving Trends Shaping the Future | Mark Spark Solutions | [Read More](https://medium.com/p/360d8b81d549) |
+| Wed, 20 Aug 2025 06:47:19 GMT | Best Practices for Strategic CCTV Placement in UAE Homes | cctv-installation-dubai | [Read More](https://medium.com/p/2a32e73ae717) |
+| Wed, 20 Aug 2025 06:46:51 GMT | Can AI Replace Ethical Hackers: Myths vs Reality? | Manisha Chaudhary | [Read More](https://medium.com/p/714dd0dc96c1) |
+| Wed, 20 Aug 2025 06:46:44 GMT | The Impact of Credential Stuffing and How to Protect Your Accounts | Samina Perveen | [Read More](https://medium.com/p/248809ffb83f) |
+| Wed, 20 Aug 2025 06:41:49 GMT | Top Certifications for Network Engineers and IT Professionals in 2025 | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/c4ccfc7dcf61) |
+| Wed, 20 Aug 2025 06:38:01 GMT | There’s a Lesson Hidden Here | Evelyn | [Read More](https://medium.com/p/5913f6484f0b) |
+| Wed, 20 Aug 2025 06:32:30 GMT | Debunking GDPR Myths: Facts That Every Business Should Know | Ampcus Cyber | [Read More](https://medium.com/p/0e0a8c64a914) |
+| Wed, 20 Aug 2025 06:31:56 GMT | Episode 5: Surveillance Legislation Amendment (Identify and Disrupt) Bill 2020 | Lucifer Jeufo | [Read More](https://medium.com/p/98f43dd1faa3) |
 | Wed, 20 Aug 2025 06:27:36 GMT | Face Detection Basics for Beginners — With Haar Cascade FrontalFace Algorithm | Prainila Ranjan | [Read More](https://medium.com/p/c5333969b49a) |
 | Wed, 20 Aug 2025 06:24:03 GMT | How Crimsafe Security Screens Keep Your Home Secure Without Sacrificing Airflow | Gold Coast Security Screens | [Read More](https://medium.com/p/dbd87c51c123) |
 | Wed, 20 Aug 2025 06:18:50 GMT | The Future of Bug Bounties: Are They Keeping Up with Hackers? | Tarush Sharma | [Read More](https://medium.com/p/a6669fe7e855) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 Aug 2025 22:09:26 GMT | Try Hack Me — Light | Stilyana Petrova | [Read More](https://medium.com/p/3f47e80739bf) |
 | Tue, 19 Aug 2025 21:51:30 GMT | Try Hack Me — Vulnversity | Stilyana Petrova | [Read More](https://medium.com/p/7ac2f0529a02) |
 | Tue, 19 Aug 2025 21:49:26 GMT | Kubernetes for Everyone - TryHackMe Walkthrough | Hydsec | [Read More](https://medium.com/p/d18862f3ff2a) |
-| Tue, 19 Aug 2025 21:45:36 GMT | Digital Signatures: How to Prove You Really Sent That Email | Abhishek Bhujang | [Read More](https://medium.com/p/0de6041a396b) |
-| Tue, 19 Aug 2025 21:39:27 GMT | The Scariest Thing About AI? It’s What It Doesn’t Tell You. | Cyber-AppSec | [Read More](https://medium.com/p/6872ea60fa84) |
-| Tue, 19 Aug 2025 21:31:42 GMT | The IoT Device That Became a Spy: Home Assistant Data Exfiltration | Shahzaib | [Read More](https://medium.com/p/eda374ef2d5c) |
-| Tue, 19 Aug 2025 21:31:29 GMT | Easiest Admin Panel Takeover !! | TSxNINJA | [Read More](https://medium.com/p/d9e2c5ef321e) |
-| Tue, 19 Aug 2025 21:29:18 GMT | HTB — Dog | Stilyana Petrova | [Read More](https://medium.com/p/6bb0b2da300e) |
-| Tue, 19 Aug 2025 21:24:00 GMT | Haven1: Building Trust in the Wild West of Web3 | Stephen Ayo | [Read More](https://medium.com/p/d93d6656435b) |
-| Tue, 19 Aug 2025 21:13:48 GMT | How Security Guards Protect Retail Stores From Common Threats | Nimmi Xheikh | [Read More](https://medium.com/p/255e3c3330a0) |
-| Tue, 19 Aug 2025 21:06:42 GMT | The Importance of Professional Security Guard Services for Businesses | Nimmi Xheikh | [Read More](https://medium.com/p/9be68ac0450f) |
-| Tue, 19 Aug 2025 20:52:32 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / MALICE CYBER RECOVERY WILL HELP YOU IN RECOVERY YOUR STOLEN… | Emil Petrov | [Read More](https://medium.com/p/a69eca8e723a) |
-| Tue, 19 Aug 2025 20:51:56 GMT | Cybersecurity — 10 Career Success Strategies & Top Certifications | Franklin Rhodes | [Read More](https://medium.com/p/d9ba512e88d2) |
-| Tue, 19 Aug 2025 20:44:15 GMT | Explicacion de Script de Wifi Hacking - PwnWifi | FN8 | [Read More](https://medium.com/p/6f539b9894d3) |
-| Tue, 19 Aug 2025 20:42:50 GMT | Building….Forensic | Vyasswati13 | [Read More](https://medium.com/p/a91d225d72ef) |
-| Tue, 19 Aug 2025 20:39:11 GMT | Top 25 Bug Bounty Platform | Emon shaikh | [Read More](https://medium.com/p/9f7fff04166b) |
-| Tue, 19 Aug 2025 20:31:57 GMT | Securing Web-Based LLMs: Understanding Prompt Injection and Beyond | Hevin Ateş | [Read More](https://medium.com/p/9b50d61b9610) |
