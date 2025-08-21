@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 08:41:33 GMT | Cloud Honeypots with AI-Based Threat Classification | Servifyspheresolutions | [Read More](https://medium.com/p/899862be6869) |
+| Thu, 21 Aug 2025 08:38:48 GMT | ️Microservices Design Patterns: A Practical Guide for Modern Architecture | Techie Arbaaz | [Read More](https://medium.com/p/56a23928cac5) |
+| Thu, 21 Aug 2025 08:38:00 GMT | OpenSSH 10.0: Security Features & Updates | Bachchan James | [Read More](https://medium.com/p/8507cfefdf02) |
+| Thu, 21 Aug 2025 08:29:33 GMT | Cybersecurity is a business risk: The CEO’s role in protecting your company | Evistia | [Read More](https://medium.com/p/0f7c4861c098) |
+| Thu, 21 Aug 2025 08:28:25 GMT | Healthcare Security Systems: Safeguarding Hospitals in the Age of Digital Transformation | Tahminamrfr | [Read More](https://medium.com/p/03df7023528c) |
 | Thu, 21 Aug 2025 08:23:54 GMT | Supercharged SecOps Series - CrowdStrike Falcon MCP (Pub. Preview) | @mikecybersec | [Read More](https://medium.com/p/efe5f11c31c2) |
 | Thu, 21 Aug 2025 08:20:28 GMT | My First Wireshark Capture: From Ping to HTTP — A Beginner’s Journey into Network Traffic Analysis | Zoltan Karpati | [Read More](https://medium.com/p/1b7ef3037d83) |
 | Thu, 21 Aug 2025 08:14:25 GMT | Smart Labs 101: Be Portable , Be Specialized ! | lukewago | [Read More](https://medium.com/p/03b6294b501f) |
 | Thu, 21 Aug 2025 08:08:56 GMT | Buried Treasures in Backups: How .bak Files Handed Me the Keys to Production ️ | Iski | [Read More](https://medium.com/p/4bf325a51f31) |
+| Thu, 21 Aug 2025 08:07:05 GMT | Pengenalan Cyber Security : Seberapa penting cybersecurity untuk kita? | Eilinafta Gita | [Read More](https://medium.com/p/e6f160092ccd) |
 | Thu, 21 Aug 2025 08:06:43 GMT | Lumma Stealer: The Playbook for Blue Teams (Part 1) | Siddhant Mishra | [Read More](https://medium.com/p/1fbec6f59a15) |
 | Thu, 21 Aug 2025 08:04:47 GMT | Symantec Endpoint Protection Services: Security You Can Trust | Hoplon Infosec | [Read More](https://medium.com/p/76d694165bfc) |
 | Thu, 21 Aug 2025 08:02:09 GMT | Axis bank se paise cut Jaaye To Kya Karen☎️✍️ 9669-538-050 ✅☎️अगर एक्सिस बैंक से पैसे कट गए… | Axis bank se paise cut Jaaye To Kya Karen | [Read More](https://medium.com/p/c5377c5b77c7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 04:04:27 GMT | Apache ActiveMQ Flaw Exploited: DripDropper Malware Targets Cloud Linux Systems | IamPreth | [Read More](https://medium.com/p/76aa103882cd) |
 | Thu, 21 Aug 2025 03:58:07 GMT | Evil AI: Back to the Return of the Worm | Virginia Backaitis | [Read More](https://medium.com/p/1f6672dcc2aa) |
 | Thu, 21 Aug 2025 03:55:41 GMT | Quantum-Safe Web Security: Melindungi Data Kita dari Ancaman Komputer Kuantum | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/9a89f109d00e) |
-| Thu, 21 Aug 2025 03:53:20 GMT | VPNs, VPN topologies and Protocols | Vidam Sathnindu | [Read More](https://medium.com/p/24746889bc71) |
-| Thu, 21 Aug 2025 03:46:09 GMT | Why SafeLine WAF Is the Zero Trust Security Upgrade You Need in 2025 | Quella | [Read More](https://medium.com/p/347d2851481a) |
-| Thu, 21 Aug 2025 03:35:48 GMT | Autenticação baseado em token: JWT x PASETO | ISHII (石井) | [Read More](https://medium.com/p/81b2788f3e6f) |
-| Thu, 21 Aug 2025 03:33:29 GMT | How PupkinStealer Steals Your Secrets in Seconds | Deven Chhajed | [Read More](https://medium.com/p/80657bfb6f1b) |
-| Thu, 21 Aug 2025 03:32:44 GMT | Understanding the Biba Model: Integrity in Information Security | Raviteja Mureboina | [Read More](https://medium.com/p/2021fd392449) |
-| Thu, 21 Aug 2025 03:24:08 GMT | The Security Breach That Made Us Unhackable | Aaron Rose | [Read More](https://medium.com/p/4b77a3a65fa8) |
