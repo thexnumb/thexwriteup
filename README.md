@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 22:09:23 GMT | HTTP Host header attacks | Usama Hanif | [Read More](https://medium.com/p/7a72e3942b20) |
+| Thu, 21 Aug 2025 22:08:52 GMT | How to Deploy Your Express Backend to Vercel in 5 Minutes | Faith Njah | [Read More](https://medium.com/p/16317b2e9a69) |
+| Thu, 21 Aug 2025 22:05:52 GMT | Advancing Vulnerability Assessment for Beginners | Cyber Security Research | [Read More](https://medium.com/p/7dbb790ea5af) |
+| Thu, 21 Aug 2025 22:04:06 GMT | Advancing Vulnerability Assessment and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/daac301e1119) |
+| Thu, 21 Aug 2025 22:02:19 GMT | Advancing Vulnerability Assessment and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/368078c75b02) |
+| Thu, 21 Aug 2025 22:01:54 GMT | Cap: HackTheBox Retired Machine | Bridget | [Read More](https://medium.com/p/e50b2698b051) |
+| Thu, 21 Aug 2025 22:00:31 GMT | Advancing Vulnerability Assessment and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/0a870e8f51ac) |
+| Thu, 21 Aug 2025 21:58:43 GMT | Advancing Vulnerability Assessment That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/509b55d85b91) |
+| Thu, 21 Aug 2025 21:56:55 GMT | Advancing Vulnerability Assessment Step by Step | Cyber Security Research | [Read More](https://medium.com/p/176e9e41b277) |
+| Thu, 21 Aug 2025 21:55:09 GMT | Advancing Vulnerability Assessment Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/dc171a509a71) |
+| Thu, 21 Aug 2025 21:53:21 GMT | Advancing Threat Intelligence with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/f6cb2ec606ee) |
+| Thu, 21 Aug 2025 21:51:28 GMT | Advancing Threat Intelligence in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/2f21ad7ee0ef) |
+| Thu, 21 Aug 2025 21:48:33 GMT | CNA to CCNA: Part 1 | Macoy Gehrke | [Read More](https://medium.com/p/2bb143e44d5d) |
+| Thu, 21 Aug 2025 21:45:29 GMT | Why Zero Trust is the Future of Cloud Infrastructure Security | Techridge Solutions | [Read More](https://medium.com/p/0e733bd4e863) |
+| Thu, 21 Aug 2025 21:43:04 GMT | PG Practice — Ochima (Linux) | Lepton | [Read More](https://medium.com/p/c669b1ab5f63) |
+| Thu, 21 Aug 2025 21:42:41 GMT | PG Practice — Codo (Linux) | Lepton | [Read More](https://medium.com/p/3679ce503230) |
+| Thu, 21 Aug 2025 21:31:19 GMT | How a 'Beautiful Stranger' Online Almost Ruined My Life | jian wang | [Read More](https://medium.com/p/ece440a1ebf6) |
 | Thu, 21 Aug 2025 21:27:43 GMT | Linux Privilege Escalation for Beginners Part 9: Escalation via “CVE 2025–32463” “Sudo chroot 1.9.17 | Muhammadhuzaifa | [Read More](https://medium.com/p/410d8904f910) |
 | Thu, 21 Aug 2025 21:24:25 GMT | What is a CSRF attack? | Amr Loksha | [Read More](https://medium.com/p/89f67ea5d4b1) |
 | Thu, 21 Aug 2025 21:24:05 GMT | Spring Security’s SecurityFilterChain Explained Like You’re Hiring Bouncers for a Nightclub | Amir Golmoradi | [Read More](https://medium.com/p/c90399dfe9d0) |
@@ -96,20 +113,3 @@ The quest for privacy in a… | Kim Brown | [Read More](https://medium.com/p/aec
 | Thu, 21 Aug 2025 16:24:58 GMT | How to Block Internet Junk with DNS sinkhole GoAway (Free and Open-Source) | Algo Insights | [Read More](https://medium.com/p/e7a999d03c28) |
 | Thu, 21 Aug 2025 16:24:11 GMT | Wazuh Hands-On: Detecting File Changes with File Integrity Monitoring | Yeswanth Boddeda | [Read More](https://medium.com/p/fb9fd39ec827) |
 | Thu, 21 Aug 2025 16:21:50 GMT | Laporan Praktikum 1: Pengenalan Lab Environment dengan VirtualBox | Zifa Tea Azzahra | [Read More](https://medium.com/p/4e4eca9c1ffc) |
-| Thu, 21 Aug 2025 16:21:48 GMT | Cybersecurity Basics: What Every Beginner Needs to Know | Guruface | [Read More](https://medium.com/p/a4663b212b21) |
-| Thu, 21 Aug 2025 16:10:08 GMT | Write-up PicoCTF: Cryptography ‘hashcrack’ | Muhammad Khairin | [Read More](https://medium.com/p/624b75d3b443) |
-| Thu, 21 Aug 2025 16:10:05 GMT | Tracing Packets: Analyzing My YouTube & Jiji Sessions with Wireshark | Chinedum Udenkwo | [Read More](https://medium.com/p/e6a3d941d10c) |
-| Thu, 21 Aug 2025 16:08:00 GMT | BUPCSC CTF Misc Challenge Writeup | Abu Sayed | [Read More](https://medium.com/p/583794fbc928) |
-| Thu, 21 Aug 2025 16:07:26 GMT | TryHackMe - File and Hash Threat Intel - WriteUp | Axoloth | [Read More](https://medium.com/p/8ac6c23d60d3) |
-| Thu, 21 Aug 2025 16:06:47 GMT | Unmasking Malicious Webs: How the Bellman-Ford Algorithm Detects Threats in Social Networks | Patrick Lefler | [Read More](https://medium.com/p/049249859d53) |
-| Thu, 21 Aug 2025 16:03:23 GMT | TryHackMe: Brute It (write-up) | Farid Mehdiyev | [Read More](https://medium.com/p/787c7b6f0400) |
-| Thu, 21 Aug 2025 15:57:29 GMT | Best Security Framework for AI | Vlad Koval | [Read More](https://medium.com/p/c7cdfabdb6f8) |
-| Thu, 21 Aug 2025 15:53:35 GMT | Is Your Phone Listening? How to Stop Creepy Targeted Ads. | Likhoindustry | [Read More](https://medium.com/p/05f609cc79c5) |
-| Thu, 21 Aug 2025 15:43:44 GMT | Business CCTV Melbourne: Protecting Offices After Hours | Chloe Taylor | [Read More](https://medium.com/p/065e264c2251) |
-| Thu, 21 Aug 2025 15:42:20 GMT | The Panopticon Playbook: How Palantir Already Owns Africa’s Shadow Files | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/f10126d00477) |
-| Thu, 21 Aug 2025 15:41:49 GMT | Ditch Intelx.io: 3 Better (and Cheaper) Alternatives in 2025 | Jeosantos | [Read More](https://medium.com/p/b25be5174bbd) |
-| Thu, 21 Aug 2025 15:29:00 GMT | Which is the fastest KEM (Key Encapsulation Method)? How does ML-KEM compare? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/766aaeedf824) |
-| Thu, 21 Aug 2025 15:24:00 GMT | A Zero-Day Hiding in Your Dev Stack: Docker Desktop Exposed | Pentestjunkie07 | [Read More](https://medium.com/p/679cdad5a39f) |
-| Thu, 21 Aug 2025 15:17:51 GMT | Eavesdropping in the Digital Age: Threats to Online Privacy | Samina Perveen | [Read More](https://medium.com/p/2658b62e6baa) |
-| Thu, 21 Aug 2025 15:17:08 GMT | Why AI Needs Blockchain: The Healthcare Security Imperative | Partners in Digital Health | [Read More](https://medium.com/p/94441e4e0515) |
-| Thu, 21 Aug 2025 15:11:37 GMT | The E-Waste Crisis: Why We Should Care and What We Can Do | Xaltius | [Read More](https://medium.com/p/a601b4f10981) |
