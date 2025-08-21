@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 01:35:37 GMT | Vulnerability Assessment with Nessus Essentials | Salmaan Ahmed Mustapha | [Read More](https://medium.com/p/86b3a94457e1) |
+| Thu, 21 Aug 2025 01:17:10 GMT | NFS Setup Tool v1.0 | BnHany | [Read More](https://medium.com/p/ada93d5d09d7) |
+| Thu, 21 Aug 2025 01:01:32 GMT | Hunting APT29’s Hidden Highway: A SIGMA Detection Rule for Named Pipe Backdoors | Manish Rawat | [Read More](https://medium.com/p/e0b57eed6a1b) |
+| Thu, 21 Aug 2025 00:31:28 GMT | What Is Agentic AI, And Why It’s Different From the Tools You Know | smartData Enterprises India | [Read More](https://medium.com/p/9855d6b40a0e) |
+| Thu, 21 Aug 2025 00:30:01 GMT | Why Python Is the Best Tool for Cyber Investigations | Zain Shoaib | [Read More](https://medium.com/p/649e220ae374) |
+| Thu, 21 Aug 2025 00:19:54 GMT | Why You Should Take Password Management into Your Own Hands in 2025 | Junaid Mustafa | [Read More](https://medium.com/p/a4dd061c6e7a) |
+| Thu, 21 Aug 2025 00:17:35 GMT | ️‍♂️ How AI is Reshaping Government Intelligence and National Security | Benjamin Morales Perez | [Read More](https://medium.com/p/690ce82a3482) |
+| Thu, 21 Aug 2025 00:15:21 GMT | Why You Should Care About JavaScript Security Even in Small Projects | Zain Shoaib | [Read More](https://medium.com/p/efbe3bbcdc3f) |
+| Wed, 20 Aug 2025 23:58:18 GMT | HTTP/1.1 Must Die! | Andrew Paul | [Read More](https://medium.com/p/acbb18054af1) |
+| Wed, 20 Aug 2025 23:37:29 GMT | Challenges: Whiterose: TryHackMe | Jebitok | [Read More](https://medium.com/p/90574278f8c2) |
 | Wed, 20 Aug 2025 23:21:45 GMT | CRYPTOSCOPE: UTILIZING LARGE LANGUAGE MODELS FOR AUTOMATED CRYPTOGRAPHIC LOGIC VULNERABILITY… | YouShin kim | [Read More](https://medium.com/p/c36648ffb6e4) |
 | Wed, 20 Aug 2025 23:08:29 GMT | When Love Turns into Payroll Fraud: The Hidden Scam of Hiring Friends for Fun | Internet Exposed | [Read More](https://medium.com/p/804739aae384) |
 | Wed, 20 Aug 2025 22:45:10 GMT | Aurora EDR | Anthony Mazyck | [Read More](https://medium.com/p/c8feec8b6909) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 16:17:19 GMT | When My WhatsApp Was Hijacked Overnight: SIM Swapping | Shahzaib | [Read More](https://medium.com/p/58e35f38463e) |
 | Wed, 20 Aug 2025 16:12:36 GMT | TryHackMe - Offensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/6b6be81a3c85) |
 | Wed, 20 Aug 2025 16:11:59 GMT | How Learning Cybersecurity Made Me Think Differently About Risk | Aj | [Read More](https://medium.com/p/545cf798ec17) |
-| Wed, 20 Aug 2025 16:11:42 GMT | Cybersecurity Is a Culture, Not a Control | Chase Kester | [Read More](https://medium.com/p/bb87f9e41810) |
-| Wed, 20 Aug 2025 16:11:19 GMT | Master Protection for Industrial Sites: Why It Matters | Mindfully SEO | [Read More](https://medium.com/p/ef3b01d1fa0d) |
-| Wed, 20 Aug 2025 16:08:50 GMT | Hackviser — Data Heist Çözümü | Berent Oral | [Read More](https://medium.com/p/9cd21e2769b7) |
-| Wed, 20 Aug 2025 16:05:38 GMT | I Tried to Be Vulnerable for Likes. Here’s What It Cost Me. | Lakshhya Sharma | [Read More](https://medium.com/p/a3bc97ad71c8) |
-| Wed, 20 Aug 2025 16:03:30 GMT | Advancing Security Automation Step by Step | Cyber Security Research | [Read More](https://medium.com/p/24508d9556ae) |
-| Wed, 20 Aug 2025 16:01:47 GMT | Advancing Security Automation Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/d0f6aeb0ad78) |
-| Wed, 20 Aug 2025 16:01:28 GMT | Why Smart Cities Matter | Sung Jin Park | [Read More](https://medium.com/p/8c63ddaf8052) |
-| Wed, 20 Aug 2025 16:00:42 GMT | The Reverse Shell Trick That Beats (Almost) Every EDR | Nitin yadav | [Read More](https://medium.com/p/0c02927f72a4) |
-| Wed, 20 Aug 2025 16:00:35 GMT | The OSI Model and the Future of Warfare | Robert Schryvers ChT | [Read More](https://medium.com/p/b79191a87c5c) |
-| Wed, 20 Aug 2025 15:59:37 GMT | One Plan. Every Tech Problem. Solved. | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/718c45667b6b) |
