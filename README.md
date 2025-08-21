@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 16:32:51 GMT | When Your Tools Say “It Can’t Be Done” | Above The Firewall | [Read More](https://medium.com/p/eb595256b7b8) |
+| Thu, 21 Aug 2025 16:26:25 GMT | WordPress Enumeration Before Exploitation: A Step-by-Step Guide for Security Professionals (Part 1) | Very Lazy Tech | [Read More](https://medium.com/p/664926fbacf0) |
+| Thu, 21 Aug 2025 16:25:57 GMT | Mastering Linux Basics: Directories, Files, Permissions, and Grep in Action | Chinedum Udenkwo | [Read More](https://medium.com/p/c7999d80cacd) |
+| Thu, 21 Aug 2025 16:24:58 GMT | How to Block Internet Junk with DNS sinkhole GoAway (Free and Open-Source) | Algo Insights | [Read More](https://medium.com/p/e7a999d03c28) |
+| Thu, 21 Aug 2025 16:24:11 GMT | Wazuh Hands-On: Detecting File Changes with File Integrity Monitoring | Yeswanth Boddeda | [Read More](https://medium.com/p/fb9fd39ec827) |
+| Thu, 21 Aug 2025 16:21:50 GMT | Laporan Praktikum 1: Pengenalan Lab Environment dengan VirtualBox | Zifa Tea Azzahra | [Read More](https://medium.com/p/4e4eca9c1ffc) |
+| Thu, 21 Aug 2025 16:21:48 GMT | Cybersecurity Basics: What Every Beginner Needs to Know | Guruface | [Read More](https://medium.com/p/a4663b212b21) |
+| Thu, 21 Aug 2025 16:10:08 GMT | Write-up PicoCTF: Cryptography ‘hashcrack’ | Muhammad Khairin | [Read More](https://medium.com/p/624b75d3b443) |
+| Thu, 21 Aug 2025 16:10:05 GMT | Tracing Packets: Analyzing My YouTube & Jiji Sessions with Wireshark | Chinedum Udenkwo | [Read More](https://medium.com/p/e6a3d941d10c) |
+| Thu, 21 Aug 2025 16:08:00 GMT | BUPCSC CTF Misc Challenge Writeup | Abu Sayed | [Read More](https://medium.com/p/583794fbc928) |
+| Thu, 21 Aug 2025 16:07:26 GMT | TryHackMe - File and Hash Threat Intel - WriteUp | Axoloth | [Read More](https://medium.com/p/8ac6c23d60d3) |
+| Thu, 21 Aug 2025 16:06:47 GMT | Unmasking Malicious Webs: How the Bellman-Ford Algorithm Detects Threats in Social Networks | Patrick Lefler | [Read More](https://medium.com/p/049249859d53) |
+| Thu, 21 Aug 2025 16:03:23 GMT | TryHackMe: Brute It (write-up) | Farid Mehdiyev | [Read More](https://medium.com/p/787c7b6f0400) |
+| Thu, 21 Aug 2025 15:57:29 GMT | Best Security Framework for AI | Vlad Koval | [Read More](https://medium.com/p/c7cdfabdb6f8) |
+| Thu, 21 Aug 2025 15:53:35 GMT | Is Your Phone Listening? How to Stop Creepy Targeted Ads. | Likhoindustry | [Read More](https://medium.com/p/05f609cc79c5) |
+| Thu, 21 Aug 2025 15:43:44 GMT | Business CCTV Melbourne: Protecting Offices After Hours | Chloe Taylor | [Read More](https://medium.com/p/065e264c2251) |
+| Thu, 21 Aug 2025 15:42:20 GMT | The Panopticon Playbook: How Palantir Already Owns Africa’s Shadow Files | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/f10126d00477) |
+| Thu, 21 Aug 2025 15:41:49 GMT | Ditch Intelx.io: 3 Better (and Cheaper) Alternatives in 2025 | Jeosantos | [Read More](https://medium.com/p/b25be5174bbd) |
 | Thu, 21 Aug 2025 15:29:00 GMT | Which is the fastest KEM (Key Encapsulation Method)? How does ML-KEM compare? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/766aaeedf824) |
 | Thu, 21 Aug 2025 15:24:00 GMT | A Zero-Day Hiding in Your Dev Stack: Docker Desktop Exposed | Pentestjunkie07 | [Read More](https://medium.com/p/679cdad5a39f) |
 | Thu, 21 Aug 2025 15:17:51 GMT | Eavesdropping in the Digital Age: Threats to Online Privacy | Samina Perveen | [Read More](https://medium.com/p/2658b62e6baa) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 11:51:38 GMT | Güvenlik Çağrı Sistemi | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/860a10601b66) |
 | Thu, 21 Aug 2025 11:51:20 GMT | Doge Head Coin ($DHC) Mega Airdrop: Get In Before Exchange Listing! | Doge Head Coin | [Read More](https://medium.com/p/1c04491479a5) |
 | Thu, 21 Aug 2025 11:51:17 GMT | From code monkeys and AI muses | Alexander Küken | [Read More](https://medium.com/p/bb86c2749943) |
-| Thu, 21 Aug 2025 11:31:17 GMT | The Unsung Heroes of Bankruptcy: Why Data Custodians Matter More Than You Think | DCirrus Virtual Data Room | [Read More](https://medium.com/p/27cfefcecdec) |
-| Thu, 21 Aug 2025 11:30:46 GMT | What isn’t Me | A Sexual Libra | [Read More](https://medium.com/p/de6ed0ce87c2) |
-| Thu, 21 Aug 2025 11:29:13 GMT | Symmetric Key Performance | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/556e4bd59893) |
-| Thu, 21 Aug 2025 11:26:11 GMT | :    -… | Web3Dof | [Read More](https://medium.com/p/85d498138683) |
-| Thu, 21 Aug 2025 11:23:29 GMT | Who’s Really in Control? The Hidden Risk of AI Agent Hijacking | Brittney Ginther | [Read More](https://medium.com/p/6c2d6f00cc57) |
-| Thu, 21 Aug 2025 11:23:18 GMT | Day 2 of 30 Days of Vault — Exploring Vault Dev Server to Creating Secrets | Mark Carriedo | [Read More](https://medium.com/p/b370a7a4d572) |
-| Thu, 21 Aug 2025 11:17:30 GMT | Corporate Greed Chronicles: Plowing Profits, Sowing Layoffs at John Deere | Namir Sagheenanajar | [Read More](https://medium.com/p/c33e03cf23e1) |
-| Thu, 21 Aug 2025 11:15:22 GMT | DockerLabs Writeup — Express (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/4485a40701d5) |
-| Thu, 21 Aug 2025 11:13:30 GMT | Compliance ≠ Security: Why Passing an Audit Doesn’t Mean You’re Safe | Evgeny Ermakov | [Read More](https://medium.com/p/4f5deeb164fd) |
-| Thu, 21 Aug 2025 11:09:01 GMT | Strengthen Your Cyber Defenses with VAPT Services from StrongBox IT | StrongBox IT | [Read More](https://medium.com/p/fb87b75f323b) |
-| Thu, 21 Aug 2025 11:07:02 GMT | The Freelancer- Online Jobs | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/0c7f2edc2b84) |
-| Thu, 21 Aug 2025 10:58:48 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/ee7194eac77a) |
-| Thu, 21 Aug 2025 10:57:38 GMT | Why Data Security Is One of the Fastest Growing Careers | Aiswarya N | [Read More](https://medium.com/p/7e6814e3d075) |
-| Thu, 21 Aug 2025 10:55:20 GMT | XSS Prevention in React.js: Best Practices & Code | Pentest_Testing_Corp | [Read More](https://medium.com/p/bef7dc68787b) |
-| Thu, 21 Aug 2025 10:53:29 GMT | Trojan Horse in Your Pocket: 5 Breaches That Prove It | Faraz Ishaq | [Read More](https://medium.com/p/d4055466a99c) |
-| Thu, 21 Aug 2025 10:49:20 GMT | India’s Notorious Cybersecurity Firms : The Offensive Operations Underworld (Updated Complete List) | Digitalvoyager | [Read More](https://medium.com/p/f534e7cf2239) |
-| Thu, 21 Aug 2025 10:49:19 GMT | Think Twice Before You Apply: How Scammers Use Fake Jobs to Steal Your Data | Nitish Ranjan | [Read More](https://medium.com/p/8679e75a497c) |
-| Thu, 21 Aug 2025 10:47:19 GMT | Revolutionizing Manufacturing with Smart IT Solutions | POONAM KASAT | [Read More](https://medium.com/p/4e1d684b4059) |
