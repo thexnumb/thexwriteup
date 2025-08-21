@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 19:07:54 GMT | Making Sense of it All: Generative, Agent and Agentic AI | Pete Chronis | [Read More](https://medium.com/p/b5b245d61485) |
+| Thu, 21 Aug 2025 18:56:01 GMT | Digital Amnesia: How Forgotten Cloud Accounts Become Hacker Goldmines | Akshay Chauhan | [Read More](https://medium.com/p/905f190d79cd) |
+| Thu, 21 Aug 2025 18:51:30 GMT | Why Cryptography Matters | Anna Murray | [Read More](https://medium.com/p/53dcc3ca7b68) |
+| Thu, 21 Aug 2025 18:49:40 GMT | Phishing: Come Riconoscere e Bloccare le Truffe Digitali | Giampaolocappellotto | [Read More](https://medium.com/p/0c4dd5683247) |
+| Thu, 21 Aug 2025 18:42:15 GMT | Magnolia Write-up — SWU CTF 2025 | Nattawadee Inala | [Read More](https://medium.com/p/b92a8870600f) |
+| Thu, 21 Aug 2025 18:41:30 GMT | The Privacy Hoax: What Indians Get Wrong About Snapchat | Anirudh Bishnoi | [Read More](https://medium.com/p/15508064c2c3) |
 | Thu, 21 Aug 2025 18:39:29 GMT | How Technology won the 21st Century Race | Biodun Rhoda | [Read More](https://medium.com/p/0f6ec01eefa6) |
 | Thu, 21 Aug 2025 18:38:39 GMT | Web, API & LLM Penetration Testing | CyberPreacher | [Read More](https://medium.com/p/19a2d6df30ca) |
 | Thu, 21 Aug 2025 18:37:29 GMT | The Hacker Who Printed $290M Out of Thin Air And Got Stuck Holding the Bag | Celestine Riza Tsuki | [Read More](https://medium.com/p/a4548e448553) |
@@ -107,9 +113,3 @@ The quest for privacy in a… | Kim Brown | [Read More](https://medium.com/p/aec
 | Thu, 21 Aug 2025 14:01:38 GMT | Cyber Briefing: 2025.08.21 | CyberMaterial | [Read More](https://medium.com/p/a396c58ed499) |
 | Thu, 21 Aug 2025 14:01:36 GMT | What LLMs Can’t Do and Why You Still Need Managed IT in Springfield, MO | PCnet | [Read More](https://medium.com/p/b140a894a560) |
 | Thu, 21 Aug 2025 14:00:31 GMT | Whatweb – The Cyber Security Tool that Fingerprint Websites | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/d71dedda3b6e) |
-| Thu, 21 Aug 2025 14:00:09 GMT | THE ART OF THE DEVIL: PART 3 | Ghost | [Read More](https://medium.com/p/544b9419f28e) |
-| Thu, 21 Aug 2025 13:58:58 GMT | Microsoft Pulls Back: Rethinking Trust in Cyber Defense | Dhruvdeep Singh | [Read More](https://medium.com/p/ed488824416b) |
-| Thu, 21 Aug 2025 13:58:11 GMT | How to Set Up a Personal Firewall Using Free Tools | Aditya K | [Read More](https://medium.com/p/83945c35ab4d) |
-| Thu, 21 Aug 2025 13:51:02 GMT | How an Image File Was Hiding Malware Steganography Payload | Shahzaib | [Read More](https://medium.com/p/970759915fc4) |
-| Thu, 21 Aug 2025 13:48:36 GMT | Stake DAO Announces Integration with Hypernative to Enhance Smart Contract Security and Reduce… | Stake DAO | [Read More](https://medium.com/p/2ecfb2f48f5d) |
-| Thu, 21 Aug 2025 13:39:11 GMT | Stealer Logs: Check If Your Domain Is Exposed Right Now | Alexandre Vandamme | [Read More](https://medium.com/p/541532c335a2) |
