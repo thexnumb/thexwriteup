@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 05:07:08 GMT | Why are the good memories fleeting? | JaDonna Williams | [Read More](https://medium.com/p/47820f471e84) |
+| Thu, 21 Aug 2025 05:06:35 GMT | How I Found My First Critical Vulnerability | Aj | [Read More](https://medium.com/p/e7407f715fc9) |
+| Thu, 21 Aug 2025 05:06:01 GMT | Rust Is Quietly Transforming Cybersecurity and Fintech | Chinmay Vivek | [Read More](https://medium.com/p/178f98a54223) |
+| Thu, 21 Aug 2025 05:01:00 GMT | Why AiiTE Offers the Best MERN Full-Stack Developer Course in Chennai for Aspiring Developers | Aiiteacademy | [Read More](https://medium.com/p/dfc78e9374e8) |
+| Thu, 21 Aug 2025 05:00:38 GMT | Advancing Security Operations for Organizations | Cyber Security Research | [Read More](https://medium.com/p/949ce8b0a121) |
+| Thu, 21 Aug 2025 04:56:59 GMT | Advancing Security Operations and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/f8bdc3bd7431) |
+| Thu, 21 Aug 2025 04:56:21 GMT | ️ Cybersecurity in 2025: 7 Free Tools Every Beginner Should Master | Parth Patel | [Read More](https://medium.com/p/9b76dcfe7adf) |
+| Thu, 21 Aug 2025 04:56:09 GMT | Why You Can’t Rely on Excel Anymore | Phantasm  solutions | [Read More](https://medium.com/p/59e2fcd724d0) |
+| Thu, 21 Aug 2025 04:55:12 GMT | Advancing Security Operations and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/b510e1204ad9) |
+| Thu, 21 Aug 2025 04:53:46 GMT | How to Protect Your Data in a World That Doesn’t Respect Privacy. | Abhinav Misra | [Read More](https://medium.com/p/497008f9f009) |
+| Thu, 21 Aug 2025 04:53:23 GMT | Advancing Security Operations and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/1a9b54271762) |
+| Thu, 21 Aug 2025 04:51:32 GMT | Advancing Security Operations and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/ed8b9bf7dc2b) |
+| Thu, 21 Aug 2025 04:49:35 GMT | Here’s how to run a scan with Nuclei on Kali Linux or Parrot OS. | Theems | [Read More](https://medium.com/p/5fe981b54976) |
+| Thu, 21 Aug 2025 04:48:07 GMT | 6. Subdomain Enumeration Like a Pro | Abhijeet kumawat | [Read More](https://medium.com/p/8461c8a92e25) |
+| Thu, 21 Aug 2025 04:47:17 GMT | Cybersecurity Trends 2025: The New Frontiers of Digital Defense | Karan Bhagat | [Read More](https://medium.com/p/28ccbb721d44) |
+| Thu, 21 Aug 2025 04:44:33 GMT | Google Drive’s Hidden Insider Threat: How I Accessed Another User’s Files With Just Copy-Paste | Abdelghani Alhijawi | [Read More](https://medium.com/p/55f30f983430) |
 | Thu, 21 Aug 2025 04:33:54 GMT | Protocol Rotation: The Next Evolution of Cyber Defense | Taulan Zauzanov | [Read More](https://medium.com/p/51be1eb76822) |
 | Thu, 21 Aug 2025 04:33:45 GMT | Have you secured your DevOps? | Rohit Dixit | [Read More](https://medium.com/p/b64d1fbc7572) |
 | Thu, 21 Aug 2025 04:30:43 GMT | Cell Phones: Tools to Trojans | Faraz Ishaq | [Read More](https://medium.com/p/c1287b0499cb) |
@@ -97,19 +113,3 @@ Menggunakan tools Slowhttp | Ginda Sundara | [Read More](https://medium.com/p/b2
 | Wed, 20 Aug 2025 19:26:13 GMT | The Great Divide between two recently published Theories of Everything: A Debate on the Universe’s… | Berend Watchus | [Read More](https://medium.com/p/0d4bc413de84) |
 | Wed, 20 Aug 2025 19:18:27 GMT | Securing the Application Layer: Why Your Firewall Isn’t Enough | Menelik | [Read More](https://medium.com/p/ceeadb649a2b) |
 | Wed, 20 Aug 2025 19:13:00 GMT | PG Practice — vmdak (Linux) | Lepton | [Read More](https://medium.com/p/bcc10d6d1a29) |
-| Wed, 20 Aug 2025 19:08:27 GMT | Unbreakable Drive Encryption Management for SSDs and HDDs | Opal Lock by Fidelity Height | [Read More](https://medium.com/p/339418a962ba) |
-| Wed, 20 Aug 2025 19:05:17 GMT | Razorpay Webhook Signature Mismatch: Float Precision Issue | Gaurav Shandilya | [Read More](https://medium.com/p/71003831efc2) |
-| Wed, 20 Aug 2025 19:03:56 GMT | 24/7 professional Home Monitoring Away from home? We’ve got it covered. | Visual Monitoring Solutions | [Read More](https://medium.com/p/5d2ae67abd34) |
-| Wed, 20 Aug 2025 19:03:11 GMT | Cybersecurity in 15 Minutes: A Beginner’s Guide to Staying Safe Online | Jacky Liu | [Read More](https://medium.com/p/6904308ebf82) |
-| Wed, 20 Aug 2025 19:01:20 GMT | The Fifty One Second Apocalypse That Shattered Every Cybersecurity Framework | Abdalla Elzedy | [Read More](https://medium.com/p/931c9a7b92f4) |
-| Wed, 20 Aug 2025 18:52:36 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/b82804b3a3e7) |
-| Wed, 20 Aug 2025 18:48:18 GMT | The Hunger Behind the Tears | Janet Lady | [Read More](https://medium.com/p/010cf695a3c9) |
-| Wed, 20 Aug 2025 18:43:38 GMT | Cybersecurity in 2025: The Silent War You Can’t Ignore ⚔️ | Hack Behind The Mask | [Read More](https://medium.com/p/1e05e68fca8b) |
-| Wed, 20 Aug 2025 18:42:38 GMT | The One-Minute Call | O. J. Okpabi | [Read More](https://medium.com/p/7a6a4e024c93) |
-| Wed, 20 Aug 2025 18:40:23 GMT | SecOps in Action: AI Detection Enrichment & Analysis | TheMachine | [Read More](https://medium.com/p/f5879d566b1d) |
-| Wed, 20 Aug 2025 18:37:04 GMT | Protecting Crypto Exchanges From Costly Hacks — Yevheniia Broshevan | Aroundthecoin | [Read More](https://medium.com/p/082806b3c89d) |
-| Wed, 20 Aug 2025 18:31:12 GMT | Easily Identify Spy Apps with uMobix on Any iPhone or Android | Narjis Batool | [Read More](https://medium.com/p/95ebd2f0b408) |
-| Wed, 20 Aug 2025 18:30:01 GMT | Wallet Compromise Linked to kcmtraincxx.cc: Urgent Steps to Take | Scam Scout | [Read More](https://medium.com/p/0dfcdf43c7f7) |
-| Wed, 20 Aug 2025 18:17:14 GMT | The Dawn of Transparent AI: A Deep Dive into the Deeplog Neurosymbolic Machine | Berend Watchus | [Read More](https://medium.com/p/6a1835bcdb0c) |
-| Wed, 20 Aug 2025 18:14:00 GMT | XINTRA — AB Projekt Blue Lab Walkthrough | QhtSec | [Read More](https://medium.com/p/9e2cfc6f65a1) |
-| Wed, 20 Aug 2025 18:06:02 GMT | 12 Secrets You Should Keep Out of Your Codebase | Shaun | [Read More](https://medium.com/p/a069e33ef7ee) |
