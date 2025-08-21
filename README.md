@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 22:35:18 GMT | 5 Ways SocialBox.Biz’s Secure IT Reuse Boosts Your ESG Goals | laptops donations before recycling in london-uk | [Read More](https://medium.com/p/43458906215e) |
+| Thu, 21 Aug 2025 22:24:37 GMT | CAT Reloaded CTF — CATF 2025  — DFIR Challenges | Loay Salah | [Read More](https://medium.com/p/ff403f100504) |
+| Thu, 21 Aug 2025 22:14:57 GMT | The 1% of Security Settings That Block 99% of Attacks | Cyber-AppSec | [Read More](https://medium.com/p/2ea2dfecd08a) |
 | Thu, 21 Aug 2025 22:09:23 GMT | HTTP Host header attacks | Usama Hanif | [Read More](https://medium.com/p/7a72e3942b20) |
 | Thu, 21 Aug 2025 22:08:52 GMT | How to Deploy Your Express Backend to Vercel in 5 Minutes | Faith Njah | [Read More](https://medium.com/p/16317b2e9a69) |
 | Thu, 21 Aug 2025 22:05:52 GMT | Advancing Vulnerability Assessment for Beginners | Cyber Security Research | [Read More](https://medium.com/p/7dbb790ea5af) |
@@ -110,6 +113,3 @@ The quest for privacy in a… | Kim Brown | [Read More](https://medium.com/p/aec
 | Thu, 21 Aug 2025 16:32:51 GMT | When Your Tools Say “It Can’t Be Done” | Above The Firewall | [Read More](https://medium.com/p/eb595256b7b8) |
 | Thu, 21 Aug 2025 16:26:25 GMT | WordPress Enumeration Before Exploitation: A Step-by-Step Guide for Security Professionals (Part 1) | Very Lazy Tech | [Read More](https://medium.com/p/664926fbacf0) |
 | Thu, 21 Aug 2025 16:25:57 GMT | Mastering Linux Basics: Directories, Files, Permissions, and Grep in Action | Chinedum Udenkwo | [Read More](https://medium.com/p/c7999d80cacd) |
-| Thu, 21 Aug 2025 16:24:58 GMT | How to Block Internet Junk with DNS sinkhole GoAway (Free and Open-Source) | Algo Insights | [Read More](https://medium.com/p/e7a999d03c28) |
-| Thu, 21 Aug 2025 16:24:11 GMT | Wazuh Hands-On: Detecting File Changes with File Integrity Monitoring | Yeswanth Boddeda | [Read More](https://medium.com/p/fb9fd39ec827) |
-| Thu, 21 Aug 2025 16:21:50 GMT | Laporan Praktikum 1: Pengenalan Lab Environment dengan VirtualBox | Zifa Tea Azzahra | [Read More](https://medium.com/p/4e4eca9c1ffc) |
