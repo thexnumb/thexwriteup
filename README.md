@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 20:37:51 GMT | Nimbus SOC: an end-to-end, evidence-backed detection lab on AWS | Jordan Bray | [Read More](https://medium.com/p/2e209ecf4191) |
+| Thu, 21 Aug 2025 20:37:30 GMT | Command and Control Server Powered by AI | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b58bc28f945a) |
+| Thu, 21 Aug 2025 20:33:08 GMT | The Hidden Cost of “Saving Money”: How Aging IT Infrastructure Destroys Business Value | Josh Welch | [Read More](https://medium.com/p/2592f945b378) |
+| Thu, 21 Aug 2025 20:26:59 GMT | Move is not perfect #2: The Upgrade Trap | Quentin Diebold | [Read More](https://medium.com/p/1d2857417e37) |
+| Thu, 21 Aug 2025 20:26:08 GMT | How to Find Hidden Messages in JPEGs: A Beginner’s Guide to CTF Steganography Challenges from… | Hidden Investigations | [Read More](https://medium.com/p/2209beb322b2) |
+| Thu, 21 Aug 2025 20:23:21 GMT | Reflected XSS on Starbucks | 0X0mahmoud | [Read More](https://medium.com/p/1bcd07aa53f5) |
+| Thu, 21 Aug 2025 20:22:41 GMT | HackTheBox — Analyzing Windows Event Logs En Masse | Javier | [Read More](https://medium.com/p/f418d7c83865) |
 | Thu, 21 Aug 2025 20:11:42 GMT | Now You’ve SEEN It: CyberPH’s First Community Meetup & SEEN CTF Awarding | Gladwin Ferdz Del Rosario | [Read More](https://medium.com/p/b05da63d9314) |
 | Thu, 21 Aug 2025 19:55:37 GMT | 1,130 Bounty: Critical XSS Vulnerability in GitLab’s | Monika sharma | [Read More](https://medium.com/p/439e1206d8c8) |
 | Thu, 21 Aug 2025 19:53:01 GMT | A Deep Dive into Admin Panel Exploitation | Monika sharma | [Read More](https://medium.com/p/8c8998c6aa53) |
@@ -106,10 +113,3 @@ The quest for privacy in a… | Kim Brown | [Read More](https://medium.com/p/aec
 | Thu, 21 Aug 2025 14:53:16 GMT | Picking Your Hacker Role – Black, White, or Grey Box ???? | Simil | [Read More](https://medium.com/p/51cea5dea01e) |
 | Thu, 21 Aug 2025 14:47:36 GMT | From Recon to Impact: Understanding AI Attacks Through MITRE ATLAS | goswamiijaya | [Read More](https://medium.com/p/c3c736352e19) |
 | Thu, 21 Aug 2025 14:47:29 GMT | Ransomware pirates. GPS gaslighting. Nation-state cyber crews. | Wes Young | [Read More](https://medium.com/p/eeff0864e932) |
-| Thu, 21 Aug 2025 14:46:18 GMT | Cyber Security Isn’t Just IT — It’s Your Next Growth Engine | Frank Maree | [Read More](https://medium.com/p/49c56afdf3e4) |
-| Thu, 21 Aug 2025 14:41:32 GMT | Sober.Buzz Adds Second Podcast, “Spreading the Good BUZZ”, All While Josh and Heidi Tied the Knot | Emma Lyons | [Read More](https://medium.com/p/729ee779d097) |
-| Thu, 21 Aug 2025 14:33:40 GMT | How I found a security vulnerability in NASA | everythingBlackkk | [Read More](https://medium.com/p/e39f8c115d59) |
-| Thu, 21 Aug 2025 14:32:22 GMT | Disaster Fraud in 2025: Texas Flood Scams & Fake Charities | Rohit.nex | [Read More](https://medium.com/p/86461f54c7b5) |
-| Thu, 21 Aug 2025 14:31:31 GMT | Ditch Legacy IT: High-Growth Skills You Need in 2025 | Bhagya Rana | [Read More](https://medium.com/p/b156dd41dac3) |
-| Thu, 21 Aug 2025 14:30:56 GMT | The Burden of Feeling Too Much | shorewrites | [Read More](https://medium.com/p/10573abb780e) |
-| Thu, 21 Aug 2025 14:30:56 GMT | AI & ML Penetration Testing: Lessons from Humanoid Robot Games and Telstar PEC | DefenceRabbit | [Read More](https://medium.com/p/c5d26726ce32) |
