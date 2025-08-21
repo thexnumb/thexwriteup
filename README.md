@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 21:27:43 GMT | Linux Privilege Escalation for Beginners Part 9: Escalation via “CVE 2025–32463” “Sudo chroot 1.9.17 | Muhammadhuzaifa | [Read More](https://medium.com/p/410d8904f910) |
+| Thu, 21 Aug 2025 21:24:25 GMT | What is a CSRF attack? | Amr Loksha | [Read More](https://medium.com/p/89f67ea5d4b1) |
+| Thu, 21 Aug 2025 21:24:05 GMT | Spring Security’s SecurityFilterChain Explained Like You’re Hiring Bouncers for a Nightclub | Amir Golmoradi | [Read More](https://medium.com/p/c90399dfe9d0) |
+| Thu, 21 Aug 2025 21:20:39 GMT | Wait While I Wipe Your Wheels | Tony Mulvahil | [Read More](https://medium.com/p/412a5ccb6879) |
+| Thu, 21 Aug 2025 21:19:43 GMT | How to Set Up a MariaDB Galera Cluster (Step-by-Step Guide) | Ankit Gupta | [Read More](https://medium.com/p/e16669d6b9ce) |
+| Thu, 21 Aug 2025 21:13:13 GMT | CatReloaded 2025 CTF Web writeup | Karim | [Read More](https://medium.com/p/4d692010c882) |
 | Thu, 21 Aug 2025 20:54:51 GMT | ITAD Is Broken. Here’s the Framework That Fixes It | Kyle Marks | [Read More](https://medium.com/p/513d59976841) |
 | Thu, 21 Aug 2025 20:54:42 GMT | Driving Business Growth with IT Infrastructure Services | Techminds Group | [Read More](https://medium.com/p/6d716c64ca0e) |
 | Thu, 21 Aug 2025 20:52:13 GMT | A hands-on introduction to the Linux command line: Part 3 — Managing files like a pro: Archiving… | Ekene Ejike | [Read More](https://medium.com/p/a68271178a94) |
@@ -107,9 +113,3 @@ The quest for privacy in a… | Kim Brown | [Read More](https://medium.com/p/aec
 | Thu, 21 Aug 2025 15:17:51 GMT | Eavesdropping in the Digital Age: Threats to Online Privacy | Samina Perveen | [Read More](https://medium.com/p/2658b62e6baa) |
 | Thu, 21 Aug 2025 15:17:08 GMT | Why AI Needs Blockchain: The Healthcare Security Imperative | Partners in Digital Health | [Read More](https://medium.com/p/94441e4e0515) |
 | Thu, 21 Aug 2025 15:11:37 GMT | The E-Waste Crisis: Why We Should Care and What We Can Do | Xaltius | [Read More](https://medium.com/p/a601b4f10981) |
-| Thu, 21 Aug 2025 15:07:48 GMT | “Microsoft” Wants to Fix Your Computer? Think Again | Online Safety Zone | [Read More](https://medium.com/p/ea76cf21cbd8) |
-| Thu, 21 Aug 2025 15:04:56 GMT | Write-up PicoCTF 2024: Forensic ‘DISKO1’ | Muhammad Khairin | [Read More](https://medium.com/p/e5377b596a2f) |
-| Thu, 21 Aug 2025 15:04:02 GMT | BEYOND BURGLARY | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/877b05b08825) |
-| Thu, 21 Aug 2025 15:03:57 GMT | Why Collecting Cybersecurity Tools Won’t Land You a Job? | Vijay Kumar Gupta | [Read More](https://medium.com/p/13bae55688ce) |
-| Thu, 21 Aug 2025 15:01:38 GMT | Manual OSINT Investigations: The Advantage Your Competitor Isn’t Using | Ingvar Pavlovich | [Read More](https://medium.com/p/5631db33b74f) |
-| Thu, 21 Aug 2025 14:56:38 GMT | ️ Malware Detection in 2025: Tools, Trends, and the Battle for Cybersecurity | Aju Deb | [Read More](https://medium.com/p/f132c927ca2f) |
