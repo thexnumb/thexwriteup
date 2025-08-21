@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 19:24:55 GMT | Bug-Free Software? Here’s What I’ve Learned in My 3-Year Journey in MERN Development | Maharashtrachya Kushit | [Read More](https://medium.com/p/f200240e84f5) |
+| Thu, 21 Aug 2025 19:19:06 GMT | Know Your Enemy | Shuvo deb nath | [Read More](https://medium.com/p/b3af0fcdf579) |
+| Thu, 21 Aug 2025 19:17:42 GMT | Navigating SPRS Scores: A Quick Guide for DoD Contractors | ISI Defense | [Read More](https://medium.com/p/50d5167ed9e2) |
+| Thu, 21 Aug 2025 19:16:38 GMT | Best Practices for Strong Passwords: Protecting Your Digital Identity | SafeAeon Inc. | [Read More](https://medium.com/p/326c4b9859d8) |
 | Thu, 21 Aug 2025 19:07:54 GMT | Making Sense of it All: Generative, Agent and Agentic AI | Pete Chronis | [Read More](https://medium.com/p/b5b245d61485) |
+| Thu, 21 Aug 2025 19:05:59 GMT | Cracking GeneQuest: Two Critical Bugs and My 19th Place Finish at DEF CON’s Bug Bounty Village CTF | Madhan Mohan Reddy | [Read More](https://medium.com/p/1c14564dae83) |
 | Thu, 21 Aug 2025 18:56:01 GMT | Digital Amnesia: How Forgotten Cloud Accounts Become Hacker Goldmines | Akshay Chauhan | [Read More](https://medium.com/p/905f190d79cd) |
 | Thu, 21 Aug 2025 18:51:30 GMT | Why Cryptography Matters | Anna Murray | [Read More](https://medium.com/p/53dcc3ca7b68) |
 | Thu, 21 Aug 2025 18:49:40 GMT | Phishing: Come Riconoscere e Bloccare le Truffe Digitali | Giampaolocappellotto | [Read More](https://medium.com/p/0c4dd5683247) |
@@ -108,8 +113,3 @@ The quest for privacy in a… | Kim Brown | [Read More](https://medium.com/p/aec
 | Thu, 21 Aug 2025 14:17:23 GMT | AT&T Cybersecurity Report: Building Resilience at the Edge | Keepnet Labs | [Read More](https://medium.com/p/7c7d21bc3010) |
 | Thu, 21 Aug 2025 14:13:32 GMT | A New Era: Getting Into Cybersecurity | Kay | [Read More](https://medium.com/p/ac2d37437daa) |
 | Thu, 21 Aug 2025 14:11:33 GMT | Rereading “The Three-Body Problem”: You Are All Bugs | Ophaly Kate | [Read More](https://medium.com/p/221fa5d88fc3) |
-| Thu, 21 Aug 2025 14:11:04 GMT | KaffeeSec — SoMeSINT | Nisrina/Belle | [Read More](https://medium.com/p/4dfb9b64c849) |
-| Thu, 21 Aug 2025 14:08:14 GMT | Can AI Really Predict Crime Before It Happens? | The UNFILTERED Draft | [Read More](https://medium.com/p/59f9c78b6477) |
-| Thu, 21 Aug 2025 14:01:38 GMT | Cyber Briefing: 2025.08.21 | CyberMaterial | [Read More](https://medium.com/p/a396c58ed499) |
-| Thu, 21 Aug 2025 14:01:36 GMT | What LLMs Can’t Do and Why You Still Need Managed IT in Springfield, MO | PCnet | [Read More](https://medium.com/p/b140a894a560) |
-| Thu, 21 Aug 2025 14:00:31 GMT | Whatweb – The Cyber Security Tool that Fingerprint Websites | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/d71dedda3b6e) |
