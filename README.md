@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 14:17:42 GMT | Information Disclosure | Usama Hanif | [Read More](https://medium.com/p/05e2f0c1f13c) |
+| Thu, 21 Aug 2025 14:17:32 GMT | Best Endpoint Security Software for Work‑From‑Home Teams in 2025 (SentryPC Included) | Paul Meyer | [Read More](https://medium.com/p/fd595b6a68b1) |
+| Thu, 21 Aug 2025 14:17:23 GMT | AT&T Cybersecurity Report: Building Resilience at the Edge | Keepnet Labs | [Read More](https://medium.com/p/7c7d21bc3010) |
+| Thu, 21 Aug 2025 14:13:32 GMT | A New Era: Getting Into Cybersecurity | Kay | [Read More](https://medium.com/p/ac2d37437daa) |
+| Thu, 21 Aug 2025 14:11:33 GMT | Rereading “The Three-Body Problem”: You Are All Bugs | Ophaly Kate | [Read More](https://medium.com/p/221fa5d88fc3) |
+| Thu, 21 Aug 2025 14:11:04 GMT | KaffeeSec — SoMeSINT | Nisrina/Belle | [Read More](https://medium.com/p/4dfb9b64c849) |
+| Thu, 21 Aug 2025 14:08:14 GMT | Can AI Really Predict Crime Before It Happens? | The UNFILTERED Draft | [Read More](https://medium.com/p/59f9c78b6477) |
+| Thu, 21 Aug 2025 14:01:38 GMT | Cyber Briefing: 2025.08.21 | CyberMaterial | [Read More](https://medium.com/p/a396c58ed499) |
+| Thu, 21 Aug 2025 14:01:36 GMT | What LLMs Can’t Do and Why You Still Need Managed IT in Springfield, MO | PCnet | [Read More](https://medium.com/p/b140a894a560) |
+| Thu, 21 Aug 2025 14:00:31 GMT | Whatweb – The Cyber Security Tool that Fingerprint Websites | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/d71dedda3b6e) |
+| Thu, 21 Aug 2025 14:00:09 GMT | THE ART OF THE DEVIL: PART 3 | Ghost | [Read More](https://medium.com/p/544b9419f28e) |
+| Thu, 21 Aug 2025 13:58:58 GMT | Microsoft Pulls Back: Rethinking Trust in Cyber Defense | Dhruvdeep Singh | [Read More](https://medium.com/p/ed488824416b) |
+| Thu, 21 Aug 2025 13:58:11 GMT | How to Set Up a Personal Firewall Using Free Tools | Aditya K | [Read More](https://medium.com/p/83945c35ab4d) |
+| Thu, 21 Aug 2025 13:51:02 GMT | How an Image File Was Hiding Malware Steganography Payload | Shahzaib | [Read More](https://medium.com/p/970759915fc4) |
+| Thu, 21 Aug 2025 13:48:36 GMT | Stake DAO Announces Integration with Hypernative to Enhance Smart Contract Security and Reduce… | Stake DAO | [Read More](https://medium.com/p/2ecfb2f48f5d) |
+| Thu, 21 Aug 2025 13:39:11 GMT | Stealer Logs: Check If Your Domain Is Exposed Right Now | Alexandre Vandamme | [Read More](https://medium.com/p/541532c335a2) |
+| Thu, 21 Aug 2025 13:37:45 GMT | Windows 12 Is Here: Why It’s Microsoft’s Most Secure OS Ever | Elie Attieh | [Read More](https://medium.com/p/49a5464549d0) |
 | Thu, 21 Aug 2025 13:28:59 GMT | How not to get hacked | Jules May | [Read More](https://medium.com/p/e1db9b27124d) |
+| Thu, 21 Aug 2025 13:22:45 GMT | Web3 Social Media: Security Issues in Decentralized Networking | elisi_g | [Read More](https://medium.com/p/ae1045ff1448) |
 | Thu, 21 Aug 2025 13:21:10 GMT | Human Overdependence on Technology | Amnawaseem | [Read More](https://medium.com/p/d5a3246ce31f) |
 | Thu, 21 Aug 2025 13:19:32 GMT | Genesis-forex.com Crypto Scam: How I Got Trapped and Managed to Recover Funds | ADMIN | [Read More](https://medium.com/p/192f4c42515f) |
 | Thu, 21 Aug 2025 13:17:36 GMT | KYBS CTF v1 2025(Digital Forensics) | KyubiSec | [Read More](https://medium.com/p/3417b299ac5c) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 09:22:46 GMT | AES-GCM-SIV: A Better Version of AES-GCM? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/915b9b2a954a) |
 | Thu, 21 Aug 2025 09:08:44 GMT | Old Battlefields , New Warriors All have arrived….. | _Anirudh_ | [Read More](https://medium.com/p/b590e72a6e45) |
 | Thu, 21 Aug 2025 09:04:08 GMT | Comprehensive Web & Software Solutions: From Consulting to Development | Bhavesh Rajpurohit | [Read More](https://medium.com/p/5195f6be751c) |
-| Thu, 21 Aug 2025 09:02:51 GMT | What We Actually Do in the SOC — Beyond Dashboards and Alerts | eSecForte Technologies | [Read More](https://medium.com/p/69de9ff721da) |
-| Thu, 21 Aug 2025 08:58:18 GMT | Build Your Own Open-Source Next-Gen Firewall (NGFW): A Step-by-Step Guide | Rayhan Hanaputra | [Read More](https://medium.com/p/d308bc64cb95) |
-| Thu, 21 Aug 2025 08:54:57 GMT | Syslog Nedir? | Hasan BAYRAKTAR | [Read More](https://medium.com/p/39fa93a1614b) |
-| Thu, 21 Aug 2025 08:53:00 GMT | ประจำวันพฤหัสบดีที่ 21 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1fbade742812) |
-| Thu, 21 Aug 2025 08:50:03 GMT | Defending Against Salesforce OAuth Attacks With SquareX | SquareX | [Read More](https://medium.com/p/5491e918ac7b) |
-| Thu, 21 Aug 2025 08:48:28 GMT | IAM vs PAM — Made Simple | Rue | [Read More](https://medium.com/p/cfbd740ac28c) |
-| Thu, 21 Aug 2025 08:44:57 GMT | Startup Gold Rush: The Technologies That Will Dominate 2026 | Akashaky | [Read More](https://medium.com/p/3489f041b7da) |
-| Thu, 21 Aug 2025 08:43:54 GMT | EXPLIoT: An IoT Security Framework For Testing And Exploitation | Redfox Security | [Read More](https://medium.com/p/8c358c681cd6) |
-| Thu, 21 Aug 2025 08:41:33 GMT | Cloud Honeypots with AI-Based Threat Classification | Servifyspheresolutions | [Read More](https://medium.com/p/899862be6869) |
-| Thu, 21 Aug 2025 08:41:30 GMT | Challenges: Whiterose: TryHackMe | Jebitok | [Read More](https://medium.com/p/8e5d2e0bff17) |
-| Thu, 21 Aug 2025 08:38:48 GMT | ️Microservices Design Patterns: A Practical Guide for Modern Architecture | Techie Arbaaz | [Read More](https://medium.com/p/56a23928cac5) |
-| Thu, 21 Aug 2025 08:38:00 GMT | OpenSSH 10.0: Security Features & Updates | Bachchan James | [Read More](https://medium.com/p/8507cfefdf02) |
-| Thu, 21 Aug 2025 08:29:33 GMT | Cybersecurity is a business risk: The CEO’s role in protecting your company | Evistia | [Read More](https://medium.com/p/0f7c4861c098) |
-| Thu, 21 Aug 2025 08:28:25 GMT | Healthcare Security Systems: Safeguarding Hospitals in the Age of Digital Transformation | Tahminamrfr | [Read More](https://medium.com/p/03df7023528c) |
-| Thu, 21 Aug 2025 08:23:54 GMT | Supercharged SecOps Series - CrowdStrike Falcon MCP (Pub. Preview) | @mikecybersec | [Read More](https://medium.com/p/efe5f11c31c2) |
-| Thu, 21 Aug 2025 08:20:28 GMT | My First Wireshark Capture: From Ping to HTTP — A Beginner’s Journey into Network Traffic Analysis | Zoltan Karpati | [Read More](https://medium.com/p/1b7ef3037d83) |
-| Thu, 21 Aug 2025 08:14:25 GMT | Smart Labs 101: Be Portable , Be Specialized ! | lukewago | [Read More](https://medium.com/p/03b6294b501f) |
-| Thu, 21 Aug 2025 08:08:56 GMT | Buried Treasures in Backups: How .bak Files Handed Me the Keys to Production ️ | Iski | [Read More](https://medium.com/p/4bf325a51f31) |
