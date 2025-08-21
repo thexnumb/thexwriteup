@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 13:28:59 GMT | How not to get hacked | Jules May | [Read More](https://medium.com/p/e1db9b27124d) |
+| Thu, 21 Aug 2025 13:21:10 GMT | Human Overdependence on Technology | Amnawaseem | [Read More](https://medium.com/p/d5a3246ce31f) |
+| Thu, 21 Aug 2025 13:19:32 GMT | Genesis-forex.com Crypto Scam: How I Got Trapped and Managed to Recover Funds | ADMIN | [Read More](https://medium.com/p/192f4c42515f) |
+| Thu, 21 Aug 2025 13:17:36 GMT | KYBS CTF v1 2025(Digital Forensics) | KyubiSec | [Read More](https://medium.com/p/3417b299ac5c) |
+| Thu, 21 Aug 2025 13:17:10 GMT | Fintower.net Scam Review: How I Recovered From a Fake AI Trading Platform | ADMIN | [Read More](https://medium.com/p/725b6be6c0bd) |
+| Thu, 21 Aug 2025 13:14:32 GMT | Some Choose Ignorance over Knowledge | Vivid | [Read More](https://medium.com/p/3bf9fa316e73) |
+| Thu, 21 Aug 2025 13:14:14 GMT | Security by Default for Solo Devs: Simple Wins That Matter | Tera Byte 26 | [Read More](https://medium.com/p/ff85c5dea13c) |
+| Thu, 21 Aug 2025 13:13:25 GMT | Bittopay.com Scam Warning: How i Almost Lost my Crypto | ADMIN | [Read More](https://medium.com/p/d15b70926c91) |
+| Thu, 21 Aug 2025 13:05:46 GMT | I Exposed a Critical AI Flaw Using Just ChatGPT | Ibtissam hammadi | [Read More](https://medium.com/p/46ccbf524b53) |
+| Thu, 21 Aug 2025 13:00:48 GMT | IDOR leads to Change Price Shipping | Yaliyanto | [Read More](https://medium.com/p/caa8ce4b2a7b) |
+| Thu, 21 Aug 2025 13:00:02 GMT | How I Found a Critical Sony Vulnerability: Improper Authentication — Generic | iProgrammer16 | [Read More](https://medium.com/p/2a215962b6dd) |
+| Thu, 21 Aug 2025 12:58:03 GMT | Post-Quantum Cryptography: Securing Networks Against Quantum Threats | New Trend Computer Networks | [Read More](https://medium.com/p/eaae77268e61) |
+| Thu, 21 Aug 2025 12:54:11 GMT | The Hidden Cost of Shoplifting: How a Security Company in Sheffield Helps Retailers Fight Back | Region Security | [Read More](https://medium.com/p/d5dc6d744e05) |
+| Thu, 21 Aug 2025 12:53:23 GMT | Genesis-forex.com — Scam | Editor | [Read More](https://medium.com/p/384d64f03e70) |
+| Thu, 21 Aug 2025 12:52:43 GMT | Bridging the AI Gap: Key Steps for Effective Customer Service Transformation | tkxel | [Read More](https://medium.com/p/8317d1566e00) |
+| Thu, 21 Aug 2025 12:51:02 GMT | Ken.ctoils.com — Scam | Editor | [Read More](https://medium.com/p/5c3422c47754) |
+| Thu, 21 Aug 2025 12:47:53 GMT | Lsek-pro.com — Scam | Editor | [Read More](https://medium.com/p/1892e4fb4acb) |
+| Thu, 21 Aug 2025 12:47:47 GMT | Securing Keycloak Against Reverse Proxy Vulnerabilities | Toni Huttunen | [Read More](https://medium.com/p/2ed6d79c76e8) |
+| Thu, 21 Aug 2025 12:44:37 GMT | Cloud Dialer in India-Ikontel | Ashutosh Mallik | [Read More](https://medium.com/p/fc54591138e0) |
+| Thu, 21 Aug 2025 12:43:29 GMT | The Digital Debt: How a Ransomware Attack Led to a Vengeful Murder in the USA | KG | [Read More](https://medium.com/p/a4f2b568d2d7) |
 | Thu, 21 Aug 2025 12:26:57 GMT | Birfox.biz — Scam | Editor | [Read More](https://medium.com/p/1eac0b90b056) |
 | Thu, 21 Aug 2025 12:26:45 GMT | Why Should Third-Party Vendor Security Be a Board-Level Priority in 2025? | Prerna Shukla | [Read More](https://medium.com/p/6de53af14e4f) |
 | Thu, 21 Aug 2025 12:24:45 GMT | What Role Do Vulnerability Assessment and Penetration Testing Play in Modern Cybersecurity? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/b46e95e210c2) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 08:20:28 GMT | My First Wireshark Capture: From Ping to HTTP — A Beginner’s Journey into Network Traffic Analysis | Zoltan Karpati | [Read More](https://medium.com/p/1b7ef3037d83) |
 | Thu, 21 Aug 2025 08:14:25 GMT | Smart Labs 101: Be Portable , Be Specialized ! | lukewago | [Read More](https://medium.com/p/03b6294b501f) |
 | Thu, 21 Aug 2025 08:08:56 GMT | Buried Treasures in Backups: How .bak Files Handed Me the Keys to Production ️ | Iski | [Read More](https://medium.com/p/4bf325a51f31) |
-| Thu, 21 Aug 2025 08:07:05 GMT | Pengenalan Cyber Security : Seberapa penting cybersecurity untuk kita? | Eilinafta Gita | [Read More](https://medium.com/p/e6f160092ccd) |
-| Thu, 21 Aug 2025 08:06:43 GMT | Lumma Stealer: The Playbook for Blue Teams (Part 1) | Siddhant Mishra | [Read More](https://medium.com/p/1fbec6f59a15) |
-| Thu, 21 Aug 2025 08:04:47 GMT | Symantec Endpoint Protection Services: Security You Can Trust | Hoplon Infosec | [Read More](https://medium.com/p/76d694165bfc) |
-| Thu, 21 Aug 2025 08:02:09 GMT | Axis bank se paise cut Jaaye To Kya Karen☎️✍️ 9669-538-050 ✅☎️अगर एक्सिस बैंक से पैसे कट गए… | Axis bank se paise cut Jaaye To Kya Karen | [Read More](https://medium.com/p/c5377c5b77c7) |
-| Thu, 21 Aug 2025 08:01:32 GMT | Cron Jobs and Kill Signals: Advanced Linux Process Management Made Simple | MayhemCode | [Read More](https://medium.com/p/33134adfdbb3) |
-| Thu, 21 Aug 2025 07:53:57 GMT | Diving In: My Quick Start Journey at Alaiy | Surya Singh | [Read More](https://medium.com/p/ec915f6a0bb4) |
-| Thu, 21 Aug 2025 07:51:07 GMT | SOC Analyst’s New Superpower: How SOAR Tames the Chaos (Part 1) | Mostafa Elsaeed | [Read More](https://medium.com/p/c499dee7bd91) |
-| Thu, 21 Aug 2025 07:51:04 GMT | UK Report Warns Cloud-Linked Satellite Stations Could Lead to Cyberattacks | SafetyDetectives Research Team | [Read More](https://medium.com/p/49903a94ed7e) |
-| Thu, 21 Aug 2025 07:42:05 GMT | Keamanan AI: Pertarungan di Era Mesin Belajar | Malbaralamsyah | [Read More](https://medium.com/p/e75bbce24072) |
-| Thu, 21 Aug 2025 07:36:49 GMT | DGA: The Algorithmic Backbone of Modern Malware C2 Infrastructure | Dean | [Read More](https://medium.com/p/e499f6fe0710) |
-| Thu, 21 Aug 2025 07:34:29 GMT | File and Hash Threat Intel “Try_Hack_Me” | Sohamwagh | [Read More](https://medium.com/p/0ea85126f8da) |
-| Thu, 21 Aug 2025 07:32:50 GMT | NVIDIA’s New AI Chip for China: A Game-Changer in Global AI Competition | Vaishnavi Ganeshkar | [Read More](https://medium.com/p/50ea7380573d) |
-| Thu, 21 Aug 2025 07:32:49 GMT | Passwordless Authentication: the New Standard of Digital Security | Luxand | [Read More](https://medium.com/p/860fad35b650) |
-| Thu, 21 Aug 2025 07:24:27 GMT | The State of Software Supply Chain Security: Finally, a Common Standard? | Alexandre Couëdelo | [Read More](https://medium.com/p/0c0b41f4f62e) |
-| Thu, 21 Aug 2025 07:21:54 GMT | DOĞRU ROTA NASIL ÇİZİLİR | Osman berkay Ercan | [Read More](https://medium.com/p/018e3f211932) |
-| Thu, 21 Aug 2025 07:20:13 GMT | Stay connected with your loved ones more safely and warmly with SECURET Quantum Smart TV! | SAYCOIN | [Read More](https://medium.com/p/27f361e9880e) |
-| Thu, 21 Aug 2025 07:17:22 GMT | Vectra AI launches MCP Server for AI assistants in threat detection | Yulevo | [Read More](https://medium.com/p/d68ab08e56e5) |
-| Thu, 21 Aug 2025 07:16:57 GMT | QR Patrol: Real Time Guard Tour Monitoring System by PLM Group | E2E Accounting | [Read More](https://medium.com/p/55d4fcb6f1f9) |
-| Thu, 21 Aug 2025 07:04:37 GMT | Top Career Opportunities After B.Sc. in Cyber Security Hons | Tanisha Singh | [Read More](https://medium.com/p/5fcc50bee51f) |
-| Thu, 21 Aug 2025 07:01:41 GMT | I Know How to Open Myself to You — But I’m Not Sure I Can Take What You Offer in Return (2/3) | Łukasz Ratajczak | [Read More](https://medium.com/p/f67471453319) |
