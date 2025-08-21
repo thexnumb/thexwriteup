@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 22:49:28 GMT | Divurion Group Listed on Dark Web as “Most Ruthless” Cyber Threat | SinVictus | [Read More](https://medium.com/p/02dd84916223) |
+| Thu, 21 Aug 2025 22:41:32 GMT | K2-SUMMIT WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/2eea6b34e98a) |
+| Thu, 21 Aug 2025 22:37:29 GMT | K2-MIDDLE CAMP WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/aa23b08c3cff) |
 | Thu, 21 Aug 2025 22:35:18 GMT | 5 Ways SocialBox.Biz’s Secure IT Reuse Boosts Your ESG Goals | laptops donations before recycling in london-uk | [Read More](https://medium.com/p/43458906215e) |
+| Thu, 21 Aug 2025 22:33:15 GMT | CyberDefenders — Brave Lab | jon | [Read More](https://medium.com/p/b5990c439360) |
+| Thu, 21 Aug 2025 22:32:05 GMT | The First Cross-Chain Protocol Built With Security First. | 0x_dynamo ( ) | [Read More](https://medium.com/p/3f7fee8f7af3) |
+| Thu, 21 Aug 2025 22:31:33 GMT | K2-BASE CAMP WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/0e62b5c8c4de) |
 | Thu, 21 Aug 2025 22:24:37 GMT | CAT Reloaded CTF — CATF 2025  — DFIR Challenges | Loay Salah | [Read More](https://medium.com/p/ff403f100504) |
 | Thu, 21 Aug 2025 22:14:57 GMT | The 1% of Security Settings That Block 99% of Attacks | Cyber-AppSec | [Read More](https://medium.com/p/2ea2dfecd08a) |
 | Thu, 21 Aug 2025 22:09:23 GMT | HTTP Host header attacks | Usama Hanif | [Read More](https://medium.com/p/7a72e3942b20) |
@@ -107,9 +113,3 @@ The quest for privacy in a… | Kim Brown | [Read More](https://medium.com/p/aec
 | Thu, 21 Aug 2025 16:50:11 GMT | Cyber Snack Day -9 | Anwar_Nainar | [Read More](https://medium.com/p/7993c347c05f) |
 | Thu, 21 Aug 2025 16:49:44 GMT | How to Download, Verify, and Install Nessus on Kali Linux VM | Chinedum Udenkwo | [Read More](https://medium.com/p/f40840759e4c) |
 | Thu, 21 Aug 2025 16:47:59 GMT | Despite all this, I still want to love… | Moe Thitsa | [Read More](https://medium.com/p/61734f7e06b7) |
-| Thu, 21 Aug 2025 16:46:17 GMT | Your CEO on Zoom Might Be a Deepfake (And That Should Terrify You) | Sneha Rani | [Read More](https://medium.com/p/01d35c97cf63) |
-| Thu, 21 Aug 2025 16:43:50 GMT | 5 Subtle Ways to Make Someone Fall for You | Maria Arshad | [Read More](https://medium.com/p/a088d42158a4) |
-| Thu, 21 Aug 2025 16:38:10 GMT | Infiltrating the File Fortress: The Samba Usermap Script Assault | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/fb6ec30f19fb) |
-| Thu, 21 Aug 2025 16:32:51 GMT | When Your Tools Say “It Can’t Be Done” | Above The Firewall | [Read More](https://medium.com/p/eb595256b7b8) |
-| Thu, 21 Aug 2025 16:26:25 GMT | WordPress Enumeration Before Exploitation: A Step-by-Step Guide for Security Professionals (Part 1) | Very Lazy Tech | [Read More](https://medium.com/p/664926fbacf0) |
-| Thu, 21 Aug 2025 16:25:57 GMT | Mastering Linux Basics: Directories, Files, Permissions, and Grep in Action | Chinedum Udenkwo | [Read More](https://medium.com/p/c7999d80cacd) |
