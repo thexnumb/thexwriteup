@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 20:54:51 GMT | ITAD Is Broken. Here’s the Framework That Fixes It | Kyle Marks | [Read More](https://medium.com/p/513d59976841) |
+| Thu, 21 Aug 2025 20:54:42 GMT | Driving Business Growth with IT Infrastructure Services | Techminds Group | [Read More](https://medium.com/p/6d716c64ca0e) |
+| Thu, 21 Aug 2025 20:52:13 GMT | A hands-on introduction to the Linux command line: Part 3 — Managing files like a pro: Archiving… | Ekene Ejike | [Read More](https://medium.com/p/a68271178a94) |
 | Thu, 21 Aug 2025 20:37:51 GMT | Nimbus SOC: an end-to-end, evidence-backed detection lab on AWS | Jordan Bray | [Read More](https://medium.com/p/2e209ecf4191) |
 | Thu, 21 Aug 2025 20:37:30 GMT | Command and Control Server Powered by AI | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b58bc28f945a) |
 | Thu, 21 Aug 2025 20:33:08 GMT | The Hidden Cost of “Saving Money”: How Aging IT Infrastructure Destroys Business Value | Josh Welch | [Read More](https://medium.com/p/2592f945b378) |
+| Thu, 21 Aug 2025 20:30:21 GMT | A hands-on introduction to the Linux command line: Your first steps | Ekene Ejike | [Read More](https://medium.com/p/36f3e4b97f02) |
 | Thu, 21 Aug 2025 20:26:59 GMT | Move is not perfect #2: The Upgrade Trap | Quentin Diebold | [Read More](https://medium.com/p/1d2857417e37) |
 | Thu, 21 Aug 2025 20:26:08 GMT | How to Find Hidden Messages in JPEGs: A Beginner’s Guide to CTF Steganography Challenges from… | Hidden Investigations | [Read More](https://medium.com/p/2209beb322b2) |
 | Thu, 21 Aug 2025 20:23:21 GMT | Reflected XSS on Starbucks | 0X0mahmoud | [Read More](https://medium.com/p/1bcd07aa53f5) |
@@ -109,7 +113,3 @@ The quest for privacy in a… | Kim Brown | [Read More](https://medium.com/p/aec
 | Thu, 21 Aug 2025 15:03:57 GMT | Why Collecting Cybersecurity Tools Won’t Land You a Job? | Vijay Kumar Gupta | [Read More](https://medium.com/p/13bae55688ce) |
 | Thu, 21 Aug 2025 15:01:38 GMT | Manual OSINT Investigations: The Advantage Your Competitor Isn’t Using | Ingvar Pavlovich | [Read More](https://medium.com/p/5631db33b74f) |
 | Thu, 21 Aug 2025 14:56:38 GMT | ️ Malware Detection in 2025: Tools, Trends, and the Battle for Cybersecurity | Aju Deb | [Read More](https://medium.com/p/f132c927ca2f) |
-| Thu, 21 Aug 2025 14:54:35 GMT | Guarded by Technology, Guided by Trust | Quva India | [Read More](https://medium.com/p/af1cedc0cc5b) |
-| Thu, 21 Aug 2025 14:53:16 GMT | Picking Your Hacker Role – Black, White, or Grey Box ???? | Simil | [Read More](https://medium.com/p/51cea5dea01e) |
-| Thu, 21 Aug 2025 14:47:36 GMT | From Recon to Impact: Understanding AI Attacks Through MITRE ATLAS | goswamiijaya | [Read More](https://medium.com/p/c3c736352e19) |
-| Thu, 21 Aug 2025 14:47:29 GMT | Ransomware pirates. GPS gaslighting. Nation-state cyber crews. | Wes Young | [Read More](https://medium.com/p/eeff0864e932) |
