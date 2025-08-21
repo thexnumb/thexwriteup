@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 16:50:11 GMT | Cyber Snack Day -9 | Anwar_Nainar | [Read More](https://medium.com/p/7993c347c05f) |
+| Thu, 21 Aug 2025 16:49:44 GMT | How to Download, Verify, and Install Nessus on Kali Linux VM | Chinedum Udenkwo | [Read More](https://medium.com/p/f40840759e4c) |
+| Thu, 21 Aug 2025 16:47:59 GMT | Despite all this, I still want to love… | Moe Thitsa | [Read More](https://medium.com/p/61734f7e06b7) |
+| Thu, 21 Aug 2025 16:46:17 GMT | Your CEO on Zoom Might Be a Deepfake (And That Should Terrify You) | Sneha Rani | [Read More](https://medium.com/p/01d35c97cf63) |
+| Thu, 21 Aug 2025 16:43:50 GMT | 5 Subtle Ways to Make Someone Fall for You | Maria Arshad | [Read More](https://medium.com/p/a088d42158a4) |
+| Thu, 21 Aug 2025 16:38:10 GMT | Infiltrating the File Fortress: The Samba Usermap Script Assault | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/fb6ec30f19fb) |
 | Thu, 21 Aug 2025 16:32:51 GMT | When Your Tools Say “It Can’t Be Done” | Above The Firewall | [Read More](https://medium.com/p/eb595256b7b8) |
 | Thu, 21 Aug 2025 16:26:25 GMT | WordPress Enumeration Before Exploitation: A Step-by-Step Guide for Security Professionals (Part 1) | Very Lazy Tech | [Read More](https://medium.com/p/664926fbacf0) |
 | Thu, 21 Aug 2025 16:25:57 GMT | Mastering Linux Basics: Directories, Files, Permissions, and Grep in Action | Chinedum Udenkwo | [Read More](https://medium.com/p/c7999d80cacd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 12:11:22 GMT | ️ Understanding x86 Architecture: A TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/63bdf04875cc) |
 | Thu, 21 Aug 2025 12:10:57 GMT | Jk-analyticsclub.net — Scam | Editor | [Read More](https://medium.com/p/5bfef4d8ae9d) |
 | Thu, 21 Aug 2025 12:07:14 GMT | Opensinergy.online — Scam | Editor | [Read More](https://medium.com/p/407f839c8bbb) |
-| Thu, 21 Aug 2025 12:05:16 GMT | Complete Security Solutions for Businesses of All Sizes | Nimra Sheikh | [Read More](https://medium.com/p/f07dfd659a6a) |
-| Thu, 21 Aug 2025 12:04:46 GMT | Night Patrols That Save More Than Property | Nimra Sheikh | [Read More](https://medium.com/p/90f2a1e68005) |
-| Thu, 21 Aug 2025 11:57:30 GMT | Thinking of MCA? Here’s Why Kerala Should Be on Your List | Mymathews Eduportal | [Read More](https://medium.com/p/6fc176e8254f) |
-| Thu, 21 Aug 2025 11:51:38 GMT | Güvenlik Çağrı Sistemi | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/860a10601b66) |
-| Thu, 21 Aug 2025 11:51:20 GMT | Doge Head Coin ($DHC) Mega Airdrop: Get In Before Exchange Listing! | Doge Head Coin | [Read More](https://medium.com/p/1c04491479a5) |
-| Thu, 21 Aug 2025 11:51:17 GMT | From code monkeys and AI muses | Alexander Küken | [Read More](https://medium.com/p/bb86c2749943) |
