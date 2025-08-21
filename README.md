@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 15:29:00 GMT | Which is the fastest KEM (Key Encapsulation Method)? How does ML-KEM compare? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/766aaeedf824) |
+| Thu, 21 Aug 2025 15:24:00 GMT | A Zero-Day Hiding in Your Dev Stack: Docker Desktop Exposed | Pentestjunkie07 | [Read More](https://medium.com/p/679cdad5a39f) |
 | Thu, 21 Aug 2025 15:17:51 GMT | Eavesdropping in the Digital Age: Threats to Online Privacy | Samina Perveen | [Read More](https://medium.com/p/2658b62e6baa) |
+| Thu, 21 Aug 2025 15:17:08 GMT | Why AI Needs Blockchain: The Healthcare Security Imperative | Partners in Digital Health | [Read More](https://medium.com/p/94441e4e0515) |
 | Thu, 21 Aug 2025 15:11:37 GMT | The E-Waste Crisis: Why We Should Care and What We Can Do | Xaltius | [Read More](https://medium.com/p/a601b4f10981) |
 | Thu, 21 Aug 2025 15:07:48 GMT | “Microsoft” Wants to Fix Your Computer? Think Again | Online Safety Zone | [Read More](https://medium.com/p/ea76cf21cbd8) |
 | Thu, 21 Aug 2025 15:04:56 GMT | Write-up PicoCTF 2024: Forensic ‘DISKO1’ | Muhammad Khairin | [Read More](https://medium.com/p/e5377b596a2f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 10:49:20 GMT | India’s Notorious Cybersecurity Firms : The Offensive Operations Underworld (Updated Complete List) | Digitalvoyager | [Read More](https://medium.com/p/f534e7cf2239) |
 | Thu, 21 Aug 2025 10:49:19 GMT | Think Twice Before You Apply: How Scammers Use Fake Jobs to Steal Your Data | Nitish Ranjan | [Read More](https://medium.com/p/8679e75a497c) |
 | Thu, 21 Aug 2025 10:47:19 GMT | Revolutionizing Manufacturing with Smart IT Solutions | POONAM KASAT | [Read More](https://medium.com/p/4e1d684b4059) |
-| Thu, 21 Aug 2025 10:43:49 GMT | The NFT Art Scam Playbook — and a Practical Defense Plan for Creators and Small Businesses | otticmedia | [Read More](https://medium.com/p/c90aa43da1c9) |
-| Thu, 21 Aug 2025 10:43:14 GMT | CERT-In IS Audit & Compliance: What Every Business Must Know About the New Guidelines 2025 | CyberSigma Consulting Services | [Read More](https://medium.com/p/e827e1cd1c54) |
-| Thu, 21 Aug 2025 10:38:12 GMT | How Artificial Intelligence Will Transform Cyber Insurance | Oleg Parashchak | [Read More](https://medium.com/p/100f6d0ec0a9) |
