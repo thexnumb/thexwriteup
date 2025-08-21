@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 11:13:30 GMT | Compliance ≠ Security: Why Passing an Audit Doesn’t Mean You’re Safe | Evgeny Ermakov | [Read More](https://medium.com/p/4f5deeb164fd) |
+| Thu, 21 Aug 2025 11:09:01 GMT | Strengthen Your Cyber Defenses with VAPT Services from StrongBox IT | StrongBox IT | [Read More](https://medium.com/p/fb87b75f323b) |
+| Thu, 21 Aug 2025 11:07:02 GMT | The Freelancer- Online Jobs | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/0c7f2edc2b84) |
+| Thu, 21 Aug 2025 10:58:48 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/ee7194eac77a) |
+| Thu, 21 Aug 2025 10:57:38 GMT | Why Data Security Is One of the Fastest Growing Careers | Aiswarya N | [Read More](https://medium.com/p/7e6814e3d075) |
+| Thu, 21 Aug 2025 10:55:20 GMT | XSS Prevention in React.js: Best Practices & Code | Pentest_Testing_Corp | [Read More](https://medium.com/p/bef7dc68787b) |
+| Thu, 21 Aug 2025 10:53:29 GMT | Trojan Horse in Your Pocket: 5 Breaches That Prove It | Faraz Ishaq | [Read More](https://medium.com/p/d4055466a99c) |
+| Thu, 21 Aug 2025 10:49:20 GMT | India’s Notorious Cybersecurity Firms : The Offensive Operations Underworld (Updated Complete List) | Digitalvoyager | [Read More](https://medium.com/p/f534e7cf2239) |
+| Thu, 21 Aug 2025 10:49:19 GMT | Think Twice Before You Apply: How Scammers Use Fake Jobs to Steal Your Data | Nitish Ranjan | [Read More](https://medium.com/p/8679e75a497c) |
+| Thu, 21 Aug 2025 10:47:19 GMT | Revolutionizing Manufacturing with Smart IT Solutions | POONAM KASAT | [Read More](https://medium.com/p/4e1d684b4059) |
+| Thu, 21 Aug 2025 10:43:49 GMT | The NFT Art Scam Playbook — and a Practical Defense Plan for Creators and Small Businesses | otticmedia | [Read More](https://medium.com/p/c90aa43da1c9) |
 | Thu, 21 Aug 2025 10:43:14 GMT | CERT-In IS Audit & Compliance: What Every Business Must Know About the New Guidelines 2025 | CyberSigma Consulting Services | [Read More](https://medium.com/p/e827e1cd1c54) |
 | Thu, 21 Aug 2025 10:38:12 GMT | How Artificial Intelligence Will Transform Cyber Insurance | Oleg Parashchak | [Read More](https://medium.com/p/100f6d0ec0a9) |
 | Thu, 21 Aug 2025 10:37:47 GMT | Password Strength Checker in Python: Test Your Password Security in 2025 | TheCyberSalad | [Read More](https://medium.com/p/22554bf588c8) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 06:09:03 GMT | NymVPN Early Bird প্রমো: এখনই পাচ্ছেন ৮০% ছাড়! | Rabib Bin Nur | [Read More](https://medium.com/p/93fa406b1b82) |
 | Thu, 21 Aug 2025 06:01:07 GMT | Top-Tier Manned Guarding Services in Manchester — Marvellous Security Services | Marvelloussecurities | [Read More](https://medium.com/p/89904370f16f) |
 | Thu, 21 Aug 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Aug 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/768656152b3b) |
-| Thu, 21 Aug 2025 05:59:41 GMT | Top 10 Cybersecurity Incident Response Companies That Could “Save Your Company Millions” | Mahil Jasani | [Read More](https://medium.com/p/60f1057ebac1) |
-| Thu, 21 Aug 2025 05:57:41 GMT | My CRTP Exam Journey: A Stepping Stone into Offensive Pentesting | Srivatsa Chetlur | [Read More](https://medium.com/p/b4c9d9a606ea) |
-| Thu, 21 Aug 2025 05:50:30 GMT | Top 10 Ways Hackers Bypass Security Without Touching Your Firewall | Travis Ray Caverhill | [Read More](https://medium.com/p/3a3b8fe9e175) |
-| Thu, 21 Aug 2025 05:48:25 GMT | The Scariest Cyber Attack You’ve Never Heard Of | Aj | [Read More](https://medium.com/p/9211e80a0060) |
-| Thu, 21 Aug 2025 05:46:46 GMT | The Second Dawn: Innovations Poised to Rewrite Human Potential — Thinking of Yours | Sonaley jain | [Read More](https://medium.com/p/70ec1327c41b) |
-| Thu, 21 Aug 2025 05:44:39 GMT | How Hackers Hack Facebook Account(And How to Defend Yourself) | Binary Exploiter | [Read More](https://medium.com/p/b72855e89b34) |
-| Thu, 21 Aug 2025 05:41:48 GMT | Hackers’ Digital Camouflage: How Deep Does the Rabbit Hole Go? | SilentInject | [Read More](https://medium.com/p/8070dea2e90d) |
-| Thu, 21 Aug 2025 05:39:43 GMT | When Rate Limits Fail: How Attackers Still Brute Force APIs (and What You Missed) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/fe5f35906611) |
-| Thu, 21 Aug 2025 05:36:23 GMT | About Me — Daniel | Daniel | [Read More](https://medium.com/p/8ec0188efb91) |
-| Thu, 21 Aug 2025 05:34:56 GMT | Cloud Security Misconfigurations: The Hidden Breach Risk | Abida Adra | [Read More](https://medium.com/p/7b0bc1f2c09e) |
-| Thu, 21 Aug 2025 05:34:37 GMT | 26 | Ashley Caliel | [Read More](https://medium.com/p/c33d8cd0d89f) |
