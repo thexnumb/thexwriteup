@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 14:33:40 GMT | How I found a security vulnerability in NASA | everythingBlackkk | [Read More](https://medium.com/p/e39f8c115d59) |
+| Thu, 21 Aug 2025 14:32:22 GMT | Disaster Fraud in 2025: Texas Flood Scams & Fake Charities | Rohit.nex | [Read More](https://medium.com/p/86461f54c7b5) |
+| Thu, 21 Aug 2025 14:31:31 GMT | Ditch Legacy IT: High-Growth Skills You Need in 2025 | Bhagya Rana | [Read More](https://medium.com/p/b156dd41dac3) |
+| Thu, 21 Aug 2025 14:30:56 GMT | The Burden of Feeling Too Much | shorewrites | [Read More](https://medium.com/p/10573abb780e) |
+| Thu, 21 Aug 2025 14:30:56 GMT | AI & ML Penetration Testing: Lessons from Humanoid Robot Games and Telstar PEC | DefenceRabbit | [Read More](https://medium.com/p/c5d26726ce32) |
+| Thu, 21 Aug 2025 14:30:05 GMT | Does sharing your problems really help? | Adnaneouhnine | [Read More](https://medium.com/p/6cd78a0186ea) |
+| Thu, 21 Aug 2025 14:28:38 GMT | ASP.NET Core + Yerel AI: Trafik Analizi ile Dinamik IP Bloklama Sistemi | Doğan ÖZTÜRK | [Read More](https://medium.com/p/4d8e7c464fe9) |
+| Thu, 21 Aug 2025 14:27:30 GMT | AI in Cybersecurity: What It Is and Why You Should Care | PromptSecAI | [Read More](https://medium.com/p/1b1f68c9c7b3) |
+| Thu, 21 Aug 2025 14:23:39 GMT | BUPCSC CTF Web Chall Writeups | Abu Sayed | [Read More](https://medium.com/p/095e0654ecac) |
+| Thu, 21 Aug 2025 14:19:01 GMT | Privacy Is the New Luxury: Lessons from Cartier’s Cyberattack | iDox.ai | [Read More](https://medium.com/p/4e06480bf63a) |
 | Thu, 21 Aug 2025 14:17:42 GMT | Information Disclosure | Usama Hanif | [Read More](https://medium.com/p/05e2f0c1f13c) |
 | Thu, 21 Aug 2025 14:17:32 GMT | Best Endpoint Security Software for Work‑From‑Home Teams in 2025 (SentryPC Included) | Paul Meyer | [Read More](https://medium.com/p/fd595b6a68b1) |
 | Thu, 21 Aug 2025 14:17:23 GMT | AT&T Cybersecurity Report: Building Resilience at the Edge | Keepnet Labs | [Read More](https://medium.com/p/7c7d21bc3010) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 10:07:17 GMT | Your AI Assistant Is the Hacker’s Easiest Way In | Vikrambalauae Aj | [Read More](https://medium.com/p/549530c231d9) |
 | Thu, 21 Aug 2025 10:04:08 GMT | Dork Like a Demon: FOFA Edition for Hackers & Bug Bounty Hunters | Aditya Bhatt | [Read More](https://medium.com/p/a81f154d51d5) |
 | Thu, 21 Aug 2025 10:03:37 GMT | OWASP Top 10 Explained Simply (With Examples) | Devaduth Saji | [Read More](https://medium.com/p/14fc056f848f) |
-| Thu, 21 Aug 2025 09:52:18 GMT | Web Application Penetration Testing Course Online | cyber security Updates | [Read More](https://medium.com/p/f1947788eb01) |
-| Thu, 21 Aug 2025 09:45:02 GMT | Cybersecurity Risk Management Software: Your Best ROI This Year | SecureSlate | [Read More](https://medium.com/p/ea117130d9b7) |
-| Thu, 21 Aug 2025 09:45:00 GMT | The Evolution of Phishing: Why Yesterday’s Defenses Can’t Stop Today’s Attacks | Cytrusst | [Read More](https://medium.com/p/a9ec6b4e80c7) |
-| Thu, 21 Aug 2025 09:43:25 GMT | Your Next Investment Isn’t a Feature, It’s an Algorithm: millions/billions in ROI estimated | Berend Watchus | [Read More](https://medium.com/p/3c3ad185a7e2) |
-| Thu, 21 Aug 2025 09:33:03 GMT | Exploring APIs, Microservices, and App Software Types | Ketan Patel | [Read More](https://medium.com/p/2ff1e82fbf6e) |
-| Thu, 21 Aug 2025 09:24:43 GMT | Understanding Phishing and How to Safeguard Against It: A Deep Dive into Common Techniques | Writers Hub. | [Read More](https://medium.com/p/459d3c902af3) |
-| Thu, 21 Aug 2025 09:23:39 GMT | Don’t Do It Yourself: Delegate with OAuth 2.0 | Ketan Polawar | [Read More](https://medium.com/p/d72af6141b72) |
-| Thu, 21 Aug 2025 09:22:46 GMT | AES-GCM-SIV: A Better Version of AES-GCM? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/915b9b2a954a) |
-| Thu, 21 Aug 2025 09:08:44 GMT | Old Battlefields , New Warriors All have arrived….. | _Anirudh_ | [Read More](https://medium.com/p/b590e72a6e45) |
-| Thu, 21 Aug 2025 09:04:08 GMT | Comprehensive Web & Software Solutions: From Consulting to Development | Bhavesh Rajpurohit | [Read More](https://medium.com/p/5195f6be751c) |
