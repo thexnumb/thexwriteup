@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 20:11:42 GMT | Now You’ve SEEN It: CyberPH’s First Community Meetup & SEEN CTF Awarding | Gladwin Ferdz Del Rosario | [Read More](https://medium.com/p/b05da63d9314) |
+| Thu, 21 Aug 2025 19:55:37 GMT | 1,130 Bounty: Critical XSS Vulnerability in GitLab’s | Monika sharma | [Read More](https://medium.com/p/439e1206d8c8) |
+| Thu, 21 Aug 2025 19:53:01 GMT | A Deep Dive into Admin Panel Exploitation | Monika sharma | [Read More](https://medium.com/p/8c8998c6aa53) |
+| Thu, 21 Aug 2025 19:51:38 GMT | CIS Critical Security Controls: The 18 Foundational Elements of Cyber Defense | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/aee2d449d83e) |
+| Thu, 21 Aug 2025 19:47:41 GMT | Kioptrix 1 - Vuln-Hub CTF - Ethical Hacking Journey -Walkthrough | Harshitparekh | [Read More](https://medium.com/p/0faf3fd82c2e) |
+| Thu, 21 Aug 2025 19:43:34 GMT | 50+ Parameters Devs Actually Use (and Hunters Forget) | Cybersecplayground | [Read More](https://medium.com/p/f90579a927ba) |
+| Thu, 21 Aug 2025 19:42:02 GMT | Day in the Life of an Ethical Hacker: What It’s Really Like | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/28cace25be56) |
+| Thu, 21 Aug 2025 19:38:30 GMT | Information Security Fundamentals and The CIA Triad | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/b2c69856d11d) |
+| Thu, 21 Aug 2025 19:35:32 GMT | Before You Click: The Hidden Dangers of Untrusted PowerApps | Achyuatkumar | [Read More](https://medium.com/p/cc8197dff9b0) |
+| Thu, 21 Aug 2025 19:31:00 GMT | Cyber Security Compliance Guide: Everything Organizations Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/750f5ca45f2c) |
 | Thu, 21 Aug 2025 19:24:55 GMT | Bug-Free Software? Here’s What I’ve Learned in My 3-Year Journey in MERN Development | Maharashtrachya Kushit | [Read More](https://medium.com/p/f200240e84f5) |
 | Thu, 21 Aug 2025 19:19:06 GMT | Know Your Enemy | Shuvo deb nath | [Read More](https://medium.com/p/b3af0fcdf579) |
 | Thu, 21 Aug 2025 19:17:42 GMT | Navigating SPRS Scores: A Quick Guide for DoD Contractors | ISI Defense | [Read More](https://medium.com/p/50d5167ed9e2) |
@@ -103,13 +113,3 @@ The quest for privacy in a… | Kim Brown | [Read More](https://medium.com/p/aec
 | Thu, 21 Aug 2025 14:31:31 GMT | Ditch Legacy IT: High-Growth Skills You Need in 2025 | Bhagya Rana | [Read More](https://medium.com/p/b156dd41dac3) |
 | Thu, 21 Aug 2025 14:30:56 GMT | The Burden of Feeling Too Much | shorewrites | [Read More](https://medium.com/p/10573abb780e) |
 | Thu, 21 Aug 2025 14:30:56 GMT | AI & ML Penetration Testing: Lessons from Humanoid Robot Games and Telstar PEC | DefenceRabbit | [Read More](https://medium.com/p/c5d26726ce32) |
-| Thu, 21 Aug 2025 14:30:05 GMT | Does sharing your problems really help? | Adnaneouhnine | [Read More](https://medium.com/p/6cd78a0186ea) |
-| Thu, 21 Aug 2025 14:28:38 GMT | ASP.NET Core + Yerel AI: Trafik Analizi ile Dinamik IP Bloklama Sistemi | Doğan ÖZTÜRK | [Read More](https://medium.com/p/4d8e7c464fe9) |
-| Thu, 21 Aug 2025 14:27:30 GMT | AI in Cybersecurity: What It Is and Why You Should Care | PromptSecAI | [Read More](https://medium.com/p/1b1f68c9c7b3) |
-| Thu, 21 Aug 2025 14:23:39 GMT | BUPCSC CTF Web Chall Writeups | Abu Sayed | [Read More](https://medium.com/p/095e0654ecac) |
-| Thu, 21 Aug 2025 14:19:01 GMT | Privacy Is the New Luxury: Lessons from Cartier’s Cyberattack | iDox.ai | [Read More](https://medium.com/p/4e06480bf63a) |
-| Thu, 21 Aug 2025 14:17:42 GMT | Information Disclosure | Usama Hanif | [Read More](https://medium.com/p/05e2f0c1f13c) |
-| Thu, 21 Aug 2025 14:17:32 GMT | Best Endpoint Security Software for Work‑From‑Home Teams in 2025 (SentryPC Included) | Paul Meyer | [Read More](https://medium.com/p/fd595b6a68b1) |
-| Thu, 21 Aug 2025 14:17:23 GMT | AT&T Cybersecurity Report: Building Resilience at the Edge | Keepnet Labs | [Read More](https://medium.com/p/7c7d21bc3010) |
-| Thu, 21 Aug 2025 14:13:32 GMT | A New Era: Getting Into Cybersecurity | Kay | [Read More](https://medium.com/p/ac2d37437daa) |
-| Thu, 21 Aug 2025 14:11:33 GMT | Rereading “The Three-Body Problem”: You Are All Bugs | Ophaly Kate | [Read More](https://medium.com/p/221fa5d88fc3) |
