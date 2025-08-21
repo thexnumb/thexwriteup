@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 09:33:03 GMT | Exploring APIs, Microservices, and App Software Types | Ketan Patel | [Read More](https://medium.com/p/2ff1e82fbf6e) |
+| Thu, 21 Aug 2025 09:24:43 GMT | Understanding Phishing and How to Safeguard Against It: A Deep Dive into Common Techniques | Writers Hub. | [Read More](https://medium.com/p/459d3c902af3) |
+| Thu, 21 Aug 2025 09:23:39 GMT | Don’t Do It Yourself: Delegate with OAuth 2.0 | Ketan Polawar | [Read More](https://medium.com/p/d72af6141b72) |
+| Thu, 21 Aug 2025 09:22:46 GMT | AES-GCM-SIV: A Better Version of AES-GCM? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/915b9b2a954a) |
 | Thu, 21 Aug 2025 09:08:44 GMT | Old Battlefields , New Warriors All have arrived….. | _Anirudh_ | [Read More](https://medium.com/p/b590e72a6e45) |
 | Thu, 21 Aug 2025 09:04:08 GMT | Comprehensive Web & Software Solutions: From Consulting to Development | Bhavesh Rajpurohit | [Read More](https://medium.com/p/5195f6be751c) |
 | Thu, 21 Aug 2025 09:02:51 GMT | What We Actually Do in the SOC — Beyond Dashboards and Alerts | eSecForte Technologies | [Read More](https://medium.com/p/69de9ff721da) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 04:55:12 GMT | Advancing Security Operations and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/b510e1204ad9) |
 | Thu, 21 Aug 2025 04:53:46 GMT | How to Protect Your Data in a World That Doesn’t Respect Privacy. | Abhinav Misra | [Read More](https://medium.com/p/497008f9f009) |
 | Thu, 21 Aug 2025 04:53:23 GMT | Advancing Security Operations and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/1a9b54271762) |
-| Thu, 21 Aug 2025 04:51:32 GMT | Advancing Security Operations and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/ed8b9bf7dc2b) |
-| Thu, 21 Aug 2025 04:49:35 GMT | Here’s how to run a scan with Nuclei on Kali Linux or Parrot OS. | Theems | [Read More](https://medium.com/p/5fe981b54976) |
-| Thu, 21 Aug 2025 04:48:07 GMT | 6. Subdomain Enumeration Like a Pro | Abhijeet kumawat | [Read More](https://medium.com/p/8461c8a92e25) |
-| Thu, 21 Aug 2025 04:47:17 GMT | Cybersecurity Trends 2025: The New Frontiers of Digital Defense | Karan Bhagat | [Read More](https://medium.com/p/28ccbb721d44) |
