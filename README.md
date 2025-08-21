@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 04:33:54 GMT | Protocol Rotation: The Next Evolution of Cyber Defense | Taulan Zauzanov | [Read More](https://medium.com/p/51be1eb76822) |
+| Thu, 21 Aug 2025 04:33:45 GMT | Have you secured your DevOps? | Rohit Dixit | [Read More](https://medium.com/p/b64d1fbc7572) |
+| Thu, 21 Aug 2025 04:30:43 GMT | Cell Phones: Tools to Trojans | Faraz Ishaq | [Read More](https://medium.com/p/c1287b0499cb) |
+| Thu, 21 Aug 2025 04:27:29 GMT | HTB EscapeTwo Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/20c9ca65701c) |
+| Thu, 21 Aug 2025 04:27:06 GMT | CISSP: The Starting Line, Not the Finish Line | Rachid Abadli | [Read More](https://medium.com/p/52210684ae1a) |
+| Thu, 21 Aug 2025 04:23:02 GMT | What Happens in Government Vetting: Demystifying Personnel Security Assessments | James Ayres | [Read More](https://medium.com/p/74eaa9b830ee) |
 | Thu, 21 Aug 2025 04:10:06 GMT | The Cybersecurity Wake-Up Call of 2025: Why Digital Trust Will Define the Next Decade | Dr. Deep Pandey | [Read More](https://medium.com/p/748fea5fd62a) |
 | Thu, 21 Aug 2025 04:04:27 GMT | Apache ActiveMQ Flaw Exploited: DripDropper Malware Targets Cloud Linux Systems | IamPreth | [Read More](https://medium.com/p/76aa103882cd) |
 | Thu, 21 Aug 2025 03:58:07 GMT | Evil AI: Back to the Return of the Worm | Virginia Backaitis | [Read More](https://medium.com/p/1f6672dcc2aa) |
@@ -107,9 +113,3 @@ Menggunakan tools Slowhttp | Ginda Sundara | [Read More](https://medium.com/p/b2
 | Wed, 20 Aug 2025 18:17:14 GMT | The Dawn of Transparent AI: A Deep Dive into the Deeplog Neurosymbolic Machine | Berend Watchus | [Read More](https://medium.com/p/6a1835bcdb0c) |
 | Wed, 20 Aug 2025 18:14:00 GMT | XINTRA — AB Projekt Blue Lab Walkthrough | QhtSec | [Read More](https://medium.com/p/9e2cfc6f65a1) |
 | Wed, 20 Aug 2025 18:06:02 GMT | 12 Secrets You Should Keep Out of Your Codebase | Shaun | [Read More](https://medium.com/p/a069e33ef7ee) |
-| Wed, 20 Aug 2025 18:06:02 GMT | PG Practice — Pelican (Linux) | Lepton | [Read More](https://medium.com/p/610aff17fe4a) |
-| Wed, 20 Aug 2025 18:05:34 GMT | The Art of Crafting Malicious URLs: IDOR Meets Email Verification Bypass | Vashu Vats | [Read More](https://medium.com/p/9104fce05a1e) |
-| Wed, 20 Aug 2025 17:50:51 GMT | How to Choose the Best Cybersecurity Solution Providers | James Das | [Read More](https://medium.com/p/7eece8e70c45) |
-| Wed, 20 Aug 2025 17:48:36 GMT | How I found XSS on NIT website | Ayush | [Read More](https://medium.com/p/2841d7dd8f86) |
-| Wed, 20 Aug 2025 17:45:48 GMT | Security Basics Every Developer Should Know | tk.dev | [Read More](https://medium.com/p/db09cb9a03c5) |
-| Wed, 20 Aug 2025 17:43:43 GMT | QRadar SIEM - What Makes It Special | Berkay Köseoğlu | [Read More](https://medium.com/p/bf39fd718518) |
