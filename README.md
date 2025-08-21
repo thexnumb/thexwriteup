@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 15:17:51 GMT | Eavesdropping in the Digital Age: Threats to Online Privacy | Samina Perveen | [Read More](https://medium.com/p/2658b62e6baa) |
+| Thu, 21 Aug 2025 15:11:37 GMT | The E-Waste Crisis: Why We Should Care and What We Can Do | Xaltius | [Read More](https://medium.com/p/a601b4f10981) |
+| Thu, 21 Aug 2025 15:07:48 GMT | “Microsoft” Wants to Fix Your Computer? Think Again | Online Safety Zone | [Read More](https://medium.com/p/ea76cf21cbd8) |
+| Thu, 21 Aug 2025 15:04:56 GMT | Write-up PicoCTF 2024: Forensic ‘DISKO1’ | Muhammad Khairin | [Read More](https://medium.com/p/e5377b596a2f) |
+| Thu, 21 Aug 2025 15:04:02 GMT | BEYOND BURGLARY | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/877b05b08825) |
+| Thu, 21 Aug 2025 15:03:57 GMT | Why Collecting Cybersecurity Tools Won’t Land You a Job? | Vijay Kumar Gupta | [Read More](https://medium.com/p/13bae55688ce) |
+| Thu, 21 Aug 2025 15:01:38 GMT | Manual OSINT Investigations: The Advantage Your Competitor Isn’t Using | Ingvar Pavlovich | [Read More](https://medium.com/p/5631db33b74f) |
+| Thu, 21 Aug 2025 14:56:38 GMT | ️ Malware Detection in 2025: Tools, Trends, and the Battle for Cybersecurity | Aju Deb | [Read More](https://medium.com/p/f132c927ca2f) |
+| Thu, 21 Aug 2025 14:54:35 GMT | Guarded by Technology, Guided by Trust | Quva India | [Read More](https://medium.com/p/af1cedc0cc5b) |
+| Thu, 21 Aug 2025 14:53:16 GMT | Picking Your Hacker Role – Black, White, or Grey Box ???? | Simil | [Read More](https://medium.com/p/51cea5dea01e) |
+| Thu, 21 Aug 2025 14:47:36 GMT | From Recon to Impact: Understanding AI Attacks Through MITRE ATLAS | goswamiijaya | [Read More](https://medium.com/p/c3c736352e19) |
+| Thu, 21 Aug 2025 14:47:29 GMT | Ransomware pirates. GPS gaslighting. Nation-state cyber crews. | Wes Young | [Read More](https://medium.com/p/eeff0864e932) |
+| Thu, 21 Aug 2025 14:46:18 GMT | Cyber Security Isn’t Just IT — It’s Your Next Growth Engine | Frank Maree | [Read More](https://medium.com/p/49c56afdf3e4) |
+| Thu, 21 Aug 2025 14:41:32 GMT | Sober.Buzz Adds Second Podcast, “Spreading the Good BUZZ”, All While Josh and Heidi Tied the Knot | Emma Lyons | [Read More](https://medium.com/p/729ee779d097) |
 | Thu, 21 Aug 2025 14:33:40 GMT | How I found a security vulnerability in NASA | everythingBlackkk | [Read More](https://medium.com/p/e39f8c115d59) |
 | Thu, 21 Aug 2025 14:32:22 GMT | Disaster Fraud in 2025: Texas Flood Scams & Fake Charities | Rohit.nex | [Read More](https://medium.com/p/86461f54c7b5) |
 | Thu, 21 Aug 2025 14:31:31 GMT | Ditch Legacy IT: High-Growth Skills You Need in 2025 | Bhagya Rana | [Read More](https://medium.com/p/b156dd41dac3) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 10:43:49 GMT | The NFT Art Scam Playbook — and a Practical Defense Plan for Creators and Small Businesses | otticmedia | [Read More](https://medium.com/p/c90aa43da1c9) |
 | Thu, 21 Aug 2025 10:43:14 GMT | CERT-In IS Audit & Compliance: What Every Business Must Know About the New Guidelines 2025 | CyberSigma Consulting Services | [Read More](https://medium.com/p/e827e1cd1c54) |
 | Thu, 21 Aug 2025 10:38:12 GMT | How Artificial Intelligence Will Transform Cyber Insurance | Oleg Parashchak | [Read More](https://medium.com/p/100f6d0ec0a9) |
-| Thu, 21 Aug 2025 10:37:47 GMT | Password Strength Checker in Python: Test Your Password Security in 2025 | TheCyberSalad | [Read More](https://medium.com/p/22554bf588c8) |
-| Thu, 21 Aug 2025 10:32:56 GMT | WAFFLED: How Hackers Bypass Web Application Firewalls with Parsing Tricks | Omnia Mohamed | [Read More](https://medium.com/p/20ec7426a89c) |
-| Thu, 21 Aug 2025 10:29:44 GMT | Data Protection — The Role of Data Protection Officers (DPOs) in GDPR Compliance | Azpirantz Technologies | [Read More](https://medium.com/p/1b5d0b8320cd) |
-| Thu, 21 Aug 2025 10:21:09 GMT | What is a Cookie ? | Devaduth Saji | [Read More](https://medium.com/p/64c393c3ad31) |
-| Thu, 21 Aug 2025 10:19:46 GMT | Why Data Analytics is Important in the Pharma Industry? | Pharmaleap | [Read More](https://medium.com/p/ec93aa8808f4) |
-| Thu, 21 Aug 2025 10:16:59 GMT | Trusted Managed Data Center Service Providers In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/80f3d583f5bc) |
-| Thu, 21 Aug 2025 10:15:58 GMT | ThunderCipher-Lab[Easy Login] | Bhuwan Patidar | [Read More](https://medium.com/p/d2ca127d30e9) |
-| Thu, 21 Aug 2025 10:09:04 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/4eb1935047a3) |
-| Thu, 21 Aug 2025 10:08:02 GMT | Drosera: The Immune System Ethereum Has Been Waiting For. | Relanaa | [Read More](https://medium.com/p/b9947d84e888) |
-| Thu, 21 Aug 2025 10:07:31 GMT | Zero-Day Apple Vulnerability Under Attack | Aditya Sharma | [Read More](https://medium.com/p/de6b9efc5301) |
-| Thu, 21 Aug 2025 10:07:18 GMT | In today’s world, is being “pretty good” at housekeeping enough? | EXLITY | [Read More](https://medium.com/p/a06755b7ca64) |
-| Thu, 21 Aug 2025 10:07:17 GMT | Your AI Assistant Is the Hacker’s Easiest Way In | Vikrambalauae Aj | [Read More](https://medium.com/p/549530c231d9) |
-| Thu, 21 Aug 2025 10:04:08 GMT | Dork Like a Demon: FOFA Edition for Hackers & Bug Bounty Hunters | Aditya Bhatt | [Read More](https://medium.com/p/a81f154d51d5) |
-| Thu, 21 Aug 2025 10:03:37 GMT | OWASP Top 10 Explained Simply (With Examples) | Devaduth Saji | [Read More](https://medium.com/p/14fc056f848f) |
