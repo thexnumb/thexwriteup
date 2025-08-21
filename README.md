@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 23:33:26 GMT | Why Enterprise AI Browser is the Key to Connecting AI with Business Operations | Mammoth Cyber | [Read More](https://medium.com/p/cf96b1a8a878) |
+| Thu, 21 Aug 2025 23:23:49 GMT | Slingshot | Anthony Mazyck | [Read More](https://medium.com/p/d0161aaeac44) |
 | Thu, 21 Aug 2025 22:49:28 GMT | Divurion Group Listed on Dark Web as “Most Ruthless” Cyber Threat | SinVictus | [Read More](https://medium.com/p/02dd84916223) |
 | Thu, 21 Aug 2025 22:41:32 GMT | K2-SUMMIT WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/2eea6b34e98a) |
 | Thu, 21 Aug 2025 22:37:29 GMT | K2-MIDDLE CAMP WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/aa23b08c3cff) |
@@ -111,5 +113,3 @@ The quest for privacy in a… | Kim Brown | [Read More](https://medium.com/p/aec
 | Thu, 21 Aug 2025 16:53:47 GMT | Integrating AWS RDS MySQL Audit Logs with Microsoft Sentinel | Akila Perera | [Read More](https://medium.com/p/a8cd62d6a942) |
 | Thu, 21 Aug 2025 16:51:35 GMT | Weaponizing the Hype: When AI Websites Become Cyber Threat Platforms. | Inforsecpro | [Read More](https://medium.com/p/e4495f019e83) |
 | Thu, 21 Aug 2025 16:50:11 GMT | Cyber Snack Day -9 | Anwar_Nainar | [Read More](https://medium.com/p/7993c347c05f) |
-| Thu, 21 Aug 2025 16:49:44 GMT | How to Download, Verify, and Install Nessus on Kali Linux VM | Chinedum Udenkwo | [Read More](https://medium.com/p/f40840759e4c) |
-| Thu, 21 Aug 2025 16:47:59 GMT | Despite all this, I still want to love… | Moe Thitsa | [Read More](https://medium.com/p/61734f7e06b7) |
