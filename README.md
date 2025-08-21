@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 12:26:57 GMT | Birfox.biz — Scam | Editor | [Read More](https://medium.com/p/1eac0b90b056) |
+| Thu, 21 Aug 2025 12:26:45 GMT | Why Should Third-Party Vendor Security Be a Board-Level Priority in 2025? | Prerna Shukla | [Read More](https://medium.com/p/6de53af14e4f) |
+| Thu, 21 Aug 2025 12:24:45 GMT | What Role Do Vulnerability Assessment and Penetration Testing Play in Modern Cybersecurity? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/b46e95e210c2) |
+| Thu, 21 Aug 2025 12:22:36 GMT | Here’s Why Cybersecurity Needs AI More Than Ever | Saravanan.R | [Read More](https://medium.com/p/f75b0c23b946) |
+| Thu, 21 Aug 2025 12:19:10 GMT | Introduction to Content Security Policy (CSP) | Rohit Kuwar | [Read More](https://medium.com/p/ffba152af915) |
+| Thu, 21 Aug 2025 12:17:36 GMT | How to Develop a Native Application in 2025 - Complete Guide | Bhavesh Rajpurohit | [Read More](https://medium.com/p/00171a73c575) |
+| Thu, 21 Aug 2025 12:16:07 GMT | Event 235 — SOC127 — SQL Injection Detected — Let’s Defend | R34p3r_404 | [Read More](https://medium.com/p/d996bf2d6e95) |
+| Thu, 21 Aug 2025 12:15:45 GMT | Webull.com — Scam | Editor | [Read More](https://medium.com/p/83b996afe0e5) |
+| Thu, 21 Aug 2025 12:11:22 GMT | ️ Understanding x86 Architecture: A TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/63bdf04875cc) |
+| Thu, 21 Aug 2025 12:10:57 GMT | Jk-analyticsclub.net — Scam | Editor | [Read More](https://medium.com/p/5bfef4d8ae9d) |
+| Thu, 21 Aug 2025 12:07:14 GMT | Opensinergy.online — Scam | Editor | [Read More](https://medium.com/p/407f839c8bbb) |
+| Thu, 21 Aug 2025 12:05:16 GMT | Complete Security Solutions for Businesses of All Sizes | Nimra Sheikh | [Read More](https://medium.com/p/f07dfd659a6a) |
+| Thu, 21 Aug 2025 12:04:46 GMT | Night Patrols That Save More Than Property | Nimra Sheikh | [Read More](https://medium.com/p/90f2a1e68005) |
+| Thu, 21 Aug 2025 11:57:30 GMT | Thinking of MCA? Here’s Why Kerala Should Be on Your List | Mymathews Eduportal | [Read More](https://medium.com/p/6fc176e8254f) |
+| Thu, 21 Aug 2025 11:51:38 GMT | Güvenlik Çağrı Sistemi | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/860a10601b66) |
+| Thu, 21 Aug 2025 11:51:20 GMT | Doge Head Coin ($DHC) Mega Airdrop: Get In Before Exchange Listing! | Doge Head Coin | [Read More](https://medium.com/p/1c04491479a5) |
+| Thu, 21 Aug 2025 11:51:17 GMT | From code monkeys and AI muses | Alexander Küken | [Read More](https://medium.com/p/bb86c2749943) |
 | Thu, 21 Aug 2025 11:31:17 GMT | The Unsung Heroes of Bankruptcy: Why Data Custodians Matter More Than You Think | DCirrus Virtual Data Room | [Read More](https://medium.com/p/27cfefcecdec) |
 | Thu, 21 Aug 2025 11:30:46 GMT | What isn’t Me | A Sexual Libra | [Read More](https://medium.com/p/de6ed0ce87c2) |
 | Thu, 21 Aug 2025 11:29:13 GMT | Symmetric Key Performance | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/556e4bd59893) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 07:16:57 GMT | QR Patrol: Real Time Guard Tour Monitoring System by PLM Group | E2E Accounting | [Read More](https://medium.com/p/55d4fcb6f1f9) |
 | Thu, 21 Aug 2025 07:04:37 GMT | Top Career Opportunities After B.Sc. in Cyber Security Hons | Tanisha Singh | [Read More](https://medium.com/p/5fcc50bee51f) |
 | Thu, 21 Aug 2025 07:01:41 GMT | I Know How to Open Myself to You — But I’m Not Sure I Can Take What You Offer in Return (2/3) | Łukasz Ratajczak | [Read More](https://medium.com/p/f67471453319) |
-| Thu, 21 Aug 2025 07:01:41 GMT | The Billion-Dollar Phone Call | Meni Tasa (@CyberBriefProject) | [Read More](https://medium.com/p/36e3becfd060) |
-| Thu, 21 Aug 2025 07:01:26 GMT | Universal-ty — BYUCTF 2025 (OSINT Challenge) | ch1se | [Read More](https://medium.com/p/18d8b0ccc434) |
-| Thu, 21 Aug 2025 07:00:06 GMT | SafeLine WAF Review: The Open Source Firewall Taking Over 2025 | Quella | [Read More](https://medium.com/p/2cfe9aa66dc6) |
-| Thu, 21 Aug 2025 06:59:49 GMT | Windows internals: Cracking open Code Integrity | Niko | [Read More](https://medium.com/p/125b7ed0f853) |
-| Thu, 21 Aug 2025 06:52:20 GMT | SMT Program 2025 — Web Security Challenge Write-up | Mohamad Fachry Ali | [Read More](https://medium.com/p/47ea3e6c2a9b) |
-| Thu, 21 Aug 2025 06:50:23 GMT | How AI Is Transforming Cybersecurity: Fighting Hackers with Machine Learning | Usama Safdar | [Read More](https://medium.com/p/de01441903c3) |
-| Thu, 21 Aug 2025 06:47:31 GMT | ¿La IA va a reemplazar a los Bug Bounty Hunters? | Gorka | [Read More](https://medium.com/p/8d43f5ec456e) |
-| Thu, 21 Aug 2025 06:47:28 GMT | The ROI of Security: Turning Cloud Risk Into Competitive Advantage | Sina Manavi | [Read More](https://medium.com/p/096764c984b2) |
-| Thu, 21 Aug 2025 06:45:54 GMT | Cybersecurity Courses in India: Duration, Fees & Career Scope | Manisha Chaudhary | [Read More](https://medium.com/p/7374c88f09d5) |
-| Thu, 21 Aug 2025 06:40:57 GMT | The Digital Skeleton Key: Why Stolen Session Tokens Are Replacing Passwords in Modern Attacks | Travis Ray Caverhill | [Read More](https://medium.com/p/63975226afc0) |
-| Thu, 21 Aug 2025 06:34:06 GMT | 24/7 Manned Guarding in Manchester by Marvellous Security Services | Marvelloussecurities | [Read More](https://medium.com/p/dbfc036ea443) |
-| Thu, 21 Aug 2025 06:32:00 GMT | Uploading Files To Cloudflare R2 With Springboot | Olulode Olatunbosun | [Read More](https://medium.com/p/cc180cc85540) |
-| Thu, 21 Aug 2025 06:31:45 GMT | Hidden Handshake: An AES-CTR based challenge | shiki | [Read More](https://medium.com/p/1720649abb9c) |
-| Thu, 21 Aug 2025 06:31:41 GMT | 5 Lessons Only Wounded Healers Understand | Wilson Igbasi | [Read More](https://medium.com/p/f665ddd53882) |
-| Thu, 21 Aug 2025 06:23:06 GMT | OpenCTI Tutorial for Beginners: Full Walkthrough of Every Feature | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/151f76df365b) |
-| Thu, 21 Aug 2025 06:22:19 GMT | Cyber Security Company in Dubai, UAE | Oadtechdubai | [Read More](https://medium.com/p/5afd975fa375) |
-| Thu, 21 Aug 2025 06:21:37 GMT | Why Capture the Flag Challenges Are a Great Way to Learn Cybersecurity | Shehan_Gunathilaka | [Read More](https://medium.com/p/e4aecd73156e) |
