@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 18:39:29 GMT | How Technology won the 21st Century Race | Biodun Rhoda | [Read More](https://medium.com/p/0f6ec01eefa6) |
+| Thu, 21 Aug 2025 18:38:39 GMT | Web, API & LLM Penetration Testing | CyberPreacher | [Read More](https://medium.com/p/19a2d6df30ca) |
+| Thu, 21 Aug 2025 18:37:29 GMT | The Hacker Who Printed $290M Out of Thin Air And Got Stuck Holding the Bag | Celestine Riza Tsuki | [Read More](https://medium.com/p/a4548e448553) |
+| Thu, 21 Aug 2025 18:34:45 GMT | Reclaiming Your Digital Identity: The Shocking Truth About Data Brokers
+The quest for privacy in a… | Kim Brown | [Read More](https://medium.com/p/aecc829a4259) |
+| Thu, 21 Aug 2025 18:31:27 GMT | Rise and Risks of AI in Business Leadership | Matthew.Rosenquist | [Read More](https://medium.com/p/ed867724c62f) |
+| Thu, 21 Aug 2025 18:28:54 GMT | Essential Cybersecurity Best Practices for Every Organization | SafeAeon Inc. | [Read More](https://medium.com/p/ed5cfe2ecbe5) |
+| Thu, 21 Aug 2025 18:28:37 GMT | How AI/ML Is Reshaping Threat Detection in Cybersecurity | Workday Life | [Read More](https://medium.com/p/472c83ce5ac7) |
+| Thu, 21 Aug 2025 18:28:05 GMT | MAESTRO: Agentic AI Threat Modeling | Valdez Ladd | [Read More](https://medium.com/p/852a760606a5) |
 | Thu, 21 Aug 2025 18:24:42 GMT | Infostealer Analysis | Corey Farley | [Read More](https://medium.com/p/c7b47a097fcd) |
 | Thu, 21 Aug 2025 18:18:14 GMT | AWS Multi-Session Support: Security Best Practices | Oshada Basnayake | [Read More](https://medium.com/p/c5857043ada8) |
 | Thu, 21 Aug 2025 18:17:07 GMT | Dynamic Host Configuration Protocol | Roshinni Gandhi | [Read More](https://medium.com/p/a8377aaf38d7) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 13:51:02 GMT | How an Image File Was Hiding Malware Steganography Payload | Shahzaib | [Read More](https://medium.com/p/970759915fc4) |
 | Thu, 21 Aug 2025 13:48:36 GMT | Stake DAO Announces Integration with Hypernative to Enhance Smart Contract Security and Reduce… | Stake DAO | [Read More](https://medium.com/p/2ecfb2f48f5d) |
 | Thu, 21 Aug 2025 13:39:11 GMT | Stealer Logs: Check If Your Domain Is Exposed Right Now | Alexandre Vandamme | [Read More](https://medium.com/p/541532c335a2) |
-| Thu, 21 Aug 2025 13:37:45 GMT | Windows 12 Is Here: Why It’s Microsoft’s Most Secure OS Ever | Elie Attieh | [Read More](https://medium.com/p/49a5464549d0) |
-| Thu, 21 Aug 2025 13:28:59 GMT | How not to get hacked | Jules May | [Read More](https://medium.com/p/e1db9b27124d) |
-| Thu, 21 Aug 2025 13:22:45 GMT | Web3 Social Media: Security Issues in Decentralized Networking | elisi_g | [Read More](https://medium.com/p/ae1045ff1448) |
-| Thu, 21 Aug 2025 13:21:10 GMT | Human Overdependence on Technology | Amnawaseem | [Read More](https://medium.com/p/d5a3246ce31f) |
-| Thu, 21 Aug 2025 13:19:32 GMT | Genesis-forex.com Crypto Scam: How I Got Trapped and Managed to Recover Funds | ADMIN | [Read More](https://medium.com/p/192f4c42515f) |
-| Thu, 21 Aug 2025 13:17:36 GMT | KYBS CTF v1 2025(Digital Forensics) | KyubiSec | [Read More](https://medium.com/p/3417b299ac5c) |
-| Thu, 21 Aug 2025 13:17:10 GMT | Fintower.net Scam Review: How I Recovered From a Fake AI Trading Platform | ADMIN | [Read More](https://medium.com/p/725b6be6c0bd) |
-| Thu, 21 Aug 2025 13:14:32 GMT | Some Choose Ignorance over Knowledge | Vivid | [Read More](https://medium.com/p/3bf9fa316e73) |
