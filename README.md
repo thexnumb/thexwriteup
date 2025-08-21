@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 07:17:22 GMT | Vectra AI launches MCP Server for AI assistants in threat detection | Yulevo | [Read More](https://medium.com/p/d68ab08e56e5) |
+| Thu, 21 Aug 2025 07:16:57 GMT | QR Patrol: Real Time Guard Tour Monitoring System by PLM Group | E2E Accounting | [Read More](https://medium.com/p/55d4fcb6f1f9) |
+| Thu, 21 Aug 2025 07:04:37 GMT | Top Career Opportunities After B.Sc. in Cyber Security Hons | Tanisha Singh | [Read More](https://medium.com/p/5fcc50bee51f) |
+| Thu, 21 Aug 2025 07:01:41 GMT | I Know How to Open Myself to You — But I’m Not Sure I Can Take What You Offer in Return (2/3) | Łukasz Ratajczak | [Read More](https://medium.com/p/f67471453319) |
+| Thu, 21 Aug 2025 07:01:41 GMT | The Billion-Dollar Phone Call | Meni Tasa (@CyberBriefProject) | [Read More](https://medium.com/p/36e3becfd060) |
+| Thu, 21 Aug 2025 07:01:26 GMT | Universal-ty — BYUCTF 2025 (OSINT Challenge) | ch1se | [Read More](https://medium.com/p/18d8b0ccc434) |
+| Thu, 21 Aug 2025 07:00:06 GMT | SafeLine WAF Review: The Open Source Firewall Taking Over 2025 | Quella | [Read More](https://medium.com/p/2cfe9aa66dc6) |
+| Thu, 21 Aug 2025 06:59:49 GMT | Windows internals: Cracking open Code Integrity | Niko | [Read More](https://medium.com/p/125b7ed0f853) |
+| Thu, 21 Aug 2025 06:52:20 GMT | SMT Program 2025 — Web Security Challenge Write-up | Mohamad Fachry Ali | [Read More](https://medium.com/p/47ea3e6c2a9b) |
+| Thu, 21 Aug 2025 06:50:23 GMT | How AI Is Transforming Cybersecurity: Fighting Hackers with Machine Learning | Usama Safdar | [Read More](https://medium.com/p/de01441903c3) |
+| Thu, 21 Aug 2025 06:47:31 GMT | ¿La IA va a reemplazar a los Bug Bounty Hunters? | Gorka | [Read More](https://medium.com/p/8d43f5ec456e) |
+| Thu, 21 Aug 2025 06:47:28 GMT | The ROI of Security: Turning Cloud Risk Into Competitive Advantage | Sina Manavi | [Read More](https://medium.com/p/096764c984b2) |
+| Thu, 21 Aug 2025 06:45:54 GMT | Cybersecurity Courses in India: Duration, Fees & Career Scope | Manisha Chaudhary | [Read More](https://medium.com/p/7374c88f09d5) |
+| Thu, 21 Aug 2025 06:40:57 GMT | The Digital Skeleton Key: Why Stolen Session Tokens Are Replacing Passwords in Modern Attacks | Travis Ray Caverhill | [Read More](https://medium.com/p/63975226afc0) |
+| Thu, 21 Aug 2025 06:34:06 GMT | 24/7 Manned Guarding in Manchester by Marvellous Security Services | Marvelloussecurities | [Read More](https://medium.com/p/dbfc036ea443) |
+| Thu, 21 Aug 2025 06:32:00 GMT | Uploading Files To Cloudflare R2 With Springboot | Olulode Olatunbosun | [Read More](https://medium.com/p/cc180cc85540) |
 | Thu, 21 Aug 2025 06:31:45 GMT | Hidden Handshake: An AES-CTR based challenge | shiki | [Read More](https://medium.com/p/1720649abb9c) |
 | Thu, 21 Aug 2025 06:31:41 GMT | 5 Lessons Only Wounded Healers Understand | Wilson Igbasi | [Read More](https://medium.com/p/f665ddd53882) |
 | Thu, 21 Aug 2025 06:23:06 GMT | OpenCTI Tutorial for Beginners: Full Walkthrough of Every Feature | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/151f76df365b) |
@@ -29,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 05:57:41 GMT | My CRTP Exam Journey: A Stepping Stone into Offensive Pentesting | Srivatsa Chetlur | [Read More](https://medium.com/p/b4c9d9a606ea) |
 | Thu, 21 Aug 2025 05:50:30 GMT | Top 10 Ways Hackers Bypass Security Without Touching Your Firewall | Travis Ray Caverhill | [Read More](https://medium.com/p/3a3b8fe9e175) |
 | Thu, 21 Aug 2025 05:48:25 GMT | The Scariest Cyber Attack You’ve Never Heard Of | Aj | [Read More](https://medium.com/p/9211e80a0060) |
+| Thu, 21 Aug 2025 05:46:46 GMT | The Second Dawn: Innovations Poised to Rewrite Human Potential — Thinking of Yours | Sonaley jain | [Read More](https://medium.com/p/70ec1327c41b) |
 | Thu, 21 Aug 2025 05:44:39 GMT | How Hackers Hack Facebook Account(And How to Defend Yourself) | Binary Exploiter | [Read More](https://medium.com/p/b72855e89b34) |
 | Thu, 21 Aug 2025 05:41:48 GMT | Hackers’ Digital Camouflage: How Deep Does the Rabbit Hole Go? | SilentInject | [Read More](https://medium.com/p/8070dea2e90d) |
 | Thu, 21 Aug 2025 05:39:43 GMT | When Rate Limits Fail: How Attackers Still Brute Force APIs (and What You Missed) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/fe5f35906611) |
@@ -96,20 +113,3 @@ Menggunakan tools Slowhttp | Ginda Sundara | [Read More](https://medium.com/p/b2
 | Thu, 21 Aug 2025 02:05:53 GMT | Secure Authentication Techniques with NextAuth.js | @rnab | [Read More](https://medium.com/p/ccfe5fb43f92) |
 | Thu, 21 Aug 2025 02:01:32 GMT | Web Cache Poisoning via an Unkeyed Query Parameter | Bash Overflow | [Read More](https://medium.com/p/543c4016b920) |
 | Thu, 21 Aug 2025 01:47:31 GMT | 11. Error Handling & Debugging in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/abd78f586a5c) |
-| Thu, 21 Aug 2025 01:45:05 GMT | Day 85: TTY | Nile Okomo | [Read More](https://medium.com/p/a581896f7a50) |
-| Thu, 21 Aug 2025 01:35:37 GMT | Vulnerability Assessment with Nessus Essentials | Salmaan Ahmed Mustapha | [Read More](https://medium.com/p/86b3a94457e1) |
-| Thu, 21 Aug 2025 01:17:10 GMT | NFS Setup Tool v1.0 | BnHany | [Read More](https://medium.com/p/ada93d5d09d7) |
-| Thu, 21 Aug 2025 01:01:32 GMT | Hunting APT29’s Hidden Highway: A SIGMA Detection Rule for Named Pipe Backdoors | Manish Rawat | [Read More](https://medium.com/p/e0b57eed6a1b) |
-| Thu, 21 Aug 2025 00:31:28 GMT | What Is Agentic AI, And Why It’s Different From the Tools You Know | smartData Enterprises India | [Read More](https://medium.com/p/9855d6b40a0e) |
-| Thu, 21 Aug 2025 00:30:01 GMT | Why Python Is the Best Tool for Cyber Investigations | Zain Shoaib | [Read More](https://medium.com/p/649e220ae374) |
-| Thu, 21 Aug 2025 00:19:54 GMT | Why You Should Take Password Management into Your Own Hands in 2025 | Junaid Mustafa | [Read More](https://medium.com/p/a4dd061c6e7a) |
-| Thu, 21 Aug 2025 00:17:35 GMT | ️‍♂️ How AI is Reshaping Government Intelligence and National Security | Benjamin Morales Perez | [Read More](https://medium.com/p/690ce82a3482) |
-| Thu, 21 Aug 2025 00:15:21 GMT | Why You Should Care About JavaScript Security Even in Small Projects | Zain Shoaib | [Read More](https://medium.com/p/efbe3bbcdc3f) |
-| Wed, 20 Aug 2025 23:58:18 GMT | HTTP/1.1 Must Die! | Andrew Paul | [Read More](https://medium.com/p/acbb18054af1) |
-| Wed, 20 Aug 2025 23:37:29 GMT | Challenges: Whiterose: TryHackMe | Jebitok | [Read More](https://medium.com/p/90574278f8c2) |
-| Wed, 20 Aug 2025 23:21:45 GMT | CRYPTOSCOPE: UTILIZING LARGE LANGUAGE MODELS FOR AUTOMATED CRYPTOGRAPHIC LOGIC VULNERABILITY… | YouShin kim | [Read More](https://medium.com/p/c36648ffb6e4) |
-| Wed, 20 Aug 2025 23:08:29 GMT | When Love Turns into Payroll Fraud: The Hidden Scam of Hiring Friends for Fun | Internet Exposed | [Read More](https://medium.com/p/804739aae384) |
-| Wed, 20 Aug 2025 22:45:10 GMT | Aurora EDR | Anthony Mazyck | [Read More](https://medium.com/p/c8feec8b6909) |
-| Wed, 20 Aug 2025 22:42:07 GMT | Personal Service Accounts — Access Delegation in the age of Agentic AI | Dave Buchanan | [Read More](https://medium.com/p/9edd13ff9189) |
-| Wed, 20 Aug 2025 22:17:29 GMT | OpenAI API Security: Managing AI Risk in Chatbots | Karthikeyan Nagaraj | [Read More](https://medium.com/p/c8c62f8f6797) |
-| Wed, 20 Aug 2025 22:11:17 GMT | A Man on a Mission | Shiv Singh - The Cyber Resilience Project ✍️ | [Read More](https://medium.com/p/eff5da551d2d) |
