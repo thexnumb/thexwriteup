@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 11:31:17 GMT | The Unsung Heroes of Bankruptcy: Why Data Custodians Matter More Than You Think | DCirrus Virtual Data Room | [Read More](https://medium.com/p/27cfefcecdec) |
+| Thu, 21 Aug 2025 11:30:46 GMT | What isn’t Me | A Sexual Libra | [Read More](https://medium.com/p/de6ed0ce87c2) |
+| Thu, 21 Aug 2025 11:29:13 GMT | Symmetric Key Performance | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/556e4bd59893) |
+| Thu, 21 Aug 2025 11:26:11 GMT | :    -… | Web3Dof | [Read More](https://medium.com/p/85d498138683) |
+| Thu, 21 Aug 2025 11:23:29 GMT | Who’s Really in Control? The Hidden Risk of AI Agent Hijacking | Brittney Ginther | [Read More](https://medium.com/p/6c2d6f00cc57) |
+| Thu, 21 Aug 2025 11:23:18 GMT | Day 2 of 30 Days of Vault — Exploring Vault Dev Server to Creating Secrets | Mark Carriedo | [Read More](https://medium.com/p/b370a7a4d572) |
+| Thu, 21 Aug 2025 11:17:30 GMT | Corporate Greed Chronicles: Plowing Profits, Sowing Layoffs at John Deere | Namir Sagheenanajar | [Read More](https://medium.com/p/c33e03cf23e1) |
+| Thu, 21 Aug 2025 11:15:22 GMT | DockerLabs Writeup — Express (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/4485a40701d5) |
 | Thu, 21 Aug 2025 11:13:30 GMT | Compliance ≠ Security: Why Passing an Audit Doesn’t Mean You’re Safe | Evgeny Ermakov | [Read More](https://medium.com/p/4f5deeb164fd) |
 | Thu, 21 Aug 2025 11:09:01 GMT | Strengthen Your Cyber Defenses with VAPT Services from StrongBox IT | StrongBox IT | [Read More](https://medium.com/p/fb87b75f323b) |
 | Thu, 21 Aug 2025 11:07:02 GMT | The Freelancer- Online Jobs | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/0c7f2edc2b84) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 06:23:06 GMT | OpenCTI Tutorial for Beginners: Full Walkthrough of Every Feature | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/151f76df365b) |
 | Thu, 21 Aug 2025 06:22:19 GMT | Cyber Security Company in Dubai, UAE | Oadtechdubai | [Read More](https://medium.com/p/5afd975fa375) |
 | Thu, 21 Aug 2025 06:21:37 GMT | Why Capture the Flag Challenges Are a Great Way to Learn Cybersecurity | Shehan_Gunathilaka | [Read More](https://medium.com/p/e4aecd73156e) |
-| Thu, 21 Aug 2025 06:21:03 GMT | EJOTAPETE | Enoch Root | [Read More](https://medium.com/p/fcb2c9686cc3) |
-| Thu, 21 Aug 2025 06:17:38 GMT | The Invisible Cyberwar: How AI-Powered Malware Learns Like Humans | Anoushka Deb | [Read More](https://medium.com/p/84be758ae3b2) |
-| Thu, 21 Aug 2025 06:14:15 GMT | Drosera: Building an Immune System for Web3 in Osun and Beyond | Adahjoshua | [Read More](https://medium.com/p/08d699d70ab2) |
-| Thu, 21 Aug 2025 06:14:11 GMT | That CAPTCHA Lied: My Brush with a Phishing Monster | CtrlC3 | [Read More](https://medium.com/p/bb6e21529a9a) |
-| Thu, 21 Aug 2025 06:09:54 GMT | The Poetry of Threat Detection: How Creative Thinking Helps Me Stop Cyberattacks | Vince Picton | [Read More](https://medium.com/p/597b242a1697) |
-| Thu, 21 Aug 2025 06:09:03 GMT | NymVPN Early Bird প্রমো: এখনই পাচ্ছেন ৮০% ছাড়! | Rabib Bin Nur | [Read More](https://medium.com/p/93fa406b1b82) |
-| Thu, 21 Aug 2025 06:01:07 GMT | Top-Tier Manned Guarding Services in Manchester — Marvellous Security Services | Marvelloussecurities | [Read More](https://medium.com/p/89904370f16f) |
-| Thu, 21 Aug 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Aug 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/768656152b3b) |
