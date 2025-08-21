@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 17:11:49 GMT | LINUX CREDENTIAL HUNTING | PARADOX | [Read More](https://medium.com/p/65f8ee1d22d8) |
+| Thu, 21 Aug 2025 17:06:18 GMT | Cyber Kill Chain and Steps of Cyber Kill Chain | Emir | [Read More](https://medium.com/p/cc767a9dfc12) |
+| Thu, 21 Aug 2025 17:03:55 GMT | Shodan: Search Engine Where U Must Learn How to Search | Aastha Thakker | [Read More](https://medium.com/p/1fb244d75d98) |
+| Thu, 21 Aug 2025 17:02:27 GMT | nmap [ip_address] -A Result Explained - NMAP Commands | Cyber Worrier | [Read More](https://medium.com/p/8a22fd3dd301) |
+| Thu, 21 Aug 2025 17:00:53 GMT | LinkedIn OSINT for Business Intelligence | Nazrul Islam Rana | [Read More](https://medium.com/p/024f027a8394) |
+| Thu, 21 Aug 2025 16:53:47 GMT | Integrating AWS RDS MySQL Audit Logs with Microsoft Sentinel | Akila Perera | [Read More](https://medium.com/p/a8cd62d6a942) |
+| Thu, 21 Aug 2025 16:51:35 GMT | Weaponizing the Hype: When AI Websites Become Cyber Threat Platforms. | Inforsecpro | [Read More](https://medium.com/p/e4495f019e83) |
 | Thu, 21 Aug 2025 16:50:11 GMT | Cyber Snack Day -9 | Anwar_Nainar | [Read More](https://medium.com/p/7993c347c05f) |
 | Thu, 21 Aug 2025 16:49:44 GMT | How to Download, Verify, and Install Nessus on Kali Linux VM | Chinedum Udenkwo | [Read More](https://medium.com/p/f40840759e4c) |
 | Thu, 21 Aug 2025 16:47:59 GMT | Despite all this, I still want to love… | Moe Thitsa | [Read More](https://medium.com/p/61734f7e06b7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 12:26:45 GMT | Why Should Third-Party Vendor Security Be a Board-Level Priority in 2025? | Prerna Shukla | [Read More](https://medium.com/p/6de53af14e4f) |
 | Thu, 21 Aug 2025 12:24:45 GMT | What Role Do Vulnerability Assessment and Penetration Testing Play in Modern Cybersecurity? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/b46e95e210c2) |
 | Thu, 21 Aug 2025 12:22:36 GMT | Here’s Why Cybersecurity Needs AI More Than Ever | Saravanan.R | [Read More](https://medium.com/p/f75b0c23b946) |
-| Thu, 21 Aug 2025 12:19:10 GMT | Introduction to Content Security Policy (CSP) | Rohit Kuwar | [Read More](https://medium.com/p/ffba152af915) |
-| Thu, 21 Aug 2025 12:17:36 GMT | How to Develop a Native Application in 2025 - Complete Guide | Bhavesh Rajpurohit | [Read More](https://medium.com/p/00171a73c575) |
-| Thu, 21 Aug 2025 12:16:07 GMT | Event 235 — SOC127 — SQL Injection Detected — Let’s Defend | R34p3r_404 | [Read More](https://medium.com/p/d996bf2d6e95) |
-| Thu, 21 Aug 2025 12:15:45 GMT | Webull.com — Scam | Editor | [Read More](https://medium.com/p/83b996afe0e5) |
-| Thu, 21 Aug 2025 12:11:22 GMT | ️ Understanding x86 Architecture: A TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/63bdf04875cc) |
-| Thu, 21 Aug 2025 12:10:57 GMT | Jk-analyticsclub.net — Scam | Editor | [Read More](https://medium.com/p/5bfef4d8ae9d) |
-| Thu, 21 Aug 2025 12:07:14 GMT | Opensinergy.online — Scam | Editor | [Read More](https://medium.com/p/407f839c8bbb) |
