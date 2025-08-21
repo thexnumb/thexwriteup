@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 04:10:06 GMT | The Cybersecurity Wake-Up Call of 2025: Why Digital Trust Will Define the Next Decade | Dr. Deep Pandey | [Read More](https://medium.com/p/748fea5fd62a) |
+| Thu, 21 Aug 2025 04:04:27 GMT | Apache ActiveMQ Flaw Exploited: DripDropper Malware Targets Cloud Linux Systems | IamPreth | [Read More](https://medium.com/p/76aa103882cd) |
+| Thu, 21 Aug 2025 03:58:07 GMT | Evil AI: Back to the Return of the Worm | Virginia Backaitis | [Read More](https://medium.com/p/1f6672dcc2aa) |
+| Thu, 21 Aug 2025 03:55:41 GMT | Quantum-Safe Web Security: Melindungi Data Kita dari Ancaman Komputer Kuantum | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/9a89f109d00e) |
+| Thu, 21 Aug 2025 03:53:20 GMT | VPNs, VPN topologies and Protocols | Vidam Sathnindu | [Read More](https://medium.com/p/24746889bc71) |
 | Thu, 21 Aug 2025 03:46:09 GMT | Why SafeLine WAF Is the Zero Trust Security Upgrade You Need in 2025 | Quella | [Read More](https://medium.com/p/347d2851481a) |
 | Thu, 21 Aug 2025 03:35:48 GMT | Autenticação baseado em token: JWT x PASETO | ISHII (石井) | [Read More](https://medium.com/p/81b2788f3e6f) |
 | Thu, 21 Aug 2025 03:33:29 GMT | How PupkinStealer Steals Your Secrets in Seconds | Deven Chhajed | [Read More](https://medium.com/p/80657bfb6f1b) |
@@ -108,8 +113,3 @@ Menggunakan tools Slowhttp | Ginda Sundara | [Read More](https://medium.com/p/b2
 | Wed, 20 Aug 2025 17:48:36 GMT | How I found XSS on NIT website | Ayush | [Read More](https://medium.com/p/2841d7dd8f86) |
 | Wed, 20 Aug 2025 17:45:48 GMT | Security Basics Every Developer Should Know | tk.dev | [Read More](https://medium.com/p/db09cb9a03c5) |
 | Wed, 20 Aug 2025 17:43:43 GMT | QRadar SIEM - What Makes It Special | Berkay Köseoğlu | [Read More](https://medium.com/p/bf39fd718518) |
-| Wed, 20 Aug 2025 17:38:42 GMT | Wizer #56 Write Up | Jeff Maley | [Read More](https://medium.com/p/89fbf38b557c) |
-| Wed, 20 Aug 2025 17:32:51 GMT | First Time DEF CON? Here’s What I Learned at DEF CON 33 | Joker | [Read More](https://medium.com/p/f2dd577876e0) |
-| Wed, 20 Aug 2025 17:32:28 GMT | COOKIE | Pavitra dakshinya Pavitra | [Read More](https://medium.com/p/c0404dca8726) |
-| Wed, 20 Aug 2025 17:31:16 GMT | Inside the Dark Web: How Threat Intelligence Can Save You from the Next Cyber Attack | Paritosh | [Read More](https://medium.com/p/77ce3618a0eb) |
-| Wed, 20 Aug 2025 17:22:29 GMT | How Ordinary People Become High Performers: 10 Key Habits | Vijay Kumar Gupta | [Read More](https://medium.com/p/969c475e412f) |
