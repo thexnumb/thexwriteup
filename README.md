@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 17:26:11 GMT | PG Practice — Shenzi (Windows) | Lepton | [Read More](https://medium.com/p/229f3c13bab5) |
+| Thu, 21 Aug 2025 17:24:43 GMT | The Rising Cybersecurity Threat of AI-Generated Malware: From Nation States to Your Living Room | Harold Moss | [Read More](https://medium.com/p/809da8079b05) |
+| Thu, 21 Aug 2025 17:21:03 GMT | The Trojan Blueprint Leak That Supercharged Android Malware | Aj | [Read More](https://medium.com/p/b80a04d68016) |
+| Thu, 21 Aug 2025 17:12:38 GMT | How Spy Apps Help You Track Social Media History Without Detection | Narjis Batool | [Read More](https://medium.com/p/9eae1681040b) |
 | Thu, 21 Aug 2025 17:11:49 GMT | LINUX CREDENTIAL HUNTING | PARADOX | [Read More](https://medium.com/p/65f8ee1d22d8) |
+| Thu, 21 Aug 2025 17:08:57 GMT | My ISO 27001 Learning Journey | Eashwar | [Read More](https://medium.com/p/b48e72b42668) |
 | Thu, 21 Aug 2025 17:06:18 GMT | Cyber Kill Chain and Steps of Cyber Kill Chain | Emir | [Read More](https://medium.com/p/cc767a9dfc12) |
 | Thu, 21 Aug 2025 17:03:55 GMT | Shodan: Search Engine Where U Must Learn How to Search | Aastha Thakker | [Read More](https://medium.com/p/1fb244d75d98) |
 | Thu, 21 Aug 2025 17:02:27 GMT | nmap [ip_address] -A Result Explained - NMAP Commands | Cyber Worrier | [Read More](https://medium.com/p/8a22fd3dd301) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 12:47:53 GMT | Lsek-pro.com — Scam | Editor | [Read More](https://medium.com/p/1892e4fb4acb) |
 | Thu, 21 Aug 2025 12:47:47 GMT | Securing Keycloak Against Reverse Proxy Vulnerabilities | Toni Huttunen | [Read More](https://medium.com/p/2ed6d79c76e8) |
 | Thu, 21 Aug 2025 12:44:37 GMT | Cloud Dialer in India-Ikontel | Ashutosh Mallik | [Read More](https://medium.com/p/fc54591138e0) |
-| Thu, 21 Aug 2025 12:43:29 GMT | The Digital Debt: How a Ransomware Attack Led to a Vengeful Murder in the USA | KG | [Read More](https://medium.com/p/a4f2b568d2d7) |
-| Thu, 21 Aug 2025 12:26:57 GMT | Birfox.biz — Scam | Editor | [Read More](https://medium.com/p/1eac0b90b056) |
-| Thu, 21 Aug 2025 12:26:45 GMT | Why Should Third-Party Vendor Security Be a Board-Level Priority in 2025? | Prerna Shukla | [Read More](https://medium.com/p/6de53af14e4f) |
-| Thu, 21 Aug 2025 12:24:45 GMT | What Role Do Vulnerability Assessment and Penetration Testing Play in Modern Cybersecurity? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/b46e95e210c2) |
-| Thu, 21 Aug 2025 12:22:36 GMT | Here’s Why Cybersecurity Needs AI More Than Ever | Saravanan.R | [Read More](https://medium.com/p/f75b0c23b946) |
