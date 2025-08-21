@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 05:36:23 GMT | About Me — Daniel | Daniel | [Read More](https://medium.com/p/8ec0188efb91) |
+| Thu, 21 Aug 2025 05:34:56 GMT | Cloud Security Misconfigurations: The Hidden Breach Risk | Abida Adra | [Read More](https://medium.com/p/7b0bc1f2c09e) |
+| Thu, 21 Aug 2025 05:32:22 GMT | Top 10 Password Mistakes People Still Make (Even IT Pros) | Travis Ray Caverhill | [Read More](https://medium.com/p/cfdfbe7b3ddc) |
+| Thu, 21 Aug 2025 05:30:49 GMT | “The Day I Stumbled Upon an Invisible Backdoor: Exploiting File Downloads via IDOR” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a25d959e956d) |
+| Thu, 21 Aug 2025 05:27:58 GMT | HackerOne Got You Down? Here’s Where to Look Next | CtrlC3 | [Read More](https://medium.com/p/19ca6aad9e4f) |
+| Thu, 21 Aug 2025 05:23:50 GMT | Why Cybersecurity Matters for Average Users? | Clickora Hub | [Read More](https://medium.com/p/35238bd7162b) |
+| Thu, 21 Aug 2025 05:16:47 GMT | AI Won’t Replace Your Team, But the Team Using AI Will Replace You | Phantasm  solutions | [Read More](https://medium.com/p/20e249d41d21) |
+| Thu, 21 Aug 2025 05:15:06 GMT | Tales from the Dark Web Knight an Introduction | Garry Hageman | [Read More](https://medium.com/p/7e923c1e42b6) |
+| Thu, 21 Aug 2025 05:13:22 GMT | Day 38- Understanding the basics of SSL vs TLS for beginners | unica 02 | [Read More](https://medium.com/p/ab00ffe52172) |
+| Thu, 21 Aug 2025 05:12:09 GMT | Container Firewall by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/86670a23363a) |
 | Thu, 21 Aug 2025 05:07:08 GMT | Why are the good memories fleeting? | JaDonna Williams | [Read More](https://medium.com/p/47820f471e84) |
 | Thu, 21 Aug 2025 05:06:35 GMT | How I Found My First Critical Vulnerability | Aj | [Read More](https://medium.com/p/e7407f715fc9) |
 | Thu, 21 Aug 2025 05:06:01 GMT | Rust Is Quietly Transforming Cybersecurity and Fintech | Chinmay Vivek | [Read More](https://medium.com/p/178f98a54223) |
@@ -103,13 +113,3 @@ Menggunakan tools Slowhttp | Ginda Sundara | [Read More](https://medium.com/p/b2
 | Wed, 20 Aug 2025 20:08:49 GMT | A Security Analyst’s Guide to Security Identifiers (SIDs) | AlanKaliX | [Read More](https://medium.com/p/c1589725afeb) |
 | Wed, 20 Aug 2025 20:02:44 GMT | The Behavioral Intelligence Revolution: How Runtime Data Is Reshaping Threat Management | Spektion | [Read More](https://medium.com/p/2a2e2f202c63) |
 | Wed, 20 Aug 2025 19:54:26 GMT | How Hackers Use ChatGPT for Cybersecurity ⚡ | Vipul Sonule | [Read More](https://medium.com/p/bd221cb0bbcf) |
-| Wed, 20 Aug 2025 19:53:56 GMT | Core Terminologies | The Darkarmy | [Read More](https://medium.com/p/cae61955802a) |
-| Wed, 20 Aug 2025 19:52:43 GMT | Yelp XSS Flaw Opens the Door to Account Takeovers | Monika sharma | [Read More](https://medium.com/p/3c058a87dc3e) |
-| Wed, 20 Aug 2025 19:52:31 GMT | I Found an Admin API Key in Public JavaScript | Ibtissam hammadi | [Read More](https://medium.com/p/1c7e96c0d1c0) |
-| Wed, 20 Aug 2025 19:52:02 GMT | Dev Said ‘It’s Encrypted, It’s Safe’ Security Said “Think Again” | Blue_eye | [Read More](https://medium.com/p/502cb8046b0a) |
-| Wed, 20 Aug 2025 19:50:53 GMT | How to Create a Fake Persona: Sock Puppet | Cenky | [Read More](https://medium.com/p/e4a6f8404d57) |
-| Wed, 20 Aug 2025 19:49:27 GMT | AS-REP Roasting Saldırılarının İzlenmesi: Wazuh ve Windows Event Log Analizi | Berat K. | [Read More](https://medium.com/p/4c7af40b9f97) |
-| Wed, 20 Aug 2025 19:49:01 GMT | One Middleware to Secure Swagger Across All Environments | Serhat Kaçmaz | [Read More](https://medium.com/p/b478ef8b6d4c) |
-| Wed, 20 Aug 2025 19:26:13 GMT | The Great Divide between two recently published Theories of Everything: A Debate on the Universe’s… | Berend Watchus | [Read More](https://medium.com/p/0d4bc413de84) |
-| Wed, 20 Aug 2025 19:18:27 GMT | Securing the Application Layer: Why Your Firewall Isn’t Enough | Menelik | [Read More](https://medium.com/p/ceeadb649a2b) |
-| Wed, 20 Aug 2025 19:13:00 GMT | PG Practice — vmdak (Linux) | Lepton | [Read More](https://medium.com/p/bcc10d6d1a29) |
