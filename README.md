@@ -12,10 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 06:31:45 GMT | Hidden Handshake: An AES-CTR based challenge | shiki | [Read More](https://medium.com/p/1720649abb9c) |
+| Thu, 21 Aug 2025 06:31:41 GMT | 5 Lessons Only Wounded Healers Understand | Wilson Igbasi | [Read More](https://medium.com/p/f665ddd53882) |
+| Thu, 21 Aug 2025 06:23:06 GMT | OpenCTI Tutorial for Beginners: Full Walkthrough of Every Feature | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/151f76df365b) |
+| Thu, 21 Aug 2025 06:22:19 GMT | Cyber Security Company in Dubai, UAE | Oadtechdubai | [Read More](https://medium.com/p/5afd975fa375) |
+| Thu, 21 Aug 2025 06:21:37 GMT | Why Capture the Flag Challenges Are a Great Way to Learn Cybersecurity | Shehan_Gunathilaka | [Read More](https://medium.com/p/e4aecd73156e) |
+| Thu, 21 Aug 2025 06:21:03 GMT | EJOTAPETE | Enoch Root | [Read More](https://medium.com/p/fcb2c9686cc3) |
+| Thu, 21 Aug 2025 06:17:38 GMT | The Invisible Cyberwar: How AI-Powered Malware Learns Like Humans | Anoushka Deb | [Read More](https://medium.com/p/84be758ae3b2) |
+| Thu, 21 Aug 2025 06:14:15 GMT | Drosera: Building an Immune System for Web3 in Osun and Beyond | Adahjoshua | [Read More](https://medium.com/p/08d699d70ab2) |
+| Thu, 21 Aug 2025 06:14:11 GMT | That CAPTCHA Lied: My Brush with a Phishing Monster | CtrlC3 | [Read More](https://medium.com/p/bb6e21529a9a) |
+| Thu, 21 Aug 2025 06:09:54 GMT | The Poetry of Threat Detection: How Creative Thinking Helps Me Stop Cyberattacks | Vince Picton | [Read More](https://medium.com/p/597b242a1697) |
+| Thu, 21 Aug 2025 06:09:03 GMT | NymVPN Early Bird প্রমো: এখনই পাচ্ছেন ৮০% ছাড়! | Rabib Bin Nur | [Read More](https://medium.com/p/93fa406b1b82) |
+| Thu, 21 Aug 2025 06:01:07 GMT | Top-Tier Manned Guarding Services in Manchester — Marvellous Security Services | Marvelloussecurities | [Read More](https://medium.com/p/89904370f16f) |
+| Thu, 21 Aug 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Aug 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/768656152b3b) |
+| Thu, 21 Aug 2025 05:59:41 GMT | Top 10 Cybersecurity Incident Response Companies That Could “Save Your Company Millions” | Mahil Jasani | [Read More](https://medium.com/p/60f1057ebac1) |
+| Thu, 21 Aug 2025 05:57:41 GMT | My CRTP Exam Journey: A Stepping Stone into Offensive Pentesting | Srivatsa Chetlur | [Read More](https://medium.com/p/b4c9d9a606ea) |
+| Thu, 21 Aug 2025 05:50:30 GMT | Top 10 Ways Hackers Bypass Security Without Touching Your Firewall | Travis Ray Caverhill | [Read More](https://medium.com/p/3a3b8fe9e175) |
+| Thu, 21 Aug 2025 05:48:25 GMT | The Scariest Cyber Attack You’ve Never Heard Of | Aj | [Read More](https://medium.com/p/9211e80a0060) |
+| Thu, 21 Aug 2025 05:44:39 GMT | How Hackers Hack Facebook Account(And How to Defend Yourself) | Binary Exploiter | [Read More](https://medium.com/p/b72855e89b34) |
+| Thu, 21 Aug 2025 05:41:48 GMT | Hackers’ Digital Camouflage: How Deep Does the Rabbit Hole Go? | SilentInject | [Read More](https://medium.com/p/8070dea2e90d) |
+| Thu, 21 Aug 2025 05:39:43 GMT | When Rate Limits Fail: How Attackers Still Brute Force APIs (and What You Missed) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/fe5f35906611) |
 | Thu, 21 Aug 2025 05:36:23 GMT | About Me — Daniel | Daniel | [Read More](https://medium.com/p/8ec0188efb91) |
 | Thu, 21 Aug 2025 05:34:56 GMT | Cloud Security Misconfigurations: The Hidden Breach Risk | Abida Adra | [Read More](https://medium.com/p/7b0bc1f2c09e) |
+| Thu, 21 Aug 2025 05:34:37 GMT | 26 | Ashley Caliel | [Read More](https://medium.com/p/c33d8cd0d89f) |
 | Thu, 21 Aug 2025 05:32:22 GMT | Top 10 Password Mistakes People Still Make (Even IT Pros) | Travis Ray Caverhill | [Read More](https://medium.com/p/cfdfbe7b3ddc) |
 | Thu, 21 Aug 2025 05:30:49 GMT | “The Day I Stumbled Upon an Invisible Backdoor: Exploiting File Downloads via IDOR” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a25d959e956d) |
+| Thu, 21 Aug 2025 05:28:53 GMT | Hayal Etmek İçin Lütfen 2’ye Basınız | Nuri Sencer | [Read More](https://medium.com/p/41f1cbe98b05) |
 | Thu, 21 Aug 2025 05:27:58 GMT | HackerOne Got You Down? Here’s Where to Look Next | CtrlC3 | [Read More](https://medium.com/p/19ca6aad9e4f) |
 | Thu, 21 Aug 2025 05:23:50 GMT | Why Cybersecurity Matters for Average Users? | Clickora Hub | [Read More](https://medium.com/p/35238bd7162b) |
 | Thu, 21 Aug 2025 05:16:47 GMT | AI Won’t Replace Your Team, But the Team Using AI Will Replace You | Phantasm  solutions | [Read More](https://medium.com/p/20e249d41d21) |
@@ -91,25 +113,3 @@ Menggunakan tools Slowhttp | Ginda Sundara | [Read More](https://medium.com/p/b2
 | Wed, 20 Aug 2025 22:42:07 GMT | Personal Service Accounts — Access Delegation in the age of Agentic AI | Dave Buchanan | [Read More](https://medium.com/p/9edd13ff9189) |
 | Wed, 20 Aug 2025 22:17:29 GMT | OpenAI API Security: Managing AI Risk in Chatbots | Karthikeyan Nagaraj | [Read More](https://medium.com/p/c8c62f8f6797) |
 | Wed, 20 Aug 2025 22:11:17 GMT | A Man on a Mission | Shiv Singh - The Cyber Resilience Project ✍️ | [Read More](https://medium.com/p/eff5da551d2d) |
-| Wed, 20 Aug 2025 22:02:33 GMT | Red Team Recon | Anthony Mazyck | [Read More](https://medium.com/p/3cbbf5419670) |
-| Wed, 20 Aug 2025 22:01:23 GMT | How to Buy Gift Cards with Bitcoin Using CryptoXpress | Ufanabasi Ekong | [Read More](https://medium.com/p/c8b02eaa84d9) |
-| Wed, 20 Aug 2025 21:57:05 GMT | CyberDefenders: PsExec Hunt Lab — Walkthrough | Luis Marquez | [Read More](https://medium.com/p/5c5d67d406e4) |
-| Wed, 20 Aug 2025 21:47:47 GMT | JWT Bugs and the Dot That Changed Everything ⚔️ | soltanali0 | [Read More](https://medium.com/p/50a0bc31fd66) |
-| Wed, 20 Aug 2025 21:42:51 GMT | DSI — Cybersécurité : élaborer une PSSI vite fait bien fait ! | Christophe Vriet | [Read More](https://medium.com/p/28022a6fce2b) |
-| Wed, 20 Aug 2025 21:41:29 GMT | Why Security Tools Alone Will Never Save You From the Next Breach | Cyber-AppSec | [Read More](https://medium.com/p/631a99a302e9) |
-| Wed, 20 Aug 2025 21:40:07 GMT | Spoofing Attacks: How Hackers Impersonate and How You Can Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/bbbcd7b6a3f2) |
-| Wed, 20 Aug 2025 21:30:25 GMT | EDR vs XDR: Which One Does Your Business Really Need? | SafeAeon Inc. | [Read More](https://medium.com/p/686e77e8162d) |
-| Wed, 20 Aug 2025 21:30:17 GMT | LolBins অ্যাটাক এর বিস্তারিত | Shahriar Galib | [Read More](https://medium.com/p/f93343c98c45) |
-| Wed, 20 Aug 2025 21:16:58 GMT | [TryHackMe] Blizzard Walkthrough | Kuba Herka | [Read More](https://medium.com/p/e55394cba766) |
-| Wed, 20 Aug 2025 21:14:54 GMT | Building Your Own ECU Hacking Setup at Home | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ebb266f046c3) |
-| Wed, 20 Aug 2025 21:00:34 GMT | The Power of Dark Web Monitoring | SafeAeon Inc. | [Read More](https://medium.com/p/3bb6583eb7f7) |
-| Wed, 20 Aug 2025 20:59:50 GMT | My Journey into Digital Forensics and Why an Investigator’s Mindset is Crucial for Modern Defense | IBE KINGSLEY | [Read More](https://medium.com/p/d294d4110ace) |
-| Wed, 20 Aug 2025 20:52:26 GMT | GrapeQL — Turning A Small Tool Into An Open Source Project | Aleksa Zatezalo | [Read More](https://medium.com/p/3b924a2e5e7a) |
-| Wed, 20 Aug 2025 20:50:23 GMT | Cookies: Small Files, Big Impact on the Digital World | Shree Navya M R | [Read More](https://medium.com/p/48de9ecd1210) |
-| Wed, 20 Aug 2025 20:31:01 GMT | Security Updates in Linux: Automation and Risk Management | Esra Kayhan | [Read More](https://medium.com/p/a2e884545b1b) |
-| Wed, 20 Aug 2025 20:22:06 GMT | This is How Criminals are Using AI | YAROCELIS.eth - Tech Trends | [Read More](https://medium.com/p/f6f5a375fff9) |
-| Wed, 20 Aug 2025 20:15:09 GMT | Pickle Rick Tryhackme (THM) Walkthrough | Ammar Ahmed | [Read More](https://medium.com/p/2c9126beb498) |
-| Wed, 20 Aug 2025 20:13:24 GMT | Stored XSS via Unsanitized SVG File Upload | youssef awad | [Read More](https://medium.com/p/d7e4619cc937) |
-| Wed, 20 Aug 2025 20:08:49 GMT | A Security Analyst’s Guide to Security Identifiers (SIDs) | AlanKaliX | [Read More](https://medium.com/p/c1589725afeb) |
-| Wed, 20 Aug 2025 20:02:44 GMT | The Behavioral Intelligence Revolution: How Runtime Data Is Reshaping Threat Management | Spektion | [Read More](https://medium.com/p/2a2e2f202c63) |
-| Wed, 20 Aug 2025 19:54:26 GMT | How Hackers Use ChatGPT for Cybersecurity ⚡ | Vipul Sonule | [Read More](https://medium.com/p/bd221cb0bbcf) |
