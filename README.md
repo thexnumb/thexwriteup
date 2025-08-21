@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 08:23:54 GMT | Supercharged SecOps Series - CrowdStrike Falcon MCP (Pub. Preview) | @mikecybersec | [Read More](https://medium.com/p/efe5f11c31c2) |
+| Thu, 21 Aug 2025 08:20:28 GMT | My First Wireshark Capture: From Ping to HTTP — A Beginner’s Journey into Network Traffic Analysis | Zoltan Karpati | [Read More](https://medium.com/p/1b7ef3037d83) |
+| Thu, 21 Aug 2025 08:14:25 GMT | Smart Labs 101: Be Portable , Be Specialized ! | lukewago | [Read More](https://medium.com/p/03b6294b501f) |
+| Thu, 21 Aug 2025 08:08:56 GMT | Buried Treasures in Backups: How .bak Files Handed Me the Keys to Production ️ | Iski | [Read More](https://medium.com/p/4bf325a51f31) |
+| Thu, 21 Aug 2025 08:06:43 GMT | Lumma Stealer: The Playbook for Blue Teams (Part 1) | Siddhant Mishra | [Read More](https://medium.com/p/1fbec6f59a15) |
+| Thu, 21 Aug 2025 08:04:47 GMT | Symantec Endpoint Protection Services: Security You Can Trust | Hoplon Infosec | [Read More](https://medium.com/p/76d694165bfc) |
+| Thu, 21 Aug 2025 08:02:09 GMT | Axis bank se paise cut Jaaye To Kya Karen☎️✍️ 9669-538-050 ✅☎️अगर एक्सिस बैंक से पैसे कट गए… | Axis bank se paise cut Jaaye To Kya Karen | [Read More](https://medium.com/p/c5377c5b77c7) |
+| Thu, 21 Aug 2025 08:01:32 GMT | Cron Jobs and Kill Signals: Advanced Linux Process Management Made Simple | MayhemCode | [Read More](https://medium.com/p/33134adfdbb3) |
+| Thu, 21 Aug 2025 07:53:57 GMT | Diving In: My Quick Start Journey at Alaiy | Surya Singh | [Read More](https://medium.com/p/ec915f6a0bb4) |
+| Thu, 21 Aug 2025 07:51:07 GMT | SOC Analyst’s New Superpower: How SOAR Tames the Chaos (Part 1) | Mostafa Elsaeed | [Read More](https://medium.com/p/c499dee7bd91) |
+| Thu, 21 Aug 2025 07:51:04 GMT | UK Report Warns Cloud-Linked Satellite Stations Could Lead to Cyberattacks | SafetyDetectives Research Team | [Read More](https://medium.com/p/49903a94ed7e) |
+| Thu, 21 Aug 2025 07:42:05 GMT | Keamanan AI: Pertarungan di Era Mesin Belajar | Malbaralamsyah | [Read More](https://medium.com/p/e75bbce24072) |
+| Thu, 21 Aug 2025 07:36:49 GMT | DGA: The Algorithmic Backbone of Modern Malware C2 Infrastructure | Dean | [Read More](https://medium.com/p/e499f6fe0710) |
+| Thu, 21 Aug 2025 07:34:29 GMT | File and Hash Threat Intel “Try_Hack_Me” | Sohamwagh | [Read More](https://medium.com/p/0ea85126f8da) |
+| Thu, 21 Aug 2025 07:32:50 GMT | NVIDIA’s New AI Chip for China: A Game-Changer in Global AI Competition | Vaishnavi Ganeshkar | [Read More](https://medium.com/p/50ea7380573d) |
 | Thu, 21 Aug 2025 07:32:49 GMT | Passwordless Authentication: the New Standard of Digital Security | Luxand | [Read More](https://medium.com/p/860fad35b650) |
 | Thu, 21 Aug 2025 07:24:27 GMT | The State of Software Supply Chain Security: Finally, a Common Standard? | Alexandre Couëdelo | [Read More](https://medium.com/p/0c0b41f4f62e) |
 | Thu, 21 Aug 2025 07:21:54 GMT | DOĞRU ROTA NASIL ÇİZİLİR | Osman berkay Ercan | [Read More](https://medium.com/p/018e3f211932) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 03:33:29 GMT | How PupkinStealer Steals Your Secrets in Seconds | Deven Chhajed | [Read More](https://medium.com/p/80657bfb6f1b) |
 | Thu, 21 Aug 2025 03:32:44 GMT | Understanding the Biba Model: Integrity in Information Security | Raviteja Mureboina | [Read More](https://medium.com/p/2021fd392449) |
 | Thu, 21 Aug 2025 03:24:08 GMT | The Security Breach That Made Us Unhackable | Aaron Rose | [Read More](https://medium.com/p/4b77a3a65fa8) |
-| Thu, 21 Aug 2025 03:17:10 GMT | Critical SQL Injection in Kingsoft Endpoint Security V9 — Patch Now | Quella | [Read More](https://medium.com/p/486398908b9e) |
-| Thu, 21 Aug 2025 03:16:47 GMT | The Outrage Machine: How Facebook’s Algorithms Hook Us on Misinformation | Nandi Putra | [Read More](https://medium.com/p/7026a0b0dab4) |
-| Thu, 21 Aug 2025 03:15:18 GMT | A complete guide to read a Smart Contract before you approve it | WalletKeeper | [Read More](https://medium.com/p/e4025fea91cf) |
-| Thu, 21 Aug 2025 03:05:57 GMT | Blind SQL Injection in FireShare, Found in an API sort Parameter | CyberDucky | [Read More](https://medium.com/p/92cc2e6b0f1a) |
-| Thu, 21 Aug 2025 03:05:48 GMT | How To Use WinRAR To Extract Files | Brian Davis | [Read More](https://medium.com/p/d6c713eb476f) |
-| Thu, 21 Aug 2025 03:03:54 GMT | Analyzing the Body of Phishing Emails | Allen Ace | [Read More](https://medium.com/p/70cd64a5eaf6) |
-| Thu, 21 Aug 2025 03:03:30 GMT | Three shady (but cool) companies building Secure & Private messaging. | Ben Fairchild | [Read More](https://medium.com/p/e248150af871) |
-| Thu, 21 Aug 2025 03:03:30 GMT | Keamanan Data di JP368: Standar Internasional untuk Pemain Global | Infoleva - Powered by Group89 | [Read More](https://medium.com/p/fb9eb57c47be) |
-| Thu, 21 Aug 2025 02:58:44 GMT | Quantum Computing: Powering the Next Technological Revolution | Dukerearing | [Read More](https://medium.com/p/cf2e140fb023) |
-| Thu, 21 Aug 2025 02:50:50 GMT | # From Development to Pentesting | Nighty-Sky | [Read More](https://medium.com/p/dc58cdf398f3) |
-| Thu, 21 Aug 2025 02:44:25 GMT | Serangan DoS dan DDos 
-Menggunakan tools Slowhttp | Ginda Sundara | [Read More](https://medium.com/p/b25c5dbaef9c) |
-| Thu, 21 Aug 2025 02:43:16 GMT | HTB Walkthrough : Synced(rsync) | Ahmad Sopyan | [Read More](https://medium.com/p/a6de7d53e1da) |
-| Thu, 21 Aug 2025 02:35:21 GMT | Learning to Land Softly: Join My 365-Day Peaceful Photo Challenge | Michelle A. Patrovani - M.A.P. | [Read More](https://medium.com/p/2a750cd38e9c) |
-| Thu, 21 Aug 2025 02:34:08 GMT | How I Found a Stored XSS in Markdown Rendering | CyberDucky | [Read More](https://medium.com/p/e73cfc3cd93a) |
-| Thu, 21 Aug 2025 02:33:25 GMT | Arbitrary URL Injection via Link Input Field - bug bounty writeup | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/08d87dab2011) |
