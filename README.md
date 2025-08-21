@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 03:46:09 GMT | Why SafeLine WAF Is the Zero Trust Security Upgrade You Need in 2025 | Quella | [Read More](https://medium.com/p/347d2851481a) |
+| Thu, 21 Aug 2025 03:35:48 GMT | Autenticação baseado em token: JWT x PASETO | ISHII (石井) | [Read More](https://medium.com/p/81b2788f3e6f) |
+| Thu, 21 Aug 2025 03:33:29 GMT | How PupkinStealer Steals Your Secrets in Seconds | Deven Chhajed | [Read More](https://medium.com/p/80657bfb6f1b) |
+| Thu, 21 Aug 2025 03:32:44 GMT | Understanding the Biba Model: Integrity in Information Security | Raviteja Mureboina | [Read More](https://medium.com/p/2021fd392449) |
+| Thu, 21 Aug 2025 03:24:08 GMT | The Security Breach That Made Us Unhackable | Aaron Rose | [Read More](https://medium.com/p/4b77a3a65fa8) |
+| Thu, 21 Aug 2025 03:17:10 GMT | Critical SQL Injection in Kingsoft Endpoint Security V9 — Patch Now | Quella | [Read More](https://medium.com/p/486398908b9e) |
+| Thu, 21 Aug 2025 03:16:47 GMT | The Outrage Machine: How Facebook’s Algorithms Hook Us on Misinformation | Nandi Putra | [Read More](https://medium.com/p/7026a0b0dab4) |
+| Thu, 21 Aug 2025 03:15:18 GMT | A complete guide to read a Smart Contract before you approve it | WalletKeeper | [Read More](https://medium.com/p/e4025fea91cf) |
 | Thu, 21 Aug 2025 03:05:57 GMT | Blind SQL Injection in FireShare, Found in an API sort Parameter | CyberDucky | [Read More](https://medium.com/p/92cc2e6b0f1a) |
+| Thu, 21 Aug 2025 03:05:48 GMT | How To Use WinRAR To Extract Files | Brian Davis | [Read More](https://medium.com/p/d6c713eb476f) |
 | Thu, 21 Aug 2025 03:03:54 GMT | Analyzing the Body of Phishing Emails | Allen Ace | [Read More](https://medium.com/p/70cd64a5eaf6) |
+| Thu, 21 Aug 2025 03:03:30 GMT | Three shady (but cool) companies building Secure & Private messaging. | Ben Fairchild | [Read More](https://medium.com/p/e248150af871) |
+| Thu, 21 Aug 2025 03:03:30 GMT | Keamanan Data di JP368: Standar Internasional untuk Pemain Global | Infoleva - Powered by Group89 | [Read More](https://medium.com/p/fb9eb57c47be) |
 | Thu, 21 Aug 2025 02:58:44 GMT | Quantum Computing: Powering the Next Technological Revolution | Dukerearing | [Read More](https://medium.com/p/cf2e140fb023) |
 | Thu, 21 Aug 2025 02:50:50 GMT | # From Development to Pentesting | Nighty-Sky | [Read More](https://medium.com/p/dc58cdf398f3) |
 | Thu, 21 Aug 2025 02:44:25 GMT | Serangan DoS dan DDos 
@@ -102,14 +113,3 @@ Menggunakan tools Slowhttp | Ginda Sundara | [Read More](https://medium.com/p/b2
 | Wed, 20 Aug 2025 17:32:28 GMT | COOKIE | Pavitra dakshinya Pavitra | [Read More](https://medium.com/p/c0404dca8726) |
 | Wed, 20 Aug 2025 17:31:16 GMT | Inside the Dark Web: How Threat Intelligence Can Save You from the Next Cyber Attack | Paritosh | [Read More](https://medium.com/p/77ce3618a0eb) |
 | Wed, 20 Aug 2025 17:22:29 GMT | How Ordinary People Become High Performers: 10 Key Habits | Vijay Kumar Gupta | [Read More](https://medium.com/p/969c475e412f) |
-| Wed, 20 Aug 2025 17:18:46 GMT | Understanding the Diamond Model: A Cybersecurity Lens for Analyzing Intrusions | Virginia Nelai | [Read More](https://medium.com/p/1127e9b784c9) |
-| Wed, 20 Aug 2025 17:18:36 GMT | OWASP : The Biggest Web Security Risks | Pavitra dakshinya Pavitra | [Read More](https://medium.com/p/c6f6709401b5) |
-| Wed, 20 Aug 2025 17:17:59 GMT | Cyber Kill Chain vs Unified Kill Chain: Know the Difference, Think Like an Analyst | Virginia Nelai | [Read More](https://medium.com/p/fe7190444119) |
-| Wed, 20 Aug 2025 17:17:21 GMT | The Hacker Mindset: Inside the Cyber Attack Lifecycle | Virginia Nelai | [Read More](https://medium.com/p/52ca331b2a1f) |
-| Wed, 20 Aug 2025 17:12:18 GMT | Simple Beginner CTF :Tryhackme | Mainekdeveloper | [Read More](https://medium.com/p/7af774c94c46) |
-| Wed, 20 Aug 2025 17:09:05 GMT | PG Practice — Extplorer (Linux) | Lepton | [Read More](https://medium.com/p/b129ba599019) |
-| Wed, 20 Aug 2025 17:08:57 GMT | Integrate Office 365 with Okta for SSO | James Rawlings | [Read More](https://medium.com/p/b3d1ab927a01) |
-| Wed, 20 Aug 2025 17:05:43 GMT | WEBFANG v2.0 | Tyler Cole Beyhan | [Read More](https://medium.com/p/80d47284d4d7) |
-| Wed, 20 Aug 2025 16:59:42 GMT | Acoustic Side-Channel Attacks: When Hackers Can Hear Your Secrets | Akshay Chauhan | [Read More](https://medium.com/p/24b8240d8dca) |
-| Wed, 20 Aug 2025 16:46:56 GMT | Understanding the OWASP Top 10: Real-Life Lessons in Web Security | Meinam Sanjana Devi | [Read More](https://medium.com/p/3a30d692bc73) |
-| Wed, 20 Aug 2025 16:43:01 GMT | What exactly is the Dark Web? | James N | [Read More](https://medium.com/p/e8b818fc16aa) |
