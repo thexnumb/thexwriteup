@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 10:16:59 GMT | Trusted Managed Data Center Service Providers In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/80f3d583f5bc) |
+| Thu, 21 Aug 2025 10:15:58 GMT | ThunderCipher-Lab[Easy Login] | Bhuwan Patidar | [Read More](https://medium.com/p/d2ca127d30e9) |
+| Thu, 21 Aug 2025 10:09:04 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/4eb1935047a3) |
+| Thu, 21 Aug 2025 10:08:02 GMT | Drosera: The Immune System Ethereum Has Been Waiting For. | Relanaa | [Read More](https://medium.com/p/b9947d84e888) |
+| Thu, 21 Aug 2025 10:07:31 GMT | Zero-Day Apple Vulnerability Under Attack | Aditya Sharma | [Read More](https://medium.com/p/de6b9efc5301) |
+| Thu, 21 Aug 2025 10:07:18 GMT | In today’s world, is being “pretty good” at housekeeping enough? | EXLITY | [Read More](https://medium.com/p/a06755b7ca64) |
+| Thu, 21 Aug 2025 10:07:17 GMT | Your AI Assistant Is the Hacker’s Easiest Way In | Vikrambalauae Aj | [Read More](https://medium.com/p/549530c231d9) |
+| Thu, 21 Aug 2025 10:04:08 GMT | Dork Like a Demon: FOFA Edition for Hackers & Bug Bounty Hunters | Aditya Bhatt | [Read More](https://medium.com/p/a81f154d51d5) |
+| Thu, 21 Aug 2025 10:03:37 GMT | OWASP Top 10 Explained Simply (With Examples) | Devaduth Saji | [Read More](https://medium.com/p/14fc056f848f) |
+| Thu, 21 Aug 2025 09:52:18 GMT | Web Application Penetration Testing Course Online | cyber security Updates | [Read More](https://medium.com/p/f1947788eb01) |
+| Thu, 21 Aug 2025 09:45:02 GMT | Cybersecurity Risk Management Software: Your Best ROI This Year | SecureSlate | [Read More](https://medium.com/p/ea117130d9b7) |
+| Thu, 21 Aug 2025 09:45:00 GMT | The Evolution of Phishing: Why Yesterday’s Defenses Can’t Stop Today’s Attacks | Cytrusst | [Read More](https://medium.com/p/a9ec6b4e80c7) |
+| Thu, 21 Aug 2025 09:43:25 GMT | Your Next Investment Isn’t a Feature, It’s an Algorithm: millions/billions in ROI estimated | Berend Watchus | [Read More](https://medium.com/p/3c3ad185a7e2) |
 | Thu, 21 Aug 2025 09:33:03 GMT | Exploring APIs, Microservices, and App Software Types | Ketan Patel | [Read More](https://medium.com/p/2ff1e82fbf6e) |
 | Thu, 21 Aug 2025 09:24:43 GMT | Understanding Phishing and How to Safeguard Against It: A Deep Dive into Common Techniques | Writers Hub. | [Read More](https://medium.com/p/459d3c902af3) |
 | Thu, 21 Aug 2025 09:23:39 GMT | Don’t Do It Yourself: Delegate with OAuth 2.0 | Ketan Polawar | [Read More](https://medium.com/p/d72af6141b72) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 05:23:50 GMT | Why Cybersecurity Matters for Average Users? | Clickora Hub | [Read More](https://medium.com/p/35238bd7162b) |
 | Thu, 21 Aug 2025 05:16:47 GMT | AI Won’t Replace Your Team, But the Team Using AI Will Replace You | Phantasm  solutions | [Read More](https://medium.com/p/20e249d41d21) |
 | Thu, 21 Aug 2025 05:15:06 GMT | Tales from the Dark Web Knight an Introduction | Garry Hageman | [Read More](https://medium.com/p/7e923c1e42b6) |
-| Thu, 21 Aug 2025 05:13:22 GMT | Day 38- Understanding the basics of SSL vs TLS for beginners | unica 02 | [Read More](https://medium.com/p/ab00ffe52172) |
-| Thu, 21 Aug 2025 05:12:09 GMT | Container Firewall by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/86670a23363a) |
-| Thu, 21 Aug 2025 05:07:08 GMT | Why are the good memories fleeting? | JaDonna Williams | [Read More](https://medium.com/p/47820f471e84) |
-| Thu, 21 Aug 2025 05:06:35 GMT | How I Found My First Critical Vulnerability | Aj | [Read More](https://medium.com/p/e7407f715fc9) |
-| Thu, 21 Aug 2025 05:06:01 GMT | Rust Is Quietly Transforming Cybersecurity and Fintech | Chinmay Vivek | [Read More](https://medium.com/p/178f98a54223) |
-| Thu, 21 Aug 2025 05:01:00 GMT | Why AiiTE Offers the Best MERN Full-Stack Developer Course in Chennai for Aspiring Developers | Aiiteacademy | [Read More](https://medium.com/p/dfc78e9374e8) |
-| Thu, 21 Aug 2025 05:00:38 GMT | Advancing Security Operations for Organizations | Cyber Security Research | [Read More](https://medium.com/p/949ce8b0a121) |
-| Thu, 21 Aug 2025 04:56:59 GMT | Advancing Security Operations and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/f8bdc3bd7431) |
-| Thu, 21 Aug 2025 04:56:21 GMT | ️ Cybersecurity in 2025: 7 Free Tools Every Beginner Should Master | Parth Patel | [Read More](https://medium.com/p/9b76dcfe7adf) |
-| Thu, 21 Aug 2025 04:56:09 GMT | Why You Can’t Rely on Excel Anymore | Phantasm  solutions | [Read More](https://medium.com/p/59e2fcd724d0) |
-| Thu, 21 Aug 2025 04:55:12 GMT | Advancing Security Operations and Future Trends | Cyber Security Research | [Read More](https://medium.com/p/b510e1204ad9) |
-| Thu, 21 Aug 2025 04:53:46 GMT | How to Protect Your Data in a World That Doesn’t Respect Privacy. | Abhinav Misra | [Read More](https://medium.com/p/497008f9f009) |
-| Thu, 21 Aug 2025 04:53:23 GMT | Advancing Security Operations and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/1a9b54271762) |
