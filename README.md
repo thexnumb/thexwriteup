@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 10:43:14 GMT | CERT-In IS Audit & Compliance: What Every Business Must Know About the New Guidelines 2025 | CyberSigma Consulting Services | [Read More](https://medium.com/p/e827e1cd1c54) |
+| Thu, 21 Aug 2025 10:38:12 GMT | How Artificial Intelligence Will Transform Cyber Insurance | Oleg Parashchak | [Read More](https://medium.com/p/100f6d0ec0a9) |
+| Thu, 21 Aug 2025 10:37:47 GMT | Password Strength Checker in Python: Test Your Password Security in 2025 | TheCyberSalad | [Read More](https://medium.com/p/22554bf588c8) |
+| Thu, 21 Aug 2025 10:32:56 GMT | WAFFLED: How Hackers Bypass Web Application Firewalls with Parsing Tricks | Omnia Mohamed | [Read More](https://medium.com/p/20ec7426a89c) |
+| Thu, 21 Aug 2025 10:29:44 GMT | Data Protection — The Role of Data Protection Officers (DPOs) in GDPR Compliance | Azpirantz Technologies | [Read More](https://medium.com/p/1b5d0b8320cd) |
+| Thu, 21 Aug 2025 10:21:09 GMT | What is a Cookie ? | Devaduth Saji | [Read More](https://medium.com/p/64c393c3ad31) |
+| Thu, 21 Aug 2025 10:19:46 GMT | Why Data Analytics is Important in the Pharma Industry? | Pharmaleap | [Read More](https://medium.com/p/ec93aa8808f4) |
 | Thu, 21 Aug 2025 10:16:59 GMT | Trusted Managed Data Center Service Providers In India - Net Access | Gowthammathiew | [Read More](https://medium.com/p/80f3d583f5bc) |
 | Thu, 21 Aug 2025 10:15:58 GMT | ThunderCipher-Lab[Easy Login] | Bhuwan Patidar | [Read More](https://medium.com/p/d2ca127d30e9) |
 | Thu, 21 Aug 2025 10:09:04 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/4eb1935047a3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 05:36:23 GMT | About Me — Daniel | Daniel | [Read More](https://medium.com/p/8ec0188efb91) |
 | Thu, 21 Aug 2025 05:34:56 GMT | Cloud Security Misconfigurations: The Hidden Breach Risk | Abida Adra | [Read More](https://medium.com/p/7b0bc1f2c09e) |
 | Thu, 21 Aug 2025 05:34:37 GMT | 26 | Ashley Caliel | [Read More](https://medium.com/p/c33d8cd0d89f) |
-| Thu, 21 Aug 2025 05:32:22 GMT | Top 10 Password Mistakes People Still Make (Even IT Pros) | Travis Ray Caverhill | [Read More](https://medium.com/p/cfdfbe7b3ddc) |
-| Thu, 21 Aug 2025 05:30:49 GMT | “The Day I Stumbled Upon an Invisible Backdoor: Exploiting File Downloads via IDOR” | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a25d959e956d) |
-| Thu, 21 Aug 2025 05:28:53 GMT | Hayal Etmek İçin Lütfen 2’ye Basınız | Nuri Sencer | [Read More](https://medium.com/p/41f1cbe98b05) |
-| Thu, 21 Aug 2025 05:27:58 GMT | HackerOne Got You Down? Here’s Where to Look Next | CtrlC3 | [Read More](https://medium.com/p/19ca6aad9e4f) |
-| Thu, 21 Aug 2025 05:23:50 GMT | Why Cybersecurity Matters for Average Users? | Clickora Hub | [Read More](https://medium.com/p/35238bd7162b) |
-| Thu, 21 Aug 2025 05:16:47 GMT | AI Won’t Replace Your Team, But the Team Using AI Will Replace You | Phantasm  solutions | [Read More](https://medium.com/p/20e249d41d21) |
-| Thu, 21 Aug 2025 05:15:06 GMT | Tales from the Dark Web Knight an Introduction | Garry Hageman | [Read More](https://medium.com/p/7e923c1e42b6) |
