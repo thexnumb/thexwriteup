@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 07:32:49 GMT | Passwordless Authentication: the New Standard of Digital Security | Luxand | [Read More](https://medium.com/p/860fad35b650) |
+| Thu, 21 Aug 2025 07:24:27 GMT | The State of Software Supply Chain Security: Finally, a Common Standard? | Alexandre Couëdelo | [Read More](https://medium.com/p/0c0b41f4f62e) |
+| Thu, 21 Aug 2025 07:21:54 GMT | DOĞRU ROTA NASIL ÇİZİLİR | Osman berkay Ercan | [Read More](https://medium.com/p/018e3f211932) |
+| Thu, 21 Aug 2025 07:20:13 GMT | Stay connected with your loved ones more safely and warmly with SECURET Quantum Smart TV! | SAYCOIN | [Read More](https://medium.com/p/27f361e9880e) |
 | Thu, 21 Aug 2025 07:17:22 GMT | Vectra AI launches MCP Server for AI assistants in threat detection | Yulevo | [Read More](https://medium.com/p/d68ab08e56e5) |
 | Thu, 21 Aug 2025 07:16:57 GMT | QR Patrol: Real Time Guard Tour Monitoring System by PLM Group | E2E Accounting | [Read More](https://medium.com/p/55d4fcb6f1f9) |
 | Thu, 21 Aug 2025 07:04:37 GMT | Top Career Opportunities After B.Sc. in Cyber Security Hons | Tanisha Singh | [Read More](https://medium.com/p/5fcc50bee51f) |
@@ -109,7 +113,3 @@ Menggunakan tools Slowhttp | Ginda Sundara | [Read More](https://medium.com/p/b2
 | Thu, 21 Aug 2025 02:35:21 GMT | Learning to Land Softly: Join My 365-Day Peaceful Photo Challenge | Michelle A. Patrovani - M.A.P. | [Read More](https://medium.com/p/2a750cd38e9c) |
 | Thu, 21 Aug 2025 02:34:08 GMT | How I Found a Stored XSS in Markdown Rendering | CyberDucky | [Read More](https://medium.com/p/e73cfc3cd93a) |
 | Thu, 21 Aug 2025 02:33:25 GMT | Arbitrary URL Injection via Link Input Field - bug bounty writeup | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/08d87dab2011) |
-| Thu, 21 Aug 2025 02:25:42 GMT | Your Domain, My Playground: Hijacking Your Link Previews ‍ | Shubhang Borkar | [Read More](https://medium.com/p/fdca8272bb4e) |
-| Thu, 21 Aug 2025 02:05:53 GMT | Secure Authentication Techniques with NextAuth.js | @rnab | [Read More](https://medium.com/p/ccfe5fb43f92) |
-| Thu, 21 Aug 2025 02:01:32 GMT | Web Cache Poisoning via an Unkeyed Query Parameter | Bash Overflow | [Read More](https://medium.com/p/543c4016b920) |
-| Thu, 21 Aug 2025 01:47:31 GMT | 11. Error Handling & Debugging in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/abd78f586a5c) |
