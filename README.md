@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 Aug 2025 03:05:57 GMT | Blind SQL Injection in FireShare, Found in an API sort Parameter | CyberDucky | [Read More](https://medium.com/p/92cc2e6b0f1a) |
+| Thu, 21 Aug 2025 03:03:54 GMT | Analyzing the Body of Phishing Emails | Allen Ace | [Read More](https://medium.com/p/70cd64a5eaf6) |
+| Thu, 21 Aug 2025 02:58:44 GMT | Quantum Computing: Powering the Next Technological Revolution | Dukerearing | [Read More](https://medium.com/p/cf2e140fb023) |
+| Thu, 21 Aug 2025 02:50:50 GMT | # From Development to Pentesting | Nighty-Sky | [Read More](https://medium.com/p/dc58cdf398f3) |
+| Thu, 21 Aug 2025 02:44:25 GMT | Serangan DoS dan DDos 
+Menggunakan tools Slowhttp | Ginda Sundara | [Read More](https://medium.com/p/b25c5dbaef9c) |
+| Thu, 21 Aug 2025 02:43:16 GMT | HTB Walkthrough : Synced(rsync) | Ahmad Sopyan | [Read More](https://medium.com/p/a6de7d53e1da) |
+| Thu, 21 Aug 2025 02:35:21 GMT | Learning to Land Softly: Join My 365-Day Peaceful Photo Challenge | Michelle A. Patrovani - M.A.P. | [Read More](https://medium.com/p/2a750cd38e9c) |
+| Thu, 21 Aug 2025 02:34:08 GMT | How I Found a Stored XSS in Markdown Rendering | CyberDucky | [Read More](https://medium.com/p/e73cfc3cd93a) |
+| Thu, 21 Aug 2025 02:33:25 GMT | Arbitrary URL Injection via Link Input Field - bug bounty writeup | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/08d87dab2011) |
+| Thu, 21 Aug 2025 02:25:42 GMT | Your Domain, My Playground: Hijacking Your Link Previews ‍ | Shubhang Borkar | [Read More](https://medium.com/p/fdca8272bb4e) |
+| Thu, 21 Aug 2025 02:05:53 GMT | Secure Authentication Techniques with NextAuth.js | @rnab | [Read More](https://medium.com/p/ccfe5fb43f92) |
+| Thu, 21 Aug 2025 02:01:32 GMT | Web Cache Poisoning via an Unkeyed Query Parameter | Bash Overflow | [Read More](https://medium.com/p/543c4016b920) |
+| Thu, 21 Aug 2025 01:47:31 GMT | 11. Error Handling & Debugging in Flutter | Radhey Shyam Jat | [Read More](https://medium.com/p/abd78f586a5c) |
+| Thu, 21 Aug 2025 01:45:05 GMT | Day 85: TTY | Nile Okomo | [Read More](https://medium.com/p/a581896f7a50) |
 | Thu, 21 Aug 2025 01:35:37 GMT | Vulnerability Assessment with Nessus Essentials | Salmaan Ahmed Mustapha | [Read More](https://medium.com/p/86b3a94457e1) |
 | Thu, 21 Aug 2025 01:17:10 GMT | NFS Setup Tool v1.0 | BnHany | [Read More](https://medium.com/p/ada93d5d09d7) |
 | Thu, 21 Aug 2025 01:01:32 GMT | Hunting APT29’s Hidden Highway: A SIGMA Detection Rule for Named Pipe Backdoors | Manish Rawat | [Read More](https://medium.com/p/e0b57eed6a1b) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 Aug 2025 16:59:42 GMT | Acoustic Side-Channel Attacks: When Hackers Can Hear Your Secrets | Akshay Chauhan | [Read More](https://medium.com/p/24b8240d8dca) |
 | Wed, 20 Aug 2025 16:46:56 GMT | Understanding the OWASP Top 10: Real-Life Lessons in Web Security | Meinam Sanjana Devi | [Read More](https://medium.com/p/3a30d692bc73) |
 | Wed, 20 Aug 2025 16:43:01 GMT | What exactly is the Dark Web? | James N | [Read More](https://medium.com/p/e8b818fc16aa) |
-| Wed, 20 Aug 2025 16:42:27 GMT | From Nmap to Real-Time Internet Maps with IVRE: A Step-by-Step Playbook | Very Lazy Tech | [Read More](https://medium.com/p/21c7c782cca8) |
-| Wed, 20 Aug 2025 16:38:28 GMT | The Dark Web Markets Where Your Data Is Sold — And How to Remove It | Sneha Rani | [Read More](https://medium.com/p/3f4d22297275) |
-| Wed, 20 Aug 2025 16:38:25 GMT | AI till 2027 | Reebapatel | [Read More](https://medium.com/p/d77c66d1675b) |
-| Wed, 20 Aug 2025 16:29:59 GMT | XenoRAT malware campaign hits multiple embassies in South Korea | Welsh | [Read More](https://medium.com/p/92e4048adb70) |
-| Wed, 20 Aug 2025 16:27:39 GMT | In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network | Welsh | [Read More](https://medium.com/p/5092891270c6) |
-| Wed, 20 Aug 2025 16:26:32 GMT | A Few Clicks Is All It Takes | Olodudeibukun | [Read More](https://medium.com/p/d40b92b869b8) |
-| Wed, 20 Aug 2025 16:26:07 GMT | Finding Your First High Severity Bug | Rehan Sohail | [Read More](https://medium.com/p/535b4631517b) |
-| Wed, 20 Aug 2025 16:25:06 GMT | The Modern Playbook for Data Protection: Lessons from PCI DSS v4.0 | Wiran Larbi | [Read More](https://medium.com/p/a51ad0cd4f1f) |
-| Wed, 20 Aug 2025 16:21:33 GMT | TryHackMe - AD Tier Model - WriteUp | Axoloth | [Read More](https://medium.com/p/1377e7718453) |
-| Wed, 20 Aug 2025 16:20:20 GMT | Exploits —Vulnerabilities —  Chains those are being Catastrophic…… | _Anirudh_ | [Read More](https://medium.com/p/116178deeeb3) |
-| Wed, 20 Aug 2025 16:17:50 GMT | Biological Computing and the Coming Disruption of AI | Carlo Tortora-Brayda Di Belvedere | [Read More](https://medium.com/p/bf32f74f0fb5) |
-| Wed, 20 Aug 2025 16:17:19 GMT | When My WhatsApp Was Hijacked Overnight: SIM Swapping | Shahzaib | [Read More](https://medium.com/p/58e35f38463e) |
-| Wed, 20 Aug 2025 16:12:36 GMT | TryHackMe - Offensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/6b6be81a3c85) |
-| Wed, 20 Aug 2025 16:11:59 GMT | How Learning Cybersecurity Made Me Think Differently About Risk | Aj | [Read More](https://medium.com/p/545cf798ec17) |
