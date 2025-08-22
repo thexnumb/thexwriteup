@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 05:31:57 GMT | The Evolving Ransomware Threat Landscape: What You Must Know in 2024–2025 | NizzCorp Academy | [Read More](https://medium.com/p/bf73d231099f) |
+| Fri, 22 Aug 2025 05:30:07 GMT | Why I Finally Installed a 360 WiFi CCTV (And Why You Might Want To, Too) | Simple Tech Unbox | [Read More](https://medium.com/p/984f6145b680) |
+| Fri, 22 Aug 2025 05:28:35 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/232181b4dac7) |
+| Fri, 22 Aug 2025 05:27:50 GMT | What Makes Us Different from Other IT Companies | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/094d399eaed7) |
+| Fri, 22 Aug 2025 05:23:22 GMT | Real-World APT Case Analysis | Suhail PM | [Read More](https://medium.com/p/e5b50cca075b) |
+| Fri, 22 Aug 2025 05:19:46 GMT | Emerging Threats in 2025: What to Look For | Suhail PM | [Read More](https://medium.com/p/dff840c69edf) |
 | Fri, 22 Aug 2025 05:02:52 GMT | Top 5 Open Source Threat Hunting Tools You’ll Actually Want to Use | jabar | [Read More](https://medium.com/p/9b253b8bd2ce) |
 | Fri, 22 Aug 2025 05:00:23 GMT | Step-by-Step: Exploiting LFI to Gain Shell Access (CTF Walkthrough) | Aj | [Read More](https://medium.com/p/acc9d4c2858c) |
 | Fri, 22 Aug 2025 04:59:04 GMT | The Hidden Danger of OAuth: How One Missing Parameter Can Destroy Your Authentication System | Zubair Usman | [Read More](https://medium.com/p/8fea37799bee) |
+| Fri, 22 Aug 2025 04:56:39 GMT | ประจำวันศุกร์ที่ 22 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/941cd30c8c9a) |
 | Fri, 22 Aug 2025 04:56:31 GMT | Will AI Replace Hackers or Make Them Stronger? | Aj | [Read More](https://medium.com/p/3aaa6160bd38) |
 | Fri, 22 Aug 2025 04:46:31 GMT | Being vulnerably yourself is beautiful! | Madhuri Maharana | [Read More](https://medium.com/p/0f4581d5fbef) |
 | Fri, 22 Aug 2025 04:21:30 GMT | How My Hometown Shaped My Views on Community and Safety | Paschal Ogana | [Read More](https://medium.com/p/90e492947a5f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 21:24:05 GMT | Spring Security’s SecurityFilterChain Explained Like You’re Hiring Bouncers for a Nightclub | Amir Golmoradi | [Read More](https://medium.com/p/c90399dfe9d0) |
 | Thu, 21 Aug 2025 21:20:39 GMT | Wait While I Wipe Your Wheels | Tony Mulvahil | [Read More](https://medium.com/p/412a5ccb6879) |
 | Thu, 21 Aug 2025 21:19:43 GMT | How to Set Up a MariaDB Galera Cluster (Step-by-Step Guide) | Ankit Gupta | [Read More](https://medium.com/p/e16669d6b9ce) |
-| Thu, 21 Aug 2025 21:13:13 GMT | CatReloaded 2025 CTF Web writeup | Karim | [Read More](https://medium.com/p/4d692010c882) |
-| Thu, 21 Aug 2025 20:54:51 GMT | ITAD Is Broken. Here’s the Framework That Fixes It | Kyle Marks | [Read More](https://medium.com/p/513d59976841) |
-| Thu, 21 Aug 2025 20:54:42 GMT | Driving Business Growth with IT Infrastructure Services | Techminds Group | [Read More](https://medium.com/p/6d716c64ca0e) |
-| Thu, 21 Aug 2025 20:52:13 GMT | A hands-on introduction to the Linux command line: Part 3 — Managing files like a pro: Archiving… | Ekene Ejike | [Read More](https://medium.com/p/a68271178a94) |
-| Thu, 21 Aug 2025 20:37:51 GMT | Nimbus SOC: an end-to-end, evidence-backed detection lab on AWS | Jordan Bray | [Read More](https://medium.com/p/2e209ecf4191) |
-| Thu, 21 Aug 2025 20:37:30 GMT | Command and Control Server Powered by AI | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b58bc28f945a) |
-| Thu, 21 Aug 2025 20:33:08 GMT | The Hidden Cost of “Saving Money”: How Aging IT Infrastructure Destroys Business Value | Josh Welch | [Read More](https://medium.com/p/2592f945b378) |
