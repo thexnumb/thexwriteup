@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 23:29:15 GMT | Analyzing AI in Cybersecurity That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/ca39e271c509) |
+| Fri, 22 Aug 2025 23:27:32 GMT | Analyzing AI in Cybersecurity Step by Step | Cyber Security Research | [Read More](https://medium.com/p/60213d9f30bd) |
+| Fri, 22 Aug 2025 23:25:37 GMT | Advancing Zero Trust Security in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/1d3e61599dcc) |
+| Fri, 22 Aug 2025 23:25:19 GMT | Nibbles — HackTheBox Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/d59ed3b3fa36) |
+| Fri, 22 Aug 2025 23:22:55 GMT | Shadow Workers and Drug-Test Scams: How Employment Fraud Exploits System Gaps | Internet Exposed | [Read More](https://medium.com/p/f0189366299c) |
+| Fri, 22 Aug 2025 23:22:42 GMT | Hackers Don’t Need Zero-Days. They Just Need Your Password. | Cyber-AppSec | [Read More](https://medium.com/p/330a3399dbe0) |
 | Fri, 22 Aug 2025 23:02:51 GMT | A guide to Network Security tools, Part 1: Reconnaissance & Enumeration | Ekene Ejike | [Read More](https://medium.com/p/aa4457abc648) |
 | Fri, 22 Aug 2025 22:52:29 GMT | Smart Home Security Starter Pack: Why a Video Doorbell Camera Should Be First | Dmitriy Lyubarskiy | [Read More](https://medium.com/p/70a6c7b7133b) |
 | Fri, 22 Aug 2025 22:51:54 GMT | Regarding the Woman in the Mirror | Contagious Vulnerability | [Read More](https://medium.com/p/3ca0278c3c96) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 17:02:30 GMT | Cyber Attacks,Crime and AI flaws….. | _Anirudh_ | [Read More](https://medium.com/p/e7152ab54636) |
 | Fri, 22 Aug 2025 16:59:20 GMT | MY JOURNEY INTO TECH (CYBERSECURITY) | ESHIET ANIEDI FRIDAY | [Read More](https://medium.com/p/a48f43e15865) |
 | Fri, 22 Aug 2025 16:52:48 GMT | TryHackMe GitLab CVE-2023–7028 | Mainekhacker | [Read More](https://medium.com/p/d258ae9ea6e0) |
-| Fri, 22 Aug 2025 16:51:11 GMT | Predictive Drive Monitoring for Data Protection | ULINK DA Drive Analyzer | [Read More](https://medium.com/p/2f6bfd19cc39) |
-| Fri, 22 Aug 2025 16:46:59 GMT | Meta: When Tech Titans Dance | Mohammed Brückner | [Read More](https://medium.com/p/d5e816e7f083) |
-| Fri, 22 Aug 2025 16:44:35 GMT | Cyber Snack Day -10 | Anwar_Nainar | [Read More](https://medium.com/p/6ed3c55f35a1) |
-| Fri, 22 Aug 2025 16:40:16 GMT | Huawei Switch Temel Kurulum Rehberi (Sıfırdan Başlayanlar İçin) | Emre Koç | [Read More](https://medium.com/p/18092a036094) |
-| Fri, 22 Aug 2025 16:36:50 GMT | A Simple Supply Chain Bug — Worth $11,850 — How GitLab Reinforces Trust in Open Source | Justas_b | [Read More](https://medium.com/p/424585c79074) |
-| Fri, 22 Aug 2025 16:34:48 GMT | Cybersecurity News Review — Week 34 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/12c30ac1dcd9) |
