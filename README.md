@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 18:45:33 GMT | Seen | Mark Donelson | [Read More](https://medium.com/p/05daa2d2e2f9) |
+| Fri, 22 Aug 2025 18:44:11 GMT | Work-Life Balance: The Real Wealth We Often Overlook | Chethan H | [Read More](https://medium.com/p/070207131960) |
+| Fri, 22 Aug 2025 18:40:29 GMT | The Difference Between Malvertising and Adware | Ai Writter Tools | [Read More](https://medium.com/p/0a180b653010) |
+| Fri, 22 Aug 2025 18:38:41 GMT | My eJPT Exam Experience And Preparation 2025 | Pranav Patil | [Read More](https://medium.com/p/51fe27a5de79) |
+| Fri, 22 Aug 2025 18:35:02 GMT | Identifying Fake Online Stores | Ai Writter Tools | [Read More](https://medium.com/p/f4d4f760a5c1) |
+| Fri, 22 Aug 2025 18:28:12 GMT | CVE-2025–48432 - Django- Potansiyel Log Enjeksiyonu | Yunus Olçar | [Read More](https://medium.com/p/4379b2a83e05) |
+| Fri, 22 Aug 2025 18:25:36 GMT | Interdependence, Co-dependence, Independence: Finding the Balance | Words Between Worlds | [Read More](https://medium.com/p/5fc61cc4519a) |
+| Fri, 22 Aug 2025 18:24:07 GMT | Systems as Attack Vectors Writeup | Welsh | [Read More](https://medium.com/p/7cbeb0630cf4) |
 | Fri, 22 Aug 2025 18:23:33 GMT | Mobile Malware: A Look at the Threats on Android and iOS | Samina Perveen | [Read More](https://medium.com/p/c570379f04d8) |
 | Fri, 22 Aug 2025 18:21:30 GMT | How I Got Hacked: Lessons Every Professional Should Know | Cyberkech | [Read More](https://medium.com/p/c0dfadd49d4b) |
+| Fri, 22 Aug 2025 18:16:55 GMT | SQL Injection in Anthropic’s Postgres MCP Server: A Technical Vulnerability Case Study | Rajesh Mondal | [Read More](https://medium.com/p/2bd2ad4ce57d) |
 | Fri, 22 Aug 2025 18:15:45 GMT | Flash Loan Attacks: Breaking Solidity Smart Contracts | vishhxyz | [Read More](https://medium.com/p/14f2349f4b8f) |
 | Fri, 22 Aug 2025 18:15:33 GMT | How Spy Apps for Monitoring Cell Phone Ensure the Safety of Your Loved Ones | Narjis Batool | [Read More](https://medium.com/p/6950560b1066) |
 | Fri, 22 Aug 2025 18:14:14 GMT | Subdomain Takeover: Beyond Basics (From a Bug Bounty Hunter’s Perspective) | sukhveer singh | [Read More](https://medium.com/p/8a7ec892ff14) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 13:53:14 GMT | The Imposter Syndrome: A Hacker’s Toughest Battle | Ahmad Reza Aivazi | [Read More](https://medium.com/p/71c0d04fe2e4) |
 | Fri, 22 Aug 2025 13:51:13 GMT | Never Google ‘How to Install X on Linux’ Again: Package Manager Magic Explained | MayhemCode | [Read More](https://medium.com/p/fa89a9bedf6b) |
 | Fri, 22 Aug 2025 13:50:58 GMT | Make.com vs Sola.ai: Which One is Better for Productivity and Workflow Automation? | Pradeep Chaudhary | [Read More](https://medium.com/p/6e22be2baa41) |
-| Fri, 22 Aug 2025 13:49:45 GMT | How AI is Transforming Mental Health Care for Breast Cancer Patients | tkxel | [Read More](https://medium.com/p/4e1974548470) |
-| Fri, 22 Aug 2025 13:39:52 GMT | ️ What is Cursor? And Why Did It Have Security Vulnerabilities? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/db1a2c7f8ff4) |
-| Fri, 22 Aug 2025 13:37:35 GMT | Game Overlay Exploit Development Part 1: PoC Breakdown | Mirage InfoSec | [Read More](https://medium.com/p/8c8137d3d265) |
-| Fri, 22 Aug 2025 13:34:13 GMT | How I passed the AWS Security Specialty exam | Ahmed Srebrenica | [Read More](https://medium.com/p/667035a38a73) |
-| Fri, 22 Aug 2025 13:34:04 GMT | Deploying Microsoft 365 with Intune: Complete Beginner’s Guide | Amina Moallim | [Read More](https://medium.com/p/72628ca9252f) |
-| Fri, 22 Aug 2025 13:33:46 GMT | Top Cyber Security Services Providers in Australia (2025 Guide) | vGics Global LLP | [Read More](https://medium.com/p/3ddadf2ea7ec) |
-| Fri, 22 Aug 2025 13:32:00 GMT | HTB Malware Skills Assessment | Luke | [Read More](https://medium.com/p/c62721f543e8) |
-| Fri, 22 Aug 2025 13:32:00 GMT | AI in Cybersecurity: How Business Leaders Can Stay Ahead of Smart Threats | Tech Caps | [Read More](https://medium.com/p/a3970e2a0617) |
-| Fri, 22 Aug 2025 13:32:00 GMT | Why Humans Are Still the Weakest Link in Cybersecurity — And How to Fix It. | Faris Afdhil Fawwaz | [Read More](https://medium.com/p/b6dc160666b5) |
