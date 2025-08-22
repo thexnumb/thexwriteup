@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 06:25:48 GMT | E-Commerce and Data Warfare: Countering Credential Stuffing Attacks on Online Shopping Platforms | Sydeco Indonesia | [Read More](https://medium.com/p/7ecbd9a67e00) |
+| Fri, 22 Aug 2025 06:20:56 GMT | Day 7:- Protocols & Ports — The Gateways of Network Communication | Prutha_Dongre | [Read More](https://medium.com/p/3daf778218f3) |
+| Fri, 22 Aug 2025 06:15:53 GMT | Understanding Classic Load Balancer (CLB) in AWS: Securely Routing Traffic to EC2 Instances | Lalit Kumar | [Read More](https://medium.com/p/6872814867ac) |
+| Fri, 22 Aug 2025 06:15:17 GMT | DNS Zone Transfer | Mohitsuri | [Read More](https://medium.com/p/b93e7765aa72) |
+| Fri, 22 Aug 2025 06:09:44 GMT | How to Set Up Passkey Authentication in FraudLabs Pro | Fraudlabs Pro | [Read More](https://medium.com/p/cc3e52a8f680) |
+| Fri, 22 Aug 2025 06:01:10 GMT | “How do you show emotional vulnerability?” | Miss Matchmaker AFA - Thailand | [Read More](https://medium.com/p/dbb0599d88cf) |
+| Fri, 22 Aug 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Aug 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/ebe1881fe7f4) |
+| Fri, 22 Aug 2025 05:56:45 GMT | DOM-Based Extension Clickjacking: The One-Click Attack on Password Managers | Ashley Dai | [Read More](https://medium.com/p/d99124856150) |
+| Fri, 22 Aug 2025 05:40:02 GMT | Automating Airdrop Campaigns with Drosera: A Simple Guide for Everyone | Habeeb Adeyinka | [Read More](https://medium.com/p/cabaa8da1cdd) |
+| Fri, 22 Aug 2025 05:38:47 GMT | ⚠️ Apple Rushes Patch for Critical 0-Day Vulnerability Under Active Exploitation | Rue | [Read More](https://medium.com/p/67fb8a0cd044) |
 | Fri, 22 Aug 2025 05:31:57 GMT | The Evolving Ransomware Threat Landscape: What You Must Know in 2024–2025 | NizzCorp Academy | [Read More](https://medium.com/p/bf73d231099f) |
 | Fri, 22 Aug 2025 05:30:07 GMT | Why I Finally Installed a 360 WiFi CCTV (And Why You Might Want To, Too) | Simple Tech Unbox | [Read More](https://medium.com/p/984f6145b680) |
 | Fri, 22 Aug 2025 05:28:35 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/232181b4dac7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 21:55:09 GMT | Advancing Vulnerability Assessment Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/dc171a509a71) |
 | Thu, 21 Aug 2025 21:53:21 GMT | Advancing Threat Intelligence with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/f6cb2ec606ee) |
 | Thu, 21 Aug 2025 21:51:28 GMT | Advancing Threat Intelligence in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/2f21ad7ee0ef) |
-| Thu, 21 Aug 2025 21:48:33 GMT | CNA to CCNA: Part 1 | Macoy Gehrke | [Read More](https://medium.com/p/2bb143e44d5d) |
-| Thu, 21 Aug 2025 21:45:29 GMT | Why Zero Trust is the Future of Cloud Infrastructure Security | Techridge Solutions | [Read More](https://medium.com/p/0e733bd4e863) |
-| Thu, 21 Aug 2025 21:43:04 GMT | PG Practice — Ochima (Linux) | Lepton | [Read More](https://medium.com/p/c669b1ab5f63) |
-| Thu, 21 Aug 2025 21:42:41 GMT | PG Practice — Codo (Linux) | Lepton | [Read More](https://medium.com/p/3679ce503230) |
-| Thu, 21 Aug 2025 21:31:19 GMT | How a 'Beautiful Stranger' Online Almost Ruined My Life | jian wang | [Read More](https://medium.com/p/ece440a1ebf6) |
-| Thu, 21 Aug 2025 21:27:43 GMT | Linux Privilege Escalation for Beginners Part 9: Escalation via “CVE 2025–32463” “Sudo chroot 1.9.17 | Muhammadhuzaifa | [Read More](https://medium.com/p/410d8904f910) |
-| Thu, 21 Aug 2025 21:24:25 GMT | What is a CSRF attack? | Amr Loksha | [Read More](https://medium.com/p/89f67ea5d4b1) |
-| Thu, 21 Aug 2025 21:24:05 GMT | Spring Security’s SecurityFilterChain Explained Like You’re Hiring Bouncers for a Nightclub | Amir Golmoradi | [Read More](https://medium.com/p/c90399dfe9d0) |
-| Thu, 21 Aug 2025 21:20:39 GMT | Wait While I Wipe Your Wheels | Tony Mulvahil | [Read More](https://medium.com/p/412a5ccb6879) |
-| Thu, 21 Aug 2025 21:19:43 GMT | How to Set Up a MariaDB Galera Cluster (Step-by-Step Guide) | Ankit Gupta | [Read More](https://medium.com/p/e16669d6b9ce) |
