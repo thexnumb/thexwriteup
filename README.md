@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 07:15:42 GMT | What have I been doing lately? | Rabia Riaz | [Read More](https://medium.com/p/713fd81b1018) |
+| Fri, 22 Aug 2025 07:07:04 GMT | YDT Hack Explained — Step by Step | 0xjustuzair | [Read More](https://medium.com/p/7ca030237281) |
+| Fri, 22 Aug 2025 07:01:53 GMT | A Mobile Surveillance Unit Protects Your Car Dealership Before It’s Too Late | IVIS Security | [Read More](https://medium.com/p/39696a15e2cc) |
+| Fri, 22 Aug 2025 07:01:31 GMT | Human as Attack Vectors - THM | Welsh | [Read More](https://medium.com/p/223798c5a989) |
+| Fri, 22 Aug 2025 06:56:58 GMT | Breaching the Compiler’s Fortress: A DistCC Daemon Infiltration Chronicle | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/caa55db30607) |
+| Fri, 22 Aug 2025 06:46:21 GMT | Safety Elevated: Why Choosing the Right Hardware for Your Doors and Windows Matters | Ivaan Fenster Solutions | [Read More](https://medium.com/p/876c91417c11) |
+| Fri, 22 Aug 2025 06:45:41 GMT | Warning: New Scam Targeting Web3 Developers (nowsync.app) | Bogdoslav | [Read More](https://medium.com/p/e5e4dac76a01) |
+| Fri, 22 Aug 2025 06:43:20 GMT | Instagram, Consent & AI Training: What You Need to Know | Nivas Kanniah | [Read More](https://medium.com/p/bb735c3bf49c) |
+| Fri, 22 Aug 2025 06:38:10 GMT | Whale Wallet 해킹 사건 분석: 피싱 공격으로 인한 $71M 규모의 WBTC 탈취 | 클로인트 가상자산 정보분석 센터(CIC) | [Read More](https://medium.com/p/8b4b207ddcdf) |
+| Fri, 22 Aug 2025 06:36:43 GMT | How SafeLine WAF Blocks Automated API Calls Using User-Agent Rules | AerieWhole123 | [Read More](https://medium.com/p/38fdf133b5f3) |
+| Fri, 22 Aug 2025 06:36:08 GMT | Advancing Vulnerability Assessment in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/8d003bd3329b) |
+| Fri, 22 Aug 2025 06:35:20 GMT | How Teams Build Secure Applications | Taulan Zauzanov | [Read More](https://medium.com/p/c51231271a9d) |
+| Fri, 22 Aug 2025 06:34:14 GMT | Advancing Vulnerability Assessment in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/27079cfa0e91) |
+| Fri, 22 Aug 2025 06:32:31 GMT | Advancing Vulnerability Assessment for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/75d2e0566a1f) |
+| Fri, 22 Aug 2025 06:30:47 GMT | Advancing Vulnerability Assessment for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/3f630be5013f) |
+| Fri, 22 Aug 2025 06:27:06 GMT | Advancing Vulnerability Assessment for Organizations | Cyber Security Research | [Read More](https://medium.com/p/e0a7e175e8f6) |
 | Fri, 22 Aug 2025 06:25:48 GMT | E-Commerce and Data Warfare: Countering Credential Stuffing Attacks on Online Shopping Platforms | Sydeco Indonesia | [Read More](https://medium.com/p/7ecbd9a67e00) |
 | Fri, 22 Aug 2025 06:20:56 GMT | Day 7:- Protocols & Ports — The Gateways of Network Communication | Prutha_Dongre | [Read More](https://medium.com/p/3daf778218f3) |
 | Fri, 22 Aug 2025 06:15:53 GMT | Understanding Classic Load Balancer (CLB) in AWS: Securely Routing Traffic to EC2 Instances | Lalit Kumar | [Read More](https://medium.com/p/6872814867ac) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 22:37:29 GMT | K2-MIDDLE CAMP WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/aa23b08c3cff) |
 | Thu, 21 Aug 2025 22:35:18 GMT | 5 Ways SocialBox.Biz’s Secure IT Reuse Boosts Your ESG Goals | laptops donations before recycling in london-uk | [Read More](https://medium.com/p/43458906215e) |
 | Thu, 21 Aug 2025 22:33:15 GMT | CyberDefenders — Brave Lab | jon | [Read More](https://medium.com/p/b5990c439360) |
-| Thu, 21 Aug 2025 22:32:05 GMT | The First Cross-Chain Protocol Built With Security First. | 0x_dynamo ( ) | [Read More](https://medium.com/p/3f7fee8f7af3) |
-| Thu, 21 Aug 2025 22:31:33 GMT | K2-BASE CAMP WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/0e62b5c8c4de) |
-| Thu, 21 Aug 2025 22:24:37 GMT | CAT Reloaded CTF — CATF 2025  — DFIR Challenges | Loay Salah | [Read More](https://medium.com/p/ff403f100504) |
-| Thu, 21 Aug 2025 22:14:57 GMT | The 1% of Security Settings That Block 99% of Attacks | Cyber-AppSec | [Read More](https://medium.com/p/2ea2dfecd08a) |
-| Thu, 21 Aug 2025 22:09:23 GMT | HTTP Host header attacks | Usama Hanif | [Read More](https://medium.com/p/7a72e3942b20) |
-| Thu, 21 Aug 2025 22:08:52 GMT | How to Deploy Your Express Backend to Vercel in 5 Minutes | Faith Njah | [Read More](https://medium.com/p/16317b2e9a69) |
-| Thu, 21 Aug 2025 22:05:52 GMT | Advancing Vulnerability Assessment for Beginners | Cyber Security Research | [Read More](https://medium.com/p/7dbb790ea5af) |
-| Thu, 21 Aug 2025 22:04:06 GMT | Advancing Vulnerability Assessment and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/daac301e1119) |
-| Thu, 21 Aug 2025 22:02:19 GMT | Advancing Vulnerability Assessment and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/368078c75b02) |
-| Thu, 21 Aug 2025 22:01:54 GMT | Cap: HackTheBox Retired Machine | Bridget | [Read More](https://medium.com/p/e50b2698b051) |
-| Thu, 21 Aug 2025 22:00:31 GMT | Advancing Vulnerability Assessment and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/0a870e8f51ac) |
-| Thu, 21 Aug 2025 21:58:43 GMT | Advancing Vulnerability Assessment That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/509b55d85b91) |
-| Thu, 21 Aug 2025 21:56:55 GMT | Advancing Vulnerability Assessment Step by Step | Cyber Security Research | [Read More](https://medium.com/p/176e9e41b277) |
-| Thu, 21 Aug 2025 21:55:09 GMT | Advancing Vulnerability Assessment Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/dc171a509a71) |
-| Thu, 21 Aug 2025 21:53:21 GMT | Advancing Threat Intelligence with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/f6cb2ec606ee) |
-| Thu, 21 Aug 2025 21:51:28 GMT | Advancing Threat Intelligence in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/2f21ad7ee0ef) |
