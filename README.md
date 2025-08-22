@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 11:17:19 GMT | Types of Solar Panels: Monocrystalline vs. Polycrystalline vs. Bifacial | Sun Photonics | [Read More](https://medium.com/p/2ba53c54e597) |
+| Fri, 22 Aug 2025 11:15:36 GMT | Imaging 101: Hash‑Verified Acquisition Without Contaminating Evidence | Rahul Prasad | [Read More](https://medium.com/p/363a3c27961f) |
+| Fri, 22 Aug 2025 11:11:30 GMT | Understanding Backdoor Attacks in AI Systems | Brittney Ginther | [Read More](https://medium.com/p/a69a3865d0f6) |
+| Fri, 22 Aug 2025 11:11:23 GMT | Ddex-defiwallet.com Crypto Scam: How I Got Trapped and Managed to Recover Funds | Admin | [Read More](https://medium.com/p/3bd68444ac9b) |
+| Fri, 22 Aug 2025 11:11:20 GMT | Saudi Aramco: Powering Saudi Arabia’s Future with Energy, Innovation, and Security | Hitechfence | [Read More](https://medium.com/p/87e4b2364619) |
+| Fri, 22 Aug 2025 11:06:09 GMT | Easyplatform-ground.com Scam Review: How I Recovered From a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/bb811494ed91) |
+| Fri, 22 Aug 2025 11:02:11 GMT | Simpleminers.com Crypto Scam: A Fake AI Trading Service That Trapped Me | Admin | [Read More](https://medium.com/p/cdd331fab884) |
+| Fri, 22 Aug 2025 11:01:32 GMT | Third-Party Risk: Catch Vendor Credential Leaks Before They Hit You | Alexandre Vandamme | [Read More](https://medium.com/p/23e1c675c5f1) |
+| Fri, 22 Aug 2025 11:00:38 GMT | Beyond Security: Integrating Safety and Style with Bollard Poles in UAE Landscapes | Fyind UAE | [Read More](https://medium.com/p/b699ef61fa84) |
+| Fri, 22 Aug 2025 10:55:47 GMT | Grok Chats Indexed by Google: The Data Leak Nobody Asked For | Swetlana AI | [Read More](https://medium.com/p/4c21f5a0966a) |
+| Fri, 22 Aug 2025 10:54:02 GMT | Redefining Data Security: How HITRUST Expands Beyond Healthcare | Ampcus Cyber | [Read More](https://medium.com/p/248ae200c2dd) |
+| Fri, 22 Aug 2025 10:53:50 GMT | When Deleted Isn’t Really Deleted: Access Control Gaps in Google Drive | Wilsgame | [Read More](https://medium.com/p/b86d11c2bd50) |
+| Fri, 22 Aug 2025 10:53:48 GMT | Server Load Balancing: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/849ca27d7c3c) |
+| Fri, 22 Aug 2025 10:51:50 GMT | The Untold Challenges of Building Multilingual Apps (That Nobody Warns You About) | Cogntix Blog | [Read More](https://medium.com/p/f5c25d1bc16f) |
+| Fri, 22 Aug 2025 10:51:32 GMT | Mastering Wireshark: From Basics to Advanced Packet Operations | Dhruvish Rathod | [Read More](https://medium.com/p/32fd68f712fa) |
+| Fri, 22 Aug 2025 10:47:56 GMT | -      … | Qasim Mahmood Khalid | [Read More](https://medium.com/p/747eb30b6bb0) |
+| Fri, 22 Aug 2025 10:46:05 GMT | AWS CDK Blueprints vs Custom Constructs vs Aspects | Serverless Advocate | [Read More](https://medium.com/p/164304251e68) |
+| Fri, 22 Aug 2025 10:43:35 GMT | Upgrade Your Drive with a 360 Degree Camera for Car | Cg Rdoverseas | [Read More](https://medium.com/p/5a72e014953f) |
 | Fri, 22 Aug 2025 10:35:53 GMT | Infinite Loops, Infinite Loot: Exploiting an Overlooked API Rate Limit for Full Account Takeover | Iski | [Read More](https://medium.com/p/b14070e1cd5e) |
 | Fri, 22 Aug 2025 10:33:57 GMT | DockerLabs Writeup — Crackoff (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d24428852a41) |
 | Fri, 22 Aug 2025 10:28:50 GMT | Ekudoos.com Scam Exposed: The Truth About This Fake Crypto Platform | Admin | [Read More](https://medium.com/p/b062ccb963ea) |
@@ -95,21 +113,3 @@ This report details the… | Krutik Raut | [Read More](https://medium.com/p/911e
 | Fri, 22 Aug 2025 06:38:10 GMT | Whale Wallet 해킹 사건 분석: 피싱 공격으로 인한 $71M 규모의 WBTC 탈취 | 클로인트 가상자산 정보분석 센터(CIC) | [Read More](https://medium.com/p/8b4b207ddcdf) |
 | Fri, 22 Aug 2025 06:36:43 GMT | How SafeLine WAF Blocks Automated API Calls Using User-Agent Rules | AerieWhole123 | [Read More](https://medium.com/p/38fdf133b5f3) |
 | Fri, 22 Aug 2025 06:36:08 GMT | Advancing Vulnerability Assessment in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/8d003bd3329b) |
-| Fri, 22 Aug 2025 06:35:20 GMT | How Teams Build Secure Applications | Taulan Zauzanov | [Read More](https://medium.com/p/c51231271a9d) |
-| Fri, 22 Aug 2025 06:34:14 GMT | Advancing Vulnerability Assessment in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/27079cfa0e91) |
-| Fri, 22 Aug 2025 06:32:31 GMT | Advancing Vulnerability Assessment for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/75d2e0566a1f) |
-| Fri, 22 Aug 2025 06:30:47 GMT | Advancing Vulnerability Assessment for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/3f630be5013f) |
-| Fri, 22 Aug 2025 06:27:06 GMT | Advancing Vulnerability Assessment for Organizations | Cyber Security Research | [Read More](https://medium.com/p/e0a7e175e8f6) |
-| Fri, 22 Aug 2025 06:25:48 GMT | E-Commerce and Data Warfare: Countering Credential Stuffing Attacks on Online Shopping Platforms | Sydeco Indonesia | [Read More](https://medium.com/p/7ecbd9a67e00) |
-| Fri, 22 Aug 2025 06:20:56 GMT | Day 7:- Protocols & Ports — The Gateways of Network Communication | Prutha_Dongre | [Read More](https://medium.com/p/3daf778218f3) |
-| Fri, 22 Aug 2025 06:15:53 GMT | Understanding Classic Load Balancer (CLB) in AWS: Securely Routing Traffic to EC2 Instances | Lalit Kumar | [Read More](https://medium.com/p/6872814867ac) |
-| Fri, 22 Aug 2025 06:15:17 GMT | DNS Zone Transfer | Mohitsuri | [Read More](https://medium.com/p/b93e7765aa72) |
-| Fri, 22 Aug 2025 06:09:44 GMT | How to Set Up Passkey Authentication in FraudLabs Pro | Fraudlabs Pro | [Read More](https://medium.com/p/cc3e52a8f680) |
-| Fri, 22 Aug 2025 06:01:10 GMT | “How do you show emotional vulnerability?” | Miss Matchmaker AFA - Thailand | [Read More](https://medium.com/p/dbb0599d88cf) |
-| Fri, 22 Aug 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Aug 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/ebe1881fe7f4) |
-| Fri, 22 Aug 2025 05:56:45 GMT | DOM-Based Extension Clickjacking: The One-Click Attack on Password Managers | Ashley Dai | [Read More](https://medium.com/p/d99124856150) |
-| Fri, 22 Aug 2025 05:40:02 GMT | Automating Airdrop Campaigns with Drosera: A Simple Guide for Everyone | Habeeb Adeyinka | [Read More](https://medium.com/p/cabaa8da1cdd) |
-| Fri, 22 Aug 2025 05:38:47 GMT | ⚠️ Apple Rushes Patch for Critical 0-Day Vulnerability Under Active Exploitation | Rue | [Read More](https://medium.com/p/67fb8a0cd044) |
-| Fri, 22 Aug 2025 05:31:57 GMT | The Evolving Ransomware Threat Landscape: What You Must Know in 2024–2025 | NizzCorp Academy | [Read More](https://medium.com/p/bf73d231099f) |
-| Fri, 22 Aug 2025 05:30:07 GMT | Why I Finally Installed a 360 WiFi CCTV (And Why You Might Want To, Too) | Simple Tech Unbox | [Read More](https://medium.com/p/984f6145b680) |
-| Fri, 22 Aug 2025 05:28:35 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/232181b4dac7) |
