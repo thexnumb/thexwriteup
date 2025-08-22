@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 21:07:42 GMT | Beyond PCI and HIPAA: How Feroot Powers Gramm–Leach–Bliley Act (GLBA) Compliance | Feroot Security | [Read More](https://medium.com/p/d9a2b109a4a6) |
+| Fri, 22 Aug 2025 21:03:31 GMT | Portswigger HTTP Host Header Attacks Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/f773ffad923d) |
+| Fri, 22 Aug 2025 20:54:44 GMT | Network Security: Protecting the Highways of the Digital World | Akshay Chauhan | [Read More](https://medium.com/p/e0c8538e3b27) |
+| Fri, 22 Aug 2025 20:52:05 GMT | What is NTFS File System in Windows? | amol pawar | [Read More](https://medium.com/p/00155ac1006b) |
+| Fri, 22 Aug 2025 20:43:30 GMT | Portswigger Business logic vulnerabilities Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/b233d942e574) |
+| Fri, 22 Aug 2025 20:43:30 GMT | Reducing False Positives and Model Optimization in Machine Learning-Based UEBA Systems | Esra Kayhan | [Read More](https://medium.com/p/1c1f09b673eb) |
 | Fri, 22 Aug 2025 20:39:13 GMT | From Days to Minutes: Building DNS-Helix, a High-Speed Subdomain Discovery Tool | CypherNova1337 | [Read More](https://medium.com/p/84bf2fcc3bd9) |
+| Fri, 22 Aug 2025 20:38:24 GMT | Transforming AWS Security with Zero Trust Principles | Ngozi U.I. Uche | [Read More](https://medium.com/p/7c4889ea8e2f) |
+| Fri, 22 Aug 2025 20:37:50 GMT | The SOC Nobody Asked For | ai3ech | [Read More](https://medium.com/p/3ce6c2b0156f) |
 | Fri, 22 Aug 2025 20:35:22 GMT | Can I Be Vulnerable With You Guys? | Fidelis Kayode Fadoju | [Read More](https://medium.com/p/279ad8809531) |
 | Fri, 22 Aug 2025 20:28:09 GMT | Gobuster: The Basics THM writeup - by 2No0b4YoU | 2No0b4YoU | [Read More](https://medium.com/p/acfa6a5e9dd5) |
 | Fri, 22 Aug 2025 20:24:45 GMT | Dragon Byte — TryHackMe | HexSilent | [Read More](https://medium.com/p/8758e1fdc028) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 15:45:02 GMT | Pretty or Functional? Time to Compromise for Flowcharts | Alex Nejako | [Read More](https://medium.com/p/c5b9cb3fc6d0) |
 | Fri, 22 Aug 2025 15:44:41 GMT | Cytpe.ai Scam Exposed: The Truth About This Fake Crypto Platform | Admin | [Read More](https://medium.com/p/0d1a5c738ea3) |
 | Fri, 22 Aug 2025 15:43:10 GMT | Ichcoin.net Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/567a00b1f6aa) |
-| Fri, 22 Aug 2025 15:39:46 GMT | My Journey into Cybersecurity: From QA Tester to Aspiring Security Analyst | Lavanyara | [Read More](https://medium.com/p/faa06b673d62) |
-| Fri, 22 Aug 2025 15:39:38 GMT | Reimagining Nigeria’s Defence Innovation: Towards “Defence Production as a Service” | Abdulsalampelumi | [Read More](https://medium.com/p/260b5f3f5a98) |
-| Fri, 22 Aug 2025 15:37:31 GMT | Manual SQL Injection — A Step-by-Step Guide for Ethical Hackers | Rajkumar Kumawat | [Read More](https://medium.com/p/727c63f070f6) |
-| Fri, 22 Aug 2025 15:35:29 GMT | Cross-Tenant Identity Attacks in Microsoft 365 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/31470743538b) |
-| Fri, 22 Aug 2025 15:23:30 GMT | What is an Access Point (AP)? | Atakan Bitim | [Read More](https://medium.com/p/84e83a5bc04d) |
-| Fri, 22 Aug 2025 15:23:26 GMT | Access Point Nedir? | Atakan Bitim | [Read More](https://medium.com/p/393ba4c74ad3) |
-| Fri, 22 Aug 2025 15:14:41 GMT | How to Hack Platforms that Use “Sign in with Discord” to Hijack Your Account ( Unpatched ) | Nibeza Kevin | [Read More](https://medium.com/p/17ae31bbafad) |
-| Fri, 22 Aug 2025 15:14:23 GMT | “Day 18: The Invisible Backdoor — How a Typo in a Config File Neutralized Multi-Factor… | Aman Sharma | [Read More](https://medium.com/p/9a16ab46da65) |
