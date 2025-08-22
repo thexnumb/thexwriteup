@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 14:18:36 GMT | Manual work for $4k Bounty Akamai cant stop Information Disclosure | amnotacat | [Read More](https://medium.com/p/98ab6cc10068) |
+| Fri, 22 Aug 2025 14:07:10 GMT | The 10 Essential Cyber Security Measures Every Company Must Implement in 2025 | NimiTech Digital | [Read More](https://medium.com/p/771374114da5) |
+| Fri, 22 Aug 2025 14:06:08 GMT | Security Agent in Action: Real-Time Drone Detection and Tracking with Python | Yauheniya.AI | [Read More](https://medium.com/p/3a288f9e42b2) |
+| Fri, 22 Aug 2025 14:05:06 GMT | Automated Shellcode and Packed Files Unpacking | Emad Abedini | [Read More](https://medium.com/p/325a3c0d156d) |
+| Fri, 22 Aug 2025 14:01:32 GMT | Cyber Briefing: 2025.08.22 | CyberMaterial | [Read More](https://medium.com/p/f0e84cf54403) |
+| Fri, 22 Aug 2025 14:01:27 GMT | India Tops List of Global Malware Targets as AI-Driven Ransomware Surges | Dhruvdeep Singh | [Read More](https://medium.com/p/39ee865aa0f9) |
+| Fri, 22 Aug 2025 13:53:14 GMT | The Imposter Syndrome: A Hacker’s Toughest Battle | Ahmad Reza Aivazi | [Read More](https://medium.com/p/71c0d04fe2e4) |
+| Fri, 22 Aug 2025 13:51:13 GMT | Never Google ‘How to Install X on Linux’ Again: Package Manager Magic Explained | MayhemCode | [Read More](https://medium.com/p/fa89a9bedf6b) |
+| Fri, 22 Aug 2025 13:50:58 GMT | Make.com vs Sola.ai: Which One is Better for Productivity and Workflow Automation? | Pradeep Chaudhary | [Read More](https://medium.com/p/6e22be2baa41) |
+| Fri, 22 Aug 2025 13:49:45 GMT | How AI is Transforming Mental Health Care for Breast Cancer Patients | tkxel | [Read More](https://medium.com/p/4e1974548470) |
+| Fri, 22 Aug 2025 13:39:52 GMT | ️ What is Cursor? And Why Did It Have Security Vulnerabilities? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/db1a2c7f8ff4) |
+| Fri, 22 Aug 2025 13:37:35 GMT | Game Overlay Exploit Development Part 1: PoC Breakdown | Mirage InfoSec | [Read More](https://medium.com/p/8c8137d3d265) |
 | Fri, 22 Aug 2025 13:34:13 GMT | How I passed the AWS Security Specialty exam | Ahmed Srebrenica | [Read More](https://medium.com/p/667035a38a73) |
 | Fri, 22 Aug 2025 13:34:04 GMT | Deploying Microsoft 365 with Intune: Complete Beginner’s Guide | Amina Moallim | [Read More](https://medium.com/p/72628ca9252f) |
 | Fri, 22 Aug 2025 13:33:46 GMT | Top Cyber Security Services Providers in Australia (2025 Guide) | vGics Global LLP | [Read More](https://medium.com/p/3ddadf2ea7ec) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 09:04:30 GMT | I Clicked The Link: My Cybersecurity Facepalm | Truspex | [Read More](https://medium.com/p/89da51331b2f) |
 | Fri, 22 Aug 2025 09:03:54 GMT | Why Customers Choose Yale: Real Stories from Customers Across India | ASSA ABLOY OPENING SOLUTIONS INDIA | [Read More](https://medium.com/p/39028cb83b8c) |
 | Fri, 22 Aug 2025 09:01:36 GMT | Stop Renting Your Innovation: How AI Empowers In-House Developers | Namir Sagheenanajar | [Read More](https://medium.com/p/a48b335f07a0) |
-| Fri, 22 Aug 2025 09:00:30 GMT | MOBILE HYDRAULIC | Whyps | [Read More](https://medium.com/p/bd0b68480e64) |
-| Fri, 22 Aug 2025 08:58:11 GMT | hydraulic heat exchangers | Whyps | [Read More](https://medium.com/p/d9cfdd52b9eb) |
-| Fri, 22 Aug 2025 08:53:02 GMT | 5 Best Cybersecurity Jobs with Fat Paycheques | Rashadul Islam | [Read More](https://medium.com/p/80d8d9a44153) |
-| Fri, 22 Aug 2025 08:51:31 GMT | The Four Pillars of Enterprise Tech: How AI, Data, Cybersecurity, and Cloud Are Reshaping 2025 | Abhii Dabas | [Read More](https://medium.com/p/e1fd1cf89694) |
-| Fri, 22 Aug 2025 08:45:11 GMT | Mobius Token Exploit Postmortem: How a Proxy Misconfiguration Led to Millions Lost | count-sum | [Read More](https://medium.com/p/218572d4eb7a) |
-| Fri, 22 Aug 2025 08:44:51 GMT | Vulnerability Scanning vs. Penetration Testing: Understanding the Differences and When to Use Each | Redfox Security | [Read More](https://medium.com/p/de5cdb410b70) |
-| Fri, 22 Aug 2025 08:32:29 GMT | “Extension Confusion” Attacks: The Dangers of OpenVSX within the IDE Landscape | Michael Bocanegra | [Read More](https://medium.com/p/6f3ed00dbcfa) |
-| Fri, 22 Aug 2025 08:28:28 GMT | AI Browsers or Autonomous AI agents: An Innovative Tool or a Security Risk | Nitin Garg | [Read More](https://medium.com/p/cb2b79bf24cd) |
-| Fri, 22 Aug 2025 08:25:47 GMT | Microsoft, OpenAI, and NVIDIA Collab on Research: AI’s Unexpected Impact on Power Grid Continuity | Berend Watchus | [Read More](https://medium.com/p/3f8822deea36) |
-| Fri, 22 Aug 2025 08:23:46 GMT | HIPAA Heroes: Safeguarding Healthcare Data | Ampcus Cyber | [Read More](https://medium.com/p/83b1045e24ef) |
-| Fri, 22 Aug 2025 08:19:49 GMT | Future of Cybersecurity Jobs in India | Manisha Chaudhary | [Read More](https://medium.com/p/037513c82ef1) |
-| Fri, 22 Aug 2025 08:18:14 GMT | SOC287 — Arbitrary File Read on Checkpoint Security Gateway [CVE-2024–24919] | Muh Ari Yanto | [Read More](https://medium.com/p/a9ab79fa3997) |
