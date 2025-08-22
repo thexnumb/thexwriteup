@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 14:33:51 GMT | Managed Security Services (MSSP) Nedir? | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/5b3eed8f51f5) |
+| Fri, 22 Aug 2025 14:31:31 GMT | The Botnet Kingpin: Young Oregon Man Accused of Building a Global Cyberweapon | Dhruvdeep Singh | [Read More](https://medium.com/p/a11251144e02) |
+| Fri, 22 Aug 2025 14:29:41 GMT | Drosera stepping up to protect RWA from more exploitations. | Yuni | [Read More](https://medium.com/p/e11298e21836) |
+| Fri, 22 Aug 2025 14:24:04 GMT | CVE-2019–5475 - Command injection escalated to Reverse shell. | Santhosh duraipandiyan | [Read More](https://medium.com/p/90dd1d6fe88f) |
+| Fri, 22 Aug 2025 14:23:06 GMT | From Books to Breaches: What Cybersecurity Publications Taught Me About Real Attacks | Shahzaib | [Read More](https://medium.com/p/000514384379) |
+| Fri, 22 Aug 2025 14:22:05 GMT | How Hackers Used Fake Resumes to Hijack Our Hiring Process | Shahzaib | [Read More](https://medium.com/p/25430a204060) |
+| Fri, 22 Aug 2025 14:22:00 GMT | I Asked AI to Hack Me. The Results Were Terrifying (and Useful) | Aj | [Read More](https://medium.com/p/20e7cb7ce1de) |
+| Fri, 22 Aug 2025 14:20:44 GMT | DOC: A new attack in the age of AI | Eko Adetolani | [Read More](https://medium.com/p/0cccb4392c4d) |
+| Fri, 22 Aug 2025 14:19:48 GMT | Day 1: The Dancing Text Mystery | liquidcode | [Read More](https://medium.com/p/a44745ffc9d2) |
 | Fri, 22 Aug 2025 14:18:36 GMT | Manual work for $4k Bounty Akamai cant stop Information Disclosure | amnotacat | [Read More](https://medium.com/p/98ab6cc10068) |
+| Fri, 22 Aug 2025 14:16:40 GMT | Broken Access Control (OWASP Top 10 #1) — Simplified | Chai | [Read More](https://medium.com/p/548de3420e1d) |
+| Fri, 22 Aug 2025 14:15:38 GMT | The Paradox of the Future-Proof Job: Why I’m Trading Compliance for a Career in AI Governance | The Integrity Protocol | [Read More](https://medium.com/p/3b0d9c59319b) |
+| Fri, 22 Aug 2025 14:07:53 GMT | The $4.2 Million Question: How to See Real Cyber-Security ROI in Fintech | Hrstaffingabroad | [Read More](https://medium.com/p/1f069ceb1de0) |
 | Fri, 22 Aug 2025 14:07:10 GMT | The 10 Essential Cyber Security Measures Every Company Must Implement in 2025 | NimiTech Digital | [Read More](https://medium.com/p/771374114da5) |
 | Fri, 22 Aug 2025 14:06:08 GMT | Security Agent in Action: Real-Time Drone Detection and Tracking with Python | Yauheniya.AI | [Read More](https://medium.com/p/3a288f9e42b2) |
 | Fri, 22 Aug 2025 14:05:06 GMT | Automated Shellcode and Packed Files Unpacking | Emad Abedini | [Read More](https://medium.com/p/325a3c0d156d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 09:55:07 GMT | The Link Between Data Privacy and Data Security Jobs | Kartik Debnath | [Read More](https://medium.com/p/66e1a671424a) |
 | Fri, 22 Aug 2025 09:55:05 GMT | Quantum Hackers Are Coming: Are You Ready? | CtrlC3 | [Read More](https://medium.com/p/0319016e1862) |
 | Fri, 22 Aug 2025 09:52:22 GMT | IT Staff Augmentation Strategies to Scale Your Tech Team | Quadrant IT Services | [Read More](https://medium.com/p/c2cd5cf69693) |
-| Fri, 22 Aug 2025 09:52:17 GMT | Reliable Managed Cybersecurity Services In India - Protect Your Digital Assets | Gowthammathiew | [Read More](https://medium.com/p/6bb697d5badb) |
-| Fri, 22 Aug 2025 09:51:55 GMT | Top 10 Open-Source AI Agent Penetration Testing Projects | Richard Mader | [Read More](https://medium.com/p/834d9151a176) |
-| Fri, 22 Aug 2025 09:46:14 GMT | Total Security Solutions & Consultancy: Safeguarding Businesses in a Modern Era | Ciss India | [Read More](https://medium.com/p/36c73de53e1d) |
-| Fri, 22 Aug 2025 09:31:17 GMT | JWT Authentication Bypass via Unverified Signature (Explained with Example) | Udeshna | [Read More](https://medium.com/p/3eb7c83a3907) |
-| Fri, 22 Aug 2025 09:30:29 GMT | Let MCP Help Your Offensive Security | Jie Liau | [Read More](https://medium.com/p/6d8906423cac) |
-| Fri, 22 Aug 2025 09:27:32 GMT | Lumma Stealer: Detection Engineering & Telemetry Anchors (Part 2) | Siddhant Mishra | [Read More](https://medium.com/p/4d6a026dd8f3) |
-| Fri, 22 Aug 2025 09:20:41 GMT | Hacking My Way Into Cybersecurity: How I Did It | Authlyn | [Read More](https://medium.com/p/c4bf4cb86c62) |
-| Fri, 22 Aug 2025 09:18:21 GMT | Identification of the Best Attack Paths in Penetration Testing | PenligentAI | [Read More](https://medium.com/p/00931f0ec23d) |
-| Fri, 22 Aug 2025 09:17:25 GMT | Forensic Imaging vs. Cloning: What’s the Difference? | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/1bcc9e7e1bd7) |
-| Fri, 22 Aug 2025 09:04:30 GMT | I Clicked The Link: My Cybersecurity Facepalm | Truspex | [Read More](https://medium.com/p/89da51331b2f) |
-| Fri, 22 Aug 2025 09:03:54 GMT | Why Customers Choose Yale: Real Stories from Customers Across India | ASSA ABLOY OPENING SOLUTIONS INDIA | [Read More](https://medium.com/p/39028cb83b8c) |
-| Fri, 22 Aug 2025 09:01:36 GMT | Stop Renting Your Innovation: How AI Empowers In-House Developers | Namir Sagheenanajar | [Read More](https://medium.com/p/a48b335f07a0) |
