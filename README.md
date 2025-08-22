@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 16:01:33 GMT | In 1272, this Hungarian feudal lord was hacked to pieces. | Historical Tavern | [Read More](https://medium.com/p/ebcd769865b4) |
+| Fri, 22 Aug 2025 16:00:00 GMT | Magna-fx.com Crypto Scam: How I Nearly Lost Everything | Admin | [Read More](https://medium.com/p/953c3889f0bb) |
+| Fri, 22 Aug 2025 15:59:42 GMT | The 2026 Roadmap for Tech Execs: Economy, Execution, and Cultural Environment | Yael Nagler | [Read More](https://medium.com/p/5e85582031ee) |
+| Fri, 22 Aug 2025 15:57:49 GMT | Cybersecurity Threats Lenders Must Watch Out for This Year | Coffeez for Closers with Joe Shalaby | [Read More](https://medium.com/p/a9ef4d09dd0d) |
+| Fri, 22 Aug 2025 15:57:14 GMT | Is Open-Source Better Than Commercial Software for Security? | Prince Bharti | [Read More](https://medium.com/p/3f22bd959f62) |
+| Fri, 22 Aug 2025 15:48:47 GMT | Claude Code: My Six-Month Journey from Chaos to (Relative) Control — A Security Engineer’s… | Paul Sherman | [Read More](https://medium.com/p/7eda18030e98) |
+| Fri, 22 Aug 2025 15:46:33 GMT | Staying Motivated in Bug Bounty Hunting: Lessons from Experience | Ghanashyam Ghimire | [Read More](https://medium.com/p/f319b2081dfc) |
+| Fri, 22 Aug 2025 15:46:30 GMT | What is Cyber Security? | Atakan Bitim | [Read More](https://medium.com/p/a771097a43f3) |
+| Fri, 22 Aug 2025 15:45:49 GMT | Siber Güvenlik Nedir? | Atakan Bitim | [Read More](https://medium.com/p/73839171c894) |
+| Fri, 22 Aug 2025 15:45:02 GMT | Pretty or Functional? Time to Compromise for Flowcharts | Alex Nejako | [Read More](https://medium.com/p/c5b9cb3fc6d0) |
+| Fri, 22 Aug 2025 15:44:41 GMT | Cytpe.ai Scam Exposed: The Truth About This Fake Crypto Platform | Admin | [Read More](https://medium.com/p/0d1a5c738ea3) |
+| Fri, 22 Aug 2025 15:43:10 GMT | Ichcoin.net Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/567a00b1f6aa) |
+| Fri, 22 Aug 2025 15:39:46 GMT | My Journey into Cybersecurity: From QA Tester to Aspiring Security Analyst | Lavanyara | [Read More](https://medium.com/p/faa06b673d62) |
+| Fri, 22 Aug 2025 15:39:38 GMT | Reimagining Nigeria’s Defence Innovation: Towards “Defence Production as a Service” | Abdulsalampelumi | [Read More](https://medium.com/p/260b5f3f5a98) |
+| Fri, 22 Aug 2025 15:37:31 GMT | Manual SQL Injection — A Step-by-Step Guide for Ethical Hackers | Rajkumar Kumawat | [Read More](https://medium.com/p/727c63f070f6) |
 | Fri, 22 Aug 2025 15:35:29 GMT | Cross-Tenant Identity Attacks in Microsoft 365 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/31470743538b) |
 | Fri, 22 Aug 2025 15:23:30 GMT | What is an Access Point (AP)? | Atakan Bitim | [Read More](https://medium.com/p/84e83a5bc04d) |
 | Fri, 22 Aug 2025 15:23:26 GMT | Access Point Nedir? | Atakan Bitim | [Read More](https://medium.com/p/393ba4c74ad3) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 11:17:19 GMT | Types of Solar Panels: Monocrystalline vs. Polycrystalline vs. Bifacial | Sun Photonics | [Read More](https://medium.com/p/2ba53c54e597) |
 | Fri, 22 Aug 2025 11:15:36 GMT | Imaging 101: Hash‑Verified Acquisition Without Contaminating Evidence | Rahul Prasad | [Read More](https://medium.com/p/363a3c27961f) |
 | Fri, 22 Aug 2025 11:11:30 GMT | Understanding Backdoor Attacks in AI Systems | Brittney Ginther | [Read More](https://medium.com/p/a69a3865d0f6) |
-| Fri, 22 Aug 2025 11:11:23 GMT | Ddex-defiwallet.com Crypto Scam: How I Got Trapped and Managed to Recover Funds | Admin | [Read More](https://medium.com/p/3bd68444ac9b) |
-| Fri, 22 Aug 2025 11:11:20 GMT | Saudi Aramco: Powering Saudi Arabia’s Future with Energy, Innovation, and Security | Hitechfence | [Read More](https://medium.com/p/87e4b2364619) |
-| Fri, 22 Aug 2025 11:06:09 GMT | Easyplatform-ground.com Scam Review: How I Recovered From a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/bb811494ed91) |
-| Fri, 22 Aug 2025 11:02:11 GMT | Simpleminers.com Crypto Scam: A Fake AI Trading Service That Trapped Me | Admin | [Read More](https://medium.com/p/cdd331fab884) |
-| Fri, 22 Aug 2025 11:01:32 GMT | Third-Party Risk: Catch Vendor Credential Leaks Before They Hit You | Alexandre Vandamme | [Read More](https://medium.com/p/23e1c675c5f1) |
-| Fri, 22 Aug 2025 11:00:38 GMT | Beyond Security: Integrating Safety and Style with Bollard Poles in UAE Landscapes | Fyind UAE | [Read More](https://medium.com/p/b699ef61fa84) |
-| Fri, 22 Aug 2025 10:55:47 GMT | Grok Chats Indexed by Google: The Data Leak Nobody Asked For | Swetlana AI | [Read More](https://medium.com/p/4c21f5a0966a) |
-| Fri, 22 Aug 2025 10:54:02 GMT | Redefining Data Security: How HITRUST Expands Beyond Healthcare | Ampcus Cyber | [Read More](https://medium.com/p/248ae200c2dd) |
-| Fri, 22 Aug 2025 10:53:50 GMT | When Deleted Isn’t Really Deleted: Access Control Gaps in Google Drive | Wilsgame | [Read More](https://medium.com/p/b86d11c2bd50) |
-| Fri, 22 Aug 2025 10:53:48 GMT | Server Load Balancing: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/849ca27d7c3c) |
-| Fri, 22 Aug 2025 10:51:50 GMT | The Untold Challenges of Building Multilingual Apps (That Nobody Warns You About) | Cogntix Blog | [Read More](https://medium.com/p/f5c25d1bc16f) |
-| Fri, 22 Aug 2025 10:51:32 GMT | Mastering Wireshark: From Basics to Advanced Packet Operations | Dhruvish Rathod | [Read More](https://medium.com/p/32fd68f712fa) |
-| Fri, 22 Aug 2025 10:47:56 GMT | -      … | Qasim Mahmood Khalid | [Read More](https://medium.com/p/747eb30b6bb0) |
-| Fri, 22 Aug 2025 10:46:05 GMT | AWS CDK Blueprints vs Custom Constructs vs Aspects | Serverless Advocate | [Read More](https://medium.com/p/164304251e68) |
-| Fri, 22 Aug 2025 10:43:35 GMT | Upgrade Your Drive with a 360 Degree Camera for Car | Cg Rdoverseas | [Read More](https://medium.com/p/5a72e014953f) |
