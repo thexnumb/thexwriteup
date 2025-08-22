@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 08:32:29 GMT | “Extension Confusion” Attacks: The Dangers of OpenVSX within the IDE Landscape | Michael Bocanegra | [Read More](https://medium.com/p/6f3ed00dbcfa) |
+| Fri, 22 Aug 2025 08:28:28 GMT | AI Browsers or Autonomous AI agents: An Innovative Tool or a Security Risk | Nitin Garg | [Read More](https://medium.com/p/cb2b79bf24cd) |
 | Fri, 22 Aug 2025 08:25:47 GMT | Microsoft, OpenAI, and NVIDIA Collab on Research: AI’s Unexpected Impact on Power Grid Continuity | Berend Watchus | [Read More](https://medium.com/p/3f8822deea36) |
 | Fri, 22 Aug 2025 08:23:46 GMT | HIPAA Heroes: Safeguarding Healthcare Data | Ampcus Cyber | [Read More](https://medium.com/p/83b1045e24ef) |
 | Fri, 22 Aug 2025 08:19:49 GMT | Future of Cybersecurity Jobs in India | Manisha Chaudhary | [Read More](https://medium.com/p/037513c82ef1) |
@@ -111,5 +113,3 @@ This report details the… | Krutik Raut | [Read More](https://medium.com/p/911e
 | Fri, 22 Aug 2025 02:59:41 GMT | Axisgcpros.com Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | ADMIN | [Read More](https://medium.com/p/4f79cea95ec7) |
 | Fri, 22 Aug 2025 02:59:04 GMT | Continuous Data Risk Exposure Management in Practice | Nick Deshpande | [Read More](https://medium.com/p/020625370996) |
 | Fri, 22 Aug 2025 02:54:34 GMT | CAB CHRONICLES 81: THE WARNING | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/4095a3cc1dac) |
-| Fri, 22 Aug 2025 02:42:44 GMT | How a Simple Endpoint Copy Turned Into Bonus Bounty$$$$ | Whitehat | [Read More](https://medium.com/p/a35906b2c611) |
-| Fri, 22 Aug 2025 02:39:52 GMT | How to Use a VPN on a WiFi Network | Brian Davis | [Read More](https://medium.com/p/155a7d6cab69) |
