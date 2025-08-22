@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 09:04:30 GMT | I Clicked The Link: My Cybersecurity Facepalm | Truspex | [Read More](https://medium.com/p/89da51331b2f) |
+| Fri, 22 Aug 2025 09:03:54 GMT | Why Customers Choose Yale: Real Stories from Customers Across India | ASSA ABLOY OPENING SOLUTIONS INDIA | [Read More](https://medium.com/p/39028cb83b8c) |
+| Fri, 22 Aug 2025 09:01:36 GMT | Stop Renting Your Innovation: How AI Empowers In-House Developers | Namir Sagheenanajar | [Read More](https://medium.com/p/a48b335f07a0) |
+| Fri, 22 Aug 2025 09:00:30 GMT | MOBILE HYDRAULIC | Whyps | [Read More](https://medium.com/p/bd0b68480e64) |
+| Fri, 22 Aug 2025 08:58:11 GMT | hydraulic heat exchangers | Whyps | [Read More](https://medium.com/p/d9cfdd52b9eb) |
+| Fri, 22 Aug 2025 08:53:02 GMT | 5 Best Cybersecurity Jobs with Fat Paycheques | Rashadul Islam | [Read More](https://medium.com/p/80d8d9a44153) |
+| Fri, 22 Aug 2025 08:51:31 GMT | The Four Pillars of Enterprise Tech: How AI, Data, Cybersecurity, and Cloud Are Reshaping 2025 | Abhii Dabas | [Read More](https://medium.com/p/e1fd1cf89694) |
+| Fri, 22 Aug 2025 08:45:11 GMT | Mobius Token Exploit Postmortem: How a Proxy Misconfiguration Led to Millions Lost | count-sum | [Read More](https://medium.com/p/218572d4eb7a) |
+| Fri, 22 Aug 2025 08:44:51 GMT | Vulnerability Scanning vs. Penetration Testing: Understanding the Differences and When to Use Each | Redfox Security | [Read More](https://medium.com/p/de5cdb410b70) |
 | Fri, 22 Aug 2025 08:32:29 GMT | “Extension Confusion” Attacks: The Dangers of OpenVSX within the IDE Landscape | Michael Bocanegra | [Read More](https://medium.com/p/6f3ed00dbcfa) |
 | Fri, 22 Aug 2025 08:28:28 GMT | AI Browsers or Autonomous AI agents: An Innovative Tool or a Security Risk | Nitin Garg | [Read More](https://medium.com/p/cb2b79bf24cd) |
 | Fri, 22 Aug 2025 08:25:47 GMT | Microsoft, OpenAI, and NVIDIA Collab on Research: AI’s Unexpected Impact on Power Grid Continuity | Berend Watchus | [Read More](https://medium.com/p/3f8822deea36) |
@@ -104,12 +113,3 @@ This report details the… | Krutik Raut | [Read More](https://medium.com/p/911e
 | Fri, 22 Aug 2025 03:30:46 GMT | Qexbit.org Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/2c5631ffbe83) |
 | Fri, 22 Aug 2025 03:27:55 GMT | Ulusal GRC ve Siber Güvenlik Entegrasyonu: Yerli ve Yabancı Örnekler | Ahmet Önal | [Read More](https://medium.com/p/9f6cdc2cebca) |
 | Fri, 22 Aug 2025 03:23:48 GMT | Curl/Libcurl Buffer Overflow Bug Could Lead to RCE — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/71c8f4d3bb43) |
-| Fri, 22 Aug 2025 03:17:12 GMT | Griurxp.cc Crypto Scam: How I Got Trapped and Managed to Recover Funds | ADMIN | [Read More](https://medium.com/p/701648fb6910) |
-| Fri, 22 Aug 2025 03:16:30 GMT | ⚡ Cyber Leader 2.0: How to Future-Proof Your Career in the Age of AI Disruption | Dr. Deep Pandey | [Read More](https://medium.com/p/2b610fa5464b) |
-| Fri, 22 Aug 2025 03:03:57 GMT | Hidden Windows Accounts A Stealth Technique Abused by Attackers | Jormungandr | [Read More](https://medium.com/p/6f7e0b0f7063) |
-| Fri, 22 Aug 2025 03:03:32 GMT | Python Range Function Tricks Every Data Scientist Should Know | Ajaymaurya | [Read More](https://medium.com/p/96bc38a4b6ad) |
-| Fri, 22 Aug 2025 03:02:53 GMT | Simulating Dirty Pipe Exploitation and Blue Team Defense with Wazuh integrated with Suricata… | Rishita Trivedi | [Read More](https://medium.com/p/a37765b8b5ad) |
-| Fri, 22 Aug 2025 03:02:27 GMT | Bibbtccc.com Scam Exposed: The Truth About This Fake Crypto Platform | ADMIN | [Read More](https://medium.com/p/1e60aa156aff) |
-| Fri, 22 Aug 2025 02:59:41 GMT | Axisgcpros.com Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | ADMIN | [Read More](https://medium.com/p/4f79cea95ec7) |
-| Fri, 22 Aug 2025 02:59:04 GMT | Continuous Data Risk Exposure Management in Practice | Nick Deshpande | [Read More](https://medium.com/p/020625370996) |
-| Fri, 22 Aug 2025 02:54:34 GMT | CAB CHRONICLES 81: THE WARNING | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/4095a3cc1dac) |
