@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 13:22:59 GMT | Best Security Awareness Training Vendors (2025) | Keepnet Labs | [Read More](https://medium.com/p/9d1d0f90441f) |
+| Fri, 22 Aug 2025 13:18:25 GMT | A close call during Cyber Incident Response | Michael de Neuilly Rice | [Read More](https://medium.com/p/4ee9791046ce) |
+| Fri, 22 Aug 2025 13:15:06 GMT | Unbreakable: 7 AI Cybersecurity Secrets Every Tech Innovator Should Know | Envitics Blogs | [Read More](https://medium.com/p/951a0efe048f) |
+| Fri, 22 Aug 2025 13:14:10 GMT | Lanewealthclub.com Crypto Scam: How I Got Trapped and Managed to Recover Funds | Admin | [Read More](https://medium.com/p/1866edc37419) |
+| Fri, 22 Aug 2025 13:10:12 GMT | The Malware You Never See: RAR Filenames Launching Memory Attacks on Linux . | Pentestjunkie07 | [Read More](https://medium.com/p/6da246ff8cb5) |
+| Fri, 22 Aug 2025 13:09:51 GMT | Elevating Society Security with AI: A Look at the SocietyConnect App | Hc | [Read More](https://medium.com/p/f96026c245a7) |
+| Fri, 22 Aug 2025 13:09:39 GMT | DoH, DoT, and Punycode: What Every Forensic GuyNeeds to Know About Modern DNS Evasion Tactics | Dean | [Read More](https://medium.com/p/3d03cdecf823) |
+| Fri, 22 Aug 2025 13:09:11 GMT | Sxhjas-fx.com Scam Review: How I Recovered From a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/cb487ffac52d) |
+| Fri, 22 Aug 2025 13:07:02 GMT | Multitradehub.com Crypto Scam: A Fake AI Trading Service That Trapped Me | Admin | [Read More](https://medium.com/p/71cb105c936b) |
+| Fri, 22 Aug 2025 13:01:53 GMT | Security Company in York: Protecting Businesses Against Rising Threats | Region Security | [Read More](https://medium.com/p/6dbe96c86263) |
+| Fri, 22 Aug 2025 13:01:40 GMT | What I Found When a Simple HTML Injection Went Wrong | Ibtissam hammadi | [Read More](https://medium.com/p/4953d9706f18) |
+| Fri, 22 Aug 2025 12:57:51 GMT | HTB Sauna Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/7436e9bde24a) |
+| Fri, 22 Aug 2025 12:55:53 GMT | Write-up PicoCTF:Forensics ‘information’ | Muhammad Khairin | [Read More](https://medium.com/p/3f7513c7b6b1) |
+| Fri, 22 Aug 2025 12:54:50 GMT | Why ICP Is Essential | DFINITY | [Read More](https://medium.com/p/5e9ffe870da1) |
+| Fri, 22 Aug 2025 12:54:45 GMT | Cron File Overwrite Privilege Escalation (Linux Privilege Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/528ba4837bbf) |
+| Fri, 22 Aug 2025 12:52:10 GMT | Grande Prairie Security Guard Services — Protecting Businesses, Communities & Events | Support | [Read More](https://medium.com/p/fe8a73a2981a) |
+| Fri, 22 Aug 2025 12:51:22 GMT | The Role of IAM in Securing Agentic AI | Adrew M | [Read More](https://medium.com/p/8a902ec29cb6) |
+| Fri, 22 Aug 2025 12:38:08 GMT | 7 Subtle Signs Someone Isn’t as Good as They Pretend to Be (Even If They Seem Sweet) | Maria Arshad | [Read More](https://medium.com/p/868a8674f4e0) |
 | Fri, 22 Aug 2025 12:36:09 GMT | WhyHackMe—TryHackMe Walkthrough. | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/7198360fb50b) |
 | Fri, 22 Aug 2025 12:32:56 GMT | Elevating Oracle Database Security for Safer SQLcl MCP Server and Agentic AI Usage | Thomas Minne | [Read More](https://medium.com/p/1adb976d0f92) |
+| Fri, 22 Aug 2025 12:27:17 GMT | Microsoft 365 Backup Failures: Causes and Proven Solutions | Axelmeyer | [Read More](https://medium.com/p/30fb52793a96) |
 | Fri, 22 Aug 2025 12:25:55 GMT | The Ultimate Privacy Guide 2025: Apps, Settings, and Systems to Take Back Control | Evan Huang | [Read More](https://medium.com/p/444a6ca9f610) |
 | Fri, 22 Aug 2025 12:21:30 GMT | How to Run a 1-Hour Incident Simulation With Your Team | Evgeny Ermakov | [Read More](https://medium.com/p/c32ff55930b1) |
 | Fri, 22 Aug 2025 12:18:58 GMT | This Week in Cybersecurity: Critical Exploits and Malware Deployments Uncovered | Loginsoft | [Read More](https://medium.com/p/d233d369a39e) |
@@ -94,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 08:03:44 GMT | Doubletrouble VulnHub CTF Çözümü | Furkan Dal | [Read More](https://medium.com/p/b7082520fefc) |
 | Fri, 22 Aug 2025 08:03:20 GMT | Phishing Email Investigation: "Action Required: Unusual Sign-in Activity"
 This report details the… | Krutik Raut | [Read More](https://medium.com/p/911e7d35bc9b) |
-| Fri, 22 Aug 2025 08:02:34 GMT | I Leaked Keywords from Google Drive with a Tiny Side‑Channel ⚡ ($5,000 Bounty) | Yeswehack | [Read More](https://medium.com/p/480ab5b97bf5) |
-| Fri, 22 Aug 2025 08:02:13 GMT | Network Security That Works — Even While You Sleep | Elonatech Nigeria | [Read More](https://medium.com/p/719e0c6cda8b) |
-| Fri, 22 Aug 2025 08:01:41 GMT | Creating, Deleting & Managing Linux User Accounts Like a Pro | MayhemCode | [Read More](https://medium.com/p/5905e2fd0153) |
-| Fri, 22 Aug 2025 08:01:41 GMT | Self-Healing Infrastructure: Beyond Auto-Scaling and Into Autonomous Ops | Mohamed ElEmam | [Read More](https://medium.com/p/01850eb4438b) |
-| Fri, 22 Aug 2025 07:56:55 GMT | Client-Side Security Gone Wrong: Why Frontend Validation Means Nothing | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f668050faa3f) |
-| Fri, 22 Aug 2025 07:51:33 GMT | ⚡ 10 JavaScript Patterns That Lead to Security Bugs in Production | Narendar Battula (nArEn) | [Read More](https://medium.com/p/93b996343dd9) |
-| Fri, 22 Aug 2025 07:49:50 GMT | Hiding Files on Mac Isn’t Enough — Here’s the Better Way | Zeeshan Saghir | [Read More](https://medium.com/p/b3547b5b5b35) |
-| Fri, 22 Aug 2025 07:46:55 GMT | ️ Bypassing WAFs 101: Real Tricks That Work in 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/892e75ef338f) |
-| Fri, 22 Aug 2025 07:43:34 GMT | XSS Exploit via RichText Parser | Monika sharma | [Read More](https://medium.com/p/352e1b39603b) |
-| Fri, 22 Aug 2025 07:41:30 GMT | The Day a Startup Learned Why VAPT Matters | Aakash Jha | [Read More](https://medium.com/p/4c4e08a78b03) |
-| Fri, 22 Aug 2025 07:39:42 GMT | Clipboard DOM-based XSS in GitLab | Monika sharma | [Read More](https://medium.com/p/2b4768f108cf) |
-| Fri, 22 Aug 2025 07:39:29 GMT | Mastering WordPress Bug Hunting: A Complete Guide for Security Researchers | coffinxp | [Read More](https://medium.com/p/3ff7ee4413a2) |
-| Fri, 22 Aug 2025 07:37:44 GMT | This Is How I Got $750 From My First IDOR | TSxNINJA | [Read More](https://medium.com/p/8058061c65ba) |
-| Fri, 22 Aug 2025 07:36:53 GMT | Top 7 Information Security Technologies to Stay Ahead of AI-Driven Attacks | SecureSlate | [Read More](https://medium.com/p/4393c37b28cd) |
-| Fri, 22 Aug 2025 07:36:21 GMT | ChatGPT 5 Under Attack: Can Hackers Downgrade AI Security? | Liran Nachman | [Read More](https://medium.com/p/9f5dc2015c28) |
-| Fri, 22 Aug 2025 07:35:31 GMT | Why Medical Devices Are the Next Big Cybersecurity Risk | Amol Rangari | [Read More](https://medium.com/p/2825e3019a04) |
-| Fri, 22 Aug 2025 07:34:40 GMT | Developer’s Revenge: The Kill Switch Malware That Cost Him 4 Years | Liran Nachman | [Read More](https://medium.com/p/a7c7c08b976a) |
-| Fri, 22 Aug 2025 07:33:21 GMT | Your Connection, Their Cash: How Hackers Steal and Sell Your Bandwidth | Liran Nachman | [Read More](https://medium.com/p/8ebfc959f008) |
-| Fri, 22 Aug 2025 07:31:39 GMT | INFORMATIONAL#3 Weak Password Policy | Shakthi | [Read More](https://medium.com/p/c3b90282be09) |
