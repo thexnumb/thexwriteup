@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 19:25:09 GMT | Cybersecurity Fundamentals: A Comprehensive Guide to Network Security, Protocols, and Essential… | Muhammad Haseeb | [Read More](https://medium.com/p/579ac7d0b344) |
+| Fri, 22 Aug 2025 19:19:01 GMT | CTI Diaries #5: Intelligence Requirements and Collection Management | Deniz Topaloglu | [Read More](https://medium.com/p/44ff275483d2) |
+| Fri, 22 Aug 2025 19:18:43 GMT | The Future of AI in Everyday Life: How Technology Will Shape Our Tomorrow | Vansh | [Read More](https://medium.com/p/181c6651f787) |
+| Fri, 22 Aug 2025 19:15:03 GMT | Intro to SSRF - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/7681ebbe5af3) |
+| Fri, 22 Aug 2025 19:15:03 GMT | Intro to SSRF - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/e2236b7b3608) |
+| Fri, 22 Aug 2025 19:14:53 GMT | From Lure to Shell: Reproducing APT37’s CHM Exploitation Tactics | Alok kumar | [Read More](https://medium.com/p/80d146b3c6cd) |
+| Fri, 22 Aug 2025 19:14:49 GMT | From Idea to Launch: Startup Tech Checklist | Breeze End Technology | [Read More](https://medium.com/p/7fdec6bc24fd) |
+| Fri, 22 Aug 2025 19:09:38 GMT | From Passwords to Trust: Why Trusted Devices Matter in Modern Security | Ahmed Elnazer | [Read More](https://medium.com/p/cb59d1529bda) |
 | Fri, 22 Aug 2025 19:05:15 GMT | Google’s Generative AI Leader Certification — Should SOC Analysts Bother? | NineTales | [Read More](https://medium.com/p/078333c40288) |
 | Fri, 22 Aug 2025 18:56:56 GMT | How Businesses Can Stay Safe While Incorporating AI in Their Workflow | Julius Kabugu | [Read More](https://medium.com/p/f5d53867fdb2) |
 | Fri, 22 Aug 2025 18:52:37 GMT | Ransomware Impact on Cyber Insurance Claims | Oleg Parashchak | [Read More](https://medium.com/p/724c2afe9601) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 14:22:05 GMT | How Hackers Used Fake Resumes to Hijack Our Hiring Process | Shahzaib | [Read More](https://medium.com/p/25430a204060) |
 | Fri, 22 Aug 2025 14:22:00 GMT | I Asked AI to Hack Me. The Results Were Terrifying (and Useful) | Aj | [Read More](https://medium.com/p/20e7cb7ce1de) |
 | Fri, 22 Aug 2025 14:20:44 GMT | DOC: A new attack in the age of AI | Eko Adetolani | [Read More](https://medium.com/p/0cccb4392c4d) |
-| Fri, 22 Aug 2025 14:19:48 GMT | Day 1: The Dancing Text Mystery | liquidcode | [Read More](https://medium.com/p/a44745ffc9d2) |
-| Fri, 22 Aug 2025 14:18:36 GMT | Manual work for $4k Bounty Akamai cant stop Information Disclosure | amnotacat | [Read More](https://medium.com/p/98ab6cc10068) |
-| Fri, 22 Aug 2025 14:16:40 GMT | Broken Access Control (OWASP Top 10 #1) — Simplified | Chai | [Read More](https://medium.com/p/548de3420e1d) |
-| Fri, 22 Aug 2025 14:15:38 GMT | The Paradox of the Future-Proof Job: Why I’m Trading Compliance for a Career in AI Governance | The Integrity Protocol | [Read More](https://medium.com/p/3b0d9c59319b) |
-| Fri, 22 Aug 2025 14:07:53 GMT | The $4.2 Million Question: How to See Real Cyber-Security ROI in Fintech | Hrstaffingabroad | [Read More](https://medium.com/p/1f069ceb1de0) |
-| Fri, 22 Aug 2025 14:07:10 GMT | The 10 Essential Cyber Security Measures Every Company Must Implement in 2025 | NimiTech Digital | [Read More](https://medium.com/p/771374114da5) |
-| Fri, 22 Aug 2025 14:06:08 GMT | Security Agent in Action: Real-Time Drone Detection and Tracking with Python | Yauheniya.AI | [Read More](https://medium.com/p/3a288f9e42b2) |
-| Fri, 22 Aug 2025 14:05:06 GMT | Automated Shellcode and Packed Files Unpacking | Emad Abedini | [Read More](https://medium.com/p/325a3c0d156d) |
