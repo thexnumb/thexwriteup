@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 16:36:50 GMT | A Simple Supply Chain Bug — Worth $11,850 — How GitLab Reinforces Trust in Open Source | Justas_b | [Read More](https://medium.com/p/424585c79074) |
+| Fri, 22 Aug 2025 16:34:48 GMT | Cybersecurity News Review — Week 34 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/12c30ac1dcd9) |
+| Fri, 22 Aug 2025 16:33:22 GMT | How I Earned My First $500 Bug Bounty via Rate Limit Bypass | Ghanashyam Ghimire | [Read More](https://medium.com/p/8c1e92374860) |
+| Fri, 22 Aug 2025 16:28:08 GMT | Who Deleted My File? Automate Real-Time Deletion Notifications in Amazon S3 | Pois0n84 | [Read More](https://medium.com/p/9b8fcd4643be) |
+| Fri, 22 Aug 2025 16:26:32 GMT | Password Managers Vulnerable to Data Theft via Clickjacking | Securis360 Inc. | [Read More](https://medium.com/p/1fea38f5fcb4) |
+| Fri, 22 Aug 2025 16:24:27 GMT | Ofuscando Shellcode con XOR: Evadiendo Firmas Estáticas y Analizando con PEBear | s1egfr1ed | [Read More](https://medium.com/p/7644cbd41d7f) |
 | Fri, 22 Aug 2025 16:01:33 GMT | In 1272, this Hungarian feudal lord was hacked to pieces. | Historical Tavern | [Read More](https://medium.com/p/ebcd769865b4) |
 | Fri, 22 Aug 2025 16:00:00 GMT | Magna-fx.com Crypto Scam: How I Nearly Lost Everything | Admin | [Read More](https://medium.com/p/953c3889f0bb) |
 | Fri, 22 Aug 2025 15:59:42 GMT | The 2026 Roadmap for Tech Execs: Economy, Execution, and Cultural Environment | Yael Nagler | [Read More](https://medium.com/p/5e85582031ee) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 11:54:14 GMT | Implementing LDAP Authentication for Trac (both dockerized)via Apache | Khushwant | [Read More](https://medium.com/p/efe02a72023a) |
 | Fri, 22 Aug 2025 11:51:59 GMT | How Does Vulnerability Assessment and Penetration Testing Improve Business Security? | Ziya Zoe | [Read More](https://medium.com/p/02ce6cc90911) |
 | Fri, 22 Aug 2025 11:41:08 GMT | Almcoin.com Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/1fd03b2d2486) |
-| Fri, 22 Aug 2025 11:34:47 GMT | Case Study: Reflected Cross‑Site Scripting (XSS) | Pathanrakib | [Read More](https://medium.com/p/5fd7ad2d17e4) |
-| Fri, 22 Aug 2025 11:28:47 GMT | Day 3: Disabling Direct SSH Root Login for Enhanced Server Security | Suraif Muhammad | [Read More](https://medium.com/p/e2ef01fb3362) |
-| Fri, 22 Aug 2025 11:24:27 GMT | When My Router Firmware Got Replaced: Router Hijacking Attack | Shahzaib | [Read More](https://medium.com/p/025548d659d3) |
-| Fri, 22 Aug 2025 11:17:19 GMT | Types of Solar Panels: Monocrystalline vs. Polycrystalline vs. Bifacial | Sun Photonics | [Read More](https://medium.com/p/2ba53c54e597) |
-| Fri, 22 Aug 2025 11:15:36 GMT | Imaging 101: Hash‑Verified Acquisition Without Contaminating Evidence | Rahul Prasad | [Read More](https://medium.com/p/363a3c27961f) |
-| Fri, 22 Aug 2025 11:11:30 GMT | Understanding Backdoor Attacks in AI Systems | Brittney Ginther | [Read More](https://medium.com/p/a69a3865d0f6) |
