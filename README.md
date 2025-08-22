@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 15:14:41 GMT | How to Hack Platforms that Use “Sign in with Discord” to Hijack Your Account ( Unpatched ) | Nibeza Kevin | [Read More](https://medium.com/p/17ae31bbafad) |
+| Fri, 22 Aug 2025 15:14:23 GMT | “Day 18: The Invisible Backdoor — How a Typo in a Config File Neutralized Multi-Factor… | Aman Sharma | [Read More](https://medium.com/p/9a16ab46da65) |
+| Fri, 22 Aug 2025 15:09:27 GMT | What is a Server? | Atakan Bitim | [Read More](https://medium.com/p/899491376f12) |
+| Fri, 22 Aug 2025 15:09:24 GMT | Sunucu Nedir? | Atakan Bitim | [Read More](https://medium.com/p/f22bba63e5fd) |
+| Fri, 22 Aug 2025 15:06:25 GMT | Malware Development 0x1: Process Injection | Azefox innovations | [Read More](https://medium.com/p/c32479866878) |
+| Fri, 22 Aug 2025 15:02:32 GMT | CAT CTF 25 Web challenges writeups | 0xNayel | [Read More](https://medium.com/p/2655e02b6485) |
+| Fri, 22 Aug 2025 15:01:55 GMT | How to discover your career path in cybersecurity. | David Ajuzie | [Read More](https://medium.com/p/33271f4cebcd) |
+| Fri, 22 Aug 2025 14:53:50 GMT | Detecting ClickFixing with detections.ai — Community Sourced Detections | @mikecybersec | [Read More](https://medium.com/p/ecc774adabf9) |
+| Fri, 22 Aug 2025 14:50:57 GMT | Shell Scripting Basics REVISION (for brushing up) | Divita Jain | [Read More](https://medium.com/p/da9c20d34445) |
+| Fri, 22 Aug 2025 14:47:04 GMT | What on Earth is an insect? | Nonjabulo Matomela | [Read More](https://medium.com/p/78dc3a55526a) |
+| Fri, 22 Aug 2025 14:39:01 GMT | ELF (Executable and Linkable Format) | Santhosh duraipandiyan | [Read More](https://medium.com/p/1448baa49afb) |
 | Fri, 22 Aug 2025 14:33:51 GMT | Managed Security Services (MSSP) Nedir? | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/5b3eed8f51f5) |
+| Fri, 22 Aug 2025 14:33:22 GMT | Frozen Frontlines: The Russia – Ukraine War Enters a Cooler Phase | Aishwarya Nagar | [Read More](https://medium.com/p/674b23d65127) |
 | Fri, 22 Aug 2025 14:31:31 GMT | The Botnet Kingpin: Young Oregon Man Accused of Building a Global Cyberweapon | Dhruvdeep Singh | [Read More](https://medium.com/p/a11251144e02) |
 | Fri, 22 Aug 2025 14:29:41 GMT | Drosera stepping up to protect RWA from more exploitations. | Yuni | [Read More](https://medium.com/p/e11298e21836) |
 | Fri, 22 Aug 2025 14:24:04 GMT | CVE-2019–5475 - Command injection escalated to Reverse shell. | Santhosh duraipandiyan | [Read More](https://medium.com/p/90dd1d6fe88f) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 10:33:57 GMT | DockerLabs Writeup — Crackoff (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d24428852a41) |
 | Fri, 22 Aug 2025 10:28:50 GMT | Ekudoos.com Scam Exposed: The Truth About This Fake Crypto Platform | Admin | [Read More](https://medium.com/p/b062ccb963ea) |
 | Fri, 22 Aug 2025 10:23:20 GMT | Pc.coineasefx.cc Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/4abf78205cf0) |
-| Fri, 22 Aug 2025 10:12:19 GMT | Real-World Cases of Phishing Email Bodies | Allen Ace | [Read More](https://medium.com/p/a6cc4305c78d) |
-| Fri, 22 Aug 2025 10:11:03 GMT | Boogeyman 2 — TryHackme Write-up | Forrest Caffray | [Read More](https://medium.com/p/f26b372b7156) |
-| Fri, 22 Aug 2025 10:10:02 GMT | Achieving Total Visibility: An AWS Guide to Logging, Monitoring, and Alerting | Menelik | [Read More](https://medium.com/p/016b61243969) |
-| Fri, 22 Aug 2025 10:09:45 GMT | Pride in Service, Strength in Teamwork | EXLITY | [Read More](https://medium.com/p/47092f642034) |
-| Fri, 22 Aug 2025 10:08:03 GMT | The Weight of Words I Cannot Speak | kicho | [Read More](https://medium.com/p/57008f4b759f) |
-| Fri, 22 Aug 2025 10:05:53 GMT | Advanced Authentication Strategies with NextAuth.js | @rnab | [Read More](https://medium.com/p/a0ccb688f98a) |
-| Fri, 22 Aug 2025 10:05:53 GMT | मेघा सिंह नंदिं दिवाल: भारत की पहली तकनीकी राजदूत | Stronic Publication (PR Agency) | [Read More](https://medium.com/p/639b1097a511) |
-| Fri, 22 Aug 2025 10:01:36 GMT | Emulators, Exploits, and Easter Eggs: Why I Hack Retro Games for Fun (and Profit?) | Franziska "Ziska" Fink | [Read More](https://medium.com/p/047353c0c895) |
-| Fri, 22 Aug 2025 09:58:34 GMT | HelpDesk | joseml | [Read More](https://medium.com/p/82434117ab58) |
-| Fri, 22 Aug 2025 09:55:07 GMT | The Link Between Data Privacy and Data Security Jobs | Kartik Debnath | [Read More](https://medium.com/p/66e1a671424a) |
-| Fri, 22 Aug 2025 09:55:05 GMT | Quantum Hackers Are Coming: Are You Ready? | CtrlC3 | [Read More](https://medium.com/p/0319016e1862) |
-| Fri, 22 Aug 2025 09:52:22 GMT | IT Staff Augmentation Strategies to Scale Your Tech Team | Quadrant IT Services | [Read More](https://medium.com/p/c2cd5cf69693) |
