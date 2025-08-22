@@ -12,11 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 10:35:53 GMT | Infinite Loops, Infinite Loot: Exploiting an Overlooked API Rate Limit for Full Account Takeover | Iski | [Read More](https://medium.com/p/b14070e1cd5e) |
+| Fri, 22 Aug 2025 10:33:57 GMT | DockerLabs Writeup — Crackoff (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d24428852a41) |
+| Fri, 22 Aug 2025 10:28:50 GMT | Ekudoos.com Scam Exposed: The Truth About This Fake Crypto Platform | Admin | [Read More](https://medium.com/p/b062ccb963ea) |
+| Fri, 22 Aug 2025 10:23:20 GMT | Pc.coineasefx.cc Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/4abf78205cf0) |
 | Fri, 22 Aug 2025 10:12:19 GMT | Real-World Cases of Phishing Email Bodies | Allen Ace | [Read More](https://medium.com/p/a6cc4305c78d) |
+| Fri, 22 Aug 2025 10:11:03 GMT | Boogeyman 2 — TryHackme Write-up | Forrest Caffray | [Read More](https://medium.com/p/f26b372b7156) |
 | Fri, 22 Aug 2025 10:10:02 GMT | Achieving Total Visibility: An AWS Guide to Logging, Monitoring, and Alerting | Menelik | [Read More](https://medium.com/p/016b61243969) |
 | Fri, 22 Aug 2025 10:09:45 GMT | Pride in Service, Strength in Teamwork | EXLITY | [Read More](https://medium.com/p/47092f642034) |
 | Fri, 22 Aug 2025 10:08:03 GMT | The Weight of Words I Cannot Speak | kicho | [Read More](https://medium.com/p/57008f4b759f) |
 | Fri, 22 Aug 2025 10:05:53 GMT | Advanced Authentication Strategies with NextAuth.js | @rnab | [Read More](https://medium.com/p/a0ccb688f98a) |
+| Fri, 22 Aug 2025 10:05:53 GMT | मेघा सिंह नंदिं दिवाल: भारत की पहली तकनीकी राजदूत | Stronic Publication (PR Agency) | [Read More](https://medium.com/p/639b1097a511) |
 | Fri, 22 Aug 2025 10:01:36 GMT | Emulators, Exploits, and Easter Eggs: Why I Hack Retro Games for Fun (and Profit?) | Franziska "Ziska" Fink | [Read More](https://medium.com/p/047353c0c895) |
 | Fri, 22 Aug 2025 09:58:34 GMT | HelpDesk | joseml | [Read More](https://medium.com/p/82434117ab58) |
 | Fri, 22 Aug 2025 09:55:07 GMT | The Link Between Data Privacy and Data Security Jobs | Kartik Debnath | [Read More](https://medium.com/p/66e1a671424a) |
@@ -107,9 +113,3 @@ This report details the… | Krutik Raut | [Read More](https://medium.com/p/911e
 | Fri, 22 Aug 2025 05:31:57 GMT | The Evolving Ransomware Threat Landscape: What You Must Know in 2024–2025 | NizzCorp Academy | [Read More](https://medium.com/p/bf73d231099f) |
 | Fri, 22 Aug 2025 05:30:07 GMT | Why I Finally Installed a 360 WiFi CCTV (And Why You Might Want To, Too) | Simple Tech Unbox | [Read More](https://medium.com/p/984f6145b680) |
 | Fri, 22 Aug 2025 05:28:35 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/232181b4dac7) |
-| Fri, 22 Aug 2025 05:27:50 GMT | What Makes Us Different from Other IT Companies | Hello Future Technologies (Private) Limited | [Read More](https://medium.com/p/094d399eaed7) |
-| Fri, 22 Aug 2025 05:23:22 GMT | Real-World APT Case Analysis | Suhail PM | [Read More](https://medium.com/p/e5b50cca075b) |
-| Fri, 22 Aug 2025 05:19:46 GMT | Emerging Threats in 2025: What to Look For | Suhail PM | [Read More](https://medium.com/p/dff840c69edf) |
-| Fri, 22 Aug 2025 05:02:52 GMT | Top 5 Open Source Threat Hunting Tools You’ll Actually Want to Use | jabar | [Read More](https://medium.com/p/9b253b8bd2ce) |
-| Fri, 22 Aug 2025 05:00:23 GMT | Step-by-Step: Exploiting LFI to Gain Shell Access (CTF Walkthrough) | Aj | [Read More](https://medium.com/p/acc9d4c2858c) |
-| Fri, 22 Aug 2025 04:59:04 GMT | The Hidden Danger of OAuth: How One Missing Parameter Can Destroy Your Authentication System | Zubair Usman | [Read More](https://medium.com/p/8fea37799bee) |
