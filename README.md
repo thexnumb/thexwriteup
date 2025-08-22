@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 19:05:15 GMT | Google’s Generative AI Leader Certification — Should SOC Analysts Bother? | NineTales | [Read More](https://medium.com/p/078333c40288) |
+| Fri, 22 Aug 2025 18:56:56 GMT | How Businesses Can Stay Safe While Incorporating AI in Their Workflow | Julius Kabugu | [Read More](https://medium.com/p/f5d53867fdb2) |
+| Fri, 22 Aug 2025 18:52:37 GMT | Ransomware Impact on Cyber Insurance Claims | Oleg Parashchak | [Read More](https://medium.com/p/724c2afe9601) |
+| Fri, 22 Aug 2025 18:49:44 GMT | What You Need to Know About Identity Threat Detection and Response | Ai Writter Tools | [Read More](https://medium.com/p/f6a23b06c08b) |
+| Fri, 22 Aug 2025 18:46:47 GMT | Why Your “Secure” Password Manager Isn’t Actually Secure | Debug Diaries | [Read More](https://medium.com/p/0492f5e81917) |
 | Fri, 22 Aug 2025 18:45:33 GMT | Seen | Mark Donelson | [Read More](https://medium.com/p/05daa2d2e2f9) |
 | Fri, 22 Aug 2025 18:44:11 GMT | Work-Life Balance: The Real Wealth We Often Overlook | Chethan H | [Read More](https://medium.com/p/070207131960) |
 | Fri, 22 Aug 2025 18:40:29 GMT | The Difference Between Malvertising and Adware | Ai Writter Tools | [Read More](https://medium.com/p/0a180b653010) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 14:07:10 GMT | The 10 Essential Cyber Security Measures Every Company Must Implement in 2025 | NimiTech Digital | [Read More](https://medium.com/p/771374114da5) |
 | Fri, 22 Aug 2025 14:06:08 GMT | Security Agent in Action: Real-Time Drone Detection and Tracking with Python | Yauheniya.AI | [Read More](https://medium.com/p/3a288f9e42b2) |
 | Fri, 22 Aug 2025 14:05:06 GMT | Automated Shellcode and Packed Files Unpacking | Emad Abedini | [Read More](https://medium.com/p/325a3c0d156d) |
-| Fri, 22 Aug 2025 14:01:32 GMT | Cyber Briefing: 2025.08.22 | CyberMaterial | [Read More](https://medium.com/p/f0e84cf54403) |
-| Fri, 22 Aug 2025 14:01:27 GMT | India Tops List of Global Malware Targets as AI-Driven Ransomware Surges | Dhruvdeep Singh | [Read More](https://medium.com/p/39ee865aa0f9) |
-| Fri, 22 Aug 2025 13:53:14 GMT | The Imposter Syndrome: A Hacker’s Toughest Battle | Ahmad Reza Aivazi | [Read More](https://medium.com/p/71c0d04fe2e4) |
-| Fri, 22 Aug 2025 13:51:13 GMT | Never Google ‘How to Install X on Linux’ Again: Package Manager Magic Explained | MayhemCode | [Read More](https://medium.com/p/fa89a9bedf6b) |
-| Fri, 22 Aug 2025 13:50:58 GMT | Make.com vs Sola.ai: Which One is Better for Productivity and Workflow Automation? | Pradeep Chaudhary | [Read More](https://medium.com/p/6e22be2baa41) |
