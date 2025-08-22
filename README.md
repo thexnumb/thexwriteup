@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 04:21:30 GMT | How My Hometown Shaped My Views on Community and Safety | Paschal Ogana | [Read More](https://medium.com/p/90e492947a5f) |
+| Fri, 22 Aug 2025 04:16:22 GMT | CRHC CTF | VirajMathpati | [Read More](https://medium.com/p/86e5ff5785a6) |
+| Fri, 22 Aug 2025 04:09:59 GMT | TryHackMe - Pickle Rick Room - Write-Up (Spoilers) | Kieranjd98 | [Read More](https://medium.com/p/df72cb24995d) |
+| Fri, 22 Aug 2025 04:01:39 GMT | How SafeLine WAF Stops Bots and Scanners in Your Homelab (Beta) | AerieWhole123 | [Read More](https://medium.com/p/d2fccf112d44) |
+| Fri, 22 Aug 2025 04:01:25 GMT | Day 39- Basics of NAS and SAN for beginners | unica 02 | [Read More](https://medium.com/p/84729612369e) |
+| Fri, 22 Aug 2025 03:54:23 GMT | TryHackMe — Daily Bugle | Cyber Anom | [Read More](https://medium.com/p/9a9c6cfcd587) |
+| Fri, 22 Aug 2025 03:52:17 GMT | Bitfundss.vip Crypto Scam: How I Got Trapped and Managed to Recover Funds | Admin | [Read More](https://medium.com/p/1aabbd526b72) |
+| Fri, 22 Aug 2025 03:52:00 GMT | LinkedIn disallows all robots to index some things, OSINT Challenge (How to find the password… | NetDark | [Read More](https://medium.com/p/4fc42ab473c8) |
 | Fri, 22 Aug 2025 03:48:12 GMT | Shop.usukwayfair.com Scam Review: How I Recovered From a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/d987e3d5e8ff) |
 | Fri, 22 Aug 2025 03:44:40 GMT | Robinhood-ot.com Crypto Scam: A Fake AI Trading Service That Trapped Me | Admin | [Read More](https://medium.com/p/a3de2f594067) |
 | Fri, 22 Aug 2025 03:37:42 GMT | Sheildstrustssb.com Crypto Scam: How I Nearly Lost Everything | Admin | [Read More](https://medium.com/p/920b116195c4) |
@@ -39,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 02:12:03 GMT | JWTs: The Digital Passport Everyone Talks About — But Few Understand | Arun Pandian M | [Read More](https://medium.com/p/70b03a899dca) |
 | Fri, 22 Aug 2025 02:08:27 GMT | Challenges in Migrating from Distribution-Based to Distroless Container Images: Dependency… | Christian Frank Johannsen | [Read More](https://medium.com/p/a40f8e64ae67) |
 | Fri, 22 Aug 2025 02:07:15 GMT | How to Get into Cyber Security | Evelyn | [Read More](https://medium.com/p/f75d069e2f54) |
+| Fri, 22 Aug 2025 01:53:02 GMT | The Juxtaposition of Vulnerability Forebodes Joy and Vulnerability Forebodes Survival | Uland's OCD and Mental Health Hub | [Read More](https://medium.com/p/4dfd330b9586) |
 | Fri, 22 Aug 2025 01:46:00 GMT | Vulnhub machine — Hack me please Walkthrough | Apurba | [Read More](https://medium.com/p/0aeaf3b13b21) |
 | Fri, 22 Aug 2025 01:38:12 GMT | Zero Trust Isn’t a Buzzword Anymore — It’s Survival | Paritosh | [Read More](https://medium.com/p/c07226fe5160) |
 | Fri, 22 Aug 2025 01:31:43 GMT | Cybersecurity Risk Assessment: Steps, Tools & Best Practices | secureroot | [Read More](https://medium.com/p/2865d07d8a82) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 20:23:21 GMT | Reflected XSS on Starbucks | 0X0mahmoud | [Read More](https://medium.com/p/1bcd07aa53f5) |
 | Thu, 21 Aug 2025 20:22:41 GMT | HackTheBox — Analyzing Windows Event Logs En Masse | Javier | [Read More](https://medium.com/p/f418d7c83865) |
 | Thu, 21 Aug 2025 20:11:42 GMT | Now You’ve SEEN It: CyberPH’s First Community Meetup & SEEN CTF Awarding | Gladwin Ferdz Del Rosario | [Read More](https://medium.com/p/b05da63d9314) |
-| Thu, 21 Aug 2025 19:55:37 GMT | 1,130 Bounty: Critical XSS Vulnerability in GitLab’s | Monika sharma | [Read More](https://medium.com/p/439e1206d8c8) |
-| Thu, 21 Aug 2025 19:53:01 GMT | A Deep Dive into Admin Panel Exploitation | Monika sharma | [Read More](https://medium.com/p/8c8998c6aa53) |
-| Thu, 21 Aug 2025 19:51:38 GMT | CIS Critical Security Controls: The 18 Foundational Elements of Cyber Defense | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/aee2d449d83e) |
-| Thu, 21 Aug 2025 19:47:41 GMT | Kioptrix 1 - Vuln-Hub CTF - Ethical Hacking Journey -Walkthrough | Harshitparekh | [Read More](https://medium.com/p/0faf3fd82c2e) |
-| Thu, 21 Aug 2025 19:43:34 GMT | 50+ Parameters Devs Actually Use (and Hunters Forget) | Cybersecplayground | [Read More](https://medium.com/p/f90579a927ba) |
-| Thu, 21 Aug 2025 19:42:02 GMT | Day in the Life of an Ethical Hacker: What It’s Really Like | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/28cace25be56) |
-| Thu, 21 Aug 2025 19:38:30 GMT | Information Security Fundamentals and The CIA Triad | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/b2c69856d11d) |
-| Thu, 21 Aug 2025 19:35:32 GMT | Before You Click: The Hidden Dangers of Untrusted PowerApps | Achyuatkumar | [Read More](https://medium.com/p/cc8197dff9b0) |
-| Thu, 21 Aug 2025 19:31:00 GMT | Cyber Security Compliance Guide: Everything Organizations Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/750f5ca45f2c) |
