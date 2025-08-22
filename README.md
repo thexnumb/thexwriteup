@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 22:17:30 GMT | Building an Automated Pentest Reporting Pipeline | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5d7809622fbf) |
+| Fri, 22 Aug 2025 21:55:10 GMT | 5 Critical Geopolitical Risks Impacting Cybersecurity in North America | Richard Frederick | [Read More](https://medium.com/p/30d8bd7de726) |
+| Fri, 22 Aug 2025 21:42:31 GMT | CCTV surveillance | Visual Monitoring Solutions | [Read More](https://medium.com/p/e14665f84b7d) |
+| Fri, 22 Aug 2025 21:38:40 GMT | Scheduled Changes and Updates — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/e6f34df57abf) |
+| Fri, 22 Aug 2025 21:35:55 GMT | When a Valid Critical Goes Nowhere: Lessons from 14 Weeks in ImmuneFi Limbo | Silence Dogood | [Read More](https://medium.com/p/7764039316a2) |
 | Fri, 22 Aug 2025 21:31:39 GMT | When Spooky Fonts Turn Deadly: Exploiting Server-Side Template Injection for Remote Code Execution | Yeraldinmueses | [Read More](https://medium.com/p/debbe4d2c2d7) |
 | Fri, 22 Aug 2025 21:31:07 GMT | CATF 2025 Vibe Coded C Web Challenge WriteUp | UsifAraby | [Read More](https://medium.com/p/5f1fa834181a) |
 | Fri, 22 Aug 2025 21:29:14 GMT | The Rising Cost of Cybercrime and What It Means for Businesses | Akshay Chauhan | [Read More](https://medium.com/p/13479af20cdc) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 16:00:00 GMT | Magna-fx.com Crypto Scam: How I Nearly Lost Everything | Admin | [Read More](https://medium.com/p/953c3889f0bb) |
 | Fri, 22 Aug 2025 15:59:42 GMT | The 2026 Roadmap for Tech Execs: Economy, Execution, and Cultural Environment | Yael Nagler | [Read More](https://medium.com/p/5e85582031ee) |
 | Fri, 22 Aug 2025 15:57:49 GMT | Cybersecurity Threats Lenders Must Watch Out for This Year | Coffeez for Closers with Joe Shalaby | [Read More](https://medium.com/p/a9ef4d09dd0d) |
-| Fri, 22 Aug 2025 15:57:14 GMT | Is Open-Source Better Than Commercial Software for Security? | Prince Bharti | [Read More](https://medium.com/p/3f22bd959f62) |
-| Fri, 22 Aug 2025 15:48:47 GMT | Claude Code: My Six-Month Journey from Chaos to (Relative) Control — A Security Engineer’s… | Paul Sherman | [Read More](https://medium.com/p/7eda18030e98) |
-| Fri, 22 Aug 2025 15:46:33 GMT | Staying Motivated in Bug Bounty Hunting: Lessons from Experience | Ghanashyam Ghimire | [Read More](https://medium.com/p/f319b2081dfc) |
-| Fri, 22 Aug 2025 15:46:30 GMT | What is Cyber Security? | Atakan Bitim | [Read More](https://medium.com/p/a771097a43f3) |
-| Fri, 22 Aug 2025 15:45:49 GMT | Siber Güvenlik Nedir? | Atakan Bitim | [Read More](https://medium.com/p/73839171c894) |
