@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 20:39:13 GMT | From Days to Minutes: Building DNS-Helix, a High-Speed Subdomain Discovery Tool | CypherNova1337 | [Read More](https://medium.com/p/84bf2fcc3bd9) |
+| Fri, 22 Aug 2025 20:35:22 GMT | Can I Be Vulnerable With You Guys? | Fidelis Kayode Fadoju | [Read More](https://medium.com/p/279ad8809531) |
+| Fri, 22 Aug 2025 20:28:09 GMT | Gobuster: The Basics THM writeup - by 2No0b4YoU | 2No0b4YoU | [Read More](https://medium.com/p/acfa6a5e9dd5) |
+| Fri, 22 Aug 2025 20:24:45 GMT | Dragon Byte — TryHackMe | HexSilent | [Read More](https://medium.com/p/8758e1fdc028) |
+| Fri, 22 Aug 2025 20:21:31 GMT | Portswigger Web LLM Attacks Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/3eba30e89830) |
+| Fri, 22 Aug 2025 20:17:30 GMT | The Missing Button: How Big Tech Broke Privacy by Design | AI Rabbit | [Read More](https://medium.com/p/065c1e3cb5e3) |
 | Fri, 22 Aug 2025 20:16:20 GMT | Lumma Stealer 2025 - Full Breakdown of the Infostealer That Shook the World | Motasem Hamdan | [Read More](https://medium.com/p/d4a793da15e8) |
 | Fri, 22 Aug 2025 20:06:34 GMT | Project #5: Static NAT, Dynamic PAT + More Routing & Troubleshooting | NSESean | [Read More](https://medium.com/p/a4cb34eefd0c) |
 | Fri, 22 Aug 2025 20:06:18 GMT | Multi-Factor Authentication (MFA) | Kelly C. Bourne | [Read More](https://medium.com/p/c6a8a20c4317) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 15:23:26 GMT | Access Point Nedir? | Atakan Bitim | [Read More](https://medium.com/p/393ba4c74ad3) |
 | Fri, 22 Aug 2025 15:14:41 GMT | How to Hack Platforms that Use “Sign in with Discord” to Hijack Your Account ( Unpatched ) | Nibeza Kevin | [Read More](https://medium.com/p/17ae31bbafad) |
 | Fri, 22 Aug 2025 15:14:23 GMT | “Day 18: The Invisible Backdoor — How a Typo in a Config File Neutralized Multi-Factor… | Aman Sharma | [Read More](https://medium.com/p/9a16ab46da65) |
-| Fri, 22 Aug 2025 15:12:51 GMT | Astra AI Shutdown: Know From Zero to The End! | Rakesh Sahani | [Read More](https://medium.com/p/962b724c2934) |
-| Fri, 22 Aug 2025 15:09:27 GMT | What is a Server? | Atakan Bitim | [Read More](https://medium.com/p/899491376f12) |
-| Fri, 22 Aug 2025 15:09:24 GMT | Sunucu Nedir? | Atakan Bitim | [Read More](https://medium.com/p/f22bba63e5fd) |
-| Fri, 22 Aug 2025 15:06:25 GMT | Malware Development 0x1: Process Injection | Azefox innovations | [Read More](https://medium.com/p/c32479866878) |
-| Fri, 22 Aug 2025 15:02:32 GMT | CAT CTF 25 Web challenges writeups | 0xNayel | [Read More](https://medium.com/p/2655e02b6485) |
-| Fri, 22 Aug 2025 15:01:55 GMT | How to discover your career path in cybersecurity. | David Ajuzie | [Read More](https://medium.com/p/33271f4cebcd) |
