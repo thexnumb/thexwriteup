@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 15:35:29 GMT | Cross-Tenant Identity Attacks in Microsoft 365 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/31470743538b) |
+| Fri, 22 Aug 2025 15:23:30 GMT | What is an Access Point (AP)? | Atakan Bitim | [Read More](https://medium.com/p/84e83a5bc04d) |
+| Fri, 22 Aug 2025 15:23:26 GMT | Access Point Nedir? | Atakan Bitim | [Read More](https://medium.com/p/393ba4c74ad3) |
 | Fri, 22 Aug 2025 15:14:41 GMT | How to Hack Platforms that Use “Sign in with Discord” to Hijack Your Account ( Unpatched ) | Nibeza Kevin | [Read More](https://medium.com/p/17ae31bbafad) |
 | Fri, 22 Aug 2025 15:14:23 GMT | “Day 18: The Invisible Backdoor — How a Typo in a Config File Neutralized Multi-Factor… | Aman Sharma | [Read More](https://medium.com/p/9a16ab46da65) |
+| Fri, 22 Aug 2025 15:12:51 GMT | Astra AI Shutdown: Know From Zero to The End! | Rakesh Sahani | [Read More](https://medium.com/p/962b724c2934) |
 | Fri, 22 Aug 2025 15:09:27 GMT | What is a Server? | Atakan Bitim | [Read More](https://medium.com/p/899491376f12) |
 | Fri, 22 Aug 2025 15:09:24 GMT | Sunucu Nedir? | Atakan Bitim | [Read More](https://medium.com/p/f22bba63e5fd) |
 | Fri, 22 Aug 2025 15:06:25 GMT | Malware Development 0x1: Process Injection | Azefox innovations | [Read More](https://medium.com/p/c32479866878) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 10:47:56 GMT | -      … | Qasim Mahmood Khalid | [Read More](https://medium.com/p/747eb30b6bb0) |
 | Fri, 22 Aug 2025 10:46:05 GMT | AWS CDK Blueprints vs Custom Constructs vs Aspects | Serverless Advocate | [Read More](https://medium.com/p/164304251e68) |
 | Fri, 22 Aug 2025 10:43:35 GMT | Upgrade Your Drive with a 360 Degree Camera for Car | Cg Rdoverseas | [Read More](https://medium.com/p/5a72e014953f) |
-| Fri, 22 Aug 2025 10:35:53 GMT | Infinite Loops, Infinite Loot: Exploiting an Overlooked API Rate Limit for Full Account Takeover | Iski | [Read More](https://medium.com/p/b14070e1cd5e) |
-| Fri, 22 Aug 2025 10:33:57 GMT | DockerLabs Writeup — Crackoff (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d24428852a41) |
-| Fri, 22 Aug 2025 10:28:50 GMT | Ekudoos.com Scam Exposed: The Truth About This Fake Crypto Platform | Admin | [Read More](https://medium.com/p/b062ccb963ea) |
-| Fri, 22 Aug 2025 10:23:20 GMT | Pc.coineasefx.cc Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/4abf78205cf0) |
