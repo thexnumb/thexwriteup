@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 07:37:44 GMT | This Is How I Got $750 From My First IDOR | TSxNINJA | [Read More](https://medium.com/p/8058061c65ba) |
+| Fri, 22 Aug 2025 07:34:40 GMT | Developer’s Revenge: The Kill Switch Malware That Cost Him 4 Years | Liran Nachman | [Read More](https://medium.com/p/a7c7c08b976a) |
+| Fri, 22 Aug 2025 07:31:39 GMT | INFORMATIONAL#3 Weak Password Policy | Shakthi | [Read More](https://medium.com/p/c3b90282be09) |
+| Fri, 22 Aug 2025 07:29:09 GMT | Introduction to Authentication & Authorization in a Production-Grade Application (with .NET, | Krishna Bogati | [Read More](https://medium.com/p/0f5f574fa898) |
+| Fri, 22 Aug 2025 07:26:56 GMT | ️ Red Team Playbook: Mastering Rate Limit Bypass Attacks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f3911aefafef) |
+| Fri, 22 Aug 2025 07:23:51 GMT | You Never Know, But Someone (Whom You Don’t Want To) is Reading Your Chats | Navkiran Dhaliwal | [Read More](https://medium.com/p/cdc936758f56) |
+| Fri, 22 Aug 2025 07:22:25 GMT | Why Every SMB Needs Regular VAPT Service? | Microscan Communications | [Read More](https://medium.com/p/6d5872059549) |
+| Fri, 22 Aug 2025 07:17:11 GMT | 20 Best Websites to Prepare for Your Next Interview | Techie Arbaaz | [Read More](https://medium.com/p/9649aff19b2c) |
 | Fri, 22 Aug 2025 07:15:42 GMT | What have I been doing lately? | Rabia Riaz | [Read More](https://medium.com/p/713fd81b1018) |
+| Fri, 22 Aug 2025 07:12:41 GMT | Cyber Security vs Cloud Security in 2025: Which Path Should You Choose? | Muhammad Haider Tallal | [Read More](https://medium.com/p/3a1e266243d9) |
 | Fri, 22 Aug 2025 07:07:04 GMT | YDT Hack Explained — Step by Step | 0xjustuzair | [Read More](https://medium.com/p/7ca030237281) |
 | Fri, 22 Aug 2025 07:01:53 GMT | A Mobile Surveillance Unit Protects Your Car Dealership Before It’s Too Late | IVIS Security | [Read More](https://medium.com/p/39696a15e2cc) |
 | Fri, 22 Aug 2025 07:01:31 GMT | Human as Attack Vectors - THM | Welsh | [Read More](https://medium.com/p/223798c5a989) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 00:03:30 GMT | CPTS: EL EXAMEN MÁS DIFÍCIL AL QUE ME HE ENFRENTADO | Erick | [Read More](https://medium.com/p/9604216afb28) |
 | Thu, 21 Aug 2025 23:48:56 GMT | The Hybrid Future of GRC Engineering — Part 2: Building the Layer | Varun Gurnaney | [Read More](https://medium.com/p/80f4ebce1b0f) |
 | Thu, 21 Aug 2025 23:47:35 GMT | AWS CLI v2 by Examples: Enhancing Security with AWS Systems Manager Parameter Store | MB20261 | [Read More](https://medium.com/p/918b054a8462) |
-| Thu, 21 Aug 2025 23:44:40 GMT | CAT CTF 2025 web challenges writeup | Mohamedelsayed | [Read More](https://medium.com/p/b68815292f4f) |
-| Thu, 21 Aug 2025 23:40:42 GMT | Deep Dive Project NANDA: Building the Agentic Web : Part 6 — Security Model | Mahesh Lambe | [Read More](https://medium.com/p/afd003ed8e70) |
-| Thu, 21 Aug 2025 23:33:26 GMT | Why Enterprise AI Browser is the Key to Connecting AI with Business Operations | Mammoth Cyber | [Read More](https://medium.com/p/cf96b1a8a878) |
-| Thu, 21 Aug 2025 23:23:49 GMT | Slingshot | Anthony Mazyck | [Read More](https://medium.com/p/d0161aaeac44) |
-| Thu, 21 Aug 2025 22:49:28 GMT | Divurion Group Listed on Dark Web as “Most Ruthless” Cyber Threat | SinVictus | [Read More](https://medium.com/p/02dd84916223) |
-| Thu, 21 Aug 2025 22:41:32 GMT | K2-SUMMIT WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/2eea6b34e98a) |
-| Thu, 21 Aug 2025 22:37:29 GMT | K2-MIDDLE CAMP WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/aa23b08c3cff) |
-| Thu, 21 Aug 2025 22:35:18 GMT | 5 Ways SocialBox.Biz’s Secure IT Reuse Boosts Your ESG Goals | laptops donations before recycling in london-uk | [Read More](https://medium.com/p/43458906215e) |
-| Thu, 21 Aug 2025 22:33:15 GMT | CyberDefenders — Brave Lab | jon | [Read More](https://medium.com/p/b5990c439360) |
