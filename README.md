@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 05:02:52 GMT | Top 5 Open Source Threat Hunting Tools You’ll Actually Want to Use | jabar | [Read More](https://medium.com/p/9b253b8bd2ce) |
+| Fri, 22 Aug 2025 05:00:23 GMT | Step-by-Step: Exploiting LFI to Gain Shell Access (CTF Walkthrough) | Aj | [Read More](https://medium.com/p/acc9d4c2858c) |
+| Fri, 22 Aug 2025 04:59:04 GMT | The Hidden Danger of OAuth: How One Missing Parameter Can Destroy Your Authentication System | Zubair Usman | [Read More](https://medium.com/p/8fea37799bee) |
+| Fri, 22 Aug 2025 04:56:31 GMT | Will AI Replace Hackers or Make Them Stronger? | Aj | [Read More](https://medium.com/p/3aaa6160bd38) |
+| Fri, 22 Aug 2025 04:46:31 GMT | Being vulnerably yourself is beautiful! | Madhuri Maharana | [Read More](https://medium.com/p/0f4581d5fbef) |
 | Fri, 22 Aug 2025 04:21:30 GMT | How My Hometown Shaped My Views on Community and Safety | Paschal Ogana | [Read More](https://medium.com/p/90e492947a5f) |
 | Fri, 22 Aug 2025 04:17:33 GMT | Discover Leading Information Technology Colleges in Mumbai Today | Bharatvidyapeeth | [Read More](https://medium.com/p/6c7dc274aa84) |
 | Fri, 22 Aug 2025 04:16:22 GMT | CRHC CTF | VirajMathpati | [Read More](https://medium.com/p/86e5ff5785a6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 20:37:51 GMT | Nimbus SOC: an end-to-end, evidence-backed detection lab on AWS | Jordan Bray | [Read More](https://medium.com/p/2e209ecf4191) |
 | Thu, 21 Aug 2025 20:37:30 GMT | Command and Control Server Powered by AI | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b58bc28f945a) |
 | Thu, 21 Aug 2025 20:33:08 GMT | The Hidden Cost of “Saving Money”: How Aging IT Infrastructure Destroys Business Value | Josh Welch | [Read More](https://medium.com/p/2592f945b378) |
-| Thu, 21 Aug 2025 20:30:21 GMT | A hands-on introduction to the Linux command line: Your first steps | Ekene Ejike | [Read More](https://medium.com/p/36f3e4b97f02) |
-| Thu, 21 Aug 2025 20:26:59 GMT | Move is not perfect #2: The Upgrade Trap | Quentin Diebold | [Read More](https://medium.com/p/1d2857417e37) |
-| Thu, 21 Aug 2025 20:26:08 GMT | How to Find Hidden Messages in JPEGs: A Beginner’s Guide to CTF Steganography Challenges from… | Hidden Investigations | [Read More](https://medium.com/p/2209beb322b2) |
-| Thu, 21 Aug 2025 20:23:21 GMT | Reflected XSS on Starbucks | 0X0mahmoud | [Read More](https://medium.com/p/1bcd07aa53f5) |
-| Thu, 21 Aug 2025 20:22:41 GMT | HackTheBox — Analyzing Windows Event Logs En Masse | Javier | [Read More](https://medium.com/p/f418d7c83865) |
