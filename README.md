@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 17:13:32 GMT | Admin Panel-CAT Reloaded CTF 2025 | 00xCanelo | [Read More](https://medium.com/p/6b7885223f23) |
+| Fri, 22 Aug 2025 17:13:27 GMT | Default Credentials: The Persistent & Preventable Cybersecurity Vulnerability | Vilkas Cybersecurity | [Read More](https://medium.com/p/0d51fc759426) |
+| Fri, 22 Aug 2025 17:06:34 GMT | Ansible: The Power of Simple, Agentless Automation for IT Operations & IT Management | Raisahmed | [Read More](https://medium.com/p/fd62406e8222) |
+| Fri, 22 Aug 2025 17:02:30 GMT | Cyber Attacks,Crime and AI flaws….. | _Anirudh_ | [Read More](https://medium.com/p/e7152ab54636) |
+| Fri, 22 Aug 2025 16:59:20 GMT | MY JOURNEY INTO TECH (CYBERSECURITY) | ESHIET ANIEDI FRIDAY | [Read More](https://medium.com/p/a48f43e15865) |
+| Fri, 22 Aug 2025 16:52:48 GMT | TryHackMe GitLab CVE-2023–7028 | Mainekhacker | [Read More](https://medium.com/p/d258ae9ea6e0) |
+| Fri, 22 Aug 2025 16:51:11 GMT | Predictive Drive Monitoring for Data Protection | ULINK DA Drive Analyzer | [Read More](https://medium.com/p/2f6bfd19cc39) |
+| Fri, 22 Aug 2025 16:46:59 GMT | Meta: When Tech Titans Dance | Mohammed Brückner | [Read More](https://medium.com/p/d5e816e7f083) |
+| Fri, 22 Aug 2025 16:44:35 GMT | Cyber Snack Day -10 | Anwar_Nainar | [Read More](https://medium.com/p/6ed3c55f35a1) |
+| Fri, 22 Aug 2025 16:40:16 GMT | Huawei Switch Temel Kurulum Rehberi (Sıfırdan Başlayanlar İçin) | Emre Koç | [Read More](https://medium.com/p/18092a036094) |
 | Fri, 22 Aug 2025 16:36:50 GMT | A Simple Supply Chain Bug — Worth $11,850 — How GitLab Reinforces Trust in Open Source | Justas_b | [Read More](https://medium.com/p/424585c79074) |
 | Fri, 22 Aug 2025 16:34:48 GMT | Cybersecurity News Review — Week 34 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/12c30ac1dcd9) |
 | Fri, 22 Aug 2025 16:33:22 GMT | How I Earned My First $500 Bug Bounty via Rate Limit Bypass | Ghanashyam Ghimire | [Read More](https://medium.com/p/8c1e92374860) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 12:27:17 GMT | Microsoft 365 Backup Failures: Causes and Proven Solutions | Axelmeyer | [Read More](https://medium.com/p/30fb52793a96) |
 | Fri, 22 Aug 2025 12:25:55 GMT | The Ultimate Privacy Guide 2025: Apps, Settings, and Systems to Take Back Control | Evan Huang | [Read More](https://medium.com/p/444a6ca9f610) |
 | Fri, 22 Aug 2025 12:21:30 GMT | How to Run a 1-Hour Incident Simulation With Your Team | Evgeny Ermakov | [Read More](https://medium.com/p/c32ff55930b1) |
-| Fri, 22 Aug 2025 12:18:58 GMT | This Week in Cybersecurity: Critical Exploits and Malware Deployments Uncovered | Loginsoft | [Read More](https://medium.com/p/d233d369a39e) |
-| Fri, 22 Aug 2025 12:17:31 GMT | Meta’s New AI Can Translate 200 Languages in Real-Time. Is This Goodbye to Google Translate? | Fahad's Foresight | [Read More](https://medium.com/p/734d7604fd49) |
-| Fri, 22 Aug 2025 12:14:24 GMT | Bitvavom11.xyz.com Scam Exposed: The Truth About This Fake Crypto Platform | Admin | [Read More](https://medium.com/p/6d609744d584) |
-| Fri, 22 Aug 2025 12:06:18 GMT | Why Should Companies Regularly Perform Vulnerability Assessment and Penetration Testing? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/19364d56a5d7) |
-| Fri, 22 Aug 2025 12:06:00 GMT | AI Security Operations & Threat Management Services | Sophia | [Read More](https://medium.com/p/128e54e0a91e) |
-| Fri, 22 Aug 2025 12:01:36 GMT | Reverse Engineering with Tryhackme(Easy) | SpaceIO | [Read More](https://medium.com/p/e7daad7b40c8) |
-| Fri, 22 Aug 2025 11:58:50 GMT | Cloud Security Compliance 2025: Best Practices | Qualysec | [Read More](https://medium.com/p/955374c12969) |
-| Fri, 22 Aug 2025 11:54:14 GMT | Implementing LDAP Authentication for Trac (both dockerized)via Apache | Khushwant | [Read More](https://medium.com/p/efe02a72023a) |
-| Fri, 22 Aug 2025 11:51:59 GMT | How Does Vulnerability Assessment and Penetration Testing Improve Business Security? | Ziya Zoe | [Read More](https://medium.com/p/02ce6cc90911) |
-| Fri, 22 Aug 2025 11:41:08 GMT | Almcoin.com Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/1fd03b2d2486) |
