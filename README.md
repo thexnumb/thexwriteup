@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 01:38:12 GMT | Zero Trust Isn’t a Buzzword Anymore — It’s Survival | Paritosh | [Read More](https://medium.com/p/c07226fe5160) |
+| Fri, 22 Aug 2025 01:31:43 GMT | Cybersecurity Risk Assessment: Steps, Tools & Best Practices | secureroot | [Read More](https://medium.com/p/2865d07d8a82) |
+| Fri, 22 Aug 2025 01:26:57 GMT | The Rise of Cybercrime-as-a-Service on the Dark Web | Samina Perveen | [Read More](https://medium.com/p/fc527bfeebbb) |
+| Fri, 22 Aug 2025 01:03:32 GMT | Cybersecurity Expert Reveals Dark Secrets of Hacking History | Techly | [Read More](https://medium.com/p/6c304b742361) |
+| Fri, 22 Aug 2025 00:37:49 GMT | Upload Large Files to Kommo CRM (no 2MB limit) — Workflow n8n ready | jailsonneves10@gmail.com | [Read More](https://medium.com/p/5a53704bc9ac) |
+| Fri, 22 Aug 2025 00:36:50 GMT | The Day Your AI Agent Got Rejected: Why Digital Identity is About to Break (And How We Fix It) | AstraSync AI | [Read More](https://medium.com/p/5e72610675af) |
+| Fri, 22 Aug 2025 00:32:37 GMT | Criminal IP Whitepaper: 7 Ways to Leverage Threat Intelligence in Security Operations | Criminal IP | [Read More](https://medium.com/p/43c821e07664) |
+| Fri, 22 Aug 2025 00:29:43 GMT | Planning a HomeLab for Cybersecurity and AI | Mike Chung | [Read More](https://medium.com/p/667728ed1e73) |
+| Fri, 22 Aug 2025 00:19:06 GMT | When Scammers Get Scammed: The Dark World of Fake Fraud Listings | Internet Exposed | [Read More](https://medium.com/p/b296e51e70a3) |
+| Fri, 22 Aug 2025 00:17:23 GMT | CPTS: THE HARDEST EXAM I’VE EVER FACED | Erick | [Read More](https://medium.com/p/8818ea947281) |
+| Fri, 22 Aug 2025 00:15:07 GMT | Cybersecurity guide blog | Labib Yasir | [Read More](https://medium.com/p/73e9bad305cb) |
+| Fri, 22 Aug 2025 00:03:30 GMT | CPTS: EL EXAMEN MÁS DIFÍCIL AL QUE ME HE ENFRENTADO | Erick | [Read More](https://medium.com/p/9604216afb28) |
+| Thu, 21 Aug 2025 23:48:56 GMT | The Hybrid Future of GRC Engineering — Part 2: Building the Layer | Varun Gurnaney | [Read More](https://medium.com/p/80f4ebce1b0f) |
+| Thu, 21 Aug 2025 23:47:35 GMT | AWS CLI v2 by Examples: Enhancing Security with AWS Systems Manager Parameter Store | MB20261 | [Read More](https://medium.com/p/918b054a8462) |
+| Thu, 21 Aug 2025 23:44:40 GMT | CAT CTF 2025 web challenges writeup | Mohamedelsayed | [Read More](https://medium.com/p/b68815292f4f) |
+| Thu, 21 Aug 2025 23:40:42 GMT | Deep Dive Project NANDA: Building the Agentic Web : Part 6 — Security Model | Mahesh Lambe | [Read More](https://medium.com/p/afd003ed8e70) |
 | Thu, 21 Aug 2025 23:33:26 GMT | Why Enterprise AI Browser is the Key to Connecting AI with Business Operations | Mammoth Cyber | [Read More](https://medium.com/p/cf96b1a8a878) |
 | Thu, 21 Aug 2025 23:23:49 GMT | Slingshot | Anthony Mazyck | [Read More](https://medium.com/p/d0161aaeac44) |
 | Thu, 21 Aug 2025 22:49:28 GMT | Divurion Group Listed on Dark Web as “Most Ruthless” Cyber Threat | SinVictus | [Read More](https://medium.com/p/02dd84916223) |
@@ -97,19 +113,3 @@ The quest for privacy in a… | Kim Brown | [Read More](https://medium.com/p/aec
 | Thu, 21 Aug 2025 18:03:34 GMT | NORMAN MEG | Norman Meg | [Read More](https://medium.com/p/4d40d1e06328) |
 | Thu, 21 Aug 2025 18:01:58 GMT | MCP-Universe: Why AI Agent Reliability Matters More Than Performance | Valdez Ladd | [Read More](https://medium.com/p/2ce316296c5e) |
 | Thu, 21 Aug 2025 17:57:15 GMT | Brain Overflow (BO) III — From Learning Science to Cyber Stamina | TheGr8Val | [Read More](https://medium.com/p/4213af89d64d) |
-| Thu, 21 Aug 2025 17:54:14 GMT | Brain Overflow (BO) II: Finding Your Wonderwall | TheGr8Val | [Read More](https://medium.com/p/c745741b92e1) |
-| Thu, 21 Aug 2025 17:52:21 GMT | BrainOverFlow I: Rompiendo Barreras Tecnicas | TheGr8Val | [Read More](https://medium.com/p/26300961d37a) |
-| Thu, 21 Aug 2025 17:42:31 GMT | Your First Definitive Guide and Review on HackTheBox CJCA Certification Exam | Chicken0248 | [Read More](https://medium.com/p/9606474a91bc) |
-| Thu, 21 Aug 2025 17:26:11 GMT | PG Practice — Shenzi (Windows) | Lepton | [Read More](https://medium.com/p/229f3c13bab5) |
-| Thu, 21 Aug 2025 17:24:43 GMT | The Rising Cybersecurity Threat of AI-Generated Malware: From Nation States to Your Living Room | Harold Moss | [Read More](https://medium.com/p/809da8079b05) |
-| Thu, 21 Aug 2025 17:21:03 GMT | The Trojan Blueprint Leak That Supercharged Android Malware | Aj | [Read More](https://medium.com/p/b80a04d68016) |
-| Thu, 21 Aug 2025 17:12:38 GMT | How Spy Apps Help You Track Social Media History Without Detection | Narjis Batool | [Read More](https://medium.com/p/9eae1681040b) |
-| Thu, 21 Aug 2025 17:11:49 GMT | LINUX CREDENTIAL HUNTING | PARADOX | [Read More](https://medium.com/p/65f8ee1d22d8) |
-| Thu, 21 Aug 2025 17:08:57 GMT | My ISO 27001 Learning Journey | Eashwar | [Read More](https://medium.com/p/b48e72b42668) |
-| Thu, 21 Aug 2025 17:06:18 GMT | Cyber Kill Chain and Steps of Cyber Kill Chain | Emir | [Read More](https://medium.com/p/cc767a9dfc12) |
-| Thu, 21 Aug 2025 17:03:55 GMT | Shodan: Search Engine Where U Must Learn How to Search | Aastha Thakker | [Read More](https://medium.com/p/1fb244d75d98) |
-| Thu, 21 Aug 2025 17:02:27 GMT | nmap [ip_address] -A Result Explained - NMAP Commands | Cyber Worrier | [Read More](https://medium.com/p/8a22fd3dd301) |
-| Thu, 21 Aug 2025 17:00:53 GMT | LinkedIn OSINT for Business Intelligence | Nazrul Islam Rana | [Read More](https://medium.com/p/024f027a8394) |
-| Thu, 21 Aug 2025 16:53:47 GMT | Integrating AWS RDS MySQL Audit Logs with Microsoft Sentinel | Akila Perera | [Read More](https://medium.com/p/a8cd62d6a942) |
-| Thu, 21 Aug 2025 16:51:35 GMT | Weaponizing the Hype: When AI Websites Become Cyber Threat Platforms. | Inforsecpro | [Read More](https://medium.com/p/e4495f019e83) |
-| Thu, 21 Aug 2025 16:50:11 GMT | Cyber Snack Day -9 | Anwar_Nainar | [Read More](https://medium.com/p/7993c347c05f) |
