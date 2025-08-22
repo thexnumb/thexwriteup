@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 17:30:29 GMT | Cryptocurrency Theft Incidents – History, Threats, and Security Lessons | David SEHYEON Baek | [Read More](https://medium.com/p/f3727bcbb029) |
+| Fri, 22 Aug 2025 17:29:12 GMT | The Truth About Energy: Why Some Places and People Drain You | Vijay Kumar Gupta | [Read More](https://medium.com/p/d879d73f6b49) |
+| Fri, 22 Aug 2025 17:28:00 GMT | PG Practice — Workaholic (Linux) | Lepton | [Read More](https://medium.com/p/1368a45d0d88) |
+| Fri, 22 Aug 2025 17:27:02 GMT | Nostalgia - CatReloaded CTF 2025 | 00xCanelo | [Read More](https://medium.com/p/556ca22c6a9f) |
+| Fri, 22 Aug 2025 17:23:09 GMT | CAT Reloaded CTF 2025-Web Challenges | s0nDOS | [Read More](https://medium.com/p/c11c08086d92) |
+| Fri, 22 Aug 2025 17:22:54 GMT | Cyber Security 101 | Justice Ugochukwu Nwamuo | [Read More](https://medium.com/p/7556fe254bbe) |
+| Fri, 22 Aug 2025 17:19:48 GMT | Your Photos Are Revealing Your Home Address Without You Knowing | Ngoc Nguyen Nhu | [Read More](https://medium.com/p/e1675652b023) |
+| Fri, 22 Aug 2025 17:18:40 GMT | Testing the Microsoft Graph Terraform Provider with Conditional Access Policies | Mark Tinderholt | [Read More](https://medium.com/p/cb1a43302f92) |
 | Fri, 22 Aug 2025 17:13:32 GMT | Admin Panel-CAT Reloaded CTF 2025 | 00xCanelo | [Read More](https://medium.com/p/6b7885223f23) |
 | Fri, 22 Aug 2025 17:13:27 GMT | Default Credentials: The Persistent & Preventable Cybersecurity Vulnerability | Vilkas Cybersecurity | [Read More](https://medium.com/p/0d51fc759426) |
+| Fri, 22 Aug 2025 17:09:58 GMT | 3 High-Income Skills You Can Learn for Free in 2025 | Muhammad Hassan Ali | [Read More](https://medium.com/p/c9cbbe10f9b8) |
 | Fri, 22 Aug 2025 17:06:34 GMT | Ansible: The Power of Simple, Agentless Automation for IT Operations & IT Management | Raisahmed | [Read More](https://medium.com/p/fd62406e8222) |
 | Fri, 22 Aug 2025 17:02:30 GMT | Cyber Attacks,Crime and AI flaws….. | _Anirudh_ | [Read More](https://medium.com/p/e7152ab54636) |
 | Fri, 22 Aug 2025 16:59:20 GMT | MY JOURNEY INTO TECH (CYBERSECURITY) | ESHIET ANIEDI FRIDAY | [Read More](https://medium.com/p/a48f43e15865) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 12:57:51 GMT | HTB Sauna Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/7436e9bde24a) |
 | Fri, 22 Aug 2025 12:55:53 GMT | Write-up PicoCTF:Forensics ‘information’ | Muhammad Khairin | [Read More](https://medium.com/p/3f7513c7b6b1) |
 | Fri, 22 Aug 2025 12:54:50 GMT | Why ICP Is Essential | DFINITY | [Read More](https://medium.com/p/5e9ffe870da1) |
-| Fri, 22 Aug 2025 12:54:45 GMT | Cron File Overwrite Privilege Escalation (Linux Privilege Escalation) | Ammar Ahmed | [Read More](https://medium.com/p/528ba4837bbf) |
-| Fri, 22 Aug 2025 12:52:10 GMT | Grande Prairie Security Guard Services — Protecting Businesses, Communities & Events | Support | [Read More](https://medium.com/p/fe8a73a2981a) |
-| Fri, 22 Aug 2025 12:51:22 GMT | The Role of IAM in Securing Agentic AI | Adrew M | [Read More](https://medium.com/p/8a902ec29cb6) |
-| Fri, 22 Aug 2025 12:38:08 GMT | 7 Subtle Signs Someone Isn’t as Good as They Pretend to Be (Even If They Seem Sweet) | Maria Arshad | [Read More](https://medium.com/p/868a8674f4e0) |
-| Fri, 22 Aug 2025 12:36:09 GMT | WhyHackMe—TryHackMe Walkthrough. | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/7198360fb50b) |
-| Fri, 22 Aug 2025 12:32:56 GMT | Elevating Oracle Database Security for Safer SQLcl MCP Server and Agentic AI Usage | Thomas Minne | [Read More](https://medium.com/p/1adb976d0f92) |
-| Fri, 22 Aug 2025 12:27:17 GMT | Microsoft 365 Backup Failures: Causes and Proven Solutions | Axelmeyer | [Read More](https://medium.com/p/30fb52793a96) |
-| Fri, 22 Aug 2025 12:25:55 GMT | The Ultimate Privacy Guide 2025: Apps, Settings, and Systems to Take Back Control | Evan Huang | [Read More](https://medium.com/p/444a6ca9f610) |
-| Fri, 22 Aug 2025 12:21:30 GMT | How to Run a 1-Hour Incident Simulation With Your Team | Evgeny Ermakov | [Read More](https://medium.com/p/c32ff55930b1) |
