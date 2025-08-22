@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 22:34:06 GMT | hi. I’m Zora. I got hacked! | Chime Chukwubuike Victory | [Read More](https://medium.com/p/1004c33cf39e) |
+| Fri, 22 Aug 2025 22:33:00 GMT | PG Practice — Crane (Linux) | Lepton | [Read More](https://medium.com/p/dac7bfbeaec4) |
+| Fri, 22 Aug 2025 22:24:14 GMT | # Launching My Writing Journey: Kubernetes Security Alert – IngressNightmare | Dikshant Lather | [Read More](https://medium.com/p/adab9f22013f) |
 | Fri, 22 Aug 2025 22:17:30 GMT | Building an Automated Pentest Reporting Pipeline | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5d7809622fbf) |
 | Fri, 22 Aug 2025 21:55:10 GMT | 5 Critical Geopolitical Risks Impacting Cybersecurity in North America | Richard Frederick | [Read More](https://medium.com/p/30d8bd7de726) |
 | Fri, 22 Aug 2025 21:42:31 GMT | CCTV surveillance | Visual Monitoring Solutions | [Read More](https://medium.com/p/e14665f84b7d) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 16:26:32 GMT | Password Managers Vulnerable to Data Theft via Clickjacking | Securis360 Inc. | [Read More](https://medium.com/p/1fea38f5fcb4) |
 | Fri, 22 Aug 2025 16:24:27 GMT | Ofuscando Shellcode con XOR: Evadiendo Firmas Estáticas y Analizando con PEBear | s1egfr1ed | [Read More](https://medium.com/p/7644cbd41d7f) |
 | Fri, 22 Aug 2025 16:01:33 GMT | In 1272, this Hungarian feudal lord was hacked to pieces. | Historical Tavern | [Read More](https://medium.com/p/ebcd769865b4) |
-| Fri, 22 Aug 2025 16:00:00 GMT | Magna-fx.com Crypto Scam: How I Nearly Lost Everything | Admin | [Read More](https://medium.com/p/953c3889f0bb) |
-| Fri, 22 Aug 2025 15:59:42 GMT | The 2026 Roadmap for Tech Execs: Economy, Execution, and Cultural Environment | Yael Nagler | [Read More](https://medium.com/p/5e85582031ee) |
-| Fri, 22 Aug 2025 15:57:49 GMT | Cybersecurity Threats Lenders Must Watch Out for This Year | Coffeez for Closers with Joe Shalaby | [Read More](https://medium.com/p/a9ef4d09dd0d) |
