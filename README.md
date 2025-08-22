@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 21:31:39 GMT | When Spooky Fonts Turn Deadly: Exploiting Server-Side Template Injection for Remote Code Execution | Yeraldinmueses | [Read More](https://medium.com/p/debbe4d2c2d7) |
+| Fri, 22 Aug 2025 21:31:07 GMT | CATF 2025 Vibe Coded C Web Challenge WriteUp | UsifAraby | [Read More](https://medium.com/p/5f1fa834181a) |
+| Fri, 22 Aug 2025 21:29:14 GMT | The Rising Cost of Cybercrime and What It Means for Businesses | Akshay Chauhan | [Read More](https://medium.com/p/13479af20cdc) |
 | Fri, 22 Aug 2025 21:07:42 GMT | Beyond PCI and HIPAA: How Feroot Powers Gramm–Leach–Bliley Act (GLBA) Compliance | Feroot Security | [Read More](https://medium.com/p/d9a2b109a4a6) |
 | Fri, 22 Aug 2025 21:03:31 GMT | Portswigger HTTP Host Header Attacks Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/f773ffad923d) |
 | Fri, 22 Aug 2025 20:54:44 GMT | Network Security: Protecting the Highways of the Digital World | Akshay Chauhan | [Read More](https://medium.com/p/e0c8538e3b27) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 15:46:33 GMT | Staying Motivated in Bug Bounty Hunting: Lessons from Experience | Ghanashyam Ghimire | [Read More](https://medium.com/p/f319b2081dfc) |
 | Fri, 22 Aug 2025 15:46:30 GMT | What is Cyber Security? | Atakan Bitim | [Read More](https://medium.com/p/a771097a43f3) |
 | Fri, 22 Aug 2025 15:45:49 GMT | Siber Güvenlik Nedir? | Atakan Bitim | [Read More](https://medium.com/p/73839171c894) |
-| Fri, 22 Aug 2025 15:45:02 GMT | Pretty or Functional? Time to Compromise for Flowcharts | Alex Nejako | [Read More](https://medium.com/p/c5b9cb3fc6d0) |
-| Fri, 22 Aug 2025 15:44:41 GMT | Cytpe.ai Scam Exposed: The Truth About This Fake Crypto Platform | Admin | [Read More](https://medium.com/p/0d1a5c738ea3) |
-| Fri, 22 Aug 2025 15:43:10 GMT | Ichcoin.net Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/567a00b1f6aa) |
