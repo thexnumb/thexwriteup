@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 18:23:33 GMT | Mobile Malware: A Look at the Threats on Android and iOS | Samina Perveen | [Read More](https://medium.com/p/c570379f04d8) |
+| Fri, 22 Aug 2025 18:21:30 GMT | How I Got Hacked: Lessons Every Professional Should Know | Cyberkech | [Read More](https://medium.com/p/c0dfadd49d4b) |
+| Fri, 22 Aug 2025 18:15:45 GMT | Flash Loan Attacks: Breaking Solidity Smart Contracts | vishhxyz | [Read More](https://medium.com/p/14f2349f4b8f) |
+| Fri, 22 Aug 2025 18:15:33 GMT | How Spy Apps for Monitoring Cell Phone Ensure the Safety of Your Loved Ones | Narjis Batool | [Read More](https://medium.com/p/6950560b1066) |
+| Fri, 22 Aug 2025 18:14:14 GMT | Subdomain Takeover: Beyond Basics (From a Bug Bounty Hunter’s Perspective) | sukhveer singh | [Read More](https://medium.com/p/8a7ec892ff14) |
+| Fri, 22 Aug 2025 18:03:45 GMT | A Critical Examination of Signal, Encryption, and Surveillance | Alvar Laigna | [Read More](https://medium.com/p/ffa4c03466ea) |
+| Fri, 22 Aug 2025 18:01:33 GMT | Beyond The Firewall: How Governments track your phone - Part 1 | Crashwire | [Read More](https://medium.com/p/9d89d4c6c97c) |
+| Fri, 22 Aug 2025 18:01:06 GMT | The Unseen War: Why the World’s Leading Companies Fortify Themselves with Whisec Solutions | whisec solutions | [Read More](https://medium.com/p/161031af068b) |
+| Fri, 22 Aug 2025 17:58:55 GMT | The New Battlefield: Defending Your Enterprise from High-End Security Threats | whisec solutions | [Read More](https://medium.com/p/4bffb3b392e8) |
+| Fri, 22 Aug 2025 17:57:50 GMT | The Hidden Danger of document.on() That Every Developer Should Know..‍⚠️ | Shubham Vartak | [Read More](https://medium.com/p/1e687d2c88b3) |
+| Fri, 22 Aug 2025 17:55:38 GMT | Beyond the Firewall: Why a Powerful Cybersecurity Strategy is Your Greatest Business Asset | whisec solutions | [Read More](https://medium.com/p/82a16d2e6000) |
+| Fri, 22 Aug 2025 17:37:53 GMT | Urgent Alert for Apple Users: Business Can’t Ignore the Latest Apple Zero-Day Patch | IT_Engineer | [Read More](https://medium.com/p/ecab96a24302) |
+| Fri, 22 Aug 2025 17:37:42 GMT | When does transparency become overload in Web3? | Shivanand Shukla | [Read More](https://medium.com/p/1f96fbc1fc5a) |
+| Fri, 22 Aug 2025 17:35:45 GMT | Intelligent SBOM Ingestion and Breaking Change Analysis | ActiveState | [Read More](https://medium.com/p/2db1c70c3eb7) |
 | Fri, 22 Aug 2025 17:30:29 GMT | Cryptocurrency Theft Incidents – History, Threats, and Security Lessons | David SEHYEON Baek | [Read More](https://medium.com/p/f3727bcbb029) |
 | Fri, 22 Aug 2025 17:29:12 GMT | The Truth About Energy: Why Some Places and People Drain You | Vijay Kumar Gupta | [Read More](https://medium.com/p/d879d73f6b49) |
 | Fri, 22 Aug 2025 17:28:00 GMT | PG Practice — Workaholic (Linux) | Lepton | [Read More](https://medium.com/p/1368a45d0d88) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 13:32:00 GMT | HTB Malware Skills Assessment | Luke | [Read More](https://medium.com/p/c62721f543e8) |
 | Fri, 22 Aug 2025 13:32:00 GMT | AI in Cybersecurity: How Business Leaders Can Stay Ahead of Smart Threats | Tech Caps | [Read More](https://medium.com/p/a3970e2a0617) |
 | Fri, 22 Aug 2025 13:32:00 GMT | Why Humans Are Still the Weakest Link in Cybersecurity — And How to Fix It. | Faris Afdhil Fawwaz | [Read More](https://medium.com/p/b6dc160666b5) |
-| Fri, 22 Aug 2025 13:22:59 GMT | Best Security Awareness Training Vendors (2025) | Keepnet Labs | [Read More](https://medium.com/p/9d1d0f90441f) |
-| Fri, 22 Aug 2025 13:18:25 GMT | A close call during Cyber Incident Response | Michael de Neuilly Rice | [Read More](https://medium.com/p/4ee9791046ce) |
-| Fri, 22 Aug 2025 13:15:06 GMT | Unbreakable: 7 AI Cybersecurity Secrets Every Tech Innovator Should Know | Envitics Blogs | [Read More](https://medium.com/p/951a0efe048f) |
-| Fri, 22 Aug 2025 13:14:10 GMT | Lanewealthclub.com Crypto Scam: How I Got Trapped and Managed to Recover Funds | Admin | [Read More](https://medium.com/p/1866edc37419) |
-| Fri, 22 Aug 2025 13:10:12 GMT | The Malware You Never See: RAR Filenames Launching Memory Attacks on Linux . | Pentestjunkie07 | [Read More](https://medium.com/p/6da246ff8cb5) |
-| Fri, 22 Aug 2025 13:09:51 GMT | Elevating Society Security with AI: A Look at the SocietyConnect App | Hc | [Read More](https://medium.com/p/f96026c245a7) |
-| Fri, 22 Aug 2025 13:09:39 GMT | DoH, DoT, and Punycode: What Every Forensic GuyNeeds to Know About Modern DNS Evasion Tactics | Dean | [Read More](https://medium.com/p/3d03cdecf823) |
-| Fri, 22 Aug 2025 13:09:11 GMT | Sxhjas-fx.com Scam Review: How I Recovered From a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/cb487ffac52d) |
-| Fri, 22 Aug 2025 13:07:02 GMT | Multitradehub.com Crypto Scam: A Fake AI Trading Service That Trapped Me | Admin | [Read More](https://medium.com/p/71cb105c936b) |
-| Fri, 22 Aug 2025 13:01:53 GMT | Security Company in York: Protecting Businesses Against Rising Threats | Region Security | [Read More](https://medium.com/p/6dbe96c86263) |
-| Fri, 22 Aug 2025 13:01:40 GMT | What I Found When a Simple HTML Injection Went Wrong | Ibtissam hammadi | [Read More](https://medium.com/p/4953d9706f18) |
-| Fri, 22 Aug 2025 12:57:51 GMT | HTB Sauna Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/7436e9bde24a) |
-| Fri, 22 Aug 2025 12:55:53 GMT | Write-up PicoCTF:Forensics ‘information’ | Muhammad Khairin | [Read More](https://medium.com/p/3f7513c7b6b1) |
-| Fri, 22 Aug 2025 12:54:50 GMT | Why ICP Is Essential | DFINITY | [Read More](https://medium.com/p/5e9ffe870da1) |
