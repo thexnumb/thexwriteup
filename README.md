@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 03:48:12 GMT | Shop.usukwayfair.com Scam Review: How I Recovered From a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/d987e3d5e8ff) |
+| Fri, 22 Aug 2025 03:44:40 GMT | Robinhood-ot.com Crypto Scam: A Fake AI Trading Service That Trapped Me | Admin | [Read More](https://medium.com/p/a3de2f594067) |
+| Fri, 22 Aug 2025 03:37:42 GMT | Sheildstrustssb.com Crypto Scam: How I Nearly Lost Everything | Admin | [Read More](https://medium.com/p/920b116195c4) |
+| Fri, 22 Aug 2025 03:34:13 GMT | Qexbitast.com Scam Exposed: The Truth About This Fake Crypto Platform | Admin | [Read More](https://medium.com/p/2a72f74ad139) |
+| Fri, 22 Aug 2025 03:30:46 GMT | Qexbit.org Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/2c5631ffbe83) |
+| Fri, 22 Aug 2025 03:27:55 GMT | Ulusal GRC ve Siber Güvenlik Entegrasyonu: Yerli ve Yabancı Örnekler | Ahmet Önal | [Read More](https://medium.com/p/9f6cdc2cebca) |
+| Fri, 22 Aug 2025 03:23:48 GMT | Curl/Libcurl Buffer Overflow Bug Could Lead to RCE — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/71c8f4d3bb43) |
+| Fri, 22 Aug 2025 03:17:12 GMT | Griurxp.cc Crypto Scam: How I Got Trapped and Managed to Recover Funds | ADMIN | [Read More](https://medium.com/p/701648fb6910) |
+| Fri, 22 Aug 2025 03:16:30 GMT | ⚡ Cyber Leader 2.0: How to Future-Proof Your Career in the Age of AI Disruption | Dr. Deep Pandey | [Read More](https://medium.com/p/2b610fa5464b) |
 | Fri, 22 Aug 2025 03:03:57 GMT | Hidden Windows Accounts A Stealth Technique Abused by Attackers | Jormungandr | [Read More](https://medium.com/p/6f7e0b0f7063) |
+| Fri, 22 Aug 2025 03:03:32 GMT | Python Range Function Tricks Every Data Scientist Should Know | Ajaymaurya | [Read More](https://medium.com/p/96bc38a4b6ad) |
 | Fri, 22 Aug 2025 03:02:53 GMT | Simulating Dirty Pipe Exploitation and Blue Team Defense with Wazuh integrated with Suricata… | Rishita Trivedi | [Read More](https://medium.com/p/a37765b8b5ad) |
 | Fri, 22 Aug 2025 03:02:27 GMT | Bibbtccc.com Scam Exposed: The Truth About This Fake Crypto Platform | ADMIN | [Read More](https://medium.com/p/1e60aa156aff) |
 | Fri, 22 Aug 2025 02:59:41 GMT | Axisgcpros.com Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | ADMIN | [Read More](https://medium.com/p/4f79cea95ec7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 19:38:30 GMT | Information Security Fundamentals and The CIA Triad | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/b2c69856d11d) |
 | Thu, 21 Aug 2025 19:35:32 GMT | Before You Click: The Hidden Dangers of Untrusted PowerApps | Achyuatkumar | [Read More](https://medium.com/p/cc8197dff9b0) |
 | Thu, 21 Aug 2025 19:31:00 GMT | Cyber Security Compliance Guide: Everything Organizations Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/750f5ca45f2c) |
-| Thu, 21 Aug 2025 19:24:55 GMT | Bug-Free Software? Here’s What I’ve Learned in My 3-Year Journey in MERN Development | Maharashtrachya Kushit | [Read More](https://medium.com/p/f200240e84f5) |
-| Thu, 21 Aug 2025 19:19:06 GMT | Know Your Enemy | Shuvo deb nath | [Read More](https://medium.com/p/b3af0fcdf579) |
-| Thu, 21 Aug 2025 19:17:42 GMT | Navigating SPRS Scores: A Quick Guide for DoD Contractors | ISI Defense | [Read More](https://medium.com/p/50d5167ed9e2) |
-| Thu, 21 Aug 2025 19:16:38 GMT | Best Practices for Strong Passwords: Protecting Your Digital Identity | SafeAeon Inc. | [Read More](https://medium.com/p/326c4b9859d8) |
-| Thu, 21 Aug 2025 19:07:54 GMT | Making Sense of it All: Generative, Agent and Agentic AI | Pete Chronis | [Read More](https://medium.com/p/b5b245d61485) |
-| Thu, 21 Aug 2025 19:05:59 GMT | Cracking GeneQuest: Two Critical Bugs and My 19th Place Finish at DEF CON’s Bug Bounty Village CTF | Madhan Mohan Reddy | [Read More](https://medium.com/p/1c14564dae83) |
-| Thu, 21 Aug 2025 18:56:01 GMT | Digital Amnesia: How Forgotten Cloud Accounts Become Hacker Goldmines | Akshay Chauhan | [Read More](https://medium.com/p/905f190d79cd) |
-| Thu, 21 Aug 2025 18:51:30 GMT | Why Cryptography Matters | Anna Murray | [Read More](https://medium.com/p/53dcc3ca7b68) |
-| Thu, 21 Aug 2025 18:49:40 GMT | Phishing: Come Riconoscere e Bloccare le Truffe Digitali | Giampaolocappellotto | [Read More](https://medium.com/p/0c4dd5683247) |
-| Thu, 21 Aug 2025 18:42:15 GMT | Magnolia Write-up — SWU CTF 2025 | Nattawadee Inala | [Read More](https://medium.com/p/b92a8870600f) |
