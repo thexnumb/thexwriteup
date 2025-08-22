@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 11:28:47 GMT | Day 3: Disabling Direct SSH Root Login for Enhanced Server Security | Suraif Muhammad | [Read More](https://medium.com/p/e2ef01fb3362) |
+| Fri, 22 Aug 2025 11:24:27 GMT | When My Router Firmware Got Replaced: Router Hijacking Attack | Shahzaib | [Read More](https://medium.com/p/025548d659d3) |
 | Fri, 22 Aug 2025 11:17:19 GMT | Types of Solar Panels: Monocrystalline vs. Polycrystalline vs. Bifacial | Sun Photonics | [Read More](https://medium.com/p/2ba53c54e597) |
 | Fri, 22 Aug 2025 11:15:36 GMT | Imaging 101: Hash‑Verified Acquisition Without Contaminating Evidence | Rahul Prasad | [Read More](https://medium.com/p/363a3c27961f) |
 | Fri, 22 Aug 2025 11:11:30 GMT | Understanding Backdoor Attacks in AI Systems | Brittney Ginther | [Read More](https://medium.com/p/a69a3865d0f6) |
@@ -111,5 +113,3 @@ This report details the… | Krutik Raut | [Read More](https://medium.com/p/911e
 | Fri, 22 Aug 2025 06:45:41 GMT | Warning: New Scam Targeting Web3 Developers (nowsync.app) | Bogdoslav | [Read More](https://medium.com/p/e5e4dac76a01) |
 | Fri, 22 Aug 2025 06:43:20 GMT | Instagram, Consent & AI Training: What You Need to Know | Nivas Kanniah | [Read More](https://medium.com/p/bb735c3bf49c) |
 | Fri, 22 Aug 2025 06:38:10 GMT | Whale Wallet 해킹 사건 분석: 피싱 공격으로 인한 $71M 규모의 WBTC 탈취 | 클로인트 가상자산 정보분석 센터(CIC) | [Read More](https://medium.com/p/8b4b207ddcdf) |
-| Fri, 22 Aug 2025 06:36:43 GMT | How SafeLine WAF Blocks Automated API Calls Using User-Agent Rules | AerieWhole123 | [Read More](https://medium.com/p/38fdf133b5f3) |
-| Fri, 22 Aug 2025 06:36:08 GMT | Advancing Vulnerability Assessment in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/8d003bd3329b) |
