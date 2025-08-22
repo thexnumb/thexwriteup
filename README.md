@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 20:16:20 GMT | Lumma Stealer 2025 - Full Breakdown of the Infostealer That Shook the World | Motasem Hamdan | [Read More](https://medium.com/p/d4a793da15e8) |
+| Fri, 22 Aug 2025 20:06:34 GMT | Project #5: Static NAT, Dynamic PAT + More Routing & Troubleshooting | NSESean | [Read More](https://medium.com/p/a4cb34eefd0c) |
+| Fri, 22 Aug 2025 20:06:18 GMT | Multi-Factor Authentication (MFA) | Kelly C. Bourne | [Read More](https://medium.com/p/c6a8a20c4317) |
+| Fri, 22 Aug 2025 20:03:06 GMT | Cybersecurity Workflow: A Step-by-Step Guide | SafeAeon Inc. | [Read More](https://medium.com/p/dd72c0664d2c) |
+| Fri, 22 Aug 2025 20:01:04 GMT | Professional Python Project Architecture: A Comprehensive Guide for Cybersecurity Engineers | Mohamed Gebril | [Read More](https://medium.com/p/16f55b066dd2) |
+| Fri, 22 Aug 2025 19:51:29 GMT | Portswigger Server-side template injection — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/41103b47147f) |
+| Fri, 22 Aug 2025 19:51:20 GMT | My Internship Journey with Oasis Infobyte — OIBSIP Experience | Kizito Arinze Chukwu | [Read More](https://medium.com/p/5d9372915451) |
+| Fri, 22 Aug 2025 19:44:59 GMT | CSRF to Delete a Pet — How I Found a Vulnerability in the /pets/delete Endpoint | dr34m14 | [Read More](https://medium.com/p/637b3e50152b) |
+| Fri, 22 Aug 2025 19:43:41 GMT | Achieving SOC 2 Compliance: A Detailed Checklist for Success | SafeAeon Inc. | [Read More](https://medium.com/p/5ae72ca69e3e) |
+| Fri, 22 Aug 2025 19:43:35 GMT | Drosera | Soch | [Read More](https://medium.com/p/f4518e8a4718) |
+| Fri, 22 Aug 2025 19:43:12 GMT | What SMBs Can Learn from the Ingram Micro Ransomware Breach — And Why Fully Managed XDR from… | Julian M | [Read More](https://medium.com/p/08ebf570e977) |
+| Fri, 22 Aug 2025 19:41:32 GMT | Portswigger Authentication Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/9b7201dca347) |
+| Fri, 22 Aug 2025 19:37:32 GMT | picoCTF: Cookie Monster Secret Recipe | Ross Andrews | [Read More](https://medium.com/p/66f8b199502f) |
 | Fri, 22 Aug 2025 19:25:09 GMT | Cybersecurity Fundamentals: A Comprehensive Guide to Network Security, Protocols, and Essential… | Muhammad Haseeb | [Read More](https://medium.com/p/579ac7d0b344) |
 | Fri, 22 Aug 2025 19:19:01 GMT | CTI Diaries #5: Intelligence Requirements and Collection Management | Deniz Topaloglu | [Read More](https://medium.com/p/44ff275483d2) |
 | Fri, 22 Aug 2025 19:18:43 GMT | The Future of AI in Everyday Life: How Technology Will Shape Our Tomorrow | Vansh | [Read More](https://medium.com/p/181c6651f787) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 15:06:25 GMT | Malware Development 0x1: Process Injection | Azefox innovations | [Read More](https://medium.com/p/c32479866878) |
 | Fri, 22 Aug 2025 15:02:32 GMT | CAT CTF 25 Web challenges writeups | 0xNayel | [Read More](https://medium.com/p/2655e02b6485) |
 | Fri, 22 Aug 2025 15:01:55 GMT | How to discover your career path in cybersecurity. | David Ajuzie | [Read More](https://medium.com/p/33271f4cebcd) |
-| Fri, 22 Aug 2025 14:53:50 GMT | Detecting ClickFixing with detections.ai — Community Sourced Detections | @mikecybersec | [Read More](https://medium.com/p/ecc774adabf9) |
-| Fri, 22 Aug 2025 14:50:57 GMT | Shell Scripting Basics REVISION (for brushing up) | Divita Jain | [Read More](https://medium.com/p/da9c20d34445) |
-| Fri, 22 Aug 2025 14:47:04 GMT | What on Earth is an insect? | Nonjabulo Matomela | [Read More](https://medium.com/p/78dc3a55526a) |
-| Fri, 22 Aug 2025 14:39:01 GMT | ELF (Executable and Linkable Format) | Santhosh duraipandiyan | [Read More](https://medium.com/p/1448baa49afb) |
-| Fri, 22 Aug 2025 14:33:51 GMT | Managed Security Services (MSSP) Nedir? | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/5b3eed8f51f5) |
-| Fri, 22 Aug 2025 14:33:22 GMT | Frozen Frontlines: The Russia – Ukraine War Enters a Cooler Phase | Aishwarya Nagar | [Read More](https://medium.com/p/674b23d65127) |
-| Fri, 22 Aug 2025 14:31:31 GMT | The Botnet Kingpin: Young Oregon Man Accused of Building a Global Cyberweapon | Dhruvdeep Singh | [Read More](https://medium.com/p/a11251144e02) |
-| Fri, 22 Aug 2025 14:29:41 GMT | Drosera stepping up to protect RWA from more exploitations. | Yuni | [Read More](https://medium.com/p/e11298e21836) |
-| Fri, 22 Aug 2025 14:24:04 GMT | CVE-2019–5475 - Command injection escalated to Reverse shell. | Santhosh duraipandiyan | [Read More](https://medium.com/p/90dd1d6fe88f) |
-| Fri, 22 Aug 2025 14:23:06 GMT | From Books to Breaches: What Cybersecurity Publications Taught Me About Real Attacks | Shahzaib | [Read More](https://medium.com/p/000514384379) |
-| Fri, 22 Aug 2025 14:22:05 GMT | How Hackers Used Fake Resumes to Hijack Our Hiring Process | Shahzaib | [Read More](https://medium.com/p/25430a204060) |
-| Fri, 22 Aug 2025 14:22:00 GMT | I Asked AI to Hack Me. The Results Were Terrifying (and Useful) | Aj | [Read More](https://medium.com/p/20e7cb7ce1de) |
-| Fri, 22 Aug 2025 14:20:44 GMT | DOC: A new attack in the age of AI | Eko Adetolani | [Read More](https://medium.com/p/0cccb4392c4d) |
