@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 10:12:19 GMT | Real-World Cases of Phishing Email Bodies | Allen Ace | [Read More](https://medium.com/p/a6cc4305c78d) |
+| Fri, 22 Aug 2025 10:10:02 GMT | Achieving Total Visibility: An AWS Guide to Logging, Monitoring, and Alerting | Menelik | [Read More](https://medium.com/p/016b61243969) |
+| Fri, 22 Aug 2025 10:09:45 GMT | Pride in Service, Strength in Teamwork | EXLITY | [Read More](https://medium.com/p/47092f642034) |
+| Fri, 22 Aug 2025 10:08:03 GMT | The Weight of Words I Cannot Speak | kicho | [Read More](https://medium.com/p/57008f4b759f) |
+| Fri, 22 Aug 2025 10:05:53 GMT | Advanced Authentication Strategies with NextAuth.js | @rnab | [Read More](https://medium.com/p/a0ccb688f98a) |
+| Fri, 22 Aug 2025 10:01:36 GMT | Emulators, Exploits, and Easter Eggs: Why I Hack Retro Games for Fun (and Profit?) | Franziska "Ziska" Fink | [Read More](https://medium.com/p/047353c0c895) |
+| Fri, 22 Aug 2025 09:58:34 GMT | HelpDesk | joseml | [Read More](https://medium.com/p/82434117ab58) |
+| Fri, 22 Aug 2025 09:55:07 GMT | The Link Between Data Privacy and Data Security Jobs | Kartik Debnath | [Read More](https://medium.com/p/66e1a671424a) |
+| Fri, 22 Aug 2025 09:55:05 GMT | Quantum Hackers Are Coming: Are You Ready? | CtrlC3 | [Read More](https://medium.com/p/0319016e1862) |
+| Fri, 22 Aug 2025 09:52:22 GMT | IT Staff Augmentation Strategies to Scale Your Tech Team | Quadrant IT Services | [Read More](https://medium.com/p/c2cd5cf69693) |
+| Fri, 22 Aug 2025 09:52:17 GMT | Reliable Managed Cybersecurity Services In India - Protect Your Digital Assets | Gowthammathiew | [Read More](https://medium.com/p/6bb697d5badb) |
+| Fri, 22 Aug 2025 09:51:55 GMT | Top 10 Open-Source AI Agent Penetration Testing Projects | Richard Mader | [Read More](https://medium.com/p/834d9151a176) |
+| Fri, 22 Aug 2025 09:46:14 GMT | Total Security Solutions & Consultancy: Safeguarding Businesses in a Modern Era | Ciss India | [Read More](https://medium.com/p/36c73de53e1d) |
+| Fri, 22 Aug 2025 09:31:17 GMT | JWT Authentication Bypass via Unverified Signature (Explained with Example) | Udeshna | [Read More](https://medium.com/p/3eb7c83a3907) |
+| Fri, 22 Aug 2025 09:30:29 GMT | Let MCP Help Your Offensive Security | Jie Liau | [Read More](https://medium.com/p/6d8906423cac) |
 | Fri, 22 Aug 2025 09:27:32 GMT | Lumma Stealer: Detection Engineering & Telemetry Anchors (Part 2) | Siddhant Mishra | [Read More](https://medium.com/p/4d6a026dd8f3) |
 | Fri, 22 Aug 2025 09:20:41 GMT | Hacking My Way Into Cybersecurity: How I Did It | Authlyn | [Read More](https://medium.com/p/c4bf4cb86c62) |
 | Fri, 22 Aug 2025 09:18:21 GMT | Identification of the Best Attack Paths in Penetration Testing | PenligentAI | [Read More](https://medium.com/p/00931f0ec23d) |
@@ -98,18 +113,3 @@ This report details the… | Krutik Raut | [Read More](https://medium.com/p/911e
 | Fri, 22 Aug 2025 05:02:52 GMT | Top 5 Open Source Threat Hunting Tools You’ll Actually Want to Use | jabar | [Read More](https://medium.com/p/9b253b8bd2ce) |
 | Fri, 22 Aug 2025 05:00:23 GMT | Step-by-Step: Exploiting LFI to Gain Shell Access (CTF Walkthrough) | Aj | [Read More](https://medium.com/p/acc9d4c2858c) |
 | Fri, 22 Aug 2025 04:59:04 GMT | The Hidden Danger of OAuth: How One Missing Parameter Can Destroy Your Authentication System | Zubair Usman | [Read More](https://medium.com/p/8fea37799bee) |
-| Fri, 22 Aug 2025 04:56:39 GMT | ประจำวันศุกร์ที่ 22 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/941cd30c8c9a) |
-| Fri, 22 Aug 2025 04:56:31 GMT | Will AI Replace Hackers or Make Them Stronger? | Aj | [Read More](https://medium.com/p/3aaa6160bd38) |
-| Fri, 22 Aug 2025 04:46:31 GMT | Being vulnerably yourself is beautiful! | Madhuri Maharana | [Read More](https://medium.com/p/0f4581d5fbef) |
-| Fri, 22 Aug 2025 04:21:30 GMT | How My Hometown Shaped My Views on Community and Safety | Paschal Ogana | [Read More](https://medium.com/p/90e492947a5f) |
-| Fri, 22 Aug 2025 04:17:33 GMT | Discover Leading Information Technology Colleges in Mumbai Today | Bharatvidyapeeth | [Read More](https://medium.com/p/6c7dc274aa84) |
-| Fri, 22 Aug 2025 04:16:22 GMT | CRHC CTF | VirajMathpati | [Read More](https://medium.com/p/86e5ff5785a6) |
-| Fri, 22 Aug 2025 04:09:59 GMT | TryHackMe - Pickle Rick Room - Write-Up (Spoilers) | Kieranjd98 | [Read More](https://medium.com/p/df72cb24995d) |
-| Fri, 22 Aug 2025 04:01:39 GMT | How SafeLine WAF Stops Bots and Scanners in Your Homelab (Beta) | AerieWhole123 | [Read More](https://medium.com/p/d2fccf112d44) |
-| Fri, 22 Aug 2025 04:01:25 GMT | Day 39- Basics of NAS and SAN for beginners | unica 02 | [Read More](https://medium.com/p/84729612369e) |
-| Fri, 22 Aug 2025 03:54:23 GMT | TryHackMe — Daily Bugle | Cyber Anom | [Read More](https://medium.com/p/9a9c6cfcd587) |
-| Fri, 22 Aug 2025 03:52:17 GMT | Bitfundss.vip Crypto Scam: How I Got Trapped and Managed to Recover Funds | Admin | [Read More](https://medium.com/p/1aabbd526b72) |
-| Fri, 22 Aug 2025 03:52:00 GMT | LinkedIn disallows all robots to index some things, OSINT Challenge (How to find the password… | NetDark | [Read More](https://medium.com/p/4fc42ab473c8) |
-| Fri, 22 Aug 2025 03:48:12 GMT | Shop.usukwayfair.com Scam Review: How I Recovered From a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/d987e3d5e8ff) |
-| Fri, 22 Aug 2025 03:44:40 GMT | Robinhood-ot.com Crypto Scam: A Fake AI Trading Service That Trapped Me | Admin | [Read More](https://medium.com/p/a3de2f594067) |
-| Fri, 22 Aug 2025 03:37:42 GMT | Sheildstrustssb.com Crypto Scam: How I Nearly Lost Everything | Admin | [Read More](https://medium.com/p/920b116195c4) |
