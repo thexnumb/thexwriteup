@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 12:36:09 GMT | WhyHackMe—TryHackMe Walkthrough. | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/7198360fb50b) |
+| Fri, 22 Aug 2025 12:32:56 GMT | Elevating Oracle Database Security for Safer SQLcl MCP Server and Agentic AI Usage | Thomas Minne | [Read More](https://medium.com/p/1adb976d0f92) |
+| Fri, 22 Aug 2025 12:25:55 GMT | The Ultimate Privacy Guide 2025: Apps, Settings, and Systems to Take Back Control | Evan Huang | [Read More](https://medium.com/p/444a6ca9f610) |
+| Fri, 22 Aug 2025 12:21:30 GMT | How to Run a 1-Hour Incident Simulation With Your Team | Evgeny Ermakov | [Read More](https://medium.com/p/c32ff55930b1) |
+| Fri, 22 Aug 2025 12:18:58 GMT | This Week in Cybersecurity: Critical Exploits and Malware Deployments Uncovered | Loginsoft | [Read More](https://medium.com/p/d233d369a39e) |
+| Fri, 22 Aug 2025 12:17:31 GMT | Meta’s New AI Can Translate 200 Languages in Real-Time. Is This Goodbye to Google Translate? | Fahad's Foresight | [Read More](https://medium.com/p/734d7604fd49) |
+| Fri, 22 Aug 2025 12:14:24 GMT | Bitvavom11.xyz.com Scam Exposed: The Truth About This Fake Crypto Platform | Admin | [Read More](https://medium.com/p/6d609744d584) |
+| Fri, 22 Aug 2025 12:06:18 GMT | Why Should Companies Regularly Perform Vulnerability Assessment and Penetration Testing? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/19364d56a5d7) |
+| Fri, 22 Aug 2025 12:06:00 GMT | AI Security Operations & Threat Management Services | Sophia | [Read More](https://medium.com/p/128e54e0a91e) |
+| Fri, 22 Aug 2025 12:01:36 GMT | Reverse Engineering with Tryhackme(Easy) | SpaceIO | [Read More](https://medium.com/p/e7daad7b40c8) |
+| Fri, 22 Aug 2025 11:58:50 GMT | Cloud Security Compliance 2025: Best Practices | Qualysec | [Read More](https://medium.com/p/955374c12969) |
+| Fri, 22 Aug 2025 11:54:14 GMT | Implementing LDAP Authentication for Trac (both dockerized)via Apache | Khushwant | [Read More](https://medium.com/p/efe02a72023a) |
+| Fri, 22 Aug 2025 11:51:59 GMT | How Does Vulnerability Assessment and Penetration Testing Improve Business Security? | Ziya Zoe | [Read More](https://medium.com/p/02ce6cc90911) |
+| Fri, 22 Aug 2025 11:41:08 GMT | Almcoin.com Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/1fd03b2d2486) |
+| Fri, 22 Aug 2025 11:34:47 GMT | Case Study: Reflected Cross‑Site Scripting (XSS) | Pathanrakib | [Read More](https://medium.com/p/5fd7ad2d17e4) |
 | Fri, 22 Aug 2025 11:28:47 GMT | Day 3: Disabling Direct SSH Root Login for Enhanced Server Security | Suraif Muhammad | [Read More](https://medium.com/p/e2ef01fb3362) |
 | Fri, 22 Aug 2025 11:24:27 GMT | When My Router Firmware Got Replaced: Router Hijacking Attack | Shahzaib | [Read More](https://medium.com/p/025548d659d3) |
 | Fri, 22 Aug 2025 11:17:19 GMT | Types of Solar Panels: Monocrystalline vs. Polycrystalline vs. Bifacial | Sun Photonics | [Read More](https://medium.com/p/2ba53c54e597) |
@@ -98,18 +113,3 @@ This report details the… | Krutik Raut | [Read More](https://medium.com/p/911e
 | Fri, 22 Aug 2025 07:34:40 GMT | Developer’s Revenge: The Kill Switch Malware That Cost Him 4 Years | Liran Nachman | [Read More](https://medium.com/p/a7c7c08b976a) |
 | Fri, 22 Aug 2025 07:33:21 GMT | Your Connection, Their Cash: How Hackers Steal and Sell Your Bandwidth | Liran Nachman | [Read More](https://medium.com/p/8ebfc959f008) |
 | Fri, 22 Aug 2025 07:31:39 GMT | INFORMATIONAL#3 Weak Password Policy | Shakthi | [Read More](https://medium.com/p/c3b90282be09) |
-| Fri, 22 Aug 2025 07:29:09 GMT | Introduction to Authentication & Authorization in a Production-Grade Application (with .NET, | Krishna Bogati | [Read More](https://medium.com/p/0f5f574fa898) |
-| Fri, 22 Aug 2025 07:26:56 GMT | ️ Red Team Playbook: Mastering Rate Limit Bypass Attacks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/f3911aefafef) |
-| Fri, 22 Aug 2025 07:23:51 GMT | You Never Know, But Someone (Whom You Don’t Want To) is Reading Your Chats | Navkiran Dhaliwal | [Read More](https://medium.com/p/cdc936758f56) |
-| Fri, 22 Aug 2025 07:22:25 GMT | Why Every SMB Needs Regular VAPT Service? | Microscan Communications | [Read More](https://medium.com/p/6d5872059549) |
-| Fri, 22 Aug 2025 07:17:11 GMT | 20 Best Websites to Prepare for Your Next Interview | Techie Arbaaz | [Read More](https://medium.com/p/9649aff19b2c) |
-| Fri, 22 Aug 2025 07:15:42 GMT | What have I been doing lately? | Rabia Riaz | [Read More](https://medium.com/p/713fd81b1018) |
-| Fri, 22 Aug 2025 07:12:41 GMT | Cyber Security vs Cloud Security in 2025: Which Path Should You Choose? | Muhammad Haider Tallal | [Read More](https://medium.com/p/3a1e266243d9) |
-| Fri, 22 Aug 2025 07:07:04 GMT | YDT Hack Explained — Step by Step | 0xjustuzair | [Read More](https://medium.com/p/7ca030237281) |
-| Fri, 22 Aug 2025 07:01:53 GMT | A Mobile Surveillance Unit Protects Your Car Dealership Before It’s Too Late | IVIS Security | [Read More](https://medium.com/p/39696a15e2cc) |
-| Fri, 22 Aug 2025 07:01:31 GMT | Human as Attack Vectors - THM | Welsh | [Read More](https://medium.com/p/223798c5a989) |
-| Fri, 22 Aug 2025 06:56:58 GMT | Breaching the Compiler’s Fortress: A DistCC Daemon Infiltration Chronicle | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/caa55db30607) |
-| Fri, 22 Aug 2025 06:46:21 GMT | Safety Elevated: Why Choosing the Right Hardware for Your Doors and Windows Matters | Ivaan Fenster Solutions | [Read More](https://medium.com/p/876c91417c11) |
-| Fri, 22 Aug 2025 06:45:41 GMT | Warning: New Scam Targeting Web3 Developers (nowsync.app) | Bogdoslav | [Read More](https://medium.com/p/e5e4dac76a01) |
-| Fri, 22 Aug 2025 06:43:20 GMT | Instagram, Consent & AI Training: What You Need to Know | Nivas Kanniah | [Read More](https://medium.com/p/bb735c3bf49c) |
-| Fri, 22 Aug 2025 06:38:10 GMT | Whale Wallet 해킹 사건 분석: 피싱 공격으로 인한 $71M 규모의 WBTC 탈취 | 클로인트 가상자산 정보분석 센터(CIC) | [Read More](https://medium.com/p/8b4b207ddcdf) |
