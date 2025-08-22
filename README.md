@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 13:34:13 GMT | How I passed the AWS Security Specialty exam | Ahmed Srebrenica | [Read More](https://medium.com/p/667035a38a73) |
+| Fri, 22 Aug 2025 13:34:04 GMT | Deploying Microsoft 365 with Intune: Complete Beginner’s Guide | Amina Moallim | [Read More](https://medium.com/p/72628ca9252f) |
+| Fri, 22 Aug 2025 13:33:46 GMT | Top Cyber Security Services Providers in Australia (2025 Guide) | vGics Global LLP | [Read More](https://medium.com/p/3ddadf2ea7ec) |
+| Fri, 22 Aug 2025 13:32:00 GMT | HTB Malware Skills Assessment | Luke | [Read More](https://medium.com/p/c62721f543e8) |
+| Fri, 22 Aug 2025 13:32:00 GMT | AI in Cybersecurity: How Business Leaders Can Stay Ahead of Smart Threats | Tech Caps | [Read More](https://medium.com/p/a3970e2a0617) |
+| Fri, 22 Aug 2025 13:32:00 GMT | Why Humans Are Still the Weakest Link in Cybersecurity — And How to Fix It. | Faris Afdhil Fawwaz | [Read More](https://medium.com/p/b6dc160666b5) |
 | Fri, 22 Aug 2025 13:22:59 GMT | Best Security Awareness Training Vendors (2025) | Keepnet Labs | [Read More](https://medium.com/p/9d1d0f90441f) |
 | Fri, 22 Aug 2025 13:18:25 GMT | A close call during Cyber Incident Response | Michael de Neuilly Rice | [Read More](https://medium.com/p/4ee9791046ce) |
 | Fri, 22 Aug 2025 13:15:06 GMT | Unbreakable: 7 AI Cybersecurity Secrets Every Tech Innovator Should Know | Envitics Blogs | [Read More](https://medium.com/p/951a0efe048f) |
@@ -106,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 08:23:46 GMT | HIPAA Heroes: Safeguarding Healthcare Data | Ampcus Cyber | [Read More](https://medium.com/p/83b1045e24ef) |
 | Fri, 22 Aug 2025 08:19:49 GMT | Future of Cybersecurity Jobs in India | Manisha Chaudhary | [Read More](https://medium.com/p/037513c82ef1) |
 | Fri, 22 Aug 2025 08:18:14 GMT | SOC287 — Arbitrary File Read on Checkpoint Security Gateway [CVE-2024–24919] | Muh Ari Yanto | [Read More](https://medium.com/p/a9ab79fa3997) |
-| Fri, 22 Aug 2025 08:12:02 GMT | Financial Software Testing: Why QA Is More Than Green Checkmarks | Dmitry Baraishuk | [Read More](https://medium.com/p/e619a1a5d87b) |
-| Fri, 22 Aug 2025 08:09:19 GMT | SBOM-Driven Deployments: Blocking Builds Without Verified Dependencies | Mohamed ElEmam | [Read More](https://medium.com/p/5193d8ae86ac) |
-| Fri, 22 Aug 2025 08:06:35 GMT | The Corix Partners Friday Reading List — August 22, 2025 | JC Gaillard | [Read More](https://medium.com/p/37d145d29dc3) |
-| Fri, 22 Aug 2025 08:06:12 GMT | ️‍♂️ From Recon to Ransom: Red Team Stories That Start With Metadata | Narendar Battula (nArEn) | [Read More](https://medium.com/p/8aaf1d13c1dd) |
-| Fri, 22 Aug 2025 08:03:44 GMT | Doubletrouble VulnHub CTF Çözümü | Furkan Dal | [Read More](https://medium.com/p/b7082520fefc) |
-| Fri, 22 Aug 2025 08:03:20 GMT | Phishing Email Investigation: "Action Required: Unusual Sign-in Activity"
-This report details the… | Krutik Raut | [Read More](https://medium.com/p/911e7d35bc9b) |
