@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 09:27:32 GMT | Lumma Stealer: Detection Engineering & Telemetry Anchors (Part 2) | Siddhant Mishra | [Read More](https://medium.com/p/4d6a026dd8f3) |
+| Fri, 22 Aug 2025 09:20:41 GMT | Hacking My Way Into Cybersecurity: How I Did It | Authlyn | [Read More](https://medium.com/p/c4bf4cb86c62) |
+| Fri, 22 Aug 2025 09:18:21 GMT | Identification of the Best Attack Paths in Penetration Testing | PenligentAI | [Read More](https://medium.com/p/00931f0ec23d) |
+| Fri, 22 Aug 2025 09:17:25 GMT | Forensic Imaging vs. Cloning: What’s the Difference? | Wehire Laumech Beturaniza | [Read More](https://medium.com/p/1bcc9e7e1bd7) |
 | Fri, 22 Aug 2025 09:04:30 GMT | I Clicked The Link: My Cybersecurity Facepalm | Truspex | [Read More](https://medium.com/p/89da51331b2f) |
 | Fri, 22 Aug 2025 09:03:54 GMT | Why Customers Choose Yale: Real Stories from Customers Across India | ASSA ABLOY OPENING SOLUTIONS INDIA | [Read More](https://medium.com/p/39028cb83b8c) |
 | Fri, 22 Aug 2025 09:01:36 GMT | Stop Renting Your Innovation: How AI Empowers In-House Developers | Namir Sagheenanajar | [Read More](https://medium.com/p/a48b335f07a0) |
@@ -109,7 +113,3 @@ This report details the… | Krutik Raut | [Read More](https://medium.com/p/911e
 | Fri, 22 Aug 2025 03:48:12 GMT | Shop.usukwayfair.com Scam Review: How I Recovered From a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/d987e3d5e8ff) |
 | Fri, 22 Aug 2025 03:44:40 GMT | Robinhood-ot.com Crypto Scam: A Fake AI Trading Service That Trapped Me | Admin | [Read More](https://medium.com/p/a3de2f594067) |
 | Fri, 22 Aug 2025 03:37:42 GMT | Sheildstrustssb.com Crypto Scam: How I Nearly Lost Everything | Admin | [Read More](https://medium.com/p/920b116195c4) |
-| Fri, 22 Aug 2025 03:34:13 GMT | Qexbitast.com Scam Exposed: The Truth About This Fake Crypto Platform | Admin | [Read More](https://medium.com/p/2a72f74ad139) |
-| Fri, 22 Aug 2025 03:30:46 GMT | Qexbit.org Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Admin | [Read More](https://medium.com/p/2c5631ffbe83) |
-| Fri, 22 Aug 2025 03:27:55 GMT | Ulusal GRC ve Siber Güvenlik Entegrasyonu: Yerli ve Yabancı Örnekler | Ahmet Önal | [Read More](https://medium.com/p/9f6cdc2cebca) |
-| Fri, 22 Aug 2025 03:23:48 GMT | Curl/Libcurl Buffer Overflow Bug Could Lead to RCE — Patch Now! | AerieWhole123 | [Read More](https://medium.com/p/71c8f4d3bb43) |
