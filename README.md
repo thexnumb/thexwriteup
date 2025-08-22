@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 Aug 2025 23:02:51 GMT | A guide to Network Security tools, Part 1: Reconnaissance & Enumeration | Ekene Ejike | [Read More](https://medium.com/p/aa4457abc648) |
+| Fri, 22 Aug 2025 22:52:29 GMT | Smart Home Security Starter Pack: Why a Video Doorbell Camera Should Be First | Dmitriy Lyubarskiy | [Read More](https://medium.com/p/70a6c7b7133b) |
+| Fri, 22 Aug 2025 22:51:54 GMT | Regarding the Woman in the Mirror | Contagious Vulnerability | [Read More](https://medium.com/p/3ca0278c3c96) |
+| Fri, 22 Aug 2025 22:50:43 GMT | A hands-on introduction to the Linux command line: Part 4 — Network basics, automation &… | Ekene Ejike | [Read More](https://medium.com/p/3d466666d478) |
 | Fri, 22 Aug 2025 22:34:06 GMT | hi. I’m Zora. I got hacked! | Chime Chukwubuike Victory | [Read More](https://medium.com/p/1004c33cf39e) |
+| Fri, 22 Aug 2025 22:33:15 GMT | PG Practice — Law (Linux) | Lepton | [Read More](https://medium.com/p/cd17c09f6df7) |
 | Fri, 22 Aug 2025 22:33:00 GMT | PG Practice — Crane (Linux) | Lepton | [Read More](https://medium.com/p/dac7bfbeaec4) |
 | Fri, 22 Aug 2025 22:24:14 GMT | # Launching My Writing Journey: Kubernetes Security Alert – IngressNightmare | Dikshant Lather | [Read More](https://medium.com/p/adab9f22013f) |
 | Fri, 22 Aug 2025 22:17:30 GMT | Building an Automated Pentest Reporting Pipeline | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5d7809622fbf) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 16:40:16 GMT | Huawei Switch Temel Kurulum Rehberi (Sıfırdan Başlayanlar İçin) | Emre Koç | [Read More](https://medium.com/p/18092a036094) |
 | Fri, 22 Aug 2025 16:36:50 GMT | A Simple Supply Chain Bug — Worth $11,850 — How GitLab Reinforces Trust in Open Source | Justas_b | [Read More](https://medium.com/p/424585c79074) |
 | Fri, 22 Aug 2025 16:34:48 GMT | Cybersecurity News Review — Week 34 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/12c30ac1dcd9) |
-| Fri, 22 Aug 2025 16:33:22 GMT | How I Earned My First $500 Bug Bounty via Rate Limit Bypass | Ghanashyam Ghimire | [Read More](https://medium.com/p/8c1e92374860) |
-| Fri, 22 Aug 2025 16:28:08 GMT | Who Deleted My File? Automate Real-Time Deletion Notifications in Amazon S3 | Pois0n84 | [Read More](https://medium.com/p/9b8fcd4643be) |
-| Fri, 22 Aug 2025 16:26:32 GMT | Password Managers Vulnerable to Data Theft via Clickjacking | Securis360 Inc. | [Read More](https://medium.com/p/1fea38f5fcb4) |
-| Fri, 22 Aug 2025 16:24:27 GMT | Ofuscando Shellcode con XOR: Evadiendo Firmas Estáticas y Analizando con PEBear | s1egfr1ed | [Read More](https://medium.com/p/7644cbd41d7f) |
-| Fri, 22 Aug 2025 16:01:33 GMT | In 1272, this Hungarian feudal lord was hacked to pieces. | Historical Tavern | [Read More](https://medium.com/p/ebcd769865b4) |
