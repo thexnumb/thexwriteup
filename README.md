@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Fri, 22 Aug 2025 04:21:30 GMT | How My Hometown Shaped My Views on Community and Safety | Paschal Ogana | [Read More](https://medium.com/p/90e492947a5f) |
+| Fri, 22 Aug 2025 04:17:33 GMT | Discover Leading Information Technology Colleges in Mumbai Today | Bharatvidyapeeth | [Read More](https://medium.com/p/6c7dc274aa84) |
 | Fri, 22 Aug 2025 04:16:22 GMT | CRHC CTF | VirajMathpati | [Read More](https://medium.com/p/86e5ff5785a6) |
 | Fri, 22 Aug 2025 04:09:59 GMT | TryHackMe - Pickle Rick Room - Write-Up (Spoilers) | Kieranjd98 | [Read More](https://medium.com/p/df72cb24995d) |
 | Fri, 22 Aug 2025 04:01:39 GMT | How SafeLine WAF Stops Bots and Scanners in Your Homelab (Beta) | AerieWhole123 | [Read More](https://medium.com/p/d2fccf112d44) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 Aug 2025 20:26:08 GMT | How to Find Hidden Messages in JPEGs: A Beginner’s Guide to CTF Steganography Challenges from… | Hidden Investigations | [Read More](https://medium.com/p/2209beb322b2) |
 | Thu, 21 Aug 2025 20:23:21 GMT | Reflected XSS on Starbucks | 0X0mahmoud | [Read More](https://medium.com/p/1bcd07aa53f5) |
 | Thu, 21 Aug 2025 20:22:41 GMT | HackTheBox — Analyzing Windows Event Logs En Masse | Javier | [Read More](https://medium.com/p/f418d7c83865) |
-| Thu, 21 Aug 2025 20:11:42 GMT | Now You’ve SEEN It: CyberPH’s First Community Meetup & SEEN CTF Awarding | Gladwin Ferdz Del Rosario | [Read More](https://medium.com/p/b05da63d9314) |
