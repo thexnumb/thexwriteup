@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 16:33:40 GMT | Securing the Model Context Protocol: The Case for a Trusted MCP Gateway | Shashank N | [Read More](https://medium.com/p/346aa7f840fc) |
+| Sat, 23 Aug 2025 16:30:50 GMT | All About Bypassing The Login Panel | Soham Dalal | [Read More](https://medium.com/p/b07d5552044c) |
+| Sat, 23 Aug 2025 16:28:30 GMT | The Invisible Shield: Rethinking Cloud Security in 2025 | VedantiVerma | [Read More](https://medium.com/p/1cfc05b87eb2) |
+| Sat, 23 Aug 2025 16:24:55 GMT | PHANTOM Protocol technique | Lord Murak | [Read More](https://medium.com/p/fd4fbd25996d) |
+| Sat, 23 Aug 2025 16:17:32 GMT | Your Everyday Superpower: Unlocking potential with technology | Yamini Naagar | [Read More](https://medium.com/p/30833f48de90) |
 | Sat, 23 Aug 2025 16:15:51 GMT | Cyber Snack Day -11 | Anwar_Nainar | [Read More](https://medium.com/p/78aab331c733) |
 | Sat, 23 Aug 2025 16:15:33 GMT | The Hacker That Never Sleeps: How Agentic AI is Revolutionizing Cybercrime | Tina Sharma | [Read More](https://medium.com/p/14f5c1e5c888) |
 | Sat, 23 Aug 2025 16:12:31 GMT | Redefining Strength: A Man’s Journey Beyond the ‘Macho’ Stereotype | vydhi | [Read More](https://medium.com/p/d27679b39131) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 11:17:36 GMT | Reflected XSS into HTML context with all tags blocked except custom ones | Chirag Vyas | [Read More](https://medium.com/p/27b43d7196d8) |
 | Sat, 23 Aug 2025 11:16:00 GMT | Managed Vulnerability Scanning Services to Detect Problems Early and Protect the Business | Cyber Security Speed | [Read More](https://medium.com/p/4ac8b049b7b9) |
 | Sat, 23 Aug 2025 11:15:50 GMT | How Websites Know It’s You: The Role of IP, Cookies, and Sessions | Mahasri Seenivasan | [Read More](https://medium.com/p/1c64017fd3bd) |
-| Sat, 23 Aug 2025 11:14:45 GMT | Best Cyber Security Course in Delhi - IICSEH Training Institute | Iicseh | [Read More](https://medium.com/p/728ec68a8153) |
-| Sat, 23 Aug 2025 11:03:30 GMT | From Burp to Bucket: How I Found 100,000+ Exposed Files? | Sle3pyHead ‍ | [Read More](https://medium.com/p/e39346d0d6b7) |
-| Sat, 23 Aug 2025 10:58:47 GMT | Portswigger CSRF where token validation depends on request method | Cybernerddd | [Read More](https://medium.com/p/1bbd4f859a0c) |
-| Sat, 23 Aug 2025 10:43:17 GMT | What Cybersecurity Books Don’t Tell You Until You Face a Real Attack | Shahzaib | [Read More](https://medium.com/p/80f8c58f4c25) |
-| Sat, 23 Aug 2025 10:41:58 GMT | Inside the Windows PE Format: A Complete Guide + TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/761b3f176979) |
