@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 14:11:30 GMT | Critical Infrastructure at the Mercy of Telnet: OTT HydroMet Sutron Flood Monitoring Vulnerability | hacker_might | [Read More](https://medium.com/p/26b0d56167dd) |
+| Sat, 23 Aug 2025 14:09:06 GMT | ️ SOC228 Report — Phishing Mayhem in the Walls | Andrew Williams | [Read More](https://medium.com/p/eec6bd0eff1c) |
+| Sat, 23 Aug 2025 14:08:47 GMT | Get Notified when a Bug Bounty Target launches New Subdomains | Appsec.pt | [Read More](https://medium.com/p/368150388c39) |
+| Sat, 23 Aug 2025 14:06:53 GMT | Deepfakes, Trust, and How to Survive | Abdullah Topraksoy | [Read More](https://medium.com/p/334e86ea76d9) |
+| Sat, 23 Aug 2025 14:04:21 GMT | The Free URL Scanner That Saves Me Hours (CyScan.io) | Nitin yadav | [Read More](https://medium.com/p/8909c26188e3) |
+| Sat, 23 Aug 2025 14:00:41 GMT | You Need To Learn Bash Scripting Now!!! | Mainekhacker | [Read More](https://medium.com/p/74183464aae7) |
+| Sat, 23 Aug 2025 13:58:40 GMT | The Game v2 — TryHackMe Writeups Complete Breakdown | pran0x | [Read More](https://medium.com/p/12669594f921) |
+| Sat, 23 Aug 2025 13:56:50 GMT | Practical Step-by-Step Guide to Solving Easy CTF Challenges on TryHackMe and VulnHub | Prajwal | [Read More](https://medium.com/p/001324f2ae49) |
+| Sat, 23 Aug 2025 13:53:07 GMT | A Beginner’s Guide to OWASP ZAP | Akhil Binu | [Read More](https://medium.com/p/dd8b6cee83f0) |
+| Sat, 23 Aug 2025 13:51:28 GMT | Spring Boot 2025: How to Build Unbreakable JWT Authentication with DPoP & OpenTelemetry | Lakshika | [Read More](https://medium.com/p/d9cb0843ad3b) |
 | Sat, 23 Aug 2025 13:29:47 GMT | ⚡ Safe DOM APIs vs. Dangerous DOM APIs & Inline HTML Explained ️ | Zoningxtr | [Read More](https://medium.com/p/455746a6dbde) |
 | Sat, 23 Aug 2025 13:27:32 GMT | Middle-aged women over 40, no matter who they’re talking to, it’s really dumb to show these 3 cards. | Lucas Brown | [Read More](https://medium.com/p/0aa7ccf24832) |
 | Sat, 23 Aug 2025 13:26:42 GMT | The Marketing of Vulnerability | Antonio Carlos | [Read More](https://medium.com/p/3c124217065b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 08:44:41 GMT | ️ Fixyfier: The All-in-One Free PC Repair Toolkit for Windows | Taha Ex | [Read More](https://medium.com/p/5f029fb31d62) |
 | Sat, 23 Aug 2025 08:44:29 GMT | From Logs to Loot: How Debug Files Exposed User Sessions and Led Me to Jackpot | Iski | [Read More](https://medium.com/p/d06b8efe5ac9) |
 | Sat, 23 Aug 2025 08:38:44 GMT | Breaking a “Hardened” Jinja2 SSTI (CTF Write-Up) | Sarah Siddiqui | [Read More](https://medium.com/p/d2104af8cae4) |
-| Sat, 23 Aug 2025 08:33:57 GMT | TryHackMe Bounty Hacker Walkthrough: Beginner-Friendly CTF for Enumeration & Privilege Escalation | Aryan Tiwari | [Read More](https://medium.com/p/c8a82ff174f0) |
-| Sat, 23 Aug 2025 08:30:48 GMT | Intro to Netcat: Your Ultimate Guide to `nc` & `ncat` | Nighty-Sky | [Read More](https://medium.com/p/b988dfd11826) |
-| Sat, 23 Aug 2025 08:26:11 GMT | The Complete Guide to Spy Apps for Online Security | Narjis Batool | [Read More](https://medium.com/p/353886fdd105) |
-| Sat, 23 Aug 2025 08:18:13 GMT | What exactly is a zero-day vulnerability, and why are they so critical in cybersecurity? | Likhoindustry | [Read More](https://medium.com/p/9b1346a005ca) |
-| Sat, 23 Aug 2025 08:15:50 GMT | Python Beyond the Basics: 10 Advanced Patterns That Changed How I Write Code | Babar saad | [Read More](https://medium.com/p/8e613b8546b5) |
-| Sat, 23 Aug 2025 08:13:05 GMT | Phishing-as-a-Service (PhaaS): The Subscription Model of Cybercrime | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/5cc834ed7cd9) |
-| Sat, 23 Aug 2025 08:08:23 GMT | Unified Mentor Internship Feedback on Data Analysis | Stronic Publication (PR Agency) | [Read More](https://medium.com/p/8fb73aa92371) |
-| Sat, 23 Aug 2025 08:00:46 GMT | Analyzing Blockchain Security Step by Step | Cyber Security Research | [Read More](https://medium.com/p/62037c3233c5) |
-| Sat, 23 Aug 2025 07:59:13 GMT | Best Cyber Security Training in Bangalore — Visualpath | Pravin Choudhary | [Read More](https://medium.com/p/91109ffeb5a4) |
-| Sat, 23 Aug 2025 07:58:16 GMT | Analyzing AI in Cybersecurity in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/0405a406cddc) |
