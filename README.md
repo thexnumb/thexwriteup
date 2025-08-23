@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 13:12:54 GMT | How to Understand and Prevent Reflected, Stored, & DOM-Based XSS (Cross-Site Scripting) | Ebenezer | [Read More](https://medium.com/p/f2ec7a31d945) |
+| Sat, 23 Aug 2025 13:01:47 GMT | How to Spot a Rug Pull in Crypto Before It Happens | Farhad Ali | [Read More](https://medium.com/p/47eb74c0fa70) |
+| Sat, 23 Aug 2025 12:59:11 GMT | Encrypting vs Hashing vs Encoding — What’s the Difference? | Bhavy Ladani | [Read More](https://medium.com/p/c52d60a383d1) |
+| Sat, 23 Aug 2025 12:58:50 GMT | Technology Facts Kids Today Won’t Believe | FactSphereMedia | [Read More](https://medium.com/p/fe8b0ffbd2e9) |
+| Sat, 23 Aug 2025 12:58:19 GMT | Blind SSRF Found on a Public Bug Bounty Target | Abood_XHacker | [Read More](https://medium.com/p/f9ae1fcc9494) |
+| Sat, 23 Aug 2025 12:57:39 GMT | Weekly Roundup — August 23 2025 | litwtch | [Read More](https://medium.com/p/dfce56aebdc9) |
+| Sat, 23 Aug 2025 12:56:06 GMT | Cookies Explained Simply | Tslnreddy | [Read More](https://medium.com/p/ea6212c6fde4) |
+| Sat, 23 Aug 2025 12:55:50 GMT | 20 Technology Facts That Will Blow Your Mind | FactSphereMedia | [Read More](https://medium.com/p/ca6d931e63f4) |
+| Sat, 23 Aug 2025 12:54:36 GMT | Biases: The Framing Trap: Why a Brilliant Answer to the Wrong Question is Still Wrong | noailabs | [Read More](https://medium.com/p/c12d699a6de7) |
+| Sat, 23 Aug 2025 12:53:32 GMT | SOC Analysts at Cybernous: Safeguarding Businesses in the Digital Age | Cybernous Infosec consulting | [Read More](https://medium.com/p/cf795bd1b136) |
+| Sat, 23 Aug 2025 12:51:49 GMT | Mini SOC Home Lab V2 | Hazem Ahmed | [Read More](https://medium.com/p/9fb621a3b05e) |
+| Sat, 23 Aug 2025 12:49:51 GMT | CATCTF 2025 Web Challenge BattleMe Revenge | Karim Mohamed | [Read More](https://medium.com/p/071042a5868f) |
+| Sat, 23 Aug 2025 12:41:30 GMT | CEO of Your Career | Zipporahthomas | [Read More](https://medium.com/p/05af8bd728c2) |
+| Sat, 23 Aug 2025 12:41:03 GMT | Bounty Hacker: TryHackMe WriteUp | Bridget | [Read More](https://medium.com/p/2e713cd0cd01) |
+| Sat, 23 Aug 2025 12:34:15 GMT | A Test Case: Gemini 2.5 | Berend Watchus | [Read More](https://medium.com/p/957af5fd2660) |
+| Sat, 23 Aug 2025 12:31:51 GMT | Hiding Download Button in Snowsight: A Step-by-Step Guide | Eric Heilman | [Read More](https://medium.com/p/decb2c1e7804) |
+| Sat, 23 Aug 2025 12:31:31 GMT | How the Internet Flows: From Your Screen to a Server and Back | Akhil Boddula | [Read More](https://medium.com/p/473688e10b14) |
 | Sat, 23 Aug 2025 12:28:45 GMT | Eternal Blue (ms17–010) — Full Walkthrough | Vaibhav | [Read More](https://medium.com/p/cff74caaade5) |
 | Sat, 23 Aug 2025 12:27:47 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/e502da6de149) |
 | Sat, 23 Aug 2025 12:27:31 GMT | Security Starts with Gratitude, Not Control | Evgeny Ermakov | [Read More](https://medium.com/p/9e36afb18914) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 07:29:02 GMT | ThunderCipher-Lab[PageVault] | Bhuwan Patidar | [Read More](https://medium.com/p/6373f32e87a4) |
 | Sat, 23 Aug 2025 07:22:28 GMT | Katana to Kill‑Switch: Mastering ProjectDiscovery’s Crawler From Zero to Pro (with Real‑World… | adce626 | [Read More](https://medium.com/p/62a7dec5a744) |
 | Sat, 23 Aug 2025 07:20:24 GMT | If You Break Into Someone’s House, You Learn That Sometimes You are Welcomed | Ghani Mengal | [Read More](https://medium.com/p/2399da44bba9) |
-| Sat, 23 Aug 2025 07:08:27 GMT | The Return of the Matriarch – A Personal Reflection | Nikki J Phelan | [Read More](https://medium.com/p/e34e2fc8ceee) |
-| Sat, 23 Aug 2025 07:08:06 GMT | My Journey Completing the OCI AI Foundations Associate (2025) Certification | Prateekpulastya | [Read More](https://medium.com/p/b909b41fcb38) |
-| Sat, 23 Aug 2025 06:57:53 GMT | Attacking login page: Math Captcha | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/2c32fce43014) |
-| Sat, 23 Aug 2025 06:52:19 GMT | A Beginner’s Guide to Identity and Access Management (IAM) | Aarushi Mishra | [Read More](https://medium.com/p/95090c3dc22b) |
-| Sat, 23 Aug 2025 06:49:57 GMT | EP 04: Domain-based Message Authentication, Reporting, and Conformance (DMARC) | H.W.K. Aravinda | [Read More](https://medium.com/p/9894349db4d9) |
-| Sat, 23 Aug 2025 06:48:20 GMT | Redington launches its CODE initiative to accelerate the development of skills in cloud, AI, and… | Ram | [Read More](https://medium.com/p/2d0ecb6f3109) |
-| Sat, 23 Aug 2025 06:47:31 GMT | Tip de Bug Bounty: los fallos viven en los flujos secundarios | Gorka | [Read More](https://medium.com/p/6a689523ec63) |
-| Sat, 23 Aug 2025 06:46:08 GMT | ELF Internals : Deep Dive | Kris3c | [Read More](https://medium.com/p/6a03cecf34ce) |
-| Sat, 23 Aug 2025 06:34:45 GMT | “Privacy Risks of Smart Devices: What Your IoT Gadgets Reveal About You” | Vidushhi Panda | [Read More](https://medium.com/p/ee18f5de4f00) |
-| Sat, 23 Aug 2025 06:31:57 GMT | FortiClient Unified Endpoint Agent: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/bee987a91f04) |
-| Sat, 23 Aug 2025 06:23:10 GMT | A New BA’s Journey: Understanding the As-Is System | Ritu Sitlani | [Read More](https://medium.com/p/9be75224adf3) |
-| Sat, 23 Aug 2025 06:22:30 GMT | The Hidden Costs of a Data Breach: Why Investing in Cybersecurity Pays Off | Securseedmena | [Read More](https://medium.com/p/99747d353a3d) |
-| Sat, 23 Aug 2025 06:22:00 GMT | ⚠️ Did you know? | Aarav Infotech India Pvt. Ltd. | [Read More](https://medium.com/p/ec20cf9cac54) |
-| Sat, 23 Aug 2025 06:09:03 GMT | Tesseral | Ned Oleary | [Read More](https://medium.com/p/3589288c8b59) |
-| Sat, 23 Aug 2025 06:05:43 GMT | Secure Your Future with A2N Academy’s Cyber Security Online Course | Sureshnextwebi | [Read More](https://medium.com/p/eb4ac615b335) |
-| Sat, 23 Aug 2025 06:01:35 GMT | Why Your Employees Are Your Biggest Security Risk (And Asset) | Aj | [Read More](https://medium.com/p/7561050ac102) |
-| Sat, 23 Aug 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Aug 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d8055fc50f1c) |
