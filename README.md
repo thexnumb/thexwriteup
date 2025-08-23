@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 16:15:51 GMT | Cyber Snack Day -11 | Anwar_Nainar | [Read More](https://medium.com/p/78aab331c733) |
+| Sat, 23 Aug 2025 16:15:33 GMT | The Hacker That Never Sleeps: How Agentic AI is Revolutionizing Cybercrime | Tina Sharma | [Read More](https://medium.com/p/14f5c1e5c888) |
+| Sat, 23 Aug 2025 16:12:31 GMT | Redefining Strength: A Man’s Journey Beyond the ‘Macho’ Stereotype | vydhi | [Read More](https://medium.com/p/d27679b39131) |
+| Sat, 23 Aug 2025 16:08:40 GMT | CSRF where token validation depends on token being present | Cybernerddd | [Read More](https://medium.com/p/7248e1fa2735) |
+| Sat, 23 Aug 2025 16:02:01 GMT | Cryptocurrency Tracing and Recovery: Is It Possible to Retrieve Lost Funds? | Maraiaisabelunu | [Read More](https://medium.com/p/5a80a013516e) |
+| Sat, 23 Aug 2025 16:00:34 GMT | Integrate CATO Networks With Microsoft Sentinel | Akila Perera | [Read More](https://medium.com/p/d3958f5df8d1) |
+| Sat, 23 Aug 2025 16:00:09 GMT | Running a computer inside a computer | Marvel | [Read More](https://medium.com/p/f7659e3b63e3) |
+| Sat, 23 Aug 2025 15:59:18 GMT | Unlock Your iPhone Using Just Your Voice | Tsumit | [Read More](https://medium.com/p/8a15295dea65) |
+| Sat, 23 Aug 2025 15:56:03 GMT | What is Wazuh? Why Open-Source Security Analytics Matters | Mohammed Abbood | [Read More](https://medium.com/p/242a93d188d6) |
+| Sat, 23 Aug 2025 15:54:28 GMT | Trooper TryHackMe WalkThrough | Pavandeep Kaur | [Read More](https://medium.com/p/87d4d68f5f12) |
+| Sat, 23 Aug 2025 15:46:46 GMT | Optimizing IT Solutions for Business Efficiency | Parth Patel | [Read More](https://medium.com/p/eb8f803b6832) |
+| Sat, 23 Aug 2025 15:43:51 GMT | Roots | RADIANT ROOTING | [Read More](https://medium.com/p/8d3415763174) |
+| Sat, 23 Aug 2025 15:38:45 GMT | (CVE-2025–52970) Authentication Bypass in FortiWeb ”POC” | HariHaranK | [Read More](https://medium.com/p/04d7abd0c5f9) |
 | Sat, 23 Aug 2025 15:25:38 GMT | CAT Reloaded CTF -CATF 2025-write up | Nayzak | [Read More](https://medium.com/p/7f05086d233b) |
 | Sat, 23 Aug 2025 15:25:36 GMT | Vibe Coding Efficiency, Part One: Glyph’s Futzing Fraction | Dan Glass | [Read More](https://medium.com/p/e012f3b51e0b) |
 | Sat, 23 Aug 2025 15:18:35 GMT | Phishing Attacks: The Most Persistent Cybersecurity Threat and How to Defend Against Them | SNEHA M 2447154 | [Read More](https://medium.com/p/8f55fd8ee901) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 10:58:47 GMT | Portswigger CSRF where token validation depends on request method | Cybernerddd | [Read More](https://medium.com/p/1bbd4f859a0c) |
 | Sat, 23 Aug 2025 10:43:17 GMT | What Cybersecurity Books Don’t Tell You Until You Face a Real Attack | Shahzaib | [Read More](https://medium.com/p/80f8c58f4c25) |
 | Sat, 23 Aug 2025 10:41:58 GMT | Inside the Windows PE Format: A Complete Guide + TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/761b3f176979) |
-| Sat, 23 Aug 2025 10:37:10 GMT | Agentic AI Platform for Enterprise-Ikontel | Ashutosh Mallik | [Read More](https://medium.com/p/ca728a2a13be) |
-| Sat, 23 Aug 2025 10:33:30 GMT | Chapter 28 (Task Management System): Security Enhancements & Best Practices | Natarajan C K | [Read More](https://medium.com/p/1cc10bf964ba) |
-| Sat, 23 Aug 2025 10:32:32 GMT | Data Integrity: The Unseen Battle in UAE Data Centers | Tekmuzammil | [Read More](https://medium.com/p/aaeb9d1b0b7b) |
-| Sat, 23 Aug 2025 10:30:01 GMT | CVE-2025–53770 EXPLAINED: ToolShell RCE + Live SOC Analysis (Letsdefend SOC342) | Motasem Hamdan | [Read More](https://medium.com/p/552d2a243950) |
-| Sat, 23 Aug 2025 10:29:20 GMT | A Day in the life of a SOC Analyst | Mahantesh Katapur | [Read More](https://medium.com/p/58c1c1070717) |
-| Sat, 23 Aug 2025 10:26:14 GMT | Day 40- Understanding zero-trust security for beginners | unica 02 | [Read More](https://medium.com/p/c7e68ec802af) |
-| Sat, 23 Aug 2025 10:25:17 GMT | Threat Intel #1: The Cyber Kill Chain Explained | Norman Kolarikkal | [Read More](https://medium.com/p/837200e19360) |
-| Sat, 23 Aug 2025 10:22:49 GMT | The Digital Self: Navigating Identity and Authenticity in a World of Online Personas | vydhi | [Read More](https://medium.com/p/9f2af1ce39d6) |
-| Sat, 23 Aug 2025 10:16:39 GMT | Why Choosing the Right Cyber Security Training Can Transform Your Career | Yash Mankani | [Read More](https://medium.com/p/f7a25d3f1b23) |
-| Sat, 23 Aug 2025 10:12:39 GMT | Fake Mac Fixes Distribute New Shamos Infostealer-A Wake-Up Call for macOS Users | Chetan Seripally | [Read More](https://medium.com/p/3044342813d1) |
-| Sat, 23 Aug 2025 10:06:53 GMT | APT36 Exploits Linux Desktop Files for Stealthy Malware Attacks | Chetan Seripally | [Read More](https://medium.com/p/28889c5f85f7) |
-| Sat, 23 Aug 2025 10:06:17 GMT | Securing Critical Infrastructure in MENA: Raed Ahsan Moderates Panel at OTSEC MENA 2025 | Raed Ahsan | [Read More](https://medium.com/p/91075266cd6a) |
-| Sat, 23 Aug 2025 10:03:34 GMT | When Your Shoulder to Cry On Wants to F*ck You | Lacie Lou | [Read More](https://medium.com/p/28ddf3c37503) |
