@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 17:58:27 GMT | AI vs Hackers: Who Will Win the Cybersecurity War? | Sukhveer Singh | [Read More](https://medium.com/p/95834c17d795) |
+| Sat, 23 Aug 2025 17:57:50 GMT | The Exhaustion of Always Pretending to be “Okay”….. | Noorink | [Read More](https://medium.com/p/0a1d9ca52317) |
+| Sat, 23 Aug 2025 17:48:33 GMT | Sticker Shop - TryHackMe | Laach_ | [Read More](https://medium.com/p/9a64a0f4818f) |
+| Sat, 23 Aug 2025 17:45:21 GMT | DirectAdmin in 2025 — The Lightweight Alternative to cPanel and Plesk | Hugo Valters | [Read More](https://medium.com/p/480ad06de954) |
+| Sat, 23 Aug 2025 17:42:20 GMT | picoCTF: WebDecode | Ross Andrews | [Read More](https://medium.com/p/314ed5ee4dc9) |
+| Sat, 23 Aug 2025 17:41:32 GMT | Terraforming My Mind Before I Terraform the Cloud | HimanShunya | [Read More](https://medium.com/p/3198a3016cc8) |
 | Sat, 23 Aug 2025 17:30:42 GMT | Proving Grounds: Gaining Root on Crane | Mihail Pana | [Read More](https://medium.com/p/463612903c65) |
 | Sat, 23 Aug 2025 17:29:16 GMT | My Journey into Cybersecurity (Part 2): Exploring Cyberspace and Network Communication Systems | Lavanyara | [Read More](https://medium.com/p/32d6f6891691) |
 | Sat, 23 Aug 2025 17:24:39 GMT | Enhancing Cybersecurity with All-In-One Security (AIOS) -Security and Firewall | Enayetur Rahman | [Read More](https://medium.com/p/6541ab649a85) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 12:28:45 GMT | Eternal Blue (ms17–010) — Full Walkthrough | Vaibhav | [Read More](https://medium.com/p/cff74caaade5) |
 | Sat, 23 Aug 2025 12:27:47 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/e502da6de149) |
 | Sat, 23 Aug 2025 12:27:31 GMT | Security Starts with Gratitude, Not Control | Evgeny Ermakov | [Read More](https://medium.com/p/9e36afb18914) |
-| Sat, 23 Aug 2025 12:24:59 GMT | DockerLabs Writeup — Report (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0a8decca300d) |
-| Sat, 23 Aug 2025 12:21:44 GMT | OWASP IoT Top 10: Why the Basics Still Matter in Securing Smart Devices | CyberNovica | [Read More](https://medium.com/p/90d6fca9c510) |
-| Sat, 23 Aug 2025 12:19:21 GMT | DELTA I | Elias | [Read More](https://medium.com/p/480427b8a898) |
-| Sat, 23 Aug 2025 12:19:08 GMT | AI-Powered Cyberattacks: The Dark Side of Artificial Intelligence in 2025 | Amit solanki | [Read More](https://medium.com/p/27caf988792f) |
-| Sat, 23 Aug 2025 12:15:51 GMT | How to Build a Vulnerable API Lab | Israel Aráoz Severiche | [Read More](https://medium.com/p/389363f5bab7) |
-| Sat, 23 Aug 2025 12:11:33 GMT | App to Manage Passwords: Best Tools to Keep Your Online Life Secure | Timónofearth | [Read More](https://medium.com/p/872796cad73d) |
