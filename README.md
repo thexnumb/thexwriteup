@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 01:09:22 GMT | Why I Never Allow Root SSH Logins on My Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/abf3bef9ca8a) |
+| Sat, 23 Aug 2025 01:05:00 GMT | New Win-DoS Zero-Click Vulnerabilities Turns Windows 
+ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medium.com/p/8e2b88aef882) |
+| Sat, 23 Aug 2025 00:54:48 GMT | Cybersecurity Defenders Discovery Camp 2025 (CDDC) | d*classified | [Read More](https://medium.com/p/9b797e578117) |
+| Sat, 23 Aug 2025 00:36:48 GMT | Learning NIST Risk Management Framework(RMF) Through Application! | Myshawne Stallings | [Read More](https://medium.com/p/0e08e64e7339) |
+| Sat, 23 Aug 2025 00:17:59 GMT | Passkeys: The Quiet Revolution in Digital Security | OWilliams | [Read More](https://medium.com/p/e6c0800d019a) |
+| Sat, 23 Aug 2025 00:08:11 GMT | Hungary’s leader complained to the U.S. | Beloodgang | [Read More](https://medium.com/p/07dbf74863d3) |
+| Sat, 23 Aug 2025 00:01:33 GMT | FOFA: The Definitive Guide to Asset Recognition in Bug Bounty and OSINT | JPablo13 | [Read More](https://medium.com/p/dc0448055220) |
+| Fri, 22 Aug 2025 23:57:30 GMT | The Flipper Zero Debate: A Symptom of Automotive Security Failures | RealSec.io | [Read More](https://medium.com/p/09751b0f284c) |
+| Fri, 22 Aug 2025 23:34:30 GMT | Analyzing AI in Cybersecurity and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/39276e937581) |
 | Fri, 22 Aug 2025 23:29:15 GMT | Analyzing AI in Cybersecurity That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/ca39e271c509) |
 | Fri, 22 Aug 2025 23:27:32 GMT | Analyzing AI in Cybersecurity Step by Step | Cyber Security Research | [Read More](https://medium.com/p/60213d9f30bd) |
 | Fri, 22 Aug 2025 23:25:37 GMT | Advancing Zero Trust Security in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/1d3e61599dcc) |
@@ -103,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 Aug 2025 17:27:02 GMT | Nostalgia - CatReloaded CTF 2025 | 00xCanelo | [Read More](https://medium.com/p/556ca22c6a9f) |
 | Fri, 22 Aug 2025 17:23:09 GMT | CAT Reloaded CTF 2025-Web Challenges | s0nDOS | [Read More](https://medium.com/p/c11c08086d92) |
 | Fri, 22 Aug 2025 17:22:54 GMT | Cyber Security 101 | Justice Ugochukwu Nwamuo | [Read More](https://medium.com/p/7556fe254bbe) |
-| Fri, 22 Aug 2025 17:19:48 GMT | Your Photos Are Revealing Your Home Address Without You Knowing | Ngoc Nguyen Nhu | [Read More](https://medium.com/p/e1675652b023) |
-| Fri, 22 Aug 2025 17:18:40 GMT | Testing the Microsoft Graph Terraform Provider with Conditional Access Policies | Mark Tinderholt | [Read More](https://medium.com/p/cb1a43302f92) |
-| Fri, 22 Aug 2025 17:13:32 GMT | Admin Panel-CAT Reloaded CTF 2025 | 00xCanelo | [Read More](https://medium.com/p/6b7885223f23) |
-| Fri, 22 Aug 2025 17:13:27 GMT | Default Credentials: The Persistent & Preventable Cybersecurity Vulnerability | Vilkas Cybersecurity | [Read More](https://medium.com/p/0d51fc759426) |
-| Fri, 22 Aug 2025 17:09:58 GMT | 3 High-Income Skills You Can Learn for Free in 2025 | Muhammad Hassan Ali | [Read More](https://medium.com/p/c9cbbe10f9b8) |
-| Fri, 22 Aug 2025 17:06:34 GMT | Ansible: The Power of Simple, Agentless Automation for IT Operations & IT Management | Raisahmed | [Read More](https://medium.com/p/fd62406e8222) |
-| Fri, 22 Aug 2025 17:02:30 GMT | Cyber Attacks,Crime and AI flaws….. | _Anirudh_ | [Read More](https://medium.com/p/e7152ab54636) |
-| Fri, 22 Aug 2025 16:59:20 GMT | MY JOURNEY INTO TECH (CYBERSECURITY) | ESHIET ANIEDI FRIDAY | [Read More](https://medium.com/p/a48f43e15865) |
-| Fri, 22 Aug 2025 16:52:48 GMT | TryHackMe GitLab CVE-2023–7028 | Mainekhacker | [Read More](https://medium.com/p/d258ae9ea6e0) |
