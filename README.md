@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 20:36:46 GMT | How I Used Python to Automate OSINT Investigations | Aj | [Read More](https://medium.com/p/b78a16750b3b) |
+| Sat, 23 Aug 2025 20:35:08 GMT | Kuban CTF 2025- “Opening the Jar” Write-Up | Tasneem Zeidan | [Read More](https://medium.com/p/4ea636582a69) |
+| Sat, 23 Aug 2025 20:34:41 GMT | $300 Bounty: CSRF Vulnerability in Evernote | Monika sharma | [Read More](https://medium.com/p/c5e6dd85657a) |
+| Sat, 23 Aug 2025 20:29:48 GMT | The Auth Apocalypse: Broken Authentication & Session Management — Episode 4 | Yamini Yadav | [Read More](https://medium.com/p/fadbfba22a92) |
+| Sat, 23 Aug 2025 20:25:36 GMT | DeepFind.Me: Powerful Resource For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/220ba27bfb08) |
+| Sat, 23 Aug 2025 20:25:11 GMT | Passwords Are Dying: What Hackers Already Know About You | Shahzaib | [Read More](https://medium.com/p/1110f214dab1) |
+| Sat, 23 Aug 2025 20:24:57 GMT | OSINT Deep Dive into Two Chinese Citizens Caught Drone Flying at Malaysia’s Defence Ministry | Jacque Rainey | [Read More](https://medium.com/p/6ed8cd12d027) |
+| Sat, 23 Aug 2025 20:24:41 GMT | Major Challenges for Healthcare CISOs | Satyam Pathania | [Read More](https://medium.com/p/418cef5d593e) |
+| Sat, 23 Aug 2025 20:20:13 GMT | Breaking the Chain: How Defender for Cloud’s Attack Path Analysis Stops Real Attacks | Dikshant Lather | [Read More](https://medium.com/p/b1af36f7d2f3) |
 | Sat, 23 Aug 2025 20:06:48 GMT | Insuredlifeinvest.Ltd Crypto Scam: How I Nearly Lost Everything | Editor | [Read More](https://medium.com/p/89cb1b8fec75) |
 | Sat, 23 Aug 2025 19:59:11 GMT | Coingainars.com Scam Exposed: The Truth About This Fake Crypto Platform | Editor | [Read More](https://medium.com/p/cfd580b98842) |
 | Sat, 23 Aug 2025 19:53:19 GMT | Hacking My Way Out: From Midnight Bundles in Ghana to the Dark Web | Cybernerddd | [Read More](https://medium.com/p/ff38d08af0c3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 14:05:38 GMT | Top 5 Industries That Benefit Most from CCTV Live Monitoring | Nimra Sheikh | [Read More](https://medium.com/p/2e8e72dc62a1) |
 | Sat, 23 Aug 2025 14:05:15 GMT | Behind the Screens A Day in the Life of a Camera Monitoring Guard | Nimra Sheikh | [Read More](https://medium.com/p/875e907c3adb) |
 | Sat, 23 Aug 2025 14:04:58 GMT | Building Trust CCTV Monitoring That Enhances Workplace Safety | Nimra Sheikh | [Read More](https://medium.com/p/005f32c25990) |
-| Sat, 23 Aug 2025 14:04:21 GMT | The Free URL Scanner That Saves Me Hours (CyScan.io) | Nitin yadav | [Read More](https://medium.com/p/8909c26188e3) |
-| Sat, 23 Aug 2025 14:00:41 GMT | You Need To Learn Bash Scripting Now!!! | Mainekhacker | [Read More](https://medium.com/p/74183464aae7) |
-| Sat, 23 Aug 2025 13:58:40 GMT | The Game v2 — TryHackMe Writeups Complete Breakdown | pran0x | [Read More](https://medium.com/p/12669594f921) |
-| Sat, 23 Aug 2025 13:56:50 GMT | Practical Step-by-Step Guide to Solving Easy CTF Challenges on TryHackMe and VulnHub | Prajwal | [Read More](https://medium.com/p/001324f2ae49) |
-| Sat, 23 Aug 2025 13:53:07 GMT | A Beginner’s Guide to OWASP ZAP | Akhil Binu | [Read More](https://medium.com/p/dd8b6cee83f0) |
-| Sat, 23 Aug 2025 13:51:28 GMT | Spring Boot 2025: How to Build Unbreakable JWT Authentication with DPoP & OpenTelemetry | Lakshika | [Read More](https://medium.com/p/d9cb0843ad3b) |
-| Sat, 23 Aug 2025 13:29:47 GMT | ⚡ Safe DOM APIs vs. Dangerous DOM APIs & Inline HTML Explained ️ | Zoningxtr | [Read More](https://medium.com/p/455746a6dbde) |
-| Sat, 23 Aug 2025 13:27:32 GMT | Middle-aged women over 40, no matter who they’re talking to, it’s really dumb to show these 3 cards. | Lucas Brown | [Read More](https://medium.com/p/0aa7ccf24832) |
-| Sat, 23 Aug 2025 13:26:42 GMT | The Marketing of Vulnerability | Antonio Carlos | [Read More](https://medium.com/p/3c124217065b) |
