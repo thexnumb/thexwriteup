@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 13:29:47 GMT | ⚡ Safe DOM APIs vs. Dangerous DOM APIs & Inline HTML Explained ️ | Zoningxtr | [Read More](https://medium.com/p/455746a6dbde) |
+| Sat, 23 Aug 2025 13:27:32 GMT | Middle-aged women over 40, no matter who they’re talking to, it’s really dumb to show these 3 cards. | Lucas Brown | [Read More](https://medium.com/p/0aa7ccf24832) |
+| Sat, 23 Aug 2025 13:26:42 GMT | The Marketing of Vulnerability | Antonio Carlos | [Read More](https://medium.com/p/3c124217065b) |
+| Sat, 23 Aug 2025 13:21:08 GMT | ️‍♂️ TryHackMe — Basic Static Analysis (Walkthrough + Learning Notes) | Furkanctiner | [Read More](https://medium.com/p/975da99cc8ac) |
+| Sat, 23 Aug 2025 13:18:30 GMT | Write-up PicoCTF: Cryptography ‘13’ | Muhammad Khairin | [Read More](https://medium.com/p/6fe8b5244458) |
+| Sat, 23 Aug 2025 13:17:25 GMT | Write-up PicoCTF:Forensics ‘Glory of the Garden’ | Muhammad Khairin | [Read More](https://medium.com/p/500eb479d557) |
+| Sat, 23 Aug 2025 13:16:05 GMT | This Week in AWS: Know Like and (Hi)Trust | carlarjenkins | [Read More](https://medium.com/p/4d9c65cf5bc3) |
 | Sat, 23 Aug 2025 13:12:54 GMT | How to Understand and Prevent Reflected, Stored, & DOM-Based XSS (Cross-Site Scripting) | Ebenezer | [Read More](https://medium.com/p/f2ec7a31d945) |
 | Sat, 23 Aug 2025 13:01:47 GMT | How to Spot a Rug Pull in Crypto Before It Happens | Farhad Ali | [Read More](https://medium.com/p/47eb74c0fa70) |
 | Sat, 23 Aug 2025 12:59:11 GMT | Encrypting vs Hashing vs Encoding — What’s the Difference? | Bhavy Ladani | [Read More](https://medium.com/p/c52d60a383d1) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 08:00:46 GMT | Analyzing Blockchain Security Step by Step | Cyber Security Research | [Read More](https://medium.com/p/62037c3233c5) |
 | Sat, 23 Aug 2025 07:59:13 GMT | Best Cyber Security Training in Bangalore — Visualpath | Pravin Choudhary | [Read More](https://medium.com/p/91109ffeb5a4) |
 | Sat, 23 Aug 2025 07:58:16 GMT | Analyzing AI in Cybersecurity in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/0405a406cddc) |
-| Sat, 23 Aug 2025 07:55:41 GMT | Analyzing AI in Cybersecurity for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/198baf7ed4d3) |
-| Sat, 23 Aug 2025 07:54:09 GMT | What Will You Bring Today? | Sara Roger | [Read More](https://medium.com/p/3480df35c805) |
-| Sat, 23 Aug 2025 07:29:32 GMT | A Reminder… | Onukwue Eunice | [Read More](https://medium.com/p/a391c5128a9e) |
-| Sat, 23 Aug 2025 07:29:24 GMT | Exploiting ImageMagick to get RCE | Kris3c | [Read More](https://medium.com/p/72887ccddd5e) |
-| Sat, 23 Aug 2025 07:29:02 GMT | ThunderCipher-Lab[PageVault] | Bhuwan Patidar | [Read More](https://medium.com/p/6373f32e87a4) |
-| Sat, 23 Aug 2025 07:22:28 GMT | Katana to Kill‑Switch: Mastering ProjectDiscovery’s Crawler From Zero to Pro (with Real‑World… | adce626 | [Read More](https://medium.com/p/62a7dec5a744) |
-| Sat, 23 Aug 2025 07:20:24 GMT | If You Break Into Someone’s House, You Learn That Sometimes You are Welcomed | Ghani Mengal | [Read More](https://medium.com/p/2399da44bba9) |
