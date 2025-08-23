@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 09:14:05 GMT | "The Secret Google Traffic Loophole: Get FREE Traffic in 5 Minutes!" | ProfitLab | [Read More](https://medium.com/p/ea479cfa5d3a) |
+| Sat, 23 Aug 2025 08:54:35 GMT | The FTP Server That Wouldn’t Stop Getting Attacked | Shahzaib | [Read More](https://medium.com/p/d70ada598bef) |
+| Sat, 23 Aug 2025 08:54:03 GMT | Security Shortcuts Even the Pros Forget to Double-Check | Dhruvdeep Singh | [Read More](https://medium.com/p/75c22a4830b3) |
+| Sat, 23 Aug 2025 08:50:11 GMT | Lenovo Webcames Turned in remote hacking tools | Sasha Kotova | [Read More](https://medium.com/p/38181d9ac83c) |
+| Sat, 23 Aug 2025 08:47:31 GMT | Would You Leave Your Servers Exposed Through… a Thermometer? | Evgeny Ermakov | [Read More](https://medium.com/p/2964e730be2a) |
+| Sat, 23 Aug 2025 08:44:41 GMT | ️ Fixyfier: The All-in-One Free PC Repair Toolkit for Windows | Taha Ex | [Read More](https://medium.com/p/5f029fb31d62) |
+| Sat, 23 Aug 2025 08:44:29 GMT | From Logs to Loot: How Debug Files Exposed User Sessions and Led Me to Jackpot | Iski | [Read More](https://medium.com/p/d06b8efe5ac9) |
 | Sat, 23 Aug 2025 08:38:44 GMT | Breaking a “Hardened” Jinja2 SSTI (CTF Write-Up) | Sarah Siddiqui | [Read More](https://medium.com/p/d2104af8cae4) |
 | Sat, 23 Aug 2025 08:33:57 GMT | TryHackMe Bounty Hacker Walkthrough: Beginner-Friendly CTF for Enumeration & Privilege Escalation | Aryan Tiwari | [Read More](https://medium.com/p/c8a82ff174f0) |
 | Sat, 23 Aug 2025 08:30:48 GMT | Intro to Netcat: Your Ultimate Guide to `nc` & `ncat` | Nighty-Sky | [Read More](https://medium.com/p/b988dfd11826) |
@@ -106,10 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 22:17:30 GMT | Building an Automated Pentest Reporting Pipeline | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5d7809622fbf) |
 | Fri, 22 Aug 2025 21:55:10 GMT | 5 Critical Geopolitical Risks Impacting Cybersecurity in North America | Richard Frederick | [Read More](https://medium.com/p/30d8bd7de726) |
 | Fri, 22 Aug 2025 21:42:31 GMT | CCTV surveillance | Visual Monitoring Solutions | [Read More](https://medium.com/p/e14665f84b7d) |
-| Fri, 22 Aug 2025 21:38:40 GMT | Scheduled Changes and Updates — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/e6f34df57abf) |
-| Fri, 22 Aug 2025 21:35:55 GMT | When a Valid Critical Goes Nowhere: Lessons from 14 Weeks in ImmuneFi Limbo | Silence Dogood | [Read More](https://medium.com/p/7764039316a2) |
-| Fri, 22 Aug 2025 21:31:39 GMT | When Spooky Fonts Turn Deadly: Exploiting Server-Side Template Injection for Remote Code Execution | Yeraldinmueses | [Read More](https://medium.com/p/debbe4d2c2d7) |
-| Fri, 22 Aug 2025 21:31:07 GMT | CATF 2025 Vibe Coded C Web Challenge WriteUp | UsifAraby | [Read More](https://medium.com/p/5f1fa834181a) |
-| Fri, 22 Aug 2025 21:29:14 GMT | The Rising Cost of Cybercrime and What It Means for Businesses | Akshay Chauhan | [Read More](https://medium.com/p/13479af20cdc) |
-| Fri, 22 Aug 2025 21:07:42 GMT | Beyond PCI and HIPAA: How Feroot Powers Gramm–Leach–Bliley Act (GLBA) Compliance | Feroot Security | [Read More](https://medium.com/p/d9a2b109a4a6) |
-| Fri, 22 Aug 2025 21:03:31 GMT | Portswigger HTTP Host Header Attacks Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/f773ffad923d) |
