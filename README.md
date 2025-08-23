@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 22:23:27 GMT | Lab Walkthrough: Stored XSS in HTML (No Encoding, Yikes) | Juweyriya | [Read More](https://medium.com/p/764ed0df6556) |
+| Sat, 23 Aug 2025 22:17:23 GMT | Lab Walkthrough: Reflected XSS Into HTML (No Encoding, EZ Mode) | Juweyriya | [Read More](https://medium.com/p/50b384fc8a79) |
 | Sat, 23 Aug 2025 22:12:54 GMT | Why “Saving Costs” Shouldn’t Be Your Goal When Building IT Infrastructure | emmanuel udie | [Read More](https://medium.com/p/7f5ff50f4fcf) |
 | Sat, 23 Aug 2025 22:11:52 GMT | Demystifying AI in 2025: The Rise of Personalized and Responsible AI | Staytechscs | [Read More](https://medium.com/p/8f0c70bf90d2) |
 | Sat, 23 Aug 2025 22:11:40 GMT | A Hacker’s Journey: From Zero to Shell on DVWA — A Comprehensive Writeup | j1sec | [Read More](https://medium.com/p/4561d35fbf5f) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 15:18:35 GMT | Phishing Attacks: The Most Persistent Cybersecurity Threat and How to Defend Against Them | SNEHA M 2447154 | [Read More](https://medium.com/p/8f55fd8ee901) |
 | Sat, 23 Aug 2025 15:15:40 GMT | In Cybersecurity and Life, Respect Means No Negotiations | Vijay Kumar Gupta | [Read More](https://medium.com/p/0802321719b3) |
 | Sat, 23 Aug 2025 15:15:36 GMT | How I Passed the CPTS Exam (After 3 Attempts) | Nikita Astashenko | [Read More](https://medium.com/p/cbd26d3dc0f8) |
-| Sat, 23 Aug 2025 15:09:20 GMT | The Anatomy of Malware: Unveiling the Secrets Behind Digital Threats | Orbe One | [Read More](https://medium.com/p/b284885e8c1e) |
-| Sat, 23 Aug 2025 15:09:12 GMT | A Selection of Cybersecurity Anti-Patterns | Petr Dusek | [Read More](https://medium.com/p/87db6eb1bf4c) |
