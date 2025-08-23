@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 07:08:27 GMT | The Return of the Matriarch – A Personal Reflection | Nikki J Phelan | [Read More](https://medium.com/p/e34e2fc8ceee) |
+| Sat, 23 Aug 2025 07:08:06 GMT | My Journey Completing the OCI AI Foundations Associate (2025) Certification | Prateekpulastya | [Read More](https://medium.com/p/b909b41fcb38) |
+| Sat, 23 Aug 2025 06:57:53 GMT | Attacking login page: Math Captcha | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/2c32fce43014) |
+| Sat, 23 Aug 2025 06:52:19 GMT | A Beginner’s Guide to Identity and Access Management (IAM) | Aarushi Mishra | [Read More](https://medium.com/p/95090c3dc22b) |
+| Sat, 23 Aug 2025 06:49:57 GMT | EP 04: Domain-based Message Authentication, Reporting, and Conformance (DMARC) | H.W.K. Aravinda | [Read More](https://medium.com/p/9894349db4d9) |
+| Sat, 23 Aug 2025 06:48:20 GMT | Redington launches its CODE initiative to accelerate the development of skills in cloud, AI, and… | Ram | [Read More](https://medium.com/p/2d0ecb6f3109) |
+| Sat, 23 Aug 2025 06:47:31 GMT | Tip de Bug Bounty: los fallos viven en los flujos secundarios | Gorka | [Read More](https://medium.com/p/6a689523ec63) |
 | Sat, 23 Aug 2025 06:46:08 GMT | ELF Internals : Deep Dive | Kris3c | [Read More](https://medium.com/p/6a03cecf34ce) |
 | Sat, 23 Aug 2025 06:34:45 GMT | “Privacy Risks of Smart Devices: What Your IoT Gadgets Reveal About You” | Vidushhi Panda | [Read More](https://medium.com/p/ee18f5de4f00) |
 | Sat, 23 Aug 2025 06:31:57 GMT | FortiClient Unified Endpoint Agent: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/bee987a91f04) |
@@ -106,10 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 20:03:06 GMT | Cybersecurity Workflow: A Step-by-Step Guide | SafeAeon Inc. | [Read More](https://medium.com/p/dd72c0664d2c) |
 | Fri, 22 Aug 2025 20:01:04 GMT | Professional Python Project Architecture: A Comprehensive Guide for Cybersecurity Engineers | Mohamed Gebril | [Read More](https://medium.com/p/16f55b066dd2) |
 | Fri, 22 Aug 2025 19:51:29 GMT | Portswigger Server-side template injection — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/41103b47147f) |
-| Fri, 22 Aug 2025 19:51:20 GMT | My Internship Journey with Oasis Infobyte — OIBSIP Experience | Kizito Arinze Chukwu | [Read More](https://medium.com/p/5d9372915451) |
-| Fri, 22 Aug 2025 19:44:59 GMT | CSRF to Delete a Pet — How I Found a Vulnerability in the /pets/delete Endpoint | dr34m14 | [Read More](https://medium.com/p/637b3e50152b) |
-| Fri, 22 Aug 2025 19:43:41 GMT | Achieving SOC 2 Compliance: A Detailed Checklist for Success | SafeAeon Inc. | [Read More](https://medium.com/p/5ae72ca69e3e) |
-| Fri, 22 Aug 2025 19:43:35 GMT | Drosera | Soch | [Read More](https://medium.com/p/f4518e8a4718) |
-| Fri, 22 Aug 2025 19:43:12 GMT | What SMBs Can Learn from the Ingram Micro Ransomware Breach — And Why Fully Managed XDR from… | Julian M | [Read More](https://medium.com/p/08ebf570e977) |
-| Fri, 22 Aug 2025 19:41:32 GMT | Portswigger Authentication Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/9b7201dca347) |
-| Fri, 22 Aug 2025 19:37:32 GMT | picoCTF: Cookie Monster Secret Recipe | Ross Andrews | [Read More](https://medium.com/p/66f8b199502f) |
