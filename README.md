@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 19:37:31 GMT | 127.0.0.1 Isn’t Just Localhost: The Secret Network Inside Your Computer | Dayakumar | [Read More](https://medium.com/p/7857537dd84f) |
+| Sat, 23 Aug 2025 19:31:32 GMT | Enforcing Security Best Practices with Linux Permissions | Dany Christel | [Read More](https://medium.com/p/9fb760b1be96) |
+| Sat, 23 Aug 2025 19:24:49 GMT | You Don’t Need a PhD in SQL to Use Your Own Telemetry | Umesh Sirsiwal | [Read More](https://medium.com/p/24ed38e168e7) |
+| Sat, 23 Aug 2025 19:08:40 GMT | Polyglot Files in Cybersecurity: A Double-Edged Sword | Samyakgoel | [Read More](https://medium.com/p/91a42960208f) |
 | Sat, 23 Aug 2025 19:07:13 GMT | Lure, Mislead, Learn: The Rise of Cyber Deception | Richard Dosumu | [Read More](https://medium.com/p/4eed233399ec) |
 | Sat, 23 Aug 2025 19:02:35 GMT | CAT CTF 2025 Web Walkthrough [Part1] | Sayed | [Read More](https://medium.com/p/372be023d48c) |
 | Sat, 23 Aug 2025 19:01:09 GMT | “My Interview Wake-Up Call: The Python Traps You Don’t See Until an Interview Exposes Them” | Nitin Jha | [Read More](https://medium.com/p/6406fad2ef60) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 12:59:11 GMT | Encrypting vs Hashing vs Encoding — What’s the Difference? | Bhavy Ladani | [Read More](https://medium.com/p/c52d60a383d1) |
 | Sat, 23 Aug 2025 12:58:50 GMT | Technology Facts Kids Today Won’t Believe | FactSphereMedia | [Read More](https://medium.com/p/fe8b0ffbd2e9) |
 | Sat, 23 Aug 2025 12:58:19 GMT | Blind SSRF Found on a Public Bug Bounty Target | Abood_XHacker | [Read More](https://medium.com/p/f9ae1fcc9494) |
-| Sat, 23 Aug 2025 12:57:39 GMT | Weekly Roundup — August 23 2025 | litwtch | [Read More](https://medium.com/p/dfce56aebdc9) |
-| Sat, 23 Aug 2025 12:56:06 GMT | Cookies Explained Simply | Tslnreddy | [Read More](https://medium.com/p/ea6212c6fde4) |
-| Sat, 23 Aug 2025 12:55:50 GMT | 20 Technology Facts That Will Blow Your Mind | FactSphereMedia | [Read More](https://medium.com/p/ca6d931e63f4) |
-| Sat, 23 Aug 2025 12:54:36 GMT | Biases: The Framing Trap: Why a Brilliant Answer to the Wrong Question is Still Wrong | noailabs | [Read More](https://medium.com/p/c12d699a6de7) |
