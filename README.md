@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 10:06:53 GMT | APT36 Exploits Linux Desktop Files for Stealthy Malware Attacks | Chetan Seripally | [Read More](https://medium.com/p/28889c5f85f7) |
+| Sat, 23 Aug 2025 10:06:17 GMT | Securing Critical Infrastructure in MENA: Raed Ahsan Moderates Panel at OTSEC MENA 2025 | Raed Ahsan | [Read More](https://medium.com/p/91075266cd6a) |
+| Sat, 23 Aug 2025 10:03:34 GMT | When Your Shoulder to Cry On Wants to F*ck You | Lacie Lou | [Read More](https://medium.com/p/28ddf3c37503) |
+| Sat, 23 Aug 2025 10:02:06 GMT | Cybersecurity Trends in 2025 — What You Must Know | Jenniwrites | [Read More](https://medium.com/p/60e3a5d8532a) |
+| Sat, 23 Aug 2025 10:02:00 GMT | Navigating the Internet of Things Landscape: Protecting Our Connected Future | Mitterand Events And Management Consultancy W.L.L | [Read More](https://medium.com/p/42aa746d64f5) |
+| Sat, 23 Aug 2025 09:56:42 GMT | Murky Panda’s Cloud Exploit-How Trust in SaaS Became a Breach Vector | Chetan Seripally | [Read More](https://medium.com/p/3149254550d8) |
+| Sat, 23 Aug 2025 09:53:34 GMT | Digital Security Careers That Pay the Highest Salaries | Dkvilas | [Read More](https://medium.com/p/60784163981b) |
+| Sat, 23 Aug 2025 09:48:11 GMT | Unpacking Agentic AI: The Four Pillars of Autonomous Intelligence | Bibhu Ashish Panda | [Read More](https://medium.com/p/926e36bad6cd) |
+| Sat, 23 Aug 2025 09:46:36 GMT | Top 10 Hacking Movies in 2025 | Manisha Chaudhary | [Read More](https://medium.com/p/a9b798c2e158) |
+| Sat, 23 Aug 2025 09:43:45 GMT | Hunting Suspicious Temp-Folder Outbound Network Connections with CrowdStrike NG-SIEM (Bulk IOC… | Pasindu Wanigaratne | [Read More](https://medium.com/p/80d7d1ac7409) |
+| Sat, 23 Aug 2025 09:39:21 GMT | Hunt for Bug Bounties: Top 10 Web Vulnerabilities | RafalW3bCraft | [Read More](https://medium.com/p/eb16b0a67fd2) |
+| Sat, 23 Aug 2025 09:38:07 GMT | “From C to Shellcode: Building a Position-Independent Reverse Shell ” | Cyb3rCr0wCC | [Read More](https://medium.com/p/db121f2b73d7) |
 | Sat, 23 Aug 2025 09:33:40 GMT | ScreenSpy: Monitoring Real-time Screen Remotely via Multi-Stage Python malware. | Cyb3rCr0wCC | [Read More](https://medium.com/p/c688b3286d57) |
 | Sat, 23 Aug 2025 09:25:12 GMT | Wrong Variable Name Leads To RCE - CVE-2025–52130 | TheHiker | [Read More](https://medium.com/p/8ff59a7d245c) |
 | Sat, 23 Aug 2025 09:24:01 GMT | Introducing GoSpray: Lightweight and Simple SSH Password Spraying Tool in Golang | Cyb3rCr0wCC | [Read More](https://medium.com/p/9571c54e4fb9) |
@@ -101,15 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Sat, 23 Aug 2025 00:08:11 GMT | Hungary’s leader complained to the U.S. | Beloodgang | [Read More](https://medium.com/p/07dbf74863d3) |
 | Sat, 23 Aug 2025 00:01:33 GMT | FOFA: The Definitive Guide to Asset Recognition in Bug Bounty and OSINT | JPablo13 | [Read More](https://medium.com/p/dc0448055220) |
 | Fri, 22 Aug 2025 23:57:30 GMT | The Flipper Zero Debate: A Symptom of Automotive Security Failures | RealSec.io | [Read More](https://medium.com/p/09751b0f284c) |
-| Fri, 22 Aug 2025 23:34:30 GMT | Analyzing AI in Cybersecurity and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/39276e937581) |
-| Fri, 22 Aug 2025 23:29:15 GMT | Analyzing AI in Cybersecurity That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/ca39e271c509) |
-| Fri, 22 Aug 2025 23:27:32 GMT | Analyzing AI in Cybersecurity Step by Step | Cyber Security Research | [Read More](https://medium.com/p/60213d9f30bd) |
-| Fri, 22 Aug 2025 23:25:37 GMT | Advancing Zero Trust Security in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/1d3e61599dcc) |
-| Fri, 22 Aug 2025 23:25:19 GMT | Nibbles — HackTheBox Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/d59ed3b3fa36) |
-| Fri, 22 Aug 2025 23:22:55 GMT | Shadow Workers and Drug-Test Scams: How Employment Fraud Exploits System Gaps | Internet Exposed | [Read More](https://medium.com/p/f0189366299c) |
-| Fri, 22 Aug 2025 23:22:42 GMT | Hackers Don’t Need Zero-Days. They Just Need Your Password. | Cyber-AppSec | [Read More](https://medium.com/p/330a3399dbe0) |
-| Fri, 22 Aug 2025 23:02:51 GMT | A guide to Network Security tools, Part 1: Reconnaissance & Enumeration | Ekene Ejike | [Read More](https://medium.com/p/aa4457abc648) |
-| Fri, 22 Aug 2025 22:52:29 GMT | Smart Home Security Starter Pack: Why a Video Doorbell Camera Should Be First | Dmitriy Lyubarskiy | [Read More](https://medium.com/p/70a6c7b7133b) |
-| Fri, 22 Aug 2025 22:51:54 GMT | Regarding the Woman in the Mirror | Contagious Vulnerability | [Read More](https://medium.com/p/3ca0278c3c96) |
-| Fri, 22 Aug 2025 22:50:43 GMT | A hands-on introduction to the Linux command line: Part 4 — Network basics, automation &… | Ekene Ejike | [Read More](https://medium.com/p/3d466666d478) |
-| Fri, 22 Aug 2025 22:34:06 GMT | hi. I’m Zora. I got hacked! | Chime Chukwubuike Victory | [Read More](https://medium.com/p/1004c33cf39e) |
