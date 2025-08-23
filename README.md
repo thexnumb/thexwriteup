@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 17:07:39 GMT | SSH Port Forwarding in Linux: A Hacker’s Swiss Army Knife for CTFs | Beryl | [Read More](https://medium.com/p/cd80640bae80) |
+| Sat, 23 Aug 2025 17:03:42 GMT | 10 Cybersecurity Preventive Measures You Can’t Ignore in 2025 | Jobair Tuaha | [Read More](https://medium.com/p/024c55abae6d) |
+| Sat, 23 Aug 2025 17:01:05 GMT | Cross-Site Scripting (XSS) Vulnerability in a Plain-View | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/69c918793d2d) |
+| Sat, 23 Aug 2025 16:57:13 GMT | Why CCTV Monitoring Is the Future of Business Security in 2025 | Visual Monitoring Solutions | [Read More](https://medium.com/p/3ef31b18edb3) |
+| Sat, 23 Aug 2025 16:54:49 GMT | Cybersecurity Today: Protect Your Devices & Data | VS Writes | [Read More](https://medium.com/p/5e94aa102486) |
+| Sat, 23 Aug 2025 16:36:14 GMT | Generating ML-KEM Keys | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/db08c56fba01) |
 | Sat, 23 Aug 2025 16:33:40 GMT | Securing the Model Context Protocol: The Case for a Trusted MCP Gateway | Shashank N | [Read More](https://medium.com/p/346aa7f840fc) |
 | Sat, 23 Aug 2025 16:30:50 GMT | All About Bypassing The Login Panel | Soham Dalal | [Read More](https://medium.com/p/b07d5552044c) |
 | Sat, 23 Aug 2025 16:28:30 GMT | The Invisible Shield: Rethinking Cloud Security in 2025 | VedantiVerma | [Read More](https://medium.com/p/1cfc05b87eb2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 11:39:12 GMT | Leading Benefits of Hiring a Security Guard Los Angeles | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/a70671e0f46d) |
 | Sat, 23 Aug 2025 11:23:33 GMT | Secure Your APIs: 7 Critical Checks Devs Skip | R A N A   A H M A D | [Read More](https://medium.com/p/2faa205ad0fe) |
 | Sat, 23 Aug 2025 11:22:43 GMT | The Weirdest Social Media Scams Trending Right Now 2025 — Insider Tips | Tarush Sharma | [Read More](https://medium.com/p/40456a788437) |
-| Sat, 23 Aug 2025 11:22:28 GMT | My Honest Review of TryHackMe’s PT1 Exam | FireWolf | [Read More](https://medium.com/p/4e946bd9a0f3) |
-| Sat, 23 Aug 2025 11:22:04 GMT | Getting Started-HTB | Azer Abdullazde | [Read More](https://medium.com/p/23e9cf7b230c) |
-| Sat, 23 Aug 2025 11:20:36 GMT | TryHackMe - Enterprise | Adhamkhairy | [Read More](https://medium.com/p/279ba5a4d6a1) |
-| Sat, 23 Aug 2025 11:17:36 GMT | Reflected XSS into HTML context with all tags blocked except custom ones | Chirag Vyas | [Read More](https://medium.com/p/27b43d7196d8) |
-| Sat, 23 Aug 2025 11:16:00 GMT | Managed Vulnerability Scanning Services to Detect Problems Early and Protect the Business | Cyber Security Speed | [Read More](https://medium.com/p/4ac8b049b7b9) |
-| Sat, 23 Aug 2025 11:15:50 GMT | How Websites Know It’s You: The Role of IP, Cookies, and Sessions | Mahasri Seenivasan | [Read More](https://medium.com/p/1c64017fd3bd) |
