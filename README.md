@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 02:31:31 GMT | SQL Injection: Beyond Basics (Bug Bounty Hunter’s Guide) | sukhveer singh | [Read More](https://medium.com/p/5853d2d39b52) |
+| Sat, 23 Aug 2025 02:31:31 GMT | Unlimited Trials: Exploiting Email Alias Normalization in Redacted.com | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/c77cc24dc09d) |
+| Sat, 23 Aug 2025 01:57:31 GMT | The Growing Menace of Pharming and DNS Poisoning | Samina Perveen | [Read More](https://medium.com/p/2de07cd59b0e) |
+| Sat, 23 Aug 2025 01:54:51 GMT | The Flaw Inside Amazon’s Cloud Tool | The UNFILTERED Draft | [Read More](https://medium.com/p/de36f82ad5b8) |
 | Sat, 23 Aug 2025 01:09:22 GMT | Why I Never Allow Root SSH Logins on My Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/abf3bef9ca8a) |
 | Sat, 23 Aug 2025 01:05:00 GMT | New Win-DoS Zero-Click Vulnerabilities Turns Windows 
 ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medium.com/p/8e2b88aef882) |
@@ -109,7 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 17:35:45 GMT | Intelligent SBOM Ingestion and Breaking Change Analysis | ActiveState | [Read More](https://medium.com/p/2db1c70c3eb7) |
 | Fri, 22 Aug 2025 17:30:29 GMT | Cryptocurrency Theft Incidents – History, Threats, and Security Lessons | David SEHYEON Baek | [Read More](https://medium.com/p/f3727bcbb029) |
 | Fri, 22 Aug 2025 17:29:12 GMT | The Truth About Energy: Why Some Places and People Drain You | Vijay Kumar Gupta | [Read More](https://medium.com/p/d879d73f6b49) |
-| Fri, 22 Aug 2025 17:28:00 GMT | PG Practice — Workaholic (Linux) | Lepton | [Read More](https://medium.com/p/1368a45d0d88) |
-| Fri, 22 Aug 2025 17:27:02 GMT | Nostalgia - CatReloaded CTF 2025 | 00xCanelo | [Read More](https://medium.com/p/556ca22c6a9f) |
-| Fri, 22 Aug 2025 17:23:09 GMT | CAT Reloaded CTF 2025-Web Challenges | s0nDOS | [Read More](https://medium.com/p/c11c08086d92) |
-| Fri, 22 Aug 2025 17:22:54 GMT | Cyber Security 101 | Justice Ugochukwu Nwamuo | [Read More](https://medium.com/p/7556fe254bbe) |
