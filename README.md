@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 07:29:24 GMT | Exploiting ImageMagick to get RCE | Kris3c | [Read More](https://medium.com/p/72887ccddd5e) |
+| Sat, 23 Aug 2025 07:29:02 GMT | ThunderCipher-Lab[PageVault] | Bhuwan Patidar | [Read More](https://medium.com/p/6373f32e87a4) |
+| Sat, 23 Aug 2025 07:22:28 GMT | Katana to Kill‑Switch: Mastering ProjectDiscovery’s Crawler From Zero to Pro (with Real‑World… | adce626 | [Read More](https://medium.com/p/62a7dec5a744) |
+| Sat, 23 Aug 2025 07:20:24 GMT | If You Break Into Someone’s House, You Learn That Sometimes You are Welcomed | Ghani Mengal | [Read More](https://medium.com/p/2399da44bba9) |
 | Sat, 23 Aug 2025 07:08:27 GMT | The Return of the Matriarch – A Personal Reflection | Nikki J Phelan | [Read More](https://medium.com/p/e34e2fc8ceee) |
 | Sat, 23 Aug 2025 07:08:06 GMT | My Journey Completing the OCI AI Foundations Associate (2025) Certification | Prateekpulastya | [Read More](https://medium.com/p/b909b41fcb38) |
 | Sat, 23 Aug 2025 06:57:53 GMT | Attacking login page: Math Captcha | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/2c32fce43014) |
@@ -109,7 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 20:17:30 GMT | The Missing Button: How Big Tech Broke Privacy by Design | AI Rabbit | [Read More](https://medium.com/p/065c1e3cb5e3) |
 | Fri, 22 Aug 2025 20:16:20 GMT | Lumma Stealer 2025 - Full Breakdown of the Infostealer That Shook the World | Motasem Hamdan | [Read More](https://medium.com/p/d4a793da15e8) |
 | Fri, 22 Aug 2025 20:06:34 GMT | Project #5: Static NAT, Dynamic PAT + More Routing & Troubleshooting | NSESean | [Read More](https://medium.com/p/a4cb34eefd0c) |
-| Fri, 22 Aug 2025 20:06:18 GMT | Multi-Factor Authentication (MFA) | Kelly C. Bourne | [Read More](https://medium.com/p/c6a8a20c4317) |
-| Fri, 22 Aug 2025 20:03:06 GMT | Cybersecurity Workflow: A Step-by-Step Guide | SafeAeon Inc. | [Read More](https://medium.com/p/dd72c0664d2c) |
-| Fri, 22 Aug 2025 20:01:04 GMT | Professional Python Project Architecture: A Comprehensive Guide for Cybersecurity Engineers | Mohamed Gebril | [Read More](https://medium.com/p/16f55b066dd2) |
-| Fri, 22 Aug 2025 19:51:29 GMT | Portswigger Server-side template injection — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/41103b47147f) |
