@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 03:31:33 GMT | How South African Airways Took Off Again After a Cyberattack | Deven Chhajed | [Read More](https://medium.com/p/10447371d312) |
+| Sat, 23 Aug 2025 03:29:33 GMT | Cyber Hygiene: Building Healthy Digital Habits | Sanith Vichattu | [Read More](https://medium.com/p/26841a449dc9) |
+| Sat, 23 Aug 2025 03:15:30 GMT | The Digital Doppelgänger: How Deepfakes are Warping Our Sense of Self and Sanity | Dave Sharma | [Read More](https://medium.com/p/72106777cbe2) |
+| Sat, 23 Aug 2025 03:12:11 GMT | just because i will always love doesn’t mean i should always be the one loving alone | hea | [Read More](https://medium.com/p/73abdf66e2b1) |
+| Sat, 23 Aug 2025 03:09:07 GMT | The Death of Passwords: What a Passwordless Future Means for Security and Privacy | Shivansh Midha | [Read More](https://medium.com/p/eed5ad5bc6c1) |
+| Sat, 23 Aug 2025 03:03:06 GMT | Why do compliments make you uncomfortable? | Ink of Poetry | [Read More](https://medium.com/p/045a3d653905) |
+| Sat, 23 Aug 2025 02:55:16 GMT | How Unchecked External Calls Can Break Your Smart Contract | vishhxyz | [Read More](https://medium.com/p/797e11899708) |
 | Sat, 23 Aug 2025 02:31:31 GMT | SQL Injection: Beyond Basics (Bug Bounty Hunter’s Guide) | sukhveer singh | [Read More](https://medium.com/p/5853d2d39b52) |
 | Sat, 23 Aug 2025 02:31:31 GMT | Unlimited Trials: Exploiting Email Alias Normalization in Redacted.com | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/c77cc24dc09d) |
 | Sat, 23 Aug 2025 01:57:31 GMT | The Growing Menace of Pharming and DNS Poisoning | Samina Perveen | [Read More](https://medium.com/p/2de07cd59b0e) |
@@ -106,10 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 18:01:33 GMT | Beyond The Firewall: How Governments track your phone - Part 1 | Crashwire | [Read More](https://medium.com/p/9d89d4c6c97c) |
 | Fri, 22 Aug 2025 18:01:06 GMT | The Unseen War: Why the World’s Leading Companies Fortify Themselves with Whisec Solutions | whisec solutions | [Read More](https://medium.com/p/161031af068b) |
 | Fri, 22 Aug 2025 17:58:55 GMT | The New Battlefield: Defending Your Enterprise from High-End Security Threats | whisec solutions | [Read More](https://medium.com/p/4bffb3b392e8) |
-| Fri, 22 Aug 2025 17:57:50 GMT | The Hidden Danger of document.on() That Every Developer Should Know..‍⚠️ | Shubham Vartak | [Read More](https://medium.com/p/1e687d2c88b3) |
-| Fri, 22 Aug 2025 17:55:38 GMT | Beyond the Firewall: Why a Powerful Cybersecurity Strategy is Your Greatest Business Asset | whisec solutions | [Read More](https://medium.com/p/82a16d2e6000) |
-| Fri, 22 Aug 2025 17:37:53 GMT | Urgent Alert for Apple Users: Business Can’t Ignore the Latest Apple Zero-Day Patch | IT_Engineer | [Read More](https://medium.com/p/ecab96a24302) |
-| Fri, 22 Aug 2025 17:37:42 GMT | When does transparency become overload in Web3? | Shivanand Shukla | [Read More](https://medium.com/p/1f96fbc1fc5a) |
-| Fri, 22 Aug 2025 17:35:45 GMT | Intelligent SBOM Ingestion and Breaking Change Analysis | ActiveState | [Read More](https://medium.com/p/2db1c70c3eb7) |
-| Fri, 22 Aug 2025 17:30:29 GMT | Cryptocurrency Theft Incidents – History, Threats, and Security Lessons | David SEHYEON Baek | [Read More](https://medium.com/p/f3727bcbb029) |
-| Fri, 22 Aug 2025 17:29:12 GMT | The Truth About Energy: Why Some Places and People Drain You | Vijay Kumar Gupta | [Read More](https://medium.com/p/d879d73f6b49) |
