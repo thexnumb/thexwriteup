@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 20:06:48 GMT | Insuredlifeinvest.Ltd Crypto Scam: How I Nearly Lost Everything | Editor | [Read More](https://medium.com/p/89cb1b8fec75) |
+| Sat, 23 Aug 2025 19:59:11 GMT | Coingainars.com Scam Exposed: The Truth About This Fake Crypto Platform | Editor | [Read More](https://medium.com/p/cfd580b98842) |
+| Sat, 23 Aug 2025 19:53:19 GMT | Hacking My Way Out: From Midnight Bundles in Ghana to the Dark Web | Cybernerddd | [Read More](https://medium.com/p/ff38d08af0c3) |
+| Sat, 23 Aug 2025 19:52:52 GMT | Ransomware Attacks: When Your Data Gets Held Hostage | Sparshika | [Read More](https://medium.com/p/561415f4c32f) |
+| Sat, 23 Aug 2025 19:52:51 GMT | Ustradin.com Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Editor | [Read More](https://medium.com/p/6aeae3bc7a50) |
+| Sat, 23 Aug 2025 19:51:16 GMT | Mastering Nmap (Part 2): Advanced Scans & Firewall Evasion for Bug Bounty Hunters | appsecvenue | [Read More](https://medium.com/p/e005dcaf21a7) |
+| Sat, 23 Aug 2025 19:47:53 GMT | Kuban CTF 2025- OSINT write-ups | Tasneem Zeidan | [Read More](https://medium.com/p/8629c927d6d7) |
+| Sat, 23 Aug 2025 19:40:53 GMT | I Was Winning a Game Until the Hacker Won Me.” | Shahzaib | [Read More](https://medium.com/p/4d25a8c59719) |
+| Sat, 23 Aug 2025 19:37:55 GMT | Tackling Social Engineering Attacks with AI | Karim Mokhtar | [Read More](https://medium.com/p/c6929b895e03) |
 | Sat, 23 Aug 2025 19:37:31 GMT | 127.0.0.1 Isn’t Just Localhost: The Secret Network Inside Your Computer | Dayakumar | [Read More](https://medium.com/p/7857537dd84f) |
 | Sat, 23 Aug 2025 19:31:32 GMT | Enforcing Security Best Practices with Linux Permissions | Dany Christel | [Read More](https://medium.com/p/9fb760b1be96) |
 | Sat, 23 Aug 2025 19:24:49 GMT | You Don’t Need a PhD in SQL to Use Your Own Telemetry | Umesh Sirsiwal | [Read More](https://medium.com/p/24ed38e168e7) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 13:29:47 GMT | ⚡ Safe DOM APIs vs. Dangerous DOM APIs & Inline HTML Explained ️ | Zoningxtr | [Read More](https://medium.com/p/455746a6dbde) |
 | Sat, 23 Aug 2025 13:27:32 GMT | Middle-aged women over 40, no matter who they’re talking to, it’s really dumb to show these 3 cards. | Lucas Brown | [Read More](https://medium.com/p/0aa7ccf24832) |
 | Sat, 23 Aug 2025 13:26:42 GMT | The Marketing of Vulnerability | Antonio Carlos | [Read More](https://medium.com/p/3c124217065b) |
-| Sat, 23 Aug 2025 13:21:08 GMT | ️‍♂️ TryHackMe — Basic Static Analysis (Walkthrough + Learning Notes) | Furkanctiner | [Read More](https://medium.com/p/975da99cc8ac) |
-| Sat, 23 Aug 2025 13:18:30 GMT | Write-up PicoCTF: Cryptography ‘13’ | Muhammad Khairin | [Read More](https://medium.com/p/6fe8b5244458) |
-| Sat, 23 Aug 2025 13:17:25 GMT | Write-up PicoCTF:Forensics ‘Glory of the Garden’ | Muhammad Khairin | [Read More](https://medium.com/p/500eb479d557) |
-| Sat, 23 Aug 2025 13:16:05 GMT | This Week in AWS: Know Like and (Hi)Trust | carlarjenkins | [Read More](https://medium.com/p/4d9c65cf5bc3) |
-| Sat, 23 Aug 2025 13:12:54 GMT | How to Understand and Prevent Reflected, Stored, & DOM-Based XSS (Cross-Site Scripting) | Ebenezer | [Read More](https://medium.com/p/f2ec7a31d945) |
-| Sat, 23 Aug 2025 13:01:47 GMT | How to Spot a Rug Pull in Crypto Before It Happens | Farhad Ali | [Read More](https://medium.com/p/47eb74c0fa70) |
-| Sat, 23 Aug 2025 12:59:11 GMT | Encrypting vs Hashing vs Encoding — What’s the Difference? | Bhavy Ladani | [Read More](https://medium.com/p/c52d60a383d1) |
-| Sat, 23 Aug 2025 12:58:50 GMT | Technology Facts Kids Today Won’t Believe | FactSphereMedia | [Read More](https://medium.com/p/fe8b0ffbd2e9) |
-| Sat, 23 Aug 2025 12:58:19 GMT | Blind SSRF Found on a Public Bug Bounty Target | Abood_XHacker | [Read More](https://medium.com/p/f9ae1fcc9494) |
