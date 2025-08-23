@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 18:46:22 GMT | The Importance of Laravel Fortify in Modern Web Applications | Arthur Vinícius | [Read More](https://medium.com/p/e720093038e8) |
+| Sat, 23 Aug 2025 18:33:00 GMT | The Invisible War: How Hackers Target the World’s Biggest Events | Kaotip Tan (KT) | [Read More](https://medium.com/p/7ee6dc2365d5) |
+| Sat, 23 Aug 2025 18:22:19 GMT | Tea App Data Breach: Cybersecurity Lessons and Privacy Insights | Kudzai Kangwende | [Read More](https://medium.com/p/1dadda8ceee2) |
+| Sat, 23 Aug 2025 18:18:53 GMT | A Smarter Lock for a Smarter World: The Mobile-First Revolution in Access Control | Damian Griggs | [Read More](https://medium.com/p/c1178631c832) |
 | Sat, 23 Aug 2025 17:58:27 GMT | AI vs Hackers: Who Will Win the Cybersecurity War? | Sukhveer Singh | [Read More](https://medium.com/p/95834c17d795) |
 | Sat, 23 Aug 2025 17:57:50 GMT | The Exhaustion of Always Pretending to be “Okay”….. | Noorink | [Read More](https://medium.com/p/0a1d9ca52317) |
 | Sat, 23 Aug 2025 17:48:33 GMT | Sticker Shop - TryHackMe | Laach_ | [Read More](https://medium.com/p/9a64a0f4818f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 12:41:03 GMT | Bounty Hacker: TryHackMe WriteUp | Bridget | [Read More](https://medium.com/p/2e713cd0cd01) |
 | Sat, 23 Aug 2025 12:34:15 GMT | A Test Case: Gemini 2.5 | Berend Watchus | [Read More](https://medium.com/p/957af5fd2660) |
 | Sat, 23 Aug 2025 12:31:51 GMT | Hiding Download Button in Snowsight: A Step-by-Step Guide | Eric Heilman | [Read More](https://medium.com/p/decb2c1e7804) |
-| Sat, 23 Aug 2025 12:31:31 GMT | How the Internet Flows: From Your Screen to a Server and Back | Akhil Boddula | [Read More](https://medium.com/p/473688e10b14) |
-| Sat, 23 Aug 2025 12:28:45 GMT | Eternal Blue (ms17–010) — Full Walkthrough | Vaibhav | [Read More](https://medium.com/p/cff74caaade5) |
-| Sat, 23 Aug 2025 12:27:47 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/e502da6de149) |
-| Sat, 23 Aug 2025 12:27:31 GMT | Security Starts with Gratitude, Not Control | Evgeny Ermakov | [Read More](https://medium.com/p/9e36afb18914) |
