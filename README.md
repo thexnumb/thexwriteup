@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 04:42:17 GMT | Why 89% of Startups Are Ditching AWS for This $5/Month Alternative | Rizqi Mulki | [Read More](https://medium.com/p/262db11a86b5) |
+| Sat, 23 Aug 2025 04:36:46 GMT | Why Security Should Come Before Performance | Rizqi Mulki | [Read More](https://medium.com/p/930286118b00) |
+| Sat, 23 Aug 2025 04:33:18 GMT | The Rise of Predictive Cyber Threat Intelligence: From Reactive Defense to Preemptive Strike | Dr. Deep Pandey | [Read More](https://medium.com/p/e878d8c1ccbe) |
+| Sat, 23 Aug 2025 04:32:41 GMT | This One Line in JavaScript Could Be a Security Disaster | Amit Kumar | [Read More](https://medium.com/p/49026760413f) |
+| Sat, 23 Aug 2025 04:32:24 GMT | What Most Devs Get Wrong About Database Performance | Rizqi Mulki | [Read More](https://medium.com/p/cadb80092bb1) |
+| Sat, 23 Aug 2025 04:26:36 GMT | Dws-holdings.com Crypto Scam: How I Got Trapped and Managed to Recover Funds | Editor | [Read More](https://medium.com/p/9581ca5ed1c5) |
+| Sat, 23 Aug 2025 04:24:05 GMT | Dzalliance.info Scam Review: How I Recovered From a Fake AI Trading Platform | Editor | [Read More](https://medium.com/p/24a9dfcc89a7) |
 | Sat, 23 Aug 2025 04:20:33 GMT | Famoustransact.click Crypto Scam: A Fake AI Trading Service That Trapped Me | Editor | [Read More](https://medium.com/p/f96d9cfb3876) |
 | Sat, 23 Aug 2025 04:11:45 GMT | Dfaledx.com Crypto Scam: How I Nearly Lost Everything | Editor | [Read More](https://medium.com/p/7c67602a8614) |
 | Sat, 23 Aug 2025 04:08:56 GMT | Isscoffice.com Scam Exposed: The Truth About This Fake Crypto Platform | Editor | [Read More](https://medium.com/p/c4a7ee11f474) |
@@ -106,10 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 18:40:29 GMT | The Difference Between Malvertising and Adware | Ai Writter Tools | [Read More](https://medium.com/p/0a180b653010) |
 | Fri, 22 Aug 2025 18:38:41 GMT | My eJPT Exam Experience And Preparation 2025 | Pranav Patil | [Read More](https://medium.com/p/51fe27a5de79) |
 | Fri, 22 Aug 2025 18:35:02 GMT | Identifying Fake Online Stores | Ai Writter Tools | [Read More](https://medium.com/p/f4d4f760a5c1) |
-| Fri, 22 Aug 2025 18:28:12 GMT | CVE-2025–48432 - Django- Potansiyel Log Enjeksiyonu | Yunus Olçar | [Read More](https://medium.com/p/4379b2a83e05) |
-| Fri, 22 Aug 2025 18:25:36 GMT | Interdependence, Co-dependence, Independence: Finding the Balance | Words Between Worlds | [Read More](https://medium.com/p/5fc61cc4519a) |
-| Fri, 22 Aug 2025 18:24:07 GMT | Systems as Attack Vectors Writeup | Welsh | [Read More](https://medium.com/p/7cbeb0630cf4) |
-| Fri, 22 Aug 2025 18:23:33 GMT | Mobile Malware: A Look at the Threats on Android and iOS | Samina Perveen | [Read More](https://medium.com/p/c570379f04d8) |
-| Fri, 22 Aug 2025 18:21:30 GMT | How I Got Hacked: Lessons Every Professional Should Know | Cyberkech | [Read More](https://medium.com/p/c0dfadd49d4b) |
-| Fri, 22 Aug 2025 18:16:55 GMT | SQL Injection in Anthropic’s Postgres MCP Server: A Technical Vulnerability Case Study | Rajesh Mondal | [Read More](https://medium.com/p/2bd2ad4ce57d) |
-| Fri, 22 Aug 2025 18:15:45 GMT | Flash Loan Attacks: Breaking Solidity Smart Contracts | vishhxyz | [Read More](https://medium.com/p/14f2349f4b8f) |
