@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 05:19:13 GMT | Exploiting Time-Based Blind SQL Injection in Oracle | SHUBHAM SHRIKANT GUPTA | [Read More](https://medium.com/p/ac1c6614c268) |
+| Sat, 23 Aug 2025 05:12:43 GMT | Walkthrough: Solving picoCTF 2025 “Pachinko” Using Burp Suite Intruder | Soumyashree Sahoo | [Read More](https://medium.com/p/8bb0bdf1b664) |
 | Sat, 23 Aug 2025 05:10:17 GMT | An Ultimate Guide on Protecting Every Byte of Your Data | kai kon | [Read More](https://medium.com/p/d509fb86da05) |
 | Sat, 23 Aug 2025 04:54:02 GMT | How I Built My Own LastPass Clone in Python (with AES Encryption) | Neha ravi | [Read More](https://medium.com/p/fe87e1195d03) |
 | Sat, 23 Aug 2025 04:49:45 GMT | Zero-Trust Authenticaton: Stop trusting, Start verifying. | Darshit Anjaria | [Read More](https://medium.com/p/01e3823ead04) |
@@ -111,5 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 18:56:56 GMT | How Businesses Can Stay Safe While Incorporating AI in Their Workflow | Julius Kabugu | [Read More](https://medium.com/p/f5d53867fdb2) |
 | Fri, 22 Aug 2025 18:52:37 GMT | Ransomware Impact on Cyber Insurance Claims | Oleg Parashchak | [Read More](https://medium.com/p/724c2afe9601) |
 | Fri, 22 Aug 2025 18:49:44 GMT | What You Need to Know About Identity Threat Detection and Response | Ai Writter Tools | [Read More](https://medium.com/p/f6a23b06c08b) |
-| Fri, 22 Aug 2025 18:46:47 GMT | Why Your “Secure” Password Manager Isn’t Actually Secure | Debug Diaries | [Read More](https://medium.com/p/0492f5e81917) |
-| Fri, 22 Aug 2025 18:45:33 GMT | Seen | Mark Donelson | [Read More](https://medium.com/p/05daa2d2e2f9) |
