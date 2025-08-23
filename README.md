@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 11:03:30 GMT | From Burp to Bucket: How I Found 100,000+ Exposed Files? | Sle3pyHead ‍ | [Read More](https://medium.com/p/e39346d0d6b7) |
+| Sat, 23 Aug 2025 10:58:47 GMT | Portswigger CSRF where token validation depends on request method | Cybernerddd | [Read More](https://medium.com/p/1bbd4f859a0c) |
+| Sat, 23 Aug 2025 10:43:17 GMT | What Cybersecurity Books Don’t Tell You Until You Face a Real Attack | Shahzaib | [Read More](https://medium.com/p/80f8c58f4c25) |
+| Sat, 23 Aug 2025 10:41:58 GMT | Inside the Windows PE Format: A Complete Guide + TryHackMe Walkthrough | Furkanctiner | [Read More](https://medium.com/p/761b3f176979) |
+| Sat, 23 Aug 2025 10:37:10 GMT | Agentic AI Platform for Enterprise-Ikontel | Ashutosh Mallik | [Read More](https://medium.com/p/ca728a2a13be) |
+| Sat, 23 Aug 2025 10:33:30 GMT | Chapter 28 (Task Management System): Security Enhancements & Best Practices | Natarajan C K | [Read More](https://medium.com/p/1cc10bf964ba) |
 | Sat, 23 Aug 2025 10:32:32 GMT | Data Integrity: The Unseen Battle in UAE Data Centers | Tekmuzammil | [Read More](https://medium.com/p/aaeb9d1b0b7b) |
 | Sat, 23 Aug 2025 10:30:01 GMT | CVE-2025–53770 EXPLAINED: ToolShell RCE + Live SOC Analysis (Letsdefend SOC342) | Motasem Hamdan | [Read More](https://medium.com/p/552d2a243950) |
+| Sat, 23 Aug 2025 10:29:20 GMT | A Day in the life of a SOC Analyst | Mahantesh Katapur | [Read More](https://medium.com/p/58c1c1070717) |
 | Sat, 23 Aug 2025 10:26:14 GMT | Day 40- Understanding zero-trust security for beginners | unica 02 | [Read More](https://medium.com/p/c7e68ec802af) |
 | Sat, 23 Aug 2025 10:25:17 GMT | Threat Intel #1: The Cyber Kill Chain Explained | Norman Kolarikkal | [Read More](https://medium.com/p/837200e19360) |
 | Sat, 23 Aug 2025 10:22:49 GMT | The Digital Self: Navigating Identity and Authenticity in a World of Online Personas | vydhi | [Read More](https://medium.com/p/9f2af1ce39d6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 03:15:30 GMT | The Digital Doppelgänger: How Deepfakes are Warping Our Sense of Self and Sanity | Dave Sharma | [Read More](https://medium.com/p/72106777cbe2) |
 | Sat, 23 Aug 2025 03:12:11 GMT | just because i will always love doesn’t mean i should always be the one loving alone | hea | [Read More](https://medium.com/p/73abdf66e2b1) |
 | Sat, 23 Aug 2025 03:09:07 GMT | The Death of Passwords: What a Passwordless Future Means for Security and Privacy | Shivansh Midha | [Read More](https://medium.com/p/eed5ad5bc6c1) |
-| Sat, 23 Aug 2025 03:03:06 GMT | Why do compliments make you uncomfortable? | Ink of Poetry | [Read More](https://medium.com/p/045a3d653905) |
-| Sat, 23 Aug 2025 02:55:16 GMT | How Unchecked External Calls Can Break Your Smart Contract | vishhxyz | [Read More](https://medium.com/p/797e11899708) |
-| Sat, 23 Aug 2025 02:31:31 GMT | SQL Injection: Beyond Basics (Bug Bounty Hunter’s Guide) | sukhveer singh | [Read More](https://medium.com/p/5853d2d39b52) |
-| Sat, 23 Aug 2025 02:31:31 GMT | Unlimited Trials: Exploiting Email Alias Normalization in Redacted.com | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/c77cc24dc09d) |
-| Sat, 23 Aug 2025 01:57:31 GMT | The Growing Menace of Pharming and DNS Poisoning | Samina Perveen | [Read More](https://medium.com/p/2de07cd59b0e) |
-| Sat, 23 Aug 2025 01:54:51 GMT | The Flaw Inside Amazon’s Cloud Tool | The UNFILTERED Draft | [Read More](https://medium.com/p/de36f82ad5b8) |
-| Sat, 23 Aug 2025 01:09:22 GMT | Why I Never Allow Root SSH Logins on My Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/abf3bef9ca8a) |
