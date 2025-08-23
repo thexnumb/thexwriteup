@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 22:12:54 GMT | Why “Saving Costs” Shouldn’t Be Your Goal When Building IT Infrastructure | emmanuel udie | [Read More](https://medium.com/p/7f5ff50f4fcf) |
+| Sat, 23 Aug 2025 22:11:52 GMT | Demystifying AI in 2025: The Rise of Personalized and Responsible AI | Staytechscs | [Read More](https://medium.com/p/8f0c70bf90d2) |
+| Sat, 23 Aug 2025 22:11:40 GMT | A Hacker’s Journey: From Zero to Shell on DVWA — A Comprehensive Writeup | j1sec | [Read More](https://medium.com/p/4561d35fbf5f) |
+| Sat, 23 Aug 2025 22:09:48 GMT | How AI is Changing Everything in 2025: A Guide for Business Leaders | Staytechscs | [Read More](https://medium.com/p/9db4e0ac20d7) |
+| Sat, 23 Aug 2025 22:06:28 GMT | The Future of AI: What is Artificial General Intelligence and Why Does it Matter? | Staytechscs | [Read More](https://medium.com/p/07967b813ce2) |
+| Sat, 23 Aug 2025 22:06:02 GMT | Fractional Core: When Math Becomes Secret Code | Lev Goukassian | [Read More](https://medium.com/p/887fb51da60e) |
+| Sat, 23 Aug 2025 22:03:08 GMT | Cat Reloaded 2025 CTF - Innocent Note challenge | 0xStrawHat | [Read More](https://medium.com/p/ea458b48ce7d) |
+| Sat, 23 Aug 2025 21:44:28 GMT | eCPPTv3: Second Time’s the Charm | Mayank Garg | [Read More](https://medium.com/p/a7ceabc843d6) |
+| Sat, 23 Aug 2025 21:42:53 GMT | How I Found 5 Logic Flaws on One Main Domain | Ibtissam hammadi | [Read More](https://medium.com/p/a67a0ccd23c0) |
 | Sat, 23 Aug 2025 21:28:33 GMT | AI is Already Making Decisions for You: Do You Know Which Ones? | Njideka Johnson | [Read More](https://medium.com/p/0544ee74b442) |
 | Sat, 23 Aug 2025 21:27:41 GMT | My Search for Meaning Led to a System for Us. | Greg Reynolds | [Read More](https://medium.com/p/ccf90af9d7d4) |
 | Sat, 23 Aug 2025 21:27:37 GMT | P1 稽核報告/ P1 Audit Report/ Rapport d’audit P1 | BoLiang Lin | [Read More](https://medium.com/p/102648e0e0ea) |
+| Sat, 23 Aug 2025 21:27:21 GMT | Hack The Box: NeoVault Challenge Write-Up | Elvinasadov | [Read More](https://medium.com/p/fceb371807b4) |
 | Sat, 23 Aug 2025 21:22:12 GMT | The Magical Human Glass | Prix☆ | [Read More](https://medium.com/p/f6c9b39bd773) |
 | Sat, 23 Aug 2025 20:58:16 GMT | IBM Cybersecurity Analyst Professional Certificate | Franklin Rhodes | [Read More](https://medium.com/p/f86cacfeaf37) |
 | Sat, 23 Aug 2025 20:53:38 GMT | How to Deploy Wazuh Agent on Windows 11 Virtual Machine | Raynard Waits | [Read More](https://medium.com/p/f4ec762f7b4a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 15:15:36 GMT | How I Passed the CPTS Exam (After 3 Attempts) | Nikita Astashenko | [Read More](https://medium.com/p/cbd26d3dc0f8) |
 | Sat, 23 Aug 2025 15:09:20 GMT | The Anatomy of Malware: Unveiling the Secrets Behind Digital Threats | Orbe One | [Read More](https://medium.com/p/b284885e8c1e) |
 | Sat, 23 Aug 2025 15:09:12 GMT | A Selection of Cybersecurity Anti-Patterns | Petr Dusek | [Read More](https://medium.com/p/87db6eb1bf4c) |
-| Sat, 23 Aug 2025 15:04:16 GMT | Understanding Cyber Insurance & Silverfort’s Role in 2025 | Usmanshahbaz | [Read More](https://medium.com/p/b7b0935b1688) |
-| Sat, 23 Aug 2025 15:01:32 GMT | Cybersecurity: The Mindset of an Ethical Hacker | CapitalCoin | [Read More](https://medium.com/p/d3cafca613f6) |
-| Sat, 23 Aug 2025 14:57:23 GMT | From Reactive Defense to Proactive Security: Mastering AWS Vulnerability Management | Menelik | [Read More](https://medium.com/p/48c0cb93a948) |
-| Sat, 23 Aug 2025 14:55:06 GMT | Deepfake Attacks: A Growing Threat | EILEEN MARIA TOM 2447118 | [Read More](https://medium.com/p/1de0d0853a75) |
-| Sat, 23 Aug 2025 14:49:30 GMT | Top 7 Benefits of Installing a Smart Door Lock with Digital Keypad | Dmitriy Lyubarskiy | [Read More](https://medium.com/p/034512bedd93) |
-| Sat, 23 Aug 2025 14:45:25 GMT | Useful Recon Notes (Reconnaissance) | Dark | [Read More](https://medium.com/p/2c3765ec69f2) |
-| Sat, 23 Aug 2025 14:43:32 GMT | Zero Trust Cyber Security Implementation Guide: The Future of Organizational Protection | Paul Meyer | [Read More](https://medium.com/p/9fae59b55d3d) |
-| Sat, 23 Aug 2025 14:39:57 GMT | 7 Steps to Successful Offshore Software Development — TechColline Solutions | Techcolline Solutions | [Read More](https://medium.com/p/d971ca0153e6) |
-| Sat, 23 Aug 2025 14:37:33 GMT | 2025 Car Theft Wave in Karachi | Eifa Navaid | [Read More](https://medium.com/p/cebbfa66b2fd) |
-| Sat, 23 Aug 2025 14:37:31 GMT | 50 Databricks Interview Questions & Answers: The Ultimate Guide | Abhishek Kumar Gupta | [Read More](https://medium.com/p/2ccf8f25cde8) |
