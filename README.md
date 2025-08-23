@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 06:22:30 GMT | The Hidden Costs of a Data Breach: Why Investing in Cybersecurity Pays Off | Securseedmena | [Read More](https://medium.com/p/99747d353a3d) |
+| Sat, 23 Aug 2025 06:22:00 GMT | ⚠️ Did you know? | Aarav Infotech India Pvt. Ltd. | [Read More](https://medium.com/p/ec20cf9cac54) |
+| Sat, 23 Aug 2025 06:09:03 GMT | Tesseral | Ned Oleary | [Read More](https://medium.com/p/3589288c8b59) |
+| Sat, 23 Aug 2025 06:05:43 GMT | Secure Your Future with A2N Academy’s Cyber Security Online Course | Sureshnextwebi | [Read More](https://medium.com/p/eb4ac615b335) |
+| Sat, 23 Aug 2025 06:01:35 GMT | Why Your Employees Are Your Biggest Security Risk (And Asset) | Aj | [Read More](https://medium.com/p/7561050ac102) |
+| Sat, 23 Aug 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Aug 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d8055fc50f1c) |
+| Sat, 23 Aug 2025 05:43:05 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/cabb9ee423ad) |
+| Sat, 23 Aug 2025 05:42:41 GMT | Behind the Scenes of a Hacker’s Daily Routine | Aj | [Read More](https://medium.com/p/7ccab71a2d9b) |
 | Sat, 23 Aug 2025 05:19:13 GMT | Exploiting Time-Based Blind SQL Injection in Oracle | SHUBHAM SHRIKANT GUPTA | [Read More](https://medium.com/p/ac1c6614c268) |
 | Sat, 23 Aug 2025 05:12:43 GMT | Walkthrough: Solving picoCTF 2025 “Pachinko” Using Burp Suite Intruder | Soumyashree Sahoo | [Read More](https://medium.com/p/8bb0bdf1b664) |
 | Sat, 23 Aug 2025 05:10:17 GMT | An Ultimate Guide on Protecting Every Byte of Your Data | kai kon | [Read More](https://medium.com/p/d509fb86da05) |
@@ -105,11 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 19:19:01 GMT | CTI Diaries #5: Intelligence Requirements and Collection Management | Deniz Topaloglu | [Read More](https://medium.com/p/44ff275483d2) |
 | Fri, 22 Aug 2025 19:18:43 GMT | The Future of AI in Everyday Life: How Technology Will Shape Our Tomorrow | Vansh | [Read More](https://medium.com/p/181c6651f787) |
 | Fri, 22 Aug 2025 19:15:03 GMT | Intro to SSRF - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/7681ebbe5af3) |
-| Fri, 22 Aug 2025 19:15:03 GMT | Intro to SSRF - Tryhackme (TR) | Atakan Bitim | [Read More](https://medium.com/p/e2236b7b3608) |
-| Fri, 22 Aug 2025 19:14:53 GMT | From Lure to Shell: Reproducing APT37’s CHM Exploitation Tactics | Alok kumar | [Read More](https://medium.com/p/80d146b3c6cd) |
-| Fri, 22 Aug 2025 19:14:49 GMT | From Idea to Launch: Startup Tech Checklist | Breeze End Technology | [Read More](https://medium.com/p/7fdec6bc24fd) |
-| Fri, 22 Aug 2025 19:09:38 GMT | From Passwords to Trust: Why Trusted Devices Matter in Modern Security | Ahmed Elnazer | [Read More](https://medium.com/p/cb59d1529bda) |
-| Fri, 22 Aug 2025 19:05:15 GMT | Google’s Generative AI Leader Certification — Should SOC Analysts Bother? | NineTales | [Read More](https://medium.com/p/078333c40288) |
-| Fri, 22 Aug 2025 18:56:56 GMT | How Businesses Can Stay Safe While Incorporating AI in Their Workflow | Julius Kabugu | [Read More](https://medium.com/p/f5d53867fdb2) |
-| Fri, 22 Aug 2025 18:52:37 GMT | Ransomware Impact on Cyber Insurance Claims | Oleg Parashchak | [Read More](https://medium.com/p/724c2afe9601) |
-| Fri, 22 Aug 2025 18:49:44 GMT | What You Need to Know About Identity Threat Detection and Response | Ai Writter Tools | [Read More](https://medium.com/p/f6a23b06c08b) |
