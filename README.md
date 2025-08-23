@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 11:23:33 GMT | Secure Your APIs: 7 Critical Checks Devs Skip | R A N A   A H M A D | [Read More](https://medium.com/p/2faa205ad0fe) |
+| Sat, 23 Aug 2025 11:22:43 GMT | The Weirdest Social Media Scams Trending Right Now 2025 — Insider Tips | Tarush Sharma | [Read More](https://medium.com/p/40456a788437) |
+| Sat, 23 Aug 2025 11:22:28 GMT | My Honest Review of TryHackMe’s PT1 Exam | FireWolf | [Read More](https://medium.com/p/4e946bd9a0f3) |
+| Sat, 23 Aug 2025 11:22:04 GMT | Getting Started-HTB | Azer Abdullazde | [Read More](https://medium.com/p/23e9cf7b230c) |
+| Sat, 23 Aug 2025 11:20:36 GMT | TryHackMe - Enterprise | Adhamkhairy | [Read More](https://medium.com/p/279ba5a4d6a1) |
+| Sat, 23 Aug 2025 11:17:36 GMT | Reflected XSS into HTML context with all tags blocked except custom ones | Chirag Vyas | [Read More](https://medium.com/p/27b43d7196d8) |
+| Sat, 23 Aug 2025 11:16:00 GMT | Managed Vulnerability Scanning Services to Detect Problems Early and Protect the Business | Cyber Security Speed | [Read More](https://medium.com/p/4ac8b049b7b9) |
+| Sat, 23 Aug 2025 11:15:50 GMT | How Websites Know It’s You: The Role of IP, Cookies, and Sessions | Mahasri Seenivasan | [Read More](https://medium.com/p/1c64017fd3bd) |
+| Sat, 23 Aug 2025 11:14:45 GMT | Best Cyber Security Course in Delhi - IICSEH Training Institute | Iicseh | [Read More](https://medium.com/p/728ec68a8153) |
 | Sat, 23 Aug 2025 11:03:30 GMT | From Burp to Bucket: How I Found 100,000+ Exposed Files? | Sle3pyHead ‍ | [Read More](https://medium.com/p/e39346d0d6b7) |
 | Sat, 23 Aug 2025 10:58:47 GMT | Portswigger CSRF where token validation depends on request method | Cybernerddd | [Read More](https://medium.com/p/1bbd4f859a0c) |
 | Sat, 23 Aug 2025 10:43:17 GMT | What Cybersecurity Books Don’t Tell You Until You Face a Real Attack | Shahzaib | [Read More](https://medium.com/p/80f8c58f4c25) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 04:24:05 GMT | Dzalliance.info Scam Review: How I Recovered From a Fake AI Trading Platform | Editor | [Read More](https://medium.com/p/24a9dfcc89a7) |
 | Sat, 23 Aug 2025 04:20:33 GMT | Famoustransact.click Crypto Scam: A Fake AI Trading Service That Trapped Me | Editor | [Read More](https://medium.com/p/f96d9cfb3876) |
 | Sat, 23 Aug 2025 04:11:45 GMT | Dfaledx.com Crypto Scam: How I Nearly Lost Everything | Editor | [Read More](https://medium.com/p/7c67602a8614) |
-| Sat, 23 Aug 2025 04:08:56 GMT | Isscoffice.com Scam Exposed: The Truth About This Fake Crypto Platform | Editor | [Read More](https://medium.com/p/c4a7ee11f474) |
-| Sat, 23 Aug 2025 04:05:01 GMT | Wtocoin.com Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Editor | [Read More](https://medium.com/p/4047191ff217) |
-| Sat, 23 Aug 2025 03:51:29 GMT | Phishing in the AI Era: How Easy Is It to Steal Your Data | Gebin George | [Read More](https://medium.com/p/df724ad96134) |
-| Sat, 23 Aug 2025 03:44:40 GMT | FIDO2: Moving Beyond Passwords | Kamalmeet Singh | [Read More](https://medium.com/p/507c7722c4e4) |
-| Sat, 23 Aug 2025 03:31:33 GMT | How South African Airways Took Off Again After a Cyberattack | Deven Chhajed | [Read More](https://medium.com/p/10447371d312) |
-| Sat, 23 Aug 2025 03:29:33 GMT | Cyber Hygiene: Building Healthy Digital Habits | Sanith Vichattu | [Read More](https://medium.com/p/26841a449dc9) |
-| Sat, 23 Aug 2025 03:15:30 GMT | The Digital Doppelgänger: How Deepfakes are Warping Our Sense of Self and Sanity | Dave Sharma | [Read More](https://medium.com/p/72106777cbe2) |
-| Sat, 23 Aug 2025 03:12:11 GMT | just because i will always love doesn’t mean i should always be the one loving alone | hea | [Read More](https://medium.com/p/73abdf66e2b1) |
-| Sat, 23 Aug 2025 03:09:07 GMT | The Death of Passwords: What a Passwordless Future Means for Security and Privacy | Shivansh Midha | [Read More](https://medium.com/p/eed5ad5bc6c1) |
