@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 09:33:40 GMT | ScreenSpy: Monitoring Real-time Screen Remotely via Multi-Stage Python malware. | Cyb3rCr0wCC | [Read More](https://medium.com/p/c688b3286d57) |
+| Sat, 23 Aug 2025 09:25:12 GMT | Wrong Variable Name Leads To RCE - CVE-2025–52130 | TheHiker | [Read More](https://medium.com/p/8ff59a7d245c) |
+| Sat, 23 Aug 2025 09:24:01 GMT | Introducing GoSpray: Lightweight and Simple SSH Password Spraying Tool in Golang | Cyb3rCr0wCC | [Read More](https://medium.com/p/9571c54e4fb9) |
+| Sat, 23 Aug 2025 09:23:31 GMT | URLScan Dorking to find WordPress Registration Endpoint | AbhirupKonwar | [Read More](https://medium.com/p/f005884786d0) |
+| Sat, 23 Aug 2025 09:22:27 GMT | How Server Firewalls Protect You from Hidden Plugin Pitfalls | Swapnil S. | [Read More](https://medium.com/p/8eb890e8cf88) |
 | Sat, 23 Aug 2025 09:14:05 GMT | "The Secret Google Traffic Loophole: Get FREE Traffic in 5 Minutes!" | ProfitLab | [Read More](https://medium.com/p/ea479cfa5d3a) |
+| Sat, 23 Aug 2025 09:11:46 GMT | Building My Own Cloud Storage With End-to-End Encryption (Step-by-Step Setup) | IamPreth | [Read More](https://medium.com/p/563aecce6522) |
 | Sat, 23 Aug 2025 08:54:35 GMT | The FTP Server That Wouldn’t Stop Getting Attacked | Shahzaib | [Read More](https://medium.com/p/d70ada598bef) |
 | Sat, 23 Aug 2025 08:54:03 GMT | Security Shortcuts Even the Pros Forget to Double-Check | Dhruvdeep Singh | [Read More](https://medium.com/p/75c22a4830b3) |
 | Sat, 23 Aug 2025 08:50:11 GMT | Lenovo Webcames Turned in remote hacking tools | Sasha Kotova | [Read More](https://medium.com/p/38181d9ac83c) |
@@ -107,9 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 22:51:54 GMT | Regarding the Woman in the Mirror | Contagious Vulnerability | [Read More](https://medium.com/p/3ca0278c3c96) |
 | Fri, 22 Aug 2025 22:50:43 GMT | A hands-on introduction to the Linux command line: Part 4 — Network basics, automation &… | Ekene Ejike | [Read More](https://medium.com/p/3d466666d478) |
 | Fri, 22 Aug 2025 22:34:06 GMT | hi. I’m Zora. I got hacked! | Chime Chukwubuike Victory | [Read More](https://medium.com/p/1004c33cf39e) |
-| Fri, 22 Aug 2025 22:33:15 GMT | PG Practice — Law (Linux) | Lepton | [Read More](https://medium.com/p/cd17c09f6df7) |
-| Fri, 22 Aug 2025 22:33:00 GMT | PG Practice — Crane (Linux) | Lepton | [Read More](https://medium.com/p/dac7bfbeaec4) |
-| Fri, 22 Aug 2025 22:24:14 GMT | # Launching My Writing Journey: Kubernetes Security Alert – IngressNightmare | Dikshant Lather | [Read More](https://medium.com/p/adab9f22013f) |
-| Fri, 22 Aug 2025 22:17:30 GMT | Building an Automated Pentest Reporting Pipeline | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5d7809622fbf) |
-| Fri, 22 Aug 2025 21:55:10 GMT | 5 Critical Geopolitical Risks Impacting Cybersecurity in North America | Richard Frederick | [Read More](https://medium.com/p/30d8bd7de726) |
-| Fri, 22 Aug 2025 21:42:31 GMT | CCTV surveillance | Visual Monitoring Solutions | [Read More](https://medium.com/p/e14665f84b7d) |
