@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 21:28:33 GMT | AI is Already Making Decisions for You: Do You Know Which Ones? | Njideka Johnson | [Read More](https://medium.com/p/0544ee74b442) |
+| Sat, 23 Aug 2025 21:27:41 GMT | My Search for Meaning Led to a System for Us. | Greg Reynolds | [Read More](https://medium.com/p/ccf90af9d7d4) |
+| Sat, 23 Aug 2025 21:27:37 GMT | P1 稽核報告/ P1 Audit Report/ Rapport d’audit P1 | BoLiang Lin | [Read More](https://medium.com/p/102648e0e0ea) |
+| Sat, 23 Aug 2025 21:22:12 GMT | The Magical Human Glass | Prix☆ | [Read More](https://medium.com/p/f6c9b39bd773) |
 | Sat, 23 Aug 2025 20:58:16 GMT | IBM Cybersecurity Analyst Professional Certificate | Franklin Rhodes | [Read More](https://medium.com/p/f86cacfeaf37) |
 | Sat, 23 Aug 2025 20:53:38 GMT | How to Deploy Wazuh Agent on Windows 11 Virtual Machine | Raynard Waits | [Read More](https://medium.com/p/f4ec762f7b4a) |
 | Sat, 23 Aug 2025 20:51:31 GMT | iOS 18.6.2: The Surprise Update That Could Save Your iPhone From Hackers | Ravi | [Read More](https://medium.com/p/f2177cf24edc) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 14:39:57 GMT | 7 Steps to Successful Offshore Software Development — TechColline Solutions | Techcolline Solutions | [Read More](https://medium.com/p/d971ca0153e6) |
 | Sat, 23 Aug 2025 14:37:33 GMT | 2025 Car Theft Wave in Karachi | Eifa Navaid | [Read More](https://medium.com/p/cebbfa66b2fd) |
 | Sat, 23 Aug 2025 14:37:31 GMT | 50 Databricks Interview Questions & Answers: The Ultimate Guide | Abhishek Kumar Gupta | [Read More](https://medium.com/p/2ccf8f25cde8) |
-| Sat, 23 Aug 2025 14:18:59 GMT | The Same Traffic, Two Different Stories: A Clearer Look at NOC vs. SOC | Janith Sandamal | [Read More](https://medium.com/p/686a5df6d9cf) |
-| Sat, 23 Aug 2025 14:18:04 GMT | Android Application Penetration Testing — Part 1 (Setup & Basics) | Madhesh | [Read More](https://medium.com/p/045bc034afab) |
-| Sat, 23 Aug 2025 14:11:30 GMT | Critical Infrastructure at the Mercy of Telnet: OTT HydroMet Sutron Flood Monitoring Vulnerability | hacker_might | [Read More](https://medium.com/p/26b0d56167dd) |
-| Sat, 23 Aug 2025 14:10:11 GMT | DROSERA WEB3 PROJECT | Rebalrehan | [Read More](https://medium.com/p/af03a53890f0) |
