@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 15:15:40 GMT | In Cybersecurity and Life, Respect Means No Negotiations | Vijay Kumar Gupta | [Read More](https://medium.com/p/0802321719b3) |
+| Sat, 23 Aug 2025 15:15:36 GMT | How I Passed the CPTS Exam (After 3 Attempts) | Nikita Astashenko | [Read More](https://medium.com/p/cbd26d3dc0f8) |
+| Sat, 23 Aug 2025 15:09:20 GMT | The Anatomy of Malware: Unveiling the Secrets Behind Digital Threats | Orbe One | [Read More](https://medium.com/p/b284885e8c1e) |
+| Sat, 23 Aug 2025 15:09:12 GMT | A Selection of Cybersecurity Anti-Patterns | Petr Dusek | [Read More](https://medium.com/p/87db6eb1bf4c) |
+| Sat, 23 Aug 2025 15:04:16 GMT | Understanding Cyber Insurance & Silverfort’s Role in 2025 | Usmanshahbaz | [Read More](https://medium.com/p/b7b0935b1688) |
+| Sat, 23 Aug 2025 15:01:32 GMT | Cybersecurity: The Mindset of an Ethical Hacker | CapitalCoin | [Read More](https://medium.com/p/d3cafca613f6) |
+| Sat, 23 Aug 2025 14:57:23 GMT | From Reactive Defense to Proactive Security: Mastering AWS Vulnerability Management | Menelik | [Read More](https://medium.com/p/48c0cb93a948) |
+| Sat, 23 Aug 2025 14:55:06 GMT | Deepfake Attacks: A Growing Threat | EILEEN MARIA TOM 2447118 | [Read More](https://medium.com/p/1de0d0853a75) |
+| Sat, 23 Aug 2025 14:49:30 GMT | Top 7 Benefits of Installing a Smart Door Lock with Digital Keypad | Dmitriy Lyubarskiy | [Read More](https://medium.com/p/034512bedd93) |
+| Sat, 23 Aug 2025 14:45:25 GMT | Useful Recon Notes (Reconnaissance) | Dark | [Read More](https://medium.com/p/2c3765ec69f2) |
+| Sat, 23 Aug 2025 14:43:32 GMT | Zero Trust Cyber Security Implementation Guide: The Future of Organizational Protection | Paul Meyer | [Read More](https://medium.com/p/9fae59b55d3d) |
+| Sat, 23 Aug 2025 14:39:57 GMT | 7 Steps to Successful Offshore Software Development — TechColline Solutions | Techcolline Solutions | [Read More](https://medium.com/p/d971ca0153e6) |
+| Sat, 23 Aug 2025 14:37:33 GMT | 2025 Car Theft Wave in Karachi | Eifa Navaid | [Read More](https://medium.com/p/cebbfa66b2fd) |
+| Sat, 23 Aug 2025 14:37:31 GMT | 50 Databricks Interview Questions & Answers: The Ultimate Guide | Abhishek Kumar Gupta | [Read More](https://medium.com/p/2ccf8f25cde8) |
 | Sat, 23 Aug 2025 14:18:59 GMT | The Same Traffic, Two Different Stories: A Clearer Look at NOC vs. SOC | Janith Sandamal | [Read More](https://medium.com/p/686a5df6d9cf) |
 | Sat, 23 Aug 2025 14:18:04 GMT | Android Application Penetration Testing — Part 1 (Setup & Basics) | Madhesh | [Read More](https://medium.com/p/045bc034afab) |
 | Sat, 23 Aug 2025 14:11:30 GMT | Critical Infrastructure at the Mercy of Telnet: OTT HydroMet Sutron Flood Monitoring Vulnerability | hacker_might | [Read More](https://medium.com/p/26b0d56167dd) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 10:02:06 GMT | Cybersecurity Trends in 2025 — What You Must Know | Jenniwrites | [Read More](https://medium.com/p/60e3a5d8532a) |
 | Sat, 23 Aug 2025 10:02:00 GMT | Navigating the Internet of Things Landscape: Protecting Our Connected Future | Mitterand Events And Management Consultancy W.L.L | [Read More](https://medium.com/p/42aa746d64f5) |
 | Sat, 23 Aug 2025 09:56:42 GMT | Murky Panda’s Cloud Exploit-How Trust in SaaS Became a Breach Vector | Chetan Seripally | [Read More](https://medium.com/p/3149254550d8) |
-| Sat, 23 Aug 2025 09:53:34 GMT | Digital Security Careers That Pay the Highest Salaries | Dkvilas | [Read More](https://medium.com/p/60784163981b) |
-| Sat, 23 Aug 2025 09:48:11 GMT | Unpacking Agentic AI: The Four Pillars of Autonomous Intelligence | Bibhu Ashish Panda | [Read More](https://medium.com/p/926e36bad6cd) |
-| Sat, 23 Aug 2025 09:46:36 GMT | Top 10 Hacking Movies in 2025 | Manisha Chaudhary | [Read More](https://medium.com/p/a9b798c2e158) |
-| Sat, 23 Aug 2025 09:43:45 GMT | Hunting Suspicious Temp-Folder Outbound Network Connections with CrowdStrike NG-SIEM (Bulk IOC… | Pasindu Wanigaratne | [Read More](https://medium.com/p/80d7d1ac7409) |
-| Sat, 23 Aug 2025 09:39:21 GMT | Hunt for Bug Bounties: Top 10 Web Vulnerabilities | RafalW3bCraft | [Read More](https://medium.com/p/eb16b0a67fd2) |
-| Sat, 23 Aug 2025 09:38:07 GMT | “From C to Shellcode: Building a Position-Independent Reverse Shell ” | Cyb3rCr0wCC | [Read More](https://medium.com/p/db121f2b73d7) |
-| Sat, 23 Aug 2025 09:33:40 GMT | ScreenSpy: Monitoring Real-time Screen Remotely via Multi-Stage Python malware. | Cyb3rCr0wCC | [Read More](https://medium.com/p/c688b3286d57) |
-| Sat, 23 Aug 2025 09:25:12 GMT | Wrong Variable Name Leads To RCE - CVE-2025–52130 | TheHiker | [Read More](https://medium.com/p/8ff59a7d245c) |
-| Sat, 23 Aug 2025 09:24:01 GMT | Introducing GoSpray: Lightweight and Simple SSH Password Spraying Tool in Golang | Cyb3rCr0wCC | [Read More](https://medium.com/p/9571c54e4fb9) |
-| Sat, 23 Aug 2025 09:23:31 GMT | URLScan Dorking to find WordPress Registration Endpoint | AbhirupKonwar | [Read More](https://medium.com/p/f005884786d0) |
-| Sat, 23 Aug 2025 09:22:27 GMT | How Server Firewalls Protect You from Hidden Plugin Pitfalls | Swapnil S. | [Read More](https://medium.com/p/8eb890e8cf88) |
-| Sat, 23 Aug 2025 09:14:05 GMT | "The Secret Google Traffic Loophole: Get FREE Traffic in 5 Minutes!" | ProfitLab | [Read More](https://medium.com/p/ea479cfa5d3a) |
-| Sat, 23 Aug 2025 09:11:46 GMT | Building My Own Cloud Storage With End-to-End Encryption (Step-by-Step Setup) | IamPreth | [Read More](https://medium.com/p/563aecce6522) |
-| Sat, 23 Aug 2025 08:54:35 GMT | The FTP Server That Wouldn’t Stop Getting Attacked | Shahzaib | [Read More](https://medium.com/p/d70ada598bef) |
