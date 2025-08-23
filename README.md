@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 04:20:33 GMT | Famoustransact.click Crypto Scam: A Fake AI Trading Service That Trapped Me | Editor | [Read More](https://medium.com/p/f96d9cfb3876) |
+| Sat, 23 Aug 2025 04:11:45 GMT | Dfaledx.com Crypto Scam: How I Nearly Lost Everything | Editor | [Read More](https://medium.com/p/7c67602a8614) |
+| Sat, 23 Aug 2025 04:08:56 GMT | Isscoffice.com Scam Exposed: The Truth About This Fake Crypto Platform | Editor | [Read More](https://medium.com/p/c4a7ee11f474) |
+| Sat, 23 Aug 2025 04:05:01 GMT | Wtocoin.com Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Editor | [Read More](https://medium.com/p/4047191ff217) |
+| Sat, 23 Aug 2025 03:51:29 GMT | Phishing in the AI Era: How Easy Is It to Steal Your Data | Gebin George | [Read More](https://medium.com/p/df724ad96134) |
+| Sat, 23 Aug 2025 03:44:40 GMT | FIDO2: Moving Beyond Passwords | Kamalmeet Singh | [Read More](https://medium.com/p/507c7722c4e4) |
 | Sat, 23 Aug 2025 03:31:33 GMT | How South African Airways Took Off Again After a Cyberattack | Deven Chhajed | [Read More](https://medium.com/p/10447371d312) |
 | Sat, 23 Aug 2025 03:29:33 GMT | Cyber Hygiene: Building Healthy Digital Habits | Sanith Vichattu | [Read More](https://medium.com/p/26841a449dc9) |
 | Sat, 23 Aug 2025 03:15:30 GMT | The Digital Doppelgänger: How Deepfakes are Warping Our Sense of Self and Sanity | Dave Sharma | [Read More](https://medium.com/p/72106777cbe2) |
@@ -107,9 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 18:21:30 GMT | How I Got Hacked: Lessons Every Professional Should Know | Cyberkech | [Read More](https://medium.com/p/c0dfadd49d4b) |
 | Fri, 22 Aug 2025 18:16:55 GMT | SQL Injection in Anthropic’s Postgres MCP Server: A Technical Vulnerability Case Study | Rajesh Mondal | [Read More](https://medium.com/p/2bd2ad4ce57d) |
 | Fri, 22 Aug 2025 18:15:45 GMT | Flash Loan Attacks: Breaking Solidity Smart Contracts | vishhxyz | [Read More](https://medium.com/p/14f2349f4b8f) |
-| Fri, 22 Aug 2025 18:15:33 GMT | How Spy Apps for Monitoring Cell Phone Ensure the Safety of Your Loved Ones | Narjis Batool | [Read More](https://medium.com/p/6950560b1066) |
-| Fri, 22 Aug 2025 18:14:14 GMT | Subdomain Takeover: Beyond Basics (From a Bug Bounty Hunter’s Perspective) | sukhveer singh | [Read More](https://medium.com/p/8a7ec892ff14) |
-| Fri, 22 Aug 2025 18:03:45 GMT | A Critical Examination of Signal, Encryption, and Surveillance | Alvar Laigna | [Read More](https://medium.com/p/ffa4c03466ea) |
-| Fri, 22 Aug 2025 18:01:33 GMT | Beyond The Firewall: How Governments track your phone - Part 1 | Crashwire | [Read More](https://medium.com/p/9d89d4c6c97c) |
-| Fri, 22 Aug 2025 18:01:06 GMT | The Unseen War: Why the World’s Leading Companies Fortify Themselves with Whisec Solutions | whisec solutions | [Read More](https://medium.com/p/161031af068b) |
-| Fri, 22 Aug 2025 17:58:55 GMT | The New Battlefield: Defending Your Enterprise from High-End Security Threats | whisec solutions | [Read More](https://medium.com/p/4bffb3b392e8) |
