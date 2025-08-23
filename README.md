@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 14:18:59 GMT | The Same Traffic, Two Different Stories: A Clearer Look at NOC vs. SOC | Janith Sandamal | [Read More](https://medium.com/p/686a5df6d9cf) |
+| Sat, 23 Aug 2025 14:18:04 GMT | Android Application Penetration Testing — Part 1 (Setup & Basics) | Madhesh | [Read More](https://medium.com/p/045bc034afab) |
 | Sat, 23 Aug 2025 14:11:30 GMT | Critical Infrastructure at the Mercy of Telnet: OTT HydroMet Sutron Flood Monitoring Vulnerability | hacker_might | [Read More](https://medium.com/p/26b0d56167dd) |
+| Sat, 23 Aug 2025 14:10:11 GMT | DROSERA WEB3 PROJECT | Rebalrehan | [Read More](https://medium.com/p/af03a53890f0) |
 | Sat, 23 Aug 2025 14:09:06 GMT | ️ SOC228 Report — Phishing Mayhem in the Walls | Andrew Williams | [Read More](https://medium.com/p/eec6bd0eff1c) |
 | Sat, 23 Aug 2025 14:08:47 GMT | Get Notified when a Bug Bounty Target launches New Subdomains | Appsec.pt | [Read More](https://medium.com/p/368150388c39) |
 | Sat, 23 Aug 2025 14:06:53 GMT | Deepfakes, Trust, and How to Survive | Abdullah Topraksoy | [Read More](https://medium.com/p/334e86ea76d9) |
+| Sat, 23 Aug 2025 14:05:38 GMT | Top 5 Industries That Benefit Most from CCTV Live Monitoring | Nimra Sheikh | [Read More](https://medium.com/p/2e8e72dc62a1) |
+| Sat, 23 Aug 2025 14:05:15 GMT | Behind the Screens A Day in the Life of a Camera Monitoring Guard | Nimra Sheikh | [Read More](https://medium.com/p/875e907c3adb) |
+| Sat, 23 Aug 2025 14:04:58 GMT | Building Trust CCTV Monitoring That Enhances Workplace Safety | Nimra Sheikh | [Read More](https://medium.com/p/005f32c25990) |
 | Sat, 23 Aug 2025 14:04:21 GMT | The Free URL Scanner That Saves Me Hours (CyScan.io) | Nitin yadav | [Read More](https://medium.com/p/8909c26188e3) |
 | Sat, 23 Aug 2025 14:00:41 GMT | You Need To Learn Bash Scripting Now!!! | Mainekhacker | [Read More](https://medium.com/p/74183464aae7) |
 | Sat, 23 Aug 2025 13:58:40 GMT | The Game v2 — TryHackMe Writeups Complete Breakdown | pran0x | [Read More](https://medium.com/p/12669594f921) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 09:14:05 GMT | "The Secret Google Traffic Loophole: Get FREE Traffic in 5 Minutes!" | ProfitLab | [Read More](https://medium.com/p/ea479cfa5d3a) |
 | Sat, 23 Aug 2025 09:11:46 GMT | Building My Own Cloud Storage With End-to-End Encryption (Step-by-Step Setup) | IamPreth | [Read More](https://medium.com/p/563aecce6522) |
 | Sat, 23 Aug 2025 08:54:35 GMT | The FTP Server That Wouldn’t Stop Getting Attacked | Shahzaib | [Read More](https://medium.com/p/d70ada598bef) |
-| Sat, 23 Aug 2025 08:54:03 GMT | Security Shortcuts Even the Pros Forget to Double-Check | Dhruvdeep Singh | [Read More](https://medium.com/p/75c22a4830b3) |
-| Sat, 23 Aug 2025 08:50:11 GMT | Lenovo Webcames Turned in remote hacking tools | Sasha Kotova | [Read More](https://medium.com/p/38181d9ac83c) |
-| Sat, 23 Aug 2025 08:47:31 GMT | Would You Leave Your Servers Exposed Through… a Thermometer? | Evgeny Ermakov | [Read More](https://medium.com/p/2964e730be2a) |
-| Sat, 23 Aug 2025 08:44:41 GMT | ️ Fixyfier: The All-in-One Free PC Repair Toolkit for Windows | Taha Ex | [Read More](https://medium.com/p/5f029fb31d62) |
-| Sat, 23 Aug 2025 08:44:29 GMT | From Logs to Loot: How Debug Files Exposed User Sessions and Led Me to Jackpot | Iski | [Read More](https://medium.com/p/d06b8efe5ac9) |
-| Sat, 23 Aug 2025 08:38:44 GMT | Breaking a “Hardened” Jinja2 SSTI (CTF Write-Up) | Sarah Siddiqui | [Read More](https://medium.com/p/d2104af8cae4) |
