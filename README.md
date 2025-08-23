@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 19:07:13 GMT | Lure, Mislead, Learn: The Rise of Cyber Deception | Richard Dosumu | [Read More](https://medium.com/p/4eed233399ec) |
+| Sat, 23 Aug 2025 19:02:35 GMT | CAT CTF 2025 Web Walkthrough [Part1] | Sayed | [Read More](https://medium.com/p/372be023d48c) |
+| Sat, 23 Aug 2025 19:01:09 GMT | “My Interview Wake-Up Call: The Python Traps You Don’t See Until an Interview Exposes Them” | Nitin Jha | [Read More](https://medium.com/p/6406fad2ef60) |
+| Sat, 23 Aug 2025 18:57:30 GMT | The Rise of PAI3 Nodes: Powering the Future of Decentralised AI | Mestar | [Read More](https://medium.com/p/fa83bbbed780) |
+| Sat, 23 Aug 2025 18:53:11 GMT | Shellshock: The Bash Bug That Shook the Internet | Het Patel | [Read More](https://medium.com/p/4adbea238bad) |
+| Sat, 23 Aug 2025 18:47:09 GMT | Testing out PowerShell commands for the binding info of a network adapter, logged in users, and… | Tyrik Emptage | [Read More](https://medium.com/p/09e6723d794a) |
 | Sat, 23 Aug 2025 18:46:22 GMT | The Importance of Laravel Fortify in Modern Web Applications | Arthur Vinícius | [Read More](https://medium.com/p/e720093038e8) |
+| Sat, 23 Aug 2025 18:43:07 GMT | What Is Block Chain? | Viraj Gawas | [Read More](https://medium.com/p/f1c48070a85a) |
 | Sat, 23 Aug 2025 18:33:00 GMT | The Invisible War: How Hackers Target the World’s Biggest Events | Kaotip Tan (KT) | [Read More](https://medium.com/p/7ee6dc2365d5) |
 | Sat, 23 Aug 2025 18:22:19 GMT | Tea App Data Breach: Cybersecurity Lessons and Privacy Insights | Kudzai Kangwende | [Read More](https://medium.com/p/1dadda8ceee2) |
 | Sat, 23 Aug 2025 18:18:53 GMT | A Smarter Lock for a Smarter World: The Mobile-First Revolution in Access Control | Damian Griggs | [Read More](https://medium.com/p/c1178631c832) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 12:56:06 GMT | Cookies Explained Simply | Tslnreddy | [Read More](https://medium.com/p/ea6212c6fde4) |
 | Sat, 23 Aug 2025 12:55:50 GMT | 20 Technology Facts That Will Blow Your Mind | FactSphereMedia | [Read More](https://medium.com/p/ca6d931e63f4) |
 | Sat, 23 Aug 2025 12:54:36 GMT | Biases: The Framing Trap: Why a Brilliant Answer to the Wrong Question is Still Wrong | noailabs | [Read More](https://medium.com/p/c12d699a6de7) |
-| Sat, 23 Aug 2025 12:53:32 GMT | SOC Analysts at Cybernous: Safeguarding Businesses in the Digital Age | Cybernous Infosec consulting | [Read More](https://medium.com/p/cf795bd1b136) |
-| Sat, 23 Aug 2025 12:51:49 GMT | Mini SOC Home Lab V2 | Hazem Ahmed | [Read More](https://medium.com/p/9fb621a3b05e) |
-| Sat, 23 Aug 2025 12:49:51 GMT | CATCTF 2025 Web Challenge BattleMe Revenge | Karim Mohamed | [Read More](https://medium.com/p/071042a5868f) |
-| Sat, 23 Aug 2025 12:41:30 GMT | CEO of Your Career | Zipporahthomas | [Read More](https://medium.com/p/05af8bd728c2) |
-| Sat, 23 Aug 2025 12:41:03 GMT | Bounty Hacker: TryHackMe WriteUp | Bridget | [Read More](https://medium.com/p/2e713cd0cd01) |
-| Sat, 23 Aug 2025 12:34:15 GMT | A Test Case: Gemini 2.5 | Berend Watchus | [Read More](https://medium.com/p/957af5fd2660) |
-| Sat, 23 Aug 2025 12:31:51 GMT | Hiding Download Button in Snowsight: A Step-by-Step Guide | Eric Heilman | [Read More](https://medium.com/p/decb2c1e7804) |
