@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 08:38:44 GMT | Breaking a “Hardened” Jinja2 SSTI (CTF Write-Up) | Sarah Siddiqui | [Read More](https://medium.com/p/d2104af8cae4) |
+| Sat, 23 Aug 2025 08:33:57 GMT | TryHackMe Bounty Hacker Walkthrough: Beginner-Friendly CTF for Enumeration & Privilege Escalation | Aryan Tiwari | [Read More](https://medium.com/p/c8a82ff174f0) |
+| Sat, 23 Aug 2025 08:30:48 GMT | Intro to Netcat: Your Ultimate Guide to `nc` & `ncat` | Nighty-Sky | [Read More](https://medium.com/p/b988dfd11826) |
+| Sat, 23 Aug 2025 08:26:11 GMT | The Complete Guide to Spy Apps for Online Security | Narjis Batool | [Read More](https://medium.com/p/353886fdd105) |
 | Sat, 23 Aug 2025 08:18:13 GMT | What exactly is a zero-day vulnerability, and why are they so critical in cybersecurity? | Likhoindustry | [Read More](https://medium.com/p/9b1346a005ca) |
 | Sat, 23 Aug 2025 08:15:50 GMT | Python Beyond the Basics: 10 Advanced Patterns That Changed How I Write Code | Babar saad | [Read More](https://medium.com/p/8e613b8546b5) |
 | Sat, 23 Aug 2025 08:13:05 GMT | Phishing-as-a-Service (PhaaS): The Subscription Model of Cybercrime | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/5cc834ed7cd9) |
@@ -109,7 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 21:29:14 GMT | The Rising Cost of Cybercrime and What It Means for Businesses | Akshay Chauhan | [Read More](https://medium.com/p/13479af20cdc) |
 | Fri, 22 Aug 2025 21:07:42 GMT | Beyond PCI and HIPAA: How Feroot Powers Gramm–Leach–Bliley Act (GLBA) Compliance | Feroot Security | [Read More](https://medium.com/p/d9a2b109a4a6) |
 | Fri, 22 Aug 2025 21:03:31 GMT | Portswigger HTTP Host Header Attacks Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/f773ffad923d) |
-| Fri, 22 Aug 2025 20:54:44 GMT | Network Security: Protecting the Highways of the Digital World | Akshay Chauhan | [Read More](https://medium.com/p/e0c8538e3b27) |
-| Fri, 22 Aug 2025 20:52:05 GMT | What is NTFS File System in Windows? | amol pawar | [Read More](https://medium.com/p/00155ac1006b) |
-| Fri, 22 Aug 2025 20:43:30 GMT | Portswigger Business logic vulnerabilities Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/b233d942e574) |
-| Fri, 22 Aug 2025 20:43:30 GMT | Reducing False Positives and Model Optimization in Machine Learning-Based UEBA Systems | Esra Kayhan | [Read More](https://medium.com/p/1c1f09b673eb) |
