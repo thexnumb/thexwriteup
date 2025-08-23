@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 12:28:45 GMT | Eternal Blue (ms17–010) — Full Walkthrough | Vaibhav | [Read More](https://medium.com/p/cff74caaade5) |
+| Sat, 23 Aug 2025 12:27:47 GMT | CraxsRat 最新版本 7.7 下载链接 2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/e502da6de149) |
+| Sat, 23 Aug 2025 12:27:31 GMT | Security Starts with Gratitude, Not Control | Evgeny Ermakov | [Read More](https://medium.com/p/9e36afb18914) |
+| Sat, 23 Aug 2025 12:24:59 GMT | DockerLabs Writeup — Report (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0a8decca300d) |
+| Sat, 23 Aug 2025 12:21:44 GMT | OWASP IoT Top 10: Why the Basics Still Matter in Securing Smart Devices | CyberNovica | [Read More](https://medium.com/p/90d6fca9c510) |
+| Sat, 23 Aug 2025 12:19:21 GMT | DELTA I | Elias | [Read More](https://medium.com/p/480427b8a898) |
+| Sat, 23 Aug 2025 12:19:08 GMT | AI-Powered Cyberattacks: The Dark Side of Artificial Intelligence in 2025 | Amit solanki | [Read More](https://medium.com/p/27caf988792f) |
+| Sat, 23 Aug 2025 12:15:51 GMT | How to Build a Vulnerable API Lab | Israel Aráoz Severiche | [Read More](https://medium.com/p/389363f5bab7) |
+| Sat, 23 Aug 2025 12:11:33 GMT | App to Manage Passwords: Best Tools to Keep Your Online Life Secure | Timónofearth | [Read More](https://medium.com/p/872796cad73d) |
+| Sat, 23 Aug 2025 12:09:23 GMT | Zero-Day Defense Tricks Every PHP App Should Use in 2025 | Asian Digital Hub | [Read More](https://medium.com/p/c8297d9097c6) |
+| Sat, 23 Aug 2025 12:08:38 GMT | How to Secure Linux Distributions : Practical, Step‑by‑Step Notes | Aswincp | [Read More](https://medium.com/p/a418128d182f) |
+| Sat, 23 Aug 2025 12:01:06 GMT | Welcome to the Zero-Day Market | Shubhamkhatang | [Read More](https://medium.com/p/ebe901e4c9c8) |
+| Sat, 23 Aug 2025 11:57:17 GMT | CATCTF 2025 Web Challenge Admin Panel | Karim Mohamed | [Read More](https://medium.com/p/4f889c7792c5) |
+| Sat, 23 Aug 2025 11:52:09 GMT | ️ The Case of the Hidden Endpoint: How Enumeration Unlocked a Tricky Vulnerability | Aftab Raja | [Read More](https://medium.com/p/4f8fd9e18b0d) |
+| Sat, 23 Aug 2025 11:49:14 GMT | walktrough in lazy_admin in tryhackme | MouhibMahadbi | [Read More](https://medium.com/p/b2bd844d0d8c) |
+| Sat, 23 Aug 2025 11:43:38 GMT | So, who is related to whom? | Nonjabulo Matomela | [Read More](https://medium.com/p/495cc7b0bb0f) |
+| Sat, 23 Aug 2025 11:39:12 GMT | Leading Benefits of Hiring a Security Guard Los Angeles | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/a70671e0f46d) |
 | Sat, 23 Aug 2025 11:23:33 GMT | Secure Your APIs: 7 Critical Checks Devs Skip | R A N A   A H M A D | [Read More](https://medium.com/p/2faa205ad0fe) |
 | Sat, 23 Aug 2025 11:22:43 GMT | The Weirdest Social Media Scams Trending Right Now 2025 — Insider Tips | Tarush Sharma | [Read More](https://medium.com/p/40456a788437) |
 | Sat, 23 Aug 2025 11:22:28 GMT | My Honest Review of TryHackMe’s PT1 Exam | FireWolf | [Read More](https://medium.com/p/4e946bd9a0f3) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 06:05:43 GMT | Secure Your Future with A2N Academy’s Cyber Security Online Course | Sureshnextwebi | [Read More](https://medium.com/p/eb4ac615b335) |
 | Sat, 23 Aug 2025 06:01:35 GMT | Why Your Employees Are Your Biggest Security Risk (And Asset) | Aj | [Read More](https://medium.com/p/7561050ac102) |
 | Sat, 23 Aug 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Aug 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d8055fc50f1c) |
-| Sat, 23 Aug 2025 05:43:05 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/cabb9ee423ad) |
-| Sat, 23 Aug 2025 05:42:41 GMT | Behind the Scenes of a Hacker’s Daily Routine | Aj | [Read More](https://medium.com/p/7ccab71a2d9b) |
-| Sat, 23 Aug 2025 05:19:13 GMT | Exploiting Time-Based Blind SQL Injection in Oracle | SHUBHAM SHRIKANT GUPTA | [Read More](https://medium.com/p/ac1c6614c268) |
-| Sat, 23 Aug 2025 05:12:43 GMT | Walkthrough: Solving picoCTF 2025 “Pachinko” Using Burp Suite Intruder | Soumyashree Sahoo | [Read More](https://medium.com/p/8bb0bdf1b664) |
-| Sat, 23 Aug 2025 05:10:17 GMT | An Ultimate Guide on Protecting Every Byte of Your Data | kai kon | [Read More](https://medium.com/p/d509fb86da05) |
-| Sat, 23 Aug 2025 04:54:02 GMT | How I Built My Own LastPass Clone in Python (with AES Encryption) | Neha ravi | [Read More](https://medium.com/p/fe87e1195d03) |
-| Sat, 23 Aug 2025 04:49:45 GMT | Zero-Trust Authenticaton: Stop trusting, Start verifying. | Darshit Anjaria | [Read More](https://medium.com/p/01e3823ead04) |
-| Sat, 23 Aug 2025 04:47:30 GMT | 12. Testing in Flutter: A Comprehensive Guide | Radhey Shyam Jat | [Read More](https://medium.com/p/6c30f06c823b) |
-| Sat, 23 Aug 2025 04:42:17 GMT | Why 89% of Startups Are Ditching AWS for This $5/Month Alternative | Rizqi Mulki | [Read More](https://medium.com/p/262db11a86b5) |
-| Sat, 23 Aug 2025 04:36:46 GMT | Why Security Should Come Before Performance | Rizqi Mulki | [Read More](https://medium.com/p/930286118b00) |
-| Sat, 23 Aug 2025 04:33:18 GMT | The Rise of Predictive Cyber Threat Intelligence: From Reactive Defense to Preemptive Strike | Dr. Deep Pandey | [Read More](https://medium.com/p/e878d8c1ccbe) |
-| Sat, 23 Aug 2025 04:32:41 GMT | This One Line in JavaScript Could Be a Security Disaster | Amit Kumar | [Read More](https://medium.com/p/49026760413f) |
-| Sat, 23 Aug 2025 04:32:24 GMT | What Most Devs Get Wrong About Database Performance | Rizqi Mulki | [Read More](https://medium.com/p/cadb80092bb1) |
-| Sat, 23 Aug 2025 04:26:36 GMT | Dws-holdings.com Crypto Scam: How I Got Trapped and Managed to Recover Funds | Editor | [Read More](https://medium.com/p/9581ca5ed1c5) |
-| Sat, 23 Aug 2025 04:24:05 GMT | Dzalliance.info Scam Review: How I Recovered From a Fake AI Trading Platform | Editor | [Read More](https://medium.com/p/24a9dfcc89a7) |
-| Sat, 23 Aug 2025 04:20:33 GMT | Famoustransact.click Crypto Scam: A Fake AI Trading Service That Trapped Me | Editor | [Read More](https://medium.com/p/f96d9cfb3876) |
-| Sat, 23 Aug 2025 04:11:45 GMT | Dfaledx.com Crypto Scam: How I Nearly Lost Everything | Editor | [Read More](https://medium.com/p/7c67602a8614) |
