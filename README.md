@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 06:46:08 GMT | ELF Internals : Deep Dive | Kris3c | [Read More](https://medium.com/p/6a03cecf34ce) |
+| Sat, 23 Aug 2025 06:34:45 GMT | “Privacy Risks of Smart Devices: What Your IoT Gadgets Reveal About You” | Vidushhi Panda | [Read More](https://medium.com/p/ee18f5de4f00) |
+| Sat, 23 Aug 2025 06:31:57 GMT | FortiClient Unified Endpoint Agent: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/bee987a91f04) |
+| Sat, 23 Aug 2025 06:23:10 GMT | A New BA’s Journey: Understanding the As-Is System | Ritu Sitlani | [Read More](https://medium.com/p/9be75224adf3) |
 | Sat, 23 Aug 2025 06:22:30 GMT | The Hidden Costs of a Data Breach: Why Investing in Cybersecurity Pays Off | Securseedmena | [Read More](https://medium.com/p/99747d353a3d) |
 | Sat, 23 Aug 2025 06:22:00 GMT | ⚠️ Did you know? | Aarav Infotech India Pvt. Ltd. | [Read More](https://medium.com/p/ec20cf9cac54) |
 | Sat, 23 Aug 2025 06:09:03 GMT | Tesseral | Ned Oleary | [Read More](https://medium.com/p/3589288c8b59) |
@@ -109,7 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 19:43:12 GMT | What SMBs Can Learn from the Ingram Micro Ransomware Breach — And Why Fully Managed XDR from… | Julian M | [Read More](https://medium.com/p/08ebf570e977) |
 | Fri, 22 Aug 2025 19:41:32 GMT | Portswigger Authentication Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/9b7201dca347) |
 | Fri, 22 Aug 2025 19:37:32 GMT | picoCTF: Cookie Monster Secret Recipe | Ross Andrews | [Read More](https://medium.com/p/66f8b199502f) |
-| Fri, 22 Aug 2025 19:25:09 GMT | Cybersecurity Fundamentals: A Comprehensive Guide to Network Security, Protocols, and Essential… | Muhammad Haseeb | [Read More](https://medium.com/p/579ac7d0b344) |
-| Fri, 22 Aug 2025 19:19:01 GMT | CTI Diaries #5: Intelligence Requirements and Collection Management | Deniz Topaloglu | [Read More](https://medium.com/p/44ff275483d2) |
-| Fri, 22 Aug 2025 19:18:43 GMT | The Future of AI in Everyday Life: How Technology Will Shape Our Tomorrow | Vansh | [Read More](https://medium.com/p/181c6651f787) |
-| Fri, 22 Aug 2025 19:15:03 GMT | Intro to SSRF - Tryhackme (EN) | Atakan Bitim | [Read More](https://medium.com/p/7681ebbe5af3) |
