@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 15:25:38 GMT | CAT Reloaded CTF -CATF 2025-write up | Nayzak | [Read More](https://medium.com/p/7f05086d233b) |
+| Sat, 23 Aug 2025 15:25:36 GMT | Vibe Coding Efficiency, Part One: Glyph’s Futzing Fraction | Dan Glass | [Read More](https://medium.com/p/e012f3b51e0b) |
+| Sat, 23 Aug 2025 15:18:35 GMT | Phishing Attacks: The Most Persistent Cybersecurity Threat and How to Defend Against Them | SNEHA M 2447154 | [Read More](https://medium.com/p/8f55fd8ee901) |
 | Sat, 23 Aug 2025 15:15:40 GMT | In Cybersecurity and Life, Respect Means No Negotiations | Vijay Kumar Gupta | [Read More](https://medium.com/p/0802321719b3) |
 | Sat, 23 Aug 2025 15:15:36 GMT | How I Passed the CPTS Exam (After 3 Attempts) | Nikita Astashenko | [Read More](https://medium.com/p/cbd26d3dc0f8) |
 | Sat, 23 Aug 2025 15:09:20 GMT | The Anatomy of Malware: Unveiling the Secrets Behind Digital Threats | Orbe One | [Read More](https://medium.com/p/b284885e8c1e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 10:06:53 GMT | APT36 Exploits Linux Desktop Files for Stealthy Malware Attacks | Chetan Seripally | [Read More](https://medium.com/p/28889c5f85f7) |
 | Sat, 23 Aug 2025 10:06:17 GMT | Securing Critical Infrastructure in MENA: Raed Ahsan Moderates Panel at OTSEC MENA 2025 | Raed Ahsan | [Read More](https://medium.com/p/91075266cd6a) |
 | Sat, 23 Aug 2025 10:03:34 GMT | When Your Shoulder to Cry On Wants to F*ck You | Lacie Lou | [Read More](https://medium.com/p/28ddf3c37503) |
-| Sat, 23 Aug 2025 10:02:06 GMT | Cybersecurity Trends in 2025 — What You Must Know | Jenniwrites | [Read More](https://medium.com/p/60e3a5d8532a) |
-| Sat, 23 Aug 2025 10:02:00 GMT | Navigating the Internet of Things Landscape: Protecting Our Connected Future | Mitterand Events And Management Consultancy W.L.L | [Read More](https://medium.com/p/42aa746d64f5) |
-| Sat, 23 Aug 2025 09:56:42 GMT | Murky Panda’s Cloud Exploit-How Trust in SaaS Became a Breach Vector | Chetan Seripally | [Read More](https://medium.com/p/3149254550d8) |
