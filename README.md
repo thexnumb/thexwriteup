@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 23:03:46 GMT | From Principle to Pattern: Zero Trust for Agentic AI on Azure | Arsh Riz | [Read More](https://medium.com/p/25dd711b01b2) |
+| Sat, 23 Aug 2025 23:03:24 GMT | Why Every Small Business Needs Cybersecurity Policies (Even If You Think You Don’t) | Chris Black | [Read More](https://medium.com/p/ce04c1a06191) |
+| Sat, 23 Aug 2025 22:29:45 GMT | Lab Walkthrough: DOM XSS via document.write & location.search | Juweyriya | [Read More](https://medium.com/p/dd4b1d2cc351) |
 | Sat, 23 Aug 2025 22:23:27 GMT | Lab Walkthrough: Stored XSS in HTML (No Encoding, Yikes) | Juweyriya | [Read More](https://medium.com/p/764ed0df6556) |
 | Sat, 23 Aug 2025 22:17:23 GMT | Lab Walkthrough: Reflected XSS Into HTML (No Encoding, EZ Mode) | Juweyriya | [Read More](https://medium.com/p/50b384fc8a79) |
 | Sat, 23 Aug 2025 22:12:54 GMT | Why “Saving Costs” Shouldn’t Be Your Goal When Building IT Infrastructure | emmanuel udie | [Read More](https://medium.com/p/7f5ff50f4fcf) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 15:38:45 GMT | (CVE-2025–52970) Authentication Bypass in FortiWeb ”POC” | HariHaranK | [Read More](https://medium.com/p/04d7abd0c5f9) |
 | Sat, 23 Aug 2025 15:25:38 GMT | CAT Reloaded CTF -CATF 2025-write up | Nayzak | [Read More](https://medium.com/p/7f05086d233b) |
 | Sat, 23 Aug 2025 15:25:36 GMT | Vibe Coding Efficiency, Part One: Glyph’s Futzing Fraction | Dan Glass | [Read More](https://medium.com/p/e012f3b51e0b) |
-| Sat, 23 Aug 2025 15:18:35 GMT | Phishing Attacks: The Most Persistent Cybersecurity Threat and How to Defend Against Them | SNEHA M 2447154 | [Read More](https://medium.com/p/8f55fd8ee901) |
-| Sat, 23 Aug 2025 15:15:40 GMT | In Cybersecurity and Life, Respect Means No Negotiations | Vijay Kumar Gupta | [Read More](https://medium.com/p/0802321719b3) |
-| Sat, 23 Aug 2025 15:15:36 GMT | How I Passed the CPTS Exam (After 3 Attempts) | Nikita Astashenko | [Read More](https://medium.com/p/cbd26d3dc0f8) |
