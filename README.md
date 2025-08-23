@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 20:58:16 GMT | IBM Cybersecurity Analyst Professional Certificate | Franklin Rhodes | [Read More](https://medium.com/p/f86cacfeaf37) |
+| Sat, 23 Aug 2025 20:53:38 GMT | How to Deploy Wazuh Agent on Windows 11 Virtual Machine | Raynard Waits | [Read More](https://medium.com/p/f4ec762f7b4a) |
+| Sat, 23 Aug 2025 20:51:31 GMT | iOS 18.6.2: The Surprise Update That Could Save Your iPhone From Hackers | Ravi | [Read More](https://medium.com/p/f2177cf24edc) |
+| Sat, 23 Aug 2025 20:41:31 GMT | UEBA Integrations: Advanced Threat Hunting with SIEM and SOAR Platforms | Esra Kayhan | [Read More](https://medium.com/p/3bc2238c1ab1) |
+| Sat, 23 Aug 2025 20:41:00 GMT | How to Watch US Netflix Anywhere in 2025 [Step-by-Step Guide] | Bagosi Csaba | [Read More](https://medium.com/p/fe755b216875) |
+| Sat, 23 Aug 2025 20:38:11 GMT | I’m sorry – for feeling. | Brian Can Help! | [Read More](https://medium.com/p/3f94a14ef881) |
 | Sat, 23 Aug 2025 20:36:46 GMT | How I Used Python to Automate OSINT Investigations | Aj | [Read More](https://medium.com/p/b78a16750b3b) |
 | Sat, 23 Aug 2025 20:35:08 GMT | Kuban CTF 2025- “Opening the Jar” Write-Up | Tasneem Zeidan | [Read More](https://medium.com/p/4ea636582a69) |
 | Sat, 23 Aug 2025 20:34:41 GMT | $300 Bounty: CSRF Vulnerability in Evernote | Monika sharma | [Read More](https://medium.com/p/c5e6dd85657a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 14:18:04 GMT | Android Application Penetration Testing — Part 1 (Setup & Basics) | Madhesh | [Read More](https://medium.com/p/045bc034afab) |
 | Sat, 23 Aug 2025 14:11:30 GMT | Critical Infrastructure at the Mercy of Telnet: OTT HydroMet Sutron Flood Monitoring Vulnerability | hacker_might | [Read More](https://medium.com/p/26b0d56167dd) |
 | Sat, 23 Aug 2025 14:10:11 GMT | DROSERA WEB3 PROJECT | Rebalrehan | [Read More](https://medium.com/p/af03a53890f0) |
-| Sat, 23 Aug 2025 14:09:06 GMT | ️ SOC228 Report — Phishing Mayhem in the Walls | Andrew Williams | [Read More](https://medium.com/p/eec6bd0eff1c) |
-| Sat, 23 Aug 2025 14:08:47 GMT | Get Notified when a Bug Bounty Target launches New Subdomains | Appsec.pt | [Read More](https://medium.com/p/368150388c39) |
-| Sat, 23 Aug 2025 14:06:53 GMT | Deepfakes, Trust, and How to Survive | Abdullah Topraksoy | [Read More](https://medium.com/p/334e86ea76d9) |
-| Sat, 23 Aug 2025 14:05:38 GMT | Top 5 Industries That Benefit Most from CCTV Live Monitoring | Nimra Sheikh | [Read More](https://medium.com/p/2e8e72dc62a1) |
-| Sat, 23 Aug 2025 14:05:15 GMT | Behind the Screens A Day in the Life of a Camera Monitoring Guard | Nimra Sheikh | [Read More](https://medium.com/p/875e907c3adb) |
-| Sat, 23 Aug 2025 14:04:58 GMT | Building Trust CCTV Monitoring That Enhances Workplace Safety | Nimra Sheikh | [Read More](https://medium.com/p/005f32c25990) |
