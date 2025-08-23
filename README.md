@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 17:30:42 GMT | Proving Grounds: Gaining Root on Crane | Mihail Pana | [Read More](https://medium.com/p/463612903c65) |
+| Sat, 23 Aug 2025 17:29:16 GMT | My Journey into Cybersecurity (Part 2): Exploring Cyberspace and Network Communication Systems | Lavanyara | [Read More](https://medium.com/p/32d6f6891691) |
+| Sat, 23 Aug 2025 17:24:39 GMT | Enhancing Cybersecurity with All-In-One Security (AIOS) -Security and Firewall | Enayetur Rahman | [Read More](https://medium.com/p/6541ab649a85) |
+| Sat, 23 Aug 2025 17:24:38 GMT | Free Isn’t Free: The Hidden Price of “Free” Downloads | Jasbir Singh | [Read More](https://medium.com/p/979621eedbda) |
+| Sat, 23 Aug 2025 17:22:29 GMT | Day 54 — Conquering OverTheWire Bandit Wargames | Jinay | [Read More](https://medium.com/p/eb9b3dbf2624) |
+| Sat, 23 Aug 2025 17:17:34 GMT | “Day 19: The Serialization Trap — When Data Becomes Code” | Aman Sharma | [Read More](https://medium.com/p/04d73ea2c7f7) |
+| Sat, 23 Aug 2025 17:17:11 GMT | Understanding Clickjacking: The Invisible UI Attack | Abhishek Bhujang | [Read More](https://medium.com/p/4cde7979c59f) |
+| Sat, 23 Aug 2025 17:14:38 GMT | The Digital India Dilemma: Balancing Innovation and Privacy | Parshuram Vasamani | [Read More](https://medium.com/p/046c2a8ce6ea) |
+| Sat, 23 Aug 2025 17:14:31 GMT | Indexing on Solana: A Complete Guide to Deposits, Withdrawals, Memos, and Security | Prapti Sharma | [Read More](https://medium.com/p/4ecb2d2f3f69) |
+| Sat, 23 Aug 2025 17:09:22 GMT | Get the taste of the in-toto/witness project | Rahul Vishwakarma | [Read More](https://medium.com/p/4f9621153ed5) |
 | Sat, 23 Aug 2025 17:07:39 GMT | SSH Port Forwarding in Linux: A Hacker’s Swiss Army Knife for CTFs | Beryl | [Read More](https://medium.com/p/cd80640bae80) |
 | Sat, 23 Aug 2025 17:03:42 GMT | 10 Cybersecurity Preventive Measures You Can’t Ignore in 2025 | Jobair Tuaha | [Read More](https://medium.com/p/024c55abae6d) |
 | Sat, 23 Aug 2025 17:01:05 GMT | Cross-Site Scripting (XSS) Vulnerability in a Plain-View | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/69c918793d2d) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 12:19:08 GMT | AI-Powered Cyberattacks: The Dark Side of Artificial Intelligence in 2025 | Amit solanki | [Read More](https://medium.com/p/27caf988792f) |
 | Sat, 23 Aug 2025 12:15:51 GMT | How to Build a Vulnerable API Lab | Israel Aráoz Severiche | [Read More](https://medium.com/p/389363f5bab7) |
 | Sat, 23 Aug 2025 12:11:33 GMT | App to Manage Passwords: Best Tools to Keep Your Online Life Secure | Timónofearth | [Read More](https://medium.com/p/872796cad73d) |
-| Sat, 23 Aug 2025 12:09:23 GMT | Zero-Day Defense Tricks Every PHP App Should Use in 2025 | Asian Digital Hub | [Read More](https://medium.com/p/c8297d9097c6) |
-| Sat, 23 Aug 2025 12:08:38 GMT | How to Secure Linux Distributions : Practical, Step‑by‑Step Notes | Aswincp | [Read More](https://medium.com/p/a418128d182f) |
-| Sat, 23 Aug 2025 12:01:06 GMT | Welcome to the Zero-Day Market | Shubhamkhatang | [Read More](https://medium.com/p/ebe901e4c9c8) |
-| Sat, 23 Aug 2025 11:57:17 GMT | CATCTF 2025 Web Challenge Admin Panel | Karim Mohamed | [Read More](https://medium.com/p/4f889c7792c5) |
-| Sat, 23 Aug 2025 11:52:09 GMT | ️ The Case of the Hidden Endpoint: How Enumeration Unlocked a Tricky Vulnerability | Aftab Raja | [Read More](https://medium.com/p/4f8fd9e18b0d) |
-| Sat, 23 Aug 2025 11:49:14 GMT | walktrough in lazy_admin in tryhackme | MouhibMahadbi | [Read More](https://medium.com/p/b2bd844d0d8c) |
-| Sat, 23 Aug 2025 11:43:38 GMT | So, who is related to whom? | Nonjabulo Matomela | [Read More](https://medium.com/p/495cc7b0bb0f) |
-| Sat, 23 Aug 2025 11:39:12 GMT | Leading Benefits of Hiring a Security Guard Los Angeles | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/a70671e0f46d) |
-| Sat, 23 Aug 2025 11:23:33 GMT | Secure Your APIs: 7 Critical Checks Devs Skip | R A N A   A H M A D | [Read More](https://medium.com/p/2faa205ad0fe) |
-| Sat, 23 Aug 2025 11:22:43 GMT | The Weirdest Social Media Scams Trending Right Now 2025 — Insider Tips | Tarush Sharma | [Read More](https://medium.com/p/40456a788437) |
