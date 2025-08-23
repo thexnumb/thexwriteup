@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 23:25:23 GMT | PG Practice — Squid (Windows) | Lepton | [Read More](https://medium.com/p/f4a7c6f5ffbc) |
+| Sat, 23 Aug 2025 23:25:10 GMT | PG Practice — Algernon (Windows) | Lepton | [Read More](https://medium.com/p/5a7f6e40c09b) |
+| Sat, 23 Aug 2025 23:24:57 GMT | PG Practice — Flu (Linux) | Lepton | [Read More](https://medium.com/p/ce7aa409b2b6) |
+| Sat, 23 Aug 2025 23:20:25 GMT | Technical Skill is Half the Battle: How Security Professionals Can Shine with Better Reporting | Luciano Ciattaglia | [Read More](https://medium.com/p/883679d66071) |
 | Sat, 23 Aug 2025 23:03:46 GMT | From Principle to Pattern: Zero Trust for Agentic AI on Azure | Arsh Riz | [Read More](https://medium.com/p/25dd711b01b2) |
 | Sat, 23 Aug 2025 23:03:24 GMT | Why Every Small Business Needs Cybersecurity Policies (Even If You Think You Don’t) | Chris Black | [Read More](https://medium.com/p/ce04c1a06191) |
 | Sat, 23 Aug 2025 22:29:45 GMT | Lab Walkthrough: DOM XSS via document.write & location.search | Juweyriya | [Read More](https://medium.com/p/dd4b1d2cc351) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 15:56:03 GMT | What is Wazuh? Why Open-Source Security Analytics Matters | Mohammed Abbood | [Read More](https://medium.com/p/242a93d188d6) |
 | Sat, 23 Aug 2025 15:54:28 GMT | Trooper TryHackMe WalkThrough | Pavandeep Kaur | [Read More](https://medium.com/p/87d4d68f5f12) |
 | Sat, 23 Aug 2025 15:46:46 GMT | Optimizing IT Solutions for Business Efficiency | Parth Patel | [Read More](https://medium.com/p/eb8f803b6832) |
-| Sat, 23 Aug 2025 15:43:51 GMT | Roots | RADIANT ROOTING | [Read More](https://medium.com/p/8d3415763174) |
-| Sat, 23 Aug 2025 15:38:45 GMT | (CVE-2025–52970) Authentication Bypass in FortiWeb ”POC” | HariHaranK | [Read More](https://medium.com/p/04d7abd0c5f9) |
-| Sat, 23 Aug 2025 15:25:38 GMT | CAT Reloaded CTF -CATF 2025-write up | Nayzak | [Read More](https://medium.com/p/7f05086d233b) |
-| Sat, 23 Aug 2025 15:25:36 GMT | Vibe Coding Efficiency, Part One: Glyph’s Futzing Fraction | Dan Glass | [Read More](https://medium.com/p/e012f3b51e0b) |
