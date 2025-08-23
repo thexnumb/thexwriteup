@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 10:32:32 GMT | Data Integrity: The Unseen Battle in UAE Data Centers | Tekmuzammil | [Read More](https://medium.com/p/aaeb9d1b0b7b) |
+| Sat, 23 Aug 2025 10:30:01 GMT | CVE-2025–53770 EXPLAINED: ToolShell RCE + Live SOC Analysis (Letsdefend SOC342) | Motasem Hamdan | [Read More](https://medium.com/p/552d2a243950) |
+| Sat, 23 Aug 2025 10:26:14 GMT | Day 40- Understanding zero-trust security for beginners | unica 02 | [Read More](https://medium.com/p/c7e68ec802af) |
+| Sat, 23 Aug 2025 10:25:17 GMT | Threat Intel #1: The Cyber Kill Chain Explained | Norman Kolarikkal | [Read More](https://medium.com/p/837200e19360) |
+| Sat, 23 Aug 2025 10:22:49 GMT | The Digital Self: Navigating Identity and Authenticity in a World of Online Personas | vydhi | [Read More](https://medium.com/p/9f2af1ce39d6) |
+| Sat, 23 Aug 2025 10:16:39 GMT | Why Choosing the Right Cyber Security Training Can Transform Your Career | Yash Mankani | [Read More](https://medium.com/p/f7a25d3f1b23) |
+| Sat, 23 Aug 2025 10:12:39 GMT | Fake Mac Fixes Distribute New Shamos Infostealer-A Wake-Up Call for macOS Users | Chetan Seripally | [Read More](https://medium.com/p/3044342813d1) |
 | Sat, 23 Aug 2025 10:06:53 GMT | APT36 Exploits Linux Desktop Files for Stealthy Malware Attacks | Chetan Seripally | [Read More](https://medium.com/p/28889c5f85f7) |
 | Sat, 23 Aug 2025 10:06:17 GMT | Securing Critical Infrastructure in MENA: Raed Ahsan Moderates Panel at OTSEC MENA 2025 | Raed Ahsan | [Read More](https://medium.com/p/91075266cd6a) |
 | Sat, 23 Aug 2025 10:03:34 GMT | When Your Shoulder to Cry On Wants to F*ck You | Lacie Lou | [Read More](https://medium.com/p/28ddf3c37503) |
@@ -105,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 01:57:31 GMT | The Growing Menace of Pharming and DNS Poisoning | Samina Perveen | [Read More](https://medium.com/p/2de07cd59b0e) |
 | Sat, 23 Aug 2025 01:54:51 GMT | The Flaw Inside Amazon’s Cloud Tool | The UNFILTERED Draft | [Read More](https://medium.com/p/de36f82ad5b8) |
 | Sat, 23 Aug 2025 01:09:22 GMT | Why I Never Allow Root SSH Logins on My Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/abf3bef9ca8a) |
-| Sat, 23 Aug 2025 01:05:00 GMT | New Win-DoS Zero-Click Vulnerabilities Turns Windows 
-ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medium.com/p/8e2b88aef882) |
-| Sat, 23 Aug 2025 00:54:48 GMT | Cybersecurity Defenders Discovery Camp 2025 (CDDC) | d*classified | [Read More](https://medium.com/p/9b797e578117) |
-| Sat, 23 Aug 2025 00:36:48 GMT | Learning NIST Risk Management Framework(RMF) Through Application! | Myshawne Stallings | [Read More](https://medium.com/p/0e08e64e7339) |
-| Sat, 23 Aug 2025 00:17:59 GMT | Passkeys: The Quiet Revolution in Digital Security | OWilliams | [Read More](https://medium.com/p/e6c0800d019a) |
-| Sat, 23 Aug 2025 00:08:11 GMT | Hungary’s leader complained to the U.S. | Beloodgang | [Read More](https://medium.com/p/07dbf74863d3) |
-| Sat, 23 Aug 2025 00:01:33 GMT | FOFA: The Definitive Guide to Asset Recognition in Bug Bounty and OSINT | JPablo13 | [Read More](https://medium.com/p/dc0448055220) |
-| Fri, 22 Aug 2025 23:57:30 GMT | The Flipper Zero Debate: A Symptom of Automotive Security Failures | RealSec.io | [Read More](https://medium.com/p/09751b0f284c) |
