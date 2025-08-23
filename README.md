@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 08:18:13 GMT | What exactly is a zero-day vulnerability, and why are they so critical in cybersecurity? | Likhoindustry | [Read More](https://medium.com/p/9b1346a005ca) |
+| Sat, 23 Aug 2025 08:15:50 GMT | Python Beyond the Basics: 10 Advanced Patterns That Changed How I Write Code | Babar saad | [Read More](https://medium.com/p/8e613b8546b5) |
+| Sat, 23 Aug 2025 08:13:05 GMT | Phishing-as-a-Service (PhaaS): The Subscription Model of Cybercrime | Dushyant Singh Shekhawat | [Read More](https://medium.com/p/5cc834ed7cd9) |
+| Sat, 23 Aug 2025 08:08:23 GMT | Unified Mentor Internship Feedback on Data Analysis | Stronic Publication (PR Agency) | [Read More](https://medium.com/p/8fb73aa92371) |
+| Sat, 23 Aug 2025 08:00:46 GMT | Analyzing Blockchain Security Step by Step | Cyber Security Research | [Read More](https://medium.com/p/62037c3233c5) |
+| Sat, 23 Aug 2025 07:59:13 GMT | Best Cyber Security Training in Bangalore — Visualpath | Pravin Choudhary | [Read More](https://medium.com/p/91109ffeb5a4) |
+| Sat, 23 Aug 2025 07:58:16 GMT | Analyzing AI in Cybersecurity in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/0405a406cddc) |
+| Sat, 23 Aug 2025 07:55:41 GMT | Analyzing AI in Cybersecurity for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/198baf7ed4d3) |
+| Sat, 23 Aug 2025 07:54:09 GMT | What Will You Bring Today? | Sara Roger | [Read More](https://medium.com/p/3480df35c805) |
+| Sat, 23 Aug 2025 07:29:32 GMT | A Reminder… | Onukwue Eunice | [Read More](https://medium.com/p/a391c5128a9e) |
 | Sat, 23 Aug 2025 07:29:24 GMT | Exploiting ImageMagick to get RCE | Kris3c | [Read More](https://medium.com/p/72887ccddd5e) |
 | Sat, 23 Aug 2025 07:29:02 GMT | ThunderCipher-Lab[PageVault] | Bhuwan Patidar | [Read More](https://medium.com/p/6373f32e87a4) |
 | Sat, 23 Aug 2025 07:22:28 GMT | Katana to Kill‑Switch: Mastering ProjectDiscovery’s Crawler From Zero to Pro (with Real‑World… | adce626 | [Read More](https://medium.com/p/62a7dec5a744) |
@@ -103,13 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 20:52:05 GMT | What is NTFS File System in Windows? | amol pawar | [Read More](https://medium.com/p/00155ac1006b) |
 | Fri, 22 Aug 2025 20:43:30 GMT | Portswigger Business logic vulnerabilities Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/b233d942e574) |
 | Fri, 22 Aug 2025 20:43:30 GMT | Reducing False Positives and Model Optimization in Machine Learning-Based UEBA Systems | Esra Kayhan | [Read More](https://medium.com/p/1c1f09b673eb) |
-| Fri, 22 Aug 2025 20:39:13 GMT | From Days to Minutes: Building DNS-Helix, a High-Speed Subdomain Discovery Tool | CypherNova1337 | [Read More](https://medium.com/p/84bf2fcc3bd9) |
-| Fri, 22 Aug 2025 20:38:24 GMT | Transforming AWS Security with Zero Trust Principles | Ngozi U.I. Uche | [Read More](https://medium.com/p/7c4889ea8e2f) |
-| Fri, 22 Aug 2025 20:37:50 GMT | The SOC Nobody Asked For | ai3ech | [Read More](https://medium.com/p/3ce6c2b0156f) |
-| Fri, 22 Aug 2025 20:35:22 GMT | Can I Be Vulnerable With You Guys? | Fidelis Kayode Fadoju | [Read More](https://medium.com/p/279ad8809531) |
-| Fri, 22 Aug 2025 20:28:09 GMT | Gobuster: The Basics THM writeup - by 2No0b4YoU | 2No0b4YoU | [Read More](https://medium.com/p/acfa6a5e9dd5) |
-| Fri, 22 Aug 2025 20:24:45 GMT | Dragon Byte — TryHackMe | HexSilent | [Read More](https://medium.com/p/8758e1fdc028) |
-| Fri, 22 Aug 2025 20:21:31 GMT | Portswigger Web LLM Attacks Labs — Expert | Mike (sl0th0x87) | [Read More](https://medium.com/p/3eba30e89830) |
-| Fri, 22 Aug 2025 20:17:30 GMT | The Missing Button: How Big Tech Broke Privacy by Design | AI Rabbit | [Read More](https://medium.com/p/065c1e3cb5e3) |
-| Fri, 22 Aug 2025 20:16:20 GMT | Lumma Stealer 2025 - Full Breakdown of the Infostealer That Shook the World | Motasem Hamdan | [Read More](https://medium.com/p/d4a793da15e8) |
-| Fri, 22 Aug 2025 20:06:34 GMT | Project #5: Static NAT, Dynamic PAT + More Routing & Troubleshooting | NSESean | [Read More](https://medium.com/p/a4cb34eefd0c) |
