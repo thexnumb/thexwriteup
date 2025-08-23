@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 Aug 2025 05:10:17 GMT | An Ultimate Guide on Protecting Every Byte of Your Data | kai kon | [Read More](https://medium.com/p/d509fb86da05) |
+| Sat, 23 Aug 2025 04:54:02 GMT | How I Built My Own LastPass Clone in Python (with AES Encryption) | Neha ravi | [Read More](https://medium.com/p/fe87e1195d03) |
+| Sat, 23 Aug 2025 04:49:45 GMT | Zero-Trust Authenticaton: Stop trusting, Start verifying. | Darshit Anjaria | [Read More](https://medium.com/p/01e3823ead04) |
+| Sat, 23 Aug 2025 04:47:30 GMT | 12. Testing in Flutter: A Comprehensive Guide | Radhey Shyam Jat | [Read More](https://medium.com/p/6c30f06c823b) |
 | Sat, 23 Aug 2025 04:42:17 GMT | Why 89% of Startups Are Ditching AWS for This $5/Month Alternative | Rizqi Mulki | [Read More](https://medium.com/p/262db11a86b5) |
 | Sat, 23 Aug 2025 04:36:46 GMT | Why Security Should Come Before Performance | Rizqi Mulki | [Read More](https://medium.com/p/930286118b00) |
 | Sat, 23 Aug 2025 04:33:18 GMT | The Rise of Predictive Cyber Threat Intelligence: From Reactive Defense to Preemptive Strike | Dr. Deep Pandey | [Read More](https://medium.com/p/e878d8c1ccbe) |
@@ -109,7 +113,3 @@ ServerEndpoint, Domain Controllers Into DDoS… | Rue | [Read More](https://medi
 | Fri, 22 Aug 2025 18:49:44 GMT | What You Need to Know About Identity Threat Detection and Response | Ai Writter Tools | [Read More](https://medium.com/p/f6a23b06c08b) |
 | Fri, 22 Aug 2025 18:46:47 GMT | Why Your “Secure” Password Manager Isn’t Actually Secure | Debug Diaries | [Read More](https://medium.com/p/0492f5e81917) |
 | Fri, 22 Aug 2025 18:45:33 GMT | Seen | Mark Donelson | [Read More](https://medium.com/p/05daa2d2e2f9) |
-| Fri, 22 Aug 2025 18:44:11 GMT | Work-Life Balance: The Real Wealth We Often Overlook | Chethan H | [Read More](https://medium.com/p/070207131960) |
-| Fri, 22 Aug 2025 18:40:29 GMT | The Difference Between Malvertising and Adware | Ai Writter Tools | [Read More](https://medium.com/p/0a180b653010) |
-| Fri, 22 Aug 2025 18:38:41 GMT | My eJPT Exam Experience And Preparation 2025 | Pranav Patil | [Read More](https://medium.com/p/51fe27a5de79) |
-| Fri, 22 Aug 2025 18:35:02 GMT | Identifying Fake Online Stores | Ai Writter Tools | [Read More](https://medium.com/p/f4d4f760a5c1) |
