@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 20:18:55 GMT | How I found an Account Lockout Vulnerability Without Any Tools | StrangeRwhite | [Read More](https://medium.com/p/f52cbcd58730) |
+| Sun, 24 Aug 2025 20:10:26 GMT | For Themyscira! — 2025 Target Cyber Defense Challenge Tier 1 Write-Up | CyberSecJess | [Read More](https://medium.com/p/027f39dbf879) |
+| Sun, 24 Aug 2025 20:01:33 GMT | The Overlooked Profile of the Most Effective CISOs — The Gardener | Yael Nagler | [Read More](https://medium.com/p/c807397a605b) |
+| Sun, 24 Aug 2025 20:01:21 GMT | Why Your Next Computer Might Not Live in Your House | Derek Wood | [Read More](https://medium.com/p/2266c1c8588f) |
+| Sun, 24 Aug 2025 19:58:08 GMT | [CyberSec] AI & Cybersecurity: The Double-Edged Sword of the Digital Age | Pietro Romano / SecBeret | [Read More](https://medium.com/p/d73ff14ef378) |
+| Sun, 24 Aug 2025 19:53:14 GMT | ⚡ 35 Killer Cybersecurity Commands You Need to Master in 2025 | Unai Rubio | [Read More](https://medium.com/p/57869e683a0b) |
+| Sun, 24 Aug 2025 19:38:38 GMT | Protecting Your Teen Online: Why Cyber Insurance and Open Communication Are Vital | Daniel | [Read More](https://medium.com/p/929300a8841e) |
+| Sun, 24 Aug 2025 19:36:09 GMT | Cybersecurity 2025: Your Shield in the Digital World | _Taskflow Club_ | [Read More](https://medium.com/p/6ab1ddbffe11) |
+| Sun, 24 Aug 2025 19:33:26 GMT | Write-Up for CAT Reloaded CTF/DFIR/Index of Secrets Challenge | Dagon | [Read More](https://medium.com/p/d58badee1b3e) |
 | Sun, 24 Aug 2025 19:29:37 GMT | Why Visible Mall Security Guards Enhance Shopper Confidence | Nimra Sheikh | [Read More](https://medium.com/p/5ca6e7f10d5c) |
 | Sun, 24 Aug 2025 19:29:24 GMT | Forget Deepfaking Politicians. AI Can Deepfake Your Boss on a Live Video Call. | Berker Ceylan | [Read More](https://medium.com/p/a31b0fcfe65f) |
 | Sun, 24 Aug 2025 19:28:38 GMT | Essential Mall Security Techniques Every Mall Owner Should Know | Nimra Sheikh | [Read More](https://medium.com/p/571eb1d9e738) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 14:53:18 GMT | DIVA APK Mobile Penetration Testing | Kausikdey | [Read More](https://medium.com/p/92922c83a266) |
 | Sun, 24 Aug 2025 14:50:51 GMT | Agent Sudo TryHackMe | Meena A | [Read More](https://medium.com/p/e37ae8405617) |
 | Sun, 24 Aug 2025 14:44:54 GMT | TryHackMe-Olympus Writeup | alda69 | [Read More](https://medium.com/p/6cf0a101bffb) |
-| Sun, 24 Aug 2025 14:42:50 GMT | Finding Needle in The Haystack : How a Forgotten Subdomain Led to Complete AWS Infrastructure… | Akash Singh | [Read More](https://medium.com/p/328571e88496) |
-| Sun, 24 Aug 2025 14:38:55 GMT | Top 5 WhatsApp Spy Apps That Work | Narjis Batool | [Read More](https://medium.com/p/e01ef38c522d) |
-| Sun, 24 Aug 2025 14:30:47 GMT | Complexity in Cybersecurity — and how to handle it | Sebastian Kandler | [Read More](https://medium.com/p/f373b1976c39) |
-| Sun, 24 Aug 2025 14:26:28 GMT | A Fortified Warning Vision Relying on Iris Recognition Could Spark a Surge in Hackers’ Ambitions | Momen Ghazouani | [Read More](https://medium.com/p/38a3b6041215) |
-| Sun, 24 Aug 2025 14:25:42 GMT | From Fiverr to Your Hard Drive: How Malware Travels Through Client Projects | Azuren | [Read More](https://medium.com/p/04d5744c9b38) |
-| Sun, 24 Aug 2025 14:25:11 GMT | Crypto : BrunnerCTF 2025 — The Cryptographic Kitchen! | Rana chouchane - QU33NR | [Read More](https://medium.com/p/4108473aa7df) |
-| Sun, 24 Aug 2025 14:24:20 GMT | Reverse Engineering: BrunnerCTF 2025- Trippi Troppa Chaos | Rana chouchane - QU33NR | [Read More](https://medium.com/p/32c4c2cf0b96) |
-| Sun, 24 Aug 2025 14:23:59 GMT | PORTSWIGGER APPRENTICE Small and Easy WALKTHROUGH | The Commoness | [Read More](https://medium.com/p/0e8dd22ef6ae) |
-| Sun, 24 Aug 2025 14:23:31 GMT | MISC: BrunnerCTF 2025 — The Yeast Key | Rana chouchane - QU33NR | [Read More](https://medium.com/p/10585f6ea493) |
