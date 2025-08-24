@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 04:10:36 GMT | Why Do We Gotta Struggle First Just to Be Taken Serious? | OFF TOPIC | [Read More](https://medium.com/p/8b24e5fb59ec) |
 | Sun, 24 Aug 2025 03:46:30 GMT | ️ WALKTHROUGH – BASIC PENTESTING CTF | Dheeraj Manoj | [Read More](https://medium.com/p/022adf896a40) |
 | Sun, 24 Aug 2025 03:42:50 GMT | The Quiet Tyranny of Being ‘Fine’: On the Freedom of Admitting You’re Not | vydhi | [Read More](https://medium.com/p/bbb92fa30179) |
 | Sun, 24 Aug 2025 03:31:42 GMT | Secrets lab - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/7e7af65ea593) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 17:22:29 GMT | Day 54 — Conquering OverTheWire Bandit Wargames | Jinay | [Read More](https://medium.com/p/eb9b3dbf2624) |
 | Sat, 23 Aug 2025 17:17:34 GMT | “Day 19: The Serialization Trap — When Data Becomes Code” | Aman Sharma | [Read More](https://medium.com/p/04d73ea2c7f7) |
 | Sat, 23 Aug 2025 17:17:11 GMT | Understanding Clickjacking: The Invisible UI Attack | Abhishek Bhujang | [Read More](https://medium.com/p/4cde7979c59f) |
-| Sat, 23 Aug 2025 17:14:38 GMT | The Digital India Dilemma: Balancing Innovation and Privacy | Parshuram Vasamani | [Read More](https://medium.com/p/046c2a8ce6ea) |
