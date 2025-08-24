@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 23:11:53 GMT | When CTF Meets Bug Bounty: A Critical UXSS in Opera Browser | Renwa | [Read More](https://medium.com/p/ee16f389e555) |
+| Sun, 24 Aug 2025 23:01:35 GMT | TryHackMe — Traverse Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/d1a28a936744) |
+| Sun, 24 Aug 2025 22:56:27 GMT | Hands-On with Windows Server 2022: Setting Up Active Directory Domain (ADDS), OUs, Groups, and… | Antriksh Saini | [Read More](https://medium.com/p/eae658750d3a) |
+| Sun, 24 Aug 2025 22:39:48 GMT | My Journey into Cybersecurity: A Student’s Perspective | Mohanad Khaled | [Read More](https://medium.com/p/a10afaa41c0c) |
 | Sun, 24 Aug 2025 22:36:27 GMT | How I Was Able to Take Over Accounts Without Email or Password | Zyad Ibrahim | [Read More](https://medium.com/p/5d7434d7a049) |
 | Sun, 24 Aug 2025 22:22:42 GMT | Server-Side Template Injection 1 | Ross Andrews | [Read More](https://medium.com/p/10e6be1ff361) |
 | Sun, 24 Aug 2025 22:17:32 GMT | Spilling the Tea | Andrew Paul | [Read More](https://medium.com/p/cefac7698ddb) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 16:31:05 GMT | Do Hard Things if You Want an Easy Life: A Cybersecurity and Ethical Hacker’s Perspective | Vijay Kumar Gupta | [Read More](https://medium.com/p/8a9bad8b5e89) |
 | Sun, 24 Aug 2025 16:20:39 GMT | A “Featured” Free Chrome VPN Was Quietly Taking Screenshots and Tracking Users: What Happened and… | cybrNK | [Read More](https://medium.com/p/85318a8d1cd1) |
 | Sun, 24 Aug 2025 16:13:35 GMT | Are You On a Scammer’s Hit List? | Muhammad Zawar | [Read More](https://medium.com/p/0f9cbb89ffbc) |
-| Sun, 24 Aug 2025 16:12:07 GMT | DFARS Invoices and Cybersecurity: Every Submission Is Also a Compliance Statement | martino.agostini | [Read More](https://medium.com/p/8a34a16f550f) |
-| Sun, 24 Aug 2025 16:11:59 GMT | How to Choose the Right Bug Bounty Target: A Tactical Guide for Beginner Hunters | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/ab929e591a08) |
-| Sun, 24 Aug 2025 16:06:13 GMT | Understanding Ransomware in 5 Minutes | Paschal Ogana | [Read More](https://medium.com/p/584a5f5f4da9) |
-| Sun, 24 Aug 2025 16:04:45 GMT | The 5 Cybersecurity Tools Every Modern Business Needs (and the Missing Piece They Forget). | SupportXDR | [Read More](https://medium.com/p/04fcce7e6ba4) |
