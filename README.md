@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 14:08:30 GMT | Telcos Are Leading the AI Charge — And Seizing a Once-in-a-Generation Opportunity | martino.agostini | [Read More](https://medium.com/p/ebe0dbf32f72) |
+| Sun, 24 Aug 2025 14:07:32 GMT | How to Fix 404 Not Found In Spring Boot, Step by Step | Jagriti Srivastava | [Read More](https://medium.com/p/66358c26dc48) |
+| Sun, 24 Aug 2025 14:03:36 GMT | On-Prem vs. Cloud: Why 2 and 5 Reserved IPs | Siddhant Rangra | [Read More](https://medium.com/p/4eaeabb1b37d) |
+| Sun, 24 Aug 2025 14:02:21 GMT | Dotwhat..? (User)-BrunnerCTF 2025 | SilentHex | [Read More](https://medium.com/p/34bc446a2b2f) |
+| Sun, 24 Aug 2025 14:00:53 GMT | Breaking Guardrails: How I Jailbroke a Chatbot Built on Gemini API | Ali Zamini | [Read More](https://medium.com/p/8f31f094da92) |
+| Sun, 24 Aug 2025 13:57:45 GMT | High School and Middle School Volunteer Opportunities | Savvy Cyber Kids | [Read More](https://medium.com/p/e90971030179) |
+| Sun, 24 Aug 2025 13:57:24 GMT | Live with a gamer? Parent’s Guide to Gaming and Esports is a must have this holiday season! | Savvy Cyber Kids | [Read More](https://medium.com/p/688618be4652) |
+| Sun, 24 Aug 2025 13:57:08 GMT | Try a Technology Contract for the Family | Savvy Cyber Kids | [Read More](https://medium.com/p/83769dfe0d34) |
+| Sun, 24 Aug 2025 13:54:11 GMT | DVWA Reflected XSS (ALL LEVELS) | Chris Christian | [Read More](https://medium.com/p/616e561dd674) |
+| Sun, 24 Aug 2025 13:53:59 GMT | The TeamViewer Zero-Day: Here’s How to Protect Yourself | Sneha Rani | [Read More](https://medium.com/p/6576fa601c8c) |
+| Sun, 24 Aug 2025 13:28:03 GMT | How to Report and Take Down Fake Websites: A Step-by-Step Guide to Domain Abuse Takedowns | ThreatWatch360 | [Read More](https://medium.com/p/856b772401e6) |
 | Sun, 24 Aug 2025 13:25:05 GMT | Why You Should Keep Using Your Intel Mac in 2025? | Aslihan Akbiyik | [Read More](https://medium.com/p/b6a67c09d9fd) |
 | Sun, 24 Aug 2025 13:21:59 GMT | Instant Machine — Hack The Box | Zeenya | [Read More](https://medium.com/p/292dbe6fade5) |
 | Sun, 24 Aug 2025 13:12:41 GMT | Booking.com Exposed: Porn Ads, Broken Security, and the Malvertising Trap | Neurabbit | [Read More](https://medium.com/p/76ddbbd42d3c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 08:10:13 GMT | ISO/IEC 27032 for Cybersecurity in Manufacturing Multi-Cloud Environments (IBM Cloud & GCP) | Hammad Zahid | [Read More](https://medium.com/p/66762b314f4e) |
 | Sun, 24 Aug 2025 08:09:51 GMT | ️‍♂️ Shadow API Red Team Playbook: Hunting Ghost Endpoints Like an Attacker | Narendar Battula (nArEn) | [Read More](https://medium.com/p/812b6f582c00) |
 | Sun, 24 Aug 2025 08:08:58 GMT | Collaborative Development - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/2a55a48282de) |
-| Sun, 24 Aug 2025 08:03:09 GMT | ️‍♂️ Shadow API Red Team Playbook (Deep Dive Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c883ab7e5db8) |
-| Sun, 24 Aug 2025 08:03:05 GMT | Why 2025 Will Be the Year of the AI Hacker | Akshaya Mary Lingala | [Read More](https://medium.com/p/a69ee68a917b) |
-| Sun, 24 Aug 2025 08:01:38 GMT | Linux User Information & Security: The Detective’s Toolkit | MayhemCode | [Read More](https://medium.com/p/68d392369c25) |
-| Sun, 24 Aug 2025 08:01:38 GMT | Enclave-Based CI/CD: Running Your Pipelines in Trusted Execution Environments | Mohamed ElEmam | [Read More](https://medium.com/p/d766d2d4cc4d) |
-| Sun, 24 Aug 2025 07:58:40 GMT | Best Motherboard for Cyber Security | faizairfan | [Read More](https://medium.com/p/23c1c6473e0a) |
-| Sun, 24 Aug 2025 07:55:07 GMT | Shadow APIs: The Attack Surface That CISOs Don’t See | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c60ed255e2e9) |
-| Sun, 24 Aug 2025 07:48:02 GMT | TryHackMe - Avengers Blog - WriteUp | Axoloth | [Read More](https://medium.com/p/c25c151baeb3) |
-| Sun, 24 Aug 2025 07:39:04 GMT | From 403 to Foothold: Creative Ways Attackers Turn “Forbidden” into Access | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bb68633318e8) |
-| Sun, 24 Aug 2025 07:34:33 GMT | Perfecting the Art of Google Dorking: A Complete Guide | Spectat0rguy | [Read More](https://medium.com/p/caceda392c26) |
-| Sun, 24 Aug 2025 07:27:47 GMT | Commitment Issues - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/76979f2b63d0) |
-| Sun, 24 Aug 2025 07:27:35 GMT | Why You Should Care About URL Trackers and How to Remove Them | Victory | [Read More](https://medium.com/p/8cc54506c51d) |
