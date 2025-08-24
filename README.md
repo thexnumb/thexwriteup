@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 16:13:35 GMT | Are You On a Scammer’s Hit List? | Muhammad Zawar | [Read More](https://medium.com/p/0f9cbb89ffbc) |
+| Sun, 24 Aug 2025 16:12:07 GMT | DFARS Invoices and Cybersecurity: Every Submission Is Also a Compliance Statement | martino.agostini | [Read More](https://medium.com/p/8a34a16f550f) |
+| Sun, 24 Aug 2025 16:11:59 GMT | How to Choose the Right Bug Bounty Target: A Tactical Guide for Beginner Hunters | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/ab929e591a08) |
+| Sun, 24 Aug 2025 16:06:13 GMT | Understanding Ransomware in 5 Minutes | Paschal Ogana | [Read More](https://medium.com/p/584a5f5f4da9) |
+| Sun, 24 Aug 2025 16:04:45 GMT | The 5 Cybersecurity Tools Every Modern Business Needs (and the Missing Piece They Forget). | SupportXDR | [Read More](https://medium.com/p/04fcce7e6ba4) |
+| Sun, 24 Aug 2025 16:00:09 GMT | The 3 Best Data Breach Search Engines | Dr1nCtrl | [Read More](https://medium.com/p/45e00e659137) |
+| Sun, 24 Aug 2025 15:59:28 GMT | Your Phone's Silent Killer: Graphite Spyware's Zero-Click Assault on Privacy | Saad Khalid | [Read More](https://medium.com/p/08766b52fe94) |
+| Sun, 24 Aug 2025 15:55:50 GMT | How Attackers Abuse GitHub to Host Phishing Pages | rho_ax | [Read More](https://medium.com/p/1fccdcb29b41) |
+| Sun, 24 Aug 2025 15:54:47 GMT | How to Find Telegram ID IP - Beware of Scammers | Mr. MOM | [Read More](https://medium.com/p/bb943d90b036) |
+| Sun, 24 Aug 2025 15:45:32 GMT | Kubernetes Network Security Policies: From Chaos to Control | Meron | [Read More](https://medium.com/p/0b505ed2324b) |
+| Sun, 24 Aug 2025 15:43:52 GMT | How I Found an Admin Login via Google Dork and Earned My First Bug Bounty | Dhruvdeep Singh | [Read More](https://medium.com/p/c05e04adf830) |
+| Sun, 24 Aug 2025 15:43:45 GMT | The Linux Security Journey — KSPP (Kernel Self Protection Project) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9250528f3a11) |
+| Sun, 24 Aug 2025 15:36:13 GMT | BakingBad - Web - BrunnerCTF 2025 Writeup - InferiorAK | InferiorAK | [Read More](https://medium.com/p/47464c40eeed) |
 | Sun, 24 Aug 2025 15:31:33 GMT | JWTs Are Not Session Tokens — Please Stop | Nikulsinh Rajput | [Read More](https://medium.com/p/701ce38e6cf7) |
 | Sun, 24 Aug 2025 15:25:25 GMT | AI: Shaping the Future of Innovation and Security | Jiyao Weng | [Read More](https://medium.com/p/a3eb49e352ca) |
 | Sun, 24 Aug 2025 15:24:49 GMT | WinRAR Path Traversal 0-Day (CVE-2025–8088): PoC  ve Güvenlik Analizi Raporu | Sergen can | [Read More](https://medium.com/p/62b0e8159bc1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 10:01:46 GMT | The Dark Reality of Trading Scams — And How to Stay Safe | rkdnawab | [Read More](https://medium.com/p/233b5d06b20e) |
 | Sun, 24 Aug 2025 10:00:19 GMT | Analyzing Previously Identified Malicious Files in VirusTotal | Balogun Ayomide | [Read More](https://medium.com/p/5204880e747e) |
 | Sun, 24 Aug 2025 09:53:31 GMT | Hackers Hijack VPS Servers-A Growing Threat to Enterprise Security | John Doe 007 | [Read More](https://medium.com/p/4c46c5a156e5) |
-| Sun, 24 Aug 2025 09:52:57 GMT | What is BIOS? | Atakan Bitim | [Read More](https://medium.com/p/579c0d345e25) |
-| Sun, 24 Aug 2025 09:52:54 GMT | BIOS Nedir? | Atakan Bitim | [Read More](https://medium.com/p/261ec37a7b16) |
-| Sun, 24 Aug 2025 09:48:06 GMT | How I Found 5 OAuth Misconfigurations Leading to Pre-Account Takeover in Public Bug Bounty Programs… | KhaledAhmed107 | [Read More](https://medium.com/p/021d4c8c6954) |
-| Sun, 24 Aug 2025 09:45:19 GMT | Hijacked Rewards: The Billion-Dollar Shadow Heist in Cashback and Affiliates | Neurabbit | [Read More](https://medium.com/p/cda6350c1f28) |
-| Sun, 24 Aug 2025 09:44:33 GMT | From a Small Town to Cybersecurity Research: Anshuman’s Path with CloudSEK | Mohammed Rayan A | [Read More](https://medium.com/p/411fabdf1359) |
-| Sun, 24 Aug 2025 09:38:06 GMT | Unlocking Secrets: How to Crack a Browser Game’s Code | SilentInject | [Read More](https://medium.com/p/0d71bf10b0b6) |
-| Sun, 24 Aug 2025 09:35:01 GMT | Analyzing Cryptography for Organizations | Cyber Security Research | [Read More](https://medium.com/p/eaa00c332e4a) |
-| Sun, 24 Aug 2025 09:33:46 GMT | Analyzing Cryptography for Decision Makers | Cyber Security Research | [Read More](https://medium.com/p/f33da1b8ce78) |
-| Sun, 24 Aug 2025 09:32:30 GMT | Analyzing Cryptography for Beginners | Cyber Security Research | [Read More](https://medium.com/p/34bf1992554b) |
-| Sun, 24 Aug 2025 09:31:14 GMT | Analyzing Cryptography and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/c5d971618509) |
-| Sun, 24 Aug 2025 09:29:59 GMT | Analyzing Cryptography and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/df12feea2560) |
-| Sun, 24 Aug 2025 09:28:42 GMT | Analyzing Cryptography and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/24dbda16a922) |
-| Sun, 24 Aug 2025 09:28:04 GMT | What is a Hacker? | Atakan Bitim | [Read More](https://medium.com/p/c69cd1a8b4a9) |
