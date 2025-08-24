@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 06:47:31 GMT | Bug Bounty: Subdomain Takeover: Cómo detectar y explotar subdominios huérfanos | Gorka | [Read More](https://medium.com/p/722d1af41e8e) |
+| Sun, 24 Aug 2025 06:47:28 GMT | How to Access the Dark Web Safely and Secure Your Device from Hackers (Ethical Tutorial) | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/9d1873efa898) |
+| Sun, 24 Aug 2025 06:45:07 GMT | Recon Roulette: Spinning Old Subdomains into a Fresh Critical Takeover | Iski | [Read More](https://medium.com/p/47dab541e5b6) |
+| Sun, 24 Aug 2025 06:42:55 GMT | “My Burp Suite Pro Playbook: Hacking APIs & Hijacking Sessions for Bounties” | Aman Sharma | [Read More](https://medium.com/p/33b68c59f6cd) |
+| Sun, 24 Aug 2025 06:40:13 GMT | Is Cyber Security a Good Career? A Complete Guide for 2025 | Evelyn | [Read More](https://medium.com/p/35af7d731df4) |
+| Sun, 24 Aug 2025 06:33:37 GMT | ElasticCase Lab — CyberDefenders Lab - Walkthrough | Michael Angelo Padua | [Read More](https://medium.com/p/161c437335ec) |
+| Sun, 24 Aug 2025 06:32:25 GMT | 5 Daily-Needs Gadgets from Amazon That Make Life Easier | tech & all that | [Read More](https://medium.com/p/6a0394cbd6cc) |
+| Sun, 24 Aug 2025 06:30:28 GMT | I Bought My Own Data on the Dark Web for $4. Here’s What I Found | Sofia | [Read More](https://medium.com/p/77da56357d5e) |
+| Sun, 24 Aug 2025 06:18:14 GMT | Breaking News: Robots Are Stealing Your jobs (Satire on Human Panic vs. Technology) | Vishal Pathak | [Read More](https://medium.com/p/05fbb07b9ec9) |
 | Sun, 24 Aug 2025 06:16:45 GMT | Cybersecurity Basics for Beginners: Did That Really Happen, or Was It AI? | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/38e52c9093ef) |
 | Sun, 24 Aug 2025 06:14:03 GMT | Sessions Made Simple: Why the Web Needed Memory | Tslnreddy | [Read More](https://medium.com/p/c5a037e6c962) |
 | Sun, 24 Aug 2025 06:04:47 GMT | Why AI-Powered Attacks Make Linux Hardening More Urgent Than Ever | Faruk Ahmed | [Read More](https://medium.com/p/a816ced453b9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 19:53:19 GMT | Hacking My Way Out: From Midnight Bundles in Ghana to the Dark Web | Cybernerddd | [Read More](https://medium.com/p/ff38d08af0c3) |
 | Sat, 23 Aug 2025 19:52:52 GMT | Ransomware Attacks: When Your Data Gets Held Hostage | Sparshika | [Read More](https://medium.com/p/561415f4c32f) |
 | Sat, 23 Aug 2025 19:52:51 GMT | Ustradin.com Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Editor | [Read More](https://medium.com/p/6aeae3bc7a50) |
-| Sat, 23 Aug 2025 19:51:16 GMT | Mastering Nmap (Part 2): Advanced Scans & Firewall Evasion for Bug Bounty Hunters | appsecvenue | [Read More](https://medium.com/p/e005dcaf21a7) |
-| Sat, 23 Aug 2025 19:47:53 GMT | Kuban CTF 2025- OSINT write-ups | Tasneem Zeidan | [Read More](https://medium.com/p/8629c927d6d7) |
-| Sat, 23 Aug 2025 19:40:53 GMT | I Was Winning a Game Until the Hacker Won Me.” | Shahzaib | [Read More](https://medium.com/p/4d25a8c59719) |
-| Sat, 23 Aug 2025 19:37:55 GMT | Tackling Social Engineering Attacks with AI | Karim Mokhtar | [Read More](https://medium.com/p/c6929b895e03) |
-| Sat, 23 Aug 2025 19:37:31 GMT | 127.0.0.1 Isn’t Just Localhost: The Secret Network Inside Your Computer | Dayakumar | [Read More](https://medium.com/p/7857537dd84f) |
-| Sat, 23 Aug 2025 19:31:32 GMT | Enforcing Security Best Practices with Linux Permissions | Dany Christel | [Read More](https://medium.com/p/9fb760b1be96) |
-| Sat, 23 Aug 2025 19:24:49 GMT | You Don’t Need a PhD in SQL to Use Your Own Telemetry | Umesh Sirsiwal | [Read More](https://medium.com/p/24ed38e168e7) |
-| Sat, 23 Aug 2025 19:08:40 GMT | Polyglot Files in Cybersecurity: A Double-Edged Sword | Samyakgoel | [Read More](https://medium.com/p/91a42960208f) |
-| Sat, 23 Aug 2025 19:07:13 GMT | Lure, Mislead, Learn: The Rise of Cyber Deception | Richard Dosumu | [Read More](https://medium.com/p/4eed233399ec) |
