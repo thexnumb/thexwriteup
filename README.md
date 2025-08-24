@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 16:42:25 GMT | The Hidden Weakness of Two-Factor Authentication | Raphael Moutard | [Read More](https://medium.com/p/f0b74395f799) |
+| Sun, 24 Aug 2025 16:41:31 GMT | Vendor Compliance: The Bollywood Rom-Com No One Warned You About | Shreya Singh | [Read More](https://medium.com/p/7df5853c890d) |
+| Sun, 24 Aug 2025 16:39:22 GMT | Forgotten Subdomain = $1000 “AWS Breach” Bounty | Akash Singh | [Read More](https://medium.com/p/e59fb8e855f7) |
+| Sun, 24 Aug 2025 16:38:59 GMT | Why AI Pentesting Will Define the Next Generation of Cybersecurity Services | echosso | [Read More](https://medium.com/p/d3a0b54dac81) |
+| Sun, 24 Aug 2025 16:38:17 GMT | Try Hack Me /Frank and Herby try again…..Write-Ups | MouhibMahadbi | [Read More](https://medium.com/p/ba390dbe0a61) |
+| Sun, 24 Aug 2025 16:36:44 GMT | Securing cyberspace without mass surveillance | Hayat Outahar | [Read More](https://medium.com/p/55d2f5b516fb) |
+| Sun, 24 Aug 2025 16:35:54 GMT | How Security Guard Patrol for Shopping Centers Orlando Keeps Shoppers Safe | Onyx Protective Services | [Read More](https://medium.com/p/673d9184abea) |
+| Sun, 24 Aug 2025 16:33:58 GMT | Why Armed Retail Security Services Atlanta Are Essential for Your Store | Onyx Protective Services | [Read More](https://medium.com/p/11b2cc6b01aa) |
+| Sun, 24 Aug 2025 16:33:53 GMT | JWT from a Blue Team Perspective | Anas404 | [Read More](https://medium.com/p/5f9f3d05c9b3) |
+| Sun, 24 Aug 2025 16:32:41 GMT | Drosera: The Flytrap That Could Save DeFi From Exploits | Oxviktor | [Read More](https://medium.com/p/d6dca2b0dcd3) |
+| Sun, 24 Aug 2025 16:31:05 GMT | Do Hard Things if You Want an Easy Life: A Cybersecurity and Ethical Hacker’s Perspective | Vijay Kumar Gupta | [Read More](https://medium.com/p/8a9bad8b5e89) |
+| Sun, 24 Aug 2025 16:20:39 GMT | A “Featured” Free Chrome VPN Was Quietly Taking Screenshots and Tracking Users: What Happened and… | cybrNK | [Read More](https://medium.com/p/85318a8d1cd1) |
 | Sun, 24 Aug 2025 16:13:35 GMT | Are You On a Scammer’s Hit List? | Muhammad Zawar | [Read More](https://medium.com/p/0f9cbb89ffbc) |
 | Sun, 24 Aug 2025 16:12:07 GMT | DFARS Invoices and Cybersecurity: Every Submission Is Also a Compliance Statement | martino.agostini | [Read More](https://medium.com/p/8a34a16f550f) |
 | Sun, 24 Aug 2025 16:11:59 GMT | How to Choose the Right Bug Bounty Target: A Tactical Guide for Beginner Hunters | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/ab929e591a08) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 10:46:06 GMT | Inside the Sandbox: How a Modern Detection & OpSec Cyber Range Levels Up Purple Teams | Ultra-Defense-Academy | [Read More](https://medium.com/p/51a3ce10ede9) |
 | Sun, 24 Aug 2025 10:44:06 GMT | Sometimes I Don’t Want To Be Strong | Iqra Arshad | [Read More](https://medium.com/p/143bafa5b118) |
 | Sun, 24 Aug 2025 10:39:27 GMT | Uncovering the Hidden Story: Domain Analysis and Splunk Log Analysis | Balogun Ayomide | [Read More](https://medium.com/p/e7c5dbef44d9) |
-| Sun, 24 Aug 2025 10:33:23 GMT | Homoglyph Domain Scams: The Hidden Cyber Threat That Looks Real | NIkhil Kumar | [Read More](https://medium.com/p/80abd6dc9d02) |
-| Sun, 24 Aug 2025 10:31:38 GMT | Quantum Revolution for Everyone (Book Chapters) | Platon Matveyev | [Read More](https://medium.com/p/9ebd7429f8ec) |
-| Sun, 24 Aug 2025 10:29:38 GMT | Building a Simple Crypto Clipper in Python (for Educational Purposes Only) | Vaibhav | [Read More](https://medium.com/p/d28bb3e43b44) |
-| Sun, 24 Aug 2025 10:25:22 GMT | [Walk-Through/Hints] Cap HTB | Hugh brown | [Read More](https://medium.com/p/01aea560fe6a) |
-| Sun, 24 Aug 2025 10:23:55 GMT | Inside the Cyber Hunter’s Arsenal: Mastering Splunk, ANY.RUN, and VirusTotal | Balogun Ayomide | [Read More](https://medium.com/p/f2f51f2e8a57) |
-| Sun, 24 Aug 2025 10:22:58 GMT | The Book That Taught Me Ethical Hacking and How I Practiced It Safely | Aj | [Read More](https://medium.com/p/ac564c7f87d3) |
-| Sun, 24 Aug 2025 10:15:25 GMT | Day 86: Advanced Persistent Threats | Nile Okomo | [Read More](https://medium.com/p/af01c6ae263b) |
-| Sun, 24 Aug 2025 10:14:51 GMT | MalBuster Walkthrough: Static PE Triage for Beginners | Furkanctiner | [Read More](https://medium.com/p/62b799db5aa7) |
-| Sun, 24 Aug 2025 10:05:53 GMT | Securing Docker Containers: Essential Practices | @rnab | [Read More](https://medium.com/p/c7110806bc35) |
-| Sun, 24 Aug 2025 10:01:46 GMT | The Dark Reality of Trading Scams — And How to Stay Safe | rkdnawab | [Read More](https://medium.com/p/233b5d06b20e) |
-| Sun, 24 Aug 2025 10:00:19 GMT | Analyzing Previously Identified Malicious Files in VirusTotal | Balogun Ayomide | [Read More](https://medium.com/p/5204880e747e) |
-| Sun, 24 Aug 2025 09:53:31 GMT | Hackers Hijack VPS Servers-A Growing Threat to Enterprise Security | John Doe 007 | [Read More](https://medium.com/p/4c46c5a156e5) |
