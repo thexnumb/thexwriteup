@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 08:36:54 GMT | Unionss.cc Crypto Scam: A Fake AI Trading Service That Trapped Me | Editor | [Read More](https://medium.com/p/0ceb527227af) |
+| Sun, 24 Aug 2025 08:31:34 GMT | Swift Programming Essentials: #8 — Authentication & Security in iOS Networking | Kumar Gaurav | [Read More](https://medium.com/p/0a6145581e96) |
+| Sun, 24 Aug 2025 08:26:14 GMT | ️ Part 1: AI-Driven Recon — Hunting Attack Surfaces at Machine Speed | Narendar Battula (nArEn) | [Read More](https://medium.com/p/682ca500e051) |
 | Sun, 24 Aug 2025 08:19:18 GMT | AI in Pentesting: How Attackers Use LLMs to Automate Recon & Payloads | Narendar Battula (nArEn) | [Read More](https://medium.com/p/53d7a3241175) |
 | Sun, 24 Aug 2025 08:13:24 GMT | Bypass TPM, SecureBoot, and Microsoft account requirement on Windows 11. | b4h4w | [Read More](https://medium.com/p/a824886184b1) |
 | Sun, 24 Aug 2025 08:10:13 GMT | ISO/IEC 27032 for Cybersecurity in Manufacturing Multi-Cloud Environments (IBM Cloud & GCP) | Hammad Zahid | [Read More](https://medium.com/p/66762b314f4e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 22:11:40 GMT | A Hacker’s Journey: From Zero to Shell on DVWA — A Comprehensive Writeup | j1sec | [Read More](https://medium.com/p/4561d35fbf5f) |
 | Sat, 23 Aug 2025 22:09:48 GMT | How AI is Changing Everything in 2025: A Guide for Business Leaders | Staytechscs | [Read More](https://medium.com/p/9db4e0ac20d7) |
 | Sat, 23 Aug 2025 22:06:28 GMT | The Future of AI: What is Artificial General Intelligence and Why Does it Matter? | Staytechscs | [Read More](https://medium.com/p/07967b813ce2) |
-| Sat, 23 Aug 2025 22:06:02 GMT | Fractional Core: When Math Becomes Secret Code | Lev Goukassian | [Read More](https://medium.com/p/887fb51da60e) |
-| Sat, 23 Aug 2025 22:03:08 GMT | Cat Reloaded 2025 CTF - Innocent Note challenge | 0xStrawHat | [Read More](https://medium.com/p/ea458b48ce7d) |
-| Sat, 23 Aug 2025 21:44:28 GMT | eCPPTv3: Second Time’s the Charm | Mayank Garg | [Read More](https://medium.com/p/a7ceabc843d6) |
