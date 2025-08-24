@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 22:13:02 GMT | If You Understand This, You’ll Never Forget Browser Proxy Setup Again | Sanjeeda N. | [Read More](https://medium.com/p/4333a4274ecd) |
+| Sun, 24 Aug 2025 22:04:52 GMT | How to Buy Gift Cards with Bitcoin Using CryptoXpress | Chrisnse | [Read More](https://medium.com/p/e07b3012fcbb) |
+| Sun, 24 Aug 2025 22:00:58 GMT | Blue Team: Organizasyonun Siber Savunma Gücü | Ata Çalım | [Read More](https://medium.com/p/9dc0a1e25502) |
+| Sun, 24 Aug 2025 21:58:04 GMT | File and Hash Threat Intel - Tryhackme | Aaron | [Read More](https://medium.com/p/f423ec84a5c1) |
+| Sun, 24 Aug 2025 21:53:38 GMT | System-Host Based Attacks CTF 1 | Hejackson | [Read More](https://medium.com/p/f391f14d8df2) |
+| Sun, 24 Aug 2025 21:48:47 GMT | Full Account Takeover (0-Click ATO) — My Story with a Critical Vulnerability | Nayef Hamouda | [Read More](https://medium.com/p/6e7ff9a9eaa5) |
+| Sun, 24 Aug 2025 21:34:08 GMT | Ignite - TryHackMe | Laach_ | [Read More](https://medium.com/p/c939cb64d5ae) |
 | Sun, 24 Aug 2025 21:23:52 GMT | Mobile — The Silent Threat | Pietro Romano / SecBeret | [Read More](https://medium.com/p/bb9dc1f03704) |
 | Sun, 24 Aug 2025 21:07:03 GMT | Google Is Still Leaking Your Secrets in 2025 — Here’s the Proof | FXM Brand | [Read More](https://medium.com/p/e45e8c6db162) |
 | Sun, 24 Aug 2025 21:01:44 GMT | How We Bypassed Rate Limits To Flood OTP Systems | Ibtissam hammadi | [Read More](https://medium.com/p/157aa822b72e) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 15:59:28 GMT | Your Phone's Silent Killer: Graphite Spyware's Zero-Click Assault on Privacy | Saad Khalid | [Read More](https://medium.com/p/08766b52fe94) |
 | Sun, 24 Aug 2025 15:55:50 GMT | How Attackers Abuse GitHub to Host Phishing Pages | rho_ax | [Read More](https://medium.com/p/1fccdcb29b41) |
 | Sun, 24 Aug 2025 15:54:47 GMT | How to Find Telegram ID IP - Beware of Scammers | Mr. MOM | [Read More](https://medium.com/p/bb943d90b036) |
-| Sun, 24 Aug 2025 15:45:32 GMT | Kubernetes Network Security Policies: From Chaos to Control | Meron | [Read More](https://medium.com/p/0b505ed2324b) |
-| Sun, 24 Aug 2025 15:43:52 GMT | How I Found an Admin Login via Google Dork and Earned My First Bug Bounty | Dhruvdeep Singh | [Read More](https://medium.com/p/c05e04adf830) |
-| Sun, 24 Aug 2025 15:43:45 GMT | The Linux Security Journey — KSPP (Kernel Self Protection Project) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9250528f3a11) |
-| Sun, 24 Aug 2025 15:36:13 GMT | BakingBad - Web - BrunnerCTF 2025 Writeup - InferiorAK | InferiorAK | [Read More](https://medium.com/p/47464c40eeed) |
-| Sun, 24 Aug 2025 15:31:33 GMT | JWTs Are Not Session Tokens — Please Stop | Nikulsinh Rajput | [Read More](https://medium.com/p/701ce38e6cf7) |
-| Sun, 24 Aug 2025 15:25:25 GMT | AI: Shaping the Future of Innovation and Security | Jiyao Weng | [Read More](https://medium.com/p/a3eb49e352ca) |
-| Sun, 24 Aug 2025 15:24:49 GMT | WinRAR Path Traversal 0-Day (CVE-2025–8088): PoC  ve Güvenlik Analizi Raporu | Sergen can | [Read More](https://medium.com/p/62b0e8159bc1) |
