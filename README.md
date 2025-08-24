@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 17:34:09 GMT | XSS Mass Hunting CVE-2025-44148 | AbhirupKonwar | [Read More](https://medium.com/p/8737e86c04d9) |
+| Sun, 24 Aug 2025 17:29:47 GMT | There Is a Lovely Land (OSINT brunner CTF) | Baraa Hesham | [Read More](https://medium.com/p/d521ecbbba15) |
+| Sun, 24 Aug 2025 17:20:09 GMT | Cybersecurity in 2025: Why It Matters More Than Ever | Paulson Fernandes | [Read More](https://medium.com/p/376843c315d7) |
+| Sun, 24 Aug 2025 17:18:56 GMT | Hands-On Linux Security & Automation for DevOps: A Beginner’s Guide | Gabriel Ejiro | [Read More](https://medium.com/p/fa2efc2a1954) |
+| Sun, 24 Aug 2025 17:16:44 GMT | The Problem Statement: Why AWS Developed VPC Origin | Ashish Kasaudhan | [Read More](https://medium.com/p/45e724d51a01) |
 | Sun, 24 Aug 2025 17:11:41 GMT | Cyber Stories #1: Charlie and the Suspicious Email ✉️ | Rosemary Lark | [Read More](https://medium.com/p/f8e6ef66d051) |
+| Sun, 24 Aug 2025 17:11:36 GMT | Kubernetes RBAC deep dive: Understanding authorization with kubectl and curl | Gabriel Garrido | [Read More](https://medium.com/p/9da8663b445e) |
 | Sun, 24 Aug 2025 17:07:26 GMT | Arrays in C – Your Complete Beginner’s Guide | Tanya Awasthi | [Read More](https://medium.com/p/2eec7a9b7b6c) |
 | Sun, 24 Aug 2025 17:06:48 GMT | How to defend against Root-of-Trust (RoT) attacks with measured boot, hardware-bound credentials… | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/71c75d932cee) |
 | Sun, 24 Aug 2025 17:03:44 GMT | การทำ AD password spraying | Nattawat Songsom | [Read More](https://medium.com/p/7b6a0ae2c6d3) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 11:34:12 GMT | VulnOS: Chronos Lab Walkthrough —  Hack & Ye Shall Receive | Aditya Bhatt | [Read More](https://medium.com/p/e683b176e3ce) |
 | Sun, 24 Aug 2025 11:28:51 GMT | Recovering The Public Key From RSA | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/663884a169bf) |
 | Sun, 24 Aug 2025 11:27:28 GMT | “XBOW AI: Breaking Code, Breaking Records” | Sagarchhetri | [Read More](https://medium.com/p/d37a9da3aed5) |
-| Sun, 24 Aug 2025 11:21:12 GMT | Computer Networking for Humans | Nathaniel Elle Angeles | [Read More](https://medium.com/p/8b89b05b7d82) |
-| Sun, 24 Aug 2025 11:18:01 GMT | DockerLabs Writeup — galeria (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d91f9b328b00) |
-| Sun, 24 Aug 2025 11:17:05 GMT | Senior Living Communities Gain A Competitive Edge with Groove’s New Triple Win Bundle | Emma Lyons | [Read More](https://medium.com/p/ee1e381b372e) |
-| Sun, 24 Aug 2025 11:15:09 GMT | Junior v/s Senior Devs : 5 Habits that draw the line | The Dev Notebook | [Read More](https://medium.com/p/ceeb44364ccc) |
-| Sun, 24 Aug 2025 11:13:51 GMT | Digital Signature: Strengthening Security in E-Invoicing | Bishal Pandey | [Read More](https://medium.com/p/bab0e68c3166) |
-| Sun, 24 Aug 2025 11:12:07 GMT | React Security Guide: From XSS Prevention to Secure API Communication | Logan Lee | [Read More](https://medium.com/p/db8677ed5c7f) |
