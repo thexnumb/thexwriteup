@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 18:16:52 GMT | Why Security Experts Say to Ditch SMS 2FA (two-factor authentication) | Xanthi S | [Read More](https://medium.com/p/4a9782b55b3d) |
+| Sun, 24 Aug 2025 18:13:22 GMT | Zach’s Att@ck Series — Kerberoasting | VaRiOus_CanAriEs | [Read More](https://medium.com/p/ca698f61a2d1) |
+| Sun, 24 Aug 2025 18:10:32 GMT | The High-Stakes Game: Inside the World of Ransomware Negotiators | Aammir Mirza | [Read More](https://medium.com/p/fc883d1f8d97) |
+| Sun, 24 Aug 2025 17:54:59 GMT | How to Create and Manage Groups in Microsoft Entra ID | Amina Moallim | [Read More](https://medium.com/p/27ae612c5ef9) |
+| Sun, 24 Aug 2025 17:50:30 GMT | Agentic AI, “Vibe Coding” and the Rise of Hackbots | Above The Firewall | [Read More](https://medium.com/p/0565e89e5b7f) |
+| Sun, 24 Aug 2025 17:49:02 GMT | Portswigger Unprotected Admin Functionality | Cybernerddd | [Read More](https://medium.com/p/f3829e219db4) |
+| Sun, 24 Aug 2025 17:44:46 GMT | The Rise of Cloud Bursting: How It’s Changing Business IT | Hafizbilaltariq | [Read More](https://medium.com/p/b21a4baaf825) |
+| Sun, 24 Aug 2025 17:37:32 GMT | How I Learned the Hard Way That Backups Aren’t Optional | Cyberkech | [Read More](https://medium.com/p/0bfc4040ffd2) |
+| Sun, 24 Aug 2025 17:36:44 GMT | Beyond LLMs: Specialization + Integration Is the Real AI Roadmap | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/6fae8544fbe0) |
+| Sun, 24 Aug 2025 17:35:56 GMT | Ransomware Tabletop Exercise & Playbook | whoami | [Read More](https://medium.com/p/fd74a495777b) |
+| Sun, 24 Aug 2025 17:35:42 GMT | Signal vs. Session vs. Telegram: Which Messenger Actually Protects You in 2025? | BiyteLüm | [Read More](https://medium.com/p/e0a13c8f08b1) |
 | Sun, 24 Aug 2025 17:34:09 GMT | XSS Mass Hunting CVE-2025-44148 | AbhirupKonwar | [Read More](https://medium.com/p/8737e86c04d9) |
+| Sun, 24 Aug 2025 17:33:58 GMT | CyberDefenders Reveal Lab Write-Up | Andrew | [Read More](https://medium.com/p/b2cdc7b4d937) |
 | Sun, 24 Aug 2025 17:29:47 GMT | There Is a Lovely Land (OSINT brunner CTF) | Baraa Hesham | [Read More](https://medium.com/p/d521ecbbba15) |
+| Sun, 24 Aug 2025 17:29:37 GMT | Navigating the Nexus | PSD Global | [Read More](https://medium.com/p/82a42fdf858b) |
 | Sun, 24 Aug 2025 17:20:09 GMT | Cybersecurity in 2025: Why It Matters More Than Ever | Paulson Fernandes | [Read More](https://medium.com/p/376843c315d7) |
 | Sun, 24 Aug 2025 17:18:56 GMT | Hands-On Linux Security & Automation for DevOps: A Beginner’s Guide | Gabriel Ejiro | [Read More](https://medium.com/p/fa2efc2a1954) |
 | Sun, 24 Aug 2025 17:16:44 GMT | The Problem Statement: Why AWS Developed VPC Origin | Ashish Kasaudhan | [Read More](https://medium.com/p/45e724d51a01) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 12:44:57 GMT | OSCP Preparation: TJNULL List — Kioptrix Level 1.2 Walkthrough | Pramod Srinivasa | [Read More](https://medium.com/p/50a53e048b0a) |
 | Sun, 24 Aug 2025 12:40:59 GMT | “VPN Truth: Are You Secure Online or a Target for Data Selling?” | Tarush Sharma | [Read More](https://medium.com/p/07a044a84087) |
 | Sun, 24 Aug 2025 12:40:42 GMT | Business Technology News: What’s In Microsoft Copilot’s GPT-5 Upgrade? | Gene Marks | [Read More](https://medium.com/p/320dae3e6dec) |
-| Sun, 24 Aug 2025 12:34:26 GMT | CAT CTF 25 Web writeups | Yousef Elmansy | [Read More](https://medium.com/p/3af828d3f569) |
-| Sun, 24 Aug 2025 12:19:24 GMT | WiFi Network Manager — A Complete Python Toolkit for Network Automation & Security | Kassam Dakhlalah | [Read More](https://medium.com/p/45d64b2e9746) |
-| Sun, 24 Aug 2025 12:17:33 GMT | How to Prevent Malware: 10 Simple Steps to Keep Your Devices Safe | Timónofearth | [Read More](https://medium.com/p/4cc5166bdbe4) |
-| Sun, 24 Aug 2025 12:12:07 GMT | What is Cybersecurity? Key Topics, Strategies, and Insights | cyber security Updates | [Read More](https://medium.com/p/b07d714fb95a) |
-| Sun, 24 Aug 2025 12:10:21 GMT | 2025 OLED Gaming Displays: LG’s Latest Offerings Reviewed | Hana Saito | [Read More](https://medium.com/p/5d65b727dc5a) |
-| Sun, 24 Aug 2025 11:59:37 GMT | Inside Windows Server Security: Hyper-V Architecture, Secured-Core, and Identity-Driven Protection | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/ed29373b9a19) |
-| Sun, 24 Aug 2025 11:57:29 GMT | About me — Tochukwu Okonkwor | Tochukwu Okonkwor | [Read More](https://medium.com/p/381ac7d404f2) |
-| Sun, 24 Aug 2025 11:48:46 GMT | 2025 LG OLED Gaming Displays: What’s New and What’s Next | Grace Anderson | [Read More](https://medium.com/p/a0379aed0cc7) |
-| Sun, 24 Aug 2025 11:39:38 GMT | Broken Object Level Authorization (BOLA): The Silent Killer of APIs | Ultra-Defense-Academy | [Read More](https://medium.com/p/b104176301ab) |
-| Sun, 24 Aug 2025 11:36:34 GMT | Day 41- Understanding the roles of compliance and auditors in organizations | unica 02 | [Read More](https://medium.com/p/2e3d9ee20464) |
-| Sun, 24 Aug 2025 11:34:12 GMT | VulnOS: Chronos Lab Walkthrough —  Hack & Ye Shall Receive | Aditya Bhatt | [Read More](https://medium.com/p/e683b176e3ce) |
-| Sun, 24 Aug 2025 11:28:51 GMT | Recovering The Public Key From RSA | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/663884a169bf) |
-| Sun, 24 Aug 2025 11:27:28 GMT | “XBOW AI: Breaking Code, Breaking Records” | Sagarchhetri | [Read More](https://medium.com/p/d37a9da3aed5) |
