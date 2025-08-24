@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 09:35:01 GMT | Analyzing Cryptography for Organizations | Cyber Security Research | [Read More](https://medium.com/p/eaa00c332e4a) |
+| Sun, 24 Aug 2025 09:33:46 GMT | Analyzing Cryptography for Decision Makers | Cyber Security Research | [Read More](https://medium.com/p/f33da1b8ce78) |
+| Sun, 24 Aug 2025 09:32:30 GMT | Analyzing Cryptography for Beginners | Cyber Security Research | [Read More](https://medium.com/p/34bf1992554b) |
+| Sun, 24 Aug 2025 09:31:14 GMT | Analyzing Cryptography and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/c5d971618509) |
+| Sun, 24 Aug 2025 09:29:59 GMT | Analyzing Cryptography and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/df12feea2560) |
+| Sun, 24 Aug 2025 09:28:42 GMT | Analyzing Cryptography and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/24dbda16a922) |
+| Sun, 24 Aug 2025 09:28:04 GMT | What is a Hacker? | Atakan Bitim | [Read More](https://medium.com/p/c69cd1a8b4a9) |
+| Sun, 24 Aug 2025 09:27:59 GMT | Hacker Nedir? | Atakan Bitim | [Read More](https://medium.com/p/1974a5213aee) |
+| Sun, 24 Aug 2025 09:24:03 GMT | Preventing Unauthorized Access with Simple Database Design | Kwabena Nyarko Obiri Ahimah | [Read More](https://medium.com/p/17dbc427f38d) |
+| Sun, 24 Aug 2025 09:19:25 GMT | How I Passed the Google Cloud Professional Cloud Security Engineer Exam | KISHORERAM | [Read More](https://medium.com/p/4ee9938ebd2d) |
+| Sun, 24 Aug 2025 09:16:23 GMT | Exploiting Race Conditions: Breaking Quotas Beyond Limits | okBoss | [Read More](https://medium.com/p/39c37c27d1a4) |
 | Sun, 24 Aug 2025 09:07:31 GMT | How I Lost a $600 Gig: Trials of being a Global Worker | Onukwue Eunice | [Read More](https://medium.com/p/07ae7d14cad5) |
 | Sun, 24 Aug 2025 09:04:09 GMT | Cross-Site Request Forgery (CSRF) Prevention in React.js | Pentest_Testing_Corp | [Read More](https://medium.com/p/04f7b5c44e61) |
 | Sun, 24 Aug 2025 08:57:17 GMT | Orange Bleeds Data: Should You Panic Now? | Truspex | [Read More](https://medium.com/p/260a3a89dc47) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 01:29:21 GMT | The Power of Self-Irony | Boris (Bruce) Kriger | [Read More](https://medium.com/p/59af7ef6f64c) |
 | Sun, 24 Aug 2025 01:27:21 GMT | Web Application Basics - THM | Isiah | [Read More](https://medium.com/p/d573c9b40c87) |
 | Sun, 24 Aug 2025 01:18:59 GMT | 2027 is The Year Quantum Computing Kills Digital Privacy Forever | Nichole Higgins | [Read More](https://medium.com/p/1194bd71e518) |
-| Sun, 24 Aug 2025 01:13:52 GMT | sytnergroupkja.cc Crypto Scam: How I Nearly Lost Everything | Editor | [Read More](https://medium.com/p/02c49b91bbdf) |
-| Sun, 24 Aug 2025 01:12:50 GMT | Analyzing Cryptography That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/6b97bd31bec2) |
-| Sun, 24 Aug 2025 01:11:13 GMT | Simplechange.net Scam Exposed: The Truth About This Fake Crypto Platform | Editor | [Read More](https://medium.com/p/1a6921eaf4b6) |
-| Sun, 24 Aug 2025 01:11:05 GMT | Analyzing Cryptography That Drive Innovation | Cyber Security Research | [Read More](https://medium.com/p/01aa26bfb6d0) |
-| Sun, 24 Aug 2025 01:09:21 GMT | Analyzing Cryptography Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/c08c48d8c324) |
-| Sun, 24 Aug 2025 01:09:03 GMT | Insuredlifeinvest.Ltd Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Editor | [Read More](https://medium.com/p/bdaf767e946a) |
-| Sun, 24 Aug 2025 01:07:27 GMT | Analyzing Cloud Security with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/71dd47c613a0) |
-| Sat, 23 Aug 2025 23:42:37 GMT | Smol - Tryhackme Walkthrough | Aydan | [Read More](https://medium.com/p/26973d381402) |
-| Sat, 23 Aug 2025 23:25:23 GMT | PG Practice — Squid (Windows) | Lepton | [Read More](https://medium.com/p/f4a7c6f5ffbc) |
-| Sat, 23 Aug 2025 23:25:10 GMT | PG Practice — Algernon (Windows) | Lepton | [Read More](https://medium.com/p/5a7f6e40c09b) |
-| Sat, 23 Aug 2025 23:24:57 GMT | PG Practice — Flu (Linux) | Lepton | [Read More](https://medium.com/p/ce7aa409b2b6) |
