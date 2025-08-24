@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 07:34:33 GMT | Perfecting the Art of Google Dorking: A Complete Guide | Spectat0rguy | [Read More](https://medium.com/p/caceda392c26) |
+| Sun, 24 Aug 2025 07:27:47 GMT | Commitment Issues - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/76979f2b63d0) |
+| Sun, 24 Aug 2025 07:27:35 GMT | Why You Should Care About URL Trackers and How to Remove Them | Victory | [Read More](https://medium.com/p/8cc54506c51d) |
+| Sun, 24 Aug 2025 07:26:50 GMT | API Keys in the Wild: How Attackers Hunt Secrets on GitHub in 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5557488d062f) |
 | Sun, 24 Aug 2025 07:12:36 GMT | Top 10 CyberSecurity Interview Questions? with Answers (2025) | Manisha Chaudhary | [Read More](https://medium.com/p/e60cc02ccfd9) |
+| Sun, 24 Aug 2025 07:12:23 GMT | Race Condition Testing Made Simple for Bug Hunters & Pentesters | Arash Shahbazi | [Read More](https://medium.com/p/0eb1ac8a861c) |
 | Sun, 24 Aug 2025 07:12:03 GMT | Day 8:- Exploring AWS Infrastructure & Why It Leads the Cloud! | Prutha_Dongre | [Read More](https://medium.com/p/b51dbdc2b444) |
+| Sun, 24 Aug 2025 07:10:26 GMT | Day 6 in Cloud (Part -3): Security in Networking | Akshat Kadam | [Read More](https://medium.com/p/9a5ec12bb2d1) |
 | Sun, 24 Aug 2025 07:07:39 GMT | GeoServer Exploits and Increasing Cybercrime Campaigns | Cyber Fortress | [Read More](https://medium.com/p/0325095af5da) |
 | Sun, 24 Aug 2025 07:07:00 GMT | No WGET, No XXD, No Problem: How I Exfiltrated Binaries from a Locked-Down Industrial Embedded… | Marcel Rick-Cen | [Read More](https://medium.com/p/8231a2758598) |
 | Sun, 24 Aug 2025 07:01:21 GMT | endianness - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/e6fa1204df4c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 20:41:00 GMT | How to Watch US Netflix Anywhere in 2025 [Step-by-Step Guide] | Bagosi Csaba | [Read More](https://medium.com/p/fe755b216875) |
 | Sat, 23 Aug 2025 20:38:11 GMT | I’m sorry – for feeling. | Brian Can Help! | [Read More](https://medium.com/p/3f94a14ef881) |
 | Sat, 23 Aug 2025 20:36:46 GMT | How I Used Python to Automate OSINT Investigations | Aj | [Read More](https://medium.com/p/b78a16750b3b) |
-| Sat, 23 Aug 2025 20:35:08 GMT | Kuban CTF 2025- “Opening the Jar” Write-Up | Tasneem Zeidan | [Read More](https://medium.com/p/4ea636582a69) |
-| Sat, 23 Aug 2025 20:34:41 GMT | $300 Bounty: CSRF Vulnerability in Evernote | Monika sharma | [Read More](https://medium.com/p/c5e6dd85657a) |
-| Sat, 23 Aug 2025 20:29:48 GMT | The Auth Apocalypse: Broken Authentication & Session Management — Episode 4 | Yamini Yadav | [Read More](https://medium.com/p/fadbfba22a92) |
-| Sat, 23 Aug 2025 20:25:36 GMT | DeepFind.Me: Powerful Resource For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/220ba27bfb08) |
-| Sat, 23 Aug 2025 20:25:11 GMT | Passwords Are Dying: What Hackers Already Know About You | Shahzaib | [Read More](https://medium.com/p/1110f214dab1) |
-| Sat, 23 Aug 2025 20:24:57 GMT | OSINT Deep Dive into Two Chinese Citizens Caught Drone Flying at Malaysia’s Defence Ministry | Jacque Rainey | [Read More](https://medium.com/p/6ed8cd12d027) |
