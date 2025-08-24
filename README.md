@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 13:07:29 GMT | 7 Realistic VAPT & Bug Bounty Triage Interview Questions (With Answers) Part 2 | CyberSenpai | [Read More](https://medium.com/p/9238b55f7af9) |
+| Sun, 24 Aug 2025 13:01:34 GMT | 在AI自動搜尋的時代還有自己找資料的意義嗎？（二） | Laurie Lu | [Read More](https://medium.com/p/7555b6c9f29c) |
+| Sun, 24 Aug 2025 12:54:47 GMT | BrunnerCTF 2025 Othello Villains pwn challenge | Zeyad Salah | [Read More](https://medium.com/p/3a4b7e213998) |
+| Sun, 24 Aug 2025 12:53:24 GMT | BrunnerCTF 2025 Train Mania Osint challenge | Zeyad Salah | [Read More](https://medium.com/p/403f6e82c99b) |
+| Sun, 24 Aug 2025 12:48:18 GMT | BrunnerCTF 2025 trippa troppa sus reverse challenge | Zeyad Salah | [Read More](https://medium.com/p/ba8f9f90d18d) |
+| Sun, 24 Aug 2025 12:44:57 GMT | OSCP Preparation: TJNULL List — Kioptrix Level 1.2 Walkthrough | Pramod Srinivasa | [Read More](https://medium.com/p/50a53e048b0a) |
+| Sun, 24 Aug 2025 12:40:59 GMT | “VPN Truth: Are You Secure Online or a Target for Data Selling?” | Tarush Sharma | [Read More](https://medium.com/p/07a044a84087) |
+| Sun, 24 Aug 2025 12:40:42 GMT | Business Technology News: What’s In Microsoft Copilot’s GPT-5 Upgrade? | Gene Marks | [Read More](https://medium.com/p/320dae3e6dec) |
+| Sun, 24 Aug 2025 12:34:26 GMT | CAT CTF 25 Web writeups | Yousef Elmansy | [Read More](https://medium.com/p/3af828d3f569) |
 | Sun, 24 Aug 2025 12:19:24 GMT | WiFi Network Manager — A Complete Python Toolkit for Network Automation & Security | Kassam Dakhlalah | [Read More](https://medium.com/p/45d64b2e9746) |
 | Sun, 24 Aug 2025 12:17:33 GMT | How to Prevent Malware: 10 Simple Steps to Keep Your Devices Safe | Timónofearth | [Read More](https://medium.com/p/4cc5166bdbe4) |
 | Sun, 24 Aug 2025 12:12:07 GMT | What is Cybersecurity? Key Topics, Strategies, and Insights | cyber security Updates | [Read More](https://medium.com/p/b07d714fb95a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 07:26:50 GMT | API Keys in the Wild: How Attackers Hunt Secrets on GitHub in 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5557488d062f) |
 | Sun, 24 Aug 2025 07:12:36 GMT | Top 10 CyberSecurity Interview Questions? with Answers (2025) | Manisha Chaudhary | [Read More](https://medium.com/p/e60cc02ccfd9) |
 | Sun, 24 Aug 2025 07:12:23 GMT | Race Condition Testing Made Simple for Bug Hunters & Pentesters | Arash Shahbazi | [Read More](https://medium.com/p/0eb1ac8a861c) |
-| Sun, 24 Aug 2025 07:12:03 GMT | Day 8:- Exploring AWS Infrastructure & Why It Leads the Cloud! | Prutha_Dongre | [Read More](https://medium.com/p/b51dbdc2b444) |
-| Sun, 24 Aug 2025 07:10:26 GMT | Day 6 in Cloud (Part -3): Security in Networking | Akshat Kadam | [Read More](https://medium.com/p/9a5ec12bb2d1) |
-| Sun, 24 Aug 2025 07:07:39 GMT | GeoServer Exploits and Increasing Cybercrime Campaigns | Cyber Fortress | [Read More](https://medium.com/p/0325095af5da) |
-| Sun, 24 Aug 2025 07:07:00 GMT | No WGET, No XXD, No Problem: How I Exfiltrated Binaries from a Locked-Down Industrial Embedded… | Marcel Rick-Cen | [Read More](https://medium.com/p/8231a2758598) |
-| Sun, 24 Aug 2025 07:01:21 GMT | endianness - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/e6fa1204df4c) |
-| Sun, 24 Aug 2025 06:53:04 GMT | Ransomware as a Service (RaaS) | Jithesh | [Read More](https://medium.com/p/e26207c55400) |
-| Sun, 24 Aug 2025 06:47:31 GMT | Bug Bounty: Subdomain Takeover: Cómo detectar y explotar subdominios huérfanos | Gorka | [Read More](https://medium.com/p/722d1af41e8e) |
-| Sun, 24 Aug 2025 06:47:28 GMT | How to Access the Dark Web Safely and Secure Your Device from Hackers (Ethical Tutorial) | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/9d1873efa898) |
-| Sun, 24 Aug 2025 06:45:07 GMT | Recon Roulette: Spinning Old Subdomains into a Fresh Critical Takeover | Iski | [Read More](https://medium.com/p/47dab541e5b6) |
