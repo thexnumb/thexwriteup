@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 19:04:23 GMT | Let’s create a Secure Remote Management Tool to assist our company in handling their IT challenges | Yvonda Davis | [Read More](https://medium.com/p/27fddafae068) |
+| Sun, 24 Aug 2025 19:01:31 GMT | Lo que aprendí hackeando la NASA (y lo que significa realmente ser hacker) | Gorka | [Read More](https://medium.com/p/e4e5b390e570) |
+| Sun, 24 Aug 2025 19:00:48 GMT | Your Email Is Already Leaked: Why Disposable Emails Are Essential in 2025 | Shihabsikder | [Read More](https://medium.com/p/fad6cb2f6283) |
+| Sun, 24 Aug 2025 18:55:33 GMT | What’s With All The Data Breaches? | Rama | [Read More](https://medium.com/p/781a90236799) |
+| Sun, 24 Aug 2025 18:42:29 GMT | How Vulnerability Made Me Stronger | Tim Wiesnerer | [Read More](https://medium.com/p/23842a52852d) |
+| Sun, 24 Aug 2025 18:42:09 GMT | Unified Kill Chain — TryHackMe | Bot Hacks | [Read More](https://medium.com/p/46419a3bdb29) |
+| Sun, 24 Aug 2025 18:42:07 GMT | Code Red: The AI Hacker Is Already Here | stakdai | [Read More](https://medium.com/p/c6f233b17bc8) |
 | Sun, 24 Aug 2025 18:41:24 GMT | Turning Agents Into “Sleeper” Agents: $118,500+ In Bounties via LLM Data Poisoning | Justas_b | [Read More](https://medium.com/p/92ddc95a50af) |
 | Sun, 24 Aug 2025 18:38:44 GMT | We All Do This on Social Media | Kiran B Nambiar | [Read More](https://medium.com/p/b3c54219bbde) |
 | Sun, 24 Aug 2025 18:35:31 GMT | How I Cracked CompTIA Security+ in Just 6 weeks. | parvatha | [Read More](https://medium.com/p/6e17b9d435b3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 14:02:21 GMT | Dotwhat..? (User)-BrunnerCTF 2025 | SilentHex | [Read More](https://medium.com/p/34bc446a2b2f) |
 | Sun, 24 Aug 2025 14:00:53 GMT | Breaking Guardrails: How I Jailbroke a Chatbot Built on Gemini API | Ali Zamini | [Read More](https://medium.com/p/8f31f094da92) |
 | Sun, 24 Aug 2025 13:57:45 GMT | High School and Middle School Volunteer Opportunities | Savvy Cyber Kids | [Read More](https://medium.com/p/e90971030179) |
-| Sun, 24 Aug 2025 13:57:24 GMT | Live with a gamer? Parent’s Guide to Gaming and Esports is a must have this holiday season! | Savvy Cyber Kids | [Read More](https://medium.com/p/688618be4652) |
-| Sun, 24 Aug 2025 13:57:08 GMT | Try a Technology Contract for the Family | Savvy Cyber Kids | [Read More](https://medium.com/p/83769dfe0d34) |
-| Sun, 24 Aug 2025 13:54:11 GMT | DVWA Reflected XSS (ALL LEVELS) | Chris Christian | [Read More](https://medium.com/p/616e561dd674) |
-| Sun, 24 Aug 2025 13:53:59 GMT | The TeamViewer Zero-Day: Here’s How to Protect Yourself | Sneha Rani | [Read More](https://medium.com/p/6576fa601c8c) |
-| Sun, 24 Aug 2025 13:28:03 GMT | How to Report and Take Down Fake Websites: A Step-by-Step Guide to Domain Abuse Takedowns | ThreatWatch360 | [Read More](https://medium.com/p/856b772401e6) |
-| Sun, 24 Aug 2025 13:25:05 GMT | Why You Should Keep Using Your Intel Mac in 2025? | Aslihan Akbiyik | [Read More](https://medium.com/p/b6a67c09d9fd) |
-| Sun, 24 Aug 2025 13:21:59 GMT | Instant Machine — Hack The Box | Zeenya | [Read More](https://medium.com/p/292dbe6fade5) |
