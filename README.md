@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 05:29:52 GMT | JackLangHack: When a Language Parameter Opens the Way to Attack on Booking.com | Neurabbit | [Read More](https://medium.com/p/b688dfe8d1b6) |
+| Sun, 24 Aug 2025 05:26:03 GMT | Phishing Attack Investigation Lab | Rishita Trivedi | [Read More](https://medium.com/p/b969ccc8ea79) |
+| Sun, 24 Aug 2025 05:25:44 GMT | Kali Linux Explained: Introduction, Features & How It Works | Ghafoor Memon | [Read More](https://medium.com/p/0b44423fedc1) |
 | Sun, 24 Aug 2025 05:19:04 GMT | Master VPN Security Like a Pro: Crack the CCNP SVPN Exam in 2025 | Daywalkernyc | [Read More](https://medium.com/p/47063f43edfa) |
 | Sun, 24 Aug 2025 05:17:25 GMT | Flash Coins & Fake Transactions: What You Need to Know | Dogixo | [Read More](https://medium.com/p/470677a2ee0b) |
 | Sun, 24 Aug 2025 05:16:31 GMT | Digital Trust Is Broken — And We’re All Pretending It’s Not | Recover Right | [Read More](https://medium.com/p/f3fc0176a70e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 18:43:07 GMT | What Is Block Chain? | Viraj Gawas | [Read More](https://medium.com/p/f1c48070a85a) |
 | Sat, 23 Aug 2025 18:33:00 GMT | The Invisible War: How Hackers Target the World’s Biggest Events | Kaotip Tan (KT) | [Read More](https://medium.com/p/7ee6dc2365d5) |
 | Sat, 23 Aug 2025 18:22:19 GMT | Tea App Data Breach: Cybersecurity Lessons and Privacy Insights | Kudzai Kangwende | [Read More](https://medium.com/p/1dadda8ceee2) |
-| Sat, 23 Aug 2025 18:18:53 GMT | A Smarter Lock for a Smarter World: The Mobile-First Revolution in Access Control | Damian Griggs | [Read More](https://medium.com/p/c1178631c832) |
-| Sat, 23 Aug 2025 17:58:27 GMT | AI vs Hackers: Who Will Win the Cybersecurity War? | Sukhveer Singh | [Read More](https://medium.com/p/95834c17d795) |
-| Sat, 23 Aug 2025 17:57:50 GMT | The Exhaustion of Always Pretending to be “Okay”….. | Noorink | [Read More](https://medium.com/p/0a1d9ca52317) |
