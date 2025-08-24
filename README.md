@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 08:19:18 GMT | AI in Pentesting: How Attackers Use LLMs to Automate Recon & Payloads | Narendar Battula (nArEn) | [Read More](https://medium.com/p/53d7a3241175) |
+| Sun, 24 Aug 2025 08:13:24 GMT | Bypass TPM, SecureBoot, and Microsoft account requirement on Windows 11. | b4h4w | [Read More](https://medium.com/p/a824886184b1) |
+| Sun, 24 Aug 2025 08:10:13 GMT | ISO/IEC 27032 for Cybersecurity in Manufacturing Multi-Cloud Environments (IBM Cloud & GCP) | Hammad Zahid | [Read More](https://medium.com/p/66762b314f4e) |
+| Sun, 24 Aug 2025 08:09:51 GMT | ️‍♂️ Shadow API Red Team Playbook: Hunting Ghost Endpoints Like an Attacker | Narendar Battula (nArEn) | [Read More](https://medium.com/p/812b6f582c00) |
+| Sun, 24 Aug 2025 08:08:58 GMT | Collaborative Development - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/2a55a48282de) |
+| Sun, 24 Aug 2025 08:03:09 GMT | ️‍♂️ Shadow API Red Team Playbook (Deep Dive Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c883ab7e5db8) |
+| Sun, 24 Aug 2025 08:03:05 GMT | Why 2025 Will Be the Year of the AI Hacker | Akshaya Mary Lingala | [Read More](https://medium.com/p/a69ee68a917b) |
+| Sun, 24 Aug 2025 08:01:38 GMT | Linux User Information & Security: The Detective’s Toolkit | MayhemCode | [Read More](https://medium.com/p/68d392369c25) |
+| Sun, 24 Aug 2025 08:01:38 GMT | Enclave-Based CI/CD: Running Your Pipelines in Trusted Execution Environments | Mohamed ElEmam | [Read More](https://medium.com/p/d766d2d4cc4d) |
+| Sun, 24 Aug 2025 07:58:40 GMT | Best Motherboard for Cyber Security | faizairfan | [Read More](https://medium.com/p/23c1c6473e0a) |
+| Sun, 24 Aug 2025 07:55:07 GMT | Shadow APIs: The Attack Surface That CISOs Don’t See | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c60ed255e2e9) |
+| Sun, 24 Aug 2025 07:48:02 GMT | TryHackMe - Avengers Blog - WriteUp | Axoloth | [Read More](https://medium.com/p/c25c151baeb3) |
+| Sun, 24 Aug 2025 07:39:04 GMT | From 403 to Foothold: Creative Ways Attackers Turn “Forbidden” into Access | Narendar Battula (nArEn) | [Read More](https://medium.com/p/bb68633318e8) |
 | Sun, 24 Aug 2025 07:34:33 GMT | Perfecting the Art of Google Dorking: A Complete Guide | Spectat0rguy | [Read More](https://medium.com/p/caceda392c26) |
 | Sun, 24 Aug 2025 07:27:47 GMT | Commitment Issues - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/76979f2b63d0) |
 | Sun, 24 Aug 2025 07:27:35 GMT | Why You Should Care About URL Trackers and How to Remove Them | Victory | [Read More](https://medium.com/p/8cc54506c51d) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 22:06:02 GMT | Fractional Core: When Math Becomes Secret Code | Lev Goukassian | [Read More](https://medium.com/p/887fb51da60e) |
 | Sat, 23 Aug 2025 22:03:08 GMT | Cat Reloaded 2025 CTF - Innocent Note challenge | 0xStrawHat | [Read More](https://medium.com/p/ea458b48ce7d) |
 | Sat, 23 Aug 2025 21:44:28 GMT | eCPPTv3: Second Time’s the Charm | Mayank Garg | [Read More](https://medium.com/p/a7ceabc843d6) |
-| Sat, 23 Aug 2025 21:42:53 GMT | How I Found 5 Logic Flaws on One Main Domain | Ibtissam hammadi | [Read More](https://medium.com/p/a67a0ccd23c0) |
-| Sat, 23 Aug 2025 21:28:33 GMT | AI is Already Making Decisions for You: Do You Know Which Ones? | Njideka Johnson | [Read More](https://medium.com/p/0544ee74b442) |
-| Sat, 23 Aug 2025 21:27:41 GMT | My Search for Meaning Led to a System for Us. | Greg Reynolds | [Read More](https://medium.com/p/ccf90af9d7d4) |
-| Sat, 23 Aug 2025 21:27:37 GMT | P1 稽核報告/ P1 Audit Report/ Rapport d’audit P1 | BoLiang Lin | [Read More](https://medium.com/p/102648e0e0ea) |
-| Sat, 23 Aug 2025 21:27:21 GMT | Hack The Box: NeoVault Challenge Write-Up | Elvinasadov | [Read More](https://medium.com/p/fceb371807b4) |
-| Sat, 23 Aug 2025 21:22:12 GMT | The Magical Human Glass | Prix☆ | [Read More](https://medium.com/p/f6c9b39bd773) |
-| Sat, 23 Aug 2025 20:58:16 GMT | IBM Cybersecurity Analyst Professional Certificate | Franklin Rhodes | [Read More](https://medium.com/p/f86cacfeaf37) |
-| Sat, 23 Aug 2025 20:53:38 GMT | How to Deploy Wazuh Agent on Windows 11 Virtual Machine | Raynard Waits | [Read More](https://medium.com/p/f4ec762f7b4a) |
-| Sat, 23 Aug 2025 20:51:31 GMT | iOS 18.6.2: The Surprise Update That Could Save Your iPhone From Hackers | Ravi | [Read More](https://medium.com/p/f2177cf24edc) |
-| Sat, 23 Aug 2025 20:41:31 GMT | UEBA Integrations: Advanced Threat Hunting with SIEM and SOAR Platforms | Esra Kayhan | [Read More](https://medium.com/p/3bc2238c1ab1) |
-| Sat, 23 Aug 2025 20:41:00 GMT | How to Watch US Netflix Anywhere in 2025 [Step-by-Step Guide] | Bagosi Csaba | [Read More](https://medium.com/p/fe755b216875) |
-| Sat, 23 Aug 2025 20:38:11 GMT | I’m sorry – for feeling. | Brian Can Help! | [Read More](https://medium.com/p/3f94a14ef881) |
-| Sat, 23 Aug 2025 20:36:46 GMT | How I Used Python to Automate OSINT Investigations | Aj | [Read More](https://medium.com/p/b78a16750b3b) |
