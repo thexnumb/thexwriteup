@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 11:27:28 GMT | “XBOW AI: Breaking Code, Breaking Records” | Sagarchhetri | [Read More](https://medium.com/p/d37a9da3aed5) |
+| Sun, 24 Aug 2025 11:21:12 GMT | Computer Networking for Humans | Nathaniel Elle Angeles | [Read More](https://medium.com/p/8b89b05b7d82) |
+| Sun, 24 Aug 2025 11:18:01 GMT | DockerLabs Writeup — galeria (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d91f9b328b00) |
+| Sun, 24 Aug 2025 11:17:05 GMT | Senior Living Communities Gain A Competitive Edge with Groove’s New Triple Win Bundle | Emma Lyons | [Read More](https://medium.com/p/ee1e381b372e) |
 | Sun, 24 Aug 2025 11:15:09 GMT | Junior v/s Senior Devs : 5 Habits that draw the line | The Dev Notebook | [Read More](https://medium.com/p/ceeb44364ccc) |
+| Sun, 24 Aug 2025 11:13:51 GMT | Digital Signature: Strengthening Security in E-Invoicing | Bishal Pandey | [Read More](https://medium.com/p/bab0e68c3166) |
 | Sun, 24 Aug 2025 11:12:07 GMT | React Security Guide: From XSS Prevention to Secure API Communication | Logan Lee | [Read More](https://medium.com/p/db8677ed5c7f) |
 | Sun, 24 Aug 2025 11:10:32 GMT | DNS Demystified: The Internet’s Invisible Phonebook | Ultra-Defense-Academy | [Read More](https://medium.com/p/6b4a3556984b) |
 | Sun, 24 Aug 2025 10:58:06 GMT | Quantum Revolution for Everyone (Book Chapters) | Platon Matveyev | [Read More](https://medium.com/p/af14a2dce94d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 06:14:03 GMT | Sessions Made Simple: Why the Web Needed Memory | Tslnreddy | [Read More](https://medium.com/p/c5a037e6c962) |
 | Sun, 24 Aug 2025 06:04:47 GMT | Why AI-Powered Attacks Make Linux Hardening More Urgent Than Ever | Faruk Ahmed | [Read More](https://medium.com/p/a816ced453b9) |
 | Sun, 24 Aug 2025 06:03:03 GMT | Best laptops under $500: 5 budget-friendly picks you’ll love | Tech News | [Read More](https://medium.com/p/a3f1df97b9ee) |
-| Sun, 24 Aug 2025 06:00:44 GMT | Today’s Top Cyber Intelligence Highlights — Aug 24, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0176ce8551d8) |
-| Sun, 24 Aug 2025 05:53:33 GMT | Improper Access Control (CWE-284): The Pentester’s Guide to Breaking Authorization in Web… | YoungerSibling | [Read More](https://medium.com/p/c99adb33a286) |
-| Sun, 24 Aug 2025 05:52:52 GMT | # Streaming Device App: Transform Your TV Experience | Streamer Device | [Read More](https://medium.com/p/28bb28e48481) |
-| Sun, 24 Aug 2025 05:36:53 GMT | Master CISSP Exam 2025: The Ultimate Guide to Becoming a Certified Information Systems Security… | Daywalkernyc | [Read More](https://medium.com/p/7ab8193c6469) |
-| Sun, 24 Aug 2025 05:36:10 GMT | A Botnet Buster — and What It Means for All of Us | Dhruvdeep Singh | [Read More](https://medium.com/p/1305bd6d4f35) |
