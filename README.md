@@ -12,11 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 07:12:36 GMT | Top 10 CyberSecurity Interview Questions? with Answers (2025) | Manisha Chaudhary | [Read More](https://medium.com/p/e60cc02ccfd9) |
+| Sun, 24 Aug 2025 07:12:03 GMT | Day 8:- Exploring AWS Infrastructure & Why It Leads the Cloud! | Prutha_Dongre | [Read More](https://medium.com/p/b51dbdc2b444) |
+| Sun, 24 Aug 2025 07:07:39 GMT | GeoServer Exploits and Increasing Cybercrime Campaigns | Cyber Fortress | [Read More](https://medium.com/p/0325095af5da) |
+| Sun, 24 Aug 2025 07:07:00 GMT | No WGET, No XXD, No Problem: How I Exfiltrated Binaries from a Locked-Down Industrial Embedded… | Marcel Rick-Cen | [Read More](https://medium.com/p/8231a2758598) |
+| Sun, 24 Aug 2025 07:01:21 GMT | endianness - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/e6fa1204df4c) |
+| Sun, 24 Aug 2025 06:53:04 GMT | Ransomware as a Service (RaaS) | Jithesh | [Read More](https://medium.com/p/e26207c55400) |
 | Sun, 24 Aug 2025 06:47:31 GMT | Bug Bounty: Subdomain Takeover: Cómo detectar y explotar subdominios huérfanos | Gorka | [Read More](https://medium.com/p/722d1af41e8e) |
 | Sun, 24 Aug 2025 06:47:28 GMT | How to Access the Dark Web Safely and Secure Your Device from Hackers (Ethical Tutorial) | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/9d1873efa898) |
 | Sun, 24 Aug 2025 06:45:07 GMT | Recon Roulette: Spinning Old Subdomains into a Fresh Critical Takeover | Iski | [Read More](https://medium.com/p/47dab541e5b6) |
 | Sun, 24 Aug 2025 06:42:55 GMT | “My Burp Suite Pro Playbook: Hacking APIs & Hijacking Sessions for Bounties” | Aman Sharma | [Read More](https://medium.com/p/33b68c59f6cd) |
 | Sun, 24 Aug 2025 06:40:13 GMT | Is Cyber Security a Good Career? A Complete Guide for 2025 | Evelyn | [Read More](https://medium.com/p/35af7d731df4) |
+| Sun, 24 Aug 2025 06:38:25 GMT | Russian attack on a Norwegian hydroelectric power plant | Patrik Žák | [Read More](https://medium.com/p/27eabff8a64f) |
 | Sun, 24 Aug 2025 06:33:37 GMT | ElasticCase Lab — CyberDefenders Lab - Walkthrough | Michael Angelo Padua | [Read More](https://medium.com/p/161c437335ec) |
 | Sun, 24 Aug 2025 06:32:25 GMT | 5 Daily-Needs Gadgets from Amazon That Make Life Easier | tech & all that | [Read More](https://medium.com/p/6a0394cbd6cc) |
 | Sun, 24 Aug 2025 06:30:28 GMT | I Bought My Own Data on the Dark Web for $4. Here’s What I Found | Sofia | [Read More](https://medium.com/p/77da56357d5e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 20:25:36 GMT | DeepFind.Me: Powerful Resource For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/220ba27bfb08) |
 | Sat, 23 Aug 2025 20:25:11 GMT | Passwords Are Dying: What Hackers Already Know About You | Shahzaib | [Read More](https://medium.com/p/1110f214dab1) |
 | Sat, 23 Aug 2025 20:24:57 GMT | OSINT Deep Dive into Two Chinese Citizens Caught Drone Flying at Malaysia’s Defence Ministry | Jacque Rainey | [Read More](https://medium.com/p/6ed8cd12d027) |
-| Sat, 23 Aug 2025 20:24:41 GMT | Major Challenges for Healthcare CISOs | Satyam Pathania | [Read More](https://medium.com/p/418cef5d593e) |
-| Sat, 23 Aug 2025 20:20:13 GMT | Breaking the Chain: How Defender for Cloud’s Attack Path Analysis Stops Real Attacks | Dikshant Lather | [Read More](https://medium.com/p/b1af36f7d2f3) |
-| Sat, 23 Aug 2025 20:06:48 GMT | Insuredlifeinvest.Ltd Crypto Scam: How I Nearly Lost Everything | Editor | [Read More](https://medium.com/p/89cb1b8fec75) |
-| Sat, 23 Aug 2025 19:59:11 GMT | Coingainars.com Scam Exposed: The Truth About This Fake Crypto Platform | Editor | [Read More](https://medium.com/p/cfd580b98842) |
-| Sat, 23 Aug 2025 19:53:19 GMT | Hacking My Way Out: From Midnight Bundles in Ghana to the Dark Web | Cybernerddd | [Read More](https://medium.com/p/ff38d08af0c3) |
-| Sat, 23 Aug 2025 19:52:52 GMT | Ransomware Attacks: When Your Data Gets Held Hostage | Sparshika | [Read More](https://medium.com/p/561415f4c32f) |
-| Sat, 23 Aug 2025 19:52:51 GMT | Ustradin.com Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Editor | [Read More](https://medium.com/p/6aeae3bc7a50) |
