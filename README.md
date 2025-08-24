@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 01:40:20 GMT | Accessing Employee GitHub SSH Key | SIDDHANT SHUKLA | [Read More](https://medium.com/p/4e125faba413) |
+| Sun, 24 Aug 2025 01:29:21 GMT | The Power of Self-Irony | Boris (Bruce) Kriger | [Read More](https://medium.com/p/59af7ef6f64c) |
+| Sun, 24 Aug 2025 01:27:21 GMT | Web Application Basics - THM | Isiah | [Read More](https://medium.com/p/d573c9b40c87) |
+| Sun, 24 Aug 2025 01:18:59 GMT | 2027 is The Year Quantum Computing Kills Digital Privacy Forever | Nichole Higgins | [Read More](https://medium.com/p/1194bd71e518) |
+| Sun, 24 Aug 2025 01:13:52 GMT | sytnergroupkja.cc Crypto Scam: How I Nearly Lost Everything | Editor | [Read More](https://medium.com/p/02c49b91bbdf) |
+| Sun, 24 Aug 2025 01:12:50 GMT | Analyzing Cryptography That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/6b97bd31bec2) |
+| Sun, 24 Aug 2025 01:11:13 GMT | Simplechange.net Scam Exposed: The Truth About This Fake Crypto Platform | Editor | [Read More](https://medium.com/p/1a6921eaf4b6) |
+| Sun, 24 Aug 2025 01:11:05 GMT | Analyzing Cryptography That Drive Innovation | Cyber Security Research | [Read More](https://medium.com/p/01aa26bfb6d0) |
+| Sun, 24 Aug 2025 01:09:21 GMT | Analyzing Cryptography Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/c08c48d8c324) |
+| Sun, 24 Aug 2025 01:09:03 GMT | Insuredlifeinvest.Ltd Crypto Scam: How I Lost Funds to a Fake AI Trading Platform | Editor | [Read More](https://medium.com/p/bdaf767e946a) |
+| Sun, 24 Aug 2025 01:07:27 GMT | Analyzing Cloud Security with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/71dd47c613a0) |
+| Sat, 23 Aug 2025 23:42:37 GMT | Smol - Tryhackme Walkthrough | Aydan | [Read More](https://medium.com/p/26973d381402) |
 | Sat, 23 Aug 2025 23:25:23 GMT | PG Practice — Squid (Windows) | Lepton | [Read More](https://medium.com/p/f4a7c6f5ffbc) |
 | Sat, 23 Aug 2025 23:25:10 GMT | PG Practice — Algernon (Windows) | Lepton | [Read More](https://medium.com/p/5a7f6e40c09b) |
 | Sat, 23 Aug 2025 23:24:57 GMT | PG Practice — Flu (Linux) | Lepton | [Read More](https://medium.com/p/ce7aa409b2b6) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 16:30:50 GMT | All About Bypassing The Login Panel | Soham Dalal | [Read More](https://medium.com/p/b07d5552044c) |
 | Sat, 23 Aug 2025 16:28:30 GMT | The Invisible Shield: Rethinking Cloud Security in 2025 | VedantiVerma | [Read More](https://medium.com/p/1cfc05b87eb2) |
 | Sat, 23 Aug 2025 16:24:55 GMT | PHANTOM Protocol technique | Lord Murak | [Read More](https://medium.com/p/fd4fbd25996d) |
-| Sat, 23 Aug 2025 16:17:32 GMT | Your Everyday Superpower: Unlocking potential with technology | Yamini Naagar | [Read More](https://medium.com/p/30833f48de90) |
-| Sat, 23 Aug 2025 16:15:51 GMT | Cyber Snack Day -11 | Anwar_Nainar | [Read More](https://medium.com/p/78aab331c733) |
-| Sat, 23 Aug 2025 16:15:33 GMT | The Hacker That Never Sleeps: How Agentic AI is Revolutionizing Cybercrime | Tina Sharma | [Read More](https://medium.com/p/14f5c1e5c888) |
-| Sat, 23 Aug 2025 16:12:31 GMT | Redefining Strength: A Man’s Journey Beyond the ‘Macho’ Stereotype | vydhi | [Read More](https://medium.com/p/d27679b39131) |
-| Sat, 23 Aug 2025 16:08:40 GMT | CSRF where token validation depends on token being present | Cybernerddd | [Read More](https://medium.com/p/7248e1fa2735) |
-| Sat, 23 Aug 2025 16:02:01 GMT | Cryptocurrency Tracing and Recovery: Is It Possible to Retrieve Lost Funds? | Maraiaisabelunu | [Read More](https://medium.com/p/5a80a013516e) |
-| Sat, 23 Aug 2025 16:00:34 GMT | Integrate CATO Networks With Microsoft Sentinel | Akila Perera | [Read More](https://medium.com/p/d3958f5df8d1) |
-| Sat, 23 Aug 2025 16:00:09 GMT | Running a computer inside a computer | Marvel | [Read More](https://medium.com/p/f7659e3b63e3) |
-| Sat, 23 Aug 2025 15:59:18 GMT | Unlock Your iPhone Using Just Your Voice | Tsumit | [Read More](https://medium.com/p/8a15295dea65) |
-| Sat, 23 Aug 2025 15:56:03 GMT | What is Wazuh? Why Open-Source Security Analytics Matters | Mohammed Abbood | [Read More](https://medium.com/p/242a93d188d6) |
-| Sat, 23 Aug 2025 15:54:28 GMT | Trooper TryHackMe WalkThrough | Pavandeep Kaur | [Read More](https://medium.com/p/87d4d68f5f12) |
-| Sat, 23 Aug 2025 15:46:46 GMT | Optimizing IT Solutions for Business Efficiency | Parth Patel | [Read More](https://medium.com/p/eb8f803b6832) |
