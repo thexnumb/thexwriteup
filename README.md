@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 11:15:09 GMT | Junior v/s Senior Devs : 5 Habits that draw the line | The Dev Notebook | [Read More](https://medium.com/p/ceeb44364ccc) |
+| Sun, 24 Aug 2025 11:12:07 GMT | React Security Guide: From XSS Prevention to Secure API Communication | Logan Lee | [Read More](https://medium.com/p/db8677ed5c7f) |
+| Sun, 24 Aug 2025 11:10:32 GMT | DNS Demystified: The Internet’s Invisible Phonebook | Ultra-Defense-Academy | [Read More](https://medium.com/p/6b4a3556984b) |
+| Sun, 24 Aug 2025 10:58:06 GMT | Quantum Revolution for Everyone (Book Chapters) | Platon Matveyev | [Read More](https://medium.com/p/af14a2dce94d) |
+| Sun, 24 Aug 2025 10:57:54 GMT | Understanding Login Protocols: OIDC, OAuth2, SAML, and WebAuthn | Alireza Ghorbani | [Read More](https://medium.com/p/c1f1b733f3f7) |
+| Sun, 24 Aug 2025 10:54:40 GMT | CVE-2024–53494: SpringBootBlog Exposes Sensitive Components to Unauthenticated Users! | CVEHUB | [Read More](https://medium.com/p/be8f2037185d) |
+| Sun, 24 Aug 2025 10:53:14 GMT | Turning OWASP Juice Shop into a Full Pentesting Portfolio | Hacked By Himel | [Read More](https://medium.com/p/9d5aa3849a44) |
+| Sun, 24 Aug 2025 10:53:10 GMT | CVE-2024–50644: Authentication Bypass in zhisheng17 Blog Could Expose APIs! | CVEHUB | [Read More](https://medium.com/p/7f2779de2edf) |
+| Sun, 24 Aug 2025 10:47:56 GMT | Unauthorized Profile Update via Broken Authorization Token | Yaliyanto | [Read More](https://medium.com/p/a4e280fe91af) |
+| Sun, 24 Aug 2025 10:46:30 GMT | Week 3 of My 90-Day Challenge: Bug Bounty, CISSP, and the Other Side of the Table | Mike (sl0th0x87) | [Read More](https://medium.com/p/e7c0a8219a00) |
+| Sun, 24 Aug 2025 10:46:06 GMT | Inside the Sandbox: How a Modern Detection & OpSec Cyber Range Levels Up Purple Teams | Ultra-Defense-Academy | [Read More](https://medium.com/p/51a3ce10ede9) |
+| Sun, 24 Aug 2025 10:44:06 GMT | Sometimes I Don’t Want To Be Strong | Iqra Arshad | [Read More](https://medium.com/p/143bafa5b118) |
 | Sun, 24 Aug 2025 10:39:27 GMT | Uncovering the Hidden Story: Domain Analysis and Splunk Log Analysis | Balogun Ayomide | [Read More](https://medium.com/p/e7c5dbef44d9) |
 | Sun, 24 Aug 2025 10:33:23 GMT | Homoglyph Domain Scams: The Hidden Cyber Threat That Looks Real | NIkhil Kumar | [Read More](https://medium.com/p/80abd6dc9d02) |
 | Sun, 24 Aug 2025 10:31:38 GMT | Quantum Revolution for Everyone (Book Chapters) | Platon Matveyev | [Read More](https://medium.com/p/9ebd7429f8ec) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 05:52:52 GMT | # Streaming Device App: Transform Your TV Experience | Streamer Device | [Read More](https://medium.com/p/28bb28e48481) |
 | Sun, 24 Aug 2025 05:36:53 GMT | Master CISSP Exam 2025: The Ultimate Guide to Becoming a Certified Information Systems Security… | Daywalkernyc | [Read More](https://medium.com/p/7ab8193c6469) |
 | Sun, 24 Aug 2025 05:36:10 GMT | A Botnet Buster — and What It Means for All of Us | Dhruvdeep Singh | [Read More](https://medium.com/p/1305bd6d4f35) |
-| Sun, 24 Aug 2025 05:29:52 GMT | JackLangHack: When a Language Parameter Opens the Way to Attack on Booking.com | Neurabbit | [Read More](https://medium.com/p/b688dfe8d1b6) |
-| Sun, 24 Aug 2025 05:26:03 GMT | Phishing Attack Investigation Lab | Rishita Trivedi | [Read More](https://medium.com/p/b969ccc8ea79) |
-| Sun, 24 Aug 2025 05:25:44 GMT | Kali Linux Explained: Introduction, Features & How It Works | Ghafoor Memon | [Read More](https://medium.com/p/0b44423fedc1) |
-| Sun, 24 Aug 2025 05:19:04 GMT | Master VPN Security Like a Pro: Crack the CCNP SVPN Exam in 2025 | Daywalkernyc | [Read More](https://medium.com/p/47063f43edfa) |
-| Sun, 24 Aug 2025 05:17:25 GMT | Flash Coins & Fake Transactions: What You Need to Know | Dogixo | [Read More](https://medium.com/p/470677a2ee0b) |
-| Sun, 24 Aug 2025 05:16:31 GMT | Digital Trust Is Broken — And We’re All Pretending It’s Not | Recover Right | [Read More](https://medium.com/p/f3fc0176a70e) |
-| Sun, 24 Aug 2025 05:15:40 GMT | SOC146 — Phishing Mail Detected: Excel 4.0 Macros Walkthrough (Phishing Case) | Andrew Williams | [Read More](https://medium.com/p/647028b75006) |
-| Sun, 24 Aug 2025 05:14:58 GMT | How Scammers Fake Crypto Transactions in 2025 – What You Need to Know | Dogixo | [Read More](https://medium.com/p/22cd9f9956b0) |
-| Sun, 24 Aug 2025 05:05:46 GMT | Day 22: Cybersecurity — Guarding the Digital World | Code x Design by Pranav | [Read More](https://medium.com/p/7d52309611ae) |
-| Sun, 24 Aug 2025 05:04:44 GMT | Pass Fortinet NSE 7 — Public Cloud Security 7.2 Exam 2025 with Confidence | John Ray | [Read More](https://medium.com/p/e3ae6a36fb3e) |
-| Sun, 24 Aug 2025 05:02:23 GMT | 7. Understanding HTTP Requests: The Language of the Web | Abhijeet kumawat | [Read More](https://medium.com/p/167b4210b700) |
-| Sun, 24 Aug 2025 04:59:18 GMT | Is Your Password Really Safe? Let’s Talk About Bcrypt | Lutful Mahbub Mehedi | [Read More](https://medium.com/p/95fcfb2dc005) |
