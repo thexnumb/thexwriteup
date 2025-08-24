@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 13:25:05 GMT | Why You Should Keep Using Your Intel Mac in 2025? | Aslihan Akbiyik | [Read More](https://medium.com/p/b6a67c09d9fd) |
+| Sun, 24 Aug 2025 13:21:59 GMT | Instant Machine — Hack The Box | Zeenya | [Read More](https://medium.com/p/292dbe6fade5) |
+| Sun, 24 Aug 2025 13:12:41 GMT | Booking.com Exposed: Porn Ads, Broken Security, and the Malvertising Trap | Neurabbit | [Read More](https://medium.com/p/76ddbbd42d3c) |
 | Sun, 24 Aug 2025 13:07:29 GMT | 7 Realistic VAPT & Bug Bounty Triage Interview Questions (With Answers) Part 2 | CyberSenpai | [Read More](https://medium.com/p/9238b55f7af9) |
 | Sun, 24 Aug 2025 13:01:34 GMT | 在AI自動搜尋的時代還有自己找資料的意義嗎？（二） | Laurie Lu | [Read More](https://medium.com/p/7555b6c9f29c) |
 | Sun, 24 Aug 2025 12:54:47 GMT | BrunnerCTF 2025 Othello Villains pwn challenge | Zeyad Salah | [Read More](https://medium.com/p/3a4b7e213998) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 07:34:33 GMT | Perfecting the Art of Google Dorking: A Complete Guide | Spectat0rguy | [Read More](https://medium.com/p/caceda392c26) |
 | Sun, 24 Aug 2025 07:27:47 GMT | Commitment Issues - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/76979f2b63d0) |
 | Sun, 24 Aug 2025 07:27:35 GMT | Why You Should Care About URL Trackers and How to Remove Them | Victory | [Read More](https://medium.com/p/8cc54506c51d) |
-| Sun, 24 Aug 2025 07:26:50 GMT | API Keys in the Wild: How Attackers Hunt Secrets on GitHub in 2025 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5557488d062f) |
-| Sun, 24 Aug 2025 07:12:36 GMT | Top 10 CyberSecurity Interview Questions? with Answers (2025) | Manisha Chaudhary | [Read More](https://medium.com/p/e60cc02ccfd9) |
-| Sun, 24 Aug 2025 07:12:23 GMT | Race Condition Testing Made Simple for Bug Hunters & Pentesters | Arash Shahbazi | [Read More](https://medium.com/p/0eb1ac8a861c) |
