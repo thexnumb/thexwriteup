@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 10:39:27 GMT | Uncovering the Hidden Story: Domain Analysis and Splunk Log Analysis | Balogun Ayomide | [Read More](https://medium.com/p/e7c5dbef44d9) |
+| Sun, 24 Aug 2025 10:33:23 GMT | Homoglyph Domain Scams: The Hidden Cyber Threat That Looks Real | NIkhil Kumar | [Read More](https://medium.com/p/80abd6dc9d02) |
+| Sun, 24 Aug 2025 10:31:38 GMT | Quantum Revolution for Everyone (Book Chapters) | Platon Matveyev | [Read More](https://medium.com/p/9ebd7429f8ec) |
+| Sun, 24 Aug 2025 10:29:38 GMT | Building a Simple Crypto Clipper in Python (for Educational Purposes Only) | Vaibhav | [Read More](https://medium.com/p/d28bb3e43b44) |
+| Sun, 24 Aug 2025 10:25:22 GMT | [Walk-Through/Hints] Cap HTB | Hugh brown | [Read More](https://medium.com/p/01aea560fe6a) |
+| Sun, 24 Aug 2025 10:23:55 GMT | Inside the Cyber Hunter’s Arsenal: Mastering Splunk, ANY.RUN, and VirusTotal | Balogun Ayomide | [Read More](https://medium.com/p/f2f51f2e8a57) |
+| Sun, 24 Aug 2025 10:22:58 GMT | The Book That Taught Me Ethical Hacking and How I Practiced It Safely | Aj | [Read More](https://medium.com/p/ac564c7f87d3) |
+| Sun, 24 Aug 2025 10:15:25 GMT | Day 86: Advanced Persistent Threats | Nile Okomo | [Read More](https://medium.com/p/af01c6ae263b) |
+| Sun, 24 Aug 2025 10:14:51 GMT | MalBuster Walkthrough: Static PE Triage for Beginners | Furkanctiner | [Read More](https://medium.com/p/62b799db5aa7) |
 | Sun, 24 Aug 2025 10:05:53 GMT | Securing Docker Containers: Essential Practices | @rnab | [Read More](https://medium.com/p/c7110806bc35) |
 | Sun, 24 Aug 2025 10:01:46 GMT | The Dark Reality of Trading Scams — And How to Stay Safe | rkdnawab | [Read More](https://medium.com/p/233b5d06b20e) |
 | Sun, 24 Aug 2025 10:00:19 GMT | Analyzing Previously Identified Malicious Files in VirusTotal | Balogun Ayomide | [Read More](https://medium.com/p/5204880e747e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 05:04:44 GMT | Pass Fortinet NSE 7 — Public Cloud Security 7.2 Exam 2025 with Confidence | John Ray | [Read More](https://medium.com/p/e3ae6a36fb3e) |
 | Sun, 24 Aug 2025 05:02:23 GMT | 7. Understanding HTTP Requests: The Language of the Web | Abhijeet kumawat | [Read More](https://medium.com/p/167b4210b700) |
 | Sun, 24 Aug 2025 04:59:18 GMT | Is Your Password Really Safe? Let’s Talk About Bcrypt | Lutful Mahbub Mehedi | [Read More](https://medium.com/p/95fcfb2dc005) |
-| Sun, 24 Aug 2025 04:56:33 GMT | Your Cloud Data is Leaking (And You Might Not Even Know) | Aj | [Read More](https://medium.com/p/23a1d16ca24a) |
-| Sun, 24 Aug 2025 04:41:22 GMT | Learn Bug Bounty from Zero: A Step-by-Step Approach | Rashadul Islam | [Read More](https://medium.com/p/f1b241f4ed53) |
-| Sun, 24 Aug 2025 04:40:48 GMT | Code Review Grafana SSRF in Infinity Datasource Plugin | AbhirupKonwar | [Read More](https://medium.com/p/2b41d57432cc) |
-| Sun, 24 Aug 2025 04:10:36 GMT | Why Do We Gotta Struggle First Just to Be Taken Serious? | OFF TOPIC | [Read More](https://medium.com/p/8b24e5fb59ec) |
-| Sun, 24 Aug 2025 03:46:30 GMT | ️ WALKTHROUGH – BASIC PENTESTING CTF | Dheeraj Manoj | [Read More](https://medium.com/p/022adf896a40) |
-| Sun, 24 Aug 2025 03:42:50 GMT | The Quiet Tyranny of Being ‘Fine’: On the Freedom of Admitting You’re Not | vydhi | [Read More](https://medium.com/p/bbb92fa30179) |
-| Sun, 24 Aug 2025 03:31:42 GMT | Secrets lab - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/7e7af65ea593) |
-| Sun, 24 Aug 2025 03:31:34 GMT | 8 Kubernetes Security Mistakes That Cost You Millions | Hash Block | [Read More](https://medium.com/p/6135fdfa75f5) |
-| Sun, 24 Aug 2025 03:31:34 GMT | Advanced Encryption Standard | codingstreets | [Read More](https://medium.com/p/dd177f029243) |
