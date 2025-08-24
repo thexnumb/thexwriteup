@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 05:19:04 GMT | Master VPN Security Like a Pro: Crack the CCNP SVPN Exam in 2025 | Daywalkernyc | [Read More](https://medium.com/p/47063f43edfa) |
+| Sun, 24 Aug 2025 05:17:25 GMT | Flash Coins & Fake Transactions: What You Need to Know | Dogixo | [Read More](https://medium.com/p/470677a2ee0b) |
+| Sun, 24 Aug 2025 05:16:31 GMT | Digital Trust Is Broken — And We’re All Pretending It’s Not | Recover Right | [Read More](https://medium.com/p/f3fc0176a70e) |
+| Sun, 24 Aug 2025 05:15:40 GMT | SOC146 — Phishing Mail Detected: Excel 4.0 Macros Walkthrough (Phishing Case) | Andrew Williams | [Read More](https://medium.com/p/647028b75006) |
+| Sun, 24 Aug 2025 05:14:58 GMT | How Scammers Fake Crypto Transactions in 2025 – What You Need to Know | Dogixo | [Read More](https://medium.com/p/22cd9f9956b0) |
+| Sun, 24 Aug 2025 05:05:46 GMT | Day 22: Cybersecurity — Guarding the Digital World | Code x Design by Pranav | [Read More](https://medium.com/p/7d52309611ae) |
+| Sun, 24 Aug 2025 05:04:44 GMT | Pass Fortinet NSE 7 — Public Cloud Security 7.2 Exam 2025 with Confidence | John Ray | [Read More](https://medium.com/p/e3ae6a36fb3e) |
+| Sun, 24 Aug 2025 05:02:23 GMT | 7. Understanding HTTP Requests: The Language of the Web | Abhijeet kumawat | [Read More](https://medium.com/p/167b4210b700) |
+| Sun, 24 Aug 2025 04:59:18 GMT | Is Your Password Really Safe? Let’s Talk About Bcrypt | Lutful Mahbub Mehedi | [Read More](https://medium.com/p/95fcfb2dc005) |
+| Sun, 24 Aug 2025 04:56:33 GMT | Your Cloud Data is Leaking (And You Might Not Even Know) | Aj | [Read More](https://medium.com/p/23a1d16ca24a) |
+| Sun, 24 Aug 2025 04:41:22 GMT | Learn Bug Bounty from Zero: A Step-by-Step Approach | Rashadul Islam | [Read More](https://medium.com/p/f1b241f4ed53) |
+| Sun, 24 Aug 2025 04:40:48 GMT | Code Review Grafana SSRF in Infinity Datasource Plugin | AbhirupKonwar | [Read More](https://medium.com/p/2b41d57432cc) |
 | Sun, 24 Aug 2025 04:10:36 GMT | Why Do We Gotta Struggle First Just to Be Taken Serious? | OFF TOPIC | [Read More](https://medium.com/p/8b24e5fb59ec) |
 | Sun, 24 Aug 2025 03:46:30 GMT | ️ WALKTHROUGH – BASIC PENTESTING CTF | Dheeraj Manoj | [Read More](https://medium.com/p/022adf896a40) |
 | Sun, 24 Aug 2025 03:42:50 GMT | The Quiet Tyranny of Being ‘Fine’: On the Freedom of Admitting You’re Not | vydhi | [Read More](https://medium.com/p/bbb92fa30179) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 18:18:53 GMT | A Smarter Lock for a Smarter World: The Mobile-First Revolution in Access Control | Damian Griggs | [Read More](https://medium.com/p/c1178631c832) |
 | Sat, 23 Aug 2025 17:58:27 GMT | AI vs Hackers: Who Will Win the Cybersecurity War? | Sukhveer Singh | [Read More](https://medium.com/p/95834c17d795) |
 | Sat, 23 Aug 2025 17:57:50 GMT | The Exhaustion of Always Pretending to be “Okay”….. | Noorink | [Read More](https://medium.com/p/0a1d9ca52317) |
-| Sat, 23 Aug 2025 17:48:33 GMT | Sticker Shop - TryHackMe | Laach_ | [Read More](https://medium.com/p/9a64a0f4818f) |
-| Sat, 23 Aug 2025 17:45:21 GMT | DirectAdmin in 2025 — The Lightweight Alternative to cPanel and Plesk | Hugo Valters | [Read More](https://medium.com/p/480ad06de954) |
-| Sat, 23 Aug 2025 17:42:20 GMT | picoCTF: WebDecode | Ross Andrews | [Read More](https://medium.com/p/314ed5ee4dc9) |
-| Sat, 23 Aug 2025 17:41:32 GMT | Terraforming My Mind Before I Terraform the Cloud | HimanShunya | [Read More](https://medium.com/p/3198a3016cc8) |
-| Sat, 23 Aug 2025 17:32:56 GMT | Nyaman Belum Tentu Aman Tapi Aman Sudah Pasti Nyaman | Mohammad Bagas Prasetyo | [Read More](https://medium.com/p/e837e7709cae) |
-| Sat, 23 Aug 2025 17:30:42 GMT | Proving Grounds: Gaining Root on Crane | Mihail Pana | [Read More](https://medium.com/p/463612903c65) |
-| Sat, 23 Aug 2025 17:29:16 GMT | My Journey into Cybersecurity (Part 2): Exploring Cyberspace and Network Communication Systems | Lavanyara | [Read More](https://medium.com/p/32d6f6891691) |
-| Sat, 23 Aug 2025 17:24:39 GMT | Enhancing Cybersecurity with All-In-One Security (AIOS) -Security and Firewall | Enayetur Rahman | [Read More](https://medium.com/p/6541ab649a85) |
-| Sat, 23 Aug 2025 17:24:38 GMT | Free Isn’t Free: The Hidden Price of “Free” Downloads | Jasbir Singh | [Read More](https://medium.com/p/979621eedbda) |
-| Sat, 23 Aug 2025 17:22:29 GMT | Day 54 — Conquering OverTheWire Bandit Wargames | Jinay | [Read More](https://medium.com/p/eb9b3dbf2624) |
-| Sat, 23 Aug 2025 17:17:34 GMT | “Day 19: The Serialization Trap — When Data Becomes Code” | Aman Sharma | [Read More](https://medium.com/p/04d73ea2c7f7) |
-| Sat, 23 Aug 2025 17:17:11 GMT | Understanding Clickjacking: The Invisible UI Attack | Abhishek Bhujang | [Read More](https://medium.com/p/4cde7979c59f) |
