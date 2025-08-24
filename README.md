@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 18:41:24 GMT | Turning Agents Into “Sleeper” Agents: $118,500+ In Bounties via LLM Data Poisoning | Justas_b | [Read More](https://medium.com/p/92ddc95a50af) |
+| Sun, 24 Aug 2025 18:38:44 GMT | We All Do This on Social Media | Kiran B Nambiar | [Read More](https://medium.com/p/b3c54219bbde) |
+| Sun, 24 Aug 2025 18:35:31 GMT | How I Cracked CompTIA Security+ in Just 6 weeks. | parvatha | [Read More](https://medium.com/p/6e17b9d435b3) |
+| Sun, 24 Aug 2025 18:32:10 GMT | Quantum Computing: The Giant Leap in Technology | Abishekbalamurugan | [Read More](https://medium.com/p/a6c6133bbd46) |
+| Sun, 24 Aug 2025 18:31:38 GMT | HackTheBox - Querier | jniket | [Read More](https://medium.com/p/d74e11dd9930) |
+| Sun, 24 Aug 2025 18:31:32 GMT | Zero Trust — Never Trust, Always Verify | Roshinni Gandhi | [Read More](https://medium.com/p/cf6c409d6eb0) |
+| Sun, 24 Aug 2025 18:29:05 GMT | [CyberSec] Your Code Depends on Strangers | Pietro Romano / SecBeret | [Read More](https://medium.com/p/037e23539d01) |
+| Sun, 24 Aug 2025 18:22:26 GMT | SecKC-MHN-Globe by n0xa | JJ Gallego | [Read More](https://medium.com/p/d896f2a9036d) |
+| Sun, 24 Aug 2025 18:22:11 GMT | Agentic AI in Pentesting: Testing AutoSploit in a Real Engagement | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/86187548d55e) |
 | Sun, 24 Aug 2025 18:16:52 GMT | Why Security Experts Say to Ditch SMS 2FA (two-factor authentication) | Xanthi S | [Read More](https://medium.com/p/4a9782b55b3d) |
 | Sun, 24 Aug 2025 18:13:22 GMT | Zach’s Att@ck Series — Kerberoasting | VaRiOus_CanAriEs | [Read More](https://medium.com/p/ca698f61a2d1) |
 | Sun, 24 Aug 2025 18:10:32 GMT | The High-Stakes Game: Inside the World of Ransomware Negotiators | Aammir Mirza | [Read More](https://medium.com/p/fc883d1f8d97) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 13:28:03 GMT | How to Report and Take Down Fake Websites: A Step-by-Step Guide to Domain Abuse Takedowns | ThreatWatch360 | [Read More](https://medium.com/p/856b772401e6) |
 | Sun, 24 Aug 2025 13:25:05 GMT | Why You Should Keep Using Your Intel Mac in 2025? | Aslihan Akbiyik | [Read More](https://medium.com/p/b6a67c09d9fd) |
 | Sun, 24 Aug 2025 13:21:59 GMT | Instant Machine — Hack The Box | Zeenya | [Read More](https://medium.com/p/292dbe6fade5) |
-| Sun, 24 Aug 2025 13:12:41 GMT | Booking.com Exposed: Porn Ads, Broken Security, and the Malvertising Trap | Neurabbit | [Read More](https://medium.com/p/76ddbbd42d3c) |
-| Sun, 24 Aug 2025 13:07:29 GMT | 7 Realistic VAPT & Bug Bounty Triage Interview Questions (With Answers) Part 2 | CyberSenpai | [Read More](https://medium.com/p/9238b55f7af9) |
-| Sun, 24 Aug 2025 13:01:34 GMT | 在AI自動搜尋的時代還有自己找資料的意義嗎？（二） | Laurie Lu | [Read More](https://medium.com/p/7555b6c9f29c) |
-| Sun, 24 Aug 2025 12:54:47 GMT | BrunnerCTF 2025 Othello Villains pwn challenge | Zeyad Salah | [Read More](https://medium.com/p/3a4b7e213998) |
-| Sun, 24 Aug 2025 12:53:24 GMT | BrunnerCTF 2025 Train Mania Osint challenge | Zeyad Salah | [Read More](https://medium.com/p/403f6e82c99b) |
-| Sun, 24 Aug 2025 12:48:18 GMT | BrunnerCTF 2025 trippa troppa sus reverse challenge | Zeyad Salah | [Read More](https://medium.com/p/ba8f9f90d18d) |
-| Sun, 24 Aug 2025 12:44:57 GMT | OSCP Preparation: TJNULL List — Kioptrix Level 1.2 Walkthrough | Pramod Srinivasa | [Read More](https://medium.com/p/50a53e048b0a) |
-| Sun, 24 Aug 2025 12:40:59 GMT | “VPN Truth: Are You Secure Online or a Target for Data Selling?” | Tarush Sharma | [Read More](https://medium.com/p/07a044a84087) |
-| Sun, 24 Aug 2025 12:40:42 GMT | Business Technology News: What’s In Microsoft Copilot’s GPT-5 Upgrade? | Gene Marks | [Read More](https://medium.com/p/320dae3e6dec) |
