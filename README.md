@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 15:11:37 GMT | AI-Powered Cybersecurity: The Silent War Machine Behind Modern Defense | CapitalCoin | [Read More](https://medium.com/p/d819b30a2de4) |
+| Sun, 24 Aug 2025 15:11:22 GMT | From nought to UEFI | Denaxure | [Read More](https://medium.com/p/790d4722e029) |
+| Sun, 24 Aug 2025 15:09:40 GMT | Choosing the Right SAST Tool: A Practical Guide for Developers | Aamir Sk | [Read More](https://medium.com/p/513ff90aaf80) |
+| Sun, 24 Aug 2025 15:07:34 GMT | Easy-to-Automate Exploits for Bug Bounty Hunters | Nitin yadav | [Read More](https://medium.com/p/f7d774bcfd2b) |
+| Sun, 24 Aug 2025 14:53:18 GMT | DIVA APK Mobile Penetration Testing | Kausikdey | [Read More](https://medium.com/p/92922c83a266) |
+| Sun, 24 Aug 2025 14:50:51 GMT | Agent Sudo TryHackMe | Meena A | [Read More](https://medium.com/p/e37ae8405617) |
+| Sun, 24 Aug 2025 14:44:54 GMT | TryHackMe-Olympus Writeup | alda69 | [Read More](https://medium.com/p/6cf0a101bffb) |
+| Sun, 24 Aug 2025 14:42:50 GMT | Finding Needle in The Haystack : How a Forgotten Subdomain Led to Complete AWS Infrastructure… | Akash Singh | [Read More](https://medium.com/p/328571e88496) |
+| Sun, 24 Aug 2025 14:38:55 GMT | Top 5 WhatsApp Spy Apps That Work | Narjis Batool | [Read More](https://medium.com/p/e01ef38c522d) |
 | Sun, 24 Aug 2025 14:30:47 GMT | Complexity in Cybersecurity — and how to handle it | Sebastian Kandler | [Read More](https://medium.com/p/f373b1976c39) |
 | Sun, 24 Aug 2025 14:26:28 GMT | A Fortified Warning Vision Relying on Iris Recognition Could Spark a Surge in Hackers’ Ambitions | Momen Ghazouani | [Read More](https://medium.com/p/38a3b6041215) |
 | Sun, 24 Aug 2025 14:25:42 GMT | From Fiverr to Your Hard Drive: How Malware Travels Through Client Projects | Azuren | [Read More](https://medium.com/p/04d5744c9b38) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 09:16:23 GMT | Exploiting Race Conditions: Breaking Quotas Beyond Limits | okBoss | [Read More](https://medium.com/p/39c37c27d1a4) |
 | Sun, 24 Aug 2025 09:07:31 GMT | How I Lost a $600 Gig: Trials of being a Global Worker | Onukwue Eunice | [Read More](https://medium.com/p/07ae7d14cad5) |
 | Sun, 24 Aug 2025 09:04:09 GMT | Cross-Site Request Forgery (CSRF) Prevention in React.js | Pentest_Testing_Corp | [Read More](https://medium.com/p/04f7b5c44e61) |
-| Sun, 24 Aug 2025 08:57:17 GMT | Orange Bleeds Data: Should You Panic Now? | Truspex | [Read More](https://medium.com/p/260a3a89dc47) |
-| Sun, 24 Aug 2025 08:56:15 GMT | Trust no thumbnail: How a single image can compromise Apple devices (CVE-2025–43300) | iampetru | [Read More](https://medium.com/p/37d9b6f123c8) |
-| Sun, 24 Aug 2025 08:51:35 GMT | Friend’s Insta Hacked? What to Do *Now*. | Authlyn | [Read More](https://medium.com/p/13a98aa7e7ac) |
-| Sun, 24 Aug 2025 08:50:32 GMT | You’re Not as Anonymous as You Think Online. Here’s a 60-Second Security Checkup. | ROOT91.NET | [Read More](https://medium.com/p/c40ba3bc0918) |
-| Sun, 24 Aug 2025 08:47:58 GMT | Tradeprohub.com Scam Review: How I Recovered From a Fake AI Trading Platform | Editor | [Read More](https://medium.com/p/73dbf5e8fc33) |
-| Sun, 24 Aug 2025 08:46:08 GMT | Best Practices for PromptOps with ChatGPT-5: How Versioned Prompts Saved My CI/CD Pipeline | AbdulRahman Mostafa | [Read More](https://medium.com/p/3fa0c0101430) |
-| Sun, 24 Aug 2025 08:45:29 GMT | Solutioning to AI hidden dangers: How prompt injection attacks are hijacking AI systems and… | Shailesh Kumar Mishra | [Read More](https://medium.com/p/608c9aab68b8) |
-| Sun, 24 Aug 2025 08:44:37 GMT | Whispers in the Dark: Where Do Secrets Go? | IyakSaCR | [Read More](https://medium.com/p/4629c2252a4c) |
-| Sun, 24 Aug 2025 08:42:39 GMT | So, You Wanna Write Malware? Read This First. | CtrlC3 | [Read More](https://medium.com/p/a93853665b10) |
