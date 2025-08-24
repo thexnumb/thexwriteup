@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 15:31:33 GMT | JWTs Are Not Session Tokens — Please Stop | Nikulsinh Rajput | [Read More](https://medium.com/p/701ce38e6cf7) |
+| Sun, 24 Aug 2025 15:25:25 GMT | AI: Shaping the Future of Innovation and Security | Jiyao Weng | [Read More](https://medium.com/p/a3eb49e352ca) |
+| Sun, 24 Aug 2025 15:24:49 GMT | WinRAR Path Traversal 0-Day (CVE-2025–8088): PoC  ve Güvenlik Analizi Raporu | Sergen can | [Read More](https://medium.com/p/62b0e8159bc1) |
+| Sun, 24 Aug 2025 15:23:32 GMT | OWASP Top 10… Wait, There’s an 11th? | Yash Bhingarde | [Read More](https://medium.com/p/eea244dfcd72) |
+| Sun, 24 Aug 2025 15:23:15 GMT | The Unconditional Human: Deconstructing Personhood in the Age of AI and The Cognitive Fallacy. | Berend Watchus | [Read More](https://medium.com/p/96b77a1b433e) |
+| Sun, 24 Aug 2025 15:16:49 GMT | What is OT Security? | ThatOTSecurityGuy | [Read More](https://medium.com/p/ec1bb7def649) |
 | Sun, 24 Aug 2025 15:11:37 GMT | AI-Powered Cybersecurity: The Silent War Machine Behind Modern Defense | CapitalCoin | [Read More](https://medium.com/p/d819b30a2de4) |
 | Sun, 24 Aug 2025 15:11:22 GMT | From nought to UEFI | Denaxure | [Read More](https://medium.com/p/790d4722e029) |
 | Sun, 24 Aug 2025 15:09:40 GMT | Choosing the Right SAST Tool: A Practical Guide for Developers | Aamir Sk | [Read More](https://medium.com/p/513ff90aaf80) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 09:29:59 GMT | Analyzing Cryptography and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/df12feea2560) |
 | Sun, 24 Aug 2025 09:28:42 GMT | Analyzing Cryptography and Emerging Threats | Cyber Security Research | [Read More](https://medium.com/p/24dbda16a922) |
 | Sun, 24 Aug 2025 09:28:04 GMT | What is a Hacker? | Atakan Bitim | [Read More](https://medium.com/p/c69cd1a8b4a9) |
-| Sun, 24 Aug 2025 09:27:59 GMT | Hacker Nedir? | Atakan Bitim | [Read More](https://medium.com/p/1974a5213aee) |
-| Sun, 24 Aug 2025 09:24:03 GMT | Preventing Unauthorized Access with Simple Database Design | Kwabena Nyarko Obiri Ahimah | [Read More](https://medium.com/p/17dbc427f38d) |
-| Sun, 24 Aug 2025 09:19:25 GMT | How I Passed the Google Cloud Professional Cloud Security Engineer Exam | KISHORERAM | [Read More](https://medium.com/p/4ee9938ebd2d) |
-| Sun, 24 Aug 2025 09:16:23 GMT | Exploiting Race Conditions: Breaking Quotas Beyond Limits | okBoss | [Read More](https://medium.com/p/39c37c27d1a4) |
-| Sun, 24 Aug 2025 09:07:31 GMT | How I Lost a $600 Gig: Trials of being a Global Worker | Onukwue Eunice | [Read More](https://medium.com/p/07ae7d14cad5) |
-| Sun, 24 Aug 2025 09:04:09 GMT | Cross-Site Request Forgery (CSRF) Prevention in React.js | Pentest_Testing_Corp | [Read More](https://medium.com/p/04f7b5c44e61) |
