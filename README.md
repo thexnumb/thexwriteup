@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 19:29:37 GMT | Why Visible Mall Security Guards Enhance Shopper Confidence | Nimra Sheikh | [Read More](https://medium.com/p/5ca6e7f10d5c) |
+| Sun, 24 Aug 2025 19:29:24 GMT | Forget Deepfaking Politicians. AI Can Deepfake Your Boss on a Live Video Call. | Berker Ceylan | [Read More](https://medium.com/p/a31b0fcfe65f) |
+| Sun, 24 Aug 2025 19:28:38 GMT | Essential Mall Security Techniques Every Mall Owner Should Know | Nimra Sheikh | [Read More](https://medium.com/p/571eb1d9e738) |
+| Sun, 24 Aug 2025 19:25:41 GMT | Best Practices to Stop Organized Retail Crime in Malls | Nimra Sheikh | [Read More](https://medium.com/p/f3104fa56e00) |
+| Sun, 24 Aug 2025 19:20:09 GMT | From a Phone Number Tweak to Total Account Takeover
+ How an RFC 3966-compliant phone number… | horamah | [Read More](https://medium.com/p/156be00dff95) |
+| Sun, 24 Aug 2025 19:18:52 GMT | Log Analysis with SIEM | Josh Pointer | [Read More](https://medium.com/p/259e691e6daa) |
+| Sun, 24 Aug 2025 19:17:14 GMT | Bandit 0–5 Walkthrough: Your First Steps Into Ethical Hacking | Soham_Jadhav | [Read More](https://medium.com/p/39e0f96ba56b) |
 | Sun, 24 Aug 2025 19:04:23 GMT | Let’s create a Secure Remote Management Tool to assist our company in handling their IT challenges | Yvonda Davis | [Read More](https://medium.com/p/27fddafae068) |
 | Sun, 24 Aug 2025 19:01:31 GMT | Lo que aprendí hackeando la NASA (y lo que significa realmente ser hacker) | Gorka | [Read More](https://medium.com/p/e4e5b390e570) |
 | Sun, 24 Aug 2025 19:00:48 GMT | Your Email Is Already Leaked: Why Disposable Emails Are Essential in 2025 | Shihabsikder | [Read More](https://medium.com/p/fad6cb2f6283) |
@@ -105,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 14:24:20 GMT | Reverse Engineering: BrunnerCTF 2025- Trippi Troppa Chaos | Rana chouchane - QU33NR | [Read More](https://medium.com/p/32c4c2cf0b96) |
 | Sun, 24 Aug 2025 14:23:59 GMT | PORTSWIGGER APPRENTICE Small and Easy WALKTHROUGH | The Commoness | [Read More](https://medium.com/p/0e8dd22ef6ae) |
 | Sun, 24 Aug 2025 14:23:31 GMT | MISC: BrunnerCTF 2025 — The Yeast Key | Rana chouchane - QU33NR | [Read More](https://medium.com/p/10585f6ea493) |
-| Sun, 24 Aug 2025 14:23:11 GMT | Unveiling the Shadows: A Remote Code Execution Vulnerability Report to Bytedance. Ignored. | RABIU | [Read More](https://medium.com/p/b95a016aa032) |
-| Sun, 24 Aug 2025 14:08:30 GMT | Telcos Are Leading the AI Charge — And Seizing a Once-in-a-Generation Opportunity | martino.agostini | [Read More](https://medium.com/p/ebe0dbf32f72) |
-| Sun, 24 Aug 2025 14:07:32 GMT | How to Fix 404 Not Found In Spring Boot, Step by Step | Jagriti Srivastava | [Read More](https://medium.com/p/66358c26dc48) |
-| Sun, 24 Aug 2025 14:03:36 GMT | On-Prem vs. Cloud: Why 2 and 5 Reserved IPs | Siddhant Rangra | [Read More](https://medium.com/p/4eaeabb1b37d) |
-| Sun, 24 Aug 2025 14:02:21 GMT | Dotwhat..? (User)-BrunnerCTF 2025 | SilentHex | [Read More](https://medium.com/p/34bc446a2b2f) |
-| Sun, 24 Aug 2025 14:00:53 GMT | Breaking Guardrails: How I Jailbroke a Chatbot Built on Gemini API | Ali Zamini | [Read More](https://medium.com/p/8f31f094da92) |
-| Sun, 24 Aug 2025 13:57:45 GMT | High School and Middle School Volunteer Opportunities | Savvy Cyber Kids | [Read More](https://medium.com/p/e90971030179) |
