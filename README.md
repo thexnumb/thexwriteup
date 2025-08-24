@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 06:16:45 GMT | Cybersecurity Basics for Beginners: Did That Really Happen, or Was It AI? | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/38e52c9093ef) |
+| Sun, 24 Aug 2025 06:14:03 GMT | Sessions Made Simple: Why the Web Needed Memory | Tslnreddy | [Read More](https://medium.com/p/c5a037e6c962) |
+| Sun, 24 Aug 2025 06:04:47 GMT | Why AI-Powered Attacks Make Linux Hardening More Urgent Than Ever | Faruk Ahmed | [Read More](https://medium.com/p/a816ced453b9) |
+| Sun, 24 Aug 2025 06:03:03 GMT | Best laptops under $500: 5 budget-friendly picks you’ll love | Tech News | [Read More](https://medium.com/p/a3f1df97b9ee) |
+| Sun, 24 Aug 2025 06:00:44 GMT | Today’s Top Cyber Intelligence Highlights — Aug 24, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0176ce8551d8) |
+| Sun, 24 Aug 2025 05:53:33 GMT | Improper Access Control (CWE-284): The Pentester’s Guide to Breaking Authorization in Web… | YoungerSibling | [Read More](https://medium.com/p/c99adb33a286) |
+| Sun, 24 Aug 2025 05:52:52 GMT | # Streaming Device App: Transform Your TV Experience | Streamer Device | [Read More](https://medium.com/p/28bb28e48481) |
+| Sun, 24 Aug 2025 05:36:53 GMT | Master CISSP Exam 2025: The Ultimate Guide to Becoming a Certified Information Systems Security… | Daywalkernyc | [Read More](https://medium.com/p/7ab8193c6469) |
+| Sun, 24 Aug 2025 05:36:10 GMT | A Botnet Buster — and What It Means for All of Us | Dhruvdeep Singh | [Read More](https://medium.com/p/1305bd6d4f35) |
 | Sun, 24 Aug 2025 05:29:52 GMT | JackLangHack: When a Language Parameter Opens the Way to Attack on Booking.com | Neurabbit | [Read More](https://medium.com/p/b688dfe8d1b6) |
 | Sun, 24 Aug 2025 05:26:03 GMT | Phishing Attack Investigation Lab | Rishita Trivedi | [Read More](https://medium.com/p/b969ccc8ea79) |
 | Sun, 24 Aug 2025 05:25:44 GMT | Kali Linux Explained: Introduction, Features & How It Works | Ghafoor Memon | [Read More](https://medium.com/p/0b44423fedc1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 19:24:49 GMT | You Don’t Need a PhD in SQL to Use Your Own Telemetry | Umesh Sirsiwal | [Read More](https://medium.com/p/24ed38e168e7) |
 | Sat, 23 Aug 2025 19:08:40 GMT | Polyglot Files in Cybersecurity: A Double-Edged Sword | Samyakgoel | [Read More](https://medium.com/p/91a42960208f) |
 | Sat, 23 Aug 2025 19:07:13 GMT | Lure, Mislead, Learn: The Rise of Cyber Deception | Richard Dosumu | [Read More](https://medium.com/p/4eed233399ec) |
-| Sat, 23 Aug 2025 19:02:35 GMT | CAT CTF 2025 Web Walkthrough [Part1] | Sayed | [Read More](https://medium.com/p/372be023d48c) |
-| Sat, 23 Aug 2025 19:01:09 GMT | “My Interview Wake-Up Call: The Python Traps You Don’t See Until an Interview Exposes Them” | Nitin Jha | [Read More](https://medium.com/p/6406fad2ef60) |
-| Sat, 23 Aug 2025 18:57:30 GMT | The Rise of PAI3 Nodes: Powering the Future of Decentralised AI | Mestar | [Read More](https://medium.com/p/fa83bbbed780) |
-| Sat, 23 Aug 2025 18:53:11 GMT | Shellshock: The Bash Bug That Shook the Internet | Het Patel | [Read More](https://medium.com/p/4adbea238bad) |
-| Sat, 23 Aug 2025 18:47:09 GMT | Testing out PowerShell commands for the binding info of a network adapter, logged in users, and… | Tyrik Emptage | [Read More](https://medium.com/p/09e6723d794a) |
-| Sat, 23 Aug 2025 18:46:22 GMT | The Importance of Laravel Fortify in Modern Web Applications | Arthur Vinícius | [Read More](https://medium.com/p/e720093038e8) |
-| Sat, 23 Aug 2025 18:43:07 GMT | What Is Block Chain? | Viraj Gawas | [Read More](https://medium.com/p/f1c48070a85a) |
-| Sat, 23 Aug 2025 18:33:00 GMT | The Invisible War: How Hackers Target the World’s Biggest Events | Kaotip Tan (KT) | [Read More](https://medium.com/p/7ee6dc2365d5) |
-| Sat, 23 Aug 2025 18:22:19 GMT | Tea App Data Breach: Cybersecurity Lessons and Privacy Insights | Kudzai Kangwende | [Read More](https://medium.com/p/1dadda8ceee2) |
