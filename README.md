@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 23:29:32 GMT | AI project ideas for 2026 you’ll actually feel in real life | Jameel Starnes | [Read More](https://medium.com/p/5ab88ea83c3e) |
+| Sun, 24 Aug 2025 23:20:25 GMT | My Agile Journey: Lessons Learned Along the Way | Naveen Bandaru | [Read More](https://medium.com/p/c0a2510dc5e0) |
+| Sun, 24 Aug 2025 23:18:51 GMT | Hardening LLMs with MCP Context Protector | KrishKuchroo | [Read More](https://medium.com/p/2f6f74cd25b1) |
+| Sun, 24 Aug 2025 23:18:01 GMT | 5 Security Headers Every CyberSecurity Candidate Should Know for Job Interview | Mudassir Syed | [Read More](https://medium.com/p/af125095940a) |
 | Sun, 24 Aug 2025 23:11:53 GMT | When CTF Meets Bug Bounty: A Critical UXSS in Opera Browser | Renwa | [Read More](https://medium.com/p/ee16f389e555) |
+| Sun, 24 Aug 2025 23:10:49 GMT | Traditional L3/L4 vs Modern L7 App-ID Monitoring — Palo Alto Zero-Trust | Bill WANG | [Read More](https://medium.com/p/51cf3f209a05) |
 | Sun, 24 Aug 2025 23:01:35 GMT | TryHackMe — Traverse Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/d1a28a936744) |
 | Sun, 24 Aug 2025 22:56:27 GMT | Hands-On with Windows Server 2022: Setting Up Active Directory Domain (ADDS), OUs, Groups, and… | Antriksh Saini | [Read More](https://medium.com/p/eae658750d3a) |
 | Sun, 24 Aug 2025 22:39:48 GMT | My Journey into Cybersecurity: A Student’s Perspective | Mohanad Khaled | [Read More](https://medium.com/p/a10afaa41c0c) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 16:36:44 GMT | Securing cyberspace without mass surveillance | Hayat Outahar | [Read More](https://medium.com/p/55d2f5b516fb) |
 | Sun, 24 Aug 2025 16:35:54 GMT | How Security Guard Patrol for Shopping Centers Orlando Keeps Shoppers Safe | Onyx Protective Services | [Read More](https://medium.com/p/673d9184abea) |
 | Sun, 24 Aug 2025 16:33:58 GMT | Why Armed Retail Security Services Atlanta Are Essential for Your Store | Onyx Protective Services | [Read More](https://medium.com/p/11b2cc6b01aa) |
-| Sun, 24 Aug 2025 16:33:53 GMT | JWT from a Blue Team Perspective | Anas404 | [Read More](https://medium.com/p/5f9f3d05c9b3) |
-| Sun, 24 Aug 2025 16:32:41 GMT | Drosera: The Flytrap That Could Save DeFi From Exploits | Oxviktor | [Read More](https://medium.com/p/d6dca2b0dcd3) |
-| Sun, 24 Aug 2025 16:31:05 GMT | Do Hard Things if You Want an Easy Life: A Cybersecurity and Ethical Hacker’s Perspective | Vijay Kumar Gupta | [Read More](https://medium.com/p/8a9bad8b5e89) |
-| Sun, 24 Aug 2025 16:20:39 GMT | A “Featured” Free Chrome VPN Was Quietly Taking Screenshots and Tracking Users: What Happened and… | cybrNK | [Read More](https://medium.com/p/85318a8d1cd1) |
-| Sun, 24 Aug 2025 16:13:35 GMT | Are You On a Scammer’s Hit List? | Muhammad Zawar | [Read More](https://medium.com/p/0f9cbb89ffbc) |
