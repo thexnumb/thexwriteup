@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 22:36:27 GMT | How I Was Able to Take Over Accounts Without Email or Password | Zyad Ibrahim | [Read More](https://medium.com/p/5d7434d7a049) |
+| Sun, 24 Aug 2025 22:22:42 GMT | Server-Side Template Injection 1 | Ross Andrews | [Read More](https://medium.com/p/10e6be1ff361) |
+| Sun, 24 Aug 2025 22:17:32 GMT | Spilling the Tea | Andrew Paul | [Read More](https://medium.com/p/cefac7698ddb) |
 | Sun, 24 Aug 2025 22:13:02 GMT | If You Understand This, You’ll Never Forget Browser Proxy Setup Again | Sanjeeda N. | [Read More](https://medium.com/p/4333a4274ecd) |
+| Sun, 24 Aug 2025 22:09:41 GMT | My Second Step in the Journey of a Thousand Miles | Eme Karen | [Read More](https://medium.com/p/d7b5ade7ec09) |
 | Sun, 24 Aug 2025 22:04:52 GMT | How to Buy Gift Cards with Bitcoin Using CryptoXpress | Chrisnse | [Read More](https://medium.com/p/e07b3012fcbb) |
 | Sun, 24 Aug 2025 22:00:58 GMT | Blue Team: Organizasyonun Siber Savunma Gücü | Ata Çalım | [Read More](https://medium.com/p/9dc0a1e25502) |
 | Sun, 24 Aug 2025 21:58:04 GMT | File and Hash Threat Intel - Tryhackme | Aaron | [Read More](https://medium.com/p/f423ec84a5c1) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 16:11:59 GMT | How to Choose the Right Bug Bounty Target: A Tactical Guide for Beginner Hunters | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/ab929e591a08) |
 | Sun, 24 Aug 2025 16:06:13 GMT | Understanding Ransomware in 5 Minutes | Paschal Ogana | [Read More](https://medium.com/p/584a5f5f4da9) |
 | Sun, 24 Aug 2025 16:04:45 GMT | The 5 Cybersecurity Tools Every Modern Business Needs (and the Missing Piece They Forget). | SupportXDR | [Read More](https://medium.com/p/04fcce7e6ba4) |
-| Sun, 24 Aug 2025 16:00:09 GMT | The 3 Best Data Breach Search Engines | Dr1nCtrl | [Read More](https://medium.com/p/45e00e659137) |
-| Sun, 24 Aug 2025 15:59:28 GMT | Your Phone's Silent Killer: Graphite Spyware's Zero-Click Assault on Privacy | Saad Khalid | [Read More](https://medium.com/p/08766b52fe94) |
-| Sun, 24 Aug 2025 15:55:50 GMT | How Attackers Abuse GitHub to Host Phishing Pages | rho_ax | [Read More](https://medium.com/p/1fccdcb29b41) |
-| Sun, 24 Aug 2025 15:54:47 GMT | How to Find Telegram ID IP - Beware of Scammers | Mr. MOM | [Read More](https://medium.com/p/bb943d90b036) |
