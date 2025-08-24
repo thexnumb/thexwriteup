@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 21:23:52 GMT | Mobile — The Silent Threat | Pietro Romano / SecBeret | [Read More](https://medium.com/p/bb9dc1f03704) |
 | Sun, 24 Aug 2025 21:07:03 GMT | Google Is Still Leaking Your Secrets in 2025 — Here’s the Proof | FXM Brand | [Read More](https://medium.com/p/e45e8c6db162) |
 | Sun, 24 Aug 2025 21:01:44 GMT | How We Bypassed Rate Limits To Flood OTP Systems | Ibtissam hammadi | [Read More](https://medium.com/p/157aa822b72e) |
 | Sun, 24 Aug 2025 21:00:10 GMT | Ethical Walkthrough Using SET on Kali Linux (Cloning a Website)/Types of malwares | Victor Shedrack | [Read More](https://medium.com/p/f9fb8eb5d5c3) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 15:31:33 GMT | JWTs Are Not Session Tokens — Please Stop | Nikulsinh Rajput | [Read More](https://medium.com/p/701ce38e6cf7) |
 | Sun, 24 Aug 2025 15:25:25 GMT | AI: Shaping the Future of Innovation and Security | Jiyao Weng | [Read More](https://medium.com/p/a3eb49e352ca) |
 | Sun, 24 Aug 2025 15:24:49 GMT | WinRAR Path Traversal 0-Day (CVE-2025–8088): PoC  ve Güvenlik Analizi Raporu | Sergen can | [Read More](https://medium.com/p/62b0e8159bc1) |
-| Sun, 24 Aug 2025 15:23:32 GMT | OWASP Top 10… Wait, There’s an 11th? | Yash Bhingarde | [Read More](https://medium.com/p/eea244dfcd72) |
