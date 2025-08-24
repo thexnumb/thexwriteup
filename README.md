@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 17:11:41 GMT | Cyber Stories #1: Charlie and the Suspicious Email ✉️ | Rosemary Lark | [Read More](https://medium.com/p/f8e6ef66d051) |
+| Sun, 24 Aug 2025 17:07:26 GMT | Arrays in C – Your Complete Beginner’s Guide | Tanya Awasthi | [Read More](https://medium.com/p/2eec7a9b7b6c) |
+| Sun, 24 Aug 2025 17:06:48 GMT | How to defend against Root-of-Trust (RoT) attacks with measured boot, hardware-bound credentials… | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/71c75d932cee) |
+| Sun, 24 Aug 2025 17:03:44 GMT | การทำ AD password spraying | Nattawat Songsom | [Read More](https://medium.com/p/7b6a0ae2c6d3) |
+| Sun, 24 Aug 2025 17:02:53 GMT | Cybersecurity | Sabina Yasmin | [Read More](https://medium.com/p/0fd60db33ff3) |
+| Sun, 24 Aug 2025 16:57:06 GMT | HTML Injection, CSP Roadblocks & a $100 Win | Sarv3shxploit | [Read More](https://medium.com/p/d6abf1ca986e) |
+| Sun, 24 Aug 2025 16:52:15 GMT | Cake Architect (User)-BrunnerCTF 2025 writeup | SilentHex | [Read More](https://medium.com/p/7fbc059935f0) |
+| Sun, 24 Aug 2025 16:52:06 GMT | Pengenalan Perangkat Jaringan Komputer (Computer Network) | fijrisalwa | [Read More](https://medium.com/p/37b59b743f82) |
+| Sun, 24 Aug 2025 16:46:52 GMT | Chemistry Machine— Hack The Box | Zeenya | [Read More](https://medium.com/p/2504b1574a29) |
+| Sun, 24 Aug 2025 16:45:55 GMT | TryHackMe :  Active Directory Writeup | Archtrmntor | [Read More](https://medium.com/p/f4fd5e824c53) |
+| Sun, 24 Aug 2025 16:45:00 GMT | How I Passed the Microsoft SC-900 on My First Try (and Why It’s Easier Than You Think) | Albi_Varghese | [Read More](https://medium.com/p/c0df35fe46d8) |
 | Sun, 24 Aug 2025 16:42:25 GMT | The Hidden Weakness of Two-Factor Authentication | Raphael Moutard | [Read More](https://medium.com/p/f0b74395f799) |
 | Sun, 24 Aug 2025 16:41:31 GMT | Vendor Compliance: The Bollywood Rom-Com No One Warned You About | Shreya Singh | [Read More](https://medium.com/p/7df5853c890d) |
 | Sun, 24 Aug 2025 16:39:22 GMT | Forgotten Subdomain = $1000 “AWS Breach” Bounty | Akash Singh | [Read More](https://medium.com/p/e59fb8e855f7) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 11:15:09 GMT | Junior v/s Senior Devs : 5 Habits that draw the line | The Dev Notebook | [Read More](https://medium.com/p/ceeb44364ccc) |
 | Sun, 24 Aug 2025 11:13:51 GMT | Digital Signature: Strengthening Security in E-Invoicing | Bishal Pandey | [Read More](https://medium.com/p/bab0e68c3166) |
 | Sun, 24 Aug 2025 11:12:07 GMT | React Security Guide: From XSS Prevention to Secure API Communication | Logan Lee | [Read More](https://medium.com/p/db8677ed5c7f) |
-| Sun, 24 Aug 2025 11:10:32 GMT | DNS Demystified: The Internet’s Invisible Phonebook | Ultra-Defense-Academy | [Read More](https://medium.com/p/6b4a3556984b) |
-| Sun, 24 Aug 2025 10:58:06 GMT | Quantum Revolution for Everyone (Book Chapters) | Platon Matveyev | [Read More](https://medium.com/p/af14a2dce94d) |
-| Sun, 24 Aug 2025 10:57:54 GMT | Understanding Login Protocols: OIDC, OAuth2, SAML, and WebAuthn | Alireza Ghorbani | [Read More](https://medium.com/p/c1f1b733f3f7) |
-| Sun, 24 Aug 2025 10:54:40 GMT | CVE-2024–53494: SpringBootBlog Exposes Sensitive Components to Unauthenticated Users! | CVEHUB | [Read More](https://medium.com/p/be8f2037185d) |
-| Sun, 24 Aug 2025 10:53:14 GMT | Turning OWASP Juice Shop into a Full Pentesting Portfolio | Hacked By Himel | [Read More](https://medium.com/p/9d5aa3849a44) |
-| Sun, 24 Aug 2025 10:53:10 GMT | CVE-2024–50644: Authentication Bypass in zhisheng17 Blog Could Expose APIs! | CVEHUB | [Read More](https://medium.com/p/7f2779de2edf) |
-| Sun, 24 Aug 2025 10:47:56 GMT | Unauthorized Profile Update via Broken Authorization Token | Yaliyanto | [Read More](https://medium.com/p/a4e280fe91af) |
-| Sun, 24 Aug 2025 10:46:30 GMT | Week 3 of My 90-Day Challenge: Bug Bounty, CISSP, and the Other Side of the Table | Mike (sl0th0x87) | [Read More](https://medium.com/p/e7c0a8219a00) |
-| Sun, 24 Aug 2025 10:46:06 GMT | Inside the Sandbox: How a Modern Detection & OpSec Cyber Range Levels Up Purple Teams | Ultra-Defense-Academy | [Read More](https://medium.com/p/51a3ce10ede9) |
-| Sun, 24 Aug 2025 10:44:06 GMT | Sometimes I Don’t Want To Be Strong | Iqra Arshad | [Read More](https://medium.com/p/143bafa5b118) |
-| Sun, 24 Aug 2025 10:39:27 GMT | Uncovering the Hidden Story: Domain Analysis and Splunk Log Analysis | Balogun Ayomide | [Read More](https://medium.com/p/e7c5dbef44d9) |
