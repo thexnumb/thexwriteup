@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 12:19:24 GMT | WiFi Network Manager — A Complete Python Toolkit for Network Automation & Security | Kassam Dakhlalah | [Read More](https://medium.com/p/45d64b2e9746) |
+| Sun, 24 Aug 2025 12:17:33 GMT | How to Prevent Malware: 10 Simple Steps to Keep Your Devices Safe | Timónofearth | [Read More](https://medium.com/p/4cc5166bdbe4) |
+| Sun, 24 Aug 2025 12:12:07 GMT | What is Cybersecurity? Key Topics, Strategies, and Insights | cyber security Updates | [Read More](https://medium.com/p/b07d714fb95a) |
+| Sun, 24 Aug 2025 12:10:21 GMT | 2025 OLED Gaming Displays: LG’s Latest Offerings Reviewed | Hana Saito | [Read More](https://medium.com/p/5d65b727dc5a) |
+| Sun, 24 Aug 2025 11:59:37 GMT | Inside Windows Server Security: Hyper-V Architecture, Secured-Core, and Identity-Driven Protection | Xin-Kuan (Leo) Yeh | [Read More](https://medium.com/p/ed29373b9a19) |
+| Sun, 24 Aug 2025 11:57:29 GMT | About me — Tochukwu Okonkwor | Tochukwu Okonkwor | [Read More](https://medium.com/p/381ac7d404f2) |
+| Sun, 24 Aug 2025 11:48:46 GMT | 2025 LG OLED Gaming Displays: What’s New and What’s Next | Grace Anderson | [Read More](https://medium.com/p/a0379aed0cc7) |
+| Sun, 24 Aug 2025 11:39:38 GMT | Broken Object Level Authorization (BOLA): The Silent Killer of APIs | Ultra-Defense-Academy | [Read More](https://medium.com/p/b104176301ab) |
+| Sun, 24 Aug 2025 11:36:34 GMT | Day 41- Understanding the roles of compliance and auditors in organizations | unica 02 | [Read More](https://medium.com/p/2e3d9ee20464) |
+| Sun, 24 Aug 2025 11:34:12 GMT | VulnOS: Chronos Lab Walkthrough —  Hack & Ye Shall Receive | Aditya Bhatt | [Read More](https://medium.com/p/e683b176e3ce) |
+| Sun, 24 Aug 2025 11:28:51 GMT | Recovering The Public Key From RSA | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/663884a169bf) |
 | Sun, 24 Aug 2025 11:27:28 GMT | “XBOW AI: Breaking Code, Breaking Records” | Sagarchhetri | [Read More](https://medium.com/p/d37a9da3aed5) |
 | Sun, 24 Aug 2025 11:21:12 GMT | Computer Networking for Humans | Nathaniel Elle Angeles | [Read More](https://medium.com/p/8b89b05b7d82) |
 | Sun, 24 Aug 2025 11:18:01 GMT | DockerLabs Writeup — galeria (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d91f9b328b00) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 06:47:31 GMT | Bug Bounty: Subdomain Takeover: Cómo detectar y explotar subdominios huérfanos | Gorka | [Read More](https://medium.com/p/722d1af41e8e) |
 | Sun, 24 Aug 2025 06:47:28 GMT | How to Access the Dark Web Safely and Secure Your Device from Hackers (Ethical Tutorial) | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/9d1873efa898) |
 | Sun, 24 Aug 2025 06:45:07 GMT | Recon Roulette: Spinning Old Subdomains into a Fresh Critical Takeover | Iski | [Read More](https://medium.com/p/47dab541e5b6) |
-| Sun, 24 Aug 2025 06:42:55 GMT | “My Burp Suite Pro Playbook: Hacking APIs & Hijacking Sessions for Bounties” | Aman Sharma | [Read More](https://medium.com/p/33b68c59f6cd) |
-| Sun, 24 Aug 2025 06:40:13 GMT | Is Cyber Security a Good Career? A Complete Guide for 2025 | Evelyn | [Read More](https://medium.com/p/35af7d731df4) |
-| Sun, 24 Aug 2025 06:38:25 GMT | Russian attack on a Norwegian hydroelectric power plant | Patrik Žák | [Read More](https://medium.com/p/27eabff8a64f) |
-| Sun, 24 Aug 2025 06:33:37 GMT | ElasticCase Lab — CyberDefenders Lab - Walkthrough | Michael Angelo Padua | [Read More](https://medium.com/p/161c437335ec) |
-| Sun, 24 Aug 2025 06:32:25 GMT | 5 Daily-Needs Gadgets from Amazon That Make Life Easier | tech & all that | [Read More](https://medium.com/p/6a0394cbd6cc) |
-| Sun, 24 Aug 2025 06:30:28 GMT | I Bought My Own Data on the Dark Web for $4. Here’s What I Found | Sofia | [Read More](https://medium.com/p/77da56357d5e) |
-| Sun, 24 Aug 2025 06:18:14 GMT | Breaking News: Robots Are Stealing Your jobs (Satire on Human Panic vs. Technology) | Vishal Pathak | [Read More](https://medium.com/p/05fbb07b9ec9) |
-| Sun, 24 Aug 2025 06:16:45 GMT | Cybersecurity Basics for Beginners: Did That Really Happen, or Was It AI? | Olorunfemi Samuel Ifeoluwa | [Read More](https://medium.com/p/38e52c9093ef) |
-| Sun, 24 Aug 2025 06:14:03 GMT | Sessions Made Simple: Why the Web Needed Memory | Tslnreddy | [Read More](https://medium.com/p/c5a037e6c962) |
-| Sun, 24 Aug 2025 06:04:47 GMT | Why AI-Powered Attacks Make Linux Hardening More Urgent Than Ever | Faruk Ahmed | [Read More](https://medium.com/p/a816ced453b9) |
-| Sun, 24 Aug 2025 06:03:03 GMT | Best laptops under $500: 5 budget-friendly picks you’ll love | Tech News | [Read More](https://medium.com/p/a3f1df97b9ee) |
