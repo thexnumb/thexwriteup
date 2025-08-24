@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 09:07:31 GMT | How I Lost a $600 Gig: Trials of being a Global Worker | Onukwue Eunice | [Read More](https://medium.com/p/07ae7d14cad5) |
+| Sun, 24 Aug 2025 09:04:09 GMT | Cross-Site Request Forgery (CSRF) Prevention in React.js | Pentest_Testing_Corp | [Read More](https://medium.com/p/04f7b5c44e61) |
+| Sun, 24 Aug 2025 08:57:17 GMT | Orange Bleeds Data: Should You Panic Now? | Truspex | [Read More](https://medium.com/p/260a3a89dc47) |
+| Sun, 24 Aug 2025 08:56:15 GMT | Trust no thumbnail: How a single image can compromise Apple devices (CVE-2025–43300) | iampetru | [Read More](https://medium.com/p/37d9b6f123c8) |
+| Sun, 24 Aug 2025 08:51:35 GMT | Friend’s Insta Hacked? What to Do *Now*. | Authlyn | [Read More](https://medium.com/p/13a98aa7e7ac) |
+| Sun, 24 Aug 2025 08:50:32 GMT | You’re Not as Anonymous as You Think Online. Here’s a 60-Second Security Checkup. | ROOT91.NET | [Read More](https://medium.com/p/c40ba3bc0918) |
+| Sun, 24 Aug 2025 08:47:58 GMT | Tradeprohub.com Scam Review: How I Recovered From a Fake AI Trading Platform | Editor | [Read More](https://medium.com/p/73dbf5e8fc33) |
+| Sun, 24 Aug 2025 08:46:08 GMT | Best Practices for PromptOps with ChatGPT-5: How Versioned Prompts Saved My CI/CD Pipeline | AbdulRahman Mostafa | [Read More](https://medium.com/p/3fa0c0101430) |
+| Sun, 24 Aug 2025 08:45:29 GMT | Solutioning to AI hidden dangers: How prompt injection attacks are hijacking AI systems and… | Shailesh Kumar Mishra | [Read More](https://medium.com/p/608c9aab68b8) |
+| Sun, 24 Aug 2025 08:44:37 GMT | Whispers in the Dark: Where Do Secrets Go? | IyakSaCR | [Read More](https://medium.com/p/4629c2252a4c) |
+| Sun, 24 Aug 2025 08:42:39 GMT | So, You Wanna Write Malware? Read This First. | CtrlC3 | [Read More](https://medium.com/p/a93853665b10) |
 | Sun, 24 Aug 2025 08:36:54 GMT | Unionss.cc Crypto Scam: A Fake AI Trading Service That Trapped Me | Editor | [Read More](https://medium.com/p/0ceb527227af) |
 | Sun, 24 Aug 2025 08:31:34 GMT | Swift Programming Essentials: #8 — Authentication & Security in iOS Networking | Kumar Gaurav | [Read More](https://medium.com/p/0a6145581e96) |
 | Sun, 24 Aug 2025 08:26:14 GMT | ️ Part 1: AI-Driven Recon — Hunting Attack Surfaces at Machine Speed | Narendar Battula (nArEn) | [Read More](https://medium.com/p/682ca500e051) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 23:25:23 GMT | PG Practice — Squid (Windows) | Lepton | [Read More](https://medium.com/p/f4a7c6f5ffbc) |
 | Sat, 23 Aug 2025 23:25:10 GMT | PG Practice — Algernon (Windows) | Lepton | [Read More](https://medium.com/p/5a7f6e40c09b) |
 | Sat, 23 Aug 2025 23:24:57 GMT | PG Practice — Flu (Linux) | Lepton | [Read More](https://medium.com/p/ce7aa409b2b6) |
-| Sat, 23 Aug 2025 23:20:25 GMT | Technical Skill is Half the Battle: How Security Professionals Can Shine with Better Reporting | Luciano Ciattaglia | [Read More](https://medium.com/p/883679d66071) |
-| Sat, 23 Aug 2025 23:03:46 GMT | From Principle to Pattern: Zero Trust for Agentic AI on Azure | Arsh Riz | [Read More](https://medium.com/p/25dd711b01b2) |
-| Sat, 23 Aug 2025 23:03:24 GMT | Why Every Small Business Needs Cybersecurity Policies (Even If You Think You Don’t) | Chris Black | [Read More](https://medium.com/p/ce04c1a06191) |
-| Sat, 23 Aug 2025 22:29:45 GMT | Lab Walkthrough: DOM XSS via document.write & location.search | Juweyriya | [Read More](https://medium.com/p/dd4b1d2cc351) |
-| Sat, 23 Aug 2025 22:23:27 GMT | Lab Walkthrough: Stored XSS in HTML (No Encoding, Yikes) | Juweyriya | [Read More](https://medium.com/p/764ed0df6556) |
-| Sat, 23 Aug 2025 22:17:23 GMT | Lab Walkthrough: Reflected XSS Into HTML (No Encoding, EZ Mode) | Juweyriya | [Read More](https://medium.com/p/50b384fc8a79) |
-| Sat, 23 Aug 2025 22:12:54 GMT | Why “Saving Costs” Shouldn’t Be Your Goal When Building IT Infrastructure | emmanuel udie | [Read More](https://medium.com/p/7f5ff50f4fcf) |
-| Sat, 23 Aug 2025 22:11:52 GMT | Demystifying AI in 2025: The Rise of Personalized and Responsible AI | Staytechscs | [Read More](https://medium.com/p/8f0c70bf90d2) |
-| Sat, 23 Aug 2025 22:11:40 GMT | A Hacker’s Journey: From Zero to Shell on DVWA — A Comprehensive Writeup | j1sec | [Read More](https://medium.com/p/4561d35fbf5f) |
-| Sat, 23 Aug 2025 22:09:48 GMT | How AI is Changing Everything in 2025: A Guide for Business Leaders | Staytechscs | [Read More](https://medium.com/p/9db4e0ac20d7) |
-| Sat, 23 Aug 2025 22:06:28 GMT | The Future of AI: What is Artificial General Intelligence and Why Does it Matter? | Staytechscs | [Read More](https://medium.com/p/07967b813ce2) |
