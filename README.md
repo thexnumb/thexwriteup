@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 10:05:53 GMT | Securing Docker Containers: Essential Practices | @rnab | [Read More](https://medium.com/p/c7110806bc35) |
+| Sun, 24 Aug 2025 10:01:46 GMT | The Dark Reality of Trading Scams — And How to Stay Safe | rkdnawab | [Read More](https://medium.com/p/233b5d06b20e) |
+| Sun, 24 Aug 2025 10:00:19 GMT | Analyzing Previously Identified Malicious Files in VirusTotal | Balogun Ayomide | [Read More](https://medium.com/p/5204880e747e) |
+| Sun, 24 Aug 2025 09:53:31 GMT | Hackers Hijack VPS Servers-A Growing Threat to Enterprise Security | John Doe 007 | [Read More](https://medium.com/p/4c46c5a156e5) |
+| Sun, 24 Aug 2025 09:52:57 GMT | What is BIOS? | Atakan Bitim | [Read More](https://medium.com/p/579c0d345e25) |
+| Sun, 24 Aug 2025 09:52:54 GMT | BIOS Nedir? | Atakan Bitim | [Read More](https://medium.com/p/261ec37a7b16) |
+| Sun, 24 Aug 2025 09:48:06 GMT | How I Found 5 OAuth Misconfigurations Leading to Pre-Account Takeover in Public Bug Bounty Programs… | KhaledAhmed107 | [Read More](https://medium.com/p/021d4c8c6954) |
+| Sun, 24 Aug 2025 09:45:19 GMT | Hijacked Rewards: The Billion-Dollar Shadow Heist in Cashback and Affiliates | Neurabbit | [Read More](https://medium.com/p/cda6350c1f28) |
+| Sun, 24 Aug 2025 09:44:33 GMT | From a Small Town to Cybersecurity Research: Anshuman’s Path with CloudSEK | Mohammed Rayan A | [Read More](https://medium.com/p/411fabdf1359) |
+| Sun, 24 Aug 2025 09:38:06 GMT | Unlocking Secrets: How to Crack a Browser Game’s Code | SilentInject | [Read More](https://medium.com/p/0d71bf10b0b6) |
 | Sun, 24 Aug 2025 09:35:01 GMT | Analyzing Cryptography for Organizations | Cyber Security Research | [Read More](https://medium.com/p/eaa00c332e4a) |
 | Sun, 24 Aug 2025 09:33:46 GMT | Analyzing Cryptography for Decision Makers | Cyber Security Research | [Read More](https://medium.com/p/f33da1b8ce78) |
 | Sun, 24 Aug 2025 09:32:30 GMT | Analyzing Cryptography for Beginners | Cyber Security Research | [Read More](https://medium.com/p/34bf1992554b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 03:31:42 GMT | Secrets lab - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/7e7af65ea593) |
 | Sun, 24 Aug 2025 03:31:34 GMT | 8 Kubernetes Security Mistakes That Cost You Millions | Hash Block | [Read More](https://medium.com/p/6135fdfa75f5) |
 | Sun, 24 Aug 2025 03:31:34 GMT | Advanced Encryption Standard | codingstreets | [Read More](https://medium.com/p/dd177f029243) |
-| Sun, 24 Aug 2025 03:01:32 GMT | U.S. Warships Face Chinese Surveillance Threat in Strategic Palau | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/b4be4fe70f50) |
-| Sun, 24 Aug 2025 02:57:53 GMT | Top Free Coursera Courses to Boost Your Career in 25–26 | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/92c5f3a9ce62) |
-| Sun, 24 Aug 2025 02:33:33 GMT | Unauthenticated OTP Spam via Multi-Endpoint Rate Limit Bypass | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/577027c197c0) |
-| Sun, 24 Aug 2025 02:06:44 GMT | Hackthebox Desires Challenge Write-up | MachineEP | [Read More](https://medium.com/p/89711f6bdcef) |
-| Sun, 24 Aug 2025 01:49:39 GMT | Linux Malware Hidden in RAR Filenames: How the Attack Works — and How to Stop It | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/23c6cc00a1b9) |
-| Sun, 24 Aug 2025 01:49:28 GMT | Automating Recon with GitHub Actions, Subfinder, Httpx, and Nuclei | Eng Soon Cheah | [Read More](https://medium.com/p/ac1bc8c664b1) |
-| Sun, 24 Aug 2025 01:40:20 GMT | Accessing Employee GitHub SSH Key | SIDDHANT SHUKLA | [Read More](https://medium.com/p/4e125faba413) |
-| Sun, 24 Aug 2025 01:29:21 GMT | The Power of Self-Irony | Boris (Bruce) Kriger | [Read More](https://medium.com/p/59af7ef6f64c) |
-| Sun, 24 Aug 2025 01:27:21 GMT | Web Application Basics - THM | Isiah | [Read More](https://medium.com/p/d573c9b40c87) |
-| Sun, 24 Aug 2025 01:18:59 GMT | 2027 is The Year Quantum Computing Kills Digital Privacy Forever | Nichole Higgins | [Read More](https://medium.com/p/1194bd71e518) |
