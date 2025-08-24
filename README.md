@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 14:30:47 GMT | Complexity in Cybersecurity — and how to handle it | Sebastian Kandler | [Read More](https://medium.com/p/f373b1976c39) |
+| Sun, 24 Aug 2025 14:26:28 GMT | A Fortified Warning Vision Relying on Iris Recognition Could Spark a Surge in Hackers’ Ambitions | Momen Ghazouani | [Read More](https://medium.com/p/38a3b6041215) |
+| Sun, 24 Aug 2025 14:25:42 GMT | From Fiverr to Your Hard Drive: How Malware Travels Through Client Projects | Azuren | [Read More](https://medium.com/p/04d5744c9b38) |
+| Sun, 24 Aug 2025 14:25:11 GMT | Crypto : BrunnerCTF 2025 — The Cryptographic Kitchen! | Rana chouchane - QU33NR | [Read More](https://medium.com/p/4108473aa7df) |
+| Sun, 24 Aug 2025 14:24:20 GMT | Reverse Engineering: BrunnerCTF 2025- Trippi Troppa Chaos | Rana chouchane - QU33NR | [Read More](https://medium.com/p/32c4c2cf0b96) |
+| Sun, 24 Aug 2025 14:23:59 GMT | PORTSWIGGER APPRENTICE Small and Easy WALKTHROUGH | The Commoness | [Read More](https://medium.com/p/0e8dd22ef6ae) |
+| Sun, 24 Aug 2025 14:23:31 GMT | MISC: BrunnerCTF 2025 — The Yeast Key | Rana chouchane - QU33NR | [Read More](https://medium.com/p/10585f6ea493) |
+| Sun, 24 Aug 2025 14:23:11 GMT | Unveiling the Shadows: A Remote Code Execution Vulnerability Report to Bytedance. Ignored. | RABIU | [Read More](https://medium.com/p/b95a016aa032) |
 | Sun, 24 Aug 2025 14:08:30 GMT | Telcos Are Leading the AI Charge — And Seizing a Once-in-a-Generation Opportunity | martino.agostini | [Read More](https://medium.com/p/ebe0dbf32f72) |
 | Sun, 24 Aug 2025 14:07:32 GMT | How to Fix 404 Not Found In Spring Boot, Step by Step | Jagriti Srivastava | [Read More](https://medium.com/p/66358c26dc48) |
 | Sun, 24 Aug 2025 14:03:36 GMT | On-Prem vs. Cloud: Why 2 and 5 Reserved IPs | Siddhant Rangra | [Read More](https://medium.com/p/4eaeabb1b37d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 08:45:29 GMT | Solutioning to AI hidden dangers: How prompt injection attacks are hijacking AI systems and… | Shailesh Kumar Mishra | [Read More](https://medium.com/p/608c9aab68b8) |
 | Sun, 24 Aug 2025 08:44:37 GMT | Whispers in the Dark: Where Do Secrets Go? | IyakSaCR | [Read More](https://medium.com/p/4629c2252a4c) |
 | Sun, 24 Aug 2025 08:42:39 GMT | So, You Wanna Write Malware? Read This First. | CtrlC3 | [Read More](https://medium.com/p/a93853665b10) |
-| Sun, 24 Aug 2025 08:36:54 GMT | Unionss.cc Crypto Scam: A Fake AI Trading Service That Trapped Me | Editor | [Read More](https://medium.com/p/0ceb527227af) |
-| Sun, 24 Aug 2025 08:31:34 GMT | Swift Programming Essentials: #8 — Authentication & Security in iOS Networking | Kumar Gaurav | [Read More](https://medium.com/p/0a6145581e96) |
-| Sun, 24 Aug 2025 08:26:14 GMT | ️ Part 1: AI-Driven Recon — Hunting Attack Surfaces at Machine Speed | Narendar Battula (nArEn) | [Read More](https://medium.com/p/682ca500e051) |
-| Sun, 24 Aug 2025 08:19:18 GMT | AI in Pentesting: How Attackers Use LLMs to Automate Recon & Payloads | Narendar Battula (nArEn) | [Read More](https://medium.com/p/53d7a3241175) |
-| Sun, 24 Aug 2025 08:13:24 GMT | Bypass TPM, SecureBoot, and Microsoft account requirement on Windows 11. | b4h4w | [Read More](https://medium.com/p/a824886184b1) |
-| Sun, 24 Aug 2025 08:10:13 GMT | ISO/IEC 27032 for Cybersecurity in Manufacturing Multi-Cloud Environments (IBM Cloud & GCP) | Hammad Zahid | [Read More](https://medium.com/p/66762b314f4e) |
-| Sun, 24 Aug 2025 08:09:51 GMT | ️‍♂️ Shadow API Red Team Playbook: Hunting Ghost Endpoints Like an Attacker | Narendar Battula (nArEn) | [Read More](https://medium.com/p/812b6f582c00) |
-| Sun, 24 Aug 2025 08:08:58 GMT | Collaborative Development - picoCTF - Beginners Walkthrough - Writeup | Hiba Hamd | [Read More](https://medium.com/p/2a55a48282de) |
