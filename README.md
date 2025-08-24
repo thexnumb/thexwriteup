@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 20:32:08 GMT | Navigating Trust in Security | Wojciech Kotłowski | [Read More](https://medium.com/p/cc9e997c2096) |
+| Sun, 24 Aug 2025 20:26:12 GMT | CARTP & CARTE Exam Review by Microsoft Azure Certified | Mohammad Hassan Pezeshkian | [Read More](https://medium.com/p/4c7af5d0c658) |
 | Sun, 24 Aug 2025 20:18:55 GMT | How I found an Account Lockout Vulnerability Without Any Tools | StrangeRwhite | [Read More](https://medium.com/p/f52cbcd58730) |
 | Sun, 24 Aug 2025 20:10:26 GMT | For Themyscira! — 2025 Target Cyber Defense Challenge Tier 1 Write-Up | CyberSecJess | [Read More](https://medium.com/p/027f39dbf879) |
 | Sun, 24 Aug 2025 20:01:33 GMT | The Overlooked Profile of the Most Effective CISOs — The Gardener | Yael Nagler | [Read More](https://medium.com/p/c807397a605b) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 15:09:40 GMT | Choosing the Right SAST Tool: A Practical Guide for Developers | Aamir Sk | [Read More](https://medium.com/p/513ff90aaf80) |
 | Sun, 24 Aug 2025 15:07:34 GMT | Easy-to-Automate Exploits for Bug Bounty Hunters | Nitin yadav | [Read More](https://medium.com/p/f7d774bcfd2b) |
 | Sun, 24 Aug 2025 14:53:18 GMT | DIVA APK Mobile Penetration Testing | Kausikdey | [Read More](https://medium.com/p/92922c83a266) |
-| Sun, 24 Aug 2025 14:50:51 GMT | Agent Sudo TryHackMe | Meena A | [Read More](https://medium.com/p/e37ae8405617) |
-| Sun, 24 Aug 2025 14:44:54 GMT | TryHackMe-Olympus Writeup | alda69 | [Read More](https://medium.com/p/6cf0a101bffb) |
