@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 03:01:32 GMT | U.S. Warships Face Chinese Surveillance Threat in Strategic Palau | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/b4be4fe70f50) |
+| Sun, 24 Aug 2025 02:57:53 GMT | Top Free Coursera Courses to Boost Your Career in 25–26 | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/92c5f3a9ce62) |
+| Sun, 24 Aug 2025 02:33:33 GMT | Unauthenticated OTP Spam via Multi-Endpoint Rate Limit Bypass | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/577027c197c0) |
+| Sun, 24 Aug 2025 02:06:44 GMT | Hackthebox Desires Challenge Write-up | MachineEP | [Read More](https://medium.com/p/89711f6bdcef) |
+| Sun, 24 Aug 2025 01:49:39 GMT | Linux Malware Hidden in RAR Filenames: How the Attack Works — and How to Stop It | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/23c6cc00a1b9) |
+| Sun, 24 Aug 2025 01:49:28 GMT | Automating Recon with GitHub Actions, Subfinder, Httpx, and Nuclei | Eng Soon Cheah | [Read More](https://medium.com/p/ac1bc8c664b1) |
 | Sun, 24 Aug 2025 01:40:20 GMT | Accessing Employee GitHub SSH Key | SIDDHANT SHUKLA | [Read More](https://medium.com/p/4e125faba413) |
 | Sun, 24 Aug 2025 01:29:21 GMT | The Power of Self-Irony | Boris (Bruce) Kriger | [Read More](https://medium.com/p/59af7ef6f64c) |
 | Sun, 24 Aug 2025 01:27:21 GMT | Web Application Basics - THM | Isiah | [Read More](https://medium.com/p/d573c9b40c87) |
@@ -92,6 +98,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 17:45:21 GMT | DirectAdmin in 2025 — The Lightweight Alternative to cPanel and Plesk | Hugo Valters | [Read More](https://medium.com/p/480ad06de954) |
 | Sat, 23 Aug 2025 17:42:20 GMT | picoCTF: WebDecode | Ross Andrews | [Read More](https://medium.com/p/314ed5ee4dc9) |
 | Sat, 23 Aug 2025 17:41:32 GMT | Terraforming My Mind Before I Terraform the Cloud | HimanShunya | [Read More](https://medium.com/p/3198a3016cc8) |
+| Sat, 23 Aug 2025 17:32:56 GMT | Nyaman Belum Tentu Aman Tapi Aman Sudah Pasti Nyaman | Mohammad Bagas Prasetyo | [Read More](https://medium.com/p/e837e7709cae) |
 | Sat, 23 Aug 2025 17:30:42 GMT | Proving Grounds: Gaining Root on Crane | Mihail Pana | [Read More](https://medium.com/p/463612903c65) |
 | Sat, 23 Aug 2025 17:29:16 GMT | My Journey into Cybersecurity (Part 2): Exploring Cyberspace and Network Communication Systems | Lavanyara | [Read More](https://medium.com/p/32d6f6891691) |
 | Sat, 23 Aug 2025 17:24:39 GMT | Enhancing Cybersecurity with All-In-One Security (AIOS) -Security and Firewall | Enayetur Rahman | [Read More](https://medium.com/p/6541ab649a85) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 17:07:39 GMT | SSH Port Forwarding in Linux: A Hacker’s Swiss Army Knife for CTFs | Beryl | [Read More](https://medium.com/p/cd80640bae80) |
 | Sat, 23 Aug 2025 17:03:42 GMT | 10 Cybersecurity Preventive Measures You Can’t Ignore in 2025 | Jobair Tuaha | [Read More](https://medium.com/p/024c55abae6d) |
 | Sat, 23 Aug 2025 17:01:05 GMT | Cross-Site Scripting (XSS) Vulnerability in a Plain-View | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/69c918793d2d) |
-| Sat, 23 Aug 2025 16:57:13 GMT | Why CCTV Monitoring Is the Future of Business Security in 2025 | Visual Monitoring Solutions | [Read More](https://medium.com/p/3ef31b18edb3) |
-| Sat, 23 Aug 2025 16:54:49 GMT | Cybersecurity Today: Protect Your Devices & Data | VS Writes | [Read More](https://medium.com/p/5e94aa102486) |
-| Sat, 23 Aug 2025 16:36:14 GMT | Generating ML-KEM Keys | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/db08c56fba01) |
-| Sat, 23 Aug 2025 16:33:40 GMT | Securing the Model Context Protocol: The Case for a Trusted MCP Gateway | Shashank N | [Read More](https://medium.com/p/346aa7f840fc) |
-| Sat, 23 Aug 2025 16:30:50 GMT | All About Bypassing The Login Panel | Soham Dalal | [Read More](https://medium.com/p/b07d5552044c) |
-| Sat, 23 Aug 2025 16:28:30 GMT | The Invisible Shield: Rethinking Cloud Security in 2025 | VedantiVerma | [Read More](https://medium.com/p/1cfc05b87eb2) |
-| Sat, 23 Aug 2025 16:24:55 GMT | PHANTOM Protocol technique | Lord Murak | [Read More](https://medium.com/p/fd4fbd25996d) |
