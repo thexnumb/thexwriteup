@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 Aug 2025 03:46:30 GMT | ️ WALKTHROUGH – BASIC PENTESTING CTF | Dheeraj Manoj | [Read More](https://medium.com/p/022adf896a40) |
+| Sun, 24 Aug 2025 03:42:50 GMT | The Quiet Tyranny of Being ‘Fine’: On the Freedom of Admitting You’re Not | vydhi | [Read More](https://medium.com/p/bbb92fa30179) |
+| Sun, 24 Aug 2025 03:31:42 GMT | Secrets lab - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/7e7af65ea593) |
+| Sun, 24 Aug 2025 03:31:34 GMT | 8 Kubernetes Security Mistakes That Cost You Millions | Hash Block | [Read More](https://medium.com/p/6135fdfa75f5) |
+| Sun, 24 Aug 2025 03:31:34 GMT | Advanced Encryption Standard | codingstreets | [Read More](https://medium.com/p/dd177f029243) |
 | Sun, 24 Aug 2025 03:01:32 GMT | U.S. Warships Face Chinese Surveillance Threat in Strategic Palau | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/b4be4fe70f50) |
 | Sun, 24 Aug 2025 02:57:53 GMT | Top Free Coursera Courses to Boost Your Career in 25–26 | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/92c5f3a9ce62) |
 | Sun, 24 Aug 2025 02:33:33 GMT | Unauthenticated OTP Spam via Multi-Endpoint Rate Limit Bypass | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/577027c197c0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 Aug 2025 17:17:34 GMT | “Day 19: The Serialization Trap — When Data Becomes Code” | Aman Sharma | [Read More](https://medium.com/p/04d73ea2c7f7) |
 | Sat, 23 Aug 2025 17:17:11 GMT | Understanding Clickjacking: The Invisible UI Attack | Abhishek Bhujang | [Read More](https://medium.com/p/4cde7979c59f) |
 | Sat, 23 Aug 2025 17:14:38 GMT | The Digital India Dilemma: Balancing Innovation and Privacy | Parshuram Vasamani | [Read More](https://medium.com/p/046c2a8ce6ea) |
-| Sat, 23 Aug 2025 17:14:31 GMT | Indexing on Solana: A Complete Guide to Deposits, Withdrawals, Memos, and Security | Prapti Sharma | [Read More](https://medium.com/p/4ecb2d2f3f69) |
-| Sat, 23 Aug 2025 17:09:22 GMT | Get the taste of the in-toto/witness project | Rahul Vishwakarma | [Read More](https://medium.com/p/4f9621153ed5) |
-| Sat, 23 Aug 2025 17:07:39 GMT | SSH Port Forwarding in Linux: A Hacker’s Swiss Army Knife for CTFs | Beryl | [Read More](https://medium.com/p/cd80640bae80) |
-| Sat, 23 Aug 2025 17:03:42 GMT | 10 Cybersecurity Preventive Measures You Can’t Ignore in 2025 | Jobair Tuaha | [Read More](https://medium.com/p/024c55abae6d) |
-| Sat, 23 Aug 2025 17:01:05 GMT | Cross-Site Scripting (XSS) Vulnerability in a Plain-View | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/69c918793d2d) |
