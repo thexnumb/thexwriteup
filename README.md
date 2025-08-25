@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 14:17:53 GMT | Phishing attacks have surged and evolved to unprecedented levels in 2025, with over 1 million… | Bona Karides | [Read More](https://medium.com/p/66d5ea675a3f) |
+| Mon, 25 Aug 2025 14:13:34 GMT | How to find an Information Disclosure (ID) vulnerabilities | LEVI | [Read More](https://medium.com/p/165717e57f6f) |
+| Mon, 25 Aug 2025 14:11:46 GMT | People Who Lack Inner Security Fear Conflict | Flaye Kate | [Read More](https://medium.com/p/db9f347c2027) |
+| Mon, 25 Aug 2025 14:04:20 GMT | BrunnerCTF 2025 whisk crypto shake&bake challenge | Zeyad Salah | [Read More](https://medium.com/p/305a672516f6) |
+| Mon, 25 Aug 2025 14:01:50 GMT | LetsDefend SOC211: Winlogon Exploit Attempt via Utilman.exe (Event ID 161)- Walkthrough. | Orifile M. | [Read More](https://medium.com/p/35ce6b2b94c6) |
+| Mon, 25 Aug 2025 14:01:48 GMT | Cyber Briefing: 2025.08.25 | CyberMaterial | [Read More](https://medium.com/p/62947b0fadd4) |
+| Mon, 25 Aug 2025 13:56:58 GMT | Breaking: APT36 Unleashes Desktop Shortcut Phishing on Windows and BOSS Linux | Pentestjunkie07 | [Read More](https://medium.com/p/ba5ee9c36820) |
+| Mon, 25 Aug 2025 13:51:41 GMT | Weak JWT Secret Leads to 0-Click Account Takeover — First Critical Accept | Muhammad Saad Sabir | [Read More](https://medium.com/p/d7c0cc2b64b3) |
+| Mon, 25 Aug 2025 13:51:32 GMT | Zero Trust Architecture in Industrial Control Systems: Myth or Reality? | Cyberkech | [Read More](https://medium.com/p/0cb5862115e9) |
+| Mon, 25 Aug 2025 13:51:28 GMT | Understanding the Delivery Phase of the Cyber Kill Chain | Genrunic | [Read More](https://medium.com/p/335598c60017) |
+| Mon, 25 Aug 2025 13:48:35 GMT | 7 Essential Steps to Kickstart Your Bug Bounty Journey | Aju Deb | [Read More](https://medium.com/p/924543170998) |
+| Mon, 25 Aug 2025 13:41:06 GMT | Kickstart Your Cybersecurity Career: Cisco CBROPS Webinar | Aaqib Rajput | [Read More](https://medium.com/p/01045222b2cf) |
+| Mon, 25 Aug 2025 13:33:44 GMT | Advanced Local File Inclusion — Leveraging PHP Filters When Standard Injection Fails | Niko | [Read More](https://medium.com/p/81de4f661f74) |
+| Mon, 25 Aug 2025 13:32:19 GMT | AI for Security: Can It Really Guard Our Privacy and Data? | Yash Gorasiya | [Read More](https://medium.com/p/13e5757d3f60) |
+| Mon, 25 Aug 2025 13:25:51 GMT | 9Figure Media’s Deepfake Democracy Delusion | Maxwell JAMES | [Read More](https://medium.com/p/41d020a034e2) |
 | Mon, 25 Aug 2025 13:20:59 GMT | a smile that tells a thousand stories | Medisunwithin | [Read More](https://medium.com/p/1c6ea4d59341) |
 | Mon, 25 Aug 2025 13:17:31 GMT | Snort Room Writeup — TryHackMe | Romeeza Naveed | [Read More](https://medium.com/p/118fba77d88d) |
 | Mon, 25 Aug 2025 13:17:29 GMT | How to Add Passkeys (WebAuthn) to Your Next.js + Supabase Project | Shao Xuan | [Read More](https://medium.com/p/cd4273e32a88) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 09:32:24 GMT | Fortinet Firewall Custom DPI & Security Fabric & Application Filter - TalentCoders Siber Güvenlik… | Hakan ÇEVİK | [Read More](https://medium.com/p/9070b704c245) |
 | Mon, 25 Aug 2025 09:21:19 GMT | Hackers don’t break walls. They crawl through cracks. Build layers, not walls. | Syed Raza | [Read More](https://medium.com/p/ddc69a9f45c4) |
 | Mon, 25 Aug 2025 09:17:40 GMT | 10+ Vulnerabilities Reported but no Response | AbhirupKonwar | [Read More](https://medium.com/p/97fdfd80f738) |
-| Mon, 25 Aug 2025 09:13:44 GMT | She doesn’t want your solutions; she wants to be heard. | Zeshan Khan | [Read More](https://medium.com/p/c3437871c133) |
-| Mon, 25 Aug 2025 09:13:04 GMT | Top Security Solutions in Bangalore: Protecting Businesses, Homes, and Communities | Global Security | [Read More](https://medium.com/p/0812438e98c5) |
-| Mon, 25 Aug 2025 09:02:06 GMT | From Guards to Dashboards: Why Transparency Defines Modern Security Services | ICORP Security | [Read More](https://medium.com/p/badaa9298c0a) |
-| Mon, 25 Aug 2025 08:44:38 GMT | DockerLabs Writeup — Predictable (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/914607cac12b) |
-| Mon, 25 Aug 2025 08:44:22 GMT | Nmap Scanning For Beginners | FATAOS3C | [Read More](https://medium.com/p/048431e122a4) |
-| Mon, 25 Aug 2025 08:37:01 GMT | What is XXS? | Dark | [Read More](https://medium.com/p/47bfc3b28e6e) |
-| Mon, 25 Aug 2025 08:35:47 GMT | Hannibal Stealer vs. Browser Security: Part 1 | Netlas.io | [Read More](https://medium.com/p/5db909f8854d) |
-| Mon, 25 Aug 2025 08:35:43 GMT | The Hidden Power of ping: Networking Secrets Nobody Explains | Aashish Kumar | [Read More](https://medium.com/p/ef6039b07e06) |
-| Mon, 25 Aug 2025 08:31:33 GMT | PermRust: A Token-Based Permission System | Ashish Sharda | [Read More](https://medium.com/p/21ce0a3deaea) |
-| Mon, 25 Aug 2025 08:31:33 GMT | Unlocking the Secrets of Cryptography: A Beginner's Guide to Fundamentals and Real-World… | Danladi Galadima | [Read More](https://medium.com/p/83c3bd23e8ba) |
-| Mon, 25 Aug 2025 08:31:33 GMT | Vibe Coding: Expecting Malware to Wear a Name Tag | Namir Sagheenanajar | [Read More](https://medium.com/p/ff0ccd0de66c) |
-| Mon, 25 Aug 2025 08:27:23 GMT | Easy 9.6 critical bug in 5 min | Adam | [Read More](https://medium.com/p/0fc2356487fc) |
-| Mon, 25 Aug 2025 08:24:04 GMT | Why 192.168.x.x Isn’t Just a Home IP Address (And What It Really Means) | Aashish Kumar | [Read More](https://medium.com/p/42a782baad20) |
-| Mon, 25 Aug 2025 08:21:38 GMT | Code does not lie | Maikel Mardjan | [Read More](https://medium.com/p/f834f1554125) |
-| Mon, 25 Aug 2025 08:18:43 GMT | Hacked? The Whispers Your Tech is Trying to Tell You | SilentInject | [Read More](https://medium.com/p/46bc33ecae53) |
