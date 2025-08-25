@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 23:29:16 GMT | SOC 2 Type II — Preparation Journey | Marcus Assis | [Read More](https://medium.com/p/5966e1afbd9c) |
+| Mon, 25 Aug 2025 23:22:33 GMT | How I Reverse-Engineered a Promo Code Algorithm, Verified It, and Discovered a System Vulnerability | John Obiba Boadu | [Read More](https://medium.com/p/52c48a3ef67e) |
+| Mon, 25 Aug 2025 23:20:00 GMT | The Shocking Truth: Your Pentest Report Is Already Outdated When You Get It | Cyber-AppSec | [Read More](https://medium.com/p/c5a315c46b84) |
+| Mon, 25 Aug 2025 23:13:42 GMT | The Logical Override: Deconstructing a Cognitive Attack on LLM Safety | Caleb Grebill | [Read More](https://medium.com/p/bab2a83f273e) |
+| Mon, 25 Aug 2025 23:12:09 GMT | Left of Boom, Part 2: Mapping Out Critical Business Processes for Cyber Resilience | Jason Lawrence | [Read More](https://medium.com/p/a235da5c3d6a) |
+| Mon, 25 Aug 2025 23:11:09 GMT | SOC165 — Possible SQL Injection Payload Detected | Andrew Williams | [Read More](https://medium.com/p/fce97f6a1ee8) |
 | Mon, 25 Aug 2025 23:02:45 GMT | CAT CTF 2025 Web Walkthrough [Part 2] | Sayed | [Read More](https://medium.com/p/d1ed524cd584) |
 | Mon, 25 Aug 2025 22:49:46 GMT | Smart Tips for Online Banking and Security | Mr Alex | [Read More](https://medium.com/p/6af694b1341e) |
 | Mon, 25 Aug 2025 22:26:56 GMT | Never Access the Dark Web Without Doing This! (Tor + Telegram Demos) | Shahzaib | [Read More](https://medium.com/p/09bb344e0638) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 16:20:08 GMT | TryHackMe — Pickle Rick Walkthrough | Vikash Yadav | [Read More](https://medium.com/p/78d35b15a18a) |
 | Mon, 25 Aug 2025 16:19:41 GMT | Flagtionary — Web | Mostafa Abd-Elbaky | [Read More](https://medium.com/p/bd3da8aedad1) |
 | Mon, 25 Aug 2025 16:19:32 GMT | Kimsuky APT Data Leak — Certificados GPKI, Rootkits e Cobalt Strike Personal Uncovered | th3zekry | [Read More](https://medium.com/p/f732154d79ef) |
-| Mon, 25 Aug 2025 16:18:52 GMT | Why Project works on locallly but breaks on dev | Hirenchavda | [Read More](https://medium.com/p/9812a446e51d) |
-| Mon, 25 Aug 2025 16:17:17 GMT | Best Security Systems in Kenya | Debrazz Security Systems | [Read More](https://medium.com/p/affd0c38de5b) |
-| Mon, 25 Aug 2025 16:13:52 GMT | Agent Sudo on TryHackMe | Vikash Yadav | [Read More](https://medium.com/p/34d99525d8d0) |
-| Mon, 25 Aug 2025 16:11:01 GMT | Smart Cybersecurity Investments for SMEs: Lessons, Pitfalls, and Practical Strategies | Wasitpon Sinthuphon | [Read More](https://medium.com/p/4f86203058fc) |
-| Mon, 25 Aug 2025 16:07:27 GMT | Why Security Experts Say to Ditch SMS 2FA (two-factor authentication) | Xanthi Syrakou | [Read More](https://medium.com/p/169986986966) |
-| Mon, 25 Aug 2025 16:03:32 GMT | Monday Cyber Brief — August 25 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/4178ea25f954) |
