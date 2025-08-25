@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 13:20:59 GMT | a smile that tells a thousand stories | Medisunwithin | [Read More](https://medium.com/p/1c6ea4d59341) |
+| Mon, 25 Aug 2025 13:17:31 GMT | Snort Room Writeup — TryHackMe | Romeeza Naveed | [Read More](https://medium.com/p/118fba77d88d) |
+| Mon, 25 Aug 2025 13:17:29 GMT | How to Add Passkeys (WebAuthn) to Your Next.js + Supabase Project | Shao Xuan | [Read More](https://medium.com/p/cd4273e32a88) |
+| Mon, 25 Aug 2025 13:17:02 GMT | 7 Everyday Habits to Protect Your Privacy Online | Axel Paulistrom | [Read More](https://medium.com/p/2851cc13a24d) |
+| Mon, 25 Aug 2025 13:15:09 GMT | ’  : | DISHA GUPTA | [Read More](https://medium.com/p/1fea5542b537) |
+| Mon, 25 Aug 2025 13:13:29 GMT | Capital’s Backbone: A Deep Dive into Security & Housekeeping Services in Delhi NCR Strategy for… | securasecurty | [Read More](https://medium.com/p/c0be4880483c) |
+| Mon, 25 Aug 2025 13:02:19 GMT | Rick and Morty CTF Walkthrough (TryHackMe) | Aqdas Ahbab | [Read More](https://medium.com/p/46250c302db0) |
+| Mon, 25 Aug 2025 13:01:25 GMT | ForenShield Cyber Dashboard — A new way to explore cybersecurity | ForenShield | [Read More](https://medium.com/p/0b2e99246f26) |
+| Mon, 25 Aug 2025 13:00:37 GMT | Web LLM Attacks: How Hackers Turn Chatbots into Backdoors | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c2ce79fea071) |
+| Mon, 25 Aug 2025 12:57:38 GMT | Secure Kubernetes using Kyverno Policy-as-code | Harsh Yadav | [Read More](https://medium.com/p/91f098fdf380) |
+| Mon, 25 Aug 2025 12:57:32 GMT | Ransomware Recovery Strategies for Enterprises: A Complete Guide for 2025 | Paul Meyer | [Read More](https://medium.com/p/181305aefbeb) |
+| Mon, 25 Aug 2025 12:52:25 GMT | Beyond Firewalls: A Glimpse into the Human Element of EDSPL’s SOC Operations | saurabh cyberinfomines | [Read More](https://medium.com/p/d7c6cc6ceaa3) |
+| Mon, 25 Aug 2025 12:52:18 GMT | Eve Carter — THE LAST SIGNAL Episode 4 | Shobha Pai | [Read More](https://medium.com/p/749422768914) |
+| Mon, 25 Aug 2025 12:51:33 GMT | Breaking the Silence: How EchoLeak Quietly Weaponized Microsoft 365 | Inforsecpro | [Read More](https://medium.com/p/c82e924f3f2f) |
+| Mon, 25 Aug 2025 12:48:08 GMT | Strengthening Digital Security with VAPT Security Testing Services — Power Your Business with… | Dmvikash | [Read More](https://medium.com/p/0f65d7eeabf6) |
 | Mon, 25 Aug 2025 12:43:56 GMT | The Collapse of Invisible Barriers: Broken Access Control | Huzeyfe Gonenci | [Read More](https://medium.com/p/a1815d55735e) |
+| Mon, 25 Aug 2025 12:39:28 GMT | Why Your Conversations Turn Into Ads: The Microphone Trap | Shwet Shirbhayye | [Read More](https://medium.com/p/d7b405f2149b) |
 | Mon, 25 Aug 2025 12:37:56 GMT | Blind XSS via Clipboard Paste Handling: A Detailed Guide | coffinxp | [Read More](https://medium.com/p/4c52d65c43f4) |
 | Mon, 25 Aug 2025 12:37:24 GMT | Analyzing Identity Management That Drives Innovation | Cyber Security Research | [Read More](https://medium.com/p/4cef9a529294) |
 | Mon, 25 Aug 2025 12:35:37 GMT | Online Scams 101: Everything You Need to Know | Lindaclousin | [Read More](https://medium.com/p/e2e410cfe0ae) |
@@ -45,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 11:17:32 GMT | From Recon to Riches: How Cybersecurity Hunters Are Turning Recon Tools Into Gold in 2025 | DJH4CK3R | [Read More](https://medium.com/p/4a93c8563893) |
 | Mon, 25 Aug 2025 11:17:32 GMT | Phishing Doesn’t Look Like Phishing | Evgeny Ermakov | [Read More](https://medium.com/p/0d1bae87fa62) |
 | Mon, 25 Aug 2025 11:17:12 GMT | The Future of Digital Identity: Why Your Online Self Matters More Than Ever | DJH4CK3R | [Read More](https://medium.com/p/2300352a7670) |
+| Mon, 25 Aug 2025 11:16:21 GMT | Yapay Zeka Tarayıcıları Bu “Ölümcül Üçlü” Teknikle Verilerinizi Çalabiliyor! | Özgür Kurtuluş | [Read More](https://medium.com/p/af5ba372ffef) |
 | Mon, 25 Aug 2025 11:08:23 GMT | 10 Best Access Control Software in 2025: Features, Pricing, and Use Cases | SecureSlate | [Read More](https://medium.com/p/1a83c7ca3e7f) |
 | Mon, 25 Aug 2025 11:06:31 GMT | The Dark Side of LLM-Powered Security Automation | Aryan D | [Read More](https://medium.com/p/d59e044a852e) |
 | Mon, 25 Aug 2025 10:59:59 GMT | Trying to use Linux as a Complete Beginner in cyb | Emmanuel Jeffrey Kassa | [Read More](https://medium.com/p/abd91e3832d1) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 08:24:04 GMT | Why 192.168.x.x Isn’t Just a Home IP Address (And What It Really Means) | Aashish Kumar | [Read More](https://medium.com/p/42a782baad20) |
 | Mon, 25 Aug 2025 08:21:38 GMT | Code does not lie | Maikel Mardjan | [Read More](https://medium.com/p/f834f1554125) |
 | Mon, 25 Aug 2025 08:18:43 GMT | Hacked? The Whispers Your Tech is Trying to Tell You | SilentInject | [Read More](https://medium.com/p/46bc33ecae53) |
-| Mon, 25 Aug 2025 08:15:04 GMT | Knowledge Check - Getting Started — HackTheBox. | B3TA-BLOCKER | [Read More](https://medium.com/p/22b231f4ebbf) |
-| Mon, 25 Aug 2025 08:13:32 GMT | RISK MANAGEMENT 101: When a Nation Becomes Its Own Greatest Risk; The Illusion of Security and the… | Jair Abrego Cubilla | [Read More](https://medium.com/p/09ea6d48d3fa) |
-| Mon, 25 Aug 2025 08:13:24 GMT | COBIT 2019 for Auditors: A Quick Guide | Tedislava Vasileva | [Read More](https://medium.com/p/2d13974b2277) |
-| Mon, 25 Aug 2025 08:13:17 GMT | Nocturnal - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/05641c49ebc1) |
-| Mon, 25 Aug 2025 08:08:00 GMT | Boinker Journal: Targeted Through a Game? | Nikola Stanimirovic | [Read More](https://medium.com/p/8d1da0c862e4) |
-| Mon, 25 Aug 2025 08:02:56 GMT | MinIO + Docker — Güncelleme: AIStor çıktı, topluluk sürümü devam ediyor (Web UI gitti mi?) | Ugur Adalar | [Read More](https://medium.com/p/8fe122444390) |
-| Mon, 25 Aug 2025 08:01:53 GMT | Stronger Security for a Safer Future: ROGup’s Latest Update | ROGin AI | [Read More](https://medium.com/p/7573a88fc14b) |
-| Mon, 25 Aug 2025 08:01:34 GMT | Linux Repository Management: Your Software Security Guard | MayhemCode | [Read More](https://medium.com/p/5f9fc4eec1f1) |
-| Mon, 25 Aug 2025 07:54:51 GMT | How Custom Web App Development Benefits Small Business RPA | Noahlucas | [Read More](https://medium.com/p/e5640cc3b7da) |
-| Mon, 25 Aug 2025 07:53:30 GMT | The Future of Work Is Here — And So Are the Risks: Phishing with Perplexity’s Comet | Ashley Dai | [Read More](https://medium.com/p/4f654a2a8c98) |
-| Mon, 25 Aug 2025 07:52:44 GMT | Red Teamers vs.  Blue Teamers in AI Safety: Which One Are You? | S3CloudHub | [Read More](https://medium.com/p/d7c3ee0c9ba1) |
-| Mon, 25 Aug 2025 07:52:16 GMT | Is VAPT Worth the Cost in 2025? | Qualysec | [Read More](https://medium.com/p/161521740936) |
-| Mon, 25 Aug 2025 07:51:18 GMT | California Cybersecurity Programs: Shaping Tomorrow’s Digital Defenders | Serishahid | [Read More](https://medium.com/p/ab65495c5cfd) |
-| Mon, 25 Aug 2025 07:50:30 GMT | The Hidden Dangers of Logging Secrets (CWE-532) | Bhavesh sharma | [Read More](https://medium.com/p/6ee9e261c994) |
-| Mon, 25 Aug 2025 07:48:26 GMT | Protecting Your Business Data: Cybersecurity Best Practices for CCTV Systems | Marcela John | [Read More](https://medium.com/p/51942e3bfe49) |
-| Mon, 25 Aug 2025 07:46:49 GMT | How to Use OWASP Rules Effectively in Azure Web Application Firewall (WAF) | Ambika | [Read More](https://medium.com/p/a59b75146d44) |
-| Mon, 25 Aug 2025 07:42:11 GMT | What is the CIA triad in Information Security? | Pranav soni | [Read More](https://medium.com/p/ee05f5f5e0bd) |
