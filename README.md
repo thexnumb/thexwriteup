@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 11:06:31 GMT | The Dark Side of LLM-Powered Security Automation | Aryan D | [Read More](https://medium.com/p/d59e044a852e) |
+| Mon, 25 Aug 2025 10:59:59 GMT | Trying to use Linux as a Complete Beginner in cyb | Emmanuel Jeffrey Kassa | [Read More](https://medium.com/p/abd91e3832d1) |
+| Mon, 25 Aug 2025 10:59:53 GMT | TryHackMe “Basic Dynamic Analysis” — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/fdd7ab746e21) |
+| Mon, 25 Aug 2025 10:59:51 GMT | Blackmer Unveils New Hydraulic Adapter Kit | Whyps | [Read More](https://medium.com/p/3178ab6f45aa) |
+| Mon, 25 Aug 2025 10:54:17 GMT | The Rise of “Encryption-Less” Ransomware | Cybersecurity Umbrella | [Read More](https://medium.com/p/40453ad5a8b5) |
+| Mon, 25 Aug 2025 10:49:52 GMT | Unlock Big Discounts: 20 NordVPN YouTuber Promo Codes | George B | [Read More](https://medium.com/p/81d63aadd2c6) |
 | Mon, 25 Aug 2025 10:41:12 GMT | Ensuring Safety and Trust with CISS India: A Leader in Security Guard Services | Ciss India | [Read More](https://medium.com/p/f17d0f7c235c) |
+| Mon, 25 Aug 2025 10:40:40 GMT | Top 10 Features of the Best Home Security Systems: ADT vs. Vivint | Solide Info Media | [Read More](https://medium.com/p/f7ce569cc9bb) |
+| Mon, 25 Aug 2025 10:40:38 GMT | ️‍♂️ Advanced Static Analysis with Ghidra: Exploring the TryHackMe Room (Walkthrough) | Furkanctiner | [Read More](https://medium.com/p/a40c011d9209) |
+| Mon, 25 Aug 2025 10:39:12 GMT | The Most Effective Way to Implement Cisco Zero Trust | Solide Info Media | [Read More](https://medium.com/p/c1402f1757d8) |
 | Mon, 25 Aug 2025 10:37:53 GMT | Top 5 Security Features in a Modern Automatic Fare Collection System | DigiPay Guru | [Read More](https://medium.com/p/0d43ca3cee66) |
 | Mon, 25 Aug 2025 10:37:12 GMT | Securing Kubernetes Layer by Layer: An OSI Approach (Part 2 : L4) | Benoit Lefebvre | [Read More](https://medium.com/p/498c69f951fc) |
 | Mon, 25 Aug 2025 10:36:45 GMT | An Apache Web Services Intelligence Operation | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/c644c4567fae) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 05:42:25 GMT | When a Bug Bounty Turned Into a Real Attack | Shahzaib | [Read More](https://medium.com/p/48ffb6f027f7) |
 | Mon, 25 Aug 2025 05:42:00 GMT | How Scams Really Run on the Dark Web | adityaax | [Read More](https://medium.com/p/5d4eb84db860) |
 | Mon, 25 Aug 2025 05:39:37 GMT | WordPress Security Checklist Every Website Owner Must Follow | Saad Khan | [Read More](https://medium.com/p/83a0a63e91fd) |
-| Mon, 25 Aug 2025 05:31:40 GMT | The Night I Thought I Made It~ | Davemoore Edoho | [Read More](https://medium.com/p/8521a31cd97b) |
-| Mon, 25 Aug 2025 05:24:39 GMT | What is an Intelligence Product? A Complete Guide | Adam Goss | [Read More](https://medium.com/p/8cd0074215e1) |
-| Mon, 25 Aug 2025 05:23:26 GMT | Post-Quantum Cryptography: Preparing Your Business for Tomorrow’s Threats | KodekX | [Read More](https://medium.com/p/e551e580c778) |
-| Mon, 25 Aug 2025 05:18:16 GMT | Understanding CORS Cross-Origin Resource Sharing | Thidas Senavirathna | [Read More](https://medium.com/p/59965d96e7a8) |
-| Mon, 25 Aug 2025 05:15:52 GMT | The Future of Cybersecurity Jobs: What Will Change in 2030? | Ann Maria | [Read More](https://medium.com/p/e5c3080094dd) |
-| Mon, 25 Aug 2025 05:01:37 GMT | Why Bahrain’s Job Market is Booming in 2025 | Edstellar Official | [Read More](https://medium.com/p/afaf673e2e62) |
-| Mon, 25 Aug 2025 05:01:37 GMT | PicoCTF 2025: Cookie Monster Secret Recipe — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/1457764ee823) |
-| Mon, 25 Aug 2025 04:59:19 GMT | 5 Best Books to Learn Cyber Security in 2025 | javinpaul | [Read More](https://medium.com/p/68990ca35697) |
-| Mon, 25 Aug 2025 04:51:49 GMT | Top 10 Career Options for Computer Science Grads in 2025 (And Why You Should Care) | Pawan Shah | [Read More](https://medium.com/p/168b9022eb64) |
