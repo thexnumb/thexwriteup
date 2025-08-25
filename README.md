@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 17:28:24 GMT | Can You Trust What You See? Deepfake Scams Are Exploding in 2025 | Paritosh | [Read More](https://medium.com/p/9eb1c7062468) |
+| Mon, 25 Aug 2025 17:27:33 GMT | Undocumented AWS APIs & Botocore Models | Ada N | [Read More](https://medium.com/p/31260087a2ed) |
+| Mon, 25 Aug 2025 17:22:44 GMT | Fuzzy Hashing | Samet Koca | [Read More](https://medium.com/p/d7a033f8757e) |
+| Mon, 25 Aug 2025 17:22:17 GMT | Million Dots Dos — Worth $7,640 — Unauthenticated GraphQL Endpoint — Gitlab | Justas_b | [Read More](https://medium.com/p/8f4fbb01c782) |
+| Mon, 25 Aug 2025 17:20:39 GMT | ChatGPT and User Privacy: 10 FactsYou Need to Know About Data Policy and Security | Bambino Guapo | [Read More](https://medium.com/p/cc4794afe61a) |
+| Mon, 25 Aug 2025 17:18:04 GMT | Segurança de Perímetro em DevSecOps | Gabi Deutner | [Read More](https://medium.com/p/b6fce64ead9f) |
 | Mon, 25 Aug 2025 17:13:12 GMT | Device Certificate Management in Large-Scale IoT: Part 1 — Key Generation | Markand Pathak | [Read More](https://medium.com/p/3c0b1adcbba7) |
+| Mon, 25 Aug 2025 17:10:10 GMT | Launching Soon: Ethical Hacking & Bug Bounty Course on Udemy! | Mukilan Baskaran | [Read More](https://medium.com/p/3c9b444e9cc4) |
 | Mon, 25 Aug 2025 17:09:58 GMT | When cyberattacks hit healthcare, the consequences are not just financial — they are… | Dr. Shashi Karhail | [Read More](https://medium.com/p/f305423173da) |
 | Mon, 25 Aug 2025 17:05:49 GMT | From Stone Tools to Digital Transformation: The Role of Management Information Systems | İclal Aca | [Read More](https://medium.com/p/3e34840faa34) |
 | Mon, 25 Aug 2025 17:05:35 GMT | Warning: Python Developers Are Being Targeted by Sophisticated PyPI Phishing Attacks | Er.Muruganantham | [Read More](https://medium.com/p/4be39c80bbf8) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 12:48:08 GMT | Strengthening Digital Security with VAPT Security Testing Services — Power Your Business with… | Dmvikash | [Read More](https://medium.com/p/0f65d7eeabf6) |
 | Mon, 25 Aug 2025 12:43:56 GMT | The Collapse of Invisible Barriers: Broken Access Control | Huzeyfe Gonenci | [Read More](https://medium.com/p/a1815d55735e) |
 | Mon, 25 Aug 2025 12:39:28 GMT | Why Your Conversations Turn Into Ads: The Microphone Trap | Shwet Shirbhayye | [Read More](https://medium.com/p/d7b405f2149b) |
-| Mon, 25 Aug 2025 12:37:56 GMT | Blind XSS via Clipboard Paste Handling: A Detailed Guide | coffinxp | [Read More](https://medium.com/p/4c52d65c43f4) |
-| Mon, 25 Aug 2025 12:37:24 GMT | Analyzing Identity Management That Drives Innovation | Cyber Security Research | [Read More](https://medium.com/p/4cef9a529294) |
-| Mon, 25 Aug 2025 12:35:37 GMT | Online Scams 101: Everything You Need to Know | Lindaclousin | [Read More](https://medium.com/p/e2e410cfe0ae) |
-| Mon, 25 Aug 2025 12:34:52 GMT | Analyzing Endpoint Protection in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/32879ddbeb7b) |
-| Mon, 25 Aug 2025 12:33:36 GMT | Analyzing Endpoint Protection for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/bec904ecc571) |
-| Mon, 25 Aug 2025 12:32:22 GMT | Analyzing Endpoint Protection for Organizations | Cyber Security Research | [Read More](https://medium.com/p/3db5e3610480) |
-| Mon, 25 Aug 2025 12:31:01 GMT | Analyzing Endpoint Protection for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/3e506f6a89ba) |
