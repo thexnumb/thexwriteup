@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 02:59:09 GMT | Best VPN & eSIM Providers in 2025 - Secure, Reliable, and Affordable Options | Mr Chiangrai | [Read More](https://medium.com/p/f036d22d9e89) |
+| Mon, 25 Aug 2025 02:57:21 GMT | ️ Deploying and Securing Web Services with Docker on Ubuntu: A Security+ Lab Experience | Jahson Jno-Baptiste | [Read More](https://medium.com/p/e3d486b0788c) |
+| Mon, 25 Aug 2025 02:54:24 GMT | LabVulnerDursGo: A Hands-On Testing Ground for DursGo Scanner | Kang Ali | [Read More](https://medium.com/p/edb562f3c994) |
+| Mon, 25 Aug 2025 02:53:00 GMT | The convergence of SaaS and why next-gen EDR might not be what you think… | Victor De Luca | [Read More](https://medium.com/p/22afd3174c2c) |
+| Mon, 25 Aug 2025 02:52:37 GMT | How to Stop AI Bots from Scraping Your Self-Hosted Git Repos with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/e268468b8054) |
+| Mon, 25 Aug 2025 02:37:50 GMT | Automating Container Scans and Policy Compliance for GCR Deployments | Neel Shah | [Read More](https://medium.com/p/69707b93e9f5) |
+| Mon, 25 Aug 2025 02:37:25 GMT | How I Got Hooked on Hacking: My First Successful Exploit | Aj | [Read More](https://medium.com/p/f5016883d45c) |
+| Mon, 25 Aug 2025 02:33:32 GMT | Account Verification Bypass through JWT Misuse & CWE-398 | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/d302276b80bf) |
+| Mon, 25 Aug 2025 02:27:12 GMT | DursGo — The Go-Powered Web Application Scanner | Kang Ali | [Read More](https://medium.com/p/174616a72f6c) |
+| Mon, 25 Aug 2025 02:24:50 GMT | Lost in Translation: Threat Actors Use SEO Poisoning and Fake DeepL Sites to Distribute Gh0st RAT | Defentive | [Read More](https://medium.com/p/4e827539601d) |
+| Mon, 25 Aug 2025 02:05:03 GMT | MCP Server with URLhaus | dmdund | [Read More](https://medium.com/p/5f25a618acd9) |
+| Mon, 25 Aug 2025 01:47:30 GMT | How I Built (and Secured) My First Mini-Network in Cisco Packet Tracer | Mary Isioma | [Read More](https://medium.com/p/9078ee7d0964) |
+| Mon, 25 Aug 2025 01:41:59 GMT | The Final Frontier: How AI and Cybersecurity Are Reshaping Space Security Over the Next Decade | CCD-IS | [Read More](https://medium.com/p/9a39e2c71d62) |
 | Mon, 25 Aug 2025 01:29:15 GMT | Building a Complete Home SOC Lab: Network Security Implementation and Automated Threat Response | Shahal Farhan | [Read More](https://medium.com/p/1c125cf066a0) |
 | Mon, 25 Aug 2025 01:17:19 GMT | Lari Ada Tikus — COMPFEST 17 HackerClass Write-Up (Forensics) | detarune | [Read More](https://medium.com/p/7b2733ade577) |
 | Mon, 25 Aug 2025 01:13:48 GMT | Dear BF-COMPFEST 17 HackerClass Write-Up (Forensics) | detarune | [Read More](https://medium.com/p/b37bc553ae0b) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 17:50:30 GMT | Agentic AI, “Vibe Coding” and the Rise of Hackbots | Above The Firewall | [Read More](https://medium.com/p/0565e89e5b7f) |
 | Sun, 24 Aug 2025 17:49:02 GMT | Portswigger Unprotected Admin Functionality | Cybernerddd | [Read More](https://medium.com/p/f3829e219db4) |
 | Sun, 24 Aug 2025 17:44:46 GMT | The Rise of Cloud Bursting: How It’s Changing Business IT | Hafizbilaltariq | [Read More](https://medium.com/p/b21a4baaf825) |
-| Sun, 24 Aug 2025 17:37:32 GMT | How I Learned the Hard Way That Backups Aren’t Optional | Cyberkech | [Read More](https://medium.com/p/0bfc4040ffd2) |
-| Sun, 24 Aug 2025 17:36:44 GMT | Beyond LLMs: Specialization + Integration Is the Real AI Roadmap | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/6fae8544fbe0) |
-| Sun, 24 Aug 2025 17:35:56 GMT | Ransomware Tabletop Exercise & Playbook | whoami | [Read More](https://medium.com/p/fd74a495777b) |
-| Sun, 24 Aug 2025 17:35:42 GMT | Signal vs. Session vs. Telegram: Which Messenger Actually Protects You in 2025? | BiyteLüm | [Read More](https://medium.com/p/e0a13c8f08b1) |
-| Sun, 24 Aug 2025 17:34:09 GMT | XSS Mass Hunting CVE-2025-44148 | AbhirupKonwar | [Read More](https://medium.com/p/8737e86c04d9) |
-| Sun, 24 Aug 2025 17:33:58 GMT | CyberDefenders Reveal Lab Write-Up | Andrew | [Read More](https://medium.com/p/b2cdc7b4d937) |
-| Sun, 24 Aug 2025 17:29:47 GMT | There Is a Lovely Land (OSINT brunner CTF) | Baraa Hesham | [Read More](https://medium.com/p/d521ecbbba15) |
-| Sun, 24 Aug 2025 17:29:37 GMT | Navigating the Nexus | PSD Global | [Read More](https://medium.com/p/82a42fdf858b) |
-| Sun, 24 Aug 2025 17:20:09 GMT | Cybersecurity in 2025: Why It Matters More Than Ever | Paulson Fernandes | [Read More](https://medium.com/p/376843c315d7) |
-| Sun, 24 Aug 2025 17:18:56 GMT | Hands-On Linux Security & Automation for DevOps: A Beginner’s Guide | Gabriel Ejiro | [Read More](https://medium.com/p/fa2efc2a1954) |
-| Sun, 24 Aug 2025 17:16:44 GMT | The Problem Statement: Why AWS Developed VPC Origin | Ashish Kasaudhan | [Read More](https://medium.com/p/45e724d51a01) |
-| Sun, 24 Aug 2025 17:11:41 GMT | Cyber Stories #1: Charlie and the Suspicious Email ✉️ | Rosemary Lark | [Read More](https://medium.com/p/f8e6ef66d051) |
-| Sun, 24 Aug 2025 17:11:36 GMT | Kubernetes RBAC deep dive: Understanding authorization with kubectl and curl | Gabriel Garrido | [Read More](https://medium.com/p/9da8663b445e) |
