@@ -12,11 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 16:44:30 GMT | Locking Down Secrets: Secure Your Android API Keys with AES-GCM & Keystore | Mahmoud Ramadan | [Read More](https://medium.com/p/d6ea04e72c0b) |
+| Mon, 25 Aug 2025 16:42:43 GMT | How AI Is Reshaping Cybersecurity in the Enterprise: Lessons from the Front Lines | Maximilian Oliver | [Read More](https://medium.com/p/2e589cf04c7c) |
+| Mon, 25 Aug 2025 16:42:35 GMT | Day 42- Understanding the definition of risk for beginners | unica 02 | [Read More](https://medium.com/p/e3c4570769fa) |
+| Mon, 25 Aug 2025 16:42:13 GMT | I Am Code | Life Thru My Eyes | [Read More](https://medium.com/p/3bdbd86a3a61) |
+| Mon, 25 Aug 2025 16:38:10 GMT | Segurança de Software | Gabi Deutner | [Read More](https://medium.com/p/f35f4a6c8a8c) |
+| Mon, 25 Aug 2025 16:38:00 GMT | IBM App Connect Enterprise (ACE) vs IBM DataPower Gateway | Srikanthkonduru | [Read More](https://medium.com/p/25cdc3d25f7b) |
+| Mon, 25 Aug 2025 16:35:50 GMT | The Truth About Corporate Espionage — A Millennial’s Perspective | Zayne Harbison | [Read More](https://medium.com/p/b8963ee30247) |
+| Mon, 25 Aug 2025 16:33:56 GMT | Misstep VulNyx — Official Writeup | TirexV2 | [Read More](https://medium.com/p/4fda5c2233ad) |
+| Mon, 25 Aug 2025 16:28:44 GMT | Understanding ISO 27001 and ISO 27002: A Human-Centered Guide to Information Security Management | Genrunic | [Read More](https://medium.com/p/ae8f6b45af46) |
 | Mon, 25 Aug 2025 16:24:19 GMT | Software Engineer @Palo Alto Networks - Interview Experience | Kumar | [Read More](https://medium.com/p/ab579a22694e) |
 | Mon, 25 Aug 2025 16:20:08 GMT | TryHackMe — Pickle Rick Walkthrough | Vikash Yadav | [Read More](https://medium.com/p/78d35b15a18a) |
 | Mon, 25 Aug 2025 16:19:41 GMT | Flagtionary — Web | Mostafa Abd-Elbaky | [Read More](https://medium.com/p/bd3da8aedad1) |
 | Mon, 25 Aug 2025 16:19:32 GMT | Kimsuky APT Data Leak — Certificados GPKI, Rootkits e Cobalt Strike Personal Uncovered | th3zekry | [Read More](https://medium.com/p/f732154d79ef) |
 | Mon, 25 Aug 2025 16:18:52 GMT | Why Project works on locallly but breaks on dev | Hirenchavda | [Read More](https://medium.com/p/9812a446e51d) |
+| Mon, 25 Aug 2025 16:17:17 GMT | Best Security Systems in Kenya | Debrazz Security Systems | [Read More](https://medium.com/p/affd0c38de5b) |
 | Mon, 25 Aug 2025 16:13:52 GMT | Agent Sudo on TryHackMe | Vikash Yadav | [Read More](https://medium.com/p/34d99525d8d0) |
 | Mon, 25 Aug 2025 16:11:01 GMT | Smart Cybersecurity Investments for SMEs: Lessons, Pitfalls, and Practical Strategies | Wasitpon Sinthuphon | [Read More](https://medium.com/p/4f86203058fc) |
 | Mon, 25 Aug 2025 16:07:27 GMT | Why Security Experts Say to Ditch SMS 2FA (two-factor authentication) | Xanthi Syrakou | [Read More](https://medium.com/p/169986986966) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 12:05:07 GMT | Agentic Browsers: A New Frontier or Security Disaster | Sundaram Dubey | [Read More](https://medium.com/p/4aca71f93d4e) |
 | Mon, 25 Aug 2025 12:02:40 GMT | Title: | Thwab | [Read More](https://medium.com/p/6e870e598623) |
 | Mon, 25 Aug 2025 11:59:29 GMT | Malware Analysis | Jasmehr Kaur | [Read More](https://medium.com/p/0516a082690b) |
-| Mon, 25 Aug 2025 11:53:41 GMT | HTB Authority Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/0785cb178540) |
-| Mon, 25 Aug 2025 11:52:24 GMT | Title: | Thwab | [Read More](https://medium.com/p/d0b7909acd0f) |
-| Mon, 25 Aug 2025 11:48:47 GMT | How Affordable is iOS and Android App Development in Riyadh? | Five Programmers | [Read More](https://medium.com/p/788f513a77d8) |
-| Mon, 25 Aug 2025 11:48:34 GMT | How to Secure Your LMS Website from Unauthorized Access | Md. Mostafizur Rahman | [Read More](https://medium.com/p/c5c8b658bf4e) |
-| Mon, 25 Aug 2025 11:44:01 GMT | Nokia Morph Redefined: How This Concept Inspires 2025 Smartphones | Elowen Virelle | [Read More](https://medium.com/p/f39951bfcb21) |
-| Mon, 25 Aug 2025 11:42:03 GMT | JWTs ≠ Sessions: The Costly Mistake Every Dev Makes | Kavya's Programming Path | [Read More](https://medium.com/p/d56e7b26c13f) |
-| Mon, 25 Aug 2025 11:34:15 GMT | Auto-Compliance Protocol Routing: Making Cross-Chain Transfers Legally Safe by Default | Bright Mmaduabuchi | [Read More](https://medium.com/p/9d67ee49be18) |
-| Mon, 25 Aug 2025 11:33:18 GMT | Finans Sektöründe Tehdit İstihbaratının Önemi | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/423e39eef5e9) |
-| Mon, 25 Aug 2025 11:25:08 GMT | Checkmarx: The Ultimate Guide to Secure Your Code Effortlessly | Davebhargavi | [Read More](https://medium.com/p/1ded8e328c5f) |
-| Mon, 25 Aug 2025 11:23:54 GMT | Kirill Firsov Explain the Role of Ethical Hacking in Digital Finance | kirill Firsov | [Read More](https://medium.com/p/d22f6053cf1e) |
