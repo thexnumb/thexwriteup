@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 09:17:40 GMT | 10+ Vulnerabilities Reported but no Response | AbhirupKonwar | [Read More](https://medium.com/p/97fdfd80f738) |
+| Mon, 25 Aug 2025 09:13:44 GMT | She doesn’t want your solutions; she wants to be heard. | Zeshan Khan | [Read More](https://medium.com/p/c3437871c133) |
+| Mon, 25 Aug 2025 09:13:04 GMT | Top Security Solutions in Bangalore: Protecting Businesses, Homes, and Communities | Global Security | [Read More](https://medium.com/p/0812438e98c5) |
+| Mon, 25 Aug 2025 09:02:06 GMT | From Guards to Dashboards: Why Transparency Defines Modern Security Services | ICORP Security | [Read More](https://medium.com/p/badaa9298c0a) |
+| Mon, 25 Aug 2025 08:44:38 GMT | DockerLabs Writeup — Predictable (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/914607cac12b) |
+| Mon, 25 Aug 2025 08:44:22 GMT | Nmap Scanning For Beginners | FATAOS3C | [Read More](https://medium.com/p/048431e122a4) |
+| Mon, 25 Aug 2025 08:37:01 GMT | What is XXS? | Dark | [Read More](https://medium.com/p/47bfc3b28e6e) |
+| Mon, 25 Aug 2025 08:35:47 GMT | Hannibal Stealer vs. Browser Security: Part 1 | Netlas.io | [Read More](https://medium.com/p/5db909f8854d) |
+| Mon, 25 Aug 2025 08:35:43 GMT | The Hidden Power of ping: Networking Secrets Nobody Explains | Aashish Kumar | [Read More](https://medium.com/p/ef6039b07e06) |
+| Mon, 25 Aug 2025 08:31:33 GMT | PermRust: A Token-Based Permission System | Ashish Sharda | [Read More](https://medium.com/p/21ce0a3deaea) |
+| Mon, 25 Aug 2025 08:31:33 GMT | Unlocking the Secrets of Cryptography: A Beginner's Guide to Fundamentals and Real-World… | Danladi Galadima | [Read More](https://medium.com/p/83c3bd23e8ba) |
+| Mon, 25 Aug 2025 08:31:33 GMT | Vibe Coding: Expecting Malware to Wear a Name Tag | Namir Sagheenanajar | [Read More](https://medium.com/p/ff0ccd0de66c) |
 | Mon, 25 Aug 2025 08:27:23 GMT | Easy 9.6 critical bug in 5 min | Adam | [Read More](https://medium.com/p/0fc2356487fc) |
+| Mon, 25 Aug 2025 08:24:04 GMT | Why 192.168.x.x Isn’t Just a Home IP Address (And What It Really Means) | Aashish Kumar | [Read More](https://medium.com/p/42a782baad20) |
 | Mon, 25 Aug 2025 08:21:38 GMT | Code does not lie | Maikel Mardjan | [Read More](https://medium.com/p/f834f1554125) |
+| Mon, 25 Aug 2025 08:18:43 GMT | Hacked? The Whispers Your Tech is Trying to Tell You | SilentInject | [Read More](https://medium.com/p/46bc33ecae53) |
 | Mon, 25 Aug 2025 08:15:04 GMT | Knowledge Check - Getting Started — HackTheBox. | B3TA-BLOCKER | [Read More](https://medium.com/p/22b231f4ebbf) |
 | Mon, 25 Aug 2025 08:13:32 GMT | RISK MANAGEMENT 101: When a Nation Becomes Its Own Greatest Risk; The Illusion of Security and the… | Jair Abrego Cubilla | [Read More](https://medium.com/p/09ea6d48d3fa) |
 | Mon, 25 Aug 2025 08:13:24 GMT | COBIT 2019 for Auditors: A Quick Guide | Tedislava Vasileva | [Read More](https://medium.com/p/2d13974b2277) |
@@ -102,17 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 03:30:16 GMT | How to Block Access to .git and .svn Files with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/be7fbdd4c39e) |
 | Mon, 25 Aug 2025 03:25:06 GMT | SQL Injection Lab — TryHackMe — Walkthrough & answers | Tapasvi Madhak | [Read More](https://medium.com/p/c0ed7fc3bd33) |
 | Mon, 25 Aug 2025 03:23:03 GMT | V380 Pro WiFi IP Camera Outdoor 12MP 6K Triple Lenses Triple Screens Security Video Monitor Night… | Gift Card | [Read More](https://medium.com/p/badf5cca281a) |
-| Mon, 25 Aug 2025 02:59:09 GMT | Best VPN & eSIM Providers in 2025 - Secure, Reliable, and Affordable Options | Mr Chiangrai | [Read More](https://medium.com/p/f036d22d9e89) |
-| Mon, 25 Aug 2025 02:57:21 GMT | ️ Deploying and Securing Web Services with Docker on Ubuntu: A Security+ Lab Experience | Jahson Jno-Baptiste | [Read More](https://medium.com/p/e3d486b0788c) |
-| Mon, 25 Aug 2025 02:54:24 GMT | LabVulnerDursGo: A Hands-On Testing Ground for DursGo Scanner | Kang Ali | [Read More](https://medium.com/p/edb562f3c994) |
-| Mon, 25 Aug 2025 02:53:00 GMT | The convergence of SaaS and why next-gen EDR might not be what you think… | Victor De Luca | [Read More](https://medium.com/p/22afd3174c2c) |
-| Mon, 25 Aug 2025 02:52:37 GMT | How to Stop AI Bots from Scraping Your Self-Hosted Git Repos with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/e268468b8054) |
-| Mon, 25 Aug 2025 02:37:50 GMT | Automating Container Scans and Policy Compliance for GCR Deployments | Neel Shah | [Read More](https://medium.com/p/69707b93e9f5) |
-| Mon, 25 Aug 2025 02:37:25 GMT | How I Got Hooked on Hacking: My First Successful Exploit | Aj | [Read More](https://medium.com/p/f5016883d45c) |
-| Mon, 25 Aug 2025 02:33:32 GMT | Account Verification Bypass through JWT Misuse & CWE-398 | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/d302276b80bf) |
-| Mon, 25 Aug 2025 02:27:12 GMT | DursGo — The Go-Powered Web Application Scanner | Kang Ali | [Read More](https://medium.com/p/174616a72f6c) |
-| Mon, 25 Aug 2025 02:24:50 GMT | Lost in Translation: Threat Actors Use SEO Poisoning and Fake DeepL Sites to Distribute Gh0st RAT | Defentive | [Read More](https://medium.com/p/4e827539601d) |
-| Mon, 25 Aug 2025 02:05:03 GMT | MCP Server with URLhaus | dmdund | [Read More](https://medium.com/p/5f25a618acd9) |
-| Mon, 25 Aug 2025 01:47:30 GMT | How I Built (and Secured) My First Mini-Network in Cisco Packet Tracer | Mary Isioma | [Read More](https://medium.com/p/9078ee7d0964) |
-| Mon, 25 Aug 2025 01:41:59 GMT | The Final Frontier: How AI and Cybersecurity Are Reshaping Space Security Over the Next Decade | CCD-IS | [Read More](https://medium.com/p/9a39e2c71d62) |
-| Mon, 25 Aug 2025 01:29:15 GMT | Building a Complete Home SOC Lab: Network Security Implementation and Automated Threat Response | Shahal Farhan | [Read More](https://medium.com/p/1c125cf066a0) |
