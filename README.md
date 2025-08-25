@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 16:24:19 GMT | Software Engineer @Palo Alto Networks - Interview Experience | Kumar | [Read More](https://medium.com/p/ab579a22694e) |
+| Mon, 25 Aug 2025 16:20:08 GMT | TryHackMe — Pickle Rick Walkthrough | Vikash Yadav | [Read More](https://medium.com/p/78d35b15a18a) |
+| Mon, 25 Aug 2025 16:19:41 GMT | Flagtionary — Web | Mostafa Abd-Elbaky | [Read More](https://medium.com/p/bd3da8aedad1) |
+| Mon, 25 Aug 2025 16:19:32 GMT | Kimsuky APT Data Leak — Certificados GPKI, Rootkits e Cobalt Strike Personal Uncovered | th3zekry | [Read More](https://medium.com/p/f732154d79ef) |
+| Mon, 25 Aug 2025 16:18:52 GMT | Why Project works on locallly but breaks on dev | Hirenchavda | [Read More](https://medium.com/p/9812a446e51d) |
+| Mon, 25 Aug 2025 16:13:52 GMT | Agent Sudo on TryHackMe | Vikash Yadav | [Read More](https://medium.com/p/34d99525d8d0) |
+| Mon, 25 Aug 2025 16:11:01 GMT | Smart Cybersecurity Investments for SMEs: Lessons, Pitfalls, and Practical Strategies | Wasitpon Sinthuphon | [Read More](https://medium.com/p/4f86203058fc) |
+| Mon, 25 Aug 2025 16:07:27 GMT | Why Security Experts Say to Ditch SMS 2FA (two-factor authentication) | Xanthi Syrakou | [Read More](https://medium.com/p/169986986966) |
+| Mon, 25 Aug 2025 16:03:32 GMT | Monday Cyber Brief — August 25 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/4178ea25f954) |
+| Mon, 25 Aug 2025 16:03:06 GMT | The Three AI Concepts That Separate Experts from Beginners | Adewuyi Abayomi Daniel | [Read More](https://medium.com/p/4eb04206972b) |
+| Mon, 25 Aug 2025 16:01:21 GMT | From Audit to AI: How Traditional GRC Roles Are Evolving in the Digital Era | Lester Davila Escobedo | [Read More](https://medium.com/p/f721534ee0dd) |
+| Mon, 25 Aug 2025 16:01:19 GMT | Hunting Malware Like a Pro: A Hands-On Guide to Writing YARA Rules | Itz.sanskarr | [Read More](https://medium.com/p/aa4f7780a95c) |
+| Mon, 25 Aug 2025 15:48:07 GMT | From Sign-Up to Stored XSS in Profile: A Real Bug Bounty Report | Saeiez | [Read More](https://medium.com/p/41096ef12a28) |
+| Mon, 25 Aug 2025 15:47:34 GMT | Why Startups That Rushed Into AI Are Now Paying the Price | Clean Compiler | [Read More](https://medium.com/p/8abc0ff3563b) |
+| Mon, 25 Aug 2025 15:43:01 GMT | How I Organize My Code and Workflow (So I Don’t Go Crazy) | Naveen Bandaru | [Read More](https://medium.com/p/f8e6cba36ca7) |
+| Mon, 25 Aug 2025 15:40:21 GMT | The $100 Million Heist Nobody Talks About: A Look Inside the Bangladesh Bank | Archtrmntor | [Read More](https://medium.com/p/618301170fab) |
+| Mon, 25 Aug 2025 15:34:17 GMT | The Days When You Just Need a “Hug” | Haimonti Rakshit | [Read More](https://medium.com/p/45ab84866f8f) |
 | Mon, 25 Aug 2025 15:33:11 GMT | My First Bug Bounty: HTML Injection Got me 250$ | Lakshya | [Read More](https://medium.com/p/419878fc528e) |
 | Mon, 25 Aug 2025 15:31:11 GMT | IT Certifications That Changed My Career: My Journey and Best Recommendations | Luispuello | [Read More](https://medium.com/p/2b09ec473391) |
 | Mon, 25 Aug 2025 15:29:17 GMT | First of all.. | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/5961a9764238) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 11:33:18 GMT | Finans Sektöründe Tehdit İstihbaratının Önemi | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/423e39eef5e9) |
 | Mon, 25 Aug 2025 11:25:08 GMT | Checkmarx: The Ultimate Guide to Secure Your Code Effortlessly | Davebhargavi | [Read More](https://medium.com/p/1ded8e328c5f) |
 | Mon, 25 Aug 2025 11:23:54 GMT | Kirill Firsov Explain the Role of Ethical Hacking in Digital Finance | kirill Firsov | [Read More](https://medium.com/p/d22f6053cf1e) |
-| Mon, 25 Aug 2025 11:23:32 GMT | When Hackers Trick AI: Understanding Evasion Attacks | Brittney Ginther | [Read More](https://medium.com/p/c2e3c08a792e) |
-| Mon, 25 Aug 2025 11:18:37 GMT | ️ Web3 Security Weekly — Aug 18–24, 2025 | Null Return | [Read More](https://medium.com/p/cb252de86a21) |
-| Mon, 25 Aug 2025 11:17:39 GMT | Why Zelion’s $ZYL Token Powers a Thriving, Community-Driven Web3 Revolution | Starlove_e | [Read More](https://medium.com/p/ae8b5a85ee2e) |
-| Mon, 25 Aug 2025 11:17:32 GMT | From Recon to Riches: How Cybersecurity Hunters Are Turning Recon Tools Into Gold in 2025 | DJH4CK3R | [Read More](https://medium.com/p/4a93c8563893) |
-| Mon, 25 Aug 2025 11:17:32 GMT | Phishing Doesn’t Look Like Phishing | Evgeny Ermakov | [Read More](https://medium.com/p/0d1bae87fa62) |
-| Mon, 25 Aug 2025 11:17:12 GMT | The Future of Digital Identity: Why Your Online Self Matters More Than Ever | DJH4CK3R | [Read More](https://medium.com/p/2300352a7670) |
-| Mon, 25 Aug 2025 11:16:21 GMT | Yapay Zeka Tarayıcıları Bu “Ölümcül Üçlü” Teknikle Verilerinizi Çalabiliyor! | Özgür Kurtuluş | [Read More](https://medium.com/p/af5ba372ffef) |
-| Mon, 25 Aug 2025 11:08:23 GMT | 10 Best Access Control Software in 2025: Features, Pricing, and Use Cases | SecureSlate | [Read More](https://medium.com/p/1a83c7ca3e7f) |
-| Mon, 25 Aug 2025 11:06:31 GMT | The Dark Side of LLM-Powered Security Automation | Aryan D | [Read More](https://medium.com/p/d59e044a852e) |
-| Mon, 25 Aug 2025 10:59:59 GMT | Trying to use Linux as a Complete Beginner in cyb | Emmanuel Jeffrey Kassa | [Read More](https://medium.com/p/abd91e3832d1) |
-| Mon, 25 Aug 2025 10:59:53 GMT | TryHackMe “Basic Dynamic Analysis” — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/fdd7ab746e21) |
-| Mon, 25 Aug 2025 10:59:51 GMT | Blackmer Unveils New Hydraulic Adapter Kit | Whyps | [Read More](https://medium.com/p/3178ab6f45aa) |
-| Mon, 25 Aug 2025 10:54:17 GMT | The Rise of “Encryption-Less” Ransomware | Cybersecurity Umbrella | [Read More](https://medium.com/p/40453ad5a8b5) |
-| Mon, 25 Aug 2025 10:49:52 GMT | Unlock Big Discounts: 20 NordVPN YouTuber Promo Codes | George B | [Read More](https://medium.com/p/81d63aadd2c6) |
-| Mon, 25 Aug 2025 10:41:12 GMT | Ensuring Safety and Trust with CISS India: A Leader in Security Guard Services | Ciss India | [Read More](https://medium.com/p/f17d0f7c235c) |
-| Mon, 25 Aug 2025 10:40:40 GMT | Top 10 Features of the Best Home Security Systems: ADT vs. Vivint | Solide Info Media | [Read More](https://medium.com/p/f7ce569cc9bb) |
-| Mon, 25 Aug 2025 10:40:38 GMT | ️‍♂️ Advanced Static Analysis with Ghidra: Exploring the TryHackMe Room (Walkthrough) | Furkanctiner | [Read More](https://medium.com/p/a40c011d9209) |
