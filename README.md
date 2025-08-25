@@ -12,11 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 05:42:25 GMT | When a Bug Bounty Turned Into a Real Attack | Shahzaib | [Read More](https://medium.com/p/48ffb6f027f7) |
+| Mon, 25 Aug 2025 05:42:00 GMT | How Scams Really Run on the Dark Web | adityaax | [Read More](https://medium.com/p/5d4eb84db860) |
+| Mon, 25 Aug 2025 05:31:40 GMT | The Night I Thought I Made It~ | Davemoore Edoho | [Read More](https://medium.com/p/8521a31cd97b) |
+| Mon, 25 Aug 2025 05:24:39 GMT | What is an Intelligence Product? A Complete Guide | Adam Goss | [Read More](https://medium.com/p/8cd0074215e1) |
+| Mon, 25 Aug 2025 05:23:26 GMT | Post-Quantum Cryptography: Preparing Your Business for Tomorrow’s Threats | KodekX | [Read More](https://medium.com/p/e551e580c778) |
 | Mon, 25 Aug 2025 05:18:16 GMT | Understanding CORS Cross-Origin Resource Sharing | Thidas Senavirathna | [Read More](https://medium.com/p/59965d96e7a8) |
+| Mon, 25 Aug 2025 05:15:52 GMT | The Future of Cybersecurity Jobs: What Will Change in 2030? | Ann Maria | [Read More](https://medium.com/p/e5c3080094dd) |
 | Mon, 25 Aug 2025 05:01:37 GMT | Why Bahrain’s Job Market is Booming in 2025 | Edstellar Official | [Read More](https://medium.com/p/afaf673e2e62) |
 | Mon, 25 Aug 2025 05:01:37 GMT | PicoCTF 2025: Cookie Monster Secret Recipe — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/1457764ee823) |
 | Mon, 25 Aug 2025 04:59:19 GMT | 5 Best Books to Learn Cyber Security in 2025 | javinpaul | [Read More](https://medium.com/p/68990ca35697) |
 | Mon, 25 Aug 2025 04:51:49 GMT | Top 10 Career Options for Computer Science Grads in 2025 (And Why You Should Care) | Pawan Shah | [Read More](https://medium.com/p/168b9022eb64) |
+| Mon, 25 Aug 2025 04:32:52 GMT | Prompt Injection : comprendre et corriger le talon d’Achille des IA génératives | Mickael Mahabot | [Read More](https://medium.com/p/cc11d660e8ff) |
 | Mon, 25 Aug 2025 04:31:56 GMT | The Real Hack: The Pocket Tools That Make a Real Difference | Altair | [Read More](https://medium.com/p/35abb7dbb399) |
 | Mon, 25 Aug 2025 04:31:09 GMT | When URLs Lie: Homographic and Semantic Phishing Attacks | Daniel | [Read More](https://medium.com/p/44e126a0afe7) |
 | Mon, 25 Aug 2025 04:28:02 GMT | How Hackers in the UAE Are Using Public Networks | The UNFILTERED Draft | [Read More](https://medium.com/p/13c60f4594a0) |
@@ -109,10 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 20:10:26 GMT | For Themyscira! — 2025 Target Cyber Defense Challenge Tier 1 Write-Up | CyberSecJess | [Read More](https://medium.com/p/027f39dbf879) |
 | Sun, 24 Aug 2025 20:01:33 GMT | The Overlooked Profile of the Most Effective CISOs — The Gardener | Yael Nagler | [Read More](https://medium.com/p/c807397a605b) |
 | Sun, 24 Aug 2025 20:01:21 GMT | Why Your Next Computer Might Not Live in Your House | Derek Wood | [Read More](https://medium.com/p/2266c1c8588f) |
-| Sun, 24 Aug 2025 19:58:08 GMT | [CyberSec] AI & Cybersecurity: The Double-Edged Sword of the Digital Age | Pietro Romano / SecBeret | [Read More](https://medium.com/p/d73ff14ef378) |
-| Sun, 24 Aug 2025 19:53:14 GMT | ⚡ 35 Killer Cybersecurity Commands You Need to Master in 2025 | Unai Rubio | [Read More](https://medium.com/p/57869e683a0b) |
-| Sun, 24 Aug 2025 19:38:38 GMT | Protecting Your Teen Online: Why Cyber Insurance and Open Communication Are Vital | Daniel | [Read More](https://medium.com/p/929300a8841e) |
-| Sun, 24 Aug 2025 19:36:09 GMT | Cybersecurity 2025: Your Shield in the Digital World | _Taskflow Club_ | [Read More](https://medium.com/p/6ab1ddbffe11) |
-| Sun, 24 Aug 2025 19:33:26 GMT | Write-Up for CAT Reloaded CTF/DFIR/Index of Secrets Challenge | Dagon | [Read More](https://medium.com/p/d58badee1b3e) |
-| Sun, 24 Aug 2025 19:29:37 GMT | Why Visible Mall Security Guards Enhance Shopper Confidence | Nimra Sheikh | [Read More](https://medium.com/p/5ca6e7f10d5c) |
-| Sun, 24 Aug 2025 19:29:24 GMT | Forget Deepfaking Politicians. AI Can Deepfake Your Boss on a Live Video Call. | Berker Ceylan | [Read More](https://medium.com/p/a31b0fcfe65f) |
