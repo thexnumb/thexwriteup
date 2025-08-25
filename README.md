@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 07:28:13 GMT | Cybersecurity in India: Protecting the Digital Future (2025 Guide) | Earning Handle | [Read More](https://medium.com/p/6053fb2978d0) |
+| Mon, 25 Aug 2025 07:20:04 GMT | Securing the Cloud: Mastering the Core Principles of Cloud Security | inok009 | [Read More](https://medium.com/p/44a3d009c2dc) |
+| Mon, 25 Aug 2025 07:19:28 GMT | Who is Try’in to Hack you | Arun Gautham | [Read More](https://medium.com/p/91ce6e453086) |
+| Mon, 25 Aug 2025 07:19:21 GMT | Header Games: How a Single HTTP Header Misconfiguration Led Me to Sensitive Data Exposure | Iski | [Read More](https://medium.com/p/8fbb364782d9) |
 | Mon, 25 Aug 2025 07:15:31 GMT | The Modern CISO’s Cybersecurity Playbook: Balancing Security, Risk & Business Priorities | Cloud Kinetics | [Read More](https://medium.com/p/feb3829e42bd) |
 | Mon, 25 Aug 2025 07:10:10 GMT | CISA Issues 10 Security Advisories for Industrial Control Systems | SafetyDetectives Research Team | [Read More](https://medium.com/p/b71c8ca7c36e) |
 | Mon, 25 Aug 2025 07:09:19 GMT | Day 9:- Advanced Linux, Unleashing the Power of the Open Source OS | Prutha_Dongre | [Read More](https://medium.com/p/1ba6b52fc234) |
@@ -112,7 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 23:20:25 GMT | My Agile Journey: Lessons Learned Along the Way | Naveen Bandaru | [Read More](https://medium.com/p/c0a2510dc5e0) |
 | Sun, 24 Aug 2025 23:18:51 GMT | Hardening LLMs with MCP Context Protector | KrishKuchroo | [Read More](https://medium.com/p/2f6f74cd25b1) |
 | Sun, 24 Aug 2025 23:18:01 GMT | 5 Security Headers Every CyberSecurity Candidate Should Know for Job Interview | Mudassir Syed | [Read More](https://medium.com/p/af125095940a) |
-| Sun, 24 Aug 2025 23:11:53 GMT | When CTF Meets Bug Bounty: A Critical UXSS in Opera Browser | Renwa | [Read More](https://medium.com/p/ee16f389e555) |
-| Sun, 24 Aug 2025 23:10:49 GMT | Traditional L3/L4 vs Modern L7 App-ID Monitoring — Palo Alto Zero-Trust | Bill WANG | [Read More](https://medium.com/p/51cf3f209a05) |
-| Sun, 24 Aug 2025 23:01:35 GMT | TryHackMe — Traverse Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/d1a28a936744) |
-| Sun, 24 Aug 2025 22:56:27 GMT | Hands-On with Windows Server 2022: Setting Up Active Directory Domain (ADDS), OUs, Groups, and… | Antriksh Saini | [Read More](https://medium.com/p/eae658750d3a) |
