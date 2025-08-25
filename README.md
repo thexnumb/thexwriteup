@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 10:41:12 GMT | Ensuring Safety and Trust with CISS India: A Leader in Security Guard Services | Ciss India | [Read More](https://medium.com/p/f17d0f7c235c) |
+| Mon, 25 Aug 2025 10:37:53 GMT | Top 5 Security Features in a Modern Automatic Fare Collection System | DigiPay Guru | [Read More](https://medium.com/p/0d43ca3cee66) |
+| Mon, 25 Aug 2025 10:37:12 GMT | Securing Kubernetes Layer by Layer: An OSI Approach (Part 2 : L4) | Benoit Lefebvre | [Read More](https://medium.com/p/498c69f951fc) |
+| Mon, 25 Aug 2025 10:36:45 GMT | An Apache Web Services Intelligence Operation | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/c644c4567fae) |
+| Mon, 25 Aug 2025 10:30:07 GMT | Deepfakes, Trust, and How to Survive | Abdullah Topraksoy | [Read More](https://medium.com/p/a586beed9c2b) |
+| Mon, 25 Aug 2025 10:29:02 GMT | How To: Access The Dark Web Securely | Dove | [Read More](https://medium.com/p/3c55031699a0) |
+| Mon, 25 Aug 2025 10:25:54 GMT | System Design 101 — Module 8: Security & Observability Foundations | The Abstract Engineer | [Read More](https://medium.com/p/4b63d1ee16e3) |
+| Mon, 25 Aug 2025 10:25:39 GMT | ‘I Alone Am Right’ | Terry Schwadron | [Read More](https://medium.com/p/9252928cedf3) |
 | Mon, 25 Aug 2025 10:17:48 GMT | What’s Next After CompTIA Security+? My Experience with the Google Cybersecurity Certificate | Citadel Cybersec | [Read More](https://medium.com/p/306084e3eb72) |
 | Mon, 25 Aug 2025 10:13:17 GMT | Building Efficient SOCs in MEA with SIEM + SOAR Integration | NewEvol | [Read More](https://medium.com/p/471eb77b057b) |
 | Mon, 25 Aug 2025 10:06:06 GMT | Bot Error: From Novelty to Non-Negotiable in Risk Models | Helen Horace | [Read More](https://medium.com/p/744b1f1e339f) |
@@ -104,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 05:01:37 GMT | PicoCTF 2025: Cookie Monster Secret Recipe — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/1457764ee823) |
 | Mon, 25 Aug 2025 04:59:19 GMT | 5 Best Books to Learn Cyber Security in 2025 | javinpaul | [Read More](https://medium.com/p/68990ca35697) |
 | Mon, 25 Aug 2025 04:51:49 GMT | Top 10 Career Options for Computer Science Grads in 2025 (And Why You Should Care) | Pawan Shah | [Read More](https://medium.com/p/168b9022eb64) |
-| Mon, 25 Aug 2025 04:32:52 GMT | Prompt Injection : comprendre et corriger le talon d’Achille des IA génératives | Mickael Mahabot | [Read More](https://medium.com/p/cc11d660e8ff) |
-| Mon, 25 Aug 2025 04:31:56 GMT | The Real Hack: The Pocket Tools That Make a Real Difference | Altair | [Read More](https://medium.com/p/35abb7dbb399) |
-| Mon, 25 Aug 2025 04:31:09 GMT | When URLs Lie: Homographic and Semantic Phishing Attacks | Daniel | [Read More](https://medium.com/p/44e126a0afe7) |
-| Mon, 25 Aug 2025 04:28:02 GMT | How Hackers in the UAE Are Using Public Networks | The UNFILTERED Draft | [Read More](https://medium.com/p/13c60f4594a0) |
-| Mon, 25 Aug 2025 04:24:00 GMT | It’s A TRAP Malware | Adrian Jenkins | [Read More](https://medium.com/p/a95b9447bd27) |
-| Mon, 25 Aug 2025 04:23:31 GMT | Confirmed: The [Carrier] Breach Exposed 150M SSNs, Here’s Your 7-Step Recovery Plan | Sneha Rani | [Read More](https://medium.com/p/a2a53498baa4) |
-| Mon, 25 Aug 2025 04:22:23 GMT | <!DOCTYPE html>
-<html lang=”bn”>
-<head>
- <meta charset=”UTF-8">
- <meta name=”viewport”… | Prodhanmdrakib | [Read More](https://medium.com/p/6cf1318c1f40) |
-| Mon, 25 Aug 2025 04:17:09 GMT | FortiMonitor: Digital Experience Monitoring Platform | Juara IT Solutions | [Read More](https://medium.com/p/5929cdc9d3e3) |
