@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 22:26:56 GMT | Never Access the Dark Web Without Doing This! (Tor + Telegram Demos) | Shahzaib | [Read More](https://medium.com/p/09bb344e0638) |
+| Mon, 25 Aug 2025 22:20:54 GMT | Nocturnal (Easy)- HackTheBox Writeup (Walkthrough) | PriOFF | [Read More](https://medium.com/p/09e4eef3e1a8) |
 | Mon, 25 Aug 2025 21:57:31 GMT | MY CYBERSECURITY JOURNEY: HOW MOOT COURT COMPETITIONS HELPED ME LAND A ROLE PAYING ME IN DOLLARS | Onukwue Eunice | [Read More](https://medium.com/p/20fddca976bb) |
 | Mon, 25 Aug 2025 21:56:41 GMT | Introdução ao Microsoft Sentinel | Lucas Soeiro | [Read More](https://medium.com/p/83b6795e8869) |
 | Mon, 25 Aug 2025 21:51:18 GMT | Locking Secrets at the Speed of Light: The Future of Encryption | Derick Johnson | [Read More](https://medium.com/p/867e4454ffb6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 16:03:32 GMT | Monday Cyber Brief — August 25 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/4178ea25f954) |
 | Mon, 25 Aug 2025 16:03:06 GMT | The Three AI Concepts That Separate Experts from Beginners | Adewuyi Abayomi Daniel | [Read More](https://medium.com/p/4eb04206972b) |
 | Mon, 25 Aug 2025 16:01:21 GMT | From Audit to AI: How Traditional GRC Roles Are Evolving in the Digital Era | Lester Davila Escobedo | [Read More](https://medium.com/p/f721534ee0dd) |
-| Mon, 25 Aug 2025 16:01:19 GMT | Hunting Malware Like a Pro: A Hands-On Guide to Writing YARA Rules | Itz.sanskarr | [Read More](https://medium.com/p/aa4f7780a95c) |
-| Mon, 25 Aug 2025 15:48:07 GMT | From Sign-Up to Stored XSS in Profile: A Real Bug Bounty Report | Saeiez | [Read More](https://medium.com/p/41096ef12a28) |
