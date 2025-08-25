@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 23:02:45 GMT | CAT CTF 2025 Web Walkthrough [Part 2] | Sayed | [Read More](https://medium.com/p/d1ed524cd584) |
+| Mon, 25 Aug 2025 22:49:46 GMT | Smart Tips for Online Banking and Security | Mr Alex | [Read More](https://medium.com/p/6af694b1341e) |
 | Mon, 25 Aug 2025 22:26:56 GMT | Never Access the Dark Web Without Doing This! (Tor + Telegram Demos) | Shahzaib | [Read More](https://medium.com/p/09bb344e0638) |
 | Mon, 25 Aug 2025 22:20:54 GMT | Nocturnal (Easy)- HackTheBox Writeup (Walkthrough) | PriOFF | [Read More](https://medium.com/p/09e4eef3e1a8) |
 | Mon, 25 Aug 2025 21:57:31 GMT | MY CYBERSECURITY JOURNEY: HOW MOOT COURT COMPETITIONS HELPED ME LAND A ROLE PAYING ME IN DOLLARS | Onukwue Eunice | [Read More](https://medium.com/p/20fddca976bb) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 16:11:01 GMT | Smart Cybersecurity Investments for SMEs: Lessons, Pitfalls, and Practical Strategies | Wasitpon Sinthuphon | [Read More](https://medium.com/p/4f86203058fc) |
 | Mon, 25 Aug 2025 16:07:27 GMT | Why Security Experts Say to Ditch SMS 2FA (two-factor authentication) | Xanthi Syrakou | [Read More](https://medium.com/p/169986986966) |
 | Mon, 25 Aug 2025 16:03:32 GMT | Monday Cyber Brief — August 25 2025 | Keaton (Kingphisher) | [Read More](https://medium.com/p/4178ea25f954) |
-| Mon, 25 Aug 2025 16:03:06 GMT | The Three AI Concepts That Separate Experts from Beginners | Adewuyi Abayomi Daniel | [Read More](https://medium.com/p/4eb04206972b) |
-| Mon, 25 Aug 2025 16:01:21 GMT | From Audit to AI: How Traditional GRC Roles Are Evolving in the Digital Era | Lester Davila Escobedo | [Read More](https://medium.com/p/f721534ee0dd) |
