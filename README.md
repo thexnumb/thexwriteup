@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 03:42:26 GMT | A Step-by-Step Guide to Preventing ClickFix Attacks | Jaime Peret | [Read More](https://medium.com/p/8a24a9a84edc) |
+| Mon, 25 Aug 2025 03:32:53 GMT | ? | xCY83RN4UT_ | [Read More](https://medium.com/p/ebb76621f211) |
+| Mon, 25 Aug 2025 03:31:33 GMT | When a Picture Is Worth a Thousand Threats: How Cybercriminals Hide Ransomware in JPGs | Deven Chhajed | [Read More](https://medium.com/p/451842ca1cc1) |
+| Mon, 25 Aug 2025 03:30:52 GMT | Gaming Privacy and Security: Why Every Gamer Should Care | Molly-lulu | [Read More](https://medium.com/p/97cf786308a3) |
+| Mon, 25 Aug 2025 03:30:16 GMT | How to Block Access to .git and .svn Files with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/be7fbdd4c39e) |
+| Mon, 25 Aug 2025 03:25:06 GMT | SQL Injection Lab — TryHackMe — Walkthrough & answers | Tapasvi Madhak | [Read More](https://medium.com/p/c0ed7fc3bd33) |
+| Mon, 25 Aug 2025 03:23:03 GMT | V380 Pro WiFi IP Camera Outdoor 12MP 6K Triple Lenses Triple Screens Security Video Monitor Night… | Gift Card | [Read More](https://medium.com/p/badf5cca281a) |
 | Mon, 25 Aug 2025 02:59:09 GMT | Best VPN & eSIM Providers in 2025 - Secure, Reliable, and Affordable Options | Mr Chiangrai | [Read More](https://medium.com/p/f036d22d9e89) |
 | Mon, 25 Aug 2025 02:57:21 GMT | ️ Deploying and Securing Web Services with Docker on Ubuntu: A Security+ Lab Experience | Jahson Jno-Baptiste | [Read More](https://medium.com/p/e3d486b0788c) |
 | Mon, 25 Aug 2025 02:54:24 GMT | LabVulnerDursGo: A Hands-On Testing Ground for DursGo Scanner | Kang Ali | [Read More](https://medium.com/p/edb562f3c994) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 18:29:05 GMT | [CyberSec] Your Code Depends on Strangers | Pietro Romano / SecBeret | [Read More](https://medium.com/p/037e23539d01) |
 | Sun, 24 Aug 2025 18:22:26 GMT | SecKC-MHN-Globe by n0xa | JJ Gallego | [Read More](https://medium.com/p/d896f2a9036d) |
 | Sun, 24 Aug 2025 18:22:11 GMT | Agentic AI in Pentesting: Testing AutoSploit in a Real Engagement | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/86187548d55e) |
-| Sun, 24 Aug 2025 18:16:52 GMT | Why Security Experts Say to Ditch SMS 2FA (two-factor authentication) | Xanthi S | [Read More](https://medium.com/p/4a9782b55b3d) |
-| Sun, 24 Aug 2025 18:13:22 GMT | Zach’s Att@ck Series — Kerberoasting | VaRiOus_CanAriEs | [Read More](https://medium.com/p/ca698f61a2d1) |
-| Sun, 24 Aug 2025 18:10:32 GMT | The High-Stakes Game: Inside the World of Ransomware Negotiators | Aammir Mirza | [Read More](https://medium.com/p/fc883d1f8d97) |
-| Sun, 24 Aug 2025 17:54:59 GMT | How to Create and Manage Groups in Microsoft Entra ID | Amina Moallim | [Read More](https://medium.com/p/27ae612c5ef9) |
-| Sun, 24 Aug 2025 17:50:30 GMT | Agentic AI, “Vibe Coding” and the Rise of Hackbots | Above The Firewall | [Read More](https://medium.com/p/0565e89e5b7f) |
-| Sun, 24 Aug 2025 17:49:02 GMT | Portswigger Unprotected Admin Functionality | Cybernerddd | [Read More](https://medium.com/p/f3829e219db4) |
-| Sun, 24 Aug 2025 17:44:46 GMT | The Rise of Cloud Bursting: How It’s Changing Business IT | Hafizbilaltariq | [Read More](https://medium.com/p/b21a4baaf825) |
