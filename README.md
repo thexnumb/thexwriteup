@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 07:15:31 GMT | The Modern CISO’s Cybersecurity Playbook: Balancing Security, Risk & Business Priorities | Cloud Kinetics | [Read More](https://medium.com/p/feb3829e42bd) |
+| Mon, 25 Aug 2025 07:10:10 GMT | CISA Issues 10 Security Advisories for Industrial Control Systems | SafetyDetectives Research Team | [Read More](https://medium.com/p/b71c8ca7c36e) |
+| Mon, 25 Aug 2025 07:09:19 GMT | Day 9:- Advanced Linux, Unleashing the Power of the Open Source OS | Prutha_Dongre | [Read More](https://medium.com/p/1ba6b52fc234) |
+| Mon, 25 Aug 2025 07:06:36 GMT | Why Should Businesses Rely on SIEM and XDR for Stronger Security? | Vijilan | [Read More](https://medium.com/p/2b70df83bb8b) |
+| Mon, 25 Aug 2025 06:58:51 GMT | ️️BT Temel Altyapı ve Güvenliği | Musa Koçak | [Read More](https://medium.com/p/76f0b043d3aa) |
+| Mon, 25 Aug 2025 06:58:20 GMT | your ultimate guide to enter blockchain security in seven Steps. | Hassan Abdelkhalek‍ | [Read More](https://medium.com/p/6baee8d97f85) |
+| Mon, 25 Aug 2025 06:53:38 GMT | Code Vulnerability Scanner: 100% Free Rapid Proven Security! | Ankush Chaudhary | [Read More](https://medium.com/p/cad42a784de6) |
+| Mon, 25 Aug 2025 06:51:37 GMT | What Happens in a Real Penetration Test? Behind the Scenes | Anshul Goyal | [Read More](https://medium.com/p/6bd0b58fbaf7) |
+| Mon, 25 Aug 2025 06:48:45 GMT | Vulnerability Assessment: A Comprehensive Guide | Ayush Goel | [Read More](https://medium.com/p/d2b9a7d0426d) |
+| Mon, 25 Aug 2025 06:47:31 GMT | ‍♂️ Tip de Bug Bounty: Nunca ignores los mensajes de error | Gorka | [Read More](https://medium.com/p/6e57f2b82f76) |
+| Mon, 25 Aug 2025 06:40:06 GMT | ⚔️ HashMap vs ConcurrentHashMap in Java — What’s the Real Difference? | Techie Arbaaz | [Read More](https://medium.com/p/d1d89c483934) |
 | Mon, 25 Aug 2025 06:30:18 GMT | CVE-2025–9074: Docker Desktop Engine API Exposure — Patch Now | AerieWhole123 | [Read More](https://medium.com/p/b170f70d1e54) |
 | Mon, 25 Aug 2025 06:27:09 GMT | ️‍♂️ OWASP Top 10 for Web LLM Apps (2025) — The Field Manual | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9c8092dc8f36) |
 | Mon, 25 Aug 2025 06:27:06 GMT | The Cyber Talent Crunch: Can MDR and AI Be the Answer? | Ampcus Cyber | [Read More](https://medium.com/p/5afc387046dc) |
@@ -105,14 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 23:10:49 GMT | Traditional L3/L4 vs Modern L7 App-ID Monitoring — Palo Alto Zero-Trust | Bill WANG | [Read More](https://medium.com/p/51cf3f209a05) |
 | Sun, 24 Aug 2025 23:01:35 GMT | TryHackMe — Traverse Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/d1a28a936744) |
 | Sun, 24 Aug 2025 22:56:27 GMT | Hands-On with Windows Server 2022: Setting Up Active Directory Domain (ADDS), OUs, Groups, and… | Antriksh Saini | [Read More](https://medium.com/p/eae658750d3a) |
-| Sun, 24 Aug 2025 22:39:48 GMT | My Journey into Cybersecurity: A Student’s Perspective | Mohanad Khaled | [Read More](https://medium.com/p/a10afaa41c0c) |
-| Sun, 24 Aug 2025 22:36:27 GMT | How I Was Able to Take Over Accounts Without Email or Password | Zyad Ibrahim | [Read More](https://medium.com/p/5d7434d7a049) |
-| Sun, 24 Aug 2025 22:22:42 GMT | Server-Side Template Injection 1 | Ross Andrews | [Read More](https://medium.com/p/10e6be1ff361) |
-| Sun, 24 Aug 2025 22:17:32 GMT | Spilling the Tea | Andrew Paul | [Read More](https://medium.com/p/cefac7698ddb) |
-| Sun, 24 Aug 2025 22:13:02 GMT | If You Understand This, You’ll Never Forget Browser Proxy Setup Again | Sanjeeda N. | [Read More](https://medium.com/p/4333a4274ecd) |
-| Sun, 24 Aug 2025 22:09:41 GMT | My Second Step in the Journey of a Thousand Miles | Eme Karen | [Read More](https://medium.com/p/d7b5ade7ec09) |
-| Sun, 24 Aug 2025 22:04:52 GMT | How to Buy Gift Cards with Bitcoin Using CryptoXpress | Chrisnse | [Read More](https://medium.com/p/e07b3012fcbb) |
-| Sun, 24 Aug 2025 22:00:58 GMT | Blue Team: Organizasyonun Siber Savunma Gücü | Ata Çalım | [Read More](https://medium.com/p/9dc0a1e25502) |
-| Sun, 24 Aug 2025 21:58:04 GMT | File and Hash Threat Intel - Tryhackme | Aaron | [Read More](https://medium.com/p/f423ec84a5c1) |
-| Sun, 24 Aug 2025 21:53:38 GMT | System-Host Based Attacks CTF 1 | Hejackson | [Read More](https://medium.com/p/f391f14d8df2) |
-| Sun, 24 Aug 2025 21:48:47 GMT | Full Account Takeover (0-Click ATO) — My Story with a Critical Vulnerability | Nayef Hamouda | [Read More](https://medium.com/p/6e7ff9a9eaa5) |
