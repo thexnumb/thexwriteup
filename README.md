@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 01:29:15 GMT | Building a Complete Home SOC Lab: Network Security Implementation and Automated Threat Response | Shahal Farhan | [Read More](https://medium.com/p/1c125cf066a0) |
+| Mon, 25 Aug 2025 01:17:19 GMT | Lari Ada Tikus — COMPFEST 17 HackerClass Write-Up (Forensics) | detarune | [Read More](https://medium.com/p/7b2733ade577) |
+| Mon, 25 Aug 2025 01:13:48 GMT | Dear BF-COMPFEST 17 HackerClass Write-Up (Forensics) | detarune | [Read More](https://medium.com/p/b37bc553ae0b) |
+| Mon, 25 Aug 2025 01:12:59 GMT | HackTheBox Walkthrough: Arctic — From Foothold to SYSTEM (OSCP+ Prep) | Kaplanibrahimm | [Read More](https://medium.com/p/4cf45efaa20f) |
+| Mon, 25 Aug 2025 01:11:32 GMT | High Sensitivity: A Gift of Late Bloomers in a Challenging World | kate spider | [Read More](https://medium.com/p/616e3bae2164) |
+| Mon, 25 Aug 2025 01:04:08 GMT | Legitimately My First Medium Post | Erich Huffman | [Read More](https://medium.com/p/a8a239c9db8d) |
+| Mon, 25 Aug 2025 01:00:30 GMT | “How can I gain better confidence when approaching women?” | Marie Osmeña | [Read More](https://medium.com/p/059b274778d6) |
+| Mon, 25 Aug 2025 00:44:51 GMT | Why Cybersecurity Is Non-Negotiable for Small Businesses in 2025 | CloudVanguard IT | [Read More](https://medium.com/p/350991b98924) |
+| Mon, 25 Aug 2025 00:39:45 GMT | Your PT1 Guide | Mehdi Ben Fredj | [Read More](https://medium.com/p/627f67a71b05) |
+| Mon, 25 Aug 2025 00:35:26 GMT | Why IT Compliance Is Critical for Accounting Firms in 2025 | CloudVanguard IT | [Read More](https://medium.com/p/08e994d01e1b) |
+| Mon, 25 Aug 2025 00:08:30 GMT | Malicious Uses of OSINT by Cybercriminals and Hackers | David SEHYEON Baek | [Read More](https://medium.com/p/6e92403c474b) |
+| Mon, 25 Aug 2025 00:08:27 GMT | Exportacion de logs de Google Workspace Alert Center a un SIEM | Emir Ataide | [Read More](https://medium.com/p/43f4f350e014) |
+| Mon, 25 Aug 2025 00:00:18 GMT | The Post-Quantum Era…Few Realize We are Already Experiencing It | Marcelo Becker | [Read More](https://medium.com/p/9180293891bb) |
+| Sun, 24 Aug 2025 23:53:21 GMT | Exporting Google Workspace Alert Center logs to SIEM | Emir Ataide | [Read More](https://medium.com/p/3ee8cc3d451b) |
+| Sun, 24 Aug 2025 23:50:12 GMT | Moving from CRUD to CQRS for Better Performance | Rizqi Mulki | [Read More](https://medium.com/p/1fd350afcafd) |
+| Sun, 24 Aug 2025 23:46:46 GMT | Web Architecture for the Next Billion Users | Rizqi Mulki | [Read More](https://medium.com/p/ff35ae6a30c8) |
+| Sun, 24 Aug 2025 23:45:40 GMT | The Day I Realized Vulnerability Was Not Weakness | Hope Ogar | [Read More](https://medium.com/p/3ce251872450) |
+| Sun, 24 Aug 2025 23:44:09 GMT | The Myth of “Fast Enough” in Web Development | Rizqi Mulki | [Read More](https://medium.com/p/194782959fb7) |
 | Sun, 24 Aug 2025 23:29:32 GMT | AI project ideas for 2026 you’ll actually feel in real life | Jameel Starnes | [Read More](https://medium.com/p/5ab88ea83c3e) |
 | Sun, 24 Aug 2025 23:20:25 GMT | My Agile Journey: Lessons Learned Along the Way | Naveen Bandaru | [Read More](https://medium.com/p/c0a2510dc5e0) |
 | Sun, 24 Aug 2025 23:18:51 GMT | Hardening LLMs with MCP Context Protector | KrishKuchroo | [Read More](https://medium.com/p/2f6f74cd25b1) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 17:16:44 GMT | The Problem Statement: Why AWS Developed VPC Origin | Ashish Kasaudhan | [Read More](https://medium.com/p/45e724d51a01) |
 | Sun, 24 Aug 2025 17:11:41 GMT | Cyber Stories #1: Charlie and the Suspicious Email ✉️ | Rosemary Lark | [Read More](https://medium.com/p/f8e6ef66d051) |
 | Sun, 24 Aug 2025 17:11:36 GMT | Kubernetes RBAC deep dive: Understanding authorization with kubectl and curl | Gabriel Garrido | [Read More](https://medium.com/p/9da8663b445e) |
-| Sun, 24 Aug 2025 17:07:26 GMT | Arrays in C – Your Complete Beginner’s Guide | Tanya Awasthi | [Read More](https://medium.com/p/2eec7a9b7b6c) |
-| Sun, 24 Aug 2025 17:06:48 GMT | How to defend against Root-of-Trust (RoT) attacks with measured boot, hardware-bound credentials… | EL MOSTAFA OUCHEN | [Read More](https://medium.com/p/71c75d932cee) |
-| Sun, 24 Aug 2025 17:03:44 GMT | การทำ AD password spraying | Nattawat Songsom | [Read More](https://medium.com/p/7b6a0ae2c6d3) |
-| Sun, 24 Aug 2025 17:02:53 GMT | Cybersecurity | Sabina Yasmin | [Read More](https://medium.com/p/0fd60db33ff3) |
-| Sun, 24 Aug 2025 16:57:06 GMT | HTML Injection, CSP Roadblocks & a $100 Win | Sarv3shxploit | [Read More](https://medium.com/p/d6abf1ca986e) |
-| Sun, 24 Aug 2025 16:52:15 GMT | Cake Architect (User)-BrunnerCTF 2025 writeup | SilentHex | [Read More](https://medium.com/p/7fbc059935f0) |
-| Sun, 24 Aug 2025 16:52:06 GMT | Pengenalan Perangkat Jaringan Komputer (Computer Network) | fijrisalwa | [Read More](https://medium.com/p/37b59b743f82) |
-| Sun, 24 Aug 2025 16:46:52 GMT | Chemistry Machine— Hack The Box | Zeenya | [Read More](https://medium.com/p/2504b1574a29) |
-| Sun, 24 Aug 2025 16:45:55 GMT | TryHackMe :  Active Directory Writeup | Archtrmntor | [Read More](https://medium.com/p/f4fd5e824c53) |
-| Sun, 24 Aug 2025 16:45:00 GMT | How I Passed the Microsoft SC-900 on My First Try (and Why It’s Easier Than You Think) | Albi_Varghese | [Read More](https://medium.com/p/c0df35fe46d8) |
-| Sun, 24 Aug 2025 16:42:25 GMT | The Hidden Weakness of Two-Factor Authentication | Raphael Moutard | [Read More](https://medium.com/p/f0b74395f799) |
-| Sun, 24 Aug 2025 16:41:31 GMT | Vendor Compliance: The Bollywood Rom-Com No One Warned You About | Shreya Singh | [Read More](https://medium.com/p/7df5853c890d) |
-| Sun, 24 Aug 2025 16:39:22 GMT | Forgotten Subdomain = $1000 “AWS Breach” Bounty | Akash Singh | [Read More](https://medium.com/p/e59fb8e855f7) |
-| Sun, 24 Aug 2025 16:38:59 GMT | Why AI Pentesting Will Define the Next Generation of Cybersecurity Services | echosso | [Read More](https://medium.com/p/d3a0b54dac81) |
-| Sun, 24 Aug 2025 16:38:17 GMT | Try Hack Me /Frank and Herby try again…..Write-Ups | MouhibMahadbi | [Read More](https://medium.com/p/ba390dbe0a61) |
-| Sun, 24 Aug 2025 16:36:44 GMT | Securing cyberspace without mass surveillance | Hayat Outahar | [Read More](https://medium.com/p/55d2f5b516fb) |
-| Sun, 24 Aug 2025 16:35:54 GMT | How Security Guard Patrol for Shopping Centers Orlando Keeps Shoppers Safe | Onyx Protective Services | [Read More](https://medium.com/p/673d9184abea) |
-| Sun, 24 Aug 2025 16:33:58 GMT | Why Armed Retail Security Services Atlanta Are Essential for Your Store | Onyx Protective Services | [Read More](https://medium.com/p/11b2cc6b01aa) |
