@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 21:12:33 GMT | Intelligent Workflow Automation Solutions | The Insightful Solutions | [Read More](https://medium.com/p/ddde88f3a1f6) |
+| Mon, 25 Aug 2025 20:55:22 GMT | Mastering Kali Linux in 2025: The Ultimate Guide to Cybersecurity, Hacking, and Emerging Trends | Unknown Source | [Read More](https://medium.com/p/c717c1300d06) |
+| Mon, 25 Aug 2025 20:51:33 GMT | ⚡ Real-Time UEBA Applications: Anomaly Monitoring with Big Data and Stream Analytics | Esra Kayhan | [Read More](https://medium.com/p/220c9a636d05) |
+| Mon, 25 Aug 2025 20:43:40 GMT | TryHackMe Publisher Walkthrough | Mono | [Read More](https://medium.com/p/e0addb5a1894) |
+| Mon, 25 Aug 2025 20:39:15 GMT | Get Process ID by Process Name in Windows Kernel Driver | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9d5cbc8fcf50) |
 | Mon, 25 Aug 2025 20:34:52 GMT | Harry Potter Series: Fawkes CTF — Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/7f03191fbf0a) |
 | Mon, 25 Aug 2025 20:26:32 GMT | Snort IDS Setup | barancem | [Read More](https://medium.com/p/317a8e9c7cd1) |
 | Mon, 25 Aug 2025 20:17:37 GMT | Cybercriminals Know Who Your Weakest Link Is. Do You? | Graylog | [Read More](https://medium.com/p/71f490486935) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 15:28:26 GMT | The OT Technology Landscape | ThatOTSecurityGuy | [Read More](https://medium.com/p/37a87f7fb44d) |
 | Mon, 25 Aug 2025 15:21:32 GMT | How AI and Emerging Technologies Are Redefining Patient Care Excellence | Partners in Digital Health | [Read More](https://medium.com/p/4de6fc46980e) |
 | Mon, 25 Aug 2025 15:15:29 GMT | 6 Best Udemy Courses to Learn Kali Linux in 2025 | javinpaul | [Read More](https://medium.com/p/0526e0d49288) |
-| Mon, 25 Aug 2025 15:15:25 GMT | picoCTF Reverse Engineering: Keygenme Challenge Writeup | Ahmed-Mahmoud-M | [Read More](https://medium.com/p/563305429e2f) |
-| Mon, 25 Aug 2025 15:10:19 GMT | Metodologias e Ferramentas para Modelagem de Ameaças | Gabi Deutner | [Read More](https://medium.com/p/5465aa725e95) |
-| Mon, 25 Aug 2025 15:07:58 GMT | How I Found an Account Takeover Bug in the Forgot Password Flow | Medusa | [Read More](https://medium.com/p/49dbc82311f5) |
-| Mon, 25 Aug 2025 15:02:00 GMT | Agent Sudo CTF (TryHackMe) | Aqdas Ahbab | [Read More](https://medium.com/p/0307ed5e92e8) |
-| Mon, 25 Aug 2025 15:00:59 GMT | Brute It tryhackme walkthrough Room!! | Mainekhacker | [Read More](https://medium.com/p/11782bf62b81) |
