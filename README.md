@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 04:31:56 GMT | The Real Hack: The Pocket Tools That Make a Real Difference | Altair | [Read More](https://medium.com/p/35abb7dbb399) |
+| Mon, 25 Aug 2025 04:24:00 GMT | It’s A TRAP Malware | Adrian Jenkins | [Read More](https://medium.com/p/a95b9447bd27) |
+| Mon, 25 Aug 2025 04:23:31 GMT | Confirmed: The [Carrier] Breach Exposed 150M SSNs, Here’s Your 7-Step Recovery Plan | Sneha Rani | [Read More](https://medium.com/p/a2a53498baa4) |
+| Mon, 25 Aug 2025 04:22:23 GMT | <!DOCTYPE html>
+<html lang=”bn”>
+<head>
+ <meta charset=”UTF-8">
+ <meta name=”viewport”… | Prodhanmdrakib | [Read More](https://medium.com/p/6cf1318c1f40) |
+| Mon, 25 Aug 2025 04:17:09 GMT | FortiMonitor: Digital Experience Monitoring Platform | Juara IT Solutions | [Read More](https://medium.com/p/5929cdc9d3e3) |
+| Mon, 25 Aug 2025 04:15:02 GMT | Analyzing Endpoint Protection and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/d605a34e7d48) |
+| Mon, 25 Aug 2025 04:13:16 GMT | Analyzing Endpoint Protection That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/f4a8050b4742) |
+| Mon, 25 Aug 2025 04:11:42 GMT | MIRAI Worm: The Underdog That Shook the Internet | Altair | [Read More](https://medium.com/p/91903119235a) |
+| Mon, 25 Aug 2025 04:11:29 GMT | Analyzing Endpoint Protection That Drive Innovation | Cyber Security Research | [Read More](https://medium.com/p/0cd730285246) |
+| Mon, 25 Aug 2025 04:08:01 GMT | Analyzing Data Privacy in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/c7f78cce8b0b) |
+| Mon, 25 Aug 2025 04:05:53 GMT | Addressing Security Vulnerabilities in Docker | @rnab | [Read More](https://medium.com/p/4fb257c86364) |
+| Mon, 25 Aug 2025 04:04:28 GMT | Analyzing Data Privacy for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/3b407876769e) |
+| Mon, 25 Aug 2025 04:02:29 GMT | Run These 10 Linux Server Management Steps on a Fresh VPS! | Arash hadad | [Read More](https://medium.com/p/3fbc72ac60c5) |
+| Mon, 25 Aug 2025 03:57:47 GMT | Why Ransomware Feels Like a Digital Kidnapping (And How People Survive It) | Shahzaib | [Read More](https://medium.com/p/ebb1f8a240cc) |
 | Mon, 25 Aug 2025 03:42:26 GMT | A Step-by-Step Guide to Preventing ClickFix Attacks | Jaime Peret | [Read More](https://medium.com/p/8a24a9a84edc) |
 | Mon, 25 Aug 2025 03:32:53 GMT | ? | xCY83RN4UT_ | [Read More](https://medium.com/p/ebb76621f211) |
 | Mon, 25 Aug 2025 03:31:33 GMT | When a Picture Is Worth a Thousand Threats: How Cybercriminals Hide Ransomware in JPGs | Deven Chhajed | [Read More](https://medium.com/p/451842ca1cc1) |
@@ -99,17 +117,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 19:17:14 GMT | Bandit 0–5 Walkthrough: Your First Steps Into Ethical Hacking | Soham_Jadhav | [Read More](https://medium.com/p/39e0f96ba56b) |
 | Sun, 24 Aug 2025 19:04:23 GMT | Let’s create a Secure Remote Management Tool to assist our company in handling their IT challenges | Yvonda Davis | [Read More](https://medium.com/p/27fddafae068) |
 | Sun, 24 Aug 2025 19:01:31 GMT | Lo que aprendí hackeando la NASA (y lo que significa realmente ser hacker) | Gorka | [Read More](https://medium.com/p/e4e5b390e570) |
-| Sun, 24 Aug 2025 19:00:48 GMT | Your Email Is Already Leaked: Why Disposable Emails Are Essential in 2025 | Shihabsikder | [Read More](https://medium.com/p/fad6cb2f6283) |
-| Sun, 24 Aug 2025 18:55:33 GMT | What’s With All The Data Breaches? | Rama | [Read More](https://medium.com/p/781a90236799) |
-| Sun, 24 Aug 2025 18:42:29 GMT | How Vulnerability Made Me Stronger | Tim Wiesnerer | [Read More](https://medium.com/p/23842a52852d) |
-| Sun, 24 Aug 2025 18:42:09 GMT | Unified Kill Chain — TryHackMe | Bot Hacks | [Read More](https://medium.com/p/46419a3bdb29) |
-| Sun, 24 Aug 2025 18:42:07 GMT | Code Red: The AI Hacker Is Already Here | stakdai | [Read More](https://medium.com/p/c6f233b17bc8) |
-| Sun, 24 Aug 2025 18:41:24 GMT | Turning Agents Into “Sleeper” Agents: $118,500+ In Bounties via LLM Data Poisoning | Justas_b | [Read More](https://medium.com/p/92ddc95a50af) |
-| Sun, 24 Aug 2025 18:38:44 GMT | We All Do This on Social Media | Kiran B Nambiar | [Read More](https://medium.com/p/b3c54219bbde) |
-| Sun, 24 Aug 2025 18:35:31 GMT | How I Cracked CompTIA Security+ in Just 6 weeks. | parvatha | [Read More](https://medium.com/p/6e17b9d435b3) |
-| Sun, 24 Aug 2025 18:32:10 GMT | Quantum Computing: The Giant Leap in Technology | Abishekbalamurugan | [Read More](https://medium.com/p/a6c6133bbd46) |
-| Sun, 24 Aug 2025 18:31:38 GMT | HackTheBox - Querier | jniket | [Read More](https://medium.com/p/d74e11dd9930) |
-| Sun, 24 Aug 2025 18:31:32 GMT | Zero Trust — Never Trust, Always Verify | Roshinni Gandhi | [Read More](https://medium.com/p/cf6c409d6eb0) |
-| Sun, 24 Aug 2025 18:29:05 GMT | [CyberSec] Your Code Depends on Strangers | Pietro Romano / SecBeret | [Read More](https://medium.com/p/037e23539d01) |
-| Sun, 24 Aug 2025 18:22:26 GMT | SecKC-MHN-Globe by n0xa | JJ Gallego | [Read More](https://medium.com/p/d896f2a9036d) |
-| Sun, 24 Aug 2025 18:22:11 GMT | Agentic AI in Pentesting: Testing AutoSploit in a Real Engagement | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/86187548d55e) |
