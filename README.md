@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 18:55:48 GMT | Automatic Remediation: The Future of Cybersecurity Response | SafeAeon Inc. | [Read More](https://medium.com/p/e7717e8fb41c) |
+| Mon, 25 Aug 2025 18:52:54 GMT | Silent Breach: How Attackers Evade Windows EDR to Exfiltrate Secrets and Credentials. | eL Njas!™ | [Read More](https://medium.com/p/11793cf4da12) |
+| Mon, 25 Aug 2025 18:44:26 GMT | Essential Email Fraud Prevention Strategies: Protecting Your Inbox and Business | SafeAeon Inc. | [Read More](https://medium.com/p/3096f1be2705) |
+| Mon, 25 Aug 2025 18:42:50 GMT | “Mastering Cash App Accounts: Setup, Security, and Smarter Digital Payments” | Donny SMM | [Read More](https://medium.com/p/ef67d09480a9) |
+| Mon, 25 Aug 2025 18:34:10 GMT | The AppSec Policy Gap: Turning Intent into Action | Joshua Lindstrom | [Read More](https://medium.com/p/0590a7b6dd07) |
 | Mon, 25 Aug 2025 18:23:44 GMT | How I Found 7 OAuth Flaws on Public Programs | Ibtissam hammadi | [Read More](https://medium.com/p/3c0a30788d77) |
 | Mon, 25 Aug 2025 18:20:51 GMT | Mobile App Checklist: Building Secure, Reliable, and User-Friendly Applications | SafeAeon Inc. | [Read More](https://medium.com/p/4ade5f973625) |
 | Mon, 25 Aug 2025 18:16:57 GMT | CTF beginner part-2 (con) | vulnhunter | [Read More](https://medium.com/p/539de478015e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 13:51:28 GMT | Understanding the Delivery Phase of the Cyber Kill Chain | Genrunic | [Read More](https://medium.com/p/335598c60017) |
 | Mon, 25 Aug 2025 13:48:35 GMT | 7 Essential Steps to Kickstart Your Bug Bounty Journey | Aju Deb | [Read More](https://medium.com/p/924543170998) |
 | Mon, 25 Aug 2025 13:41:06 GMT | Kickstart Your Cybersecurity Career: Cisco CBROPS Webinar | Aaqib Rajput | [Read More](https://medium.com/p/01045222b2cf) |
-| Mon, 25 Aug 2025 13:33:44 GMT | Advanced Local File Inclusion — Leveraging PHP Filters When Standard Injection Fails | Niko | [Read More](https://medium.com/p/81de4f661f74) |
-| Mon, 25 Aug 2025 13:32:19 GMT | AI for Security: Can It Really Guard Our Privacy and Data? | Yash Gorasiya | [Read More](https://medium.com/p/13e5757d3f60) |
-| Mon, 25 Aug 2025 13:25:51 GMT | 9Figure Media’s Deepfake Democracy Delusion | Maxwell JAMES | [Read More](https://medium.com/p/41d020a034e2) |
-| Mon, 25 Aug 2025 13:20:59 GMT | a smile that tells a thousand stories | Medisunwithin | [Read More](https://medium.com/p/1c6ea4d59341) |
-| Mon, 25 Aug 2025 13:17:31 GMT | Snort Room Writeup — TryHackMe | Romeeza Naveed | [Read More](https://medium.com/p/118fba77d88d) |
