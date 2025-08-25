@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 17:13:12 GMT | Device Certificate Management in Large-Scale IoT: Part 1 — Key Generation | Markand Pathak | [Read More](https://medium.com/p/3c0b1adcbba7) |
+| Mon, 25 Aug 2025 17:09:58 GMT | When cyberattacks hit healthcare, the consequences are not just financial — they are… | Dr. Shashi Karhail | [Read More](https://medium.com/p/f305423173da) |
+| Mon, 25 Aug 2025 17:05:49 GMT | From Stone Tools to Digital Transformation: The Role of Management Information Systems | İclal Aca | [Read More](https://medium.com/p/3e34840faa34) |
+| Mon, 25 Aug 2025 17:05:35 GMT | Warning: Python Developers Are Being Targeted by Sophisticated PyPI Phishing Attacks | Er.Muruganantham | [Read More](https://medium.com/p/4be39c80bbf8) |
+| Mon, 25 Aug 2025 17:01:34 GMT | HTTP-Header XSS : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/454f353ec4f1) |
+| Mon, 25 Aug 2025 16:59:57 GMT | [Book Review] All That We See Or Seem (JuliaZ 1) — Ken Liu | Saif Shaikh, Ph.D. - Distorted Visions | [Read More](https://medium.com/p/5cd47cdd238e) |
+| Mon, 25 Aug 2025 16:59:17 GMT | W5HC Framework™: Asking Smarter Questions in Cybersecurity & Technical Support | Biswajitsatapathy | [Read More](https://medium.com/p/e0e7e4a2b4d6) |
+| Mon, 25 Aug 2025 16:46:05 GMT | Snowflake’s Security Wake-Up Call: How Basic Misconfigurations Enabled the Biggest Breach of 2024 | Josh Welch | [Read More](https://medium.com/p/31f509fc5fd4) |
 | Mon, 25 Aug 2025 16:44:30 GMT | Locking Down Secrets: Secure Your Android API Keys with AES-GCM & Keystore | Mahmoud Ramadan | [Read More](https://medium.com/p/d6ea04e72c0b) |
+| Mon, 25 Aug 2025 16:43:36 GMT | Advanced Threat Detection Using DNS Analytics | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9df807bd9c45) |
 | Mon, 25 Aug 2025 16:42:43 GMT | How AI Is Reshaping Cybersecurity in the Enterprise: Lessons from the Front Lines | Maximilian Oliver | [Read More](https://medium.com/p/2e589cf04c7c) |
 | Mon, 25 Aug 2025 16:42:35 GMT | Day 42- Understanding the definition of risk for beginners | unica 02 | [Read More](https://medium.com/p/e3c4570769fa) |
 | Mon, 25 Aug 2025 16:42:13 GMT | I Am Code | Life Thru My Eyes | [Read More](https://medium.com/p/3bdbd86a3a61) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 12:33:36 GMT | Analyzing Endpoint Protection for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/bec904ecc571) |
 | Mon, 25 Aug 2025 12:32:22 GMT | Analyzing Endpoint Protection for Organizations | Cyber Security Research | [Read More](https://medium.com/p/3db5e3610480) |
 | Mon, 25 Aug 2025 12:31:01 GMT | Analyzing Endpoint Protection for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/3e506f6a89ba) |
-| Mon, 25 Aug 2025 12:30:04 GMT | ️‍♂️ OWASP Top 10: Web LLM Attack Risks (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c1018059411d) |
-| Mon, 25 Aug 2025 12:25:48 GMT | COMPUTER MISUSE AND CYBERCRIMES ACT (Kenya) >Part 1 | mug1sh4 | [Read More](https://medium.com/p/e95f4ddac0f3) |
-| Mon, 25 Aug 2025 12:22:12 GMT | RST TI Report Digest: 25 Aug 2025 | RST Cloud | [Read More](https://medium.com/p/70896adf3eb2) |
-| Mon, 25 Aug 2025 12:21:24 GMT | The Hidden Door: IDOR Vulnerability | Huzeyfe Gonenci | [Read More](https://medium.com/p/69bc8cc5d24c) |
-| Mon, 25 Aug 2025 12:13:01 GMT | The Rise of the Invisible Battlefield: How Cybersecurity Became Humanity’s Frontline Defense | DJH4CK3R | [Read More](https://medium.com/p/8eaf279ddd58) |
-| Mon, 25 Aug 2025 12:11:34 GMT | Pentesting Insecure Deserialization — Full Project Walkthrough | Hacked By Himel | [Read More](https://medium.com/p/f7a83528e9f9) |
-| Mon, 25 Aug 2025 12:05:07 GMT | Agentic Browsers: A New Frontier or Security Disaster | Sundaram Dubey | [Read More](https://medium.com/p/4aca71f93d4e) |
-| Mon, 25 Aug 2025 12:02:40 GMT | Title: | Thwab | [Read More](https://medium.com/p/6e870e598623) |
-| Mon, 25 Aug 2025 11:59:29 GMT | Malware Analysis | Jasmehr Kaur | [Read More](https://medium.com/p/0516a082690b) |
