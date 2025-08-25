@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 14:40:06 GMT | When Decompiled Code Lies | Karol Mazurek | [Read More](https://medium.com/p/006a1759dbf3) |
+| Mon, 25 Aug 2025 14:36:49 GMT | Weekline investment Customer care helpline number//(7294161837)) Call Weekline investment Customer… | (7294161837Weekline investment Customer care hel | [Read More](https://medium.com/p/6fc24962fb9d) |
+| Mon, 25 Aug 2025 14:34:11 GMT | Exact Study Plan I Used for CompTIA Security+ (With Free Resources & Daily Schedule) | Rue | [Read More](https://medium.com/p/17af3cb43d25) |
+| Mon, 25 Aug 2025 14:33:10 GMT | I Asked AI to Hack Me. The Results Were Terrifying (and Useful) | Vijay Kumar Gupta | [Read More](https://medium.com/p/30f0a141dbe9) |
+| Mon, 25 Aug 2025 14:29:24 GMT | Story of How vdp.brioni.com scam me | MRKNIGHT-NIDU | [Read More](https://medium.com/p/c7e5f455be09) |
+| Mon, 25 Aug 2025 14:21:13 GMT | How Small Businesses Empower Employees to Grow Beyond Boundaries | Jkmmusichsv | [Read More](https://medium.com/p/0e71b068f8b8) |
 | Mon, 25 Aug 2025 14:17:53 GMT | Phishing attacks have surged and evolved to unprecedented levels in 2025, with over 1 million… | Bona Karides | [Read More](https://medium.com/p/66d5ea675a3f) |
 | Mon, 25 Aug 2025 14:13:34 GMT | How to find an Information Disclosure (ID) vulnerabilities | LEVI | [Read More](https://medium.com/p/165717e57f6f) |
 | Mon, 25 Aug 2025 14:11:46 GMT | People Who Lack Inner Security Fear Conflict | Flaye Kate | [Read More](https://medium.com/p/db9f347c2027) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 09:48:50 GMT | Cloud Security Challenges in Australia: Why You Need a Trusted Cyber Security Provider | vGics Global LLP | [Read More](https://medium.com/p/59ab12e95b78) |
 | Mon, 25 Aug 2025 09:48:42 GMT | Fortinet Firewall Custom DPI & Security Fabric & Application Filter - TalentCoders Siber Güvenlik… | Hakan ÇEVİK | [Read More](https://medium.com/p/56410edb46f3) |
 | Mon, 25 Aug 2025 09:41:31 GMT | Lumma Stealer: Advanced Network Detection & Validation (Part 3) | Siddhant Mishra | [Read More](https://medium.com/p/d17419c7b0ed) |
-| Mon, 25 Aug 2025 09:41:29 GMT | Best motherboard for cyber security | Ayeshhaa | [Read More](https://medium.com/p/fbf1e775e0f3) |
-| Mon, 25 Aug 2025 09:35:01 GMT | A simple guide to finding threat vectors on internet exposed systems with Nmap. | Mindaugas Asipauskas | [Read More](https://medium.com/p/3149b167d38c) |
-| Mon, 25 Aug 2025 09:33:22 GMT | Why CSPM Is Essential for a Proactive Multi-Cloud Security Strategy | Appzlogic | [Read More](https://medium.com/p/e6ab29abdc78) |
-| Mon, 25 Aug 2025 09:32:24 GMT | Fortinet Firewall Custom DPI & Security Fabric & Application Filter - TalentCoders Siber Güvenlik… | Hakan ÇEVİK | [Read More](https://medium.com/p/9070b704c245) |
-| Mon, 25 Aug 2025 09:21:19 GMT | Hackers don’t break walls. They crawl through cracks. Build layers, not walls. | Syed Raza | [Read More](https://medium.com/p/ddc69a9f45c4) |
-| Mon, 25 Aug 2025 09:17:40 GMT | 10+ Vulnerabilities Reported but no Response | AbhirupKonwar | [Read More](https://medium.com/p/97fdfd80f738) |
