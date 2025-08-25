@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 18:23:44 GMT | How I Found 7 OAuth Flaws on Public Programs | Ibtissam hammadi | [Read More](https://medium.com/p/3c0a30788d77) |
+| Mon, 25 Aug 2025 18:20:51 GMT | Mobile App Checklist: Building Secure, Reliable, and User-Friendly Applications | SafeAeon Inc. | [Read More](https://medium.com/p/4ade5f973625) |
+| Mon, 25 Aug 2025 18:16:57 GMT | CTF beginner part-2 (con) | vulnhunter | [Read More](https://medium.com/p/539de478015e) |
+| Mon, 25 Aug 2025 18:16:56 GMT | TryHackMe - Buffer Overflows - WriteUp | Axoloth | [Read More](https://medium.com/p/aa399ffa6cd5) |
+| Mon, 25 Aug 2025 18:16:47 GMT | SUID Privilege Escalation — A Walkthrough via TryHackMe’s Linux PrivEsc | 0x77 | [Read More](https://medium.com/p/2c5e79e46246) |
+| Mon, 25 Aug 2025 18:04:50 GMT | How I was able to subscribe and receive notification alerts to the company’s QA and found their… | 0xm1racle | [Read More](https://medium.com/p/7a753545eb93) |
+| Mon, 25 Aug 2025 18:04:42 GMT | When Security Guards Become the Predators. | ~Dr.Têi•B~ | [Read More](https://medium.com/p/7878b6565596) |
+| Mon, 25 Aug 2025 18:04:33 GMT | Docker Was Great. But Security Moved On. | shivangi satija | [Read More](https://medium.com/p/66eb3cbcf4fc) |
+| Mon, 25 Aug 2025 18:01:21 GMT | From Confusion to Curiosity: My Cybersecurity Journey | Sakar Mishra | [Read More](https://medium.com/p/1e3ce259401e) |
+| Mon, 25 Aug 2025 17:57:33 GMT | TikTok’s Most Viral Health Trends (2023–2025): What’s Worth Your Time vs. What Belongs in the Bin | Sexloveandmillenials | [Read More](https://medium.com/p/7d7f2c733c0b) |
+| Mon, 25 Aug 2025 17:52:46 GMT | Beyond PCI and HIPAA: How Feroot Powers Children’s Online Privacy Protection Act (COPPA) Compliance | Feroot Security | [Read More](https://medium.com/p/daf0d3088507) |
+| Mon, 25 Aug 2025 17:50:16 GMT | How I Turned an “Informational Finding” Into a valid security report | Aravind Prakash | [Read More](https://medium.com/p/69f589102507) |
+| Mon, 25 Aug 2025 17:50:08 GMT | Day 9/100 — One Bad Moment | Ankita Singh | [Read More](https://medium.com/p/57589550182e) |
+| Mon, 25 Aug 2025 17:49:06 GMT | Phishing campaign exploits google classroom at scale | Yaniv | [Read More](https://medium.com/p/e736a521887e) |
+| Mon, 25 Aug 2025 17:43:28 GMT | Why CCTV, Alarms, and Access Control Are a Must in 2025 | Debrazz Security Systems | [Read More](https://medium.com/p/6cd03c9b937c) |
 | Mon, 25 Aug 2025 17:28:24 GMT | Can You Trust What You See? Deepfake Scams Are Exploding in 2025 | Paritosh | [Read More](https://medium.com/p/9eb1c7062468) |
 | Mon, 25 Aug 2025 17:27:33 GMT | Undocumented AWS APIs & Botocore Models | Ada N | [Read More](https://medium.com/p/31260087a2ed) |
 | Mon, 25 Aug 2025 17:22:44 GMT | Fuzzy Hashing | Samet Koca | [Read More](https://medium.com/p/d7a033f8757e) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 13:25:51 GMT | 9Figure Media’s Deepfake Democracy Delusion | Maxwell JAMES | [Read More](https://medium.com/p/41d020a034e2) |
 | Mon, 25 Aug 2025 13:20:59 GMT | a smile that tells a thousand stories | Medisunwithin | [Read More](https://medium.com/p/1c6ea4d59341) |
 | Mon, 25 Aug 2025 13:17:31 GMT | Snort Room Writeup — TryHackMe | Romeeza Naveed | [Read More](https://medium.com/p/118fba77d88d) |
-| Mon, 25 Aug 2025 13:17:29 GMT | How to Add Passkeys (WebAuthn) to Your Next.js + Supabase Project | Shao Xuan | [Read More](https://medium.com/p/cd4273e32a88) |
-| Mon, 25 Aug 2025 13:17:02 GMT | 7 Everyday Habits to Protect Your Privacy Online | Axel Paulistrom | [Read More](https://medium.com/p/2851cc13a24d) |
-| Mon, 25 Aug 2025 13:15:09 GMT | ’  : | DISHA GUPTA | [Read More](https://medium.com/p/1fea5542b537) |
-| Mon, 25 Aug 2025 13:13:29 GMT | Capital’s Backbone: A Deep Dive into Security & Housekeeping Services in Delhi NCR Strategy for… | securasecurty | [Read More](https://medium.com/p/c0be4880483c) |
-| Mon, 25 Aug 2025 13:02:19 GMT | Rick and Morty CTF Walkthrough (TryHackMe) | Aqdas Ahbab | [Read More](https://medium.com/p/46250c302db0) |
-| Mon, 25 Aug 2025 13:01:25 GMT | ForenShield Cyber Dashboard — A new way to explore cybersecurity | ForenShield | [Read More](https://medium.com/p/0b2e99246f26) |
-| Mon, 25 Aug 2025 13:00:37 GMT | Web LLM Attacks: How Hackers Turn Chatbots into Backdoors | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c2ce79fea071) |
-| Mon, 25 Aug 2025 12:57:38 GMT | Secure Kubernetes using Kyverno Policy-as-code | Harsh Yadav | [Read More](https://medium.com/p/91f098fdf380) |
-| Mon, 25 Aug 2025 12:57:32 GMT | Ransomware Recovery Strategies for Enterprises: A Complete Guide for 2025 | Paul Meyer | [Read More](https://medium.com/p/181305aefbeb) |
-| Mon, 25 Aug 2025 12:52:25 GMT | Beyond Firewalls: A Glimpse into the Human Element of EDSPL’s SOC Operations | saurabh cyberinfomines | [Read More](https://medium.com/p/d7c6cc6ceaa3) |
-| Mon, 25 Aug 2025 12:52:18 GMT | Eve Carter — THE LAST SIGNAL Episode 4 | Shobha Pai | [Read More](https://medium.com/p/749422768914) |
-| Mon, 25 Aug 2025 12:51:33 GMT | Breaking the Silence: How EchoLeak Quietly Weaponized Microsoft 365 | Inforsecpro | [Read More](https://medium.com/p/c82e924f3f2f) |
-| Mon, 25 Aug 2025 12:48:08 GMT | Strengthening Digital Security with VAPT Security Testing Services — Power Your Business with… | Dmvikash | [Read More](https://medium.com/p/0f65d7eeabf6) |
-| Mon, 25 Aug 2025 12:43:56 GMT | The Collapse of Invisible Barriers: Broken Access Control | Huzeyfe Gonenci | [Read More](https://medium.com/p/a1815d55735e) |
-| Mon, 25 Aug 2025 12:39:28 GMT | Why Your Conversations Turn Into Ads: The Microphone Trap | Shwet Shirbhayye | [Read More](https://medium.com/p/d7b405f2149b) |
