@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 09:35:01 GMT | A simple guide to finding threat vectors on internet exposed systems with Nmap. | Mindaugas Asipauskas | [Read More](https://medium.com/p/3149b167d38c) |
+| Mon, 25 Aug 2025 09:33:22 GMT | Why CSPM Is Essential for a Proactive Multi-Cloud Security Strategy | Appzlogic | [Read More](https://medium.com/p/e6ab29abdc78) |
+| Mon, 25 Aug 2025 09:32:24 GMT | Fortinet Firewall Custom DPI & Security Fabric & Application Filter - TalentCoders Siber Güvenlik… | Hakan ÇEVİK | [Read More](https://medium.com/p/9070b704c245) |
+| Mon, 25 Aug 2025 09:21:19 GMT | Hackers don’t break walls. They crawl through cracks. Build layers, not walls. | Syed Raza | [Read More](https://medium.com/p/ddc69a9f45c4) |
 | Mon, 25 Aug 2025 09:17:40 GMT | 10+ Vulnerabilities Reported but no Response | AbhirupKonwar | [Read More](https://medium.com/p/97fdfd80f738) |
 | Mon, 25 Aug 2025 09:13:44 GMT | She doesn’t want your solutions; she wants to be heard. | Zeshan Khan | [Read More](https://medium.com/p/c3437871c133) |
 | Mon, 25 Aug 2025 09:13:04 GMT | Top Security Solutions in Bangalore: Protecting Businesses, Homes, and Communities | Global Security | [Read More](https://medium.com/p/0812438e98c5) |
@@ -112,7 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 03:42:26 GMT | A Step-by-Step Guide to Preventing ClickFix Attacks | Jaime Peret | [Read More](https://medium.com/p/8a24a9a84edc) |
 | Mon, 25 Aug 2025 03:32:53 GMT | ? | xCY83RN4UT_ | [Read More](https://medium.com/p/ebb76621f211) |
 | Mon, 25 Aug 2025 03:31:33 GMT | When a Picture Is Worth a Thousand Threats: How Cybercriminals Hide Ransomware in JPGs | Deven Chhajed | [Read More](https://medium.com/p/451842ca1cc1) |
-| Mon, 25 Aug 2025 03:30:52 GMT | Gaming Privacy and Security: Why Every Gamer Should Care | Molly-lulu | [Read More](https://medium.com/p/97cf786308a3) |
-| Mon, 25 Aug 2025 03:30:16 GMT | How to Block Access to .git and .svn Files with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/be7fbdd4c39e) |
-| Mon, 25 Aug 2025 03:25:06 GMT | SQL Injection Lab — TryHackMe — Walkthrough & answers | Tapasvi Madhak | [Read More](https://medium.com/p/c0ed7fc3bd33) |
-| Mon, 25 Aug 2025 03:23:03 GMT | V380 Pro WiFi IP Camera Outdoor 12MP 6K Triple Lenses Triple Screens Security Video Monitor Night… | Gift Card | [Read More](https://medium.com/p/badf5cca281a) |
