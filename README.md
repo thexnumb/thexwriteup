@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 06:30:18 GMT | CVE-2025–9074: Docker Desktop Engine API Exposure — Patch Now | AerieWhole123 | [Read More](https://medium.com/p/b170f70d1e54) |
+| Mon, 25 Aug 2025 06:27:09 GMT | ️‍♂️ OWASP Top 10 for Web LLM Apps (2025) — The Field Manual | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9c8092dc8f36) |
+| Mon, 25 Aug 2025 06:27:06 GMT | The Cyber Talent Crunch: Can MDR and AI Be the Answer? | Ampcus Cyber | [Read More](https://medium.com/p/5afc387046dc) |
+| Mon, 25 Aug 2025 06:24:55 GMT | Hardening a Laughably Insecure App | Udit | [Read More](https://medium.com/p/f7526d1c69da) |
+| Mon, 25 Aug 2025 06:24:45 GMT | The Linux Security Journey — Debug WX | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/33690de446a2) |
+| Mon, 25 Aug 2025 06:22:27 GMT | Experience Best Cyber Security Security in Pune with Nexasoft Infinity’s Expertise | Nexasoft Infinity | [Read More](https://medium.com/p/7925f61a5ba9) |
+| Mon, 25 Aug 2025 06:19:53 GMT | 10 Bug Bounty Myths That Are Stopping You From Earning Your First $1,000 | Sukhveer Singh | [Read More](https://medium.com/p/53a9b49e4478) |
+| Mon, 25 Aug 2025 06:18:52 GMT | Malicious Encoded PowerShell: Detecting, Decoding & Modeling | Alex Teixeira | [Read More](https://medium.com/p/321fd322c6ec) |
+| Mon, 25 Aug 2025 06:16:04 GMT | Breaking Down BugBazaar: Lessons from a Vulnerable Android E-Commerce App | Vivek Sawant | [Read More](https://medium.com/p/2ceaca1c2759) |
+| Mon, 25 Aug 2025 06:13:31 GMT | bWAPP Series: HTML Injection — Reflected (POST) — Medium Severity | Madhumathi chamarthi | [Read More](https://medium.com/p/d61fd45bed2c) |
+| Mon, 25 Aug 2025 06:12:02 GMT | Top 7 Mistakes to Avoid When Working Toward GDPR Compliance | Ampcus Cyber | [Read More](https://medium.com/p/530963a3aa9b) |
+| Mon, 25 Aug 2025 06:08:22 GMT | ️ Inside the Dark Web Economy: How Your Data Becomes Digital Currency | Abida Adra | [Read More](https://medium.com/p/dca6629a9088) |
+| Mon, 25 Aug 2025 06:02:39 GMT | The Hidden Cost of Ignoring Patching: A Sysadmin’s Nightmare | Aj | [Read More](https://medium.com/p/fe742b88e06a) |
+| Mon, 25 Aug 2025 06:00:42 GMT | Power Azure Bicep with Best Practices Using GitHub Copilot | Brian Veldman | [Read More](https://medium.com/p/835716b15546) |
 | Mon, 25 Aug 2025 05:42:25 GMT | When a Bug Bounty Turned Into a Real Attack | Shahzaib | [Read More](https://medium.com/p/48ffb6f027f7) |
 | Mon, 25 Aug 2025 05:42:00 GMT | How Scams Really Run on the Dark Web | adityaax | [Read More](https://medium.com/p/5d4eb84db860) |
+| Mon, 25 Aug 2025 05:39:37 GMT | WordPress Security Checklist Every Website Owner Must Follow | Saad Khan | [Read More](https://medium.com/p/83a0a63e91fd) |
 | Mon, 25 Aug 2025 05:31:40 GMT | The Night I Thought I Made It~ | Davemoore Edoho | [Read More](https://medium.com/p/8521a31cd97b) |
 | Mon, 25 Aug 2025 05:24:39 GMT | What is an Intelligence Product? A Complete Guide | Adam Goss | [Read More](https://medium.com/p/8cd0074215e1) |
 | Mon, 25 Aug 2025 05:23:26 GMT | Post-Quantum Cryptography: Preparing Your Business for Tomorrow’s Threats | KodekX | [Read More](https://medium.com/p/e551e580c778) |
@@ -101,18 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 21:58:04 GMT | File and Hash Threat Intel - Tryhackme | Aaron | [Read More](https://medium.com/p/f423ec84a5c1) |
 | Sun, 24 Aug 2025 21:53:38 GMT | System-Host Based Attacks CTF 1 | Hejackson | [Read More](https://medium.com/p/f391f14d8df2) |
 | Sun, 24 Aug 2025 21:48:47 GMT | Full Account Takeover (0-Click ATO) — My Story with a Critical Vulnerability | Nayef Hamouda | [Read More](https://medium.com/p/6e7ff9a9eaa5) |
-| Sun, 24 Aug 2025 21:34:08 GMT | Ignite - TryHackMe | Laach_ | [Read More](https://medium.com/p/c939cb64d5ae) |
-| Sun, 24 Aug 2025 21:23:52 GMT | Mobile — The Silent Threat | Pietro Romano / SecBeret | [Read More](https://medium.com/p/bb9dc1f03704) |
-| Sun, 24 Aug 2025 21:07:03 GMT | Google Is Still Leaking Your Secrets in 2025 — Here’s the Proof | FXM Brand | [Read More](https://medium.com/p/e45e8c6db162) |
-| Sun, 24 Aug 2025 21:01:44 GMT | How We Bypassed Rate Limits To Flood OTP Systems | Ibtissam hammadi | [Read More](https://medium.com/p/157aa822b72e) |
-| Sun, 24 Aug 2025 21:00:10 GMT | Ethical Walkthrough Using SET on Kali Linux (Cloning a Website)/Types of malwares | Victor Shedrack | [Read More](https://medium.com/p/f9fb8eb5d5c3) |
-| Sun, 24 Aug 2025 20:51:00 GMT | Introduction to Android App Hacking | Nyx0r | [Read More](https://medium.com/p/ca1c49bc9382) |
-| Sun, 24 Aug 2025 20:47:33 GMT | ️ Advanced Privilege Abuse and Escalation Detection Methods Using UEBA | Esra Kayhan | [Read More](https://medium.com/p/a935c2d84210) |
-| Sun, 24 Aug 2025 20:46:37 GMT | Securing Industrial Control Systems: A Guide to the MITRE ATT&CK for ICS Framework | Cyberkech | [Read More](https://medium.com/p/80ccde630f62) |
-| Sun, 24 Aug 2025 20:33:59 GMT | DNSSEC, HSTS, and CAA: The Triple Lock for Your Domain Security | Tomer Klein | [Read More](https://medium.com/p/dcdc0bf145cd) |
-| Sun, 24 Aug 2025 20:32:08 GMT | Navigating Trust in Security | Wojciech Kotłowski | [Read More](https://medium.com/p/cc9e997c2096) |
-| Sun, 24 Aug 2025 20:26:12 GMT | CARTP & CARTE Exam Review by Microsoft Azure Certified | Mohammad Hassan Pezeshkian | [Read More](https://medium.com/p/4c7af5d0c658) |
-| Sun, 24 Aug 2025 20:18:55 GMT | How I found an Account Lockout Vulnerability Without Any Tools | StrangeRwhite | [Read More](https://medium.com/p/f52cbcd58730) |
-| Sun, 24 Aug 2025 20:10:26 GMT | For Themyscira! — 2025 Target Cyber Defense Challenge Tier 1 Write-Up | CyberSecJess | [Read More](https://medium.com/p/027f39dbf879) |
-| Sun, 24 Aug 2025 20:01:33 GMT | The Overlooked Profile of the Most Effective CISOs — The Gardener | Yael Nagler | [Read More](https://medium.com/p/c807397a605b) |
-| Sun, 24 Aug 2025 20:01:21 GMT | Why Your Next Computer Might Not Live in Your House | Derek Wood | [Read More](https://medium.com/p/2266c1c8588f) |
