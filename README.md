@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 05:18:16 GMT | Understanding CORS Cross-Origin Resource Sharing | Thidas Senavirathna | [Read More](https://medium.com/p/59965d96e7a8) |
+| Mon, 25 Aug 2025 05:01:37 GMT | Why Bahrain’s Job Market is Booming in 2025 | Edstellar Official | [Read More](https://medium.com/p/afaf673e2e62) |
+| Mon, 25 Aug 2025 05:01:37 GMT | PicoCTF 2025: Cookie Monster Secret Recipe — Write-up Web Exploitation (Easy) | LunarX | [Read More](https://medium.com/p/1457764ee823) |
+| Mon, 25 Aug 2025 04:59:19 GMT | 5 Best Books to Learn Cyber Security in 2025 | javinpaul | [Read More](https://medium.com/p/68990ca35697) |
+| Mon, 25 Aug 2025 04:51:49 GMT | Top 10 Career Options for Computer Science Grads in 2025 (And Why You Should Care) | Pawan Shah | [Read More](https://medium.com/p/168b9022eb64) |
 | Mon, 25 Aug 2025 04:31:56 GMT | The Real Hack: The Pocket Tools That Make a Real Difference | Altair | [Read More](https://medium.com/p/35abb7dbb399) |
+| Mon, 25 Aug 2025 04:31:09 GMT | When URLs Lie: Homographic and Semantic Phishing Attacks | Daniel | [Read More](https://medium.com/p/44e126a0afe7) |
+| Mon, 25 Aug 2025 04:28:02 GMT | How Hackers in the UAE Are Using Public Networks | The UNFILTERED Draft | [Read More](https://medium.com/p/13c60f4594a0) |
 | Mon, 25 Aug 2025 04:24:00 GMT | It’s A TRAP Malware | Adrian Jenkins | [Read More](https://medium.com/p/a95b9447bd27) |
 | Mon, 25 Aug 2025 04:23:31 GMT | Confirmed: The [Carrier] Breach Exposed 150M SSNs, Here’s Your 7-Step Recovery Plan | Sneha Rani | [Read More](https://medium.com/p/a2a53498baa4) |
 | Mon, 25 Aug 2025 04:22:23 GMT | <!DOCTYPE html>
@@ -109,11 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 Aug 2025 19:33:26 GMT | Write-Up for CAT Reloaded CTF/DFIR/Index of Secrets Challenge | Dagon | [Read More](https://medium.com/p/d58badee1b3e) |
 | Sun, 24 Aug 2025 19:29:37 GMT | Why Visible Mall Security Guards Enhance Shopper Confidence | Nimra Sheikh | [Read More](https://medium.com/p/5ca6e7f10d5c) |
 | Sun, 24 Aug 2025 19:29:24 GMT | Forget Deepfaking Politicians. AI Can Deepfake Your Boss on a Live Video Call. | Berker Ceylan | [Read More](https://medium.com/p/a31b0fcfe65f) |
-| Sun, 24 Aug 2025 19:28:38 GMT | Essential Mall Security Techniques Every Mall Owner Should Know | Nimra Sheikh | [Read More](https://medium.com/p/571eb1d9e738) |
-| Sun, 24 Aug 2025 19:25:41 GMT | Best Practices to Stop Organized Retail Crime in Malls | Nimra Sheikh | [Read More](https://medium.com/p/f3104fa56e00) |
-| Sun, 24 Aug 2025 19:20:09 GMT | From a Phone Number Tweak to Total Account Takeover
- How an RFC 3966-compliant phone number… | horamah | [Read More](https://medium.com/p/156be00dff95) |
-| Sun, 24 Aug 2025 19:18:52 GMT | Log Analysis with SIEM | Josh Pointer | [Read More](https://medium.com/p/259e691e6daa) |
-| Sun, 24 Aug 2025 19:17:14 GMT | Bandit 0–5 Walkthrough: Your First Steps Into Ethical Hacking | Soham_Jadhav | [Read More](https://medium.com/p/39e0f96ba56b) |
-| Sun, 24 Aug 2025 19:04:23 GMT | Let’s create a Secure Remote Management Tool to assist our company in handling their IT challenges | Yvonda Davis | [Read More](https://medium.com/p/27fddafae068) |
-| Sun, 24 Aug 2025 19:01:31 GMT | Lo que aprendí hackeando la NASA (y lo que significa realmente ser hacker) | Gorka | [Read More](https://medium.com/p/e4e5b390e570) |
