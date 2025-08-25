@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 21:57:31 GMT | MY CYBERSECURITY JOURNEY: HOW MOOT COURT COMPETITIONS HELPED ME LAND A ROLE PAYING ME IN DOLLARS | Onukwue Eunice | [Read More](https://medium.com/p/20fddca976bb) |
+| Mon, 25 Aug 2025 21:56:41 GMT | Introdução ao Microsoft Sentinel | Lucas Soeiro | [Read More](https://medium.com/p/83b6795e8869) |
+| Mon, 25 Aug 2025 21:51:18 GMT | Locking Secrets at the Speed of Light: The Future of Encryption | Derick Johnson | [Read More](https://medium.com/p/867e4454ffb6) |
+| Mon, 25 Aug 2025 21:50:46 GMT | Open Source ≠ Secure: Why Trust Alone Is Dangerous | Taulan Zauzanov | [Read More](https://medium.com/p/5cf8ef0420e2) |
 | Mon, 25 Aug 2025 21:28:44 GMT | Cybersecurity — Interviews, Project Portfolios & Certifications (Your competitive edge) | Franklin Rhodes | [Read More](https://medium.com/p/3ea0479655d8) |
 | Mon, 25 Aug 2025 21:23:42 GMT | AI for Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/aa2c2386827f) |
 | Mon, 25 Aug 2025 21:22:57 GMT | How to Handle Criticism and Feedback as an Artist | Hilarion Dinga | [Read More](https://medium.com/p/5d2715dab4d7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 16:01:21 GMT | From Audit to AI: How Traditional GRC Roles Are Evolving in the Digital Era | Lester Davila Escobedo | [Read More](https://medium.com/p/f721534ee0dd) |
 | Mon, 25 Aug 2025 16:01:19 GMT | Hunting Malware Like a Pro: A Hands-On Guide to Writing YARA Rules | Itz.sanskarr | [Read More](https://medium.com/p/aa4f7780a95c) |
 | Mon, 25 Aug 2025 15:48:07 GMT | From Sign-Up to Stored XSS in Profile: A Real Bug Bounty Report | Saeiez | [Read More](https://medium.com/p/41096ef12a28) |
-| Mon, 25 Aug 2025 15:47:34 GMT | Why Startups That Rushed Into AI Are Now Paying the Price | Clean Compiler | [Read More](https://medium.com/p/8abc0ff3563b) |
-| Mon, 25 Aug 2025 15:43:01 GMT | How I Organize My Code and Workflow (So I Don’t Go Crazy) | Naveen Bandaru | [Read More](https://medium.com/p/f8e6cba36ca7) |
-| Mon, 25 Aug 2025 15:40:21 GMT | The $100 Million Heist Nobody Talks About: A Look Inside the Bangladesh Bank | Archtrmntor | [Read More](https://medium.com/p/618301170fab) |
-| Mon, 25 Aug 2025 15:34:17 GMT | The Days When You Just Need a “Hug” | Haimonti Rakshit | [Read More](https://medium.com/p/45ab84866f8f) |
