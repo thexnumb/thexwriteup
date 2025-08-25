@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 10:17:48 GMT | What’s Next After CompTIA Security+? My Experience with the Google Cybersecurity Certificate | Citadel Cybersec | [Read More](https://medium.com/p/306084e3eb72) |
+| Mon, 25 Aug 2025 10:13:17 GMT | Building Efficient SOCs in MEA with SIEM + SOAR Integration | NewEvol | [Read More](https://medium.com/p/471eb77b057b) |
+| Mon, 25 Aug 2025 10:06:06 GMT | Bot Error: From Novelty to Non-Negotiable in Risk Models | Helen Horace | [Read More](https://medium.com/p/744b1f1e339f) |
+| Mon, 25 Aug 2025 10:05:54 GMT | Best Network Management Services Providers In India - Optimize Your Business | Gowthammathiew | [Read More](https://medium.com/p/b585015cb252) |
+| Mon, 25 Aug 2025 10:00:34 GMT | Common Web Application Vulnerabilities and How to Fix Them | cyber security Updates | [Read More](https://medium.com/p/5bd200f6d960) |
+| Mon, 25 Aug 2025 09:53:03 GMT | Juice Jacking: The Hidden Threat in Public USB Ports | Nikunj Patel | [Read More](https://medium.com/p/3bbfa67d8506) |
+| Mon, 25 Aug 2025 09:52:19 GMT | The Future of WordPress Development: Exploring the Latest Trends | Wings Design Studio | [Read More](https://medium.com/p/78db9042a277) |
+| Mon, 25 Aug 2025 09:51:12 GMT | How to Train for Cloud Security Consulting Roles | Kartik Debnath | [Read More](https://medium.com/p/f891d9f9e3e4) |
+| Mon, 25 Aug 2025 09:48:50 GMT | Cloud Security Challenges in Australia: Why You Need a Trusted Cyber Security Provider | vGics Global LLP | [Read More](https://medium.com/p/59ab12e95b78) |
+| Mon, 25 Aug 2025 09:48:42 GMT | Fortinet Firewall Custom DPI & Security Fabric & Application Filter - TalentCoders Siber Güvenlik… | Hakan ÇEVİK | [Read More](https://medium.com/p/56410edb46f3) |
+| Mon, 25 Aug 2025 09:41:31 GMT | Lumma Stealer: Advanced Network Detection & Validation (Part 3) | Siddhant Mishra | [Read More](https://medium.com/p/d17419c7b0ed) |
+| Mon, 25 Aug 2025 09:41:29 GMT | Best motherboard for cyber security | Ayeshhaa | [Read More](https://medium.com/p/fbf1e775e0f3) |
 | Mon, 25 Aug 2025 09:35:01 GMT | A simple guide to finding threat vectors on internet exposed systems with Nmap. | Mindaugas Asipauskas | [Read More](https://medium.com/p/3149b167d38c) |
 | Mon, 25 Aug 2025 09:33:22 GMT | Why CSPM Is Essential for a Proactive Multi-Cloud Security Strategy | Appzlogic | [Read More](https://medium.com/p/e6ab29abdc78) |
 | Mon, 25 Aug 2025 09:32:24 GMT | Fortinet Firewall Custom DPI & Security Fabric & Application Filter - TalentCoders Siber Güvenlik… | Hakan ÇEVİK | [Read More](https://medium.com/p/9070b704c245) |
@@ -104,15 +116,3 @@ A list of the latest fetched articles from RSS feeds.
  <meta charset=”UTF-8">
  <meta name=”viewport”… | Prodhanmdrakib | [Read More](https://medium.com/p/6cf1318c1f40) |
 | Mon, 25 Aug 2025 04:17:09 GMT | FortiMonitor: Digital Experience Monitoring Platform | Juara IT Solutions | [Read More](https://medium.com/p/5929cdc9d3e3) |
-| Mon, 25 Aug 2025 04:15:02 GMT | Analyzing Endpoint Protection and Global Impact | Cyber Security Research | [Read More](https://medium.com/p/d605a34e7d48) |
-| Mon, 25 Aug 2025 04:13:16 GMT | Analyzing Endpoint Protection That You Must Know | Cyber Security Research | [Read More](https://medium.com/p/f4a8050b4742) |
-| Mon, 25 Aug 2025 04:11:42 GMT | MIRAI Worm: The Underdog That Shook the Internet | Altair | [Read More](https://medium.com/p/91903119235a) |
-| Mon, 25 Aug 2025 04:11:29 GMT | Analyzing Endpoint Protection That Drive Innovation | Cyber Security Research | [Read More](https://medium.com/p/0cd730285246) |
-| Mon, 25 Aug 2025 04:08:01 GMT | Analyzing Data Privacy in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/c7f78cce8b0b) |
-| Mon, 25 Aug 2025 04:05:53 GMT | Addressing Security Vulnerabilities in Docker | @rnab | [Read More](https://medium.com/p/4fb257c86364) |
-| Mon, 25 Aug 2025 04:04:28 GMT | Analyzing Data Privacy for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/3b407876769e) |
-| Mon, 25 Aug 2025 04:02:29 GMT | Run These 10 Linux Server Management Steps on a Fresh VPS! | Arash hadad | [Read More](https://medium.com/p/3fbc72ac60c5) |
-| Mon, 25 Aug 2025 03:57:47 GMT | Why Ransomware Feels Like a Digital Kidnapping (And How People Survive It) | Shahzaib | [Read More](https://medium.com/p/ebb1f8a240cc) |
-| Mon, 25 Aug 2025 03:42:26 GMT | A Step-by-Step Guide to Preventing ClickFix Attacks | Jaime Peret | [Read More](https://medium.com/p/8a24a9a84edc) |
-| Mon, 25 Aug 2025 03:32:53 GMT | ? | xCY83RN4UT_ | [Read More](https://medium.com/p/ebb76621f211) |
-| Mon, 25 Aug 2025 03:31:33 GMT | When a Picture Is Worth a Thousand Threats: How Cybercriminals Hide Ransomware in JPGs | Deven Chhajed | [Read More](https://medium.com/p/451842ca1cc1) |
