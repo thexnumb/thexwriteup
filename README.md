@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 11:33:18 GMT | Finans Sektöründe Tehdit İstihbaratının Önemi | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/423e39eef5e9) |
+| Mon, 25 Aug 2025 11:25:08 GMT | Checkmarx: The Ultimate Guide to Secure Your Code Effortlessly | Davebhargavi | [Read More](https://medium.com/p/1ded8e328c5f) |
+| Mon, 25 Aug 2025 11:23:54 GMT | Kirill Firsov Explain the Role of Ethical Hacking in Digital Finance | kirill Firsov | [Read More](https://medium.com/p/d22f6053cf1e) |
+| Mon, 25 Aug 2025 11:23:32 GMT | When Hackers Trick AI: Understanding Evasion Attacks | Brittney Ginther | [Read More](https://medium.com/p/c2e3c08a792e) |
+| Mon, 25 Aug 2025 11:18:37 GMT | ️ Web3 Security Weekly — Aug 18–24, 2025 | Null Return | [Read More](https://medium.com/p/cb252de86a21) |
+| Mon, 25 Aug 2025 11:17:39 GMT | Why Zelion’s $ZYL Token Powers a Thriving, Community-Driven Web3 Revolution | Starlove_e | [Read More](https://medium.com/p/ae8b5a85ee2e) |
+| Mon, 25 Aug 2025 11:17:32 GMT | From Recon to Riches: How Cybersecurity Hunters Are Turning Recon Tools Into Gold in 2025 | DJH4CK3R | [Read More](https://medium.com/p/4a93c8563893) |
+| Mon, 25 Aug 2025 11:17:32 GMT | Phishing Doesn’t Look Like Phishing | Evgeny Ermakov | [Read More](https://medium.com/p/0d1bae87fa62) |
+| Mon, 25 Aug 2025 11:17:12 GMT | The Future of Digital Identity: Why Your Online Self Matters More Than Ever | DJH4CK3R | [Read More](https://medium.com/p/2300352a7670) |
+| Mon, 25 Aug 2025 11:08:23 GMT | 10 Best Access Control Software in 2025: Features, Pricing, and Use Cases | SecureSlate | [Read More](https://medium.com/p/1a83c7ca3e7f) |
 | Mon, 25 Aug 2025 11:06:31 GMT | The Dark Side of LLM-Powered Security Automation | Aryan D | [Read More](https://medium.com/p/d59e044a852e) |
 | Mon, 25 Aug 2025 10:59:59 GMT | Trying to use Linux as a Complete Beginner in cyb | Emmanuel Jeffrey Kassa | [Read More](https://medium.com/p/abd91e3832d1) |
 | Mon, 25 Aug 2025 10:59:53 GMT | TryHackMe “Basic Dynamic Analysis” — Walkthrough | Furkanctiner | [Read More](https://medium.com/p/fdd7ab746e21) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 06:24:45 GMT | The Linux Security Journey — Debug WX | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/33690de446a2) |
 | Mon, 25 Aug 2025 06:22:27 GMT | Experience Best Cyber Security Security in Pune with Nexasoft Infinity’s Expertise | Nexasoft Infinity | [Read More](https://medium.com/p/7925f61a5ba9) |
 | Mon, 25 Aug 2025 06:19:53 GMT | 10 Bug Bounty Myths That Are Stopping You From Earning Your First $1,000 | Sukhveer Singh | [Read More](https://medium.com/p/53a9b49e4478) |
-| Mon, 25 Aug 2025 06:18:52 GMT | Malicious Encoded PowerShell: Detecting, Decoding & Modeling | Alex Teixeira | [Read More](https://medium.com/p/321fd322c6ec) |
-| Mon, 25 Aug 2025 06:16:04 GMT | Breaking Down BugBazaar: Lessons from a Vulnerable Android E-Commerce App | Vivek Sawant | [Read More](https://medium.com/p/2ceaca1c2759) |
-| Mon, 25 Aug 2025 06:13:31 GMT | bWAPP Series: HTML Injection — Reflected (POST) — Medium Severity | Madhumathi chamarthi | [Read More](https://medium.com/p/d61fd45bed2c) |
-| Mon, 25 Aug 2025 06:12:02 GMT | Top 7 Mistakes to Avoid When Working Toward GDPR Compliance | Ampcus Cyber | [Read More](https://medium.com/p/530963a3aa9b) |
-| Mon, 25 Aug 2025 06:08:22 GMT | ️ Inside the Dark Web Economy: How Your Data Becomes Digital Currency | Abida Adra | [Read More](https://medium.com/p/dca6629a9088) |
-| Mon, 25 Aug 2025 06:02:39 GMT | The Hidden Cost of Ignoring Patching: A Sysadmin’s Nightmare | Aj | [Read More](https://medium.com/p/fe742b88e06a) |
-| Mon, 25 Aug 2025 06:00:42 GMT | Power Azure Bicep with Best Practices Using GitHub Copilot | Brian Veldman | [Read More](https://medium.com/p/835716b15546) |
-| Mon, 25 Aug 2025 05:42:25 GMT | When a Bug Bounty Turned Into a Real Attack | Shahzaib | [Read More](https://medium.com/p/48ffb6f027f7) |
-| Mon, 25 Aug 2025 05:42:00 GMT | How Scams Really Run on the Dark Web | adityaax | [Read More](https://medium.com/p/5d4eb84db860) |
-| Mon, 25 Aug 2025 05:39:37 GMT | WordPress Security Checklist Every Website Owner Must Follow | Saad Khan | [Read More](https://medium.com/p/83a0a63e91fd) |
