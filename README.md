@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 20:34:52 GMT | Harry Potter Series: Fawkes CTF — Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/7f03191fbf0a) |
+| Mon, 25 Aug 2025 20:26:32 GMT | Snort IDS Setup | barancem | [Read More](https://medium.com/p/317a8e9c7cd1) |
 | Mon, 25 Aug 2025 20:17:37 GMT | Cybercriminals Know Who Your Weakest Link Is. Do You? | Graylog | [Read More](https://medium.com/p/71f490486935) |
+| Mon, 25 Aug 2025 20:17:07 GMT | Towing Services in Corolla, NC: Reliable & Fast Assistance | North Beach Recovery | [Read More](https://medium.com/p/976e2c9ff939) |
 | Mon, 25 Aug 2025 20:13:50 GMT | Harry Potter Series: Aragog CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/39bda16f0187) |
 | Mon, 25 Aug 2025 20:13:36 GMT | DevSecOps na prática: prevenindo commits de credenciais AWS com pre-commit e TruffleHog | DevSecOps from Zero!‍️ | [Read More](https://medium.com/p/5094226ec9ad) |
 | Mon, 25 Aug 2025 20:10:18 GMT | Learning Path for Cloud Security Specialists | Ihor Sasovets | [Read More](https://medium.com/p/73a09bc1db3b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 15:07:58 GMT | How I Found an Account Takeover Bug in the Forgot Password Flow | Medusa | [Read More](https://medium.com/p/49dbc82311f5) |
 | Mon, 25 Aug 2025 15:02:00 GMT | Agent Sudo CTF (TryHackMe) | Aqdas Ahbab | [Read More](https://medium.com/p/0307ed5e92e8) |
 | Mon, 25 Aug 2025 15:00:59 GMT | Brute It tryhackme walkthrough Room!! | Mainekhacker | [Read More](https://medium.com/p/11782bf62b81) |
-| Mon, 25 Aug 2025 14:58:14 GMT | Defense in Depth for Mobile Applications: A Multi-Layered Security Strategy | sathish | [Read More](https://medium.com/p/c41a218d64bb) |
-| Mon, 25 Aug 2025 14:57:30 GMT | Try Hack Me Nerd Herd Write-ups: https://tryhackme.com/room/nerdherd | MouhibMahadbi | [Read More](https://medium.com/p/f13c2f8ff27d) |
-| Mon, 25 Aug 2025 14:52:34 GMT | TryHackMe Room AgentSudoCTF | Shourya Pratap Singh | [Read More](https://medium.com/p/2e2acd06183a) |
