@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 15:33:11 GMT | My First Bug Bounty: HTML Injection Got me 250$ | Lakshya | [Read More](https://medium.com/p/419878fc528e) |
+| Mon, 25 Aug 2025 15:31:11 GMT | IT Certifications That Changed My Career: My Journey and Best Recommendations | Luispuello | [Read More](https://medium.com/p/2b09ec473391) |
+| Mon, 25 Aug 2025 15:29:17 GMT | First of all.. | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/5961a9764238) |
+| Mon, 25 Aug 2025 15:28:26 GMT | The OT Technology Landscape | ThatOTSecurityGuy | [Read More](https://medium.com/p/37a87f7fb44d) |
 | Mon, 25 Aug 2025 15:21:32 GMT | How AI and Emerging Technologies Are Redefining Patient Care Excellence | Partners in Digital Health | [Read More](https://medium.com/p/4de6fc46980e) |
+| Mon, 25 Aug 2025 15:15:29 GMT | 6 Best Udemy Courses to Learn Kali Linux in 2025 | javinpaul | [Read More](https://medium.com/p/0526e0d49288) |
+| Mon, 25 Aug 2025 15:15:25 GMT | picoCTF Reverse Engineering: Keygenme Challenge Writeup | Ahmed-Mahmoud-M | [Read More](https://medium.com/p/563305429e2f) |
 | Mon, 25 Aug 2025 15:10:19 GMT | Metodologias e Ferramentas para Modelagem de Ameaças | Gabi Deutner | [Read More](https://medium.com/p/5465aa725e95) |
 | Mon, 25 Aug 2025 15:07:58 GMT | How I Found an Account Takeover Bug in the Forgot Password Flow | Medusa | [Read More](https://medium.com/p/49dbc82311f5) |
 | Mon, 25 Aug 2025 15:02:00 GMT | Agent Sudo CTF (TryHackMe) | Aqdas Ahbab | [Read More](https://medium.com/p/0307ed5e92e8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 10:41:12 GMT | Ensuring Safety and Trust with CISS India: A Leader in Security Guard Services | Ciss India | [Read More](https://medium.com/p/f17d0f7c235c) |
 | Mon, 25 Aug 2025 10:40:40 GMT | Top 10 Features of the Best Home Security Systems: ADT vs. Vivint | Solide Info Media | [Read More](https://medium.com/p/f7ce569cc9bb) |
 | Mon, 25 Aug 2025 10:40:38 GMT | ️‍♂️ Advanced Static Analysis with Ghidra: Exploring the TryHackMe Room (Walkthrough) | Furkanctiner | [Read More](https://medium.com/p/a40c011d9209) |
-| Mon, 25 Aug 2025 10:39:12 GMT | The Most Effective Way to Implement Cisco Zero Trust | Solide Info Media | [Read More](https://medium.com/p/c1402f1757d8) |
-| Mon, 25 Aug 2025 10:37:53 GMT | Top 5 Security Features in a Modern Automatic Fare Collection System | DigiPay Guru | [Read More](https://medium.com/p/0d43ca3cee66) |
-| Mon, 25 Aug 2025 10:37:12 GMT | Securing Kubernetes Layer by Layer: An OSI Approach (Part 2 : L4) | Benoit Lefebvre | [Read More](https://medium.com/p/498c69f951fc) |
-| Mon, 25 Aug 2025 10:36:45 GMT | An Apache Web Services Intelligence Operation | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/c644c4567fae) |
-| Mon, 25 Aug 2025 10:30:07 GMT | Deepfakes, Trust, and How to Survive | Abdullah Topraksoy | [Read More](https://medium.com/p/a586beed9c2b) |
-| Mon, 25 Aug 2025 10:29:02 GMT | How To: Access The Dark Web Securely | Dove | [Read More](https://medium.com/p/3c55031699a0) |
