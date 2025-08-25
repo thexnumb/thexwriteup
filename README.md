@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 12:43:56 GMT | The Collapse of Invisible Barriers: Broken Access Control | Huzeyfe Gonenci | [Read More](https://medium.com/p/a1815d55735e) |
+| Mon, 25 Aug 2025 12:37:56 GMT | Blind XSS via Clipboard Paste Handling: A Detailed Guide | coffinxp | [Read More](https://medium.com/p/4c52d65c43f4) |
+| Mon, 25 Aug 2025 12:37:24 GMT | Analyzing Identity Management That Drives Innovation | Cyber Security Research | [Read More](https://medium.com/p/4cef9a529294) |
+| Mon, 25 Aug 2025 12:35:37 GMT | Online Scams 101: Everything You Need to Know | Lindaclousin | [Read More](https://medium.com/p/e2e410cfe0ae) |
+| Mon, 25 Aug 2025 12:34:52 GMT | Analyzing Endpoint Protection in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/32879ddbeb7b) |
+| Mon, 25 Aug 2025 12:33:36 GMT | Analyzing Endpoint Protection for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/bec904ecc571) |
+| Mon, 25 Aug 2025 12:32:22 GMT | Analyzing Endpoint Protection for Organizations | Cyber Security Research | [Read More](https://medium.com/p/3db5e3610480) |
+| Mon, 25 Aug 2025 12:31:01 GMT | Analyzing Endpoint Protection for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/3e506f6a89ba) |
+| Mon, 25 Aug 2025 12:30:04 GMT | ️‍♂️ OWASP Top 10: Web LLM Attack Risks (2025 Edition) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c1018059411d) |
+| Mon, 25 Aug 2025 12:25:48 GMT | COMPUTER MISUSE AND CYBERCRIMES ACT (Kenya) >Part 1 | mug1sh4 | [Read More](https://medium.com/p/e95f4ddac0f3) |
+| Mon, 25 Aug 2025 12:22:12 GMT | RST TI Report Digest: 25 Aug 2025 | RST Cloud | [Read More](https://medium.com/p/70896adf3eb2) |
+| Mon, 25 Aug 2025 12:21:24 GMT | The Hidden Door: IDOR Vulnerability | Huzeyfe Gonenci | [Read More](https://medium.com/p/69bc8cc5d24c) |
+| Mon, 25 Aug 2025 12:13:01 GMT | The Rise of the Invisible Battlefield: How Cybersecurity Became Humanity’s Frontline Defense | DJH4CK3R | [Read More](https://medium.com/p/8eaf279ddd58) |
+| Mon, 25 Aug 2025 12:11:34 GMT | Pentesting Insecure Deserialization — Full Project Walkthrough | Hacked By Himel | [Read More](https://medium.com/p/f7a83528e9f9) |
+| Mon, 25 Aug 2025 12:05:07 GMT | Agentic Browsers: A New Frontier or Security Disaster | Sundaram Dubey | [Read More](https://medium.com/p/4aca71f93d4e) |
+| Mon, 25 Aug 2025 12:02:40 GMT | Title: | Thwab | [Read More](https://medium.com/p/6e870e598623) |
+| Mon, 25 Aug 2025 11:59:29 GMT | Malware Analysis | Jasmehr Kaur | [Read More](https://medium.com/p/0516a082690b) |
+| Mon, 25 Aug 2025 11:53:41 GMT | HTB Authority Machine Walkthrough - Easy HackTheBox Guide for Beginners | SeverSerenity | [Read More](https://medium.com/p/0785cb178540) |
+| Mon, 25 Aug 2025 11:52:24 GMT | Title: | Thwab | [Read More](https://medium.com/p/d0b7909acd0f) |
+| Mon, 25 Aug 2025 11:48:47 GMT | How Affordable is iOS and Android App Development in Riyadh? | Five Programmers | [Read More](https://medium.com/p/788f513a77d8) |
+| Mon, 25 Aug 2025 11:48:34 GMT | How to Secure Your LMS Website from Unauthorized Access | Md. Mostafizur Rahman | [Read More](https://medium.com/p/c5c8b658bf4e) |
+| Mon, 25 Aug 2025 11:44:01 GMT | Nokia Morph Redefined: How This Concept Inspires 2025 Smartphones | Elowen Virelle | [Read More](https://medium.com/p/f39951bfcb21) |
+| Mon, 25 Aug 2025 11:42:03 GMT | JWTs ≠ Sessions: The Costly Mistake Every Dev Makes | Kavya's Programming Path | [Read More](https://medium.com/p/d56e7b26c13f) |
+| Mon, 25 Aug 2025 11:34:15 GMT | Auto-Compliance Protocol Routing: Making Cross-Chain Transfers Legally Safe by Default | Bright Mmaduabuchi | [Read More](https://medium.com/p/9d67ee49be18) |
 | Mon, 25 Aug 2025 11:33:18 GMT | Finans Sektöründe Tehdit İstihbaratının Önemi | COARB LIMITED - Cybersecurity & AI Insights | [Read More](https://medium.com/p/423e39eef5e9) |
 | Mon, 25 Aug 2025 11:25:08 GMT | Checkmarx: The Ultimate Guide to Secure Your Code Effortlessly | Davebhargavi | [Read More](https://medium.com/p/1ded8e328c5f) |
 | Mon, 25 Aug 2025 11:23:54 GMT | Kirill Firsov Explain the Role of Ethical Hacking in Digital Finance | kirill Firsov | [Read More](https://medium.com/p/d22f6053cf1e) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 07:48:26 GMT | Protecting Your Business Data: Cybersecurity Best Practices for CCTV Systems | Marcela John | [Read More](https://medium.com/p/51942e3bfe49) |
 | Mon, 25 Aug 2025 07:46:49 GMT | How to Use OWASP Rules Effectively in Azure Web Application Firewall (WAF) | Ambika | [Read More](https://medium.com/p/a59b75146d44) |
 | Mon, 25 Aug 2025 07:42:11 GMT | What is the CIA triad in Information Security? | Pranav soni | [Read More](https://medium.com/p/ee05f5f5e0bd) |
-| Mon, 25 Aug 2025 07:40:20 GMT | Jaringan Komputer : Apa itu Jaringan Komputer? | Yasa Wijaya | [Read More](https://medium.com/p/ecb4c6ce953b) |
-| Mon, 25 Aug 2025 07:35:35 GMT | Android Kiosk Mode Made Simple for Any Device | Vantage MDM | [Read More](https://medium.com/p/74ce0a9aae1a) |
-| Mon, 25 Aug 2025 07:28:13 GMT | Cybersecurity in India: Protecting the Digital Future (2025 Guide) | Earning Handle | [Read More](https://medium.com/p/6053fb2978d0) |
-| Mon, 25 Aug 2025 07:20:04 GMT | Securing the Cloud: Mastering the Core Principles of Cloud Security | inok009 | [Read More](https://medium.com/p/44a3d009c2dc) |
-| Mon, 25 Aug 2025 07:19:28 GMT | Who is Try’in to Hack you | Arun Gautham | [Read More](https://medium.com/p/91ce6e453086) |
-| Mon, 25 Aug 2025 07:19:21 GMT | Header Games: How a Single HTTP Header Misconfiguration Led Me to Sensitive Data Exposure | Iski | [Read More](https://medium.com/p/8fbb364782d9) |
-| Mon, 25 Aug 2025 07:15:31 GMT | The Modern CISO’s Cybersecurity Playbook: Balancing Security, Risk & Business Priorities | Cloud Kinetics | [Read More](https://medium.com/p/feb3829e42bd) |
-| Mon, 25 Aug 2025 07:10:10 GMT | CISA Issues 10 Security Advisories for Industrial Control Systems | SafetyDetectives Research Team | [Read More](https://medium.com/p/b71c8ca7c36e) |
-| Mon, 25 Aug 2025 07:09:19 GMT | Day 9:- Advanced Linux, Unleashing the Power of the Open Source OS | Prutha_Dongre | [Read More](https://medium.com/p/1ba6b52fc234) |
-| Mon, 25 Aug 2025 07:06:36 GMT | Why Should Businesses Rely on SIEM and XDR for Stronger Security? | Vijilan | [Read More](https://medium.com/p/2b70df83bb8b) |
-| Mon, 25 Aug 2025 06:58:51 GMT | ️️BT Temel Altyapı ve Güvenliği | Musa Koçak | [Read More](https://medium.com/p/76f0b043d3aa) |
-| Mon, 25 Aug 2025 06:58:20 GMT | your ultimate guide to enter blockchain security in seven Steps. | Hassan Abdelkhalek‍ | [Read More](https://medium.com/p/6baee8d97f85) |
-| Mon, 25 Aug 2025 06:53:38 GMT | Code Vulnerability Scanner: 100% Free Rapid Proven Security! | Ankush Chaudhary | [Read More](https://medium.com/p/cad42a784de6) |
-| Mon, 25 Aug 2025 06:51:37 GMT | What Happens in a Real Penetration Test? Behind the Scenes | Anshul Goyal | [Read More](https://medium.com/p/6bd0b58fbaf7) |
-| Mon, 25 Aug 2025 06:48:45 GMT | Vulnerability Assessment: A Comprehensive Guide | Ayush Goel | [Read More](https://medium.com/p/d2b9a7d0426d) |
-| Mon, 25 Aug 2025 06:47:31 GMT | ‍♂️ Tip de Bug Bounty: Nunca ignores los mensajes de error | Gorka | [Read More](https://medium.com/p/6e57f2b82f76) |
-| Mon, 25 Aug 2025 06:40:06 GMT | ⚔️ HashMap vs ConcurrentHashMap in Java — What’s the Real Difference? | Techie Arbaaz | [Read More](https://medium.com/p/d1d89c483934) |
-| Mon, 25 Aug 2025 06:30:18 GMT | CVE-2025–9074: Docker Desktop Engine API Exposure — Patch Now | AerieWhole123 | [Read More](https://medium.com/p/b170f70d1e54) |
-| Mon, 25 Aug 2025 06:27:09 GMT | ️‍♂️ OWASP Top 10 for Web LLM Apps (2025) — The Field Manual | Narendar Battula (nArEn) | [Read More](https://medium.com/p/9c8092dc8f36) |
-| Mon, 25 Aug 2025 06:27:06 GMT | The Cyber Talent Crunch: Can MDR and AI Be the Answer? | Ampcus Cyber | [Read More](https://medium.com/p/5afc387046dc) |
-| Mon, 25 Aug 2025 06:24:55 GMT | Hardening a Laughably Insecure App | Udit | [Read More](https://medium.com/p/f7526d1c69da) |
-| Mon, 25 Aug 2025 06:24:45 GMT | The Linux Security Journey — Debug WX | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/33690de446a2) |
-| Mon, 25 Aug 2025 06:22:27 GMT | Experience Best Cyber Security Security in Pune with Nexasoft Infinity’s Expertise | Nexasoft Infinity | [Read More](https://medium.com/p/7925f61a5ba9) |
-| Mon, 25 Aug 2025 06:19:53 GMT | 10 Bug Bounty Myths That Are Stopping You From Earning Your First $1,000 | Sukhveer Singh | [Read More](https://medium.com/p/53a9b49e4478) |
