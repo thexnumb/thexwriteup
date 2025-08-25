@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 15:21:32 GMT | How AI and Emerging Technologies Are Redefining Patient Care Excellence | Partners in Digital Health | [Read More](https://medium.com/p/4de6fc46980e) |
+| Mon, 25 Aug 2025 15:10:19 GMT | Metodologias e Ferramentas para Modelagem de Ameaças | Gabi Deutner | [Read More](https://medium.com/p/5465aa725e95) |
+| Mon, 25 Aug 2025 15:07:58 GMT | How I Found an Account Takeover Bug in the Forgot Password Flow | Medusa | [Read More](https://medium.com/p/49dbc82311f5) |
+| Mon, 25 Aug 2025 15:02:00 GMT | Agent Sudo CTF (TryHackMe) | Aqdas Ahbab | [Read More](https://medium.com/p/0307ed5e92e8) |
+| Mon, 25 Aug 2025 15:00:59 GMT | Brute It tryhackme walkthrough Room!! | Mainekhacker | [Read More](https://medium.com/p/11782bf62b81) |
+| Mon, 25 Aug 2025 14:58:14 GMT | Defense in Depth for Mobile Applications: A Multi-Layered Security Strategy | sathish | [Read More](https://medium.com/p/c41a218d64bb) |
+| Mon, 25 Aug 2025 14:57:30 GMT | Try Hack Me Nerd Herd Write-ups: https://tryhackme.com/room/nerdherd | MouhibMahadbi | [Read More](https://medium.com/p/f13c2f8ff27d) |
+| Mon, 25 Aug 2025 14:52:34 GMT | TryHackMe Room AgentSudoCTF | Shourya Pratap Singh | [Read More](https://medium.com/p/2e2acd06183a) |
+| Mon, 25 Aug 2025 14:52:22 GMT | PG Play — Amaterasu (Linux) | Lepton | [Read More](https://medium.com/p/2128b96dbd48) |
+| Mon, 25 Aug 2025 14:52:05 GMT | PG Play — Potato (Linux) | Lepton | [Read More](https://medium.com/p/cb577ddd0df9) |
+| Mon, 25 Aug 2025 14:51:54 GMT | Beyond Imitation: A New Framework for Gauging AI Maturity | Berend Watchus | [Read More](https://medium.com/p/67bd84d99327) |
+| Mon, 25 Aug 2025 14:51:50 GMT | PG Practice — Boolean (Linux) | Lepton | [Read More](https://medium.com/p/4986b13a5c32) |
+| Mon, 25 Aug 2025 14:51:33 GMT | What I Wish I Knew Before Starting TryHackMe | GauthamV | [Read More](https://medium.com/p/5efe6ce0d9c8) |
 | Mon, 25 Aug 2025 14:40:06 GMT | When Decompiled Code Lies | Karol Mazurek | [Read More](https://medium.com/p/006a1759dbf3) |
 | Mon, 25 Aug 2025 14:36:49 GMT | Weekline investment Customer care helpline number//(7294161837)) Call Weekline investment Customer… | (7294161837Weekline investment Customer care hel | [Read More](https://medium.com/p/6fc24962fb9d) |
 | Mon, 25 Aug 2025 14:34:11 GMT | Exact Study Plan I Used for CompTIA Security+ (With Free Resources & Daily Schedule) | Rue | [Read More](https://medium.com/p/17af3cb43d25) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 10:36:45 GMT | An Apache Web Services Intelligence Operation | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/c644c4567fae) |
 | Mon, 25 Aug 2025 10:30:07 GMT | Deepfakes, Trust, and How to Survive | Abdullah Topraksoy | [Read More](https://medium.com/p/a586beed9c2b) |
 | Mon, 25 Aug 2025 10:29:02 GMT | How To: Access The Dark Web Securely | Dove | [Read More](https://medium.com/p/3c55031699a0) |
-| Mon, 25 Aug 2025 10:25:54 GMT | System Design 101 — Module 8: Security & Observability Foundations | The Abstract Engineer | [Read More](https://medium.com/p/4b63d1ee16e3) |
-| Mon, 25 Aug 2025 10:25:39 GMT | ‘I Alone Am Right’ | Terry Schwadron | [Read More](https://medium.com/p/9252928cedf3) |
-| Mon, 25 Aug 2025 10:17:48 GMT | What’s Next After CompTIA Security+? My Experience with the Google Cybersecurity Certificate | Citadel Cybersec | [Read More](https://medium.com/p/306084e3eb72) |
-| Mon, 25 Aug 2025 10:13:17 GMT | Building Efficient SOCs in MEA with SIEM + SOAR Integration | NewEvol | [Read More](https://medium.com/p/471eb77b057b) |
-| Mon, 25 Aug 2025 10:06:06 GMT | Bot Error: From Novelty to Non-Negotiable in Risk Models | Helen Horace | [Read More](https://medium.com/p/744b1f1e339f) |
-| Mon, 25 Aug 2025 10:05:54 GMT | Best Network Management Services Providers In India - Optimize Your Business | Gowthammathiew | [Read More](https://medium.com/p/b585015cb252) |
-| Mon, 25 Aug 2025 10:00:34 GMT | Common Web Application Vulnerabilities and How to Fix Them | cyber security Updates | [Read More](https://medium.com/p/5bd200f6d960) |
-| Mon, 25 Aug 2025 09:53:03 GMT | Juice Jacking: The Hidden Threat in Public USB Ports | Nikunj Patel | [Read More](https://medium.com/p/3bbfa67d8506) |
-| Mon, 25 Aug 2025 09:52:19 GMT | The Future of WordPress Development: Exploring the Latest Trends | Wings Design Studio | [Read More](https://medium.com/p/78db9042a277) |
-| Mon, 25 Aug 2025 09:51:12 GMT | How to Train for Cloud Security Consulting Roles | Kartik Debnath | [Read More](https://medium.com/p/f891d9f9e3e4) |
-| Mon, 25 Aug 2025 09:48:50 GMT | Cloud Security Challenges in Australia: Why You Need a Trusted Cyber Security Provider | vGics Global LLP | [Read More](https://medium.com/p/59ab12e95b78) |
-| Mon, 25 Aug 2025 09:48:42 GMT | Fortinet Firewall Custom DPI & Security Fabric & Application Filter - TalentCoders Siber Güvenlik… | Hakan ÇEVİK | [Read More](https://medium.com/p/56410edb46f3) |
-| Mon, 25 Aug 2025 09:41:31 GMT | Lumma Stealer: Advanced Network Detection & Validation (Part 3) | Siddhant Mishra | [Read More](https://medium.com/p/d17419c7b0ed) |
