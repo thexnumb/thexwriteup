@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 19:28:49 GMT | ZIP Slip leading to Remote Command Execution in Java Application | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/fd3c41150b71) |
+| Mon, 25 Aug 2025 19:28:22 GMT | Why ISACA Member | Miguel Norberto | [Read More](https://medium.com/p/7a516757a6d1) |
+| Mon, 25 Aug 2025 19:25:23 GMT | Gitxray v1.0.18: VirusTotal integration, Kali Linux and more | Kulkan Security | [Read More](https://medium.com/p/ddcf4c9ed5a3) |
+| Mon, 25 Aug 2025 19:16:39 GMT | CORS (Cross-Origin Resource Sharing) Explained Simply and Deeply | Abhinav Singh | [Read More](https://medium.com/p/1ae1501795d6) |
+| Mon, 25 Aug 2025 19:16:22 GMT | Day 56 — OverTheWire Leviathan: A Complete Beginner’s Guide to Binary Exploitation | Jinay | [Read More](https://medium.com/p/f44a307f6ec3) |
+| Mon, 25 Aug 2025 19:09:21 GMT | Easy Peasy THM writeup - by 2No0b4YoU | 2No0b4YoU | [Read More](https://medium.com/p/5a4a737b453d) |
 | Mon, 25 Aug 2025 18:55:48 GMT | Automatic Remediation: The Future of Cybersecurity Response | SafeAeon Inc. | [Read More](https://medium.com/p/e7717e8fb41c) |
 | Mon, 25 Aug 2025 18:52:54 GMT | Silent Breach: How Attackers Evade Windows EDR to Exfiltrate Secrets and Credentials. | eL Njas!™ | [Read More](https://medium.com/p/11793cf4da12) |
 | Mon, 25 Aug 2025 18:44:26 GMT | Essential Email Fraud Prevention Strategies: Protecting Your Inbox and Business | SafeAeon Inc. | [Read More](https://medium.com/p/3096f1be2705) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 14:04:20 GMT | BrunnerCTF 2025 whisk crypto shake&bake challenge | Zeyad Salah | [Read More](https://medium.com/p/305a672516f6) |
 | Mon, 25 Aug 2025 14:01:50 GMT | LetsDefend SOC211: Winlogon Exploit Attempt via Utilman.exe (Event ID 161)- Walkthrough. | Orifile M. | [Read More](https://medium.com/p/35ce6b2b94c6) |
 | Mon, 25 Aug 2025 14:01:48 GMT | Cyber Briefing: 2025.08.25 | CyberMaterial | [Read More](https://medium.com/p/62947b0fadd4) |
-| Mon, 25 Aug 2025 13:56:58 GMT | Breaking: APT36 Unleashes Desktop Shortcut Phishing on Windows and BOSS Linux | Pentestjunkie07 | [Read More](https://medium.com/p/ba5ee9c36820) |
-| Mon, 25 Aug 2025 13:51:41 GMT | Weak JWT Secret Leads to 0-Click Account Takeover — First Critical Accept | Muhammad Saad Sabir | [Read More](https://medium.com/p/d7c0cc2b64b3) |
-| Mon, 25 Aug 2025 13:51:32 GMT | Zero Trust Architecture in Industrial Control Systems: Myth or Reality? | Cyberkech | [Read More](https://medium.com/p/0cb5862115e9) |
-| Mon, 25 Aug 2025 13:51:28 GMT | Understanding the Delivery Phase of the Cyber Kill Chain | Genrunic | [Read More](https://medium.com/p/335598c60017) |
-| Mon, 25 Aug 2025 13:48:35 GMT | 7 Essential Steps to Kickstart Your Bug Bounty Journey | Aju Deb | [Read More](https://medium.com/p/924543170998) |
-| Mon, 25 Aug 2025 13:41:06 GMT | Kickstart Your Cybersecurity Career: Cisco CBROPS Webinar | Aaqib Rajput | [Read More](https://medium.com/p/01045222b2cf) |
