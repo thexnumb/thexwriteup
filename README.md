@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 08:27:23 GMT | Easy 9.6 critical bug in 5 min | Adam | [Read More](https://medium.com/p/0fc2356487fc) |
+| Mon, 25 Aug 2025 08:21:38 GMT | Code does not lie | Maikel Mardjan | [Read More](https://medium.com/p/f834f1554125) |
+| Mon, 25 Aug 2025 08:15:04 GMT | Knowledge Check - Getting Started — HackTheBox. | B3TA-BLOCKER | [Read More](https://medium.com/p/22b231f4ebbf) |
+| Mon, 25 Aug 2025 08:13:32 GMT | RISK MANAGEMENT 101: When a Nation Becomes Its Own Greatest Risk; The Illusion of Security and the… | Jair Abrego Cubilla | [Read More](https://medium.com/p/09ea6d48d3fa) |
+| Mon, 25 Aug 2025 08:13:24 GMT | COBIT 2019 for Auditors: A Quick Guide | Tedislava Vasileva | [Read More](https://medium.com/p/2d13974b2277) |
+| Mon, 25 Aug 2025 08:13:17 GMT | Nocturnal - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/05641c49ebc1) |
+| Mon, 25 Aug 2025 08:08:00 GMT | Boinker Journal: Targeted Through a Game? | Nikola Stanimirovic | [Read More](https://medium.com/p/8d1da0c862e4) |
+| Mon, 25 Aug 2025 08:02:56 GMT | MinIO + Docker — Güncelleme: AIStor çıktı, topluluk sürümü devam ediyor (Web UI gitti mi?) | Ugur Adalar | [Read More](https://medium.com/p/8fe122444390) |
+| Mon, 25 Aug 2025 08:01:53 GMT | Stronger Security for a Safer Future: ROGup’s Latest Update | ROGin AI | [Read More](https://medium.com/p/7573a88fc14b) |
+| Mon, 25 Aug 2025 08:01:34 GMT | Linux Repository Management: Your Software Security Guard | MayhemCode | [Read More](https://medium.com/p/5f9fc4eec1f1) |
+| Mon, 25 Aug 2025 07:54:51 GMT | How Custom Web App Development Benefits Small Business RPA | Noahlucas | [Read More](https://medium.com/p/e5640cc3b7da) |
+| Mon, 25 Aug 2025 07:53:30 GMT | The Future of Work Is Here — And So Are the Risks: Phishing with Perplexity’s Comet | Ashley Dai | [Read More](https://medium.com/p/4f654a2a8c98) |
+| Mon, 25 Aug 2025 07:52:44 GMT | Red Teamers vs.  Blue Teamers in AI Safety: Which One Are You? | S3CloudHub | [Read More](https://medium.com/p/d7c3ee0c9ba1) |
+| Mon, 25 Aug 2025 07:52:16 GMT | Is VAPT Worth the Cost in 2025? | Qualysec | [Read More](https://medium.com/p/161521740936) |
+| Mon, 25 Aug 2025 07:51:18 GMT | California Cybersecurity Programs: Shaping Tomorrow’s Digital Defenders | Serishahid | [Read More](https://medium.com/p/ab65495c5cfd) |
+| Mon, 25 Aug 2025 07:50:30 GMT | The Hidden Dangers of Logging Secrets (CWE-532) | Bhavesh sharma | [Read More](https://medium.com/p/6ee9e261c994) |
+| Mon, 25 Aug 2025 07:48:26 GMT | Protecting Your Business Data: Cybersecurity Best Practices for CCTV Systems | Marcela John | [Read More](https://medium.com/p/51942e3bfe49) |
+| Mon, 25 Aug 2025 07:46:49 GMT | How to Use OWASP Rules Effectively in Azure Web Application Firewall (WAF) | Ambika | [Read More](https://medium.com/p/a59b75146d44) |
+| Mon, 25 Aug 2025 07:42:11 GMT | What is the CIA triad in Information Security? | Pranav soni | [Read More](https://medium.com/p/ee05f5f5e0bd) |
+| Mon, 25 Aug 2025 07:40:20 GMT | Jaringan Komputer : Apa itu Jaringan Komputer? | Yasa Wijaya | [Read More](https://medium.com/p/ecb4c6ce953b) |
+| Mon, 25 Aug 2025 07:35:35 GMT | Android Kiosk Mode Made Simple for Any Device | Vantage MDM | [Read More](https://medium.com/p/74ce0a9aae1a) |
 | Mon, 25 Aug 2025 07:28:13 GMT | Cybersecurity in India: Protecting the Digital Future (2025 Guide) | Earning Handle | [Read More](https://medium.com/p/6053fb2978d0) |
 | Mon, 25 Aug 2025 07:20:04 GMT | Securing the Cloud: Mastering the Core Principles of Cloud Security | inok009 | [Read More](https://medium.com/p/44a3d009c2dc) |
 | Mon, 25 Aug 2025 07:19:28 GMT | Who is Try’in to Hack you | Arun Gautham | [Read More](https://medium.com/p/91ce6e453086) |
@@ -95,24 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 01:47:30 GMT | How I Built (and Secured) My First Mini-Network in Cisco Packet Tracer | Mary Isioma | [Read More](https://medium.com/p/9078ee7d0964) |
 | Mon, 25 Aug 2025 01:41:59 GMT | The Final Frontier: How AI and Cybersecurity Are Reshaping Space Security Over the Next Decade | CCD-IS | [Read More](https://medium.com/p/9a39e2c71d62) |
 | Mon, 25 Aug 2025 01:29:15 GMT | Building a Complete Home SOC Lab: Network Security Implementation and Automated Threat Response | Shahal Farhan | [Read More](https://medium.com/p/1c125cf066a0) |
-| Mon, 25 Aug 2025 01:17:19 GMT | Lari Ada Tikus — COMPFEST 17 HackerClass Write-Up (Forensics) | detarune | [Read More](https://medium.com/p/7b2733ade577) |
-| Mon, 25 Aug 2025 01:13:48 GMT | Dear BF-COMPFEST 17 HackerClass Write-Up (Forensics) | detarune | [Read More](https://medium.com/p/b37bc553ae0b) |
-| Mon, 25 Aug 2025 01:12:59 GMT | HackTheBox Walkthrough: Arctic — From Foothold to SYSTEM (OSCP+ Prep) | Kaplanibrahimm | [Read More](https://medium.com/p/4cf45efaa20f) |
-| Mon, 25 Aug 2025 01:11:32 GMT | High Sensitivity: A Gift of Late Bloomers in a Challenging World | kate spider | [Read More](https://medium.com/p/616e3bae2164) |
-| Mon, 25 Aug 2025 01:04:08 GMT | Legitimately My First Medium Post | Erich Huffman | [Read More](https://medium.com/p/a8a239c9db8d) |
-| Mon, 25 Aug 2025 01:00:30 GMT | “How can I gain better confidence when approaching women?” | Marie Osmeña | [Read More](https://medium.com/p/059b274778d6) |
-| Mon, 25 Aug 2025 00:44:51 GMT | Why Cybersecurity Is Non-Negotiable for Small Businesses in 2025 | CloudVanguard IT | [Read More](https://medium.com/p/350991b98924) |
-| Mon, 25 Aug 2025 00:39:45 GMT | Your PT1 Guide | Mehdi Ben Fredj | [Read More](https://medium.com/p/627f67a71b05) |
-| Mon, 25 Aug 2025 00:35:26 GMT | Why IT Compliance Is Critical for Accounting Firms in 2025 | CloudVanguard IT | [Read More](https://medium.com/p/08e994d01e1b) |
-| Mon, 25 Aug 2025 00:08:30 GMT | Malicious Uses of OSINT by Cybercriminals and Hackers | David SEHYEON Baek | [Read More](https://medium.com/p/6e92403c474b) |
-| Mon, 25 Aug 2025 00:08:27 GMT | Exportacion de logs de Google Workspace Alert Center a un SIEM | Emir Ataide | [Read More](https://medium.com/p/43f4f350e014) |
-| Mon, 25 Aug 2025 00:00:18 GMT | The Post-Quantum Era…Few Realize We are Already Experiencing It | Marcelo Becker | [Read More](https://medium.com/p/9180293891bb) |
-| Sun, 24 Aug 2025 23:53:21 GMT | Exporting Google Workspace Alert Center logs to SIEM | Emir Ataide | [Read More](https://medium.com/p/3ee8cc3d451b) |
-| Sun, 24 Aug 2025 23:50:12 GMT | Moving from CRUD to CQRS for Better Performance | Rizqi Mulki | [Read More](https://medium.com/p/1fd350afcafd) |
-| Sun, 24 Aug 2025 23:46:46 GMT | Web Architecture for the Next Billion Users | Rizqi Mulki | [Read More](https://medium.com/p/ff35ae6a30c8) |
-| Sun, 24 Aug 2025 23:45:40 GMT | The Day I Realized Vulnerability Was Not Weakness | Hope Ogar | [Read More](https://medium.com/p/3ce251872450) |
-| Sun, 24 Aug 2025 23:44:09 GMT | The Myth of “Fast Enough” in Web Development | Rizqi Mulki | [Read More](https://medium.com/p/194782959fb7) |
-| Sun, 24 Aug 2025 23:29:32 GMT | AI project ideas for 2026 you’ll actually feel in real life | Jameel Starnes | [Read More](https://medium.com/p/5ab88ea83c3e) |
-| Sun, 24 Aug 2025 23:20:25 GMT | My Agile Journey: Lessons Learned Along the Way | Naveen Bandaru | [Read More](https://medium.com/p/c0a2510dc5e0) |
-| Sun, 24 Aug 2025 23:18:51 GMT | Hardening LLMs with MCP Context Protector | KrishKuchroo | [Read More](https://medium.com/p/2f6f74cd25b1) |
-| Sun, 24 Aug 2025 23:18:01 GMT | 5 Security Headers Every CyberSecurity Candidate Should Know for Job Interview | Mudassir Syed | [Read More](https://medium.com/p/af125095940a) |
