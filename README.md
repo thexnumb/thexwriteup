@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 21:28:44 GMT | Cybersecurity — Interviews, Project Portfolios & Certifications (Your competitive edge) | Franklin Rhodes | [Read More](https://medium.com/p/3ea0479655d8) |
+| Mon, 25 Aug 2025 21:23:42 GMT | AI for Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/aa2c2386827f) |
+| Mon, 25 Aug 2025 21:22:57 GMT | How to Handle Criticism and Feedback as an Artist | Hilarion Dinga | [Read More](https://medium.com/p/5d2715dab4d7) |
+| Mon, 25 Aug 2025 21:14:06 GMT | Building a Malware Lab — Part 1: Networking | Ryan Murphy | [Read More](https://medium.com/p/6cf6ed7cb0ba) |
 | Mon, 25 Aug 2025 21:12:33 GMT | Intelligent Workflow Automation Solutions | The Insightful Solutions | [Read More](https://medium.com/p/ddde88f3a1f6) |
+| Mon, 25 Aug 2025 21:09:58 GMT | CYBER SECURITY TIPS | Moeez King | [Read More](https://medium.com/p/c368f6fb8615) |
+| Mon, 25 Aug 2025 21:08:33 GMT | Netskope S-1 Deep Dive: $707M ARR, 118% NRR, and a Channel-Heavy Path to the Public Markets | Amar Jeer | [Read More](https://medium.com/p/6ab0826a90c4) |
 | Mon, 25 Aug 2025 20:55:22 GMT | Mastering Kali Linux in 2025: The Ultimate Guide to Cybersecurity, Hacking, and Emerging Trends | Unknown Source | [Read More](https://medium.com/p/c717c1300d06) |
 | Mon, 25 Aug 2025 20:51:33 GMT | ⚡ Real-Time UEBA Applications: Anomaly Monitoring with Big Data and Stream Analytics | Esra Kayhan | [Read More](https://medium.com/p/220c9a636d05) |
 | Mon, 25 Aug 2025 20:43:40 GMT | TryHackMe Publisher Walkthrough | Mono | [Read More](https://medium.com/p/e0addb5a1894) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 15:43:01 GMT | How I Organize My Code and Workflow (So I Don’t Go Crazy) | Naveen Bandaru | [Read More](https://medium.com/p/f8e6cba36ca7) |
 | Mon, 25 Aug 2025 15:40:21 GMT | The $100 Million Heist Nobody Talks About: A Look Inside the Bangladesh Bank | Archtrmntor | [Read More](https://medium.com/p/618301170fab) |
 | Mon, 25 Aug 2025 15:34:17 GMT | The Days When You Just Need a “Hug” | Haimonti Rakshit | [Read More](https://medium.com/p/45ab84866f8f) |
-| Mon, 25 Aug 2025 15:33:11 GMT | My First Bug Bounty: HTML Injection Got me 250$ | Lakshya | [Read More](https://medium.com/p/419878fc528e) |
-| Mon, 25 Aug 2025 15:31:11 GMT | IT Certifications That Changed My Career: My Journey and Best Recommendations | Luispuello | [Read More](https://medium.com/p/2b09ec473391) |
-| Mon, 25 Aug 2025 15:29:17 GMT | First of all.. | Toluwabori Agbemeyede Cyber-b | [Read More](https://medium.com/p/5961a9764238) |
-| Mon, 25 Aug 2025 15:28:26 GMT | The OT Technology Landscape | ThatOTSecurityGuy | [Read More](https://medium.com/p/37a87f7fb44d) |
-| Mon, 25 Aug 2025 15:21:32 GMT | How AI and Emerging Technologies Are Redefining Patient Care Excellence | Partners in Digital Health | [Read More](https://medium.com/p/4de6fc46980e) |
-| Mon, 25 Aug 2025 15:15:29 GMT | 6 Best Udemy Courses to Learn Kali Linux in 2025 | javinpaul | [Read More](https://medium.com/p/0526e0d49288) |
