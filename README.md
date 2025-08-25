@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 Aug 2025 20:17:37 GMT | Cybercriminals Know Who Your Weakest Link Is. Do You? | Graylog | [Read More](https://medium.com/p/71f490486935) |
+| Mon, 25 Aug 2025 20:13:50 GMT | Harry Potter Series: Aragog CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/39bda16f0187) |
+| Mon, 25 Aug 2025 20:13:36 GMT | DevSecOps na prática: prevenindo commits de credenciais AWS com pre-commit e TruffleHog | DevSecOps from Zero!‍️ | [Read More](https://medium.com/p/5094226ec9ad) |
+| Mon, 25 Aug 2025 20:10:18 GMT | Learning Path for Cloud Security Specialists | Ihor Sasovets | [Read More](https://medium.com/p/73a09bc1db3b) |
+| Mon, 25 Aug 2025 20:05:13 GMT | ️ Network Whisperer V1.0 — My New PCAP Analysis Tool | Md Fahim Al Shihab | [Read More](https://medium.com/p/40f7192ae7d7) |
+| Mon, 25 Aug 2025 20:02:54 GMT | How Mobile Patrol Security Strengthens Community Trust and Engagement | Nimra Sheikh | [Read More](https://medium.com/p/45f5d52006c1) |
+| Mon, 25 Aug 2025 20:00:40 GMT | Integrating Technology in Mobile Patrol: GPS, Apps & Real-Time Reporting | Nimra Sheikh | [Read More](https://medium.com/p/99e552b2e6d9) |
+| Mon, 25 Aug 2025 20:00:07 GMT | Best Practices for Effective and Safe Mobile Patrol Routes | Nimra Sheikh | [Read More](https://medium.com/p/8f25afdabec3) |
+| Mon, 25 Aug 2025 19:59:33 GMT | AI Hype in Cybersecurity Creates Risk When Rushing Adoption | Graylog | [Read More](https://medium.com/p/a1a29d3c2824) |
+| Mon, 25 Aug 2025 19:54:40 GMT | Building a Bulletproof FastAPI Social Media API: Complete Security Implementation Guide | ra9a_v3rv3 | [Read More](https://medium.com/p/52b474d6b0e4) |
+| Mon, 25 Aug 2025 19:54:40 GMT | OSI MODEL (open system interconnection ) and TCP/IP (Transmission Control Protocol/Internet… | The Commoness | [Read More](https://medium.com/p/6752f104850f) |
+| Mon, 25 Aug 2025 19:53:49 GMT | You Installed a PDF Editor:They Got a Botnet: The Shocking Supply‑Chain Twist | cybrNK | [Read More](https://medium.com/p/09adf6f4060d) |
+| Mon, 25 Aug 2025 19:53:33 GMT | The Electromagnetic War Criminal — How Russia’s GPS Terror Campaign Transforms Every Flight Into a… | Waleed’s Edge Knowledge | [Read More](https://medium.com/p/8a0b4bb8e913) |
+| Mon, 25 Aug 2025 19:49:35 GMT | IPsec Tünellerinde IP Adreslerinin Önemi | Ela Aydoğdu | [Read More](https://medium.com/p/77b79aee2101) |
+| Mon, 25 Aug 2025 19:42:55 GMT | Corrosion2 CTF — Complete Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/136e231d8da4) |
+| Mon, 25 Aug 2025 19:41:25 GMT | The Shame of Silent Love | Elan Tengis | [Read More](https://medium.com/p/3dc4da9fac99) |
+| Mon, 25 Aug 2025 19:31:32 GMT | How JWT Misuse Almost Exposed Our Entire User Base | Nikulsinh Rajput | [Read More](https://medium.com/p/3be62243c441) |
 | Mon, 25 Aug 2025 19:28:49 GMT | ZIP Slip leading to Remote Command Execution in Java Application | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/fd3c41150b71) |
 | Mon, 25 Aug 2025 19:28:22 GMT | Why ISACA Member | Miguel Norberto | [Read More](https://medium.com/p/7a516757a6d1) |
 | Mon, 25 Aug 2025 19:25:23 GMT | Gitxray v1.0.18: VirusTotal integration, Kali Linux and more | Kulkan Security | [Read More](https://medium.com/p/ddcf4c9ed5a3) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 14:58:14 GMT | Defense in Depth for Mobile Applications: A Multi-Layered Security Strategy | sathish | [Read More](https://medium.com/p/c41a218d64bb) |
 | Mon, 25 Aug 2025 14:57:30 GMT | Try Hack Me Nerd Herd Write-ups: https://tryhackme.com/room/nerdherd | MouhibMahadbi | [Read More](https://medium.com/p/f13c2f8ff27d) |
 | Mon, 25 Aug 2025 14:52:34 GMT | TryHackMe Room AgentSudoCTF | Shourya Pratap Singh | [Read More](https://medium.com/p/2e2acd06183a) |
-| Mon, 25 Aug 2025 14:52:22 GMT | PG Play — Amaterasu (Linux) | Lepton | [Read More](https://medium.com/p/2128b96dbd48) |
-| Mon, 25 Aug 2025 14:52:05 GMT | PG Play — Potato (Linux) | Lepton | [Read More](https://medium.com/p/cb577ddd0df9) |
-| Mon, 25 Aug 2025 14:51:54 GMT | Beyond Imitation: A New Framework for Gauging AI Maturity | Berend Watchus | [Read More](https://medium.com/p/67bd84d99327) |
-| Mon, 25 Aug 2025 14:51:50 GMT | PG Practice — Boolean (Linux) | Lepton | [Read More](https://medium.com/p/4986b13a5c32) |
-| Mon, 25 Aug 2025 14:51:33 GMT | What I Wish I Knew Before Starting TryHackMe | GauthamV | [Read More](https://medium.com/p/5efe6ce0d9c8) |
-| Mon, 25 Aug 2025 14:40:06 GMT | When Decompiled Code Lies | Karol Mazurek | [Read More](https://medium.com/p/006a1759dbf3) |
-| Mon, 25 Aug 2025 14:36:49 GMT | Weekline investment Customer care helpline number//(7294161837)) Call Weekline investment Customer… | (7294161837Weekline investment Customer care hel | [Read More](https://medium.com/p/6fc24962fb9d) |
-| Mon, 25 Aug 2025 14:34:11 GMT | Exact Study Plan I Used for CompTIA Security+ (With Free Resources & Daily Schedule) | Rue | [Read More](https://medium.com/p/17af3cb43d25) |
-| Mon, 25 Aug 2025 14:33:10 GMT | I Asked AI to Hack Me. The Results Were Terrifying (and Useful) | Vijay Kumar Gupta | [Read More](https://medium.com/p/30f0a141dbe9) |
-| Mon, 25 Aug 2025 14:29:24 GMT | Story of How vdp.brioni.com scam me | MRKNIGHT-NIDU | [Read More](https://medium.com/p/c7e5f455be09) |
-| Mon, 25 Aug 2025 14:21:13 GMT | How Small Businesses Empower Employees to Grow Beyond Boundaries | Jkmmusichsv | [Read More](https://medium.com/p/0e71b068f8b8) |
-| Mon, 25 Aug 2025 14:17:53 GMT | Phishing attacks have surged and evolved to unprecedented levels in 2025, with over 1 million… | Bona Karides | [Read More](https://medium.com/p/66d5ea675a3f) |
-| Mon, 25 Aug 2025 14:13:34 GMT | How to find an Information Disclosure (ID) vulnerabilities | LEVI | [Read More](https://medium.com/p/165717e57f6f) |
-| Mon, 25 Aug 2025 14:11:46 GMT | People Who Lack Inner Security Fear Conflict | Flaye Kate | [Read More](https://medium.com/p/db9f347c2027) |
-| Mon, 25 Aug 2025 14:04:20 GMT | BrunnerCTF 2025 whisk crypto shake&bake challenge | Zeyad Salah | [Read More](https://medium.com/p/305a672516f6) |
-| Mon, 25 Aug 2025 14:01:50 GMT | LetsDefend SOC211: Winlogon Exploit Attempt via Utilman.exe (Event ID 161)- Walkthrough. | Orifile M. | [Read More](https://medium.com/p/35ce6b2b94c6) |
-| Mon, 25 Aug 2025 14:01:48 GMT | Cyber Briefing: 2025.08.25 | CyberMaterial | [Read More](https://medium.com/p/62947b0fadd4) |
