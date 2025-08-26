@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 10:16:56 GMT | 3 XSS HackerOne Report got Duplicate | AbhirupKonwar | [Read More](https://medium.com/p/d38db9d3e771) |
+| Tue, 26 Aug 2025 10:16:39 GMT | DockerLabs Writeup — Paradise (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ebec1ca2a51d) |
+| Tue, 26 Aug 2025 10:07:12 GMT | Terrorism remains one of the most complex challenges of our time, reshaping geopolitics, security… | Sanni Lasisi | [Read More](https://medium.com/p/6a1e9c43b86a) |
+| Tue, 26 Aug 2025 10:05:54 GMT | At Exlity, we believe great spaces deserve great care. | EXLITY | [Read More](https://medium.com/p/9553489a263f) |
+| Tue, 26 Aug 2025 10:03:19 GMT | Cyber Security Company in Dubai, UAE | Oadtechdubai | [Read More](https://medium.com/p/2f65edec94d2) |
+| Tue, 26 Aug 2025 09:56:29 GMT | ️ The Fog of August 19 | V1rtu3 _h05t | [Read More](https://medium.com/p/516e56e1766d) |
+| Tue, 26 Aug 2025 09:53:51 GMT | The Art of Breaking OAuth: Real-World Exploit and Misuses | Aenosh Rajora | [Read More](https://medium.com/p/cce9b7794f90) |
+| Tue, 26 Aug 2025 09:48:52 GMT | CVE-2025–9393: Stack-Based Buffer Overflow Plagues Linksys Range Extenders | CVEHUB | [Read More](https://medium.com/p/21ddf27f9921) |
+| Tue, 26 Aug 2025 09:46:30 GMT | Smart CCTV Camera Installation for Home and Office in Dhaka — Secure Your Property with… | optimationbd | [Read More](https://medium.com/p/e989bdce2ba2) |
+| Tue, 26 Aug 2025 09:43:07 GMT | Cara Mudah Install SafeLine WAF di Ubuntu Server | Maverick Steel | [Read More](https://medium.com/p/8bb60174841c) |
+| Tue, 26 Aug 2025 09:42:40 GMT | How Small Businesses Can Implement Enterprise-Grade Security | Password Manager | [Read More](https://medium.com/p/e296b7ad40ff) |
+| Tue, 26 Aug 2025 09:40:39 GMT | Data Privacy and Security Challenges in Using LLMs for Business | Gurpreet Sachdeva | [Read More](https://medium.com/p/4a2945009847) |
 | Tue, 26 Aug 2025 09:38:20 GMT | Why Your Business Needs VAPT Services in India to Stay Secure | StrongBox IT | [Read More](https://medium.com/p/fd1dca8fade5) |
+| Tue, 26 Aug 2025 09:36:20 GMT | Pakistan Shocks Bangladesh!! No, Sorry for 1971 War Crime | Everclear | [Read More](https://medium.com/p/84b340e52439) |
+| Tue, 26 Aug 2025 09:35:37 GMT | Integrating Falcon LogScale with Managed SIEM for Maximum Security Performance | Vijilan | [Read More](https://medium.com/p/7aab513c5bf2) |
 | Tue, 26 Aug 2025 09:27:02 GMT | Stored XSS Leading to Full Account Takeover (The Art of Content-Type) | Pany Parsariyahi | [Read More](https://medium.com/p/c61793c6fa1f) |
 | Tue, 26 Aug 2025 09:26:20 GMT | Enhancing Mobile App Security through AI: A Paradigm Shift | Evangelist Apps | [Read More](https://medium.com/p/bb46d7c17134) |
 | Tue, 26 Aug 2025 09:25:43 GMT | Ishaq Dar Confronts US Lies: Trump Never Mediated India-Pakistan Ceasefire | Everclear | [Read More](https://medium.com/p/f6cdb85de1cc) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 04:50:28 GMT | I Haven’t Used a GUI in 6 Months and I’m Happier for It | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/399cbb3c1e02) |
 | Tue, 26 Aug 2025 04:50:24 GMT | How to Do Real-Time Face Swapping in Zoom, Discord, and Google Meet (DeepFaceLive Guide) | Amit Kumar | [Read More](https://medium.com/p/3e76e7428169) |
 | Tue, 26 Aug 2025 04:38:54 GMT | Why Most Directory Websites Fail (and How to Make Yours Succeed) | aDirectory | [Read More](https://medium.com/p/4216e4222b72) |
-| Tue, 26 Aug 2025 04:33:20 GMT | 8. Intro to XSS: How I Found My First Bug | Abhijeet kumawat | [Read More](https://medium.com/p/0046a4dbec4b) |
-| Tue, 26 Aug 2025 04:24:20 GMT | My Home Lab Is Literally a Fire Hazard | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/cfc9786ee317) |
-| Tue, 26 Aug 2025 04:22:13 GMT | Every Car Is a Computer Now, Which Means Every Car Is Hackable | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/1239af6360b2) |
-| Tue, 26 Aug 2025 04:18:47 GMT | What Makes IT Services in Manchester Essential for Growth? | wearegekko | [Read More](https://medium.com/p/3e9ebc1a2a85) |
-| Tue, 26 Aug 2025 04:06:00 GMT | CSRF to Delete Products from Any User’s Cart — Bypassing Protections and Getting Paid | Mohamed Said Ibrahim | [Read More](https://medium.com/p/aa365a0c4c8c) |
-| Tue, 26 Aug 2025 04:00:44 GMT | The Linux Security Journey — USB Auth (Universal Serial Bus Authorization) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/94f87afb53cd) |
-| Tue, 26 Aug 2025 03:57:11 GMT | 5 Reasons Why Cybersecurity Is a Must for Startups — Even on a Tight Budget | CouponzGuru | [Read More](https://medium.com/p/7ce47965f23d) |
-| Tue, 26 Aug 2025 03:53:33 GMT | Apple Patches CVE-2025–43300: A Zero-Day Exploit Targeting iPhones, iPads, and Macs | Udaykumar | [Read More](https://medium.com/p/0562015f750a) |
-| Tue, 26 Aug 2025 03:48:27 GMT | Your Vector Databases Aren’t Safe Anymore | S3CloudHub | [Read More](https://medium.com/p/8d6876a13524) |
-| Tue, 26 Aug 2025 03:47:34 GMT | CVE-2023–42820: JumpServer Password Reset Bug Could Lead to Account Takeover | AerieWhole123 | [Read More](https://medium.com/p/2704c7ca89b4) |
-| Tue, 26 Aug 2025 03:33:35 GMT | The AI Revolution Meets Cyber Warfare: How $320B in Tech Investment is Reshaping Digital Security… | Akshat Ratanpal | [Read More](https://medium.com/p/9cc5a5c767c5) |
-| Tue, 26 Aug 2025 03:33:35 GMT | Feistel Structure Network Security | codingstreets | [Read More](https://medium.com/p/6a5243df3aeb) |
-| Tue, 26 Aug 2025 03:19:43 GMT | From Finances to Firewalls — A smooth transition from accounting to cybersecurity | Julio Arredondo | [Read More](https://medium.com/p/f31acbadde4d) |
-| Tue, 26 Aug 2025 03:17:48 GMT | Deepfake Attacks: When AI Becomes a Master of Disguise | Kishan Kumar | [Read More](https://medium.com/p/d2da660e34fd) |
