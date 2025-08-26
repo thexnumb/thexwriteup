@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 09:38:20 GMT | Why Your Business Needs VAPT Services in India to Stay Secure | StrongBox IT | [Read More](https://medium.com/p/fd1dca8fade5) |
+| Tue, 26 Aug 2025 09:27:02 GMT | Stored XSS Leading to Full Account Takeover (The Art of Content-Type) | Pany Parsariyahi | [Read More](https://medium.com/p/c61793c6fa1f) |
+| Tue, 26 Aug 2025 09:26:20 GMT | Enhancing Mobile App Security through AI: A Paradigm Shift | Evangelist Apps | [Read More](https://medium.com/p/bb46d7c17134) |
+| Tue, 26 Aug 2025 09:25:43 GMT | Ishaq Dar Confronts US Lies: Trump Never Mediated India-Pakistan Ceasefire | Everclear | [Read More](https://medium.com/p/f6cdb85de1cc) |
+| Tue, 26 Aug 2025 09:24:06 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/a7b91858b2f0) |
+| Tue, 26 Aug 2025 09:20:45 GMT | Tracking people’s internet usage through your terminal | Haitham Aljabbari | [Read More](https://medium.com/p/7a1dd78743ad) |
 | Tue, 26 Aug 2025 09:20:05 GMT | Data Center Migration: Your Complete Guide | Oneworld logix | [Read More](https://medium.com/p/dcd9bdf65cbc) |
 | Tue, 26 Aug 2025 09:16:13 GMT | The Hidden Cost of Doing Nothing: Why Ignoring System Library Updates Can Haunt You | Renato Zanutto Cleps | [Read More](https://medium.com/p/5385b8d2b333) |
+| Tue, 26 Aug 2025 09:15:02 GMT | Scaling Security with SOAR: Practical Insights for Modern Enterprises | Vishvadini Ravihari | [Read More](https://medium.com/p/ff68b7502c7e) |
 | Tue, 26 Aug 2025 09:14:47 GMT | S. Jaishankar’s Stern Warning to the West | Everclear | [Read More](https://medium.com/p/74620229c640) |
 | Tue, 26 Aug 2025 09:13:20 GMT | OpenAI’s India Office Isn’t About Users — It’s About Power | Abhinav Jain | [Read More](https://medium.com/p/3422462993e3) |
 | Tue, 26 Aug 2025 09:08:53 GMT | Why is my Gmail still full of spam in the Age of AI? | Nicola Di Marco | [Read More](https://medium.com/p/bf20e99b355c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 03:33:35 GMT | Feistel Structure Network Security | codingstreets | [Read More](https://medium.com/p/6a5243df3aeb) |
 | Tue, 26 Aug 2025 03:19:43 GMT | From Finances to Firewalls — A smooth transition from accounting to cybersecurity | Julio Arredondo | [Read More](https://medium.com/p/f31acbadde4d) |
 | Tue, 26 Aug 2025 03:17:48 GMT | Deepfake Attacks: When AI Becomes a Master of Disguise | Kishan Kumar | [Read More](https://medium.com/p/d2da660e34fd) |
-| Tue, 26 Aug 2025 03:17:18 GMT | Bandit Levels 5–10 Walkthrough: Beginner’s Linux CTF Guide (OverTheWire) | Soham_Jadhav | [Read More](https://medium.com/p/55a7901927e0) |
-| Tue, 26 Aug 2025 03:16:37 GMT | SELinux’u Kapatmadan Yaşamak: Gerçek Hayat Senaryolarıyla Anlatım | Barbaros | [Read More](https://medium.com/p/a9eca6d6b106) |
-| Tue, 26 Aug 2025 03:15:17 GMT | DevOps and Database Optimization: Where They Meet | Rizqi Mulki | [Read More](https://medium.com/p/5afaf11530f5) |
-| Tue, 26 Aug 2025 03:07:52 GMT | The Evolution of Database Security in the Web Era | Rizqi Mulki | [Read More](https://medium.com/p/45329a1cd774) |
-| Tue, 26 Aug 2025 03:03:36 GMT | HTTP vs HTTPS: Why the Lock Really Matters | Akhil Boddula | [Read More](https://medium.com/p/d2ea6af16438) |
-| Tue, 26 Aug 2025 02:59:55 GMT | Why Your ORM Might Be Slowing Everything Down | Rizqi Mulki | [Read More](https://medium.com/p/879298944bb4) |
-| Tue, 26 Aug 2025 02:48:30 GMT | Is the PT1 by TryHackMe worth taking? | Hussein Ashour | [Read More](https://medium.com/p/d00c01c803ce) |
