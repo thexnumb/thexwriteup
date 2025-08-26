@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 15:37:57 GMT | 7 Cybersecurity Projects That Can Earn $5,000/Month | Carylrobert | [Read More](https://medium.com/p/ae184e438f1f) |
+| Tue, 26 Aug 2025 15:37:49 GMT | Swagger / OpenAPI / EndPoint Hunt Checklist | BugHunter021 | [Read More](https://medium.com/p/7cfb3002a056) |
+| Tue, 26 Aug 2025 15:35:12 GMT | The AI-Powered Hacker — How Artificial Intelligence is Changing Cybersecurity Forever | DJH4CK3R | [Read More](https://medium.com/p/e5a51f3e585b) |
+| Tue, 26 Aug 2025 15:34:19 GMT | The Git Command That Saved My Code at 3 AM | The Dev Notebook | [Read More](https://medium.com/p/a2345be687bd) |
+| Tue, 26 Aug 2025 15:32:30 GMT | “Day 20: The Chain Reaction — From a Tiny IDOR to a Supply Chain Nightmare” | Aman Sharma | [Read More](https://medium.com/p/7add2d72335a) |
+| Tue, 26 Aug 2025 15:31:26 GMT | Does government surveillance make us safer, or keep us captive? | Question It | [Read More](https://medium.com/p/9147ccd71b3a) |
+| Tue, 26 Aug 2025 15:31:17 GMT | The best managed backup services for tax and accounting teams in 2025 | Ayush Sharma | [Read More](https://medium.com/p/82153d98c608) |
+| Tue, 26 Aug 2025 15:29:29 GMT | AI Tools in Ticketing Systems | Cyber Timi | [Read More](https://medium.com/p/03193a1a6cb1) |
+| Tue, 26 Aug 2025 15:29:17 GMT | How a Network Outage in Nevada Became a National Cyber Wake-Up Call | Dhruvdeep Singh | [Read More](https://medium.com/p/1f134f9c9e84) |
+| Tue, 26 Aug 2025 15:26:40 GMT | ️‍♂️ OSINT Mastery: A Veteran’s Beginner’s Guide to Open Source Intelligence | RootXploit.0x | [Read More](https://medium.com/p/d480a57dc0c5) |
+| Tue, 26 Aug 2025 15:24:58 GMT | Stored XSS in Scada-LTS Data Point Edit | 0x5ea3o1f | [Read More](https://medium.com/p/42c7383402f0) |
+| Tue, 26 Aug 2025 15:24:45 GMT | Massive Grok AI Privacy Breach: 370,000+ User Conversations Exposed on Google | Fazal | [Read More](https://medium.com/p/7300ef935d80) |
+| Tue, 26 Aug 2025 15:24:19 GMT | Authentication vulnerabilities - Username Enumeration via Subtly Different Responses - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/a33e2e6bf48d) |
 | Tue, 26 Aug 2025 15:13:52 GMT | 5 Secrets Senior Developers Don’t Tell You About API Security | The Dev Notebook | [Read More](https://medium.com/p/c19626f5c334) |
 | Tue, 26 Aug 2025 15:11:53 GMT | Security Equipment for Modern Protection Needs | bravo Security | [Read More](https://medium.com/p/7b5f35bcaab3) |
 | Tue, 26 Aug 2025 15:11:25 GMT | Stored Cross-Site Scripting in Scada-LTS Data Point Name | 0x5ea3o1f | [Read More](https://medium.com/p/8ff30af740c0) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 12:33:53 GMT | Secure Coding Challenges Master Developer Security Skills | Application Security Master | [Read More](https://medium.com/p/01ce76beb732) |
 | Tue, 26 Aug 2025 12:33:00 GMT | Security Compliance in Finance: Rules & Practices | Qualysec | [Read More](https://medium.com/p/c9b3e26302f0) |
 | Tue, 26 Aug 2025 12:31:34 GMT | Every Scroll is a Secret: How Infinite Feeds “Hack Your Brain” | Shwet Shirbhayye | [Read More](https://medium.com/p/4473560c28fd) |
-| Tue, 26 Aug 2025 12:27:34 GMT | VexTrio: The Hidden Infrastructure Powering Global Cybercrime | VaRiOus_CanAriEs | [Read More](https://medium.com/p/1f6eb238ce72) |
-| Tue, 26 Aug 2025 12:26:24 GMT | Linux Malware VShell Exploits RAR Filename Injection to Evade Detection | Juan Andrés Leiva | [Read More](https://medium.com/p/728ed2aca484) |
-| Tue, 26 Aug 2025 12:25:38 GMT | RAM: The Memory That Knows | Ez Eldeen A. Mushtaha | [Read More](https://medium.com/p/c3ac091d3039) |
-| Tue, 26 Aug 2025 12:23:46 GMT | Information Disclosure: The Hidden Risks in Web Applications | Hinan Mohamed | [Read More](https://medium.com/p/9309fdf77444) |
-| Tue, 26 Aug 2025 12:18:06 GMT | SOC 2 Certification Steps Explained in Simple Terms | Decrypt Compliance | [Read More](https://medium.com/p/854f76d9ed7d) |
-| Tue, 26 Aug 2025 12:13:02 GMT | Malware Traffic Analysis Incident Report — Software Download from Fake Site | Okeke Ugochukwu Chidiebele | [Read More](https://medium.com/p/38fcfba7c999) |
-| Tue, 26 Aug 2025 12:11:30 GMT | I Lost Everything to a Cyber Attack | Aboyeji Emmanuel Olusola | [Read More](https://medium.com/p/a86fcf05e17c) |
-| Tue, 26 Aug 2025 12:10:13 GMT | VulnHub: DC 9 Writeup | Psalm Endozo | [Read More](https://medium.com/p/144fa038024a) |
-| Tue, 26 Aug 2025 12:04:56 GMT | Designing for Failure: Why True Resilience is More Than Uptime | IsaacFabianK | [Read More](https://medium.com/p/a2c8a339f1c3) |
-| Tue, 26 Aug 2025 12:02:26 GMT | Your Browser Is Snitching on You: A Hacker’s Guide to Fingerprinting | IamPreth | [Read More](https://medium.com/p/1ee0d1249f80) |
-| Tue, 26 Aug 2025 11:51:06 GMT | How Floating Touch™ Technology is Revolutionizing User Interfaces? | Aria Sullivan | [Read More](https://medium.com/p/5de6b2751962) |
-| Tue, 26 Aug 2025 11:50:19 GMT | Organizasyon Güvenliği | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/3f84b7de7e97) |
-| Tue, 26 Aug 2025 11:47:26 GMT | Nmap Commands Every Ethical Hacker Must Master | Aditya Bhatt | [Read More](https://medium.com/p/7cf4df010f8d) |
