@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 18:42:27 GMT | CEH Practical Exam Notes (v12) — iLabs Walkthrough | Hunter | [Read More](https://medium.com/p/48f30320b924) |
+| Tue, 26 Aug 2025 18:38:40 GMT | The Data Broker Threat to Healthcare and Finance | mePrism Privacy | [Read More](https://medium.com/p/011badf34ba3) |
+| Tue, 26 Aug 2025 18:36:09 GMT | Zscaler vs. Netskope on AWS: Who’s the Better Cloud Bouncer? | Sunnysidescuba | [Read More](https://medium.com/p/acf945664b7d) |
+| Tue, 26 Aug 2025 18:22:43 GMT | Security Matters in the Age of Information | Yasemin Er | [Read More](https://medium.com/p/ea8447215195) |
+| Tue, 26 Aug 2025 18:21:58 GMT | Why Every Business Needs a Block Web Filter | SafeAeon Inc. | [Read More](https://medium.com/p/39074e679991) |
 | Tue, 26 Aug 2025 18:20:11 GMT | I Tried Breaking Into My Accounts | Aj | [Read More](https://medium.com/p/c800b44f5efd) |
 | Tue, 26 Aug 2025 18:18:40 GMT | Social Media: The Hacker’s Favorite Playground | Shahzaib | [Read More](https://medium.com/p/28d7f5f1efde) |
+| Tue, 26 Aug 2025 18:17:39 GMT | Agentic AI in the Healthcare Industry: Threats, Mitigations, and Key Considerations | Ryan Scott | [Read More](https://medium.com/p/3c285c902e10) |
 | Tue, 26 Aug 2025 18:15:39 GMT | Cyberbiosecurity : Securing Human Bodies | Shubhamkhatang | [Read More](https://medium.com/p/eef04fe150b9) |
 | Tue, 26 Aug 2025 18:13:26 GMT | How to Hunt Easy Vulnerabilities on Websites | Monika sharma | [Read More](https://medium.com/p/44024c3e301f) |
 | Tue, 26 Aug 2025 18:13:22 GMT | The Malware That Hacked macOS, Windows, and Linux — All at Once | Noel | [Read More](https://medium.com/p/536445648bb2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 14:51:41 GMT | Day 87: Security Principles II | Nile Okomo | [Read More](https://medium.com/p/11e9b2855681) |
 | Tue, 26 Aug 2025 14:51:14 GMT | Utilizando SSRF para explorar MySQL | Haizaki_00 | [Read More](https://medium.com/p/421570498b74) |
 | Tue, 26 Aug 2025 14:48:30 GMT | Security Modernization: Aligning Technology with Business Risk | Claritus Consulting | [Read More](https://medium.com/p/18532f99ead6) |
-| Tue, 26 Aug 2025 14:47:34 GMT | TA-NATALSTATUS: Rootkit-Style Cryptojacking Dominates Exposed Redis Servers Globally | Wes Young | [Read More](https://medium.com/p/511302059f08) |
-| Tue, 26 Aug 2025 14:47:14 GMT | Authentication vulnerabilities - Username Enumeration via Different Responses - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/4fcbc31639d1) |
-| Tue, 26 Aug 2025 14:47:14 GMT | Exploiting Port 21 in a Safe Lab Environment (Ethical Hacking with Metasploit) | Mary Isioma O | [Read More](https://medium.com/p/37b87a285c50) |
-| Tue, 26 Aug 2025 14:43:45 GMT | How I Use AI to Write Viral Blog Posts (My Exact 5-Step System) | Fahad's Foresight | [Read More](https://medium.com/p/c4c056c41d29) |
-| Tue, 26 Aug 2025 14:43:14 GMT | Elevating My Cybersecurity Skills with Microsoft Security, Compliance, and Identity Fundamentals… | Dhruvish Rathod | [Read More](https://medium.com/p/c2a4a9efa464) |
-| Tue, 26 Aug 2025 14:42:06 GMT | WordPress Credential Attacks: Brute-Forcing Usernames and Passwords — A Step-by-Step Guide for… | Very Lazy Tech | [Read More](https://medium.com/p/811024838d27) |
