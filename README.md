@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 17:14:46 GMT | # How a Misconfigured API Endpoint Helped Me Earn a $$$ Bounty | R3DD | [Read More](https://medium.com/p/0a6d54c46c2d) |
+| Tue, 26 Aug 2025 17:12:39 GMT | Threat Campaign: CORNFLAKE.V3 Backdoor Spread via Fake CAPTCHA (ClickFix Technique) | Jon C | [Read More](https://medium.com/p/5c43ace5adf5) |
+| Tue, 26 Aug 2025 17:09:51 GMT | The Purdue Model for ICS Security | ThatOTSecurityGuy | [Read More](https://medium.com/p/a6932877e8df) |
+| Tue, 26 Aug 2025 17:09:35 GMT | Gobuster (reconn tool) | vulnhunter | [Read More](https://medium.com/p/0310a3d8fc04) |
+| Tue, 26 Aug 2025 17:09:11 GMT | Sharing my journey into cybersecurity. | Arcane Insights | [Read More](https://medium.com/p/1e498ccb24ee) |
+| Tue, 26 Aug 2025 17:00:54 GMT | Anonforce — TryHackMe Write-Up: From Anonymous FTP to Root Access | Abhinsubej | [Read More](https://medium.com/p/d75c8945f120) |
+| Tue, 26 Aug 2025 16:57:40 GMT | When Hyper-Independence Breaks What Matters Most | Words Between Worlds | [Read More](https://medium.com/p/398c017ceee0) |
+| Tue, 26 Aug 2025 16:54:06 GMT | How the World’s Greatest Hackers Were Caught by Human Error | Rithik V Gopal | [Read More](https://medium.com/p/6a7a11aa2391) |
 | Tue, 26 Aug 2025 16:47:00 GMT | Malware Removal in a Virtual Lab — Practicing the A+ Malware Workflow | Dec | [Read More](https://medium.com/p/64d4405056d0) |
+| Tue, 26 Aug 2025 16:42:54 GMT | The Security Bug That Hid in My System for 3 Years | DevLogics | [Read More](https://medium.com/p/fd0050e8c47a) |
 | Tue, 26 Aug 2025 16:41:20 GMT | How to Find WhatsApp Call IP - Beware of Scammers Part 2 | Mr. MOM | [Read More](https://medium.com/p/31690bf3beef) |
 | Tue, 26 Aug 2025 16:38:51 GMT | Operation Database Infiltration: Cracking the Digital Vault | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/141c62e02fc0) |
+| Tue, 26 Aug 2025 16:35:23 GMT | Encryption vs Compression: Shrinking vs Securing Your Data | Natarajan C K | [Read More](https://medium.com/p/8ed1b480bc5d) |
 | Tue, 26 Aug 2025 16:32:27 GMT | My First HackerOne Submission: Lessons from Reporting to Dropbox | Hemanth Mouli.ch | [Read More](https://medium.com/p/54a32abc6620) |
 | Tue, 26 Aug 2025 16:31:57 GMT | SQL Injection Made Simple  (Step-by-Step Hacker’s Guide) | Vipul Sonule | [Read More](https://medium.com/p/30deed0f1442) |
 | Tue, 26 Aug 2025 16:28:42 GMT | Computer Viruses : Hidden Enemies of the Digital World | amir Roshanzamir | [Read More](https://medium.com/p/eb246b769354) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 14:05:31 GMT | How Unlimited Backup Code Generation Can Break Account Security | Ahmadelkali | [Read More](https://medium.com/p/dc03d3ffbf87) |
 | Tue, 26 Aug 2025 14:03:28 GMT | Prompt injection is turning AI into double agents that hack your personal information | Nicolle Weeks | [Read More](https://medium.com/p/267b75683d13) |
 | Tue, 26 Aug 2025 14:02:38 GMT | Cyber Briefing: 2025.08.26 | CyberMaterial | [Read More](https://medium.com/p/419071faaffc) |
-| Tue, 26 Aug 2025 14:02:34 GMT | How a Managed IT Provider in Springfield, MO Helps Businesses Stay Ahead of Ransomware Attacks | PCnet | [Read More](https://medium.com/p/94604c9cbd25) |
-| Tue, 26 Aug 2025 14:02:32 GMT | BtcTurk, SuperRare, and WETC: $52M Lost to Access Control Failures | Olympix | [Read More](https://medium.com/p/b38d00cce593) |
-| Tue, 26 Aug 2025 14:01:04 GMT | Why I No Longer Call Myself Strong | Girish Dhamane | [Read More](https://medium.com/p/83e5cafa7514) |
-| Tue, 26 Aug 2025 14:00:29 GMT | Pen Test Failed? Why That’s Actually Good News. | Aj | [Read More](https://medium.com/p/194619f771e0) |
-| Tue, 26 Aug 2025 14:00:29 GMT | Suspicious USB Stick - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/0bc50721bce0) |
-| Tue, 26 Aug 2025 13:58:20 GMT | Browser Forensics — Cryptominer - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/45fe326ab4be) |
-| Tue, 26 Aug 2025 13:57:23 GMT | “Italian Brainrot”: When AI Memes Go Full Surreal | Fahad's Foresight | [Read More](https://medium.com/p/02922e7bce0c) |
-| Tue, 26 Aug 2025 13:57:21 GMT | AI Can Basically Make Movies Now. Here’s What You Need to Know. | Fahad's Foresight | [Read More](https://medium.com/p/3b30c84dfdd9) |
-| Tue, 26 Aug 2025 13:54:27 GMT | My Tech Journey | Titto@Stackobea | [Read More](https://medium.com/p/7f69854db6e6) |
-| Tue, 26 Aug 2025 13:53:57 GMT | AI’s Double-Edged Sword: When Defense Turns to Offense | Shahzaib | [Read More](https://medium.com/p/fd7a5f95670e) |
