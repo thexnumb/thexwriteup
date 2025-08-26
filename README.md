@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 21:31:38 GMT | Data as a Component of the Overall Platform | Apto Solutions | [Read More](https://medium.com/p/c1f1d156bafc) |
+| Tue, 26 Aug 2025 21:27:01 GMT | How I Built a Real-Time SIEM System with Django | Eka Onagbesan | [Read More](https://medium.com/p/3ac48eac7a0b) |
 | Tue, 26 Aug 2025 21:02:21 GMT | How Your Online Info Stays Safe (Without You Lifting a Finger) | FutureToolsExplained | [Read More](https://medium.com/p/a9c6faab5f11) |
 | Tue, 26 Aug 2025 21:00:41 GMT | CVE-2025–8088: WinRAR’s Zero-Day Path Traversal — From Zero to Pwn | Aditya Bhatt | [Read More](https://medium.com/p/441708ae6417) |
 | Tue, 26 Aug 2025 21:00:20 GMT | Projeto Prático: Configuração de Firewall Fortigate com VPN e Web Filtering (GreenByte Lab) | Rafaelspeda | [Read More](https://medium.com/p/af5020f0413a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 15:56:26 GMT | From Python Scripts to the Cloud: My Journey to Becoming a Cloud SDE | Naveen B | [Read More](https://medium.com/p/6c3da0d07823) |
 | Tue, 26 Aug 2025 15:55:16 GMT | Fireside Chat: How Healthcare and Biotech Teams Build Secure, Compliant AI Infrastructure | Sage Elliott | [Read More](https://medium.com/p/e45ca7176c1a) |
 | Tue, 26 Aug 2025 15:49:01 GMT | 2 XSS vulnerabilities: From Open Redirect to Reflected XSS and 100€ | BugHunter021 | [Read More](https://medium.com/p/c03c4ade3978) |
-| Tue, 26 Aug 2025 15:48:00 GMT | IDOR: Attack vectors, exploitation, bypasses and chains | BugHunter021 | [Read More](https://medium.com/p/1670d7ec8ba1) |
-| Tue, 26 Aug 2025 15:47:46 GMT | HackTheBox: Meow | Rahaliashraf | [Read More](https://medium.com/p/b5c1e4d9feeb) |
