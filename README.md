@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 16:47:00 GMT | Malware Removal in a Virtual Lab — Practicing the A+ Malware Workflow | Dec | [Read More](https://medium.com/p/64d4405056d0) |
+| Tue, 26 Aug 2025 16:41:20 GMT | How to Find WhatsApp Call IP - Beware of Scammers Part 2 | Mr. MOM | [Read More](https://medium.com/p/31690bf3beef) |
+| Tue, 26 Aug 2025 16:38:51 GMT | Operation Database Infiltration: Cracking the Digital Vault | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/141c62e02fc0) |
+| Tue, 26 Aug 2025 16:32:27 GMT | My First HackerOne Submission: Lessons from Reporting to Dropbox | Hemanth Mouli.ch | [Read More](https://medium.com/p/54a32abc6620) |
+| Tue, 26 Aug 2025 16:31:57 GMT | SQL Injection Made Simple  (Step-by-Step Hacker’s Guide) | Vipul Sonule | [Read More](https://medium.com/p/30deed0f1442) |
+| Tue, 26 Aug 2025 16:28:42 GMT | Computer Viruses : Hidden Enemies of the Digital World | amir Roshanzamir | [Read More](https://medium.com/p/eb246b769354) |
+| Tue, 26 Aug 2025 16:26:15 GMT | APT36 Targets Indian Government with Linux BOSS Malware via .desktop Files | Aaron | [Read More](https://medium.com/p/c89accdeb40d) |
+| Tue, 26 Aug 2025 16:21:56 GMT | DC-1 VulnHub Walkthrough: A Beginner’s Journey from Enumeration to Root | Abhinsubej | [Read More](https://medium.com/p/abd07a35b48f) |
+| Tue, 26 Aug 2025 16:19:54 GMT | HackTheBox: Fawn | Rahaliashraf | [Read More](https://medium.com/p/5b22d9ce4d02) |
 | Tue, 26 Aug 2025 16:18:10 GMT | ️ How I Earned a $600 Bug Bounty with Metasploit (Beginner-Friendly Case Study) | Carylrobert | [Read More](https://medium.com/p/04348d022941) |
+| Tue, 26 Aug 2025 16:17:32 GMT | The URL That Looks Safe But Isn’t – The Homoglyph Attack | Nitin yadav | [Read More](https://medium.com/p/c9ddc071e3ff) |
 | Tue, 26 Aug 2025 16:16:52 GMT | Protecting CI/CD Secrets with Vault and Automation | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e9be194c32c2) |
 | Tue, 26 Aug 2025 16:10:32 GMT | Disk Imaging Using FTK Imager | Aaditya Pokhrel | [Read More](https://medium.com/p/3c1923ca866b) |
 | Tue, 26 Aug 2025 16:09:19 GMT | The Day I Went Code-Blind — And What It Taught Me About OSINT | Sam Galope | [Read More](https://medium.com/p/e37f68880a8a) |
@@ -57,6 +67,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 14:52:28 GMT | JavaScript Deobfuscation Skills Assessment | Luke | [Read More](https://medium.com/p/8452a29f3c0a) |
 | Tue, 26 Aug 2025 14:51:59 GMT | The Case for OAuth | David Fagbuyiro | [Read More](https://medium.com/p/bf015601967d) |
 | Tue, 26 Aug 2025 14:51:41 GMT | Day 87: Security Principles II | Nile Okomo | [Read More](https://medium.com/p/11e9b2855681) |
+| Tue, 26 Aug 2025 14:51:14 GMT | Utilizando SSRF para explorar MySQL | Haizaki_00 | [Read More](https://medium.com/p/421570498b74) |
 | Tue, 26 Aug 2025 14:48:30 GMT | Security Modernization: Aligning Technology with Business Risk | Claritus Consulting | [Read More](https://medium.com/p/18532f99ead6) |
 | Tue, 26 Aug 2025 14:47:34 GMT | TA-NATALSTATUS: Rootkit-Style Cryptojacking Dominates Exposed Redis Servers Globally | Wes Young | [Read More](https://medium.com/p/511302059f08) |
 | Tue, 26 Aug 2025 14:47:14 GMT | Authentication vulnerabilities - Username Enumeration via Different Responses - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/4fcbc31639d1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 13:57:21 GMT | AI Can Basically Make Movies Now. Here’s What You Need to Know. | Fahad's Foresight | [Read More](https://medium.com/p/3b30c84dfdd9) |
 | Tue, 26 Aug 2025 13:54:27 GMT | My Tech Journey | Titto@Stackobea | [Read More](https://medium.com/p/7f69854db6e6) |
 | Tue, 26 Aug 2025 13:53:57 GMT | AI’s Double-Edged Sword: When Defense Turns to Offense | Shahzaib | [Read More](https://medium.com/p/fd7a5f95670e) |
-| Tue, 26 Aug 2025 13:53:44 GMT | Why Hire an In-House Security Officer When Outsourcing Could Be Smarter? | Stanislav TION | [Read More](https://medium.com/p/57d43d4b09ec) |
-| Tue, 26 Aug 2025 13:51:44 GMT | Breaking into Cybersecurity: The Roadmap, the Certifications, and the Career of Tomorrow | ED-360 AFRICA | [Read More](https://medium.com/p/8eece0558681) |
-| Tue, 26 Aug 2025 13:51:37 GMT | I Found a 2FA Bypass That Earned a $14,337 Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/89f746775e68) |
-| Tue, 26 Aug 2025 13:51:10 GMT | Bare-Metal ARM: Kernel with Infinite Loop | Hera | [Read More](https://medium.com/p/45309215842f) |
-| Tue, 26 Aug 2025 13:37:30 GMT | How We Penetrated Our Own Network (And You Should Too) | Aj | [Read More](https://medium.com/p/1e17b026e53d) |
-| Tue, 26 Aug 2025 13:34:29 GMT | Third Party Account Linking Account Takeover | phlmox | [Read More](https://medium.com/p/971062e0c737) |
-| Tue, 26 Aug 2025 13:33:54 GMT | ️ The Top 5 Blue Team Tools Every Defender Should Know | Ekene Joseph | [Read More](https://medium.com/p/2922d5a2f8ba) |
-| Tue, 26 Aug 2025 13:27:30 GMT | The Top 5 Red Team Tools Every Professional Should Know | John Cruise | [Read More](https://medium.com/p/1e6db2ba7896) |
-| Tue, 26 Aug 2025 13:25:35 GMT | How does Microsoft Sentinel leverage AI to enhance cybersecurity? | IT_Engineer | [Read More](https://medium.com/p/fdf42e1534c9) |
-| Tue, 26 Aug 2025 13:22:32 GMT | The Top 5 OSINT Tools Every Penetration Tester Should Know | John Cruise | [Read More](https://medium.com/p/9851f85c31f1) |
-| Tue, 26 Aug 2025 13:21:05 GMT | But how does torrenting actually work? | Anuj Choudhary | [Read More](https://medium.com/p/19c3b1a3a317) |
