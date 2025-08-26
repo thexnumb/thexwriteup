@@ -12,9 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 14:18:00 GMT | You should know love is not all sunshine and rainbows | bloom | [Read More](https://medium.com/p/23a30d59a972) |
+| Tue, 26 Aug 2025 14:14:14 GMT | I Became A Elite Hacker! | Mainekhacker | [Read More](https://medium.com/p/77b47a54ed48) |
+| Tue, 26 Aug 2025 14:12:15 GMT | Before You Build Another Security Dashboard, Read this. | Dmytro Afanasiev | [Read More](https://medium.com/p/88f8f6908291) |
+| Tue, 26 Aug 2025 14:09:32 GMT | The Fastest Way to Find a Bug in a Website (With Real Examples) | Mohammed Gabic | [Read More](https://medium.com/p/6afd5a83d5b3) |
+| Tue, 26 Aug 2025 14:08:33 GMT | Analyzing Incident Response with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/d574c46491a4) |
+| Tue, 26 Aug 2025 14:07:16 GMT | Analyzing Incident Response for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/8f1d719f606a) |
+| Tue, 26 Aug 2025 14:05:57 GMT | Analyzing Incident Response for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/fec06e55228a) |
+| Tue, 26 Aug 2025 14:05:31 GMT | How Unlimited Backup Code Generation Can Break Account Security | Ahmadelkali | [Read More](https://medium.com/p/dc03d3ffbf87) |
+| Tue, 26 Aug 2025 14:03:28 GMT | Prompt injection is turning AI into double agents that hack your personal information | Nicolle Weeks | [Read More](https://medium.com/p/267b75683d13) |
+| Tue, 26 Aug 2025 14:02:38 GMT | Cyber Briefing: 2025.08.26 | CyberMaterial | [Read More](https://medium.com/p/419071faaffc) |
+| Tue, 26 Aug 2025 14:02:34 GMT | How a Managed IT Provider in Springfield, MO Helps Businesses Stay Ahead of Ransomware Attacks | PCnet | [Read More](https://medium.com/p/94604c9cbd25) |
+| Tue, 26 Aug 2025 14:02:32 GMT | BtcTurk, SuperRare, and WETC: $52M Lost to Access Control Failures | Olympix | [Read More](https://medium.com/p/b38d00cce593) |
+| Tue, 26 Aug 2025 14:01:04 GMT | Why I No Longer Call Myself Strong | Girish Dhamane | [Read More](https://medium.com/p/83e5cafa7514) |
+| Tue, 26 Aug 2025 14:00:29 GMT | Pen Test Failed? Why That’s Actually Good News. | Aj | [Read More](https://medium.com/p/194619f771e0) |
+| Tue, 26 Aug 2025 14:00:29 GMT | Suspicious USB Stick - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/0bc50721bce0) |
+| Tue, 26 Aug 2025 13:58:20 GMT | Browser Forensics — Cryptominer - Blue Team Labs Online | Anas404 | [Read More](https://medium.com/p/45fe326ab4be) |
+| Tue, 26 Aug 2025 13:57:23 GMT | “Italian Brainrot”: When AI Memes Go Full Surreal | Fahad's Foresight | [Read More](https://medium.com/p/02922e7bce0c) |
+| Tue, 26 Aug 2025 13:57:21 GMT | AI Can Basically Make Movies Now. Here’s What You Need to Know. | Fahad's Foresight | [Read More](https://medium.com/p/3b30c84dfdd9) |
+| Tue, 26 Aug 2025 13:54:27 GMT | My Tech Journey | Titto@Stackobea | [Read More](https://medium.com/p/7f69854db6e6) |
+| Tue, 26 Aug 2025 13:53:57 GMT | AI’s Double-Edged Sword: When Defense Turns to Offense | Shahzaib | [Read More](https://medium.com/p/fd7a5f95670e) |
+| Tue, 26 Aug 2025 13:53:44 GMT | Why Hire an In-House Security Officer When Outsourcing Could Be Smarter? | Stanislav TION | [Read More](https://medium.com/p/57d43d4b09ec) |
+| Tue, 26 Aug 2025 13:51:44 GMT | Breaking into Cybersecurity: The Roadmap, the Certifications, and the Career of Tomorrow | ED-360 AFRICA | [Read More](https://medium.com/p/8eece0558681) |
+| Tue, 26 Aug 2025 13:51:37 GMT | I Found a 2FA Bypass That Earned a $14,337 Bounty | Ibtissam hammadi | [Read More](https://medium.com/p/89f746775e68) |
+| Tue, 26 Aug 2025 13:51:10 GMT | Bare-Metal ARM: Kernel with Infinite Loop | Hera | [Read More](https://medium.com/p/45309215842f) |
+| Tue, 26 Aug 2025 13:37:30 GMT | How We Penetrated Our Own Network (And You Should Too) | Aj | [Read More](https://medium.com/p/1e17b026e53d) |
+| Tue, 26 Aug 2025 13:34:29 GMT | Third Party Account Linking Account Takeover | phlmox | [Read More](https://medium.com/p/971062e0c737) |
+| Tue, 26 Aug 2025 13:33:54 GMT | ️ The Top 5 Blue Team Tools Every Defender Should Know | Ekene Joseph | [Read More](https://medium.com/p/2922d5a2f8ba) |
 | Tue, 26 Aug 2025 13:27:30 GMT | The Top 5 Red Team Tools Every Professional Should Know | John Cruise | [Read More](https://medium.com/p/1e6db2ba7896) |
 | Tue, 26 Aug 2025 13:25:35 GMT | How does Microsoft Sentinel leverage AI to enhance cybersecurity? | IT_Engineer | [Read More](https://medium.com/p/fdf42e1534c9) |
 | Tue, 26 Aug 2025 13:22:32 GMT | The Top 5 OSINT Tools Every Penetration Tester Should Know | John Cruise | [Read More](https://medium.com/p/9851f85c31f1) |
+| Tue, 26 Aug 2025 13:21:05 GMT | But how does torrenting actually work? | Anuj Choudhary | [Read More](https://medium.com/p/19c3b1a3a317) |
 | Tue, 26 Aug 2025 13:20:26 GMT | ElavaIT’s First Ethical Hacking & Digital Forensics Workshop at Nirmala College | ElavaIT Software Solutions LLP | [Read More](https://medium.com/p/9bdc02f9ad48) |
 | Tue, 26 Aug 2025 13:11:51 GMT | Algeria’s Broken Triangle: Why People, Process, and Technology Hold the Key to Competitiveness | Taher Amine, mMBA, CISSP-SME, CCISO, CMSA, ISOxx | [Read More](https://medium.com/p/3ff0b8c76c45) |
 | Tue, 26 Aug 2025 13:10:30 GMT | When Identity Becomes Data: Living in an Age of Authentication | Meenal Jha | [Read More](https://medium.com/p/86c6ce02500f) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 10:05:54 GMT | At Exlity, we believe great spaces deserve great care. | EXLITY | [Read More](https://medium.com/p/9553489a263f) |
 | Tue, 26 Aug 2025 10:03:19 GMT | Cyber Security Company in Dubai, UAE | Oadtechdubai | [Read More](https://medium.com/p/2f65edec94d2) |
 | Tue, 26 Aug 2025 09:56:29 GMT | ️ The Fog of August 19 | V1rtu3 _h05t | [Read More](https://medium.com/p/516e56e1766d) |
-| Tue, 26 Aug 2025 09:53:51 GMT | The Art of Breaking OAuth: Real-World Exploit and Misuses | Aenosh Rajora | [Read More](https://medium.com/p/cce9b7794f90) |
-| Tue, 26 Aug 2025 09:48:52 GMT | CVE-2025–9393: Stack-Based Buffer Overflow Plagues Linksys Range Extenders | CVEHUB | [Read More](https://medium.com/p/21ddf27f9921) |
-| Tue, 26 Aug 2025 09:46:30 GMT | Smart CCTV Camera Installation for Home and Office in Dhaka — Secure Your Property with… | optimationbd | [Read More](https://medium.com/p/e989bdce2ba2) |
-| Tue, 26 Aug 2025 09:43:07 GMT | Cara Mudah Install SafeLine WAF di Ubuntu Server | Maverick Steel | [Read More](https://medium.com/p/8bb60174841c) |
-| Tue, 26 Aug 2025 09:42:40 GMT | How Small Businesses Can Implement Enterprise-Grade Security | Password Manager | [Read More](https://medium.com/p/e296b7ad40ff) |
-| Tue, 26 Aug 2025 09:40:39 GMT | Data Privacy and Security Challenges in Using LLMs for Business | Gurpreet Sachdeva | [Read More](https://medium.com/p/4a2945009847) |
-| Tue, 26 Aug 2025 09:38:20 GMT | Why Your Business Needs VAPT Services in India to Stay Secure | StrongBox IT | [Read More](https://medium.com/p/fd1dca8fade5) |
-| Tue, 26 Aug 2025 09:36:20 GMT | Pakistan Shocks Bangladesh!! No, Sorry for 1971 War Crime | Everclear | [Read More](https://medium.com/p/84b340e52439) |
-| Tue, 26 Aug 2025 09:35:37 GMT | Integrating Falcon LogScale with Managed SIEM for Maximum Security Performance | Vijilan | [Read More](https://medium.com/p/7aab513c5bf2) |
-| Tue, 26 Aug 2025 09:27:02 GMT | Stored XSS Leading to Full Account Takeover (The Art of Content-Type) | Pany Parsariyahi | [Read More](https://medium.com/p/c61793c6fa1f) |
-| Tue, 26 Aug 2025 09:26:20 GMT | Enhancing Mobile App Security through AI: A Paradigm Shift | Evangelist Apps | [Read More](https://medium.com/p/bb46d7c17134) |
-| Tue, 26 Aug 2025 09:25:43 GMT | Ishaq Dar Confronts US Lies: Trump Never Mediated India-Pakistan Ceasefire | Everclear | [Read More](https://medium.com/p/f6cdb85de1cc) |
-| Tue, 26 Aug 2025 09:24:06 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/a7b91858b2f0) |
-| Tue, 26 Aug 2025 09:20:45 GMT | Tracking people’s internet usage through your terminal | Haitham Aljabbari | [Read More](https://medium.com/p/7a1dd78743ad) |
-| Tue, 26 Aug 2025 09:20:05 GMT | Data Center Migration: Your Complete Guide | Oneworld logix | [Read More](https://medium.com/p/dcd9bdf65cbc) |
-| Tue, 26 Aug 2025 09:16:13 GMT | The Hidden Cost of Doing Nothing: Why Ignoring System Library Updates Can Haunt You | Renato Zanutto Cleps | [Read More](https://medium.com/p/5385b8d2b333) |
-| Tue, 26 Aug 2025 09:15:02 GMT | Scaling Security with SOAR: Practical Insights for Modern Enterprises | Vishvadini Ravihari | [Read More](https://medium.com/p/ff68b7502c7e) |
-| Tue, 26 Aug 2025 09:14:47 GMT | S. Jaishankar’s Stern Warning to the West | Everclear | [Read More](https://medium.com/p/74620229c640) |
-| Tue, 26 Aug 2025 09:13:20 GMT | OpenAI’s India Office Isn’t About Users — It’s About Power | Abhinav Jain | [Read More](https://medium.com/p/3422462993e3) |
-| Tue, 26 Aug 2025 09:08:53 GMT | Why is my Gmail still full of spam in the Age of AI? | Nicola Di Marco | [Read More](https://medium.com/p/bf20e99b355c) |
-| Tue, 26 Aug 2025 09:08:48 GMT | Global Tech Spending Slows as Tariffs Hit Budgets — What’s Next for IT in 2025? | Clientctrl | [Read More](https://medium.com/p/48f426951f4a) |
-| Tue, 26 Aug 2025 09:05:39 GMT | Why Every Digital Security Professional Should Learn Python | Nagaraj | [Read More](https://medium.com/p/4a0e3f6cb361) |
-| Tue, 26 Aug 2025 09:05:00 GMT | 12 Free Network Security Tools Better Than Costly Software | SecureSlate | [Read More](https://medium.com/p/7be2f5bc2ba9) |
-| Tue, 26 Aug 2025 08:55:11 GMT | VRChat Crashers guns | LAINVOID | [Read More](https://medium.com/p/13a0662c843f) |
-| Tue, 26 Aug 2025 08:45:11 GMT | Notting Hill Carnival: Patrick Christy's Reacts as 423 Arrests Confirmed and Stabbings Expose… | Everclear | [Read More](https://medium.com/p/66c6c5d47b4e) |
-| Tue, 26 Aug 2025 08:42:05 GMT | Starting Your Start-Up? Secure Its Data With Penetration testing | Redfox Security | [Read More](https://medium.com/p/979c4cbd144d) |
-| Tue, 26 Aug 2025 08:40:13 GMT | Why AI is the Future of Cybersecurity? | Evelyn | [Read More](https://medium.com/p/18860729b59a) |
-| Tue, 26 Aug 2025 08:38:26 GMT | Unleashing the Hound: How AI Agents Find Deep Logic Bugs in Any Codebase | Bernhard Mueller | [Read More](https://medium.com/p/64c2110e3a6f) |
