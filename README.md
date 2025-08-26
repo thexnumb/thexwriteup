@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 01:41:10 GMT | A Machine Can't Match Your Intelligence With Its Limited Double Standards | Kamal 65 | [Read More](https://medium.com/p/5749b0a0ef8d) |
+| Tue, 26 Aug 2025 01:36:31 GMT | TryHackMe Walkthrough: VulnNet Node | Indigo Shadow | [Read More](https://medium.com/p/16388088c9ce) |
+| Tue, 26 Aug 2025 01:33:06 GMT | What is XDR, Microsoft Defender for XDR, How it is used in simple terms | Devaaravindlutukurty | [Read More](https://medium.com/p/cd1dbe7e2d8d) |
+| Tue, 26 Aug 2025 01:28:40 GMT | Understanding XDR and Its Role in Modern Security Operations | Devaaravindlutukurty | [Read More](https://medium.com/p/8f2f362e67a2) |
+| Tue, 26 Aug 2025 01:17:37 GMT | Breaking Containers: Deep Dive into CVE-2025–9074 — Critical Docker Desktop Escape on Windows &… | Hafiz Shamnad | [Read More](https://medium.com/p/2965d7a4824f) |
+| Tue, 26 Aug 2025 01:11:22 GMT | Making an Informed Career Decision: My Approach | Poorvi Arora | [Read More](https://medium.com/p/98eadf88537a) |
+| Tue, 26 Aug 2025 01:09:23 GMT | Microsoft Partner Leak: Leaking Microsoft Employee PII and 700M+ Partner Records | Faav | [Read More](https://medium.com/p/38c9c5ea4fad) |
+| Tue, 26 Aug 2025 01:04:34 GMT | Hacking the Kobo Libra 2 | miso | [Read More](https://medium.com/p/643edc81e42d) |
+| Tue, 26 Aug 2025 00:55:32 GMT | What is “Vibe Coding”? A Guide to the New AI-First Programming Style | Fahad's Foresight | [Read More](https://medium.com/p/4d0029dc7d3e) |
+| Tue, 26 Aug 2025 00:45:42 GMT | Tuesday Morning Threat Report: Aug 26, 2025 | Mark Maguire | [Read More](https://medium.com/p/13a3d89752f0) |
+| Tue, 26 Aug 2025 00:31:32 GMT | How to Implement Spring Security in a Spring Boot Project : Step-by-Step Guide | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/38b28e772112) |
+| Tue, 26 Aug 2025 00:26:38 GMT | Self-Hosting n8n for Secure Enterprise Automation. | Cabreltchoffo | [Read More](https://medium.com/p/c5ab8e35f426) |
+| Tue, 26 Aug 2025 00:21:44 GMT | Security Without Traffic Lights: Why Agentic AI Needs Runtime Enforcement | Jaz Lin | [Read More](https://medium.com/p/f46d27a0138a) |
+| Tue, 26 Aug 2025 00:11:47 GMT | Positive and Negative Reviews-Offsec | NyaMeeEain | [Read More](https://medium.com/p/4fded8a0ef10) |
+| Tue, 26 Aug 2025 00:02:25 GMT | Secure and Verifiable at Full Speed: ExeQuantum’s Hardened and Verified ML-DSA Implementations | ExeQuantum | [Read More](https://medium.com/p/a26ee99898aa) |
+| Mon, 25 Aug 2025 23:59:28 GMT | My Top 3 Cybersecurity Tools (And Why I Use Them) | Paschal Ogana | [Read More](https://medium.com/p/ec81f23abbe2) |
+| Mon, 25 Aug 2025 23:55:58 GMT | CTI Diaries #6: Intelligence Gaps and Detection Coverage | Deniz Topaloglu | [Read More](https://medium.com/p/8f1e6c3a94c4) |
 | Mon, 25 Aug 2025 23:29:16 GMT | SOC 2 Type II — Preparation Journey | Marcus Assis | [Read More](https://medium.com/p/5966e1afbd9c) |
 | Mon, 25 Aug 2025 23:22:33 GMT | How I Reverse-Engineered a Promo Code Algorithm, Verified It, and Discovered a System Vulnerability | John Obiba Boadu | [Read More](https://medium.com/p/52c48a3ef67e) |
 | Mon, 25 Aug 2025 23:20:00 GMT | The Shocking Truth: Your Pentest Report Is Already Outdated When You Get It | Cyber-AppSec | [Read More](https://medium.com/p/c5a315c46b84) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 17:05:49 GMT | From Stone Tools to Digital Transformation: The Role of Management Information Systems | İclal Aca | [Read More](https://medium.com/p/3e34840faa34) |
 | Mon, 25 Aug 2025 17:05:35 GMT | Warning: Python Developers Are Being Targeted by Sophisticated PyPI Phishing Attacks | Er.Muruganantham | [Read More](https://medium.com/p/4be39c80bbf8) |
 | Mon, 25 Aug 2025 17:01:34 GMT | HTTP-Header XSS : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/454f353ec4f1) |
-| Mon, 25 Aug 2025 16:59:57 GMT | [Book Review] All That We See Or Seem (JuliaZ 1) — Ken Liu | Saif Shaikh, Ph.D. - Distorted Visions | [Read More](https://medium.com/p/5cd47cdd238e) |
-| Mon, 25 Aug 2025 16:59:17 GMT | W5HC Framework™: Asking Smarter Questions in Cybersecurity & Technical Support | Biswajitsatapathy | [Read More](https://medium.com/p/e0e7e4a2b4d6) |
-| Mon, 25 Aug 2025 16:46:05 GMT | Snowflake’s Security Wake-Up Call: How Basic Misconfigurations Enabled the Biggest Breach of 2024 | Josh Welch | [Read More](https://medium.com/p/31f509fc5fd4) |
-| Mon, 25 Aug 2025 16:44:30 GMT | Locking Down Secrets: Secure Your Android API Keys with AES-GCM & Keystore | Mahmoud Ramadan | [Read More](https://medium.com/p/d6ea04e72c0b) |
-| Mon, 25 Aug 2025 16:43:36 GMT | Advanced Threat Detection Using DNS Analytics | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9df807bd9c45) |
-| Mon, 25 Aug 2025 16:42:43 GMT | How AI Is Reshaping Cybersecurity in the Enterprise: Lessons from the Front Lines | Maximilian Oliver | [Read More](https://medium.com/p/2e589cf04c7c) |
-| Mon, 25 Aug 2025 16:42:35 GMT | Day 42- Understanding the definition of risk for beginners | unica 02 | [Read More](https://medium.com/p/e3c4570769fa) |
-| Mon, 25 Aug 2025 16:42:13 GMT | I Am Code | Life Thru My Eyes | [Read More](https://medium.com/p/3bdbd86a3a61) |
-| Mon, 25 Aug 2025 16:38:10 GMT | Segurança de Software | Gabi Deutner | [Read More](https://medium.com/p/f35f4a6c8a8c) |
-| Mon, 25 Aug 2025 16:38:00 GMT | IBM App Connect Enterprise (ACE) vs IBM DataPower Gateway | Srikanthkonduru | [Read More](https://medium.com/p/25cdc3d25f7b) |
-| Mon, 25 Aug 2025 16:35:50 GMT | The Truth About Corporate Espionage — A Millennial’s Perspective | Zayne Harbison | [Read More](https://medium.com/p/b8963ee30247) |
-| Mon, 25 Aug 2025 16:33:56 GMT | Misstep VulNyx — Official Writeup | TirexV2 | [Read More](https://medium.com/p/4fda5c2233ad) |
-| Mon, 25 Aug 2025 16:28:44 GMT | Understanding ISO 27001 and ISO 27002: A Human-Centered Guide to Information Security Management | Genrunic | [Read More](https://medium.com/p/ae8f6b45af46) |
-| Mon, 25 Aug 2025 16:24:19 GMT | Software Engineer @Palo Alto Networks - Interview Experience | Kumar | [Read More](https://medium.com/p/ab579a22694e) |
-| Mon, 25 Aug 2025 16:20:08 GMT | TryHackMe — Pickle Rick Walkthrough | Vikash Yadav | [Read More](https://medium.com/p/78d35b15a18a) |
-| Mon, 25 Aug 2025 16:19:41 GMT | Flagtionary — Web | Mostafa Abd-Elbaky | [Read More](https://medium.com/p/bd3da8aedad1) |
-| Mon, 25 Aug 2025 16:19:32 GMT | Kimsuky APT Data Leak — Certificados GPKI, Rootkits e Cobalt Strike Personal Uncovered | th3zekry | [Read More](https://medium.com/p/f732154d79ef) |
