@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 11:15:54 GMT | Home Lab: A Web Application Firewall | Bennet Sharwin | [Read More](https://medium.com/p/8a2fd5726431) |
+| Tue, 26 Aug 2025 11:14:33 GMT | IDOR in React.js: Insecure Direct Object Reference Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/15d05400debd) |
+| Tue, 26 Aug 2025 11:13:45 GMT | TryHackMe Challenge — Surfer | Aniket Pattanshetti | [Read More](https://medium.com/p/1dd6fae5823b) |
+| Tue, 26 Aug 2025 11:12:12 GMT | SANS Incident Response Framework | Mahantesh Katapur | [Read More](https://medium.com/p/28cdf446ef82) |
+| Tue, 26 Aug 2025 11:05:52 GMT | Demystifying Regex: The Superpower Hiding in Plain Text | Aqsa Rasheed | [Read More](https://medium.com/p/7016fd4023fe) |
+| Tue, 26 Aug 2025 11:04:15 GMT | Deconstructing IcedID: A Hands-On Walkthrough of a Modern Malware Attack | Sohan Kanna D | [Read More](https://medium.com/p/5f40fec4e222) |
+| Tue, 26 Aug 2025 11:01:39 GMT | Budgeting for a PQC Future | Left4Zed | [Read More](https://medium.com/p/3891a0fbee27) |
+| Tue, 26 Aug 2025 10:59:32 GMT | Docker Fixes CVE-2025–9074: Critical Container Escape Vulnerability (CVSS 9.3) | IamPreth | [Read More](https://medium.com/p/885bd99feb95) |
+| Tue, 26 Aug 2025 10:55:08 GMT | Evolution of Technology | Ruqaiyya Shaik | [Read More](https://medium.com/p/b2d2826c0355) |
+| Tue, 26 Aug 2025 10:46:58 GMT | What Is Microsoft Fabric? A Comprehensive Guide to Features & Benefits - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/c9f22dbf7862) |
+| Tue, 26 Aug 2025 10:46:35 GMT | Windows 11 24H2 Disrupts the “Self-Delete” Malware Trick — and Researchers Strike Back | Yua Mikanana | [Read More](https://medium.com/p/3a6452c40dbd) |
+| Tue, 26 Aug 2025 10:43:05 GMT | CloudSEK CTF Challenge 2025 | Jatin Kumar H | [Read More](https://medium.com/p/be198a29e2c9) |
+| Tue, 26 Aug 2025 10:38:59 GMT | Zero-Day Hunting Meets AI: Predicting Threats Before They Strike | HawkShield | [Read More](https://medium.com/p/f4028d80f8f2) |
 | Tue, 26 Aug 2025 10:30:37 GMT | MITRE ATT&CK Framework: SOC Analitikləri üçün Rəhbər | Zulaya Mahmudova | [Read More](https://medium.com/p/a365cedfaee3) |
 | Tue, 26 Aug 2025 10:23:31 GMT | Top 10 VAPT Companies In India - Vulnerability Assessment Services In India | Gowthammathiew | [Read More](https://medium.com/p/ed809068de11) |
 | Tue, 26 Aug 2025 10:19:35 GMT | CVEing is Believing | Giant Swarm | [Read More](https://medium.com/p/958b11c5f434) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 05:55:04 GMT | Inside the Mind of a Hacker: How They Really Pick Targets | Aj | [Read More](https://medium.com/p/1ad0e704240e) |
 | Tue, 26 Aug 2025 05:49:46 GMT | Analyzing Incident Response for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/9b1e8d926441) |
 | Tue, 26 Aug 2025 05:49:38 GMT | The End of Passwords: How Silent Authentication and Biometrics Are Redefining UX Security | mehmet celik | [Read More](https://medium.com/p/9a57cd68c665) |
-| Tue, 26 Aug 2025 05:48:01 GMT | Analyzing Incident Response for Beginners | Cyber Security Research | [Read More](https://medium.com/p/1eeb5d2d4f81) |
-| Tue, 26 Aug 2025 05:46:15 GMT | Analyzing Incident Response and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/9e8592de6d35) |
-| Tue, 26 Aug 2025 05:40:45 GMT | Analyzing Incident Response and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/4b83ab529900) |
-| Tue, 26 Aug 2025 05:38:51 GMT | Wazuh Custom Dashboard & Attack Statistics | Ismail Hakim | [Read More](https://medium.com/p/a94528bf2e23) |
-| Tue, 26 Aug 2025 05:36:25 GMT | #Another Bug Bounty Win: Responsible Disclosure of Potential Template Injection Got me 250$ | Lakshya | [Read More](https://medium.com/p/a1d7be3cc781) |
-| Tue, 26 Aug 2025 05:35:34 GMT | 8 Types of Cyber Attacks You Must Know (With Real-Life Stories) | InfraOps DeMystified | [Read More](https://medium.com/p/dc0c4dde38ab) |
-| Tue, 26 Aug 2025 05:27:11 GMT | Back to School & Cybersecurity: 10 Steps Every Parent Can Actually Do | Cyberguardmom | [Read More](https://medium.com/p/396ce31e3982) |
-| Tue, 26 Aug 2025 05:26:31 GMT | Still Hesitate to Adopt Flutter? | Chirag Prajapati | [Read More](https://medium.com/p/0863256635cb) |
-| Tue, 26 Aug 2025 05:25:55 GMT | Portswigger Web Security Academy - SSRF Lab #1 | BooRuleDie | [Read More](https://medium.com/p/b25ed61ccc1a) |
-| Tue, 26 Aug 2025 05:21:58 GMT | How Hackers Exploit Weak Passwords and How to Prevent It | Hackers King | [Read More](https://medium.com/p/6c062dfa96ad) |
-| Tue, 26 Aug 2025 05:11:20 GMT | Quantum Computing: Why Cybersecurity Needs to Prepare Now | Hari kishore | [Read More](https://medium.com/p/56ea90bc7d16) |
-| Tue, 26 Aug 2025 05:01:40 GMT | ELF Files Unmasked — A Practical Guide | Elmin Farzaliyev | [Read More](https://medium.com/p/15b9036b9a01) |
-| Tue, 26 Aug 2025 05:01:36 GMT | When Ads Lie: How I Found a Click Fraud Weakness in a Major E-Commerce Site | Devansh Patel | [Read More](https://medium.com/p/4e8c26e16780) |
