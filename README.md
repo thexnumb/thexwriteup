@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 02:59:55 GMT | Why Your ORM Might Be Slowing Everything Down | Rizqi Mulki | [Read More](https://medium.com/p/879298944bb4) |
+| Tue, 26 Aug 2025 02:48:30 GMT | Is the PT1 by TryHackMe worth taking? | Hussein Ashour | [Read More](https://medium.com/p/d00c01c803ce) |
+| Tue, 26 Aug 2025 02:31:37 GMT | Why Your Business Needs a Bespoke Software Development Company in 2025 | Ambala IT | [Read More](https://medium.com/p/e6635aa00d76) |
+| Tue, 26 Aug 2025 02:28:25 GMT | Phishing Attacks 2025: Why We Still Fall for Them | Vishal S | [Read More](https://medium.com/p/22de900f56c8) |
+| Tue, 26 Aug 2025 02:27:31 GMT | The Thousand Dollar Bug | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/07955ff2ba57) |
+| Tue, 26 Aug 2025 02:19:40 GMT | How Proxy IPs Enhance Online Privacy and Access | Cassandra | [Read More](https://medium.com/p/4360a793767e) |
+| Tue, 26 Aug 2025 02:19:32 GMT | Emerging Cyber Threats in the Digital Age: What We Need to Know | Alwinjaison | [Read More](https://medium.com/p/6c95a302078a) |
+| Tue, 26 Aug 2025 02:17:35 GMT | The Core Philosophy of Zero-Trust Security | Alan Joseph Abraham | [Read More](https://medium.com/p/4495dfdfce8d) |
+| Tue, 26 Aug 2025 02:10:11 GMT | Why Nigeria Could Solve the World’s $10 Trillion Cybercrime Crisis | Mgbakor Uche | [Read More](https://medium.com/p/42dcd47b885b) |
+| Tue, 26 Aug 2025 02:07:49 GMT | The Importance of Cybersecurity in Healthcare | Pynesec | [Read More](https://medium.com/p/aad5b3b0a669) |
+| Tue, 26 Aug 2025 01:57:13 GMT | Sports, School, and Security: How I Balance Hacking with Homework | ZeakPeak | [Read More](https://medium.com/p/996a78802b39) |
+| Tue, 26 Aug 2025 01:48:52 GMT | NanoVMs Unikernel: Revolutionizing Application Deployment with Ultimate Security and Performance | ThamizhElango Natarajan | [Read More](https://medium.com/p/bd21124a6f5c) |
 | Tue, 26 Aug 2025 01:41:10 GMT | A Machine Can't Match Your Intelligence With Its Limited Double Standards | Kamal 65 | [Read More](https://medium.com/p/5749b0a0ef8d) |
 | Tue, 26 Aug 2025 01:36:31 GMT | TryHackMe Walkthrough: VulnNet Node | Indigo Shadow | [Read More](https://medium.com/p/16388088c9ce) |
 | Tue, 26 Aug 2025 01:33:06 GMT | What is XDR, Microsoft Defender for XDR, How it is used in simple terms | Devaaravindlutukurty | [Read More](https://medium.com/p/cd1dbe7e2d8d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 17:50:08 GMT | Day 9/100 — One Bad Moment | Ankita Singh | [Read More](https://medium.com/p/57589550182e) |
 | Mon, 25 Aug 2025 17:49:06 GMT | Phishing campaign exploits google classroom at scale | Yaniv | [Read More](https://medium.com/p/e736a521887e) |
 | Mon, 25 Aug 2025 17:43:28 GMT | Why CCTV, Alarms, and Access Control Are a Must in 2025 | Debrazz Security Systems | [Read More](https://medium.com/p/6cd03c9b937c) |
-| Mon, 25 Aug 2025 17:28:24 GMT | Can You Trust What You See? Deepfake Scams Are Exploding in 2025 | Paritosh | [Read More](https://medium.com/p/9eb1c7062468) |
-| Mon, 25 Aug 2025 17:27:33 GMT | Undocumented AWS APIs & Botocore Models | Ada N | [Read More](https://medium.com/p/31260087a2ed) |
-| Mon, 25 Aug 2025 17:22:44 GMT | Fuzzy Hashing | Samet Koca | [Read More](https://medium.com/p/d7a033f8757e) |
-| Mon, 25 Aug 2025 17:22:17 GMT | Million Dots Dos — Worth $7,640 — Unauthenticated GraphQL Endpoint — Gitlab | Justas_b | [Read More](https://medium.com/p/8f4fbb01c782) |
-| Mon, 25 Aug 2025 17:20:39 GMT | ChatGPT and User Privacy: 10 FactsYou Need to Know About Data Policy and Security | Bambino Guapo | [Read More](https://medium.com/p/cc4794afe61a) |
-| Mon, 25 Aug 2025 17:18:04 GMT | Segurança de Perímetro em DevSecOps | Gabi Deutner | [Read More](https://medium.com/p/b6fce64ead9f) |
-| Mon, 25 Aug 2025 17:13:12 GMT | Device Certificate Management in Large-Scale IoT: Part 1 — Key Generation | Markand Pathak | [Read More](https://medium.com/p/3c0b1adcbba7) |
-| Mon, 25 Aug 2025 17:10:10 GMT | Launching Soon: Ethical Hacking & Bug Bounty Course on Udemy! | Mukilan Baskaran | [Read More](https://medium.com/p/3c9b444e9cc4) |
-| Mon, 25 Aug 2025 17:09:58 GMT | When cyberattacks hit healthcare, the consequences are not just financial — they are… | Dr. Shashi Karhail | [Read More](https://medium.com/p/f305423173da) |
-| Mon, 25 Aug 2025 17:05:49 GMT | From Stone Tools to Digital Transformation: The Role of Management Information Systems | İclal Aca | [Read More](https://medium.com/p/3e34840faa34) |
-| Mon, 25 Aug 2025 17:05:35 GMT | Warning: Python Developers Are Being Targeted by Sophisticated PyPI Phishing Attacks | Er.Muruganantham | [Read More](https://medium.com/p/4be39c80bbf8) |
-| Mon, 25 Aug 2025 17:01:34 GMT | HTTP-Header XSS : Owasp Juice Shop | 4th3n4x | [Read More](https://medium.com/p/454f353ec4f1) |
