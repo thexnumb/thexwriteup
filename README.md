@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 21:02:21 GMT | How Your Online Info Stays Safe (Without You Lifting a Finger) | FutureToolsExplained | [Read More](https://medium.com/p/a9c6faab5f11) |
+| Tue, 26 Aug 2025 21:00:41 GMT | CVE-2025–8088: WinRAR’s Zero-Day Path Traversal — From Zero to Pwn | Aditya Bhatt | [Read More](https://medium.com/p/441708ae6417) |
+| Tue, 26 Aug 2025 21:00:20 GMT | Projeto Prático: Configuração de Firewall Fortigate com VPN e Web Filtering (GreenByte Lab) | Rafaelspeda | [Read More](https://medium.com/p/af5020f0413a) |
+| Tue, 26 Aug 2025 20:58:13 GMT | ZeroFont Attacks: The Invisible Cyber Trick You Need to Know | Akshay Chauhan | [Read More](https://medium.com/p/b76619231cc8) |
+| Tue, 26 Aug 2025 20:53:05 GMT | API6:2023 — Unrestricted Access to Sensitive Business Flows | Apifort | [Read More](https://medium.com/p/94c56ef85d12) |
+| Tue, 26 Aug 2025 20:49:50 GMT | I’m glad to share that I have successfully completed the main technical track of the Cybersecurity… | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/c4d173f8a9d9) |
+| Tue, 26 Aug 2025 20:46:01 GMT | Offensive Security Intro | Anthony Mazyck | [Read More](https://medium.com/p/511739d1aae2) |
+| Tue, 26 Aug 2025 20:35:35 GMT | MCP Horror Stories: The Security Issues Threatening AI Infrastructure | Algorythmos AI | [Read More](https://medium.com/p/f4518d6eec2c) |
+| Tue, 26 Aug 2025 20:35:09 GMT | Cybercriminals Are Getting Smarter and What Your Business Needs to Do | e-Xplorations | [Read More](https://medium.com/p/d790e0712843) |
 | Tue, 26 Aug 2025 20:23:50 GMT | One Quote, Ten Seconds: How I Found SQL Injection in AVMS | Shivam Sharma | [Read More](https://medium.com/p/3d16be9cbe72) |
 | Tue, 26 Aug 2025 20:21:34 GMT | How I Built a Formal Verification System to Prevent DeFi Exploits | Kwame Bryan | [Read More](https://medium.com/p/5317a13239f4) |
 | Tue, 26 Aug 2025 20:18:54 GMT | A Closer Look at Xray The Web Security Scanner You Need to Know | Muhammad Adnan Apriliyansyah | [Read More](https://medium.com/p/27953af6ab36) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 15:49:01 GMT | 2 XSS vulnerabilities: From Open Redirect to Reflected XSS and 100€ | BugHunter021 | [Read More](https://medium.com/p/c03c4ade3978) |
 | Tue, 26 Aug 2025 15:48:00 GMT | IDOR: Attack vectors, exploitation, bypasses and chains | BugHunter021 | [Read More](https://medium.com/p/1670d7ec8ba1) |
 | Tue, 26 Aug 2025 15:47:46 GMT | HackTheBox: Meow | Rahaliashraf | [Read More](https://medium.com/p/b5c1e4d9feeb) |
-| Tue, 26 Aug 2025 15:43:48 GMT | Stored XSS in Scada-LTS Reports Module (Colour Field) | 0x5ea3o1f | [Read More](https://medium.com/p/4d7e6633d298) |
-| Tue, 26 Aug 2025 15:43:39 GMT | This AI Tool Will Change How You Hack in Kali Linux | sudo-hope0529 | [Read More](https://medium.com/p/018b7248cd16) |
-| Tue, 26 Aug 2025 15:41:03 GMT | API Security — The Hidden Goldmine for Bug Bounty Hunters in 2025 | DJH4CK3R | [Read More](https://medium.com/p/6a9854d23b98) |
-| Tue, 26 Aug 2025 15:37:57 GMT | 7 Cybersecurity Projects That Can Earn $5,000/Month | Carylrobert | [Read More](https://medium.com/p/ae184e438f1f) |
-| Tue, 26 Aug 2025 15:37:49 GMT | Swagger / OpenAPI / EndPoint Hunt Checklist | BugHunter021 | [Read More](https://medium.com/p/7cfb3002a056) |
-| Tue, 26 Aug 2025 15:35:12 GMT | The AI-Powered Hacker — How Artificial Intelligence is Changing Cybersecurity Forever | DJH4CK3R | [Read More](https://medium.com/p/e5a51f3e585b) |
-| Tue, 26 Aug 2025 15:34:19 GMT | The Git Command That Saved My Code at 3 AM | The Dev Notebook | [Read More](https://medium.com/p/a2345be687bd) |
-| Tue, 26 Aug 2025 15:33:15 GMT | Here’s how deepfake vishing attacks work, and why they can be hard to detect | Welsh | [Read More](https://medium.com/p/28e6997f1db3) |
-| Tue, 26 Aug 2025 15:32:30 GMT | “Day 20: The Chain Reaction — From a Tiny IDOR to a Supply Chain Nightmare” | Aman Sharma | [Read More](https://medium.com/p/7add2d72335a) |
