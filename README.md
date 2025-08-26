@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 23:36:25 GMT | Curtain of Fantasy. | Monica garcia | [Read More](https://medium.com/p/c7b3e1c4ac35) |
+| Tue, 26 Aug 2025 23:33:59 GMT | picoCTF#1: DISKO 1 | Rxuzuu | [Read More](https://medium.com/p/88f391eecc44) |
 | Tue, 26 Aug 2025 23:10:30 GMT | It’s in the Name: Linux Malware Delivered via Filenames | Ashley Dai | [Read More](https://medium.com/p/29a428b0508c) |
 | Tue, 26 Aug 2025 23:09:44 GMT | Finishing the CPTS Path! | Josh Colpean | [Read More](https://medium.com/p/ed0a88c9f8bb) |
 | Tue, 26 Aug 2025 23:03:07 GMT | Bots and Fake Resumes: The Hidden Risks Sabotaging HR’s Cost-Saving Initiative | Kevin Kelly | [Read More](https://medium.com/p/2cbe9c8b995a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 16:42:54 GMT | The Security Bug That Hid in My System for 3 Years | DevLogics | [Read More](https://medium.com/p/fd0050e8c47a) |
 | Tue, 26 Aug 2025 16:41:20 GMT | How to Find WhatsApp Call IP - Beware of Scammers Part 2 | Mr. MOM | [Read More](https://medium.com/p/31690bf3beef) |
 | Tue, 26 Aug 2025 16:38:51 GMT | Operation Database Infiltration: Cracking the Digital Vault | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/141c62e02fc0) |
-| Tue, 26 Aug 2025 16:35:23 GMT | Encryption vs Compression: Shrinking vs Securing Your Data | Natarajan C K | [Read More](https://medium.com/p/8ed1b480bc5d) |
-| Tue, 26 Aug 2025 16:32:27 GMT | My First HackerOne Submission: Lessons from Reporting to Dropbox | Hemanth Mouli.ch | [Read More](https://medium.com/p/54a32abc6620) |
