@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 23:10:30 GMT | It’s in the Name: Linux Malware Delivered via Filenames | Ashley Dai | [Read More](https://medium.com/p/29a428b0508c) |
+| Tue, 26 Aug 2025 23:09:44 GMT | Finishing the CPTS Path! | Josh Colpean | [Read More](https://medium.com/p/ed0a88c9f8bb) |
+| Tue, 26 Aug 2025 23:03:07 GMT | Bots and Fake Resumes: The Hidden Risks Sabotaging HR’s Cost-Saving Initiative | Kevin Kelly | [Read More](https://medium.com/p/2cbe9c8b995a) |
+| Tue, 26 Aug 2025 22:54:52 GMT | Getting started Anomali ThreatStream MCP | Hisashi Yamaguchi | [Read More](https://medium.com/p/9a028f1c27e7) |
+| Tue, 26 Aug 2025 22:51:44 GMT | Bridging Islamic Concepts and Information Technology | Adnan Özdemir | [Read More](https://medium.com/p/46e3e1e8f0d5) |
+| Tue, 26 Aug 2025 22:47:37 GMT | Ethical Hacker — Discover Your Path to Career Success | Franklin Rhodes | [Read More](https://medium.com/p/e840f5bc311c) |
 | Tue, 26 Aug 2025 22:28:12 GMT | Container security: How to Defend Against It | Written by Lubov Kolesnikovich | [Read More](https://medium.com/p/39dfccc5c87c) |
 | Tue, 26 Aug 2025 22:17:34 GMT | Quantum-Safe Cryptography: What You Should Know | Karthikeyan Nagaraj | [Read More](https://medium.com/p/0b07f1b547ea) |
 | Tue, 26 Aug 2025 22:11:32 GMT | My Favorite Bug Was the One Rust Wouldn’t Let Me Write | SyntaxSavage | [Read More](https://medium.com/p/574a00784805) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 16:38:51 GMT | Operation Database Infiltration: Cracking the Digital Vault | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/141c62e02fc0) |
 | Tue, 26 Aug 2025 16:35:23 GMT | Encryption vs Compression: Shrinking vs Securing Your Data | Natarajan C K | [Read More](https://medium.com/p/8ed1b480bc5d) |
 | Tue, 26 Aug 2025 16:32:27 GMT | My First HackerOne Submission: Lessons from Reporting to Dropbox | Hemanth Mouli.ch | [Read More](https://medium.com/p/54a32abc6620) |
-| Tue, 26 Aug 2025 16:31:57 GMT | SQL Injection Made Simple  (Step-by-Step Hacker’s Guide) | Vipul Sonule | [Read More](https://medium.com/p/30deed0f1442) |
-| Tue, 26 Aug 2025 16:28:42 GMT | Computer Viruses : Hidden Enemies of the Digital World | amir Roshanzamir | [Read More](https://medium.com/p/eb246b769354) |
-| Tue, 26 Aug 2025 16:26:15 GMT | APT36 Targets Indian Government with Linux BOSS Malware via .desktop Files | Aaron | [Read More](https://medium.com/p/c89accdeb40d) |
-| Tue, 26 Aug 2025 16:21:56 GMT | DC-1 VulnHub Walkthrough: A Beginner’s Journey from Enumeration to Root | Abhinsubej | [Read More](https://medium.com/p/abd07a35b48f) |
-| Tue, 26 Aug 2025 16:19:54 GMT | HackTheBox: Fawn | Rahaliashraf | [Read More](https://medium.com/p/5b22d9ce4d02) |
-| Tue, 26 Aug 2025 16:18:10 GMT | ️ How I Earned a $600 Bug Bounty with Metasploit (Beginner-Friendly Case Study) | Carylrobert | [Read More](https://medium.com/p/04348d022941) |
