@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 22:17:34 GMT | Quantum-Safe Cryptography: What You Should Know | Karthikeyan Nagaraj | [Read More](https://medium.com/p/0b07f1b547ea) |
+| Tue, 26 Aug 2025 22:07:42 GMT | Why Your SIEM is Blind: Lessons From 160 Million Attack Simulations | Cyber-AppSec | [Read More](https://medium.com/p/d4952144c939) |
+| Tue, 26 Aug 2025 22:05:32 GMT | DNS Ad Blocking Face-off: NextDNS vs Pi-hole for Maximum Privacy in 2025 | BiyteLüm | [Read More](https://medium.com/p/64ccea0e395a) |
+| Tue, 26 Aug 2025 21:55:42 GMT | Linux è sicuro perché esiste Windows: La verità sulla sicurezza informatica | ChrisQuack | [Read More](https://medium.com/p/530e2e83e655) |
+| Tue, 26 Aug 2025 21:52:49 GMT | Personal Growth and Self-Discovery in the Age of AI | Michael W. Regier, Ph.D. | [Read More](https://medium.com/p/d9cc9b35d39d) |
+| Tue, 26 Aug 2025 21:51:57 GMT | Ant Lab RWA Research Bounty — Call for Papers | ANT LAB | [Read More](https://medium.com/p/d986721cc934) |
+| Tue, 26 Aug 2025 21:50:09 GMT | Job Control | Víctor Rodolfo Vázquez Adame | [Read More](https://medium.com/p/4cbbabd9f02d) |
+| Tue, 26 Aug 2025 21:44:33 GMT | The Rise of “DoS Uber Attacks”: How Criminals Can Weaponize Ride-Hailing Platforms | Ashraf Qaddomi | [Read More](https://medium.com/p/ca2940322213) |
+| Tue, 26 Aug 2025 21:39:34 GMT | Understanding RTT (Round-Trip Time) in Wireshark | Javier | [Read More](https://medium.com/p/0a377da643d9) |
 | Tue, 26 Aug 2025 21:31:38 GMT | Data as a Component of the Overall Platform | Apto Solutions | [Read More](https://medium.com/p/c1f1d156bafc) |
 | Tue, 26 Aug 2025 21:27:01 GMT | How I Built a Real-Time SIEM System with Django | Eka Onagbesan | [Read More](https://medium.com/p/3ac48eac7a0b) |
 | Tue, 26 Aug 2025 21:02:21 GMT | How Your Online Info Stays Safe (Without You Lifting a Finger) | FutureToolsExplained | [Read More](https://medium.com/p/a9c6faab5f11) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 16:18:10 GMT | ️ How I Earned a $600 Bug Bounty with Metasploit (Beginner-Friendly Case Study) | Carylrobert | [Read More](https://medium.com/p/04348d022941) |
 | Tue, 26 Aug 2025 16:17:32 GMT | The URL That Looks Safe But Isn’t – The Homoglyph Attack | Nitin yadav | [Read More](https://medium.com/p/c9ddc071e3ff) |
 | Tue, 26 Aug 2025 16:16:52 GMT | Protecting CI/CD Secrets with Vault and Automation | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e9be194c32c2) |
-| Tue, 26 Aug 2025 16:10:32 GMT | Disk Imaging Using FTK Imager | Aaditya Pokhrel | [Read More](https://medium.com/p/3c1923ca866b) |
-| Tue, 26 Aug 2025 16:09:19 GMT | The Day I Went Code-Blind — And What It Taught Me About OSINT | Sam Galope | [Read More](https://medium.com/p/e37f68880a8a) |
-| Tue, 26 Aug 2025 16:04:20 GMT | MCP Server Security Analysis | Mohamed Yassine Kallel | [Read More](https://medium.com/p/86f850d43e2d) |
-| Tue, 26 Aug 2025 16:02:23 GMT | How I Turned My Experience Into My First Ethical Hacking Ebook | Amit Shukla | [Read More](https://medium.com/p/368faa293eb0) |
-| Tue, 26 Aug 2025 16:01:42 GMT | 10 Penetration Testing Projects with Python to Earn $3,000/Month | Carylrobert | [Read More](https://medium.com/p/4d7c71e104f7) |
-| Tue, 26 Aug 2025 16:01:37 GMT | How I Found a Critical Password Reset Bug in the BB program(and Got $4,000) | Imran Hossain | [Read More](https://medium.com/p/a22fffe285e1) |
-| Tue, 26 Aug 2025 15:56:26 GMT | From Python Scripts to the Cloud: My Journey to Becoming a Cloud SDE | Naveen B | [Read More](https://medium.com/p/6c3da0d07823) |
-| Tue, 26 Aug 2025 15:55:16 GMT | Fireside Chat: How Healthcare and Biotech Teams Build Secure, Compliant AI Infrastructure | Sage Elliott | [Read More](https://medium.com/p/e45ca7176c1a) |
-| Tue, 26 Aug 2025 15:49:01 GMT | 2 XSS vulnerabilities: From Open Redirect to Reflected XSS and 100€ | BugHunter021 | [Read More](https://medium.com/p/c03c4ade3978) |
