@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 04:38:54 GMT | Why Most Directory Websites Fail (and How to Make Yours Succeed) | aDirectory | [Read More](https://medium.com/p/4216e4222b72) |
+| Tue, 26 Aug 2025 04:33:20 GMT | 8. Intro to XSS: How I Found My First Bug | Abhijeet kumawat | [Read More](https://medium.com/p/0046a4dbec4b) |
+| Tue, 26 Aug 2025 04:24:20 GMT | My Home Lab Is Literally a Fire Hazard | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/cfc9786ee317) |
+| Tue, 26 Aug 2025 04:22:13 GMT | Every Car Is a Computer Now, Which Means Every Car Is Hackable | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/1239af6360b2) |
+| Tue, 26 Aug 2025 04:18:47 GMT | What Makes IT Services in Manchester Essential for Growth? | wearegekko | [Read More](https://medium.com/p/3e9ebc1a2a85) |
 | Tue, 26 Aug 2025 04:06:00 GMT | CSRF to Delete Products from Any User’s Cart — Bypassing Protections and Getting Paid | Mohamed Said Ibrahim | [Read More](https://medium.com/p/aa365a0c4c8c) |
 | Tue, 26 Aug 2025 04:00:44 GMT | The Linux Security Journey — USB Auth (Universal Serial Bus Authorization) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/94f87afb53cd) |
 | Tue, 26 Aug 2025 03:57:11 GMT | 5 Reasons Why Cybersecurity Is a Must for Startups — Even on a Tight Budget | CouponzGuru | [Read More](https://medium.com/p/7ce47965f23d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 19:16:39 GMT | CORS (Cross-Origin Resource Sharing) Explained Simply and Deeply | Abhinav Singh | [Read More](https://medium.com/p/1ae1501795d6) |
 | Mon, 25 Aug 2025 19:16:22 GMT | Day 56 — OverTheWire Leviathan: A Complete Beginner’s Guide to Binary Exploitation | Jinay | [Read More](https://medium.com/p/f44a307f6ec3) |
 | Mon, 25 Aug 2025 19:09:21 GMT | Easy Peasy THM writeup - by 2No0b4YoU | 2No0b4YoU | [Read More](https://medium.com/p/5a4a737b453d) |
-| Mon, 25 Aug 2025 18:55:48 GMT | Automatic Remediation: The Future of Cybersecurity Response | SafeAeon Inc. | [Read More](https://medium.com/p/e7717e8fb41c) |
-| Mon, 25 Aug 2025 18:52:54 GMT | Silent Breach: How Attackers Evade Windows EDR to Exfiltrate Secrets and Credentials. | eL Njas!™ | [Read More](https://medium.com/p/11793cf4da12) |
-| Mon, 25 Aug 2025 18:44:26 GMT | Essential Email Fraud Prevention Strategies: Protecting Your Inbox and Business | SafeAeon Inc. | [Read More](https://medium.com/p/3096f1be2705) |
-| Mon, 25 Aug 2025 18:42:50 GMT | “Mastering Cash App Accounts: Setup, Security, and Smarter Digital Payments” | Donny SMM | [Read More](https://medium.com/p/ef67d09480a9) |
-| Mon, 25 Aug 2025 18:34:10 GMT | The AppSec Policy Gap: Turning Intent into Action | Joshua Lindstrom | [Read More](https://medium.com/p/0590a7b6dd07) |
