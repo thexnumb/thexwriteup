@@ -12,8 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 06:23:28 GMT | ️‍♂️ The Forgotten API Endpoints — Deep Recon & Defense Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1507ff2da8a1) |
+| Tue, 26 Aug 2025 06:22:16 GMT | Mobile App Development Company in Gurugram — Build Apps That Drive Growth | Ajath Infotech | [Read More](https://medium.com/p/6e626638e891) |
+| Tue, 26 Aug 2025 06:22:14 GMT | ️ The Forgotten API Endpoints: How Recon Finds Gold Where Developers Don’t Look | Narendar Battula (nArEn) | [Read More](https://medium.com/p/58fb04b97a51) |
+| Tue, 26 Aug 2025 06:21:13 GMT | ️ OSINT-Driven API Recon: Finding Endpoints Without Touching the Target | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d98dbb8c262e) |
+| Tue, 26 Aug 2025 06:20:28 GMT | Blocking Suspected DDoS IPs with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/d61df33f0ea4) |
+| Tue, 26 Aug 2025 06:16:41 GMT | CodeArcade.io — Affordable Tech Education & AI-Powered Interviews | Aditya Lakhanpal Sharma | [Read More](https://medium.com/p/a8c6156d3068) |
+| Tue, 26 Aug 2025 06:14:39 GMT | Did you know that the first bug was actually a bug? Here’s the story. | Abdullah Saifullah | [Read More](https://medium.com/p/c9844f254f2c) |
+| Tue, 26 Aug 2025 06:09:53 GMT | From Data to Decisions: AI with Microsoft Technologies Services | Masterly Solutions | [Read More](https://medium.com/p/ed598aa7e76e) |
+| Tue, 26 Aug 2025 06:06:22 GMT | System Integrations | Marvel | [Read More](https://medium.com/p/f73ca07ce40e) |
+| Tue, 26 Aug 2025 06:01:21 GMT | Access Management Trends and Technologies Shaping the Future | Gauri Kale | [Read More](https://medium.com/p/782d49366d9c) |
+| Tue, 26 Aug 2025 06:00:39 GMT | Today’s Top Cyber Intelligence Highlights — Aug 26, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/934b92b25a52) |
+| Tue, 26 Aug 2025 06:00:15 GMT | My memories on stage were a suitcase of struggles — till it broke open and I saw what made it all… | Kapil Arora | [Read More](https://medium.com/p/9929505ab171) |
+| Tue, 26 Aug 2025 05:59:34 GMT | Introduction To 6 Weeks Cybersecurity Industrial Training in Chandigarh | HackersPrey | [Read More](https://medium.com/p/90f1edbb7b6a) |
+| Tue, 26 Aug 2025 05:55:04 GMT | Inside the Mind of a Hacker: How They Really Pick Targets | Aj | [Read More](https://medium.com/p/1ad0e704240e) |
+| Tue, 26 Aug 2025 05:49:46 GMT | Analyzing Incident Response for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/9b1e8d926441) |
+| Tue, 26 Aug 2025 05:49:38 GMT | The End of Passwords: How Silent Authentication and Biometrics Are Redefining UX Security | mehmet celik | [Read More](https://medium.com/p/9a57cd68c665) |
+| Tue, 26 Aug 2025 05:48:01 GMT | Analyzing Incident Response for Beginners | Cyber Security Research | [Read More](https://medium.com/p/1eeb5d2d4f81) |
+| Tue, 26 Aug 2025 05:46:15 GMT | Analyzing Incident Response and Risk Management | Cyber Security Research | [Read More](https://medium.com/p/9e8592de6d35) |
+| Tue, 26 Aug 2025 05:40:45 GMT | Analyzing Incident Response and Ethical Challenges | Cyber Security Research | [Read More](https://medium.com/p/4b83ab529900) |
 | Tue, 26 Aug 2025 05:38:51 GMT | Wazuh Custom Dashboard & Attack Statistics | Ismail Hakim | [Read More](https://medium.com/p/a94528bf2e23) |
 | Tue, 26 Aug 2025 05:36:25 GMT | #Another Bug Bounty Win: Responsible Disclosure of Potential Template Injection Got me 250$ | Lakshya | [Read More](https://medium.com/p/a1d7be3cc781) |
+| Tue, 26 Aug 2025 05:35:34 GMT | 8 Types of Cyber Attacks You Must Know (With Real-Life Stories) | InfraOps DeMystified | [Read More](https://medium.com/p/dc0c4dde38ab) |
 | Tue, 26 Aug 2025 05:27:11 GMT | Back to School & Cybersecurity: 10 Steps Every Parent Can Actually Do | Cyberguardmom | [Read More](https://medium.com/p/396ce31e3982) |
 | Tue, 26 Aug 2025 05:26:31 GMT | Still Hesitate to Adopt Flutter? | Chirag Prajapati | [Read More](https://medium.com/p/0863256635cb) |
 | Tue, 26 Aug 2025 05:25:55 GMT | Portswigger Web Security Academy - SSRF Lab #1 | BooRuleDie | [Read More](https://medium.com/p/b25ed61ccc1a) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 21:14:06 GMT | Building a Malware Lab — Part 1: Networking | Ryan Murphy | [Read More](https://medium.com/p/6cf6ed7cb0ba) |
 | Mon, 25 Aug 2025 21:12:33 GMT | Intelligent Workflow Automation Solutions | The Insightful Solutions | [Read More](https://medium.com/p/ddde88f3a1f6) |
 | Mon, 25 Aug 2025 21:09:58 GMT | CYBER SECURITY TIPS | Moeez King | [Read More](https://medium.com/p/c368f6fb8615) |
-| Mon, 25 Aug 2025 21:08:33 GMT | Netskope S-1 Deep Dive: $707M ARR, 118% NRR, and a Channel-Heavy Path to the Public Markets | Amar Jeer | [Read More](https://medium.com/p/6ab0826a90c4) |
-| Mon, 25 Aug 2025 20:55:22 GMT | Mastering Kali Linux in 2025: The Ultimate Guide to Cybersecurity, Hacking, and Emerging Trends | Unknown Source | [Read More](https://medium.com/p/c717c1300d06) |
-| Mon, 25 Aug 2025 20:51:33 GMT | ⚡ Real-Time UEBA Applications: Anomaly Monitoring with Big Data and Stream Analytics | Esra Kayhan | [Read More](https://medium.com/p/220c9a636d05) |
-| Mon, 25 Aug 2025 20:43:40 GMT | TryHackMe Publisher Walkthrough | Mono | [Read More](https://medium.com/p/e0addb5a1894) |
-| Mon, 25 Aug 2025 20:39:15 GMT | Get Process ID by Process Name in Windows Kernel Driver | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9d5cbc8fcf50) |
-| Mon, 25 Aug 2025 20:34:52 GMT | Harry Potter Series: Fawkes CTF — Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/7f03191fbf0a) |
-| Mon, 25 Aug 2025 20:26:32 GMT | Snort IDS Setup | barancem | [Read More](https://medium.com/p/317a8e9c7cd1) |
-| Mon, 25 Aug 2025 20:17:37 GMT | Cybercriminals Know Who Your Weakest Link Is. Do You? | Graylog | [Read More](https://medium.com/p/71f490486935) |
-| Mon, 25 Aug 2025 20:17:07 GMT | Towing Services in Corolla, NC: Reliable & Fast Assistance | North Beach Recovery | [Read More](https://medium.com/p/976e2c9ff939) |
-| Mon, 25 Aug 2025 20:13:50 GMT | Harry Potter Series: Aragog CTF — Full Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/39bda16f0187) |
-| Mon, 25 Aug 2025 20:13:36 GMT | DevSecOps na prática: prevenindo commits de credenciais AWS com pre-commit e TruffleHog | DevSecOps from Zero!‍️ | [Read More](https://medium.com/p/5094226ec9ad) |
-| Mon, 25 Aug 2025 20:10:18 GMT | Learning Path for Cloud Security Specialists | Ihor Sasovets | [Read More](https://medium.com/p/73a09bc1db3b) |
-| Mon, 25 Aug 2025 20:05:13 GMT | ️ Network Whisperer V1.0 — My New PCAP Analysis Tool | Md Fahim Al Shihab | [Read More](https://medium.com/p/40f7192ae7d7) |
-| Mon, 25 Aug 2025 20:02:54 GMT | How Mobile Patrol Security Strengthens Community Trust and Engagement | Nimra Sheikh | [Read More](https://medium.com/p/45f5d52006c1) |
-| Mon, 25 Aug 2025 20:00:40 GMT | Integrating Technology in Mobile Patrol: GPS, Apps & Real-Time Reporting | Nimra Sheikh | [Read More](https://medium.com/p/99e552b2e6d9) |
-| Mon, 25 Aug 2025 20:00:07 GMT | Best Practices for Effective and Safe Mobile Patrol Routes | Nimra Sheikh | [Read More](https://medium.com/p/8f25afdabec3) |
-| Mon, 25 Aug 2025 19:59:33 GMT | AI Hype in Cybersecurity Creates Risk When Rushing Adoption | Graylog | [Read More](https://medium.com/p/a1a29d3c2824) |
-| Mon, 25 Aug 2025 19:54:40 GMT | Building a Bulletproof FastAPI Social Media API: Complete Security Implementation Guide | ra9a_v3rv3 | [Read More](https://medium.com/p/52b474d6b0e4) |
-| Mon, 25 Aug 2025 19:54:40 GMT | OSI MODEL (open system interconnection ) and TCP/IP (Transmission Control Protocol/Internet… | The Commoness | [Read More](https://medium.com/p/6752f104850f) |
-| Mon, 25 Aug 2025 19:53:49 GMT | You Installed a PDF Editor:They Got a Botnet: The Shocking Supply‑Chain Twist | cybrNK | [Read More](https://medium.com/p/09adf6f4060d) |
