@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 20:23:50 GMT | One Quote, Ten Seconds: How I Found SQL Injection in AVMS | Shivam Sharma | [Read More](https://medium.com/p/3d16be9cbe72) |
 | Tue, 26 Aug 2025 20:21:34 GMT | How I Built a Formal Verification System to Prevent DeFi Exploits | Kwame Bryan | [Read More](https://medium.com/p/5317a13239f4) |
 | Tue, 26 Aug 2025 20:18:54 GMT | A Closer Look at Xray The Web Security Scanner You Need to Know | Muhammad Adnan Apriliyansyah | [Read More](https://medium.com/p/27953af6ab36) |
 | Tue, 26 Aug 2025 20:16:48 GMT | Why “Never Trust, Always Verify” is the Only Cybersecurity Strategy That Works | Mohanad Khaled | [Read More](https://medium.com/p/3996a4a62a59) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 15:34:19 GMT | The Git Command That Saved My Code at 3 AM | The Dev Notebook | [Read More](https://medium.com/p/a2345be687bd) |
 | Tue, 26 Aug 2025 15:33:15 GMT | Here’s how deepfake vishing attacks work, and why they can be hard to detect | Welsh | [Read More](https://medium.com/p/28e6997f1db3) |
 | Tue, 26 Aug 2025 15:32:30 GMT | “Day 20: The Chain Reaction — From a Tiny IDOR to a Supply Chain Nightmare” | Aman Sharma | [Read More](https://medium.com/p/7add2d72335a) |
-| Tue, 26 Aug 2025 15:31:26 GMT | Does government surveillance make us safer, or keep us captive? | Question It | [Read More](https://medium.com/p/9147ccd71b3a) |
