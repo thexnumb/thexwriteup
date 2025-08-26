@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 12:33:53 GMT | Secure Coding Challenges Master Developer Security Skills | Application Security Master | [Read More](https://medium.com/p/01ce76beb732) |
+| Tue, 26 Aug 2025 12:33:00 GMT | Security Compliance in Finance: Rules & Practices | Qualysec | [Read More](https://medium.com/p/c9b3e26302f0) |
+| Tue, 26 Aug 2025 12:31:34 GMT | Every Scroll is a Secret: How Infinite Feeds “Hack Your Brain” | Shwet Shirbhayye | [Read More](https://medium.com/p/4473560c28fd) |
+| Tue, 26 Aug 2025 12:27:34 GMT | VexTrio: The Hidden Infrastructure Powering Global Cybercrime | VaRiOus_CanAriEs | [Read More](https://medium.com/p/1f6eb238ce72) |
+| Tue, 26 Aug 2025 12:26:24 GMT | Linux Malware VShell Exploits RAR Filename Injection to Evade Detection | Juan Andrés Leiva | [Read More](https://medium.com/p/728ed2aca484) |
+| Tue, 26 Aug 2025 12:25:38 GMT | RAM: The Memory That Knows | Ez Eldeen A. Mushtaha | [Read More](https://medium.com/p/c3ac091d3039) |
+| Tue, 26 Aug 2025 12:23:46 GMT | Information Disclosure: The Hidden Risks in Web Applications | Hinan Mohamed | [Read More](https://medium.com/p/9309fdf77444) |
+| Tue, 26 Aug 2025 12:18:06 GMT | SOC 2 Certification Steps Explained in Simple Terms | Decrypt Compliance | [Read More](https://medium.com/p/854f76d9ed7d) |
+| Tue, 26 Aug 2025 12:13:02 GMT | Malware Traffic Analysis Incident Report — Software Download from Fake Site | Okeke Ugochukwu Chidiebele | [Read More](https://medium.com/p/38fcfba7c999) |
+| Tue, 26 Aug 2025 12:11:30 GMT | I Lost Everything to a Cyber Attack | Aboyeji Emmanuel Olusola | [Read More](https://medium.com/p/a86fcf05e17c) |
+| Tue, 26 Aug 2025 12:10:13 GMT | VulnHub: DC 9 Writeup | Psalm Endozo | [Read More](https://medium.com/p/144fa038024a) |
+| Tue, 26 Aug 2025 12:04:56 GMT | Designing for Failure: Why True Resilience is More Than Uptime | IsaacFabianK | [Read More](https://medium.com/p/a2c8a339f1c3) |
+| Tue, 26 Aug 2025 12:02:26 GMT | Your Browser Is Snitching on You: A Hacker’s Guide to Fingerprinting | IamPreth | [Read More](https://medium.com/p/1ee0d1249f80) |
+| Tue, 26 Aug 2025 11:51:06 GMT | How Floating Touch™ Technology is Revolutionizing User Interfaces? | Aria Sullivan | [Read More](https://medium.com/p/5de6b2751962) |
+| Tue, 26 Aug 2025 11:50:19 GMT | Organizasyon Güvenliği | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/3f84b7de7e97) |
+| Tue, 26 Aug 2025 11:47:26 GMT | Nmap Commands Every Ethical Hacker Must Master | Aditya Bhatt | [Read More](https://medium.com/p/7cf4df010f8d) |
+| Tue, 26 Aug 2025 11:46:57 GMT | CIRO Shuts Down Systems After Cybersecurity Threat: Personal Data Exposed | SafetyDetectives Research Team | [Read More](https://medium.com/p/42a6b25622f8) |
+| Tue, 26 Aug 2025 11:45:15 GMT | Brunner CTF Writeups 2025 - 0xSn0w | Tamimsharif | [Read More](https://medium.com/p/a9cdb0a0b9df) |
+| Tue, 26 Aug 2025 11:39:54 GMT | Meta-Level Finance: Why EODHD Is Your Secret Weapon for Market Data | Nayab Bhutta | [Read More](https://medium.com/p/f96318e88830) |
 | Tue, 26 Aug 2025 11:33:14 GMT | Why Data Preprocessing is 80% of the Work in Machine Learning | Taghrida Mohamed (AI/ML Enthusiast) | [Read More](https://medium.com/p/91434ac8692d) |
 | Tue, 26 Aug 2025 11:30:48 GMT | Cybersecurity in India: Protecting the Digital Future (2025 Guide) | Amit solanki | [Read More](https://medium.com/p/0e137577046e) |
 | Tue, 26 Aug 2025 11:25:58 GMT | Cracking the Code: Dynamic Analysis & Debugging in Malware Research | Furkanctiner | [Read More](https://medium.com/p/0b47da3b39c4) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 07:20:15 GMT | AI Privacy Exposed: What ChatGPT Really Does With Your Data | Ashutosh Kumar | [Read More](https://medium.com/p/7ef1a5e936b8) |
 | Tue, 26 Aug 2025 07:18:21 GMT | Curiously, I Tried to Find Out if My Data Was on the Dark Web, and Here’s What I Found | Navkiran Dhaliwal | [Read More](https://medium.com/p/966e08aad1ff) |
 | Tue, 26 Aug 2025 07:16:22 GMT | The Reason Strangers Have Your Phone Number | Not Just Lessons | [Read More](https://medium.com/p/85423b0d45c1) |
-| Tue, 26 Aug 2025 07:06:17 GMT | Security Services in India: The Growing Importance of Professional Security Guard Services | Ciss India | [Read More](https://medium.com/p/85ead44e6b4d) |
-| Tue, 26 Aug 2025 07:02:43 GMT | List Of Convenience stores in Florida | shobha. rentechdigital | [Read More](https://medium.com/p/209b5cceeaf9) |
-| Tue, 26 Aug 2025 06:52:33 GMT | How to Block Censys Scans with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/7af54f72d369) |
-| Tue, 26 Aug 2025 06:52:27 GMT | Breaking Down CloudSEK’s CTF Hiring Challenge — How I Solved 2/5 Flags | manoj kumar | [Read More](https://medium.com/p/641f6343483b) |
-| Tue, 26 Aug 2025 06:49:39 GMT | The Quantum Age: A New Standard of Security — Quantum Key Distribution | Umut Akbulut | [Read More](https://medium.com/p/428c1927e7f6) |
-| Tue, 26 Aug 2025 06:47:33 GMT | Bug Bounty XSS con postMessage: cuando la confianza entre ventanas se convierte en vulnerabilidad | Gorka | [Read More](https://medium.com/p/f18822acf0ab) |
-| Tue, 26 Aug 2025 06:46:59 GMT | Kuantum Çağı: Güvenliğin Yeni Standardı — Quantum Key Distribution | Umut Akbulut | [Read More](https://medium.com/p/751f6e6bfb98) |
-| Tue, 26 Aug 2025 06:45:53 GMT | oHome Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/c4d2ee4d230d) |
-| Tue, 26 Aug 2025 06:44:15 GMT | Day 10: Linux Basic Commands, Getting Started with the Terminal | Prutha_Dongre | [Read More](https://medium.com/p/40bb0eaec4e9) |
-| Tue, 26 Aug 2025 06:43:10 GMT | The Cyber Battlefield of 2025: How Modern Attack Vectors Are Reshaping Digital Defense | Defentive | [Read More](https://medium.com/p/bfde7d49a88c) |
-| Tue, 26 Aug 2025 06:38:56 GMT | Building My Home Lab: Learning by Doing | Neodemus | [Read More](https://medium.com/p/e1d9a2b65127) |
-| Tue, 26 Aug 2025 06:38:30 GMT | Automation Gates and Modern Security: Building Smarter and Safer Premises. | Meghaharmedia | [Read More](https://medium.com/p/7247e629bbd9) |
-| Tue, 26 Aug 2025 06:37:25 GMT | How Mid-Sized Businesses Can Achieve Enterprise-Grade IT Without Overspending | Omnilink Technology | [Read More](https://medium.com/p/7277d3955ebe) |
-| Tue, 26 Aug 2025 06:34:42 GMT | The Psychology of Bug Bounty Hunting: Why Mindset Beats Tools | Sukhveer Singh | [Read More](https://medium.com/p/5278ea7fa528) |
-| Tue, 26 Aug 2025 06:34:18 GMT | Creepy Cams: The Eyes You Don’t See | O. J. Okpabi | [Read More](https://medium.com/p/caf35f3e668a) |
-| Tue, 26 Aug 2025 06:33:38 GMT | Cybersecurity Fatigue is Real (And Hackers Love It) | Aj | [Read More](https://medium.com/p/c7110ebbc779) |
-| Tue, 26 Aug 2025 06:23:28 GMT | ️‍♂️ The Forgotten API Endpoints — Deep Recon & Defense Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1507ff2da8a1) |
-| Tue, 26 Aug 2025 06:22:16 GMT | Mobile App Development Company in Gurugram — Build Apps That Drive Growth | Ajath Infotech | [Read More](https://medium.com/p/6e626638e891) |
-| Tue, 26 Aug 2025 06:22:14 GMT | ️ The Forgotten API Endpoints: How Recon Finds Gold Where Developers Don’t Look | Narendar Battula (nArEn) | [Read More](https://medium.com/p/58fb04b97a51) |
