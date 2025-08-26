@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 13:27:30 GMT | The Top 5 Red Team Tools Every Professional Should Know | John Cruise | [Read More](https://medium.com/p/1e6db2ba7896) |
+| Tue, 26 Aug 2025 13:25:35 GMT | How does Microsoft Sentinel leverage AI to enhance cybersecurity? | IT_Engineer | [Read More](https://medium.com/p/fdf42e1534c9) |
+| Tue, 26 Aug 2025 13:22:32 GMT | The Top 5 OSINT Tools Every Penetration Tester Should Know | John Cruise | [Read More](https://medium.com/p/9851f85c31f1) |
+| Tue, 26 Aug 2025 13:20:26 GMT | ElavaIT’s First Ethical Hacking & Digital Forensics Workshop at Nirmala College | ElavaIT Software Solutions LLP | [Read More](https://medium.com/p/9bdc02f9ad48) |
+| Tue, 26 Aug 2025 13:11:51 GMT | Algeria’s Broken Triangle: Why People, Process, and Technology Hold the Key to Competitiveness | Taher Amine, mMBA, CISSP-SME, CCISO, CMSA, ISOxx | [Read More](https://medium.com/p/3ff0b8c76c45) |
+| Tue, 26 Aug 2025 13:10:30 GMT | When Identity Becomes Data: Living in an Age of Authentication | Meenal Jha | [Read More](https://medium.com/p/86c6ce02500f) |
+| Tue, 26 Aug 2025 13:09:52 GMT | Walkthrough — NIST — Rhino Hunt | Luffytaroouu | [Read More](https://medium.com/p/1089084e7e15) |
+| Tue, 26 Aug 2025 13:05:48 GMT | “How Changing false to true Got Me Paid " | Omar Mesalam | [Read More](https://medium.com/p/34c164a0b890) |
+| Tue, 26 Aug 2025 13:04:28 GMT | The Hacker’s Journal: Why Ethical Hacking Is More Than Just “Hacking” | Raj Islam | [Read More](https://medium.com/p/d21f7436c486) |
+| Tue, 26 Aug 2025 13:03:30 GMT | ️ Cybersecurity Roadmap 2025: A Beginner-to-Advanced Guide | DJH4CK3R | [Read More](https://medium.com/p/9f4df730914f) |
+| Tue, 26 Aug 2025 12:57:49 GMT | How I Got GPT-5 to Reveal Its Rulebook & Why Prompt Injection Is OWASP’s #1 AI Security Risk | Rohit Chaurasia | [Read More](https://medium.com/p/544aea1fe105) |
+| Tue, 26 Aug 2025 12:52:08 GMT | From Key to Certificate: How Cryptography Ensures Trust and Data Integrity | Balogun Ayomide | [Read More](https://medium.com/p/5bddadf552d9) |
+| Tue, 26 Aug 2025 12:51:38 GMT | No Trust Without Verify: Nessus Installation with Hash-Based Validation | Balogun Ayomide | [Read More](https://medium.com/p/a1d2cc827dfd) |
+| Tue, 26 Aug 2025 12:51:01 GMT | Technical Report: Linux File and Directory Operations | Balogun Ayomide | [Read More](https://medium.com/p/52e7444e3eaf) |
+| Tue, 26 Aug 2025 12:50:00 GMT | How useful is Drosera ? | Middy | [Read More](https://medium.com/p/e3c4ad6672d1) |
+| Tue, 26 Aug 2025 12:37:57 GMT | Infrastructure First! Why Strong Foundations Decide Databricks Success | Sagar Shinde | [Read More](https://medium.com/p/3e627367ec4b) |
+| Tue, 26 Aug 2025 12:37:26 GMT | How Installing CCTV at My Home in Chennai Gave Me Complete Peace of Mind | Foggieman | [Read More](https://medium.com/p/2e9a63f0bbb1) |
 | Tue, 26 Aug 2025 12:33:53 GMT | Secure Coding Challenges Master Developer Security Skills | Application Security Master | [Read More](https://medium.com/p/01ce76beb732) |
 | Tue, 26 Aug 2025 12:33:00 GMT | Security Compliance in Finance: Rules & Practices | Qualysec | [Read More](https://medium.com/p/c9b3e26302f0) |
 | Tue, 26 Aug 2025 12:31:34 GMT | Every Scroll is a Secret: How Infinite Feeds “Hack Your Brain” | Shwet Shirbhayye | [Read More](https://medium.com/p/4473560c28fd) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 08:42:05 GMT | Starting Your Start-Up? Secure Its Data With Penetration testing | Redfox Security | [Read More](https://medium.com/p/979c4cbd144d) |
 | Tue, 26 Aug 2025 08:40:13 GMT | Why AI is the Future of Cybersecurity? | Evelyn | [Read More](https://medium.com/p/18860729b59a) |
 | Tue, 26 Aug 2025 08:38:26 GMT | Unleashing the Hound: How AI Agents Find Deep Logic Bugs in Any Codebase | Bernhard Mueller | [Read More](https://medium.com/p/64c2110e3a6f) |
-| Tue, 26 Aug 2025 08:33:15 GMT | event Cyber security | Yahya Abdullah | [Read More](https://medium.com/p/8794291e381e) |
-| Tue, 26 Aug 2025 08:29:08 GMT | Cybersecurity & Ethical AI: Earning Models, Hacks & Global Insights | Muhammad Arshad | [Read More](https://medium.com/p/ed05365b06ec) |
-| Tue, 26 Aug 2025 08:20:46 GMT | DNS4EU: Why Europe Is Building Its Own Secure DNS Infrastructure | Deleteo-Erase your digital footprint in minutes | [Read More](https://medium.com/p/442b92be7498) |
-| Tue, 26 Aug 2025 08:20:18 GMT | Inside Nepal’s Digital Defense: Why Cybersecurity Skills Matter More Than Ever | Skill Pathway | [Read More](https://medium.com/p/aafd76ea4728) |
-| Tue, 26 Aug 2025 08:19:49 GMT | The Boardroom Mirage | ComsignTrust LTD | [Read More](https://medium.com/p/77c808abf7b1) |
-| Tue, 26 Aug 2025 08:11:52 GMT | Grok AI Privacy Meltdown: 370,000 Chats Publicly Exposed via “Share” Flaw | Finstein.ai | [Read More](https://medium.com/p/7d860d770e36) |
-| Tue, 26 Aug 2025 08:02:48 GMT | TryHackMe: Snort Challenge — The Basics - Complete Step-by-Step Walkthrough | Pavandeep Kaur | [Read More](https://medium.com/p/5d51c060535f) |
-| Tue, 26 Aug 2025 07:44:07 GMT | AI : The Double-Edged Sword in Cybersecurity ️ | RootXploit.0x | [Read More](https://medium.com/p/cfd98043f05c) |
-| Tue, 26 Aug 2025 07:41:29 GMT | Crossing the Rubicon. What can the cyber industry learn from Julius Caesar. | Martin Abramov | [Read More](https://medium.com/p/c0c50f9ccf92) |
-| Tue, 26 Aug 2025 07:36:14 GMT | Meet ReaperAI: The Hacker that isn’t Human | Yash Kumar Chauhan | [Read More](https://medium.com/p/a13176452661) |
-| Tue, 26 Aug 2025 07:31:09 GMT | Forgotten Features, Fresh Exploits: Turning Beta Endpoints into Admin Panel Access | Iski | [Read More](https://medium.com/p/6677e87b2702) |
-| Tue, 26 Aug 2025 07:30:25 GMT | Web Security for Fresher’s Project. | Tanish Dewase | [Read More](https://medium.com/p/a7c61c66d73f) |
-| Tue, 26 Aug 2025 07:25:42 GMT | Shaping the Future: Key Trends Influencing Technology Leadership into 2025 | VantedgeSearch23 | [Read More](https://medium.com/p/3e51e8402597) |
-| Tue, 26 Aug 2025 07:23:38 GMT | Exit Sign Guards Universal Fit Design | Gardtechinc | [Read More](https://medium.com/p/9b94202d4a41) |
-| Tue, 26 Aug 2025 07:20:15 GMT | AI Privacy Exposed: What ChatGPT Really Does With Your Data | Ashutosh Kumar | [Read More](https://medium.com/p/7ef1a5e936b8) |
-| Tue, 26 Aug 2025 07:18:21 GMT | Curiously, I Tried to Find Out if My Data Was on the Dark Web, and Here’s What I Found | Navkiran Dhaliwal | [Read More](https://medium.com/p/966e08aad1ff) |
-| Tue, 26 Aug 2025 07:16:22 GMT | The Reason Strangers Have Your Phone Number | Not Just Lessons | [Read More](https://medium.com/p/85423b0d45c1) |
