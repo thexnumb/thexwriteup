@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 08:20:18 GMT | Inside Nepal’s Digital Defense: Why Cybersecurity Skills Matter More Than Ever | Skill Pathway | [Read More](https://medium.com/p/aafd76ea4728) |
+| Tue, 26 Aug 2025 08:19:49 GMT | The Boardroom Mirage | ComsignTrust LTD | [Read More](https://medium.com/p/77c808abf7b1) |
+| Tue, 26 Aug 2025 08:11:52 GMT | Grok AI Privacy Meltdown: 370,000 Chats Publicly Exposed via “Share” Flaw | Finstein.ai | [Read More](https://medium.com/p/7d860d770e36) |
+| Tue, 26 Aug 2025 08:02:48 GMT | TryHackMe: Snort Challenge — The Basics - Complete Step-by-Step Walkthrough | Pavandeep Kaur | [Read More](https://medium.com/p/5d51c060535f) |
+| Tue, 26 Aug 2025 07:44:07 GMT | AI : The Double-Edged Sword in Cybersecurity ️ | RootXploit.0x | [Read More](https://medium.com/p/cfd98043f05c) |
+| Tue, 26 Aug 2025 07:41:29 GMT | Crossing the Rubicon. What can the cyber industry learn from Julius Caesar. | Martin Abramov | [Read More](https://medium.com/p/c0c50f9ccf92) |
 | Tue, 26 Aug 2025 07:36:14 GMT | Meet ReaperAI: The Hacker that isn’t Human | Yash Kumar Chauhan | [Read More](https://medium.com/p/a13176452661) |
 | Tue, 26 Aug 2025 07:31:09 GMT | Forgotten Features, Fresh Exploits: Turning Beta Endpoints into Admin Panel Access | Iski | [Read More](https://medium.com/p/6677e87b2702) |
 | Tue, 26 Aug 2025 07:30:25 GMT | Web Security for Fresher’s Project. | Tanish Dewase | [Read More](https://medium.com/p/a7c61c66d73f) |
@@ -44,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 06:16:41 GMT | CodeArcade.io — Affordable Tech Education & AI-Powered Interviews | Aditya Lakhanpal Sharma | [Read More](https://medium.com/p/a8c6156d3068) |
 | Tue, 26 Aug 2025 06:14:39 GMT | Did you know that the first bug was actually a bug? Here’s the story. | Abdullah Saifullah | [Read More](https://medium.com/p/c9844f254f2c) |
 | Tue, 26 Aug 2025 06:09:53 GMT | From Data to Decisions: AI with Microsoft Technologies Services | Masterly Solutions | [Read More](https://medium.com/p/ed598aa7e76e) |
+| Tue, 26 Aug 2025 06:08:39 GMT | ITでつなぐ日本とネパール 。一歩ずつ、着実に。 | Anish Shrestha | [Read More](https://medium.com/p/278fb31d6d3e) |
 | Tue, 26 Aug 2025 06:06:22 GMT | System Integrations | Marvel | [Read More](https://medium.com/p/f73ca07ce40e) |
 | Tue, 26 Aug 2025 06:01:21 GMT | Access Management Trends and Technologies Shaping the Future | Gauri Kale | [Read More](https://medium.com/p/782d49366d9c) |
 | Tue, 26 Aug 2025 06:00:39 GMT | Today’s Top Cyber Intelligence Highlights — Aug 26, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/934b92b25a52) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 01:28:40 GMT | Understanding XDR and Its Role in Modern Security Operations | Devaaravindlutukurty | [Read More](https://medium.com/p/8f2f362e67a2) |
 | Tue, 26 Aug 2025 01:17:37 GMT | Breaking Containers: Deep Dive into CVE-2025–9074 — Critical Docker Desktop Escape on Windows &… | Hafiz Shamnad | [Read More](https://medium.com/p/2965d7a4824f) |
 | Tue, 26 Aug 2025 01:11:22 GMT | Making an Informed Career Decision: My Approach | Poorvi Arora | [Read More](https://medium.com/p/98eadf88537a) |
-| Tue, 26 Aug 2025 01:09:23 GMT | Microsoft Partner Leak: Leaking Microsoft Employee PII and 700M+ Partner Records | Faav | [Read More](https://medium.com/p/38c9c5ea4fad) |
-| Tue, 26 Aug 2025 01:04:34 GMT | Hacking the Kobo Libra 2 | miso | [Read More](https://medium.com/p/643edc81e42d) |
-| Tue, 26 Aug 2025 00:55:32 GMT | What is “Vibe Coding”? A Guide to the New AI-First Programming Style | Fahad's Foresight | [Read More](https://medium.com/p/4d0029dc7d3e) |
-| Tue, 26 Aug 2025 00:45:42 GMT | Tuesday Morning Threat Report: Aug 26, 2025 | Mark Maguire | [Read More](https://medium.com/p/13a3d89752f0) |
-| Tue, 26 Aug 2025 00:31:32 GMT | How to Implement Spring Security in a Spring Boot Project : Step-by-Step Guide | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/38b28e772112) |
-| Tue, 26 Aug 2025 00:26:38 GMT | Self-Hosting n8n for Secure Enterprise Automation. | Cabreltchoffo | [Read More](https://medium.com/p/c5ab8e35f426) |
-| Tue, 26 Aug 2025 00:21:44 GMT | Security Without Traffic Lights: Why Agentic AI Needs Runtime Enforcement | Jaz Lin | [Read More](https://medium.com/p/f46d27a0138a) |
