@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 07:36:14 GMT | Meet ReaperAI: The Hacker that isn’t Human | Yash Kumar Chauhan | [Read More](https://medium.com/p/a13176452661) |
+| Tue, 26 Aug 2025 07:31:09 GMT | Forgotten Features, Fresh Exploits: Turning Beta Endpoints into Admin Panel Access | Iski | [Read More](https://medium.com/p/6677e87b2702) |
+| Tue, 26 Aug 2025 07:30:25 GMT | Web Security for Fresher’s Project. | Tanish Dewase | [Read More](https://medium.com/p/a7c61c66d73f) |
+| Tue, 26 Aug 2025 07:25:42 GMT | Shaping the Future: Key Trends Influencing Technology Leadership into 2025 | VantedgeSearch23 | [Read More](https://medium.com/p/3e51e8402597) |
+| Tue, 26 Aug 2025 07:23:38 GMT | Exit Sign Guards Universal Fit Design | Gardtechinc | [Read More](https://medium.com/p/9b94202d4a41) |
+| Tue, 26 Aug 2025 07:20:15 GMT | AI Privacy Exposed: What ChatGPT Really Does With Your Data | Ashutosh Kumar | [Read More](https://medium.com/p/7ef1a5e936b8) |
+| Tue, 26 Aug 2025 07:18:21 GMT | Curiously, I Tried to Find Out if My Data Was on the Dark Web, and Here’s What I Found | Navkiran Dhaliwal | [Read More](https://medium.com/p/966e08aad1ff) |
+| Tue, 26 Aug 2025 07:16:22 GMT | The Reason Strangers Have Your Phone Number | Not Just Lessons | [Read More](https://medium.com/p/85423b0d45c1) |
+| Tue, 26 Aug 2025 07:06:17 GMT | Security Services in India: The Growing Importance of Professional Security Guard Services | Ciss India | [Read More](https://medium.com/p/85ead44e6b4d) |
 | Tue, 26 Aug 2025 07:02:43 GMT | List Of Convenience stores in Florida | shobha. rentechdigital | [Read More](https://medium.com/p/209b5cceeaf9) |
 | Tue, 26 Aug 2025 06:52:33 GMT | How to Block Censys Scans with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/7af54f72d369) |
 | Tue, 26 Aug 2025 06:52:27 GMT | Breaking Down CloudSEK’s CTF Hiring Challenge — How I Solved 2/5 Flags | manoj kumar | [Read More](https://medium.com/p/641f6343483b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 00:31:32 GMT | How to Implement Spring Security in a Spring Boot Project : Step-by-Step Guide | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/38b28e772112) |
 | Tue, 26 Aug 2025 00:26:38 GMT | Self-Hosting n8n for Secure Enterprise Automation. | Cabreltchoffo | [Read More](https://medium.com/p/c5ab8e35f426) |
 | Tue, 26 Aug 2025 00:21:44 GMT | Security Without Traffic Lights: Why Agentic AI Needs Runtime Enforcement | Jaz Lin | [Read More](https://medium.com/p/f46d27a0138a) |
-| Tue, 26 Aug 2025 00:11:47 GMT | Positive and Negative Reviews-Offsec | NyaMeeEain | [Read More](https://medium.com/p/4fded8a0ef10) |
-| Tue, 26 Aug 2025 00:02:25 GMT | Secure and Verifiable at Full Speed: ExeQuantum’s Hardened and Verified ML-DSA Implementations | ExeQuantum | [Read More](https://medium.com/p/a26ee99898aa) |
-| Mon, 25 Aug 2025 23:59:28 GMT | My Top 3 Cybersecurity Tools (And Why I Use Them) | Paschal Ogana | [Read More](https://medium.com/p/ec81f23abbe2) |
-| Mon, 25 Aug 2025 23:55:58 GMT | CTI Diaries #6: Intelligence Gaps and Detection Coverage | Deniz Topaloglu | [Read More](https://medium.com/p/8f1e6c3a94c4) |
-| Mon, 25 Aug 2025 23:29:16 GMT | SOC 2 Type II — Preparation Journey | Marcus Assis | [Read More](https://medium.com/p/5966e1afbd9c) |
-| Mon, 25 Aug 2025 23:22:33 GMT | How I Reverse-Engineered a Promo Code Algorithm, Verified It, and Discovered a System Vulnerability | John Obiba Boadu | [Read More](https://medium.com/p/52c48a3ef67e) |
-| Mon, 25 Aug 2025 23:20:00 GMT | The Shocking Truth: Your Pentest Report Is Already Outdated When You Get It | Cyber-AppSec | [Read More](https://medium.com/p/c5a315c46b84) |
-| Mon, 25 Aug 2025 23:13:42 GMT | The Logical Override: Deconstructing a Cognitive Attack on LLM Safety | Caleb Grebill | [Read More](https://medium.com/p/bab2a83f273e) |
-| Mon, 25 Aug 2025 23:12:09 GMT | Left of Boom, Part 2: Mapping Out Critical Business Processes for Cyber Resilience | Jason Lawrence | [Read More](https://medium.com/p/a235da5c3d6a) |
