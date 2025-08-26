@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 10:30:37 GMT | MITRE ATT&CK Framework: SOC Analitikləri üçün Rəhbər | Zulaya Mahmudova | [Read More](https://medium.com/p/a365cedfaee3) |
+| Tue, 26 Aug 2025 10:23:31 GMT | Top 10 VAPT Companies In India - Vulnerability Assessment Services In India | Gowthammathiew | [Read More](https://medium.com/p/ed809068de11) |
+| Tue, 26 Aug 2025 10:19:35 GMT | CVEing is Believing | Giant Swarm | [Read More](https://medium.com/p/958b11c5f434) |
 | Tue, 26 Aug 2025 10:16:56 GMT | 3 XSS HackerOne Report got Duplicate | AbhirupKonwar | [Read More](https://medium.com/p/d38db9d3e771) |
 | Tue, 26 Aug 2025 10:16:39 GMT | DockerLabs Writeup — Paradise (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/ebec1ca2a51d) |
 | Tue, 26 Aug 2025 10:07:12 GMT | Terrorism remains one of the most complex challenges of our time, reshaping geopolitics, security… | Sanni Lasisi | [Read More](https://medium.com/p/6a1e9c43b86a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 05:11:20 GMT | Quantum Computing: Why Cybersecurity Needs to Prepare Now | Hari kishore | [Read More](https://medium.com/p/56ea90bc7d16) |
 | Tue, 26 Aug 2025 05:01:40 GMT | ELF Files Unmasked — A Practical Guide | Elmin Farzaliyev | [Read More](https://medium.com/p/15b9036b9a01) |
 | Tue, 26 Aug 2025 05:01:36 GMT | When Ads Lie: How I Found a Click Fraud Weakness in a Major E-Commerce Site | Devansh Patel | [Read More](https://medium.com/p/4e8c26e16780) |
-| Tue, 26 Aug 2025 04:50:28 GMT | I Haven’t Used a GUI in 6 Months and I’m Happier for It | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/399cbb3c1e02) |
-| Tue, 26 Aug 2025 04:50:24 GMT | How to Do Real-Time Face Swapping in Zoom, Discord, and Google Meet (DeepFaceLive Guide) | Amit Kumar | [Read More](https://medium.com/p/3e76e7428169) |
-| Tue, 26 Aug 2025 04:38:54 GMT | Why Most Directory Websites Fail (and How to Make Yours Succeed) | aDirectory | [Read More](https://medium.com/p/4216e4222b72) |
