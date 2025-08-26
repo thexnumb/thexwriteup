@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 17:31:40 GMT | : Hands-on Wazuh Setup - Parrot OS + LabVM (Cyber Operations) | CybVulnHunter | [Read More](https://medium.com/p/c82ae7ba2d0d) |
+| Tue, 26 Aug 2025 17:28:13 GMT | HackTheBox: Dancing | Rahaliashraf | [Read More](https://medium.com/p/79a19f6cc51d) |
+| Tue, 26 Aug 2025 17:21:07 GMT | AI-Powered Cyberattacks: The Next Frontier in Digital Threats | Meravytes | [Read More](https://medium.com/p/170609175d4b) |
+| Tue, 26 Aug 2025 17:16:37 GMT | Hackviser — Shadow Track Çözümü | Berent Oral | [Read More](https://medium.com/p/4c9f9feaedc8) |
+| Tue, 26 Aug 2025 17:16:20 GMT | Open Source Security Tools | CybVulnHunter | [Read More](https://medium.com/p/5bc137d1ec8c) |
 | Tue, 26 Aug 2025 17:14:46 GMT | # How a Misconfigured API Endpoint Helped Me Earn a $$$ Bounty | R3DD | [Read More](https://medium.com/p/0a6d54c46c2d) |
 | Tue, 26 Aug 2025 17:12:39 GMT | Threat Campaign: CORNFLAKE.V3 Backdoor Spread via Fake CAPTCHA (ClickFix Technique) | Jon C | [Read More](https://medium.com/p/5c43ace5adf5) |
+| Tue, 26 Aug 2025 17:12:26 GMT | Proving Grounds Walkthrough: Exfiltrated | Mihail Pana | [Read More](https://medium.com/p/2a305c5e2605) |
+| Tue, 26 Aug 2025 17:11:23 GMT | Pengenalan Teknologi Sistem Terintegrasi | Zifa Tea Azzahra | [Read More](https://medium.com/p/192068c0631f) |
 | Tue, 26 Aug 2025 17:09:51 GMT | The Purdue Model for ICS Security | ThatOTSecurityGuy | [Read More](https://medium.com/p/a6932877e8df) |
 | Tue, 26 Aug 2025 17:09:35 GMT | Gobuster (reconn tool) | vulnhunter | [Read More](https://medium.com/p/0310a3d8fc04) |
 | Tue, 26 Aug 2025 17:09:11 GMT | Sharing my journey into cybersecurity. | Arcane Insights | [Read More](https://medium.com/p/1e498ccb24ee) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 14:12:15 GMT | Before You Build Another Security Dashboard, Read this. | Dmytro Afanasiev | [Read More](https://medium.com/p/88f8f6908291) |
 | Tue, 26 Aug 2025 14:11:06 GMT | Analyzing Information Security Step by Step | Cyber Security Research | [Read More](https://medium.com/p/84d0ae8425af) |
 | Tue, 26 Aug 2025 14:09:50 GMT | Analyzing Information Security Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/57a1035fc4ef) |
-| Tue, 26 Aug 2025 14:09:32 GMT | The Fastest Way to Find a Bug in a Website (With Real Examples) | Mohammed Gabic | [Read More](https://medium.com/p/6afd5a83d5b3) |
-| Tue, 26 Aug 2025 14:08:33 GMT | Analyzing Incident Response with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/d574c46491a4) |
-| Tue, 26 Aug 2025 14:07:16 GMT | Analyzing Incident Response for a Safer Internet | Cyber Security Research | [Read More](https://medium.com/p/8f1d719f606a) |
-| Tue, 26 Aug 2025 14:05:57 GMT | Analyzing Incident Response for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/fec06e55228a) |
-| Tue, 26 Aug 2025 14:05:31 GMT | How Unlimited Backup Code Generation Can Break Account Security | Ahmadelkali | [Read More](https://medium.com/p/dc03d3ffbf87) |
-| Tue, 26 Aug 2025 14:03:28 GMT | Prompt injection is turning AI into double agents that hack your personal information | Nicolle Weeks | [Read More](https://medium.com/p/267b75683d13) |
-| Tue, 26 Aug 2025 14:02:38 GMT | Cyber Briefing: 2025.08.26 | CyberMaterial | [Read More](https://medium.com/p/419071faaffc) |
