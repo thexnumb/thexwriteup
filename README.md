@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 05:11:20 GMT | Quantum Computing: Why Cybersecurity Needs to Prepare Now | Hari kishore | [Read More](https://medium.com/p/56ea90bc7d16) |
+| Tue, 26 Aug 2025 05:01:40 GMT | ELF Files Unmasked — A Practical Guide | Elmin Farzaliyev | [Read More](https://medium.com/p/15b9036b9a01) |
+| Tue, 26 Aug 2025 05:01:36 GMT | When Ads Lie: How I Found a Click Fraud Weakness in a Major E-Commerce Site | Devansh Patel | [Read More](https://medium.com/p/4e8c26e16780) |
+| Tue, 26 Aug 2025 04:50:28 GMT | I Haven’t Used a GUI in 6 Months and I’m Happier for It | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/399cbb3c1e02) |
+| Tue, 26 Aug 2025 04:50:24 GMT | How to Do Real-Time Face Swapping in Zoom, Discord, and Google Meet (DeepFaceLive Guide) | Amit Kumar | [Read More](https://medium.com/p/3e76e7428169) |
 | Tue, 26 Aug 2025 04:38:54 GMT | Why Most Directory Websites Fail (and How to Make Yours Succeed) | aDirectory | [Read More](https://medium.com/p/4216e4222b72) |
 | Tue, 26 Aug 2025 04:33:20 GMT | 8. Intro to XSS: How I Found My First Bug | Abhijeet kumawat | [Read More](https://medium.com/p/0046a4dbec4b) |
 | Tue, 26 Aug 2025 04:24:20 GMT | My Home Lab Is Literally a Fire Hazard | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/cfc9786ee317) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 19:41:25 GMT | The Shame of Silent Love | Elan Tengis | [Read More](https://medium.com/p/3dc4da9fac99) |
 | Mon, 25 Aug 2025 19:31:32 GMT | How JWT Misuse Almost Exposed Our Entire User Base | Nikulsinh Rajput | [Read More](https://medium.com/p/3be62243c441) |
 | Mon, 25 Aug 2025 19:28:49 GMT | ZIP Slip leading to Remote Command Execution in Java Application | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/fd3c41150b71) |
-| Mon, 25 Aug 2025 19:28:22 GMT | Why ISACA Member | Miguel Norberto | [Read More](https://medium.com/p/7a516757a6d1) |
-| Mon, 25 Aug 2025 19:25:23 GMT | Gitxray v1.0.18: VirusTotal integration, Kali Linux and more | Kulkan Security | [Read More](https://medium.com/p/ddcf4c9ed5a3) |
-| Mon, 25 Aug 2025 19:16:39 GMT | CORS (Cross-Origin Resource Sharing) Explained Simply and Deeply | Abhinav Singh | [Read More](https://medium.com/p/1ae1501795d6) |
-| Mon, 25 Aug 2025 19:16:22 GMT | Day 56 — OverTheWire Leviathan: A Complete Beginner’s Guide to Binary Exploitation | Jinay | [Read More](https://medium.com/p/f44a307f6ec3) |
-| Mon, 25 Aug 2025 19:09:21 GMT | Easy Peasy THM writeup - by 2No0b4YoU | 2No0b4YoU | [Read More](https://medium.com/p/5a4a737b453d) |
