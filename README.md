@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 20:21:34 GMT | How I Built a Formal Verification System to Prevent DeFi Exploits | Kwame Bryan | [Read More](https://medium.com/p/5317a13239f4) |
+| Tue, 26 Aug 2025 20:18:54 GMT | A Closer Look at Xray The Web Security Scanner You Need to Know | Muhammad Adnan Apriliyansyah | [Read More](https://medium.com/p/27953af6ab36) |
+| Tue, 26 Aug 2025 20:16:48 GMT | Why “Never Trust, Always Verify” is the Only Cybersecurity Strategy That Works | Mohanad Khaled | [Read More](https://medium.com/p/3996a4a62a59) |
+| Tue, 26 Aug 2025 20:16:17 GMT | Security Methods for Data Privacy | Srikanthkonduru | [Read More](https://medium.com/p/5428c1c58ac8) |
+| Tue, 26 Aug 2025 20:15:16 GMT | WebRTC E2EE with Insertable Streams | Justin Downes | [Read More](https://medium.com/p/a800696a3df4) |
+| Tue, 26 Aug 2025 20:14:55 GMT | Architecture Over Appearances | Malik Vero | [Read More](https://medium.com/p/bdf6e59f76d5) |
+| Tue, 26 Aug 2025 20:04:27 GMT | Catching Hackers with a DIY Cloud Honeypot | Jesse Ridley | [Read More](https://medium.com/p/8dbb96cffe89) |
+| Tue, 26 Aug 2025 20:00:31 GMT | Building a Production-Ready Zero-Trust Network Access (ZTNA) System: A Complete Implementation… | Himansu Saha | [Read More](https://medium.com/p/3672358fe4a5) |
+| Tue, 26 Aug 2025 19:50:04 GMT | Basic Pentesting CTF — Tryhackme (THM) | Ammar Ahmed | [Read More](https://medium.com/p/d8a1e112925a) |
+| Tue, 26 Aug 2025 19:48:50 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/78b4635369b7) |
+| Tue, 26 Aug 2025 19:43:43 GMT | How I Passed the eJPT and What I Learned 2025 | Oxja | [Read More](https://medium.com/p/3782d25656dc) |
+| Tue, 26 Aug 2025 19:33:27 GMT | Okta Breach and the Supply Chain Domino Effect | Vrushank Thakkar | [Read More](https://medium.com/p/709cd8dc4fac) |
 | Tue, 26 Aug 2025 19:29:01 GMT | Looking for Leaked Credentials? The 3 Best Tools for Bug Hunters / Red Teamers | Cheirishpro | [Read More](https://medium.com/p/1c9e0891c321) |
 | Tue, 26 Aug 2025 19:28:00 GMT | From cyberwar to algorithmic sovereignty | Hayat Outahar | [Read More](https://medium.com/p/f9b0bc1bdae8) |
 | Tue, 26 Aug 2025 19:17:34 GMT | [Part 2] Who Is Impacted by the Cyber Resilience Act? | Cyberkech | [Read More](https://medium.com/p/b253ed2d417a) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 15:33:15 GMT | Here’s how deepfake vishing attacks work, and why they can be hard to detect | Welsh | [Read More](https://medium.com/p/28e6997f1db3) |
 | Tue, 26 Aug 2025 15:32:30 GMT | “Day 20: The Chain Reaction — From a Tiny IDOR to a Supply Chain Nightmare” | Aman Sharma | [Read More](https://medium.com/p/7add2d72335a) |
 | Tue, 26 Aug 2025 15:31:26 GMT | Does government surveillance make us safer, or keep us captive? | Question It | [Read More](https://medium.com/p/9147ccd71b3a) |
-| Tue, 26 Aug 2025 15:31:17 GMT | The best managed backup services for tax and accounting teams in 2025 | Ayush Sharma | [Read More](https://medium.com/p/82153d98c608) |
-| Tue, 26 Aug 2025 15:29:29 GMT | AI Tools in Ticketing Systems | Cyber Timi | [Read More](https://medium.com/p/03193a1a6cb1) |
-| Tue, 26 Aug 2025 15:29:17 GMT | How a Network Outage in Nevada Became a National Cyber Wake-Up Call | Dhruvdeep Singh | [Read More](https://medium.com/p/1f134f9c9e84) |
-| Tue, 26 Aug 2025 15:26:40 GMT | ️‍♂️ OSINT Mastery: A Veteran’s Beginner’s Guide to Open Source Intelligence | RootXploit.0x | [Read More](https://medium.com/p/d480a57dc0c5) |
-| Tue, 26 Aug 2025 15:24:58 GMT | Stored XSS in Scada-LTS Data Point Edit | 0x5ea3o1f | [Read More](https://medium.com/p/42c7383402f0) |
-| Tue, 26 Aug 2025 15:24:45 GMT | Massive Grok AI Privacy Breach: 370,000+ User Conversations Exposed on Google | Fazal | [Read More](https://medium.com/p/7300ef935d80) |
-| Tue, 26 Aug 2025 15:24:19 GMT | Authentication vulnerabilities - Username Enumeration via Subtly Different Responses - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/a33e2e6bf48d) |
-| Tue, 26 Aug 2025 15:13:52 GMT | 5 Secrets Senior Developers Don’t Tell You About API Security | The Dev Notebook | [Read More](https://medium.com/p/c19626f5c334) |
-| Tue, 26 Aug 2025 15:11:53 GMT | Security Equipment for Modern Protection Needs | bravo Security | [Read More](https://medium.com/p/7b5f35bcaab3) |
-| Tue, 26 Aug 2025 15:11:25 GMT | Stored Cross-Site Scripting in Scada-LTS Data Point Name | 0x5ea3o1f | [Read More](https://medium.com/p/8ff30af740c0) |
-| Tue, 26 Aug 2025 15:09:27 GMT | Cloud EDI Benefits for Small Business: A Comprehensive Overview | Commport Communications | [Read More](https://medium.com/p/7b7b0b56bf40) |
-| Tue, 26 Aug 2025 15:06:33 GMT | Blue Team Labs Online: Network Analysis — Malware Compromise | /Luka-Babetzki | [Read More](https://medium.com/p/8b3f89f29310) |
