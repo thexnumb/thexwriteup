@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 18:20:11 GMT | I Tried Breaking Into My Accounts | Aj | [Read More](https://medium.com/p/c800b44f5efd) |
+| Tue, 26 Aug 2025 18:18:40 GMT | Social Media: The Hacker’s Favorite Playground | Shahzaib | [Read More](https://medium.com/p/28d7f5f1efde) |
+| Tue, 26 Aug 2025 18:15:39 GMT | Cyberbiosecurity : Securing Human Bodies | Shubhamkhatang | [Read More](https://medium.com/p/eef04fe150b9) |
+| Tue, 26 Aug 2025 18:13:26 GMT | How to Hunt Easy Vulnerabilities on Websites | Monika sharma | [Read More](https://medium.com/p/44024c3e301f) |
+| Tue, 26 Aug 2025 18:13:22 GMT | The Malware That Hacked macOS, Windows, and Linux — All at Once | Noel | [Read More](https://medium.com/p/536445648bb2) |
+| Tue, 26 Aug 2025 18:13:17 GMT | Unique ways to Recon for Bug Hunters: Short series [Part 2] | RivuDon | [Read More](https://medium.com/p/735d0b2fad2b) |
+| Tue, 26 Aug 2025 18:11:53 GMT | Bypassing CAPTCHAs : From Regex Bots to AI | Vipul Sonule | [Read More](https://medium.com/p/27091713205e) |
+| Tue, 26 Aug 2025 18:10:52 GMT | From Local Networks to Global Impact: My Journey in Building Secure Infrastructure for Communities… | BRUNO VINICIUS CAVANA RUY | [Read More](https://medium.com/p/3067a9f7aa52) |
+| Tue, 26 Aug 2025 18:09:41 GMT | TryHackMe: Simple CTF Writeup - by 2No0b4YoU | 2No0b4YoU | [Read More](https://medium.com/p/882579839b55) |
+| Tue, 26 Aug 2025 18:09:11 GMT | Node.js Local Privilege Escalation Vulnerability | Monika sharma | [Read More](https://medium.com/p/0963cf7d44fb) |
+| Tue, 26 Aug 2025 18:06:11 GMT | From Entry-Level to Leadership: Cybersecurity Certifications Roadmap | Lucia Adams | [Read More](https://medium.com/p/fd8f1a27c8bb) |
+| Tue, 26 Aug 2025 18:04:11 GMT | PENTESTING WEB | lukewago | [Read More](https://medium.com/p/a86e4904749e) |
+| Tue, 26 Aug 2025 17:59:54 GMT | Microsoft’s New AI Risk Assessment Framework — A Step Forward | Matthew.Rosenquist | [Read More](https://medium.com/p/bcddca261918) |
+| Tue, 26 Aug 2025 17:57:48 GMT | How to Spy on Instagram Securely with the Best Spy Apps | Narjis Batool | [Read More](https://medium.com/p/ecddd183c97c) |
+| Tue, 26 Aug 2025 17:55:52 GMT | The Apple Wallet Hack Proved It: | Burns | [Read More](https://medium.com/p/512ad90df87f) |
+| Tue, 26 Aug 2025 17:54:23 GMT | Drosera: The Watchdog of DeFi Automation | Asmodeus | [Read More](https://medium.com/p/721594daac39) |
+| Tue, 26 Aug 2025 17:52:17 GMT | TuesdayTool 33: Gui-Dorking: A Modern Approach to Google Dorking | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/a7675e06def7) |
+| Tue, 26 Aug 2025 17:52:14 GMT | Authentication vulnerabilities - Username enumeration via response timing - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/d75b34007469) |
+| Tue, 26 Aug 2025 17:45:23 GMT | The Psychology of the Cyber-Attack: Why Your Team Is the Easiest Door to Hack | vydhi | [Read More](https://medium.com/p/9f273745f5ed) |
+| Tue, 26 Aug 2025 17:32:51 GMT | The Stalker: How Shadow Profiles Put Your Privacy At Risk | O. J. Okpabi | [Read More](https://medium.com/p/a9d4c4008e67) |
 | Tue, 26 Aug 2025 17:31:40 GMT | : Hands-on Wazuh Setup - Parrot OS + LabVM (Cyber Operations) | CybVulnHunter | [Read More](https://medium.com/p/c82ae7ba2d0d) |
 | Tue, 26 Aug 2025 17:28:13 GMT | HackTheBox: Dancing | Rahaliashraf | [Read More](https://medium.com/p/79a19f6cc51d) |
 | Tue, 26 Aug 2025 17:21:07 GMT | AI-Powered Cyberattacks: The Next Frontier in Digital Threats | Meravytes | [Read More](https://medium.com/p/170609175d4b) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 14:43:45 GMT | How I Use AI to Write Viral Blog Posts (My Exact 5-Step System) | Fahad's Foresight | [Read More](https://medium.com/p/c4c056c41d29) |
 | Tue, 26 Aug 2025 14:43:14 GMT | Elevating My Cybersecurity Skills with Microsoft Security, Compliance, and Identity Fundamentals… | Dhruvish Rathod | [Read More](https://medium.com/p/c2a4a9efa464) |
 | Tue, 26 Aug 2025 14:42:06 GMT | WordPress Credential Attacks: Brute-Forcing Usernames and Passwords — A Step-by-Step Guide for… | Very Lazy Tech | [Read More](https://medium.com/p/811024838d27) |
-| Tue, 26 Aug 2025 14:39:03 GMT | Shadow AI: The Hidden Cyber Risk Lurking in Your Workplace | TheReviewHive | [Read More](https://medium.com/p/c38d5d8c8238) |
-| Tue, 26 Aug 2025 14:37:06 GMT | I Studied Cybersecurity From Books. Then a Real Attack Tested My Knowledge | Shahzaib | [Read More](https://medium.com/p/8ca8c42fa9b0) |
-| Tue, 26 Aug 2025 14:35:45 GMT | The Walk That Rewires Your Brain | Vijay Kumar Gupta | [Read More](https://medium.com/p/845ef2ed5ea9) |
-| Tue, 26 Aug 2025 14:27:36 GMT | How to Integrate Low-Code/No-Code Tools Without Sacrificing Quality | Shubham | [Read More](https://medium.com/p/d5e52e0f03a1) |
-| Tue, 26 Aug 2025 14:26:15 GMT | 7 Essential Cybersecurity Tools for Small Businesses | Areeba | [Read More](https://medium.com/p/9e30c3ed4b7f) |
-| Tue, 26 Aug 2025 14:23:39 GMT | The Day AI Cloned My Friend’s Voice and Asked Me for Money | Shahzaib | [Read More](https://medium.com/p/178a6a34c041) |
-| Tue, 26 Aug 2025 14:23:37 GMT | Critical Vulnerability Discovery: Passwordless Invite Link Authentication Bypass Got me 500$ | Lakshya | [Read More](https://medium.com/p/215d5a3277d4) |
-| Tue, 26 Aug 2025 14:23:24 GMT | New AI Attack Exploits Image Downscaling to Hide Malicious Prompts | Technijian | [Read More](https://medium.com/p/5682cf571146) |
-| Tue, 26 Aug 2025 14:21:32 GMT | Keep Your Game Data Safe with Hardware Encryption | Opal Lock by Fidelity Height | [Read More](https://medium.com/p/9dc704722822) |
-| Tue, 26 Aug 2025 14:20:35 GMT | How TrickBot Trojan Adapts with Smarter Tactics | Keepnet Labs | [Read More](https://medium.com/p/19a0f5fed11e) |
-| Tue, 26 Aug 2025 14:19:33 GMT | RDP Under Fire: 30,000 IPs Are Scanning Microsoft Remote Desktops | Pentestjunkie07 | [Read More](https://medium.com/p/4aee0cf2f670) |
-| Tue, 26 Aug 2025 14:18:00 GMT | You should know love is not all sunshine and rainbows | bloom | [Read More](https://medium.com/p/23a30d59a972) |
-| Tue, 26 Aug 2025 14:17:45 GMT | 150+ Fake Mozilla Extensions, a Single Backend — and How Paid Media Distorts Cybersecurity | PhishDestroy | [Read More](https://medium.com/p/ff529c6121fb) |
-| Tue, 26 Aug 2025 14:17:27 GMT | Merging Physical & Digital : Electronic tattoo technology | Cosmic Ink | [Read More](https://medium.com/p/d8311caf3a6b) |
-| Tue, 26 Aug 2025 14:17:22 GMT | Cyber Resilience Isn’t Optional for Smaller Teams Anymore | Graylog | [Read More](https://medium.com/p/399a20d9fab7) |
-| Tue, 26 Aug 2025 14:14:14 GMT | I Became A Elite Hacker! | Mainekhacker | [Read More](https://medium.com/p/77b47a54ed48) |
-| Tue, 26 Aug 2025 14:12:22 GMT | Analyzing Information Security That Drives Innovation | Cyber Security Research | [Read More](https://medium.com/p/21fda2eb08e9) |
-| Tue, 26 Aug 2025 14:12:15 GMT | Before You Build Another Security Dashboard, Read this. | Dmytro Afanasiev | [Read More](https://medium.com/p/88f8f6908291) |
-| Tue, 26 Aug 2025 14:11:06 GMT | Analyzing Information Security Step by Step | Cyber Security Research | [Read More](https://medium.com/p/84d0ae8425af) |
-| Tue, 26 Aug 2025 14:09:50 GMT | Analyzing Information Security Like a Pro | Cyber Security Research | [Read More](https://medium.com/p/57a1035fc4ef) |
