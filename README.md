@@ -12,10 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 11:33:14 GMT | Why Data Preprocessing is 80% of the Work in Machine Learning | Taghrida Mohamed (AI/ML Enthusiast) | [Read More](https://medium.com/p/91434ac8692d) |
+| Tue, 26 Aug 2025 11:30:48 GMT | Cybersecurity in India: Protecting the Digital Future (2025 Guide) | Amit solanki | [Read More](https://medium.com/p/0e137577046e) |
+| Tue, 26 Aug 2025 11:25:58 GMT | Cracking the Code: Dynamic Analysis & Debugging in Malware Research | Furkanctiner | [Read More](https://medium.com/p/0b47da3b39c4) |
+| Tue, 26 Aug 2025 11:25:01 GMT | Automating Subdomain Enumeration with Bash — My Custom Script | Kartik | [Read More](https://medium.com/p/dd3861fd06c8) |
+| Tue, 26 Aug 2025 11:24:25 GMT | Cyberbiosecurity: Protecting the Bio-Digital Frontier | Cybersecurity Umbrella | [Read More](https://medium.com/p/9de77062bbae) |
+| Tue, 26 Aug 2025 11:24:11 GMT | The New Age of Cyberattacks: How the Attack Surface is Evolving with AI | Meron | [Read More](https://medium.com/p/e7ecd4c8ee18) |
+| Tue, 26 Aug 2025 11:22:02 GMT | LLMs and Security: Promises, Risks, and the Future of AI Defense | Arptech | [Read More](https://medium.com/p/ae9901811058) |
+| Tue, 26 Aug 2025 11:22:00 GMT | Understanding Antivirus Evasion Tactics Part1: ️From XOR ➡️ Runtime Loading: | Cyb3rCr0wCC | [Read More](https://medium.com/p/df791e4f42df) |
+| Tue, 26 Aug 2025 11:21:39 GMT | When AI Gets Sneaky: Deepfakes and Social Engineering | Brittney Ginther | [Read More](https://medium.com/p/84bcdb549672) |
+| Tue, 26 Aug 2025 11:20:21 GMT | The One Mistake Costing You Millions in Undetected System Failures | The Bot Group | [Read More](https://medium.com/p/a514f5244e88) |
+| Tue, 26 Aug 2025 11:20:13 GMT | From Zero to Lab: How I Set Up My Own Cybersecurity Playground; | aysha | [Read More](https://medium.com/p/ac393e7c3c80) |
+| Tue, 26 Aug 2025 11:18:54 GMT | Your Computer’s Overloaded — Here’s the Fix | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/ec9758a1158c) |
+| Tue, 26 Aug 2025 11:18:43 GMT | Risky (Code) Business: Why 81% of Devs Play Fast and Loose with Vulnerabilities | Eran Kinsbruner | [Read More](https://medium.com/p/a53488882298) |
 | Tue, 26 Aug 2025 11:15:54 GMT | Home Lab: A Web Application Firewall | Bennet Sharwin | [Read More](https://medium.com/p/8a2fd5726431) |
 | Tue, 26 Aug 2025 11:14:33 GMT | IDOR in React.js: Insecure Direct Object Reference Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/15d05400debd) |
 | Tue, 26 Aug 2025 11:13:45 GMT | TryHackMe Challenge — Surfer | Aniket Pattanshetti | [Read More](https://medium.com/p/1dd6fae5823b) |
 | Tue, 26 Aug 2025 11:12:12 GMT | SANS Incident Response Framework | Mahantesh Katapur | [Read More](https://medium.com/p/28cdf446ef82) |
+| Tue, 26 Aug 2025 11:07:26 GMT | Week 3: From Probability to Cryptographic Proof: Understanding Perfect Secrecy | Joshua O. Berkoh | [Read More](https://medium.com/p/c85fab8696bc) |
 | Tue, 26 Aug 2025 11:05:52 GMT | Demystifying Regex: The Superpower Hiding in Plain Text | Aqsa Rasheed | [Read More](https://medium.com/p/7016fd4023fe) |
 | Tue, 26 Aug 2025 11:04:15 GMT | Deconstructing IcedID: A Hands-On Walkthrough of a Modern Malware Attack | Sohan Kanna D | [Read More](https://medium.com/p/5f40fec4e222) |
 | Tue, 26 Aug 2025 11:01:39 GMT | Budgeting for a PQC Future | Left4Zed | [Read More](https://medium.com/p/3891a0fbee27) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 06:23:28 GMT | ️‍♂️ The Forgotten API Endpoints — Deep Recon & Defense Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1507ff2da8a1) |
 | Tue, 26 Aug 2025 06:22:16 GMT | Mobile App Development Company in Gurugram — Build Apps That Drive Growth | Ajath Infotech | [Read More](https://medium.com/p/6e626638e891) |
 | Tue, 26 Aug 2025 06:22:14 GMT | ️ The Forgotten API Endpoints: How Recon Finds Gold Where Developers Don’t Look | Narendar Battula (nArEn) | [Read More](https://medium.com/p/58fb04b97a51) |
-| Tue, 26 Aug 2025 06:21:13 GMT | ️ OSINT-Driven API Recon: Finding Endpoints Without Touching the Target | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d98dbb8c262e) |
-| Tue, 26 Aug 2025 06:20:28 GMT | Blocking Suspected DDoS IPs with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/d61df33f0ea4) |
-| Tue, 26 Aug 2025 06:16:41 GMT | CodeArcade.io — Affordable Tech Education & AI-Powered Interviews | Aditya Lakhanpal Sharma | [Read More](https://medium.com/p/a8c6156d3068) |
-| Tue, 26 Aug 2025 06:14:39 GMT | Did you know that the first bug was actually a bug? Here’s the story. | Abdullah Saifullah | [Read More](https://medium.com/p/c9844f254f2c) |
-| Tue, 26 Aug 2025 06:09:53 GMT | From Data to Decisions: AI with Microsoft Technologies Services | Masterly Solutions | [Read More](https://medium.com/p/ed598aa7e76e) |
-| Tue, 26 Aug 2025 06:08:39 GMT | ITでつなぐ日本とネパール 。一歩ずつ、着実に。 | Anish Shrestha | [Read More](https://medium.com/p/278fb31d6d3e) |
-| Tue, 26 Aug 2025 06:06:22 GMT | System Integrations | Marvel | [Read More](https://medium.com/p/f73ca07ce40e) |
-| Tue, 26 Aug 2025 06:01:21 GMT | Access Management Trends and Technologies Shaping the Future | Gauri Kale | [Read More](https://medium.com/p/782d49366d9c) |
-| Tue, 26 Aug 2025 06:00:39 GMT | Today’s Top Cyber Intelligence Highlights — Aug 26, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/934b92b25a52) |
-| Tue, 26 Aug 2025 06:00:15 GMT | My memories on stage were a suitcase of struggles — till it broke open and I saw what made it all… | Kapil Arora | [Read More](https://medium.com/p/9929505ab171) |
-| Tue, 26 Aug 2025 05:59:34 GMT | Introduction To 6 Weeks Cybersecurity Industrial Training in Chandigarh | HackersPrey | [Read More](https://medium.com/p/90f1edbb7b6a) |
-| Tue, 26 Aug 2025 05:55:04 GMT | Inside the Mind of a Hacker: How They Really Pick Targets | Aj | [Read More](https://medium.com/p/1ad0e704240e) |
-| Tue, 26 Aug 2025 05:49:46 GMT | Analyzing Incident Response for Modern Enterprises | Cyber Security Research | [Read More](https://medium.com/p/9b1e8d926441) |
-| Tue, 26 Aug 2025 05:49:38 GMT | The End of Passwords: How Silent Authentication and Biometrics Are Redefining UX Security | mehmet celik | [Read More](https://medium.com/p/9a57cd68c665) |
