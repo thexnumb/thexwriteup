@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 19:14:20 GMT | Best Security Camera System in 2025 | Amy Jackson | [Read More](https://medium.com/p/07cf41441c1f) |
+| Tue, 26 Aug 2025 19:12:13 GMT | Why Most SQLi Payloads Fail in 2025 (and How to Craft Better Ones) | Sukhveer Singh | [Read More](https://medium.com/p/b874bdbdd697) |
+| Tue, 26 Aug 2025 19:09:20 GMT | Recruitment Scams: The Hidden Crisis Costing Billions & Shattering Lives | NIkhil Kumar | [Read More](https://medium.com/p/8baef306b21f) |
+| Tue, 26 Aug 2025 18:56:25 GMT | Business Logic Vulnerabilities: Simple Tricks, Serious Consequences | M.sriman | [Read More](https://medium.com/p/4f3ffc3d79a3) |
+| Tue, 26 Aug 2025 18:55:09 GMT | AI Hacking Explained: How Artificial Intelligence is Transforming Cybersecurity, Ethical Hacking… | Pensora IQ Team | [Read More](https://medium.com/p/0289039a517e) |
+| Tue, 26 Aug 2025 18:54:58 GMT | The Hidden Cost of Scams: Why Digital Verification is No Longer Optional | NIkhil Kumar | [Read More](https://medium.com/p/964c3ae451f2) |
+| Tue, 26 Aug 2025 18:51:41 GMT | Cyber Threat Intelligence: Turning Data into Defense | SafeAeon Inc. | [Read More](https://medium.com/p/c73b2ea571dc) |
+| Tue, 26 Aug 2025 18:49:52 GMT | The Lesson I Learned on the Bathroom Floor | Angie Hawkins | [Read More](https://medium.com/p/50a3367a7f68) |
+| Tue, 26 Aug 2025 18:46:26 GMT | Why Outsourcing Your SOC is a Smarter Move | SafeAeon Inc. | [Read More](https://medium.com/p/64c60ce9290c) |
 | Tue, 26 Aug 2025 18:42:27 GMT | CEH Practical Exam Notes (v12) — iLabs Walkthrough | Hunter | [Read More](https://medium.com/p/48f30320b924) |
 | Tue, 26 Aug 2025 18:38:40 GMT | The Data Broker Threat to Healthcare and Finance | mePrism Privacy | [Read More](https://medium.com/p/011badf34ba3) |
 | Tue, 26 Aug 2025 18:36:09 GMT | Zscaler vs. Netskope on AWS: Who’s the Better Cloud Bouncer? | Sunnysidescuba | [Read More](https://medium.com/p/acf945664b7d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 15:02:41 GMT | From 50+ sticky notes to one secure app: My experience with a Mac password manager that works | Olha Novitska | [Read More](https://medium.com/p/2ef676ff0781) |
 | Tue, 26 Aug 2025 15:01:49 GMT | Phishing Emails: The Trap! | Sparshika | [Read More](https://medium.com/p/fdf7f1681534) |
 | Tue, 26 Aug 2025 15:01:41 GMT | LLM Security Vulnerabilities: The Attack Vectors Nobody’s Talking About in August 2025 | Tech Digest HQ | [Read More](https://medium.com/p/f6b5c7cfc040) |
-| Tue, 26 Aug 2025 14:57:41 GMT | OWASP Mobile Top 10: M1 — Improper Credential Usage (“Don’t leave the keys under the doormat”) | bithowl | [Read More](https://medium.com/p/e7749856ce80) |
-| Tue, 26 Aug 2025 14:57:35 GMT | Beginner’s Guide to Securing Your Smart Home Devices with AI | PromptSecAI | [Read More](https://medium.com/p/068691ad3dae) |
-| Tue, 26 Aug 2025 14:53:46 GMT | AWS IAM Tutorial for Beginners: Easy Steps to Manage Access | Josh Lee | [Read More](https://medium.com/p/46063d44ba83) |
-| Tue, 26 Aug 2025 14:53:40 GMT | Beyond the Firewalls: A Closer Look at the Silent Attack That Disrupted Maryland Mobility | Inforsecpro | [Read More](https://medium.com/p/0e3d0697f63b) |
-| Tue, 26 Aug 2025 14:52:28 GMT | JavaScript Deobfuscation Skills Assessment | Luke | [Read More](https://medium.com/p/8452a29f3c0a) |
-| Tue, 26 Aug 2025 14:51:59 GMT | The Case for OAuth | David Fagbuyiro | [Read More](https://medium.com/p/bf015601967d) |
-| Tue, 26 Aug 2025 14:51:41 GMT | Day 87: Security Principles II | Nile Okomo | [Read More](https://medium.com/p/11e9b2855681) |
-| Tue, 26 Aug 2025 14:51:14 GMT | Utilizando SSRF para explorar MySQL | Haizaki_00 | [Read More](https://medium.com/p/421570498b74) |
-| Tue, 26 Aug 2025 14:48:30 GMT | Security Modernization: Aligning Technology with Business Risk | Claritus Consulting | [Read More](https://medium.com/p/18532f99ead6) |
