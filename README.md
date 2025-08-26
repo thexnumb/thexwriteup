@@ -12,10 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 16:18:10 GMT | ️ How I Earned a $600 Bug Bounty with Metasploit (Beginner-Friendly Case Study) | Carylrobert | [Read More](https://medium.com/p/04348d022941) |
+| Tue, 26 Aug 2025 16:16:52 GMT | Protecting CI/CD Secrets with Vault and Automation | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e9be194c32c2) |
+| Tue, 26 Aug 2025 16:10:32 GMT | Disk Imaging Using FTK Imager | Aaditya Pokhrel | [Read More](https://medium.com/p/3c1923ca866b) |
+| Tue, 26 Aug 2025 16:09:19 GMT | The Day I Went Code-Blind — And What It Taught Me About OSINT | Sam Galope | [Read More](https://medium.com/p/e37f68880a8a) |
+| Tue, 26 Aug 2025 16:04:20 GMT | MCP Server Security Analysis | Mohamed Yassine Kallel | [Read More](https://medium.com/p/86f850d43e2d) |
+| Tue, 26 Aug 2025 16:02:23 GMT | How I Turned My Experience Into My First Ethical Hacking Ebook | Amit Shukla | [Read More](https://medium.com/p/368faa293eb0) |
+| Tue, 26 Aug 2025 16:01:42 GMT | 10 Penetration Testing Projects with Python to Earn $3,000/Month | Carylrobert | [Read More](https://medium.com/p/4d7c71e104f7) |
+| Tue, 26 Aug 2025 16:01:37 GMT | How I Found a Critical Password Reset Bug in the BB program(and Got $4,000) | Imran Hossain | [Read More](https://medium.com/p/a22fffe285e1) |
+| Tue, 26 Aug 2025 15:56:26 GMT | From Python Scripts to the Cloud: My Journey to Becoming a Cloud SDE | Naveen B | [Read More](https://medium.com/p/6c3da0d07823) |
+| Tue, 26 Aug 2025 15:55:16 GMT | Fireside Chat: How Healthcare and Biotech Teams Build Secure, Compliant AI Infrastructure | Sage Elliott | [Read More](https://medium.com/p/e45ca7176c1a) |
+| Tue, 26 Aug 2025 15:49:01 GMT | 2 XSS vulnerabilities: From Open Redirect to Reflected XSS and 100€ | BugHunter021 | [Read More](https://medium.com/p/c03c4ade3978) |
+| Tue, 26 Aug 2025 15:48:00 GMT | IDOR: Attack vectors, exploitation, bypasses and chains | BugHunter021 | [Read More](https://medium.com/p/1670d7ec8ba1) |
+| Tue, 26 Aug 2025 15:47:46 GMT | HackTheBox: Meow | Rahaliashraf | [Read More](https://medium.com/p/b5c1e4d9feeb) |
+| Tue, 26 Aug 2025 15:43:48 GMT | Stored XSS in Scada-LTS Reports Module (Colour Field) | 0x5ea3o1f | [Read More](https://medium.com/p/4d7e6633d298) |
+| Tue, 26 Aug 2025 15:43:39 GMT | This AI Tool Will Change How You Hack in Kali Linux | sudo-hope0529 | [Read More](https://medium.com/p/018b7248cd16) |
+| Tue, 26 Aug 2025 15:41:03 GMT | API Security — The Hidden Goldmine for Bug Bounty Hunters in 2025 | DJH4CK3R | [Read More](https://medium.com/p/6a9854d23b98) |
 | Tue, 26 Aug 2025 15:37:57 GMT | 7 Cybersecurity Projects That Can Earn $5,000/Month | Carylrobert | [Read More](https://medium.com/p/ae184e438f1f) |
 | Tue, 26 Aug 2025 15:37:49 GMT | Swagger / OpenAPI / EndPoint Hunt Checklist | BugHunter021 | [Read More](https://medium.com/p/7cfb3002a056) |
 | Tue, 26 Aug 2025 15:35:12 GMT | The AI-Powered Hacker — How Artificial Intelligence is Changing Cybersecurity Forever | DJH4CK3R | [Read More](https://medium.com/p/e5a51f3e585b) |
 | Tue, 26 Aug 2025 15:34:19 GMT | The Git Command That Saved My Code at 3 AM | The Dev Notebook | [Read More](https://medium.com/p/a2345be687bd) |
+| Tue, 26 Aug 2025 15:33:15 GMT | Here’s how deepfake vishing attacks work, and why they can be hard to detect | Welsh | [Read More](https://medium.com/p/28e6997f1db3) |
 | Tue, 26 Aug 2025 15:32:30 GMT | “Day 20: The Chain Reaction — From a Tiny IDOR to a Supply Chain Nightmare” | Aman Sharma | [Read More](https://medium.com/p/7add2d72335a) |
 | Tue, 26 Aug 2025 15:31:26 GMT | Does government surveillance make us safer, or keep us captive? | Question It | [Read More](https://medium.com/p/9147ccd71b3a) |
 | Tue, 26 Aug 2025 15:31:17 GMT | The best managed backup services for tax and accounting teams in 2025 | Ayush Sharma | [Read More](https://medium.com/p/82153d98c608) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 13:25:35 GMT | How does Microsoft Sentinel leverage AI to enhance cybersecurity? | IT_Engineer | [Read More](https://medium.com/p/fdf42e1534c9) |
 | Tue, 26 Aug 2025 13:22:32 GMT | The Top 5 OSINT Tools Every Penetration Tester Should Know | John Cruise | [Read More](https://medium.com/p/9851f85c31f1) |
 | Tue, 26 Aug 2025 13:21:05 GMT | But how does torrenting actually work? | Anuj Choudhary | [Read More](https://medium.com/p/19c3b1a3a317) |
-| Tue, 26 Aug 2025 13:20:26 GMT | ElavaIT’s First Ethical Hacking & Digital Forensics Workshop at Nirmala College | ElavaIT Software Solutions LLP | [Read More](https://medium.com/p/9bdc02f9ad48) |
-| Tue, 26 Aug 2025 13:11:51 GMT | Algeria’s Broken Triangle: Why People, Process, and Technology Hold the Key to Competitiveness | Taher Amine, mMBA, CISSP-SME, CCISO, CMSA, ISOxx | [Read More](https://medium.com/p/3ff0b8c76c45) |
-| Tue, 26 Aug 2025 13:10:30 GMT | When Identity Becomes Data: Living in an Age of Authentication | Meenal Jha | [Read More](https://medium.com/p/86c6ce02500f) |
-| Tue, 26 Aug 2025 13:09:52 GMT | Walkthrough — NIST — Rhino Hunt | Luffytaroouu | [Read More](https://medium.com/p/1089084e7e15) |
-| Tue, 26 Aug 2025 13:05:48 GMT | “How Changing false to true Got Me Paid " | Omar Mesalam | [Read More](https://medium.com/p/34c164a0b890) |
-| Tue, 26 Aug 2025 13:04:28 GMT | The Hacker’s Journal: Why Ethical Hacking Is More Than Just “Hacking” | Raj Islam | [Read More](https://medium.com/p/d21f7436c486) |
-| Tue, 26 Aug 2025 13:03:30 GMT | ️ Cybersecurity Roadmap 2025: A Beginner-to-Advanced Guide | DJH4CK3R | [Read More](https://medium.com/p/9f4df730914f) |
-| Tue, 26 Aug 2025 12:57:49 GMT | How I Got GPT-5 to Reveal Its Rulebook & Why Prompt Injection Is OWASP’s #1 AI Security Risk | Rohit Chaurasia | [Read More](https://medium.com/p/544aea1fe105) |
-| Tue, 26 Aug 2025 12:52:08 GMT | From Key to Certificate: How Cryptography Ensures Trust and Data Integrity | Balogun Ayomide | [Read More](https://medium.com/p/5bddadf552d9) |
-| Tue, 26 Aug 2025 12:51:38 GMT | No Trust Without Verify: Nessus Installation with Hash-Based Validation | Balogun Ayomide | [Read More](https://medium.com/p/a1d2cc827dfd) |
-| Tue, 26 Aug 2025 12:51:01 GMT | Technical Report: Linux File and Directory Operations | Balogun Ayomide | [Read More](https://medium.com/p/52e7444e3eaf) |
-| Tue, 26 Aug 2025 12:50:00 GMT | How useful is Drosera ? | Middy | [Read More](https://medium.com/p/e3c4ad6672d1) |
-| Tue, 26 Aug 2025 12:37:57 GMT | Infrastructure First! Why Strong Foundations Decide Databricks Success | Sagar Shinde | [Read More](https://medium.com/p/3e627367ec4b) |
-| Tue, 26 Aug 2025 12:37:26 GMT | How Installing CCTV at My Home in Chennai Gave Me Complete Peace of Mind | Foggieman | [Read More](https://medium.com/p/2e9a63f0bbb1) |
-| Tue, 26 Aug 2025 12:33:53 GMT | Secure Coding Challenges Master Developer Security Skills | Application Security Master | [Read More](https://medium.com/p/01ce76beb732) |
-| Tue, 26 Aug 2025 12:33:00 GMT | Security Compliance in Finance: Rules & Practices | Qualysec | [Read More](https://medium.com/p/c9b3e26302f0) |
-| Tue, 26 Aug 2025 12:31:34 GMT | Every Scroll is a Secret: How Infinite Feeds “Hack Your Brain” | Shwet Shirbhayye | [Read More](https://medium.com/p/4473560c28fd) |
