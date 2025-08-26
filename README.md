@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 04:06:00 GMT | CSRF to Delete Products from Any User’s Cart — Bypassing Protections and Getting Paid | Mohamed Said Ibrahim | [Read More](https://medium.com/p/aa365a0c4c8c) |
+| Tue, 26 Aug 2025 04:00:44 GMT | The Linux Security Journey — USB Auth (Universal Serial Bus Authorization) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/94f87afb53cd) |
+| Tue, 26 Aug 2025 03:57:11 GMT | 5 Reasons Why Cybersecurity Is a Must for Startups — Even on a Tight Budget | CouponzGuru | [Read More](https://medium.com/p/7ce47965f23d) |
+| Tue, 26 Aug 2025 03:53:33 GMT | Apple Patches CVE-2025–43300: A Zero-Day Exploit Targeting iPhones, iPads, and Macs | Udaykumar | [Read More](https://medium.com/p/0562015f750a) |
+| Tue, 26 Aug 2025 03:48:27 GMT | Your Vector Databases Aren’t Safe Anymore | S3CloudHub | [Read More](https://medium.com/p/8d6876a13524) |
 | Tue, 26 Aug 2025 03:47:34 GMT | CVE-2023–42820: JumpServer Password Reset Bug Could Lead to Account Takeover | AerieWhole123 | [Read More](https://medium.com/p/2704c7ca89b4) |
 | Tue, 26 Aug 2025 03:33:35 GMT | The AI Revolution Meets Cyber Warfare: How $320B in Tech Investment is Reshaping Digital Security… | Akshat Ratanpal | [Read More](https://medium.com/p/9cc5a5c767c5) |
 | Tue, 26 Aug 2025 03:33:35 GMT | Feistel Structure Network Security | codingstreets | [Read More](https://medium.com/p/6a5243df3aeb) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 18:44:26 GMT | Essential Email Fraud Prevention Strategies: Protecting Your Inbox and Business | SafeAeon Inc. | [Read More](https://medium.com/p/3096f1be2705) |
 | Mon, 25 Aug 2025 18:42:50 GMT | “Mastering Cash App Accounts: Setup, Security, and Smarter Digital Payments” | Donny SMM | [Read More](https://medium.com/p/ef67d09480a9) |
 | Mon, 25 Aug 2025 18:34:10 GMT | The AppSec Policy Gap: Turning Intent into Action | Joshua Lindstrom | [Read More](https://medium.com/p/0590a7b6dd07) |
-| Mon, 25 Aug 2025 18:23:44 GMT | How I Found 7 OAuth Flaws on Public Programs | Ibtissam hammadi | [Read More](https://medium.com/p/3c0a30788d77) |
-| Mon, 25 Aug 2025 18:20:51 GMT | Mobile App Checklist: Building Secure, Reliable, and User-Friendly Applications | SafeAeon Inc. | [Read More](https://medium.com/p/4ade5f973625) |
-| Mon, 25 Aug 2025 18:16:57 GMT | CTF beginner part-2 (con) | vulnhunter | [Read More](https://medium.com/p/539de478015e) |
-| Mon, 25 Aug 2025 18:16:56 GMT | TryHackMe - Buffer Overflows - WriteUp | Axoloth | [Read More](https://medium.com/p/aa399ffa6cd5) |
-| Mon, 25 Aug 2025 18:16:47 GMT | SUID Privilege Escalation — A Walkthrough via TryHackMe’s Linux PrivEsc | 0x77 | [Read More](https://medium.com/p/2c5e79e46246) |
