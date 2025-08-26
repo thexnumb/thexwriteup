@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 19:29:01 GMT | Looking for Leaked Credentials? The 3 Best Tools for Bug Hunters / Red Teamers | Cheirishpro | [Read More](https://medium.com/p/1c9e0891c321) |
+| Tue, 26 Aug 2025 19:28:00 GMT | From cyberwar to algorithmic sovereignty | Hayat Outahar | [Read More](https://medium.com/p/f9b0bc1bdae8) |
+| Tue, 26 Aug 2025 19:17:34 GMT | [Part 2] Who Is Impacted by the Cyber Resilience Act? | Cyberkech | [Read More](https://medium.com/p/b253ed2d417a) |
 | Tue, 26 Aug 2025 19:14:20 GMT | Best Security Camera System in 2025 | Amy Jackson | [Read More](https://medium.com/p/07cf41441c1f) |
 | Tue, 26 Aug 2025 19:12:13 GMT | Why Most SQLi Payloads Fail in 2025 (and How to Craft Better Ones) | Sukhveer Singh | [Read More](https://medium.com/p/b874bdbdd697) |
 | Tue, 26 Aug 2025 19:09:20 GMT | Recruitment Scams: The Hidden Crisis Costing Billions & Shattering Lives | NIkhil Kumar | [Read More](https://medium.com/p/8baef306b21f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 15:11:25 GMT | Stored Cross-Site Scripting in Scada-LTS Data Point Name | 0x5ea3o1f | [Read More](https://medium.com/p/8ff30af740c0) |
 | Tue, 26 Aug 2025 15:09:27 GMT | Cloud EDI Benefits for Small Business: A Comprehensive Overview | Commport Communications | [Read More](https://medium.com/p/7b7b0b56bf40) |
 | Tue, 26 Aug 2025 15:06:33 GMT | Blue Team Labs Online: Network Analysis — Malware Compromise | /Luka-Babetzki | [Read More](https://medium.com/p/8b3f89f29310) |
-| Tue, 26 Aug 2025 15:02:41 GMT | From 50+ sticky notes to one secure app: My experience with a Mac password manager that works | Olha Novitska | [Read More](https://medium.com/p/2ef676ff0781) |
-| Tue, 26 Aug 2025 15:01:49 GMT | Phishing Emails: The Trap! | Sparshika | [Read More](https://medium.com/p/fdf7f1681534) |
-| Tue, 26 Aug 2025 15:01:41 GMT | LLM Security Vulnerabilities: The Attack Vectors Nobody’s Talking About in August 2025 | Tech Digest HQ | [Read More](https://medium.com/p/f6b5c7cfc040) |
