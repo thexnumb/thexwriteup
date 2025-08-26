@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 07:02:43 GMT | List Of Convenience stores in Florida | shobha. rentechdigital | [Read More](https://medium.com/p/209b5cceeaf9) |
+| Tue, 26 Aug 2025 06:52:33 GMT | How to Block Censys Scans with SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/7af54f72d369) |
+| Tue, 26 Aug 2025 06:52:27 GMT | Breaking Down CloudSEK’s CTF Hiring Challenge — How I Solved 2/5 Flags | manoj kumar | [Read More](https://medium.com/p/641f6343483b) |
+| Tue, 26 Aug 2025 06:49:39 GMT | The Quantum Age: A New Standard of Security — Quantum Key Distribution | Umut Akbulut | [Read More](https://medium.com/p/428c1927e7f6) |
+| Tue, 26 Aug 2025 06:47:33 GMT | Bug Bounty XSS con postMessage: cuando la confianza entre ventanas se convierte en vulnerabilidad | Gorka | [Read More](https://medium.com/p/f18822acf0ab) |
+| Tue, 26 Aug 2025 06:46:59 GMT | Kuantum Çağı: Güvenliğin Yeni Standardı — Quantum Key Distribution | Umut Akbulut | [Read More](https://medium.com/p/751f6e6bfb98) |
+| Tue, 26 Aug 2025 06:45:53 GMT | oHome Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/c4d2ee4d230d) |
+| Tue, 26 Aug 2025 06:44:15 GMT | Day 10: Linux Basic Commands, Getting Started with the Terminal | Prutha_Dongre | [Read More](https://medium.com/p/40bb0eaec4e9) |
+| Tue, 26 Aug 2025 06:43:10 GMT | The Cyber Battlefield of 2025: How Modern Attack Vectors Are Reshaping Digital Defense | Defentive | [Read More](https://medium.com/p/bfde7d49a88c) |
+| Tue, 26 Aug 2025 06:38:56 GMT | Building My Home Lab: Learning by Doing | Neodemus | [Read More](https://medium.com/p/e1d9a2b65127) |
+| Tue, 26 Aug 2025 06:38:30 GMT | Automation Gates and Modern Security: Building Smarter and Safer Premises. | Meghaharmedia | [Read More](https://medium.com/p/7247e629bbd9) |
+| Tue, 26 Aug 2025 06:37:25 GMT | How Mid-Sized Businesses Can Achieve Enterprise-Grade IT Without Overspending | Omnilink Technology | [Read More](https://medium.com/p/7277d3955ebe) |
+| Tue, 26 Aug 2025 06:34:42 GMT | The Psychology of Bug Bounty Hunting: Why Mindset Beats Tools | Sukhveer Singh | [Read More](https://medium.com/p/5278ea7fa528) |
+| Tue, 26 Aug 2025 06:34:18 GMT | Creepy Cams: The Eyes You Don’t See | O. J. Okpabi | [Read More](https://medium.com/p/caf35f3e668a) |
+| Tue, 26 Aug 2025 06:33:38 GMT | Cybersecurity Fatigue is Real (And Hackers Love It) | Aj | [Read More](https://medium.com/p/c7110ebbc779) |
 | Tue, 26 Aug 2025 06:23:28 GMT | ️‍♂️ The Forgotten API Endpoints — Deep Recon & Defense Playbook | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1507ff2da8a1) |
 | Tue, 26 Aug 2025 06:22:16 GMT | Mobile App Development Company in Gurugram — Build Apps That Drive Growth | Ajath Infotech | [Read More](https://medium.com/p/6e626638e891) |
 | Tue, 26 Aug 2025 06:22:14 GMT | ️ The Forgotten API Endpoints: How Recon Finds Gold Where Developers Don’t Look | Narendar Battula (nArEn) | [Read More](https://medium.com/p/58fb04b97a51) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 23:20:00 GMT | The Shocking Truth: Your Pentest Report Is Already Outdated When You Get It | Cyber-AppSec | [Read More](https://medium.com/p/c5a315c46b84) |
 | Mon, 25 Aug 2025 23:13:42 GMT | The Logical Override: Deconstructing a Cognitive Attack on LLM Safety | Caleb Grebill | [Read More](https://medium.com/p/bab2a83f273e) |
 | Mon, 25 Aug 2025 23:12:09 GMT | Left of Boom, Part 2: Mapping Out Critical Business Processes for Cyber Resilience | Jason Lawrence | [Read More](https://medium.com/p/a235da5c3d6a) |
-| Mon, 25 Aug 2025 23:11:09 GMT | SOC165 — Possible SQL Injection Payload Detected | Andrew Williams | [Read More](https://medium.com/p/fce97f6a1ee8) |
-| Mon, 25 Aug 2025 23:02:45 GMT | CAT CTF 2025 Web Walkthrough [Part 2] | Sayed | [Read More](https://medium.com/p/d1ed524cd584) |
-| Mon, 25 Aug 2025 22:49:46 GMT | Smart Tips for Online Banking and Security | Mr Alex | [Read More](https://medium.com/p/6af694b1341e) |
-| Mon, 25 Aug 2025 22:26:56 GMT | Never Access the Dark Web Without Doing This! (Tor + Telegram Demos) | Shahzaib | [Read More](https://medium.com/p/09bb344e0638) |
-| Mon, 25 Aug 2025 22:20:54 GMT | Nocturnal (Easy)- HackTheBox Writeup (Walkthrough) | PriOFF | [Read More](https://medium.com/p/09e4eef3e1a8) |
-| Mon, 25 Aug 2025 21:57:31 GMT | MY CYBERSECURITY JOURNEY: HOW MOOT COURT COMPETITIONS HELPED ME LAND A ROLE PAYING ME IN DOLLARS | Onukwue Eunice | [Read More](https://medium.com/p/20fddca976bb) |
-| Mon, 25 Aug 2025 21:56:41 GMT | Introdução ao Microsoft Sentinel | Lucas Soeiro | [Read More](https://medium.com/p/83b6795e8869) |
-| Mon, 25 Aug 2025 21:51:18 GMT | Locking Secrets at the Speed of Light: The Future of Encryption | Derick Johnson | [Read More](https://medium.com/p/867e4454ffb6) |
-| Mon, 25 Aug 2025 21:50:46 GMT | Open Source ≠ Secure: Why Trust Alone Is Dangerous | Taulan Zauzanov | [Read More](https://medium.com/p/5cf8ef0420e2) |
-| Mon, 25 Aug 2025 21:28:44 GMT | Cybersecurity — Interviews, Project Portfolios & Certifications (Your competitive edge) | Franklin Rhodes | [Read More](https://medium.com/p/3ea0479655d8) |
-| Mon, 25 Aug 2025 21:23:42 GMT | AI for Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/aa2c2386827f) |
-| Mon, 25 Aug 2025 21:22:57 GMT | How to Handle Criticism and Feedback as an Artist | Hilarion Dinga | [Read More](https://medium.com/p/5d2715dab4d7) |
-| Mon, 25 Aug 2025 21:14:06 GMT | Building a Malware Lab — Part 1: Networking | Ryan Murphy | [Read More](https://medium.com/p/6cf6ed7cb0ba) |
-| Mon, 25 Aug 2025 21:12:33 GMT | Intelligent Workflow Automation Solutions | The Insightful Solutions | [Read More](https://medium.com/p/ddde88f3a1f6) |
-| Mon, 25 Aug 2025 21:09:58 GMT | CYBER SECURITY TIPS | Moeez King | [Read More](https://medium.com/p/c368f6fb8615) |
