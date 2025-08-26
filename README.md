@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 08:45:11 GMT | Notting Hill Carnival: Patrick Christy's Reacts as 423 Arrests Confirmed and Stabbings Expose… | Everclear | [Read More](https://medium.com/p/66c6c5d47b4e) |
+| Tue, 26 Aug 2025 08:42:05 GMT | Starting Your Start-Up? Secure Its Data With Penetration testing | Redfox Security | [Read More](https://medium.com/p/979c4cbd144d) |
+| Tue, 26 Aug 2025 08:40:13 GMT | Why AI is the Future of Cybersecurity? | Evelyn | [Read More](https://medium.com/p/18860729b59a) |
+| Tue, 26 Aug 2025 08:38:26 GMT | Unleashing the Hound: How AI Agents Find Deep Logic Bugs in Any Codebase | Bernhard Mueller | [Read More](https://medium.com/p/64c2110e3a6f) |
+| Tue, 26 Aug 2025 08:33:15 GMT | event Cyber security | Yahya Abdullah | [Read More](https://medium.com/p/8794291e381e) |
+| Tue, 26 Aug 2025 08:29:08 GMT | Cybersecurity & Ethical AI: Earning Models, Hacks & Global Insights | Muhammad Arshad | [Read More](https://medium.com/p/ed05365b06ec) |
+| Tue, 26 Aug 2025 08:20:46 GMT | DNS4EU: Why Europe Is Building Its Own Secure DNS Infrastructure | Deleteo-Erase your digital footprint in minutes | [Read More](https://medium.com/p/442b92be7498) |
 | Tue, 26 Aug 2025 08:20:18 GMT | Inside Nepal’s Digital Defense: Why Cybersecurity Skills Matter More Than Ever | Skill Pathway | [Read More](https://medium.com/p/aafd76ea4728) |
 | Tue, 26 Aug 2025 08:19:49 GMT | The Boardroom Mirage | ComsignTrust LTD | [Read More](https://medium.com/p/77c808abf7b1) |
 | Tue, 26 Aug 2025 08:11:52 GMT | Grok AI Privacy Meltdown: 370,000 Chats Publicly Exposed via “Share” Flaw | Finstein.ai | [Read More](https://medium.com/p/7d860d770e36) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 02:10:11 GMT | Why Nigeria Could Solve the World’s $10 Trillion Cybercrime Crisis | Mgbakor Uche | [Read More](https://medium.com/p/42dcd47b885b) |
 | Tue, 26 Aug 2025 02:07:49 GMT | The Importance of Cybersecurity in Healthcare | Pynesec | [Read More](https://medium.com/p/aad5b3b0a669) |
 | Tue, 26 Aug 2025 01:57:13 GMT | Sports, School, and Security: How I Balance Hacking with Homework | ZeakPeak | [Read More](https://medium.com/p/996a78802b39) |
-| Tue, 26 Aug 2025 01:48:52 GMT | NanoVMs Unikernel: Revolutionizing Application Deployment with Ultimate Security and Performance | ThamizhElango Natarajan | [Read More](https://medium.com/p/bd21124a6f5c) |
-| Tue, 26 Aug 2025 01:41:10 GMT | A Machine Can't Match Your Intelligence With Its Limited Double Standards | Kamal 65 | [Read More](https://medium.com/p/5749b0a0ef8d) |
-| Tue, 26 Aug 2025 01:36:31 GMT | TryHackMe Walkthrough: VulnNet Node | Indigo Shadow | [Read More](https://medium.com/p/16388088c9ce) |
-| Tue, 26 Aug 2025 01:33:06 GMT | What is XDR, Microsoft Defender for XDR, How it is used in simple terms | Devaaravindlutukurty | [Read More](https://medium.com/p/cd1dbe7e2d8d) |
-| Tue, 26 Aug 2025 01:28:40 GMT | Understanding XDR and Its Role in Modern Security Operations | Devaaravindlutukurty | [Read More](https://medium.com/p/8f2f362e67a2) |
-| Tue, 26 Aug 2025 01:17:37 GMT | Breaking Containers: Deep Dive into CVE-2025–9074 — Critical Docker Desktop Escape on Windows &… | Hafiz Shamnad | [Read More](https://medium.com/p/2965d7a4824f) |
-| Tue, 26 Aug 2025 01:11:22 GMT | Making an Informed Career Decision: My Approach | Poorvi Arora | [Read More](https://medium.com/p/98eadf88537a) |
