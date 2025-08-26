@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 05:38:51 GMT | Wazuh Custom Dashboard & Attack Statistics | Ismail Hakim | [Read More](https://medium.com/p/a94528bf2e23) |
+| Tue, 26 Aug 2025 05:36:25 GMT | #Another Bug Bounty Win: Responsible Disclosure of Potential Template Injection Got me 250$ | Lakshya | [Read More](https://medium.com/p/a1d7be3cc781) |
+| Tue, 26 Aug 2025 05:27:11 GMT | Back to School & Cybersecurity: 10 Steps Every Parent Can Actually Do | Cyberguardmom | [Read More](https://medium.com/p/396ce31e3982) |
+| Tue, 26 Aug 2025 05:26:31 GMT | Still Hesitate to Adopt Flutter? | Chirag Prajapati | [Read More](https://medium.com/p/0863256635cb) |
+| Tue, 26 Aug 2025 05:25:55 GMT | Portswigger Web Security Academy - SSRF Lab #1 | BooRuleDie | [Read More](https://medium.com/p/b25ed61ccc1a) |
+| Tue, 26 Aug 2025 05:21:58 GMT | How Hackers Exploit Weak Passwords and How to Prevent It | Hackers King | [Read More](https://medium.com/p/6c062dfa96ad) |
 | Tue, 26 Aug 2025 05:11:20 GMT | Quantum Computing: Why Cybersecurity Needs to Prepare Now | Hari kishore | [Read More](https://medium.com/p/56ea90bc7d16) |
 | Tue, 26 Aug 2025 05:01:40 GMT | ELF Files Unmasked — A Practical Guide | Elmin Farzaliyev | [Read More](https://medium.com/p/15b9036b9a01) |
 | Tue, 26 Aug 2025 05:01:36 GMT | When Ads Lie: How I Found a Click Fraud Weakness in a Major E-Commerce Site | Devansh Patel | [Read More](https://medium.com/p/4e8c26e16780) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 19:54:40 GMT | Building a Bulletproof FastAPI Social Media API: Complete Security Implementation Guide | ra9a_v3rv3 | [Read More](https://medium.com/p/52b474d6b0e4) |
 | Mon, 25 Aug 2025 19:54:40 GMT | OSI MODEL (open system interconnection ) and TCP/IP (Transmission Control Protocol/Internet… | The Commoness | [Read More](https://medium.com/p/6752f104850f) |
 | Mon, 25 Aug 2025 19:53:49 GMT | You Installed a PDF Editor:They Got a Botnet: The Shocking Supply‑Chain Twist | cybrNK | [Read More](https://medium.com/p/09adf6f4060d) |
-| Mon, 25 Aug 2025 19:53:33 GMT | The Electromagnetic War Criminal — How Russia’s GPS Terror Campaign Transforms Every Flight Into a… | Waleed’s Edge Knowledge | [Read More](https://medium.com/p/8a0b4bb8e913) |
-| Mon, 25 Aug 2025 19:49:35 GMT | IPsec Tünellerinde IP Adreslerinin Önemi | Ela Aydoğdu | [Read More](https://medium.com/p/77b79aee2101) |
-| Mon, 25 Aug 2025 19:42:55 GMT | Corrosion2 CTF — Complete Technical Walkthrough | Basit Olasubomi Balogun | [Read More](https://medium.com/p/136e231d8da4) |
-| Mon, 25 Aug 2025 19:41:25 GMT | The Shame of Silent Love | Elan Tengis | [Read More](https://medium.com/p/3dc4da9fac99) |
-| Mon, 25 Aug 2025 19:31:32 GMT | How JWT Misuse Almost Exposed Our Entire User Base | Nikulsinh Rajput | [Read More](https://medium.com/p/3be62243c441) |
-| Mon, 25 Aug 2025 19:28:49 GMT | ZIP Slip leading to Remote Command Execution in Java Application | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/fd3c41150b71) |
