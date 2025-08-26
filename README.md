@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 15:13:52 GMT | 5 Secrets Senior Developers Don’t Tell You About API Security | The Dev Notebook | [Read More](https://medium.com/p/c19626f5c334) |
+| Tue, 26 Aug 2025 15:11:53 GMT | Security Equipment for Modern Protection Needs | bravo Security | [Read More](https://medium.com/p/7b5f35bcaab3) |
+| Tue, 26 Aug 2025 15:11:25 GMT | Stored Cross-Site Scripting in Scada-LTS Data Point Name | 0x5ea3o1f | [Read More](https://medium.com/p/8ff30af740c0) |
+| Tue, 26 Aug 2025 15:09:27 GMT | Cloud EDI Benefits for Small Business: A Comprehensive Overview | Commport Communications | [Read More](https://medium.com/p/7b7b0b56bf40) |
+| Tue, 26 Aug 2025 15:06:33 GMT | Blue Team Labs Online: Network Analysis — Malware Compromise | /Luka-Babetzki | [Read More](https://medium.com/p/8b3f89f29310) |
+| Tue, 26 Aug 2025 15:02:41 GMT | From 50+ sticky notes to one secure app: My experience with a Mac password manager that works | Olha Novitska | [Read More](https://medium.com/p/2ef676ff0781) |
+| Tue, 26 Aug 2025 15:01:49 GMT | Phishing Emails: The Trap! | Sparshika | [Read More](https://medium.com/p/fdf7f1681534) |
+| Tue, 26 Aug 2025 15:01:41 GMT | LLM Security Vulnerabilities: The Attack Vectors Nobody’s Talking About in August 2025 | Tech Digest HQ | [Read More](https://medium.com/p/f6b5c7cfc040) |
+| Tue, 26 Aug 2025 14:57:41 GMT | OWASP Mobile Top 10: M1 — Improper Credential Usage (“Don’t leave the keys under the doormat”) | bithowl | [Read More](https://medium.com/p/e7749856ce80) |
+| Tue, 26 Aug 2025 14:57:35 GMT | Beginner’s Guide to Securing Your Smart Home Devices with AI | PromptSecAI | [Read More](https://medium.com/p/068691ad3dae) |
+| Tue, 26 Aug 2025 14:53:46 GMT | AWS IAM Tutorial for Beginners: Easy Steps to Manage Access | Josh Lee | [Read More](https://medium.com/p/46063d44ba83) |
+| Tue, 26 Aug 2025 14:53:40 GMT | Beyond the Firewalls: A Closer Look at the Silent Attack That Disrupted Maryland Mobility | Inforsecpro | [Read More](https://medium.com/p/0e3d0697f63b) |
+| Tue, 26 Aug 2025 14:52:28 GMT | JavaScript Deobfuscation Skills Assessment | Luke | [Read More](https://medium.com/p/8452a29f3c0a) |
+| Tue, 26 Aug 2025 14:51:59 GMT | The Case for OAuth | David Fagbuyiro | [Read More](https://medium.com/p/bf015601967d) |
+| Tue, 26 Aug 2025 14:51:41 GMT | Day 87: Security Principles II | Nile Okomo | [Read More](https://medium.com/p/11e9b2855681) |
+| Tue, 26 Aug 2025 14:48:30 GMT | Security Modernization: Aligning Technology with Business Risk | Claritus Consulting | [Read More](https://medium.com/p/18532f99ead6) |
+| Tue, 26 Aug 2025 14:47:34 GMT | TA-NATALSTATUS: Rootkit-Style Cryptojacking Dominates Exposed Redis Servers Globally | Wes Young | [Read More](https://medium.com/p/511302059f08) |
+| Tue, 26 Aug 2025 14:47:14 GMT | Authentication vulnerabilities - Username Enumeration via Different Responses - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/4fcbc31639d1) |
+| Tue, 26 Aug 2025 14:47:14 GMT | Exploiting Port 21 in a Safe Lab Environment (Ethical Hacking with Metasploit) | Mary Isioma O | [Read More](https://medium.com/p/37b87a285c50) |
+| Tue, 26 Aug 2025 14:43:45 GMT | How I Use AI to Write Viral Blog Posts (My Exact 5-Step System) | Fahad's Foresight | [Read More](https://medium.com/p/c4c056c41d29) |
+| Tue, 26 Aug 2025 14:43:14 GMT | Elevating My Cybersecurity Skills with Microsoft Security, Compliance, and Identity Fundamentals… | Dhruvish Rathod | [Read More](https://medium.com/p/c2a4a9efa464) |
 | Tue, 26 Aug 2025 14:42:06 GMT | WordPress Credential Attacks: Brute-Forcing Usernames and Passwords — A Step-by-Step Guide for… | Very Lazy Tech | [Read More](https://medium.com/p/811024838d27) |
 | Tue, 26 Aug 2025 14:39:03 GMT | Shadow AI: The Hidden Cyber Risk Lurking in Your Workplace | TheReviewHive | [Read More](https://medium.com/p/c38d5d8c8238) |
 | Tue, 26 Aug 2025 14:37:06 GMT | I Studied Cybersecurity From Books. Then a Real Attack Tested My Knowledge | Shahzaib | [Read More](https://medium.com/p/8ca8c42fa9b0) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 11:51:06 GMT | How Floating Touch™ Technology is Revolutionizing User Interfaces? | Aria Sullivan | [Read More](https://medium.com/p/5de6b2751962) |
 | Tue, 26 Aug 2025 11:50:19 GMT | Organizasyon Güvenliği | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/3f84b7de7e97) |
 | Tue, 26 Aug 2025 11:47:26 GMT | Nmap Commands Every Ethical Hacker Must Master | Aditya Bhatt | [Read More](https://medium.com/p/7cf4df010f8d) |
-| Tue, 26 Aug 2025 11:46:57 GMT | CIRO Shuts Down Systems After Cybersecurity Threat: Personal Data Exposed | SafetyDetectives Research Team | [Read More](https://medium.com/p/42a6b25622f8) |
-| Tue, 26 Aug 2025 11:45:15 GMT | Brunner CTF Writeups 2025 - 0xSn0w | Tamimsharif | [Read More](https://medium.com/p/a9cdb0a0b9df) |
-| Tue, 26 Aug 2025 11:39:54 GMT | Meta-Level Finance: Why EODHD Is Your Secret Weapon for Market Data | Nayab Bhutta | [Read More](https://medium.com/p/f96318e88830) |
-| Tue, 26 Aug 2025 11:33:14 GMT | Why Data Preprocessing is 80% of the Work in Machine Learning | Taghrida Mohamed (AI/ML Enthusiast) | [Read More](https://medium.com/p/91434ac8692d) |
-| Tue, 26 Aug 2025 11:30:48 GMT | Cybersecurity in India: Protecting the Digital Future (2025 Guide) | Amit solanki | [Read More](https://medium.com/p/0e137577046e) |
-| Tue, 26 Aug 2025 11:25:58 GMT | Cracking the Code: Dynamic Analysis & Debugging in Malware Research | Furkanctiner | [Read More](https://medium.com/p/0b47da3b39c4) |
-| Tue, 26 Aug 2025 11:25:01 GMT | Automating Subdomain Enumeration with Bash — My Custom Script | Kartik | [Read More](https://medium.com/p/dd3861fd06c8) |
-| Tue, 26 Aug 2025 11:24:25 GMT | Cyberbiosecurity: Protecting the Bio-Digital Frontier | Cybersecurity Umbrella | [Read More](https://medium.com/p/9de77062bbae) |
-| Tue, 26 Aug 2025 11:24:11 GMT | The New Age of Cyberattacks: How the Attack Surface is Evolving with AI | Meron | [Read More](https://medium.com/p/e7ecd4c8ee18) |
-| Tue, 26 Aug 2025 11:22:02 GMT | LLMs and Security: Promises, Risks, and the Future of AI Defense | Arptech | [Read More](https://medium.com/p/ae9901811058) |
-| Tue, 26 Aug 2025 11:22:00 GMT | Understanding Antivirus Evasion Tactics Part1: ️From XOR ➡️ Runtime Loading: | Cyb3rCr0wCC | [Read More](https://medium.com/p/df791e4f42df) |
-| Tue, 26 Aug 2025 11:21:39 GMT | When AI Gets Sneaky: Deepfakes and Social Engineering | Brittney Ginther | [Read More](https://medium.com/p/84bcdb549672) |
-| Tue, 26 Aug 2025 11:20:21 GMT | The One Mistake Costing You Millions in Undetected System Failures | The Bot Group | [Read More](https://medium.com/p/a514f5244e88) |
-| Tue, 26 Aug 2025 11:20:13 GMT | From Zero to Lab: How I Set Up My Own Cybersecurity Playground; | aysha | [Read More](https://medium.com/p/ac393e7c3c80) |
-| Tue, 26 Aug 2025 11:18:54 GMT | Your Computer’s Overloaded — Here’s the Fix | BPM TECH SOLUTIONS | [Read More](https://medium.com/p/ec9758a1158c) |
-| Tue, 26 Aug 2025 11:18:43 GMT | Risky (Code) Business: Why 81% of Devs Play Fast and Loose with Vulnerabilities | Eran Kinsbruner | [Read More](https://medium.com/p/a53488882298) |
-| Tue, 26 Aug 2025 11:15:54 GMT | Home Lab: A Web Application Firewall | Bennet Sharwin | [Read More](https://medium.com/p/8a2fd5726431) |
-| Tue, 26 Aug 2025 11:14:33 GMT | IDOR in React.js: Insecure Direct Object Reference Fixes | Pentest_Testing_Corp | [Read More](https://medium.com/p/15d05400debd) |
-| Tue, 26 Aug 2025 11:13:45 GMT | TryHackMe Challenge — Surfer | Aniket Pattanshetti | [Read More](https://medium.com/p/1dd6fae5823b) |
-| Tue, 26 Aug 2025 11:12:12 GMT | SANS Incident Response Framework | Mahantesh Katapur | [Read More](https://medium.com/p/28cdf446ef82) |
-| Tue, 26 Aug 2025 11:07:26 GMT | Week 3: From Probability to Cryptographic Proof: Understanding Perfect Secrecy | Joshua O. Berkoh | [Read More](https://medium.com/p/c85fab8696bc) |
