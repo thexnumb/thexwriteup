@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 Aug 2025 03:47:34 GMT | CVE-2023–42820: JumpServer Password Reset Bug Could Lead to Account Takeover | AerieWhole123 | [Read More](https://medium.com/p/2704c7ca89b4) |
+| Tue, 26 Aug 2025 03:33:35 GMT | The AI Revolution Meets Cyber Warfare: How $320B in Tech Investment is Reshaping Digital Security… | Akshat Ratanpal | [Read More](https://medium.com/p/9cc5a5c767c5) |
+| Tue, 26 Aug 2025 03:33:35 GMT | Feistel Structure Network Security | codingstreets | [Read More](https://medium.com/p/6a5243df3aeb) |
+| Tue, 26 Aug 2025 03:19:43 GMT | From Finances to Firewalls — A smooth transition from accounting to cybersecurity | Julio Arredondo | [Read More](https://medium.com/p/f31acbadde4d) |
+| Tue, 26 Aug 2025 03:17:48 GMT | Deepfake Attacks: When AI Becomes a Master of Disguise | Kishan Kumar | [Read More](https://medium.com/p/d2da660e34fd) |
+| Tue, 26 Aug 2025 03:17:18 GMT | Bandit Levels 5–10 Walkthrough: Beginner’s Linux CTF Guide (OverTheWire) | Soham_Jadhav | [Read More](https://medium.com/p/55a7901927e0) |
+| Tue, 26 Aug 2025 03:16:37 GMT | SELinux’u Kapatmadan Yaşamak: Gerçek Hayat Senaryolarıyla Anlatım | Barbaros | [Read More](https://medium.com/p/a9eca6d6b106) |
+| Tue, 26 Aug 2025 03:15:17 GMT | DevOps and Database Optimization: Where They Meet | Rizqi Mulki | [Read More](https://medium.com/p/5afaf11530f5) |
+| Tue, 26 Aug 2025 03:07:52 GMT | The Evolution of Database Security in the Web Era | Rizqi Mulki | [Read More](https://medium.com/p/45329a1cd774) |
+| Tue, 26 Aug 2025 03:03:36 GMT | HTTP vs HTTPS: Why the Lock Really Matters | Akhil Boddula | [Read More](https://medium.com/p/d2ea6af16438) |
 | Tue, 26 Aug 2025 02:59:55 GMT | Why Your ORM Might Be Slowing Everything Down | Rizqi Mulki | [Read More](https://medium.com/p/879298944bb4) |
 | Tue, 26 Aug 2025 02:48:30 GMT | Is the PT1 by TryHackMe worth taking? | Hussein Ashour | [Read More](https://medium.com/p/d00c01c803ce) |
 | Tue, 26 Aug 2025 02:31:37 GMT | Why Your Business Needs a Bespoke Software Development Company in 2025 | Ambala IT | [Read More](https://medium.com/p/e6635aa00d76) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 Aug 2025 18:16:57 GMT | CTF beginner part-2 (con) | vulnhunter | [Read More](https://medium.com/p/539de478015e) |
 | Mon, 25 Aug 2025 18:16:56 GMT | TryHackMe - Buffer Overflows - WriteUp | Axoloth | [Read More](https://medium.com/p/aa399ffa6cd5) |
 | Mon, 25 Aug 2025 18:16:47 GMT | SUID Privilege Escalation — A Walkthrough via TryHackMe’s Linux PrivEsc | 0x77 | [Read More](https://medium.com/p/2c5e79e46246) |
-| Mon, 25 Aug 2025 18:04:50 GMT | How I was able to subscribe and receive notification alerts to the company’s QA and found their… | 0xm1racle | [Read More](https://medium.com/p/7a753545eb93) |
-| Mon, 25 Aug 2025 18:04:42 GMT | When Security Guards Become the Predators. | ~Dr.Têi•B~ | [Read More](https://medium.com/p/7878b6565596) |
-| Mon, 25 Aug 2025 18:04:33 GMT | Docker Was Great. But Security Moved On. | shivangi satija | [Read More](https://medium.com/p/66eb3cbcf4fc) |
-| Mon, 25 Aug 2025 18:01:21 GMT | From Confusion to Curiosity: My Cybersecurity Journey | Sakar Mishra | [Read More](https://medium.com/p/1e3ce259401e) |
-| Mon, 25 Aug 2025 17:57:33 GMT | TikTok’s Most Viral Health Trends (2023–2025): What’s Worth Your Time vs. What Belongs in the Bin | Sexloveandmillenials | [Read More](https://medium.com/p/7d7f2c733c0b) |
-| Mon, 25 Aug 2025 17:52:46 GMT | Beyond PCI and HIPAA: How Feroot Powers Children’s Online Privacy Protection Act (COPPA) Compliance | Feroot Security | [Read More](https://medium.com/p/daf0d3088507) |
-| Mon, 25 Aug 2025 17:50:16 GMT | How I Turned an “Informational Finding” Into a valid security report | Aravind Prakash | [Read More](https://medium.com/p/69f589102507) |
-| Mon, 25 Aug 2025 17:50:08 GMT | Day 9/100 — One Bad Moment | Ankita Singh | [Read More](https://medium.com/p/57589550182e) |
-| Mon, 25 Aug 2025 17:49:06 GMT | Phishing campaign exploits google classroom at scale | Yaniv | [Read More](https://medium.com/p/e736a521887e) |
-| Mon, 25 Aug 2025 17:43:28 GMT | Why CCTV, Alarms, and Access Control Are a Must in 2025 | Debrazz Security Systems | [Read More](https://medium.com/p/6cd03c9b937c) |
