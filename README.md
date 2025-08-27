@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 06:48:06 GMT | AI-Powered Offline Antivirus: The Future of Malware Protection | Chirag Bhatia | [Read More](https://medium.com/p/f65aa1ae9057) |
+| Wed, 27 Aug 2025 06:37:14 GMT | Security Companies in Baltimore — ICS Security Solutions | Andrew Paul | [Read More](https://medium.com/p/4beee0cf1045) |
+| Wed, 27 Aug 2025 06:32:59 GMT | ️ Passive Recon Superpowers: Finding APIs Without Sending a Single Request | Narendar Battula (nArEn) | [Read More](https://medium.com/p/308e410aebdf) |
+| Wed, 27 Aug 2025 06:31:28 GMT | How to Block Access to Admin Paths on Your Website with SafeLine WAF | Quella | [Read More](https://medium.com/p/29469b384d0e) |
+| Wed, 27 Aug 2025 06:30:45 GMT | Why I Spent 6 Months Analyzing Every Major CIAM Provider (So You Don’t Have To) | Deepak Gupta | [Read More](https://medium.com/p/1a8d9213fd93) |
+| Wed, 27 Aug 2025 06:30:20 GMT | Our Future Generations Being Impacted by Microplastics !! | 8th Wonder | [Read More](https://medium.com/p/4df9833ec603) |
+| Wed, 27 Aug 2025 06:28:23 GMT | Home Security Cameras In India. | Meghaharmedia | [Read More](https://medium.com/p/a403193e45f4) |
 | Wed, 27 Aug 2025 06:26:02 GMT | Recon on Mobile APIs: The Hidden Attack Surface in Your Pocket | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7145915edcbe) |
 | Wed, 27 Aug 2025 06:25:57 GMT | Red Teaming : AV Evasion & Obfuscation For Beginners ( Theory ) | Archtrmntor | [Read More](https://medium.com/p/80d7f5b9507f) |
 | Wed, 27 Aug 2025 06:22:32 GMT | Malware Analysis Services: A Complete Guide for Cybersecurity | Plutosec Cyber Security | [Read More](https://medium.com/p/3e5e6c1a7a07) |
+| Wed, 27 Aug 2025 06:20:15 GMT | How to Implement Security in a Spring Boot Project (Made Simple) | Ajit Kumar | [Read More](https://medium.com/p/af72b621a58c) |
+| Wed, 27 Aug 2025 06:19:55 GMT | The Future of DeFi Is Safe by Default | Victor | [Read More](https://medium.com/p/f6b512f7fe20) |
 | Wed, 27 Aug 2025 06:15:52 GMT | Malware Hidden in Everyday Apps: Are You Already Infected? | Tarush Sharma | [Read More](https://medium.com/p/f758e2e2ee57) |
 | Wed, 27 Aug 2025 06:13:21 GMT | ️‍♂️ Chaining Recon Data: From Swagger JSON to Full API Map | Narendar Battula (nArEn) | [Read More](https://medium.com/p/ad23aa1e4601) |
 | Wed, 27 Aug 2025 06:13:04 GMT | NVIDIA vs. Okta Earnings: Why One Stock Made Millionaires While the Other Barely Moved | Finomics Edge | [Read More](https://medium.com/p/467f35b1a2ee) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 21:27:01 GMT | How I Built a Real-Time SIEM System with Django | Eka Onagbesan | [Read More](https://medium.com/p/3ac48eac7a0b) |
 | Tue, 26 Aug 2025 21:02:21 GMT | How Your Online Info Stays Safe (Without You Lifting a Finger) | FutureToolsExplained | [Read More](https://medium.com/p/a9c6faab5f11) |
 | Tue, 26 Aug 2025 21:00:41 GMT | CVE-2025–8088: WinRAR’s Zero-Day Path Traversal — From Zero to Pwn | Aditya Bhatt | [Read More](https://medium.com/p/441708ae6417) |
-| Tue, 26 Aug 2025 21:00:20 GMT | Projeto Prático: Configuração de Firewall Fortigate com VPN e Web Filtering (GreenByte Lab) | Rafaelspeda | [Read More](https://medium.com/p/af5020f0413a) |
-| Tue, 26 Aug 2025 20:58:13 GMT | ZeroFont Attacks: The Invisible Cyber Trick You Need to Know | Akshay Chauhan | [Read More](https://medium.com/p/b76619231cc8) |
-| Tue, 26 Aug 2025 20:53:05 GMT | API6:2023 — Unrestricted Access to Sensitive Business Flows | Apifort | [Read More](https://medium.com/p/94c56ef85d12) |
-| Tue, 26 Aug 2025 20:49:50 GMT | I’m glad to share that I have successfully completed the main technical track of the Cybersecurity… | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/c4d173f8a9d9) |
-| Tue, 26 Aug 2025 20:46:01 GMT | Offensive Security Intro | Anthony Mazyck | [Read More](https://medium.com/p/511739d1aae2) |
-| Tue, 26 Aug 2025 20:35:35 GMT | MCP Horror Stories: The Security Issues Threatening AI Infrastructure | Algorythmos AI | [Read More](https://medium.com/p/f4518d6eec2c) |
-| Tue, 26 Aug 2025 20:35:09 GMT | Cybercriminals Are Getting Smarter and What Your Business Needs to Do | e-Xplorations | [Read More](https://medium.com/p/d790e0712843) |
-| Tue, 26 Aug 2025 20:23:50 GMT | One Quote, Ten Seconds: How I Found SQL Injection in AVMS | Shivam Sharma | [Read More](https://medium.com/p/3d16be9cbe72) |
-| Tue, 26 Aug 2025 20:21:34 GMT | How I Built a Formal Verification System to Prevent DeFi Exploits | Kwame Bryan | [Read More](https://medium.com/p/5317a13239f4) |
