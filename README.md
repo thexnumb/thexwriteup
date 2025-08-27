@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 21:31:31 GMT | Real-World Threat Hunts: Stories from the Field | Yash Patel | [Read More](https://medium.com/p/a6f70e72968f) |
+| Wed, 27 Aug 2025 21:31:22 GMT | Top 10 XSS Payloads That Still Work in 2025 | Aj | [Read More](https://medium.com/p/9c258842caa2) |
+| Wed, 27 Aug 2025 21:30:47 GMT | More Firewalls Hacked : Why Your Perimeter is Under Siege | Shahzaib | [Read More](https://medium.com/p/84aab22a1178) |
+| Wed, 27 Aug 2025 21:18:19 GMT | Authentication vulnerabilities - 2FA simple bypass - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/d78900793589) |
+| Wed, 27 Aug 2025 21:18:13 GMT | Authentication vulnerabilities - Broken brute-force protection, multiple credentials per request -… | Kirolos Tamer | [Read More](https://medium.com/p/c86c9a5cad27) |
+| Wed, 27 Aug 2025 21:18:05 GMT | Authentication vulnerabilities - Broken brute-force protection, IP block - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/4dc9757d4bfe) |
 | Wed, 27 Aug 2025 21:03:29 GMT | Hunting Leaks at Go Speed: S3Rapthor, the Predator of Public S3 Buckets You Didn’t Know You Needed | KeyboardSamurai | [Read More](https://medium.com/p/45c1c7c8a72f) |
 | Wed, 27 Aug 2025 20:59:14 GMT | SOAR home lab (Part 1) | Khushdeep | [Read More](https://medium.com/p/997dfac07364) |
 | Wed, 27 Aug 2025 20:57:34 GMT | Rust’s Hidden Drop Order: The Bug That Doesn’t Exist (But Almost Did) | SyntaxSavage | [Read More](https://medium.com/p/0a99007a4be8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 15:56:41 GMT | The Rapid Evolution of Bank-Grade SaaS Security | Patrick Walsh | [Read More](https://medium.com/p/0f89c6e3aab4) |
 | Wed, 27 Aug 2025 15:56:23 GMT | Why Writing Less Code Makes You a 10x Better Developer | The Dev Notebook | [Read More](https://medium.com/p/749e1324362c) |
 | Wed, 27 Aug 2025 15:53:12 GMT | Haven1: Building the Future of Safe and Scalable DeFi | E-TRENDS | [Read More](https://medium.com/p/c6bc9bab29c9) |
-| Wed, 27 Aug 2025 15:47:19 GMT | Autonomous Security Governance in Web3: Drosera’s Redefinition of Community Defense | Charliewonders | [Read More](https://medium.com/p/2d153d5ae769) |
-| Wed, 27 Aug 2025 15:46:03 GMT | Edition 3:  Featured Story: Thinking Outside the “LegalTech” Box | Monica Zent | [Read More](https://medium.com/p/7ca29f93ac5a) |
-| Wed, 27 Aug 2025 15:44:51 GMT | ACLs Demystified — Part 1 | Emmanuel Ndeze | [Read More](https://medium.com/p/05440d90d810) |
-| Wed, 27 Aug 2025 15:44:49 GMT | Password Managers: Overhyped, Underused, or Cybersecurity’s Silent Hero? | Paradise technologies Inc | [Read More](https://medium.com/p/d735490503c4) |
-| Wed, 27 Aug 2025 15:42:53 GMT | Analyzing Network Security Step by Step | Cyber Security Research | [Read More](https://medium.com/p/b381b0696147) |
-| Wed, 27 Aug 2025 15:41:52 GMT | stay open at sunrise | Susan Brock | [Read More](https://medium.com/p/65a85ab81e7d) |
