@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 17:33:06 GMT | When My Wi-Fi Turned Against Me: The Dark Reality Of RapperBot | O. J. Okpabi | [Read More](https://medium.com/p/b728ee47f40f) |
+| Wed, 27 Aug 2025 17:31:01 GMT | Andreessen Horowitz’s $100M AI PAC: Essential Tips for Tech Leaders on Positioning for Success | Veronica Wagenet | [Read More](https://medium.com/p/0f8c58a9ad37) |
+| Wed, 27 Aug 2025 17:30:00 GMT | Making sense of BOLA in a Mindful Machine Age | Quintius Walker | [Read More](https://medium.com/p/9149e5d339ed) |
+| Wed, 27 Aug 2025 17:27:48 GMT | How the Internet Really Works: The Hidden Hierarchy from ICANN to Your Home Home.Ever | Amar ibnu dawod | [Read More](https://medium.com/p/19242ae7be9f) |
+| Wed, 27 Aug 2025 17:25:03 GMT | The WinRAR Exploit Nobody Saw Coming | Bashx0 | [Read More](https://medium.com/p/e6612b7b4ed7) |
+| Wed, 27 Aug 2025 17:20:50 GMT | Stewardship Under Uncertainty | Above The Firewall | [Read More](https://medium.com/p/c8a656502db1) |
+| Wed, 27 Aug 2025 17:16:40 GMT | Top 5 Programming Languages that Every Ethical Hacker Should Learn | Smith Adams | [Read More](https://medium.com/p/f8e75f2e77ac) |
+| Wed, 27 Aug 2025 17:16:14 GMT | Storm-0501: The Rise of Hybrid Ransomware and What It Means for Enterprises | Chetan Seripally | [Read More](https://medium.com/p/2be9b781a81d) |
+| Wed, 27 Aug 2025 17:06:33 GMT | Steganography: The Art of Hiding Secrets in Plain Sight | Padmini Ashwini | [Read More](https://medium.com/p/1e7eba1b6ad7) |
+| Wed, 27 Aug 2025 17:05:20 GMT | 5 Cybersecurity Websites Every Internet User Should Know About | Freya Andersen | [Read More](https://medium.com/p/d0145e21ced7) |
 | Wed, 27 Aug 2025 17:01:23 GMT | Enumeration Walkthrough | Mohamed Magdy | [Read More](https://medium.com/p/b3691049f46f) |
 | Wed, 27 Aug 2025 17:00:59 GMT | The Rising Storm: Why Cybersecurity Matters More Than Ever | CSCF-SUIET MUKKA | [Read More](https://medium.com/p/729a34feaa36) |
 | Wed, 27 Aug 2025 17:00:02 GMT | How to Build a Cybersecurity GRC Program from Scratch | Abdullateef Anuoluwa Hameed | [Read More](https://medium.com/p/5c78f17eba77) |
@@ -64,6 +74,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 15:14:18 GMT | Pen Testing Like a Pro: The Methodology Behind Real Breaches | Aj | [Read More](https://medium.com/p/3bfc7a658933) |
 | Wed, 27 Aug 2025 15:03:35 GMT | Inside the New Ransomware Alliances: Why Akira and Scattered Spider Are a Wake-Up Call for Business | Juan F Moreno | [Read More](https://medium.com/p/daca62788ab7) |
 | Wed, 27 Aug 2025 14:52:33 GMT | TryHackMe: Mr. Robot WalkThrough | Abul Kalam Azad | [Read More](https://medium.com/p/87c62e7575ad) |
+| Wed, 27 Aug 2025 14:52:20 GMT | Do MBA em Data Science ao Código: Detectando Deep Fakes em Biometria Facial com Modelo CNN e… | Marcelo Imbriani Bello | [Read More](https://medium.com/p/4e46de619a16) |
 | Wed, 27 Aug 2025 14:47:21 GMT | CraxsRat最新版本7.7下载链接2025 | CraxsRAT 7.7 最新版本下载 | [Read More](https://medium.com/p/3f7202b844cf) |
 | Wed, 27 Aug 2025 14:46:04 GMT | BEFORE THE EXPLOITS HAPPEN | Shawty komori | [Read More](https://medium.com/p/f4ea03221b41) |
 | Wed, 27 Aug 2025 14:45:48 GMT | Green Finance: 5 Eco-Friendly Investments to Watch in 2025 | Areeba | [Read More](https://medium.com/p/f39bd1a90dd7) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 13:10:09 GMT | Anatomy of a Real Phishing Attack: How Defentive Detected and Stopped It in Action | Defentive | [Read More](https://medium.com/p/7b8d5c126393) |
 | Wed, 27 Aug 2025 13:02:27 GMT | How I Found Full Account Takeover Worth $9750 in 24 Hours | Ibtissam hammadi | [Read More](https://medium.com/p/aa3712177b61) |
 | Wed, 27 Aug 2025 13:01:44 GMT | The Security Chief Who Stopped 10,000 Cyberattacks (While Everyone Slept) ⚠️ | Volans Aquilae | [Read More](https://medium.com/p/bd7c0fc03991) |
-| Wed, 27 Aug 2025 13:00:16 GMT | Kioptrix Lv1 Walkthrough | Mostafa Noor | [Read More](https://medium.com/p/92f16a7bfb80) |
-| Wed, 27 Aug 2025 12:58:30 GMT | 10 Best Secure Hosting Providers for Financial Blogs in 2025 | Priya Singh | [Read More](https://medium.com/p/99c689674b35) |
-| Wed, 27 Aug 2025 12:56:04 GMT | Node.js ile Backend Yazmak Güzel Peki Güvenlik? | Baharyıldız. | [Read More](https://medium.com/p/fdecae5d9026) |
-| Wed, 27 Aug 2025 12:49:29 GMT | Watch Our Cybersecurity Awareness Webinar | Cybersectoworld | [Read More](https://medium.com/p/b83d96aaf789) |
-| Wed, 27 Aug 2025 12:47:32 GMT | Security Questions Every Founder Should Be Asking Weekly | Evgeny Ermakov | [Read More](https://medium.com/p/7437eba20ebd) |
-| Wed, 27 Aug 2025 12:42:11 GMT | CloudSEK Hiring CTF 2025 | Kunal Rajour | [Read More](https://medium.com/p/9d2d8a8f89e6) |
-| Wed, 27 Aug 2025 12:40:11 GMT | The Many Faces of Cyber Compliance Frameworks and Standards | Dale Bingham | [Read More](https://medium.com/p/3a6fed61f599) |
-| Wed, 27 Aug 2025 12:37:39 GMT | Day 11: Linux Essentials → Flags, Redirection & Vim Editor | Prutha_Dongre | [Read More](https://medium.com/p/391dd64a8df5) |
-| Wed, 27 Aug 2025 12:35:26 GMT | AI vs. AI: How Generative Technology Is Powering the Next Wave of Cyberattacks | Keith Henry | [Read More](https://medium.com/p/6944a3a489d8) |
-| Wed, 27 Aug 2025 12:21:29 GMT | A Beginner’s Guide to Wireshark: Seeing What’s Really on Your Network | Akhil Binu | [Read More](https://medium.com/p/8b926d0a9c6c) |
-| Wed, 27 Aug 2025 12:20:15 GMT | Proof Of Concept: Terraform Privilege Escalation | Toshith | [Read More](https://medium.com/p/cd3db69df90e) |
