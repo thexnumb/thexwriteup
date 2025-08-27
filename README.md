@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 14:31:53 GMT | Slices of #ITisLikePizza with Perlexity.ai | Scott S Nelson, Solutionist | [Read More](https://medium.com/p/361e7903b321) |
+| Wed, 27 Aug 2025 14:30:36 GMT | XXE | Mohammed Hassan | [Read More](https://medium.com/p/72ec2726fc2c) |
+| Wed, 27 Aug 2025 14:27:28 GMT | Tackling 3rd-Party Supply Chain Attacks with R.A.I.D.E.R. | chris | [Read More](https://medium.com/p/4f9ae203b2a1) |
+| Wed, 27 Aug 2025 14:24:55 GMT | ✨ Convenience Was My Goal… Until Microsoft Store  Showed Me I Was Late to the Party | Hemanth Mouli.ch | [Read More](https://medium.com/p/ec9a3d29ca82) |
+| Wed, 27 Aug 2025 14:24:43 GMT | AWS IAM Explained Simply: The Bouncer and Rulebook That Protects Your Cloud | Prem Vishnoi(cloudvala) | [Read More](https://medium.com/p/13939a9d5349) |
 | Wed, 27 Aug 2025 14:13:33 GMT | The Silent Power of NIST RMF | Oluwaseye Fawale | [Read More](https://medium.com/p/40e38aa13760) |
 | Wed, 27 Aug 2025 14:10:39 GMT | Cephalus Ransomware Weaponizes Trust-From RDP Login to System Lockdown | Pentestjunkie07 | [Read More](https://medium.com/p/91b45ae6ae98) |
 | Wed, 27 Aug 2025 14:05:53 GMT | Implementing Advanced Authentication Strategies with NextAuth.js | @rnab | [Read More](https://medium.com/p/f2b4214b9412) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 07:35:00 GMT | Hybrid Encryption for Secure Document Sharing: What I Learned | Shreyash Galgale | [Read More](https://medium.com/p/ff9384b46471) |
 | Wed, 27 Aug 2025 07:33:31 GMT | Learn Android Hacking the Right Way: Core & Native Libraries Explained for Beginners (Chapter-02)… | xCY83RN4UT_ | [Read More](https://medium.com/p/9b0d2621dab5) |
 | Wed, 27 Aug 2025 07:28:10 GMT | Building Startecon: Company, Customers, and Culture | SampradaKhadka | [Read More](https://medium.com/p/fe93129c4ee5) |
-| Wed, 27 Aug 2025 07:26:25 GMT | Hack, Learn, Repeat: Red Teaming Through Games And Simulations | Redfox Security | [Read More](https://medium.com/p/df84e7635417) |
-| Wed, 27 Aug 2025 07:24:17 GMT | Working with OAuth in Laravel 10 for Login and Beyond: A Comprehensive Guide with Examples | Sandeeppant | [Read More](https://medium.com/p/89dffbe7d184) |
-| Wed, 27 Aug 2025 07:19:06 GMT | Web Basics: SMO, Search Behavior & Single Page Apps | Bhavesh Rajpurohit | [Read More](https://medium.com/p/9813857c2940) |
-| Wed, 27 Aug 2025 07:16:35 GMT | Analyzing Malware Analysis and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/77be425ef5a3) |
-| Wed, 27 Aug 2025 07:14:00 GMT | [HackTheBox Write-Up: Codify] | Prerana khanal | [Read More](https://medium.com/p/9ea60043bf7b) |
