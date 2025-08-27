@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 12:21:29 GMT | A Beginner’s Guide to Wireshark: Seeing What’s Really on Your Network | Akhil Binu | [Read More](https://medium.com/p/8b926d0a9c6c) |
+| Wed, 27 Aug 2025 12:20:15 GMT | Proof Of Concept: Terraform Privilege Escalation | Toshith | [Read More](https://medium.com/p/cd3db69df90e) |
+| Wed, 27 Aug 2025 12:11:52 GMT | Project #6: Web Enumeration + DNS Reconnaissance + Linux Privilege Escalation | NSESean | [Read More](https://medium.com/p/4e672f58ef82) |
+| Wed, 27 Aug 2025 12:08:20 GMT | Launch Your Cybersecurity Career with Confidence | BestJobTool | [Read More](https://medium.com/p/1f245e9d3218) |
+| Wed, 27 Aug 2025 12:01:35 GMT | Write-up PicoCTF: Web Exploitation ‘Inspect HTML’ | Muhammad Khairin | [Read More](https://medium.com/p/8620ef2f48ee) |
+| Wed, 27 Aug 2025 11:57:29 GMT | Whispers from the Net | Aura Synergia | [Read More](https://medium.com/p/066c9bd7d848) |
+| Wed, 27 Aug 2025 11:51:03 GMT | [CyberDefenders Write-up] ShadowRoast | Chicken0248 | [Read More](https://medium.com/p/f95dfe375fb7) |
+| Wed, 27 Aug 2025 11:44:58 GMT | Understanding Authorization to Operate (ATO): A Key Element in Secure IT Operations | Raviteja Mureboina | [Read More](https://medium.com/p/6f575580e441) |
+| Wed, 27 Aug 2025 11:44:20 GMT | PortSwigger Authentication Lab Çözümleri 1 | ENES KURTULAN | [Read More](https://medium.com/p/d357dad750b0) |
+| Wed, 27 Aug 2025 11:37:30 GMT | Vamp Byte #2 — Punycode & Homograph Attacks? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/40cc7644a924) |
+| Wed, 27 Aug 2025 11:36:06 GMT | The Ultimate Guide to SaaS Agreements: Protecting Your Business and Your Users | Hansen Tong | [Read More](https://medium.com/p/226475dc1669) |
+| Wed, 27 Aug 2025 11:34:59 GMT | Hier j’ai eu 30 ans | Olafemi the GOAT | [Read More](https://medium.com/p/756d1a611e42) |
+| Wed, 27 Aug 2025 11:32:02 GMT | HIPAA for SaaS: How Compliance Gaps Put Your Healthcare Revenue at Risk | SecureSlate | [Read More](https://medium.com/p/9c344b439f75) |
 | Wed, 27 Aug 2025 11:27:32 GMT | Even Basic Controls Matter: Lessons on MFA from Recent Research | Brittney Ginther | [Read More](https://medium.com/p/77b36dd4fcd3) |
 | Wed, 27 Aug 2025 11:27:09 GMT | Dijital Çağda Çevre Güvenliği | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/7d583734fddf) |
 | Wed, 27 Aug 2025 11:08:07 GMT | Can AI Catch a Deepfake Voice? Testing Speaker Verification Against Clones | Awesome Solutions | [Read More](https://medium.com/p/e4b07b0c2cf5) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 06:05:41 GMT | The Revolution of IoT: How Smart Devices Are Transforming Our World | Aşkım Serra Şahin | [Read More](https://medium.com/p/4baa4f5b4151) |
 | Wed, 27 Aug 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Aug 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6d31cb9e550b) |
 | Wed, 27 Aug 2025 05:56:04 GMT | Web Security 2025: 5 Red-Hot Attacks & Techniques You Can Cash In On Right Now | Vivek PS | [Read More](https://medium.com/p/4741b4ca434a) |
-| Wed, 27 Aug 2025 05:54:04 GMT | OSCP+ 證照心得 | ywc | [Read More](https://medium.com/p/2bd45e07b714) |
-| Wed, 27 Aug 2025 05:48:44 GMT | Screen Time: What’s Actually Healthy for Kids by Age | Cyberguardmom | [Read More](https://medium.com/p/1d91d07602c1) |
-| Wed, 27 Aug 2025 05:48:32 GMT | SSH Like a Hacker: 10 Advanced Tricks They Don’t Teach You in Tutorials | Karthick Dkk | [Read More](https://medium.com/p/50ae95f71c26) |
-| Wed, 27 Aug 2025 05:46:05 GMT | Parental Controls: A Step-by-Step Guide Every Parent Can Use | Cyberguardmom | [Read More](https://medium.com/p/5f25a2724285) |
-| Wed, 27 Aug 2025 05:42:36 GMT | 10 million people, 40% of Australia, all shut offline. This is how it was engineered. | IsaacFabianK | [Read More](https://medium.com/p/9c53b5e7c74e) |
-| Wed, 27 Aug 2025 05:41:59 GMT | Cyberbullying: A Parent’s Quick Guide to Protecting Your Child | Cyberguardmom | [Read More](https://medium.com/p/6de2cc6e1789) |
-| Wed, 27 Aug 2025 05:39:56 GMT | ‌ | Cyber News | [Read More](https://medium.com/p/183ddfd1ff76) |
-| Wed, 27 Aug 2025 05:38:54 GMT | Por que instalar o Diode Collab hoje: mais segurança, colaboração e recompensas. | IsaLeal | [Read More](https://medium.com/p/1d0798ed76f5) |
-| Wed, 27 Aug 2025 05:35:21 GMT | Cyber Resilience Act FAQ: Vulnerability handling | Sarah Fluchs | [Read More](https://medium.com/p/81ab28fc9ab7) |
-| Wed, 27 Aug 2025 05:33:31 GMT | To be or not to be | Lakshya Saarthi | [Read More](https://medium.com/p/b9a7dbf67e80) |
-| Wed, 27 Aug 2025 05:29:52 GMT | DC-2 Walkthrough: From WordPress Enumeration to Root Access | Abhinsubej | [Read More](https://medium.com/p/c1136157810a) |
-| Wed, 27 Aug 2025 05:23:50 GMT | Douglas Eze Identifies 6 Investments in Technology for Future Growth | Douglas Eze | [Read More](https://medium.com/p/12c07d316b18) |
-| Wed, 27 Aug 2025 05:17:47 GMT | AI Agent Gateways: The New Security Boundary | Dave Patten | [Read More](https://medium.com/p/6265732764b4) |
