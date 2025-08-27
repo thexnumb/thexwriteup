@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 04:26:47 GMT | Deepfake Malware: The Next Big Threat No One Is Talking About | Paritosh | [Read More](https://medium.com/p/8cbb7c228eca) |
 | Wed, 27 Aug 2025 04:20:17 GMT | The $4 Million Click: How Phishing Still Breaches Fortune 500s | Aj | [Read More](https://medium.com/p/fbccf1d1d37d) |
+| Wed, 27 Aug 2025 04:16:00 GMT | Denial of Service (DoS) in Smart Contracts: 5 Subtle Threats Every Developer Should Know | 0xh4145 | [Read More](https://medium.com/p/c69618534a25) |
 | Wed, 27 Aug 2025 04:11:10 GMT | Root causes of cyber incidents | Sarah Fluchs | [Read More](https://medium.com/p/e274b5d10727) |
 | Wed, 27 Aug 2025 04:07:34 GMT | Detecting Malware with Memory Forensics: A Deep Dive | Paritosh | [Read More](https://medium.com/p/dfd1458a8c37) |
 | Wed, 27 Aug 2025 04:02:51 GMT | Quantum-Safe by 2033: Microsoft’s Pledge and the Current Post Quantum Cryptography (PQC) Landscape | Gaurav Sharma | [Read More](https://medium.com/p/44261d00a5f6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 18:17:39 GMT | Agentic AI in the Healthcare Industry: Threats, Mitigations, and Key Considerations | Ryan Scott | [Read More](https://medium.com/p/3c285c902e10) |
 | Tue, 26 Aug 2025 18:15:39 GMT | Cyberbiosecurity : Securing Human Bodies | Shubhamkhatang | [Read More](https://medium.com/p/eef04fe150b9) |
 | Tue, 26 Aug 2025 18:13:26 GMT | How to Hunt Easy Vulnerabilities on Websites | Monika sharma | [Read More](https://medium.com/p/44024c3e301f) |
-| Tue, 26 Aug 2025 18:13:22 GMT | The Malware That Hacked macOS, Windows, and Linux — All at Once | Noel | [Read More](https://medium.com/p/536445648bb2) |
-| Tue, 26 Aug 2025 18:13:17 GMT | Unique ways to Recon for Bug Hunters: Short series [Part 2] | RivuDon | [Read More](https://medium.com/p/735d0b2fad2b) |
