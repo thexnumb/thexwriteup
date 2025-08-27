@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 09:26:45 GMT | One Login to Rule Them All: Understanding Single Sign-On (SSO) | Prem Patil | [Read More](https://medium.com/p/43a044d89870) |
+| Wed, 27 Aug 2025 09:18:25 GMT | Understanding PCI DSS: A Step-by-Step Guide for SMEs | Abdullateef Anuoluwa Hameed | [Read More](https://medium.com/p/ec526d94bef1) |
 | Wed, 27 Aug 2025 09:12:17 GMT | From Zero to Hacker Lab: Setting Up Kali Linux the Right Way [Lab 0] | Biplove Yadav | [Read More](https://medium.com/p/809259cfc1b4) |
 | Wed, 27 Aug 2025 09:10:45 GMT | Phishing in the Digital Age:using Zphisher | NizzCorp Academy | [Read More](https://medium.com/p/f06614d2352a) |
 | Wed, 27 Aug 2025 09:02:23 GMT | Deploying Wazuh with Docker (Single/Multi-Node). | Arfan Abid | [Read More](https://medium.com/p/0c7547c1c47a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 03:30:23 GMT | How to Fix Halo Upload Blocking Issues When Working With Scripts or Technical Docs | Quella | [Read More](https://medium.com/p/3360f166f47c) |
 | Wed, 27 Aug 2025 03:13:15 GMT | How I Started Hacking… With Just My Phone! | Amit Shukla | [Read More](https://medium.com/p/65324c98e5d6) |
 | Wed, 27 Aug 2025 03:04:25 GMT | ScriptCTF2025 —  PDF - whoisrushi | Rushikesh chaudhari | [Read More](https://medium.com/p/57a5c41cb8e1) |
-| Wed, 27 Aug 2025 03:01:40 GMT | Palantir in Germany: Secure Tech or U.S. Spy Tool? | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/a7510c3b511a) |
-| Wed, 27 Aug 2025 02:56:22 GMT | Fast, Encrypted, and Boring (in the Best Way): Backups with restic to AWS S3 | Munish Mehta | [Read More](https://medium.com/p/1126219ebf95) |
