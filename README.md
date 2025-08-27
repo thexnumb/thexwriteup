@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 15:39:02 GMT | Strengthening Kubernetes Security with Kubesec & Kube-bench | Aryan Khanmohammadi | [Read More](https://medium.com/p/56f85b47264f) |
+| Wed, 27 Aug 2025 15:30:56 GMT | ➡️ AI gives you ✅  not ❌ : Developer productivity toolkit | Jonathan Vila | [Read More](https://medium.com/p/78b05146af25) |
+| Wed, 27 Aug 2025 15:29:43 GMT | Neuromorphic Attacks: The Next Frontier in Cybersecurity Threats | Akshay Chauhan | [Read More](https://medium.com/p/7523f48459da) |
+| Wed, 27 Aug 2025 15:25:40 GMT | IA e Cybersecurity | Fabio Cricrì | [Read More](https://medium.com/p/18df1c4d2b3d) |
+| Wed, 27 Aug 2025 15:23:55 GMT | “Day 21: The Ghost API — How I Found a Secret Backdoor in a Fortune 500’s JavaScript” | Aman Sharma | [Read More](https://medium.com/p/5bd4f17e17dd) |
+| Wed, 27 Aug 2025 15:22:24 GMT | Bugs Are Not Vulnerabilities, and This is Why I Almost Gave Up | CypherNova1337 | [Read More](https://medium.com/p/d95ffc8d830b) |
+| Wed, 27 Aug 2025 15:20:49 GMT | Cybersecurity Unlocked: A Journey into Cybersec with Yash | Yash Kitey | [Read More](https://medium.com/p/0e545abcbe70) |
+| Wed, 27 Aug 2025 15:20:47 GMT | Weak Rate Limiting & Password Oracle in Change Email Endpoint Got me bounty reward. | Lakshya | [Read More](https://medium.com/p/15de040a656f) |
 | Wed, 27 Aug 2025 15:17:41 GMT | The Ghost Code Breach: Taspen Malware Revives Forgotten Infrastructure | Inforsecpro | [Read More](https://medium.com/p/98cdd1e98f27) |
 | Wed, 27 Aug 2025 15:17:21 GMT | So… Could I Login to Anyone Else Account by Accident? | Viratavi | [Read More](https://medium.com/p/2d1345406577) |
 | Wed, 27 Aug 2025 15:16:40 GMT | Pegasus, Palantir, and the Failure of Centralized Systems: Why Web3 (and Ripple/XRP) Are the… | Jkmmusichsv | [Read More](https://medium.com/p/edb3010b99a8) |
+| Wed, 27 Aug 2025 15:15:30 GMT | SuperRare Exploit Post-Mortem: How Mutation Testing Could Have Prevented the $730K Loss | Olympix | [Read More](https://medium.com/p/6eeca98b056e) |
 | Wed, 27 Aug 2025 15:14:18 GMT | Pen Testing Like a Pro: The Methodology Behind Real Breaches | Aj | [Read More](https://medium.com/p/3bfc7a658933) |
 | Wed, 27 Aug 2025 15:03:35 GMT | Inside the New Ransomware Alliances: Why Akira and Scattered Spider Are a Wake-Up Call for Business | Juan F Moreno | [Read More](https://medium.com/p/daca62788ab7) |
 | Wed, 27 Aug 2025 14:52:33 GMT | TryHackMe: Mr. Robot WalkThrough | Abul Kalam Azad | [Read More](https://medium.com/p/87c62e7575ad) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 09:33:07 GMT | Data Breach? It’s Not If, But When (And How to Respond) | Aj | [Read More](https://medium.com/p/a3cf1719b62d) |
 | Wed, 27 Aug 2025 09:26:45 GMT | One Login to Rule Them All: Understanding Single Sign-On (SSO) | Prem Patil | [Read More](https://medium.com/p/43a044d89870) |
 | Wed, 27 Aug 2025 09:18:25 GMT | Understanding PCI DSS: A Step-by-Step Guide for SMEs | Abdullateef Anuoluwa Hameed | [Read More](https://medium.com/p/ec526d94bef1) |
-| Wed, 27 Aug 2025 09:12:17 GMT | From Zero to Hacker Lab: Setting Up Kali Linux the Right Way [Lab 0] | Biplove Yadav | [Read More](https://medium.com/p/809259cfc1b4) |
-| Wed, 27 Aug 2025 09:10:45 GMT | Phishing in the Digital Age:using Zphisher | NizzCorp Academy | [Read More](https://medium.com/p/f06614d2352a) |
-| Wed, 27 Aug 2025 09:02:23 GMT | Deploying Wazuh with Docker (Single/Multi-Node). | Arfan Abid | [Read More](https://medium.com/p/0c7547c1c47a) |
-| Wed, 27 Aug 2025 08:57:39 GMT | How to Verify Your Website on Google Search Console (Step-by-Step for Beginners) | Anonymous Writer | [Read More](https://medium.com/p/a5bf17ab5a7a) |
-| Wed, 27 Aug 2025 08:57:32 GMT | Agile Overload: Stifled Creativity with Condescension Sprinkled on Top | Namir Sagheenanajar | [Read More](https://medium.com/p/f69122190a60) |
-| Wed, 27 Aug 2025 08:43:13 GMT | I Would Renounce Everything | 3S | [Read More](https://medium.com/p/b314e93e8f52) |
-| Wed, 27 Aug 2025 08:36:30 GMT | GuestCanPost: Your Gateway to Seamless Guest Blogging | Ketan Patel | [Read More](https://medium.com/p/c83a3bfd71cb) |
-| Wed, 27 Aug 2025 08:29:26 GMT | Part 4: Breaking Into Cybersecurity: Tools, Projects, Certifications, and Careers | Harini Ganesan | [Read More](https://medium.com/p/5a36a66af9af) |
-| Wed, 27 Aug 2025 08:21:52 GMT | Subdomain Takeover: How Empty Shops on the Internet Get Hijacked | Natarajan C K | [Read More](https://medium.com/p/b5d0e350b3cc) |
