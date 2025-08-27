@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 23:16:22 GMT | CyberSecurity in 60 Seconds | Configr Technologies | [Read More](https://medium.com/p/9f28cd1d82e9) |
 | Wed, 27 Aug 2025 23:06:09 GMT | More Browser Extensions Hacked | Matthew.Rosenquist | [Read More](https://medium.com/p/49fadd01b714) |
 | Wed, 27 Aug 2025 23:05:37 GMT | How Curiosity Made Me a Hacker | Cybernerddd | [Read More](https://medium.com/p/b369e0c0e1e2) |
 | Wed, 27 Aug 2025 23:00:26 GMT | Salt Typhoon: Why application-layer security, PQC, and verifiable identity are the only lasting… | Carsten Stöcker | [Read More](https://medium.com/p/c67871ee8e91) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 16:44:24 GMT | How I Prepared for the GIAC GFACT Exam and Scored 99% | Agata Kolodziej | [Read More](https://medium.com/p/5babaf9a0ff8) |
 | Wed, 27 Aug 2025 16:41:24 GMT | CCD Lab: Silent Breach (Noob Edition) | Winson | [Read More](https://medium.com/p/a4c2bc05737e) |
 | Wed, 27 Aug 2025 16:35:09 GMT | CyberSploit 1 Walkthrough: From Enumeration to Root | Abhinsubej | [Read More](https://medium.com/p/979774f0bec9) |
-| Wed, 27 Aug 2025 16:34:00 GMT | PromptLock: The Dawn of AI-Powered Ransomware and What It Means for Businesses | Chetan Seripally | [Read More](https://medium.com/p/782d62da594e) |
