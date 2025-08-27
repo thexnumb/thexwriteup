@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 05:35:21 GMT | Cyber Resilience Act FAQ: Vulnerability handling | Sarah Fluchs | [Read More](https://medium.com/p/81ab28fc9ab7) |
+| Wed, 27 Aug 2025 05:33:31 GMT | To be or not to be | Lakshya Saarthi | [Read More](https://medium.com/p/b9a7dbf67e80) |
+| Wed, 27 Aug 2025 05:29:52 GMT | DC-2 Walkthrough: From WordPress Enumeration to Root Access | Abhinsubej | [Read More](https://medium.com/p/c1136157810a) |
+| Wed, 27 Aug 2025 05:23:50 GMT | Douglas Eze Identifies 6 Investments in Technology for Future Growth | Douglas Eze | [Read More](https://medium.com/p/12c07d316b18) |
+| Wed, 27 Aug 2025 05:17:47 GMT | AI Agent Gateways: The New Security Boundary | Dave Patten | [Read More](https://medium.com/p/6265732764b4) |
 | Wed, 27 Aug 2025 05:14:36 GMT | Anatomy of a Backdoor: Deconstructing the UPSTYLE Malware Targeting Palo Alto Firewalls | Sohan Kanna D | [Read More](https://medium.com/p/30b5d1d1abcc) |
 | Wed, 27 Aug 2025 05:01:23 GMT | Day 43- Understand backups and resiliency | unica 02 | [Read More](https://medium.com/p/259dac1f66c8) |
 | Wed, 27 Aug 2025 04:58:51 GMT | CAB CHRONICLES 83: THE CALL | Ojonugwa John Attah (The_Write_Attah™) | [Read More](https://medium.com/p/10bee41bfb94) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 19:09:20 GMT | Recruitment Scams: The Hidden Crisis Costing Billions & Shattering Lives | NIkhil Kumar | [Read More](https://medium.com/p/8baef306b21f) |
 | Tue, 26 Aug 2025 18:56:25 GMT | Business Logic Vulnerabilities: Simple Tricks, Serious Consequences | M.sriman | [Read More](https://medium.com/p/4f3ffc3d79a3) |
 | Tue, 26 Aug 2025 18:55:09 GMT | AI Hacking Explained: How Artificial Intelligence is Transforming Cybersecurity, Ethical Hacking… | Pensora IQ Team | [Read More](https://medium.com/p/0289039a517e) |
-| Tue, 26 Aug 2025 18:54:58 GMT | The Hidden Cost of Scams: Why Digital Verification is No Longer Optional | NIkhil Kumar | [Read More](https://medium.com/p/964c3ae451f2) |
-| Tue, 26 Aug 2025 18:51:41 GMT | Cyber Threat Intelligence: Turning Data into Defense | SafeAeon Inc. | [Read More](https://medium.com/p/c73b2ea571dc) |
-| Tue, 26 Aug 2025 18:49:52 GMT | The Lesson I Learned on the Bathroom Floor | Angie Hawkins | [Read More](https://medium.com/p/50a3367a7f68) |
-| Tue, 26 Aug 2025 18:46:26 GMT | Why Outsourcing Your SOC is a Smarter Move | SafeAeon Inc. | [Read More](https://medium.com/p/64c60ce9290c) |
-| Tue, 26 Aug 2025 18:42:27 GMT | CEH Practical Exam Notes (v12) — iLabs Walkthrough | Hunter | [Read More](https://medium.com/p/48f30320b924) |
