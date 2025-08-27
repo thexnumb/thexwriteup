@@ -12,7 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 16:18:26 GMT | Understanding HIPAA: A Comprehensive Guide | CSFaaS | [Read More](https://medium.com/p/fcab857d2cf5) |
+| Wed, 27 Aug 2025 16:12:19 GMT | How to use SOPS | Alexey Tozik | [Read More](https://medium.com/p/5d77d83cf445) |
+| Wed, 27 Aug 2025 16:05:29 GMT | Your vulnerability is both personal and relational. | Josenaldo Silva, psicanalista. | [Read More](https://medium.com/p/8ce7de1da10e) |
+| Wed, 27 Aug 2025 16:03:05 GMT | “The End of Passwords Is Near”-Look Why????? | L Churchill | [Read More](https://medium.com/p/b53993975a87) |
+| Wed, 27 Aug 2025 16:02:38 GMT | Web3 Hype vs Reality: Is It Worth the Grind? | aswinsuriya | [Read More](https://medium.com/p/11e600c78f5b) |
+| Wed, 27 Aug 2025 16:02:32 GMT | Agentic AI: The Cybersecurity Challenge Boards Must Govern | Antonio Bovoso | [Read More](https://medium.com/p/bceb15593160) |
+| Wed, 27 Aug 2025 16:00:30 GMT | Salesloft OAuth Breach via Drift AI Integration: A Wake-Up Call for SaaS Security | Chetan Seripally | [Read More](https://medium.com/p/d84b42f27f02) |
+| Wed, 27 Aug 2025 15:59:36 GMT | The Hacker’s Toolkit: Mastering Your Wi-Fi Card in Kali Linux [Lab-1] | Biplove Yadav | [Read More](https://medium.com/p/ef9dfeb630fc) |
+| Wed, 27 Aug 2025 15:58:36 GMT | Using Agentless Cloud Security to Meet HIPAA and PCI Compliance Requirements: A Case for Wiz | Christopher | [Read More](https://medium.com/p/59bc5f003b8b) |
+| Wed, 27 Aug 2025 15:56:41 GMT | The Rapid Evolution of Bank-Grade SaaS Security | Patrick Walsh | [Read More](https://medium.com/p/0f89c6e3aab4) |
+| Wed, 27 Aug 2025 15:56:23 GMT | Why Writing Less Code Makes You a 10x Better Developer | The Dev Notebook | [Read More](https://medium.com/p/749e1324362c) |
+| Wed, 27 Aug 2025 15:53:12 GMT | Haven1: Building the Future of Safe and Scalable DeFi | E-TRENDS | [Read More](https://medium.com/p/c6bc9bab29c9) |
+| Wed, 27 Aug 2025 15:47:19 GMT | Autonomous Security Governance in Web3: Drosera’s Redefinition of Community Defense | Charliewonders | [Read More](https://medium.com/p/2d153d5ae769) |
+| Wed, 27 Aug 2025 15:46:03 GMT | Edition 3:  Featured Story: Thinking Outside the “LegalTech” Box | Monica Zent | [Read More](https://medium.com/p/7ca29f93ac5a) |
+| Wed, 27 Aug 2025 15:44:51 GMT | ACLs Demystified — Part 1 | Emmanuel Ndeze | [Read More](https://medium.com/p/05440d90d810) |
+| Wed, 27 Aug 2025 15:44:49 GMT | Password Managers: Overhyped, Underused, or Cybersecurity’s Silent Hero? | Paradise technologies Inc | [Read More](https://medium.com/p/d735490503c4) |
+| Wed, 27 Aug 2025 15:42:53 GMT | Analyzing Network Security Step by Step | Cyber Security Research | [Read More](https://medium.com/p/b381b0696147) |
+| Wed, 27 Aug 2025 15:41:52 GMT | stay open at sunrise | Susan Brock | [Read More](https://medium.com/p/65a85ab81e7d) |
+| Wed, 27 Aug 2025 15:41:21 GMT | [CyberDefenders Write-up] Kerberoasted (Investigate Kerberoasting leads to Service Installation… | Chicken0248 | [Read More](https://medium.com/p/a8183923779a) |
+| Wed, 27 Aug 2025 15:39:22 GMT | Analyzing Malware Analysis in the Digital Era | Cyber Security Research | [Read More](https://medium.com/p/3aba25e5fbfe) |
 | Wed, 27 Aug 2025 15:39:02 GMT | Strengthening Kubernetes Security with Kubesec & Kube-bench | Aryan Khanmohammadi | [Read More](https://medium.com/p/56f85b47264f) |
+| Wed, 27 Aug 2025 15:37:32 GMT | Analyzing Malware Analysis for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/e463b6fa1879) |
+| Wed, 27 Aug 2025 15:37:28 GMT | Hackthebox Starting Point (Bike) | Aayatullah Adeyemi | [Read More](https://medium.com/p/8955cacbf91d) |
 | Wed, 27 Aug 2025 15:30:56 GMT | ➡️ AI gives you ✅  not ❌ : Developer productivity toolkit | Jonathan Vila | [Read More](https://medium.com/p/78b05146af25) |
 | Wed, 27 Aug 2025 15:29:43 GMT | Neuromorphic Attacks: The Next Frontier in Cybersecurity Threats | Akshay Chauhan | [Read More](https://medium.com/p/7523f48459da) |
 | Wed, 27 Aug 2025 15:25:40 GMT | IA e Cybersecurity | Fabio Cricrì | [Read More](https://medium.com/p/18df1c4d2b3d) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 11:27:09 GMT | Dijital Çağda Çevre Güvenliği | Desecure Özel Güvenlik Hizmetleri | [Read More](https://medium.com/p/7d583734fddf) |
 | Wed, 27 Aug 2025 11:08:07 GMT | Can AI Catch a Deepfake Voice? Testing Speaker Verification Against Clones | Awesome Solutions | [Read More](https://medium.com/p/e4b07b0c2cf5) |
 | Wed, 27 Aug 2025 11:07:04 GMT | RDP Under Fire: How Remote Desktop Attacks Threaten Business Security. | eL Njas!™ | [Read More](https://medium.com/p/26b02a144033) |
-| Wed, 27 Aug 2025 11:04:00 GMT | The Digital Divide | Aboyeji Emmanuel Olusola | [Read More](https://medium.com/p/99cefedc472f) |
-| Wed, 27 Aug 2025 11:00:48 GMT | Why AI Makes Engineering More Essential, Not Less | Adewuyi Abayomi Daniel | [Read More](https://medium.com/p/a4ea2d246ae1) |
-| Wed, 27 Aug 2025 10:57:00 GMT | #Wipro Interview for Automation | Ajit Kumar | [Read More](https://medium.com/p/52a30ae9ec71) |
-| Wed, 27 Aug 2025 10:52:10 GMT | The Phantom Key: How a Single Typo Can Unlock Your Entire Digital Life | Kanwar Jiten Singh | [Read More](https://medium.com/p/30eb60abd050) |
-| Wed, 27 Aug 2025 10:41:09 GMT | The Ghost in the Machine: How a Secret Cyber Heist Unlocked a Global Superpower | Kanwar Jiten Singh | [Read More](https://medium.com/p/56e5eeafe7e6) |
-| Wed, 27 Aug 2025 10:37:30 GMT | Vulnhub Walkthrough: Toppo (Beginner-Friendly CTF) | Aryan Tiwari | [Read More](https://medium.com/p/88de26c12832) |
-| Wed, 27 Aug 2025 10:36:57 GMT | Understanding Common Criteria: What It Is and Why It Matters in IT Security | Raviteja Mureboina | [Read More](https://medium.com/p/886a394ab919) |
-| Wed, 27 Aug 2025 10:34:45 GMT | PM Modi Is Not Picking Up Donald Trump’s Phone Call | Everclear | [Read More](https://medium.com/p/6acf85bea69c) |
-| Wed, 27 Aug 2025 10:27:26 GMT | How GitLab Avoided €20M+ in Legal Fines With One Quick Fix: The One Small Mistake That Almost… | Justas_b | [Read More](https://medium.com/p/cefb4b581c0e) |
-| Wed, 27 Aug 2025 10:23:02 GMT | DockerLabs Writeup — Hidden (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/dd0d3fdfd8de) |
-| Wed, 27 Aug 2025 10:15:47 GMT | Nigeria Is at War, and It’s a War of Survival | Ishola Quwam | [Read More](https://medium.com/p/66fe6f418018) |
-| Wed, 27 Aug 2025 10:15:36 GMT | DROSERA 101: INTRODUCTION TO DROSERA | Mary Cynthia | [Read More](https://medium.com/p/3e1a8aa807f0) |
-| Wed, 27 Aug 2025 10:12:57 GMT | How to balance our lifestyle in the tech world? | Noddy Kady | [Read More](https://medium.com/p/59212572d0eb) |
-| Wed, 27 Aug 2025 10:07:37 GMT | What’s Really Handling Your Web Traffic? A Deep Dive into Proxies | Tushar Banik | [Read More](https://medium.com/p/61cf2cab41a6) |
-| Wed, 27 Aug 2025 09:59:05 GMT | Nigel Farage Lays Out UK Migration Plan: A Fortress Britain or a Nation Betrayed? | Everclear | [Read More](https://medium.com/p/27e6d40661a0) |
-| Wed, 27 Aug 2025 09:56:28 GMT | MailGuard: The Ultimate Email Security Tool to Protect Your Domain from Hacks | Mohamed.cybersec | [Read More](https://medium.com/p/88ec478ecf9e) |
-| Wed, 27 Aug 2025 09:49:16 GMT | The Daily Tech Digest: 27 August 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c820fa8e2443) |
-| Wed, 27 Aug 2025 09:43:36 GMT | I Sold My Old Laptop Without Wiping It; Here’s What Happened | Shahzaib | [Read More](https://medium.com/p/5263303044cc) |
-| Wed, 27 Aug 2025 09:38:26 GMT | Top 5 Cyber Security Skills That Recruiters Look For | GRAStech | [Read More](https://medium.com/p/25354284e78a) |
-| Wed, 27 Aug 2025 09:33:07 GMT | Data Breach? It’s Not If, But When (And How to Respond) | Aj | [Read More](https://medium.com/p/a3cf1719b62d) |
-| Wed, 27 Aug 2025 09:26:45 GMT | One Login to Rule Them All: Understanding Single Sign-On (SSO) | Prem Patil | [Read More](https://medium.com/p/43a044d89870) |
-| Wed, 27 Aug 2025 09:18:25 GMT | Understanding PCI DSS: A Step-by-Step Guide for SMEs | Abdullateef Anuoluwa Hameed | [Read More](https://medium.com/p/ec526d94bef1) |
