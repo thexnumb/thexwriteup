@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 08:21:52 GMT | Subdomain Takeover: How Empty Shops on the Internet Get Hijacked | Natarajan C K | [Read More](https://medium.com/p/b5d0e350b3cc) |
+| Wed, 27 Aug 2025 08:20:03 GMT | What Most Devs Get Wrong About Database Performance | Rizqi Mulki | [Read More](https://medium.com/p/8a89ee571a09) |
+| Wed, 27 Aug 2025 08:18:55 GMT | Practical API Security Guide: From Vulnerable to Bulletproof | Rizqi Mulki | [Read More](https://medium.com/p/0c32c3d40bec) |
+| Wed, 27 Aug 2025 08:05:53 GMT | Enhancing Web Security with OAuth2 and NestJS Applications | @rnab | [Read More](https://medium.com/p/2f5a60bc7f16) |
+| Wed, 27 Aug 2025 08:01:38 GMT | DHCP, DNS, and NTP: The Holy Trinity of Network Services That Just Work | MayhemCode | [Read More](https://medium.com/p/8873656c3b7e) |
+| Wed, 27 Aug 2025 08:01:38 GMT | The #1 Security Mistake in AI-Generated Code You’re Probably Making | AI Rabbit | [Read More](https://medium.com/p/63e30a86da0f) |
+| Wed, 27 Aug 2025 08:01:38 GMT | Why Hackers Are Using AI (And How You Can Too — Ethically!) | Cyberkech | [Read More](https://medium.com/p/9605f9289e02) |
+| Wed, 27 Aug 2025 07:50:36 GMT | Mass Extract API endpoints | AbhirupKonwar | [Read More](https://medium.com/p/8b26abb73591) |
+| Wed, 27 Aug 2025 07:43:39 GMT | RBAC Nedir ve Neden Modern Uygulamalarda Bu Kadar Önemlidir? | BekirBurakSaka | [Read More](https://medium.com/p/e9dc8a5c2298) |
+| Wed, 27 Aug 2025 07:40:59 GMT | A New Era of Trust: Omani Data Center Security in Focus | expbhavya | [Read More](https://medium.com/p/57097724fb22) |
+| Wed, 27 Aug 2025 07:40:09 GMT | How the Internet Is Governed — and How Traffic Reaches You | MierafA | [Read More](https://medium.com/p/dad3e11e9eff) |
+| Wed, 27 Aug 2025 07:37:51 GMT | ️ Recon – The Art of Listening Before Speaking | Raj Islam | [Read More](https://medium.com/p/a410f3c61bbb) |
+| Wed, 27 Aug 2025 07:35:00 GMT | Hybrid Encryption for Secure Document Sharing: What I Learned | Shreyash Galgale | [Read More](https://medium.com/p/ff9384b46471) |
+| Wed, 27 Aug 2025 07:33:31 GMT | Learn Android Hacking the Right Way: Core & Native Libraries Explained for Beginners (Chapter-02)… | xCY83RN4UT_ | [Read More](https://medium.com/p/9b0d2621dab5) |
 | Wed, 27 Aug 2025 07:28:10 GMT | Building Startecon: Company, Customers, and Culture | SampradaKhadka | [Read More](https://medium.com/p/fe93129c4ee5) |
 | Wed, 27 Aug 2025 07:26:25 GMT | Hack, Learn, Repeat: Red Teaming Through Games And Simulations | Redfox Security | [Read More](https://medium.com/p/df84e7635417) |
+| Wed, 27 Aug 2025 07:24:17 GMT | Working with OAuth in Laravel 10 for Login and Beyond: A Comprehensive Guide with Examples | Sandeeppant | [Read More](https://medium.com/p/89dffbe7d184) |
 | Wed, 27 Aug 2025 07:19:06 GMT | Web Basics: SMO, Search Behavior & Single Page Apps | Bhavesh Rajpurohit | [Read More](https://medium.com/p/9813857c2940) |
 | Wed, 27 Aug 2025 07:16:35 GMT | Analyzing Malware Analysis and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/77be425ef5a3) |
 | Wed, 27 Aug 2025 07:14:00 GMT | [HackTheBox Write-Up: Codify] | Prerana khanal | [Read More](https://medium.com/p/9ea60043bf7b) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 02:11:34 GMT | Stock Market Trading Part-5 | Written By Richu | [Read More](https://medium.com/p/96772ab8d8cb) |
 | Wed, 27 Aug 2025 01:50:32 GMT | Data Backup and Disaster Recovery Planning Services: Why They’re Essential for Every Business | Techridge Solutions | [Read More](https://medium.com/p/ca5c4763d52d) |
 | Wed, 27 Aug 2025 01:31:35 GMT | The Financial Foundation of Adult Serenity: How Money Buys Peace of Mind | Flaye Kate | [Read More](https://medium.com/p/cc36b6fc4e35) |
-| Wed, 27 Aug 2025 01:25:23 GMT | Zero Trust Architecture: Never Trust, Always Verify | Mahmut Yorgundag | [Read More](https://medium.com/p/0bb8fc8d62ed) |
-| Wed, 27 Aug 2025 01:08:53 GMT | Exposing a Travel Ad: How OSINT Turned New Zealand Into Russia’s Kamchatka | Horus | [Read More](https://medium.com/p/48973a6f1ebc) |
-| Wed, 27 Aug 2025 00:51:53 GMT | My Cybersecurity Journey – From Struggles to Becoming a Security Analyst and Engineer | Vignesh Joshi | [Read More](https://medium.com/p/05febb8e31b4) |
-| Wed, 27 Aug 2025 00:39:12 GMT | Adversarial Attacks on Multi-Sensor Fusion in Autonomous Vehicles | Aanshi P | [Read More](https://medium.com/p/036bfab873b1) |
-| Wed, 27 Aug 2025 00:23:36 GMT | Securing an Application Built with AI: Lessons from a Real-World Test | GABBYTECH | [Read More](https://medium.com/p/400648df34f8) |
-| Wed, 27 Aug 2025 00:16:26 GMT | TryHackMe Contrabando Room Write-Up CTF: (CVE-2023–25690/SSRF/ SSTI Scenario) | チェインズ・ナバーロ | [Read More](https://medium.com/p/44743b3baa8a) |
-| Wed, 27 Aug 2025 00:05:41 GMT | SOC166 — Javascript Code Detected in Requested URL (a.k.a. | Andrew Williams | [Read More](https://medium.com/p/1ab54cd5b11b) |
-| Wed, 27 Aug 2025 00:01:37 GMT | Shodan’s Guide for Cybersecurity Professionals: From Basic Search to Advanced Reconnaissance | JPablo13 | [Read More](https://medium.com/p/dbeeee21c638) |
-| Tue, 26 Aug 2025 23:36:25 GMT | Curtain of Fantasy. | Monica garcia | [Read More](https://medium.com/p/c7b3e1c4ac35) |
-| Tue, 26 Aug 2025 23:33:59 GMT | picoCTF#1: DISKO 1 | Rxuzuu | [Read More](https://medium.com/p/88f391eecc44) |
-| Tue, 26 Aug 2025 23:19:08 GMT | How to pimp your Windows computer? | Irmak ozarslan | [Read More](https://medium.com/p/b1a3b6db7b5a) |
-| Tue, 26 Aug 2025 23:10:30 GMT | It’s in the Name: Linux Malware Delivered via Filenames | Ashley Dai | [Read More](https://medium.com/p/29a428b0508c) |
-| Tue, 26 Aug 2025 23:09:44 GMT | Finishing the CPTS Path! | Josh Colpean | [Read More](https://medium.com/p/ed0a88c9f8bb) |
-| Tue, 26 Aug 2025 23:03:07 GMT | Bots and Fake Resumes: The Hidden Risks Sabotaging HR’s Cost-Saving Initiative | Kevin Kelly | [Read More](https://medium.com/p/2cbe9c8b995a) |
-| Tue, 26 Aug 2025 22:54:52 GMT | Getting started Anomali ThreatStream MCP | Hisashi Yamaguchi | [Read More](https://medium.com/p/9a028f1c27e7) |
