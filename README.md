@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 09:12:17 GMT | From Zero to Hacker Lab: Setting Up Kali Linux the Right Way [Lab 0] | Biplove Yadav | [Read More](https://medium.com/p/809259cfc1b4) |
+| Wed, 27 Aug 2025 09:10:45 GMT | Phishing in the Digital Age:using Zphisher | NizzCorp Academy | [Read More](https://medium.com/p/f06614d2352a) |
+| Wed, 27 Aug 2025 09:02:23 GMT | Deploying Wazuh with Docker (Single/Multi-Node). | Arfan Abid | [Read More](https://medium.com/p/0c7547c1c47a) |
+| Wed, 27 Aug 2025 08:57:39 GMT | How to Verify Your Website on Google Search Console (Step-by-Step for Beginners) | Anonymous Writer | [Read More](https://medium.com/p/a5bf17ab5a7a) |
+| Wed, 27 Aug 2025 08:57:32 GMT | Agile Overload: Stifled Creativity with Condescension Sprinkled on Top | Namir Sagheenanajar | [Read More](https://medium.com/p/f69122190a60) |
+| Wed, 27 Aug 2025 08:43:13 GMT | I Would Renounce Everything | 3S | [Read More](https://medium.com/p/b314e93e8f52) |
 | Wed, 27 Aug 2025 08:36:30 GMT | GuestCanPost: Your Gateway to Seamless Guest Blogging | Ketan Patel | [Read More](https://medium.com/p/c83a3bfd71cb) |
 | Wed, 27 Aug 2025 08:29:26 GMT | Part 4: Breaking Into Cybersecurity: Tools, Projects, Certifications, and Careers | Harini Ganesan | [Read More](https://medium.com/p/5a36a66af9af) |
 | Wed, 27 Aug 2025 08:21:52 GMT | Subdomain Takeover: How Empty Shops on the Internet Get Hijacked | Natarajan C K | [Read More](https://medium.com/p/b5d0e350b3cc) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 03:04:25 GMT | ScriptCTF2025 —  PDF - whoisrushi | Rushikesh chaudhari | [Read More](https://medium.com/p/57a5c41cb8e1) |
 | Wed, 27 Aug 2025 03:01:40 GMT | Palantir in Germany: Secure Tech or U.S. Spy Tool? | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/a7510c3b511a) |
 | Wed, 27 Aug 2025 02:56:22 GMT | Fast, Encrypted, and Boring (in the Best Way): Backups with restic to AWS S3 | Munish Mehta | [Read More](https://medium.com/p/1126219ebf95) |
-| Wed, 27 Aug 2025 02:54:56 GMT | Critical Vulnerability Alert: Weaver e-Office Remote Code Execution (RCE) — Patch Now | Quella | [Read More](https://medium.com/p/233adf1c9e4f) |
-| Wed, 27 Aug 2025 02:39:33 GMT | ScriptCTF Web — Renderer - whoisrushi | Rushikesh chaudhari | [Read More](https://medium.com/p/2a4b2269ea4b) |
-| Wed, 27 Aug 2025 02:35:38 GMT | Green Tech: Sustainable Technology for a Better Future | gnzprmnaa | [Read More](https://medium.com/p/ebff68b1d142) |
-| Wed, 27 Aug 2025 02:27:53 GMT | Why strong Passwords aren’t enough now? | Haider Ali | [Read More](https://medium.com/p/6f0f9bf728bc) |
-| Wed, 27 Aug 2025 02:19:36 GMT | How to handle infidelity in marriage | Miroslava Roksana | [Read More](https://medium.com/p/79ab47647a37) |
-| Wed, 27 Aug 2025 02:13:24 GMT | Integrating and Prioritizing Response Automation in the Detection Lifecycle | Maksim Goldenberg | [Read More](https://medium.com/p/adb565f37758) |
