@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 14:13:33 GMT | The Silent Power of NIST RMF | Oluwaseye Fawale | [Read More](https://medium.com/p/40e38aa13760) |
+| Wed, 27 Aug 2025 14:10:39 GMT | Cephalus Ransomware Weaponizes Trust-From RDP Login to System Lockdown | Pentestjunkie07 | [Read More](https://medium.com/p/91b45ae6ae98) |
+| Wed, 27 Aug 2025 14:05:53 GMT | Implementing Advanced Authentication Strategies with NextAuth.js | @rnab | [Read More](https://medium.com/p/f2b4214b9412) |
+| Wed, 27 Aug 2025 14:01:42 GMT | Cyber Briefing: 2025.08.27 | CyberMaterial | [Read More](https://medium.com/p/92ee33631810) |
+| Wed, 27 Aug 2025 14:01:37 GMT | Things I Learned This Week About Data Privacy | abdeldayemnour | [Read More](https://medium.com/p/e1c58a56a43d) |
+| Wed, 27 Aug 2025 14:00:15 GMT | Unpacking Trojan.Win32.RuKometa: A Malware Analysis Walkthrough | Vishwas Adhikari | [Read More](https://medium.com/p/d00576a91e27) |
+| Wed, 27 Aug 2025 13:58:46 GMT | The Y2K of DevSecOps: When PQC Breaks Your Pipelines | David Canellos | [Read More](https://medium.com/p/ecfc06e54f93) |
+| Wed, 27 Aug 2025 13:54:28 GMT | OT Threat Landscape | ThatOTSecurityGuy | [Read More](https://medium.com/p/ab0a7e8eb9a1) |
+| Wed, 27 Aug 2025 13:52:49 GMT | When States Fail, People Suffer: The Myanmar Crisis Through a Human Security Lens | 292 Wahyu Setya B. | [Read More](https://medium.com/p/6de223d78a51) |
+| Wed, 27 Aug 2025 13:36:01 GMT | BrunnerCTF 2025 - All Boot2Root WriteUp - STELK_CSC | Hack4Fun Academy | [Read More](https://medium.com/p/de5aceff960c) |
 | Wed, 27 Aug 2025 13:35:15 GMT | Secure Code Analysis: A04 — Insecure Direct Object References (IDOR) | Sevban Dönmez | [Read More](https://medium.com/p/7578f12b7b82) |
+| Wed, 27 Aug 2025 13:34:32 GMT | Reveal Lab — CyberDefenders | Eagledefenders | [Read More](https://medium.com/p/35d258957d96) |
 | Wed, 27 Aug 2025 13:27:34 GMT | From Civilian to Security Pro: Your 3-Step Guide to a Security Career in Illinois | Alpha Koncepts | [Read More](https://medium.com/p/345a15cb951e) |
 | Wed, 27 Aug 2025 13:25:04 GMT | XXE | Mohammed Hassan | [Read More](https://medium.com/p/6a9066d9c68b) |
 | Wed, 27 Aug 2025 13:24:52 GMT | Adding remember-me authentication with Spring Boot | Thomas Surmann | [Read More](https://medium.com/p/25ea11495180) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 07:19:06 GMT | Web Basics: SMO, Search Behavior & Single Page Apps | Bhavesh Rajpurohit | [Read More](https://medium.com/p/9813857c2940) |
 | Wed, 27 Aug 2025 07:16:35 GMT | Analyzing Malware Analysis and Best Practices | Cyber Security Research | [Read More](https://medium.com/p/77be425ef5a3) |
 | Wed, 27 Aug 2025 07:14:00 GMT | [HackTheBox Write-Up: Codify] | Prerana khanal | [Read More](https://medium.com/p/9ea60043bf7b) |
-| Wed, 27 Aug 2025 07:13:59 GMT | Analyzing IoT Security with Real-World Examples | Cyber Security Research | [Read More](https://medium.com/p/a5eb99256ffa) |
-| Wed, 27 Aug 2025 07:12:41 GMT | Analyzing IoT Security in Modern Networks | Cyber Security Research | [Read More](https://medium.com/p/89de2f2a085e) |
-| Wed, 27 Aug 2025 07:11:25 GMT | Analyzing IoT Security for Secure Systems | Cyber Security Research | [Read More](https://medium.com/p/5d48294cb3d7) |
-| Wed, 27 Aug 2025 07:10:07 GMT | Analyzing IoT Security for Professionals | Cyber Security Research | [Read More](https://medium.com/p/e1cefe7695eb) |
-| Wed, 27 Aug 2025 07:08:49 GMT | Analyzing IoT Security for Organizations | Cyber Security Research | [Read More](https://medium.com/p/4c25038bc080) |
-| Wed, 27 Aug 2025 07:07:26 GMT | Analyzing IoT Security for Beginners | Cyber Security Research | [Read More](https://medium.com/p/4232fffd7062) |
-| Wed, 27 Aug 2025 07:05:58 GMT | ประจำวันพุธที่ 27 สิงหาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/aae94b759a55) |
-| Wed, 27 Aug 2025 07:04:25 GMT | Complete Setup Guide for Automotive Application Testing (AAOS Emulator) | eSecForte Technologies | [Read More](https://medium.com/p/3b8dc34baba8) |
-| Wed, 27 Aug 2025 07:03:39 GMT | Recon Beyond Endpoints: Fingerprinting API Frameworks | Narendar Battula (nArEn) | [Read More](https://medium.com/p/3d80b929c254) |
-| Wed, 27 Aug 2025 07:01:37 GMT | Inventor: Historical Context Research Paper: Marie Van Brittan Brown, Inventor of the Home Security… | gab1930s | [Read More](https://medium.com/p/f5bda6fc5c5a) |
-| Wed, 27 Aug 2025 06:53:44 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/1eaea616cb02) |
