@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 19:35:26 GMT | Slopsquatting: AI Hallucinations Fueling a New Class of Software Supply Chain Attacks | Wes Young | [Read More](https://medium.com/p/68696d569a8a) |
+| Wed, 27 Aug 2025 19:33:05 GMT | From File Cabinets to Firewalls: Understanding InfoSec vs Cybersecurity | Ankita Ghosh | [Read More](https://medium.com/p/b124b5598665) |
+| Wed, 27 Aug 2025 19:28:36 GMT | The Cyber Attack On Colt Technology Services | O. J. Okpabi | [Read More](https://medium.com/p/368f597b7787) |
+| Wed, 27 Aug 2025 19:25:51 GMT | WannaCry Ransomware: A DFIR & SOC Monitoring Lab Walkthrough | Sparsh Ladani | [Read More](https://medium.com/p/9001f61a71e9) |
+| Wed, 27 Aug 2025 19:25:26 GMT | DNS Tunneling Detection: Uncovering Hidden Threats in Your Network | SafeAeon Inc. | [Read More](https://medium.com/p/4b30f595b147) |
+| Wed, 27 Aug 2025 19:19:16 GMT | My First vulnerability found (No-bounty) | dempsey | [Read More](https://medium.com/p/adcf07484d5f) |
+| Wed, 27 Aug 2025 19:15:54 GMT | Cybersecurity Workflow: A Step-by-Step Guide to Stronger Protection | SafeAeon Inc. | [Read More](https://medium.com/p/36b1e5e20b71) |
 | Wed, 27 Aug 2025 19:08:03 GMT | When Theft Scales, So Must Physics | Derek Wayne Bailey | [Read More](https://medium.com/p/977028b8c000) |
 | Wed, 27 Aug 2025 19:03:28 GMT | The Hidden Digital Footprints You Leave Online. | Mohammad Hasibul Hasan | [Read More](https://medium.com/p/08ddd794109c) |
 | Wed, 27 Aug 2025 19:03:10 GMT | What is OT Security and IEC 62443? A Journey from Industry 1.0 to Industry 5.0 by Sairaj Mahesh | Sairaj Mahesh | [Read More](https://medium.com/p/9380c846ae82) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 14:44:29 GMT | Is your tech stack keeping up with your growth? | Configr Technologies | [Read More](https://medium.com/p/ceb8cc689585) |
 | Wed, 27 Aug 2025 14:44:11 GMT | Beyond PCI and HIPAA: How Feroot Powers Personal Information Protection and Electronic Documents… | Feroot Security | [Read More](https://medium.com/p/b26ec73b2fc5) |
 | Wed, 27 Aug 2025 14:37:07 GMT | Should You Trust AI Browsers? | Somto Enendu | [Read More](https://medium.com/p/6694e713adbd) |
-| Wed, 27 Aug 2025 14:35:50 GMT | From Script Kiddie to Security Pro: My Unlikely Hacking Journey | Aj | [Read More](https://medium.com/p/909229a61510) |
-| Wed, 27 Aug 2025 14:35:10 GMT | Become Extraordinary: The Hacker’s Guide to Breaking Limits in Life and Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/26e08e6847e2) |
-| Wed, 27 Aug 2025 14:31:53 GMT | Slices of #ITisLikePizza with Perlexity.ai | Scott S Nelson, Solutionist | [Read More](https://medium.com/p/361e7903b321) |
-| Wed, 27 Aug 2025 14:30:36 GMT | XXE | Mohammed Hassan | [Read More](https://medium.com/p/72ec2726fc2c) |
-| Wed, 27 Aug 2025 14:27:28 GMT | Tackling 3rd-Party Supply Chain Attacks with R.A.I.D.E.R. | chris | [Read More](https://medium.com/p/4f9ae203b2a1) |
-| Wed, 27 Aug 2025 14:24:55 GMT | ✨ Convenience Was My Goal… Until Microsoft Store  Showed Me I Was Late to the Party | Hemanth Mouli.ch | [Read More](https://medium.com/p/ec9a3d29ca82) |
-| Wed, 27 Aug 2025 14:24:43 GMT | AWS IAM Explained Simply: The Bouncer and Rulebook That Protects Your Cloud | Prem Vishnoi(cloudvala) | [Read More](https://medium.com/p/13939a9d5349) |
