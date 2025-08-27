@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 03:35:52 GMT | Understanding the Brewer-Nash Model | Raviteja Mureboina | [Read More](https://medium.com/p/c0701570b004) |
+| Wed, 27 Aug 2025 03:34:06 GMT | Top 5 Free Malware Analysis Tools Every Beginner Should Use | Paritosh | [Read More](https://medium.com/p/7f9c8c96c814) |
+| Wed, 27 Aug 2025 03:31:37 GMT | Cyber Deception and AI Revolution | Akshat Ratanpal | [Read More](https://medium.com/p/79fb66ec6c13) |
+| Wed, 27 Aug 2025 03:31:37 GMT | Write-up PicoCTF: Web Exploitation ‘WebDecode’ | Muhammad Khairin | [Read More](https://medium.com/p/28286ccd4c66) |
+| Wed, 27 Aug 2025 03:31:37 GMT | How a Single Japanese Character is Being Used to Steal Your Data | Deven Chhajed | [Read More](https://medium.com/p/f0aa640b44c3) |
+| Wed, 27 Aug 2025 03:30:23 GMT | How to Fix Halo Upload Blocking Issues When Working With Scripts or Technical Docs | Quella | [Read More](https://medium.com/p/3360f166f47c) |
+| Wed, 27 Aug 2025 03:13:15 GMT | How I Started Hacking… With Just My Phone! | Amit Shukla | [Read More](https://medium.com/p/65324c98e5d6) |
+| Wed, 27 Aug 2025 03:04:25 GMT | ScriptCTF2025 —  PDF - whoisrushi | Rushikesh chaudhari | [Read More](https://medium.com/p/57a5c41cb8e1) |
+| Wed, 27 Aug 2025 03:01:40 GMT | Palantir in Germany: Secure Tech or U.S. Spy Tool? | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/a7510c3b511a) |
+| Wed, 27 Aug 2025 02:56:22 GMT | Fast, Encrypted, and Boring (in the Best Way): Backups with restic to AWS S3 | Munish Mehta | [Read More](https://medium.com/p/1126219ebf95) |
 | Wed, 27 Aug 2025 02:54:56 GMT | Critical Vulnerability Alert: Weaver e-Office Remote Code Execution (RCE) — Patch Now | Quella | [Read More](https://medium.com/p/233adf1c9e4f) |
 | Wed, 27 Aug 2025 02:39:33 GMT | ScriptCTF Web — Renderer - whoisrushi | Rushikesh chaudhari | [Read More](https://medium.com/p/2a4b2269ea4b) |
 | Wed, 27 Aug 2025 02:35:38 GMT | Green Tech: Sustainable Technology for a Better Future | gnzprmnaa | [Read More](https://medium.com/p/ebff68b1d142) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 26 Aug 2025 18:09:41 GMT | TryHackMe: Simple CTF Writeup - by 2No0b4YoU | 2No0b4YoU | [Read More](https://medium.com/p/882579839b55) |
 | Tue, 26 Aug 2025 18:09:11 GMT | Node.js Local Privilege Escalation Vulnerability | Monika sharma | [Read More](https://medium.com/p/0963cf7d44fb) |
 | Tue, 26 Aug 2025 18:06:11 GMT | From Entry-Level to Leadership: Cybersecurity Certifications Roadmap | Lucia Adams | [Read More](https://medium.com/p/fd8f1a27c8bb) |
-| Tue, 26 Aug 2025 18:04:11 GMT | PENTESTING WEB | lukewago | [Read More](https://medium.com/p/a86e4904749e) |
-| Tue, 26 Aug 2025 17:59:54 GMT | Microsoft’s New AI Risk Assessment Framework — A Step Forward | Matthew.Rosenquist | [Read More](https://medium.com/p/bcddca261918) |
-| Tue, 26 Aug 2025 17:57:48 GMT | How to Spy on Instagram Securely with the Best Spy Apps | Narjis Batool | [Read More](https://medium.com/p/ecddd183c97c) |
-| Tue, 26 Aug 2025 17:55:52 GMT | The Apple Wallet Hack Proved It: | Burns | [Read More](https://medium.com/p/512ad90df87f) |
-| Tue, 26 Aug 2025 17:54:23 GMT | Drosera: The Watchdog of DeFi Automation | Asmodeus | [Read More](https://medium.com/p/721594daac39) |
-| Tue, 26 Aug 2025 17:52:17 GMT | TuesdayTool 33: Gui-Dorking: A Modern Approach to Google Dorking | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/a7675e06def7) |
-| Tue, 26 Aug 2025 17:52:14 GMT | Authentication vulnerabilities - Username enumeration via response timing - PortSwigger | Kirolos Tamer | [Read More](https://medium.com/p/d75b34007469) |
-| Tue, 26 Aug 2025 17:45:23 GMT | The Psychology of the Cyber-Attack: Why Your Team Is the Easiest Door to Hack | vydhi | [Read More](https://medium.com/p/9f273745f5ed) |
-| Tue, 26 Aug 2025 17:32:51 GMT | The Stalker: How Shadow Profiles Put Your Privacy At Risk | O. J. Okpabi | [Read More](https://medium.com/p/a9d4c4008e67) |
-| Tue, 26 Aug 2025 17:31:40 GMT | : Hands-on Wazuh Setup - Parrot OS + LabVM (Cyber Operations) | CybVulnHunter | [Read More](https://medium.com/p/c82ae7ba2d0d) |
