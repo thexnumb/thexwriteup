@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 Aug 2025 18:35:27 GMT | How to Sign Out of All Devices on Disney Plus | www.OneCoolTip.com | [Read More](https://medium.com/p/9250563d05c0) |
+| Wed, 27 Aug 2025 18:32:19 GMT | How OAuth Device Flow Attacks Bypassed MFA: What the 2024–2025 Wave Means for Enterprise Security | Deepak Gupta | [Read More](https://medium.com/p/67d64ad6f04b) |
+| Wed, 27 Aug 2025 18:31:33 GMT | Zero Trust Isn’t Just a Slogan | Roshinni Gandhi | [Read More](https://medium.com/p/25c0ce28b844) |
 | Wed, 27 Aug 2025 18:24:27 GMT | My Journey Through the “Cyber Crime Investigation Course” | Nimit Ahir | [Read More](https://medium.com/p/d1319ebee996) |
 | Wed, 27 Aug 2025 18:23:51 GMT | Demystifying AWS IAM: A Guide to the Principle of Least Privilege | Alan Joseph Abraham | [Read More](https://medium.com/p/f66f763c62d9) |
 | Wed, 27 Aug 2025 17:53:55 GMT | it’s enough | Cinse Bonino | [Read More](https://medium.com/p/c8293fb2bd37) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 Aug 2025 14:00:15 GMT | Unpacking Trojan.Win32.RuKometa: A Malware Analysis Walkthrough | Vishwas Adhikari | [Read More](https://medium.com/p/d00576a91e27) |
 | Wed, 27 Aug 2025 13:58:46 GMT | The Y2K of DevSecOps: When PQC Breaks Your Pipelines | David Canellos | [Read More](https://medium.com/p/ecfc06e54f93) |
 | Wed, 27 Aug 2025 13:54:28 GMT | OT Threat Landscape | ThatOTSecurityGuy | [Read More](https://medium.com/p/ab0a7e8eb9a1) |
-| Wed, 27 Aug 2025 13:52:49 GMT | When States Fail, People Suffer: The Myanmar Crisis Through a Human Security Lens | 292 Wahyu Setya B. | [Read More](https://medium.com/p/6de223d78a51) |
-| Wed, 27 Aug 2025 13:36:01 GMT | BrunnerCTF 2025 - All Boot2Root WriteUp - STELK_CSC | Hack4Fun Academy | [Read More](https://medium.com/p/de5aceff960c) |
-| Wed, 27 Aug 2025 13:35:15 GMT | Secure Code Analysis: A04 — Insecure Direct Object References (IDOR) | Sevban Dönmez | [Read More](https://medium.com/p/7578f12b7b82) |
